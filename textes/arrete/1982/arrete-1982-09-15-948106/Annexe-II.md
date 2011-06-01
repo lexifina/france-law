@@ -14,7 +14,7 @@ Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea
 
 - trois pour les semences certifiées.
 
-ESPECES
+ESPÈCES
 
 |
 
@@ -22,37 +22,47 @@ CATÉGORIES
 
 |
 
-PURETÉ minimale variétale (% de graines),
+PURETÉ
+
+minimale variétale
+
+(% de graines)
 
 |
 
 FACULTÉ
 
-germinative
+germinative minimale
 
-minimale
-
-(% de graines).
+(% de graines)
 
 |
 
 PURETÉ
 
-spécifique
+spécifique minimale
 
-minimale (% en poids).
-
-|
-
-HUMIDITE
-
-Maximale (% en teneur d'eau)
+(% du poids)
 
 |
 
-TENEUR MAXIMALE
+HUMIDITÉ
 
-En nombre de graines d'autres espèces de plantes, y compris les grains rouges de riz, dans un échantillon du poids prévu à l'annexe IV
+maximale
+
+(% en teneur d'eau)
+
+|
+
+TENEUR EN NOMBRE DE GRAINS
+
+d'autres espèces de plantes,
+
+y compris les grains rouges
+
+dans un échantillon du poids
+
+prévu à l'annexe IV
 
 |
 
@@ -62,57 +72,25 @@ Total
 
 Autres
 
-Espèces
+espèces
 
 de céréales
 
 |
 
-Autres espèces de plantes
+Autres
+
+espèces
+
+de plantes
 
 |
 
-1
+Avoine, avoine maigre, blé dur, blé tendre, orge
 
 |
 
-2
-
-|
-
-3
-
-|
-
-4
-
-|
-
-5
-
-|
-
-6
-
-|
-
-7
-
-|
-
-8
-
-|
-
-9
-
-|
-
-Avoine, blé dur, blé tendre, orge
-
-|
-
-Semences de pré-base et de base
+Semences de prébase et de base
 
 |
 
@@ -140,17 +118,17 @@ Semences de pré-base et de base
 
 |
 
-Trois, dont :
+Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
 
-Un Raphanus raphanistrum ou Agrostemma githago ;
-
-0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c).
+|
 
 |
 
 Semences certifiées
 
 |
+
+1re génération
 
 99,7
 
@@ -176,11 +154,123 @@ Semences certifiées
 
 |
 
-Sept, dont :
+Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
 
-Trois Raphanus raphanistrum ou Agrostemma githago
+|
 
-0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
+|
+
+|
+
+2e génération
+
+99,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Avoine nue
+
+|
+
+Semences de prébase et de base
+
+|
+
+99,9
+
+|
+
+75 (a)
+
+|
+
+99
+
+|
+
+16,5
+
+|
+
+4
+
+|
+
+1 (b)
+
+|
+
+Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
+
+|
+
+|
+
+Semences certifiées
+
+|
+
+1re génération
+
+99,7
+
+|
+
+75
+
+|
+
+98
+
+|
+
+16,5
+
+|
+
+10
+
+|
+
+7
+
+|
+
+Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
+
+|
+
+|
+
+|
+
+2e génération
+
+99,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -188,7 +278,7 @@ Riz
 
 |
 
-Semences de pré-base et de base
+Semences de prébase et de base
 
 |
 
@@ -212,15 +302,15 @@ Semences de pré-base et de base
 
 |
 
-1 grain rouge.
+1 grain rouge
 
 |
 
-Un panicum sp. p.
+1 Panicum spp.
 
 |
 
-Semences certifiées :
+Semences certifiées
 
 |
 
@@ -248,7 +338,7 @@ Semences certifiées :
 
 |
 
-Trois Panicum sp. p.
+3 Panicum spp.
 
 |
 
@@ -256,19 +346,29 @@ Sarrasin
 
 |
 
-Semences de pré-base et de base :
+Semences de prébase et de base
 
 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Dont : 1 Fagopyrum tartaricum ou Rumex spp
 
 |
 
 Variété diploïde
 
-Variété tétraploïde
-
 |
-
-(d)
 
 (d)
 
@@ -276,17 +376,11 @@ Variété tétraploïde
 
 80
 
-80
-
 |
 
 98
 
-98
-
 |
-
-15
 
 15
 
@@ -294,25 +388,15 @@ Variété tétraploïde
 
 3
 
-1(e)
-
 |
 
 -
 
 |
 
-Dont : un Fagopyrum Tartaricum ou Rumex (sp. p) ou graine de renonculacée ou graine de caryophylacée (f)
+ou graine de renonculacée ou graine
 
 |
-
-Semences certifiées :
-
-|
-
-|
-
-Variété diploïde
 
 Variété tétraploïde
 
@@ -320,23 +404,67 @@ Variété tétraploïde
 
 (d)
 
+|
+
+80
+
+|
+
+98
+
+|
+
+15
+
+|
+
+1 (e)
+
+|
+
+-
+
+|
+
+de caryophyllacée (f)
+
+|
+
+Semences certifiées
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Dont : 3 Fagopyrum tartaricum ou Rumex spp
+
+|
+
+Variété diploïde
+
+|
+
 (d)
 
 |
 
 80
 
-80
-
 |
 
 97
 
-97
-
 |
-
-15
 
 15
 
@@ -344,25 +472,53 @@ Variété tétraploïde
 
 7
 
+|
+
+-
+
+|
+
+ou graine de renonculacée ou graine
+
+|
+
+Variété tétraploïde.
+
+|
+
+(d)
+
+|
+
+80
+
+|
+
+97
+
+|
+
+15
+
+|
+
 4
 
 |
 
 -
 
--
+|
+
+de caryophyllacée (f)
 
 |
 
-Dont : trois Fagopyrum Tartaricum ou Rumex (sp. p) ou graine de renonculacée ou graine de caryophylacée
+Seigle
 
 |
 
-Seigle ...................
-
-|
-
-Semences de pré-base et de base.
+Semences de prébase et de base
 
 |
 
@@ -390,15 +546,11 @@ Semences de pré-base et de base.
 
 |
 
-Trois, dont :
-
-Un Raphanus raphanistrum ou Agrostemma githago ;
-
-O Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
+Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
 
 |
 
-Semences certifiées.
+Semences certifiées
 
 |
 
@@ -426,19 +578,15 @@ Semences certifiées.
 
 |
 
-Sept, dont :
-
-Trois Raphanus raphanistrum ou Agrostemma githago ;
-
-O Avena fatua, Avena ludoviciana Avena sterilis, Lolium temulentum (c).
+Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
 
 |
 
-Maïs ....................
+Maïs
 
 |
 
-Semences de pré-base et de base
+Semences de prébase et de base
 
 |
 
@@ -492,7 +640,7 @@ Semences certifiées
 
 |
 
-‑
+-
 
 |
 
@@ -502,7 +650,7 @@ Triticale
 
 |
 
-Semences de pré-base et de base.
+Semences de prébase et de base
 
 |
 
@@ -510,7 +658,7 @@ Semences de pré-base et de base.
 
 |
 
-85 (a)
+80
 
 |
 
@@ -530,11 +678,7 @@ Semences de pré-base et de base.
 
 |
 
-Trois, dont :
-
-Un Raphanus raphanistrum ou Agrostemma githago ;
-
-O Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
+Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
 
 |
 
@@ -546,7 +690,7 @@ Semences certifiées
 
 |
 
-85 ( ter)
+80
 
 |
 
@@ -566,19 +710,15 @@ Semences certifiées
 
 |
 
-Sept, dont :
-
-Trois Raphanus raphanistrum ou Agrostemma githago ;
-
-0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c).
+Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
 
 |
 
-Sorgho
+Sorghum spp
 
 |
 
-Semences de pré-base et de base...
+Semences de prébase et de base
 
 |
 
@@ -608,7 +748,7 @@ Semences de pré-base et de base...
 
 |
 
-Semences certifiées et semences.
+Semences certifiées
 
 |
 
@@ -640,16 +780,16 @@ Semences certifiées et semences.
 
 (a) Les semences de base peuvent présenter une faculté germinative inférieure au taux prévu à condition que la faculté germinative réelle soit mentionnée dans le marquage.
 
-(a bis) La faculté germinative des semences certifiées peut être ramenée à 85% à la condition que mention en soit faite dans le marquage.
+(a bis) La faculté germinative des semences certifiées peut être ramenée à 85 % à la condition que mention en soit faite dans le marquage.
 
-(a ter) A condition qu'elles soient, à la fois, produites et commercialisées en France et qu'il en soit fait état dans l'étiquetage, la faculté germinative des semences certifiées peut être ramenée à 80% cette indication devant également être portée dans le marquage.
+(b) Une deuxième graine n'est pas considérée comme impureté si un second échantillon du même poids est exempt de graines d'autres espèces de céréales.
 
-(b) Une deuxième graine n'est pas considérée comme impureté si un second échantillon du même poids est exempt de graines d'autres de céréales.
+(c) La présence d'une graine d'Avena fatua, Avena ludoviciana, Avena sterilis ou Lolium temulentum dans un échantillon du poids fixé n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
 
-(c) La présence d'une graine d'Avena Fatua ludoviciana, Avena sterilis ou Lolium temulentum dans un échantillon du poids fixé n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
-
-(d) L'identité variétele et le taux de ploïdie doivent être conformes respectivement au type déposé et au taux observé lors de l'inscription au catalogue.
+(d) L'identité variétale et le taux de ploïdie doivent être conformes respectivement au type déposé et au taux observé lors de l'inscription au catalogue.
 
 (e) Une deuxième graine n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines d'autres plantes.
 
-(t) Une deuxième graine de l'une de ces espèces n'est pas considérée comme une impureté si un deuxième échantillon du même poids est exempt de graines de ces espèces.
+(f) Une deuxième graine de l'une de ces espèces n'est pas considérée comme une impureté si un deuxième échantillon du même poids est exempt de graines de ces espèces.
+
+|
