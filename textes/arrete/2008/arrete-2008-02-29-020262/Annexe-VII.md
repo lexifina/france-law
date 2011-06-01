@@ -32,7 +32,13 @@ Présence du dossier rassemblant des éléments relatifs aux risques (notamment 
 
 2.1. Règles d'implantation
 
-L'installation est implantée de manière à ce que la zone d'effets létaux significatifs (Z2 pyrotechnique) ne sorte pas des limites de propriété.
+L'installation est implantée de manière que la zone d'effets Z2 définie par l'arrêté du 20 avril 2007 modifié fixant les règles relatives à l'évaluation des risques et à la prévention des accidents dans les établissements pyrotechniques soit contenue dans l'enceinte du site. On entend par site la zone où aucune personne étrangère à l'exploitation de l'installation n'a libre accès.
+
+En complément des dispositions précédentes, les installations de stockages d'explosifs situés dans les réserves attenantes des établissements recevant du public mentionnées au point 11 de la présente annexe sont implantées de telle sorte que :
+
+- les zones d'effets Z1 à Z5 définies par l'arrêté du 20 avril 2007 susmentionné ne touchent pas l'espace de vente de l'établissement ;
+
+- les zones d'effets Z1 à Z4 définies par l'arrêté du 20 avril 2007 susmentionné ne touchent pas les zones accessibles au public, notamment les parkings.
 
 Dans un même bâtiment, les zones de stockage sont séparées des zones où peuvent avoir lieu des opérations de reconditionnement (par exemple opérations de prélèvements d'artifices de divertissement ou "picking") par un dispositif assurant le découplage ainsi que la propagation d'un incendie (cf. point 2.4).
 
@@ -53,6 +59,8 @@ Les bâtiments abritant l'installation pyrotechnique ne comportent ni étage, ni
 Clôture autour du (des) dépôt(s).
 
 Voies et aires de circulation convenablement entretenues, avec une surface de roulement nivelée exempte de trous, de saillies ou d'autres obstacles.
+
+Implantation des stockages d'explosifs situés dans les réserves attenant aux établissement recevant du public de manière à ce que les zones Z1 à Z5 définies par l'arrêté du 20 avril 2007 modifié fixant les règles relatives à l'évaluation des risques et à la prévention des accidents dans les établissements pyrotechniques ne touchent pas l'espace de vente de l'établissement et que les zones Z1 à Z4 définies par ledit arrêté ne touchent pas les zones accessibles au public.
 
 2.4. Comportement au feu des bâtiments
 
@@ -403,3 +411,71 @@ Objet du contrôle :
 Présence du registre.
 
 Présence de documents justificatifs de l'élimination.
+
+11. Stockages d'explosifs situés dans les réserves attenant aux établissement recevant du public
+
+11.2. Exploitation
+
+Un grillage ou tout moyen équivalent (cloisons, etc.) délimite la zone de prélèvement ou d'ouverture des emballages et permet d'éviter, en cas d'accident, la propagation de l'incendie par projection d'éléments enflammés.
+
+Objet du contrôle :
+
+Présence d'un grillage ou d'un moyen équivalent permettant d'éviter, en cas d'accident, la projection d'éléments enflammés et délimitant la zone d'ouverture des emballages.
+
+12. Stockages d'explosifs, destinés uniquement à la prévention des avalanches, situés dans les stations de sports d'hiver
+
+12.2. Comportement au feu des bâtiments
+
+Ces installations présentent les caractéristiques de réaction et de résistance au feu minimales suivantes :
+
+- matériaux : Bs2d0 ;
+
+- structure : R 15 ;
+
+- murs extérieurs : REI 15 ;
+
+- murs séparatifs : REI 15 ;
+
+- portes et fermetures : REI 15 ;
+
+- toitures et couvertures de toiture C roof (t3).
+
+Les justificatifs attestant des propriétés de résistance au feu sont conservés et tenus à disposition de l'inspection des installations classées et des organismes mentionnés au point 1.8.
+
+Objet du contrôle :
+
+Présentation du justificatif de conformité des caractéristiques de réaction et de résistance au feu des installations.
+
+12.4. Moyens de lutte contre l'incendie
+
+Le deuxième alinéa du point 4.3 n'est pas applicable aux installations mentionnées au point 12.1 si :
+
+- aucune installation, bâtiment ou équipement présentant un risque caractérisé d'incendie, d'explosion ou toxique et aucun tiers, à l'exception de personnes présentes sur les pistes de ski, les remontées mécaniques et les chemins de randonnées, ne sont présents dans une zone de 160 mètres autour des locaux de stockage ;
+
+- un débroussaillage et un élagage corrects des arbres sont maintenus dans un rayon de 50 mètres autour des locaux de stockage.
+
+Objet du contrôle :
+
+En cas de non-présence des moyens de lutte mentionnés au deuxième alinéa du point 4.3 de l'annexe I, vérification du respect des conditions de dérogation.
+
+12.5. Transports
+
+Pour les installations régulièrement mises en service avant le 15 mai 2011 ainsi que dans la seule période allant du 1er novembre au 31 mai pour les installations déclarées après le 15 mai 2011, sans préjudice des dispositions prévues par la réglementation relative au transport de marchandises dangereuses, dans le cas où le chargement ou le déchargement des véhicules de livraison au niveau de l'installation est physiquement impossible, ceux-ci peuvent s'effectuer à partir d'une aire strictement réservée à cet effet, durant tout le temps nécessaire à l'opération, sous réserve du respect des conditions suivantes :
+
+- lors du chargement ou du déchargement sur l'aire, aucune personne étrangère à cette opération ou à l'exploitation de l'installation ne se trouve à moins d'une distance de 65 mètres ;
+
+- durant toute l'opération de déchargement et de transfert, une personne autorisée par l'exploitant est présente en permanence pour s'assurer du bon déroulement des opérations et donner l'alerte le cas échéant ;
+
+- le transfert jusqu'au dépôt s'effectue par des chemins identifiés à l'avance et éloignés d'une distance suffisante de toute installation, équipement ou bâtiment présentant un risque caractérisé d'incendie ou d'explosion. Cette distance est au minimum de 30 mètres dans le cas où la quantité transportée est inférieure ou égale à 50 kg et de 40 mètres dans les autres cas ;
+
+- les personnes étrangères à l'opération de transfert ou à l'exploitation de l'installation sont tenues éloignées d'une distance suffisante des voies empruntées. Cette distance est au minimum de 30 mètres dans le cas où la quantité transportée est inférieure ou égale à 50 kg et de 40 mètres dans les autres cas.
+
+Objet du contrôle :
+
+Présence de l'aire de déchargement et existence des conditions d'éloignement de l'aire de 65 mètres de toute personne étrangère à l'opération (habitations, etc.).
+
+Présence de moyens de privatisation de l'aire et de la personne autorisée par l'exploitant.
+
+Présence de moyens d'éloignement des personnes étrangères à l'opération des voies empruntées.
+
+Respect de l'éloignement des voies de transfert de toute installation, équipement ou bâtiment présentant un risque caractérisé d'incendie ou d'explosion.
