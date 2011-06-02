@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217313
+
+- Question : [SEQ110217313](seq110217313.md) — Dénomination de vente des eaux rendues potables par traitement conditionnées
+
+## Réponse
+
+*Commerce, JO du 2011-06-02, page 1475*
+
+Le code de la santé publique prévoit trois dénominations de vente pour les eaux conditionnées : « eau minérale naturelle », « eau de source » et « eau rendue potable par traitement ». Une consultation sur l'opportunité de permettre l'usage de la dénomination « eau de table » pour les « eaux rendues potables par traitement » avait été initiée pour répondre à la demande des professionnels du secteur des eaux en bonbonne destinées aux fontaines à eau, qui souhaitaient disposer d'une dénomination de vente réglementairement définie autre que la dénomination « eau rendue potable par traitement ». En effet, à la suite d'une modification de la réglementation communautaire, la dénomination de vente « eau de boisson », utilisée jusque-là par les professionnels pour les eaux en bonbonne, a dû être abandonnée au profit de la dénomination légale appropriée selon le cas : « eau de source » pour les eaux provenant de sources répondant aux caractéristiques requises, ou « eau rendue potable par traitement » pour les autres eaux. Toutefois, lors de consultations menées au premier trimestre 2011, les professionnels du secteur des eaux embouteillées ont indiqué ne pas souhaiter de modification des dénominations de vente actuellement en vigueur. En outre, les représentants de l'Association française des fontaines à eau ont également indiqué ne pas souhaiter une modification du cadre réglementaire. Compte tenu de ces éléments et du fait qu'une évolution de la réglementation ne s'impose ni pour protéger la santé publique, ni pour satisfaire un impératif de protection du consommateur, il n'est pas envisagé de modification du décret applicable.
