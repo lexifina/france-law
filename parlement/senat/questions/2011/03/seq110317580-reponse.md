@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317580
+
+- Question : [SEQ110317580](seq110317580.md) — Calcul de la retraite des mères de famille médecins libérales
+
+## Réponse
+
+*Solidarités, JO du 2011-06-02, page 1496*
+
+Depuis le 1er janvier 2004, les règles de validation de trimestres d'assurance dans le régime d'assurance vieillesse de base des professions libérales sont alignées sur celles du régime général (une cotisation calculée sur un revenu correspondant à 200 fois le montant horaire du salaire minimum de croissance permet de valider un trimestre). Par ailleurs, s'agissant des droits liés à l'interruption de carrière et en particulier des droits liés à la maternité, l'article 65 de la loi n° 2009-1646 du 24 décembre 2009 de financement de la sécurité sociale pour 2010 a réformé la majoration de durée d'assurance pour enfants, en même temps qu'il a étendu l'ensemble des dispositions aux professions libérales, répondant ainsi au souhait de ces professions. Ensuite, l'article 6 de la loi du 9 novembre 2010 portant réforme des retraites étend le dispositif de la majoration de durée d'assurance pour éducation d'un enfant handicapé aux professions libérales. La loi a en outre ouvert une possibilité de rachat pour les professionnels libéraux qui subissent des carrières incomplètes du fait d'exonérations de début d'activité (période associée ou non à une maternité) à un coût inférieur à celui du rachat « Fillon ». L'ensemble de ces dispositions doivent permettre de satisfaire les revendications des femmes médecins obligées de réduire leur activité (et leurs cotisations retraite subséquentes) au titre de l'éducation de leur enfant et de prendre en compte les trimestres d'assurance correspondant à ces périodes. La situation des femmes médecins exerçant en libéral est désormais strictement alignée sur celle de leurs consoeurs salariées.
