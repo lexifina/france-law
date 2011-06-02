@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217291
+
+- Question : [SEQ110217291](seq110217291.md) — Filière équine
+
+## Réponse
+
+*Agriculture, JO du 2011-06-02, page 1455*
+
+La définition des actes de médecine vétérinaire portée par l'ordonnance publiée le 20 janvier 2011 est le fruit d'une concertation qui a rassemblé l'ensemble des représentants agricoles et vétérinaires et se veut une définition large des activités médicales du vétérinaire. Le texte donne ainsi une définition des actes de médecine et de chirurgie des animaux, qui inclut en effet la notion de détermination du statut physiologique. L'ordonnance sera complétée prochainement par des textes d'application qui permettront de définir, d'une part, la liste des actes médicaux et chirurgicaux qui pourront être réalisés par les propriétaires et détenteurs d'animaux d'espèce de rente en toute légalité, et d'autre part, les conditions de réalisation de ces actes. L'objectif de la rénovation de ces dispositions législatives et réglementaires est de préciser en droit les possibilités d'intervention des propriétaires et détenteurs d'animaux d'espèce de rente sur leurs propres animaux afin de lever l'insécurité juridique dans laquelle ceux-ci réalisaient certains actes. Cette rénovation est effectuée en étroite concertation avec les acteurs de terrain issus du monde agricole et vétérinaire afin que chacun puisse exprimer les besoins professionnels de sa filière. Par ailleurs, les représentants des ostéopathes et des dentistes équins se sont dernièrement rapprochés des représentants agricoles et vétérinaires qui oeuvrent à la rénovation du cadre normatif de l'exercice de la médecine et de la chirurgie des animaux. Des discussions sont actuellement en cours afin de déterminer la pertinence de la reconnaissance de l'activité de ces professionnels de la santé animale, dont l'exercice n'a jusqu'à présent jamais été reconnu par la législation.
