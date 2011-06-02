@@ -56,15 +56,13 @@ Les émissions de CO2 sont calculées selon la formule suivante :
 
 III-1.a. Données d'activité
 
-Ces exigences s'appliquent séparément à chacune des matières entrantes du four (autre que les combustibles), comme la craie ou le calcaire, en évitant la double comptabilisation et les omissions liées aux matières réintroduites ou bypassées ».
+Ces exigences s'appliquent séparément à chacune des matières entrantes du four (autre que les combustibles), comme la craie ou le calcaire, en évitant la double comptabilisation et les omissions liées aux matières réintroduites ou bypassées.
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
-Incertitude maximale pour la détermination de la quantité nette
-
-de matières entrantes [t] consommées pendant la période de déclaration
+Incertitude maximale pour la détermination de la quantité nette de matières entrantes [t] consommées pendant la période de déclaration
 
 |
 
@@ -94,7 +92,7 @@ Niveau 3
 
 III-1.b. Facteur d'émission
 
-NIVEAU DE MÉTHODE APPLICABLE
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -110,7 +108,7 @@ La quantité de CaCO3 et MgCO3 et de carbone organique (le cas échéant) dans c
 
 III-1.c. Facteur de conversion
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -142,13 +140,11 @@ Les émissions de CO2 sont calculées selon la formule suivante :
 
 III-2.a. Données d'activité
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
-Incertitude maximale pour la détermination de la quantité de chaux [t]
-
-produite pendant la période de déclaration
+Incertitude maximale pour la détermination de la quantité de chaux [t] produite pendant la période de déclaration
 
 |
 
@@ -170,7 +166,7 @@ Niveau 2
 
 III-2.b. Facteur d'émission
 
-NIVEAU DE MÉTHODE APPLICABLE
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -180,13 +176,11 @@ Niveau 1
 
 Les rapports stœchiométriques indiqués dans le tableau 5 de l'annexe I sont utilisés pour convertir les données sur la composition en facteurs d'émission, en considérant que la quantité totale de CaO et MgO provient des carbonates correspondants.
 
-La quantité de CaO et MgO et de carbone organique (le cas échéant) dans chaque matière entrante est déterminée conformément aux dispositions du III de l'annexe I.
-
-|
+La quantité de CaO et MgO et de carbone organique (le cas échéant) dans chaque matière entrante est déterminée conformément aux dispositions du III de l'annexe I. |
 
 III-2.c. Facteur de conversion
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -194,7 +188,7 @@ Niveau 1
 
 |
 
-Par mesure de prudence, on considère que la teneur en Ca et en Mg des matières premières est nulle, autrement dit que la quantité totale de Ca et de Mg présente dans le produit provient des matières premières carbonatées, ce qui se traduit par des facteurs de conversion de 1.
+Par mesure de prudence, on considère que la quantité de CaO et de MgO (autres que carbonates) dans les matières premières est nulle, autrement dit que la quantité totale de CaO et de MgO présente dans le produit provient des matières premières carbonatées, ce qui se traduit par des facteurs de conversion de 1.
 
 |
 
@@ -202,9 +196,7 @@ Niveau 2
 
 |
 
-La quantité de CaO et de MgO déjà présente dans les matières premières se traduit par des facteurs de conversion dont la valeur se situe entre 0 et 1, la valeur 1 correspondant à une conversion totale des carbonates contenus dans les matières premières en oxydes.
-
-La détermination des paramètres chimiques utiles des produits est effectuée conformément aux dispositions du III de l'annexe I.
+La quantité de CaO et de MgO (autres que carbonates) dans les matières premières se traduit par des facteurs de conversion dont la valeur se situe entre 0 et 1, la valeur 1 correspondant à une situation où tous les oxydes sont issus de la décarbonatation. La détermination des paramètres chimiques des matières premières est effectuée conformément au III de l'annexe I.
 
 |
 

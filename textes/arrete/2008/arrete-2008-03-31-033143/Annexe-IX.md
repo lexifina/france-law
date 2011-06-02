@@ -48,13 +48,11 @@ Le calcul est effectué comme suit :
 
 + émissions de CO2 épuration des effluents gazeux
 
-III-1. Emissions de CO2 provenant des matières entrantes
+III-1. Emissions de CO2 provenant des matières entrantes Les émissions de CO2 provenant des carbonates et du carbone contenus dans les autres matières entrantes sont calculées de deux manières : soit en se fondant sur la quantité de carbone inorganique et organique contenue dans les matières premières (par exemple divers carbonates, matières organiques contenues dans l'argile et les additifs) convertie lors du procédé de fabrication (méthode de calcul A), soit en se fondant sur la quantité d'oxydes alcalino-terreux contenue dans les céramiques produites (méthode de calcul B). Ces deux méthodes sont considérées comme équivalentes pour les céramiques fabriquées à partir d'argiles purifiées ou synthétiques. La méthode de calcul A doit être appliquée pour les produits céramiques fabriqués à partir d'argiles brutes et en cas d'utilisation d'argiles ou d'additifs à teneur élevée en matières organiques.
 
-Les émissions de CO2 provenant des carbonates et du carbone contenus dans les autres matières entrantes sont calculées de deux manières : soit en se fondant sur la quantité de carbone inorganique et organique contenue dans les matières premières (par exemple divers carbonates, matières organiques contenues dans l'argile et les additifs) convertie lors du procédé de fabrication (méthode de calcul A), soit en se fondant sur la quantité d'oxydes alcalino-terreux contenue dans les céramiques produites (méthode de calcul B). Ces deux méthodes sont considérées comme équivalentes pour les céramiques fabriquées à partir d'argiles purifiées ou synthétiques. La méthode de calcul A doit être appliquée pour les produits céramiques fabriqués à partir d'argiles brutes et en cas d'utilisation d'argiles ou d'additifs à teneur élevée en matières organiques.
+III-1.a. Méthode A : Apports de carbone
 
-III-1. a. Méthode A : Apports de carbone
-
-Le calcul se fonde sur l'apport en carbone (organique et inorganique) de chacune des matières premières (différents types d'argiles, mélanges d'argiles ou additifs). Le quartz / la silice, le feldspath, le kaolin et la stéatite ne constituent généralement pas des sources importantes de carbone.
+Le calcul se fonde sur l'apport en carbone (organique et inorganique) de chacune des matières premières (différents types d'argiles, mélanges d'argiles ou additifs). Le quartz/la silice, le feldspath, le kaolin et la stéatite ne constituent généralement pas des sources importantes de carbone.
 
 Les données d'activité, le facteur d'émission et le facteur de conversion doivent concerner le même état de la matière, de préférence l'état sec.
 
@@ -66,9 +64,9 @@ Les émissions de CO2 sont calculées selon la formule suivante :
 
 i) Données d'activité
 
-Ces exigences s'appliquent séparément à chacune des matières premières carbonées (autre que les combustibles), comme l'argile ou les additifs, en évitant la double comptabilisation et les omissions liées aux matières réintroduites ou bypassées ».
+Ces exigences s'appliquent séparément à chacune des matières premières carbonées (autre que les combustibles), comme l'argile ou les additifs, en évitant la double comptabilisation et les omissions liées aux matières réintroduites ou bypassées.
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -80,7 +78,7 @@ Niveau 1
 
 |
 
-± 7, 5 %
+± 7,5 %
 
 |
 
@@ -88,7 +86,7 @@ Niveau 2
 
 |
 
-± 5, 0 %
+± 5,0 %
 
 |
 
@@ -96,7 +94,7 @@ Niveau 3
 
 |
 
-± 2, 5 %
+± 2,5 %
 
 |
 
@@ -104,7 +102,7 @@ ii) Facteur d'émission
 
 Un facteur d'émission agrégé comprenant le carbone organique et inorganique peut être appliqué pour chaque flux (c'est-à-dire pour chaque mélange de matières premières ou additif). Il est également possible d'appliquer deux facteurs d'émission différents pour le carbone inorganique et le carbone organique pour chaque flux. Le cas échéant, les rapports stœchiométriques indiqués dans le tableau 5 de l'annexe I seront appliqués pour convertir les données sur la composition pour les différents carbonates. La fraction de la biomasse dans les additifs non considérés comme biomasse pure est déterminée conformément aux dispositions du I-2. d et du III-4 de l'annexe I.
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -112,7 +110,7 @@ Niveau 1
 
 |
 
-Par mesure de prudence, on utilise, pour le calcul des émissions, une valeur de 0, 2 tonne de CaCO3 (correspondant à 0, 087 94 tonne de CO2) par tonne d'argile sèche, au lieu de se fonder sur des résultats d'analyse.
+Par mesure de prudence, on utilise, pour le calcul des émissions, une valeur de 0,2 tonne de CaCO3 (correspondant à 0,087 94 tonne de CO2) par tonne d'argile sèche, au lieu de se fonder sur des résultats d'analyse.
 
 |
 
@@ -134,7 +132,7 @@ La composition des matières premières concernées est déterminée conforméme
 
 iii) Facteur de conversion
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -154,7 +152,7 @@ Les carbonates et le carbone sortant du four se traduisent par des facteurs de c
 
 |
 
-III-1. b. Méthode B : Oxydes alcalino-terreux
+III-1.b. Méthode B : Oxydes alcalino-terreux
 
 La calcination du CO2 est calculée à partir des quantités de céramiques produites et du CaO, du MgO et des autres oxydes alcalins ou alcalino-terreux contenus dans les céramiques (données d'activitéextrants). Le facteur d'émission doit être corrigé afin de tenir compte du Ca et du Mg déjà calcinés et des autres oxydes alcalins ou alcalino-terreux entrant dans le four (données d'activitéintrants), comme les combustibles et les matières premières de substitution contenant du CaO ou du MgO.
 
@@ -168,7 +166,7 @@ i) Données d'activité
 
 Les données d'activité des produits concernent la production brute, y compris les produits rejetés et le calcin des fours, ainsi que des expéditions.
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -180,7 +178,7 @@ Niveau 1
 
 |
 
-± 7, 5 %
+± 7,5 %
 
 |
 
@@ -188,7 +186,7 @@ Niveau 2
 
 |
 
-± 5, 0 %
+± 5,0 %
 
 |
 
@@ -196,7 +194,7 @@ Niveau 3
 
 |
 
-± 2, 5 %
+± 2,5 %
 
 |
 
@@ -204,7 +202,7 @@ ii) Facteur d'émission
 
 Un facteur d'émission agrégé sera calculé sur la base de la teneur du produit en oxydes métalliques concernés, au moyen des rapports stœchiométriques du tableau 5 de l'annexe I.
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -212,7 +210,7 @@ Niveau 1
 
 |
 
-Par mesure de prudence, on utilise, pour le calcul des émissions, une valeur de 0, 123 tonne de CaO (correspondant à 0, 096 42 tonne de CO2) par tonne de produit, au lieu de se fonder sur des résultats d'analyse.
+Par mesure de prudence, on utilise, pour le calcul des émissions, une valeur de 0,123 tonne de CaO (correspondant à 0, 096 42 tonne de CO2) par tonne de produit, au lieu de se fonder sur des résultats d'analyse.
 
 |
 
@@ -234,7 +232,7 @@ La composition des produits est déterminée conformément au III de l'annexe I.
 
 iii) Facteur de conversion
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -242,7 +240,7 @@ Niveau 1
 
 |
 
-Par mesure de prudence, on considère que la teneur en oxydes des matières premières est nulle, autrement dit que la quantité totale de Ca, Mg, Ba et d'autres oxydes alcalins présente dans le produit provient des matières premières carbonatées, ce qui se traduit par des facteurs de conversion de 1.
+Par mesure de prudence, on considère que la teneur en oxydes des matières premières est nulle, autrement dit que la quantité totale de CaO, MgO, BaO et d'autres oxydes alcalins présente dans le produit provient des matières premières carbonatées, ce qui se traduit par des facteurs de conversion de 1.
 
 |
 
@@ -256,7 +254,9 @@ La détermination des paramètres chimiques utiles des produits est effectuée c
 
 |
 
-III-2. Emissions de CO2 provenant du calcaire utilisé pour limiter les polluants atmosphériques et dans les autres opérations d'épuration des effluents gazeux
+III-2. Emissions de CO2 provenant du calcaire utilisé pour limiter les polluants atmosphériques
+
+et dans les autres opérations d'épuration des effluents gazeux
 
 Le CO2 provenant du calcaire utilisé pour limiter les polluants atmosphériques et dans les autres opérations d'épuration des effluents gazeux est calculé sur la base de l'apport en CaCO3. Il convient d'éviter une double comptabilisation du calcaire utilisé qui est recyclé pour être employé comme matière première dans la même installation.
 
@@ -264,9 +264,9 @@ Les émissions sont calculées de la façon suivante :
 
 émissions de CO2 = données d'activité × facteur d'émission
 
-III-2. a. Données d'activité
+III-2.a. Données d'activité
 
-NIVEAU DE MÉTHODE APPLICABLE
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -274,13 +274,13 @@ Niveau 1
 
 |
 
-La quantité [t] de CaCO3 sec consommée pendant la période de déclaration est déterminée par pesage, avec une incertitude maximale inférieure à ± 7, 5 %.
+La quantité [t] de CaCO3 sec consommée pendant la période de déclaration est déterminée par pesage, avec une incertitude maximale inférieure à ± 7,5 %.
 
 |
 
-III-2. b. Facteur d'émission
+III-2.b. Facteur d'émission
 
-NIVEAU DE MÉTHODE APPLICABLE
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -300,9 +300,9 @@ V.-Calcul des émissions par défaut
 
 La formule par défaut retenue pour le calcul des émissions des installations de production de produits céramiques est :
 
-Emissions (tCO2 / an) = Capacité de production
+Emissions (tCO2/an) = Capacité de production
 
-de l'installation (t de produit fabriqué) × 0, 48
+de l'installation (t de produit fabriqué) × 0,48
 
 La capacité de production est celle fixée par l'arrêté préfectoral d'autorisation.
 

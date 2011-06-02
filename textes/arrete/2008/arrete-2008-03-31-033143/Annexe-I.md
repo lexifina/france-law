@@ -22,7 +22,7 @@ Le calcul des émissions de combustion est décrit de manière détaillée à l'
 
 Emissions de procédé
 
-Les données d'activité se fondent sur la consommation et le transfert de matières ou sur la production, et sont exprimées en t ou en Nm ³. Le facteur d'émission est exprimé en [t CO2 / t ou t CO2 / Nm ³]. Le carbone contenu dans les matières entrantes qui n'est pas transformé en CO2 au cours du procédé est pris en compte dans le facteur de conversion, qui est exprimé en fraction. Lorsqu'un facteur de conversion est pris en compte dans le facteur d'émission, il n'est pas nécessaire d'appliquer un facteur de conversion distinct. La quantité de matières entrantes utilisée est exprimée en masse ou en volume [t ou Nm ³]. Il en résulte la formule de calcul suivante :
+Les données d'activité se fondent sur la consommation et le transfert de matières ou sur la production, et sont exprimées en t ou en Nm ³. Le facteur d'émission est exprimé en [t CO2/t ou t CO2/Nm³]. Le carbone contenu dans les matières entrantes qui n'est pas transformé en CO2 au cours du procédé est pris en compte dans le facteur de conversion, qui est exprimé en fraction. Lorsqu'un facteur de conversion est pris en compte dans le facteur d'émission, il n'est pas nécessaire d'appliquer un facteur de conversion distinct. La quantité de matières entrantes utilisée est exprimée en masse ou en volume [t ou Nm ³]. Il en résulte la formule de calcul suivante :
 
 Emissions de CO2 = données d'activité [t ou Nm ³] × facteur d'émission [t CO2 / t ou Nm ³] × facteur de conversion
 
@@ -182,7 +182,11 @@ Bio-huile (mazout produit par pyrolyse), biogaz.
 
 I-2. e. Le CO2 inhérent qui est transféré en tant que composant d'un combustible dans une installation relevant du système d'échange de quotas d'émission est comptabilisé dans le facteur d'émission défini pour ce combustible.
 
-Le CO2 inhérent, à l'exception de celui contenu dans les gaz visés au cinquième alinéa de l'article L. 229-7 du code de l'environnement provenant d'un flux mais transféré par la suite hors d'une installation en tant que composant d'un combustible peut être déduit des émissions de cette installation, qu'il soit ou non acheminé vers une autre installation relevant du système d'échange de quotas d'émission. En tout état de cause, il doit être enregistré pour mémoire.
+Le CO2 inhérent, à l'exception de celui contenu dans les gaz visés au cinquième alinéa de
+
+l'article L. 229-7
+
+du code de l'environnement provenant d'un flux mais transféré par la suite hors d'une installation en tant que composant d'un combustible peut être déduit des émissions de cette installation, qu'il soit ou non acheminé vers une autre installation relevant du système d'échange de quotas d'émission. En tout état de cause, il doit être enregistré pour mémoire.
 
 I-2. f. Le tableau 4 indique les facteurs d'émission indiqués par la France dans le dernier inventaire national remis au secrétariat de la convention-cadre des Nations unies sur les changements climatiques. Lorsqu'un combustible n'appartient pas à une catégorie de combustibles existante, l'exploitant doit se fonder sur son expérience pour le classer dans une catégorie appropriée.
 
@@ -190,13 +194,17 @@ Tableau 4. ― Facteurs d'émission et PCI nationaux par défaut
 
 Les PCI et FE s'appliquent aux combustibles quels que soient leur humidité, leur teneur en cendres et leur taux de soufre.
 
-Vous pouvez consulter le tableau dans le JO n° 145 du 22 / 06 / 2008 texte numéro 1
+Vous pouvez consulter le tableau dans le
+
+JO n° 145 du 22/06/2008 texte numéro 1
 
 I-2. g. Le tableau 5 indique les rapports stœchiométriques utilisables pour convertir les données sur la composition en facteurs d'émission dans le cadre du calcul des émissions de procédés.
 
 Tableau 5.-Rapports stœchiométriques
 
-Vous pouvez consulter le tableau dans le JO n° 145 du 22 / 06 / 2008 texte numéro 1
+Vous pouvez consulter le tableau dans le JO
+
+n° 127 du 01/06/2011 texte numéro 18
 
 I-3. Facteurs d'oxydation et de conversion
 
@@ -204,7 +212,7 @@ La proportion de carbone qui n'est pas oxydée ou convertie lors du procédé es
 
 I-4. CO2 transféré
 
-I-4. a.L'exploitant peut retrancher du niveau calculé des émissions de l'installation l'ensemble du CO2 qui n'est pas émis par l'installation, mais transféré hors de l'installation sous forme de substance pure, ou qui est utilisé et intégré directement dans des produits ou comme matière première, à condition que la déduction se traduise par une réduction correspondante pour l'activité et l'installation. La quantité respective de CO2 sera enregistrée pour mémoire. Un transfert de CO2 hors d'une installation peut notamment avoir lieu dans les situations suivantes :
+I-4. a.L'exploitant peut retrancher du niveau calculé des émissions de l'installation l'ensemble du CO2 qui n'est pas émis par l'installation, mais transféré hors de l'installation sous forme de substance pure, ou qui est utilisé et intégré directement dans des produits ou comme matière première. La quantité respective de CO2 sera enregistrée pour mémoire. Un transfert de CO2 hors d'une installation peut notamment avoir lieu dans les situations suivantes :
 
 -CO2 pur utilisé pour gazéifier les boissons ;
 
@@ -222,13 +230,17 @@ I-4. a.L'exploitant peut retrancher du niveau calculé des émissions de l'insta
 
 I-4. b. La masse du CO2 ou des carbonates transférés annuellement est déterminée avec une incertitude maximale inférieure à 1, 5 %, soit directement, au moyen de débitmètres volumiques ou massiques ou par pesage, soit, le cas échéant, indirectement, à partir de la masse du produit concerné, carbonates ou urée.
 
-I-4. c. Lorsqu'une partie du CO2 transféré est issu de la biomasse, ou lorsqu'une installation ne relève que partiellement du système d'échange de quotas d'émissions, l'exploitant ne déduit que la fraction correspondante de la masse de CO2 transféré qui provient de combustibles fossiles et de matières premières utilisés dans le cadre d'activités couvertes par l'article R. 229-5 du code de l'environnement. Les méthodes d'imputation employées doivent se fonder sur des estimations prudentes.
+I-4. c. Lorsqu'une partie du CO2 transféré est issu de la biomasse, ou lorsqu'une installation ne relève que partiellement du système d'échange de quotas d'émissions, l'exploitant ne déduit que la fraction correspondante de la masse de CO2 transféré qui provient de combustibles fossiles et de matières premières utilisés dans le cadre d'activités couvertes par l'
+
+article R. 229-5 du code de l'environnement. Les méthodes d'imputation employées doivent se fonder sur des estimations prudentes.
 
 I-5. Exigences minimales
 
 Tableau 6.-Niveaux de méthodes minimum devant être appliqués, sauf en cas d'impossibilité technique
 
-Vous pouvez consulter le tableau dans le JO n° 89 du 16/04/2010 texte numéro 2
+Vous pouvez consulter le tableau dans le
+
+JO n° 89 du 16/04/2010 texte numéro 2
 
 II.-Méthodes fondées sur la mesure
 
@@ -242,7 +254,9 @@ Lorsqu'il est impossible d'obtenir une heure de données valide pour un ou plusi
 
 Concentrations. Lorsqu'il est impossible d'obtenir une heure de données valide pour un paramètre mesuré directement en concentration, il est calculé une valeur de substitution Csubst pour l'heure en question, comme suit :
 
-Vous pouvez consulter le tableau dans le JO n° 145 du 22 / 06 / 2008 texte numéro 1
+Vous pouvez consulter le tableau dans le
+
+JO n° 145 du 22 / 06 / 2008 texte numéro 1
 
 La moyenne arithmétique et l'écart-type sont calculés à la fin de la période de déclaration sur la base de l'ensemble des données d'émission mesurées pendant cette période.S'il est impossible de se fonder sur la période de déclaration en raison de modifications techniques importantes apportées à l'installation, une période représentative, si possible d'une durée d'un an, sera convenue avec l'inspection des installations classées. Le calcul de la moyenne arithmétique et de l'écart-type seront présentés à l'organisme vérificateur.
 
@@ -262,7 +276,11 @@ Lorsque la comparaison avec les résultats obtenus par calcul indique clairement
 
 III.-Détermination des données et des facteurs spécifiques
 
-Les dispositions de la présente partie ne sont contraignantes que pour les parties des lignes directrices qui y font expressément référence. Les dispositions de la présente partie sont sous réserve de celles de l'article 26.
+Les dispositions de la présente partie ne sont contraignantes que pour les parties des lignes directrices qui y font expressément référence. Les dispositions de la présente partie sont sous réserve de
+
+celles de l'article 26
+
+.
 
 Les procédures utilisées pour déterminer la composition de la matière, la fraction de biomasse, le pouvoir calorifique inférieur, la teneur en carbone, le facteur d'émission, le facteur d'oxydation doivent se fonder sur une méthode normalisée permettant de limiter le biais d'échantillonnage et de mesure et ayant une incertitude de mesure connue, lorsqu'une telle méthode existe. Il convient d'appliquer les normes CEN lorsqu'elles existent. Les normes ISO s'appliquent en l'absence de normes CEN, et les normes nationales en l'absence de normes ISO. En l'absence de normes applicables, les procédures sont, si possible, effectuées conformément aux projets de normes ou aux lignes directrices sur les meilleures pratiques publiées par l'industrie.
 
@@ -412,9 +430,13 @@ IV.-Conservation des données
 
 Tout écart par rapport aux dispositions du présent chapitre IV devra être clairement indiqué dans le plan de surveillance. Si l'exploitant n'est pas en mesure d'appliquer une ou plusieurs de ces dispositions, il doit le justifier dans le plan de surveillance, et engager une démarche permettant la régularisation de sa situation avant le 30 septembre 2009.
 
-L'exploitant d'une installation doit, pour toutes les sources d'émission et / ou tous les flux liés aux activités visées à l'article R. 229-5 du code de l'environnement, étayer et archiver les données concernant la surveillance des émissions des gaz à effet de serre indiqués en relation avec ces activités.
+L'exploitant d'une installation doit, pour toutes les sources d'émission et / ou tous les flux liés aux activités visées à l'
 
-Ces données de surveillance doivent être suffisantes pour vérifier la déclaration d'émissions annuelle remise par l'exploitant en vertu de l'article R. 229-20 du code de l'environnement.
+article R. 229-5 du code de l'environnement, étayer et archiver les données concernant la surveillance des émissions des gaz à effet de serre indiqués en relation avec ces activités.
+
+Ces données de surveillance doivent être suffisantes pour vérifier la déclaration d'émissions annuelle remise par l'exploitant en vertu de l'
+
+article R. 229-20 du code de l'environnement.
 
 Les données qui ne font pas partie de la déclaration d'émissions annuelle ne doivent être ni déclarées ni rendues publiques.
 
@@ -458,7 +480,11 @@ Dans le cas des méthodes fondées sur la mesure, les données supplémentaires 
 
 V.-Contrôle
 
-Les modalités de contrôle des émissions sont sous réserve des dispositions de l'article 26.
+Les modalités de contrôle des émissions sont sous réserve des
+
+dispositions de l'article 26
+
+.
 
 Tout écart par rapport aux dispositions du présent chapitre V devra être clairement indiqué dans le plan de surveillance. Si l'exploitant n'est pas en mesure d'appliquer une ou plusieurs de ces dispositions, il doit le justifier dans le plan de surveillance, et engager une démarche permettant la régularisation de sa situation avant le 30 septembre 2009.
 
@@ -520,7 +546,7 @@ Les procédures doivent être de nature à réduire les risques répertoriés.
 
 V-3. b. Assurance de la qualité
 
-L'exploitant s'assure que l'équipement de mesure est étalonné, réglé et vérifié à intervalles réguliers, y compris avant l'utilisation, et contrôlé par rapport à des normes de mesure correspondant aux normes internationales, lorsqu'elles existent, en fonction des risques répertoriés conformément au point V-2.L'exploitant indique dans le plan de surveillance si des composants de l'instrument de mesure ne peuvent pas être étalonnés, et propose des activités de contrôle de remplacement. Si l'équipement n'est pas jugé conforme aux exigences, l'exploitant doit rapidement prendre les mesures correctrices qui s'imposent. Les documents relatifs aux résultats de l'étalonnage et à l'homologation doivent être conservés pendant une période de dix ans.
+L'exploitant s'assure que l'équipement de mesure est étalonné, réglé et vérifié à intervalles réguliers, y compris avant l'utilisation, et contrôlé par rapport à des normes de mesure correspondant aux normes internationales, lorsqu'elles existent, en fonction des risques répertoriés conformément au point V-2. L'exploitant indique dans le plan de surveillance si des composants de l'instrument de mesure ne peuvent pas être étalonnés, et propose des activités de contrôle de remplacement. Si l'équipement n'est pas jugé conforme aux exigences, l'exploitant doit rapidement prendre les mesures correctrices qui s'imposent. Les documents relatifs aux résultats de l'étalonnage et à l'homologation doivent être conservés pendant une période de dix ans.
 
 Si l'exploitant a recours aux technologies de l'information, et notamment à des systèmes informatiques pour la commande de processus, ces systèmes doivent être conçus, documentés, testés, mis en œuvre, contrôlés et entretenus de manière à garantir un traitement fiable, précis et en temps utile des données, compte tenu des risques répertoriés conformément au point V-2. Il conviendra notamment de veiller à la bonne utilisation des formules de calcul consignées dans le plan de surveillance. Le contrôle des systèmes informatiques doit couvrir le contrôle d'accès, les systèmes de secours, la reprise, la pérennité et la sécurité.
 
@@ -550,11 +576,11 @@ La méthode horizontale compare les valeurs obtenues avec différents systèmes 
 
 V-3. d. Procédés externalisés
 
-Lorsqu'un exploitant choisit d'externaliser un processus du flux de données, il doit contrôler la qualité de ces processus en fonction des risques répertoriés conformément au point V-2.L'exploitant doit définir des exigences appropriées pour les résultats et les méthodes, et analyser la qualité fournie.
+Lorsqu'un exploitant choisit d'externaliser un processus du flux de données, il doit contrôler la qualité de ces processus en fonction des risques répertoriés conformément au point V-2. L'exploitant doit définir des exigences appropriées pour les résultats et les méthodes, et analyser la qualité fournie.
 
 V-3. e. Corrections et mesures correctives
 
-Lorsqu'il apparaît qu'une partie des activités de gestion du flux de données ou des activités de contrôle ne fonctionne pas de manière efficace ou ne fonctionne pas dans le respect des limites fixées, l'exploitant prend les mesures correctives appropriées et assure la correction des données rejetées.L'exploitant évalue la validité des résultats obtenus à l'issue des différentes étapes, détermine la cause du dysfonctionnement ou de l'erreur et prend les mesures correctives appropriées.
+Lorsqu'il apparaît qu'une partie des activités de gestion du flux de données ou des activités de contrôle ne fonctionne pas de manière efficace ou ne fonctionne pas dans le respect des limites fixées, l'exploitant prend les mesures correctives appropriées et assure la correction des données rejetées. L'exploitant évalue la validité des résultats obtenus à l'issue des différentes étapes, détermine la cause du dysfonctionnement ou de l'erreur et prend les mesures correctives appropriées.
 
 Les activités prévues dans la présente partie sont menées à bien conformément au point V-2.
 
@@ -562,10 +588,10 @@ V-3. f. Registres et documentation
 
 Afin de pouvoir démontrer et garantir la conformité et d'être en mesure de reconstituer les données d'émission déclarées, l'exploitant doit conserver pendant au moins dix ans les informations concernant toutes les activités de contrôle, y compris l'assurance et le contrôle de la qualité des équipements et des systèmes informatiques, ainsi que l'analyse et la validation des données et les corrections, et l'ensemble des informations énumérées au IV de la présente annexe.
 
-L'exploitant veille à ce que les documents concernés soient disponibles au moment et à l'endroit où ils sont nécessaires aux fins des activités de gestion du flux des données et des activités de contrôle.L'exploitant doit se doter d'une procédure lui permettant d'identifier, de produire, de distribuer et de contrôler la version de ces documents.
+L'exploitant veille à ce que les documents concernés soient disponibles au moment et à l'endroit où ils sont nécessaires aux fins des activités de gestion du flux des données et des activités de contrôle. L'exploitant doit se doter d'une procédure lui permettant d'identifier, de produire, de distribuer et de contrôler la version de ces documents.
 
 Les activités évoquées dans la présente partie sont menées à bien suivant l'approche fondée sur le risque prévue à la partie V-2.
 
-(7) m ³ exprimés dans des conditions normales de température et de pression.
+(7) m³ exprimés dans des conditions normales de température et de pression.
 
 (8) Le facteur d'émission de CO2 rapporté à l'énergie est identique pour les deux types de gaz.

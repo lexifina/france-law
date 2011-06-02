@@ -64,7 +64,7 @@ Ces méthodes sont considérées comme équivalentes et chacune d'elles peut êt
 
 L'exploitant ne peut passer d'une méthode à l'autre que s'il est en mesure de démontrer que ce changement permettra d'accroître ou maintenir la précision de la surveillance et de la quantification des émissions.
 
-III-1. a. Méthode A : matières entrantes
+III-1.a. Méthode A : matières entrantes
 
 Le calcul se fonde sur la teneur en carbonate des matières utilisées pour alimenter le procédé (y compris les cendres volantes ou le laitier de haut fourneau), les poussières des fours à ciment et de by-pass étant déduites de la consommation de matières premières et les émissions correspondantes étant calculées conformément au III-2 de la présente annexe, dans le cas où les poussières des fours à ciment et de by-pass quittent le système du four. Le carbone non issu de carbonates étant pris en compte dans cette méthode, le III-3 de la présente annexe ne s'applique pas.
 
@@ -76,9 +76,9 @@ facteur d'émission × facteur de conversion]
 
 i) Données d'activité
 
-Sauf aux fins de la caractérisation de la farine crue, ces exigences s'appliquent séparément à chacune des matières entrantes carbonées (autre que les combustibles), comme le calcaire ou le schiste, en évitant la double comptabilisation et les omissions liées aux matières réintroduites ou by-passées ». La quantité nette de farine crue peut être déterminée au moyen d'un rapport empirique farine crue / clinker propre à chaque installation, lequel doit être actualisé au moins une fois par an sur la base des meilleures pratiques publiées par l'industrie.
+Sauf aux fins de la caractérisation de la farine crue, ces exigences s'appliquent séparément à chacune des matières entrantes carbonées (autre que les combustibles), comme le calcaire ou le schiste, en évitant la double comptabilisation et les omissions liées aux matières réintroduites ou by-passées. La quantité nette de farine crue peut être déterminée au moyen d'un rapport empirique farine crue/clinker propre à chaque installation, lequel doit être actualisé au moins une fois par an sur la base des meilleures pratiques publiées par l'industrie.
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -90,7 +90,7 @@ Niveau 1
 
 |
 
-± 7, 5 %
+± 7,5 %
 
 |
 
@@ -98,7 +98,7 @@ Niveau 2
 
 |
 
-± 5, 0 %
+± 5,0 %
 
 |
 
@@ -106,7 +106,7 @@ Niveau 3
 
 |
 
-± 2, 5 %
+± 2,5 %
 
 |
 
@@ -116,7 +116,7 @@ ii) Facteur d'émission
 
 Les facteurs d'émission sont calculés et déclarés en unités de masse de CO2 rejeté par tonne de chacune des matières entrantes. Les rapports stœchiométriques indiqués dans le tableau 5 de l'annexe I sont utilisés pour convertir les données sur la composition en facteurs d'émission.
 
-NIVEAU DE MÉTHODE APPLICABLE
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -130,7 +130,7 @@ La quantité de carbonates, dont CaCO3 et MgCO3, dans chaque matière entrante a
 
 iii) Facteur de conversion
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -150,7 +150,7 @@ Les carbonates et les autres substances carbonées quittant le four dans le clin
 
 |
 
-III-1. b. Méthode B : quantité de clinker produite
+III-1.b. Méthode B : quantité de clinker produite
 
 Le calcul se fonde sur la quantité de clinker produite.
 
@@ -176,7 +176,7 @@ rapport clinker / ciment [t clinker / t ciment]-clinker fourni [t] +
 
 clinker expédié [t]-variation du stock de clinker [t]
 
-Le rapport ciment / clinker est soit déterminé pour chacun des produits en ciment sur la base des dispositions du III de l'annexe I, soit calculé à partir de la différence entre les livraisons et la variation des stocks de ciment et l'ensemble des matières utilisées comme additifs dans le ciment, y compris les poussières de by-pass et les poussières des fours à ciment ;
+Le rapport ciment/clinker est soit déterminé pour chacun des produits en ciment sur la base des dispositions du III de l'annexe I, soit calculé à partir de la différence entre les livraisons et la variation des stocks de ciment et l'ensemble des matières utilisées comme additifs dans le ciment, y compris les poussières de by-pass et les poussières des fours à ciment ;
 
 -soit sur la base du clinker consommé pour la fabrication de ciment, selon la formule suivante (bilan matières avec prise en compte du clinker expédié, du clinker livré et de la variation des stocks de clinker) :
 
@@ -188,13 +188,11 @@ clinker consommé pour la fabrication du ciment [t]
 
 -variation du stock de clinker [t]
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
-Incertitude maximale pour la détermination de la quantité de clinker
-
-produite [t] pendant la période de déclaration
+Incertitude maximale pour la détermination de la quantité de clinker produite [t] pendant la période de déclaration
 
 |
 
@@ -202,7 +200,7 @@ Niveau 1
 
 |
 
-± 5, 0 %
+± 5,0 %
 
 |
 
@@ -210,7 +208,7 @@ Niveau 2
 
 |
 
-± 2, 5 %
+± 2,5 %
 
 |
 
@@ -218,7 +216,7 @@ Pour la détermination des données d'activités, il est possible d'utiliser les
 
 ii) Facteur d'émission
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -226,7 +224,7 @@ Niveau 1
 
 |
 
-Facteur d'émission : 0, 525 t CO2 / t clinker.
+Facteur d'émission : 0,525 t CO2/t clinker.
 
 |
 
@@ -234,7 +232,7 @@ Niveau 2
 
 |
 
-Facteur d'émission : 0, 525 t CO2 / t clinker.
+Facteur d'émission : 0,525 t CO2/t clinker.
 
 |
 
@@ -250,7 +248,7 @@ Les rapports stœchiométriques indiqués dans le tableau 5 de l'annexe I sont u
 
 iii) Facteur de conversion
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -258,7 +256,7 @@ Niveau 1
 
 |
 
-Par mesure de prudence, on considère que la quantité de CaO et de MgO (autres que carbonates) dans les matières premières est nulle, autrement dit que la quantité totale de Ca et de Mg présente dans le produit provient des matières premières carbonatées, ce qui se traduit par des facteurs de conversion de 1.
+Par mesure de prudence, on considère que la quantité de CaO et de MgO (autres que carbonates) dans les matières premières est nulle, autrement dit que la quantité totale de CaO et de MgO présente dans le produit provient des matières premières carbonatées, ce qui se traduit par des facteurs de conversion de 1.
 
 |
 
@@ -266,7 +264,7 @@ Niveau 2
 
 |
 
-La quantité de CaO et de MgO (autres que carbonates) dans les matières premières se traduit par des facteurs de conversion dont la valeur se situe entre 0 et 1, la valeur 1 correspondant à une conversion totale des carbonates contenus dans les matières premières en oxydes. La détermination des paramètres chimiques des matières premières est effectuée conformément au III de l'annexe I. Il est possible de recourir à des méthodes thermogravimétriques.
+La quantité de CaO et de MgO (autres que carbonates) dans les matières premières se traduit par des facteurs de conversion dont la valeur se situe entre 0 et 1, la valeur 1 correspondant à une situation où tous les oxydes sont issus de la décarbonatation. La détermination des paramètres chimiques des matières premières est effectuée conformément au III de l'annexe I.
 
 |
 
@@ -278,9 +276,9 @@ Les émissions sont calculées de la façon suivante :
 
 émissions de CO2 poussières = données d'activité × facteur d'émission
 
-III-2. a. Données d'activité
+III-2.a. Données d'activité
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -296,13 +294,13 @@ Niveau 2
 
 |
 
-La quantité [t] de poussières des fours à ciment ou de poussières de by-pass (le cas échéant) sortant du système du four pendant une période donnée est déterminée avec une incertitude maximale inférieure à 7, 5 %.
+La quantité [t] de poussières des fours à ciment ou de poussières de by-pass (le cas échéant) sortant du système du four pendant une période donnée est déterminée avec une incertitude maximale inférieure à 7,5 %.
 
 |
 
-III-2. b. Facteur d'émission
+III-2.b. Facteur d'émission
 
-Vous pouvez consulter le tableau dans le JO n° 145 du 22 / 06 / 2008 texte numéro 1
+Vous pouvez consulter le tableau dans le JO n° 145 du 22/06/2008 texte numéro 1
 
 III-3. Emissions de CO2 liées au carbone
 
@@ -314,9 +312,9 @@ Les émissions liées au carbone non issu de carbonates présent dans le calcair
 
 données d'activité × facteur d'émission × facteur de conversion
 
-III-3. a. Données d'activité
+III-3.a. Données d'activité
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -338,13 +336,13 @@ Niveau 2
 
 |
 
-± 7, 5 %
+± 7,5 %
 
 |
 
-III-3. b. Facteur d'émission
+III-3.b. Facteur d'émission
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -364,9 +362,9 @@ La teneur en carbone non issu de carbonates de la matière première considéré
 
 |
 
-III-3. c. Facteur de conversion
+III-3.c. Facteur de conversion
 
-NIVEAUX DE MÉTHODE APPLICABLES
+NIVEAUX DE MÉTHODES APPLICABLES
 
 |
 
@@ -394,8 +392,8 @@ V.-Calcul des émissions par défaut
 
 La formule retenue pour le calcul par défaut des émissions des installations de production de clinker est :
 
-émissions (t CO2 / an) = capacité de production
+émissions (t CO2/an) = capacité de production
 
-de la cimenterie (t clinker / an) × 0, 9
+de la cimenterie (t clinker/an) × 0,9
 
 La capacité de production est celle fixée par l'arrêté préfectoral d'autorisation.
