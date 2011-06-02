@@ -52,20 +52,24 @@ Compte n° 909 Régie industrielle des établissements pénitentiaires (ministè
 
 |
 
-2. LISTES DE RECETTES TRAITÉES HORS DE L'APPLICATIF CHORUS EN 2011
+2. Liste des recettes traitées hors de l'applicatif Chorus en 2011 :
 
-Recettes recouvrées par retenues sur paye effectuées dans le cadre de la procédure de paiement sans ordonnancement préalable (PSOP).
+- les recettes liées à des indus sur titre 2 en métropole/ DOM recouvrées dans les services déconcentrés de la DGFiP ;
 
-Recettes des comptes de commerce 907, 908 et 909 susvisés.
+- les recettes des comptes de commerce 907, 908 et 909 ;
 
-Recettes recouvrées par retenues sur pensions.
+- les recettes liées aux programmes 200 et 201 ;
 
-Recettes effectuées pour le compte de tiers hors indus sur fonds européens.
+- les recettes du CAS pensions, à l'exclusion des recettes de niveau central ne donnant pas lieu à retenues de payes sur la PSOP ou sur pension ;
 
-Recettes correspondant aux remboursements des avances versées au titre de l'aide juridictionnelle (programme 101 du ministère de la justice et des libertés).
+- les recettes effectuées pour le compte de tiers hors indus sur fonds européens ;
 
-Recettes émanant de France Domaine (hors loyers budgétaires).
+- les recettes correspondant aux remboursements des avances versées au titre de l'aide juridictionnelle (programme 101 " Accès au droit et à la justice " ) ;
 
-Recettes émises par l'Agence nationale des fréquences.
+- les recettes émanant de France Domaine (hors loyers budgétaires) ;
 
-Ces deux listes peuvent être complétées ou modifiées par décision du directeur général des finances publiques.
+- les recettes émises par l'Agence nationale des fréquences (ANFR) ;
+
+- les recettes d'indus des pôles emplois ;
+
+- Certaines recettes liées à l'activité régalienne spécifique de la DGFiP, qui seront précisées par lettre collective du directeur général des finances publiques.
