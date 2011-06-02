@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714164
+
+- Question : [SEQ100714164](seq100714164.md) — Critères de sélection des demandes de subventions à l'ANAH
+
+## Réponse
+
+*Logement, JO du 2011-06-02, page 1488*
+
+La réorientation des aides de l'Agence nationale de l'habitat (Anah) à destination des propriétaires occupants correspond à un souhait du Gouvernement d'accentuer la vocation sociale de cette agence. Le nouveau régime des aides de l'Anah vise ainsi à rééquilibrer son intervention au profit des propriétaires occupants les plus modestes et à accentuer son action dans la lutte contre l'habitat indigne et la précarité énergétique du parc privé, conformément à la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et la lutte contre l'exclusion. Les décisions d'octroi des aides de l'Anah sont prises par le délégué de l'agence dans le département en fonction des orientations générales fixées par le conseil d'administration et du programme d'action de l'agence dans le département, conformément à l'article R. 321-11 du code de la construction et de l'habitation (CCH). Ce programme d'action définit localement les priorités d'intervention de l'Anah, l'opportunité de la prise en compte des travaux envisagés étant notamment appréciée en fonction de l'intérêt économique, social, environnemental ou technique du projet, mais aussi en tenant compte des besoins locaux en logements locatifs. Dans ces conditions, il appartient au délégué départemental de l'Anah de préciser les modalités de déclinaison locale des nouvelles orientations stratégiques arrêtées au niveau national. En tout état de cause, les opérations d'amélioration des logements locatifs appartenant à des propriétaires bailleurs situés en dehors des centres-bourgs ne sont pas exclues du dispositif d'aide de l'Anah, mais ne font pas partie de ses interventions prioritaires compte tenu de la faible demande de logements locatifs en secteur diffus.
