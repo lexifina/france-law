@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110116941
+
+- Question : [SEQ110116941](seq110116941.md) — Double signalisation urbaine et routière en français et en langue régionale
+
+## Réponse
+
+*Culture, JO du 2011-06-02, page 1476*
+
+Le ministre de la culture et de la communication réaffirme son profond attachement à la pluralité linguistique de notre pays et souhaite rappeler comment elle s'organise concrètement. Toute inscription ou annonce apposée sur la voie publique et destinée à l'information du public doit être formulée en langue française et son absence est en effet répréhensible. Mais il n'en découle en aucune manière que la présence d'autres langues soit interdite, sous forme de traduction. Dans le cas particulier des panneaux d'entrée et de sortie d'agglomération, le Gouvernement a clairement exprimé le 16 février dernier, à l'occasion de l'examen au Sénat d'une proposition de loi dans ce sens, qu'il était favorable à ce que le nom en langue française puisse être accompagné du nom de l'agglomération en langue régionale. Loin d'interdire tout usage des langues régionales, l'appareil législatif et réglementaire actuel offre à celles-ci de larges possibilités d'expression dans l'espace public, qui ne sont pas toujours exploitées. À titre d'exemple, les actes officiels des collectivités territoriales peuvent être publiés en langue régionale (ou autre) du moment qu'elles le sont aussi en français, qui a seul valeur juridique. La loi du 4 août 1994 relative à l'emploi de la langue française ne saurait être comprise comme un instrument de lutte contre la pluralité du patrimoine linguistique français, l'intention du législateur en la matière s'énonçant clairement à l'article 21 : « Les dispositions de la présente loi s'appliquent sans préjudice de la législation et de la réglementation relatives aux langues régionales de France et ne s'opposent pas à leur usage. »
