@@ -36,6 +36,6 @@ C
 
 |
 
-(*) La zone A bis est constituée des communes de la zone A limitées à Paris et aux communes limitrophes.
+(*)
 
 |
