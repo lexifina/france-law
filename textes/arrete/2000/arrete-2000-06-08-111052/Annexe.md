@@ -24,7 +24,7 @@ il est convenu ce qui suit :
 
 M. .................... s'engage à exercer l'intégralité de
 
-ses fonctions hospitalières dans le cadre du service public hospitalier et des actions de coopération qui y concourent.
+ses fonctions hospitalières dans son établissement d'affectation et dans les établissements ou organismes ayant passé convention avec celui-ci.
 
 M. .................... s'engage à ne pas exercer d'activité
 
@@ -32,7 +32,7 @@ libérale telle que prévue aux articles L. 714-30 à L. 714-35 du code de la sa
 
 En contrepartie de cet engagement, M. ....................
 
-percevra, conformément aux dispositions du 6o de l'article 28 du décret no 84-131 du 24 février 1984 modifié, une indemnité mensuelle d'engagement de service public exclusif dans les conditions prévues par l'arrêté du ....................
+percevra, conformément aux dispositions du 6o de l' article D. 6152-23-1 du code de la santé publique, une indemnité mensuelle d'engagement de service public exclusif dans les conditions prévues par l'arrêté du 2 juin 2000.
 
 En cas de dénonciation du présent contrat avant son terme par le praticien pour exercer une activité libérale, il est procédé au recouvrement du montant de l'indemnité déjà versé au titre du présent contrat.
 
@@ -42,4 +42,4 @@ cesse d'exercer ses fonctions hospitalières.
 
 En cas d'exercice des fonctions à temps réduit, le montant de l'indemnité sera calculé proportionnellement au temps effectivement travaillé.
 
-Le présent contrat est transmis au préfet du département et peut être renouvelé.
+Le présent contrat est transmis au directeur général de l'agence régionale de santé et peut être renouvelé.
