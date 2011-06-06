@@ -340,7 +340,7 @@ C
 
 |
 
-Dans les centres d'éducation populaire et de sport (CREPS)
+Dans les centres de ressources, d'expertise et de performance sportives
 
 |
 
@@ -392,7 +392,7 @@ A
 
 |
 
-Dans les directions régionales et départementales, dans les directions départementales d'outre-mer, à l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres d'éducation populaire et de sport (CREPS)
+Dans les directions régionales et départementales, dans les directions départementales d'outre-mer, à l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives
 
 |
 
@@ -474,7 +474,7 @@ A
 
 |
 
-Dans les centres d'éducation populaire et de sport (CREPS), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et à l'Institut français du cheval et de l'équitation (ENE)
+Dans les centres de ressources, d'expertise et de performance sportives, à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et à l'Institut français du cheval et de l'équitation (ENE)
 
 |
 
@@ -542,7 +542,7 @@ A-B
 
 |
 
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres d'éducation populaire et de sport (CREPS)
+A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives
 
 |
 
@@ -568,7 +568,7 @@ C
 
 |
 
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres d'éducation populaire et de sport (CREPS)
+A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives
 
 |
 
@@ -594,7 +594,7 @@ C
 
 |
 
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA), à l'Institut français du cheval et de l'équitation (ENE) et dans les centres d'éducation populaire et de sport (CREPS)
+A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA), à l'Institut français du cheval et de l'équitation (ENE) et dans les centres de ressources, d'expertise et de performance sportives
 
 |
 
@@ -620,7 +620,7 @@ C
 
 |
 
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres d'éducation populaire et de sport (CREPS)
+A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives
 
 |
 
@@ -646,7 +646,7 @@ C
 
 |
 
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres d'éducation populaire et de sport (CREPS)
+A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives
 
 |
 
@@ -672,7 +672,7 @@ C
 
 |
 
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP) et dans les centres d'éducation populaire et de sport (CREPS)
+A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP) et dans les centres de ressources, d'expertise et de performance sportives
 
 |
 
@@ -910,7 +910,7 @@ A
 
 |
 
-Dans les centres d'éducation populaire et de sport (CREPS)
+Dans les centres de ressources, d'expertise et de performance sportives
 
 |
 
