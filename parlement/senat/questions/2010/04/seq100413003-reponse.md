@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100413003
+
+- Question : [SEQ100413003](seq100413003.md) — Durée de validité des offres pour un marché de travaux
+
+## Réponse
+
+*Collectivités territoriales, JO du 2011-06-09, page 1537*
+
+Les chapitres III et IV du code des marchés publics relatifs aux procédures de passation des marchés publics ne prévoient pas de délais maximum d'examen, de choix des offres et d'approbation par l'assemblée délibérante si celle-ci est amenée à se prononcer. En revanche, un délai maximum de validité des offres figure dans la publication de l'avis d'appel public à la concurrence, voire dans les documents de consultation. Ce délai de validité des offres court à compter de la date limite de dépôt de celles-ci. Il est interrompu à partir du moment où le pouvoir adjudicateur a arrêté le choix de l'attributaire, par la commission d'appel d'offres dans le cas d'un marché formalisé (Conseil d'État, 26 septembre 2007, office public d'aménagement et de construction du Calvados). Dans une procédure adaptée, le pouvoir adjudicateur procède par tout moyen qu'il juge approprié. Si le choix du ou des titulaires n'est pas intervenu dans ce délai, il est possible au pouvoir adjudicateur de demander à l'ensemble des candidats dont la candidature ou l'offre n'ont pas été préalablement écartées de prolonger le délai de validité de leur offre. Si cette demande n'est pas effectuée ou si l'ensemble des candidats n'acceptent pas la prolongation du délai, la procédure devient caduque. Il n'existe pas de délai entre le choix des candidats retenus et l'information des candidats évincés. Néanmoins, l'article 80-1-1° du code des marchés publics impose au pouvoir adjudicateur de notifier ce rejet « dès qu'il a fait son choix » s'il s'agit d'un marché ou d'un accord-cadre passé en procédure formalisée autre que celles prévues à l'article 35-II du code des marchés publics, c'est-à-dire sans publicité préalable ni mise en concurrence.
