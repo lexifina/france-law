@@ -1,6 +1,8 @@
 # Article 1649 quater-0 B ter
 
-1. Lorsque l'administration fiscale est informée, dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité publique et dans les conditions prévues aux articles L. 82 C, L. 101 ou L. 135 L du livre des procédures fiscales, qu'un contribuable dispose d'éléments mentionnés ci-après, elle peut, en cas de disproportion marquée entre son train de vie et ses revenus, porter la base d'imposition à l'impôt sur le revenu à une somme forfaitaire déterminée en appliquant à ce ou ces éléments de train de vie le barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2 du présent article.
+1. Lorsque l'administration fiscale est informée, dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité publique et dans les conditions prévues aux articles L. 82 C,
+
+L. 101 ou L. 135 L du livre des procédures fiscales, qu'un contribuable dispose d'éléments mentionnés ci-après, elle peut, en cas de disproportion marquée entre son train de vie et ses revenus, porter la base d'imposition à l'impôt sur le revenu à une somme forfaitaire déterminée en appliquant à ce ou ces éléments de train de vie le barème ci-après, compte tenu, le cas échéant, de la majoration prévue au 2.
 
 ÉLÉMENTS DU TRAIN DE VIE
 
@@ -36,7 +38,7 @@ Le montant des dépenses. |
 
 7. Appareils électroménagers, équipements son-hifi-vidéo, matériels informatiques. |
 
-La valeur du bien neuf, lorsque celle-ci est supérieure à 1 000 euros. |
+La valeur du bien neuf, lorsque celle-ci est supérieure à 1 000 €. |
 
 8. Articles de joaillerie et métaux précieux. |
 
@@ -55,7 +57,3 @@ Pour l'appréciation du nombre d'éléments de train de vie dont le contribuable
 3. La disproportion marquée entre le train de vie d'un contribuable et ses revenus est établie lorsque la somme forfaitaire qui résulte de l'application du barème et de la majoration prévus aux 1 et 2 est, pour l'année d'imposition, au moins égale au double du montant du revenu net global déclaré, y compris les revenus exonérés ou taxés selon un taux proportionnel ou libérés de l'impôt par l'application d'un prélèvement.
 
 4. Le contribuable peut apporter la preuve que ses revenus ou l'utilisation de son capital ou les emprunts qu'il a contractés lui ont permis d'assurer son train de vie.
-
-NOTA :
-
-LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 art 19 XI : Le présent article s'applique à compter de l'imposition des revenus de l'année 2009.

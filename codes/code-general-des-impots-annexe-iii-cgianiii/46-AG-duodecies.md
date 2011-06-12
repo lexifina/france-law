@@ -2,11 +2,11 @@
 
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-1. Pour les baux conclus en 2010, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
+1. Pour les baux conclus en 2011, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 152 euros dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
+1° 156 euros dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
 
-2° 192 euros en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° 196 euros en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
 1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application :
 
@@ -18,29 +18,33 @@ Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2010, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2011, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION DU FOYER DU LOCATAIRE
 
 |
 
-PLAFOND ANNUEL DE RESSOURCES (en €)
+PLAFOND ANNUEL DE RESSOURCES (en euros)
 
 |
 
 |
 
-Départements d'outre-mer ; Saint-Barthélemy ; Saint-Martin ; Mayotte
+Départements d'outre-mer,
+
+Saint-Barthélemy, Saint-Martin
+
+et Mayotte
 
 |
 
-Polynésie française ; Nouvelle-Calédonie ;
+Polynésie française, Nouvelle Calédonie,
 
-îles Wallis et Futuna ; Terres australes
+îles Wallis et Futuna, Terres australes
 
-et antarctiques françaises ;
+et antarctiques françaises
 
-Saint-Pierre-et-Miquelon
+et Saint-Pierre-et-Miquelon
 
 |
 
@@ -48,11 +52,11 @@ Personne seule
 
 |
 
-29 018 €
+29 627
 
 |
 
-28 163 €
+28 676
 
 |
 
@@ -60,11 +64,11 @@ Couple
 
 |
 
-53 671 €
+54 797
 
 |
 
-52 088 €
+53 036
 
 |
 
@@ -72,11 +76,11 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-56 775 €
+57 966
 
 |
 
-55 100 €
+56 103
 
 |
 
@@ -84,11 +88,11 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-59 880 €
+61 136
 
 |
 
-58 114 €
+59 172
 
 |
 
@@ -96,11 +100,11 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-64 029 €
+65 372
 
 |
 
-62 138 €
+63 269
 
 |
 
@@ -108,11 +112,11 @@ Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-68 178 €
+69 608
 
 |
 
-66 164 €
+67 368
 
 |
 
@@ -120,11 +124,11 @@ Majoration par personne à charge à partir de la cinquième
 
 |
 
-+ 4 355 €
++ 4 447
 
 |
 
-+ 4 226 €
++ 4 303
 
 |
 
@@ -142,4 +146,4 @@ c) Des ressources du sous-locataire.
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 1er du décret n° 2001-137 du 31 décembre 2001.
+Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1373 du 31 décembre 2001.

@@ -8,11 +8,11 @@ a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre 
 
 -b de l'article 2 terdecies B, pour les baux conclus en 2011, s'agissant de logements visés au b de ce même article.
 
-Pour les baux conclus à compter de la date d'entrée en vigueur du décret n° 2009-1672 du 28 décembre 2009, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 9,5 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à 12,6 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
+Pour les baux conclus en 2011, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 9,83 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à 13,01 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2010, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2011, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE
 
@@ -22,27 +22,21 @@ LIEU DE LOCATION
 
 |
 
-Zone A
+|
 
-(en €)
+Zone A (en euros)
 
 |
 
-Zone B1
-
-(en €)
+Zone B1 (en euros)
 
 |
 
-Zone B2
-
-(en €)
+Zone B2 (en euros)
 
 |
 
-Zone C
-
-(en €)
+Zone C (en euros)
 
 |
 
@@ -50,19 +44,19 @@ Personne seule
 
 |
 
-44 306 €
+44 793
 
 |
 
-32 910 €
+33 272
 
 |
 
-30 168 €
+30 500
 
 |
 
-29 964 €
+30 294
 
 |
 
@@ -70,19 +64,19 @@ Couple
 
 |
 
-66 215 €
+66 943
 
 |
 
-48 328 €
+48 860
 
 |
 
-44 302 €
+44 789
 
 |
 
-40 274 €
+40 717
 
 |
 
@@ -90,19 +84,19 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-79 595 €
+80 471
 
 |
 
-57 857 €
+58 493
 
 |
 
-53 036 €
+53 619
 
 |
 
-48 214 €
+48 744
 
 |
 
@@ -110,19 +104,19 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-95 342 €
+96 391
 
 |
 
-70 020 €
+70 790
 
 |
 
-64 185 €
+64 891
 
 |
 
-58 350 €
+58 992
 
 |
 
@@ -130,19 +124,19 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-112 867 €
+114 109
 
 |
 
-82 181 €
+83 085
 
 |
 
-75 334 €
+76 163
 
 |
 
-68 484 €
+69 237
 
 |
 
@@ -150,19 +144,19 @@ Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-127 005 €
+128 402
 
 |
 
-92 700 €
+93 720
 
 |
 
-84 976 €
+85 911
 
 |
 
-77 251 €
+78 101
 
 |
 
@@ -170,29 +164,29 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 
 |
 
-+ 14 156 €
++ 14 312
 
 |
 
-+ 10 530 €
++ 10 646
 
 |
 
-+ 9 652 €
++ 9 758
 
 |
 
-+ 8 774 €
-
-|
++ 8 771 |
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à l'article 2 duodecies.
 
-Pour les baux conclus à compter de la date d'entrée en vigueur du décret n° 2009-1672 du 28 décembre 2009, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
+Pour les baux conclus en 2011, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
+
+COMPOSITION DU FOYER LOCATAIRE
 
 |
 
-DÉPARTEMENTS D'OUTRE-MER
+DÉPARTEMENTS D'OUTRE-MER,
 
 Saint-Martin, Saint-Barthélemy, Mayotte
 
@@ -200,9 +194,11 @@ Saint-Martin, Saint-Barthélemy, Mayotte
 
 |
 
-POLYNÉSIE FRANÇAISE
+POLYNÉSIE FRANÇAISE,
 
-Nouvelle-Calédonie, Saint-Pierre-et-Miquelon, îles Wallis-et-Futuna
+Nouvelle-Calédonie, Saint-Pierre-et-Miquelon,
+
+îles Wallis et Futuna
 
 (en euros)
 
@@ -212,11 +208,11 @@ Personne seule
 
 |
 
-25 590
+26 473
 
 |
 
-22 583
+23 300
 
 |
 
@@ -224,11 +220,11 @@ Couple
 
 |
 
-34 173
+35 354
 
 |
 
-41 767
+43 092
 
 |
 
@@ -236,11 +232,11 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-41 096
+42 515
 
 |
 
-44 183
+45 584
 
 |
 
@@ -248,11 +244,11 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-49 609
+51 321
 
 |
 
-46 599
+48 077
 
 |
 
@@ -260,11 +256,11 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-58 362
+60 376
 
 |
 
-49 826
+51 406
 
 |
 
@@ -272,11 +268,11 @@ Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-65 772
+68 043
 
 |
 
-53 055
+54 738
 
 |
 
@@ -284,11 +280,11 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 
 |
 
-+ 7 337
++ 7 591
 
 |
 
-+ 3 388
++ 3 496
 
 |
 
@@ -297,3 +293,7 @@ Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à 196 B du code général des impôts.
 
 Pour l'application du présent article, les zones A, A bis, B 1, B 2 et C sont définies par arrêté des ministres chargés du budget et du logement et la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer mentionnés au premier alinéa du a est la même que celle prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du quatrième alinéa du a, la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle déterminée au III de l'article 46 AG terdecies.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 1er (G) du décret n° 2006-1005 du 10 août 2006

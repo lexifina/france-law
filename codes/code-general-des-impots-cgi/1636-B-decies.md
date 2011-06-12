@@ -4,11 +4,11 @@ I. – Les communes membres d'un établissement public de coopération intercomm
 
 Toutefois, pour les communes membres d'un établissement public de coopération intercommunale à fiscalité additionnelle qui devient soumis aux dispositions de l'article 1609 nonies C, et pour la première année d'application de ces dispositions, le dernier alinéa du 1 du I de l'article 1636 B sexies n'est pas applicable lorsque le taux de taxe foncière sur les propriétés non bâties voté l'année précédente par la commune est inférieur de plus d'un tiers au taux moyen constaté la même année au niveau national dans l'ensemble des collectivités de même nature.
 
-II. – Les établissements publics de coopération intercommunale faisant application de l'article 1609 nonies C ou du I ou du II de l'article 1609 quinquies C votent le taux de la cotisation foncière des entreprises dans les limites définies au b du 1, ainsi qu'aux 2 et 3 et au 5 du I de l'article 1636 B sexies et à l'article 1636 B septies.
+II. – Les établissements publics de coopération intercommunale faisant application de l'article 1609 nonies C ou du I ou du II de l'article 1609 quinquies C votent le taux de la cotisation foncière des entreprises dans les limites définies au b du 1, au 2, au 3 et au 5 du I de l'article 1636 B sexies et à l'article 1636 B septies.
 
 Toutefois, l'obligation de diminuer le taux de cotisation foncière des entreprises dans une proportion au moins égale soit à la diminution du taux de la taxe d'habitation ou à celle du taux moyen pondéré de la taxe d'habitation et des taxes foncières, soit à la plus importante de ces diminutions lorsque ces deux taux sont en baisse, prévue au b du 1 du I de l'article 1636 B sexies, ne s'applique pas.
 
-Pour l'application du b du 1, ainsi que des 2 et 3 et du 5 du I de l'article 1636 B sexies :
+Pour l'application du b du 1, du 2, du 3 et du 5 du I de l'article 1636 B sexies :
 
 1° Le taux de la taxe d'habitation est égal au taux moyen de cette taxe constaté dans l'ensemble des communes membres de l'établissement public de coopération intercommunale. Pour les établissements publics de coopération intercommunale qui font application des dispositions du II de l'article 1609 nonies C, le taux moyen pondéré tient compte du produit perçu par l'établissement public de coopération intercommunale ;
 
@@ -22,8 +22,12 @@ III. – Pour l'application du 3 du I de l'article 1636 B sexies, le taux de cot
 
 IV. – A compter de 2004, pour les établissements publics de coopération intercommunale visés au II, la différence constatée au titre d'une année entre le taux maximum de cotisation foncière des entreprises résultant des dispositions du deuxième alinéa du b du 1 du I de l'article 1636 B sexies et le taux de cotisation foncière des entreprises voté conformément à ces mêmes dispositions peut être, sous réserve des dispositions de l'article 1636 B septies, ajoutée, partiellement ou totalement, au taux de cotisation foncière des entreprises voté par l'établissement public de coopération intercommunale au titre de l'une des trois années suivantes.
 
-La majoration du taux de cotisation foncière des entreprises dans les conditions visées au premier alinéa n'est pas applicable l'année au titre de laquelle l'établissement public de coopération intercommunale fait application des dispositions du 3 ou du a du 4 du I de l'article 1636 B sexies, du deuxième alinéa ou du dernier alinéa du II du présent article.
+La majoration du taux de cotisation foncière des entreprises dans les conditions visées au premier alinéa n'est pas applicable l'année au titre de laquelle l'établissement public de coopération intercommunale fait application des dispositions du 3 du I de l'article 1636 B sexies, du deuxième alinéa ou du dernier alinéa du II.
 
 Les décisions relatives aux taux transmises aux services fiscaux dans les conditions prévues au I de l'article 1639 A doivent indiquer le montant à reporter conformément au premier alinéa ainsi que les modalités selon lesquelles le taux de l'année est majoré dans les conditions prévues audit alinéa.
 
 V. – En 2005 et par exception aux dispositions du premier alinéa du II, les syndicats d'agglomération nouvelle visés à l'article L. 5311-1 du code général des collectivités territoriales qui ont bénéficié, au titre de 2004, d'une dotation en capital non remboursable attribuée en vertu du 1° de l'article L. 5334-19 du même code supérieure à un million d'euros peuvent fixer leur taux de cotisation foncière des entreprises dans la limite de 93 % du taux moyen de cette taxe constaté l'année précédente au niveau national pour l'ensemble des syndicats d'agglomération nouvelle.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 77-3.3 I (1°) de la loi n° 2009-1673 du 30 décembre 2009.

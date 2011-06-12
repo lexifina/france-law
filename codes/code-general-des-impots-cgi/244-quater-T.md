@@ -6,7 +6,7 @@ II. ― Ce crédit d'impôt est égal à 30 % de la différence entre, d'une par
 
 III.-Les primes mentionnées au I ne peuvent entrer à la fois dans la base de calcul du crédit d'impôt et dans celle d'un autre crédit d'impôt.
 
-IV.-En cas de fusion, apports ou opérations assimilées réalisés pendant la durée d'application de l'accord en cours ou de l'accord précédent, ou au cours de l'un des trois exercices séparant l'accord en cours du précédent, la moyenne des primes mentionnées au a du II dues par la société absorbante ou bénéficiaire des apports et par la société apporteuse est égale au montant moyen des primes dues à chaque salarié au titre de l'accord précédent multiplié par le nombre total de salariés constaté à l'issue de ces opérations.
+IV.-En cas de fusion, apports ou opérations assimilées réalisés pendant la durée d'application de l'accord en cours ou de l'accord précédent, ou au cours de l'un des exercices séparant l'accord en cours du précédent, la moyenne des primes mentionnées au II dues par la société absorbante ou bénéficiaire des apports et par la société apporteuse est égale au montant moyen des primes dues à chaque salarié au titre de l'accord précédent multiplié par le nombre total de salariés constaté à l'issue de ces opérations.
 
 V.-Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives.
 
@@ -16,6 +16,4 @@ Pour l'application du premier alinéa, les sociétés de personnes mentionnées 
 
 NOTA :
 
-Loi n° 2010-1657 du 29 décembre 2010 article 131 II : Ces dispositions sont applicables
-
-aux crédits d'impôt acquis au titre des primes versées à compter du 1er janvier 2011.
+Modifications effectuées en conséquence de l'article 131-I (1°) de la loi n° 2010-1657 du 29 décembre 2010.
