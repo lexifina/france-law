@@ -24,30 +24,6 @@ NOM
 
 |
 
-TENEURS MAXIMALES EN RÉSIDUS DANS LES ARÔMES
-
-|
-
-Méthanol
-
-|
-
-10 mg/kg
-
-|
-
-Propanol-2
-
-|
-
-10 mg/kg
-
-|
-
-NOM
-
-|
-
 TENEURS MAXIMALES EN RÉSIDUS
 
 dans la denrée alimentaire dus à l'utilisation de solvants
@@ -106,6 +82,14 @@ Butanol-2
 
 |
 
+Méthanol
+
+|
+
+1,5 mg/kg
+
+|
+
 Méhyl-éthyl-cétone (1)
 
 |
@@ -123,6 +107,14 @@ Dichlorométhane
 |
 
 Propanol-1
+
+|
+
+1 mg/kg
+
+|
+
+Propanol-2
 
 |
 

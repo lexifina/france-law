@@ -124,7 +124,7 @@ Saumons et truites non transformés.
 
 |
 
-Lavage en solution aqueuse de pH inférieur à 2, 8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable.
+Lavage en solution aqueuse de pH inférieur à 2,8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable.
 
 |
 
@@ -548,7 +548,7 @@ A la dose strictement nécessaire pour obtenir l'effet recherché. 10 à 100 g p
 
 |
 
-Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 5 µm
+Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 5 µm.
 
 |
 
@@ -769,6 +769,24 @@ Ce solvant ne doit pas laisser dans les denrées alimentaires des teneurs en ré
 |
 
 Dose techniquement inévitable.
+
+|
+
+Ether diméthylique.
+
+|
+
+Solvants d'extraction.
+
+|
+
+Préparation de produits à base de protéines animales dégraissées.
+
+|
+
+0,009 mg/kg dans le produit à base de protéines dégraissées.
+
+|
 
 |
 
@@ -1030,7 +1048,7 @@ Tuiles.
 
 |
 
-A la dose strictement nécessaire pour obtenir l'effet recherché.L'huile minérale est utilisée en mélange avec de la cire d'abeille.
+A la dose strictement nécessaire pour obtenir l'effet recherché. L'huile minérale est utilisée en mélange avec de la cire d'abeille.
 
 |
 
@@ -1232,7 +1250,7 @@ Graisses et huiles alimentaires (sauf beurre).
 
 |
 
-Fractionnement de graisses et d'huiles. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Fractionnement de graisses et d'huiles.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
