@@ -1,15 +1,7 @@
 # Article 159 quinquies-0 B
 
-Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en application des articles 323 et 323 A de l'annexe II au code général des impôts sont fixés conformément aux dispositions de l'article A. 421-4 du code des assurances ci-après reproduit :
+Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en application des articles 323 et 323 A de l'annexe 2 au code général des impôts sont fixés conformément aux dispositions de l'article A. 421-4 du code des assurances.
 
-Art. A. 421-4 - Les taux des contributions prévues pour l'alimentation du fonds de garantie des assurances obligatoires de dommages en application des articles R. 421-38 et R. 421-39 sont fixés comme suit :
+NOTA :
 
-Contribution des entreprises d'assurance au titre du 1° de l'article R. 421-38 : 1 % de la totalité des charges des opérations du fonds de garantie afférentes à la chasse et à la destruction des animaux nuisibles ;
-
-Contribution des responsables d'accidents corporels non assurés au titre du 2° de l'article R. 421-38 :
-
-- taux normal : 10 % des indemnités restant à leur charge ;
-
-- taux réduit, lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des articles 393 à 395 du code rural : 5 % ;
-
-Contribution forfaitaire des assurés au titre du 3° de l'article R. 421-38 : 0,02 euro par personne garantie.
+Conformément à l'article 1 de l'arrêté du 26 mai 2014 (NOR : FCPE1407471A), ces dispositions sont devenues sans objet en conséquence de l'article 62-II de la loi n° 2013-1279 du 29 décembre 2013.
