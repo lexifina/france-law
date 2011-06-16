@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317450
+
+- Question : [SEQ110317450](seq110317450.md) — Suppression de l'obligation de nationalité française pour l'attribution de la carte du combattant aux supplétifs de la guerre d'Algérie et des combats en Tunisie et au Maroc
+
+## Réponse
+
+*Défense, JO du 2011-06-16, page 1590*
+
+Les dispositions relatives aux conditions de nationalité et de résidence s'appliquant aux membres des forces supplétives de l'armée française, abrogées par la décision du Conseil constitutionnel n° 2010-18 QPC du 23 juillet 2010, ont cessé leurs effets à compter du 24 juillet 2010, date de la publication de cette décision au Journal officiel de la République française, celle-ci n'ayant pas d'effet rétroactif. En effet, en application de l'article 62 de la Constitution du 4 octobre 1958, une disposition déclarée inconstitutionnelle sur le fondement de l'article 61-1 est abrogée à compter de la date de publication de la décision du Conseil constitutionnel ou d'une date ultérieure fixée par cette même décision, ce qui n'est pas le cas en l'espèce. Pour ce qui concerne les demandes de carte du combattant en instance d'instruction à la date du 24 juillet 2010, les attributions ne pourront prendre effet qu'à compter de cette date. Les demandes formulées postérieurement à la décision du Conseil constitutionnel seront examinées à leur date de dépôt. Les personnes ayant eu leur demande de carte rejetée du fait qu'elles ne remplissaient pas les conditions de nationalité ou de résidence devront formuler individuellement une nouvelle demande. Leurs droits seront nécessairement ouverts à compter du dépôt de cette nouvelle demande. Concernant l'attribution de la retraite du combattant, celle-ci étant liée à la possession effective de la carte du combattant, elle ne pourra être accordée antérieurement à la décision du Conseil constitutionnel.
