@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217081
+
+- Question : [SEQ110217081](seq110217081.md) — Définition des "périodes chaudes" de la journée
+
+## Réponse
+
+*Agriculture, JO du 2011-06-16, page 1583*
+
+En application de l'arrêté du 28 novembre 2003 relatif aux conditions d'utilisation des insecticides et acaricides à usage agricole en vue de protéger les abeilles et autres insectes pollinisateurs, les traitements réalisés au moyen d'insecticides et d'acaricides sont interdits durant toute la période de floraison, et pendant la période de production d'exsudats, quels que soient les produits et l'appareil applicateur utilisés, sur tous les peuplements forestiers et toutes les cultures visités par ces insectes. Lorsque des plantes en fleurs ou en période de production d'exsudats se trouvent sous des arbres ou à l'intérieur d'une zone agricole destinés à être traités par des insecticides ou acaricides, leurs parties aériennes doivent être détruites ou rendues non attractives pour les abeilles avant le traitement. Par dérogation à ces principes généraux, et ce, afin de permettre aux agriculteurs de conduire leurs cultures, certains produits clairement identifiés peuvent être utilisés durant ces périodes si, et seulement si, les insecticides et les acaricides à utiliser ont fait l'objet d'une évaluation spécifique démontrant la nécessité de leur utilisation durant ces périodes, et sous réserve que ces produits soient utilisés en dehors de la présence d'abeilles c'est-à-dire en dehors des périodes chaudes de la journée. La notion d'heures chaudes de la journée est une notion d'usage commun sans définition précise et particulière. On peut toutefois considérer qu'il s'agit approximativement de la plage horaire solaire comprise entre 9 et 17 heures, pendant laquelle l'activité de butinage des abeilles est la plus intense.
