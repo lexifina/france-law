@@ -1,0 +1,297 @@
+# Article 1er
+
+L'annexe I « Grille de classification » est modifiée comme suit :
+
+Les descriptions de fonctions figurant dans la grille de classification ci-dessous sont données à titre d'exemple, une polyvalence étant requise de la part de l'ensemble des salariés du fait de la nature de l'activité.
+
+Le personnel travaillant en surface de vente est le vecteur de l'image de marque de l'entreprise et doit constamment le traduire par son comportement et sa tenue.
+
+Le souci permanent de satisfaction de la clientèle et la nature de l'activité tenant à des produits fragiles et périssables requièrent que le personnel informe régulièrement et précisément la hiérarchie.
+
+Il est enfin rappelé que les emplois peuvent avoir des appellations différentes : c'est par référence aux caractéristiques du poste occupé et non par référence au titre donné que le classement de chaque intéressé doit être effectué.
+
+Chaque entreprise définit les coefficients correspondant aux emplois ne figurant pas dans la présente grille en fonction des responsabilités dévolues et des qualifications mises en œuvre. Ces définitions sont transmises aux représentants du personnel et délégués syndicaux.
+
+Coefficient |
+
+Emploi |
+
+Définition |
+
+155 |
+
+Manutentionnaire en jardinerie et graineterie |
+
+Exécute notamment les travaux suivants, sous contrôle hiérarchique :
+
+– manutention ;
+
+– livraison et services ;
+
+– entretien ;
+
+– maintenance des végétaux et des produits périssables ;
+
+– mise en rayon. |
+
+155 |
+
+Agent administratif
+
+(1er échelon) |
+
+Agent d'exécution dans les domaines administratif, commercial et comptable.
+
+Peut être amené (e) à exécuter des tâches en surface de vente. |
+
+160 |
+
+Employé (e) de jardinerie et de graineterie |
+
+D'une manière générale, exécute tous les travaux demandés par la hiérarchie et, notamment :
+
+– manutention ;
+
+– réception quantitative ;
+
+– livraison et services ;
+
+– encaissement ;
+
+– entretien ;
+
+– mise en rayon ;
+
+– étiquetage et emballage ;
+
+– maintenance des végétaux et des produits périssables.
+
+Il (elle) peut se faire aider par un ou plusieurs manutentionnaires sans pouvoir de subordination hiérarchique.
+
+Une grande polyvalence et une grande disponibilité sont exigées pour ce poste afin de répondre à toute surcharge de travail. |
+
+160 |
+
+Vendeur (se)
+
+(1er échelon) |
+
+Contrôle ou exécute lui-même (elle-même) les tâches des salariés relevant des emplois précédents.
+
+Assure un contact direct avec la clientèle et est capable de renseigner sur les produits et de les vendre.
+
+Assure la préparation des commandes, la réception quantitative et qualitative des produits, leur mise en place et la présentation des rayons. |
+
+160 |
+
+Hôte-hôtesse de caisse (1er échelon)
+
+et/ ou
+
+Hôte-hôtesse d'accueil
+
+(1er échelon) |
+
+Est responsable de la caisse et des encaissements.
+
+Est garant (e) de la bonne tenue et de la propreté de son poste.
+
+Participe activement à l'accueil de la clientèle.
+
+Traite les réclamations simples en application des procédures internes.
+
+Est garant (e) de l'image de marque de l'entreprise, dernier point de contact avec la clientèle.
+
+Fait remonter l'information.
+
+Surveille et contrôle les mouvements de marchandise aux caisses.
+
+Respecte les imputations comptables.
+
+Assure l'emballage de finition des produits achetés.
+
+Est appelé (e), suivant sa disponibilité, à effectuer des travaux annexes, notamment ceux dévolus à l'employé de jardinerie. |
+
+160 |
+
+Réceptionnaire |
+
+En conformité avec les procédures, il organise et gère la réception des marchandises ainsi que les sorties et les retours.
+
+Il assure en temps réel la mise à jour des données de réception dans le système d'information.
+
+Il contrôle les mouvements entrées-sorties des marchandises qualitativement et quantitativement.
+
+Il informe les équipes de vente des entrées/ sorties des marchandises.
+
+En accord avec elles, il veille à leur bonne répartition.
+
+Il a la responsabilité de la bonne tenue et de la propreté des aires de stockage ainsi que de l'évacuation des déchets.
+
+Il gère le planning de réception des fournisseurs.
+
+Est appelé, suivant sa disponibilité, à effectuer des travaux annexes, notamment ceux dévolus à l'employé de jardinerie. |
+
+165 |
+
+Agent administratif
+
+(2e échelon) |
+
+Est chargé (e) de la réception téléphonique et de l'accueil.
+
+Remplit des tâches administratives, informatiques, commerciales et comptables (facturation, courrier, classement, contrôle des factures …).
+
+Peut être amené (e) à exécuter des tâches en surface de vente. |
+
+170 |
+
+Vendeur (se)
+
+(2e échelon) |
+
+Contrôle ou exécute lui-même (elle-même) les tâches des salariés relevant des emplois précédents.
+
+Assure un contact direct avec la clientèle et dispense le conseil spécifique aux produits dont il (elle) a la parfaite connaissance technique.
+
+Conduit une réflexion sur l'organisation des rayons, les achats et fait des propositions dans ce domaine.
+
+Propose à son supérieur les bonnes quantités à commander et peut être amené à passer occasionnellement des commandes.
+
+Contrôle l'étiquetage des produits et la signalétique du rayon.
+
+Tient à jour le cahier des démarques.
+
+Une grande polyvalence et une grande disponibilité sont exigées pour ce poste. |
+
+170 |
+
+Hôte-hôtesse de caisse (2e échelon)
+
+et/ ou
+
+Hôte-hôtesse d'accueil
+
+(2e échelon) |
+
+Assure les fonctions du premier échelon.
+
+Assure la centralisation des informations et des remarques de la clientèle et est capable de les transmettre à la hiérarchie.
+
+D'une manière générale, possède une expérience lui conférant des qualités de rapidité, d'efficacité et de fiabilité. |
+
+175 |
+
+Secrétaire |
+
+Employé (e) de service administratif ou commercial. Il (elle) rédige la majeure part des correspondances à partir des directives générales et remplit, par ailleurs, les tâches de l'agent administratif, avec une forte capacité d'autonomie. |
+
+180 |
+
+Vendeur (se) confirmé (e) |
+
+Vendeur (se) 2e échelon ayant une bonne compétence dans les différents rayons de la jardinerie.
+
+Il (elle) peut avoir à former ou accompagner des vendeurs de moindre qualification, particulièrement le personnel saisonnier.
+
+Il (elle) peut être amené (e) à passer des commandes dans le cadre de procédures internes. Connaît les grandes lignes d'implantation de son rayon et applique les directives commerciales définies. |
+
+180 |
+
+Comptable |
+
+Assurer tous les travaux comptables et administratifs d'une ou plusieurs sociétés dans le respect des normes fiscales et légales, sous la responsabilité de sa hiérarchie, notamment :
+
+– effectue les écritures de régularisation jusqu'au bilan.
+
+– établit les déclarations fiscales et sociales, garantit leur conformité, leur contenu et les procédures qui concourent à leurs mises en forme. |
+
+185 |
+
+Gestionnaire de rayon |
+
+Contrôle ou exécute lui-même (elle-même) les tâches des salariés relevant des emplois précédents.
+
+Vendeur (se) confirmé (e) possédant une maîtrise technique reconnue sur l'ensemble des composants de son métier.
+
+Il (elle) sait utiliser les outils de gestion de l'entreprise en appliquant les directives de sa hiérarchie.
+
+Il (elle) assure la surveillance permanente des stocks et en assure les commandes. |
+
+190 |
+
+Responsable de rayons |
+
+Contrôle ou exécute lui-même les tâches des employés relevant des emplois précédents.
+
+Assure l'exploitation du ou des rayons dont il (elle) est responsable et agit afin d'atteindre les objectifs fixés.
+
+Ses actions s'inscrivent dans le cadre :
+
+– du management de son équipe ;
+
+– du développement des ventes et de la marge, le déploiement et la mise en place de la politique commerciale du Groupe et des opérations commerciales, la tenue du rayon ;
+
+– de la gestion de l'assortiment (en veillant à respecter les directives commerciales), des stocks et des prix de ventes. |
+
+200 |
+
+Responsable du secteur |
+
+Contrôle ou exécute les mêmes taches des employés relevant des emplois précédents.
+
+Responsable de la gestion des rayons qu'il (elle) encadre et de l'animation de ses équipes. |
+
+220 |
+
+Adjoint de direction |
+
+Assiste le directeur ou l'employeur et en assure l'intérim dans le cadre d'une délégation limitée de responsabilité dans le fonctionnement de l'établissement.
+
+Participe au respect des lignes de la politique de l'entreprise. |
+
+260 |
+
+Responsable de point de vente |
+
+Assure la direction d'un point de vente avec l'aide des services centraux de son entreprise dans le cadre d'une délégation de fonctions et de responsabilités.
+
+Participe au respect des lignes directrices de la politique de l'entreprise.
+
+Fait preuve de compétence en matière d'animation et d'encadrement du personnel.
+
+Développe l'esprit d'entreprise.
+
+Participe à l'application et au respect des consignes de sécurité. |
+
+350 |
+
+Directeur |
+
+Assume, dans le cadre de la délégation de pouvoirs qu'il (elle) détient du chef d'entreprise et en fonction des objectifs qui lui ont été assignés, la responsabilité de son (ses) point (s) de vente, ceux-ci devant regrouper une équipe d'au moins 15 salariés.
+
+Fait preuve de compétence en matière d'animation et d'encadrement du personnel.
+
+Développe l'esprit d'entreprise du personnel.
+
+Accorde une attention particulière à la formation.
+
+Participe à l'application et au respect des consignes de sécurité. |
+
+400 |
+
+Directeur régional |
+
+A sous son autorité hiérarchique plusieurs directeurs.
+
+Assure notamment la responsabilité du contrôle de l'animation et du développement de sa région.
+
+A un rôle d'initiative particulièrement important.
+
+Participe à l'application et au respect des consignes de sécurité. |
+
+Appendice
+
+Pour tenir compte de la technicité acquise par les années d'expérience professionnelle dans l'entreprise, l'employeur vérifie que la rémunération du salarié ayant plus de 2 ans d'ancienneté dans le même coefficient est au moins égale à la rémunération minimale correspondant à celui-ci majorée de 2 points, et au-delà de 5 ans et dans les mêmes conditions majorée de 3 points.
+
+Ce système ne s'applique que sur la base des minima conventionnels. Les entreprises ayant une politique salariale plus forte ne sont donc pas concernées.
