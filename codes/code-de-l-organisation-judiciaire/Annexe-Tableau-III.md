@@ -20,21 +20,15 @@ Alpes-Maritimes
 
 |
 
-Nice
-
-|
+Nice |
 
 Menton, Nice (Ariane).
 
 |
 
-Bouches-du-Rhône
+Bouches-du-Rhône |
 
-|
-
-Aix-en-Provence
-
-|
+Aix-en-Provence |
 
 Aix-en-Provence (Jas du Bouffan), Martigues, Salon-de-Provence.
 
@@ -54,9 +48,7 @@ Arles
 
 |
 
-Var
-
-|
+Var |
 
 Toulon
 
@@ -66,13 +58,9 @@ La Seyne-sur-Mer, Toulon.
 
 |
 
-Cour d'appel d'Amiens
+Cour d'appel d'Amiens |
 
-|
-
-Oise
-
-|
+Oise |
 
 Beauvais
 
@@ -98,9 +86,7 @@ Creil.
 
 |
 
-Somme
-
-|
+Somme |
 
 Amiens
 
@@ -124,9 +110,7 @@ Angers.
 
 |
 
-Sarthe
-
-|
+Sarthe |
 
 Le Mans
 
@@ -164,9 +148,7 @@ Angoulême.
 
 |
 
-Dordogne
-
-|
+Dordogne |
 
 Bergerac
 
@@ -176,9 +158,7 @@ Bergerac.
 
 |
 
-Gironde
-
-|
+Gironde |
 
 Bordeaux
 
@@ -230,9 +210,7 @@ Annemasse, Saint-Julien-en-Genevois.
 
 |
 
-Savoie
-
-|
+Savoie |
 
 Albertville
 
@@ -264,9 +242,7 @@ Strasbourg.
 
 |
 
-Haut-Rhin
-
-|
+Haut-Rhin |
 
 Colmar
 
@@ -298,9 +274,7 @@ Chenôve.
 
 |
 
-Saône-et-Loire
-
-|
+Saône-et-Loire |
 
 Chalon-sur-Saône
 
@@ -348,9 +322,7 @@ Roubaix, Tourcoing.
 
 |
 
-Pas-de-Calais
-
-|
+Pas-de-Calais |
 
 Valenciennes
 
@@ -390,9 +362,7 @@ Saint-Laurent-du-Maroni.
 
 |
 
-Martinique
-
-|
+Martinique |
 
 Fort-de-France
 
@@ -420,17 +390,13 @@ Hautes-Alpes
 
 |
 
-Gap
-
-|
+Gap |
 
 Briançon
 
 |
 
-Isère
-
-|
+Isère |
 
 Grenoble
 
@@ -462,9 +428,7 @@ Brive-la-Gaillarde.
 
 |
 
-Haute-Vienne
-
-|
+Haute-Vienne |
 
 Limoges
 
@@ -500,9 +464,7 @@ Saint-Etienne.
 
 |
 
-Rhône
-
-|
+Rhône |
 
 Lyon
 
@@ -548,9 +510,7 @@ Narbonne.
 
 |
 
-Hérault
-
-|
+Hérault |
 
 Béziers
 
@@ -610,9 +570,7 @@ Joué-lès-Tours.
 
 |
 
-Loir-et-Cher
-
-|
+Loir-et-Cher |
 
 Blois
 
@@ -622,9 +580,7 @@ Blois.
 
 |
 
-Loiret
-
-|
+Loiret |
 
 Orléans
 
@@ -644,13 +600,11 @@ Evry
 
 |
 
-Athis-Mons, Les Ulis, Villemoisson-sur-Orge (val d'Orge).
+Athis-Mons, Les Ulis, Villemoisson-sur-Orge (Val d'Orge).
 
 |
 
-Paris
-
-|
+Paris |
 
 Paris
 
@@ -660,15 +614,13 @@ Paris (10e), Paris (14e), Paris (17e).
 
 |
 
-Seine-et-Marne
-
-|
+Seine-et-Marne |
 
 Meaux
 
 |
 
-Chelles, Meaux, Val Maubuée.
+Chelles, Meaux, Val-Maubuée.
 
 |
 
@@ -680,27 +632,23 @@ Pontault-Combault, Savigny-le-Temple.
 
 |
 
-Seine-Saint-Denis
-
-|
+Seine-Saint-Denis |
 
 Bobigny
 
 |
 
-Aubervilliers, Clichy-sous-Bois - Montfermeil, Epinay-sur-Seine, La Courneuve, Le Blanc-Mesnil, Pantin, Saint-Denis.
+Aubervilliers, Clichy-sous-Bois-Montfermeil, Epinay-sur-Seine, La Courneuve, Le Blanc-Mesnil, Pantin, Saint-Denis.
 
 |
 
-Val-de-Marne
-
-|
+Val-de-Marne |
 
 Créteil
 
 |
 
-Champigny-sur-Marne.
+Champigny-sur-Marne, Val de Bièvre.
 
 |
 
@@ -732,9 +680,7 @@ Charleville-Mézières, Sedan.
 
 |
 
-Aube
-
-|
+Aube |
 
 Troyes
 
@@ -744,9 +690,7 @@ Troyes.
 
 |
 
-Marne
-
-|
+Marne |
 
 Reims
 
@@ -778,9 +722,7 @@ Lannion (4).]
 
 |
 
-Loire-Atlantique
-
-|
+Loire-Atlantique |
 
 Nantes
 
@@ -834,9 +776,7 @@ Evreux, Louviers, Pont-Audemer, Vernon (4).]
 
 |
 
-Seine-Maritime
-
-|
+Seine-Maritime |
 
 Le Havre
 
@@ -868,9 +808,7 @@ Toulouse, Toulouse-Nord, Toulouse-Ouest.
 
 |
 
-Tarn
-
-|
+Tarn |
 
 Castres
 
@@ -894,9 +832,7 @@ Dreux, Nogent-le-Rotrou.
 
 |
 
-Hauts-de-Seine
-
-|
+Hauts-de-Seine |
 
 Nanterre
 
@@ -906,9 +842,7 @@ Bagneux, Châtenay-Malabry, Gennevilliers.
 
 |
 
-Val-d'Oise
-
-|
+Val-d'Oise |
 
 Pontoise
 
@@ -918,9 +852,7 @@ Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Vill
 
 |
 
-Yvelines
-
-|
+Yvelines |
 
 Versailles
 
