@@ -1766,6 +1766,106 @@ L'épreuve vise à évaluer :
 
 - la capacité à présenter les possibilités de valorisation de ce dossier dans les différentes fonctions de l'exploitation (pédagogique, expérimentation-développement, production).
 
+SECTION INGÉNIERIE DE FORMATION PROFESSIONNELLE
+
+Concours interne
+
+NATURE DES ÉPREUVES
+
+|
+
+DURÉE
+
+|
+
+COEFFICIENT
+
+|
+
+Epreuve écrite d'admissibilité
+
+|
+
+|
+
+|
+
+1. Etude de thème(s) d'enseignement
+
+|
+
+5 heures
+
+|
+
+2
+
+|
+
+Epreuve orale d'admission
+
+|
+
+|
+
+|
+
+2. Epreuve professionnelle
+
+|
+
+Préparation : 30 minutes
+
+|
+
+3
+
+|
+
+|
+
+Exposé : 15 minutes maximum
+
+Entretien : 40 minutes maximum
+
+|
+
+|
+
+Epreuve écrite d'admissibilité :
+
+1. Cette épreuve consiste en une étude de cas portant sur l'exercice des missions de l'enseignement agricole, au niveau des établissements, centres de formation et réseaux. Elle vise à vérifier les capacités du candidat à utiliser ses compétences en matière d'ingénierie. Le candidat pourra être amené à analyser et à interpréter le cas sous les aspects suivants : techniques, humains, pédagogiques, réglementaires, juridiques et financiers.
+
+L'épreuve doit permettre d'apprécier :
+
+- la capacité du candidat à conduire une action d'ingénierie dans un contexte défini ;
+
+- la capacité de réflexion du candidat sur la place de l'ingénierie de formation dans le système éducatif, et en particulier dans un établissement d'enseignement technique agricole ;
+
+- les capacités d'expression et de communication du candidat.
+
+Epreuve orale d'admission :
+
+2. Cette épreuve s'appuie sur un dossier fourni par le candidat, qui comprend :
+
+- un curriculum vitae de deux pages dactylographiées maximum ;
+
+- un rapport d'activités professionnelles de dix pages dactylographiées maximum et sans annexes ; il présente de façon plus approfondie l'analyse de deux actions d'ingénierie distinctes, dont au moins une inclura un volet pédagogique.
+
+L'épreuve comporte un exposé oral sur une seule des deux situations, au choix du jury, suivi d'un entretien. Ce dernier sera élargi à partir de l'ensemble des éléments du dossier.
+
+L'étude du dossier par le jury et l'entretien avec le candidat permettent d'évaluer les compétences requises, l'aptitude à exercer les missions et les fonctions de professeur de lycée professionnel agricole en ingénierie de formation.
+
+L'épreuve vise à évaluer :
+
+- la maîtrise et la mobilisation des connaissances et compétences acquises ;
+
+- la cohérence, la faisabilité et la pertinence des démarches proposées par le candidat en fonction du contexte ;
+
+- la capacité du candidat à adopter des modes de communication adaptés à l'exercice des fonctions d'ingénierie ;
+
+- la capacité du candidat à analyser ses propres pratiques et à intégrer les évolutions des problématiques d'ingénierie.
+
 SECTION NAVIGATION ET TECHNIQUE DU NAVIRE
 
 Concours interne
