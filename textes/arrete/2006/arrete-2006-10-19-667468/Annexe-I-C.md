@@ -2574,6 +2574,16 @@ Modification des interactions triglycérides/ gluten. |
 
 Teneur résiduelle techniquement inévitable. |
 
+Lipase immobilisée d'une souche de Rhizopus niveus non génétiquement modifiée (NL-1). |
+
+Enzymes. |
+
+Industrie des huiles et graisses alimentaires. |
+
+Hydrolyse des triglycérides. |
+
+Teneur techniquement inévitable. |
+
 Lipase de Rhizopus oryzae FLP-1.
 
 |
@@ -3742,6 +3752,16 @@ Hydrolyse des liaisons 1-6 glycosidiques des polysaccharides. |
 
 Teneur résiduelle techniquement inévitable. |
 
+Pullulanase de type I ou pullulane 6-glucohydrolase d'une souche non génériquement modifiée de Pullulanibacillus sp. DSM 22469. |
+
+Enzymes. |
+
+Production d'édulcorants et de maltodextrines à partir d'amidon. |
+
+Hydrolyse des liaisons alpha 1-6 glucosides de l'amidon. |
+
+Teneur techniquement inévitable. |
+
 Ribonucléase de Penicillium citrinum.
 
 |
@@ -4103,3 +4123,13 @@ Industrie de l'alcool. |
 Hydrolyse des liaisons osidiques des hémicelluloses. |
 
 Teneur résiduelle techniquement inévitable. |
+
+Xylanase d'une souche de Trichoderma longibrachiatum non génétiquement modifiée CBS 614.94. |
+
+Enzymes. |
+
+Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale. |
+
+Hydrolyse des liaisons osidiques des hémicelluloses. |
+
+Teneur techniquement inévitable. |

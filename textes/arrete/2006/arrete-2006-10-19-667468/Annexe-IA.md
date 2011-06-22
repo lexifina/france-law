@@ -124,7 +124,7 @@ Saumons et truites non transformés.
 
 |
 
-Lavage en solution aqueuse de pH inférieur à 2,8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable.
+Lavage en solution aqueuse de pH inférieur à 2, 8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable.
 
 |
 
@@ -548,7 +548,7 @@ A la dose strictement nécessaire pour obtenir l'effet recherché. 10 à 100 g p
 
 |
 
-Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 5 µm.
+Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 5 µm
 
 |
 
@@ -585,6 +585,26 @@ Sucre.
 |
 
 A la dose strictement nécessaire.
+
+|
+
+Dose techniquement inévitable.
+
+|
+
+Cires autorisées par l'arrêté du 2 octobre 1997 (cires de carnauba, de candelilla et cire d'abeille).
+
+|
+
+Agent de démoulage.
+
+|
+
+Biscuiterie, viennoiserie, pâtisserie, panification sèche (à l'exception du pain de tradition française).
+
+|
+
+A la dose maximale de 6 % (p/p) de cires (pour l'une des cires utilisée seule, ou la somme de deux ou trois cires utilisées en combinaison) dans la formulation d'agents de démoulage à base d'huiles ou de graisses végétales.
 
 |
 
@@ -962,7 +982,7 @@ Produits à base de protéines dégraissées et de farines dégraissées.
 
 |
 
-Préparations de produits à base de protéines dégraissées et de farines dégraissées. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Préparations de produits à base de protéines dégraissées et de farines dégraissées.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
@@ -1048,7 +1068,7 @@ Tuiles.
 
 |
 
-A la dose strictement nécessaire pour obtenir l'effet recherché. L'huile minérale est utilisée en mélange avec de la cire d'abeille.
+A la dose strictement nécessaire pour obtenir l'effet recherché.L'huile minérale est utilisée en mélange avec de la cire d'abeille.
 
 |
 
@@ -1230,7 +1250,7 @@ Café et thé.
 
 |
 
-Décaféination ou suppression des matières irritantes et amères du café ou du thé. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Décaféination ou suppression des matières irritantes et amères du café ou du thé.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
