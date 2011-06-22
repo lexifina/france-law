@@ -14,8 +14,6 @@ DIPLÔME(S), CERTIFICAT(S) OU TITRE(S) permettant de se présenter dans la spéc
 
 |
 
-|
-
 5
 
 |
@@ -24,9 +22,7 @@ Biologie médicale.
 
 |
 
-DES de biologie médicale ou équivalent tel que défini à l'article 5-II c du présent arrêté.
-
-|
+DES de biologie médicale ou équivalent tel que défini à l'article 5-II 4 b du présent arrêté.
 
 |
 
@@ -42,8 +38,6 @@ DES de chirurgie générale.
 
 |
 
-|
-
 60
 
 |
@@ -53,8 +47,6 @@ Chirurgie viscérale et digestive.
 |
 
 DESC de chirurgie viscérale et digestive.
-
-|
 
 |
 
@@ -70,8 +62,6 @@ DESC de chirurgie infantile.
 
 |
 
-|
-
 9
 
 |
@@ -81,8 +71,6 @@ Chirurgie maxillo-faciale.
 |
 
 DESC de chirurgie maxillo-faciale et stomatologie. DESC de chirurgie de la face et du cou.
-
-|
 
 |
 
@@ -98,8 +86,6 @@ DESC de chirurgie orthopédique et traumatologie.
 
 |
 
-|
-
 11
 
 |
@@ -109,8 +95,6 @@ Chirurgie plastique reconstructrice et esthétique.
 |
 
 DESC de chirurgie plastique reconstructrice et esthétique.
-
-|
 
 |
 
@@ -126,8 +110,6 @@ DESC de chirurgie thoracique et cardio-vasculaire.
 
 |
 
-|
-
 47
 
 |
@@ -137,8 +119,6 @@ Chirurgie urologique.
 |
 
 DESC de chirurgie urologique.
-
-|
 
 |
 
@@ -154,8 +134,6 @@ DESC de chirurgie vasculaire.
 
 |
 
-|
-
 18
 
 |
@@ -165,8 +143,6 @@ Gynécologie et obstétrique.
 |
 
 DES de gynécologie-obstétrique.
-
-|
 
 |
 
@@ -182,8 +158,6 @@ DES de neurochirurgie.
 
 |
 
-|
-
 33
 
 |
@@ -193,8 +167,6 @@ Ophtalmologie.
 |
 
 DES d'ophtalmologie.
-
-|
 
 |
 
@@ -210,8 +182,6 @@ DES d'oto-rhino-laryngologie et chirurgie cervico-faciale.
 
 |
 
-|
-
 46
 
 |
@@ -221,8 +191,6 @@ Stomatologie.
 |
 
 DES de stomatologie.
-
-|
 
 |
 
@@ -238,8 +206,6 @@ DES d'anatomie et cytologie pathologiques.
 
 |
 
-|
-
 3
 
 |
@@ -249,8 +215,6 @@ Anesthésie-réanimation.
 |
 
 DES d'anesthésie-réanimation.
-
-|
 
 |
 
@@ -266,8 +230,6 @@ DES de cardiologie et maladies vasculaires.
 
 |
 
-|
-
 13
 
 |
@@ -277,8 +239,6 @@ Dermatologie et vénéréologie.
 |
 
 DES de dermatologie et vénéréologie.
-
-|
 
 |
 
@@ -294,22 +254,6 @@ DES d'endocrinologie et métabolisme.
 
 |
 
-|
-
-79
-
-|
-
-Explorations fonctionnelles.
-
-|
-
-Un des DES de spécialités médicales ou chirurgicales. DES de pédiatrie. DES de gynécologie médicale. DES de gynécologie-obstétrique.
-
-|
-
-|
-
 20
 
 |
@@ -319,8 +263,6 @@ Gastro-entérologie et hépatologie.
 |
 
 DES de gastro-entérologie et hépatologie.
-
-|
 
 |
 
@@ -336,8 +278,6 @@ DES de génétique médicale.
 
 |
 
-|
-
 76
 
 |
@@ -347,8 +287,6 @@ Gériatrie.
 |
 
 DESC de gériatrie. Capacité de gérontologie.
-
-|
 
 |
 
@@ -364,8 +302,6 @@ DES d'hématologie.
 
 |
 
-|
-
 19
 
 |
@@ -375,10 +311,6 @@ Hémobiologie transfusion.
 |
 
 DES d'hématologie. DESC d'hémobiologie transfusion. Capacité de technologie transfusionnelle.
-
-|
-
-|
 
 |
 
@@ -396,8 +328,6 @@ DIPLÔME(S), CERTIFICAT(S) OU TITRE(S) permettant de se présenter dans la spéc
 
 |
 
-|
-
 14
 
 |
@@ -407,8 +337,6 @@ Hygiène hospitalière.
 |
 
 DES de biologie médicale. DES de santé publique. DES de pharmacie. DESC de pathologie infectieuse et tropicale, clinique et biologique. DESC de biologie des agents infectieux.
-
-|
 
 |
 
@@ -424,8 +352,6 @@ DES d'hématologie. DES de médecine interne. DESC d'allergologie et immunologie
 
 |
 
-|
-
 24
 
 |
@@ -435,8 +361,6 @@ Maladies infectieuses, maladies tropicales.
 |
 
 DES de médecine interne. DESC de pathologie infectieuse et tropicale, clinique et biologique.
-
-|
 
 |
 
@@ -452,8 +376,6 @@ DESC de médecine d'urgence. Capacité de médecine d'urgence.
 
 |
 
-|
-
 17
 
 |
@@ -462,9 +384,7 @@ Médecine de la reproduction et gynécologie médicale.
 
 |
 
-DES de gynécologie médicale. DESC de médecine de la reproduction.
-
-|
+DES de gynécologie médicale. DESC de médecine de la reproduction. DES de gynécologie-obstétrique.
 
 |
 
@@ -480,8 +400,6 @@ DES de médecine du travail.
 
 |
 
-|
-
 71
 
 |
@@ -490,9 +408,7 @@ Médecine générale.
 
 |
 
-DES de médecine générale.
-
-|
+DES de médecine générale qualification en médecine générale annexée au diplôme d'Etat de docteur en médecine.
 
 |
 
@@ -508,8 +424,6 @@ DES de médecine interne.
 
 |
 
-|
-
 26
 
 |
@@ -519,8 +433,6 @@ Médecine légale.
 |
 
 DESC de médecine légale et expertises médicales. Capacité de pratiques médico-judiciaires.
-
-|
 
 |
 
@@ -536,8 +448,6 @@ DES de médecine physique et de réadaptation.
 
 |
 
-|
-
 28
 
 |
@@ -547,8 +457,6 @@ Néphrologie.
 |
 
 DES de néphrologie.
-
-|
 
 |
 
@@ -564,8 +472,6 @@ DES de neurologie.
 
 |
 
-|
-
 6
 
 |
@@ -575,8 +481,6 @@ Oncologie médicale.
 |
 
 DES d'oncologie, option onco-hématologie. DES d'oncologie, option oncologie médicale.
-
-|
 
 |
 
@@ -592,8 +496,6 @@ DES de pédiatrie.
 
 |
 
-|
-
 59
 
 |
@@ -603,8 +505,6 @@ Pharmacologie clinique et toxicologie.
 |
 
 Diplôme d'Etat de docteur en pharmacie. DESC de pharmacologie clinique et évaluation des thérapeutiques.
-
-|
 
 |
 
@@ -620,8 +520,6 @@ DES de pneumologie.
 
 |
 
-|
-
 42
 
 |
@@ -631,8 +529,6 @@ Oncologie radiothérapique.
 |
 
 DES d'oncologie, option radiothérapique.
-
-|
 
 |
 
@@ -648,8 +544,6 @@ DESC de réanimation médicale.
 
 |
 
-|
-
 45
 
 |
@@ -659,8 +553,6 @@ Rhumatologie.
 |
 
 DES de rhumatologie.
-
-|
 
 |
 
@@ -676,8 +568,6 @@ DES de santé publique et médecine sociale.
 
 |
 
-|
-
 75
 
 |
@@ -687,8 +577,6 @@ Odontologie polyvalente.
 |
 
 Diplôme d'Etat de docteur en chirurgie dentaire.
-
-|
 
 |
 
@@ -704,8 +592,6 @@ Diplôme d'Etat de docteur en pharmacie.
 
 |
 
-|
-
 74
 
 |
@@ -715,8 +601,6 @@ Psychiatrie polyvalente.
 |
 
 DES de psychiatrie.
-
-|
 
 |
 
@@ -732,8 +616,6 @@ DES de médecine nucléaire.
 
 |
 
-|
-
 41
 
 |
@@ -743,21 +625,5 @@ Radiologie.
 |
 
 DES de radiodiagnostic et imagerie médicale.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
