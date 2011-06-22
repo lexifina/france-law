@@ -1,28 +1,24 @@
 # Article CTS 32
 
-Suivi des modifications.
+Modifications. - Extensions
 
-§ 1. Les modifications majeures suivantes font obligatoirement l'objet d'une nouvelle procédure de demande de registre de sécurité selon les dispositions de l'article CTS 3 :
+§ 1. Les modifications définitives importantes (modifications ou changement partiel ou total de la structure porteuse, changement de la totalité de la couverture ou de la ceinture, etc.) doivent faire l'objet d'une attestation de conformité délivrée dans les mêmes conditions que pour les établissements nouveaux.
 
-- changement de hauteur d'un établissement ;
+§ 2. Si la construction est modulaire et que des extensions de capacité sont projetées, celles-ci sont autorisées à condition qu'elles soient réalisées avec des éléments identiques au modèle de base et assemblés dans les mêmes conditions.
 
-- changement de largeur d'un établissement ;
+Dans ce cas, il n'y a pas lieu de recommencer la procédure visée à l'article CTS 3. Toutefois, le propriétaire doit aviser le bureau de vérification et les précisions concernant ces extensions doivent être insérées dans le registre de sécurité.
 
-- changement partiel ou total de la toile de couverture d'un chapiteau ;
+§ 3. La procédure visée à l'article CTS 3 est applicable à un ensemble de petites tentes, si les conditions suivantes sont respectées :
 
-- acquisition d'une partie d'un établissement " existant " (d'occasion).
+- les tentes sont toutes identiques et montées indépendamment les unes des autres ;
 
-§ 2. Les modifications mineures suivantes ne donnent pas lieu à une procédure visée à l'article CTS 3 mais à une mise à jour du registre de sécurité par le propriétaire et de l'extrait de registre par l'organisme agréé de vérification technique CTS :
+- la superficie d'une tente ne doit pas excéder 50 mètres carrés ;
 
-- extension ou diminution de la longueur d'un établissement modulaire par des éléments structurels identiques au modèle type provenant du fabricant de l'établissement ;
+- les tentes doivent être techniquement juxtaposables pour former un ensemble continu de dimension variable ;
 
-- remplacement à l'identique d'éléments structurels provenant du fabricant de l'établissement (modèle type) ;
+- l'attestation de conformité doit intégrer à la fois les éléments propres à une seule tente et à l'ensemble (activités envisagées, capacité, description, etc.).
 
-- remplacement partiel ou total de la toile d'une tente ou d'une structure, si le procès-verbal de réaction au feu précise le classement M2 et que cette inscription figure sur la toile de manière indélébile ;
-
-- détérioration ou destruction d'une partie d'un établissement modulaire monté de manière isolée du reste de l'établissement ;
-
-- changement de propriétaire d'un établissement. Dans ce cas, l'organisme agréé de vérification technique CTS est tenu d'informer, dans les plus brefs délais, le préfet du département qui a délivré le registre de sécurité de l'établissement.
+Si des extensions de capacité sont projetées, celles-ci sont autorisées à condition qu'elles soient réalisées avec des éléments identiques au modèle de base. Dans ce cas, il n'y a pas lieu de recommencer la procédure visée à l'article CTS 3. Toutefois, le propriétaire doit aviser le bureau de vérification et les précisions concernant ces extensions doivent être insérées dans le registre de sécurité ainsi que dans ses extraits.
 
 NOTA :
 
