@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317482
+
+- Question : [SEQ110317482](seq110317482.md) — Situation des seniors
+
+## Réponse
+
+*Travail, JO du 2011-06-23, page 1666*
+
+Le ministre du travail, de l'emploi et de la santé a pris connaissance avec intérêt de la question relative à l'entrée en vigueur de la disposition relative à l'emploi des seniors, prévue à l'article 103 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites. La crise économique et financière s'est traduite par des suppressions d'emplois, dont certaines seront durables, obligeant ainsi les salariés licenciés pour motif économique à se reconvertir ou à se requalifier. Dans ce contexte, il est apparu pertinent d'aider à l'embauche des demandeurs d'emploi qui pourront, à partir d'un certain âge, bénéficier d'un contrat de professionnalisation qui leur permettra d'accéder à l'emploi en renforçant leurs qualifications. Le taux d'insertion à l'issue d'un contrat de professionnalisation est en effet très élevé : quel que soit l'âge du bénéficiaire, il est de l'ordre de 70 %. C'est la raison pour laquelle le Président de la République a annoncé la création d'une aide forfaitaire supplémentaire de 2 000 € pour les employeurs qui recruteront des demandeurs d'emploi de plus de 45 ans en contrat de professionnalisation. Cette aide, financée par l'État, sera cumulable avec celle de 2 000 € déjà versée par Pôle Emploi pour les contrats de professionnalisation destinés aux salariés âgés de 26 ans et plus et avec l'exonération de charges sociales. Cette aide a été instaurée par le décret n° 2011-524 du 16 mai 2011 relatif à l'embauche des demandeurs d'emploi de 45 ans et plus en contrat de professionnalisation, dont les dispositions s'appliquent rétroactivement à compter du 1er mars 2011. L'objectif est de soutenir la conclusion de 10 000 de ces contrats.
