@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090910074
+
+- Question : [SEQ090910074](seq090910074.md) — Calcul de la pension vieillesse des anciens militaires retraités
+
+## Réponse
+
+*Défense, JO du 2011-06-23, page 1652*
+
+Conformément à l'article L. 65 du code des pensions civiles et militaires de retraite et à l'article D. 173-16 du code de la sécurité sociale, les militaires radiés des cadres sans droit à pension militaire de retraite ou à solde de réforme peuvent prétendre au rétablissement de leurs droits auprès de l'assurance vieillesse du régime général de sécurité sociale, qui doit valider, à titre rétroactif, les périodes accomplies comme des trimestres cotisés. Une restriction territoriale, introduite au sein du régime général de sécurité sociale en 1951, a pour effet d'exclure de ce dispositif les services militaires effectués à l'étranger ou dans un territoire d'outre-mer avant le 1er janvier 1989. Conscient du caractère inéquitable de cette situation, qui concerne plus de 20 000 anciens militaires, le ministère de la défense s'est efforcé, depuis plusieurs années, de trouver une solution satisfaisante. C'est ainsi qu'en novembre 2009 a été obtenu l'agrément du ministère chargé de la solidarité pour lever la condition de territorialité instaurée en 1951. Cette décision doit permettre aux militaires ayant servi avant 1989 en dehors de la France métropolitaine et des départements d'outre-mer de bénéficier de leur affiliation rétroactive auprès de l'assurance vieillesse du régime général de sécurité sociale, en cas de départ sans droit à pension militaire de retraite, dès lors que les modalités de mise en oeuvre de cette mesure auront été conjointement définies par le ministère du travail, de l'emploi et de la santé et par le ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'État.
