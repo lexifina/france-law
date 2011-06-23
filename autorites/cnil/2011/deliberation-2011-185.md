@@ -1,0 +1,53 @@
+# Délibération n°2011-185 du 23 juin 2011 refusant la mise en œuvre par la société LOTSYS d’un traitement de données à caractère personnel reposant sur la reconnaissance des empreintes digitales et ayant pour finalité l’accès aux salles informatiques (autorisation n°1488396)
+
+- Nature : Deliberation
+- Type : Autre autorisation
+- Numéro : 2011-185
+- Date : 2011-06-23
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000024458510
+
+La Commission nationale de l’informatique et des libertés,
+
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement de données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée en 2004, notamment son article 25-I-8° ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, modifié par le décret n°2007-451 du 25 mars 2007 ;
+
+Sur le rapport de M. Emmanuel de GIVRY, commissaire, et les observations de Mme Elisabeth ROLIN, commissaire du gouvernement ;
+
+En application de l’article 25-I-8° de la loi du 6 janvier 1978 modifiée en août 2004, la Commission est saisie par la société LOTSYS d’un traitement de données à caractère personnel reposant sur la reconnaissance des empreintes digitales et ayant pour finalité le contrôle de l’accès aux salles informatiques de la société.
+
+Formule les observations suivantes :
+
+La société LOTSYS développe des logiciels pour l’industrie des jeux de hasard et des paris sportifs. Elle souhaite utiliser un dispositif biométrique pour contrôler l’accès à ses salles informatiques dans lesquelles se trouvent les serveurs contenant l’ensemble des développements qu’elle a réalisés.
+
+Le dispositif choisi repose sur un double système d’authentification, par badge puis par empreinte digitale. Les salariés et prestataires de service autorisés à accéder aux salles informatiques doivent passer leur badge puis apposer leur doigt sur le terminal de lecture-comparaison.
+
+Les données biométriques sont enregistrées sur le terminal de lecture-comparaison et non sur le badge.
+
+D’une manière générale, la Commission observe qu’une donnée biométrique constitue un élément d’identité irrévocable dont la diffusion non maîtrisée, ou accidentelle, peut avoir des conséquences irrémédiables pour les personnes. En effet, à la différence de tout autre identifiant (code, mot de passe, etc.) la donnée biométrique ne peut être changée une fois collectée.
+
+Ainsi, parce que l’empreinte digitale constitue une « trace » laissée en abondance par les personnes à leur insu, la Commission rappelle que sa captation frauduleuse, désormais aisée en l’état des techniques, exige que son utilisation soit limitée et encadrée afin d’empêcher que l’exemplaire de l’empreinte récupéré ne puisse être utilisé pour :
+
+procéder à l’identification d’une personne à son insu par rapprochement avec un fichier nominatif d’empreintes digitales ;
+
+usurper l’identité d’une personne, par exemple pour frauder un dispositif reposant sur la reconnaissance de l’empreinte digitale.
+
+La Commission considère également que la constitution de bases de données d'empreintes digitales ne peut être admise que dans certaines circonstances particulières où l'exigence d'identification des personnes résulte d’un fort impératif de sécurité, conformément aux dispositions de l’article 6-3° de la loi du 6 janvier 1978 modifiée. En effet, cet article dispose que les traitements ne peuvent porter que sur des données à caractère personnel adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées et de leurs traitements ultérieurs.
+
+A cet égard, la Commission observe que le dispositif destiné au contrôle de l’accès aux salles informatiques n’a pas pour objet de sécuriser l’accès à une zone représentant un enjeu majeur dépassant l’intérêt strict de l’organisme concerné, mais répond au besoin d’éviter que le badge des personnes autorisées à accéder aux salles informatiques ne soit utilisé par une personne non autorisée.
+
+La Commission relève que cet objectif pourrait être atteint par d’autres moyens comme un mot de passe ou, le cas échéant, via des dispositifs reposant, par exemple, sur la reconnaissance d’autres données biométriques telles que le contour de la main ou le réseau veineux du doigt de la main. Ces données, en l’état actuel de la technique, ne sont pas susceptibles d’être capturées à l’insu des personnes et, dès lors, ne comportent pas de risques particuliers pour les libertés et les droits fondamentaux des personnes.
+
+En conséquence, le traitement pris dans son ensemble n'apparaît ni adapté ni proportionné du point de vue de la protection des données personnelles.
+
+Dès lors, la Commission n’autorise pas, en l’état, la société LOTSYS – 57, rue Salomon de Rothschild, 92156 SURESNES - à mettre en œuvre un traitement de données à caractère personnel reposant sur l’utilisation d’un dispositif biométrique de reconnaissance des empreintes digitales et dont la finalité est le contrôle de l’accès aux salles informatiques.
+
+Le Président
+
+Alex TURK
