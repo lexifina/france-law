@@ -16,11 +16,11 @@ Corps des attachés d'administration hospitalière
 
 |
 
-Attaché principal
+Attachés principaux
 
 |
 
-20 %
+15 %
 
 |
 
@@ -28,19 +28,19 @@ Corps des adjoints des cadres hospitaliers
 
 |
 
-Adjoint des cadres hospitaliers de classe supérieure
+Adjoints des cadres hospitaliers de classe supérieure
 
 |
 
-6 %
+20 %
 
 |
 
-Adjoint des cadres hospitaliers de classe exceptionnelle
+Adjoints des cadres hospitaliers de classe exceptionnelle
 
 |
 
-7 %
+15 %
 
 |
 
@@ -48,19 +48,19 @@ Corps des secrétaires médicaux
 
 |
 
-Secrétaire médical de classe supérieure
+Secrétaires médicales de classe supérieure
 
 |
 
-6 %
+12 %
 
 |
 
-Secrétaire médical de classe exceptionnelle
+Secrétaires médicales de classe exceptionnelle
 
 |
 
-7 %
+10 %
 
 |
 
