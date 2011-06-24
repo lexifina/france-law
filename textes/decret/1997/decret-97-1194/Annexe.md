@@ -570,6 +570,36 @@ Article 2, alinéa 1.
 
 |
 
+Décret n
+
+°
+
+2011-708 du 21 juin 2011 modifiant le code de la consommation en ce qui concerne la mise sur
+
+le marché et l’utilisation des aliments pour animaux
+
+1
+
+|
+
+Autorisation d’utiliser, à des fins de recherche scientifique, en tant
+
+qu’additifs pour l’alimentation animale des substances non autorisées
+
+au niveau communautaire lorsque les essais sont conduits en condition
+
+d’élevage ou lorsque les animaux sur lesquels sont conduits les essais
+
+sont destinés à entrer dans la chaîne alimentaire. Décision conjointe
+
+avec les ministres chargés de la santé et de l’agriculture.
+
+|
+
+Article 2.
+
+|
+
 Décisions entrant dans le champ des compétences de la Commission centrale des marchés
 
 Code des marchés publics
