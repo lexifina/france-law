@@ -3338,6 +3338,30 @@ Acheteur
 
 |
 
+Nombre de contrats et puissance installée bénéficiant de l'obligation d'achat par type de contrat |
+
+KW
+
+|
+
+commune
+
+|
+
+|
+
+Annuelle
+
+|
+
+A + 6 mois
+
+|
+
+Acheteur
+
+|
+
 3.7. Impact sur l'emploi des personnes affectées aux activités de production, transport, distribution et fourniture d'élec­tricité
 
 |
