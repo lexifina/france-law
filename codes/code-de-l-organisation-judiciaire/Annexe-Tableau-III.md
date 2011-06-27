@@ -390,7 +390,9 @@ Hautes-Alpes
 
 |
 
-Gap |
+Gap
+
+|
 
 Briançon
 
@@ -484,7 +486,7 @@ Metz
 
 |
 
-Woippy.
+Faulquemont, Woippy.
 
 |
 
