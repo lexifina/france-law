@@ -1,0 +1,87 @@
+# Article 1er
+
+Le présent avenant annule et remplace l'article 2.2 intitulé « Commission paritaire nationale d'interprétation et de conciliation ». Il annule et remplace le règlement intérieur de la commission paritaire nationale d'interprétation et de conciliation.
+
+Le nouvel article 2.2 est ainsi rédigé :
+
+« Article 2.2
+
+Commission paritaire nationale d'interprétation, de conciliation et de validation des accords conclus avec les élus du personnel
+
+2.2.1. Composition
+
+La commission paritaire nationale d'interprétation, de conciliation et de validation est composée de :
+
+– deux représentants par organisation syndicale de salariés signataires de la convention collective nationale ;
+
+– un nombre équivalent de représentants des groupements syndicaux d'employeurs.
+
+Elle sera présidée alternativement, tous les 2 ans, par un représentant des employeurs ou des salariés. Le secrétariat de la commission sera effectué par les syndicats employeurs.
+
+Cette commission élaborera un règlement intérieur afin de fixer les règles d'organisation et de fonctionnement.
+
+2.2.2. Missions
+
+La commission a pour missions :
+
+– de donner toute interprétation motivée des textes de la convention collective nationale, de ses annexes et de ses avenants ;
+
+– de concilier tout conflit collectif (au sens de l'article L. 2261-22 du code du travail) survenu au sein d'un organisme appartenant au champ d'application de la présente convention ;
+
+– de vérifier la conformité des accords signés entre l'employeur, ou son représentant et les élus du personnel, conformément à la loi, avec les dispositions conventionnelles, règlementaires et la loi en vigueur.
+
+2.2.3. Assistance technique
+
+Pour toutes les questions intéressant l'application de la convention collective, les représentants employeurs et salariés peuvent se faire, assister, à titre consultatif, d'un conseiller technique.
+
+2.2.4. Avis d'interprétation et de conciliation
+
+a) Saisine de la commission
+
+Les conflits et interprétations soulevées par l'une des parties sont présentés par un des partenaires sociaux de la branche et sont signifiés par lettre motivée au président en exercice. Celui-ci se charge de convoquer la commission qui se réunit dans un délai maximum de 2 mois suivant la réception de la lettre.
+
+Chaque demande doit être accompagnée d'un rapport écrit circonstancié pour étude préalable de la ou des questions soumises.
+
+Les conciliations individuelles pourront être acceptées selon les modalités définies par le règlement intérieur.
+
+b) Délibération
+
+La commission paritaire ne pourra délibérer que si la moitié au moins des organisations syndicales de salariés signataires est présente.
+
+c) Notification
+
+Les décisions de la commission paritaire sont immédiatement exécutoires, après notification de la décision aux parties dans un délai de 15 jours à compter de la date de la réunion.
+
+La décision est notifiée par courrier recommandé avec accusé de réception à l'organisation syndicale qui a saisi le président de la commission. L'ensemble des partenaires sociaux de la branche est informé par courriel.
+
+2.2.5. Validation des accords conclus avec les élus du personnel
+
+a) Saisine de la commission
+
+Dans son rôle de validation, la commission paritaire doit examiner la conformité des accords signés conformément à la loi entre l'employeur, ou son représentant, et les élus du personnel. La commission n'exerce pas de contrôle d'opportunité de ces accords.
+
+La commission se réunit, sur convocation du président, dans les 2 mois maximum suivant la réception du dossier complet.
+
+A cet effet, la partie signataire la plus diligente envoie au secrétariat de cette commission, en lettre recommandée avec accusé de réception, un exemplaire de l'accord dont elle demande validation. S'il s'agit d'un avenant à un accord, l'accord initial doit être joint.
+
+A cette demande, il doit être joint une fiche signalétique, complétée et signée par l'employeur et les représentants élus du personnel figurant en annexe.
+
+Si le dossier est incomplet, dès réception, le secrétariat de la commission demande, par lettre recommandée avec accusé de réception, à l'auteur de la saisine de le compléter.
+
+Tout dossier incomplet, à la date de la réunion de la commission devant procéder à son examen, fera l'objet d'une décision de rejet pour irrecevabilité.
+
+Dès que le dossier est complet, le secrétariat de la commission adresse au plus tard 15 jours avant la réunion à chaque organisation syndicale membre de la commission, une copie de l'ensemble du dossier.
+
+b) Délibération
+
+La commission émet un procès-verbal de validation ou de non validation de l'accord collectif qui lui a été transmis.
+
+L'accord ne sera considéré comme validé que s'il recueille l'accord de la majorité des organisations syndicales de salariés reconnues représentatives au niveau de la branche et l'accord de la majorité des organisations d'employeurs signataires de la convention.
+
+Faute de validation juridique, l'accord sera réputé non écrit.
+
+La commission a 4 mois, après réception du dossier complet par les partenaires sociaux, pour donner son avis. A défaut de réponse, l'accord est réputé avoir été validé.
+
+c) Notification
+
+La décision prise par la commission est portée à la connaissance des parties signataires qui ont saisi la commission, par lettre recommandée avec accusé de réception, dans un délai de 15 jours à compter de la date de la réunion. »
