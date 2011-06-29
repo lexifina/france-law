@@ -1,15 +1,15 @@
 # Article 1er
 
-La présente convention collective de travail conclue dans le cadre des dispositions des articles L. 131-1, L. 132-1 et L. 133-1 du code du travail, règle les rapports entre les sociétés et entreprises concessionnaires ou gestionnaires de ports de plaisance qui sont affiliées à la fédération française des ports de plaisance, d'une part, et leurs salariés des deux sexes, d'autre part.
+La présente convention collective nationale de travail étendue, conclue dans le cadre des dispositions des articles L. 2221-1, L. 2221-2 et L. 2261-19 du code du travail, règle les rapports entre les entreprises, établissements, organismes et institutions, concessionnaires, délégataires, gestionnaires ou exploitants de ports de plaisance maritimes, lacustres et fluviaux, d'une part, et leurs salarié (e) s, d'autre part.
 
-Le champ d'application territorial de la présente convention collective s'étend à l'ensemble du territoire métropolitain et des départements d'outre-mer.
+Le champ d'application de la présente convention collective s'étend à l'ensemble du territoire de la France métropolitaine, de ses départements d'outre-mer et de Saint-Pierre-et-Miquelon.
 
-Conformément aux dispositions de l'article L. 131-2 du code du travail, la présente convention collective ne s'applique pas aux établissements et entreprises dont le personnel est soumis au même statut législatif ou réglementaire particulier que celui d'entreprises publiques.
+Compte tenu du caractère industriel et commercial de l'activité d'exploitation d'un port de plaisance qu'il soit maritime, lacustre ou fluvial et conformément aux dispositions des articles L. 2211-1 et L. 2233-1 et suivants du code du travail, la présente convention collective s'applique aux établissements publics à caractère industriel et commercial (EPIC), notamment aux ports de plaisance à gestion de droit public exploités en régie.
 
-Dans le cadre des dispositions de l'article L. 133-10 du code du travail, la présente convention fera l'objet dès sa signature d'une demande d'extension à toutes les sociétés et entreprises relevant du champ d'application ci-dessus défini.
+Dans le cadre des dispositions du code du travail, la présente convention et ses annexes ont fait l'objet dès leur signature d'une extension à toutes les entreprises, établissements, organismes et institutions relevant du champ d'application ci-dessus défini.
 
-Les dispositions de la présente convention collective annulent et remplacent les accords particuliers d'entreprises, locaux ou régionaux, qui auraient pu être conclus antérieurement, mais sans préjudice des avantages acquis ainsi que précité à l'article ci-après.
+Les dispositions de la présente convention collective annulent et remplacent les accords particuliers d'entreprises ou d'établissements, locaux ou régionaux, qui auraient pu être conclus antérieurement, mais sans préjudice des avantages acquis, comme précisé dans l'article 3.
 
 Des annexes à la présente convention collective fixent les conditions particulières d'emploi propres aux différentes catégories de personnel.
 
-Les marins professionnels, anciennement dénommés inscrits maritimes, employés dans les ports de plaisance et qui auront conservé leur statut, seront régis par les dispositions de la présente convention collective dans les domaines non prévus par les dispositions relevant du code du travail maritime et des régimes spéciaux des marins professionnels.
+(Dispositions applicables au 1er juillet 2012 : Avenant n° 77 du 29 juin 2011)
