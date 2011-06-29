@@ -1,8 +1,10 @@
-# Article Table 21.1
+# Article Tableau 21.1
 
 Intégrité au feu des cloisons qui séparent des locaux adjacents
 
-Locaux
+LOCAUX
+
+|
 
 |
 
@@ -114,15 +116,15 @@ Ce
 
 |
 
-B-0e
+C(e)
 
 |
 
-A-0a
+B-0(e)
 
 |
 
-B-0e
+A-0(a)
 
 |
 
@@ -141,8 +143,6 @@ A-0
 A-0
 
 |
-
-A-1
 
 A-0d
 
