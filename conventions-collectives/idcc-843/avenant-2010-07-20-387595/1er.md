@@ -1,0 +1,133 @@
+# Article 1er
+
+Les dispositions de l'article 9 : « Classification de la convention collective nationale », sont supprimées et remplacées par :
+
+« Article 9
+
+Classification
+
+Le personnel des boulangeries et boulangeries-pâtisseries est réparti en :
+
+– personnel de fabrication ;
+
+– personnel de vente ;
+
+– personnel de services ;
+
+– personnel d'encadrement.
+
+La définition et les coefficients hiérarchiques des catégories professionnelles du personnel des boulangeries et boulangeries-pâtisseries sont les suivants :
+
+Personnel de fabrication
+
+Coefficient 155 :
+
+– personnel de fabrication sans CAP ;
+
+– personnel de fabrication titulaire du BEP.
+
+Coefficient 160 :
+
+– personnel de fabrication titulaire d'un CAP.
+
+Coefficient 170 :
+
+– personnel de fabrication titulaire d'un CAP après 1 an au coefficient 160 ;
+
+– personnel de fabrication titulaire du BEP après 2 ans au coefficient 155 ;
+
+– personnel de fabrication n'étant pas susceptible de tenir tous les postes ou travaillant sous le contrôle effectif du chef d'entreprise ou d'un ouvrier plus qualifié.
+
+Coefficient 175 :
+
+– personnel de fabrication titulaire d'un CAP connexe ;
+
+– personnel de fabrication titulaire d'une mention complémentaire ;
+
+– personnel de fabrication titulaire d'un bac professionnel,2 ans maximum dans cette catégorie.
+
+Coefficient 185 :
+
+– ouvrier qualifié pouvant tenir tous les postes et assurer avec ou sans le concours du chef d'entreprise l'ensemble de la fabrication boulangerie ou pâtisserie ;
+
+– ouvrier titulaire de deux mentions complémentaires ou du BP ou du BTM ;
+
+– ouvrier titulaire du bac professionnel après deux années au coefficient 175.
+
+Coefficient 190 :
+
+– ouvrier titulaire de deux mentions complémentaires après deux années au coefficient 185 ;
+
+– ouvrier qualifié mettant effectivement en pratique alternativement ou simultanément ses compétences concernant la boulangerie et la pâtisserie ;
+
+– ouvrier titulaire du BP après deux années au coefficient 185.
+
+Coefficient 195 :
+
+– ouvrier hautement qualifié titulaire d'un BM ;
+
+– ouvrier hautement qualifié titulaire du BMS ;
+
+– ouvrier hautement qualifié titulaire d'un BTM après deux années au coefficient 185 ;
+
+– ouvrier hautement qualifié qui coordonne le travail d'autres ouvriers.
+
+Coefficient 240 :
+
+– assistant du chef d'entreprise qui organise les achats, la fabrication et coordonne le travail d'autres ouvriers.
+
+Personnel de vente
+
+Coefficient 155 :
+
+– personnel de vente sans CAP.
+
+Coefficient 160 :
+
+– personnel de vente titulaire du CAP ou personnel de vente après 1 an au coefficient 155 ou personnel de vente ambulante.
+
+Coefficient 165 :
+
+– responsable d'un point de vente ;
+
+– personnel de vente au coefficient 160 titulaire du CQP « Vendeur/ vendeuse – Conseil en boulangerie-pâtisserie ».
+
+Coefficient 170 :
+
+– responsable d'un point de vente titulaire du CQP « vendeur/ vendeuse – Conseil en boulangerie-pâtisserie ».
+
+Coefficient 175 :
+
+– responsable d'un point de vente occupant jusqu'à 2 salariés.
+
+Coefficient 180 :
+
+– responsable d'un point de vente occupant jusqu'à 2 salariés titulaire du CQP « vendeur/ vendeuse – Conseil en boulangerie-pâtisserie ».
+
+Coefficient 185 :
+
+– responsable d'un point de vente occupant au moins 3 salariés.
+
+Coefficient 190 :
+
+– responsable d'un point de vente occupant au moins 3 salariés titulaire du CQP « vendeur/ vendeuse – Conseil en boulangerie-pâtisserie ».
+
+Personnel de services
+
+Coefficient 155 :
+
+– personnel sans qualification avec possibilité d'assurer occasionnellement des livraisons.
+
+Coefficient 160 :
+
+– Personnel avec qualification ou chauffeur-livreur.
+
+Coefficient 170 :
+
+– personnel administratif.
+
+Personnel d'encadrement
+
+Cadre 1 : assistant du chef d'entreprise qui organise les achats, la fabrication et la vente et coordonne le travail de l'ensemble du personnel et à ce titre jouit d'une réelle autonomie dans l'organisation de son travail.
+
+Cadre 2 : responsable d'entreprise qui assure la direction et la gestion de l'ensemble de l'entreprise et qui organise et supervise le travail de l'ensemble des salariés. »
