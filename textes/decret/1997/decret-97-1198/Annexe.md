@@ -876,11 +876,17 @@ Décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transp
 
 Interdiction ou restriction de mise sur le marché, de transport ou d'utilisation d'équipements dangereux, ainsi que leur retrait.
 
-Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipement dangereux (citernes).
+|
+
+Articles 24-1,24-2,24-3 et 24-4
 
 |
 
-Articles 19, 20 et 21.
+|
+
+Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux (récipients et citernes).
+
+|
 
 |
 
@@ -888,11 +894,11 @@ Articles 19, 20 et 21.
 
 |
 
-Habilitation ou agrément des organismes de contrôle ainsi que leur suspension ou retrait (citernes).
+Habilitation des organismes de contrôle ainsi que leur suspension ou retrait (récipients et citernes).
 
 |
 
-Articles 14 et 24.
+Articles 22 et 24-7.
 
 |
 
@@ -1807,6 +1813,100 @@ bateaux de la navigation intérieure.
 |
 
 Article R. 224-12. |
+
+Décret du 2 avril 1926 modifié portant règlement sur les appareils à vapeur autres que ceux placés à bord des bateaux
+
+1
+
+|
+
+Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité industrielle (appareils à pression)
+
+|
+
+Articles 5 et 6.
+
+|
+
+2
+
+|
+
+Retrait du marché de produits dangereux.
+
+|
+
+Article 45-1.
+
+|
+
+Décret n° 43-63 du 18 janvier 1943 modifié portant règlement sur les appareils à pression de gaz
+
+1
+
+|
+
+Retrait du marché d'appareils ou de produits dangereux
+
+|
+
+Article 8.
+
+|
+
+2
+
+|
+
+Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité industrielle (appareils à pression)
+
+|
+
+Article 6 bis.
+
+|
+
+Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression :
+
+1
+
+|
+
+Habilitation d'organismes de contrôle mentionnés aux articles 10,12,18 et aux points 3.1.2 et 3.1.3 de l'annexe 1, ainsi que la suspension ou le retrait de cette habilitation.
+
+|
+
+Articles 14,21 et 23.
+
+|
+
+|
+
+Habilitation d'organes d'inspection d'utilisateurs mentionnés à l'article 14 ainsi que la suspension ou le retrait de cette habilitation.
+
+|
+
+|
+
+2
+
+|
+
+Interdiction ou restriction de mise sur le marché, de mise en service ou de maintien en service d'équipements dangereux ainsi que leur retrait.
+
+|
+
+Articles 28 et 29.
+
+|
+
+|
+
+Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux.
+
+|
+
+|
 
 Mesure prise par le ministre chargé de l'urbanisme
 
