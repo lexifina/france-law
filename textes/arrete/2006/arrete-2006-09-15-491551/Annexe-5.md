@@ -8,7 +8,7 @@ Pour le modèle 6.1 de diagnostic mentionné en annexe 6, la mention de la date 
 
 Les frais annuels de la consommation d'énergie calculée sont, pour chaque type d'énergie utilisée pour le chauffage, la production d'eau chaude sanitaire et le refroidissement des locaux, le produit de la quantité d'énergie finale nécessaire par le prix du kWh auquel est ajouté le coût de l'abonnement éventuel en fonction des classes de consommation et selon les barèmes figurant dans le tableau suivant. Ces frais sont estimés en faisant abstraction des autres usages de certaines énergies.
 
-Tableau des tarifs des énergies (15 août 2006)
+Tableau des tarifs des énergies (15 août 2010)
 
 |
 
@@ -24,7 +24,7 @@ PRIX DU kWh
 
 (en centimes d'euro TTC)
 
-Tarif au 15 août 2006
+Tarif au 15 août 2010
 
 |
 
@@ -34,7 +34,7 @@ Fioul
 
 |
 
-6,82
+7,00
 
 |
 
@@ -48,9 +48,9 @@ indiqué à droite
 
 |
 
-- 5,55 (TVA à 5,5 %
+7,15
 
-sur abonnement)
+(TVA à 5,5 % sur abonnement)
 
 |
 
@@ -60,7 +60,7 @@ Propane (en kWh PCS)
 
 |
 
-10,31
+9,92
 
 |
 
@@ -70,7 +70,7 @@ Charbon
 
 |
 
-6,43
+6,52
 
 |
 
@@ -80,7 +80,7 @@ Bois
 
 |
 
-2,6
+3,53
 
 |
 
@@ -96,11 +96,11 @@ Gaz distribué (en kWh PCS) :
 
 |
 
-25,32
+41,37
 
 |
 
-7,20
+8,66
 
 |
 
@@ -108,11 +108,11 @@ Gaz distribué (en kWh PCS) :
 
 |
 
-35,95
+54,91
 
 |
 
-5,99
+7,42
 
 |
 
@@ -120,11 +120,11 @@ Gaz distribué (en kWh PCS) :
 
 |
 
-125,21
+179,68
 
 |
 
-4,31
+4,99
 
 |
 
@@ -132,11 +132,11 @@ Gaz distribué (en kWh PCS) :
 
 |
 
-187,62
+179,68
 
 |
 
-4,14
+4,99
 
 |
 
@@ -152,11 +152,7 @@ Electricité (les consommations indiquées concernent le chauffage, la productio
 
 |
 
-61,05
-
 |
-
-13,11
 
 |
 
@@ -164,7 +160,11 @@ Electricité (les consommations indiquées concernent le chauffage, la productio
 
 |
 
+83,12
+
 |
+
+11,00
 
 |
 
@@ -172,11 +172,11 @@ Electricité (les consommations indiquées concernent le chauffage, la productio
 
 |
 
-120,58
+96,93
 
 |
 
-10,74
+11,25
 
 |
 
@@ -186,9 +186,9 @@ Electricité (les consommations indiquées concernent le chauffage, la productio
 
 |
 
-Heures pleines (10,74)
+Heures pleines (12,35)
 
-Heures creuses (6,54) (*)
+Heures creuses (7,84) (*)
 
 |
 
@@ -196,11 +196,11 @@ Heures creuses (6,54) (*)
 
 |
 
-105,87
+100,00
 
 |
 
-9,06
+10,55
 
 |
 
@@ -208,11 +208,11 @@ Heures creuses (6,54) (*)
 
 |
 
-189,85
+119,96
 
 |
 
-9,06
+10,55
 
 |
 
@@ -220,11 +220,11 @@ Heures creuses (6,54) (*)
 
 |
 
-274,04
+202,89
 
 |
 
-9,06
+10,55
 
 |
 
@@ -232,11 +232,11 @@ Heures creuses (6,54) (*)
 
 |
 
-358,12
+238,80
 
 |
 
-9,06
+10,55
 
 |
 
@@ -244,11 +244,11 @@ Heures creuses (6,54) (*)
 
 |
 
-442,21
+272,22
 
 |
 
-9,06
+10,55
 
 |
 
