@@ -26,7 +26,9 @@ Tolérance en millèmes |
 
 Tranche |
 
-Pièces 1 000 € or qualité Brillant Universel |
+Pièces 1 000 € or qualité Brillant Universel
+
+|
 
 39 |
 
@@ -40,7 +42,9 @@ Minimum |
 
 Lisse |
 
-Pièces 200 € or qualité Brillant Universel |
+Pièces 200 € or qualité Brillant Universel
+
+|
 
 21 |
 
@@ -54,7 +58,9 @@ Minimum |
 
 Lisse |
 
-Pièces 100 € en argent qualité circulante |
+Pièces 100 € en argent qualité circulante
+
+|
 
 47 |
 
@@ -62,7 +68,7 @@ Argent 900 Cuivre 100 |
 
 +10
 
-― 5 |
+- 5 |
 
 50 |
 
@@ -72,7 +78,9 @@ Lisse |
 
 Pièces 10 € en argent qualité circulante
 
-Euros des Régions millésime 2011 |
+Euros des Régions millésime 2011
+
+|
 
 29 |
 
@@ -80,7 +88,7 @@ Argent 500 Cuivre 500 |
 
 +10
 
-― 5 |
+- 5 |
 
 10 |
 
@@ -88,7 +96,9 @@ Argent 500 Cuivre 500 |
 
 Lisse |
 
-Pièces 10 € en argent qualité circulante Mayotte |
+Pièces 10 € en argent qualité circulante Mayotte
+
+|
 
 29 |
 
@@ -104,7 +114,9 @@ Argent 900 Cuivre 100 |
 
 Lisse |
 
-Pièces 2 € qualité Belle Epreuve |
+Pièces 2 € qualité Belle Epreuve
+
+|
 
 25,75 |
 
@@ -118,7 +130,9 @@ Cuivre Nickel / Cuivre Zinc Nickel |
 
 Cannelée |
 
-Pièces 2 € qualité Brillant Universel |
+Pièces 2 € qualité Brillant Universel
+
+|
 
 25,75 |
 
@@ -132,7 +146,9 @@ Cuivre Nickel / Cuivre Zinc Nickel |
 
 Cannelée |
 
-Pièces 1 € 1/2 qualité Brillant Universel |
+Pièces 1 € 1/2 qualité Brillant Universel
+
+|
 
 30 |
 
@@ -145,3 +161,57 @@ Cuivre Aluminium Nickel |
 / |
 
 Cannelée |
+
+Pièces 20 € en argent qualité circulante |
+
+31
+
+|
+
+Argent 900 Cuivre 100
+
+|
+
+± 5
+
+|
+
+15
+
+|
+
+± 15
+
+|
+
+Lisse
+
+|
+
+Pièces 50 € en argent qualité circulante |
+
+41
+
+|
+
+Argent 900 Cuivre 100
+
+|
+
++10
+
+- 5
+
+|
+
+36
+
+|
+
+± 15
+
+|
+
+Lisse
+
+|
