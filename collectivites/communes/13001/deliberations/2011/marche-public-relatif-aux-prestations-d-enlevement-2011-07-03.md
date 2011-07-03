@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — MARCHE PUBLIC RELATIF AUX PRESTATIONS D'ENLÈVEMENT DE GRAFFITIS ET DE L'AFFICHAGE SAUVAGE SUR LE TERRITOIRE DE LA COMMUNE D'AIX EN PROVENCE - LANCEMENT D'UN APPEL D'OFFRES OUVERT EUROPÉEN - AUTORISATION DE SIGNATURE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2011-07-03
+- Séance : Conseil Municipal 2CA
+- Objet : MARCHE PUBLIC RELATIF AUX PRESTATIONS D'ENLÈVEMENT DE GRAFFITIS ET DE L'AFFICHAGE SAUVAGE SUR LE TERRITOIRE DE LA COMMUNE D'AIX EN PROVENCE - LANCEMENT D'UN APPEL D'OFFRES OUVERT EUROPÉEN - AUTORISATION DE SIGNATURE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-2381-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
