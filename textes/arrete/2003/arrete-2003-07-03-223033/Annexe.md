@@ -1,84 +1,72 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : conseiller (ère) service client à distance.
+Intitulé : conseiller (ère) relation client à distance.
 
 Niveau : IV.
 
-Code NSF : 312 t.
+Code NSF : 312 T.
 
 Résumé du référentiel d'emploi
 
-En tant qu'interface entre l'entreprise et le client, le (la) conseiller (ère) service client à distance établit une relation à distance, principalement par appels téléphoniques ou par courriel et parfois par internet, avec un interlocuteur client ou usager.
+Dans le respect des règles de la communication écrite et orale, de la réglementation en vigueur, des normes qualité et des chartes de l'entreprise, le (la) conseiller (ère) relation client à distance assure des missions de service, de conseil, de gestion et de démarche commerciale auprès de particuliers (appelé B to C, business to customer) et de professionnels (appelé B to B, business to business). Le contenu de ses missions dépend de l'activité de l'entreprise. Il (elle) agit dans un souci de satisfaire les clients et prospects en préservant les intérêts de l'entreprise. Le (la) conseiller (ère) relation client à distance utilise en permanence et en simultané le téléphone couplé à l'informatique et les applicatifs associés : CRM, intranet, internet.
 
-Lorsque le (la) conseiller (ère) travaille en réception d'appels, il (elle) apporte une réponse adaptée à l'interlocuteur, quelle que soit la nature de sa demande ou de son besoin : renseignements, information, assistance, conseil, réorientation. Il (elle) peut également lui proposer des ventes de produits ou de services commercialisés par l'entreprise qu'il (elle) représente.
+En fonction de l'organisation de l'entreprise, il (elle) effectue des appels entrants et sortants et peut éventuellement réaliser leur suivi par téléphone, courriel, courrier, fax, SMS. Il (elle) saisit et met à jour les données, historise, statue chaque appel et assure les traitements administratifs relatifs au dossier client.
 
-En émission d'appels, le (la) conseiller (ère) service client à distance établit une relation à distance avec le client ou le prospect pour vendre des produits ou des services ou pour réaliser des opérations de marketing dans le cadre de campagnes commerciales organisées par l'entreprise qu'il (elle) représente.
+Il (elle) respecte les limites de responsabilité associées de sa mission et oriente le client vers d'autres interlocuteurs si nécessaire. Lors de ses échanges avec les clients et prospects, le (la) conseiller (ère) relation client à distance se conforme aux procédures de l'entreprise. Il (elle) participe à des formations, des réunions d'équipe, des briefings et des challenges. Il (elle) est force de proposition pour l'amélioration des supports : guide d'entretien et outils de communication.
 
-Dans tous les cas, le (la) conseiller (ère) service client à distance s'appuie sur les renseignements contenus dans les fichiers clients/ prospects de l'entreprise pour mener l'entretien. Lors des contacts établis, il (elle) doit obtenir des informations pertinentes pour mettre à jour le fichier.
+Le (la) conseiller (ère) relation client à distance travaille dans un service internalisé à l'entreprise ou en sous-traitance chez un prestataire, généralement au sein d'une équipe encadrée par un (e) superviseur (se). L'emploi peut s'exercer à domicile dans un cadre de télétravail. Il (elle) réalise les objectifs quantitatifs et qualitatifs fixés par sa hiérarchie, rend compte des résultats de son action et fait remonter toutes les informations utiles à l'entreprise.
 
-Le (la) conseiller (ère) service client à distance peut également effectuer des tâches administratives pour le suivi des dossiers de commandes.
+L'emploi s'exerce en travail posté à temps plein ou à temps partiel. Les horaires peuvent être variables et s'effectuer la nuit, les week-ends et les jours fériés. Le rythme de travail varie en fonction des flux d'appels et des tâches multiples à effectuer au cours de la journée. L'emploi s'exerce en position assise prolongée devant un écran, dans un espace ouvert.
 
-L'activité du (de la) conseiller (ère) suppose qu'il (elle) gère en simultané un ensemble d'informations orales et écrites pour répondre dans les meilleurs délais aux clients. Son activité est placée sous une forte contrainte de temps du fait du nombre et de la fréquence des appels.
-
-Pour exercer ses fonctions, il (elle) est en relation directe avec un interlocuteur client ou usager, dans le cadre de procédures prescrites avec précision. Il (elle) travaille au sein d'une équipe de conseillers. La qualité et le rythme de travail font l'objet de contrôles réguliers.
+La rémunération comprend un fixe avec éventuellement une partie variable.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Assister, conseiller et vendre en réception d'appels
+1. Assurer des services, du conseil et de la gestion en relation client à distance
 
-Appliquer les techniques de communication à distance pour qualifier le fichier client.
+Assurer des missions d'information et de conseil.
 
-Utiliser les outils dédiés à la relation client à distance.
+Apporter une assistance, un service technique, un dépannage (SAV).
 
-Appliquer les procédures liées à la relation client à distance.
+Gérer des dossiers clients.
 
-Rechercher des informations et rendre compte de son activité en intégrant les éléments pertinents recueillis.
+Réaliser des actions de fidélisation.
 
-Assurer le traitement des travaux liés aux activités hors communication téléphonique.
+2. Réaliser des actions commerciales en relation client à distance
 
-Gérer efficacement son activité en fonction des flux et dans le cadre d'une équipe.
+Réaliser des actions de prospection, de détection de projets et de prise de rendez-vous.
 
-Accueillir et prendre en charge l'interlocuteur.
+Vendre des produits et des services.
 
-Traiter toutes les demandes à distance (multi-canaux).
+Réaliser des prises de commandes et des ventes additionnelles.
 
-Promouvoir et/ ou vendre les produits et services additionnels.
+Assurer le recouvrement de créances.
 
-2. Réaliser des actions mercatiques (marketing) et commerciales en émission d'appels
+Compétences transversales de l'emploi
 
-Appliquer les techniques de communication à distance pour qualifier le fichier client.
+Communiquer efficacement, à l'écrit et à l'oral, en relation client à distance.
 
-Utiliser les outils dédiés à la relation client à distance.
+Utiliser les technologies de l'information et maîtriser les outils multicanaux en centre de relation client à distance.
 
-Appliquer les procédures liées à la relation client à distance.
-
-Rechercher des informations et rendre compte de son activité en intégrant les éléments pertinents recueillis.
-
-Assurer le traitement des travaux liés aux activités hors communication téléphonique.
-
-Participer à la construction et la préparation d'une campagne d'émission d'appels au sein d'une équipe.
-
-Réaliser et optimiser une action prospective à distance.
-
-Promouvoir et vendre l'ensemble des produits et services de l'entreprise.
+Maintenir une démarche qualité en relation client à distance.
 
 Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-L'emploi de conseiller (ère) service client à distance s'exerce :
+Les différents secteurs d'activités concernés sont principalement :
 
--soit dans un centre de contacts intégré à une entreprise appartenant à tout secteur d'activité (dans ce cas, le service s'effectue avec les clients ou les prospects dans le cadre du métier de l'entreprise concernée) ;
+L'informatique, la téléphonie, les banques, les assurances, l'énergie, les transports, la santé, les mutuelles, le tourisme, la vente à distance, l'assistance et les administrations...
 
--soit dans un centre de contacts externalisés, assurant des campagnes d'appels pour le compte de donneurs d'ordre de tous secteurs.
+Les types d'emplois accessibles sont les suivants :
+
+Conseiller (ère) service client à distance, conseiller clientèle, chargé (e) de clientèle, chargé (e) d'assistance, commercial (e) sédentaire, télésecrétaire, téléconseiller, télévendeur (euse), téléacteur, téléprospecteur (trice), téléenquêteur, téléopérateur (trice).
 
 Codes ROME :
 
-14231-Télévendeur (se).
+D1408-Téléconseil et télévente.
 
-14232-Technicien (ne) de la vente à distance.
+M1401-Conduite d'enquêtes.
 
 Réglementation de l'activité :
 
@@ -90,8 +78,8 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel délivré par le ministre chargé de l'emploi ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
