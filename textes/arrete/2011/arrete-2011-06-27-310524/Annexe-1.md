@@ -8,6 +8,8 @@ Acalou.
 
 Akenaton.
 
+Alexis.
+
 Allur.
 
 Amosis.
@@ -22,6 +24,8 @@ Axadur.
 
 Babylone.
 
+Bakardi.
+
 Biensur.
 
 Brennur.
@@ -35,6 +39,8 @@ Clovis.
 Cordeiro.
 
 Corpur.
+
+Coussur.
 
 Cultur.
 
@@ -68,6 +74,8 @@ Memphis.
 
 Miradoux.
 
+Murano.
+
 Nautilur.
 
 Nefer.
@@ -76,19 +84,17 @@ Nemesis.
 
 Neodur.
 
-Vanodur.
-
 Orjaune.
 
 Orlu.
 
 Orobel.
 
+Pescadou.
+
 Pharaon.
 
 Pictur.
-
-Pescadou.
 
 Réaumur.
 
@@ -99,6 +105,10 @@ Salsa.
 Sculptur.
 
 Silur.
+
+Surmesur.
+
+Vanodur.
 
 Vivadur.
 
@@ -126,6 +136,8 @@ Claudio.
 
 Durango.
 
+Durasol.
+
 Durobonus.
 
 Grazia.
@@ -143,6 +155,8 @@ Matt.
 Portodur.
 
 Provenzal.
+
+Ramirez.
 
 Saragolla.
 
