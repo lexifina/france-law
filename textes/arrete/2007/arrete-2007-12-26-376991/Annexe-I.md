@@ -82,7 +82,7 @@ Chef du bureau du statut, du management et du dialogue social.
 
 |
 
-Adjoint du directeur du groupement d'hélicoptères.
+Adjoint au chef du groupement d'hélicoptères.
 
 |
 
@@ -332,7 +332,7 @@ Chef du bureau des personnels administratifs, techniques et scientifiques. (1)
 
 |
 
-Chef du bureau de l'accompagnement social.
+Chef du bureau de la sécurité et de la santé au travail.
 
 |
 
@@ -699,6 +699,16 @@ Chef du département de l'asile à la frontière et de l'admission au séjour.
 |
 
 30
+
+30
+
+|
+
+Agence nationale des titres sécurisés.
+
+|
+
+Chef du département qualité. |
 
 30
 

@@ -48,10 +48,46 @@ Préfecture du Jura.
 
 |
 
-Chargé de mission développement territorial et ingénierie de projet.
+Chargé de mission "développement territorial et ingénierie de projet".
 
 |
 
 20
+
+|
+
+Préfecture des Bouches-du-Rhône
+
+|
+
+Chargé de mission "grands projets".
+
+|
+
+30
+
+|
+
+Préfecture de la Savoie
+
+|
+
+Chargé de mission "grand chantier Lyon Turin Ferroviaire".
+
+|
+
+30
+
+|
+
+Préfecture de la Loire-Atlantique
+
+|
+
+Chef du service de l'immigration et de l'intégration.
+
+|
+
+50
 
 |

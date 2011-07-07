@@ -324,7 +324,7 @@ Nombre de points NBI
 
 |
 
-4
+5
 
 |
 
@@ -408,7 +408,9 @@ Nombre de points NBI
 
 |
 
-6 |
+6
+
+|
 
 50
 
@@ -586,7 +588,7 @@ Nombre de points NBI
 
 |
 
-8
+7
 
 |
 
@@ -598,7 +600,7 @@ Nombre de points NBI
 
 |
 
-5
+4
 
 |
 
@@ -1038,13 +1040,17 @@ Nombre de points NBI
 
 |
 
-75 Ile-de-France
+75 Ile-de-France et Paris
 
 |
 
-2 |
+2
 
-60 |
+|
+
+60
+
+|
 
 |
 
@@ -1166,7 +1172,7 @@ Nombre de points NBI
 
 |
 
-3
+2
 
 |
 
@@ -1202,7 +1208,7 @@ Nombre de points NBI
 
 |
 
-3
+2
 
 |
 
@@ -1214,7 +1220,7 @@ Nombre de points NBI
 
 |
 
-3
+2
 
 |
 
