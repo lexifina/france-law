@@ -1,0 +1,9 @@
+# Réponse à la question SEQ090308039
+
+- Question : [SEQ090308039](seq090308039.md) — Aide aux banques et prêts immobiliers
+
+## Réponse
+
+*Économie, JO du 2011-07-07, page 1796*
+
+Le plan français de soutien aux banques a été mis en oeuvre en octobre 2008 de manière coordonnée avec les autres pays européens. Il visait à permettre aux banques de se refinancer dans un contexte de crise financière généralisée, de manière qu'elles puissent continuer de financer l'économie française. La Société de prise de participation de l'État (SPPE) a prêté 19,75 Mds€ de fonds propres aux banques françaises. À cela s'ajoute la garantie apportée par l'État sur les 77 Mds€ prêtés aux banques par la Société de financement de l'économie française (SFEF). Enfin, l'État a soutenu Dexia par une prise de participation (via la SPPE) à hauteur de 1 Md€ et des garanties sur ses financements (jusqu'à 36,6 Mds€) et sur certains actifs (d'une valeur maximale de 5 Mds€). Le plan de soutien, mis en sommeil à l'automne 2009, a atteint son but puisqu'il a contribué à la bonne résistance relative de l'économie française face à la crise, puisque les banques ont continué à prêter aux entreprises et aux ménages. Le crédit n'a jamais reculé en 2009-2010 malgré la récession. Les volumes des prêts aux ménages sont en croissance constante depuis 2009, en particulier les prêts immobiliers. Depuis la fin de l'année 2009, la croissance des prêts immobiliers accélère fortement (+ 4 % en rythme annuel en décembre 2009, + 8 % en décembre 2010). Les taux pratiqués par les banques sur les prêts immobiliers aux ménages sont également en baisse constante, passant de 5 % en moyenne au début 2009 à 3,5 % en moyenne au début 2011. Ainsi les conditions d'accès au crédit pour les ménages sont bonnes et en amélioration constante depuis la mise en application du plan français de soutien aux banques.
