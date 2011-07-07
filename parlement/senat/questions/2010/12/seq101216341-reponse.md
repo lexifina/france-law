@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216341
+
+- Question : [SEQ101216341](seq101216341.md) — Fiscalisation des donations de titres sociaux
+
+## Réponse
+
+*Économie, JO du 2011-07-07, page 1800*
+
+Le décès du bénéficiaire d'une donation de titres ayant fait l'objet d'un engagement de conservation dans le cadre des dispositions de l'article 787 B du code général des impôts (« pactes Dutreil ») et d'un apport à une société sous les conditions posées par le f du même article ne suffit pas à justifier une dérogation à la condition relative à la durée de conservation des titres concernés. En effet, le bénéficiaire d'une telle donation s'est engagé pour lui et ses ayants cause, à titre gratuit, à conserver les titres transmis pendant une durée de quatre ans à compter de la date d'expiration de l'engagement collectif. Il appartient donc à ses héritiers ou légataires de poursuivre cet engagement individuel. S'agissant plus particulièrement de la condition tenant à la direction de la société bénéficiaire des apports, il est cependant admis que, toutes les conditions étant par ailleurs satisfaites, lorsqu'aucun des héritiers ou légataires n'est en mesure de prendre en charge cette direction (enfants mineurs, incapacité) pour remplacer le bénéficiaire décédé, ses héritiers ou légataires aient recours à un mandataire qui administre et gère la société pour le compte et dans l'intérêt d'un ou plusieurs héritiers identifiés. Ces précisions paraissent de nature à répondre aux préoccupations exprimées. Cela étant, l'administration ne pourrait se prononcer avec certitude sur la situation particulière évoquée par l'auteur de la question que si, par l'indication des nom et adresse des contribuables concernés, elle était mise en mesure de procéder à une instruction détaillée sur la base des principes rappelés ci-dessus.
