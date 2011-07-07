@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317750
+
+- Question : [SEQ110317750](seq110317750.md) — Nouvelles conditions d'accès à l'assurance volontaire vieillesse
+
+## Réponse
+
+*Travail, JO du 2011-07-07, page 1820*
+
+Le ministre du travail, de l'emploi et de la santé a pris connaissance avec intérêt de la question relative aux nouvelles conditions d'accès à l'assurance volontaire vieillesse définies par les décrets n° 2010-1776 du 31 décembre 2010 et n° 2010-1738 du 30 décembre 2010. Afin de donner suite à un arrêt de la Cour de cassation jugeant contraire à la jurisprudence de la Cour européenne des droits de l'Homme la condition de nationalité française pour adhérer à l'assurance volontaire vieillesse ou racheter des cotisations au titre d'activités professionnelles exercées à l'étranger, l'article 72-I de la loi n° 2009-1646 du 24 décembre 2009 de financement de la sécurité sociale pour 2010 a remplacé cette condition de nationalité par celle d'avoir « été à la charge, à quelque titre que ce soit, d'un régime obligatoire français d'assurance maladie pendant une durée déterminée » dans les articles L. 742-1, L. 742-2, L. 742-6 et L. 742-7 du code de la sécurité sociale. Cette durée a été fixée à cinq ans par les décrets d'application n° 2010-1738 du 30 décembre 2010 et n° 2010-1776 du 31 décembre 2010. Par « avoir été à la charge, à quelque titre que ce soit, d'un régime obligatoire français d'assurance maladie », il convient de rappeler qu'il s'agit non seulement des personnes assurées à quelque titre que ce soit (exercice d'une activité professionnelle, perception d'un revenu social de remplacement, maintien de droits ou résidence stable et régulière), mais encore des personnes qui ont la qualité d'ayant droit d'une personne assurée, notamment donc le conjoint ou les enfants à charge de l'assuré.
