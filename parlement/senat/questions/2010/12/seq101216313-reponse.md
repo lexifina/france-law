@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216313
+
+- Question : [SEQ101216313](seq101216313.md) — Moyens mis à disposition des DDT
+
+## Réponse
+
+*Écologie, JO du 2011-07-07, page 1793*
+
+Il peut arriver que, localement, les services instructeurs aient à faire face à des surcharges momentanées qui nécessitent une adaptation de l'organisation des services de l'État rendue parfois plus délicate par des effets de conjoncture. Les autorisations en urbanisme délivrées de manière tacite sont tout à fait légales et réglementaires. Elles sont prévues par le code de l'urbanisme et ne résultent pas, a priori, d'une absence d'instruction des projets. Le permis de construire tacite est une autorisation d'occupation des sols dont peut se prévaloir un pétitionnaire qui n'a pas reçu de réponse de l'autorité administrative compétente à une demande régulière d'occupation ou d'utilisation du sol, au-delà d'un délai réglementaire d'instruction. Dans les cas où les services de l'État sont mis à disposition des collectivités pour instruire les demandes d'autorisation en urbanisme, ceux-ci transmettent au maire les projets de décision au moins huit jours avant la date limite d'instruction, pour signature et notification aux demandeurs. Il appartient alors au maire d'adresser ces projets de décisions et c'est ce dernier qui définit avec les services de l'État le niveau de service attendu au regard des moyens disponibles. Le ministère de l'écologie, du développement durable, des transports et du logement est engagé dans un plan de modernisation de l'application du droit des sols. Dans ce cadre, tout est mis en oeuvre pour assurer les meilleures conditions possible d'instruction, tout en assurant un service de qualité. Les actions prévues portent notamment sur l'introduction de la numérisation des supports nécessaires à l'instruction des demandes, tout en préservant la qualité juridique des projets de décisions.
