@@ -1,6 +1,6 @@
 # Article Annexe
 
-LISTE DES ÉTABLISSEMENTS HABILITÉS À DÉLIVRER LE DIPLÔME NATIONAL DE TECHNOLOGIE SPÉCIALISÉ DANS LES SPÉCIALITÉS SUIVANTES POUR L'ANNÉE UNIVERSITAIRE 2009-2010
+Liste des établissements habilités à délivrer le diplôme national de technologie spécialisé dans les spécialités suivantes pour les années universitaires 2010-2011 et 2011-2012
 
 ACADÉMIE
 
@@ -23,17 +23,5 @@ Lycée André Malraux, Montereau-Fault-Yonne
 |
 
 Maintenance nucléaire
-
-|
-
-Nantes
-
-|
-
-Lycée Chevrollier, Angers
-
-|
-
-Vente de solutions informatiques
 
 |
