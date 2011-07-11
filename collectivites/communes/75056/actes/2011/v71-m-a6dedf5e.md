@@ -1,0 +1,9 @@
+# Paris : acte V71 M — relatif au soutien d'Asia Bibi.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2011-07-11
+- Nature : VNR
+- Objet : relatif au soutien d'Asia Bibi.
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
