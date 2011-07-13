@@ -10,11 +10,9 @@ Diplômes ou titres
 
 TITRE PROFESSIONNEL CATIC
 
-CCP 1 : "animer et former
+CCP 1 : "animer et former aux technologies
 
-aux technologies de l'information
-
-et de la communication
+de l'information et de la communication
 
 dans des lieux privés et collectifs"
 
@@ -22,9 +20,9 @@ dans des lieux privés et collectifs"
 
 TITRE PROFESSIONNEL CATIC
 
-CCP 2 : "assurer la gestion
+CCP 2 : "assurer la gestion opérationnelle
 
-opérationnelle d'un équipement multimédia auprès des particuliers
+d'un équipement multimédia auprès des particuliers
 
 et dans des lieux collectifs"
 
@@ -32,7 +30,7 @@ et dans des lieux collectifs"
 
 Ministère chargé de la jeunesse et des sports
 
-Brevet professionnel de la jeunesse, de l'éducation populaire et des sports (arrêté du 5 août 2002 paru au JO le 13 août 2002 portant création de la spécialité "technique de l'information et de la communication")
+Brevet professionnel de la jeunesse, de l'éducation populaire et des sports, spécialité animateur NTIC (arrêté du 5 août 2002)
 
 |
 
