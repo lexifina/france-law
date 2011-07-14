@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110619147
+
+- Question : [SEQ110619147](seq110619147.md) — Retraitement des déchets alimentaires
+
+## Réponse
+
+*Écologie, JO du 2011-07-14, page 1876*
+
+L'article L. 255-2 du code rural et de la pêche maritime stipule qu'une matière fertilisante doit avoir fait l'objet d'une homologation pour pouvoir être mise sur le marché ou cédée à titre gratuit et utilisée. Sont exonérés de l'obligation d'homologation les produits conformes à une norme rendue d'application obligatoire par arrêté. Le séchage des déchets de cantine sur leur lieu de production permet de stabiliser ces déchets et d'en réduire notablement la masse, ce qui en simplifie la collecte et la rend moins onéreuse. La matière issue de ce séchage présente une valeur agronomique indéniable, et son homologation peut lui permettre d'être mise sur le marché et utilisée comme engrais organique. En l'absence d'homologation, cette matière ne peut en revanche pas être mise sur le marché car elle n'est pas conforme à la norme NFU 42-001 relative aux engrais. En effet, dans sa rédaction actuelle découlant de l'amendement A10, cette norme n'inclut pas les déchets de restauration parmi les composants autorisés. Il reste néanmoins possible de demander à lever cette limitation par une modification de la norme visant à élargir aux déchets organiques de la restauration, la liste des composants admis. Il convient à cet effet d'en faire la demande à l'Association française de normalisation (AFNOR) sur la base d'un dossier solidement étayé. Dans l'attente d'une ouverture offerte par l'homologation ou par la modification de la norme, il reste possible de remettre le produit séché aux producteurs des déchets mis en oeuvre, c'est-à-dire aux usagers du restaurant. Une autre solution est de le livrer à une installation de traitement de déchets qui pourra en assurer la valorisation par compostage, par méthanisation ou par tout autre procédé autorisé.
