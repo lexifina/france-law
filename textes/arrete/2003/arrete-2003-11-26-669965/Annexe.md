@@ -20,23 +20,21 @@ Astreinte de direction générale.
 
 |
 
-1 astreinte de semaine (1).
+1 astreinte de semaine (*).
 
 |
 
-Service d'exploitation
+Ecole nationale
 
-de la formation aéronautique
-
-|
+de l'aviation civile
 
 |
 
 |
 
-Siège de Muret
+|
 
-Bureau des opérations centralisées
+Direction de la formation au pilotage et des vols : bureau des opérations centralisées (site de Muret)
 
 |
 
@@ -60,7 +58,9 @@ Astreinte opérationnelle et technique.
 
 |
 
-Centre d'exploitation, de développement et d'études du réseau d'information de gestion
+Centre d'exploitation, de développement
+
+et d'études du réseau d'information de gestion
 
 |
 
@@ -72,19 +72,23 @@ Astreinte opérationnelle et technique.
 
 |
 
-Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile
+Bureau d'enquêtes et d'analyses
+
+pour la sécurité de l'aviation civile
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents (niveau central).
 
 |
 
-1 astreinte de semaine et 2 astreintes de fin de semaine.
+1 astreinte de semaine et 2 astreintes de fin de semaine
 
 |
 
-Direction des opérations de la direction des services de la navigation aérienne
+Direction des opérations de la direction
+
+des services de la navigation aérienne
 
 |
 
@@ -128,15 +132,11 @@ Astreinte opérationnelle.
 
 |
 
-|
-
 Astreinte technique.
 
 |
 
 1 astreinte de semaine.
-
-|
 
 |
 
@@ -160,15 +160,11 @@ Astreinte opérationnelle.
 
 |
 
-|
-
 Astreinte technique.
 
 |
 
 1 astreinte de semaine.
-
-|
 
 |
 
@@ -192,8 +188,6 @@ Astreinte opérationnelle.
 
 |
 
-|
-
 Astreinte technique.
 
 |
@@ -202,15 +196,11 @@ Astreinte technique.
 
 |
 
-|
-
 Astreinte technique de centrale énergie.
 
 |
 
 1 astreinte de semaine.
-
-|
 
 |
 
@@ -234,8 +224,6 @@ Astreinte opérationnelle.
 
 |
 
-|
-
 Astreinte technique.
 
 |
@@ -244,15 +232,11 @@ Astreinte technique.
 
 |
 
-|
-
 Astreinte technique de maintenance CAUTRA.
 
 |
 
 1 astreinte de semaine.
-
-|
 
 |
 
@@ -284,15 +268,11 @@ Astreinte opérationnelle.
 
 |
 
-|
-
 Astreinte technique.
 
 |
 
 1 astreinte de semaine.
-
-|
 
 |
 
@@ -304,8 +284,6 @@ Astreinte technique de maintenance CAUTRA.
 
 |
 
-|
-
 Astreinte technique (radar).
 
 |
@@ -314,7 +292,7 @@ Astreinte technique (radar).
 
 |
 
-Paris - Charles-de-Gaulle (CDM)
+Paris-Charles-de-Gaulle (CDM)
 
 |
 
@@ -326,7 +304,7 @@ Astreinte opérationnelle.
 
 |
 
-Paris - Charles-de-Gaulle
+Paris-Charles-de-Gaulle
 
 |
 
@@ -586,7 +564,7 @@ Astreinte technique pour la centrale énergie.
 
 |
 
-SNA Sud - Sud-Est
+SNA Sud-Sud-Est
 
 |
 
@@ -722,7 +700,7 @@ Astreinte de direction et de contrôle technique.
 
 |
 
-Région Nord - Pas-de-Calais (Lille, Calais, Le Touquet et Merville)
+Région Nord-Pas-de-Calais (Lille, Calais, Le Touquet et Merville)
 
 |
 
@@ -814,7 +792,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Poitou-Charentes (Poitiers)
+Région Poitou-Charente (Poitiers)
 
 |
 
@@ -978,7 +956,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 26 semaines par an
+1 astreinte de semaine dans la limite de 26 semaines par an.
 
 |
 
@@ -1118,7 +1096,9 @@ Astreinte de direction.
 
 |
 
-Région PACA (Marseille-Provence)
+Région PACA
+
+(Marseille-Provence)
 
 |
 
@@ -1130,7 +1110,9 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région PACA (Nice - Côte d'Azur)
+Région PACA
+
+(Nice-Côte d'Azur)
 
 |
 
@@ -1318,7 +1300,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-Tahiti - Faaa
+Tahiti-Faaa
 
 |
 
@@ -1330,11 +1312,11 @@ Astreinte de direction (SEAC).
 
 |
 
-Tahiti - Faaa
+Tahiti-Faaa
 
 |
 
-Astreinte enquêtes-accidents (Territoire).
+Astreinte enquêtes-accidents (territoire).
 
 |
 
@@ -1342,7 +1324,7 @@ Astreinte enquêtes-accidents (Territoire).
 
 |
 
-Tahiti - Faaa
+Tahiti-Faaa
 
 |
 
@@ -1354,7 +1336,7 @@ Astreinte technique de maintenance.
 
 |
 
-Tahiti - Faaa
+Tahiti-Faaa
 
 |
 
@@ -1366,7 +1348,9 @@ Astreinte opérationnelle.
 
 |
 
-SEAC Nouvelle-Calédonie
+Service mixte Direction de l'aviation civile
+
+en Nouvelle-Calédonie
 
 |
 
@@ -1374,7 +1358,7 @@ SEAC Nouvelle-Calédonie
 
 |
 
-SEAC
+Service mixte DAC/ NC
 
 |
 
@@ -1390,7 +1374,7 @@ Nouméa
 
 |
 
-Astreinte de direction (SEAC).
+Astreinte de direction (service mixte DAC/ NC ).
 
 |
 
@@ -1402,7 +1386,7 @@ Nouméa
 
 |
 
-Astreinte enquêtes-accidents (Territoire).
+Astreinte enquêtes-accidents (territoire).
 
 |
 
@@ -1422,6 +1406,18 @@ Astreinte opérationnelle.
 
 |
 
-(1) Une astreinte de semaine couvre une période de 7 jours sur 7.
+Nouméa
+
+|
+
+Astreinte technique de centrale énergie
+
+|
+
+1 astreinte de semaine.
+
+|
+
+(*) Une astreinte de semaine couvre une période de sept jours sur sept.
 
 |
