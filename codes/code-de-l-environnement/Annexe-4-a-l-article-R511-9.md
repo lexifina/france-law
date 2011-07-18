@@ -202,6 +202,72 @@ D
 
 |
 
+|
+
+Installation de production de béton prêt à l'emploi équipée d'un dispositif
+
+d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations
+
+visées par la rubrique 2522. La capacité de malaxage étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2518
+
+|
+
+a) Supérieure à 3 m3
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+|
+
+b) Inférieure ou égale à 3 m3
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Ces activités ne donnent pas lieu à classement sous la rubrique 2515.
+
+|
+
+|
+
+|
+
+|
+
+|
+
 2520
 
 |
@@ -330,7 +396,7 @@ D
 
 |
 
-Matériel vibrant (emploi de) pour la fabrication de matériaux tels que béton, agglomérés, etc., la puissance installée du matériel vibrant étant :
+Installation de fabrication de produits en béton par procédé mécanique. La puissance installée du matériel de malaxage et de vibration, étant :
 
 |
 
@@ -342,15 +408,11 @@ Matériel vibrant (emploi de) pour la fabrication de matériaux tels que béton,
 
 |
 
-1. supérieure à 200 kW
+a) Supérieure à 400 kW
 
 |
 
-A
-
-|
-
-1
+E
 
 |
 
@@ -358,11 +420,25 @@ A
 
 |
 
-2. supérieure à 40 kW, mais inférieure ou égale à 200 kW
+|
+
+b) Supérieure à 40 kW, mais inférieure ou égale à 400 kW
 
 |
 
 D
+
+|
+
+|
+
+|
+
+|
+
+Ces activités ne donnent pas lieu à classement sous la rubrique 2515.
+
+|
 
 |
 
@@ -540,7 +616,7 @@ D
 
 |
 
-a) supérieure à 500 kg/j
+a) supérieure à 500 kg / j
 
 |
 
@@ -2596,7 +2672,7 @@ D
 
 |
 
-Installation de stockage, dépollution, démontage, découpage ou broyage de véhicules hors d'usage ou de différents moyens de transport hors d'usage, la surface étant supérieure à 50 m².
+Installation de stockage, dépollution, démontage, découpage ou broyage de véhicules hors d'usage ou de différents moyens de transport hors d'usage, la surface étant supérieure à 50 m2.
 
 |
 
@@ -2826,7 +2902,9 @@ La quantité susceptible d'être présente étant :
 
 |
 
-1. Supérieure ou égale à 50 t |
+1. Supérieure ou égale à 50 t
+
+|
 
 10
 
@@ -2836,7 +2914,9 @@ La quantité susceptible d'être présente étant :
 
 |
 
-2. Inférieure à 50 t |
+2. Inférieure à 50 t
+
+|
 
 3
 
@@ -3270,7 +3350,9 @@ A
 
 |
 
-1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant supérieure ou égale à 25 000 t |
+1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant supérieure ou égale à 25 000 t
+
+|
 
 6
 
@@ -3282,7 +3364,9 @@ A
 
 |
 
-2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25 000 t |
+2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25 000 t
+
+|
 
 3
 
@@ -3398,7 +3482,9 @@ A
 
 |
 
-La capacité de traitement étant : |
+La capacité de traitement étant :
+
+|
 
 |
 
@@ -3582,7 +3668,9 @@ A
 
 |
 
-2. La quantité de matières et déchets traités étant : |
+2. La quantité de matières et déchets traités étant :
+
+|
 
 |
 
@@ -3878,7 +3966,9 @@ DC
 
 |
 
-1. La capacité de traitement étant : |
+1. La capacité de traitement étant :
+
+|
 
 |
 
@@ -4670,7 +4760,7 @@ DC
 
 |
 
-2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
+2. La quantité maximale de produits susceptible d'être mise en œuvre est :
 
 |
 
@@ -4738,7 +4828,7 @@ DC
 
 |
 
-3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en oeuvre est :
+3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est :
 
 |
 

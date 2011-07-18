@@ -784,7 +784,7 @@ D
 
 |
 
-Bovins (activité d'élevage, transit, vente, etc. de).
+Bovins (activité d'élevage, transit, vente, etc., de)
 
 |
 
@@ -796,7 +796,11 @@ Bovins (activité d'élevage, transit, vente, etc. de).
 
 |
 
-1. élevage de veaux de boucherie et / ou bovins à l'engraissement ; transit et vente de bovins lorsque leur présence simultanée est supérieure à 24 heures, à l'exclusion des rassemblements occasionnels :
+1. Elevage de veaux de boucherie et/ou bovins à l'engraissement ; transit et vente de
+
+bovins lorsque leur présence simultanée est supérieure à 24 heures, à l'exclusion
+
+des rassemblements occasionnels :
 
 |
 
@@ -808,7 +812,7 @@ Bovins (activité d'élevage, transit, vente, etc. de).
 
 |
 
-a) plus de 400 animaux
+a) Plus de 400 animaux
 
 |
 
@@ -824,7 +828,7 @@ A
 
 |
 
-b) de 201 à 400 animaux
+b) De 201 à 400 animaux
 
 |
 
@@ -838,7 +842,7 @@ DC
 
 |
 
-c) de 50 à 200 animaux
+c) De 50 à 200 animaux
 
 |
 
@@ -852,7 +856,7 @@ D
 
 |
 
-2. élevage de vaches laitières et / ou mixtes :
+2. Elevage de vaches laitières (c'est-à-dire dont le lait est, au moins en partie, destiné à la consommation humaine) :
 
 |
 
@@ -864,7 +868,7 @@ D
 
 |
 
-a) plus de 100 vaches
+a) Plus de 200 vaches
 
 |
 
@@ -880,7 +884,35 @@ A
 
 |
 
-b) de 50 à 100 vaches
+b) De 151 à 200 vaches
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+c) De 101 à 150 vaches
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+d) De 50 à 100 vaches
 
 |
 
@@ -894,7 +926,7 @@ D
 
 |
 
-3. élevage de vaches allaitantes (c'est-à-dire dont le lait est exclusivement destiné à l'alimentation des veaux) :
+3. Elevage de vaches allaitantes (c'est-à-dire dont le lait est exclusivement destiné à l'alimentation des veaux) :
 
 |
 
@@ -906,7 +938,7 @@ D
 
 |
 
-à partir de 100 vaches
+- à partir de 100 vaches
 
 |
 
@@ -920,7 +952,7 @@ D
 
 |
 
-4. transit et vente de bovins, y compris les marchés et centres d'allotement, lorsque la présence des animaux est inférieure ou égale à 24 heures, à l'exclusion des rassemblements occasionnels :
+4. Transit et vente de bovins, y compris les marchés et centres d'allotement, lorsque la présence des animaux est inférieure ou égale à 24 heures, à l'exclusion des rassemblements occasionnels :
 
 |
 
@@ -932,7 +964,7 @@ D
 
 |
 
-Capacité égale ou supérieure à 50 places
+- capacité égale ou supérieure à 50 places
 
 |
 
@@ -1248,7 +1280,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 
 |
 
-11. palmipèdes gras en gavage = 7
+11; palmipèdes gras en gavage = 7
 
 |
 
@@ -1782,7 +1814,7 @@ Le poids des animaux exprimé en carcasses étant, en activité de pointe :
 
 |
 
-1. supérieur à 5 t / j
+1. supérieur à 5 t/j
 
 |
 
@@ -1794,7 +1826,7 @@ A
 
 |
 
-a) supérieur à 100 t / j
+a) supérieur à 100 t/j
 
 |
 
@@ -1808,7 +1840,7 @@ a) supérieur à 100 t / j
 
 |
 
-b) supérieur à 20 t / j, mais inférieur ou égal à 100 t / j
+b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
 
 |
 
@@ -1822,7 +1854,7 @@ b) supérieur à 20 t / j, mais inférieur ou égal à 100 t / j
 
 |
 
-c) supérieur à 5 t / j, mais inférieur ou égal à 20 t / j
+c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j
 
 |
 
@@ -1830,7 +1862,7 @@ c) supérieur à 5 t / j, mais inférieur ou égal à 20 t / j
 
 |
 
-2. supérieur à 500 kg / j, mais inférieur ou égal à 5 t / j
+2. supérieur à 500 kg/j, mais inférieur ou égal à 5 t/j
 
 |
 
@@ -1862,7 +1894,7 @@ Alimentaires (préparation ou conservation de produits) d'origine végétale, pa
 
 |
 
-1. supérieure à 10 t / j
+1. supérieure à 10 t/j
 
 |
 
@@ -1874,7 +1906,7 @@ A
 
 |
 
-a) supérieure à 200 t / j
+a) supérieure à 200 t/j
 
 |
 
@@ -1888,7 +1920,7 @@ a) supérieure à 200 t / j
 
 |
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 |
 
@@ -1896,7 +1928,7 @@ b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 |
 
-2. supérieure à 2 t / j, mais inférieure ou égale à 10 t / j
+2. supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
 
 |
 
@@ -1940,7 +1972,7 @@ La quantité de produits entrant étant :
 
 |
 
-1. supérieure à 2 t / j
+1. supérieure à 2 t/j
 
 |
 
@@ -1952,7 +1984,7 @@ A
 
 |
 
-a) supérieure à 250 t / j
+a) supérieure à 250 t/j
 
 |
 
@@ -1966,7 +1998,7 @@ a) supérieure à 250 t / j
 
 |
 
-b) supérieure à 10 t / j, mais inférieure ou égale à 250 t / j
+b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
 
 |
 
@@ -1974,7 +2006,7 @@ b) supérieure à 10 t / j, mais inférieure ou égale à 250 t / j
 
 |
 
-2. supérieure à 500 kg / j, mais inférieure ou égale à 2 t / j
+2. supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
 
 |
 
@@ -2016,7 +2048,7 @@ La capacité de production étant :
 
 |
 
-a) supérieure à 200 t / j
+a) supérieure à 200 t/j
 
 |
 
@@ -2030,7 +2062,7 @@ a) supérieure à 200 t / j
 
 |
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 |
 
@@ -2066,7 +2098,7 @@ La capacité de production étant :
 
 |
 
-a) supérieure à 200 t / j
+a) supérieure à 200 t/j
 
 |
 
@@ -2080,7 +2112,7 @@ a) supérieure à 200 t / j
 
 |
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 |
 
@@ -2106,7 +2138,7 @@ La capacité journalière de traitement exprimée en litre de lait ou équivalen
 
 |
 
-1. supérieure à 70 000 l / j
+1. supérieure à 70 000 l/j
 
 |
 
@@ -2460,7 +2492,7 @@ A
 
 |
 
-1. La capacité de l'installation étant supérieure à 50 000 hl / an
+1. La capacité de l'installation étant supérieure à 50 000 hl/an
 
 |
 
@@ -3412,7 +3444,7 @@ D
 
 |
 
-Installations de mise en oeuvre de produits de préservation du bois et matériaux dérivés
+Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
 
 |
 
@@ -3444,7 +3476,7 @@ A
 
 |
 
-2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25 t / an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à 1 000 l
+2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25 t/an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à 1 000 l
 
 |
 
@@ -3502,7 +3534,7 @@ A
 
 |
 
-a) supérieure à 100 m ³
+a) supérieure à 100 m³
 
 |
 
@@ -3518,7 +3550,7 @@ A
 
 |
 
-b) inférieure ou égale à 100 m ³
+b) inférieure ou égale à 100 m³
 
 |
 
@@ -4236,7 +4268,7 @@ D
 
 |
 
--à la restauration des monuments historiques classés ou inscrits, ou des immeubles figurant au plan de sauvegarde et de mise en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération sont interdits
+- à la restauration des monuments historiques classés ou inscrits, ou des immeubles figurant au plan de sauvegarde et de mise en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération sont interdits
 
 |
 
@@ -4248,7 +4280,7 @@ D
 
 |
 
--ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou architectural justifie que celle-ci soit effectuée avec leurs matériaux d'origine.
+- ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou architectural justifie que celle-ci soit effectuée avec leurs matériaux d'origine.
 
 |
 
@@ -4260,7 +4292,7 @@ D
 
 |
 
-lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et lorsque la quantité de matériaux à extraire est inférieure à 100 m ³ par an et que la quantité totale d'extraction n'excède pas 500 m³
+lorsqu'elles sont distantes de plus de 500 mètres d'une exploitation de carrière soumise à autorisation ou à déclaration et lorsque la quantité de matériaux à extraire est inférieure à 100 m³ par an et que la quantité totale d'extraction n'excède pas 500 m³
 
 |
 
