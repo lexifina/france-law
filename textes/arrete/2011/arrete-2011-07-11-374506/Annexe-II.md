@@ -1,12 +1,14 @@
 # Article Annexe II
 
+DÉFINITIONS
+
 Véhicules spécialisés : il s'agit des véhicules spécialisés non affectés au transport de marchandises dont le genre figurant sur le certificat d'immatriculation est VASP (véhicule automoteur spécialisé), SRSP (semi-remorque spécialisée) ou RESP (remorque spécialisée).
 
-C'est le cas par exemple des cars régies et des véhicules aménagés en relais de transmission.
+C'est le cas, par exemple, des cars régies et des véhicules aménagés en relais de transmission.
 
 Véhicules et matériels agricoles : il s'agit des véhicules agricoles dont le genre figurant sur le certificat d'immatriculation est TRA (tracteur agricole), REA (remorque agricole), SREA (semi-remorque agricole), MAGA (machine agricole automotrice) et MIAR (machine et instrument agricole remorqué).
 
-C'est le cas par exemple des tracteurs forestiers ou des chenilles.
+C'est le cas, par exemple, des tracteurs forestiers ou des chenilles.
 
 Collecte : il s'agit du déplacement régulier ou ponctuel d'un véhicule afin de charger des marchandises dans au moins un point de chargement.
 
