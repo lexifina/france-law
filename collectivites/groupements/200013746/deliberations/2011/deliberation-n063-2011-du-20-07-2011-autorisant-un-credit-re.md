@@ -1,0 +1,10 @@
+# Ville de Pirae : délibération — Délibération n°063-2011 du 20-07-2011 - Autorisant un crédit relais auprès  de la banque de Tahiti
+
+- Collectivité : Ville de Pirae
+- SIREN : 200013746
+- Date : 2011-07-20
+- Objet : Délibération n°063-2011 du 20-07-2011 - Autorisant un crédit relais auprès  de la banque de Tahiti
+- Pages : 4
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-municipal-annee-2011/20191129-055545/temp-deliberation-ndeg063-2011-du-20-07-2011-autorisant-un-credit-relais-aupres-de-la-banque-de-tahiti.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/586c591cc751df5a812b7154
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
