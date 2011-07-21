@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317632
+
+- Question : [SEQ110317632](seq110317632.md) — Création de la dotation d'équipement des territoires ruraux
+
+## Réponse
+
+*Collectivités territoriales, JO du 2011-07-21, page 1925*
+
+La loi de finances pour 2011 a créé la dotation d'équipement des territoires ruraux (DETR), issue de la fusion de la dotation globale d'équipement (DGE) des communes et de la dotation de développement rural (DDR). Cette dotation unique a permis de simplifier les modalités d'attribution des subventions aux communes et aux EPCI ainsi que les modalités de répartition des enveloppes départementales. Tout comme pour la DGE des communes et la DDR, la gestion de cette nouvelle dotation est très largement déconcentrée afin d'adapter au mieux les attributions aux besoins exprimés localement. Les crédits alloués au titre de la DETR sont attribués aux bénéficiaires par le représentant de l'État dans le département sous forme de subventions ; celles-ci doivent être notifiées en totalité au cours du premier trimestre de l'année civile. Toutefois, en 2011, les délais d'appropriation de la réforme peuvent au cas par cas susciter un décalage dans le temps sans que cela ne doive aller jusqu'à l'automne. Il a ainsi été demandé aux préfets de notifier les subventions avant le 15 mai, soit un délai précoce par rapport aux pratiques habituelles antérieures pour la DGE des communes et surtout la DDR. Par ailleurs, l'article R. 2334-30 du code général des collectivités territoriales modifié par le décret n° 2011-514 du 10 mai 2011 relatif aux dotations de l'État aux collectivités territoriales prévoit qu'une avance représentant 30 % du montant prévisionnel de la subvention peut être versée au vu du document informant le préfet du commencement d'exécution de l'opération ou, dans le cas d'une autorisation de commencement anticipé, lors de la notification de l'arrêté attributif.
