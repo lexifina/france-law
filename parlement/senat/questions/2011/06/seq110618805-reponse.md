@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110618805
+
+- Question : [SEQ110618805](seq110618805.md) — Nouveaux droits à paiement unique
+
+## Réponse
+
+*Agriculture, JO du 2011-07-21, page 1924*
+
+En 2010, dans le cadre du bilan de santé de la politique agricole commune (PAC), et à la demande des organisations professionnelles agricoles (OPA), les surfaces en estives collectives ont été rendues éligibles à la dotation liée au soutien spécifique à l'herbe. Ainsi, depuis 2010, les exploitants qui étaient utilisateurs de surfaces en estives collectives sur la période de référence 2005-2008 perçoivent des aides agricoles supplémentaires sous forme de droits à paiements uniques (DPU). Comme cela est fait depuis 2006, il a été décidé, en concertation avec les OPA, d'incorporer les montants issus du découplage 2010 sur l'ensemble des surfaces agricoles. Ainsi, des DPU ont été créés sur l'ensemble des surfaces déclarées par les agriculteurs en 2010, ce qui comprend, le cas échéant, la part des surfaces en estives collectives. Cependant, afin de répondre à la spécificité des estives collectives, des dispositions particulières permettent de tenir compte des fluctuations interannuelles d'utilisation de ces surfaces : la surface en estives sur laquelle ont été créés des DPU a été pondérée par un coefficient pastoral défini au niveau départemental, ce qui a permis de créer moins de DPU que de surface réellement exploitée. Cette disposition laisse une marge de manoeuvre à l'éleveur, qui peut activer l'intégralité de ses DPU même s'il a diminué son utilisation des surfaces en estives depuis 2010 ; les exploitants dont l'utilisation de surfaces en estives varie fortement du fait d'une modification de leur activité d'élevage peuvent acquérir ou céder des DPU. Afin de faciliter le transfert entre les utilisateurs des estives collectives, les taux de prélèvement appliqués sur les transferts de DPU conjoints aux transferts de ces surfaces sont réduits.
