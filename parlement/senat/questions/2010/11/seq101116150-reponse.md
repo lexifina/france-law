@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101116150
+
+- Question : [SEQ101116150](seq101116150.md) — Nécessité de réformer les règles d'« enregistrement des électeurs » régies par le code électoral
+
+## Réponse
+
+*Intérieur, JO du 2011-07-21, page 1932*
+
+L'honorable parlementaire soulève tout d'abord la question du vote obligatoire. L'instauration d'une telle obligation soulève des difficultés tant sur le plan des principes que sur le plan pratique. À l'exception des élections sénatoriales, le suffrage n'est pas obligatoire en France. Seul son caractère « toujours universel, égal et secret » est affirmé par l'article 3 de la Constitution. Les électeurs peuvent donc choisir d'exercer ou non leur droit de vote sans être sanctionnés. Il s'agit d'une tradition républicaine et démocratique française qu'il n'est pas envisagé de remettre en question. En effet, les citoyens ne disposent pas seulement du droit de vote. Ils disposent de son corollaire, le droit de s'abstenir de voter, qui constitue une forme de liberté d'expression. En tout état de cause, les exemples étrangers démontrent que l'instauration du vote obligatoire ne parvient pas, à elle seule, à susciter un plus grand intérêt des électeurs pour la vie démocratique de la nation. Il n'est pas par ailleurs envisagé d'associer dans l'immédiat une demande d'inscription sur les listes électorales à une modification des données administratives d'un électeur ayant déménagé dans une autre commune. Les démarches d'inscription sur les listes électorales ont en revanche été récemment facilitées. Le Gouvernement a en effet décidé d'expérimenter, dans les communes volontaires, une procédure de demande d'inscription en ligne. Plus de 300 communes utilisent aujourd'hui cette télé procédure, dont 37 des plus grandes communes de France, représentant environ 16 millions d'électeurs.
