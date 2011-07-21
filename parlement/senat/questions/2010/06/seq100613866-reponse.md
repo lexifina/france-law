@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100613866
+
+- Question : [SEQ100613866](seq100613866.md) — Installation d'un drapeau français dans les écoles françaises à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2011-07-21, page 1921*
+
+Les conventions de Vienne de 1961 et 1963 sur les relations diplomatiques et consulaires autorisent le pavoisement des bâtiments de la mission diplomatique ou consulaire et de la résidence du chef de mission. Selon ces conventions, les écoles ne font pas partie des bâtiments de la mission et ne sont pas autorisées à pavoiser aux couleurs nationales. Il n'est donc possible de pavoiser les établissements français à l'étranger qu'en fonction de l'application locale qui est faite de ces conventions. En tout état de cause, ce pavoisement ne pourrait être qu'une tolérance des États qui accueillent nos établissements. Il convient de rappeler que tous ces établissements sont soumis à la législation du pays dans lequel ils sont implantés, même si leur lien juridique avec l'Agence pour l'enseignement français à l'étranger (AEFE) diffère selon leur statut (établissements gérés directement par l'agence, établissements conventionnés avec elle, établissements ayant signé un accord de partenariat, établissements uniquement homologués par le ministère de l'éducation nationale). Le poste diplomatique est sans aucun doute l'autorité la plus compétente sur place pour évaluer avec les autorités du pays d'accueil l'opportunité de ce pavoisement ainsi que sa mise en oeuvre. Pour ce qui concerne la volonté de développer, d'une part, l'appartenance de ces établissements au réseau animé par l'AEFE et, d'autre part, la lisibilité de cet opérateur public sous tutelle du ministère des affaires étrangères et européennes au sein des établissements, l'AEFE met en place pour la rentrée scolaire 2011 une charte graphique accompagnée d'un vade-mecum recensant les obligations et les recommandations relatives à sa visibilité au sein du réseau.
