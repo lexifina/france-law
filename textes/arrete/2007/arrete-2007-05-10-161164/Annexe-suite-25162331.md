@@ -6,7 +6,9 @@ Les parties à la convention conviennent que les caisses d'assurance maladie par
 
 Au titre du régime d'assurance maladie, maternité, décès des praticiens et auxiliaires médicaux conventionnés, les masseurs-kinésithérapeutes conventionnés doivent une cotisation prévue à l'article L. 722-4 du code de la sécurité sociale.
 
-La participation des caisses est assise sur le montant du revenu net de dépassements d'honoraires. Cette participation correspond à 9,7 % de ce montant.
+Au titre du régime des avantages complémentaires de vieillesse, la participation des caisses au financement de la cotisation annuelle obligatoire prévue à l'article L. 645-2 du code de la sécurité sociale et due par les masseurs-kinésithérapeutes libéraux conventionnés est fixée aux deux tiers du montant de ladite cotisation, tel que fixé par le décret n° 2008-1044 du 10 octobre 2008 publié au Journal officiel du 11 octobre 2008.
+
+La participation des caisses à la cotisation d'ajustement prévue à l'article L. 645-3 du code de la sécurité sociale, et due par les masseurs-kinésithérapeutes libéraux au titre du régime des avantages complémentaires de vieillesse, s'élève à 60 % du montant de ladite cotisation, tel que fixé par le décret susvisé.
 
 Au titre du régime des avantages complémentaires de vieillesse prévu à l'article L. 645-2 du code de la sécurité sociale, la participation des caisses à la cotisation due par les masseurs-kinésithérapeutes conventionnés est fixée au double de la cotisation des masseurs-kinésithérapeutes bénéficiaires. Le montant de cette dernière est fixé à 40 fois la valeur de l'index AMV.
 
