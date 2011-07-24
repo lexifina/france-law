@@ -1,4 +1,4 @@
-# Article Annexe V
+# Article Annexe V bis
 
 Equivalence d'unités capitalisables à la mention monovalente "canoë-kayak et disciplines associées" du BPJEPS.
 
