@@ -1,0 +1,27 @@
+# Article Annexe III
+
+TABLEAU DES ÉPREUVES DU BREVET D'ÉTUDES PROFESSIONNELLES AGRICOLES OPTION ACTIVITÉS HIPPIQUES OUVRANT DROIT À DISPENSE D'ÉPREUVE DANS LE CADRE DU BREVET D'ÉTUDES PROFESSIONNELLES AGRICOLES RÉSULTANT DU PRÉSENT ARRÊTÉ
+
+ÉPREUVE DU BREVET D'ÉTUDES PROFESSIONNELLES
+
+agricoles option activités hippiques
+
+(Note supérieure ou égale à 10 sur 20 à l'épreuve)
+
+|
+
+DISPENSE D'ÉPREUVE DU BREVET D'ÉTUDES
+
+professionnelles agricoles
+
+résultant du présent arrêté
+
+|
+
+ET 1 : Expression écrite
+
+|
+
+E 1
+
+|
