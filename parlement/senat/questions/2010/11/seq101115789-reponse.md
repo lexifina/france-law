@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101115789
+
+- Question : [SEQ101115789](seq101115789.md) — Déroulement des commissions administratives paritaires dans la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 2011-07-28, page 1992*
+
+L'article 79 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale prévoit que l'avancement de grade a lieu notamment soit au choix par appréciation de la valeur professionnelle et des acquis de l'expérience professionnelle, soit après une sélection par voie d'examen professionnel. Dans les deux cas, la procédure prévue par la loi consiste en l'inscription à un tableau annuel d'avancement, établi après avis de la commission administrative paritaire (CAP). Dans un arrêt récent du 27 avril 2011 (n° 304987), le Conseil d'État considère que, pour procéder à la consultation de la CAP sur un projet de tableau annuel d'avancement de grade, l'autorité territoriale n'est pas tenue, en vertu des dispositions rappelées ci-dessus, de faire figurer sur ce projet l'ensemble des agents remplissant les conditions requises pour être promus. En revanche, l'autorité territoriale doit, d'une part, préalablement à la présentation du projet de tableau avoir procédé à un examen de la valeur professionnelle de chacun des agents remplissant les conditions pour être promus et, d'autre part, tenir à la disposition de la commission administrative paritaire les éléments sur lesquels elle s'est fondée pour établir son projet de tableau après avoir comparé les mérites respectifs des agents. Le Conseil d'État fait la même analyse dans le cas de la consultation de la commission administrative paritaire sur un projet de liste d'aptitude au cadre d'emplois supérieur (art. 39 de la loi du 26 janvier 1984). Un travail préparatoire d'examen de chaque dossier préalablement à la séance de la CAP paraît donc conciliable avec cette jurisprudence.
