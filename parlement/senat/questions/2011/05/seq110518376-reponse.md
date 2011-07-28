@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110518376
+
+- Question : [SEQ110518376](seq110518376.md) — Avenir des dérogations aux délais de paiement fixés par la LME accordées à certains secteurs
+
+## Réponse
+
+*Commerce, JO du 2011-07-28, page 1984*
+
+La question des accords dérogatoires conclus en matière de délais depaiement a fait l'objet d'un examen détaillé de la part de l'observatoire des délais de paiement dans son dernier rapport annuel 2010 intitulé « une réforme en voie de succès, des zones d'ombre à explorer ». À cette occasion, il reconnaît que ce régime dérogatoire a permis aux entreprises qui se seraient trouvées en situation d'échec dans d'autres circonstances de bénéficier de conditions plus souples et plus graduelles. Pour autant, un consensus s'est dégagé parmi les professionnels des secteurs concernés par ces accords dérogatoires et siégeant au sein de cet observatoire des délais de paiement pour ne pas prolonger ce dispositif. L'observatoire des délais de paiement a pris acte de ce positionnement en préconisant la non-reconduction des accords dérogatoires au-delà du terme fixé par la loi. Le Gouvernement entend suivre cette proposition pour éviter la multiplication d'exceptions pérennes qui viendraient annihiler le bénéfice retiré de la loi de modernisation de l'économie. Néanmoins, le Gouvernement n'est pas insensible à la situation des secteurs d'activité exposés à des tensions particulières et impactés par la sortie des accords dérogatoires en fin d'année. Pour résoudre ces difficultés affectant des secteurs ciblés, le Gouvernement prévoit de mettre en place des mesures d'accompagnement dans les prochains mois, en concertation avec les professionnels concernés et avec le concours d'Oséo. Ces mesures devraient consister à l'application de modes de financement appropriés.
