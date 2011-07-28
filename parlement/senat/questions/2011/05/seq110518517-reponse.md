@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110518517
+
+- Question : [SEQ110518517](seq110518517.md) — Reconnaissance du rôle de la France dans le génocide rwandais
+
+## Réponse
+
+*Justice, JO du 2011-07-28, page 1994*
+
+Dix-sept procédures relatives au génocide des Tutsis au Rwanda sont actuellement en cours d'instruction au tribunal de grande instance de Paris. Plusieurs personnes se trouvent mises en examen dans ces dossiers et deux d'entre elles sont placées en détention provisoire. Ces procédures donnent toutefois lieu à des investigations importantes ayant notamment nécessité le déplacement de plusieurs magistrats au Rwanda et en Tanzanie pour consulter les pièces des dossiers volumineux détenus par les autorités judiciaires rwandaises et le tribunal pénal international pour le Rwanda. Pour accélérer le traitement de ces procédures, la direction des affaires criminelles et des grâces a, le 26 février 2009, adressé aux procureurs généraux près les cours d'appel une dépêche les invitant à saisir, sur le fondement de l'article 665 du code de procédure pénale, la chambre criminelle de la Cour de cassation, des procédures judiciaires relatives à ces faits en cours sur leur ressort afin que la juridiction de Paris puisse être désignée. Ainsi, ces informations judiciaires sont désormais traitées par un nombre limité de magistrats qui connaissent le contexte de commission de faits et les particularités procédurales de tels dossiers. En conséquence, je puis vous assurer de la parfaite diligence des magistrats saisis de ces dossiers pour parvenir dans les délais les plus brefs à la manifestation de la vérité et de leur suivi scrupuleux par la Chancellerie. En outre, dans le cadre du projet de loi relatif à la répartition des contentieux et à l'allègement de certaines procédures juridictionnelles, actuellement en discussion au Parlement, est prévue la création au tribunal de grande instance de Paris d'un pôle spécialisé pour les crimes contre l'humanité.
