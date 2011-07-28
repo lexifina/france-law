@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100915252
+
+- Question : [SEQ100915252](seq100915252.md) — Assiette de cotisation obligatoire versée au Centre national de la fonction publique territoriale par les services départementaux d'incendie et de secours
+
+## Réponse
+
+*Fonction publique, JO du 2011-07-28, page 1991*
+
+En application de l'article 12-2 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, la cotisation obligatoire versée au Centre national de la fonction publique territoriale (CNFPT) par les collectivités territoriales et leurs établissements publics est assise sur la masse des rémunérations versées aux agents relevant de la collectivité ou de l'établissement telles qu'elles apparaissent aux états liquidatifs mensuels ou trimestriels dressés pour le règlement des charges sociales dues aux organismes de sécurité sociale, au titre de l'assurance maladie. Ainsi, les rémunérations servant d'assiette à la cotisation du CNFPT sont les mêmes que celles qui entrent dans l'assiette de recouvrement des cotisations à l'assurance maladie. La loi du 13 août 2004 de modernisation de la sécurité civile a introduit dans celle du 7 juillet 2000 relative notamment au reclassement et à la cessation anticipée d'activité des sapeurs-pompiers professionnels un ensemble de mesures permettant aux sapeurs-pompiers professionnels rencontrant des difficultés dans l'exercice de leurs fonctions opérationnelles de bénéficier d'un projet de fin de carrière pouvant consister en un congé pour raison opérationnelle. Cette loi prévoit que les sapeurs-pompiers professionnels bénéficiaires de ce congé perçoivent un revenu de remplacement, versé par l'établissement d'emploi, égal à 75 % de leur traitement indiciaire et de l'indemnité de feu. Ce revenu de remplacement, qui est assujetti à la cotisation à l'assurance maladie, entre donc dans l'assiette de recouvrement de la cotisation au CNFPT.
