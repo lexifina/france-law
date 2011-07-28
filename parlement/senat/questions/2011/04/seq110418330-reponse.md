@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110418330
+
+- Question : [SEQ110418330](seq110418330.md) — Sécurité et sûreté des installations nucléaires françaises et conditions de travail des intérimaires du nucléaire
+
+## Réponse
+
+*Écologie, JO du 2011-07-28, page 1988*
+
+Les modalités pratiques de réalisation des opérations de maintenance des réacteurs du parc électronucléaire français relèvent du choix de l'exploitant EDF. Le rôle de l'Autorité de sûreté nucléaire (ASN) est de contrôler, en particulier en application de l'arrêté du 10 août 1984, que l'exploitant assume pleinement ses responsabilités en matière de sûreté de ses installations. La politique industrielle de l'exploitant et sa politique de sous-traitance font donc bien l'objet d'une attention particulière de la part de l'ASN qui réalise notamment des inspections sur la mise en oeuvre et le respect des référentiels relatifs aux prestataires. À la suite de l'accident nucléaire survenu au Japon, le Premier ministre a demandé le 23 mars 2011 à l'Autorité de sûreté nucléaire de réaliser une évaluation complémentaire de la sûreté des installations nucléaires françaises sur les risques d'inondation, de séisme, de perte des alimentations électriques et du refroidissement ainsi que sur la gestion opérationnelle des situations accidentelles. Les conditions de recours aux entreprises sous-traitantes devront être également prises en compte dans le cadre de ces évaluations complémentaires de sûreté, conformément au cahier des charges établi par l'ASN que devront suivre les exploitants des installations nucléaires concernées. Le haut comité pour la transparence et l'information sur la sécurité nucléaire (HCTISN) contribue à toutes les étapes de ces évaluations complémentaires de sûreté et veille à la bonne transmission de l'information vers la société civile.
