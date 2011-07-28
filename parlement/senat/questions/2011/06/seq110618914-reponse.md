@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110618914
+
+- Question : [SEQ110618914](seq110618914.md) — Documents d'urbanisme
+
+## Réponse
+
+*Écologie, JO du 2011-07-28, page 1985*
+
+Le nombre de registres d'enquêtes publiques mis à la disposition du public dans le cadre de l'établissement d'un projet d'aménagement dépend d'une part du nombre d'enquêtes réalisées de façon indépendante et, d'autre part, du nombre de lieux où ces registres sont tenus à la disposition du public. Dans le cas général, l'article L. 123-11 du code de l'urbanisme dispose que lorsque l'enquête prévue lors de l'élaboration ou la révision d'un plan local d'urbanisme concerne une zone d'aménagement concerté, elle vaut enquête préalable à la déclaration d'utilité publique des travaux prévus dans la zone à condition que le dossier soumis à enquête comprenne les pièces requises par le code de l'expropriation pour cause d'utilité publique. L'arrêté d'organisation de l'enquête précise, conformément à l'article R. 11-14-5 du code de l'expropriation pour cause d'utilité publique, les lieux où le public pourra consulter le dossier d'enquête et peut donc prévoir, dans certains cas, la tenue de plusieurs registres. De même, dans le cas prévu à l'article L. 123-16 du code de l'urbanisme où la déclaration d'utilité publique d'une opération non compatible avec un plan local d'urbanisme emporte approbation des nouvelles dispositions du plan, une seule enquête publique est organisée, mais la mise à la disposition du public du dossier dans plusieurs lieux peut entraîner la tenue de plusieurs registres. Par ailleurs, dans le cas où une enquête parcellaire liée à une procédure d'expropriation est réalisée postérieurement à la déclaration d'utilité publique, cette enquête donne également lieu à la tenue d'un ou de plusieurs registres d'observations du public.
