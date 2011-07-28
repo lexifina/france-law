@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091211241
+
+- Question : [SEQ091211241](seq091211241.md) — Défense des ouvriers d'État
+
+## Réponse
+
+*Défense, JO du 2011-07-28, page 1985*
+
+L'importante charge de travail induite par le soutien industriel du moteur M88 du Rafale confère à elle seule des perspectives d'activité à très long terme à l'atelier industriel de l'aéronautique (AIA) de Bordeaux. Le service industriel de l'aéronautique (SIAé) a donc recruté 27 personnes, en 2009, et 26 autres, en 2010, au profit de cet établissement, avec pour objectif de fidéliser ces agents d'un très bon niveau professionnel. Le recrutement du personnel de l'AIA de Bordeaux s'inscrit dans le contexte global de réduction des effectifs du ministère de la défense et des anciens combattants, mais également dans le cadre de la gestion de l'ensemble de ses effectifs par le SIAé, qui a programmé l'embauche d'au moins 98 personnes au titre de l'année 2011. Afin de pourvoir les postes au sein des 4 AIA, le SIAé procède, depuis 2009, au recrutement d'agents par le biais de contrats à durée déterminée (CDD), ces personnes bénéficiant d'une rémunération adaptée au secteur de la maintenance aéronautique, ainsi qu'à leur niveau de qualification et d'expérience professionnelle. À cet égard, il convient de rappeler que la commission nationale paritaire des ouvriers de l'État a validé, fin 2009, le recours à ce type d'embauches. Ces CDD pourront être transformés en contrats à durée indéterminée, dès lors que les intéressés totaliseront six ans de service. Particulièrement attentif au maintien des compétences du personnel du SIAé, le ministère de la défense et des anciens combattants s'attache par ailleurs à améliorer les conditions de gestion de ces agents et à les accompagner dans la construction de parcours professionnels cohérents et valorisants.
