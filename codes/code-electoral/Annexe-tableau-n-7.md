@@ -466,22 +466,6 @@ Guadeloupe
 
 |
 
-Guyane
-
-|
-
-31
-
-|
-
-Guyane
-
-|
-
-33
-
-|
-
 Ile-de-France
 
 |
@@ -735,22 +719,6 @@ Vosges
 |
 
 15
-
-|
-
-Martinique
-
-|
-
-41
-
-|
-
-Martinique
-
-|
-
-43
 
 |
 
