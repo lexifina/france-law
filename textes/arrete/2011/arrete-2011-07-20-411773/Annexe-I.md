@@ -20,7 +20,7 @@ Indemnité d'hébergement
 
 |
 
-60 €
+60,00 €
 
 |
 
@@ -38,6 +38,6 @@ Indemnité d'hébergement
 
 |
 
-45 €
+45,00 €
 
 |
