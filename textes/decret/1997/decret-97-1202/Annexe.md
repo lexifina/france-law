@@ -70,7 +70,7 @@ Autorisation de mise sur le marché d'organismes génétiquement modifiés.
 
 |
 
-Décret n° 73-138 du 12 février 1973 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en ce qui concerne les procédés et les produits utilisés pour le nettoyage des matériaux et objets destinés à entrer en contact avec des denrées, produits et boissons pour l'alimentation de l'homme et des animaux (art. 11-1) - ministres de l'agriculture, de la consommation et de l'industrie.
+Décret n° 73-138 du 12 février 1973 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en ce qui concerne les procédés et les produits utilisés pour le nettoyage des matériaux et objets destinés à entrer en contact avec des denrées, produits et boissons pour l'alimentation de l'homme et des animaux (art. 11-1)-ministres de l'agriculture, de la consommation et de l'industrie.
 
 |
 
@@ -86,7 +86,7 @@ Homologation des labels agricoles, des cahiers des charges de certification de c
 
 |
 
-Décret n° 96-193 du 12 mars 1996 relatif à la certification des denrées alimentaires et des produits agricoles non alimentaires et non transformés, art. 18, 31 et 35.
+Décret n° 96-193 du 12 mars 1996 relatif à la certification des denrées alimentaires et des produits agricoles non alimentaires et non transformés, art. 18,31 et 35.
 
 |
 
@@ -236,7 +236,7 @@ Autorisation de mise sur le marché et autorisation de distribution pour expéri
 
 |
 
-articles R.* 253-2, R.* 253-21, R.* 253-38, R.* 253-46, R.* 253-40, R.* 253-44 et R.* 253-46.
+articles R. * 253-2, R. * 253-21, R. * 253-38, R. * 253-46, R. * 253-40, R. * 253-44 et R. * 253-46.
 
 |
 
@@ -244,7 +244,7 @@ Homologation et autorisation provisoire de vente ou d'importation des matières 
 
 |
 
-R.* 255-1.
+R. * 255-1.
 
 |
 
@@ -278,13 +278,13 @@ Autorisation d'utilisation, de dissémination et de mise sur le marché des orga
 
 Décret n° 93-1177 du 18 octobre 1993 pris pour l'application s'agissant de plantes, semences et de plants du titre III de la loi du 13 juillet 1992, art. 1er, 15 et 19 ;
 
-articles R.* 253-24, R.* 253-27, R.* 253-32, R.* 253-56, R.* 253-59 du code rural et de la pêche maritime.
+articles R. * 253-24, R. * 253-27, R. * 253-32, R. * 253-56, R. * 253-59 du code rural et de la pêche maritime.
 
 Décret n° 94-510 du 23 juin 1994 relatif à la commercialisation des plantes ornementales, des jeunes plants de légumes, des plantes fruitières et des matériels de multiplication de toutes ces plantes et modifiant le décret n° 81-605 du 18 mai 1981 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne le commerce des semences et des plants, art. 7 et 10 ;
 
-Décret n° 95-487 du 28 avril 1995 fixant les conditions de dissémination volontaire des animaux d'élevage génétiquement modifiés, art. 2, 13, 20-II et 25 ;
+Décret n° 95-487 du 28 avril 1995 fixant les conditions de dissémination volontaire des animaux d'élevage génétiquement modifiés, art. 2,13,20-II et 25 ;
 
-Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 23, 25, 27).
+Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 23,25,27).
 
 |
 
@@ -292,7 +292,7 @@ Agrément pour la réalisation d'essais officiellement reconnus des produits phy
 
 |
 
-article R.* 253-11 du code rural et de la pêche maritime.
+article R. * 253-11 du code rural et de la pêche maritime.
 
 |
 
@@ -300,7 +300,7 @@ Refus de transmission d'un dossier de demande d'inscription sur la liste communa
 
 |
 
-R.* 253-6 du code rural et de la pêche maritime.
+R. * 253-6 du code rural et de la pêche maritime.
 
 |
 
@@ -308,7 +308,7 @@ Autorisation d'une extension d'usage d'un produit phytopharmaceutique autorisé.
 
 |
 
-R.* 253-45, R.* 253-61 du code rural et de la pêche maritime.
+R. * 253-45, R. * 253-61 du code rural et de la pêche maritime.
 
 |
 
@@ -316,7 +316,7 @@ Autorisation provisoire pour la mise sur le marché d'un produit phytopharmaceut
 
 |
 
-R.* 253-49 du code rural et de la pêche maritime.
+R. * 253-49 du code rural et de la pêche maritime.
 
 |
 
@@ -324,15 +324,15 @@ Autorisation de mise sur le marché des produits phytopharmaceutiques pour une p
 
 |
 
-R.* 253-50 du code rural et de la pêche maritime.
+R. * 253-50 du code rural et de la pêche maritime.
 
 |
 
-Autorisation de mise sur le marché des produits.phytopharmaceutiques en provenance de l'Espace économique européen
+Autorisation de mise sur le marché des produits. phytopharmaceutiques en provenance de l'Espace économique européen
 
 |
 
-R.* 253-52, R.* 253-54 et R.* 253-55 du code rural et de la pêche maritime.
+R. * 253-52, R. * 253-54 et R. * 253-55 du code rural et de la pêche maritime.
 
 |
 
@@ -340,7 +340,7 @@ Autorisations de dissémination et de mise sur le marché des matières fertilis
 
 |
 
-R.* 255-8, R.* 255-16, R.* 255-23, R.* 255-28 et R.* 255-32 du code rural et de la pêche maritime.
+R. * 255-8, R. * 255-16, R. * 255-23, R. * 255-28 et R. * 255-32 du code rural et de la pêche maritime.
 
 |
 
@@ -394,7 +394,7 @@ Reconnaissance d'un groupement de producteurs et des règles prévues à l'artic
 
 |
 
-Article R. 551-4, 551-9, 551-11 et 551-12 du code rural et de la pêche maritime.
+Article R. 551-4,551-9,551-11 et 551-12 du code rural et de la pêche maritime.
 
 |
 
@@ -402,7 +402,7 @@ Agrément d'un comité économique agricole et des règles prévues à l'article
 
 |
 
-Article R. 552-4, 552-8, 552-10, 552-13 et 552-14 du code rural et de la pêche maritime.
+Article R. 552-4,552-8,552-10,552-13 et 552-14 du code rural et de la pêche maritime.
 
 |
 
@@ -546,7 +546,7 @@ Décisions de réception CE des tracteurs agricoles ou forestiers, des entités 
 
 |
 
-Articles 4, 5, 7 et 24 du décret n° 2005-1236 du 30 septembre 2005 relatif aux règles, prescriptions et procédures applicables aux tracteurs agricoles ou forestiers et à leurs dispositifs.
+Articles 4,5,7 et 24 du décret n° 2005-1236 du 30 septembre 2005 relatif aux règles, prescriptions et procédures applicables aux tracteurs agricoles ou forestiers et à leurs dispositifs.
 
 |
 
@@ -562,7 +562,7 @@ Décisions d'homologation nationale des tracteurs agricoles ou forestiers, rejet
 
 |
 
-Articles 8, 10 et 24 du même décret.
+Articles 8,10 et 24 du même décret.
 
 |
 
@@ -633,5 +633,19 @@ Décisions d'agrément des centres de formation des inspecteurs chargés de proc
 |
 
 Article R. 256-30 du code rural et de la pêche maritime.
+
+|
+
+Certification environnementale des exploitations agricoles.
+
+|
+
+|
+
+Agrément des organismes chargés de la certification environnementale des exploitations agricoles prévue à l'article L. 611-6 du code rural et de la pêche maritime.
+
+|
+
+Article R. 617-28 du code rural et de la pêche maritime.
 
 |
