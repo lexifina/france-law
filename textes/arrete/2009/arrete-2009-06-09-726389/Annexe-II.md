@@ -16,31 +16,7 @@ NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-Commandant de la force d'action terrestre
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Commandant de la force logistique terrestre
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur des ressources humaines de l'armée de terre
+Commandant des forces terrestres
 
 |
 
@@ -68,9 +44,7 @@ Commandant de brigade spécialisée
 
 |
 
-7
-
-|
+4 |
 
 100
 
@@ -80,7 +54,7 @@ Commandant de brigade interarmes
 
 |
 
-9
+8
 
 |
 
@@ -140,7 +114,7 @@ Commandant d'état-major de forces
 
 |
 
-4
+3
 
 |
 
@@ -172,7 +146,17 @@ Chef de cabinet du chef d'état-major de l'armée de terre
 
 |
 
-Chef d'état-major du commandement de la force d'action terrestre
+Chef d'état-major du commandement des forces terrestres |
+
+1
+
+|
+
+100
+
+|
+
+Commandant de la brigade franco-allemande
 
 |
 
@@ -184,7 +168,7 @@ Chef d'état-major du commandement de la force d'action terrestre
 
 |
 
-Chef d'état-major du commandement de la force logistique terrestre
+Directeur central du service de la maintenance industrielle terrestre
 
 |
 
@@ -196,7 +180,103 @@ Chef d'état-major du commandement de la force logistique terrestre
 
 |
 
-Chef d'état-major du direction des ressources humaines de l'armée de terre
+Commandant en second des forces terrestres
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Général adjoint préparation opérationnelle au commandant des forces terrestres
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Général adjoint soutien au commandant des forces terrestres
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Commandant de division au commandement des forces terrestres
+
+|
+
+4
+
+|
+
+80
+
+|
+
+Chef du maintien en condition opérationnelle des matériels de l'armée de terre
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Commandant du collège de l'enseignement supérieur de l'armée de terre
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Commandant de l'école d'infanterie
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Commandant des écoles militaires de Bourges et de l'école du train
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Commandant des écoles militaires de Saumur et de l'école de cavalerie
 
 |
 
@@ -232,45 +312,7 @@ Chef d'état-major du quartier général du corps de réaction rapide-France
 
 |
 
-Adjoint au commandant de la force d'action terrestre
-
-|
-
-3
-
-|
-
-80
-
-|
-
-Adjoint au commandant de la force logistique terrestre
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint au directeur des ressources humaines de l'armée de terre
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Général adjoint major au commandant d'une région terre
-
-|
+Général adjoint major au commandant d'une région terre |
 
 5
 
@@ -316,7 +358,7 @@ Directeur du service central des achats et de la maintenance
 
 |
 
-Commandant de division au commandement de la force d'action terrestre
+Commandant de division au commandement des forces terrestres
 
 |
 
@@ -328,7 +370,7 @@ Commandant de division au commandement de la force d'action terrestre
 
 |
 
-Commandant de division au commandement de la force logistique terrestre
+Commandant de division au commandement des forces terrestres
 
 |
 
