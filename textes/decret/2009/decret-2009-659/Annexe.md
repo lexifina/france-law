@@ -2,13 +2,13 @@
 
 TABLEAU I
 
-FONCTIONS INTERARMÉES
+Fonctions interarmées
 
 DÉSIGNATION DE LA FONCTION
 
 |
 
-Inspecteur des forces en opérations et de la défense du territoire.
+Inspecteur des armées.
 
 |
 
@@ -29,10 +29,6 @@ Commandant supérieur outre-mer.
 |
 
 Inspecteur des armements nucléaires.
-
-|
-
-Commandant des forces françaises à l'étranger.
 
 |
 
@@ -84,6 +80,34 @@ Directeur du centre interarmées de concepts, de doctrines et d'expérimentation
 
 |
 
+Officier général adjoint à l'inspecteur des armées.
+
+|
+
+Chef d'état-major de la direction de l'enseignement militaire supérieur (DEMS).
+
+|
+
+Directeur du Centre des hautes études militaires (DEMS).
+
+|
+
+Commandant du soutien pour les bases de défense (EMA).
+
+|
+
+Général commandant interarmées des hélicoptères.
+
+|
+
+Commandant le Centre national des sports de la défense.
+
+|
+
+Général adjoint au chef de l'état-major interarmées de forces et d'entraînement.
+
+|
+
 Adjoint au chef du centre de planification et de conduite des opérations.
 
 |
@@ -96,31 +120,15 @@ Officier général chargé du retour à la vie civile des officiers généraux.
 
 |
 
-Officier général chargé des études prospectives.
-
-|
-
-Officier général chargé du soutien à l'export.
-
-|
-
 TABLEAU II
 
-FONCTIONS RELEVANT DE L'ARMÉE DE TERRE
+Fonctions relevant de l'armée de terre
 
 DÉSIGNATION DE LA FONCTION
 
 |
 
-Commandant de la force d'action terrestre.
-
-|
-
-Commandant de la force logistique terrestre.
-
-|
-
-directeur des ressources humaines de l'armée de terre.
+Commandant des forces terrestres.
 
 |
 
@@ -164,15 +172,35 @@ Chef de cabinet du chef d'état-major de l'armée de terre.
 
 |
 
-Chef d'état-major du commandement de la force d'action terrestre.
+Chef d'état-major du commandement des forces terrestres.
 
 |
 
-Chef d'état-major du commandement de la force logistique terrestre.
+Commandant de la brigade franco-allemande.
 
 |
 
-Chef d'état-major du direction des ressources humaines de l'armée de terre.
+Directeur central du service de la maintenance industrielle terrestre.
+
+|
+
+Commandant en second des forces terrestres.
+
+|
+
+Général adjoint au commandant des forces terrestres.
+
+|
+
+Commandant de division au commandement des forces terrestres.
+
+|
+
+Chef du maintien en condition opérationnelle des matériels de l'armée de terre.
+
+|
+
+Commandant d'écoles militaires de l'armée de terre.
 
 |
 
@@ -181,18 +209,6 @@ Chef d'état-major du corps européen.
 |
 
 Chef d'état-major du quartier général du corps de réaction rapide-France.
-
-|
-
-Adjoint au commandant de la force d'action terrestre.
-
-|
-
-Adjoint au commandant de la force logistique terrestre.
-
-|
-
-Adjoint au directeur des ressources humaines de l'armée de terre.
 
 |
 
@@ -212,11 +228,7 @@ Directeur du service central des achats et de la maintenance.
 
 |
 
-Commandant de division au commandement de la force d'action terrestre.
-
-|
-
-Commandant de division au commandement de la force logistique terrestre.
+Commandant de division au commandement des forces terrestres.
 
 |
 
@@ -242,7 +254,7 @@ Directeur de la doctrine d'emploi des forces.
 
 TABLEAU III
 
-FONCTIONS RELEVANT DE LA MARINE NATIONALE
+Fonctions relevant de la marine nationale
 
 DÉSIGNATION DE LA FONCTION
 
@@ -272,11 +284,11 @@ Commandant la zone maritime océan Indien.
 
 |
 
-Officier général coordonnateur central pour les affaires nucléaires, la prévention et la protection de l'environnement.
+Autorité de coordination pour les affaires nucléaires, la prévention et la protection de l'environnement.
 
 |
 
-Officier général coordonnateur central pour les questions internationales.
+Autorité de coordination de la fonction garde-côtes et des questions internationales.
 
 |
 
@@ -304,13 +316,13 @@ Directeur local du service de soutien de la flotte.
 
 |
 
-Commandant de l'école navale et du groupe des écoles du Poulmic.
+Commandant de l'Ecole navale et du groupe des écoles du Poulmic.
 
 |
 
 TABLEAU IV
 
-FONCTIONS RELEVANT DE L'ARMÉE DE L'AIR
+Fonctions relevant de l'armée de l'air
 
 DÉSIGNATION DE LA FONCTION
 
@@ -376,103 +388,39 @@ Commandant de brigade aérienne.
 
 |
 
-Directeur du service de l'audit de l'administration et des finances.
-
-|
-
-Directeur du service des finances des formations, des achats et de la comptabilité.
-
-|
-
 Directeur des droits financiers individuels et des affaires contentieuses.
 
 |
 
-Commandant des écoles d'officiers de l'armée de l'air.
+Commandant les écoles d'officiers de l'armée de l'air.
 
 |
 
-Commandant des écoles des sous-officiers et militaires du rang de l'armée de l'air.
+Commandant les écoles des sous-officiers et militaires du rang de l'armée de l'air.
+
+|
+
+Commandant du centre multimodal des transports.
 
 |
 
 TABLEAU V
 
-FONCTIONS RELEVANT DE LA GENDARMERIE NATIONALE
+Fonctions relevant de la délégation générale pour l'armement
 
 DÉSIGNATION DE LA FONCTION
 
 |
 
-Commandant de région de gendarmerie, commandant de la gendarmerie pour une zone de défense.
+Directeur de DGA maîtrise de l'information à la direction technique.
 
 |
 
-Commandant de région de gendarmerie.
+Directeur de DGA essais en vol à la direction technique.
 
 |
 
-Commandant de gendarmerie outre-mer.
-
-|
-
-Commandant des écoles de la gendarmerie.
-
-|
-
-Délégué aux réserves militaires pour la gendarmerie.
-
-|
-
-Commandant du centre d'enseignement supérieur de la gendarmerie et adjoint au général commandant les écoles de la gendarmerie nationale.
-
-|
-
-Chef de cabinet du directeur général de la gendarmerie nationale.
-
-|
-
-Commandant du groupe d'intervention de la gendarmerie nationale.
-
-|
-
-Commandant de la gendarmerie des transports aériens.
-
-|
-
-Commandant de la force de gendarmerie mobile et d'intervention.
-
-|
-
-Commandant de la garde républicaine.
-
-|
-
-Commandant de l'Ecole des officiers de la gendarmerie nationale.
-
-|
-
-Chef de la mission du pilotage et de la performance.
-
-|
-
-TABLEAU VI
-
-FONCTIONS RELEVANT DE LA direction générale de l'armement
-
-DÉSIGNATION DE LA FONCTION
-
-|
-
-Directeur du centre d'électronique de l'armement de la direction de l'expertise technique.
-
-|
-
-Directeur du centre d'essais en vol de la direction des essais.
-
-|
-
-Directeur du centre d'essais de lancement de missiles de la direction des essais.
+Directeur de DGA essais de missiles à la direction technique.
 
 |
 
@@ -480,9 +428,9 @@ Directeur local du service de soutien de la flotte.
 
 |
 
-TABLEAU VII
+TABLEAU VI
 
-FONCTIONS RELEVANT DU SERVICE DE SANTÉ DES ARMÉES
+Fonctions relevant du service de santé des armées
 
 DÉSIGNATION DE LA FONCTION
 
@@ -500,21 +448,21 @@ Directeur des approvisionnements en produits de santé.
 
 |
 
-Directeur de l'école du Val-de-Grâce.
+Directeur de l'Ecole du Val-de-Grâce.
 
 |
 
-Directeur du centre de transfusion sanguine des armées.
+Directeur de l'institut de recherche biomédicale du service de santé des armées.
 
 |
 
-Directeur du centre de recherche du service de santé des armées.
+Directeur du département de l'audit interne du service de santé des armées.
 
 |
 
-TABLEAU VIII
+TABLEAU VII
 
-FONCTIONS RELEVANT DU SERVICE DES ESSENCES DES ARMÉES
+Fonctions relevant du service des essences des armées
 
 DÉSIGNATION DE LA FONCTION
 
@@ -524,9 +472,9 @@ Directeur de l'établissement administratif et technique du service des essences
 
 |
 
-TABLEAU IX
+TABLEAU VIII
 
-FONCTIONS RELEVANT DU CONTRÔLE GÉNÉRAL DES ARMÉES
+Fonctions relevant du contrôle général des armées
 
 DÉSIGNATION DE LA FONCTION
 
@@ -541,6 +489,10 @@ Chef de l'inspection des installations classées pour la protection de l'environ
 |
 
 Secrétaire général du Conseil supérieur de la fonction militaire.
+
+|
+
+Secrétaire général du contrôle général des armées.
 
 |
 
