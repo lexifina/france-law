@@ -20,7 +20,19 @@ Inspecteur civil du ministère de la défense
 
 |
 
-4
+5
+
+|
+
+100
+
+|
+
+Inspecteur technique de l'infrastructure de la défense
+
+|
+
+1
 
 |
 
@@ -52,19 +64,7 @@ Inspecteur de la marine nationale
 
 |
 
-Inspecteur de l 'armée de l'air
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Inspecteur de la gendarmerie nationale
+Inspecteur de l'armée de l'air
 
 |
 
@@ -85,5 +85,17 @@ Inspecteur de l'armement, chef de l'inspection
 |
 
 120
+
+|
+
+Officier général inspecteur à l'inspection de l'armée de terre
+
+|
+
+1
+
+|
+
+80
 
 |

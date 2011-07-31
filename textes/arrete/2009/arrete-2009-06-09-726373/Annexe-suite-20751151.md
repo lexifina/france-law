@@ -18,7 +18,7 @@ NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-Chef du service des moyens généraux
+Chef du service parisien de soutien de l'administration centrale
 
 |
 
@@ -66,6 +66,18 @@ Adjoint au directeur des ressources humaines du ministère de la défense, chef 
 
 |
 
+Chef de service, directeur de l'agence de reconversion de la défense
+
+|
+
+1
+
+|
+
+120
+
+|
+
 Chef de service, adjoint au directeur des affaires financières
 
 |
@@ -74,7 +86,7 @@ Chef de service, adjoint au directeur des affaires financières
 
 |
 
-110
+120
 
 |
 
@@ -86,7 +98,7 @@ Chef du service des synthèses et du pilotage budgétaire
 
 |
 
-110
+120
 
 |
 
@@ -126,6 +138,18 @@ Chef de service, adjoint au directeur du service national
 
 |
 
+Directeur, chef de service du service interarmées des munitions
+
+|
+
+1
+
+|
+
+110
+
+|
+
 Chef du service historique de la défense
 
 |
@@ -150,7 +174,7 @@ Chef du service de la gestion du personnel de la direction des ressources humain
 
 |
 
-Chef du service centralisé des achats de la direction des systèmes d'armes (DGA)
+Chef du service centralisé des achats de la direction des opérations (DGA)
 
 |
 
@@ -162,7 +186,7 @@ Chef du service centralisé des achats de la direction des systèmes d'armes (DG
 
 |
 
-Chef du service d'architecture des systèmes de forces de la direction des systèmes de forces et des stratégies industrielle, technologique et de coopération (DGA)
+Chef du service d'architecture des systèmes de forces de la direction de la stratégie (DGA)
 
 |
 
@@ -174,55 +198,7 @@ Chef du service d'architecture des systèmes de forces de la direction des syst�
 
 |
 
-Chef du service des affaires industrielles et de l'intelligence économique de la direction des systèmes de forces et des stratégies industrielle, technologique et de coopération (DGA)
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef du service des recherches et technologies de défense et de sécurité de la direction des systèmes de forces et des stratégies industrielle, technologique et de coopération (DGA)
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef du service des plans, du copilotage du programme équipement des forces et des méthodes de la direction des plans, du budget et de la gestion (DGA)
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef du service qualité de la direction de la qualité et du progrès (DGA)
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef du service d'architecture intersystèmes de la direction de l'expertise technique (DGA)
+Chef du service des affaires industrielles et de l'intelligence économique de la direction de la stratégie (DGA)
 
 |
 
@@ -234,7 +210,7 @@ Chef du service d'architecture intersystèmes de la direction de l'expertise tec
 
 |
 
-Chef du service de maintien en condition opérationnelle de la direction de l'expertise technique (DGA)
+Chef du service des recherches et technologies de défense et de sécurité de la direction de la stratégie (DGA)
 
 |
 
@@ -246,7 +222,7 @@ Chef du service de maintien en condition opérationnelle de la direction de l'ex
 
 |
 
-Chef du service technique et des marchés généraux du commissariat de la marine
+Chef du service de la qualité du service central de la modernisation et de la qualité (DGA)
 
 |
 
@@ -258,7 +234,7 @@ Chef du service technique et des marchés généraux du commissariat de la marin
 
 |
 
-Directeur central du service des systèmes d'information de la marine
+Chef du service technique de la direction technique (DGA)
 
 |
 
@@ -267,6 +243,42 @@ Directeur central du service des systèmes d'information de la marine
 |
 
 100
+
+|
+
+Chef du service de l'exécution budgétaire et des comptabilités des opérations d'armement de la direction des plans, des programmes et du budget (DGA)
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Chef du service du soutien aux exportations de défense de la direction du développement international (DGA)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef du service de maintien en condition opérationnelle de la direction des opérations (DGA)
+
+|
+
+1
+
+|
+
+80
 
 |
 
@@ -308,7 +320,7 @@ Chef de la division forces nucléaires
 
 |
 
-Chef de la division Euratlantique
+Chef de la division organisations internationales
 
 |
 
@@ -320,7 +332,7 @@ Chef de la division Euratlantique
 
 |
 
-Chef de la division monde
+Chef de la division régions
 
 |
 
@@ -356,7 +368,7 @@ Chef de la division plans, programmes et évaluation
 
 |
 
-Chef de la division programmes interarmées
+Chef de la division espace programmes interarmées
 
 |
 
@@ -368,7 +380,7 @@ Chef de la division programmes interarmées
 
 |
 
-Chef de la division capacités et équipements
+Chef de la division cohérence capacitaire
 
 |
 
@@ -380,7 +392,7 @@ Chef de la division capacités et équipements
 
 |
 
-Chef de la division organisation et ressources humaines
+Chef de la division ressources humaines
 
 |
 
@@ -392,19 +404,7 @@ Chef de la division organisation et ressources humaines
 
 |
 
-Chef de la division études, stratégie militaire générale et pilotage, adjoint au major général des armées
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef de la division pilotage
+Chef de la division études, synthèse, management général, adjoint au major général des armées
 
 |
 
@@ -417,18 +417,6 @@ Chef de la division pilotage
 |
 
 Chef de la division soutien logistique interarmées
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef de la division équipements - pilote d'aptitudes et de capacités mobilité soutien
 
 |
 
@@ -515,6 +503,18 @@ Sous-chef d'état-major opérations aéronavales de l'état-major de la marine
 |
 
 Sous-chef d'état-major plans et programmes de l'état-major de la marine
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-chef d'état-major soutien finances de l'état-major de la marine
 
 |
 

@@ -30,6 +30,18 @@ Directeur, adjoint au secrétaire général pour l'administration
 
 |
 
+Chef de la mission pour la coordination de la réforme
+
+|
+
+1
+
+|
+
+140
+
+|
+
 Directeur des affaires financières
 
 |
@@ -114,7 +126,7 @@ Directeur central du service d'infrastructure de la défense
 
 |
 
-Directeur, délégué aux affaires stratégiques
+Directeur chargé des affaires stratégiques
 
 |
 
@@ -186,7 +198,7 @@ Directeur des ressources humaines de l'armée de terre
 
 |
 
-Directeur central du matériel de l'armée de terre
+Directeur central du matériel de l'armée de terre et de la structure interarmées de maintenance des matériels terrestres
 
 |
 
@@ -198,7 +210,7 @@ Directeur central du matériel de l'armée de terre
 
 |
 
-Directeur central du commissariat de l'armée de terre
+Directeur central du service du commissariat des armées
 
 |
 
@@ -222,31 +234,7 @@ Directeur du personnel militaire de la marine
 
 |
 
-Directeur central du commissariat de la marine
-
-|
-
-1
-
-|
-
-140
-
-|
-
 Directeur des ressources humaines de l'armée de l'air
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur central du service de l'administration générale et des finances de l'armée de l'air
 
 |
 
@@ -270,7 +258,7 @@ Directeur central de la structure intégrée du maintien en condition opération
 
 |
 
-Adjoint au délégué général pour l'armement, directeur des systèmes de forces et des stratégies industrielle, technologique et de coopération
+Directeur de la stratégie de la direction générale de l'armement
 
 |
 
@@ -306,7 +294,7 @@ Directeur des ressources humaines de la direction générale de l'armement
 
 |
 
-Directeur de l'expertise technique de la direction générale de l'armement
+Directeur technique de la direction générale de l'armement
 
 |
 
@@ -318,7 +306,7 @@ Directeur de l'expertise technique de la direction générale de l'armement
 
 |
 
-Directeur des essais de la direction générale de l'armement
+Directeur des plans, des programmes et du budget de la direction générale de l'armement
 
 |
 
@@ -330,7 +318,7 @@ Directeur des essais de la direction générale de l'armement
 
 |
 
-Directeur des plans, du budget et de la gestion de la direction générale de l'armement
+Adjoint au délégué général de l'armement, directeur
 
 |
 
@@ -342,7 +330,7 @@ Directeur des plans, du budget et de la gestion de la direction générale de l'
 
 |
 
-Directeur de la qualité et du progrès de la direction générale de l'armement
+Directeur des opérations de la direction générale de l'armement
 
 |
 
@@ -478,7 +466,7 @@ Sous-chef d'état-major opérations
 
 |
 
-Sous-chef d'état-major organisation
+Sous-chef d'état-major ressources humaines
 
 |
 
@@ -502,45 +490,7 @@ Sous-chef d'état-major relations internationales
 
 |
 
-D.-Emplois de chef de service de la direction générale de la gendarmerie nationale :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
-
-Chef de service des opérations et de l'emploi
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Chef de service des ressources humaines
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Chef de service des soutiens et des finances
+Sous-chef d'état-major soutien
 
 |
 

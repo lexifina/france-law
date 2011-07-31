@@ -126,7 +126,7 @@ Sous-directeur des relations sociales, des statuts et des filières (DRH-MD)
 
 |
 
-Sous-directeur de la gestion collective du personnel civil (DRH-MD)
+Sous-directeur de la gestion ministérielle des ressources humaines civiles (DRH-MD)
 
 |
 
@@ -139,18 +139,6 @@ Sous-directeur de la gestion collective du personnel civil (DRH-MD)
 |
 
 Sous-directeur des pensions (DRH-MD)
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur de l'accompagnement et du reclassement professionnel (DRH-MD)
 
 |
 
@@ -210,7 +198,7 @@ Sous-directeur du droit international et européen (DAJ)
 
 |
 
-Sous-directeur du patrimoine (DMPA)
+Sous-directeur de l'immobilier et de l'environnement (DMPA)
 
 |
 
@@ -222,7 +210,7 @@ Sous-directeur du patrimoine (DMPA)
 
 |
 
-Sous-directeur de l'action culturelle et éducative (DMPA)
+Sous-directeur de la mémoire et de l'action éducative (DMPA)
 
 |
 
@@ -234,7 +222,7 @@ Sous-directeur de l'action culturelle et éducative (DMPA)
 
 |
 
-Sous-directeur, chef du département administratif et financier du service historique de la défense
+Sous-directeur du logement (DMPA)
 
 |
 
@@ -246,7 +234,7 @@ Sous-directeur, chef du département administratif et financier du service histo
 
 |
 
-Sous-directeur, adjoint au chef du service des moyens généraux
+Sous-directeur, adjoint au chef du service parisien de soutien de l'administration centrale
 
 |
 
@@ -258,7 +246,7 @@ Sous-directeur, adjoint au chef du service des moyens généraux
 
 |
 
-Sous-directeur des affaires financières (SMG)
+Sous-directeur de la gestion budgétaire et financière (SPAC)
 
 |
 
@@ -270,7 +258,7 @@ Sous-directeur des affaires financières (SMG)
 
 |
 
-Sous-directeur de l'action logistique (SMG)
+Sous-directeur de l'ingénierie du soutien (SPAC)
 
 |
 
@@ -282,7 +270,7 @@ Sous-directeur de l'action logistique (SMG)
 
 |
 
-Sous-directeur des achats publics (SMG)
+Sous-directeur des achats (SPAC)
 
 |
 
@@ -290,11 +278,11 @@ Sous-directeur des achats publics (SMG)
 
 |
 
-80
+100
 
 |
 
-Sous-directeur du soutien du personnel (SMG)
+Sous-directeur de la gestion du personnel civil (SPAC)
 
 |
 
@@ -302,7 +290,19 @@ Sous-directeur du soutien du personnel (SMG)
 
 |
 
-80
+100
+
+|
+
+Sous-directeur de la performance interne (SPAC)
+
+|
+
+1
+
+|
+
+100
 
 |
 
@@ -315,18 +315,6 @@ Sous-directeur administration finances (SID)
 |
 
 100
-
-|
-
-Sous-directeur des statuts et des pensions (DSPRS)
-
-|
-
-1
-
-|
-
-80
 
 |
 
@@ -350,7 +338,7 @@ Sous-directeur des études et de la politique (DRHAT)
 
 |
 
-100
+80
 
 |
 
@@ -366,7 +354,7 @@ Sous-directeur adjoint au chef du service de la gestion du personnel (DRHAT)
 
 |
 
-Sous-directeur du recrutement et de la reconversion (DRHAT)
+Sous-directeur du recrutement (DRHAT)
 
 |
 
@@ -374,7 +362,19 @@ Sous-directeur du recrutement et de la reconversion (DRHAT)
 
 |
 
-100
+80
+
+|
+
+Sous-directeur de la formation et des écoles (DRHAT)
+
+|
+
+1
+
+|
+
+80
 
 |
 
@@ -462,6 +462,54 @@ Sous-directeur action scientifique et technique (DCSSA)
 
 |
 
+Sous-directeur synthèses (SCA)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur budget-finances comptabilité (SCA)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur réglementation-études juridiques (SCA)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur achats-soutiens communs (SCA)
+
+|
+
+1
+
+|
+
+80
+
+|
+
 Sous-directeur administratif (SIAé)
 
 |
@@ -474,19 +522,7 @@ Sous-directeur administratif (SIAé)
 
 |
 
-Sous-directeur, adjoint au directeur des ressources humaines (DGA)
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur de la formation et des écoles (DGA/DRH)
+Sous-directeur de la formation et des écoles (DGA/ DRH)
 
 |
 
@@ -498,7 +534,7 @@ Sous-directeur de la formation et des écoles (DGA/DRH)
 
 |
 
-Sous-directeur de la concertation, de l'accompagnement social et de la prévention (DGA/DRH)
+Sous-directeur de la concertation, de l'accompagnement social et de la prévention (DGA/ DRH)
 
 |
 
@@ -510,7 +546,7 @@ Sous-directeur de la concertation, de l'accompagnement social et de la préventi
 
 |
 
-Sous-directeur de la politique des ressources humaines (DGA/DRH)
+Sous-directeur de la politique des ressources humaines (DGA/ DRH)
 
 |
 
@@ -522,7 +558,7 @@ Sous-directeur de la politique des ressources humaines (DGA/DRH)
 
 |
 
-Sous-directeur de la mobilité et du recrutement (DGA/DRH)
+Sous-directeur de la mobilité et du recrutement (DGA/ DRH)
 
 |
 
@@ -534,7 +570,7 @@ Sous-directeur de la mobilité et du recrutement (DGA/DRH)
 
 |
 
-Sous-directeur de la gestion et de la qualité (DGA/DDI)
+Sous-directeur de la gestion et de la qualité du service de la gestion des procédures et des moyens (DGA/ DI)
 
 |
 
@@ -546,7 +582,7 @@ Sous-directeur de la gestion et de la qualité (DGA/DDI)
 
 |
 
-Sous-directeur de la coopération et du développement européen (DGA/D4S)
+Sous-directeur de la coopération et du développement européen (DGA/ DS)
 
 |
 
@@ -558,7 +594,7 @@ Sous-directeur de la coopération et du développement européen (DGA/D4S)
 
 |
 
-Sous-directeur des pôles et de la compétence techniques (DGA/DET)
+Sous-directeur des systèmes d'information du service central de la modernisation et de la qualité (DGA/ SMQ)
 
 |
 
@@ -570,7 +606,7 @@ Sous-directeur des pôles et de la compétence techniques (DGA/DET)
 
 |
 
-Sous-directeur des systèmes d'information (DGA/DQP)
+Sous-directeur des plans et des programmes (DGA/ DP)
 
 |
 
@@ -582,7 +618,7 @@ Sous-directeur des systèmes d'information (DGA/DQP)
 
 |
 
-Sous-directeur de la gestion budgétaire et de la comptabilité (DGA/DPBG)
+Sous-directeur de la gestion statutaire et de la réglementation (DGA/ DRH)
 
 |
 
@@ -630,6 +666,18 @@ Sous-directeur compétences (DPMM)
 
 |
 
+Sous-directeur gestion du personnel à la direction du personnel militaire de la marine (DPMM)
+
+|
+
+1
+
+|
+
+80
+
+|
+
 Sous-directeur de la gestion des ressources (DRHAA)
 
 |
@@ -642,7 +690,7 @@ Sous-directeur de la gestion des ressources (DRHAA)
 
 |
 
-Sous-directeur personnel dans l'armée de l'air et la société (DRHAA)
+Sous-directeur accompagnement (DRHAA)
 
 |
 
@@ -666,7 +714,7 @@ Sous-directeur des affaires générales (DRHAA)
 
 |
 
-Sous-directeur de l'organisation et des effectifs (DGGN)
+Sous-directeur études, politique des ressources humaines et gestion des hauts potentiels à la direction des ressources humaines de l'armée de l'air (DRHAA)
 
 |
 
@@ -678,7 +726,7 @@ Sous-directeur de l'organisation et des effectifs (DGGN)
 
 |
 
-Sous-directeur de la coopération internationale (DGGN)
+Sous-directeur des questions euro-atlantiques (DAS)
 
 |
 
@@ -690,7 +738,7 @@ Sous-directeur de la coopération internationale (DGGN)
 
 |
 
-Sous-directeur de la défense et de l'ordre public (DGGN)
+Sous-directeur des questions régionales (DAS)
 
 |
 
@@ -702,7 +750,7 @@ Sous-directeur de la défense et de l'ordre public (DGGN)
 
 |
 
-Sous-directeur de la sécurité publique et de la sécurité routière (DGGN)
+Sous-directeur de la prolifération et du contrôle (DAS)
 
 |
 
@@ -714,7 +762,7 @@ Sous-directeur de la sécurité publique et de la sécurité routière (DGGN)
 
 |
 
-Sous-directeur de la police judiciaire (DGGN)
+Sous-directeur de la politique et de la prospective de défense (DAS)
 
 |
 
@@ -723,162 +771,6 @@ Sous-directeur de la police judiciaire (DGGN)
 |
 
 80
-
-|
-
-Sous-directeur des compétences (DGGN)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la gestion du personnel (DGGN)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur des télécommunications et de l'informatique (DGGN)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de l'infrastructure (DGGN)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur administratif et financier (DGGN)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la politique des ressources humaines (DGGN)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de l'équipement et de la logistique (DGGN)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de l'accompagnement du personnel (DGGN)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur, adjoint au directeur, délégué aux affaires stratégiques
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur du contrôle des transferts sensibles (DAS)
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur construction européenne et alliance atlantique (DAS)
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Sous-directeur questions régionales (DAS)
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Sous-directeur défense, technologies et prolifération (DAS)
-
-|
-
-1
-
-|
-
-60
 
 |
 
@@ -896,7 +788,7 @@ NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-Secrétaire général des architectes de systèmes de forces du service d'architecture des systèmes de forces (DGA/D4S)
+Secrétaire général des architectes de systèmes de forces du service d'architecture des systèmes de forces (DGA/ DS)
 
 |
 
@@ -908,7 +800,7 @@ Secrétaire général des architectes de systèmes de forces du service d'archit
 
 |
 
-Directeur du Centre des hautes études de l'armement (DGA/D4S)
+Directeur de l'unité de management Rafale (DGA/ DO)
 
 |
 
@@ -920,7 +812,7 @@ Directeur du Centre des hautes études de l'armement (DGA/D4S)
 
 |
 
-Directeur de l'unité de management Rafale (DGA/DSA)
+Directeur de l'unité de management Cœlacanthe (DGA/ DO)
 
 |
 
@@ -932,7 +824,7 @@ Directeur de l'unité de management Rafale (DGA/DSA)
 
 |
 
-Directeur de l'unité de management Cœlacanthe (DGA/DSA)
+Directeur de l'unité de management Opérations d'armement terrestres (DGA/ DO)
 
 |
 
@@ -944,7 +836,7 @@ Directeur de l'unité de management Cœlacanthe (DGA/DSA)
 
 |
 
-Directeur de l'unité de management Opérations d'armement terrestre (DGA/DSA)
+Directeur de l'unité de management Opérations d'armement navales (DGA/ DO)
 
 |
 
@@ -956,7 +848,7 @@ Directeur de l'unité de management Opérations d'armement terrestre (DGA/DSA)
 
 |
 
-Directeur de l'unité de management Opérations d'armement naval (DGA/DSA)
+Directeur de l'unité de management Espace et systèmes d'information opérationnels (DGA/ DO)
 
 |
 
@@ -968,7 +860,91 @@ Directeur de l'unité de management Opérations d'armement naval (DGA/DSA)
 
 |
 
-Directeur de l'unité de management Espace et systèmes d'information opérationnels (DGA/DSA)
+Adjoint au chef du service centralisé des achats (DGA/ DO)
+
+|
+
+3
+
+|
+
+80
+
+|
+
+Directeur du centre d'expertise du soutien des combattants et des forces (SCA)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur du centre d'audit administratif et financier (SCA)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur du centre de soutien général des armées (SCA)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur de l'institut de recherches stratégiques de l'Ecole militaire à la direction de l'enseignement militaire supérieur (DEMS)
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur du centre de documentation de l'Ecole militaire à la direction de l'enseignement militaire supérieur (DEMS)
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Chef du secrétariat du comité ministériel des investissements
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef de la division des affaires pénales militaires
 
 |
 

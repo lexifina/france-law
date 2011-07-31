@@ -66,18 +66,6 @@ Directeur adjoint à la délégation à l'information et à la communication de 
 
 |
 
-Directeur adjoint, conseiller pour l'organisation et l'administration à la délégation à l'information et à la communication de la défense
-
-|
-
-1
-
-|
-
-80
-
-|
-
 Directeur adjoint à la direction du renseignement militaire
 
 |
@@ -98,7 +86,7 @@ Directeur central adjoint à la direction interarmées des réseaux d'infrastruc
 
 |
 
-100
+110
 
 |
 
@@ -114,7 +102,7 @@ Directeur adjoint à la direction générale des systèmes d'information et de c
 
 |
 
-Directeur adjoint à la direction centrale du commissariat de l'armée de terre
+Directeur adjoint à la direction technique de la direction générale de l'armement
 
 |
 
@@ -126,7 +114,31 @@ Directeur adjoint à la direction centrale du commissariat de l'armée de terre
 
 |
 
-Directeur adjoint à la direction centrale du matériel de l'armée de terre
+Directeur central adjoint du service du commissariat des armées
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur adjoint à la structure interarmées de maintenance des matériels terrestres
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Directeur adjoint au directeur des ressources humaines de l'armée de terre commandant les écoles et les lycées de la défense
 
 |
 
@@ -139,18 +151,6 @@ Directeur adjoint à la direction centrale du matériel de l'armée de terre
 |
 
 Directeur adjoint à la direction du personnel militaire de la marine
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur adjoint à la direction centrale du commissariat de la marine
 
 |
 
@@ -175,18 +175,6 @@ Directeur adjoint à la direction centrale du service de soutien de la flotte
 |
 
 Directeur adjoint à la direction des ressources humaines de l'armée de l'air
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur adjoint à la direction centrale du service de l'administration générale et des finances de l'armée de l'air
 
 |
 
@@ -248,19 +236,19 @@ Adjoint au directeur central de la structure intégrée du maintien en condition
 
 |
 
-Adjoint au directeur des systèmes d'armes (DGA)
+Adjoint au directeur du développement international (DGA)
 
 |
 
-3
+1
 
 |
 
-100
+80
 
 |
 
-Adjoint au directeur de l'expertise technique (DGA)
+Directeur adjoint des opérations (DGA)
 
 |
 
@@ -272,7 +260,43 @@ Adjoint au directeur de l'expertise technique (DGA)
 
 |
 
-Adjoint au directeur des essais (DGA)
+Adjoint au directeur central du service du commissariat des armées
+
+|
+
+3
+
+|
+
+100
+
+|
+
+Adjoint au directeur des ressources humaines de l'armée de terre
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Adjoint au directeur central de la structure interarmées de maintenance de matériels terrestres
+
+|
+
+2
+
+|
+
+100
+
+|
+
+Adjoint au directeur, conseiller pour l'organisation et l'administration de la délégation à l'information et à la communication de la défense
 
 |
 
@@ -292,7 +316,7 @@ Adjoint au chef du contrôle général des armées
 
 |
 
-80
+100
 
 |
 
@@ -304,27 +328,15 @@ Adjoint au directeur central de la direction interarmées des réseaux d'infrast
 
 |
 
-80
+100
 
 |
 
-Adjoint au sous-chef d'état-major organisation de l'état-major des armées
+Adjoint au directeur chargé des affaires stratégiques
 
 |
 
-1
-
-|
-
-80
-
-|
-
-Adjoint au directeur, délégué aux affaires stratégiques
-
-|
-
-5
+4
 
 |
 

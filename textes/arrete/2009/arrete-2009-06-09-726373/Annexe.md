@@ -52,18 +52,6 @@ Délégué général pour l'armement
 
 |
 
-Directeur général de la gendarmerie nationale
-
-|
-
-1
-
-|
-
-180
-
-|
-
 Chef d'état-major de l'armée de terre
 
 |
@@ -160,19 +148,7 @@ Major général de l'armée de l'air
 
 |
 
-Major général de la gendarmerie nationale
-
-|
-
-1
-
-|
-
-160
-
-|
-
-Adjoint au délégué général pour l'armement, directeur des systèmes d'armes
+Directeur général adjoint de la direction générale de l'armement
 
 |
 
@@ -209,18 +185,6 @@ Amiral, inspecteur général des armées
 |
 
 Général d'armée aérienne, inspecteur général des armées
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Général d'armée (gendarmerie), inspecteur général des armées
 
 |
 
