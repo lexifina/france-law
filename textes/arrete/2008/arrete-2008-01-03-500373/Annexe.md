@@ -224,19 +224,15 @@ Président et procureur de la République : Mamoudzou et Saint-Pierre-et-Miquelo
 
 Tribunaux de grande instance et tribunaux de première instance
 
-DÉSIGNATION DE L'EMPLOI
+DESIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points par emploi
+NOMBRE DE POINTS PAR EMPLOI
 
 |
 
@@ -264,23 +260,23 @@ Président et procureur de la République : tribunaux de grande instance de Bobi
 
 |
 
-Président et procureur de la République : tribunaux de grande instance de : Aix-en-Provence, Amiens, Angers, Avignon, Béthune, Boulogne-sur-Mer, Caen, Clermont-Ferrand, Dijon, Draguignan, Evreux, Fort-de-France, Grasse, Grenoble, Le Havre, Le Mans, Meaux, Melun, Metz, Montpellier, Mulhouse, Nantes, Nancy, Nice, Nîmes, Orléans, Perpignan, Rennes, Rouen, Saint-Etienne, Saint-Denis-de-la-Réunion, Strasbourg, Toulon, Tours, Valence, Valenciennes
+Président et procureur de la République : tribunaux de grande instance de : Aix-en-Provence, Amiens, Angers, Avignon, Béthune, Boulogne-sur-Mer, Bourg-en-Bresse, Brest, Caen, Cayenne, Clermont-Ferrand, Dijon, Draguignan, Evreux, Fort-de-France, Grasse, Grenoble, Le Havre, Le Mans, Meaux, Melun, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Perpignan, Pointe-à-Pitre, Poitiers, Rennes, Rouen, Saint-Brieuc, Saint-Etienne, Saint-Denis de La Réunion, Strasbourg, Toulon, Tours, Valence, Valenciennes
 
 |
 
-72
-
-|
-
-100
-
-|
-
-Président et procureur de la République : tribunaux de grande instance et tribunaux de première instance de : Angoulême, Annecy, Arras, Avesnes-sur-Helpe, Bayonne, Beauvais, Besançon, Béziers, Blois, Bourg-en-Bresse, Bourges, Brest, Carpentras, Cayenne, Chalon-sur-Saône, Châlons-en-Champagne, Chambéry, Charleville-Mézières, Chartres, Châteauroux, Colmar, Douai, Dunkerque, Epinal, La Roche-sur-Yon, Laon, Laval, Limoges, Lorient, Nouméa, Papeete, Pau, Périgueux, Pointe-à-Pitre, Poitiers, Privas, Quimper, Reims, Saint-Brieuc, Saint-Nazaire, Saint-Pierre-de-la-Réunion, Saintes, Sarreguemines, Senlis, Tarbes, Thionville, Thonon-les-Bains, Troyes, Vannes, Vienne
+84
 
 |
 
 100
+
+|
+
+Président et procureur de la République : tribunaux de grande instance et tribunaux de première instance de : Agen, Albertville, Angoulême, Annecy, Arras, Avesnes-sur-Helpe, Bayonne, Beauvais, Besançon, Béziers, Blois, Bourges, Brive-la-Gaillarde, Carpentras, Chalon-sur-Saône, Châlons-en-Champagne, Chambéry, Charleville-Mézières, Chartres, Châteauroux, Colmar, Coutances, Douai, Dunkerque, Epinal, Laon, La Rochelle, La Roche-sur-Yon, Laval, Limoges, Lons-le-Saunier, Lorient, Montauban, Nevers, Niort, Nouméa, Papeete, Pau, Périgueux, Privas, Quimper, Reims, Rodez, Saint-Malo, Saint-Nazaire, Saint-Pierre de La Réunion, Saintes, Sarreguemines, Senlis, Tarascon, Tarbes, Thionville, Thonon-les-Bains, Troyes, Vannes, Vesoul, Vienne
+
+|
+
+114
 
 |
 
