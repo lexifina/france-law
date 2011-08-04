@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217310
+
+- Question : [SEQ110217310](seq110217310.md) — Modalités d'action de la diplomatie française
+
+## Réponse
+
+*Affaires étrangères, JO du 2011-08-04, page 2031*
+
+Depuis la fin de l'année 2010, le monde est confronté à des bouleversements importants, notamment en Afrique du nord et au Moyen Orient que personne n'avait prévu immédiatement, la diplomatie française s'est mobilisée pour apporter des réponses à chacune de ces situations, sur tous les fronts : tout d'abord aux Nations unies, où grâce au rôle moteur de la France, les résolutions 1970 et 1973 du Conseil de sécurité ont, par exemple, ouvert la voie aux opérations qui ont permis de porter un coup d'arrêt aux exactions commises par Mouammar Kadhafi contre sa propre population et auxquelles notre pays apporte une contribution saluée par la communauté internationale, - dans le cadre européen ensuite, où la France a été la première à plaider en faveur d'une réponse globale à la hauteur de l'enjeu que représente la perspective d'un enracinement de la démocratie sur la rive sud de la méditerranée et reposant sur le recours à tous les instruments dont l'Union européenne dispose, y compris l'Union pour la méditerranée ; au titre de sa présidence du G8 encore, où la France est parvenue à convaincre ses partenaires que le moment historique auquel le monde est confronté justifie une initiative sans précédent que constitue, depuis le sommet des 26 et 27 mai dernier, le « partenariat de Deauville » ; dans le cadre bilatéral enfin, où la France ne ménage pas ses efforts pour être aux côtés de la Tunisie ou de l'Égypte dans leur marche vers la démocratie. Cette mobilisation est conforme aux valeurs de liberté et de solidarité qui fondent notre République et que la diplomatie française continuera à promouvoir à travers le monde par tous les moyens.
