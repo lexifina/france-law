@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110618845
+
+- Question : [SEQ110618845](seq110618845.md) — Prise en compte de la campagne double en Afrique du Nord pour les pensions liquidées avant le 19 octobre 1999
+
+## Réponse
+
+*Défense, JO du 2011-08-04, page 2048*
+
+La loi du 18 octobre 1999 a substitué à l'expression « aux opérations effectuées en Afrique du Nord » l'expression « à la guerre d'Algérie ou aux combats en Tunisie et au Maroc », qualifiant le conflit en Algérie de « guerre ». Elle a ainsi créé une situation juridique nouvelle. Il en a découlé que les personnes exposées à des situations de combat au cours de la guerre d'Algérie étaient susceptibles de bénéficier de la campagne double. Cela a été confirmé par le Conseil d'État dans sa décision du 17 mars 2010. Le décret n° 2010-890 du 29 juillet 2010 accorde la campagne double aux militaires d'active et aux appelés du contingent pour toute journée durant laquelle ils ont pris part à une action de feu ou de combat ou ont subi le feu et s'applique aux fonctionnaires et assimilés dont les pensions de retraite ont été liquidées à compter du 19 octobre 1999, date d'entrée en vigueur de la loi. Ces pensions sont révisées, à compter de la demande des intéressés déposée postérieurement à la date d'entrée en vigueur du décret du 29 juillet 2010, auprès des services de l'administration qui a procédé à la liquidation de la pension de retraite. Elles n'ouvrent droit à aucun intérêt de retard. Cette mesure ne peut s'appliquer aux pensions liquidées antérieurement au 19 octobre 1999, puisque ce n'est qu'à compter de cette date qu'a été reconnu officiellement l'état de guerre en Algérie, qui seul permet l'attribution de la campagne double. Le Gouvernement a décidé que le décret du 29 juillet 2010 serait applicable à compter du 19 octobre 1999, ce qui donne toute son effectivité à la loi du 18 octobre 1999 dans le respect du principe de non-rétroactivité des lois. Il ne peut réglementairement aller plus loin.
