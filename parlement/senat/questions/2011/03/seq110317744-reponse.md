@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317744
+
+- Question : [SEQ110317744](seq110317744.md) — Démarches devant être effectuées par les Français établis hors de France pour l'obtention d'une carte nationale d'identité
+
+## Réponse
+
+*Affaires étrangères, JO du 2011-08-04, page 2032*
+
+Le décret n° 55-1397 du 22 octobre 1955 modifié instituant la carte nationale d'identité dispose en son article 2 que « la carte nationale d'identité est délivrée sans condition d'âge par les préfets et sous-préfets à tout Français qui en fait la demande dans l'arrondissement dans lequel il est domicilié ou a sa résidence, ou, le cas échéant, dans lequel se trouve sa commune de rattachement ». Ainsi, conformément au décret, les demandes de carte nationale d'identité restent rattachées au lieu de résidence. Lors de la mise en œuvre future de la carte nationale d'identité électronique (CNIe), il est prévu que le recueil et le processus d'instruction et de validation des demandes de carte nationale d'identité soient intégrés dans le système TES (titres électroniques sécurisés), qui gère actuellement les demandes de passeports. TES dispose d'un outil permettant d'accéder à toutes les demandes de titres déposées sous une même identité, et ce quel que soit le lieu de délivrance. Dès lors, à l'instar des mesures prises lors de l'institution du passeport biométrique, le décret n° 55-1397 du 22 octobre 1955 instituant la carte nationale d'identité fera vraisemblablement l'objet d'une modification en vue d'autoriser la délivrance de ce titre dans n'importe quel consulat à l'étranger ou mairie en France disposant du système TES. La proposition de loi sur la protection de l'identité, conditionnant la mise en œuvre effective de la CNIe, a été adoptée par le Sénat le 31 mai dernier, et doit maintenant être examinée par l'Assemblée nationale.
