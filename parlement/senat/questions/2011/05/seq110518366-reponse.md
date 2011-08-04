@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110518366
+
+- Question : [SEQ110518366](seq110518366.md) — Consolidation des documents budgétaires des communes et des EPCI
+
+## Réponse
+
+*Collectivités territoriales, JO du 2011-08-04, page 2040*
+
+Afin de permettre aux élus et aux citoyens d'avoir une vision claire des engagements financiers des communes et de leurs groupements sur leur territoire, la direction générale des collectivités locales et la direction générale des finances publiques poursuivent les travaux engagés pour améliorer la lisibilité des documents budgétaires des communes et établissements publics de coopération intercommunale dans le traitement des flux croisés. Dans le cadre de son offre de service aux collectivités locales, la direction générale des finances publiques produira fin 2011 des fiches financières agrégées à partir des comptes définitifs 2010, permettant aux élus locaux de disposer d'une vue d'ensemble de la situation financière à l'échelle du territoire intercommunal. Basées sur une méthodologie et des outils issus d'un groupe de travail associant les associations d'élus, la direction générale des collectivités locales et la direction générale des finances publiques, ces fiches agrégées additionneront les principales données financières de la structure intercommunale à fiscalité propre et de ses communes membres, déduction faite des flux croisés entre ces entités qui sont isolées grâce aux comptes dédiés créés au 1er janvier 2010 dans l'instruction budgétaire et comptable M14. Ces fiches financières présenteront ainsi au niveau du territoire intercommunal le montant agrégé des dépenses et recettes de fonctionnement et d'investissement, détaillées par principaux postes (impôts locaux, concours de l'État, charges de personnel, ressources d'emprunt, dépenses d'équipement, etc.) ainsi que de la dette et des composantes de l'autofinancement.
