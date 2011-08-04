@@ -16,7 +16,9 @@ scolaire dans un établissement public ou privé sous contrat, CFA ou section d'
 
 CANDIDATS DE LA VOIE
 
-de la formation professionnelle continue dans un établissement public habilité (D. 337-74)
+de la formation professionnelle continue dans un établissement public habilité
+
+(D. 337-74)
 
 |
 
@@ -26,7 +28,7 @@ scolaire dans un établissement privé, CFA ou section d'apprentissage non habil
 
 |
 
-Epreuves
+Épreuves
 
 |
 
@@ -88,7 +90,7 @@ CCF
 
 |
 
-Ecrite en deux parties
+Écrite en deux parties
 
 |
 
@@ -184,7 +186,7 @@ CCF
 
 |
 
-Ecrite en deux parties
+Écrite en deux parties
 
 |
 
@@ -208,7 +210,7 @@ Terminale ponctuelle écrite
 
 |
 
-2 h
+2 h 30
 
 |
 
@@ -218,11 +220,11 @@ CCF
 
 |
 
-Ecrite
+Écrite
 
 |
 
-2 h
+2 h 30
 
 |
 
@@ -292,7 +294,7 @@ Pratique et orale
 
 |
 
-E8 Epreuve facultative
+E8 Épreuve facultative
 
 |
 
@@ -316,12 +318,8 @@ CCF
 
 |
 
-(*) Epreuve comportant des travaux en cours de formation.
+(*) Épreuve comportant des travaux en cours de formation.
 
 (**) APSAES activités physique sportive, artistique et d'entretien de soi.
 
 |
-
-NOTA :
-
-Les annexes II b et II c sont publiées ci-après. L'intégralité du diplôme est disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris. Elle est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc

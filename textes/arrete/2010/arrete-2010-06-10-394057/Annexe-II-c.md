@@ -66,7 +66,7 @@ Elle valide la capacité C5 justifier des choix techniques d'intervention de gé
 
 Elle est affectée du coefficient 2.
 
-C'est une épreuve ponctuelle terminale écrite d'une durée de deux heures. L'épreuve est corrigée à l'aide d'une grille critériée nationale, par deux enseignants choisis parmi trois disciplines :
+C'est une épreuve ponctuelle terminale écrite d'une durée de 2 h 30. L'épreuve est corrigée à l'aide d'une grille critériée nationale, par deux enseignants choisis parmi trois disciplines :
 
 - sciences et techniques de l'aménagement de l'espace/gestion et aménagements des espaces naturels ;
 
@@ -119,7 +119,3 @@ Les examinateurs sont un enseignant de sciences et techniques de l'aménagement 
 L'interrogation est d'une durée maximale de vingt minutes.
 
 (*) L'absence du professionnel ne peut rendre opposable la validité de l'épreuve.
-
-NOTA :
-
-Les annexes II b et II c sont publiées ci-après. L'intégralité du diplôme est disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris. Elle est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc
