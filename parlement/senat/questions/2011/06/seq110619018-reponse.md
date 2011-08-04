@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110619018
+
+- Question : [SEQ110619018](seq110619018.md) — Maintien du programme européen d'aide aux plus démunis
+
+## Réponse
+
+*Affaires étrangères, JO du 2011-08-04, page 2035*
+
+La France reste très attachée au maintien du programme européen d'aide aux plus démunis qui constitue un signe tangible de la solidarité de l'Union envers ses citoyens : s'il ne représente en effet que 1 % du budget de la PAC, il permet de redistribuer des produits alimentaires à plus de 13 millions d'Européens. L'arrêt du Tribunal de l'Union européenne du 13 avril 2011 n'a sanctionné que le recours disproportionné au marché pour l'achat de produits alimentaires, par rapport à l'utilisation des surplus agricoles communautaires, dans l'estimation des besoins de financement de ce programme en 2009. Il ne demande pas le remboursement des sommes perçues par les associations en 2009. Ne portant pas sur le règlement de base qui organise le fonctionnement du PEAD, il ne remet pas non plus en cause l'existence de ce programme. Il convient de noter par ailleurs qu'au regard de l'état des stocks alimentaires de l'Union en 2010 et 2011, l'arrêt n'aura pas non plus de conséquences sur l'exécution des deux derniers programmes. L'exécution de l'arrêt du Tribunal pose néanmoins des difficultés pratiques pour l'avenir. Dans l'état actuel du droit, la commission, en présentant son budget annuel, a tiré les conséquences de l'arrêt, ce qui repose de manière urgente la question de la réforme du PEAD. La France, qui défend depuis 2008 la proposition de la commission d'élargir les possibilités de recours au marché, demande à la commission d'examiner le plus rapidement possible toutes les solutions pour conforter le PEAD pour l'avenir et soutiendra tous les efforts de la commission en ce sens.
