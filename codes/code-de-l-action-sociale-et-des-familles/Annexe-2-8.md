@@ -4,7 +4,7 @@ LISTE DES INFORMATIONS ANONYMISÉES
 
 I. - Informations préalables
 
-I. 1. NUMDEP : numéro du département
+I.-1. NUMDEP : numéro du département
 
 CODE
 
@@ -14,765 +14,409 @@ LIBELLÉ
 
 |
 
-1
+1 |
 
-|
+AIN |
 
-AIN
+2 |
 
-|
+AISNE |
 
-2
+3 |
 
-|
+ALLIER |
 
-AISNE
+4 |
 
-|
+ALPES-DE-HAUTE-PROVENCE |
 
-3
+5 |
 
-|
+HAUTES-ALPES |
 
-ALLIER
+6 |
 
-|
+ALPES-MARITIMES |
 
-4
+7 |
 
-|
+ARDÈCHE |
 
-ALPES-DE-HAUTE-PROVENCE
+8 |
 
-|
+ARDENNES |
 
-5
+9 |
 
-|
+ARIÈGE |
 
-HAUTES-ALPES
+10 |
 
-|
+AUBE |
 
-6
+11 |
 
-|
+AUDE |
 
-ALPES-MARITIMES
+12 |
 
-|
+AVEYRON |
 
-7
+13 |
 
-|
+BOUCHES-DU-RHÔNE |
 
-ARDÈCHE
+14 |
 
-|
+CALVADOS |
 
-8
+15 |
 
-|
+CANTAL |
 
-ARDENNES
+16 |
 
-|
+CHARENTE |
 
-9
+17 |
 
-|
+CHARENTE-MARITIME |
 
-ARIÈGE
+18 |
 
-|
+CHER |
 
-10
+19 |
 
-|
+CORRÈZE |
 
-AUBE
+2A |
 
-|
+CORSE-DU-SUD |
 
-11
+2B |
 
-|
+HAUTE-CORSE |
 
-AUDE
+21 |
 
-|
+CÔTE-D'OR |
 
-12
+22 |
 
-|
+CÔTES-D'ARMOR |
 
-AVEYRON
+23 |
 
-|
+CREUSE |
 
-13
+24 |
 
-|
+DORDOGNE |
 
-BOUCHES-DU-RHÔNE
+25 |
 
-|
+DOUBS |
 
-14
+26 |
 
-|
+DRÔME |
 
-CALVADOS
+27 |
 
-|
+EURE |
 
-15
+28 |
 
-|
+EURE-ET-LOIRE |
 
-CANTAL
+29 |
 
-|
+FINISTÈRE |
 
-16
+30 |
 
-|
+GARD |
 
-CHARENTE
+31 |
 
-|
+HAUTE-GARONNE |
 
-17
+32 |
 
-|
+GERS |
 
-CHARENTE-MARITIME
+33 |
 
-|
+GIRONDE |
 
-18
+34 |
 
-|
+HÉRAULT |
 
-CHER
+35 |
 
-|
+ILLE-ET-VILAINE |
 
-19
+36 |
 
-|
+INDRE |
 
-CORRÈZE
+37 |
 
-|
+INDRE-ET-LOIRE |
 
-2A
+38 |
 
-|
+ISÈRE |
 
-CORSE-DU-SUD
+39 |
 
-|
+JURA |
 
-2B
+40 |
 
-|
+LANDES |
 
-HAUTE-CORSE
+41 |
 
-|
+LOIR-ET-CHER |
 
-21
+42 |
 
-|
+LOIRE |
 
-CÔTE-D'OR
+43 |
 
-|
+HAUTE-LOIRE |
 
-22
+44 |
 
-|
+LOIRE-ATLANTIQUE |
 
-CÔTES-D'ARMOR
+45 |
 
-|
+LOIRET |
 
-23
+46 |
 
-|
+LOT |
 
-CREUSE
+47 |
 
-|
+LOT-ET-GARONNE |
 
-24
+48 |
 
-|
+LOZÈRE |
 
-DORDOGNE
+49 |
 
-|
+MAINE-ET-LOIRE |
 
-25
+50 |
 
-|
+MANCHE |
 
-DOUBS
+51 |
 
-|
+MARNE |
 
-26
+52 |
 
-|
+HAUTE-MARNE |
 
-DRÔME
+53 |
 
-|
+MAYENNE |
 
-27
+54 |
 
-|
+MEURTHE-ET-MOSELLE |
 
-EURE
+55 |
 
-|
+MEUSE |
 
-28
+56 |
 
-|
+MORBIHAN |
 
-EURE-ET-LOIRE
+57 |
 
-|
+MOSELLE |
 
-29
+58 |
 
-|
+NIÈVRE |
 
-FINISTÈRE
+59 |
 
-|
+NORD |
 
-30
+60 |
 
-|
+OISE |
 
-GARD
+61 |
 
-|
+ORNE |
 
-31
+62 |
 
-|
+PAS-DE-CALAIS |
 
-HAUTE-GARONNE
+63 |
 
-|
+PUY-DE-DÔME |
 
-32
+64 |
 
-|
+PYRÉNÉES-ATLANTIQUES |
 
-GERS
+65 |
 
-|
+HAUTES-PYRÉNÉES |
 
-33
+66 |
 
-|
+PYRÉNÉES-ORIENTALES |
 
-GIRONDE
+67 |
 
-|
+BAS-RHIN |
 
-34
+68 |
 
-|
+HAUT-RHIN |
 
-HÉRAULT
+69 |
 
-|
+RHÔNE |
 
-35
+70 |
 
-|
+HAUTE-SAÔNE |
 
-ILLE-ET-VILAINE
+71 |
 
-|
+SAÔNE-ET-LOIRE |
 
-36
+72 |
 
-|
+SARTHE |
 
-INDRE
+73 |
 
-|
+SAVOIE |
 
-37
+74 |
 
-|
+HAUTE-SAVOIE |
 
-INDRE-ET-LOIRE
+75 |
 
-|
+PARIS |
 
-38
+76 |
 
-|
+SEINE-MARITIME |
 
-ISÈRE
+77 |
 
-|
+SEINE-ET-MARNE |
 
-39
+78 |
 
-|
+YVELINES |
 
-JURA
+79 |
 
-|
+DEUX-SÈVRES |
 
-40
+80 |
 
-|
+SOMME |
 
-LANDES
+81 |
 
-|
+TARN |
 
-41
+82 |
 
-|
+TARN-ET-GARONNE |
 
-LOIR-ET-CHER
+83 |
 
-|
+VAR |
 
-42
+84 |
 
-|
+VAUCLUSE |
 
-LOIRE
+85 |
 
-|
+VENDÉE |
 
-43
+86 |
 
-|
+VIENNE |
 
-HAUTE-LOIRE
+87 |
 
-|
+HAUTE-VIENNE |
 
-50
+88 |
 
-|
+VOSGES |
 
-MANCHE
+89 |
 
-|
+YONNE |
 
-51
+90 |
 
-|
+TERRITOIRE DE BELFORT |
 
-MARNE
+91 |
 
-|
+ESSONNE |
 
-52
+92 |
 
-|
+HAUTS-DE-SEINE |
 
-HAUTE-MARNE
+93 |
 
-|
+SEINE-SAINT-DENIS |
 
-53
+94 |
 
-|
+VAL-DE-MARNE |
 
-MAYENNE
+95 |
 
-|
+VAL-D'OISE |
 
-54
+971 |
 
-|
+GUADELOUPE |
 
-MEURTHE-ET-MOSELLE
+972 |
 
-|
+MARTINIQUE |
 
-55
+973 |
 
-|
+GUYANE |
 
-MEUSE
+974 |
 
-|
+LA RÉUNION |
 
-56
+976 |
 
-|
-
-MORBIHAN
-
-|
-
-57
-
-|
-
-MOSELLE
-
-|
-
-58
-
-|
-
-NIÈVRE
-
-|
-
-59
-
-|
-
-NORD
-
-|
-
-60
-
-|
-
-OISE
-
-|
-
-61
-
-|
-
-ORNE
-
-|
-
-62
-
-|
-
-PAS-DE-CALAIS
-
-|
-
-63
-
-|
-
-PUY-DE-DÔME
-
-|
-
-64
-
-|
-
-PYRÉNÉES-ATLANTIQUES
-
-|
-
-65
-
-|
-
-HAUTES-PYRÉNÉES
-
-|
-
-66
-
-|
-
-PYRÉNÉES-ORIENTALES
-
-|
-
-67
-
-|
-
-BAS-RHIN
-
-|
-
-68
-
-|
-
-HAUT-RHIN
-
-|
-
-69
-
-|
-
-RHÔNE
-
-|
-
-70
-
-|
-
-HAUTE-SAÔNE
-
-|
-
-71
-
-|
-
-SAÔNE-ET-LOIRE
-
-|
-
-72
-
-|
-
-SARTHE
-
-|
-
-73
-
-|
-
-SAVOIE
-
-|
-
-74
-
-|
-
-HAUTE-SAVOIE
-
-|
-
-75
-
-|
-
-PARIS
-
-|
-
-76
-
-|
-
-SEINE-MARITIME
-
-|
-
-77
-
-|
-
-SEINE-ET-MARNE
-
-|
-
-78
-
-|
-
-YVELINES
-
-|
-
-79
-
-|
-
-DEUX-SÈVRES
-
-|
-
-80
-
-|
-
-SOMME
-
-|
-
-81
-
-|
-
-TARN
-
-|
-
-82
-
-|
-
-TARN-ET-GARONNE
-
-|
-
-83
-
-|
-
-VAR
-
-|
-
-84
-
-|
-
-VAUCLUSE
-
-|
-
-85
-
-|
-
-VENDÉE
-
-|
-
-86
-
-|
-
-VIENNE
-
-|
-
-87
-
-|
-
-HAUTE-VIENNE
-
-|
-
-88
-
-|
-
-VOSGES
-
-|
-
-89
-
-|
-
-YONNE
-
-|
-
-90
-
-|
-
-TERRITOIRE-DE-BELFORT
-
-|
-
-91
-
-|
-
-ESSONNE
-
-|
-
-92
-
-|
-
-HAUTS-DE-SEINE
-
-|
-
-93
-
-|
-
-SEINE-SAINT-DENIS
-
-|
-
-94
-
-|
-
-VAL-DE-MARNE
-
-|
-
-95
-
-|
-
-VAL-D'OISE
-
-|
-
-971
-
-|
-
-GUADELOUPE
-
-|
-
-972
-
-|
-
-MARTINIQUE
-
-|
-
-973
-
-|
-
-GUYANE
-
-|
-
-974
-
-|
-
-LA RÉUNION
-
-|
-
-976
-
-|
-
-MAYOTTE
-
-|
+MAYOTTE |
 
 I. 2. - NUMANONYM : numéro d'anonymat du mineur
 
@@ -782,9 +426,7 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -838,9 +480,7 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -868,13 +508,9 @@ Non connu à ce jour
 
 II. 2. - MNAIS et ANAIS : mois et année de naissance du mineur
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 mm
 
@@ -898,9 +534,7 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -966,19 +600,15 @@ SCOLARISÉ EN DROIT COMMUN
 
 |
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
 |
 
-Oui
+Non
 
 |
 
@@ -986,7 +616,7 @@ Oui
 
 |
 
-Non
+Oui
 
 |
 
@@ -1000,15 +630,11 @@ Ne sait pas
 
 II. 4. b. NIVSCO : si le mineur est scolarisé en droit commun, préciser le niveau selon la nomenclature de l'éducation nationale
 
-NIVEAU SCOLAIRE
-
-(nomenclature de l'éducation nationale)
+NIVEAU SCOLAIRE (nomenclature de l'éducation nationale)
 
 |
 
-CODE
-
-|
+CODE |
 
 LIBELLÉ
 
@@ -1312,7 +938,7 @@ LIBELLÉ
 
 |
 
-Oui
+Non
 
 |
 
@@ -1320,7 +946,7 @@ Oui
 
 |
 
-Non
+Oui
 
 |
 
@@ -1400,23 +1026,17 @@ Ne sait pas
 
 II. 4. e. - ETABSCOSPE : le mineur est scolarisé en établissement spécialisé
 
-SCOLARISÉ EN ÉTABLISSEMENT SPÉCIALISÉ
+SCOLARISÉ EN ÉTABLISSEMENT SPÉCIALISÉ |
 
-|
+CODE |
 
-CODE
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
 |
 
-Oui
+Non
 
 |
 
@@ -1424,7 +1044,7 @@ Oui
 
 |
 
-Non
+Oui
 
 |
 
@@ -1500,9 +1120,7 @@ Ne sait pas
 
 II. 4. g. - NONSCO : si le mineur est non scolarisé, préciser la situation
 
-CODE
-
-|
+CODE |
 
 LIBELLÉ
 
@@ -1544,13 +1162,9 @@ Ne sait pas
 
 II. 5. - FREQSCO : fréquentation de l'établissement scolaire
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -1604,17 +1218,11 @@ II. 6. - Handicap
 
 II. 6. a. - HANDICAP : prise en charge spécifique suite à une décision de la commission des droits et de l'autonomie rendue au nom de la Maison départementale des personnes handicapées
 
-PRISE EN CHARGE SPÉCIFIQUE
+PRISE EN CHARGE SPÉCIFIQUE |
 
-|
+CODE |
 
-CODE
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -1642,17 +1250,11 @@ Ne sait pas
 
 II. 6. b. - DATDECMDPH : si prise en charge spécifique, date de la décision de la commission des droits et de l'autonomie
 
-DATE DE LA DÉCISION
+DATE DE LA DÉCISION |
 
-|
+CODE |
 
-CODE
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -1680,17 +1282,11 @@ Année de décision
 
 II. 6. c. - DATEXDECMDPH : si prise en charge spécifique, date d'exécution de la décision de la commission des droits et de l'autonomie
 
-EXÉCUTION DE LA DÉCISION
+EXÉCUTION DE LA DÉCISION |
 
-|
+CODE |
 
-CODE
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -1720,13 +1316,9 @@ III. - Information préoccupante ou signalement direct donnant lieu à une mesur
 
 III. 1. - DATIP : date de réception de l'information préoccupante
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -1754,13 +1346,9 @@ Année
 
 III. 2. - DATSIGN : date du signalement direct auprès du procureur de la République
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -1788,13 +1376,9 @@ Année
 
 III. 3. - DATJE : date de la saisine directe du juge des enfants
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -1822,13 +1406,9 @@ Année
 
 III. 4. - ORIGIP : qualité de la personne à l'origine de l'information préoccupante ou du signalement direct
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 10
 
@@ -1896,13 +1476,9 @@ Ne sait pas
 
 III. 5. - TRANSIP : institution ou qualité de la personne ayant transmis l'information préoccupante à la cellule ou ayant saisi directement le procureur de la République ou le juge des enfants
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 100
 
@@ -2094,25 +1670,15 @@ III. 6. a. - SUITSIGNCG/ SUITSIGOPP/ SUITSIGJE/ SUITSIGSS :
 
 type de suite donnée au signalement
 
-CODE
+CODE |
 
-|
+LIBELLÉ |
 
-LIBELLÉ
+Non |
 
-|
-
-Non
-
-|
-
-Oui
-
-|
+Oui |
 
 Ne sait pas
-
-|
 
 |
 
@@ -2182,13 +1748,9 @@ SUITSIGSS Sans suite du procureur de la République
 
 III. 6. b. - DATAVIS : en cas d'ouverture directe d'une procédure auprès du juge des enfants : date d'avis d'ouverture de la procédure
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -2216,13 +1778,9 @@ Année
 
 III. 6. c. - ENQPENAL : le cas échéant, préciser s'il y a une enquête pénale
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -2250,13 +1808,9 @@ Ne sait pas
 
 III. 6. d. - SAISJUR : le cas échéant, préciser s'il y a une saisine de la juridiction pénale
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -2288,13 +1842,9 @@ IV. 1 - Caractéristiques du ménage au sein de la résidence principale du mine
 
 IV. 1. a. - COMPOMENAG : composition du ménage
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -2386,13 +1936,9 @@ Ne sait pas
 
 IV. 1. b. - AUTREHEBER : autre hébergement régulier du mineur le cas échéant
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -2420,13 +1966,9 @@ Ne sait pas
 
 IV. 1. c. - NBPER : nombre total de personnes dans le lieu de résidence
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 nn
 
@@ -2438,13 +1980,9 @@ Nombre de personnes
 
 IV. 1. d. - NBFRAT : nombre total de frères et sœurs
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 nn
 
@@ -2458,13 +1996,9 @@ IV. 1. e. - STATOCLOG : statut d'occupation du logement
 
 (selon la nomenclature INSEE)
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -2518,13 +2052,9 @@ IV. 2. - Exercice de l'autorité parentale
 
 IV. 2. a. - TITAP : titulaire de l'autorité parentale
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 10
 
@@ -2608,13 +2138,9 @@ Ne sait pas
 
 IV. 2. b. - DECAP : décision relative à l'autorité parentale
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -2658,13 +2184,9 @@ Ne sait pas
 
 IV. 2. c. - DATDECAP : date de la décision relative à l'autorité parentale
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -2692,27 +2214,15 @@ Année
 
 IV. 2. d. - CONTMERE/ CONTPERE : fréquence des contacts de la mère/ du père avec le mineur
 
-|
+CODE |
 
-CONTMÈRE
+CONTMÈRE |
 
-|
+CONTPÈRE |
 
-CONTPÈRE
+LIBELLÉ |
 
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -2790,27 +2300,15 @@ IV. 3. - Situation sociodémographique des parents ou des adultes qui s'occupent
 
 IV. 3. a. - LIENA1/ LIENA2 : lien de l'adulte 1 et de l'adulte 2 avec le mineur
 
-|
+CODE |
 
-LIENA1
+LIENA1 |
 
-|
+LIENA2 |
 
-LIENA2
+LIBELLÉ |
 
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -2910,27 +2408,15 @@ Ne sait pas
 
 IV. 3. b. - SEXA1/ SEXA2 : sexe de l'adulte 1 et de l'adulte 2
 
-|
+CODE |
 
-SEXA1
+SEXA1 |
 
-|
+SEXA2 |
 
-SEXA2
+LIBELLÉ |
 
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -2968,31 +2454,17 @@ Ne sait pas
 
 |
 
-IV. 3. c. - ANSA1/ ANSA2 :
+IV. 3. c. - ANSA1/ ANSA2 : année de naissance de l'adulte 1 et de l'adulte 2
 
-année de naissance de l'adulte 1 et de l'adulte 2
+CODE |
 
-|
+ANSA1 |
 
-ANSA1
+ANSA2 |
 
-|
+LIBELLÉ |
 
-ANSA2
-
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 aaaa
 
@@ -3010,27 +2482,15 @@ IV. 3. d. - EMPLA1/ EMPLA2 : situation face à l'emploi de l'adulte 1 et de l'ad
 
 (selon la nomenclature INSEE)
 
-|
+CODE |
 
-EMPLA 1
+EMPLA 1 |
 
-|
+EMPLA 2 |
 
-EMPLA 2
+LIBELLÉ |
 
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 10
 
@@ -3144,27 +2604,15 @@ IV. 3. e. - CSPA1/ CSPA2 : catégorie socioprofessionnelle de l'adulte 1 et de l
 
 (selon la nomenclature INSEE)
 
-|
+CODE |
 
-CSPA1
+CSPA1 |
 
-|
+CSPA2 |
 
-CSPA2
+LIBELLÉ |
 
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -3264,13 +2712,9 @@ Autres personnes sans activité professionnelle
 
 IV. 3. f. - RESMENAG : ressources mensuelles du ménage
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -3314,25 +2758,15 @@ Ne sait pas
 
 IV. 3. g. - REVTRAV/ MINIMA/ ALLOC/ AUTRE : nature des ressources du ménage
 
-CODE
+CODE |
 
-|
+Non |
 
-Non
+Oui |
 
-|
+Ne sait pas |
 
-Oui
-
-|
-
-Ne sait pas
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -3394,7 +2828,7 @@ ALLOC Allocations ou pensions
 
 |
 
-AUTRE Autres ressources de revenus
+AUTRE Autres sources de revenus
 
 |
 
@@ -3402,19 +2836,13 @@ IV. 4. - Caractéristiques sociodémographiques du père et/ ou de la mère si n
 
 IV. 4. a. MEREINC/ PEREINC : mère/ père inconnu
 
-|
-
-MERINC
-
-|
-
-PEREINC
-
-|
-
 CODE
 
 |
+
+MERINC |
+
+PEREINC |
 
 LIBELLÉ
 
@@ -3462,19 +2890,13 @@ Ne sait pas
 
 IV. 4. b. - ANSMERE/ ANSPERE : année de naissance de la mère/ du père
 
-|
-
-ANSMERE
-
-|
-
-ANSPERE
-
-|
-
 CODE
 
 |
+
+ANSMERE |
+
+ANSPERE |
 
 LIBELLÉ
 
@@ -3498,39 +2920,25 @@ Année
 
 IV. 4. c. - DCMERE/ DCPERE : mère décédée/ père décédé
 
-|
-
-DCMERE
-
-|
-
-DCPERE
-
-|
-
 CODE
 
 |
 
+DCMERE |
+
+DCPERE |
+
 LIBELLÉ
 
 |
 
-LIBELLÉ
+LIBELLÉ |
 
-|
+1 |
 
-1
+Non |
 
-|
-
-Non
-
-|
-
-Non
-
-|
+Non |
 
 2
 
@@ -3558,19 +2966,13 @@ Ne sait pas
 
 IV. 4. d. - DATDCMERE/ DATDCPERE : si décès de la mère/ du père, mois et année du décès
 
-|
-
-DATDCMERE
-
-|
-
-DATCPERE
-
-|
-
 CODE
 
 |
+
+DATDCMERE |
+
+DATCPERE |
 
 LIBELLE
 
@@ -3610,13 +3012,9 @@ V. 1. - Evaluation
 
 V. 1. a. - NOTIFEVAL : date de notification de la demande d'évaluation
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -3644,13 +3042,9 @@ Année
 
 V. 1. b. - FINEVAL : date de fin de l'évaluation
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -3678,13 +3072,9 @@ Année
 
 V. 1. c. - MESANT : existence d'une prestation ou mesure de protection de l'enfance en cours ou antérieure pour un membre de la fratrie
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -3712,13 +3102,9 @@ Ne sait pas
 
 V. 1. d. - ACCFAM : accompagnement social ou médico-social en cours d'au moins un membre de la famille
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -3796,13 +3182,9 @@ Ne sait pas
 
 V. 1. f. - MOTIFSIG : en cas de signalement judiciaire après l'évaluation, motif du signalement judiciaire
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -3846,17 +3228,11 @@ Ne sait pas
 
 V. 2. - Problématiques familiales observées ou prises en compte dans le cadre de l'évaluation ou des bilans
 
-V. 2. a. - CONDADD : conduite addictive (alcool ou drogue)
+V. 2. a. - CONDADD : conduite addictive (alcool ou drogue) d'un ou des adultes ayant en charge le mineur dans le lieu de résidence principale
 
-d'un ou des adultes ayant en charge le mineur dans le lieu de résidence principale
+CODE |
 
-CODE
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -3896,9 +3272,7 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -3930,9 +3304,7 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -3960,13 +3332,9 @@ Ne sait pas
 
 V. 2. d. - VIOLFAM : exposition du mineur à un climat de violence au sein de la famille
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -3994,13 +3362,9 @@ Ne sait pas
 
 V. 2. e. - VIOLPERS : en cas de climat de violence au sein de la famille, personnes les plus concernées par ces violences
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4048,14 +3412,6 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
-
-CODE
-
-|
-
 LIBELLE
 
 |
@@ -4086,13 +3442,9 @@ Ne sait pas
 
 V. 2. g. - SOUTSOC : manque de soutien social et/ ou familial, isolement
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4122,25 +3474,17 @@ VI. - Informations sur la nature du danger ou du risque de danger justifiant une
 
 VI. 1. - SANTÉ/ SÉCURITÉ/ MORALITÉ/ CONDEDUC/ CONDEDEV : nature du danger ou du risque de danger
 
-CODE
+CODE |
 
-|
-
-Non
-
-|
+Non |
 
 Oui
 
 |
 
-Ne sait pas
+Ne sait pas |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4226,13 +3570,9 @@ VI. 2. - En cas de maltraitance associée, type de mauvais traitement
 
 VI. 2. a. - VIOLSEX : violences sexuelles envers le mineur
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4276,13 +3616,9 @@ Ne sait pas
 
 VI. 2. b. - VIOLPHYS : violences physiques envers le mineur
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4326,13 +3662,9 @@ Ne sait pas
 
 VI. 2. c. - NEGLIG : négligences lourdes envers le mineur
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4360,13 +3692,9 @@ Ne sait pas
 
 VI. 2. d. - VIOLPSY : violences psychologiques envers le mineur
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4396,27 +3724,15 @@ VI. 3. - En cas de maltraitance associée, caractéristiques de la ou des deux p
 
 VI. 3. a. - LIENAUT1/ LIENAUT2 : lien de la ou des deux personnes principales à l'origine du mauvais traitement avec le mineur
 
-|
+CODE |
 
-LIENAUT1
+LIENAUT1 |
 
-|
+LIENAUT2 |
 
-LIENAUT2
+LIBELLÉ |
 
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 10
 
@@ -4536,27 +3852,15 @@ Ne sait pas
 
 VI. 3. b. - SEXAUT1/ SEXAUT2 : sexe de la ou des deux personnes principales à l'origine du mauvais traitement
 
-|
+CODE |
 
-SEXAUT1
+SEXAUT1 |
 
-|
+SEXAUT2 |
 
-SEXAUT2
+LIBELLÉ |
 
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4582,7 +3886,7 @@ Féminin
 
 |
 
-3
+9
 
 |
 
@@ -4596,27 +3900,15 @@ Ne sait pas
 
 VI. 3. c. - MINAUT1/ MINAUT2 : statut de majorité ou minorité de la ou des deux personnes principales à l'origine du mauvais traitement
 
-|
+CODE |
 
-SEXAUT1
+MINAUT1 |
 
-|
+MINAUT2 |
 
-SEXAUT2
+LIBELLÉ |
 
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4642,7 +3934,7 @@ Majeur
 
 |
 
-3
+9
 
 |
 
@@ -4658,13 +3950,9 @@ VII. - Informations sur les décisions, mesures et interventions en protection d
 
 VII. 1. - DATDECPE : date de la décision de protection de l'enfance
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -4692,13 +3980,9 @@ Année
 
 VII. 2. - INTERANT : existence d'une intervention antérieure en protection de l'enfance ou en assistance éducative
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4728,13 +4012,9 @@ VII. 3. - Projet pour l'enfant
 
 VII. 3. a. - PROJET : existence d'un projet pour l'enfant
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4762,19 +4042,13 @@ Ne sait pas
 
 VII. 3. b. - SIGNPAR/ SIGNMIN : signature du projet pour l'enfant par les parents et par le mineur
 
-|
-
-SIGNPAR
-
-|
-
-SIGNMIN
-
-|
-
 CODE
 
 |
+
+SIGNPAR |
+
+SIGNMIN |
 
 LIBELLÉ
 
@@ -4808,7 +4082,7 @@ Oui
 
 |
 
-3
+9
 
 |
 
@@ -4826,9 +4100,7 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -4858,13 +4130,9 @@ VII. 4. - Nature de la décision
 
 VII. 4. a. - DECISION : nature de la décision de protection de l'enfance
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -4888,9 +4156,7 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 10
 
@@ -4976,13 +4242,9 @@ VII. 4. c. - AUTREDA : si autre décision administrative de protection de l'enfa
 
 VII. 4. d. - NATDECASSED : si décision judiciaire en assistance éducative, préciser la nature de la décision
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 10
 
@@ -5092,13 +4354,9 @@ VII. 4. e. - AUTREDJ : si autre décision judiciaire en assistance éducative, p
 
 VII. 4. f. - NATDECPLAC : si décision judiciaire de placement, nature de la décision
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -5130,9 +4388,7 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -5198,13 +4454,9 @@ VII. 5. - Si intervention administrative d'aide à domicile mise en œuvre
 
 VII. 5. a. - TYPINTERDOM : type d'intervention mise en œuvre
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -5280,27 +4532,17 @@ Ne sait pas
 
 VII. 5. b. - DATDEBAD/ DATFINAD : date de début et date de fin d'intervention
 
-|
+CODE |
 
-DATDEBAD
-
-|
+DATDEBAD |
 
 DATFINAD
 
 |
 
-CODE
+LIBELLÉ |
 
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -5342,13 +4584,9 @@ VII. 6. - Si décision administrative d'accueil provisoire
 
 VII. 6. a. - LIEUACC : principal lieu d'accueil du mineur
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -5480,13 +4718,9 @@ Ne sait pas
 
 VII. 6. b. - ACCMOD : caractère modulable de l'accueil
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -5514,13 +4748,9 @@ Ne sait pas
 
 VII. 6. c. - AUTRLIEUACC : existence d'un autre lieu d'accueil régulier du mineur
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -5548,19 +4778,13 @@ Ne sait pas
 
 VII. 6. d. - DATDEBACC/ DATFINACC : date de début et de fin d'intervention
 
-|
-
-DATDEBACC
-
-|
-
-DATEFINACC
-
-|
-
 CODE
 
 |
+
+DATDEBACC |
+
+DATEFINACC |
 
 LIBELLÉ
 
@@ -5610,13 +4834,9 @@ VII. 7. - Si décision judiciaire d'action éducative en milieu ouvert ou d'inve
 
 VII. 7. a. - TYPDECJUD : type d'intervention mise en œuvre
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -5716,27 +4936,15 @@ Ne sait pas
 
 VII. 7. b. - DATDEBINTER/ DATFININTER : date de début et date de fin d'intervention
 
-|
+CODE |
 
-DATBEBINTER
+DATBEBINTER |
 
-|
+DATFININTER |
 
-DATFININTER
+LIBELLÉ |
 
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -5778,13 +4986,9 @@ VII. 8. - Si décision judiciaire de placement, personne ou structure à qui le 
 
 VII. 8. a. - LIEUPLAC : principal lieu de placement du mineur
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -5960,9 +5164,7 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -5990,13 +5192,9 @@ Ne sait pas
 
 VII. 8. c. - AUTRLIEUAR : existence d'un autre lieu d'accueil régulier du mineur
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -6024,27 +5222,15 @@ Ne sait pas
 
 VII. 8. d. - DATDEBPLAC/ DATFINPLAC : date de début et date de fin d'intervention
 
-|
+CODE |
 
-DATDEBPLAC
+DATDEBPLAC |
 
-|
+DATFINPLAC |
 
-DATFINPLAC
+LIBELLÉ |
 
-|
-
-CODE
-
-|
-
-LIBELLÉ
-
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 jj
 
@@ -6086,13 +5272,9 @@ VII. 9. - Renouvellement ou fin de l'intervention en protection de l'enfance
 
 VII. 9. a. - MOTFININT : en cas de fin de l'intervention en protection de l'enfance, préciser le motif
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -6128,13 +5310,9 @@ Motif non connu
 
 VII. 9. b. - NOUVDECPE : si mesure ou prestation arrivée à échéance, nouvelle décision de protection de l'enfance
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -6162,13 +5340,9 @@ Ne sait pas
 
 VII. 9. c - NATNOUVDECPE : si nouvelle décision de protection de l'enfance, préciser la nature de la décision
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -6212,13 +5386,9 @@ Ne sait pas
 
 VII. 9. d. - MOTIFML : si mainlevée, motif de la mainlevée
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 10
 
@@ -6316,9 +5486,7 @@ CODE
 
 |
 
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -6362,13 +5530,9 @@ Ne sait pas
 
 VII. 9. f. - TYPINTERV : si autre type d'intervention après la mainlevée
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
@@ -6420,13 +5584,9 @@ Ne sait pas
 
 VII. 9. g. - DATDECMIN : si décès du mineur, mois et année du décès
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 mm
 
@@ -6446,13 +5606,9 @@ Année
 
 VII. 9. h. - DIPLOME : à la fin de l'intervention en protection de l'enfance, dernier diplôme obtenu par le mineur
 
-CODE
+CODE |
 
-|
-
-LIBELLÉ
-
-|
+LIBELLÉ |
 
 1
 
