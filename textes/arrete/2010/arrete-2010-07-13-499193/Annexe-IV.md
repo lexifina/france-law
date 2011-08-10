@@ -366,18 +366,6 @@ Poaceae
 
 |
 
-Robinia pseudoacacia
-
-|
-
-Robinier faux-acacia
-
-|
-
-Fabaceae
-
-|
-
 Senecio inaequidens
 
 |
