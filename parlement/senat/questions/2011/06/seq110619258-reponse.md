@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110619258
+
+- Question : [SEQ110619258](seq110619258.md) — Enseignement agricole public
+
+## Réponse
+
+*Agriculture, JO du 2011-08-11, page 2101*
+
+Le ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire (MAAPRAT) est attentif aux préoccupations exprimées sur les moyens alloués à l'enseignement agricole, public et privé, afin de lui permettre d'assumer le rôle qui est le sien au sein de l'enseignement national français. La maîtrise des dépenses publiques impose cependant à tous les acteurs de l'administration des efforts particuliers, notamment en matière d'emploi. Dans un contexte où le MAAPRAT participe, au même titre que les autres départements ministériels, à l'effort de maîtrise des dépenses publiques, les dotations des établissements de l'enseignement agricole n'ont pas été défavorisées. Afin d'assurer une rentrée dans les meilleures conditions en septembre 2011, toutes les marges disponibles vont être mobilisées pour atténuer de manière significative les efforts demandés à l'enseignement agricole. Pour l'année scolaire 2011-2012, le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire maintiendra la priorité faite à l'enseignement agricole au sein de son ministère. Aussi, le MAAPRAT veillera à ce que les réductions d'effectifs qui seront demandées préservent la qualité et la diversité des formations que son réseau éducatif offre aux jeunes, partout dans les territoires. Le travail mené au cours des derniers mois a permis d'identifier des outils et leviers d'efficacité collective. Ce sont ces outils qui seront mobilisés prioritairement dans le cadre de l'expertise menée avec les autorités académiques au niveau régional, pour préparer la rentrée à venir au service de la réussite des jeunes accueillis par l'enseignement agricole.
