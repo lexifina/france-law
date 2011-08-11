@@ -1,0 +1,9 @@
+# Réponse à la question SEQ091211527
+
+- Question : [SEQ091211527](seq091211527.md) — Devenir de l'enseignement des modules optionnels dans les lycées technologiques
+
+## Réponse
+
+*Éducation, JO du 2011-08-11, page 2118*
+
+La réforme de la classe de seconde des lycées d'enseignement général et technologique est entrée en vigueur à la rentrée 2010. Les séries générales et technologiques industrielles seront rénovées à compter de la rentrée 2011 en classe de première et de la rentrée 2012 en classe terminale. La série ST2S fera elle aussi l'objet d'une modernisation afin d'introduire dans cette série les dispositifs spécifiques de la réforme du lycée, au premier rang desquels l'accompagnement personnalisé. La nouvelle série ST2S entrera en vigueur à compter de la rentrée 2012 en classe de première et de la rentrée 2013 en classe terminale. En ce qui concerne la classe de seconde, la place de la culture technologique dans les enseignements d'exploration a été préservée avec la préoccupation de poursuivre l'objectif d'égale dignité des voies de formation. Afin de renforcer les mécanismes d'orientation progressive, les enseignements d'exploration technologiques occupent un volume horaire moins important que les précédents enseignements de détermination. En effet, ils n'ont pas vocation à apporter des connaissances nécessaires à la poursuite d'études en cycle terminal mais, au contraire, à faire découvrir une discipline à des élèves parfois indécis. Par ailleurs, le choix de plusieurs enseignements d'exploration technologiques en classe de seconde est permis, par dérogation : afin de favoriser une meilleure connaissance des enseignements technologiques en classe de seconde, les élèves qui le souhaitent peuvent suivre un enseignement d'exploration supplémentaire à condition de choisir deux enseignements d'exploration technologiques.
