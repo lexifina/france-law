@@ -18,4 +18,8 @@ Mesure 3.8.2 : Gestion environnementale des déchets.
 
 Mesure 4.16 : Préparation commerciale.
 
-Pour les productions et mesures concernées, le détail de la mise en œuvre des forfaits est publié en ligne sur les sites internet du ministère de l'agriculture et de VINIFLHOR.
+Pour les productions et mesures concernées, le détail de la mise en œuvre des forfaits est publié en ligne sur les sites internet du ministère de l'agriculture et de FranceAgriMer.
+
+NOTA :
+
+Arrêté du 1er août 2011 article 2 : L'article 1er du présent arrêté est d'application à partir des fonds opérationnels 2011.
