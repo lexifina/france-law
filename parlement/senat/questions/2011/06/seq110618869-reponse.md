@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110618869
+
+- Question : [SEQ110618869](seq110618869.md) — Reconnaissance du niveau de diplôme et de responsabilité des assistants de service social
+
+## Réponse
+
+*Fonction publique, JO du 2011-08-11, page 2130*
+
+La qualité des formations en travail social est aujourd'hui unanimement reconnue. Sans méconnaître la valeur de ces formations, il convient de souligner qu'un processus de réingénierie des diplômes de la filière sociale, conduisant à les porter au niveau licence, n'est pas envisagé. La validité des titres de niveau bac + 2 est toujours reconnue au sein de l'espace européen de l'enseignement supérieur, comme en atteste le seconda alinéa de l'article 1er du décret n° 2002-481 du 8 avril 2002 relatif aux grades et titres universitaires et aux diplômes nationaux. Dans ce contexte, le Gouvernement a choisi d'oeuvrer à la transposition du nouvel espace statutaire (NES) de la catégorie B aux corps et cadres d'emplois sociaux des trois fonctions publiques. L'entrée en vigueur de ces nouvelles dispositions est prévue dans le courant du second semestre 2011. Cette réforme permet, à brève échéance, dans le cadre d'une grille adaptée aux spécificités de ces corps et cadres d'emplois, de garantir aux personnels sociaux dont le diplôme reste homologué au niveau III, un traitement indiciaire équivalent, en début et en fin de carrière, à celui dont vont bénéficier les personnels recrutés au même niveau de diplôme, notamment les techniciens supérieurs. Concomitamment à cette transposition, les corps et cadres d'emplois de conseillers socio-éducatifs, classés en catégorie A, bénéficieront d'une revalorisation importante des indices de rémunération de fin de carrière, en tenant compte des spécificités de chaque fonction publique. Il s'agit là d'avancées significatives pour les personnels qui interviendront dans des délais courts.
