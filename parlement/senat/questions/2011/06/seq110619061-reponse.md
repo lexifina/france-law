@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110619061
+
+- Question : [SEQ110619061](seq110619061.md) — Reconnaissance de l'IGP miel des Cévennes par le comité national de l'INAO
+
+## Réponse
+
+*Agriculture, JO du 2011-08-11, page 2100*
+
+Le groupement Qualité des miels et produits de la ruche du Languedoc-Roussillon a déposé une demande de reconnaissance de l'indication géographique protégée (IGP) auprès de l'Institut national des appellations d'origine (INAO). Au cours de l'instruction réalisée par l'INAO, le cahier des charges relatif à cette demande a dû subir de nombreuses modifications pour définir notamment l'aire géographique la plus adaptée. Lors de la procédure nationale d'opposition qui a eu lieu en juillet 2010, de très nombreuses oppositions portant d'une part sur les dispositions prévues dans le cahier des charges et d'autre part sur l'opportunité d'une telle démarche se sont manifestées. Il importait alors de réaliser les consultations nécessaires entre les porteurs de projet et les opposants, tant au niveau local qu'au niveau national pour estimer le bien-fondé de cette demande d'enregistrement. En vue de faire progresser le débat et de trouver une issue au dossier, le président du comité national des IGP, labels rouges et spécialités traditionnelles garanties de l'INAO a réuni l'ensemble des parties intéressées au début du mois de juin 2011. L'examen de cette demande d'homologation a été mis à l'ordre du jour du comité national de l'INAO du 30 juin 2011. Bien que le comité ait voté en faveur de la reconnaissance de cette IGP, dont le cahier des charges répond aux critères d'éligibilité, l'opposition d'un nombre important d'acteurs locaux de la zone de l'appellation reste particulièrement prégnante. Les voies de la concertation locale doivent donc être recherchées en vue de dégager une approche consensuelle sur l'organisation et le développement de la filière apicole présente dans la zone des Cévennes.
