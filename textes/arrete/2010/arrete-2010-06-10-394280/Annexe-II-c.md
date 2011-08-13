@@ -70,7 +70,7 @@ Elle valide la capacité C5 : justifier des choix techniques d'aménagements pay
 
 Elle est affectée du coefficient 2.
 
-C'est une épreuve ponctuelle terminale écrite d'une durée de deux heures. L'épreuve est corrigée à l'aide d'une grille critèriée nationale, par deux enseignants :
+C'est une épreuve ponctuelle terminale écrite d'une durée de 2 h 30. L'épreuve est corrigée à l'aide d'une grille critèriée nationale, par deux enseignants :
 
 - un enseignant de sciences et techniques de l'aménagement de l'espace/aménagements paysagers ;
 
@@ -140,4 +140,4 @@ L'interrogation est d'une durée maximale de vingt minutes.
 
 NOTA :
 
-Nota. - Les annexes II b et II c sont publiées ci-après. L'intégralité du diplôme est disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris. Elle est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc
+Les annexes II b et II c sont publiées ci-après. L'intégralité du diplôme est disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris. Elle est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc

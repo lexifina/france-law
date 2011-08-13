@@ -202,7 +202,7 @@ Terminale ponctuelle écrite
 
 |
 
-2 h
+2 h 30
 
 |
 
@@ -216,7 +216,7 @@ Ecrite
 
 |
 
-2 h
+2 h 30
 
 |
 
