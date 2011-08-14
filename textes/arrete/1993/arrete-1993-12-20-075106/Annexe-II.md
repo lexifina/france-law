@@ -1,6 +1,6 @@
 # Article Annexe II
 
-CIRCONSCRIPTION D'EXAMEN POUR L'ATTESTATION DE CAPACITÉ
+CIRCONSCRIPTIONS D'EXAMEN POUR L'ATTESTATION DE CAPACITÉ
 
 DÉSIGNATION DES CIRCONSCRIPTIONS
 
@@ -30,7 +30,7 @@ Aisne, Nord, Oise, Pas-de-Calais, Somme
 
 |
 
-LILLE
+Lille
 
 |
 
@@ -46,7 +46,7 @@ Paris, Calvados, Eure, Manche, Orne, Seine-Maritime, Seine-et-Marne, Yvelines, E
 
 |
 
-PARIS
+Paris
 
 |
 
@@ -58,11 +58,11 @@ Bretagne, Centre, Pays de la Loire, Poitou-Charentes
 
 |
 
-Charente, Charente-Maritime, Cher, Côtes-d'Armor, Eure-et-Loir, Finistère, Ille-et-Vilaine, Indre, Indre-et-Loire, Loir-et-Cher, Loire-Atlantique, Loiret, Maine-et-Loire, Mayenne, Morbihan, Sarthe, Deux-Sèvres, Vendée, Vienne
+Charente, Charente-Maritime, Cher, Côte-d'Armor, Eure-et-Loir, Finistère, Ile-et-Vilaine, Indre, Indre-et-Loire, Loir-et-Cher, Loire-Atlantique, Loiret, Maine-et-Loire, Mayenne, Morbihan, Sarthe, Deux-Sèvres, Vendée, Vienne
 
 |
 
-NANTES
+Nantes
 
 |
 
@@ -78,7 +78,7 @@ Ardennes, Aube, Côte-d'Or, Doubs, Jura, Marne, Haute-Marne, Meurthe-et-Moselle,
 
 |
 
-METZ
+Metz
 
 |
 
@@ -94,7 +94,7 @@ Ariège, Aveyron, Corrèze, Creuse, Dordogne, Haute-Garonne, Gers, Gironde, Land
 
 |
 
-TOULOUSE
+Toulouse
 
 |
 
@@ -110,11 +110,11 @@ Ain, Allier, Ardèche, Cantal, Drôme, Isère, Loire, Haute-Loire, Puy-de-Dôme,
 
 |
 
-LYON
+Lyon
 
 |
 
-Languedoc-Roussillon, Provence-Alpes-Côte d'Azur, Corse, Mayotte
+Languedoc-Roussillon, Provence-Alpes-Côte d'Azur, Corse, Mayotte, La Réunion
 
 |
 
@@ -122,11 +122,11 @@ Languedoc-Roussillon, Provence-Alpes-Côte d'Azur, Corse, Mayotte
 
 |
 
-Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Aude, Bouches-du-Rhône, Corse-du-Sud, Haute-Corse, Gard, Hérault, Lozère, Pyrénées-Orientales, Var, Vaucluse, Mayotte
+Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Aude, Bouches-du-Rhône, Corse-du-Sud, Haute-Corse, Gard, Hérault, Lozère, Pyrénées-Orientales, Var, Vaucluse, Mayotte, La Réunion
 
 |
 
-MARSEILLE
+Marseille
 
 |
 
@@ -142,7 +142,7 @@ Guadeloupe
 
 |
 
-BASSE-TERRE
+Basse-Terre
 
 |
 
@@ -158,7 +158,7 @@ Martinique
 
 |
 
-FORT-DE-FRANCE
+Fort-de-France
 
 |
 
@@ -174,22 +174,6 @@ Guyane
 
 |
 
-CAYENNE
-
-|
-
-La Réunion
-
-|
-
-11
-
-|
-
-La Réunion
-
-|
-
-SAINT-DENIS
+Cayenne
 
 |
