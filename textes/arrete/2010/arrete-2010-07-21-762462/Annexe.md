@@ -12,7 +12,7 @@ L'histoire et la géographie font partie des enseignements communs de la classe 
 
 La classe de seconde a permis, sur la base des acquis du collège et dans le prolongement des démarches qui y avaient été initiées, de mettre en œuvre une approche plus synthétique et problématisée, caractérisée par la recherche du sens et l'exercice du raisonnement et de l'esprit critique, répondant aux finalités culturelles, civiques et intellectuelles, communes à l'enseignement de l'histoire et de la géographie.
 
-Les programmes de la classe de première permettent d'approfondir cette approche, qui s'inscrit dans les objectifs d'apprentissage du lycée, et de renforcer la culture et les outils intellectuels indispensables à la construction d'un citoyen éclairé du XXIe siècle.
+Les programmes de la classe de première permettent d'approfondir cette approche, qui s'inscrit dans les objectifs d'apprentissage du lycée, et de renforcer la culture et les outils intellectuels indispensables à la construction d'un citoyen éclairé du xxie siècle.
 
 Ils sont conçus en cohérence avec ceux de la seconde.
 
@@ -194,11 +194,11 @@ III. ― Maîtriser des méthodes de travail personnel
 
 HISTOIRE
 
-Questions pour comprendre le XXe siècle
+Questions pour comprendre le xxe siècle
 
 Le programme d'histoire de la classe de première est conçu en cohérence avec celui de la classe de seconde, dans le cadre d'un tronc commun sur deux années :
 
-― il est dans son prolongement chronologique : consacré au XXe siècle, il prend la suite d'une mise en perspective sur le temps long, de l'Antiquité au xixe siècle ;
+― il est dans son prolongement chronologique : consacré au xxe siècle, il prend la suite d'une mise en perspective sur le temps long, de l'Antiquité au xixe siècle ;
 
 ― il se situe également dans sa continuité en termes d'objectifs d'apprentissage, tant sur le plan des connaissances à acquérir que sur celui des capacités et des méthodes à approfondir.
 
@@ -206,9 +206,9 @@ Ce programme présente de réelles complémentarités avec celui de géographie 
 
 Le fil conducteur du programme
 
-Des questions indispensables à la compréhension de l'histoire du monde au XXe siècle constituent la trame de ce programme.
+Des questions indispensables à la compréhension de l'histoire du monde au xxe siècle constituent la trame de ce programme.
 
-En ce début du xxie siècle, il est possible d'avoir une vue globale et synthétique sur le siècle précédent et ainsi de concevoir une nouvelle approche thématique. Les questions qui structurent les programmes, centrées sur la compréhension du xxe siècle, sont mises en perspective sur une plus longue durée lorsque cela s'avère pertinent : ainsi, une bonne compréhension des mutations des économies et des sociétés nécessite une étude s'étendant du milieu du XIXe siècle à nos jours ; la décolonisation est plus intelligible si son étude est reliée à celle de la colonisation ; 1989 ne peut être perçu comme une rupture que si l'on aborde la période postérieure...
+En ce début du xxie siècle, il est possible d'avoir une vue globale et synthétique sur le siècle précédent et ainsi de concevoir une nouvelle approche thématique. Les questions qui structurent les programmes, centrées sur la compréhension du xxe siècle, sont mises en perspective sur une plus longue durée lorsque cela s'avère pertinent : ainsi, une bonne compréhension des mutations des économies et des sociétés nécessite une étude s'étendant du milieu du xixe siècle à nos jours ; la décolonisation est plus intelligible si son étude est reliée à celle de la colonisation ; 1989 ne peut être perçu comme une rupture que si l'on aborde la période postérieure...
 
 Pour traiter le programme
 
@@ -224,13 +224,13 @@ L'approche thématique qui structure le programme doit être fondée sur la mobi
 
 La réflexion critique sur des sources de nature différente, déjà exercée en seconde, doit être approfondie. Parmi ces sources, les différentes formes de production artistiques doivent trouver toute leur place, conformément aux objectifs visés par l'enseignement d'histoire des arts.
 
-Questions pour comprendre le XXe siècle
+Questions pour comprendre le xxe siècle
 
 Le professeur peut articuler les thèmes et les questions dans un ordre différent de celui de leur présentation, à l'exclusion du thème 1 qui ouvre obligatoirement la mise en œuvre du programme.
 
 Thème 1. ― Croissance économique, mondialisation et mutations
 
-des sociétés depuis le milieu du XIXe siècle (9-10 heures)
+des sociétés depuis le milieu du xixe siècle (9-10 heures)
 
 QUESTIONS
 
@@ -256,11 +256,11 @@ Mutations des sociétés
 
 La population active, reflet des bouleversements économiques et sociaux : l'exemple de la France depuis les années 1850.
 
-Une étude : l'immigration et la société française au XXe siècle.
+Une étude : l'immigration et la société française au xxe siècle.
 
 |
 
-Thème 2. ― La guerre au XXe siècle
+Thème 2. ― La guerre au xxe siècle
 
 (16-17 heures)
 
@@ -342,7 +342,7 @@ Le temps des dominations coloniales
 
 |
 
-Le partage colonial de l'Afrique à la fin du XIXe siècle.
+Le partage colonial de l'Afrique à la fin du xixe siècle.
 
 L'empire français au moment de l'exposition coloniale de 1931, réalités, représentations et contestations.
 
@@ -392,7 +392,7 @@ La République et la question ouvrière : le Front populaire.
 
 La République, les religions et la laïcité depuis les années 1880.
 
-La place des femmes dans la vie politique et sociale de la France au XXe siècle.
+La place des femmes dans la vie politique et sociale de la France au xxe siècle.
 
 |
 
@@ -456,9 +456,9 @@ Approches des territoires du quotidien
 
 |
 
-Un aménagement choisi dans un territoire proche du lycée (étude de cas).
+Un aménagement choisi dans un territoire proche du lycée (étude de cas) (*)
 
-Acteurs et enjeux de l'aménagement des territoires.
+Acteurs et enjeux de l'aménagement des territoires
 
 |
 
@@ -466,9 +466,15 @@ La région, territoire de vie, territoire aménagé
 
 |
 
-La région où est situé le lycée (étude de cas).
+La région où est situé le lycée (étude de cas) (**)
 
-La place et le rôle des régions en France et dans un autre pays européen.
+La place et le rôle des régions en France et dans un autre pays européen
+
+|
+
+(*) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'aménagement choisi se situe dans un territoire métropolitain ou ultramarin français.
+
+(**) Pour les élèves suivant un enseignement à distance, dans un établissement français à l'étranger ou dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur la région Ile-de-France .
 
 |
 
