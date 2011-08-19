@@ -1880,7 +1880,7 @@ compétitivité, de l’industrie et des services
 
 Règlements de la Communauté européenne que la direction générale de la compétitivité, de l’industrie et
 
-des services, est chargée d’appliquer.
+des services, est chargée d’appliquer
 
 Règlement (CE) n°
 
@@ -2681,6 +2681,46 @@ marque enregistrée ou du bénéficiaire du droit exclusif d’exploitation.
 Articles R. 716-6
 
 et R. 716-7.
+
+|
+
+Règlement (CE) n
+
+°
+
+1236/2005 du Conseil du 27 juin 2005 concernant le commerce de certains biens
+
+susceptibles d’être utilisés en vue d’infliger la peine capitale, la torture ou d’autres peines ou traitements cruels,
+
+inhumains ou dégradants.
+
+1 |
+
+Autorisation d’exportation et de fourniture d’une assistance technique.
+
+|
+
+2 de l’article 3 et 1 de l’article 5.
+
+|
+
+2 |
+
+Autorisation d’importation et de fourniture d’une assistance technique.
+
+|
+
+2 de l’article 4.
+
+|
+
+3 |
+
+Refus, suspension, modification, retrait ou abrogation des autorisations précédentes.
+
+|
+
+4 de l’article 9.
 
 |
 
