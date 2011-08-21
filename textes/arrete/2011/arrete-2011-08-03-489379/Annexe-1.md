@@ -1,10 +1,10 @@
-# Article Annexe I
+# Article Annexe 1
 
-PORTANT CONSTATATION DU NOMBRE D'ÉLECTEURS AUX UNIONS RÉGIONALES DES PROFESSIONNELS DE SANTÉ DONT LES REPRÉSENTANTS SONT ÉLUS, PAR RÉGION ET PAR PROFESSION
+PORTANT CONSTATATION DU NOMBRE D'ÉLECTEURS AUX UNIONS RÉGIONALES DES PROFESSIONNELS DE SANTÉ DONT LES REPRÉSENTANTS SONT ÉLUS PAR RÉGION ET PAR PROFESSION
 
 I. ― Médecins
 
-RÉGION
+RÉGIONS
 
 |
 
@@ -16,7 +16,7 @@ Alsace
 
 |
 
-1 895
+3 624
 
 |
 
@@ -24,7 +24,7 @@ Aquitaine
 
 |
 
-3 600
+6 922
 
 |
 
@@ -32,7 +32,7 @@ Auvergne
 
 |
 
-1 328
+2 280
 
 |
 
@@ -40,7 +40,7 @@ Bourgogne
 
 |
 
-1 487
+2 642
 
 |
 
@@ -48,7 +48,7 @@ Bretagne
 
 |
 
-3 103
+5 344
 
 |
 
@@ -56,7 +56,7 @@ Centre
 
 |
 
-2 134
+3 920
 
 |
 
@@ -64,7 +64,7 @@ Champagne-Ardenne
 
 |
 
-1 220
+2 107
 
 |
 
@@ -72,7 +72,7 @@ Corse
 
 |
 
-312
+614
 
 |
 
@@ -80,7 +80,7 @@ Franche-Comté
 
 |
 
-1 128
+1 901
 
 |
 
@@ -88,7 +88,7 @@ Ile-de-France
 
 |
 
-10 082
+23 703
 
 |
 
@@ -96,7 +96,7 @@ Languedoc-Roussillon
 
 |
 
-3 156
+5 869
 
 |
 
@@ -104,7 +104,7 @@ Limousin
 
 |
 
-846
+1 359
 
 |
 
@@ -112,7 +112,7 @@ Lorraine
 
 |
 
-2 217
+3 903
 
 |
 
@@ -120,7 +120,7 @@ Midi-Pyrénées
 
 |
 
-3 132
+5 935
 
 |
 
@@ -128,7 +128,7 @@ Nord - Pas-de-Calais
 
 |
 
-4 139
+6 765
 
 |
 
@@ -136,7 +136,7 @@ Basse-Normandie
 
 |
 
-1 286
+2 198
 
 |
 
@@ -144,7 +144,7 @@ Haute-Normandie
 
 |
 
-1 639
+2 838
 
 |
 
@@ -152,7 +152,7 @@ Pays de la Loire
 
 |
 
-3 171
+5 536
 
 |
 
@@ -160,7 +160,7 @@ Picardie
 
 |
 
-1 641
+2 704
 
 |
 
@@ -168,7 +168,7 @@ Poitou-Charentes
 
 |
 
-1 783
+3 012
 
 |
 
@@ -176,7 +176,7 @@ Provence-Alpes-Côte d'Azur
 
 |
 
-5 985
+12 470
 
 |
 
@@ -184,7 +184,7 @@ Rhône-Alpes
 
 |
 
-5 892
+11 349
 
 |
 
@@ -192,7 +192,7 @@ Guadeloupe
 
 |
 
-288
+530
 
 |
 
@@ -200,7 +200,7 @@ Guyane
 
 |
 
-85
+134
 
 |
 
@@ -208,21 +208,21 @@ Martinique
 
 |
 
-304
+509
 
 |
 
-Réunion (océan Indien)
+La Réunion (océan Indien)
 
 |
 
-788
+1 214
 
 |
 
 II. ― Chirurgiens-dentistes
 
-RÉGION
+RÉGIONS
 
 |
 
@@ -430,7 +430,7 @@ Martinique
 
 |
 
-Réunion (océan Indien)
+La Réunion (océan Indien)
 
 |
 
@@ -440,7 +440,7 @@ Réunion (océan Indien)
 
 III. ― Pharmaciens
 
-RÉGION
+RÉGIONS
 
 |
 
@@ -588,7 +588,7 @@ Pays de la Loire
 
 |
 
-662
+1 536
 
 |
 
@@ -612,7 +612,7 @@ Provence-Alpes-Côte d'Azur
 
 |
 
-4 056
+2 581
 
 |
 
@@ -648,7 +648,7 @@ Martinique
 
 |
 
-Réunion (océan Indien)
+La Réunion (océan Indien)
 
 |
 
@@ -658,7 +658,7 @@ Réunion (océan Indien)
 
 IV. ― Infirmiers
 
-RÉGION
+RÉGIONS
 
 |
 
@@ -866,17 +866,17 @@ Martinique
 
 |
 
-Réunion (océan Indien)
+La Réunion (océan Indien)
 
 |
 
-1125
+1 125
 
 |
 
 V. ― Masseurs-kinésithérapeutes
 
-RÉGION
+RÉGIONS
 
 |
 
@@ -1084,10 +1084,8 @@ Martinique
 
 |
 
-Réunion (océan Indien)
+La Réunion (océan Indien)
 
 |
 
-786
-
-|
+786 |

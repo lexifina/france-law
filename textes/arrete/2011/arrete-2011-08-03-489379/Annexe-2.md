@@ -1,10 +1,10 @@
-# Article Annexe II
+# Article Annexe 2
 
-PORTANT CONSTATATION DU NOMBRE DE PROFESSIONNELS DE SANTÉ EN EXERCICE DANS LE RÉGIME CONVENTIONNEL DONT LES REPRÉSENTANTS AU SEIN DES UNIONS RÉGIONALES DES PROFESSIONNELS DE SANTÉ SONT DÉSIGNÉS, PAR RÉGION ET PAR PROFESSION
+PORTANT CONSTATATION DU NOMBRE DE PROFESSIONNELS DE SANTÉ EN EXERCICE DANS LE RÉGIME CONVENTIONNEL DONT LES REPRÉSENTANTS AU SEIN DES UNIONS RÉGIONALES DES PROFESSIONNELS DE SANTÉ SONT DÉSIGNÉS PAR RÉGION ET PAR PROFESSION
 
-I. - Orthophonistes
+I. ― Orthophonistes
 
-RÉGION
+RÉGIONS
 
 |
 
@@ -216,7 +216,7 @@ Martinique
 
 |
 
-Réunion (océan Indien)
+La Réunion (océan Indien)
 
 |
 
@@ -224,13 +224,15 @@ Réunion (océan Indien)
 
 |
 
-II. - Orthoptistes
+II. ― Orthoptistes
 
-RÉGION
+RÉGIONS
 
 |
 
-PROFESSIONNELS de santé en exercice
+PROFESSIONNELS
+
+de santé en exercice
 
 dans le régime conventionnel
 
@@ -436,7 +438,7 @@ Martinique
 
 |
 
-Réunion (océan Indien)
+La Réunion (océan Indien)
 
 |
 
@@ -444,13 +446,15 @@ Réunion (océan Indien)
 
 |
 
-III. - Pédicures-podologues
+III. ― Pédicures-podologues
 
-RÉGION
+RÉGIONS
 
 |
 
-PROFESSIONNELS de santé en exercice
+PROFESSIONNELS
+
+de santé en exercice
 
 dans le régime conventionnel
 
@@ -656,7 +660,7 @@ Martinique
 
 |
 
-Réunion (océan Indien)
+La Réunion (océan Indien)
 
 |
 
@@ -664,13 +668,15 @@ Réunion (océan Indien)
 
 |
 
-IV. - Sages-femmes
+IV. ― Sages-femmes
 
-RÉGION
+RÉGIONS
 
 |
 
-PROFESSIONNELS de santé en exercice
+PROFESSIONNELS
+
+de santé en exercice
 
 dans le régime conventionnel
 
@@ -876,7 +882,7 @@ Martinique
 
 |
 
-Réunion (océan Indien)
+La Réunion (océan Indien)
 
 |
 
@@ -884,11 +890,15 @@ Réunion (océan Indien)
 
 |
 
-V. - Biologistes responsables
+V. ― Biologistes responsables
 
-RÉGION |
+RÉGIONS
 
-PROFESSIONNELS de santé en exercice
+|
+
+PROFESSIONNELS
+
+de santé en exercice
 
 dans le régime conventionnel
 
@@ -1094,10 +1104,8 @@ Martinique
 
 |
 
-Réunion (océan Indien)
+La Réunion (océan Indien)
 
 |
 
-61
-
-|
+61 |
