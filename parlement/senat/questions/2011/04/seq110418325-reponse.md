@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110418325
+
+- Question : [SEQ110418325](seq110418325.md) — Intégration du régime indemnitaire dans les modalités de calcul des droits à pension des directeurs généraux des collectivités territoriales
+
+## Réponse
+
+*Fonction publique, JO du 2011-08-25, page 2221*
+
+Créé par la loi du 21 août 2003 portant réforme des retraites et instauré par le décret n° 2004-568 du 18 juin 2004, le régime de retraite additionnelle de la fonction publique (RAFP) est un régime par points dont l'assiette est constituée par l'ensemble des rémunérations de toute nature autres que celles entrant dans l'assiette de calcul de la pension de retraite des fonctionnaires. Ainsi, depuis le 1er janvier 2005, les éléments de rémunération perçus par les fonctionnaires, tels que les primes, certaines indemnités comme l'indemnité de résidence, le supplément familial de traitement et les heures supplémentaires, sont pris en compte par le RAFP dans la limite fixée par le décret précité. La fixation d'un plafond répond à un souci d'équité sociale entre les cotisants dont les niveaux de rémunération extra-indiciaire peuvent, à carrière similaire, être variés. Le montant du plafond, fixé à 20 % du traitement indiciaire brut de base, est en adéquation avec les résultats des études effectuées sur les rémunérations. Le plafond actuel apparaît justifié, même si l'on peut effectivement noter que certaines catégories de personnels dépassent le plafond. En tout état de cause, une étude sur le sujet ne pourrait se limiter à l'examen de la situation particulière de certains agents, ni même à l'étude de la seule fonction publique territoriale, le RAFP étant commun aux trois fonctions publiques. Elle nécessiterait une analyse approfondie qui prendrait en compte l'ensemble des éléments de situation et de perspective à moyen et à long termes des régimes de retraite obligatoires et des modalités de l'épargne retraite individuelle.
