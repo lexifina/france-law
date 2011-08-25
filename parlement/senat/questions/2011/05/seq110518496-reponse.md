@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110518496
+
+- Question : [SEQ110518496](seq110518496.md) — Nouveau programme culture
+
+## Réponse
+
+*Culture, JO du 2011-08-25, page 2208*
+
+Le ministre de la culture et de la communication est pleinement conscient des difficultés rencontrées par certains acteurs culturels à accéder aux soutiens financiers européens. Les structures petites ou de taille intermédiaire sont souvent actives au niveau européen, mais n'ont pas toujours la capacité de monter des dossiers de candidature longs et complexes. Le ministère de la culture et de la communication apporte pour ces raisons son soutien à un organisme d'accompagnement spécifique, le relais culture Europe (RCE), point de contact national chargé d'accompagner les porteurs de projets dans leurs candidatures. Cet accompagnement a permis à nombre d'entre eux d'être sélectionnés et soutenus par l'Union européenne. Par ailleurs, les petites structures peuvent être éligibles à l'obtention des fonds structurels européens, qui sont des instruments financiers visant à promouvoir le développement régional et la cohésion sociale. Les projets culturels peuvent en bénéficier dès lors qu'ils s'inscrivent dans une logique de cohésion économique et sociale et qu'ils sont sélectionnés au niveau régional. De même, les conseils régionaux eux-mêmes peuvent également être désignés en qualité d'organismes intermédiaires pour le compte des petits porteurs de projets. Par ces différents mécanismes, les petits projets devraient donc pouvoir accéder plus facilement aux financements européens. La commission a enfin annoncé récemment le projet de création d'un nouveau programme intitulé « Europe créative », qui doit être négocié par les États membres de l'Union européenne et comportera un volet spécifiquement dédié à des facilités de financement pour les petites et moyennes entreprises culturelles. Le ministère de la culture et de la communication suivra ce projet avec la plus grande attention.
