@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110518733
+
+- Question : [SEQ110518733](seq110518733.md) — Situation des psychologues du service public
+
+## Réponse
+
+*Travail, JO du 2011-08-25, page 2239*
+
+La circulaire n° DGOS/RH4/2010/142 du 4 mai 2010 relative à la situation des psychologues dans la fonction publique hospitalière, dans son paragraphe IV « Bénéfice du temps de formation, d'information et de recherche » - dit « temps-FIR » -, ne fait que rappeler les conséquences de la situation juridique différente des psychologues contractuels et des psychologues titulaires régis par le décret n° 91-129 du 31 janvier 1991 portant dispositions statutaires relatives aux psychologues de la fonction publique hospitalière. De ce fait, les psychologues contractuels ne bénéficient pas du temps de formation, d'information et de recherche (FIR) au titre de l'article 2 du décret du 31 janvier 1991. Il convient d'ajouter toutefois que la lettre-circulaire DH/FH3 n° 95-2239 du 16 août 1995 non-abrogée, laisse toute possibilité au chef d'établissement d'inclure dans le contrat de recrutement d'un psychologue non statutaire des dispositions relatives à une organisation de son temps de travail lui permettant de facto de bénéficier d'un temps FIR. La circulaire précitée du 4 mai 2010, qui appelle des précisions, n'a donc pas « supprimé » le temps FIR des psychologues contractuels. Enfin, cette circulaire rappelle que les emplois permanents de psychologue à temps complet ont vocation à être occupés par des personnels titulaires. Cette mention démontre la volonté des pouvoirs publics de lutter contre la précarisation dans la fonction publique hospitalière. La première réunion du cycle de concertation sur la situation des psychologues de la fonction publique hospitalière, qui s'est tenue le 28 mars 2011, a permis d'ériger au rang de priorités la question de l'accès au temps FIR et celle de l'amélioration des conditions d'exercice de la profession de psychologue.
