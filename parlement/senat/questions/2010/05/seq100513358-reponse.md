@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100513358
+
+- Question : [SEQ100513358](seq100513358.md) — Comité de concertation régional
+
+## Réponse
+
+*Transports, JO du 2011-08-25, page 2233*
+
+L'enquête publique sur le projet de relèvement des altitudes d'arrivées des avions en provenance du Sud-Est à destination de l'aéroport de Paris-Orly en configuration de vent d'Est s'est déroulée du 16 novembre au 17 décembre 2009. Le préfet de la région d'Île-de-France, préfet de Paris, a mis en place, le lundi 12 avril 2010, un comité régional de concertation sur les nuisances sonores des plates-formes aéroportuaires de Paris-Orly, Paris-Charles de Gaulle et Paris-Le Bourget. Ce comité de pilotage, délibérément restreint dans l'étendue de sa composition, mais dans lequel chacune des positions a pu être représentée, a permis la prolongation de la concertation respectant ainsi les conclusions de la commission d'enquête. Composé de représentants de l'État, des collectivités situées à proximité des trois principales plates-formes aéroportuaires d'Île-de-France, des associations de riverains et de défense de l'environnement, ce comité est un lieu de concertation au niveau régional sur les engagements de réduction des nuisances sonores fixés par le Grenelle de l'environnement dans le secteur aérien. Il a étudié les modalités opérationnelles de mise en place des procédures de relèvement des trajectoires d'approche des avions. À la suite de l'avis favorable de l'enquête publique et de la commission consultative de l'environnement d'Orly et de l'avis négatif rendu par l'autorité de contrôle des nuisances aéroportuaires (ACNUSA) en décembre 2010, sur ce projet, la direction générale de l'aviation civile a effectué des compléments d'études et a poursuivi la concertation notamment lors de réunions techniques avec les associations de riverains ; l'ACNUSA a été à nouveau consultée sur l'ensemble du dossier en juin 2011, dans la perspective de la mise en oeuvre à l'automne 2011.
