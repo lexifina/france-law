@@ -14,7 +14,7 @@ CIRCONSCRIPTIONS RÉGIONALES
 
 CENTRE
 
-(siège à Orléans)
+(siège à Dijon)
 
 |
 
@@ -66,7 +66,7 @@ Basse-Normandie
 
 |
 
-ILE-DE-FRANCE ― OUTRE-MER
+ÎLE-DE-FRANCE-OUTRE-MER
 
 (siège à Paris)
 
@@ -86,7 +86,7 @@ GRAND NORD
 
 Haute-Normandie
 
-Nord - Pas-de-Calais
+Nord-Pas-de-Calais
 
 Picardie
 
@@ -110,7 +110,9 @@ SUD-EST
 
 |
 
-Provence-Alpes-Côte d'Azur-Corse
+Provence-Alpes-Côte d'Azur
+
+Corse
 
 |
 
