@@ -2,7 +2,7 @@
 
 TITRES DE FORMATION PROFESSIONNELLE MARITIME
 
-a) Extension hauturière »
+a) Extension hauturière
 
 Brevet de capitaine au long cours.
 
@@ -56,41 +56,31 @@ Brevet d'officier radioélectricien ou radioélectronicien de 1re classe de la m
 
 Brevet d'officier radioélectricien ou radioélectronicien de 2e classe.
 
-Certificat d'apprentissage maritime, mention Pont.
+Certificat d'apprentissage maritime, mention pont.
 
-Certificat d'apprentissage maritime, mention Pêche.
+Certificat d'apprentissage maritime, mention pêche.
 
-Certificat d'apprentissage maritime, mention Commerce.
+Certificat d'apprentissage maritime, mention commerce.
 
 Certificat d'apprentissage maritime polyvalent.
 
-Certificat d'aptitude professionnelle maritime d'électricien ou de mécanicien de bord.
-
 Certificat d'aptitude professionnelle maritime de marin du commerce.
 
-Certificat d'aptitude professionnelle maritime de marin pêcheur.
+Certificat d'aptitude professionnelle maritime de marin-pêcheur.
 
-Certificat d'aptitude professionnelle maritime de marin pêcheur, option Pont.
+Certificat d'aptitude professionnelle maritime de marin-pêcheur, option pont.
 
-Brevet d'études professionnelles maritimes de conduite et exploitation des navires de pêche.
-
-Brevet d'études professionnelles maritimes machines marines.
-
-Certificat d'admissibilité en 2e année du cycle de formation des capitaines de 2e classe de la navigation maritime.
+Certificat d'admissibilité en deuxième année du cycle de formation des capitaines de 2e classe de la navigation maritime.
 
 Diplôme d'élève officier de 2e classe de la navigation maritime.
 
-Attestation d'admissibilité en 2e année du cycle de formation des capitaines de 1re classe de la navigation maritime.
+Attestation d'admissibilité en deuxième année du cycle de formation des capitaines de 1re classe de la navigation maritime.
 
-Diplôme de capitaine de 2e classe de la navigation maritime, Théorie.
+Diplôme de capitaine de 2e classe de la navigation maritime - théorie.
 
 Attestation de succès à l'examen pour l'obtention du brevet de chef de quart.
 
-Brevet de patron à la plaisance, Voile.
-
-Attestation de réussite aux épreuves du module 2 de l'examen pour l'obtention du brevet de patron de petite navigation.
-
-Elèves des cycles de formation des officiers de 1re et de 2e classe de la marine marchande, titulaires au minimum, du certificat d'admissibilité en 2e année.
+Brevet de patron à la plaisance ― voile.
 
 Brevet d'études professionnelles maritimes de marin du commerce.
 
@@ -146,9 +136,29 @@ Diplôme de capitaine 3000 de la filière professionnelle pont de la marine marc
 
 Certificat d'aptitude professionnelle maritime de matelot.
 
-Bacccalauréat professionnel spécialisé conduite et gestion des entreprises maritimes.
+Baccalauréat professionnel spécialisé conduite et gestion des entreprises maritimes .
+
+Lorsqu'ils ont été obtenus après le 1er mai 2011, les titres suivants doivent être accompagnés du certificat restreint de radiotéléphoniste ou d'un titre équivalent :
+
+Certificat d'aptitude professionnelle maritime d'électricien ou de mécanicien de bord.
+
+Brevet d'études professionnelles maritimes de conduite et exploitation des navires de pêche.
+
+Brevet d'études professionnelles maritimes machines marines.
+
+Elèves des cycles de formation des officiers de 1re et de deuxième classe de la marine marchande, titulaires, au minimum du certificat d'admissibilité en deuxième année.
+
+Attestation de réussite aux épreuves du module 2 de l'examen pour l'obtention du brevet de patron de petite navigation.
 
 b) Option côtière
+
+Certificat de formation nautique pont.
+
+Certificat de formation nautique mention machine
+
+Officier électronicien et systèmes de la marine marchande.
+
+Lorsqu'ils ont été obtenus après le 1er mai 2011, les titres suivants doivent être accompagnés du certificat restreint de radiotéléphoniste ou d'un titre équivalent :
 
 Officier mécanicien de 1re classe.
 
@@ -158,25 +168,17 @@ Officier mécanicien de 3e classe.
 
 Officier mécanicien de 3e classe électromotoriste.
 
-Certificat de formation nautique Pont.
-
-Certificat de formation nautique, mention machine.
-
-Marins titulaires d'un permis de conduire les moteurs délivré depuis le 15 mars 1966.
-
 Certificat de motoriste à la pêche.
 
 Brevet d'études professionnelles maritimes de mécanicien.
 
-Certificat de mécanicien de quart à la machine.
+Certificat de mécanicien de quart à la machine ;
 
-Certificat d'aptitude professionnelle maritime marin pêcheur, option machine.
+Certificat d'aptitude professionnelle maritime marin-pêcheur (option machine).
 
 Certificat d'initiation nautique.
 
 Officier technicien.
-
-Officier électronicien et systèmes de la marine marchande.
 
 Permis de conduire les moteurs marins.
 
@@ -218,4 +220,4 @@ Diplôme de chef mécanicien 3 000 kW.
 
 Diplôme d'officier chef de quart machine de la filière professionnelle machine de la marine marchande.
 
-Baccalauréat professionnel spécialité électronicien marine.
+Baccalauréat professionnel spécialité électronicien marine .

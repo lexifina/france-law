@@ -10,13 +10,13 @@ Corps d'encadrement et de commandement des personnels embarqués d'assistance et
 
 Corps d'exécution et de maîtrise des personnels embarqués d'assistance et de surveillance des affaires maritimes (PEASAM/C).
 
-Personnels des corps suivants, titulaires d'une attestation de succès à l'examen de formation nautique organisé par le Groupe Ecoles - centre de formation des affaires maritimes :
+Personnels des corps suivants titulaires d'une attestation de succès à l'examen de formation nautique organisé par le centre d'instruction et de documentation administrative maritime :
 
 - inspecteurs des affaires maritimes ;
 
 - inspecteurs des affaires maritimes, option technique ;
 
-- contrôleurs des affaires maritimes, branche technique ;
+- contrôleurs des affaires maritimes (branche technique) ;
 
 - contrôleurs des affaires maritimes, branche navigation sécurité ;
 
@@ -26,10 +26,8 @@ Personnels des corps suivants, titulaires d'une attestation de succès à l'exam
 
 - syndics des gens de mer, branche navigation sécurité.
 
-B. - Personnels relevant du ministère chargé du budget, direction générale des douanes et droits indirects
+B. - Personnels relevant du ministère chargé du budget,
 
-Extension hauturière :
+direction générale des douanes et droits indirects
 
-Brevet de chef de quart ou de navigateur.
-
-Certificat de conducteur de vedettes.
+Titres correspondants de l'annexe I ou III du présent arrêté.
