@@ -833,3 +833,17 @@ Mise en demeure et sanctions.
 Article 4 (alinéas 1, 2 et 3).
 
 |
+
+Décret n° 2011-993 du 23 août 2011 relatif au label de librairie de référence et au label de librairie indépendante de référence
+
+1
+
+|
+
+Attribution du label de librairie de référence et du label de librairie indépendante de référence.
+
+|
+
+Article 3.
+
+|
