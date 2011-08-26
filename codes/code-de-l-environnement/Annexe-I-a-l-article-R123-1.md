@@ -410,14 +410,6 @@ c) terrains aménagés pour la pratique de sports ou loisirs motorisés dont l'e
 
 |
 
-34° Travaux d'installation des ouvrages utilisant l'énergie éolienne.
-
-|
-
-Travaux d'installation des ouvrages de production d'énergie éolienne dont la hauteur du mât dépasse 50 mètres
-
-|
-
 35° Premiers boisements soumis à l'autorisation de l'article L. 126-1 du code rural et de la pêche maritime.
 
 |

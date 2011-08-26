@@ -172,7 +172,7 @@ Station de transit de produits minéraux ou de déchets non dangereux inertes au
 
 |
 
-1. supérieure à 75 000 m³
+1. supérieure à 75 000 m ³
 
 |
 
@@ -204,11 +204,7 @@ D
 
 |
 
-Installation de production de béton prêt à l'emploi équipée d'un dispositif
-
-d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations
-
-visées par la rubrique 2522. La capacité de malaxage étant :
+Installation de production de béton prêt à l'emploi équipée d'un dispositif d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations visées par la rubrique 2522. La capacité de malaxage étant :
 
 |
 
@@ -224,9 +220,7 @@ visées par la rubrique 2522. La capacité de malaxage étant :
 
 |
 
-a) Supérieure à 3 m3
-
-|
+a) Supérieure à 3 m3 |
 
 E
 
@@ -1472,7 +1466,7 @@ A
 
 |
 
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
+2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 |
 
@@ -1534,7 +1528,7 @@ DC
 
 |
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium
+3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium
 
 |
 
@@ -1908,7 +1902,7 @@ Colorants et pigments organiques, minéraux et naturels (fabrication industriell
 
 |
 
-1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en œuvre dans un procédé d'une autre installation
+1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en oeuvre dans un procédé d'une autre installation
 
 |
 
@@ -2672,7 +2666,7 @@ D
 
 |
 
-Installation de stockage, dépollution, démontage, découpage ou broyage de véhicules hors d'usage ou de différents moyens de transport hors d'usage, la surface étant supérieure à 50 m2.
+Installation de stockage, dépollution, démontage, découpage ou broyage de véhicules hors d'usage ou de différents moyens de transport hors d'usage, la surface étant supérieure à 50 m².
 
 |
 
@@ -3042,7 +3036,9 @@ a) Supérieure ou égale à 50 t |
 
 |
 
-b) Supérieure ou égale à 1 t et inférieure à 50 t |
+b) Supérieure ou égale à 1 t et inférieure à 50 t
+
+|
 
 3
 
@@ -4082,7 +4078,7 @@ Combustion à l'exclusion des installations visées par les rubriques 2770 et 22
 
 |
 
-A. Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des fiouls lourds ou de la biomasse, à l'exclusion des installations visées par d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes, si la puissance thermique maximale de l'installation est :
+A. - Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des fiouls lourds ou de la biomasse, à l'exclusion des installations visées par d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes, si la puissance thermique maximale de l'installation est :
 
 |
 
@@ -4158,7 +4154,7 @@ DC
 
 |
 
-B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW
+B. - Lorsque les produits consommés seuls ou en mélange sont différents de ceux visés en A et C et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW
 
 |
 
@@ -4218,7 +4214,7 @@ c) supérieure ou égale à 4 MW mais inférieure à 50 MW
 
 |
 
-C. Lorsque l'installation consomme exclusivement du biogaz provenant d'installation classée sous la rubrique 2781-1 et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW :
+C. - Lorsque l'installation consomme exclusivement du biogaz provenant d'installation classée sous la rubrique 2781-1 et si la puissance thermique maximale de l'installation est supérieure à 0,1 MW :
 
 |
 
@@ -4828,7 +4824,7 @@ DC
 
 |
 
-3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est :
+3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en oeuvre est :
 
 |
 
@@ -4874,7 +4870,7 @@ DC
 
 |
 
-Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55o C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55o C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
+Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55o C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2 e catégorie (point éclair supérieur ou égal à 55o C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
 
 |
 
@@ -4977,6 +4973,88 @@ b) supérieure à 5 000 m², mais inférieure ou égale à 50 000 m²
 |
 
 DC
+
+|
+
+|
+
+|
+
+|
+
+2980
+
+|
+
+Installation terrestre de production d'électricité à partir de l'énergie mécanique du vent et regroupant un ou plusieurs aérogénérateurs :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Comprenant au moins un aérogénérateur dont le mât a une hauteur supérieure ou égale à 50 m
+
+|
+
+A
+
+|
+
+6
+
+|
+
+|
+
+|
+
+|
+
+2. Comprenant uniquement des aérogénérateurs dont le mât a une hauteur inférieure à 50 m et au moins un aérogénérateur dont le mât a une hauteur maximale supérieure ou égale à 12 m et pour une puissance totale installée :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 20 MW
+
+|
+
+A
+
+|
+
+6
+
+|
+
+|
+
+|
+
+|
+
+b) Inférieure à 20 MW
+
+|
+
+D
 
 |
 
