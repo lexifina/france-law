@@ -2,9 +2,9 @@
 
 Chapitre Ier : Dispositions relatives au territoire métropolitain.
 
-i) Les organismes nuisibles visés aux annexes I A I et II A I de l'arrêté du 2 septembre 1993 modifié.
+i) Les organismes nuisibles visés au chapitre Ier de la partie A de l'annexe I et au chapitre 1er de la partie A de l'annexe II de l'arrêté du 24 mai 2006 relatif aux exigences sanitaires des végétaux, produits végétaux et autres objets.
 
-ii) Les organismes nuisibles visés aux annexes I A II, I B, II A II et II B de l'arrêté du 2 septembre 1993 modifié listés ci-après :
+ii) Les organismes nuisibles visés au chapitre 2 de la partie A de l'annexe I, à la partie B de l'annexe I, au chapitre 2 de la partie A de l'annexe II et à la partie B de l'annexe II de l'arrêté du 24 mai 2006 susmentionné, listés ci-après :
 
 Aphelenchoides besseyi (nématode foliaire) ;
 
@@ -34,7 +34,7 @@ Plum pox virus (sharka) ;
 
 Popillia japonica (hanneton japonais) ;
 
-Pseudomonas caryophylli (chancre bactérien de l'oeillet) ;
+Pseudomonas caryophylli (chancre bactérien de l'œillet) ;
 
 Ralstonia solanacearum (pourriture brune de la pomme de terre ou flétrissement bactérien) ;
 
@@ -48,13 +48,21 @@ Callosobruchus chinensis (bruche chinoise) ;
 
 Caulophilus oryzae ;
 
+Dryocosmus kuriphilus (cynips du châtaignier) ;
+
+Gibberella circinata (anamorphe Fusarium circinatum) ;
+
+Phytophtora ramorum ;
+
 Prostephanus truncatus (grand capucin) ;
+
+Rhynchophorus ferrugineus (charançon rouge du palmier) ;
 
 Trogoderma granarium (dermeste du grain).
 
 Chapitre II : Dispositions relatives aux départements d'outre-mer.
 
-Départements de la Martinique et de la Guadeloupe.
+1. Départements de la Martinique et de la Guadeloupe
 
 Les organismes nuisibles suivants :
 
@@ -86,7 +94,7 @@ Diaphorina citri (psylle des agrumes) ;
 
 Elephantiasis (bananier) ;
 
-Mycosphaerella fijensis ou Cercospora fijensis (cercosporiose noire du bananier) ;
+Mycosphaerella fijensis ou Cercospora fijensis (cerc osporiose noire du bananier) ;
 
 Pratylenchus goodeyi (nématode du bananier) ;
 
@@ -104,27 +112,49 @@ Xanthomonas campestris pv. celebensis (bactériose du bananier) ;
 
 Xanthomonas axonopodis pv. citri (chancre bactérien des agrumes).
 
-Département de la Guyane.
+2. Département de la Guyane
 
-i) Les organismes nuisibles visés aux annexes I B et II B de l'arrêté du 3 septembre 1990 modifié listés ci-après :
+i) Les organismes nuisibles listés ci-après :
 
 Achatina fulica (achatine) ;
 
+Acysta persea (hémiptère tingidae sur avocatier) ;
+
+Aleurocanthus spiniferus (aleurode du manguier) ;
+
+Anthenomus grandis (coton) ;
+
 Bactrocera spp. (sauf B. carambolae) ;
+
+Brevipalpus australis (léprose sur citrus) ;
 
 Ceratitis spp. (mouche méditerranéenne des fruits) ;
 
 Ceratostomella paradoxa (pourriture de l'ananas, du café, de la canne) ;
 
+Chilo partellus (foreur de la canne et du maïs) ;
+
 Clavibacter xili subsp. xili (rabougrissement des repousses de cannes) ;
+
+Coconut foliar decay virus ;
 
 Conotrachelus aguacatae (charançon de l'avocatier) ;
 
 Conotrachelus persea (charançon de l'avocatier) ;
 
+Cosmopolites sorditus (charançon du bananier) ;
+
 Dacus spp. ;
 
 Deuterophoma tracheiphila (malseco des agrumes) ;
+
+Diplodia natalensis (chancre de l'avocatier) ;
+
+Eldana saccharina (pyrale de la canne à sucre) ;
+
+Erwinia chrysanthemi ;
+
+Erwinia sp. non pectinolytique (sur Carica papaya) ;
 
 Frankliniella occidentalis (thrips californien) ;
 
@@ -132,17 +162,31 @@ Heillipus lauri (charançon des graines d'avocatier) ;
 
 Henosepilachna elaterii (coccinelle phytophage) ;
 
+Hirschmaniella orizae et spinicodata (nématodes sur riz) ;
+
 Hoja blanca virus ;
+
+Impatiens necrotic spot virus ;
 
 Lethal yellowing disease (mycoplasme du jaunissement mortel) ;
 
 Limicolaria aurora (escargot géant d'Afrique) ;
 
+Maize streak virus (souche canne à sucre) ;
+
 Megastes grandalis (pyrale de la patate douce) ;
 
 Megastes pusialis (pyrale de la patate douce) ;
 
+Meloidogyne graminicola (nématode sur riz) ;
+
 Mycosphaerella fijensis (cercosporiose noire du bananier) ;
+
+Myndus spp. (cicadelles vectrices du jaunissement mortel) ;
+
+Ochlerus spp. (punaises vectrices du dépérissement foliaire des palmacées) ;
+
+Opogona sacchari (tordeuse du bananier) ;
 
 Papaya bunchy top mycoplasma ;
 
@@ -150,31 +194,69 @@ Papaya distorsion ring spot virus ;
 
 Papaya mosaic virus ;
 
+Phoma tracheiphila (citrus) ;
+
+Pratylenchus goodeyi (nématode du bananier) ;
+
 Prays citri (teigne du citronnier) ;
 
+Prays endocarpa (teigne des agrumes) ;
+
+Prosopis glandulosa (légumineuse mimosée épineuse) ;
+
+Pseudomonas fuscovaginae ;
+
+Pseudomonas syringae pv. passiflorae ;
+
+Pseudomonas syringae pv. purpurae ;
+
+Quadraspidiotus perniciosus (pou de San José) ;
+
 Ralstonia solanacearum race II (maladie de Moko sur musacées et zingiberacées) ;
+
+Recilia mica (cicadelle responsable du blast des palmiers) ;
 
 Rice grassy stunt virus (rabougrissement herbacé du riz) ;
 
 Roxia pornia (mouche des fruits polyphage) ;
 
+Sphacelotheca macrospora (charbon vêtu de la canne) ;
+
 Spiroplasma citri (stubborn) ;
 
 Stenoma catenifer (chenille de la graine et du fruit de l'avocatier) ;
 
+Stephanitis typica (punaise phytophage vectrice de dépérissement des palmacées) ;
+
+Striga spp. ;
+
+Tenipalpus pseudocuneatus (léprose sur citrus) ;
+
 Trialeurodes vaporariorum (aleurode tropicale) ;
+
+Vanilla mosaic potyvirus (potyvirus Tahiti ) ;
+
+Vanilla necrotic potyvirus (potyvirus Tonga ) ;
 
 Viroïde du cadang cadang (dépérissement ou taches jaunes du cocotier) ;
 
+Xanthium spp. (astéracées annuelles ou vivaces à involucres épineux) ;
+
+Xanthomonas albilineans (échaudure de la canne à sucre) ;
+
 Xanthomonas axonopodis pv. dieffenbachiae (feu bactérien de l'anthurium) ;
+
+Xanthomonas campestris pv. celebensis (sur musa spp.) ;
 
 Xanthomonas campestris pv. mangiferae indicae (bactériose du manguier) ;
 
 Xanthomonas campestris pv. manihotis (bactériose du manioc) ;
 
-Xanthomonas campestris pv. vasculorum (sur graminées et bambous).
+Xanthomonas campestris pv. passiflorae ;
 
-ii) Les organismes nuisibles visés aux annexes I et II de l'arrêté du 2 septembre 1993 modifié à l'exception de ceux listés ci-après :
+Xanthomonas campestris pv. vasculorum (sur graminées et bambous) ;
+
+ii) Les organismes nuisibles visés aux annexes I et II de l'arrêté du 24 mai 2006 relatif aux exigences sanitaires des végétaux, produits végétaux et autres objets, à l'exception de ceux listés ci-après :
 
 Aleurocanthus woglumi (aleurode noire des citrus) ;
 
@@ -208,187 +290,441 @@ Toxoptera citricida (puceron noir des agrumes) ;
 
 Unaspis citri.
 
-iii) Et les organismes nuisibles listés ci-après :
+3. Département de La Réunion
 
-Acysta persea (hémiptère tingidae sur avocatier) ;
+i) Les organismes nuisibles suivants :
 
-Aleurocanthus spiniferus (aleurode du manguier) ;
+a) Animaux :
 
-Anthenomus grandis (coton) ;
+Aceria litchi (acarien) ;
 
-Brevipalpus australis (léprose sur citrus) ;
+Aceria mangifera (acarien) ;
 
-Chilo partellus (foreur de la canne et du maïs) ;
+Aceria sheldoni (acarien) ;
 
-Coconut foliar decay virus ;
+Acrolepiopsis assectella (lépidoptère) ;
 
-Cosmopolites sorditus (charançon du bananier) ;
+Acromyrmex octopinosus (hyménoptère) ;
 
-Diplodia natalensis (chancre de l'avocatier) ;
+Acromyrmex spp. (hyménoptères) ;
 
-Eldana saccharina (pyrale de la canne à sucre) ;
+Acysta persea (hémiptère de l'avocatier sur fruits, feuilles et fleurs) ;
 
-Erwinia chrysanthemi ;
+Agromyza oryzae (diptère) ;
 
-Erwinia sp. non pectinolytique (sur Carica papaya) ;
+Aleurocanthus cocos (homoptère) ;
 
-Hirschmaniella orizae et spinicodata (nématodes sur riz) ;
+Aleurocanthus spiniferus (homoptère) ;
 
-Impatiens necrotic spot virus ;
+Aleurocanthus woglumi (homoptère) ;
 
-Maize streak virus (souche canne à sucre) ;
+Alissonotum piceum (coléoptère) ;
 
-Meloidogyne graminicola (nématode sur riz) ;
+Anarsia lineatella (lépidoptère) ;
 
-Myndus spp. (cicadelles vectrices du jaunissement mortel) ;
+Anastrepha spp. (diptères) ;
 
-Ochlerus spp. (punaises vectrices du dépérissement foliaire des palmacées) ;
+Aphelenchoïdes besseyi (nématode) ;
 
-Opogona sacchari (tordeuse du bananier) ;
+Argyrotaenia pulcellana (lépidoptère) ;
 
-Phoma tracheiphila (citrus) ;
+Atta cephalotes (hyménoptère) ;
 
-Prays endocarpa (teigne des agrumes) ;
+Atta sexdens (hyménoptère) ;
 
-Prosopis glandulosa (légumineuse mimosée épineuse) ;
+Atta spp. (hyménoptères) ;
 
-Pseudomonas fuscovaginae ;
+Cacyreus marshalli (lépidoptère des pélargonium et géranium) ;
 
-Pseudomonas syringae pv. passiflorae ;
+Castnia deadalus (lépidoptère) ;
 
-Pseudomonas syringae pv. purpurae ;
+Castnia licoïdes (lépidoptère) ;
+
+Ceratitis cosvra (diptère) ;
+
+Chilo partellus (lépidoptère) ;
+
+Clemora smithi (coléoptère) ;
+
+Conotrachelus perseae (coléoptère) ;
+
+Ctenarytaina eucalypti (psylle de l'eucalyptus) ;
+
+Dacus bivittatus (diptère) ;
+
+Dacus frenchi = Bactrocera umbrosa (diptère) ;
+
+Dacus neohumeralis (diptère) ;
+
+Dacus tryoni (diptère) ;
+
+Dacus zonatus (diptère) ;
+
+Daktulosphaira vitifoliae (phylloxera de la vigne) ;
+
+Delia antiqua (diptère) ;
+
+Delia brassica (diptère) ;
+
+Ditylenchus angustus (nématode) ;
+
+Echinothrips americanus (thrips des Araceae et Balsaminaceae) ;
+
+Eldana saccharina (lépidoptère) ;
+
+Eupoecilia ambiguella (lépidoptère) ;
+
+Grapholita molesta (lépidoptère) ;
+
+Heillipus lauri (coléoptère) ;
+
+Heterodera schachtii (nématode) ;
+
+Heteronychus arator (coléoptère) ;
+
+Heteronychus licas (coléoptère) ;
+
+Heteronychus spp. (coléoptères) ;
+
+Hypothenemus hampeii (coléoptère) ;
+
+Idiocerus spp. (homoptères) ;
+
+Iridomyrmex humilis (hyménoptère) ;
+
+Lampestis equestris (diptère) ;
+
+Laspeyresia funebrata (lépidoptère) ;
+
+Laspeyresia nigricana (lépidoptère) ;
+
+Laspeyresia pomonella (lépidoptère) ;
+
+Leptinotarsa decemlineata (coléoptère) ;
+
+Leucoptera scitella (lépidoptère) ;
+
+Lincus spp. (punaises vectrices de dépérissements foliaires des palmacées à phytomonas Hartrot du cocotier, Marchitez du palmier à huile ) ;
+
+Lopesia botrana (lépidoptère) ;
+
+Lyonetia clerklela (diptère) ;
+
+Maconellicoccus hirsutus (cochenille rose de l'hibiscus) ;
+
+Megastes grandalis (pyrale de la patate douce Ipomea batatas ) ;
+
+Megastes pusialis (lépidoptère) ;
+
+Melolontha melolontha (coléoptère) ;
+
+Merodon equestris (mouche des bulbes) ;
+
+Messor barbarus (hyménoptère) ;
+
+Metcalfa pruinosa (cicadelle) ;
+
+Myndus spp. (cicadelles cixiidées vectrices du dépérissement foliaire viral CFDV et du jaunissement mortel Lethal yellowing MLO ) ;
+
+Ochlerus spp. (punaises vectrices de dépérissements foliaires des palmacées à phytomonas Hartrot du cocotier ) ;
+
+Oecophylla spp. (hyménoptères) ;
+
+Otiorrhynchus spp. (otiorrhynques) ;
+
+Pardalaspis quinaria (diptère) ;
+
+Parlagena benetti (cochenille du cocotier) ;
+
+Parlatoria zizyphii (homoptère) ;
+
+Perkinsiella saccharicida (homoptères) ;
+
+Phthorimea operculella (teigne de la pomme de terre) ;
+
+Phyllophaga smithii (hanneton de la Barbade et de Maurice) ;
+
+Planococcus citri (homoptère) ;
+
+Pratylenchus coffea (nématode) ;
+
+Prays endocarpa (lépidoptère) ;
+
+Prostephanus truncatus (coléoptère) ;
+
+Pseudococcus viburni (cochenille farineuse de la tomate) ;
+
+Psila rosae (diptère) ;
+
+Psylla mali (homoptère) ;
 
 Quadraspidiotus perniciosus (pou de San José) ;
 
-Recilia mica (cicadelle responsable du "blast" des palmiers) ;
+Recilia mica (cicadelle responsable du ¸ blast ¹ des palmiers) ;
 
-Sphacelotheca macrospora (charbon vêtu de la canne) ;
+Rhadinaphelenchus cocophilus (nématode) ;
 
-Stephanitis typica (punaise phytophage vectrice de dépérissement des palmacées) ;
+Sogatella furcifera (homoptère) ;
 
-Striga spp. ;
+Sogatella kolophon et S. cubana (homoptères responsables de la pourriture sèche du cœur de cocotier) ;
 
-Tenipalpus pseudocuneatus (léprose sur citrus) ;
+Stephanitis typicus (hétéroptère) ;
 
-Vanilla mosaic potyvirus (potyvirus "Tahiti") ;
+Sternocnetus frigidus (lépidoptère) ;
 
-Vanilla necrotic potyvirus (potyvirus "Tonga") ;
+Sternochetus mangiferae (charançon de la graine de Mangifera indica sur fruits et semences) ;
 
-Xanthium spp. (astéracées annuelles ou vivaces à involucres épineux) ;
+Tephritidées à l'exception de Pardalaspis cyanescens, Ceratitis rosa, Ceratitis cattoirii, Dacus ciliatus, Bactrocera cucurbitae, Dacus demmerezi (mouches des fruits) ;
 
-Xanthomonas albilineans (échaudure de la canne à sucre) ;
+Thaumetopoea pityocampa (processionnaire du pin) ;
 
-Xanthomonas campestris pv. celebensis (sur musa spp.) ;
+Tylenchorhynchus martini (nématode) ;
 
-Xanthomonas campestris pv. passiflorae.
+Unaspis citri (homoptère) ;
 
-Département de la Réunion.
+Viteus vitifolii (homoptère) ;
 
-i) Les organismes nuisibles visés aux annexes I B et II B de l'arrêté du 3 septembre 1990 modifié à l'exception de :
+Zeuzera pyrina (lépidoptère) ;
 
-Aphis gossypii ;
+b) Bactéries :
 
-Arabis mosaic virus ;
+Agrobacterium tumefasciens rubi (ou Biovar III) ;
 
-Aspidiotus destructor ;
+Curtobacterium (Corynebacterium) flaccumfasciens ;
 
-Banana streak virus ;
+Erwinia amylovora (feu bactérien des rosacées pomoïdées) ;
 
-Bean common mosaic virus ;
+Erwinia ananas ;
 
-Bean yellow mosaic virus ;
+Erwinia non pectinolytique du papayer ;
 
-Bemisia tabaci ;
+Erwinia stewartii ;
 
-Brevicoryne brassicae ;
+Erwinia tracheiphila ;
 
-Ceratitis capitata ;
+Phytomonas sp. (responsable de dépérissements sur végétaux de Cocos nucifera et palmier à huile) ;
 
-Ceratosmella paradoxa ;
+Pseudomonas andropogoni (sorgho, canne à sucre) ;
 
-Chaetosiphon fragaefollii ;
+Pseudomonas gladioli pv. gladioli ;
 
-Citrus tristeza closterovirus (tristeza) ;
+Pseudomonas solanacearum race II ;
+
+Pseudomonas syringae pv. lachrymans ;
+
+Pseudomonas syringae pv. Mors-prunorum ;
+
+Pseudomonas syringae pv. passiflorae ;
+
+Pseudomonas syringae pv. purpurea (plants, fruits et semences d'avocat) ;
+
+Pseudomonas syringae pv. syringae ;
+
+Pseudomonas syringae pv. tabaci ;
+
+Xanthomonas campestris pv. begoniae ;
+
+Xanthomonas campestris pv. celebensis (végétaux de Musa spp.) ;
+
+Xanthomonas campestris pv. mangiferae indicae ;
+
+Xanthomonas campestris pv. manihotis ;
+
+Xanthomonas campestris pv. passiflorae ;
+
+Xanthomonas campestris pv. vasculorum ;
+
+Xylella fastidiosa ;
+
+c) Cryptogames :
+
+Botryodiplodia sp. ;
+
+Cercospora angolensis ;
+
+Colletotrichum fragariae ;
+
+Diplodia natalensis (chancre de l'avocatier) ;
+
+Elsinoe sp., Sphaeceloma sp. (tavelures des agrumes) ;
+
+Eutypa armeniacae ;
+
+Eutypa lata ;
+
+Fusarium oxysporum F. sp. cubense race IV ;
+
+Fusarium oxysporum F. sp. Melonis ;
+
+Gibberella xylarioïdes ;
+
+Marasmus perniciosus ;
+
+Mycosphaerella fijiensis ;
+
+Mycosphaerella fijiensis var. difformis ;
+
+Mycosphaerella musicola ;
+
+Peronosclerospora sacchari (ou Sclerophtora sacchari) ;
+
+Peronospora litchi (mildiou du litchi) ;
+
+Phytophtora fragariae ;
+
+Phytophthora rubi (dépérissement du framboisier) ;
+
+Piricularia oryzae (piriculariose du riz Oryza sativae L sur semences et végétaux) ;
+
+Pseudocercospora purpurea ;
+
+Sceropora macrospora ;
+
+Thielaviopsis basicola ;
+
+Trachyphaera fructigena ;
+
+Urocystis cepulae ;
+
+d) Virus et pathogènes similaires aux virus :
+
+Avocado Sun blotch viroïd ;
+
+Bamboo mosaic virus (végétaux de Bambusa spp.) ;
+
+Banana Bunchy Top virus ;
+
+Banana mosaïc virus (Cucumber Mosaïc virus) ;
+
+Bract Mosaïc Disease ;
+
+Chrysanthemum stunt viroïde ;
+
+Chrysanthemum virus B ;
+
+Citrus Blight ;
+
+Citrus Cachexie ;
 
 Coconut foliar decay virus (dépérissement foliaire du cocotier) ;
 
-Cucumber mosaic virus ;
+Cucumber green mottle virus ;
 
-Cymbidium mosaic virus ;
+Dioscorea (= Yam) Green Banding virus ;
 
-Deuterophoma tracheiphila ;
+Grapevine Fanleaf virus ;
 
-Dysaphis plantaginea ;
+Hibiscus chlorotic ringspot virus (Hibiscus, Rosa sinensis) ;
 
-Elephantiasis ;
+Hibiscus latent ringspot virus (Hibiscus, Rosa sinensis) ;
 
-Eotetranychus carpini ;
+Impatiens necrotic spot virus (virus nécrotique de l'impatiens nombreuses plantes hôtes ) ;
 
-Erwinia vitivora ;
+Maïze Streak virus (souche canne à sucre) ;
 
-Exobasidium vexans ;
+Maracudja mosaic virus (Passiflora spp.) ;
 
-Frankliniella occidentalis ;
+Mycoplasme de la flavescence dorée ;
 
-Helichotylenchus sp. ;
+Mycoplasme du Grassy Shoot ;
 
-Lettuce mosaic virus ;
+Mycoplasme du jaunissement mortel (ou Letal Yellowing ou maladie de Kaincope ou maladie du cap Saint-Paul) ;
 
-Lettuce necrotic yellow virus ;
+Mycoplasme du White Leaf ;
 
-Liberobacter africanum (citrus greening bacterium) ;
+New peach mosaic virus (nouvelle mosaïque du pêcher) ;
 
-Liberobacter asiaticum (citrus greening bacterium) ;
+Papaya Bunchy top mycoplasma ;
 
-Myzus persicae ;
+Papaya ring spot virus souche P (papayers et cucurbitacées) ;
 
-Odontoglossum ring spot virus ;
+Papayer Mosaïc virus ;
 
-Panonychus citri ;
+Passion Fruit ring Spot virus ;
 
-Panonychus ulmi ;
+Passion Fruit Woodiness virus ;
 
-Papaya ring spot virus ;
+Peach latent mosaic viroid ;
 
-Peronophytophthora lichi ;
+Peanut clump virus ;
 
-Peronospora tabaci ;
+Pepper mild mottle virus (végétaux de Capsicum sp. et autres solanées) ;
 
-Phorbia brunescens ;
+Phytomonas sp. ;
 
-Phyllocnistis citrella ;
+Pineapple chlorotic streak virus (Ananas sp.) ;
 
-Plutella maculipennis - Plutella xylostella ;
+Pineapple wilt virus (maladie du wilt Ananas sp. ) ;
 
-Pseudomonas flectens ;
+Plum pox virus (virus de la sharka des rosacées à noyaux) ;
 
-Rhadopholus similis ;
+Potato Spindle Tuber Viroïd ;
 
-Rice grassy stunt virus ;
+Potato Yellow dwarf virus ;
 
-Scirtothrips citri ;
+Potato Yellow Vein virus ;
 
-Sparganothis pilleriana ;
+Spiroplasma citri (Stubborn) ;
 
-Spilonota sp. ;
+Squash Mosaïc virus ;
 
-Stephanoderes coffea ;
+Strawberry Vein Banding virus ;
 
-Thrips tabaci ;
+Sugar Cane Fiji virus ;
 
-Tomato yellow leaf curl virus ;
+Sugar Cane Mosaïc virus ;
 
-Uromyces transversalis ;
+Sugar Cane Streak virus ;
 
-Ustilaginoïdella oedipigera ;
+Sweet Potato Feathery Mottel virus ;
 
-Xanthomonas campestris pv. dieffenbachiae ;
+Sweet Potato Mild Mottle virus ;
 
-Xanthomonas campestris pv. pisi ;
+Sweet Potato Vein Mosaïc virus ;
 
-Xanthomonas fragariae.
+Sweet Potato Yellow Dwarf virus ;
 
-ii) Les organismes nuisibles visés aux annexes I et II de l'arrêté du 2 septembre 1993 modifié à l'exception de :
+Tobacco etch virus (Capsicum sp., Lycopersicon sp., Nicotiana sp.) ;
+
+Tobacco ring spot virus ;
+
+Tobacco streak virus ;
+
+Tomato aspermy virus ;
+
+Tomato bunchy top virus ;
+
+Tomato Bushy Stunt virus ;
+
+Tomato bushy stunt virus (rabougrissement de la tomate) ;
+
+Tomato spotted wilt virus ;
+
+Vanilla potyvirus ;
+
+Viroïde du Cadang Cadang ;
+
+Watermelon silver mottle virus (cucurbitacées) ;
+
+Xyloporosis viroid (Citrus sp.) ;
+
+Yam Internal Browning disease ;
+
+e) Phanérogames :
+
+Cuscuta spp. (convolvulacées) ;
+
+Cyperus spp. (cypéracées) ;
+
+Elodea spp. (hydrocharitacées) ;
+
+Salvinia molesta (salviniacées) ;
+
+Sorghum halepense (graminées) ;
+
+Striga spp. (orobanchacées) ;
+
+ii) Les organismes nuisibles visés aux annexes I et II de l'arrêté du 24 mai 2006 susmentionné, à l'exception de :
 
 Bemisia tabaci ;
 
@@ -410,7 +746,7 @@ Ditylenchus dipsaci ;
 
 Elsinoe fawcetti ;
 
-Erwinia chysanthemi pv. dianthicola ;
+Erwinia chrysanthemi pv. dianthicola ;
 
 Helicoverpa armigera ;
 
@@ -467,117 +803,3 @@ Xanthomonas campestris pv. vesicatoria ;
 Xanthomonas fragariae ;
 
 Xiphinema americanum.
-
-iii) Et les organismes nuisibles suivants :
-
-Animaux :
-
-Acysta persea (hémiptère de l'avocatier sur fruits, feuilles et fleurs) ;
-
-Cacyreus marshalli (lépidoptère des pélargonium et géranium) ;
-
-Ctenarytaina eucalypti (psylle de l'eucalyptus) ;
-
-Daktulosphaira vitifoliae (phylloxera de la vigne) ;
-
-Echinothrips americanus (thrips des Araceae et Balsaminaceae) ;
-
-Lincus spp. (punaises vectrices de dépérissements foliaires des palmacées à phytomonas "Hartrot du cocotier, Marchitez du palmier à huile)" ;
-
-Lyonetia clerkella (mineuse sinueuse) ;
-
-Maconellicoccus hirsutus (cochenille rose de l'hibiscus) ;
-
-Megastes grandalis (pyrale de la patate douce "Ipomea batatas") ;
-
-Merodon equestris (mouche des bulbes) ;
-
-Metcalfa pruinosa (cicadelle) ;
-
-Myndus spp. (cicadelles cixiidées vectrices du dépérissement foliaire viral "CFDV" et du jaunissement mortel "Lethal yellowing MLO") ;
-
-Ochlerus spp. (punaises vectrices de dépérissements foliaires des palmacées à phytomonas "Hartrot du cocotier") ;
-
-Otiorrhynchus spp. (otiorrhynques) ;
-
-Parlagena benetti (cochenille du cocotier) ;
-
-Phthorimea operculella (teigne de la pomme de terre) ;
-
-Phyllophaga smithii (hanneton de la Barbade et de Maurice) ;
-
-Prostephanus truncatus (grand capucin du maïs) ;
-
-Pseudococcus viburni (cochenille farineuse de la tomate) ;
-
-Quadraspidiotus perniciosus (pou de San José) ;
-
-Recilia mica (cicadelle responsable du <" blast "> des palmiers) ;
-
-Sogatella kolophon et S. cubana (homoptères responsables de la pourriture sèche du coeur de cocotier) ;
-
-Sternochetus mangiferae (charançon de la graine de Mangifera indica sur fruits et semences) ;
-
-Tephritidées à l'exception de Pardalaspis cyanescens, Ceratitis rosa, Ceratitis cattoirii, Dacus ciliatus, Bactrocera cucurbitae, Dacus demmerezi (mouches des fruits) ;
-
-Thaumetopoea pityocampa (processionnaire du pin).
-
-Bactéries :
-
-Erwinia amylovora (feu bactérien des rosacées pomoïdées) ;
-
-Phytomonas sp. (responsable de dépérissements sur végétaux de Cocos nucifera et palmier à huile) ;
-
-Pseudomonas andropogoni (sorgho, canne à sucre) ;
-
-Pseudomonas syringae pv. purpurea (plants, fruits et semences d'avocat) ;
-
-Xanthomonas campestris pv. celebensis (végétaux de Musa spp.).
-
-Cryptogames :
-
-Diplodia natalensis (chancre de l'avocatier) ;
-
-Elsinoe sp., Sphaeceloma sp. (tavelures des agrumes) ;
-
-Peronospora litchi (mildiou du litchi) ;
-
-Phytophthora rubi (dépérissement du framboisier) ;
-
-Piricularia oryzae (piriculariose du riz "Oryza sativae L" sur semences et végétaux).
-
-Virus et pathogènes similaires aux virus :
-
-Bamboo mosaic virus (végétaux de Bambusa spp.) ;
-
-Coconut foliar decay virus (dépérissement foliaire du cocotier) ;
-
-Hibiscus chlorotic ringspot virus (Hibiscus, Rosa sinensis) ;
-
-Hibiscus latent ringspot virus (Hibiscus, Rosa sinensis) ;
-
-Impatiens necrotic spot virus (virus nécrotique de l'impatiens "nombreuses plantes hôtes") ;
-
-Maracudja mosaic virus (Passiflora spp.) ;
-
-New peach mosaic virus (nouvelle mosaïque du pêcher) ;
-
-Papaya ring spot virus souche P (papayers et cucurbitacées) ;
-
-Peach latent mosaic viroid ;
-
-Pepper mild mottle virus (végétaux de Capsicum sp. et autres solanées) ;
-
-Pineapple chlorotic streak virus (Ananas sp.) ;
-
-Pineapple wilt virus (maladie du wilt "Ananas sp.") ;
-
-Plum pox virus (virus de la sharka des rosacées à noyaux) ;
-
-Tobacco etch virus (Capsicum sp., Lycopersicon sp., Nicotiana sp.) ;
-
-Tomato bushy stunt virus (rabougrissement de la tomate) ;
-
-Watermelon silver mottle virus (cucurbitacées) ;
-
-Xyloporosis viroid (Citrus sp.).

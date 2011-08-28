@@ -1,5 +1,0 @@
-# Article Annexe III
-
-Ex 0602.10 ; Ex 0602.20 ; Ex 0602.99 ; Ex 0604.91 ; Ex 0604.99 ; Ex 1212.99.
-
-1. Sans préjudice des interdictions applicables aux végétaux visés aux points 9 et 18 de la partie A de l'annexe III : végétaux et pollen vivant destiné à la pollinisation de Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill. (cognassier), Eriobotrya Lindl. L., Malus Mill. (pommier), Mespilus L. (néflier), Pyracantha Roem., Pyrus L. (poirier), Sorbus L. (sorbier), autre que Sorbus intermedia (Ehrh.) Pers., Stranvaesia Lindl., à l'exception des fruits et semences, originaires de pays tiers autres que ceux reconnus exempts d'Erwinia amylovora (Burr.) Winsl. et al. : Espagne, France (Champagne-Ardenne, Alsace, excepté le département du Bas-Rhin, Lorraine, Franche-Comté, Rhône-Alpes, excepté le département du Rhône, Bourgogne, Auvergne, excepté le département du Puy-de-Dôme, Provence-Alpes-Côte d'Azur, Corse, Languedoc-Roussillon), Irlande, Italie, Portugal, Royaume-Uni (Irlande du Nord, île de Man et les îles anglo-normandes), Autriche, France, Finlande.
