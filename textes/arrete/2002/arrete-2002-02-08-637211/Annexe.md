@@ -16,131 +16,57 @@ Autres personnels
 
 |
 
-DGI
+DGFiP
 
 |
 
-Responsable d'un service déconcentré
+Administrateur général des finances publiques
+
+Administrateur des finances publiques
+
+Administrateur des finances publiques adjoint
+
+Inspecteur principal des finances publiques
+
+Inspecteur divisionnaire des finances publiques
+
+Inspecteur des finances publiques, responsable d'un poste comptable ou chef de service
+
+Conservateur des hypothèques
+
+Chef des services fiscaux Directeur départemental des impôts
+
+Trésorier-payeur général
+
+Receveur des finances de 1re catégorie
+
+Chef des services du Trésor public
 
 |
 
-Vérificateur
+Inspecteur vérificateur
 
-|
+Agent (inspecteur, B ou C) des brigades de contrôle et de recherche
 
-Responsable d'un service à compétence nationale et assistant
+Inspecteur en administration centrale
 
-|
+Agent (inspecteur ou B) chargé des fonctions d'huissier
 
-Inspecteur des brigades de contrôle et de recherche
+Assistant auditeur
 
-|
+Agent enquêteur (B ou C)
 
-Responsable d'un centre des impôts et adjoint (A 2e niveau)
+Agent (inspecteur, B ou C) des services de contrôle de la redevance audiovisuelle
 
-|
+Contrôleur commissionné
 
-Agent des brigades de contrôle et de recherche (B ou C)
+Agent (inspecteur, B ou C) des équipes mobiles de renfort
 
-|
+Chargé d'enseignement auprès des établissements nationaux de formation
 
-Responsable d'une recette principale ou d'une recette divisionnaires et adjoint de catégorie A 2e niveau)
+Chargé de l'assistance informatique
 
-|
-
-Chargés de mission d'enseignement des établissements nationaux de formation
-
-|
-
-Responsable d'un centre des impôts fonciers (A 1er et 2e niveaux)
-
-|
-
-Conservateur des hypothèques et adjoint (A 2e niveau)
-
-|
-
-Responsable de division dans des services déconcentrés ou des services à compétence nationale
-
-|
-
-Responsable d'une section dans les services centraux et adjoint (A 2e niveau)
-
-|
-
-Chef de brigade
-
-|
-
-Inspecteur principal des services
-
-|
-
-DGCP
-
-|
-
-Receveur des finances
-
-|
-
-Assistants de vérification
-
-|
-
-Directeur départemental
-
-|
-
-Huissiers du Trésor public
-
-|
-
-Inspecteur principal
-
-|
-
-Agents enquêteurs
-
-|
-
-Chef de poste
-
-|
-
-Producteurs CNP
-
-|
-
-Chef de division
-
-|
-
-Chargés de micro-informatique et bureautique
-
-|
-
-Chef de service
-
-|
-
-Chargés de mission
-
-|
-
-Adjoint au chef de poste
-
-|
-
-Personnels des centres de contrôle de la redevance
-
-|
-
-Chef de secteur (administration centrale)
-
-|
-
-Contrôleurs commissionnés
+Chargé de mission
 
 |
 
@@ -306,13 +232,9 @@ Chargé de mission en subdivision
 
 |
 
-|
-
-Cadre fonctionnel en division ou en bureau national et au secrétariat général
-
-|
-
 Chef de division et adjoints
+
+|
 
 |
 

@@ -1254,100 +1254,6 @@ A compter du 1er août 1996
 
 |
 
-Assistant ingénieur
-
-|
-
-366 - 660
-
-(250)(280)(300)(330)
-
-|
-
-A compter du 1er janvier 1997
-
-Echelons provisoires
-
-|
-
-Technicien
-
-classe exceptionnelle
-
-classe supérieure
-
-classe normale
-
-|
-
-425 - 612
-
-384 - 579
-
-306 - 544
-
-(250)(280)
-
-|
-
-A compter du 1er août 1994
-
-A compter du 1er août 1995
-
-A compter du 1er août 1995
-
-|
-
-Adjoint technique principal de recherche et de formation
-
-1re classe
-
-2e classe
-
-|
-
-E 6
-
-E 5
-
-|
-
-|
-
-Adjoint technique de recherche et de formation
-
-1re classe
-
-2e classe
-
-|
-
-E 4
-
-E 3
-
-|
-
-|
-
-Chargé d'administration de la recherche
-
-1re classe
-
-2e classe
-
-|
-
-616 - 841
-
-457 - 721
-
-|
-
-en extinction D.2002-136
-
-|
-
 Grades et emplois
 
 |
@@ -1395,26 +1301,6 @@ A compter du 1er août 1995
 A compter du 1er août 1995
 
 A compter du 1er août 1993
-
-|
-
-Secrétaire d'administration de recherche et de formation
-
-classe exceptionnelle
-
-classe supérieure
-
-classe normale
-
-|
-
-425 - 612
-
-399- 579
-
-306 - 544
-
-|
 
 |
 

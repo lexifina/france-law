@@ -304,7 +304,7 @@ Passage des ponts, barrages et écluses
 
 6.28 bis Entrée et sortie des écluses.
 
-6.29 Ordre de passage aux écluses.
+6.29 Priorité de passage aux écluses.
 
 Section VI
 
@@ -364,9 +364,9 @@ Articles
 
 8.09 (sans objet).
 
-8.10 Signal n'approchez pas .
+8.10 Signal "n'approchez pas".
 
-8.11 Sécurité à bord des bateaux à passagers.
+8.11 Sécurité à bord des bâtiments autorisés au transport de plus de 12 passagers.
 
 8.12 Utilisation des embarcadères pour les bateaux à passagers.
 
@@ -442,10 +442,6 @@ Annexe 9 : (sans objet).
 
 Annexe 10 : Modèle de carnet de contrôle des huiles usées.
 
-Annexe 11 : (sans objet).
-
-Annexe 12 : (sans objet).
-
 NOTA :
 
-Conformément à la décision CM-I-9-7.1-1 du 5 juin 2009, les amendements aux articles 8.01, 1.10 et 8.07 du RPNM entrent en vigueur au 1er janvier 2010. Les prescriptions encore valables au 1er janvier 2010 seront abrogées à cette date.
+Conformément à la décision CM-II-10-2.2 du 3 décembre 2010, les Etats riverains sont priés de procéder à une entrée en vigueur de cet amendement au 1er septembre 2011. Les prescriptions encore valables au 1er septembre 2011 seront abrogées à cette date.

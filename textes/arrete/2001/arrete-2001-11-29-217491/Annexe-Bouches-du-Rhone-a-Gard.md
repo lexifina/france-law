@@ -350,6 +350,118 @@ C
 
 |
 
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DU CALVADOS
+
+FONCTIONS EXERCÉES
+
+|
+
+NIVEAU
+
+de qualification
+
+de l'emploi
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS
+
+(IM) par emploi
+
+|
+
+Responsable délégation territoriale Sud Pays d'Auge en charge du renouvellement urbain de Lisieux au bureau de pilotage du réseau territorial
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Responsable de l'unité rénovation urbaine au service habitat rénovation urbaine
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+DIRECTION DÉPARTEMENTALE DE LA COHÉSION SOCIALE DU CALVADOS
+
+FONCTIONS EXERCÉES
+
+|
+
+NIVEAU
+
+de qualification
+
+de l'emploi
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS
+
+(IM) par emploi
+
+|
+
+Responsable de l'unité traitement des situations individuelles
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30 points
+
+|
+
+Gestionnaire au sein de la CDAPL, chargé de la présidence de la CDAPL en cas d'absence du titulaire
+
+|
+
+C
+
+|
+
+1
+
+|
+
+10 points
+
+|
+
 Direction départementale de l'équipement de la Charente
 
 FONCTIONS EXERCEES
