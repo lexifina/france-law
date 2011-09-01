@@ -568,6 +568,20 @@ Jusqu'au 31 décembre 1998, inscription des candidats aux concours d'accès aux 
 
 |
 
+Décret n° 2011-995 du 23 août 2011 relatif au diplôme supérieur d'arts appliqués
+
+1
+
+|
+
+Autorisation d'ouverture des formations conduisant aux diplômes supérieurs d'arts appliqués.
+
+|
+
+Article 3
+
+|
+
 RECHERCHE
 
 Décret n° 71-742 du 6 septembre 1971 et décret n° 74-899 du 17 octobre 1974 relatifs à l'attribution du titre de docteur honoris causa
