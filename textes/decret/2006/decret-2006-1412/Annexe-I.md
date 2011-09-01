@@ -56,7 +56,7 @@ Fonctions administratives correspondant à celles dévolues au corps d'accueil.
 
 |
 
-Contrôleurs des impôts.
+Contrôleurs des finances publiques .
 
 |
 
