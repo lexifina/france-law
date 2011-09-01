@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719553
+
+- Question : [SEQ110719553](seq110719553.md) — Maintien des droits de plantation
+
+## Réponse
+
+*Agriculture, JO du 2011-09-01, page 2272*
+
+La suppression du régime des droits de plantation a été décidée lors de la réforme de l'organisation commune de marché vitivinicole, fin 2008, sur proposition de la Commission européenne, afin de favoriser une adaptation de l'offre en fonction des signaux du marché et de la demande. Le Président de la République et le Gouvernement ont rappelé, à plusieurs reprises, leur attachement à la régulation des marchés agricoles. Lors d'un déplacement viticole dans le Vaucluse, le 28 juillet dernier, le Président de la République a affirmé, avec force, son opposition à la suppression des droits de plantation, estimant que le maintien de ce dispositif de régulation était indispensable pour garantir la santé économique du secteur. Le Gouvernement est convaincu de l'importance d'instruments de régulation pour assurer aux agriculteurs un revenu décent et stable. À l'initiative des autorités françaises, la position commune franco-allemande, signée le 14 septembre 2010, place la régulation des marchés agricoles au coeur des négociations pour la future politique agricole commune. C'est sur cette même ligne que la France a rallié les onze États principaux producteurs de vin. Une lettre commune adressée au commissaire européen Dacian Ciolos, le 14 avril dernier, appelle ainsi la Commission européenne à prendre en compte, à l'occasion des prochaines échéances communautaires, l'opposition de ces États membres à la suppression des droits de plantation. Le Gouvernement est ainsi déterminé à poursuivre le combat engagé en faveur de la régulation, au service de la viticulture française et européenne, et reste très mobilisé pour le maintien du régime des droits de plantation.
