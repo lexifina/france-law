@@ -114,7 +114,7 @@ D. Taxis et voitures de tourisme avec chauffeur
 
 |
 
-Licence de circulation pour les véhicules de grande remise
+Néant
 
 |
 
@@ -126,15 +126,7 @@ Licence de circulation pour les véhicules de grande remise
 
 |
 
-Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme |
-
-Néant pour les autres véhicules
-
-|
-
 Articles L. 231-1 à L. 231-3 et R. 231-1 à R. 231-6 du code du tourisme
-
-|
 
 Arrêté préfectoral
 
