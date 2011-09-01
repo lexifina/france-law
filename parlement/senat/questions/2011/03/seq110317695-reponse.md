@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317695
+
+- Question : [SEQ110317695](seq110317695.md) — Dotation d'équipement des territoires ruraux
+
+## Réponse
+
+*Collectivités territoriales, JO du 2011-09-01, page 2275*
+
+La loi de finances pour 2011 a créé la dotation d'équipement des territoires ruraux (DETR), issue de la fusion de la dotation globale d'équipement (DGE) des communes et de la dotation de développement rural (DDR). Cette dotation unique a permis de simplifier les modalités d'attribution des subventions aux communes et aux EPCI ainsi que les modalités de répartition des enveloppes départementales. La DETR permet de financer des projets d'investissement, ainsi qu'une partie limitée des dépenses de fonctionnement nécessaires notamment au démarrage des projets subventionnés. Le montant de la nouvelle dotation pour 2011 correspond à la somme des montants des deux dotations préexistantes, à savoir 615,3 M€. Les critères d'éligibilité des bénéficiaires ont été très largement simplifiés. La DETR vise à subventionner les dépenses d'équipement des communes et groupements de communes, situés essentiellement en milieu rural. Le champ d'éligibilité des projets est élargi. Tout projet dans le domaine économique, social, environnemental et touristique ou favorisant le développement ou le maintien des services publics en milieu rural est éligible, avec un encadrement pour les dépenses de fonctionnement courant. Tout comme pour la DGE des communes et la DDR, la gestion de cette nouvelle dotation est très largement déconcentrée afin d'adapter au mieux les attributions aux besoins exprimés localement. Le représentant de l'État, assisté d'une commission unique d'élus procède chaque année à la répartition des crédits. S'agissant de la commission, outre la liste des catégories d'opérations et les taux de subvention, elle donne son avis sur les projets les plus structurants, à savoir ceux dont la subvention envisagée au titre de la DETR est supérieure à 150 000 €.
