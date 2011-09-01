@@ -76,7 +76,7 @@ Inspecteurs principaux
 
 |
 
-Directeurs divisionnaires
+Administrateurs des finances publiques adjoints
 
 |
 
@@ -722,7 +722,7 @@ Secrétaires administratifs de la Caisse nationale du crédit agricole
 
 |
 
-Contrôleurs des impôts
+Contrôleurs des finances publiques
 
 |
 
@@ -1104,15 +1104,11 @@ Adjoints administratifs de l'Institut national de la statistique et des études 
 
 |
 
-Agents administratifs des impôts
+Agents administratifs des finances publiques
 
 |
 
 Agents de constatation des douanes
-
-|
-
-Agents d'administration du Trésor public
 
 |
 
@@ -1132,11 +1128,7 @@ Adjoints techniques
 
 |
 
-Adjoints techniques des impôts
-
-|
-
-Adjoints techniques du Trésor public
+Agents techniques des finances publiques
 
 |
 
