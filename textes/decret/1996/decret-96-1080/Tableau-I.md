@@ -3552,7 +3552,9 @@ Etat.
 
 Signification en
 
-provenance d'un autre
+provenance d'un
+
+autre
 
 Etat.
 
@@ -3562,7 +3564,9 @@ Etat.
 
 n° 1348/2000 du
 
-Conseil du 29 mai 2000.
+Conseil du
+
+29 mai 2000.
 
 - article 688-2 du
 
@@ -3600,7 +3604,9 @@ signification ou de
 
 notification dans un
 
-autre Etat étranger. |
+autre Etat étranger.
+
+|
 
 - règlement (CE)
 
@@ -3617,6 +3623,264 @@ NCPC.
 |
 
 16,5
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+Scellés
+
+|
+
+110
+
+|
+
+Procès-verbal d’apposition
+
+des scellés sans diligences
+
+particulières
+
+|
+
+Art. 1308 CPC
+
+|
+
+51,5
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+|
+
+111
+
+|
+
+Procès-verbal d’apposition
+
+des scellés donnant lieu
+
+à des diligences particulières
+
+|
+
+Art. 1311 CPC
+
+Art. 1312 CPC
+
+Art. 1313 CPC
+
+Art. 1314 CPC
+
+|
+
+67
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+|
+
+112
+
+|
+
+Procès-verbal de carence
+
+|
+
+Art. 1304 CPC
+
+|
+
+15,5
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+|
+
+113
+
+|
+
+Sommation d’assister
+
+aux opérations de levée des scellés
+
+|
+
+Art. 1317 CPC
+
+|
+
+11,5
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+|
+
+114
+
+|
+
+Acte d’inventaire lors de la levée des scellés
+
+|
+
+Art. 1319 CPC
+
+|
+
+26,5
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+|
+
+115
+
+|
+
+Procès-verbal de levée
+
+des scellés
+
+|
+
+Art. 1320 CPC
+
+|
+
+51,5
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+|
+
+116
+
+|
+
+Etat descriptif
+
+|
+
+Art. 1323 CPC
+
+|
+
+30
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+|
+
+117
+
+|
+
+Etat descriptif avec diligences particulières
+
+|
+
+Art. 1312 CPC
+
+Art. 1313 CPC
+
+Art. 1314 CPC
+
+|
+
+45,5
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+|
+
+118
+
+|
+
+Procès-verbal de déplacement des scellés
+
+|
+
+Art. 1324 CPC
+
+|
+
+15,5
 
 |
 
