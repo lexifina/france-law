@@ -18,7 +18,7 @@ Nombre de points par emploi à compter du 1er août 1992
 
 |
 
-I. - Emplois d'encadrement liés à la mise en œuvre du programme immobilier et à la modernisation de la police
+I.-Emplois d'encadrement liés à la mise en œuvre du programme immobilier et à la modernisation de la police
 
 |
 
@@ -28,7 +28,7 @@ I. - Emplois d'encadrement liés à la mise en œuvre du programme immobilier et
 
 |
 
-I. - 1. Emplois d'encadrement liés à la mise en œuvre du programme immobilier :
+I.-1. Emplois d'encadrement liés à la mise en œuvre du programme immobilier :
 
 |
 
@@ -70,7 +70,7 @@ C
 
 |
 
-I. - 2. Emplois d'encadrement liés à la modernisation de la police :
+I.-2. Emplois d'encadrement liés à la modernisation de la police :
 
 |
 
@@ -108,7 +108,7 @@ C
 
 |
 
-II. - Emplois requérant une technicité particulière
+II.-Emplois requérant une technicité particulière
 
 |
 
@@ -118,7 +118,7 @@ II. - Emplois requérant une technicité particulière
 
 |
 
-II. - 1. Emplois de gestionnaire immobilier et de responsable de la définition des programmes immobiliers :
+II.-1. Emplois de gestionnaire immobilier et de responsable de la définition des programmes immobiliers :
 
 |
 
@@ -144,7 +144,7 @@ A
 
 |
 
-II. - 2. Emplois requérant une technicité particulière en matière d'études, de moyens de fonctionnement, d'habillement, de véhicules ou d'armement :
+II.-2. Emplois requérant une technicité particulière en matière d'études, de moyens de fonctionnement, d'habillement, de véhicules ou d'armement :
 
 |
 
@@ -154,7 +154,7 @@ II. - 2. Emplois requérant une technicité particulière en matière d'études,
 
 |
 
-Chef de section de l'habillement, des moyens de fonctionnement des moyens mobiles, de l'armement des marchés et de la modernisation des S.G.A.P. en administration centrale
+Chef de section de l'habillement, des moyens de fonctionnement des moyens mobiles, de l'armement des marchés et de la modernisation des S. G. A. P. en administration centrale
 
 |
 
@@ -198,7 +198,7 @@ B
 
 |
 
-II. - 3. Emplois hautement spécialisés de la direction de la sécurité civile :
+II.-3. Emplois hautement spécialisés de la direction générale de la sécurité civile et de la gestion des crises :
 
 |
 

@@ -490,7 +490,7 @@ Brignoles
 
 |
 
-Chef de service et chef du bureau "opérations" dans une formation (officier)
+Chef de service et chef du bureau " opérations " dans une formation (officier)
 
 |
 
@@ -852,7 +852,7 @@ Chef de détachement, chef de centre spécialisé, chef de district (officier ou
 
 |
 
-Chef du centre de transmissions de la direction de la sécurité civile
+Chef du centre de transmissions de la direction générale de la sécurité civile et de la gestion des crises
 
 |
 

@@ -376,7 +376,7 @@ NOMBRE d'emplois
 
 |
 
-Direction de la sécurité civile
+Direction générale de la sécurité civile et de la gestion des crises
 
 |
 

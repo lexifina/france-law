@@ -1,6 +1,8 @@
 # Article Annexe I
 
-LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRALE ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
+LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRALE
+
+ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 
 LOCALISATION DE L'EMPLOI
 
@@ -40,25 +42,33 @@ Direction des libertés publiques et des affaires juridiques.
 
 Chef du bureau de la nationalité, des titres d'identité et de voyage.
 
-Chef du bureau du contentieux des polices administratives.
-
-Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières.
-
-Chef du bureau du droit et des procédures d'expulsion.
-
 |
 
 60
 
+|
+
+Chef du bureau du contentieux des polices administratives. |
+
 50
 
-30
+|
+
+Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières.
+
+|
 
 30
 
 |
 
-Direction de la sécurité civile.
+Chef du bureau du droit et des procédures d'expulsion. |
+
+30
+
+|
+
+Direction générale de la sécurité civile et de la gestion des crises.
 
 |
 
@@ -70,15 +80,11 @@ Chef du bureau des affaires financières et juridiques.
 
 |
 
-|
-
 Chef du bureau du statut, du management et du dialogue social.
 
 |
 
 30
-
-|
 
 |
 
@@ -90,15 +96,11 @@ Adjoint au chef du groupement d'hélicoptères.
 
 |
 
-|
-
 Adjoint administratif du chef de la base avions de la sécurité civile.
 
 |
 
 30
-
-|
 
 |
 
@@ -140,23 +142,39 @@ Direction de l'évaluation de la performance et des affaires financières et imm
 
 Chef du bureau du budget et du fonctionnement.
 
-Chef du bureau de la qualité juridique et comptable.
-
-Chef du centre de service Chorus pour l'administration générale.
-
-Adjoint au chef du bureau de la synthèse budgétaire et financière.
-
-Adjoint au chef du bureau des affaires immobilières d'administration centrale.
-
 |
 
 60
 
+|
+
+Chef du bureau de la qualité juridique et comptable.
+
+|
+
 50
 
-30
+|
+
+Chef du centre de service Chorus pour l'administration générale.
+
+|
 
 30
+
+|
+
+Adjoint au chef du bureau de la synthèse budgétaire et financière.
+
+|
+
+30
+
+|
+
+Adjoint au chef du bureau des affaires immobilières d'administration centrale.
+
+|
 
 30
 
@@ -174,15 +192,11 @@ Adjoint au chef du bureau des polices administratives
 
 |
 
-|
-
 Chef du bureau de la sécurité et de la réglementation routières.
 
 |
 
 30
-
-|
 
 |
 
@@ -218,15 +232,11 @@ Chef du bureau des ressources, de l'information et de l'accueil.
 
 |
 
-|
-
 Chef du bureau des affaires financières et de l'évaluation de la dépense.
 
 |
 
 30
-
-|
 
 |
 
@@ -238,15 +248,11 @@ Adjoint au chef du bureau des personnels administratifs.
 
 |
 
-|
-
 Adjoint au chef du bureau des personnels techniques et spécialisés.
 
 |
 
 30
-
-|
 
 |
 
@@ -258,15 +264,11 @@ Chef de la mission projets professionnels.
 
 |
 
-|
-
 Chef de cabinet.
 
 |
 
 30
-
-|
 
 |
 
@@ -288,15 +290,11 @@ Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat.
 
 |
 
-|
-
 Chef du bureau de l'emploi territorial et de la protection sociale.
 
 |
 
 30
-
-|
 
 |
 
@@ -320,15 +318,11 @@ Chef du bureau des affaires disciplinaires.
 
 |
 
-|
-
 Chef du bureau des personnels administratifs, techniques et scientifiques. (1)
 
 |
 
 50
-
-|
 
 |
 
@@ -340,15 +334,11 @@ Chef du bureau de la sécurité et de la santé au travail.
 
 |
 
-|
-
 Chef du département de la coordination des établissements.
 
 |
 
 50
-
-|
 
 |
 
@@ -360,15 +350,11 @@ Chef du bureau de l'habillement.
 
 |
 
-|
-
 Chef du bureau de la gestion et de la formation des personnels.
 
 |
 
 30
-
-|
 
 |
 
@@ -380,15 +366,11 @@ Chef de la division de l'organisation des concours et examens professionnels.
 
 |
 
-|
-
 Chef de cabinet du directeur des ressources et des compétences de la police nationale.
 
 |
 
 30
-
-|
 
 |
 
@@ -400,8 +382,6 @@ Chef de la mission CHORUS de la police nationale.
 
 |
 
-|
-
 Chef de la division de la programmation.
 
 |
@@ -410,15 +390,11 @@ Chef de la division de la programmation.
 
 |
 
-|
-
 Chef de la division de la formation des personnels administratifs, techniques et scientifiques.
 
 |
 
 50
-
-|
 
 |
 
@@ -506,15 +482,11 @@ Chef du 2e bureau.
 
 |
 
-|
-
 Chef du 3e bureau.
 
 |
 
 50
-
-|
 
 |
 
@@ -526,15 +498,11 @@ Chef du 4e bureau.
 
 |
 
-|
-
 Chef du 5e bureau.
 
 |
 
 50
-
-|
 
 |
 
@@ -546,15 +514,11 @@ Chef du 6e bureau.
 
 |
 
-|
-
 Chef du 7e bureau.
 
 |
 
 50
-
-|
 
 |
 
@@ -566,15 +530,11 @@ Chef du 8e bureau.
 
 |
 
-|
-
 Chef du 9e bureau.
 
 |
 
 50
-
-|
 
 |
 
@@ -603,6 +563,8 @@ Chef du bureau des établissements recevant du public.
 Chef du bureau de la sécurité de l'habitat.
 
 |
+
+50
 
 50
 

@@ -40,7 +40,7 @@ A compter du 1er août 1994
 
 |
 
-I. - Fonctions d'encadrement liées à la mise en oeuvre du programme immobilier et à la modernisation de la police
+I.-Fonctions d'encadrement liées à la mise en oeuvre du programme immobilier et à la modernisation de la police
 
 |
 
@@ -68,7 +68,7 @@ I-1. Emplois d'encadrement liés à la mise en oeuvre du programme immobilier
 
 |
 
-- Responsable du secteur immobilier dans le cadre de la politique de régionalisation
+-Responsable du secteur immobilier dans le cadre de la politique de régionalisation
 
 |
 
@@ -92,7 +92,7 @@ A
 
 |
 
-- Chef d'atelier en administration centrale
+-Chef d'atelier en administration centrale
 
 |
 
@@ -126,7 +126,7 @@ I-2. Emplois d'encadrement liés à la modernisation de la police :
 
 |
 
-- Adjoint au chef d'atelier central automobile de la police
+-Adjoint au chef d'atelier central automobile de la police
 
 |
 
@@ -146,7 +146,7 @@ A
 
 |
 
-- Chef d'annexe de secrétariat général pour l'administration de la police ou chef d'atelier avancé
+-Chef d'annexe de secrétariat général pour l'administration de la police ou chef d'atelier avancé
 
 |
 
@@ -190,7 +190,7 @@ C
 
 |
 
-II. - Fonctions requérant une technicité particulière
+II.-Fonctions requérant une technicité particulière
 
 |
 
@@ -242,7 +242,7 @@ II-2. Emplois requérant une technicité particulière :
 
 |
 
-- chef de section de l'habillement, des moyens de fonctionnement, des moyens mobiles, de l'armement, des marchés et de la modernisation des SGAP en administration centrale.
+-chef de section de l'habillement, des moyens de fonctionnement, des moyens mobiles, de l'armement, des marchés et de la modernisation des SGAP en administration centrale.
 
 |
 
@@ -266,7 +266,7 @@ A
 
 |
 
-- Responsable de l'habillement, des moyens de fonctionnement, des moyens mobiles, de l'armement, des marchés et de la modernisation des SGAP en SGAP
+-Responsable de l'habillement, des moyens de fonctionnement, des moyens mobiles, de l'armement, des marchés et de la modernisation des SGAP en SGAP
 
 |
 
@@ -300,7 +300,7 @@ B
 
 |
 
-II-3 Emplois hautement spécialisés de la direction de la sécurité civile :
+II-3 Emplois hautement spécialisés de la direction générale de la sécurité civile et de la gestion des crises :
 
 |
 
@@ -314,7 +314,7 @@ II-3 Emplois hautement spécialisés de la direction de la sécurité civile :
 
 |
 
-- adjoint au directeur de l'ESOL Nord
+-adjoint au directeur de l'ESOL Nord
 
 |
 
@@ -338,7 +338,7 @@ A
 
 |
 
-- adjoint au directeur de l'ESOL Ouest
+-adjoint au directeur de l'ESOL Ouest
 
 |
 
@@ -386,7 +386,7 @@ B
 
 |
 
-- conseiller technique du chef du bureau du déminage pour les munitions chimiques (identification, élimination)
+-conseiller technique du chef du bureau du déminage pour les munitions chimiques (identification, élimination)
 
 |
 
