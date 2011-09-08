@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719507
+
+- Question : [SEQ110719507](seq110719507.md) — Calendrier des travaux de la mise à 2 x 2 voies de la RN 124 entre Auch et Toulouse
+
+## Réponse
+
+*Écologie, JO du 2011-09-08, page 2341*
+
+L'État est conscient de l'importance que revêt l'aménagement à 2×2 voies de la RN 124 pour le développement économique et touristique du département du Gers. En l'espèce, l'aménagement de la RN 124 relève désormais des programmes de modernisation des itinéraires routiers ou PDMI qui succèdent au volet routier des contrats de plan État-régions. La multiplicité des aménagements à réaliser et les contraintes budgétaires régissant l'e×ercice PDMI ont rendu l'élaboration des PDMI délicate au plan national. Toutefois, la mobilisation des collectivités territoriales de Midi-Pyrénées au côté de l'État a permis l'élaboration d'un PDMI ambitieu× pour répondre au× enjeu× de cette région et notamment des territoires traversés par la RN 124. Quatre opérations s'inscrivant dans la mise à 2×2 voies de la RN 124 entre Auch et Toulouse ont été inscrites au PDMI de la région Midi-Pyrénées pour un montant de 219 M€ : la déviation de Léguevin (4 M€), l'aménagement entre Auch et Aubiet (40 M€), la déviation de Gimont (95 M€), le raccordement Gimont-L'Isle Jourdain (80 M€). Il convient de rappeler que, dans ce cadre, la déviation de Léguevin (12 km) a été mise en service en juillet 2009 et que la mise en service du tronçon Auch-Aubiet (8,4 km) devrait intervenir à la fin 2012. La déviation de Gimont (11,5 km) fait l'objet d'études de niveau « projet ». Le démarrage des travau× est prévu en 2012. Sa mise en service devrait intervenir début 2016. Enfin, le raccordement Gimont-L'Isle Jourdain (10,5 km) fait également l'objet d'études de niveau « projet ». Le démarrage des travau× est prévu en 2013. Sa mise en service devrait intervenir en 2017. L'État souhaite avancer de façon significative sur l'aménagement à 2×2 voies de la RN 124.
