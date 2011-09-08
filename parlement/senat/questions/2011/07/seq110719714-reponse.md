@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719714
+
+- Question : [SEQ110719714](seq110719714.md) — Difficultés rencontrées par les éleveurs caprins deux-sévriens
+
+## Réponse
+
+*Agriculture, JO du 2011-09-08, page 2327*
+
+La filière laitière caprine est en effet confrontée depuis début 2010 à une crise économique importante. Une forte augmentation des importations associée à une hausse significative de la collecte nationale et un tassement important de la consommation des fromages de chèvres ont conduit à un excédent d'offre de lait de chèvre qui s'est traduit par une baisse significative du prix payé aux producteurs. Le surstock de lait ainsi engendré semble aujourd'hui difficile à résorber. Un certain nombre de mesures destinées à soutenir la filière caprine ont été mises en oeuvre depuis 2010. En effet, dans le cadre du bilan de santé de la Politique agricole commune, la France a choisi de mettre en place, à partir de la campagne 2010, une aide de 10 M€ aux éleveurs caprins qui bénéficie à ce jour à plus de 5 000 producteurs. Par ailleurs, concernant l'accompagnement global de la filière, l'État a cofinancé, en 2010 et en 2011, une action exceptionnelle de promotion collective initiée par l'interprofession caprine, pour des montants respectifs de 500 000 € et de 400 000 €. Enfin, eu égard aux difficultés persistantes dans la filière et comme pour toute filière d'élevage en crise, des réponses structurelles doivent être apportées dans une stratégie globale de modernisation et d'amélioration de la compétitivité. Le ministre chargé de l'agriculture a ainsi missionné le 25 juillet 2011 le conseil général de l'alimentation, de l'agriculture et des espaces ruraux pour dresser un état des lieux de cette filière et mettre en lumière les leviers de compétitivité existant. Son analyse devra servir de socle à la définition d'un plan stratégique pour la filière laitière caprine.
