@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110618991
+
+- Question : [SEQ110618991](seq110618991.md) — Difficultés des entreprises concernées par les sites Seveso à proximité du pôle chimique de Carling
+
+## Réponse
+
+*Écologie, JO du 2011-09-08, page 2337*
+
+La loi n° 699-2003 du 30 juillet 2003 prévoit l'instauration de plans de prévention des risques technologiques (PPRT). Ils ont pour objectif d'aboutir à une judicieuse coexistence entre les sites à risques et leur environnement et de garantir la protection des populations riveraines. Ainsi, le PPRT doit permettre de se projeter dans un aménagement du territoire durable. Dans cette optique, la coexistence des activités économiques est un véritable enjeu ; leur protection s'avère donc impérative. Certains PPRT concernant des plates-formes industrielles multi-exploitants comme à Carling sont délicats à traiter du point de vue de la gestion du risque et ont donc été qualifiés de complexes. En cas de besoin, le préfet peut proroger leur délai d'élaboration. Conscient de ces difficultés et afin d'aider à la mise en place de solutions pertinentes, le ministère a donné récemment des outils aux services déconcentrés de l'État concernant le traitement des activités économiques. Ces outils ont été élaborés en collaboration avec les représentants des industriels, des élus et des associations. Durant les phases de concertation et d'instruction du PPRT et dans l'attente de son approbation, les différents projets des entreprises concernées sont examinés au cas par cas par le préfet et les services déconcentrés de l'État afin de ne pas pénaliser leur développement économique mais tout en garantissant une urbanisation maîtrisée autour des sites SEVESO. Afin d'aboutir à des règles claires et précises qui permettent aux entreprises d'avoir une meilleure visibilité pour leur développement, il est dans l'intérêt de tous d'approuver les PPRT au plus vite.
