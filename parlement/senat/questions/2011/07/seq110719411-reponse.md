@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719411
+
+- Question : [SEQ110719411](seq110719411.md) — Conséquences de l'ordonnance n° 2011-78 pour les professionnels non vétérinaires
+
+## Réponse
+
+*Agriculture, JO du 2011-09-08, page 2327*
+
+Selon l'ancienne rédaction des articles L. 243-1 et L. 243-2 du code rural et de la pêche maritime, les propriétaires ou les détenteurs d'« animaux de rapport » étaient autorisés à pratiquer sur leurs propres animaux ou sur ceux dont ils avaient la garde les soins et les actes d'usage courant nécessaires à la bonne conduite de leur élevage. Le terme « animaux de rapport » faisait référence aux animaux dont la chair ou les produits sont destinés à la consommation humaine. Aucune disposition légale ne permettait aux éleveurs de chiens et de chats ainsi qu'aux éducateurs comportementalistes de réaliser des soins vétérinaires sur les animaux dont ils avaient la charge. L'ordonnance du 20 janvier 2011, relative aux conditions dans lesquelles certains actes peuvent être réalisés par des personnes n'ayant pas la qualité de vétérinaire, est venue clarifier les contours de l'exercice légal de la médecine et de la chirurgie des animaux, et prend en compte les usages du terrain reconnus par les acteurs de la santé animale. Elle est le fruit d'un long processus de concertation qui a rassemblé pendant plus d'un an l'ensemble des représentants agricoles et vétérinaires. Elle ne modifie pas l'état du droit concernant les professionnels de l'élevage d'animaux d'espèces dont la chair ou les produits ne sont pas destinés à la consommation humaine, tels que les éleveurs de chiens et chats ou les éducateurs comportementalistes. Sans préjuger des compétences de ces professionnels et compte tenu des conditions dans lesquelles cette ordonnance a été rédigée, un éventuel aménagement ne saurait être envisagé que sur la base d'un accord de l'ensemble des acteurs concernés.
