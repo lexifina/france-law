@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110618818
+
+- Question : [SEQ110618818](seq110618818.md) — Rémunération des ouvriers de l'État
+
+## Réponse
+
+*Défense, JO du 2011-09-08, page 2331*
+
+Les salaires du personnel ouvrier de la défense sont revalorisés chaque trimestre par application d'un pourcentage relatif à la hausse moyenne des salaires constatée dans l'industrie métallurgique de la région parisienne, conformément aux décrets salariaux des 22 mai 1951 et 31 janvier 1967 (décret n° 51-582 du 22 mai 1951 relatif à la détermination du taux de salaire des ouvriers de la défense nationale ; décret n° 67-99 du 31 janvier 1967 relatif à la détermination du taux de salaire des techniciens à statut ouvrier du ministère des armées ; décret n° 67-100 du 31 janvier 1967 relatif à la détermination du taux de salaire des ouvriers du ministère des armées). Toutefois, dans le cadre de la réduction du déficit budgétaire de l'État, le Gouvernement a décidé, lors de la préparation du projet de loi de finances pour 2011, de suspendre la revalorisation du bordereau de salaire des ouvriers et non de le supprimer. C'est le sens du décret n° 2010-1660, publié le 30 décembre dernier, qui interrompt l'application de la réglementation précitée pour l'année 2011. Cette mesure est le pendant du gel du point d'indice servant de référence au calcul du traitement des fonctionnaires. Dès l'annonce de cette décision, les services du ministère de la défense et des anciens combattants ont pris l'attache des partenaires sociaux afin d'étudier, en concertation avec les organisations syndicales, les divers points relatifs à la situation des ouvriers de l'État (recrutements, salaires...). Le ministère demeure bien évidemment particulièrement attentif à l'évolution du pouvoir d'achat de ses agents. Il convient à cet égard de noter que l'évolution du bordereau de salaire des ouvriers a été jusqu'à présent toujours supérieure à celle de l'indice des prix à la consommation.
