@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110518689
+
+- Question : [SEQ110518689](seq110518689.md) — Propagation de la berce du Caucase
+
+## Réponse
+
+*Écologie, JO du 2011-09-08, page 2336*
+
+Le ministère de l'écologie, du développement durable, des transports et du logement (MEDDTL) a initié une démarche de veille sur les espèces exotiques envahissantes en mobilisant la Fédération des conservatoires botaniques nationaux (FCBN) et le Muséum national d'histoire naturelle ainsi que de nombreux acteurs et experts concernés par ces problématiques. Introduite en France depuis plus d'un siècle, la berce du Caucase fait l'objet d'une attention particulière. Elle est considérée en France comme ayant un risque de prolifération élevé, tant en matière de conservation de la biodiversité que de santé publique. L'analyse approfondie conduite par la FCBN a permis de réaliser un état des lieux des connaissances disponibles concernant cette espèce, de mettre en évidence ses impacts sur les milieux naturels et de préciser sa répartition en France. En conséquence, cette espèce est actuellement retenue dans le cadre du projet de réglementation relatif aux espèces végétales invasives, devant se traduire prochainement par la prise d'un arrêté ministériel fondé sur l'article L. 411-3 du code de l'environnement et prévoyant diverses interdictions pour ces espèces (vente, achat, transport, introduction dans le milieu naturel). Par ailleurs, le MEDDTL initie des actions de lutte contre les espèces exotiques envahissantes ayant un impact sur les milieux naturels et la biodiversité, sur la base d'un travail de priorisation et d'une analyse de faisabilité conduits par la FCBN dont les résultats sont prochainement attendus. S'agissant de la berce du Caucase, l'opportunité d'une action de lutte sera examinée dans ce cadre.
