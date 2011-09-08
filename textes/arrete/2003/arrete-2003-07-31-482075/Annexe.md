@@ -1,42 +1,50 @@
 # Article Annexe
 
-COMPOSANTES DE LA CERTIFICATION ET INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel d'agent de restauration.
+Intitulé : agent(e) de restauration.
 
 Niveau : V.
 
-Domaine d'activité (code NSF) : 334 t.
+Code NSF : 334 t.
 
 Résumé du référentiel d'emploi
 
-L'agent de restauration effectue, dans des lieux de restauration de catégorie standard, diverses tâches simples concourant notamment à la préparation des plats en cuisine et au service aux clients : préparation de mets froids, cuissons simples de produits, distribution des plats aux différents comptoirs d'un self-service, encaissement des plateaux repas (pour plus de précision), réalisation de la plonge.
+L'agent(e) de restauration effectue une prestation de service concourant à la satisfaction des clients notamment aux différents postes de travail en cuisine, au self-service, à la caisse et à la plonge.
 
-Il organise son travail le plus souvent en équipe et applique les consignes du responsable et les procédures des fiches techniques en respectant les règles d'hygiène et de sécurité alimentaire.
+Les missions qui lui sont confiées sont :
 
-L'emploi implique la station debout, de fréquentes allées et venues ainsi que des manutentions légères. Il s'exerce en horaires de jour comme de soirée, en continu ou avec des coupures, et éventuellement les dimanches et les jours fériés. Au cours de la journée, il peut être soumis à des périodes d'activité soutenue (coup de feu).
+-il (elle) prépare des mets simples froids et chauds (hors-d'œuvre, entrées chaudes, salades, desserts, glaces) et réalise des cuissons simples en se conformant à des normes de réalisation précises (doses, composition, cuisson, présentation) ;
 
-Descriptif des composantes de la certification
+-il (elle) assure la distribution des productions culinaires aux différents linéaires et comptoirs froids et chauds du self-service en contact avec la clientèle (entrées, plats chauds, desserts, grillades simples et fritures) et peut encaisser les commandes ;
 
-et capacités attestées
+-il (elle) effectue la plonge vaisselle et la plonge batterie de cuisine et réalise le nettoyage des différents locaux et postes de travail en cuisine et self-service ;
 
-Le titre est composé des quatre certificats de compétences professionnelles suivants :
+-il (elle) applique les règles d'hygiène de sécurité alimentaires du plan de maîtrise sanitaire (PMS), les consignes de santé et de sécurité au travail et les recommandations en matière de développement durable et de responsabilité sociétale en entreprise (RSE).
 
-1. Préparer en assemblage des hors-d'oeuvre et des desserts
+Cet emploi s'exerce, aussi bien en restauration commerciale que sociale, au sein d'établissements en cafétéria, restaurant d'entreprise, collectivité (scolaire et hospitalier), restauration rapide, restaurants à thèmes, chaînes hôtelières, petite restauration traditionnelle, brasserie.
+
+Il est en relation avec différents intervenants, responsable hiérarchique et équipes de travail, et en contact direct avec les clients. Il peut s'effectuer en environnement bruyant, en zone à température basse et/ ou élevée. Il peut être soumis à des périodes d'activité soutenue (coup de feu) et de saisonnalité ; l'amplitude horaire peut être importante.
+
+La nature, la fréquence et la durée des tâches peuvent varier d'un établissement à l'autre et sont déterminées à l'avance par la hiérarchie. Dans une même journée, un salarié peut occuper successivement plusieurs postes ; il peut aussi être régulièrement affecté aux mêmes tâches.
+
+L'emploi implique la station debout prolongée, de fréquentes allées et venues ainsi que la manutention de charges. Il peut s'exercer en horaires décalés, fractionnés, les fins de semaine et jours fériés, de nuit (tôt le matin/ tard le soir).
+
+Capacités attestées et descriptif
+
+des composantes de la certification
+
+1. Préparer en assemblage des hors-d'œuvre et des desserts
 
 Préparer les matières premières alimentaires destinées à la transformation et à l'assemblage.
 
-Réaliser l'assemblage et le dressage des hors-d'oeuvre et des desserts.
+Réaliser l'assemblage et le dressage des hors-d'œuvre et des desserts.
 
-2. Réaliser des grillades minute et respecter le processus de remise
+2. Réaliser des grillades et des sautés minute devant le client et remettre en température des préparations culinaires élaborées à l'avance (PCEA)
 
-en température des plats cuisinés à l'avance (PCA)
+Effectuer la remise en température de préparations culinaires élaborées à l'avance (PCEA).
 
-Effectuer la remise en température de plats cuisinés à l'avance (PCA).
-
-Assurer pendant le service une production culinaire simplifiée au poste grillade.
+Assurer pendant le service une production simplifiée au poste grillade et des sautés minute devant le client.
 
 3. Accueillir les clients, approvisionner
 
@@ -48,31 +56,49 @@ Réaliser la mise en place de la distribution et assurer le service aux postes f
 
 Enregistrer (typer) le contenu des plateaux repas commandés et effectuer l'encaissement.
 
-4. Réaliser le lavage à la main de la batterie de cuisine
+4. Réaliser le lavage de la batterie de cuisine
 
 et le lavage en machine de la vaisselle
 
 Effectuer le débarrassage des plateaux repas en salle de self-service en respectant l'intimité des clients.
 
-Récurer et laver à la main la batterie de cuisine.
+Assurer le nettoyage de la batterie de cuisine.
 
 Assurer la conduite du lavage en machine de la vaisselle.
 
-Tableau des équivalences entre les certificats de compétences professionnelles (CCP) obtenus antérieurement à la publication du présent arrêté et les CCP susvisés
+Compétences transversales de l'emploi
 
-Vous pouvez consulter le tableau dans le JO
+Appliquer les consignes du plan de maîtrise sanitaire (PMS).
 
-n° 208 du 08/09/2006 texte numéro 3
+Travailler en équipe afin d'optimiser les prestations de service et satisfaire les clients.
 
-Secteurs d'activité ou types d'emploi
+Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-L'emploi s'exerce aussi bien en restauration commerciale que sociale : cafétéria, restaurant d'entreprise ou scolaire, restaurant à thèmes, petite restauration traditionnelle, brasserie, résidence pour personnes âgées, résidence hôtelière, restauration rapide ou restauration mobile (bateaux et trains).
+Les différents secteurs d'activités concernés sont principalement :
+
+-restauration collective sociale : d'entreprise, scolaire, hospitalière, cuisine centrale ;
+
+-restauration commerciale : de chaînes hôtelières et de restauration, cafétérias, à thèmes, rapide, petite restauration traditionnelle, brasserie, résidence hôtelière.
+
+Les types d'emplois accessibles sont les suivants :
+
+-agent(e) de restauration ;
+
+-employé (e) de restauration collective/ employé (e) de cantine/ commis (e) de self ;
+
+-employé (e) de cafétéria/ employé (e) de snack-bar ;
+
+-employé (e) polyvalent (e) de restaurant/ employé (e) polyvalent (e) de restauration ;
+
+-équipier (e) polyvalent (e) de restauration rapide/ agent (e) de restauration rapide ;
+
+-préparateur (rice)-vendeur (se) en point chaud/ de plats à emporter/ de sandwichs.
 
 Code ROME :
 
-13221-Employé (e) polyvalent de restauration.
+G1603-Personnel polyvalent en restauration.
 
 Réglementation de l'activité :
 
@@ -84,8 +110,8 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel délivré par le ministre chargé de l'emploi ;
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
