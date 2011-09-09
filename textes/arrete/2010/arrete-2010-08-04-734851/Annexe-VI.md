@@ -10,9 +10,9 @@ titulaire
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-suppléant
+de la commission suppléant
 
 |
 
@@ -28,7 +28,7 @@ Le sous-directeur de la gestion du personnel.
 
 |
 
-L'officier de gendarmerie faisant office d'adjoint au sous-directeur de la gestion du personnel.
+L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 
 |
 
@@ -40,7 +40,7 @@ Le chef du bureau du personnel sous-officier de gendarmerie et volontaire, ou so
 
 |
 
-Un officier supérieur de l'inspection générale des armées - gendarmerie.
+Un officier supérieur de l'inspection générale des armées-gendarmerie.
 
 |
 
@@ -52,7 +52,7 @@ Le sous-directeur de la gestion du personnel.
 
 |
 
-Le sous-directeur de la politique des ressources humaines.
+L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 
 |
 
@@ -64,11 +64,11 @@ Le chef du bureau du personnel sous-officier du corps de soutien technique et ad
 
 |
 
-Un officier supérieur du corps technique et administratif de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale.
+Un officier supérieur du corps technique et administratif de la gendarmerie nationale désigné par le directeur des personnels militaires de la gendarmerie nationale.
 
 |
 
-Un officier supérieur de l'inspection générale des armées - gendarmerie.
+Un officier supérieur de l'inspection générale des armées-gendarmerie.
 
 |
 
@@ -80,7 +80,7 @@ Le sous-directeur de la gestion du personnel.
 
 |
 
-L'officier de gendarmerie faisant office d'adjoint au sous-directeur de la gestion du personnel.
+L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 
 |
 
@@ -92,10 +92,10 @@ Le chef du bureau du personnel sous-officier de gendarmerie et volontaire, ou so
 
 |
 
-Le chef du bureau du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale, ou son représentant.
+Le chef du bureau du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale ou son représentant.
 
 |
 
-Un officier supérieur de l'inspection générale des armées - gendarmerie.
+Un officier supérieur de l'inspection générale des armées-gendarmerie.
 
 |
