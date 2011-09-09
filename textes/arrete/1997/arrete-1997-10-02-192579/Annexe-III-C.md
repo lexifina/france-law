@@ -2312,34 +2312,6 @@ supprimé par (*12*)
 
 |
 
-(*17) E 231
-
-|
-
-Orthophénylphénol
-
-|
-
-Traitement en surface des agrumes
-
-|
-
-12 mg/kg seul ou en mélange exprimé en orthophénylphénol (17*)
-
-|
-
-E 232
-
-|
-
-Orthophénylphénate de sodium
-
-|
-
-Traitement en surface des agrumes
-
-|
-
 E 233
 
 |
