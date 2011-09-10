@@ -20,6 +20,14 @@ Aire définie au-dessus de laquelle se déroule la phase finale de la manœuvre 
 
 |
 
+Aire de mouvement.
+
+|
+
+Partie d'un aérodrome à utiliser pour les décollages, les atterrissages et la circulation des aéronefs à la surface, et qui comprend l'aire de manœure et les aires de trafic.
+
+|
+
 Aire de prise de contact et d'envol (TLOF).
 
 |
@@ -162,7 +170,13 @@ Obstacle.
 
 |
 
-Tout ou partie d'un objet hors sol, fixe (temporaire ou permanent) ou mobile, situé sur une aire destinée à la circulation des aéronefs à la surface, ou faisant saillie au-dessus d'une surface définie, destinée à protéger les aéronefs en vol.
+Tout ou partie d'un objet fixe (temporaire ou permanent) ou mobile :
+
+i) qui est situé sur une aire destinée à la circulation des aéronefs à la surface ; ou
+
+ii) qui fait saillie au-dessus d'une surface définie destinée à protéger les aéronefs en vol ; ou
+
+iii) qui se trouve à l'extérieur de ces surfaces définies et qui est jugé être un danger pour la navigation aérienne.
 
 |
 
@@ -195,6 +209,12 @@ Translation dans l'effet de sol.
 |
 
 Mouvement d'un hélicoptère au-dessus du sol à une hauteur normalement associée à l'effet de sol et à une vitesse sol inférieure à 37 km / h.
+
+|
+
+Voie de circulation pour hélicoptères. |
+
+Voie définie sur un aérodrome terrestre aménagé pour la circulation exclusive des hélicoptères. Il s'agit soit d'une voie de circulation au sol pour hélicoptères, soit d'une voie de circulation en translation dans l'effet de sol, soit d'une voie de circulation à usage mixte.
 
 |
 

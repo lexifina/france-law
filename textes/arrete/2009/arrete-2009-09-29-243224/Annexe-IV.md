@@ -24,61 +24,33 @@ Caractéristiques
 
 |
 
-HÉLISTATION* EN SURFACE
+HÉLISTATION* EN SURFACE |
 
-|
+HÉLISTATION* EN TERRASSE |
 
-HÉLISTATION* EN TERRASSE
+Longueur |
 
-|
+2,4 m |
 
-Longueur
+1,2 m |
 
-|
+Diamètre de la base |
 
-2,4 m
+0,6 m |
 
-|
+0,3 m |
 
-1,2 m
+Diamètre de l'extrémité |
 
-|
+0,3 m |
 
-Diamètre de la base
+0,15 m |
 
-|
+Largeur de la bande de couleur |
 
-0,6 m
+0,48 m |
 
-|
-
-0,3 m
-
-|
-
-Diamètre de l'extrémité
-
-|
-
-0,3 m
-
-|
-
-0,15 m
-
-|
-
-Largeur de la bande de couleur
-
-|
-
-0,48 m
-
-|
-
-0,24 m
-
-|
+0,24 m |
 
 1.1.5. a) Les couleurs de l'indicateur sont choisies de manière à le rendre nettement visible et à permettre de reconnaître les indications qu'il donne d'une hauteur d'au moins 200 mètres (650 pieds), compte tenu de l'arrière plan.
 
@@ -130,7 +102,7 @@ Emplacement
 
 Caractéristiques
 
-2.3.3. Pour toute hélistation* à l'exception des hélistations* situées dans l'emprise d'un hôpital, la marque distinctive d'aire d'approche finale et de décollage est constituée par la lettre" H", de couleur blanche.
+2.3.3. Pour toute hélistation* à l'exception des hélistations* situées dans l'emprise d'un hôpital, la marque distinctive d'aire d'approche finale et de décollage est constituée par la lettre "H", de couleur blanche.
 
 Les dimensions de la marque sont conformes à celles indiquées sur la figure 2a de la présente annexe, et lorsque la dimension du plus grand axe de l'aire d'approche finale et de décollage est supérieure à 100 mètres, ces dimensions sont triplées.
 
@@ -358,7 +330,7 @@ Caractéristiques
 
 La marque axiale est interrompue au niveau de la marque de stationnement d'un poste de stationnement situé sur la voie de circulation.
 
-2.12.4. La balise de bord de voie de circulation en translation dans l'effet de sol est rétroréfléchissante et présente trois bandes horizontales d'égale hauteur et de couleurs alternées jaune, verte et jaune.
+2.12.4. La balise de bord de voie de circulation en translation dans l'effet de sol est rétroréfléchissante et présente trois bandes horizontales d'égale hauteur et de couleurs alternées jaune, bleue et jaune.
 
 2.13. Marques de voie de circulation à usage mixte
 
@@ -420,7 +392,7 @@ Lorsque la zone impropre est autre qu'une aire d'approche finale et de décollag
 
 Caractéristiques
 
-2.15.4. La marque de zone impropre aux manœuvres des hélicoptères consiste en une croix de couleur blanche ou jaune.
+2.15.4. La marque de zone impropre aux manœuvres des hélicoptères consiste en une croix de Saint-André de couleur blanche ou jaune.
 
 3. Aides lumineuses
 

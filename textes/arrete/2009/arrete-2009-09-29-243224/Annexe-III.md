@@ -8,7 +8,7 @@ Les spécifications de la présente annexe ont pour but de définir les règles 
 
 1.1. Obstacles sur une aire d'approche finale et de décollage
 
-Une aire d'approche finale et de décollage est libre de tout obstacle.
+Une aire d'approche finale et de décollage est libre de tout objet hors sol.
 
 1.2. Obstacles sur une aire de sécurité
 
@@ -196,9 +196,9 @@ https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000021241940
 
 Annexe III. ― Figure 4. ― Représentation des trouées de décollage et d'atterrissage courbes
 
-Vous pouvez consulter l'image dans le JO n° 260 du 08/11/2009 texte numéro 6 à l'adresse suivante :
+Vous pouvez consulter l'image dans le JO n° 209 du 09/09/2011 texte numéro 11 à l'adresse suivante :
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000021241940
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000024543483
 
 Annexe III. ― Figure 5. ― Représentation de la surface latérale
 
