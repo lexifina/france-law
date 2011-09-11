@@ -1,6 +1,6 @@
 # Article AOC "Anjou",  "Anjou Villages"
 
-CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES "ANJOU", "ANJOU VILLAGES", "CABERNET D'ANJOU" ET "ROSÉ D'ANJOU"
+CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES "ANJOU", "CABERNET D'ANJOU" ET "ROSÉ D'ANJOU"
 
 Chapitre Ier
 
@@ -9,8 +9,6 @@ I. ― Nom de l'appellation
 Seuls peuvent prétendre aux appellations d'origine contrôlées :
 
 ― "Anjou", initialement reconnue par les décrets du 14 novembre 1936 (vins tranquilles) et du 14 mai 1938 (vins mousseux) ;
-
-― "Anjou Villages", initialement reconnue par le décret du 14 novembre 1991 ;
 
 ― "Cabernet d'Anjou", initialement reconnue par le décret du 9 mai 1964 ;
 
@@ -34,8 +32,6 @@ L'appellation d'origine contrôlée "Anjou" est réservée aux vins tranquilles 
 
 L'appellation d'origine contrôlée "Anjou" suivie de l'indication "gamay", complétée ou non par la mention "nouveau" ou "primeur", est réservée aux vins tranquilles rouges.
 
-L'appellation d'origine contrôlée "Anjou Villages" est réservée aux vins tranquilles rouges.
-
 Les appellations d'origine contrôlées "Cabernet d'Anjou" et "Rosé d'Anjou", complétées ou non par la mention "nouveau" ou "primeur", sont réservées aux vins tranquilles rosés.
 
 IV.-Aires et zones dans lesquelles
@@ -47,8 +43,6 @@ différentes opérations sont réalisées
 a) Sont assurés sur le territoire des communes suivantes :
 
 ― la récolte des raisins, la vinification, l'élaboration et l'élevage des vins tranquilles susceptibles de bénéficier de l'appellation d'origine contrôlée "Anjou" ;
-
-― la récolte des raisins, la vinification, l'élaboration et l'élevage des vins susceptibles de bénéficier de l'appellation d'origine contrôlée "Anjou Villages" ;
 
 ― la récolte des raisins, la vinification, l'élaboration, l'élevage et le conditionnement des vins mousseux blancs et rosés susceptibles de bénéficier de l'appellation d ` origine contrôlée "Anjou" ;
 
@@ -118,14 +112,6 @@ Département des Deux-Sèvres : Argenton-l'Eglise, Bouillé-Loretz, Bouillé-Sai
 
 |
 
-AOC "Anjou Villages"
-
-|
-
-Département de Maine-et-Loire : Ambillou-Château, Aubigné-sur-Layon, Beaulieu-sur-Layon, Blaison-Gohier, Bouchemaine, Brigné, Chalonnes-sur-Loire, Champ-sur-Layon, Champtocé-sur-Loire, Chanzeaux, Charcé-Saint-Ellier-sur-Aubance, Chaudefonds-sur-Layon, Chavagnes, Cléré-sur-Layon, Concourson-sur-Layon, Coutures, Faveraye-Mâchelles, Faye-d'Anjou, La Fosse-de-Tigné, Ingrandes, La Jumellière, Martigné-Briand, Le Mesnil-en-Vallée, Montjean-sur-Loire, Notre-Dame-d'Allençon, Nueil-sur-Layon, Passavant-sur-Layon, La Pommeraye, La Possonnière, Rablay-sur-Layon, Rochefort-sur-Loire, Saint-Aubin-de-Luigné, Saint-Georges-sur-Layon, Saint-Georges-sur-Loire, Saint-Germain-des-Prés, Saint-Lambert-du-Lattay, Savennières, Tancoigné, Thouarcé, Tigné, Trémont, Valanjou, Les Verchers-sur-Layon
-
-|
-
 |
 
 Département des Deux-Sèvres : Bouillé-Loretz, Bouillé-Saint-Paul, Cersay
@@ -178,7 +164,7 @@ Département de la Vienne : Berrie, Curçay-sur-Dive, Glénouze, Pouançay, Rant
 
 a) Les vins susceptibles de bénéficier des appellations d'origine contrôlées "Anjou" suivie ou non de l'indication "gamay", "Cabernet d'Anjou" et "Rosé d'Anjou", sont issus exclusivement des vignes situées dans les aires parcellaires de production telles qu'approuvées par l'Institut national de l'origine et de la qualité lors des séances du comité national compétent des 11 septembre 1985, 29 et 30 août 1990, 9 et 10 septembre 1992, 4 et 5 novembre 1992, 3 et 4 novembre 1994, 4 septembre 1996, 22 et 23 mai 1997, 4 et 5 novembre 1998, 3 et 4 février 2000, 11 décembre 2001, 13 et 14 février 2002 et de la séance de la commission permanente du comité national compétent du 5 septembre 2007.
 
-b) Les vins susceptibles de bénéficier de l'appellation d'origine contrôlée "Anjou Villages" sont issus exclusivement des vignes situées dans l'aire parcellaire de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors des séances du comité national compétent des 4 et 5 novembre 1986, 3 et 4 novembre 1993, 13 et 14 février 2002 et de la séance de la commission permanente du comité national compétent du 5 septembre 2007.
+b) (abrogé)
 
 L'Institut national de l'origine et de la qualité déposera auprès des mairies des communes mentionnées au 1° les documents graphiques établissant les limites parcellaires des aires de production ainsi approuvées.
 
@@ -187,8 +173,6 @@ L'Institut national de l'origine et de la qualité déposera auprès des mairies
 Est constitué par le territoire des communes suivantes :
 
 ― l'aire de proximité immédiate, définie par dérogation pour la vinification, l'élaboration et l'élevage des vins tranquilles susceptibles de bénéficier de l'appellation d'origine contrôlée "Anjou" ;
-
-― l'aire de proximité immédiate, définie par dérogation pour la vinification, l'élaboration et l'élevage des vins susceptibles de bénéficier de l'appellation d'origine contrôlée "Anjou Villages" ;
 
 ― l'aire de proximité immédiate, définie par dérogation pour la vinification, l'élaboration, l'élevage et le conditionnement des vins mousseux susceptibles de bénéficier de l'appellation d'origine contrôlée "Anjou" ;
 
@@ -249,14 +233,6 @@ Département de la Loire-Atlantique : Ancenis, Anetz, Le Loroux Bottereau, Le Pa
 |
 
 Département d'Indre-et-Loire : Saint-Nicolas-de-Bourgueil
-
-|
-
-AOC "Anjou Villages"
-
-|
-
-Département de Maine-et-Loire : Les Alleuds, Allonnes, Angers, Antoigné, Artannes-sur-Thouet, Bouzillé, Brain-sur-Allonnes, Brézé, Brissac-Quincé, Brossay, Cernusson, Les Cerqueux-sous-Passavant, Chacé, Champtoceaux, La Chapelle-Saint-Florent, Chemellier, Chênehutte-Trêves-Cunault, Cizay-la-Madeleine, Le Coudray-Macouard, Courchamps, Denée, Dénezé-sous-Doué, Distré, Doué-la-Fontaine, Drain, Epieds, Fontaine-Milon, Fontevraud-l'Abbaye, Forges, Gennes, Grézillé, Huillé, Juigné-sur-Loire, Landemont, Liré, Louerre, Louresse-Rochemenier, Lué-en-Baugeois, Luigné, Le Marillais, Meigné, Montfort, Montilliers, Montreuil-Bellay, Montsoreau, Mozé-sur-Louet, Mûrs-Erigné, Noyant-la-Plaine, Parnay, Pellouailles-les-Vignes, Le Puy-Notre-Dame, Rou-Marson, Saint-Cyr-en-Bourg, Saint-Florent-le-Vieil, Saint-Georges-des-Sept-Voies, Saint-Jean-des-Mauvrets, Saint-Just-sur-Dive, Saint-Laurent-de-la-Plaine, Saint-Laurent-du-Mottay, Saint-Laurent-des-Autels, Saint-Macaire-du-Bois, Saint-Martin-du-Fouilloux, Saint-Melaine-sur-Aubance, Saint-Rémy-la-Varenne, Saint-Saturnin-sur-Loire, Saint-Sigismond, Saint-Sulpice-sur-Loire, Saint-Sylvain-d'Anjou, Sainte-Gemmes-sur-Loire, Saulgé-l'Hôpital, Saumur, Soucelles, Soulaines-sur-Aubance, Souzay-Champigny, Le Thoureil, Turquant, Les Ulmes, La Varenne, Varennes-sur-Loire, Varrains, Vauchrétien, Vaudelnay, Verrie, Vihiers, Villevêque
 
 |
 
@@ -331,14 +307,6 @@ AOC "Anjou" suivie de l'indication "gamay"
 |
 
 gamay N
-
-|
-
-AOC "Anjou Villages"
-
-|
-
-cabernet franc N et cabernet sauvignon N
 
 |
 
@@ -488,14 +456,6 @@ Avec un maximum de 14 yeux francs par pied et un maximum de 8 yeux francs sur le
 
 |
 
-AOC "Anjou Villages"
-
-|
-
-Avec un maximum de 12 yeux francs par pied et un maximum de 8 yeux francs sur le long bois
-
-|
-
 chardonnay B et sauvignon B
 
 |
@@ -551,14 +511,6 @@ Vins blancs et vins rouges
 |
 
 AOC "Anjou" suivie de l'indication "gamay"
-
-|
-
-10 000
-
-|
-
-AOC "Anjou Villages"
 
 |
 
@@ -692,18 +644,6 @@ AOC "Anjou" suivie de l'indication "gamay"
 
 |
 
-AOC "Anjou Villages"
-
-|
-
-189
-
-|
-
-11 % vol.
-
-|
-
 Vins de base destinés à la production de vins mousseux blancs et rosés
 
 |
@@ -832,14 +772,6 @@ AOC "Anjou" suivie de l'indication "gamay"
 
 |
 
-AOC "Anjou Villages"
-
-|
-
-55
-
-|
-
 Vins mousseux blancs et rosés
 
 |
@@ -907,14 +839,6 @@ AOC "Anjou" suivie de l'indication "gamay"
 |
 
 72
-
-|
-
-AOC "Anjou Villages"
-
-|
-
-60
 
 |
 
@@ -1086,14 +1010,6 @@ Inférieure ou égale à 2
 
 |
 
-AOC "Anjou Villages"
-
-|
-
-Inférieure ou égale à 3
-
-|
-
 Vins de base destinés à la production de vins mousseux blancs et rosés
 
 |
@@ -1186,14 +1102,6 @@ AOC "Anjou" suivie de l'indication "gamay"
 
 |
 
-AOC "Anjou Villages"
-
-|
-
-12, 50 % vol.
-
-|
-
 Vins de base destinés à la production de vins mousseux blancs et rosés et ayant fait l'objet d'un enrichissement
 
 |
@@ -1255,8 +1163,6 @@ L'élaboration des vins mousseux donne lieu à l'envoi aux usages industriels de
 La durée de conservation en bouteilles sur lie ne peut être inférieure à neuf mois.
 
 c) Les vins rouges susceptibles de bénéficier de l'appellation d'origine contrôlée "Anjou" font l'objet d'un élevage jusqu'au 15 janvier de l'année suivant celle de la récolte.
-
-d) Les vins susceptibles de bénéficier de l'appellation d'origine contrôlée "Anjou Villages" font l'objet d'un élevage jusqu'au 15 juin de l'année suivant celle de la récolte.
 
 3° Dispositions relatives au conditionnement :
 
@@ -1321,14 +1227,6 @@ AOC "Anjou" suivie de l'indication "gamay" complétée ou non par la mention "no
 |
 
 Selon les dispositions de l'article D. 644-35 du code rural
-
-|
-
-AOC "Anjou Villages"
-
-|
-
-A l'issue de la période d'élevage, à partir du 1er septembre de l'année qui suit celle de la récolte
 
 |
 
@@ -1410,14 +1308,6 @@ Au plus tôt le 38e jour précédant le 3e jeudi de novembre de l'année de la r
 
 |
 
-AOC "Anjou Villages"
-
-|
-
-Au plus tôt le 15 juin de l'année suivant celle de la récolte
-
-|
-
 Vins mousseux blancs et rosés
 
 |
@@ -1484,7 +1374,7 @@ A titre transitoire, et sous réserve de répondre aux autres dispositions du pr
 
 2° Mode de conduite :
 
-a) Les vignes plantées avant le 16 février 1998, présentant une densité de plantation inférieure à 3 300 pieds par hectare, continuent à bénéficier pour leur récolte du droit à l'appellation d'origine contrôlée "Anjou Villages" jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2022 incluse, sous réserve de répondre aux autres dispositions du présent cahier des charges, dont l'ensemble des règles de palissage et de hauteur de feuillage.
+a) (abrogé)
 
 b) Les vignes plantées avant le 22 novembre 1999, présentant une densité de plantation inférieure à 4 000 pieds par hectare mais supérieure ou égale à 3 300 pieds par hectare, ne répondant pas aux obligations fixées dans le présent cahier des charges relatives à la hauteur minimale des piquets de palissage, à l'obligation de 4 niveaux de fil de palissage et à la hauteur minimale du dernier niveau de fil, continuent à bénéficier pour leur récolte du droit aux appellations d'origine contrôlées "Anjou", "Rosé d'Anjou" et "Cabernet d'Anjou", jusqu'à leur arrachage et au plus tard jusqu'à la récolte 2009 incluse.
 
@@ -1496,7 +1386,7 @@ XII.-Règles de présentation et étiquetage
 
 1° Dispositions générales :
 
-Les vins pour lesquels, aux termes du présent cahier des charges, sont revendiquées les appellations d'origine contrôlées "Anjou", "Anjou Villages", "Cabernet d'Anjou", "Rosé d'Anjou", et qui sont présentés sous lesdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, les appellations d'origine contrôlées susvisée soient inscrites et accompagnées de la mention "Appellation contrôlée" le tout en caractères très apparents.
+Les vins pour lesquels, aux termes du présent cahier des charges, sont revendiquées les appellations d'origine contrôlées "Anjou", "Cabernet d'Anjou", "Rosé d'Anjou", et qui sont présentés sous lesdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, les appellations d'origine contrôlées susvisée soient inscrites et accompagnées de la mention "Appellation contrôlée" le tout en caractères très apparents.
 
 2° Dispositions particulières :
 
