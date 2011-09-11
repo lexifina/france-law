@@ -2,13 +2,13 @@
 
 -
 
-B.-III.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
+B. - III. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
 de l'enseignement supérieur et de la recherche
 
 relevant de l'article 57-2 du décret du 3 décembre 1983 susvisé,
 
-services du ministère chargé de la jeunesse et des sports
+services et établissements relevant du ministre chargé de la jeunesse et des sports
 
 |
 
@@ -22,15 +22,7 @@ Localisation
 
 |
 
-Intitulé du poste
-
-|
-
-Centre régional d'éducation physique et sportive d'Aix-en-Provence
-
-|
-
-Secrétaire général
+Centre d'éducation physique et sportive Sud-Est, site d'Aix-en-Provence
 
 |
 
@@ -38,26 +30,10 @@ Secrétaire général
 
 |
 
-Administration centrale du ministère chargé de la jeunesse et des sports
+Administration centrale
 
 |
 
-Chef de bureau-A effet du 1er mai 2008
-
-|
-
-1
-
-|
-
-Administration centrale du ministère chargé de la jeunesse et des sports
-
-|
-
-Chef de bureau-A effet du 1er juillet 2008
-
-|
-
-1
+2
 
 |

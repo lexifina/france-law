@@ -1,12 +1,10 @@
 # Article A I
 
-A.-I.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
+A. - I. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
-de l'enseignement supérieur et de la recherche
+de l'enseignement supérieur et de la recherche relevant de l'article 58 du décret du 3 décembre 1983 susvisé,
 
-relevant de l'article 58 du décret du 3 décembre 1983 susvisé,
-
-services du ministère chargé de l'éducation nationale
+services du ministre chargé de l'éducation nationale
 
 |
 
@@ -16,19 +14,19 @@ d'emplois
 
 |
 
+Académies
+
+|
+
 Localisation
 
 |
 
-Intitulé du poste
+Aix-Marseille
 
 |
 
-Rectorat de l'académie d'Aix-Marseille
-
-|
-
-Adjoint au secrétaire général d'académie, chargé des affaires générales
+Rectorat
 
 |
 
@@ -36,11 +34,19 @@ Adjoint au secrétaire général d'académie, chargé des affaires générales
 
 |
 
-Académie d'Aix-Marseille-Inspection académique des Bouches-du-Rhône
+|
+
+Inspection académique des Bouches-du-Rhône |
+
+1
 
 |
 
-Secrétaire général
+Amiens
+
+|
+
+Rectorat
 
 |
 
@@ -48,11 +54,25 @@ Secrétaire général
 
 |
 
-Rectorat de l'académie d'Amiens
+|
+
+Inspection académique de l'Oise |
+
+1
 
 |
 
-Adjoint au secrétaire général d'académie
+Bordeaux |
+
+Rectorat |
+
+1
+
+|
+
+|
+
+Inspection académique de la Gironde
 
 |
 
@@ -60,11 +80,89 @@ Adjoint au secrétaire général d'académie
 
 |
 
-Académie d'Amiens-Inspection académique de l'Oise
+Caen |
+
+Rectorat |
+
+1
 
 |
 
-Secrétaire général
+Créteil
+
+|
+
+Rectorat
+
+|
+
+2
+
+|
+
+|
+
+Inspection académique de Seine-et-Marne |
+
+1
+
+|
+
+|
+
+Inspection académique de Seine-Saint-Denis |
+
+1
+
+|
+
+|
+
+Inspection académique du Val-de-Marne |
+
+1
+
+|
+
+Dijon
+
+|
+
+Rectorat |
+
+1
+
+|
+
+Grenoble |
+
+Rectorat |
+
+2
+
+|
+
+|
+
+Inspection académique de l'Isère |
+
+1
+
+|
+
+Lille
+
+|
+
+Rectorat |
+
+2
+
+|
+
+|
+
+Inspection académique du Nord
 
 |
 
@@ -72,11 +170,19 @@ Secrétaire général
 
 |
 
-Rectorat de l'académie de Bordeaux
+|
+
+Inspection académique du Pas-de-Calais |
+
+1
 
 |
 
-Adjoint au secrétaire général d'académie, délégué aux relations et ressources humaines-A effet du 1er février 2009.
+Lyon
+
+|
+
+Rectorat
 
 |
 
@@ -84,23 +190,9 @@ Adjoint au secrétaire général d'académie, délégué aux relations et ressou
 
 |
 
-Académie de Bordeaux-Inspection académique de la Gironde
-
 |
 
-Secrétaire général
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Caen
-
-|
-
-Adjoint au secrétaire général d'académie
+Inspection académique du Rhône
 
 |
 
@@ -108,35 +200,23 @@ Adjoint au secrétaire général d'académie
 
 |
 
-Rectorat de l'académie de Créteil
+Montpellier
 
 |
 
-Adjoint au secrétaire général d'académie, directeur des établissements et de la performance
+Rectorat
 
 |
 
-1
+2
 
 |
 
-Rectorat de l'académie de Créteil
+Nancy-Metz
 
 |
 
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Académie de Créteil-Inspection académique de Seine-et-Marne
-
-|
-
-Secrétaire général
+Rectorat
 
 |
 
@@ -144,23 +224,9 @@ Secrétaire général
 
 |
 
-Académie de Créteil-Inspection académique de Seine-Saint-Denis
-
 |
 
-Secrétaire général
-
-|
-
-1
-
-|
-
-Académie de Créteil-Inspection académique du Val-de-Marne
-
-|
-
-Secrétaire général
+Inspection académique de la Moselle
 
 |
 
@@ -168,35 +234,21 @@ Secrétaire général
 
 |
 
-Rectorat de l'académie de Dijon
+Nantes
 
 |
 
-Adjoint au secrétaire général d'académie
+Rectorat
 
 |
 
-1
+2
 
 |
 
-Rectorat de l'académie de Grenoble
-
 |
 
-Adjoint au secrétaire général d'académie
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Grenoble
-
-|
-
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
+Inspection académique de la Loire-Atlantique
 
 |
 
@@ -204,23 +256,11 @@ Adjoint au secrétaire général d'académie, directeur des ressources humaines
 
 |
 
-Académie de Grenoble-Inspection académique de l'Isère
+Nice
 
 |
 
-Secrétaire général
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Lille
-
-|
-
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
+Rectorat
 
 |
 
@@ -228,23 +268,9 @@ Adjoint au secrétaire général d'académie, directeur des ressources humaines
 
 |
 
-Rectorat de l'académie de Lille
-
 |
 
-Adjoint au secrétaire général d'académie, coordonnateur et pilote de la LOLF et de la politique éducative
-
-|
-
-1
-
-|
-
-Académie de Lille-Inspection académique du Nord
-
-|
-
-Secrétaire général
+Inspection académique des Alpes-Maritimes
 
 |
 
@@ -252,23 +278,9 @@ Secrétaire général
 
 |
 
-Académie de Lille-Inspection académique du Pas-de-Calais
-
 |
 
-Secrétaire général
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Lyon
-
-|
-
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
+Inspection académique du Var
 
 |
 
@@ -276,311 +288,23 @@ Adjoint au secrétaire général d'académie, directeur des ressources humaines
 
 |
 
-Académie de Lyon-Inspection académique du Rhône
+Orléans-Tours
 
 |
 
-Secrétaire général
+Rectorat
 
 |
 
-1
+2
 
 |
 
-Rectorat de l'académie de Montpellier
+Paris
 
 |
 
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Académie de Montpellier-Inspection académique de l'Hérault
-
-|
-
-Secrétaire général
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Nancy-Metz
-
-|
-
-Adjoint au secrétaire général d'académie
-
-|
-
-1
-
-|
-
-Académie de Nancy-Metz-Inspection académique de la Moselle
-
-|
-
-Secrétaire général
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Nantes
-
-|
-
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Nantes
-
-|
-
-Adjoint au secrétaire général d'académie, en charge des moyens, du pilotage et du contrôle de gestion
-
-|
-
-1
-
-|
-
-Académie de Nantes-Inspection académique de la Loire-Atlantique
-
-|
-
-Secrétaire général
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Nice
-
-|
-
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Académie de Nice-Inspection académique des Alpes-Maritimes
-
-|
-
-Secrétaire général
-
-|
-
-1
-
-|
-
-Académie de Nice-Inspection académique du Var
-
-|
-
-Secrétaire général
-
-|
-
-1
-
-|
-
-Rectorat de l'académie d'Orléans-Tours
-
-|
-
-Adjoint au secrétaire général d'académie
-
-|
-
-1
-
-|
-
-Rectorat de l'académie d'Orléans-Tours
-
-|
-
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Paris
-
-|
-
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Paris
-
-|
-
-Adjoint au secrétaire général d'académie, en charge du premier degré
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Paris
-
-|
-
-Adjoint au secrétaire général d'académie, en charge du second degré
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Poitiers
-
-|
-
-Adjoint au secrétaire général d'académie
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Rennes
-
-|
-
-Adjoint au secrétaire général d'académie
-
-|
-
-1
-
-|
-
-Académie de Rennes-Inspection académique du Finistère
-
-|
-
-Secrétaire général
-
-|
-
-1
-
-|
-
-Académie de Rennes-Inspection académique d'Ille-et-Vilaine
-
-|
-
-Secrétaire général
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de la Réunion
-
-|
-
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Rouen
-
-|
-
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Académie de Rouen-Inspection académique de la Seine-Maritime
-
-|
-
-Secrétaire général
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Toulouse
-
-|
-
-Adjoint au secrétaire général d'académie, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Toulouse
-
-|
-
-Adjoint au secrétaire général d'académie
-
-|
-
-1
-
-|
-
-Administration centrale du ministère chargé de l'éducation nationale
-
-|
-
-Chargé de mission
+Rectorat
 
 |
 
@@ -588,23 +312,11 @@ Chargé de mission
 
 |
 
-Rectorat de l'académie de Strasbourg
+Poitiers
 
 |
 
-Adjoint au secrétaire général d'académie
-
-|
-
-1
-
-|
-
-Rectorat de l'académie de Versailles
-
-|
-
-Adjoint au secrétaire général d'académie, en charge du pôle gestion des ressources humaines
+Rectorat
 
 |
 
@@ -612,23 +324,11 @@ Adjoint au secrétaire général d'académie, en charge du pôle gestion des res
 
 |
 
-Rectorat de l'académie de Versailles
+Rennes
 
 |
 
-Adjoint au secrétaire général d'académie, expertise et services
-
-|
-
-1
-
-|
-
-Académie de Versailles-Inspection académique des Yvelines
-
-|
-
-Secrétaire général
+Rectorat
 
 |
 
@@ -636,23 +336,9 @@ Secrétaire général
 
 |
 
-Académie de Versailles-Inspection académique de l'Essonne
-
 |
 
-Secrétaire général
-
-|
-
-1
-
-|
-
-Académie de Versailles-Inspection académique des Hauts-de-Seine
-
-|
-
-Secrétaire général
+Inspection académique du Finistère
 
 |
 
@@ -660,14 +346,128 @@ Secrétaire général
 
 |
 
-Académie de Versailles-Inspection académique du Val-d'Oise
-
 |
 
-Secrétaire général
+Inspection académique d'Ille-et-Vilaine
 
 |
 
 1
+
+|
+
+La Réunion
+
+|
+
+Rectorat
+
+|
+
+1
+
+|
+
+Rouen
+
+|
+
+Rectorat
+
+|
+
+1
+
+|
+
+|
+
+Inspection académique de la Seine-Maritime
+
+|
+
+1
+
+|
+
+Strasbourg
+
+|
+
+Rectorat
+
+|
+
+1
+
+|
+
+Toulouse
+
+|
+
+Rectorat
+
+|
+
+2
+
+|
+
+Versailles
+
+|
+
+Rectorat
+
+|
+
+2
+
+|
+
+|
+
+Inspection académique des Yvelines
+
+|
+
+1
+
+|
+
+|
+
+Inspection académique de l'Essonne
+
+|
+
+1
+
+|
+
+|
+
+Inspection académique des Hauts-de-Seine
+
+|
+
+1
+
+|
+
+|
+
+Inspection académique du Val-d'Oise
+
+|
+
+1
+
+|
+
+Administration centrale |
+
+3
 
 |

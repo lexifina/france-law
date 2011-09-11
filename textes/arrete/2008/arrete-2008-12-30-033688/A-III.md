@@ -1,12 +1,12 @@
 # Article A III
 
-A-III.-DÉSIGNATION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
+A. - III. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
 de l'enseignement supérieur et de la recherche
 
 relevant de l'article 58 du décret du 3 décembre 1983 susvisé,
 
-services du ministère chargé de l'enseignement supérieur
+services et établissements relevant du ministre chargé de l'enseignement supérieur
 
 |
 
@@ -16,19 +16,19 @@ d'emplois
 
 |
 
+Académies
+
+|
+
 Localisation
 
 |
 
-Intitulé du poste
+Aix-Marseille
 
 |
 
-Administration centrale du ministère chargé de l'enseignement supérieur.
-
-|
-
-Chargé de mission.
+Université Aix-Marseille-I
 
 |
 
@@ -36,23 +36,9 @@ Chargé de mission.
 
 |
 
-Académie d'Aix-Marseille-Université Aix-Marseille-I
-
 |
 
-Adjoint au directeur général des services, directeur des relations et des ressources humaines
-
-|
-
-1
-
-|
-
-Académie d'Aix-Marseille-Université Aix-Marseille-II
-
-|
-
-Adjoint au directeur général des services, directeur des ressources humaines
+Université Aix-Marseille-II
 
 |
 
@@ -60,23 +46,9 @@ Adjoint au directeur général des services, directeur des ressources humaines
 
 |
 
-Académie d'Aix-Marseille-Université Aix-Marseille-III
-
 |
 
-Directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Académie d'Amiens-Université d'Amiens
-
-|
-
-Responsable du service de prospective et aide au pilotage
+Université Aix-Marseille-III
 
 |
 
@@ -84,11 +56,63 @@ Responsable du service de prospective et aide au pilotage
 
 |
 
-Académie de Besançon-Université de Besançon
+Amiens |
+
+Université d'Amiens |
+
+1
 
 |
 
-Adjoint au directeur général des services, chargé des ressources humaines
+Besançon
+
+|
+
+Université de Besançon |
+
+1
+
+|
+
+Bordeaux
+
+|
+
+Université Bordeaux-I |
+
+1
+
+|
+
+Caen |
+
+Université de Caen |
+
+1
+
+|
+
+Créteil |
+
+Université Paris-XII |
+
+1
+
+|
+
+|
+
+Université Paris-XIII |
+
+1
+
+|
+
+Dijon
+
+|
+
+Université de Dijon
 
 |
 
@@ -96,23 +120,11 @@ Adjoint au directeur général des services, chargé des ressources humaines
 
 |
 
-Académie de Bordeaux-Université Bordeaux-I
+Grenoble
 
 |
 
-Adjoint au directeur général des services, chargé des finances
-
-|
-
-1
-
-|
-
-Académie de Caen-Université de Caen
-
-|
-
-Directeur des ressources humaines
+Université Grenoble-I
 
 |
 
@@ -120,23 +132,11 @@ Directeur des ressources humaines
 
 |
 
-Académie de Créteil-Université Paris-XII
+Lille
 
 |
 
-Directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Académie de Créteil-Université Paris-XIII
-
-|
-
-Adjoint au directeur général des services
+Université Lille-I
 
 |
 
@@ -144,23 +144,11 @@ Adjoint au directeur général des services
 
 |
 
-Académie de Dijon-Université de Dijon
+Lyon
 
 |
 
-Adjoint au directeur général des services, directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Académie de Grenoble-Université Grenoble-I
-
-|
-
-Adjoint au directeur général des services
+Université Lyon-I
 
 |
 
@@ -168,23 +156,11 @@ Adjoint au directeur général des services
 
 |
 
-Académie de Lille-Université Lille-I
+Montpellier
 
 |
 
-Directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Académie de Lyon-Université Lyon-I
-
-|
-
-Adjoint au directeur général des services, chargé des affaires financières
+Université Montpellier-II
 
 |
 
@@ -192,23 +168,11 @@ Adjoint au directeur général des services, chargé des affaires financières
 
 |
 
-Académie de Montpellier-Université Montpellier-II
+Nancy-Metz
 
 |
 
-Directeur des ressources humaines
-
-|
-
-1
-
-|
-
-Académie de Nancy-Université Nancy-I
-
-|
-
-Adjoint au directeur général des services, chargé de la coordination générale des instances de l'université
+Université Nancy-I
 
 |
 
@@ -216,23 +180,11 @@ Adjoint au directeur général des services, chargé de la coordination généra
 
 |
 
-Académie de Nantes-Université de Nantes
+Nantes
 
 |
 
-Adjoint au directeur général des services
-
-|
-
-1
-
-|
-
-Académie de Nice-Université de Nice
-
-|
-
-Chef de projet du pilotage de la masse salariale de l'université
+Université de Nantes
 
 |
 
@@ -240,23 +192,11 @@ Chef de projet du pilotage de la masse salariale de l'université
 
 |
 
-Académie d'Orléans-Tours-Université de Tours
+Nice
 
 |
 
-Adjoint au directeur général des services
-
-|
-
-1
-
-|
-
-Académie de Paris-Université Paris-I
-
-|
-
-Adjoint au directeur général des services, en charge de la politique budgétaire
+Université de Nice
 
 |
 
@@ -264,23 +204,11 @@ Adjoint au directeur général des services, en charge de la politique budgétai
 
 |
 
-Académie de Paris-Université Paris-V
+Orléans-Tours
 
 |
 
-Adjoint au directeur général des services, chargé des ressources humaines
-
-|
-
-1
-
-|
-
-Académie de Paris-Université Paris-VI
-
-|
-
-Adjoint au directeur général des services
+Université de Tours
 
 |
 
@@ -288,23 +216,11 @@ Adjoint au directeur général des services
 
 |
 
-Académie de Paris-Université Paris-VII
+Paris
 
 |
 
-Chargé de l'aide au pilotage, des tableaux de bord et des indicateurs de l'établissement
-
-|
-
-1
-
-|
-
-Académie de Paris-Conservatoire national des arts et métiers (CNAM)
-
-|
-
-Adjoint au directeur général des services
+Université Paris-I
 
 |
 
@@ -312,23 +228,9 @@ Adjoint au directeur général des services
 
 |
 
-Académie de Paris-Muséum national d'histoire naturelle (MNHN)
-
 |
 
-Adjoint au directeur général des services
-
-|
-
-1
-
-|
-
-Académie de Poitiers-Université de Poitiers
-
-|
-
-Directeur des ressources humaines
+Université Paris-V
 
 |
 
@@ -336,23 +238,9 @@ Directeur des ressources humaines
 
 |
 
-Académie de Reims-Université de Reims
-
 |
 
-Adjoint au directeur général des services
-
-|
-
-1
-
-|
-
-Académie de Rennes-Université Rennes-I
-
-|
-
-Directeur des services financiers
+Université Paris-VI
 
 |
 
@@ -360,23 +248,9 @@ Directeur des services financiers
 
 |
 
-Académie de Rouen-Université de Rouen
-
 |
 
-Adjoint au directeur général des services, directeur des affaires financières
-
-|
-
-1
-
-|
-
-Académie de Strasbourg-Université de Strasbourg
-
-|
-
-Adjoint au directeur général des services, en charge des ressources de l'université
+Université Paris-VII
 
 |
 
@@ -384,23 +258,9 @@ Adjoint au directeur général des services, en charge des ressources de l'unive
 
 |
 
-Académie de Toulouse-Université Toulouse-III
-
 |
 
-Adjoint au directeur général des services, directeur des relations et des ressources humaines
-
-|
-
-1
-
-|
-
-Académie de Versailles-Université Paris-X
-
-|
-
-Adjoint au directeur général des services
+Conservatoire national des arts et métiers (CNAM)
 
 |
 
@@ -408,11 +268,9 @@ Adjoint au directeur général des services
 
 |
 
-Académie de Versailles-Université Paris-XI
-
 |
 
-Adjoint au directeur général des services
+Muséum national d'histoire naturelle (MNHN)
 
 |
 
@@ -420,13 +278,107 @@ Adjoint au directeur général des services
 
 |
 
-Centre national des œuvres universitaires et scolaires (services centraux)
+Poitiers
 
 |
 
-Responsable des services financiers
+Université de Poitiers
 
 |
+
+1
+
+|
+
+Reims
+
+|
+
+Université de Reims
+
+|
+
+1
+
+|
+
+Rennes
+
+|
+
+Université Rennes-I
+
+|
+
+1
+
+|
+
+Rouen
+
+|
+
+Université de Rouen
+
+|
+
+1
+
+|
+
+Strasbourg
+
+|
+
+Université de Strasbourg
+
+|
+
+1
+
+|
+
+Toulouse
+
+|
+
+Université Toulouse-III
+
+|
+
+1
+
+|
+
+Versailles
+
+|
+
+Université Paris-X
+
+|
+
+1
+
+|
+
+|
+
+Université Paris-XI
+
+|
+
+1
+
+|
+
+Réseau national des œuvres universitaires et scolaires |
+
+1
+
+|
+
+Administration centrale |
 
 1
 
