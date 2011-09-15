@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110217028
+
+- Question : [SEQ110217028](seq110217028.md) — Travaux d'élagage effectués pour le compte d'Électricité réseau distribution France
+
+## Réponse
+
+*Travail, JO du 2011-09-15, page 2400*
+
+Le ministre du travail, de l'emploi et de la santé a pris connaissance avec intérêt de la question relative aux difficultés rencontrées par les entreprises d'entretien et d'élagage travaillant principalement ou exclusivement pour le compte d'ERDF (Électricité réseau distribution France), consécutives à la mise en oeuvre d'obligations réglementaires. Il importe de rappeler que les grimpeurs élagueurs ou les autres salariés de ces entreprises qui effectuent ces travaux d'entretien sont exposés au risque électrique puisqu'ils interviennent à des distances anormalement restreintes et dangereuses par rapport aux conducteurs nus sous tension, alors qu'ils ne sont pas électriciens. Ces travailleurs n'ont d'ailleurs pas les compétences requises pour travailler au contact de ces installations. À l'initiative du ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire, une réflexion a été conduite, qui a donné lieu à la présentation d'un projet de décret aux partenaires sociaux. Cette nouvelle réglementation anticipait, pour les travaux qu'elle visait, la révision des dispositions relatives « aux travaux au voisinage de lignes, canalisations et installations électriques », prévue au deuxième semestre 2011. À la suite d'une concertation interministérielle approfondie, il a été jugé préférable de procéder à une révision globale et coordonnée des textes touchant à ces questions. Une nouvelle consultation des partenaires sociaux et des entreprises concernées sera donc lancée à cette occasion. Les entreprises concernées pourront donc utilement faire connaître au ministère du travail, par l'intermédiaire de leurs organisations professionnelles, leur avis sur le futur projet de décret.
