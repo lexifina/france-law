@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110418118
+
+- Question : [SEQ110418118](seq110418118.md) — Départs à la retraite
+
+## Réponse
+
+*Fonction publique, JO du 2011-09-15, page 2394*
+
+De nombreux documents de communication ont été élaborés de façon à informer l'ensemble de nos concitoyens sur la récente réforme des retraites issue de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites, dont notamment à l'usage des fonctionnaires, le document dénommé « Tout savoir sur la réforme fonction publique », en ligne sur le site du ministère de la fonction publique. De même, le ministère du travail, de l'emploi et de la santé a édité, le 12 mai dernier, le guide « Ma retraite mode d'emploi, le guide pour comprendre et préparer sa retraite ». Les modalités relatives au bénéfice de la surcote n'ont pas été modifiées. Le dispositif demeure le suivant lorsque la durée d'assurance dont dispose le fonctionnaire est supérieure à la durée requise pour obtenir une pension au taux maximal de 75 % l'année d'ouverture du droit (152 trimestres en 2004, 154 en 2005, 156 en 2006, 158 en 2007, 160 en 2008, 161 en 2009, 162 en 2010, 163 en 2011), chaque trimestre supplémentaire effectué après le 1er janvier 2004 et au-delà de soixante ans lui donne droit à une majoration de pension, appelée « surcote ». La majoration est de 0,75 % par trimestre supplémentaire effectué avant le 1er janvier 2009 et de 1,25 % par trimestre supplémentaire effectué à partir du 1er janvier 2009. À partir du 1er juillet 2011, compte tenu de la loi portant réforme des retraites, l'âge à compter duquel le fonctionnaire doit continuer de travailler pour ouvrir droit à la surcote est cependant relevé progressivement de soixante ans à soixante-deux ans, à raison de quatre mois par génération, à compter de la génération née après le 1er juillet 1951.
