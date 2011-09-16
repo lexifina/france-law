@@ -1,6 +1,6 @@
 # Article Annexe
 
-FERMETURES DE SERVICES DONNANT LIEU AU VERSEMENT DE LA PRIME DE RESTRUCTURATION DE SERVICE POUR "FERMETURE" (TITRES Ier ET III DE L'ARRÊTÉ DU 28 MAI 2010)
+REDÉPLOIEMENT DE PERSONNEL DONNANT LIEU AU VERSEMENT DE LA PRIME DE RESTRUCTURATION DE SERVICE POUR FERMETURE DE SERVICE (TITRES Ier ET III DE L'ARRÊTÉ DU 28 MAI 2010)
 
 OPÉRATIONS DE RESTRUCTURATION
 
@@ -14,7 +14,7 @@ Fermeture de la direction départementale de la protection judiciaire de la jeun
 
 |
 
-Mutation ou déplacement des agents de la direction effectué entre le 1er septembre 2009 et le 31 décembre 2010
+Mutation ou déplacement des agents de la direction effectué entre le 1er septembre 2009 et le 31 décembre 2010.
 
 |
 
@@ -54,6 +54,6 @@ Fermeture de la direction départementale de la protection judiciaire de la jeun
 
 |
 
-Mutation ou déplacement des agents de la direction effectué entre le 1er septembre 2009 et le 31 décembre 2010.
+Mutation ou déplacement des agents de la direction effectué entre le 1er septembre 2009 et le 31 mars 2011.
 
 |
