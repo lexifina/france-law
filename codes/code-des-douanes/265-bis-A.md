@@ -1,6 +1,8 @@
 # Article 265 bis A
 
-1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible, bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation dont les tarifs sont fixés au tableau B du 1 de l'article 265, ces taux de défiscalisation pouvant être revus à la hausse en fonction du contexte économique. Cette réduction est fixée comme suit :
+1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible, bénéficient, dans la limite des quantités fixées par agrément et sous réserve de respecter les critères de durabilité prévus par les articles L. 661-3 à L. 661-6 du code de l'énergie, d'une réduction de la taxe intérieure de consommation dont les tarifs sont fixés au tableau B du 1 de l'article 265, ces taux de défiscalisation pouvant être revus à la hausse en fonction du contexte économique. Cette réduction est fixée comme suit :
+
+(En euros par hectolitre)
 
 DÉSIGNATION DES PRODUITS
 
@@ -8,23 +10,17 @@ DÉSIGNATION DES PRODUITS
 
 RÉDUCTION
 
-(en euros par hectolitre)
-
 |
 
 Année
 
 |
 
-2011
+2014
 
 |
 
-2012
-
-|
-
-2013
+2015
 
 |
 
@@ -32,15 +28,11 @@ Année
 
 |
 
-8,00
+4,5
 
 |
 
-8,00
-
-|
-
-8,00
+3
 
 |
 
@@ -48,15 +40,11 @@ Année
 
 |
 
-8,00
+4,5
 
 |
 
-8,00
-
-|
-
-8,00
+3
 
 |
 
@@ -64,15 +52,11 @@ Année
 
 |
 
-14,00
+8,25
 
 |
 
-14,00
-
-|
-
-14,00
+7
 
 |
 
@@ -80,15 +64,11 @@ Année
 
 |
 
-14,00
+8,25
 
 |
 
-14,00
-
-|
-
-14,00
+7
 
 |
 
@@ -96,15 +76,11 @@ Année
 
 |
 
-8,00
+4,5
 
 |
 
-8,00
-
-|
-
-8,00
+3
 
 |
 
@@ -112,15 +88,11 @@ Année
 
 |
 
-14,00
+8,25
 
 |
 
-14,00
-
-|
-
-14,00
+7
 
 |
 
@@ -136,6 +108,8 @@ Année
 
 En cas de mise à la consommation ou de cession aux fins de mise à la consommation en France d'une quantité inférieure à la quantité annuelle fixée par l'agrément, cette dernière peut être réduite dans les conditions fixées par décret.
 
-5. La réduction de la taxe intérieure de consommation est accordée lors de la mise à la consommation en France des carburants et combustibles mélangés dans des entrepôts fiscaux de production ou de stockage situés dans la Communauté européenne aux produits désignés au 1, sur présentation d'un certificat de production émis par l'autorité désignée par l'Etat membre de production et d'un certificat de mélange délivré par l'administration chargée du contrôle des accises sur les huiles minérales.
+5. La réduction de la taxe intérieure de consommation est accordée lors de la mise à la consommation en France des carburants et combustibles mélangés dans des entrepôts fiscaux de production ou de stockage situés dans la Communauté européenne aux produits désignés au 1, sur présentation de la déclaration de durabilité conforme aux prescriptions de l'article L. 661-7 du code de l'énergie, d'un certificat de production émis par l'autorité désignée par l'Etat membre de production et d'un certificat de mélange délivré par l'administration chargée du contrôle des accises sur les huiles minérales.
+
+5-1. Les agents de l'administration des douanes, habilités par les textes particuliers qui leur sont applicables, sont chargés du contrôle du dépôt et de la validité de la déclaration de durabilité.
 
 6. Un décret précise les modalités d'application de ces dispositions. Toutefois, les règles relatives au premier appel à candidatures devant intervenir en application du 2 sont fixées par le ministre chargé du budget.
