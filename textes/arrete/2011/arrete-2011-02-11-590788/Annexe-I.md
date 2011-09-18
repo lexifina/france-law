@@ -24,9 +24,13 @@ QUOTA 2011
 
 en océan Atlantique
 
-à l'est de la longitude 45° Ouest
+à l'est de
+
+la longitude 45° Ouest
 
 |
+
+OP SATHOAN
 
 |
 
@@ -38,13 +42,11 @@ Jean Marie Christian 6
 
 |
 
-100
+99,9
 
 |
 
 0
-
-|
 
 |
 
@@ -56,13 +58,11 @@ Jean Marie Christian 7
 
 |
 
-100
+99,9
 
 |
 
 0
-
-|
 
 |
 
@@ -74,15 +74,11 @@ Saint Sophie François 3
 
 |
 
-66
+63,6
 
 |
 
 0
-
-|
-
-OP SA. THO. AN
 
 |
 
@@ -94,13 +90,11 @@ Janvier Louis Raphaël
 
 |
 
-122
+121,2
 
 |
 
 0
-
-|
 
 |
 
@@ -108,23 +102,19 @@ Palangriers hauturiers
 
 |
 
-|
-
-20
+20,2
 
 |
 
-|
+0
 
 |
 
-Canneurs, ligneurs ou palangriers petits métiers titulaires d'un permis de pêche spécial thon rouge
+Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
 
 |
 
-|
-
-26,5 (1)
+29,7 (1)
 
 |
 
@@ -134,9 +124,7 @@ Canneurs, ligneurs ou palangriers petits métiers titulaires d'un permis de pêc
 
 |
 
-|
-
-Total SA. THO. AN
+Total SATHOAN
 
 |
 
@@ -148,6 +136,8 @@ Total SA. THO. AN
 
 |
 
+Groupement de navires STM
+
 |
 
 900236
@@ -158,13 +148,11 @@ Gérard Luc IV
 
 |
 
-55
+54,7
 
 |
 
 0
-
-|
 
 |
 
@@ -176,13 +164,11 @@ Gérald Jean IV
 
 |
 
-52
+51,7
 
 |
 
 0
-
-|
 
 |
 
@@ -194,15 +180,11 @@ Cisberlande V
 
 |
 
-70
+69,4
 
 |
 
 0
-
-|
-
-Groupement de navires STM
 
 |
 
@@ -214,7 +196,7 @@ Eric Marin
 
 |
 
-68
+68,0
 
 |
 
@@ -222,21 +204,19 @@ Eric Marin
 
 |
 
-|
-
-Canneurs, ligneurs ou palangriers petits métiers titulaires d'un permis de pêche spécial thon rouge
+733526
 
 |
+
+La rose des vents
+
+|
+
+0,6
 
 |
 
 0
-
-|
-
-0
-
-|
 
 |
 
@@ -246,7 +226,7 @@ Total STM
 
 |
 
-245
+244,4
 
 |
 
@@ -266,7 +246,7 @@ Chrisderic II
 
 |
 
-50
+49,7
 
 |
 
@@ -274,21 +254,31 @@ Chrisderic II
 
 |
 
-|
-
-Canneurs, ligneurs ou palangriers petits métiers titulaires d'un permis de pêche spécial thon rouge
+Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
 
 |
 
-|
-
-19 (2)
+17,2 (2)
 
 |
 
 0
 
 |
+
+917384
+
+|
+
+Petit Tom
+
+|
+
+2,7
+
+|
+
+0
 
 |
 
@@ -298,7 +288,7 @@ Total PRO. QUA. PORT
 
 |
 
-69
+69,6
 
 |
 
@@ -306,11 +296,7 @@ Total PRO. QUA. PORT
 
 |
 
-Navires non adhérents à une organisation de producteurs pêchant à la canne, à la ligne ou à la palangre petits métiers titulaires d'un permis de pêche spécial thon rouge
-
-|
-
-|
+Navires non adhérant à une organisation de producteurs pêchant à la canne, à la ligne ou à la palangre "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
 
 |
 
@@ -324,11 +310,7 @@ Navires non adhérents à une organisation de producteurs pêchant à la canne, 
 
 |
 
-|
-
-Total
-
-|
+Total |
 
 798
 

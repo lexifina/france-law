@@ -16,17 +16,11 @@ en mer Méditerranée
 
 |
 
-|
-
-Pour la pêche
-
-au chalut
+Pour la pêche au chalut
 
 |
 
-Pour la pêche
-
-à l'hameçon
+Pour la pêche à l'hameçon
 
 |
 
@@ -38,7 +32,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1
+0
 
 |
 
@@ -62,7 +56,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Marins pêcheurs de Basse-Normandie (OPBN)
+Navires adhérant à l'organisation de producteurs marins pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -102,7 +96,7 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-4
+0
 
 |
 
@@ -110,15 +104,15 @@ Navires adhérant à l'organisation de producteurs Organisation des pêcheries d
 
 |
 
-Navires adhérant à l'Union des pêcheurs de la Manche et de l'Atlantique (PMA)
+Navires adhérant à l'union des Pêcheurs de la Manche et de l'Atlantique (PMA)
 
 |
 
-16
+4
 
 |
 
-11
+0
 
 |
 
@@ -134,7 +128,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-2
+0
 
 |
 
@@ -166,7 +160,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-6
+28
 
 |
 
@@ -182,7 +176,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1
+0
 
 |
 
@@ -190,7 +184,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Côtinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Côtinière
 
 |
 
@@ -230,7 +224,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-73
+82
 
 |
 
@@ -274,11 +268,11 @@ Total
 
 |
 
-52
+40
 
 |
 
-98
+110
 
 |
 
