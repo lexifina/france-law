@@ -1,7 +1,5 @@
 # Article Annexe
 
-.
-
 |
 
 PERSONNEL MILITAIRE
@@ -16,7 +14,9 @@ TOTAL
 
 |
 
-Officier supérieur
+Officier général
+
+ou supérieur
 
 |
 
@@ -72,7 +72,7 @@ Direction générale de l'armement.
 
 |
 
-3
+3 (a)
 
 |
 
@@ -100,7 +100,7 @@ Service de santé des armées.
 
 |
 
-TOTAL
+Total
 
 |
 
@@ -120,7 +120,7 @@ TOTAL
 
 |
 
-(a) Le poste d'adjoint militaire peut être tenu par un officier supérieur de la marine ou de l'armée de l'air, désigné par le ministre de la défense sur proposition des armées.
+(a) Le poste d'adjoint militaire peut être tenu par un officier général ou supérieur de la marine, de l'armée de l'air ou de la direction générale de l'armement, désigné par le ministre de la défense sur proposition des armées.
 
 (b) 3 postes d'officier supérieur de la marine sont identifiés spécialistes "réacteurs".
 
@@ -132,6 +132,6 @@ TOTAL
 
 (f) 1 sous-officier de l'armée de l'air est affecté sur l'un des deux postes secrétariat/affaires générales.
 
-(g) Les 3 postes de personnel civil de catégorie C sont identifiés au sein du REDEF, dans la famille "administration" pour un emploi-type défense "agent d'administration".
+(g) Les 3 postes de personnel civil de catégorie C sont identifiés au sein du REDEF, dans la famille "administration" pour un emploi type défense "agent d'administration".
 
 |
