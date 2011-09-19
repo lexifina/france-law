@@ -6,296 +6,264 @@ DENRÉES ALIMENTAIRES
 
 DOSES MAXIMALES D'EMPLOI
 
-(exprimées en rébaudioside A)
+(exprimées
+
+en rébaudioside A)
 
 |
 
 Boissons non alcoolisées
 
-- boissons aromatisées à base d'eau à valeur énergétique réduite, ou sans sucre ajouté
+|
+
+Boissons aromatisées à base d'eau à valeur énergétique réduite, ou sans sucre ajouté
 
 |
 
-600 mg / l
+240 mg/ l
 
 |
 
-- boissons à base de lait et produits dérivés ou de jus de fruits à valeur énergétique réduite, ou sans sucre ajouté
+Boissons à base de lait et produits dérivés ou de jus de fruits à valeur énergétique réduite, ou sans sucre ajouté
 
 |
 
-600 mg / l
+240 mg/ l
+
+|
+
+Nectars de fruits au sens du décret n° 2003-838 du 1er septembre 2003 relatif aux jus de fruits et à certains produits similaires, à valeur énergétique réduite ou sans sucres ajoutés
+
+|
+
+300 mg/ l
 
 |
 
 Desserts et produits similaires
 
-- desserts aromatisé à base d'eau à valeur énergétique réduite, ou sans sucre ajouté
+|
+
+Desserts aromatisés à base d'eau à valeur énergétique réduite, ou sans sucre ajouté
 
 |
 
-1 000 mg / kg
+300 mg/ kg
 
 |
 
-- préparations à base de lait et produits dérivés, à valeur énergétique réduite, ou sans sucre ajouté
+Préparations à base de lait et produits dérivés, à valeur énergétique réduite, ou sans sucre ajouté
 
 |
 
-1 000 mg / kg
+300 mg/ kg
 
 |
 
-- desserts à base de fruits et légumes, à valeur énergétique réduite, ou sans sucre ajouté
+Desserts à base de fruits et légumes, à valeur énergétique réduite, ou sans sucre ajouté
 
 |
 
-1 000 mg / kg
+300 mg/ kg
 
 |
 
-- desserts à base d'œuf à valeur énergétique réduite, ou sans sucre ajouté
+Desserts à base d'œuf à valeur énergétique réduite, ou sans sucre ajouté
 
 |
 
-1 000 mg / kg
+300 mg/ kg
 
 |
 
-- desserts à base de céréales, à valeur énergétique réduite, ou sans sucre ajouté
+Desserts à base de céréales, à valeur énergétique réduite, ou sans sucre ajouté
 
 |
 
-1 000 mg / kg
+300 mg/ kg
 
 |
 
-- desserts à base de matières grasses, à valeur énergétique réduite, ou sans sucre ajouté
+Desserts à base de matières grasses, à valeur énergétique réduite, ou sans sucre ajouté
 
 |
 
-1 000 mg / kg
+300 mg/ kg
 
 |
 
-- glaces de consommation, à valeur énergétique réduite, ou sans sucre ajouté
+Glaces de consommation, à valeur énergétique réduite, ou sans sucre ajouté
 
 |
 
-800 mg / kg
+610 mg/ kg
 
 |
 
 Confiseries
 
-- confiseries sans sucres ajoutés
+|
+
+Confiseries sans sucres ajoutés
 
 |
 
-1 000 mg / kg
+1 000 mg/ kg
 
 |
 
-- micro-confiserie pour rafraîchir l'haleine sans sucres ajoutés
+Micro-confiserie pour rafraîchir l'haleine sans sucres ajoutés
 
 |
 
-10 000 mg / kg
+6 060 mg/ kg
 
 |
 
-- pastille rafraîchissante forte aromatisée pour la gorge sans sucres ajoutés
+Pastille rafraîchissante forte aromatisée pour la gorge sans sucres ajoutés
 
 |
 
-2 000 mg / kg
+2 000 mg/ kg
 
 |
 
-- confiseries à base de cacao ou de fruits secs à valeur énergétique réduite, ou sans sucre ajouté
+Confiseries à base de cacao ou de fruits secs à valeur énergétique réduite, ou sans sucre ajouté
 
 |
 
-2 000 mg / kg
+820 mg/ kg
 
 |
 
-- confiseries à base d'amidon à valeur énergétique réduite, ou sans sucre ajouté
+Gommes à mâcher sans sucres ajoutés
 
 |
 
-2 000 mg / kg
-
-|
-
-- pâtes à tartiner à base de cacao, de lait, de fruits secs ou de graisses, à valeur énergétique réduite, ou sans sucre ajouté
-
-|
-
-- gommes à mâcher sans sucres ajoutés
-
-|
-
-5 500 mg / kg
+5 500 mg/ kg
 
 |
 
 Autres produits
 
-Cidre et poiré :
+|
+
+Bières sans alcool ou ayant une teneur en alcool ne dépassant pas 1,2 %
 
 |
 
-600 mg / l
+210 mg/ l
 
 |
 
-- bières sans alcool ou ayant une teneur en alcool ne dépassant pas 1, 2 %
+Bière de table/ Tafelbier/ Table Beer (contenant moins de 6 % de moût primitif) sauf Obergäriges Einfachbier
 
 |
 
-600 mg / l |
-
-- Bière de table / Tafelbier / Table Beer (contenant moins de 6 % de moût primitif) sauf Obergäriges Einfachbier
+210 mg/ l
 
 |
 
-600 mg / l
+Bières ayant une acidité minimale de 30 milli-équivalents exprimée en NaOH
 
 |
 
-- bières ayant une acidité minimalle de 30 mill-équivalents exprimée en NaOH
+210 mg/ l
 
 |
 
-600 mg / l
+Bières brunes de type oud bruin
 
 |
 
-- bières brunes de type oud bruin
+210 mg/ l
 
 |
 
-600 mg / l
+Boissons constituées d'un mélange de bière, de cidre, de poiré, de spiritueux ou de vin et de boissons non alcoolisées
 
 |
 
-- bière à valeur énergétique réduite
+450 mg/ l
 
 |
 
-600 mg / l
+Boissons spiritueuses avec une teneur en alcool de moins de 15 % en volume
 
 |
 
-- boissons constituées d'un mélange de bière, de cidre, de poiré, de spiritueux ou de vin et de boissons non alcoolisées
+450 mg/ l
 
 |
 
-600 mg / l
+Préparations de fruits et légumes à valeur énergétique réduite
 
 |
 
-- boissons spiritueuses avec une teneur en alcool de moins de 15 % en volume
+610 mg/ kg
 
 |
 
-600 mg / l
+Conserves de fruits et légumes aigres douces
 
 |
 
-- fruits en boîte ou en bocal, à valeur énergétique réduite ou sans sucre ajouté
+300 mg/ kg
 
 |
 
-1 000 mg / kg
+Conserves et semi-conserves aigres douces de poissons et marinades de poissons, crustacés et mollusques
 
 |
 
-- préparations de fruits et légumes à valeur énergétique réduite
+600 mg/ kg
 
 |
 
-1 000 mg / kg
+Denrées alimentaires destinées à être utilisées dans les régimes hypocaloriques destinés à la perte de poids au sens de l'arrêté du 20 juillet 1977 en application du décret du 29 août 1991 sur les produits diététiques et de régime
 
 |
 
-- conserves de fruits et légumes aigres douces
+800 mg/ kg
 
 |
 
-600 mg / kg
+Aliments de régime destinés à des fins médicales spéciales au sens de l'arrêté du 20 septembre 2000 relatif aux aliments diététiques destinés à des fins médicales spéciales
 
 |
 
-- conserves et semi-conserves aigres douces de poissons et marinades de poissons, crustacés et mollusques
+1 000 mg/ kg
 
 |
 
-600 mg / l
+Compléments alimentaires liquides au sens du décret du 20 mars 2006 relatif aux compléments alimentaires
 
 |
 
-- Feinkostsalat
+600 mg/ kg
 
 |
 
-350 mg / kg
+Compléments alimentaires solides au sens du décret du 20 mars 2006 relatif aux compléments alimentaires
 
 |
 
-- moutarde
+2 000 mg/ kg
 
 |
 
-350 mg / kg
+Compléments alimentaires à base de vitamines et/ ou éléments minéraux sous forme de sirop ou à mâcher au sens du décret du 20 mars 2006 relatif aux compléments alimentaires
 
 |
 
-- denrées alimentaires destinées à être utilisées dans les régimes hypocaloriques destinés à la perte de poids au sens de l'arrêté du 20 juillet 1977 susvisé
+5 450 mg/ kg
 
 |
 
-800 mg / kg
+Edulcorants de table
 
 |
 
-- aliments de régime destinés à des fins médicales spéciales au sens de l'arrêté du 20 septembre 2000 susvisé
-
-|
-
-1 000 mg / kg
-
-|
-
-- compléments alimentaires liquides
-
-|
-
-600 mg / kg
-
-|
-
-- compléments alimentaires solides
-
-|
-
-2 000 mg / kg
-
-|
-
-- compléments alimentaires à base de vitamines et / ou éléments minéraux sous forme de sirop, ou à mâcher
-
-|
-
-5 500 mg / kg
-
-|
-
-- édulcorants de table
-
-|
-
-Bonnes pratiques de fabrication
+Quantum satis
 
 |
