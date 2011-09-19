@@ -4,117 +4,117 @@ DENSITÉS MINIMALES DES SITES, PARAMÈTRES ET FRÉQUENCES POUR LE PROGRAMME
 
 DE CONTRÔLE DE SURVEILLANCE DE L'ÉTAT CHIMIQUE DES EAUX SOUTERRAINES
 
-A.-Densités minimales
+A. - Densités minimales
 
 Type de la masse d'eau
 
 |
 
-Densité minimale (nb points / km 2)
+Densité minimale (nombre de points/km2)
 
 |
 
-SEDIMENTAIRE
+Dominante sédimentaire non alluviale (DS)
 
 |
 
-Libre (s) et captif dissociés
+Libre(s) et captif dissociés
 
 |
 
-Libre
+Entièrement libre (EL)
 
 |
 
-Karst
+Avec présence de karstification
 
 |
 
-1 / 500
+1/500
 
 |
 
-Non Karst
+Sans présence de karstification
 
 |
 
-1 / 500
+1/500
 
 |
 
-Captif
+Entièrement captif (EC)
 
 |
 
-1 / 3000
+1/3000
 
 |
 
-Libre (s) et captif associés
+Libre(s) et captif associés
 
 |
 
-Captif dominant
+Une ou des partie(s) libre(s) et une ou des partie(s) captive(s), les écoulements sont majoritairement captifs MC)
 
 |
 
-1 / 3000
+1/3000
 
 |
 
-Libre dominant
+Une ou des partie(s) libre(s) et une ou des partie(s) captive(s), les écoulements sont majoritairement libres (ML)
 
 |
 
-1 / 500
+1/500
 
 |
 
-ALLUVIONS
+Alluvial (A)
 
 |
 
-1 / 500
+1/500
 
 |
 
-SOCLE
+Socle (S)
 
 |
 
-1 / 3500
+1/3500
 
 |
 
-EDIFICE VOLCANIQUE
+Edifice volcanique (EV)
 
 |
 
-1 / 3500
+1/3500
 
 |
 
-INTENSEMENT PLISSE
+Système hydraulique composite propre aux zones intensément plissées de montagne (IP)
 
 |
 
-1 / 3500
+1/3500
 
 |
 
-IMPERMEABLE LOCALEMENT AQUIFERE
+Système imperméable localement aquifère (IL)
 
 |
 
-Au cas par cas en tenant compte des connaissances sur le fonctionnement hydrodynamique du système. Regroupement des masses d'eau et mesures dans des sites intégrateurs sont recommandés
+Au cas par cas en tenant compte des connaissances sur le fonctionnement hydrodynamique du système.
 
 |
 
-B.-Paramètres et fréquences
+B. - Paramètres et fréquences
 
 Deux niveaux d'analyses seront menés :
 
--une analyse de type photographique réalisée tous les six ans sur tous les sites de contrôle, la première année du programme de surveillance : elle s'applique à une liste complète de paramètres et permet de disposer régulièrement d'un état complet de la masse d'eau (tableau ci-après à adapter en fonction du contexte de chaque masse d'eau).
+- une analyse de type "photographique" réalisée tous les six ans sur tous les sites de contrôle, la première année du programme de surveillance : elle s'applique à une liste complète de paramètres et permet de disposer régulièrement d'un état complet de la masse d'eau (tableau ci-après à adapter en fonction du contexte de chaque masse d'eau).
 
 Physico-chimie in situ
 
@@ -152,15 +152,13 @@ Eléments majeurs
 
 |
 
-Hydrogéno carbonates (HCO 3-)
+Hydrogéno carbonates (HCO3-)
 
 |
 
 |
 
-Carbonates (CO 3
-
-2-)
+Carbonates (CO3²-)
 
 |
 
@@ -172,33 +170,31 @@ Chlorures (Cl-)
 
 |
 
-Sulfates (SO 4
-
-2-)
+Sulfates (SO4²-)
 
 |
 
 |
 
-Calcium (Ca 2 +)
+Calcium (Ca²+)
 
 |
 
 |
 
-Magnésium (Mg 2 +)
+Magnésium (Mg²+)
 
 |
 
 |
 
-Sodium (Na +)
+Sodium (Na+)
 
 |
 
 |
 
-Potassium (K +)
+Potassium (K+)
 
 |
 
@@ -206,7 +202,7 @@ Matières organiques oxydables
 
 |
 
-Oxydabilité au KMnO 4 à chaud en milieu acide
+Oxydabilité au KMnO4 à chaud en milieu acide
 
 |
 
@@ -246,7 +242,7 @@ Dureté totale
 
 |
 
-Silicates (SiO 2)
+Silicates (SiO2)
 
 |
 
@@ -260,13 +256,13 @@ Composés azotés
 
 |
 
-Nitrates (NO 3-)
+Nitrates (NO3-)
 
 |
 
 |
 
-Ammonium (NH 4 +)
+Ammonium (NH4+)
 
 |
 
@@ -310,7 +306,7 @@ Cuivre (Cu)
 
 |
 
-Cyanures (CN-)
+Cyanures (CN- )
 
 |
 
@@ -352,67 +348,67 @@ Environnement rural
 
 Organochlorés :
 
--lindane ou HCH,
+- lindane ou HCH
 
--métolachlore,
+- métolachlore
 
--métazachlore
+- métazachlore
 
 |
 
 Environnement rural
 
-ou industriel / urbain
+ou industriel/urbain
 
 |
 
 Organoazotés :
 
--atrazine,
+- atrazine
 
--simazine,
+- simazine
 
--déséthyl atrazine,
+- déséthylatrazine
 
--déséthylsimazine,
+- déséthylsimazine
 
--terbuthylazine
+- terbuthylazine
 
 |
 
 Environnement rural
 
-ou industriel / urbain
+ou industriel/urbain
 
 |
 
 Urées substituées :
 
--diuron,
+- diuron
 
--isoproturon,
+- isoproturon
 
--chlortoluron
+- chlortoluron
 
 |
 
 Environnement industriel
 
-et / ou urbain
+et/ou urbain
 
 |
 
 Composés organo-halogénés volatils (COV) :
 
--tétrachloroéthylène,
+- tétrachloroéthylène
 
--trichloroéthylène ou trichloroéthène,
+- trichloroéthylène ou trichloroéthène
 
--chloroforme,
+- chloroforme
 
--tétrachlorure de carbone,
+- tétrachlorure de carbone
 
--1, 1, 1 trichloroéthane
+- 1,1,1 trichloroéthane
 
 |
 
@@ -420,29 +416,19 @@ Autres paramètres à considérer en fonction de la masse d'eau
 
 |
 
--Composés organophosphorés,
+Composés organophosphorés
+
+Composés organostanniques
+
+Hydrocarbures persistants et substances organiques toxiques persistantes et bioaccumulables
+
+Produits biocides et phytopharmaceutiques
+
+Listes de pesticides établies par les groupes régionaux chargés des phytosanitaires (listes SIRIS régionales)
 
 |
 
--Composés organostanniques,
-
-|
-
--Hydrocarbures persistants et substances organiques toxiques persistantes et bioaccumulables,
-
-|
-
--Produits biocides et phytopharmaceutiques
-
-|
-
--Listes de pesticides établies par les groupes régionaux chargés des
-
-phytosanitaires (listes SIRIS régionales)
-
-|
-
--des analyses 1 à 2 fois par an avec un prélèvement en période de hautes eaux et un prélèvement en période de basses eaux pour les nappes libres, un prélèvement par an pour les nappes captives.
+- des analyses 1 à 2 fois par an avec un prélèvement en période de hautes eaux et un prélèvement en période de basses eaux pour les nappes libres, un prélèvement par an pour les nappes captives.
 
 Les paramètres analysés sont a minima les suivants :
 
@@ -482,15 +468,13 @@ Eléments majeurs
 
 |
 
-Hydrogéno carbonates (HCO 3-)
+Hydrogéno carbonates (HCO3-)
 
 |
 
 |
 
-Carbonates (CO 3
-
-2-)
+Carbonates (CO3²-)
 
 |
 
@@ -502,33 +486,31 @@ Chlorures (Cl-)
 
 |
 
-Sulfates (SO 4
-
-2-)
+Sulfates (SO4²-)
 
 |
 
 |
 
-Calcium (Ca 2 +)
+Calcium (Ca²+)
 
 |
 
 |
 
-Magnésium (Mg 2 +)
+Magnésium (Mg²+)
 
 |
 
 |
 
-Sodium (Na +)
+Sodium (Na+)
 
 |
 
 |
 
-Potassium (K +)
+Potassium (K+)
 
 |
 
@@ -536,7 +518,7 @@ Matières organiques oxydables
 
 |
 
-Oxydabilité au KMnO 4 à chaud en milieu acide
+Oxydabilité au KMnO4 à chaud en milieu acide
 
 |
 
@@ -576,7 +558,7 @@ Dureté totale
 
 |
 
-Silicates (SiO 2)
+Silicates (SiO²)
 
 |
 
@@ -584,13 +566,13 @@ Composés azotés
 
 |
 
-Nitrates (NO 3-)
+Nitrates (NO3-)
 
 |
 
 |
 
-Ammonium (NH 4 +)
+Ammonium (NH4+)
 
 |
 
@@ -598,14 +580,14 @@ Micropolluants organiques
 
 |
 
--Famille des triazines (+ métabolites)
+Famille des triazines (+ métabolites)
 
--Famille des urées substituées
+Famille des urées substituées
 
--Substances identifiées au niveau régional
+Substances identifiées au niveau régional
 
 |
 
-Il convient d'ajouter à cette liste les paramètres indicatifs des pressions qui s'exercent sur les masses d'eau souterraine, et en particulier les paramètres pour lesquels une norme de qualité ou une valeur seuil a été fixée par l'arrêté du 17 décembre 2008 établissant les critères d'évaluation et les modalités de détermination de l'état des eaux souterraines.
+Il convient d'ajouter à cette liste les paramètres indicatifs des pressions qui s'exercent sur les masses d'eau souterraine et, en particulier, les paramètres pour lesquels une norme de qualité ou une valeur seuil a été fixée par l'arrêté du 17 décembre 2008 établissant les critères d'évaluation et les modalités de détermination de l'état des eaux souterraines.
 
 La fréquence des analyses peut également être adaptée afin de permettre la détermination des tendances à la hausse ou les inversions de tendance des paramètres suivis.
