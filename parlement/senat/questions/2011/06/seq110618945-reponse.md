@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110618945
+
+- Question : [SEQ110618945](seq110618945.md) — Financement des commissions locales d'information des installations nucléaires
+
+## Réponse
+
+*Écologie, JO du 2011-09-22, page 2447*
+
+La loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire prévoit que les dépenses des commissions locales d'information (CLI) sont financées par l'État et les collectivités territoriales. L'autorité de sûreté nucléaire, disposant de crédits à cet effet, apporte la contribution de l'État aux dépenses des CLI. Le ministre de l'écologie, du développement durable, des transports et du logement attache une importance particulière aux questions relatives à la transparence et à l'information en matière de sécurité nucléaire. Il est donc très attentif à ce que les CLI, qui constituent un maillon essentiel de la nécessaire concertation et de la transparence autour des installations nucléaires de base, disposent des moyens d'action leur permettant d'assumer pleinement les missions qui leur ont été confiées par la loi n° 2006-686. L'État contribue ainsi déjà chaque année, pour plus de 600 000 €, au financement des CLI et de l'Association nationale des commissions et comités locaux d'information (ANCCLI) par l'intermédiaire de l'autorité de sûreté nucléaire. La loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire, dite « loi TSN » a prévu que les commissions locales d'information (CLI) dotées de la personnalité juridique pourraient recevoir une part du produit de la taxe instituée par l'article 43 de la loi de finances pour 2000 dans les conditions définies en loi de finances. Un tel financement direct n'a pas encore été mis en oeuvre jusqu'à maintenant car il n'y avait pas de besoins réels suffisants.
