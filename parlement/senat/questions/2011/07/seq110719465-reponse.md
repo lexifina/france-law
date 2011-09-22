@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719465
+
+- Question : [SEQ110719465](seq110719465.md) — Reconnaissance et valorisation des sapeurs-pompiers
+
+## Réponse
+
+*Intérieur, JO du 2011-09-22, page 2450*
+
+L'honorable parlementaire appelle l'attention de M. le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration, sur la reconnaissance des sapeurs-pompiers, sujet abordé lors de la commission « Ambition volontariat ». Il propose d'ajouter un échelon bronze à la médaille d'honneur des sapeurs-pompiers et d'abaisser les durées exigées à 10, 15 et 20 années de services au lieu des 20, 25 et 35 années actuelles. La médaille d'honneur des sapeurs-pompiers a vocation à récompenser la durée des services accomplis en cette qualité par les sapeurs-pompiers civils, professionnels ou volontaires. La direction de la sécurité civile travaille actuellement sur un projet de décret proposant un élargissement des conditions d'attribution de cette décoration afin qu'elle puisse aussi être décernée aux sapeurs-pompiers de Paris, aux marins pompiers de Marseille et aux militaires des unités d'instruction et d'intervention de la sécurité civile. Ce projet de décret prévoit aussi l'ajout d'un échelon bronze qui serait décerné à 10 années de services et d'un échelon grand or pour 40 années de services. M. le ministre de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration est très attentif à mettre en valeur l'engagement citoyen des sapeurs-pompiers, professionnels, volontaires ou militaires. Dans un souci légitime de reconnaissance de la nation à leur égard, il est en accord avec la proposition de modifier les critères d'attribution de la médaille d'honneur des sapeurs-pompiers afin de mieux prendre en compte le volontariat d'une part, et les plus longues carrières d'autre part.
