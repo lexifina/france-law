@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110619188
+
+- Question : [SEQ110619188](seq110619188.md) — Encadrement des loyers à la relocation
+
+## Réponse
+
+*Logement, JO du 2011-09-22, page 2452*
+
+Dans le secteur privé, l'adoption d'un nouvel indice de référence des loyers (IRL) calqué sur l'indice des prix à la consommation a contribué à une baisse des augmentations liées à la révision annuelle des loyers. Ainsi, les variations de cet indice ont été négatives à deux reprises au cours de l'année 2009. En 2010, les hausses enregistrées restent parmi les plus faibles depuis plusieurs années, et le rapport sur l'évolution des loyers du parc locatif privé en 2010 qui sera remis prochainement au Parlement montre un tassement des hausses de loyers à Paris et en province par rapport aux années précédentes. Dans le parc social, le Gouvernement, conscient des difficultés rencontrées par les locataires notamment en matière de loyers, a encadré l'évolution des loyers. Ainsi, la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 prévoit, dans son article 210, par dérogation aux articles L. 442-1 et L. 445-4 du code de la construction et de l'habitation, que la révision des loyers pratiqués des organismes HLM ne peut excéder la variation de l'IRL du troisième trimestre de l'année précédente, soit, pour l'année 2011, une hausse qui ne peut être supérieure à 1,10 %. L'application de cette disposition est prévue pour une durée de trois ans, soit jusqu'au 31 décembre 2013. L'ensemble de ces dispositions contribue à un encadrement efficace des loyers, sans les geler, ce qui s'est révélé être une mesure contre-productive dans le passé. En effet, une mesure qui prive les bailleurs de ressources nécessaires à l'entretien et à l'amélioration du logement, risque de décourager l'investissement locatif, alors qu'il est souhaitable de développer une offre de logements permettant de réduire les tensions sur le marché locatif.
