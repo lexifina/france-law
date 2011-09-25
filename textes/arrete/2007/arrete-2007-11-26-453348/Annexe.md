@@ -4,98 +4,100 @@ SERVICES DÉCONCENTRÉS ET SERVICES À COMPÉTENCE NATIONALE
 
 DE LA DIRECTION GÉNÉRALE DES DOUANES ET DROITS INDIRECTS
 
-Direction interrégionale d'Antilles-Guyane.
+Direction interrégionale d'Antilles-Guyane
 
 |
 
-Direction régionale de Guadeloupe.
+Direction régionale de Guadeloupe
 
 |
 
-Direction interrégionale de Bordeaux.
+Direction interrégionale de Bordeaux
 
 |
 
-Direction régionale de Guyane.
+Direction régionale de Guyane
 
 |
 
-Direction interrégionale de Dijon.
+Direction interrégionale de Dijon
 
 |
 
-Direction régionale de La Réunion.
+Direction régionale de La Réunion
 
 |
 
-Direction interrégionale de Lille.
+Direction interrégionale de Lille
 
 |
 
-Direction régionale de Nouvelle-Calédonie.
+Direction régionale de Nouvelle-Calédonie
 
 |
 
-Direction interrégionale de Lyon.
+Direction interrégionale de Lyon
 
 |
 
-Direction régionale de Polynésie française.
+Direction régionale de Polynésie française
 
 |
 
-Direction interrégionale de Marseille.
+Direction interrégionale de Marseille
 
 |
 
-Service à compétence nationale "direction nationale du renseignement et des enquêtes douanières".
+Direction régionale de Mayotte (1)
 
 |
 
-Direction interrégionale de Metz.
+Direction interrégionale de Metz
 
 |
 
-Service à compétence nationale "direction nationale du recrutement et de la formation professionnelle".
+Service à compétence nationale "direction nationale du renseignement et des enquêtes douanières"
 
 |
 
-Direction interrégionale de Montpellier.
+Direction interrégionale de Montpellier
 
 |
 
-Service à compétence nationale "centre informatique douanier".
+Service à compétence nationale "direction nationale du recrutement et de la formation professionnelle"
 
 |
 
-Direction interrégionale de Nantes.
+Direction interrégionale de Nantes
 
 |
 
-Service à compétence nationale "direction nationale des statistiques et du commerce extérieur".
+Service à compétence nationale "centre informatique douanier"
 
 |
 
-Direction interrégionale de Paris.
+Direction interrégionale de Paris
 
 |
 
-Service de Saint-Pierre-et-Miquelon (1).
+Service à compétence nationale "direction nationale des statistiques du commerce extérieur"
 
 |
 
-Direction interrégionale de Roissy.
+Direction interrégionale de Roissy
+
+|
+
+Service de Saint-Pierre-et-Miquelon (1)
+
+|
+
+Direction interrégionale de Rouen
 
 |
 
 |
 
-Direction interrégionale de Rouen.
-
-|
-
-|
-
-(1) CAP nos 2 et 3.
+(1) CAP n° 2 et n° 3.
 
 |
