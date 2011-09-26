@@ -692,7 +692,7 @@ a) Soit dès la date de consolidation des blessures dans le cas où l'invalidit�
 
 b) Soit dès la date de stabilisation de l'état de l'agent lorsque celui-ci demeure apte à exercer une activité réduite ;
 
-c) Soit, dans les autres cas, à l'issue des congés prévus aux troisième et quatrième alinéas du paragraphe 1er de l'article 22 du statut national, la procédure de reconnaissance de l'invalidité devant être engagée par la médecine-conseil du régime spécial six mois avant le terme de ces congés.
+c) Soit, dans les autres cas, à l'issue de la durée maximale des congés prévus aux troisième et quatrième alinéas du paragraphe 1er de l'article 22 du statut national, la procédure de reconnaissance de l'invalidité devant être engagée par la médecine-conseil du régime spécial six mois avant le terme de ces congés.
 
 La décision de mise en invalidité est prise par le directeur de la Caisse nationale des industries électriques et gazières sur avis conforme de deux médecins-conseils du régime spécial des industries électriques et gazières. En cas de désaccord entre ces deux médecins, l'avis définitif est donné par le médecin conseil national du régime spécial.
 
@@ -744,7 +744,7 @@ Règles de cumuls
 
 La pension d'invalidité est servie dans le respect des règles de cumul suivantes :
 
-1° La pension d'invalidité servie aux agents classés dans la première catégorie est cumulable avec des revenus d'activité dans la limite du dernier salaire ayant servi à la détermination de celle-ci ; la pension est suspendue ou réduite lorsque le montant cumulé de la pension d'invalidité et des salaires ou gains de l'agent excède le dernier salaire ci-dessus ;
+1° La pension d'invalidité est cumulable avec des revenus d'activité dans la limite du dernier salaire ayant servi à la détermination de celle-ci. Le montant du dernier salaire est revalorisé dans les conditions prévues à l'article 20 de la présente annexe ; il prend en compte les augmentations individuelles dont bénéficie l'agent en application du présent statut, au prorata du temps de travail effectué. La pension est suspendue ou réduite lorsque le montant cumulé de la pension d'invalidité et des salaires ou gains de l'agent excède le montant du dernier salaire ainsi déterminé ;
 
 2° La pension d'invalidité servie aux agents classés dans les trois catégories est cumulable avec une rente accident du travail ou maladie professionnelle dans la limite du dernier salaire ayant servi à la détermination de la pension d'invalidité ;
 
@@ -775,6 +775,8 @@ Article 37
 Transformation en pension de vieillesse
 
 La pension d'invalidité est servie au maximum jusqu'à l'âge mentionné au 1° du I de l'article 16. Sauf en cas de reprise ou de poursuite d'une activité, une pension de vieillesse lui est substituée d'office le premier jour du mois qui suit la date à laquelle l'agent a atteint l'âge mentionné au 1° du I de l'article 16. Toutefois la pension d'invalidité est également substituée d'office avant cet âge dès lors que l'agent ouvre droit à pension de vieillesse et qu'il réunit, au sein du régime spécial, le nombre de trimestres nécessaires pour obtenir le pourcentage maximum de pension de vieillesse visé à l'article 9 de la présente annexe.
+
+L'agent placé en invalidité de catégorie 1 qui exerce une activité professionnelle continue à bénéficier de sa pension d'invalidité jusqu'à la date pour laquelle il demande le bénéfice de sa pension de vieillesse et, au plus tard, jusqu'à l'âge mentionné au deuxième alinéa de la section intitulée " départ en inactivité " de l'article 4 du présent statut ou, le cas échéant, au plus tard à l'âge mentionné au 1° de la section intitulée " dispositions transitoires " de ce même article. Ses droits à pension de vieillesse sont alors liquidés sur sa demande dans les conditions prévues à l'article 39 de la présente annexe.
 
 Le temps passé en situation d'invalidité est validé, sans contrepartie de cotisations, pour le décompte des services admissibles en liquidation au titre du premier alinéa de l'article 9 de la présente annexe.
 
@@ -1736,78 +1738,138 @@ Prise en compte des périodes effectuées en école de métiers conformément au
 
 Vous pouvez consulter le tableau dans le JO n° 151 du 29/06/2008 texte numéro 12
 
-Complément relatif aux prestations invalidité, vieillesse, décès
+Complément relatif aux prestations invalidité, vieillesse, décès.
 
-Pour l'application des dispositions du a 1° de l'article 2 de la présente annexe 3, les trois catégories de services insalubres, actifs et sédentaires sont ainsi définies :
+Pour l'application des dispositions du a du 1° de l'article 2 de la présente annexe 3, les services actifs et sédentaires sont définis et le classement des emplois effectué conformément aux dispositions suivantes :
 
-a) Services insalubres.
+A. Définition des services actifs.
 
-Les emplois suivants :
+I. - Sont classés en services actifs les emplois répondant aux critères de pénibilité prévus au II appréciés dans les conditions fixées au III.
 
-1° Batteries et gazogènes :
+II. - Les critères de pénibilité pour le classement des emplois en services actifs sont les suivants :
 
-Conducteurs de batteries et dégorgeurs ou dégoudronneurs de barillet (dans les cas où l'installation n'exclut pas la possibilité d'une teneur nocive en oxyde de carbone et où l'homme y est exposé plus de cent heures par mois).
+1° Efforts physiques importants :
 
-Dégorgeurs de colonnes montantes de fours à cornes horizontales, faisant ce travail à titre d'occupation principale.
+a) Ascension de supports sans nacelle : ascension d'un support (pylône, poteau, ouvrage, échafaudage de hauteur comparable) ;
 
-Réparateurs de fuites.
+b) Port de charges lourdes ; une charge est considérée comme étant lourde lorsqu'elle pèse au moins vingt-cinq kilogrammes pour les hommes et au moins douze kilogrammes et demi pour les femmes ;
 
-Conducteurs, décrasseurs de gazogènes installés en sous-sol.
+c) Manipulation d'outillages, d'organes de manœuvre ou d'équipements lourds : vannes, presses hydrauliques, engins de levage notamment ;
 
-2° Fabrication du sulfate d'ammoniaque :
+d) Terrassement à la main ;
 
-Sulfatiers.
+e) Tirage manuel de câbles ou de canalisations ;
 
-Conducteurs de saturateurs (sauf lorsque les gaz résiduaires sont captés et que la ventilation de la salle est assurée d'une façon satisfaisante).
+f) Autres situations de travail ayant des caractéristiques semblables mentionnées dans le référentiel de classement des emplois prévu au B.
 
-3° Distillation du benzol :
+2° Postures non naturelles et pénibles :
 
-Débenzoliers (sauf si l'installation fonctionne en vase clos et est ventilée d'une façon satisfaisante. L'emploi devra, en outre, y avoir été exercé pendant au moins cent heures par mois).
+a) Travaux avec membres supérieurs levés ;
 
-4° Manipulation du brai :
+b) Travaux en position accroupie, agenouillée ou allongée ;
 
-Couleurs.
+c) Travail en façade ;
 
-Casseurs.
+d) Travail dans un lieu dont la configuration rend difficiles les mouvements : cuves, fouilles, galeries ;
 
-Chargeurs (à condition que l'emploi soit exercé du 1er mai au 1er octobre).
+e) Port d'équipements entravant les mouvements (combinaisons complètes, masques de protection respiratoire intégraux) ;
 
-5° Egoutiers travaillant au moins cent heures par mois dans les égouts laissant échapper les eaux résiduaires de l'usine.
+f) Autres situations de travail ayant des caractéristiques semblables les rattachant à ce type de critère et mentionnées dans le référentiel de classement des emplois prévu au B.
 
-b) Services actifs.
+3° Travail physique dans un espace clos à température extrême : forte chaleur (température supérieure à trente-cinq degrés) ; froid intense (température inférieure à zéro degré).
 
-Tout le personnel ouvrier des échelles n os 1 à 10 classé dans les définitions techniques (colonnes de gauche, article 8 du statut) et, en tout état de cause, les emplois suivants :
+4° Travail manuel (activité physique impliquant la manipulation d'outillage) contraint (ne pouvant être reporté), effectué à l'extérieur et, par conséquent, exposé aux intempéries sans possibilité de s'y soustraire.
 
-Chef d'équipe, chef de fabrication, chef d'entretien, chef de poste, chef de secteur, chef de cour-wattman.
+5° Horaires pouvant avoir un impact sur le cycle de sommeil :
 
-Surveillant de fabrication, surveillant d'émission, surveillant au tableau.
+a) Services continus par roulement ;
 
-Conducteur de travaux.
+b) Travail de nuit dans le cadre de l'horaire normal pendant au moins 270 heures par an ;
 
-Ajusteur, soudeur autogène, soudeur chaudronnier, tôlier, mécanicien d'entretien.
+c) Sollicitations (sorties du domicile pour interventions ou dérangements au domicile : appels téléphoniques, alarmes notamment) au titre de l'exploitation des ouvrages industriels dans le cadre de l'astreinte : sur un cycle annuel, au moins quinze nuits donnant lieu à sorties hors du domicile pour interventions ou vingt-six nuits donnant lieu à sorties du domicile pour interventions ou dérangements au domicile.
 
-Monteur électricien, monteur de lignes.
+III. - Décompte des services actifs et détermination du taux de services actifs.
 
-Mécanicien d'autos.
+1° Sont retenues, pour la qualification des emplois en services actifs et l'appréciation d'un taux de services actifs, les heures de travail correspondant à l'horaire normal de l'emploi, mettant en œuvre un ou plusieurs critères de pénibilité définis au II.
 
-Plombier, fumiste, forgeron, menuisier, maçon, électricien.
+Pour être classé en services actifs, un emploi doit comporter soit la réalisation d'au moins 200 heures par année civile de travaux répondant à un ou plusieurs critères de pénibilité définis au II, soit des sollicitations liées à l'astreinte mentionnées au c du 5° du II.
 
-Chauffeur de chaudières, chauffeur de fours, décrasseur de gazogènes, nettoyeur de chaudières, conducteur d'appareils, graisseur, turbinier, machiniste, ouvrier d'entretien, niveleur, vérificateur, étalonneur de compteurs, encaisseur, releveur-encaisseur, inspecteurs des travaux actifs.
+2° Il est affecté aux emplois mentionnés au deuxième alinéa du 1° un taux de services actifs de 1 % par tranche de 10 heures de travaux répondant à un ou plusieurs critères de pénibilité définis au II au cours d'une année civile, ce taux ne pouvant être inférieur à 20 % ni excéder 100 %. Pour la détermination du taux, le nombre d'heures répondant aux critères de pénibilité définis au II est arrondi à la dizaine la plus proche.
 
-Soutier, cendrier, grutier, terrassier, paveur.
+Lorsqu'une activité répond simultanément à plusieurs critères de pénibilité, le nombre d'heures comptabilisées au titre de la pénibilité de l'activité considérée est augmenté de 10 %, sans que le taux total de services actifs puisse excéder 100 %.
 
-Chauffeur de camion, charretier, voiturier.
+3° Les sollicitations liées à l'astreinte définies au c du 5° du II ouvrent droit à :
 
-Magasinier (lorsqu'il est considéré comme ouvrier).
+a) Un taux forfaitaire de services actifs fixé à 20 % pour les emplois dont les activités ne répondent pas à d'autres critères de pénibilité ;
 
-Manœuvres ordinaires et spécialisés.
+b) Une majoration de 20 points du taux de services actifs résultant du décompte effectué au titre de l'horaire normal, sans que le taux total résultant du décompte puisse dépasser 100 %, pour les emplois dont l'exercice répond à d'autres critères de pénibilité.
 
-Gardien de poste.
+4° Lorsqu'une activité répondant à un ou plusieurs critères de pénibilité nécessite des déplacements automobiles sur le réseau routier, le nombre d'heures de pénibilité prises en compte au titre de cette activité est majoré de 5 %, sans que le taux total de services actifs puisse excéder 100 %.
 
-Chimiste.
+5° Tout emploi qui comporte des horaires pouvant avoir un impact sur le cycle de sommeil tel que mentionné aux a et b du 5° du II, exercé soit en services continus par roulement pour une année complète, soit en travail de nuit pendant au moins 270 heures par année civile dans le cadre de l'horaire habituel, est classé en services actifs avec un taux de 100 %.
 
-Géomètre.
+6° Pour les emplois en services discontinus comportant des périodes de services continus une partie de l'année, la prise en compte de la pénibilité afférente à cette période est appréciée en fonction de la durée effective d'exercice des services continus, en considérant qu'un mois de services continus correspond à 10 % de services actifs. Ce pourcentage s'ajoute au taux résultant de la prise en compte des autres critères de pénibilité rapportés au nombre de mois effectués hors services continus sans que le taux résultant du décompte total d'heures puisse dépasser 100 %.
 
-c) Services sédentaires.
+B. Méthode de classement des emplois en services actifs.
 
-Tous les autres emplois, fonctions ou postes.
+I. - Un référentiel de classement des emplois applicable à l'ensemble des entreprises de la branche professionnelle des industries électriques et gazières détermine le taux ou la fourchette de taux de services actifs à affecter à chaque emploi ou famille d'emplois conformément au A. A la suite de travaux menés au sein d'un groupe de travail paritaire installé à l'initiative des groupements d'employeurs de la branche professionnelle des industries électriques et gazières, le référentiel est transmis pour avis à la Commission supérieure nationale du personnel. Le référentiel, les délibérations et l'avis rendu par la Commission supérieure nationale du personnel sont transmis par le président de celle-ci au ministre chargé de la sécurité sociale. Le référentiel est approuvé par arrêté du ministre chargé de la sécurité sociale.
+
+II. - Le référentiel mentionné au I est réalisé à partir de l'examen des emplois effectué dans les entreprises de la branche professionnelle des industries électriques et gazières.
+
+L'examen des emplois s'effectue, en fonction des caractéristiques de l'entreprise et selon les emplois, au niveau de l'entreprise ou au niveau de l'établissement. L'examen des emplois peut concerner des emplois génériques, regroupant plusieurs emplois ayant des caractéristiques proches, notamment au regard de la pénibilité, ou des emplois uniques.
+
+Ce travail d'analyse et de classement s'appuie sur les descriptifs d'activités, les statistiques d'activités sur les années antérieures et tous les éléments d'analyse à disposition de l'entreprise (ou de l'établissement, selon les cas) pour caractériser en moyenne les activités d'un emploi et non celles d'un agent.
+
+Les activités de chaque emploi, considéré à temps plein, sont examinées en fonction de leurs caractéristiques au regard des critères et des situations professionnelles définies au A.
+
+En fonction du nombre total d'heures de pénibilité, l'emploi est affecté d'un taux de services actifs en application des dispositions du présent II et à l'aide de la grille d'analyse du taux d'activité des emplois dont le modèle est fixé par arrêté du ministre chargé de la sécurité sociale.
+
+Ces travaux de quantification font l'objet d'une concertation au sein d'un groupe de travail réunissant des délégués syndicaux au niveau déterminé par l'entreprise et des représentants de l'employeur. Dans les entreprises dépourvues de représentation syndicale ou d'une délégation du personnel, l'entreprise prend toute disposition permettant cette concertation.
+
+L'examen du classement des emplois est effectué tous les trois ans, selon la méthode précisée au présent II. Le référentiel de classement des emplois est révisé en conséquence.
+
+III. - Sur la base du référentiel de classement des emplois mentionné au I et de l'examen des emplois au sein de l'entreprise, l'employeur détermine le classement en services actifs ou sédentaires et, le cas échéant, le taux de services actifs de chaque emploi dans l'entreprise.
+
+En fonction du niveau choisi par l'entreprise pour l'examen des emplois, le classement en services actifs ou sédentaires et le taux de services actifs envisagé pour chaque emploi est soumis au préalable pour avis, selon le cas :
+
+a) Au comité d'entreprise ;
+
+b) Au comité central d'entreprise ou au comité d'établissement ;
+
+c) Aux délégués du personnel dans les entreprises ne disposant pas de comité d'entreprise.
+
+Le classement en services actifs ou sédentaires et le taux de services actifs de chaque emploi dans l'entreprise est révisé conformément au présent III soit en cas de modification du contenu de l'emploi, soit en cas de révision du référentiel de classement des emplois mentionné au I.
+
+Toute création d'un nouvel emploi donne lieu à la procédure de classement prévue au présent III.
+
+IV. - Tout agent ayant occupé effectivement un emploi au cours d'une année se voit notifier par son employeur, avant le 30 avril de l'année suivante, le taux de services actifs affecté à cet emploi pour l'année considérée, à l'exception des situations mentionnées au V du présent B et au III de l'article 3 du décret n° 2011-1175 du 23 septembre 2011. Le taux de services actifs est pris en compte au prorata du temps de travail effectif.
+
+Les taux et qualifications retenus pour l'année considérée, pour chaque agent et pour le ou les emplois occupés pendant l'année considérée, sont communiqués pour information au début de l'année suivante à la commission secondaire du personnel compétente préalablement à la notification à chaque agent concerné.
+
+Pour les agents occupant un emploi en services discontinus une partie de l'année et assurant un remplacement dans un emploi en services continus une autre partie de l'année, le taux de services actifs à attribuer à chacun de ces emplois fait l'objet d'un calcul conformément aux dispositions du 6° du A. Les agents qui auraient, sur une année civile, effectué un remplacement en services continus pendant plus de neuf mois se voient attribuer un taux de services actifs de 100 % pour la totalité de l'exercice.
+
+V. - Les agents en arrêt de travail relevant des dispositions de l'article 22 du présent statut national du personnel conservent, pendant la durée de leur interruption de travail, le classement en services actifs dont ils bénéficiaient avant cette interruption de travail.
+
+Les agents accidentés du travail ou victimes d'une maladie professionnelle reprenant un emploi classé en services sédentaires à l'issue de leur période d'arrêt de travail conservent, à titre personnel, le bénéfice du taux de services actifs dont ils bénéficiaient avant leur interruption de travail pour la seule détermination de l'âge d'ouverture du droit à pension du régime spécial.
+
+La situation des agents placés en position d'invalidité est précisée à l'article 37 de l'annexe 3 du présent statut.
+
+VI. - L'employeur notifie annuellement à la Caisse nationale des industries électriques et gazières ses décisions d'attribution de taux de services actifs aux affiliés du régime spécial des industries électriques et gazières ainsi que l'emploi ou la famille d'emplois figurant dans le référentiel de classement des emplois mentionné au I du présent B justifiant l'attribution de ce taux.
+
+Un état des taux de services actifs attribués aux affiliés du régime spécial des industries électriques et gazières est élaboré chaque année par la Caisse nationale des industries électriques et gazières et communiqué à son conseil d'administration.
+
+C. Exercice du droit de requête.
+
+Si l'agent conteste le taux de services actifs qui lui est notifié par l'employeur conformément au III du B, il peut présenter une requête à la commission secondaire du personnel compétente dans un délai de trois mois à compter de la réception de la notification qui lui est faite. L'agent présentant une requête saisit le président de la commission secondaire du personnel compétente sous forme de lettre motivée, accompagnée d'une description de ses activités et d'un exemplaire de la grille d'analyse du taux d'activité des emplois figurant en annexe du présent complément.
+
+Si la décision prise à l'issue de la consultation de la commission secondaire du personnel ne le satisfait pas, l'agent peut demander que sa requête soit soumise à l'avis de la commission supérieure nationale du personnel dans un délai de trois mois à compter de la notification de rejet de la requête, par lettre adressée au président de la commission secondaire du personnel.
+
+Le dossier à présenter en commission supérieure nationale du personnel doit contenir le dossier présenté en commission secondaire du personnel, l'extrait de procès-verbal approuvé comportant les avis exprimés et motivés ainsi que la lettre de saisine de la commission supérieure nationale du personnel par l'agent.
+
+Pour procéder à l'examen d'une requête, chaque instance, commission secondaire du personnel et commission supérieure nationale du personnel, dispose, à compter de la réception de la requête, d'un délai de deux ans jusqu'au 31 décembre 2015 pour les requêtes reçues à compter de 2013. Ce délai est réduit à dix-huit mois pour toute requête déposée à compter du 1er janvier 2016. A défaut de traitement dans ces délais, la requête est considérée comme ayant reçu un avis favorable de l'instance.
+
+L'examen d'une requête ne peut avoir pour effet de réduire le taux de services actifs initialement notifié à l'agent pour la période considérée.
+
+D. Services sédentaires.
+
+Tout emploi qui n'est pas classé en services actifs est classé en services sédentaires.
