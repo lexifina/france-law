@@ -1,12 +1,14 @@
 # Article Annexe 2
 
+ANNEXE 2
+
 PAYS
 
 |
 
-NOUVEAU
+NOUVEAU groupe 9
 
-groupe 9
+(ancien groupe 13)
 
 |
 
