@@ -1,12 +1,10 @@
 # Article AOC "Vin de Savoie"
 
-CAHIER DES CHARGES DE L'APPELLATION D'ORIGINE CONTRÔLÉE "VIN DE SAVOIE" OU "SAVOIE" ET DE L'APPELLATION D'ORIGINE CONTRÔLÉE "ROUSSETTE DE SAVOIE"
-
-Chapitre Ier
+CAHIER DES CHARGES DE L'APPELLATION D'ORIGINE CONTRÔLÉE "VIN DE SAVOIE" OU "SAVOIE" Chapitre Ier
 
 I. - Nom de l'appellation
 
-Seuls peuvent prétendre à l'appellation d'origine contrôlée "Vin de Savoie" ou "Savoie", ou à l'appellation d'origine contrôlée "Roussette de Savoie", initialement reconnues par le décret du 4 septembre 1973, les vins répondant aux dispositions particulières fixées ci-après.
+Seuls peuvent prétendre à l'appellation d'origine contrôlée "Vin de Savoie" ou "Savoie" initialement reconnues par le décret du 4 septembre 1973, les vins répondant aux dispositions particulières fixées ci-après.
 
 II. - Dénominations géographiques
 
@@ -46,15 +44,7 @@ et mentions complémentaires
 
 - "Saint-Jeoire-Prieuré".
 
-2° Le nom de l'appellation d'origine contrôlée "Roussette de Savoie" peut être complété par les dénominations géographiques suivantes, pour les vins répondant aux conditions de production fixées pour ces dénominations géographiques dans le présent cahier des charges :
-
-- "Frangy" ;
-
-- "Marestel" ;
-
-- "Monterminod" ;
-
-- "Monthoux".
+2° (Abrogé)
 
 3° Le nom de l'appellation d'origine contrôlée peut être complété par l'indication du cépage, à la condition que les vins proviennent exclusivement du cépage concerné et selon les conditions de production fixées dans le présent cahier des charges.
 
@@ -199,46 +189,6 @@ Vins tranquilles rouges
 |
 
 Dénomination géographique "Saint-Jeoire-Prieuré"
-
-|
-
-Vins tranquilles blancs
-
-|
-
-"Roussette de Savoie"
-
-|
-
-Vins tranquilles blancs
-
-|
-
-Dénomination géographique "Frangy"
-
-|
-
-Vins tranquilles blancs
-
-|
-
-Dénomination géographique "Marestel"
-
-|
-
-Vins tranquilles blancs
-
-|
-
-Dénomination géographique "Monterminod"
-
-|
-
-Vins tranquilles blancs
-
-|
-
-Dénomination géographique "Monthoux"
 
 |
 
@@ -444,44 +394,6 @@ Saint-Jeoire-Prieuré
 
 |
 
-"Roussette de Savoie"
-
-|
-
-|
-
-Dénomination géographique "Frangy"
-
-|
-
-Chaumont, Desingy, Frangy
-
-|
-
-Dénomination géographique "Marestel"
-
-|
-
-Jongieux, Lucey
-
-|
-
-Dénomination géographique "Monterminod"
-
-|
-
-Saint-Alban-Leysse
-
-|
-
-Dénomination géographique "Monthoux"
-
-|
-
-Saint-Jean-de-Chevelu
-
-|
-
 2° Aire parcellaire délimitée :
 
 a) Les vins sont issus exclusivement des vignes situées dans l'aire parcellaire de production telle qu'approuvée par le comité national compétent de l'Institut national de l'origine et de la qualité lors des séances des 24 et 25 février 1988, 7 et 8 novembre 1990, 26 et 27 février 2003 :
@@ -653,22 +565,6 @@ Dénominations géographiques "Crépy", "Marignan", "Marin", "Ripaille"
 Cépage principal : chasselas B
 
 Cépages accessoires : aligoté B, altesse B, chardonnay B, gringet B, mondeuse B, roussette d'Ayze B, velteliner rouge précoce Rs
-
-|
-
-"Roussette de Savoie"
-
-|
-
-Altesse B exclusivement
-
-|
-
-Dénominations géographiques "Frangy", "Marestel", "Monterminod", "Monthoux"
-
-|
-
-Altesse B exclusivement
 
 |
 
