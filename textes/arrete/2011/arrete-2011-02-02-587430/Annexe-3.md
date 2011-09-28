@@ -8,7 +8,9 @@ Conformément au modèle donné par la partie VI, lettre D, de l'annexe 3 de l'a
 
 |
 
-SOCIÉTÉ |
+SOCIÉTÉ
+
+|
 
 ADRESSE
 
@@ -24,15 +26,17 @@ la société reçoit l'habilitation
 
 |
 
-G2HE
+AEMI
 
 |
 
-3, rue Sophie-Germain, 75014 Paris
+56, avenue Pierre-Berthelot, 14000 Caen
 
 |
 
-Appareils radar : Periskal
+Appareils radar : Furuno, Simrad
+
+Indicateur de vitesse de giration : Simrad
 
 |
 
@@ -44,9 +48,11 @@ ATEYS
 
 |
 
-35, rue de Valmy, 76600 Le Havre |
+35, rue de Valmy, 76600 Le Havre
 
-Appareils radar : Furuno, Swiss radar.
+|
+
+Appareils radar : Furuno, Radio Holland, Radio Zeeland, Swiss radar
 
 Indicateurs de vitesse de giration : Radio Zeeland
 
@@ -56,62 +62,96 @@ Indicateurs de vitesse de giration : Radio Zeeland
 
 |
 
-Sud Communication
+GH2E
 
 |
 
-95, rue Rajol, Espace Fréjorgues Est, 34130 Mauguio |
+3, rue Sophie-Germain, 75014 Paris
 
-Appareils radar : ICOM |
+|
+
+Appareils radar : Periskal
+
+|
 
 4
 
 |
 
-AEMI
+MAP Marine
 
 |
 
-56, avenue Pierre-Berthelot, 14000 Caen |
-
-Appareils radar : Furuno, Simrad.
-
-Indicateur de vitesse de giration : Simrad
+1, quai de la Grande-Bigue, bât. B, 13002 Marseille
 
 |
 
-5 |
+Appareils radar : Furuno, Radio Holland
 
-SIECMI
-
-|
-
-3, quai Est, 29900 Concarneau |
-
-Appareils radar : Radio Holland, Radio Zeeland, Alphatron.
-
-Indicateurs de vitesse de giration : Radio Holland, Radio Zeeland, Alphatron
+Indicateurs de vitesse de giration : Radio Zeeland
 
 |
 
-6 |
-
-THEMYS
+5
 
 |
-
-Quartier de la chaume, CD 45, Pont-de-l'Etoile, 13360 Roquevaire
-
-|
-
-Appareils radar : SAM Electronics |
-
-7 |
 
 PROMAT
 
 |
 
-68, boulevard Jules-Durand, 76056 Le Havre |
+68, boulevard Jules-Durand, 76056 Le Havre
 
-Appareils radar : Furuno |
+|
+
+Appareils radar : Furuno
+
+|
+
+6
+
+|
+
+SIECMI
+
+|
+
+3, quai Est, 29900 Concarneau
+
+|
+
+Appareils radar : Radio Holland, Radio Zeeland, Alphatron
+
+Indicateurs de vitesse de giration : Radio Holland, Radio Zeeland, Alphatron
+
+|
+
+7
+
+|
+
+Sud Communication
+
+|
+
+95, rue Rajol, espace Fréjorgues Est, 34130 Mauguio
+
+|
+
+Appareils radar : ICOM
+
+|
+
+8
+
+|
+
+THEMYS
+
+|
+
+Quartier de la chaume, CD 45, pont de l'Etoile, 13360 Roquevaire
+
+|
+
+Appareils radar : SAM Electronics |

@@ -18,53 +18,7 @@ TYPES D'APPAREILS AGRÉÉS (*)
 
 |
 
-1 |
-
-G2HE
-
-|
-
-3, rue Sophie-Germain, 75014 Paris
-
-|
-
-OceanSat
-
-|
-
-2
-
-|
-
-ATEYS
-
-|
-
-35, rue de Valmy 76600 Le Havre
-
-|
-
-Nauticast AIS et Furuno AIS
-
-|
-
-3
-
-|
-
-Sud Communication
-
-|
-
-95, rue Rajol, Espace Fréjorgues Est, 34130 Mauguio
-
-|
-
-ICOM
-
-|
-
-4
+1
 
 |
 
@@ -76,27 +30,27 @@ AEMI
 
 |
 
-Furuno
+Furuno, OceanSat
 
 |
 
-5
+2
 
 |
 
-SIECMI
+ATEYS
 
 |
 
-3, quai Est, 29900 Concarneau
+35, rue de Valmy, 76600 Le Havre
 
 |
 
-Saab R 4 IAIS, CNS VDL 6000, SRT Comnav Voyager X3
+Nauticast, Furuno, Comnav
 
 |
 
-6
+3
 
 |
 
@@ -112,7 +66,7 @@ OceanSat
 
 |
 
-7
+4
 
 |
 
@@ -128,23 +82,39 @@ JRC Japon
 
 |
 
-8
+5
 
 |
 
-THEMYS
+GH2E
 
 |
 
-Quartier de La Chaume, CD 45, Pont-de-l'Etoile, 13360 Roquevaire
+3, rue Sophie-Germain, 75014 Paris
 
 |
 
-SAM Electronics, Saab R 4 IAIS
+OceanSat
 
 |
 
-9
+6
+
+|
+
+MAP Marine
+
+|
+
+1, quai de la Grande-Bigue, bât. B, 13002 Marseille
+
+|
+
+Nauticast, Furuno, Transas, Comnav
+
+|
+
+7
 
 |
 
@@ -156,7 +126,55 @@ PROMAT
 
 |
 
-Appareils radar : Furuno
+Furuno, OceanSat
+
+|
+
+8
+
+|
+
+SIECMI
+
+|
+
+3, quai Est, 29900 Concarneau
+
+|
+
+Saab R 4 IAIS, CNS VDL 6000, SRT Comnav Voyager X3
+
+|
+
+9
+
+|
+
+Sud Communication
+
+|
+
+95, rue Rajol, espace Fréjorgues Est, 34130 Mauguio
+
+|
+
+ICOM
+
+|
+
+10
+
+|
+
+THEMYS
+
+|
+
+Quartier de la Chaume, CD 45, pont de l'Etoile, 13360 Roquevaire
+
+|
+
+SAM Electronics, Saab R 4 IAIS
 
 |
 
