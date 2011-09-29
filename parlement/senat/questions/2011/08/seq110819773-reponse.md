@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110819773
+
+- Question : [SEQ110819773](seq110819773.md) — Aide différentielle de solidarité en faveur des conjoints survivants
+
+## Réponse
+
+*Défense et des anciens combattants (SE), JO du 2011-09-29, page 2510*
+
+Le montant plafond de l'allocation différentielle en faveur des conjoints survivants de ressortissants de l'Office national des anciens combattants et victimes de guerre (ONAC), initialement fixé le 1er août 2007 à 550 € par mois, a été porté à 800 € au 1er janvier 2010, à 817 € au 1er avril 2010 et à 834 € à compter du 1er avril 2011, ce qui représente au total une augmentation de 51,6 % en quatre ans. Par ailleurs, en leur qualité de ressortissantes de l'ONAC, les veuves d'anciens combattants, qu'elles soient ou non bénéficiaires de l'allocation différentielle, peuvent obtenir auprès des services départementaux de l'établissement public, des aides et secours adaptés à leur situation individuelle. Le Gouvernement reste donc très attentif à la situation des conjoints survivants des anciens combattants et victimes de guerre qui font appel à la solidarité nationale. S'agissant de la retraite du combattant, le Président de la République et le Gouvernement se sont fixé comme objectif de revaloriser sensiblement son montant d'ici à 2012. Cette prestation, restée fixée depuis 1978 à 33 points d'indice de pension militaire d'invalidité, a évolué, d'une part en fonction des augmentations de la valeur de ce point et d'autre part, à partir de 2006, de la revalorisation de cet indice. Ainsi, malgré un contexte économique des plus contraints, la retraite du combattant a augmenté de plus de 40 % depuis 2006 pour atteindre 44 points d'indice à compter du 1er juillet 2011, soit un montant annuel de 609,40 €, la valeur du point d'indice étant fixée à 13,85 € à cette date. Le budget de l'année 2012 était en phase d'élaboration, il ne peut être préjugé à l'heure actuelle des mesures qui seront mises en oeuvre.
