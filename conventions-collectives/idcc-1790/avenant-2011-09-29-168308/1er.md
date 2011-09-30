@@ -1,0 +1,29 @@
+# Article 1er
+
+A l'occasion de certains événements, les salariés bénéficient sur justification d'une autorisation d'absence exceptionnelle accordée dans les conditions suivantes :
+
+– mariage du salarié : 5 jours ;
+
+– naissance ou adoption : 3 jours ;
+
+– mariage d'un enfant : 2 jours ;
+
+– décès du père ou de la mère : 3 jours ;
+
+– décès du conjoint ou d'un enfant : 4 jours ;
+
+– décès du beau-père, de la belle-mère, d'un frère, d'une sœur ou d'un ascendant au second degré : 1 jour ;
+
+– examens prénataux : dans les conditions prévues à l'article L. 1225-16 du code du travail ;
+
+– rentrée des classes : 1 demi-journée pour les salariés ayant des enfants en âge scolaire (jusqu'à la veille du 12e anniversaire de l'enfant).
+
+Sous réserve de 3 mois d'ancienneté dans l'entreprise ou l'établissement :
+
+– présélection militaire : dans la limite de 3 jours ;
+
+– enfants malades : 2 jours non consécutifs par an, sur présentation d'un certificat médical pour enfant malade de moins de 12 ans, quel que soit le nombre d'enfants.
+
+Ces jours s'entendent en jours ouvrables.
+
+Ces jours d'absence exceptionnelle devront être pris concomitamment aux événements en cause et n'entraînent pas de réduction de la rémunération. Ils sont assimilés à des jours de travail effectif pour la détermination du congé annuel.
