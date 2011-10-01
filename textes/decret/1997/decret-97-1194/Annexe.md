@@ -4888,7 +4888,11 @@ Décret n
 
 °
 
-2010-1664 du 29 décembre 2010
+2010-1663
+
+du 29 décembre 2010 relatif aux obligations d’économies d’énergie dans le cadre du dispositif des certificats
+
+d’économies d’énergie
 
 1
 
@@ -4911,5 +4915,37 @@ montant du prélèvement compensatoire.
 |
 
 Article 8, alinéas 2 et 3.
+
+|
+
+Mesures prises par le ministre chargé de l’énergie
+
+Décret n
+
+°
+
+2010-1664 du 29 décembre 2010 relatif aux
+
+certificats d’économies d’énergie
+
+1
+
+|
+
+Agrément d’un plan d’actions d’économies d’énergie.
+
+|
+
+Article 5.
+
+|
+
+2 |
+
+Délivrance des certificats d’économies d’énergie.
+
+|
+
+Article 6.
 
 |
