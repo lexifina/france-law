@@ -364,9 +364,7 @@ Chef de service, adjoint du directeur des ressources humaines
 
 |
 
-Chef du service des emplois et des compétences
-
-|
+Chef de service, chargé dans le domaine des ressources humaines, de la modernisation, de l'innovation et de la qualité |
 
 1
 
@@ -376,9 +374,7 @@ Chef du service des emplois et des compétences
 
 |
 
-Chef du service de la gestion du personnel
-
-|
+Chef de service, chargé des questions sociales |
 
 1
 
@@ -424,9 +420,7 @@ Chef du service des affaires financières
 
 |
 
-Chef du service de défense, de sécurité et d'intelligence économique
-
-|
+Chef de service, haut fonctionnaire de défense et de sécurité adjoint (en vigueur le 13 juillet 2010) |
 
 1
 
@@ -564,6 +558,18 @@ Chef du service du secrétariat général
 
 |
 
+Chef de service, adjoint au directeur du transport aérien (en vigueur le 13 juillet 2010)
+
+|
+
+1
+
+|
+
+120
+
+|
+
 f) Direction générale de l'aménagement, du logement et de la nature
 
 |
@@ -682,7 +688,7 @@ a) Secrétariat général
 
 |
 
-Sous-directeur de la gestion des ressources en emplois et en compétences
+Sous-directeur du pilotage, de la performance et de la synthèse
 
 |
 
@@ -694,7 +700,7 @@ Sous-directeur de la gestion des ressources en emplois et en compétences
 
 |
 
-Sous-directeur du développement des compétences et de la formation
+Sous-directeur des carrières et de l'encadrement
 
 |
 
@@ -706,7 +712,7 @@ Sous-directeur du développement des compétences et de la formation
 
 |
 
-Sous-directeur des parcours professionnels et des mobilités
+Sous-directeur de la modernisation et de la gestion statutaires
 
 |
 
@@ -718,7 +724,7 @@ Sous-directeur des parcours professionnels et des mobilités
 
 |
 
-Sous-directeur des personnels d'encadrement, maritimes et des contractuels
+Sous-directeur du recrutement et de la mobilité
 
 |
 
@@ -730,7 +736,7 @@ Sous-directeur des personnels d'encadrement, maritimes et des contractuels
 
 |
 
-Sous-directeur des personnels administratifs, techniques, d'exploitation et des transports terrestres
+Sous-directeur de la formation, des compétences et des qualifications
 
 |
 
@@ -742,7 +748,7 @@ Sous-directeur des personnels administratifs, techniques, d'exploitation et des 
 
 |
 
-Sous-directeur des politiques sociales et des pensions
+Sous-directeur des politiques sociales, de la prévention et des pensions
 
 |
 
@@ -754,9 +760,7 @@ Sous-directeur des politiques sociales et des pensions
 
 |
 
-Sous-directeur de la coordination de la gestion des ressources humaines de l'administration centrale
-
-|
+Sous-directeur de la gestion administrative et de la paye |
 
 1
 
@@ -826,7 +830,7 @@ Sous-directeur de la modernisation
 
 |
 
-Sous-directeur du pilotage des services et des écoles
+Sous-directeur du pilotage et de la performance des services et des tutelles
 
 |
 
@@ -838,7 +842,7 @@ Sous-directeur du pilotage des services et des écoles
 
 |
 
-Sous-directeur de la conduite et de l'accompagnement du changement
+Sous-directeur de l'accompagnement du changement et de l'enseignement supérieur
 
 |
 
@@ -886,9 +890,7 @@ Adjoint au chef du service de défense, de sécurité et d'intelligence économi
 
 |
 
-Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé du logement et de la ville
-
-|
+Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé des relations institutionnelles, des affaires juridiques et de l'animation du réseau de défense et de sécurité |
 
 1
 
@@ -1240,9 +1242,7 @@ Sous-directeur de la gestion du réseau autoroutier concédé
 
 |
 
-Sous-directeur de la construction et de la politique technique
-
-|
+Sous-directeur de l'aménagement du réseau routier national |
 
 1
 
@@ -1264,7 +1264,7 @@ Sous-directeur de la gestion du réseau routier non concédé et du trafic
 
 |
 
-Sous-directeur du développement et de la gestion des réseaux ferroviaires et fluviaux et des investissements portuaires
+Sous-directeur du développement et de la gestion des réseaux ferroviaires et des voies navigables
 
 |
 
@@ -1276,9 +1276,7 @@ Sous-directeur du développement et de la gestion des réseaux ferroviaires et f
 
 |
 
-Sous-directeur du développement du réseau routier national
-
-|
+Sous-directeur des transports ferroviaires et collectifs et des déplacements urbains |
 
 1
 
@@ -1288,19 +1286,7 @@ Sous-directeur du développement du réseau routier national
 
 |
 
-Sous-directeur des services ferroviaires et des déplacements urbains
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Sous-directeur de la sécurité des transports ferroviaires et collectifs et de la régulation ferroviaire
+Sous-directeur de la sécurité et de la régulation ferroviaires
 
 |
 

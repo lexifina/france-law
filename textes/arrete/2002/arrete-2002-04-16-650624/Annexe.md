@@ -344,13 +344,7 @@ NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-a) Secrétariat général
-
-|
-
-|
-
-|
+a) Secrétariat général |
 
 Chef de service, adjoint du directeur des ressources humaines
 
@@ -364,7 +358,7 @@ Chef de service, adjoint du directeur des ressources humaines
 
 |
 
-Chef du service des emplois et des compétences
+Chef de service, chargé dans le domaine des ressources humaines, de la modernisation, de l'innovation et de la qualité
 
 |
 
@@ -376,7 +370,7 @@ Chef du service des emplois et des compétences
 
 |
 
-Chef du service de la gestion du personnel
+Chef de service, chargé des questions sociales
 
 |
 
@@ -424,7 +418,7 @@ Chef du service des affaires financières
 
 |
 
-Chef du service de défense, de sécurité et d'intelligence économique
+Chef de service, haut fonctionnaire de défense et de sécurité adjoint (en vigueur le 13 juillet 2010)
 
 |
 
@@ -449,10 +443,6 @@ Chef de service, adjoint du directeur des affaires juridiques
 |
 
 b) Commissariat général au développement durable
-
-|
-
-|
 
 |
 
@@ -492,13 +482,7 @@ Chef du service de l'économie, de l'évaluation et de l'intégration du dévelo
 
 |
 
-c) Direction générale de l'énergie et du climat
-
-|
-
-|
-
-|
+c) Direction générale de l'énergie et du climat |
 
 Chef du service du climat et de l'efficacité énergétique
 
@@ -513,10 +497,6 @@ Chef du service du climat et de l'efficacité énergétique
 |
 
 d) Direction générale des infrastructures, des transports et de la mer
-
-|
-
-|
 
 |
 
@@ -544,15 +524,21 @@ Chef du service de l'administration générale et de la stratégie
 
 |
 
-e) Direction générale de l'aviation civile
-
-|
-
-|
-
-|
+e) Direction générale de l'aviation civile |
 
 Chef du service du secrétariat général
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef de service, adjoint au directeur du transport aérien (en vigueur le 13 juillet 2010)
 
 |
 
@@ -568,10 +554,6 @@ f) Direction générale de l'aménagement, du logement et de la nature
 
 |
 
-|
-
-|
-
 Chef du service des affaires générales et de la performance
 
 |
@@ -584,13 +566,7 @@ Chef du service des affaires générales et de la performance
 
 |
 
-g) Direction générale de la prévention des risques
-
-|
-
-|
-
-|
+g) Direction générale de la prévention des risques |
 
 Chef de service, adjoint au directeur général de la prévention des risques
 
@@ -640,13 +616,7 @@ Chef du service des risques naturels et hydrauliques
 
 |
 
-h) Délégation à la circulation et à la sécurité routières
-
-|
-
-|
-
-|
+h) Délégation à la circulation et à la sécurité routières |
 
 Adjoint au délégué, chef de service
 
@@ -674,15 +644,9 @@ NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-a) Secrétariat général
+a) Secrétariat général |
 
-|
-
-|
-
-|
-
-Sous-directeur de la gestion des ressources en emplois et en compétences
+Sous-directeur du pilotage, de la performance et de la synthèse
 
 |
 
@@ -694,7 +658,7 @@ Sous-directeur de la gestion des ressources en emplois et en compétences
 
 |
 
-Sous-directeur du développement des compétences et de la formation
+Sous-directeur des carrières et de l'encadrement
 
 |
 
@@ -706,7 +670,7 @@ Sous-directeur du développement des compétences et de la formation
 
 |
 
-Sous-directeur des parcours professionnels et des mobilités
+Sous-directeur de la modernisation et de la gestion statutaires
 
 |
 
@@ -718,7 +682,7 @@ Sous-directeur des parcours professionnels et des mobilités
 
 |
 
-Sous-directeur des personnels d'encadrement, maritimes et des contractuels
+Sous-directeur du recrutement et de la mobilité
 
 |
 
@@ -730,7 +694,7 @@ Sous-directeur des personnels d'encadrement, maritimes et des contractuels
 
 |
 
-Sous-directeur des personnels administratifs, techniques, d'exploitation et des transports terrestres
+Sous-directeur de la formation, des compétences et des qualifications
 
 |
 
@@ -742,7 +706,7 @@ Sous-directeur des personnels administratifs, techniques, d'exploitation et des 
 
 |
 
-Sous-directeur des politiques sociales et des pensions
+Sous-directeur des politiques sociales, de la prévention et des pensions
 
 |
 
@@ -754,7 +718,7 @@ Sous-directeur des politiques sociales et des pensions
 
 |
 
-Sous-directeur de la coordination de la gestion des ressources humaines de l'administration centrale
+Sous-directeur de la gestion administrative et de la paye
 
 |
 
@@ -826,7 +790,7 @@ Sous-directeur de la modernisation
 
 |
 
-Sous-directeur du pilotage des services et des écoles
+Sous-directeur du pilotage et de la performance des services et des tutelles
 
 |
 
@@ -838,7 +802,7 @@ Sous-directeur du pilotage des services et des écoles
 
 |
 
-Sous-directeur de la conduite et de l'accompagnement du changement
+Sous-directeur de l'accompagnement du changement et de l'enseignement supérieur
 
 |
 
@@ -886,7 +850,7 @@ Adjoint au chef du service de défense, de sécurité et d'intelligence économi
 
 |
 
-Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé du logement et de la ville
+Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé des relations institutionnelles, des affaires juridiques et de l'animation du réseau de défense et de sécurité
 
 |
 
@@ -982,13 +946,7 @@ Sous-directeur des affaires juridiques de l'énergie et des transports
 
 |
 
-b) Commissariat général au développement durable
-
-|
-
-|
-
-|
+b) Commissariat général au développement durable |
 
 Sous-directeur de l'innovation
 
@@ -1062,7 +1020,9 @@ Sous-directeur de l'intégration des démarches de développement durable dans l
 
 |
 
-Sous-directeur des statistiques de l'énergie |
+Sous-directeur des statistiques de l'énergie
+
+|
 
 1
 
@@ -1084,7 +1044,9 @@ Sous-directeur des statistiques du logement et de la construction
 
 |
 
-Sous-directeur des statistiques des transports |
+Sous-directeur des statistiques des transports
+
+|
 
 1
 
@@ -1106,7 +1068,9 @@ Sous-directeur de l'information environnementale
 
 |
 
-Sous-directeur des méthodes et données pour le développement durable |
+Sous-directeur des méthodes et données pour le développement durable
+
+|
 
 1
 
@@ -1128,13 +1092,7 @@ Sous-directeur des affaires générales
 
 |
 
-c) Direction générale de l'énergie et du climat
-
-|
-
-|
-
-|
+c) Direction générale de l'énergie et du climat |
 
 Sous-directeur des marchés de l'énergie et des affaires sociales
 
@@ -1220,13 +1178,7 @@ Sous-directeur des affaires générales et de la synthèse
 
 |
 
-d) Direction générale des infrastructures, des transports et de la mer
-
-|
-
-|
-
-|
+d) Direction générale des infrastructures, des transports et de la mer |
 
 Sous-directeur de la gestion du réseau autoroutier concédé
 
@@ -1240,7 +1192,19 @@ Sous-directeur de la gestion du réseau autoroutier concédé
 
 |
 
-Sous-directeur de la construction et de la politique technique
+Sous-directeur des services routiers déconcentrés et du contrôle de gestion
+
+|
+
+1
+
+|
+
+90
+
+|
+
+Sous-directeur de l'aménagement du réseau routier national
 
 |
 
@@ -1264,7 +1228,7 @@ Sous-directeur de la gestion du réseau routier non concédé et du trafic
 
 |
 
-Sous-directeur du développement et de la gestion des réseaux ferroviaires et fluviaux et des investissements portuaires
+Sous-directeur du développement et de la gestion des réseaux ferroviaires et des voies navigables
 
 |
 
@@ -1276,7 +1240,7 @@ Sous-directeur du développement et de la gestion des réseaux ferroviaires et f
 
 |
 
-Sous-directeur du développement du réseau routier national
+Sous-directeur des transports ferroviaires et collectifs et des déplacements urbains
 
 |
 
@@ -1288,19 +1252,7 @@ Sous-directeur du développement du réseau routier national
 
 |
 
-Sous-directeur des services ferroviaires et des déplacements urbains
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Sous-directeur de la sécurité des transports ferroviaires et collectifs et de la régulation ferroviaire
+Sous-directeur de la sécurité et de la régulation ferroviaires
 
 |
 
@@ -1436,10 +1388,6 @@ e) Direction générale de l'aviation civile
 
 |
 
-|
-
-|
-
 Sous-directeur du développement durable
 
 |
@@ -1572,13 +1520,7 @@ Sous-directeur des systèmes d'information et de la modernisation
 
 |
 
-f) Direction générale de l'aménagement, du logement et de la nature
-
-|
-
-|
-
-|
+f) Direction générale de l'aménagement, du logement et de la nature |
 
 Sous-directeur du financement du logement
 
@@ -1748,13 +1690,7 @@ Secrétaire permanent du Plan urbanisme construction architecture
 
 |
 
-g) Direction générale de la prévention des risques
-
-|
-
-|
-
-|
+g) Direction générale de la prévention des risques |
 
 Sous-directeur des risques accidentels
 
@@ -1780,13 +1716,7 @@ Sous-directeur des risques chroniques et du pilotage
 
 |
 
-h) Délégation à la circulation et à la sécurité routières
-
-|
-
-|
-
-|
+h) Délégation à la circulation et à la sécurité routières |
 
 Sous-directeur de l'action interministérielle
 
@@ -1844,7 +1774,7 @@ de points par emploi
 
 |
 
-directeur régional de l'environnement, de l'aménagement et du logement d'lle-de-France
+Directeur régional de l'environnement, de l'aménagement et du logement d'lle-de-France
 
 |
 
@@ -1868,7 +1798,7 @@ Directeur régional et départemental de l'équipement dans les régions : Nord-
 
 |
 
-directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Alsace, Aquitaine, Bretagne, Centre, Haute-Normandie, Languedoc-Roussilon, Lorraine, Midi-Pyrénées, Pays de la Loire
+Directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Alsace, Aquitaine, Bretagne, Centre, Haute-Normandie, Languedoc-Roussilon, Lorraine, Midi-Pyrénées, Pays de la Loire
 
 |
 
@@ -1880,7 +1810,7 @@ directeur régional de l'environnement, de l'aménagement et du logement ou dire
 
 |
 
-directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Auvergne, Basse-Normandie, Bourgogne, Champagne-Ardenne, Corse, Franche-Comté, Limousin, Picardie, Poitou-Charentes
+Directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Auvergne, Basse-Normandie, Bourgogne, Champagne-Ardenne, Corse, Franche-Comté, Limousin, Picardie, Poitou-Charentes
 
 |
 
@@ -2342,10 +2272,6 @@ et les constructions publiques
 
 |
 
-|
-
-|
-
 Directeur
 
 |
@@ -2358,13 +2284,7 @@ Directeur
 
 |
 
-b) Service technique des remontées mécaniques et des transports guidés
-
-|
-
-|
-
-|
+b) Service technique des remontées mécaniques et des transports guidés |
 
 Chef du service
 
@@ -2378,13 +2298,7 @@ Chef du service
 
 |
 
-c) Centre d'études techniques maritimes et fluviales
-
-|
-
-|
-
-|
+c) Centre d'études techniques maritimes et fluviales |
 
 Chef du centre
 
@@ -2398,13 +2312,7 @@ Chef du centre
 
 |
 
-d) Service d'études sur les transports, les routes et leurs aménagements
-
-|
-
-|
-
-|
+d) Service d'études sur les transports, les routes et leurs aménagements |
 
 Directeur
 
@@ -2418,13 +2326,7 @@ Directeur
 
 |
 
-e) Centre d'études des tunnels
-
-|
-
-|
-
-|
+e) Centre d'études des tunnels |
 
 Directeur
 
@@ -2438,13 +2340,7 @@ Directeur
 
 |
 
-f) Délégation à l'action foncière et immobilière
-
-|
-
-|
-
-|
+f) Délégation à l'action foncière et immobilière |
 
 Délégué à l'action foncière et immobilière
 
@@ -2460,6 +2356,4 @@ Délégué à l'action foncière et immobilière
 
 NOTA :
 
-Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
-
-Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.
+Décret n° 2013-1273 du 27 décembre 2013, article 26 : Dans tous les textes réglementaires en vigueur qui les mentionnent, les mots : "centre d'études techniques de l'équipement", "centre d'études techniques de l'équipement de l'Est", "centre d'études techniques de l'équipement de Lyon", "centre d'études techniques de l'équipement Méditerranée", "centre d'études techniques de l'équipement Normandie Centre", "centre d'études techniques de l'équipement Nord-Picardie", "centre d'études techniques de l'équipement de l'Ouest", "centre d'études techniques de l'équipement Sud-Ouest", "centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques", "centre d'études techniques maritimes et fluviales" et "service d'études sur les transports, les routes et leurs aménagements" sont remplacés par les mots : "centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement".
