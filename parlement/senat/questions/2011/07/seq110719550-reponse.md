@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719550
+
+- Question : [SEQ110719550](seq110719550.md) — Placement extérieur de détenus
+
+## Réponse
+
+*Justice, JO du 2011-10-06, page 2572*
+
+Attaché au développement des aménagements de peines et notamment à cette mesure d'accompagnement global que constitue le placement à l'extérieur, le garde des sceaux, ministre de la justice et des libertés, est convaincu de l'importance du partenariat entre l'administration pénitentiaire et les structures associatives pour la mise en oeuvre de ces mesures. Cependant, les efforts de maîtrise des dépenses sur les budgets de fonctionnement ont conduit en 2011 les services pénitentiaires d'insertion et de probation (SPIP) à informer l'association APREMIS qu'ils ne seraient plus en mesure d'instruire et de financer de nouvelles demandes de placements à l'extérieur au sein de cette structure. Toutefois et malgré des contraintes budgétaires, le financement des mesures de placement à l'extérieur actuellement en cours d'exécution se poursuivra afin de permettre une continuité dans la prise en charge de ces publics. En outre, le directeur interrégional des services pénitentiaires de Lille réexaminera cette situation avant la fin de l'année 2011 si des marges de manoeuvre budgétaires apparaissent. La part du budget consacrée aux mesures de placements à l'extérieur fera alors l'objet d'une attention particulière. Enfin, il convient de souligner que les sommes versées par l'administration pénitentiaire dans le cadre du financement des mesures de placement à l'extérieur doivent être complémentaires d'autres modes de financement des centres d'hébergement et de réinsertion sociale (CHRS), notamment par les directions départementales de la cohésion sociale. Ces financements permettent au CHRS d'assurer le fonctionnement et l'accompagnement courant dont peuvent bénéficier des personnes en placement à l'extérieur.
