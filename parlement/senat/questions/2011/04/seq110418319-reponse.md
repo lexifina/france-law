@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110418319
+
+- Question : [SEQ110418319](seq110418319.md) — Placement des enfants en famille d'accueil
+
+## Réponse
+
+*Solidarités, JO du 2011-10-06, page 2583*
+
+La loi du 5 mars 2007 réformant la protection de l'enfance a mis au coeur du dispositif, conformément à la convention internationale des droits de l'enfant, l'intérêt de l'enfant, le respect de ses droits, la prise en compte de ses besoins fondamentaux physiques, intellectuels, sociaux et affectifs qui doivent guider toutes décisions le concernant (art. 1 de la loi, article L. 112-4 du code de l'action sociale et des familles). Des principes d'action sont désormais posés pour la prise en charge des enfants par les services de protection de l'enfance : la continuité, la cohérence des actions menées pour l'enfant, dont le président du conseil général, chef de file de la protection de l'enfance, est le garant, ainsi que le respect des liens d'attachement. Ainsi pour éviter des ruptures de prise en charge, qui peuvent mettre à mal les liens affectifs qu'un enfant a pu nouer notamment avec sa famille d'accueil, le législateur a précisé en 2007 qu'une des missions de l'aide sociale à l'enfance était de « veiller à ce que les liens d'attachement noués par l'enfant avec d'autres personnes que ses parents soient maintenus, voire développés, dans son intérêt supérieur » (art. 3 de la loi article L. 221-1 du code de l'action sociale et des familles [CASF]). La décision de modification du lieu de placement de l'enfant prise par le président du conseil général, gardien de l'enfant, ne peut donc se justifier par l'importance du lien affectif noué entre l'enfant et sa famille d'accueil. Elle répond à d'autres motifs appréciés par le président de conseil général, après évaluation de tous les aspects de la situation, et en stricte considération de l'intérêt de l'enfant.
