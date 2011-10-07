@@ -66,6 +66,10 @@ LUN 05/12/2011
 
 |
 
+MER 28/12/2011
+
+|
+
 Régimes débiteurs
 
 |
@@ -122,7 +126,11 @@ Régimes débiteurs
 
 |
 
-444
+248
+
+|
+
+196
 
 |
 
@@ -186,6 +194,10 @@ CNAVTS (1)
 
 |
 
+0
+
+|
+
 Etat-personnels civils
 
 |
@@ -243,6 +255,10 @@ Etat-personnels civils
 |
 
 60
+
+|
+
+0
 
 |
 
@@ -306,6 +322,10 @@ Etat-personnels militaires
 
 |
 
+0
+
+|
+
 CNRACL
 
 |
@@ -359,6 +379,10 @@ CNRACL
 |
 
 49
+
+|
+
+0
 
 |
 
@@ -426,6 +450,10 @@ CNAVPL
 
 |
 
+0
+
+|
+
 CNIEG
 
 |
@@ -486,6 +514,10 @@ CNIEG
 
 |
 
+0
+
+|
+
 Banque de France
 
 |
@@ -523,6 +555,10 @@ Banque de France
 |
 
 1
+
+|
+
+0
 
 |
 
@@ -606,6 +642,10 @@ CRP RATP
 
 |
 
+0
+
+|
+
 CNBF
 
 |
@@ -659,6 +699,10 @@ CNBF
 |
 
 9
+
+|
+
+0
 
 |
 
@@ -722,7 +766,11 @@ Régimes créditeurs
 
 |
 
-- 444
+- 248
+
+|
+
+- 196
 
 |
 
@@ -782,7 +830,11 @@ CCMSA- Exploitants agricoles
 
 |
 
-- 312
+- 219
+
+|
+
+- 93
 
 |
 
@@ -839,6 +891,10 @@ CNRSI - AVIC
 |
 
 - 75
+
+|
+
+0
 
 |
 
@@ -899,6 +955,10 @@ CNRSI - AVA
 |
 
 - 29
+
+|
+
+0
 
 |
 
@@ -966,6 +1026,10 @@ CANSSM
 
 |
 
+0
+
+|
+
 FSPOEIE
 
 |
@@ -1023,6 +1087,10 @@ FSPOEIE
 |
 
 - 2
+
+|
+
+0
 
 |
 
@@ -1086,6 +1154,10 @@ ENIM
 
 |
 
+0
+
+|
+
 CRPCEN
 
 |
@@ -1146,6 +1218,10 @@ CRPCEN
 
 |
 
+0
+
+|
+
 CPRP SNCF
 
 |
@@ -1195,6 +1271,10 @@ CPRP SNCF
 |
 
 - 1
+
+|
+
+0
 
 |
 
