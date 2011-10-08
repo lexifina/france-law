@@ -1,18 +1,20 @@
 # Article Annexe
 
-A.-Emplois en administration centrale
-
 1° Secrétaire général des ministères chargés des affaires sociales
 
-Désignation de l'emploi
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-Nombre d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
-Nombre de points par emploi
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
@@ -28,17 +30,51 @@ Secrétaire général des ministères chargés des affaires sociales
 
 |
 
-2° Chef du service de l'inspection générale des affaires sociales
+2° Secrétaire général
 
-Désignation de l'emploi
-
-|
-
-Nombre d'emplois
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-Nombre de points par emploi
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS
+
+par emploi
+
+|
+
+Secrétaire général du comité interministériel des villes (à compter du 1er janvier 2010)
+
+|
+
+1
+
+|
+
+160
+
+|
+
+3° Chef du service de l'inspection générale des affaires sociales
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
@@ -54,21 +90,29 @@ Chef du service de l'inspection générale des affaires sociales
 
 |
 
-3° Directeur général et directeur d'administration centrale, délégué général et délégué général adjoint, délégué
+4° Directeur général et directeur d'administration centrale, délégué général et délégué général adjoint, délégué
 
-Désignation de l'emploi
-
-|
-
-Nombre d'emplois
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-Nombre de points par emploi
+NOMBRE
+
+d'emplois
 
 |
 
-Directeur général d'administration centrale :
+NOMBRE DE POINTS
+
+par emploi
+
+|
+
+Directeur général d'administration centrale
+
+|
+
+|
 
 |
 
@@ -96,7 +140,7 @@ Directeur général de la santé
 
 |
 
-Directeur général de l'action sociale
+Directeur général de la cohésion sociale (à compter du 25 janvier 2010)
 
 |
 
@@ -108,7 +152,23 @@ Directeur général de l'action sociale
 
 |
 
-Directeur d'administration centrale :
+Directeur général de l'offre de soins (à compter du 15 mars 2010)
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur d'administration centrale
+
+|
+
+|
 
 |
 
@@ -160,18 +220,6 @@ Directeur, adjoint au directeur général de la santé (à compter du 5 juillet 
 
 |
 
-directeur général de l'offre de soins
-
-|
-
-1
-
-|
-
-150
-
-|
-
 Directeur de la sécurité sociale
 
 |
@@ -184,7 +232,7 @@ Directeur de la sécurité sociale
 
 |
 
-Directeur des ressources humaines (A compter du 8 juin 2009)
+Directeur des ressources humaines (à compter du 8 juin 2009)
 
 |
 
@@ -208,23 +256,15 @@ Directeur de la recherche, des études, de l'évaluation et des statistiques
 
 |
 
-Délégué :
+Délégué
 
 |
 
-Délégué interministériel à l'insertion professionnelle et sociale des jeunes en difficulté
+|
 
 |
 
-1
-
-|
-
-140
-
-|
-
-Délégué interministériel à la lutte contre le travail illégal
+Délégué aux affaires juridiques (à compter du 5 mai 2011)
 
 |
 
@@ -232,7 +272,7 @@ Délégué interministériel à la lutte contre le travail illégal
 
 |
 
-140
+120
 
 |
 
@@ -248,7 +288,7 @@ Délégué aux affaires européennes et internationales
 
 |
 
-Délégué interministériel à l'innovation, à l'expérimentation sociale et à l'économie sociale (à compter du 13 février 2006)
+Délégué à la stratégie des systèmes d'information de santé (à compter du 5 mai 2011)
 
 |
 
@@ -260,45 +300,31 @@ Délégué interministériel à l'innovation, à l'expérimentation sociale et �
 
 |
 
-Délégué interministériel à la famille
+5° Chef de service, sous-directeur, directeur de projet
+
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-1
+NOMBRE
+
+d'emplois
 
 |
 
-140
+NOMBRE DE POINTS
+
+par emploi
 
 |
 
-Délégué interministériel aux personnes handicapées
+Chef de service ou sous-directeur exerçant les fonctions
+
+de directeur général adjoint ou de directeur adjoint
 
 |
 
-1
-
 |
-
-140
-
-|
-
-4° Chef de service, sous-directeur, directeur de projet
-
-Désignation de l'emploi
-
-|
-
-Nombre d'emplois
-
-|
-
-Nombre de points par emploi
-
-|
-
-Chef de service ou sous-directeur exerçant les fonctions de Directeur général adjoint ou de directeur adjoint :
 
 |
 
@@ -350,7 +376,7 @@ Chef de service, secrétaire général, direction générale de la santé (à co
 
 |
 
-Chef de service, direction générale de l'action sociale
+Chef de service, direction générale de la cohésion sociale (à compter du 25 janvier 2010)
 
 |
 
@@ -362,11 +388,11 @@ Chef de service, direction générale de l'action sociale
 
 |
 
-Chef de service, direction générale de l'offre de soins
+Chef de service, direction générale de l'offre de soins (à compter du 15 mars 2010)
 
 |
 
-2
+1
 
 |
 
@@ -398,11 +424,7 @@ Chef de service, direction de la recherche, des études, de l'évaluation et des
 
 |
 
-Chef de service ou sous-directeur en charge d'un service ou d'une sous-dirrection d'administration centrale ou d'un service à compétence nationale :
-
-|
-
-Chef du service, adjoint au directeur des affaires financières, juridiques et des services (A compter du 1er mars 2010)
+Chef de service, adjoint au secrétaire général du comité interministériel des villes (à compter du 1er janvier 2010)
 
 |
 
@@ -414,7 +436,29 @@ Chef du service, adjoint au directeur des affaires financières, juridiques et d
 
 |
 
-Chef du service des droits des femmes et de l'égalité
+Chef de service ou sous-directeur en charge d'un service ou d'une sous-direction
+
+d'administration centrale ou d'un service à compétence nationale
+
+|
+
+|
+
+|
+
+Chef du service, adjoint au directeur des affaires financières, informatiques, immobilières et des services (à compter du 5 mai 2011)
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service des droits des femmes et de l'égalité entre les hommes et les femmes
 
 |
 
@@ -462,6 +506,18 @@ Direction générale du travail, sous-directeur des conditions de travail, de la
 
 |
 
+Direction générale du travail, sous-directeur des conseils de prud'hommes et du support (à compter du 22 août 2006)
+
+|
+
+1
+
+|
+
+80
+
+|
+
 Direction de l'animation de la recherche, des études et des statistiques : sous-directeur du suivi et de l'évaluation des politiques de l'emploi et de la formation professionnelle
 
 |
@@ -474,13 +530,39 @@ Direction de l'animation de la recherche, des études et des statistiques : sous
 
 |
 
-Direction de l'animation de la recherche, des études et des statistiques : sous-directeur de l'action régionale, de la diffusion et des moyens (A compter du 28 mars 2008) |
+Direction de l'animation de la recherche, des études et des statistiques : sous-directeur de l'action régionale, de la diffusion et des moyens (à compter du 28 mars 2008)
+
+|
 
 1
 
 |
 
 110
+
+|
+
+Direction de l'animation de la recherche, des études et des statistiques : sous-directeur des salaires, du travail et des relations professionnelles
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Direction de l'animation de la recherche, des études et des statistiques : sous-directeur de l'emploi et du marché du travail
+
+|
+
+1
+
+|
+
+80
 
 |
 
@@ -497,6 +579,18 @@ Direction de l'administration générale et de la modernisation des services : s
 |
 
 Direction de l'administration générale et de la modernisation des services : sous-directeur des finances et du dialogue de gestion (à compter du 25 avril 2003)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Direction de l'administration générale et de la modernisation des services : sous-directeur des systèmes d'information (à compter du 25 octobre 2010)
 
 |
 
@@ -556,7 +650,31 @@ Direction générale de la santé : sous-directeur, chef du département des urg
 
 |
 
-Direction générale de l'action sociale : sous-directeur des institutions, des affaires juridiques et financières
+Direction générale de la santé : sous-directeur de la prévention des risques infectieux
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Direction générale de la santé : sous-directeur, secrétaire général adjoint
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Direction générale de la cohésion sociale : sous-directeur des affaires financières et de la modernisation (à compter du 25 janvier 2010)
 
 |
 
@@ -568,7 +686,7 @@ Direction générale de l'action sociale : sous-directeur des institutions, des 
 
 |
 
-Direction générale de l'action sociale : sous-directeur des politiques d'insertion et de lutte contre les exclusions
+Direction générale de la cohésion sociale : sous-directeur de l'inclusion sociale, de l'insertion et de la lutte contre la pauvreté (à compter du 25 janvier 2010)
 
 |
 
@@ -580,7 +698,7 @@ Direction générale de l'action sociale : sous-directeur des politiques d'inser
 
 |
 
-Direction générale de l'offre de soins : sous-directeur de l'organisation des systèmes de soins
+Direction générale de la cohésion sociale : sous-directeur de l'autonomie des personnes handicapées et des personnes âgées (à compter du 25 janvier 2010)
 
 |
 
@@ -592,7 +710,7 @@ Direction générale de l'offre de soins : sous-directeur de l'organisation des 
 
 |
 
-Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des ressources humaines du système de santé (A compter du 10 décembre 2008)
+Direction générale de la cohésion sociale : sous-directeur de l'enfance et de la famille (à compter du 25 janvier 2010)
 
 |
 
@@ -604,7 +722,53 @@ Direction de l'hospitalisation et de l'organisation des soins : sous-directeur d
 
 |
 
-..
+Direction générale de la cohésion sociale : sous-directeur des professions sociales, de l'emploi et des territoires (à compter du 25 janvier 2010)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Direction générale de l'offre de soins : sous-directeur du pilotage de la performance des acteurs de l'offre de soins (à compter du 15 mars 2010)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Direction générale de l'offre de soins : sous-directeur des ressources humaines du système de santé (à compter du 15 mars 2010)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Direction générale de l'offre de soins : sous-directeur de la régulation de l'offre de soins (à compter du 15 mars 2010)
+
+|
+
+1
+
+|
+
+110
+
+|
 
 Direction de la sécurité sociale : sous-directeur du financement du système de soins
 
@@ -639,176 +803,6 @@ Direction de la sécurité sociale : sous-directeur des études et des prévisio
 |
 
 110
-
-|
-
-Direction des ressources humaines : sous-directeur de la gestion du personnel (A compter du 1er juillet 2010) |
-
-1
-
-|
-
-80
-
-|
-
-Direction des ressources humaines : sous-directeur des emplois et des compétences (A compter du 8 juin 2009) |
-
-1
-
-|
-
-110
-
-|
-
-|
-
-|
-
-|
-
-Direction générale du travail, sous-directeur des conseils des prud'hommes et du support (à compter du 22 août 2006)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction de l'animation de la recherche, des études et des statistiques : sous-directeur des salaires, du travail et des relations professionnelles
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction de l'animation de la recherche, des études et des statistiques : sous-directeur de l'emploi et du marché du travail
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction de l'administration générale et de la modernisation des services : sous-directeur des systèmes d'information (à compter du 25 avril 2003)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction générale de la santé : sous-directeur de la prévention des risques infectieux (à compter du 11 mai 2007)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction générale de la santé : sous-directeur, secrétaire général adjoint (à compter du 11 mai 2007)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction générale de l'action sociale : sous-directeur des âges de la vie
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction générale de l'action sociale : sous-directeur des personnes handicapées
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Direction générale de l'action sociale : sous-directeur de l'animation territoriale et du travail social
-
-|
-
-1
-
-|
-
-80
-
-|
-
-direction générale de l'offre de soins : sous-directeur de la qualité et du fonctionnement des établissements de santé
-
-|
-
-1
-
-|
-
-80
-
-|
-
-direction générale de l'offre de soins : sous-directeur des affaires générales
-
-|
-
-1
-
-|
-
-80
-
-|
-
-direction générale de l'offre de soins : sous-directeur des affaires financières
-
-|
-
-1
-
-|
-
-80
 
 |
 
@@ -848,7 +842,7 @@ Direction de la sécurité sociale : sous-directeur de la gestion et des systèm
 
 |
 
-Direction des ressources humaines : sous-directeur du droit du personnel et des relations sociales (A compter du 8 juin 2009)
+Direction des ressources humaines : sous-directeur de la gestion du personnel (à compter du 1er mars 2011)
 
 |
 
@@ -856,21 +850,11 @@ Direction des ressources humaines : sous-directeur du droit du personnel et des 
 
 |
 
-80
+110
 
 |
 
-Direction des affaires financières, juridiques et des services : sous-directeur des systèmes d'information (A compter du 8 juin 2009) |
-
-1
-
-|
-
-80
-
-|
-
-Direction des affaires financières, juridiques et des services : sous-directeur des affaires juridiques et de la gestion des connaissances (A compter du 8 juin 2009)
+Direction des ressources humaines : sous-directeur des emplois et des compétences (à compter du 8 juin 2009)
 
 |
 
@@ -878,7 +862,31 @@ Direction des affaires financières, juridiques et des services : sous-directeur
 
 |
 
-80
+110
+
+|
+
+Direction des ressources humaines : sous-directeur du droit du personnel et des relations sociales
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Direction des affaires financières, informatiques, immobilières et des services : sous-directeur des systèmes d'information (à compter du 5 mai 2011)
+
+|
+
+1
+
+|
+
+110
 
 |
 
@@ -918,15 +926,31 @@ Direction de la recherche, des études, de l'évaluation et des statistiques : s
 
 |
 
-Directeur de projet :
+Sous-directeur au secrétariat général du comité interministériel des villes (à compter du 1er janvier 2010)
 
 |
 
-Secrétaire général des ministères chargés des affaires sociales (à compter du 21 février 2008)
+1
 
 |
 
-3
+110
+
+|
+
+Directeur de projet
+
+|
+
+|
+
+|
+
+Secrétaire général des ministères chargés des affaires sociales
+
+|
+
+5
 
 |
 
@@ -934,7 +958,7 @@ Secrétaire général des ministères chargés des affaires sociales (à compter
 
 |
 
-Direction générale du travail (à compter du 22 août 2006)
+Inspection générale des affaires sociales
 
 |
 
@@ -958,19 +982,7 @@ Direction de l'administration générale et de la modernisation des services
 
 |
 
-Direction générale de la santé (à compter du 1er décembre 2006)
-
-|
-
-3
-
-|
-
-80
-
-|
-
-Direction générale de la santé (à compter du 28 juin 2007)
+Direction générale de la santé
 
 |
 
@@ -982,7 +994,7 @@ Direction générale de la santé (à compter du 28 juin 2007)
 
 |
 
-Direction générale de l'action sociale (à compter du 9 février 2008)
+Direction générale la cohésion sociale (à compter du 25 janvier 2010)
 
 |
 
@@ -1006,7 +1018,7 @@ Direction des ressources humaines (à compter du 8 juin 2009)
 
 |
 
-direction générale de l'offre de soins (à compter du 12 août 2005)
+Direction générale de l'offre de soins (à compter du 12 août 2005)
 
 |
 
@@ -1030,29 +1042,21 @@ Direction de la sécurité sociale (à compter du 5 mars 2008)
 
 |
 
-Délégation aux affaires européennes et internationales (à compter du 23 août 2007)
+6° Président de mission
+
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-1
+NOMBRE
+
+d'emplois
 
 |
 
-80
+NOMBRE DE POINTS
 
-|
-
-5° Président de mission
-
-Désignation de l'emploi
-
-|
-
-Nombre d'emplois
-
-|
-
-Nombre de points par emploi
+par emploi
 
 |
 
@@ -1065,2353 +1069,5 @@ Président de la mission interministérielle aux rapatriés
 |
 
 140
-
-|
-
-B.-Fonctions exercées en service déconcentré
-
-1° Postes de chef de service déconcentré
-
-Désignation de l'emploi
-
-|
-
-Nombre d'emplois
-
-|
-
-Nombre de points par emploi
-
-|
-
-Directeur régional des affaires sanitaires et sociales
-
-|
-
-Île-de-France
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Midi-Pyrénées
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Nord-Pas-de-Calais
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Provence-Alpes-Côte d'Azur
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Rhône-Alpes
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Alsace
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Aquitaine
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Bretagne
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Centre
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Corse, Corse-du-Sud
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Languedoc-Roussillon
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Lorraine
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Pays de la Loire
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Auvergne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Basse-Normandie
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Bourgogne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Champagne-Ardenne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Franche-Comté
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Guadeloupe
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Guyane
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Haute-Normandie
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Limousin
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Martinique
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Picardie
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Poitou-Charentes
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Réunion
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Directeur régional du travail, de l'emploi et de la formation professionnelle
-
-|
-
-Île-de-France
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Nord-Pas-de-Calais
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Provence-Alpes-Côte d'Azur
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Rhône-Alpes
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Aquitaine
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Bretagne
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Centre
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Languedoc-Roussillon
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Midi-Pyrénées
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Pays de la Loire
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Alsace
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Auvergne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Basse-Normandie
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Bourgogne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Champagne-Ardenne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Corse
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Franche-Comté
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Haute-Normandie
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Limousin
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Lorraine
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Picardie
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Poitou-Charentes
-
-|
-
-1
-
-|
-
-90
-
-|
-
-..
-
-Directeur départemental des affaires sanitaires et sociales
-
-|
-
-Nombre d'emplois
-
-|
-
-Nombre de points par emploi
-
-|
-
-Bouches-du-Rhône
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Nord
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Paris
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Rhône
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Seine-Saint-Denis
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Alpes-Maritimes
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Bas-Rhin
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Essonne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Finistère
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Gard
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Gironde
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Haute-Garonne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Haut-Rhin
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Hauts-de-Seine
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Hérault
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Isère
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Loire-Atlantique
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Meurthe-et-Moselle
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Moselle
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Pas-de-Calais
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Seine-et-Marne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Val-de-Marne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Val-d'Oise
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Var
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Yvelines
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Calvados
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Charente-Maritime
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Drôme
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Ille-et-Vilaine
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Indre-et-Loire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Loire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Maine-et-Loire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Mayotte
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Morbihan
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Puy-de-Dôme
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Pyrénées-Atlantiques
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Saône-et-Loire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Seine-Maritime
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Somme
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Ain
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Aisne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Allier
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Ardennes
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Aude
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Aveyron
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Charente
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Corrèze (à compter du 12 août 2003)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Côte-d'Or
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Côtes-d'Armor
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Dordogne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Doubs
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Eure
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Eure-et-Loir
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Haute-Corse
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Haute-Savoie
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Hautes-Pyrénées
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Haute-Vienne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Loiret
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Manche
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Marne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Nièvre (à compter du 12 août 2003)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Oise
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Orne (à compter du 12 août 2003)
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Pyrénées-Orientales
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sarthe
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Savoie
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Tarn
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Vaucluse
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Vendée
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Vienne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Vosges
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Yonne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-..
-
-Directeur départemental du travail, de l'emploi et de la formation professionnelle
-
-|
-
-Bouches-du-Rhône
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Hauts-de-Seine
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Nord-Lille
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Paris
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Rhône
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Alpes-Maritimes
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Bas-Rhin
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Essonne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Finistère
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Gironde
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Haute-Garonne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Hérault
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Ille-et-Vilaine
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Isère
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Loire
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Loire-Atlantique
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Maine-et-Loire
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Meurthe-et-Moselle
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Moselle
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Nord-Valenciennes
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Oise
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Pas-de-Calais
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Réunion
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Seine-et-Marne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Seine-Maritime
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Seine-Saint-Denis
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Val-de-Marne
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Val-d'Oise
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Var
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Yvelines
-
-|
-
-1
-
-|
-
-90
-
-|
-
-Ain
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Aisne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Allier
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Aube
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Calvados
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Charente
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Charente-Maritime
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Cher
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Côte-d'Or
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Côtes-d'Armor
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Deux-Sèvres
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Dordogne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Doubs
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Drôme
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Eure
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Eure-et-Loir
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Gard
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Guadeloupe
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Guyane
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Haut-Rhin
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Haute-Savoie
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Haute-Vienne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Indre-et-Loire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Loir-et-Cher
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Loiret
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Manche
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Marne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Martinique
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Morbihan
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Puy-de-Dôme
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Pyrénées-Atlantiques
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Pyrénées-Orientales
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Saône-et-Loire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sarthe
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Savoie
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Somme
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Tarn
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Vaucluse
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Vendée
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Vienne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Vosges
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Yonne
-
-|
-
-1
-
-|
-
-80
 
 |
