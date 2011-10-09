@@ -10,7 +10,9 @@ SERVICE
 
 |
 
-NOMBRE d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
@@ -43,6 +45,10 @@ Garage de la préfecture
 |
 
 1
+
+|
+
+|
 
 |
 
@@ -102,6 +108,10 @@ Garage de la préfecture
 
 |
 
+|
+
+|
+
 Résidence du préfet
 
 |
@@ -139,6 +149,10 @@ Garage de la préfecture
 |
 
 1
+
+|
+
+|
 
 |
 
@@ -214,6 +228,10 @@ Garage de la préfecture
 
 |
 
+|
+
+|
+
 Service intérieur
 
 |
@@ -248,7 +266,9 @@ SERVICE
 
 |
 
-NOMBRE d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
@@ -272,6 +292,8 @@ Atelier du BMM (Nice)
 
 |
 
+|
+
 Atelier carrosserie-peinture (Marseille)
 
 |
@@ -280,7 +302,25 @@ Atelier carrosserie-peinture (Marseille)
 
 |
 
+|
+
+|
+
 Atelier mécanique (Marseille)
+
+|
+
+1
+
+|
+
+34
+
+|
+
+|
+
+Atelier mécanique (Montpellier)
 
 |
 
@@ -308,6 +348,8 @@ Atelier avancé de Melun
 
 |
 
+|
+
 Atelier du Chesnay
 
 |
@@ -317,6 +359,8 @@ Atelier du Chesnay
 |
 
 95
+
+|
 
 |
 
@@ -338,7 +382,9 @@ SERVICE
 
 |
 
-NOMBRE d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
@@ -368,7 +414,9 @@ SERVICE
 
 |
 
-NOMBRE d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
@@ -376,7 +424,7 @@ NOMBRE d'emplois
 
 |
 
-Direction générale de la sécurité civile et de la gestion des crises
+Direction de la sécurité civile
 
 |
 
@@ -401,6 +449,10 @@ Bureau du budget et du fonctionnement de l'administration centrale
 |
 
 1
+
+|
+
+|
 
 |
 
@@ -441,6 +493,10 @@ Centre national de production des titres
 |
 
 1
+
+|
+
+87
 
 |
 
