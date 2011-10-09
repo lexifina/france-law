@@ -8,11 +8,13 @@ LOCALISATION
 
 |
 
-SERVICE
+FONCTIONS
 
 |
 
-NOMBRE d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
@@ -45,6 +47,10 @@ Chef du garage
 |
 
 1
+
+|
+
+|
 
 |
 
@@ -104,6 +110,10 @@ Chef du garage
 
 |
 
+|
+
+|
+
 Maître d'hôtel de la résidence du préfet
 
 |
@@ -141,6 +151,10 @@ Chef du garage
 |
 
 1
+
+|
+
+|
 
 |
 
@@ -216,6 +230,10 @@ Chef de l'équipe du service intérieur
 
 |
 
+|
+
+|
+
 Chef du garage
 
 |
@@ -228,7 +246,7 @@ Chef du garage
 
 |
 
-Préfecture de la Réunion
+Préfecture de La Réunion
 
 |
 
@@ -246,11 +264,13 @@ LOCALISATION
 
 |
 
-SERVICE
+FONCTIONS
 
 |
 
-NOMBRE d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
@@ -274,6 +294,8 @@ Adjoint au chef de l'atelier du BMM (Nice)
 
 |
 
+|
+
 Adjoint au chef de l'atelier mécanique (Marseille)
 
 |
@@ -282,7 +304,25 @@ Adjoint au chef de l'atelier mécanique (Marseille)
 
 |
 
+|
+
+|
+
 Chef de l'atelier carrosserie-peinture (Marseille)
+
+|
+
+1
+
+|
+
+34
+
+|
+
+|
+
+Responsable de l'atelier mécanique (Montpellier)
 
 |
 
@@ -310,7 +350,21 @@ Adjoint au chef de l'atelier avancé de Melun
 
 |
 
-Adjoint au chef de la section "Deux-roues" à l'atelier du Chesnay
+|
+
+Adjoint au chef de la section "deux roues" à l'atelier du Chesnay
+
+|
+
+1
+
+|
+
+|
+
+|
+
+Adjoint au chef de l'équipe "mécanique générale" à l'atelier du Chesnay
 
 |
 
@@ -321,12 +375,6 @@ Adjoint au chef de la section "Deux-roues" à l'atelier du Chesnay
 95
 
 |
-
-Adjoint au chef de l'équipe "Mécanique générale" à l'atelier du Chesnay
-
-|
-
-1
 
 |
 
@@ -344,11 +392,13 @@ LOCALISATION
 
 |
 
-SERVICE
+FONCTIONS
 
 |
 
-NOMBRE d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
@@ -374,11 +424,13 @@ LOCALISATION
 
 |
 
-SERVICE
+FONCTIONS
 
 |
 
-NOMBRE d'emplois
+NOMBRE
+
+d'emplois
 
 |
 
@@ -386,7 +438,7 @@ NOMBRE d'emplois
 
 |
 
-Direction générale de la sécurité civile et de la gestion des crises
+Direction de la sécurité civile
 
 |
 
@@ -406,7 +458,7 @@ Direction de la programmation, des affaires financières et de l'immobilier
 
 |
 
-Chef de la section "Imprimerie reprographie" au BBFAC
+Chef de la section "imprimerie reprographie" au BBFAC
 
 |
 
@@ -414,7 +466,11 @@ Chef de la section "Imprimerie reprographie" au BBFAC
 
 |
 
-Responsable du pôle "Manutention" au BAIAC
+|
+
+|
+
+Responsable du pôle "manutention" au BAIAC
 
 |
 
@@ -438,7 +494,11 @@ Adjoint opérationnel au responsable du magasin de la DOSTL
 
 |
 
-Coordinateur des équipes carrosserie-peinture-sellerie à l'atelier Nord (DOSTL)
+|
+
+|
+
+Coordinateur des équipes carrosserie-peinture-sellerie à l'atelier nord (DOSTL)
 
 |
 
