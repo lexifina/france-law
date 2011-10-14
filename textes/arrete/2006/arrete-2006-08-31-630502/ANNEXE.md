@@ -4,97 +4,67 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel d'agent(e) d'entretien et de distribution de matériels de sport et de loisirs.
-
-Ancien intitulé : agent d'entretien et de distribution, option matériels légers de jardinage, option matériels de sport.
+Titre professionnel : agent (e) technicien (ne)-vendeur (se) spécialisé (e) en matériels de sports (ancien intitulé agent (e) d'entretien et de distribution de matériels de sport et de loisirs).
 
 Niveau : V.
 
-Code NSF : 252 r.
+Code NSF : 250 w.
 
 Résumé du référentiel d'emploi
 
-L'agent(e) d'entretien et de distribution de matériels de sport et de loisirs exerce son activité dans le secteur de la commercialisation de matériels de sport, d'été et/ou d'hiver, destinés au grand public.
+L'agent technicien-vendeur spécialisé en matériels de sports exerce son activité en magasin de montagne ou de ville. Il assure le montage, le réglage, l'entretien et la réparation des matériels clients ou du parc locatif, ainsi que la vente et/ ou la location de matériels de sports. Il intervient principalement sur des cycles, des skis et des raquettes de tennis. Son activité suppose une polyvalence technique et commerciale. Les conditions d'exercice pouvant varier en fonction de la typologie des magasins.
 
-Il (elle) travaille généralement dans un magasin de vente spécialisé (magasin de montagne ou de ville), dans un service après-vente intégré ou dans une entreprise de location.
+Le travail est réalisé dans un atelier, un espace de location ouvert sur l'espace de vente et implique une relation constante avec la clientèle. Le professionnel travaille seul, souvent au sein d'une équipe, sous la responsabilité d'un responsable hiérarchique à qui il rend compte.
 
-Il (elle) intervient principalement sur les cycles, les VTT, les vélos de randonnée, les équipements de skis alpins et de fond, les surfs, les raquettes de tennis.
+Il peut exercer dans des situations inconfortables, le plus souvent debout, et soulever des charges de moyenne importance. Il effectue de nombreux déplacements. Le port d'une tenue est souvent imposé par le magasin.
 
-Il (elle) assure :
+Les horaires sont normalement réguliers mais certains travaux liés à la saisonnalité des produits peuvent entraîner des aménagements horaires. En fonction de la période et du type de structure, il peut être amené à travailler le week-end. Suivant le type d'emploi (CDD ou saisonnier, par exemple) et le contexte environnemental lié aux différentes pratiques sportives, une mobilité géographique plus ou moins importante peut être nécessaire.
 
-- le montage et le réglage des matériels de sport entrant en magasin ;
+Capacités attestées et descriptif des composantes de la certification
 
-- l'entretien et la réparation des matériels reçus au service après-vente ;
-
-- la vente des produits, des matériels et des prestations de service après-vente et de location.
-
-Il (elle) est en relation constante avec la clientèle qu'il (elle) accueille, renseigne et conseille, ce qui suppose une connaissance des produits, tant sur le plan de leur entretien que de leur utilisation.
-
-Son activité varie selon la saison et il (elle) peut être conduit(e) à travailler le samedi, voire le dimanche, en fonction de l'organisation de l'entreprise, de la période et du type d'entreprise.
-
-Capacités attestées et descriptif
-
-des composantes de la certification
-
-1. Réaliser la maintenance des équipements
-
-de sports de glisse d'hiver
-
-Organiser et gérer les interventions portant sur les matériels de sports de glisse d'hiver.
-
-Préparer et régler les matériels et équipements de sports de glisse d'hiver.
-
-Réaliser l'entretien des matériels et des équipements de sports de glisse d'hiver.
-
-Réparer les matériels et équipements de sports de glisse d'hiver.
-
-Donner des consignes d'entretien et d'utilisation lors de la mise à disposition des matériels de sports de glisse d'hiver.
-
-2. Préparer et remettre en état des matériels de sports d'été
-
-Organiser et gérer les interventions portant sur les matériels de sports d'été.
+1. Réaliser la maintenance et la commercialisation des matériels de sport d'été
 
 Entretenir et corder des raquettes de tennis.
 
 Monter et régler des cycles.
 
-Réaliser l'entretien et les visites de sécurité des cycles.
+Entretenir des cycles.
 
-Changer les pièces d'usure et remettre en état des cycles.
+Remettre en état des cycles.
 
-Donner des consignes d'entretien et d'utilisation lors de la mise à disposition du matériel de sports d'été.
+Commercialiser des matériels de sport d'été.
 
-3. Commercialiser des matériels de sport et de loisirs
+2. Effectuer la remise en état et la location des matériels de sport de glisse d'hiver
 
-Conseiller les clients sur le choix d'un matériel de sport.
+Monter et régler des matériels de skis.
 
-Réaliser la vente des matériels et équipements de sport.
+Entretenir des matériels de skis.
 
-Procéder aux opérations et aux formalités administratives de mise en main des matériels de sport.
+Réparer des matériels de skis.
 
-Gérer le parc des matériels de sport mis en location.
+Louer des matériels de skis.
 
-Prendre en charge des matériels de sport pour une intervention de maintenance.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Réassortir l'espace vente de matériels de sport.
+Le principal secteur d'activité est celui du commerce et de la distribution de matériel de sport et de loisir.
 
-Secteurs d'activité ou types d'emploi
+Les types d'emplois accessibles sont les suivants :
 
-accessibles par le détenteur du titre
+Technicien vendeur en articles de sport ;
 
-L'agent(e) d'entretien et de distribution de matériels de sport et de loisirs exerce principalement son activité dans une grande surface spécialisée dans la vente de matériels de sport, dans les magasins de sports de montagne ou de ville, dans un magasin de location de matériels de sports et de loisirs.
+Vendeur en articles de sport, vendeur spécialisé en articles de sport ;
 
-Types d'emploi accessibles : vendeur(se) technique en matériel de sports et de loisirs, technicien vendeur de service après-vente de matériel de sport, vendeur-conseil en matériel de sport.
+Conseiller technique ski, cycle, conseiller technique sports ;
 
-Codes ROME :
+Technicien cycle, skiman, cordeur.
 
-14224 - Vendeur(se) en articles de sport et loisirs de plein air.
+Code ROME :
 
-44322 - Mécanicien(ne) en motocycles, matériel d'entretien et de loisirs.
+D-1211-Vente en articles de sport et loisirs.
 
 Réglementation de l'activité :
 
-Néant.
+Pour pouvoir exercer l'activité d'entretien et de réparation des cycles, il est nécessaire d'être titulaire d'un CAP ou d'un BEP, ou d'un diplôme ou d'un titre de niveau égal ou supérieur homologué ou enregistré lors de sa délivrance au RCCP (décret n° 98-246 du 2 avril 1998).
 
 Autorité responsable de la certification :
 
@@ -102,8 +72,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 relatif au titre professionnel délivré par le ministre chargé de l'emploi ;
-
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
