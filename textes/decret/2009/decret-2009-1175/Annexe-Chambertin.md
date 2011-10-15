@@ -1,12 +1,12 @@
 # Article Annexe " Chambertin "
 
-CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES CHAMBERTIN , CHAMBERTIN-CLOS DE BÈZE , CHAPELLE-CHAMBERTIN , CHARMES-CHAMBERTIN , GRIOTTE-CHAMBERTIN , LATRICIÈRES-CHAMBERTIN , MAZIS-CHAMBERTIN , MAZOYÈRES-CHAMBERTIN , RUCHOTTES-CHAMBERTIN
+CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES CHARMES-CHAMBERTIN , GRIOTTE-CHAMBERTIN , LATRICIÈRES-CHAMBERTIN , RUCHOTTES-CHAMBERTIN
 
 Chapitre Ier
 
 I. - Nom de l'appellation
 
-Seuls peuvent prétendre aux appellations d'origine contrôlées Chambertin , Chambertin-Clos de Bèze , Chapelle-Chambertin , Charmes-Chambertin , Griotte-Chambertin , Latricières-Chambertin , Mazis-Chambertin , Mazoyères-Chambertin et Ruchottes-Chambertin , initialement reconnues par les décrets du 31 juillet 1937, les vins répondant aux dispositions particulières fixées ci-après.
+Seuls peuvent prétendre aux appellations d'origine contrôlées Charmes-Chambertin , Griotte-Chambertin , Latricières-Chambertin et Ruchottes-Chambertin , initialement reconnues par les décrets du 31 juillet 1937, les vins répondant aux dispositions particulières fixées ci-après.
 
 II. - Dénominations géographiques et mentions complémentaires
 
@@ -14,7 +14,7 @@ Pas de dispositions complémentaires.
 
 III. - Couleur et types de produit
 
-Les appellations d'origine contrôlées Chambertin , Chambertin-Clos de Bèze , Chapelle-Chambertin , Charmes-Chambertin , Griotte-Chambertin , Latricières-Chambertin , Mazis-Chambertin , Mazoyères-Chambertin et Ruchottes-Chambertin sont réservées aux vins tranquilles rouges.
+Les appellations d'origine contrôlées Charmes-Chambertin , Griotte-Chambertin , Latricières-Chambertin et Ruchottes-Chambertin sont réservées aux vins tranquilles rouges.
 
 IV. - Aires et zones dans lesquelles différentes opérations sont réalisées
 
@@ -154,11 +154,11 @@ VIII. - Rendements. - Entrée en production
 
 1° Rendement :
 
-Le rendement visé à l'article D. 644-25 du code rural est fixé à 35 hectolitres par hectare pour les appellations Chambertin et Chambertin-Clos de Bèze et à 37 hectolitres par hectare pour les appellations Chapelle-Chambertin , Charmes-Chambertin , Griotte-Chambertin , Latricières-Chambertin , Mazis-Chambertin , Mazoyères-Chambertin et Ruchottes-Chambertin.
+Le rendement visé à l'article D. 644-25 du code rural est fixé à 35 hectolitres par hectare pour les appellations Chambertin et à 37 hectolitres par hectare pour les appellations Charmes-Chambertin , Griotte-Chambertin , Latricières-Chambertin et Ruchottes-Chambertin.
 
 2° Rendement butoir :
 
-Le rendement butoir visé à l'article D. 644-25 du code rural est fixé à 49 hectolitres par hectare pour les appellations Chambertin et Chambertin-Clos de Bèze , et à 53 hectolitres par hectare pour les appellations Chapelle-Chambertin , Charmes-Chambertin , Griotte-Chambertin , Latricières-Chambertin , Mazis-Chambertin , Mazoyères-Chambertin et Ruchottes-Chambertin.
+Le rendement butoir visé à l'article D. 644-25 du code rural est fixé à 49 hectolitres par hectare pour les appellations Chambertin, et à 53 hectolitres par hectare pour les appellations Charmes-Chambertin , Griotte-Chambertin , Latricières-Chambertin et Ruchottes-Chambertin.
 
 3° Rendement maximum de production :
 
@@ -280,7 +280,7 @@ XII. - Règles de présentation et étiquetage
 
 1° Dispositions générales :
 
-Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : Chambertin , Chambertin-Clos de Bèze , Chapelle-Chambertin , Charmes-Chambertin , Griotte-Chambertin , Latricières-Chambertin , Mazis-Chambertin , Mazoyères-Chambertin et Ruchottes-Chambertin , qui sont présentés sous l'une desdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée , le tout en caractères très apparents.
+Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : Charmes-Chambertin , Griotte-Chambertin , Latricières-Chambertin et Ruchottes-Chambertin , qui sont présentés sous l'une desdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée , le tout en caractères très apparents.
 
 2° Dispositions particulières :
 
