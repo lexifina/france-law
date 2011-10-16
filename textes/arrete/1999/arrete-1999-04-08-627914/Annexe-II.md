@@ -1,4 +1,4 @@
-# Article ANNEXE II
+# Article Annexe II
 
 LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 
@@ -22,7 +22,7 @@ d'animaux
 
 |
 
-DÉCLARATIONS D'ÉTIQUETAGE
+DÉCLARATIONS d'étiquetage
 
 |
 
@@ -1687,6 +1687,80 @@ Magnésium.
 |
 
 Sodium.
+
+|
+
+Soutien du métabolisme des articulations en cas d'ostéoarthrose
+
+|
+
+Chiens :
+
+Teneur minimale en matière sèche du total des acides gras oméga-3 : 3,3 %
+
+Teneur minimale en matière sèche du total des acides eicosapentaénoïques (EPA) : 0,38 %
+
+Teneur en vitamine E appropriée
+
+|
+
+Chiens et chats
+
+|
+
+Chiens :
+
+Total des acides gras oméga-3
+
+Total EPA
+
+Vitamine E totale
+
+|
+
+Au départ, jusqu'à trois mois
+
+|
+
+Il est recommandé de consulter un vétérinaire avant utilisation ou prolongation de la période d'utilisation
+
+|
+
+Chats :
+
+Teneur minimale en matière sèche du total des acides gras oméga-3 : 1,2 %
+
+Teneur minimale en matière sèche du total des acides docosahexaénoïques (DHA) : 0,28 %
+
+Teneurs accrues en méthionine et manganèse.
+
+Teneur en vitamine E appropriée
+
+|
+
+Chats :
+
+Total des acides gras oméga-3
+
+Total DHA
+
+Méthionine totale
+
+Manganèse total
+
+Vitamine E totale
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
