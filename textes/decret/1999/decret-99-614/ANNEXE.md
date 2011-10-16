@@ -1,45 +1,89 @@
 # Article ANNEXE
 
-Fonctions exercées pouvant ouvrir droit au versement
+DÉSIGNATION DE LA FONCTION
 
-d'une nouvelle bonification indiciaire
+|
 
-DÉSIGNATION DE LA FONCTION : Commandant en second, chef de groupement ou officier supérieur adjoint au commandant.
+NIVEAU DES RESPONSABILITÉS EXERCÉES
 
-NIVEAU des responsabilités exercées : Officier
+|
 
-DÉSIGNATION DE LA FONCTION : Commandant ou assimilé d'unité opérationnelle ou de soutien.
+Commandant en second, chef de groupement opérationnel, chef de groupement soutien
 
-NIVEAU des responsabilités exercées : Officier ou officier marinier
+|
 
-DÉSIGNATION DE LA FONCTION : Officier en second ou assimilé d'unité opérationnelle ou de soutien.
+Officier
 
-NIVEAU des responsabilités exercées : Officier ou officier marinier
+|
 
-DÉSIGNATION DE LA FONCTION : Responsable technique, opérationnel ou administratif en unité opérationnelle ou de soutien.
+Commandant ou assimilé d'unité opérationnelle ou de soutien
 
-NIVEAU des responsabilités exercées : Officier ou officier marinier
+|
 
-DÉSIGNATION DE LA FONCTION : Chef de division ou assimilé.
+Officier ou officier marinier
 
-NIVEAU des responsabilités exercées : Officier
+|
 
-DÉSIGNATION DE LA FONCTION : Adjoint au chef de la division ou assimilé.
+Officier en second ou assimilé d'unité opérationnelle ou de soutien
 
-NIVEAU des responsabilités exercées : Officier ou officier marinier
+|
 
-DÉSIGNATION DE LA FONCTION : Directeur de l'enseignement.
+Officier ou officier marinier
 
-NIVEAU des responsabilités exercées : Officier
+|
 
-DÉSIGNATION DE LA FONCTION : Adjoint au directeur de l'enseignement ou assimilé.
+Responsable technique, opérationnel ou administratif en unité opérationnelle ou de soutien
 
-NIVEAU des responsabilités exercées : Officier
+|
 
-DÉSIGNATION DE LA FONCTION : Responsable de la formation, de la pédagogie ou de l'encadrement en école.
+Officier ou officier marinier
 
-NIVEAU des responsabilités exercées : Officier marinier
+|
 
-DÉSIGNATION DE LA FONCTION : Responsable de la discipline.
+Chef de division ou assimilé
 
-NIVEAU des responsabilités exercées : Officier marinier
+|
+
+Officier
+
+|
+
+Adjoint au chef de division ou assimilé
+
+|
+
+Officier ou officier marinier
+
+|
+
+Directeur de l'enseignement
+
+|
+
+Officier
+
+|
+
+Adjoint au directeur de l'enseignement
+
+|
+
+Officier
+
+|
+
+Responsable de la formation, de la pédagogie ou de l'encadrement en école
+
+|
+
+Officier marinier
+
+|
+
+Responsable ressource humaine, discipline
+
+|
+
+Officier marinier
+
+|
