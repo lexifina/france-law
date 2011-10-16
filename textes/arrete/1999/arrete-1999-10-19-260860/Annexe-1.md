@@ -4060,6 +4060,730 @@ Le nombre 11, 5 signifie que, au cours de la tranche horaire correspondante, au 
 
 |
 
+À COMPTER DE LA SAISON AÉRONAUTIQUE D'ÉTÉ 2012
+
+HEURES LOCALES
+
+|
+
+ARRIVÉES
+
+par 10 minutes
+
+|
+
+ARRIVÉES
+
+par heure
+
+|
+
+DÉPARTS
+
+par 10 minutes
+
+|
+
+DÉPARTS
+
+par heure
+
+|
+
+TOTAL
+
+arrivées + départs
+
+par heure
+
+|
+
+HEURES LOCALES
+
+|
+
+0 h à 0 h 59
+
+|
+
+7
+
+|
+
+30
+
+|
+
+7
+
+|
+
+25
+
+|
+
+40
+
+|
+
+0 h à 0 h 59
+
+|
+
+1 h à 1 h 59
+
+|
+
+7
+
+|
+
+20
+
+|
+
+7
+
+|
+
+25
+
+|
+
+40
+
+|
+
+1 h à 1 h 59
+
+|
+
+2 h à 2 h 59
+
+|
+
+7
+
+|
+
+20
+
+|
+
+7
+
+|
+
+20
+
+|
+
+32
+
+|
+
+2 h à 2 h 59
+
+|
+
+3 h à 3 h 59
+
+|
+
+7
+
+|
+
+20
+
+|
+
+7
+
+|
+
+20
+
+|
+
+32
+
+|
+
+3 h à 3 h 59
+
+|
+
+4 h à 4 h 59
+
+|
+
+7
+
+|
+
+20
+
+|
+
+7
+
+|
+
+20
+
+|
+
+32
+
+|
+
+4 h à 4 h 59
+
+|
+
+5 h à 5 h 59
+
+|
+
+7
+
+|
+
+30
+
+|
+
+7
+
+|
+
+25
+
+|
+
+40
+
+|
+
+5 h à 5 h 59
+
+|
+
+6 h à 6 h 59
+
+|
+
+10 *
+
+|
+
+41
+
+|
+
+7
+
+|
+
+38
+
+|
+
+67
+
+|
+
+6 h à 6 h 59
+
+|
+
+7 h à 7 h 59
+
+|
+
+11
+
+|
+
+48
+
+|
+
+12
+
+|
+
+66
+
+|
+
+103
+
+|
+
+7 h à 7 h 59
+
+|
+
+8 h à 8 h 59
+
+|
+
+12
+
+|
+
+62
+
+|
+
+11,5
+
+|
+
+62
+
+|
+
+106
+
+|
+
+8 h à 8 h 59
+
+|
+
+9 h à 9 h 59
+
+|
+
+11,5
+
+|
+
+62
+
+|
+
+12,5
+
+|
+
+62
+
+|
+
+115
+
+|
+
+9 h à 9 h 59
+
+|
+
+10 h à 10 h 59
+
+|
+
+11,5
+
+|
+
+60
+
+|
+
+12
+
+|
+
+67
+
+|
+
+111
+
+|
+
+10 h à 10 h 59
+
+|
+
+11 h à 11 h 59
+
+|
+
+11,5
+
+|
+
+60
+
+|
+
+12
+
+|
+
+63
+
+|
+
+111
+
+|
+
+11 h à 11 h 59
+
+|
+
+12 h à 12 h 59
+
+|
+
+11,5
+
+|
+
+54
+
+|
+
+12
+
+|
+
+63
+
+|
+
+109
+
+|
+
+12 h à 12 h 59
+
+|
+
+13 h à 13 h 59
+
+|
+
+11,5
+
+|
+
+54
+
+|
+
+12
+
+|
+
+66
+
+|
+
+105
+
+|
+
+13 h à 13 h 59
+
+|
+
+14 h à 14 h 59
+
+|
+
+12
+
+|
+
+57
+
+|
+
+11,5
+
+|
+
+63
+
+|
+
+105
+
+|
+
+14 h à 14 h 59
+
+|
+
+15 h à 15 h 59
+
+|
+
+12
+
+|
+
+56
+
+|
+
+12
+
+|
+
+65
+
+|
+
+108
+
+|
+
+15 h à 15 h 59
+
+|
+
+16 h à 16 h 59
+
+|
+
+11
+
+|
+
+56
+
+|
+
+12
+
+|
+
+63
+
+|
+
+107
+
+|
+
+16 h à 16 h 59
+
+|
+
+17 h à 17 h 59
+
+|
+
+12
+
+|
+
+61
+
+|
+
+11,5
+
+|
+
+62
+
+|
+
+107
+
+|
+
+17 h à 17 h 59
+
+|
+
+18 h à 18 h 59
+
+|
+
+12
+
+|
+
+60
+
+|
+
+12
+
+|
+
+62
+
+|
+
+111
+
+|
+
+18 h à 18 h 59
+
+|
+
+19 h à 19 h 59
+
+|
+
+11,5
+
+|
+
+59
+
+|
+
+11,5
+
+|
+
+62
+
+|
+
+109
+
+|
+
+19 h à 19 h 59
+
+|
+
+20 h à 20 h 59
+
+|
+
+11,5
+
+|
+
+56
+
+|
+
+11,5
+
+|
+
+64
+
+|
+
+108
+
+|
+
+20 h à 20 h 59
+
+|
+
+21 h à 21 h 59
+
+|
+
+11,5
+
+|
+
+53
+
+|
+
+11,5
+
+|
+
+53
+
+|
+
+97
+
+|
+
+21 h à 21 h 59
+
+|
+
+22 h à 22 h 59
+
+|
+
+9,5
+
+|
+
+43
+
+|
+
+10
+
+|
+
+41
+
+|
+
+78
+
+|
+
+22 h à 22 h 59
+
+|
+
+23 h à 23 h 59
+
+|
+
+8
+
+|
+
+40
+
+|
+
+10
+
+|
+
+30
+
+|
+
+62
+
+|
+
+23 h à 23 h 59
+
+|
+
+Le nombre 9,5 signifie que, au cours de la tranche horaire correspondante, au plus 10 mouvements peuvent être acceptés pendant les trois premières périodes de 10 minutes, 9 mouvements pendant les trois périodes de 10 minutes suivantes, sous réserve du respect de la contrainte horaire correspondante.
+
+Le nombre 10 * signifie que, au cours de la tranche horaire correspondante, au plus 11 mouvements peuvent être acceptés sur une période de 10 minutes, 10 mouvements pendant les cinq autres périodes de 10 minutes, sous réserve du respect de la contrainte horaire correspondante.
+
+Le nombre 11,5 signifie que, au cours de la tranche horaire correspondante, au plus 12 mouvements peuvent être acceptés pendant trois périodes de 10 minutes, 11 mouvements pendant les trois autres périodes de 10 minutes, sous réserve du respect de la contrainte horaire correspondante.
+
+Le nombre 12 signifie que, au cours de la tranche horaire correspondante, au plus 13 mouvements peuvent être acceptés pendant une période de 10 minutes, 12 mouvements pendant les cinq autres périodes, sous réserve du respect de la contrainte horaire correspondante.
+
+Le nombre 12,5 signifie que, au cours de la tranche horaire correspondante, au plus 13 mouvements peuvent être acceptés deux périodes de 10 minutes, 12 mouvements pendant les quatre autres périodes, sous réserve du respect de la contrainte horaire correspondante.
+
 2. Capacité des terminaux
 
 A compter de la saison aéronautique d'été 2008 :
@@ -4221,6 +4945,74 @@ FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DEPART
 |
 
 2 G
+
+|
+
+500
+
+|
+
+3
+
+|
+
+1 000
+
+|
+
+À COMPTER DE LA SAISON AÉRONAUTIQUE D'ÉTÉ 2012
+
+TERMINAL
+
+|
+
+FLUX MAXIMAL DE PASSAGERS
+
+par heure au départ
+
+|
+
+1
+
+|
+
+1 950
+
+|
+
+2A
+
+|
+
+900
+
+|
+
+2B
+
+|
+
+1 200
+
+|
+
+2C
+
+|
+
+900
+
+|
+
+2D
+
+|
+
+1 400
+
+|
+
+2G
 
 |
 
