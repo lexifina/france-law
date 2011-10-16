@@ -1,10 +1,8 @@
 # Article Annexe
 
-FIXANT POUR LES MILITAIRES EN SERVICE AU BATAILLON DES MARINS-POMPIERS DE MARSEILLE LA LISTE DES EMPLOIS OUVRANT DROIT AU BÉNÉFICE DE LA NOUVELLE BONIFICATION INDICIAIRE
+Fixant pour les militaires en service au bataillon des marins-pompiers de Marseille la liste des emplois ouvrant droit au bénéfice de la nouvelle bonification indiciaire
 
-Fonctions relevant de la marine (tranches 1991-1992-1993-1994-1995)
-
-Désignation de la fonction
+DESIGNATION DE LA FONCTION
 
 |
 
@@ -12,7 +10,7 @@ Nombre d'emplois éligibles
 
 |
 
-Emplois
+EMPLOIS
 
 |
 
@@ -20,19 +18,11 @@ Nombre d'emplois concernés
 
 |
 
-Emploi ouvrant droit à 15 points à compter du 1er août 1991 et à 30 points à compter du 1er août 1992
+Emplois ouvrant droit à 50 points
 
 |
 
-Commandant en second, chef de groupement ou officier supérieur adjoint au commandant
-
-|
-
-1
-
-|
-
-Commandant en second
+Commandant en second, chef de groupement opérationnel, chef de groupement soutien
 
 |
 
@@ -40,11 +30,7 @@ Commandant en second
 
 |
 
-Emploi ouvrant droit à 30 points à compter du 1er août 1993 et à 0 points à compter du 1er août 1995
-
-|
-
-Commandant en second, chef de groupement ou officier supérieur adjoint au commandant
+Chef d'Etat major (commandant en second)
 
 |
 
@@ -52,7 +38,27 @@ Commandant en second, chef de groupement ou officier supérieur adjoint au comma
 
 |
 
-Chef de groupement ou officier supérieur adjoint au commandant
+Emplois ouvrant droit à 30 points
+
+|
+
+Commandant en second, chef de groupement opérationnel, chef de groupement soutien |
+
+2
+
+|
+
+Chef de groupement opérationnel |
+
+2
+
+|
+
+Emplois ouvrant droit à 25 points
+
+|
+
+Commandant en second, chef de groupement opérationnel, chef de groupement soutien
 
 |
 
@@ -60,47 +66,23 @@ Chef de groupement ou officier supérieur adjoint au commandant
 
 |
 
-Emplois ouvrant droit à 10 points à compter du 1er août 1991 et à 20 points à compter du 1er août 1992
-
-|
-
-Commandant ou assimilé d'unité opérationnelle ou de soutien
-
-|
-
-21
-
-|
-
-Commandant de caserne
-
-|
-
-8
-
-|
-
-Commandant du centre d'instruction et de sécurité
-
-|
+Chef de groupement soutien |
 
 1
 
 |
 
-Chef de poste
+Emplois ouvrant droit à 20 points
 
 |
 
-12
+Commandant ou assimilé d'unité opérationnelle ou de soutien |
+
+19
 
 |
 
-Emplois ouvrant droit à 20 points à compter du 1er août 1995
-
-|
-
-Commandant ou assimilé d'unité opérationnelle ou de soutien
+Commandant de secteur opérationnel
 
 |
 
@@ -108,205 +90,179 @@ Commandant ou assimilé d'unité opérationnelle ou de soutien
 
 |
 
-Chef de poste
-
-|
-
-2
-
-|
-
-Emplois ouvrant droit à 10 points à compter du 1er août 1991et à 20 points à compter du 1er août 1995
-
-|
-
-Officier en second ou assimilé d'unité opérationnelle ou de soutien
-
-|
-
-8
-
-|
-
-Officier en second de caserne
-
-|
-
-7
-
-|
-
-Officier en second de la section sécurité incendie et sauvetage (Marignane)
-
-|
+Commandant du centre d'entraînement des techniques d'incendie et de secours |
 
 1
 
 |
 
-Emplois ouvrant droit à 20 points à compter du 1er août 1994
+Chef de centre d'incendie et de secours |
+
+16
 
 |
 
-Officier en second ou assimilé d'unité opérationnelle ou de soutien
+Emplois ouvrant droit à 10 points
 
 |
 
-1
+Commandant ou assimilé d'unité opérationnelle ou de soutien |
+
+9
 
 |
 
-Adjoint au commandant du centre d'instruction et de sécurité
+Officier marinier chef de site
 
 |
 
-1
+9
 
 |
 
-Emplois ouvrant droit à 10 points à compter du 1er août 1992
+Emplois ouvrant droit à 20 points
 
 |
 
-Responsable technique, opérationnel ou administratif en unité opérationnelle ou de soutien
-
-|
-
-32
-
-|
-
-Chef de garde de caserne
-
-|
-
-32
-
-|
-
-Emplois ouvrant droit à 10 points à compter du 1er août 1993
-
-|
-
-Responsable technique, opérationnel ou administratif en unité opérationnelle ou de soutien
-
-|
-
-6
-
-|
-
-Adjudant de section opérationnelle
-
-|
-
-6
-
-|
-
-Emplois ouvrant droit à 10 points à compter du 1er août 1994
-
-|
-
-Responsable technique, opérationnel ou administratif en unité opérationnelle ou de soutien
-
-|
-
-48
-
-|
-
-Chef de garde de caserne
-
-|
-
-15
-
-|
-
-Officier de garde technique
-
-|
-
-8
-
-|
-
-Chef de quart réviseur
-
-|
-
-12
-
-|
-
-Pilote de bateau pompe
-
-|
-
-4
-
-|
-
-Chargé de fonctions techniques
-
-|
-
-6
-
-|
-
-Chargé de fonctions administratives
-
-|
+Officier en second ou assimilé d'unité opérationnelle ou de soutien |
 
 3
 
 |
 
-Emplois ouvrant droit à 10 points à compter du 1er août 1995
+Adjoint de groupement |
+
+3
 
 |
 
-Responsable technique, opérationnel ou administratif en unité opérationnelle ou de soutien
+Emplois ouvrant droit à 15 points
 
 |
 
-18
-
-|
-
-Responsable de fonctions opérationnelles
-
-|
+Officier en second ou assimilé d'unité opérationnelle ou de soutien |
 
 2
 
 |
 
-Responsable de fonctions techniques
+Officier en second Port de Bouc |
+
+1
 
 |
+
+|
+
+Officier en second Marignane |
+
+1
+
+|
+
+Emplois ouvrant droit à 10 points
+
+|
+
+Officier en second ou assimilé d'unité opérationnelle ou de soutien |
+
+17
+
+|
+
+Adjoint chef de centre d'incendie et de secours
+
+|
+
+16
+
+|
+
+Adjoint au Commandant du centre d'entraînement des techniques d'incendie et de secours
+
+|
+
+1
+
+|
+
+Emplois ouvrant droit à 10 points
+
+|
+
+Responsable technique, opérationnel ou administratif en unité opérationnelle ou de soutien |
+
+119
+
+|
+
+Chef de garde groupement |
+
+40
+
+|
+
+Chef de section opérationnelle
+
+|
+
+1
+
+|
+
+Chef de garde Marignane et Port de Bouc |
+
+12
+
+|
+
+Officier de garde technique |
+
+8
+
+|
+
+Chef de quart superviseur |
+
+12
+
+|
+
+Chargé de fonctions techniques |
 
 11
 
 |
 
-Responsable de fonctions administratives
+Chargé de fonctions administratives |
+
+3
 
 |
 
-5
+O3 et O4 de groupement et secteurs opérationnels |
+
+6
 
 |
 
-Emploi ouvrant droit à 20 points à compter du 1er août 1993 et à 25 points à compter du 1er août 1995
+Responsable de fonctions techniques |
+
+18
 
 |
 
-Chef de division ou assimilé
+Responsable de fonctions administratives |
+
+8
 
 |
+
+Emplois ouvrant droit à 30 points
+
+|
+
+Chef de division ou assimilé |
 
 8
 
@@ -320,125 +276,61 @@ Chef de division
 
 |
 
-Emplois ouvrant droit à 25 points à compter du 1er août 1995
+Emplois ouvrant droit à 20 points
 
 |
 
-Chef de division ou assimilé
+Adjoint au chef de division ou assimilé |
+
+8
 
 |
 
-1
+Adjoint au chef de division |
+
+8
 
 |
 
-Chef de division
+Emplois ouvrant droit à 10 points
 
 |
 
-1
+Adjoint au chef de division ou assimilé |
+
+10
 
 |
 
-Emplois ouvrant droit à 20 points à compter du 1er août 1993
-
-|
-
-Adjoint au chef de division ou assimilé
-
-|
-
-3
-
-|
-
-Adjoint au chef de division
-
-|
-
-3
-
-|
-
-Emplois ouvrant droit à 20 points à compter du 1er août 1994
-
-|
-
-Adjoint au chef de division ou assimilé
-
-|
-
-5
-
-|
-
-Adjoint au chef de division
-
-|
-
-1
-
-|
-
-Chef de bureau
-
-|
+Adjoint grands bureaux ou services |
 
 4
 
 |
 
-Emplois ouvrant droit à 20 points à compter du 1er août 1995
+Responsable budget |
+
+2
 
 |
 
-Adjoint au chef de division ou assimilé
-
-|
-
-13
-
-|
-
-Adjoint au chef de division
-
-|
-
-8
-
-|
-
-Directeur du foyer
-
-|
+Directeur du foyer |
 
 1
 
 |
 
-Officier détaché en administration centrale
-
-|
-
-1
-
-|
-
-Chef de bureau
-
-|
+Chef de bureau |
 
 3
 
 |
 
-Emplois ouvrant droit à 20 points à compter du 1er août 1993 et à 25 points à compter du 1er août 1995
+Emplois ouvrant droit à 25 points
 
 |
 
-Directeur de l'enseignement
-
-|
+Directeur de l'enseignement |
 
 1
 
@@ -448,19 +340,11 @@ Directeur de l'enseignement
 
 |
 
-1
+25
 
 |
 
-Emplois ouvrant droit à 20 points à compter du 1er août 1993
-
-|
-
-Adjoint au directeur de l'enseignement ou assimilé
-
-|
-
-1
+Emplois ouvrant droit à 10 points
 
 |
 
@@ -468,19 +352,7 @@ Adjoint au directeur de l'enseignement
 
 |
 
-1
-
-|
-
-Emplois ouvrant droit à 20 points à compter du 1er août 1994
-
-|
-
-Adjoint au directeur de l'enseignement ou assimilé
-
-|
-
-1
+2
 
 |
 
@@ -488,31 +360,11 @@ Directeur des cours
 
 |
 
-1
+2
 
 |
 
-Emplois ouvrant droit à 20 points à compter du 1er août 1995
-
-|
-
-Adjoint au directeur de l'enseignement ou assimilé
-
-|
-
-1
-
-|
-
-Officier détaché en école extérieure
-
-|
-
-1
-
-|
-
-Emplois ouvrant droit à 10 points à compter du 1er août 1994
+Emplois ouvrant droit à 10 points
 
 |
 
@@ -524,7 +376,7 @@ Responsable de la formation, de la pédagogie ou de l'encadrement en école
 
 |
 
-Chef de la cellule pédagogique
+Responsable de la pédagogie
 
 |
 
@@ -532,50 +384,36 @@ Chef de la cellule pédagogique
 
 |
 
-Chef de cours
-
 |
+
+Pilote de cours |
 
 3
 
 |
 
-Emplois ouvrant droit à 10 points à compter du 1er août 1993
+Emplois ouvrant droit à 10 points
 
 |
 
-Responsable de la discipline
+Responsable ressource humaine, discipline |
+
+6
 
 |
 
-9
+Adjoint ressources humaines groupement
 
 |
 
-Officier chef du service intérieur ou capitaine d'armes
+5
 
 |
 
-9
+Capitaine d'Armes (Ecole)
 
 |
 
-Emplois ouvrant droit à 10 points à compter du 1er août 1995
-
-|
-
-Responsable de la discipline
-
-|
-
-3
-
-|
-
-Capitaine d'armes ou capitaine d'armes délégué
-
-|
-
-3
+1
 
 |
