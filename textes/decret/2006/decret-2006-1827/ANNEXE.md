@@ -8,6 +8,8 @@ Corps des ingénieurs-économistes de la construction et corps des ingénieurs d
 
 Corps des traducteurs du ministère des affaires étrangères et du ministère de l'économie, des finances et de l'industrie.
 
+Corps interministériel des attachés d'administration de l'Etat.
+
 Ministère des affaires étrangères
 
 Corps des secrétaires des affaires étrangères.
