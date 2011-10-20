@@ -1,0 +1,5 @@
+# Article 1er
+
+Le texte de l'article 1.12 « Compte épargne-temps » est modifié comme suit :
+
+« Le compte épargne-temps permet à tout salarié d'accumuler des droits à congés rémunérés ou de se constituer une rémunération, immédiate ou différée, en contrepartie de périodes de congés ou de repos non prises ou des sommes qu'il y a affectées. A défaut d'accord collectif applicable dans l'entreprise, négocié et conclu conformément à la législation en vigueur, le compte épargne-temps est alimenté, géré et utilisé comme indiqué en annexe de la présente convention collective. »
