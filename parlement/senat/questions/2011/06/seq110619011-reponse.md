@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110619011
+
+- Question : [SEQ110619011](seq110619011.md) — Régime des ventes d'alcool en pharmacie
+
+## Réponse
+
+*Budget, JO du 2011-10-20, page 2694*
+
+L'article 27 de la directive 92/83/CEE du Conseil du 19 octobre 1992 concernant l'harmonisation des structures des droits d'accises sur l'alcool et les boissons alcooliques prévoit les conditions d'exonération de l'alcool. Cette directive a été transposée en droit français par l'ordonnance n° 2001-766 du 29 août 2001 créant l'article 302 D bis du code général des impôts (CGI). Aux termes de cet article, sont notamment exonérés des droits d'accises, l'alcool dénaturé et les alcools utilisés à des fins médicales ou pharmaceutiques dans les hôpitaux et les établissements similaires ainsi que dans les pharmacies. Dans ces conditions, l'alcool non dénaturé est exonéré des droits d'accises seulement lorsqu'il est utilisé par un pharmacien dans sa pharmacie pour servir notamment à la fabrication de préparations ou pour la désinfection du matériel et des locaux. En revanche, l'alcool non dénaturé vendu par un pharmacien aux particuliers est soumis au droit de consommation dont le montant s'élève pour l'année 2011 à 1 514,47 € par hectolitre d'alcool pur. Seul l'alcool modifié ou dénaturé peut donc être vendu en exonération de droits. Des contrôles menés dans des pharmacies par l'administration des douanes et droits indirects ont révélé que de nombreux pharmaciens méconnaissaient les conditions d'utilisation de l'alcool en exonération de droits. À la suite d'une consultation menée avec le conseil national de l'ordre des pharmaciens et les représentants professionnels, l'administration des douanes et droits indirects a élaboré et diffusé en juillet 2011 un document à l'attention des pharmaciens pour leur rappeler les principes applicables en la matière.
