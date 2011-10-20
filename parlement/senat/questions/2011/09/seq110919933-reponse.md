@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110919933
+
+- Question : [SEQ110919933](seq110919933.md) — Régime des bénéfices forfaitaires
+
+## Réponse
+
+*Agriculture, JO du 2011-10-20, page 2691*
+
+En application de la législation actuelle, les revenus professionnels pris en compte pour la détermination de l'assiette des cotisations sociales des non salariés agricoles sont constitués des revenus nets professionnels retenus pour le calcul de l'impôt sur le revenu. Les chefs d'exploitation ou d'entreprise agricole soumis au régime forfaitaire d'imposition voient donc leurs cotisations et contributions sociales calculées à partir du bénéfice agricole forfaitaire déterminé par les services fiscaux. Le régime du forfait agricole a un caractère collectif. Il est déterminé par les services fiscaux à partir de bénéfices unitaires moyens fixés, pour chaque nature de culture ou d'exploitation, dans le cadre du département ou de la région agricole. Dans la mesure où le forfait tient compte de tous les profits et de toutes les charges d'exploitation, il est ainsi censé correspondre à la réalité des revenus des exploitants qui y sont soumis. S'appliquant de plein droit aux exploitants dont la moyenne des recettes des deux années civiles précédentes n'excèdent pas 76 300 €, le forfait agricole a été conçu pour des activités à faibles revenus. Son maintien se justifie pour les exploitations dont les objectifs de développement sont limités et dont les frais de structure sont faibles. Le Gouvernement n'envisage pas de le supprimer mais il ne souhaite pas non plus en étendre le champ par un rehaussement du seuil précité, lequel n'a pas été revalorisé depuis 1960. De ce fait, le régime du forfait concerne de moins en moins d'exploitants. Selon la mutualité sociale agricole, il concernerait environ 26 % des chefs d'exploitation.
