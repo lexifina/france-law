@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110619277
+
+- Question : [SEQ110619277](seq110619277.md) — Prorogation d'un programme d'aménagement d'ensemble mis en place par une commune
+
+## Réponse
+
+*Écologie, JO du 2011-10-20, page 2695*
+
+La délibération qui crée le programme d'aménagement d'ensemble (PAE) doit déterminer le délai de réalisation des équipements publics prévus. Le conseil municipal fixe librement ce délai, normalement en fonction de l'importance à la fois du programme et des équipements eux-mêmes, mais également en fonction de l'importance du périmètre et du projet urbain. L'obligation de respecter ce délai constitue une garantie fondamentale pour les constructeurs. C'est la raison pour laquelle l'article L. 332-11 du code de l'urbanisme précise qu'au terme de ce délai, si les équipements annoncés n'ont pas été réalisés, les bénéficiaires des permis de construire peuvent demander le remboursement des sommes versées ou des prestations fournies. Dans les communes où la taxe locale d'équipement (TLE) existe, le remboursement est limité à la part excédant le montant de la taxe qui aurait dû normalement être payée (CAA Lyon 27 décembre 2001, req. n° 97LY01939, « Commune de Saint-Victor »). Une appréciation insuffisante par les services communaux des aléas économiques, techniques et financiers de l'opération entreprise ne peuvent justifier une prorogation du délai de réalisation des équipements publics (CAA Marseille 19 juin 2003, req. n° 01MA02603, « commune d'Antibes »). Les sommes en jeu étant souvent considérables, une erreur dans la programmation des équipements ou dans l'attrait du secteur pour les constructeurs peut ainsi se révéler désastreuse pour les finances communales. Seule une modification substantielle du PAE peut permettre de fixer un nouveau délai de réalisation du programme des équipements publics (art. L. 332-11 du code de l'urbanisme - CAA Versailles 5 juillet 2005, req. n° 02VE03643, « société Syle »).
