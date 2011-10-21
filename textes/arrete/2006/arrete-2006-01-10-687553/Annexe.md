@@ -12,94 +12,94 @@ Code NSF : 232 s.
 
 Résumé du référentiel d'emploi
 
-Le (la) maçon du bâti ancien intervient sur des chantiers de réhabilitation ou d'aménagement de bâtiments anciens, construits selon des techniques traditionnelles. Il (elle) réalise le gros oeuvre en maçonnerie de pierres (murs et ouvrages annexes) et intervient dans les travaux de restauration (renforcement, remplacement de pierres), d'aménagement (ouvertures, distribution) ainsi que sur les enduits traditionnels. Il (elle) peut être amené(e) à réaliser des ouvrages en béton adaptés au type de chantier sur lequel il (elle) intervient.
+Le maçon du bâti ancien intervient sur des chantiers de restauration et de rénovation ou d'aménagement de bâtiments anciens, construits en matériaux locaux (pierre taillée, moellons, galets, terre crue, briques pleines du Nord, briques foraines) selon des techniques de mise en œuvre traditionnelles.
 
-Le (la) maçon du bâti ancien travaille sous la responsabilité d'un responsable de chantier ou d'un chef d'équipe, au sein d'une petite équipe et en extérieur. Il (elle) se déplace sur les chantiers et ses horaires peuvent varier en fonction des contraintes liées à la planification de chantier, et aux délais d'exécution.
+Il réalise les travaux de gros œuvre (murs et ouvrages annexes) lors des opérations de restauration et de rénovation (renforcement, remplacement d'un élément de maçonnerie), d'aménagement (création d'ouvertures, changement de destination de locaux). Il assure l'entretien des façades extérieures en réalisant des enduits traditionnels à la chaux ou chaux et terre.
 
-Il (elle) doit avoir le souci permanent de sa propre sécurité et de celle de l'équipe dont il (elle) fait partie. Il (elle) exerce souvent en hauteur, en station debout prolongée et est amené(e) à déployer des efforts fréquents.
+Il utilise le béton armé pour le renforcement de certaines structures.
 
-Capacités attestées
+Il a le souci permanent de sa propre sécurité et de celle de l'équipe dont il fait partie.
 
-et descriptif des composantes de la certification
+Pour toutes ces raisons, il doit avoir une bonne condition physique (station debout prolongée, marche, déploiement d'efforts fréquents) et des qualités relationnelles.
 
-1. Monter des maçonneries en moellons et en pierre de taille
+Le maçon du bâti ancien tient compte dans sa pratique des règles concernant le tri des déchets de chantier, l'utilisation rationnelle des matériaux, des liants et de l'eau.
 
-Bâtir un mur en moellons.
+L'emploi s'exerce le plus souvent dans des petites et moyennes entreprises de bâtiment, dans le cadre d'une petite équipe, en extérieur comme en intérieur.
 
-Bâtir un encadrement de baie en pierre.
+Il peut être amené à exercer ses activités professionnelles sur différents types de bâtiments et selon des horaires modulables et variables (contraintes liées à la planification de chantier, aux délais d'exécution, au travail posté, etc.). Les conditions de travail sont celles d'un chantier (intempéries, poussière, bruit, etc.). Il peut travailler sur des sites éloignés occasionnant des déplacements de moyenne durée.
 
-Réaliser une ouverture dans un mur.
+Capacités attestées et descriptif
 
-Tailler et remplacer une pierre à l'identique.
+des composantes de la certification
 
-Construire un mur en pierre sèche.
+1. Exécuter des travaux de maçonnerie dans du bâti ancien
+
+Bâtir ou restaurer un mur en matériau traditionnel local.
+
+Créer des ouvertures dans des murs existants et réaliser la déconstruction de parties d'ouvrages.
+
+Remplacer un élément de maçonnerie.
+
+Réaliser un sol en dallage.
 
 Réaliser les opérations de montage et de démontage d'un échafaudage de pied.
 
-2. Réaliser des enduits au mortier de chaux et des badigeons
+2. Réaliser des enduits dans du bâti ancien
 
 Réaliser les opérations de montage et de démontage d'un échafaudage de pied.
 
-Enduire un ouvrage de maçonnerie avec un mortier de chaux.
-
-Réaliser des badigeons colorés à base de lait de chaux.
+Enduire un ouvrage de maçonnerie avec un mortier traditionnel local.
 
 Rejointoyer des maçonneries.
 
-3. Réaliser des dallages dans le bâti ancien
+3. Réaliser des ouvrages coffrés dans du bâti ancien
 
-Mettre en oeuvre un dallage en béton de chaux.
+Réaliser des coffrages en bois.
 
-Mettre en oeuvre un dallage de pierre.
+Ferrailler et couler le béton des éléments de structure simples en béton armé.
 
-Mettre en oeuvre un dallage en éléments de terre cuite.
+Mettre en œuvre un plancher poutrelles et hourdis.
 
-4. Réaliser des ouvrages simples en béton armé
+Secteurs d'activité ou types d'emploi
 
-Réaliser des fondations.
+accessibles par le détenteur du titre
 
-Réaliser des éléments de structure simples en béton armé.
+La rénovation-restauration.
 
-Mettre en oeuvre un plancher poutrelles et hourdis.
+Type d'emplois accessibles :
 
-Certificat complémentaires de spécialisation
+Maçon du bâti ancien.
 
-Transformer un bloc de pierre en élément de pierre de taille fini
+Maçon.
 
-Extraire d'un document graphique les informations permettant de caractériser un bloc capable.
-
-Débiter un bloc capable.
-
-Tracer l'épure d'un élément composé.
-
-Mettre une pierre à dimension.
-
-Tailler des moulures.
-
-Mettre en stock des éléments finis.
-
-Secteurs d'activités ou types d'emploi accessibles
-
-par le détenteur du titre
-
-Entreprises artisanales, PME entreprises du bâtiment.
+Façadiers spécialisés dans le traitement des façades du bâti ancien.
 
 Code ROME :
 
-42114 - Ouvrier/ouvrière de la maçonnerie.
+F 1703-Maçonnerie.
 
 Réglementation de l'activité :
 
-Néant.
+Décret n° 2004-924 du 1er septembre 2004 relatif à l'utilisation des équipements de travail mis à disposition pour des travaux temporaires en hauteur et modifiant le code du travail et le décret n° 65-48 du 8 janvier 1965 ;
+
+Arrêté du 21 décembre 2004 relatif aux vérifications des échafaudages et modifiant l'annexe de l'arrêté du 22 décembre 2000 relatif aux conditions et modalités d'agrément des organismes pour la vérification de conformité des équipements de travail ;
+
+Circulaire DRT 2005/08 du 27 juin 2005 relative à la mise en œuvre du décret du 1er septembre 2004 et de l'arrêté du 21 décembre 2004 ;
+
+Recommandation R 408 CNAMTS, annexes 3 et 5.
 
 Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
+Liens avec d'autres certifications :
+
+Néant.
+
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 modifié portant règlement général des sessions de validation pour l'obtention du titre professionnel du ministère chargé de l'emploi.
