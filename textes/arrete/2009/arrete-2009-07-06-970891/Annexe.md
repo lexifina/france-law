@@ -288,37 +288,11 @@ Les personnes retenues relèvent des dispositions de l'article L. 381-31 du code
 
 Elles relèvent du droit commun en matière d'allocations.
 
-Article 12
-
-Les relations avec l'extérieur
-
-La correspondance
-
-Toute personne retenue peut émettre ou recevoir des correspondances avec les personnes de son choix. Le courrier arrivé est remis à la personne retenue par le personnel après contrôle éventuel. Les correspondances échangées avec un avocat ou les autorités publiques dont la liste est fixée en annexe 1 ne peuvent être ni contrôlées ni retenues.
-
-L'accès à internet est possible, aux frais de la personne retenue, dans le respect des obligations judiciaires et sous contrôle de l'autorité judiciaire.
-
-Le téléphone
-
-Les communications téléphoniques, à l'exception de celles avec un avocat, peuvent être écoutées, enregistrées ou interrompues sur décision du directeur de l'EPSNF, sous le contrôle du vice-président chargé de l'application des peines compétent.
-
-Les communications téléphoniques, dont le coût est supporté par la personne retenue, sont assurées à partir d'une ligne personnelle installée dans le studio.
+Article 12 (1)
 
 Les droits civiques
 
 L'exercice des droits civiques ne peut recevoir d'autres restrictions que celles résultant d'une décision judiciaire.
-
-Les visites
-
-La durée et la fréquence des visites sont limitées par les exigences liées à la prise en charge de la personne retenue, à l'organisation et au fonctionnement du centre. Le nombre de personnes autorisées par visite est limité à trois. Ces visites ont lieu dans les locaux aménagés à cet effet.
-
-Le directeur de l'EPSNF délivre une autorisation de visite aux membres de la famille de la personne retenue ou à son tuteur ainsi qu'à toute autre personne s'il apparaît que ces visites contribuent à l'insertion sociale de la personne retenue et sous réserve des motifs liés au maintien de la sécurité et du bon ordre dans le centre.
-
-Les visites se déroulent chaque jour dans une plage horaire fixée de 10 heures à 15 heures.
-
-Sous certaines conditions, des séjours dans l'unité de réception familiale peuvent être mis en œuvre à la demande de la personne retenue, après accord du juge mentionné dans le préambule du présent règlement.
-
-Sur indication médicale, si la personne retenue n'est pas capable de se déplacer, la visite de ses proches peut se dérouler dans le studio.
 
 Article 13
 
@@ -653,3 +627,7 @@ Les objets suivants sont interdits au sein du centre socio-médico-judiciaire de
 ― certains appareils électriques : à déterminer en fonction de la capacité électrique du centre ;
 
 ― parfum alcoolisé.
+
+NOTA :
+
+(1) Dans sa décision n° 332707 du 21 octobre 2011, article 1, le Conseil d'Etat a annulé les dispositions de l'article 12 du règlement intérieur, en tant qu'elles concernent la correspondance, le téléphone et les visites.
