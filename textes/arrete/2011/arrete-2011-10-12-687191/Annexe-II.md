@@ -1,6 +1,8 @@
-# Article ANNEXE II
+# Article Annexe II
 
-LISTE DES MÉDICAMENTS RENFERMANT OU NON DES SUBSTANCES VÉNÉNEUSES AUTORISÉS AUX SAGES-FEMMES POUR LEUR USAGE PROFESSIONNEL OU LEUR PRESCRIPTION AUPRÈS DES NOUVEAU-NÉS
+LISTE DES CLASSES THÉRAPEUTIQUES OU DES MÉDICAMENTS AUTORISÉS AUX SAGES-FEMMES POUR LEUR USAGE PROFESSIONNEL OU LEUR PRESCRIPTION AUPRÈS DES NOUVEAU-NÉS
+
+A. - En primo-prescription :
 
 Antiseptiques locaux.
 
@@ -12,7 +14,11 @@ Antalgiques :
 
 - paracétamol par voie orale ou rectale.
 
+Antifongiques locaux.
+
 Collyres antiseptiques, antibactériens et antiviraux sans anesthésiques, sans corticoïdes et sans vasoconstricteurs.
+
+Oxygène.
 
 Vitamines et sels minéraux par voie orale :
 
@@ -24,18 +30,18 @@ Solutions pour perfusion :
 
 - solutés de glucose (de toute concentration) ;
 
-- solutés de bicarbonate isotonique à 1,4 % et semi-molaire à 4,2 % ;
-
 - soluté de chlorure de sodium isotonique à 0,9 % ;
 
 - soluté de gluconate de calcium à 10 %.
 
-Vaccin et immunoglobulines anti-hépatite B.
+Vaccins :
 
-BCG.
+- vaccin et immunoglobulines anti-hépatite B ;
 
-En cas d'urgence et en l'attente du médecin, les sages-femmes peuvent prescrire et utiliser les médicaments suivants :
+- BCG.
+
+B. - En cas d'urgence et en l'attente du médecin, les sages-femmes peuvent prescrire et utiliser les médicaments suivants :
 
 - adrénaline par voie injectable ou intratrachéale dans la réanimation du nouveau-né ;
 
-- naloxone (forme néonatale, ampoules dosées à 0,04 mg).
+- naloxone.
