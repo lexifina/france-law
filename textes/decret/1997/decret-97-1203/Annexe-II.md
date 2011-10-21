@@ -38,6 +38,26 @@ Décret n° 88-922 du 14 septembre 1988 pris pour application de la loi n° 84-1
 
 |
 
+Délivrance des certificats individuels prévus aux articles L. 254-3 et L. 254-4 du code rural et de la pêche maritime
+
+|
+
+Article R. 254-11 du code rural et de la pêche maritime |
+
+Habilitation des organismes de formation prévue à l'article L. 254-3, dont les formations et tests sont réalisés sur un territoire ne dépassant pas celui de la région
+
+|
+
+Article R. 254-14 du code rural et de la pêche maritime |
+
+Décisions de suspension et de retrait des certificats individuels prévues à l'article L. 254-9 du code rural et de la pêche maritime
+
+|
+
+Article R. 254-28 du code rural et de la pêche maritime
+
+|
+
 TITRE II
 
 DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES

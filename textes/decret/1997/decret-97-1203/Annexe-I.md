@@ -42,4 +42,14 @@ Article R.* 141-12 du code rural et de la pêche maritime.
 
 |
 
+Agrément prévu au I de l'article L. 254-1 du code rural et de la pêche maritime pour l'exercice des activités dans le domaine des produits phytopharmaceutiques listées au II de cet article
+
+|
+
+Article R. 254-15 du code rural et de la pêche maritime |
+
+Décisions de suspension et de retrait prévues à l'article L. 254-9 du code rural et de la pêche maritime, de l'agrément prévu au I de l'article L. 254-1 pour l'exercice des activités dans le domaine des produits phytopharmaceutiques listées au II de cet article |
+
+Article R. 254-27 du code rural et de la pêche maritime |
+
 Emission des titres de perception exécutoires correspondant à des créances relatives à des dossiers relevant de la compétence du niveau régional (reversement de fonds sur dépenses mandatées au niveau régional, fonds de concours, recettes des comptes spéciaux du Trésor).

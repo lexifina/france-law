@@ -344,6 +344,18 @@ R. * 255-8, R. * 255-16, R. * 255-23, R. * 255-28 et R. * 255-32 du code rural e
 
 |
 
+Reconnaissance des organismes certificateurs prévue au 2° de l'article L. 254-2 du code rural et de la pêche maritime
+
+|
+
+Article R. 254-2 du code rural et de la pêche maritime |
+
+Habilitation des organismes de formation prévue à l'article L. 254-3, dont les formations et tests sont réalisés sur un territoire dépassant celui de la région
+
+|
+
+Article R. 254-14 du code rural et de la pêche maritime |
+
 Organismes professionnels agricoles
 
 |
