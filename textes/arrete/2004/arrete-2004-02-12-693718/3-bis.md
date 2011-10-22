@@ -1,20 +1,18 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de conducteur(trice) de travaux publics route, canalisation, terrassement selon le tableau de correspondance figurant ci-dessous :
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous.
 
-ANCIEN ARRÊTÉ
+TITRE PROFESSIONNEL
 
-conducteur(trice) de travaux publics route, canalisation, terrassement
+Conducteur de travaux publics route,
 
-|
-
-NOUVEL ARRÊTÉ
-
-conducteur(trice) de travaux publics route, canalisation, terrassement
+canalisation, terrassement (arrêté du 12 février 2004, modifié par l'arrêté du 24 mars 2007)
 
 |
 
-Préparer un chantier de route, de canalisation ou de terrassement.
+TITRE PROFESSIONNEL
+
+Conducteur de travaux publics route, canalisation, terrassement (présent arrêté modificatif)
 
 |
 
@@ -22,21 +20,17 @@ Préparer un chantier de route, canalisation, terrassement.
 
 |
 
-Organiser la bonne exécution d'un chantier de route, de canalisation ou de terrassement et en assurer le suivi.
+Préparer un chantier de route, canalisation, terrassement.
 
 |
 
 Organiser la bonne exécution, suivre, réceptionner et clôturer un chantier de route, canalisation, terrassement.
 
-|
-
-Réceptionner et clôturer un chantier de route, de canalisation ou de terrassement.
+S'inscrire dans une démarche commerciale pour un projet de route, canalisation, terrassement.
 
 |
 
-|
-
-Participer à la gestion de l'entreprise de route, de canalisation ou de terrassement.
+Conduire les travaux de route, canalisation, terrassement.
 
 |
 
@@ -44,10 +38,6 @@ Contribuer à la bonne marche de l'entreprise de route, canalisation, terrasseme
 
 |
 
-S'inscrire dans une démarche commerciale pour un projet de route, de canalisation ou de terrassement
-
-|
-
-S'inscrire dans une démarche commerciale pour un projet de route, canalisation, terrassement.
+Etablir les documents relatifs à la gestion financière, humaine et matérielle d'une entreprise de route, canalisation, terrassement.
 
 |
