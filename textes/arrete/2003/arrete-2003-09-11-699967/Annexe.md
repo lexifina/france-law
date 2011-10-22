@@ -12,98 +12,102 @@ Code NSF : 231 s.
 
 Résumé du référentiel d'emploi
 
-Le canalisateur réalise la pose et l'entretien des canalisations et accessoires pour des réseaux d'eau potable, d'eaux usées, d'eaux pluviales et d'irrigation. Il pose également des fourreaux pour les réseaux d'électricité ou de télécommunication. La construction des réseaux se fait généralement en tranchées de plus ou moins grande profondeur, qui peuvent nécessiter la pose de blindages et d'étaiements afin de prévenir les risques d'éboulement. Soumis aux plans et consignes de sécurité strictes, il travaille dans une équipe de 2 à 6 personnes, sous les directives d'un chef d'équipe ou d'un chef de chantier. Il est en contact avec les riverains et usagers du réseau et intervient au voisinage d'engins de terrassement et de levage pour la mise en place d'éléments lourds. Il utilise du matériel motorisé (tronçonneuse à matériaux, etc.) et de petits engins de servitude (plaque vibrante, petit compacteur).
+Le canalisateur construit, sous la responsabilité du chef de chantier, des réseaux humides enterrés : des réseaux gravitaires (évacuation des eaux de pluie et des eaux usées) et des réseaux sous pression (eau potable).
 
-Le canalisateur exerce principalement dans les entreprises de canalisations de réseaux humides et au sein d'entreprises qui réalisent des chantiers dans leur ensemble (terrassement, assainissement, alimentation et distribution d'eau, pose de canalisations gaz, réseaux électriques, réseaux de télécommunications, réfection de chaussées).
+Il installe la signalisation temporaire et les protections collectives pour sécuriser le chantier et veille à leur maintien. Il procède au repérage et au piquetage des réseaux et ouvrages existants, il réalise l'implantation du projet et il matérialise au sol les informations pour l'ouverture des tranchées. Il dépose les éléments de voirie et découpe les couches superficielles de chaussée.
 
-L'activité s'exerce parfois en hauteur (ponts, viaducs) ou en ouvrages souterrains (égouts, galeries, tunnels) mais généralement à l'extérieur ; elle est donc soumise aux aléas climatiques (pluie, chaleur, etc.). Les horaires de travail peuvent être adaptés à un chantier particulier (délai, circulation, travaux de réparation, recherche de fuite).
+Il suit l'ouverture mécanique de la tranchée en contrôlant sa largeur, sa profondeur et sa pente. Il réalise la finition manuelle du terrassement. Il régale le lit de pose (gravier, grave, etc.). Il pose et assemble différents types de tuyaux, regards préfabriqués et accessoires. Il construit des regards béton coulés en place et réalise les fonds de regards.
 
-Les chantiers se situent en site dégagé (campagne) ou en milieu encombré (ville, zones industrielles, ...) avec la présence d'autres réseaux existants. Les déplacements sont fréquents pour des chantiers éloignés et le travail implique parfois des horaires adaptés (journée continue).
+Dans le cas d'adduction d'eau potable, il assemble les tuyaux (fonte, PVC ou PEHD). Il monte les accessoires de fontainerie et réalise les branchements particuliers. Il coffre et coule les butées béton. Il cale les reins de la conduite et enrobe les tuyaux. Il remblaie la tranchée par couches successivement compactées. Enfin, il remet en état la voirie et les trottoirs.
 
-Capacités attestées et descriptif
+Il respecte les consignes de sécurité et de protection de l'environnement. Il travaille à partir des consignes et directives du chef de chantier. Des zones de forte circulation peuvent demander un aménagement des horaires de travail.
 
-des composantes de la certification
+Le canalisateur est en relation avec ses collègues, le chef d'équipe ou le chef de chantier, les conducteurs d'engins, les contrôleurs de travaux, les personnels des sociétés réalisant les essais des réseaux et les riverains.
 
-1. Réaliser les petits travaux de voirie annexes
+L'emploi s'exerce le plus souvent en tranchée, parfois en galerie. Le canalisateur est soumis aux aléas climatiques, à la poussière et au bruit. Il utilise l'outillage manuel de terrassement et de maçonnerie ainsi que l'outillage à moteur thermique ou électrique (tronçonneuse à matériaux, carotteuse, perforateur, plaque vibrante, pilonneuse).
 
-à un chantier de pose de canalisations
+Capacités attestées et descriptif des composantes de la certification
 
-Participer à la mise en place et à la dépose de la signalisation temporaire pour des travaux de pose de canalisations.
+1. Réaliser les travaux de préparation et de réfection d'un chantier de canalisations enterrées
 
-Participer aux implantations pour des travaux de voirie.
+Installer des dispositifs de sécurité pour chantier de voirie et réseaux.
 
-Participer au repérage des réseaux existants pour des travaux de canalisations.
+Réaliser les traçages préparatoires à la pose des réseaux.
 
-Reposer des bordures ou des pavés après travaux de construction de réseaux enterrés.
+Déposer des éléments de voirie et découper les revêtements superficiels de voirie.
 
-Sceller des fontes de voirie.
+Reposer des éléments de voirie, régler et sceller les fontes de voirie et réaliser les réfections provisoires de chaussée.
 
-Réaliser les réfections provisoires de chaussées (noirs, blancs).
+2. Construire un réseau d'assainissement en travaux publics
 
-2. Participer à la construction d'un réseau
+Guider l'engin de terrassement et régler le fond de fouille d'une tranchée blindée ou non.
 
-d'assainissement en travaux publics
-
-Participer à l'implantation d'un réseau d'assainissement.
-
-Participer à la pose d'un blindage dans une tranchée.
-
-Poser (manuellement ou à l'aide d'un engin de levage) des canalisations d'assainissement d'eaux usées ou d'eaux pluviales en tranchée (blindée ou non).
-
-Poser (manuellement ou à l'aide d'un engin de levage) un regard préfabriqué sur un réseau d'assainissement d'eaux usées ou d'eaux pluviales.
+Poser en tranchée un collecteur d'assainissement d'eaux usées ou d'eaux pluviales.
 
 Réaliser les branchements particuliers, eaux usées et eaux pluviales.
 
-Réaliser les ouvrages annexes pour un chantier de pose de canalisations (regard coulé en place, cunette, avaloir, etc.).
+Réaliser les ouvrages coulés en place et maçonnés d'un chantier de canalisations.
 
-Réaliser le calage des reins de la conduite, le remblaiement et le compactage de la tranchée (blindée ou non).
+Réaliser l'enrobage de la canalisation et le remblayage de la tranchée.
 
-Participer aux essais sur un réseau d'assainissement eaux usées ou eaux pluviales.
+3. Construire un réseau d'adduction d'eau potable en travaux publics
 
-3. Participer à la construction d'un réseau d'adduction
-
-d'eau potable en travaux publics
+Guider l'engin de terrassement et régler le fond de fouille d'une tranchée blindée ou non.
 
 Construire un réseau d'adduction d'eau potable en PVC et en fonte.
 
-Construire un réseau de distribution d'eau potable en PEHD (Polyéthylène haute densité).
+Construire un réseau d'adduction d'eau potable en PEHD (polyéthylène haute densité).
 
-Poser et entretenir les appareillages et les accessoires de fontainerie, de robinetterie et de réparation sur un réseau d'adduction d'eau potable.
+Poser les appareillages et les accessoires de fontainerie, de robinetterie et de réparation sur un réseau d'adduction d'eau potable.
 
 Réaliser les différents types de branchement sur un réseau d'adduction d'eau potable enterré.
 
-Réaliser des butées béton sur un réseau d'adduction d'eau potable.
+Réaliser les ouvrages coulés en place et maçonnés d'un chantier de canalisations.
 
-Réaliser le calage des reins de la conduite, le remblaiement et le compactage de la tranchée (blindée ou non).
+Réaliser l'enrobage de la canalisation et le remblayage de la tranchée.
 
-Participer aux essais d'un réseau d'adduction d'eau potable.
+Secteurs d'activités ou types d'emplois
 
-Secteurs d'activités ou types d'emploi accessibles
+accessibles par le détenteur du titre
 
-par le détenteur du titre
+Les différents secteurs d'activités concernés sont principalement :
 
-Les entreprises du secteur travaux publics dont l'activité principale est la canalisation.
+Les entreprises du secteur TP dont l'activité principale est la canalisation ;
 
-Les entreprises de travaux publics pluridisciplinaires.
+Les entreprises générales de TP ;
 
-Les services de l'équipement.
+Les services des eaux et de l'assainissement des collectivités locales et territoriales ;
 
-Les services des eaux et d'assainissement des collectivités locales et territoriales, et les exploitants de réseaux.
+Les exploitants et concessionnaires de réseaux ;
+
+Les entreprises intervenant dans des activités connexes (stations d'épuration des eaux usées et de traitement d'eau potable, réservoirs, etc.).
+
+Les types d'emplois accessibles sont les suivants :
+
+Poseur de canalisations ou poseur en canalisation ;
+
+Canalisateur.
 
 Code ROME :
 
-42112 : Ouvrier(ère) des travaux publics.
+F1705-Pose de canalisations.
 
 Réglementation de l'activité :
 
-Certificat d'aptitude à la conduite d'engins en sécurité (CACES).
+Néant.
 
 Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
+Liens avec d'autres certifications :
+
+Néant.
+
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation.
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié portant règlement général des sessions de validation pour l'obtention du titre professionnel du ministère chargé de l'emploi.
