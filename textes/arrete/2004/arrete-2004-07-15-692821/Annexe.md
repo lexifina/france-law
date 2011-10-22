@@ -1,12 +1,10 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : menuisier(ère) d'agencement.
+Titre professionnel : menuisier d'agencement.
 
 Niveau : V.
 
@@ -14,63 +12,71 @@ Code NSF : 234 s.
 
 Résumé du référentiel d'emploi
 
-Le (la) menuisier(ère) d'agencement réalise l'ensemble des opérations liées à la fabrication et à la pose d'ouvrages d'agencement. En atelier de fabrication, il (elle) réalise le débit optimisé des matériaux, les calibrages courants et de formes, l'ensemble des usinages sur différentes machines, ainsi que le montage et la finition courante de l'ouvrage. Sur chantier de pose, il (elle) prépare et approvisionne les éléments d'ouvrages à poser, réceptionne les éventuelles fournitures extérieures, installe et positionne l'ensemble des équipements nécessaires à la protection et l'exécution du chantier, exécute l'ensemble des opérations de pose et d'adaptation, nettoie et replie le chantier.
+Le menuisier d'agencement fabrique et finit en atelier, assemble et pose sur chantier des mobiliers d'agencement et des ensembles décoratifs en bois massif, matériaux dérivés du bois et matériaux associés.
 
-Il (elle) exerce essentiellement en intérieur, sur des chantiers de bâtiment pour des travaux neufs ou de réhabilitation. Les chantiers peuvent être de type privé ou public, individuel ou collectif. Son activité peut entraîner des déplacements fréquents dans un rayon d'action plus ou moins important. Les stations de travail sont de tous types : debout, accroupie et à genoux. Ses activités nécessitent le port de charges lourdes et encombrantes à l'aide de matériels appropriés. En atelier, il (elle) exerce plutôt debout, dans un environnement parfois bruyant, exigeant le port de protections individuelles. L'utilisation de machines de plus en plus complexes nécessite de la rigueur et le respect des consignes d'utilisation et de sécurité.
+A l'atelier, le menuisier d'agencement travaille le plus souvent debout dans un environnement parfois bruyant. Il exerce son activité dans le respect des consignes de sécurité et de prévention de la santé (port de protections individuelles).
 
-Le (la) menuisier(ère) d'agencement exécute les travaux courants de sa spécialité, d'après les consignes verbales ou écrites de son supérieur hiérarchique et sous son contrôle ponctuel. Il (elle) doit être en mesure de choisir le matériel nécessaire ainsi que le mode opératoire dans l'exercice de ses activités et rendre compte du travail réalisé.
+Il effectue seul sur les machines les opérations de débit, d'usinage et d'assemblage. Il procède également à des travaux de finition par application de vernis et de peintures bicomposant.
 
-Capacités attestées et descriptif
+Le travail sur chantier oblige à des déplacements journaliers et hebdomadaires.
 
-des composantes de la certification
+Sur chantier, il monte seul, ou au sein d'une équipe, des mobiliers d'agencement (mobilier, placard, rayonnage, plan de travail...) et pose des ensembles décoratifs destinés à l'agencement d'intérieurs (plafond, cloison, parquet, menuiserie...).
 
-1. Fabriquer en atelier des éléments d'agencement
+Sur chantier, suivant la taille et les nombres d'entreprises présentes, les activités imposent le respect des règles d'hygiène, de sécurité, de protection de la santé et de l'environnement : port des EPI, respect des procédures de tri sélectif, limitations des rejets (eau, air...).
 
-en panneaux dérivés, à l'unité ou en petite série
+Capacités attestées et descriptif des composantes de la certification
 
-Fabriquer des caissons avec portes et tiroirs en panneaux mélaminés, chants plaqués minces.
+1. Fabriquer et finir des éléments d'agencement et des meubles en panneaux dérivés du bois
 
-Fabriquer des mobiliers d'agencement au système pas de 32 démontables en panneaux dérivés.
+Fabriquer sur mesure des meubles non démontables en panneaux dérivés du bois.
 
-Fabriquer sur mesures des complexes d'agencement en panneaux dérivés ou bois replaqués.
+Fabriquer aux dimensions standards des meubles démontables en panneaux dérivés du bois.
 
-Fabriquer des éléments de forme courbe en plan, revêtus de stratifiés.
+Fabriquer sur mesure un ensemble en panneaux dérivés du bois replaqué.
 
-Réaliser une mise en teinte et une finition vernie sur support en bois et panneaux dérivés.
+Fabriquer des éléments de forme courbe en panneaux dérivés du bois.
 
-2. Fabriquer en atelier des ensembles décoratifs
+Réaliser une finition sur panneaux dérivés du bois.
 
-en bois massif et matériaux dérivés
+2. Fabriquer et finir des meubles et des ensembles décoratifs à partir de bois massif
 
-Fabriquer des habillages muraux décoratifs, en bois massif et matériaux dérivés à fixer sur ossature.
+Fabriquer des habillages muraux décoratifs en bois massif, y compris ossature de pose.
 
-Fabriquer des plafonds décoratifs, en bois massif et matériaux dérivés.
+Fabriquer des plafonds décoratifs en bois massif, y compris ossature de pose.
 
-Fabriquer des façades de placard en bois massif.
+Fabriquer des éléments de meubles en bois massif.
 
-Réaliser une finition laquée sur support bois et panneaux dérivés.
+Réaliser une finition sur bois massif.
 
-3. Poser sur chantier des éléments d'agencement et des ensembles décoratifs en bois massif et panneaux dérivés préalablement fabriqués en atelier
+3. Poser des mobiliers d'agencement et des ensembles décoratifs
 
-Poser des mobiliers d'agencement en bois massif et panneaux dérivés préalablement fabriqués en atelier.
+Poser des habillages et plafonds décoratifs.
 
-Poser des habillages et plafonds décoratifs en bois massif et panneaux dérivés préalablement fabriqués en atelier.
+Poser des mobiliers d'agencement.
 
-Secteurs d'activités ou types d'emploi
+Secteurs d'activités ou types d'emplois
 
 accessibles par le détenteur du titre
 
-Les grandes, moyennes et petites entreprises de menuiserie.
+Agencement et décoration intérieure.
 
-Les sociétés d'intérim.
+Bâtiment et travaux publics (BTP).
 
-Les grandes et moyennes entreprises commerciales.
+Construction navale.
 
-Codes ROME :
+Spectacle.
 
-42222 - Monteur/monteuse plaquiste en agencements.
+Type d'emplois accessibles :
 
-47331 - Réalisateur/réalisatrice d'ouvrages en bois et matériaux associés.
+Menuisier en agencement ;
+
+Monteur en agencement ;
+
+Poseur en agencement.
+
+Code ROME :
+
+H2206-Réalisation de menuiserie bois et tonnellerie.
 
 Réglementation de l'activité :
 
@@ -80,10 +86,14 @@ Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
+Liens avec d'autres certifications :
+
+Néant.
+
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 modifié portant règlement général des sessions de validation pour l'obtention du titre professionnel du ministère chargé de l'emploi.
