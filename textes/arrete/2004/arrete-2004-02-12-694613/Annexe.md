@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel : conducteur(trice) de travaux du bâtiment.
+Titre professionnel : conducteur de travaux du bâtiment.
 
 Niveau : III.
 
@@ -12,173 +12,95 @@ Code NSF : 230 p.
 
 Résumé du référentiel d'emploi
 
-Le (la) conducteur(trice) de travaux est le responsable technique, administratif et budgétaire d'un ou de plusieurs chantiers de bâtiment, depuis sa préparation jusqu'à sa livraison.
+Le conducteur de travaux du bâtiment est le responsable technique, administratif et budgétaire d'un ou plusieurs chantiers de bâtiment, depuis leur préparation jusqu'à leur livraison.
 
-Il (elle) prévoit et organise, à partir d'un dossier technique, tant les moyens matériels qu'humains permettant l'exécution des travaux dans les meilleures conditions de délai, de sécurité, de qualité et de coût.
+Il prévoit et organise, à partir d'un dossier technique qui lui est confié, les moyens matériels et humains permettant l'exécution des travaux dans les meilleures conditions de délai, de sécurité, de qualité et de rentabilité.
 
-Il (elle) intervient dans chacune des phases de réalisation du chantier. Il (elle) participe ou élabore totalement, selon l'importance de l'entreprise dans laquelle il (elle) travaille, l'étude relative aux réponses aux appels d'offre. Dès l'obtention du marché, il (elle) prépare le chantier et définit les moyens en établissant les plannings et en choisissant les méthodes d'exécution ainsi que les matériels et les matériaux.
+Il intervient dans chacune des phases de réalisation du chantier, et parfois même en amont.
 
-Au cours de la réalisation de l'ouvrage, il (elle) encadre le personnel, assure le suivi économique des commandes, des livraisons et de la facturation. Il (elle) assure également le suivi budgétaire des travaux.
+Interlocuteur direct des différents partenaires de l'acte de construire, il est ainsi amené à jouer un rôle commercial en complément du développement de sa fonction de gestionnaire.
 
-Interlocuteur(trice) direct(e) auprès de tous les partenaires concernés par le chantier (internes ou externes à l'entreprise), il (elle) est amené(e) à jouer un rôle commercial en complément de sa fonction de gestionnaire.
+Il dispose d'une large autonomie dans l'organisation des chantiers dont il est responsable.
 
-Son activité lui demande une forte implication et une mobilité géographique pouvant être importante (en distance et en durée). Il (elle) dispose d'une large autonomie dans l'organisation du ou des chantiers dont il (elle) est responsable.
-
-L'emploi s'exerce majoritairement sur les chantiers, même si une part se déroule au bureau, à l'agence ou au siège de l'entreprise.
+L'emploi s'exerce le plus souvent sur les chantiers (le port d'équipements de protection est alors requis), même si une part se déroule au bureau, à l'agence ou au siège de l'entreprise. Il demande une forte implication avec des amplitudes horaires et une mobilité géographique pouvant être importante (en distance, en fréquence, en durée).
 
 Capacités attestées et descriptif des composantes de la certification
 
 1. Préparer un chantier de bâtiment
 
-Respecter les procédures internes à l'entreprise et le cadre légal.
+Synthétiser et compléter les éléments déterminants d'un dossier de construction d'un bâtiment.
 
-Organiser l'exploitation d'un dossier de bâtiment, en classer les documents et structurer des prises de notes.
+Vérifier la faisabilité technique des éléments constitutifs d'un dossier de construction d'un bâtiment.
 
-Organiser, planifier et ordonnancer les actions des différents intervenants sur un projet de bâtiment.
+Réaliser ou vérifier les métrés des ouvrages ou parties d'ouvrages de bâtiment.
 
-Communiquer efficacement à l'interne et à l'externe.
+Prendre les dispositions appropriées pour résoudre les problèmes liés aux caractéristiques du site d'un chantier de bâtiment.
 
-Animer et diriger une équipe.
+Optimiser les modes opératoires d'un projet de bâtiment en respectant les aspects réglementaires et environnementaux.
 
-Négocier et argumenter avec les différents intervenants d'un projet de bâtiment.
+Adapter les moyens humains et matériels aux contraintes d'un chantier de bâtiment et de l'entreprise, dans le respect des règles de sécurité, de protection de la santé et de l'environnement.
 
-Analyser un dossier de bâtiment pour en retirer les éléments déterminants.
+Ordonnancer, piloter et coordonner les actions des différents intervenants d'un chantier de bâtiment dans le respect des procédures et du cadre contractuel.
 
-S'assurer des conditions réelles d'un chantier de bâtiment en identifiant les risques et conditions spécifiques de celui-ci (terrain, accès...).
+Produire et renseigner les documents de préparation et d'organisation d'un chantier de bâtiment.
 
-Vérifier la faisabilité technique des éléments constitutifs du projet de bâtiment.
+Négocier avec les différents intervenants d'un chantier de bâtiment.
 
-Optimiser les modes opératoires d'un projet de bâtiment en respectant les aspects réglementaires.
+2. Conduire les travaux d'un chantier de bâtiment
 
-Adapter les moyens humains et matériels au chantier de bâtiment en appliquant les règles de sécurité, les règles de l'art, les réglementations d'hygiène et d'environnement en fonction des contraintes spécifiques du chantier et de l'entreprise.
+Synthétiser et compléter les éléments déterminants d'un dossier de construction d'un bâtiment.
 
-Renseigner les documents administratifs et réglementaires (plan particulier de sécurité et de protection de la santé [PPSPS], dossier d'intention de commencement des travaux [DICT]).
+Réaliser ou vérifier les métrés des ouvrages ou parties d'ouvrages de bâtiment.
 
-Créer les documents de préparation et d'organisation de la production d'un chantier de bâtiment.
+Optimiser les modes opératoires d'un projet de bâtiment en respectant les aspects réglementaires et environnementaux.
 
-Réaliser ou vérifier les métrés des ouvrages ou parties d'ouvrages de bâtiment à exécuter.
+Adapter les moyens humains et matériels aux contraintes d'un chantier de bâtiment et de l'entreprise, dans le respect des règles de sécurité, de protection de la santé et de l'environnement.
 
-Quantifier les matériaux à commander pour un ouvrage de bâtiment.
+Ordonnancer, piloter et coordonner les actions des différents intervenants d'un chantier de bâtiment dans le respect des procédures et du cadre contractuel.
 
-2. Organiser la bonne exécution d'un chantier de bâtiment et en assurer le suivi
+Négocier avec les différents intervenants d'un chantier de bâtiment.
 
-Respecter les procédures internes à l'entreprise et le cadre légal.
+Manager une équipe de maîtrise de chantier de bâtiment.
 
-Organiser l'exploitation d'un dossier de bâtiment, en classer les documents et structurer des prises de notes.
+Analyser les écarts entre prévision et réalisation d'un chantier de bâtiment, et prendre des mesures correctives.
 
-Organiser, planifier et ordonnancer les actions des différents intervenants sur un projet de bâtiment.
-
-Communiquer efficacement à l'interne et à l'externe.
-
-Animer et diriger une équipe.
-
-Négocier et argumenter avec les différents intervenants d'un projet de bâtiment.
-
-Animer ou participer à une réunion de chantier.
-
-Optimiser les modes opératoires d'un projet de bâtiment en respectant les aspects réglementaires.
-
-Adapter les moyens humains et matériels au chantier de bâtiment en appliquant les règles de sécurité, les règles de l'art, les réglementations d'hygiène et d'environnement en fonction des contraintes spécifiques du chantier et de l'entreprise.
-
-Renseigner les documents administratifs et réglementaires (plan particulier de sécurité et de protection de la santé [PPSPS], dossier d'intention de commencement des travaux [DICT]).
-
-Réaliser ou vérifier les métrés des ouvrages ou parties d'ouvrages de bâtiment à exécuter.
-
-Quantifier les matériaux à commander pour un ouvrage de bâtiment.
-
-Exploiter les rapports de chantier (pointage, avancements, bons de commande).
-
-Analyser les écarts entre prévision et réalisation.
-
-Etablir les facturations des travaux.
-
-Etablir les devis de travaux modificatifs ou supplémentaires.
+Animer une réunion de chantier de bâtiment.
 
 S'assurer de la parfaite exécution des ouvrages d'un bâtiment.
 
-3. Réceptionner et clôturer un chantier de bâtiment
+Etablir des devis de travaux de bâtiment adaptés aux besoins du client.
 
-Respecter les procédures internes à l'entreprise et le cadre légal.
+Etablir les facturations des travaux d'un bâtiment.
 
-Organiser l'exploitation d'un dossier de bâtiment, en classer les documents et structurer des prises de notes.
+3. Etablir les documents relatifs à la gestion financière, humaine et matérielle d'une entreprise de bâtiment
 
-Organiser, planifier et ordonnancer les actions des différents intervenants sur un projet de bâtiment.
+Rendre compte, justifier et argumenter les résultats de son activité.
 
-Communiquer efficacement à l'interne et à l'externe.
+Planifier et gérer sa charge de travail.
 
-Animer et diriger une équipe.
+Etablir les éléments relatifs à la gestion des moyens matériels et humains d'une entreprise de bâtiment.
 
-Animer ou participer à une réunion de chantier.
+Etablir les éléments d'actualisation des ratios et prix de revient de l'entreprise de bâtiment.
 
-Adapter les moyens humains et matériels au chantier de bâtiment en appliquant les règles de sécurité, les règles de l'art, les réglementations d'hygiène et d'environnement en fonction des contraintes spécifiques du chantier et de l'entreprise.
+Secteurs d'activités ou types d'emplois accessibles par le détenteur du titre
 
-Renseigner les documents administratifs et réglementaires (plan particulier de sécurité et de protection de la santé [PPSPS], dossier d'intention de commencement des travaux [DICT]).
+Les entreprises du bâtiment, plutôt de taille moyenne (effectif de 50-100), spécialisées majoritairement dans le gros œuvre ou entreprises générales et, à un degré moindre, dans les autres corps d'état.
 
-Réaliser ou vérifier les métrés des ouvrages ou parties d'ouvrages de bâtiment à exécuter.
+L'Etat et les collectivités territoriales.
 
-Analyser les écarts entre prévision et réalisation.
+La maîtrise d'ouvrage ou d'œuvre publique ou privée.
 
-Etablir les facturations des travaux.
+Types d'emplois accessibles :
 
-S'assurer de la parfaite exécution des ouvrages d'un bâtiment.
+Conducteur de travaux ;
 
-Collationner l'ensemble des documents nécessaires à l'archivage des dossiers.
+Coordinateur de chantier ;
 
-Faire procéder à l'ensemble des essais contractuels sur un chantier de bâtiment.
-
-4. Participer à la gestion de l'entreprise de bâtiment
-
-Respecter les procédures internes à l'entreprise et le cadre légal.
-
-Organiser l'exploitation d'un dossier de bâtiment, en classer les documents et structurer des prises de notes.
-
-Organiser, planifier et ordonnancer les actions des différents intervenants sur un projet de bâtiment.
-
-Gérer sa propre charge de travail.
-
-Communiquer efficacement à l'interne et à l'externe.
-
-Animer un entretien individuel.
-
-Adapter les moyens humains et matériels au chantier de bâtiment en appliquant les règles de sécurité, les règles de l'art, les réglementations d'hygiène et d'environnement en fonction des contraintes spécifiques du chantier et de l'entreprise.
-
-Analyser les écarts entre prévision et réalisation.
-
-Participer à la gestion des compétences du personnel.
-
-Collaborer à l'actualisation des ratios et prix de revient de l'entreprise de bâtiment.
-
-Planifier sa charge de travail.
-
-Présenter les résultats de ses activités.
-
-Participer à la gestion des moyens matériels d'une entreprise de bâtiment.
-
-5. S'inscrire dans une démarche commerciale pour un projet de bâtiment
-
-Respecter les procédures internes à l'entreprise et le cadre légal.
-
-Organiser l'exploitation d'un dossier de bâtiment, en classer les documents et structurer des prises de notes.
-
-Communiquer efficacement à l'interne et à l'externe.
-
-Négocier et argumenter avec les différents intervenants d'un projet de bâtiment.
-
-Pérenniser les relations clientèles.
-
-Finaliser un marché négocié de bâtiment.
-
-Etablir un devis de bâtiment adapté aux besoins au client.
-
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
-
-Entreprises de bâtiment tous corps d'état.
-
-Entreprises de bâtiment gros oeuvre.
+Chargé d'affaires.
 
 Code ROME :
 
-61232 - Conducteur(trice) de travaux du bâtiment et travaux publics.
+F1201-Conduite de travaux du BTP.
 
 Réglementation de l'activité :
 
@@ -188,10 +110,14 @@ Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
+Liens avec d'autres certifications :
+
+Néant.
+
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 8 décembre 2008 modifié portant règlement général des sessions de validation pour l'obtention du titre professionnel du ministère chargé de l'emploi.
