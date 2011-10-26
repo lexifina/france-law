@@ -1152,6 +1152,8 @@ QCM) ;
 
 - un cas clinique.
 
+Et une épreuve de MSP avec prise en charge d'une personne.
+
 |
 
 Durée : 2 heures.
@@ -1166,20 +1168,6 @@ Sur 20 points :
 
 - cas clinique sur 12 points.
 
-|
-
-Obtenir une note égale ou supérieure à 20 sur 40 à l'ensemble des deux épreuves sans note inférieure à 8 sur 20 à l'une d'entre elles.
-
-|
-
-|
-
-Et une épreuve de MSP avec prise en charge d'une personne.
-
-|
-
-|
-
 Sur 20 points :
 
 - participation D D S sur 8 points ;
@@ -1187,6 +1175,8 @@ Sur 20 points :
 - réalisation du ou des soins sur 12 points.
 
 |
+
+Obtenir une note égale ou supérieure à 20 sur 40 à l'ensemble des deux épreuves sans note inférieure à 8 sur 20 à l'une d'entre elles.
 
 |
 
