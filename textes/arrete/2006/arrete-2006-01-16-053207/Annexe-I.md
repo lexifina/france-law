@@ -1,4 +1,4 @@
-# Article Annexe
+# Article Annexe I
 
 RÉFÉRENTIEL DE FORMATION DU DIPLÔME PROFESSIONNEL
 
@@ -1422,21 +1422,13 @@ Le candidat prend soin d'un enfant ou d'un groupe d'enfants dans la réalisation
 
 Le module 1 et le module 3 font l'objet d'une MSP.
 
-L'une des deux MSP se situe en fin de formation et est organisée sous le contrôle de la DDASS. Pour cette mise en situation professionnelle, la seconde, le représentant de la formation est extérieur à l'institut de formation dont dépend l'élève auxiliaire de puériculture.
+L'une des deux MSP se situe en fin de formation.
 
 Les MSP se déroulent dans des structures où le candidat est en stage depuis au moins cinq jours.
 
 La durée d'une mise en situation professionnelle est de 1 heure 30 au maximum.
 
-Les examinateurs de la première mise en situation professionnelle sont au nombre de deux personnes :
-
-Une puéricultrice, enseignante permanente dans un institut de formation d' auxiliaires de puériculture ou institut de formation de puéricultrices ou d' IFSI et en priorité, une auxiliaire de puériculture, ou une puéricultrice ou une infirmière ou une sage-femme ou un éducateur de jeunes enfants ou un cadre de santé.
-
-Les examinateurs de la seconde mise en situation professionnelle sont au nombre de trois personnes :
-
-Une puéricultrice, enseignante permanente dans un institut de formation d'auxiliaires de puériculture ou dans un institut de formation de puéricultrices ou dans un institut de formation en soins infirmiers et une auxiliaire de puériculture et une puéricultrice, ou une infirmière ou une sage-femme ou un éducateur de jeunes enfants ou un cadre de santé.
-
-Les deux derniers membres doivent justifier d'une expérience professionnelle d'au moins trois ans et exercer au sein de la structure dans laquelle se déroule la mise en situation professionnelle.
+Le nombre d'examinateurs des mises en situation professionnelle des modules 1 et 3 est de deux : une puéricultrice, formatrice permanente dans un institut de formation d'auxiliaires de puériculture ou dans un institut de formation de puéricultrices ou dans un institut de formation en soins infirmiers et une auxiliaire de puériculture ou une puéricultrice ou une infirmière ou une sage-femme ou un cadre de santé ou un éducateur de jeunes enfants ou un éducateur spécialisé ou un cadre de santé. Ce dernier membre doit justifier d'une expérience professionnelle d'au moins deux ans et exercer au sein de la structure dans laquelle se déroule la mise en situation professionnelle.
 
 Chaque mise en situation professionnelle se décompose en deux parties :
 
@@ -1646,9 +1638,7 @@ Obtenir une note égale ou supérieure à 10 sur 20.
 
 |
 
-Une épreuve écrite ou orale :
-
-- un cas concret de transmission d'informations à réaliser à partir de la présentation de cas cliniques.
+Une épreuve écrite ou orale en institut ou en structure de soins : un cas concret de transmission d'informations à réaliser à partir de la présentation de cas cliniques.
 
 |
 
