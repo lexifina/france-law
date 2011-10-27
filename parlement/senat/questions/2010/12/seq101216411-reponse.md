@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216411
+
+- Question : [SEQ101216411](seq101216411.md) — Maladies rares
+
+## Réponse
+
+*Santé, JO du 2011-10-27, page 2766*
+
+Conformément à l'annonce du Président de la République le 10 octobre 2008, le deuxième plan maladies rares a été préparé dans un cadre interministériel, avec outre le ministère chargé de la santé, le ministère du travail, des relations sociales, de la famille, de la solidarité et de la ville pour les aspects médicosociaux, le ministère de l'enseignement supérieur et de la recherche et le ministère de l'industrie. Il a été élaboré en concertation avec l'ensemble des parties prenantes : professionnels de santé, chercheurs, associations de patients, industrie pharmaceutique, assurance maladie, haute autorité de santé. Ce deuxième plan maladies rares 2011-2014 a été rendu public le 28 février 2011. Il apporte des moyens supplémentaires aux points forts du premier plan autour de trois axes : amélioration de la qualité de la prise en charge des patients, développement de la recherche et amplification des coopérations européenne et internationale. Il s'attachera notamment à faire progresser le recueil des données épidémiologiques relatives aux maladies rares, telle que l'hypophosphatasie, en s'appuyant sur une banque nationale de données, à développer les liens des acteurs publics, industriels et associatifs pour définir des axes stratégiques communs au sein d'une structure de concertation partagée. Enfin, en raison du nombre limité de malades pour chacune des maladies rares et de la rareté de l'expertise elle-même, la France a toujours plaidé pour une approche européenne de cette thématique. Ce deuxième plan s'attachera ainsi à amplifier cette coopération afin de partager l'expertise, les expériences et les ressources disponibles sur les maladies rares.
