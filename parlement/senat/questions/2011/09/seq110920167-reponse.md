@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110920167
+
+- Question : [SEQ110920167](seq110920167.md) — Avenir du programme européen d'aide aux plus démunis
+
+## Réponse
+
+*Agriculture, JO du 2011-10-27, page 2751*
+
+La Commission a soumis au Parlement européen et au conseil des ministres un projet de règlement permettant de pérenniser le PEAD. Les députés européens ont largement approuvé cette proposition dès juillet dernier. De son côté, la France a rallié à cette proposition une majorité de vingt-et-un états membres. Elle s'est cependant heurtée, lors du conseil des ministres de l'agriculture et de la pêche du 20 septembre, à l'opposition de six États membres (Allemagne, Royaume-Uni, Suède, Danemark, Pays-Bas, République tchèque), constituant une minorité de blocage. La France a toutefois obtenu qu'aucune décision négative ne soit prise à ce stade. Elle a rappelé avec force son opposition à toute rupture de ce programme et son attachement au maintien d'une politique européenne en faveur des plus démunis et d'un financement garanti. Par ailleurs, il a été proposé au Conseil de trouver, lors de sa prochaine réunion prévue le 20 octobre prochain, une solution transitoire pour les années 2012 et 2013. Enfin, il a été demandé à la Commission de faire une proposition, dans le cadre du cadre financier pluriannuel 2014-2020, concernant la création d'un fonds spécifique d'aide alimentaire, afin de permettre de pérenniser l'action du PEAD au-delà de 2013. En étroite concertation avec les associations caritatives, à nouveau reçues le 21 septembre 2011, la France poursuivra avec détermination les consultations diplomatiques, notamment avec l'Allemagne, pour assurer l'avenir du programme d'aide alimentaire aux plus démunis. Comme l'a rappelé le Président de la République le 20 septembre dernier, la détermination de la France est entière.
