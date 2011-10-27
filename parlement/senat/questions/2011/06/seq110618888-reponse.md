@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110618888
+
+- Question : [SEQ110618888](seq110618888.md) — Déplacement des équipes ultramarines en métropole
+
+## Réponse
+
+*Sports, JO du 2011-10-27, page 2769*
+
+Le ministère des sports mesure pleinement l'intérêt que l'on doit porter aux sportifs ultramarins, qui occupent une place importante dans le monde sportif français. Lors de la définition des parcours de l'excellence sportive de chaque fédération, la direction des sports a abordé avec chacune d'elles la prise en compte des sportifs ultramarins dans leur stratégie de haut niveau. Mais le choix sur la prise en charge des différents financements est de la seule compétence des fédérations sportives. Ainsi la Fédération française de handball (FFHB) n'a pas estimé devoir mettre en place un dispositif particulier pour le financement des déplacements d'équipes ultramarines en métropole. Cette fédération est toutefois fortement sensibilisée aux potentialités ultramarines. L'un de ses objectifs est de développer une politique forte en outre-mer, objectif auquel elle alloue 195 000 € (dont 64 000 € de subvention du programme sport). Elle prend également en charge la formation des jeunes sportifs ultramarins sélectionnés pour qu'ils intègrent le parcours d'excellence ainsi que la formation des cadres sur place. De plus, 15 000 € sont mobilisés par la fédération pour la finale senior des DOM-TOM, et des arbitres sont envoyés sur place pour cette finale. Des aides aux déplacements peuvent être demandées par les clubs sportifs à la direction de la jeunesse, des sports et de la cohésion sociale (DJSCS), dans le cadre de la part territoriale du Centre national pour le développement du sport (CNDS) ou sur le fonds d'échanges à but éducatif, culturel ou sportif (FEBECS) financé par le ministère de l'outre-mer.
