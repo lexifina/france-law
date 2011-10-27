@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101115887
+
+- Question : [SEQ101115887](seq101115887.md) — Intégration des instituteurs dans le corps des professeurs des écoles
+
+## Réponse
+
+*Éducation, JO du 2011-10-27, page 2758*
+
+L'intégration dans le corps des professeurs des écoles, par voie de listes d'aptitude et de premiers concours internes, des 320 000 instituteurs en activité en 1990 devait initialement s'achever en 2011. À la suite du relevé de conclusions pour l'enseignement primaire du 10 juillet 1998, le processus d'intégration a été accéléré pour être porté à un total de 20 735 intégrations annuelles. L'extinction du corps des instituteurs devait s'effectuer progressivement jusqu'en 2007. Cependant, cet objectif ne pouvait être atteint qu'avec la volonté des instituteurs de rejoindre le corps des professeurs des écoles. Or, on constate qu'ils ne candidatent pas en nombre suffisant sur les listes d'aptitude et aux premiers concours internes d'accès à ce corps. Chaque année, on observe un rendement nettement inférieur au nombre de postes offerts. Ainsi, à titre d'exemple, à la rentrée 2010, 1 766 instituteurs ont été intégrés dans le corps des professeurs des écoles par listes d'aptitude pour 2 500 possibilités proposées, et 303 par premiers concours internes pour 450 possibilités, soit un taux de rendement de 69 % pour les deux voies d'intégration. De ce fait, le nombre d'instituteurs s'élève encore à plus de 8 000, toutes positions statutaires confondues, ce qui ne permet pas d'envisager l'extinction définitive du corps à très court terme. Cette situation rend réglementairement impossible toute assimilation entre les pensions des instituteurs et celles des professeurs des écoles. En effet, conformément à l'article 66 de la loi du 21 août 2003 portant réforme des retraites, une telle procédure ne peut intervenir avant la suppression du corps des instituteurs par l'intégration ou le départ à la retraite de la totalité des instituteurs.
