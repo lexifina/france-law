@@ -1,6 +1,6 @@
 # Article Annexe " Romanée " ...
 
-CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES ROMANÉE-SAINT-VIVANT , ROMANÉE-CONTI , LA ROMANÉE , LA TÂCHE , RICHEBOURG , LA GRANDE RUE , ECHEZEAUX , GRANDS-ECHEZEAUX
+CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES RICHEBOURG , LA GRANDE RUE
 
 Chapitre Ier
 
@@ -8,11 +8,9 @@ I. - Nom de l'appellation
 
 Seuls peuvent prétendre aux appellations d'origine contrôlées :
 
-- Romanée-Saint-Vivant , Romanée-Conti , La Romanée , La Tâche et Richebourg , initialement reconnues par le décret du 11 septembre 1936 ;
+- Richebourg , initialement reconnues par le décret du 11 septembre 1936 ;
 
 - La Grande Rue , initialement reconnue par le décret du 2 juillet 1992 ;
-
-- Echezeaux et Grands-Echezeaux , initialement reconnues par le décret du 31 juillet 1937,
 
 les vins répondant aux dispositions particulières fixées ci-après.
 
@@ -22,21 +20,19 @@ Pas de dispositions complémentaires.
 
 III. - Couleur et types de produit
 
-Les appellations d'origine contrôlées Romanée-Saint-Vivant , Romanée-Conti , La Romanée , La Tâche , Richebourg , La Grande Rue , Echezeaux , Grands-Echezeaux sont réservées aux vins tranquilles rouges.
+Les appellations d'origine contrôlées Richebourg , La Grande Rue, sont réservées aux vins tranquilles rouges.
 
 IV. - Aires et zones dans lesquelles différentes opérations sont réalisées
 
 1° Aire géographique :
 
-Pour les appellations Romanée-Saint-Vivant , Romanée-Conti , La Romanée , La Tâche , Richebourg et La Grande Rue , la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire de la commune de Vosne-Romanée dans le département de la Côte-d'Or.
-
-Pour les appellations Echezeaux et Grands-Echezeaux , la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire des communes de Flagey-Echezeaux et de Vosne-Romanée dans le département de la Côte-d'Or.
+Pour les appellations Richebourg et La Grande Rue , la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire de la commune de Vosne-Romanée dans le département de la Côte-d'Or.
 
 2° Aire parcellaire délimitée :
 
 Les vins sont issus exclusivement des vignes situées dans l'aire parcellaire de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors des séances du comité national compétent :
 
-- des 1er et 2 juin 1988 pour les appellations Romanée-Saint-Vivant , Romanée-Conti , La Romanée , La Tâche , Richebourg , Echezeaux , Grands-Echezeaux ;
+- du 2 juin 1988 pour l'appellation Richebourg ;
 
 - des 8 et 9 novembre 1990 pour l'appellation La Grande Rue .
 
@@ -294,7 +290,7 @@ XII. - Règles de présentation et étiquetage
 
 1° Dispositions générales :
 
-Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : Romanée-Saint-Vivant , Romanée-Conti , La Romanée , La Tâche , Richebourg , La Grande Rue , Echezeaux , Grands-Echezeaux , qui sont présentés sous l'une desdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée , le tout en caractères très apparents.
+Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : La Tâche , Richebourg , La Grande Rue , qui sont présentés sous l'une desdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée , le tout en caractères très apparents.
 
 2° Dispositions particulières :
 
