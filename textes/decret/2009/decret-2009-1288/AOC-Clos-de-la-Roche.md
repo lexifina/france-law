@@ -1,6 +1,6 @@
 # Article AOC " Clos de la Roche.. "
 
-CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES CLOS DE LA ROCHE, BONNES-MARES, CLOS DES LAMBRAYS, CLOS DE TART
+CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES CLOS DE LA ROCHE, BONNES-MARES, CLOS DE TART
 
 Chapitre Ier
 
@@ -10,9 +10,7 @@ Seuls peuvent prétendre aux appellations d'origine contrôlées :
 
 Clos de la Roche, Bonnes-Mares initialement reconnues par le décret du 8 décembre 1936 ;
 
-Clos des Lambrays, initialement reconnue par le décret du 27 avril 1981, et
-
-Clos de Tart ; initialement reconnue par le décret du 4 janvier 1939,
+et Clos de Tart ; initialement reconnue par le décret du 4 janvier 1939,
 
 les vins répondant aux dispositions particulières fixées ci-après.
 
@@ -22,13 +20,13 @@ Pas de dispositions complémentaires.
 
 III.-Couleur et types de produit
 
-Les appellations d'origine contrôlées Clos de la Roche, Bonnes-Mares, Clos des Lambrays et Clos de Tart sont réservées aux vins tranquilles rouges.
+Les appellations d'origine contrôlées Clos de la Roche, Bonnes-Mares et Clos de Tart sont réservées aux vins tranquilles rouges.
 
 IV.-Aires et zones dans lesquelles différentes opérations sont réalisées
 
 1° Aire géographique :
 
-Pour les appellations Clos de la Roche, Clos des Lambrays et Clos de Tart, la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire de la commune de Morey-Saint-Denis, dans le département de la Côte-d'Or.
+Pour les appellations Clos de la Roche et Clos de Tart, la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire de la commune de Morey-Saint-Denis, dans le département de la Côte-d'Or.
 
 Pour l'appellation Bonnes-Mares, la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire des communes suivantes du département de la Côte-d'Or : Chambolle-Musigny et Morey-Saint-Denis.
 
@@ -38,9 +36,7 @@ Les vins sont issus exclusivement des vignes situées dans l'aire parcellaire de
 
 -du 24 juillet 1965, pour les appellations Clos de la Roche, et Clos de Tart ;
 
--du 24 juillet 1965 et des 1er et 2 juin 1988, pour l'appellation Bonnes-Mares ;
-
--des 4 et 5 juin 1980, pour l'appellation Clos des Lambrays.
+-du 24 juillet 1965 et des 1er et 2 juin 1988, pour l'appellation Bonnes-Mares.
 
 L'Institut national de l'origine et de la qualité dépose auprès des mairies des communes mentionnées au 1° les documents graphiques établissant les limites parcellaires de l'aire de production ainsi approuvées.
 
@@ -296,7 +292,7 @@ XII.-Règles de présentation et étiquetage
 
 1° Dispositions générales :
 
-Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : Clos de la Roche, Clos des Lambrays, Clos de Tart, Bonnes-Mares qui sont présentés sous l'une desdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée, le tout en caractères très apparents.
+Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : Clos de la Roche,Clos de Tart, Bonnes-Mares qui sont présentés sous l'une desdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée, le tout en caractères très apparents.
 
 2° Dispositions particulières :
 
