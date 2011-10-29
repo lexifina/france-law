@@ -724,6 +724,16 @@ Ecole pratique des hautes études
 
 |
 
+Ecole des hautes études en sciences sociales
+
+|
+
+1
+
+|
+
+|
+
 Muséum national d'histoire naturelle
 
 |

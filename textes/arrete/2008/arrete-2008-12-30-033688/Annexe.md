@@ -84,7 +84,7 @@ Caen |
 
 Rectorat |
 
-1
+2
 
 |
 
@@ -468,6 +468,6 @@ Inspection académique du Val-d'Oise
 
 Administration centrale |
 
-3
+2
 
 |
