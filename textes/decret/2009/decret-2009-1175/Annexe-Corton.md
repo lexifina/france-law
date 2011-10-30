@@ -1,20 +1,18 @@
-# Article Annexe " Corton "
+# Article Annexe " Charlemagne "
 
-CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES CORTON, CHARLEMAGNE
+CAHIER DES CHARGES DE L'APPELLATION D'ORIGINE CONTRÔLÉE CHARLEMAGNE
 
 Chapitre Ier
 
 I. ― Nom de l'appellation
 
-Seuls peuvent prétendre aux appellations d'origine contrôlées Corton et Charlemagne , initialement reconnues par le décret du 31 juillet 1937, les vins répondant aux dispositions particulières fixées ci-après.
+Seuls peuvent prétendre à l'appellation d'origine contrôlée Charlemagne, initialement reconnue par le décret du 31 juillet 1937, les vins répondant aux dispositions particulières fixées ci-après.
 
 II. ― Dénominations géographiques et mentions complémentaires
 
 Le nom de l'appellation Corton peut être complété d'un nom de climat d'origine pour les vins rouges répondant aux conditions de production fixées pour ces mentions dans le présent cahier des charges.
 
 III. ― Couleur et types de produit
-
-L'appellation d'origine contrôlée Corton est réservée aux vins tranquilles blancs ou rouges.
 
 L'appellation d'origine contrôlée Charlemagne est réservée aux vins tranquilles blancs.
 
