@@ -1,8 +1,164 @@
 # Article Annexe
 
-Vous pouvez consulter le tableau dans le JO
+Annexe
 
-n° 55 du 06/03/2011 texte numéro 23
+Épreuve orale d'admission n°2
+
+Modèle de dossier de présentation sous forme de fiche
+
+CONCOURS POUR L'EMPLOI
+
+.................................
+
+ANNEE : - - - -
+
+FICHE DE PRESENTATION
+
+Cadre à remplir par le candidat
+
+Nom :
+
+Nom marital :
+
+Prénoms :
+
+Direction d'affectation :
+
+EMPLOIS OCCUPES
+
+|
+
+Grade
+
+|
+
+Résidence et service
+
+|
+
+Fonctions exercées (Énumération sommaire)
+
+|
+
+Périodes
+
+|
+
+I. EMPLOI ACTUEL
+
+|
+
+..........................................
+
+..........................................
+
+..........................................
+
+..........................................
+
+..........................................
+
+..........................................
+
+|
+
+....................................................
+
+....................................................
+
+....................................................
+
+....................................................
+
+....................................................
+
+....................................................
+
+|
+
+..........................................................................
+
+..........................................................................
+
+..........................................................................
+
+..........................................................................
+
+..........................................................................
+
+..........................................................................
+
+|
+
+...........................
+
+...........................
+
+...........................
+
+...........................
+
+|
+
+II. EMPLOIS ANTERIEUREMENT OCCUPES
+
+|
+
+..........................................
+
+..........................................
+
+..........................................
+
+..........................................
+
+..........................................
+
+..........................................
+
+|
+
+....................................................
+
+....................................................
+
+....................................................
+
+....................................................
+
+....................................................
+
+....................................................
+
+|
+
+..........................................................................
+
+..........................................................................
+
+..........................................................................
+
+..........................................................................
+
+..........................................................................
+
+..........................................................................
+
+|
+
+...........................
+
+...........................
+
+...........................
+
+...........................
+
+|
+
+A....................................................................., le.............................................
+
+Signature :
 
 PROGRAMME DES OPTIONS DE L'ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
 
@@ -248,11 +404,11 @@ VII. ― Régime des plus-values immobilières des particuliers
 
 VIII. ― L'impôt de solidarité sur la fortune
 
-IX. ― Le contrôle des DFE : contrôle corrélé revenus/patrimoine (IR-ISF) :
+IX. ― Le contrôle des DFE : contrôle corrélé revenus/ patrimoine (IR-ISF) :
 
 méthodologie et balance de cohérence
 
-.X. ― Organisation des services relevant de la fiscalité immobilière
+. X. ― Organisation des services relevant de la fiscalité immobilière
 
 XI. ― Procédures de contrôle sur pièces et de contentieux en matière de fiscalité patrimoniale
 
@@ -508,7 +664,7 @@ Le déroulement de carrière :
 
 Règles déontologiques :
 
-Les organismes de gestion et de dialogue social de la fonction publique : Conseil supérieur de la fonction publique, commissions administratives paritaires et comités techniques, comités d'hygiène et de sécurité.
+Les organismes de gestion et de dialogue social de la fonction publique : Conseil supérieur de la fonction publique, commissions administratives paritaires et comités techniques, comités d'hygiène, de sécurité et des conditions de travail.
 
 Le droit syndical et ses conditions d'exercice.
 
@@ -538,7 +694,7 @@ L'action sociale : organisation et missions des relais locaux des services socia
 
 C. ― Le recrutement et la formation professionnelle
 
-Organisation et gestion des recrutements et concours : recrutements spécifiques (auxiliaires, contractuels, PACTE ...). Gestion logistique des épreuves de concours.
+Organisation et gestion des recrutements et concours : recrutements spécifiques (auxiliaires, contractuels, PACTE...). Gestion logistique des épreuves de concours.
 
 Objectifs, organisation et gestion administrative de la formation professionnelle.
 
