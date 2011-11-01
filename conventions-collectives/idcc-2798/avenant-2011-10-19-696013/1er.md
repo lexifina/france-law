@@ -1,0 +1,67 @@
+# Article 1er
+
+L'annexe VII de la convention collective des employés et cadres du régime social des indépendants du 20 mars 2008est remplacée par les dispositions suivantes :
+
+« ANNEXE VII
+
+Indemnité de transport
+
+L'indemnité de transport visée à l'article 45 est attribuée dans les conditions suivantes.
+
+Article 1er
+
+Salariés utilisant des transports publics de personnes ou services publics de location de vélos
+
+Cette indemnité est versée sur production du justificatif de l'abonnement au transport utilisé, et calculée sur la base de la moitié du titre d'abonnement en seconde classe, correspondant au trajet en cause.
+
+A défaut de production de justificatif, l'indemnité est forfaitairement fixée à 4 € par mois.
+
+Article 2
+
+Salariés dont le lieu de travail se situe dans un département d'outre-mer
+
+Le salarié bénéficie d'une indemnisation forfaitairement fixée sur la base suivante :
+
+(En euros.)
+
+Distance aller-retour
+
+domicile/ lieu habituel de travail |
+
+Montant mensuel |
+
+De 1 à 10 km |
+
+20 |
+
+Plus de 10 à 40 km |
+
+30 |
+
+Plus de 40 km |
+
+60 |
+
+Les montants ci-dessus suivent l'évolution de la valeur du point de salaire des employés et cadres.
+
+Cette indemnité mensuelle est versée dans le cadre des dispositions de l'article L. 3261-3 du code du travail afin d'indemniser les frais inhérents aux trajets aller-retour effectués entre le domicile et le lieu habituel de travail.
+
+Le bénéfice de cet avantage est exclusif de l'indemnité visée à l'article 1er de la présente annexe.
+
+Article 3
+
+Salariés dont le domicile ou le lieu de travail se situe hors de la région Ile-de-France et hors d'un département d'outre-mer
+
+Dans le cadre des dispositions de l'article L. 3261-3 du code du travail, le salarié peut bénéficier de la prise en charge d'une partie de ses frais de carburant exposés pour ses déplacements entre sa résidence habituelle et son lieu de travail, dans les trois cas suivants :
+
+1. Si sa résidence habituelle, ou son lieu de travail est situé en dehors d'un périmètre de transport urbain.
+
+2. Si l'utilisation de son véhicule personnel est rendue indispensable du fait d'une inadaptation des transports en commun existants pour l'un des motifs suivants :
+
+– la fréquence de passage des transports en commun compatibles avec l'horaire du salarié, compte tenu le cas échéant du système d'horaire individualisé en vigueur, est inférieure à 2 le matin et 2 le soir ;
+
+– un handicap ou un état de santé durable, médicalement attesté, du salarié.
+
+3. S'il participe à la mise en œuvre d'un covoiturage avec un salarié visé aux points 1 et 2 ci-dessus, ce covoiturage devant durer au minimum 5 mois au cours de l'année.
+
+Dans tous les cas, cette prise en charge est réalisée sur production de justificatifs et son montant est limité à 200 € par an. »
