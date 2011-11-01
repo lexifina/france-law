@@ -4,7 +4,7 @@ TITRE 1er
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES, PRISES AU TITRE DU CODE DE L'ENVIRONNEMENT, PAR LE MINISTRE CHARGÉ DE L'ENVIRONNEMENT SEUL OU CONJOINTEMENT AVEC UN OU PLUSIEURS MINISTRES
 
-I. - Décisions administratives individuelles prises par le ministre chargé de l'environnement conjointement avec un ou plusieurs ministres :
+I.-Décisions administratives individuelles prises par le ministre chargé de l'environnement conjointement avec un ou plusieurs ministres :
 
 Livre II
 
@@ -190,7 +190,7 @@ Article R. 521-60
 
 |
 
-II. - Décisions administratives individuelles prises par le ministre chargé de l'environnement :
+II.-Décisions administratives individuelles prises par le ministre chargé de l'environnement :
 
 Livre Ier
 
@@ -594,7 +594,7 @@ Article R. 522-27
 
 |
 
-Refus de la reconnaissance mutuelle des autorisations accordées pour les types de produit 15, 17 et 23 mentionnés au tableau annexé à l'article R. 522-9.
+Refus de la reconnaissance mutuelle des autorisations accordées pour les types de produit 15,17 et 23 mentionnés au tableau annexé à l'article R. 522-9.
 
 |
 
@@ -634,7 +634,7 @@ Article R. 522-42
 
 |
 
-Toutes décisions relatives à l'évaluation et au contrôle des risques présentés par les substances existantes (produits chimiques et biocides) conformément aux articles 9, 10, 12, 13 et 16 du règlement n° 793/93/CEE du 23 mars 1993.
+Toutes décisions relatives à l'évaluation et au contrôle des risques présentés par les substances existantes (produits chimiques et biocides) conformément aux articles 9,10,12,13 et 16 du règlement n° 793/93/ CEE du 23 mars 1993.
 
 |
 
@@ -644,7 +644,7 @@ Article R. 523-1
 
 |
 
-Toutes décisions relatives à l'exportation et à l'importation de certains produits chimiques dangereux conformément aux articles 3, 4 et 5 du règlement n° 304/2003/CE.
+Toutes décisions relatives à l'exportation et à l'importation de certains produits chimiques dangereux conformément aux articles 3,4 et 5 du règlement n° 304/2003/ CE.
 
 |
 
@@ -654,7 +654,7 @@ Article R. 523-2
 
 |
 
-Toutes décisions relatives à la production, l'importation, l'exportation, l'offre, l'utilisation et la récupération de substances qui appauvrissent la couche d'ozone conformément aux articles 3, 4 et 6 du règlement 2037/2000/CEE du 29 juin 2000.
+Toutes décisions relatives à la production, l'importation, l'exportation, l'offre, l'utilisation et la récupération de substances qui appauvrissent la couche d'ozone conformément aux articles 3,4 et 6 du règlement 2037/2000/ CEE du 29 juin 2000.
 
 |
 
@@ -712,7 +712,7 @@ Article R. 541-23
 
 |
 
-I. - Loi du 2 mai 1930 modifiée réorganisant la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque :
+I.-Loi du 2 mai 1930 modifiée réorganisant la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque :
 
 TITRE II
 
@@ -728,7 +728,7 @@ Articles 17 et 20 de la loi du 2 mai 1930, abrogés par l'article 72 de la loi n
 
 |
 
-II. - Code de l'urbanisme :
+II.-Code de l'urbanisme :
 
 Dérogations à l'interdiction du camping et du stationnement des caravanes dans un site classé ou naturel.
 
@@ -738,7 +738,7 @@ Article R. 443-9 (2°)
 
 |
 
-III. - Code de la défense :
+III.-Code de la défense :
 
 Autorisations d'importation et d'exportation de matières nucléaires, suspension ou retrait de ces mesures.
 
@@ -747,3 +747,7 @@ Autorisations d'importation et d'exportation de matières nucléaires, suspensio
 Articles L. 1333-2, L. 1333-3, R. 1333-3 et R. 1333-6
 
 |
+
+IV.-Code de la santé publique :
+
+Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8.

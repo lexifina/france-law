@@ -140,6 +140,20 @@ Décisions d'approbation ou de refus d'approbation de la convention constitutive
 
 |
 
+Code de la santé publique
+
+1
+
+|
+
+Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8 du code de la santé publique.
+
+|
+
+Article R. 1335-8-8
+
+|
+
 2. Décisions administratives individuelles prises par le ministre de l'intérieur
 
 CIRCULATION ET SÉCURITÉ ROUTIÈRES
@@ -222,7 +236,7 @@ Décision refusant l'entrée en France à un demandeur d'asile.
 
 |
 
-R.* 213-3
+R. * 213-3
 
 |
 
@@ -234,7 +248,7 @@ Agrément individuel d'un représentant du Haut-Commissariat des Nations unies p
 
 |
 
-R.* 223-4
+R. * 223-4
 
 |
 
@@ -246,7 +260,7 @@ Habilitation d'une association humanitaire, agrément individuel d'un membre d'a
 
 |
 
-R.* 223-12
+R. * 223-12
 
 |
 
@@ -258,7 +272,7 @@ Interdiction faite à un étranger de résider dans un ou plusieurs département
 
 |
 
-R.* 321-3
+R. * 321-3
 
 |
 
@@ -270,7 +284,7 @@ Expulsion d'un étranger en application des articles L. 521-2 ou L. 521-3 ainsi 
 
 |
 
-R.* 522-2
+R. * 522-2
 
 |
 
@@ -282,7 +296,7 @@ Fixation du pays de renvoi d'un étranger faisant l'objet d'une mesure d'expulsi
 
 |
 
-R.* 523-2
+R. * 523-2
 
 |
 
@@ -294,7 +308,7 @@ Assignation à résidence d'un étranger faisant l'objet d'une mesure d'expulsio
 
 |
 
-R.* 523-5
+R. * 523-5
 
 |
 
@@ -306,7 +320,7 @@ Remise aux autorités d'un Etat membre de l'Union européenne d'un demandeur d'a
 
 |
 
-R.* 531-2
+R. * 531-2
 
 |
 
@@ -318,7 +332,7 @@ Assignation à résidence d'un étranger faisant l'objet de la peine d'interdict
 
 |
 
-R.* 541-1
+R. * 541-1
 
 |
 
@@ -330,7 +344,7 @@ Décision prononçant l'amende prévue à l'article L. 625-2.
 
 |
 
-R.* 625-2
+R. * 625-2
 
 |
 
@@ -444,7 +458,7 @@ Instruction ministérielle du 15 juillet 1947 sur la réglementation des jeux da
 
 |
 
-Cercles ouverts. - Approbation du contrat de jeux intervenu entre le conseil d'administration et le directeur des jeux.
+Cercles ouverts.-Approbation du contrat de jeux intervenu entre le conseil d'administration et le directeur des jeux.
 
 |
 
@@ -948,11 +962,11 @@ Décisions amiables à caractère financier résultant de la mise en cause de la
 
 Décisions à caractère financier résultant de l'application des décisions :
 
-- des cours administratives d'appel ;
+-des cours administratives d'appel ;
 
-- du Conseil d'Etat ;
+-du Conseil d'Etat ;
 
-- d'un tribunal administratif en tant qu'elles se rapportent à l'activité de l'administration centrale.
+-d'un tribunal administratif en tant qu'elles se rapportent à l'activité de l'administration centrale.
 
 |
 
