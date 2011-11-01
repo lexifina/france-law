@@ -352,9 +352,9 @@ CTP régionaux de la Direction Générale de la Concurrence, de la Consommation 
 
 CTP locaux de la Direction Générale des Finances Publiques institués auprès :
 
-- du directeur des services fiscaux et du trésorier payeur général dans les départements où la (ou les) direction(s) des services fiscaux et la Trésorerie générale n'ont pas fusionné en direction départementale ou régionale des finances publiques ;
+-du directeur des services fiscaux et du trésorier payeur général dans les départements où la (ou les) direction (s) des services fiscaux et la Trésorerie générale n'ont pas fusionné en direction départementale ou régionale des finances publiques ;
 
-- du directeur départemental ou régional des finances publiques dans un département où la (ou les) direction(s) des services fiscaux et la trésorerie générale ont fusionné.
+-du directeur départemental ou régional des finances publiques dans un département où la (ou les) direction (s) des services fiscaux et la trésorerie générale ont fusionné.
 
 CTP local de la Trésorerie Générale de la Polynésie Française placé auprès du trésorier payeur général ;
 
@@ -412,11 +412,11 @@ CTP spécial institué auprès du chef du SCN Service national de douane judicia
 
 CTP spéciaux institués auprès de chacun des responsables des établissements composant le SCN Direction nationale du recrutement et de la formation professionnelle mentionnés ci-après :
 
-- Ecole de Tourcoing ;
+-Ecole de Tourcoing ;
 
-- Ecole de Rouen ;
+-Ecole de Rouen ;
 
-- Ecole de la Rochelle ;
+-Ecole de la Rochelle ;
 
 CTP institué auprès du Secrétaire Général de la Polynésie française compétent à l'égard des services des douanes en Polynésie française ;
 
@@ -434,7 +434,7 @@ CTP des établissements publics nationaux placés sous l'autorité de chacun des
 
 Comités d'hygiène et de sécurité
 
-CHS ministériel placé auprès du comité technique paritaire Ministériel (CTPM).
+CHS ministériel placé auprès du comité technique Ministériel (CTPM).
 
 CHS départementaux inter-directionnels placés auprès du responsable départemental ou régional d'un service déconcentré des ministères économique et financier ;
 

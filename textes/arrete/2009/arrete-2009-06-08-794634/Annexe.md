@@ -4,9 +4,7 @@ CONCOURS EXTERNES
 
 ÉPREUVE ÉCRITE DE PRÉADMISSIBILITÉ
 
-(Branche du contrôle des opérations commerciales et de l'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et de l'administration générale et branche de la surveillance)
 
 I. ― Connaissances générales
 
@@ -98,15 +96,13 @@ Problèmes du premier degré à une ou deux inconnues.
 
 IV. ― Raisonnement logique
 
-Les questions consistent, selon un ordre logique à déterminer, à compléter des ensembles d'objets mathématiques et/ou alphabétiques, présentés linéairement ou à partir de graphes et de tableaux, et à constituer des ensembles homogènes de figures géométriques ou de symboles et représentations diverses.
+Les questions consistent, selon un ordre logique à déterminer, à compléter des ensembles d'objets mathématiques et/ ou alphabétiques, présentés linéairement ou à partir de graphes et de tableaux, et à constituer des ensembles homogènes de figures géométriques ou de symboles et représentations diverses.
 
 ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
 
 Option mathématiques
 
-(Branche du contrôle des opérations commerciales
-
-et d'administration générale et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― Fonctions numériques
 
@@ -130,11 +126,11 @@ x
 
 et de :
 
-ln(x)
+ln (x)
 
 x
 
-limite en 0 de xln(x).
+limite en 0 de xln (x).
 
 (v) Dérivation de la composée de deux fonctions.
 
@@ -182,7 +178,7 @@ V. ― Suites
 
 (i) Suites monotones, majorées, minorées, bornées, convergentes.
 
-(ii) Suites arithmétiques, suites géométriques, suites vérifiant une relation de récurrence du type : un-+ 1= au b, ou un + 2= aun+1 + b un
+(ii) Suites arithmétiques, suites géométriques, suites vérifiant une relation de récurrence du type : un-+ 1 = au b, ou un + 2 = aun + 1 + b un
 
 VI. ― Géométrie dans l'espace
 
@@ -192,9 +188,7 @@ VI. ― Géométrie dans l'espace
 
 Option comptabilité privée
 
-(Branche du contrôle des opérations commerciales et d'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― Introduction
 
@@ -260,9 +254,7 @@ Le bilan et le compte de résultats prévisionnels.
 
 Option économie
 
-(Branche du contrôle des opérations commerciales et d'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― Introduction
 
@@ -398,15 +390,11 @@ Le contrat de travail :
 
 Rôle du conseil des prud'hommes.
 
-D. ― Les dispositions législatives et réglementaires
-
-en matière de salaire et de durée du travail
+D. ― Les dispositions législatives et réglementaires en matière de salaire et de durée du travail
 
 Option géographie économique
 
-(Branche du contrôle des opérations commerciales
-
-et d'administration générale et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― L'Europe des Etats
 
@@ -554,9 +542,7 @@ V. ― Commandement
 
 Les fonctions, prérogatives et devoirs des commandants et des différents membres d'équipage.
 
-ÉPREUVE D'ADMISSION N° 3 DU CONCOURS EXTERNE
-
-DE LA BRANCHE DE LA SURVEILLANCE
+ÉPREUVE D'ADMISSION N° 3 DU CONCOURS EXTERNE DE LA BRANCHE DE LA SURVEILLANCE
 
 Epreuve d'exercices physiques
 
@@ -1334,15 +1320,11 @@ Trois essais à chaque hauteur
 
 Toute performance qui se traduirait par une fraction de note serait appréciée à la note inférieure.
 
-CONCOURS INTERNES
-
-ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
+CONCOURS INTERNES ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
 
 Option missions, organisation et la réglementation douanières
 
-(Branche du contrôle des opérations commerciales et d'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― Les missions de l'administration des douanes et droits indirects
 
@@ -1392,9 +1374,7 @@ Les infractions : constatation, qualification et mise en œuvre de la sanction
 
 Les personnes responsables
 
-VI. ― Contributions indirectes : législation, réglementation
-
-et contentieux
+VI. ― Contributions indirectes : législation, réglementation et contentieux
 
 Généralité et rôle du service en matière d'impôts indirects
 
@@ -1422,9 +1402,7 @@ La procédure fiscale
 
 Option comptabilité privée
 
-(Branche du contrôle des opérations commerciales et de l'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et de l'administration générale et branche de la surveillance)
 
 I. ― Introduction
 
@@ -1490,9 +1468,7 @@ Le bilan et le compte de résultats prévisionnels
 
 Option gestion administrative
 
-(Branche du contrôle des opérations commerciales et d'administration générale
-
-et branche de la surveillance)
+(Branche du contrôle des opérations commerciales et d'administration générale et branche de la surveillance)
 
 I. ― Organisation générale des services de l'Etat
 
@@ -1518,7 +1494,7 @@ A. ― Organes de gestion dans la fonction publique :
 
 ― les commissions administratives paritaires ;
 
-― les comités techniques paritaires ;
+― les comités techniques ;
 
 ― les comités d'hygiène et de sécurité ;
 
@@ -1564,7 +1540,7 @@ B. ― Le déroulement de la carrière :
 
 ― la sécurité sociale ;
 
-― les services sociaux
+― les services sociaux.
 
 4. La cessation de fonctions et la cessation définitive d'activité :
 
@@ -1598,9 +1574,7 @@ IV. ― Les facteurs d'évolution de la gestion des administrations
 
 2. L'impact de la réforme de l'Etat.
 
-Option connaissances techniques de navigation maritime
-
-et connaissances de réglementation douanière maritime
+Option connaissances techniques de navigation maritime et connaissances de réglementation douanière maritime
 
 Epreuve d'admissibilité n° 2 du concours interne de la branche de la surveillance
 
@@ -1710,9 +1684,7 @@ D. ― Le contrôle de la navigation réservée
 
 E. ― L'avitaillement des navires
 
-ÉPREUVE D'ADMISSION N° 3 DU CONCOURS INTERNE
-
-DE LA BRANCHE DE LA SURVEILLANCE
+ÉPREUVE D'ADMISSION N° 3 DU CONCOURS INTERNE DE LA BRANCHE DE LA SURVEILLANCE
 
 Epreuve d'exercices physiques
 

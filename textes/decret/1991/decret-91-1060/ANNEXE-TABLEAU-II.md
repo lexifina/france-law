@@ -22,33 +22,33 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 
 4° Responsable du secrétariat :
 
-- procureur général ;
+-procureur général ;
 
-- du premier avocat général ;
+-du premier avocat général ;
 
-- des avocats généraux.
+-des avocats généraux.
 
 |
 
 5° Responsable du secrétariat :
 
-- du premier président ;
+-du premier président ;
 
-- du secrétaire général ;
+-du secrétaire général ;
 
-- des secrétaires généraux adjoints.
+-des secrétaires généraux adjoints.
 
 |
 
 6° Responsable du secrétariat :
 
-- des 1re et 2e chambres ;
+-des 1re et 2e chambres ;
 
-- de la 3e chambre ;
+-de la 3e chambre ;
 
-- des 4e et 5e chambres ;
+-des 4e et 5e chambres ;
 
-- des 6e et 7e chambres.
+-des 6e et 7e chambres.
 
 |
 
@@ -184,7 +184,7 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 
 |
 
-40° Chargé de l'organisation des comités d'hygiène et de sécurité et des comités techniques paritaires des juridictions financières.
+40° Chargé de l'organisation des comités d'hygiène et de sécurité et des comités techniques des juridictions financières.
 
 |
 
@@ -212,7 +212,7 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 
 |
 
-47° Adjoint à la documentaliste responsable de la division Communication interne - documentation des chambres régionales des comptes au service de la communication, de la documentation et des archives.
+47° Adjoint à la documentaliste responsable de la division Communication interne-documentation des chambres régionales des comptes au service de la communication, de la documentation et des archives.
 
 |
 
