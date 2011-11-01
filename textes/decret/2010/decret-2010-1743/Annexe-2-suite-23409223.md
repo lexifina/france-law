@@ -422,7 +422,7 @@ secteur travail
 
 Commissions administratives paritaires
 
-CAP nationale du corps de l`inspection du travail
+CAP nationale du corps de l ` inspection du travail
 
 CAP nationale du corps des contrôleurs du travail
 
@@ -478,7 +478,7 @@ CAP nationale compétente pour le corps des conseillers techniques d'éducation 
 
 CAP nationale compétente pour le corps des professeurs d'enseignement technique des instituts nationaux des jeunes sourds et de l'institut national des jeunes aveugles
 
-CAP nationale compétente pour le corps des éducateurs spécialisés - moniteurs-éducateurs
+CAP nationale compétente pour le corps des éducateurs spécialisés-moniteurs-éducateurs
 
 CAP nationale compétente pour le corps des inspecteurs généraux de la jeunesse et des sports
 
@@ -546,7 +546,7 @@ CTP central placé auprès du directeur du Centre de ressources, d'expertise et 
 
 CTP central placé auprès du directeur du Centre de ressources, d'expertise et de performance sportives de Dijon
 
-CTP central placé auprès du directeur du Centre de ressources, d'expertise et de performance sportivesd'Ile-de-France
+CTP central placé auprès du directeur du Centre de ressources, d'expertise et de performance sportives d'Ile-de-France
 
 CTP central placé auprès du directeur général du Centre National de Gestion des Praticiens Hospitaliers et des Personnels de Direction de la Fonction Publique Hospitalière
 
@@ -564,11 +564,11 @@ CTP central auprès de la directrice du Fonds d'Indemnisation des Victimes de l'
 
 Comités d'hygiène et de sécurité
 
-CHS chargé d'assister le comité technique paritaire ministériel de la jeunesse et des sports
+CHS chargé d'assister le comité technique ministériel de la jeunesse et des sports
 
-CHS chargé d'assister le comité technique paritaire central du ministère de la jeunesse, des sports et de la vie associative
+CHS chargé d'assister le comité technique central du ministère de la jeunesse, des sports et de la vie associative
 
-CHS chargé d'assister le comité technique paritaire central du ministère chargé des affaires sociales
+CHS chargé d'assister le comité technique central du ministère chargé des affaires sociales
 
 CHS central placé auprès du directeur de l'Agence Technique de l'Information sur l'Hospitalisation
 
@@ -576,11 +576,11 @@ CHS central placé auprès du directeur du Centre de ressources, d'expertise et 
 
 CHS central placé auprès du directeur du Centre de ressources, d'expertise et de performance sportives de La Réunion
 
-CHS central placé auprès du comité technique paritaire central du Centre de ressources, d'expertise et de performance sportives de Provence-Alpes-Côte d'Azur
+CHS central placé auprès du comité technique central du Centre de ressources, d'expertise et de performance sportives de Provence-Alpes-Côte d'Azur
 
 CHS central placé auprès de la directrice du Centre de ressources, d'expertise et de performance sportives des Pays-de-la-Loire
 
-CHS central placé auprès du comité technique paritaire central du Centre de ressources, d'expertise et de performance sportives de Reims
+CHS central placé auprès du comité technique central du Centre de ressources, d'expertise et de performance sportives de Reims
 
 CHS central placé auprès du directeur du Centre de ressources, d'expertise et de performance sportives de Pointe-à-Pitre
 
@@ -592,9 +592,9 @@ CHS central placé auprès du directeur du Centre de ressources, d'expertise et 
 
 CHS central placé auprès du directeur du Centre de ressources, d'expertise et de performance sportives de Nancy
 
-CHS central placé auprès du comité technique paritaire central du Centre de ressources, d'expertise et de performance sportives du Nord-Pas-de-Calais
+CHS central placé auprès du comité technique central du Centre de ressources, d'expertise et de performance sportives du Nord-Pas-de-Calais
 
-CHS central placé auprès du comité technique paritaire central du Centre de ressources, d'expertise et de performance sportives Aquitaine
+CHS central placé auprès du comité technique central du Centre de ressources, d'expertise et de performance sportives Aquitaine
 
 CHS central placé auprès du directeur du Centre de ressources, d'expertise et de performance sportives de Strasbourg
 
