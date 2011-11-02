@@ -32,54 +32,6 @@ Sans limitation
 
 |
 
-Directeurs régionaux du service de santé des armées
-
-|
-
-Dans les limites mentionnées en (2)
-
-|
-
-Directeurs interarmées du service de santé outre-mer
-
-|
-
-Dans les limites mentionnées en (2)
-
-|
-
-Commandants des écoles de formation et directeur de l'école du Val-de-Grâce
-
-|
-
-Dans les limites mentionnées en (2)
-
-|
-
-Directeurs des instituts du service de santé des armées
-
-|
-
-Dans les limites mentionnées en (2)
-
-|
-
-Directeur du centre de recherches du service de santé des armées
-
-|
-
-Dans les limites mentionnées en (2)
-
-|
-
-Médecins-chefs des hôpitaux des armées en métropole
-
-|
-
-Dans les limites mentionnées en (2)
-
-|
-
 Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
 
 |
@@ -330,7 +282,9 @@ Chef du détachement de liaison du service des essences des armées auprès de l
 
 |
 
-MAPA x 7 |
+MAPA x 7
+
+|
 
 Divers
 
@@ -358,7 +312,7 @@ Armée de terre
 
 |
 
-Chef d'état-major de l'armée de terre
+Etat-major de l'armée de terre
 
 |
 
@@ -370,11 +324,9 @@ MAPA × 4
 
 |
 
-Direction centrale du matériel de l'armée de terre
-
 |
 
-Directeur du service central des achats de la maintenance
+Directeur du service de la maintenance industrielle terrestre
 
 |
 
@@ -382,35 +334,27 @@ Sans limitation
 
 |
 
-Directeurs régionaux du matériel
+|
+
+Commandant de la base de soutien du matériel de Neuvy-Pailloux (service de la maintenance industrielle terrestre)
 
 |
 
-MAPA × 45
+MAPA x 3
 
 |
 
-Directeurs régionaux adjoints du matériel
+|
+
+Chef du détachement de Moulins de la base de soutien du matériel de Clermont-Ferrand (service de la maintenance industrielle terrestre)
 
 |
 
-MAPA × 1, 5
+MAPA x 3
 
 |
 
-Commandants des bases de soutien des matériels
-
-|
-
-MAPA × 1
-
-|
-
-Chefs de détachements des bases de soutien des matériels
-
-|
-
-MAPA × 1
+Direction centrale du matériel de l'armée de terre
 
 |
 
@@ -426,7 +370,9 @@ Divers
 
 |
 
-Chef de la section géographique militaire (4) |
+Chef de la section géographique militaire (4)
+
+|
 
 MAPA × 1
 
@@ -642,7 +588,9 @@ Sans limitation
 
 |
 
-Adjoints du chef du service centralisé des achats techniques |
+Adjoints du chef du service centralisé des achats techniques
+
+|
 
 MAPA × 50 |
 
@@ -667,14 +615,6 @@ Secrétariat général pour l'administration
 |
 
 Direction du service national
-
-|
-
-Directeurs interrégionaux et adjoints de ces directeurs
-
-|
-
-MAPA x 10
 
 |
 
@@ -732,9 +672,13 @@ MAPA x 30 (7)
 
 |
 
-Directeurs des directions d'infrastructure de la défense d'outre-mer et étranger |
+Directeurs des directions d'infrastructure de la défense d'outre-mer et étranger
 
-Sans limitation |
+|
+
+Sans limitation
+
+|
 
 Divers
 
@@ -789,6 +733,18 @@ Directeur du centre d'études techniques maritimes et fluviales
 |
 
 Sans limitation (5) (6) (7)
+
+|
+
+Mission militaire au sein de la mission diplomatique française à Washington
+
+|
+
+Attaché de défense adjoint en charge des questions "armement"
+
+|
+
+Sans limitation
 
 |
 
