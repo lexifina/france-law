@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110919997
+
+- Question : [SEQ110919997](seq110919997.md) — Avenir de la profession de visiteur médical
+
+## Réponse
+
+*Travail, JO du 2011-11-03, page 2809*
+
+La recommandation de l'inspection générale des affaires sociales (IGAS) dans son rapport sur la pharmacovigilance et la gouvernance de la chaîne du médicament, publié le 21 juin 2011, d'interdire la visite médicale, ne peut pas être suivie car elle est contraire au droit communautaire sur les entreprises et nécessiterait, au préalable, une modification de la directive 2001/83/CE, relative aux médicaments à usage humain. Néanmoins, afin de renforcer l'encadrement de la visite médicale et d'améliorer la publicité véhiculée par le visiteur médical, le projet de loi relatif au renforcement de la sécurité sanitaire du médicament et des produits de santé, présenté au conseil des ministres du 1er août 2011 et adopté en première lecture par l'Assemblée nationale le 4 octobre 2011, propose, dans son article 19, de lancer une expérimentation de la visite médicale exercée dans les établissements de santé, afin que la visite ne soit plus réalisée dans le cadre d'entretien individuel mais dans un cadre collectif, c'est-à-dire devant plusieurs professionnels de santé. Ce dispositif expérimental ne pourra excéder deux ans ; ses modalités pratiques seront définies par convention entre chaque établissement de santé et les industriels. Le Gouvernement réalisera une évaluation de cette expérimentation et remettra un rapport au Parlement avant le 1er janvier 2013 avec une proposition, le cas échéant, visant à pérenniser le dispositif et à l'étendre aux professionnels de santé exerçant en ville. Par ailleurs, l'article 18 du projet de loi précité prévoit un contrôle a priori de la publicité destinée aux professionnels de santé.
