@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719473
+
+- Question : [SEQ110719473](seq110719473.md) — Respect du droit du travail sur le chantier de l'EPR à Flamanville
+
+## Réponse
+
+*Travail, JO du 2011-11-03, page 2808*
+
+Le ministre du travail, de l'emploi et de la santé a pris connaissance avec intérêt de la question relative à la situation des travailleurs étrangers employés sur le chantier du réacteur EPR, à Flamanville, et aux mesures prises afin d'assurer le respect de leurs droits sociaux. Le respect des dispositions du droit du travail relatives au statut et aux conditions d'emploi des travailleurs intervenant sur ce chantier font l'objet, depuis de nombreux mois, d'une attention particulière de l'ensemble des services de l'État français. Ainsi, dès janvier 2011, l'Office central de lutte contre le travail illégal (OCLTI) a été saisie par le parquet pour enquête, suite aux contrôles de l'inspection du travail de l'Autorité de sureté nucléaire (ASN) sur ce chantier. D'autre part, début juin 2011, une action de contrôle conjointe de l'Union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) et de l'Inspection du travail a été diligentée dans le cadre du comité départemental de lutte contre les fraudes (CODAF). Les conditions d'emploi des travailleurs font donc l'objet de vérifications approfondies, tant sur place que sur pièces, par l'examen de nombreux documents demandés aux employeurs, donneurs d'ordres et sous-traitants intervenant sur le chantier. L'enquête, pilotée par l'OCLTI, est toujours en cours, et ses résultats, qui seront connus prochainement, permettront de prendre toutes les mesures nécessaires au respect du droit et à la préservation des droits sociaux des travailleurs intervenant sur ce chantier et, s'il y a lieu, de saisir le procureur aux fins d'engager des poursuites pénales. L'ensemble des structures et organismes compétents au niveau national et territorial restent mobilisés en ce sens.
