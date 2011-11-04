@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — UNIVERSITE DE LA FONCTION PUBLIQUE TERRITORIALE (U.F.P.T) - AUTORISATION DE SIGNATURE DE LA CONVENTION MULTIPARTITE POUR L'ORGANISATION DE L'U.F.P.T 2011 ET AUTORISATION D'ATTRIBUTION DE SUBVENTION - EXERCICE 2011
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2011-11-04
+- Séance : Conseil Municipal 2CA
+- Objet : UNIVERSITE DE LA FONCTION PUBLIQUE TERRITORIALE (U.F.P.T) - AUTORISATION DE SIGNATURE DE LA CONVENTION MULTIPARTITE POUR L'ORGANISATION DE L'U.F.P.T 2011 ET AUTORISATION D'ATTRIBUTION DE SUBVENTION - EXERCICE 2011
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-2447-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
