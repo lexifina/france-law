@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION DE PARTENARIAT ENTRE LA VILLE ET LE CENTRE COMMUNAL D'ACTION SOCIALE POUR DES PROFESSIONNELS SOCIAUX EN FAVEUR DES AGENTS TERRITORIAUX DES DEUX COLLECTIVITÉS- AUTORISATION DE SIGNATURE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2011-11-04
+- Séance : Conseil Municipal 2CA
+- Objet : CONVENTION DE PARTENARIAT ENTRE LA VILLE ET LE CENTRE COMMUNAL D'ACTION SOCIALE POUR DES PROFESSIONNELS SOCIAUX EN FAVEUR DES AGENTS TERRITORIAUX DES DEUX COLLECTIVITÉS- AUTORISATION DE SIGNATURE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-2438-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
