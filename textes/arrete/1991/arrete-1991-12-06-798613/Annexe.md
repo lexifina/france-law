@@ -68,7 +68,7 @@ Emplois
 
 |
 
-I.-Administration centrale (y compris le ministère chargé de la jeunesse et des sports et le ministère chargé de l'enseignement supérieur)
+I.-Administration centrale (Y compris le secrétariat d'Etat chargé de la jeunesse et de la vie associative et du ministère chargé de l'enseignement supérieur et de la recherche).
 
 |
 
@@ -96,7 +96,7 @@ f
 
 |
 
-a) Chef de bureau, de division ou de département (sauf lorsque ces fonctions sont exercées par des agents appartenant à un corps dont le dernier échelon est doté d'un indice brut supérieur à 985)
+a) Chef de bureau, de division ou de département
 
 |
 
