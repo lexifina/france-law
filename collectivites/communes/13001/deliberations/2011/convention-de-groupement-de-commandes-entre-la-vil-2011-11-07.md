@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION DE GROUPEMENT DE COMMANDES ENTRE LA VILLE ET LE CENTRE COMMUNAL D'ACTION SOCIALE (CCAS), POUR LA PRESTATION DE MÉDECINE PROFESSIONNELLE ET PRÉVENTIVE DES PERSONNELS- AUTORISATION DE SIGNATURE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2011-11-07
+- Séance : Conseil Municipal 2CA
+- Objet : CONVENTION DE GROUPEMENT DE COMMANDES ENTRE LA VILLE ET LE CENTRE COMMUNAL D'ACTION SOCIALE (CCAS), POUR LA PRESTATION DE MÉDECINE PROFESSIONNELLE ET PRÉVENTIVE DES PERSONNELS- AUTORISATION DE SIGNATURE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-2778-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
