@@ -1,6 +1,6 @@
-# Article AOC " Clos de la Roche.. "
+# Article AOC " Clos de Tart."
 
-CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES CLOS DE LA ROCHE, BONNES-MARES, CLOS DE TART
+CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES BONNES-MARES, CLOS DE TART
 
 Chapitre Ier
 
@@ -8,11 +8,9 @@ I.-Nom de l'appellation
 
 Seuls peuvent prétendre aux appellations d'origine contrôlées :
 
-Clos de la Roche, Bonnes-Mares initialement reconnues par le décret du 8 décembre 1936 ;
+Bonnes-Mares initialement reconnue par le décret du 8 décembre 1936 ;
 
-et Clos de Tart ; initialement reconnue par le décret du 4 janvier 1939,
-
-les vins répondant aux dispositions particulières fixées ci-après.
+et Clos de Tart ; initialement reconnue par le décret du 4 janvier 1939, les vins répondant aux dispositions particulières fixées ci-après.
 
 II.-Dénominations géographiques et mentions complémentaires
 
@@ -20,13 +18,13 @@ Pas de dispositions complémentaires.
 
 III.-Couleur et types de produit
 
-Les appellations d'origine contrôlées Clos de la Roche, Bonnes-Mares et Clos de Tart sont réservées aux vins tranquilles rouges.
+Les appellations d'origine contrôlées Bonnes-Mares et Clos de Tart sont réservées aux vins tranquilles rouges.
 
 IV.-Aires et zones dans lesquelles différentes opérations sont réalisées
 
 1° Aire géographique :
 
-Pour les appellations Clos de la Roche et Clos de Tart, la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire de la commune de Morey-Saint-Denis, dans le département de la Côte-d'Or.
+Pour les appellations Clos de Tart, la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire de la commune de Morey-Saint-Denis, dans le département de la Côte-d'Or.
 
 Pour l'appellation Bonnes-Mares, la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire des communes suivantes du département de la Côte-d'Or : Chambolle-Musigny et Morey-Saint-Denis.
 
@@ -34,7 +32,7 @@ Pour l'appellation Bonnes-Mares, la récolte des raisins, la vinification, l'él
 
 Les vins sont issus exclusivement des vignes situées dans l'aire parcellaire de production, telle qu'approuvée par l'Institut national de l'origine et de la qualité lors des séances du comité national compétent :
 
--du 24 juillet 1965, pour les appellations Clos de la Roche, et Clos de Tart ;
+-du 24 juillet 1965, pour l'appellation Clos de Tart ;
 
 -du 24 juillet 1965 et des 1er et 2 juin 1988, pour l'appellation Bonnes-Mares.
 
@@ -82,11 +80,11 @@ a) Densité de plantation.
 
 Les vignes présentent une densité minimale à la plantation de 9 000 pieds à l'hectare.
 
-Les vignes ne peuvent présenter un écartement entre rangs supérieur à 1, 25 mètre.
+Les vignes ne peuvent présenter un écartement entre rangs supérieur à 1,25 mètre.
 
-Les vignes ne peuvent présenter un écartement entre pieds sur un même rang inférieur à 0, 50 mètre.
+Les vignes ne peuvent présenter un écartement entre pieds sur un même rang inférieur à 0,50 mètre.
 
-Les vignes peuvent être plantées en foule, sous réserve de respecter la densité minimale à la plantation et un écartement entre les pieds supérieur à 0, 50 mètre.
+Les vignes peuvent être plantées en foule, sous réserve de respecter la densité minimale à la plantation et un écartement entre les pieds supérieur à 0,50 mètre.
 
 b) Règles de taille.
 
@@ -100,7 +98,7 @@ Quel que soit le mode de taille, les vignes peuvent être taillées avec 4 yeux 
 
 c) Règles de palissage et de hauteur de feuillage.
 
-La hauteur de feuillage palissée doit être au minimum égale à 0, 6 fois l'écartement entre les rangs, la hauteur de feuillage palissée étant mesurée entre la limite inférieure du feuillage, établie à 0, 30 mètre au moins au-dessus du sol, et la limite supérieure de rognage.
+La hauteur de feuillage palissée doit être au minimum égale à 0,6 fois l'écartement entre les rangs, la hauteur de feuillage palissée étant mesurée entre la limite inférieure du feuillage, établie à 0,30 mètre au moins au-dessus du sol, et la limite supérieure de rognage.
 
 Lorsque les vignes ne sont pas taillées en gobelet, elles doivent obligatoirement être relevées sur un échalas ou être palissées ; le palissage doit être entretenu.
 
@@ -160,7 +158,7 @@ Ne peuvent être considérés comme étant à bonne maturité les raisins prése
 
 b) Titre alcoométrique volumique naturel minimum.
 
-Les vins présentent un titre alcoométrique volumique naturel minimum de 11, 5 %.
+Les vins présentent un titre alcoométrique volumique naturel minimum de 11,5 %.
 
 VIII.-Rendements.-Entrée en production
 
@@ -206,7 +204,7 @@ Dans le cas où des vins rouges sont produits à partir de parcelles complantée
 
 c) Fermentation malolactique.
 
-Les vins présentent au stade du conditionnement une teneur maximale en acide malique de 0, 4 gramme par litre.
+Les vins présentent au stade du conditionnement une teneur maximale en acide malique de 0,4 gramme par litre.
 
 d) Normes analytiques.
 
@@ -218,7 +216,7 @@ La concentration partielle de moûts de raisins est autorisée suivant toute mé
 
 L'utilisation de morceaux de bois de chêne est interdite.
 
-Après enrichissement, les vins ne dépassent pas un titre alcoométrique volumique total de 14, 5 %.
+Après enrichissement, les vins ne dépassent pas un titre alcoométrique volumique total de 14,5 %.
 
 f) Matériel interdit.
 
@@ -292,7 +290,7 @@ XII.-Règles de présentation et étiquetage
 
 1° Dispositions générales :
 
-Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : Clos de la Roche,Clos de Tart, Bonnes-Mares qui sont présentés sous l'une desdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée, le tout en caractères très apparents.
+Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : Clos de Tart, Bonnes-Mares qui sont présentés sous l'une desdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée, le tout en caractères très apparents.
 
 2° Dispositions particulières :
 
@@ -380,17 +378,17 @@ Tout opérateur effectuant un déclassement de vins bénéficiant de l'appellati
 
 7. Déclaration d'appareil pour TSE :
 
-Tout opérateur détenteur d'un appareil de concentration doit le déclarer dès l'achat à l'organisme de défense et de gestion, en précisant les spécifications.L'organisme de défense et de gestion tient à jour la liste des opérateurs détenteurs d'un appareil et la transmet chaque année au service de l'INAO au plus tard le 1er septembre.
+Tout opérateur détenteur d'un appareil de concentration doit le déclarer dès l'achat à l'organisme de défense et de gestion, en précisant les spécifications. L'organisme de défense et de gestion tient à jour la liste des opérateurs détenteurs d'un appareil et la transmet chaque année au service de l'INAO au plus tard le 1er septembre.
 
 Tout opérateur faisant appel à un prestataire de services le déclare auprès de l'organisme de défense et de gestion, lequel établit la liste de ces opérateurs et la transmet chaque année au service de l'INAO au plus tard le 1er septembre.
 
 8. Remaniement des parcelles :
 
-Avant tout aménagement ou tous travaux modifiant la topographie, le sous-sol, la couche arable (y compris tout apport de terre exogène) ou des éléments structurant du paysage d'une parcelle délimitée, allant au-delà des travaux de défonçage classique, une déclaration doit être adressée par l'opérateur à l'organisme de défense et de gestion au moins quatre semaines avant le début des travaux envisagés.L'organisme de défense et de gestion transmet une copie de cette déclaration aux services de l'INAO sans délai.
+Avant tout aménagement ou tous travaux modifiant la topographie, le sous-sol, la couche arable (y compris tout apport de terre exogène) ou des éléments structurant du paysage d'une parcelle délimitée, allant au-delà des travaux de défonçage classique, une déclaration doit être adressée par l'opérateur à l'organisme de défense et de gestion au moins quatre semaines avant le début des travaux envisagés. L'organisme de défense et de gestion transmet une copie de cette déclaration aux services de l'INAO sans délai.
 
 9. Système dérogatoire :
 
-Les opérateurs qui réalisent au moins 5 transactions par semaine et / ou au moins 42 préparations à la mise à la consommation, au sens de l'article D. 644-36-I du code rural, par an peuvent regrouper leurs déclarations de transaction, de mise à la consommation et de repli. Dans ce cas, ils doivent fournir à l'organisme de contrôle agréé leurs prévisions de transaction, de mise à la consommation et de repli puis transmettre le récapitulatif trimestriel de l'ensemble des déclarations visées aux points 2, 3 et 5 ci-dessus.
+Les opérateurs qui réalisent au moins 5 transactions par semaine et/ ou au moins 42 préparations à la mise à la consommation, au sens de l'article D. 644-36-I du code rural, par an peuvent regrouper leurs déclarations de transaction, de mise à la consommation et de repli. Dans ce cas, ils doivent fournir à l'organisme de contrôle agréé leurs prévisions de transaction, de mise à la consommation et de repli puis transmettre le récapitulatif trimestriel de l'ensemble des déclarations visées aux points 2,3 et 5 ci-dessus.
 
 II.-Tenue de registres
 
