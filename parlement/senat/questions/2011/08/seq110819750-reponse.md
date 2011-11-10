@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110819750
+
+- Question : [SEQ110819750](seq110819750.md) — Application de l'article 41 de la loi pénitentiaire du 24 novembre 2009
+
+## Réponse
+
+*Justice, JO du 2011-11-10, page 2875*
+
+Si l'article 41 de la loi pénitentiaire du 24 novembre 2009 dispose effectivement en son alinéa premier que « les personnes détenues doivent consentir par écrit à la diffusion ou à l'utilisation de leur image ou de leur voix lorsque cette diffusion ou cette utilisation est de nature à permettre leur identification », il précise ensuite en son deuxième alinéa que « l'administration pénitentiaire peut s'opposer à la diffusion ou à l'utilisation de l'image ou de la voix d'une personne condamnée, dès lors que cette diffusion ou cette utilisation est de nature à permettre son identification et que cette restriction s'avère nécessaire à la sauvegarde de l'ordre public, à la prévention des infractions, à la protection des droits des victimes ou de ceux des tiers ainsi qu'à la réinsertion de la personne concernée », étant ajouté que « pour les prévenus, la diffusion et l'utilisation de leur image ou de leur voix sont autorisées par l'autorité judiciaire ». L'article R. 57-6-17 du code de procédure pénale, issu du décret en Conseil d'État n° 2010-1634 du 23 décembre 2010 portant application de la loi pénitentiaire, précise que, dans ce dernier cas, la diffusion ou l'utilisation de telles images est subordonnée à l'autorisation du magistrat saisi du dossier de la procédure. Conformément aux termes même de l'article 41 de la loi pénitentiaire du 24 novembre 2009 et de son décret d'application, l'administration pénitentiaire et l'autorité judiciaire peuvent donc régulièrement, pour des motifs précisément définis par la loi pénitentiaire, opposer un refus à la diffusion ou à l'utilisation de l'image ou de la voix d'une personne détenue, et ce malgré le consentement écrit de cette dernière.
