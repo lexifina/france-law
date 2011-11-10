@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110920010
+
+- Question : [SEQ110920010](seq110920010.md) — Taux de TVA appliqué à la filière cheval
+
+## Réponse
+
+*Agriculture, JO du 2011-11-10, page 2860*
+
+La Commission européenne a engagé une procédure contre la France devant la Cour de justice de l'Union européenne (CJUE), portant sur le taux réduit de la taxe sur la valeur ajoutée (TVA) appliqué à différentes opérations concernant les équidés. La filière cheval représente un atout pour la vitalité des territoires ruraux, en termes d'activité comme d'emploi. Conscient des conséquences potentielles de ce contentieux pour cette filière, le Gouvernement met tout en œuvre pour faire valoir sa position à savoir que le cheval, animal de rente, est d'abord un produit agricole et peut, à ce titre, bénéficier de l'application du taux réduit de TVA. La France est ainsi intervenue devant la CJUE dans les procédures opposant la Commission aux Pays-Bas, à l'Allemagne et à l'Autriche. Les arrêts rendus par la CJUE les 3 mars 2011 et 12 mai 2011, ont cependant conclu au manquement des États précités. Dans ce contexte, le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire, a réuni des représentants de l'ensemble de la filière, afin de suivre ce contentieux et d'anticiper au mieux son déroulement. Le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire, s'est également rendu à Bruxelles avec le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'État, afin de défendre ce dossier devant M. Joaquin Almunia, commissaire européen chargé de la concurrence. Le Gouvernement reste pleinement mobilisé pour défendre cette filière et en préserver le développement.
