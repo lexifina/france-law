@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101015533
+
+- Question : [SEQ101015533](seq101015533.md) — Affiliation rétroactive des anciens militaires
+
+## Réponse
+
+*Fonction publique, JO du 2011-11-10, page 2871*
+
+En application de l'article L. 65 du code des pensions civiles et militaires de retraite, les fonctionnaires, militaires et ouvriers de l'État qui ne remplissent pas la condition de fidélité, ou clause de stage, pour bénéficier d'une pension dans leur régime spécial, à savoir, depuis la réforme de 2010, deux ans de services pour les personnels civils - au lieu de quinze ans antérieurement - et quinze ans pour les militaires, sont affiliés rétroactivement à l'assurance vieillesse du régime général de sécurité sociale et à l'IRCANTEC. Or, sur le fondement d'une circulaire jugée depuis illégale par le Conseil d'État et la Cour de cassation, les services civils et militaires effectués avant le 1er janvier 1989 par des agents de l'État hors du territoire métropolitain de la France, sauf départements d'outre-mer, c'est-à-dire à l'étranger et dans les anciens territoires d'outre-mer, n'étaient pas pris en compte par le régime général dans le calcul de la pension. Les administrations concernées se sont, dès lors, attachées à trouver une solution qui rétablisse dans leurs droits le plus grand nombre d'assurés. Un projet de décret en cours d'élaboration complétera l'article du code de la sécurité sociale consacré aux règles de coordination entre régimes. Le nouveau texte prévoira que, dans le cas d'une pension non encore liquidée, la prise en compte des services en question se fera à l'initiative du régime spécial, du régime général ou de l'assuré ; dans le cas d'une pension déjà liquidée, ce sera à l'assuré de demander expressément au régime général la révision de sa pension, sous réserve qu'elle puisse encore être révisée. Il sera donc remédié à la situation de ces agents dans un bref délai.
