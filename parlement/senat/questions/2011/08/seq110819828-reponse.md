@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110819828
+
+- Question : [SEQ110819828](seq110819828.md) — Aménagement de la RN 4
+
+## Réponse
+
+*Écologie, JO du 2011-11-10, page 2866*
+
+L'aménagement à 2 × 2 voies de la RN 4 du tronçon Saint-Georges - Héming, situé entre Blâmont et Heming, figure au programme de modernisation des itinéraires routiers (PDMI) de la région Lorraine. 14,89 M€ de crédits État ont été inscrits au PDMI de la région Lorraine pour cette opération, étant entendu que les collectivités locales concernées (région et département de la Moselle) apporteraient l'équivalent pour permettre la réalisation d'une tranche fonctionnelle. Les collectivités concernées ne montrant pas d'empressement à s'engager sur cette opération, cela a conduit l'État à redéployer une partie des sommes dévolues à l'opération (3 M€) pour couvrir les dépassements de coûts constatés sur la déviation de Plombières. Dans le même temps, les discussions se poursuivent entre l'État, la région et le conseil général de Moselle sur le principe d'un financement à parité à hauteur de 23,8 M€, qui apparaît suffisant pour réaliser les premiers travaux utiles. En parallèle, l'État continue à travailler sur ce dossier. Ainsi, les acquisitions foncières sont en cours d'achèvement. Suite à des demandes exprimées au niveau local, certaines adaptations au projet initial ont été apportées. À ce titre, une attention particulière a été accordée à la restructuration de l'échangeur sur la commune de Saint-Georges pour permettre un accès vers le domaine des Trois Forêts où se trouve Center Parcs, en évitant le centre de la commune. Si un accord est trouvé entre l'État et les collectivités pour le financement des 23,8 M€, les travaux pourraient être lancés dans le courant de l'année 2014. En l'absence d'accord, les sommes disponibles de la part de l'État n'étant pas suffisantes pour permettre le lancement de travaux, il n'est pas exclu que les crédits soient redéployés sur d'autres opérations.
