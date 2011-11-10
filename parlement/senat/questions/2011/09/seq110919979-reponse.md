@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110919979
+
+- Question : [SEQ110919979](seq110919979.md) — Préservation des actions d'aide alimentaire du programme européen d'aide aux plus démunis
+
+## Réponse
+
+*Affaires européennes, JO du 2011-11-10, page 2858*
+
+La défense du plan européen d'aide aux plus démunis (PEAD) est une priorité du Gouvernement. Il mettra tout en œuvre pour en assurer la pérennité. La campagne hivernale de 2011 est d'ores et déjà assurée et l'arrêt du tribunal de première instance du 13 avril 2011 ne remet pas en cause l'existence du programme lui-même. L'arrêt a en revanche sanctionné, en l'état actuel du droit, le recours aux achats de produits alimentaires en complément des stocks d'intervention de la PAC. La Commission en a tiré les conséquences en proposant pour 2012 une enveloppe corrélée aux stocks d'intervention de la PAC disponibles, soit un budget équivalent à 113,5 M€. L'arrêt nécessite de réformer d'urgence le fonctionnement du programme qui reposait sur l'utilisation de surplus agricoles qui, aujourd'hui, sont moins importants qu'hier. La France est très attachée à l'existence de ce programme et, dans le contexte de crise que connaît aujourd'hui notre continent, les plus défavorisés doivent bénéficier plus que jamais de ce geste de solidarité de l'Union européenne. Le Président de la République, qui s'était déjà exprimé en ce sens à l'issue du Conseil européen du 24 juin dernier à Bruxelles, a rappelé, dans une déclaration publiée le 20 septembre, qu' « il serait inacceptable que l'Europe abandonne les plus faibles de ses concitoyens ». Le ministre chargé des affaires européennes ainsi que le ministre de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire s'emploient à mobiliser leurs homologues européens mais aussi les institutions communautaires, au premier chef la Commission européenne, pour trouver une solution le plus rapidement possible.
