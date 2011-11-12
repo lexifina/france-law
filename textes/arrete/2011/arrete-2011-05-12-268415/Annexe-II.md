@@ -50,7 +50,7 @@ Métier Ancienneté dans le corps des adjoints (administratifs ou techniques)
 
 Diplômes
 
-Joindre un état de services civils effectifs accomplis. Les attestations sont délivrées par l'administration où le candidat est (ou a été) employé, indiquant la durée exacte des services civils effectifs, ainsi que les diverses fonctions et les périodes d'emploi.
+Joindre un état de services publics. Les attestations sont délivrées par l'administration où le candidat est (ou a été) employé, indiquant la durée exacte des services publics ainsi que les diverses fonctions et les périodes d'emploi.
 
 Direction/service/établissement :
 
