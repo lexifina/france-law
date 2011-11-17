@@ -1,12 +1,12 @@
 # Article AOC "Montrachet"
 
-CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES " MONTRACHET ", " BÂTARD-MONTRACHET ", " BIENVENUES-BÂTARD-MONTRACHET ", " CRIOTS-BÂTARD-MONTRACHET "
+CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES " BÂTARD-MONTRACHET ", " BIENVENUES-BÂTARD-MONTRACHET ", " CRIOTS-BÂTARD-MONTRACHET "
 
 Chapitre Ier
 
 I. ― Nom de l'appellation
 
-Seuls peuvent prétendre aux appellations d'origine contrôlées : " Montrachet ", " Bâtard-Montrachet ", initialement reconnues par le décret du 31 juillet 1937 et " Bienvenues-Bâtard-Montrachet ", " Criots-Bâtard-Montrachet ", initialement reconnues par le décret du 13 juin 1939, les vins répondant aux dispositions particulières fixées ci-après.
+Seuls peuvent prétendre aux appellations d'origine contrôlées : " Bâtard-Montrachet ", initialement reconnue par le décret du 31 juillet 1937 et " Bienvenues-Bâtard-Montrachet ", " Criots-Bâtard-Montrachet ", initialement reconnues par le décret du 13 juin 1939, les vins répondant aux dispositions particulières fixées ci-après.
 
 II. ― Dénominations géographiques
 
@@ -16,7 +16,7 @@ Pas de dispositions particulières.
 
 III. ― Couleur et types de produit
 
-Les appellations d'origine contrôlées " Montrachet ", " Bâtard-Montrachet ", " Bienvenues-Bâtard-Montrachet " et " Criots-Bâtard-Montrachet " sont réservées aux vins tranquilles blancs.
+Les appellations d'origine contrôlées " Bâtard-Montrachet ", " Bienvenues-Bâtard-Montrachet " et " Criots-Bâtard-Montrachet " sont réservées aux vins tranquilles blancs.
 
 IV. ― Aires et zones dans lesquelles
 
@@ -24,7 +24,7 @@ différentes opérations sont réalisées
 
 1° Aire géographique :
 
-Pour les appellations " Montrachet " et " Bâtard-Montrachet ", la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire des communes suivantes du département de la Côte-d'Or : Chassagne-Montrachet et Puligny-Montrachet.
+Pour l'appellation " Bâtard-Montrachet ", la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire des communes suivantes du département de la Côte-d'Or : Chassagne-Montrachet et Puligny-Montrachet.
 
 Pour l'appellation " Bienvenues-Bâtard-Montrachet ", la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire de la commune de Puligny-Montrachet dans le département de la Côte-d'Or.
 
@@ -32,7 +32,7 @@ Pour l'appellation " Criots-Bâtard-Montrachet ", la récolte des raisins, la vi
 
 2° Aire parcellaire délimitée :
 
-Les vins sont issus exclusivement des vignes situées dans l'aire parcellaire de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors des séances du comité national compétent des 14 et 15 juin 1988 pour les appellations " Montrachet ", " Bâtard-Montrachet " et " Criots-Bâtard-Montrachet " sur la commune de Chassagne-Montrachet et des 13 et 14 septembre 1989 pour les appellations " Montrachet ", " Bâtard-Montrachet ", et " Bienvenues-Bâtard-Montrachet " sur la commune de Puligny-Montrachet.
+Les vins sont issus exclusivement des vignes situées dans l'aire parcellaire de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors des séances du comité national compétent des 14 et 15 juin 1988 pour les appellations " Bâtard-Montrachet " et " Criots-Bâtard-Montrachet " sur la commune de Chassagne-Montrachet et des 13 et 14 septembre 1989 pour les appellations " Bâtard-Montrachet ", et " Bienvenues-Bâtard-Montrachet " sur la commune de Puligny-Montrachet.
 
 L'Institut national de l'origine et de la qualité dépose auprès des mairies des communes mentionnées au 1° les documents graphiques établissant les limites parcellaires de l'aire de production ainsi approuvées.
 
@@ -159,16 +159,6 @@ RICHESSE MINIMALE EN SUCRES DES RAISINS
 TITRE ALCOOMÉTRIQUE
 
 volumique naturel minimum
-
-|
-
-" Montrachet " |
-
-187
-
-|
-
-12 %
 
 |
 
@@ -312,7 +302,7 @@ XII. ― Règles de présentation et étiquetage
 
 1° Dispositions générales :
 
-Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : " Montrachet ", " Bâtard-Montrachet ", " Bienvenues-Bâtard-Montrachet " et " Criots-Bâtard-Montrachet " qui sont présentés sous ladite appellation ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention " Appellation contrôlée ", le tout en caractères très apparents.
+Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : " Bâtard-Montrachet ", " Bienvenues-Bâtard-Montrachet " et " Criots-Bâtard-Montrachet " qui sont présentés sous ladite appellation ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention " Appellation contrôlée ", le tout en caractères très apparents.
 
 2° Dispositions particulières :
 
