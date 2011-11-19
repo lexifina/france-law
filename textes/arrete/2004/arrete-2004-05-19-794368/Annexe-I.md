@@ -1,6 +1,8 @@
 # Article Annexe I
 
-LISTE DES SUBSTANCES ACTIVES ET DES EXIGENCES S'Y RAPPORTANT APPROUVÉES AU NIVEAU COMMUNAUTAIRE POUR INCLUSION DANS LES PRODUITS BIOCIDES
+LISTE DES SUBSTANCES ACTIVES ET DES EXIGENCES S'Y RAPPORTANT APPROUVÉES
+
+AU NIVEAU COMMUNAUTAIRE POUR INCLUSION DANS LES PRODUITS BIOCIDES
 
 Type de produit 8 : produits de protection du bois
 
@@ -230,6 +232,18 @@ Pureté minimale :
 
 S'il y a lieu, les groupes de population susceptibles d'être exposés au produit ainsi que les usages et les scénarios d'exposition qui n'ont pas été pris en considération de façon représentative dans l'évaluation des risques au niveau communautaire sont évalués.
 
+Les risques sont évalués, et des mesures appropriées sont prises ou des conditions spécifiques sont imposées en vue d'atténuer les risques mis en évidence.
+
+L'autorisation d'un produit ne peut être accordée que si la demande d'autorisation démontre que les risques peuvent être ramenés à un niveau acceptable.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation :
+
+1) Etant donné les risques auxquels peuvent être exposés les travailleurs, les produits ne peuvent être utilisés tout au long de l'année sans que des données relatives à l'absorption par voie cutanée soient fournies afin de démontrer qu'il n'existe pas de risque lié à l'exposition chronique.
+
+2) Les produits destinés à un usage industriel doivent être utilisés avec un équipement de protection individuelle approprié.
+
 |
 
 1er février 2010
@@ -244,73 +258,13 @@ I. - Pour les produits contenant de l'étofenprox comme seule substance active, 
 
 1° Pour les produits dont la première mise sur le marché est antérieure au 1er février 2010 :
 
-|
-
-|
-
-|
-
-Les risques sont évalués, et des mesures appropriées sont prises ou des conditions spécifiques sont imposées en vue d'atténuer les risques mis en évidence.
-
-L'autorisation d'un produit ne peut être accordée que si la demande d'autorisation démontre que les risques peuvent être ramenés à un niveau acceptable.
-
-|
-
-|
-
-|
-
 a) Le dépôt de dossier doit intervenir au plus tard le 31 janvier 2010.
 
 b) Les produits, pour lesquels aucun dossier n'a été déposé au 31 janvier 2010, ne doivent plus être mis sur le marché au 31 juillet 2010 au plus tard. Leur utilisation est interdite à partir du 1er février 2011.
 
-|
-
-|
-
-|
-
-Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
-
-Aux fins de cette évaluation :
-
-|
-
-|
-
-|
-
 c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
 
-|
-
-|
-
-|
-
-1) Etant donné les risques auxquels peuvent être exposés les travailleurs, les produits ne peuvent être utilisés tout au long de l'année sans que des données relatives à l'absorption par voie cutanée soient fournies afin de démontrer qu'il n'existe pas de risque lié à l'exposition chronique.
-
-|
-
-|
-
-|
-
 2° A compter du 1er février 2010, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l' article L. 522-4 du code de l'environnement
-
-|
-
-|
-
-|
-
-2) Les produits destinés à un usage industriel doivent être utilisés avec un équipement de protection individuelle approprié.
-
-|
-
-|
-
-|
 
 II. - Pour les produits contenant de l'étofenprox comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et qui ne sont pas inscrites au 1er février 2010 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
 
@@ -634,7 +588,7 @@ concernant la substance active
 
 DISPOSITIONS SPÉCIFIQUES
 
-pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32du code de l'environnement
+pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement
 
 |
 
@@ -652,7 +606,7 @@ d'expiration de l'inscription
 
 DÉLAIS POUR LA MISE
 
-en conformité des produits contenant la substance active avec l'article L. 522-4du code de l'environnement
+en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement
 
 |
 
@@ -1060,7 +1014,7 @@ Aux fins de cette évaluation, les autorisations sont soumises aux conditions su
 
 1° Etant donné les hypothèses émises au cours de l'évaluation des risques, les produits autorisés à des fins industrielles ou professionnelles doivent être utilisés avec un équipement de protection individuelle approprié, à moins qu'il puisse être prouvé dans la demande l'autorisation du produit que les risques pour les utilisateurs industriels ou professionnels peuvent être ramenés à un niveau acceptable par d'autres moyens ;
 
-2° Compte tenu des risques observés pour le sol et les eaux, des mesures appropriées visant à atténuer les risques doivent être prises pour protéger ces différents milieux. Les étiquettes et / ou les fiches de données de sécurité des produits autorisés pour une utilisation industrielle ou professionnelle indiquent notamment que le bois traité doit être stocké après son traitement sous abri et / ou sur une surface en dur imperméable pour éviter des pertes directes dans le sol et que les pertes doivent être récupérées en vue de leur réutilisation ou de leur élimination.
+2° Compte tenu des risques observés pour le sol et les eaux, des mesures appropriées visant à atténuer les risques doivent être prises pour protéger ces différents milieux. Les étiquettes et / ou les fiches de données de sécurité des produits autorisés pour une utilisation industrielle ou professionnelle indiquent notamment que le bois traité doit être stocké après son traitement sous abri et/ou sur une surface en dur imperméable pour éviter des pertes directes dans le sol et que les pertes doivent être récupérées en vue de leur réutilisation ou de leur élimination.
 
 |
 
@@ -1140,6 +1094,238 @@ II. - Pour les produits contenant du dazomet comme substance active associée à
 
 |
 
+Bifenthrine
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+2-méthylbiphényl-3-ylméthyl (1RS)-cis-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-diméthylcyclopropanecarboxylate
+
+N° CE : sans objet
+
+N° CAS : 82657-04-3
+
+Pureté minimale :
+
+911 g/kg
+
+|
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux environnementaux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union sont évalués.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes :
+
+1) Les produits sont autorisés uniquement à des fins industrielles ou professionnelles, à moins qu'il ne soit démontré, dans la demande d'autorisation du produit, que les risques pour les utilisateurs non professionnels peuvent être ramenés à un niveau acceptable, conformément à l'article L. 522-4 du code de l'environnement et à l'annexe VI ;
+
+2) Les produits autorisés à des fins industrielles ou professionnelles doivent être utilisés avec un équipement de protection individuelle approprié, à moins qu'il ne puisse être démontré, dans la demande d'autorisation du produit, que les risques pour les utilisateurs industriels ou professionnels peuvent être ramenés à un niveau acceptable par d'autres moyens ;
+
+3) Des mesures d'atténuation des risques appropriées doivent être prises pour protéger les sols et les eaux. En particulier, les étiquettes et, le cas échéant, les fiches de données de sécurité des produits autorisés doivent indiquer que le bois fraîchement traité doit, après traitement, être stocké sous abri ou sur une surface en dur imperméable pour éviter des pertes directes dans le sol ou les eaux et que les quantités perdues en raison de l'application du produit doivent être récupérées en vue de leur réutilisation ou de leur élimination ;
+
+4) Les produits ne doivent pas être autorisés pour le traitement in situ du bois à l'extérieur ni pour le bois qui sera exposé en permanence aux intempéries, ou protégé des intempéries mais souvent exposé à l'humidité, à moins que ne soient fournies des données démontrant que le produit remplira les exigences de l'article L. 522-4 du code de l'environnement et de l'annexe VI, le cas échéant grâce à des mesures d'atténuation des risques appropriées.
+
+|
+
+1er février 2013
+
+|
+
+31 janvier 2023
+
+|
+
+I. - Pour les produits contenant de la bifenthrine comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er février 2013 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er février 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 31 janvier 2013.
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 31 janvier 2013 ne doivent plus être mis sur le marché au 31 juillet 2013 au plus tard. Leur utilisation est interdite à partir du 1er février 2014.
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er février 2013, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant de la bifenthrine comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er février 2013 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
+Fénoxycarbe
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+Ethyl 2-(4-phénoxyphénoxy) éthylcarbamate
+
+N° CE : 276-696-7
+
+N° CAS : 72490-01-8
+
+Pureté minimale : 960 g/ kg
+
+|
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux environnementaux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union sont évalués.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes :
+
+1) Des mesures d'atténuation des risques appropriées sont prises pour protéger les sols et les eaux. En particulier, les étiquettes et, le cas échéant, les fiches de données de sécurité des produits autorisés indiquent que le bois fraîchement traité doit être stocké sous abri et/ ou sur une surface en dur imperméable pour éviter des pertes directes dans le sol ou dans les eaux, et que les quantités perdues en raison de l'application du produit doivent être récupérées en vue de leur réutilisation ou de leur élimination ;
+
+2) Les produits ne sont pas autorisés pour le traitement du bois qui sera utilisé dans les constructions en plein air situées à proximité de l'eau ou sur l'eau, à moins que ne soient fournies des données démontrant que les produits rempliront les exigences de l'article L. 522-4 du code de l'environnement et de l'annexe VI, le cas échéant grâce à des mesures d'atténuation des risques appropriées.
+
+|
+
+1er février 2013
+
+|
+
+31 janvier 2023
+
+|
+
+I. - Pour les produits contenant du fénoxycarbe comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er février 2013 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er février 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 31 janvier 2013.
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 31 janvier 2013 ne doivent plus être mis sur le marché au 31 juillet 2013 au plus tard. Leur utilisation est interdite à partir du 1er février 2014.
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er février 2013, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant du fénoxycarbe comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er février 2013 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
+Créosote
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+Créosote
+
+N° CE : 232-287-5
+
+N° CAS : 8001-58-9
+
+Pureté minimale : Créosote de classe B ou de classe C conformément à la norme européenne EN 13991 : 2003
+
+|
+
+Les produits biocides contenant de la créosote ne peuvent être autorisés que pour les utilisations pour lesquelles le ministre en charge de l'environnement conclut qu'il n'existe pas de produits de substitution appropriés, sur la base d'une analyse de la faisabilité technique et économique de la substitution que le demandeur doit soumettre en même temps que sa demande d'autorisation, ainsi que de toute autre information disponible.
+
+Il convient de soumettre la substance active à une évaluation comparative des risques conformément à l'article 10 de la directive n° 98/8/CE, paragraphe 5, point i), deuxième alinéa, avant le renouvellement de son inscription à la présente annexe.
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux environnementaux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union sont évalués.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes :
+
+1) La créosote ne peut être utilisée que dans les conditions figurant à l'annexe XVII, ligne 31, deuxième colonne, point 2, du règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/ CEE, 93/105/CE et 2000/21/CE de la Commission ;
+
+2) La créosote ne doit pas être autorisée pour le traitement du bois destiné aux utilisations visées à l'annexe XVII, ligne 31, deuxième colonne, point 3, du règlement (CE) n° 1907/2006 ;
+
+3) Des mesures d'atténuation des risques appropriées doivent être prises pour protéger les travailleurs, y compris les utilisateurs en aval, d'une exposition pendant le traitement du bois et la manipulation du bois traité, conformément au règlement (CE) n° 1907/2006 et à la directive 2004/37/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la protection des travailleurs contre les risques liés à l'exposition à des agents cancérigènes ou mutagènes au travail (sixième directive particulière au sens de l'article 16, paragraphe 1, de la directive 89/391/CEE du Conseil) ;
+
+4) Des mesures d'atténuation des risques appropriées doivent être prises pour protéger les sols et les eaux. En particulier, les étiquettes et, si elles sont fournies, les fiches de données de sécurité des produits autorisés doivent indiquer que le bois fraîchement traité doit être stocké sous abri ou sur une surface en dur imperméable, ou les deux, pour éviter des pertes directes dans les sols ou les eaux et que les pertes doivent être récupérées en vue de leur réutilisation ou de leur élimination.
+
+|
+
+1er mai 2013
+
+|
+
+30 avril 2018
+
+|
+
+I. - Pour les produitscontenant de la créosote comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er mai 2013 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er mai 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 30 avril 2013.
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 30 avril 2013 ne doivent plus être mis sur le marché au 30 octobre 2013 au plus tard. Leur utilisation est interdite à partir du 1er mai 2014.
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er mai 2013, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant de la créosote comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er mai 2013 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
+4,5-dichloro-2-octyl-2H-isothiazol-3-one
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+4,5-dichloro-2-octyl-3 (2H) isothiazolone
+
+N° CE : 264-843-8
+
+N° CAS : 64359-81-5
+
+Pureté minimale : 950 g/kg
+
+|
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux environnementaux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union sont évalués.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes :
+
+1) Les produits ne doivent pas être autorisés pour le traitement du bois qui sera exposé en permanence aux intempéries, ou protégé des intempéries mais souvent exposé à l'humidité ou en contact avec de l'eau douce, à moins que ne soient fournies des données démontrant que le produit remplira les exigences de l'article L. 522-4 du code de l'environnement et de l'annexe VI, le cas échéant grâce à des mesures d'atténuation des risques appropriées ;
+
+2) Dans le cas des produits autorisés à des fins industrielles ou professionnelles, des procédures opérationnelles sécurisées doivent être établies et les produits doivent être utilisés avec un équipement de protection individuelle approprié, à moins qu'il puisse être démontré, dans la demande d'autorisation du produit, que les risques pour les utilisateurs industriels ou professionnels peuvent être ramenés à un niveau acceptable par d'autres moyens ;
+
+3) Les étiquettes et, le cas échéant, les fiches de données de sécurité des produits autorisés indiquent que le bois fraîchement traité doit être stocké sous abri ou sur une surface en dur imperméable, ou les deux, pour éviter des pertes directes dans le sol ou dans les eaux, et que les quantités perdues résultant de l'application du produit doivent être récupérées en vue de leur réutilisation ou de leur élimination.
+
+|
+
+1er juillet 2013
+
+|
+
+30 juin 2023
+
+|
+
+I. - Pour les produits contenant du 4,5-dichloro-2-octyl-2H-isothiazol-3-one comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er juillet 2013 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er juillet 2013 :
+
+a) le dépôt de dossier doit intervenir au plus tard le 30 juin 2013.
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 30 juin 2013 ne doivent plus être mis sur le marché au 31 décembre 2013 au plus tard. Leur utilisation est interdite à partir du 1er juillet 2014.
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er juillet 2013, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant du 4,5-dichloro-2-octyl-2H-isothiazol-3-one comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er juillet 2013 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la pls tardive.
+
+|
+
 Type de produit 12 : produits antimoisissures
 
 SUBSTANCE
@@ -1158,7 +1344,7 @@ la substance active
 
 DISPOSITIONS SPÉCIFIQUES
 
-pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32du code de l'environnement
+pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement
 
 |
 
@@ -1176,7 +1362,7 @@ d'expiration de l'inscription
 
 DÉLAIS POUR LA MISE
 
-en conformité des produits contenant la substance active avec l'article L. 522-4du code de l'environnement
+en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement
 
 |
 
@@ -1194,7 +1380,7 @@ N° CAS : 107-02-8
 
 Pureté minimale :
 
-≥ 913 g / kg
+≥ 913 g/kg
 
 |
 
@@ -1206,7 +1392,7 @@ Aux fins de cette évaluation, les autorisations sont soumises aux conditions su
 
 1° Les eaux usées contenant de l'acroléine sont contrôlées avant d'être rejetées, à moins qu'il ne puisse être prouvé que les risques pour l'environnement peuvent être réduits par d'autres moyens. Si cela s'avère nécessaire au regard des risques pour le milieu marin, les eaux usées sont stockées dans des citernes ou des réservoirs ou traitées de manière appropriée avant d'être rejetées ;
 
-2° Les produits autorisés à des fins industrielles et / ou professionnelles doivent être utilisés avec un équipement de protection individuelle approprié et des procédures opérationnelles sécurisées doivent être établies, à moins qu'il ne puisse être prouvé dans la demande d'autorisation du produit que les risques pour les utilisateurs industriels et / ou professionnels peuvent être ramenés à un niveau acceptable par d'autres moyens.
+2° Les produits autorisés à des fins industrielles et / ou professionnelles doivent être utilisés avec un équipement de protection individuelle approprié et des procédures opérationnelles sécurisées doivent être établies, à moins qu'il ne puisse être prouvé dans la demande d'autorisation du produit que les risques pour les utilisateurs industriels et/ou professionnels peuvent être ramenés à un niveau acceptable par d'autres moyens.
 
 |
 
@@ -1242,7 +1428,7 @@ et des mesures de limitations
 
 prévues à l'
 
-article R. 522-32du code de l'environnement
+article R. 522-32 du code de l'environnement
 
 |
 
@@ -1264,7 +1450,7 @@ en conformité des produits contenant la substance active
 
 avec l'
 
-article L. 522-4du code de l'environnement
+article L. 522-4 du code de l'environnement
 
 |
 
@@ -1298,6 +1484,14 @@ Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la
 
 Aux fins de cette évaluation :
 
+1) La concentration nominale de la substance active dans les produits n'excède pas 0,0025 % p/p et seuls les appâts prêts à l'emploi sont autorisés ;
+
+2) Les produits doivent contenir un agent provoquant une aversion et, s'il y a lieu, un colorant ;
+
+3) Les produits ne doivent pas être utilisés comme poudre de piste ;
+
+4) L'exposition directe et indirecte de l'homme, des animaux non cibles et de l'environnement est minimisée par l'examen et l'application de toutes les mesures d'atténuation des risques disponibles et appropriées. Celles-ci incluent notamment la restriction du produit au seul usage professionnel, l'établissement d'une limite maximale applicable aux dimensions du conditionnement et l'obligation d'utiliser des caisses d'appâts inviolables et scellées.
+
 |
 
 01/11/2009
@@ -1313,26 +1507,6 @@ I. - Pour les produits contenant de la diféthialone comme seule substance activ
 1° Pour les produits dont la première mise sur le marché est antérieure au 1er novembre 2009 :
 
 a) Le dépôt de dossier doit intervenir au plus tard le 31 octobre 2009 ;
-
-|
-
-|
-
-|
-
-1) La concentration nominale de la substance active dans les produits n'excède pas 0,0025 % p/p et seuls les appâts prêts à l'emploi sont autorisés ;
-
-2) Les produits doivent contenir un agent provoquant une aversion et, s'il y a lieu, un colorant ;
-
-3) Les produits ne doivent pas être utilisés comme poudre de piste ;
-
-4) L'exposition directe et indirecte de l'homme, des animaux non cibles et de l'environnement est minimisée par l'examen et l'application de toutes les mesures d'atténuation des risques disponibles et appropriées. Celles-ci incluent notamment la restriction du produit au seul usage professionnel, l'établissement d'une limite maximale applicable aux dimensions du conditionnement et l'obligation d'utiliser des caisses d'appâts inviolables et scellées.
-
-|
-
-|
-
-|
 
 b) Les produits pour lesquels aucun dossier n'a été déposé au 31 octobre 2009 ne doivent plus être mis sur le marché au 30 avril 2010 au plus tard. Leur utilisation est interdite à partir du 1er novembre 2010 ;
 
@@ -1396,7 +1570,9 @@ II. - Pour les produits contenant du dioxyde de carbone comme substance active a
 
 |
 
-Difenacoum. |
+Difenacoum.
+
+|
 
 Identité :
 
@@ -2544,6 +2720,154 @@ II. - Pour les produits contenant du dioxyde de carbone comme substance active a
 
 |
 
+Abamectine
+
+|
+
+Identité :
+
+L'abamectine est un mélange d'avermectine B1a et d'avermectine B1b
+
+Abamectine :
+
+Nom UICPA : non disponible
+
+N° CE : non disponible
+
+N° CAS : 71751-41-2
+
+Avermectine B1a :
+
+Nom UICPA : (10E, 14E, 16E, 22Z)-(1R, 4S, 5'S, 6S, 6'R, 8R, 12S, 13S, 20R, 21R, 24S)-6'-[(S)-secbutyl]-21,24-dihydroxy-5', 11,13,22-tétraméthyl-2-oxo-3,7,19-trioxatétracyclo [15.6.1.14,8.020,24] pentacosa-10,14,16,22-tétraène-6-spiro-2'-(5', 6'-dihydro-2'H-pyran)-12-yl 2,6-dideoxy-4-O-(2,6-dideoxy-3-O-méthyl-α-L-arabino-hexopyranosyl)-3-O-méthyl-α-L-arabinohexopyranoside
+
+N° CE : 265-610-3
+
+N° CAS : 65195-55-3
+
+Avermectine B1b :
+
+Nom UICPA : (10E, 14E, 16E, 22Z)-(1R, 4S, 5'S, 6S, 6'R, 8R, 12S, 13S, 20R, 21R, 24S)-21,24-dihydroxy-6'-isopropyl-5', 11,13,22-tétraméthyl-2-oxo-3,7,19-trioxatétracyclo [15.6.1.14,8.020,24] pentacosa-10,14,16,22-tétraène-6-spiro-2'-(5', 6'-dihydro-2'H-pyran)-12-yl2, 6-didéoxy-4-O-(2,6-didéoxy-3-O-méthyl-α-L-arabino-hexopyranosyl)-3-O-méthyl-α-L-arabinohexopyranoside
+
+N° CE : 265-611-9
+
+N° CAS : 65195-56-4
+
+Pureté minimale :
+
+La substance active doit répondre à tous les critères de pureté suivants :
+
+Abamectine : 900 g/kg au minimum
+
+Avermectine B1a : 830 g/kg au minimum
+
+Avermectine B1b : 80 g/kg au maximum
+
+|
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux environnementaux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union sont évalués.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes :
+
+1) Les produits qui sont appliqués de telle manière que les rejets dans une station d'épuration sont inévitables ne sont pas autorisés aux doses pour lesquelles l'évaluation des risques réalisée au niveau de l'Union a mis en évidence des risques inacceptables, à moins que ne soient fournies des données démontrant que le produit satisfera aux exigences de l'article L. 522-4 du code de l'environnement et à l'annexe VI, le cas échéant grâce à l'application de mesures d'atténuation des risques appropriées ;
+
+2) Les autorisations ne doivent être délivrées que moyennant des mesures appropriées d'atténuation des risques. De telles mesures doivent être prises, en particulier, pour limiter le plus possible l'exposition potentielle des nourrissons et des enfants.
+
+|
+
+1er juillet 2013
+
+|
+
+30 juin 2023
+
+|
+
+I. - Pour les produits contenant de l'abamectine comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er juillet 2013 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er juillet 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 30 juin 2013.
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 30 juin 2013, ne doivent plus être mis sur le marché au 31 décembre 2013 au plus tard. Leur utilisation est interdite à partir du 1er juillet 2014.
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er juillet 2013, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant de l'abamectine comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er juillet 2013 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
+Imidaclopride
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+(2E)-1-[(6-chloropyridin-3-yl) méthyl]-N-nitroimidazolidin-2-imine
+
+N° CE : 428-040-8
+
+N° CAS : 6 138261-41-3
+
+Pureté minimale : 970 g/kg
+
+|
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux environnementaux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union sont évalués.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes :
+
+1) Les produits ne sont pas autorisés pour des utilisations dans des installations d'hébergement pour animaux lorsque des rejets vers une station d'épuration ou des émissions directes dans les eaux de surface sont inévitables, à moins que ne soient fournies des données démontrant que les produits rempliront les exigences de l'article L. 522-4 du code de l'environnement et de l'annexe VI, le cas échéant grâce à des mesures d'atténuation des risques appropriées ;
+
+2) Les autorisations ne doivent être délivrées que moyennant des mesures appropriées d'atténuation des risques. De telles mesures doivent être prises, en particulier, pour limiter le plus possible l'exposition potentielle des nourrissons et des enfants ;
+
+3) Dans le cas des produits contenant de l'imidaclopride dont des résidus peuvent subsister dans les denrées alimentaires ou les aliments pour animaux, la nécessité de fixer de nouvelles limites maximales de résidus (LMR) ou de modifier les limites existantes, conformément au règlement (CE) n° 470/2009 ou au règlement (CE) n° 396/2005 doit être évaluée, et toutes les mesures d'atténuation des risques appropriées pour empêcher le dépassement des LMR applicables doivent être prises.
+
+|
+
+1er juillet 2013
+
+|
+
+30 juin 2023
+
+|
+
+I. - Pour les produits contenant de l'imidaclopride comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er juillet 2013 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er juillet 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 30 juin 2013.
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 30 juin 2013 ne doivent plus être mis sur le marché au 31 décembre 2013 au plus tard. Leur utilisation est interdite à partir du 1er juillet 2014.
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er juillet 2013, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant de l'imidaclopride comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er juillet 2013 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Type de produit 19 : répulsifs et appâts
 
 SUBSTANCE
@@ -2662,6 +2986,110 @@ II. - Pour les produits contenant du N, N-diéthyl-méta-toluamide comme substan
 
 |
 
+Acétate de (Z, E)-tétradéca-9,12-diényle
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+(9Z, 12E)-Acétate de tétradéca-9,12-diényle-1-yl
+
+N° CE : sans objet
+
+N° CAS : 30507-70-1
+
+Pureté minimale :
+
+977 g/kg
+
+|
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux environnementaux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union sont évalués.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation, les autorisations sont soumises à la condition suivante :
+
+Les étiquettes des produits biocides contenant de l'acétate de (Z, E)-tétradéca-9,12-diényle doivent indiquer que ces produits ne doivent pas être utilisés dans des espaces où sont conservés des produits destinés à l'alimentation humaine ou animale non emballés.
+
+|
+
+1er février 2013
+
+|
+
+31 janvier 2023
+
+|
+
+I. - Pour les produits contenant de l'acétate de (Z, E)-tétradéca-9,12-diényle comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er février 2013 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er février 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 31 janvier 2013.
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 31 janvier 2013 ne doivent plus être mis sur le marché au 31 juillet 2013 au plus tard. Leur utilisation est interdite à partir du 1er février 2014.
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er février 2013, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant de l'acétate de (Z, E)-tétradéca-9,12-diényle comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er février 2013 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
+Acide nonanoïque, acide pélargonique
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+Acide nonanoïque
+
+N° CE : 203-931-2
+
+N° CAS : 112-05-0
+
+Pureté minimale :
+
+896 g/kg
+
+|
+
+Si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations et les milieux environnementaux n'ayant pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union sont évalués.
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+|
+
+1er février 2013
+
+|
+
+31 janvier 2023
+
+|
+
+I. - Pour les produits contenant de l'acide nonanoïque comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er février 2013 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er février 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 31 janvier 2013.
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 31 janvier 2013 ne doivent plus être mis sur le marché au 31 juillet 2013 au plus tard. Leur utilisation est interdite à partir du 1er février 2014.
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er février 2013, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant de l'acide nonanoïque comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er février 2013 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
 ANNEXE I A
 
 LISTE DES SUBSTANCES ACTIVES ET DES EXIGENCES S'Y RAPPORTANT APPROUVÉES AU NIVEAU COMMUNAUTAIRE POUR INCLUSION DANS LES PRODUITS BIOCIDES À FAIBLE RISQUE
@@ -2756,61 +3184,107 @@ I. - Pour les produits contenant du dioxyde de carbone comme seule substance act
 
 a) Le dépôt de dossier doit intervenir au plus tard le 31 octobre 2009 ;
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 b) Les produits pour lesquels aucun dossier n'a été déposé au 31 octobre 2009 ne doivent plus être mis sur le marché au 30 avril 2010 au plus tard. Leur utilisation est interdite à partir du 1er novembre 2010 ;
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 2° A compter du 1er novembre 2009, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
 II. - Pour les produits contenant du dioxyde de carbone comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er novembre 2009 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
+.
+
+Type de produit 19 : répulsifs et appâts
+
+SUBSTANCE
+
+active
+
+|
+
+SPÉCIFICATIONS
+
+concernant la substance active
+
+|
+
+DISPOSITIONS SPÉCIFIQUES
+
+pour la mise en œuvre des principes communs de l'annexe VI et des mesures de limitations prévues à l'article R. 522-32 du code de l'environnement
+
+|
+
+DATE
+
+d'inscription
+
+|
+
+DATE
+
+d'expiration de l'inscription
+
+|
+
+DÉLAIS POUR LA MISE
+
+en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement
+
+|
+
+Acétate de (Z, E)-tétradéca-9,12-diényle
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+(9Z, 12E)-Acétate de tétradéca-9,12-diényle-1-yl
+
+N° CE : sans objet
+
+N° CAS : 30507-70-1
+
+Pureté minimale :
+
+977 g/kg
+
+|
+
+Il sera tenu compte du contenu et des conclusions du rapport d'évaluation de la substance active.
+
+Aux fins de cette évaluation, les autorisations sont soumises aux conditions suivantes :
+
+1) Utilisation uniquement pour les pièges contenant au maximum 2 mg acétate de (Z, E)-tétradéca-9,12-diényle ;
+
+2) Les étiquettes des produits biocides contenant de l'acétate de (Z, E)-tétradéca-9,12-diényle doivent indiquer que ces produits ne doivent pas être utilisés dans des espaces où sont conservés des produits destinés à l'alimentation humaine ou animale non emballés.
+
+|
+
+1er février 2013
+
+|
+
+31 janvier 2023
+
+|
+
+I. - Pour les produits contenant de l'acétate de (Z, E)-tétradéca-9,12-diényle comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er février 2013 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er février 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 31 janvier 2013.
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 31 janvier 2013 ne doivent plus être mis sur le marché au 31 juillet 2013 au plus tard. Leur utilisation est interdite à partir du 1er février 2014.
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er février 2013, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant de l'acétate de (Z, E)-tétradéca-9,12-diényle comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er février 2013 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
 
 |
 
