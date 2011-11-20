@@ -172,7 +172,7 @@ Station de transit de produits minéraux ou de déchets non dangereux inertes au
 
 |
 
-1. supérieure à 75 000 m ³
+1. supérieure à 75 000 m³
 
 |
 
@@ -220,7 +220,9 @@ Installation de production de béton prêt à l'emploi équipée d'un dispositif
 
 |
 
-a) Supérieure à 3 m3 |
+a) Supérieure à 3 m3
+
+|
 
 E
 
@@ -1446,7 +1448,7 @@ Revêtement métallique ou traitement (nettoyage, décapage, conversion, polissa
 
 |
 
-1. Lorsqu'il y a mise en œuvre de cadmium
+1. Lorsqu'il y a mise en oeuvre de cadmium
 
 |
 
@@ -1528,7 +1530,7 @@ DC
 
 |
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium
+3. Traitement en phase gazeuse ou autres traitements sans mise en oeuvre de cadmium
 
 |
 
@@ -1794,7 +1796,9 @@ A
 
 |
 
-|
+1. Quelle que soit la capacité |
+
+6
 
 |
 
@@ -1810,7 +1814,11 @@ A
 
 |
 
+2. Quelle que soit la capacité
+
 |
+
+2
 
 |
 
@@ -1902,7 +1910,7 @@ Colorants et pigments organiques, minéraux et naturels (fabrication industriell
 
 |
 
-1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en oeuvre dans un procédé d'une autre installation
+1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en œuvre dans un procédé d'une autre installation
 
 |
 
@@ -2366,7 +2374,7 @@ Quelle que soit la capacité
 
 |
 
-Organismes génétiquement modifiés (installations où sont mis en œuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi n° 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché
+Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi n° 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché
 
 |
 
@@ -3036,9 +3044,7 @@ a) Supérieure ou égale à 50 t |
 
 |
 
-b) Supérieure ou égale à 1 t et inférieure à 50 t
-
-|
+b) Supérieure ou égale à 1 t et inférieure à 50 t |
 
 3
 
@@ -3974,7 +3980,9 @@ DC
 
 |
 
-a) Supérieure ou égale à 50 t/j |
+a) Supérieure ou égale à 50 t/j
+
+|
 
 6
 
@@ -3986,7 +3994,9 @@ a) Supérieure ou égale à 50 t/j |
 
 |
 
-b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j |
+b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
+
+|
 
 3
 
@@ -3998,7 +4008,9 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j |
 
 |
 
-2. Non soumis à la taxe |
+2. Non soumis à la taxe
+
+|
 
 -
 
@@ -4824,7 +4836,7 @@ DC
 
 |
 
-3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en oeuvre est :
+3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est :
 
 |
 
@@ -4870,7 +4882,7 @@ DC
 
 |
 
-Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55o C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2 e catégorie (point éclair supérieur ou égal à 55o C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
+Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en oeuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55o C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55o C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
 
 |
 

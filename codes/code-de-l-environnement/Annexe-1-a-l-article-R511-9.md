@@ -1748,7 +1748,7 @@ La quantité totale de l'une de ces substances et mélanges en contenant suscept
 
 |
 
-1. La quantité totale de l'une de ces substances et préparations en contenant susceptible d'être présente dans l'installation étant :
+1. La quantité totale de l'un de ces produits (à des concentrations en poids supérieures à 5 %) susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -1770,9 +1770,7 @@ a) Supérieure ou égale à 2 t
 
 |
 
-10
-
-|
+10 |
 
 b) Inférieure à 2 t
 
@@ -1804,7 +1802,7 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
-2. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+2. La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -1822,9 +1820,7 @@ AS
 
 |
 
-a) Supérieure ou égale à 10 kg
-
-|
+a) Supérieure ou égale à 10 kg |
 
 10
 
@@ -1878,9 +1874,7 @@ AS
 
 |
 
-a) supérieure ou égale à 100 kg
-
-|
+a) supérieure ou égale à 100 kg |
 
 10
 
@@ -1916,7 +1910,7 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
 
 |
 
-4. La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
+4. La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -2046,9 +2040,7 @@ AS
 
 |
 
-a) supérieure ou égale à 1 t
-
-|
+a) supérieure ou égale à 1 t |
 
 10
 
@@ -2066,7 +2058,7 @@ A
 
 |
 
-b) supérieure ou égale à 200 kg, mais inférieure à 1 t
+b) inférieure à 1 t
 
 |
 
@@ -2102,9 +2094,7 @@ AS
 
 |
 
-a) supérieure ou égale à 2 t
-
-|
+a) supérieure ou égale à 2 t |
 
 10
 
@@ -2122,7 +2112,7 @@ A
 
 |
 
-b) supérieure ou égale à 1 t, mais inférieure à 2 t
+b) inférieure à 2 t
 
 |
 
@@ -2158,9 +2148,7 @@ AS
 
 |
 
-a) supérieure ou égale à 20 t
-
-|
+a) supérieure ou égale à 20 t |
 
 10
 
@@ -2178,7 +2166,7 @@ A
 
 |
 
-b) supérieure ou égale à 10 t, mais inférieure à 20 t
+b) inférieure à 20 t
 
 |
 
@@ -2214,9 +2202,7 @@ AS
 
 |
 
-a) supérieure ou égale à 50 t
-
-|
+a) supérieure ou égale à 50 t |
 
 10
 
@@ -2234,7 +2220,7 @@ A
 
 |
 
-b) supérieure ou égale à 5 t, mais inférieure à 50 t
+b) inférieure à 50 t
 
 |
 
@@ -2266,9 +2252,7 @@ AS |
 
 6 |
 
-a) supérieure ou égale à 100 t
-
-|
+a) supérieure ou égale à 100 t |
 
 10
 
@@ -2286,7 +2270,7 @@ A
 
 |
 
-b) supérieure ou égale à 10 t, mais inférieure à 100 t
+b) inférieure à 100 t
 
 |
 
@@ -2382,6 +2366,8 @@ La quantité totale de l'une de ces substances et mélanges en contenant suscept
 
 |
 
+1. La quantité totale de l'un de ces produits (à des concentrations en poids supérieures à 5 %) susceptible d'être présente dans l'installation étant :
+
 |
 
 |
@@ -2398,7 +2384,11 @@ AS
 
 |
 
+a) supérieure ou égale à 2 t
+
 |
+
+10
 
 |
 
@@ -2414,7 +2404,11 @@ A
 
 |
 
+b) supérieure ou égale à 400 kg, mais inférieure à 2 t
+
 |
+
+6
 
 |
 
@@ -2442,6 +2436,8 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
+2. La quantité totale susceptible d'être présente dans l'installation étant :
+
 |
 
 |
@@ -2458,7 +2454,11 @@ AS
 
 |
 
+a) supérieure ou égale à 10 kg
+
 |
+
+10
 
 |
 
@@ -2474,7 +2474,11 @@ A
 
 |
 
+b) supérieure ou égale à 2 kg, mais inférieure à 10 kg
+
 |
+
+6
 
 |
 
@@ -2502,7 +2506,7 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
-|
+3. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -2518,7 +2522,11 @@ AS
 
 |
 
+a) supérieure ou égale à 100 kg
+
 |
+
+10
 
 |
 
@@ -2534,7 +2542,9 @@ A
 
 |
 
-|
+b) supérieure ou égale à 20 kg, mais inférieure à 100 kg |
+
+6
 
 |
 
@@ -2562,7 +2572,7 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
 
 |
 
-|
+4. La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -2578,7 +2588,9 @@ AS
 
 |
 
-|
+a) supérieure ou égale à 150 kg |
+
+10
 
 |
 
@@ -2594,7 +2606,11 @@ A
 
 |
 
+b) supérieure ou égale à 30 kg, mais inférieure à 150 kg
+
 |
+
+6
 
 |
 
@@ -2622,6 +2638,8 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
+5. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
 |
 
 |
@@ -2638,7 +2656,9 @@ AS
 
 |
 
-|
+a) supérieure ou égale à 1 t |
+
+10
 
 |
 
@@ -2654,7 +2674,9 @@ A
 
 |
 
-|
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t |
+
+6
 
 |
 
@@ -2680,6 +2702,8 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
+6. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
 |
 
 |
@@ -2696,7 +2720,9 @@ AS
 
 |
 
-|
+a) supérieure ou égale à 1 t |
+
+10
 
 |
 
@@ -2712,7 +2738,9 @@ A
 
 |
 
-|
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t |
+
+6
 
 |
 
@@ -2740,6 +2768,8 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
+7. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
 |
 
 |
@@ -2756,7 +2786,9 @@ AS
 
 |
 
-|
+a) supérieure ou égale à 2 t |
+
+10
 
 |
 
@@ -2770,7 +2802,11 @@ A
 
 |
 
+b) supérieure ou égale à 1 t, mais inférieure à 2 t
+
 |
+
+6
 
 |
 
@@ -2798,7 +2834,7 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
 
 |
 
-|
+8. La quantité totale de ce produit susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -2814,7 +2850,9 @@ AS
 
 |
 
-|
+a) supérieure ou égale à 20 t |
+
+10
 
 |
 
@@ -2830,7 +2868,9 @@ A
 
 |
 
-|
+b) supérieure ou égale à 10 t, mais inférieure à 20 t |
+
+6
 
 |
 
@@ -2858,7 +2898,7 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
-|
+9. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -2874,7 +2914,9 @@ AS
 
 |
 
-|
+a) supérieure ou égale à 50 t |
+
+10
 
 |
 
@@ -2890,7 +2932,11 @@ A
 
 |
 
+b) supérieure ou égale à 5 t, mais inférieure à 50 t
+
 |
+
+6
 
 |
 
@@ -2918,6 +2964,8 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
 
 |
 
+10. La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
+
 |
 
 |
@@ -2934,7 +2982,11 @@ AS
 
 |
 
+a) supérieure ou égale à 100 t
+
 |
+
+10
 
 |
 
@@ -2950,7 +3002,11 @@ A
 
 |
 
+b) supérieure ou égale à 10 t, mais inférieure à 100 t
+
 |
+
+6
 
 |
 
@@ -2978,6 +3034,8 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
+11. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
 |
 
 |
@@ -2994,7 +3052,11 @@ AS
 
 |
 
+a) supérieure ou égale à 1 kg
+
 |
+
+10
 
 |
 
@@ -3010,7 +3072,11 @@ A
 
 |
 
+b) supérieure ou égale à 200 g, mais inférieure à 1 kg
+
 |
+
+6
 
 |
 
@@ -3652,7 +3718,7 @@ La quantité de liquides organohalogénés susceptible d'être présente dans l'
 
 |
 
-1. La quantité de liquides organohalogénés susceptible d'être présente étant :
+1. La quantité de liquides organohalogénés susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -4018,9 +4084,7 @@ Comburants (fabrication, emploi ou stockage de substances ou mélanges) tels que
 
 1. Fabrication.
 
-La quantité totale susceptible d'être présente dans l'installation étant :
-
-|
+La quantité totale susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -4044,9 +4108,7 @@ AS
 
 |
 
-a) supérieure ou égale à 200 t
-
-|
+a) supérieure ou égale à 200 t |
 
 10
 
@@ -4064,7 +4126,7 @@ A
 
 |
 
-b) supérieure ou égale à 50 t, mais inférieure à 200 t
+b) inférieure à 200 t
 
 |
 
@@ -4098,9 +4160,7 @@ AS
 
 |
 
-a) supérieure ou égale à 200 t
-
-|
+a) supérieure ou égale à 200 t |
 
 6
 
@@ -4926,7 +4986,9 @@ a) Supérieure ou égale à 100 kg
 
 |
 
-b) Inférieure à 100 kg |
+b) Inférieure à 100 kg
+
+|
 
 DC
 
