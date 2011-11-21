@@ -30,7 +30,7 @@ la longitude 45° Ouest
 
 |
 
-OP SATHOAN
+OP SA. THO. AN
 
 |
 
@@ -122,13 +122,73 @@ Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de p�
 
 |
 
-|
-
-Total SATHOAN
+Total SA. THO. AN
 
 |
 
 434,5
+
+|
+
+0
+
+|
+
+OP PRO. QUA. PORT
+
+|
+
+863686
+
+|
+
+Chrisderic II
+
+|
+
+49,7
+
+|
+
+0
+
+|
+
+Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
+
+|
+
+17,2 (2)
+
+|
+
+0
+
+|
+
+|
+
+917384
+
+|
+
+Petit Tom
+
+|
+
+2,7
+
+|
+
+0
+
+|
+
+Total PRO. QUA. PORT
+
+|
+
+69,6
 
 |
 
@@ -204,11 +264,25 @@ Eric Marin
 
 |
 
+Total STM
+
+|
+
+243,8
+
+|
+
+0
+
+|
+
+|
+
 733526
 
 |
 
-La rose des vents
+La Rose des vents
 
 |
 
@@ -220,33 +294,11 @@ La rose des vents
 
 |
 
-|
-
-Total STM
+Navires non adhérents à une organisation de producteurs pêchant à la canne, à la ligne ou à la palangre "petits métiers" titulaires d'un permis de pêche spécial "thon rouge" à l'exception du navire 733526
 
 |
 
-244,4
-
-|
-
-0
-
-|
-
-OP PRO. QUA. PORT
-
-|
-
-863686
-
-|
-
-Chrisderic II
-
-|
-
-49,7
+45,5 (3)
 
 |
 
@@ -254,27 +306,11 @@ Chrisderic II
 
 |
 
-Canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
+Total
 
 |
 
-17,2 (2)
-
-|
-
-0
-
-|
-
-917384
-
-|
-
-Petit Tom
-
-|
-
-2,7
+794
 
 |
 
@@ -282,48 +318,10 @@ Petit Tom
 
 |
 
-|
+(1) Dont 12 t maximum sont composées de thon rouge pesant entre 8 kg et 30 kg.
 
-Total PRO. QUA. PORT
+(2) Dont 10 t maximum sont composées de thon rouge pesant entre 8 kg et 30 kg.
 
-|
-
-69,6
-
-|
-
-0
-
-|
-
-Navires non adhérant à une organisation de producteurs pêchant à la canne, à la ligne ou à la palangre "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
-
-|
-
-49,5 (3)
-
-|
-
-0
-
-|
-
-|
-
-Total |
-
-798
-
-|
-
-0
-
-|
-
-(1) Dont 12 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
-
-(2) Dont 10 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
-
-(3) Dont 22 t maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
+(3) Dont 22 t maximum sont composées de thon rouge pesant entre 8 kg et 30 kg.
 
 |
