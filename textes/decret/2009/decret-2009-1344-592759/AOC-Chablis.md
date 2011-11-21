@@ -1,6 +1,6 @@
 # Article AOC "Chablis"
 
-CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉEES " PETIT CHABLIS ", " CHABLIS " ET " CHABLIS GRAND CRU "
+CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉEES " PETIT CHABLIS " et " CHABLIS "
 
 Chapitre Ier
 
@@ -10,17 +10,15 @@ Seuls peuvent prétendre aux appellations d'origine contrôlées :
 
 -" Petit Chablis ", initialement reconnue par le décret du 5 janvier 1944 ;
 
--" Chablis " et " Chablis Grand Cru " initialement reconnues par le décret du 13 janvier 1938, les vins répondant aux dispositions particulières fixées ci-après.
+-" Chablis " initialement reconnues par le décret du 13 janvier 1938, les vins répondant aux dispositions particulières fixées ci-après.
 
 II.-Dénominations géographiques et mentions complémentaires
 
 Pour les seuls vins produits dans les parcelles délimitées en " premier cru ", le nom de l'appellation " Chablis " peut être complété soit par le nom du climat d'origine, soit par l'expression " premier cru ", soit par l'un et l'autre pour les vins répondant aux conditions de production fixées pour ces mentions dans le présent cahier des charges.
 
-Le nom de l'appellation " Chablis Grand Cru " peut être complété d'un des noms de climat " Blanchot ", " Bougros ", " Les Clos ", " Grenouilles ", " Preuses ", " Valmur " et " Vaudésir ", pour les vins répondant aux conditions de production fixées pour ces mentions dans le présent cahier des charges.
-
 III.-Couleur et types de produit
 
-Les appellations d'origine contrôlées " Petit Chablis ", " Chablis " et " Chablis Grand Cru " sont réservées aux vins tranquilles blancs.
+Les appellations d'origine contrôlées " Petit Chablis "et " Chablis " sont réservées aux vins tranquilles blancs.
 
 IV.-Aires et zones dans lesquelles différentes opérations sont réalisées
 
@@ -1194,8 +1192,6 @@ La charge maximale moyenne à la parcelle est fixée à :
 
 10 000 kilogrammes par hectare pour l'appellation " Chablis " complétée de la mention " premier cru " suivie éventuellement d'un nom de climat ;
 
-9 500 kilogrammes par hectare pour l'appellation " Chablis Grand Cru ".
-
 e) Seuil de manquants.
 
 Le pourcentage de pieds de vigne morts ou manquants visé à l'article D. 644-22 du code rural est fixé à 20 %.
@@ -1272,11 +1268,11 @@ Chablis complétée soit par le nom du climat d'origine, soit par l'expression "
 
 10, 5 % |
 
-Chablis Grand Cru |
+|
 
-170 |
+|
 
-11 % |
+|
 
 VIII.-Rendements.-Entrée en production
 
@@ -1298,10 +1294,6 @@ Chablis complétée soit par le nom du climat d'origine, soit par l'expression "
 
 58 |
 
-Chablis Grand Cru |
-
-54 |
-
 2° Rendement butoir :
 
 Le rendement butoir visé à l'article D. 644-25 du code rural est fixé à :
@@ -1319,10 +1311,6 @@ Petit Chablis et Chablis |
 Chablis complétée soit par le nom du climat d'origine, soit par l'expression " premier cru ", soit par l'un et l'autre |
 
 68 |
-
-Chablis Grand Cru |
-
-64 |
 
 3° Rendement maximum de production :
 
@@ -1374,9 +1362,7 @@ Après enrichissement, les vins ne dépassent pas un titre alcoométrique volumi
 
 13 % pour l'appellation " Chablis " ;
 
-13, 5 % pour l'appellation " Chablis " complétée soit par le nom du climat d'origine, soit par l'expression " premier cru ", soit par l'un et l'autre ;
-
-13, 5 % pour l'appellation " Chablis Grand Cru ".
+13, 5 % pour l'appellation " Chablis " complétée soit par le nom du climat d'origine, soit par l'expression " premier cru ", soit par l'un et l'autre.
 
 f) Matériel interdit.
 
@@ -1397,8 +1383,6 @@ Le chai et le matériel doivent être bien entretenus ; cela se traduit notammen
 -une absence de substances à risque ou odorantes dans les locaux de vinification, d'élevage et de stockage (odeur).
 
 i) Elevage.
-
-Pour l'appellation " Chablis Grand Cru ", les vins font l'objet d'un élevage au minimum jusqu'au 15 mars de l'année qui suit celle de la récolte.
 
 La température des contenants au cours de la phase d'élevage doit être maîtrisée et inférieure ou égale à 25° C.
 
@@ -1426,8 +1410,6 @@ a) Date de mise en marché à destination du consommateur.
 
 Pour les appellations " Petit Chablis " et " Chablis ", les vins sont mis en marché à destination du consommateur selon les dispositions de l'article D. 644-35 du code rural.
 
-Pour l'appellation " Chablis Grand Cru ", à l'issue de la période d'élevage, les vins ne sont mis en marché à destination du consommateur qu'après le 31 mars de l'année qui suit celle de la récolte.
-
 b) Période au cours de laquelle les vins ne peuvent circuler entre entrepositaires agréés.
 
 Pas de disposition particulière.
@@ -1450,7 +1432,7 @@ XII.-Règles de présentation et étiquetage
 
 1° Dispositions générales :
 
-Les vins pour lesquels, aux termes du présent cahier des charges, sont revendiquées les appellations d'origine contrôlées " Petit Chablis ", " Chablis " et " Chablis Grand Cru " qui sont présentés sous lesdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, les appellations d'origine contrôlées susvisées soient inscrites et accompagnées de la mention " Appellation contrôlée ", le tout en caractères très apparents.
+Les vins pour lesquels, aux termes du présent cahier des charges, sont revendiquées les appellations d'origine contrôlées " Petit Chablis " et " Chablis " qui sont présentés sous lesdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, les appellations d'origine contrôlées susvisées soient inscrites et accompagnées de la mention " Appellation contrôlée ", le tout en caractères très apparents.
 
 2° Dispositions particulières :
 
