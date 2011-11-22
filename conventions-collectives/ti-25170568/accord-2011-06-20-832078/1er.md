@@ -1,6 +1,6 @@
 # Article 1er
 
-Il est créé et désigné un organisme paritaire collecteur agréé (OPCA) interbranches des secteurs des industries alimentaires, de la coopération agricole et des services associés.
+Il est créé et désigné un organisme paritaire collecteur agréé (OPCA) interbranches des industries alimentaires, de la coopération agricole et de l'alimentation en détail.
 
 Cet OPCA est constitué sous la forme d'une association sans but lucratif et à gestion paritaire régie par les dispositions de la loi du 1er juillet 1901 et par les textes législatifs et réglementaires relatifs aux organismes paritaires collecteurs agréés.
 
