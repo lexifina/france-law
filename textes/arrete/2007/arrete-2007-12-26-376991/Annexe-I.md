@@ -48,13 +48,13 @@ Chef du bureau de la nationalité, des titres d'identité et de voyage.
 
 |
 
-Chef du bureau du contentieux des polices administratives. |
+Chef du bureau du contentieux des étrangers. |
 
 50
 
 |
 
-Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières.
+Chef du bureau du contentieux indemnitaire et des affaires financières.
 
 |
 
