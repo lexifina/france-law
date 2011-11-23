@@ -252,7 +252,7 @@ Spécifications :
 
 II - EXTINCTEUR
 
-L'extincteur devant être disposé à proximité du chauffeur, en application des dispositions de l'article 17 du présent arrêté, doit être conforme aux dispositions de l'arrêté du 24 octobre 1984 modifié portant mise en application obligatoire de normes ou à des spécifications équivalentes en vigueur dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen. Il doit être conçu, ainsi que son support, pour résister aux conditions de transport dans les véhicules et ses capacités et performances doivent au minimum être les suivantes :
+L'extincteur devant être disposé à proximité du chauffeur, en application des dispositions de l'article 64 du présent arrêté, doit être conforme aux dispositions de l'arrêté du 24 octobre 1984 modifié portant mise en application obligatoire de normes ou à des spécifications équivalentes en vigueur dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen. Il doit être conçu, ainsi que son support, pour résister aux conditions de transport dans les véhicules et ses capacités et performances doivent au minimum être les suivantes :
 
 GENRE D'EXTINCTEUR
 
@@ -335,7 +335,3 @@ A titre d'exemple, les extincteurs conformes aux dispositions de l'arrêté du 2
 A l'intérieur des compartiments réservés aux passagers, l'utilisation d'extincteurs ou d'aérosols à hydrocarbures halogénés est prohibée.
 
 L'extincteur doit pouvoir être retiré facilement de son support et doit faire l'objet d'une vérification annuelle et être entretenu selon les règles de l'art. La date limite à laquelle doit avoir lieu la prochaine vérification doit être portée sur l'extincteur, la première vérification devant intervenir au plus tard un an après la mise en circulation du véhicule.
-
-NOTA :
-
-(1) Exemple dans le cas d'un seul extincteur sur un véhicule qui n'est pas un autocar de faible capacité.
