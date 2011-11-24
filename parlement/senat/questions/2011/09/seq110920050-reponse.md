@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110920050
+
+- Question : [SEQ110920050](seq110920050.md) — Navigation dans les bouches de Bonifacio
+
+## Réponse
+
+*Écologie, JO du 2011-11-24, page 3000*
+
+Accorder le statut de zone maritime particulièrement vulnérable (ZMPV) à une zone de navigation maritime permet aux États riverains d'adopter des mesures d'accompagnement de nature à restreindre ou sécuriser le trafic maritime. Ces mesures sont principalement des mesures d'organisation du trafic maritime ayant pour but de réglementer ou d'organiser la circulation des navires à proximité des zones les plus sensibles écologiquement. Suite au Grenelle de la mer, la France a, en accord avec l'Italie, engagé une procédure de classement du détroit des bouches de Bonifacio en zone maritime particulièrement vulnérable. La demande a été déposée auprès du Comité pour la protection du milieu marin (MEPC) de l'Organisation maritime internationale (OMI) en juin 2010. Ce dernier est en effet le comité compétent pour la désignation des ZMPV. Elle a été examinée deux fois en septembre 2010 et en juillet 2011. Tout au long de cette procédure, la France a sensibilisé les participants (États membres, ONG) à l'intérêt écologique exceptionnel du détroit ainsi qu'à sa vulnérabilité aux risques qu'y présente la navigation maritime en raison de ses caractéristiques géographiques (chenal étroit, écueils) et des conditions météorologiques. La décision positive du MEPC en juillet consacre les efforts engagés par les deux pays. Il s'agit de la première ZMPV créée en Méditerranée. La France et l'Italie travaillent maintenant à la mise en place d'un service commun de pilotage hauturier des navires empruntant les bouches de Bonifacio. La création de ce service constituera la première mesure de protection associée à ce classement.
