@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100111805
+
+- Question : [SEQ100111805](seq100111805.md) — Avenir du baccalauréat professionnel « usinage » au lycée Félix-Le-Dantec de Lannion
+
+## Réponse
+
+*Éducation, JO du 2011-11-24, page 3003*
+
+La décision prise par le recteur de l'académie de Rennes de déplacer la filière de technicien d'usinage au lycée de Saint-Brieuc s'est inscrite dans le cadre de l'adaptation de la carte des formations professionnelles 2010, qui a fait l'objet d'une large concertation entre le recteur et les services de la région. La demande des familles et les possibilités d'insertion figurent parmi les critères qui interviennent dans cette décision. À cet égard, la suppression de filière technicien d'usinage a pris en compte la faible demande confirmée par les effectifs actuels en terminale de baccalauréat professionnel deux ans qui accueille onze élèves et cinq élèves en première professionnelle dans le cycle trois ans. Plus généralement, la suppression de cette spécialité au lycée s'est accompagnée d'une offre cohérente centrée sur les filières électroniques, énergies, informatique numérique et réseaux, depuis le CAP jusqu'aux baccalauréats, BTS et licences professionnelles : baccalauréat professionnel « systèmes électronique numérique » ; 3 spécialités du baccalauréat technologique STI2D : « énergies et environnement » ; « systèmes d'information et numérique » et « innovation technologique et écoconception » ; 2 BTS : « informatique et réseaux pour l'industrie et les services techniques (IRIS) », « électrotechnique », « génie optique photonique » ; 3 licences professionnelles : « intégration des systèmes, voix et données pour l'entreprise (ISVD) », « management informatique et commercial (MIC) », « mécanique ingénierie numérique » sont organisées en partenariat avec les IUT de Lannion et de Rennes.
