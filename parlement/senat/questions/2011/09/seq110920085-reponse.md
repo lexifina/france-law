@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110920085
+
+- Question : [SEQ110920085](seq110920085.md) — Mise en place du Conseil supérieur des gens de mer
+
+## Réponse
+
+*Écologie, JO du 2011-11-24, page 3000*
+
+Le décret n° 2010-1009 du 30 août 2010 relatif à l'organisation administrative et financière de l'Établissement national des invalides de la marine (ENIM) a supprimé le conseil supérieur de l'ENIM et mis en place, au sein de l'établissement une nouvelle gouvernance plus resserrée et conforme au droit commun. Parallèlement, le comité interministériel de la mer, réuni le 8 décembre 2009, a adopté la création d'un conseil supérieur des gens de la mer, doté de prérogatives élargies. Il se substituera non seulement à l'ancien conseil supérieur de l'ENIM mais également au conseil supérieur de la prévention des risques professionnels et du bien-être des gens de la mer. Cette réforme permettra de ne pas multiplier les conseils consultatifs et de jouer la complémentarité, en garantissant à l'ensemble des acteurs du secteur maritime la continuité du dialogue avec l'État sur l'ensemble des sujets les concernant. Au sein des formations compétentes du conseil, les représentants des différentes associations maritimes, notamment les représentants des marins des secteurs du commerce, de la pêche maritime, des cultures marines et de la plaisance professionnelle ainsi que les représentants de l'Association nationale des pensionnés de la marine marchande auront toutes facultés à faire valoir leurs revendications lors des réunions du conseil. Le projet de décret portant création du conseil supérieur des gens de mer a reçu un avis favorable du conseil supérieur de la prévention des risques professionnels et du bien-être des gens de mer. Il sera soumis à la fin du mois à l'examen du Conseil d'État, avant sa publication au Journal officiel de la République française, dans la perspective d'une première réunion du conseil début 2012.
