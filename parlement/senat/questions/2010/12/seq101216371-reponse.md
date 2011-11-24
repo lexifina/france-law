@@ -1,0 +1,9 @@
+# Réponse à la question SEQ101216371
+
+- Question : [SEQ101216371](seq101216371.md) — Situation au Sahara occidental
+
+## Réponse
+
+*Affaires étrangères, JO du 2011-11-24, page 2987*
+
+La France est mobilisée pour qu'un règlement soit trouvé à la question du Sahara occidental dans le cadre des Nations unies. Le maintien du statu quo n'est pas souhaitable. Le plan d'autonomie proposé par le Maroc au Conseil de sécurité le 11 avril 2007 a ainsi constitué une avancée notable : en prévoyant la consultation des populations des territoires à l'issue de ces négociations, il préserve le droit à l'autodétermination et offre une base de négociation pertinente pour résoudre ce conflit. C'est pourquoi la France, en tant que membre permanent du Conseil de sécurité, a voté en 2007 en faveur de la résolution 1754 qui qualifiait les efforts marocains de « sérieux et crédibles » et appelait les parties à engager des négociations. La France regrette que ces perspectives de résolution du conflit ne se soient pour l'instant pas concrétisées, malgré quatre sessions de négociations à Manhasset de juin 2007 à mars 2008 et plusieurs sessions de pourparlers informels, dont la dernière s'est tenue du 19 au 21 juillet 2011 à Greentree aux États-Unis, et maintient son plein soutien à l'envoyé personnel du secrétaire général des Nations unies pour le Sahara occidental, M. Christopher Ross. La France continuera à soutenir les efforts de négociation sous l'égide des Nations unies et considère que le dialogue politique est la meilleure voie pour parvenir à une solution juste, durable et mutuellement acceptable au Sahara occidental. La nouvelle Constitution marocaine, adoptée par référendum le 1er juillet 2011, permet d'ouvrir de nouvelles perspectives, dans le cadre d'une régionalisation plus poussée, renforçant les droits et les libertés des populations concernées.
