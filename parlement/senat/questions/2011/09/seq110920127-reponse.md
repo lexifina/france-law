@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110920127
+
+- Question : [SEQ110920127](seq110920127.md) — Prolifération de la chenille processionnaire dans la forêt landaise
+
+## Réponse
+
+*Agriculture, JO du 2011-11-24, page 2989*
+
+Suite aux dégâts générés par la tempête Klaus du 23 janvier 2009, le ministère de l'agriculture a bien pris la mesure de la situation phytosanitaire du massif forestier aquitain et les aides financières nécessaires ont été allouées. S'agissant des scolytes, un plan de lutte a été élaboré dès 2010 par ses services en concertation avec les professionnels. Il comprend aujourd'hui : un dispositif de surveillance des scolytes à l'échelle du massif forestier ; une exploitation prioritaire des peuplements victimes de scolytes et un broyage systématique des rémanents forestiers après exploitation. Un accompagnement financier spécifique a été mis en place pour ces actions ; un traitement systématique des piles de bois en bordure de route, cofinancé par l'État, les collectivités et la fédération des industries du bois d'Aquitaine ; la mise en place d'essais destinés à expérimenter de nouvelles méthodes de lutte. S'agissant de la chenille processionnaire du pin, si le massif forestier a connu une défoliation presque totale sur environ 4 % de sa surface durant l'hiver 2009-2010, les populations de chenilles ont fortement régressé durant l'hiver 2010-2011 et les observations en cours augurent d'une poursuite de la régression pour l'hiver 2011-2012. Suite à une saisine par le ministère de l'agriculture, l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail a estimé, dans un avis rendu le 9 septembre 2011, que, dans ce contexte, un traitement contre la chenille processionnaire du pin à l'automne 2011 dans le massif forestier des Landes n'était pas justifié.
