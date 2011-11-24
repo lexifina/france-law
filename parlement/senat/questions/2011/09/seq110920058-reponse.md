@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110920058
+
+- Question : [SEQ110920058](seq110920058.md) — Insertion par l'activité économique et contrats de performance
+
+## Réponse
+
+*Travail, JO du 2011-11-24, page 3028*
+
+Le ministre du travail, de l'emploi et de la santé a pris connaissance avec intérêt de la question relative aux préoccupations des structures d'insertion par l'activité économique au regard du projet de « contrats de performance ». La réunion de l'assemblée plénière du Conseil national de l'insertion par l'activité économique (CNIAE) du 4 juillet 2011 a été l'occasion de rappeler la place essentielle de ce secteur dans les politiques de l'emploi. L'État y consacre des crédits budgétaires importants, qui ont été augmentés de plus de 60 % depuis 2005, notamment dans le cadre du plan de cohésion sociale et du plan de relance de l'économie en 2009. Pour 2011, l'État a confirmé son soutien à l'insertion par l'activité économique (IAE) en prévoyant en loi de finances 2011 plus de 197 M€ de crédits pour le financement de l'aide à l'accompagnement dans les ateliers et chantiers d'insertion et associations intermédiaires, le financement de l'aide aux postes dans les entreprises d'insertion et entreprises de travail temporaire d'insertion, le financement du fonds départemental d'insertion. Ces crédits ont été maintenus dans un contexte de restriction budgétaire qui a impacté la plupart des dispositifs de la politique de l'emploi. Dans la lignée de la feuille de route du « Grenelle de l'insertion », une réflexion est engagée pour réformer le financement des structures d'insertion par l'activité économique (SIAE). Pour toutes les SIAE, l'objectif est d'aboutir à un financement plus lisible et plus dynamique qui favorise la coordination entre les financeurs et d'améliorer la qualité de l'accompagnement pour les personnes éloignées de l'emploi.
