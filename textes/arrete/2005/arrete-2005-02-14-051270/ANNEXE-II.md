@@ -1,167 +1,55 @@
 # Article ANNEXE II
 
-ORGANISATION DES ÉPREUVES
+ORGANISATION DES ÉPREUVES DU CONCOURS INTERNE
 
-A. - Epreuves d'admissibilité
+A. - Epreuve d'admissibilité
 
-1. Epreuve de français
+Epreuve consistant en l'étude par le jury d'un dossier de reconnaissance des acquis de l'expérience professionnelle établi par le candidat.
 
-La durée de l'épreuve est de trois heures trente minutes. Elle est notée sur 100 points. Toute note inférieure à 25 sur 100 obtenue à cette épreuve est éliminatoire.
+L'épreuve est notée de 0 à 20. La note 0 est éliminatoire.
 
-La première partie de l'épreuve, d'une durée de trente minutes, notée sur 30 points, est destinée à évaluer la compréhension orale du candidat et sa capacité à prendre des notes.
+Le dossier de reconnaissance des acquis de l'expérience professionnelle comporte deux parties.
 
-Après l'audition d'un texte lu successivement par deux personnes, le candidat répond à une série de dix à quinze questions présentées sous forme de questionnaire à choix multiples.
+Dans une première partie (deux pages dactylographiées maximum), le candidat décrit les responsabilités qui lui ont été confiées durant les différentes étapes de son parcours professionnel, dans le domaine de l'enseignement à l'école primaire et/ou dans celui de l'enseignement adapté ou spécialisé du second degré.
 
-La deuxième partie de l'épreuve, d'une durée de trois heures, notée sur 70 points, s'appuie sur un ou deux textes d'auteurs inscrits aux programmes des classes de première, distribués en début de composition.
+Dans une seconde partie (six pages dactylographiées maximum), le candidat développe plus particulièrement, à partir d'une analyse précise et parmi ses réalisations pédagogiques entrant dans le champ de la polyvalence de l'enseignant du premier degré, celle qui lui paraît la plus significative, relative à une situation d'apprentissage et à la conduite d'une classe qu'il a eue en responsabilité, étendue, le cas échéant, à la prise en compte de la diversité des élèves, ainsi qu'à l'exercice de la responsabilité éducative et à l'éthique professionnelle. Cette analyse devra mettre en évidence les apprentissages, les objectifs, les progressions ainsi que les résultats de la réalisation que le candidat aura choisi de présenter.
 
-Une première série de dix à quinze questions, notée sur 30 points, est destinée à évaluer la compréhension du ou des textes proposés.
+Le candidat indique et commente les choix didactiques et pédagogiques qu'il a effectués, relatifs à la conception et à la mise en œuvre d'une ou plusieurs séquences d'enseignement, au niveau de scolarité donné, dans le cadre des programmes de l'école primaire ou des objectifs généraux des enseignements en section d'enseignement général et professionnel adapté, à la transmission des connaissances, aux compétences visées par ces programmes, à la conception et à la mise en œuvre des modalités d'évaluation, en liaison, le cas échéant, avec d'autres enseignants de l'équipe ou intervenants. Peuvent également être abordées par le candidat les problématiques rencontrées dans le cadre de son action, celles liées aux conditions du suivi individuel des élèves et à l'aide au travail personnel, à l'utilisation des technologies de l'information et de la communication au service des apprentissages, au travail en équipe au sein de l'école ou dans le cadre d'une SEGPA et avec les partenaires de l'école.
 
-Une deuxième série de questions, notée sur 20 points, doit évaluer la maîtrise des outils de la langue française.
+Chacune des parties devra être dactylographiée en arial 11, interligne simple, sur papier de format 21 × 29,7 cm et être ainsi présentée :
 
-Une composition écrite, notée sur 20 points, à partir d'une problématique dégagée du texte ou de l'un des textes, a pour but de contrôler les qualités d'expression et de réflexion du candidat.
+- dimension des marges :
 
-2. Epreuve de mathématiques
+- droite et gauche : 2,5 cm ;
 
-La durée de l'épreuve est de deux heures trente minutes. Elle est notée sur 80 points. Toute note inférieure à 20 sur 80 obtenue à cette épreuve est éliminatoire.
+- à partir du bord (en-tête et pied de page) : 1,25 cm ;
 
-L'épreuve doit permettre, à partir d'exercices ou de problèmes à résoudre, d'apprécier la maîtrise des contenus (le niveau n'excédant pas celui du tronc commun de l'enseignement secondaire), les capacités d'analyse et de traitement de l'information du candidat et ses aptitudes à formuler sa pensée avec rigueur, dans les domaines numérique et géométrique, à l'aide de différents modes d'expression et de représentation.
+- sans retrait en début de paragraphe.
 
-Les exercices et problèmes portent sur le programme suivant :
+A son dossier, le candidat joint, sur support papier, un à deux exemples de documents ou travaux, réalisés dans le cadre de l'activité décrite et qu'il juge utile de porter à la connaissance du jury.
 
-Connaissance des nombres naturels, décimaux, rationnels et réels.
+L'authenticité des éléments dont il est fait état dans la seconde partie du dossier doit être attestée par l'inspecteur de l'éducation nationale chargé de circonscription du 1er degré ou par le chef d'établissement du collège dans lequel est implantée la SEGPA, auprès duquel le candidat exerce ou a exercé les fonctions décrites.
 
-Calcul numérique et calcul littéral :
+Les critères d'appréciation du jury porteront sur :
 
-- calculs sur les entiers, les décimaux, les fractions et les puissances ;
+- pertinence du choix de l'activité décrite ;
 
-- réduction d'écritures algébriques, développements, factorisations, produits remarquables ;
+- maîtrise des enjeux didactiques et pédagogiques de l'activité décrite ;
 
-- résolution d'équations, d'inéquations, de systèmes d'équations du premier degré.
+- structuration du propos ;
 
-Fonctions numériques : description, représentation graphique des fonctions usuelles (sans utilisation de la dérivation).
+- prise de recul dans l'analyse de la situation exposée ;
 
-Résolution de problèmes, mise en équation (niveau n'excédant pas celui du programme de troisième des collèges)
+- justification argumentée des choix pédagogiques opérés ;
 
-Géométrie :
-
-- vocabulaire usuel de la géométrie : sommet, face, arête, côté, segment, milieu, droite, angle ;
-
-- description, représentation, reproduction, construction de solides et de figures planes ; connaissance des objets géométriques usuels ;
-
-- tracés géométriques à l'aide d'instruments ;
-
-- propriétés de parallélisme et de perpendicularité dans le plan et dans l'espace ;
-
-- transformations planes : symétrie axiale, symétrie centrale, rotation, translation, homothétie ;
-
-- théorèmes de Thalès et de Pythagore ;
-
-- trigonométrie dans le triangle rectangle ;
-
-- calculs de mesures d'aires, de volumes. Calculs de périmètres ;
-
-- connaissance des unités du système métrique ;
-
-- géométrie analytique : bases et repères dans le plan.
-
-Organisation et gestion de données ; statistiques :
-
-- proportionnalité, pourcentages, échelles, vitesses ;
-
-- lecture et exploitation de données statistiques sous forme de tableaux ou de diagrammes : calculs d'effectifs, d'effectifs cumulés, de fréquences, de moyennes.
-
-3. Epreuve d'histoire et de géographie
-
-La durée de l'épreuve est de deux heures. Elle est notée sur 60 points. Toute note inférieure à 15 sur 60 obtenue à cette épreuve est éliminatoire.
-
-La première partie, notée sur 30 points, est destinée à évaluer les qualités de lecture de documents et de réflexion des candidats. Elle prend la forme d'un commentaire, guidé par un questionnaire, de documents historiques ou géographiques.
-
-La deuxième partie, notée sur 30 points, est une courte dissertation d'histoire ou de géographie.
-
-Les sujets des deux parties portent sur deux disciplines différentes, histoire ou géographie.
-
-Le programme des épreuves est défini comme suit :
-
-Histoire : le monde contemporain de 1914 à nos jours.
-
-Géographie :
-
-- la France, y compris les DOM-TOM et la collectivité départementale de Mayotte ;
-
-- les Etats-Unis, puissance mondiale ;
-
-- la population et le développement du sud-ouest de l'océan Indien (Maurice, Réunion, Seychelles, Madagascar, Mayotte, Comores).
-
-4. Epreuve de sciences et vie de la Terre
-
-La durée de l'épreuve est de deux heures. Elle est notée sur 60 points. Toute note inférieure à 15 sur 60 obtenue à cette épreuve est éliminatoire.
-
-La première partie, notée sur 30 points, est destinée à contrôler les connaissances du candidat. Elle peut prendre la forme d'un exposé argumenté sur un thème du programme ou de réponses à une série de questions portant sur le programme.
-
-La deuxième partie, notée sur 30 points, permet d'évaluer les qualités d'observation et d'analyse du candidat et son aptitude à développer une argumentation scientifique.
-
-Le programme de cette épreuve de sciences et vie de la Terre est le suivant :
-
-Unité et diversité du monde du vivant :
-
-- recherche à différentes échelles des organismes (ADN, cellules, organes) et lors de différents phénomènes biologiques (développement embryonnaire) ;
-
-- traces de l'évolution des êtres vivants (fossiles typiques) ;
-
-- grandes étapes de l'histoire de la Terre.
-
-Biologie animale : les grandes fonctions :
-
-En plus de l'exemple de l'être humain, des exemples locaux tels que des organismes marins trouvés dans le lagon seront privilégiés pour illustrer ces notions :
-
-- la digestion (coraux hermatypiques des récifs coralliens ou étoile de mer) ;
-
-- la respiration (poissons) ;
-
-- la circulation sanguine ;
-
-- la reproduction : multiplication asexuée (coraux hermatypiques) et reproduction sexuée.
-
-Biologie végétale : les grandes fonctions :
-
-- la nutrition minérale ;
-
-- la photosynthèse ;
-
-- la reproduction : multiplication végétative (bananier) et reproduction sexuée (dont le cas particulier de la vanille).
-
-Ecologie :
-
-- notion d'écosystème (forêt tropicale humide ou récif corallien) ;
-
-- relations et interactions entre espèces vivantes : parasitisme, symbiose (coraux et zooxanthelles), prédation (réseau alimentaire d'un lagon) et compétition ;
-
-- pollution.
-
-Géologie :
-
-- les grands phénomènes géologiques : magmatisme (La Réunion ou Grande Comore), érosion et altération (Mayotte), sédimentation, diagénèse et métamorphisme ;
-
-- la Terre dans le système solaire et dans l'univers.
-
-Physique :
-
-- la matière : ses différents états, les mélanges, l'eau et le cycle de l'eau ;
-
-- notion de masse, de poids et de force ;
-
-- les différentes énergies : transformations.
+- a qualité de l'expression et la maîtrise de l'orthographe et de la syntaxe.
 
 B. - Epreuve d'admission
 
-La durée de l'épreuve est de quarante-cinq minutes. Elle est notée sur 100 points. Toute note inférieure à 25 sur 100 obtenue à cette épreuve est éliminatoire.
+Audition du candidat par le jury, ayant comme point de départ le dossier de reconnaissance des acquis de l'expérience professionnelle élaboré pour l'épreuve d'admissibilité.
 
-L'épreuve est destinée à évaluer les qualités d'expression et de réflexion du candidat ainsi que sa culture générale, témoignant de son aptitude à bénéficier de la formation professionnelle préparatoire au métier d'instituteur.
+L'épreuve est notée de 0 à 20. La note 0 est éliminatoire.
 
-Le candidat tire au sort un sujet parmi cinq sujets au moins. Chaque sujet comporte un texte relatif à l'éducation, à l'actualité sociale ou économique ainsi que trois questions portant sur les idées directrices et sur la compréhension du texte.
+L'épreuve, d'une durée de cinquante minutes maximum, est précédée d'un temps de préparation de trente minutes.
 
-L'épreuve se déroule comme suit :
-
-- un temps de préparation de vingt minutes ;
-
-- un temps devant le jury de vingt-cinq minutes, au cours duquel le candidat est invité à lire à haute voix le texte ou un extrait du texte puis à répondre aux questions associées au texte. Les membres du jury peuvent ensuite, et éventuellement, poser des questions supplémentaires sur la compréhension du texte.
+Le candidat soutient son dossier (dix minutes maximum), puis analyse et commente (quinze minutes maximum) une documentation qui lui a été remise au début de l'épreuve et pour laquelle il a préparé les éléments de réponse pendant le temps de préparation, relative à une question touchant à une ou plusieurs activités d'ordre pédagogique. Le candidat en dégage la problématique, propose une exploitation éventuelle en classe ou dans le contexte de l'école primaire. L'épreuve se poursuit par un entretien avec le jury, au cours duquel celui-ci interroge le candidat sur son dossier et sur l'exploitation faite par le candidat de la documentation qui lui a été fournie afin d'approfondir les différents points développés par le candidat (vingt-cinq minutes maximum).
