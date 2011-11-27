@@ -1,16 +1,14 @@
-# Article AOC " Clos de Tart."
+# Article AOC " Bonnes-Mares."
 
-CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES BONNES-MARES, CLOS DE TART
+CAHIER DES CHARGES DE L'APPELLATION D'ORIGINE CONTRÔLÉE BONNES-MARES
 
 Chapitre Ier
 
 I.-Nom de l'appellation
 
-Seuls peuvent prétendre aux appellations d'origine contrôlées :
+Seul peut prétendre à l'appellation d'origine contrôlée :
 
-Bonnes-Mares initialement reconnue par le décret du 8 décembre 1936 ;
-
-et Clos de Tart ; initialement reconnue par le décret du 4 janvier 1939, les vins répondant aux dispositions particulières fixées ci-après.
+Bonnes-Mares initialement reconnue par le décret du 8 décembre 1936, les vins répondant aux dispositions particulières fixées ci-après.
 
 II.-Dénominations géographiques et mentions complémentaires
 
@@ -18,21 +16,17 @@ Pas de dispositions complémentaires.
 
 III.-Couleur et types de produit
 
-Les appellations d'origine contrôlées Bonnes-Mares et Clos de Tart sont réservées aux vins tranquilles rouges.
+L'appellation d'origine contrôlée Bonnes-Mares est réservée aux vins tranquilles rouges.
 
 IV.-Aires et zones dans lesquelles différentes opérations sont réalisées
 
 1° Aire géographique :
-
-Pour les appellations Clos de Tart, la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire de la commune de Morey-Saint-Denis, dans le département de la Côte-d'Or.
 
 Pour l'appellation Bonnes-Mares, la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire des communes suivantes du département de la Côte-d'Or : Chambolle-Musigny et Morey-Saint-Denis.
 
 2° Aire parcellaire délimitée :
 
 Les vins sont issus exclusivement des vignes situées dans l'aire parcellaire de production, telle qu'approuvée par l'Institut national de l'origine et de la qualité lors des séances du comité national compétent :
-
--du 24 juillet 1965, pour l'appellation Clos de Tart ;
 
 -du 24 juillet 1965 et des 1er et 2 juin 1988, pour l'appellation Bonnes-Mares.
 
@@ -290,7 +284,7 @@ XII.-Règles de présentation et étiquetage
 
 1° Dispositions générales :
 
-Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'une des appellations d'origine contrôlées suivantes : Clos de Tart, Bonnes-Mares qui sont présentés sous l'une desdites appellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée, le tout en caractères très apparents.
+Les vins pour lesquels, aux termes du présent cahier des charges, est revendiquée l'appellation d'origine contrôlée suivante : Bonnes-Mares qui est présenté sous lappellations ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention Appellation contrôlée, le tout en caractères très apparents.
 
 2° Dispositions particulières :
 
