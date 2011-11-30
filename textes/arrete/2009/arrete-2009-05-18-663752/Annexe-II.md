@@ -2,13 +2,9 @@
 
 POINTS D'ENTRÉE DÉSIGNÉS
 
-NOM
+NOM |
 
-|
-
-TYPE
-
-|
+TYPE |
 
 Baie-Mahault
 
@@ -19,14 +15,6 @@ Port
 |
 
 Bordeaux
-
-|
-
-Port
-
-|
-
-Boulogne
 
 |
 

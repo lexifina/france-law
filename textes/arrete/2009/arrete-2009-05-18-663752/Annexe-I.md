@@ -80,7 +80,9 @@ Port
 
 |
 
-HC (1) (2), NHC |
+HC (1) (2), NHC
+
+|
 
 |
 
@@ -346,7 +348,7 @@ Aéroport
 
 |
 
-HC-T (1), HC-NT
+HC-T (1) (2), HC-NT
 
 |
 
