@@ -1,8 +1,6 @@
 # Article Annexe
 
-.
-
-GRADES
+GRADES OU EMPLOIS
 
 |
 
@@ -12,13 +10,7 @@ CLASSEMENT HIÉRARCHIQUE
 
 |
 
-OBSERVATIONS
-
-|
-
 A. - Services administratifs
-
-|
 
 |
 
@@ -32,15 +24,11 @@ Directeur régional
 
 |
 
-|
-
 Directeur départemental
 
 |
 
 852-1015
-
-|
 
 |
 
@@ -52,8 +40,6 @@ Directeur départemental adjoint
 
 |
 
-|
-
 Inspecteur principal
 
 |
@@ -62,11 +48,7 @@ Inspecteur principal
 
 |
 
-|
-
 B. - Services généraux d'exécution
-
-|
 
 |
 
@@ -80,15 +62,11 @@ Inspecteur
 
 |
 
-|
-
 Inspecteur-élève
 
 |
 
 340
-
-|
 
 |
 
@@ -100,15 +78,11 @@ Contrôleur divisionnaire
 
 |
 
-|
-
 Contrôleur
 
 |
 
 312-579
-
-|
 
 |
 
@@ -120,8 +94,6 @@ Agent d'exploitation
 
 |
 
-|
-
 Assistant administratif
 
 |
@@ -130,11 +102,7 @@ Assistant administratif
 
 |
 
-|
-
 C. - Services des installations
-
-|
 
 |
 
@@ -148,15 +116,11 @@ Chef technicien
 
 |
 
-|
-
 Technicien
 
 |
 
 314-579
-
-|
 
 |
 
@@ -168,11 +132,7 @@ Aide-technicien des installations
 
 |
 
-|
-
-D. - Ouvriers d'Etat
-
-|
+D. - Ouvriers d'état
 
 |
 
@@ -186,8 +146,6 @@ Chef d'atelier
 
 |
 
-|
-
 Contremaître
 
 |
@@ -196,9 +154,7 @@ Contremaître
 
 |
 
-|
-
-Ouvrier d'Etat
+Ouvrier d'état
 
 |
 
@@ -206,11 +162,7 @@ Ouvrier d'Etat
 
 |
 
-|
-
 E. - Révision des travaux de bâtiment
-
-|
 
 |
 
@@ -224,8 +176,6 @@ Réviseur en chef
 
 |
 
-|
-
 Réviseur
 
 |
@@ -234,11 +184,7 @@ Réviseur
 
 |
 
-|
-
 F. - Service du dessin
-
-|
 
 |
 
@@ -252,15 +198,11 @@ Chef dessinateur
 
 |
 
-|
-
 Dessinateur projeteur
 
 |
 
 312-579
-
-|
 
 |
 
@@ -272,11 +214,7 @@ Dessinateur
 
 |
 
-|
-
 G. - Service des locaux
-
-|
 
 |
 
@@ -290,15 +228,11 @@ Chef surveillant
 
 |
 
-|
-
 Agent de service
 
 |
 
 281-388
-
-|
 
 |
 
@@ -310,11 +244,7 @@ Agent des services techniques de 2e classe
 
 |
 
-|
-
 H. - Service automobile
-
-|
 
 |
 
@@ -328,15 +258,11 @@ Chef de travaux
 
 |
 
-|
-
 Contrôleur
 
 |
 
 312-579
-
-|
 
 |
 
@@ -348,8 +274,6 @@ Maître dépanneur
 
 |
 
-|
-
 Mécanicien dépanneur
 
 |
@@ -358,11 +282,7 @@ Mécanicien dépanneur
 
 |
 
-|
-
 I. - Emplois comptables
-
-|
 
 |
 
@@ -376,15 +296,11 @@ Chef d'établissement de classe exceptionnelle
 
 |
 
-|
-
 Chef d'établissement de classe supérieure
 
 |
 
 841
-
-|
 
 |
 
@@ -396,15 +312,11 @@ Chef d'établissement hors classe
 
 |
 
-|
-
 Chef d'établissement de 1re classe
 
 |
 
 379-780
-
-|
 
 |
 
@@ -416,15 +328,11 @@ Chef d'établissement de 2e classe
 
 |
 
-|
-
 Chef d'établissement de 3e classe
 
 |
 
 425-612
-
-|
 
 |
 
@@ -436,11 +344,7 @@ Chef d'établissement de 4e classe
 
 |
 
-|
-
 J. - Services sociaux
-
-|
 
 |
 
@@ -454,15 +358,11 @@ Assistant de service social chef
 
 |
 
-|
-
 Assistant de service social
 
 |
 
 323-642
-
-|
 
 |
 
@@ -474,8 +374,6 @@ Infirmier ou infirmière en chef
 
 |
 
-|
-
 Infirmier ou infirmière
 
 |
@@ -484,13 +382,7 @@ Infirmier ou infirmière
 
 |
 
-|
-
-K. - Service de la distribution
-
-et de l'acheminement
-
-|
+K. - Service de la distribution et de l'acheminement
 
 |
 
@@ -504,15 +396,11 @@ Vérificateur principal
 
 |
 
-|
-
 Vérificateur
 
 |
 
 365-579
-
-|
 
 |
 
@@ -524,15 +412,11 @@ Conducteur chef du transbordement de 1re classe
 
 |
 
-|
-
 Conducteur chef du transbordement
 
 |
 
 365-579
-
-|
 
 |
 
@@ -544,15 +428,11 @@ Conducteur de travaux
 
 |
 
-|
-
 Agent d'exploitation
 
 |
 
 287-449
-
-|
 
 |
 
@@ -564,11 +444,7 @@ Préposé
 
 |
 
-|
-
 L. - Conducteur d'automobiles
-
-|
 
 |
 
@@ -582,11 +458,7 @@ Conducteur d'automobile de 1re catégorie
 
 |
 
-|
-
 M. - Receveur rural
-
-|
 
 |
 
@@ -597,7 +469,5 @@ Receveur rural
 |
 
 312-483
-
-|
 
 |
