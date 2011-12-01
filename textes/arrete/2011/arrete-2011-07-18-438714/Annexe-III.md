@@ -1,0 +1,65 @@
+# Article Annexe III
+
+LISTE DES ÉQUIVALENCES ENTRE LES UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL, OPTION PRODUCTIONS HORTICOLES CRÉÉ PAR L'ARRÊTÉ DU 31 JUILLET 1995 MODIFIÉ ET LE BREVET PROFESSIONNEL OPTION RESPONSABLE D'ATELIER DE PRODUCTIONS HORTICOLES CRÉÉ PAR LE PRÉSENT ARRÊTÉ
+
+UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL
+
+option Productions horticoles
+
+(arrêté du 31 juillet 1995)
+
+|
+
+UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL
+
+option responsable d'atelier de productions horticoles
+
+|
+
+UC 1
+
+|
+
+UCP 4
+
+|
+
+UC 3
+
+|
+
+UCT 1, UCT 2
+
+|
+
+UC 4 et UC 6 et UCARE informatique
+
+|
+
+UCG 1
+
+|
+
+UC 8
+
+|
+
+UCP 2
+
+|
+
+UC 9
+
+|
+
+UCP 5, UCP 6
+
+|
+
+UCARE
+
+|
+
+UCARE sur expertise
+
+|
