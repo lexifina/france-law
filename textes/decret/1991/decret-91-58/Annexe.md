@@ -2,13 +2,11 @@
 
 .
 
-GRADES OU EMPLOIS
+GRADES
 
 |
 
-CLASSEMENT
-
-hiérarchique
+CLASSEMENT HIÉRARCHIQUE
 
 (indices bruts)
 
@@ -18,33 +16,11 @@ OBSERVATIONS
 
 |
 
-I. - EMPLOIS COMMUNS À LA POSTE
-
-ET À FRANCE TÉLÉCOM
+A. - Services administratifs
 
 |
 
 |
-
-|
-
-A - Services administratifs
-
-|
-
-|
-
-|
-
-Chef de service régional
-
-|
-
-901-1015
-
-|
-
-(a).
 
 |
 
@@ -52,23 +28,9 @@ Directeur régional
 
 |
 
-1015
+1015 (a)
 
 |
-
-(a).
-
-|
-
-Chef de service départemental
-
-|
-
-852-1015
-
-|
-
-(a).
 
 |
 
@@ -102,17 +64,7 @@ Inspecteur principal
 
 |
 
-Elève de l'Ecole nationale supérieure des postes et télécommunications
-
-|
-
-395
-
-|
-
-|
-
-B - Services généraux d'exécution
+B. - Services généraux d'exécution
 
 |
 
@@ -135,16 +87,6 @@ Inspecteur-élève
 |
 
 340
-
-|
-
-|
-
-Surveillant ou surveillante en chef
-
-|
-
-425-612
 
 |
 
@@ -190,7 +132,7 @@ Assistant administratif
 
 |
 
-C - Services des installations
+C. - Services des installations
 
 |
 
@@ -228,7 +170,7 @@ Aide-technicien des installations
 
 |
 
-D - Ouvriers d'état
+D. - Ouvriers d'Etat
 
 |
 
@@ -250,23 +192,23 @@ Contremaître
 
 |
 
-267-449
+287-449
 
 |
 
 |
 
-Ouvrier d'état
+Ouvrier d'Etat
 
 |
 
-252-365
+281-388
 
 |
 
 |
 
-E - Révision des travaux de bâtiment
+E. - Révision des travaux de bâtiment
 
 |
 
@@ -294,7 +236,7 @@ Réviseur
 
 |
 
-F - Service du dessin
+F. - Service du dessin
 
 |
 
@@ -332,7 +274,7 @@ Dessinateur
 
 |
 
-G - Service des locaux
+G. - Service des locaux
 
 |
 
@@ -370,7 +312,7 @@ Agent des services techniques de 2e classe
 
 |
 
-H - Service automobile
+H. - Service automobile
 
 |
 
@@ -398,6 +340,16 @@ Contrôleur
 
 |
 
+Maître dépanneur
+
+|
+
+267-449
+
+|
+
+|
+
 Mécanicien dépanneur
 
 |
@@ -408,15 +360,7 @@ Mécanicien dépanneur
 
 |
 
-I - Emplois comptables
-
-|
-
-|
-
-|
-
-a) Chefs d'établissement
+I. - Emplois comptables
 
 |
 
@@ -494,95 +438,7 @@ Chef d'établissement de 4e classe
 
 |
 
-b) Directeurs d'établissement
-
-|
-
-|
-
-|
-
-Directeur d'établissement principal de La Poste de 1re classe
-
-|
-
-830-1015
-
-|
-
-|
-
-Directeur d'établissement principal de La Poste de 2e classe
-
-|
-
-815-966
-
-|
-
-|
-
-Directeur d'établissement principal de France Télécom de 1re classe
-
-|
-
-830-1015
-
-|
-
-|
-
-Directeur d'établissement principal de France Télécom de 2e classe
-
-|
-
-815-966
-
-|
-
-|
-
-c) Chefs de service de comptabilité
-
-|
-
-|
-
-|
-
-Chef de service de comptabilité de 1re catégorie
-
-|
-
-852-1015
-
-|
-
-(a).
-
-|
-
-Chef de service de comptabilité de 2e catégorie
-
-|
-
-815-966
-
-|
-
-|
-
-Chef de service de comptabilité de 3e catégorie
-
-|
-
-750-852
-
-|
-
-|
-
-J - Services sociaux
+J. - Services sociaux
 
 |
 
@@ -630,17 +486,9 @@ Infirmier ou infirmière
 
 |
 
-II. - Emplois spécifiques à l'exploitant public
+K. - Service de la distribution
 
-La Poste
-
-|
-
-|
-
-|
-
-A - Service de la distribution et de l'acheminement
+et de l'acheminement
 
 |
 
@@ -718,7 +566,7 @@ Préposé
 
 |
 
-B - Service de l'imprimerie des timbres-poste
+L. - Conducteur d'automobiles
 
 |
 
@@ -726,67 +574,7 @@ B - Service de l'imprimerie des timbres-poste
 
 |
 
-Maître graveur
-
-|
-
-450-735
-
-|
-
-|
-
-Graveur
-
-|
-
-363-612
-
-|
-
-|
-
-Prote
-
-|
-
-579-735
-
-|
-
-|
-
-Sous-prote
-
-|
-
-420-626
-
-|
-
-|
-
-Maître imprimeur
-
-|
-
-314-579
-
-|
-
-|
-
-Artisan imprimeur
-
-|
-
-277-474
-
-|
-
-|
-
-C - Conducteur d'automobiles de 1re catégorie
+Conducteur d'automobile de 1re catégorie
 
 |
 
@@ -796,66 +584,20 @@ C - Conducteur d'automobiles de 1re catégorie
 
 |
 
-D - Receveur rural
+M. - Receveur rural
+
+|
+
+|
+
+|
+
+Receveur rural
 
 |
 
 312-483
 
 |
-
-|
-
-III. - Emplois spécifiques à l'exploitant public
-
-France Télécom
-
-|
-
-|
-
-|
-
-Chef de district
-
-|
-
-425-612
-
-|
-
-|
-
-Chef de secteur
-
-|
-
-365-579
-
-|
-
-|
-
-Conducteur de travaux
-
-|
-
-312-579
-
-|
-
-|
-
-Agent d'exploitation
-
-|
-
-287-449
-
-|
-
-|
-
-(a) La carrière dans cet emploi se poursuit hors échelle.
 
 |

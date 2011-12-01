@@ -124,7 +124,7 @@ Signalisation en cours de route
 
 3.11 Signalisation des formations à couple faisant route.
 
-3.12 Signalisation des bâtiments à voile.
+3.12 Signalisation des bâtiments à voile faisant route.
 
 3.13 Signalisation des menues embarcations faisant route.
 
@@ -444,4 +444,4 @@ Annexe 10 : Modèle de carnet de contrôle des huiles usées.
 
 NOTA :
 
-Conformément à la décision CM-II-10-2.2 du 3 décembre 2010, les Etats riverains sont priés de procéder à une entrée en vigueur de cet amendement au 1er septembre 2011. Les prescriptions encore valables au 1er septembre 2011 seront abrogées à cette date.
+Conformément à la décision CM-I-10-2.3.2-1-1 du 8 juin 2010, l'amendement entre en vigueur au 1er décembre 2011. Les prescriptions encore valables au 1er décembre 2011 seront abrogées à cette date.
