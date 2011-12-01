@@ -1182,7 +1182,7 @@ Technicien d'art de classe normale.
 
 |
 
-Assistant territorial de conservation du patrimoine et des bibliothèques de 2e classe.
+Assistant territorial de conservation du patrimoine et des bibliothèques.
 
 |
 
@@ -1190,7 +1190,7 @@ Technicien d'art de classe supérieure.
 
 |
 
-Assistant territorial de conservation du patrimoine et des bibliothèques de 1re classe.
+Assistant territorial de conservation du patrimoine et des bibliothèques principal de 2e classe.
 
 |
 
@@ -1198,7 +1198,7 @@ Technicien d'art de classe exceptionnelle.
 
 |
 
-Assistant territorial de conservation du patrimoine et des bibliothèques hors classe.
+Assistant territorial de conservation du patrimoine et des bibliothèques principal de 1ère classe.
 
 |
 
@@ -1206,7 +1206,7 @@ Technicien des services culturels et des Bâtiments de France de classe normale.
 
 |
 
-Assistant territorial de conservation du patrimoine et des bibliothèques de 2e classe.
+Assistant territorial de conservation du patrimoine et des bibliothèques.
 
 |
 
@@ -1214,7 +1214,7 @@ Technicien des services culturels et des Bâtiments de France de classe supérie
 
 |
 
-Assistant territorial de conservation du patrimoine et des bibliothèques de 1re classe.
+Assistant territorial de conservation du patrimoine et des bibliothèques principal de 2e classe.
 
 |
 
@@ -1222,7 +1222,7 @@ Technicien des services culturels et des Bâtiments de France de classe exceptio
 
 |
 
-Assistant territorial de conservation du patrimoine et des bibliothèques hors classe.
+Assistant territorial de conservation du patrimoine et des bibliothèques principal de 1ère classe.
 
 |
 
@@ -1358,7 +1358,7 @@ Secrétaire de documentation de la culture et de l'architecture de classe normal
 
 |
 
-Assistant territorial de conservation du patrimoine et des bibliothèques de 2e classe.
+Assistant territorial de conservation du patrimoine et des bibliothèques.
 
 |
 
@@ -1366,7 +1366,7 @@ Secrétaire de documentation de la culture et de l'architecture de classe supér
 
 |
 
-Assistant territorial de conservation du patrimoine et des bibliothèques de 1re classe.
+Assistant territorial de conservation du patrimoine et des bibliothèques principal de 2e classe.
 
 |
 
@@ -1374,7 +1374,7 @@ Secrétaire de documentation de la culture et de l'architecture de classe except
 
 |
 
-Assistant territorial de conservation du patrimoine et des bibliothèques hors classe.
+Assistant territorial de conservation du patrimoine et des bibliothèques principal de 1ère classe.
 
 |
 
