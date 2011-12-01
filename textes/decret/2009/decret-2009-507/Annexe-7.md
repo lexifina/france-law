@@ -8,6 +8,10 @@ Vous pouvez consulter la version initiale de l'annexe en cliquant sur le lien su
 
 https://www.legifrance.gouv.fr/download/pdf?id=9obX_HeaX352eQvFeX7-AF6VIs0OSt5HGx1KyTrJAYE=
 
-La présente annexe a été modifiée par la décision CM-II-10-2.2 du 3 décembre 2010, avec une entrée en vigueur au 1er septembre 2011. Les prescriptions encore valables au 1er septembre 2011 seront abrogées à cette date. Vous pouvez consulter les modifications à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=g3t2CZJf9_-t0wuUObnlKuZ-PkK9A6thiDb3sgQcNsM=
+La présente annexe a été modifiée par la décision CM-II-10-2.2 du 3 décembre 2010, avec une entrée en vigueur au 1er septembre 2011. Les prescriptions encore valables au 1er septembre 2011 seront abrogées à cette date. Vous pouvez consulter les modifications à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=g3t2CZJf9_-t0wuUObnlKuZ-PkK9A6thiDb3sgQcNsM=.
 
 La présente annexe a été modifiée par la décision CM-II-10-2.2 du 3 décembre 2010. Les Etats riverains sont priés de procéder à une entrée en vigueur de cet amendement au 1er septembre 2011. Les prescriptions encore valables au 1er septembre 2011 seront abrogées à cette date.. Les prescriptions encore valables au 1er septembre 2011 seront abrogées à cette date. Vous pouvez consulter les modifications à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=slGynLy0qSKZNDcNGThZE596WAkxk7JLKoUd3uP63A4=.
+
+La présente annexe a été modifiée par la décision CM-I-10-2.3.4-1-1 du 8 juin 2010, avec une entrée en vigueur au 1er décembre 2011. Les prescriptions encore valables au 1er décembre 2011 seront abrogées à cette date. Vous pouvez consulter les modifications à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=A-db5bgDOoSv5o6QkvNs4HEkAp4FIizANS-DxD8-Hjk=.
+
+La présente annexe a été modifiée par la décision CM-I-10-2.3.4-2-1 du 8 juin 2010, avec une entrée en vigueur au 1er décembre 2011. Les prescriptions encore valables au 1er décembre 2011 seront abrogées à cette date. Vous pouvez consulter les modifications à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=A-db5bgDOoSv5o6QkvNs4JqORfLSKk_h8QsSb2xnJ8Y=.
