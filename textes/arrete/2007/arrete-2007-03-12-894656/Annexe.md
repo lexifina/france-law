@@ -252,6 +252,12 @@ Article 24
 
 Au conseil d'administration sont éligibles uniquement les personnes physiques de nationalité française âgées de moins de soixante-seize ans l'année de l'élection.
 
+Toutefois, le président sortant, atteint par la limite d'âge, peut être réélu pour un ultime mandat, selon les deux conditions suivantes :
+
+- être d'abord élu au conseil d'administration, à la majorité des trois quarts des membres présents ou représentés à l'assemblée générale, et à bulletin secret ;
+
+- être ensuite élu à la présidence, à l'unanimité des membres du conseil d'administration et à bulletin secret.
+
 Tout membre peut se faire représenter par un autre membre de la même instance.
 
 Un membre ne peut être porteur de plus d'un pouvoir.
