@@ -1,12 +1,12 @@
 # Article AOC "Montrachet"
 
-CAHIER DES CHARGES DES APPELLATIONS D'ORIGINE CONTRÔLÉES " BÂTARD-MONTRACHET "et " BIENVENUES-BÂTARD-MONTRACHET "
+CAHIER DES CHARGES DE L'APPELLATION D'ORIGINE CONTRÔLÉE " BIENVENUES-BÂTARD-MONTRACHET "
 
 Chapitre Ier
 
 I. ― Nom de l'appellation
 
-Seuls peuvent prétendre aux appellations d'origine contrôlées : " Bâtard-Montrachet ", initialement reconnue par le décret du 31 juillet 1937 et " Bienvenues-Bâtard-Montrachet ", initialement reconnues par le décret du 13 juin 1939, les vins répondant aux dispositions particulières fixées ci-après.
+Seuls peuvent prétendre à l'appellation d'origine contrôlée : " Bienvenues-Bâtard-Montrachet ", initialement reconnue par le décret du 13 juin 1939, les vins répondant aux dispositions particulières fixées ci-après.
 
 II. ― Dénominations géographiques et mentions complémentaires
 
@@ -14,13 +14,11 @@ Pas de dispositions particulières.
 
 III. ― Couleur et types de produit
 
-Les appellations d'origine contrôlées " Bâtard-Montrachet " et " Bienvenues-Bâtard-Montrachet " sont réservées aux vins tranquilles blancs.
+L'appellation d'origine contrôlée " Bienvenues-Bâtard-Montrachet " est réservée aux vins tranquilles blancs.
 
 IV. ― Aires et zones dans lesquelles différentes opérations sont réalisées
 
 1° Aire géographique :
-
-Pour l'appellation " Bâtard-Montrachet ", la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire des communes suivantes du département de la Côte-d'Or : Chassagne-Montrachet et Puligny-Montrachet.
 
 Pour l'appellation " Bienvenues-Bâtard-Montrachet ", la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés sur le territoire de la commune de Puligny-Montrachet dans le département de la Côte-d'Or.
 
@@ -156,7 +154,7 @@ volumique naturel minimum
 
 |
 
-" Bâtard-Montrachet "et " Bienvenues-Bâtard-Montrachet " |
+" Bienvenues-Bâtard-Montrachet " |
 
 178
 
