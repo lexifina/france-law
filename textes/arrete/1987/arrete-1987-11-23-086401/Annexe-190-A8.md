@@ -1,10 +1,10 @@
 # Article Annexe 190-A.8
 
-SYSTEME D'ALARME ET MOYENS DE COMMUNICATION
+SYSTÈME D'ALARME ET MOYENS DE COMMUNICATION
 
-1. Système d'alarme
+1. Système d'alarme.
 
-Des boutons d'alarme accessibles sont prévus dans les coursives. L'espacement entre 2 boutons d'alarme ne doit pas dépasser 40 mètres. Leur hauteur d'installation doit être comprise entre 800 et 900 mm.
+Des boutons d'alarme accessibles sont prévus dans les coursives. L'espacement entre deux boutons d'alarme ne doit pas dépasser 40 mètres. Leur hauteur d'installation doit être comprise entre 800 et 900 mm.
 
 Ils sont repérés par un pictogramme approprié.
 
@@ -20,19 +20,17 @@ Les signaux d'alarme sonore sont doublés de signaux visuels. Les signaux visuel
 
 - d'une intensité d'au moins 75 candelas.
 
-2. Panneaux électroniques d'information
+2. Panneaux électroniques d'information.
 
-La durée d'affichage des messages doit être de 10 secondes minimum entre deux défilements (ou basculements) de chaque ligne de texte.
+La durée d'affichage des messages doit être de dix secondes minimum entre deux défilements (ou basculements) de chaque ligne de texte.
 
-La taille des caractères est déterminée suivant la distance prévue entre le lecteur et la signalétique comme suit :
+La taille des caractères est déterminée suivant la distance prévue entre le lecteur et la signalétique, comme suit :
 
-Distance d'observation
+DISTANCE D'OBSERVATION
 
 |
 
-Hauteur minimale des lettres
-
-(une seule ligne)
+HAUTEUR MINIMALE DES LETTRES (une seule ligne)
 
 |
 
@@ -68,19 +66,19 @@ Hauteur minimale des lettres
 
 |
 
-3. Téléphones publics accessibles
+3. Téléphones publics accessibles.
 
 Les téléphones accessibles sont conformes aux dispositions suivantes :
 
-- un espace de pont libre de 800 mm par 1300 mm est prévu à proximité ;
+- un espace de pont libre de 800 mm par 1 300 mm est prévu à proximité ;
 
 - le cordon du combiné a une longueur d'au moins 750 mm ;
 
-- la hauteur du clavier est comprise entre 900 et 1200 mm au-dessus du sol fini ;
+- la hauteur du clavier est comprise entre 900 et 1 200 mm au-dessus du sol fini ;
 
 - le socle est fixé.
 
-4. Guichet d'information
+4. Guichet d'information.
 
 Lorsque des guichets d'information sont prévus, ils doivent être utilisables par une personne en position "debout" comme en position "assise" et permettre la communication visuelle entre les passagers et le personnel. Lorsque des usages tels que lire, écrire, utiliser un clavier sont prévus, une partie au moins de cet équipement doit être accessible et présenter les caractéristiques suivantes :
 

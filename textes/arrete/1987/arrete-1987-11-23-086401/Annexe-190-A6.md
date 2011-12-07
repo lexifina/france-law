@@ -2,19 +2,19 @@
 
 SIGNALÉTIQUE
 
-1. Concept de base
+1. Concept de base.
 
 Prévoir une signalétique comportant les quatre types d'information suivants.
 
-- Orientation : par un plan d'orientation en couleurs qui donne un aperçu de l'ensemble du navire avec répertoires des ponts et qui indique les principaux espaces publics et les moyens d'évacuation. Le plan doit informer la personne de sa position. L'orientation du plan correspond à l'orientation géographique du lieu.
+Orientation : par un plan d'orientation en couleurs qui donne un aperçu de l'ensemble du navire avec répertoires des ponts et qui indique les principaux espaces publics et les moyens d'évacuation. Le plan doit informer la personne de sa position. L'orientation du plan correspond à l'orientation géographique du lieu.
 
-- Direction : par flèches guidant les passagers vers les principaux espaces publics. Il est recommandé d'éviter plus de trois désignations par flèche et d'utiliser le modèle de flèche de la norme ISO 7001.
+Direction : par flèches guidant les passagers vers les principaux espaces publics. Il est recommandé d'éviter plus de trois désignations par flèche et d'utiliser le modèle de flèche de la norme ISO 7001.
 
-- Identification : informations concernant un espace public donné (numéro, fonction etc...).
+Identification : informations concernant un espace public donné (numéro, fonction, etc.).
 
-- Informations générales : toute autre information nécessaire aux passagers.
+Informations générales : toute autre information nécessaire aux passagers.
 
-Mettre en place une signalétique visuelle, tactile et sonore de façon à ce qu'elle soit facile à lire, à comprendre et à repérer :
+Mettre en place une signalétique visuelle, tactile ou sonore de façon à ce qu'elle soit facile à lire, à comprendre et à repérer :
 
 - en favorisant les informations simples, brèves, claires et cohérentes par l'utilisation de pictogrammes ;
 
@@ -22,19 +22,23 @@ Mettre en place une signalétique visuelle, tactile et sonore de façon à ce qu
 
 Dans tout le navire, la signalétique relative à l'emplacement, aux formes, aux symboles et aux lettrages doit être présentée de façon uniforme.
 
-Identifier certains locaux ou installations par leur pictogramme accompagné de la dénomination (escalier, ascenseur, toilette, téléphone etc...).
+Identifier certains locaux ou installations par leur pictogramme accompagné de la dénomination (escalier, ascenseur, toilette, téléphone, etc.).
 
-Fournir un éclairage suffisant et uniforme sans contre-jour, ombrage ou éblouissement. Faciliter le repérage et l'orientation des passagers. A cette fin, il est recommandé de :
+Fournir un éclairage suffisant et uniforme sans contre-jour, ombrage ou éblouissement.
+
+Faciliter le repérage et l'orientation des passagers. A cette fin, il est recommandé de :
 
 - choisir des couleurs distinctes pour identifier les ponts ou les locaux publics ;
 
 - prévoir une ligne contrastante au sol pour indiquer le parcours à suivre. Lorsque plusieurs destinations sont possibles, la couleur des lignes au sol devrait correspondre à celles figurant sur le plan d'orientation.
 
-2. Signalétique visuelle
+Pour les navires d'une longueur inférieure ou égale à 45 mètres, dont l'aménagement est simple et évident, il n'est pas nécessaire de prévoir un plan d'orientation, les flèches de direction et le marquage au sol.
 
-La couleur des caractères ou des pictogrammes doit permettre un contraste d'au moins 70% avec la couleur du panneau. Les caractères blancs sur fond foncé sont recommandés.
+2. Signalétique visuelle.
 
-La couleur du panneau doit permettre un contraste d'au moins 70% avec la couleur de la cloison porteuse. Si le contraste est insuffisant, une bordure de couleur d'une largeur de 10% de la largeur du panneau peut permettre d'obtenir le contraste recherché.
+La couleur des caractères ou des pictogrammes doit permettre un contraste d'au moins 70 % avec la couleur du panneau. Les caractères blancs sur fond foncé sont recommandés.
+
+La couleur du panneau doit permettre un contraste d'au moins 70 % avec la couleur de la cloison porteuse. Si le contraste est insuffisant, une bordure de couleur d'une largeur de 10 % de la largeur du panneau peut permettre d'obtenir le contraste recherché.
 
 Le fini du panneau doit être mat et sans reflet.
 
@@ -42,47 +46,75 @@ Les polices de caractères de type antique doivent être utilisées, par exemple
 
 Pour un seul mot, il convient d'utiliser des caractères majuscules. Pour un groupe de mots, il convient d'utiliser des caractères majuscules et minuscules.
 
-Le rapport entre la hauteur et la largeur des lettres doit être compris entre 3 : 5 et 1 :1 (de préférence 3 : 4). Le rapport entre la largeur du trait et la hauteur de la lettre doit être compris entre 1 : 5 et 1 : 10.
+Le rapport entre la hauteur et la largeur des lettres doit être compris entre 3:5 et 1:1 (de préférence 3:4). Le rapport entre la largeur du trait et la hauteur de la lettre doit être compris entre 1:5 et 1:10.
 
 La taille des caractères est déterminée suivant la distance prévue entre le lecteur et la signalétique comme suit :
 
-Distance d'observation |
-
-Hauteur minimale des
-
-lettres(une seule ligne)
+DISTANCE D'OBSERVATION
 
 |
 
-Dimension du logo |
+HAUTEUR MINIMALE DES LETTRES
 
-1 m |
+(une seule ligne)
 
-30 mm |
+|
 
-50 mm |
+DIMENSION DU LOGO
 
-2 m |
+|
 
-60 mm |
+1 m
 
-100 mm |
+|
 
-5 m |
+30 mm
 
-150 mm |
+|
 
-250 mm |
+50 mm
 
-10 m |
+|
 
-300 mm |
+2 m
 
-500 mm |
+|
 
-3. Signalétique tactile
+60 mm
 
-La signalétique visuelle identifiant un local ou une installation doit également être perceptible au toucher. Les caractères "Helvetica", gras, sansérifs ou bâtons offrent une bonne lisibilité, à la fois tactile et visuelle.
+|
+
+100 mm
+
+|
+
+5 m
+
+|
+
+150 mm
+
+|
+
+250 mm
+
+|
+
+10 m
+
+|
+
+300 mm
+
+|
+
+500 mm
+
+|
+
+3. Signalétique tactile.
+
+La signalétique visuelle identifiant un local ou une installation doit également être perceptible au toucher. Les caractères Helvetica gras, sansérifs ou bâtons offrent une bonne lisibilité, à la fois tactile et visuelle.
 
 La signalétique tactile doit avoir :
 
@@ -90,23 +122,23 @@ La signalétique tactile doit avoir :
 
 - une hauteur comprise entre 15 et 50 mm ;
 
-- une largeur de trait comprise entre10% et 15% de la hauteur ;
+- une largeur de trait comprise entre 10 % et 15 % de la hauteur ;
 
 - des contours légèrement arrondis.
 
 Une transcription est alignée à gauche sous les caractères en relief :
 
-- en braille intégral, pour 1 à 10 mots ;
+- en braille intégral, pour un à dix mots ;
 
-- en braille abrégé, pour 10 mots et plus.
+- en braille abrégé, pour dix mots et plus.
 
-4. Pictogrammes
+4. Pictogrammes.
 
 Les pictogrammes à l'usage des passagers à mobilité réduite doivent répondre aux prescriptions suivantes :
 
-- ne pas pouvoir prêter à confusion avec les pictogrammes concernant la lutte incendie ou ceux concernant les engins et dispositifs de sauvetage (1) ;
+- ne pas pouvoir prêter à confusion avec les pictogrammes concernant la lutte incendie ou ceux concernant les engins et dispositifs de sauvetage (4) ;
 
-- être disposés entre 1400 mm et 1600 mm du sol ;
+- être disposés entre 1 400 mm et 1 600 mm du sol ;
 
 - avoir une hauteur minimale de 150 mm ;
 
@@ -116,9 +148,9 @@ Les pictogrammes à l'usage des passagers à mobilité réduite doivent répondr
 
 - être bien éclairés.
 
-La symbolique des pictogrammes doit être conforme à la norme ISO 7000 : 2004.
+La symbolique des pictogrammes doit être conforme à la norme ISO 7000:2004.
 
-5. Emplacement
+5. Emplacement.
 
 Les plans d'orientation doivent être placés à proximité de l'entrée dans les emménagements du navire et être placés sur chaque pont à proximité des ascenseurs et des escaliers.
 
@@ -126,12 +158,12 @@ Les flèches de direction doivent être positionnées sur les cloisons à tout e
 
 Les panneaux d'identification des locaux doivent être placés perpendiculairement au sens de déplacement et peuvent être :
 
-- affichés sur les cloisons, le centre à une hauteur de 1500 mm du sol fini ;
+- affichés sur les cloisons, le centre à une hauteur de 1 500 mm du sol fini ;
 
-- en saillie d'une cloison, le bas à une hauteur d'au moins 1980 mm du sol fini ;
+- en saillie d'une cloison, le bas à une hauteur d'au moins 1 980 mm du sol fini ;
 
-- suspendus au plafond, le bas à une hauteur d'au moins 1980 mm du sol fini.
+- suspendus au plafond, le bas à une hauteur d'au moins 1 980 mm du sol fini.
 
 NOTA :
 
-(1) Se reporter aux résolutions de l'OMI A.654(16) telle qu'amendée par la résolution A.952(23) et A.760(18) telle qu'amendée par la résolution MSC.82(70).
+(4) Se reporter aux résolutions de l'OMI A.654 (16) telle qu'amendée par la résolution A.952 (23) et A.760 (18) telle qu'amendée par la résolution MSC.82 (70).
