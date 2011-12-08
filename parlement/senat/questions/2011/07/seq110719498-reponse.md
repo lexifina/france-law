@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719498
+
+- Question : [SEQ110719498](seq110719498.md) — Situation des psychologues
+
+## Réponse
+
+*Santé, JO du 2011-12-08, page 3165*
+
+Pour répondre aux inquiétudes des psychologues relevant de la fonction publique hospitalière quant à leurs perspectives de carrière, les services du ministère chargé de la santé ont été amenés à organiser des réunions de concertation avec les organisations représentatives de la profession. En ce qui concerne les conditions d'accès des psychologues au titre de psychothérapeute dans les suites du décret du 20 mai 2010, les discussions menées ont permis de finaliser une proposition visant à mieux reconnaître les cursus de psychologie. Cette proposition qui a fait l'objet d'une expertise avec le ministère de l'enseignement supérieur et de la recherche devrait permettre de trouver un consensus avec la profession. Le protocole d'accord signé le 31 mars 2011 avec les organisations syndicales, relatif à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels, qui doit trouver en cours d'année sa traduction législative, permettra de proposer des mesures de titularisation aux psychologues contractuels. Le temps « formation, information, recherche » fera également l'objet de travaux. Les services du ministère chargé de la santé travaillent en lien avec les professionnels à une révision de la circulaire y afférente. Enfin, en ce qui concerne l'exercice du métier de psychologue à l'hôpital, le cycle de concertation avec les représentants des professionnels a d'ores et déjà permis de réviser la fiche métier des psychologues hospitaliers en réintroduisant la psychothérapie au cœur de leur activité. Il va se poursuivre par une réflexion sur la structuration institutionnelle du métier à l'hôpital.
