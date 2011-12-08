@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719575
+
+- Question : [SEQ110719575](seq110719575.md) — Avenir des petites officines en milieu rural
+
+## Réponse
+
+*Santé, JO du 2011-12-08, page 3164*
+
+Le Gouvernement reste très attaché au maintien des officines en milieu rural. Bien que le maillage actuel soit globalement satisfaisant, il convient effectivement de prévenir tout risque de désertification à court ou moyen terme. À cet effet, il appartient aux directeurs généraux des agences régionales de santé (ARS) de veiller à garantir une offre de services d'officines dans les secteurs fragilisés. La réalisation en cours du volet ambulatoire du Schéma régional de l'organisation sanitaire (SROS) leur permet d'identifier, avec l'ensemble des professionnels de santé, les zones de fragilité médicale. Ce travail est essentiel, car la désertification médicale est le principal risque susceptible d'entraîner des disparitions d'officines. Ils construisent dans le SROS des stratégies pour prévenir ce risque. Ils peuvent aussi veiller, dans ce cadre, à la proximité géographique des officines avec les structures d'exercice coordonné telles que les maisons de santé. Les directeurs généraux des ARS ont ainsi à leur main des leviers pour maintenir et faire converger, sur le moyen terme, les implantations des deux professions essentielles du premier recours : celle des médecins généralistes et celle des pharmaciens d'officine. Toutefois, le réseau officinal se caractérise également par des zones de forte surdensité. C'est la raison pour laquelle le Gouvernement, dans le cadre du projet de loi de financement de la sécurité sociale pour 2012, propose d'étendre le champ de la convention pharmaceutique à la négociation d'objectifs quantifiés d'évolution du réseau, de nature à mobiliser la profession en faveur d'une optimisation du maillage officinal.
