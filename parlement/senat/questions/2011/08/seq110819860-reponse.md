@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110819860
+
+- Question : [SEQ110819860](seq110819860.md) — Suppressions de postes d'emploi vie scolaire
+
+## Réponse
+
+*Éducation, JO du 2011-12-08, page 3153*
+
+Les personnels employés dans le cadre des différents dispositifs de contrats aidés exercent au sein des établissements scolaires des missions visant à épauler les directeurs d'école, à contribuer au bon fonctionnement de la vie scolaire et à accompagner les élèves handicapés en milieu scolaire ordinaire. Ils sont depuis cette année recrutés, quelle que soit leur mission, sous la forme d'un même contrat : le contrat unique d'insertion. Ce contrat permet de conserver en poste, par renouvellement successif, la même personne jusqu'à 24 mois dans le cas général ou jusqu'à 60 mois dans certaines conditions, notamment d'âge. Près de 41 000 contrats aidés de ce type seront mis à la disposition des académies dès le 1er octobre. Le Président de la République et l'ensemble du Gouvernement considèrent comme une priorité la prise en charge du handicap. Un effort sans précédent a été réalisé dans ce domaine, notamment lorsqu'il s'est agi de répartir les contrats aidés. Cet effort porte ses fruits et va encore être renforcé dès la prochaine rentrée. S'agissant des contrats aidés chargés d'assister les directeurs d'école, le Président de la République a annoncé, le 2 septembre 2011, 20 000 contrats aidés supplémentaires, dont 4 000 postes au bénéfice du ministère de l'éducation nationale et plus particulièrement au bénéfice de l'assistance à la direction d'école. Nous retrouverons ainsi un niveau d'aide à la direction d'école proche de celui constaté lors de l'année scolaire 2010-2011. Cet effort est très significatif, dans une période difficile pour nos finances publiques et qui exige de la part de chacun une gestion méticuleuse des moyens.
