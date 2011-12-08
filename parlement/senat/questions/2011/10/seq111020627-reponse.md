@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111020627
+
+- Question : [SEQ111020627](seq111020627.md) — Commémoration du 19 mars 1962
+
+## Réponse
+
+*Défense et des anciens combattants (SE), JO du 2011-12-08, page 3149*
+
+La date officielle de la journée d'hommage aux morts pour la France pendant la guerre d'Algérie et les combats du Maroc et de la Tunisie est fixée au 5 décembre par le décret n° 2003-925 du 26 septembre 2003. Cette date correspond à l'hommage officiel de la Nation, désormais rendu tous les ans, dans chacun de nos départements et chacune de nos collectivités d'outre-mer. Il s'agit d'un hommage en l'honneur des morts engagés dans le conflit, et non de la commémoration d'un événement particulier. Les associations d'anciens combattants ont bien entendu la liberté d'organiser des manifestations publiques correspondant à des anniversaires d'événements qu'elles jugent dignes de commémoration. Parmi ces dates, figure l'anniversaire du cessez-le-feu en Algérie le 19 mars. Les préfets doivent veiller au déroulement de ces manifestations dans de bonnes conditions d'ordre et de sécurité. Le 50e anniversaire de la fin de la guerre d'Algérie sera un temps important du calendrier commémoratif français en 2012. Cependant, la programmation des manifestations qui, au niveau de l'État, marqueront ce cinquantenaire n'est pas encore arrêtée. Les formes que revêtira cette commémoration et les dates qui l'articuleront ne peuvent par conséquent être précisées. En tout état de cause, la cérémonie officielle qui sera organisée pour rendre plus particulièrement hommage aux « morts pour la France » pendant la guerre d'Algérie et les combats du Maroc et de la Tunisie se déroulera le 5 décembre, date officielle de la journée nationale d'hommage aux « morts pour la France » pendant les conflits d'Afrique du Nord, instituée par le décret n° 2003-925 du 26 septembre 2003.
