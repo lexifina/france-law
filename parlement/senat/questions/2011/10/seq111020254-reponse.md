@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111020254
+
+- Question : [SEQ111020254](seq111020254.md) — Médecine ostéopathique des animaux
+
+## Réponse
+
+*Agriculture, JO du 2011-12-08, page 3143*
+
+L'ordonnance du 20 janvier 2011, relative aux conditions dans lesquelles certains actes peuvent être réalisés par des personnes n'ayant pas la qualité de vétérinaire, vise à clarifier les contours de l'exercice illégal de la médecine et de la chirurgie des animaux et à adapter le droit aux usages du terrain reconnus par les acteurs de la santé animale. Selon l'ancienne rédaction de l'article L. 243-1 du code rural et de la pêche maritime, les activités d'ostéopathie vétérinaire réalisées par des acteurs non vétérinaires étaient susceptibles d'être sanctionnées au titre de l'exercice illégal de la médecine et de la chirurgie des animaux, lorsque ceux qui les pratiquaient établissaient un diagnostic médical ou dispensaient des soins préventifs ou curatifs. L'ordonnance du 20 janvier n'a pas substantiellement modifié l'état du droit en la matière. La nécessité pour les filières animales de disposer des compétences des ostéopathes animaliers non vétérinaires a été plaidée par leurs représentants nationaux auprès du ministère en charge de l'agriculture à l'issue de la publication de l'ordonnance du 20 janvier 2011. Le ministère ainsi averti de cette problématique a favorisé un cycle de concertation entre les représentants nationaux des ostéopathes animaliers non vétérinaires et les organisations professionnelles vétérinaires. À l'issue de ce cycle, les dispositions de l'ordonnance du 20 janvier 2011 ont été modifiées par l'ordonnance n° 2011-862 du 22 juillet 2011, afin de permettre l'exercice des activités d'ostéopathie vétérinaire à des acteurs non vétérinaires, sous réserve de la mise en place de conditions d'exercice et de formation qui devront être fixées par décret.
