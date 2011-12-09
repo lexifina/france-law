@@ -12,15 +12,17 @@ Le seuil de l'effectif à partir duquel les établissements définis à l'articl
 
 - b) les bâtiments ou locaux à usage d'hébergement qui ne relèvent d'aucun type défini à l'article GN 1 et qui permettent d'accueillir plus de 15 et moins de 100 personnes n'y élisant pas domicile. Ils sont soumis aux dispositions des chapitres Ier, II et III du présent livre ;
 
-- c) en aggravation, si l'hébergement concerne des mineurs en dehors de leurs familles, le seuil de l'effectif à partir duquel les dispositions prévues au paragraphe b ci-dessus s'appliquent est fixé à 7 mineurs.
+- c) en aggravation, si l'hébergement concerne des mineurs en dehors de leurs familles, le seuil de l'effectif à partir duquel les dispositions prévues au paragraphe b ci-dessus s'appliquent est fixé à 7 mineurs ;
 
 Toutefois, dans ce cas, lorsque les conditions suivantes sont simultanément respectées :
 
 - la capacité maximale d'accueil est inférieure ou égale à 15 personnes ;
 
-- chaque local à sommeil dispose d'au moins une sortie ouvrant de plain-pied vers l'extérieur, cette sortie ne pouvant être obturée qu'au moyen d'un dispositif de fermeture conforme aux dispositions de l'article PE 11 § 2 ;
+- chaque local à sommeil dispose d'au moins une sortie ouvrant de plain-pied vers l'extérieur, cette sortie ne pouvant être obturée qu'au moyen d'un dispositif de fermeture conforme aux dispositions de l'article PE 11, 2 ;
 
 - seules les dispositions des articles PE 4, PE 6 § 1, PE 24 § 1, PE 26 § 1, PE 27 et PE 37 sont applicables. En dérogation à l'article PE 37, le maire peut faire visiter l'établissement par la commission de sécurité compétente.
+
+- d) les maisons d'assistants maternels (MAM) dont les locaux accessibles au public sont strictement limités à un seul étage sur rez-de-chaussée et dont l'effectif ne dépasse pas 16 enfants (1).
 
 § 3. Sont assujettis aux seules dispositions des articles PE 4 § 2 et 3, PE 24 § 1, PE 26 § 1 et PE 27, s'ils reçoivent au plus 19 personnes constituant le public :
 
@@ -319,3 +321,7 @@ Plein air (établissements de) |
 (***) Les gares souterraines et mixtes sont classées dans le 1er groupe quel que soit l'effectif.
 
 |
+
+NOTA :
+
+(1) Une MAM est le regroupement d'au moins deux et au plus quatre assistants maternels.
