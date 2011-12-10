@@ -26,26 +26,6 @@ Arrivées :
 
 - de 23 h 30 à 6 h 19 locales : néant.
 
-Conditions d'utilisation des aérogares :
-
-Traitement possible en simultané, dans la zone de haute sûreté de l'aérogare Sud, de :
-
-- un très gros-porteur et un moyen-porteur, ou
-
-- deux gros-porteurs, ou
-
-- un gros-porteur et un moyen-porteur, ou
-
-- deux moyens-porteurs,
-
-étant précisé que :
-
-- un très gros-porteur est un aéronef offrant un nombre de sièges supérieur à 300 ;
-
-- un gros-porteur est un aéronef offrant un nombre de sièges inférieur ou égal à 300 et supérieur à 200 ;
-
-- un moyen-porteur est un aéronef offrant un nombre de sièges inférieur ou égal à 200.
-
 2. Capacités des terminaux
 
 A compter de la saison aéronautique d'été 2011 :
