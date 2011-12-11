@@ -198,7 +198,7 @@ Arts (f)
 
 |
 
-ou Biologie, agronomie, territoire et développement durable (h) (e)
+ou Ecologie, agronomie et territoires (h) (e)
 
 |
 
@@ -492,27 +492,13 @@ Pratiques sociales et culturelles (h)
 
 |
 
-Pratiques professionnelles (h)
-
-|
-
-3 h
-
-|
-
-|
-
-|
-
-|
-
-|
-
 b) atelier artistique
 
 |
 
-72 h an nuelles
+72 h
+
+annuelles
 
 |
 
@@ -714,7 +700,7 @@ un enseignement dé spécialité au choix parmi :
 
 |
 
-ou Biologie, agronomie et développement durable (h)
+ou Ecologie, agronomie et territoires (h)
 
 |
 
@@ -864,7 +850,7 @@ Mathématiques
 
 |
 
-Territoire et citoyenneté (h)
+Ecologie, agronomie et territoires (h)
 
 |
 
@@ -1079,22 +1065,6 @@ Hippologie et équitation (h)
 |
 
 Pratiques sociales et culturelles (h)
-
-|
-
-3 h
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Pratiques professionnelles (h)
 
 |
 
