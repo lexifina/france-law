@@ -1,6 +1,8 @@
 # Article Annexe II
 
-EXTRAIT DU RÉFÉRENTIEL DE CERTIFICATION DU BREVET D'ÉTUDES PROFESSIONNELLES AGRICOLES SPÉCIALITÉ " SERVICES AUX PERSONNES "
+EXTRAIT DU RÉFÉRENTIEL DE CERTIFICATION DU BREVET D'ÉTUDES
+
+PROFESSIONNELLES AGRICOLES SPÉCIALITÉ "SERVICES AUX PERSONNES"
 
 CAPACITÉS
 
@@ -22,12 +24,6 @@ CANDIDATS HORS FORMATION
 
 |
 
-|
-
-|
-
-|
-
 Epreuves certificatives
 
 en cours de formation
@@ -37,12 +33,6 @@ en cours de formation
 Epreuves ponctuelles
 
 terminales
-
-|
-
-|
-
-|
 
 |
 
@@ -108,8 +98,6 @@ C 5 : Identifier les éléments de contexte de l'activité de services aux perso
 
 C 6 : Présenter les composantes d'une activité d'aide à la personne
 
-C 7 : Organiser son travail dans une perspective de sécurité
-
 |
 
 E 2
@@ -135,6 +123,8 @@ Oral
 30 minutes
 
 |
+
+C 7 : Organiser son travail dans une perspective de sécurité
 
 C 8 : Mettre en place une communication dans le cadre d'une activité d'aide à la personne
 
@@ -168,4 +158,4 @@ Pratique
 
 |
 
-L'annexe II peut être consultée au ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire, DGER, 1 ter, avenue de Lowendal, 75007 Paris, ou sur le site www.chlorofil.fr .
+L'annexe II peut être consultée au ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire, DGER, 1 ter, avenue de Lowendal, 75007 Paris, ou sur le site http://www.chlorofil.fr/ .
