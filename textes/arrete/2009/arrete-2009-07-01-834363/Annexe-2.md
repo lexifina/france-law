@@ -4,23 +4,19 @@ Liste des spécialités du baccalauréat professionnel
 
 relevant de chaque champ professionnel
 
-SPÉCIALITÉS DU BACCALAURÉAT PROFESSIONNEL
+SPÉCIALITÉS DU BACCALAURÉAT
+
+professionnel
 
 |
 
-CHAMPS PROFESSIONNELS ET CLASSES
+CHAMPS PROFESSIONNELS
 
-de seconde professionnelle
-
-|
-
-Conduite et gestion de l'exploitation agricole, systèmes à dominante élevage
+et classes de seconde professionnelle
 
 |
 
-|
-
-Conduite et gestion de l'exploitation agricole, élevage et valorisation du cheval
+Conduite et gestion de l'exploitation agricole/systèmes à dominante élevage
 
 |
 
@@ -28,53 +24,35 @@ Productions animales
 
 |
 
-Conduite et gestion de l'élevage canin et félin
+Conduite et gestion de l'entreprise hippique
 
 |
 
-|
-
-Production aquacole
+Conduite et gestion d'une entreprise du secteur canin et félin
 
 |
 
-|
-
-Conduite et gestion de l'exploitation agricole, systèmes à dominante cultures
+Productions aquacoles
 
 |
 
-|
-
-Conduite et gestion de l'exploitation agricole, vigne et vin
+Conduite et gestion de l'exploitation agricole/systèmes à dominante cultures
 
 |
 
-|
-
-Productions horticoles, productions florales et légumières
+Productions végétales - agroéquipement
 
 |
 
-Productions végétales-Agroéquipements
+Conduite et gestion de l'exploitation agricole/vigne et vin
 
 |
 
-Productions horticoles, productions fruitières
+Productions horticoles
 
 |
 
-|
-
-Productions horticoles, pépinières
-
-|
-
-|
-
-Agroéquipements
-
-|
+Agroéquipement
 
 |
 
@@ -82,13 +60,11 @@ Aménagements paysagers
 
 |
 
-|
-
-Gestion et conduite des chantiers forestiers
+Nature - jardin - paysage - forêt
 
 |
 
-Nature-Jardin-Paysage-Forêt
+Forêt
 
 |
 
@@ -96,15 +72,7 @@ Gestion des milieux naturels et de la faune
 
 |
 
-|
-
-Technicien-conseil vente en animalerie
-
-|
-
-|
-
-Technicien-conseil vente en alimentation
+Technicien conseil vente en animalerie
 
 |
 
@@ -112,26 +80,22 @@ Conseil vente
 
 |
 
-Technicien-conseil vente de produits de jardin
+Technicien conseil vente en alimentation
 
 |
 
-|
-
-Bio-industries de transformation (1)
+Technicien conseil vente en produits de jardin
 
 |
 
-Alimentation-Bio-industries-Laboratoire
+Bio-industries de transformation
+
+|
+
+Alimentation - bio-industries - laboratoire
 
 |
 
 Laboratoire contrôle qualité
-
-|
-
-|
-
-(1) Cette spécialité du baccalauréat professionnel relève également d'un champ professionnel défini par arrêté du ministre de l'éducation nationale.
 
 |
