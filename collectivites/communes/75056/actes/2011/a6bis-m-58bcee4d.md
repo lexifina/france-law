@@ -1,0 +1,9 @@
+# Paris : acte A6bis M — en réponse à l'amendement n°6 : relatif au soutien contre le SIDA en Afrique.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2011-12-12
+- Nature : A
+- Objet : en réponse à l'amendement n°6 : relatif au soutien contre le SIDA en Afrique.
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
