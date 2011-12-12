@@ -712,6 +712,8 @@ Société française de plaques de plâtre (SFPP)/Pregypan/Pregypan Rigips/Plât
 
 Société de projection de matériaux isolants (SPMI), route de Saint-Cézaire, lieudit Grange de Jourdan, 06460 Saint-Vallier-de-Thiey : de 1989 à 1992 ;
 
+Société de tuyauterie et de montage Friedlander, établissement secondaire de Saint-Auban, ZI Les Blâches Gombert, 04160 Château-Arnoux : de 1970 à 1996 ;
+
 Société industrielle de tuyauterie d'usine et de bâtiment, 23-25, 4e-Avenue, BP 2157, 13847 Vitrolles Cedex : depuis sa création ;
 
 Société nouvelle de gestion des établissements Coder (SNGEC) puis Titan Coder puis Société métallurgique de Saint-Marcel (SMSM) puis Société d'exploitation Saint-Marcel ferroviaire (SESMF) puis
@@ -739,6 +741,8 @@ CARTONNERIES réunies VOISIN ET PASCAL, Usine du Moulin, rue de l'Etissey, 38300
 Carborundum, 17, rue Antoine-Durafour, 42420 Lorette : de 1964 à 1977.
 
 CECA Saint-Bauzille, CECA, 07210 Saint-Bauzille : de 1960 à 1970.
+
+CEZUS Chimie SA, Etablissement de Jarrie, route du Marais, 38560 Jarrie : de 1982 à 1994.
 
 CME, IEE, Erome SA, chemin Vianial, 26600 Erome, de 1971 à 1986.
 
@@ -768,7 +772,7 @@ JST/Vatech, 84, avenue Paul-Santy, 69008 Lyon : de 1949 à 1988 ;
 
 Loire Fonte Industrie (LFI, ex-Fonderie Jurine), 97, rue de la République, 42500 Le Chambon-Feugerolles : de 1920 à 1995 ;
 
-Pavailler Equipement, Pavailler BVP, 555, rue Benoît-Frachon, 26800 Portes-lès-Valence, de 1950 à 1996 ;
+Pavailler, puis Pavailler BP, puis APV Pavailler Equipement, puis Pavailler Equipement, 555, rue Benoît-Frachon, 26800 Portes-lès-Valence, de 1950 à 1996 ;
 
 Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, zone industrielle, 07210 Alissas, de 1969 à 1980 ;
 
