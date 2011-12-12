@@ -1,0 +1,9 @@
+# Paris : acte V44 M — relatif à l'opposition au travail du dimanche.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2011-12-12
+- Nature : VNR
+- Objet : relatif à l'opposition au travail du dimanche.
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
