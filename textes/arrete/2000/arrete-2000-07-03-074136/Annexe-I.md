@@ -48,7 +48,7 @@ Patouret Dubois, 89200 Avallon : de 1890 à 1997 ;
 
 Porteret Beaulieu Industries, BP 11, 21310 Mirebeau-sur-Bèze : de 1940 à 1996 ;
 
-SA UFAGA/Flertex, usine de Saint-Florentin, 9, avenue de Genève, 89600 Saint-Florentin : de 1960 à 1996 ;
+SA UFAGA/Flertex, usine de Saint-Florentin, 9, avenue de Genève, 89600 Saint-Florentin : de 1960 à 1997 ;
 
 SERCI Isothelme, 89150 Saint-Valérien, de 1960 à 1996 ;
 
@@ -332,7 +332,7 @@ Rhône-Alpes
 
 Curty Compagnie/Cefilac SA/Société Curty/Société Curty Payen/Federal Mogul/Sealing Systems, 93-103, avenue Lacassagne, 69003 Lyon ; - 25, rue Aristide-Briand, 69800 Saint-Priest : de 1916 à 1994.
 
-Dalami/Sud Isol/Sommer Revêtement France SA, BP 25, ZI Le Cappa, 26140 Saint-Rambert-d'Albon : de 1961 à 1986.
+Dalami, BP 25, Le Cappa, 26140 Saint-Rambert-d'Albon : de 1961 à 1978, puis Sud Isol/Sommer Revêtements, France SA, BP 25, Le Cappa, 26140 Saint-Rambert-d'Albon : de 1978 à 1986 ;
 
 Entreprise Lopez, 26140 Andancette : de 1978 à 1997.
 
