@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110920193
+
+- Question : [SEQ110920193](seq110920193.md) — Financement des travaux de protection dans les habitations du voisinage d'un établissement dangereux
+
+## Réponse
+
+*Écologie, JO du 2011-12-15, page 3221*
+
+Issu de la loi n° 2003-699 du 30 juillet 2003, le plan de prévention des risques technologiques (PPRT) a pour objectif de pérenniser l'activité des sites industriels à hauts risques dans leur environnement en protégeant les personnes se trouvant à proximité, de manière à corriger les situations difficiles héritées du passé. La loi a prévu que les travaux prescrits par le PPRT relèvent de la responsabilité des propriétaires des biens concernés. Ces travaux font l'objet d'une aide sous la forme d'un crédit d'impôt. L'instance de suivi des PPRT, qui regroupe les représentants des industriels, des collectivités, de l'État et des associations, a étudié la possibilité de prendre en compte l'historique, à savoir le fait que dans certains cas, les maisons d'habitation étaient construites avant les sites industriels. Cependant, face aux difficultés et aux incertitudes rencontrées pour retracer la chronologie précise des différentes phases de développement d'un complexe industriel et de son environnement ayant conduit à la situation actuelle, cette piste a dû être abandonnée au profit d'un traitement global. Néanmoins, à propos de la participation des industriels au financement des travaux imposés par leurs installations et de la responsabilité des collectivités délivrant les permis de construire, le dialogue engagé avec les collectivités et les industriels, qui avaient notifié leur engagement à participer à ces dépenses au travers d'un dispositif complémentaire permettant de couvrir tout ou partie de la part encore à la charge des propriétaires, reste ouvert.
