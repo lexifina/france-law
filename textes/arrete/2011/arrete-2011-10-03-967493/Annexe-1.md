@@ -1,6 +1,8 @@
-# Article Annexe I
+# Article Annexe 1
 
-LISTE DES DISCIPLINES SUSCEPTIBLES D'ETRE CHOISIES DANS L'OPTION CONSEILLER D'ANIMATION SPORTIVE POUR L'EPREUVE D'ADMISSION N° 3 DU CONCOURS EXTERNE
+DISCIPLINES SUSCEPTIBLES D'ÊTRE MENTIONNÉES
+
+DANS L'ARRÊTÉ PORTANT OUVERTURE DES CONCOURS
 
 Alpinisme.
 
@@ -14,11 +16,17 @@ Base-ball.
 
 Basket-ball.
 
+Billard.
+
+Bowling.
+
 Boxe anglaise.
 
 Boxe française.
 
 Canoë-kayak.
+
+Char à voile.
 
 Course d'orientation.
 
@@ -48,6 +56,8 @@ Handisport.
 
 Hockey sur gazon.
 
+Hockey sur glace.
+
 Judo.
 
 Karaté.
@@ -66,11 +76,15 @@ Pentathlon moderne.
 
 Pétanque.
 
+Planeur ultra-léger-motorisé (PLUM).
+
 Roller-skating.
 
 Rugby à XIII.
 
 Rugby.
+
+Sauvetage.
 
 Ski.
 
@@ -81,6 +95,8 @@ Spéléologie.
 Sport adapté.
 
 Sports boules.
+
+Sports de contact.
 
 Sports de glace.
 
@@ -98,14 +114,16 @@ Tir.
 
 Tir à l'arc.
 
-Trampoline.
-
 Triathlon.
 
 Voile.
 
-Vol à voile.
+Vol à voile
 
 Volley-ball.
 
 Vol libre.
+
+Wushu.
+
+Et toutes spécialités rattachées à ces disciplines.
