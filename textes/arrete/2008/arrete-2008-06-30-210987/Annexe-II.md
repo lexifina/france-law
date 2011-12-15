@@ -1,10 +1,8 @@
 # Article Annexe II
 
-CONDITIONS RELATIVES À LA DÉTENTION D'OUTILLAGES
+CONDITIONS RELATIVES À LA DÉTENTION D'OUTILLAGES PAR CATÉGORIE D'ACTIVITÉS
 
-PAR CATÉGORIE D'ACTIVITÉS
-
-CATÉGORIES
+CATÉGORIE
 
 d'activités
 
@@ -14,21 +12,29 @@ OUTILLAGE EXIGÉ
 
 |
 
+Le bon fonctionnement et l'exactitude de l'outillage sont vérifiés au moins une fois tous les douze mois.
+
+|
+
 Catégorie I
 
 |
 
-Station de charge et de récupération conforme à la norme NF EN 35421.
+- station de charge et de récupération testée conformément à la norme NF E 35-421 ;
 
-Bouteilles de récupération par type de fluide.
+L'information relative à l'efficacité de récupération est disponible.
 
-Détecteur de fuites conforme à la norme NF EN 14624.
+- bouteilles de récupération par type de fluide ;
 
-Raccords flexibles avec obturateurs.
+- détecteur de fuites conforme à la norme NF EN 14624 ;
 
-Manomètres, thermomètre électronique et balance de précision 5 %.
+- raccords flexibles avec obturateurs ;
 
-Matériel de marquage.
+- manomètres, thermomètre électronique ;
+
+- balance ayant une erreur maximale de mesure inférieure ou égale à 5 % en tout point de l'étendue de mesure ;
+
+- matériel de marquage.
 
 |
 
@@ -36,17 +42,21 @@ Catégorie II
 
 |
 
-Station de charge et de récupération conforme à la norme NF EN 35421.
+- station de charge et de récupération testée conformément à la norme NF E 35-421 ;
 
-Bouteilles de récupération par type de fluide.
+L'information relative à l'efficacité de récupération est disponible.
 
-Détecteur de fuites conforme à la norme NF EN 14624.
+- bouteilles de récupération par type de fluide ;
 
-Raccords flexibles avec obturateurs.
+- détecteur de fuites conforme à la norme NF EN 14624 ;
 
-Manomètres, thermomètre électronique et balance de précision 5 %.
+- raccords flexibles avec obturateurs ;
 
-Matériel de marquage.
+- manomètres, thermomètre électronique ;
+
+- balance ayant une erreur maximale de mesure inférieure ou égale à 5 % en tout point de l'étendue de mesure ;
+
+- matériel de marquage.
 
 |
 
@@ -54,11 +64,23 @@ Catégorie III
 
 |
 
-Station de charge et de récupération conforme à la norme NF EN 35421.
+- station de charge et de récupération testée conformément à la norme NF E 35-421 ou norme équivalente ;
 
-Bouteilles de récupération par type de fluide.
+L'information relative à l'efficacité de récupération est disponible.
 
-Manomètres et balance de précision 5 %.
+- bouteilles de récupération par type de fluide ;
+
+- manomètres ;
+
+- balance ayant une erreur maximale de mesure inférieure ou égale à 5 % en tout point de l'étendue de mesure.
+
+Pour les opérations de récupération effectuées dans les installations visées à l'article R. 543-200 du code de l'environnement :
+
+- station de récupération ;
+
+- bouteilles de récupération ;
+
+- balance ayant une erreur maximale de mesure inférieure ou égale à 5 % en tout point de l'étendue de mesure.
 
 |
 
@@ -66,9 +88,9 @@ Catégorie IV
 
 |
 
-Détecteur de fuites conforme à la norme NF EN 14624.
+- détecteur de fuites conforme à la norme NF EN 14624 ;
 
-Manomètres, thermomètre.
+- manomètres, thermomètre.
 
 |
 
@@ -76,12 +98,28 @@ Catégorie V
 
 |
 
-Station de charge et de récupération compacte ou en éléments séparés.
+- station de charge et de récupération compacte ou en éléments séparés ;
 
-Matériel de détection des fuites adapté aux systèmes de climatisation de véhicules.
+- bouteilles de récupération par type de fluide, le cas échéant intégrées à la station de charge et de récupération ;
 
-Thermomètre et balance de précision 5 %.
+- matériel de détection des fuites adapté aux systèmes de climatisation de véhicules ;
 
-Tableau mis à jour des charges en fluide et en huile des véhicules.
+- thermomètre ;
+
+- balance ayant une erreur maximale de mesure inférieure ou égale à 5 % en tout point de l'étendue de mesure ;
+
+- tableau mis à jour des charges en fluide et en huile des véhicules.
 
 |
+
+Lorsque la récupération est effectuée par un centre VHU titulaire de l'agrément prévu à l'article R. 543-162 du code de l'environnement seuls les équipements suivants sont requis :
+
+- station de récupération ;
+
+- bouteilles de récupération par type de fluide, le cas échéant intégrées à la station de charge et de récupération ;
+
+- balance ayant une erreur maximale de mesure inférieure ou égale à 5 % en tout point de l'étendue de mesure.
+
+|
+
+La balance peut, le cas échéant, être intégrée à la station de charge et de récupération.

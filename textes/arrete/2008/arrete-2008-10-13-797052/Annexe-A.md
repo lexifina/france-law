@@ -2,7 +2,7 @@
 
 CRITÈRES À SATISFAIRE PAR LES ORGANISMES ÉVALUATEURS POUR LA DÉLIVRANCE DE L'ATTESTATION D'APTITUDE ET LISTE DES PIÈCES JUSTIFICATIVES À JOINDRE AU DOSSIER DE DEMANDE DE CERTIFICATION
 
-La première colonne de cette annexe définit les critères à satisfaire par un organisme évaluateur.L'organisme certificateur évalue la recevabilité du dossier de demande de certification sur la base des pièces listées dans la deuxième colonne.
+La première colonne de cette annexe définit les critères à satisfaire par un organisme évaluateur. L'organisme certificateur évalue la recevabilité du dossier de demande de certification sur la base des pièces listées dans la deuxième colonne.
 
 MESURES
 
@@ -15,8 +15,6 @@ PIÈCES JUSTIFICATIVES
 |
 
 1. Mesures administratives et juridiques
-
-|
 
 |
 
@@ -50,13 +48,13 @@ Il a une existence légale.
 
 Il fournit les documents suivants :
 
--inscription Kbis ou inscription à la chambres des métiers ;
+- inscription Kbis ou inscription à la chambres des métiers ;
 
--immatriculation INSEE (SIRET ou NAF) ;
+- immatriculation INSEE (SIRET ou NAF) ;
 
--copie des statuts ;
+- copie des statuts ;
 
--renseignements d'identité concernant son responsable légal.
+- renseignements d'identité concernant son responsable légal.
 
 |
 
@@ -66,9 +64,9 @@ Il remplit ses obligations sociales et a un fonctionnement régulier au regard d
 
 Il fournit les documents suivants :
 
--attestation sur l'honneur du versement des impôts et taxes ;
+- attestation sur l'honneur du versement des impôts et taxes ;
 
--attestation d'inscription et de mise à jour inférieure à 3 mois à l'URSSAF ou autre régime, aux congés payés, à la caisse de retraite (ouvrier, cadre, régime particulier) et à la DADS nominative couvrant l'année précédant la demande.
+- attestation d'inscription et de mise à jour inférieure à 3 mois à l'URSSAF ou autre régime, aux congés payés, à la caisse de retraite (ouvrier, cadre, régime particulier) et à la DADS nominative couvrant l'année précédant la demande.
 
 |
 
@@ -94,8 +92,6 @@ Il fournit, s'il y a lieu, la liste précise des agences ou établissements seco
 
 |
 
-|
-
 Le demandeur met en œuvre, dans le champ de la certification, des moyens financiers et humains cohérents.
 
 |
@@ -110,41 +106,19 @@ Si l'entreprise du demandeur a été créée depuis moins de trois ans, il fourn
 
 |
 
-|
-
 Le demandeur doit disposer de moyens (notamment des locaux et des matériels) suffisants en quantité et en qualité pour accomplir l'ensemble de ses activités dans le champ de la certification.
 
 |
 
 Le demandeur fournit la liste exhaustive de ces locaux et matériels en précisant s'il s'agit de locaux ou matériels en propriété, en location ou mis à sa disposition.
 
-|
-
-|
-
 S'il intervient dans des locaux mis à sa disposition ou loués, il fournit la liste des organismes avec lesquels des conventions de mise à disposition ou des contrats de location de locaux ont été signés ou avec lesquels il est prévu que de telles conventions ou locations soient signées.
-
-|
-
-|
 
 Il présente, le cas échéant, une copie des contrats de location des locaux et des contrats de location du matériel.
 
-|
-
-|
-
 Il démontre l'adéquation qualitative et quantitative de ces locaux et matériels aux conditions techniques des évaluations pratiques.
 
-|
-
-|
-
 Il produit les preuves que les matériels utilisés sont régulièrement entretenus et en bon état de fonctionnement.
-
-|
-
-|
 
 Il conserve et archive les documents attestant de cette maintenance conformément aux articles R. 543-80 et R. 543-82 du code de l'environnement (documents attestant que les contrôles d'étanchéité ont été réalisés et fiches d'intervention).
 
@@ -156,25 +130,17 @@ Il emploie de façon permanente un nombre suffisant de personnes compétentes.
 
 Il fournit :
 
--la liste du personnel affecté à l'activité d'évaluation ;
+- la liste du personnel affecté à l'activité d'évaluation ;
 
--la liste des vacataires et autres collaborateurs extérieurs réguliers ainsi que les conventions ou contrats qui les lient à l'organisme ;
+- la liste des vacataires et autres collaborateurs extérieurs réguliers ainsi que les conventions ou contrats qui les lient à l'organisme ;
 
-|
+ainsi que, pour chaque membre du personnel affecté à l'activité d'évaluation, l'un des justificatifs suivants de sa compétence (cf. l' article R. 543-106 du code de l'environnement) :
 
-|
+- attestation d'aptitude correspondant aux activités évaluées et aux types d'équipements concernés ; ou
 
-ainsi que, pour chaque membre du personnel affecté à l'activité d'évaluation, l'un des justificatifs suivants de sa compétence (cf. l'article R. 543-106 du code de l'environnement) :
+- diplôme, titre professionnel, certificat de qualification professionnelle ou certification enregistrée au répertoire national des certifications professionnelles correspondant aux activités évaluées et aux types d'équipements concernés ; ou
 
--attestation d'aptitude correspondant aux activités évaluées et aux types d'équipements concernés ; ou
-
--diplôme, titre professionnel, certificat de qualification professionnelle ou certification enregistrée au répertoire national des certifications professionnelles correspondant aux activités évaluées et aux types d'équipements concernés ; ou
-
--équivalents délivrés dans un des Etats membres de l'Union européenne et correspondant aux activités évaluées et aux types d'équipements concernés.
-
-|
-
-|
+- équivalents délivrés dans un des Etats membres de l'Union européenne et correspondant aux activités évaluées et aux types d'équipements concernés.
 
 Si cette justification est apportée par le biais d'une attestation d'aptitude au sens de l'article R. 543-106 du code de l'environnement, il convient qu'elle ait été délivrée par un autre organisme évaluateur.
 
@@ -208,17 +174,11 @@ Il fournit la procédure mise en place à cet effet.
 
 |
 
-|
-
 Le demandeur doit garantir le bon déroulement des évaluations en conformité avec le présent document.
 
 |
 
 Le demandeur indique par écrit toutes les dispositions qu'il met en place :
-
-|
-
-|
 
 1. Pour les évaluations théoriques :
 
@@ -226,15 +186,11 @@ Les supports utilisés pour contrôler les connaissances : supports papiers (que
 
 La pondération des questions sera évaluée ainsi que le nombre de questions disponibles.
 
-|
-
-|
-
 2. Pour les évaluations pratiques :
 
--le nombre de candidats par session ;
+- le nombre de candidats par session ;
 
--le nombre et le type d'équipements nécessaires à l'évaluation, chaque candidat devant pouvoir disposer d'un équipement.
+- le nombre et le type d'équipements nécessaires à l'évaluation, chaque candidat devant pouvoir disposer d'un équipement.
 
 Il fournit le planning d'une journée type d'évaluation.
 
@@ -256,9 +212,7 @@ Il décrit la procédure mise en place par écrit.
 
 |
 
-5. Procédure de délivrance de l'attestation d'aptitude
-
-|
+5. Procédures de délivrance de suspension et de retrait de l'attestation d'aptitude
 
 |
 
@@ -266,7 +220,15 @@ Le demandeur doit délivrer les attestations d'aptitude dans le mois qui suit l'
 
 |
 
-Le demandeur décrit les mesures mises en œuvre pour délivrer des attestations d'aptitude dans ce délai de temps.
+Le demandeur décrit les mesures mises en œuvre pour délivrer des attestations d'aptitude dans ce délai.
+
+|
+
+A la demande du ministre chargé de l'environnement, le demandeur peut suspendre ou retirer les attestations d'aptitude.
+
+|
+
+Le demandeur décrit les mesures mises en œuvre pour suspendre et retirer des attestations d'aptitude telles que mentionnées au 2 de l'article 10 du règlement (CE) n° 303/2008.
 
 |
 
@@ -279,8 +241,6 @@ Il décrit ce système par écrit.
 |
 
 6. Références
-
-|
 
 |
 
@@ -332,13 +292,13 @@ Il décrit ce système par écrit.
 
 L'organisme évaluateur établit et tient à jour une procédure pour gérer tous les documents relatifs à son activité d'évaluateur. Cette procédure prévoit notamment :
 
--l'identification de ces documents ;
+- l'identification de ces documents ;
 
--la validation du contenu de ces documents avant diffusion (également après modification) ;
+- la validation du contenu de ces documents avant diffusion (également après modification) ;
 
--le contrôle de la diffusion de façon à ce que le personnel dispose de la documentation appropriée ;
+- le contrôle de la diffusion de façon à ce que le personnel dispose de la documentation appropriée ;
 
--la liste de la documentation à jour.
+- la liste de la documentation à jour.
 
 |
 
