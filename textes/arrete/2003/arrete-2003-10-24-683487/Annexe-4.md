@@ -48,6 +48,8 @@ Châtaignier
 
 |
 
+A l'exception de la région de provenance CSA 800 "Corse"
+
 |
 
 Cedrus atlantica Carr.
@@ -77,6 +79,8 @@ Fraxinus excelsior L.
 Frêne commun
 
 |
+
+A l'exception de la région de provenance FEX 400 "Massif central"
 
 |
 
@@ -168,9 +172,9 @@ Pin maritime
 
 |
 
-1) en dehors de la région de provenance PPA 301
+1) En dehors de la région de provenance PPA 301 "Massif landais" et des régions administratives Bretagne et Pays-de-la-Loire ;
 
-2) y compris la région de provenance PPA 301 àcompter du 1er juillet 2011
+2) Y compris la région de provenance PPA 301 "Massif landais" et les régions administratives Bretagne et Pays-de-la-Loire, à compter du 1er juillet 2012.
 
 |
 
@@ -192,7 +196,7 @@ Douglas vert
 
 |
 
-A compter du 1er juillet 2011
+A compter du 1er juillet 2012
 
 |
 

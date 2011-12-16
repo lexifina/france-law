@@ -14,11 +14,19 @@ Observations
 
 |
 
+Abies cephalonica Loud.
+
+|
+
+Sapin de Céphalonie. |
+
+|
+
 Abies grandis Lindl.
 
 |
 
-Sapin de Vancouver
+Sapin de Vancouver.
 
 |
 
@@ -28,7 +36,7 @@ Acer platanoides L.
 
 |
 
-Erable plane
+Erable plane.
 
 |
 
@@ -38,7 +46,7 @@ Acer pseudoplatanus L
 
 |
 
-Erable sycomore
+Erable sycomore.
 
 |
 
@@ -50,7 +58,7 @@ Abies pinsapo Boiss.
 
 |
 
-Sapin d'Espagne
+Sapin d'Espagne.
 
 |
 
@@ -60,7 +68,7 @@ Alnus glutinosa Gaertn.
 
 |
 
-Aulne glutineux
+Aulne glutineux.
 
 |
 
@@ -70,7 +78,7 @@ Alnus incana Moench.
 
 |
 
-Aulne blanc
+Aulne blanc.
 
 |
 
@@ -80,7 +88,7 @@ Betula pendula Roth
 
 |
 
-Bouleau verruqueux
+Bouleau verruqueux.
 
 |
 
@@ -90,7 +98,7 @@ Betula pubescens Ehrh.
 
 |
 
-Bouleau pubescent
+Bouleau pubescent.
 
 |
 
@@ -100,9 +108,21 @@ Carpinus betulus L.
 
 |
 
-Charme
+Charme.
 
 |
+
+|
+
+Castanea sativa Mill.
+
+|
+
+Châtaignier.
+
+|
+
+Uniquement dans la région de provenance CSA 800 "Corse".
 
 |
 
@@ -110,9 +130,21 @@ Fraxinus angustifolia Vahl.
 
 |
 
-Frêne oxyphylle
+Frêne oxyphylle.
 
 |
+
+|
+
+Fraxinus excelsior L.
+
+|
+
+Frêne commun.
+
+|
+
+Uniquement dans la région de provenance FEX 400 "Massif central".
 
 |
 
@@ -120,7 +152,7 @@ Juglans major x regia L..
 
 |
 
-Noyer hybride
+Noyer hybride.
 
 |
 
@@ -130,7 +162,7 @@ Juglans nigra L.
 
 |
 
-Noyer noir d'Amérique
+Noyer noir d'Amérique.
 
 |
 
@@ -140,7 +172,7 @@ Juglans nigra x regia L.
 
 |
 
-Noyer hybride
+Noyer hybride.
 
 |
 
@@ -150,7 +182,7 @@ Juglans regia L.
 
 |
 
-Noyer royal
+Noyer royal.
 
 |
 
@@ -160,21 +192,9 @@ Pinus cembra L.
 
 |
 
-Pin cembro
+Pin cembro.
 
 |
-
-|
-
-Pinus pinaster Aït
-
-|
-
-Pin maritime
-
-|
-
-Uniquement dans la région de provenance PPA 301 jusqu'au 30/06/09
 
 |
 
@@ -182,7 +202,15 @@ Pinus pinea L.
 
 |
 
-Pin pignon
+Pin pignon.
+
+|
+
+|
+
+Pinus radiata D. Don. |
+
+Pin de Monterey.
 
 |
 
@@ -192,7 +220,7 @@ Populus spp.
 
 |
 
-Espèces du genre peuplier
+Espèces du genre peuplier.
 
 |
 
@@ -202,7 +230,7 @@ Prunus avium L.
 
 |
 
-Merisier
+Merisier.
 
 |
 
@@ -212,7 +240,7 @@ Quercus cerris L.
 
 |
 
-Chêne chevelu
+Chêne chevelu.
 
 |
 
@@ -222,7 +250,7 @@ Quercus ilex L.
 
 |
 
-Chêne vert
+Chêne vert.
 
 |
 
@@ -232,7 +260,7 @@ Quercus pubescens Willd.
 
 |
 
-Chêne pubescent
+Chêne pubescent.
 
 |
 
@@ -242,7 +270,7 @@ Quercus suber L.
 
 |
 
-Chêne liège
+Chêne liège.
 
 |
 
@@ -252,7 +280,7 @@ Robinia pseudoacacia L.
 
 |
 
-Robinier faux-acacia
+Robinier faux-acacia.
 
 |
 
@@ -262,7 +290,7 @@ Sorbus domestica L.
 
 |
 
-Cormier
+Cormier.
 
 |
 
@@ -272,7 +300,7 @@ Sorbus torminalis L.
 
 |
 
-Alisier torminal
+Alisier torminal.
 
 |
 
@@ -282,7 +310,7 @@ Tilia cordata Mill.
 
 |
 
-Tilleul à petites feuilles
+Tilleul à petites feuilles.
 
 |
 
@@ -292,7 +320,7 @@ Tilia platyphyllos Scop
 
 |
 
-Tilleul à grandes feuilles
+Tilleul à grandes feuilles.
 
 |
 
