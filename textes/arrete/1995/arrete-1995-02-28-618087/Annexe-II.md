@@ -20,27 +20,45 @@ de la surveillance
 
 |
 
-Amiante.
+Amiante
 
 |
 
-La nature des travaux effectués ainsi que les dates et durées des périodes d'exposition à l'inhalation de poussières d'amiante conformément aux dispositions du décret du 17 août 1977 relatif aux mesures d'hygiène dans les établissements où le personnel est exposé à l'action des poussières d'amiante.
+La nature des travaux effectués ainsi que les dates et durée des périodes d'exposition à l'inhalation de poussières d'amiante conformément aux dispositions de l'article R. 4412-138 du code du travail et de l'arrêté du 13 décembre 1996 relatif à la protection des travailleurs contre les risques liés à l'inhalation des poussières d'amiante déterminant les recommandations et fixant les instructions techniques que doivent respecter les médecins du travail assurant la surveillance médicale des salariés concernés.
 
-Les éléments de la fiche d'exposition prévue à l'article 16 du décret n° 77-949 modifié du 17 août 1977 relatif aux mesures d'hygiène dans les établissements où le personnel est exposé à l'action des poussières d'amiante et de l'arrêté du 8 mars 1979 donnant les instructions techniques que doivent respecter les médecins du travail assurant la surveillance médicale des salariés exposés à l'inhalation des poussières d'amiante.
-
-|
-
-Surveillance médicale : examen clinique médical tous les deux ans.
-
-Examens complémentaires : examen radiologique du thorax tous les deux ans, éventuellement complété par une exploration fonctionnelle respiratoire.
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue aux articles R. 4412-41 et R. 4412-10 du code du travail, ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
 
 |
 
-Amine aromatique.
+Surveillance médicale : une consultation médicale et un examen tomodensitométrique (TDM) thoracique réalisés tous les cinq ans pour les personnes relevant de la catégorie des expositions fortes et dix ans pour celles relevant de la catégorie des expositions intermédiaires dans les conditions prévues par le protocole de suivi validé par la Haute Autorité de santé.
 
 |
 
-Biométrologie : copie du document annexé au dossier médical prévoyant le suivi dans le temps de l'exposition professionnelle du travailleur ainsi que le dosage urinaire de l'amine ou des amines aromatiques concernées, s'il a été réalisé.
+|
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
+
+|
+
+|
+
+|
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
+
+|
+
+|
+
+Amines aromatiques
+
+|
+
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
 
 |
 
@@ -50,21 +68,25 @@ Examens complémentaires : un examen biologique urinaire comportant une recherch
 
 |
 
-Arsenic et dérivés.
+|
+
+Biométrologie : copie du document annexé au dossier médical prévoyant le suivi dans le temps de l'exposition professionnelle du travailleur ainsi que le dosage urinaire de l'amine ou des amines aromatiques concernées, s'il a été réalisé.
 
 |
 
+|
+
+Arsenic et dérivés
+
+|
+
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
+
 La nature de l'arsenic ou du dérivé utilisé :
-
-- arsenic et ses composés minéraux ;
-
-- ou poussières et vapeurs arsenicales.
-
-La durée de l'exposition avec les dates de début et de fin d'exposition.
-
-Les dosages urinaires de l'arsenic par des méthodes reconnues lorsqu'elles ont été pratiquées.
-
-Les constatations médicales durant l'exercice professionnel précisant l'existence ou l'absence d'anomalies en relation avec l'exposition professionnelle ainsi que les conclusions du dernier examen clinique avant la cessation définitive de l'activité professionnelle.
 
 |
 
@@ -72,37 +94,69 @@ L'exposition par manipulation d'arsenic ou de ses composés minéraux amène à 
 
 Lors de l'exposition par inhalation de poussières ou vapeurs arsenicales sont pris en charge un examen clinique et une radiographie pulmonaire tous les deux ans.
 
+|
+
+|
+
+- arsenic et ses composés minéraux ;
+
+- ou poussières et vapeurs arsenicales.
+
+Les dosages urinaires de l'arsenic par des méthodes reconnues lorsqu'elles ont été pratiquées.
+
+Les constatations médicales durant l'exercice professionnel précisant l'existence ou l'absence d'anomalies en relation avec l'exposition professionnelle ainsi que les conclusions du dernier examen clinique avant la cessation définitive de l'activité professionnelle.
+
+|
+
 Les personnes ayant été exposées aux deux catégories de produits arsenicaux cumulent le bénéfice des deux surveillances.
 
 |
 
-Bis-chlorométhyléther.
+Bis-chlorométhyléther
 
 |
 
-Les dates de début et de fin d'exposition.
-
-La survenue ou l'absence d'expositions accidentelles connues.
-
-La date de mise en place des moyens de surveillance automatisés et le résultat de ces contrôles.
-
-Résultats des principaux examens radiographiques pulmonaires et constatations cliniques du dernier examen clinique.
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
 
 |
 
 Surveillance médicale : examen médical clinique tous les deux ans.
 
-Examen complémentaire : radiographique pulmonaire tous les deux ans.
+Examen complémentaire : radiographie pulmonaire tous les deux ans.
 
 |
 
-Benzène.
+|
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
 
 |
 
-Le degré d'exposition est évalué par les résultats des prélèvements d'atmosphère et leur date d'exécution ainsi que les modalités techniques de réalisation conformément au décret n° 86-269 du 13 février 1986 modifié relatif à la protection des travailleurs exposés au benzène.
+|
 
-Les anomalies hématologiques relevées pendant la vie professionnelle compte tenu des valeurs de référence et de l'interprétation des résultats de l'annexe de l'arrêté du 6 juin 1987 concernant l'article 19 du décret n° 86-269 du 13 février 1986 relatif la protection des salariés exposés au benzène ainsi que les résultats des dosages des marqueurs biologiques d'exposition lorsque ceux-ci ont été réalisés.
+|
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
+
+|
+
+|
+
+|
+
+La date de mise en place des moyens de surveillance automatisés et le résultat de ces contrôles.
+
+|
+
+|
+
+Benzène
+
+|
+
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
+
+Le degré d'exposition est évalué par les résultats des prélèvements d'atmosphère et leur date d'exécution ainsi que les modalités techniques de réalisation conformément au décret n° 2009-1570 du 15 décembre 2009 relatif au contrôle du risque chimique sur les lieux de travail et à l'arrêté du 15 décembre 2009 relatif aux contrôles techniques des valeurs limites d'exposition professionnelle sur les lieux de travail et aux conditions d'accréditation des organismes chargés des contrôles.
 
 |
 
@@ -112,15 +166,39 @@ Examens complémentaires : numération formule sanguine, numération des plaquet
 
 |
 
-Chlorure de vinyle monomère (C.V.M.).
+|
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
 
 |
 
-Préciser l'exposition au chlorure de vinyle monomère lors de travaux exécutés dans les ateliers de polymérisation et la durée des périodes d'exposition qui doivent être égales au moins à six mois.
+|
 
-La moyenne annuelle des concentrations relevées pour chaque emplacement de travail que le salarié a fréquenté dans les ateliers pendant ses périodes d'exposition, ainsi que les expositions accidentelles auxquelles le salarié a été éventuellement soumis, telles que définies aux articles 14 B et 19 du décret n° 80-203 du 12 mars 1980 relatif aux mesures de protection contre les risques du chlorure de vinyle monomère. Ces moyennes permettant d'évaluer l'intensité de l'exposition du salarié.
+|
 
-La nature et les résultats des examens biologiques et des échographies abdominales.
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
+
+|
+
+|
+
+|
+
+Les anomalies hématologiques relevées pendant la vie professionnelle compte tenu des valeurs de référence et de l'interprétation des résultats de l'annexe de l'arrêté du 6 juin 1987 concernant l'article 19 du décret n° 86-269 du 13 février 1986 relatif la protection des salariés exposés au benzène ainsi que les résultats des dosages des marqueurs biologiques d'exposition lorsque ceux-ci ont été réalisés.
+
+|
+
+|
+
+Chlorure de vinyle
+
+monomère
+
+|
+
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
 
 |
 
@@ -130,69 +208,115 @@ Examens complémentaires : dosage des transaminases et échographie abdominale d
 
 |
 
-Chrome.
+|
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
 
 |
 
-Le chrome utilisé peut être l'acide chromique, les chromates et bichromates alcalins ou le chromate de zinc.
+|
 
-Le type de travail effectué :
+|
 
-- fabrication et conditionnement pour l'acide chromique et les chromates et bichromates alcalins ;
+Préciser l'exposition au chlorure de vinyle monomère lors de travaux exécutés dans les ateliers de polymérisation et la durée des périodes d'exposition qui doit être égale au moins à six mois.
 
-- fabrication pour le chromate de zinc ;
+|
 
-- et le chromate électrolytique.
+|
 
-Les dates de début et fin d'exposition aux chromes précités.
+|
+
+La moyenne annuelle des concentrations relevées pour chaque emplacement de travail que le salarié a fréquenté dans les ateliers pendant ses périodes d'exposition ainsi que les expositions accidentelles auxquelles le salarié a été éventuellement soumis conformément au décret n° 2009-1570 du 15 décembre 2009 relatif au contrôle du risque chimique sur les lieux de travail et à l'arrêté du 15 décembre 2009 relatif aux contrôles techniques des valeurs limites d'exposition professionnelle sur les lieux de travail et aux conditions d'accréditation des organismes chargés des contrôles.
+
+|
+
+|
+
+Chrome
+
+|
+
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
 
 |
 
 Surveillance médicale : examen clinique médical tous les deux ans.
 
-|
-
-Métrologie : dosage du chrome au poste de travail lorsqu'il a été réalisé.
-
-Les résultats de dosages des chromes urinaires du dernier examen clinique et du dernier examen radiographique pulmonaire.
-
-|
-
 Examen complémentaire : examen radiologique pulmonaire tous les deux ans.
 
 |
 
-Poussières de bois.
+|
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
 
 |
 
-La nature de l'exposition et la durée de l'exposition.
+|
 
-Métrologie : les paramètres de l'empoussièrement avec notamment les résultats des prélèvements notés sur la fiche d'entreprise prévue par l'arrêté du 29 mai 1989 pris en application de l'article R. 241-41-3 du code du travail et fixant le modèle de la fiche d'entreprise et d'établissement établie par le médecin du travail (chapitre 1.1.3 sur les poussières).
+|
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
+
+|
+
+|
+
+|
+
+Le chrome utilisé peut être l'acide chromique, les chromates et bichromates alcalins ou le chromate de zinc.
+
+|
+
+|
+
+|
+
+Le type de travail effectué :
+
+- fabrication et conditionnement pour l'acide chromique et les chromates et bichromates alcalins ;
+
+- fabrication pour le chromate de zinc et le chromate électrolytique.
+
+|
+
+|
+
+|
+
+Métrologie : dosage du chrome au poste de travail lorsqu'il a été réalisé.
+
+|
+
+|
+
+Poussières de bois
+
+|
+
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
 
 Les constatations médicales durant l'exercice professionnel doivent préciser l'existence ou l'absence d'anomalies en relation avec l'activité professionnelle antérieure ainsi que les résultats des examens complémentaires en relation avec le risque d'exposition aux poussières de bois. La date et les constatations médicales du dernier examen clinique sont aussi à reporter.
 
 |
 
-Surveillance médicale : examen médical par un médecin spécialiste en oto-rhino-laryngologie tous les deux ans.
-
-Examens complémentaires : examens radiologiques pulmonaires et des sinus de la face, complétés éventuellement par 5 à 6 coupes frontales d'un scanner des sinus tous les deux ans.
+Surveillance médicale : examen médical par un médecin spécialiste en oto-rhino-laryngologie et nasofibroscopie tous les deux ans dans les conditions prévues par les recommandations produites par la Société française de médecine du travail validées par la Haute Autorité de santé.
 
 |
 
-Rayonnements ionisants.
+Rayonnements ionisants
 
 |
 
-1° Etablir une évaluation des expositions antérieures d'origines professionnelles à la cessation des activités professionnelles, par le cumul des équivalents de dose reçus.
+1° Etablir une évaluation des expositions d'origine professionnelle antérieures à la cessation des activités professionnelles par le cumul des équivalents de dose reçus.
 
-Cette estimation est établie à partir des éléments contenus dans la fiche d'exposition du dossier médical spécial (catégorie A) telle que définie à l'article 39 du décret n° 86-1103 du 2 octobre 1986 modifié relatif à la protection des travailleurs contre les dangers des rayonnements ionisants et aux articles 43 et 44 du décret n° 75-306 du 28 avril 1975 modifié relatif à la protection des travailleurs contre les dangers des rayonnements ionisants dans les installations nucléaires de base ;
+Cette évaluation est établie à partir des éléments contenus dans le dossier individuel du travailleur prévu à l'article R. 4451-88 du code du travail comprenant notamment la fiche d'exposition prévue à l'article R. 4451-57 du code du travail.
 
-2° La carte individuelle de suivi médical en application de l'article 40 du décret n° 88-521 du 18 avril 1988 relatif aux principes généraux de protection contre les rayonnements ionisants et de l'article 44 du décret n° 75-306 du 28 avril 1975 relatif à la protection des travailleurs contre les dangers des rayonnements ionisants dans les installations nucléaires de base et instituée par l'arrêté du 31 juillet 1991 fixant les modalités et le contenu de la carte de suivi médical prévue à l'article 40 du décret n° 86-1103 du 2 octobre 1986 et à l'article 44 du décret n° 75-306 du 28 avril 1975 modifié.
-
-Le modèle de cette carte défini par l'arrêté contient le nom du service médical et de l'entreprise ainsi que les conclusions d'aptitude.
-
-Ces cartes numérotées sont répertoriées à l'O.P.R.I. qui en assume la gestion ;
+2° La carte individuelle de suivi médical prévue aux articles R. 4451-91 et R. 4451-92 du code du travail.
 
 3° Les constatations médicales durant l'exercice professionnel précisant l'existence ou l'absence d'anomalies en relation avec l'activité professionnelle.
 
@@ -200,7 +324,7 @@ Ces cartes numérotées sont répertoriées à l'O.P.R.I. qui en assume la gesti
 
 La nature des examens du suivi varie en fonction des travaux.
 
-Tout sujet ayant été surveillé au titre catégorie A (ou ex-D.A.T.R.) bénéficie d'un examen clinique et dermatologique tous les deux ans.
+Tout sujet ayant été surveillé au titre de la catégorie A (ou ex-DATR) bénéficie d'un examen clinique et dermatologique tous les deux ans.
 
 Examens complémentaires :
 
@@ -212,13 +336,21 @@ Examens complémentaires :
 
 |
 
-Huiles minérales dérivées du pétrole.
+Huiles minérales dérivées
+
+du pétrole
 
 |
 
-Sont considérés comme ayant été exposés les salariés ayant manipulé les produits et procédés cités au titre du tableau n° 36 bis du régime général et sous réserve d'une durée d'exposition minimale de dix ans.
+Sont considérés comme ayant été exposés les salariés ayant manipulé les produits et procédés cités au titre du tableau n° 36 bis des maladies professionnelles du régime général et sous réserve d'une durée d'exposition minimale de dix ans.
 
-Les paramètres d'exposition lors de l'emploi de ces huiles minérales sont à préciser dans cette attestation comme par exemple la notion de brouillard d'huile.
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
+
+Les paramètres d'exposition lors de l'emploi de ces huiles minérales sont à préciser dans cette attestation comme la notion de brouillard d'huile.
 
 Les examens complémentaires pratiqués ainsi que les constatations et anomalies dermatologiques relevées et en relation avec l'activité professionnelle tels que les boutons d'huiles sont à consigner.
 
@@ -228,55 +360,55 @@ Examen médical : une consultation dermatologique tous les deux ans.
 
 |
 
-Oxydes de fer (dans les mines).
+Oxydes de fer
 
 |
 
 Travaux effectués au fond dans les mines de fer ou travaux de concassage dans les mines de fer au fond et en surface.
 
-La durée, les dates de début et fin d'exposition.
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
+
+Les résultats des mesures d'empoussiérage individuelles lorsqu'elles ont été effectuées.
 
 |
 
-Examen médical : un examen clinique médical tous les deux ans et une radiographie.
-
-|
-
-Les résultats des mesures d'empoussiérage individuelles qui ont été effectuées.
-
-Les constatations du dernier examen clinique et les résultats du dernier examen radiographique pulmonaire.
-
-|
+Examen médical : un examen clinique médical tous les deux ans.
 
 Examen complémentaire : une radiographie pulmonaire tous les deux ans.
 
 |
 
-Nickel.
+Nickel
 
 |
 
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail, ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
+
 Exposition aux opérations de grillage des mattes de nickel.
 
-Les dates de début et de fin d'exposition.
-
 Métrologie : les résultats des mesures d'empoussiérage individuelles ou collectives lorsqu'elles ont été effectuées.
-
-Examens complémentaires pratiqués et contenus dans le dossier médical du salarié ayant été exposé.
 
 |
 
 Surveillance médicale : un examen médical par un médecin spécialiste en oto-rhino-laryngologie tous les deux ans.
 
-Examen complémentaire : un examen radiologique pulmonaire et des sinus de la face, complétés éventuellement par 5 à 6 coupes frontales d'un scanner des sinus tous les deux ans.
+Examen complémentaire : un examen radiologique pulmonaire et des sinus de la face, complétés éventuellement par 5 ou 6 coupes frontales d'un scanner des sinus tous les deux ans.
 
 |
 
-Nitrosoguanidines.
+Nitrosoguanidines
 
 |
 
-Date de début et durée de l'exposition.
+Les éléments du dossier médical individuel prévu à l'article R. 4412-54 du code du travail, comprenant notamment la fiche d'exposition prévue à l'article R. 4412-41 du code du travail, ainsi que les principaux résultats des examens médicaux prévus à l'article R. 4412-45 du code du travail.
 
 |
 
@@ -284,8 +416,24 @@ Une consultation médicale spécialisée en neurologie tous les deux ans.
 
 |
 
+|
+
+Les éléments de l'attestation d'exposition remise par l'employeur au salarié à son départ de l'établissement prévue à l'article R. 4412-58 du code du travail.
+
+|
+
+|
+
+|
+
+Les éléments de la notice de poste prévue à l'article R. 4412-39 du code du travail lorsque le salarié a fait ou fait partie de la liste des travailleurs exposés prévue à l'article R. 4412-40 du code du travail.
+
+|
+
+|
+
 (1) Lorsqu'une inhalation de substance radioactive aura été notifiée ou possible, comme notamment pour le radon.
 
 |
 
-(*) Pour les autres agents, les informations et examens ne peuvent être précisés. C'est le médecin-conseil qui sera le seul juge.
+(*) Pour les autres agents, les informations et examens ne peuvent pas être précisés. C'est le médecin-conseil qui sera le seul juge.
