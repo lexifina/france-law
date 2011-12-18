@@ -2,7 +2,7 @@
 
 COMITÉS D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL
 
-CONSTITUÉS EN APPLICATION DES ARTICLES 31 Et 32 DU DÉCRET DU 28 JUIN 2011
+CONSTITUÉS EN APPLICATION DES ARTICLES 31 Et 32 DU DÉCRET N° 82-453 DU 28 MAI 1982, MODIFIÉ PAR LE DÉCRET N° 2011-774 DU 28 JUIN 2011
 
 INSTANCE
 
@@ -22,9 +22,13 @@ NOMBRE DE SIÈGES
 
 |
 
-|
+COMITÉ (S)
 
-|
+technique (s) auxquel (s)
+
+le CHSCT apporte
+
+son concours
 
 |
 
@@ -33,16 +37,6 @@ Titulaires
 |
 
 Suppléants
-
-|
-
-COMITÉ(S)
-
-technique(s) auxquel(s)
-
-le CHSCT apporte
-
-son concours
 
 |
 

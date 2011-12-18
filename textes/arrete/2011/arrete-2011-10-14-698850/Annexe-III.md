@@ -2,7 +2,7 @@
 
 COMITÉS D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL CONSTITUÉS
 
-EN APPLICATION DE L'ARTICLE 36 DU DÉCRET DU 28 JUIN 2011
+EN APPLICATION DE L'ARTICLE 36 DU DÉCRET N° 82-453 DU 28 MAI 1982, MODIFIÉ PAR LE DÉCRET N° 2011-774 DU 28 JUIN 2011
 
 a) Direction générale des douanes et droits indirects :
 
@@ -24,27 +24,19 @@ NOMBRE DE SIÈGES
 
 |
 
-|
+COMITÉ (S)
 
-|
+technique (s) auxquel (s)
 
-|
+le CHSCT apporte
+
+son concours |
 
 Titulaires
 
 |
 
 Suppléants
-
-|
-
-COMITÉ(S)
-
-technique(s) auxquel(s)
-
-le CHSCT apporte
-
-son concours
 
 |
 
@@ -194,45 +186,29 @@ Comité technique de service déconcentré de la direction interrégionale de Pa
 
 b) Direction générale des finances publiques :
 
-INSTANCE
-
-|
+INSTANCE |
 
 AUTORITÉ
 
-de rattachement
+de rattachement |
 
-|
+PÉRIMÈTRE |
 
-PÉRIMÈTRE
+NOMBRE DE SIÈGES |
 
-|
+COMITÉ (S)
 
-NOMBRE DE SIÈGES
+technique (s) auxquel (s)
 
-|
+le CHSCT apporte
 
-|
-
-|
-
-|
+son concours |
 
 Titulaires
 
 |
 
 Suppléants
-
-|
-
-COMITÉ(S)
-
-technique(s) auxquel(s)
-
-le CHSCT apporte
-
-son concours
 
 |
 
@@ -478,27 +454,25 @@ Comité technique du service à compétence nationale, direction interrégionale
 
 c) service commun des laboratoires :
 
-INSTANCE
-
-|
+INSTANCE |
 
 AUTORITÉ
 
-de rattachement
+de rattachement |
 
-|
-
-PÉRIMÈTRE
-
-|
+PÉRIMÈTRE |
 
 NOMBRE DE SIÈGES
 
 |
 
-|
+COMITÉ (S)
 
-|
+technique (s) auxquel (s)
+
+le CHSCT apporte
+
+son concours
 
 |
 
@@ -507,16 +481,6 @@ Titulaires
 |
 
 Suppléants
-
-|
-
-COMITÉ(S)
-
-technique(s) auxquel(s)
-
-le CHSCT apporte
-
-son concours
 
 |
 

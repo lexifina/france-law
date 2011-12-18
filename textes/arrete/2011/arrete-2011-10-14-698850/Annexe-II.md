@@ -2,7 +2,7 @@
 
 COMITÉS D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL CONSTITUÉS
 
-EN APPLICATION DE L'ARTICLE 34 DU DÉCRET DU 28 JUIN 2011
+EN APPLICATION DE L'ARTICLE 34 DU DÉCRET N° 82-453 DU 28 MAI 1982, MODIFIÉ PAR LE DÉCRET N° 2011-774 DU 28 JUIN 2011
 
 INSTANCE
 
@@ -22,9 +22,13 @@ NOMBRE DE SIÈGES
 
 |
 
-|
+COMITÉ (S)
 
-|
+technique (s) auxquel (s)
+
+le CHSCT apporte
+
+son concours
 
 |
 
@@ -33,16 +37,6 @@ Titulaires
 |
 
 Suppléants
-
-|
-
-COMITÉ(S)
-
-technique(s) auxquel(s)
-
-le CHSCT apporte
-
-son concours
 
 |
 
@@ -1450,7 +1444,7 @@ CHSCT de MEURTHE-ET-MOSELLE
 
 |
 
-Directeur départemental des finances publiques
+Directeur départemental des finances publiques, directeur régional de l'INSEE
 
 |
 
@@ -1526,7 +1520,7 @@ CHSCT de MOSELLE
 
 |
 
-Directeur régional des finances publiques, directeur interrégional des douanes et droits indirects, directeur régional de l'INSEE
+Directeur régional des finances publiques, directeur interrégional des douanes et droits indirects, directeur du centre de Metz de l'INSEE
 
 |
 
@@ -1606,7 +1600,7 @@ DGFiP : comités techniques de service déconcentré de la direction régionale 
 
 DGDDI : comité technique de service déconcentré de la direction interrégionale de Lille et du SCN direction nationale du recrutement et de la formation professionnelle ;
 
-INSEE : comité technique de service déconcentré de la direction régionale Nord - Pas-de-Calais
+INSEE : comité technique de service déconcentré de la direction régionale Nord-Pas-de-Calais
 
 |
 
