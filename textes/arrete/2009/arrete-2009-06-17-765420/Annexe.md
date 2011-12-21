@@ -6,7 +6,7 @@ SOUMIS À UNE PROCÉDURE SPÉCIALE D'EXPORTATION
 
 PREMIÈRE PARTIE
 
-Nota. - Les substances chimiques sont classées par dénomination et numéro CAS. La liste vise les substances chimiques ayant la même formule développée (y compris les hydrates), indépendamment de la dénomination ou du numéro CAS.L'indication des numéros CAS vise à permettre l'identification d'une substance ou d'un mélange chimique spécifique, indépendamment de la nomenclature. Les numéros CAS ne peuvent être utilisés comme identifiants uniques, étant donné que certaines formes des substances chimiques de la liste ont des numéros CAS différents et que des mélanges contenant une même substance chimique de la liste peuvent également avoir des numéros CAS différents.
+Nota.-Les substances chimiques sont classées par dénomination et numéro CAS. La liste vise les substances chimiques ayant la même formule développée (y compris les hydrates), indépendamment de la dénomination ou du numéro CAS. L'indication des numéros CAS vise à permettre l'identification d'une substance ou d'un mélange chimique spécifique, indépendamment de la nomenclature. Les numéros CAS ne peuvent être utilisés comme identifiants uniques, étant donné que certaines formes des substances chimiques de la liste ont des numéros CAS différents et que des mélanges contenant une même substance chimique de la liste peuvent également avoir des numéros CAS différents.
 
 ML1
 
@@ -24,7 +24,7 @@ Armes à canon lisse d'un calibre inférieur à 20 mm, autres armes et armes aut
 
 a) Fusils, carabines, revolvers, pistolets, pistolets-mitrailleurs et mitrailleuses ;
 
-Note. - Le point ML1. a ne vise pas les articles suivants :
+Note.-Le point ML1. a ne vise pas les articles suivants :
 
 a. Mousquets, fusils et carabines fabriqués avant 1938 ;
 
@@ -58,7 +58,7 @@ c) Armes utilisant des munitions sans étui ;
 
 d) Silencieux, affûts spéciaux, chargeurs, dispositifs de visée et cache-flammes destinés aux armes visées aux points ML1. a, ML1. b ou ML1. c.
 
-Note 1. - Le point ML1 ne vise pas les armes à canon lisse servant au tir sportif ou à la chasse. Ces armes ne doivent pas être spécialement conçues pour l'usage militaire ou du type entièrement automatique.
+Note 1.-Le point ML1 ne vise pas les armes à canon lisse servant au tir sportif ou à la chasse. Ces armes ne doivent pas être spécialement conçues pour l'usage militaire ou du type entièrement automatique.
 
 |
 
@@ -66,17 +66,17 @@ Note 1. - Le point ML1 ne vise pas les armes à canon lisse servant au tir sport
 
 |
 
-Note 2. - Le point ML1 ne vise pas les armes à feu spécialement conçues pour des munitions inertes d'instruction et ne pouvant servir avec aucune munition visée au point ML3.
+Note 2.-Le point ML1 ne vise pas les armes à feu spécialement conçues pour des munitions inertes d'instruction et ne pouvant servir avec aucune munition visée au point ML3.
 
-Note 3. - Le point ML1 ne vise pas les armes utilisant des munitions sous étui à percussion non centrale et qui ne sont pas entièrement automatiques.
-
-|
+Note 3.-Le point ML1 ne vise pas les armes utilisant des munitions sous étui à percussion non centrale et qui ne sont pas entièrement automatiques.
 
 |
 
 |
 
-Note 4. - Le point ML1. d ne vise pas les dispositifs de visée optiques dépourvus de traitement électronique de l'image, avec un pouvoir d'agrandissement de 4X ou moins, à condition qu'ils ne soient pas spécialement conçus ou modifiés pour l'usage militaire.
+|
+
+Note 4.-Le point ML1. d ne vise pas les dispositifs de visée optiques dépourvus de traitement électronique de l'image, avec un pouvoir d'agrandissement de 4X ou moins, à condition qu'ils ne soient pas spécialement conçus ou modifiés pour l'usage militaire.
 
 |
 
@@ -96,9 +96,9 @@ Armes à canon lisse d'un calibre égal ou supérieur à 20 mm, autres armes ou 
 
 a) Canons, obusiers, pièces d'artillerie, mortiers, armes antichars, lance-projectiles, lance-flammes à usage militaire, fusils, canons sans recul, armes à canon lisse et leurs dispositifs de réduction de signatures ;
 
-Note 1. - Le point ML2. a comprend les injecteurs, les dispositifs de mesure, les réservoirs de stockage et les autres composants spécialement conçus pour servir avec des charges propulsives liquides pour tout matériel visé au point ML2. a.
+Note 1.-Le point ML2. a comprend les injecteurs, les dispositifs de mesure, les réservoirs de stockage et les autres composants spécialement conçus pour servir avec des charges propulsives liquides pour tout matériel visé au point ML2. a.
 
-Note 2. - Le point ML2. a ne vise pas les armes, comme suit :
+Note 2.-Le point ML2. a ne vise pas les armes, comme suit :
 
 |
 
@@ -110,7 +110,7 @@ Note 2. - Le point ML2. a ne vise pas les armes, comme suit :
 
 2. Reproductions de mousquets, fusils et carabines dont les originaux ont été fabriqués avant 1890.
 
-Note 3. - Le point ML2. a. ne vise pas les lance-projectiles portatifs spécialement conçus pour lancer à une distance de 500 m ou moins des projectiles reliés par fil dépourvus de charge hautement explosive ou de liaison de communication.
+Note 3.-Le point ML2. a. ne vise pas les lance-projectiles portatifs spécialement conçus pour lancer à une distance de 500 m ou moins des projectiles reliés par fil dépourvus de charge hautement explosive ou de liaison de communication.
 
 |
 
@@ -120,7 +120,7 @@ Note 3. - Le point ML2. a. ne vise pas les lance-projectiles portatifs spéciale
 
 b) Matériel pour le lancement ou la production de fumées, de gaz et de produits pyrotechniques, spécialement conçu ou modifié pour l'usage militaire ;
 
-Note. - Le point ML2. b ne vise pas les pistolets de signalisation.
+Note.-Le point ML2. b ne vise pas les pistolets de signalisation.
 
 c) Viseurs d'armements.
 
@@ -146,7 +146,7 @@ b) Dispositifs de réglage de fusées spécialement conçus pour les munitions v
 
 |
 
-Note 1. - Les composants spécialement conçus visés au point ML3 comprennent :
+Note 1.-Les composants spécialement conçus visés au point ML3 comprennent :
 
 a. Les pièces en métal ou en plastique comme les enclumes d'amorces, les godets pour balles, les maillons, les bandes pour munitions et les pièces métalliques pour munitions ;
 
@@ -164,7 +164,7 @@ d. Les étuis combustibles pour charges ;
 
 e. Les sous-munitions, y compris les petites bombes, les petites mines et les projectiles à guidage terminal.
 
-Note 2. - Le point ML3. a ne vise pas les munitions serties sans projectile (cartouche feuillette) et les munitions inertes d'instruction à chambre de poudre percée.
+Note 2.-Le point ML3. a ne vise pas les munitions serties sans projectile (cartouche feuillette) et les munitions inertes d'instruction à chambre de poudre percée.
 
 |
 
@@ -172,7 +172,7 @@ Note 2. - Le point ML3. a ne vise pas les munitions serties sans projectile (car
 
 |
 
-Note 3. - Le point ML3. a ne vise pas les cartouches spécialement conçues pour l'une des fins suivantes :
+Note 3.-Le point ML3. a ne vise pas les cartouches spécialement conçues pour l'une des fins suivantes :
 
 a. Signalisation ;
 
@@ -190,7 +190,7 @@ ML4
 
 Bombes, torpilles, roquettes, missiles, autres dispositifs et charges explosifs et matériel et accessoires connexes, comme suit, et leurs composants spécialement conçus :
 
-Nota 1. - En ce qui concerne le matériel de guidage et de navigation, voir le point ML11.
+Nota 1.-En ce qui concerne le matériel de guidage et de navigation, voir le point ML11.
 
 |
 
@@ -198,11 +198,11 @@ Nota 1. - En ce qui concerne le matériel de guidage et de navigation, voir le p
 
 |
 
-Nota 2. - En ce qui concerne les systèmes de protection des aéronefs contre les missiles, voir le point ML4. c.
+Nota 2.-En ce qui concerne les systèmes de protection des aéronefs contre les missiles, voir le point ML4. c.
 
 a) Bombes, torpilles, grenades, pots fumigènes, roquettes, mines, missiles, charges sous-marines, charges, dispositifs et kits de démolition, produits pyrotechniques militaires, cartouches et simulateurs (c'est-à-dire le matériel simulant les caractéristiques de l'un des articles précités), spécialement conçus pour l'usage militaire ;
 
-Note. - Le point ML4. a comprend :
+Note.-Le point ML4. a comprend :
 
 a. Les grenades fumigènes, bombes incendiaires et dispositifs explosifs ;
 
@@ -230,13 +230,13 @@ b. Engins explosifs improvisés (EEI) ;
 
 |
 
-Note 1. - Le point ML4. b comprend :
+Note 1.-Le point ML4. b comprend :
 
 a. Le matériel mobile pour la liquéfaction des gaz, capable de produire 1 000 kg ou plus de gaz sous forme liquide par jour ;
 
 b. Les câbles électriques conducteurs flottants pouvant servir au dragage des mines magnétiques.
 
-Note 2. - Le point ML4. b ne vise pas les dispositifs portatifs limités, par leur conception, uniquement à la détection d'objets métalliques et incapables de faire la distinction entre des mines et d'autres objets métalliques.
+Note 2.-Le point ML4. b ne vise pas les dispositifs portatifs limités, par leur conception, uniquement à la détection d'objets métalliques et incapables de faire la distinction entre des mines et d'autres objets métalliques.
 
 |
 
@@ -246,7 +246,7 @@ Note 2. - Le point ML4. b ne vise pas les dispositifs portatifs limités, par le
 
 c) Systèmes de protection des aéronefs contre les missiles.
 
-Note. - Le point ML4. c ne vise pas les systèmes de protection présentant toutes les caractéristiques suivantes :
+Note.-Le point ML4. c ne vise pas les systèmes de protection présentant toutes les caractéristiques suivantes :
 
 a. Le système comprend l'un des types de capteurs de détection des missiles suivants :
 
@@ -278,9 +278,9 @@ b. Un document équivalent reconnu par l'Organisation de l'aviation civile inter
 
 |
 
-2. Le système comporte des protections interdisant l'accès non autorisé aux "logiciels" ; et
+2. Le système comporte des protections interdisant l'accès non autorisé aux " logiciels " ; et
 
-3. Le système comporte un mécanisme actif l'obligeant à ne pas fonctionner en cas de retrait de l'"aéronef civil" dans lequel il a été installé.
+3. Le système comporte un mécanisme actif l'obligeant à ne pas fonctionner en cas de retrait de l'" aéronef civil " dans lequel il a été installé.
 
 |
 
@@ -310,7 +310,7 @@ c) Matériel de contre-mesures pour les articles visés aux points ML5. a ou ML5
 
 |
 
-Note. - Aux fins du point ML5. c, le matériel de contre-mesures inclut le matériel de détection.
+Note.-Aux fins du point ML5. c, le matériel de contre-mesures inclut le matériel de détection.
 
 d) Matériel d'essai sur le terrain ou d'alignement spécialement conçu pour les articles visés aux points ML5. a ou ML5. b ou ML5. c.
 
@@ -324,7 +324,7 @@ ML6
 
 Véhicules terrestres et leurs composants, comme suit :
 
-Nota. - En ce qui concerne le matériel de guidage et de navigation, voir le point ML11.
+Nota.-En ce qui concerne le matériel de guidage et de navigation, voir le point ML11.
 
 a) Véhicules terrestres et leurs composants, spécialement conçus ou modifiés pour l'usage militaire ;
 
@@ -334,7 +334,7 @@ a) Véhicules terrestres et leurs composants, spécialement conçus ou modifiés
 
 |
 
-Note technique. - Aux fins du point ML6. a, les termes véhicule terrestre" comprennent les remorques.
+Note technique.-Aux fins du point ML6. a, les termes véhicule terrestre " comprennent les remorques.
 
 b) Véhicules à traction intégrale pouvant être utilisés hors route et fabriqués avec des matériaux aptes à offrir une protection balistique de niveau III (NIJ 0108.1, septembre 1985, ou norme nationale comparable) ou supérieure ou équipés de ces matériaux.
 
@@ -344,9 +344,9 @@ b) Véhicules à traction intégrale pouvant être utilisés hors route et fabri
 
 |
 
-Nota. - Voir également le point ML13. a.
+Nota.-Voir également le point ML13. a.
 
-Note 1. - Le point ML6. a comprend :
+Note 1.-Le point ML6. a comprend :
 
 a. Les chars d'assaut et les véhicules militaires armés et les véhicules militaires dotés de supports pour armes ou de matériel pour la pose de mines ou le lancement de munitions, visés au point ML4 ;
 
@@ -362,7 +362,7 @@ c. Les véhicules amphibies et les véhicules pouvant traverser à gué en eau p
 
 d. Les véhicules de dépannage et les véhicules servant à remorquer ou à transporter des systèmes d'armes ou de munitions, et le matériel de manutention de charges connexe.
 
-Note 2. - La modification d'un véhicule terrestre pour l'usage militaire visé au point ML6. a comprend une modification structurelle, électrique ou mécanique touchant au moins un composant militaire spécialement conçu pour l'usage militaire. Ces composants sont entre autres les suivants :
+Note 2.-La modification d'un véhicule terrestre pour l'usage militaire visé au point ML6. a comprend une modification structurelle, électrique ou mécanique touchant au moins un composant militaire spécialement conçu pour l'usage militaire. Ces composants sont entre autres les suivants :
 
 |
 
@@ -384,7 +384,7 @@ c. Les renforcements ou supports pour le montage d'armes ;
 
 d. Les systèmes d'éclairage occultés.
 
-Note 3. - Le point ML6 ne vise pas les automobiles ou les camions civils conçus ou modifiés pour transporter des fonds ou des objets de valeur et ayant une protection blindée ou balistique.
+Note 3.-Le point ML6 ne vise pas les automobiles ou les camions civils conçus ou modifiés pour transporter des fonds ou des objets de valeur et ayant une protection blindée ou balistique.
 
 |
 
@@ -394,9 +394,9 @@ ML7
 
 |
 
-Agents chimiques ou biologiques toxiques, "agents anti-émeutes", substances radioactives, matériel, composants et substances connexes, comme suit :
+Agents chimiques ou biologiques toxiques, " agents anti-émeutes ", substances radioactives, matériel, composants et substances connexes, comme suit :
 
-a) Agents biologiques et substances radioactives "adaptés pour usage de guerre" en vue de produire des effets destructeurs sur les populations ou les animaux, de dégrader le matériel ou d'endommager les récoltes ou l'environnement ;
+a) Agents biologiques et substances radioactives " adaptés pour usage de guerre " en vue de produire des effets destructeurs sur les populations ou les animaux, de dégrader le matériel ou d'endommager les récoltes ou l'environnement ;
 
 |
 
@@ -420,7 +420,7 @@ Sarin (GB) : méthylphosphonofluoridate de O-isopropyle (CAS 107-44-8), et
 
 Soman (GD) : méthylphosphonofluoridate de O-pinacolyle (CAS 96-64-0) ;
 
-b.N, N-dialkyl (méthyl, éthyl, n-propyl ou isopropyl) phosphoramidocyanidates de O-alkyle (C10, y compris cycloalkyle), tels que :
+b. N, N-dialkyl (méthyl, éthyl, n-propyl ou isopropyl) phosphoramidocyanidates de O-alkyle (C10, y compris cycloalkyle), tels que :
 
 Tabun (GA) : N, N-diméthylphosphoramidocyanidate de O-éthyle (CAS 77-81-6) ;
 
@@ -532,7 +532,7 @@ QL : méthylphosphonite de O-éthyle et de 2-diisopropylaminoéthyle (CAS 57856-
 
 4. Chloro soman : méthylphosphonochloridate de O-pinacolyle (CAS 7040-57-5) ;
 
-d) "Agents anti-émeutes", substances chimiques actives et leurs combinaisons, notamment :
+d) " Agents anti-émeutes ", substances chimiques actives et leurs combinaisons, notamment :
 
 |
 
@@ -540,7 +540,7 @@ d) "Agents anti-émeutes", substances chimiques actives et leurs combinaisons, n
 
 |
 
-1.α-bromophénylacétonitrile (cyanure de bromobenzyle) (CA) (CAS 5798-79-8) ;
+1. α-bromophénylacétonitrile (cyanure de bromobenzyle) (CA) (CAS 5798-79-8) ;
 
 2. [(chloro-2 phényl) méthylène] propanédinitrile (ochlorobenzylidènemalononitrile) (CS) (CAS 2698-41-1) ;
 
@@ -550,7 +550,7 @@ d) "Agents anti-émeutes", substances chimiques actives et leurs combinaisons, n
 
 5.10-Chloro-5,10-dihydrophénarsazine (chlorure de phénarsazine) (Adamsite) (DM) (CAS 578-94-9) ;
 
-6.N-Nonanoylmorpholine (MPA) (CAS 5299-64-9) ;
+6. N-Nonanoylmorpholine (MPA) (CAS 5299-64-9) ;
 
 |
 
@@ -558,9 +558,9 @@ d) "Agents anti-émeutes", substances chimiques actives et leurs combinaisons, n
 
 |
 
-Note 1. - Le point ML7. d ne vise pas les agents anti-émeutes emballés individuellement et utilisés à des fins d'autodéfense.
+Note 1.-Le point ML7. d ne vise pas les agents anti-émeutes emballés individuellement et utilisés à des fins d'autodéfense.
 
-Note 2. - Le point ML7. d ne vise pas les substances chimiques actives et leurs combinaisons retenues ou conditionnées pour la production d'aliments ou à des fins médicales.
+Note 2.-Le point ML7. d ne vise pas les substances chimiques actives et leurs combinaisons retenues ou conditionnées pour la production d'aliments ou à des fins médicales.
 
 |
 
@@ -594,7 +594,7 @@ f) Matériel de protection et de décontamination, spécialement conçu ou modif
 
 3. Mélanges chimiques spécialement conçus/ formulés pour la décontamination d'objets contaminés par des substances visées aux points ML7. a ou ML7. b ;
 
-Note. - Le point ML7. f. 1 comprend :
+Note.-Le point ML7. f. 1 comprend :
 
 a. Les unités de conditionnement d'air spécialement conçues ou modifiées pour le filtrage nucléaire, biologique ou chimique ;
 
@@ -606,7 +606,7 @@ b. Les vêtements de protection.
 
 |
 
-Nota. - En ce qui concerne les masques à gaz ainsi que le matériel de protection et de décontamination à usage civil : voir également le point 1A004 de la liste des biens à double usage de l'Union européenne.
+Nota.-En ce qui concerne les masques à gaz ainsi que le matériel de protection et de décontamination à usage civil : voir également le point 1A004 de la liste des biens à double usage de l'Union européenne.
 
 |
 
@@ -616,7 +616,7 @@ Nota. - En ce qui concerne les masques à gaz ainsi que le matériel de protecti
 
 g) Matériel spécialement conçu ou modifié pour l'usage militaire, conçu ou modifié aux fins de la détection ou de l'identification des substances visées aux points ML7. a, ML7. b ou ML7. d, et ses composants spécialement conçus ;
 
-Note. - Le point ML7. g ne vise pas les dosimètres personnels pour la surveillance des rayonnements.
+Note.-Le point ML7. g ne vise pas les dosimètres personnels pour la surveillance des rayonnements.
 
 |
 
@@ -624,21 +624,11 @@ Note. - Le point ML7. g ne vise pas les dosimètres personnels pour la surveilla
 
 |
 
-Nota. - Voir également le point 1A004 de la liste des biens à double usage de l'Union européenne.
+Nota.-Voir également le point 1A004 de la liste des biens à double usage de l'Union européenne.
 
-h) "Biopolymères" spécialement conçus ou traités pour la détection ou l'identification d'agents C visés au point ML7. b et cultures de cellules spécifiques utilisées pour leur production ;
+h) " Biopolymères " spécialement conçus ou traités pour la détection ou l'identification d'agents C visés au point ML7. b et cultures de cellules spécifiques utilisées pour leur production ;
 
-i) "Biocatalyseurs" pour la décontamination ou la dégradation d'agents C et leurs systèmes biologiques, comme suit :
-
-|
-
-|
-
-|
-
-1. "Biocatalyseurs" spécialement conçus pour la décontamination ou la dégradation d'agents C visés au point ML7. b, produits par sélection dirigée en laboratoire ou manipulation génétique de systèmes biologiques ;
-
-2. Systèmes biologiques, comme suit : "vecteurs d'expression", virus ou cultures de cellules contenant l'information génétique spécifique de la production de "biocatalyseurs visés au point ML7. i. 1.
+i) " Biocatalyseurs " pour la décontamination ou la dégradation d'agents C et leurs systèmes biologiques, comme suit :
 
 |
 
@@ -646,7 +636,17 @@ i) "Biocatalyseurs" pour la décontamination ou la dégradation d'agents C et le
 
 |
 
-Note 1. - Les points ML7. b et ML7. d ne visent pas ce qui suit :
+1. " Biocatalyseurs " spécialement conçus pour la décontamination ou la dégradation d'agents C visés au point ML7. b, produits par sélection dirigée en laboratoire ou manipulation génétique de systèmes biologiques ;
+
+2. Systèmes biologiques, comme suit : " vecteurs d'expression ", virus ou cultures de cellules contenant l'information génétique spécifique de la production de " biocatalyseurs visés au point ML7. i. 1.
+
+|
+
+|
+
+|
+
+Note 1.-Les points ML7. b et ML7. d ne visent pas ce qui suit :
 
 a. Chlorure de cyanogène (CAS 506-77-4). Voir le point 1C450. a. 5 de la liste des biens à double usage de l'Union européenne ;
 
@@ -698,7 +698,7 @@ p. Chloropicrine (CAS 76-06-2). Voir le point 1C450. a. 7 de la liste des biens 
 
 |
 
-Note 2. - Les cultures de cellules et les systèmes biologiques visés aux points ML7. h et ML7. i. 2 sont exclusifs et ces points ne visent pas les cellules ou les systèmes biologiques destinés à des usages civils, tels que les usages agricoles, pharmaceutiques, médicaux, vétérinaires, liés à l'environnement, au traitement des déchets ou à l'industrie alimentaire.
+Note 2.-Les cultures de cellules et les systèmes biologiques visés aux points ML7. h et ML7. i. 2 sont exclusifs et ces points ne visent pas les cellules ou les systèmes biologiques destinés à des usages civils, tels que les usages agricoles, pharmaceutiques, médicaux, vétérinaires, liés à l'environnement, au traitement des déchets ou à l'industrie alimentaire.
 
 |
 
@@ -708,11 +708,11 @@ ML8
 
 |
 
-"Matières énergétiques", et substances connexes, comme suit :
+" Matières énergétiques ", et substances connexes, comme suit :
 
-NB 1. - Voir également le point 1C011 de la liste des biens à double usage de l'Union européenne.
+NB 1.-Voir également le point 1C011 de la liste des biens à double usage de l'Union européenne.
 
-NB 2. - Voir les points ML4 et 1A008 de la liste des biens à double usage de l'Union européenne pour les charges et les appareils.
+NB 2.-Voir les points ML4 et 1A008 de la liste des biens à double usage de l'Union européenne pour les charges et les appareils.
 
 |
 
@@ -732,7 +732,7 @@ Notes techniques :
 
 |
 
-a) "Explosifs", comme suit, et mélanges connexes :
+a) " Explosifs ", comme suit, et mélanges connexes :
 
 1. ADNBF (amino dinitrobenzo-furoxan ou 7-amino-4,6-dinitrobenzofurazane-1-oxyde) (CAS 97096-78-1) ;
 
@@ -746,7 +746,7 @@ a) "Explosifs", comme suit, et mélanges connexes :
 
 |
 
-4. CL-20 (HNIW ou hexanitrohexaazaisowurtzitane) (CAS 135285-90-4) ; chlathrates de CL-20 (voir également les points ML8. g. 3 et g. 4 pour ses "précurseurs") ;
+4. CL-20 (HNIW ou hexanitrohexaazaisowurtzitane) (CAS 135285-90-4) ; chlathrates de CL-20 (voir également les points ML8. g. 3 et g. 4 pour ses " précurseurs ") ;
 
 5. PC (perchlorate de 2-(5-cyanotétrazolato) penta-amine-cobalt (III)] (CAS 70247-32-4) ;
 
@@ -764,7 +764,7 @@ a) "Explosifs", comme suit, et mélanges connexes :
 
 9. DDPO (2,6-diamino-3,5-dinitropyrazine-1-oxyde, PZO) (CAS 194486-77-6) ;
 
-10. DIPAM (3,3'-diamino-2,2',4,4',6,6'-hexanitrobiphényle ou dipicramide) (CAS 17215-44-0) ;
+10. DIPAM (3,3'-diamino-2,2', 4,4', 6,6'-hexanitrobiphényle ou dipicramide) (CAS 17215-44-0) ;
 
 |
 
@@ -780,9 +780,9 @@ a. DAAOF (diaminoazoxyfurazane) ;
 
 b. DAAzF (diaminoazofurazane) (CAS 78644-90-3) ;
 
-13. HMX et dérivés (voir également le point ML8. g. 5 pour leurs "précurseurs"), comme suit :
+13. HMX et dérivés (voir également le point ML8. g. 5 pour leurs " précurseurs "), comme suit :
 
-a. HMX (cyclotétraméthylènetétranitramine, octahydro-1,3,5,7-tétranitro-1,3,5,7-tétrazine,1,3,5,7-tétranitro-1,3,5,7-tétraza-cyclooctane, octogen ou octogène) (CAS 2691-41-0) ;
+a. HMX (cyclotétraméthylènetétranitramine, octahydro-1,3,5,7-tétranitro-1,3,5,7-tétrazine, 1,3,5,7-tétranitro-1,3,5,7-tétraza-cyclooctane, octogen ou octogène) (CAS 2691-41-0) ;
 
 |
 
@@ -792,7 +792,7 @@ a. HMX (cyclotétraméthylènetétranitramine, octahydro-1,3,5,7-tétranitro-1,3
 
 b. Analogues difluoroaminés du HMX ;
 
-c.K-55 (2,4,6,8-tétranitro-2,4,6,8-tétraazabicyclo [3,3,0]-octanone-3, tétranitrosémiglycouril ou HMX cétobicyclique) (CAS 130256-72-3) ;
+c. K-55 (2,4,6,8-tétranitro-2,4,6,8-tétraazabicyclo [3,3,0]-octanone-3, tétranitrosémiglycouril ou HMX cétobicyclique) (CAS 130256-72-3) ;
 
 14. HNAD (hexanitroadamantane) (CAS 143850-71-9) ;
 
@@ -838,7 +838,7 @@ e. PTIA (1-picryl-2,4,5-trinitroimidazole) ;
 
 21. RDX et dérivés, comme suit :
 
-a. RDX (cyclotriméthylènetrinitramine, cyclonite, T4, hexahydro-1,3,5-trinitro-1,3,5-triazine,1,3,5-trinitro-1,3,5-triaza-cyclohexane, hexogen ou hexogène) (CAS 121-82-4) ;
+a. RDX (cyclotriméthylènetrinitramine, cyclonite, T4, hexahydro-1,3,5-trinitro-1,3,5-triazine, 1,3,5-trinitro-1,3,5-triaza-cyclohexane, hexogen ou hexogène) (CAS 121-82-4) ;
 
 b. Céto-RDX (K-6 ou 2,4,6-trinitro-2,4,6-triazacyclohexanone) (CAS 115029-35-1) ;
 
@@ -850,7 +850,7 @@ b. Céto-RDX (K-6 ou 2,4,6-trinitro-2,4,6-triazacyclohexanone) (CAS 115029-35-1)
 
 22. TAGN (nitrate de triaminoguanidine) (CAS 4000-16-2) ;
 
-23. TATB (triaminotrinitrobenzène) (CAS 3058-38-6) (voir également le point ML8. g. 7 pour ses "précurseurs") ;
+23. TATB (triaminotrinitrobenzène) (CAS 3058-38-6) (voir également le point ML8. g. 7 pour ses " précurseurs ") ;
 
 |
 
@@ -874,9 +874,9 @@ b. NTNT (1-N-(2-nitrotriazolo)-4-nitrotétrazole) ;
 
 26. Tétryl (trinitrophénylméthylnitramine) (CAS 479-45-8) ;
 
-27. TNAD (1,4,5,8-tétranitro-1,4,5,8-tétraazadécaline) (CAS 135877-16-6) (voir également le point ML8. g. 6 pour ses "précurseurs") ;
+27. TNAD (1,4,5,8-tétranitro-1,4,5,8-tétraazadécaline) (CAS 135877-16-6) (voir également le point ML8. g. 6 pour ses " précurseurs ") ;
 
-28. TNAZ (1,3,3-trinitroazétidine) (CAS 97645-24-4) (voir également le point ML8. g. 2 pour ses "précurseurs") ;
+28. TNAZ (1,3,3-trinitroazétidine) (CAS 97645-24-4) (voir également le point ML8. g. 2 pour ses " précurseurs ") ;
 
 29. TNGU (SORGUYL ou tétranitroglycolurile) (CAS 55510-03-7) ;
 
@@ -946,19 +946,9 @@ a. possédant une pression de détonation égale ou supérieure à 25 GPa (250 k
 
 b. demeurant stables pendant des périodes de 5 minutes ou plus à des températures égales ou supérieures à 523 K (250° C) ;
 
-b) "Propergols", comme suit :
+b) " Propergols ", comme suit :
 
-1. Tout "propergol" solide de classe ONU 1.1 (Nations unies) ayant une impulsion spécifique théorique (dans des conditions normales) de plus de 250 s pour les compositions non métallisées ou de plus de 270 s pour les compositions aluminées ;
-
-|
-
-|
-
-|
-
-2. Tout "propergol" solide de classe UN 1.3, possédant une impulsion spécifique théorique (dans des conditions normales) de plus de 230 s pour les compositions non halogénées, de plus de 250 s pour les compositions non métallisées et de plus de 266 s pour les compositions métallisées ;
-
-3. "Propergols" possédant une constante de force supérieure à 1 200 kJ/ kg ;
+1. Tout " propergol " solide de classe ONU 1.1 ( Nations Unies) ayant une impulsion spécifique théorique (dans des conditions normales) de plus de 250 s pour les compositions non métallisées ou de plus de 270 s pour les compositions aluminées ;
 
 |
 
@@ -966,11 +956,9 @@ b) "Propergols", comme suit :
 
 |
 
-4. "Propergols" pouvant maintenir un taux de combustion en régime continu de plus de 38 mm/ s dans des conditions normales (mesuré sous la forme d'un seul brin inhibé), soit une pression de 68,9 MPa (68,9 bars) et une température de 294 K (21° C) ;
+2. Tout " propergol " solide de classe UN 1.3, possédant une impulsion spécifique théorique (dans des conditions normales) de plus de 230 s pour les compositions non halogénées, de plus de 250 s pour les compositions non métallisées et de plus de 266 s pour les compositions métallisées ;
 
-5. "Propergols" double base, moulés, modifiés par un élastomère (EMCDB), dont l'allongement à la contrainte maximale est supérieur à 5 % à 233 K (- 40° C) ;
-
-6. Tout "propergol" contenant des substances visées au point ML8. a ;
+3. " Propergols " possédant une constante de force supérieure à 1 200 kJ/ kg ;
 
 |
 
@@ -978,9 +966,21 @@ b) "Propergols", comme suit :
 
 |
 
-7. "propergols", non visés par ailleurs dans la liste commune des équipements militaires de l'Union européenne, spécialement conçus pour l'usage militaire.
+4. " Propergols " pouvant maintenir un taux de combustion en régime continu de plus de 38 mm/ s dans des conditions normales (mesuré sous la forme d'un seul brin inhibé), soit une pression de 68,9 MPa (68,9 bars) et une température de 294 K (21° C) ;
 
-c) "Produits pyrotechniques", combustibles et substances connexes, et mélanges de ces substances, comme suit :
+5. " Propergols " double base, moulés, modifiés par un élastomère (EMCDB), dont l'allongement à la contrainte maximale est supérieur à 5 % à 233 K (-40° C) ;
+
+6. Tout " propergol " contenant des substances visées au point ML8. a ;
+
+|
+
+|
+
+|
+
+7. " propergols ", non visés par ailleurs dans la liste commune des équipements militaires de l'Union européenne, spécialement conçus pour l'usage militaire.
+
+c) " Produits pyrotechniques ", combustibles et substances connexes, et mélanges de ces substances, comme suit :
 
 1. Combustibles pour aéronefs, spécialement formulés à des fins militaires ;
 
@@ -1062,7 +1062,7 @@ b. Mélanges contenant l'un des éléments suivants :
 
 9. Sous-hydrure de titane (TiHn) de stœchiométrie équivalente à n = 0,65-1,68 ;
 
-Note 1. - Les carburants pour aéronefs visés au point ML8. c. 1 sont des produits finis, mais non leurs constituants.
+Note 1.-Les carburants pour aéronefs visés au point ML8. c. 1 sont des produits finis, mais non leurs constituants.
 
 |
 
@@ -1070,17 +1070,17 @@ Note 1. - Les carburants pour aéronefs visés au point ML8. c. 1 sont des produ
 
 |
 
-Note 2. - Le point ML8. c. 4. a ne vise pas les mélanges d'hydrazine spécialement conçus pour la protection contre la corrosion.
+Note 2.-Le point ML8. c. 4. a ne vise pas les mélanges d'hydrazine spécialement conçus pour la protection contre la corrosion.
 
-Note 3. - Le point ML8. c. 5 vise les explosifs et combustibles que les métaux ou alliages soient ou non encapsulés dans de l'aluminium, du magnésium, du zirconium ou du béryllium.
-
-|
+Note 3.-Le point ML8. c. 5 vise les explosifs et combustibles que les métaux ou alliages soient ou non encapsulés dans de l'aluminium, du magnésium, du zirconium ou du béryllium.
 
 |
 
 |
 
-Note 4. - Le point ML8. c. 5. b. 2 ne vise pas le bore et le carbure de bore enrichis en bore-10 (au moins 20 % de bore-10 au total).
+|
+
+Note 4.-Le point ML8. c. 5. b. 2 ne vise pas le bore et le carbure de bore enrichis en bore-10 (au moins 20 % de bore-10 au total).
 
 d) Comburants, comme suit, et mélanges connexes :
 
@@ -1102,9 +1102,9 @@ b. Oxygène, ou
 
 c. Azote ;
 
-Note 1. - Le point ML8. d. 3 ne vise pas le trifluorure de chlore (CAS 7790-91-2). Voir le point 1C238 de la liste de biens à double usage de l'Union européenne.
+Note 1.-Le point ML8. d. 3 ne vise pas le trifluorure de chlore (CAS 7790-91-2). Voir le point 1C238 de la liste de biens à double usage de l'Union européenne.
 
-Note 2. - Le point ML8. d. 3 ne vise pas le trifluorure d'azote (CAS 7783-54-2) à l'état gazeux.
+Note 2.-Le point ML8. d. 3 ne vise pas le trifluorure d'azote (CAS 7783-54-2) à l'état gazeux.
 
 4. DNAD (1,3-dinitro-1,3-diazétidine) (CAS 78246-06-7) ;
 
@@ -1132,7 +1132,7 @@ Note 2. - Le point ML8. d. 3 ne vise pas le trifluorure d'azote (CAS 7783-54-2) 
 
 10. Comburants liquides, constitués ou contenant de l'acide nitrique fumant rouge inhibé (IRFNA) (CAS 8007-58-7) ;
 
-Note. - Le point ML8. d. 10 ne vise pas l'acide nitrique fumant non inhibé.
+Note.-Le point ML8. d. 10 ne vise pas l'acide nitrique fumant non inhibé.
 
 |
 
@@ -1142,9 +1142,9 @@ Note. - Le point ML8. d. 10 ne vise pas l'acide nitrique fumant non inhibé.
 
 e) Liants, plastifiants, monomères et polymères, comme suit :
 
-1. AMMO (azidométhylméthyloxétane et ses polymères) (CAS 90683-29-7) (voir également le point ML8. g. 1 pour ses "précurseurs") ;
+1. AMMO (azidométhylméthyloxétane et ses polymères) (CAS 90683-29-7) (voir également le point ML8. g. 1 pour ses " précurseurs ") ;
 
-2. BAMO (bisazidométhyloxétane et ses polymères) (CAS 17607-20-4) (voir également le point ML8. g. 1 pour ses "précurseurs") ;
+2. BAMO (bisazidométhyloxétane et ses polymères) (CAS 17607-20-4) (voir également le point ML8. g. 1 pour ses " précurseurs ") ;
 
 3. BDNPA (bis (2,2-dinitropropyl) acétal) (CAS 5108-69-0) ;
 
@@ -1156,7 +1156,7 @@ e) Liants, plastifiants, monomères et polymères, comme suit :
 
 4. BDNPF (bis (2,2-dinitropropyl) formal) (CAS 5917-61-3) ;
 
-5. BTTN (trinitrate de butanétriol) (CAS 6659-60-5) (voir également le point ML8. g. 8 pour ses "précurseurs") ;
+5. BTTN (trinitrate de butanétriol) (CAS 6659-60-5) (voir également le point ML8. g. 8 pour ses " précurseurs ") ;
 
 6. Monomères, plastifiants et polymères énergétiques spécialement conçus pour l'usage militaire et contenant l'un des groupes suivants :
 
@@ -1234,7 +1234,7 @@ b. polyépichlorhydrinetriol ;
 
 18. TVOPA (1,2,3-tris [1,2-bis (difluoroamino) éthoxy] propane ou adduit de tris-vinoxy-propane) (CAS 5315939-0) ;
 
-f) "Additifs", comme suit :
+f) " Additifs ", comme suit :
 
 |
 
@@ -1294,13 +1294,13 @@ e. Autres dérivés polymériques d'adduits du ferrocène ;
 
 12. Méthyl-BAPO (oxyde de bis (2-méthylaziridinyl) méthylaminophosphine) (CAS 85068-72-0) ;
 
-13.N-méthyl-P-Nitroaniline (CAS 100-15-2) ;
+13. N-méthyl-P-Nitroaniline (CAS 100-15-2) ;
 
 14.3-Nitraza-1,5-diisocyanatopentane (CAS 7406-61-9) ;
 
 15. Agents de couplage organo-métalliques, comme suit :
 
-a. (Diallyl) oxy, tri (dioctyl) phosphatotitanate de néopentyle (CAS 103850-22-2) ; également appelé titane IV,2,2 [bis 2-propenolate-méthyl butanolate, tris (dioctyle) phosphate] (CAS 110438-25-0) ; ou LICA12 (CAS 103850-22-2) ;
+a. (Diallyl) oxy, tri (dioctyl) phosphatotitanate de néopentyle (CAS 103850-22-2) ; également appelé titane IV, 2,2 [bis 2-propenolate-méthyl butanolate, tris (dioctyle) phosphate] (CAS 110438-25-0) ; ou LICA12 (CAS 103850-22-2) ;
 
 b. Titane IV, [(2-propanolate-1) méthyl, n-propanolatométhyl] butanolate-1, tris (dioctyle) pyrophosphate ou KR. 3538 ;
 
@@ -1338,9 +1338,9 @@ c. Titane IV [(2-propanolate-1) méthyl, n-propanolatométhyl] butanolate-1, tri
 
 22. TPB (triphényl-bismuth) (CAS 603-33-8) ;
 
-g) "Précurseurs", comme suit :
+g) " Précurseurs ", comme suit :
 
-Nota. - Au point ML8. g, il est fait référence aux "matières énergétiques" visées qui sont fabriquées à partir de ces substances.
+Nota.-Au point ML8. g, il est fait référence aux " matières énergétiques " visées qui sont fabriquées à partir de ces substances.
 
 |
 
@@ -1376,9 +1376,9 @@ Nota. - Au point ML8. g, il est fait référence aux "matières énergétiques" 
 
 8.1,2,4-trihydroxybutane (1,2,4-butanetriol) (CAS 3068-00-6) (voir également le point ML8. a. 5).
 
-Note 5. - Non utilisé depuis 2009.
+Note 5.-Non utilisé depuis 2009.
 
-Note 6. - Le point ML8 ne vise pas les substances suivantes lorsqu'elles ne sont pas composées ou mélangées à du "matériel énergétique" visé au point ML8. a ou à des poudres de métal visées au point ML8. c :
+Note 6.-Le point ML8 ne vise pas les substances suivantes lorsqu'elles ne sont pas composées ou mélangées à du " matériel énergétique " visé au point ML8. a ou à des poudres de métal visées au point ML8. c :
 
 a. Picrate d'ammonium (CAS 131-74-8) ;
 
@@ -1412,7 +1412,7 @@ i. Trinitronaphtalène ;
 
 j. Trinitroxylène ;
 
-k.N-pyrrolidinone ; 1-méthyl-2-pyrrolidinone (CAS 872-50-4) ;
+k. N-pyrrolidinone ; 1-méthyl-2-pyrrolidinone (CAS 872-50-4) ;
 
 l. Maléate de dioctyle (CAS 142-16-5) ;
 
@@ -1456,7 +1456,7 @@ v. 2,4,6-trinitrorésorcinol (acide styphnique) (CAS 82-71-3) ;
 
 w. Diéthyldiphénylurée (CAS 85-98-3), diméthyldiphénylurée (CAS 611-92-7), méthyléthyldiphénylurée (Centralites) ;
 
-x.N, N-diphénylurée (diphénylurée dissymétrique) (CAS 603-54-3) ;
+x. N, N-diphénylurée (diphénylurée dissymétrique) (CAS 603-54-3) ;
 
 |
 
@@ -1492,7 +1492,7 @@ ML9
 
 Navires de guerre (de surface ou sous-marins), matériel naval spécialisé, accessoires, composants et autres navires de surface, comme suit :
 
-Nota. - En ce qui concerne le matériel de guidage et de navigation, voir le point ML11.
+Nota.-En ce qui concerne le matériel de guidage et de navigation, voir le point ML11.
 
 a) Navires et composants, comme suit :
 
@@ -1514,7 +1514,7 @@ a) Navires et composants, comme suit :
 
 a. Arme automatique d'un calibre d'au moins 12,7 mm visée au point ML1, arme visée aux points ML2, ML4, ML12 ou ML19, ou affût ou point de fixation pour une telle arme ;
 
-Note technique : "affût" vise un support d'armes ou un renforcement structurel destiné à l'installation d'une arme.
+Note technique : " affût " vise un support d'armes ou un renforcement structurel destiné à l'installation d'une arme.
 
 b. Système de conduite du tir visé au point ML5 ;
 
@@ -1582,7 +1582,7 @@ a. Puissance supérieure à 0,75 MW (1 000 CV) ;
 
 |
 
-b.A renversement rapide ;
+b. A renversement rapide ;
 
 c. Refroidis par liquide, et
 
@@ -1602,7 +1602,7 @@ b. Au moins 75 % de la masse constitutive est amagnétique ;
 
 |
 
-Note technique. - Une propulsion anaérobie permet à un sous-marin en immersion de faire fonctionner son système de propulsion, sans utiliser l'oxygène de l'atmosphère, pendant une durée supérieure au seul emploi de batteries. Aux fins du point ML9. b. 4, la propulsion anaérobie n'inclut pas l'énergie nucléaire.
+Note technique.-Une propulsion anaérobie permet à un sous-marin en immersion de faire fonctionner son système de propulsion, sans utiliser l'oxygène de l'atmosphère, pendant une durée supérieure au seul emploi de batteries. Aux fins du point ML9. b. 4, la propulsion anaérobie n'inclut pas l'énergie nucléaire.
 
 c) Appareils de détection sous-marine, spécialement conçus pour l'usage militaire, leurs systèmes de commande et leurs composants spécialement conçus pour l'usage militaire ;
 
@@ -1624,7 +1624,7 @@ f) Pénétrateurs de coques et connecteurs spécialement conçus pour l'usage mi
 
 |
 
-Note. - Le point ML9. f comprend les connecteurs pour navires de types à conducteur simple, à multiconducteur, coaxiaux ou à guides d'ondes et les pénétrateurs de coque, capables de résister à des fuites provenant de l'extérieur et de conserver les caractéristiques requises à des profondeurs sous-marines de plus de 100 m, ainsi que les connecteurs à fibres optiques et les pénétrateurs de coque optiques spécialement conçus pour la transmission de faisceaux "laser" quelle que soit la profondeur. Le point ML9. f ne vise pas les pénétrateurs de coque ordinaires pour l'arbre de propulsion et la tige de commande hydrodynamique.
+Note.-Le point ML9. f comprend les connecteurs pour navires de types à conducteur simple, à multiconducteur, coaxiaux ou à guides d'ondes et les pénétrateurs de coque, capables de résister à des fuites provenant de l'extérieur et de conserver les caractéristiques requises à des profondeurs sous-marines de plus de 100 m, ainsi que les connecteurs à fibres optiques et les pénétrateurs de coque optiques spécialement conçus pour la transmission de faisceaux " laser " quelle que soit la profondeur. Le point ML9. f ne vise pas les pénétrateurs de coque ordinaires pour l'arbre de propulsion et la tige de commande hydrodynamique.
 
 |
 
@@ -1648,19 +1648,19 @@ ML10
 
 |
 
-"Aéronefs", "véhicules plus légers que l'air", véhicules aériens non habités, moteurs et matériel d'"aéronef", matériel connexe et composants, spécialement conçus ou modifiés pour l'usage militaire, comme suit :
+" Aéronefs ", " véhicules plus légers que l'air ", véhicules aériens non habités, moteurs et matériel d'" aéronef ", matériel connexe et composants, spécialement conçus ou modifiés pour l'usage militaire, comme suit :
 
-Nota. - En ce qui concerne le matériel de guidage et de navigation, voir le point ML11.
-
-|
+Nota.-En ce qui concerne le matériel de guidage et de navigation, voir le point ML11.
 
 |
 
 |
 
-a) "Aéronefs" de combat et leurs composants spécialement conçus ;
+|
 
-b) Autres "aéronefs" et "véhicules plus légers que l'air" spécialement conçus ou modifiés pour l'usage militaire, notamment la reconnaissance, l'attaque, l'entraînement, le transport et le parachutage de troupes ou de matériel militaire, le soutien logistique, et leurs composants spécialement conçus ;
+a) " Aéronefs " de combat et leurs composants spécialement conçus ;
+
+b) Autres " aéronefs " et " véhicules plus légers que l'air " spécialement conçus ou modifiés pour l'usage militaire, notamment la reconnaissance, l'attaque, l'entraînement, le transport et le parachutage de troupes ou de matériel militaire, le soutien logistique, et leurs composants spécialement conçus ;
 
 |
 
@@ -1670,7 +1670,7 @@ b) Autres "aéronefs" et "véhicules plus légers que l'air" spécialement conç
 
 c) Véhicules aériens non habités et matériel connexe, spécialement conçus ou modifiés pour l'usage militaire, comme suit, et leurs composants spécialement conçus :
 
-1. Véhicules aériens non habités, y compris les engins aériens téléguidés, les véhicules autonomes programmables et les "véhicules plus légers que l'air" ;
+1. Véhicules aériens non habités, y compris les engins aériens téléguidés, les véhicules autonomes programmables et les " véhicules plus légers que l'air " ;
 
 2. Lanceurs associés et matériel d'appui au sol ;
 
@@ -1684,7 +1684,7 @@ c) Véhicules aériens non habités et matériel connexe, spécialement conçus 
 
 d) Moteurs aéronautiques spécialement conçus ou modifiés pour l'usage militaire, et leurs composants spécialement conçus ;
 
-e) Matériel aéroporté, y compris matériel pour le ravitaillement en carburant, spécialement conçus pour les "aéronefs" visés aux points ML10. a ou ML10. b ou pour les moteurs aéronautiques visés au point ML10. d et leurs composants spécialement conçus ;
+e) Matériel aéroporté, y compris matériel pour le ravitaillement en carburant, spécialement conçus pour les " aéronefs " visés aux points ML10. a ou ML10. b ou pour les moteurs aéronautiques visés au point ML10. d et leurs composants spécialement conçus ;
 
 |
 
@@ -1692,9 +1692,9 @@ e) Matériel aéroporté, y compris matériel pour le ravitaillement en carburan
 
 |
 
-f) Dispositifs et appareils fonctionnant sous pression ; matériel spécialement conçu pour permettre des opérations dans des espaces restreints, et matériel au sol, spécialement conçus pour les "aéronefs" visés aux points ML10. a ou ML10. b ou pour les moteurs aéronautiques visés au point ML10. d ;
+f) Dispositifs et appareils fonctionnant sous pression ; matériel spécialement conçu pour permettre des opérations dans des espaces restreints, et matériel au sol, spécialement conçus pour les " aéronefs " visés aux points ML10. a ou ML10. b ou pour les moteurs aéronautiques visés au point ML10. d ;
 
-g) Casques et masques militaires protecteurs et leurs composants spécialement conçus, matériel de respiration pressurisé et combinaisons partiellement pressurisées destinés à être utilisés dans les "aéronefs", combinaisons anti-g, convertisseurs d'oxygène liquide pour "aéronefs" ou missiles, dispositifs de catapultage et d'éjection commandés par cartouches utilisés pour le sauvetage d'urgence du personnel à bord d'"aéronefs" ;
+g) Casques et masques militaires protecteurs et leurs composants spécialement conçus, matériel de respiration pressurisé et combinaisons partiellement pressurisées destinés à être utilisés dans les " aéronefs ", combinaisons anti-g, convertisseurs d'oxygène liquide pour " aéronefs " ou missiles, dispositifs de catapultage et d'éjection commandés par cartouches utilisés pour le sauvetage d'urgence du personnel à bord d'" aéronefs " ;
 
 |
 
@@ -1718,7 +1718,7 @@ i) Systèmes de pilotage automatique pour charges parachutées ; matériel spéc
 
 |
 
-Note 1. - Le point ML10. b ne vise pas les "aéronefs" ou les variantes d'"aéronefs" spécialement conçus pour l'usage militaire et présentant toutes les caractéristiques suivantes :
+Note 1.-Le point ML10. b ne vise pas les " aéronefs " ou les variantes d'" aéronefs " spécialement conçus pour l'usage militaire et présentant toutes les caractéristiques suivantes :
 
 a. Non configurés pour l'usage militaire et non dotés de matériel spécialement conçu ou modifié pour l'usage militaire, et
 
@@ -1730,9 +1730,9 @@ b. Certifiés pour un usage civil par les services de l'aviation civile d'un Eta
 
 |
 
-Note 2. - Le point ML10. d ne vise pas :
+Note 2.-Le point ML10. d ne vise pas :
 
-a. Les moteurs aéronautiques conçus ou modifiés pour l'usage militaire et certifiés par les services de l'aviation civile d'un Etat membre ou d'un Etat participant à l'Arrangement de Wassenaar en vue de l'emploi dans des "aéronefs civils", ou leurs composants spécialement conçus ;
+a. Les moteurs aéronautiques conçus ou modifiés pour l'usage militaire et certifiés par les services de l'aviation civile d'un Etat membre ou d'un Etat participant à l'Arrangement de Wassenaar en vue de l'emploi dans des " aéronefs civils ", ou leurs composants spécialement conçus ;
 
 b. Les moteurs à mouvement alternatif ou leurs composants spécialement conçus, à l'exception de ceux spécialement conçus pour les véhicules aériens non habités.
 
@@ -1742,7 +1742,7 @@ b. Les moteurs à mouvement alternatif ou leurs composants spécialement conçus
 
 |
 
-Note 3. - Aux termes des points ML10. b et ML10. d portant sur les composants spécialement conçus pour des "aéronefs" ou moteurs aéronautiques non militaires modifiés pour l'usage militaire et le matériel connexe, seuls sont visés les composants militaires et le matériel connexe militaire nécessaires à la modification.
+Note 3.-Aux termes des points ML10. b et ML10. d portant sur les composants spécialement conçus pour des " aéronefs " ou moteurs aéronautiques non militaires modifiés pour l'usage militaire et le matériel connexe, seuls sont visés les composants militaires et le matériel connexe militaire nécessaires à la modification.
 
 |
 
@@ -1762,7 +1762,7 @@ Matériel électronique non visé par ailleurs dans la liste commune des équipe
 
 a) Matériel électronique spécialement conçu pour l'usage militaire ;
 
-Note. - Le point ML11 a comprend :
+Note.-Le point ML11 a comprend :
 
 a. Le matériel de contre-mesures électroniques et de contre-contre-mesures électroniques (à savoir, matériel conçu pour introduire des signaux extrinsèques ou parasites dans un radar ou dans des récepteurs de radiocommunications ou pour entraver de toute autre manière la réception, le fonctionnement ou l'efficacité des récepteurs électroniques de l'adversaire, y compris son matériel de contre-mesures) ; y compris le matériel de brouillage et d'antibrouillage ;
 
@@ -1794,7 +1794,7 @@ h. Le matériel de transmission des communications radio par diffusion troposph�
 
 i. Des démodulateurs numériques conçus spécialement pour le renseignement par écoute des signaux.
 
-j. Les "systèmes de commande et de contrôle automatisés".
+j. Les " systèmes de commande et de contrôle automatisés ".
 
 |
 
@@ -1830,9 +1830,9 @@ b) Matériel d'essai et d'évaluation et modèles d'essai spécialement conçus,
 
 |
 
-Nota. - En ce qui concerne les systèmes d'armes utilisant des munitions sous-calibrées ou faisant appel exclusivement à la propulsion chimique, et leurs munitions, voir les points ML1 à ML4.
+Nota.-En ce qui concerne les systèmes d'armes utilisant des munitions sous-calibrées ou faisant appel exclusivement à la propulsion chimique, et leurs munitions, voir les points ML1 à ML4.
 
-Note 1. - Le point ML12 comprend le matériel suivant lorsqu'il est spécialement conçu pour les systèmes d'armes à énergie cinétique :
+Note 1.-Le point ML12 comprend le matériel suivant lorsqu'il est spécialement conçu pour les systèmes d'armes à énergie cinétique :
 
 a. Systèmes de lancement-propulsion capables de faire accélérer des masses supérieures à 0,1 g jusqu'à des vitesses dépassant 1,6 km/ s, en mode de tir simple ou rapide ;
 
@@ -1854,7 +1854,7 @@ c. Systèmes d'acquisition et de poursuite de cible, de conduite du tir ou d'év
 
 d. Systèmes à autodirecteur, de guidage ou de propulsion déviée (accélération latérale), pour projectiles.
 
-Note 2. - Le point ML12 vise les systèmes d'armes utilisant l'une des méthodes de propulsion suivantes :
+Note 2.-Le point ML12 vise les systèmes d'armes utilisant l'une des méthodes de propulsion suivantes :
 
 a. Electromagnétique ;
 
@@ -1868,7 +1868,7 @@ b. Electrothermique ;
 
 c. Par plasma ;
 
-d.A gaz léger, ou
+d. A gaz léger, ou
 
 e. Chimique (uniquement lorsqu'elle est utilisée avec l'une des autres méthodes ci-dessus).
 
@@ -1912,7 +1912,7 @@ c) Casques fabriqués conformément aux normes ou aux spécifications militaires
 
 d) Vêtements de protection balistique fabriqués conformément aux normes ou aux spécifications militaires ou à l'équivalent, et leurs composants spécialement conçus.
 
-Note 1. - Le point ML13. b comprend les matériaux spécialement conçus pour constituer des blindages réactifs à l'explosion ou construire des abris militaires.
+Note 1.-Le point ML13. b comprend les matériaux spécialement conçus pour constituer des blindages réactifs à l'explosion ou construire des abris militaires.
 
 |
 
@@ -1920,7 +1920,7 @@ Note 1. - Le point ML13. b comprend les matériaux spécialement conçus pour co
 
 |
 
-Note 2. - Le point ML13. c ne vise pas les casques d'acier de type classique non modifiés ou conçus en vue de recevoir un type quelconque de dispositif accessoire, ni équipés d'un tel dispositif.
+Note 2.-Le point ML13. c ne vise pas les casques d'acier de type classique non modifiés ou conçus en vue de recevoir un type quelconque de dispositif accessoire, ni équipés d'un tel dispositif.
 
 |
 
@@ -1928,19 +1928,19 @@ Note 2. - Le point ML13. c ne vise pas les casques d'acier de type classique non
 
 |
 
-Note 3. - Les points ML13. c et ML13. d ne visent pas les casques, les vêtements de protection balistique ou les vêtements de protection utilisés par l'usager pour sa protection personnelle.
+Note 3.-Les points ML13. c et ML13. d ne visent pas les casques, les vêtements de protection balistique ou les vêtements de protection utilisés par l'usager pour sa protection personnelle.
 
-Note 4. - Les seuls casques spécialement conçus pour le personnel de neutralisation des bombes visés au point ML13 sont les casques spécialement conçus pour l'usage militaire.
-
-|
+Note 4.-Les seuls casques spécialement conçus pour le personnel de neutralisation des bombes visés au point ML13 sont les casques spécialement conçus pour l'usage militaire.
 
 |
 
 |
 
-Nota 1. - Voir également le point 1A005 de la liste des biens à double usage de l'Union européenne.
+|
 
-Nota 2. - En ce qui concerne les "matériaux fibreux ou filamenteux" entrant dans la fabrication des vêtements blindés et des casques, voir le point 1C010 de la liste des biens à double usage de l'Union européenne.
+Nota 1.-Voir également le point 1A005 de la liste des biens à double usage de l'Union européenne.
+
+Nota 2.-En ce qui concerne les " matériaux fibreux ou filamenteux " entrant dans la fabrication des vêtements blindés et des casques, voir le point 1C010 de la liste des biens à double usage de l'Union européenne.
 
 |
 
@@ -1950,7 +1950,7 @@ ML14
 
 |
 
-"Matériel spécialisé pour l'entraînement" ou les mises en situation militaires, simulateurs spécialement conçus pour l'entraînement à l'utilisation de toute arme ou arme à feu visée aux points ML1 ou ML2, et leurs composants et accessoires spécialement conçus.
+" Matériel spécialisé pour l'entraînement " ou les mises en situation militaires, simulateurs spécialement conçus pour l'entraînement à l'utilisation de toute arme ou arme à feu visée aux points ML1 ou ML2, et leurs composants et accessoires spécialement conçus.
 
 |
 
@@ -1958,7 +1958,7 @@ ML14
 
 |
 
-Note technique. - Le terme "matériel spécialisé pour l'entraînement militaire" comprend les types militaires d'entraîneurs à l'attaque, d'entraîneurs au vol opérationnel, d'entraîneurs à la cible radar, de générateurs de cibles radar, de dispositifs d'entraînement au tir, d'entraîneurs à la guerre anti-sous-marine, de simulateurs de vol (y compris les centrifugeuses prévues pour l'homme, destinées à la formation des pilotes et astronautes), d'entraîneurs à l'utilisation des radars, d'entraîneurs VSV (utilisation des instruments de bord, d'entraîneurs à la navigation, d'entraîneurs au lancement de missiles, de matériels de cible, d'"aéronefs" téléguidés, d'entraîneurs d'armement, d'entraîneurs à la commande des "aéronefs" téléguidés, de groupes mobiles d'entraînement et de matériel d'entraînement aux opérations militaires au sol.
+Note technique.-Le terme " matériel spécialisé pour l'entraînement militaire " comprend les types militaires d'entraîneurs à l'attaque, d'entraîneurs au vol opérationnel, d'entraîneurs à la cible radar, de générateurs de cibles radar, de dispositifs d'entraînement au tir, d'entraîneurs à la guerre anti-sous-marine, de simulateurs de vol (y compris les centrifugeuses prévues pour l'homme, destinées à la formation des pilotes et astronautes), d'entraîneurs à l'utilisation des radars, d'entraîneurs VSV (utilisation des instruments de bord, d'entraîneurs à la navigation, d'entraîneurs au lancement de missiles, de matériels de cible, d'" aéronefs " téléguidés, d'entraîneurs d'armement, d'entraîneurs à la commande des " aéronefs " téléguidés, de groupes mobiles d'entraînement et de matériel d'entraînement aux opérations militaires au sol.
 
 |
 
@@ -1966,7 +1966,7 @@ Note technique. - Le terme "matériel spécialisé pour l'entraînement militair
 
 |
 
-Note 1. - Le point ML14 comprend les systèmes de génération d'images et les systèmes d'environnement interactif pour simulateurs lorsqu'ils sont spécialement conçus ou modifiés pour l'usage militaire.
+Note 1.-Le point ML14 comprend les systèmes de génération d'images et les systèmes d'environnement interactif pour simulateurs lorsqu'ils sont spécialement conçus ou modifiés pour l'usage militaire.
 
 |
 
@@ -1974,7 +1974,7 @@ Note 1. - Le point ML14 comprend les systèmes de génération d'images et les s
 
 |
 
-Note 2. - Le point ML14 ne vise pas le matériel spécialement conçu pour l'entraînement à l'utilisation des armes de chasse ou de tir sportif.
+Note 2.-Le point ML14 ne vise pas le matériel spécialement conçu pour l'entraînement à l'utilisation des armes de chasse ou de tir sportif.
 
 |
 
@@ -2016,9 +2016,9 @@ f) Matériel de contre-mesures ou de contre-contre-mesures pour le matériel vis
 
 |
 
-Note. - Le point ML15. f comprend le matériel conçu pour dégrader le fonctionnement ou l'efficacité des systèmes militaires d'imagerie ou réduire les effets d'une telle dégradation.
+Note.-Le point ML15. f comprend le matériel conçu pour dégrader le fonctionnement ou l'efficacité des systèmes militaires d'imagerie ou réduire les effets d'une telle dégradation.
 
-Note 1. - Au point ML15, les composants spécialement conçus comprennent le matériel suivant lorsque celui-ci est spécialement conçu pour l'usage militaire :
+Note 1.-Au point ML15, les composants spécialement conçus comprennent le matériel suivant lorsque celui-ci est spécialement conçu pour l'usage militaire :
 
 a. Tubes convertisseurs d'images infrarouges ;
 
@@ -2064,7 +2064,7 @@ i. Inverseurs d'images à fibres optiques ;
 
 j. Photocathodes à semi-conducteurs composés.
 
-Note 2. - Le point ML15 ne vise pas les "tubes intensificateurs d'image de la première génération" ni le matériel spécialement conçu pour comporter des "tubes intensificateurs d'image de la première génération".
+Note 2.-Le point ML15 ne vise pas les " tubes intensificateurs d'image de la première génération " ni le matériel spécialement conçu pour comporter des " tubes intensificateurs d'image de la première génération ".
 
 |
 
@@ -2072,9 +2072,9 @@ Note 2. - Le point ML15 ne vise pas les "tubes intensificateurs d'image de la pr
 
 |
 
-Nota. - En ce qui concerne la classification des viseurs d'armement comportant des "tubes intensificateurs d'image de la première génération", voir les points ML1, ML2 et ML5. a.
+Nota.-En ce qui concerne la classification des viseurs d'armement comportant des " tubes intensificateurs d'image de la première génération ", voir les points ML1, ML2 et ML5. a.
 
-Nota. - Voir également les points 6A002. a. 2 et 6A002. b de la liste des biens à double usage de l'Union européenne.
+Nota.-Voir également les points 6A002. a. 2 et 6A002. b de la liste des biens à double usage de l'Union européenne.
 
 |
 
@@ -2094,7 +2094,7 @@ ML17
 
 |
 
-Autres matériels, matières et "bibliothèques", comme suit, et leurs composants spécialement conçus :
+Autres matériels, matières et " bibliothèques ", comme suit, et leurs composants spécialement conçus :
 
 a) Appareils autonomes de plongée et de nage sous-marine, comme suit :
 
@@ -2128,7 +2128,7 @@ c) Accessoires, revêtements et traitements pour la suppression totale ou partie
 
 d) Matériel de génie spécialement conçu pour l'usage dans une zone de combat ;
 
-e) "Robots", unités de commande de "robots" et "effecteurs terminaux" de "robots" présentant l'une des caractéristiques suivantes :
+e) " Robots ", unités de commande de " robots " et " effecteurs terminaux " de " robots " présentant l'une des caractéristiques suivantes :
 
 1. Spécialement conçus pour des applications militaires ;
 
@@ -2148,17 +2148,17 @@ e) "Robots", unités de commande de "robots" et "effecteurs terminaux" de "robot
 
 |
 
-Note technique. - Par "impulsions électromagnétiques", on n'entend pas les interférences non délibérées qui sont provoquées par le rayonnement électromagnétique des équipements (machines, appareils ou matériel électroniques) et sources d'éclairage situés à proximité.
+Note technique.-Par " impulsions électromagnétiques ", on n'entend pas les interférences non délibérées qui sont provoquées par le rayonnement électromagnétique des équipements (machines, appareils ou matériel électroniques) et sources d'éclairage situés à proximité.
 
-f) "Bibliothèques" (bases de données techniques paramétriques) spécialement conçues pour l'usage militaire avec du matériel visé par la liste commune d'équipements militaires de l'Union européenne ;
-
-|
+f) " Bibliothèques " (bases de données techniques paramétriques) spécialement conçues pour l'usage militaire avec du matériel visé par la liste commune d'équipements militaires de l'Union européenne ;
 
 |
 
 |
 
-g) Matériel générateur d'énergie ou de propulsion nucléaire, y compris les "réacteurs nucléaires", spécialement conçus pour l'usage militaire, et leurs composants spécialement conçus ou "modifiés" pour l'usage militaire ;
+|
+
+g) Matériel générateur d'énergie ou de propulsion nucléaire, y compris les " réacteurs nucléaires ", spécialement conçus pour l'usage militaire, et leurs composants spécialement conçus ou " modifiés " pour l'usage militaire ;
 
 |
 
@@ -2168,7 +2168,7 @@ g) Matériel générateur d'énergie ou de propulsion nucléaire, y compris les 
 
 h) Matériel et matières recouverts ou traités pour la suppression totale ou partielle des signatures, spécialement conçus pour l'usage militaire, autres que ceux visés par d'autres parties de la liste commune d'équipements militaires de l'Union européenne ;
 
-i) Simulateurs spécialement conçus pour les "réacteurs nucléaires" militaires ;
+i) Simulateurs spécialement conçus pour les " réacteurs nucléaires " militaires ;
 
 |
 
@@ -2176,9 +2176,9 @@ i) Simulateurs spécialement conçus pour les "réacteurs nucléaires" militaire
 
 |
 
-j) Ateliers mobiles de réparation spécialement conçus ou "modifiés" pour le matériel militaire ;
+j) Ateliers mobiles de réparation spécialement conçus ou " modifiés " pour le matériel militaire ;
 
-k) Alternateurs de campagne spécialement conçus ou "modifiés" pour l'usage militaire ;
+k) Alternateurs de campagne spécialement conçus ou " modifiés " pour l'usage militaire ;
 
 |
 
@@ -2196,7 +2196,7 @@ m) Transbordeurs autres que ceux visés par ailleurs dans la liste commune des �
 
 |
 
-n) Modèles d'essai spécialement conçus pour le "développement" des produits visés aux points ML4, ML6, ML9 ou ML10 ;
+n) Modèles d'essai spécialement conçus pour le " développement " des produits visés aux points ML4, ML6, ML9 ou ML10 ;
 
 o) Matériel de protection laser (par exemple, protection de l'œil et des capteurs) spécialement conçu pour l'usage militaire.
 
@@ -2206,7 +2206,7 @@ o) Matériel de protection laser (par exemple, protection de l'œil et des capte
 
 |
 
-p) "Piles à combustible" autres que celles visées par ailleurs dans la liste commune des équipements militaires de l'Union européenne, spécialement conçues ou "modifiées" pour l'usage militaire.
+p) " Piles à combustible " autres que celles visées par ailleurs dans la liste commune des équipements militaires de l'Union européenne, spécialement conçues ou " modifiées " pour l'usage militaire.
 
 Notes techniques :
 
@@ -2218,7 +2218,7 @@ Notes techniques :
 
 1. Aux fins du point ML17, le mot'bibliothèque'(base de données techniques paramétriques) désigne un ensemble d'informations techniques à caractère militaire, susceptibles d'augmenter la performance du matériel ou des systèmes militaires.
 
-2. Aux fins du point ML17, le mot : "modifié" désigne tout changement structurel, électrique, mécanique ou autre qui confère à un article non militaire des capacités militaires équivalentes à celle d'un article spécialement conçu pour l'usage militaire.
+2. Aux fins du point ML17, le mot : " modifié " désigne tout changement structurel, électrique, mécanique ou autre qui confère à un article non militaire des capacités militaires équivalentes à celle d'un article spécialement conçu pour l'usage militaire.
 
 |
 
@@ -2230,7 +2230,7 @@ ML18
 
 Matériel pour la production et ses composants, comme suit :
 
-a) Matériel de "production" spécialement conçu ou modifié pour la'production'de biens visés par la liste commune des équipements militaires de l'Union européenne, et ses composants spécialement conçus ;
+a) Matériel de " production " spécialement conçu ou modifié pour la'production'de biens visés par la liste commune des équipements militaires de l'Union européenne, et ses composants spécialement conçus ;
 
 |
 
@@ -2240,9 +2240,9 @@ a) Matériel de "production" spécialement conçu ou modifié pour la'production
 
 b) Installations d'essai d'environnement spécialement conçues, et leur matériel spécialement conçu, pour l'homologation, la qualification ou l'essai de biens visés par la liste commune des équipements militaires de l'Union européenne.
 
-Note technique. - Aux fins du point ML18, le mot : "production" comprend le développement, l'examen, la fabrication, la mise à l'essai et la vérification.
+Note technique.-Aux fins du point ML18, le mot : " production " comprend le développement, l'examen, la fabrication, la mise à l'essai et la vérification.
 
-Note. - Les points ML18. a et ML18. b comprennent le matériel suivant :
+Note.-Les points ML18. a et ML18. b comprennent le matériel suivant :
 
 |
 
@@ -2310,7 +2310,7 @@ Systèmes d'armes à énergie dirigée, matériel connexe ou de contre-mesure et
 
 |
 
-a) Systèmes "à laser" spécialement conçus pour détruire une cible ou faire avorter la mission d'une cible ;
+a) Systèmes " à laser " spécialement conçus pour détruire une cible ou faire avorter la mission d'une cible ;
 
 b) Systèmes à faisceau de particules capables de détruire une cible ou de faire avorter la mission d'une cible ;
 
@@ -2332,7 +2332,7 @@ d) Matériel spécialement conçu pour la détection ou l'identification des sys
 
 e) Modèles d'essai physique concernant les systèmes, matériel et composants visés au point ML19 ;
 
-f) Systèmes à "laser" à ondes entretenues ou à impulsions spécialement conçus pour entraîner la cécité permanente des dispositifs de vision non améliorés, c'est-à-dire l'œil nu ou avec dispositifs de correction de la vue.
+f) Systèmes à " laser " à ondes entretenues ou à impulsions spécialement conçus pour entraîner la cécité permanente des dispositifs de vision non améliorés, c'est-à-dire l'œil nu ou avec dispositifs de correction de la vue.
 
 |
 
@@ -2340,9 +2340,9 @@ f) Systèmes à "laser" à ondes entretenues ou à impulsions spécialement con�
 
 |
 
-Note 1. - Les systèmes d'armes à énergie dirigée visés au point ML19 comprennent des systèmes dont les possibilités dérivent de l'application contrôlée de :
+Note 1.-Les systèmes d'armes à énergie dirigée visés au point ML19 comprennent des systèmes dont les possibilités dérivent de l'application contrôlée de :
 
-a. "Lasers" à ondes entretenues ou à puissance émise en impulsions suffisantes pour effectuer une destruction semblable à celle obtenue par des munitions classiques ;
+a. " Lasers " à ondes entretenues ou à puissance émise en impulsions suffisantes pour effectuer une destruction semblable à celle obtenue par des munitions classiques ;
 
 b. Accélérateurs de particules projetant un faisceau de particules chargées ou neutres avec une puissance destructrice ;
 
@@ -2360,7 +2360,7 @@ c. Emetteurs de faisceau de micro-ondes de puissance émise en impulsions élev�
 
 |
 
-Note 2. - Le point ML19 comprend le matériel suivant lorsque celui-ci est spécialement conçu pour les systèmes d'armes à énergie dirigée :
+Note 2.-Le point ML19 comprend le matériel suivant lorsque celui-ci est spécialement conçu pour les systèmes d'armes à énergie dirigée :
 
 a. Matériel de production de puissance immédiatement disponible, d'emmagasinage ou de commutation d'énergie, de conditionnement de puissance ou de manipulation de combustible ;
 
@@ -2388,7 +2388,7 @@ f. Matériel optique adaptatif et dispositifs de conjugaison de phase ;
 
 g. Injecteurs de courant pour faisceaux d'ions d'hydrogène négatifs ;
 
-h. Composants d'accélérateur "qualifiés pour l'usage spatial" ;
+h. Composants d'accélérateur " qualifiés pour l'usage spatial " ;
 
 i. Matériel de focalisation de faisceaux d'ions négatifs ;
 
@@ -2400,7 +2400,7 @@ i. Matériel de focalisation de faisceaux d'ions négatifs ;
 
 j. Matériel pour le contrôle et l'orientation d'un faisceau d'ions à haute énergie ;
 
-k. Feuillards "qualifiés pour l'usage spatial" pour la neutralisation de faisceaux d'isotopes d'hydrogène négatifs.
+k. Feuillards " qualifiés pour l'usage spatial " pour la neutralisation de faisceaux d'isotopes d'hydrogène négatifs.
 
 |
 
@@ -2410,17 +2410,9 @@ ML20
 
 |
 
-Matériel cryogénique et "supraconducteur", comme suit, et ses composants et accessoires spécialement conçus :
+Matériel cryogénique et " supraconducteur ", comme suit, et ses composants et accessoires spécialement conçus :
 
-a) Matériel spécialement conçu ou aménagé pour être installé à bord d'un véhicule pour des applications militaires terrestres, maritimes, aéronautiques ou spatiales, capable de fonctionner en mouvement et de produire ou de maintenir des températures inférieures à 103 K (- 170° C).
-
-|
-
-|
-
-|
-
-Note. - Le point ML20. a comprend les systèmes mobiles contenant ou utilisant des accessoires ou des composants fabriqués à partir de matériaux non métalliques ou non conducteurs de l'électricité, tels que les matières plastiques ou les matériaux imprégnés de résines époxydes.
+a) Matériel spécialement conçu ou aménagé pour être installé à bord d'un véhicule pour des applications militaires terrestres, maritimes, aéronautiques ou spatiales, capable de fonctionner en mouvement et de produire ou de maintenir des températures inférieures à 103 K (-170° C).
 
 |
 
@@ -2428,7 +2420,7 @@ Note. - Le point ML20. a comprend les systèmes mobiles contenant ou utilisant d
 
 |
 
-b) Matériel électrique "supraconducteur" (machines rotatives et transformateurs) spécialement conçu ou aménagé pour être installé à bord d'un véhicule pour des applications militaires terrestres, maritimes, aéronautiques ou spatiales, et capable de fonctionner en mouvement.
+Note.-Le point ML20. a comprend les systèmes mobiles contenant ou utilisant des accessoires ou des composants fabriqués à partir de matériaux non métalliques ou non conducteurs de l'électricité, tels que les matières plastiques ou les matériaux imprégnés de résines époxydes.
 
 |
 
@@ -2436,7 +2428,15 @@ b) Matériel électrique "supraconducteur" (machines rotatives et transformateur
 
 |
 
-Note. - Le point ML20. b ne vise pas les générateurs homopolaires hybrides de courant continu ayant des armatures métalliques normales à un seul pôle, tournant dans un champ magnétique produit par des bobinages supraconducteurs, à condition que ces bobinages représentent les seuls éléments supraconducteurs du générateur.
+b) Matériel électrique " supraconducteur " (machines rotatives et transformateurs) spécialement conçu ou aménagé pour être installé à bord d'un véhicule pour des applications militaires terrestres, maritimes, aéronautiques ou spatiales, et capable de fonctionner en mouvement.
+
+|
+
+|
+
+|
+
+Note.-Le point ML20. b ne vise pas les générateurs homopolaires hybrides de courant continu ayant des armatures métalliques normales à un seul pôle, tournant dans un champ magnétique produit par des bobinages supraconducteurs, à condition que ces bobinages représentent les seuls éléments supraconducteurs du générateur.
 
 |
 
@@ -2446,19 +2446,9 @@ ML21
 
 |
 
-"Logiciels", comme suit :
+" Logiciels ", comme suit :
 
-a) "Logiciels" spécialement conçus ou modifiés pour le "développement", la "production" ou l'"utilisation" d'équipement ou de matériel visés par la liste commune des équipements militaires de l'Union européenne ;
-
-|
-
-|
-
-|
-
-b) "Logiciels" spécifiques, autres que ceux visés au point ML21. a, comme suit :
-
-1. "Logiciels" spécialement conçus pour l'usage militaire et spécialement conçus pour la modélisation, la simulation ou l'évaluation de systèmes d'armes militaires ;
+a) " Logiciels " spécialement conçus ou modifiés pour le " développement ", la " production " ou l'" utilisation " d'équipement ou de matériel visés par la liste commune des équipements militaires de l'Union européenne ;
 
 |
 
@@ -2466,17 +2456,9 @@ b) "Logiciels" spécifiques, autres que ceux visés au point ML21. a, comme suit
 
 |
 
-2. "Logiciels" spécialement conçus pour l'usage militaire et spécialement conçus pour la modélisation ou la simulation de scénarios opérationnels militaires ;
+b) " Logiciels " spécifiques, autres que ceux visés au point ML21. a, comme suit :
 
-3. "Logiciels" destinés à déterminer les effets des armes conventionnelles, nucléaires, chimiques ou biologiques ;
-
-|
-
-|
-
-|
-
-4. "Logiciels" spécialement conçus pour l'usage militaire et spécialement conçus pour les applications Commandement, Communication, Conduite des opérations, Collecte du renseignement (C ³ I) ou les applications Commandement, Communication, Conduite des opérations, Informatique et Collecte du renseignement (C4I) ;
+1. " Logiciels " spécialement conçus pour l'usage militaire et spécialement conçus pour la modélisation, la simulation ou l'évaluation de systèmes d'armes militaires ;
 
 |
 
@@ -2484,7 +2466,25 @@ b) "Logiciels" spécifiques, autres que ceux visés au point ML21. a, comme suit
 
 |
 
-c) "Logiciels", non visés aux points ML21. a ou ML21. b, spécialement conçus ou modifiés pour permettre au matériel non visé par la liste commune des équipements militaires de l'Union européenne de remplir les fonctions militaires du matériel visé par la liste commune des équipements militaires de l'Union européenne.
+2. " Logiciels " spécialement conçus pour l'usage militaire et spécialement conçus pour la modélisation ou la simulation de scénarios opérationnels militaires ;
+
+3. " Logiciels " destinés à déterminer les effets des armes conventionnelles, nucléaires, chimiques ou biologiques ;
+
+|
+
+|
+
+|
+
+4. " Logiciels " spécialement conçus pour l'usage militaire et spécialement conçus pour les applications Commandement, Communication, Conduite des opérations, Collecte du renseignement (C ³ I) ou les applications Commandement, Communication, Conduite des opérations, Informatique et Collecte du renseignement (C4I) ;
+
+|
+
+|
+
+|
+
+c) " Logiciels ", non visés aux points ML21. a ou ML21. b, spécialement conçus ou modifiés pour permettre au matériel non visé par la liste commune des équipements militaires de l'Union européenne de remplir les fonctions militaires du matériel visé par la liste commune des équipements militaires de l'Union européenne.
 
 |
 
@@ -2494,19 +2494,9 @@ ML22
 
 |
 
-"Technologie", comme suit :
+" Technologie ", comme suit :
 
-a) "Technologie", autre que celle qui est spécifiée au point ML22. b, qui est "nécessaire" au "développement", à la "production" ou à l'"utilisation" d'articles visés par la liste commune des équipements militaires de l'Union européenne ;
-
-|
-
-|
-
-|
-
-b) "Technologie", comme suit :
-
-1. "Technologie" "nécessaire" à la conception d'installations complètes de production, à l'assemblage de composants dans de telles installations, à l'exploitation, à la maintenance et à la réparation de telles installations pour des articles visés dans la liste commune des équipements militaires de l'Union européenne, quand bien même les composants de ces installations de production ne seraient pas visés ;
+a) " Technologie ", autre que celle qui est spécifiée au point ML22. b, qui est " nécessaire " au " développement ", à la " production " ou à l'" utilisation " d'articles visés par la liste commune des équipements militaires de l'Union européenne ;
 
 |
 
@@ -2514,19 +2504,9 @@ b) "Technologie", comme suit :
 
 |
 
-2. "Technologie" "nécessaire" au "développement" ou à la "production" d'armes portatives, quand bien même elle servirait à la fabrication de reproductions d'armes anciennes ;
+b) " Technologie ", comme suit :
 
-3. "Technologie" "nécessaire" au "développement", à la "production" ou à l'"utilisation" d'agents toxicologiques, de matériel ou de composants connexes visés aux points ML7. a à ML7. g ;
-
-|
-
-|
-
-|
-
-4. "Technologie" "nécessaire" au "développement", à la "production" ou à l'"utilisation" de "biopolymères" ou de cultures de cellules spécifiques visés au point ML7. h ;
-
-5. "Technologie" "nécessaire" exclusivement à l'incorporation de "biocatalyseurs", visés au point ML7. i. 1, dans des substances porteuses militaires ou des matières militaires.
+1. " Technologie " " nécessaire " à la conception d'installations complètes de production, à l'assemblage de composants dans de telles installations, à l'exploitation, à la maintenance et à la réparation de telles installations pour des articles visés dans la liste commune des équipements militaires de l'Union européenne, quand bien même les composants de ces installations de production ne seraient pas visés ;
 
 |
 
@@ -2534,9 +2514,19 @@ b) "Technologie", comme suit :
 
 |
 
-Note 1. - La "technologie" "nécessaire" au "développement", à la "production" ou à l'"utilisation" d'articles visés par la liste commune des équipements militaires de l'Union européenne reste contrôlée, même si elle s'applique à un article qui n'est pas visé par la liste commune des équipements militaires de l'Union européenne.
+2. " Technologie " " nécessaire " au " développement " ou à la " production " d'armes portatives, quand bien même elle servirait à la fabrication de reproductions d'armes anciennes ;
 
-Note 2. - Le point ML22 ne vise pas :
+3. " Technologie " " nécessaire " au " développement ", à la " production " ou à l'" utilisation " d'agents toxicologiques, de matériel ou de composants connexes visés aux points ML7. a à ML7. g ;
+
+|
+
+|
+
+|
+
+4. " Technologie " " nécessaire " au " développement ", à la " production " ou à l'" utilisation " de " biopolymères " ou de cultures de cellules spécifiques visés au point ML7. h ;
+
+5. " Technologie " " nécessaire " exclusivement à l'incorporation de " biocatalyseurs ", visés au point ML7. i. 1, dans des substances porteuses militaires ou des matières militaires.
 
 |
 
@@ -2544,11 +2534,21 @@ Note 2. - Le point ML22 ne vise pas :
 
 |
 
-a. La "technologie" minimale nécessaire à l'installation, à l'exploitation, à la maintenance (vérification) et à la réparation des articles qui ne sont pas contrôlés ou dont l'exportation a été autorisée ;
+Note 1.-La " technologie " " nécessaire " au " développement ", à la " production " ou à l'" utilisation " d'articles visés par la liste commune des équipements militaires de l'Union européenne reste contrôlée, même si elle s'applique à un article qui n'est pas visé par la liste commune des équipements militaires de l'Union européenne.
 
-b. La "technologie" relevant "du domaine public", la "recherche scientifique fondamentale" ou l'information minimale nécessaire au dépôt de demandes de brevets ;
+Note 2.-Le point ML22 ne vise pas :
 
-c. La "technologie" afférente à l'induction magnétique pour la propulsion continue d'engins de transport civil.
+|
+
+|
+
+|
+
+a. La " technologie " minimale nécessaire à l'installation, à l'exploitation, à la maintenance (vérification) et à la réparation des articles qui ne sont pas contrôlés ou dont l'exportation a été autorisée ;
+
+b. La " technologie " relevant " du domaine public ", la " recherche scientifique fondamentale " ou l'information minimale nécessaire au dépôt de demandes de brevets ;
+
+c. La " technologie " afférente à l'induction magnétique pour la propulsion continue d'engins de transport civil.
 
 |
 
@@ -2566,7 +2566,7 @@ ML7
 
 |
 
-"Adapté pour usage de guerre"
+" Adapté pour usage de guerre "
 
 Toute modification ou sélection (notamment altération de la pureté, de la durée de conservation, de la virulence, des caractéristiques de diffusion ou de la résistance aux rayons UV) conçue pour augmenter la capacité à causer des pertes humaines ou animales, à dégrader le matériel ou à endommager les récoltes ou l'environnement.
 
@@ -2578,7 +2578,7 @@ ML8
 
 |
 
-"Additifs"
+" Additifs "
 
 Produits employés dans la formulation d'un explosif pour améliorer ses propriétés.
 
@@ -2590,7 +2590,7 @@ ML8, ML9 and ML10
 
 |
 
-"Aéronef"
+" Aéronef "
 
 Véhicule aérien à voilure fixe, à voilure pivotante, à voilure rotative (hélicoptère), à rotor basculant ou à voilure basculante.
 
@@ -2602,9 +2602,9 @@ ML10
 
 |
 
-"Aéronef civil"
+" Aéronef civil "
 
-"Aéronef" inscrit sous sa désignation propre sur les listes de certificats de navigabilité publiées par les services de l'aviation civile comme desservant des lignes commerciales civiles intérieures et extérieures ou destinés à un usage civil légitime, privé ou professionnel.
+" Aéronef " inscrit sous sa désignation propre sur les listes de certificats de navigabilité publiées par les services de l'aviation civile comme desservant des lignes commerciales civiles intérieures et extérieures ou destinés à un usage civil légitime, privé ou professionnel.
 
 |
 
@@ -2614,9 +2614,9 @@ ML7
 
 |
 
-"Agents anti-émeutes"
+" Agents anti-émeutes "
 
-Substances qui, dans les conditions d'utilisation prévues à des fins anti-émeutes, provoquent rapidement chez l'homme des irritations ou une incapacité physique provisoires qui disparaissent en l'espace de quelques minutes dès que l'exposition aux gaz a cessé (les gaz lacrymogènes forment un sous-ensemble des "agents anti-émeutes").
+Substances qui, dans les conditions d'utilisation prévues à des fins anti-émeutes, provoquent rapidement chez l'homme des irritations ou une incapacité physique provisoires qui disparaissent en l'espace de quelques minutes dès que l'exposition aux gaz a cessé (les gaz lacrymogènes forment un sous-ensemble des " agents anti-émeutes ").
 
 |
 
@@ -2626,7 +2626,7 @@ ML7, 22
 
 |
 
-"Biocatalyseur"
+" Biocatalyseur "
 
 Enzyme pour des réactions chimiques ou biochimiques spécifiques ou autre composé biologique qui se lie aux agents C et accélère leur dégradation.
 
@@ -2636,7 +2636,7 @@ Enzyme pour des réactions chimiques ou biochimiques spécifiques ou autre compo
 
 |
 
-Note technique : le terme "enzyme" désigne une substance qui agit comme "biocatalyseur" pour des réactions chimiques ou biochimiques spécifiques.
+Note technique : le terme " enzyme " désigne une substance qui agit comme " biocatalyseur " pour des réactions chimiques ou biochimiques spécifiques.
 
 |
 
@@ -2646,9 +2646,9 @@ ML7, 22
 
 |
 
-"Biopolymère"
+" Biopolymère "
 
-Le terme "biopolymère" désigne des macromolécules biologiques, comme suit :
+Le terme " biopolymère " désigne des macromolécules biologiques, comme suit :
 
 a) Enzymes pour des réactions chimiques ou biochimiques spécifiques ;
 
@@ -2664,7 +2664,7 @@ c) Récepteurs spécialement conçus ou traités.
 
 Notes techniques :
 
-1. Les termes "anticorps anti-idiotypique" désignent un anticorps qui se fixe aux sites de fixation d'antigènes spécifiques d'autres anticorps.
+1. Les termes " anticorps anti-idiotypique " désignent un anticorps qui se fixe aux sites de fixation d'antigènes spécifiques d'autres anticorps.
 
 |
 
@@ -2672,17 +2672,17 @@ Notes techniques :
 
 |
 
-2. Les termes : "anticorps monoclonal" désignent une protéine qui se fixe à un site d'antigène et est produite par un seul clone de cellules.
+2. Les termes : " anticorps monoclonal " désignent une protéine qui se fixe à un site d'antigène et est produite par un seul clone de cellules.
 
-3. Les termes : "anticorps polyclonal" désignent un mélange de protéines qui se fixe à un antigène spécifique et est produit par plusieurs clones de cellules.
-
-|
+3. Les termes : " anticorps polyclonal " désignent un mélange de protéines qui se fixe à un antigène spécifique et est produit par plusieurs clones de cellules.
 
 |
 
 |
 
-4. Le terme : "récepteur" désigne une structure macromoléculaire biologique capable de lier des ligands et dont la liaison affecte les fonctions physiologiques.
+|
+
+4. Le terme : " récepteur " désigne une structure macromoléculaire biologique capable de lier des ligands et dont la liaison affecte les fonctions physiologiques.
 
 |
 
@@ -2692,7 +2692,7 @@ ML21, 22
 
 |
 
-"Développement"
+" Développement "
 
 Opérations liées à toutes les étapes préalables à la production en série, telles que conception, recherches de conception, analyses de conception, principes de conception, montages et essais de prototypes, plans de production pilotes, données de conception, processus de transformation des données de conception en un produit, conception de configuration, conception d'intégration, plans.
 
@@ -2704,17 +2704,17 @@ ML22
 
 |
 
-"Domaine public (du)"
+" Domaine public (du) "
 
-"Technologie" ou "logiciel" ayant été rendu accessible sans qu'il ait été apporté de restrictions à sa diffusion ultérieure.
-
-|
+" Technologie " ou " logiciel " ayant été rendu accessible sans qu'il ait été apporté de restrictions à sa diffusion ultérieure.
 
 |
 
 |
 
-Note. - Les restrictions relevant du droit d'auteur (copyright) n'empêchent pas une technologie ou un "logiciel" d'être considérés comme relevant du "domaine public".
+|
+
+Note.-Les restrictions relevant du droit d'auteur (copyright) n'empêchent pas une technologie ou un " logiciel " d'être considérés comme relevant du " domaine public ".
 
 |
 
@@ -2724,17 +2724,17 @@ ML17
 
 |
 
-"Effecteurs terminaux"
+" Effecteurs terminaux "
 
-Dispositifs tels que les pinces, les "outils actifs" et tout autre outillage fixés sur l'embase placée à l'extrémité du bras manipulateur d'un "robot".
-
-|
+Dispositifs tels que les pinces, les " outils actifs " et tout autre outillage fixés sur l'embase placée à l'extrémité du bras manipulateur d'un " robot ".
 
 |
 
 |
 
-Note technique : "outils actifs" : dispositifs destinés à appliquer à la pièce à usiner la puissance motrice, l'énergie nécessaire au processus ou les capteurs.
+|
+
+Note technique : " outils actifs " : dispositifs destinés à appliquer à la pièce à usiner la puissance motrice, l'énergie nécessaire au processus ou les capteurs.
 
 |
 
@@ -2744,7 +2744,7 @@ ML8, 18
 
 |
 
-"Explosifs"
+" Explosifs "
 
 Substances ou mélanges de substances solides, liquides ou gazeux qui, utilisés comme charge d'amorçage, de surpression ou principale dans des têtes explosives, dispositifs de démolition et autres applications, servent à la détonation.
 
@@ -2756,7 +2756,7 @@ ML5, 19
 
 |
 
-"Laser"
+" Laser "
 
 Ensemble de composants produisant de la lumière à la fois temporellement et spatialement cohérente, amplifiée par émission stimulée de rayonnement.
 
@@ -2768,9 +2768,9 @@ ML21
 
 |
 
-"Logiciel"
+" Logiciel "
 
-Collection d'un ou de plusieurs "programmes" ou "microprogrammes" fixée sur un quelconque support matériel d'expression.
+Collection d'un ou de plusieurs " programmes " ou " microprogrammes " fixée sur un quelconque support matériel d'expression.
 
 |
 
@@ -2780,7 +2780,7 @@ ML13
 
 |
 
-"Matériaux fibreux ou filamenteux"
+" Matériaux fibreux ou filamenteux "
 
 Comprend :
 
@@ -2810,9 +2810,9 @@ ML4, 8
 
 |
 
-"Matière énergétique"
+" Matière énergétique "
 
-Substances ou mélanges qui réagissent chimiquement en libérant de l'énergie nécessaire à leur utilisation prévue. Les "explosifs", les "matières pyrotechniques" et les "propergols" sont des sous-classes de matières énergétiques.
+Substances ou mélanges qui réagissent chimiquement en libérant de l'énergie nécessaire à leur utilisation prévue. Les " explosifs ", les " matières pyrotechniques " et les " propergols " sont des sous-classes de matières énergétiques.
 
 |
 
@@ -2822,9 +2822,9 @@ ML22
 
 |
 
-"Nécessaire"
+" Nécessaire "
 
-Le terme : "nécessaire", lorsqu'il s'applique à la "technologie", désigne uniquement la portion particulière de "technologie" qui permet d'atteindre ou de dépasser les niveaux de performance, caractéristiques ou fonctions visés. Cette "technologie" "nécessaire" peut être commune à différents produits.
+Le terme : " nécessaire ", lorsqu'il s'applique à la " technologie ", désigne uniquement la portion particulière de " technologie " qui permet d'atteindre ou de dépasser les niveaux de performance, caractéristiques ou fonctions visés. Cette " technologie " " nécessaire " peut être commune à différents produits.
 
 |
 
@@ -2834,7 +2834,7 @@ ML17
 
 |
 
-"Pile à combustible"
+" Pile à combustible "
 
 Dispositif électrochimique qui transforme directement l'énergie chimique en électricité à courant continu (CC) en consommant du combustible provenant d'une source externe.
 
@@ -2846,7 +2846,7 @@ ML8
 
 |
 
-"Précurseur"
+" Précurseur "
 
 Spécialités chimiques employées dans la fabrication d'explosifs.
 
@@ -2858,7 +2858,7 @@ ML21, 22
 
 |
 
-"Production"
+" Production "
 
 Toutes les étapes de la production telles qu'ingénierie des produits, fabrication, intégration, assemblage (montage), contrôle, essais, assurance de la qualité.
 
@@ -2870,7 +2870,7 @@ ML4, 8
 
 |
 
-"Produit pyrotechnique"
+" Produit pyrotechnique "
 
 Mélanges de combustibles et d'oxydants solides ou liquides qui, lorsqu'ils sont mis à feu, subissent une réaction chimique contrôlée génératrice d'énergie devant produire des intervalles précis ou des quantités déterminées de chaleur, de bruits, de fumées, de lumière ou de rayonnement infrarouges. Les pyrophores sont un sous-groupe des produits pyrotechniques qui ne contiennent pas d'oxydant mais qui s'enflamment spontanément au contact de l'air.
 
@@ -2882,7 +2882,7 @@ ML8
 
 |
 
-"Propergols"
+" Propergols "
 
 Substances ou mélanges qui réagissent chimiquement pour produire de grands volumes de gaz chauds à une vitesse contrôlée pour effectuer un travail mécanique.
 
@@ -2894,7 +2894,7 @@ ML19
 
 |
 
-"Qualifié pour l'usage spatial"
+" Qualifié pour l'usage spatial "
 
 Dispositif conçu, fabriqué et contrôlé pour correspondre aux caractéristiques électriques, mécaniques ou d'environnement nécessaires pour le lancement et le déploiement de satellites ou de systèmes de vol haute altitude opérant à des altitudes de 100 km ou plus.
 
@@ -2906,7 +2906,7 @@ ML17
 
 |
 
-"Réacteur nucléaire"
+" Réacteur nucléaire "
 
 Matériels qui se trouvent dans la cuve du réacteur ou y sont fixés directement, matériels de réglage de la puissance dans le cœur et composants qui renferment normalement le fluide caloporteur primaire du cœur du réacteur, entrent en contact direct avec ce fluide ou permettent son réglage.
 
@@ -2918,7 +2918,7 @@ ML22
 
 |
 
-"Recherche scientifique fondamentale"
+" Recherche scientifique fondamentale "
 
 Travaux théoriques ou expérimentaux, entrepris principalement en vue de l'acquisition de connaissances nouvelles touchant les principes fondamentaux de phénomènes ou de faits observables, et non essentiellement orientés vers un but ou un objectif pratique.
 
@@ -2930,7 +2930,7 @@ ML17
 
 |
 
-"Robot"
+" Robot "
 
 Mécanisme de manipulations pouvant être du type à trajectoire continue ou du type point par point, pouvant utiliser des capteurs et présentant toutes les caractéristiques suivantes :
 
@@ -2952,7 +2952,7 @@ b) Capable de positionner ou d'orienter des matériaux, des pièces, des outils 
 
 c) Comportant trois ou plus de trois dispositifs d'asservissement en boucle ouverte ou fermée pouvant inclure des moteurs pas à pas, et
 
-d) Doté d'une "programmabilité accessible à l'utilisateur" par la méthode de l'apprentissage ou par un ordinateur qui peut être une unité de programmation logique, c'est-à-dire sans intervention mécanique.
+d) Doté d'une " programmabilité accessible à l'utilisateur " par la méthode de l'apprentissage ou par un ordinateur qui peut être une unité de programmation logique, c'est-à-dire sans intervention mécanique.
 
 |
 
@@ -2960,7 +2960,7 @@ d) Doté d'une "programmabilité accessible à l'utilisateur" par la méthode de
 
 |
 
-Note. - La définition ci-dessus n'englobe pas les dispositifs suivants :
+Note.-La définition ci-dessus n'englobe pas les dispositifs suivants :
 
 1. Mécanismes de manipulation exclusivement à commande manuelle ou commandés par téléopérateur ;
 
@@ -2998,7 +2998,7 @@ ML18, 20
 
 |
 
-"Supraconducteur"
+" Supraconducteur "
 
 Matériau (métal, alliage ou composé) pouvant perdre toute résistance électrique (c'est-à-dire présenter une conductivité électrique infinie et transporter de très grandes quantités de courant électrique sans effet joule).
 
@@ -3008,7 +3008,7 @@ Matériau (métal, alliage ou composé) pouvant perdre toute résistance électr
 
 |
 
-Note technique. - L'état "supraconducteur" d'un matériau est caractérisé pour chaque matériau par une "température critique", un champ magnétique critique qui est fonction de la température, et une intensité de courant critique qui est fonction à la fois du champ magnétique et de la température.
+Note technique.-L'état " supraconducteur " d'un matériau est caractérisé pour chaque matériau par une " température critique ", un champ magnétique critique qui est fonction de la température, et une intensité de courant critique qui est fonction à la fois du champ magnétique et de la température.
 
 |
 
@@ -3018,7 +3018,7 @@ ML11
 
 |
 
-"Systèmes de commandement et de contrôle automatisés"
+" Systèmes de commandement et de contrôle automatisés "
 
 Systèmes électroniques destinés à enregistrer, traiter et transmettre les informations essentielles à l'efficacité des opérations du groupement majeur, du groupement tactique, de l'unité, du navire, du détachement ou de l'arme commandé. Ces systèmes utilisent des ordinateurs et d'autres équipements spécialisés conçus pour soutenir les fonctions d'une organisation militaire de commandement et de contrôle. Un système automatisé de commandement et de contrôle comprend principalement les fonctions suivantes : la collecte, l'accumulation, le stockage et le traitement automatisés efficaces des informations ; la représentation visuelle de la situation et des conditions susceptibles d'avoir une incidence sur la préparation et la conduite des opérations de combat ; la capacité d'effectuer des calculs opérationnels et tactiques aux fins de la répartition des ressources entre groupements ou éléments figurant dans l'ordre de bataille, en fonction de la mission ou du stade de l'opération ; la préparation des données aux fins de l'appréciation de la situation et de la prise de décisions à tout moment durant l'opération ou la bataille ; la simulation informatique des opérations.
 
@@ -3030,9 +3030,9 @@ ML22
 
 |
 
-"Technologie"
+" Technologie "
 
-Connaissances spécifiques requises pour le "développement", la "production" ou l'"utilisation" d'un produit ; ces connaissances se transmettent par la voie de la "documentation technique" ou de l'"assistance technique".
+Connaissances spécifiques requises pour le " développement ", la " production " ou l'" utilisation " d'un produit ; ces connaissances se transmettent par la voie de la " documentation technique " ou de l'" assistance technique ".
 
 Notes techniques :
 
@@ -3042,9 +3042,9 @@ Notes techniques :
 
 |
 
-1 "Documentation technique" : données pouvant se présenter sous des formes telles que bleus, plans, diagrammes, maquettes, formules, tableaux, dessins et spécifications d'ingénierie, manuels et instructions écrits ou enregistrés sur des supports ou dispositifs tels que disques, bandes magnétiques, mémoires mortes.
+1 " Documentation technique " : données pouvant se présenter sous des formes telles que bleus, plans, diagrammes, maquettes, formules, tableaux, dessins et spécifications d'ingénierie, manuels et instructions écrits ou enregistrés sur des supports ou dispositifs tels que disques, bandes magnétiques, mémoires mortes.
 
-2. "Assistance technique" : assistance pouvant revêtir des formes telles que instructions, procédés pratiques, formation, connaissances appliquées, services de consultants ; peut impliquer le transfert de "documentation technique".
+2. " Assistance technique " : assistance pouvant revêtir des formes telles que instructions, procédés pratiques, formation, connaissances appliquées, services de consultants ; peut impliquer le transfert de " documentation technique ".
 
 |
 
@@ -3054,7 +3054,7 @@ ML15
 
 |
 
-"Tubes intensificateurs d'image de la première génération"
+" Tubes intensificateurs d'image de la première génération "
 
 Tubes optimisés électrostatiquement, utilisant des amplificateurs d'entrée et de sortie comportant des plaques de fibres optiques ou de verre, des photocathodes multialcalines (S-20 ou S-25), mais pas de plaques à microcanaux.
 
@@ -3066,7 +3066,7 @@ ML21, 22
 
 |
 
-"Utilisation"
+" Utilisation "
 
 Exploitation, installation (y compris l'installation in situ), entretien (vérification), réparation, révision et rénovation.
 
@@ -3078,7 +3078,7 @@ ML7
 
 |
 
-"Vecteur d'expression"
+" Vecteur d'expression "
 
 Porteur (par exemple, un plasmagène ou un virus) utilisé pour introduire un matériau génétique dans des cellules hôtes.
 
@@ -3090,9 +3090,9 @@ ML10
 
 |
 
-"Véhicules plus légers que l'air"
+" Véhicules plus légers que l'air "
 
-Ballons et dirigeables utilisant, pour s'élever, de l'air chaud ou d'autres gaz plus légers que l'air tels que l'hélium ou l'hydrogène."
+Ballons et dirigeables utilisant, pour s'élever, de l'air chaud ou d'autres gaz plus légers que l'air tels que l'hélium ou l'hydrogène. "
 
 |
 
@@ -3102,7 +3102,7 @@ DEUXIÈME PARTIE
 
 Lorsqu'ils sont spécialement conçus ou modifiés pour un usage militaire, les véhicules spatiaux et autres satellites, leurs stations au sol d'exploitation et leurs équipements.
 
-1. b) Moteurs et systèmes de propulsion spécialement conçus ou modifiés pour les matériels de l'alinéa 1.a ci-dessus.
+1. b) Moteurs et systèmes de propulsion spécialement conçus ou modifiés pour les matériels de l'alinéa 1. a ci-dessus.
 
 1. c) Partie, composants, accessoires et matériels d'environnement (y compris les équipements de maintenance) spécifiques des matériels visés aux alinéas 1. a et 1. b ci-dessus.
 
