@@ -1,30 +1,64 @@
 # Article Annexe III
 
-Annexe III
+REGLEMENT D'EXAMEN BACCALAUREAT PROFESSIONNEL SPECIALITE COMMERCE
 
-Règlement d'examen
+A COMPTER DE LA SESSION 2012
 
-BACCALAURÉAT PROFESSIONNEL
+2012
 
-spécialité commerce
+Baccalauréat professionnel
 
-|
+Spécialité :
 
-CANDIDATS
-
-de la voie scolaire dans un établissement public ou privé sous contrat, CFA ou section d'apprentissage habilités, formation professionnelle continue dans un établissement public
+COMMERCE
 
 |
 
-CANDIDAT
+Voie scolaire dans un
 
-de la voie scolaire dans un établissement privé hors contrat, CFA ou section d'apprentissage non habilité, formation professionnelle continue dans un établissement privé, CNED, candidats justifiant de trois années d'activité professionnelle
+établissement public ou privé
+
+sous-contrat,
+
+CFA ou section
+
+d'apprentissage habilité,
+
+formation professionnelle
+
+continue dans un
+
+établissement public
 
 |
 
-CANDIDAT
+Voie scolaire dans un
 
-de la formation professionnelle continue dans un établissement public habilité
+établissement privé hors
+
+contrat, CFA ou section
+
+d'apprentissage non habilité,
+
+formation professionnelle
+
+continue en établissement
+
+privé, candidats justifiant de
+
+3 années d'activités
+
+professionnelles
+
+|
+
+Voie de la formation
+
+professionnelle continue dans
+
+un établissement public
+
+habilité
 
 |
 
@@ -36,7 +70,7 @@ Unités
 
 |
 
-Coef.
+Coef
 
 |
 
@@ -64,7 +98,7 @@ Durée
 
 |
 
-E1 - épreuve scientifique et technique
+ÉPREUVE E1 : épreuve technique et scientifique
 
 |
 
@@ -86,7 +120,11 @@ E1 - épreuve scientifique et technique
 
 |
 
-Sous-épreuve E11 - préparation et suivi de l'activité de l'unité commerciale
+Sous-épreuve E11 :
+
+action de promotion animation en unité
+
+commerciale
 
 |
 
@@ -98,19 +136,17 @@ U11
 
 |
 
-écrite
+CCF
 
 |
 
-3 h
+|
+
+Ponctuel oral
 
 |
 
-écrite
-
-|
-
-3 h
+30 min
 
 |
 
@@ -120,7 +156,9 @@ CCF
 
 |
 
-Sous-épreuve E12 - économie et droit
+Sous-épreuve E12 :
+
+économie-droit
 
 |
 
@@ -132,19 +170,17 @@ U12
 
 |
 
-écrite
+CCF
 
 |
 
-1 h 30
+|
+
+Ponctuel écrit
 
 |
 
-écrite
-
-|
-
-1 h 30
+1h30 min
 
 |
 
@@ -154,7 +190,9 @@ CCF
 
 |
 
-Sous-épreuve E13 - mathématiques
+Sous-épreuve E13 :
+
+mathématiques
 
 |
 
@@ -166,19 +204,17 @@ U13
 
 |
 
-écrite
+CCF
 
 |
 
-1 h
+|
+
+Ponctuel écrit
 
 |
 
-écrite
-
-|
-
-1 h
+1h
 
 |
 
@@ -188,7 +224,7 @@ CCF
 
 |
 
-E2 - action de promotion - animation en unité commerciale
+EPREUVE E2 : préparation et suivi de l'activité de l'unité commerciale
 
 |
 
@@ -200,35 +236,19 @@ U2
 
 |
 
-CCF
+Ponctuel écrit
 
 |
 
-|
-
-orale
+3h
 
 |
 
-30 min
+Ponctuel écrit
 
 |
 
-CCF
-
-|
-
-|
-
-E3 - épreuve pratique prenant en compte la formation en milieu professionnel : vente en unité commerciale
-
-|
-
-U3
-
-|
-
-4
+3h
 
 |
 
@@ -238,55 +258,7 @@ CCF
 
 |
 
-orale
-
-|
-
-30 min
-
-|
-
-CCF
-
-|
-
-|
-
-E4 - langue vivante
-
-|
-
-U4
-
-|
-
-2
-
-|
-
-écrite
-
-|
-
-2 h
-
-|
-
-écrite
-
-|
-
-2 h
-
-|
-
-CCF
-
-|
-
-|
-
-E5 - français et histoire-géographie
+EPREUVE E3 : épreuve pratique prenant en compte la formation en milieu professionnel
 
 |
 
@@ -308,31 +280,17 @@ E5 - français et histoire-géographie
 
 |
 
-Sous-épreuve E51 - français
+Sous-épreuve E31 :
+
+vente en unité commerciale
 
 |
 
-U51
+U31
 
 |
 
-3
-
-|
-
-écrite
-
-|
-
-2 h 30
-
-|
-
-écrite
-
-|
-
-2 h 30
+4
 
 |
 
@@ -342,11 +300,83 @@ CCF
 
 |
 
-Sous-épreuve E52 - histoire-géographie
+Ponctuel oral
 
 |
 
-U52
+30 min
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E32 :
+
+prévention-santé-environnement
+
+|
+
+U32
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel écrit
+
+|
+
+2 h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E4 : langues vivantes
+
+|
+
+|
+
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E41 :
+
+langue vivante 1
+
+|
+
+U41
 
 |
 
@@ -354,19 +384,17 @@ U52
 
 |
 
-écrite
+CCF
 
 |
 
-2 h
+|
+
+Ponctuel oral
 
 |
 
-écrite
-
-|
-
-2 h
+20 min (1)
 
 |
 
@@ -376,7 +404,139 @@ CCF
 
 |
 
-E6 - éducation artistique - arts appliqués
+Sous-épreuve E42 :
+
+langue vivante 2
+
+|
+
+U42
+
+|
+
+2
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E5 : français,
+
+histoire-géographie éducation civique
+
+|
+
+|
+
+5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E51 :
+
+français
+
+|
+
+U51
+
+|
+
+2,5
+
+|
+
+Ponctuel écrit
+
+|
+
+2h30
+
+|
+
+Ponctuel écrit
+
+|
+
+2h30
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E52 :
+
+histoire-géographie -éducation civique
+
+|
+
+U52
+
+|
+
+2,5
+
+|
+
+Ponctuel écrit
+
+|
+
+2h
+
+|
+
+Ponctuel écrit
+
+|
+
+2h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E6 : arts appliqués et cultures
+
+artistiques
 
 |
 
@@ -394,11 +554,11 @@ CCF
 
 |
 
-écrite
+Ponctuel écrit
 
 |
 
-3 h
+1h30
 
 |
 
@@ -408,7 +568,7 @@ CCF
 
 |
 
-E7 - éducation physique et sportive
+EPREUVE E7 : éducation physique et sportive
 
 |
 
@@ -426,7 +586,7 @@ CCF
 
 |
 
-pratique
+Ponctuel pratique
 
 |
 
@@ -438,7 +598,9 @@ CCF
 
 |
 
-Épreuve facultative - langue vivante(1)
+EPREUVE FACULTATIVE (2)
+
+langue vivante
 
 |
 
@@ -448,30 +610,674 @@ UF1
 
 |
 
-orale
+Ponctuel oral
 
 |
 
-20 min
+20 min (1)
 
 |
 
-orale
+Ponctuel oral
 
 |
 
-20 min
+20 min (1)
 
 |
 
-orale
+Ponctuel oral
 
 |
 
-20 min
+20 min (1)
 
 |
 
-(1) Seuls les points supérieurs à 10/20 sont pris en compte pour le calcul de la moyenne en vue de la délivrance du diplôme et de l'attribution d'une mention.
+(1) dont cinq minutes de préparation
+
+(2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celles choisies au titre de l'épreuve obligatoire. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne en vue de l'obtention du diplôme et de l'attribution d'une mention.
+
+A COMPTER DE LA SESSION 2013
+
+Baccalauréat professionnel
+
+Spécialité :
+
+COMMERCE
 
 |
+
+Voie scolaire dans un
+
+établissement public ou privé
+
+sous-contrat,
+
+CFA ou section
+
+d'apprentissage habilité,
+
+formation professionnelle
+
+continue dans un
+
+établissement public
+
+|
+
+Voie scolaire dans un
+
+établissement privé hors
+
+contrat, CFA ou section
+
+d'apprentissage non habilité,
+
+formation professionnelle
+
+continue en établissement
+
+privé, candidats justifiant de
+
+3 années d'activités
+
+professionnelles
+
+|
+
+Voie de la formation
+
+professionnelle continue dans
+
+un établissement public
+
+habilité
+
+|
+
+Épreuves
+
+|
+
+Unités
+
+|
+
+Coef
+
+|
+
+Mode
+
+|
+
+Durée
+
+|
+
+Mode
+
+|
+
+Durée
+
+|
+
+Mode
+
+|
+
+Durée
+
+|
+
+ÉPREUVE E1 : épreuve technique et scientifique
+
+|
+
+|
+
+6
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E11 :
+
+action de promotion animation en unité
+
+commerciale
+
+|
+
+U11
+
+|
+
+4
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+30 min
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E12 :
+
+économie-droit
+
+|
+
+U12
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+30 min
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E13 :
+
+mathématiques
+
+|
+
+U13
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel écrit
+
+|
+
+3h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E2 : préparation et suivi de
+
+l'activité de l'unité commerciale
+
+|
+
+U2
+
+|
+
+4
+
+|
+
+Ponctuel écrit
+
+|
+
+3h
+
+|
+
+Ponctuel écrit
+
+|
+
+3h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E3 : épreuve
+
+pratique prenant en compte la formation en milieu professionnel
+
+|
+
+|
+
+5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E31 :
+
+vente en unité commerciale
+
+|
+
+U31
+
+|
+
+4
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+30 min
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E32 :
+
+prévention-santé-environnement
+
+|
+
+U32
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel écrit
+
+|
+
+2 h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E4 : langues
+
+vivantes
+
+|
+
+|
+
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E41 :
+
+langue vivante 1
+
+|
+
+U41
+
+|
+
+2
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E42 :
+
+langue vivante 2
+
+|
+
+U42
+
+|
+
+2
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E5 : français,
+
+histoire-géographie éducation
+
+civique
+
+|
+
+|
+
+5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E51 :
+
+français
+
+|
+
+U51
+
+|
+
+2,5
+
+|
+
+Ponctuel écrit
+
+|
+
+2h30
+
+|
+
+Ponctuel écrit
+
+|
+
+2h30
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E52 :
+
+histoire-géographie -éducation
+
+civique
+
+|
+
+U52
+
+|
+
+2,5
+
+|
+
+Ponctuel écrit
+
+|
+
+2h
+
+|
+
+Ponctuel écrit
+
+|
+
+2h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E6 : arts appliqués et cultures artistiques
+
+|
+
+U6
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel écrit
+
+|
+
+1h30
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E7 : éducation
+
+physique et sportive
+
+|
+
+U7
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel pratique
+
+|
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE FACULTATIVE (2)
+
+langue vivante
+
+|
+
+UF1
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+(1) dont cinq minutes de préparation
+
+(2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celles choisies au titre de l'épreuve obligatoire. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne en vue de l'obtention du diplôme et de l'attribution d'une mention.
