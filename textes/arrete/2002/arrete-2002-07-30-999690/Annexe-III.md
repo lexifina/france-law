@@ -1,28 +1,30 @@
 # Article Annexe III
 
-Annexe III
-
 Règlement d'examen
 
-BACCALAURÉAT PROFESSIONNEL VENTE
+Baccalauréat professionnel spécialité vente (prospection-négociation-suivi de clientèle)
 
-(Prospection - Négociation - Suivi de clientèle)
+Session 2012
 
-|
+BACCALAURÉAT PROFESSIONNEL
 
-CANDIDAT
-
-de la voie scolaire dans un établissement public ou privé sous contrat, CFA ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public
+Spécialité : VENTE (prospection-négociation-suivi de clientèle)
 
 |
 
-CANDIDAT
+VOIE SCOLAIRE
 
-de la voie scolaire dans un établissement privé hors contrat, CFA ou section d'apprentissage non habilité, formation professionnelle continue dans un établissement privé, CNED, candidats justifiant de 3 années d'activité professionnelle
+dans un établissement public ou privé sous-contrat, CFA ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public
 
 |
 
-CANDIDAT
+VOIE SCOLAIRE
+
+dans un établissement privé hors contrat, CFA ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, candidats justifiant de 3 années d'activités professionnelles
+
+|
+
+VOIE
 
 de la formation professionnelle continue dans un établissement public habilité
 
@@ -40,7 +42,7 @@ Coef
 
 |
 
-Forme
+Mode
 
 |
 
@@ -48,7 +50,7 @@ Durée
 
 |
 
-Forme
+Mode
 
 |
 
@@ -56,7 +58,7 @@ Durée
 
 |
 
-Forme
+Mode
 
 |
 
@@ -64,21 +66,15 @@ Durée
 
 |
 
-E1 Épreuve scientifique et technique
+ÉPREUVE E1 :
+
+épreuve d'économie-droit et de mathématiques
 
 |
 
 |
 
-5
-
-|
-
-|
-
-|
-
-|
+2
 
 |
 
@@ -86,7 +82,17 @@ E1 Épreuve scientifique et technique
 
 |
 
-sous-épreuve E11 : Préparation et suivi de l'activité commerciale
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E11 :
+
+économie-droit
 
 |
 
@@ -94,23 +100,7 @@ U11
 
 |
 
-3
-
-|
-
-écrite
-
-|
-
-3h
-
-|
-
-écrite
-
-|
-
-3h
+1
 
 |
 
@@ -120,7 +110,23 @@ CCF
 
 |
 
-sous-épreuve E12 : Économie et droit
+Ponctuel écrit
+
+|
+
+1h30 min
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E12 :
+
+mathématiques
 
 |
 
@@ -132,49 +138,13 @@ U12
 
 |
 
-écrite
-
-|
-
-1h 30
-
-|
-
-écrite
-
-|
-
-1h 30
-
-|
-
 CCF
 
 |
 
 |
 
-sous-épreuve E13 : Mathématiques
-
-|
-
-U13
-
-|
-
-1
-
-|
-
-écrite
-
-|
-
-1h
-
-|
-
-écrite
+Ponctuel écrit
 
 |
 
@@ -188,11 +158,37 @@ CCF
 
 |
 
-E2 Négociation - vente
+EPREUVE E2 :
+
+épreuve technologique
 
 |
 
-U2
+|
+
+7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E21 :
+
+négociation-vente
+
+|
+
+U21
 
 |
 
@@ -200,19 +196,19 @@ U2
 
 |
 
-orale
+Ponctuel oral
 
 |
 
-40 min
+30 min
 
 |
 
-orale
+Ponctuel oral
 
 |
 
-40 min
+30 min
 
 |
 
@@ -222,13 +218,51 @@ CCF
 
 |
 
-E3 Épreuve pratique prenant en compte la formation en milieu professionnel
+Sous-épreuve E22 :
+
+préparation et suivi de l'activité commerciale
+
+|
+
+U22
+
+|
+
+3
+
+|
+
+Ponctuel écrit
+
+|
+
+3 h
+
+|
+
+Ponctuel écrit
+
+|
+
+3h
+
+|
+
+CCF
 
 |
 
 |
 
-5
+EPREUVE E3 :
+
+épreuve pratique prenant en compte la formation en milieu professionnel
+
+|
+
+|
+
+6
 
 |
 
@@ -244,7 +278,9 @@ E3 Épreuve pratique prenant en compte la formation en milieu professionnel
 
 |
 
-sous-épreuve E31 : Évaluation de la formation en milieu professionnel (pratique de la prospection, de la négociation, du suivi et de la fidélisation de la clientèle)
+Sous-épreuve E31 :
+
+évaluation de la formation en milieu professionnel (pratique de la prospection, de la négociation, du suivi et de la fidélisation de la clientèle)
 
 |
 
@@ -262,7 +298,7 @@ CCF
 
 |
 
-orale
+Ponctuel oral
 
 |
 
@@ -276,7 +312,9 @@ CCF
 
 |
 
-sous-épreuve E32 : projet de prospection
+Sous-épreuve E32 :
+
+projet de prospection
 
 |
 
@@ -294,7 +332,7 @@ CCF
 
 |
 
-orale
+Ponctuel oral
 
 |
 
@@ -308,31 +346,17 @@ CCF
 
 |
 
-E4 Épreuve de langue vivante
+Sous-épreuve E33 :
+
+prévention-santé-environnement
 
 |
 
-U4
+U33
 
 |
 
-2
-
-|
-
-écrite
-
-|
-
-2h
-
-|
-
-écrite
-
-|
-
-2h
+1
 
 |
 
@@ -342,7 +366,115 @@ CCF
 
 |
 
-E5 Épreuve de français, histoire géographie
+Ponctuel écrit
+
+|
+
+2 h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E4 :
+
+langues vivantes
+
+|
+
+|
+
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E41 :
+
+langue vivante 1
+
+|
+
+U41
+
+|
+
+2
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E42 :
+
+langue vivante 2
+
+|
+
+U42
+
+|
+
+2
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E5 :
+
+français, histoire-géographie éducation civique
 
 |
 
@@ -364,7 +496,9 @@ E5 Épreuve de français, histoire géographie
 
 |
 
-sous-épreuve E51 : Français
+Sous-épreuve E51 :
+
+français
 
 |
 
@@ -372,23 +506,23 @@ U51
 
 |
 
-3
+2,5
 
 |
 
-écrite
+Ponctuel écrit
 
 |
 
-2h 30
+2h30
 
 |
 
-écrite
+Ponctuel écrit
 
 |
 
-2h 30
+2h
 
 |
 
@@ -398,7 +532,9 @@ CCF
 
 |
 
-sous-épreuve E52 : Histoire géographie
+Sous-épreuve E52 :
+
+histoire-géographie éducation civique
 
 |
 
@@ -406,11 +542,11 @@ U52
 
 |
 
-2
+2,5
 
 |
 
-écrite
+Ponctuel écrit
 
 |
 
@@ -418,7 +554,7 @@ U52
 
 |
 
-écrite
+Ponctuel écrit
 
 |
 
@@ -432,7 +568,7 @@ CCF
 
 |
 
-E6 Épreuve d'éducation artistique - arts appliqués
+EPREUVE E6 : arts appliqués et cultures artistiques
 
 |
 
@@ -450,11 +586,11 @@ CCF
 
 |
 
-écrite
+Ponctuel écrit
 
 |
 
-3h
+1h30
 
 |
 
@@ -464,7 +600,7 @@ CCF
 
 |
 
-E7 Épreuve d'éducation physique et sportive
+EPREUVE E7 : éducation physique et sportive
 
 |
 
@@ -482,7 +618,7 @@ CCF
 
 |
 
-pratique
+Ponctuel pratique
 
 |
 
@@ -494,7 +630,9 @@ CCF
 
 |
 
-Épreuve facultative : langue vivante
+EPREUVE FACULTATIVE (2)
+
+langue vivante
 
 |
 
@@ -504,28 +642,678 @@ UF1
 
 |
 
-orale
+Ponctuel oral
 
 |
 
-20 min
+20 min (1)
 
 |
 
-orale
+Ponctuel oral
 
 |
 
-20 min
+20 min (1)
 
 |
 
-orale
+Ponctuel oral
 
 |
 
-20 min
+20 min (1)
 
 |
 
-CCF : contrôle en cours de formation. La description, la durée et le coefficient des différentes situations d'évaluation figurent à l'annexe IV, "définition des épreuves".
+Règlement d'examen
+
+Baccalauréat professionnel spécialité vente prospection-négociation-suivi de clientèle)
+
+A compter de la session 2013
+
+Baccalauréat professionnel
+
+Spécialité : VENTE (prospection-négociation-suivi de clientèle)
+
+|
+
+Voie scolaire
+
+dans un établissement public ou privé sous-contrat, CFA ou section d'apprentissage habilité, formation professionnelle continue dans un établissement public
+
+|
+
+Voie scolaire
+
+dans un établissement privé hors contrat, CFA ou section d'apprentissage non habilité, formation professionnelle continue en établissement privé, candidats justifiant de 3 années d'activités professionnelles
+
+|
+
+Voie
+
+de la formation professionnelle continue dans un établissement public habilité
+
+|
+
+Épreuves
+
+|
+
+Unités
+
+|
+
+Coef
+
+|
+
+Mode
+
+|
+
+Durée
+
+|
+
+Mode
+
+|
+
+Durée
+
+|
+
+Mode
+
+|
+
+Durée
+
+|
+
+ÉPREUVE E1 :
+
+épreuve d'économie-droit et de mathématiques
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E11 : économie-droit
+
+|
+
+U11
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+30 min
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E12 : mathématiques
+
+|
+
+U12
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel écrit
+
+|
+
+1h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E2 :
+
+épreuve technologique
+
+|
+
+|
+
+7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E21 : négociation-vente
+
+|
+
+U21
+
+|
+
+4
+
+|
+
+Ponctuel oral
+
+|
+
+30 min
+
+|
+
+Ponctuel oral
+
+|
+
+30 min
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E22 : préparation et suivi de l'activité commerciale
+
+|
+
+U22
+
+|
+
+3
+
+|
+
+Ponctuel écrit
+
+|
+
+3 h
+
+|
+
+Ponctuel écrit
+
+|
+
+3h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E3 :
+
+épreuve pratique prenant en compte la formation en milieu professionnel
+
+|
+
+|
+
+6
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E31 : évaluation de la formation en milieu professionnel (pratique de la prospection, de la négociation, du suivi et de la fidélisation de la clientèle)
+
+|
+
+U31
+
+|
+
+2
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+30 min
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E32 : projet de prospection
+
+|
+
+U32
+
+|
+
+3
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+30 min
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E33 : prévention-santé-environnement
+
+|
+
+U33
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel écrit
+
+|
+
+2 h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E4:
+
+langues vivantes
+
+|
+
+|
+
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E41 : langue vivante 1
+
+|
+
+U41
+
+|
+
+2
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E42 : langue vivante 2
+
+|
+
+U42
+
+|
+
+2
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E5 :
+
+français, histoire-géographie éducation civique
+
+|
+
+|
+
+5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sous-épreuve E51 : français
+
+|
+
+U51
+
+|
+
+2,5
+
+|
+
+Ponctuel écrit
+
+|
+
+2h30
+
+|
+
+Ponctuel écrit
+
+|
+
+2h30
+
+|
+
+CCF
+
+|
+
+|
+
+Sous-épreuve E52 : histoire-géographie -éducation civique
+
+|
+
+U52
+
+|
+
+2,5
+
+|
+
+Ponctuel écrit
+
+|
+
+2h
+
+|
+
+Ponctuel écrit
+
+|
+
+2h
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E6 :
+
+arts appliqués et cultures artistiques
+
+|
+
+U6
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel écrit
+
+|
+
+1h30
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE E7 :
+
+éducation physique et sportive
+
+|
+
+U7
+
+|
+
+1
+
+|
+
+CCF
+
+|
+
+|
+
+Ponctuel pratique
+
+|
+
+|
+
+CCF
+
+|
+
+|
+
+EPREUVE FACULTATIVE (2)
+
+langue vivante
+
+|
+
+UF1
+
+|
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+Ponctuel oral
+
+|
+
+20 min (1)
+
+|
+
+(1) dont cinq minutes de préparation
+
+(2) La langue vivante choisie au titre de l'épreuve facultative est obligatoirement différente de celles choisies au titre de l'épreuve obligatoire. Seuls les points excédant 10 sont pris en compte pour le calcul de la moyenne en vue de l'obtention du diplôme et de l'attribution d'une mention
