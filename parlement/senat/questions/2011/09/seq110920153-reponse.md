@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110920153
+
+- Question : [SEQ110920153](seq110920153.md) — Financement du secteur viticole
+
+## Réponse
+
+*Agriculture, JO du 2011-12-22, page 3273*
+
+Suivant les recommandations du rapport Despey, un « fonds » dédié à la filière viticole a été mis en place début 2011, afin de rationaliser et d'optimiser les soutiens versés par FranceAgriMer (FAM) à la promotion de la filière viticole et aux actions de recherche et développement. Pour l'année 2011, ce « fonds » a été doté, au titre des actions de promotion, de 8 M€ par l'État, et d'un montant identique par les interprofessions. Au sein de cette enveloppe, les financements prévus en faveur de la promotion collective des vins de France à l'extérieur de la France s'élèvent à 4,8 M€ tandis que ceux qui sont affectés aux actions menées par les interprofessions représentent 8 M€. Dans le cadre de l'Organisation commune de marché du vin, une enveloppe de 180 M€ pour la période de 2008 à 2013 a été spécifiquement dédiée à la promotion des vins français sur les pays tiers à l'Union européenne. Ces aides européennes sont accessibles tant aux Interprofessions pour la promotion collective qu'aux entreprises pour communiquer sur leur propre marque. La viticulture française peut enfin bénéficier de financements européens pour conduire des actions de promotion et d'information sur les vins tant sur le marché intérieur de l'Union européenne que sur les pays tiers, en soumettant des demandes de cofinancements de programmes pluriannuels de promotion collective dans le cadre du règlement promotion horizontal. Alors que les Portugais et les Italiens obtiennent régulièrement des cofinancements européens de leurs programmes de promotion à l'exportation en faveur de leurs vins pour ce dispositif, la filière française n'a pas encore proposé de programme.
