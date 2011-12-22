@@ -8,7 +8,9 @@ Corps de catégorie A
 
 |
 
-Note pivot 1er échelon
+Note pivot
+
+1er échelon
 
 |
 
@@ -56,7 +58,7 @@ Note pivot par catégorie
 
 |
 
-Personnels de catégorie A des services déconcentrés de la direction générale des impôts.
+Personnels de catégorie A de la direction générale des finances publiques
 
 |
 
@@ -68,29 +70,21 @@ Inspecteurs divisionnaires
 
 |
 
-Receveurs principaux
-
 |
 
 Inspecteurs principaux
 
 |
 
-Administrateurs des finances publiques adjoints
-
-|
-
-Directeurs départementaux
-
-|
-
-Chefs des services fiscaux
+Administrateurs adjoints
 
 |
 
 |
 
-Conservateurs des hypothèques 6e catégorie
+|
+
+|
 
 |
 
@@ -102,45 +96,9 @@ CL. N
 
 |
 
-CL. E
+H. C.
 
 |
-
-CL. 2
-
-|
-
-CL. 1
-
-|
-
-CL. 2
-
-|
-
-CL. 1
-
-|
-
-16,25
-
-|
-
-17,25
-
-|
-
-CL. N
-
-|
-
-CL. F
-
-|
-
-|
-
-17,75
 
 |
 
@@ -152,89 +110,11 @@ CL. F
 
 |
 
-15,75
-
-|
-
-17,00
-
-|
-
-15,25
-
-|
-
-16,75
-
-|
-
-17,75
-
-|
-
-18,25
-
-|
-
-Personnels de catégorie A du Trésor public.
-
-|
-
-Inspecteurs
-
-|
-
-Receveurs percepteurs
-
-|
-
-Trésoriers principaux
-
-|
-
-Trésoriers principaux 1re catégorie
-
-|
-
-Inspecteurs principaux
-
-|
-
-Directeurs départementaux
-
-|
-
-Receveurs des finances
-
-|
-
-Receveurs des finances 1re catégorie
-
 |
 
 |
 
-13,00
-
 |
-
-16,00
-
-|
-
-16,75
-
-|
-
-17,00
-
-|
-
-CL. 2
-
-|
-
-CL. 1
 
 |
 
@@ -242,21 +122,7 @@ CL. 1
 
 |
 
-17,00
-
-|
-
-17,50
-
-|
-
-|
-
-15,00
-
-|
-
-16,75
+17
 
 |
 
@@ -356,7 +222,7 @@ CL. 1
 
 |
 
-Agents de catégorie A des services déconcentrés de la direction générale de la concurrence, de la consommation et de la répression des fraudes
+Personnels de catégorie A des services déconcentrés de la direction générale de la concurrence, de la consommation et de la répression des fraudes
 
 |
 
@@ -392,11 +258,7 @@ Chefs de service régional
 
 |
 
-CL. 2
-
-|
-
-CL. 1
+15,00
 
 |
 
@@ -417,14 +279,6 @@ CL. 1
 |
 
 |
-
-|
-
-15,00
-
-|
-
-16,75
 
 |
 
