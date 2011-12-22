@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719609
+
+- Question : [SEQ110719609](seq110719609.md) — Crise des producteurs de graines germées
+
+## Réponse
+
+*Agriculture, JO du 2011-12-22, page 3272*
+
+À la suite de l'épidémie provoquée par la bactérie Escherichia Coli Enterohémorragique (Eceh) en Allemagne, associée à tort, au moment de son déclenchement, à la consommation de concombres d'origine espagnole et autres légumes frais, l'enquête a mis en évidence que la consommation de graines germées crues était finalement la source de la contamination, ce qui a provoqué une chute considérable de la consommation de graines germées. En réaction à cette crise d'ampleur européenne, la Commission européenne a mis en place un dispositif exceptionnel de soutien temporaire qui a concerné les Organisations de producteurs et les producteurs indépendants pour des opérations de retrait et de non-récolte de concombres, tomates, salades, poivrons et courgettes, réalisées sur la période du 26 mai au 30 juin 2011. En revanche, aucun dispositif spécifique d'aide aux producteurs de graines germées n'a été mis en place au niveau communautaire, malgré les demandes portées par certains États membres dont la France. Face aux difficultés commerciales rencontrées, les principales entreprises de production de graines germées en France ont créé l'Association française des producteurs de graines germées. Cette association a comme priorité de rétablir la confiance des consommateurs. À cet effet, à la suite de réflexions menées en concertation avec le ministère chargé de l'agriculture, une charte qualité de sécurité alimentaire a été créée pour renforcer la maîtrise sanitaire des graines germées au-delà de ce qu'impose la réglementation. Ces entreprises ont fait face à la crise avec une réactivité remarquable, en se structurant autour d'un projet commun pour rassurer les consommateurs à travers cette démarche qualité identifiable grâce à un logo apposé sur les emballages.
