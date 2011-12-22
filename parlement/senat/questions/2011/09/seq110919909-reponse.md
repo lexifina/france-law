@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110919909
+
+- Question : [SEQ110919909](seq110919909.md) — Difficultés avec les CROUS pour les bourses des étudiants français venant de l'étranger
+
+## Réponse
+
+*Enseignement supérieur, JO du 2011-12-22, page 3284*
+
+Lors de la signature le 13 décembre 2010 du contrat d'objectifs 2010-2013 conclu avec le Centre national des œuvres universitaires et scolaires (CNOUS), le ministère de l'enseignement supérieur et de la recherche a annoncé la mise en place de la dématérialisation du dossier social étudiant. Cette dématérialisation progressive vise à faciliter les échanges d'informations et de pièces justificatives entre l'étudiant et les services du CROUS de façon à accélérer l'instruction des demandes de bourse et de logement en cité universitaire. En outre, via l'adresse électronique communiquée par l'étudiant, celui-ci sera informé en temps réel des grandes étapes de l'instruction de son dossier. En outre, les étudiants boursiers français ou ressortissants d'un État membre de l'Union européenne ou d'un État partie à l'Espace économique européen dont les parents résident à l'étranger bénéficient d'une bourse d'enseignement supérieur sur critères sociaux d'un montant majoré par l'attribution systématique de 2 points de charge destinés à tenir compte de l'éloignement séparant le domicile familial du lieu d'études de l'étudiant. Enfin, les étudiants dont les parents résident à l'étranger (à l'exception des pays européens et des pays riverains de la Méditerranée où l'étudiant peut plus facilement rejoindre sa famille chaque année) bénéficient du maintien du paiement de leur bourse pendant les grandes vacances universitaires s'ils n'ont pas achevé leurs études au 1er juillet de l'année universitaire au titre de laquelle ils ont obtenu leur bourse. Près de 1 600 étudiants boursiers bénéficiaient de cette disposition en 2010-2011.
