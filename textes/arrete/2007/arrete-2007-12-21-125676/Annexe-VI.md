@@ -788,6 +788,18 @@ Pour l'application du I de l'article R. 213-48-9 du code de l'environnement, la 
 
 En cas d'épandage des boues d'épuration sur des terres agricoles, le coefficient d'élimination des boues est déterminé conformément au tableau n° 7 ci-dessous en fonction des caractéristiques générales de fonctionnement de l'épandage.
 
+d) Détermination du coefficient de pollution à déduire
+
+Si une partie des effluents et résidus liés aux activités des centrales à béton est recyclée in situ dans le procédé de fabrication, la pollution correspondante dénommée pollution à déduire est déduite de la pollution théorique produite.
+
+En l'absence de mesure, cette quantité de pollution à déduire est estimée en multipliant le niveau théorique de pollution par un coefficient de pollution à déduire. Ce coefficient est égal à 1 et le recyclage intégral des eaux de procédé est atteint si les trois critères mentionnés ci-après sont respectés. Ce coefficient est égal à 0,8 si au moins deux de ces trois critères sont respectés.
+
+1° La zone de travail, correspondant à la surface du site à l'exclusion des périmètres occupés par les parkings, les voiries d'accès et de sortie, les lieux de stockage de matières premières, les espaces verts et les bureaux, est étanche et entièrement raccordée au dispositif de dépollution ;
+
+2° Les pentes de la zone de travail permettent la collecte vers le dispositif de dépollution de la totalité des eaux de procédé, définies comme les effluents issus du lavage des matériaux, du malaxeur, des bandes transporteuses (si lavage avec de l'eau recyclée), des véhicules et des retours béton ;
+
+3° Une capacité de stockage tampon, disponible en permanence, permet de recueillir les eaux de ruissellement de la surface totale drainée vers le dispositif de dépollution en référence à une pluie intense (50 mm majoré par un coefficient de sécurité de 1,25).
+
 TABLEAU N° 7
 
 Détermination du coefficient forfaitaire d'élimination des boues
