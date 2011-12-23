@@ -5780,37 +5780,33 @@ Peut provoquer une réaction allergique
 
 |
 
-2-chloro-6-(éthylamino)-
-
-4-nitrophénol (15).
-
-2-Chloro-6-ethylamino-4-
-
-nitrophenol.
-
-CAS 131657-78-8.
-
-Einecs 411-440-1.
+2-Chloro-6-ethylamino-4-nitrophenol (n° CAS 131657-78-8) (n° CE 411-440-1).
 
 |
 
-Substance utilisée dans des teintures capillaires non oxydantes
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
 
 |
 
-3,0 %
+b) 3,0 %
 
 |
 
-Ne pas utiliser avec des systèmes de nitrosation.
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 %.
 
-Teneur maximale en nitrosamine : 50 µg / kg.
+Pour a et b :
 
-A conserver en récipients sans nitrite.
+- ne pas utiliser avec des agents de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/kg ;
+
+- à conserver en récipients sans nitrite.
 
 |
 
-Peut provoquer une réaction allergique.
+a) Voir numéro d'ordre 205, colonne f, point a.
 
 |
 
@@ -5852,7 +5848,7 @@ a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 
 Pour a et b : Vous pouvez consulter le cliché dans le JO
 
-n° 86 du 13 / 04 / 2010 texte numéro 17
+n° 86 du 13/04/2010 texte numéro 17
 
 Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
 
@@ -6131,6 +6127,710 @@ Substances non oxydante utilisée dans les teintures capillaires
 - A conserver en récipients sans nitrite
 
 |
+
+|
+
+215
+
+|
+
+4-amino-3-nitrophenol (n° CAS 610-81-1) (n° CE 210-236-8).
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 1,0 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 %.
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+b) Voir numéro d'ordre 208, colonne f.
+
+|
+
+216
+
+|
+
+2,7-Naphthalenediol (n° CAS 582-17-2) (n° CE 209-478-7)
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 1,0 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,0 %.
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+217
+
+|
+
+m-Aminophenol (n° CAS 591-27-5) (n° CE 209-711-2) et ses sels.
+
+m-Aminophenol HCl (n° CAS 51-81-0) (n° CE 200-125-2).
+
+m-Aminophenol sulfate (n° CAS 68239-81-6) (n° CE 269-475-1).
+
+sodium m-Aminophenol (n° CAS 38171-54-9).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,2 %.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+218
+
+|
+
+2,6-Dihydroxy-3,4-dimethylpyridine (n° CAS 84540-47-6) (n° CE 283-141-2)
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,0 %.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+222
+
+|
+
+2-Hydroxyethyl picramic acid
+
+(ou 2-[(2-Hydroxyethyl) amino]-4,6-dinitrophenol (IUPAC)) (n° CAS 99610-72-7) (n° CE 412-520-9)
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 2,0 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 %.
+
+Pour a et b :
+
+- ne pas utiliser avec des agents de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/ kg ;
+
+- à conserver en récipients sans nitrite.
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+223
+
+|
+
+p-Methylaminophenol (n° CAS 150-75-4) (n° CE 205-768-2) et son sulfate.
+
+p-Methylaminophenol sulfate (n° CAS 55-55-0/1936-57-8) (n° CE 200-237-1/217-706-1).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,68 % (en sulfate) :
+
+- ne pas utiliser avec des agents de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/ kg ;
+
+- à conserver en récipients sans nitrite.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+225
+
+|
+
+Ethanol, 2-[4-[Ethyl [(2-Hydroxyéthyl) Amino]-2-Nitrophényl] Amino]-, (n° CAS 104516-93-0) et son chlorhydrate.
+
+HC Blue n° 12 (n° CAS 132885-85-9) (n° CE 407-020-2).
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 1,5 % (en chlorhydrate)
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,75 % (en chlorhydrate).
+
+Pour a et b :
+
+- ne pas utiliser avec des agents de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/ kg ;
+
+- à conserver en récipients sans nitrite.
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+227
+
+|
+
+3-Amino-2,4-dichlorophenol (n° CAS 61693-42-3) (n° CE 262-909-0) et son chlorhydrate.
+
+3-Amino-2,4-dichlorophenol HCl (n° CAS 61693-43-4).
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 1,5 % (en chlorhydrate)
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 % (en chlorhydrate).
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+230
+
+|
+
+Phenyl methyl pyrazolone (n° CAS 89-25-8) (n° CE 201-891-0).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,25 %.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+232
+
+|
+
+2-Methyl-5-hydroxyethylaminophenol (n° CAS 55302-96-0) (n° CE 259-583-7).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 % :
+
+- ne pas utiliser avec des agents de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/ kg ;
+
+- à conserver en récipients sans nitrite.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+234
+
+|
+
+Hydroxybenzomorpholine (n° CAS 26021-57-8) (n° CE 247-415-5).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,0 % :
+
+- ne pas utiliser avec des agents de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/ kg ;
+
+- à conserver en récipients sans nitrite.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+237
+
+|
+
+2,2'-[(4-Amino-3-nitrophenyl) imino] bisethanol (n° CAS 29705-39-3) et son chlorhydrate.
+
+HC Red n° 13 (n° CAS 94158-13-1) (n° CE 303-083-4).
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 2,5 % (en chlorhydrate)
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,25 % (en chlorhydrate).
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+238
+
+|
+
+2,6-Dimethoxy-3,5-pyridinediamine [n° CAS 85679-78-3 (base libre)] et son chlorhydrate.
+
+2,6-Dimethoxy-3,5-pyridinediamine HCl (n° CAS 56216-28-5) (n° CE 260-062-1).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,25 % (en chlorhydrate).
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+239
+
+|
+
+HC Violet N° 1 (n° CAS 82576-75-8) (n° CE 417-600-7).
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 0,28 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,25 %.
+
+Pour a et b :
+
+- ne pas utiliser avec des agents de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/ kg ;
+
+- à conserver en récipients sans nitrite.
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+b) Voir numéro d'ordre 208, colonne f.
+
+|
+
+241
+
+|
+
+1,5-Naphthalenediol (n° CAS 83-56-7) (n° CE 201-487-4).
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 1,0 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,0 %.
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+242
+
+|
+
+Hydroxypropyl bis (N-hydroxyethyl-p-phenylenediamine) (n° CAS 128729-30-6) et son sel de tetrahydrochlorure.
+
+Hydroxypropyl bis (N-hydroxyethyl-p-phenylenediamine) HCl (n° CAS 128729-28-2) (n° CE 416-320-2).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,4 % (en tetrahydrochlorure).
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+243
+
+|
+
+4-Amino-2-hydroxytoluene (n° CAS 2835-95-2) (n° CE 220-618-6).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 %.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+244
+
+|
+
+2,4-Diaminophenoxyethanol (n° CAS 70643-19-5), son chlorhydrate et son sulfate.
+
+2,4-Diaminophenoxyethanol HCl (n° CAS 66422-95-5) (n° CE 266-357-1).
+
+2,4-Diaminophenoxyethanol sulfate (n° CAS 70643-20-8) (n° CE 274-713-2).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2,0 % (en chlorhydrate).
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+245
+
+|
+
+2-Methylresorcinol (n° CAS 608-25-3) (n° CE 210-155-8).
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 1,8 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,8 %.
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+246
+
+|
+
+4-Amino-m-cresol (n° CAS 2835-99-6) (n° CE 220-621-2).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 %.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+248
+
+|
+
+2-Amino-4-hydroxyethylaminoanisole (n° CAS 83763-47-7) (n° CE 280-733-2) et son sulfate.
+
+2-Amino-4-hydroxyethylaminoanisole sulfate (n° CAS 83763-48-8) (n° CE 280-734-8).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 % (en sulfate) :
+
+- ne pas utiliser avec des agents de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/ kg ;
+
+- à conserver en récipients sans nitrite.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+249
+
+|
+
+Hydroxyethyl-3,4-methylenedioxyaniline et son chlorhydrate.
+
+Hydroxyethyl-3,4-methylenedioxyaniline HCl (n° CAS 94158-14-2) (n° CE 303-085-5).
+
+|
+
+Colorant d'oxydation pour la coloration des cheveux.
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 % :
+
+- ne pas utiliser avec des agents de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/ kg ;
+
+- à conserver en récipients sans nitrite.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+250
+
+|
+
+3-Nitro-p-hydroxyethylaminophenol (n° CAS 65235-31-6) (n° CE 265-648-0).
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 1,85 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 3,0 %.
+
+Pour a et b :
+
+- ne pas utiliser avec des systèmes de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/ kg ;
+
+- à conserver en récipients sans nitrite.
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+b) Voir numéro d'ordre 208, colonne f.
+
+|
+
+251
+
+|
+
+4-Nitrophenyl aminoethylurea (n° CAS 27080-42-8) (n° CE 410-700-1).
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 0,5 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,25 %.
+
+Pour a et b :
+
+- ne pas utiliser avec des agents de nitrosation ;
+
+- concentration maximale en nitrosamine : 50 µg/ kg ;
+
+- à conserver en récipients sans nitrite.
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+|
+
+252
+
+|
+
+2-Amino-6-chloro-4-nitrophenol (n° CAS 6358-09-4) (n° CE 228-762-1).
+
+|
+
+a) Colorant d'oxydation pour la coloration des cheveux.
+
+b) Colorant non oxydant pour la coloration des cheveux.
+
+|
+
+b) 2,0 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2,0 %.
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a.
+
+b) Voir numéro d'ordre 208, colonne f.
 
 |
 
