@@ -118,20 +118,6 @@ Université de technologie de Troyes.
 
 |
 
-Ecole normale supérieure de Fontenay-Saint-Cloud |
-
-31 décembre 2009
-
-|
-
-Ecole normale supérieure de Lyon
-
-|
-
-31 décembre 2009
-
-|
-
 Université Toulouse-III
 
 |
@@ -202,7 +188,7 @@ Université Paris-XI
 
 |
 
-Université Grenoble-I
+Université Grenoble
 
 |
 
@@ -423,3 +409,7 @@ Université de Rennes-II
 1er janvier 2010
 
 |
+
+NOTA :
+
+Conseil d'Etat, décision n° 335477 du 23 décembre 2011, article 1er : Le décret n° 2009-1675 du 30 décembre 2009 et les arrêtés du 29 décembre 2009 modifiant l'annexe de l'arrêté du 26 décembre 2008 fixant la liste des établissements publics bénéficiant des responsabilités et compétences élargies en matière budgétaire et de gestion des ressources humaines prévues aux articles L. 712-9, L. 712-10 et L. 954-1 à L. 954-3 du code l'éducation, relatifs à l'Ecole normale supérieure de Lyon et à l'Ecole normale supérieure de Fontenay-Saint-Cloud, sont annulés.
