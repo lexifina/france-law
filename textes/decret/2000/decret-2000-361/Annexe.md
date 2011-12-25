@@ -176,7 +176,7 @@ Capacité annuelle de fabrication
 
 |
 
-Inférieure à 1000 tonnes
+Inférieure à 1 000 tonnes
 
 |
 
@@ -184,7 +184,7 @@ Inférieure à 1000 tonnes
 
 |
 
-Supérieure ou égale à 1000 tonnes et inférieure à 5000 tonnes
+Supérieure ou égale à 1 000 tonnes et inférieure à 5 000 tonnes
 
 |
 
@@ -192,7 +192,7 @@ Supérieure ou égale à 1000 tonnes et inférieure à 5000 tonnes
 
 |
 
-Supérieure ou égale à 5000 tonnes
+Supérieure ou égale à 5 000 tonnes
 
 |
 
@@ -228,7 +228,7 @@ Supérieure ou égale à 250 tonnes et inférieure à 1000 tonnes
 
 |
 
-Supérieure ou égale à 1000 tonnes
+Supérieure ou égale à 1 000 tonnes
 
 |
 
@@ -248,9 +248,9 @@ Capacité annuelle de traitement exprimée en mètres cubes pour les effluents l
 
 |
 
-Inférieure à 10000 tonnes.
+Inférieure à 10 000 tonnes.
 
-Inférieure à 10000 mètres cubes
+Inférieure à 10 000 mètres cubes
 
 |
 
@@ -258,9 +258,9 @@ Inférieure à 10000 mètres cubes
 
 |
 
-Supérieure ou égale à 10000 tonnes et inférieure à 50000 tonnes.
+Supérieure ou égale à 10 000 tonnes et inférieure à 50 000 tonnes.
 
-Supérieure ou égale à 10000 mètres cubes et inférieure à 50000 mètres cubes
+Supérieure ou égale à 10 000 mètres cubes et inférieure à 50 000 mètres cubes
 
 |
 
@@ -268,9 +268,9 @@ Supérieure ou égale à 10000 mètres cubes et inférieure à 50000 mètres cub
 
 |
 
-Supérieure ou égale à 50000 tonnes et inférieure à 100000 tonnes.
+Supérieure ou égale à 50 000 tonnes et inférieure à 100 000 tonnes.
 
-Supérieure ou égale à 50000 mètres cubes et inférieure à 100000 mètres cubes
+Supérieure ou égale à 50 000 mètres cubes et inférieure à 100 000 mètres cubes
 
 |
 
@@ -278,9 +278,9 @@ Supérieure ou égale à 50000 mètres cubes et inférieure à 100000 mètres cu
 
 |
 
-Supérieure ou égale à 100000 tonnes.
+Supérieure ou égale à 100 000 tonnes.
 
-Supérieure ou égale à 100000 mètres cubes
+Supérieure ou égale à 100 000 mètres cubes
 
 |
 
@@ -316,9 +316,7 @@ VI. - Installations destinées au stockage définitif de substances radioactives
 
 |
 
-a) Installation passée en phase de surveillance.
-
-Par installation nucléaire de base
+Capacité de stockage autorisée inférieure à 1 000 000 mètres cubes.
 
 |
 
@@ -326,25 +324,7 @@ Par installation nucléaire de base
 
 |
 
-b) Autre installation de stockage.
-
-Capacité de stockage.
-
-|
-
--
-
-|
-
-Inférieure à 1000000 de mètres cubes
-
-|
-
-1
-
-|
-
-Supérieure ou égale à 1000000 de mètres cubes et inférieure à 1500000 mètres cubes
+Capacité de stockage autorisée supérieure ou égale à 1 000 000 mètres cubes et inférieure à 1 500 000 mètres cubes.
 
 |
 
@@ -352,7 +332,7 @@ Supérieure ou égale à 1000000 de mètres cubes et inférieure à 1500000 mèt
 
 |
 
-Supérieure ou égale à 1500000 mètres cubes
+Capacité de stockage autorisée supérieure ou égale à 1 500 000 mètres cubes.
 
 |
 
@@ -382,9 +362,9 @@ b) Autre installation d'entreposage. Capacité d'entreposage exprimée en tonnes
 
 |
 
-Inférieure à 10000 tonnes
+Inférieure à 10 000 tonnes
 
-Inférieure à 10000 mètres cubes
+Inférieure à 10 000 mètres cubes
 
 |
 
@@ -392,15 +372,15 @@ Inférieure à 10000 mètres cubes
 
 |
 
-Supérieure ou égale à 10000 tonnes et inférieure à 25000 tonnes
+Supérieure ou égale à 10 000 tonnes et inférieure à 25 000 tonnes
 
 |
 
 |
 
-Supérieure ou égale à 10000 tonnes et inférieure à 25000 tonnes
+Supérieure ou égale à 10000 tonnes et inférieure à 25 000 tonnes
 
-Supérieure ou égale à 10000 mètres cubes et inférieure à 25000 mètres cubes
+Supérieure ou égale à 10000 mètres cubes et inférieure à 25 000 mètres cubes
 
 |
 
@@ -408,9 +388,9 @@ Supérieure ou égale à 10000 mètres cubes et inférieure à 25000 mètres cub
 
 |
 
-Supérieure ou égale à 25000 tonnes
+Supérieure ou égale à 25 000 tonnes
 
-Supérieure ou égale à 25000 mètres cubes
+Supérieure ou égale à 25 000 mètres cubes
 
 |
 
