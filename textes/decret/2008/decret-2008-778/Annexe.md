@@ -2,11 +2,11 @@
 
 La déduction forfaitaire mentionnée à l'article 2 du présent décret est égale, pour chaque plage de consommation considérée et pour chaque unité de consommation (UC), aux valeurs suivantes :
 
-DÉDUCTION FORFAITAIRE EN FONCTION
+DÉDUCTION
 
-de l'UC - en € TTC/an
+forfaitaire en fonction de l'UC
 
-|
+(en euros TTC/ an) |
 
 PLAGE DE CONSOMMATION
 
@@ -28,31 +28,23 @@ PLAGE DE CONSOMMATION
 
 |
 
-20
+22 |
 
-|
+67 |
 
-61
-
-|
-
-85
-
-|
+94 |
 
 1 < UC < 2
 
 |
 
-26
+29 |
+
+90
 
 |
 
-82
-
-|
-
-113
+124
 
 |
 
@@ -60,17 +52,13 @@ PLAGE DE CONSOMMATION
 
 |
 
-34
+37 |
+
+112
 
 |
 
-102
-
-|
-
-142
-
-|
+156 |
 
 Le versement forfaitaire mentionné à l'article 2 du présent décret, fonction de l'unité de consommation (UC) du foyer, est égal aux valeurs suivantes :
 
@@ -78,7 +66,9 @@ UNITÉ DE CONSOMMATION
 
 |
 
-VERSEMENT FORFAITAIRE EN € TTC/an
+VERSEMENT FORFAITAIRE
+
+(en euros TTC/an)
 
 |
 
@@ -86,22 +76,16 @@ VERSEMENT FORFAITAIRE EN € TTC/an
 
 |
 
-65
-
-|
+72 |
 
 1 < UC < 2
 
 |
 
-86
-
-|
+95 |
 
 2 UC ou +
 
 |
 
-108
-
-|
+119 |
