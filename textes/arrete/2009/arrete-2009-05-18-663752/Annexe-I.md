@@ -630,9 +630,9 @@ O = Autres animaux (y compris animaux de zoo).
 
 (a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement.
 
-(b) Cette autorisation est valable jusqu'au 31 décembre 2011.
+b) Cette autorisation est valable jusqu'au 31 décembre 2012.
 
-(c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.
+c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.
 
 (*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.
 
