@@ -258,7 +258,7 @@ Bouches-du-Rhône.
 
 |
 
-Gironde (1)
+Gironde
 
 |
 
@@ -350,6 +350,22 @@ Hauts-de-Seine.
 
 |
 
+95
+
+|
+
+Val-d'Oise.
+
+|
+
+1
+
+|
+
+30
+
+|
+
 CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE SECRÉTAIRE GÉNÉRAL
 
 dans la structure de formation de police suivante
@@ -385,7 +401,3 @@ de Clermont-Ferrand.
 30
 
 |
-
-NOTA :
-
-(1) Arrêté du 8 juillet 2010 article 3 : Les présentes dispositions entreront en vigueur le 1er septembre 2010.
