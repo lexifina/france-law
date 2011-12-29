@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111121064
+
+- Question : [SEQ111121064](seq111121064.md) — Projet de décret fixant les nouvelles règles d'étiquetage des vins
+
+## Réponse
+
+*Agriculture, JO du 2011-12-29, page 3325*
+
+Aucune disposition réglementaire ne régit les conditions d'utilisation de la mention « méthode ancestrale », si ce n'est à travers les cahiers des charges de quatre appellations (limoux, gaillac, cerdon, clairette de die). C'est pourquoi, en concertation avec les services du secrétariat d'État chargé de la consommation, il a été décidé d'introduire dans le projet de décret fixant les nouvelles règles d'étiquetage des vins en application de l'évolution de l'organisation commune de marché, un article définissant la méthode ancestrale et prévoyant explicitement de réserver cette mention aux seuls vins bénéficiant d'une appellation d'origine protégée. Le projet de texte a reçu un avis favorable du Comité national des vins d'appellation d'origine protégée et du Comité permanent des vins à indication géographique protégée de L'Institut national de l'origine et de la qualité les 19 et 26 mai 2011 et du conseil spécialisé vin de FranceAgriMer le 25 mai 2011. L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail a émis un avis favorable le 22 juillet 2011 et proposé quelques modifications mineures. Le projet de texte notifié à la Commission européenne le 1er juin 2011 a suscité une seule question à laquelle les autorités françaises ont répondu. Le secrétariat d'État chargé de la consommation va adresser dans les prochains jours le projet de décret au commissaire à la simplification, ainsi qu'au Conseil d'État. Le Gouvernement est particulièrement vigilant pour que ces différentes étapes soient mises en œuvre rapidement, afin que le décret puisse paraître dans les meilleurs délais.
