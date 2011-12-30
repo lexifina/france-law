@@ -4,7 +4,7 @@
 
 2. Ils peuvent définir, dans les conditions prévues au 1 du II de l'article 1639 A bis, des zones de perception de la taxe d'enlèvement des ordures ménagères sur lesquelles ils votent des taux différents en vue de proportionner le montant de la taxe à l'importance du service rendu apprécié en fonction des conditions de réalisation du service et de son coût. Les communes ou les établissements publics de coopération intercommunale sur le territoire desquels est située une installation de transfert ou d'élimination des déchets prévue par un plan départemental d'élimination des déchets ménagers peuvent également définir une zone, d'un rayon d'un kilomètre au maximum, sur laquelle ils votent un taux différent ; dans ce cas, la commune ou l'établissement public de coopération intercommunale ne peut définir sur ce périmètre des zones en fonction de l'importance du service rendu.
 
-Toutefois, à titre dérogatoire, l'établissement public de coopération intercommunale ayant institué la taxe peut, pour une période qui ne peut excéder dix ans, voter des taux différents sur son périmètre, afin de limiter les hausses de cotisations liées à l'harmonisation du mode de financement. Cette dérogation peut également être mise en œuvre en cas de rattachement d'une ou plusieurs communes.L'établissement public de coopération intercommunale décide, dans les conditions prévues au 1 du II de l'article 1639 A bis, de l'application de ce dispositif et de la délimitation des zones sur lesquelles des taux différents sont votés.
+Toutefois, à titre dérogatoire, l'établissement public de coopération intercommunale ayant institué la taxe peut, pour une période qui ne peut excéder dix ans, voter des taux différents sur son périmètre, afin de limiter les hausses de cotisations liées à l'harmonisation du mode de financement. Cette dérogation peut également être mise en œuvre en cas de rattachement d'une ou plusieurs communes. L'établissement public de coopération intercommunale décide, dans les conditions prévues au 1 du II de l'article 1639 A bis, de l'application de ce dispositif et de la délimitation des zones sur lesquelles des taux différents sont votés.
 
 3. Pour l'application du 2 :
 
@@ -15,3 +15,11 @@ b) La période durant laquelle des taux différents peuvent être votés en appl
 c) Les premier et second alinéas du 2 peuvent être appliqués simultanément.
 
 4. Par exception au 2, les communautés de communes instituant la taxe d'enlèvement des ordures ménagères dans les conditions prévues au second alinéa du 2° du 1 du VI de l'article 1379-0 bis ne peuvent, la première année, voter que le taux de cette taxe, à l'exclusion de toute modification de ses règles d'établissement. Toutefois, lorsque la transformation est intervenue postérieurement au 15 octobre, les zones de perception en fonction de l'importance du service rendu instituées par le syndicat avant sa transformation en communauté de communes restent applicables l'année qui suit cette transformation.
+
+5. Les communes et les établissements publics de coopération intercommunale ayant institué la part incitative de la taxe d'enlèvement des ordures ménagères conformément à l'article 1522 bis votent le tarif de cette part dans les conditions prévues à l'article 1639 A.
+
+6. La première année d'application des dispositions de l'article 1522 bis, le produit de la taxe d'enlèvement des ordures ménagères ne peut excéder le produit total de cette taxe tel qu'issu des rôles généraux au titre de l'année précédente.
+
+NOTA :
+
+Loi n° 2011-1977 du 28 décembre 2011, art. 97-II : les alinéas 5 et 6 sont applicables à compter des impositions établies au titre de l'année 2013.

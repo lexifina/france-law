@@ -70,18 +70,12 @@ Ces deux obligations sont cumulatives. Elles doivent représenter ensemble au mo
 
 Le présent V n'est pas applicable lorsque la quote-part des bénéfices exonérée est inférieure à 500 €.
 
-VI.-Pour les entreprises soumises à l'impôt sur les sociétés, les abattements prévus aux II et III se cumulent avec celui prévu à l'article 217 bis.
+VI.-Les abattements prévus aux II et III s'imputent sur les résultats des exploitations déclarés en application de l'article 53 A .
 
-Les abattements prévus aux II et III s'imputent sur les résultats des exploitations déclarés en application de l'article 53 A avant imputation de celui prévu à l'article 217 bis.
-
-Le cas échéant, les abattements prévus aux II et III et à l'article 217 bis s'imputent sur les résultats des exploitations déclarés en application de l'article 53 A avant réintégration, en application du quatrième alinéa du V, de la quote-part des bénéfices exonérée au titre de l'exercice précédent.
+Le cas échéant, les abattements prévus aux II et III s'imputent sur les résultats des exploitations déclarés en application de l'article 53 A avant réintégration, en application du quatrième alinéa du V, de la quote-part des bénéfices exonérée au titre de l'exercice précédent.
 
 La quote-part des bénéfices exonérée au titre d'un exercice, mentionnée au quatrième alinéa du V, s'entend du seul montant réel de l'abattement imputé en application du II ou du III au titre de cet exercice.
 
 VII.-Lorsqu'elle répond aux conditions requises pour bénéficier du régime prévu aux articles 44 sexies, 44 septies, 44 octies, 44 octies A, 44 nonies, 44 terdecies, 44 quindecies ou 73 B et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois qui suivent la publication de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer, si elle exerce déjà son activité ou, dans le cas contraire, dans les six mois suivant celui du début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes. Lorsque l'entreprise n'exerce pas cette option dans ce délai, elle bénéficie de plein droit, au terme de la période d'application de l'un de ces autres régimes dont elle bénéficiait, du régime prévu au présent article pour la période restant à courir jusqu'à son terme et selon les modalités qui la régissent.
 
 VIII.-Les obligations déclaratives des entreprises sont fixées par décret.
-
-NOTA :
-
-Conséquence de la péremption de l'article 244 quater P du code général des impôts.
