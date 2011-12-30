@@ -12,7 +12,7 @@ III.-1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent 
 
 2° Etre destinés à une commercialisation effective auprès du public ;
 
-3° Etre réalisés principalement avec le concours d'auteurs et de collaborateurs de création qui sont, soit de nationalité française, soit ressortissants d'un autre Etat membre de la Communauté européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français sont assimilés aux citoyens français ;
+3° Etre réalisés principalement avec le concours d'auteurs et de collaborateurs de création qui sont, soit de nationalité française, soit ressortissants d'un autre Etat membre de l'Union européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français sont assimilés aux citoyens français ;
 
 4° Contribuer au développement de la création française et européenne en matière de jeux vidéo ainsi qu'à sa diversité en se distinguant notamment par la qualité, l'originalité ou le caractère innovant du concept et le niveau des dépenses artistiques.
 
@@ -20,7 +20,7 @@ Le respect des conditions de création prévues aux 3° et 4° est vérifié au 
 
 2.-N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant des séquences à caractère pornographique ou de très grande violence, susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des utilisateurs.
 
-IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 20 % du montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de la Communauté européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, dès lors qu'elles entrent dans la détermination du résultat imposable :
+IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 20 % du montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de l'Union européenne, ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
 1° Les dotations aux amortissements des immobilisations créées ou acquises à l'état neuf et affectées directement à la création du jeu vidéo dans les conditions prévues au III. Les dotations aux amortissements des immeubles ne sont pas retenues dans la base de calcul du crédit d'impôt ;
 
@@ -39,7 +39,3 @@ V.-Les subventions publiques reçues par les entreprises à raison des opératio
 VI.-Le crédit d'impôt est plafonné pour chaque entreprise à 3 millions d'euros par exercice. Lorsque l'exercice est d'une durée inférieure ou supérieure à douze mois, le montant du plafond est diminué ou augmenté dans les mêmes proportions que la durée de l'exercice.
 
 VII.-Les conditions d'application du présent article, notamment celles relatives à la délivrance de l'agrément provisoire et aux obligations déclaratives incombant aux entreprises, sont fixées par décret.
-
-NOTA :
-
-Modifications effectuées en conséquence de l'article 3, 2e alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.

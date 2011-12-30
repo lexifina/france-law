@@ -1,6 +1,6 @@
 # Article 244 quater E
 
-I.-1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition peuvent bénéficier d'un crédit d'impôt au titre des investissements, autres que de remplacement, financés sans aide publique pour 25 % au moins de leur montant, réalisés jusqu'au 31 décembre 2011 et exploités en Corse pour les besoins d'une activité industrielle, commerciale, artisanale, libérale ou agricole autre que :
+I.-1° Les petites et moyennes entreprises relevant d'un régime réel d'imposition peuvent bénéficier d'un crédit d'impôt au titre des investissements, autres que de remplacement, financés sans aide publique pour 25 % au moins de leur montant, réalisés jusqu'au 31 décembre 2016 (1) et exploités en Corse pour les besoins d'une activité industrielle, commerciale, artisanale, libérale ou agricole autre que :
 
 a. la gestion ou la location d'immeubles lorsque les prestations ne portent pas exclusivement sur des biens situés en Corse, ainsi que l'exploitation de jeux de hasard et d'argent ;
 
@@ -10,7 +10,7 @@ Les petites et moyennes entreprises mentionnées au premier alinéa sont celles 
 
 2° (abrogé).
 
-3° Le crédit d'impôt prévu au 1° est égal à 20 % du prix de revient hors taxes :
+3° Le crédit d'impôt prévu au 1° est égal à 10 % (2) du prix de revient hors taxes :
 
 a. Des biens d'équipement amortissables selon le mode dégressif en vertu des 1 et 2 de l'article 39 A et des agencements et installations de locaux commerciaux habituellement ouverts à la clientèle créés ou acquis à l'état neuf ;
 
@@ -39,3 +39,9 @@ Lorsque l'investissement est réalisé par une société soumise au régime d'im
 IV.-Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 
 V.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
+
+NOTA :
+
+(1) Loi n° 2011-1978 du 28 décembre 2011, art. 39-III : Ces dispositions s'appliquent aux crédits d'impôt calculés au titre des investissements réalisés à compter du 1er janvier 2012.
+
+(2) Loi n° 2011-1978 du 28 décembre 2011, art. 39-III : Ces dispositions s'appliquent aux crédits d'impôt calculés au titre des investissements réalisés à compter du 1er janvier 2015.

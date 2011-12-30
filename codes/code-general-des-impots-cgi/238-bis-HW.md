@@ -14,8 +14,4 @@ b. Le rapport entre l'énergie consommée au-dessous de la puissance visée au q
 
 c. Les consommations d'électricité de cette entreprise donnent lieu au paiement de la contribution aux charges du service public de l'électricité prévue à l'article 5 de la loi n° 2000-108 du 10 février 2000 précitée.
 
-Les actions souscrites doivent revêtir la forme nominative. Une même personne ne peut détenir, directement ou indirectement, plus de 25 % du capital de la société. Le montant du capital agréé est limité à 600 000 euros.
-
-NOTA :
-
-LOI n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 89 III : Le présent article s'applique aux agréments délivrés à compter du 1er janvier 2009.
+Les actions souscrites doivent revêtir la forme nominative. Le montant du capital agréé est limité à 600 000 €.
