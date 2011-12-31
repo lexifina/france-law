@@ -14,8 +14,6 @@ X.X.X. Point de contrôle
 
 X.X.X.X.X. Défaut constatable + localisation
 
-5.2.4.1.6. Protection rotule défectueuse (SUPD, INFD, SUPG, INFG, D, G)
-
 |
 
 Contre­
@@ -23,6 +21,12 @@ Contre­
 visite
 
 (oui/non)
+
+|
+
+5.2.4.1.6. Protection rotule défectueuse (SUPD, INFD, SUPG, INFG, D, G)
+
+|
 
 N
 
@@ -62,15 +66,13 @@ N
 
 |
 
-5.2.5.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG,
+5.2.5.1.2. Jeu important ou anormal rotule et/ou articulation (SUPD, INFD, SUPG, INFG, D, G, C)
 
 |
 
 O
 
 |
-
-INFG, D, G, C)
 
 5.2.5.1.3. Corrosion importante (D, G)
 
@@ -204,7 +206,7 @@ N
 
 |
 
-N
+O
 
 |
 
@@ -308,7 +310,7 @@ O
 
 |
 
-N
+O
 
 |
 
@@ -330,7 +332,7 @@ O
 
 |
 
-N
+O
 
 |
 
@@ -950,7 +952,7 @@ N
 
 |
 
-6.1.7.1.2. Corrosion perforante multiple
+6.1.7.1.2. Corrosion perforante multiple et/ ou fissure/ cassure multiple
 
 |
 
@@ -1396,6 +1398,20 @@ O
 
 |
 
+6.2.9. ANTI-ENCASTREMENT, PROTECTION LATÉRALE |
+
+|
+
+6.2.9.1. ÉTAT |
+
+|
+
+6.2.9.1.1. Détérioration importante et/ ou mauvaise fixation/ liaison |
+
+N
+
+|
+
 7. EQUIPEMENTS
 
 |
@@ -1536,7 +1552,7 @@ N
 
 |
 
-7.2.1. AVERTISSEUR SONORE
+7.2.1. AVERTISSEUR SONORE ET SA COMMANDE
 
 |
 
@@ -1553,6 +1569,16 @@ N
 |
 
 O
+
+|
+
+7.2.1.2. Fixation |
+
+|
+
+7.2.1.2.1. Mauvaise fixation |
+
+N
 
 |
 
@@ -1659,6 +1685,48 @@ N
 7.2.4.1.1. Anomalie de fixation et/ou détérioration importante
 
 |
+
+N
+
+|
+
+7.2.5. DISPOSITIF ANTIVOL
+
+|
+
+|
+
+7.2.5.1. ÉTAT
+
+|
+
+|
+
+7.2.5.1.1. Détérioration |
+
+N
+
+|
+
+7.2.5.1.2. Détérioration importante |
+
+O
+
+|
+
+7.2.6. INDICATEUR DE VITESSE
+
+|
+
+|
+
+7.2.6.1. ÉTAT
+
+|
+
+|
+
+7.2.6.1.1. Mauvais état |
 
 N
 
@@ -2631,7 +2699,3 @@ N
 N
 
 |
-
-NOTA :
-
-(2) A compter du 1er avril 2011.

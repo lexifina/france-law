@@ -1084,13 +1084,13 @@ D. TAXIS ET VEHICULES DE REMISE
 
 |
 
-D. 1. IDENTIFICATION, DOCUMENTATION
+D. 1. IDENTIFICATION
 
 |
 
 |
 
-D. 1. 1. LICENCE DE CIRCULATION (véhicules de grande remise)
+D. 1. 1. VIGNETTE (véhicules de tourisme avec chauffeur)
 
 |
 
@@ -1102,7 +1102,7 @@ D. 1. 1. 1. SPECIFICATION
 
 |
 
-D. 1. 1. 1. 1. Non-concordance avec le certificat d'immatriculation ou avec les autres documents prévus à l'article 9 (AM 18 juin 1991 modifié)
+D. 1. 1. 1. 1. Absence du numéro d'immatriculation de l'entreprise
 
 |
 
@@ -1120,11 +1120,9 @@ D. 1. 1. 2. 1. Absence
 
 |
 
-N
-
 |
 
-D. 2. ECLAIRAGE, SIGNALISATION
+D. 2. ECLAIRAGE, SIGNALISATION (TAXIS)
 
 |
 

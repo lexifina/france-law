@@ -124,7 +124,7 @@ N
 
 |
 
-0.2.1.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle (2)
+0.2.1.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle
 
 |
 
@@ -132,7 +132,7 @@ N
 
 |
 
-0.2.1.2.4. Non-concordance importante du numéro d'identification avec le document d'identification (2)
+0.2.1.2.4. Non-concordance importante du numéro d'identification avec le document d'identification
 
 |
 
@@ -146,7 +146,7 @@ O
 
 |
 
-0.2.1.3.1. Absence (2)
+0.2.1.3.1. Absence
 
 |
 
@@ -154,7 +154,7 @@ N
 
 |
 
-0.2.1.3.2. Illisible ou contrôle impossible (2)
+0.2.1.3.2. Illisible ou contrôle impossible
 
 |
 
@@ -174,7 +174,7 @@ N
 
 |
 
-0.2.2.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle (2)
+0.2.2.2.3. Non-concordance du numéro d'identification avec le document d'identification ou identification inhabituelle
 
 |
 
@@ -182,7 +182,7 @@ N
 
 |
 
-0.2.2.2.4. Non-concordance importante du numéro d'identification avec le document d'identification (2)
+0.2.2.2.4. Non-concordance importante du numéro d'identification avec le document d'identification
 
 |
 
@@ -190,7 +190,7 @@ O
 
 |
 
-0.2.2.2.5. Non-concordance entre le numéro de plaque constructeur et le numéro de frappe à froid (2)
+0.2.2.2.5. Non-concordance entre le numéro de plaque constructeur et le numéro de frappe à froid
 
 |
 
@@ -422,13 +422,13 @@ N
 
 |
 
-0.4.6 Document d'identification (2)
+0.4.6 Document d'identification
 
 |
 
 |
 
-0.4.6.1. Spécification (2)
+0.4.6.1. Spécification
 
 |
 
@@ -436,7 +436,7 @@ N
 
 0.4.6.1.1. Nombre de caractères du numéro d'identification différent de celui des numéros de plaque
 
-constructeur ou de frappe à froid (2)
+constructeur ou de frappe à froid
 
 |
 
@@ -576,13 +576,19 @@ N
 
 |
 
-1.2. CIRCUIT HYDRAULIQUE
+1.1.3.1.2. Anomalie de fonctionnement |
+
+N
+
+|
+
+1.2. CIRCUIT DE FREINAGE
 
 |
 
 |
 
-1.2.1. RESERVOIR DE LIQUIDE DE FREIN
+1.2.1. RÉSERVOIR (S)
 
 |
 
@@ -644,7 +650,7 @@ O
 
 |
 
-1.2.2. MAITRE-CYLINDRE
+1.2.2. MAÎTRE-CYLINDRE/ ROBINET (S) DE FREINAGE
 
 |
 
@@ -1246,7 +1252,7 @@ N
 
 |
 
-N
+O
 
 |
 
@@ -1350,15 +1356,11 @@ N
 
 |
 
-1.7.2.1. ETAT
+1.7.2.2. FONCTIONNEMENT |
 
 |
 
-|
-
-1.7.2.1.1. Allumé
-
-|
+1.7.2.2.1. Anomalie de fonctionnement |
 
 O
 
@@ -1403,7 +1405,3 @@ N
 N
 
 |
-
-NOTA :
-
-(2) A compter du 1er avril 2011.

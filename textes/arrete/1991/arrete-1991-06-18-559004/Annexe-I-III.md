@@ -268,7 +268,7 @@ O
 
 |
 
-2.2.5.1.1. Détérioration importante (.G, D)
+2.2.5.1.1. Détérioration importante (G, D.)
 
 |
 
@@ -276,7 +276,7 @@ O
 
 |
 
-2.2.5.1.2. Frottement anormal (.G, D.)
+2.2.5.1.2. Frottement anormal (G, D.)
 
 |
 
@@ -290,7 +290,7 @@ N
 
 |
 
-2.2.5.2.1. Contrôle impossible (.G, D.)
+2.2.5.2.1. Contrôle impossible (G, D.)
 
 |
 
@@ -432,7 +432,7 @@ N
 
 |
 
-N
+O
 
 |
 
@@ -446,7 +446,7 @@ N
 
 |
 
-N
+O
 
 |
 
@@ -564,7 +564,7 @@ visite
 
 |
 
-3.1.2.1.1. Visibilité insuffisante (AVD. AVG. AR. ARD.ARG.)
+3.1.2.1.1. Visibilité insuffisante (AVD. AVG. AR. ARD. ARG.)
 
 |
 
@@ -578,7 +578,7 @@ N
 
 |
 
-3.1.2.2.1. Mauvaise fixation (AVD. AVG. AR. ARD.ARG.)
+3.1.2.2.1. Mauvaise fixation (AVD. AVG. AR. ARD. ARG.)
 
 |
 
@@ -592,7 +592,7 @@ N
 
 |
 
-3.1.2.3.1. Absence (AVD. AVG. AR. ARD.ARG.)
+3.1.2.3.1. Absence (AVD. AVG. AR. ARD. ARG.)
 
 |
 
@@ -734,6 +734,20 @@ N
 
 |
 
+3.3.3. SYSTÈME DE DÉSEMBUAGE |
+
+|
+
+3.3.3.1. FONCTIONNEMENT |
+
+|
+
+3.3.3.1.1. Anomalie de fonctionnement |
+
+N
+
+|
+
 4. ECLAIRAGE, SIGNALISATION
 
 |
@@ -774,11 +788,25 @@ O
 
 |
 
-4.1.1.1.3. Réglage anormalement bas (D, G) (2)
+4.1.1.1.3. Réglage anormalement bas (D, G)
 
 |
 
 O
+
+|
+
+4.1.2. FEU ANTIBROUILLARD AV |
+
+|
+
+4.1.2.1. SPÉCIFICATION |
+
+|
+
+4.1.2.1.1. Réglage trop haut (D, G) |
+
+N
 
 |
 
@@ -1710,7 +1738,7 @@ N
 
 |
 
-O
+N
 
 |
 
@@ -1718,11 +1746,11 @@ O
 
 |
 
-O
+N
 
 |
 
-4.4. ELEMENTS DE COMMANDE, D'INFORMATION
+4.4. ELEMENTS DE COMMANDE, D'INFORMATION ET FAISCEAUX
 
 |
 
@@ -1848,6 +1876,40 @@ N
 
 |
 
+4.4.6. FAISCEAU ÉLECTRIQUE
+
+|
+
+|
+
+4.4.6.1. ÉTAT
+
+|
+
+|
+
+4.4.6.1.1. Mauvais état
+
+|
+
+N
+
+|
+
+4.4.6.2. FIXATION
+
+|
+
+|
+
+4.4.6.2.1. Mauvaise fixation
+
+|
+
+N
+
+|
+
 5. LIAISONS AU SOL
 
 |
@@ -1876,7 +1938,7 @@ N
 
 |
 
-N
+O
 
 |
 
@@ -2044,7 +2106,7 @@ O
 
 |
 
-N
+O
 
 |
 
@@ -2113,7 +2175,3 @@ O
 O
 
 |
-
-NOTA :
-
-(2) A compter du 1er avril 2011.
