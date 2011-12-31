@@ -726,6 +726,40 @@ M
 
 |
 
+3.3.3. SYSTÈME DE DÉSEMBUAGE
+
+|
+
+|
+
+|
+
+|
+
+3.3.3.2. FONCTIONNEMENT
+
+|
+
+|
+
+|
+
+|
+
+3.3.3.2.1. Fonctionnement anormal
+
+|
+
+|
+
+O
+
+|
+
+M
+
+|
+
 4. ECLAIRAGE, SIGNALISATION
 
 |
@@ -1363,6 +1397,22 @@ M
 |
 
 4.1.3.2.1. Fonctionnement anormal
+
+|
+
+3
+
+|
+
+O
+
+|
+
+M
+
+|
+
+4.1.3.2.2. Déréglage
 
 |
 
@@ -6114,7 +6164,7 @@ T
 
 |
 
-5.1.11.2,2. Jeu anormal
+5.1.11.2.2. Jeu anormal
 
 |
 
@@ -7104,7 +7154,7 @@ T
 
 |
 
-5.1.201.2. Détérioration
+5.1.20.1.2. Détérioration
 
 |
 
@@ -8672,7 +8722,7 @@ T
 
 |
 
-.2.2. CAISSE
+6.2.2. CAISSE
 
 |
 
@@ -12148,7 +12198,7 @@ R
 
 |
 
-7.3.1. AVERTISSEUR SONORE
+7.3.1. AVERTISSEUR SONORE ET SA COMMANDE
 
 |
 
@@ -12169,6 +12219,30 @@ R
 |
 
 7.3.1.2.1. Fonctionnement anormal
+
+|
+
+|
+
+O
+
+|
+
+M
+
+|
+
+7.3.1.3. FIXATION
+
+|
+
+|
+
+|
+
+|
+
+7.3.1.3.1. Défaut de fixation
 
 |
 
@@ -12358,7 +12432,7 @@ M
 
 |
 
-7.3.4. CHRONOTACHYGRAPHE
+7.3.4. CHRONOTACHYGRAPHE, COMPTEUR KILOMÉTRIQUE
 
 |
 
@@ -12392,7 +12466,7 @@ M
 
 |
 
-7.3.4.4. DIVERS
+7.3.4.4. DIVERS CHRONOTACHYGRAPHE
 
 |
 
@@ -12820,6 +12894,116 @@ T
 
 |
 
+7.3.8. BATTERIE (S)
+
+|
+
+|
+
+|
+
+|
+
+7.3.8.1. ÉTANCHÉITÉ
+
+|
+
+|
+
+|
+
+|
+
+7.3.8.1.1. Défaut d'étanchéité
+
+|
+
+|
+
+O
+
+|
+
+M
+
+|
+
+7.3.8.1.2. Ventilation inadéquate
+
+|
+
+|
+
+O
+
+|
+
+M
+
+|
+
+7.3.8.3. FIXATION
+
+|
+
+|
+
+|
+
+|
+
+7.3.8.3.1. Défaut de fixation
+
+|
+
+|
+
+O
+
+|
+
+M
+
+|
+
+7.3.8.4. DIVERS
+
+|
+
+|
+
+|
+
+|
+
+7.3.8.4.1. Borne (s) non isolée (s) électriquement
+
+|
+
+|
+
+S
+
+|
+
+M
+
+|
+
+7.3.8.4.2. Borne (s) non couverte (s) par un couvercle isolant
+
+|
+
+|
+
+S
+
+|
+
+M
+
+|
+
 8. ORGANES MECANIQUES
 
 |
@@ -13094,7 +13278,7 @@ M
 
 |
 
-8.1.4,2. FONCTIONNEMENT
+8.1.4.2. FONCTIONNEMENT
 
 |
 
@@ -13306,7 +13490,7 @@ M
 
 |
 
-81 6.11Z Défaut d'étanchéité
+8.1.6.1.2. Défaut d'étanchéité
 
 |
 

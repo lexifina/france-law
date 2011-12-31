@@ -182,7 +182,7 @@ ANTI-DEMARRAGE (EAD)
 
 |
 
-10.1.3.1. ETAT |
+10.1.3.1. ETAT
 
 |
 
@@ -190,29 +190,45 @@ ANTI-DEMARRAGE (EAD)
 
 |
 
-10.1.3.1.1. Détérioration |
-
 |
 
-O |
-
-M |
-
-10.1.3.4. DIVERS |
+10.1.3.1.1. Détérioration
 
 |
 
 |
 
-|
-
-10.1.3.4.1 Absence |
+O
 
 |
 
-S |
+M
 
-M |
+|
+
+10.1.3.4. DIVERS
+
+|
+
+|
+
+|
+
+|
+
+10.1.3.4.1 Absence
+
+|
+
+|
+
+S
+
+|
+
+M
+
+|
 
 10.1.3.4.2 Non concordance avec le certificat d'immatriculation
 
@@ -220,9 +236,13 @@ M |
 
 |
 
-S |
+S
 
-M |
+|
+
+M
+
+|
 
 10.1.4. ATTESTATION DE VERIFICATION PERIODIQUE DU DISPOSITIF ETHYLOTEST
 
@@ -236,7 +256,7 @@ ANTI-DEMARRAGE (EAD) (1)
 
 |
 
-10.1.4.4. DIVERS |
+10.1.4.4. DIVERS
 
 |
 
@@ -244,21 +264,35 @@ ANTI-DEMARRAGE (EAD) (1)
 
 |
 
-10.1.4.4.1 Absence |
+|
+
+10.1.4.4.1 Absence
 
 |
 
-S |
+|
 
-M |
-
-10.1.4.4.2 Non concordance avec le certificat d'immatriculation |
+S
 
 |
 
-S |
+M
 
-M |
+|
+
+10.1.4.4.2 Non concordance avec le certificat d'immatriculation
+
+|
+
+|
+
+S
+
+|
+
+M
+
+|
 
 10.2. PREVENTION DES RISQUES D'INCENDIE
 
@@ -1300,7 +1334,7 @@ M
 
 |
 
-10 3.5.4.2. Contrôle impossible
+10.3.5.4.2. Contrôle impossible
 
 |
 
@@ -1336,7 +1370,7 @@ M
 
 |
 
-10 3.6 4.1. Passage insuffisant
+10.3.6.4.1. Passage insuffisant
 
 |
 
@@ -2960,7 +2994,7 @@ M
 
 |
 
-10.414.4.2. Contrôle impossible
+10.4.14.4.2. Contrôle impossible
 
 |
 
@@ -3588,7 +3622,7 @@ M
 
 |
 
-10.6.4. DISPOSITIF ETHYLOTEST ANTI-DEMARRAGE (EAD) |
+10.6.4. DISPOSITIF ETHYLOTEST ANTI-DEMARRAGE (EAD)
 
 |
 
@@ -3596,7 +3630,9 @@ M
 
 |
 
-10.6.4.4. DIVERS |
+|
+
+10.6.4.4. DIVERS
 
 |
 
@@ -3604,13 +3640,21 @@ M
 
 |
 
-10.6.4.4.1 Absence |
+|
+
+10.6.4.4.1 Absence
 
 |
 
-S |
+|
 
-M |
+S
+
+|
+
+M
+
+|
 
 10.7. TRANSPORT HANDICAPES
 
@@ -4252,7 +4296,7 @@ M
 
 |
 
-11.2.1 4.2. Dimensions inadaptées
+11.2.1.4.2. Dimensions inadaptées
 
 |
 
@@ -5352,7 +5396,7 @@ M
 
 |
 
-13 3.4.1.2. Détérioration
+13.3.4.1.2. Détérioration
 
 |
 
@@ -5904,102 +5948,6 @@ T
 
 |
 
-15.4.2. BATTERIES
-
-|
-
-|
-
-|
-
-|
-
-15.4.2.1. ETAT
-
-|
-
-|
-
-|
-
-|
-
-15.4.2.1.2. Détérioration
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.4.2.3. FIXATION
-
-|
-
-|
-
-|
-
-|
-
-15.4.2.3.1. Défaut de fixation
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.4.2.4. DIVERS
-
-|
-
-|
-
-|
-
-|
-
-15.4.2.4.1. Bornes non isolées électriquement
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
-15.4.2.4.2. Bornes non couvertes par un couvercle isolant
-
-|
-
-|
-
-O
-
-|
-
-M
-
-|
-
 15.4.3. COFFRE A BATTERIES
 
 |
@@ -6020,7 +5968,7 @@ M
 
 |
 
-15.4.31.2. Détérioration
+15.4.3.1.2. Détérioration
 
 |
 
@@ -7074,7 +7022,7 @@ T
 
 |
 
-15.9.1.4.4. Conclusion défavorable de l'attestation de contrôleRetrait autorisé.
+15.9.1.4.4. Conclusion défavorable de l'attestation de contrôle Retrait autorisé.
 
 |
 
@@ -8372,7 +8320,7 @@ T
 
 |
 
-15 9.15.1.2. Détérioration notable
+15.9.15.1.2. Détérioration notable
 
 |
 
@@ -9178,21 +9126,481 @@ Tout véhicule pour lequel un défaut ou une anomalie a été relevé au titre d
 
 Dans le cas de la présentation d'un ensemble (tracteur-remorque) au contrôle technique, lorsque l'un des véhicules est soumis à contre-visite à l'issue d'un contrôle technique, c'est le même ensemble qui est présenté à la contre-visite, si la contre-visite n'est pas réalisée sur un freinomètre à rouleaux.
 
-Le contrôle de l'efficacité du freinage et du taux de déséquilibre d'un véhicule s'effectue par référence aux seuils de validité fixés par l'arrêté du 18 août 1955 susvisé.
+L'efficacité du frein de service mesurée ou calculée est considérée comme insuffisante lorsqu'elle est strictement inférieure aux valeurs fixées dans le tableau ci-dessous :
 
-Pour le transport de marchandises dangereuses, justifient de leur conformité en ce qui concerne le dispositif de freinage antiblocage :
+CATÉGORIE DE VÉHICULE
 
-- les véhicules à moteur (tracteur et porteur) d'une masse maximale dépassant 16 tonnes et mis en circulation avant le 1er juillet 1993 ;
+|
 
-- les véhicules remorqués d'une masse maximale dépassant 10 tonnes et mis en circulation avant le 1er juillet 1993 ;
+DATE DE PREMIÈRE
 
-- les véhicules à moteur autorisés à tracter des véhicules remorqués d'une masse maximale dépassant 10 tonnes et mis en circulation avant le 1er juillet 1995.
+mise en circulation
 
-Pour le transport de marchandises dangereuses, justifient de leur conformité en ce qui concerne le dispositif de freinage d'endurance :
+|
 
-- les véhicules à moteur d'une masse maximale dépassant 16 tonnes mis en circulation avant le 1er juillet 1993 ;
+ESSAIS SUR BANC
 
-- les véhicules à moteur autorisés à tracter des véhicules remorqués d'une masse maximale dépassant 10 tonnes et mis en circulation avant le 1er juillet 1993.
+|
+
+ESSAIS SUR PISTE
+
+|
+
+Véhicules de la catégorie M1.
+
+Autocaravanes de PTAC> 3,5 t par exemple.
+
+|
+
+A compter du 01/01/12
+
+|
+
+58 %
+
+|
+
+5,8 m/s²
+
+|
+
+Jusqu'au 31/12/11
+
+|
+
+50 %
+
+|
+
+5 m/s²
+
+|
+
+Véhicules de transport en commun de personnes (catégories M2 et M3)
+
+|
+
+Toutes dates
+
+|
+
+50 %
+
+(48 % pour les véhicules
+
+non munis d'ABR)
+
+|
+
+5 m/s²
+
+(4,8 m/s² pour les véhicules
+
+non munis d'ABR)
+
+|
+
+Véhicules à moteur de transport de marchandises (catégorie N1)
+
+|
+
+A compter du 30/09/89
+
+|
+
+50 %
+
+|
+
+5 m/s²
+
+|
+
+Jusqu'au 29/09/89
+
+|
+
+45 %
+
+|
+
+4,5 m/s²
+
+|
+
+Véhicules à moteur de transport de marchandises (catégories N2 et N3)
+
+|
+
+A compter du 01/01/12
+
+|
+
+50 %
+
+|
+
+5 m/s²
+
+|
+
+A compter du 30/09/89 jusqu'au 31/12/11
+
+|
+
+45 %
+
+|
+
+4,5 m/s²
+
+|
+
+Jusqu'au 29/09/89
+
+|
+
+43 %
+
+|
+
+4,3 m/s²
+
+|
+
+Véhicules articulés, trains routiers
+
+|
+
+A compter du 01/01/12
+
+|
+
+50 %
+
+|
+
+5 m/s²
+
+|
+
+Jusqu'au 31/12/11
+
+|
+
+Voir : "Véhicules à moteur de transport de marchandises
+
+(catégories N2 et N3)" et "Véhicule remorqué
+
+de transport de marchandises (catégories O3 et O4)"
+
+|
+
+Remorques (catégories O3 et O4)
+
+|
+
+A compter du 01/01/12
+
+|
+
+50 %
+
+|
+
+5 m/s²
+
+|
+
+A compter du 31/05/90 jusqu'au 31/12/11
+
+|
+
+43 %
+
+|
+
+4,3 m/s²
+
+|
+
+Jusqu'au 30/05/90
+
+|
+
+40 %
+
+|
+
+4 m/s²
+
+|
+
+Semi-remorques (catégories O3 et O4)
+
+|
+
+A compter du 01/01/12
+
+|
+
+45 %
+
+|
+
+4,5 m/s²
+
+|
+
+A compter du 31/05/90 jusqu'au 31/12/11
+
+|
+
+43 %
+
+|
+
+4,3 m/s²
+
+|
+
+Jusqu'au 30/05/90
+
+|
+
+40 %
+
+|
+
+4 m/s²
+
+|
+
+L'efficacité du frein de secours mesurée ou calculée est considérée comme insuffisante lorsqu'elle est strictement inférieure aux valeurs fixées dans le tableau ci-dessous :
+
+CATÉGORIE DE VÉHICULE
+
+|
+
+DATE DE PREMIÈRE
+
+mise en circulation
+
+|
+
+ESSAIS SUR BANC
+
+|
+
+ESSAIS SUR PISTE
+
+|
+
+Véhicules de la catégorie M1.
+
+Autocaravanes de PTAC > 3,5 t par exemple.
+
+|
+
+A compter du 01/01/12
+
+|
+
+29 %
+
+|
+
+2,9 m/s²
+
+|
+
+Jusqu'au 31/12/11
+
+|
+
+25 %
+
+|
+
+2,5 m/s²
+
+|
+
+Véhicules de transport en commun de personnes (catégories M2 et M3)
+
+|
+
+Toutes dates
+
+|
+
+25 %
+
+|
+
+2,5 m/s²
+
+|
+
+Véhicules à moteur de transport de marchandises (catégories N1, N2, N3)
+
+|
+
+Toutes dates
+
+|
+
+22 %
+
+|
+
+2,2 m/s²
+
+|
+
+Véhicules articulés, trains routiers
+
+|
+
+A compter du 01/01/12
+
+|
+
+25 %
+
+|
+
+2,5 m/s²
+
+|
+
+Jusqu'au 31/12/11
+
+|
+
+Voir : "Véhicules à moteur de transport de marchandises
+
+(catégories N2 et N3)" et "Véhicule remorqué de transport
+
+de marchandises (catégories O3 et O4)"
+
+|
+
+Remorques (catégories O3 et O4)
+
+|
+
+A compter du 01/01/12
+
+|
+
+25 %
+
+|
+
+2,5 m/s²
+
+|
+
+Jusqu'au 31/12/11
+
+|
+
+20 %
+
+|
+
+2 m/s²
+
+|
+
+Semi-remorques (catégories O3 et O4)
+
+|
+
+A compter du 01/01/12
+
+|
+
+23 %
+
+|
+
+2,3 m/s²
+
+|
+
+Jusqu'au 31/12/11
+
+|
+
+20 %
+
+|
+
+2 m/s²
+
+|
+
+L'efficacité du frein de stationnement calculée est considérée comme insuffisante lorsqu'elle est strictement inférieure à 18 %.
+
+Le niveau de sanction du déséquilibre calculé du frein de service et du frein de secours est apprécié conformément aux valeurs du tableau ci-dessous :
+
+|
+
+SANCTIONS
+
+|
+
+0 à 20 % (inclus)
+
+|
+
+20 à 30 % (inclus)
+
+|
+
+30 à 40 % (inclus)
+
+|
+
+Plus de 40 %
+
+|
+
+Pour chaque essieu
+
+|
+
+A
+
+|
+
+O
+
+|
+
+S ou R (*)
+
+|
+
+R ou S (**)
+
+|
+
+A : pas d'observation.
+
+O : observation.
+
+S : refus sans interdiction de circuler.
+
+R : refus avec interdiction de circuler.
+
+(*) Si plus d'un essieu est concerné.
+
+(**) Uniquement dans le cas où un seul essieu appartenant à un groupe d'essieux est concerné sans que le déséquilibre dépasse 60 %.
+
+|
 
 En cas de prêt par l'installation de contrôle d'un véhicule remorqué pour permettre la réalisation de l'essai de freinage d'un véhicule tracteur, le véhicule remorqué répond aux dispositions du code de la route.
 
@@ -10581,7 +10989,3 @@ Les véhicules, mis en circulation jusqu'au 30 avril 1957, ne sont pas soumis au
 3 Véhicules de genre TRR présentés seuls au contrôle
 
 Dans le cas où un véhicule de genre TRR est présenté seul au contrôle technique, le commentaire suivant est porté sur le procès-verbal : "sellette non vérifiée".
-
-NOTA :
-
-Arrêté du 18 février 2011 article 6 III : La date d'application du point 10.1.4 prévu au II. - Liste des observations constatables relatives à chaque point de contrôle applicable aux véhicules lourds soumis à réglementation spécifique de la partie B est reportée au 1er juillet 2011.
