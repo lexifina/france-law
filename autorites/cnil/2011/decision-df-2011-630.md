@@ -1,0 +1,9 @@
+# Décision DF-2011-630 autorisant la société CITIBANK INTERNATIONAL à transférer des données à caractère personnel vers les Etats-Unis aux fins de maintenance et d’hébergement (Demande d’autorisation n°1531101)
+
+- Nature : Decision
+- Type : Autorisation de transfert
+- Numéro : DF-2011-630
+- Date : 2011-12-31
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000024682591
