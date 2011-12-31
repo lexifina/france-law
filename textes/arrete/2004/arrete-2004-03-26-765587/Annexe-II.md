@@ -1,22 +1,18 @@
 # Article Annexe II
 
-PLAFONDS DE PRIX DE VENTE (*) FIXÉS EN APPLICATION DE L'ARTICLE R. 331-76-5-4 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION.
+Plafonds de prix de vente fixés en application de l'article R. 331-76-5-4 du code de la construction et de l'habitation
 
-(En euros, par mètre carré de surface utile)
+(En euros hors taxes, par mètre carré de surface utile)
 
-ZONE GÉOGRAPHIQUE
+ZONE GÉOGRAPHIQUE |
 
-|
-
-PRIX MAXIMUM
-
-|
+PRIX MAXIMUM |
 
 A
 
 |
 
-4 100
+3 963
 
 |
 
@@ -24,7 +20,7 @@ B1
 
 |
 
-2 750
+2 658
 
 |
 
@@ -32,7 +28,7 @@ B2
 
 |
 
-2 400
+2 320
 
 |
 
@@ -40,10 +36,6 @@ C
 
 |
 
-2 100
-
-|
-
-(*) La TVA ayant déjà été acquittée en amont par le vendeur, la vente n'est pas soumise à la TVA.
+2 030
 
 |
