@@ -1378,19 +1378,19 @@ MPC pour les consultations de patients de moins de seize ans réalisées les psy
 
 |
 
-Majoration de sujétion particulière pour l'ensemble des actes liés à chaque accouchement réalisé la nuit, le dimanche et les jours fériés M A (1)
+Majoration de sujétion particulière pour l'ensemble des actes liés à chaque accouchement réalisé la nuit, le dimanche et les jours fériés MA (1)
 
 |
 
-61,00
+150
 
 |
 
-61,00
+150
 
 |
 
-61,00
+150
 
 |
 

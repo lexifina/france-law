@@ -846,7 +846,7 @@ Assurance maladie, maternité, décès
 
 Au titre du régime d'assurance maladie, maternité, décès des praticiens et auxiliaires médicaux conventionnés, les médecins conventionnés doivent une cotisation prévue à l'article L. 722-4 du code de la sécurité sociale.
 
-La participation des caisses correspond à 9,7 % du montant de la cotisation assise sur les revenus tirés de l'activité conventionnée.
+La participation des caisses est assise sur le montant du revenu net de dépassement d'honoraires tiré de l'activité conventionnée. Cette participation correspond à 9,7 % de ce montant.
 
 Les parties conventionnelles soulignent l'importance de faire bénéficier les femmes médecins d'une couverture maternité d'un niveau satisfaisant.
 
@@ -856,7 +856,7 @@ Allocations familiales
 
 Au titre des allocations familiales, les médecins doivent une cotisation en application de l'article L. 242-11 du code de la sécurité sociale.
 
-La participation des caisses correspond à 5 % du montant de la cotisation assise sur les revenus tirés de l'activité conventionnée de ce montant, dans la limite du plafond annuel de sécurité sociale ; au-delà, la participation correspond à 2,9 %.
+La participation des caisses est assise sur le montant du revenu net de dépassement d'honoraires tiré de l'activité conventionnée. Cette participation correspond à 5 % de ce montant dans la limite du plafond annuel de Sécurité Sociale ; au-delà, la participation correspond à 2,9 % du montant évoqué supra.
 
 Article 63
 

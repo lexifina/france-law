@@ -34,7 +34,7 @@ Article 2
 
 Participation de l'assurance maladie au financement de l'astreinte dans le cadre du dispositif conventionnel transitoire
 
-Sur un secteur donné, le paiement de l'astreinte s'effectue au profit du praticien libéral conventionné inscrit au tableau de permanence ou du médecin de permanence intervenant dans le cadre d'une association de médecins spécialisés dans l'intervention en dehors des heures ouvrées, sous réserve d'une transmission au conseil départemental de l'ordre des médecins de la liste nominative des médecins participant à cette permanence.
+Sur un secteur donné, le paiement de l'astreinte s'effectue au profit du praticien libéral conventionné inscrit au tableau de permanence ou du médecin de permanence intervenant dans le cadre d'une association de médecins spécialisés dans l'intervention en dehors des heures ouvrées, sous réserve d' une transmission au conseil départemental de l'ordre des médecins de la liste nominative des médecins participant à cette permanence.
 
 Les médecins de permanence remplissant les engagements ci-dessus peuvent prétendre à une rémunération :
 
@@ -56,9 +56,7 @@ Pour justifier du versement de la rémunération de l'astreinte, le médecin de 
 
 Article 3
 
-Participation de l'assurance maladie
-
-au financement de majorations spécifiques
+Participation de l'assurance maladie au financement de majorations spécifiques
 
 Lorsque le médecin inscrit sur le tableau de permanence ou appartenant à une association de permanence des soins et inscrit auprès du conseil départemental de l'Ordre intervient à la demande du médecin chargé de la régulation ou du centre d'appel de l'association de permanence des soins, il bénéficie de majorations spécifiques.
 
@@ -66,13 +64,9 @@ Le montant de ces majorations est distinct selon que le médecin de permanence r
 
 |
 
-VISITE À DOMICILE
+VISITE À DOMICILE |
 
-|
-
-CONSULTATION
-
-|
+CONSULTATION |
 
 Majoration spécifique de nuit 20 heures à 0 heures et de 6 heures à 8 heures
 
@@ -132,9 +126,7 @@ Les interventions réalisées en dehors de ce cadre par les médecins libéraux 
 
 Article 4
 
-Dispense d'avance de frais pour les patients
-
-ayant recours au médecin de permanence
+Dispense d'avance de frais pour les patients ayant recours au médecin de permanence
 
 Dans le cadre d'une intervention du médecin d'astreinte suite à la demande du médecin chargé de la régulation ou du centre d'appel de l'association de permanence des soins, le patient bénéficie de plein droit d'une dispense d'avance de frais.
 
@@ -144,4 +136,4 @@ Article 5
 
 La participation aux avantages sociaux
 
-En application du 5° de l'article L. 162-14-1 du code de la sécurité sociale, les parties signataires conviennent que les forfaits et majorations visés aux articles 1er à 3 de la présente annexe sont inclus dans l'assiette de calcul de la participation des caisses aux cotisations sociales telle que définie à l'article 73 et suivants de la présente convention.
+En application du 5° de l'article L. 162-14-1 du code de la sécurité sociale, les parties signataires conviennent que les forfaits et majorations visés aux articles 1er à 3 de la présente annexe sont inclus dans l'assiette de calcul de la participation des caisses aux cotisations sociales telle que définie aux articles 60 et suivants de la présente convention.
