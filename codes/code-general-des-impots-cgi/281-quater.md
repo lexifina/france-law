@@ -8,4 +8,10 @@ Ces dispositions ne s'appliquent pas aux recettes provenant :
 
 a. Des représentations théâtrales à caractère pornographique ;
 
-c. (abrogé)
+b. (Disposition devenue sans objet).
+
+c. De la vente de billets imposée au taux réduit de 7 % dans les conditions prévues au b bis a de l'article 279.
+
+NOTA :
+
+LOI n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 13 III : les dispositions du présent article s'appliquent aux opérations pour lesquelles la taxe sur la valeur ajoutée est exigible à compter du 1er janvier 2012.
