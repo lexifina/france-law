@@ -1,0 +1,15 @@
+# Article 1er
+
+En application des articles 1.4 et 12.8 de la convention collective nationale du bâtiment du 8 octobre 1990, concernant les ouvriers employés par les entreprises du bâtiment visées par le décret du 1er mars 1962 et pour les entreprises dont l'horaire collectif est fixé à 35 heures par semaine ou 151,67 heures par mois, les organisations représentatives d'employeurs et de salariés se sont réunies
+
+et ont déterminé les salaires mensuels minimaux des ouvriers du bâtiment de la région Poitou-Charentes et ont arrêté :
+
+– la partie fixe (PF) à 125 € ;
+
+– la valeur du point (VP) à 7,185 €,
+
+à compter du 1er janvier 2012, conformément au tableau joint en annexe.
+
+(1) Article étendu sous réserve de l'application des dispositions du deuxième alinéa de l'article 5 de l'avenant n° 1 du 26 septembre 2007, relatif à la classification, à la convention collective nationale susvisée, qui ne réserve pas l'application des salaires minima aux seules entreprises dont l'horaire collectif de travail est fixé à 35 heures par semaine ou à 35 heures en moyenne sur l'année.
+
+(Arrêté du 27 juillet 2012, art. 1er)
