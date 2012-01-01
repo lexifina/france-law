@@ -356,6 +356,12 @@ Habilitation des organismes de formation prévue à l'article L. 254-3, dont les
 
 Article R. 254-14 du code rural et de la pêche maritime |
 
+Agrément des matériels d'identification des animaux des espèces bovine, ovine, caprine, porcine et équine et des carnivores domestiques. |
+
+Article R. 212-72 du code rural et de la pêche maritime.
+
+|
+
 Organismes professionnels agricoles
 
 |
