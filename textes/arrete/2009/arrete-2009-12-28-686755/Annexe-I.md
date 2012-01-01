@@ -40,7 +40,7 @@ Le candidat indique au moment de son inscription la langue ancienne ou moderne c
 
 Deuxième partie : exposé du candidat à partir d'un document fourni par le jury (dix minutes) et entretien avec le jury (dix minutes) sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable définie dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
 
-Les programmes du concours font l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Les programmes du concours font l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Section grammaire
 
@@ -166,7 +166,7 @@ Les entretiens qui suivent chacune des épreuves d'admission portent sur le cont
 
 Des deux explications qui font l'objet des quatrième et cinquième épreuves, une seule, déterminée par tirage au sort, porte sur un texte inscrit au programme.
 
-Le programme des œuvres est publié chaque année au Bulletin officiel de l'éducation nationale.
+Le programme des œuvres est publié chaque année sur le site internet du ministère chargé de l'éducation nationale.
 
 Section lettres modernes
 
@@ -206,7 +206,7 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 Un entretien de dix minutes maximum portant sur le contenu de l'exercice présenté suit chacune des quatre épreuves d'admission.
 
-Le programme des quatre premières épreuves écrites d'admissibilité et des première, deuxième et quatrième épreuves orales d'admission fait l'objet d'une publication au Bulletin officiel de l'éducation nationale.
+Le programme des quatre premières épreuves écrites d'admissibilité et des première, deuxième et quatrième épreuves orales d'admission fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Section histoire
 
@@ -342,7 +342,7 @@ Le texte est extrait d'un des ouvrages du programme (partie commune ou partie op
 
 La maîtrise de la langue allemande et de la langue française est prise en compte dans la notation des épreuves d'admissibilité et d'admission.
 
-Le programme des épreuves fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Anglais
 
@@ -420,7 +420,7 @@ L'exposé ainsi que l'entretien en anglais qui lui fait suite permettent d'éval
 
 5° Une note globale d'expression orale en anglais est attribuée pour les première, deuxième et quatrième épreuves orales (coefficient 2).
 
-Les programmes des épreuves ainsi que les indications bibliographiques sont publiés au Bulletin officiel du ministère de l'éducation nationale.
+Les programmes des épreuves ainsi que les indications bibliographiques sont publiés sur le site internet du ministère chargé de l'éducation nationale.
 
 Arabe
 
@@ -464,7 +464,7 @@ L'exposé est suivi d'un entretien en français, qui peut comporter une partie e
 
 Il est tenu compte de l'option d'arabe dialectal choisie par le candidat lors de son inscription (préparation : trois heures ; durée de l'épreuve : quarante-cinq minutes maximum [exposé : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 2).
 
-Les programmes font l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Les programmes font l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Chinois
 
@@ -528,7 +528,7 @@ Les dictionnaires unilingues de langue chinoise (Cidian et Zidian) sont autoris�
 
 Pour les épreuves d'admissibilité et d'admission, les textes chinois présentés aux candidats peuvent être en caractères chinois simplifiés ou non simplifiés et la connaissance du système de transcription dit Pinyin est exigée.
 
-Les programmes font l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Les programmes font l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Espagnol
 
@@ -614,7 +614,7 @@ Les textes sont extraits du programme. Un entretien avec le jury a lieu après l
 
 La maîtrise de la langue hébraïque et de la langue française est prise en compte dans la notation des épreuves d'admissibilité et d'admission.
 
-Le programme des épreuves du concours fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves du concours fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Italien
 
@@ -662,7 +662,7 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 5° A l'issue des épreuves orales, le jury attribue une note de maîtrise de la langue italienne et de la langue française, qui s'ajoute aux notes des épreuves d'admission (coefficient 3).
 
-Le programme du concours fait l'objet d'une publication annuelle au Bulletin officiel du ministère de l'éducation nationale.
+Le programme du concours fait l'objet d'une publication annuelle sur le site internet du ministère chargé de l'éducation nationale.
 
 Langue et culture japonaises
 
@@ -698,7 +698,7 @@ Pour la préparation des épreuves orales, les candidats ont accès aux dictionn
 
 La maîtrise de la langue japonaise et de la langue française est prise en compte dans la notation des épreuves d'admissibilité et d'admission.
 
-Le programme des épreuves du concours fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves du concours fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Néerlandais
 
@@ -734,7 +734,7 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 La maîtrise de la langue néerlandaise et de la langue française est prise en compte dans la notation des épreuves d'admission.
 
-Le programme des épreuves fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Polonais
 
@@ -768,7 +768,7 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 La maîtrise de la langue polonaise et de la langue française est prise en compte dans la notation des épreuves d'admissibilité et d'admission.
 
-Le programme des épreuves du concours fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves du concours fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Portugais
 
@@ -806,7 +806,7 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 5° Note d'expression orale en portugais portant sur la deuxième épreuve orale d'admission (coefficient 2).
 
-Le programme du concours fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme du concours fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Russe
 
@@ -854,7 +854,7 @@ Un dictionnaire indiqué par le jury est mis à la disposition du candidat penda
 
 La maîtrise de la langue russe et de la langue française est prise en compte dans la notation des épreuves d'admissibilité et d'admission.
 
-Le programme des épreuves fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Section mathématiques
 
@@ -956,7 +956,7 @@ Le candidat présente un exposé construit à partir du texte choisi. Il peut en
 
 Le jury intervient à son gré au cours de l'épreuve et conduit le dialogue avec le candidat.
 
-Le programme des épreuves d'admissibilité et d'admission du concours externe de l'agrégation de mathématiques fait l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves d'admissibilité et d'admission du concours externe de l'agrégation de mathématiques fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Section sciences physiques
 
@@ -1120,7 +1120,7 @@ Dans chaque option, des livres, y compris les manuels du second cycle et des doc
 
 En outre, un préparateur présent pendant toute la durée des épreuves orales est à la disposition des candidats pour leur apporter l'aide qu'il donne habituellement aux professeurs lors de la préparation de leurs classes.
 
-Le programme sur lequel portent les épreuves des options est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme sur lequel portent les épreuves des options est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section sciences de la vie
 
@@ -1176,9 +1176,9 @@ Le candidat répond pendant dix minutes à une question, à partir d'un document
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
-Les programmes de connaissances générales et les programmes de spécialité font l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Les programmes de connaissances générales et les programmes de spécialité font l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
-Le programme annexe portant sur des questions scientifiques d'actualité est publié annuellement au Bulletin officiel du ministère de l'éducation nationale.
+Le programme annexe portant sur des questions scientifiques d'actualité est publié annuellement sur le site internet du ministère chargé de l'éducation nationale.
 
 Section musique
 
@@ -1186,7 +1186,7 @@ A. - Epreuves d'admissibilité
 
 1° Dissertation : cette épreuve permet d'apprécier les capacités du candidat à solliciter ses connaissances sur la musique en rapport avec l'histoire des arts, des idées et des sociétés (durée : six heures ; coefficient 1) :
 
-Un programme de trois questions est publié au Bulletin officiel de l'éducation nationale. L'une des questions porte sur une notion ou une composante du langage musical étudiée à travers des périodes historiques et des modes d'expression musicale différents.
+Un programme de trois questions est publié sur le site internet du ministère chargé de l'éducation nationale. L'une des questions porte sur une notion ou une composante du langage musical étudiée à travers des périodes historiques et des modes d'expression musicale différents.
 
 Les deux autres sont centrées chacune sur une période historique, un courant esthétique, une forme, un genre ou un auteur.
 
@@ -1200,7 +1200,7 @@ L'épreuve prend fin à l'expiration d'un délai de dix minutes suivant la derni
 
 3° Ecriture pour une formation donnée à partir d'une ligne mélodique d'environ trente mesures
 
-Un programme limitatif renouvelé périodiquement est publié au Bulletin officiel de l'éducation nationale. Il précise deux styles d'écriture définis en référence à des compositeurs, chacun lié à une ou plusieurs formations instrumentales ou vocales ou associant un ou plusieurs instruments à une ou plusieurs voix.
+Un programme limitatif renouvelé périodiquement est publié sur le site internet du ministère chargé de l'éducation nationale. Il précise deux styles d'écriture définis en référence à des compositeurs, chacun lié à une ou plusieurs formations instrumentales ou vocales ou associant un ou plusieurs instruments à une ou plusieurs voix.
 
 Le diapason mécanique est autorisé (durée : six heures ; coefficient 1).
 
@@ -1348,7 +1348,7 @@ A. - Epreuves écrites d'admissibilité
 
 3° Composition portant, au choix du candidat exprimé lors de l'inscription, soit sur l'histoire et la géographie du monde contemporain, soit sur le droit public et la science politique (durée : cinq heures ; coefficient 2).
 
-Le programme sur lequel portent les épreuves écrites d'admissibilité est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme sur lequel portent les épreuves écrites d'admissibilité est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 B. - Epreuves orales d'admission
 
@@ -1366,7 +1366,7 @@ L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
 3° Epreuve de mathématiques et statistique appliquées aux sciences sociales et économiques (durée de la préparation : une heure trente minutes ; durée de l'épreuve : trente minutes ; coefficient 2).
 
-Cette dernière épreuve porte sur un programme publié au Bulletin officiel du ministère de l'éducation nationale.
+Cette dernière épreuve porte sur un programme publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section mécanique
 
@@ -1488,7 +1488,7 @@ Cet exposé est suivi d'un entretien.
 
 Durée de la préparation : cinq heures ; durée de l'épreuve : une heure maximum (exposé : quarante-cinq minutes maximum dont trente minutes maximum pour la présentation des résultats de l'activité expérimentale et quinze minutes maximum pour la présentation de l'exploitation pédagogique ; entretien : quinze minutes maximum) ; coefficient 2.
 
-Le programme du concours est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme du concours est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section génie mécanique
 
@@ -1612,7 +1612,7 @@ Cet exposé est suivi d'un entretien.
 
 Durée de la préparation : sept heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 2.
 
-Le programme du concours est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme du concours est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section génie civil
 
@@ -1758,7 +1758,7 @@ Pendant l'exposé, il doit présenter l'organisation pédagogique de la séquenc
 
 Durée de la préparation : quatre heures maximum ; durée de l'épreuve : une heure maximum (exposé : quarante-cinq minutes maximum dont trente minutes maximum pour la présentation des résultats de l'activité expérimentale et quinze minutes maximum pour la présentation de l'exploitation pédagogique ; entretien : quinze minutes maximum) ; coefficient 1.
 
-Le programme du concours est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme du concours est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section génie électrique
 
@@ -1810,7 +1810,7 @@ Présentation : une heure.
 
 Coefficient 1.
 
-Le programme du concours est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme du concours est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section biochimie - génie biologique
 
@@ -1852,7 +1852,7 @@ Le candidat répond pendant dix minutes à une question, à partir d'un document
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
-Le programme des épreuves est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section économie et gestion (En vigueur à la session 2012 des concours)
 
@@ -1922,7 +1922,7 @@ Durée de la préparation : quatre heures ; durée totale de l'épreuve : une he
 
 Durée de la préparation : quatre heures ; durée totale de l'épreuve : une heure (exposé : quarante minutes maximum ; entretien : vingt minutes maximum) ; coefficient 1.
 
-Le programme des épreuves est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section éducation physique et sportive
 
@@ -1948,13 +1948,13 @@ A partir d'une question posée par le jury, l'épreuve comprend un exposé et un
 
 L'épreuve porte sur les finalités, la planification, la mise en place et l'évaluation de l'enseignement de l'éducation physique et sportive.
 
-A partir d'un dossier fourni par le jury et comportant notamment des documents relatifs au projet d'éducation physique et sportive d'un établissement scolaire du second degré, le candidat devra montrer qu'il a réfléchi aux finalités et à l'évolution de l'éducation physique et sportive et qu'il est informé des conditions dans lesquelles s'effectuent les choix que font les équipes pédagogiques pour déterminer le programme d'enseignement de la discipline dans chaque classe. Il devra pouvoir faire des propositions sur ces questions. Une bibliographie indicative est publiée au Bulletin officiel de l'éducation nationale (durée de la préparation : quatre heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes] ; coefficient 2).
+A partir d'un dossier fourni par le jury et comportant notamment des documents relatifs au projet d'éducation physique et sportive d'un établissement scolaire du second degré, le candidat devra montrer qu'il a réfléchi aux finalités et à l'évolution de l'éducation physique et sportive et qu'il est informé des conditions dans lesquelles s'effectuent les choix que font les équipes pédagogiques pour déterminer le programme d'enseignement de la discipline dans chaque classe. Il devra pouvoir faire des propositions sur ces questions. Une bibliographie indicative est publiée sur le site internet du ministère chargé de l'éducation nationale (durée de la préparation : quatre heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes] ; coefficient 2).
 
 2° L'épreuve se déroule en deux parties :
 
 La première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : cinq heures ; durée de l'épreuve : une heure trente-cinq minutes maximum ; coefficient 3).
 
-Première partie : leçon devant le jury suivie d'un entretien et se référant à un programme limitatif d'activités physiques et sportives. Ce programme peut être assorti d'une bibliographie indicative publiée au Bulletin officiel de l'éducation nationale (leçon : trente minutes maximum ; entretien : quarante-cinq minutes).
+Première partie : leçon devant le jury suivie d'un entretien et se référant à un programme limitatif d'activités physiques et sportives. Ce programme peut être assorti d'une bibliographie indicative publiée sur le site internet du ministère chargé de l'éducation nationale (leçon : trente minutes maximum ; entretien : quarante-cinq minutes).
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
@@ -1972,8 +1972,4 @@ L'épreuve est appréciée pour moitié sur la prestation physique et pour moiti
 
 Réalisation par le candidat d'une prestation physique dans une activité physique et sportive choisie, au moment de l'inscription, parmi celles figurant dans un programme défini chaque année. L'activité choisie pour cette épreuve doit être différente de celle retenue pour la troisième épreuve d'admission (coefficient 1).
 
-Les programmes et la bibliographie indicative prévus pour certaines épreuves sont publiés chaque année au Bulletin officiel du ministère de l'éducation nationale.
-
-NOTA :
-
-Arrêté du 6 janvier 2011 article 14 : Les présentes dispositions prennent effet à la session 2012 des concours.
+Les programmes et la bibliographie indicative prévus pour certaines épreuves sont publiés chaque année sur le site internet du ministère chargé de l'éducation nationale.

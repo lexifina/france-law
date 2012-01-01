@@ -2,7 +2,7 @@
 
 ÉPREUVES DU CONCOURS EXTERNE DU CAPET
 
-Des compléments d'information sur la nature et les programmes des épreuves font l'objet, en tant que de besoin, de notes publiées au Bulletin officiel du ministère de l'éducation nationale.
+Des compléments d'information sur la nature et les programmes des épreuves font l'objet, en tant que de besoin, de notes publiées sur le site internet du ministère chargé de l'éducation nationale.
 
 Section arts appliqués
 
@@ -414,7 +414,7 @@ En utilisant les moyens courants de présentation (vidéoprojecteur et informati
 
 Pendant l'entretien, le jury conduit des investigations destinées à se conforter dans l'idée que le dossier présenté résulte bien d'un travail personnel du candidat et s'en faire préciser certains points.
 
-Les éléments constitutifs du dossier sont précisés par note publiée au Bulletin officiel de l'éducation nationale.
+Les éléments constitutifs du dossier sont précisés par note publiée sur le site internet du ministère chargé de l'éducation nationale.
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs avant le début des épreuves d'admission.
 

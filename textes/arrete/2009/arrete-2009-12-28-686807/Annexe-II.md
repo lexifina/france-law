@@ -314,17 +314,17 @@ Durée de la préparation : deux heures ; durée de l'épreuve : une heure et qu
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 
-Le programme de mathématiques, valable pour trois années, est publié au Bulletin officiel du ministère de l'éducation nationale.
+Le programme de mathématiques, valable pour trois années, est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Section sciences physiques et chimiques
 
-A. - Epreuve d'admissibilité
+A. - Epreuve d'admissibilitéf
 
 Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1), portant au choix du candidat au moment de l'inscription soit sur la physique, soit sur la chimie.
 
 B. - Epreuves d'admission
 
-Epreuve professionnelle. Cette épreuve s'appuie sur un thème de physique et sur un thème de chimie, pris chacun dans une liste publiée au Bulletin officiel de l'éducation nationale et tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
+Epreuve professionnelle. Cette épreuve s'appuie sur un thème de physique et sur un thème de chimie, pris chacun dans une liste publiée sur le site internet du ministère chargé de l'éducation nationale et tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
 
 L'épreuve peut faire appel à l'emploi des technologies d'information et de communication pour l'enseignement (TICE). Elle comporte deux parties suivies d'un entretien avec le jury :
 
