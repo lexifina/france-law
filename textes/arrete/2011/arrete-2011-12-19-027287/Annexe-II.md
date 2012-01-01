@@ -1,6 +1,6 @@
-# Article Annexe I
+# Article Annexe II
 
-TABLEAU DES VOLUMES PRÉLEVÉS PAR UNITÉ DE GRANDEUR CARACTÉRISTIQUE DE L'ACTIVITÉ
+TABLEAU DES VOLUMES PRÉLEVÉS PAR UNITÉ DE GRANDEUR CARACTÉRISTIQUE
 
 USAGES
 
@@ -10,9 +10,7 @@ ACTIVITÉ
 
 |
 
-GRANDEUR
-
-caractéristique
+GRANDEUR CARACTÉRISTIQUE
 
 de l'activité
 
@@ -20,13 +18,9 @@ de l'activité
 
 VOLUME PRÉLEVÉ
 
-par unité de grandeur
+par unité de grandeur caractéristique.
 
-caractéristique
-
-Modalités de calcul
-
-du volume prélevé
+Modalités de calcul du volume prélevé
 
 |
 
@@ -38,11 +32,11 @@ Distribution d'eau potable.
 
 |
 
-Habitant (population permanente majorée définie en application de l'article L. 2334-2 du CGCT).
+Habitant (population totale majorée définie en application de l'article L. 2334-2 du CGCT).
 
 |
 
-85 m³/an/habitant, les volumes vendus en gros à des usagers non domestiques et à d'autres services étant ajoutés.
+85 m³/an/habitant, les volumes vendus à des usagers non domestiques et aux usagers assimilés domestiques (définis à l'article L. 1331-7-1 du code de la santé publique) étant ajoutés et les volumes achetés étant retranchés.
 
 |
 
@@ -108,7 +102,7 @@ Hectare arrosé pendant l'année.
 
 |
 
-Arrosage de terrains par d'autres procédés que l'aspersion
+Arrosage de terrains par d'autres procédés que l'aspersion.
 
 |
 
@@ -144,6 +138,36 @@ Tonne de matériaux extraits ou lavés.
 
 |
 
-0,1 m³/t.
+1 m³/t/an.
+
+|
+
+|
+
+Extraction de matériaux en fouille fermée.
+
+|
+
+Tonne de matériaux extraits.
+
+|
+
+0,1 m³/t/an.
+
+|
+
+Alimentation d'un canal de navigation
+
+|
+
+Alimentation d'un canal de navigation.
+
+|
+
+Kilomètre linéaire de canal.
+
+|
+
+1,54 Mm³/km linéaire/an.
 
 |
