@@ -1,0 +1,43 @@
+# Article Annexe I
+
+CLASSEMENT DES POSTES COMPTABLES DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES
+
+CATÉGORIE DU POSTE COMPTABLE
+
+|
+
+NOMBRE DE POSTES
+
+|
+
+Groupe 1
+
+|
+
+1589
+
+|
+
+Groupe 2
+
+|
+
+1 547
+
+|
+
+Groupe 3
+
+|
+
+1 077
+
+|
+
+Groupe 4
+
+|
+
+1873
+
+|
