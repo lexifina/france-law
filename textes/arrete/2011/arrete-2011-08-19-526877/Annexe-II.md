@@ -1,4 +1,4 @@
-# Article ANNEXE 3
+# Article Annexe II
 
 NOTICE D'INFORMATION
 
@@ -42,7 +42,7 @@ Pour éviter que votre enfant ne s'intoxique :
 
 En cas de travaux portant sur des revêtements contenant du plomb, prenez des précautions :
 
-- si vous confiez les travaux à une entreprise, remettez-lui une copie du constat du risque d'exposition au plomb, afin qu'elle mette en oeuvre les mesures de prévention adéquates ;
+- si vous confiez les travaux à une entreprise, remettez-lui une copie du constat du risque d'exposition au plomb, afin qu'elle mette en œuvre les mesures de prévention adéquates ;
 
 - tenez les jeunes enfants éloignés du logement pendant toute la durée des travaux ; avant tout retour d'un enfant après travaux, les locaux doivent avoir été parfaitement nettoyés ;
 
@@ -54,4 +54,4 @@ Si vous êtes enceinte :
 
 - éloignez-vous de tous travaux portant sur des revêtements contenant du plomb.
 
-Si vous craignez qu'il existe un risque pour votre santé ou celle de votre enfant, parlez-en à votre médecin (généraliste, pédiatre, médecin de protection maternelle et infantile, médecin scolaire) qui prescrira, s'il le juge utile, un dosage de plomb dans le sang (plombémie). Des informations sur la prévention du saturnisme peuvent être obtenues auprès des directions départementales de l'équipement ou des directions départementales des affaires sanitaires et sociales, ou sur les sites internet des ministères chargés de la santé et du logement.
+Si vous craignez qu'il existe un risque pour votre santé ou celle de votre enfant, parlez-en à votre médecin (généraliste, pédiatre, médecin de protection maternelle et infantile, médecin scolaire) qui prescrira, s'il le juge utile, un dosage de plomb dans le sang (plombémie). Des informations sur la prévention du saturnisme peuvent être obtenues auprès des directions départementales des territoires, des agences régionales de la santé ou des services communaux d'hygiène et de santé, ou sur les sites internet des ministères chargés de la santé et du logement.
