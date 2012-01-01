@@ -14,7 +14,7 @@ SOUS-INDICE
 
 |
 
-0 à 9
+0 à 6
 
 |
 
@@ -22,7 +22,7 @@ SOUS-INDICE
 
 |
 
-10-19
+7-13
 
 |
 
@@ -30,7 +30,7 @@ SOUS-INDICE
 
 |
 
-20-29
+14-20
 
 |
 
@@ -38,7 +38,7 @@ SOUS-INDICE
 
 |
 
-30-39
+21-27
 
 |
 
@@ -46,7 +46,7 @@ SOUS-INDICE
 
 |
 
-40-49
+28-34
 
 |
 
@@ -54,7 +54,7 @@ SOUS-INDICE
 
 |
 
-50-64
+35-41
 
 |
 
@@ -62,7 +62,7 @@ SOUS-INDICE
 
 |
 
-65-79
+42-49
 
 |
 
@@ -70,7 +70,7 @@ SOUS-INDICE
 
 |
 
-80-99
+50-64
 
 |
 
@@ -78,7 +78,7 @@ SOUS-INDICE
 
 |
 
-100-124
+65-79
 
 |
 
@@ -86,10 +86,14 @@ SOUS-INDICE
 
 |
 
-≥ 125
+80
 
 |
 
 10
 
 |
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 10 juillet 2020, ces dispositions s'appliquent à compter du 1er janvier 2021.
