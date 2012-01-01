@@ -2,7 +2,7 @@
 
 OPTIONS DE LA DEUXIÈME ÉPREUVE D'ADMISSIBILITÉ
 
-ET DE LA PREMIÈRE ÉPREUVE D'ADMISSION DU CONCOURS INTERNE
+DU CONCOURS INTERNE
 
 A.-Options proposées aux candidats concourant pour les spécialités Archéologie, Archives, Monuments historiques et Inventaire, Musées :
 
@@ -18,9 +18,7 @@ Histoire de l'art et des civilisations du Moyen Age européen et de Byzance du v
 
 Histoire de l'art et des civilisations de l'Europe du xve siècle à la fin du XVIIIe siècle ;
 
-Histoire de l'art et des civilisations dans le monde occidental de la fin du XVIIIe siècle à 1914 ;
-
-Histoire de l'art et des civilisations dans le monde occidental de 1905 à nos jours ;
+Histoire de l'art et des civilisations dans le monde occidental de la fin du xviiie siècle à nos jours
 
 Archéologie et histoire de l'art et des civilisations de l'Egypte antique ;
 
@@ -40,14 +38,16 @@ Archéologie et histoire de l'art et des civilisations des Amériques amérindie
 
 Ethnologie européenne ;
 
-Patrimoine industriel et innovations scientifiques et techniques ;
+Histoire des techniques et patrimoine industriel
 
 Histoire des institutions françaises.
 
 B.-Options proposées aux candidats concourant pour la spécialité Patrimoine scientifique, technique et naturel :
 
-Patrimoine industriel et innovations scientifiques et techniques ;
+Histoire des techniques et patrimoine industriel
 
-Patrimoine et sciences physique, chimique et de l'ingénieur ;
+Patrimoine et sciences de la nature
 
-Patrimoine naturel.
+NOTA :
+
+Décret n° 2011-1100 du 9 septembre 2011 article 8 : Les dispositions du présent décret sont applicables aux concours organisés à compter de l'année 2012.
