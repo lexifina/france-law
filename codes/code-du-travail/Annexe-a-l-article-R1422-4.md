@@ -2,7 +2,7 @@
 
 TABLEAU C
 
-EN VIGUEUR AU 1er JANVIER 2011
+EN VIGUEUR AU 1er JANVIER 2012
 
 SIEGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
@@ -16,7 +16,7 @@ de grande instance
 
 |
 
-SIÈGE ET RESSORT DES CONSEILs DE PRUD'HOMMES
+SIÈGE ET RESSORT DES CONSEILS DE PRUD'HOMMES
 
 |
 
@@ -404,9 +404,7 @@ Angers
 
 |
 
-Ressort des tribunaux d'instance d'Angers et Cholet.
-
-|
+Ressort des tribunaux d'instance d'Angers et de Cholet.
 
 |
 
@@ -416,7 +414,11 @@ Saumur
 
 |
 
-Ressort du tribunal d'instance de Saumur.
+Saumur
+
+|
+
+Ressort du tribunal de grande instance de Saumur.
 
 |
 
@@ -1424,13 +1426,15 @@ Ressort du tribunal d'instance de Brive.
 
 |
 
+Tulle
+
 |
 
 Tulle
 
 |
 
-Ressort du tribunal d'instance de Tulle.
+Ressort du tribunal de grande instance de Tulle.
 
 |
 
@@ -2870,9 +2874,7 @@ Toulouse
 
 |
 
-Ressort des tribunaux d'instance de Muret et Toulouse.
-
-|
+Ressort des tribunaux d'instance de Muret et de Toulouse.
 
 |
 
@@ -2882,7 +2884,11 @@ Saint-Gaudens
 
 |
 
-Ressort du tribunal d'instance de Saint-Gaudens
+Saint-Gaudens
+
+|
+
+Ressort du tribunal de grande instance de Saint-Gaudens.
 
 |
 
@@ -3142,7 +3148,7 @@ Ressort du tribunal de grande instance de Pointe-à-Pitre.
 
 |
 
-Cour d'appel de Fort-de-France
+Cour d'appel de Cayenne
 
 |
 
@@ -3159,6 +3165,12 @@ Cayenne
 |
 
 Ressort du tribunal de grande instance de Cayenne.
+
+|
+
+Cour d'appel de Fort-de-France
+
+|
 
 |
 
