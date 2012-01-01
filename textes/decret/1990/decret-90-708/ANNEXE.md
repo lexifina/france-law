@@ -44,7 +44,7 @@ Experts techniques des services techniques.
 
 Dessinateurs (service de l’équipement).
 
-Géomètres de l’Institut géographique national.
+Géomètres de l’Institut national de l'information géographique et forestière.
 
 Ingénieurs de l’aviation civile.
 
@@ -70,7 +70,7 @@ Assistants et assistantes de service social.
 
 Ministère de l’économie, des finances et du budget
 
-Administrateurs de l’Institut national de la statistique et des études économiques.
+Administrateurs de l'Institut national de la statistique et des études économiques
 
 Inspecteurs des douanes.
 

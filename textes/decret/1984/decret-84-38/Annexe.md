@@ -278,11 +278,11 @@ Emplois de catégories A, B, C et D.
 
 |
 
-Institut géographique national
+Institut national de l'information géographique et forestière
 
 |
 
-Institut géographique national : emplois de catégories A, B et C dans le secteur commercial, de la mercatique et de la communication ; emplois de catégories A et B dans le domaine aéronautique ; emplois de catégorie A dans les nouvelles technologies informatiques ; emplois de catégorie A de juriste expert dans le droit des affaires.
+Institut national de l'information géographique et forestière : emplois de catégories A, B et C dans le secteur commercial, de la mercatique et de la communication ; emplois de catégories A et B dans le domaine aéronautique ; emplois de catégorie A dans les nouvelles technologies informatiques ; emplois de catégorie A de juriste expert dans le droit des affaires.
 
 |
 
@@ -302,7 +302,7 @@ Emplois des catégories A, B, C et D.
 
 |
 
-Institution nationale des invalides
+Institution nationale des invalides.
 
 |
 

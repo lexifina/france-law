@@ -284,7 +284,7 @@ Elève ingénieur des travaux publics de l'Etat (service de l'équipement) 340-3
 
 (1) Après 1 an.
 
-V. Institut géographique national
+V. Institut national de l'information géographique et forestière
 
 Supprimer la mention :
 
@@ -354,9 +354,9 @@ I. Aviation civile
 
 C. Services déconcentrés
 
-1. Personnels administratifs
+1. Personnels administratifsSupprimer
 
-Supprimer les mentions :
+les mentions :
 
 Chef adjoint de service administratif 597-780
 

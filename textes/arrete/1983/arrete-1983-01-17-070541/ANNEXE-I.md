@@ -32,7 +32,7 @@ Brevet de technicien, spécialité dessinateur en arts appliqués.
 
 Brevet ou brevet supérieur de collaborateur d'architecte ;
 
-Diplôme de la section Bâtiment des écoles d'art (D.S.B.E.A.) ;
+Diplôme de la section Bâtiment des écoles d'art (D. S. B. E. A.) ;
 
 Brevet de technicien, spécialité collaborateur d'architecte ;
 
@@ -94,7 +94,7 @@ Dessinateur projeteur en constructions métalliques.
 
 6° Autres diplômes.
 
-Diplômes ci-après délivrés par l'Ecole nationale des sciences géographiques (Institut géographique national).
+Diplômes ci-après délivrés par l'Ecole nationale des sciences géographiques ( Institut national de l'information géographique et forestière).
 
 Certificat de fin d'études de technicien cartographe (niveau IV) ;
 

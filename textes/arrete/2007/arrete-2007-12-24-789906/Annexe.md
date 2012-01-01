@@ -72,7 +72,7 @@ Etablissement public du musée du quai Branly.
 
 INRP : Institut national de recherche pédagogique.
 
-IGN : Institut géographique national.
+IGN : Institut national de l'information géographique et forestière.
 
 IFEN : Institut français de l'environnement.
 
@@ -114,7 +114,7 @@ Fondation Cgenial.
 
 Fondation bâtiment énergie.
 
-Fondation Cur et artères.
+Fondation C  ur et artères.
 
 Fondation de la Banque de France pour la recherche en économie monétaire, financière et bancaire.
 

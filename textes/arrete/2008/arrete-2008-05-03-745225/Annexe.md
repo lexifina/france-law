@@ -158,11 +158,11 @@ W.-Chacun des établissements publics suivants :
 
 12° L'Etablissement public de sécurité ferroviaire ;
 
-13° L'Institut géographique national ;
+13° L' Institut national de l'information géographique et forestière ;
 
 14° L'Institut national de recherche sur les transports et leur sécurité ;
 
-15° L' Institut français des sciences et technologies des transports, de l'aménagement et des réseaux ;
+15° L'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux ;
 
 16° Météo-France ;
 
@@ -174,7 +174,7 @@ W.-Chacun des établissements publics suivants :
 
 20° Les parcs nationaux de France (Port-Cros, Vanoise, Pyrénées, Cévennes, Ecrins, Mercantour, Guyane, Guadeloupe et Réunion).
 
-Ce qui est indiqué ci-dessus vaut sous réserve d'effectifs suffisants dans chacun des établissements cités au regard des règles de confidentialité des votes (si le nombre d'électeurs est insuffisant, ils seront rattachés au bureau de vote central).
+Ce qui est indiqué ci-dessus vaut sous réserve d'effectifs suffisants dans chacun des établissements cités au regard des règles de confidentialité des votes (si le nombre d'électeurs est insuffisant, ils seront rattachés au bureau de vote central) .
 
 X.-Des bureaux de vote spéciaux sont institués dans chacun des services ou directions d'administration centrale suivantes :
 
@@ -211,3 +211,7 @@ X.-Des bureaux de vote spéciaux sont institués dans chacun des services ou dir
 16° Direction générale de l'énergie et des matières premières, pour tous les agents qui y exercent leurs fonctions, y compris ceux affectés au service technique de l'énergie électrique et des grands barrages ;
 
 17° Direction générale des entreprises.
+
+NOTA :
+
+Décret n° 2013-1273 du 27 décembre 2013, article 26 : Dans tous les textes réglementaires en vigueur qui les mentionnent, les mots : "centre d'études techniques de l'équipement", "centre d'études techniques de l'équipement de l'Est", "centre d'études techniques de l'équipement de Lyon", "centre d'études techniques de l'équipement Méditerranée", "centre d'études techniques de l'équipement Normandie Centre", "centre d'études techniques de l'équipement Nord-Picardie", "centre d'études techniques de l'équipement de l'Ouest", "centre d'études techniques de l'équipement Sud-Ouest", "centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques", "centre d'études techniques maritimes et fluviales" et "service d'études sur les transports, les routes et leurs aménagements" sont remplacés par les mots : "centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement".

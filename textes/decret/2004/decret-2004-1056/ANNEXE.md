@@ -10,7 +10,7 @@ leur affiliation au régime
 
 |
 
-I. - Ministère de l'intérieur
+I.-Ministère de l'intérieur
 
 |
 
@@ -22,7 +22,7 @@ Décret n° 92-734 du 27 juillet 1992 relatif à l'affiliation du personnel ouvr
 
 |
 
-II. - Ministère de la défense
+II.-Ministère de la défense
 
 |
 
@@ -108,7 +108,7 @@ Ouvriers de la société nationale GIAT industries.
 
 |
 
-Loi n° 89-924 du 24 décembre 1989 autorisant le transfert à une société nationale des établissements industriels dépendant du Groupement industriel des armements terrestres (GIAT) (art. 6 [ b]).
+Loi n° 89-924 du 24 décembre 1989 autorisant le transfert à une société nationale des établissements industriels dépendant du Groupement industriel des armements terrestres (GIAT) (art. 6 [b]).
 
 |
 
@@ -128,7 +128,7 @@ Décret n° 2002-832 du 3 mai 2002 relatif à la situation des personnels de l'E
 
 |
 
-III. - Ministère de l'éducation nationale et de la recherche
+III.-Ministère de l'éducation nationale et de la recherche
 
 |
 
@@ -148,7 +148,7 @@ Décret n° 47-2097 du 22 octobre 1947 fixant le statut du personnel ouvrier des
 
 |
 
-IV. - Ministère de l'économie, des finances et de l'industrie
+IV.-Ministère de l'économie, des finances et de l'industrie
 
 |
 
@@ -192,7 +192,7 @@ Loi n° 93-1419 du 31 décembre 1993 relative à l'Imprimerie nationale (art. 4)
 
 |
 
-V. - Ministère de l'équipement, des transports et du logement
+V.-Ministère de l'équipement, des transports et du logement
 
 |
 
@@ -214,15 +214,15 @@ Décret n° 83-727 du 1er août 1983 relatif à l'affiliation du personnel ouvri
 
 |
 
-Personnel ouvrier de l'Institut géographique national.
+Personnel ouvrier de l' Institut national de l'information géographique et forestière.
 
 |
 
-Décret n° 84-670 du 17 juillet 1984 relatif à l'affiliation du personnel ouvrier de l'Institut géographique national au régime des pensions des ouvriers des établissements industriels de l'Etat.
+Décret n° 84-670 du 17 juillet 1984 relatif à l'affiliation du personnel ouvrier de l' Institut national de l'information géographique et forestière au régime des pensions des ouvriers des établissements industriels de l'Etat.
 
 |
 
-VI.- Ministère de l'agriculture
+VI.-Ministère de l'agriculture
 
 |
 

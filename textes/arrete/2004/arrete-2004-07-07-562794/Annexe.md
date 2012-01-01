@@ -1,6 +1,6 @@
 # Article Annexe
 
-Le programme et les barèmes des épreuves d'éducation physique du concours de recrutement des techniciens géomètres stagiaires de l'Institut géographique national sont fixés comme suit :
+Le programme et les barèmes des épreuves d'éducation physique du concours de recrutement des techniciens géomètres stagiaires de l' Institut national de l'information géographique et forestière sont fixés comme suit :
 
 Barème de l'épreuve d'exercices physiques
 
@@ -670,7 +670,7 @@ POIDS
 
 |
 
-10, 8
+10,8
 
 |
 

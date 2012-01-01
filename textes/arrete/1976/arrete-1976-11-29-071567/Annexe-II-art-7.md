@@ -12,7 +12,7 @@ Un plan de situation au cinq cent millième ;
 
 Un plan au cent millième de la zone sur laquelle est demandé le permis.
 
-Ces plans doivent être établis sur les documents cartographiques les plus récents publiés par l'institut géographique national, lorsqu'il existe.
+Ces plans doivent être établis sur les documents cartographiques les plus récents publiés par l' Institut national de l'information géographique et forestière, lorsqu'il existe.
 
 Toutefois, pour le permis d'une surface supérieure à 100000 hectares, le premier plan seul sera demandé.
 
@@ -38,14 +38,14 @@ En outre, pour les permis d'explorer visés au chapitre II d'une superficie sup�
 
 Pour les permis d'exploitation visés au chapitre III d'une superficie supérieure à 10000 hectares, le demandeur devra joindre à son dossier les pièces suivantes :
 
-- un rapport technique sur les projets d'exploitation et les projets industriels à l'aval de l'exploitation forestière :
+-un rapport technique sur les projets d'exploitation et les projets industriels à l'aval de l'exploitation forestière :
 
-- un dossier de références professionnelles ;
+-un dossier de références professionnelles ;
 
-- un rapport financier contenant :
+-un rapport financier contenant :
 
-- un tableau des investissements prévus et des moyens de financement envisagés ;
+-un tableau des investissements prévus et des moyens de financement envisagés ;
 
-- un compte prévisionnel d'exploitation ;
+-un compte prévisionnel d'exploitation ;
 
-- un bilan prévisionnel.
+-un bilan prévisionnel.

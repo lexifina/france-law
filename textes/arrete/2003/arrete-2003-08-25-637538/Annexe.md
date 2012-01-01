@@ -26,7 +26,7 @@ MIDI-PYRENEES
 
 |
 
-NORD - PAS-DE-CALAIS
+NORD-PAS-DE-CALAIS
 
 |
 
@@ -1316,7 +1316,7 @@ DULE
 
 |
 
-Les directions régionales de l'environnement (DIREN) hors DREAL, les directions interrégionales et régionales de l'établissement public Météo-France, les directions régionales des affaires maritimes, les unités interrégionales et régionales de l'établissement public Institut géographique national et les services départementaux de l'architecture bénéficient du coefficient attribué aux directions départementales de l'équipement au siège de leur résidence. Les directions territoriales de Météo-France dans les territoires d'outre-mer bénéficient du coefficient 1,00. La direction interrégionale d'Ile-de-France de l'établissement public Météo-France bénéficie du coefficient de 1,10 attribué aux services de la direction générale et des directions de centrale de ce même établissement.
+Les directions régionales de l'environnement (DIREN) hors DREAL, les directions interrégionales et régionales de l'établissement public Météo-France, les directions régionales des affaires maritimes, les unités interrégionales et régionales de l'établissement public Institut national de l'information géographique et forestière et les services départementaux de l'architecture bénéficient du coefficient attribué aux directions départementales de l'équipement au siège de leur résidence. Les directions territoriales de Météo-France dans les territoires d'outre-mer bénéficient du coefficient 1,00. La direction interrégionale d'Ile-de-France de l'établissement public Météo-France bénéficie du coefficient de 1,10 attribué aux services de la direction générale et des directions de centrale de ce même établissement.
 
 Les coefficients de modulation pour ce qui concerne les directions régionales de l'équipement et les directions interdépartementales des routes sont les suivants :
 
@@ -1564,7 +1564,7 @@ SERVICE DE LA NAVIGATION DU NORD-EST (NANCY)
 
 |
 
-SERVICE DE LA NAVIGATION DU NORD - PAS-DE-CALAIS
+SERVICE DE LA NAVIGATION DU NORD-PAS-DE-CALAIS
 
 |
 
@@ -2036,7 +2036,7 @@ Agents en position d'activité dans les directions générales, les directions e
 
 |
 
-Agents en position d'activité dans les services des directions générales et des directions centrales des établissements publics Météo-France et IGN (Institut géographique national), le siège et les centres de l'Institut national de recherche sur les transports et leur sécurité (INRETS), les écoles et les centres interrégionaux de formation professionnelle
+Agents en position d'activité dans les services des directions générales et des directions centrales des établissements publics Météo-France et IGN ( Institut national de l'information géographique et forestière), le siège et les centres de l'Institut national de recherche sur les transports et leur sécurité (INRETS), les écoles et les centres interrégionaux de formation professionnelle
 
 |
 
@@ -2097,3 +2097,5 @@ Les fonctionnaires stagiaires bénéficient du coefficient 1,00, à l'exception 
 NOTA :
 
 Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer (les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
+
+Décret n° 2013-1273 du 27 décembre 2013, article 26 : Dans tous les textes réglementaires en vigueur qui les mentionnent, les mots : "centre d'études techniques de l'équipement", "centre d'études techniques de l'équipement de l'Est", "centre d'études techniques de l'équipement de Lyon", "centre d'études techniques de l'équipement Méditerranée", "centre d'études techniques de l'équipement Normandie Centre", "centre d'études techniques de l'équipement Nord-Picardie", "centre d'études techniques de l'équipement de l'Ouest", "centre d'études techniques de l'équipement Sud-Ouest", "centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques", "centre d'études techniques maritimes et fluviales" et "service d'études sur les transports, les routes et leurs aménagements" sont remplacés par les mots : "centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement".

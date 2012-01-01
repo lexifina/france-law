@@ -260,7 +260,7 @@ C
 
 |
 
-Contrôleur technique dans les services interrégionaux de l'Inventaire forestier national (IFN)
+Contrôleur technique dans les services interrégionaux de l'Institut national de l'information géographique et forestière
 
 |
 
@@ -276,7 +276,7 @@ B
 
 |
 
-Responsable d'un atelier de photo-interprétation dans les services interrégionaux de l'Inventaire forestier national (IFN)
+Responsable d'un atelier de photo-interprétation dans les services interrégionaux de l'Institut national de l'information géographique et forestière
 
 |
 
@@ -292,7 +292,7 @@ B
 
 |
 
-Vérificateur technique dans les services interrégionaux de l'Inventaire forestier national (IFN)
+Vérificateur technique dans les services interrégionaux de l'Institut national de l'information géographique et forestière
 
 |
 
@@ -308,7 +308,7 @@ B
 
 |
 
-Chef d'équipe et adjoint à un chef d'équipe de l'Inventaire forestier national (IFN)
+Chef d'équipe et adjoint à un chef d'équipe de l'Institut national de l'information géographique et forestière
 
 |
 
@@ -710,7 +710,7 @@ De 20 à 30 points d'indice (dans la limite de 1500 points)
 
 |
 
-Adjoint à un chef de bureau ou expert de catégorie A : adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante, ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales ou exerçant des fonctions d'encadrement d'un effectif important et / ou requérant une expérience de spécialiste en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique (2)
+Adjoint à un chef de bureau ou expert de catégorie A : adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante, ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales ou exerçant des fonctions d'encadrement d'un effectif important et/ ou requérant une expérience de spécialiste en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique (2)
 
 |
 

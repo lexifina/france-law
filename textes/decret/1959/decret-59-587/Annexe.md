@@ -338,7 +338,7 @@ Directeur général
 
 |
 
-Groupe Air France S.A.
+Groupe Air France S. A.
 
 |
 
@@ -394,14 +394,6 @@ Président du conseil d'administration
 
 |
 
-Institut géographique national
-
-|
-
-Directeur
-
-|
-
 Institut international d'administration publique
 
 |
@@ -441,6 +433,10 @@ Institut national de la santé et de la recherche médicale
 Directeur général
 
 |
+
+Institut national de l'information géographique et forestière (IGN) |
+
+Directeur général |
 
 Institution nationale des Invalides
 
@@ -542,7 +538,7 @@ Directeur
 
 |
 
-Port autonome de Nantes - Saint-Nazaire
+Port autonome de Nantes-Saint-Nazaire
 
 |
 

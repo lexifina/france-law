@@ -916,7 +916,7 @@ H-classe normale
 
 284-463
 
-V.-Institut géographique national
+V.- Institut national de l'information géographique et forestière
 
 H-technicien géomètre
 
