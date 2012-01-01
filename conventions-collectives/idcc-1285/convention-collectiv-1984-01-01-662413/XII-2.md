@@ -54,9 +54,7 @@ XII. 2. 2. 1. Garanties salariés intermittents cadres
 
 XII. 2. 2. 2. Garanties salariés intermittents cadres : cotisations
 
-XII. 2. 2. 3. Garanties
-
-(1) salariés intermittents cadres : prestations
+XII. 2. 2. 3. Garantiessalariés intermittents cadres : prestations
 
 XII. 2. 2. 4. Cotisations salariés intermittents
 
@@ -86,9 +84,9 @@ XII. 2. 1. 2. Salariés permanents cadres : cotisations
 
 Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, égale à :
 
-― 1, 17 % de la rémunération limitée à la tranche 1, 0, 90 % au titre des garanties décès et 0, 27 % au titre des garanties incapacité-invalidité ;
+- 1,21 % de la rémunération limitée à la tranche T1, 0,90 % au titre des garanties décès et 0,31 % au titre des garanties incapacité-invalidité ;
 
-― 0, 57 % de la rémunération supérieure à la tranche 1 et limitée à la tranche 2 au titre des garanties incapacité-invalidité.
+- 0,66 % de la rémunération supérieure à la tranche T1 et limitée à la tranche T2 au titre des garanties incapacité-invalidité.
 
 Les parties rappellent que le financement patronal des garanties des salariés cadres peut s'imputer sur l'obligation prévue à l'article 7 de la convention collective interprofessionnelle du 14 mars 1947, étant précisé que l'obligation de financement de garanties de prévoyance prévue par cette convention doit être affectée par priorité à la garantie décès.
 
@@ -156,11 +154,7 @@ Ce régime s'applique à l'ensemble des salariés permanents non cadres sous con
 
 XII. 2. 1. 5. Salariés permanents non cadres (cotisations)
 
-Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, égale à :
-
-― 0, 87 % de la rémunération limitée à la tranche 1, 0, 50 % au titre des garanties décès ;
-
-― et 0, 37 % au titre des garanties incapacité-invalidité.
+Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, égale à 0,93 % de la rémunération limitée à la tranche T1, 0,50 % au titre des garanties décès et 0,43 % au titre des garanties incapacité-invalidité.
 
 XII. 2. 1. 6. Salariés permanents non cadres (prestations)
 
@@ -226,15 +220,21 @@ Ce régime s'applique à l'ensemble des salariés permanents non cadres et cadre
 
 XII. 2. 1. 8. Cotisations
 
-Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, pour les salariés permanents cadres, égale à :
+Les entreprises doivent acquitter une cotisation entièrement à la charge de l'employeur, pour les salariés permanents cadres, égale au 1er janvier 2012 à :
 
-― 0, 78 % de la rémunération limitée à la tranche 1 ;
+- 0,81 % de la rémunération limitée à la tranche T1 ;
 
-― 0, 38 % de la rémunération supérieure à la tranche 1 et limitée à la tranche 2.
+- 0,39 % de la rémunération supérieure à la tranche T1 et limitée à la tranche T2.
 
-Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, pour les salariés permanents non cadres, égale à :
+Cette cotisation étant assujettie à diverses taxes, elle se répartit de la façon suivante :
 
-― 0, 58 % de la rémunération limitée à la tranche 1.
+- sur la rémunération limitée à la tranche T1 : 0,72 % au titre de la cotisation d'assurance + 0,09 % de taxes ;
+
+- sur la rémunération supérieure à la tranche T1 et limitée à la tranche T2 : 0,34 % au titre de la cotisation d'assurance + 0,05 % de taxes.
+
+Il en va de même pour les salariés permanents non cadres, au titre desquels les entreprises doivent acquitter une cotisation entièrement à la charge de l'employeur, égale au 1er janvier 2012 à 0,60 % de la rémunération limitée à la tranche T1.
+
+Cette cotisation étant assujettie à diverses taxes, elle se répartit de la façon suivante : sur la rémunération limitée à la tranche T1 : 0,53 % au titre de la cotisation d'assurance + 0,07 % de taxes.
 
 XII. 2. 1. 9. Prestations
 
@@ -356,8 +356,6 @@ Les parties rappellent que les organismes assureurs doivent, conformément à l'
 
 XII. 2. 3. 2. Mutualisation du risque
 
-(2)
-
 L'adhésion des entreprises à l'organisme assureur désigné au présent article et l'affiliation des salariés résultent du présent accord et ont un caractère strictement obligatoire.
 
 Les entreprises sont tenues de régulariser administrativement l'adhésion de leurs salariés auprès de l'organisme visé au présent article, en retournant le bulletin d'adhésion visé à l'article R. 932-1-3 du code de la sécurité sociale, dument rempli.
@@ -399,11 +397,3 @@ Il pourra être révisé selon les règles prévues aux articles L. 2222-5, L. 2
 Le présent accord sera déposé en 2 exemplaires (une version sur support papier signée des parties et une version sur support électronique) auprès des services centraux du ministre chargé du travail, dans les conditions prévues aux articles L. 2231-6 et D. 2231-2 et suivants du code du travail.
 
 En outre, un exemplaire sera établi pour chaque partie. ”
-
-(1) Article étendu sous réserve de l'application des dispositions combinées des articles L. 2221-1 et L. 2261-19 du code du travail, qui disposent d'une part que l'objet des relations des conventions est la détermination des relations collectives entre employeurs et salariés, notamment en ce qui concerne les garanties sociales des salariés et d'autre part que pour pouvoir être étendus, la convention de branche, leurs avenants ou annexes doivent avoir été négociés et conclus en commission paritaire.
-
-(Arrêté du 23 décembre 2009, art. 1er)
-
-(2) Article étendu sous réserve de l'application de l'article L. 912-1 du code de la sécurité sociale qui pose en son premier alinéa le principe de l'adhésion obligatoire à l'organisme assureur désigné et au second alinéa l'obligation d'adapter les couvertures d'entreprises souscrites antérieurement et offrant des garanties de niveau équivalent. Ainsi la possibilité de ne pas adhérer au régime de branche se limite aux seules entreprises qui disposent, risque par risque, d'une couverture prévoyance de niveau strictement supérieur.
-
-(Arrêté du 23 décembre 2009, art. 1er)
