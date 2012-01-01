@@ -54,6 +54,26 @@ Ressort du tribunal de grande instance de Pointe-à-Pitre
 
 |
 
+Cour d'appel de Cayenne
+
+|
+
+Guyane
+
+|
+
+Cayenne
+
+|
+
+Cayenne
+
+|
+
+Ressort du tribunal de grande instance de Cayenne
+
+|
+
 Cour d'appel de Fort-de-France
 
 |
@@ -71,22 +91,6 @@ Fort-de-France
 |
 
 Ressort du tribunal de grande instance de Fort-de-France
-
-|
-
-Guyane
-
-|
-
-Cayenne
-
-|
-
-Cayenne
-
-|
-
-Ressort du tribunal de grande instance de Cayenne
 
 |
 

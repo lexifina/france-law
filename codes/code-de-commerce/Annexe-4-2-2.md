@@ -10,9 +10,7 @@ de grande instance
 
 |
 
-RESSORT
-
-|
+RESSORT |
 
 Marseille.
 
@@ -42,7 +40,7 @@ Fort-de-France.
 
 |
 
-Le ressort des cours d'appel de Basse-Terre et de Fort-de-France.
+Le ressort des cours d'appel de Basse-Terre, de Cayenne et de Fort-de-France.
 
 |
 

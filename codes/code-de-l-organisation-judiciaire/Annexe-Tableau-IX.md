@@ -702,6 +702,18 @@ Ressort des tribunaux d'instance d'Alençon, Argentan et Flers. (4)]
 
 |
 
+Cour d'appel de Cayenne (Guyane)
+
+|
+
+Cayenne
+
+|
+
+Ressort du tribunal d'instance de Cayenne.
+
+|
+
 Cour d'appel de Chambéry
 
 |
@@ -1042,39 +1054,15 @@ Ressort des tribunaux d'instance de Boulogne-sur-Mer, Calais, Montreuil et Saint
 
 |
 
-Cour d'appel de Fort-de-France
+Cour d'appel de Fort-de-France (Martinique)
 
 |
 
-Guyane
+Fort-de-France
 
 |
 
-Cayenne
-
-|
-
-Ressort du tribunal d'instance de Cayenne.
-
-|
-
-Martinique
-
-|
-
-[Fort-de-France
-
-|
-
-Ressort des tribunaux d'instance de Fort-de-France et Le Lamentin. (3)]
-
-|
-
-[Fort-de-France
-
-|
-
-Ressort du tribunal d'instance de Fort-de-France. (4)]
+Ressort du tribunal d'instance de Fort-de-France.
 
 |
 
@@ -2754,9 +2742,7 @@ Mayotte
 
 |
 
-Mamoudzou
-
-|
+Mamoudzou |
 
 Ressort du tribunal d'instance de Mamoudzou
 

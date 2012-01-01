@@ -6,9 +6,7 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 
 SIÈGE DES TRIBUNAUX DE COMMERCE
 
-et des tribunaux mixtes
-
-de commerce
+et des tribunaux mixtes de commerce
 
 |
 
@@ -44,7 +42,7 @@ Fort-de-France.
 
 |
 
-Le ressort des cours d'appel de Basse-Terre et de Fort-de-France.
+Le ressort des cours d'appel de Basse-Terre, de Cayenne et de Fort-de-France.
 
 |
 

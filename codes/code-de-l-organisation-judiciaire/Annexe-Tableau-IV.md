@@ -1424,9 +1424,7 @@ Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bour
 
 Saint-Amand-MontrondCantons |
 
-de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier.
-
-|
+de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier. |
 
 [Vierzon
 
@@ -1572,7 +1570,7 @@ Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize, Cabourg, Caen 1
 
 |
 
-Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9° canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)]
+Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)]
 
 |
 
@@ -1781,6 +1779,32 @@ Cantons d'Athis-de-l'Orne, Domfront, Flers-Nord, Fiers-Sud, Juvigny sous-Andaine
 |
 
 Cantons d'Athis-de-l'Ome, Domfront, Flers-Nord, Fiers-Sud, Juvigny sous-Andaine, La Ferté-Macé, Messei, Passais et Tinchebray. (4)]
+
+|
+
+Cour d'appel de Cayenne
+
+|
+
+Cayenne
+
+|
+
+Cayenne
+
+|
+
+Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest,
+
+Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest,
+
+Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne
+
+6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula,
+
+Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura,
+
+Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.
 
 |
 
@@ -2556,27 +2580,7 @@ Cantons d'Aire-sur-la-Lys, Ardres, Arques, Audruicq, Fauquembergues, Lumbres, Sa
 
 |
 
-Cour d'appel de Fort-de-France
-
-|
-
-Guyane
-
-|
-
-Cayenne
-
-|
-
-Cayenne
-
-|
-
-Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.
-
-|
-
-Martinique
+Cour d'appel de Fort-de-France (Martinique)
 
 |
 
@@ -2584,11 +2588,11 @@ Fort-de-France
 
 |
 
-[Fort-de-France
+Fort-de-France
 
 |
 
-Cantons de Basse-Pointe, Case-Pilote-Bellefontaine, Fort-de-France le canton, Fort-de-France 2e canton, Fort-de-France 3e canton, Fort de-France 4e canton, Fort-de-France 5e canton, Fort-de-France 6e canton, Fort-de-France 7e canton, Fort-de-France 8e canton, Fort-de-France 9e canton, Fort-de-France 10e canton, Gros-Morne, La Trinité, L'Ajoupa-Bouillon, Le Carbet, Le Lorrain, Le Marigot, Le Morne Rouge, Le Prêcheur, Macouba, Sainte-Marie 1er canton Nord, Sainte-Marie 2e canton Sud, Saint-Pierre, Schoelcher 1er canton et Schoelcher 2e canton. (3)]
+Cantons de Basse-Pointe, Case-Pilote-Bellefontaine, Ducos, Fort-de-France 1er canton, Fort-de-France 2e canton, Fort-de-France 3e canton, Fort-de-France 4e canton, Fort-de-France 5e canton, Fort-de-France 6e canton, Fort-de-France 7e canton, Fort-de-France 8e canton, Fort-de-France 9e canton, Fort-de-France 10e canton, Gros-Morne, L'Ajoupa-Bouillon, La Trinité, Le Carbet, Le Diamant, Le François 1er canton Nord, Le François 2e canton Sud, Le Lamentin 1er canton Sud-Bourg, Le Lamentin 2e canton Nord, Le Lamentin 3e canton Est, Le Lorrain, Le Marigot, Le Marin, Le Morne-Rouge, Le Prêcheur, Le Robert 1er canton Sud, Le Robert 2e canton Nord, Le Vauclin, Les Anses-d'Arlet, Les Trois-Îlets, Macouba, Rivière-Pilote, Rivière-Salée, Sainte-Anne, Sainte-Luce, Sainte-Marie 1er canton Nord, Sainte-Marie 2e canton Sud, Saint-Esprit, Saint-Joseph, Saint-Pierre, Schœlcher 1er canton et Schœlcher 2e canton.
 
 |
 
@@ -3978,7 +3982,7 @@ Cantons de Lamotte-Beuvron, Mennetou-sur-Cher, Neung-sur-Beuvron, Romorantin-Lan
 
 |
 
-Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)]
+Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t canton et Vendôme 2e canton. (3)]
 
 |
 
@@ -5014,14 +5018,6 @@ Troyes
 
 |
 
-[Bar-sur-Aube
-
-|
-
-Cantons de Bar-sur-Aube, Brienne-le-Château, Soulaines-Dhuys et Vendeuvre-sur-Barse. (3)]
-
-|
-
 [Bar-sur-Seine
 
 |
@@ -5938,9 +5934,9 @@ Mamoudzou
 
 |
 
-Cantons de Acoua, Bandraboua, Bandrele, Bouéni,
+Cantons de Acoua, Bandraboua, Bandrele, Bouéni, Chiconi,
 
-Chiconi, Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou,
+Chirongui, Dembeni, Dzaoudzi, Kani-Kéli, Koungou,
 
 Mamoudzou-I-, Mamoudzou-II, Mamoudzou-III, Mtsamboro,
 
@@ -6136,9 +6132,9 @@ Montauban
 
 Cantons de Caussade, Caylus, Lafrançaise, Molières,
 
-Monclar-de-Quercy, Montauban, 1er canton, Montauban
+Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e
 
-2e canton, Montauban 3ème canton, Montauban 4e canton,
+canton, Montauban 3ème canton, Montauban 4e canton,
 
 Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,
 

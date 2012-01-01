@@ -6,9 +6,7 @@ SIÈGE
 
 |
 
-RESSORT
-
-|
+RESSORT |
 
 Cour d'appel d'Aix-en-Provence
 
@@ -46,6 +44,18 @@ Ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 
 |
 
+Cour d'appel de Cayenne
+
+|
+
+Cayenne
+
+|
+
+Ressort de la cour d'appel de Cayenne.
+
+|
+
 Cour d'appel de Fort-de-France
 
 |
@@ -54,15 +64,7 @@ Fort-de-France.
 
 |
 
-Ressort des cours d'appel de Basse-Terre et de Fort-de-France, à l'exception du ressort du tribunal de grande instance de Cayenne.
-
-|
-
-Cayenne.
-
-|
-
-Ressort du tribunal de grande instance de Cayenne.
+Ressort des cours d'appel de Basse-Terre et de Fort-de-France.
 
 |
 
