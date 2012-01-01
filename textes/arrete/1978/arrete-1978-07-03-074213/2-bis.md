@@ -18,77 +18,45 @@ PP représente la participation personnelle du ménage à la dépense de logemen
 
 II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 sont fixés comme suit :
 
-ZONE
+ZONE |
 
-|
+PERSONNE SEULE (en euros) |
 
-PERSONNE SEULE
+COUPLE
 
-(en euros)
+sans personne à charge
 
-|
-
-COUPLE SANS PERSONNE
-
-à charge
-
-(en euros)
-
-|
+(en euros) |
 
 PERSONNE SEULE OU COUPLE
 
 ayant une personne à charge
 
-(en euros)
-
-|
+(en euros) |
 
 PAR PERSONNE À CHARGE
 
 supplémentaire
 
-(en euros)
+(en euros) |
+
+III
 
 |
 
-I
+284,84
 
 |
 
-282,02
+343,53
 
 |
 
-340,13
+388,26
 
 |
 
-384,42
-
-|
-
-55,76
-
-|
-
-II
-
-|
-
-245,78
-
-|
-
-300,84
-
-|
-
-338,52
-
-|
-
-49,27
+56,32
 
 |
 
@@ -96,19 +64,39 @@ III
 
 |
 
-230,37
+248,24
 
 |
 
-279,27
+303,85
 
 |
 
-313,12
+341,91
 
 |
 
-44,88
+49,76
+
+|
+
+III
+
+|
+
+232,67
+
+|
+
+282,06
+
+|
+
+316,25
+
+|
+
+45,33
 
 |
 
