@@ -60,7 +60,7 @@ Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan
 
 |
 
-Trésorier-payeur général de la région Bretagne et du département d'Ille-et-Vilaine
+Directeur régional des finances publiques de Bretagne et du département d'Ille-et-Vilaine
 
 |
 
@@ -68,7 +68,7 @@ Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret
 
 |
 
-Trésorier-payeur général d'Indre-et-Loire
+Directeur départemental des finances publiques d'Indre-et-Loire
 
 |
 
@@ -84,7 +84,7 @@ Corse-du-Sud, Haute-Corse
 
 |
 
-Directeur régional des finances publiques de Corse et du département de la Corse-du-Sud
+Directeur régional des finances publiques de Corse et du département de Corse-du-Sud
 
 |
 
@@ -100,7 +100,7 @@ Guadeloupe
 
 |
 
-Directeur régional des finances publiques de la Martinique
+Directeur régional des finances publiques de Martinique
 
 |
 
@@ -108,7 +108,7 @@ Guyane
 
 |
 
-Directeur régional des finances publiques de la Martinique
+Directeur régional des finances publiques de Martinique
 
 |
 
@@ -140,7 +140,7 @@ Yvelines, Essonne
 
 |
 
-Trésorier-payeur général des Yvelines
+Directeur départemental des finances publiques des Yvelines
 
 |
 
@@ -156,7 +156,7 @@ Seine-Saint-Denis
 
 |
 
-Directeur départemental des finances publiques de la Seine-Saint-Denis
+Directeur départemental des finances publiques de Seine-Saint-Denis
 
 |
 
@@ -204,7 +204,7 @@ Nord, Pas-de-Calais
 
 |
 
-Directeur régional des finances publiques de Nord - Pas-de-Calais et du département du Nord
+Directeur régional des finances publiques de Nord - Pas-de-calais et du département du Nord
 
 |
 
@@ -212,7 +212,7 @@ Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée
 
 |
 
-Directeur régional des finances publiques des Pays de la Loire et du département de la Loire-Atlantique
+Directeur régional des finances publiques des Pays de la Loire et du département de Loire-Atlantique
 
 |
 
@@ -228,7 +228,7 @@ Charente, Charente-Maritime, Deux-Sèvres, Vienne
 
 |
 
-Trésorier-payeur général de la région Limousin et du département de la Haute-Vienne
+Directeur régional des finances publique du Limousin et du département de la Haute-Vienne
 
 |
 
@@ -248,7 +248,7 @@ Directeur départemental des finances publiques des Alpes-Maritimes
 
 |
 
-La Réunion
+Réunion
 
 |
 
@@ -268,6 +268,6 @@ Ardèche, Drôme, Isère, Savoie, Haute-Savoie
 
 |
 
-Trésorier-payeur général de l'Isère
+Directeur départemental des finances publiques de l'Isère
 
 |

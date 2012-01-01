@@ -2,9 +2,9 @@
 
 ASSIGNATIONS COMPTABLES PARTICULIÈRES
 
-A. - Ministère de la culture et de la communication
+A. ― Ministère de la culture et de la communication
 
-CATÉGORIE DE PERSONNELS
+CATÉGORIE DE PERSONNEL
 
 |
 
@@ -14,9 +14,7 @@ sans ordonnancement préalable
 
 |
 
-Personnels affectés dans les directions régionales des affaires culturelles de Corse, de Guadeloupe, de Guyane, de Martinique, de Provence-Alpes-Côte d'Azur
-
-et de La Réunion
+Personnels affectés dans les directions régionales des affaires culturelles
 
 |
 
@@ -28,11 +26,11 @@ Personnels des écoles normales supérieures d'architecture
 
 |
 
-B. - Ministère de l'agriculture, de l'alimentation, de la pêche,
+B. ― Ministère de l'agriculture, de l'alimentation, de la pêche,
 
 de la ruralité et de l'aménagement du territoire
 
-CATÉGORIE DE PERSONNELS
+CATÉGORIE DE PERSONNEL
 
 |
 
@@ -42,13 +40,9 @@ sans ordonnancement préalable
 
 |
 
-Personnels des services déconcentrés de métropole et personnels rémunérés
+Personnels des services déconcentrés de métropole
 
-sur le programme "enseignement supérieur et recherche agricole" en poste
-
-en Guadeloupe, Guyane, Martinique ainsi qu'à La Réunion, gérés par le
-
-secrétariat général hors ingénieurs des ponts, des eaux et des forêts
+et des départements d'outre-mer hors Mayotte
 
 |
 
@@ -56,11 +50,15 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par arrêté du 2 août 2010
+Ingénieurs des ponts, des eaux et des forêts relevant
+
+du Centre interministériel de gestion créé par arrêté
+
+du 2 août 2010
 
 |
 
-C. - Services déconcentrés du ministère de l'éducation nationale, de la jeunesse et de la vie associative
+C. ― Services déconcentrés du ministère de l'éducation nationale, de la jeunesse et de la vie associative
 
 et du ministère de l'enseignement supérieur et de la recherche
 
@@ -78,15 +76,15 @@ Créteil (enseignement supérieur)
 
 |
 
-Directeur départemental des finances publiques de la Seine-Saint-Denis
+Directeur départemental des finances publiques de Seine-Saint-Denis
 
 |
 
-Paris (enseignement du 1er et du 2e degré)
+Paris (enseignement du 1er et du 2nd degré)
 
 |
 
-D. - Ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat
+D. ― Ministère du budget, des comptes publics et de la réforme de l'Etat
 
 et ministère de l'économie, des finances et de l'industrie
 
@@ -108,7 +106,7 @@ Direction nationale de recherches et d'enquêtes douanières
 
 |
 
-Directeur départemental des finances publiques de la Seine-Saint-Denis
+Directeur départemental des finances publiques de Seine-Saint-Denis
 
 |
 
@@ -128,9 +126,11 @@ Services spécialisés de la direction générale des finances publiques
 
 |
 
-Ecole nationale des finances publiques |
+Ecole nationale des finances publiques
 
-Directeur départemental des finances publiques de la Seine-Saint-Denis
+|
+
+Directeur départemental des finances publiques de Seine-Saint-Denis
 
 |
 
@@ -138,7 +138,7 @@ Trésorerie générale de l'assistance publique
 
 |
 
-Directeur départemental des finances publiques de la Seine-Saint-Denis
+Directeur départemental des finances publiques de Seine-Saint-Denis
 
 |
 
@@ -174,19 +174,11 @@ Service national de documentation du cadastre (Saint-Germain-en-Laye)
 
 |
 
-Centre de services informatiques de Nemours
-
-|
-
-Centre de services informatiques de Versailles
-
-|
-
 Direction générale de la concurrence, de la consommation et de la répression des fraudes
 
 |
 
-Services déconcentrés de métropole et des départements d'outre-mer
+Services déconcentrés de métropole et des départements d'outre-mer hors Mayotte
 
 |
 
@@ -210,7 +202,7 @@ Personnels issus de la direction générale des douanes et droits indirects
 
 |
 
-E. - Ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration
+E. ― Ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration
 
 SERVICE OU CATÉGORIE DE PERSONNEL
 
@@ -226,13 +218,11 @@ Secrétariat général pour l'administration de la police de Lyon
 
 |
 
-Trésorier-payeur général de l'Isère
+Directeur départemental des finances publiques de l'Isère
 
 |
 
-Chefs de district en poste dans les Terres australes et antarctiques françaises
-
-(archipel de Crozet, archipel des Kerguelen, îles Saint-Paul et Amsterdam, Terre-Adélie, îles Eparses)
+Chefs de district en poste dans les Terres australes et antarctiques françaises (archipel de Crozet, archipel des Kerguelen, îles Saint-Paul et Amsterdam, Terre Adélie, îles Eparses)
 
 |
 
@@ -240,7 +230,7 @@ Directeur régional des finances publiques de La Réunion
 
 |
 
-F. - Services du Premier ministre. - Juridictions administratives et financières
+F. ― Services du Premier ministre. ― Juridictions administratives et financières
 
 SERVICE OU CATÉGORIE DE PERSONNEL
 
@@ -264,7 +254,7 @@ Chambres régionales des comptes
 
 |
 
-G. - Services déconcentrés du ministère de l'écologie,
+G. ― Services déconcentrés du ministère de l'écologie,
 
 du développement durable, des transports et du logement
 
@@ -278,13 +268,11 @@ sans ordonnancement préalable
 
 |
 
-Direction régionale et interdépartementale de l'hébergement et du logement en région Ile-de-France
+Direction régionale et interdépartementale de l'hébergement et du logement en région d'Ile-de-France
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne à compter du 1er avril 2011
-
-|
+Directeur départemental des finances publiques du Val-de-Marne |
 
 Direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France
 
@@ -298,15 +286,17 @@ Personnels des services déconcentrés relevant de corps gérés par le secréta
 
 |
 
-Directeur départemental des finances publiques des Hauts-de-Seine
+Directeur départemental des finances publiques des Hauts-de-Seine |
+
+Ingénieurs des ponts, des eaux et des forêts relevant du Centre interministériel de gestion créé par arrêté du 2 août 2010 (personnels en poste dans les services déconcentrés)
 
 |
 
-Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par arrêté du 2 août 2010 (personnels en poste dans les services déconcentrés)
+Service d'études techniques des routes et autoroutes de Sourdun (77)
 
 |
 
-H. - Ministère de la défense et des anciens combattants
+H. ― Ministère de la défense et des anciens combattants
 
 CATÉGORIE DE PERSONNEL
 
@@ -320,9 +310,7 @@ sans ordonnancement préalable
 
 |
 
-Personnels civils de l'armée de terre et personnels civils de la gendarmerie
-
-(délégation de gestion avec le ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration)
+Personnels civils de l'armée de terre et personnels civils de la gendarmerie (délégation de gestion avec le ministère de l'intérieur, de l'outre-mer, des collectivités territoriales et de l'immigration)
 
 |
 
@@ -338,7 +326,7 @@ Personnels civils de l'armée de l'air
 
 |
 
-Trésorier-payeur général d'Ille-et-Vilaine à compter du 1er juin 2011
+Directeur régional des finances publiques de Bretagne et du département d'Ille-et-Vilaine
 
 |
 
@@ -346,7 +334,7 @@ Personnels civils de la direction du commissariat de la marine de Brest
 
 |
 
-Trésorier-payeur général d'Ille-et-Vilaine
+Directeur régional des finances publiques de Bretagne et du département d'Ille-et-Vilaine
 
 |
 
@@ -354,7 +342,7 @@ Personnels civils de la direction du commissariat de la marine de Cherbourg
 
 |
 
-Trésorier-payeur général d'Ille-et-Vilaine à compter du 1er mai 2011
+Directeur régional des finances publiques de Bretagne et du département d'Ille-et-Vilaine
 
 |
 
@@ -362,7 +350,7 @@ Personnels civils de la direction du commissariat de la marine de Toulon
 
 |
 
-Trésorier-payeur général d'Ille-et-Vilaine à compter du 1er avril 2011
+Directeur régional des finances publiques de Bretagne et du département d'Ille-et-Vilaine
 
 |
 
