@@ -20,11 +20,11 @@ La prime p est fixée, en fonction de l'appartenance à l'une des tranches menti
 
 TRANCHES |
 
-1 à 5 |
+1 à 2 |
 
-6 à 8 |
+3 à 5 |
 
-9 et 10 |
+6 |
 
 Prime p |
 
