@@ -2,9 +2,9 @@
 
 BARÈME DE MARGE DE L'ÉTABLISSEMENT PHARMACEUTIQUE QUI VEND EN GROS
 
-POUR LA PARTIE DU PRIX FABRICANT HT
+POUR LA PARTIE DU PRIX
 
-comprise entre
+fabricant HT
 
 |
 
@@ -12,34 +12,18 @@ COEFFICIENT HT
 
 |
 
-0 et 22,90 €
+De 0 € à 450 €
 
 |
 
-0,099 3
+0,066 8 avec un minimum de 0,30 €
 
 |
 
-22,90 € et 150 €
+Au-delà de 450 €
 
 |
 
-0,06
-
-|
-
-150 € et 400 €
-
-|
-
-0,02
-
-|
-
-Au-delà de 400 €
-
-|
-
-0,00
+0
 
 |
