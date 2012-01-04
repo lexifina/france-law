@@ -142,11 +142,11 @@ Brahman
 
 |
 
-Bretonne Pie Noire
+Bretonne Pie noire
 
 |
 
-Bretonne Pie Noire
+Bretonne Pie noire
 
 |
 
@@ -402,15 +402,15 @@ Raço di Bioù
 
 |
 
-Rouge flamande (Rouge du Nord)
+Rouge Flamande (Rouge du Nord)
 
 |
 
-Rouge flamande
+Rouge Flamande
 
 |
 
-Rouge flamande
+Rouge Flamande
 
 |
 
@@ -446,7 +446,7 @@ Saosnoise
 
 |
 
-Simmental française
+Simmental Française
 
 |
 
@@ -690,7 +690,7 @@ Clun Forest
 
 |
 
-Corse (race ovine corse)
+Corse (race ovine Corse)
 
 |
 
@@ -760,7 +760,7 @@ Hampshire
 
 |
 
-Ile de France (OIF)
+Ile-de-France (OIF)
 
 |
 
@@ -1132,6 +1132,14 @@ Angora
 
 |
 
+Boer
+
+|
+
+|
+
+|
+
 Corse
 
 |
@@ -1173,6 +1181,18 @@ Du Massif central
 |
 
 Du Massif central
+
+|
+
+Péï
+
+|
+
+Péï
+
+|
+
+Péï
 
 |
 
@@ -1246,9 +1266,7 @@ RACES À PETITS EFFECTIFS
 
 |
 
-Créole de Guadeloupe
-
-(Cochon Planche)
+Créole de Guadeloupe (Cochon Planche)
 
 |
 
