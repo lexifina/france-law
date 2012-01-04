@@ -1,28 +1,48 @@
-# Article Annexe II (Tables 1 à 6)
+# Article Annexe II
 
-COMPOSITION DES CFM
+COMPOSITION DES CONSEILS DE LA FONCTION MILITAIRE (CFM)
 
 a) Armée de terre
 
-Table 1. - Composition du conseil de la fonction militaire de l'armée de terre
+Composition du conseil de la fonction militaire de l'armée de terre
 
 CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
 |
 
-NOMBRE DE REPRÉSENTANTS
+NOMBRE
 
-tirés au sort parmi
+total de
 
-les militaires volontaires
-
-|
-
-GROUPE A
+titulaires
 
 |
 
-GROUPE B
+RÉPARTITION PAR GROUPE
+
+|
+
+Groupe A
+
+|
+
+Groupe B
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+Titulaires
+
+|
+
+Suppléants
 
 |
 
@@ -36,463 +56,55 @@ I. - Officiers supérieurs
 
 |
 
-Officiers des armes
-
-|
-
-9 |
-
-4 |
-
-5 |
-
-Officiers des autres corps
-
-|
-
-2 |
-
-1 |
-
-1 |
-
-II. - Officiers subalternes
-
-|
-
-|
-
-|
-
-|
-
-Officiers des armes de carrière
-
-|
-
-7 |
-
-3 |
-
-4 |
-
-Officiers des armes sous contrat
-
-|
-
-1 |
-
-1 |
-
-|
-
-Officiers des autres corps de carrière
-
-|
-
-1 |
-
-1 |
-
-|
-
-Officiers des autres corps sous contrat
-
-|
-
-2 |
-
-1 |
-
-1 |
-
-III. - Majors et sous-officiers supérieurs
-
-|
-
-|
-
-|
-
-|
-
-Majors
-
-|
-
-2 |
-
-1 |
-
-1 |
-
-Sous-officiers des armes
-
-|
-
-14 |
-
-7 |
-
-7 |
-
-Sous-officiers des services
-
-|
-
-4 |
-
-2 |
-
-2 |
-
-IV. - Sous-officiers subalternes
-
-|
-
-|
-
-|
-
-|
-
-Sous-officiers des armes de carrière
-
-|
-
-1 |
-
-1 |
-
-|
-
-Sous-officiers des armes sous contrat
-
-|
-
-19 |
-
-9 |
-
-10 |
-
-Sous-officiers des services de carrière
-
-|
-
-1 |
-
-|
-
-1 |
-
-Sous-officiers des services sous contrat
-
-|
-
-1 |
-
-1 |
-
-|
-
-V. - Militaires du rang engagés
-
-|
-
-24 |
-
-12 |
-
-12 |
-
-Total
-
-|
-
-88 |
-
-44 |
-
-44 |
-
-Table 2. - Composition du pool de suppléants pour le conseil de la fonction militaire de l'armée de terre
-
-CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
-
-|
-
-NOMBRE DE REPRÉSENTANTS
-
-titulaires tirés au sort parmi
-
-les militaires volontaires
-
-|
-
-POOL DES SUPPLÉANTS
-
-|
-
-GROUPE A
-
-|
-
-GROUPE B
-
 |
 
-I. - Officiers supérieurs
-
-|
-
-|
-
-|
-
-|
-
-Officiers des armes
-
-|
-
-9 |
-
-16 |
-
-20 |
-
-Officiers des autres corps
-
-|
-
-2 |
-
-4 |
-
-4 |
-
-II. - Officiers subalternes
-
-|
-
-|
-
-|
-
-|
-
-Officiers des armes de carrière
-
-|
-
-7 |
-
-12 |
-
-16 |
-
-Officiers des armes sous contrat
-
-|
-
-1 |
-
-4 |
-
-|
-
-Officiers des autres corps de carrière
-
-|
-
-1 |
-
-4 |
-
-|
-
-Officiers des autres corps sous contrat
-
-|
-
-2 |
-
-4 |
-
-4 |
-
-III. - Majors et sous-officiers supérieurs
-
-|
-
-|
-
-|
-
-|
-
-Majors
-
-|
-
-2 |
-
-4 |
-
-4 |
-
-Sous-officiers des armes
-
-|
-
-14 |
-
-28 |
-
-28 |
-
-Sous-officiers des services
-
-|
-
-4 |
-
-8 |
-
-8 |
-
-IV. - Sous-officiers subalternes
-
-|
-
-|
-
-|
-
-|
-
-Sous-officiers des armes de carrière
-
-|
-
-1 |
-
-4 |
-
-|
-
-Sous-officiers des armes sous contrat
-
-|
-
-19 |
-
-36 |
-
-40 |
-
-Sous-officiers des services de carrière
-
-|
-
-1 |
-
-|
-
-4 |
-
-Sous-officiers des services sous contrat
-
-|
-
-1 |
-
-4 |
-
-4 |
-
-V. - Militaires du rang engagés
-
 |
-
-24 |
 
-48 |
+1.1. Officiers supérieurs des armes
 
-48 |
-
-Total
-
 |
-
-88 |
-
-176 |
 
-176 |
+9
 
-b) Marine nationale
-
-Table 3. - Composition du conseil de la fonction militaire de la marine
-
-CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
-
 |
-
-NOMBRE DE REPRÉSENTANTS
-
-tirés au sort parmi
 
-les militaires volontaires
+4
 
 |
 
-GROUPE A
+16
 
 |
 
-GROUPE B
+5
 
 |
 
-I. - Officiers supérieurs
+20
 
 |
 
-|
-
-|
+1.2. Officiers supérieurs des autres corps
 
 |
 
-Officiers de marine
+2
 
 |
-
-2 |
 
-1 |
+1
 
-1 |
-
-Officiers spécialisés de la marine
-
 |
 
-1 |
+5
 
-1 |
-
 |
 
-Autres corps
+1
 
 |
 
-1 |
-
-|
+5
 
 |
 
@@ -506,197 +118,39 @@ II. - Officiers subalternes
 
 |
 
-Officiers de marine de carrière
-
-|
-
-1 |
-
-1 |
-
-1 |
-
-Officiers de marine sous contrat
-
-|
-
-1 |
-
-|
-
-1 |
-
-Officiers spécialisés de la marine de carrière
-
-|
-
-1 |
-
-|
-
-1 |
-
-Officiers spécialisés de la marine sous contrat
-
-|
-
-1 |
-
-1 |
-
-|
-
-Autres corps
-
-|
-
-1 |
-
-1 |
-
-|
-
-III. - Majors et officiers mariniers supérieurs
-
-|
-
-11 |
-
-5 |
-
-6 |
-
-IV. - Officiers mariniers subalternesOfficiers mariniers de carrière
-
-|
-
-4 |
-
-2 |
-
-2 |
-
-Officiers mariniers sous contrat
-
-|
-
-17 |
-
-9 |
-
-8 |
-
-V. - Militaires du rang engagés
-
-|
-
-9 (a) |
-
-4 (a) |
-
-5 (a) |
-
-Total
-
-|
-
-50 |
-
-25 |
-
-25 |
-
-(a) Dont au maximum un tiers de quartiers-maîtres de 1re classe au moment du tirage au sort.
-
-|
-
-Table 4. - Composition du pool de suppléants pour le conseil de la fonction militaire de la marine
-
-CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
-
-|
-
-NOMBRE DE REPRÉSENTANTS
-
-titulaires tirés au sort parmi
-
-les militaires volontaires
-
-|
-
-POOL DES SUPPLÉANTS
-
-|
-
-GROUPE A
-
-|
-
-GROUPE B
-
-|
-
-I. - Officiers supérieurs
-
 |
 
 |
 
-|
+2.1. Officiers subalternes des armes de carrière
 
 |
 
-Officiers de marine
+7
 
 |
 
-2 |
-
-2 |
-
-2 |
-
-Officiers spécialisés de la marine
+3
 
 |
 
-1 |
-
-3 |
+12
 
 |
 
-Autres corps
+4
 
 |
 
-1 |
-
-3 |
-
-3 |
-
-II. - Officiers subalternes
+16
 
 |
 
-|
+2.2. Officiers subalternes des armes sous contrat
 
 |
 
-|
-
-Officiers de marine de carrière
-
-|
-
-1 |
-
-3 |
-
-|
-
-Officiers de marine sous contrat
+2
 
 |
 
@@ -704,13 +158,7 @@ Officiers de marine sous contrat
 
 |
 
-|
-
-3
-
-|
-
-Officiers spécialisés de la marine de carrière
+4
 
 |
 
@@ -718,27 +166,15 @@ Officiers spécialisés de la marine de carrière
 
 |
 
-|
-
-3
+4
 
 |
 
-Officiers spécialisés de la marine sous contrat
+2.3. Officiers subalternes des autres corps de carrière
 
 |
 
-1
-
-|
-
-3
-
-|
-
-|
-
-Autres corps
+2
 
 |
 
@@ -746,27 +182,575 @@ Autres corps
 
 |
 
-3
+4
 
 |
 
-3
+1
 
 |
 
-III. - Majors et officiers mariniers supérieurs
+4
 
 |
 
-11
+2.4. Officiers subalternes des autres corps sous contrat
 
 |
 
-11
+2
+
+|
+
+1
+
+|
+
+4
+
+|
+
+1
+
+|
+
+4
+
+|
+
+III. - Sous-officiers supérieurs
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3.1. Sous-officiers supérieurs des métiers des armes
 
 |
 
 13
+
+|
+
+7
+
+|
+
+28
+
+|
+
+6
+
+|
+
+24
+
+|
+
+3.2. Sous-officiers supérieurs des métiers des services
+
+|
+
+3
+
+|
+
+2
+
+|
+
+8
+
+|
+
+1
+
+|
+
+4
+
+|
+
+IV. - Sous-officiers subalternes
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4.1. Sous-officiers subalternes des métiers des armes de carrière
+
+|
+
+2
+
+|
+
+1
+
+|
+
+4
+
+|
+
+1
+
+|
+
+4
+
+|
+
+4.2. Sous-officiers subalternes des métiers des armes sous contrat
+
+|
+
+12
+
+|
+
+6
+
+|
+
+24
+
+|
+
+6
+
+|
+
+24
+
+|
+
+4.3. Sous-officiers subalternes des métiers des services de carrière
+
+|
+
+2
+
+|
+
+1
+
+|
+
+4
+
+|
+
+1
+
+|
+
+4
+
+|
+
+4.4. Sous-officiers subalternes des métiers des services sous contrat
+
+|
+
+2
+
+|
+
+1
+
+|
+
+6
+
+|
+
+1
+
+|
+
+6
+
+|
+
+V. - Militaires du rang engagés
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+5. Militaires du rang engagés
+
+|
+
+30
+
+|
+
+15
+
+|
+
+60
+
+|
+
+15
+
+|
+
+60
+
+|
+
+Total
+
+|
+
+88
+
+|
+
+44
+
+|
+
+179
+
+|
+
+44
+
+|
+
+179
+
+|
+
+b) Marine nationale
+
+Composition du conseil de la fonction militaire de la marine
+
+CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
+
+|
+
+NOMBRE
+
+total de
+
+titulaires
+
+|
+
+RÉPARTITION PAR GROUPE
+
+|
+
+Groupe A
+
+|
+
+Groupe B
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+I. - Officiers supérieurs
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1.1. Officiers de marine
+
+|
+
+2
+
+|
+
+1
+
+|
+
+3
+
+|
+
+1
+
+|
+
+3
+
+|
+
+1.2. Officiers spécialisés de la marine
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1.3. Autres corps
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+II. - Officiers subalternes
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.1. Officiers de marine de carrière
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2.2. Officiers de marine sous contrat
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.3. Officiers spécialisés de la marine de carrière
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.4. Officiers spécialisés de la marine sous contrat
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2.5. Autres corps
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+III. - Officiers mariniers supérieurs
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3.1. Officiers mariniers supérieurs
+
+|
+
+11
+
+|
+
+5
+
+|
+
+11
+
+|
+
+6
+
+|
+
+14
 
 |
 
@@ -780,7 +764,11 @@ IV. - Officiers mariniers subalternes
 
 |
 
-Officiers mariniers de carrière
+|
+
+|
+
+4.1. Officiers mariniers subalternes de carrière
 
 |
 
@@ -788,11 +776,23 @@ Officiers mariniers de carrière
 
 |
 
-5 |
+2
 
-5 |
+|
 
-Officiers mariniers sous contrat
+5
+
+|
+
+2
+
+|
+
+5
+
+|
+
+4.2. Officiers mariniers subalternes sous contrat
 
 |
 
@@ -800,15 +800,39 @@ Officiers mariniers sous contrat
 
 |
 
-13
+9
 
 |
 
-11
+16
 
 |
 
-V. - Militaires du rang engagés
+8
+
+|
+
+15
+
+|
+
+V. - Equipage de la flotte
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+5.1. Quartiers-maîtres de 1re classe
+
+5.2. Matelots et quartiers-maîtres de 2e classe
 
 |
 
@@ -816,11 +840,19 @@ V. - Militaires du rang engagés
 
 |
 
-16 (a)
+4 (a)
 
 |
 
-20 (a)
+12
+
+|
+
+5 (a)
+
+|
+
+14
 
 |
 
@@ -832,7 +864,15 @@ Total
 
 |
 
+25
+
+|
+
 59
+
+|
+
+25
 
 |
 
@@ -846,285 +886,45 @@ Total
 
 c) Armée de l'air
 
-Table 5. - Composition du conseil de la fonction militaire de l'armée de l'air
-
-CORPS OU CATÉGORIES
-
-de personnel représenté
-
-|
-
-NOMBRE DE REPRÉSENTANTS
-
-tirés au sort parmi
-
-les militaires volontaires
-
-|
-
-GROUPE A
-
-|
-
-GROUPE B
-
-|
-
-CRITÈRE GÉOGRAPHIQUE
-
-|
-
-I. - Officiers supérieurs
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Officiers de l'air
-
-|
-
-1 |
-
-1 |
-
-|
-
-Officiers et sous-officiers du personnel navigant :
-
-Tirage au sort au niveau national.
-
-Sous-officiers non navigants et militaires du rang engagés :
-
-Tirage au sort au niveau des bases aériennes ou unités équivalentes.
-
-|
-
-Officiers mécaniciens de l'air ou des bases de l'air
-
-|
-
-1 |
-
-|
-
-1 |
-
-Officiers tous corps, sauf officiers de l'air
-
-|
-
-1 |
-
-1 |
-
-|
-
-Officiers tous corps
-
-|
-
-1 |
-
-|
-
-1 |
-
-II. - Officiers subalternes
-
-|
-
-|
-
-|
-
-|
-
-Officiers de l'air de carrière
-
-|
-
-1 |
-
-|
-
-1 |
-
-Officiers de l'air sous contrat
-
-|
-
-1 |
-
-1 |
-
-|
-
-Officiers mécaniciens de l'air de carrière
-
-|
-
-1 |
-
-1 |
-
-|
-
-Officiers mécaniciens de l'air sous contrat
-
-|
-
-1 |
-
-|
-
-1 |
-
-Officiers des bases de l'air de carrière
-
-|
-
-1 |
-
-1 |
-
-|
-
-Officiers des bases de l'air sous contrat
-
-|
-
-1 |
-
-|
-
-1 |
-
-Autres corps de carrière |
-
-1 |
-
-|
-
-1 |
-
-Tous corps sous contrat |
-
-1 |
-
-1 |
-
-|
-
-III. - Majors et sous-officiers supérieurs de carrière
-
-|
-
-|
-
-|
-
-|
-
-Majors ou sous-officiers du personnel navigant
-
-|
-
-2 |
-
-1 |
-
-1 |
-
-Majors ou sous-officiers non navigants
-
-|
-
-14 |
-
-7 |
-
-7 |
-
-IV. - Sous-officiers subalternes
-
-|
-
-|
-
-|
-
-|
-
-Sous-officiers de carrière
-
-|
-
-6 |
-
-3 |
-
-3 |
-
-Sous-officiers sous contrat
-
-|
-
-10 |
-
-5 |
-
-5 |
-
-V. - Militaires du rang engagés
-
-|
-
-10 |
-
-5 |
-
-5 |
-
-Total
-
-|
-
-54 |
-
-27 |
-
-27 |
-
-Table 6. - Composition du pool de suppléants pour le conseil de la fonction militaire de l'armée de l'air
+Composition du conseil de la fonction militaire de l'armée de l'air
 
 CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
 |
 
-NOMBRE DE REPRÉSENTANTS
+NOMBRE
 
-titulaires tirés au sort parmi
+total de
 
-les militaires volontaires
-
-|
-
-POOL DES SUPPLÉANTS
+titulaires
 
 |
 
-GROUPE A
+RÉPARTITION PAR GROUPE
 
 |
 
-GROUPE B
+Groupe A
+
+|
+
+Groupe B
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+Titulaires
+
+|
+
+Suppléants
 
 |
 
@@ -1138,39 +938,105 @@ I. - Officiers supérieurs
 
 |
 
-Officiers de l'air
+|
 
 |
 
-1 |
-
-3 |
+1.1. Officiers de l'air (*)
 
 |
 
-Officiers mécaniciens de l'air ou des bases de l'air |
-
-1 |
+1
 
 |
 
-3 |
-
-Officiers tous corps, sauf officiers de l'air |
-
-1 |
-
-3 |
+1
 
 |
 
-Officiers tous corps |
-
-1 |
+3
 
 |
 
-3 |
+0
+
+|
+
+0
+
+|
+
+1.2. Officiers mécaniciens de l'air ou des bases de l'air (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+1.3. Officiers tous corps, sauf de l'air (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1.4. Officiers tous corps (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
 
 II. - Officiers subalternes
 
@@ -1182,7 +1048,207 @@ II. - Officiers subalternes
 
 |
 
-Officiers de l'air de carrière
+|
+
+|
+
+2.1. Officiers de l'air de carrière (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.2. Officiers de l'air sous contrat (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2.3. Officiers mécaniciens de l'air de carrière (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2.4. Officiers mécaniciens de l'air sous contrat (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.5. Officiers des bases de l'air de carrière (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2.6. Officiers des bases de l'air sous contrat (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.7. Autres corps de carrière (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.8. Tous corps sous contrat (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+III. - Sous-officiers et militaires du rang affectés au sein
+
+d'une base aérienne ou au sein d'une base de défense,
+
+support de base aérienne
 
 |
 
@@ -1190,99 +1256,137 @@ Officiers de l'air de carrière
 
 |
 
-3 |
-
-Officiers de l'air sous contrat
-
-|
-
-1 |
-
-3 |
-
-|
-
-Officiers mécaniciens de l'air de carrière |
-
-1 |
-
-3 |
-
-|
-
-Officiers mécaniciens de l'air sous contrat |
-
-1 |
-
-|
-
-3 |
-
-Officiers des bases de l'air de carrière |
-
-1 |
-
-3 |
-
-|
-
-Officiers des bases de l'air sous contrat |
-
-1 |
-
-|
-
-3 |
-
-Autres corps de carrière |
-
-1 |
-
-3 |
-
-|
-
-Tous corps sous contrat
-
-|
-
-1 |
-
-3 |
-
-3 |
-
-III. - Majors et sous-officiers supérieurs de carrière
-
 |
 
 |
 
 |
 
-|
-
-Majors ou sous-officiers du personnel navigant
+3.1. Sous-officiers supérieurs de carrière du personnel navigant (*)
 
 |
 
-2 |
-
-3 |
-
-3 |
-
-Majors ou sous-officiers non navigants
+2
 
 |
 
-14 |
+1
 
-21 |
+|
 
-21 |
+3
 
-IV. - Sous-officiers subalternes
+|
+
+1
+
+|
+
+3
+
+|
+
+3.2. Sous-officiers supérieurs de carrière du personnel non navigant (**)
+
+|
+
+13
+
+|
+
+6
+
+|
+
+18
+
+|
+
+7
+
+|
+
+21
+
+|
+
+3.3. Sous-officiers subalternes de carrière (**)
+
+|
+
+5
+
+|
+
+3
+
+|
+
+9
+
+|
+
+2
+
+|
+
+6
+
+|
+
+3.4. Sous-officiers subalternes sous contrat (**)
+
+|
+
+9
+
+|
+
+4
+
+|
+
+12
+
+|
+
+5
+
+|
+
+15
+
+|
+
+3.5. Militaires du rang engagés (**)
+
+|
+
+9
+
+|
+
+5
+
+|
+
+15
+
+|
+
+4
+
+|
+
+12
+
+|
+
+IV. - Sous-officiers et militaires du rang affectés
+
+en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés
+
+(non rattachés à une base aérienne)
 
 |
 
@@ -1292,45 +1396,141 @@ IV. - Sous-officiers subalternes
 
 |
 
-Sous-officiers de carrière
+|
 
 |
 
-6 |
-
-9 |
-
-9 |
-
-Sous-officiers sous contrat
+4.1. Sous-officiers supérieurs (*)
 
 |
 
-10 |
-
-15 |
-
-15 |
-
-V. - Militaires du rang engagés
+1
 
 |
 
-10 |
+1
 
-15 |
+|
 
-15 |
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+4.2. Sous-officiers subalternes de carrière (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+4.3. Sous-officiers sous contrat (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+4.4. Militaires du rang engagés (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
 
 Total
 
 |
 
-54 |
+54
 
-81 |
+|
 
-81 |
+27
+
+|
+
+81
+
+|
+
+27
+
+|
+
+81
+
+|
+
+Application du critère géographique :
+
+(*) Tirage au sort au niveau national (sans application d'un critère géographique) :
+
+- officiers et sous-officiers du personnel navigant ;
+
+- sous-officiers et militaires du rang engagés affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés, non rattachés à une base aérienne.
+
+(**) Application d'un critère géographique (base aérienne ou base de défense support de base aérienne) :
+
+- sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense, support de base aérienne.
 
 L'ensemble des suppléants des corps et catégories de personnel constitue un pool qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant :
 
@@ -1345,3 +1545,1471 @@ L'ensemble des suppléants des corps et catégories de personnel constitue un po
 - lien juridique avec le service.
 
 Toutefois, les grandes catégories, officiers, sous-officiers, militaires du rang, seront strictement respectées.
+
+|
+
+d) Gendarmerie nationale
+
+Composition du conseil de la fonction militaire de la gendarmerie
+
+CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
+
+|
+
+NOMBRE
+
+total de
+
+titulaires
+
+|
+
+RÉPARTITION PAR GROUPE
+
+|
+
+Groupe A
+
+|
+
+Groupe B
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+I. - Officiers supérieurs
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1.1. Officiers de gendarmerie (**)
+
+|
+
+3
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2
+
+|
+
+4
+
+|
+
+1.2. Officiers des autres corps (**)
+
+|
+
+1 (a)
+
+|
+
+1 (a)
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+II. - Officiers subalternes
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.1. Officiers de gendarmerie (**)
+
+|
+
+5
+
+|
+
+3
+
+|
+
+5
+
+|
+
+2
+
+|
+
+4
+
+|
+
+2.2. Officiers des autres corps (**)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+III. - Majors, gradés ou sous-officiers supérieurs
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3.1. Gradés gendarmerie (*)
+
+|
+
+28
+
+|
+
+14
+
+|
+
+42
+
+|
+
+14
+
+|
+
+42
+
+|
+
+3.2. Sous-officiers CSTAGN (**)
+
+|
+
+2
+
+|
+
+1
+
+|
+
+3
+
+|
+
+1
+
+|
+
+3
+
+|
+
+3.3. Commis greffiers (**)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+IV. - Gendarmes ou sous-officiers subalternes
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4.1. Gendarmes (*)
+
+|
+
+33
+
+|
+
+16
+
+|
+
+48
+
+|
+
+17
+
+|
+
+51
+
+|
+
+4.2. Sous-officiers CSTAGN (**)
+
+|
+
+5
+
+|
+
+2
+
+|
+
+4
+
+|
+
+3
+
+|
+
+5
+
+|
+
+Total
+
+|
+
+79
+
+|
+
+39
+
+|
+
+111
+
+|
+
+40
+
+|
+
+112
+
+|
+
+Application du critère géographique :
+
+(*) Sous-officiers de gendarmerie : tirage au sort au niveau des formations administratives ou groupe de formations administratives :
+
+- pour la gendarmerie départementale : 1 représentant pour chacune des 22 régions de gendarmerie ; 1 membre supplémentaire, de groupes différents, pour les 14 régions de gendarmerie ayant l'effectif de gendarmes départementaux le plus important.
+
+- pour la gendarmerie mobile : 2 représentants, de groupes différents, par région de gendarmerie située au siège d'une zone de défense, à l'exception de celle de l'Ile-de-France, 4 représentants pour la région de gendarmerie d'Ile-de-France, dont 2, de groupes différents, pour l'ensemble des groupements de gendarmerie mobile et 2, de groupes différents, pour la garde républicaine.
+
+A défaut total ou partiel de volontaires au niveau de l'une ou de plusieurs des formations administratives de la gendarmerie mobile, les sièges titulaires ou suppléants non pourvus sont tirés au sort au niveau national, sans considération de critère géographique.
+
+- 1 représentant pour chacune des 4 gendarmeries spécialisées ;
+
+- 1 représentant pour l'ensemble des écoles ;
+
+- 2 représentants, de groupes différents, pour l'ensemble des personnels des organismes centraux (DGGN, CAGN, CTGN) et des satellites ;
+
+- 2 représentants, de groupes différents, pour toutes les autres formations.
+
+(**) Autres catégories : tirage au sort au niveau national.
+
+(a) Ce poste doit être attribué en priorité à un officier du corps technique et administratif de la gendarmerie.
+
+Nota. - Officiers autres corps : officiers du corps technique et administratif de la gendarmerie, officiers greffiers, officiers sous contrat.
+
+|
+
+e) Direction générale de l'armement
+
+Composition du conseil de la fonction militaire de la direction générale de l'armement
+
+CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
+
+|
+
+NOMBRE
+
+total de
+
+titulaires
+
+|
+
+RÉPARTITION PAR GROUPE
+
+|
+
+Groupe A
+
+|
+
+Groupe B
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+I. - Officiers supérieurs
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1.1. Ingénieurs de l'armement
+
+|
+
+4
+
+|
+
+2
+
+|
+
+6
+
+|
+
+2
+
+|
+
+6
+
+|
+
+1.2. Ingénieurs des études et techniques de l'armement
+
+|
+
+4
+
+|
+
+1
+
+|
+
+3
+
+|
+
+3
+
+|
+
+9
+
+|
+
+1.3. Officiers du corps technique et administratif de l'armement
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+5
+
+|
+
+II. - Officiers subalternes
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.1. Ingénieurs de l'armement
+
+|
+
+2
+
+|
+
+1
+
+|
+
+3
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.2. Ingénieurs des études et techniques de l'armement
+
+|
+
+4
+
+|
+
+3
+
+|
+
+9
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.3. Officiers du corps technique et administratif de l'armement
+
+|
+
+1
+
+|
+
+1
+
+|
+
+5
+
+|
+
+0
+
+|
+
+0
+
+|
+
+Total
+
+|
+
+16
+
+|
+
+8
+
+|
+
+26
+
+|
+
+8
+
+|
+
+26
+
+|
+
+f) Service de santé des armées
+
+Composition du conseil de la fonction militaire du service de santé des armées
+
+CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
+
+|
+
+NOMBRE
+
+total de
+
+titulaires
+
+|
+
+RÉPARTITION PAR GROUPE
+
+|
+
+Groupe A
+
+|
+
+Groupe B
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+I. - Officiers supérieurs
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1.1. Médecins de carrière
+
+|
+
+9
+
+|
+
+5
+
+|
+
+15
+
+|
+
+4
+
+|
+
+12
+
+|
+
+1.2. Médecins militaires commissionnés
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+5
+
+|
+
+1.3. Pharmaciens
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+5
+
+|
+
+1.4. Corps technique et administratif du SSA
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+5
+
+|
+
+II. - Officiers subalternes
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.1. Médecins de carrière
+
+|
+
+3
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2
+
+|
+
+6
+
+|
+
+2.2. Médecins officiers sous contrat
+
+|
+
+1
+
+|
+
+1
+
+|
+
+5
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2.3. Pharmaciens
+
+|
+
+1
+
+|
+
+1
+
+|
+
+5
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2.4. Internes
+
+|
+
+2
+
+|
+
+1
+
+|
+
+5
+
+|
+
+1
+
+|
+
+5
+
+|
+
+2.5. Corps technique et administratif du SSA
+
+|
+
+1
+
+|
+
+1
+
+|
+
+5
+
+|
+
+0
+
+|
+
+0
+
+|
+
+III. - Vétérinaires des armées
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3.1. Vétérinaires des armées
+
+|
+
+2
+
+|
+
+1
+
+|
+
+5
+
+|
+
+1
+
+|
+
+5
+
+|
+
+IV. - Chirurgiens-dentistes des armées
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4.1. Chirurgiens-dentistes des armées
+
+|
+
+1
+
+|
+
+1
+
+|
+
+5
+
+|
+
+0
+
+|
+
+0
+
+|
+
+V. - MITHA soumis aux lois et règlements
+
+applicables aux officiers
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+5.1. MITHA officiers
+
+|
+
+2
+
+|
+
+1
+
+|
+
+5
+
+|
+
+1
+
+|
+
+5
+
+|
+
+VI. - MITHA soumis aux lois et règlements
+
+applicables aux sous-officiers
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+6.1. MITHA infirmiers servant dans les établissements du SSA hors CMA
+
+|
+
+7
+
+|
+
+4
+
+|
+
+12
+
+|
+
+3
+
+|
+
+9
+
+|
+
+6.2. MITHA infirmiers servant dans les forces et dans les CMA
+
+|
+
+7
+
+|
+
+3
+
+|
+
+9
+
+|
+
+4
+
+|
+
+12
+
+|
+
+6.3. MITHA autres non infirmiers
+
+|
+
+6
+
+|
+
+3
+
+|
+
+9
+
+|
+
+3
+
+|
+
+9
+
+|
+
+VII. - Aumôniers des armées
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+7.1. Aumôniers des armées
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+5
+
+|
+
+VIII. - Militaires du rang
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+8.1. Militaires du rang
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+5
+
+|
+
+Total
+
+|
+
+47
+
+|
+
+23
+
+|
+
+83
+
+|
+
+24
+
+|
+
+88
+
+|
+
+g) Service des essences des armées
+
+Composition du conseil de la fonction militaire du service des essences des armées
+
+CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
+
+|
+
+NOMBRE
+
+total de
+
+titulaires
+
+|
+
+RÉPARTITION PAR GROUPE
+
+|
+
+Groupe A
+
+|
+
+Groupe B
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+I. - Officiers
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1.1. Corps des ingénieurs militaires des essences
+
+|
+
+1
+
+|
+
+1
+
+|
+
+6
+
+|
+
+0
+
+|
+
+0
+
+|
+
+Corps technique et administratif du SEA
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1.2. Officiers supérieurs
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+6
+
+|
+
+1.3. Officiers subalternes
+
+|
+
+2
+
+|
+
+2
+
+|
+
+8
+
+|
+
+0
+
+|
+
+0
+
+|
+
+II. - Sous-officiers
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.1. Sous-officiers supérieurs
+
+|
+
+3
+
+|
+
+1
+
+|
+
+4
+
+|
+
+2
+
+|
+
+8
+
+|
+
+2.2. Sous-officiers subalternes
+
+|
+
+2
+
+|
+
+1
+
+|
+
+4
+
+|
+
+1
+
+|
+
+4
+
+|
+
+III. - Militaires du rang
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3.1. Militaires du rang engagés
+
+|
+
+6
+
+|
+
+2
+
+|
+
+8
+
+|
+
+4
+
+|
+
+12
+
+|
+
+Total
+
+|
+
+15
+
+|
+
+7
+
+|
+
+30
+
+|
+
+8
+
+|
+
+30
+
+|

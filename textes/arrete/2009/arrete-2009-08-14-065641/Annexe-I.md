@@ -2,7 +2,7 @@
 
 COMPOSITION DU CSFM
 
-Composition globale du CSFM
+Composition globale du Conseil supérieur de la fonction militaire (CSFM)
 
 CATÉGORIES
 
@@ -238,7 +238,7 @@ Officiers subalternes
 
 |
 
-3
+5
 
 |
 
@@ -246,19 +246,19 @@ Officiers subalternes
 
 |
 
-40
+42
 
 |
 
-Majors, sous-officiers ou officiers mariniers supérieurs et gradés de la gendarmerie
+Sous-officiers ou officiers mariniers supérieurs et gradés de la gendarmerie
 
 |
 
-6
+5
 
 |
 
-18
+15
 
 |
 
@@ -298,11 +298,11 @@ Majors, sous-officiers ou officiers mariniers supérieurs et gradés de la genda
 
 |
 
-20
+19
 
 |
 
-60
+57
 
 |
 
@@ -354,11 +354,11 @@ Sous-officiers et officiers mariniers subalternes et gendarmes
 
 |
 
-7
+5
 
 |
 
-28
+20
 
 |
 
@@ -398,23 +398,23 @@ Sous-officiers et officiers mariniers subalternes et gendarmes
 
 |
 
-23
+21
 
 |
 
-76
+68
 
 |
 
-Militaires du rang
+Militaires du rang et équipages de la flotte
 
 |
 
-9
+12
 
 |
 
-36
+48
 
 |
 
@@ -450,15 +450,15 @@ Militaires du rang
 
 |
 
-3
+5
 
 |
 
-16
+19
 
 |
 
-57
+71
 
 |
 
@@ -470,7 +470,7 @@ Totaux
 
 |
 
-97
+98
 
 |
 
@@ -518,7 +518,7 @@ Totaux
 
 |
 
-6
+10
 
 |
 
@@ -526,7 +526,7 @@ Totaux
 
 |
 
-263
+268
 
 |
 
@@ -606,7 +606,7 @@ Total global
 
 |
 
-269
+274
 
 |
 
@@ -834,7 +834,7 @@ Officiers subalternes
 
 |
 
-3
+5
 
 |
 
@@ -842,11 +842,11 @@ Officiers subalternes
 
 |
 
-28
+30
 
 |
 
-Majors, sous-officiers ou officiers mariniers supérieurs et gradés de la gendarmerie
+Sous-officiers ou officiers mariniers supérieurs et gradés de la gendarmerie
 
 |
 
@@ -994,15 +994,15 @@ Sous-officiers et officiers mariniers subalternes et gendarmes
 
 |
 
-Militaires du rang
+Militaires du rang et équipages de la flotte
 
 |
 
-4
+6
 
 |
 
-16
+24
 
 |
 
@@ -1038,11 +1038,11 @@ Militaires du rang
 
 |
 
-7
+9
 
 |
 
-25
+33
 
 |
 
@@ -1050,11 +1050,11 @@ Totaux
 
 |
 
-13
+15
 
 |
 
-46
+54
 
 |
 
@@ -1102,15 +1102,15 @@ Totaux
 
 |
 
-3
+5
 
 |
 
-39
+41
 
 |
 
-128
+138
 
 |
 
@@ -1190,7 +1190,7 @@ Total global
 
 |
 
-131
+141
 
 |
 
@@ -1330,11 +1330,19 @@ Officiers supérieurs
 
 |
 
-|
+0
 
 |
 
+0
+
 |
+
+0
+
+|
+
+0
 
 |
 
@@ -1354,7 +1362,11 @@ Officiers supérieurs
 
 |
 
+0
+
 |
+
+0
 
 |
 
@@ -1402,15 +1414,27 @@ Officiers subalternes
 
 |
 
-|
+0
 
 |
 
-|
+0
 
 |
 
+0
+
 |
+
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
@@ -1422,15 +1446,15 @@ Officiers subalternes
 
 |
 
-Majors, sous-officiers ou officiers mariniers supérieurs et gradés de la gendarmerie
+Sous-officiers ou officiers mariniers supérieurs et gradés de la gendarmerie
 
 |
 
-3
+2
 
 |
 
-9
+6
 
 |
 
@@ -1470,11 +1494,11 @@ Majors, sous-officiers ou officiers mariniers supérieurs et gradés de la genda
 
 |
 
-10
+9
 
 |
 
-30
+27
 
 |
 
@@ -1526,11 +1550,11 @@ Sous-officiers et officiers mariniers subalternes et gendarmes
 
 |
 
-4
+2
 
 |
 
-16
+8
 
 |
 
@@ -1570,63 +1594,7 @@ Sous-officiers et officiers mariniers subalternes et gendarmes
 
 |
 
-12
-
-|
-
-40
-
-|
-
-Militaires du rang
-
-|
-
-5
-
-|
-
-20
-
-|
-
-1
-
-|
-
-3
-
-|
-
-2
-
-|
-
-6
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1
-
-|
-
-3
-
-|
-
-9
+10
 
 |
 
@@ -1634,15 +1602,71 @@ Militaires du rang
 
 |
 
+Militaires du rang et équipages de la flotte
+
+|
+
+6
+
+|
+
+24
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2
+
+|
+
+6
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+5
+
+|
+
+10
+
+|
+
+38
+
+|
+
 Totaux
 
 |
 
-14
+12
 
 |
 
-51
+44
 
 |
 
@@ -1690,15 +1714,15 @@ Totaux
 
 |
 
-3
+5
 
 |
 
-40
+38
 
 |
 
-135
+130
 
 |
 
@@ -1774,10 +1798,10 @@ Total global
 
 |
 
-43
+41
 
 |
 
-138
+133
 
 |
