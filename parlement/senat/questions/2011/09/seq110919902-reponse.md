@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110919902
+
+- Question : [SEQ110919902](seq110919902.md) — Désignation des hydrogéologues en matière d'hygiène publique
+
+## Réponse
+
+*Travail, JO du 2012-01-05, page 40*
+
+La consultation des représentants des collectivités territoriales prévue à l'article 9 de l'arrêté du 15 mars 2011 relatif aux modalités d'agrément, de désignation et de consultation des hydrogéologues en matière d'hygiène publique n'est pas nouvelle. En effet, cette disposition était déjà prévue à l'article 4 de l'arrêté du 31 août 1993 relatif aux modalités de désignation et de consultation des hydrogéologues agréés en matière d'hygiène publique et n'avait pas fait, à l'époque, l'objet d'interrogation particulière de la part des représentants des élus. Le dispositif mis en place par le texte de 1993 pour la procédure d'agrément ayant fait ses preuves à quatre reprises depuis lors, il n'est donc pas apparu nécessaire de revenir sur cette consultation. La procédure d'instauration des périmètres de protection des captages d'eau destinée à la consommation humaine étant de la prérogative des communes qui doivent les initier, il est apparu opportun d'associer ces collectivités à la désignation des experts chargés de l'instruction de ces dossiers afin qu'elles puissent donner leur avis et ne se sentent pas exclues du dispositif. Cette consultation permet, d'une certaine façon, aux collectivités d'être associées en ayant un droit de regard sur l'agrément des hydrogéologues agréés en matière d'hygiène publique pour une procédure à leur charge. La procédure d'agrément a lieu seulement une fois tous les cinq ans et les procédures d'agrément pour l'année 2011 sont pratiquement toutes terminées par les agences régionales de santé, il n'apparaît donc pas nécessaire de réviser l'arrêté du 15 mars 2011 précité sur ce point particulier.
