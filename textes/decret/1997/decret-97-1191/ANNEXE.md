@@ -140,6 +140,36 @@ Décisions d'approbation ou de refus d'approbation de la convention constitutive
 
 |
 
+Décret n° 2012-13 du 4 janvier 2012 relatif à la prévention et à la gestion des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement.
+
+1
+
+|
+
+Agrément et retrait d'agrément des organismes chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement.
+
+Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales.
+
+|
+
+Article R. 543-234 du code de l'environnement
+
+|
+
+2
+
+|
+
+Agrément et retrait d'agrément de l'organisme coordonnateur chargé de la prise en charge des coûts liés à la collecte séparée des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement supportés par les collectivités territoriales et leurs groupements.
+
+Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales.
+
+|
+
+Article R. 543-235 du code de l'environnement
+
+|
+
 Code de la santé publique
 
 1
