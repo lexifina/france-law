@@ -4974,9 +4974,33 @@ Article 4.
 
 2 |
 
-Annulation des certificats d’économies d’énergie, mise en demeure, fixation du
+Mise en demeure, fixation du montant de l’amende et de
 
-montant du prélèvement compensatoire.
+l’astreinte journalière
+
+|
+
+Article 5-1.
+
+|
+
+3 |
+
+Mise en demeure, fixation du montant de l’amende, établissement
+
+des déclarations de ventes d’énergie
+
+|
+
+Article 6-1.
+
+|
+
+4 |
+
+Annulation des certificats d’économies d’énergie, mise en
+
+demeure, fixation du montant du prélèvement compensatoire.
 
 |
 
@@ -4998,11 +5022,11 @@ certificats d’économies d’énergie
 
 |
 
-Agrément d’un plan d’actions d’économies d’énergie.
+Agrément d’un plan d’actions d’économies d’énergie
 
 |
 
-Article 5.
+.Article 5.
 
 |
 
@@ -5013,5 +5037,75 @@ Délivrance des certificats d’économies d’énergie.
 |
 
 Article 6.
+
+|
+
+3 |
+
+Définition du périmètre d’un contrôle.
+
+|
+
+Article 10-3.
+
+|
+
+4 |
+
+Sélection d’un échantillon d’opérations d’économies d’énergie
+
+dans le périmètre du contrôle, mise en demeure.
+
+|
+
+Article 10-5.
+
+|
+
+5 |
+
+Retrait de l’agrément d’un plan d’actions d’économies d’énergie,
+
+fixation du montant de la sanction pécuniaire
+
+|
+
+Article 10-6.
+
+|
+
+6 |
+
+Mise en demeure, suspension de l’agrément d’un plan d’actions
+
+d’économies d’énergie.
+
+|
+
+Article 10-8.
+
+|
+
+7 |
+
+Fixation du montant de la sanction pécuniaire, mise en demeure,
+
+rejet de demandes de certificats d’économies d’énergie.
+
+|
+
+Article 10-9.
+
+|
+
+8 |
+
+Retrait de l’agrément d’un plan d’actions d’économies d’énergie,
+
+rejet de demandes de certificats d’économies d’énergie.
+
+|
+
+Article 10-10.
 
 |
