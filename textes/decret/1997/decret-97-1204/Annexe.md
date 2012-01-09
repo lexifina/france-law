@@ -226,6 +226,12 @@ Article R. 521-60
 
 |
 
+|
+
+Approbation et retrait d'approbation des systèmes individuels, agrément et retrait d'agrément des organismes, agrément et retrait d'agrément de l'organisme coordonnateur, chargés de la gestion des déchets d'éléments d'ameublement. |
+
+Articles R. 543-251, R. 543-252 et R. 543-253. |
+
 II.-Décisions administratives individuelles prises par le ministre chargé de l'environnement :
 
 Livre Ier
@@ -526,6 +532,16 @@ Article R. 434-47
 
 |
 
+|
+
+Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent des opérations conduites sur le territoire de plus de dix départements, à des fins de recherche et d'éducation, par des personnes morales placées sous la tutelle ou le contrôle de l'Etat.
+
+|
+
+Article R. 411-7
+
+|
+
 Livre V
 
 |
@@ -748,13 +764,11 @@ Article R. 541-23
 
 |
 
-I.-Loi du 2 mai 1930 modifiée réorganisant la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque :
-
 TITRE II
 
-LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES SEUL OU CONJOINTEMENT
+LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES SEUL OU CONJOINTEMENT PAR LE MINISTRE CHARGÉ DE L'ENVIRONNEMENT, AU TITRE D'AUTRES LÉGISLATIONS
 
-PAR LE MINISTRE CHARGÉ DE L'ENVIRONNEMENT, AU TITRE D'AUTRES LÉGISLATIONS
+I.-Loi du 2 mai 1930 modifiée réorganisant la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque :
 
 Autorisation spéciale de travaux prévue par les décrets instituant des zones de protection.
 

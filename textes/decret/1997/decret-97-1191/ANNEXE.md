@@ -184,6 +184,14 @@ Article R. 1335-8-8
 
 |
 
+Code de l'environnement
+
+|
+
+Agrément et retrait d'agrément des organismes, agrément et retrait d'agrément de l'organisme coordonnateur, chargés de la gestion des déchets d'éléments d'ameublement. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de l'industrie : articles R. 543-252 et R. 543-253 du code de l'environnement. |
+
+articles R. 543-252 et R. 543-253 du code de l'environnement. |
+
 2. Décisions administratives individuelles prises par le ministre de l'intérieur
 
 CIRCULATION ET SÉCURITÉ ROUTIÈRES
