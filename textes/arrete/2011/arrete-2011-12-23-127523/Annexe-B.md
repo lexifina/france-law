@@ -146,7 +146,7 @@ Tout aéronef, sauf ceux immatriculés 5R-MFH, 5R-MFI, 5R-MJE, 5R-MJF, 5R-MJG, 5
 
 |
 
-Tout aéronef, sauf 2 aéronefs de type B737-300, 2 aéronefs de type ATR 72-500, 1 aéronef de type ATR 42-500, 1 aéronef de type ATR 42-320 et 3 aéronefs de type DHC 6-300
+Tout aéronef, sauf 2 aéronefs de type B737-300, 2 aéronefs de type ATR. 72-500, 1 aéronef de type ATR. 42-500, 1 aéronef de type ATR. 42-320 et 3 aéronefs de type DHC 6-300
 
 |
 
@@ -166,7 +166,7 @@ KMD
 
 |
 
-Tout aéronef, sauf celui immatriculé D 6-CAM (851336)
+Tout aéronef, sauf celui immatriculé D. 6-CAM (851336)
 
 |
 
@@ -226,6 +226,30 @@ Tout aéronef sauf 14 aéronefs de type A300, 8 aéronefs de type A310, 1 aéron
 
 |
 
+Jordan Aviation
+
+|
+
+Royaume hachémite de Jordanie
+
+|
+
+JAV
+
+|
+
+Tout aéronef, sauf ceux immatriculés JY-JAB, JY-JAD, JY-JAN, JY-JAO, JY-JAX, JY-JAY, JY-JAP, JY-JAQ, JY-JAV, JY-JAH, JY-JAC
+
+|
+
+Tout aéronef sauf 8 aéronefs de type B737, 2 aéronefs de type A310 et 1 aéronef de type A320
+
+|
+
+10
+
+|
+
 Nouvelle Air Affaires Gabon (SN2AG)
 
 |
@@ -242,11 +266,11 @@ Tout aéronef sauf ceux immatriculés TR-AAG et ZS-AFG
 
 |
 
-Tout aéronef sauf 1 aéronef de type Challenger CL 601 et 1 aéronef de type HS-125-800
+Tout aéronef sauf 1 aéronef de type Challenger CL. 601 et 1 aéronef de type HS-125-800
 
 |
 
-10
+11
 
 |
 
@@ -262,11 +286,11 @@ DTA
 
 |
 
-Tout aéronef sauf ceux immatriculés D 2-TED, D 2-TEE, D 2-TEF, D 2-TBF, D 2-TBG, D 2-TBH, D 2-TBJ
+Tout aéronef sauf ceux immatriculés D. 2-TED, D. 2-TEE, D. 2-TEF, D. 2-TEG, D. 2-TEH, D. 2-TBF, D. 2-TBG, D. 2-TBH, D. 2-TBJ
 
 |
 
-Tout aéronef sauf 3 aéronefs de type Boeing B777 et 4 aéronefs de type Boeing B737-700
+Tout aéronef sauf 5 aéronefs de type Boeing B777 et 4 aéronefs de type Boeing B737-700
 
 |
 
@@ -278,6 +302,6 @@ Tout aéronef sauf 3 aéronefs de type Boeing B777 et 4 aéronefs de type Boeing
 
 (4) Gabon Airlines n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
-(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les aéronefs spécifiques, dans les conditions fixées au considérant (69) du règlement (UE) n° 590/2010, JO n° L 170 du 6 juillet 2010, p. 15.
+(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les aéronefs spécifiques, dans les conditions fixées au considérant (69) du règlement (UE) n° 590/2010, JO L. 170 du 6 juillet 2010, p. 15.
 
 |
