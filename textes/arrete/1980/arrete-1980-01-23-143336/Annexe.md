@@ -46,7 +46,7 @@ Cette zone est comprise à l'intérieur de la courbe enveloppant extérieurement
 
 II-2. Zones d'avitaillement
 
-On définira sur chaque aérodrome les zones où l'avitaillement en carburant ne peut être autorisé. Aucun point du périmètre de sécurité ne devra se trouver à moins de dix mètres d'un bâtiment ; toutefois, sur les aérodromes de catégorie D, des consignes particulières pourront prévoir des dérogations à cette distance minimale.
+On définira sur chaque aérodrome les zones où l'avitaillement en carburant ne peut être autorisé. Aucun point du périmètre de sécurité ne se trouve à moins de dix mètres d'un bâtiment, sauf pour les dispositifs d'avitaillement à partir de réservoirs de stockage fixes. Toutefois, des consignes particulières peuvent prévoir des dérogations à cette distance minimale.
 
 II-3. (Abrogé)
 
@@ -174,9 +174,7 @@ V-2. Prises de terre
 
 Sous réserve du respect des dispositions des paragraphes III-2 et III-4 ci-dessus, il n'est pas nécessaire de mettre à la terre l'ensemble électrique constitué par l'aéronef et le système avitailleur.
 
-Seul le groupe auxiliaire de piste doit être mis à la terre lorsque
-
-la réglementation relative à la sécurité des travailleurs l'exige. Dans ce cas, et si l'ensemble électrique défini ci-dessus était mis à la terre, il devrait obligatoirement être réuni à la même prise de terre (ou à des prises de terre réunies ensemble) que :
+Seul le groupe auxiliaire de piste doit être mis à la terre lorsque la réglementation relative à la sécurité des travailleurs l'exige. Dans ce cas, et si l'ensemble électrique défini ci-dessus était mis à la terre, il devrait obligatoirement être réuni à la même prise de terre (ou à des prises de terre réunies ensemble) que :
 
 - le groupe auxiliaire de piste ;
 
