@@ -1,0 +1,11 @@
+# Article 1er
+
+Le texte de l'article 2 de l'accord est supprimé et remplacé par le texte suivant :
+
+« Les parties signataires conviennent qu'à compter de 2012 et pendant la durée de l'accord, les entreprises visées à l'article 1er versent, au titre de l'article R. 6331-9 précité, l'intégralité du montant correspondant à 0,5 % de la masse salariale de l'année N – 1 à l'organisme paritaire collecteur agréé OPCALIA dont la mission est notamment de collecter et d'organiser une gestion mutualisée des fonds.
+
+Conformément aux dispositions légales et réglementaires, OPCALIA dispose de la capacité à créer des sections professionnelles qui déterminent, sous la responsabilité du conseil d'administration d'OPCALIA, les conditions de prise en charge et les priorités des actions de formation organisées au profit d'entreprises des branches professionnelles concernées au titre de la professionnalisation.
+
+En conséquence, les signataires du présent texte sollicitent la création d'une section paritaire professionnelle (SPP) de la branche banque populaire au sein d'OPCALIA.
+
+Les parties signataires s'engagent, à l'occasion de la création de la section paritaire professionnelle de la branche banque populaire au sein d'OPCALIA, à définir les modalités d'organisation de la section en cohérence avec les statuts d'OPCALIA. Elles expriment la demande que le collège salarié de la SPP soit composé de deux membres par organisation syndicale signataire du présent texte. »
