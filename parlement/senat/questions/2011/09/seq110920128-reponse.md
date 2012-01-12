@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110920128
+
+- Question : [SEQ110920128](seq110920128.md) — Numéro vert et plan Alerte-enlèvement
+
+## Réponse
+
+*Justice, JO du 2012-01-12, page 112*
+
+En mars 2009, la Commission européenne a publié, au titre du programme « Justice, Liberté et Sécurité », un appel à propositions sur le thème de l'alerte en cas d'enlèvement ou de disparition d'enfant auquel la France a répondu en lui soumettant le projet LADS E.U. (pour lutte anti-disparitions dans l'Union européenne). Ce projet conduit tout au long de l'année 2010 en partenariat avec le Royaume-Uni et la Belgique a eu pour objectif de favoriser des déclenchements transfrontaliers de l'alerte-enlèvement, dès lors qu'un franchissement de frontière par l'enfant et le ravisseur est suspecté. Il ne s'agissait en aucune façon d'harmoniser les dispositifs alerte-enlèvement instaurés dans chacun des États participants aux travaux du projet LADS, mais de favoriser les relations et la coopération entre les autorités judiciaires et les services enquêteurs de chaque État afin de prévoir et accélérer le déclenchement du plan alerte-enlèvement sur le territoire d'un État où le ravisseur et l'enfant se sont déplacés. Il a ainsi été établi un annuaire répertoriant un point de contact unique compétent au sein de chaque État pour adresser ou recevoir une demande de déclenchement transfrontalier, ainsi qu'un protocole définissant les critères et les modalités pratiques d'un tel déclenchement. Un partenariat similaire pourrait à l'avenir s'instaurer avec d'autres États, et notamment les États frontaliers de la France, qui disposent eux aussi d'un plan alerte-enlèvement. Une étude de faisabilité est, par ailleurs, en cours auprès du Secrétariat général du ministère de la justice pour la mise en place d'un numéro unique de recueil des témoignages de l'alerte enlèvement.
