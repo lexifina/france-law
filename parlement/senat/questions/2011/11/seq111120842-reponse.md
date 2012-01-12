@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111120842
+
+- Question : [SEQ111120842](seq111120842.md) — Statut des biens de retour nécessaires à l'exploitation du service public de remontées mécaniques des stations de montagne
+
+## Réponse
+
+*Écologie, JO du 2012-01-12, page 101*
+
+Les remontées mécaniques sont les infrastructures incontournables de l'économie de la montagne française. Il est essentiel, tant pour garantir la sécurité de l'exploitation que pour soutenir la compétitivité du domaine skiable français dans la concurrence internationale, que des investissements réguliers puissent avoir lieu pour entretenir, améliorer et développer le parc français. C'est pourquoi le Président de la République, lors de son déplacement à La Clusaz le 11 février 2011, a demandé l'étude des pistes permettant de stimuler l'investissement dans ce secteur. Les services du ministère de l'écologie, du développement durable, des transports et du logement ont engagé tout au long de l'année 2011 un travail fondé en premier lieu sur la concertation avec les élus locaux et les délégataires, pour tenir compte des spécificités du secteur, dans le but de clarifier les règles s'appliquant aux futurs conventions ou avenants de délégation de service public de remontées mécaniques. Le droit existant, explicité par une jurisprudence constante, ne laisse aucun doute sur le statut des biens de retour. Le travail en cours sur la rédaction d'une circulaire visant à faciliter l'approbation des futures conventions se poursuit. Les échanges avec les délégants, comme avec les délégataires, sont intensifs. Le projet de circulaire sera présenté à tous les acteurs en janvier 2012 et les échanges se poursuivront jusqu'à une parfaite et unanime compréhension de tous. La sécurité juridique qu'elle apportera à tous sera dès lors de nature à redynamiser les investissements dans ce secteur.
