@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100915168
+
+- Question : [SEQ100915168](seq100915168.md) — Démantèlement des éoliennes en fin d'exploitation
+
+## Réponse
+
+*Écologie, JO du 2012-01-12, page 98*
+
+Le Gouvernement a présenté en novembre 2008 le plan de développement des énergies renouvelables de la France issu du Grenelle de l'environnement. Ce programme a pour objectif de porter à au moins 23 % la part des énergies renouvelables dans la consommation d'énergie nationale à l'horizon 2020, grâce à une augmentation de 20 millions de tonnes équivalent pétrole (Mtep) de la production annuelle d'énergie renouvelable. Cet objectif a été inscrit dans la loi n° 2009-967 du 3 août 2009 de programmation relative à la mise en œuvre du Grenelle de l'environnement. L'atteinte de ces objectifs nécessite un fort développement de l'énergie éolienne terrestre, une des énergies renouvelables les plus compétitives, participant à l'équilibre entre la production et la consommation d'électricité. Ainsi, la programmation pluriannuelle des investissements (PPI) de production d'électricité prévoit que 19 000 MW de puissance éolienne seront installés sur terre et 6 000 MW en mer à l'horizon 2020. Aujourd'hui, ce sont environ 6 200 MW d'installations éoliennes qui sont installés à terre. Le démantèlement de ces installations devra être effectué en fin d'exploitation. L'article L. 553-3 du code de l'environnement prévoit, à cet effet, la constitution de garanties financières afin d'assurer la remise en état effective des sites. L'arrêté du 26 août 2011 relatif à la remise en état et à la constitution des garanties financières pour les installations de production d'électricité utilisant l'énergie mécanique du vent précise la nature des travaux pour la remise en état et le montant de ces garanties, fixées à 50 000 € par éolienne.
