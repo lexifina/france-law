@@ -86,7 +86,9 @@ a) Données relatives à la mesure d'éloignement :
 
 9° Abrogation des arrêtés d'expulsion : date de la demande ; indicateur de consultation de la commission d'expulsion ; date de notification de l'engagement de la procédure ; date de la réunion ; sens de l'avis ; date de notification de l'avis ; date, sens et date de notification de la décision ; date et résultat du réexamen quinquennal ;
 
-10° Annulation de la mesure d'expulsion : date, juridiction ; en cas de recours : date, juridiction, décision.
+10° Annulation de la mesure d'expulsion : date, juridiction ; en cas de recours : date, juridiction, décision ;
+
+11° Pour les interdictions de retour, date de la décision, dates de début et de fin de la période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
 
 b) Données relatives aux procédures juridictionnelles mises en œuvre dans le cadre de l'éloignement :
 
