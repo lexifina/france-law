@@ -114,35 +114,7 @@ Sont dispensées des deux tests permettant la vérification des exigences préal
 
 - les personnes ayant validé le premier cycle prévu à l'article 4 de l'arrêté du 30 septembre 1985 relatif à la formation du brevet d'Etat d'éducateur sportif du premier degré, option activités de la natation dont le livret de formation est en cours de validité.
 
-Modèle de certificat médical de non contre-indication à l'exercice des activités pratiquées au cours de la formation et à l'accomplissement du ou des tests préalables à l'entrée en formation pour ceux qui y sont soumis
-
-Je soussigné(e), , docteur en médecine, atteste avoir pris connaissance du contenu des tests ainsi que des activités pratiquées au cours de la formation préparatoire au brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité activités aquatiques ci-dessous mentionnés, certifie avoir examiné, M./Mme , candidat(e) à ce brevet, et n'avoir constaté à la date de ce jour, aucune contre-indication médicale apparente :
-
-- à l'accomplissement du ou des tests préalables à l'entrée en formation (si il/elle y est soumis(e)
-
-- et à l'exercice de ces activités.
-
-J'atteste en particulier que M./Mme présente une faculté d'élocution et une acuité auditive normales ainsi qu'une acuité visuelle conforme aux exigences suivantes :
-
-Sans correction : une acuité visuelle de 4/10 en faisant la somme des acuités visuelles de chaque oeil mesurées séparément sans que celle-ci soit inférieure à 1/0 pour chaque oeil. Soit au moins : 3/10 + 1/10 ou 2/10 + 2/10.
-
-Cas particulier : dans le cas d'un oeil amblyope, le critère exigé est : 4/10 + inférieur à 1/10.
-
-Avec correction :
-
-- soit une correction amenant une acuité visuelle de 10/10 pour un oeil quelle que soit la valeur de l'autre oeil corrigé (supérieur à 1/10) ;
-
-- soit une correction amenant une acuité visuelle de 13/10 pour la somme des acuités visuelles de chaque oeil corrigé, avec un oeil corrigé au moins à 8/10.
-
-Cas particulier : dans le cas d'un oeil amblyope, le critère exigé est : 10/10 pour l'autre oeil corrigé.
-
-La vision nulle à un oeil constitue une contre-indication.
-
-Certificat remis en mains propres à l'intéressé pour servir et valoir ce que de droit
-
-Fait à le
-
-(Signature et cachet du médecin)
+Modèle de certificat médical : (non reproduit) les annexes au présent arrêté sont tenues à disposition du public sur le site internet relevant du ministre chargé des sports ( http :// www. sports. gouv. fr) ainsi qu'au Bulletin officiel de la jeunesse et des sports.
 
 INFORMATIONS AU MEDECIN :
 
