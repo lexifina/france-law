@@ -636,13 +636,29 @@ La gestion du tiers payant légal par l'assurance maladie obligatoire suit les m
 
 b) Tri et transmission des ordonnances
 
-En cas de dispense d'avance des frais et sauf disposition particulière énoncée à l'alinéa suivant, le masseur-kinésithérapeute s'engage à transmettre simultanément les ordonnances papier à l'organisme d'assurance maladie (régime de l'assuré mais circonscription d'exercice du professionnel de santé) dans les mêmes délais que ceux réglementairement prévus pour la transmission des feuilles de soins électroniques, et non à la caisse gestionnaire de l'assuré.
+Dans tous les cas, la transmission de la copie de l'ordonnance, conforme aux dispositions réglementaires et déontologiques, est nécessaire pour la prise en charge des soins.
 
-Si l'ordonnance est déjà transmise à la caisse de l'assuré avec une demande d'entente préalable ou si l'ordonnance est transmise à l'appui d'une feuille de soins antérieure, aucune copie n'en sera exigée par la caisse.
+Les ordonnances sous forme papier sont accompagnées d'un bordereau récapitulatif des FSE, conforme au cahier des charges SESAM Vitale.
 
-Ces dispositions sont applicables uniquement lorsque aucune disposition réglementaire ou conventionnelle locale n'a expressément prévu ces cas.
+Le masseur-kinésithérapeute s'engage à transmettre mensuellement au centre de paiement d'assurance maladie du régime général au point d'accueil relevant de la caisse la plus proche de son cabinet professionnel les ordonnances papier afférentes aux assurés relevant du régime général, des sections locales mutualistes, de la caisse d'assurance maladie des industries électrique et gazière (CAMIEG), du régime agricole (MSA) et du régime social des indépendants (RSI).
 
-Dans tous les cas, l'ordonnance est nécessaire pour la prise en charge des soins.
+Pour les ordonnances afférentes à des assurés relevant des autres régimes d'assurance maladie obligatoire, le masseur-kinésithérapeute les adresse directement à la caisse d'affiliation des assurés.
+
+Ces ordonnances papier accompagnées de leur bordereau doivent être classées en trois catégories matérialisées par des enveloppes distinctes.
+
+- catégorie 1 (régime 01, toutes les CPAM, la CAMIEG, et les sections locales mutualistes) : tous les bordereaux récapitulatifs des FSE doivent figurer dans la même enveloppe (un bordereau par CPAM ou par section locale mutualiste), les ordonnances étant classées dans le même ordre que celui des FSE répertoriées sur le bordereau ;
+
+- catégorie 2 (régime 02, MSA, et GAMEX) : tous les bordereaux doivent figurer dans la même enveloppe (un bordereau par caisse), les ordonnances étant classées dans le même ordre que celui des FSE répertoriées sur le bordereau ;
+
+- catégorie 3 (RSI [03 et suivants]) : tous les bordereaux doivent figurer dans la même enveloppe en distinguant les assurés de chaque organisme conventionné, les ordonnances étant classées dans le même ordre que celui des FSE répertoriées sur le bordereau.
+
+A l'extérieur de chaque enveloppe, le masseur-kinésithérapeute inscrit les informations suivantes : le numéro des lots, le nombre d'ordonnances par lot, le numéro de la semaine (1 à 52) et l'identification du masseur-kinésithérapeute.
+
+En cas de dispense d'avance des frais et sauf disposition particulière énoncée à l'alinéa suivant, le masseur-kinésithérapeute s'engage à transmettre simultanément les ordonnances papier à l'organisme d'assurance maladie de la circonscription d'exercice du professionnel de santé dans les mêmes délais que ceux réglementairement prévus pour la transmission des feuilles de soins électroniques.
+
+Si l'ordonnance est déjà transmise à la caisse de l'assuré avec une demande d'accord préalable ou si l'ordonnance a déjà été transmise à l'appui d'une feuille de soins antérieure, aucune copie n'est exigée par les caisses, sauf en cas d'ordonnance numérisée.
+
+En cas de facturation sous format papier, postérieur à l'envoi au service médical d'une demande d'accord préalable et de l'ordonnance, le masseur-kinésithérapeute mentionne sur la feuille de soins " DAP effectuée "
 
 c) Traitement des incidents
 
@@ -745,3 +761,7 @@ Il y a situation de carence dans les cas suivants :
 Dans tous les cas, un constat de carence est dressé. Le cas échéant, la section à l'origine de la situation de carence est invitée par le président ou le vice-président à prendre toute disposition pour remédier à la situation dans les meilleurs délais. Si aucune solution n'est intervenue dans le mois suivant le constat, la section n'étant pas à l'origine de la carence exerce les attributions dévolues à cette instance jusqu'à ce qu'il soit remédié à la situation de carence.
 
 Lorsque la carence résulte du refus de voter un point inscrit à l'ordre du jour, le constat de carence ne porte que sur ce point.
+
+NOTA :
+
+Les articles 5. 3. 1 a, 5. 3. 2 a, 5. 3. 3 a de la convention nationale des masseurs-kinésithérapeutes libéraux ont été modifiés par un avis publié au Journal officiel de la République française du 8 mars 2008.
