@@ -1,37 +1,29 @@
 # Article Annexe V
 
-EQUIVALENCES
+Équivalences
 
-Les titulaires d'un des diplômes fédéraux ou d'une des qualifications suivants, obtiennent l'équivalence des UC du certificat de spécialisation "activités d'escalade" :
+Certificat de spécialisation activités d'escalade
 
-Pour l'UC 1 "techniques de progression et de sécurité" :
+Obtient de droit l'unité capitalisable 1 (UC 1) techniques de progression et de sécurité du certificat de spécialisation activités d'escalade , le titulaire de l'un des brevets fédéraux suivants :
 
-- le brevet "initiateur escalade" délivré par la FFME ;
+- brevet fédéral initiateur escalade délivré par la Fédération française de la montagne et de l'escalade(FFME) à jour de sa formation continue ;
 
-- le brevet "initiateur escalade" délivré par la FFCAM ;
+- brevet fédéral moniteur escalade sportive délivré parla Fédération française de la montagne et de l'escalade(FFME) à jour de sa formation continue ;
 
-- le brevet "animateur escalade 2" (A2) délivré par l'UFOLEP ;
+- brevet fédéral moniteur grands espaces délivré par la Fédération française de la montagne et de l'escalade(FFME) à jour de sa formation continue ;
 
-- le brevet "initiateur escalade" délivré par la FSGT.
+- brevet fédéral initiateur escalade sur site naturel d'escalade délivré par la Fédération française des clubs alpins et de montagne (FFCAM) à jour de son recyclage ;
 
-Pour l'UC 2 "encadrement" :
+- brevet fédéral de moniteur d'escalade délivré par la Fédération française des clubs alpins et de montagne(FFCAM) à jour de son recyclage ;
 
-- le brevet "initiateur escalade" délivré par la FFME ;
+- brevet fédéral d'animateur deuxième degré escalade délivré par l'Union française des œuvres laïques d'éducation physique (UFOLEP) ;
 
-- le brevet "initiateur escalade" délivré par la FFCAM ;
+- brevet initiateur escalade délivré par la Fédération sportive gymnique du travail (FSGT).
 
-- le brevet "animateur escalade 2" (A2) délivré par l'UFOLEP ;
+Obtient de droit l'unité capitalisable 2 (UC2) encadrement en sécurité du certificat de spécialisation activités d'escalade , le titulaire de l'un des brevets fédéraux suivants :
 
-- le brevet "initiateur escalade" délivré par la FSGT
+- brevet fédéral de moniteur escalade sportive délivré par la Fédération française de la montagne et de l'escalade(FFME) à jour de sa formation continue ;
 
-Pour l'UC 3 "matériels et équipements" :
+- brevet fédéral de moniteur d'escalade délivré par la Fédération française des clubs alpins et de montagne(FFCAM) à jour de son recyclage ;
 
-- les qualifications suivantes délivrées par la FFME (détenues cumulativement ) :
-
-- "gestion et équipement des SNE" ;
-
-- "ouvreur de club" ou "gestion et animation des SAE" ;
-
-- "gestionnaire des EPI" ;
-
-- "moniteur escalad'arbre".
+- brevet fédéral d'animateur deuxième degré escalade délivré par l'Union française des œuvres laïques d'éducation physique (UFOLEP).

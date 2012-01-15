@@ -1,43 +1,47 @@
 # Article Annexe IV
 
-EXIGENCES PREALABLES A L'ENTREE EN FORMATION
+Exigences préalables à l'entrée en formation
 
-Les exigences préalables complémentaires à l'annexe III de la spécialité du BPJEPS que complète le certificat de spécialisation "activités d'escalade", ont pour objectif de vérifier les capacités du candidat à suivre le cursus de formation.
+Certificat de spécialisation activités d'escalade
+
+Les exigences préalables ont pour objectif de vérifier les capacités du candidat à suivre le cursus de formation.
 
 Elles sont définies ainsi :
 
-Etre capable de progresser efficacement et de maîtriser les connaissances, les techniques de sécurité de l'escalade correspondant aux niveaux de pratique suivants :
+Être capable de progresser efficacement et de maîtriser les connaissances, les techniques de sécurité de l'escalade correspondant aux niveaux de pratique suivants :
 
 - 5a en bloc ;
 
 - 6a en tête et à vue, sur SAE ou site naturel.
 
-Ces capacités sont vérifiées par un test de sélection organisé avant la formation. Il se déroule de la manière suivante :
+Ces capacités sont vérifiées par un test de sélection organisé avant la formation. Il se déroule de la manière suivante:
 
-- enchaîner, en posant les dégaines, au moins une voie d'escalade cotée 6a (en tête à vue) sur trois proposées ;
+- enchaîner, au moins une voie d'escalade cotée 6a (en tête à vue) sur trois proposées ;
 
-- effectuer une manœuvre de réchappe dans une des voies ;
+- effectuer une manœuvre de maillon rapide au sommet d'une des voies en respectant la chaîne d'assurage ;
 
-- installer un relais en haut d'une voie équipée ;
+- installer sa corde en rappel au sommet d'une voie et descendre auto-assuré ;
 
-- puis descendre en rappel auto-assuré ;
+- enchaîner un passage de bloc côté 5a ;
 
-- enchaîner un passage de bloc coté 5a après travail si nécessaire ;
+- assurer la sécurité d'un grimpeur en tête.
 
-- assurer la sécurité d'un grimpeur lors du passage de son test.
+Dispenses du test de sélection
 
-Dispenses et équivalences du test de sélection
+Le titulaire de l'un des diplômes, brevets fédéraux ou de l'une des attestations suivants est dispensé des exigences préalables à l'entrée en formation :
 
-Les titulaires d'un des diplômes fédéraux ou d'une des attestations suivants obtiennent l'équivalence des exigences préalables complémentaires à l'entrée en formation et sont dispensés du test de sélection :
+- brevet d'aptitude professionnelle d'assistant animateur technicien (BAPAAT) support technique escalade ;
 
-- le passeport bleu ou niveau supérieur délivré par la Fédération française de la montagne et de l'escalade (FFME) ;
+- brevet d'initiateur escalade délivré par la Fédération française de la montagne et de l'escalade (FFME) à jour de sa formation continue ;
 
-- le brevet d'initiateur SAE ou supérieur délivré par la FFME ;
+- brevet de moniteur escalade sportive délivré par la Fédération française de la montagne et de l'escalade(FFME) à jour de sa formation continue ;
 
-- le brevet fédéral Initiateur sur SNE délivré par la Fédération française des clubs alpins et de montagne (FFCAM) ;
+- brevet de moniteur grands espaces délivré par la Fédération française de la montagne et de l'escalade(FFME) à jour de sa formation continue ;
 
-- le certificat A1 délivré par l'Union française des œuvres laïques d'éducation physique (UFOLEP) ;
+- brevet fédéral initiateur escalade sur Site Naturel d'Escalade délivré par la Fédération française des clubs alpins et de montagne (FFCAM) à jour de son recyclage ;
 
-- le brevet "initiateur escalade" délivré par la Fédération sportive gymnique du travail (FSGT) ;
+- brevet fédéral de moniteur d'escalade délivré par la Fédération française des clubs alpins et de montagne(FFCAM) à jour de son recyclage ;
 
-- le brevet d'aptitude professionnelle d'assistant animateur technicien (BAPAAT) support technique "escalade".
+- brevet fédéral d'instructeur d'escalade délivré par la Fédération française des clubs alpins et de montagne(FFCAM) à jour de son recyclage ;
+
+- brevet fédéral d'animateur premier degré escalade délivré par l'Union française des œuvres laïques d'éducation physique (UFOLEP) ;
