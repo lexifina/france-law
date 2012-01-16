@@ -6,7 +6,7 @@ Le forfait annuel en heures peut être conclu avec :
 
 1° Les salariés cadres remplissant les conditions définies à l'article L. 212-15-3 du code du travail dont le volume annuel de la durée du temps de travail est connu mais dont les modalités de son fractionnement ne peuvent être préétablies du fait de la nature de leurs fonctions, des responsabilités qu'ils exercent ou du degré d'autonomie dont ils disposent dans l'organisation de leur emploi du temps.
 
-2° Les salariés classés au moins au coefficient 340 pouvant se voir attribuer la qualité de cadre au sens de la convention collective conformément au premier alinéa de l'article 26, chapitre Ier, s'ils bénéficient dans l'organisation de leur temps de travail d'une réelle autonomie.
+2° Les salariés dont l'emploi est classé au minimum au niveau VI de la classification conventionnelle des emplois prévue par l'avenant du 16 décembre 2010 pouvant se voir attribuer la qualité de cadre au sens de la convention collective conformément au premier alinéa de l'article 26, chapitre Ier, s'ils bénéficient dans l'organisation de leur temps de travail d'une réelle autonomie.
 
 Peuvent être visés par cette disposition :
 
@@ -48,7 +48,7 @@ Si le salarié n'a pas acquis un droit complet à congés payés, le nombre d'he
 
 Exemple :
 
-Un salarié au coefficient 340 se voit proposer un forfait avec référence à un horaire annuel de 1 600 heures majoré de 10 %, soit 1 760 heures.
+un salarié dont l'emploi est classé au coefficient B70 de la classification conventionnelle des emplois prévue par l'avenant du 16 décembre 2010 se voit proposer un forfait avec référence à un horaire annuel de 1 600 heures majoré de 10 %, soit 1 760 heures.
 
 Sa rémunération forfaitaire annuelle doit être au moins égale au salaire minimal du coefficient 340 x 12 majoré de 15 %, soit au 1er septembre 2003 : ([1670,38 € x 12] x 1,15) = 23 051,24 €.
 
@@ -58,9 +58,7 @@ Le bulletin de paie doit faire apparaître la durée moyenne mensuelle sur la ba
 
 Si, en fin d'année civile, la durée annuelle convenue au contrat a été dépassée, les heures excédentaires sont payées, en accord avec le salarié, sur la base du taux horaire de l'intéressé, majoré au taux légal, ou peuvent être remplacées par un repos équivalent que le salarié peut affecter au compte épargne-temps.
 
-14.3. Repos
-
-(1)
+14.3. Repos (1)
 
 Outre cette majoration salariale, les salariés au forfait avec référence à un horaire annuel bénéficient de 1 semaine de repos par an.
 

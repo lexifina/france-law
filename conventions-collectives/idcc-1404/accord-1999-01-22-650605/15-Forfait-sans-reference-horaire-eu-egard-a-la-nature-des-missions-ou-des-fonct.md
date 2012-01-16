@@ -1,4 +1,4 @@
-# Article 15 (1)
+# Article 15
 
 Les parties signataires s'inscrivent dans le cadre de la loi du 13 juin 1998 et des réflexions menées depuis pour inclure les fonctions d'encadrement dans le bénéfice de la réduction du temps de travail.
 
@@ -8,7 +8,7 @@ D'ores et déjà, elles conviennent que les personnels ci-dessous définis bén�
 
 Ne peuvent bénéficier du forfait sans référence horaire que les cadres dirigeants au sens de l'article L. 212-15-1 du code du travail. Sont considérés comme ayant la qualité de cadre dirigeant les cadres auxquels sont confiées des responsabilités dont l'importance implique une grande indépendance dans l'organisation de leur emploi du temps, qui sont habilités à prendre des décisions de façon largement autonome et qui perçoivent une rémunération se situant dans les niveaux les plus élevés des systèmes de rémunération pratiqués dans l'entreprise ou ses établissements.
 
-Un cadre dirigeant doit être classé au minimum au niveau VI, échelon 3, coefficient 500.
+Un cadre dirigeant doit être classé au minimum au niveau VIII de la classification conventionnelle des emplois prévue par l'avenant du 16 décembre 2010.
 
 15.2. Définition
 
@@ -31,5 +31,3 @@ Les salariés au forfait de mission ou à la nature des fonctions bénéficient 
 Le salarié pourra affecter en tout ou partie ce repos au compte épargne-temps.
 
 Les partenaires sociaux conviennent de se rencontrer avant le 30 avril 1999 pour examiner la question des salariés itinérants du fait de la spécificité de leur activité ; question qui n'a pas trouvé de solution dans le cadre du présent accord.
-
-(1) Article étendu sous réserve de l'application des articles L. 212-5, L. 212-5-1 et L. 212-6 du code du travail (arrêté du 14 avril 1999, art. 1er).
