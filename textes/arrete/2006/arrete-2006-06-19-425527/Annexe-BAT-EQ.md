@@ -238,29 +238,35 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EQ-07
 
-Rideaux de nuit sur meubles frigorifiques de type vertical
-
-à température positive
+Rideaux de nuit sur meubles frigorifiques de type vertical à température positive
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux de distribution alimentaire au public de produits frais tels qu'hypermarchés, supermarchés, petits magasins alimentaires.
+Locaux de distribution alimentaire au public de produits frais tels que hypermarchés, supermarchés, petits magasins alimentaires, etc.
 
 2. Dénomination :
 
-Mise en place de rideaux de nuit sur un mètre linéaire de meubles frigorifiques de vente de type vertical positif ouvert à groupe extérieur durant les périodes de fermeture au public (12 heures par jour).
+Mise en place de rideaux de nuit sur 1 mètre linéaire de meubles frigorifiques de vente de type vertical positif ouvert à groupe extérieur durant les périodes de fermeture au public.
 
 3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
-
-7 ans.
+4. Durée de vie conventionnelle : 7 ans.
 
 5. Montant de certificats en kWh cumac :
 
-4 700 kWh cumac/mètre linéaire.
+4 700 kWh cumac/mètre linéaire |
+
+× |
+
+LONGUEUR (m) |
+
+|
+
+|
+
+L |
 
 Certificats d'économies d'énergie
 
@@ -358,15 +364,15 @@ Installation réalisée par un professionnel.
 
 400 kWh cumac.
 
-Certificats d'économie d'énergie
+Certificats d'économies d'énergie
 
-Opération n°BAT-EQ-11
+Opération n° BAT-EQ-11
 
 Nappe d'éclairage fluorescent en tube T5
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux de commerces existants, de surface de vente supérieure à 400 m².
+Locaux de commerces existants, de surface de vente supérieure à 400 m².
 
 2. Dénomination :
 
@@ -374,65 +380,49 @@ Installation d'une nappe d'éclairage fluorescent composée de tubes T5.
 
 3. Conditions pour la délivrance de certificats :
 
-Attestation par l'installateur de la valeur de l'intensité d'éclairage en lux I, mesurée à 1,5 m du sol.
+Attestation par l'installateur de la valeur de l'intensité d'éclairage en lux (I), mesurée à 1,5 m du sol.
 
-4. Durée de vie conventionnelle :
+Mise en place réalisée par un professionnel.
 
-10 ans.
+4. Durée de vie conventionnelle : 10 ans.
 
 5. Montant de certificats en kWh cumac :
 
 MONTANT UNITAIRE
 
-(en kWh cumac/[m².lux])
+en kWh cumac/(m².lux)
 
 |
 
 |
 
-SURFACE
-
-(en m²)
+SURFACE (m²) |
 
 |
 
-|
+INTENSITÉ D'ÉCLAIRAGE (lux) |
 
-INTENSITÉ D'ÉCLAIRAGE
+0,31 |
 
-|
+x |
 
-0,31
+S |
 
-|
-
-X
+x
 
 |
 
-S
+I |
 
-|
-
-X
-
-|
-
-I
-
-|
-
-Certificats d'économie d'énergie
+Certificats d'économies d'énergie
 
 Opération n° BAT-EQ-12
 
-Porte non chauffante à haute performance d'isolation
-
-pour armoire verticale à froid négatif
+Porte non chauffante à haute performance d'isolation pour armoire verticale à froid négatif
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux de commerces de distribution alimentaire.
+Locaux de commerces de distribution alimentaire.
 
 2. Dénomination :
 
@@ -442,17 +432,29 @@ Mise en place d'une porte non chauffante à haute performance d'isolation pour a
 
 La porte doit être équipée :
 
-― d'un vitrage avec coefficient U ≤ 0,9 W/(m²K).
+- d'un vitrage avec coefficient U ≤ 0,9 W/(m².K) ;
 
-― d'un encadrement à faible conduction thermique, sans cordon chauffant.
+- d'un encadrement à faible conduction thermique, sans cordon chauffant.
 
-4. Durée de vie conventionnelle :
+Mise en place réalisée par un professionnel.
 
-7 ans.
+4. Durée de vie conventionnelle : 7 ans.
 
 5. Montant de certificats en kWh cumac :
 
-14 100 kWh cumac.
+14 100 kWh cumac/porte |
+
+x
+
+|
+
+NOMBRE DE PORTES |
+
+|
+
+|
+
+N |
 
 Certificats d'économie d'énergie
 
@@ -486,17 +488,15 @@ Installation réalisée par un professionnel.
 
 N = nombre de blocs commandés par l'automatisme de mise au repos.
 
-Certificats d'économie d'énergie
+Certificats d'économies d'énergie
 
 Opération n° BAT-EQ-14
 
-Meuble frigorifique de type vertical
-
-avec uniquement éclairage en fronton
+Meuble frigorifique de type vertical avec uniquement éclairage en fronton
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux de commerces de distribution alimentaire.
+Locaux commerce de distribution alimentaire.
 
 2. Dénomination :
 
@@ -504,29 +504,31 @@ Mise en place d'un meuble frigorifique de vente de type vertical avec un éclair
 
 3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
-
-7 ans.
+4. Durée de vie conventionnelle : 7 ans.
 
 5. Montant de certificats en kWh cumac :
 
-5 700 kWh cumac × L.
+5 700 kWh cumac/mètre linéaire |
 
-L = longueur du meuble frigorifique en mètres linéaires.
+x |
 
-Certificats d'économie d'énergie
+L
+
+|
+
+L correspond à la longueur du meuble frigorifique installé en mètre linéaire.
+
+Certificats d'économies d'énergie
 
 Opération n° BAT-EQ-15
 
-Système de régulation des cordons chauffants
-
-d'une porte d'armoire verticale à froid négatif
+Système de régulation des cordons chauffants d'une porte d'armoire verticale à froid négatif
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux de commerces de distribution alimentaire.
+Locaux de commerce de distribution alimentaire.
 
 2. Dénomination :
 
@@ -534,15 +536,27 @@ Mise en place d'un système de régulation des cordons chauffants d'une porte vi
 
 3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
-
-7 ans.
+4. Durée de vie conventionnelle : 7 ans.
 
 5. Montant de certificats en kWh cumac :
 
-7 700 kWh cumac/porte.
+7 700 kWh cumac/porte |
+
+x
+
+|
+
+NOMBRE DE PORTES |
+
+|
+
+|
+
+N
+
+|
 
 Certificats d'économies d'énergie
 
@@ -592,37 +606,43 @@ Opération n° BAT-EQ-17
 
 Installation frigorifique négative de type cascade utilisant du CO2
 
-1. Secteur d'application
+1. Secteur d'application :
 
-Locaux de commerce de distribution alimentaire de surface de vente inférieure à 5 000m².
+Locaux de commerce de distribution alimentaire de surface de vente inférieure à 10 000 m².
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'une installation frigorifique négative du type cascade utilisant du CO2 comme fluide frigorigène.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
-
-Montant en kWh cumac / kW |
-
-X |
-
-Puissance frigorifique négative en kW
-
-de l'installation |
-
-8 300
+8300
 
 |
 
-P |
+x
+
+|
+
+PUISSANCE FRIGORIFIQUE NÉGATIVE EN kW
+
+de l'installation
+
+|
+
+|
+
+|
+
+P
+
+|
 
 Certificats d'économies d'énergie
 
@@ -630,41 +650,45 @@ Opération n° BAT-EQ-18
 
 Sous-refroidissement du liquide d'une installation de production de froid négatif
 
-1. Secteur d'application
+1. Secteur d'application :
 
-Locaux de commerce de distribution alimentaire de surface de vente inférieure à 5 000m².
+Locaux de commerce de distribution alimentaire de surface de vente inférieure à 10 000 m².
 
-2. Dénomination
+2. Dénomination :
 
 Sous-refroidissement du liquide d'une installation de production de froid négatif.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Une attestation d'un sous-refroidissement du liquide de l'installation de production de froid négatif d'au moins 20°C au-dessous de la température de condensation, après réalisation de l'opération, doit être fournie par l'installateur.
+Une attestation d'un sous-refroidissement du liquide de l'installation de production de froid négatif d'au moins 20 °C au-dessous de la température de condensation, après réalisation de l'opération, est fournie par l'installateur.
 
-4. Durée de vie conventionnelle
+Mise en place réalisée par un professionnel.
 
-7 ans
+4. Durée de vie conventionnelle : 7 ans.
 
-5. Montant de certificats en kWh cumac
-
-Montant en
-
-kWh cumac / kW
-
-|
-
-X |
-
-Puissance frigorifique négative
-
-en kW de l'installation |
+5. Montant de certificats en kWh cumac :
 
 8 700
 
 |
 
-P |
+x
+
+|
+
+PUISSANCE FRIGORIFIQUE NÉGATIVE EN kW
+
+de l'installation
+
+|
+
+|
+
+|
+
+P
+
+|
 
 Certificats d'économies d'énergie
 
@@ -1069,5 +1093,179 @@ X |
 Autres secteurs |
 
 200 |
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-23
+
+Moto-variateur synchrone à aimants permanents
+
+1. Secteur d'application :
+
+Bâtiments tertiaires.
+
+2. Dénomination :
+
+Installation d'un moto-variateur synchrone à aimants permanents de puissance comprise entre 0,75 kW et 500 kW.
+
+3. Conditions pour la délivrance de certificats :
+
+Sans objet.
+
+4. Durée de vie conventionnelle :
+
+15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+APPLICATION
+
+|
+
+MONTANT kWh CUMAC
+
+par kW de puissance moteur
+
+|
+
+|
+
+PUISSANCE NOMINALE
+
+du moteur
+
+(en kW)
+
+|
+
+Chauffage, pompage
+
+|
+
+22 000
+
+|
+
+|
+
+|
+
+Ventilation, renouvellement d'air
+
+|
+
+Locaux assurant un hébergement
+
+|
+
+39 000
+
+|
+
+|
+
+|
+
+|
+
+Autres locaux
+
+|
+
+14 000
+
+|
+
+×
+
+|
+
+P
+
+|
+
+Réfrigération
+
+|
+
+11 000
+
+|
+
+|
+
+|
+
+Climatisation
+
+|
+
+3 000
+
+|
+
+|
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-24
+
+Fermetures des meubles frigorifiques
+
+de vente à température positive
+
+1. Secteur d'application :
+
+Locaux existants de distribution de produits frais tels que : hypermarchés, supermarchés, magasins de proximité, etc.
+
+2. Dénomination de l'opération standardisée :
+
+Cette opération standardisée vise les meubles frigorifiques verticaux à température positive dans les bâtiments existants pour les améliorations suivantes :
+
+- installation de kits de portes en verre sur des meubles existants ;
+
+- ou installation de meubles neufs, équipés de portes en verre.
+
+3. Conditions pour la délivrance de certificats :
+
+Le vitrage des portes a un coefficient de transmission thermique de Ug ≤ 1,8 W/m².K, évalué selon la norme EN 673.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 7 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE
+
+(en kWh cumac/mètre linéaire)
+
+|
+
+|
+
+LONGUEUR DE LINÉAIRE ÉQUIPÉ DE PORTE EN VERRE
+
+(en mètre linéaire)
+
+|
+
+|
+
+×
+
+|
+
+|
+
+27 000
+
+|
+
+L
 
 |

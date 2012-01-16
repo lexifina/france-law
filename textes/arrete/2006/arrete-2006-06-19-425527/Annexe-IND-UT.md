@@ -306,113 +306,19 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-06
 
-Contrôle du moteur d'un tracteur
-
-1. Secteur d'application :
-
-Agriculture.
-
-2. Dénomination :
-
-Contrôle du moteur d'un tracteur sur banc d'essai mobile et réglages si nécessaires.
-
-L'opération comprend le contrôle du moteur sur banc d'essai et les conseils délivrés à l'agriculteur ou au chauffeur. Ces conseils peuvent porter sur la conduite, l'entretien et les réglages du matériel.
-
-3. Conditions pour la délivrance de certificats :
-
-Réalisation du contrôle par un opérateur participant au réseau national coordonné par le Réseau mixte technologique (RMT) agroéquipement énergie.
-
-4. Durée de vie conventionnelle :
-
-2 ans.
-
-5. Montant de certificats en kWh cumac : 9 700 kWh cumac.
+(Supprimé)
 
 Certificats d'économies d'énergie
 
 Opération n°IND-UT-07
 
-Ordinateur climatique avec module
-
-d'intégration de température
-
-1. Secteur d'application :
-
-Agriculture : serres maraîchères et horticoles.
-
-2. Dénomination :
-
-Mise en place d'un ordinateur climatique accompagné d'un module d'intégration de température pour la gestion des cultures des serres maraîchères et horticoles.
-
-3. Conditions pour la délivrance de certificats :
-
-Installation réalisée par un professionnel.
-
-4. Durée de vie conventionnelle :
-
-5 ans.
-
-5. Montant de certificats en kWh cumac :
-
-ACTIVITÉ
-
-|
-
-MONTANT EN kWh cumac/m²
-
-de serre chauffée
-
-|
-
-Serres maraîchères
-
-|
-
-140
-
-|
-
-Serres horticoles
-
-|
-
-71
-
-|
+(Supprimé)
 
 Certificats d'économies d'énergie
 
 Opération n° IND-UT-08
 
-Ballon de stockage d'eau chaude de type "Open Buffer"
-
-1. Secteur d'application :
-
-Agriculture : serres maraîchères.
-
-2. Dénomination :
-
-Mise en place d'un ballon de stockage d'eau chaude de type "Open Buffer" raccordé à des serres maraîchères neuves ou existantes.
-
-3. Conditions pour la délivrance de certificats :
-
-Pilotage informatique du dispositif de stockage de l'eau chaude dans le ballon.
-
-Mise en place réalisée par un professionnel.
-
-4. Durée de vie conventionnelle :
-
-15 ans.
-
-5. Montant de certificats en kWh cumac :
-
-Montant de kWh cumac par m² de serre chauffé.
-
-|
-
-340
-
-|
+(Supprimé)
 
 Certificats d'économies d'énergie
 
@@ -1010,35 +916,7 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-11
 
-Ballon de stockage d'eau chaude
-
-1. Secteur d'application :
-
-Agriculture : serres maraîchères et horticoles.
-
-2. Dénomination.
-
-Mise en place d'un ballon de stockage d'eau chaude.
-
-3. Conditions de délivrance de certificats :
-
-La capacité du ballon est adaptée aux caractéristiques de la serre.
-
-Mise en place par un professionnel.
-
-4. Durée de vie conventionnelle.
-
-15 ans.
-
-5. Montant de certificats en kWh cumac :
-
-Montant en kWh cumac par m² de serre chauffé.
-
-|
-
-170
-
-|
+(Supprimé)
 
 Certificats d'économies d'énergie
 
@@ -1314,35 +1192,35 @@ Opération n° IND-UT-14
 
 Moto-variateur synchrone à aimants permanents
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Industrie.
 
-2. Dénomination
+2. Dénomination :
 
 Installation d'un moto-variateur synchrone à aimants permanents de puissance comprise entre 0,75 kW et 500 kW.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Sans objet.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
+APPLICATION |
 
-Application |
+MONTANT UNITAIRE
 
-Montant unitaire en
+en kWh cumac/kW
 
-kWh cumac/kW |
+|
 
 X |
 
-Puissance du
+PUISSANCE DU MOTEUR
 
-moteur en kW |
+en kW |
 
 Pompage |
 
@@ -1354,13 +1232,19 @@ Ventilation |
 
 27 000 |
 
+Compresseur air
+
+|
+
+12 000
+
+|
+
 Compresseur froid |
 
 15 000 |
 
-Convoyeurs,
-
-broyeurs, agitateurs |
+Convoyeur, broyeur, agitateur |
 
 12 000 |
 
@@ -1470,39 +1354,39 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-16
 
-Régulation d'un groupe de production de froid permettant d'avoir une haute pression flottante
+Régulation sur un groupe de production de froid
 
-1. Secteur d'application
+permettant d'avoir une haute pression flottante
+
+1. Secteur d'application :
 
 Industrie.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un système de régulation permettant de faire varier la haute pression (HP) du cycle frigorifique en fonction de la température extérieure.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Attestation du fournisseur pour l'installation d'une HP flottante permettant la fluctuation de la pression de condensation en fonction de la température extérieure.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans.
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 |
 
 |
 
-Zone climatique |
+ZONE CLIMATIQUE |
 
 |
 
 |
 
-Niveau d'évaporation |
+NIVEAU D'ÉVAPORATION |
 
 |
 
@@ -1514,15 +1398,13 @@ X |
 
 H1, H2 |
 
-6 900
+9 900
 
 |
 
 X |
 
-Froid positif
-
-(de -5°C à +5°C)
+Froid positif (de -5°C à +5°C)
 
 TEvaporation moyenne = 0°C
 
@@ -1530,11 +1412,9 @@ TEvaporation moyenne = 0°C
 
 1,0 |
 
-Basses températures
+Basses températures (de -25°C à
 
-(de -25°C à -6°C)
-
-TEvaporation moyenne = -15°C
+-6°C) TEvaporation moyenne = -15°C
 
 |
 
@@ -1542,15 +1422,13 @@ TEvaporation moyenne = -15°C
 
 H3 |
 
-5 300
+7 600
 
 |
 
-Très basses températures
+Très basses températures (de -56°C
 
-(de -56°C à -26°C)
-
-TEvaporation moyenne = -38°C
+à -26°C) TEvaporation moyenne = -38°C
 
 |
 
@@ -1562,57 +1440,59 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-17
 
-Récupération de chaleur sur groupe de production de froid
+Récupération de chaleur sur un groupe
 
-1. Secteur d'application
+de production de froid
+
+1. Secteur d'application :
 
 Industrie.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un système de récupération de chaleur sur un groupe de production de froid afin de chauffer ou préchauffer de l'eau ou de l'air.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Sans objet.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans.
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
+L'installation est équipée d'un refroidisseur d'huile :
 
-Si l'installation est équipée d'un refroidisseur d'huile :
+Récupération pour valorisation de la chaleur du condenseur ;
+
+|
+
+33 100 x Pcompresseur(s)
+
+|
+
+Récupération pour valorisation de la chaleur du désurchauffeur ; |
+
+5 500 x Pcompresseur(s)
+
+|
+
+Récupération pour valorisation de la chaleur du refroidisseur d'huile ; |
+
+5 500 x Pcompresseur(s)
+
+|
+
+L'installation n'est pas équipée d'un refroidisseur d'huile :
 
 Récupération pour valorisation de la chaleur du condenseur |
 
-29 400 x Pcompresseur(s)
+33 100 x Pcompresseur(s)
 
 |
 
 Récupération pour valorisation de la chaleur du désurchauffeur |
 
-4 700 x Pcompresseur(s)
-
-|
-
-Récupération pour valorisation de la chaleur du refroidisseur d'huile |
-
-3 900 x Pcompresseur(s)
-
-|
-
-Si l'installation n'est pas équipée d'un refroidisseur d'huile :
-
-Récupération pour valorisation de la chaleur du condenseur |
-
-29 400 x Pcompresseur(s)
-
-|
-
-Récupération pour valorisation de la chaleur du désurchauffeur |
-
-9 400 x Pcompresseur(s)
+11 000 x Pcompresseur(s)
 
 |
 
@@ -1669,3 +1549,95 @@ http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20110128&nu
 La température des fumées considérée au niveau de l'axe des abscisses est la température d'extraction des fumées (en sortie de four) avant le remplacement des brûleurs.
 
 La température moyenne d'air préchauffé est fournie par le constructeur.
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-19
+
+Evaporateur performant
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Mise en place d'un évaporateur performant.
+
+3. Conditions pour la délivrance de certificats :
+
+L'évaporateur comporte au moins 5 effets.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Pour la chimie-pharmacie :
+
+MONTANT EN kWh CUMAC
+
+pour un évaporateur selon le nombre d'effets
+
+|
+
+|
+
+PUISSANCE THERMIQUE
+
+de l'évaporateur en kW
+
+|
+
+700 pour 5 effets |
+
+|
+
+|
+
+|
+
+× |
+
+P |
+
+1 200 pour 6 effets ou plus |
+
+|
+
+|
+
+Pour l'agro-alimentaire :
+
+MONTANT EN kWh CUMAC
+
+pour un évaporateur selon le nombre d'effets
+
+|
+
+|
+
+PUISSANCE THERMIQUE
+
+de l'évaporateur en kW
+
+|
+
+600 pour 5 effets |
+
+|
+
+|
+
+|
+
+× |
+
+P
+
+|
+
+1 000 pour 6 effets ou plus |
+
+|
+
+|

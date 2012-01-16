@@ -4,29 +4,7 @@ Certificats d'économies d'énergie
 
 Opération n° IND-BA-01
 
-Détecteur de présence sur un dispositif d'éclairage
-
-1. Secteur d'application :
-
-Industrie.
-
-2. Dénomination :
-
-Installation d'un détecteur de présence sur un dispositif d'éclairage artificiel intérieur équipé de tube(s) fluorescent(s).
-
-3. Conditions pour la délivrance de certificats :
-
-Sans objet.
-
-4. Durée de vie conventionnelle :
-
-10 ans.
-
-5. Montant de certificats en kWh cumac :
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 156 du 07/07/2006 texte numéro 28
+(Supprimé)
 
 Certificats d'économies d'énergie
 
@@ -333,5 +311,277 @@ P
 |
 
 80
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° IND-BA-10
+
+Dé-stratificateur d'air
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Mise en place d'un dé-stratificateur ou brasseur pour l'homogénéisation de la température de l'air d'un local industriel.
+
+3. Conditions pour la délivrance des certificats :
+
+Le dé-stratificateur ou brasseur est équipé d'un thermostat.
+
+Le local industriel a une hauteur d'au moins 5 mètres et est chauffé par aérothermes.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+|
+
+|
+
+ZONE
+
+climatique
+
+|
+
+HAUTEUR DU LOCAL h
+
+(en mètres)
+
+|
+
+|
+
+RÉGIME
+
+de fonctionnement
+
+|
+
+MONTANT
+
+(en kWh cumac)
+
+|
+
+|
+
+|
+
+5 ≤ h < 10 |
+
+h ≥ 10 |
+
+|
+
+P |
+
+× |
+
+H1 |
+
+1,0
+
+|
+
+2,7
+
+|
+
+× |
+
+1 x 8 h |
+
+1 500
+
+|
+
+|
+
+|
+
+H2 |
+
+1,1 |
+
+3,1 |
+
+|
+
+2 x 8 h |
+
+3 000 |
+
+|
+
+|
+
+H3 |
+
+1,4 |
+
+3,7 |
+
+|
+
+3 x 8 h avec arrêt le week-end |
+
+3 200
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 x 8 h sans arrêt le week-end |
+
+4 500 |
+
+Avec P la puissance de chauffage en kW de l'aérotherme assurant le chauffage du local et h la hauteur sous plafond ou sous faîtage du local en mètres.
+
+Certificats d'économies d'énergie
+
+Opération n° IND-BA-11
+
+Luminaire avec ballast efficace avec ou sans système
+
+de gestion sur un dispositif d'éclairage
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Installation d'un luminaire avec ballast associé ou non à un dispositif de contrôle utilisant la détection de présence ou/et la variation automatique de la puissance du luminaire en fonction des apports naturels de lumière.
+
+3. Conditions pour la délivrance de certificats :
+
+Le ballast a un indice d'efficacité énergétique au sens de la directive 2009/125/CE du Parlement européen et du Conseil du 21 octobre 2009 établissant un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie :
+
+- A1 ou A1 bat pour les luminaires équipés d'un système de variation ;
+
+- A2 ou A2 bat pour les luminaires qui ne sont pas équipés d'un système de variation.
+
+La puissance de l'installation correspond à la somme des puissances des nouveaux luminaires.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MODE DE FONCTIONNEMENT DU SITE |
+
+1 x 8 h |
+
+2 x 8 h |
+
+3 x 8 h
+
+avec arrêt
+
+le week-end
+
+|
+
+3 x 8 h
+
+sans arrêt
+
+le week-end
+
+|
+
+|
+
+PUISSANCE
+
+de l'installation
+
+(kW)
+
+|
+
+Luminaire avec ballast électronique |
+
+4 370
+
+|
+
+8 100
+
+|
+
+10 040
+
+|
+
+13 600
+
+|
+
+|
+
+|
+
+Ballast électronique et variation automatique
+
+ou détecteur de présence
+
+|
+
+11 240
+
+|
+
+15 610
+
+|
+
+16 130
+
+|
+
+21 850
+
+|
+
+× |
+
+P |
+
+Ballast électronique et variation automatique
+
+et détecteur de présence |
+
+14 050
+
+|
+
+20 810
+
+|
+
+19 350
+
+|
+
+26 220
+
+|
+
+|
 
 |

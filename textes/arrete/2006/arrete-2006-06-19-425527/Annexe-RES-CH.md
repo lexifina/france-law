@@ -124,11 +124,13 @@ Certificats d'économies d'énergie
 
 Opération n° RES-CH-03
 
-Réhabilitation d'un poste de livraison de chaleur (bâtiment tertiaire)
+Réhabilitation d'un poste
+
+de livraison de chaleur (bâtiment tertiaire)
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure à 5 000 m², et raccordés à un réseau de chauffage urbain.
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m² et raccordés à un réseau de chauffage urbain.
 
 2. Dénomination :
 
@@ -138,7 +140,7 @@ Réhabilitation d'un poste de livraison par le remplacement de la totalité des 
 
 - régulation ;
 
-- pompes ;
+- pompes, lorsque le poste de livraison en est équipé ;
 
 - isolation thermique.
 
@@ -146,15 +148,135 @@ Réhabilitation d'un poste de livraison par le remplacement de la totalité des 
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
-
-20 ans.
+4. Durée de vie conventionnelle : 20 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+MONTANT UNITAIRE
 
-n° 303 du 31/12/2006 texte numéro 60
+en kWh cumac/m²
+
+|
+
+|
+
+SURFACE
+
+chauffée en m²
+
+|
+
+|
+
+SECTEUR D'ACTIVITÉ |
+
+FACTEUR
+
+correctif
+
+|
+
+Zone climatique |
+
+H1 |
+
+230
+
+|
+
+|
+
+|
+
+|
+
+Bureaux |
+
+1,1 |
+
+H2 |
+
+190 |
+
+x
+
+|
+
+S
+
+|
+
+x
+
+|
+
+Enseignement |
+
+0,8 |
+
+H3
+
+|
+
+130 |
+
+|
+
+|
+
+|
+
+Commerces |
+
+1,1 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Hôtellerie, restauration |
+
+1,4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Santé |
+
+0,9 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres secteurs |
+
+0,8 |
 
 Certificats d'économies d'énergie
 
@@ -162,31 +284,29 @@ Opération n° RES-CH-03-GT
 
 Réhabilitation d'un poste de livraison de chaleur
 
-dans bâtiment tertiaire de grande taille
+dans un bâtiment tertiaire de grande taille
 
 1. Secteur d'application :
 
-Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 et 10 000 m², et raccordés à un réseau de chauffage urbain.
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m² et 10 000 m² et raccordés à un réseau de chauffage urbain.
 
 2. Dénomination :
 
-Réhabilitation d'un poste de livraison par le remplacement de la totalité des éléments suivants, constitutifs du primaire du poste de livraison, par des équipements neufs :
+Réhabilitation d'un poste de livraison par le remplacement de la totalité des éléments suivants, constitutifs du primaire du poste de livraison par des équipements neufs :
 
-― échangeurs ;
+- échangeurs ;
 
-― régulation ;
+- régulation ;
 
-― pompes ;
+- pompes, lorsque le poste de livraison en est équipé ;
 
-― isolation thermique.
+- isolation thermique.
 
 3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
-
-20 ans.
+4. Durée de vie conventionnelle : 20 ans.
 
 5. Montant de certificats en kWh cumac :
 
@@ -206,7 +326,7 @@ chauffée (en m²) |
 
 X |
 
-BRANCHE
+SECTEUR D'ACTIVITÉ
 
 |
 
@@ -236,6 +356,10 @@ Bureaux
 
 |
 
+Enseignement |
+
+0,7 |
+
 H2
 
 |
@@ -260,6 +384,12 @@ Hôtellerie-restauration |
 
 |
 
+|
+
+|
+
+|
+
 Santé
 
 |
@@ -267,6 +397,16 @@ Santé
 0,9
 
 |
+
+|
+
+|
+
+|
+
+Autres secteurs |
+
+0,7 |
 
 Certificats d'économies d'énergie
 
