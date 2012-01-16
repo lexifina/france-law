@@ -1,0 +1,21 @@
+# Article 1er
+
+L' article 26 du chapitre Ier « Conditions générales » est ainsi rédigé :
+
+« Article 26
+
+Salariés cadres ou salariés pouvant être rattachés au régime de retraites des cadres
+
+Il est fait application aux salariés cadres titulaires des niveaux VII à IX (coefficients C10 à C60) de la classification conventionnelle des emplois prévue par l'avenant du 16 décembre 2010, de l'article 4 de la convention collective nationale de retraite et de prévoyance du 14 mars 1947 et de ses avenants.
+
+Les salariés non cadres titulaires du niveau VI (coefficients B70 et B80) de la même classification conventionnelle sont rattachés à l'article 4 bis de la convention collective nationale de retraite et de prévoyance du 14 mars 1947 et de ses avenants.
+
+En application de l'article 36 de l'annexe I de ladite convention, les entreprises peuvent demander l'extension du régime complémentaire au bénéfice des salariés suivants :
+
+– employés et agents de maîtrise : niveaux III à IV de la classification conventionnelle des emplois prévue par l'avenant du 16 décembre 2010 (coefficients A70 à B60 inclus) ;
+
+– techniciens : niveau IV et V de la classification conventionnelle des emplois prévue par l'avenant du 16 décembre 2010 (coefficients B10 à B60 inclus).
+
+Les salariés relevant de l'article 36 bénéficient du régime de retraite complémentaire conformément aux dispositions de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 .
+
+En ce qui concerne les salariés visés par le présent article, assujettis aux assurances sociales agricoles, tels que définis par la convention nationale de retraite et de prévoyance du 2 avril 1952, il est fait application de l' arrêté interministériel du 19 décembre 1975 portant extension du champ d'application professionnel de la convention précitée . »
