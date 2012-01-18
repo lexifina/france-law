@@ -1,0 +1,151 @@
+# Article 1er
+
+L'article 15.2 « Garanties de prévoyance » est intégralement supprimé et remplacé par les dispositions suivantes :
+
+« 15.2. Garanties de prévoyance
+
+15.2.1. Champ d'application
+
+a) Entreprises soumises
+
+Tous les organismes entrant dans le champ d'application de la convention collective de la mutualité sont tenus d'adhérer, pour la couverture de leur personnel, auprès de l'un des organismes assureurs désignés à l'article 15.2.4.
+
+b) Salariés bénéficiaires et caractère obligatoire de l'affiliation
+
+Le présent régime de prévoyance, couvrant les risques “ incapacité, invalidité, décès, rente éducation, rente de conjoint, rente de survie ”, bénéficie à l'ensemble des salariés relevant du champ d'application de la présente convention, sans condition d'ancienneté.
+
+L'affiliation des salariés au régime est obligatoire. Elle s'impose donc dans les relations individuelles de travail et les salariés ne peuvent s'opposer au précompte de leur quote-part de cotisations.
+
+c) Cas particulier des salariés en suspension du contrat de travail
+
+L'adhésion des salariés est maintenue en cas de suspension de leur contrat de travail, quelle qu'en soit la cause, dès lors qu'ils bénéficient, pendant cette période, d'un maintien de salaire, total ou partiel, ou d'indemnités journalières complémentaires financées au moins en partie par l'employeur.
+
+En cas de suspension du contrat de travail pour cause de maladie, aucune cotisation (tant patronale que salariale) ne sera due dès lors que le salarié bénéficie des prestations du présent régime.
+
+Dans les autres cas de suspension donnant lieu à indemnisation par l'employeur, ce dernier verse une contribution identique à celle versée pour les salariés actifs pendant toute la période de suspension du contrat de travail indemnisée. Parallèlement, le salarié doit obligatoirement continuer à acquitter sa propre part de cotisations.
+
+Enfin, dans les autres cas de suspension du contrat de travail ne donnant pas lieu à maintien de salaire par l'employeur ou indemnisation, les salariés auront la possibilité, s'ils le souhaitent, de solliciter auprès de l'organisme assureur leur adhésion à un contrat individuel de prévoyance leur assurant des prestations analogues à celles prévues par l'annexe IV de la présente convention. Les cotisations servant au financement de ce contrat individuel seront exclusivement à la charge du salarié, et acquittées directement auprès de l'organisme assureur.
+
+15.2.2. Garanties
+
+Les garanties dont bénéficient les salariés en application du présent régime de prévoyance sont résumées à l'annexe IV de la présente convention.
+
+En tout état de cause, il est précisé que les garanties et leurs modalités d'application relèvent de la seule responsabilité de l'organisme assureur et seront versées dans les conditions et limites fixées par le contrat d'assurance et la notice d'information.
+
+15.2.3. Cotisations
+
+La répartition des cotisations servant au financement du présent régime de prévoyance entre l'employeur et les salariés est mentionnée dans le tableau ci-dessous. Les taux sont détaillés à l'annexe V de la présente convention.
+
+|
+
+Employeur |
+
+Salarié |
+
+|
+
+TA |
+
+TB |
+
+TA |
+
+TB |
+
+Décès et rentes liées |
+
+100 % |
+
+75 % |
+
+0 % |
+
+25 % |
+
+IJ |
+
+23 % |
+
+23 % |
+
+77 % |
+
+77 % |
+
+Invalidité |
+
+87 % |
+
+87 % |
+
+13 % |
+
+13 % |
+
+15.2.4. Organisation de la mutualisation des risques
+
+a) Organismes assureurs désignés
+
+Les partenaires sociaux ont décidé de confier la couverture des garanties prévues par le présent régime de prévoyance (telles que définies en annexe IV) aux organismes assureurs suivants.
+
+Pour le personnel non cadre TA/ TB et cadre TA :
+
+– Mutex ;
+
+– mutuelle générale de prévoyance (MGP) ;
+
+– mutuelle de France prévoyance (MFP).
+
+Pour le personnel cadre TB :
+
+– Mutex ;
+
+– mutuelle générale de prévoyance (MGP) ;
+
+– mutuelle de France prévoyance (MFP) ;
+
+– Malakoff Médéric Prévoyance.
+
+La distribution et la gestion des garanties sont assurées pour le compte de Mutex par la mutuelle Chorum.
+
+b) Mutualisation des risques
+
+Les modalités d'organisation de la mutualisation des risques entre les organismes assureurs désignés sont précisées dans le cadre du contrat de garanties collectives souscrit à cet effet. Un compte de résultats unique est établi.
+
+c) Réexamen du choix des organismes désignés
+
+Conformément à l'article L. 912-1 du code de la sécurité sociale, les partenaires sociaux devront, dans un délai qui ne pourra excéder 5 ans à compter de la date d'entrée en vigueur de l'avenant n° 16 à la convention collective nationale de la mutualité, réexaminer les modalités de renouvellement des organismes assureurs désignés ci-dessus. A cet effet, ils se réuniront 6 mois avant l'échéance.
+
+d) Incidence du changement d'organisme (s) assureur (s)
+
+En cas de changement d'organisme (s) assureur (s), les rentes en cours de service seront revalorisées par le ou les nouveaux organismes assureurs, selon le même mode que le contrat précédent, conformément aux exigences de l'article L. 912-3 du code de la sécurité sociale.
+
+Les garanties décès seront également maintenues au profit des personnes bénéficiant des prestations incapacité ou invalidité à la date d'effet de la résiliation du contrat d'assurance.
+
+Enfin, les bases de calcul des différentes prestations relatives à la couverture du risque décès seront, dans ce cas, au moins égales à celles déterminées par le contrat de l'organisme assureur qui a fait l'objet de la résiliation, et les prestations décès continueront à être revalorisées après la résiliation du contrat d'assurance, lorsqu'elles prennent la forme de rente. Les partenaires sociaux s'engagent à faire couvrir cette obligation par le nouvel organisme assureur, s'agissant de la revalorisation des rentes en cours.
+
+15.2.5. Commission paritaire de suivi
+
+Une commission paritaire composée de 2 représentants par organisation syndicale représentative au plan national et d'un nombre équivalent de représentants de l'UGEM examine chaque année le fonctionnement du régime de prévoyance, et plus particulièrement les résultats du régime.
+
+Dans ce cadre, la commission exerce notamment les missions suivantes :
+
+– détermination et suivi périodique des indicateurs de pilotage du régime ;
+
+– suivi périodique des éléments statistiques ;
+
+– étude des litiges portant sur l'application du régime ;
+
+– examen des documents d'information diffusés aux employeurs et aux salariés ;
+
+– avis et propositions d'évolution après la réalisation des études techniques nécessaires.
+
+La présidence de la commission est alternativement tenue par le collège employeur et le collège salarié. Le président salarié est élu par les représentants de son collège à la majorité simple des présents. Les organismes assureurs assistent la commission dans ses travaux.
+
+Les avis de la commission sont adoptés à la majorité des présents et transmis à la commission paritaire nationale, qui aura à se prononcer tous les 5 ans sur les modalités d'application du régime, et notamment les modalités de renouvellement des organismes assureurs désignés.
+
+15.2.6. Information
+
+Les organismes assureurs désignés à l'article 15.2.4 ci-dessus remettent à chaque organisme mutualiste adhérent une notice d'information résumant notamment les garanties issues du présent régime de branche et leurs modalités d'application.
+
+Les partenaires sociaux rappellent que les organismes mutualistes adhérents sont tenus de remettre un exemplaire de cette notice à chacun de leurs salariés. »
