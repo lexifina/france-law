@@ -968,11 +968,11 @@ Bêta-galactosidase de Kluyveromyces lactis n° 013-2 (FERM P-3513). |
 
 Enzymes. |
 
-Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. |
+Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages, à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée, stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes. |
 
 Hydrolyse du lactose. |
 
-Dose techniquement inévitable. |
+Teneur techniquement inévitable. |
 
 Bêta-galactosidase de Kluyveromyces lactis GAL 16A/ 18A. |
 
@@ -1189,6 +1189,16 @@ Hydrolyse des substrats pariétaux de plantes riches en inuline : chicorée, art
 Dose techniquement inévitable.
 
 |
+
+Cellulase issue d'une souche non génétiquement modifiée de Penicillium funiculosum (PF8/403-M). |
+
+Enzymes. |
+
+Amidonnerie, brasserie, industrie de l'alcool |
+
+Hydrolyse de la cellulose. |
+
+Teneur techniquement inévitable. |
 
 Cellulase de Trichoderma longibrachiatum (ex-reesei) (RLP 37).
 
@@ -3078,7 +3088,7 @@ Dose techniquement inévitable.
 
 |
 
-Phospholipase A2 issue d'une souche de Streptomyces violaceoruber AS-10 porteuse d'un gène codant une phospholipase A2 de Streptomyces violaceoruber. |
+Phospholipase A2 issue d'une souche de Streptomyces violaceoruber AS-10 autoclonée. |
 
 Enzymes. |
 
