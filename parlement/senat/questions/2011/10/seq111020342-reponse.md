@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111020342
+
+- Question : [SEQ111020342](seq111020342.md) — Agression d'opposants au régime syrien sur le territoire français
+
+## Réponse
+
+*Intérieur, JO du 2012-01-19, page 202*
+
+La position de la préfecture de police vis-à-vis des répercussions dans la capitale de la situation politique en Syrie ne saurait être distincte de la très grande fermeté manifestée par les autorités diplomatiques françaises à l'encontre du régime syrien, récemment renouvelée par le ministre des affaires étrangères. S'agissant des manifestations d'opposition au régime syrien, la préfecture de police en a encadré près de 70 depuis le début du mouvement de contestation en Syrie, avec le souci de protéger continument la sécurité des manifestants. Pour celles des manifestations qui ont été confrontées à la présence de contre-manifestants, à des risques de troubles à l'ordre public ou à des actes de violences contre les personnes, les policiers sont intervenus avec diligence et efficacité. Ainsi, le 26 août dernier, jour du rassemblement cité par Le Monde et première des manifestations à connaître des incidents, onze personnes ont été interpellées à l'occasion de violences commises par des contre-manifestants. Les surveillances vidéo et humaines ont permis de justifier légalement le placement en garde à vue de six individus, dont trois partisans déclarés du régime syrien. Ils ont été entendus puis laissé libres sur instruction du parquet. Aucun d'entre eux n'était détenteur d'un passeport diplomatique syrien, ni d'ailleurs aucune personne interpellée à Paris depuis le début des événements. Aucun nouvel incident n'a été signalé depuis par les manifestants, et aucune plainte ne semble avoir été déposée à ce jour par des opposants syriens auprès des services de police. Les seules atteintes recensées à ce jour sont les dégradations commises au sein de la représentation culturelle officielle syrienne, les 17 et 27 octobre dernier.
