@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111120881
+
+- Question : [SEQ111120881](seq111120881.md) — Non-paiement depuis 2007 dans l'académie de Montpellier des indemnités forfaitaires liées à la fonction de conseiller pédagogique départemental en éducation physique et sportive
+
+## Réponse
+
+*Éducation, JO du 2012-01-19, page 194*
+
+Les conseillers pédagogiques départementaux pour l'éducation physique et sportive (CPD-EPS) sont des enseignants des premier et second degrés placés auprès de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale qui ne bénéficient actuellement d'aucun régime indemnitaire spécifique. Cependant, la note de service n° 82-355 du 16 août 1982 relative aux heures supplémentaires d'enseignement de l'éducation physique et sportive a prévu que les fonctions des conseillers pédagogiques départementaux peuvent faire l'objet d'une rémunération complémentaire consistant dans le versement d'indemnités pour heures supplémentaires, sous réserve d'un dépassement effectif de leurs obligations de service. Les indemnités pour heures supplémentaires précitées, réglementées par les décrets n° 50-1253 du 6 octobre 1950 et n° 66-787 du 14 octobre 1966, ont cependant vocation à rémunérer les personnels enseignants chargés d'un service d'enseignement et soumis aux obligations de service particulières qui en découlent, ce qui n'est pas le cas des CPD-EPS. Cette inadéquation de la réglementation sur les heures supplémentaires et l'indemnisation des fonctions de CPD-EPS est source de difficultés de paiement dans certaines académies. À cet effet, un projet de décret instituant une indemnité spécifique aux CPD-EPS et permettant ainsi de fonder le régime indemnitaire de ces personnels sur une base réglementaire incontestable est en cours de contreseing auprès des ministres concernés.
