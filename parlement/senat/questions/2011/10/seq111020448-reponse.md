@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111020448
+
+- Question : [SEQ111020448](seq111020448.md) — Baisse des fonds sociaux académiques
+
+## Réponse
+
+*Éducation, JO du 2012-01-19, page 193*
+
+Les fonds sociaux, collégiens et lycéens font l'objet d'une dotation aux académies sur le programme 230 - Vie de l'élève. Il appartient aux recteurs de répartir cette dotation entre les établissements de leur ressort et également entre les deux types de fonds : le fonds social pour les cantines et le fonds social collégien ou lycéen. Le montant en LFI pour les fonds sociaux s'élève à 34 M€ en 2011. Le PLF 2012 prévoit un montant identique, signe d'un engagement pérenne de l'État sur ce sujet. Toutefois, il est constaté depuis plusieurs années une exécution de la dépense plus faible que le montant initial des crédits octroyés. Sur ce même programme, les dépenses relatives aux bourses nationales qui constituent des dépenses obligatoires et qui viennent en déduction de la pension ou de la demi-pension ont été financées dans leur totalité en 2011 pour l'ensemble des académies. Les familles qui bénéficient pour leurs enfants des bourses nationales voient ainsi, chaque trimestre, le montant des frais de pension ou de demi-pension déduit du montant de la bourse. Les fonds sociaux ont eux pour vocation d'apporter des aides aux familles rencontrant ponctuellement des difficultés pour assumer les frais scolaires pour leurs enfants. La dotation en fonds sociaux pour l'académie de Nancy-Metz, portée à 875 500 € au titre de l'année 2011, est répartie par le recteur d'académie en fonction des priorités constatées au niveau académique et en prenant en considération les reliquats qui peuvent subsister dans les établissements. Les modalités de gestion de ces fonds relèvent de la compétence de chaque recteur et peuvent différer d'une académie à l'autre.
