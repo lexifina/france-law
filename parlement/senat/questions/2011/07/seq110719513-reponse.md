@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719513
+
+- Question : [SEQ110719513](seq110719513.md) — Suspension du CAPES externe et de l'agrégation de chinois
+
+## Réponse
+
+*Éducation, JO du 2012-01-19, page 191*
+
+Les contraintes qui s'exercent sur le budget de l'État nécessitent de faire preuve de responsabilité dans le recrutement des enseignants afin de répondre à la fois à l'ambition de la nation pour son école et à la maîtrise de la dépense publique. Ainsi le recrutement des personnels enseignants du second degré s'effectue-t-il dans le cadre de concours nationaux dont les volumes sont déterminés annuellement dans le respect des emplois votés en loi de finances, en tenant compte de plusieurs paramètres dont le nombre de départs en retraite, les prévisions d'effectifs d'élèves et les éventuelles évolutions pédagogiques. Les choix concernant les concours de recrutement de professeurs de chinois ne constituent donc en rien une mesure de défiance à l'égard de cette langue dont l'enseignement se développe au sein de nos collèges et de nos lycées depuis une dizaine d'années. Cependant il apparaît que les recteurs d'académie ont connu, l'an passé, des difficultés pour affecter les lauréats des concours externes de langue chinoise. Pour la session 2012, le ministère a néanmoins souhaité ouvrir le CAPES interne de chinois. 12 postes y sont ainsi proposés. Ce concours mieux doté que les années précédentes va permettre de répondre à la demande croissante d'enseignement de la langue chinoise. Ce choix a également une dimension sociale, puisque ce CAPES interne va ouvrir des perspectives de titularisation à celles et ceux qui enseignent dès à présent le chinois à nos élèves, dans le cadre de contrats à durée déterminée. Le ministère aura par ailleurs à cœur de prendre toute sa part dans l'organisation et la promotion de l'année linguistique croisée franco-chinoise.
