@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — DESAFFECTATION DE L'ECOLE MATERNELLE LI CAMPANETTO
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-01-23
+- Séance : Conseil Municipal 2CA
+- Objet : DESAFFECTATION DE L'ECOLE MATERNELLE LI CAMPANETTO
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-3172-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
