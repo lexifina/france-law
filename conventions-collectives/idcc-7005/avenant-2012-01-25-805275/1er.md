@@ -1,0 +1,409 @@
+# Article 1er
+
+Les articles de la convention collective et ses annexes figurant ci-dessous sont modifiés ainsi qu'il suit :
+
+1. L'article 1er « Champ d'application » est remplacé par les dispositions suivantes :
+
+« Article 1er
+
+Champ d'application
+
+La présente convention règle, sur l'ensemble du territoire français, les rapports entre employeurs et salariés travaillant dans les établissements relevant des codes n° s 11.02 A et 11.02 B de la NAF rév. 2. Toutefois, à l'intérieur de la nomenclature, elle ne vise que les rapports entre employeurs et salariés travaillant dans des caves coopératives vinicoles, leurs unions et SICA vinicoles constituées et fonctionnant conformément aux dispositions législatives et réglementaires en vigueur du code rural et de la pêche maritime dans le cadre de leurs activités de production agricole et/ ou dans le prolongement des exploitations agricoles de leurs membres.
+
+Le champ d'application professionnel des sociétés coopératives agricoles visées au 1er alinéa recouvre les activités économiques suivantes :
+
+1. Caves coopératives
+
+Au titre des opérations de production, transformation, écoulement et vente de produits agricoles :
+
+– vinification à partir des récoltes livrées par les associés coopérateurs ;
+
+– élaboration de moûts, moûts concentrés, jus de raisins, vins (vins sans indication géographique – VSIG –, vins bénéficiant d'une indication géographique protégée – IGP –, vins bénéficiant d'une appellation d'origine protégée – AOP), vins tranquilles et effervescents (champagnisation), eaux-de-vie (distillation) ;
+
+– écoulement et vente, en vrac ou conditionné, desdits produits issus de la production des associés coopérateurs.
+
+Au titre des opérations de services : vinification, stockage, conditionnement, vente d'ordre et pour compte des associés coopérateurs.
+
+2. Unions de caves coopératives
+
+Au titre des opérations de production, transformation, écoulement et vente de produits agricoles : mêmes opérations que ci-dessus.
+
+Au titre des opérations de services : mêmes opérations que ci-dessus.
+
+3. SICA vinicoles
+
+Toutes opérations entrant dans l'objet social de ces sociétés.
+
+Les dispositions particulières de l'annexe III s'appliquent au personnel répondant à la définition de cette annexe.
+
+Cette convention ne s'applique pas :
+
+– aux cadres dirigeants dont le contrat de travail fait expressément référence à l'accord paritaire national (APN) conclu le 21 octobre 1975 ;
+
+– aux VRP. »
+
+2. Les 2° et 3° de l'article 2 « Avantages acquis » sont remplacés par les dispositions suivantes :
+
+« 2° En application des dispositions de l'article L. 2252-1 du code du travail, il est expressément précisé que les conventions de branche ou les accords professionnels conclus au plan régional, départemental ou local ne peuvent comporter des dispositions moins favorables aux salariés que celles qui leur sont applicables en vertu de la présente convention.
+
+3° En outre, conformément à l'article L. 2253-1 du code du travail, une convention ou des accords d'entreprise ou d'établissement peuvent adapter les dispositions de la présente convention applicable dans les coopératives vinicoles et leurs unions aux conditions particulières de celles-ci. Cette convention ou ces accords pourront comporter des dispositions plus favorables aux salariés. »
+
+3. Les articles 6 et 7 « Comité d'entreprise » sont remplacés par les dispositions suivantes :
+
+« Article 6
+
+Des comités d'entreprise sont institués conformément aux articles L. 2321-1 et R. 2322-1 et suivants du code du travail.
+
+Article 7
+
+Ressources
+
+Outre la subvention de fonctionnement administratif d'un montant annuel équivalant à 0,2 % de la masse salariale brute prévue par l'article L. 2325-43 du code du travail, les ressources du comité d'entreprise sont constituées notamment par une contribution de la coopérative. Cette contribution est déterminée à l'occasion de l'établissement du budget annuel du comité ; en tout état de cause, son montant global ne pourra être inférieur à 1 % de la masse des salaires nets déclarés. »
+
+4. L'article 10 « Procédure de règlements des conflits collectifs » est remplacé par les dispositions suivantes :
+
+« Article 10
+
+Procédure de règlement des conflits collectifs
+
+En cas de conflit collectif propre à l'entreprise concernant les salaires, le contenu de la convention collective nationale ou de tout autre accord applicable dans l'entreprise, et préalablement à toute grève, il est recommandé aux parties prenantes de respecter la procédure de conciliation suivante :
+
+– les demandes de revendications sont déposées par écrit au siège de l'entreprise. Cette dernière dispose d'un délai de 8 jours ouvrables pour procéder à leur examen et faire connaître son avis ;
+
+– en l'absence de solution, le litige est déféré par la partie la plus diligente à la commission de conciliation qui devra faire connaître son avis dans un délai de 30 jours ouvrables à partir de la date à laquelle elle aura été saisie par lettre recommandée avec avis de réception.
+
+Dans tous les cas, un procès-verbal établi par un secrétaire désigné par la commission est remis à chacune des parties. Ce procès-verbal doit au moins constater la conciliation ou la non-conciliation et il doit être signé des parties. Le procès-verbal des réunions de la commission de conciliation est communiqué par la partie la plus diligente auprès du secrétariat de la commission paritaire nationale.
+
+Si au niveau de la commission la tentative de conciliation aboutit, la minute de l'accord dûment signé de tous les membres de la commission est déposée par la partie la plus diligente auprès de la DIRECCTE du lieu de conclusion. »
+
+5. Le 2° de l'article 11 « Médiation. – Arbitrage » est remplacé par les dispositions suivantes :
+
+« 2° Lorsque le conflit survient à l'occasion de l'établissement, de la révision ou du renouvellement de la convention, le ministre de l'agriculture ou son représentant peut, à la demande écrite et motivée de l'une des parties, ou de sa propre initiative, engager la procédure de médiation dans les conditions prévues aux articles L. 2522-1 et suivants du code du travail. »
+
+6. Le 1° de l'article 12 « Conditions de la participation des salariés d'entreprise aux instances paritaires prévues par la présente convention » est remplacé par les dispositions suivantes :
+
+« 1° Dans le cas où un salarié d'une coopérative serait appelé par son organisation syndicale à participer aux réunions des instances paritaires (commission paritaire nationale, groupes de travail de cette dernière et commission de conciliation), l'employeur accordera une autorisation d'absence sur présentation préalable d'une convocation écrite nominative de son organisation syndicale.
+
+Le salarié sera tenu d'informer au moins 1 semaine à l'avance, sauf cas d'urgence, l'employeur de sa participation à l'une de ces instances paritaires et réduira au minimum la gêne que son absence pourrait causer. »
+
+7. Le 3° de l'article 13 « Egalité professionnelle » est remplacé par les dispositions suivantes :
+
+« 3° Les dispositions légales et réglementaires concernant les travailleurs handicapés et mutilés de guerre s'appliquent. »
+
+8. L'article 14 « Embauche » est remplacé par les dispositions suivantes :
+
+« Article 14
+
+Embauche
+
+1° Lors de l'embauche, un contrat de travail est établi en double exemplaire signé des parties. Ce dernier peut prévoir une période d'essai et son renouvellement éventuel. Le contrat de travail précise à l'intéressé sa fonction, son poste, sa catégorie, son niveau et son échelon, son horaire de travail, sa rémunération ainsi que les divers avantages et accessoires du salaire dont il peut bénéficier. La date d'entrée dans la coopérative est prise en compte pour l'appréciation de l'ancienneté.
+
+2° L'employeur met à la disposition des salariés, sur le lieu de travail, la convention collective et ses avenants ainsi que tout texte conventionnel applicable à l'entreprise.
+
+La convention collective et les accords nationaux de branche sont par ailleurs consultables sur le site www.legifrance.gouv.fr (IDCC 7005). Une copie papier ou dématérialisée pourra être remise au salarié à sa demande.
+
+4° En cas de modification des conditions de travail nécessitant l'accord des deux parties, un avenant au contrat de travail est établi en double exemplaire dont un remis au salarié. »
+
+9. Le 1er alinéa de l'article 16 « Contrat de travail à durée déterminée » est remplacé par les dispositions suivantes :
+
+« Les salariés sous contrat de travail à durée déterminée bénéficient des dispositions des articles L. 1241-1 à L. 1248-11 du code du travail. »
+
+10. Le 4° de l'article 19 « Rémunération » est remplacé par les dispositions suivantes :
+
+« 4° Les salariés permanents effectuant un horaire à temps partiel sont régis par les dispositions des articles L. 3123-1 et suivants du code du travail. »
+
+11. L'article 20 « Modification des bases de rémunération » est remplacé par les dispositions suivantes :
+
+« Article 20
+
+Modification des bases de rémunération
+
+Dès que l'augmentation de l'indice des prix à la consommation officiellement homologué par l'INSEE a dépassé de 5 % celui en vigueur au moment du dernier avenant des salaires, la commission paritaire nationale est automatiquement convoquée dans le mois qui suit la publication du bulletin, afin d'étudier une modification des bases de rémunération de l'ensemble du personnel tel qu'il est défini par l'article 17.
+
+Chaque augmentation du salaire minimum de croissance entraîne la même réunion. »
+
+12. L'article 26 « Bulletin de paie » est remplacé par les dispositions suivantes :
+
+« Article 26
+
+Bulletin de paie
+
+1° Le bulletin de paie comporte :
+
+a) Le nom et l'adresse de l'employeur ainsi que, le cas échéant, la désignation de l'établissement dont dépend le salarié ;
+
+b) La référence de l'organisme auquel l'employeur verse les cotisations de sécurité sociale, le numéro sous lequel ces cotisations sont versées et, pour les employeurs inscrits au répertoire national des entreprises et des établissements prévu à l'article 1er du décret n° 73-314 du 14 mars 1973, le numéro de la nomenclature des activités économiques (code de l'activité principale exercée) caractérisant l'activité de l'entreprise ou de l'établissement mentionné au second alinéa de l'article 5 de ce décret ;
+
+c) L'intitulé de la convention collective de branche applicable au salarié ou, à défaut, la référence au code du travail pour les dispositions relatives à la durée des congés payés du salarié et à la durée des délais de préavis en cas de cessation de la relation de travail ;
+
+d) Le nom et l'emploi du salarié ainsi que sa position dans la classification conventionnelle qui lui est applicable ;
+
+e) La période et le nombre d'heures de travail auxquels se rapporte le salaire en distinguant, s'il y a lieu, les heures payées au taux normal et celles qui comportent une majoration pour heures supplémentaires ou pour toute autre cause et en mentionnant le ou les taux appliqués aux heures correspondantes ;
+
+f) La nature et le volume du forfait auquel se rapporte le salaire des salariés dont la rémunération est déterminée sur la base d'un forfait hebdomadaire ou mensuel en heures, d'un forfait annuel en heures ou en jours ;
+
+g) L'indication de la nature de la base de calcul du salaire lorsque, par exception, cette base de calcul n'est pas la durée du travail ;
+
+h) La nature et le montant des accessoires de salaire soumis aux cotisations salariales et patronales mentionnées aux articles R. 3243-2 et R. 3243-3 du code du travail ;
+
+i) Le montant de la rémunération brute du salarié ;
+
+j) La nature et le montant de tous les ajouts et retenues réalisés sur la rémunération brute ;
+
+k) Le montant de la somme effectivement reçue par le salarié ;
+
+l) La date de paiement de cette somme ;
+
+m) Les dates de congé et le montant de l'indemnité correspondante, lorsqu'une période de congé annuel est comprise dans la période de paie considérée ;
+
+n) Le montant de la prise en charge des frais de transport public ou des frais de transports personnels.
+
+2° Il ne peut être exigé, au moment de la paie, aucune formalité de signature ou émargement autre que celle établissant que le total des espèces remises au salarié correspond bien au montant de la rémunération nette indiquée sur le bulletin de paie.
+
+3° La coopérative doit conserver un double des bulletins de paie remis aux salariés pendant 5 ans. »
+
+13. L'article 28 « Retraite complémentaire et prévoyance » est remplacé par les dispositions suivantes :
+
+« Article 28
+
+Retraite et prévoyance complémentaires
+
+Il est rappelé que les employeurs, pour l'ensemble des salariés liés par la présente convention, adhèrent :
+
+– au régime de retraite du groupe AGRICA – CAMARCA et AGRICA Retraite Agirc – ou à tout autre organisme agréé dans les conditions prévues par l'article L. 727-2 du code rural et de la pêche maritime et présentant des garanties au moins équivalentes à celles du groupe AGRICA ;
+
+– à une institution de prévoyance visée à l'article L. 727-2 précité. »
+
+14. Le 1° de l'article 32 « Durée du congé » est remplacé par les dispositions suivantes :
+
+« 1° Le salarié qui, au cours de l'année de référence, justifie avoir été occupé chez le même employeur pendant un temps équivalant à un minimum de 10 jours de travail effectif au sein de la période de référence, a droit à un congé dont la durée est déterminée à raison de 2,5 jours ouvrables par mois de travail sans que la durée totale du congé exigible puisse excéder 30 jours ouvrables.
+
+L'absence du travailleur ne peut avoir pour effet d'entraîner une réduction de ses droits à congé plus que proportionnelle à la durée de cette absence.
+
+Lorsque le nombre de jours ouvrables calculé conformément aux deux alinéas précédents n'est pas un nombre entier, la durée du congé est portée au nombre entier immédiatement supérieur. »
+
+15. L'article 34 « Notion de travail effectif » est remplacé par les dispositions suivantes :
+
+« Article 34
+
+Notion de travail effectif
+
+Sont assimilées à 1 mois de travail effectif pour la détermination de la durée du congé les périodes équivalentes à 4 semaines ou 24 jours de travail.
+
+Sont considérées comme temps de travail effectif pour la détermination de la durée du congé les périodes suivantes :
+
+– périodes de congé payé ;
+
+– jours de repos acquis au titre de la réduction du temps de travail ;
+
+– le cas échéant, les repos compensateurs fixés par l'inspection du travail au titre du dépassement de la durée maximale de travail ;
+
+– périodes de congé de maternité, de paternité, d'adoption ;
+
+– périodes limitées à une durée ininterrompue de 1 an pendant lesquelles l'exécution du contrat de travail est suspendue pour cause d'accident de travail ou de maladie professionnelle ;
+
+– périodes pendant lesquelles un salarié ou un apprenti se trouve maintenu ou rappelé au service national à un titre quelconque. »
+
+16. Le 2e alinéa de l'article 35 « Congés supplémentaires des mères de famille » est remplacé par les dispositions suivantes :
+
+« En ce qui concerne les salariés de plus de 21 ans à la date précitée, le supplément de 2 jours par enfant à charge est confondu avec le congé principal prévu à l'article L. 3141-3 du code du travail. »
+
+17. L'article 39 « Congés de naissance » est remplacé par les dispositions suivantes :
+
+« Article 39
+
+Congés de naissance et de paternité
+
+1° Tout salarié a droit à un congé supplémentaire de 3 jours à l'occasion de chaque naissance survenue à son foyer ou de l'arrivée d'un enfant placé en vue de son adoption. Après entente entre l'employeur et le bénéficiaire, ces 3 jours peuvent ne pas être consécutifs mais doivent être inclus dans une période de 15 jours entourant la date de naissance. La rémunération de ces 3 jours est égale au salaire qui serait perçu par l'intéressé pour une égale période de travail à la même époque.
+
+2° Après la naissance de son enfant et dans un délai déterminé par décret, le père salarié bénéficie d'un congé de paternité de 11 jours consécutifs ou de 18 jours consécutifs en cas de naissances multiples.
+
+Le congé de paternité entraîne la suspension du contrat de travail.
+
+Le salarié qui souhaite bénéficier du congé de paternité avertit son employeur au moins 1 mois avant la date à laquelle il envisage de le prendre, en précisant la date à laquelle il entend y mettre fin.
+
+A l'issue du congé de paternité, le salarié retrouve son précédent emploi ou un emploi similaire assorti d'une rémunération au moins équivalente. »
+
+18. Le 1° de l'article 40 « Congés exceptionnels pour événements familiaux » est remplacé par les dispositions suivantes :
+
+« Article 40
+
+Congés exceptionnels pour événements familiaux
+
+1° Le salarié bénéficie, sur justification et à l'occasion de certains événements familiaux, d'une autorisation exceptionnelle d'absence de :
+
+– 4 jours pour le mariage du salarié ou la signature d'un pacte civil de solidarité et 6 jours après 2 années de présence ;
+
+– 1 jour pour le mariage d'un enfant ;
+
+– 5 jours pour le décès du conjoint ou du partenaire lié par un pacte civil de solidarité, d'un enfant ;
+
+– 2 jours pour le décès du père, de la mère ;
+
+– 1 jour pour le décès d'un frère, d'une sœur, des beaux-parents et des autres ascendants et descendants et leur conjoint.
+
+Ces jours d'absence n'entraînent pas de réduction de la rémunération. Ils sont assimilés à des jours de travail effectif pour la détermination de la durée du congé annuel. »
+
+19. L'article 42 « Congés spéciaux » est remplacé par les dispositions suivantes :
+
+« Article 42
+
+Congés spéciaux
+
+Il est rappelé que les articles L. 3142-7 et suivants du code du travail accordent des congés aux salariés en vue de favoriser la formation économique, sociale et syndicale.
+
+Les articles L. 3142-43 et suivants et R. 3143-3 de ce même code accordent des congés non rémunérés aux salariés et apprentis en vue de favoriser la formation des cadres et animateurs de la jeunesse.
+
+Il en est de même pour les articles L. 3142-78 et suivants, L. 3142-91 et suivants et L. 3142-96 du code du travail relatifs aux congés pour la création d'entreprise et au congé sabbatique. »
+
+20. L'article 44 « Protection de la maternité et éducation des enfants » est remplacé par les dispositions suivantes :
+
+« Article 44
+
+Protection de la maternité et éducation des enfants
+
+1° A l'occasion de la maternité ou de l'adoption d'un enfant, le salarié bénéficie des dispositions prévues aux articles L. 1225-1 à L. 1225-72 du code du travail.
+
+2° Pendant 1 an à compter de la naissance, la salariée allaitant son enfant a le droit de s'absenter deux fois par jour, sans que le total de ses absences journalières puisse dépasser la durée de 1 heure.
+
+3° En cas d'allaitement maternel et faute de pouvoir prétendre à un congé parental d'éducation, la mère pourra suspendre complètement son travail pendant les 6 mois qui suivent la naissance, sous réserve d'en aviser son employeur dans le délai de 1 mois suivant l'accouchement. Six semaines au moins avant la date prévue pour la reprise du travail, elle devra faire connaître à l'employeur sa décision de reprendre son emploi de manière que le remplaçant éventuel puisse être prévenu en temps opportun de son congédiement.
+
+4° Conformément aux articles L. 1225-47 et suivants du code du travail, tout salarié qui justifie d'une présence minimale de 1 an à la date de naissance de son enfant, ou de l'arrivée à son foyer d'un enfant de moins de 3 ans, confié en vue de son adoption, peut demander, à l'occasion de chaque naissance ou adoption :
+
+– un congé parental d'éducation durant lequel le contrat de travail est suspendu ;
+
+– un congé parental d'éducation à temps partiel, sans que la réduction de la durée du travail ne puisse être inférieure à 16 heures hebdomadaires. »
+
+21. Les 1°, 2°, 3° et 4° de l'article 48 « Absences pour recherche d'un nouvel emploi » sont remplacés par les dispositions suivantes :
+
+« 1° Pendant la période de préavis, qu'il s'agisse d'un licenciement ou d'une démission, les salariés sont autorisés, pour rechercher un nouvel emploi, à s'absenter 2 heures par jour, dans la limite de 48 heures si le préavis est de 1 mois et de 75 heures au-delà de 1 mois.
+
+2° Ces absences sont fixées d'un commun accord entre l'employeur et l'intéressé. En cas de désaccord, elles sont prises un jour au gré du salarié, le jour suivant au gré de l'employeur.
+
+3° Ces heures d'absence peuvent, en cas de besoin et à la demande de l'intéressé, compte tenu des nécessités du service, être bloquées en une ou plusieurs fois.
+
+4° Ces heures d'absence sont obligatoirement payées au salarié. Toutefois, le salarié ayant trouvé un emploi ne peut, à partir de ce moment, se prévaloir de ces dispositions. »
+
+22. Le chapitre XIV et les articles 50,51 et 52 sont abrogés.
+
+23. Le titre du chapitre XIV devient « Travail de nuit » et comporte un article unique, l'article 50.
+
+« Article 50
+
+Les dispositions portant sur le travail de nuit sont prévues par l'accord national du 16 juillet 2003 relatif au travail de nuit dans les caves coopératives vinicoles et leurs unions. »
+
+24. L'article 53 « Apprentissage » devient l'article 51 et est remplacé par les dispositions suivantes :
+
+« Article 51
+
+Apprentissage
+
+1° On désigne par apprenti celui ou celle qui est lié à une entreprise agréée par un contrat d'apprentissage établi conformément aux dispositions des articles L. 6221-1 et suivants ainsi que D. 6222-1 et R. 6222-2 et suivants du code du travail.
+
+2° Le contrat doit être passé par écrit, conformément à un modèle type, établi en 3 exemplaires, puis enregistré par l'autorité administrative compétente.
+
+3° La résiliation du contrat est possible pendant les 2 premiers mois de l'apprentissage.
+
+Elle doit être constatée par écrit et notifiée au directeur du centre de formation d'apprentis ainsi qu'à l'autorité administrative compétente.
+
+Passé le délai de 2 mois, la résiliation du contrat ne peut intervenir que sur accord exprès et bilatéral des cosignataires ou à défaut être prononcée par le conseil de prud'hommes.
+
+4° En cas d'absence de l'apprenti pour cause de maladie, la prolongation éventuelle de l'apprentissage ne saurait être prononcée que si le directeur du centre de formation d'apprentis estime que la préparation a été insuffisante et que l'apprenti ne peut valablement se présenter à l'examen. Le contrat doit alors être prorogé jusqu'à la session suivante dans les conditions de rémunération prévues à l'article D. 6222-34 du code du travail. Dans le cas contraire, et si l'apprenti subit avec succès les épreuves de l'examen, aucune compensation de durée ne peut être exigée par l'employeur. »
+
+25. L'article 54 « Conditions de l'apprentissage » devient l'article 52.
+
+26. L'article 55 « Sélection progressive des travaux » devient l'article 53.
+
+27. Le chapitre XVI « Formation professionnelle continue » et l'article 56 sont abrogés.
+
+28. Le chapitre XVII « Hygiène, sécurité et conditions de travail » devient le chapitre XVI. L'article 57 de la convention collective devient l'article 54.
+
+29. Le 4° de l'article 54 est remplacé par :
+
+« 4° Tout salarié se trouvant dans une situation de travail dont il a un motif raisonnable de penser qu'elle représente un danger grave et imminent pour sa vie ou sa santé bénéficie d'un droit de retrait et doit signaler immédiatement une telle situation à son supérieur hiérarchique.
+
+Aucune sanction, aucune retenue de salaire, ne peut être prise à l'encontre d'un salarié qui s'est retiré d'une situation de travail dont il avait un motif raisonnable de penser qu'elle présentait un danger grave et imminent pour sa vie ou sa santé. »
+
+30. L'article 54 est complété par un 5° :
+
+« 5° Les caves coopératives et leurs unions établissent un document unique d'évaluation des risques conformément aux dispositions des articles R. 4121-1 et suivants du code du travail. La mise à jour de ce document est réalisée au moins une fois par an ainsi que lors de toute décision d'aménagement important modifiant les conditions de santé et de sécurité ou les conditions de travail ou lorsque est recueillie une information supplémentaire d'évaluation d'un risque particulier. »
+
+31. Le chapitre XVIII « Dispositions finales » devient le chapitre XVII. L'article 58 devient l'article 55.
+
+32. L'article 59 « Dépôt et date d'application de la convention collective » devient l'article 56 et est remplacé par les dispositions suivantes :
+
+« Article 56
+
+Dépôt et date d'application de la convention collective
+
+1° La présente convention ainsi que ses avenants sont remis à chacune des organisations signataires et sont déposés par la partie la plus diligente auprès des services compétents.
+
+La partie la plus diligente remet également la convention collective et ses avenants :
+
+– d'une part, en 1 exemplaire, au secrétariat-greffe du conseil de prud'hommes de Paris, 27, rue Louis-Blanc, 75484 Paris Cedex 10 ;
+
+– d'autre part, en 5 exemplaires, signés des parties, à la DIRECCTE, 210, quai de Jemmapes 75462 Paris Cedex 10.
+
+2° Les textes sont applicables, sauf dispositions contraires, à partir du jour qui suit leur dépôt auprès des services compétents.
+
+Il peut être donné communication et délivré copie des textes déposés. »
+
+33. L'article 60 « Information des salariés et de leurs représentants » devient l'article 57.
+
+34. L'article 61 « Extension » devient l'article 58.
+
+35. L'article 62 devient l'article 59.
+
+36. Le paragraphe 2.3 « Bulletin de salaire » du I de l'annexe II est remplacé par les dispositions suivantes :
+
+« 2.3. Bulletin de salaire
+
+Le bulletin de salaire mentionne le salaire brut et précise la catégorie, le niveau, l'échelon et le poste occupé. Il indique également, pour information, au salarié, le montant du SMG. L'employeur informe également le salarié du montant du différentiel qui existe, le cas échéant, entre le salaire brut et le SMG pour la catégorie, le niveau et l'échelon dont relève le salarié. Cette information figure soit sur le bulletin de salaire, soit sur un document annexe remis au salarié à l'occasion de l'entretien annuel. »
+
+37. L'article 2 « Engagement » de l'annexe III est remplacé par les dispositions suivantes :
+
+« Article 2
+
+Engagement
+
+Avant tout engagement définitif, le cadre devra se soumettre aux dispositions légales concernant la médecine du travail.
+
+L'employeur pourra demander copie des diplômes et des attestations de stages et formation mentionnés dans le curriculum vitae.
+
+Il pourra également être exigé du cadre un extrait du casier judiciaire.
+
+L'employeur pourra exiger, avant toute confirmation dans un poste de cadre déterminé, que le candidat suive, aux frais de l'entreprise, un stage de formation et de perfectionnement. »
+
+38. L'article 4 « Engagement définitif » de l'annexe III est remplacé par les dispositions suivantes :
+
+« Article 4
+
+Engagement définitif
+
+Lors de l'embauche, un contrat de travail est établi en double exemplaire signé des parties. Ce dernier peut prévoir une période d'essai et son renouvellement éventuel. Le contrat de travail précise à l'intéressé sa fonction, son poste, sa catégorie, son niveau et son échelon, son horaire de travail, sa rémunération ainsi que les divers avantages et accessoires du salaire dont il peut bénéficier. La date d'entrée dans la coopérative est prise en compte pour l'appréciation de l'ancienneté.
+
+3° L'employeur met à la disposition des salariés, sur le lieu de travail, la convention collective et ses avenants ainsi que tout texte conventionnel applicable à l'entreprise.
+
+La convention collective et les accords nationaux de branche sont par ailleurs consultables sur le site www.legifrance.gouv.fr (IDCC 7005). Une copie papier ou dématérialisée pourra être remise au salarié à sa demande.
+
+4° En cas de modification des conditions de travail nécessitant l'accord des deux parties, un avenant au contrat de travail est établi en double exemplaire dont un remis au salarié. »
+
+39. L'article 7 « Priorité d'emploi » de l'annexe III est remplacé par les dispositions suivantes :
+
+« Article 7
+
+Priorité d'emploi
+
+En cas de vacance ou de création de poste, l'employeur fera d'abord appel aux candidatures des collaborateurs employés dans l'entreprise et aptes à occuper ce poste.
+
+En cas de promotion, le collaborateur pourra être soumis à la période d'adaptation prévue pour l'emploi qu'il est appelé à occuper ainsi qu'à un stage de formation préparatoire. Dans le cas où cette adaptation ne s'avérerait pas satisfaisante, la réintégration du salarié intéressé dans son ancien positionnement avec son ancien coefficient ou dans un emploi équivalent ne saurait être considérée comme une rétrogradation.
+
+Cette période d'adaptation devra faire l'objet d'une lettre à l'intéressé. »
+
+40. L'article 11 « Durée du travail » de l'annexe III est remplacé par les dispositions suivantes :
+
+« Article 11
+
+Durée du travail
+
+En matière de durée du travail, le personnel d'encadrement bénéficie des dispositions des articles L. 3111-2, L. 3121-42 et L. 3121-43 à L. 3121-48 du code du travail. »
