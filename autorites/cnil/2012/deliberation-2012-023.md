@@ -1,0 +1,78 @@
+# Délibération n° 2012-023 du 26 janvier 2012 portant avis sur un projet d'arrêté du Premier ministre autorisant la mise en œuvre d'un traitement de données à caractère personnel relatif à la vidéoprotection de certains immeubles abritant les services du Premier ministre (demande d'avis n° 1548390)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2012-023
+- Date : 2012-01-26
+- Publication : 2019-11-13
+- NOR : CNIX1205831X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000025402525
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu la Convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment son article 26-I (1°) ;
+
+Vu la loi n° 95-73 du 21 janvier 1995 modifiée d'orientation et de programmation relative à la sécurité, notamment ses articles 10 et suivants ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu la demande d'avis présentée par le Premier ministre portant autorisation de mise en œuvre d'un traitement de données à caractère personnel relatif à la vidéoprotection de certains immeubles abritant les services du Premier ministre ;
+
+Après avoir entendu M. Emmanuel de GIVRY, commissaire, en son rapport, et les observations de Mme Elisabeth ROLIN, commissaire du Gouvernement, en ses observations,
+
+Emet l'avis suivant :
+
+La Commission nationale de l'informatique et des libertés a été saisie pour avis le 29 novembre 2011 par le Premier ministre d'un projet d'arrêté portant autorisation de mise en œuvre d'un traitement de données à caractère personnel relatif à la vidéoprotection de certains immeubles abritant les services du Premier ministre.
+
+La Commission relève que les systèmes de vidéosurveillance numérique mis en œuvre au sein des locaux des services du Premier ministre constituent des traitements automatisés de données à caractère personnel au sens de la loi du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés.
+
+Il y a lieu de faire application des dispositions de l'article 26-I (1°) de la loi du 6 janvier 1978 modifiée qui soumet à une autorisation par arrêté ministériel pris après avis motivé et publié de la Commission nationale de l'informatique et des libertés les traitements de données à caractère personnel mis en œuvre pour le compte de l'Etat et intéressant la sûreté de l'Etat, la défense ou la sécurité publique.
+
+Sur les finalités poursuivies :
+
+La Commission relève que le premier paragraphe de l'article 1er du projet d'arrêté autorise les services du Premier ministre occupant les immeubles situés aux 56, 57 et 58, rue de Varenne, ainsi qu'au 13, rue Vaneau et au 32, rue de Babylone, dans le 7e arrondissement de Paris, à installer et mettre en œuvre des systèmes de vidéoprotection à l'intérieur des bâtiments, lieux non ouverts au public.
+
+Ces systèmes ont pour finalité la protection des bâtiments publics, la défense nationale, la sécurité des personnes et la prévention des atteintes aux biens.
+
+La Commission prend acte des précisions apportées par les services du Premier ministre selon lesquelles le dispositif envisagé repose sur l'installation des systèmes de caméras vidéo numériques avec enregistrement dans les cours intérieures et dans les couloirs de circulation situés à l'intérieur de l'enceinte des sites abritant les services du Premier ministre. Ainsi, les personnes susceptibles d'être filmées sont les salariés des services du Premier ministre et les visiteurs invités.
+
+La Commission prend également acte de ce que le projet d'arrêté précise expressément que le traitement ne comporte aucun dispositif automatisé de reconnaissance faciale à partir des images ainsi collectées.
+
+Compte tenu de ces éléments et des garanties ainsi apportés, la Commission considère que les finalités poursuivies n'appellent pas d'observation particulière.
+
+Sur la durée de conservation des images :
+
+La Commission prend acte de ce que le projet d'arrêté précise que les enregistrements visuels numériques sont conservés pendant une durée maximum d'un mois et qu'au terme de ce délai les enregistrements qui n'ont fait l'objet d'aucune transmission à l'autorité judiciaire ou de poursuite disciplinaire sont effacés.
+
+La Commission estime que cette durée est conforme à la loi du 6 janvier 1978 modifiée.
+
+Sur les personnes autorisées à accéder aux images et enregistrements :
+
+La Commission prend acte de ce que le projet d'arrêté prévoit que seuls ont accès aux données à caractère personnel, à raison de leurs attributions et du besoin d'en connaître, les agents dûment habilités.
+
+La Commission considère, dès lors, que la détermination des personnes autorisée à accéder aux enregistrements visuels ainsi retenue n'appelle pas d'observation particulière.
+
+Sur l'information des personnes concernées :
+
+La Commission prend acte des précisions apportées par les services du Premier ministre selon lesquelles les personnes susceptibles d'être filmées sont informées de l'existence d'un système de vidéosurveillance et des modalités d'exercice de leurs droits d'accès et de rectification par voie d'affichage.
+
+Cette information est réalisée par voie d'affiches apposées à l'entrée des locaux, zones et établissements au sein desquels de tels traitements sont mis en œuvre.
+
+Sur l'exercice par les personnes filmées de leurs droits d'accès et de rectification :
+
+La Commission relève que le projet d'arrêté comporte un article prévoyant que les droits d'accès et de rectification prévus par les articles 39 et 40 de la loi du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés s'exercent directement auprès du responsable de traitement, c'est-à-dire auprès du commandant militaire de l'hôtel Matignon.
+
+Sur les mesures de sécurité :
+
+La Commission relève que le projet d'arrêté prévoit que les consultations du traitement automatisé font l'objet d'un enregistrement comprenant l'identifiant du consultant, la date, l'heure et l'objet de la consultation. Ces informations sont conservées pendant une durée de trois ans.
+
+Par ailleurs, la Commission considère que les autres mesures de sécurité mises en œuvre sont satisfaisantes.
+
+La présidente,
+
+I. Falque-Pierrotin
