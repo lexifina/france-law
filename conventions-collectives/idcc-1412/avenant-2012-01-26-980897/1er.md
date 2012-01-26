@@ -1,0 +1,137 @@
+# Article 1er
+
+L'article 6 « Cotisations » est désormais rédigé comme suit :
+
+(Annule et remplace l'article 6 de l'accord du 27 mars 2006, modifié par l'avenant n° 1 du 22 janvier 2008.)
+
+« Les cotisations sont assises sur les salaires bruts de référence, tels que définis au premier alinéa de l'article 4, des salariés cadres et non cadres, dans la limite des tranches A et B.
+
+Elles sont réparties entre l'employeur et le salarié selon les modalités suivantes :
+
+(En pourcentage.)
+
+|
+
+Tranche A |
+
+Tranche B |
+
+|
+
+Part patronale |
+
+Part
+
+salariale |
+
+Total |
+
+Part
+
+patronale |
+
+Part
+
+salariale |
+
+Total |
+
+Décès |
+
+0,15 |
+
+0 |
+
+0,15 |
+
+0,15 |
+
+0 |
+
+0,15 |
+
+Rente éducation |
+
+0,0875 |
+
+0,0425 |
+
+0,13 |
+
+0,1300 |
+
+0,0000 |
+
+0,13 |
+
+Incapacité temporaire |
+
+|
+
+0,320 |
+
+0,320 |
+
+|
+
+0,710 |
+
+0,710 |
+
+Invalidité et incapacité permanente |
+
+0,13 |
+
+0,210 |
+
+0,340 |
+
+0,3675 |
+
+0,3725 |
+
+0,740 |
+
+Total cadres et non cadres ayant moins de 1 an d'ancienneté |
+
+0,3675 |
+
+0,5725 |
+
+0,94 |
+
+0,6475 |
+
+1,0825 |
+
+1,73 |
+
+Maintien de salaire (art. 6.2 de la convention collective) |
+
+0,13 |
+
+0 |
+
+0,13 |
+
+0,32 |
+
+0 |
+
+0,32 |
+
+Total cadres et non cadres ayant plus de 1 an d'ancienneté |
+
+0,4975 |
+
+0,5725 |
+
+1,07 |
+
+0,9675 |
+
+1,0825 |
+
+2,05 |
+
+La cotisation “ maintien de salaire ” permet d'assurer le remboursement à l'employeur par l'organisme de prévoyance d'une partie de son obligation de maintien de salaire, tel qu'il est prévu à l'article 6.2 “ Maintien de salaire ” de la convention collective. »
