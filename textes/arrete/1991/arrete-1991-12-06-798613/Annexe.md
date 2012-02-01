@@ -648,7 +648,7 @@ C
 
 |
 
-2. Conseillères et conseillers techniques auprès des recteurs et inspecteurs d'académie :
+2. Conseillères et conseillers techniques auprès des recteurs et directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie :
 
 |
 

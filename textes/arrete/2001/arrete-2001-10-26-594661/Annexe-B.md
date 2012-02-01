@@ -454,7 +454,7 @@ Besançon, Clermont-Ferrand, Corse, Guadeloupe, Guyane, Limoges, Martinique, Par
 
 |
 
-5. Inspecteur d'académie-directeur des services départementaux de l'éducation nationale, en charge des inspections académiques suivantes
+5. Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, en charge des inspections académiques suivantes
 
 |
 
@@ -566,7 +566,7 @@ A Wallis-et-Futna
 
 |
 
-7. Inspecteur d'académie adjoint, en fonctions dans les départements d'outre-mer suivants
+7. Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie adjoint, en fonctions dans les départements d'outre-mer suivants
 
 |
 

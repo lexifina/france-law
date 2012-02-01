@@ -24,7 +24,7 @@ Chef de mission
 
 |
 
-759 - 1015
+759-1015
 
 |
 
@@ -50,7 +50,7 @@ Inspecteur général de l'éducation nationale
 
 |
 
-1015(a)
+1015 (a)
 
 |
 
@@ -66,9 +66,9 @@ Inspecteur général de l'administration de l'éducation nationale et de la rech
 
 |
 
-1015 - HED
+1015-HED
 
-852 - HEB
+852-HEB
 
 |
 
@@ -82,7 +82,7 @@ Inspecteur général des bibliothèques
 
 |
 
-901 - 1015(a)
+901-1015 (a)
 
 |
 
@@ -94,7 +94,7 @@ Inspecteur général des services administratifs
 
 |
 
-801 - 1015(a)
+801-1015 (a)
 
 |
 
@@ -102,7 +102,7 @@ Inspecteur général des services administratifs
 
 |
 
-B - INSPECTIONS A COMPETENCES LOCALES
+B-INSPECTIONS A COMPETENCES LOCALES
 
 |
 
@@ -114,7 +114,7 @@ Inspecteur de l'académie de Paris
 
 |
 
-701 - 1015(a)
+701-1015 (a)
 
 |
 
@@ -122,7 +122,7 @@ Inspecteur de l'académie de Paris
 
 |
 
-Inspecteur d'académie - inspecteur pédagogique régional :
+Inspecteur d'académie-inspecteur pédagogique régional :
 
 hors classe
 
@@ -132,7 +132,7 @@ classe normale
 
 (a)
 
-701 - 1015(a)
+701-1015 (a)
 
 |
 
@@ -144,7 +144,7 @@ Inspecteur principal (enseignements techniques et professionnels)
 
 |
 
-612 - 1015
+612-1015
 
 |
 
@@ -158,9 +158,9 @@ classe normale
 
 |
 
-612 - HEA
+612-HEA
 
-416 - 966
+416-966
 
 |
 
@@ -170,7 +170,7 @@ Inspecteur de l'apprentissage commissionné
 
 |
 
-416 - 852
+416-852
 
 |
 
@@ -180,7 +180,7 @@ Inspecteur départemental de l'éducation nationale
 
 |
 
-416 - 901
+416-901
 
 |
 
@@ -190,7 +190,7 @@ Inspecteur de l'enseignement technique
 
 |
 
-416 - 901
+416-901
 
 |
 
@@ -200,7 +200,7 @@ Inspecteur de l'information et de l'orientation
 
 |
 
-416 - 901
+416-901
 
 |
 
@@ -210,13 +210,13 @@ Inspecteur départemental (enseignements élémentaires et complémentaires, tec
 
 |
 
-401 - 835
+401-835
 
 (885)
 
 |
 
-Echelon fonctionnel : inspecteur adjoint à l'inspecteur d'académie
+Echelon fonctionnel : inspecteur adjoint au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie
 
 |
 
@@ -226,7 +226,7 @@ II Bis - ÉTABLISSEMENTS ET SERVICE DE RECHERCHE
 
 |
 
-D. 98-50 du 23 janvier 1998(J.O. du 27 janvier 1998)
+D. 98-50 du 23 janvier 1998 (J. O. du 27 janvier 1998)
 
 |
 
@@ -248,7 +248,7 @@ Directeur de recherche
 
 1015 (a)
 
-801 - 1015(a)
+801-1015 (a)
 
 |
 
@@ -266,9 +266,9 @@ Chargé de recherche
 
 |
 
-562 - 1015
+562-1015
 
-530 - 677
+530-677
 
 |
 
@@ -278,7 +278,7 @@ Attaché de recherche
 
 |
 
-416 - 634 (2)
+416-634 (2)
 
 |
 
@@ -296,11 +296,11 @@ hors classe
 
 |
 
-801 - 1015 (a)
+801-1015 (a)
 
-701 - 1015
+701-1015
 
-473 - 874
+473-874
 
 |
 
@@ -318,11 +318,11 @@ hors classe
 
 |
 
-852 - 966
+852-966
 
-665 - 821
+665-821
 
-416 - 750
+416-750
 
 |
 
@@ -336,7 +336,7 @@ Assistant ingénieur
 
 |
 
-366 - 660
+366-660
 
 |
 
@@ -354,11 +354,11 @@ classe normale
 
 |
 
-425 - 612
+425-612
 
-384 - 579
+384-579
 
-306 - 544
+306-544
 
 |
 
@@ -424,9 +424,9 @@ Chargé d'administration de la recherche
 
 |
 
-616 - 841
+616-841
 
-457 - 721
+457-721
 
 |
 
@@ -436,7 +436,7 @@ Attaché principal d'administration de la recherche
 
 |
 
-593 - 801
+593-801
 
 |
 
@@ -446,7 +446,7 @@ Attaché d'administration de la recherche
 
 |
 
-379 - 780
+379-780
 
 |
 
@@ -464,11 +464,11 @@ classe normale
 
 |
 
-425 - 612
+425-612
 
-399 - 579
+399-579
 
-306 - 544
+306-544
 
 |
 
@@ -494,7 +494,7 @@ Ingénieur principal de physique nucléaire
 
 978 (a)
 
-784 - 1015(a)
+784-1015 (a)
 
 |
 
@@ -512,9 +512,9 @@ Ingénieur de physique nucléaire
 
 |
 
-572 - 1015 (a)
+572-1015 (a)
 
-452 - 858
+452-858
 
 |
 
@@ -532,11 +532,11 @@ Technicien de physique nucléaire principal
 
 |
 
-495 - 769
+495-769
 
-320 - 634
+320-634
 
-313 - 518
+313-518
 
 |
 
@@ -554,11 +554,11 @@ Technicien d'atelier de physique nucléaire
 
 |
 
-495 - 769
+495-769
 
-421 - 667
+421-667
 
-326 - 542
+326-542
 
 |
 
@@ -576,11 +576,11 @@ Technicien d'études de physique nucléaire
 
 |
 
-495 - 769
+495-769
 
-421 - 667
+421-667
 
-343 - 634
+343-634
 
 |
 
@@ -592,7 +592,7 @@ Prototypiste de physique nucléaire
 
 |
 
-326 - 542
+326-542
 
 |
 
@@ -606,9 +606,9 @@ Préparateur de physique nucléaire
 
 |
 
-445 - 736
+445-736
 
-326 - 542
+326-542
 
 |
 
@@ -620,7 +620,7 @@ Ouvrier professionnel de physique nucléaire
 
 |
 
-234 - 446
+234-446
 
 |
 
@@ -638,7 +638,7 @@ Chargé de mission de la recherche du CNRS (1)
 
 |
 
-603 - 901
+603-901
 
 |
 
@@ -650,7 +650,7 @@ Délégué régional du CNRS
 
 |
 
-901 - 1015 (a)
+901-1015 (a)
 
 |
 
@@ -682,7 +682,7 @@ Ingénieur de recherche de 2e classe
 
 |
 
-473 - 874
+473-874
 
 (901) (1)
 
@@ -696,9 +696,9 @@ Ingénieur d'études de 2e classe
 
 |
 
-416 - 750
+416-750
 
-(340 - 359) (2)
+(340-359) (2)
 
 |
 
@@ -710,7 +710,7 @@ Adjoint technique de la recherche de 1re classe
 
 |
 
-355 - 390
+355-390
 
 (421) (3)
 
@@ -726,7 +726,7 @@ Adjoint administratif de recherche de 1re classe
 
 |
 
-355 - 390
+355-390
 
 (421) (4)
 
@@ -738,11 +738,11 @@ Jusqu'au 6 octobre inclus
 
 |
 
-Agent technique de la recherche - 1er niveau
+Agent technique de la recherche-1er niveau
 
 |
 
-274 - 319
+274-319
 
 (220) (232)
 
@@ -756,11 +756,11 @@ Jusqu'au 6 octobre inclus
 
 |
 
-Agent d'administration de la recherche - 1er niveau
+Agent d'administration de la recherche-1er niveau
 
 |
 
-274 - 319
+274-319
 
 (220) (232)
 
@@ -782,7 +782,7 @@ Institut scientifique et technique des pêches maritimes (IFREMER)
 
 Transféré de l'équipement
 
-D.2000-960 du 29/9/2000 (JO du 1/10/2000)
+D. 2000-960 du 29/9/2000 (JO du 1/10/2000)
 
 |
 
@@ -790,7 +790,7 @@ Directeur adjoint
 
 |
 
-801 - 1015 (a)
+801-1015 (a)
 
 |
 
@@ -802,7 +802,7 @@ Chef de service
 
 |
 
-801 - 1015
+801-1015
 
 |
 
@@ -812,7 +812,7 @@ Directeur de recherches
 
 |
 
-701 - 966
+701-966
 
 |
 
@@ -822,7 +822,7 @@ Maître de recherches principal
 
 |
 
-741 - 801
+741-801
 
 |
 
@@ -832,7 +832,7 @@ Maître de recherches
 
 |
 
-648 - 721
+648-721
 
 |
 
@@ -842,7 +842,7 @@ Chargé de recherches
 
 |
 
-416 - 616
+416-616
 
 |
 
@@ -852,7 +852,7 @@ Chef de bureau administratif
 
 |
 
-401 - 735
+401-735
 
 |
 
@@ -862,7 +862,7 @@ Secrétaire administratif
 
 |
 
-289 - 474
+289-474
 
 |
 
@@ -872,7 +872,7 @@ Dessinateur
 
 |
 
-267 - 474
+267-474
 
 |
 
@@ -886,7 +886,7 @@ Institut national de la santé et de la recherche médicale (INSERM)
 
 Transféré des affaires sociales
 
-D.2006-1443 du24 /11/20006 (JO du 25/11/2006)
+D. 2006-1443 du24/11/20006 (JO du 25/11/2006)
 
 |
 
@@ -894,7 +894,7 @@ Chef des services administratifs et financiers
 
 |
 
-306 - 780
+306-780
 
 |
 
@@ -904,7 +904,7 @@ Adjoint au chef des services administratifs et financiers
 
 |
 
-416 - 529
+416-529
 
 (579)
 
@@ -918,7 +918,7 @@ Assistant scientifique
 
 |
 
-306 - 593
+306-593
 
 |
 
@@ -928,7 +928,7 @@ Chef de documentation
 
 |
 
-300 - 530
+300-530
 
 |
 
@@ -938,7 +938,7 @@ Secrétaire
 
 |
 
-267 - 474
+267-474
 
 |
 
@@ -948,7 +948,7 @@ Traducteur
 
 |
 
-243 - 487
+243-487
 
 |
 
@@ -962,7 +962,7 @@ Dessinateur
 
 |
 
-243 - 446
+243-446
 
 E 4
 
@@ -1022,7 +1022,7 @@ classe exceptionnelle
 
 1015 (a)
 
-801 - 1015(a)
+801-1015 (a)
 
 |
 
@@ -1046,11 +1046,11 @@ classe exceptionnelle
 
 -
 
-HED - HEE
+HED-HEE
 
-1015 - HEC
+1015-HEC
 
-801 - HEA
+801-HEA
 
 |
 
@@ -1068,11 +1068,11 @@ hors classe
 
 -
 
-801 - HEA
+801-HEA
 
-755 - 1015
+755-1015
 
-530 - 677
+530-677
 
 |
 
@@ -1088,9 +1088,9 @@ classe normale
 
 -
 
-801 - 1015(a)
+801-1015 (a)
 
-530 - 1015
+530-1015
 
 |
 
@@ -1098,7 +1098,7 @@ classe normale
 
 |
 
-Maître de conférences des universités - praticien hospitalier de médecine, d'odontologie et des disciplines pharmaceutiques
+Maître de conférences des universités-praticien hospitalier de médecine, d'odontologie et des disciplines pharmaceutiques
 
 hors classe
 
@@ -1110,13 +1110,13 @@ hors classe
 
 -
 
-801 - HEA
+801-HEA
 
-755 - 1015
+755-1015
 
-(530)(608)(677)
+(530) (608) (677)
 
-530 - 677
+530-677
 
 |
 
@@ -1134,11 +1134,11 @@ Maître assistant
 
 -
 
-755 - 1015
+755-1015
 
-480 - 664
+480-664
 
-(801)(4)
+(801) (4)
 
 |
 
@@ -1150,7 +1150,7 @@ Agrégé non patenté chargé d'enseignement (droit)
 
 |
 
-585 - 1 000(a)
+585-1 000 (a)
 
 |
 
@@ -1172,7 +1172,7 @@ Agrégé patenté chargé d'enseignement ou de travaux pratiques (médecine)
 
 |
 
-416 - 648
+416-648
 
 |
 
@@ -1182,7 +1182,7 @@ Chef de travaux des facultés
 
 |
 
-480 - 901
+480-901
 
 |
 
@@ -1192,7 +1192,7 @@ Assistant de l'enseignement supérieur
 
 |
 
-416 - 821
+416-821
 
 |
 
@@ -1218,11 +1218,11 @@ hors classe
 
 |
 
-801 - 1015(a)
+801-1015 (a)
 
-701 - 1015
+701-1015
 
-473 - 874
+473-874
 
 |
 
@@ -1240,11 +1240,11 @@ hors classe
 
 |
 
-852 - 966
+852-966
 
-665 - 821
+665-821
 
-416 - 750
+416-750
 
 |
 
@@ -1286,11 +1286,11 @@ Attaché stagiaire
 
 |
 
-852 - 966
+852-966
 
-563 - 821
+563-821
 
-379 - 780
+379-780
 
 340
 
@@ -1338,7 +1338,7 @@ Sous directeur
 
 |
 
-801 - 1015 (a)
+801-1015 (a)
 
 |
 
@@ -1350,7 +1350,7 @@ Inspecteur des stages et sous-directeur (ENSET)
 
 |
 
-427 - 1015
+427-1015
 
 |
 
@@ -1360,7 +1360,7 @@ Agrégé secrétaire, agrégé préparateur, agrégé répétiteur
 
 |
 
-427 - 1015
+427-1015
 
 |
 
@@ -1370,7 +1370,7 @@ Bibliothécaire en chef agrégé (rue d'Ulm)
 
 |
 
-427 - 1015
+427-1015
 
 |
 
@@ -1380,7 +1380,7 @@ Secrétaire général (St Cloud)
 
 |
 
-416 - 801
+416-801
 
 |
 
@@ -1390,7 +1390,7 @@ Professeur adjoint (Fontenay aux Roses)
 
 |
 
-340 - 721
+340-721
 
 |
 
@@ -1400,7 +1400,7 @@ Surveillante générale (Sèvres)
 
 |
 
-340 - 659
+340-659
 
 |
 
@@ -1410,7 +1410,7 @@ Secrétaire bibliothécaire (Fontenay aux Roses)
 
 |
 
-416 - 563
+416-563
 
 |
 
@@ -1420,7 +1420,7 @@ Elève
 
 |
 
-355 - 370
+355-370
 
 |
 
@@ -1440,7 +1440,7 @@ Sous directeur de laboratoire
 
 |
 
-801 - 1015(a)
+801-1015 (a)
 
 |
 
@@ -1452,7 +1452,7 @@ Chef de travaux et chargé de cours
 
 |
 
-480 - 882
+480-882
 
 |
 
@@ -1476,7 +1476,7 @@ Professeur du Muséum national d'histoire naturelle
 
 1015 (a)
 
-801 - 1015 (a)
+801-1015 (a)
 
 |
 
@@ -1494,9 +1494,9 @@ classe normale
 
 |
 
-801 - 1015 (a)
+801-1015 (a)
 
-530 - 1015
+530-1015
 
 |
 
@@ -1508,7 +1508,7 @@ Surveillant général du Muséum (ancienne formule)
 
 |
 
-210 - 533
+210-533
 
 |
 
@@ -1518,7 +1518,7 @@ Chef du service des installations
 
 |
 
-235 - 487
+235-487
 
 |
 
@@ -1556,7 +1556,7 @@ Chef de service adjoint
 
 |
 
-593 - 772
+593-772
 
 |
 
@@ -1578,7 +1578,7 @@ Assistant chef
 
 |
 
-531 - 685
+531-685
 
 |
 
@@ -1588,7 +1588,7 @@ Assistant
 
 |
 
-416 - 634
+416-634
 
 |
 
@@ -1598,7 +1598,7 @@ Chef de travaux artistiques
 
 |
 
-265 - 500
+265-500
 
 |
 
@@ -1616,7 +1616,7 @@ Directeur adjoint
 
 |
 
-801 - 1015 (a)
+801-1015 (a)
 
 |
 
@@ -1640,7 +1640,7 @@ Sous directeur de laboratoire
 
 |
 
-801 - 1015
+801-1015
 
 |
 
@@ -1662,7 +1662,7 @@ Chef de travaux
 
 |
 
-379 - 801
+379-801
 
 |
 
@@ -1672,7 +1672,7 @@ Assistant chef
 
 |
 
-546 - 701
+546-701
 
 |
 
@@ -1682,7 +1682,7 @@ Agent comptable
 
 |
 
-642 - 871
+642-871
 
 |
 
@@ -1712,7 +1712,7 @@ Sous directeur du laboratoire d'essais
 
 |
 
-801 - 1015
+801-1015
 
 |
 
@@ -1724,7 +1724,7 @@ Chef du service des essais
 
 |
 
-616 - 901
+616-901
 
 |
 
@@ -1734,7 +1734,7 @@ Physicien et chimiste principal
 
 |
 
-546 - 701
+546-701
 
 |
 
@@ -1744,7 +1744,7 @@ Physicien et chimiste
 
 |
 
-306 - 652
+306-652
 
 |
 
@@ -1792,7 +1792,7 @@ Chef du service de muséologie technique
 
 |
 
-741 - 966
+741-966
 
 |
 
@@ -1802,7 +1802,7 @@ Conservateur adjoint des collections
 
 |
 
-340 - 772
+340-772
 
 |
 
@@ -1842,7 +1842,7 @@ classe exceptionnelle
 
 1015 (a)
 
-801 - 1015 (a)
+801-1015 (a)
 
 |
 
@@ -1862,9 +1862,9 @@ classe normale
 
 |
 
-801 - 1015 (a)
+801-1015 (a)
 
-530 - 1015
+530-1015
 
 |
 
@@ -1876,7 +1876,7 @@ Aide astronome des observatoires et aide physicien des instituts du globe
 
 |
 
-427 - 801
+427-801
 
 |
 
@@ -1904,7 +1904,7 @@ Directeur d'études de l'Ecole pratique des hautes études, de l'Ecole nationale
 
 1015 (a)
 
-801 - 1015 (a)
+801-1015 (a)
 
 |
 
@@ -1922,9 +1922,9 @@ classe normale
 
 |
 
-801 - 1015 (a)
+801-1015 (a)
 
-530 - 1015
+530-1015
 
 |
 
@@ -1936,7 +1936,7 @@ Secrétaire professeur adjoint
 
 |
 
-340 - 563
+340-563
 
 |
 
@@ -1946,7 +1946,7 @@ Elève
 
 |
 
-325 - 340
+325-340
 
 |
 

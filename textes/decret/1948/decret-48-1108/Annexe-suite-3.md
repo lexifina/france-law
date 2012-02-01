@@ -40,7 +40,7 @@ Secrétaire général d'académie
 
 |
 
-Inspecteur d'académie, directeur des services départementaux de l'éducation nationale
+Directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie
 
 |
 
