@@ -16,8 +16,6 @@ COMPÉTENCES DES PERSONNES PHYSIQUES
 
 - les méthodes de diagnostic des installations intérieures d'électricité.
 
-Les personnes physiques dont les compétences, pour établir l'état de l'installation intérieure d'électricité, ont été validées par une licence en diagnostic technique immobilier et pathologie du bâtiment délivrée par une université sont exonérées de l'examen théorique.
-
 2. L'examen pratique permet de vérifier par une mise en situation que la personne physique candidate à la certification :
 
 - est capable de mettre en œuvre une méthodologie de réalisation des états de l'installation intérieure d'électricité et d'utiliser les outils dédiés à l'activité ;
