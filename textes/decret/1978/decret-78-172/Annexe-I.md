@@ -42,7 +42,7 @@ Le directeur départemental de l'équipement ;
 
 Le directeur départemental de l'agriculture :
 
-L'inspecteur d'académie, directeur des services départementaux de l'éducation.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 2° Six représentants des collectivités locales ;
 

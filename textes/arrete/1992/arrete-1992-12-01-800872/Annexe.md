@@ -2,23 +2,33 @@
 
 DÉSIGNATION DE L'EMPLOI
 
-justifiant de l'obtention de la nouvelle bonification indiciaire |
-
-NIVEAU DE L'EMPLOI
-
-justifiant de l'obtention de la nouvelle bonification indiciaire |
-
-NOMBRE
-
-d'emplois éligible
+justifiant de l'obtention de la nouvelle bonification indiciaire
 
 |
 
-NOMBRE
+NIVEAU DE L'EMPLOI
 
-de point par emploi
+justifiant de l'obtention
 
-(points en indice majoré) |
+de la nouvelle
+
+bonification indiciaire
+
+|
+
+NOMBRE D'EMPLOIS
+
+éligibles
+
+|
+
+NOMBRE DE POINTS
+
+par emploi
+
+(points en indice majoré)
+
+|
 
 Responsable du budget et/ ou du contrôle de gestion et/ ou des moyens généraux et/ ou du service du personnel et/ ou du contentieux d'une direction
 
@@ -124,7 +134,7 @@ A
 
 |
 
-3
+2
 
 |
 
@@ -796,7 +806,7 @@ B
 
 |
 
-160
+162
 
 |
 
