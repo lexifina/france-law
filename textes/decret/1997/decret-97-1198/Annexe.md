@@ -384,15 +384,33 @@ Francisation provisoire des navires de commerce. |
 
 Article 219, paragraphe 1er (3°). |
 
-Mesure prise par le ministre chargé de la marine marchande et, le cas échéant, les autres ministres intéressés
+Mesures prises par le ministre chargé du transport des marchandises dangereuses et, le cas échéant, les autres ministres intéressés
 
-Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution
+Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution :
 
-1 |
+1
 
-Autorisations de transporter par mer des marchandises dangereuses. |
+|
 
-Article 54-I. |
+Evaluation des cargaisons et approbation des conditions de transport.
+
+|
+
+Article 56 (II).
+
+|
+
+2
+
+|
+
+Habilitation, retrait et suspension de l'habilitation des organismes chargés de délivrer les certificats relatifs aux cargaisons.
+
+|
+
+Article 42-2.
+
+|
 
 Mesure prise par le ministre chargé des ports maritimes et, le cas échéant, le ministre dont relève la tutelle de l'établissement concessionnaire
 
@@ -1258,21 +1276,115 @@ Article 10 |
 
 Mesures prises par le ministre chargé de la mer
 
-Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution
+Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution :
 
-1 |
-
-Décision d'approbation des navires de
-
-plaisance : séries de plus de 24 mètres et
-
-navires à utilisation collective.
+1
 
 |
 
-Article 17,
+Délivrance, visa et renouvellement du document de conformité à la gestion de la sécurité.
 
-paragraphe 1.
+|
+
+Article 3-1, paragraphe III.
+
+|
+
+2
+
+|
+
+Délivrance des certificats d'exemption.
+
+|
+
+Article 3-2, paragraphe II.
+
+|
+
+3
+
+|
+
+Délivrance du titre provisoire se rapportant au document de conformité à la gestion de la sécurité.
+
+|
+
+Article 10, paragraphe II.
+
+|
+
+4
+
+|
+
+Approbation de tout document nécessaire aux navires devant être approuvé en application des conventions internationales ou des prescriptions du décret n° 84-810 ou des arrêtés pris pour son application.
+
+|
+
+Article 14, paragraphe I-2.
+
+|
+
+5
+
+|
+
+Décision d'approbation des navires de
+
+plaisance : séries de plus de 24 mètres et navires à utilisation collective.
+
+|
+
+Article 17, paragraphe I-1.
+
+|
+
+6
+
+|
+
+Approbation de tout document nécessaire aux navires devant être approuvé en application des conventions internationales ou des prescriptions du décret n° 84-810 ou des arrêtés pris pour son application.
+
+|
+
+Article 17, paragraphe I-3.
+
+|
+
+7
+
+|
+
+Habilitation, retrait et suspension de l'habilitation des sociétés de classification agréées.
+
+|
+
+Articles 42 et 42-1.
+
+|
+
+8
+
+|
+
+Habilitation, retrait et suspension de l'habilitation des organismes chargés de délivrer, renouveler, suspendre ou retirer les certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat.
+
+|
+
+Article 42-2.
+
+|
+
+9
+
+|
+
+Habilitation, retrait et suspension de l'habilitation des organismes de certification des conteneurs.
+
+|
+
+Article 42-2.
 
 |
 
@@ -1359,54 +1471,6 @@ Article 1er, 1er
 et 2e alinéa.
 
 |
-
-Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution
-
-1 |
-
-Délivrance d'attestation de conformité au code international
-
-de gestion pour la sécurité de l'exploitation des navires et
-
-de la prévention de la pollution (code ISM).
-
-|
-
-Article 14-I, paragraphe 2-1. |
-
-2 |
-
-Attestation de conformité des navires de commerce de plus
-
-de 500 tonneaux et des navires à passagers effectuant des
-
-voyages internationaux à la réglementation sur la sécurité
-
-des navires, après étude de leurs plans.
-
-|
-
-Article 14-I, paragraphes 1-1,
-
-1-2 et 2-1.
-
-|
-
-3 |
-
-Approbation de certains matériels de sécurité et de prévention
-
-de la pollution et de certains documents.
-
-|
-
-Article 14-I, paragraphe 2-2. |
-
-4 |
-
-Agrément de certains organismes en matière de sécurité des navires. |
-
-Article 42. |
 
 Mesures prises par le ministre chargé des ports maritimes
 
