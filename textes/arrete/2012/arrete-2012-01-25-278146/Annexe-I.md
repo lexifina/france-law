@@ -1,22 +1,20 @@
 # Article Annexe I
 
-LISTE DES PORTS DÉSIGNÉS POUR LE DÉBARQUEMENT
-
-ET LE TRANSBORDEMENT DE THON ROUGE
+LISTE DES PORTS DÉSIGNÉS POUR LE DÉBARQUEMENT ET LE TRANSBORDEMENT DE THON ROUGE
 
 Méditerranée :
 
 Senneurs :
 
-Languedoc Roussillon : Port-Vendres, Sète.
+Languedoc-Roussillon : Port-Vendres, Sète.
 
 Provence-Alpes-Côte d'Azur : Marseille.
 
 Autres navires (canneurs, ligneurs, palangriers et chalutiers pélagiques au titre des prises accessoires).
 
-Languedoc-Roussillon : Agde, Grau-du-Roi, Port-la-Nouvelle, Port-Vendres, Sète.
+Languedoc Roussillon : Agde, Grau-du-Roi, Port-la-Nouvelle, Port-Vendres, Sète.
 
-Provence-Alpes-Côte d'Azur : Cannes, Marseille, Martigues, Nice, Port de Bouc, Toulon, Saint-Raphaël, Sanary.
+Provence-Alpes-Côte d'Azur : Cannes, Marseille, Martigues, Nice, Port-de-Bouc, Toulon, Saint-Raphaël, Sanary.
 
 Corse : Ajaccio, Bastia, Calvi.
 

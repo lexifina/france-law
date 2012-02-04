@@ -2,7 +2,7 @@
 
 MODÈLE DE DÉCLARATION DE TRANSFERT
 
-(conforme à la recommandation [10-04] de la CICTA)
+(Conforme à la recommandation [10-04] de la CICTA)
 
 Nota. - Obligations en cas de transfert :
 
@@ -14,8 +14,8 @@ Nota. - Obligations en cas de transfert :
 
 3. L'original de la déclaration de transfert doit être conservé par le navire destinataire qui détient le poisson, jusqu'à l'établissement d'engraissement ou au lieu de débarquement.
 
-4. L'opération de transfert est inscrite dans le journal de bord de tout navire impliqué dans l'opération.
+4. L'opération de transfert est inscrite dans le journal de pêche de tout navire impliqué dans l'opération.
 
-Vous pouvez consulter le tableau dans le
+Vous pouvez consulter le tableau à l'adresse suivante :
 
-JOn° 94 du 21/04/2011 texte numéro 42
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120203&numTexte=18&pageDebut=02004&pageFin=02018
