@@ -30,7 +30,7 @@ DIVISÉS
 
 en prises
 
-Doses limites
+Dose limite
 
 par unité de prise
 
@@ -4122,13 +4122,13 @@ Application locale
 
 |
 
-2
+5
 
 |
 
 |
 
-3,6
+9
 
 |
 
