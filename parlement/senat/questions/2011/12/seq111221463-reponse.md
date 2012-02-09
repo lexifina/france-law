@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111221463
+
+- Question : [SEQ111221463](seq111221463.md) — Soutien à la filière œufs
+
+## Réponse
+
+*Agriculture, JO du 2012-02-09, page 335*
+
+La directive 1999/74/CE du 19 juillet 1999 rend obligatoire pour tous les Etats membres l'élevage de poules pondeuses en cages aménagées depuis le 1er janvier 2012. Depuis le 1er janvier 2002, les bâtiments construits, reconstruits ou nouvellement mis en exploitation répondent aux nouvelles normes, les autres avaient jusqu'au 1er janvier 2012 pour se conformer aux nouvelles dispositions, qui prévoient des cages d'une densité de 750 cm2 par poule, équipées d'un nid, d'une litière, ainsi que des perchoirs appropriés. Afin d'accompagner cette mise aux normes et de mettre l'ensemble de la profession en capacité de respecter l'échéance du 1er janvier 2012, le ministère de l'agriculture a consacré une enveloppe de 11 millions d'euros en 2011 dans le cadre des plans stratégiques pour les filières d'élevage annoncés au SPACE, en septembre 2010. Face au retard pris par certains pays européens dans la mise en œuvre effective des dispositions de la directive /955/74/CE, la Commission européenne a confirmé à maintes reprises avant l'échéance du 1er janvier 2012 qu'il n'était pas envisageable de reporter cette dernière et qu'elle s'assurerait dès cette date de la mise en conformité des exploitations. La Commission européenne a ainsi réuni à Bruxelles, le 28 octobre 2011, les Etats membres de l'Union européenne, à la demande du Conseil des ministres de l'agriculture du 20 octobre 2011, afin d'exposer les modalités qu'elle entendait mettre en place pour s'assurer d'une mise en œuvre complète et rapide de l'interdiction des cages non aménagées. Elle a également annoncé notamment son intention de réaliser, dès le début de l'année 2012, des inspections dans les élevages et d'engager des procédures d'infractions envers les Etats membres ne respectant pas la directive européenne.
