@@ -2,8 +2,6 @@
 
 CONDITIONS D'UTILISATION DES MÉTHODES DE CALCUL CONVENTIONNEL
 
-La personne établissant le diagnostic de performance énergétique et utilisant une des méthodes définies à l'article 2 doit entrer les données suivantes :
-
 1. Données d'entrée :
 
 Les calculs d'estimation des consommations énergétiques doivent a minima considérer les données d'entrée suivantes :
