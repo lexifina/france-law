@@ -2209,3 +2209,11 @@ Diéthylène glycol (DEG - n° CAS : 111-46-6 ; n° CE : 203-872-2), pour le niv
 Phytonadione (INCI), phytomenadione (INN) (CAS : 84-80-0/81818-54-4 ; n° CE : 201-564-2)
 
 |
+
+1372
+
+|
+
+2-Aminophénol (o-Aminophénol ; CI 76520) et ses sels (n° CAS : 95-55-6/67845-79-8/51-19-4 ; n° CE : 202-431-1/267-335-4)
+
+|
