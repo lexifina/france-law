@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111020486
+
+- Question : [SEQ111020486](seq111020486.md) — Adoption de la loi créant les conseillers territoriaux et redécoupage des cantons
+
+## Réponse
+
+*Intérieur, JO du 2012-02-16, page 438*
+
+Il résulte des dispositions de la loi n° 2011-871 du 26 juillet 2011 fixant le nombre des conseillers territoriaux de chaque département et de chaque région que le nombre de conseillers territoriaux sera égal à celui des conseillers généraux dans sept départements : l'Allier, l'Aube, le Calvados, l'Eure-et-Loir, les Pyrénées-Orientales, le Haut-Rhin et le Territoire de Belfort. En Moselle, 53 conseillers territoriaux seront élus alors que ce département ne compte aujourd'hui que 51 cantons. Comme l'a annoncé le Premier ministre le 7 octobre dernier, la publication des décrets relatifs au redécoupage des cantons interviendra au second semestre 2012. Conformément à la jurisprudence du Conseil d'État, les travaux de remodelage de la carte cantonale qui seront conduits par le Gouvernement s'appuieront sur des bases essentiellement démographiques et devront conduire à une réduction significative des écarts de population entre circonscriptions par rapport à la moyenne départementale. Ceux-ci peuvent aller, au sein d'un même département, de 1 à 45. Dans les sept départements où le nombre de conseillers territoriaux sera égal à celui des conseillers généraux, ces écarts démographiques ne sont pas négligeables. On note ainsi, dans les Pyrénées-Orientales, un rapport de 1 à 21 entre le canton le moins peuplé (Sournia, 1 188 habitants) et le canton le plus peuplé (Argelès-sur-Mer, 25 794 habitants). La réduction des disparités démographiques existant entre les cantons au sein des départements milite ainsi en faveur d'un nouveau découpage, y compris dans ceux où le nombre de conseillers territoriaux sera égal à celui des conseillers généraux.
