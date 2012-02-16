@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111221471
+
+- Question : [SEQ111221471](seq111221471.md) — Avenir et moyens de l'Office national des forêts
+
+## Réponse
+
+*Agriculture, JO du 2012-02-16, page 401*
+
+Le contrat d'objectifs et de performance (COP) de l'Office national des forêts (ONF), pour la période 2012-2016, a été signé le 19 octobre 2011 par l'Etat et l'ONF. Ce contrat a également été signé par la Fédération nationale des communes forestières (FNCOFOR), témoignage de l'ancrage territorial de l'établissement ONF. Il confirme les missions confiées par l'État à l'ONF pour une gestion durable et multifonctionnelle des forêts publiques et pour le développement de la filière bois en France. Il fixe les orientations stratégiques de l'établissement pour une gestion durable de la forêt publique, prenant en compte ses dimensions économique, environnementale et sociale tout en assurant un approvisionnement régulier de la filière bois. Dans le cadre de ce contrat, l'ONF poursuivra son implication dans le développement des usages énergétiques du bois en cohérence avec la politique européenne et nationale d'augmentation de la part des énergies renouvelables. Le financement de l'ensemble des missions du COP implique un effort partagé de l'établissement, de l'État, et des collectivités. C'est pourquoi il est prévu une nouvelle contribution des collectivités locales basée sur la superficie des forêts gérées par l'ONF. Ce dispositif a été négocié en concertation étroite avec la FNCOFOR afin de pérenniser le régime forestier et les missions de service public de l'office. La création d'un comité consultatif de la forêt communale permet de mieux associer les communes forestières à la gouvernance de l'office. Ce nouveau comité devra être force de proposition et lieu d'échange avec les collectivités, notamment pour développer la production de bois dans le cadre d'une gestion durable en forêt des collectivités afin de répondre aux nouveaux enjeux de la filière bois.
