@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111221419
+
+- Question : [SEQ111221419](seq111221419.md) — Statut de gestionnaire forestier professionnel
+
+## Réponse
+
+*Agriculture, JO du 2012-02-16, page 400*
+
+La loi de modernisation de l'agriculture et de la pêche de juillet 2010 a pour objectif, au regard du déficit commercial de la filière bois, de mobiliser plus de bois tout en préservant une exploitation durable des forêts. La création de gestionnaires forestiers professionnels (GFP) prévue dans l'article L. 224-7 du code forestier va permettre de proposer une offre plus large d'intervenants professionnels aux propriétaires forestiers pour gérer plus efficacement leurs forêts et pour bénéficier de la mesure fiscale relative au dispositif d'encouragement fiscal à l'investissement (DEFI) contrat. Actuellement, seuls les experts et les techniciens de coopératives reconnus comme « hommes de l'art » peuvent faire bénéficier les propriétaires forestiers de ces mesures. Le dispositif relatif au GFP remplacera le dispositif « Homme de l'art » prévu par l'arrêté du 28 juillet 2008. Les GFP devront remplir des conditions de qualification et d'indépendance fixées par voie réglementaire. Le GFP devra disposer au minimum d'un diplôme de niveau III en gestion forestière, de trois ans d'expérience dans ce même domaine et travailler de manière indépendante afin de protéger les intérêts des propriétaires forestiers (mandat de gestion). Le professionnel justifiant de cette qualification de GFP sera inscrit sur une liste établie par le préfet, après avis du Centre national de la propriété forestière. Le projet de décret a été élaboré en associant tous les professionnels concernés et a été examiné favorablement par le Conseil d'État, section des travaux publics, le 13 juillet dernier. Ce projet de décret devrait être publié dans les meilleurs délais.
