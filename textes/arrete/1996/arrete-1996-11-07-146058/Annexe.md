@@ -24,20 +24,6 @@ du personnel
 
 |
 
-Ministériel |
-
-C.H.S. ministériel
-
-|
-
-5
-
-|
-
-7
-
-|
-
 Central
 
 |
