@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120121830
+
+- Question : [SEQ120121830](seq120121830.md) — Communication au public des comptes de campagne
+
+## Réponse
+
+*Intérieur, JO du 2012-02-16, page 440*
+
+Conformément aux dispositions de la loi n° 78-753 du 17 juillet 1978 modifiée, la Commission nationale des comptes de campagne et des financements politiques (CNCCFP) est tenue de communiquer les documents administratifs qu'elle détient, dont les comptes de campagne, aux personnes qui en font la demande, sous certaines conditions. En application de l'article 6 de la loi précitée, qui dispose que « ne sont pas communicables les documents administratifs dont la consultation ou la communication porterait atteinte [...] au déroulement des procédures engagées devant les juridictions ou d'opérations préliminaires à de telles procédures, sauf autorisation donnée par l'autorité compétente », la commission ne permet pas la consultation des comptes des candidats dans une circonscription dont l'élection fait l'objet d'une protestation électorale, tant que la décision de la juridiction compétente sur le contentieux en cause n'est pas définitive. Au regard des dispositions de l'article précité, « ne sont communicables qu'à l'intéressé les documents administratifs dont la communication porterait atteinte à la protection de la vie privée, au secret médical et au secret en matière commerciale et industrielle » ; lorsque le compte de campagne est consultable, et si la demande porte sur un document comportant des mentions qui ne sont pas communicables, mais qu'il est possible d'occulter ou de disjoindre, le document est communiqué au demandeur après occultation ou disjonction de ces mentions. En revanche, les documents comportant des mentions susceptibles de porter atteinte au secret de la vie privée et dont l'occultation conduirait à l'élaboration de documents dénaturés, n'ont pas à être communiqués. II en est ainsi, notamment, de la liste des donateurs.
