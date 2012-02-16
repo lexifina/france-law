@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317770
+
+- Question : [SEQ110317770](seq110317770.md) — Défense du service public
+
+## Réponse
+
+*Écologie, JO du 2012-02-16, page 412*
+
+Afin d'adapter les schémas de distribution aux besoins des usagers, la SNCF procède, chaque année, à une analyse de l'activité des guichets de vente. Cela lui permet également de vérifier la pertinence économique de chaque point de vente. La tendance observée depuis plusieurs années fait apparaître une baisse d'activité des guichets au profit des canaux de vente à distance (réservation de billets par internet et notamment via les réseaux téléphoniques mobiles). Aussi, consciente des changements de comportements de ses usagers et soucieuse de respecter la maîtrise de ses coûts, la SNCF adapte ses canaux de distribution. Pour l'agglomération bordelaise, l'application de cette politique a conduit la SNCF à décider en 2011 la fermeture de la boutique de Talence Médoquine et la modification des horaires d'ouverture de la boutique de Caudéran - Mérignac. Dans les deux cas, il s'agit de boutiques SNCF situées en ville dans des zones de chalandise et donc en dehors des gares. La boutique de Talence était un point de vente situé dans une ancienne gare éloignée du centre ville de Talence et qui n'était plus desservie par le train depuis de nombreuses années. Un guichet accueiilait la clientèle locale de 10 h à 12 h 30 et de 13 h 30 à 18 h du lundi au vendredi. Cette boutique distribuait à plus de 75 % des billets « grands parcours ». L'activité de cette boutique avait chuté de 27 % entre 2006 et 2010 puis de 16 % sur la seule période 2010-2011. Le Gouvernement demeure attentif à ce que la SNCF concilie au mieux ses contraintes économiques avec la satisfaction des besoins des usagers, dans le cadre de ses missions de service public.
