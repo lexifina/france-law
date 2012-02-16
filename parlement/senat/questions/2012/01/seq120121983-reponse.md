@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120121983
+
+- Question : [SEQ120121983](seq120121983.md) — Nuisances sonores autoroutières
+
+## Réponse
+
+*Écologie, JO du 2012-02-16, page 414*
+
+Les cinq zones de bruit critique (ZBC) recensées le long de l'A320 suite aux études acoustiques se répartissent de la manière suivante deux sur la commune de Rosbruck, deux sur celle de Spicheren et une sur celle de Forbach. La réalisation de protections phoniques le long de l'A30 et de l'A320 avait été inscrite au contrat de plan État - région (CPER) 2000-2006 pour un montant de 3,048 millions d'euros. Les travaux qui n'avaient pu alors se concrétiser sont dorénavant prévus dans le cadre du programme de modernisation des itinéraires routier (PDMI) de la région Lorraine. Celui-ci vient abonder les sommes inscrites au CPER de 2,8 millions d'euros. Un cofinancement des collectivités locales et de l'agence de l'environnement et de la maîtrise de l'énergie (ADEME) est attendu sur certaines opérations à mener dans ce cadre. Un travail de priorisation des sites à traiter est aujourd'hui engagé par la direction régionale de l'environnement de l'aménagement et du logement (DREAL) de Lorraine. Ce travail prend évidemment en compte l'importance des impacts mais aussi les contraintes techniques qui peuvent exister et qui sont variables selon les sites, les délais de réalisation des mesures ainsi que leurs coûts et les possibilités de financement. Ce travail est aujourd'hui bien avancé et sa finalisation ne dépend plus que de l'aboutissement des négociations en cours en matière de cofinancement. Une fois ce travail achevé et après concertation avec les élus locaux concernés, il est convenu que le préfet de région arrête l'ordre de priorité des aménagements à réaliser. Ces derniers seront ensuite mis en œuvre progressivement en fonction des crédits qui pourront être mobilisés à cet effet.
