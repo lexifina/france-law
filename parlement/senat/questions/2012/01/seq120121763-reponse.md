@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120121763
+
+- Question : [SEQ120121763](seq120121763.md) — Respect des droits humains au Tibet
+
+## Réponse
+
+*Affaires étrangères, JO du 2012-02-16, page 397*
+
+Les régions tibétaines de la Chine sont marquées depuis plusieurs mois par une série d'immolations, notamment à Ngaba, au nord de la province du Sichuan, en particulier depuis la fin du mois de septembre 2011. La France a publiquement exprimé sa tristesse et sa préoccupation devant la mort par immolation de jeunes Tibétains, ainsi que son inquiétude quant au caractère extrême et au désespoir que traduit leur geste. La France s'est également mobilisée avec ses partenaires, au niveau européen, afin de faire part aux autorités chinoises de l'inquiétude que soulèvent ces développements. Une démarche officielle de l'Union européenne a ainsi été effectuée auprès du ministère des Affaires étrangères chinois le 8 décembre 2011. La question des droits de l'Homme et des libertés religieuses au Tibet est régulièrement évoquée dans le cadre du dialogue euro-chinois sur les droits de l'Homme, ainsi que lors des contacts politiques bilatéraux entre la France et la Chine. La France suit avec une constante attention l'évolution de la situation au Tibet et considère que le dialogue est l'unique voie pour parvenir à une solution durable, respectant pleinement l'identité culturelle et spirituelle tibétaine, dans le cadre de la République populaire de Chine. De manière générale, la France, avec ses partenaires européens, demeure attentive à la situation des droits de l'Homme en Chine. Sur cette question, la France poursuit, de manière continue et au plus haut niveau, le dialogue avec les autorités chinoises, et leur rappelle régulièrement son attachement indéfectible à la défense des droits de l'Homme, en Chine comme partout dans le monde.
