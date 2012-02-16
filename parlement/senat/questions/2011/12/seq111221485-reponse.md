@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111221485
+
+- Question : [SEQ111221485](seq111221485.md) — Avenir de la filière caprine en Rhône-Alpes
+
+## Réponse
+
+*Agriculture, JO du 2012-02-16, page 399*
+
+La filière laitière caprine est confrontée depuis début 2010 à une crise importante. Une forte augmentation des importations associée à une hausse significative de la collecte nationale et un tassement important de la consommation des fromages de chèvres ont conduit à un excédent d'offre de lait de chèvre qui s'est traduit par une baisse significative du prix payé aux producteurs. Plusieurs mesures destinées à soutenir la filière caprine ont été mises en œuvre depuis 2010. En effet, dans le cadre du bilan de santé de la politique agricole commune, la France a choisi de mettre en place, à partir de la campagne 2010, une aide de 10 millions d'euros aux éleveurs caprins. Cette aide bénéficie à ce jour à plus de 5 000 producteurs. Par ailleurs, concernant l'accompagnement global de la filière, l'État a financé une action exceptionnelle de promotion collective initiée par l'interprofession caprine à hauteur de 500 000 € en 2010 et de 400 000 € en 2011. Enfin, eu égard aux difficultés persistantes dans la filière, le ministre chargé de l'agriculture a missionné le 25 juillet 2011 le Conseil général de l'alimentation, de l'agriculture et des espaces ruraux pour réaliser diagnostic des forces et faiblesses de la filière. Ce travail a notamment permis à la filière de construire un plan stratégique. Ce plan constitue un socle d'expertise pour la mise en œuvre de mesures structurantes contribuant à renforcer la compétitivité et à favoriser une adéquation réactive de l'offre de la filière à l'évolution de ses débouchés. Elles pourront être appuyées, le cas échéant, dans le cadre des plans stratégiques pour les filières d'élevage en 2012.
