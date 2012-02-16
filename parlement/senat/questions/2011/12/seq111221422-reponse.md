@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111221422
+
+- Question : [SEQ111221422](seq111221422.md) — Suppression de la participation pour raccordement à l'égout
+
+## Réponse
+
+*Écologie, JO du 2012-02-16, page 422*
+
+Concernant la suppression progressive de la « participation pour raccordement à l'égout » (PRE) qui résulte de la réforme de la fiscalité de l'aménagement adoptée dans le cadre de la loi de finances rectificative pour 2010 (article 28), une période transitoire est prévue à partir du 1er mars 2012. Celle-ci doit permettre à chaque collectivité de mettre en place, à son rythme, le nouveau dispositif. Ainsi, la PRE et les autres participations d'urbanisme ne disparaitront qu'au 1er janvier 2015. En effet, pendant cette période de trois ans, les collectivités pourront utiliser soit la taxe d'aménagement (TA) au taux majoré pouvant aller jusqu'à 20 %, soit la taxe d'aménagement limitée à 5 % et le régime des participations. Le choix n'est pas obligatoirement effectué sur tout le territoire de la commune ou l'établissement public de coopération intercommunale (EPCI), mais secteur par secteur : une commune peut donc voter la TA au taux majoré sur un secteur et conserver sur un autre secteur la TA limitée à 5 % à laquelle pourra s'ajouter la PRE et les autres participations. Parallèlement, la direction de l'habitat, de l'urbanisme et des paysages (DHUP) a mis en place un comité de suivi de la réforme de la fiscalité de l'aménagement, réunissant les associations représentant les élus, les professionnels et notamment la Fédération nationale des collectivités concédantes et régies (FNCCR). Ce comité a pour but, au cours de la période transitoire, de vérifier la bonne mise en œuvre de la réforme, d'examiner les difficultés qui se présentent et de proposer des améliorations si elles s'avéraient nécessaires. La PRE sera l'un des sujets examinés.
