@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111120918
+
+- Question : [SEQ111120918](seq111120918.md) — Situation des pensionnés de la marine marchande
+
+## Réponse
+
+*Écologie, JO du 2012-02-16, page 416*
+
+Les pensions servies par le régime de sécurité sociale des marins (ENIM) relèvent d'une législation spéciale. Elles ne sont pas soumises à une condition de ressources et la condition d'âge est plus favorable que celle existant dans le régime général. Les pensions de réversion sont attribuées en fonction des catégories et durées de services des marins. Ces pensions sont calculées sur la base d'un salaire forfaitaire et évoluent depuis 1992, comme les pensions du régime général et les pensions alignées sur lui. La revalorisation du salaire forfaitaire est effectuée au 1er avril de l'année. Celle-ci est établie en référence à l'évolution prévisionnelle des prix à la consommation hors tabac, en application des articles L. 161-23-l du code de la sécurité sociale. Ce dispositif a été conçu afin que tous les retraités bénéficient d'une garantie de maintien de leur pouvoir d'achat. Au 1er avril 2010 la revalorisation fût de 0,9 %, au 1er avril 2011 de 2,1 %. Pour ce qui concerne le droit à pension des ayants droit d'un marin ayant accompli moins de 15 ans de services, titulaire d'une pension d'invalidité accident, et qui décède de causes non-imputables à son accident de travail, le conjoint survivant peut prétendre à 54 % de la pension spéciale dont il bénéficiait ou aurait bénéficié (y compris, le cas échéant, la bonification pour enfants). La pension spéciale est servie, soit au moment de l'obtention d'une pension de conjoint survivant servie par l'Etat ou un régime réglementaire de sécurité sociale, soit à l'âge de 55 ans, sous réserve d'avoir été marié au moins deux ans avant le décès du marin. Cette condition d'antériorité de mariage n'est pas exigée si un ou plusieurs enfants sont issus du mariage.
