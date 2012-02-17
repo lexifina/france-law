@@ -54,7 +54,7 @@ Pour les PO partiels, ce plafonnement n'est pas effectué.
 
 5. Plafonnement par rapport au fonds éligible (G)
 
-Le total des dépenses calculées après le plafonnement "équilibre du PO" (F) subit un plafonnement afin de ne pas dépasser le montant de la dernière décision d'éligibilité du fonds. On obtient le "montant plafonné fonds" = "montant recevable" (qui sera utilisé pour le calcul des sanctions, conformément à l'article 119 du règlement [CE] n° 1580/2007).
+Le total des dépenses calculées après le plafonnement "équilibre du PO" (F) subit un plafonnement afin de ne pas dépasser le montant de la dernière décision d'éligibilité du fonds. On obtient le "montant plafonné fonds" = "montant recevable" (qui sera utilisé pour le calcul des sanctions, conformément à l'article 117 du règlement d'exécution (UE) n° 543/2011).
 
 G = minimum entre (somme des mesures plafonnées équilibre du PO = F et dernier fonds éligible).
 
