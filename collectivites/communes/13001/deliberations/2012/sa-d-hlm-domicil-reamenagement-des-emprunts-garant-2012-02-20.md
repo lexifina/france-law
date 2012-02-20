@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SA D'HLM DOMICIL - REAMENAGEMENT DES EMPRUNTS GARANTIS PAR LA VILLE CONTRACTES AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATIONS - REITERATION DE LA GARANTIE DE LA VILLE POUR UN CAPITAL RESTANT DU DE 4 807 592,40 EUROS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-02-20
+- Séance : Conseil Municipal 2CA
+- Objet : SA D'HLM DOMICIL - REAMENAGEMENT DES EMPRUNTS GARANTIS PAR LA VILLE CONTRACTES AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATIONS - REITERATION DE LA GARANTIE DE LA VILLE POUR UN CAPITAL RESTANT DU DE 4 807 592,40 EUROS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-3352-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
