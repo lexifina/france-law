@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110920155
+
+- Question : [SEQ110920155](seq110920155.md) — Effondrement de la scolarisation des enfants de deux ans
+
+## Réponse
+
+*Éducation, JO du 2012-02-23, page 507*
+
+L'article L. 113-1 du code de l'éducation précise que « tout enfant doit pouvoir être accueilli, à l'âge de trois ans, dans une école maternelle ou une classe enfantine le plus près de son domicile, si la famille en fait la demande ». S'agissant des enfants de moins de trois ans, l'article L. 113-1 ajoute que leur accueil « est étendu en priorité dans les écoles situées dans un environnement social défavorisé, que ce soit dans les zones urbaines, rurales ou de montagne, et dans les régions d'outre-mer ». Ces dispositions sont complétées par l'article D. 113-1 du code de l'éducation, qui spécifie que « les enfants qui ont atteint l'âge de deux ans au jour de la rentrée scolaire peuvent être admis dans les écoles et les classes maternelles dans la limite des places disponibles. L'accueil des enfants de moins de trois ans est assuré en priorité dans les écoles et les classes maternelles situées dans un environnement social défavorisé, que ce soit dans les zones urbaines, rurales ou de montagne, et dans les régions d'outre-mer, et particulièrement en zone d'éducation prioritaire ». Il résulte de ces dispositions que la scolarisation des enfants de moins de trois ans ne saurait constituer une obligation pour le système éducatif, y compris lorsque les écoles et classes maternelles sont situées dans un environnement défavorisé. L'accueil de ces enfants de moins de trois ans dans une école maternelle disposant de places est une possibilité ouverte à leur demande, mais non un droit. Ainsi, la mission du ministère de l'éducation nationale telle qu'elle est inscrite explicitement dans le code de l'éducation est effectivement accomplie.
