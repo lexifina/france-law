@@ -1,94 +1,26 @@
 # Article Annexe
 
-CONDITIONS D'ATTRIBUTION DE LA NOUVELLE BONIFICATION INDICIAIRE AUX MILITAIRES EN SERVICE AU MINISTERE DE L'EQUIPEMENT, DU LOGEMENT, DES TRANSPORTS ET DU TOURISME
+Conditions d'attribution de la nouvelle bonification indiciaire aux militaires en service au ministère de la mer
 
-DÉSIGNATION
-
-DE LA FONCTION
+DÉSIGNATION DE LA FONCTION
 
 |
 
-NIVEAU
-
-de
-
-responsabilité
+NIVEAU de responsabilité
 
 |
 
-NOMBRE D'EMPLOIS
+NOMBRE d'emplois
 
 |
 
-NOMBRE DE POINTS PAR EMPLOI
+NOMBRE
+
+de point par emploi
 
 |
 
-|
-
-|
-
-A/C du
-
-1er août 1991
-
-|
-
-A/C du
-
-1er août 1992
-
-|
-
-A/C du
-
-1er août 1993
-
-|
-
-A/C du
-
-1er août 1994
-
-|
-
-A/C du
-
-1er août 1995
-
-|
-
-A/C du
-
-1er août 1991
-
-|
-
-A/C du
-
-1er août 1992
-
-|
-
-A/C du
-
-1er août 1993
-
-|
-
-A/C du
-
-1er août 1994
-
-|
-
-A/C du
-
-1er août 1995
-
-|
-
-Coordonnateur de mission de surveillance et sauvetage dans un centre régional opérationnel de surveillance et de sauvetage
+Coordinateur de mission de sauvetage dans un centre régional opérationnel de surveillance et de sauvetage
 
 |
 
@@ -97,138 +29,6 @@ Officier
 |
 
 33
-
-|
-
-33
-
-|
-
-33
-
-|
-
-33
-
-|
-
-33
-
-|
-
-10
-
-|
-
-10
-
-|
-
-10
-
-|
-
-10
-
-|
-
-20
-
-|
-
-Spécialiste en informatique générale dans une unité spécialisée dans le traitement de l'information
-
-|
-
-Officier
-
-|
-
--
-
-|
-
-8
-
-|
-
-8
-
-|
-
-10
-
-|
-
-10
-
-|
-
--
-
-|
-
-20
-
-|
-
-20
-
-|
-
-20
-
-|
-
-20
-
-|
-
-Responsable de gestion et administration du personnel à l'échelon central
-
-|
-
-Officier
-
-mari
-
--nier
-
-|
-
--
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
--
-
-|
-
-20
-
-|
-
-20
-
-|
-
-20
 
 |
 
@@ -240,47 +40,11 @@ Adjoint gestion et administration du personnel à l'échelon central
 
 |
 
-Officier
-
-mari-
-
-nier
+Officier marinier
 
 |
 
 1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1
-
-|
-
-10
-
-|
-
-10
-
-|
-
-10
-
-|
-
-10
 
 |
 
@@ -292,47 +56,11 @@ Chef de quart sauvetage dans un centre régional opérationnel de surveillance e
 
 |
 
-Officier
-
-mari-
-
-nier
+Officier marinier
 
 |
 
--
-
-|
-
--
-
-|
-
-18
-
-|
-
-30
-
-|
-
-30
-
-|
-
--
-
-|
-
--
-
-|
-
-10
-
-|
-
-10
+52
 
 |
 
