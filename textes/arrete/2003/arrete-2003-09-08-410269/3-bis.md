@@ -1,7 +1,47 @@
 # Article 3 bis
 
-Les titulaires du titre professionnel mentionnés à l'arrêté du 8 septembre 2003 relatif au titre professionnel de poseur installateur de menuiseries, fermetures et équipements sont réputés avoir obtenu le titre professionnel visé par le présent arrêté.
+Les titulaires de certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté sont réputés avoir obtenu les certificats de compétences professionnelles mentionnés à l'article précédent selon le tableau de correspondance figurant ci-dessous :
 
-Pour obtenir les deux premiers CCP du titre professionnel visé par le présent arrêté, il faut avoir obtenu les trois premiers CCP du titre professionnel mentionné à l'arrêté du 8 septembre 2003 précité.
+TITRE PROFESSIONNEL
 
-Les titulaires du quatrième CCP "poser des ouvrages de clôture et de sécurité pour des bâtiments neufs, en réhabilitation ou en rénovation sont réputés avoir obtenu le CCP "poser des portails, des éléments de type clôtures, garde-corps et terrasses en bois.
+|
+
+TITRE PROFESSIONNEL
+
+|
+
+poseur-installateur de menuiseries, fermetures et équipements
+
+(arrêté du 8 septembre 2003 modifié par l'arrêté du 11 juillet 2007)
+
+|
+
+poseur-installateur de menuiseries, fermetures et équipements
+
+(présent arrêté)
+
+|
+
+Poser des fenêtres et des portes extérieures.
+
+|
+
+Poser des menuiseries extérieures et des bardages.
+
+|
+
+Poser des portes de garage, des volets et des stores.
+
+|
+
+Poser des fermetures extérieures et des protections solaires.
+
+|
+
+Poser des portails, des éléments de type clôtures, garde-corps et terrasses en bois.
+
+|
+
+Poser des éléments de protection, de sécurité et d'aménagement extérieur.
+
+|
