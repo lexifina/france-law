@@ -488,7 +488,7 @@ Forfait à compter lorsqu'il existe divers ouvrages en bois ou panneaux dérivé
 
 |
 
-Exprimée en surface hors œuvre nette du bâtiment.
+Exprimée en surface de plancher du bâtiment.
 
 |
 
