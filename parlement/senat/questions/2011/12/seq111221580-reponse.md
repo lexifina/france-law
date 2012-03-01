@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111221580
+
+- Question : [SEQ111221580](seq111221580.md) — Plan de prévention des risques d'inondation
+
+## Réponse
+
+*Écologie, JO du 2012-03-01, page 579*
+
+En application des articles L. 562-1 à 9 et R. 562-1 à 12 du code de l'environnement, l'objectif du plan de prévention des risques naturels (PPRN) est de maîtriser l'urbanisation dans les zones à risques et de réduire la vulnérabilité des personnes et des constructions existantes. La délimitation du zonage réglementaire d'un PPRN est également fondée sur les principes définis, notamment par les circulaires interministérielles du 24 janvier 1994 et du 24 avril 1996 relatives à la prévention des inondations : interdiction de toute nouvelle construction dans les zones inondables soumises aux aléas les plus forts ; contrôle strict de l'extension de l'urbanisation dans les zones d'expansion de crues ; adaptations possibles pour la gestion des constructions existantes dans les centres urbains. Il convient tout d'abord de souligner que la réalisation d'un lotissement n'est donc pas possible dans la zone inconstructible (dite « rouge ») d'un PPRN. La fonction d'un bassin de rétention consiste à ne pas aggraver les risques d'inondation en aval. Le choix du lieu d'implantation du bassin de rétention lié à la construction d'un lotissement doit être fondé sur la pertinence de son positionnement au regard de considérations hydrauliques (cohérence amont-aval, efficacité du dispositif vis-à-vis du lotissement, respect de la transparence hydraulique), selon les dispositions contenues dans le règlement du PPRN. En effet, le règlement de la zone inconstructible du PPRN doit préciser la possibilité de construire d'éventuels équipements, tels qu'un bassin de rétention. Il est également nécessaire de prévoir dans le règlement du PPRN les dispositions garantissant la pérennité de l'entretien du bassin de rétention par son gestionnaire.
