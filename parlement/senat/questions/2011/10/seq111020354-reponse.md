@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111020354
+
+- Question : [SEQ111020354](seq111020354.md) — Institution d'une « redevance service et bien-être » à taux modulable pour les navires en escale dans les ports français
+
+## Réponse
+
+*Écologie, JO du 2012-03-01, page 576*
+
+La France, en ratifiant la Convention n° 163 de l'Organisation internationale du travail (OIT) sur le bien-être des gens de mer, a instauré des commissions portuaires de bien-être des gens de mer dans une quinzaine de ports métropolitains et d'outre-mer. Ceux-ci ont pour finalité de faciliter l'accès aux moyens et services de bien-être à tout marin, quels que soient sa nationalité et l'État du pavillon du navire. Ces commissions se réunissent régulièrement et les rapports financiers transmis chaque année au Conseil supérieur du bien-être des gens de mer ne traduisent pas de difficultés majeures sur le plan financier. Par ailleurs, certains consignataires de navires acceptent de verser une participation financière au titre du bien-être des gens de mer dans les ports. Un état des lieux précis de la situation de chaque port au regard de l'accueil des marins débarqués est en cours, sous la coordination de la direction des affaires maritimes, suite à la demande du Conseil supérieur de bien-être des gens de mer réuni le 29 juin 2011. Enfin, la France, soucieuse du respect de son engagement international et attachée à la qualité de l'accueil des marins étrangers dans nos ports, octroie à l'Association de gestion des institutions sociales maritimes (AGISM) une subvention globale destinée à couvrir ces obligations. Dans ces conditions, la proposition d'instaurer une redevance obligatoire des armements au titre du bien-être des gens de mer n'est pas envisagée. Elle signifierait une augmentation du coût du passage portuaire, contraire aux efforts engagés par l'ensemble des acteurs en faveur de la compétitivité des ports français.
