@@ -31,3 +31,7 @@ Dans les services de la navigation aérienne, les fonctions de responsable explo
 Les services et entités en charge de la gestion de proximité des ressources humaines de la direction générale de l'aviation civile.
 
 Les unités du service national d'ingénierie aéroportuaire concernées par la réorganisation du ministère de la défense.
+
+Les détachements civils de coordination (DCC).
+
+La délégation de Mayotte.
