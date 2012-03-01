@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120121824
+
+- Question : [SEQ120121824](seq120121824.md) — Retrait de permis de construire
+
+## Réponse
+
+*Écologie, JO du 2012-03-01, page 575*
+
+Lorsqu'une décision de retrait d'un permis de construire est annulée, faute d'avoir procédé aux formalités imposées par la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations, le permis initial est rétabli à compter de la lecture de la décision juridictionnelle prononçant cette annulation. En effet, un arrêt du Conseil d'État, n° 296493, en date du 6 avril 2007, stipule que lorsqu'un permis de construire, ayant fait l'objet de formalités de publicité requises, est retiré dans le délai de recours contentieux et que ce retrait est annulé, le permis initial est rétabli à compter de la lecture de la décision juridictionnelle prononçant cette annulation. Il précise, en outre, que le délai de recours contentieux à l'encontre d'un permis ainsi rétabli court à nouveau à l'égard des tiers à compter du premier jour d'affichage sur le terrain. Cet arrêt relatif à la réouverture du recours des tiers, ne permet pas au maire de retirer à nouveau l'acte, dans la mesure où il a déjà pu exercer son droit de retrait, ni de porter le litige devant le tribunal administratif afin de faire annuler le permis de construire, mais il peut demander au préfet de déférer la décision. La faculté ouverte aux tiers de contester la légalité d'un permis de construire postérieurement à l'annulation juridictionnelle de l'acte qui en a prononcé le retrait, a pour objet de permettre au justiciable d'accéder à un procès qui lui était auparavant fermé du fait de la disparition rétroactive du permis de construire lui faisant grief, compte tenu de ce que les actes de retrait de permis de construire ne sont pas eux-mêmes susceptibles de recours pour les tiers au dit permis.
