@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120121855
+
+- Question : [SEQ120121855](seq120121855.md) — Situation démocratique en Hongrie
+
+## Réponse
+
+*Affaires étrangères, JO du 2012-03-01, page 572*
+
+La France est l'un des premiers pays en Europe à s'être publiquement inquiété de la situation actuelle en Hongrie, considérant que certaines mesures mises en œuvre le 1er janvier 2012 pouvaient représenter un danger pour les principes et les valeurs que partagent les Etats membres de l'Union européenne. La France a appelé la Commission européenne à vérifier la conformité de la nouvelle Loi fondamentale hongroise, ainsi que celle de ses lois cardinales, au droit européen. Un examen juridique détaillé, effectué par la Commission, lui a permis d'engager des procédures d'infraction accélérées en adressant à la Hongrie trois lettres de mise en demeure enjoignant à ce pays à modifier des dispositions concernant l'indépendance de la Banque centrale hongroise, l'indépendance de la magistrature et l'indépendance de l'autorité nationale de la protection des données. Le Premier ministre Orban a indiqué avoir marqué, lors de son entretien avec le président de la Commission européenne le 24 janvier, sa disposition à modifier la législation en cause. Les autorités françaises ont eu plusieurs fois l'occasion de rappeler avec fermeté aux autorités hongroises la nécessité pour elles de se conformer aux injonctions de la Commission, comme ce fut notamment le cas au cours des entretiens que MM. Juppé et Leonetti ont eus avec leurs homologues hongrois MM. Martonyi et Nemeth, respectivement les 24 et 18 janvier. L'éventuel recours à une procédure au titre de l'article 7 du TUE, dépendra notamment de la suite réservée aux injonctions de la Commission par les autorités hongroises : celles-ci ont jusqu'au 17 février pour mettre leur législation en conformité avec le droit de l'Union européenne en vertu des lettres de mises en demeure de la Commission européenne.
