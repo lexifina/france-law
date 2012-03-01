@@ -78,7 +78,7 @@ Expert en gestion du spectre.
 
 |
 
-Institut Télécom
+Institut Mines-Télécom
 
 |
 
