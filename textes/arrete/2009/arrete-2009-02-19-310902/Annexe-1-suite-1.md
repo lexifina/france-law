@@ -346,7 +346,7 @@ Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, ni
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1.
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1.
 
 |
 
@@ -358,7 +358,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2.
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2.
 
 |
 
@@ -370,7 +370,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3.
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3.
 
 |
 
@@ -382,7 +382,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4.
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4.
 
 |
 
@@ -394,7 +394,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1.
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1.
 
 |
 
@@ -406,7 +406,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2.
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2.
 
 |
 
@@ -418,7 +418,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3.
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3.
 
 |
 
@@ -430,7 +430,7 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4.
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4.
 
 |
 
@@ -770,6 +770,18 @@ Ostéotomies de la face, niveau 4.
 
 |
 
+712
+
+|
+
+03C19J
+
+|
+
+Ostéotomies de la face, en ambulatoire.
+
+|
+
 687
 
 |
@@ -887,18 +899,6 @@ Interventions pour oreilles décollées, niveau 4.
 |
 
 Interventions pour oreilles décollées, en ambulatoire.
-
-|
-
-697
-
-|
-
-03C22J
-
-|
-
-Interventions sur les amygdales et les végétations adénoïdes, en ambulatoire.
 
 |
 
@@ -1055,6 +1055,30 @@ Autres interventions sur la tête et le cou, niveau 3.
 |
 
 Autres interventions sur la tête et le cou, niveau 4.
+
+|
+
+713
+
+|
+
+03C27J
+
+|
+
+Interventions sur les amygdales, en ambulatoire.
+
+|
+
+714
+
+|
+
+03C28J
+
+|
+
+Interventions sur les végétations adénoïdes, en ambulatoire.
 
 |
 

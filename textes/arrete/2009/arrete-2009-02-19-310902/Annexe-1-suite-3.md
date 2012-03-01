@@ -2,6 +2,54 @@
 
 LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 
+2202
+
+|
+
+06M211
+
+|
+
+Autres affections digestives concernant majoritairement la petite enfance, niveau 1.
+
+|
+
+2203
+
+|
+
+06M212
+
+|
+
+Autres affections digestives concernant majoritairement la petite enfance, niveau 2.
+
+|
+
+2204
+
+|
+
+06M213
+
+|
+
+Autres affections digestives concernant majoritairement la petite enfance, niveau 3.
+
+|
+
+2205
+
+|
+
+06M214
+
+|
+
+Autres affections digestives concernant majoritairement la petite enfance, niveau 4.
+
+|
+
 2319
 
 |
@@ -431,6 +479,18 @@ Cholécystectomies sans exploration de la voie biliaire principale à l'exceptio
 |
 
 Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, niveau 4.
+
+|
+
+2355
+
+|
+
+07C14J
+
+|
+
+Cholécystectomies sans exploration de la voie biliaire principale à l'exception des affections aiguës, en ambulatoire.
 
 |
 
@@ -1006,7 +1066,7 @@ Suivis de greffe de foie et de pancréas, niveau 4.
 
 |
 
-Explorations et surveillance des affections du système hépato-biliaire et du pancréas.
+Explorations et surveillance des affections du système hépatobiliaire et du pancréas.
 
 |
 
@@ -1094,6 +1154,54 @@ Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrho
 
 |
 
+2566
+
+|
+
+07M161
+
+|
+
+Ictères du nouveau-né, niveau 1.
+
+|
+
+2567
+
+|
+
+07M162
+
+|
+
+Ictères du nouveau-né, niveau 2.
+
+|
+
+2568
+
+|
+
+07M163
+
+|
+
+Ictères du nouveau-né, niveau 3.
+
+|
+
+2569
+
+|
+
+07M164
+
+|
+
+Ictères du nouveau-né, niveau 4.
+
+|
+
 2743
 
 |
@@ -1102,7 +1210,7 @@ Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrho
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 1.
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 1.
 
 |
 
@@ -1114,7 +1222,7 @@ Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 1.
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 2.
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 2.
 
 |
 
@@ -1126,7 +1234,7 @@ Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 2.
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 3.
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 3.
 
 |
 
@@ -1138,7 +1246,7 @@ Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 3.
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 4.
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 4.
 
 |
 
@@ -1198,7 +1306,7 @@ Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 4.
 
 |
 
-Amputations pour affections de l'appareil musculo-squelettique et du tissu conjonctif, niveau 1.
+Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 1.
 
 |
 
@@ -1210,7 +1318,7 @@ Amputations pour affections de l'appareil musculo-squelettique et du tissu conjo
 
 |
 
-Amputations pour affections de l'appareil musculo-squelettique et du tissu conjonctif, niveau 2.
+Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 2.
 
 |
 
@@ -1222,7 +1330,7 @@ Amputations pour affections de l'appareil musculo-squelettique et du tissu conjo
 
 |
 
-Amputations pour affections de l'appareil musculo-squelettique et du tissu conjonctif, niveau 3.
+Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 3.
 
 |
 
@@ -1234,7 +1342,7 @@ Amputations pour affections de l'appareil musculo-squelettique et du tissu conjo
 
 |
 
-Amputations pour affections de l'appareil musculo-squelettique et du tissu conjonctif, niveau 4.
+Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 4.
 
 |
 
@@ -1306,7 +1414,7 @@ Biopsies ostéoarticulaires, en ambulatoire.
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 1.
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 1.
 
 |
 
@@ -1318,7 +1426,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 2.
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 2.
 
 |
 
@@ -1330,7 +1438,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 3.
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 3.
 
 |
 
@@ -1342,7 +1450,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 4.
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 4.
 
 |
 
@@ -1354,7 +1462,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, en ambulatoire.
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, en ambulatoire.
 
 |
 
@@ -1366,7 +1474,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 1.
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 1.
 
 |
 
@@ -1378,7 +1486,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 2.
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 2.
 
 |
 
@@ -1390,7 +1498,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 3.
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 3.
 
 |
 
@@ -1402,7 +1510,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 4.
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 4.
 
 |
 
@@ -1414,7 +1522,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, en ambulatoire.
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, en ambulatoire.
 
 |
 
@@ -1426,7 +1534,7 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 1.
+Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 1.
 
 |
 
@@ -1438,7 +1546,7 @@ Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conj
 
 |
 
-Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 2.
+Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 2.
 
 |
 
@@ -1450,7 +1558,7 @@ Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conj
 
 |
 
-Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 3.
+Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 3.
 
 |
 
@@ -1462,7 +1570,7 @@ Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conj
 
 |
 
-Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 4.
+Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 4.
 
 |
 
@@ -1474,7 +1582,7 @@ Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conj
 
 |
 
-Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conjonctif, en ambulatoire.
+Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, en ambulatoire.
 
 |
 
@@ -1486,7 +1594,7 @@ Greffes de peau pour maladie de l'appareil musculo-squelettique ou du tissu conj
 
 |
 
-Autres interventions portant sur l'appareil musculo-squelettique et le tissu conjonctif, niveau 1.
+Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 1.
 
 |
 
@@ -1498,7 +1606,7 @@ Autres interventions portant sur l'appareil musculo-squelettique et le tissu con
 
 |
 
-Autres interventions portant sur l'appareil musculo-squelettique et le tissu conjonctif, niveau 2.
+Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 2.
 
 |
 
@@ -1510,7 +1618,7 @@ Autres interventions portant sur l'appareil musculo-squelettique et le tissu con
 
 |
 
-Autres interventions portant sur l'appareil musculo-squelettique et le tissu conjonctif, niveau 3.
+Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 3.
 
 |
 
@@ -1522,7 +1630,7 @@ Autres interventions portant sur l'appareil musculo-squelettique et le tissu con
 
 |
 
-Autres interventions portant sur l'appareil musculo-squelettique et le tissu conjonctif, niveau 4.
+Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 4.
 
 |
 
@@ -1534,7 +1642,7 @@ Autres interventions portant sur l'appareil musculo-squelettique et le tissu con
 
 |
 
-Autres interventions portant sur l'appareil musculo-squelettique et le tissu conjonctif, en ambulatoire.
+Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, en ambulatoire.
 
 |
 
@@ -1738,7 +1846,7 @@ Autres interventions sur le rachis, niveau 4.
 
 |
 
-Interventions maxillo-faciales, niveau 1.
+Interventions maxillofaciales, niveau 1.
 
 |
 
@@ -1750,7 +1858,7 @@ Interventions maxillo-faciales, niveau 1.
 
 |
 
-Interventions maxillo-faciales, niveau 2.
+Interventions maxillofaciales, niveau 2.
 
 |
 
@@ -1762,7 +1870,7 @@ Interventions maxillo-faciales, niveau 2.
 
 |
 
-Interventions maxillo-faciales, niveau 3.
+Interventions maxillofaciales, niveau 3.
 
 |
 
@@ -1774,7 +1882,19 @@ Interventions maxillo-faciales, niveau 3.
 
 |
 
-Interventions maxillo-faciales, niveau 4.
+Interventions maxillofaciales, niveau 4.
+
+|
+
+2927
+
+|
+
+08C28J
+
+|
+
+Interventions maxillofaciales, en ambulatoire.
 
 |
 
@@ -3222,8 +3342,6 @@ Interventions pour infections ostéoarticulaires, niveau 1.
 
 |
 
-|
-
 Interventions pour infections ostéoarticulaires, niveau 1.
 
 |
@@ -3241,8 +3359,6 @@ Interventions pour infections ostéoarticulaires, niveau 2.
 |
 
 2923
-
-|
 
 |
 
@@ -3266,8 +3382,6 @@ Interventions pour infections ostéoarticulaires, niveau 3.
 
 |
 
-|
-
 Interventions pour infections ostéoarticulaires, niveau 3.
 
 |
@@ -3276,7 +3390,7 @@ Interventions pour infections ostéoarticulaires, niveau 3.
 
 |
 
-08C5641
+08C564
 
 |
 
@@ -3285,8 +3399,6 @@ Interventions pour infections ostéoarticulaires, niveau 4.
 |
 
 2925
-
-|
 
 |
 
@@ -3302,7 +3414,7 @@ Interventions pour infections ostéoarticulaires, niveau 4.
 
 |
 
-Affections de l'appareil musculo-squelettique sans acte opératoire de la CMD 08, avec anesthésie, en ambulatoire.
+Affections de l'appareil musculosquelettique sans acte opératoire de la CMD 08, avec anesthésie, en ambulatoire.
 
 |
 
@@ -3950,7 +4062,7 @@ Tendinites, myosites et bursites, très courte durée.
 
 |
 
-Suites de traitement après une affection de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 1.
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 1.
 
 |
 
@@ -3962,7 +4074,7 @@ Suites de traitement après une affection de l'appareil musculo-squelettique ou 
 
 |
 
-Suites de traitement après une affection de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 2.
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 2.
 
 |
 
@@ -3974,7 +4086,7 @@ Suites de traitement après une affection de l'appareil musculo-squelettique ou 
 
 |
 
-Suites de traitement après une affection de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 3.
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 3.
 
 |
 
@@ -3986,7 +4098,7 @@ Suites de traitement après une affection de l'appareil musculo-squelettique ou 
 
 |
 
-Suites de traitement après une affection de l'appareil musculo-squelettique ou du tissu conjonctif, niveau 4.
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 4.
 
 |
 
@@ -3998,7 +4110,7 @@ Suites de traitement après une affection de l'appareil musculo-squelettique ou 
 
 |
 
-Suites de traitement après une affection de l'appareil musculo-squelettique ou du tissu conjonctif, très courte durée.
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, très courte durée.
 
 |
 
@@ -4010,7 +4122,7 @@ Suites de traitement après une affection de l'appareil musculo-squelettique ou 
 
 |
 
-Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, niveau 1.
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 1.
 
 |
 
@@ -4022,7 +4134,7 @@ Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, ni
 
 |
 
-Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, niveau 2.
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 2.
 
 |
 
@@ -4034,7 +4146,7 @@ Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, ni
 
 |
 
-Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, niveau 3.
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 3.
 
 |
 
@@ -4046,7 +4158,7 @@ Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, ni
 
 |
 
-Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, niveau 4.
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 4.
 
 |
 
@@ -4058,7 +4170,7 @@ Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, ni
 
 |
 
-Autres pathologies de l'appareil musculo-squelettique et du tissu conjonctif, très courte durée.
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, très courte durée.
 
 |
 
@@ -4322,7 +4434,7 @@ Tumeurs malignes primitives des os, très courte durée.
 
 |
 
-Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelettique et du tissu conjonctif, niveau 1.
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 1.
 
 |
 
@@ -4334,7 +4446,7 @@ Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelet
 
 |
 
-Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelettique et du tissu conjonctif, niveau 2.
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 2.
 
 |
 
@@ -4346,7 +4458,7 @@ Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelet
 
 |
 
-Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelettique et du tissu conjonctif, niveau 3.
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 3.
 
 |
 
@@ -4358,7 +4470,7 @@ Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelet
 
 |
 
-Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelettique et du tissu conjonctif, niveau 4.
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 4.
 
 |
 
@@ -4370,7 +4482,7 @@ Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelet
 
 |
 
-Fractures pathologiques et autres tumeurs malignes de l'appareil musculo-squelettique et du tissu conjonctif, très courte durée.
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, très courte durée.
 
 |
 
@@ -4910,7 +5022,7 @@ Algoneurodystrophie, très courte durée.
 
 |
 
-Explorations et surveillance de l'appareil musculo-squelettique et du tissu conjonctif.
+Explorations et surveillance de l'appareil musculosquelettique et du tissu conjonctif.
 
 |
 

@@ -2,7 +2,9 @@
 
 LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 
-4922 |
+4922
+
+|
 
 13C031
 
@@ -93,6 +95,18 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 3.
 |
 
 Interventions réparatrices sur l'appareil génital féminin, niveau 4.
+
+|
+
+4988
+
+|
+
+13C04J
+
+|
+
+Interventions réparatrices sur l'appareil génital féminin, en ambulatoire.
 
 |
 
@@ -568,8 +582,6 @@ Dilatations et curetages, conisations pour affections non malignes, en ambulatoi
 
 |
 
-|
-
 Dilatations et curetages, conisations pour affections non malignes, en ambulatoire.
 
 |
@@ -735,6 +747,14 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 |
 
 13C16J
+
+|
+
+Prélèvements d'ovocytes, en ambulatoire.
+
+|
+
+4989
 
 |
 
@@ -1198,51 +1218,51 @@ Autres symptômes et recours aux soins de la CMD 13.
 
 |
 
-5306
+5314
 
 |
 
-14C02A
+14C03A
 
 |
 
-Césariennes, sans complication significative.
+Accouchements uniques par voie basse avec autres interventions, sans complication significative.
 
 |
 
-5307
+5315
 
 |
 
-14C02B
+14C03B
 
 |
 
-Césariennes, avec autres complications.
+Accouchements uniques par voie basse avec autres interventions, avec autres complications.
 
 |
 
-5308
+5316
 
 |
 
-14C02C
+14C03C
 
 |
 
-Césariennes, avec complications majeures.
+Accouchements uniques par voie basse avec autres interventions, avec complications majeures.
 
 |
 
-5309
+5317
 
 |
 
-14C03Z
+14C03D
 
 |
 
-Accouchements par voie basse avec autres interventions.
+Accouchements uniques par voie basse avec autres interventions, avec complications sévères.
 
 |
 
@@ -1294,6 +1314,222 @@ Avortements avec aspiration ou curetage ou hystérotomie.
 
 |
 
+5318
+
+|
+
+14C06A
+
+|
+
+Césariennes avec naissance d'un mort-né, sans complication significative.
+
+|
+
+5319
+
+|
+
+14C06B
+
+|
+
+Césariennes avec naissance d'un mort-né, avec autres complications.
+
+|
+
+5320
+
+|
+
+14C06C
+
+|
+
+Césariennes avec naissance d'un mort-né, avec complications majeures.
+
+|
+
+5321
+
+|
+
+14C06D
+
+|
+
+Césariennes avec naissance d'un mort-né, avec complications sévères.
+
+|
+
+5322
+
+|
+
+14C07A
+
+|
+
+Césariennes pour grossesse multiple, sans complication significative.
+
+|
+
+5323
+
+|
+
+14C07B
+
+|
+
+Césariennes pour grossesse multiple, avec autres complications.
+
+|
+
+5324
+
+|
+
+14C07C
+
+|
+
+Césariennes pour grossesse multiple, avec complications majeures.
+
+|
+
+5325
+
+|
+
+14C07D
+
+|
+
+Césariennes pour grossesse multiple, avec complications sévères.
+
+|
+
+5326
+
+|
+
+14C08A
+
+|
+
+Césariennes pour grossesse unique, sans complication significative.
+
+|
+
+5327
+
+|
+
+14C08B
+
+|
+
+Césariennes pour grossesse unique, avec autres complications.
+
+|
+
+5328
+
+|
+
+14C08C
+
+|
+
+Césariennes pour grossesse unique, avec complications majeures.
+
+|
+
+5329
+
+|
+
+14C08D
+
+|
+
+Césariennes pour grossesse unique, avec complications sévères.
+
+|
+
+5330
+
+|
+
+14C09A
+
+|
+
+Grossesses ectopiques avec intervention chirurgicale, sans complication significative.
+
+|
+
+5331
+
+|
+
+14C09B
+
+|
+
+Grossesses ectopiques avec intervention chirurgicale, avec complications.
+
+|
+
+5332
+
+|
+
+14C10T
+
+|
+
+Affections de l'ante-partum avec intervention chirurgicale, très courte durée.
+
+|
+
+5333
+
+|
+
+14C10Z
+
+|
+
+Affections de l'ante-partum avec intervention chirurgicale.
+
+|
+
+5475
+
+|
+
+14M02A
+
+|
+
+Affections médicales du post-partum ou du post-abortum, sans complication significative.
+
+|
+
+5476
+
+|
+
+14M02B
+
+|
+
+Affections médicales du post-partum ou du post-abortum, avec complications.
+
+|
+
 5460
 
 |
@@ -1306,99 +1542,63 @@ Affections médicales du post-partum ou du post-abortum, très courte durée.
 
 |
 
-5461
+5477
 
 |
 
-14M02Z
+14M03A
 
 |
 
-Affections médicales du post-partum ou du post-abortum.
+Affections de l'ante-partum sans intervention chirurgicale, sans complication significative.
 
 |
 
-5462
+5478
 
 |
 
-14Z02A
+14M03B
 
 |
 
-Accouchements par voie basse, sans complication significative.
+Affections de l'ante-partum sans intervention chirurgicale, avec autres complications.
 
 |
 
-5463
+5479
 
 |
 
-14Z02B
+14M03C
 
 |
 
-Accouchements par voie basse, avec autres complications.
+Affections de l'ante-partum sans intervention chirurgicale, avec complications majeures.
 
 |
 
-5464
+5480
 
 |
 
-14Z02C
+14M03D
 
 |
 
-Accouchements par voie basse, avec complications majeures.
+Affections de l'ante-partum sans intervention chirurgicale, avec complications sévères.
 
 |
 
-5465
+5481
 
 |
 
-14Z02T
+14M03T
 
 |
 
-Accouchements par voie basse, très courte durée.
-
-|
-
-5466
-
-|
-
-14Z03A
-
-|
-
-Affections de l'ante partum, avec ou sans intervention chirurgicale, sans complications.
-
-|
-
-5467
-
-|
-
-14Z03B
-
-|
-
-Affections de l'ante partum, avec ou sans intervention chirurgicale, avec complications.
-
-|
-
-5468
-
-|
-
-14Z03T
-
-|
-
-Affections de l'ante partum, avec ou sans intervention chirurgicale, très courte durée.
+Affections de l'ante-partum sans intervention chirurgicale, très courte durée.
 
 |
 
@@ -1426,18 +1626,6 @@ Avortements sans aspiration, ni curetage, ni hystérotomie.
 
 |
 
-5471
-
-|
-
-14Z05Z
-
-|
-
-Grossesses ectopiques.
-
-|
-
 5472
 
 |
@@ -1462,18 +1650,6 @@ Menaces d'avortement.
 
 |
 
-5474
-
-|
-
-14Z07Z
-
-|
-
-Faux travail.
-
-|
-
 9999
 
 |
@@ -1486,231 +1662,759 @@ Interruptions volontaires de grossesse : séjours de moins de 3 jours.
 
 |
 
-5818
+5482
 
 |
 
-15Z02T
+14Z09Z
 
 |
 
-Autres problèmes postnéonatals précoces, très courte durée.
+Accouchements hors de l'établissement.
 
 |
 
-5819
+5483
 
 |
 
-15Z02Z
+14Z10A
 
 |
 
-Autres problèmes postnéonatals précoces.
+Accouchements par voie basse avec naissance d'un mort-né, sans complication significative.
 
 |
 
-5820
+5484
 
 |
 
-15Z03Z
+14Z10B
 
 |
 
-Transferts précoces de nouveau-nés vers un autre établissement.
+Accouchements voie basse avec naissance d'un mort-né, avec complications.
 
 |
 
-5821
+5485
 
 |
 
-15Z04E
+14Z10T
 
 |
 
-Nouveau-nés de 1 500 g et plus, décédés.
+Accouchements par voie basse avec naissance d'un mort-né, très courte durée.
 
 |
 
-5822
+5486
 
 |
 
-15Z05A
+14Z11A
 
 |
 
-Nouveau-nés de 2 500 g et plus, sans problème significatif.
+Accouchements multiples par voie basse chez une primipare, sans complication significative.
 
 |
 
-5823
+5487
 
 |
 
-15Z05B
+14Z11B
 
 |
 
-Nouveau-nés de 2 500 g et plus, avec autre problème significatif.
+Accouchements multiples par voie basse chez une primipare, avec complications.
 
 |
 
-5824
+5488
 
 |
 
-15Z05C
+14Z12A
 
 |
 
-Nouveau-nés de 2 500 g et plus, avec problème sévère.
+Accouchements multiples par voie basse chez une multipare, sans complication significative.
 
 |
 
-5825
+5489
 
 |
 
-15Z05D
+14Z12B
 
 |
 
-Nouveau-nés de 2 500 g et plus, avec problème majeur.
+Accouchements multiples par voie basse chez une multipare, avec complications.
 
 |
 
-5826
+5490
 
 |
 
-15Z06A
+14Z13A
 
 |
 
-Nouveau-nés de 2 000 g à 2 499 g, sans problème significatif.
+Accouchements uniques par voie basse chez une primipare, sans complication significative.
 
 |
 
-5827
+5491
 
 |
 
-15Z06B
+14Z13B
 
 |
 
-Nouveau-nés de 2 000 g à 2 499 g, avec autre problème significatif.
+Accouchements uniques par voie basse chez une primipare, avec autres complications.
 
 |
 
-5828
+5492
 
 |
 
-15Z06C
+14Z13C
 
 |
 
-Nouveau-nés de 2 000 g à 2 499 g, avec problème sévère.
+Accouchements uniques par voie basse chez une primipare, avec complications majeures.
 
 |
 
-5829
+5493
 
 |
 
-15Z06D
+14Z13D
 
 |
 
-Nouveau-nés de 2 000 g à 2 499 g, avec problème majeur.
+Accouchements uniques par voie basse chez une primipare, avec complications sévères.
 
 |
 
-5830
+5494
 
 |
 
-15Z07A
+14Z13T
 
 |
 
-Nouveau-nés de 1 500 g à 1 999 g, sans problème significatif.
+Accouchements uniques par voie basse chez une primipare, très courte durée.
 
 |
 
-5831
+5495
 
 |
 
-15Z07B
+14Z14A
 
 |
 
-Nouveau-nés de 1 500 g à 1 999 g, avec autre problème significatif.
+Accouchements uniques par voie basse chez une multipare, sans complication significative.
 
 |
 
-5832
+5496
 
 |
 
-15Z07C
+14Z14B
 
 |
 
-Nouveau-nés de 1 500 g à 1 999 g, avec problème majeur ou sévère.
+Accouchements uniques par voie basse chez une multipare, avec autres complications.
 
 |
 
-5834
+5497
 
 |
 
-15Z08E
+14Z14C
 
 |
 
-Nouveau-nés de 1 000 g à 1 499 g, décédés.
+Accouchements uniques par voie basse chez une multipare, avec complications majeures.
 
 |
 
-5833
+5498
 
 |
 
-15Z08Z
+14Z14D
 
 |
 
-Nouveau-nés de 1 000 g à 1 499 g, sortis en vie.
+Accouchements uniques par voie basse chez une multipare, avec complications sévères.
 
 |
 
-5836
+5499
 
 |
 
-15Z09E
+14Z14T
 
 |
 
-Nouveau-nés de moins de 1 000 g, décédés.
+Accouchements uniques par voie basse chez une multipare, très courte durée.
 
 |
 
-5835
+5500
 
 |
 
-15Z09Z
+14Z15Z
 
 |
 
-Nouveau-nés de moins de 1 000 g, sortis en vie.
+Grossesses ectopiques sans intervention chirurgicale.
+
+|
+
+5501
+
+|
+
+14Z16T
+
+|
+
+Faux travail et menaces d'accouchements prématurés, très courte durée.
+
+|
+
+5502
+
+|
+
+14Z16Z
+
+|
+
+Faux travail et menaces d'accouchements prématurés.
+
+|
+
+5837
+
+|
+
+15C02A
+
+|
+
+Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, sans complication significative.
+
+|
+
+5932
+
+|
+
+15C02B
+
+|
+
+Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, avec complications.
+
+|
+
+5838
+
+|
+
+15C03A
+
+|
+
+Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, sans complication significative.
+
+|
+
+5933
+
+|
+
+15C03B
+
+|
+
+Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, avec complications.
+
+|
+
+5839
+
+|
+
+15C04A
+
+|
+
+Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, sans complication significative.
+
+|
+
+5934
+
+|
+
+15C04B
+
+|
+
+Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, avec complications.
+
+|
+
+5840
+
+|
+
+15C05A
+
+|
+
+Interventions chirurgicales, groupes nouveau-nés 8 à 9, sans complication significative.
+
+|
+
+5935
+
+|
+
+15C05B
+
+|
+
+Interventions chirurgicales, groupes nouveau-nés 8 à 9, avec complications.
+
+|
+
+5841
+
+|
+
+15C06A
+
+|
+
+Interventions chirurgicales, groupe nouveau-nés 10, sans complication significative.
+
+|
+
+5936
+
+|
+
+15C06B
+
+|
+
+Interventions chirurgicales, groupe nouveau-nés 10, avec complications.
+
+|
+
+5900
+
+|
+
+15M02Z
+
+|
+
+Transferts précoces de nouveau-nés vers un autre établissement MCO.
+
+|
+
+5901
+
+|
+
+15M03E
+
+|
+
+Décès précoces de nouveau-nés.
+
+|
+
+5902
+
+|
+
+15M04E
+
+|
+
+Décès tardifs de nouveau-nés.
+
+|
+
+5903
+
+|
+
+15M05A
+
+|
+
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), sans problème significatif.
+
+|
+
+5904
+
+|
+
+15M05B
+
+|
+
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec autre problème significatif.
+
+|
+
+5905
+
+|
+
+15M05C
+
+|
+
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème sévère.
+
+|
+
+5906
+
+|
+
+15M05D
+
+|
+
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème majeur.
+
+|
+
+5907
+
+|
+
+15M06A
+
+|
+
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), sans problème significatif.
+
+|
+
+5908
+
+|
+
+15M06B
+
+|
+
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec autre problème significatif.
+
+|
+
+5909
+
+|
+
+15M06C
+
+|
+
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème sévère.
+
+|
+
+5910
+
+|
+
+15M06D
+
+|
+
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème majeur.
+
+|
+
+5911
+
+|
+
+15M07A
+
+|
+
+Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), sans problème significatif.
+
+|
+
+5912
+
+|
+
+15M07B
+
+|
+
+Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec autre problème significatif.
+
+|
+
+5913
+
+|
+
+15M07C
+
+|
+
+Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec problème majeur ou sévère.
+
+|
+
+5914
+
+|
+
+15M08A
+
+|
+
+Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), sans problème significatif.
+
+|
+
+5915
+
+|
+
+15M08B
+
+|
+
+Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec autre problème significatif.
+
+|
+
+5916
+
+|
+
+15M08C
+
+|
+
+Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec problème majeur ou sévère.
+
+|
+
+5917
+
+|
+
+15M09A
+
+|
+
+Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), sans problème significatif.
+
+|
+
+5918
+
+|
+
+15M09B
+
+|
+
+Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec autre problème significatif.
+
+|
+
+5919
+
+|
+
+15M09C
+
+|
+
+Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec problème majeur ou sévère.
+
+|
+
+5920
+
+|
+
+15M10A
+
+|
+
+Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), sans problème significatif.
+
+|
+
+5921
+
+|
+
+15M10B
+
+|
+
+Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec autre problème significatif.
+
+|
+
+5922
+
+|
+
+15M10C
+
+|
+
+Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec problème majeur ou sévère.
+
+|
+
+5923
+
+|
+
+15M11A
+
+|
+
+Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), sans problème significatif.
+
+|
+
+5924
+
+|
+
+15M11B
+
+|
+
+Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec autre problème significatif.
+
+|
+
+5925
+
+|
+
+15M11C
+
+|
+
+Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec problème majeur ou sévère.
+
+|
+
+5926
+
+|
+
+15M12A
+
+|
+
+Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), sans problème significatif.
+
+|
+
+5927
+
+|
+
+15M12B
+
+|
+
+Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), avec problème significatif.
+
+|
+
+5928
+
+|
+
+15M13A
+
+|
+
+Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), sans problème significatif.
+
+|
+
+5929
+
+|
+
+15M13B
+
+|
+
+Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), avec problème significatif.
+
+|
+
+5930
+
+|
+
+15M14A
+
+|
+
+Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), sans problème significatif.
+
+|
+
+5931
+
+|
+
+15M14B
+
+|
+
+Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), avec problème significatif.
 
 |
 
@@ -2446,6 +3150,54 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, très 
 
 |
 
+6210
+
+|
+
+16M181
+
+|
+
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 1.
+
+|
+
+6211
+
+|
+
+16M182
+
+|
+
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 2.
+
+|
+
+6212
+
+|
+
+16M183
+
+|
+
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 3.
+
+|
+
+6213
+
+|
+
+16M184
+
+|
+
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 4.
+
+|
+
 6309
 
 |
@@ -2662,17 +3414,7 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-6525
-
-|
-
-|
-
-Autres irradiations, niveau 1.
-
-|
-
-6524
+6470
 
 |
 
@@ -2685,22 +3427,6 @@ Autres irradiations, niveau 1.
 |
 
 6523
-
-|
-
-|
-
-Autres irradiations, niveau 1.
-
-|
-
-6470
-
-|
-
-|
-
-Autres irradiations, niveau 1.
 
 |
 
@@ -3889,6 +4615,54 @@ Symptômes et autres recours aux soins de la CMD 18, très courte durée.
 |
 
 Symptômes et autres recours aux soins de la CMD 18.
+
+|
+
+6805
+
+|
+
+18M151
+
+|
+
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 1.
+
+|
+
+6806
+
+|
+
+18M152
+
+|
+
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 2.
+
+|
+
+6807
+
+|
+
+18M153
+
+|
+
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 3.
+
+|
+
+6808
+
+|
+
+18M154
+
+|
+
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 4.
 
 |
 

@@ -1,31 +1,51 @@
 # Article Annexe 9
 
-LISTE DES FORFAITS DE TRAITEMENT DE L'INSUFFISANCE RÉNALE CHRONIQUE EN CENTRE FACTURABLES PAR LES ÉTABLISSEMENTS DE SANTÉ MENTIONNÉS AUX D ET E DE L'ARTICLE L. 162-22-6 DU CODE DE LA SECURITE SOCIALE
+LISTE DES FORFAITS DE TRAITEMENT DE L'INSUFFISANCE RÉNALE CHRONIQUE EN CENTRE FACTURABLES PAR LES ÉTABLISSEMENTS DE SANTÉ MENTIONNÉS AU D DE L'ARTICLE 162-22-6 DU CODE DE LA SÉCURITÉ SOCIALE
 
-CODE |
+CODE
 
-FORFAIT |
+|
 
-D09 |
+FORFAIT
 
-Forfait d'hémodialyse en centre. |
+|
 
-D10 |
+D09
 
-Forfait d'hémodialyse en centre pour enfant. |
+|
 
-D11 |
+Forfait d'hémodialyse en centre
 
-Forfait d'hémodialyse en unité de dialyse médicalisée. |
+|
 
-D17 |
+D10
 
-Forfait d'entraînement à l'hémodialyse à domicile et à l'autodialyse. |
+|
 
-D18 |
+Forfait d'hémodialyse en centre pour enfant
 
-Forfait d'entraînement à la dialyse péritonéale automatisée. |
+|
 
-D19 |
+D17
 
-Forfait d'entraînement à la dialyse péritonéale continue ambulatoire. |
+|
+
+Forfait d'entraînement à l'hémodialyse à domicile et à l'autodialyse
+
+|
+
+D18
+
+|
+
+Forfait d'entraînement à la dialyse péritonéale automatisée
+
+|
+
+D19
+
+|
+
+Forfait d'entraînement à la dialyse péritonéale continue ambulatoire
+
+|

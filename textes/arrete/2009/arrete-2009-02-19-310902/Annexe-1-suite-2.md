@@ -2,13 +2,51 @@
 
 LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 
-1524
+1241
 
 |
 
-05C021 |
+04M271
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 1.
+|
+
+Autres affections respiratoires concernant majoritairement la petite enfance, niveau 1.
+
+|
+
+1242
+
+|
+
+04M272
+
+|
+
+Autres affections respiratoires concernant majoritairement la petite enfance, niveau 2.
+
+|
+
+1243
+
+|
+
+04M273
+
+|
+
+Autres affections respiratoires concernant majoritairement la petite enfance, niveau 3.
+
+|
+
+1244
+
+|
+
+04M274
+
+|
+
+Autres affections respiratoires concernant majoritairement la petite enfance, niveau 4.
 
 |
 
@@ -16,89 +54,85 @@ Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec ca
 
 |
 
+05C021
+
+|
+
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 1.
+
+|
+
+1524
+
 |
 
 Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 1. |
-
-1525
-
-|
-
-05C022 |
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2. |
 
 1431
 
 |
 
-|
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2.
+05C022
 
 |
 
-1526
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2. |
+
+1525
 
 |
 
-05C023 |
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3.
-
-|
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 2. |
 
 1432
 
 |
 
-|
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3.
+05C023
 
 |
 
-1527
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3. |
+
+1526
 
 |
 
-05C024 |
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4.
-
-|
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 3. |
 
 1433
 
 |
 
-|
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4.
+05C024
 
 |
 
-1528
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4. |
+
+1527
 
 |
 
-05C031 |
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 1.
-
-|
+Chirurgie de remplacement valvulaire avec circulation extracorporelle et avec cathétérisme cardiaque ou coronarographie, niveau 4. |
 
 1434
 
 |
 
-|
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 1.
+05C031
 
 |
 
-1529
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 1. |
+
+1528
+
+|
+
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 1. |
+
+1435
 
 |
 
@@ -108,57 +142,41 @@ Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cath
 
 Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 2. |
 
-1435
+1529
 
 |
 
-|
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 2.
-
-|
-
-1530
-
-|
-
-05C033 |
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 3.
-
-|
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 2. |
 
 1436
 
 |
 
-|
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 3.
+05C033
 
 |
 
-1531
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 3. |
+
+1530
 
 |
 
-05C034
-
-|
-
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 4.
-
-|
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 3. |
 
 1437
 
 |
 
+05C034 |
+
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 4. |
+
+1531
+
 |
 
-Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 4.
-
-|
+Chirurgie de remplacement valvulaire avec circulation extracorporelle, sans cathétérisme cardiaque, ni coronarographie, niveau 4. |
 
 1438
 
@@ -264,19 +282,13 @@ Pontages aortocoronariens sans cathétérisme cardiaque, ni coronarographie, niv
 
 |
 
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1.
-
-|
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1. |
 
 1518
 
 |
 
-|
-
-Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1.
-
-|
+Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 1. |
 
 1447
 
@@ -291,8 +303,6 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 |
 
 1519
-
-|
 
 |
 
@@ -316,8 +326,6 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-|
-
 Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle, niveau 3.
 
 |
@@ -335,8 +343,6 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 |
 
 1521
-
-|
 
 |
 
@@ -408,8 +414,6 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-|
-
 Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 1.
 
 |
@@ -427,8 +431,6 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 |
 
 1522
-
-|
 
 |
 
@@ -452,8 +454,6 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 
 |
 
-|
-
 Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle, niveau 3.
 
 |
@@ -471,8 +471,6 @@ Autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires 
 |
 
 1522
-
-|
 
 |
 
@@ -744,11 +742,23 @@ Amputations pour troubles circulatoires portant sur le membre supérieur ou les 
 
 |
 
+1532
+
+|
+
+05C13J
+
+|
+
+Amputations pour troubles circulatoires portant sur le membre supérieur ou les orteils, en ambulatoire.
+
+|
+
 1479
 
 |
 
-05C041
+05C141
 
 |
 
@@ -757,8 +767,6 @@ Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou in
 |
 
 1522
-
-|
 
 |
 
@@ -782,8 +790,6 @@ Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou in
 
 |
 
-|
-
 Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 2.
 
 |
@@ -801,8 +807,6 @@ Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou in
 |
 
 1522
-
-|
 
 |
 
@@ -826,21 +830,7 @@ Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou in
 
 |
 
-|
-
 Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, niveau 4.
-
-|
-
-1483
-
-|
-
-05C14J
-
-|
-
-Poses d'un stimulateur cardiaque permanent avec infarctus aigu du myocarde ou insuffisance cardiaque congestive ou état de choc, en ambulatoire.
 
 |
 
@@ -857,8 +847,6 @@ Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni i
 |
 
 1522
-
-|
 
 |
 
@@ -882,8 +870,6 @@ Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni i
 
 |
 
-|
-
 Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 2.
 
 |
@@ -904,8 +890,6 @@ Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni i
 
 |
 
-|
-
 Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni insuffisance cardiaque congestive, ni état de choc, niveau 3.
 
 |
@@ -923,8 +907,6 @@ Poses d'un stimulateur cardiaque permanent sans infarctus aigu du myocarde, ni i
 |
 
 1522
-
-|
 
 |
 
@@ -1508,7 +1490,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge inférieur �
 
 |
 
-1716
+1522
 
 |
 
@@ -1520,9 +1502,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-1522
-
-|
+1716
 
 |
 
@@ -1530,7 +1510,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-1717
+1522
 
 |
 
@@ -1542,9 +1522,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-1522
-
-|
+1717
 
 |
 
@@ -1552,7 +1530,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-1718
+1522
 
 |
 
@@ -1564,9 +1542,7 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-1522
-
-|
+1718
 
 |
 
@@ -1574,17 +1550,19 @@ Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur �
 
 |
 
-1719
-
-|
-
-05K134 |
-
-Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 4. |
-
 1522
 
 |
+
+05K134
+
+|
+
+Actes thérapeutiques par voie vasculaire sauf endoprothèses, âge supérieur à 17 ans, niveau 4.
+
+|
+
+1719
 
 |
 
@@ -2804,54 +2782,6 @@ Symptômes et autres recours aux soins de la CMD 05.
 
 |
 
-1931
-
-|
-
-06C021
-
-|
-
-Chirurgie majeure des malformations digestives, niveau 1.
-
-|
-
-1932
-
-|
-
-06C022
-
-|
-
-Chirurgie majeure des malformations digestives, niveau 2.
-
-|
-
-1933
-
-|
-
-06C023
-
-|
-
-Chirurgie majeure des malformations digestives, niveau 3.
-
-|
-
-1934
-
-|
-
-06C024
-
-|
-
-Chirurgie majeure des malformations digestives, niveau 4.
-
-|
-
 1935
 
 |
@@ -3540,8 +3470,6 @@ Hémorroïdectomies, niveau 1.
 
 |
 
-|
-
 Hémorroïdectomies, niveau 1.
 
 |
@@ -3586,15 +3514,15 @@ Hémorroïdectomies, niveau 4.
 
 |
 
-06C19J |
+06C19J
+
+|
 
 Hémorroïdectomies, en ambulatoire.
 
 |
 
 2013
-
-|
 
 |
 
@@ -4354,7 +4282,7 @@ Autres affections digestives, âge supérieur à 17 ans, très courte durée.
 
 |
 
-Ulcères gastro-duodénaux compliqués, niveau 1.
+Ulcères gastroduodénaux compliqués, niveau 1.
 
 |
 
@@ -4366,7 +4294,7 @@ Ulcères gastro-duodénaux compliqués, niveau 1.
 
 |
 
-Ulcères gastro-duodénaux compliqués, niveau 2.
+Ulcères gastroduodénaux compliqués, niveau 2.
 
 |
 
@@ -4378,7 +4306,7 @@ Ulcères gastro-duodénaux compliqués, niveau 2.
 
 |
 
-Ulcères gastro-duodénaux compliqués, niveau 3.
+Ulcères gastroduodénaux compliqués, niveau 3.
 
 |
 
@@ -4390,7 +4318,7 @@ Ulcères gastro-duodénaux compliqués, niveau 3.
 
 |
 
-Ulcères gastro-duodénaux compliqués, niveau 4.
+Ulcères gastroduodénaux compliqués, niveau 4.
 
 |
 
@@ -4402,7 +4330,7 @@ Ulcères gastro-duodénaux compliqués, niveau 4.
 
 |
 
-Ulcères gastro-duodénaux non compliqués, niveau 1.
+Ulcères gastroduodénaux non compliqués, niveau 1.
 
 |
 
@@ -4414,7 +4342,7 @@ Ulcères gastro-duodénaux non compliqués, niveau 1.
 
 |
 
-Ulcères gastro-duodénaux non compliqués, niveau 2.
+Ulcères gastroduodénaux non compliqués, niveau 2.
 
 |
 
@@ -4426,7 +4354,7 @@ Ulcères gastro-duodénaux non compliqués, niveau 2.
 
 |
 
-Ulcères gastro-duodénaux non compliqués, niveau 3.
+Ulcères gastroduodénaux non compliqués, niveau 3.
 
 |
 
@@ -4438,7 +4366,7 @@ Ulcères gastro-duodénaux non compliqués, niveau 3.
 
 |
 
-Ulcères gastro-duodénaux non compliqués, niveau 4.
+Ulcères gastroduodénaux non compliqués, niveau 4.
 
 |
 
@@ -4450,7 +4378,7 @@ Ulcères gastro-duodénaux non compliqués, niveau 4.
 
 |
 
-Ulcères gastro-duodénaux non compliqués, très courte durée.
+Ulcères gastroduodénaux non compliqués, très courte durée.
 
 |
 

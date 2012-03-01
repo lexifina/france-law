@@ -1,8 +1,8 @@
 # Article Annexe 8 liste 1
 
-Liste 1 : diagnostics et actes associés autorisant la facturation
+Liste 1 : diagnostics et actes associés
 
-d'un supplément de surveillance continue
+autorisant la facturation d'un supplément de surveillance continue
 
 CODE CIM-10
 
@@ -104,7 +104,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -154,8 +154,6 @@ Diabète sucré non insulinodépendant non insulinotraité ou sans précision, a
 
 |
 
-.
-
 |
 
 E11. 10
@@ -179,8 +177,6 @@ Diabète sucré non insulinodépendant non insulinotraité ou sans précision, a
 |
 
 |
-
-.
 
 |
 
@@ -320,7 +316,7 @@ E83. 51
 
 |
 
-Hypocalcémie inférieure à 1,5 millimole [mmol] par litre
+Hypocalcémie inférieure à 1,5 millimoles [mmol] par litre
 
 |
 
@@ -400,11 +396,131 @@ Troubles mentaux et du comportement liés à l'utilisation d'alcool : syndrome d
 
 |
 
+F10. 40
+
+|
+
+Syndrome de sevrage de l'alcool avec délirium, sans convulsion
+
+|
+
+|
+
+|
+
+F10. 41
+
+|
+
+Syndrome de sevrage de l'alcool avec délirium, avec convulsions
+
+|
+
+|
+
+|
+
 F11. 0
 
 |
 
 Troubles mentaux et du comportement liés à l'utilisation d'opiacés : intoxication aiguë
+
+|
+
+|
+
+|
+
+F11. 00
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par les opiacés, sans complication
+
+|
+
+|
+
+|
+
+F11. 01
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par les opiacés, avec traumatismes ou autres blessures physiques
+
+|
+
+|
+
+|
+
+F11. 02
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par les opiacés, avec d'autres complications médicales
+
+|
+
+|
+
+|
+
+F11. 03
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par les opiacés, avec délirium
+
+|
+
+|
+
+|
+
+F11. 04
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par les opiacés, avec distorsion des perceptions
+
+|
+
+|
+
+|
+
+F11. 05
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par les opiacés, avec coma
+
+|
+
+|
+
+|
+
+F11. 06
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par les opiacés, avec convulsions
+
+|
+
+|
+
+|
+
+F11. 07
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë pathologique par les opiacés
 
 |
 
@@ -788,7 +904,7 @@ I21. 00
 
 |
 
-Infarctus (transmural aigu) du myocarde (de la paroi) antérieure, prise en charge initiale
+Infarctus (transmural aigu) du myocarde (de la paroi antérieure), prise en charge initiale
 
 |
 
@@ -1296,11 +1412,11 @@ Insuffisance ventriculaire gauche
 
 |
 
-GLLD. 003
+GLLD003
 
 |
 
-Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous Positive Airway Pressure] [CPAP], par 24 heures.
+Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures
 
 |
 
@@ -1312,11 +1428,11 @@ Insuffisance ventriculaire gauche
 
 |
 
-GLLD. 017
+GLLD017
 
 |
 
-Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures.
+Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures
 
 |
 
@@ -1344,7 +1460,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -1360,7 +1476,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -1384,11 +1500,11 @@ Bronchite et pneumopathie dues à des agents chimiques, des émanations, des fum
 
 |
 
-GELD. 005
+GELD005
 
 |
 
-Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures.
+Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures
 
 |
 
@@ -1404,7 +1520,7 @@ GGJB001
 
 |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage.
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -1420,7 +1536,7 @@ GGJB001
 
 |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage.
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -1436,7 +1552,7 @@ GGJB001
 
 |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage.
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -1452,7 +1568,7 @@ GGJB001
 
 |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage.
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -1468,7 +1584,7 @@ GGJB001
 
 |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage.
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -1484,7 +1600,7 @@ GGJB001
 
 |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage.
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -1496,27 +1612,11 @@ Insuffisance respiratoire aiguë
 
 |
 
-GLLD. 003
+GLLD003
 
 |
 
-Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous Positive Airway Pressure] [CPAP], par 24 heures.
-
-|
-
-J96. 0
-
-|
-
-Insuffisance respiratoire aiguë
-
-|
-
-GLLD. 015
-
-|
-
-Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60 %, par 24 heures.
+Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures
 
 |
 
@@ -1528,11 +1628,27 @@ Insuffisance respiratoire aiguë
 
 |
 
-GLLD. 017
+GLLD015
 
 |
 
-Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures.
+Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60 %, par 24 heures
+
+|
+
+J96. 0
+
+|
+
+Insuffisance respiratoire aiguë
+
+|
+
+GLLD017
+
+|
+
+Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures
 
 |
 
@@ -1548,7 +1664,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -1564,7 +1680,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -1580,7 +1696,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -1596,7 +1712,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -1612,7 +1728,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -1628,7 +1744,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -1644,7 +1760,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1660,7 +1776,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1676,7 +1792,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1692,7 +1808,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1708,7 +1824,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1724,7 +1840,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1740,7 +1856,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1756,7 +1872,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1772,7 +1888,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1788,7 +1904,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1804,7 +1920,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1820,7 +1936,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1836,7 +1952,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1852,7 +1968,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1868,7 +1984,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1884,7 +2000,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1900,7 +2016,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1916,7 +2032,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1932,7 +2048,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1948,7 +2064,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1964,7 +2080,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1980,7 +2096,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -1996,7 +2112,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2012,7 +2128,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2028,7 +2144,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2044,7 +2160,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2060,7 +2176,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2076,7 +2192,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2092,7 +2208,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2108,7 +2224,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2124,7 +2240,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2140,7 +2256,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2156,7 +2272,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -2244,7 +2360,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -2252,7 +2368,7 @@ K92. 1
 
 |
 
-Melæna
+Mélæna
 
 |
 
@@ -2260,7 +2376,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -2276,7 +2392,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -2309,6 +2425,126 @@ M72. 6
 |
 
 Fasciite nécrosante
+
+|
+
+|
+
+|
+
+M72. 60
+
+|
+
+Fasciite nécrosante - Sièges multiples
+
+|
+
+|
+
+|
+
+M72. 61
+
+|
+
+Fasciite nécrosante - Région scapulaire
+
+|
+
+|
+
+|
+
+M72. 62
+
+|
+
+Fasciite nécrosante - Bras
+
+|
+
+|
+
+|
+
+M72. 63
+
+|
+
+Fasciite nécrosante - Avant-bras
+
+|
+
+|
+
+|
+
+M72. 64
+
+|
+
+Fasciite nécrosante - Main
+
+|
+
+|
+
+|
+
+M72. 65
+
+|
+
+Fasciite nécrosante - Région pelvienne et cuisse
+
+|
+
+|
+
+|
+
+M72. 66
+
+|
+
+Fasciite nécrosante - Jambe
+
+|
+
+|
+
+|
+
+M72. 67
+
+|
+
+Fasciite nécrosante - Cheville et pied
+
+|
+
+|
+
+|
+
+M72. 68
+
+|
+
+Fasciite nécrosante - Autres localisations
+
+|
+
+|
+
+|
+
+M72. 69
+
+|
+
+Fasciite nécrosante - Siège non précisé
 
 |
 
@@ -2424,7 +2660,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -2440,7 +2676,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -2456,7 +2692,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine.
+Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
 
 |
 
@@ -2484,7 +2720,7 @@ EQLF001
 
 |
 
-Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 µgrammes par kilogramme par minute [µg/kg/min], ou de dopexamine en dehors de la période néonatale, par 24 heures.
+Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 microgrammes par kilogramme par minute [µg/kg/min], ou de dopexamine en dehors de la période néonatale, par 24 heures
 
 |
 
@@ -2500,7 +2736,7 @@ ENLF001
 
 |
 
-Pose de dispositif intraartériel de surveillance de la pression intraartérielle.
+Pose de dispositif intra-artériel de surveillance de la pression intra-artérielle
 
 |
 
@@ -2516,7 +2752,7 @@ EPLF002
 
 |
 
-Pose d'un cathéter veineux central, par voie transcutanée.
+Pose d'un cathéter veineux central, par voie transcutanée
 
 |
 
@@ -2532,7 +2768,7 @@ EQLF002
 
 |
 
-Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte.
+Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte
 
 |
 
@@ -2560,7 +2796,7 @@ EQLF001
 
 |
 
-Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 µgrammes par kilogramme par minute [µg/kg/min], ou de dopexamine en dehors de la période néonatale, par 24 heures.
+Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 microgrammes par kilogramme par minute [µg/kg/min], ou de dopexamine en dehors de la période néonatale, par 24 heures
 
 |
 
@@ -2768,7 +3004,7 @@ AFLB007
 
 |
 
-Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage.
+Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage
 
 |
 
@@ -2784,7 +3020,7 @@ AFLB017
 
 |
 
-Administration péridurale [épidurale] d'agent pharmacologique au long cours.
+Administration péridurale [épidurale] d'agent pharmacologique au long cours
 
 |
 
@@ -2800,7 +3036,7 @@ GGJB001
 
 |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage.
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -2816,7 +3052,7 @@ AFLB007
 
 |
 
-Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage.
+Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage
 
 |
 
@@ -2832,7 +3068,7 @@ AFLB017
 
 |
 
-Administration péridurale [épidurale] d'agent pharmacologique au long cours.
+Administration péridurale [épidurale] d'agent pharmacologique au long cours
 
 |
 
@@ -2848,7 +3084,7 @@ GGJB001
 
 |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage.
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -2864,7 +3100,7 @@ AFLB007
 
 |
 
-Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage.
+Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage
 
 |
 
@@ -2880,7 +3116,7 @@ AFLB017
 
 |
 
-Administration péridurale [épidurale] d'agent pharmacologique au long cours.
+Administration péridurale [épidurale] d'agent pharmacologique au long cours
 
 |
 
@@ -2896,7 +3132,7 @@ GGJB001
 
 |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage.
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -2912,7 +3148,7 @@ AFLB007
 
 |
 
-Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage.
+Injection thérapeutique péridurale [épidurale] d'agent pharmacologique, sans guidage
 
 |
 
@@ -2928,7 +3164,7 @@ AFLB017
 
 |
 
-Administration péridurale [épidurale] d'agent pharmacologique au long cours.
+Administration péridurale [épidurale] d'agent pharmacologique au long cours
 
 |
 
@@ -2944,7 +3180,7 @@ GGJB001
 
 |
 
-Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage.
+Drainage d'un épanchement de la cavité pleurale, par voie transcutanée sans guidage
 
 |
 
@@ -3052,11 +3288,11 @@ Brûlure du second degré de la tête et du cou
 
 |
 
-GELD. 005
+GELD005
 
 |
 
-Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures.
+Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures
 
 |
 
@@ -3068,11 +3304,11 @@ Brûlure du troisième degré de la tête et du cou
 
 |
 
-GELD. 005
+GELD005
 
 |
 
-Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures.
+Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures
 
 |
 
@@ -3084,11 +3320,11 @@ Corrosion du second degré de la tête et du cou
 
 |
 
-GELD. 005
+GELD005
 
 |
 
-Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures.
+Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures
 
 |
 
@@ -3100,11 +3336,11 @@ Corrosion du troisième degré de la tête et du cou
 
 |
 
-GELD. 005
+GELD005
 
 |
 
-Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures.
+Nébulisation d'agent thérapeutique à destination bronchique [aérosol] avec surveillance de la saturation en oxygène par mesure transcutanée [SpO2] et surveillance de la fréquence cardiaque, pendant au moins 2 heures
 
 |
 
@@ -3148,7 +3384,7 @@ T31. 1
 
 |
 
-Brûlures couvrant entre 10 % et moins de 20 % de la surface du corps
+Brûlures couvrant entre 10 et moins de 20 % de la surface du corps
 
 |
 
@@ -3156,7 +3392,7 @@ EQLF002
 
 |
 
-Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte.
+Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte
 
 |
 
@@ -3164,15 +3400,15 @@ T31. 1
 
 |
 
-Brûlures couvrant entre 10 % et moins de 20 % de la surface du corps
+Brûlures couvrant entre 10 et moins de 20 % de la surface du corps
 
 |
 
-HSLD 002
+HSLD002
 
 |
 
-Alimentation entérale par sonde avec apport > 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale par sonde avec apport > 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -3180,7 +3416,7 @@ T31. 2
 
 |
 
-Brûlures couvrant entre 20 % et moins de 30 % de la surface du corps
+Brûlures couvrant entre 20 et moins de 30 % de la surface du corps
 
 |
 
@@ -3200,7 +3436,7 @@ EQLF002
 
 |
 
-Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte.
+Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte
 
 |
 
@@ -3212,11 +3448,11 @@ Corrosions couvrant entre 10 % et moins de 20 % de la surface du corps
 
 |
 
-HSLD 002
+HSLD002
 
 |
 
-Alimentation entérale par sonde avec apport > 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures.
+Alimentation entérale par sonde avec apport > 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
@@ -3304,7 +3540,7 @@ DEQP007
 
 |
 
-Surveillance continue de l'électrocardiogramme par oscilloscopie et/ou télésurveillance, avec surveillance continue de la pression intraartérielle et/ou de la saturation artérielle en oxygène par méthodes non effractives, par 24 heures.
+Surveillance continue de l'électrocardiogramme par oscilloscopie et/ ou télésurveillance, avec surveillance continue de la pression intra-artérielle et/ ou de la saturation artérielle en oxygène par méthodes non effractives, par 24 heures
 
 |
 

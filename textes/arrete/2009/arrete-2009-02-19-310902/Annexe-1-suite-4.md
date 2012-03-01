@@ -530,7 +530,7 @@ Autres interventions sur la peau, les tissus sous-cutanés ou les seins, en ambu
 
 |
 
-3362
+3358
 
 |
 
@@ -542,9 +542,7 @@ Reconstructions des seins, niveau 1.
 
 |
 
-3358
-
-|
+3362
 
 |
 
@@ -552,7 +550,7 @@ Reconstructions des seins, niveau 1.
 
 |
 
-3363
+3359
 
 |
 
@@ -564,9 +562,7 @@ Reconstructions des seins, niveau 2.
 
 |
 
-3359
-
-|
+3363
 
 |
 
@@ -574,7 +570,7 @@ Reconstructions des seins, niveau 2.
 
 |
 
-3364
+3360
 
 |
 
@@ -586,9 +582,7 @@ Reconstructions des seins, niveau 3.
 
 |
 
-3360
-
-|
+3364
 
 |
 
@@ -596,7 +590,7 @@ Reconstructions des seins, niveau 3.
 
 |
 
-3365
+3361
 
 |
 
@@ -608,9 +602,7 @@ Reconstructions des seins, niveau 4.
 
 |
 
-3361
-
-|
+3365
 
 |
 
@@ -2550,6 +2542,102 @@ Troubles nutritionnels divers, âge supérieur à 17 ans, très courte durée.
 
 |
 
+3974
+
+|
+
+10M191
+
+|
+
+Autres affections de la CMD 10 concernant majoritairement la petite enfance, niveau 1.
+
+|
+
+3975
+
+|
+
+10M192
+
+|
+
+Autres affections de la CMD 10 concernant majoritairement la petite enfance, niveau 2.
+
+|
+
+3976
+
+|
+
+10M193
+
+|
+
+Autres affections de la CMD 10 concernant majoritairement la petite enfance, niveau 3.
+
+|
+
+3977
+
+|
+
+10M194
+
+|
+
+Autres affections de la CMD 10 concernant majoritairement la petite enfance, niveau 4.
+
+|
+
+3978
+
+|
+
+10M201
+
+|
+
+Problèmes alimentaires du nouveau-né et du nourrisson, niveau 1.
+
+|
+
+3979
+
+|
+
+10M202
+
+|
+
+Problèmes alimentaires du nouveau-né et du nourrisson, niveau 2.
+
+|
+
+3980
+
+|
+
+10M203
+
+|
+
+Problèmes alimentaires du nouveau-né et du nourrisson, niveau 3.
+
+|
+
+3981
+
+|
+
+10M204
+
+|
+
+Problèmes alimentaires du nouveau-né et du nourrisson, niveau 4.
+
+|
+
 4112
 
 |
@@ -2610,11 +2698,27 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
+4149
+
+|
+
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 1.
+
+|
+
 4117
 
 |
 
 11C032
+
+|
+
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 2.
+
+|
+
+4150
 
 |
 
@@ -2634,11 +2738,27 @@ Interventions sur les reins et les uretères et chirurgie majeure de la vessie p
 
 |
 
+4151
+
+|
+
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 3.
+
+|
+
 4119
 
 |
 
 11C034
+
+|
+
+Interventions sur les reins et les uretères et chirurgie majeure de la vessie pour une affection non tumorale, niveau 4.
+
+|
+
+4152
 
 |
 
@@ -3858,6 +3978,54 @@ Autres symptômes et recours aux soins de la CMD 11.
 
 |
 
+4345
+
+|
+
+11M201
+
+|
+
+Autres affections uronéphrologiques concernant majoritairement la petite enfance, niveau 1.
+
+|
+
+4346
+
+|
+
+11M202
+
+|
+
+Autres affections uronéphrologiques concernant majoritairement la petite enfance, niveau 2.
+
+|
+
+4347
+
+|
+
+11M203
+
+|
+
+Autres affections uronéphrologiques concernant majoritairement la petite enfance, niveau 3.
+
+|
+
+4348
+
+|
+
+11M204
+
+|
+
+Autres affections uronéphrologiques concernant majoritairement la petite enfance, niveau 4.
+
+|
+
 4513
 
 |
@@ -3934,8 +4102,6 @@ Prostatectomies transurétrales, niveau 1.
 
 |
 
-|
-
 Prostatectomies transurétrales, niveau 1.
 
 |
@@ -3973,6 +4139,18 @@ Prostatectomies transurétrales, niveau 3.
 |
 
 Prostatectomies transurétrales, niveau 4.
+
+|
+
+4562
+
+|
+
+12C04J
+
+|
+
+Prostatectomies transurétrales, en ambulatoire.
 
 |
 

@@ -1,75 +1,141 @@
 # Article Annexe 5
 
-LISTE 1 : ACTES PERMETTANT LA FACTURATION D'UNE SÉANCE DE DIALYSE EN HOSPITALISATION EN SUS D'UN GHS
+Liste 1 : actes permettant la facturation d'une séance de dialyse en hospitalisation en sus d'un GHS
 
-EN CLASSIFICATION CCAM |
+CODE
 
-Code |
+|
 
-Libellé |
+LIBELLÉ DE L'ACTE CCAM
 
-JVJF003 |
+|
 
-Séance d'épuration extrarénale par hémoperfusion. |
+JVJF003
 
-JVJF004 |
+|
 
-Séance d'épuration extrarénale par hémodialyse pour insuffisance rénale chronique. |
+Séance d'épuration extrarénale par hémoperfusion
 
-JVJF008 |
+|
 
-Séance d'épuration extrarénale par hémodiafiltration, hémofiltration ou biofiltration sans acétate pour insuffisance rénale chronique. |
+JVJF004
 
-JVRP007 |
+|
 
-Séance d'entraînement à la dialyse péritonéale automatisée. |
+Séance d'épuration extrarénale par hémodialyse pour insuffisance rénale chronique
 
-JVRP008 |
+|
 
-Séance d'entraînement à la dialyse péritonéale continue ambulatoire. |
+JVJF008
 
-JVRP004 |
+|
 
-Séance d'entraînement à l'hémodialyse. |
+Séance d'épuration extrarénale par hémodiafiltration, hémofiltration ou biofiltration sans acétate pour insuffisance rénale chronique
 
-LISTE 2 : LISTE DES GHS EXCLUANT LE PAIEMENT DES ACTES DE DIALYSE EN SUS
+|
 
-GHM |
+JVRP007
 
-INTITULÉ DES GHM |
+|
 
-GHS |
+Séance d'entraînement à la dialyse péritonéale automatisée
 
-28Z01Z |
+|
 
-Entraînements à la dialyse péritonéale automatisée, en séances |
+JVRP008
 
-9602 |
+|
 
-28Z02Z |
+Séance d'entraînement à la dialyse péritonéale continue ambulatoire
 
-Entraînements à la dialyse péritonéale continue ambulatoire, en séances |
+|
 
-9603 |
+JVRP004
 
-28Z03Z |
+|
 
-Entraînements à l'hémodialyse, en séances |
+Séance d'entraînement à l'hémodialyse
 
-9604 |
+|
 
-28Z04Z |
+Liste 2 : liste des GHS excluant le paiement des actes de dialyse en sus
 
-Hémodialyse, en séances |
+GHM
+
+|
+
+LIBELLÉ DU GHM
+
+|
+
+GHS
+
+|
+
+28Z01Z
+
+|
+
+Entraînements à la dialyse péritonéale automatisée, en séances
+
+|
+
+9602
+
+|
+
+28Z02Z
+
+|
+
+Entraînements à la dialyse péritonéale continue ambulatoire, en séances
+
+|
+
+9603
+
+|
+
+28Z03Z
+
+|
+
+Entraînements à l'hémodialyse, en séances
+
+|
+
+9604
+
+|
+
+28Z04Z
+
+|
+
+Hémodialyse, en séances
+
+|
 
 9605
 
+|
+
+|
+
+|
+
 9617
 
-9618 |
+|
 
-11K02J |
+11K02J
 
-Insuffisance rénale, avec dialyse, en ambulatoire |
+|
 
-4277 |
+Insuffisance rénale, avec dialyse, en ambulatoire
+
+|
+
+4277
+
+|

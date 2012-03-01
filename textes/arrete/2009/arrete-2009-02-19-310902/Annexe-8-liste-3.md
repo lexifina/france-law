@@ -348,7 +348,7 @@ E66. 21
 
 |
 
-Obésité extrême avec hypoventilation alvéolaire, avec indice de masse corporelle égal ou supérieur à 40 kg/ m ² et inférieur à 50 kg/ m ²
+Obésité extrême avec hypoventilation alvéolaire, avec indice de masse corporelle égal ou supérieur à 40 kg/ m ² et inférieur à 50 kg/m²
 
 |
 
@@ -360,7 +360,7 @@ E66. 22
 
 |
 
-Obésité extrême avec hypoventilation alvéolaire, avec indice de masse corporelle égal ou supérieur à 50 kg/ m ²
+Obésité extrême avec hypoventilation alvéolaire, avec indice de masse corporelle égal ou supérieur à 50 kg/m²
 
 |
 
@@ -416,7 +416,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -449,6 +449,102 @@ F10. 0
 |
 
 Troubles mentaux et du comportement liés à l'utilisation d'alcool : intoxication aiguë
+
+|
+
+|
+
+|
+
+F10. 00
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par l'alcool, sans complication
+
+|
+
+|
+
+|
+
+F10. 01
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par l'alcool, avec traumatismes ou autres blessures physiques
+
+|
+
+|
+
+|
+
+F10. 02
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par l'alcool, avec d'autres complications médicales
+
+|
+
+|
+
+|
+
+F10. 03
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par l'alcool, avec délirium
+
+|
+
+|
+
+|
+
+F10. 04
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par l'alcool, avec distorsion des perceptions
+
+|
+
+|
+
+|
+
+F10. 05
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par l'alcool, avec coma
+
+|
+
+|
+
+|
+
+F10. 06
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë par l'alcool, avec convulsions
+
+|
+
+|
+
+|
+
+F10. 07
+
+|
+
+Troubles mentaux et du comportement dus à une intoxication aiguë pathologique par l'alcool
 
 |
 
@@ -524,11 +620,11 @@ Encéphalopathie, sans précision
 
 |
 
-HSLD 002
+HSLD002
 
 |
 
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -628,7 +724,7 @@ GEQE004
 
 |
 
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique.
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
 
 |
 
@@ -704,7 +800,7 @@ GEQE004
 
 |
 
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique.
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
 
 |
 
@@ -720,7 +816,7 @@ GEQE004
 
 |
 
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique.
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
 
 |
 
@@ -736,7 +832,7 @@ GEQE004
 
 |
 
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique.
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
 
 |
 
@@ -808,11 +904,11 @@ Insuffisance respiratoire aiguë
 
 |
 
-GLLD 019
+GLLD019
 
 |
 
-Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aiguë.
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aiguë
 
 |
 
@@ -836,11 +932,11 @@ Achalasie du cardia
 
 |
 
-HSLD 002
+HSLD002
 
 |
 
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -852,11 +948,11 @@ Dyskinésie de l'œsophage
 
 |
 
-HSLD 002
+HSLD002
 
 |
 
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -896,7 +992,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -912,7 +1008,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -928,7 +1024,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -944,7 +1040,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1068,7 +1164,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1084,7 +1180,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1100,7 +1196,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1140,11 +1236,11 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
-L03. 2
+03.2
 
 |
 
@@ -1156,7 +1252,7 @@ Phlegmon de la face
 
 |
 
-L51. 1
+51.1
 
 |
 
@@ -1208,7 +1304,7 @@ Q39. 1
 
 |
 
-Atrésie de l'oesophage avec fistule trachéo-oesophagienne
+Atrésie de l'œsophage avec fistule trachéo-œsophagienne
 
 |
 
@@ -1228,7 +1324,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1244,7 +1340,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1272,7 +1368,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures.
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1284,15 +1380,15 @@ Epistaxis
 
 |
 
-GABD 001
+GABD001
 
 |
 
-Tamponnement nasal antérieur et postérieur.
+Tamponnement nasal antérieur et postérieur
 
 |
 
-R04. 0
+R. 04.0
 
 |
 
@@ -1304,11 +1400,11 @@ GASE002
 
 |
 
-Hémostase intranasale par injection unilatérale ou bilatérale transmuqueuse d'agent pharmacologique, par endoscopie.
+Hémostase intranasale par injection unilatérale ou bilatérale transmuqueuse d'agent pharmacologique, par endoscopie
 
 |
 
-R04. 0
+R. 04.0
 
 |
 
@@ -1320,11 +1416,11 @@ GASE001
 
 |
 
-Hémostase intranasale par cautérisation ou électrocoagulation, par endoscopie.
+Hémostase intranasale par cautérisation ou électrocoagulation, par endoscopie
 
 |
 
-R04. 2
+R. 04.2
 
 |
 
@@ -1336,7 +1432,7 @@ Hémoptysie
 
 |
 
-R09. 2
+R. 09.2
 
 |
 
@@ -1348,7 +1444,7 @@ Arrêt respiratoire
 
 |
 
-R10. 0
+R. 10.0
 
 |
 
@@ -1360,7 +1456,7 @@ Syndrome abdominal aigu
 
 |
 
-R40. 1
+R. 40.1
 
 |
 
@@ -1372,7 +1468,7 @@ Stupeur
 
 |
 
-R52. 1
+R. 52.1
 
 |
 
@@ -1384,7 +1480,7 @@ Douleur chronique irréductible
 
 |
 
-R55
+R. 55
 
 |
 
@@ -1396,7 +1492,7 @@ Syncope et collapsus (sauf choc)
 
 |
 
-R56. 0
+R. 56.0
 
 |
 
@@ -1408,7 +1504,7 @@ Convulsions fébriles
 
 |
 
-R56. 8
+R. 56.8
 
 |
 
@@ -1420,7 +1516,7 @@ Convulsions, autres et non précisées
 
 |
 
-R57. 1
+R. 57.1
 
 |
 
@@ -1432,7 +1528,7 @@ Choc hypovolémique
 
 |
 
-R57. 8
+R. 57.8
 
 |
 
@@ -1444,7 +1540,7 @@ Autres chocs
 
 |
 
-R65. 2
+R. 65.2
 
 |
 
@@ -1456,7 +1552,7 @@ Syndrome de réponse inflammatoire systémique d'origine non infectieuse sans d�
 
 |
 
-R65. 9
+R. 65.9
 
 |
 
@@ -1485,6 +1581,18 @@ S02. 10
 |
 
 Fracture fermée de la base du crâne
+
+|
+
+|
+
+|
+
+S02. 11
+
+|
+
+Fracture ouverte de la base du crâne
 
 |
 
@@ -2104,11 +2212,83 @@ Dépendance envers un respirateur
 
 |
 
+Z99. 1 + 0
+
+|
+
+Dépendance envers un respirateur : ventilation par trachéostomie
+
+|
+
+|
+
+|
+
+Z99. 1 + 1
+
+|
+
+Dépendance envers un respirateur : ventilation par masque nasal
+
+|
+
+|
+
+|
+
+Z99. 1 + 8
+
+|
+
+Dépendance envers un respirateur : ventilation par un autre moyen
+
+|
+
+|
+
+|
+
 Z99. 2
 
 |
 
 Dépendance envers une dialyse rénale
+
+|
+
+|
+
+|
+
+Z99. 2 + 0
+
+|
+
+Dépendance envers une hémodialyse (rénale)
+
+|
+
+|
+
+|
+
+Z99. 2 + 1
+
+|
+
+Dépendance envers une dialyse péritonéale
+
+|
+
+|
+
+|
+
+Z99. 2 + 8
+
+|
+
+Dépendance envers une dialyse rénale, autre
 
 |
 

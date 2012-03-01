@@ -18,8 +18,6 @@ Toxicomanies non éthyliques avec dépendance, niveau 1.
 
 |
 
-|
-
 Toxicomanies non éthyliques avec dépendance, niveau 1.
 
 |
@@ -37,8 +35,6 @@ Toxicomanies non éthyliques avec dépendance, niveau 2.
 |
 
 7286
-
-|
 
 |
 
@@ -62,8 +58,6 @@ Toxicomanies non éthyliques avec dépendance, niveau 3.
 
 |
 
-|
-
 Toxicomanies non éthyliques avec dépendance, niveau 3.
 
 |
@@ -81,8 +75,6 @@ Toxicomanies non éthyliques avec dépendance, niveau 4.
 |
 
 7288
-
-|
 
 |
 
@@ -166,8 +158,6 @@ Ethylisme avec dépendance, niveau 1.
 
 |
 
-|
-
 Ethylisme avec dépendance, niveau 1.
 
 |
@@ -188,8 +178,6 @@ Ethylisme avec dépendance, niveau 2.
 
 |
 
-|
-
 Ethylisme avec dépendance, niveau 2.
 
 |
@@ -202,13 +190,9 @@ Ethylisme avec dépendance, niveau 2.
 
 |
 
-Ethylisme avec dépendance, niveau 3.
-
-|
+Ethylisme avec dépendance, niveau 3. |
 
 7283
-
-|
 
 |
 
@@ -229,8 +213,6 @@ Ethylisme avec dépendance, niveau 4.
 |
 
 7284
-
-|
 
 |
 
@@ -463,6 +445,18 @@ Parages de plaies pour lésions autres que des brûlures, niveau 3.
 |
 
 Parages de plaies pour lésions autres que des brûlures, niveau 4.
+
+|
+
+7425
+
+|
+
+21C03J
+
+|
+
+Parages de plaies pour lésions autres que des brûlures, en ambulatoire.
 
 |
 
@@ -706,6 +700,18 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau
 
 |
 
+7619
+
+|
+
+21M04T
+
+|
+
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, très courte durée.
+
+|
+
 7572
 
 |
@@ -751,6 +757,18 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau
 |
 
 Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 4.
+
+|
+
+7620
+
+|
+
+21M05T
+
+|
+
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, très courte durée.
 
 |
 
@@ -1303,6 +1321,18 @@ Brûlures non étendues avec greffe cutanée, niveau 3.
 |
 
 Brûlures non étendues avec greffe cutanée, niveau 4.
+
+|
+
+7810
+
+|
+
+22C02J
+
+|
+
+Brûlures non étendues avec greffe cutanée, en ambulatoire.
 
 |
 
@@ -1882,6 +1912,18 @@ Actes non effectués en raison d'une contre-indication.
 
 |
 
+7996
+
+|
+
+23M16T
+
+|
+
+Convalescences et autres motifs sociaux, très courte durée.
+
+|
+
 7986
 
 |
@@ -1970,8 +2012,6 @@ Soins palliatifs, avec ou sans acte.
 
 |
 
-|
-
 Soins palliatifs, avec ou sans acte.
 
 |
@@ -1979,6 +2019,8 @@ Soins palliatifs, avec ou sans acte.
 7994
 
 |
+
+23Z02Z
 
 |
 
@@ -2362,8 +2404,6 @@ Transplantations pulmonaires, niveau 1.
 
 |
 
-|
-
 Transplantations pulmonaires, niveau 1.
 
 |
@@ -2381,8 +2421,6 @@ Transplantations pulmonaires, niveau 2.
 |
 
 8931
-
-|
 
 |
 
@@ -2406,8 +2444,6 @@ Transplantations pulmonaires, niveau 3.
 
 |
 
-|
-
 Transplantations pulmonaires, niveau 3.
 
 |
@@ -2425,8 +2461,6 @@ Transplantations pulmonaires, niveau 4.
 |
 
 8933
-
-|
 
 |
 
@@ -2450,8 +2484,6 @@ Transplantations cardiaques, niveau 1.
 
 |
 
-|
-
 Transplantations cardiaques, niveau 1.
 
 |
@@ -2469,8 +2501,6 @@ Transplantations cardiaques, niveau 2.
 |
 
 8935
-
-|
 
 |
 
@@ -2494,8 +2524,6 @@ Transplantations cardiaques, niveau 3.
 
 |
 
-|
-
 Transplantations cardiaques, niveau 3.
 
 |
@@ -2513,8 +2541,6 @@ Transplantations cardiaques, niveau 4.
 |
 
 8937
-
-|
 
 |
 
@@ -2730,16 +2756,6 @@ Entraînements à l'hémodialyse, en séances.
 
 |
 
-|
-
-Hémodialyse, en séances.
-
-|
-
-9618
-
-|
-
 28Z04Z
 
 |
@@ -2749,8 +2765,6 @@ Hémodialyse, en séances.
 |
 
 9617
-
-|
 
 |
 
@@ -2786,26 +2800,6 @@ Curiethérapie, en séances.
 
 |
 
-|
-
-Techniques spéciales d'irradiation externe, en séances.
-
-|
-
-9621
-
-|
-
-|
-
-Techniques spéciales d'irradiation externe, en séances.
-
-|
-
-9620
-
-|
-
 28Z11Z
 
 |
@@ -2818,15 +2812,27 @@ Techniques spéciales d'irradiation externe, en séances.
 
 |
 
+Techniques spéciales d'irradiation externe, en séances.
+
+|
+
+9620
+
 |
 
 Techniques spéciales d'irradiation externe, en séances.
 
 |
 
-9624
+9621
 
 |
+
+Techniques spéciales d'irradiation externe, en séances.
+
+|
+
+9623
 
 |
 
@@ -2898,8 +2904,6 @@ Radiothérapie conformationnelle avec modulation d'intensité, en séances.
 
 |
 
-|
-
 Radiothérapie conformationnelle avec modulation d'intensité, en séances.
 
 |
@@ -2917,8 +2921,6 @@ Préparations à une irradiation externe par RCMI ou techniques spéciales.
 |
 
 9627
-
-|
 
 |
 
@@ -2994,6 +2996,6 @@ Techniques complexes d'irradiation externe sans repositionnement, en séances.
 
 |
 
-Autres techniques d'irradiation externe, en séances.
+Autres techniques d'irradiation externe, en séances
 
 |

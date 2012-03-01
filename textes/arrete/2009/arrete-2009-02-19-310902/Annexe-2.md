@@ -10,6 +10,14 @@ FORFAIT
 
 |
 
+D11
+
+|
+
+Forfait d'hémodialyse en unité de dialyse médicalisée
+
+|
+
 D12
 
 |

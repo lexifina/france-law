@@ -72,13 +72,9 @@ Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 4.
 
 |
 
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1
-
-|
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1. |
 
 65
-
-|
 
 |
 
@@ -90,17 +86,11 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1.
 
 |
 
-01C042
+01C042 |
 
-|
-
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2
-
-|
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2. |
 
 66
-
-|
 
 |
 
@@ -116,13 +106,9 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2.
 
 |
 
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3
-
-|
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3. |
 
 67
-
-|
 
 |
 
@@ -136,13 +122,9 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3.
 
 01C044 |
 
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4
-
-|
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4. |
 
 68
-
-|
 
 |
 
@@ -402,6 +384,18 @@ Pose d'un stimulateur médullaire, niveau 4.
 
 |
 
+73
+
+|
+
+01C10J
+
+|
+
+Pose d'un stimulateur médullaire, en ambulatoire.
+
+|
+
 51
 
 |
@@ -456,13 +450,9 @@ Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 4.
 
 01C121 |
 
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1.
-
-|
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1. |
 
 69
-
-|
 
 |
 
@@ -478,13 +468,9 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1.
 
 |
 
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2.
-
-|
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2. |
 
 70
-
-|
 
 |
 
@@ -496,13 +482,13 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2.
 
 |
 
-01C123 |
+01C123
+
+|
 
 Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3. |
 
 71
-
-|
 
 |
 
@@ -516,13 +502,9 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3.
 
 01C124 |
 
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4.
-
-|
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4. |
 
 72
-
-|
 
 |
 
@@ -2402,6 +2384,102 @@ Autres affections de la CMD 01 avec décès : séjours de moins de 2 jours.
 
 |
 
+340
+
+|
+
+01M381
+
+|
+
+Autres affections neurologiques concernant majoritairement la petite enfance, niveau 1.
+
+|
+
+341
+
+|
+
+01M382
+
+|
+
+Autres affections neurologiques concernant majoritairement la petite enfance, niveau 2.
+
+|
+
+342
+
+|
+
+01M383
+
+|
+
+Autres affections neurologiques concernant majoritairement la petite enfance, niveau 3.
+
+|
+
+343
+
+|
+
+01M384
+
+|
+
+Autres affections neurologiques concernant majoritairement la petite enfance, niveau 4.
+
+|
+
+344
+
+|
+
+01M391
+
+|
+
+Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 1.
+
+|
+
+345
+
+|
+
+01M392
+
+|
+
+Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 2.
+
+|
+
+346
+
+|
+
+01M393
+
+|
+
+Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 3.
+
+|
+
+347
+
+|
+
+01M394
+
+|
+
+Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 4.
+
+|
+
 410
 
 |
@@ -2762,35 +2840,19 @@ Autres interventions extraoculaires, âge supérieur à 17 ans, en ambulatoire.
 
 |
 
-460
-
-|
-
-02C091
-
-|
-
-Allogreffes de cornée, niveau 1.
-
-|
-
 440
 
 |
 
+02C091 |
+
+Allogreffes de cornée, niveau 1. |
+
+460
+
 |
 
 Allogreffes de cornée, niveau 1.
-
-|
-
-461
-
-|
-
-02C092 |
-
-Allogreffes de cornée, niveau 2.
 
 |
 
@@ -2798,13 +2860,19 @@ Allogreffes de cornée, niveau 2.
 
 |
 
+02C092 |
+
+Allogreffes de cornée, niveau 2. |
+
+461
+
 |
 
 Allogreffes de cornée, niveau 2.
 
 |
 
-462
+442
 
 |
 
@@ -2814,9 +2882,7 @@ Allogreffes de cornée, niveau 2.
 
 Allogreffes de cornée, niveau 3. |
 
-442
-
-|
+462
 
 |
 
@@ -2824,7 +2890,7 @@ Allogreffes de cornée, niveau 3.
 
 |
 
-463
+443
 
 |
 
@@ -2834,9 +2900,7 @@ Allogreffes de cornée, niveau 3.
 
 Allogreffes de cornée, niveau 4. |
 
-443
-
-|
+463
 
 |
 
@@ -2844,7 +2908,7 @@ Allogreffes de cornée, niveau 4.
 
 |
 
-464
+444
 
 |
 
@@ -2852,13 +2916,9 @@ Allogreffes de cornée, niveau 4.
 
 |
 
-Allogreffes de cornée, en ambulatoire.
+Allogreffes de cornée, en ambulatoire. |
 
-|
-
-444
-
-|
+464
 
 |
 
