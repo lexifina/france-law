@@ -14,7 +14,7 @@ Sciences cliniques des carnivores et des équidés
 
 1 |
 
-Hygiène, qualité et technologie alimentaires
+Sécurité sanitaire, hygiène, qualité et technologie alimentaires
 
 |
 
@@ -26,11 +26,11 @@ Productions animales et pathologie des animaux de rente
 
 1 |
 
-Législation sanitaire
+Législation vétérinaire
 
 |
 
-3 |
+2 |
 
 2. Epreuves orales et pratiques :
 
@@ -38,23 +38,23 @@ Législation sanitaire
 
 COEFFICIENTS |
 
-Epreuve pratique (sciences cliniques des carnivores et des équidés ou hygiène, qualité et technologie alimentaires ou productions animales et pathologie des animaux de rente)
+Epreuve pratique (sciences cliniques des carnivores et des équidés ou sécurité sanitaire, hygiène, qualité et technologie alimentaires ou productions animales et pathologie des animaux de rente)
 
 |
 
-1 |
+2 |
 
-Epreuve orale technique (sciences cliniques des carnivores et des équidés ou hygiène, qualité et technologie alimentaires ou productions animales et pathologie des animaux de rente)
-
-|
-
-1 |
-
-Epreuve orale de législation
+Epreuve orale technique (sciences cliniques des carnivores et des équidés ou sécurité sanitaire, hygiène, qualité et technologie alimentaires ou productions animales et pathologie des animaux de rente)
 
 |
 
-1 |
+2 |
+
+Epreuve orale de législation vétérinaire
+
+|
+
+2 |
 
 II. - Déroulement des épreuves pratiques
 
@@ -72,7 +72,7 @@ L'épreuve pratique comprend :
 
 2° La présentation et la discussion d'un cas clinique.
 
-Hygiène, qualité et technologie alimentaires
+Sécurité sanitaire, hygiène, qualité et technologie alimentaires
 
 L'épreuve pratique comprend :
 
