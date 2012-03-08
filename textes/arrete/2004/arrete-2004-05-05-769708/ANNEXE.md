@@ -2,67 +2,83 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel de technicien(ne) métreur(se) en agencement et aménagements intérieurs.
+Intitulé : titre professionnel technicien en menuiserie et agencement intérieurs.
 
 Niveau : IV.
 
-Code NSF : 234 n.
+Code NSF : 234 s-Travail du bois et de l'ameublement.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien(ne) métreur(se) en agencement et aménagements intérieurs participe à l'élaboration technique d'un projet d'agencement et d'aménagements intérieurs en bois et matériaux dérivés de locaux divers (commerces, bureaux, habitations). Il (elle) contribue à la détermination des procédés techniques, des méthodes d'organisation et du coût de la future opération. Avant la réalisation du chantier, il (elle) participe à la prévision et aux choix des différents outils et des moyens permettant l'exécution des travaux dans les meilleures conditions de délais et de coûts. En outre, il (elle) assure le suivi technique, administratif et budgétaire d'un ou plusieurs chantiers jusqu'à l'achèvement des travaux.
+Dans les entreprises, le technicien en menuiserie et agencement intérieurs détermine :
 
-Il (elle) exerce ses activités au bureau, durant la phase de conception et sur chantier durant la phase de réalisation. Les déplacements sur les chantiers et auprès des partenaires participant à la construction sont fréquents. Certaines de ses activités peuvent entraîner des dépassements d'horaires.
+-les principes techniques ;
 
-Il (elle) organise et exécute les tâches qui lui sont confiées sous la responsabilité du chef d'entreprise ou du chargé d'affaires. En fonction de l'organisation et de la taille de l'entreprise, le (la) technicien(ne) métreur(se) en agencement et aménagements intérieurs peut être amené(e), selon ses activités, à travailler en autonomie ou en équipe.
+-le coût des projets ;
 
-Capacités attestées et descriptif des composantes de la certification
+-la mise en œuvre sur chantier.
 
-1. Chiffrer une affaire d'agencement
+La gestion des dossiers tient compte des contraintes tant techniques que de qualité afin de répondre aux impératifs de résultat économique de l'entreprise.
 
-et d'aménagements intérieurs
+Le technicien en menuiserie et agencement intérieurs analyse le dossier de consultation ou la faisabilité de la commande. Ensuite vient l'étude et le chiffrage d'une offre recevable au regard d'un cahier des charges. La constitution d'un dossier technique d'exécution conforme à la commande lui incombe également. Enfin, il planifie les moyens techniques à mettre en œuvre pour l'exécution de la commande et réalise le suivi technique et administratif du chantier.
 
-Chiffrer une affaire de mobilier d'agencement.
+L'emploi s'exerce le plus souvent sous couvert d'un responsable hiérarchique, principalement en bureau durant la phase chiffrage et étude d'une affaire, le suivi entraîne de nombreux déplacements sur chantier.
 
-Chiffrer une affaire en agencement de magasin.
+Les horaires sont variables, certaines activités peuvent se prolonger tard le soir ou en fin de semaine. L'emploi nécessite autonomie et travail en équipe. L'aspect relationnel de l'emploi est aussi important que l'aspect strictement technique.
 
-Chiffrer une affaire en aménagement intérieur de locaux tertiaires.
+Capacités attestées et descriptif
 
-Chiffrer une affaire en aménagement intérieur de locaux d'habitation.
+des composantes de la certification
 
-2. Réaliser l'étude technique d'exécution d'une affaire d'agencement et d'aménagements intérieurs
+1. Réaliser l'étude technique d'une affaire de menuiserie
 
-Réaliser l'étude d'exécution d'une affaire en mobilier d'agencement.
+et d'agencement intérieurs
 
-Réaliser l'étude d'exécution d'une affaire en agencement de magasin.
+Etablir un relevé sur site pour une affaire de menuiserie et d'agencement intérieurs.
 
-Réaliser l'étude d'exécution d'une affaire d'aménagement intérieur de locaux tertiaires.
+Rassembler des informations techniques pour une affaire de menuiserie et d'agencement intérieurs.
 
-Réaliser l'étude d'exécution d'une affaire d'aménagement intérieur de locaux d'habitation.
+Concevoir un projet pour une affaire de menuiserie et d'agencement intérieurs.
 
-3. Réaliser le suivi et le contrôle d'un chantier d'agencement et d'aménagements intérieurs
+Produire des documents techniques pour une affaire de menuiserie et d'agencement intérieurs.
 
-Réaliser le suivi et le contrôle d'un chantier en mobilier d'agencement.
+2. Chiffrer une affaire de menuiserie
 
-Réaliser le suivi et le contrôle d'un chantier d'agencement de magasin.
+et d'agencement intérieurs
 
-Réaliser le suivi et le contrôle d'un chantier d'aménagement intérieur de locaux tertiaires.
+Renseigner une banque de données de prix de référence pour une affaire de menuiserie et d'agencement intérieurs.
 
-Réaliser le suivi et le contrôle d'un chantier d'aménagement intérieur en habitat individuel.
+Analyser un dossier de consultation pour une affaire de menuiserie et d'agencement intérieurs.
+
+Réaliser un métré pour une affaire de menuiserie et d'agencement intérieurs.
+
+Calculer le coût et établir les devis pour une affaire de menuiserie et d'agencement intérieurs.
+
+3. Suivre un chantier de menuiserie
+
+et d'agencement intérieurs
+
+Préparer l'intervention des équipes pour un chantier de menuiserie et d'agencement intérieurs.
+
+Réaliser le suivi et le contrôle d'une affaire de menuiserie et d'agencement intérieurs.
+
+Effectuer une situation de travaux pour une affaire de menuiserie et d'agencement intérieurs.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Les grandes, moyennes et petites entreprises d'agencement et d'aménagements intérieurs.
+Les différents secteurs d'activités concernés sont principalement les entreprises d'agencement et de menuiseries intérieures.
 
-Codes ROME :
+Type d'emplois accessibles :
 
-61223 - Chargé d'études techniques du BTP ;
+Assistant (e) de travaux agencement et menuiserie intérieurs ;
 
-61232 - Conducteur de travaux du BTP.
+Technicien (ne) d'études agencement et menuiserie intérieurs.
+
+Code ROME :
+
+F1104-Dessin BTP.
 
 Réglementation de l'activité :
 
@@ -70,16 +86,16 @@ Néant.
 
 Autorité responsable de la certification :
 
-Ministère chargé de l'emploi.
+Ministère du travail, de l'emploi et de la santé.
+
+Liens avec d'autres certifications :
+
+Néant.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
 
-Arrêté du 25 novembre 2002.
-
-NOTA :
-
-Arrêté du 23 mars 2007 article 1er : L'arrêté est prorogé pour une durée de cinq ans à compter du 17 mai 2007.
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
