@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120121874
+
+- Question : [SEQ120121874](seq120121874.md) — Mise en œuvre d'une politique forestière ambitieuse
+
+## Réponse
+
+*Agriculture, JO du 2012-03-08, page 637*
+
+La forêt française doit relever des défis très variés : économiques, écologiques et sociaux. Cette multifonctionnalité est déjà largement prise en compte dans le fonctionnement des départements ministériels directement concernés : ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire, ministère de l'écologie, du développement durable, des transports et du logement, et ministère de l'économie, des finances et de l'industrie. De fait, l'intégration des forêts dans l'économie carbone, la politique de gestion durable des forêts, la préservation de la biodiversité, l'anticipation du changement climatique, l'aménagement du territoire et notamment des zones rurales, font l'objet d'échanges étroits et constants entre les services de ces trois ministères. L'instauration d'une délégation interministérielle pour la forêt auprès du Premier ministre pourrait peut-être rendre encore plus étroite la collaboration entre les services affectés à la gestion des forêts, au développement des industries de transformation du bois, à la préservation de l'environnement, et à l'aménagement des territoires ruraux. Toutefois, la diversité et la complexité des questions liées aux espaces forestiers ne pourraient sans doute pas être traitées efficacement par un service interministériel unique, sauf à ce qu'il devienne d'une taille excessive. Il n'est donc pas sûr qu'une telle délégation aboutisse à réduire de façon significative les échanges nécessaires avec d'autres services ministériels et à accroître l'efficacité de l'État pour l'application des mesures de politique forestière.
