@@ -32,11 +32,15 @@ Véhicules PL 44 t ≥ PTAC > 19 t
 
 |
 
+|
+
 Véhicules PL 19 t ≥ PTAC > 7,5 t
 
 |
 
 7,60
+
+|
 
 |
 
@@ -48,11 +52,15 @@ Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
 |
 
+|
+
 Voitures particulières
 
 |
 
 7,60
+
+|
 
 |
 
@@ -64,7 +72,9 @@ Autres véhicules immatriculés
 
 |
 
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception et dont la vitesse peut excéder, par construction, 25 km/heure
+|
+
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception
 
 |
 
@@ -84,11 +94,15 @@ Véhicules PL 44 t ≥ PTAC > 19 t
 
 |
 
+|
+
 Véhicules PL 19 t ≥ PTAC > 7,5 t
 
 |
 
 22,90
+
+|
 
 |
 
@@ -100,11 +114,15 @@ Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
 |
 
+|
+
 Voitures particulières
 
 |
 
 15,20
+
+|
 
 |
 
@@ -116,7 +134,9 @@ Autres véhicules immatriculés
 
 |
 
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception et dont la vitesse peut excéder, par construction, 25 km/heure
+|
+
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception
 
 |
 
@@ -136,11 +156,15 @@ Véhicules PL 44 t ≥ PTAC > 19 t
 
 |
 
+|
+
 Véhicules PL 19 t ≥ PTAC > 7,5 t
 
 |
 
 213,40
+
+|
 
 |
 
@@ -152,11 +176,15 @@ Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
 |
 
+|
+
 Voitures particulières
 
 |
 
-110,00
+113,00
+
+|
 
 |
 
@@ -168,7 +196,9 @@ Autres véhicules immatriculés
 
 |
 
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception et dont la vitesse peut excéder, par construction, 25 km/heure
+|
+
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception
 
 |
 
@@ -188,11 +218,15 @@ Véhicules PL 44 t ≥ PTAC > 19 t
 
 |
 
+|
+
 Véhicules PL 19 t ≥ PTAC > 7,5 t
 
 |
 
 9,20
+
+|
 
 |
 
@@ -204,11 +238,15 @@ Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
 |
 
+|
+
 Voitures particulières
 
 |
 
-4,60
+6,00
+
+|
 
 |
 
@@ -220,7 +258,9 @@ Autres véhicules immatriculés
 
 |
 
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception et dont la vitesse peut excéder, par construction, 25 km/heure
+|
+
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception
 
 |
 
@@ -240,11 +280,15 @@ Véhicules PL 44 t ≥ PTAC > 19 t
 
 |
 
+|
+
 Véhicules PL 19 t ≥ PTAC > 7,5 t
 
 |
 
 91,50
+
+|
 
 |
 
@@ -256,11 +300,15 @@ Véhicules PL 7,5 t ≥ PTAC > 3,5 t
 
 |
 
+|
+
 Voitures particulières
 
 |
 
 61,00
+
+|
 
 |
 
@@ -272,7 +320,9 @@ Autres véhicules immatriculés
 
 |
 
-Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception et dont la vitesse peut excéder, par construction, 25 km/heure
+|
+
+Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception
 
 |
 
