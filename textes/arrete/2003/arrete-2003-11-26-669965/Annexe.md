@@ -20,15 +20,65 @@ Astreinte de direction générale.
 
 |
 
-1 astreinte de semaine (*).
+1 astreinte de semaine (1).
 
 |
 
-Ecole nationale
-
-de l'aviation civile
+Pôle de la communication
 
 |
+
+Astreinte de direction.
+
+|
+
+1 astreinte de fin de semaine et jours fériés.
+
+|
+
+Secrétariat général
+
+|
+
+|
+
+Logis
+
+|
+
+Astreinte technique.
+
+|
+
+1 astreinte de fin de semaine et jours fériés.
+
+|
+
+Service des systèmes d'information et de la modernisation (SSIM) (à compter de l'entrée en vigueur de l'arrêté portant création du SSIM de la DGAC)
+
+|
+
+Astreinte opérationnelle et technique.
+
+|
+
+3 astreintes de semaine.
+
+|
+
+Centre d'exploitation, de développement et d'études du réseau d'information de gestion (jusqu'à l'entrée en vigueur de l'arrêté portant création du SSIM de la DGAC)
+
+|
+
+Astreinte opérationnelle et technique.
+
+|
+
+2 astreintes de semaine.
+
+|
+
+École nationale de l'aviation civile
 
 |
 
@@ -58,20 +108,6 @@ Astreinte opérationnelle et technique.
 
 |
 
-Centre d'exploitation, de développement
-
-et d'études du réseau d'information de gestion
-
-|
-
-Astreinte opérationnelle et technique.
-
-|
-
-2 astreintes de semaine.
-
-|
-
 Bureau d'enquêtes et d'analyses
 
 pour la sécurité de l'aviation civile
@@ -82,7 +118,7 @@ Astreinte enquêtes-accidents (niveau central).
 
 |
 
-1 astreinte de semaine et 2 astreintes de fin de semaine
+1 astreinte de semaine et 2 astreintes de fin de semaines.
 
 |
 
@@ -94,9 +130,7 @@ des services de la navigation aérienne
 
 |
 
-|
-
-Echelon central
+Échelon central
 
 |
 
@@ -248,9 +282,7 @@ Astreinte technique de centrale énergie.
 
 |
 
-SNA région parisienne
-
-|
+SNA Région parisienne
 
 |
 
@@ -346,8 +378,6 @@ SNA Nord
 
 |
 
-|
-
 Siège
 
 |
@@ -364,7 +394,7 @@ Athis-Mons
 
 |
 
-Astreinte technique pour la maintenance Ile-de-France.
+Astreinte technique pour la maintenance Île-de-France.
 
 |
 
@@ -373,8 +403,6 @@ Astreinte technique pour la maintenance Ile-de-France.
 |
 
 SNA Nord-Est
-
-|
 
 |
 
@@ -410,8 +438,6 @@ SNA Ouest
 
 |
 
-|
-
 Siège
 
 |
@@ -442,8 +468,6 @@ SNA Centre-Est
 
 |
 
-|
-
 Siège
 
 |
@@ -469,8 +493,6 @@ Astreinte opérationnelle.
 |
 
 SNA Sud-Est
-
-|
 
 |
 
@@ -518,8 +540,6 @@ SNA Sud
 
 |
 
-|
-
 Siège
 
 |
@@ -533,8 +553,6 @@ Astreinte opérationnelle.
 |
 
 SNA Sud-Ouest
-
-|
 
 |
 
@@ -570,8 +588,6 @@ SNA Sud-Sud-Est
 
 |
 
-|
-
 Siège
 
 |
@@ -597,8 +613,6 @@ Astreinte opérationnelle.
 |
 
 SNA Antilles-Guyane
-
-|
 
 |
 
@@ -646,8 +660,6 @@ SNA océan Indien
 
 |
 
-|
-
 Siège
 
 |
@@ -666,11 +678,7 @@ Direction de la sécurité de l'aviation civile
 
 |
 
-|
-
 DSAC Nord
-
-|
 
 |
 
@@ -742,8 +750,6 @@ DSAC Sud-Ouest
 
 |
 
-|
-
 DSAC
 
 |
@@ -792,7 +798,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Poitou-Charente (Poitiers)
+Région Poitou-Charentes (Poitiers)
 
 |
 
@@ -805,8 +811,6 @@ Astreinte enquêtes-accidents.
 |
 
 DSAC Sud
-
-|
 
 |
 
@@ -861,8 +865,6 @@ Astreinte enquêtes-accidents.
 |
 
 DSAC Ouest
-
-|
 
 |
 
@@ -946,8 +948,6 @@ DSAC Nord-Est
 
 |
 
-|
-
 DSAC
 
 |
@@ -956,7 +956,7 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 26 semaines par an.
+1 astreinte de semaine dans la limite de 26 semaines par an
 
 |
 
@@ -1009,8 +1009,6 @@ Astreinte enquêtes-accidents.
 |
 
 DSAC Centre-Est
-
-|
 
 |
 
@@ -1070,8 +1068,6 @@ DSAC Sud-Est
 
 |
 
-|
-
 DSAC
 
 |
@@ -1096,9 +1092,7 @@ Astreinte de direction.
 
 |
 
-Région PACA
-
-(Marseille-Provence)
+Région PACA (Marseille-Provence)
 
 |
 
@@ -1110,9 +1104,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région PACA
-
-(Nice-Côte d'Azur)
+Région PACA (Nice-Côte d'Azur)
 
 |
 
@@ -1149,8 +1141,6 @@ Astreinte enquêtes-accidents.
 |
 
 DSAC Antilles-Guyane
-
-|
 
 |
 
@@ -1222,8 +1212,6 @@ DSAC océan Indien
 
 |
 
-|
-
 DSAC
 
 |
@@ -1266,8 +1254,6 @@ DSAC et SNA océan Indien
 
 |
 
-|
-
 Dzaoudzi-Pamandzi
 
 |
@@ -1281,8 +1267,6 @@ Astreinte opérationnelle.
 |
 
 SEAC Polynésie française
-
-|
 
 |
 
@@ -1316,7 +1300,7 @@ Tahiti-Faaa
 
 |
 
-Astreinte enquêtes-accidents (territoire).
+Astreinte enquêtes-accidents (Territoire).
 
 |
 
@@ -1348,17 +1332,15 @@ Astreinte opérationnelle.
 
 |
 
-Service mixte Direction de l'aviation civile
+Service mixte "direction de l'aviation civile
 
-en Nouvelle-Calédonie
-
-|
+en Nouvelle-Calédonie"
 
 |
 
 |
 
-Service mixte DAC/ NC
+Service mixte "DAC/NC"
 
 |
 
@@ -1374,7 +1356,7 @@ Nouméa
 
 |
 
-Astreinte de direction (service mixte DAC/ NC ).
+Astreinte de direction (service mixte "DAC/NC").
 
 |
 
@@ -1386,7 +1368,7 @@ Nouméa
 
 |
 
-Astreinte enquêtes-accidents (territoire).
+Astreinte enquêtes-accidents (Territoire).
 
 |
 
@@ -1418,6 +1400,4 @@ Astreinte technique de centrale énergie
 
 |
 
-(*) Une astreinte de semaine couvre une période de sept jours sur sept.
-
-|
+(1) Une astreinte de semaine couvre une période de 7 jours sur 7. |
