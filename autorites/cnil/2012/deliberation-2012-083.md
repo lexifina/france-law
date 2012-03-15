@@ -1,0 +1,318 @@
+# Délibération n° 2012-083 du 15 mars 2012 portant avis sur un projet d'arrêté relatif à la mise en œuvre du traitement automatisé de données à caractère personnel prévu à l'article R. 176-3 du code électoral : système de vote électronique pour l'élection par les Français établis hors de France de leurs députés (demande d'avis n° 12005139)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2012-083
+- Date : 2012-03-15
+- Publication : 2019-11-13
+- NOR : CNIX1222855X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000025829613
+
+Délibération n° 2012-083 du 15 mars 2012 portant avis sur un projet d'arrêté relatif à la mise en œuvre du traitement automatisé de données à caractère personnel prévu à l'article R.176-3 du code électoral : système de vote électronique pour l'élection par les Français établis hors de France de leurs députés
+
+(Demande d'avis n° 12005139)
+
+La Commission nationale de l'informatique et des libertés ( la Commission ),
+
+Saisie par les ministères en charge des Affaires étrangères et européennes et de l'Intérieur (ci-après le Ministère ) pour avis sur un projet d'arrêté relatif système de vote électronique pour l'élection par les Français établis hors de France de leurs députés ;
+
+Vu l'article 24 de la Constitution prévoyant notamment la représentation des Français établis hors de France à l'Assemblée nationale par 11 députés élus au suffrage direct ;
+
+Vu la Convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi organique n° 76-97 du 31 janvier 1976 modifiée relative aux listes électorales consulaire et au vote des Français établis hors de France pour l élection du Président de la République, notamment ses articles 7 et 8 ;
+
+Vu la loi organique n° 2011-411 du 14 avril 2011 portant notamment codification de l'ordonnance n° 2009-936 du 29 juillet 2009 relative à la définition du régime applicable à l'élection des députés des Français de l'étranger ;
+
+Vu le code électoral, notamment ses articles L.330-13 et R.176-3 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment son article 27-II-4°) ;
+
+Vu le décret n° 2003-1377 du 31 décembre 2003 modifié relatif à l'inscription au registre des Français établis hors de France ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu la délibération n° 2010-371 du 21 octobre 2010 portant adoption d'une recommandation relative à la sécurité des systèmes de vote électronique ;
+
+Vu la délibération n° 2011-160 du 9 juin 2011 portant avis sur un projet de décret relatif à l'élection de députés par les Français établis hors de France (dossier CNIL n° 11012821 - décret n° 2011-843 introduisant notamment l'article R.176-3 au code électoral) ;
+
+Après avoir entendu le rapport de M. Didier GASSE, commissaire et les observations de Mme Elisabeth ROLIN, commissaire du Gouvernement,
+
+Emet l'avis suivant :
+
+A la suite de la réforme constitutionnelle de 2008, 11 députés représentent les Français établis hors de France. Les ministères en charge des Affaires étrangères et européennes (MAEE) et de l'Intérieur (MIN) (ci-après le Ministère ) sont chargés d'organiser les élections de ces députés. Pour les élections de juin 2012, un système de vote électronique doit être mis en œuvre.
+
+Le Ministère a saisi la CNIL d'une demande d'avis, parvenue complétée du rapport initial d'expertise indépendante, le 23 février 2012.
+
+Le projet d'arrêté détaille la mise en œuvre du traitement prévu à l'article R.176-3 du code électoral, introduit par le décret n° 2011-843 pris après avis de la Commission (délibération n° 2011-160). Le système de vote électronique décrit doit être mis en œuvre dès les élections, par les Français établis hors de France, de leurs députés en juin 2012.
+
+L'article R.176-3-III du code électoral prévoit :
+
+III.-Un arrêté conjoint du ministre de l'intérieur et du ministre des affaires étrangères précise les caractéristiques du traitement prévu au I.
+
+Il fixe notamment :
+
+1° Les catégories de données à caractère personnel enregistrées dans le traitement ;
+
+2° Les modalités de l'expertise indépendante prévue au II ;
+
+3° Les garanties entourant le recours éventuel à un prestataire technique chargé, dans le respect des obligations de sécurité résultant de la présente sous-section, de la maîtrise d'œuvre du traitement automatisé ainsi que les modalités de son intervention ;
+
+4° Les modalités de transmission de l'identifiant et de l'authentifiant prévues à l'article R. 176-3-7 ainsi que les modalités de récupération par l'électeur de son authentifiant ;
+
+5° Les conditions de mise en œuvre d'un dispositif de secours en cas de défaillance.
+
+En application de l'article 27-II-4°) de la loi Informatique et Libertés , le projet d'arrêté est soumis à la CNIL pour avis.
+
+A titre liminaire
+
+La Commission souligne qu'elle est très attentive aux conditions de développement du vote électronique. Compte tenu des risques particuliers que ces traitements peuvent présenter pour les personnes, notamment la divulgation de leurs opinions politiques, la manipulation de leur droit de vote, il convient de mettre en place des mesures de sécurité adéquates. C'est pourquoi la Commission avait rappelé, dans sa délibération n° 2010-371, les principes paraissant devoir s'imposer en matière de sécurité dans le cadre du vote électronique. En outre, la Commission tient à préciser, qu'au cas par cas, des mesures de sécurité additionnelles peuvent être prévues, comme par exemple la conduite d'une analyse de risques dans le cas d'élections de grande ampleur et/ou à fort enjeu national.
+
+1. Sur la finalité du traitement
+
+La finalité est de mettre en œuvre le système du vote électronique pour les élections des députés par les Français établis hors de France.
+
+2. Sur l'expertise indépendante du dispositif de vote électronique
+
+L'article 2 du projet d'arrêté détaille la procédure de l'expertise indépendante du dispositif de vote électronique, sans définir la notion de l' indépendance .
+
+La Commission tient à rappeler les critères de l'indépendance pour un expert extérieur, à savoir :
+
+- être un informaticien spécialisé dans la sécurité ;
+
+- ne pas avoir d'intérêt financier dans la société qui a créé la solution de vote à expertiser, ni dans la société responsable de traitement qui a décidé d'utiliser la solution de vote ;
+
+- posséder une expérience dans l'analyse des systèmes de vote, si possible en ayant expertisé les systèmes de vote électronique d'au moins deux prestataires différents ;
+
+- avoir participé à l'atelier organisé par la CNIL sur le vote électronique.
+
+La Commission estime que les critères de la notion d' indépendance devraient être précisés dans l'arrêté.
+
+Elle prend acte que l'article 2 du projet sera complété d'un 4ème paragraphe qui pourrait être rédigé en ces termes :
+
+Cette expertise indépendante est conduite par un informaticien spécialisé dans la sécurité, possédant une expérience dans l'analyse des systèmes de vote et ayant participé à l'atelier organisé par la Commission nationale de l'informatique et des libertés dédié aux experts de vote électronique. L'expert indépendant ne doit pas avoir d'intérêts financiers dans la société qui a créé la solution de vote à expertiser.
+
+3. Sur les catégories de données personnelles traitées et leur utilisation
+
+L'article 1er du projet d'arrêté liste, selon l'acteur concerné, les données personnelles enregistrées dans le système de vote électronique, en ces termes :
+
+Les catégories de données personnel enregistrées dans le traitement automatisé prévu au I de l'article R.176-3 du code électoral sont :
+
+1° Pour les électeurs :
+
+- Les mentions portées sur la liste électorale consulaire sur laquelle ils sont inscrits, prévues à l'article 8 de la loi du 31 décembre 1976 susvisée ;
+
+- Leur numéro d'identification consulaire, prévu au II de l'article 11 du décret du 31 décembre 2003 susvisé ;
+
+2° Pour les candidats :
+
+- Les nom et prénoms des candidats et de leur remplaçant ;
+
+- La circonscription électorale dans laquelle ils se présentent ;
+
+- Le cas échéant, l'étiquette politique qu'ils ont choisie ;
+
+- Une copie numérisée du bulletin de vote remis, en application de l'article R.38 du code électoral, à la commission électorale mentionnée à l'article 7 de la loi du 31 décembre 1976 susvisée. Le fichier contenant cette copie est au format PNG et son volume ne peut excéder cinquante kilo-octets.
+
+La référence à la loi du 31 décembre 1976 doit être remplacée par 31 janvier 1976 .
+
+Pour chaque électeur, en plus de son numéro d'identification consulaire (NumIC) , le système de vote électronique enregistre les données personnelles composant la liste électorale consulaire ( LEC ), à savoir :
+
+- ses nom, prénoms, domicile ou résidence comportant la rue et le numéro (article L.18 du code électoral) ;
+
+- ses date et lieu de naissance (article L.19 du code électoral) ;
+
+- son rattachement à un bureau de vote et son adresse électronique (loi organique n°76-97 - article 8).
+
+L'adresse postale est utilisée pour communiquer par courrier la carte à gratter portant son identifiant nécessaire pour se connecter au site de vote électronique.
+
+L'année de naissance est la réponse au défi/réponse , mesure de sécurité pour récupérer son authentifiant et pour valider son vote.
+
+L'adresse électronique, qui est utilisée pour communiquer par courriel son authentifiant ou le récupérer, est la troisième information indispensable pour se connecter au site de vote électronique. Il est toutefois possible à l'électeur d'indiquer à son consulat une seconde adresse électronique, qui sera réservée à la communication avec le consulat et ne sera pas mentionnée sur la LEC.
+
+La Commission demande que soient ajoutés, à la liste des données personnelles concernées par le dispositif de vote électronique, les identifiants et authentifiants attribués à chaque électeur ainsi que la table de correspondance confiée au service du Chiffre du MAEE, aucune mise en relation entre ces différents éléments, l'identité et le vote de l'électeur n'étant rendue possible.
+
+Par ailleurs, comme toute liste électorale, la liste consulaire est susceptible d'être communiquée et utilisée par tout électeur, candidat, parti ou groupement politique qui en fait la demande (cf. article L.330-4 du code électoral). En l'absence de dérogation explicite prévue par le législateur, les données personnelles composant la liste consulaire sont communiquées, y compris l'adresse électronique de chaque électeur Français établis hors de France.
+
+Comme l'année de naissance, qui est une des données personnelles les plus aisément accessibles, est également portée sur la liste consulaire, il n'est pas judicieux qu'elle soit utilisée à titre de sécurité en réponse au défi/réponse .
+
+Constatant que le caractère accessible de ces données personnelles impacte les mesures de sécurité du système de vote, la Commission formule ses observations au point 7.b) Sur la sécurité des données de la délibération.
+
+4. Sur les acteurs de la mise en œuvre du traitement
+
+Quant au système de vote électronique, plusieurs acteurs sont mis en scène et reçoivent différentes données permettant de réaliser leur mission :
+
+- Le MAEE est en charge d'élaborer des listes électorales, de coordonner les travaux entre ses différents prestataires, de générer des clés et certificats. Il dispose des noms, prénoms, adresses postales, adresses électroniques, numéro de téléphone portable, clés et certificats générant les identifiants et authentifiants (mot de passe). La table de correspondance est confiée au Chiffre du MAEE.
+
+- La société A [SCYTL] est en charge de fournir la solution de vote électronique et les procédures d'exploitation associées.
+
+- La société B [ATOS ORIGIN] est en charge de piloter le projet et héberger la solution.
+
+- La société C [ALTI] est désignée pour mener l'expertise indépendante du dispositif.
+
+- La société D [KOBA] en charge d'imprimer et de mettre sous pli postal les identifiants ( travaux d'éditique ), dispose des noms, prénoms, adresses postales, identifiants.
+
+- La société E [GEDICOM] est en charge d'envoyer par SMS les identifiants et par courriels les authentifiants. Elle dispose des nom, prénom, NumIC, numéro de téléphone portable, identifiants, adresses électroniques et des authentifiants.
+
+Concernant les deux derniers prestataires en charge de distribuer le matériel de vote, la Commission formule ses observations au regard des mesures de sécurité nécessaires au système de vote électronique (au point 7.d) Sur la sécurité des données de la délibération).
+
+5. Sur l'information des personnes
+
+L'adresse électronique utilisée pour distribuer l'authentifiant à l'électeur peut être celle mentionnée sur la liste électorale consulaire.
+
+Or, la liste consulaire peut être constituée à partir des données personnelles fournies lors de l'inscription au registre consulaire . L'inscription à ce registre est une démarche facultative. Les Français sont néanmoins fortement incités à s'y inscrire, notamment à renseigner une adresse électronique afin de favoriser des échanges réactifs avec leur consulat pour alerter et mobiliser en cas de trouble ou de danger menaçant la communauté nationale.
+
+En conséquence, nombreux sont les Français établis hors de France qui, cette année encore, s'étonnent de recevoir des messages de prospection politique à cette adresse électronique qu'ils n'auraient communiquée qu'à l'occasion de leur inscription au registre consulaire ou de simples échanges avec leur Consulat. Ils sont d'autant plus étonnés que cette adresse soit portée sur la liste consulaire sans qu'ils n'aient eu à réaliser de démarche d'inscription.
+
+Pour pallier de tels inconvénients, la Commission recommande de renforcer l'information délivrée lors de l'inscription, facultative, au registre consulaire d'un Français établi hors de France, notamment sur :
+
+- les finalités de la collecte de l'adresse électronique ;
+
+- son report sur la LEC ;
+
+- le fait que la LEC, à l'instar de toute liste électorale, est susceptible d'être communiquée à tout électeur, candidat, parti ou groupement qui en ferait la demande auprès du Département en application de l'article L.330-4 du code électoral ;
+
+- l'impossibilité de s'opposer à cette communication à des fins de contrôle démocratique et de prospection politique ;
+
+- le droit de s'opposer, auprès de tout expéditeur, à recevoir tout nouveau message de prospection politique.
+
+Par ailleurs, dans le cadre de son Observatoire des élections 2012, la Commission a eu connaissance d'un formulaire, adressé par un Consulat, dans le cadre de la mise à jour des coordonnées des Français établis hors de France. Le formulaire propose de renseigner deux adresses électroniques tout en précisant la finalité de chacune, en ces termes :
+
+EXTRAIT du formulaire de mise à jour des coordonnées :
+
+Adresse électronique n°1
+
+Comme l'exige la loi, l'adresse électronique n°1 figure sur la liste électorale consulaire. Elle est communicable, à leur demande, aux électeurs inscrits, aux candidats, aux élus et aux partis et groupements politiques.
+
+|
+
+..............................@........................................
+
+|
+
+Adresse électronique n°2
+
+L'adresse électronique n°2 vous permet de recevoir les informations envoyées par votre consulat; elle ne figure pas sur la liste électorale.
+
+|
+
+.......................................@.....................
+
+Vos mots de passe de vote par Internet (un pour chaque tour) seront envoyés à cette adresse électronique
+
+(à fournir ou mettre à jour si besoin avant le 7 mai).
+
+|
+
+N.B. : Vous pouvez fournir une seule adresse électronique. Elle remplira alors les deux fonctions : elle figurera sur la liste électorale consulaire et vous permettra aussi de recevoir les informations envoyées par votre consulat
+
+La Commission ne peut que souscrire à la généralisation de cette pratique permettant d'atténuer le risque créé par la communication de la liste consulaire comportant l'adresse électronique et l'année de naissance de l'électeur, ces deux données personnelles étant utilisées dans la sécurité du système de vote électronique.
+
+6. Sur les droits d'accès, de rectification et d'opposition des personnes
+
+Voter par voie électronique demeure une procédure facultative, complétée par des modes de scrutin plus traditionnels.
+
+L'article 8 du projet d'arrêté prévoit l'existence d'une procédure pour :
+
+(...) faire consigner leurs observations au procès-verbal du vote électronique (...) en les faisant parvenir par courrier postal ou électronique, au secrétariat du bureau de vote électronique avant la fin des opérations (..). A l'issue de ces opérations, ils peuvent obtenir communication du procès-verbal selon les modalités prévues (...) .
+
+La Commission relève que l'article R.176-3 du code électoral dispose que :
+
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'exercent auprès de l'ambassadeur ou du chef de poste consulaire chargé d'organiser les opérations de vote. Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas à ce traitement automatisé.
+
+Elle n'a pas d'observation à formuler sur ce point.
+
+7. Sur la sécurité des données et la traçabilité des actions
+
+a) Le respect du Référentiel général de sécurité ( RGS )
+
+Malgré la demande formulée dans sa délibération n° 2011-160, le décret n° 2011-843 ne vise pas l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives, qui crée le Référentiel Général de Sécurité ( RGS ), ni le décret n° 2010-112 du 2 février 2010 relatif au RGS.
+
+S'agissant de textes relatifs aux garanties permettant d'assurer et d'accompagner l'évolution nécessaire des mesures de sécurité et de confidentialité des données traitées, la Commission réitère sa demande pour l'arrêté.
+
+Elle prend acte de ce que le Ministère a indiqué intégrer les visas de ces textes dans son arrêté.
+
+b) Les conséquences de la diffusion, sur la liste électorale consulaire, de l'adresse électronique et l'année de naissance de chaque électeur
+
+La sécurité du système de vote électronique s'appuie notamment sur trois données personnelles de chaque électeur.
+
+- l'adresse postale qui est utilisée pour communiquer par courrier la carte à gratter portant l'identifiant ;
+
+- l'adresse électronique qui est utilisée pour communiquer par courriel le mot de passe (authentifiant), et s'il est nécessaire de le récupérer , pour communiquer un lien à usage unique ;
+
+- l'année de naissance qui est utilisée en réponse au défi/réponse permettant d'activer ce lien à usage unique et récupérer le mot de passe.
+
+Or, ces données personnelles, utilisées pour adresser et récupérer le matériel de vote (identifiant, mot de passe, défi/réponse ), font partie de la liste électorale consulaire qui est elle-même communicable.
+
+Il en résulte notamment deux risques identifiés : la récupération de l'identifiant en interceptant le courrier postal ou le SMS, d'une part, la récupération de l'authentifiant en piratant l'adresse électronique d'autre part.
+
+Le premier risque, inévitablement résiduel, est d'ailleurs assumé par le Ministère. En effet, rendre difficile la récupération de l'identifiant est limité par la communication de l'adresse postale sur la liste électorale, la sécurité des courriers postaux acheminés dans un pays étranger, et/ou par la confidentialité du SMS.
+
+En revanche, le second risque est maîtrisable car la publicité donnée aux adresses électroniques des électeurs facilite les piratages éventuels de leur messagerie électronique.
+
+La Commission recommande donc :
+
+o d'utiliser une adresse électronique réservée aux échanges entre l'électeur et l'Administration,
+
+o et de modifier la réponse au défi/réponse par une donnée qui ne fasse pas partie de la liste consulaire et qui soit moins aisément accessible qu'une année de naissance.
+
+c) Un dispositif d'alerte par un électeur des autorités et les mesures nécessaires en cas de soupçon de corruption du matériel de vote
+
+L'alinéa 4 de l'article 4 du projet d'arrêté prévoit une procédure en cas de perte
+
+pour récupérer son authentifiant, via un lien à usage unique, envoyé à cette même adresse électronique .
+
+La Commission observe que les hypothèses de vol ou de corruption du matériel de vote ou des vecteurs de communication (téléphone portable, adresses postale et électronique) ne sont pas prévues dans le texte.
+
+Or, dans ces circonstances, il paraît indispensable que l'électeur puisse facilement et rapidement alerter les autorités, par exemple dans l'hypothèse de courriel intercepté ou de carte à gratter dont l'identifiant était déjà découvert à réception du courrier postal. En réponse, les autorités doivent prendre les mesures de sécurité nécessaires pour remédier à cette faille, telles que révoquer le matériel de vote ; assurer, si les délais le permettent, l'accès à une procédure alternative ou générer un nouveau matériel de vote.
+
+La Commission demande au Ministère de définir la procédure permettant à un électeur d'alerter les autorités administratives et à ces dernières de prendre les mesures nécessaires, en cas de soupçon de corruption du matériel de vote (identifiant, authentifiant) ou des vecteurs de communication.
+
+La Commission prend acte que le Ministère s'est engagé à communiquer une adresse électronique par courrier postal, en même temps que son identifiant. La Commission demande toutefois à ce que cette adresse soit largement diffusée.
+
+d) La séparation des prestataires d'envoi des identifiants et des authentifiants
+
+Pour garantir un niveau de sécurité satisfaisant, il convient de recourir à deux prestataires distincts : l'un pour adresser aux électeurs leur identifiant, le second pour leur authentifiant.
+
+Le système expertisé par la société C [ALTI] confirme le recours à deux prestataires distincts : la société D [KOBA] et la société E [GEDICOM].
+
+Cependant, bien que le premier prestataire [KOBA] ne soit en charge que des travaux d'éditique (imprimer et mettre sous pli les identifiants adressés par courrier postal), le second prestataire [GEDICOM] est chargé d'envoyer non seulement les identifiants par SMS mais également les mots de passe (authentifiants) par courriel.
+
+Or, en disposant de l'identifiant et de l'authentifiant, il ne reste qu'à prendre communication de la liste électorale pour connaître la réponse au défi/réponse et donc voter. On rappellera que la réponse au défi/réponse est, à ce jour, l'année de naissance de l'électeur qui, en plus d'être une donnée aisément accessible, est communiquée avec la liste électorale.
+
+La Commission considère la séparation des prestations d'envois des identifiants et des authentifiants comme nécessaire. En conséquence, le dispositif doit être modifié.
+
+Ainsi, il conviendrait :
+
+- soit de mettre en place une procédure satisfaisante permettant d'assurer la traçabilité et la destruction des identifiants (suppression totale, absence de copie, ...) avant de livrer au prestataire les authentifiants des électeurs ;
+
+- soit de changer de prestataire pour l'envoi des SMS (un 3ème prestataire) ou pour l'envoi des courriers (pour choisir un prestataire capable d'adresser les identifiants par SMS et courriers postaux).
+
+Des deux options proposées, le Ministère s'est engagé à mettre en place la première en offrant une procédure satisfaisante pour assurer la traçabilité et la destruction des identifiants avant de livrer les authentifiants.
+
+De plus, l'article 3 du projet d'arrêté développe le cadre de la maîtrise d'œuvre confiée à un prestataire technique, en précisant notamment :
+
+A l'issue des opérations électorales, le prestataire leur restitue les fichiers restant en sa possession et détruit toutes les copies, totales ou partielles, qu'il a été amené à effectuer, sur quelque support que ce soit.
+
+Toutefois, le rapport d'audit, notamment en pages 28 et 30, met en évidence la nécessité de compléter l'expertise sur ce point avant le vote réel.
+
+Si l'article R.179-1 du code électoral prévoit qu'A l'expiration du délai de recours [...], il est procédé, sous le contrôle de la commission électorale, à la destruction de ces supports et données , incluant d'ailleurs les prestataires dans son champ d'application, la Commission prend acte que les procédures de destruction des données et de traçabilité mises en œuvre par les prestataires techniques ne sont pas précisées à ce jour.
+
+e) Le principe du protocole HTTPS
+
+Le rapport d'audit se développe à partir du postulat que l'électeur se connecte au site de vote électronique avec le protocole sécurisé HTTPS . Le protocole HTTPS est donc le principe.
+
+Pourtant, certaines circonscriptions électorales consulaires se situent dans des pays étrangers ne permettant pas de garantir l'utilisation de ce protocole sécurisé tout au long d'une procédure de vote. En effet, certains gouvernements peuvent avoir mis en place un dispositif technique (exemple : un pare feu firewall ) refusant toute connexion entrant ou sortant de leur territoire avec le protocole HTTPS .
+
+La Commission prend acte que le Ministère s'engage à ce que le vote électronique ne soit pas possible sans utiliser le protocole HTTPS .
+
+Le Ministère indique également la mise en place, plusieurs mois avant le premier scrutin, d'un dispositif de vérification permettant notamment à l'électeur de s'assurer qu'il peut voter à partir d'un ordinateur donné ; complété d'une plateforme d'assistance en ligne guidant l'électeur pour procéder aux éventuelles mises à jour techniques nécessaires.
+
+De plus, une note d'information disponible sur le site de l'élection détaillera comment l'électeur peut détecter ou se prémunir des risques de fraude.
+
+La Présidente
+
+Isabelle FALQUE-PIERROTIN
