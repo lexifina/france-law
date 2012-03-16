@@ -1,27 +1,37 @@
 # Article Annexe 6
 
-MODÈLES (non reproduits) DE PRÉSENTATION DU DIAGNOSTIC
+MODÈLES DE PRÉSENTATION DU DIAGNOSTIC DE PERFORMANCE ÉNERGÉTIQUE
 
-DE PERFORMANCE ÉNERGÉTIQUE
-
-Modèle 6.1 :
+Modèle 6.1
 
 Pour les bâtiments à usage principal d'habitation pour lesquels les quantités d'énergie sont évaluées sur la base de consommations estimées (consommation conventionnelle).
 
-Modèle 6.2 :
+Modèle 6.2
 
 Pour les bâtiments à usage principal d'habitation pour lesquels les quantités d'énergie sont évaluées sur la base de consommations réelles (consommations estimées au moyen de factures d'énergie, de décomptes de charges ou de relevés de comptages).
 
-Modèle 6.3 :
+Modèles 6.3
 
-Pour les bâtiments à usage autre que d'habitation (par exemple : tertiaire, bureaux, commerces ...).
+Pour les bâtiments à usage principal autre que d'habitation, à l'exception des centres commerciaux, déclinés en trois sous-groupes a, b, ou c :
 
-Modèle 6.1 :
+Modèle 6.3.a
 
-Pour les bâtiments à usage principal d'habitation pour lesquels les quantités d'énergie sont évaluées sur la base de consommations estimées (consommation conventionnelle).
+Pour les bâtiments à usage principal de bureau, d'administration ou d'enseignement.
 
-Modèle 6.2 :
+Lorsque les consommations en énergie finale sont indisponibles par usage, la première page du modèle "6.3.a." est remplacée par la page notée "6.3.a bis". Les trois autres pages du modèle restent identiques quelle que soit la segmentation des consommations (par usage ou par énergie).
 
-Pour les bâtiments à usage principal d'habitation pour lesquels les quantités d'énergie sont évaluées sur la base de consommations réelles (consommations estimées au moyen de factures d'énergie, de décomptes de charges ou de relevés de comptages).
+Modèle 6.3.b
 
-Vous pouvez consulter ces modèles dans le JO n° 225 du 28/09/2006 texte numéro 10
+Pour les bâtiments à occupation continue (par exemple : hôpitaux, hôtels, internats, maisons de retraites, etc.).
+
+Lorsque les consommations en énergie finale sont indisponibles par usage, la première page du modèle "6.3.b." est remplacée par la page notée "6.3.b bis". Les trois autres pages du modèle restent identiques quelle que soit la segmentation des consommations (par usage ou par énergie).
+
+Modèle 6.3.c
+
+Pour les autres bâtiments non mentionnés dans les deux précédents cas (par exemple : théâtres, salles de sport, restauration, commerces individuels, etc.).
+
+Lorsque les consommations en énergie finale sont indisponibles par usage, la première page du modèle "6.3.c" est remplacée par la page notée "6.3.c bis". Les trois autres pages du modèle restent identiques quelle que soit la segmentation des consommations (par usage ou par énergie)
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 64 du 15 mars 2012, texte n° 6, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=oazEZJQ9DOzj415jgF9Hth9K_gvnOMgthOva_2h02AY

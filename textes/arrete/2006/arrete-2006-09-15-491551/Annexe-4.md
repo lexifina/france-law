@@ -1,18 +1,18 @@
 # Article Annexe 4
 
-ÉTIQUETTE CLIMAT POUR LES ÉMISSIONS DE GAZ À EFFET DE SERRE
+ÉTIQUETTE CLIMAT POUR LES ÉMISSIONS
 
-ANNEXE 4.1
+DE GAZ À EFFET DE SERRE
 
-FACTEURS DE CONVERSION DES KILOWATTHEURES FINAUX
+1. Facteurs de conversion des kilowattheures
 
-EN ÉMISSIONS DE GAZ À EFFET DE SERRE
+finaux en émissions de gaz à effet de serre
 
 Les émissions de gaz à effet de serre considérées se réduisent à celles de dioxyde de carbone (CO2) consécutives aux consommations d'énergie.
 
-4.1.1. Facteurs de conversion à utiliser pour le cas où les consommations
+1.1. Facteurs de conversion à utiliser pour le cas où les consommations sont estimées
 
-sont estimées au moyen d'une méthode de calcul
+au moyen d'une méthode de calcul
 
 En kilogramme de CO2 par kilowattheure PCI d'énergie finale :
 
@@ -22,9 +22,9 @@ CHAUFFAGE
 
 |
 
-PRODUCTION
+PRODUCTION D'EAU
 
-d'eau chaude sanitaire
+chaude sanitaire
 
 |
 
@@ -82,11 +82,11 @@ Charbon
 
 |
 
-0,384
+0,342
 
 |
 
-0,384
+0,342
 
 |
 
@@ -156,11 +156,11 @@ Electricité (hors électricité d'origine renouvelable utilisée dans le bâtim
 
 Pour les réseaux de chaleur ou de froid, pour lesquels la dispersion du contenu CO2 est importante, la valeur à retenir est précisée à l'annexe 7.
 
-Pour figurer dans cette annexe, les gestionnaires de réseaux doivent faire parvenir le contenu en CO2 de leur réseau et les justifications correspondantes à la direction générale de l'énergie et des matières premières (DGEMP).
+Pour figurer dans cette annexe, les gestionnaires de réseaux doivent faire parvenir le contenu en CO2 de leur réseau et les justifications correspondantes à la direction générale de l'énergie et du climat (DGEC).
 
 Pour les réseaux de chaleur ou de froid qui ne figurent pas à l'annexe 7, la valeur est fixée par défaut au contenu CO2 le plus élevé, celui du charbon.
 
-4.1.2. Facteurs de conversion climat pour le cas
+1.2. Facteurs de conversion "climat" pour le cas
 
 où les consommations sont relevées par factures ou mesures
 
@@ -238,103 +238,69 @@ Electricité (hors électricité d'origine renouvelable utilisée dans le bâtim
 
 Pour les réseaux de chaleur ou de froid, pour lesquels la dispersion du contenu CO2 est importante, la valeur à retenir est précisée à l'annexe 7.
 
-Pour figurer dans cette annexe, les gestionnaires de réseaux doivent faire parvenir le contenu en CO2 de leur réseau et les justifications correspondantes à la direction générale de l'énergie et des matières premières (DGEMP).
+Pour figurer dans cette annexe, les gestionnaires de réseaux doivent faire parvenir le contenu en CO2 de leur réseau et les justifications correspondantes à la direction générale de l'énergie et du climat (DGEC).
 
 Pour les réseaux de chaleur ou de froid qui ne figurent pas à l'annexe 7, la valeur est fixée par défaut au contenu CO2 le plus élevé, celui du charbon.
 
-ANNEXE 4.2
+2. Echelle des émissions de gaz à effet de serre
 
-ÉCHELLE DES ÉMISSIONS DE GAZ À EFFET DE SERRE
+2.1. Généralités
 
-4.2.1. Généralités
-
-4.2.1 a. Cas des bâtiments à usage principal d'habitation
-
-Pour les bâtiments à usage principal d'habitation, le classement de la quantité totale d'émissions de gaz à effet de serre se fait dans une échelle de sept classes, appelée étiquette climat . La quantité d'émissions est croissante, partant de la classe A (la plus performante, figurant en mauve clair), à la classe G (la moins performante, figurant en mauve foncé).
-
-L'étiquette climat doit être conforme au modèle suivant (cliché non reproduit) :
-
-Vous pouvez consulter le cliché dans le JO n° 225 du 28/09/2006 texte numéro 10
+Le classement de la quantité totale d'émissions de gaz à effet de serre se fait selon une échelle de sept classes, appelée "étiquette climat". La quantité d'émissions est croissante, partant de la classe A (la plus performante, figurant en mauve clair), à la classe G (la moins performante, figurant en mauve foncé).
 
 Les couleurs qui doivent être utilisées pour l'impression de l'étiquette énergie sont les suivantes :
 
-- pour la flèche représentant la classe A : 5 % cyan, 10 % magenta, 0 % jaune, 10 % noir ;
+- pour la section représentant la classe A : 5 % cyan, 10 % magenta, 0 % jaune, 10 % noir ;
 
-- pour la flèche représentant la classe B : 10 % cyan, 35 % magenta, 0 % jaune, 10 % noir ;
+- pour la section représentant la classe B : 10 % cyan, 35 % magenta, 0 % jaune, 10 % noir ;
 
-- pour la flèche représentant la classe C : 15 % cyan, 50 % magenta, 0 % jaune, 15 % noir ;
+- pour la section représentant la classe C : 15 % cyan, 50 % magenta, 0 % jaune, 15 % noir ;
 
-- pour la flèche représentant la classe D : 20 % cyan, 65 % magenta, 0 % jaune, 15 % noir ;
+- pour la section représentant la classe D : 20 % cyan, 65 % magenta, 0 % jaune, 15 % noir ;
 
-- pour la flèche représentant la classe E : 20 % cyan, 80 % magenta, 0 % jaune, 15 % noir ;
+- pour la section représentant la classe E : 20 % cyan, 80 % magenta, 0 % jaune, 15 % noir ;
 
-- pour la flèche représentant la classe F : 25 % cyan, 95 % magenta, 0 % jaune, 20 % noir ;
+- pour la section représentant la classe F : 25 % cyan, 95 % magenta, 0 % jaune, 20 % noir ;
 
-- pour la flèche représentant la classe G : 35 % cyan, 100 % magenta, 0 % jaune, 20 % noir ;
-
-- pour le contenu : 100 % cyan, 0 % magenta, 70 % jaune, 0 % noir.
-
-Tout le texte doit être rédigé en caractères noirs, à l'exception du curseur situant le niveau d'émissions dans l'échelle et du texte figurant en classe G, lesquels sont écrits en blanc. Le curseur comporte du texte blanc sur fond noir.
-
-Le fond de l'étiquette doit être blanc.
-
-Une reproduction lisible en noir et blanc de l'étiquette peut être produite, ainsi que de l'ensemble du diagnostic.
-
-L'étiquette climat mentionne les limites de classes comme définies au paragraphe 4.2.2 a.
-
-4.2.1 b. Cas des bâtiments à usage principal autre que d'habitation
-
-Pour les bâtiments à usage principal autre que d'habitation, le classement de la quantité totale d'émissions de gaz à effet de serre se fait dans une échelle de neuf classes, appelée étiquette climat . La quantité d'émissions est croissante, partant de la classe A (la plus performante, figurant en mauve clair), à la classe I (la moins performante, figurant en gris foncé).
-
-L'étiquette climat doit être conforme au modèle suivant (cliché non reproduit) :
-
-Vous pouvez consulter le cliché dans le JO n° 225 du 28/09/2006 texte numéro 10
-
-Les couleurs qui doivent être utilisées pour l'impression de l'étiquette énergie sont les suivantes :
-
-- pour la flèche représentant la classe A : 5 % cyan, 10 % magenta, 0 % jaune, 10 % noir ;
-
-- pour la flèche représentant la classe B : 10 % cyan, 35 % magenta, 0 % jaune, 10 % noir ;
-
-- pour la flèche représentant la classe C : 15 % cyan, 50 % magenta, 0 % jaune, 15 % noir ;
-
-- pour la flèche représentant la classe D : 20 % cyan, 65 % magenta, 0 % jaune, 15 % noir ;
-
-- pour la flèche représentant la classe E : 20 % cyan, 80 % magenta, 0 % jaune, 15 % noir ;
-
-- pour la flèche représentant la classe F : 25 % cyan, 95 % magenta, 0 % jaune, 20 % noir ;
-
-- pour la flèche représentant la classe G : 35 % cyan, 100 % magenta, 0 % jaune, 20 % noir ;
-
-- pour la flèche représentant la classe H : 50 % noir ;
-
-- pour la flèche représentant la classe I : 85 % noir ;
+- pour la section représentant la classe G : 35 % cyan, 100 % magenta, 0 % jaune, 20 % noir ;
 
 - pour le contenu : 100 % cyan, 0 % magenta, 70 % jaune, 0 % noir.
 
-Tout le texte doit être rédigé en caractères noirs, à l'exception du curseur situant le niveau d'émissions dans l'échelle et du texte figurant en classes G, H et I, lesquels sont écrits en blanc. Le curseur comporte du texte blanc sur fond noir.
-
-Le fond de l'étiquette doit être blanc.
+Tout le texte doit être rédigé en caractères noirs, à l'exception du curseur situant le niveau d'émission dans l'échelle et du texte situé dans la barre représentant la classe G. Ce curseur comporte du texte blanc sur fond noir, composé d'un nombre entier relatif issu de l'extraction de la partie entière du nombre calculé. Le fond de l'étiquette doit être blanc.
 
 Une reproduction lisible en noir et blanc de l'étiquette peut être produite, ainsi que de l'ensemble du diagnostic.
 
-L'étiquette climat mentionne les limites de classes comme définies au paragraphe 4.2.2 b.
+2.1.a. Cas des bâtiments à usage principal d'habitation
 
-4.2.2. Limites des classes de l'étiquette climat
+Pour les bâtiments à usage principal autre que d'habitation à l'exception des centres commerciaux, l'étiquette "climat" doit être conforme au modèle suivant :
 
-a) Pour les bâtiments à usage principal d'habitation
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120315&numTexte=6&pageDebut=04710&pageFin=04762
+
+L'étiquette climat mentionne les limites de classes comme définies au paragraphe 2.2.a.
+
+2.1.b. Cas des bâtiments à usage principal autre
+
+que d'habitation, à l'exception des centres commerciaux
+
+Pour les bâtiments à usage principal autre que d'habitation, l'étiquette "climat" doit être conforme au modèle suivant :
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120315&numTexte=6&pageDebut=04710&pageFin=04762
+
+L'étiquette climat mentionne les limites de classes comme définies au paragraphe 2.2.b.
+
+2.2. Limites des classes de l'étiquette climat
+
+2.2.a. Pour les bâtiments à usage principal d'habitation
 
 La structuration des classes de l'étiquette climat est la suivante :
 
-DÉSIGNATION
-
-de la classe
+DÉSIGNATION DE LA CLASSE
 
 |
 
 PLAGE DE CONSOMMATIONS
 
-(kgéqCO2/m2 an)
+(kgéqCO2/ m ². an)
 
 |
 
@@ -342,7 +308,7 @@ A
 
 |
 
-Inférieur ou égal à 5.
+inférieur ou égal à 5
 
 |
 
@@ -350,7 +316,7 @@ B
 
 |
 
-6 à 10.
+6 à 10
 
 |
 
@@ -358,7 +324,7 @@ C
 
 |
 
-11 à 20.
+11 à 20
 
 |
 
@@ -366,7 +332,7 @@ D
 
 |
 
-21 à 35.
+21 à 35
 
 |
 
@@ -374,7 +340,7 @@ E
 
 |
 
-36 à 55.
+36 à 55
 
 |
 
@@ -382,7 +348,7 @@ F
 
 |
 
-56 à 80.
+56 à 80
 
 |
 
@@ -390,23 +356,25 @@ G
 
 |
 
-Strictement supérieur à 80.
+Strictement supérieur à 80
 
 |
 
-b) Pour les bâtiments à usage principal autre que d'habitation
+2.2.b. Pour les bâtiments à usage principal autre
 
-La structuration des classes de l'étiquette climat est la suivante :
+que d'habitation, à l'exception des centres commerciaux
 
-DÉSIGNATION
+i) Bâtiments à usage principal de bureau, d'administration ou d'enseignement.
 
-de la classe
+Pour ces bâtiments, la structuration des classes de l'étiquette climat est la suivante :
+
+DÉSIGNATION DE LA CLASSE
 
 |
 
 PLAGE DE CONSOMMATIONS
 
-(kgéqCO2/m2 an)
+(kgéqCO2/ m ². an)
 
 |
 
@@ -414,7 +382,7 @@ A
 
 |
 
-Inférieur ou égal à 5.
+Inférieur ou égal à 5
 
 |
 
@@ -422,7 +390,7 @@ B
 
 |
 
-6 à 10.
+De 6 à 15
 
 |
 
@@ -430,7 +398,7 @@ C
 
 |
 
-11 à 20.
+De 16 à 30
 
 |
 
@@ -438,7 +406,7 @@ D
 
 |
 
-21 à 35.
+De 31 à 60
 
 |
 
@@ -446,7 +414,7 @@ E
 
 |
 
-36 à 55.
+De 61 à 100
 
 |
 
@@ -454,7 +422,7 @@ F
 
 |
 
-56 à 80.
+De 101 à 145
 
 |
 
@@ -462,22 +430,146 @@ G
 
 |
 
-81 à 110.
+Strictement supérieur à 145
 
 |
 
-H
+ii) Bâtiments à occupation continue (par exemple : hôpitaux, hôtels, internats, maisons de retraite, etc.).
+
+Pour ces bâtiments, la structuration des classes de l'étiquette climat est la suivante :
+
+DÉSIGNATION DE LA CLASSE
 
 |
 
-111 à 145.
+PLAGE DE CONSOMMATIONS
+
+(kgéqCO2/ m ². an)
 
 |
 
-I
+A
 
 |
 
-Strictement supérieur à 145.
+Inférieur ou égal à 12
+
+|
+
+B
+
+|
+
+De 13 à 30
+
+|
+
+C
+
+|
+
+De 31 à 65
+
+|
+
+D
+
+|
+
+De 66 à 110
+
+|
+
+E
+
+|
+
+De 111 à 160
+
+|
+
+F
+
+|
+
+De 161 à 220
+
+|
+
+G
+
+|
+
+Strictement supérieur à 220
+
+|
+
+iii) Autres bâtiments non mentionnés dans les deux précédents cas (par exemple : théâtres, salles de sport, restauration, commerces individuels, etc.).
+
+Pour ces bâtiments, la structuration des classes de l'étiquette climat est la suivante :
+
+DÉSIGNATION DE LA CLASSE
+
+|
+
+PLAGE DE CONSOMMATIONS
+
+(kgéqCO2/ m ². an)
+
+|
+
+A
+
+|
+
+Inférieur ou égal à 3
+
+|
+
+B
+
+|
+
+De 4 à 10
+
+|
+
+C
+
+|
+
+De 11 à 25
+
+|
+
+D
+
+|
+
+De 26 à 45
+
+|
+
+E
+
+|
+
+De 46 à 70
+
+|
+
+F
+
+|
+
+De 71 à 95
+
+|
+
+G
+
+|
+
+Strictement supérieur à 95
 
 |

@@ -1,32 +1,26 @@
 # Article Annexe 5
 
-BASE DE PRIX POUR L'ÉVALUATION CONVENTIONNELLE
+BASE DE PRIX POUR L'ÉVALUATION DES FRAIS
 
-DES FRAIS ANNUELS DE CONSOMMATION D'ÉNERGIE
+ANNUELS DE CONSOMMATION D'ÉNERGIE
 
-Pour le modèle 6.1 de diagnostic mentionné en annexe 6, la mention de la date de la version de l'arrêté utilisé pour les prix de l'énergie sera portée à côté de l'estimation des frais annuels d'énergie sur le diagnostic de performance énergétique.
+Lorsque le calcul est réalisé selon la méthode des consommations estimées, les frais annuels de la consommation d'énergie calculée sont, pour chaque type d'énergie utilisée pour le chauffage, la production d'eau chaude sanitaire et le refroidissement des locaux, le produit de la quantité d'énergie finale nécessaire par le prix du kWh, auquel est ajouté le coût de l'abonnement éventuel en fonction des classes de consommation et selon les barèmes figurant dans le tableau suivant. Ces frais sont estimés en faisant abstraction des autres usages de certaines énergies. Pour le propane et le gaz naturel, ces frais sont à calculer à partir des énergies consommées en kWh PCS et non en kWhEF.
 
-Les frais annuels de la consommation d'énergie calculée sont, pour chaque type d'énergie utilisée pour le chauffage, la production d'eau chaude sanitaire et le refroidissement des locaux, le produit de la quantité d'énergie finale nécessaire par le prix du kWh auquel est ajouté le coût de l'abonnement éventuel en fonction des classes de consommation et selon les barèmes figurant dans le tableau suivant. Ces frais sont estimés en faisant abstraction des autres usages de certaines énergies.
+Lorsque le calcul est réalisé selon la méthode des consommations relevées, les tarifs utilisés sont ceux indiqués sur les factures.
 
-Tableau des tarifs des énergies (15 août 2010)
+La date de la version de l'arrêté utilisé figure sur le diagnostic de performance énergétique, à côté des frais mentionnés à l'alinéa précédent.
 
-|
-
-ABONNEMENT
-
-(en euros TTC)
+Tableau des tarifs des énergies (15 août 2011)
 
 |
+
+ABONNEMENT (en euros TTC) |
 
 PRIX DU kWh
 
 (énergie finale)
 
-(en centimes d'euro TTC)
-
-Tarif au 15 août 2010
-
-|
+(en centimes d'euro TTC) |
 
 Fioul
 
@@ -34,7 +28,7 @@ Fioul
 
 |
 
-7,00
+8,63
 
 |
 
@@ -42,15 +36,11 @@ Chauffage urbain
 
 |
 
-Compris dans le prix du kWh
-
-indiqué à droite
+Compris dans le prix du kWh indiqué à droite
 
 |
 
-7,15
-
-(TVA à 5,5 % sur abonnement)
+7,48 (TVA à 5,5 % sur abonnement)
 
 |
 
@@ -60,7 +50,7 @@ Propane (en kWh PCS)
 
 |
 
-9,92
+12,96
 
 |
 
@@ -96,11 +86,11 @@ Gaz distribué (en kWh PCS) :
 
 |
 
-41,37
+44,69
 
 |
 
-8,66
+9,10
 
 |
 
@@ -108,11 +98,11 @@ Gaz distribué (en kWh PCS) :
 
 |
 
-54,91
+59,00
 
 |
 
-7,42
+7,75
 
 |
 
@@ -120,11 +110,11 @@ Gaz distribué (en kWh PCS) :
 
 |
 
-179,68
+186,86
 
 |
 
-4,99
+5,24
 
 |
 
@@ -132,11 +122,11 @@ Gaz distribué (en kWh PCS) :
 
 |
 
-179,68
+186,86
 
 |
 
-4,99
+5,24
 
 |
 
@@ -148,7 +138,7 @@ Electricité (les consommations indiquées concernent le chauffage, la productio
 
 |
 
-- simple tarif :
+- simple tarif
 
 |
 
@@ -160,11 +150,11 @@ Electricité (les consommations indiquées concernent le chauffage, la productio
 
 |
 
-83,12
+78,25
 
 |
 
-11,00
+11,86
 
 |
 
@@ -172,23 +162,23 @@ Electricité (les consommations indiquées concernent le chauffage, la productio
 
 |
 
-96,93
+91,25
 
 |
 
-11,25
+12,09
 
 |
 
-- double tarif :
+- double tarif
 
 |
 
 |
 
-Heures pleines (12,35)
+Heures pleines (13,11)/
 
-Heures creuses (7,84) (*)
+heures creuses (8,93) (*)
 
 |
 
@@ -196,11 +186,11 @@ Heures creuses (7,84) (*)
 
 |
 
-100,00
+94,06
 
 |
 
-10,55
+11,44
 
 |
 
@@ -208,11 +198,11 @@ Heures creuses (7,84) (*)
 
 |
 
-119,96
+112,87
 
 |
 
-10,55
+11,44
 
 |
 
@@ -220,11 +210,11 @@ Heures creuses (7,84) (*)
 
 |
 
-202,89
+191,59
 
 |
 
-10,55
+11,44
 
 |
 
@@ -232,23 +222,23 @@ Heures creuses (7,84) (*)
 
 |
 
-238,80
+225,47
 
 |
 
-10,55
+11,44
 
 |
 
-18 kVA
+18 kVA et plus
 
 |
 
-272,22
+257,19
 
 |
 
-10,55
+11,44
 
 |
 
