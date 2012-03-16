@@ -98,7 +98,7 @@ L'attribution de compensation est minorée, le cas échéant, du montant des rev
 
 L'attribution de compensation est également majorée d'une fraction de la contribution d'une commune définie à l'article L. 302-8 du code de la construction et de l'habitation, à condition que l'établissement public de coopération intercommunale ait, dans les conditions prévues à l'article L. 302-7 du même code, perçu le prélèvement visé à cet article et que cette fraction soit affectée à la réalisation d'opérations de logements locatifs sociaux. Cette fraction est égale à la part du potentiel fiscal de la cotisation foncière des entreprises dans le potentiel fiscal de la commune.
 
-L'attribution de compensation est majorée, le cas échéant, du produit de la réduction de taux de taxe d'habitation prévue au VII de l'article 1638 quater par les bases de taxe d'habitation de la commune l'année précédant celle de son rattachement à l'établissement public de coopération intercommunale.
+L'attribution de compensation est majorée du produit de la réduction de taux de taxe d'habitation prévue, selon le cas, au VII de l'article 1638 quater ou au IV de l'article 1638-0 bis par les bases de taxe d'habitation de la commune l'année de son rattachement à l'établissement public de coopération intercommunale.
 
 Toutefois, lorsqu'une commune cesse d'appartenir à un établissement public de coopération intercommunale faisant application du régime fiscal du présent article pour adhérer à un autre établissement public de coopération intercommunale faisant application du même régime fiscal, le produit de cotisation foncière des entreprises est majoré du montant perçu, l'année de cette modification, par l'établissement public de coopération intercommunale auquel elle a cessé d'appartenir, au titre de la part de la dotation de compensation prévue à l'article L. 5211-28-1 du code général des collectivités territoriales correspondant au montant antérieurement versé en application du I du D de l'article 44 de la loi de finances pour 1999 précitée. L'organe délibérant de l'établissement public de coopération intercommunale transmet chaque année au représentant de l'Etat dans le département un rapport sur l'application de la première phrase du septième alinéa.
 
@@ -162,6 +162,6 @@ IX. Les dispositions des I à VIII sont applicables aux communautés de communes
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 77-2.1.7 de la loi n° 2009-1673 du 30 décembre 2009 et de l'article 108 XI C de la loi n° 2010-1657 du 29 décembre 2010.
-
 (1) Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 44 B 1 : les dispositions de l'article 1609 nonies C telles qu'elles résultent de l'article 44 IX 2 entrent en vigueur au 1er janvier 2011.
+
+Loi n° 2012-354 du 14 mars 2012 de finances rectificative pour 2012 article 29 : Les présentes dispositions s'appliquent sans nouvelle délibération des communes concernées, à compter des taux et abattements votés pour 2012.
