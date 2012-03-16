@@ -20,29 +20,27 @@ DEUXIÈME COLLÈGE
 
 |
 
+Elus
+
+|
+
+Nommés
+
+|
+
+Elus
+
+|
+
+Nommés
+
+|
+
 I
 
 |
 
 01
-
-|
-
-|
-
-Elus
-
-|
-
-Nommés
-
-|
-
-Elus
-
-|
-
-Nommés
 
 |
 
@@ -614,7 +612,9 @@ Suppléants
 
 |
 
-Langues et littératures anglaises et anglo-saxonnes
+Langues et littératures
+
+anglaises et anglo-saxonnes
 
 |
 
@@ -670,7 +670,9 @@ Suppléants
 
 |
 
-Langues et littératures germaniques et scandinaves
+Langues et littératures
+
+germaniques et scandinaves
 
 |
 
@@ -782,7 +784,9 @@ Suppléants
 
 |
 
-Langues et littératures romanes : espagnol, italien, portugais, autres langues romanes
+Langues et littératures romanes :
+
+espagnol, italien, portugais, autres langues romanes
 
 |
 
@@ -898,7 +902,9 @@ IV
 
 |
 
-Psychologie, psychologie clinique, psychologie sociale
+Psychologie, psychologie clinique,
+
+psychologie sociale
 
 |
 
@@ -1122,7 +1128,9 @@ Suppléants
 
 |
 
-Anthropologie biologique, ethnologie, préhistoire
+Anthropologie biologique,
+
+ethnologie, préhistoire
 
 |
 
@@ -1178,7 +1186,9 @@ Suppléants
 
 |
 
-Histoire, civilisation, archéologie et art des mondes anciens et médiévaux
+Histoire, civilisation,
+
+archéologie et art des mondes anciens et médiévaux
 
 |
 
@@ -1290,7 +1300,9 @@ Suppléants
 
 |
 
-Géographie physique, humaine, économique et régionale
+Géographie physique, humaine,
+
+économique et régionale
 
 |
 
@@ -1462,7 +1474,9 @@ Suppléants
 
 |
 
-Mathématiques appliquées et applications des mathématiques
+Mathématiques appliquées
+
+et applications des mathématiques
 
 |
 
@@ -1978,7 +1992,9 @@ Suppléants
 
 |
 
-Structure et évolution de la Terre et des autres planètes
+Structure et évolution de la Terre
+
+et des autres planètes
 
 |
 
@@ -2090,7 +2106,9 @@ Suppléants
 
 |
 
-Météorologie, océanographie physique et physique de l'environnement
+Météorologie, océanographie
+
+physique et physique de l'environnement
 
 |
 
@@ -2150,7 +2168,9 @@ IX
 
 |
 
-Mécanique, génie mécanique, génie civil
+Mécanique, génie mécanique,
+
+génie civil
 
 |
 
@@ -2206,7 +2226,9 @@ Suppléants
 
 |
 
-Génie informatique, automatique et traitement du signal
+Génie informatique, automatique
+
+et traitement du signal
 
 |
 
@@ -2318,7 +2340,9 @@ Suppléants
 
 |
 
-Génie électrique, électronique, photonique et systèmes
+Génie électrique, électronique,
+
+photonique et systèmes
 
 |
 
@@ -2774,7 +2798,9 @@ Suppléants
 
 |
 
-Sciences de l'information et de la communication
+Sciences de l'information
+
+et de la communication
 
 |
 
@@ -2830,7 +2856,9 @@ Suppléants
 
 |
 
-Epistémologie, histoire des sciences et des techniques
+Epistémologie, histoire des sciences
+
+et des techniques
 
 |
 
@@ -2942,7 +2970,9 @@ Suppléants
 
 |
 
-Sciences et techniques des activités physiques et sportives
+Sciences et techniques des activités
+
+physiques et sportives
 
 |
 
@@ -2994,6 +3024,58 @@ Suppléants
 
 |
 
-NOTA :
+75
 
-Arrêté du 23 décembre 2010 article 2 : Les dispositions du présent arrêté entrent en vigueur à compter du prochain renouvellement des membres du Conseil national des universités (25 octobre 2011).
+|
+
+Criminologie
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Titulaires
+
+|
+
+6
+
+|
+
+3
+
+|
+
+6
+
+|
+
+3
+
+|
+
+Suppléants
+
+|
+
+6
+
+|
+
+3
+
+|
+
+6
+
+|
+
+3
+
+|
