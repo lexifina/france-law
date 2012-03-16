@@ -8,13 +8,13 @@ Procédure de sanction
 
 1.1. Procédure préalable d'avertissement
 
-La CPAM qui constate le non-respect par un médecin des dispositions de la convention, lui adresse un avertissement par lettre recommandée avec accusé réception. Cet avertissement doit comporter l'ensemble des anomalies reprochées au professionnel. Le médecin dispose d'un délai d'un mois à compter de cet avertissement pour modifier sa pratique.
+La CPAM qui constate le non-respect par un médecin des dispositions de la convention, lui adresse un avertissement par lettre recommandée avec accusé réception. Cet avertissement doit comporter l'ensemble des anomalies reprochées au professionnel. Le médecin dispose d'un délai d'un mois à compter de cet avertissement pour modifier sa pratique. Dans le cas du non-respect de manière systématique de l'obligation de transmission électronique des documents de facturation posée à l'article L. 161-35 du code de la sécurité sociale, le médecin dispose d'un délai de trois mois à compter de cet avertissement pour modifier sa pratique.
 
 1.2. Relevé de constatation préalable à la convocation de la CPL
 
-Si, à l'issue d'un délai d'au moins un mois à compter de la réception du courrier d'avertissement, il est constaté que le médecin n'a pas modifié sa pratique, la CPAM, pour le compte des organismes des autres régimes de son ressort géographique, communique le relevé des constatations au médecin concerné par lettre recommandée avec accusé de réception, avec copie adressée aux présidents des deux sections de la CPL.
+Si, à l'issue d'un délai d'au moins un mois ou de trois mois en cas de non-respect de manière systématique de l'obligation de transmission électronique des documents de facturation à compter de la réception du courrier d'avertissement, il est constaté que le médecin n'a pas modifié sa pratique, la CPAM, pour le compte des organismes des autres régimes de son ressort géographique, communique le relevé des constatations au médecin concerné par lettre recommandée avec accusé de réception, avec copie adressée aux présidents des deux sections de la CPL.
 
-La CPAM procèdera à ce même envoi et la procédure d'avertissement sera réputée effectuée si, dans un délai d`un an suivant la réception du courrier d'avertissement non suivi de sanction, le médecin a renouvelé les mêmes faits reprochés.
+La CPAM procèdera à ce même envoi et la procédure d'avertissement sera réputée effectuée si, dans un délai d'un an suivant la réception du courrier d'avertissement non suivi de sanction, le médecin a renouvelé les mêmes faits reprochés.
 
 Le relevé des constatations détaille les manquements reprochés au médecin, expose les sanctions encourues et précise les délais de réponse et la possibilité d'entretien et de transmission d'observations écrites prévus aux alinéas suivants.
 
@@ -34,13 +34,13 @@ L'avis rédigé par le secrétariat de la commission est adressé dans les quinz
 
 A l'issue de ces délais l'avis de la CPL est réputé rendu.
 
-Lorsque la CPL en formation plénière juge nécessaire de recueillir auprès du praticien concerné, des éléments d'information relatifs à sa pratique médicale, le relevé de constatations est transmis à la "formation médecins " de la CPL (article 74-1 de la convention). Dans ce cas, la CPL en formation plénière ne rend pas d'avis.
+Lorsque la CPL en formation plénière juge nécessaire de recueillir auprès du praticien concerné, des éléments d'information relatifs à sa pratique médicale, le relevé de constatations est transmis à la "formation médecins" de la CPL (article 74-1 de la convention). Dans ce cas, la CPL en formation plénière ne rend pas d'avis.
 
 La formation "médecin" doit se réunir dans le mois qui suit la tenue de la réunion de la CPL en formation plénière.
 
 Dans un délai minimal de quinze jours précédant la réunion de la "formation médecin" de la CPL, le médecin est invité par lettre recommandée avec accusé de réception à être entendu par la commission et à fournir les explications qu'il juge utiles. A cette occasion, il peut se faire assister par un confrère ou un avocat de son choix. Il peut envoyer des observations écrites à la commission en "formation médecin" au plus tard trois jours avant la date de la réunion.
 
-La CPL en "formation médecins " émet en séance un avis sur la décision à prendre.
+La CPL en "formation médecins" émet en séance un avis sur la décision à prendre.
 
 L'avis rédigé par le secrétariat de la commission est adressé dans les quinze jours suivant la réunion au président et au vice-président. Il appartient à ces derniers de signer cet avis dans les sept jours suivant sa réception.
 
@@ -56,13 +56,13 @@ Il notifie au professionnel, pour le compte des autres régimes, l'éventuelle m
 
 Cette notification qui doit être motivée, précise les voies et délais de recours dont dispose le médecin pour contester la décision, ainsi que sa date d'entrée en application. Celle-ci ne peut intervenir qu'après deux mois à compter de la date de notification. La décision est alors exécutoire sauf cas de recours devant la CPR ou la CPN dans les cas visés à l'article 78 et dans les conditions de l'article 2 de la présente annexe.
 
+Dans le cas d'une sanction prononcée à l'encontre des médecins exerçant dans le secteur à honoraires différents ou titulaires du droit à dépassement permanent pour non-respect de manière systématique de l'obligation de transmission électronique des documents de facturation, la notification précise qu'à défaut de paiement de la sanction dans le délai imparti le directeur de la caisse procède à son recouvrement dans les conditions de droit commun.
+
 Article 2
 
 Procédure de recours conventionnel
 
-2.1. Dispositif de recours consultatif
-
-devant la commission paritaire régionale
+2.1. Dispositif de recours consultatif devant la commission paritaire régionale
 
 2.1.1. Cas d'appel devant la commission paritaire régionale
 
@@ -70,7 +70,9 @@ Lorsqu'un médecin fait l'objet d'une décision de :
 
 - mise hors convention d'une durée inférieure ou égale à un mois ou ;
 
-- d'une décision de suspension de la prise en charge des cotisations sociales d'une durée inférieure ou égale à six mois,
+- d'une décision de suspension de la prise en charge des cotisations sociales d'une durée inférieure ou égale à six mois ;
+
+- de suspension de la participation de l'assurance maladie aux cotisations sociales ou d'une sanction financière équivalente dans les conditions définies à l'article 76, en cas de non-respect de manière systématique de l'obligation de transmission électronique des documents de facturation posée à l'article L. 161-35 du code de la sécurité sociale ;
 
 il peut saisir la commission paritaire régionale à titre de commission d'appel.
 
@@ -82,9 +84,7 @@ La saisine par le médecin doit intervenir dans un délai de deux mois suivant l
 
 Elle est adressée par lettre recommandée avec accusé de réception au président de la commission paritaire régionale.
 
-2.2. Dispositif de recours consultatif
-
-devant la commission paritaire nationale
+2.2. Dispositif de recours consultatif devant la commission paritaire nationale
 
 2.2.1. Cas d'appel devant la commission paritaire nationale
 
@@ -136,9 +136,7 @@ Il s'agit d'un avis simple qui ne lie pas les directeurs des caisses.
 
 L'avis de la commission d'appel est motivé. Il est transmis au médecin qui l'a saisie ainsi qu'aux directeurs des caisses qui ont décidé de la première sanction notifiée par courrier avec accusé de réception dans un délai de trente jours suivant la date de réunion de la commission.
 
-2.3.5. Notification de la décision par les caisses
-
-à l'issue du recours consultatif
+2.3.5. Notification de la décision par les caisses à l'issue du recours consultatif
 
 A l'issue du recours consultatif devant la commission d'appel, les directeurs des caisses qui ont décidé de la première sanction peuvent alors décider de :
 
@@ -148,7 +146,7 @@ A l'issue du recours consultatif devant la commission d'appel, les directeurs de
 
 La décision définitive est notifiée au médecin, pour le compte des autres régimes, par le directeur de la caisse primaire d'assurance maladie, par lettre recommandée avec accusé de réception, dans un délai de trente jours à compter de la réception de l'avis de la commission d'appel.
 
-Cette notification précise les voies et délais de recours dont dispose le médecin pour contester la décision devant la juridiction compétente, ainsi que la date d'application de celle-ci.
+Cette notification précise les voies et délais de recours dont dispose le médecin pour contester la décision devant la juridiction compétente, ainsi que la date d'application de celle-ci. Dans le cas d'une sanction prononcée à l'encontre des médecins exerçant dans le secteur à honoraires différents ou titulaires du droit à dépassement permanent pour non-respect de manière systématique de l'obligation de transmission électronique des documents de facturation, la notification précise qu'à défaut de paiement de la sanction dans le délai imparti le directeur de la caisse procède à son recouvrement dans les conditions de droit commun.
 
 Article 3
 

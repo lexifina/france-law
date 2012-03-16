@@ -1404,7 +1404,9 @@ Le non-respect des dispositions conventionnelles peut notamment porter sur :
 
 - le non-respect, de façon répétée, de la liste visée à l'article L. 162-1-7 du code de la sécurité sociale ;
 
-- le non-respect du droit à la dispense d'avance des frais au profit des bénéficiaires de la CMUC et de l'ACS.
+- le non-respect du droit à la dispense d'avance des frais au profit des bénéficiaires de la CMUC et de l'ACS .
+
+- le non-respect de manière systématique de l'obligation de transmission électronique à l'assurance maladie, posée à l'article L. 161-35 du code de la sécurité sociale, des documents de facturation des actes et prestations .
 
 La procédure conventionnelle applicable en cas de manquement imputable à un médecin est décrite à l'annexe XXII de la présente convention.
 
@@ -1419,6 +1421,8 @@ Les sanctions susceptibles d'être prononcées à l'encontre d'un médecin sont 
 - suspension du droit à pratiquer des dépassements autorisés plafonnés (DA) tels que définis à l'article 34.1, cette mesure ne pouvant être prononcée qu'en cas de non-respect des limites de dépassements fixées par la présente convention ;
 
 - suspension de la ou des participations des caisses à la prise en charge des avantages sociaux pour les médecins en bénéficiant. La suspension de la ou des participation(s) des caisses est de un, trois, six ou douze mois ;
+
+- suspension de la participation des caisses aux avantages sociaux pour les médecins exerçant en secteur à honoraires opposables d'une durée de trois mois en cas de non-respect de manière systématique de l'obligation de transmission électronique des documents de facturation posée à l'article L. 161-35 du code de la sécurité sociale. Pour les médecins exerçant dans le secteur à honoraires différents ou titulaires du droit à dépassement permanent, cette sanction est d'un montant équivalent à la participation que supporteraient les caisses au financement de leurs avantages sociaux, sur une durée de trois mois, dans les conditions définies aux articles 60 et suivants de la convention, s'ils exerçaient en secteur à honoraires opposables. Dans le cas où ce manquement est de nouveau constaté après qu'une sanction, devenue définitive, a déjà été prononcée pour le même motif, cette sanction peut être portée à six mois de suspension de la participation de l'assurance maladie aux avantages sociaux ou équivalent pour les médecins exerçant dans le secteur à honoraires différents ou titulaires du droit à dépassement permanent ;
 
 - suspension de la possibilité d'exercer dans le cadre de la convention avec ou sans sursis. Cette suspension peut être temporaire ou prononcée pour la durée d'application de la présente convention (jusqu'à la date de renouvellement de la convention), selon l'importance des griefs.
 
@@ -1442,7 +1446,9 @@ Le médecin a la possibilité de présenter un recours consultatif auprès de la
 
 - mise hors convention d'une durée inférieure ou égale à un mois ;
 
-- suspension de la prise en charge des cotisations sociales d'une durée inférieure ou égale à six mois.
+- suspension de la prise en charge des cotisations sociales d'une durée inférieure ou égale à six mois ;
+
+- suspension de la participation de l'assurance maladie aux cotisations sociales ou sanction financière équivalente dans les conditions définies à l'article 76, en cas de non-respect de manière systématique de l'obligation de transmission électronique des documents de facturation posée à l'article L. 161-35 du code de la sécurité sociale.
 
 Le médecin a la possibilité de présenter un recours consultatif auprès de la CPN contre toute sanction de :
 
