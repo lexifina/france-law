@@ -12,9 +12,9 @@ CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
 NOMBRE
 
-total de
+total
 
-titulaires
+de titulaires
 
 |
 
@@ -462,7 +462,9 @@ CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
 NOMBRE
 
-total de
+total
+
+de
 
 titulaires
 
@@ -832,6 +834,18 @@ V. - Equipage de la flotte
 
 5.1. Quartiers-maîtres de 1re classe
 
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 5.2. Matelots et quartiers-maîtres de 2e classe
 
 |
@@ -894,9 +908,9 @@ CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
 NOMBRE
 
-total de
+total
 
-titulaires
+de titulaires
 
 |
 
@@ -1244,11 +1258,7 @@ II. - Officiers subalternes
 
 |
 
-III. - Sous-officiers et militaires du rang affectés au sein
-
-d'une base aérienne ou au sein d'une base de défense,
-
-support de base aérienne
+III. - Sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense, support de base aérienne
 
 |
 
@@ -1382,11 +1392,7 @@ support de base aérienne
 
 |
 
-IV. - Sous-officiers et militaires du rang affectés
-
-en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés
-
-(non rattachés à une base aérienne)
+IV. - Sous-officiers et militaires du rang affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés (non rattachés à une base aérienne)
 
 |
 
@@ -1532,7 +1538,7 @@ Application du critère géographique :
 
 - sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense, support de base aérienne.
 
-L'ensemble des suppléants des corps et catégories de personnel constitue un pool qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant :
+L'ensemble des suppléants des corps et catégories de personnel constitue un "pool" qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant :
 
 - critère géographique ou spécialité ;
 
@@ -1558,7 +1564,9 @@ CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
 NOMBRE
 
-total de
+total
+
+de
 
 titulaires
 
@@ -1642,7 +1650,7 @@ I. - Officiers supérieurs
 
 |
 
-3
+3 (a)
 
 |
 
@@ -1782,15 +1790,15 @@ III. - Majors, gradés ou sous-officiers supérieurs
 
 |
 
-1
+1 (b)
 
 |
 
-1
+1 (b)
 
 |
 
-3
+3 (b)
 
 |
 
@@ -1892,11 +1900,11 @@ Application du critère géographique :
 
 (*) Sous-officiers de gendarmerie : tirage au sort au niveau des formations administratives ou groupe de formations administratives :
 
-- pour la gendarmerie départementale : 1 représentant pour chacune des 22 régions de gendarmerie ; 1 membre supplémentaire, de groupes différents, pour les 14 régions de gendarmerie ayant l'effectif de gendarmes départementaux le plus important.
+- pour la gendarmerie départementale : 1 représentant pour chacune des 22 régions de gendarmerie ; 1 membre supplémentaire, de groupe différent, pour les 14 régions de gendarmerie ayant l'effectif de gendarmes départementaux le plus important.
 
-- pour la gendarmerie mobile : 2 représentants, de groupes différents, par région de gendarmerie située au siège d'une zone de défense, à l'exception de celle de l'Ile-de-France, 4 représentants pour la région de gendarmerie d'Ile-de-France, dont 2, de groupes différents, pour l'ensemble des groupements de gendarmerie mobile et 2, de groupes différents, pour la garde républicaine.
+- pour la gendarmerie mobile : 2 représentants, de groupe différent, par région de gendarmerie située au siège d'une zone de défense, à l'exception de celle de l'Ile-de-France, 4 représentants pour la région de gendarmerie d'Ile-de-France dont 2, de groupe différent, pour l'ensemble des groupements de gendarmerie mobile et 2, de groupe différent, pour la garde républicaine.
 
-A défaut total ou partiel de volontaires au niveau de l'une ou de plusieurs des formations administratives de la gendarmerie mobile, les sièges titulaires ou suppléants non pourvus sont tirés au sort au niveau national, sans considération de critère géographique.
+A défaut total ou partiel de volontaires au niveau de l'une ou de plusieurs des formations administratives de la gendarmerie mobile, les sièges titulaires ou suppléants non pourvus sont tirés au sort au niveau national, sans considération de critère géographique ;
 
 - 1 représentant pour chacune des 4 gendarmeries spécialisées ;
 
@@ -1909,6 +1917,8 @@ A défaut total ou partiel de volontaires au niveau de l'une ou de plusieurs des
 (**) Autres catégories : tirage au sort au niveau national.
 
 (a) Ce poste doit être attribué en priorité à un officier du corps technique et administratif de la gendarmerie.
+
+(b) A défaut, sous-officier supérieur CSTAGN.
 
 Nota. - Officiers autres corps : officiers du corps technique et administratif de la gendarmerie, officiers greffiers, officiers sous contrat.
 
@@ -1924,7 +1934,9 @@ CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
 NOMBRE
 
-total de
+total
+
+de
 
 titulaires
 
@@ -2164,7 +2176,9 @@ CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
 NOMBRE
 
-total de
+total
+
+de
 
 titulaires
 
@@ -2198,7 +2212,7 @@ Suppléants
 
 |
 
-I. - Officiers supérieurs
+I. - Médecins, pharmaciens et OCTASSA, officiers supérieurs
 
 |
 
@@ -2308,7 +2322,9 @@ I. - Officiers supérieurs
 
 |
 
-II. - Officiers subalternes
+II. - Médecins, pharmaciens, internes et OCTASSA,
+
+officiers subalternes
 
 |
 
@@ -2442,7 +2458,7 @@ II. - Officiers subalternes
 
 |
 
-III. - Vétérinaires des armées
+III. - Vétérinaires (1)
 
 |
 
@@ -2480,7 +2496,7 @@ III. - Vétérinaires des armées
 
 |
 
-IV. - Chirurgiens-dentistes des armées
+IV. - Chirurgiens-dentistes (1)
 
 |
 
@@ -2518,9 +2534,9 @@ IV. - Chirurgiens-dentistes des armées
 
 |
 
-V. - MITHA soumis aux lois et règlements
+V. - MITHA soumis aux lois
 
-applicables aux officiers
+et règlements applicables aux officiers
 
 |
 
@@ -2558,9 +2574,9 @@ applicables aux officiers
 
 |
 
-VI. - MITHA soumis aux lois et règlements
+VI. - MITHA soumis aux lois
 
-applicables aux sous-officiers
+et règlements applicables aux sous-officiers
 
 |
 
@@ -2622,7 +2638,7 @@ applicables aux sous-officiers
 
 |
 
-6.3. MITHA autres non infirmiers
+6.3. MITHA non infirmiers
 
 |
 
@@ -2746,6 +2762,10 @@ Total
 
 |
 
+(1) Indifféremment officiers supérieurs ou subalternes.
+
+|
+
 g) Service des essences des armées
 
 Composition du conseil de la fonction militaire du service des essences des armées
@@ -2756,7 +2776,9 @@ CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
 NOMBRE
 
-total de
+total
+
+de
 
 titulaires
 
@@ -2790,7 +2812,7 @@ Suppléants
 
 |
 
-I. - Officiers
+I. - Officiers supérieurs
 
 |
 
@@ -2828,21 +2850,7 @@ I. - Officiers
 
 |
 
-Corps technique et administratif du SEA
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1.2. Officiers supérieurs
+1.2. Officiers supérieurs du corps technique et administratif
 
 |
 
@@ -2866,7 +2874,21 @@ Corps technique et administratif du SEA
 
 |
 
-1.3. Officiers subalternes
+II. - Officiers subalternes
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2.1. Officiers subalternes du corps technique et administratif
 
 |
 
@@ -2890,7 +2912,7 @@ Corps technique et administratif du SEA
 
 |
 
-II. - Sous-officiers
+III. - Sous-officiers
 
 |
 
@@ -2904,7 +2926,7 @@ II. - Sous-officiers
 
 |
 
-2.1. Sous-officiers supérieurs
+3.1. Sous-officiers supérieurs
 
 |
 
@@ -2928,7 +2950,7 @@ II. - Sous-officiers
 
 |
 
-2.2. Sous-officiers subalternes
+3.2. Sous-officiers subalternes
 
 |
 
@@ -2952,7 +2974,7 @@ II. - Sous-officiers
 
 |
 
-III. - Militaires du rang
+IV. - Militaires du rang
 
 |
 
@@ -2966,7 +2988,7 @@ III. - Militaires du rang
 
 |
 
-3.1. Militaires du rang engagés
+4.1. Militaires du rang
 
 |
 

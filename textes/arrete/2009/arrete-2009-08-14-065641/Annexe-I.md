@@ -36,15 +36,17 @@ ARMEMENT
 
 SERVICE
 
-de santé
+de santé des
 
-des armées
+armées
 
 |
 
 SERVICE
 
-des essences
+des
+
+essences
 
 des armées
 
@@ -612,9 +614,7 @@ Total global
 
 Composition du groupe A du CSFM
 
-CATÉGORIES
-
-de militaires
+CATÉGORIES de militaires
 
 |
 
@@ -644,17 +644,19 @@ ARMEMENT
 
 SERVICE
 
-de santé
+de santé des
 
-des armées
+armées
 
 |
 
 SERVICE
 
-des essences
+des
 
-des armées
+essences des
+
+armées
 
 |
 
@@ -850,7 +852,7 @@ Sous-officiers ou officiers mariniers supérieurs et gradés de la gendarmerie
 
 |
 
-3
+3 (a)
 
 |
 
@@ -942,7 +944,7 @@ Sous-officiers et officiers mariniers subalternes et gendarmes
 
 |
 
-3
+3 (b)
 
 |
 
@@ -1050,7 +1052,7 @@ Totaux
 
 |
 
-15
+15 (c)
 
 |
 
@@ -1186,11 +1188,19 @@ Total global
 
 |
 
-42
+44
 
 |
 
 141
+
+|
+
+(a) A titre transitoire et jusqu'au renouvellement du groupe B du CSFM en 2014, le nombre de titulaires représentant la catégorie sous-officiers supérieurs de l'armée de terre au sein du groupe A du CSFM sera de 2 au lieu de 3. Le troisième élu sera suppléant jusqu'à cette date.
+
+(b) A titre transitoire et jusqu'au renouvellement du groupe B du CSFM en 2014, le nombre de titulaires représentant la catégorie sous-officiers subalternes de l'armée de terre au sein du groupe A du CSFM sera de 1 au lieu de 3. Les deuxième et troisième élus seront suppléants jusqu'à cette date.
+
+(c) A titre transitoire et jusqu'au renouvellement du groupe B du CSFM en 2014, le nombre total de titulaires représentant l'armée de terre au sein du groupe A du CSFM sera de 12 au lieu de 15.
 
 |
 
@@ -1204,7 +1214,7 @@ de militaires
 
 ARMÉE
 
-de terre
+de terre (a)
 
 |
 
@@ -1230,15 +1240,19 @@ SERVICE
 
 de santé
 
-des armées
+des
+
+armées
 
 |
 
 SERVICE
 
-des essences
+des
 
-des armées
+essences des
+
+armées
 
 |
 
@@ -1803,5 +1817,9 @@ Total global
 |
 
 133
+
+|
+
+(a) A titre transitoire, la composition du groupe B de l'armée de terre prendra effet au renouvellement de ce groupe en 2014. Par ailleurs, le premier suppléant de la catégorie militaires du rang de l'armée de terre au sein du groupe B du CSFM élu en 2010 devient titulaire jusqu'au renouvellement du groupe B du CSFM en 2014. Enfin, le nombre total de titulaires représentant l'armée de terre au sein du groupe B du CSFM sera de 15 au lieu de 14 élus en 2010.
 
 |
