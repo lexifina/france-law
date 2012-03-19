@@ -1,0 +1,9 @@
+# Paris : acte 2012 DDEEES 5 — Subvention (3.384 euros) au Comité des Francs Bourgeois pour les illuminations de fêtes de fin d'année 2011 (3e).
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2012-03-19
+- Nature : PJ
+- Objet : Subvention (3.384 euros) au Comité des Francs Bourgeois pour les illuminations de fêtes de fin d'année 2011 (3e).
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
