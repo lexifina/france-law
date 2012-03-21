@@ -1,0 +1,100 @@
+# LOI n° 2012-376 du 20 mars 2012 relative à la majoration des droits à construire
+
+- Type : loi publiee
+- Législature : XIIIème législature
+- Ouvert le : 2012-03-21
+- Mis à jour le : 2012-03-21
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000025344180
+
+## Exposé des motifs
+
+La mesure proposée, en complément de l'action engagée pour accélérer la libération du foncier public, vise à encourager l'offre de logements en favorisant, par des allègements réglementaires, la densification des constructions.
+
+L'article unique porte sur le dispositif de majoration des règles de constructibilité applicables dans les collectivités dotées d'un plan local d'urbanisme, d'un plan d'occupation des sols ou d'un plan d'aménagement de zone.
+
+Ainsi, le I a pour objet de porter, dès l'entrée en vigueur de la loi, la majoration des règles de constructibilité prévue à l'article L. 123-1-11 du code de l'urbanisme, pour l'agrandissement et la construction de bâtiments à usage d'habitation, de 20 à 30 %. Une telle majoration est décidée en vertu d'une délibération expresse de la collectivité.
+
+Le II crée un article L. 123-1-11-1. Cet article prévoit, en l'absence d'une délibération prise en application de l'article L. 123-1-11, adoptée avant l'entrée en vigueur de la loi, une majoration de 30 % des règles de gabarit, de hauteur, d'emprise au sol ou de coefficient d'occupation des sols.
+
+Toutefois, cette majoration ne s'applique ni dans les zones les plus exposées au bruit autour des aéroports, ni dans les secteurs sauvegardés. Elle ne permet pas de modifier des règles édictées par une servitude d'utilité publique, notamment en matière de risques, de protection du patrimoine, ou de déroger aux lois sur le littoral et la montagne.
+
+Dans un délai de six mois à compter de l'entrée en vigueur de la loi, est organisée, dans chaque collectivité, une procédure d'information et de participation du public sur l'application, sur son territoire, de la majoration de 30 % des règles de constructibilité. A l'issue de cette procédure, la majoration de 30 % s'applique huit jours après la date de la séance au cours de laquelle la synthèse des observations du public a été présentée à l'organe délibérant de la collectivité et au plus tard neuf mois après l'entrée en vigueur de la loi, sauf si l'établissement public de coopération intercommunale ou la commune adopte une délibération contraire, sur tout ou partie de son territoire, ou fait application, de sa propre initiative, de la majoration prévue à l'article L. 123-1-11. Il peut être mis fin, de la même façon, à tout moment, à l'application de la majoration de 30 %. Une commune membre d'un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme peut, dans tous les cas, décider de l'application de la majoration de 30 % à son territoire ou, au contraire, d'en écarter l'application.
+
+La majoration des droits à construire de 30 % est applicable, s'il y a lieu, aux demandes de permis et aux déclarations déposées avant le 1er janvier 2016.
+
+## LOI n° 2012-376 du 20 mars 2012 relative à la majoration des droits à construire (Loi n'appelant pas de décret d'application)
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025545176
+
+## Projet de loi
+
+Article unique
+
+I. - Au sixième alinéa de l'article L. 123-1-11 du code de l'urbanisme, les taux : « 20 % » sont remplacés par les taux : « 30 % ».
+
+II. - Après l'article L. 123-1-11 du même code, il est inséré un article ainsi rédigé :
+
+« Art. L. 123-1-11-1. - I. - Les droits à construire résultant des règles de gabarit, de hauteur, d'emprise au sol ou de coefficient d'occupation des sols fixées par le plan local d'urbanisme, le plan d'occupation des sols ou le plan d'aménagement de zone sont majorés de 30 % pour permettre l'agrandissement ou la construction de bâtiments à usage d'habitation, dans les conditions prévues au présent article. Ces dispositions s'appliquent dans les communes dotées d'un plan local d'urbanisme, d'un plan d'occupation des sols ou d'un plan d'aménagement de zone en vigueur à la date de publication de la loi n° 2012-...... du ...... 2012.
+
+« La majoration de 30 % prévue au premier alinéa n'est applicable ni dans les zones A, B et C des plans d'exposition au bruit mentionnées à l'article L. 147-4, ni dans les secteurs sauvegardés. Elle ne peut avoir pour effet de modifier une règle édictée par l'une des servitudes d'utilité publique prévues à l'article L. 126-1, ni de déroger aux dispositions des chapitres V et VI du titre IV du livre Ier.
+
+« Elle ne s'applique pas si le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme a pris, avant l'entrée en vigueur de la loi n° 2012-...... du ...... 2012 relative à la majoration des droits à construire, une délibération faisant application du sixième alinéa de l'article L. 123-1-11.
+
+« II. - Dans un délai de six mois à compter de l'entrée en vigueur de la loi n° 2012-...... du ...... 2012 relative à la majoration des droits à construire, l'autorité compétente, en application de l'article L. 123-6, pour élaborer le plan local d'urbanisme, met à la disposition du public un document présentant les conséquences de l'application de la majoration de 30 % prévue au I sur le territoire de la ou des communes concernées et évaluant son impact sur la réalisation des objectifs mentionnés à l'article L. 121-1. Le public dispose d'un délai d'un mois pour formuler ses observations à compter de la mise à disposition.
+
+« Les modalités de la consultation du public prévue à l'alinéa précédent et du recueil et de la conservation de ses observations sont précisées, selon le cas, par le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale compétent et portées à la connaissance du public au moins huit jours avant le début de cette consultation. Elles peuvent prendre la forme d'une mise en ligne du dossier de consultation ou d'une présentation au cours d'une réunion publique.
+
+« A l'issue de la mise à disposition, le président de l'établissement public ou le maire présente la synthèse des observations du public devant l'organe délibérant de l'établissement public ou devant le conseil municipal. Cette synthèse est publiée dans les conditions prévues pour la publication des documents modifiant les règles d'urbanisme.
+
+« III. - La majoration mentionnée au premier alinéa est applicable huit jours après la date de la séance au cours de laquelle la synthèse des observations du public a été présentée à l'organe délibérant de l'établissement public de coopération intercommunale ou au conseil municipal et au plus tard à l'expiration d'un délai de neuf mois à compter de l'entrée en vigueur de la loi n° 2012 ...... du ...... 2012 relative à la majoration des droits à construire, sauf si l'organe délibérant de l'établissement public de coopération intercommunale ou, dans le cas prévu par le deuxième alinéa de l'article L. 123-6, le conseil municipal décide, au vu des résultats de la consultation du public prévue aux alinéas précédents, qu'elle ne s'appliquera pas sur tout ou partie du territoire de la ou des communes concernées ou s'il adopte la délibération prévue par le 6ème alinéa de l'article L. 123 1-11.
+
+« A tout moment, le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale compétent peut mettre fin à l'application de la majoration prévue au I sur tout ou partie du territoire de la commune ou des communes concernées. Il en va de même s'il décide d'adopter la délibération prévue par le sixième alinéa de l'article L. 123-1-11. Dans les deux cas, cette délibération est précédée de la consultation du public prévue respectivement par les dispositions du II du présent article ou du sixième alinéa de l'article L. 123-1-11.
+
+« Les communes membres d'un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme peuvent décider d'appliquer la majoration prévue au I sur leur territoire, nonobstant toute délibération contraire de l'établissement public, ou d'écarter cette application.
+
+« IV. - Les dispositions du présent article s'appliquent aux demandes de permis et aux déclarations déposées, en application de l'article L. 423-1, avant le 1er janvier 2016. »
+
+III. - L'article L. 128-3 du même code est complété par un alinéa ainsi rédigé :
+
+« Il en est de même de l'application combinée des articles L. 123-1-11-1, L. 127-1, L. 128-1 et L. 128-2. »
+
+## Documents
+
+- [Etude d'impact](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/etudes-d-impact-des-lois/ei_art_39_2012/ei_majoration_droits_construire_cm_08.02.2012.pdf.pdf)
+- [Communiqué de presse du Conseil des ministres du 8 février 2012](http://archives.gouvernement.fr/fillon_version2/gouvernement/majoration-des-droits-a-construire.html) Le secrétaire d’État auprès de la ministre de l’écologie, du développement durable, des transports et du logement, chargé du logement, a présenté un projet de loi relatif à la majoration des droits à construire. Soutenue par une démographie dynamique, la demande de logement se heurte aujourd’hui à une pénurie d’offre. Pour y répondre, le texte introduit des dispositions de nature à faciliter la construction de nouveaux logements et l’agrandissement de logements existants. A cette fin, le projet de loi majore de 30 % les droits à construire qui résultent de l’application des règles des plans d’occupation des sols et des plans locaux d’urbanisme afférentes au gabarit, à la hauteur, à l’emprise au sol et au coefficient d’occupation des sols. La mesure permettra donc de construire 130 logements sur un terrain où les documents d’urbanisme limitent aujourd’hui la constructibilité à 100 logements, ou d’étendre de 30 m² la superficie d’un logement de 100 m². Elle sera cumulable avec les mécanismes de majoration déjà existants pour encourager la construction de logements sociaux et de logements performants sur le plan énergétique. Les règles applicables en matière de permis de construire seront maintenues. Limitée dans le temps (trois ans), cette mesure de soutien du secteur de la construction complète la réduction du coût du travail et la libération de terrains publics, mesures déjà annoncées par le Président de la République. Elle contribue à la politique de préservation des terres agricoles et naturelles, puisqu’une construction plus dense diminue l’étalement urbain. Elle tient compte des contraintes nées de la protection du patrimoine et des espaces naturels, de la prévention des risques et des nuisances. Afin de garantir le respect du principe de libre administration des collectivités locales, le projet de loi prévoit la possibilité pour une commune ou un établissement public de coopération intercommunale (EPCI) de s’opposer, par une délibération expresse, à l’entrée en vigueur automatique de la mesure sur tout ou partie de son territoire. Afin d’éclairer le choix des organes délibérants, le projet de loi prévoit préalablement la mise à disposition du public d’un document de synthèse sur l’impact local de la mesure. Celle-ci entre en vigueur huit jours après la présentation au conseil municipal ou communautaire des résultats de la consultation du public, ou au plus tard dans un délai de neuf mois après la promulgation de la loi. Si les communes et les EPCI saisissent les possibilités offertes par ce texte, elles ouvriront un potentiel de constructions supplémentaires de 40 000 logements par an.
+- [Texte adopté en 1ère lecture par l'Assemblée nationale le 22 février 2012](http://www.assemblee-nationale.fr/13/ta/ta0863.asp)
+- [Texte modifié en 1ère lecture par le Sénat le 29 février 2012](http://www.senat.fr/petite-loi-ameli/2011-2012/437.html)
+- [Texte adopté en nouvelle lecture par l'Assemblée nationale le 5 mars 2012](http://www.assemblee-nationale.fr/13/ta/ta0882.asp)
+- [Texte modifié en nouvelle lecture par le Sénat le 6 mars 2012](http://www.senat.fr/petite-loi-ameli/2011-2012/464.html)
+- [Texte adopté en lecture définitive par l'Assemblée nationale le 6 mars 2012](http://www.assemblee-nationale.fr/13/ta/ta0885.asp)
+- Dossiers législatifs
+  - Assemblée nationale
+    - [Dossier législatif de l'Assemblée nationale](http://www.assemblee-nationale.fr/13/dossiers/majoration_droits_construire.asp)
+  - Sénat
+    - [Dossier législatif du Sénat](http://www.senat.fr/dossier-legislatif/pjl11-422.html)
+- Documents préparatoires
+  - [Rapport n° 4351 de M. Bernard Gérard](http://www.assemblee-nationale.fr/13/rapports/r4351.asp)
+  - [Texte de la commission déposé le 14 février 2012](http://www.assemblee-nationale.fr/13/ta-commission/r4351-a0.asp)
+  - [Rapport n° 436 de M. Thierry Repentin](http://www.senat.fr/rap/l11-436/l11-436.html)
+  - [Texte de la commission déposé le 28 février 2012](http://www.senat.fr/leg/pjl11-437.html)
+  - [Rapport n° 4428 de M. Bernard Gérard (Assemblée nationale) et n° 461 de M. Thierry Repentin (Sénat)](http://www.assemblee-nationale.fr/13/rapports/r4428.asp)
+  - [Rapport n° 4429 de M. Bernard Gérard](http://www.assemblee-nationale.fr/13/rapports/r4429.asp)
+  - [Texte de la commission déposé le 5 mars 2012](http://www.assemblee-nationale.fr/13/ta-commission/r4429-a0.asp)
+  - [Rapport n° 463 de M. Thierry Repentin](http://www.senat.fr/rap/l11-463/l11-463.html)
+  - [Texte de la commission déposé le 6 mars 2012](http://www.senat.fr/leg/pjl11-464.html)
+- Débats parlementaires (procédure accélérée)
+  - Assemblée nationale (1ère lecture)
+    - Compte rendu intégral des séances du 21 février 2012
+      - [2ème séance du 21 février 2012](http://www.assemblee-nationale.fr/13/cri/2011-2012/20120134.asp) : motion de rejet préalable, motion de renvoi en commission, discussion générale.
+    - Compte rendu intégral des séances du 22 février 2012
+      - [1ère séance du 22 février 2012](http://www.assemblee-nationale.fr/13/cri/2011-2012/20120135.asp) : discussion des articles : art unique, après l’art unique, vote sur l’ensemble.
+  - Sénat (1ère lecture)
+    - [Compte rendu intégral de la séance du 29 février 2012](http://www.senat.fr/seances/s201202/s20120229/s20120229_mono.html) : discussion générale, discussion des articles : art 1er A, arts additionnels, art 1er (supprimé), art additionnel, intitulé du projet de loi, vote sur l'ensemble.
+  - Assemblée nationale (nouvelle lecture)
+    - Compte rendu intégral des séances du 5 mars 2012
+      - [Séance unique du 5 mars 2012](http://www.assemblee-nationale.fr/13/cri/2011-2012/20120146.asp) : discussion générale, article unique, titre, explications de vote, vote sur l'ensemble.
+  - Sénat (nouvelle lecture)
+    - [Compte rendu intégral de la séance du 6 mars 2012](http://www.senat.fr/seances/s201203/s20120306/s20120306_mono.html) : discussion générale, discussion des articles : art 1er A, art 1er (supprimé), intitulé du projet de loi, vote sur l'ensemble.
+  - Assemblée nationale (lecture définitive)
+    - Compte rendu intégral des séances du 6 mars
+    - [Séance unique du 6 mars 2012](http://www.assemblee-nationale.fr/13/cri/2011-2012/20120147.asp) : discussion générale, texte adopté par l’Assemblée nationale en nouvelle lecture, explications de vote, vote sur le texte.
