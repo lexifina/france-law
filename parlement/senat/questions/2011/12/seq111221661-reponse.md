@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111221661
+
+- Question : [SEQ111221661](seq111221661.md) — Retraités des ateliers industriels de l'aéronautique
+
+## Réponse
+
+*Défense, JO du 2012-03-22, page 748*
+
+La publication tardive de certains textes d'application des dispositions de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites et les négociations interministérielles en cours relatives à la situation en matière de retraite des personnels ayant poursuivi leur carrière au-delà de la limite d'âge ont, comme le souligne l'honorable parlementaire, entraîné depuis lors un allongement de la durée moyenne de traitement des dossiers de pension de retraite des ouvriers de l'État. Afin que les ouvriers concernés ne se retrouvent pas sans ressource, des dispositions ont été prises pour qu'ils bénéficient d'avances sur pension d'un montant s'approchant le plus possible de celui de la pension définitive. Dans le même temps, des formations accélérées permettant de maîtriser les nouvelles règles applicables dans le domaine des retraites ont été organisées au profit de l'ensemble des agents de la sous-direction des pensions. En outre, des procédures d'urgence ont été mises en place en liaison avec la Caisse des dépôts et consignations, organisme gestionnaire du fonds spécial des pensions des ouvriers des établissements industriels de l'État. Ces mesures ont eu pour effet de rétablir à ce jour les délais habituels de traitement de la plupart des dossiers de pension. Enfin, une réunion interministérielle s'est tenue le 13 décembre 2011 dans le but de préciser les droits des ouvriers de l'État ayant servi au-delà de la limite d'âge. Les dossiers de ces anciens personnels ne manqueront pas d'être étudiés avec diligence aussitôt que des décisions relatives aux modalités d'appréciation de leur situation auront été arrêtées.
