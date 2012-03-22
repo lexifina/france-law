@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120322789
+
+- Question : [SEQ120322789](seq120322789.md) — Mise à disposition par les communes des dossiers de marchés publics
+
+## Réponse
+
+*Intérieur, JO du 2012-03-22, page 752*
+
+Aux termes de l'alinéa 2 de l'article 41 du code des marchés publics, les « documents nécessaires à la consultation des candidats à un marché ou à un accord-cadre leur sont remis gratuitement. Toutefois, le pouvoir adjudicateur peut décider que ces documents leur sont remis contre paiement des frais de reprographie. Le montant et les modalités de paiement de ces frais figurent dans l'avis d'appel public à la concurrence ou dans les documents de la consultation. » La gratuité des documents de consultation constitue donc un principe, que confirme le développement de la mise en ligne de ces derniers, et leur caractère payant une exception, justifiée le cas échéant par le coût disproportionné de la reprographie pour le pouvoir adjudicateur. Le code des marchés publics, tout comme le guide des bonnes pratiques en matière de marchés publics, ne comporte pas d'indication sur la possibilité de consulter sur place les documents de consultation, quel qu'en soit le motif. Toutefois, s'agissant de documents volumineux ou confidentiels, qui ne peuvent donc figurer tels quels dans le dossier de consultation, certains pouvoirs adjudicateurs permettent aux candidats de consulter sur place les documents considérés ; l'avis d'appel à la concurrence ou le règlement de consultation en précisent les modalités. Il paraîtrait ainsi de bonne pratique que, sauf si le dossier de consultation est accessible intégralement et gratuitement par voie dématérialisée, les pouvoirs adjudicateurs qui perçoivent des frais en contrepartie de la reprographie de ce dernier tiennent à la disposition des candidats un exemplaire en consultation libre, selon des modalités qu'ils fixent.
