@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120121935
+
+- Question : [SEQ120121935](seq120121935.md) — Reconnaissance du niveau de diplôme des travailleurs sociaux
+
+## Réponse
+
+*Enseignement supérieur, JO du 2012-03-22, page 750*
+
+Le ministère de l'enseignement supérieur et de la recherche est attentif à la lisibilité de l'ensemble de l'offre de formations supérieures, notamment par l'intégration dans l'espace européen de l'enseignement supérieur des cursus dont il partage la tutelle avec d'autres départements ministériels. Les diplômes du travail social font partie intégrante de ce processus et un travail conjoint a été engagé à ce sujet avec le ministère chargé des affaires sociales. Les travaux ont permis d'appliquer à ces diplômes plusieurs des principes qui président à la constitution de l'espace européen de l'enseignement supérieur : attribution de crédits ECTS à hauteur de 180, semestrialisation des enseignements, délivrance du supplément au diplôme aux titulaires. Les arrêtés correspondants ont reçu des avis favorables de la Commission professionnelle consultative « secteurs sanitaire, social et médico-social » et du Conseil national de l'enseignement supérieur et de la recherche. Datés du 25 août 2011, ils ont été publiés au JORF n° 213 du 14 septembre 2011. Pour ce qui concerne le niveau d'enregistrement au répertoire national des certifications professionnelles (RNCP), il appartient au ministère chargé des affaires sociales, qui a la responsabilité de définir les activités et compétences relatives à ces emplois, de statuer à ce sujet. S'agissant des professions non réglementées en France, il n'y a pas lieu d'appliquer dans notre pays les dispositions de la directive n° 2005/36 du 7 septembre 2005 aux professionnels concernés par ces diplômes. En revanche, ces dispositions peuvent trouver à s'appliquer à l'étranger si les professions concernées y sont considérées comme réglementées.
