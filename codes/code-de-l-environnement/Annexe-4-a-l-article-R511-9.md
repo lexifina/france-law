@@ -126,7 +126,7 @@ Station de transit de produits minéraux pulvérulents non ensachés tels que ci
 
 |
 
-1. supérieure à 25 000 m³
+1. supérieure à 25 000 m ³
 
 |
 
@@ -220,9 +220,7 @@ Installation de production de béton prêt à l'emploi équipée d'un dispositif
 
 |
 
-a) Supérieure à 3 m3
-
-|
+a) Supérieure à 3 m3 |
 
 E
 
@@ -1448,7 +1446,7 @@ Revêtement métallique ou traitement (nettoyage, décapage, conversion, polissa
 
 |
 
-1. Lorsqu'il y a mise en oeuvre de cadmium
+1. Lorsqu'il y a mise en œuvre de cadmium
 
 |
 
@@ -1468,7 +1466,7 @@ A
 
 |
 
-2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 |
 
@@ -1796,7 +1794,9 @@ A
 
 |
 
-1. Quelle que soit la capacité |
+1. Quelle que soit la capacité
+
+|
 
 6
 
@@ -2374,7 +2374,7 @@ Quelle que soit la capacité
 
 |
 
-Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou commercial des) à l'exclusion de l'utilisation de produits contenant des organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément à la loi n° 92-654 du 13 juillet 1992 et utilisés dans les conditions prévues par cette autorisation de mise sur le marché
+Organismes génétiquement modifiés (installations où sont utilisés de manière confinée dans un processus de production industrielle des), à l'exclusion de l'utilisation d'organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément au titre III du livre V du code de l'environnement et utilisés dans les conditions prévues par cette autorisation de mise sur le marché.
 
 |
 
@@ -2386,7 +2386,7 @@ Organismes génétiquement modifiés (installations où sont mis en oeuvre dans 
 
 |
 
-1. organismes et notamment micro-organismes génétiquement modifiés du groupe I
+1. Utilisation d'organismes génétiquement modifiés de classe de confinement 1
 
 |
 
@@ -2404,15 +2404,13 @@ D
 
 |
 
-2. organismes et notamment micro-organismes génétiquement modifiés du groupe II
+2. Utilisation d'organismes génétiquement modifiés de classe de confinement 2, 3, 4
 
 |
 
 A
 
 |
-
-4
 
 |
 
@@ -2424,7 +2422,7 @@ A
 
 |
 
-Les organismes génétiquement modifiés visés sont ceux définis par la loi n° 92-654 du 13 juillet 1992 et par le décret n° 93-744 du 27 mars 1993 fixant la liste des techniques de modification génétique et les critères de classement des organismes génétiquement modifiés en groupe I et II
+Les organismes génétiquement modifiés visés sont ceux définis par l'article D. 531-1 du code de l'environnement, à l'exclusion des organismes visés à l'article D. 531-2 du même code.
 
 |
 
@@ -2436,7 +2434,7 @@ Les organismes génétiquement modifiés visés sont ceux définis par la loi n�
 
 |
 
-On entend par mise en œuvre au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle ou commercial au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, utilisés, stockés, détruits ou éliminés.
+On entend par utilisation au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, mis en œuvre, stockés, détruits, éliminés, ou utilisés de toute autre manière, à l'exclusion du transport.
 
 |
 
@@ -2522,7 +2520,7 @@ A
 
 |
 
-Décheteries aménagées pour la collecte des encombrants, matériaux ou produits triés et apportés par les usagers :
+Installations de collecte de déchets apportés par le producteur initial de ces déchets.
 
 |
 
@@ -2534,7 +2532,7 @@ Décheteries aménagées pour la collecte des encombrants, matériaux ou produit
 
 |
 
-- monstres (mobilier, éléments de véhicules), déchets de jardin, déchets de démolition, déblais, gravats, terre ;
+1. Collecte de déchets dangereux :
 
 |
 
@@ -2546,7 +2544,7 @@ Décheteries aménagées pour la collecte des encombrants, matériaux ou produit
 
 |
 
-- bois, métaux, papiers-cartons, plastiques, textiles, verres, amiante lié ;
+La quantité de déchets susceptibles d'être présents dans l'installation étant :
 
 |
 
@@ -2558,31 +2556,7 @@ Décheteries aménagées pour la collecte des encombrants, matériaux ou produit
 
 |
 
-- déchets ménagers spéciaux (huiles usagées, piles et batteries, médicaments, solvants, peintures, acides et bases, produits phytosanitaires, etc.) usés ou non ;
-
-|
-
-|
-
-|
-
-|
-
-|
-
-- déchets d'équipements électriques et électroniques.
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. la superficie de l'installation hors espaces verts étant supérieure à 3 500 m²
+a) Supérieure ou égale à 7 t
 
 |
 
@@ -2598,11 +2572,79 @@ A
 
 |
 
-2. la superficie de l'installation hors espaces verts étant supérieure à 100 m², mais inférieure ou égale à 3 500 m²
+b) Supérieure ou égale à 1 t et inférieure à 7 t
 
 |
 
-D
+DC
+
+|
+
+|
+
+|
+
+|
+
+2. Collecte de déchets non dangereux :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Le volume de déchets susceptibles d'être présents dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieur ou égal à 600 m³
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieur ou égal à 300 m³ et inférieur à 600 m³
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+c) Supérieur ou égal à 100 m³ et inférieur à 300 m³
+
+|
+
+DC
 
 |
 
@@ -2616,7 +2658,7 @@ D
 
 |
 
-Transit, regroupement, tri, désassemblage, remise en état d'équipements électriques et électroniques mis au rebut.
+Installations de transit, regroupement ou tri de déchets d'équipements électriques et électroniques.
 
 |
 
@@ -2656,11 +2698,11 @@ A
 
 |
 
-2. Supérieur ou égal à 200 m³, mais inférieur à 1 000 m³
+2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³
 
 |
 
-D
+DC
 
 |
 
@@ -3522,7 +3564,23 @@ La capacité de traitement étant :
 
 |
 
-Installations de traitement aérobie (compostage ou stabilisation biologique) de déchets non dangereux ou matière végétale brute, ayant le cas échéant subi une étape de méthanisation
+Installations de compostage de déchets non dangereux ou de matière végétale, ayant, le cas échéant, subi une étape de méthanisation.
+
+|
+
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Compostage de matière végétale ou déchets végétaux, d'effluents d'élevage, de matières stercoraires :
 
 |
 
@@ -3536,21 +3594,7 @@ Installations de traitement aérobie (compostage ou stabilisation biologique) de
 
 |
 
-1. Compostage de matière végétale brute, effluents d'élevage, matières stercoraires :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-a) La quantité de matières traitées étant supérieure ou égale à 30 t/j
+a) La quantité de matières traitées étant supérieure ou égale à 50 t/j
 
 |
 
@@ -3568,7 +3612,23 @@ A
 
 |
 
-b) La quantité de matières traitées étant supérieure ou égale à 3 t/j et inférieure à 30 t/j
+b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et inférieure à 50 t/j
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+|
+
+c) La quantité de matières traitées étant supérieure ou égale à 3 t/j et inférieure à 30 t/j
 
 |
 
@@ -3584,7 +3644,7 @@ D
 
 |
 
-2. Compostage de la fraction fermentescible des ordures ménagères (FFOM), de denrées végétales déclassées, de rebuts de fabrication de denrées alimentaires végétales, de boues de station d'épuration des eaux urbaines, de papeteries, d'industries agroalimentaires, seuls ou en mélange avec des déchets végétaux ou des effluents d'élevages ou des matières stercoraires :
+2. Compostage de fraction fermentescible de déchets triés à la source ou sur site, de boues de station d'épuration des eaux urbaines, de papeteries, d'industries agroalimentaires, seuls ou en mélange avec des déchets admis dans une installation relevant de la rubrique 2780-1 :
 
 |
 
@@ -3632,7 +3692,7 @@ D
 
 |
 
-3. Compostage d'autres déchets ou stabilisation biologique
+3. Compostage d'autres déchets
 
 |
 
@@ -3980,9 +4040,7 @@ DC
 
 |
 
-a) Supérieure ou égale à 50 t/j
-
-|
+a) Supérieure ou égale à 50 t/j |
 
 6
 
@@ -4008,9 +4066,7 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
 
 |
 
-2. Non soumis à la taxe
-
-|
+2. Non soumis à la taxe |
 
 -
 
@@ -4714,7 +4770,7 @@ Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage d
 
 |
 
-1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par procédé "au trempé". Si la quantité maximale de produits susceptible d'être présente dans l'installation est :
+1. Lorsque les produits mis en oeuvre sont à base de liquides et lorsque l'application est faite par procédé "au trempé". Si la quantité maximale de produits susceptible d'être présente dans l'installation est :
 
 |
 
@@ -4768,7 +4824,7 @@ DC
 
 |
 
-2. La quantité maximale de produits susceptible d'être mise en œuvre est :
+2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
 
 |
 
@@ -4836,7 +4892,7 @@ DC
 
 |
 
-3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est :
+3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en oeuvre est :
 
 |
 
@@ -4994,13 +5050,63 @@ DC
 
 |
 
+2960
+
+|
+
+Captage de flux de CO2 provenant d'installations classées soumises à autorisation en vue de leur stockage géologique ou captant annuellement une quantité de CO2 égale ou supérieure à 1,5 Mt
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+2970
+
+|
+
+Stockage géologique de dioxyde de carbone à des fins de lutte contre le réchauffement climatique, y compris les installations de surface nécessaires à son fonctionnement, à l'exclusion de celles déjà visées par d'autres rubriques de la nomenclature
+
+|
+
+AS
+
+|
+
+6
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 2980
 
 |
 
 Installation terrestre de production d'électricité à partir de l'énergie mécanique du vent et regroupant un ou plusieurs aérogénérateurs :
-
-|
 
 |
 
@@ -5028,11 +5134,7 @@ A
 
 |
 
-|
-
 2. Comprenant uniquement des aérogénérateurs dont le mât a une hauteur inférieure à 50 m et au moins un aérogénérateur dont le mât a une hauteur maximale supérieure ou égale à 12 m et pour une puissance totale installée :
-
-|
 
 |
 
@@ -5060,13 +5162,127 @@ A
 
 |
 
-|
-
 b) Inférieure à 20 MW
 
 |
 
 D
+
+|
+
+|
+
+|
+
+|
+
+3642
+
+|
+
+Traitement et transformation, à l'exclusion du seul conditionnement des matières premières ci-après, qu'elles aient été ou non préalablement transformées, en vue de la fabrication de produits alimentaires ou d'aliments pour animaux issus :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Uniquement de matières premières animales (autre que le lait exclusivement), avec une capacité de production supérieure à 75 t de produits finis par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+2. Uniquement de matières premières végétales, avec une capacité de production supérieure à 300 t de produits finis par jour ou 600 t par jour lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+3. Matières premières animales et végétales, aussi bien en produits combinés qu'en produits séparés, avec une capacité de production, exprimée en tonnes de produits finis par jour, supérieure à :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+- 75 si A est égal ou supérieur à 10, ou
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+- [300 - (22,5 × A)] dans tous les autres cas
+
+où "A" est la proportion de matière animale (en pourcentage de poids) dans la quantité entrant dans le calcul de la capacité de production de produits finis.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nota 1. - L'emballage n'est pas compris dans le poids final du produit.
+
+Nota 2. - La présente rubrique ne s'applique pas si la matière première est seulement du lait.
+
+|
 
 |
 
