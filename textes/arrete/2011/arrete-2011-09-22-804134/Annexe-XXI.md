@@ -40,13 +40,15 @@ Lorsque la commission se réunit pour connaître d'une procédure conventionnell
 
 La section professionnelle de la commission désigne son président. En cas d'égalité des voix, la présidence est assurée par le plus âgé des candidats ayant obtenu le même nombre de voix.
 
-Le directeur général de l'Union nationale des caisses d'assurance maladie désigne, dans le cadre des fonctions définies aux articles L. 182-2-4 et L. 182-2-5 du code de la sécurité sociale, le président de la section sociale de chacune des instances parmi les représentants de la direction des organismes de sécurité sociale et des établissements publics concernés, membres desdites instances.
+Le directeur général de l'Union nationale des caisses d'assurance maladie désigne, dans le cadre des fonctions définies aux articles L. 182-2-4 et L. 182-2-5 du code de la sécurité sociale, le président de la section sociale de chacune des instances réunies en formation exécutive parmi les représentants de la direction des organismes de sécurité sociale et des établissements publics concernés, membres desdites instances.
 
-La présidence de la commission sera assurée l'année de l'entrée en vigueur de la présente convention par le président de la section professionnelle.
+La section sociale de chacune des instances réunies en formation-orientations désigne son président parmi les conseillers membres de cette instance.
 
-Le président de la section professionnelle et le président de la section sociale assurent, à tout de rôle, par période d'un an en référence à l'année civile, la présidence et la vice-présidence de la commission.
+La présidence de la commission sera assurée la première année de la présente convention par le président de la section professionnelle.
 
-Pour ce faire, au 1er janvier de chaque année, il est procédé automatiquement à l'alternance de la présidence, sans qu'il soit nécessaire que l'instance se réunisse au préalable.
+Le président de la section professionnelle et le président de la section sociale assurent, à tour de rôle, par période d'une année, la présidence et la vice-présidence de la commission.
+
+Pour ce faire, à la date anniversaire de la publication au Journal officiel de la convention, il est procédé automatiquement à l'alternance de la présidence, sans qu'il soit nécessaire que l'instance se réunisse au préalable.
 
 La présidence de plusieurs commissions ne peut être assurée simultanément par la même personne.
 
