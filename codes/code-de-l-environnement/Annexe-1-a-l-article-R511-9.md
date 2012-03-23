@@ -196,7 +196,9 @@ Le classement des préparations ou mélanges dangereux résulte :
 
 |
 
-Les préparations ou mélanges dangereux sont classés suivant les dispositions de l'arrêté du 9 novembre 2004 modifié relatif à la classification, l'étiquetage et l'emballage des préparations dangereuses. |
+Les préparations ou mélanges dangereux sont classés suivant les dispositions de l'arrêté du 9 novembre 2004 modifié relatif à la classification, l'étiquetage et l'emballage des préparations dangereuses.
+
+|
 
 Pour ses propriétés physico-chimiques, la préparation ou le mélange est classé en appliquant le règlement (CE) n° 440/2008 établissant des méthodes d'essai, tel que spécifié à l'article 13, paragraphe 3, du règlement (CE) n° 1907/2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances.
 
@@ -943,6 +945,176 @@ b) supérieure ou égale à 2 t, mais inférieure à 200 t
 |
 
 c) supérieure ou égale à 200 kg, mais inférieure à 2 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+1132
+
+|
+
+Toxiques présentant des risques d'effets graves pour la santé en cas d'exposition prolongée (fabrication industrielle, emploi ou stockage de substances et mélanges).
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A. - Fabrication industrielle
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+B. - Emploi ou stockage
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Substances et mélanges solides ; la quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 50 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 5 t, mais inférieure à 50 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+2. Substances et mélanges liquides ; la quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 10 t
+
+|
+
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 1 t, mais inférieure à 10 t
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+3. Gaz ou gaz liquéfiés ; la quantité totale susceptible d'être présente dans l'installation étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 2 t
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 200 kg, mais inférieure à 2 t
 
 |
 
@@ -2674,7 +2846,9 @@ A
 
 |
 
-b) supérieure ou égale à 200 kg, mais inférieure à 1 t |
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t
+
+|
 
 6
 
@@ -2738,7 +2912,9 @@ A
 
 |
 
-b) supérieure ou égale à 200 kg, mais inférieure à 1 t |
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t
+
+|
 
 6
 
@@ -2786,7 +2962,9 @@ AS
 
 |
 
-a) supérieure ou égale à 2 t |
+a) supérieure ou égale à 2 t
+
+|
 
 10
 
@@ -2834,7 +3012,9 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
 
 |
 
-8. La quantité totale de ce produit susceptible d'être présente dans l'installation étant : |
+8. La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
+
+|
 
 |
 
@@ -2850,7 +3030,9 @@ AS
 
 |
 
-a) supérieure ou égale à 20 t |
+a) supérieure ou égale à 20 t
+
+|
 
 10
 
@@ -2868,7 +3050,9 @@ A
 
 |
 
-b) supérieure ou égale à 10 t, mais inférieure à 20 t |
+b) supérieure ou égale à 10 t, mais inférieure à 20 t
+
+|
 
 6
 
@@ -2898,7 +3082,9 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
-9. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : |
+9. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
+
+|
 
 |
 
@@ -2914,7 +3100,9 @@ AS
 
 |
 
-a) supérieure ou égale à 50 t |
+a) supérieure ou égale à 50 t
+
+|
 
 10
 
@@ -3754,9 +3942,7 @@ b) supérieure ou égale à 5 000 l, mais inférieure à 25 000 l
 
 |
 
-1
-
-|
+1 |
 
 2. Supérieure à 200 l, mais inférieure ou égale à 1 500 l
 
@@ -4084,7 +4270,9 @@ Comburants (fabrication, emploi ou stockage de substances ou mélanges) tels que
 
 1. Fabrication.
 
-La quantité totale susceptible d'être présente dans l'installation étant : |
+La quantité totale susceptible d'être présente dans l'installation étant :
+
+|
 
 |
 
@@ -4108,7 +4296,9 @@ AS
 
 |
 
-a) supérieure ou égale à 200 t |
+a) supérieure ou égale à 200 t
+
+|
 
 10
 
@@ -4944,9 +5134,7 @@ c) Inférieure à 100 kg
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -4986,9 +5174,7 @@ a) Supérieure ou égale à 100 kg
 
 |
 
-b) Inférieure à 100 kg
-
-|
+b) Inférieure à 100 kg |
 
 DC
 

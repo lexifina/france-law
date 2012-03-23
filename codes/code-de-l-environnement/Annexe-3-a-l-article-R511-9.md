@@ -1280,7 +1280,7 @@ Nota : Les volailles et gibier à plumes sont comptés en utilisant les valeurs 
 
 |
 
-11; palmipèdes gras en gavage = 7
+11. palmipèdes gras en gavage = 7
 
 |
 
@@ -1814,7 +1814,7 @@ Le poids des animaux exprimé en carcasses étant, en activité de pointe :
 
 |
 
-1. supérieur à 5 t/j
+1. supérieur à 5 t / j
 
 |
 
@@ -1826,7 +1826,7 @@ A
 
 |
 
-a) supérieur à 100 t/j
+a) supérieur à 100 t / j
 
 |
 
@@ -1840,7 +1840,7 @@ a) supérieur à 100 t/j
 
 |
 
-b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
+b) supérieur à 20 t / j, mais inférieur ou égal à 100 t / j
 
 |
 
@@ -1854,7 +1854,7 @@ b) supérieur à 20 t/j, mais inférieur ou égal à 100 t/j
 
 |
 
-c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j
+c) supérieur à 5 t / j, mais inférieur ou égal à 20 t / j
 
 |
 
@@ -1862,7 +1862,7 @@ c) supérieur à 5 t/j, mais inférieur ou égal à 20 t/j
 
 |
 
-2. supérieur à 500 kg/j, mais inférieur ou égal à 5 t/j
+2. supérieur à 500 kg / j, mais inférieur ou égal à 5 t / j
 
 |
 
@@ -1894,7 +1894,7 @@ Alimentaires (préparation ou conservation de produits) d'origine végétale, pa
 
 |
 
-1. supérieure à 10 t/j
+1. supérieure à 10 t / j
 
 |
 
@@ -1906,7 +1906,7 @@ A
 
 |
 
-a) supérieure à 200 t/j
+a) supérieure à 200 t / j
 
 |
 
@@ -1920,7 +1920,7 @@ a) supérieure à 200 t/j
 
 |
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 |
 
@@ -1928,7 +1928,7 @@ b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 |
 
-2. supérieure à 2 t/j, mais inférieure ou égale à 10 t/j
+2. supérieure à 2 t / j, mais inférieure ou égale à 10 t / j
 
 |
 
@@ -1946,7 +1946,7 @@ DC
 
 |
 
-Alimentaires (préparation ou conservation de produits) d'origine animale, par découpage, cuisson, appertisation, surgélation, congélation, lyophilisation, déshydratation, salage, séchage, saurage, enfumage, etc., à l'exclusion des produits issus du lait et des corps gras, mais y compris les aliments pour les animaux de compagnie.
+Préparation ou conservation de produits alimentaires d'origine animale, par découpage, cuisson, appertisation, surgélation, congélation, lyophilisation, déshydratation, salage, séchage, saurage, enfumage, etc., à l'exclusion des produits issus du lait et des corps gras, mais y compris les aliments pour les animaux de compagnie.
 
 |
 
@@ -1958,11 +1958,15 @@ Alimentaires (préparation ou conservation de produits) d'origine animale, par d
 
 |
 
-La quantité de produits entrant étant :
+A. - Installations dont les activités sont classées au titre de la rubrique 3642
 
 |
 
+A
+
 |
+
+3
 
 |
 
@@ -1972,15 +1976,11 @@ La quantité de produits entrant étant :
 
 |
 
-1. supérieure à 2 t/j
+B. - Autres installations que celles visées au A, la quantité de produits entrant étant :
 
 |
 
-A
-
 |
-
-1
 
 |
 
@@ -1992,7 +1992,25 @@ a) supérieure à 250 t/j
 
 |
 
+- supérieure à 2 t/j
+
 |
+
+E
+
+|
+
+|
+
+|
+
+|
+
+- supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
+
+|
+
+D
 
 |
 
@@ -2003,20 +2021,6 @@ b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
 |
 
 1
-
-|
-
-2. supérieure à 500 kg/j, mais inférieure ou égale à 2 t/j
-
-|
-
-D
-
-|
-
-|
-
-|
 
 |
 
@@ -2048,7 +2052,7 @@ La capacité de production étant :
 
 |
 
-a) supérieure à 200 t/j
+a) supérieure à 200 t / j
 
 |
 
@@ -2062,7 +2066,7 @@ a) supérieure à 200 t/j
 
 |
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 |
 
@@ -2098,7 +2102,7 @@ La capacité de production étant :
 
 |
 
-a) supérieure à 200 t/j
+a) supérieure à 200 t / j
 
 |
 
@@ -2112,7 +2116,7 @@ a) supérieure à 200 t/j
 
 |
 
-b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
+b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
 
 |
 
@@ -2138,7 +2142,7 @@ La capacité journalière de traitement exprimée en litre de lait ou équivalen
 
 |
 
-1. supérieure à 70 000 l/j
+1. supérieure à 70 000 l / j
 
 |
 
@@ -2492,7 +2496,7 @@ A
 
 |
 
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
+1. La capacité de l'installation étant supérieure à 50 000 hl / an
 
 |
 
@@ -2700,7 +2704,7 @@ D
 
 |
 
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 |
 
@@ -3120,7 +3124,7 @@ A
 
 |
 
-2. supérieure à 0, 5 kg et inférieure ou égale à 50 kg
+2. supérieure à 0,5 kg et inférieure ou égale à 50 kg
 
 |
 
@@ -3444,7 +3448,7 @@ D
 
 |
 
-Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
+Installations de mise en oeuvre de produits de préservation du bois et matériaux dérivés
 
 |
 
@@ -4268,7 +4272,7 @@ D
 
 |
 
-- à la restauration des monuments historiques classés ou inscrits, ou des immeubles figurant au plan de sauvegarde et de mise en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération sont interdits
+-à la restauration des monuments historiques classés ou inscrits, ou des immeubles figurant au plan de sauvegarde et de mise en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération sont interdits
 
 |
 
@@ -4280,7 +4284,7 @@ D
 
 |
 
-- ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou architectural justifie que celle-ci soit effectuée avec leurs matériaux d'origine.
+-ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou architectural justifie que celle-ci soit effectuée avec leurs matériaux d'origine.
 
 |
 
