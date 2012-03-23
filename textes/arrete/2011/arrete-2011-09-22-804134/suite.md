@@ -170,7 +170,7 @@ Le praticien adhérent s'engage, pour les actes qu'il effectue pour les patients
 
 - pour les actes cliniques : les tarifs opposables sans dépassement ;
 
-- pour les actes techniques : les tarifs opposables avec un dépassement pratiqué avec tact et mesure plafonné pour chaque acte à 20 % de sa valeur.
+- pour les actes techniques : les tarifs opposables avec un dépassement pratiqué avec tact et mesure plafonné pour chaque acte à 20 % de sa valeur. Ce dépassement est plafonné pour chaque acte à 50 % de sa valeur pour les médecins exerçant une spécialité chirurgicale, obstétricale ou d'anesthésie-réanimation.
 
 Pour l'ensemble de son activité le praticien s'engage à respecter :
 
@@ -862,37 +862,13 @@ Article 63
 
 Pérennisation du régime des allocations supplémentaires de vieillesse (ASV)
 
-Les représentants syndicaux des médecins et l'Union nationale des caisses d'assurance maladie réaffirment leur attachement au régime ASV des médecins et à sa pérennisation. La pérennisation de ce régime est un des socles fondamentaux de la convention médicale.
+Les parties signataires réaffirment leur attachement au régime des prestations complémentaires de vieillesse des médecins et à sa pérennisation. La pérennisation de ce régime est un des socles fondamentaux de la convention médicale.
 
-Afin de pérenniser le régime ASV, des efforts importants doivent être réalisés :
+Dans le cadre de la réforme de ce régime, mise en place par le décret n° 2011-1644 du 25 novembre 2011, visant à assurer sa pérennité, les partenaires conventionnels actent les dispositions suivantes.
 
-- dans le respect du contrat conventionnel établi, l'assurance maladie confirme son engagement et réaffirme son attachement à l'ASV ;
+Au titre du régime des avantages complémentaires de vieillesse, la participation des caisses au financement de la cotisation annuelle obligatoire, prévue à l'article L. 645-2 du code de la sécurité sociale et due par les médecins conventionnées, est fixée aux deux tiers du montant de ladite cotisation, tel que fixé par le décret n° 2011-1644 du 25 novembre 2011.
 
-- cotisants, anciens cotisants et retraités participeront conjointement et de manière proportionnée à leurs capacités contributives aux efforts de pérennisation de leur régime afin que chacune des générations en bénéficie en cohérence avec le niveau de sa contribution.
-
-Le régime ASV sera réformé cette année, pour une entrée en vigueur en 2012, sur la base des principes suivants :
-
-1. Assurer la pérennité financière du régime ;
-
-2. Maintenir un niveau de retraite ASV d'environ 40 % de la retraite totale d'un médecin ;
-
-3. Instaurer une cotisation proportionnelle aux revenus ;
-
-4. Confirmer et renforcer la prise en charge des cotisations par l'assurance maladie, qui maintiendra, sur l'ensemble des cotisations proportionnelles et forfaitaires, une prise en charge aux 2/3 pour les médecins de secteur 1 ;
-
-5. Maintenir le pacte entre les générations via un effort partagé entre cotisants, anciens cotisants et retraités ;
-
-6. Garantir aux jeunes générations un régime pérenne et équilibré pour maintenir l'attractivité de l'exercice libéral ;
-
-7. Lisser dans le temps les efforts pour les rendre progressifs ;
-
-8. Prendre en compte, dans les efforts de la réforme, les situations individuelles, tant en terme de rendements passés que de revenus ;
-
-9. Prendre en compte la situation des conjoints survivants, en prévoyant que la baisse des pensions ne s'appliquera pas aux pensions de réversion liquidées à la date d'entrée en vigueur de la réforme, pour la part des points inférieurs à la pension de réversion moyenne ;
-
-10. Instaurer des clauses de rendez-vous réguliers entre l'ensemble des parties prenantes à la réforme pour s'assurer de la pérennité financière du régime, ce qui permettra, le cas échéant, de revaloriser plus tôt que prévu les prestations.
-
-Dans l'attente de l'avenant mettant en œuvre ces réformes, la participation des caisses au titre du régime des avantages complémentaires de vieillesse prévu à l'article L. 645-2 du code de la sécurité sociale à la cotisation due par les médecins conventionnés est fixée à hauteur de 66,66 % du montant de la cotisation.
+La participation des caisses à la cotisation d'ajustement prévue à l'article L. 645-3 du code de la sécurité sociale, et due par les médecins conventionnés au titre du régime des avantages complémentaires de vieillesse, s'élève aux deux tiers du montant de ladite cotisation, tel que fixé par le décret susvisé.
 
 Article 64
 
@@ -998,6 +974,8 @@ Un suppléant est désigné pour chaque siège.
 
 Un médecin exerçant à titre libéral sous la présente convention ne peut siéger comme représentant de la section sociale.
 
+La commission peut se réunir en formation orientations ou en formation exécutive.
+
 En formation médecins dans le cadre de la procédure définie à l'article 75, la CPN est composée :
 
 De la section professionnelle de la CPN en formation plénière telle que décrite supra, soit douze représentants titulaires.
@@ -1024,7 +1002,7 @@ Mise en place de la commission paritaire nationale
 
 La CPN est mise en place dans les deux mois qui suivent l'entrée en vigueur de la convention.
 
-Elle se réunit au minimum trois fois par an et dans les cas suivants :
+Elle se réunit au minimum trois fois par an dont au moins une fois en formation orientations et dans les cas suivants :
 
 - à la demande de l'une des parties signataires de la convention ;
 
@@ -1040,7 +1018,17 @@ Rôle de la commission paritaire nationale
 
 Dans le cadre de sa mission générale de suivi de la vie conventionnelle et du respect des engagements respectifs des parties, la commission a une double vocation d'impulsion et de coordination des actions menées tant au niveau national que local en application de la convention.
 
-La CPN est notamment chargée des missions suivantes :
+La CPN réunie en formation-orientations délibère sur les orientations de la politique conventionnelle et particulièrement sur :
+
+- le suivi et l'évaluation du dispositif du médecin traitant et du parcours de soins coordonnés ;
+
+- le suivi et l'évaluation annuelle des résultats de l'option de coordination définis aux articles 36 et suivants et les résultats du secteur optionnel (dans l'hypothèse où il serait mis en place) ;
+
+- le suivi de la mise en œuvre des dispositifs de rémunération sur objectifs de santé publique définis aux articles 26 et suivants ;
+
+- le suivi de la mise en place du dispositif incitatif mis en place aux articles 1er et suivants pour améliorer la répartition de l'offre de soins.
+
+La CPN réunie en formation exécutive est notamment chargée des missions suivantes :
 
 - elle veille au respect des dispositions conventionnelles par les médecins et les caisses au niveau local ;
 
@@ -1054,25 +1042,17 @@ La CPN est notamment chargée des missions suivantes :
 
 - elle définit annuellement les objectifs de maîtrise médicalisée dans le cadre des dispositions définies à l'article 20 de la présente convention ;
 
-- elle est informée des programmes d'accompagnements mis en place par l'assurance maladie intéressant les médecins ;
+- elle est informée des programmes d'accompagnement mis en place par l'assurance-maladie intéressant les médecins ;
 
-- elle est informée, par les commissions paritaires régionales (CPR) et par les commissions paritaires locales (CPL), des travaux en cours dans les régions et dans les départements, notamment en ce qui concerne les résultats de la maîtrise médicalisée ;
+- elle est informée par les commissions paritaires régionales (CPR) et par les commissions paritaires locales (CPL) des travaux en cours dans les régions et dans les départements, notamment en ce qui concerne les résultats de la maîtrise médicalisée ;
 
-- elle examine les projets et accords locaux sur la dispense d'avance des frais ;
+- elle examine les projets et accords locaux sur la dispense d'avance des frais.
 
 - elle délibère sur les activités médicales à soumettre à la Haute Autorité de santé en vue de l'établissement de références médicales telles que définies aux articles L. 162-5 et L. 162-12-15 du code de la sécurité sociale ainsi que les indicateurs des programmes de paiement à la performance élaborés par l'assurance maladie dans le cadre de l'article L. 161-39 du code de la sécurité sociale ;
 
-- elle assure le suivi et l'évaluation du dispositif du médecin traitant et du parcours de soins coordonnés ;
+- elle assure le suivi de la bascule entre le dispositif conventionnel de permanence des soins défini à l'article 4 et le nouveau dispositif issu de la loi n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires ;
 
-- elle suit et évalue annuellement les résultats de l'option de coordination défini aux articles 36 et suivants et les résultats du secteur optionnel (dans l'hypothèse où il serait mis en place) ;
-
-- elle suit la mise en œuvre des dispositifs de rémunération sur objectifs de santé publique définis aux articles 26 et suivants ;
-
-- elle assure le suivi de la bascule entre le dispositif de permanence des soins conventionnel défini à l'article 4 et le nouveau dispositif issu de la loi n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires ;
-
-- elle suit la mise en place du dispositif incitatif mis en place aux articles 1er et suivants pour améliorer la répartition de l'offre de soins ;
-
-- elle assure le suivi de la formation professionnelle conventionnelle dans les conditions définies au titre 3, sous-titre 1er, dans l'attente de la mise en place du développement professionnel continu (DPC) issu de l'article 59 de la loi n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires ;
+- elle assure le suivi de la formation professionnelle conventionnelle dans les conditions définies au titre 3, sous-titre 1er dans l'attente de la mise en place du développement professionnel continu (DPC) issu de l'article 59 de la loi n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires ;
 
 - elle assure l'installation et le suivi des travaux du comité du fonds des actions conventionnelles et du comité technique paritaire permanent national chargé des simplifications administratives ;
 
@@ -1250,6 +1230,8 @@ Un suppléant est désigné pour chaque siège.
 
 Un médecin exerçant à titre libéral sous la présente convention ne peut siéger comme représentant de la section sociale.
 
+La commission peut se réunir en formation orientations ou en formation exécutive.
+
 En formation médecins dans le cadre de la procédure définie à l'article 75, la CPR est composée :
 
 - de la section professionnelle de la CPR en formation plénière telle que décrite supra, soit douze représentants titulaires ;
@@ -1268,7 +1250,7 @@ Mise en place de la commission paritaire régionale
 
 La CPR est mise en place dans les trois mois qui suivent l'entrée en vigueur de la convention.
 
-Elle se réunit au minimum trois fois par an et dans les cas suivants :
+Elle se réunit au minimum trois fois par an dont au moins une fois en formation orientations et dans les cas suivants :
 
 - à la demande de l'une des parties signataires de la convention ;
 
@@ -1280,7 +1262,9 @@ Article 73.3
 
 Missions de la commission paritaire régionale
 
-La CPR est chargée notamment des missions suivantes :
+La CPR réunie en formation-orientations délibère sur les orientations de politique conventionnelle au niveau régional.
+
+La CPR réunie en formation exécutive est chargée notamment des missions suivantes :
 
 - elle assure le suivi régional des actions de maîtrise médicalisée des dépenses de santé définies aux articles 20 et suivants ;
 
@@ -1334,6 +1318,8 @@ Un suppléant est désigné pour chaque siège.
 
 Un médecin exerçant à titre libéral sous la présente convention ne peut siéger comme représentant de la section sociale.
 
+La commission peut se réunir en formation orientations ou en formation exécutive.
+
 En formation médecins dans le cadre de la procédure définie à l'article 75, la CPL est composée :
 
 De la section professionnelle de la CPL en formation plénière telle que décrite supra, soit douze représentants titulaires.
@@ -1352,7 +1338,7 @@ Mise en place de la commission paritaire locale
 
 La CPL est mise en place dans les trois mois qui suivent l'entrée en vigueur de la convention.
 
-Elle se réunit au minimum trois fois par an et dans les cas suivants :
+Elle se réunit au minimum trois fois par an dont au moins une fois en formation orientations et dans les cas suivants :
 
 - à la demande de l'une des parties signataires de la convention ;
 
@@ -1364,7 +1350,9 @@ Article 74.3
 
 Rôle de la commission paritaire locale
 
-La CPL a notamment les missions suivantes :
+La CPL réunie en formation-orientations délibère sur les orientations de politique conventionnelle au niveau local.
+
+La CPL réunie en formation exécutive a notamment les missions suivantes :
 
 - elle veille au respect des obligations respectives des parties et se réunit pour étudier toute question soulevée par l'application de la convention au niveau local ;
 
@@ -1404,7 +1392,7 @@ Le non-respect des dispositions conventionnelles peut notamment porter sur :
 
 - le non-respect, de façon répétée, de la liste visée à l'article L. 162-1-7 du code de la sécurité sociale ;
 
-- le non-respect du droit à la dispense d'avance des frais au profit des bénéficiaires de la CMUC et de l'ACS .
+- le non-respect du droit à la dispense d'avance des frais au profit des bénéficiaires de la CMUC et de l'ACS ;
 
 - le non-respect de manière systématique de l'obligation de transmission électronique à l'assurance maladie, posée à l'article L. 161-35 du code de la sécurité sociale, des documents de facturation des actes et prestations .
 
@@ -1472,7 +1460,7 @@ Lorsque le conseil de l'ordre des médecins ou une juridiction a prononcé, à l
 
 - une peine effective d'emprisonnement ;
 
-- une mesure de liquidation judiciaire ;
+- une mesure de liquidation judiciaire.
 
 Le professionnel se trouve placé de fait et simultanément hors de la convention médicale, à partir de la date d'application de la sanction ordinale ou judiciaire ou de la mesure de liquidation judiciaire, et pour la même durée.
 
