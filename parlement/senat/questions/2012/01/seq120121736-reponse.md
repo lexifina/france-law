@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120121736
+
+- Question : [SEQ120121736](seq120121736.md) — Construction de bâtiments agricoles
+
+## Réponse
+
+*Écologie, développement durable, transports et logement, JO du 2012-03-29, page 793*
+
+Conformément à l'article R. 123-7 du code de l'urbanisme (CU) seules sont autorisées en zone agricole les constructions et installations nécessaires aux services publics ou d'intérêt collectif et à l'exploitation agricole. La jurisprudence interprète strictement cette disposition. Il ne suffit pas qu'une construction soit liée à l'activité agricole pour qu'elle soit autorisée dans ces zones, il faut encore qu'elle soit nécessaire à l'exploitation et que son implantation dans la zone agricole soit liée au type d'exploitation. Chaque demande devra donc faire l'objet d'un examen au cas par cas. Le conseil d'État a en effet considéré par exemple qu'une maison d'habitation ne pouvait être regardée comme directement liée et nécessaire à une activité horticole eu égard à la faible superficie d'une serre (CE 12 novembre 1990, n° 97282). La nature de l'exploitation agricole doit également être prise en considération. Certaines activités, comme l'élevage, peuvent en effet nécessiter une présence rapprochée et permanente. Dès lors, la réalisation d'une construction accueillant l'éleveur et ses salariés peut apparaître nécessaire à l'exploitation agricole. A contrario, le juge administratif a considéré que la culture de la vigne (CAA Marseille, 6 novembre 2009, n° 09MA 01965) et la production de céréales, de foin et de luzerne (CAA Lyon, 5 janvier 2010, n° O9LY 00035) ne nécessitaient pas une présence permanente. S'il n'existe pas d'interdiction absolue à l'installation de nouveaux bâtiments d'exploitation agricoles sur une commune différente de celle où s'exerce l'activité, le projet devra remplir ces conditions pour pouvoir être autorisé.
