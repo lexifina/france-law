@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120322779
+
+- Question : [SEQ120322779](seq120322779.md) — Réglementation des épandages de produits phytosanitaires
+
+## Réponse
+
+*Collectivités territoriales, JO du 2012-03-29, page 789*
+
+Conformément à l'article L. 2212-2 du code général des collectivités territoriales (CGCT), le maire exerce la police municipale qui a pour objet d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques, ainsi que la tranquillité publique (2°). Le pouvoir de police générale du maire en matière de salubrité publique comprend notamment le soin de prévenir et de faire cesser « les pollutions de toute nature » (5°). Sur le fondement de son pouvoir de police générale, le maire dispose ainsi de la possibilité de prescrire des mesures de salubrité publique aux propriétaires de fosses à purin (CE, 5 février 1960, Commune de Mougins), et de réglementer ou d'interdire l'écoulement du purin (TGI Chaumont, 17 mai 1994, req. n° 1994-603242). Comme toute mesure de police administrative, la réglementation ou l'interdiction par le maire de l'épandage de purin doit être proportionnée à l'objectif de salubrité ou de tranquillité publique poursuivi, notamment au regard de sa délimitation dans l'espace et dans le temps (CE, 19 mai 1933, Benjamin). En revanche, l'utilisation des produits phytosanitaires relève d'un pouvoir de police spéciale du ministre chargé de l'agriculture en vertu de l'article R. 253-2 du code rural et de la pêche maritime. Ainsi, en l'absence de péril imminent de nature à entraîner des conséquences irréversibles sur le plan sanitaire, le maire ne peut pas faire usage de son pouvoir de police générale pour empiéter sur la police spéciale du ministre chargé de l'agriculture en matière de réglementation des produits phytosanitaires (CAA Nantes, 24 mai 2005, req. n° 04NT00628).
