@@ -1,0 +1,298 @@
+# Délibération n° 2012-087 du 29 mars 2012 portant autorisation unique de traitements automatisés de données à caractère personnel mis en œuvre dans le cadre d'un système d'information géographique (SIG) et abrogeant la délibération n° 2006-257 du 5 décembre 2006 (décision d'autorisation unique AU-001)
+
+- Nature : Deliberation
+- Type : Référentiel/Règlement type/Norme
+- Numéro : 2012-087
+- Date : 2012-03-29
+- Publication : 2019-11-13
+- NOR : CNIA1200005X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000025686487
+
+La Commission nationale de l'informatique et des libertés,
+
+Vu la Convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et la libre circulation de ces données ;
+
+Vu le code de l'environnement, notamment ses articles L.127-10 et R.127-10 ;
+
+Vu le code de l'urbanisme et les réglementations relatives à l'aménagement territorial ;
+
+Vu le Livre des procédures fiscales, notamment ses articles L. 107 A et R. 107 A-1 à R. 107 A-7 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment ses articles 25-I-5° et 25-II ;
+
+Vu la loi n° 2009-967 du 3 août 2009 relative à la mise en œuvre du Grenelle de l'environnement ;
+
+Vu la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement ;
+
+Vu l'ordonnance n° 2005-1516 du 8 décembre 2005, notamment ses articles 9 et 10 portant création du Référentiel Général de Sécurité ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu la délibération n° 2006-257 du 5 décembre 2006 portant autorisation unique de traitements de données à caractère personnel mis en œuvre par les collectivités locales ou leurs groupements à des fins de gestion de l'urbanisme ou du service public de l'assainissement non collectif et pouvant comporter un système d'information géographique (décision d'autorisation unique AU-001) ;
+
+Après avoir entendu le rapport de M. Dominique RICHARD, commissaire, et les observations de Mme Elisabeth ROLIN, commissaire du Gouvernement ;
+
+Champ d'application de la présente autorisation
+
+Une base de données géographiques de référence a pour finalité de cartographier un territoire, local ou national aux fins d'une meilleure gouvernance de l'aménagement territorial. Elle comporte les références, le dessin et/ou l'adresse de la parcelle qui permettent indirectement d'identifier le propriétaire de la parcelle. Ces données constituent donc des données à caractère personnel.
+
+Un système d'information géographique (SIG) a notamment pour objet de localiser visuellement sur un territoire des activités humaines ou des catégories d'administrés concernées par une activité de gestion.
+
+L'exploitation statistique d'un SIG consiste à représenter la densité de population par secteur afin en particulier d'optimiser une décision.
+
+Cette exploitation statistique ne peut permettre d'identifier directement ou indirectement les personnes concernées. Le responsable de traitement est garant du caractère non identifiant de cette exploitation.
+
+REGIME APPLICABLE
+
+Les traitements mis en œuvre à partir des données du cadastre, de base de données géographiques ou d'un SIG, dès lors qu'ils comportent des interconnexions avec un fichier de données à caractère personnel ayant une finalité distincte et relevant d'intérêts publics différents, constituent des traitements soumis au régime d'autorisation prévu à l'article 25-I-5° de la loi Informatique et Libertés , sauf dans les cas prévus aux articles 26 ou 27.
+
+En outre, quand ces traitements sont susceptibles de comporter des données relatives aux infractions en matière d'urbanisme et d'environnement, ils relèvent également de l'article 25-I-3° de la loi du 6 janvier 1978 modifiée. Ils doivent aussi, à ce titre, être autorisés par la Commission. Il en va de même des traitements de données relatives à la santé justifiés par l'intérêt public (articles 8-IV et 25-I-1° de la loi Informatique et Libertés ).
+
+En application de l'article 25-II de la loi du 6 janvier 1978 modifiée, la Commission peut autoriser par décision unique les traitements répondant aux mêmes finalités et portant sur des catégories de données et de destinataires identiques.
+
+Le responsable de chaque traitement se conformant à cette décision unique adresse à la Commission un engagement de conformité aux caractéristiques de la présente autorisation.
+
+La Commission décide, dans ces conditions, que les structures et organismes énumérés ci-après qui lui adressent un engagement de conformité pour leurs traitements de données à caractère personnel répondant aux conditions fixées par la présente décision unique, sont autorisés à mettre en œuvre ces traitements.
+
+Article 1. Finalités du traitement
+
+Pour la gestion des services publics identifiés par la présente délibération, un SIG permet de :
+
+ représenter sur une carte toute information géo-positionnable,
+
+ projeter sur une carte des données issues d'une application métier. Plusieurs couches d'informations issues de plusieurs applications métiers peuvent être superposées sur un SIG.
+
+Chaque application métier qui comporte des données à caractère personnel doit par ailleurs faire l'objet de formalités auprès de la Commission avant son interconnexion avec le SIG.
+
+Seuls peuvent faire l'objet d'un engagement de conformité par référence à la présente autorisation unique les traitements mis en œuvre par :
+
+• l'Etat,
+
+• ses services déconcentrés,
+
+• ses établissements publics ;
+
+• les collectivités locales,
+
+• leurs groupements ;
+
+• tout organisme, privé ou public, chargé d'une mission de service public, statutairement ou contractuellement, par une collectivité ou un groupement cité supra ;
+
+ayant pour objet l'utilisation de bases de données géographiques, en relation avec les fichiers correspondant aux finalités qui suivent.
+
+• Gestion de l'urbanisme :
+
+o l'établissement d'un inventaire du foncier de la collectivité ou de l'Etat et la gestion des dossiers d'acquisitions ou de ventes foncières de la collectivité ou du groupement de collectivités, de l'Etat ou de ses services déconcentrés ;
+
+o l'instruction des demandes de permis de construire et autres formalités en matière de droit des sols ;
+
+o la réalisation d'études en matière d'urbanisme, d'habitat, d'aménagement du territoire et notamment du PLU (plan local d'urbanisme) ;
+
+o l'établissement ou la consultation des documents, plans et programmes définissant les politiques publiques en matière d'urbanisme et environnement ;
+
+o le suivi des constatations d'infraction en matière d'urbanisme ;
+
+o l'information des personnes concernées par des travaux d'aménagement de voirie, de gestion du domaine public et d'opération foncière, d'urbanisme ou liée à l'environnement ;
+
+o la délivrance, par les communes, des informations aux personnes ayant déposé une demande de renseignements dûment motivée concernant une propriété déterminée, bâtie ou non bâtie ;
+
+o la délivrance, par les communes, au propriétaire foncier du relevé de sa ou de ses propriété(s) ;
+
+o la consultation des informations sur les voiries et réseaux à l'exclusion des données à caractère personnel liées à la gestion des abonnements.
+
+• Gestion du service de l'assainissement collectif ou non :
+
+o la gestion des installations d'assainissement sur le territoire de la collectivité ou du groupement de collectivités.
+
+• Gestion de l'aménagement du territoire : urbanisme, développement et encadrement des réseaux, des énergies, des transports ; organisation et gestion des infrastructures locales, aires d'accueil des gens du voyage. Toutes activités qui, au-delà des informations géographiques, exploitent des données à caractère personnel relatives :
+
+o aux propriétaires dont la parcelle est concernée par l'activité, par l'implantation de nouveaux équipements, par la nouvelle étude ou le nouveau service,
+
+o à la localisation géographique des abonnés d'un réseau,
+
+o ou aux personnes concernées par l'activité gérée.
+
+et qui requièrent leur accord ou leur information.
+
+• Gestion des bâtiments : opération programmée d'amélioration de l'habitat (OPAH) ; lutte contre l'habitat indigne et insalubre ; gestion des logements vacants ; identification des phénomènes d'étalement urbain et de périurbanisation ; caractérisation de la qualité agronomique des terres : identification des terres agricoles à protéger en priorité face à l'urbanisation, création d'observatoire de la consommation du foncier ; gestion, contrôle et analyse des données nécessaires à la taxation des redevables locaux assujettis à la taxe locale sur les publicités extérieures ; étude de la thermographie des bâtiments.
+
+• Gestion des espaces verts, espaces agricoles, espaces naturels, fossés, cours d'eau, littoral, sites protégés : toutes activités qui nécessitent de collecter des informations sur les propriétaires des parcelles concernées, les locataires, métayers, fermiers, occupants ou voisins des parcelles concernées.
+
+• Maîtrise des risques sanitaires et traitement de la pollution : toutes activités qui nécessitent de collecter des informations sur les propriétaires des parcelles concernées, les locataires, métayers, fermiers, occupants ou voisins des parcelles concernées.
+
+• Economie du territoire et fiscalité : établissement d'un observatoire de la fiscalité locale, utilisation de la matrice cadastrale par la Commission communale ou intercommunale des Impôts directs pour l'évaluation des propriétés bâties ou non bâties, gestion des logements vacants, gestion de l'artisanat et du commerce.
+
+• Communication et tourisme : publication sur site internet des itinéraires de randonnées avec leurs équipements touristiques, sites remarquables, châteaux et hébergements avec coordonnées des exploitants ou propriétaires.
+
+• Aide à la population : gestion et prévention des risques, gestion du service d'aide et d'accompagnement à domicile, des secteurs scolaires, des bureaux de vote, des concessions dans les cimetières ; du plan communal de sauvegarde (PCS), gestion des missions du Service départemental d'Incendie et Secours (SDIS) ainsi que toutes les activités qui nécessitent de collecter des informations sur les personnes géolocalisées concernées.
+
+Tout autre usage du SIG est interdit.
+
+Article 2. Catégories de données à caractère personnel enregistrées
+
+Seules les informations qui suivent peuvent être traitées, sous réserve qu'elles se rapportent au territoire du service déconcentré de l'Etat, de la collectivité, du groupement de collectivités ou du ressort de compétence propre à l'organisme privé ou public chargé, statutairement ou contractuellement, d'une mission de service public :
+
+a) Les informations portant sur le(s) propriétaire(s) et/ou le(s) occupant(s) et /ou le(s) exploitant(s) : qualité, nom, prénom, date et lieu de naissance ; raison sociale, forme juridique ; droit de propriété et démembrement ; adresse du domicile.
+
+b) Les informations portant sur les propriétés non bâties : références cadastrales ; adresse ; référence au Livre foncier (en Alsace-Moselle) ; lots ; nature et sous-nature de culture ; surface ; revenu cadastral ; nature d'exonération, pourcentage appliqué ; fraction de revenu exonéré ; année de retour à l'imposition ; revenu imposé ; historique de la parcelle.
+
+c) Les informations portant sur les propriétés bâties : références cadastrales ; adresse ; année de construction ; catégorie, affectation, nature du local ; revenu cadastral ; nature des exonérations permanentes ; nombre, affectation et surface des pièces ; coefficients d'entretien, de situation et d'ascenseur ; descriptif des exonérations temporaires ; bases d'imposition ; informations relatives à la taxe ou redevance sur l'enlèvement des ordures ménagères.
+
+d) Les informations portant sur les dossiers d'urbanisme : nom, prénom et adresse du demandeur ; qualité, nom, prénom et adresse de l'architecte ; qualité, nom, prénom et adresse du notaire ; adresse, superficie et situation cadastrale du terrain ; coefficient d'occupation des sols ; zone du plan local d'urbanisme ; servitudes administratives ; nature des travaux ; changement de destination ; détail des surfaces ; montant des taxes d'urbanisme ; avis du maire ; contentieux administratif et pénal.
+
+e) Les informations portant sur les dossiers de déclaration d'intention d'aliéner : nom, prénom et adresse du propriétaire et du demandeur ; adresse et superficie du terrain ; désignation du bien, usage et occupation, existence de droits réels et personnels, prix de vente, avis des domaines.
+
+f) Les informations portant sur les dossiers d'infractions d'urbanisme : nom, prénom et adresse du contrevenant et du plaignant ; identification du terrain, origine du dossier, nature des travaux ; objet de l'infraction constatée, montant des astreintes journalières prononcées par le tribunal de grande instance, taxes mises en recouvrement, dates de procédure.
+
+g) Les informations portant sur les permissions de voirie : nom et prénom du bénéficiaire et objet.
+
+h) Les informations relatives à la performance énergétique des bâtiments publics ou privés.
+
+i) Les informations relatives à la gestion des installations individuelles d'assainissement collectif ou non collectif : adresse de l'immeuble, nom, prénom et adresse du propriétaire de l'immeuble, nom et prénom de l'occupant de l'immeuble, année de construction, catégorie, affectation et occupation des locaux, surface, références cadastrales et illustration photographique des parcelles.
+
+Les données provenant, le cas échéant, du service en charge de la gestion de l'eau potable ou de l'assainissement collectif seront utilisées lors de la phase de constitution initiale du fichier des redevables.
+
+j) Les informations nécessaires à la gestion des logements vacants, insalubres ou indignes.
+
+k) Les informations nécessaires à la mise en œuvre des alertes à la population : nom et prénom des occupants du logement, nombre d'enfants vivants au logement, dates de naissance, adresse, numéro de téléphone fixe, numéro de téléphone mobile et/ou numéro professionnel, adresse électronique ; qualité au titre de laquelle la personne est inscrite au fichier ; caractéristiques du logement ; animal de compagnie ; capacité à comprendre sans assistance (oui/non) ; capacité à se mouvoir sans aide (oui/non) ; moyen d'évacuation envisageable ; modalité de transport envisageable ; coordonnées de la personne à prévenir en cas d'urgence ; nom et qualité de la tierce personne ayant effectué l'inscription au registre.
+
+l) Les informations nécessaires à établir les redevances d'enlèvement des ordures ménagères incitatives : nom et prénom des occupants du logement, nombre et âge des habitants par logement, volume du bac mis à disposition et nombre de levées.
+
+m) Les informations financières et fiscales nécessaires à l'établissement d'un observatoire de la fiscalité locale ou à l'analyse de l'économie d'un territoire.
+
+n) Les informations nécessaires à l'allocation et au suivi des subventions dont l'adresse de l'allocataire et sa situation patrimoniale.
+
+La Commission rappelle que chaque donnée à caractère personnel collectée doit être adéquate, pertinente et non excessive au regard de la finalité poursuivie.
+
+La cartographie de données sensibles au sens de l'article 8 de la loi du 6 janvier 1978, de données relatives à la délinquance (article 9) et celles comportant des appréciations sur les difficultés sociales des personnes (article 25-I-7° de la loi Informatique et Libertés ) restent soumises à une autorisation spécifique.
+
+Les données enregistrées ne peuvent pas, dans le cadre de la présente décision d'autorisation unique, faire l'objet d'autre traitement. Elles ne peuvent ainsi ni être intégrées dans d'autre fichier, ni faire l'objet d'interconnexion, de rapprochement ou de toute autre forme de mise en relation avec d'autres traitements que ceux correspondants aux finalités énumérées à l'article 1er.
+
+N'entre pas dans le champ d'application de cette autorisation, la mise à jour des données personnelles contenues dans les applications métiers, d'un ou de plusieurs responsables de traitement via les cartographies réalisées par un SIG.
+
+Article 3. Information des personnes
+
+Les personnes concernées sont informées par le responsable de traitement conformément à l'article 32 de la loi Informatique et Libertés notamment en ce qui concerne l'éventuelle géolocalisation de leurs adresses pour chaque traitement lié au SIG. L'information est diffusée sur le site internet du responsable de traitement, par voie d'affichage, par publication dans la presse locale ou sur un support de communication propre au responsable de traitement.
+
+Toute publication sur Internet de cette géolocalisation est soumise à un droit d'opposition de la personne concernée. Ce droit se matérialise par une échelle de publication garantissant l'absence d'identification directe ou indirecte des personnes concernées par les résultats.
+
+Les droits Informatique et Libertés définis au chapitre V de la loi n°78-17 du 6 janvier 1978 modifiée s'exercent auprès du (des) service(s) désigné(s) par le service déconcentré de l'Etat, la collectivité, le groupement ou l'organisme privé ou public chargé de la mission de service public. Cette information figure sur tous les supports utilisés par le responsable du traitement pour entrer en contact avec les personnes concernées.
+
+Article 4. Communication d'informations cadastrales ou d'urbanisme au public
+
+La délivrance d'informations issues de la matrice cadastrale ne peut s'effectuer que dans les conditions fixées par les articles L. 107 A et R. 107 A-1 à R. 107 A-7 du Livre des procédures fiscales.
+
+• Le responsable de traitement peut délivrer ou faire délivrer par la personne qu'il délègue à cet effet, à toute personne qui en fait la demande ponctuelle, des informations issues de la matrice cadastrale.
+
+Conformément aux dispositions des articles susmentionnés, les date et lieu de naissance du propriétaire, les mentions relatives aux motifs d'exonération des taxes foncières lorsque ces motifs donnent une information sur le mode de financement de la construction ou la situation personnelle du propriétaire (personne économiquement faible) ne peuvent pas être communiqués au public.
+
+• Le public peut accéder directement par Internet à une interface de consultation des informations contenues dans une base de données géographiques, locale ou nationale, de référence ( BGR ).
+
+La Commission rappelle qu'une base géographique de référence consultable par le grand public ne peut inclure aucune information à caractère personnel autre que le découpage parcellaire et les adresses des parcelles , conformément à l'article L.127-10 du Code de l'environnement.
+
+L'obligation de publication des plans d'urbanisme et d'occupation des sols peut être réalisée sur Internet.
+
+Article 5. Destinataires des informations
+
+1°) Dans la limite de leurs attributions respectives et pour l'exercice des finalités précitées, sont seuls autorisés à accéder directement au traitement le directeur d'un service déconcentré de l'état, le maire, le président de la collectivité, le président de l'établissement public de coopération intercommunale, les responsables d'organismes privés ou publics en charge d'une mission de service public ou leurs représentants désignés ainsi que les agents habilités des services en charge de :
+
+- l'instruction des dossiers de droit des sols ;
+
+- l'urbanisme, l'environnement et le développement durable ;
+
+- des travaux et études relatifs à l'aménagement du territoire (habitat, voirie,...) ;
+
+- l'assainissement collectif ou non ;
+
+- la gestion du patrimoine ;
+
+- la gestion des bâtiments ;
+
+- la gestion des espaces verts, espaces agricoles, espaces naturels, fossés, cours d'eau, littoral, sites protégés, ... ;
+
+- la maîtrise des risques sanitaires, traitement de la pollution et gestion des déchets ;
+
+- l'économie et l'aménagement du territoire ;
+
+- la communication et le tourisme ;
+
+- l'aide à population.
+
+Ces agents habilités ne doivent accéder qu'aux données dont la connaissance est indispensable pour l'exercice de leur mission de service public. A cette fin, des niveaux d'habilitation différents doivent être définis.
+
+Pour rappel, dans le cadre des plans de sauvegarde et d'alerte à la population, l'article L. 121-6-1 du Code de l'action sociale et des familles prévoit que ces données nominatives ne peuvent être consultées que par les agents chargés de la mise en œuvre de ce recueil et de celle du plan d'alerte et d'urgence visé à l'article L. 116-3 . L'article R. 121-7 du même code précise que le maire assure la conservation des dossiers des demandeurs et prend toutes les précautions utiles pour préserver la confidentialité et la sécurité des renseignements collectés. Seules les personnes nommément désignées par le maire sont habilitées à enregistrer, traiter, conserver et modifier les données du registre nominatif. Les personnes concourant à la collecte des informations, à la constitution, à l'enregistrement et à la mise à jour du registre nominatif, ainsi que toutes celles ayant accès aux données contenues dans ce registre sont tenues au secret professionnel dans les conditions prévues aux articles 226-13, 226-14 et 226-31 du code pénal .
+
+Dans l'hypothèse d'un SIG mutualisé, régional, départemental ou intercommunal, les collectivités ou groupements de collectivités n'ont communication et accès qu'aux informations concernant leur territoire et relevant de leur compétence. Le responsable du SIG mutualisé garantit l'étanchéité des données de chaque collectivité.
+
+2°) Dans la limite de leurs attributions respectives et pour l'exercice de leur mission dans le cadre des finalités précitées, sont seuls destinataires des informations nécessaires à l'accomplissement de leurs missions, sans accès à l'application, les personnes suivantes :
+
+- les agents des différents organismes extérieurs consultés dans le cadre de l'instruction des permis de construire ;
+
+- les agents de services déconcentrés des ministères en charge de l'Agriculture, de l'Aménagement du territoire, de l'Énergie, de l'Écologie, du Développement durable, des Transports, du Logement et du Tourisme ;
+
+- les agents de la Direction des Finances publiques ;
+
+- les agents de la collectivité locale, dès lors qu'elle a transféré la compétence objet du traitement à un groupement, ou tout organisme de gestion responsable du traitement ;
+
+- le procureur de la République territorialement compétent pour les informations relatives aux infractions d'urbanisme et d'environnement.
+
+3°) La réutilisation des informations d'un SIG contenant des données à caractère personnel est régie par l'article 13 de la loi n° 78-753 du 17 juillet 1978 dite loi Cada (anonymisation ou consentement des personnes) et soumise à formalités préalables auprès de la Commission nationale de l'informatique et des libertés.
+
+Article 6. Durée de conservation
+
+Toute base de données géographiques, est mise à jour régulièrement, et au minimum chaque année.
+
+Sauf dispositions législatives ou réglementaires contraires, seule la version de l'année précédente peut être conservée en base d'exploitation.
+
+Le responsable du Système d'Information Géographique (SIG) peut mettre en œuvre, à des fins de statistiques, de suivi de cohortes et d'analyse historique de l'évolution des territoires, sur un délai plus long, une base infocentre spécifique, constituée de données agrégées, et ne permettant pas l'identification directe ou indirecte des personnes. Cet infocentre sera enrichi chaque année par importation de données du SIG et des applications qui lui sont interconnectées.
+
+Comme indiqué à l'article 9 de la présente délibération, la matrice cadastrale et notamment son archivage relève de la dispense de déclaration n°16.
+
+La Commission rappelle que les traitements à finalités différentes, interconnectés ou internes au SIG et déclarés à la CNIL, doivent notamment préciser la durée de conservation des données.
+
+Dans l'hypothèse où les autres informations ne sont pas enregistrées dans les applications métiers déclarées, elles peuvent être conservées dans le SIG pour une durée qui n'excède pas la durée nécessaire aux finalités pour lesquelles elles sont collectées.
+
+Au-delà de cette durée, le responsable du traitement doit prévoir un archivage des informations sur un support distinct.
+
+Article 7. Recours à un prestataire
+
+La réalisation des études mentionnées à l'article 1er peut être confiée par le responsable du traitement à un tiers prestataire de service.
+
+Les données pertinentes pour réaliser une prestation sous-traitée peuvent être accédées par le prestataire sur habilitation spéciale ou lui être transmises par le responsable du traitement sous forme chiffrée, et dans les conditions prévues par une convention conforme au Référentiel Général de Sécurité (RGS) (Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005, relatif à la sécurité des informations échangées par voie électronique).
+
+La convention signée avec le prestataire doit notamment définir les opérations autorisées à partir des données à caractère personnel auxquelles il a accès ou qui lui sont transmises ainsi que les engagements pris pour garantir leur sécurité et leur confidentialité, et souligner en particulier l'interdiction d'utiliser les données à d'autres fins que celles faisant l'objet de la convention.
+
+Le prestataire de service doit procéder à la destruction ou à la restitution de tous les fichiers manuels ou informatisés, contenant les informations qui lui ont été transmises et qu'il a enrichies, dès l'achèvement de son contrat.
+
+Article 8. Mesures de sécurité
+
+Des mesures adéquates doivent être mises en œuvre et contrôlées afin de réduire les risques liés à l'accès illégitime, à la modification non désirée, et à la disparition des informations traitées. Des processus doivent être mis en place pour permettre aux personnes concernées d'exercer leurs droits. L'objectif consiste à empêcher toute utilisation détournée ou frauduleuse de ces informations, notamment par des tiers non autorisés, et préserver l'intégrité des données. A ce titre, les mesures de sécurité mises en place pour permettre la consultation sur un site internet ouvert au grand public doivent interdire le téléchargement des cartes affichant des données à caractère personnel issues du SIG.
+
+Les personnes habilitées, visées au 1° de l'article 5, peuvent bénéficier d'un accès direct et permanent aux données du traitement. Cet accès est contrôlé au moyen d'un identifiant et d'un mot de passe individuels conformes aux recommandations de la CNIL et du Référentiel Général de Sécurité, ou par tout autre moyen d'authentification au moins équivalent.
+
+Lorsque des données sont échangées en masse sur des supports physiques, leur confidentialité doit impérativement être protégée par des mécanismes de chiffrement conformes au Référentiel Général de Sécurité. Ces échanges doivent faire l'objet des formalités préalables prévues par la loi Informatique et Libertés .
+
+Lorsque l'accès au traitement s'effectue au travers d'un réseau non sécurisé, les données à caractère personnel transmises doivent être chiffrées lors de leur transport, afin d'en garantir la confidentialité. Lorsque ce chiffrement est assuré par un certificat électronique, celui-ci doit être généré et manipulé selon les modalités définies au Référentiel Général de Sécurité.
+
+Enfin, tous les accès aux données à caractère personnel doivent être tracés dans un journal de connexion, qui doit être conservé 6 mois et être régulièrement analysé, afin de détecter toute tentative d'accès illégitime aux données.
+
+Article 9. Exclusions du champ de l'autorisation unique
+
+Les traitements mis en œuvre par les collectivités, leurs groupements et tout organisme en charge d'une mission de service public se limitant à la consultation de la matrice cadastrale et à l'édition de relevés cadastraux, sans possibilité d'enrichissement ni de retraitement des données, et notamment l'utilisation des CD-ROM Visu-DGFiP , ne relèvent pas de la présente décision d'autorisation (cf. norme simplifiée n°44 modifiée en dispense de déclaration).
+
+Tout autre traitement de données à caractère personnel mis en œuvre à partir de données géographiques, comportant ou non un SIG, ne correspondant pas en tout point à la présente décision, notamment au regard de ses finalités, destinataires, ou catégories des données traitées, devra faire l'objet d'une demande d'autorisation distincte.
+
+Article 10.
+
+La délibération n° 2006-257 du 5 décembre 2006 portant autorisation unique de traitements de données à caractère personnel comportant un SIG mis en œuvre par les collectivités locales ou leurs groupements est abrogée et remplacée par la présente délibération.
+
+Article 11.
+
+La présente délibération sera publiée au Journal officiel de la République française.
+
+La Présidente
+
+Isabelle FALQUE-PIERROTIN
