@@ -1934,53 +1934,51 @@ Non amortis, toutes classes
 
 3.2. Imagerie par résonance magnétique
 
-Tarifs des forfaits techniques des IRM
+Tarifs des forfaits techniques des IRM (2)
 
-PUISSANCE DE L'APPAREIL
+CLASSE D'APPAREILS, SELON LA PUISSANCE
 
-(en teslas)
+de l'aimant (en tesla) |
 
-|
+< 0,5 T |
 
-< 0,5 T
+0,5 T |
 
-|
+> 0,5 T et < 1,5 T |
 
-0,5 T
+1,5 T (2) |
 
-|
+1,5 T dédié
 
-> 0,5 T et < 1,5 T
+aux membres
 
-|
+(3) |
 
-1,5 T (2)
+1,5 T spécialisé ostéo-articulaire (3) |
 
-|
+> 1,5 T |
 
-Activités de référence
+Activité de référence (nombre de forfaits) |
 
-|
+3 500 |
 
-3 500
+4 000 |
 
-|
+4 500 |
 
-4 000
+4 500 |
 
-|
+4 500 |
 
-4 000
+4 500 |
 
-|
+4 500 |
 
-4 500
+AMORTIS (1), forfaits pleins
 
-|
+Paris |
 
-Amortis (1), forfaits pleins :
-
-|
+154,26 € |
 
 |
 
@@ -1988,33 +1986,15 @@ Amortis (1), forfaits pleins :
 
 |
 
-|
+72,64 € |
 
-Paris
+85,68 € |
 
-|
+154,26 € |
 
-171,40 €
+Région parisienne hors Paris |
 
-|
-
-Région parisienne (hors Paris)
-
-|
-
-164,22 €
-
-|
-
-Province
-
-|
-
-154,18 €
-
-|
-
-Non amortis, forfaits pleins
+147,80 € |
 
 |
 
@@ -2022,105 +2002,135 @@ Non amortis, forfaits pleins
 
 |
 
-|
+72,17 € |
 
-|
+84,64 € |
 
-Paris
+147,80 € |
 
-|
+Province |
 
-198,64 €
-
-|
-
-194,34 €
-
-|
-
-218,72 €
-
-|
-
-230,20 €
-
-|
-
-Région parisienne (hors PARIS)
-
-|
-
-192,90 €
-
-|
-
-187,17 €
-
-|
-
-211,55 €
-
-|
-
-223,03 €
-
-|
-
-Province
-
-|
-
-182,86 €
-
-|
-
-179,28 €
-
-|
-
-204,38 €
-
-|
-
-213,71 €
-
-|
-
-Forfait réduit selon les tranches toutes régions, tous appareils (puissance et millésime) :
+138,76 € |
 
 |
 
 |
 
-Activité > activité de référence et ≤ Seuil 1
+|
+
+72,01 € |
+
+84,28 € |
+
+138,76 € |
+
+NON AMORTIS, forfaits pleins
+
+Paris |
+
+178,78 € |
+
+174,91 € |
+
+207,78 € |
+
+207,18 € |
+
+108,00 € |
+
+125,00 € |
+
+218,69 € |
+
+Région parisienne hors Paris |
+
+173,61 € |
+
+168,45 € |
+
+200,97 € |
+
+200,73 € |
+
+107,54 € |
+
+123,96 € |
+
+211,88 € |
+
+Province |
+
+165,47 € |
+
+161,35 € |
+
+194,16 € |
+
+192,34 € |
+
+107,37 € |
+
+123,60 € |
+
+203,02 € |
+
+FORFAIT RÉDUIT selon les tranches d'activités
+
+Activité > Activité de référence et ≤ seuil 1 |
+
+74,16 € |
 
 |
 
-80,61 €
+|
 
 |
 
-Activité > Seuil 1 et ≤ Seuil 2
+46,67 € |
+
+48,88 € |
+
+74,16 € |
+
+Activité > seuil 1 et ≤ seuil 2 |
+
+61,81 € |
 
 |
 
-67,18 €
+|
 
 |
 
-Activité > Seuil 2 |
+38,73 € |
 
-41,99 €
+40,74 € |
+
+61,81 € |
+
+Activité > seuil 2 |
+
+38,63 € |
 
 |
+
+|
+
+|
+
+24,20 € |
+
+25,46 € |
+
+38,63 € |
 
 (1) Sont considérés comme amortis, les appareils installés depuis plus de sept ans révolus au 1er janvier de l'année considérée.
 
-(2) Les appareils dont la puissance est supérieure à 1,5 T se voient provisoirement appliquer les tarifs et activités de référence de la classe 1,5T .
+(2) Hors appareils IRM 1,5 T dédié aux examens des membres et appareils IRM 1,5 T spécialisé aux examens ostéo-articulaire.
 
-|
+(3) Appareils IRM adossés à un appareil 1,5 T ou > 1,5 T déjà installé sur le même site géographique. |
 
-(2) IRM : Seuil 1 = 8 000 forfaits ; Seuil 2 = 11 000 forfaits.
+(2) IRM : seuil 1 = 8 000 forfaits techniques ; seuil 2 = 11 000 forfaits techniques.
 
 3.3. Tomographes à émission de positons (TEP)
 
