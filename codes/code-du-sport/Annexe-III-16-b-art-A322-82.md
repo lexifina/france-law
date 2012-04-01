@@ -1,8 +1,10 @@
-# Article Annexe III-16 b
+# Article Annexe III-16 b (art. A322-82)
 
-CONDITIONS D'ÉVOLUTION EN EXPLORATION EN PLONGÉE À L'AIR EN MILIEU NATUREL
+Conditions d'évolution en exploration en plongée à l'air en milieu naturel
 
-ESPACES d'évolution
+ESPACES
+
+d'évolution
 
 |
 
@@ -14,19 +16,39 @@ PLONGÉE AUTONOME
 
 |
 
-Aptitudes minimales des plongeurs encadrés
+Aptitudes minimales
+
+des plongeurs encadrés
 
 |
 
-Effectif maximal de la palanquée (encadrement non compris)
+Effectif maximal
+
+de la palanquée
+
+(personne encadrant
+
+la palanquée
+
+non comprise)
 
 |
 
-Compétence minimale de l'encadrant
+Compétence
+
+minimale de
+
+la personne encadrant
+
+la palanquée
 
 |
 
-Aptitudes minimales des plongeurs en autonomie
+Aptitudes minimales
+
+des plongeurs
+
+en autonomie
 
 |
 
@@ -46,7 +68,7 @@ Débutants
 
 |
 
-E1 ou GP
+E1 ou GP ou P4
 
 |
 
@@ -54,35 +76,13 @@ E1 ou GP
 
 |
 
-Espace de 0 à 12 mètres
+Espace de 0
+
+à 12 mètres
 
 |
 
-PE-1
-
-|
-
-4 (*)
-
-|
-
-E2 ou GP
-
-|
-
-PA-1
-
-|
-
-3
-
-|
-
-Espace de 0 à 20 mètres
-
-|
-
-PE-2
+PE-12
 
 |
 
@@ -90,11 +90,11 @@ PE-2
 
 |
 
-E2 ou GP
+E2 ou GP ou P4
 
 |
 
-PA-2
+PA-12
 
 |
 
@@ -102,11 +102,13 @@ PA-2
 
 |
 
-Espace de 0 à 40 mètres
+Espace de 0
+
+à 20 mètres
 
 |
 
-PE-3
+PE-20
 
 |
 
@@ -114,35 +116,11 @@ PE-3
 
 |
 
-E3 ou GP
+E2 ou GP ou P4
 
 |
 
-PA-3
-
-|
-
-3
-
-|
-
-Espace de 0 à 60 mètres
-
-|
-
-PE-4
-
-|
-
-3 (*)
-
-|
-
-E 4
-
-|
-
-PA-4
+PA-20
 
 |
 
@@ -150,6 +128,58 @@ PA-4
 
 |
 
-(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de GP.
+Espace de 0
+
+à 40 mètres
+
+|
+
+PE-40
+
+|
+
+4 (*)
+
+|
+
+E3 ou GP ou P4
+
+|
+
+PA-40
+
+|
+
+3
+
+|
+
+Espace de 0
+
+à 60 mètres
+
+|
+
+PE-60
+
+|
+
+4 (*)
+
+|
+
+E4
+
+|
+
+PA-60
+
+|
+
+3
+
+|
+
+(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titulaires d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
 
 |

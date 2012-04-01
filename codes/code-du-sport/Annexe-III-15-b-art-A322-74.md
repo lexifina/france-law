@@ -1,103 +1,133 @@
-# Article Annexe III-15 b
+# Article Annexe III-15 b (art. A322-74)
 
-NIVEAUX D'ENSEIGNEMENT EN PLONGÉE À L'AIR
+Qualification minimale de la personne encadrant la palanquée
 
-COMPÉTENCES D'ENSEIGNANT
-
-|
-
-NIVEAU MINIMUM
-
-du brevet fédéral
+FONCTIONS
 
 |
 
-NIVEAU MINIMUM
+BREVETS DÉLIVRÉS
 
-du diplôme d'Etat
+par la FFESSM, la FSGT, l'UCPA,
 
-|
-
-E-1
-
-(Enseignant niveau 1)
+l'ANMP et le SNMP
 
 |
 
-- Initiateur FFESSM
+BREVETS DÉLIVRÉS
 
-- Initiateur FSGT
-
-|
+par la CMAS
 
 |
 
-E-2
-
-(Enseignant niveau 2)
+DIPLÔMES D'ÉTAT
 
 |
 
-- Initiateur FFESSM + guide de palanquée
-
-- Stagiaire pédagogique MF1 FFESSM (*)
-
-- Aspirant fédéral FSGT
-
-- Moniteur 1 étoile CMAS
+Plongées à l'air en exploration
 
 |
 
-Stagiaire BEES 1 plongée
+Personne encadrant une palanquée en exploration.
 
 |
 
-E-3
+Guide de palanquée (GP) (*).
 
-(Enseignant niveau 3)
-
-|
-
-- MF1 FFESSM
-
-- MF1 FSGT
-
-- Moniteur 2 étoiles CMAS
-
-|
-
-BEES 1 plongée
-
-|
-
-E-4
-
-(Enseignant niveau 4)
-
-|
-
-- MF2 FFESSM
-
-- MF2 FSGT
-
-|
-
-BEES 2 plongée
-
-|
-
-E-5
-
-(Enseignant niveau 5)
+Plongeur de niveau 4 (P4) (*).
 
 |
 
 |
 
-BEES 3 plongée
+BPJEPS plongée.
+
+Stagiaire BPJEPS plongée.
 
 |
 
-(*) Pour obtenir les prérogatives attachées à l'encadrant de niveau 2 (E2), le guide de palanquée en formation pédagogique de MF1 est assujetti à la présence sur le site de plongée d'un cadre formateur E4 minimum.
+Plongée à l'air en enseignement et en exploration
+
+|
+
+Enseignant niveau 1 (E-1).
+
+|
+
+Initiateur (*) FFESSM ou FSGT.
+
+|
+
+|
+
+BPJEPS plongée.
+
+Stagiaire BPJEPS plongée.
+
+|
+
+Enseignant niveau 2 (E-2).
+
+|
+
+Initiateur (*) FFESSM et Guide de palanquée (GP) (*).
+
+Stagiaire pédagogique MF1
+
+FFESSM (*) (**).
+
+Aspirant fédéral FSGT.
+
+|
+
+Moniteur 1 étoile.
+
+|
+
+Stagiaire BEES 1 plongée.
+
+|
+
+Enseignant niveau 3 (E-3).
+
+|
+
+MF1 (*) FFESSM ou FSGT.
+
+|
+
+Moniteur 2 étoiles.
+
+|
+
+BEES 1 plongée.
+
+Stagiaire DEJEPS plongée.
+
+Stagiaire DESJEPS plongée.
+
+|
+
+Enseignant niveau 4 (E-4).
+
+|
+
+MF2 (*) FFESSM ou FSGT.
+
+|
+
+|
+
+BEES 2 plongée.
+
+DEJEPS plongée.
+
+DESJEPS plongée.
+
+|
+
+*(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
+
+(**) Pour obtenir les prérogatives attachées à l'encadrant de niveau 2 (E2) en milieu naturel, le stagiaire pédagogique MF1 de la FFESSM est assujetti à la présence sur le site de plongée d'un cadre formateur E3 minimum.
 
 |
