@@ -1,10 +1,12 @@
-# Article Annexe III-14 b
+# Article Annexe III-14 b (art. A322-77)
 
-BREVETS DE PRATIQUANTS DÉLIVRÉS PAR LA FÉDÉRATION FRANÇAISE D'ÉTUDES ET DE SPORTS SOUS-MARINS (FFESSM), LA FÉDÉRATION SPORTIVE ET GYMNIQUE DU TRAVAIL (FSGT), L'UNION NATIONALE DES CENTRES SPORTIFS DE PLEIN AIR (UCPA), L'ASSOCIATION NATIONALE DES MONITEURS DE PLONGÉE (ANMP), LE SYNDICAT NATIONAL DES MONITEURS DE PLONGÉE (SNMP) ET LA CONFÉDÉRATION MONDIALE DES ACTIVITÉS SUBAQUATIQUES (CMAS) ATTESTANT DES APTITUDES DE L'ANNEXE III-14 a
+Brevets de pratiquants délivrés par la Fédération française d'études et de sports sous-marins (FFESSM), la Fédération sportive et gymnique du travail (FSGT), l'Union nationale des centres sportifs de plein air (UCPA), l'Association nationale des moniteurs de plongée (ANMP), le Syndicat national des moniteurs de plongée (SNMP) et la Confédération mondiale des activités subaquatiques (CMAS) attestant des aptitudes de l'annexe III-14 a
 
-BREVETS DÉLIVRÉS PAR LA FFESSM,
+BREVETS DÉLIVRÉS
 
-la FSGT, l'UCPA, l'ANMP et le SNMP
+par la FFESSM, la FSGT, l'UCPA,
+
+l'ANMP et le SNMP
 
 |
 
@@ -14,23 +16,23 @@ par la CMAS
 
 |
 
-APTITUDES À PLONGER
+APTITUDES À PLONGER ENCADRÉ
 
-encadré par un guide
-
-de palanquée
+par un guide de palanquée
 
 |
 
 APTITUDES À PLONGER
 
-en autonomie (sans guide
+en autonomie
 
-de palanquée)
+(sans personne
+
+encadrant la palanquée)
 
 |
 
-Plongeur niveau 1-P1 (*)
+Plongeur niveau 1 - P1
 
 |
 
@@ -38,27 +40,27 @@ Plongeur 1 étoile
 
 |
 
-PE-2
+PE-20
 
 |
 
 |
 
-Plongeur niveau 1-P1 (*) incluant l'autonomie
+Plongeur niveau 1 - P1 incluant l'autonomie
 
 |
 
 |
 
-PE-2
+PE-20
 
 |
 
-PA-1
+PA-12
 
 |
 
-Plongeur niveau 2-P2 (*)
+Plongeur niveau 2 - P2
 
 |
 
@@ -66,15 +68,15 @@ Plongeur 2 étoiles
 
 |
 
-PE-3
+PE-40
 
 |
 
-PA-2
+PA-20
 
 |
 
-Plongeur niveau 3-P3 (*)
+Plongeur niveau 3 - P3
 
 |
 
@@ -82,14 +84,10 @@ Plongeur 3 étoiles
 
 |
 
-PE-4
+PE-60
 
 |
 
-PA-4
-
-|
-
-(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
+PA-60
 
 |

@@ -1,40 +1,52 @@
-# Article Annexe III-14 a
+# Article Annexe III-14 a (art. A322-77)
 
-APTITUDES DES PRATIQUANTS
+Aptitudes des pratiquants à utiliser de l'air
 
-APTITUDES À PLONGER
+APTITUDES
 
-encadré par un guide
+à plonger
 
-de palanquée
+en palanquée
 
-|
-
-LE PRATIQUANT DOIT JUSTIFIER
-
-des aptitudes suivantes auprès du directeur de plongée
-
-|
-
-APTITUDES À PLONGER
-
-en autonomie (sans guide de palanquée)
+encadrée
 
 |
 
 LE PRATIQUANT DOIT JUSTIFIER
 
-des aptitudes suivantes auprès du directeur de plongée
+des aptitudes suivantes
+
+auprès du directeur de plongée
 
 |
 
-PE-1
+APTITUDES À PLONGER
 
-Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à 12 mètres
+en autonomie
+
+(sans personne
+
+encadrant la palanquée)
 
 |
 
-Maîtrise de l'utilisation de son équipement personnel, notamment le scaphandre autonome avec gilet stabilisateur
+LE PRATIQUANT DOIT JUSTIFIER
+
+des aptitudes suivantes auprès
+
+du directeur de plongée
+
+|
+
+PE-12
+
+Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à
+
+12 mètres
+
+|
+
+Maîtrise de l'utilisation de son équipement personnel, notamment le scaphandre avec gilet stabilisateur
 
 Maîtrise de la mise à l'eau, de l'immersion et du retour en surface à vitesse contrôlée
 
@@ -48,13 +60,15 @@ Respect de l'environnement et des règles de sécurité
 
 |
 
-PA-1
+PA-12
 
-Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à 12 mètres
+Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à
+
+12 mètres
 
 |
 
-Maîtrise des aptitudes PE-1
+Maîtrise des aptitudes PE-12
 
 Maîtrise de l'orientation et des moyens de contrôle de sa profondeur, de son temps de plongée et de son autonomie en air
 
@@ -68,31 +82,37 @@ Planification de la plongée et adaptation aux conditions subaquatiques
 
 |
 
-PE-2
+PE-20
 
-Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à 20 mètres
+Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à
+
+20 mètres
 
 |
 
-Maîtrise des aptitudes PE-1
+Maîtrise des aptitudes PE-12
 
 Maîtrise de sa propulsion et de sa stabilisation
 
 Maîtrise de sa vitesse de remontée et maintien d'un palier
 
-Connaissance des signes et des réponses adaptées, maîtrise de la communication avec ses coéquipiers
+Connaissance des signes et des réponses adaptées
+
+maîtrise de la communication avec ses coéquipiers
 
 Intégration à une palanquée guidée avec surveillance réciproque
 
 |
 
-PA-2
+PA-20
 
-Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à 20 mètres
+Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à
+
+20 mètres
 
 |
 
-Maîtrise des aptitudes PA-1 et PE-2
+Maîtrise des aptitudes PA-12 et PE-20
 
 Maîtrise de l'utilisation de l'équipement de ses coéquipiers
 
@@ -102,13 +122,15 @@ Maîtrise d'intervention sur un plongeur en difficulté depuis le fond
 
 |
 
-PE-3
+PE-40
 
-Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à 40 mètres
+Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à
+
+40 mètres
 
 |
 
-Maîtrise des aptitudes PE-2
+Maîtrise des aptitudes PE-20
 
 Maîtrise de la vitesse de descente lors de l'immersion
 
@@ -118,31 +140,39 @@ Connaissance des signes spécifiques à cette profondeur et maîtrise de la rapi
 
 Maîtrise d'une remontée en sécurité en cas de perte de palanquée
 
-|
-
-PA-3
-
-Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à 40 mètres
+Intégration à une palanquée guidée à une profondeur de 20 à 40 mètres
 
 |
 
-Maîtrise des aptitudes PA-2 et PE-3
+PA-40
+
+Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à
+
+40 mètres
+
+|
+
+Maîtrise des aptitudes PA-20 et PE-40
 
 Maîtrise des procédures de décompression
 
 Maîtrise de la décompression de ses coéquipiers et vigilance sur la cohésion de la palanquée
 
-Adaptation des procédures d'intervention sur un plongeur en difficulté à une profondeur de 20 à 40 mètres
+Adaptation des procédures d'intervention sur un plongeur en difficulté à une profondeur de 20 à
+
+40 mètres
 
 |
 
-PE-4 (*)
+PE-60 (*)
 
-Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à 60 mètres
+Aptitudes à évoluer en palanquée encadrée dans l'espace de 0 à
+
+60 mètres
 
 |
 
-Maîtrise des aptitudes PE-3
+Maîtrise des aptitudes PE-40
 
 Adaptation aux conditions d'évolution subaquatique à une profondeur de 40 à 60 mètres
 
@@ -150,13 +180,15 @@ Intégration à une palanquée guidée à une profondeur de 40 à 60 mètres
 
 |
 
-PA-4 (*)
+PA-60 (*)
 
-Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à 60 mètres
+Aptitudes à évoluer en palanquée autonome dans l'espace de 0 à
+
+60 mètres
 
 |
 
-Maîtrise des aptitudes PA-3 et PE-4
+Maîtrise des aptitudes PA-40 et PE-60
 
 Maîtrise de la gestion de plongée à une profondeur de 40 à 60 mètres
 
@@ -166,6 +198,6 @@ Maîtrise de l'organisation de sa propre immersion dans toute zone d'évolution
 
 |
 
-(*) Cet espace d'évolution est réservé aux plongeurs titulaires d'un brevet mentionné à l'annexe III-14 b.
+(*) Cet espace d'évolution est réservé aux plongeurs titulaires d'un brevet délivré par la FFESSM, la FSGT, l'UCPA, l'ANMP, le SNMP ou la CMAS permettant la pratique dans l'espace de 0 à 60 mètres.
 
 |

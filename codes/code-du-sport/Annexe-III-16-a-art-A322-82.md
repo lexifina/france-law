@@ -1,8 +1,6 @@
-# Article Annexe III-16 a (art. A322-77)
+# Article Annexe III-16 a (art. A322-82)
 
-CONDITIONS D'ÉVOLUTION EN ENSEIGNEMENT
-
-EN PLONGÉE À L'AIR EN MILIEU NATUREL
+Conditions d'évolution en enseignement en plongée à l'air en milieu naturel
 
 ESPACES
 
@@ -14,9 +12,9 @@ APTITUDES MINIMALES DES PLONGEURS
 
 |
 
-COMPÉTENCE MINIMALE
+COMPÉTENCE
 
-de l'enseignant
+minimale de la personne encadrant la palanquée
 
 |
 
@@ -24,7 +22,9 @@ EFFECTIF MAXIMAL
 
 de la palanquée
 
-(enseignant non compris)
+(personne encadrant
+
+la palanquée non comprise)
 
 |
 
@@ -44,8 +44,6 @@ E-1
 
 |
 
-|
-
 Débutants
 
 |
@@ -62,7 +60,7 @@ Espace de 0 à 12 mètres
 
 |
 
-PE-1 ou débutants en cours de formation vers les aptitudes PE-1 ou PA-1
+Débutants en cours de formation vers les aptitudes PE-12 ou PA-12
 
 |
 
@@ -78,7 +76,7 @@ Espace de 0 à 20 mètres
 
 |
 
-Débutants ou PE-1 en cours de formation vers les aptitudes PE-2 ou PA-2
+Débutants ou PE-12, en cours de formation vers les aptitudes PE-20 ou PA-20
 
 |
 
@@ -94,7 +92,7 @@ Espace de 0 à 40 mètres
 
 |
 
-PE-2 ou PA-2 en cours de formation vers les aptitudes PE-3 ou PA-3
+PE-20 ou PA-20, en cours de formation vers les aptitudes PE-40 ou PA-40
 
 |
 
@@ -102,7 +100,7 @@ E-3
 
 |
 
-3 (*)
+4 (*)
 
 |
 
@@ -110,7 +108,7 @@ Espace de 0 à 60 mètres
 
 |
 
-PE-3 ou PA-3 encours de formation vers les aptitudes PE-4 ou PA-4
+PE-40 ou PA-40, en cours de formation vers les aptitudes PE-60 ou PA-60
 
 |
 
@@ -118,10 +116,10 @@ E-4
 
 |
 
-3 (*)
+4
 
 |
 
-(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de GP.
+(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titulaires d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
 
 |

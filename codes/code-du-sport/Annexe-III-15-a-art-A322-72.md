@@ -1,16 +1,16 @@
-# Article Annexe III-15 a
+# Article Annexe III-15 a (art. A322-72)
 
-NIVEAUX DE GUIDE DE PALANQUÉE ET DIRECTEUR DE PLONGÉE
+Qualification minimale du directeur de plongée
 
-EN PLONGÉE À L'AIR EN MILIEU NATUREL
-
-COMPÉTENCES D'ENCADRANT
+FONCTIONS
 
 |
 
-BREVETS DÉLIVRÉS PAR LA FFESSM,
+BREVETS DÉLIVRÉS
 
-la FSGT, l'UCPA, l'ANMP et le SNMP
+par la FFESSM, la FSGT, l'UCPA,
+
+l'ANMP et le SNMP
 
 |
 
@@ -24,49 +24,31 @@ DIPLÔMES D'ÉTAT
 
 |
 
-Guide de palanquée (GP)
+Plongées à l'air ou au nitrox en exploration
 
 |
 
-Plongeur niveau 4 - P4 (*)
+Directeur de plongée en milieu naturel
 
 |
 
-Moniteur 2 étoiles
+Directeur de plongée en exploration - DPE (*)
+
+Plongeur de niveau 5 (P5) (*)
 
 |
 
-Stagiaire BEES 1 plongée
+|
 
 |
 
-.
-
-COMPÉTENCES D'ENCADRANT
+Plongées à l'air ou au nitrox en enseignement ou en exploration
 
 |
 
-BREVETS DÉLIVRÉS
-
-par la FFESSM et la FSGT
+Directeur de plongée en milieu naturel
 
 |
-
-BREVETS DÉLIVRÉS
-
-par la CMAS
-
-|
-
-DIPLÔMES D'ÉTAT
-
-|
-
-Directeur de plongée (DP)
-
-|
-
-Plongeur niveau 5 - P5 (*) (**)
 
 MF1 (*) FFESSM ou FSGT
 
@@ -78,10 +60,36 @@ Moniteur 2 étoiles
 
 BEES 1 plongée
 
+DEJEPS plongée
+
+DESJEPS plongée
+
 |
 
-(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
+Plongées au trimix en enseignement ou en exploration
 
-(**) Les plongeurs P5 ne peuvent exercer les missions de directeur de plongée que dans le cadre de plongées d'exploration au sens de l'article A. 322-81-2.
+|
+
+Directeur de plongée
+
+|
+
+MF2 (*) FFESSM ou FSGT
+
+|
+
+|
+
+BEES 2 plongée
+
+DEJEPS plongée
+
+DESJEPS plongée
+
+|
+
+(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des brevets de même niveau de la Fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
+
+Pour la plongée aux mélanges, le directeur de plongée doit également justifier des aptitudes PN-C ou PTH-120 correspondant aux mélanges utilisés conformément aux annexes III-17 a et III-18 a.
 
 |
