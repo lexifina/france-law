@@ -1,0 +1,5 @@
+# Article 1er
+
+En application des articles L. 2232-21 et suivants du code du travail, dans les entreprises de moins de 200 salariés dépourvues de délégué syndical, un accord collectif peut être conclu entre l'employeur et les représentants élus du personnel représentant la majorité des voix aux élections, l'entrée en vigueur de cet accord intervenant après un contrôle de sa conformité aux dispositions légales et conventionnelles par une commission paritaire siégeant au niveau de la branche.
+
+Dans la mesure où la loi prévoit que l'absence de rejet exprès par la commission paritaire de branche, dans un délai de 4 mois, des accords qui lui sont soumis entraîne leur validation tacite, quel que soit leur contenu, le présent accord fixe les modalités destinées à éviter l'entrée en vigueur, dans le champ d'application de la convention collective nationale, de dispositions contraires aux dispositions légales ou conventionnelles de branche, et ce sans pour autant dénaturer le dialogue social d'entreprise dont les accords ainsi négociés sont l'expression.
