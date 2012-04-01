@@ -1112,11 +1112,11 @@ Directeur de laboratoire de classe normale
 
 |
 
-Corps des techniciens de laboratoire du ministère de l'économie,
+Corps des
 
-des finances et de l'industrie
+techniciens de laboratoire relevant des ministres chargés de l'économie et du budget
 
-(décret n° 96-273 du 26 mars 1996)
+( décret n° 2012-379 du 19 mars 2012)
 
 |
 
@@ -1440,7 +1440,7 @@ Technicien principal
 
 Corps des techniciens de laboratoire des écoles des mines
 
-(décret n° 96-273 du 26 mars 1996)
+( décret n° 2012-379 du 19 mars 2012)
 
 |
 
