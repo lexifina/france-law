@@ -6,6 +6,10 @@ Les heures complémentaires sont les heures que l'employeur demande aux travaill
 
 Le nombre d'heures complémentaires mensuelles ne peut être supérieur d'un tiers à la durée convenue au contrat. La durée totale des heures effectuées ne peut atteindre la durée légale du travail.
 
-Les heures complémentaires ne donnent pas lieu à une majoration de salaire et sont rémunérées en conséquence au taux horaire contractuellement convenu par les parties, dans la limite du dixième de la durée initialement fixée au contrat. Au-delà de cette limite, chacune des heures complémentaires sera majorée de 25 %.
+Les heures complémentaires sont les heures que l'employeur demande aux travailleurs d'effectuer au-delà de la durée de travail prévue dans son contrat. Le refus par le salarié d'effectuer des heures complémentaires proposées par l'employeur au-delà des limites fixées par le contrat de travail ne constitue ni une faute ni un motif de licenciement.
+
+Les heures complémentaires bénéficient d'une majoration de 10 % dès la première heure. Au-delà de 1/10 de la durée initialement fixée au contrat, elles sont majorées non plus de 10 %, mais de 25 %.
+
+NOTA :
 
 Ancien article 18 bis.
