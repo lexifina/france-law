@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120322704
+
+- Question : [SEQ120322704](seq120322704.md) — Conséquences du froid sur la production agricole
+
+## Réponse
+
+*Agriculture, JO du 2012-04-05, page 841*
+
+À la suite d'une vague de grand froid, le ministère chargé de l'agriculture a lancé une enquête le 20 février 2012 pour identifier les dommages causés par le gel. Les pertes de récolte de maraîchage sont éligibles à la procédure des calamités agricoles. En revanche, les serres, équipements assurables, relèvent du dispositif assurantiel. La reconnaissance au titre des calamités agricoles repose sur une procédure prévue par le code rural et de la pêche maritime. La mise en œuvre de cette procédure débute par une mission d'enquête mandatée par le préfet. Sur la base de cette mission et de l'avis du comité départemental d'expertise, le préfet demande la reconnaissance du caractère de calamité agricole pour le sinistre considéré. Il adresse son rapport au ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire qui saisit le comité national de gestion des risques en agriculture (CNGRA). Sur la base de cet avis, si le taux de pertes de récoltes est supérieur à 30 % de la production brute théorique, un arrêté ministériel reconnaît le caractère de calamité agricole. Cet arrêté détermine l'aléa climatique en cause, les zones, les productions ou biens touchés. Il est publié dans les mairies des communes de la zone sinistrée. Les exploitants disposent de trente jours pour présenter leur demande d'indemnisation auprès de la direction départementale des territoires. À ce jour, seul le département des Pyrénées-Orientales a entamé cette démarche ; le dossier de ce département est inscrit à l'ordre du jour du CNGRA du 21 mars 2012. D'autres départements sont susceptibles de présenter des demandes de reconnaissance de calamités agricoles dès lors que les pertes de récolte sont supérieures à 30 %.
