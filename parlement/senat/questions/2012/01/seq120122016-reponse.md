@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120122016
+
+- Question : [SEQ120122016](seq120122016.md) — Classement des préparations naturelles peu préoccupantes
+
+## Réponse
+
+*Agriculture, JO du 2012-04-05, page 837*
+
+Dès lors qu'elles sont destinées à protéger les végétaux ou les produits végétaux contre tous les organismes nuisibles ou prévenir l'action de ceux-ci, à exercer une action sur les processus vitaux des végétaux, à assurer la conservation des produits végétaux, à détruire les végétaux ou les parties de végétaux indésirables ou encore à freiner ou à prévenir une croissance indésirable des végétaux, les préparations naturelles peu préoccupantes (PNPP) sont par définition des « produits phytopharmaceutiques » conformément au règlement européen CE/1107/2009 du 21 octobre 2009. L'inscription des substances actives à la liste communautaire et l'autorisation préalable à la mise sur le marché des préparations sont des obligations relevant de la législation en vigueur dans l'Union européenne. Le règlement prévoit explicitement des dispositions particulières pour les « substances actives de base et à faible risque » et aux préparations qui en contiennent auxquelles peuvent être rattachées les PNPP. Ces dispositions particulières sont destinées à alléger les procédures d'inscription des substances actives et d'autorisation des préparations qui les contiennent. Le principe d'une procédure simplifiée applicable aux PNPP est donc réaffirmé. Il ne peut toutefois être opérationnel que si les opérateurs désireux de mettre sur le marché des PNPP, en font la demande soit aux services du ministère chargé de l'agriculture soit à l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses). Les autorités françaises portent ainsi actuellement deux demandes d'approbation à deux substances de base auprès des instances européennes.
