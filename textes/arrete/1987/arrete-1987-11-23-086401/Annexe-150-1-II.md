@@ -393,5 +393,3 @@ NRF sont des navires qui remplissent tous les critères dans le cadre des param�
 NRN sont des navires qui ne sont ni NRÉ ni NRF.
 
 |
-
-.
