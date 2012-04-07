@@ -32,6 +32,8 @@ Corps des assistants de service social de La Poste, régi par le décret n° 91-
 
 Corps des infirmiers et infirmières des service médicaux de La Poste, régi par le décret n° 91-13 du 4 janvier 1991 modifié.
 
+Corps des assistants administratifs de La Poste, régi par le décret n° 92-931 du 7 septembre 1992.
+
 NOTA :
 
 Conseil d'Etat, décision n° 332082 du 18 novembre 2011, article 1er : Le décret du 14 décembre 2009 est annulé en tant que le corps des assistants administratifs de La Poste ne figure pas dans la liste des corps énumérés par son annexe.
