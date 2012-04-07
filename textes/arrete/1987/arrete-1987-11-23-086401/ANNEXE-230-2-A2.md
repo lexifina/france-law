@@ -1,10 +1,6 @@
 # Article ANNEXE 230-2.A.2
 
-CALCUL DE L'ÉPAISSEUR MINIMALE
-
-DES VITRES ET DES HUBLOTS
-
-(article 230-2.16)
+Liste des plans et documents à soumettre à la société de classification habilitée (art. 230-2.08) en complément des documents mentionnés par l'article 130.26.2.
 
 1. L'épaisseur minimale des vitres ou des hublots est fonction :
 
@@ -108,57 +104,37 @@ X/L ≤ 0,2
 
 |
 
-3,00
+3,00 |
 
-|
+0,96 |
 
-0,96
-
-|
-
-0,84
-
-|
+0,84 |
 
 0,2 < X/L ≤ 0,5
 
 |
 
-2,75
+2,75 |
 
-|
+0,88 |
 
-0,88
-
-|
-
-0,55
-
-|
+0,55 |
 
 0,5 < X/L ≤ 0,8
 
 |
 
-2,75
+2,75 |
 
-|
+0,88 |
 
-0,88
-
-|
-
-0,33
-
-|
+0,33 |
 
 0,8 < X/L
 
 |
 
-3,75
-
-|
+3,75 |
 
 1,20
 
