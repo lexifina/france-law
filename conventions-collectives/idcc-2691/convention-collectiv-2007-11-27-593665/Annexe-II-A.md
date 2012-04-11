@@ -114,7 +114,7 @@ Durée anuelle de cours |
 
 972 |
 
-Nombre de semaines de cours par an |
+Nombre maximal de semaines de cours par an |
 
 36 |
 
@@ -136,7 +136,7 @@ Nombre de semaines de cours par an |
 
 43 |
 
-Horaire hebdomadaire de cours |
+Horaire hebdomadaire moyen de cours |
 
 27 |
 
