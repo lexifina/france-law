@@ -1,4 +1,4 @@
-# Article ANNEXE II
+# Article Annexe II
 
 I. - Renseignements relatifs au projet d'utilisation
 
@@ -34,7 +34,7 @@ I. - Renseignements relatifs au projet d'utilisation
 
 II. - Renseignements relatifs au matériel biologique utilisé
 
-Si le matériel biologique utilisé provient d'un laboratoire différent de celui du demandeur, la référence du dossier déposé à la commission de génie génétique par le laboratoire public ou privé fournissant le matériel doit être indiquée. Si aucun classement n'a été délivré ou si le laboratoire producteur est étranger, les caractéristiques exactes de ce matériel et toutes les références utiles le concernant doivent être fournies à la commission, y compris dans le cas d'un produit commercialisé.
+Si le matériel biologique utilisé provient d'un laboratoire différent de celui du demandeur, la référence du dossier déposé au ministère chargé de la recherche par le laboratoire public ou privé fournissant le matériel doit être indiquée. Si aucun classement n'a été délivré ou si le laboratoire producteur est étranger, les caractéristiques exactes de ce matériel et toutes les références utiles le concernant doivent être fournies au ministère chargé de la recherche, y compris dans le cas d'un produit commercialisé.
 
 A. - Thérapie génique par autogreffe de cellules
 
@@ -102,9 +102,9 @@ Données sur les risques de recombinaison avec d'autres virus, estimation du ris
 
 6. Procédé et localisation projetée pour l'autogreffe.
 
-7. Conformité des locaux (en l'état actuel des connaissances, chambre TL 2) où sera réalisée l'autogreffe.
+7. Pour les chambres ayant un niveau de confinement 2 (TL 2) ou supérieur, la conformité des locaux où sera réalisée l'autogreffe.
 
-8. Contrôles prévus avant la sortie du patient hors du secteur TL 2.
+8. Contrôles prévus avant la sortie du patient hors des chambres ayant un niveau de confinement TL 2 ou supérieur.
 
 9. Contrôles prévus à long terme. Evaluation du risque pour l'entourage et l'environnement des malades dans le cas où une production de virus recombinés est possible.
 
@@ -146,16 +146,36 @@ Données sur les risques de recombinaisons avec d'autres virus, estimation du ri
 
 5. Méthodes d'étude du statut immunologique et virologique des malades à traiter.
 
-6. Voies d'administration : I.V., I.M., per os, nébulisation, dérivation circulatoire.
+6. Voies d'administration : IV, IM, per os, nébulisation, dérivation circulatoire.
 
 7. Estimation des risques de dissémination, particulièrement des risques d'infection du personnel soignant et de laboratoire.
 
-8. Description des mesures de protection du personnel soignant et de laboratoire, ainsi que des contrôles effectués sur ce personnel avant et après administration du traitement.
+8. Description des mesures de protection du personnel soignant et de laboratoire ainsi que des contrôles effectués sur ce personnel avant et après administration du traitement.
 
 9. Localisation attendue de l'ADN viral.
 
-10. Conformité des locaux (en l'état actuel des connaissances, chambres de type TL 2 ou TL 3 pour les thérapies utilisant un adénovirus, en fonction du gène transféré).
+10. Conformité des locaux.
 
-11. Description du suivi à court terme après injection et description des paramètres dont dépendra le temps d'isolement en secteur TL 2 ou TL 3.
+11. Description du suivi à court terme après injection et description des paramètres dont dépend le temps d'isolement en secteur TL 2 ou supérieur.
 
-12. Suivi à long terme : évaluation du risque de production, de pseudotypes viraux ou de virus recombinants en cas d'infection intercurrente par des virus " sauvages ", tests effectués, évaluation du risque pour l'entourage et l'environnement des malades.
+12. Suivi à long terme : évaluation du risque de production, de pseudotypes viraux ou de virus recombinants en cas d'infection intercurrente par des virus sauvages , tests effectués, évaluation du risque pour l'entourage et l'environnement des malades.
+
+C. - Thérapie génique à l'aide de transporteurs inertes
+
+1. Description.
+
+2. Evaluation de la pathogénicité du gène transféré.
+
+3. Pureté du matériel.
+
+4. Mode d'introduction.
+
+5. Stabilité de l'expression du gène transféré.
+
+6. Localisation attendue du gène transféré.
+
+7. Conformité des locaux.
+
+8. Description du suivi à court terme après injection et description des paramètres dont dépendra le temps d'isolement en secteur confiné.
+
+9. Suivi à long terme.
