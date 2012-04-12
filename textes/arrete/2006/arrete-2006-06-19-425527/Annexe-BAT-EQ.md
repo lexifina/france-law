@@ -14,7 +14,7 @@ Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une ut
 
 2. Dénomination :
 
-Installation d'un luminaire équipé de tube(s) fluorescent(s) T5 (diamètre 16 mm) et de ballast(s) électronique(s), associés ou non à un dispositif de contrôle utilisant la détection de présence ou la variation de lumière.
+Installation d'un luminaire équipé de tube (s) fluorescent (s) T5 (diamètre 16 mm) et de ballast (s) électronique (s), associés ou non à un dispositif de contrôle utilisant la détection de présence ou la variation de lumière.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -24,33 +24,25 @@ Sans objet.
 
 12 ans pour les commerces.
 
-15 ans pour les bureaux, enseignement, santé.
+15 ans pour les bureaux, l'enseignement, la santé.
+
+12 ans pour les autres secteurs.
 
 5. Montant de certificats en kWh cumac :
 
-BRANCHE
+SECTEUR D'ACTIVITÉ |
 
-d'activité
+MONTANT EN kWh CUMAC/ LUMINAIRE |
 
-|
+Sans gestion automatique |
 
-MONTANT
+Si contrôle détection présence
 
-(en kWh cumac/luminaire)
+ou variation de lumière |
 
-|
+Si contrôle détection présence
 
-|
-
-Sans gestion automatique
-
-|
-
-kWh cumac si contrôle détection présence ou variation de lumière
-
-|
-
-kWh cumac si contrôle détection présence + variation de lumière
++ variation de lumière
 
 |
 
@@ -102,7 +94,7 @@ Commerces
 
 |
 
-Etablissements de soins
+Santé
 
 |
 
@@ -115,6 +107,16 @@ Etablissements de soins
 |
 
 2 300
+
+|
+
+Autres secteurs |
+
+540 |
+
+650 |
+
+760
 
 |
 
@@ -272,9 +274,9 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-EQ-08
 
-Luminaire pour lampe iodure métallique céramique
+Luminaire pour lampe iodure métallique
 
-à ballast électronique
+céramique à ballast électronique
 
 1. Secteur d'application :
 
@@ -290,17 +292,179 @@ Installation réalisée par un professionnel.
 
 4. Durée de vie conventionnelle :
 
-12 ans pour les commerces ; 15 ans pour les autres bâtiments.
+12 ans pour les commerces.
+
+15 ans pour les bureaux, l'enseignement, l'hôtellerie, la restauration et la santé.
+
+12 ans pour les autres secteurs.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+INSTALLATION LUMINAIRE POUR LAMPE IODURES MÉTALLIQUES CÉRAMIQUE,
 
-n° 303 du 31/12/2006 texte numéro 60
+avec ballast électronique, d'une puissance ≤ 35 W
 
-Vous pouvez consulter le tableau dans le JO
+|
 
-n° 303 du 31/12/2006 texte numéro 60
+Secteur d'activité |
+
+Sans gestion de l'éclairage |
+
+Si détection présence
+
+ou variation de lumière |
+
+Si détection présence
+
++ variation de lumière |
+
+Bureaux |
+
+620 |
+
+750 |
+
+870 |
+
+Enseignement |
+
+450 |
+
+540 |
+
+630 |
+
+Commerces |
+
+800 |
+
+970 |
+
+1 100 |
+
+Hôtellerie, restauration |
+
+750 |
+
+900 |
+
+1 000 |
+
+Santé |
+
+1 400 |
+
+1 600 |
+
+1 900 |
+
+Autres secteurs |
+
+450 |
+
+540 |
+
+630 |
+
+INSTALLATION LUMINAIRE POUR LAMPE IODURES MÉTALLIQUES CÉRAMIQUE,
+
+avec ballast électronique, d'une puissance > 35 W
+
+|
+
+Secteur d'activité |
+
+Sans gestion de l'éclairage |
+
+Si détection présence
+
+ou variation de lumière |
+
+Si détection présence
+
++ variation de lumière |
+
+Bureaux |
+
+4 400 |
+
+5 300
+
+|
+
+6 200
+
+|
+
+Enseignement |
+
+3 200
+
+|
+
+3 900
+
+|
+
+4 500
+
+|
+
+Commerces |
+
+5 700
+
+|
+
+6 900
+
+|
+
+8 000
+
+|
+
+Hôtellerie, restauration |
+
+5 300
+
+|
+
+6 400
+
+|
+
+7 500
+
+|
+
+Santé |
+
+9 800
+
+|
+
+12 000
+
+|
+
+14 000
+
+|
+
+Autres secteurs |
+
+3 200
+
+|
+
+3 900
+
+|
+
+4 500
+
+|
 
 Certificats d'économies d'énergie
 
@@ -316,7 +480,7 @@ Bâtiment tertiaire : locaux du secteur tertiaire existants réservés à une ut
 
 2. Dénomination :
 
-Installation d'un luminaire pour lampes fluorescentes compactes à ballast électronique séparé.
+Installation d'un luminaire pour lampe fluorescente compacte à ballast électronique séparé.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -326,13 +490,71 @@ Installation réalisée par un professionnel.
 
 12 ans pour les commerces.
 
-15 ans pour les bureaux, l'enseignement, la santé, l'hôtellerie-restauration.
+15 ans pour les bureaux, l'enseignement, l'hôtellerie, la restauration et la santé.
+
+12 ans pour les autres secteurs.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+SECTEUR D'ACTIVITÉ |
 
-n° 303 du 31/12/2006 texte numéro 60
+SANS AUTOMATISMES |
+
+AVEC CONTRÔLE DÉTECTION PRÉSENCE
+
+ou variation de lumière |
+
+AVEC CONTRÔLE DÉTECTION PRÉSENCE
+
++ variation de lumière |
+
+Bureaux |
+
+700 |
+
+840 |
+
+1 000 |
+
+Enseignement |
+
+500 |
+
+610 |
+
+710 |
+
+Commerces |
+
+900 |
+
+1 100 |
+
+1 300 |
+
+Hôtellerie, restauration |
+
+840 |
+
+1 000 |
+
+1 200 |
+
+Santé |
+
+1 500 |
+
+1 800 |
+
+2 100 |
+
+Autres secteurs |
+
+500 |
+
+610 |
+
+710 |
 
 Certificats d'économies d'énergie
 
@@ -1267,5 +1489,103 @@ LONGUEUR DE LINÉAIRE ÉQUIPÉ DE PORTE EN VERRE
 |
 
 L
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-25
+
+Fermetures des meubles frigorifiques
+
+de vente à température négative
+
+1. Secteur d'application :
+
+Locaux existants de distribution alimentaire de produits surgelés tels que : hypermarchés, supermarchés, magasins de proximité, etc.
+
+2. Dénomination :
+
+Cette opération standardisée concerne les meubles frigorifiques de vente horizontaux à température négative dans les bâtiments existants pour les améliorations suivantes :
+
+- installation de kits de couvercles en verre sur des meubles existants ; ou
+
+- installation de meubles neufs, équipés de couvercles en verre.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+Le bénéficiaire fournit l'attestation que l'opération concerne des meubles frigorifiques de vente de type horizontaux et à température négative et précise :
+
+- l'architecture du meuble (simple, double, combi) ;
+
+- la position du groupe de production : soit logé soit à groupe déporté.
+
+4. Durée de vie conventionnelle : 7 ans.
+
+5. Montant de certificats en kWh cumac :
+
+TYPE DE MEUBLE |
+
+MONTANT EN kWh CUMAC
+
+pour un mètre |
+
+|
+
+COEFFICIENT MULTIPLICATEUR |
+
+|
+
+LONGUEUR EN MÈTRES
+
+de meubles frigorifiques
+
+équipés de couvercles |
+
+Simple |
+
+27 200 |
+
+|
+
+Groupe logé |
+
+0,7
+
+|
+
+|
+
+|
+
+Double |
+
+33 300 |
+
+× |
+
+Groupe déporté |
+
+1 |
+
+x
+
+|
+
+L |
+
+Combi |
+
+5 800 |
+
+|
+
+|
+
+|
+
+|
 
 |

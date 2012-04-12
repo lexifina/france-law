@@ -10,7 +10,7 @@ Formation d'un chauffeur de transport
 
 1. Secteur d'application :
 
-Transport public de voyageurs (autobus et autocars de ligne) et transport de marchandises.
+Transport routier professionnel.
 
 2. Dénomination :
 
@@ -18,33 +18,31 @@ Formation d'un chauffeur à la conduite économique.
 
 3. Conditions pour la délivrance de certificats :
 
-La formation, réalisée par une entreprise ou un centre de formation agréés au titre de la formation professionnelle, doit comporter :
+La formation, réalisée par une entreprise ou un centre de formation agréés au titre de la formation professionnelle, comporte :
 
-1° Une partie théorique portant sur le fonctionnement du moteur et les principes de la conduite économique (anticipation, juste sollicitation de la mécanique) ;
+- une partie théorique portant sur le fonctionnement du moteur et les principes de la conduite économique (anticipation, juste sollicitation de la mécanique) ;
 
-2° Une partie pratique sur véhicule comprenant une analyse commentée de la conduite de la personne formée.
+- une partie pratique sur véhicule comprenant une analyse commentée de la conduite de la personne formée.
 
-4. Durée de vie conventionnelle : 1 an.
+4. Durée de vie conventionnelle : 3 ans.
 
 5. Montant de certificats en kWh cumac :
 
 TYPE DE VÉHICULE |
 
-kWh CUMAC/
+kWh CUMAC/ PERSONNE
 
-personne formée
-
-|
+FORMÉE
 
 |
 
-NOMBRE DE PERSONNES
-
-formées
-
 |
 
-Poids lourds
+NOMBRE DE PERSONNES FORMÉES |
+
+Véhicules destinés au transport de
+
+marchandises de catégories N2 ou N3
 
 |
 
@@ -52,31 +50,37 @@ Poids lourds
 
 |
 
-X
-
-|
-
-|
-
-Autocars - autobus |
-
-8 500 |
+x
 
 |
 
 N |
 
+Véhicules destinés au transport en commun de
+
+personnes de catégories M2 ou M3
+
+|
+
+|
+
+|
+
+|
+
+Les catégories de véhicules se rapportent à l'article R. 311-1 du code de la route.
+
 Certificats d'économies d'énergie
 
 Opération n° TRA-SE-02
 
-Formation d'un chauffeur de véhicule léger
+Formation d'un chauffeur de véhicule
 
-à la conduite économique
+(voitures particulières et camionnettes) à la conduite économique
 
 1. Secteur d'application :
 
-Flottes professionnelles de véhicules légers.
+Flottes professionnelles de véhicules répondant à la définition des voitures particulières ou camionnettes selon l'article R. 311-1 du code de la route.
 
 2. Dénomination :
 
@@ -86,49 +90,49 @@ Formation d'un chauffeur à la conduite économique.
 
 La formation, réalisée par une entreprise ou un centre de formation agréés au titre de la formation professionnelle, doit comporter :
 
-1° Une partie théorique portant sur le fonctionnement du moteur et les principes de la conduite économique (anticipation, juste sollicitation de la mécanique) ;
+- une partie théorique portant sur le fonctionnement du moteur et les principes de la conduite économique (anticipation, juste sollicitation de la mécanique) ;
 
-2° Une partie pratique sur véhicule.
+- une partie pratique sur véhicule comprenant une analyse commentée de la conduite de la personne formée.
 
-4. Durée de vie conventionnelle : 1 an.
+4. Durée de vie conventionnelle : 3 ans.
 
 5. Montant de certificats en kWh cumac :
 
 TYPE DE VÉHICULE |
 
-kWh CUMAC/
-
-personne formée
+kWh CUMAC/ PERSONNE FORMÉE
 
 |
 
 |
 
-NOMBRE DE PERSONNES
-
-formées
+NOMBRE DE PERSONNES FORMÉES
 
 |
 
-Véhicules légers
+Voitures particulières
 
 |
 
-1 100 |
+4 200
+
+|
 
 x
 
 |
 
-|
-
-Véhicules utilitaires légers |
-
-1 400 |
-
-|
-
 N |
+
+Camionnettes |
+
+3 300
+
+|
+
+|
+
+|
 
 Certificats d'économies d'énergie
 
@@ -246,11 +250,7 @@ Recreusage de pneumatiques neufs ou rechapés de poids lourds de plus de 7,5 ton
 
 Le recreusage est effectué par un réseau de négociants multimarques ou par des prestataires techniques externes.
 
-La demande de certificats comporte :
-
-- les factures de prestation de recreusage avec l'indication du nombre de pneumatiques recreusés ;
-
-- un bilan annuel du négociant ou du prestataire technique.
+La demande de certificats comporte les factures de prestation de recreusage avec l'indication du nombre et du type de pneumatiques recreusés. Il est nécessaire, pour chaque pneumatique recreusé indiqué sur la facture, de pouvoir identifier le type de véhicule concerné (poids lourds de plus de 7,5 tonnes).
 
 4. Durée de vie conventionnelle : 1 an.
 
@@ -260,17 +260,17 @@ CATÉGORIE
 
 |
 
-MONTANT
+MONTANT EN kWh CUMAC/
 
-(en kWh cumac/pneumatique recreusé)
-
-|
+pneumatique recreusé
 
 |
 
-NOMBRE
+|
 
-de pneumatiques recreusés
+NOMBRE DE PNEUMATIQUES
+
+recreusés
 
 |
 
@@ -289,3 +289,363 @@ Pneumatiques de poids lourds
 N
 
 |
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-SE-06
+
+Mesure et optimisation des consommations
+
+de carburant pour une unité de transport fluvial
+
+1. Secteur d'application :
+
+Transport de marchandises par voie fluviale.
+
+2. Dénomination :
+
+Acquisition pour un automoteur ou un pousseur neuf ou existant :
+
+- soit d'un économètre ou d'un débitmètre ;
+
+- soit d'un économètre ou d'un débitmètre, et d'un ensemble d'équipements de navigation composé d'un loch, d'un anémomètre, d'un GPS, d'un compte-tours, d'un sondeur.
+
+3. Conditions pour la délivrance de certificats :
+
+Le demandeur fournit à l'administration les éléments suivants :
+
+- une copie de la facture d'achat et d'installation du ou des matériels éligibles à la présente opération standardisée ;
+
+- un relevé de trafic (pour les pousseurs, il s'agit de prendre en compte le trafic des barges poussées) à réaliser avant le dépôt de la demande de certificats d'économies d'énergie, faisant apparaître les t. km (tonnes-kilomètres) fluviales réalisées sur six mois consécutifs par l'unité de transport fluvial ayant été équipée : le relevé doit être certifié conforme par Voies navigables de France et les t. km doivent être réalisées sur le territoire français dans un délai inférieur à un an après la réalisation de l'opération ;
+
+- une copie de tout titre de navigation permettant de justifier de l'immatriculation de l'unité de transport fluvial et de sa capacité de chargement ou de sa puissance.
+
+L'automoteur ou le pousseur est identifié sur les différents documents fournis.
+
+4. Durée de vie conventionnelle : 5 ans.
+
+5. Montant de certificats en kWh cumac :
+
+C × Y × TK
+
+C : consommation énergétique par tonne-kilomètre, par type d'unité de transport fluvial et par bassin de navigation, multipliée par le coefficient d'actualisation, en kWh cumac/ t. km.
+
+C (kWh CUMAC/ t. km) |
+
+SEINE |
+
+RHÔNE |
+
+NORD-PAS-DE-CALAIS |
+
+RHIN/ MOSELLE |
+
+INTERBASSIN |
+
+Automoteur (*) |
+
+< 400 t |
+
+0,80 |
+
+0,91 |
+
+0,81
+
+|
+
+0,95
+
+|
+
+0,75 |
+
+|
+
+400 - 650 t |
+
+0,74 |
+
+0,80 |
+
+0,74 |
+
+0,94 |
+
+0,74 |
+
+|
+
+651 - 1 000 t |
+
+0,65 |
+
+0,69 |
+
+0,68 |
+
+0,83 |
+
+0,66 |
+
+|
+
+1 001 - 1 500 t |
+
+0,36 |
+
+0,38 |
+
+0,63 |
+
+0,73 |
+
+0,62 |
+
+|
+
+> 1 500 t |
+
+0,32 |
+
+0,36
+
+|
+
+0,58 |
+
+0,63 |
+
+0,51 |
+
+Pousseur |
+
+295 - 590 kW |
+
+0,45 |
+
+0,52 |
+
+0,46 |
+
+ND |
+
+0,46 |
+
+|
+
+591 - 880 kW |
+
+0,40 |
+
+0,48 |
+
+0,39 |
+
+ND |
+
+0,42 |
+
+|
+
+> 880 kW |
+
+0,28 |
+
+0,32 |
+
+0,33 |
+
+0,46
+
+|
+
+0,37 |
+
+(*) Capacité de chargement du bateau (tonnage maximal). |
+
+Y : gain dû à l'équipement :
+
+= 0,05 pour l'installation d'un débitmètre ou d'un économètre,
+
+= 0,07 pour l'installation d'un débitmètre ou d'un économètre, et d'un ensemble d'équipements de navigation composé d'un loch, d'un anémomètre, d'un GPS, d'un compte-tours, d'un sondeur.
+
+TK : t. km relevées sur une période de six mois à compter de l'installation du matériel × 2.
+
+On considère que le trafic réalisé par l'unité de transport fluvial sur six mois consécutifs est maintenu en moyenne sur la durée de vie des équipements.
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-SE-07
+
+Carénage sur une unité de transport fluvial
+
+1. Secteur d'application :
+
+Transport de marchandises par voie fluviale.
+
+2. Dénomination :
+
+Mise à sec d'un automoteur, d'un pousseur ou d'une barge, nettoyage des salissures de la coque et de l'hélice (ou des hélices), et application d'une peinture antisalissures.
+
+3. Conditions pour la délivrance de certificats :
+
+L'opération doit être effectuée dans un délai compris entre 3 et 7 ans après la visite réglementaire.
+
+Le demandeur fournit à l'administration les éléments suivants :
+
+1. Une copie de la facture de la prestation de carénage réalisée sur l'unité de transport fluvial incluant les opérations décrites au deuxième paragraphe en faisant apparaître la fourniture de la peinture.
+
+2. Une copie du précédent certificat de visite précisant la date de la dernière opération.
+
+3. Un relevé de trafic (pour les pousseurs, il s'agit de prendre en compte le trafic des barges poussées) à réaliser avant dépôt de la demande de certificats d'économies d'énergie, faisant apparaître les t. km (tonnes-kilomètres) fluviales réalisées sur six mois consécutifs par l'unité de transport fluvial ayant bénéficié du carénage : le relevé doit être certifié conforme par Voies navigables de France et les t. km doivent être réalisées sur le territoire français dans un délai inférieur à un an après la réalisation de l'opération.
+
+4. Une copie de tout titre de navigation permettant de justifier de l'immatriculation de l'unité de transport fluvial et de sa capacité de chargement ou de sa puissance.
+
+L'automoteur, le pousseur ou la barge devra être identifié sur les différents documents fournis.
+
+4. Durée de vie conventionnelle : 5 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Ga × TK
+
+Ga : gain énergétique net actualisé par type d'unité de transport fluvial et par bassin de navigation, en kWh cumac/ t. km.
+
+GA |
+
+SEINE |
+
+RHÔNE |
+
+NORD-PAS-DE-CALAIS |
+
+RHIN/ MOSELLE |
+
+INTERBASSIN |
+
+Automoteur (*) |
+
+< 400 t |
+
+0,040 |
+
+0,045 |
+
+0,040 |
+
+0,048
+
+|
+
+0,044 |
+
+|
+
+400 - 650 t |
+
+0,037 |
+
+0,040 |
+
+0,037 |
+
+0,047 |
+
+0,041 |
+
+|
+
+651 - 1 000 t |
+
+0,032 |
+
+0,034 |
+
+0,034 |
+
+0,042 |
+
+0,036 |
+
+|
+
+1 001 - 1 500 t |
+
+0,018 |
+
+0,019 |
+
+0,032 |
+
+0,037 |
+
+0,026 |
+
+|
+
+> 1 500 t |
+
+0,016 |
+
+0,018
+
+|
+
+0,029 |
+
+0,031 |
+
+0,022 |
+
+Pousseur
+
+ou barge poussée |
+
+295 - 590 kW |
+
+0,022 |
+
+0,026 |
+
+0,023 |
+
+ND |
+
+0,023 |
+
+|
+
+591 - 880 kW |
+
+0,020 |
+
+0,024 |
+
+0,019 |
+
+ND |
+
+0,021 |
+
+|
+
+> 880 kW |
+
+0,014 |
+
+0,016 |
+
+0,016 |
+
+0,023 |
+
+0,019 |
+
+(*) Capacité de chargement du bateau (tonnage maximal). |
+
+TK : t. km relevées sur une période de six mois à compter du carénage × 2.
+
+Si l'on réalise un carénage sur un pousseur et une ou plusieurs barges qu'il pousse, on additionne les Ga du pousseur et de chacune de ses barges.
+
+On considère que le trafic réalisé par l'unité de transport fluvial sur six mois consécutifs est maintenu en moyenne sur la durée de vie des équipements.

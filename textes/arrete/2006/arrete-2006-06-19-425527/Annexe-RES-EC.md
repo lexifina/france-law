@@ -112,7 +112,7 @@ Certificats d'économies d'énergie
 
 Opération n° RES-EC-04
 
-Luminaire d'éclairage extérieur
+Rénovation d'éclairage extérieur
 
 1. Secteur d'application :
 
@@ -122,29 +122,51 @@ Eclairage existant d'ambiances urbaines : rues, avenues, parcs, allées, voies p
 
 Eclairage extérieur privé existant : voiries, parkings, parcs, etc.
 
-Cette opération ne concerne pas les illuminations de mise en valeur des sites.
+Cette opération ne concerne pas les illuminations de mise en valeur des sites ni l'éclairage des terrains de sport.
 
 2. Dénomination :
 
-Installation d'un luminaire d'éclairage extérieur.
+Rénovation d'éclairage extérieur par dépose de luminaires et installation de luminaires neufs équipés d'une lampe à décharge.
 
 3. Conditions pour la délivrance de certificats :
 
-Est éligible à cette action tout luminaire qui respecte les trois exigences suivantes :
+Est éligible à cette opération toute rénovation pour laquelle chaque luminaire neuf respecte les exigences suivantes :
 
-― ensemble optique fermé d'un indice de protection (IP) de 55 minimum ;
+- ensemble optique fermé d'un degré de protection (IP) de 55 minimum ;
 
-― éfficacité lumineuse de l'ensemble lampe + auxiliaire d'alimentation ≥ 70 lumens par watt ;
+- efficacité lumineuse de l'ensemble lampe + auxiliaire d'alimentation ≥ 70 lumens par watt ;
 
-― valeur du pourcentage de flux de lampe sortant du luminaire installé, directement dirigé vers l'hémisphère supérieur du luminaire (ULOR) ≤ 3 % en éclairage fonctionnel et < 20 % en éclairage d'ambiance.
+- valeur du pourcentage de flux de lampe sortant du luminaire neuf, directement dirigé vers l'hémisphère supérieur du luminaire (ULOR) ≤ 3 % en éclairage fonctionnel et < 5 % en éclairage d'ambiance ou privé.
 
-4. Durée de vie conventionnelle :
+Le nombre de luminaires déposés apparaît sur une facture ou un (ou plusieurs) document (s) financier (s) ou comptable (s) ou, à défaut, tout autre document.
 
-25 ans.
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 30 ans.
 
 5. Montant de certificats en kWh cumac :
 
-6 400 kWh cumac/luminaire
+MONTANT EN kWh CUMAC
+
+par luminaire déposé |
+
+|
+
+NOMBRE
+
+de luminaires déposés |
+
+7 100
+
+|
+
+x
+
+|
+
+N
+
+|
 
 Certificats d'économies d'énergie
 

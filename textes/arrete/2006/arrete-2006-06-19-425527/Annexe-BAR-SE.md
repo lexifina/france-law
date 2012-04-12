@@ -234,39 +234,37 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-SE-04
 
-Rééquilibrage d'une installation collective de chauffage à eau chaude du secteur résidentiel
+Rééquilibrage d'une installation collective
 
-1. Secteur d'application
+de chauffage à eau chaude du secteur résidentiel
+
+1. Secteur d'application :
 
 Appartements existants équipés d'une installation collective de chauffage à eau chaude.
 
-2. Dénomination
+2. Dénomination :
 
-Acquisition et réglage d'organes d'équilibrage neufs destinés à assurer une température uniforme dans tous les locaux.
+Acquisition et réglage d'organes d'équilibrage neufs destinés à assurer une température uniforme dans tous les locaux. Une installation collective de chauffage à eau chaude est considérée comme équilibrée si l'écart de température entre le logement le plus chauffé et le moins chauffé d'un même bâtiment est strictement inférieur à 2° C.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Installation et réglage d'organes d'équilibrage neufs effectués par un professionnel.
+Installation et réglage d'organes d'équilibrage neufs, en pied de colonne et/ ou au niveau des logements, effectués par un professionnel.
 
-Afin de prouver que les organes d'équilibrage assurent une température uniforme dans tous les locaux, le demandeur fournit un tableau d'enregistrement, signé par ses soins et par le client, des températures moyennes, avant et après l'installation de ces organes d'équilibrage.
+Afin de prouver que les organes d'équilibrage assurent une température uniforme dans tous les locaux, le professionnel fournit un tableau d'enregistrement, signé par ses soins et par le client, des températures moyennes après l'installation de ces organes d'équilibrage.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 10 ans.
 
-10 ans.
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
+ZONE CLIMATIQUE |
 
-Zone climatique |
+MONTANT EN kWh CUMAC
 
-Montant en kWh cumac par
-
-appartement |
+par appartement |
 
 |
 
-Nombre
-
-d'appartements |
+NOMBRE D'APPARTEMENTS |
 
 H1 |
 

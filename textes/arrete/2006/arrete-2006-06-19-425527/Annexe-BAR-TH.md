@@ -150,7 +150,7 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-03
 
-Pompe à chaleur de type eau/eau
+Pompe à chaleur de type eau/ eau
 
 1. Secteur d'application :
 
@@ -158,23 +158,23 @@ Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type eau/eau.
+Mise en place d'une pompe à chaleur (PAC) de type eau/ eau.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux conditions de performance nominales de la norme EN 14511-2 : 2011 pour une température à la sortie de l'échangeur thermique intérieur de 35 °C.
+Coefficient de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux conditions de performance nominales de la norme EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur de 35° C.
 
-La pompe à chaleur a une certification NF PAC ou un label EHPA ou l'Eco-label européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+La pompe à chaleur a une certification NF PAC ou un label EHPA ou l'Ecolabel européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de l'European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
 Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de réalisation de l'opération :
 
-1° Etre titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur géothermiques ; ou
 
-3° Ou disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
+- disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
 
 4. Durée de vie conventionnelle : 16 ans.
 
@@ -194,9 +194,7 @@ climatique
 
 MONTANT UNITAIRE
 
-(en kWh cumac)
-
-|
+en kWh cumac |
 
 |
 
@@ -206,9 +204,9 @@ correctif
 
 |
 
-SURFACE HABITABLE
+SURFACE
 
-(m²)
+habitable (m ²)
 
 |
 
@@ -234,8 +232,6 @@ S < 35
 
 |
 
-|
-
 H2
 
 |
@@ -253,8 +249,6 @@ H2
 |
 
 35 ≤ S < 60
-
-|
 
 |
 
@@ -298,8 +292,6 @@ H1
 
 |
 
-|
-
 H2
 
 |
@@ -315,8 +307,6 @@ H2
 |
 
 100 ≤ S ≤ 130
-
-|
 
 |
 
@@ -356,15 +346,11 @@ H1
 
 |
 
-|
-
 H2
 
 |
 
 140 000
-
-|
 
 |
 
@@ -398,11 +384,9 @@ ZONE CLIMATIQUE
 
 |
 
-MONTANT UNITAIRE
+MONTANT UNITAIRE EN kWh CUMAC |
 
-(en kWh cumac)
-
-|
+3,5 > COP ≥ 3,4
 
 |
 
@@ -414,17 +398,11 @@ H1
 
 |
 
-3,5 > COP ≥ 3,4
-
-|
-
 H2
 
 |
 
 53 000
-
-|
 
 |
 
@@ -436,6 +414,8 @@ H3
 
 |
 
+4 > COP ≥ 3,5
+
 |
 
 H1
@@ -443,10 +423,6 @@ H1
 |
 
 67 000
-
-|
-
-4 > COP ≥ 3,5
 
 |
 
@@ -458,8 +434,6 @@ H2
 
 |
 
-|
-
 H3
 
 |
@@ -467,6 +441,8 @@ H3
 36 000
 
 |
+
+COP ≥ 4
 
 |
 
@@ -478,17 +454,11 @@ H1
 
 |
 
-COP ≥ 4
-
-|
-
 H2
 
 |
 
 57 000
-
-|
 
 |
 
@@ -504,7 +474,7 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-04
 
-Pompe à chaleur de type air/eau
+Pompe à chaleur de type air/ eau
 
 1. Secteur d'application :
 
@@ -512,23 +482,23 @@ Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type air / eau.
+Mise en place d'une pompe à chaleur (PAC) de type air/ eau.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux conditions de performance nominales de la norme EN 14511-2 : 2011 pour une température à la sortie de l'échangeur thermique intérieur de 35 °C.
+Coefficient de performance (COP) égal ou supérieur à 3,4 mesuré conformément aux conditions de performance nominales de la norme EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur de 35° C.
 
-La pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA ou l'Eco-label européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+La pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA ou l'Ecolabel européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de l'European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
 Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de réalisation de l'opération :
 
-1° Etre titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ; ou
 
-3° Ou disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
+- disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
 
 4. Durée de vie conventionnelle : 16 ans.
 
@@ -548,9 +518,7 @@ climatique
 
 MONTANT UNITAIRE
 
-(en kWh cumac)
-
-|
+en kWh cumac |
 
 |
 
@@ -560,9 +528,9 @@ correctif
 
 |
 
-SURFACE HABITABLE
+SURFACE
 
-(m²)
+habitable (m²)
 
 |
 
@@ -588,8 +556,6 @@ S < 35
 
 |
 
-|
-
 H2
 
 |
@@ -597,8 +563,6 @@ H2
 120 000
 
 |
-
-×
 
 |
 
@@ -610,8 +574,6 @@ H2
 
 |
 
-|
-
 H3
 
 |
@@ -620,7 +582,7 @@ H3
 
 |
 
-|
+× |
 
 0,7
 
@@ -652,8 +614,6 @@ H1
 
 |
 
-|
-
 H2
 
 |
@@ -669,8 +629,6 @@ H2
 |
 
 100 ≤ S ≤ 130
-
-|
 
 |
 
@@ -710,15 +668,11 @@ H1
 
 |
 
-|
-
 H2
 
 |
 
 130 000
-
-|
 
 |
 
@@ -752,11 +706,11 @@ ZONE CLIMATIQUE
 
 |
 
-MONTANT UNITAIRE
-
-(en kWh cumac)
+MONTANT UNITAIRE EN kWh CUMAC
 
 |
+
+3,5 > COP ≥ 3,4
 
 |
 
@@ -768,17 +722,11 @@ H1
 
 |
 
-3,5 > COP ≥ 3,4
-
-|
-
 H2
 
 |
 
 50 000
-
-|
 
 |
 
@@ -790,6 +738,8 @@ H3
 
 |
 
+4 > COP ≥ 3,5
+
 |
 
 H1
@@ -797,10 +747,6 @@ H1
 |
 
 63 000
-
-|
-
-4 > COP ≥ 3,5
 
 |
 
@@ -812,8 +758,6 @@ H2
 
 |
 
-|
-
 H3
 
 |
@@ -821,6 +765,8 @@ H3
 35 000
 
 |
+
+COP ≥ 4
 
 |
 
@@ -832,17 +778,11 @@ H1
 
 |
 
-COP ≥ 4
-
-|
-
 H2
 
 |
 
 54 000
-
-|
 
 |
 
@@ -3982,7 +3922,7 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-29
 
-Pompe à chaleur de type air/air
+Pompe à chaleur de type air/ air
 
 1. Secteur d'application :
 
@@ -3990,23 +3930,23 @@ Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type air/air.
+Mise en place d'une pompe à chaleur (PAC) de type air/ air.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient de Performance (COP), mesuré selon la norme EN 14511-2 : 2011 pour une température d'évaporation de 7 °C et une température de sortie d'air de 20 °C, égal ou supérieur à 3,4.
+Coefficient de performance (COP), mesuré selon la norme EN 14511-2 pour une température d'évaporation de 7° C et une température de sortie d'air de 20° C, égal ou supérieur à 3,4.
 
-La pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA ou l'Eco-label européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+La pompe à chaleur a une certification NF PAC ou Eurovent ou un label EHPA ou l'Ecolabel européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de L'European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
-Pour les actions engagées à partir du 01/01/2011, l'installateur doit, à la date de réalisation de l'opération :
+Pour les actions engagées à partir du 1er janvier 2011, l'installateur doit, à la date de réalisation de l'opération :
 
-1° Être titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2° Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ; ou
 
-3° Ou disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
+- disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
 
 4. Durée de vie conventionnelle : 16 ans.
 
@@ -4026,9 +3966,7 @@ climatique
 
 MONTANT UNITAIRE
 
-(en kWh cumac)
-
-|
+en kWh cumac |
 
 |
 
@@ -4038,9 +3976,9 @@ correctif
 
 |
 
-SURFACE CHAUFFÉE
+SURFACE
 
-(m²)
+chauffée (m²)
 
 |
 
@@ -4066,8 +4004,6 @@ S < 35
 
 |
 
-|
-
 H2
 
 |
@@ -4075,8 +4011,6 @@ H2
 98 000
 
 |
-
-×
 
 |
 
@@ -4088,8 +4022,6 @@ H2
 
 |
 
-|
-
 H3
 
 |
@@ -4098,7 +4030,7 @@ H3
 
 |
 
-|
+× |
 
 0,7
 
@@ -4184,9 +4116,7 @@ climatique
 
 MONTANT UNITAIRE
 
-(en kWh cumac)
-
-|
+en kWh cumac |
 
 |
 
@@ -4196,9 +4126,9 @@ correctif
 
 |
 
-SURFACE CHAUFFÉE
+SURFACE
 
-(m²)
+chauffée (m²)
 
 |
 
@@ -4224,8 +4154,6 @@ S < 35
 
 |
 
-|
-
 H2
 
 |
@@ -4233,8 +4161,6 @@ H2
 38 000
 
 |
-
-×
 
 |
 
@@ -4246,8 +4172,6 @@ H2
 
 |
 
-|
-
 H3
 
 |
@@ -4256,7 +4180,7 @@ H3
 
 |
 
-|
+× |
 
 1
 
@@ -4288,8 +4212,6 @@ H1
 
 |
 
-|
-
 H2
 
 |
@@ -4305,8 +4227,6 @@ H2
 |
 
 100 ≤ S ≤ 130
-
-|
 
 |
 
@@ -5648,31 +5568,35 @@ Opération n° BAR-TH-42
 
 Accumulateur d'eau chaude à condensation
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un accumulateur d'eau chaude à condensation.
 
-3. Conditions pour la délivrance de certificats
-
-Les locaux professionnels au sein d'immeubles collectifs existants sont assimilés à des appartements.
+3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 21 ans.
 
-21 ans
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
+MONTANT EN kWh CUMAC
 
-Montant en kWh cumac pour un appartement |
+pour un appartement
 
 |
 
-Nombre d'appartements |
+|
+
+NOMBRE
+
+d'appartements
+
+|
 
 25 000 |
 
@@ -6777,3 +6701,381 @@ MONTANT EN kWh CUMAC PAR CHAUFFE-EAU
 13 000
 
 |
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-54
+
+Récupération instantanée de chaleur sur eaux grises
+
+pour la production d'eau chaude sanitaire
+
+1. Secteur d'application :
+
+Bâtiment résidentiel existant.
+
+2. Dénomination :
+
+Mise en place d'un système de récupération instantanée de la chaleur des eaux grises pour la production d'eau chaude sanitaire.
+
+La technologie est applicable à une production d'eau chaude sanitaire collective et/ ou individuelle.
+
+3. Conditions pour la délivrance de certificats :
+
+La technologie prescrite doit avoir un taux d'efficacité nominal Teff, supérieur ou égal à 15 %, établi selon les conditions données par le constructeur, par un laboratoire établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/ CEI 17025 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de l'European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+L'installateur atteste que le montage de l'installation est configuré en débits égaux ou inégaux.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Montage en débits inégaux :
+
+MONTANT EN kWh CUMAC POUR UNE UNITÉ D'HABITATION |
+
+|
+
+NOMBRE
+
+d'unités d'habitation
+
+|
+
+Zone |
+
+Source d'énergie
+
+pour l'ECS
+
+|
+
+15 % ≤ Teff ≤ 25 % |
+
+25 % < Teff ≤ 50 % |
+
+50 % < Teff ≤ 75 % |
+
+75 % < Teff ≤ 100 % |
+
+|
+
+|
+
+H1 |
+
+Combustibles |
+
+3 500
+
+|
+
+8 200
+
+|
+
+15 200
+
+|
+
+21 000
+
+|
+
+|
+
+|
+
+Electricité |
+
+2 300
+
+|
+
+5 400
+
+|
+
+10 000
+
+|
+
+13 800
+
+|
+
+|
+
+|
+
+H2
+
+|
+
+Combustibles |
+
+3 300 |
+
+7 600
+
+|
+
+14 200
+
+|
+
+19 600
+
+|
+
+× |
+
+N |
+
+Electricité
+
+|
+
+2 200 |
+
+5 000
+
+|
+
+9 300
+
+|
+
+12 900
+
+|
+
+|
+
+|
+
+H3
+
+|
+
+Combustibles |
+
+2 900 |
+
+6 800
+
+|
+
+12 700
+
+|
+
+17 500
+
+|
+
+|
+
+|
+
+Electricité
+
+|
+
+1 900 |
+
+4 500
+
+|
+
+8 300
+
+|
+
+11 500
+
+|
+
+|
+
+|
+
+Montage en débits égaux :
+
+MONTANT EN kWh CUMAC POUR UNE UNITÉ D'HABITATION |
+
+|
+
+NOMBRE
+
+d'unités d'habitation
+
+|
+
+Zone |
+
+Source d'énergie
+
+pour l'ECS
+
+|
+
+15 % ≤ Teff ≤ 25 % |
+
+25 % < Teff ≤ 50 % |
+
+50 % < Teff ≤ 75 % |
+
+75 % < Teff ≤ 100 % |
+
+|
+
+|
+
+H1 |
+
+Combustibles |
+
+4 700
+
+|
+
+10 900
+
+|
+
+20 300
+
+|
+
+28 000
+
+|
+
+|
+
+|
+
+Electricité |
+
+3 100
+
+|
+
+7 200
+
+|
+
+13 300
+
+|
+
+18 400
+
+|
+
+|
+
+|
+
+H2
+
+|
+
+Combustibles |
+
+4 400
+
+|
+
+10 200
+
+|
+
+18 900
+
+|
+
+26 200
+
+|
+
+× |
+
+N |
+
+Electricité
+
+|
+
+2 900
+
+|
+
+6 700
+
+|
+
+12 400
+
+|
+
+17 200
+
+|
+
+|
+
+|
+
+H3
+
+|
+
+Combustibles |
+
+3 900
+
+|
+
+9100 |
+
+16 900
+
+|
+
+23 400
+
+|
+
+|
+
+|
+
+Electricité
+
+|
+
+2 600
+
+|
+
+6 000
+
+|
+
+11 100
+
+|
+
+15 400
+
+|
+
+|
+
+|
+
+Le nombre d'unités d'habitation (N) représente le nombre de maisons individuelles ou le nombre d'appartements desservis par l'installation.

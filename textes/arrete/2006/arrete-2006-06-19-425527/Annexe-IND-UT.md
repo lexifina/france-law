@@ -192,7 +192,9 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-04
 
-Economiseur sur les effluents gazeux de chaudière de production de vapeur
+Economiseur sur les effluents gazeux
+
+de chaudière de production de vapeur
 
 1. Secteur d'application :
 
@@ -200,21 +202,85 @@ Industrie.
 
 2. Dénomination :
 
-Installation d'un économiseur sur les effluents gazeux de chaudière de production de vapeur de puissance comprise entre 1 et 10 MW alimentées au gaz naturel ou au GPL (hors chaudière de secours).
+Installation d'un économiseur sur les effluents gazeux de chaudières de production de vapeur de puissance comprise entre 1 et 10 MW alimentées au gaz naturel ou au GPL (hors chaudière de secours).
 
 3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
-
-7 ans.
+4. Durée de vie conventionnelle : 7 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+COMBUSTIBLE UTILISÉ
 
-n° 303 du 31/12/2006 texte numéro 60
+pour le fonctionnement
+
+de la chaudière |
+
+MODE DE FONCTIONNEMENT DE "L'ATELIER"
+
+utilisateur de la vapeur produite par la chaudière |
+
+|
+
+PUISSANCE NOMINALE
+
+de la chaudière
+
+en kW
+
+|
+
+1 × 8 |
+
+2 × 8,6 j/7 |
+
+3 × 8 arrêt
+
+le week-end |
+
+3 × 8 sans arrêt
+
+le week-end |
+
+|
+
+Gaz naturel |
+
+240
+
+|
+
+540 |
+
+660 |
+
+960
+
+|
+
+|
+
+|
+
+GPL |
+
+250 |
+
+570 |
+
+690 |
+
+1 000
+
+|
+
+x |
+
+P
+
+|
 
 Certificats d'économies d'énergie
 
@@ -1434,15 +1500,15 @@ Très basses températures (de -56°C
 
 0,6 |
 
-Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseurs en kWél.
+Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseurs en kWél ou dans les données techniques du fabricant.
 
 Certificats d'économies d'énergie
 
 Opération n° IND-UT-17
 
-Récupération de chaleur sur un groupe
+Récupération de chaleur
 
-de production de froid
+sur un groupe de production de froid
 
 1. Secteur d'application :
 
@@ -1454,7 +1520,7 @@ Mise en place d'un système de récupération de chaleur sur un groupe de produc
 
 3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle : 15 ans.
 
@@ -1496,55 +1562,61 @@ Récupération pour valorisation de la chaleur du désurchauffeur |
 
 |
 
-Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseur(s) en kWél.
+Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseur (s) en kWél ou dans les données techniques du fabricant.
 
-Si la chaleur est récupérée sur 2 ou 3 des organes du groupe froid, les certificats sont cumulables.
+Si la chaleur est récupérée sur deux ou trois des organes du groupe froid, les certificats sont cumulables.
 
 Certificats d'économies d'énergie
 
 Opération n° IND-UT-18
 
-Brûleur avec dispositif de récupération de chaleur sur four industriel
+Brûleur avec dispositif de récupération
 
-1. Secteur d'application
+de chaleur sur four industriel
+
+1. Secteur d'application :
 
 Industrie.
 
-2. Dénomination
+2. Dénomination :
 
-Installation d'un ou plusieurs brûleurs intégrant un dispositif de récupération de chaleur (autorécupérateur, auto-régénératif, paire de brûleurs régénératifs) préchauffant l'air comburant par récupération de chaleur sur les fumées dans un four industriel continu fonctionnant au gaz naturel à une température de plus de 600°C.
+Installation d'un ou plusieurs brûleurs intégrant un dispositif de récupération de chaleur (autorécupérateur, auto-régénératif, paire de brûleurs régénératifs) préchauffant l'air comburant par récupération de chaleur sur les fumées dans un four industriel continu fonctionnant au gaz naturel à une température de plus de 600° C.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Les consommations spécifiques devront être justifiées sur la base :
+Les consommations spécifiques sont justifiées sur la base :
 
-- soit d'une campagne de mesure représentative du fonctionnement du four (suivant les préconisations de l'annexe F du document normatif AFNOR BPX30120 sur les bonnes pratiques du diagnostic énergétique) ;
+- soit d'une campagne de mesure représentative du fonctionnement du four (suivant les préconisations de l'annexe F du document normatif AFNOR BP X30-120 sur les bonnes pratiques du diagnostic énergétique) ;
 
-- soit par la collecte des données moyennes sur 3 ans des consommations d'énergie et de la production.
+- soit par la collecte des données moyennes sur trois ans des consommations d'énergie.
+
+La production annuelle est justifiée par la collecte des données moyennes sur trois ans.
 
 La mise en place est réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans.
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
-
-11,56 x Pmodifiée / Pinstallée x Conso spécifique x Production x Gain préchauffage
+11,56 × Pmodifiée / Pinstallée × Conso. spécifique × Production × Gain préchauffage
 
 Avec :
 
-- Pmodifiée : somme des puissances nominales des nouveaux brûleurs installés (kW)
+- Pmodifiée : somme des puissances nominales des nouveaux brûleurs installés (kW) ;
 
-- Pinstallée : somme totale des puissances nominales de tous les brûleurs après modification (kW)
+- Pinstallée : somme totale des puissances nominales de tous les brûleurs après modification (kW) ;
 
-- Conso spécifique : consommation spécifique du four avant modification (kWh / tonne)
+- Conso. spécifique : consommation spécifique du four avant modification (kWh/ tonne) ;
 
-- Production annuelle : nouvelle production annuelle (tonne / an)
+- Production : production annuelle (tonne/ an).
 
-- Gain préchauffage (%) : gain lié au réchauffage de l'air comburant. C'est une fonction de la température des fumées à la sortie du four (température d'extraction des fumées) et de la température de l'air préchauffé (mesuré par l'abaque ci après). (schéma non reproduit consulter le fac-similé à l'adresse suivante
+- Gain préchauffage (%) : gain lié au réchauffage de l'air comburant. C'est une fonction de la température des fumées à la sortie du four (température d'extraction des fumées) et de la température de l'air préchauffé (mesuré par l'abaque ci-après).
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20110128&numTexte=10&pageDebut=01700&pageFin=01829
+Vous pouvez consulter le schéma dans le JO
+
+n° 86 du 11/04/2012 texte numéro 6 à l'adresse suivante
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120411&numTexte=6&pageDebut=06480&pageFin=06499
 
 La température des fumées considérée au niveau de l'axe des abscisses est la température d'extraction des fumées (en sortie de four) avant le remplacement des brûleurs.
 
@@ -1637,6 +1709,160 @@ P
 |
 
 1 000 pour 6 effets ou plus |
+
+|
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-20
+
+Compresseur basse pression à vis
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Installation d'un compresseur basse pression à vis (pression relative inférieure à 1,5 bar).
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+PUISSANCE COMPRESSEUR
+
+basse pression |
+
+MONTANT UNITAIRE
+
+en kWhcumac/ kW |
+
+|
+
+PUISSANCE COMPRESSEUR
+
+basse pression (kW)
+
+|
+
+< 630 kW |
+
+6 900 |
+
+× |
+
+P |
+
+≥ 630 kW |
+
+11 000 |
+
+|
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-21
+
+Matelas pour l'isolation de points singuliers
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Installation de matelas isolants souples, démontables pour l'isolation de points singuliers (robinets, vannes, filtres, brides etc.) dans les réseaux de fluides caloporteurs.
+
+3. Conditions pour la délivrance de certificats :
+
+Les matelas doivent être certifiés conforme 2.2, selon la norme NF EN 10204.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 5 ans.
+
+5. Montant de certificats en kWh cumac :
+
+NATURE
+
+du fluide distribué |
+
+MODE DE FONCTIONNEMENT DU SITE |
+
+MONTANT UNITAIRE
+
+de kWh cumac |
+
+|
+
+NOMBRE DE POINTS
+
+singuliers isolés |
+
+Vapeur |
+
+1 × 8 heures |
+
+19 300 |
+
+|
+
+|
+
+|
+
+3 × 8 heures avec arrêt le week-end ou 2 × 8 heures |
+
+48 300 |
+
+|
+
+|
+
+|
+
+3 × 8 heures sans arrêt le week-end |
+
+77 300 |
+
+× |
+
+N |
+
+Eau chaude |
+
+1 × 8 heures |
+
+3 900 |
+
+|
+
+|
+
+|
+
+3 × 8 heures avec arrêt le week-end ou 2 × 8 heures |
+
+9 700 |
+
+|
+
+|
+
+|
+
+3 × 8 heures sans arrêt le week-end |
+
+15 500 |
 
 |
 

@@ -256,7 +256,9 @@ Certificats d'économies d'énergie
 
 Opération n° AGRI-TH-07
 
-Pompe à chaleur de type eau/eau ou air/eau
+Pompe à chaleur de type eau/ eau
+
+ou air/ eau pour élevage porcin
 
 1. Secteur d'application :
 
@@ -264,25 +266,25 @@ Agriculture.
 
 2. Dénomination :
 
-Mise en place d'une pompe à chaleur (PAC) de type eau/eau ou air/eau pour le chauffage de bâtiments d'élevage d'une exploitation porcine.
+Mise en place d'une pompe à chaleur (PAC) de type eau/ eau ou air/ eau pour le chauffage de bâtiments d'élevage d'une exploitation porcine.
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient de performance (COP) égal ou supérieur à 3 mesuré conformément aux conditions de performance nominales de la norme EN 14511-2 : 2011 pour une température à la sortie de l'échangeur thermique intérieur de 55 °C.
+Coefficient de performance (COP) égal ou supérieur à 3 mesuré conformément aux conditions de performance nominales de la norme NF EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur de 55° C.
 
-La pompe à chaleur a une certification NF PAC ou un label EHPA ou l'Eco-label européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European Co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+La pompe à chaleur a une certification NF PAC ou un label EHPA ou l'Ecolabel européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de l'European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
 L'installateur doit, à la date de la réalisation de l'opération :
 
-1. Etre titulaire de l'appellation QUALIPAC ;
+- être titulaire de l'appellation QUALIPAC ; ou
 
-2. Ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ou géothermiques ;
+- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ou géothermiques ; ou
 
-3. Ou disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
+- disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
 
-L'installateur atteste sur l'honneur du nombre de places chauffées en maternité et/ou en post-sevrage.
+Le bénéficiaire atteste sur l'honneur du nombre de places chauffées en maternité et/ ou en post-sevrage.
 
 4. Durée de vie conventionnelle : 16 ans.
 
@@ -389,3 +391,175 @@ COP ≥ 4
 |
 
 Le nombre de kWh cumac à délivrer correspond à la somme des deux usages.
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-08
+
+Pompe à chaleur de type eau/ eau ou air/ eau
+
+pour le chauffage de serres horticoles
+
+1. Secteur d'application :
+
+Agriculture : serres horticoles neuves ou existantes.
+
+2. Dénomination :
+
+Mise en place d'une pompe à chaleur (PAC) de type eau/ eau ou air/ eau pour le chauffage de serres horticoles.
+
+3. Conditions pour la délivrance de certificats :
+
+Coefficient de performance (COP) égal ou supérieur à 3 mesuré conformément aux conditions de performance nominales de la norme NF EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur égale ou supérieure à 55° C.
+
+La pompe à chaleur a une certification NF PAC ou un label EHPA ou l'Ecolabel européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de l'European cooperation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+L'installateur doit, à la date de la réalisation de l'opération :
+
+- être titulaire de l'appellation QUALIPAC ;
+
+- ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ou géothermiques ;
+
+- ou disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
+
+Attestation par le bénéficiaire des travaux de la surface en mètres carrés chauffée par la pompe à chaleur.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT kWh CUMAC
+
+par mètre carré
+
+de surface chauffée |
+
+|
+
+SURFACE CHAUFFÉE
+
+de la serre horticole
+
+par la PAC (m ²)
+
+|
+
+|
+
+ZONE |
+
+|
+
+COP |
+
+|
+
+|
+
+|
+
+|
+
+H1
+
+|
+
+1,1
+
+|
+
+|
+
+3,5 > COP ≥ 3 |
+
+0,692 |
+
+1 938 |
+
+x
+
+|
+
+S |
+
+x
+
+|
+
+H2 |
+
+0,9 |
+
+x
+
+|
+
+4 > COP ≥ 3,5 |
+
+0,733 |
+
+|
+
+|
+
+|
+
+|
+
+H3 |
+
+0,6 |
+
+|
+
+COP ≥ 4 |
+
+0,75 |
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-09
+
+Récupérateur de chaleur à condensation
+
+pour serres horticoles
+
+1. Secteur d'application :
+
+Agriculture : serres horticoles neuves ou existantes.
+
+2. Dénomination :
+
+Mise en place d'un récupérateur de chaleur à condensation sur une chaudière gaz destinée au chauffage d'une serre horticole.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+Attestation du bénéficiaire des travaux de la surface en mètres carrés chauffée par la chaudière concernée par l'installation du récupérateur de chaleur à condensation.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT EN kWh CUMAC
+
+par mètre carré de serre chauffée |
+
+|
+
+SURFACE CHAUFFÉE
+
+de la serre en mètre carré |
+
+250
+
+|
+
+x
+
+|
+
+S |
