@@ -1,9 +1,11 @@
 # Article 1er
 
-La présente convention collective nationale règle les rapports entre la CNAMTS et les praticiens-conseils chargés du service du contrôle médical du régime général de la sécurité sociale, exerçant en métropole ou dans les départements d'outre-mer et constituant un corps national comprenant :
+La présente convention collective nationale règle les rapports entre, d'une part, la CNAMTS et les agences régionales de santé (ARS) et, d'autre part, les praticiens-conseils exerçant à la CNAMTS ou dans une ARS, en métropole ou dans les départements d'outre-mer, issus d'un corps national comprenant :
 
-― les médecins-conseils ;
+– les médecins-conseils ;
 
-― les chirurgiens-dentistes-conseils ;
+– les chirurgiens-dentistes conseils ;
 
-― les pharmaciens-conseils.
+– les pharmaciens-conseils.
+
+NOTE : Dans le reste du texte, la CNAMTS et les ARS sont désignées sous le terme «employeur».
