@@ -52,47 +52,17 @@ en autonomie
 
 |
 
-Effectif minimal
+Effectif maximal
 
 de la palanquée
 
 |
 
-Espace de 0
-
-à 12 mètres
+Espace de 0 à 12 mètres
 
 |
 
-PE-12 + PN-20
-
-|
-
-4 (*)
-
-|
-
-E2 ou GP ou
-
-P4 + PN-C
-
-|
-
-PA-12 + PN-20
-
-|
-
-3
-
-|
-
-Espace de 0
-
-à 20 mètres
-
-|
-
-PE-20 + PN-20
+PE-12 + PN
 
 |
 
@@ -106,7 +76,7 @@ P4 + PN-C
 
 |
 
-PA-20 + PN-20
+PA-12 + PN
 
 |
 
@@ -114,13 +84,37 @@ PA-20 + PN-20
 
 |
 
-Espace de 0
-
-à 40 mètres
+Espace de 0 à 20 mètres
 
 |
 
-PE-40 + PN-C
+PE-20 + PN
+
+|
+
+4 (*)
+
+|
+
+E2 ou GP ou
+
+P4 + PN-C
+
+|
+
+PA-20 + PN
+
+|
+
+3
+
+|
+
+Espace de 0 à 40 mètres
+
+|
+
+PE-40 + PN
 
 |
 
@@ -134,7 +128,7 @@ P4 + PN-C
 
 |
 
-PA-40 + PN-C
+PA-40 + PN
 
 |
 
@@ -146,7 +140,7 @@ Espace au-delà de 40 mètres et dans la limite de 60 mètres
 
 |
 
-PE-60 + PN-C
+PE-60 + PN
 
 |
 
@@ -158,7 +152,7 @@ E4 + PN-C
 
 |
 
-PA-60 + PN-C
+PA-60 + PN
 
 |
 

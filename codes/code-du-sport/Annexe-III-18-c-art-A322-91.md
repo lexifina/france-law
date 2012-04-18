@@ -58,9 +58,7 @@ de la palanquée
 
 |
 
-Espace de 0
-
-à 40 mètres
+Espace de 0 à 40 mètres
 
 |
 
@@ -84,13 +82,11 @@ PA-40 + PTH-40
 
 |
 
-Espace de 0
-
-à 60 mètres
+Espace de 0 à 70 mètres
 
 |
 
-PE-60 + PTH-60
+PE-60 + PTH-70
 
 |
 
@@ -98,11 +94,11 @@ PE-60 + PTH-60
 
 |
 
-E4 + PTH-60
+E4 + PTH-70
 
 |
 
-PA-60 + PTH-60
+PA-60 + PTH-70
 
 |
 
@@ -110,9 +106,7 @@ PA-60 + PTH-60
 
 |
 
-Espace de 0
-
-à 80 mètres
+Espace de 0 à 80 mètres
 
 |
 

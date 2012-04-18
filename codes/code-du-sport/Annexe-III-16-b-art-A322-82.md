@@ -52,7 +52,9 @@ en autonomie
 
 |
 
-Effectif maximal de la palanquée
+Effectif maximal
+
+de la palanquée
 
 |
 
@@ -164,7 +166,7 @@ PE-60
 
 |
 
-4 (*)
+4
 
 |
 
@@ -180,6 +182,6 @@ PA-60
 
 |
 
-(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titulaires d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
 
 |

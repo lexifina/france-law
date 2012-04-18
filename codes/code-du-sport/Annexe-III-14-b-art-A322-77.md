@@ -18,7 +18,9 @@ par la CMAS
 
 APTITUDES À PLONGER ENCADRÉ
 
-par un guide de palanquée
+(avec une personne
+
+encadrant la palanquée)
 
 |
 
