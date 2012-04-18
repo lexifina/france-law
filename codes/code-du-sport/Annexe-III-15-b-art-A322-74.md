@@ -28,106 +28,102 @@ Plongées à l'air en exploration
 
 |
 
-Personne encadrant une palanquée en exploration.
+Personne encadrant une palanquée en exploration
 
 |
 
-Guide de palanquée (GP) (*).
+Guide de palanquée (GP) (*)
 
-Plongeur de niveau 4 (P4) (*).
-
-|
-
-|
-
-BPJEPS plongée.
-
-Stagiaire BPJEPS plongée.
-
-|
-
-Plongée à l'air en enseignement et en exploration
-
-|
-
-Enseignant niveau 1 (E-1).
-
-|
-
-Initiateur (*) FFESSM ou FSGT.
+Plongeur de niveau 4 (P4) (*)
 
 |
 
 |
 
-BPJEPS plongée.
+BPJEPS plongée
 
-Stagiaire BPJEPS plongée.
-
-|
-
-Enseignant niveau 2 (E-2).
+Stagiaire BPJEPS plongée
 
 |
 
-Initiateur (*) FFESSM et Guide de palanquée (GP) (*).
-
-Stagiaire pédagogique MF1
-
-FFESSM (*) (**).
-
-Aspirant fédéral FSGT.
+Plongée à l'air en enseignement ou en exploration
 
 |
 
-Moniteur 1 étoile.
+Enseignement niveau 1 (E-1)
 
 |
 
-Stagiaire BEES 1 plongée.
-
-|
-
-Enseignant niveau 3 (E-3).
-
-|
-
-MF1 (*) FFESSM ou FSGT.
-
-|
-
-Moniteur 2 étoiles.
-
-|
-
-BEES 1 plongée.
-
-Stagiaire DEJEPS plongée.
-
-Stagiaire DESJEPS plongée.
-
-|
-
-Enseignant niveau 4 (E-4).
-
-|
-
-MF2 (*) FFESSM ou FSGT.
+Initiateur FFESSM ou FSGT (*)
 
 |
 
 |
 
-BEES 2 plongée.
+BPJEPS plongée
 
-DEJEPS plongée.
-
-DESJEPS plongée.
+Stagiaire BPJEPS plongée
 
 |
 
-*(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
+Enseignant niveau 2 (E-2)
 
-(**) Pour obtenir les prérogatives attachées à l'encadrant de niveau 2 (E2) en milieu naturel, le stagiaire pédagogique MF1 de la FFESSM est assujetti à la présence sur le site de plongée d'un cadre formateur E3 minimum.
+|
+
+Initiateur FFESSM et guide de palanquée (GIP) (*)
+
+Stagiaire pédagogique MF1 FFESSM
+
+Aspirant fédéral FSGT (*)
+
+|
+
+Moniteur 1 étoile
+
+|
+
+Stagiaire BEES 1 plongée
+
+|
+
+Enseignant niveau 3 (E-3)
+
+|
+
+MF1 FFESSM ou FSGT (*)
+
+|
+
+Moniteur 2 étoiles
+
+|
+
+BEES 1 plongée
+
+Stagiaire DEJEPS plongée
+
+Stagiaire DESJEPS plongée
+
+|
+
+Enseignant niveau 4 (E-1)
+
+|
+
+MF2 FFESSM ou FSGT (*)
+
+|
+
+|
+
+BEES 2 plongée
+
+DEJEPS plongée
+
+DESJEPS plongée
+
+|
+
+(*) Tous ces brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins équivalent à celui des brevets de même niveau de la fédération délégataire, la FFESSM, et qu'ils ont été délivrés dans des conditions similaires.
 
 |
