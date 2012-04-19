@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120222250
+
+- Question : [SEQ120222250](seq120222250.md) — Politique de soutien au biométhane carburant
+
+## Réponse
+
+*Écologie, développement durable, transports et logement, JO du 2012-04-19, page 991*
+
+Au cours de l'année 2011, le Gouvernement s'est attaché à mettre en place un dispositif de soutien complet pour la production et la valorisation du biogaz. Ces travaux se sont achevés en novembre dernier avec la parution des décrets et arrêtés fixant les conditions dans lesquelles le biométhane peut être injecté dans les réseaux de gaz naturel. Cette réglementation, en favorisant l'émergence d'une filière de production de biométhane, devrait permettre d'atteindre les objectifs ambitieux fixés par le Grenelle de l'environnement (555 ktep de biogaz utilisés pour la production de chaleur à l'horizon de 2020), objectifs matérialisés par la programmation pluriannuelle des investissements et par le plan national d'action en faveur des énergies renouvelables. Dans le but de favoriser l'utilisation du biométhane injecté comme carburant pour véhicules (GNV), des dispositions spécifiques ont été introduites dans le dispositif susmentionné afin d'inciter financièrement les fournisseurs de gaz naturel à proposer des offres commerciales de biométhane carburant (arrêté du 23 novembre fixant la part du montant des valorisations financières des garanties d'origine venant en réduction des charges de service public portant sur l'achat de biométhane injecté dans les réseaux de gaz naturel). Conscient du bilan écologique favorable du gaz naturel utilisé en tant que carburant pour véhicules en termes d'émissions de particules et de gaz â effet de serre, et outre la réglementation citée ci-dessus que le Gouvernement a voulu incitative, l'exonération de taxe intérieure sur la consommation (TIC) du GNV a été maintenue.
