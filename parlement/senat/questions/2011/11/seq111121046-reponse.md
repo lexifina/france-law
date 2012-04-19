@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111121046
+
+- Question : [SEQ111121046](seq111121046.md) — Application de l'article L. 480-8 du code de l'urbanisme
+
+## Réponse
+
+*Écologie, développement durable, transports et logement, JO du 2012-04-19, page 982*
+
+L'article L. 480-8 du code de l'urbanisme en cause a été modifié par la loi 12 juillet 2010 portant engagement national pour l'environnement, précisément pour résoudre les difficultés évoquées. En effet, la précédente version de cet article prévoyait que les astreintes prononcées en matière d'infraction aux règles d'urbanisme étaient recouvrées par les comptables directs du Trésor sur la réquisition du préfet pour le compte de la ou des communes aux caisses desquelles étaient versées les sommes recouvrées. Ce dispositif était censé pallier les difficultés rencontrées par les communes qui sont normalement compétentes pour liquider et recouvrer les astreintes pénales en matière d'infractions d'urbanisme. Toutefois, il a soulevé de grandes difficultés d'application, liées notamment à la nécessaire réquisition d'un comptable public par le préfet en vue du recouvrement d'une recette publique et à l'absence de désignation de l'autorité compétente pour liquider l'astreinte. La loi du 12 juillet 2010 portant engagement national pour l'environnement a donc modifié cet article, qui prévoit désormais que les astreintes sont liquidées et recouvrées par l'État, pour le compte de la ou des communes aux caisses desquelles sont reversées les sommes perçues, après prélèvement de 4 % de celles-ci pour frais d'assiette et de recouvrement. L'article réglementaire du code de l'urbanisme (R. 480-5) qui traite de ce sujet a par ailleurs été mis en cohérence avec cette modification par le décret du 28 février 2012 relatif à certaines corrections à apporter au régime des autorisations d'urbanisme.
