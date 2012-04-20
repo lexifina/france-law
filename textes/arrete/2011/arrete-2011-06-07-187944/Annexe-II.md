@@ -18,7 +18,7 @@ MONTANT
 
 de l'aide
 
-en €/ ha
+en €/ha
 
 |
 
@@ -72,7 +72,7 @@ MONTANT
 
 de l'aide
 
-en €/ ha
+en €/ha
 
 |
 
@@ -126,7 +126,7 @@ MONTANT
 
 de l'aide
 
-en €/ ha
+en €/ha
 
 |
 
@@ -165,3 +165,41 @@ en €/ ha
 Peut s'ajouter pour les plantations réalisées avec la mise en place d'un dispositif d'irrigation fixe (goutte-à-goutte, micro-irrigation fixe) un montant d'aide de 800 €/ ha. Le dispositif d'irrigation doit être installé durant la campagne viticole correspondant à la plantation.
 
 Ce complément irrigation n'est versé que si l'exploitant détient un récépissé soit de la déclaration soit de l'arrêté d'autorisation de prélèvements d'eau destinée à l'irrigation conformément aux articles L. 214-1 à L. 214-6 du code de l'environnement. La vérification de cette obligation est effectuée par FranceAgriMer au plus tard lors du contrôle sur place.
+
+A partir des plantations 2011-2012, les montants d'aide sont les suivants :
+
+TYPE D'ACTION
+
+|
+
+MONTANT
+
+de l'aide
+
+en €/ha
+
+|
+
+Pour les plantations effectuées dans le cadre d'un plan collectif local agréé en application des dispositions de l'article 8 de l'arrêté du 26 mai 2009 déposé au titre de la campagne 2009-2010 (a).
+
+|
+
+5 200
+
+|
+
+Pour les plantations effectuées dans le cadre d'un plan collectif local agréé en application des dispositions de l'article 8 de l'arrêté du 26 mai 2009 déposé au titre de la campagne 2010-2011 (b).
+
+|
+
+5 200
+
+|
+
+(a) Peut s'ajouter pour les plantations réalisées avec la mise en place d'un palissage un montant d'aide complémentaire de 3 300 €/ ha.
+
+(b) Peut s'ajouter pour les plantations réalisées avec la mise en place d'un palissage un montant d'aide complémentaire de 700 €/ ha.
+
+|
+
+Peut s'ajouter pour les plantations réalisées avec la mise en place d'un dispositif d'irrigation fixe (goutte-à-goutte, micro-irrigation fixe) un montant d'aide complémentaire de 800 €/ ha.
