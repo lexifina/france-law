@@ -30,7 +30,9 @@ Catégories CE
 
 |
 
-Motocyclettes légères (*). |
+Motocyclettes légères (*).
+
+|
 
 MTL
 
@@ -1024,6 +1026,18 @@ PTE CONT
 
 |
 
+|
+
+|
+
+|
+
+Forestier. |
+
+FOREST
+
+|
+
 Semi-remorques avant-train.
 
 |
@@ -1214,7 +1228,7 @@ Ambulance (pour personne couchée).
 
 |
 
-AMBULAN
+AMBULANC
 
 |
 
@@ -1941,7 +1955,3 @@ Pour les motocyclettes d'un type réceptionné avant le 1er juillet 1996 et imma
 Il peut y avoir rectification du certificat d'immatriculation pour y indiquer le nouveau genre MTT1 si elles peuvent être identifiées comme appartenant à ce genre.
 
 En l'absence de rectification de la carte grise, elles sont assimilées à des motocyclettes de genre MTT2 selon la nouvelle nomenclature.
-
-NOTA :
-
-L'arrêté du 23 mars 2009 art. 1 I. ― Les dispositions du décret du 9 février 2009 susvisé et de l'arrêté du 9 février 2009 susvisé relatif aux modalités d'immatriculation des véhicules entrent en vigueur le 15 avril 2009.
