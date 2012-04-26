@@ -16,27 +16,19 @@ Aix-Marseille
 
 |
 
-Aix-Marseille-I
+Aix-Marseille
 
 |
 
-De l'université de Provence
-
-|
-
-Aix-Marseille-II
-
-|
-
-Aix
-
-|
-
-Aix-Marseille-III
+Aix-en-Provence
 
 |
 
 Marseille
+
+|
+
+Provence
 
 |
 
@@ -188,7 +180,7 @@ Dijon
 
 |
 
-Dijon
+IUT de Dijon-Auxerre
 
 |
 
@@ -500,7 +492,7 @@ Bourges
 
 |
 
-Châteauroux
+IUT de l'Indre
 
 |
 
