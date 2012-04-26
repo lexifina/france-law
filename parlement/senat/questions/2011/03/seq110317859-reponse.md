@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110317859
+
+- Question : [SEQ110317859](seq110317859.md) — Réglementation en matière d'échange de permis de conduire
+
+## Réponse
+
+*Intérieur, JO du 2012-04-26, page 1023*
+
+Les conditions de reconnaissance et d'échange des permis de conduire délivrés par les États n'appartenant ni à l'Union européenne, ni à l'espace économique européen, sont fixées dorénavant par l'arrêté du 12 janvier 2012 qui abroge celui du 8 février 1999. L'article 4 de ce texte prévoit que l'échange d'un permis de conduire étranger doit être sollicité pendant le délai d'un an qui suit l'acquisition de la résidence normale en France de son titulaire, la date d'acquisition de cette résidence étant celle du début de validité du premier titre de séjour. L'article 5 de ce même texte prévoit que cet échange ne peut notamment avoir lieu que si le permis de conduire national étranger a été délivré au nom de l'État dans le ressort duquel le conducteur avait alors sa résidence normale, sous réserve qu'il existe un accord de réciprocité entre la France et cet État. À cet égard, la circulaire du 22 septembre 2006, publiée au Bulletin officiel du ministère des transports, de l'équipement, du tourisme et de la mer du 10 novembre 2006, a porté à la connaissance des préfets la liste des États avec lesquels la France procède ou non à l'échange réciproque des permis de conduire. Depuis, chaque modification de la liste leur est transmise. Les ressortissants étrangers sont informés dès leur arrivée en France par les services de la préfecture de leur lieu de résidence, de la réglementation afférente à la reconnaissance et à l'échange des permis étrangers. Trois dépliants thématiques concernant « le permis délivré hors de l'Union européenne », « le permis de conduire communautaire » et « le permis international » sont disponibles sur le site internet de la sécurité routière.
