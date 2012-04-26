@@ -72,37 +72,47 @@ Pour un même logement donné en location, le montant des dépenses ouvrant droi
 
 a) (Abrogé)
 
-b) 12 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ;
+b) 10 % du montant des équipements, matériaux et appareils mentionnés aux 1° et 2° du b du 1 ;
 
-c) 18 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ;
+c) 15 % du montant des équipements, matériaux et appareils mentionnés aux 3° et 4° du b du 1 ;
 
 d) Pour le montant des équipements de production d'énergie utilisant une source d'énergie renouvelable mentionnés au c du 1 :
 
 |
 
-2010 |
+2010
+
+|
 
 2011
 
 |
 
-A compter de 2012
+A compter
+
+de 2012
 
 |
 
-Cas général |
+Cas général
 
-50 % |
+|
+
+50 %
+
+|
 
 45 %
 
 |
 
-38 %
+32 %
 
 |
 
-Equipements de production d'électricité utilisant l'énergie radiative du soleil |
+Equipements de production d'électricité utilisant l'énergie radiative du soleil
+
+|
 
 50 % (1)
 
@@ -112,9 +122,13 @@ Equipements de production d'électricité utilisant l'énergie radiative du sole
 
 22 % |
 
-13 % |
+11 % |
 
-Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production de chaleur, à l'exception des pompes à chaleur géothermiques. |
+Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production
+
+de chaleur, à l'exception des pompes à chaleur géothermiques.
+
+|
 
 25 % |
 
@@ -122,9 +136,11 @@ Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la pro
 
 |
 
-18 % |
+15 % |
 
-Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur. |
+Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur.
+
+|
 
 40 % |
 
@@ -132,9 +148,13 @@ Pompes à chaleur géothermiques dont la finalité essentielle est la production
 
 |
 
-31 % |
+26 % |
 
-Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production d'eau chaude sanitaire. |
+Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production
+
+d'eau chaude sanitaire.
+
+|
 
 40 % |
 
@@ -142,9 +162,11 @@ Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la product
 
 |
 
-31 % |
+26 % |
 
-Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques. |
+Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques.
+
+|
 
 40 % |
 
@@ -152,9 +174,13 @@ Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques.
 
 |
 
-31 % |
+26 % |
 
-Chaudières et équipements de chauffage ou de production d'eau chaude fonctionnant au bois ou autres biomasses : |
+Chaudières et équipements de chauffage ou de production d'eau chaude fonctionnant
+
+au bois ou autres biomasses :
+
+|
 
 |
 
@@ -162,7 +188,9 @@ Chaudières et équipements de chauffage ou de production d'eau chaude fonctionn
 
 |
 
--cas général ; |
+-cas général ;
+
+|
 
 25 %
 
@@ -172,9 +200,11 @@ Chaudières et équipements de chauffage ou de production d'eau chaude fonctionn
 
 |
 
-18 % |
+15 % |
 
--en cas de remplacement des mêmes matériels. |
+-en cas de remplacement des mêmes matériels.
+
+|
 
 40 %
 
@@ -184,15 +214,21 @@ Chaudières et équipements de chauffage ou de production d'eau chaude fonctionn
 
 |
 
-31 % |
+26 % |
 
-(1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles pour lesquelles le contribuable peut justifier jusqu'à cette date :
+(1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles
+
+pour lesquelles le contribuable peut justifier jusqu'à cette date :
 
 a) De l'acceptation d'un devis et du versement d'arrhes ou d'un acompte à l'entreprise ;
 
-b) De la signature d'un contrat dans le cadre d'un démarchage mentionné aux articles L. 121-21 à L. 121-33 du code de la consommation, à la condition de justifier d'un paiement total ou partiel jusqu'au 6 octobre 2010 ;
+b) De la signature d'un contrat dans le cadre d'un démarchage mentionné
 
-c) Ou d'un moyen de financement accordé à raison des dépenses concernées par un établissement de crédit.
+aux articles L. 121-21 à L. 121-33 du code de la consommation, à la condition de justifier d'un paiement total ou partiel jusqu'au 6 octobre 2010 ;
+
+c) Ou d'un moyen de financement accordé à raison des dépenses concernées par
+
+un établissement de crédit.
 
 (2) Pour les dépenses payées à compter du 29 septembre 2010.
 
@@ -204,13 +240,13 @@ c) Ou d'un moyen de financement accordé à raison des dépenses concernées par
 
 |
 
-e) 18 % du montant des équipements mentionnés aux d et e du 1 ;
+e) 15 % du montant des équipements mentionnés aux d et e du 1 ;
 
-f) 38 % du montant des dépenses mentionnées au 2° du f du 1 ;
+f) 32 % du montant des dépenses mentionnées au 2° du f du 1 ;
 
-g) 21 % du montant des équipements mentionnés au g du 1.
+g) 17 % du montant des équipements mentionnés au g du 1.
 
-5 bis. Les taux mentionnés au 5 sont majorés de dix points si, pour un même logement achevé depuis plus de deux ans et au titre d'une même année, le contribuable réalise des dépenses relevant d'au moins deux des catégories suivantes :
+5 bis. Les taux de 10 %, 15 %, 17 %, 26 % et 32 % mentionnés au 5 sont respectivement portés à 18 %, 23 %, 26 %, 34 % et 40 % si, pour un même logement achevé depuis plus de deux ans et au titre d'une même année, le contribuable réalise des dépenses relevant d'au moins deux des catégories suivantes :
 
 a) Dépenses d'acquisition de matériaux d'isolation thermique des parois vitrées, mentionnées au 2° du b du 1 ;
 
@@ -224,7 +260,7 @@ e) Dépenses au titre de l'acquisition d'équipements de production d'eau chaude
 
 f) Dépenses d'acquisition de chaudières à condensation mentionnées au 1° du b du 1, de chaudières à micro-cogénération gaz mentionnées au g du même 1 et d'équipements de production d'énergie utilisant une source d'énergie renouvelable ou de pompes à chaleur mentionnées au c dudit 1, à l'exception de celles visées aux d et e du présent 5 bis et des dépenses d'acquisition d'équipements de production d'électricité utilisant l'énergie radiative du soleil.
 
-Ces majorations s'appliquent dans la limite d'un taux de 50 % pour un même matériau, équipement ou appareil.
+Ces taux majorés s'appliquent dans la limite d'un taux de 42 % pour un même matériau, équipement ou appareil.
 
 6. a) Les équipements, matériaux, appareils et travaux de pose mentionnés au 1 s'entendent de ceux figurant sur la facture d'une entreprise ou, le cas échéant, dans les cas prévus aux 2° et 3° des c, d et e du 1, des équipements figurant sur une attestation fournie par le vendeur ou le constructeur du logement. Les dépenses de diagnostic de performance énergétique mentionnées au 2° du f du 1 s'entendent de celles figurant sur la facture délivrée par une personne mentionnée à l'article L. 271-6 du code de la construction et de l'habitation. Cette facture comporte la mention que le diagnostic de performance énergétique a été réalisé en dehors des cas où la réglementation le rend obligatoire.
 
@@ -253,7 +289,3 @@ c) Lorsque le bénéficiaire du crédit d'impôt n'est pas en mesure de produire
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires.S'il excède l'impôt dû, l'excédent est restitué.
 
 Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.
-
-NOTA :
-
-Loi n° 2011-1977 du 28 décembre 2011, art. 81-III : ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 2012.
