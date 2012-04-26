@@ -492,7 +492,7 @@ Sur l'ensemble de l'installation :
 
 ― puissance installée ;
 
-― production de boues en quantité de MES (y compris les MES de l'effluent) et de matières volatiles en suspension (MVS) en la rapportant à l'ensemble de la charge traitée pendant tout le programme d'essai :
+― production de boues en quantité de MS (y compris les MES de l'effluent) et de matières volatiles sèches (MVS) en la rapportant à l'ensemble de la charge traitée pendant tout le programme d'essai :
 
 ― hauteur des boues mesurée à l'aide d'un détecteur de voile de boues, dans la fosse septique et/ou les dispositifs de décantation et stockage, à la fin de chaque séquence du programme d'essai ;
 
@@ -596,15 +596,15 @@ Méthode de quantification de la production de boues
 
 Le niveau de boue atteint dans la fosse septique (mesure amont et aval, si possible) et/ou dans le(s) dispositif(s) de décantation et stockage des boues doit être mesuré à l'aide d'un détecteur de voile de boues à la fin de chaque séquence du programme d'essai et dès qu'une augmentation des MES est constatée en sortie d'une étape de traitement et/ou de l'installation. Cela permet de déterminer l'interface boues/liquide surnageant.
 
-A la fin de la période d'essai, le niveau final de boues atteint dans tous les dispositifs est mesuré, puis l'ensemble de ce volume est homogénéisé par brassage et deux échantillons sont prélevés puis analysés pour connaître leur teneur en MES et MVS.
+A la fin de la période d'essai, le niveau final de boues atteint dans tous les dispositifs est mesuré, puis l'ensemble de ce volume est homogénéisé par brassage et deux échantillons sont prélevés puis analysés pour connaître leur teneur en MS et MVS.
 
-La concentration moyenne des boues stockées dans chacun des dispositifs est calculée en moyennant les mesures de MES et MVS et en les rapportant au volume de boues stocké avant brassage, ce qui permet d'appréhender la quantité totale de boues.
+La concentration moyenne des boues stockées dans chacun des dispositifs est calculée en moyennant les mesures de MS et MVS et en les rapportant au volume de boues stocké avant brassage, ce qui permet d'appréhender la quantité totale de boues.
 
 Si une vidange intermédiaire est nécessaire, la quantité de boues extraite sera déterminée en suivant la même démarche. Cette quantité s'ajoutera à celle mesurée en fin de programme d'essai.
 
 La mesure de la production totale de boues pendant la période d'essai correspond à la somme de :
 
-― la quantité de boues stockée, exprimée en kg de MES et de MVS ;
+― la quantité de boues stockée, exprimée en kg de MS et de MVS ;
 
 ― la quantité de MES éliminée avec l'effluent traité (exprimée en kg) calculée à partir des concentrations en MES mesurées dans l'effluent en sortie de traitement, multipliées par les volumes moyens rejetés au cours de chaque période du programme d'essai.
 
