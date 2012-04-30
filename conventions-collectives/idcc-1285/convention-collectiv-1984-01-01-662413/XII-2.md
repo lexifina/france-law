@@ -84,9 +84,9 @@ XII. 2. 1. 2. Salariés permanents cadres : cotisations
 
 Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, égale à :
 
-― 1, 17 % de la rémunération limitée à la tranche 1, 0, 90 % au titre des garanties décès et 0, 27 % au titre des garanties incapacité-invalidité ;
+- 1,21 % de la rémunération limitée à la tranche T1, 0,90 % au titre des garanties décès et 0,31 % au titre des garanties incapacité-invalidité ;
 
-― 0, 57 % de la rémunération supérieure à la tranche 1 et limitée à la tranche 2 au titre des garanties incapacité-invalidité.
+- 0,66 % de la rémunération supérieure à la tranche T1 et limitée à la tranche T2 au titre des garanties incapacité-invalidité.
 
 Les parties rappellent que le financement patronal des garanties des salariés cadres peut s'imputer sur l'obligation prévue à l'article 7 de la convention collective interprofessionnelle du 14 mars 1947, étant précisé que l'obligation de financement de garanties de prévoyance prévue par cette convention doit être affectée par priorité à la garantie décès.
 
@@ -154,11 +154,7 @@ Ce régime s'applique à l'ensemble des salariés permanents non cadres sous con
 
 XII. 2. 1. 5. Salariés permanents non cadres (cotisations)
 
-Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, égale à :
-
-― 0, 87 % de la rémunération limitée à la tranche 1, 0, 50 % au titre des garanties décès ;
-
-― et 0, 37 % au titre des garanties incapacité-invalidité.
+Les entreprises acquittent une cotisation, entièrement à la charge de l'employeur, égale à 0,93 % de la rémunération limitée à la tranche T1, 0,50 % au titre des garanties décès et 0,43 % au titre des garanties incapacité-invalidité.
 
 XII. 2. 1. 6. Salariés permanents non cadres (prestations)
 
@@ -224,25 +220,21 @@ Ce régime s'applique à l'ensemble des salariés permanents non cadres et cadre
 
 XII. 2. 1. 8. Cotisations
 
-Les entreprises doivent acquitter une cotisation, nette de toutes taxes, entièrement à la charge de l'employeur, pour les salariés permanents cadres, égale à :
-
-- 0,72 % de la rémunération limitée à la tranche T1 ;
-
-- 0,34 % de la rémunération supérieure à la tranche T1 et limitée à la tranche T2.
-
-Dans la mesure où cette cotisation est assujettie à diverses taxes légalement à la charge des assurés ou des entreprises adhérentes (à tout le moins, au 1er janvier 2012, la taxe sur les conventions d'assurance et la taxe de solidarité additionnelle), le montant de la cotisation effectivement versée à l'organisme assureur est ensuite majoré de ces dernières.
-
-Ainsi, à titre informatif, au 1er janvier 2012, le montant de la cotisation acquittée par les entreprises, toutes taxes comprises, pour les salariés permanents cadres, est égal à :
+Les entreprises doivent acquitter une cotisation entièrement à la charge de l'employeur, pour les salariés permanents cadres, égale au 1er janvier 2012 à :
 
 - 0,81 % de la rémunération limitée à la tranche T1 ;
 
 - 0,39 % de la rémunération supérieure à la tranche T1 et limitée à la tranche T2.
 
-Il en va de même pour les salariés permanents non cadres, au titre desquels les entreprises doivent acquitter une cotisation, nette de toutes taxes, entièrement à la charge de l'employeur, égale à 0,53 % de la rémunération limitée à la tranche T1.
+Cette cotisation étant assujettie à diverses taxes, elle se répartit de la façon suivante :
 
-A titre informatif, au 1er janvier 2012, le montant de la cotisation acquittée par les entreprises, toutes taxes comprises, pour les salariés permanents non cadres, est égal à 0,60 % de la rémunération limitée à la tranche T1.
+- sur la rémunération limitée à la tranche T1 : 0,72 % au titre de la cotisation d'assurance + 0,09 % de taxes ;
 
-Toute majoration ou création nouvelle de taxes assises sur les cotisations versées au titre des garanties de frais de santé et mise par le législateur à la charge des assurés ou des entreprises adhérentes, pourra être appliquée sur les montants de cotisations hors taxes appelés par l'institution, qui en est simple collecteur, dans le cadre des négociations de la branche.
+- sur la rémunération supérieure à la tranche T1 et limitée à la tranche T2 : 0,34 % au titre de la cotisation d'assurance + 0,05 % de taxes.
+
+Il en va de même pour les salariés permanents non cadres, au titre desquels les entreprises doivent acquitter une cotisation entièrement à la charge de l'employeur, égale au 1er janvier 2012 à 0,60 % de la rémunération limitée à la tranche T1.
+
+Cette cotisation étant assujettie à diverses taxes, elle se répartit de la façon suivante : sur la rémunération limitée à la tranche T1 : 0,53 % au titre de la cotisation d'assurance + 0,07 % de taxes.
 
 XII. 2. 1. 9. Prestations
 
