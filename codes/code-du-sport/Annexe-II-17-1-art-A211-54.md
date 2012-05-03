@@ -1,54 +1,54 @@
-# Article LEGIARTI000023597591
+# Article Annexe II-17-1 (art. A211-54)
 
 TITRE Ier
 
 ÉTABLISSEMENT DES LISTES ÉLECTORALES
 
-I. - 1. Le directeur général de l'Ecole nationale des sports de montagne établit pour chaque collège la liste des électeurs et des personnes éligibles conformément aux dispositions du présent arrêté.
+I-1. Le directeur général de l'Ecole nationale des sports de montagne établit pour chaque collège la liste des électeurs et des personnes éligibles conformément aux dispositions de la présente annexe et des articles A. 211-50 à A. 211-54.
 
-I. - 2. Le directeur général de l'Ecole nationale des sports de montagne organise la publicité de ces listes, notamment par voie d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception, dans les huit jours suivant la date de publicité, au directeur de l'Ecole nationale des sports de montagne. Celui-ci statue sur le bien-fondé des réclamations et arrête dans le même délai la liste électorale définitive.
+I-2. Le directeur général de l'Ecole nationale des sports de montagne organise la publicité de ces listes, notamment par voie d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception, dans les huit jours suivant la date de publicité, au directeur de l'Ecole nationale des sports de montagne. Celui-ci statue sur le bien-fondé des réclamations et arrête dans le même délai la liste électorale définitive.
 
 TITRE II
 
 ORGANISATION DES OPÉRATIONS DE VOTE
 
-II. - 1. Calendrier des opérations de vote.
+II-1. Calendrier des opérations de vote.
 
 Le calendrier des opérations électorales est fixé ainsi qu'il suit :
 
-― affichage et publication des listes électorales au moins trente jours avant la date du scrutin ;
+-affichage et publication des listes électorales au moins trente jours avant la date du scrutin ;
 
-― dépôt des actes de candidature au moins vingt et un jours avant la date du scrutin ;
+-dépôt des actes de candidature au moins vingt et un jours avant la date du scrutin ;
 
-― distribution du matériel de vote, au sein de l'établissement, au moins quinze jours avant la date du scrutin ;
+-distribution du matériel de vote, au sein de l'établissement, au moins quinze jours avant la date du scrutin ;
 
-― dépouillement de tous les bulletins de vote le jour même du scrutin ;
+-dépouillement de tous les bulletins de vote le jour même du scrutin ;
 
-― proclamation des résultats le jour même du scrutin.
+-proclamation des résultats le jour même du scrutin.
 
-II. - 2.a. Organisation matérielle.
+II-2 a. Organisation matérielle.
 
-Les déclarations de candidatures précisant les noms des candidats titulaires et suppléants doivent être adressées par lettre recommandée avec avis de réception, ou déposées auprès du directeur contre récépissé.
+Les déclarations de candidatures précisant les noms des candidats titulaires et suppléants doivent être adressées par lettre recommandée avec avis de réception ou déposées auprès du directeur contre récépissé.
 
 Chaque candidature doit comprendre à la fois un membre titulaire et un membre suppléant.
 
 Les candidats peuvent accompagner leur candidature d'une profession de foi.
 
-II. - 2.b. Matériels de vote.
+II-2 b. Matériels de vote.
 
 La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique pour les deux sites de l'école, incombe à l'Ecole nationale des sports de montagne.
 
 L'Ecole nationale des sports de montagne fait parvenir, en temps utile, aux électeurs, sous enveloppe libellée à leur nom :
 
-― les bulletins de vote ;
+-les bulletins de vote ;
 
-― un exemplaire du présent arrêté ;
+-un exemplaire de la présente annexe ;
 
-― le cas échéant, les professions de foi des candidats.
+-le cas échéant, les professions de foi des candidats.
 
 Pour les personnes absentes de l'établissement, à cette période, pour quelque raison que ce soit, il sera procédé à un envoi avec avis de réception au domicile de l'électeur, sept jours au moins avant la date de clôture du scrutin.
 
-II. - 2.c. Bureau de vote.
+II-2 c. Bureau de vote.
 
 Les électeurs doivent exclusivement utiliser le matériel de vote fourni par l'Ecole nationale des sports de montagne.
 
@@ -80,19 +80,19 @@ Le nom des électeurs dont émanent ces enveloppes est émargé sur les listes.
 
 Sont mises à part sans être ouvertes :
 
-― les enveloppes n° 2 non signées ou ne comportant pas le nom, prénom et le collège de l'électeur ou sur lesquelles ces mentions sont illisibles ;
+-les enveloppes n° 2 non signées ou ne comportant pas le nom, prénom et le collège de l'électeur ou sur lesquelles ces mentions sont illisibles ;
 
-― les enveloppes n° 3 ou les bulletins de vote trouvés dans l'enveloppe n° 1 sans l'enveloppe n° 2.
+-les enveloppes n° 3 ou les bulletins de vote trouvés dans l'enveloppe n° 1 sans l'enveloppe n° 2.
 
 Entraînent la nullité du suffrage de l'électeur :
 
-― les enveloppes n° 2 multiples parvenues sous la signature d'un même électeur ;
+-les enveloppes n° 2 multiples parvenues sous la signature d'un même électeur ;
 
-― les enveloppes n° 3 portant une mention ou un signe distinctif ;
+-les enveloppes n° 3 portant une mention ou un signe distinctif ;
 
-― les enveloppes n° 3 parvenues en nombre multiple sous une même enveloppe n° 2 ;
+-les enveloppes n° 3 parvenues en nombre multiple sous une même enveloppe n° 2 ;
 
-― les bulletins trouvés dans l'enveloppe n° 2 sans l'enveloppe n° 3.
+-les bulletins trouvés dans l'enveloppe n° 2 sans l'enveloppe n° 3.
 
 L'enveloppe contenant le bulletin de vote est introduite dans l'urne.
 
@@ -100,7 +100,7 @@ TITRE III
 
 RÉSULTATS
 
-III. - 1. Opérations de dépouillement.
+III-1. Opérations de dépouillement
 
 Les opérations de dépouillement des votes s'effectuent publiquement au bureau de vote.
 
@@ -114,15 +114,15 @@ Le dépouillement intervient aussitôt après.
 
 Sont notamment considérés comme nuls :
 
-― les enveloppes vides ;
+-les enveloppes vides ;
 
-― les bulletins trouvés dans l'urne sans enveloppe ;
+-les bulletins trouvés dans l'urne sans enveloppe ;
 
-― les bulletins ou enveloppes non conformes au modèle type ;
+-les bulletins ou enveloppes non conformes au modèle type ;
 
-― les bulletins ou enveloppes portant un signe distinctif, des surcharges ou des ratures ;
+-les bulletins ou enveloppes portant un signe distinctif, des surcharges ou des ratures ;
 
-― les bulletins différents contenus dans une même enveloppe.
+-les bulletins différents contenus dans une même enveloppe.
 
 Sont déclarés élus, pour chacun des collèges, le candidat ainsi que son suppléant ayant obtenu le plus grand nombre de voix ; en cas d'égalité du nombre de suffrages obtenus, le candidat le plus âgé est élu.
 
@@ -146,7 +146,7 @@ Le procès-verbal mentionne :
 
 La copie de ce procès-verbal est affichée par les soins du directeur général de l'Ecole nationale des sports de montagne.
 
-III. - 2. Contestations.
+III-2. Contestations.
 
 Les contestations sur la validité des opérations électorales sont portées devant le directeur général de l'Ecole nationale des sports de montagne dans un délai de cinq jours à compter de la proclamation des résultats.
 

@@ -1,117 +1,151 @@
-# Article Annexe II-17 (art. A222-6)
+# Article Annexe II-17 (art. A211-3)
 
-PROGRAMME DE L'EPREUVE GENERALE
+TITRE Ier
 
-Droit des contrats
+ÉTABLISSEMENT DES LISTES ÉLECTORALES
 
-Principes et règles générales en droit des contrats :
+I-1. Le directeur général de l'Institut national du sport, de l'expertise et de la performance établit pour chaque collège et sous-collège la liste des électeurs et des personnes éligibles conformément aux dispositions de la présente annexe et des articles A. 211-1 à A. 211-3.
 
-― formation du contrat ;
+I-2. Le directeur général de l'Institut national du sport, de l'expertise et de la performance organise la publicité de ces listes, notamment par voie d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception, dans les huit jours suivant la date de publicité, au directeur de l'Institut national du sport, de l'expertise et de la performance. Celui-ci statue sur le bien-fondé des réclamations et arrête dans le même délai la liste électorale définitive.
 
-― exécution du contrat (notamment sanctions en cas d'inexécution ou de mauvaise exécution, responsabilité contractuelle...) ;
+TITRE II
 
-― cessation du contrat.
+ORGANISATION DES OPÉRATIONS DE VOTE
 
-Les contrats spéciaux (plus spécialement, le contrat d'entreprise, le contrat de mandat, le contrat de courtage, le contrat de commissionnaire).
+II-1. Calendrier des opérations de vote.
 
-Droit social
+Le calendrier des opérations électorales est fixé ainsi qu'il suit :
 
-Droit du travail.
+- affichage et publication des listes électorales au moins trente jours avant la date du scrutin ;
 
-Les règles en droit du travail :
+- dépôt des actes de candidature au moins vingt et un jours avant la date du scrutin ;
 
-― la loi et les règlements ;
+- distribution du matériel de vote, au sein de l'établissement, au moins quinze jours avant la date du scrutin ;
 
-― la convention collective ;
+- dépouillement de tous les bulletins de vote le jour même du scrutin ;
 
-― l'usage ;
+- proclamation des résultats le jour même du scrutin.
 
-― le règlement intérieur d'entreprise.
+II-2 a. Organisation matérielle.
 
-Le contrat de travail :
+Les déclarations de candidatures précisant les noms des candidats titulaires et suppléants doivent être adressées par lettre recommandée avec avis de réception ou déposées auprès du directeur contre récépissé.
 
-― le contrat emploi-formation (contrat d'apprentissage, contrat de qualification...) ;
+Chaque candidature doit comprendre à la fois un membre titulaire et un membre suppléant.
 
-― le contrat d'emploi ;
+Les candidats peuvent accompagner leur candidature d'une profession de foi.
 
-Analyse générale du contrat d'emploi :
+II-2 b. Matériels de vote.
 
-― définition ;
+La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique, incombe à l'Institut national du sport, de l'expertise et de la performance.
 
-― exécution (obligations et prérogatives respectives de l'employeur et du salarié : plus spécialement, pouvoirs réglementaires et disciplinaires de l'employeur, modifications contractuelles, transfert d'entreprise ).
+L'Institut national du sport, de l'expertise et de la performance fait parvenir, en temps utile, aux électeurs, sous enveloppe libellée à leur nom :
 
-Analyses particulières du contrat de travail à durée indéterminée et du contrat de travail à durée déterminée :
+- les bulletins de vote ;
 
-― le contrat de travail à durée indéterminée (conclusion et cessation) ;
+- un exemplaire de la présente annexe ;
 
-― le contrat de travail à durée déterminée (conclusion et cessation).
+- le cas échéant, les professions de foi des candidats.
 
-Droit de la Sécurité sociale :
+Pour les personnes absentes de l'établissement, à cette période, pour quelque raison que ce soit, il sera procédé à un envoi avec avis de réception au domicile de l'électeur, sept jours au moins avant la date de clôture du scrutin.
 
-Les organismes sociaux :
+II-2 c. Bureau de vote.
 
-― détermination des différents organismes sociaux ;
+Les électeurs doivent exclusivement utiliser le matériel de vote fourni par l'Institut national du sport, de l'expertise et de la performance.
 
-― mission des différents organismes sociaux ;
+Le vote, sous peine de nullité, doit être exprimé à l'aide d'un seul bulletin de vote ne comportant ni rature, ni signe distinctif, ni surcharge. Ce bulletin est glissé par l'électeur dans une enveloppe qui, également, ne doit comporter aucun signe de reconnaissance.
 
-― recours à l'encontre des décisions des organismes sociaux.
+Le vote a lieu à l'Institut national du sport, de l'expertise et de la performance le jour du scrutin.
 
-L'assujettissement à la sécurité sociale :
+Le vote par correspondance est admis pour l'ensemble des électeurs.
 
-― le régime général ;
+Les votes par correspondance sont retirés en bloc à la poste, la veille de la date fixée pour le vote à l'Institut national du sport, de l'expertise et de la performance.
 
-― les autres régimes.
+Pour les votes transmis par la poste, l'enveloppe extérieure (enveloppe n° 1), préaffranchie, ne doit comporter aucune autre mention que celles préimprimées. Une seconde enveloppe (enveloppe n° 2), dans laquelle est glissée une troisième enveloppe (enveloppe n° 3) contenant le bulletin de vote, doit comporter, lisiblement écrits, le nom, le prénom, le collège ou le sous-collège auquel il appartient et la signature de l'électeur.
 
-L'assiette des cotisations sociales.
+Les électeurs qui ne peuvent voter personnellement ont la possibilité d'exercer leur droit de vote par un mandataire, en lui donnant procuration écrite pour voter en leur lieu et place.
 
-Droit des assurances
+Le mandataire doit être inscrit sur la même liste électorale que le mandant. Nul ne peut être porteur de plus de deux procurations.
 
-Définitions ;
+Les opérations électorales se déroulent publiquement dans un local d'accès facile où la liberté et le secret du vote sont assurés, sous le contrôle d'un bureau de vote constitué d'un président et de deux assesseurs choisis par le directeur de l'Institut national du sport, de l'expertise et de la performance parmi les électeurs.
 
-Assurance responsabilité civile professionnelle ;
+Les bulletins de vote et les enveloppes nécessaires sont déposés sur une table distincte de celle où est déposée l'urne.
 
-Assurance individuelle accident ;
+Le passage par l'isoloir est obligatoire.
 
-Garantie ;
+Les votants sont appelés à apposer leur signature sur une liste d'émargement, avant que le bulletin ne soit introduit dans l'urne. Les votants doivent pouvoir justifier de leur identité.
 
-Exclusion ;
+Avant le début du vote sur place, il est procédé au recensement des votes par correspondance.
 
-Franchise.
+Le nom des électeurs dont émanent ces enveloppes est émargé sur les listes.
 
-Droit fiscal
+Sont mises à part sans être ouvertes :
 
-L'impôt sur le revenu des personnes physiques :
+- les enveloppes n° 2 non signées ou ne comportant pas le nom, le prénom et le collège de l'électeur ou sur lesquelles ces mentions sont illisibles ;
 
-― personnes imposables (domicile fiscal, retenue à la source, conventions internationales) ;
+- les enveloppes n° 3 ou les bulletins de vote trouvés dans l'enveloppe n° 1 sans l'enveloppe n° 2.
 
-― l'assiette de l'impôt (traitements et salaires, bénéfices non commerciaux, bénéfices industriels et commerciaux, revenus mobiliers).
+Entraînent la nullité du suffrage de l'électeur :
 
-L'impôt sur les sociétés.
+- les enveloppes n° 2 multiples parvenues sous la signature d'un même électeur ;
 
-La taxe sur la valeur ajoutée :
+- les enveloppes n° 3 portant une mention ou un signe distinctif ;
 
-― champ d'application de la TVA (les opérations imposables par nature, les opérations non imposées, les règles de territorialité) ;
+- les enveloppes n° 3 parvenues en nombre multiple sous une même enveloppe n° 2 ;
 
-― technique de la TVA (établissement de la TVA, systèmes de déduction, obligations des redevables) ;
+- les bulletins trouvés dans l'enveloppe n° 2 sans l'enveloppe n° 3.
 
-― régime d'imposition.
+L'enveloppe contenant le bulletin de vote est introduite dans l'urne.
 
-La taxe professionnelle.
+TITRE III
 
-Droit des sociétés
+RÉSULTATS
 
-Notions générales sur les différents types de sociétés.
+III-1. Opérations de dépouillement.
 
-Notions générales sur les règles relatives aux difficultés des entreprises (redressement judiciaire, liquidation judiciaire...).
+Les opérations de dépouillement des votes s'effectuent publiquement au bureau de vote.
 
-Droit des associations
+Le président du bureau de vote veille à ce que le nombre des scrutateurs soit suffisant pour assurer le dépouillement des votes. Le nombre de scrutateurs doit être au moins égal au nombre de personnes constituant le bureau.
 
-Loi du 1er juillet 1901 modifiée et son décret d'application.
+Dès la clôture du scrutin, le bureau vérifie que le nombre d'enveloppes recueillies dans l'urne est bien égal au nombre des émargements effectués sur la liste des électeurs.
 
-Notions générales sur l'organisation et le fonctionnement des associations.
+Chaque membre du bureau signe la liste des électeurs.
 
-Notions générales relatives aux droits de la personnalité :
+Le dépouillement intervient aussitôt après.
 
-― le droit à l'image ;
+Sont notamment considérés comme nuls :
 
-― le droit au nom.
+- les enveloppes vides ;
+
+- les bulletins trouvés dans l'urne sans enveloppe ;
+
+- les bulletins ou enveloppes non conformes au modèle type ;
+
+- les bulletins ou enveloppes portant un signe distinctif, des surcharges ou des ratures ;
+
+- les bulletins différents contenus dans une même enveloppe.
+
+Sont déclarés élus, pour chacun des collèges ou sous-collèges, le ou les candidats ainsi que leurs suppléants ayant obtenu le plus grand nombre de voix ; en cas d'égalité du nombre de suffrages obtenus, le candidat le plus âgé est élu.
+
+Les résultats définitifs sont proclamés par le président du bureau de vote et consignés dans un procès-verbal récapitulatif du scrutin signé par le président et les assesseurs. Les bulletins nuls ainsi que les enveloppes qui ont été écartées sans être ouvertes sont annexés au procès-verbal.
+
+Le procès-verbal mentionne :
+
+1. Le nombre d'électeurs inscrits ;
+
+2. Le nombre d'électeurs votants ;
+
+3. Le nombre de bulletins blancs ou nuls ;
+
+4. Le nombre de suffrages exprimés ;
+
+5. Le nombre de suffrages recueillis par chaque candidat ;
+
+6. Les difficultés et incidents survenus.
+
+La copie de ce procès-verbal est affichée par les soins du directeur général de l'Institut national du sport, de l'expertise et de la performance.
+
+III-2. Contestations.
+
+Les contestations sur la validité des opérations électorales sont portées devant le directeur général de l'Institut national du sport, de l'expertise et de la performance dans un délai de cinq jours à compter de la proclamation des résultats.
+
+Celui-ci doit statuer dans un délai de huit jours, à l'issue duquel la demande est réputée rejetée.
