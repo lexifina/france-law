@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120222550
+
+- Question : [SEQ120222550](seq120222550.md) — Attribution du titre de reconnaissance de la Nation aux appelés d'Afrique du Nord
+
+## Réponse
+
+*Défense et des anciens combattants (SE), JO du 2012-05-03, page 1055*
+
+La loi n° 93-7 du 4 janvier 1993 a permis l'attribution du titre de reconnaissance de la Nation (TRN) aux militaires des forces armées françaises et aux personnes civiles de nationalité française, tels que définis à l'article L. 253 du code des pensions militaires d'invalidité et des victimes de la guerre, ayant servi, pendant 90 jours au moins au cours de conflits, opérations ou missions ouvrant droit à la carte du combattant. S'agissant de l'Algérie, la loi n° 2000-362 du 30 décembre 2000 portant loi de finances pour 2001 a élargi la période prise en compte pour l'obtention de ce titre aux militaires ayant séjourné sur ce territoire jusqu'au 1er juillet 1964. Il résulte de ces dispositions que la possession du TRN est réservée aux militaires ou aux civils français ayant servi sur un théâtre d'opérations pendant une période de conflit ou dans le cadre d'opérations militaires caractérisées par des affrontements armés. Tel n'est pas le cas des militaires ayant servi en Algérie après le 1er juillet 1964, notamment sur les sites des essais nucléaires. Leurs services, aussi méritoires soient-ils, ne peuvent donc être pris en compte pour l'attribution du TRN. Cependant, les civils et les militaires ayant œuvré sur ces sites ont pu voir leurs missions prises en compte pour l'attribution éventuelle des ordres nationaux, et de la médaille militaire s'agissant uniquement des personnels militaires. Au-delà de cette situation, et comme l'a récemment annoncé le ministre de la défense et des anciens combattants, une réflexion est en cours pour encore mieux valoriser la participation des femmes et des hommes qui ont ainsi été les acteurs de la construction de l'outil de dissuasion.
