@@ -2,13 +2,11 @@
 
 SOUS-OFFICIERS DE GENDARMERIE
 
-La commission d'avancement mentionnée à l'article 4 se compose des officiers désignés dans les tableaux ci-après.
+La commission d'avancement mentionnée à l'article 4 se compose des officiers désignés dans le tableau ci-après :
 
-1. Branches de la subdivision d'arme de la gendarmerie départementale :
+1. Branches de la subdivision d'arme de la gendarmerie départementale.
 
 BRANCHES
-
-et spécialités
 
 |
 
@@ -110,11 +108,9 @@ Deux officiers supérieurs de la branche considérée, à défaut, désignés pa
 
 |
 
-2. Branches de la subdivision d'arme de la gendarmerie mobile :
+2. Branches de la subdivision d'arme de la gendarmerie mobile.
 
 BRANCHES
-
-et spécialités
 
 |
 
@@ -154,23 +150,25 @@ Garde républicaine.
 
 |
 
-Le commandant de la garde républicaine.
+Le chef d'état-major.
 
 |
 
-Le commandant en second de la garde républicaine.
+L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
 
 |
 
-Pour chacune des branches, le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major, deux officiers de la garde républicaine dont un appartenant à la branche concernée, désignés par le commandant de la région de gendarmerie d'Ile-de-France.
+Les commandants de régiment ou les commandants de régiment par suppléance.
+
+Le chef des orchestres ou le chef des orchestres par suppléance.
+
+Le chef du chœur de l'armée française ou le chef du chœur de l'armée française par suppléance.
 
 |
 
-3. Branches communes aux deux subdivisions d'arme :
+3. Branches communes aux deux subdivisions d'arme.
 
 BRANCHES
-
-et spécialités
 
 |
 
@@ -274,7 +272,7 @@ Un officier supérieur du pôle judiciaire de la gendarmerie nationale.
 
 Un officier supérieur de la direction de la coopération internationale.
 
-Ces membres sont désignés par le directeur des personnels militairesde la gendarmerie nationale.
+Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
 
 |
 
@@ -290,11 +288,11 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 
 |
 
-Un officier supérieur chargé de missions près le chef de cabinet du directeur général de la gendarmerie nationale.
+Un officier supérieur du cabinet du directeur général de la gendarmerie nationale.
 
 Un officier supérieur de la direction des opérations et de l'emploi.
 
-Un officier supérieur de la direction des personnels militaires de la gendarmerie nationale
+Un officier supérieur de la direction des personnels militaires de la gendarmerie nationale.
 
 Un officier supérieur de la direction des soutiens et des finances.
 
@@ -344,7 +342,55 @@ Les chefs d'états-majors, les chefs des forces et les chefs des bureaux.
 
 |
 
-Par spécialité.
+4. Spécialités.
+
+SPÉCIALITÉS
+
+|
+
+PRÉSIDENCE
+
+de la commission titulaire
+
+|
+
+PRÉSIDENCE
+
+de la commission suppléant
+
+|
+
+MEMBRES
+
+|
+
+Aéronautique, pilotes.
+
+Aéronautique, mécaniciens cellules et moteurs.
+
+Aéronautique, mécaniciens avionique.
+
+Aéronautique, opérateurs aérosurveillance et avitailleurs.
+
+|
+
+Le commandant des forces aériennes de la gendarmerie nationale.
+
+|
+
+L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement des forces aériennes de la gendarmerie nationale.
+
+|
+
+Deux officiers supérieurs désignés par le commandant des forces aériennes de la gendarmerie nationale.
+
+|
+
+Affaires immobilières.
+
+Montagne.
+
+Systèmes d'information et de communication.
 
 |
 
