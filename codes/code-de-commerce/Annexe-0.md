@@ -14,7 +14,7 @@ APPLICABLES À TOUTES LES DEMANDES
 
 5. Lorsque la pièce mentionnée aux annexes suivantes est une décision définitive, il peut s'agir d'une ordonnance, d'un jugement ou d'un arrêt, et une copie de celui-ci est fournie accompagnée :
 
-― d'un certificat de l'avocat ou de l'avoué attestant son caractère définitif ; ou
+― d'un certificat de l'avocat attestant son caractère définitif ; ou
 
 ― d'un certificat de non-appel ou de non-pourvoi.
 
