@@ -1,14 +1,14 @@
 # Article 344 terdecies
 
-I. ― Pour l'application de l'article 344 duodecies, la cotisation acquittée par chaque contribuable au cours d'une année civile s'entend du montant total de cotisation sur la valeur ajoutée payé au cours de cette année, corrigé conformément au II du présent article.
+I. – Pour l'application de l'article 344 duodecies, la cotisation acquittée par chaque contribuable au cours d'une année civile s'entend du montant total de cotisation sur la valeur ajoutée payé au cours de cette année, corrigé conformément au II du présent article.
 
-II. ― Le montant payé par chaque contribuable est :
+II. – Le montant payé par chaque contribuable est :
 
 1. Majoré :
 
 1° Du montant des dégrèvements accordés la même année en application de l'article 1586 quater du code général des impôts, sous réserve :
 
-a. Pour les entreprises soumises à la cotisation sur la valeur ajoutée des entreprises en application du I de l'article vent1586 ter du code général des impôts et visées au a du I de l'article vent1586 quater du même code : d'avoir dûment renseigné le montant de la valeur ajoutée sur la déclaration prévue au II de l'article 1586 octies du même code souscrite au cours de la même année civile ou, pour les entreprises qui en sont dispensées, sur la dernière déclaration de résultat exigée ;
+a. Pour les entreprises soumises à la cotisation sur la valeur ajoutée des entreprises en application du I de l'article 1586 ter du code général des impôts et visées au a du I de l'article 1586 quater du même code : d'avoir dûment renseigné le montant de la valeur ajoutée sur la déclaration prévue au II de l'article 1586 octies du même code souscrite au cours de la même année civile ou, pour les entreprises qui en sont dispensées, sur la dernière déclaration de résultat exigée ;
 
 b. Pour les entreprises visées aux I et I bis de l'article 1586 quater du code général des impôts, à l'exception de celles visées au a du I de cet article : d'avoir dûment renseigné le montant de la valeur ajoutée sur la déclaration prévue au dernier alinéa de l'article 1679 septies du même code souscrite au cours de la même année civile ou sur l'un des deux relevés d'acompte acquittés au cours de cette même année ;
 
@@ -25,3 +25,7 @@ b. Des restitutions de cotisation sur la valeur ajoutée des entreprises prévue
 a. Le dégrèvement prévu à l'article 1586 quater du code général des impôts calculé en tenant compte des conséquences des impositions supplémentaires acquittées au cours de la même année ;
 
 b. Et le dégrèvement prévu à l'article 1586 quater du code général des impôts déterminé avant prise en compte des impositions supplémentaires acquittées au cours de la même année.
+
+NOTA :
+
+En conséquence de l'article 55-I et XXVII B de la loi n° 2022-1726 du 30 décembre 2022, cet article devient sans objet.

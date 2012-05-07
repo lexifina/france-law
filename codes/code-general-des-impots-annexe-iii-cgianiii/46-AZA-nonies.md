@@ -1,18 +1,18 @@
 # Article 46 AZA nonies
 
-I.-Pour l'application de l'article 199 sexvicies du code général des impôts, le contribuable joint à sa déclaration de revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé :
+I. – Pour l'application de l'article 199 sexvicies du code général des impôts, le contribuable joint à sa déclaration de revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé :
 
 1° Une note annexe, établie conformément au modèle fixé par l'administration, qui comporte les éléments suivants :
 
 a. Ses identité et adresse ;
 
-b.L'adresse du logement concerné ;
+b. L'adresse du logement concerné ;
 
 c. Pour les logements acquis en l'état futur d'achèvement ou les logements achevés depuis au moins quinze ans, la date d'achèvement du logement ;
 
 d. Le nom et le type d'établissement ou de résidence dans lequel le logement est situé ;
 
-e.L'engagement de louer le logement meublé pendant une durée de neuf ans au moins à l'exploitant de l'établissement ou de la résidence ;
+e. L'engagement de louer le logement meublé pendant une durée de neuf ans au moins à l'exploitant de l'établissement ou de la résidence ;
 
 f. Le prix d'acquisition ou de revient du logement retenu pour la détermination de la base de la réduction d'impôt ;
 
@@ -34,10 +34,14 @@ b. Lorsque le logement fait l'objet de travaux de la part de l'acquéreur, une c
 
 6° Pour les logements situés dans les résidences de tourisme, une copie de l'arrêté préfectoral portant classement de la résidence ;
 
-7° Pour les logements situés dans des résidences avec services pour personnes âgées ou handicapées, une copie attestant de la délivrance de l'agrément prévue à l'article L. 7232-3 du code du travail, par le gestionnaire des services.
+7° Pour les logements situés dans des résidences avec services pour personnes âgées ou handicapées, une copie attestant de la délivrance de l'agrément prévue à l'article L. 7232-1 du code du travail, par le gestionnaire des services.
 
-II.-En cas de changement d'exploitant au cours de la période couverte par l'engagement de location, le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du bail conclu avec le nouvel exploitant comportant les mentions définies au 2° du I.
+II. – En cas de changement d'exploitant au cours de la période couverte par l'engagement de location, le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du bail conclu avec le nouvel exploitant comportant les mentions définies au 2° du I.
 
-III.-Pour l'application du dernier alinéa du III de l'article 199 sexvicies du code général des impôts, le conjoint survivant joint à la déclaration des revenus qu'il souscrit au titre de l'année du décès de son conjoint, pour la période postérieure à cet événement, une note établie conformément à un modèle fixé par l'administration qui comporte l'engagement de louer le logement meublé à l'exploitant de l'établissement ou de la résidence pour la fraction de la période de neuf ans couverte par l'engagement de location initial restant à courir à la date du décès.
+III. – Pour l'application du dernier alinéa du III de l'article 199 sexvicies du code général des impôts, le conjoint survivant joint à la déclaration des revenus qu'il souscrit au titre de l'année du décès de son conjoint, pour la période postérieure à cet événement, une note établie conformément à un modèle fixé par l'administration qui comporte l'engagement de louer le logement meublé à l'exploitant de l'établissement ou de la résidence pour la fraction de la période de neuf ans couverte par l'engagement de location initial restant à courir à la date du décès.
 
 En cas de changement d'exploitant de l'établissement ou de la résidence, les dispositions du II sont applicables.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 31, I [5° et 8°] de la loi n° 2010-853 du 23 juillet 2010.
