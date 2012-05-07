@@ -18,7 +18,7 @@ susceptibles de provoquer la maladie
 
 |
 
-Ulcérations cutanées.
+Dermatites irritatives.
 
 |
 
