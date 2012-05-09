@@ -1,32 +1,22 @@
 # Article Annexe II-2
 
-|
+Vous avez obtenu
 
-CERTIFICATIONS DELIVREES PAR LA FEDERATION FRANCAISE D'EQUITATION
+Equivalence dans le BP
 
-|
-
-Vous avez
-
-obtenu
-
-Equivalence
-
-dans le BP JEPS AE
+JEPS AE
 
 |
 
-BREVETS FEDERAUX
+Certifications délivrées par la Fédération française d'équitation
 
 |
 
-TITRES A FINALITÉ
+Brevets Fédéraux
 
-PROFESSIONNELLE
+|
 
-ENREGISTRÉS AU RNCP
-
-LE 13 NOVEMBRE 2009
+Titres à finalités professionnelle
 
 |
 
@@ -34,11 +24,15 @@ Degré 2
 
 |
 
-Degré 2
+Degré 2 Tourisme équestre
 
-Tourisme
+|
 
-équestre
+Degré 3
+
+|
+
+Degré 3 Tourisme équestre
 
 |
 
@@ -54,13 +48,17 @@ GTE**
 
 |
 
-ANIMATEUR
-
-PONEY
+Animateur Poney délivré après le 13/11/09
 
 |
 
 ATE
+
+délivré après le 13/11/09
+
+|
+
+AAE
 
 |
 
@@ -80,39 +78,31 @@ Acquis mention équitation
 
 |
 
-Acquis
-
-mention
-
-tourisme
-
-équestre
+Acquis mention tourisme équestre
 
 |
 
-Acquis
-
-mention
-
-tourisme
-
-équestre
+Acquis mention équitation
 
 |
 
-Acquis
-
-mention
-
-équitation
+Acquis mention tourisme équestre
 
 |
 
-Acquis
+Acquis mention tourisme équestre
 
-mention tourisme
+|
 
-équestre
+Acquis mention équitation
+
+|
+
+Acquis mention tourisme équestre
+
+|
+
+Acquis mention équitation ou mention tourisme équestre
 
 |
 
@@ -121,6 +111,14 @@ Exigences préalables à la mise en situation pédagogique
 |
 
 |
+
+|
+
+|
+
+|
+
+Acquis
 
 |
 
@@ -156,7 +154,13 @@ UC 1
 
 |
 
+|
+
+|
+
 Acquis
+
+|
 
 |
 
@@ -176,7 +180,13 @@ UC 2
 
 |
 
+|
+
+|
+
 Acquis
+
+|
 
 |
 
@@ -196,7 +206,13 @@ UC 3
 
 |
 
+|
+
+|
+
 Acquis
+
+|
 
 |
 
@@ -216,7 +232,13 @@ UC 4
 
 |
 
+|
+
+|
+
 Acquis
+
+|
 
 |
 
@@ -229,6 +251,14 @@ UC 5
 |
 
 |
+
+|
+
+|
+
+|
+
+Acquis
 
 |
 
@@ -257,6 +287,14 @@ UC 6
 |
 
 |
+
+|
+
+|
+
+|
+
+Acquis
 
 |
 
@@ -292,7 +330,13 @@ UC 7
 
 |
 
+|
+
+|
+
 Acquis
+
+|
 
 |
 
@@ -312,7 +356,13 @@ UC 8
 
 |
 
+|
+
+|
+
 Acquis
+
+|
 
 |
 
@@ -328,6 +378,12 @@ UC 9
 
 |
 
+Acquis
+
+mention
+
+équitation
+
 |
 
 Acquis
@@ -340,17 +396,39 @@ tourisme
 
 |
 
-Acquis mention
+|
 
-tourisme équestre
+Acquis
+
+mention
+
+tourisme
+
+équestre
+
+|
+
+Acquis
+
+mention
+
+tourisme
+
+équestre
 
 |
 
 |
 
-Acquis mention
+Acquis
 
-tourisme équestre
+mention
+
+tourisme
+
+équestre
+
+|
 
 |
 
@@ -366,7 +444,13 @@ UC 10
 
 |
 
+|
+
+|
+
 Acquis
+
+|
 
 |
 
