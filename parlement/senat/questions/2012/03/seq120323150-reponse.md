@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120323150
+
+- Question : [SEQ120323150](seq120323150.md) — Rétablissement de la préretraite pour les agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 2012-05-10, page 1149*
+
+Les exploitants agricoles bénéficiaient depuis 1992 de la possibilité de solliciter une préretraite, selon des modalités qui ont été réorientées, en 1998, sur les agriculteurs confrontés à des difficultés économiques ou de santé. Dans le cadre de la modernisation des politiques publiques, il a été décidé le 11 juin 2008 que les aides à la cessation d'activité seraient rationalisées en supprimant, notamment, le dispositif de préretraite des agriculteurs. Il s'agissait d'aligner les exploitants agricoles sur les autres catégories socio-professionnelles, pour lesquelles les dispositifs de préretraite avaient été progressivement supprimés. Le décret n° 2008-1111 du 30 octobre 2008 a donc abrogé le décret du 22 octobre 2007 régissant le dispositif de préretraite agricole en métropole. Compte tenu de la politique du Gouvernement en matière d'emploi des séniors et du contexte contraint des finances publiques, il n'est pas envisagé de revenir sur cette suppression. Toutefois, les agriculteurs confrontés à des difficultés économiques ou de santé bénéficient, au plan local, dans le cadre des autres dispositifs existants, d'un accompagnement social adapté à leur situation. Les caisses de mutualité sociale agricole sont en mesure de détecter en amont les situations de rupture potentielles et de veiller à ce que les assurés bénéficient de la plénitude de leurs droits. Dans le cadre de la politique d'action sanitaire et sociale, elles peuvent également apporter une aide aux agriculteurs. Le suivi personnalisé des adhérents dans le cadre du « guichet unique » est une caractéristique du régime agricole, facteur d'efficacité.
