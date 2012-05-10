@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111221369
+
+- Question : [SEQ111221369](seq111221369.md) — Exécution forcée ou d'office de travaux sur des propriétés privées
+
+## Réponse
+
+*Collectivités territoriales, JO du 2012-05-10, page 1159*
+
+En l'absence de dispositions législatives l'autorisant explicitement, le maire ne peut mettre à la charge de tiers les frais de travaux réalisés par la commune. Avant l'insertion dans le code général des collectivités territoriales des dispositions de l'article L. 2212-2-2 relatives à l'élagage des arbres, le Conseil d'État avait ainsi jugé qu'étaient entachées d'illégalité des dispositions prévoyant, sans fondement législatif, qu'à défaut de leur exécution par les propriétaires riverains, les frais d'exécution d'office par l'administration des opérations d'élagage des arbres seraient mis à la charge des propriétaires (CE, 23 octobre 1998, Prébot, n° 172017). De même, l'article L. 2212-2 du code général des collectivités territoriales relatif au pouvoir de police du maire n'autorise pas l'autorité municipale à prescrire au propriétaire d'une parcelle, sur laquelle s'est produit un glissement de terrain, de procéder d'urgence aux travaux nécessaires afin de stopper ledit glissement, en mettant ces travaux à sa charge. En revanche, l'article L. 2212-4 du même code, qui vise les cas de danger grave ou imminent, permet au maire de prescrire de tels travaux, lesquels, toutefois, ayant un intérêt collectif, doivent être exécutés par les soins de la commune et à ses frais (CE, 6 avril 1998, SARL Anciens établissements Oustau et Cie, n° 142845). Par ailleurs, la commune ne peut effectuer certains travaux dans les propriétés privées que dans le respect des dispositions de la loi du 29 décembre 1892 relative aux dommages causés à la propriété privée par l'exécution des travaux publics.
