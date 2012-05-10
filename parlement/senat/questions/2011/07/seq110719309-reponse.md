@@ -1,0 +1,9 @@
+# Réponse à la question SEQ110719309
+
+- Question : [SEQ110719309](seq110719309.md) — Conduite d'une tondeuse autoportée par un employé communal
+
+## Réponse
+
+*Collectivités territoriales, JO du 2012-05-10, page 1156*
+
+L'article R. 221-1 du code de la route prévoit que : « Nul ne peut conduire un véhicule ou ensemble de véhicules, pour la conduite duquel le permis de conduire est exigé par le présent code, s'il n'est titulaire de la catégorie correspondante du permis de conduire en état de validité et s'il ne respecte les restrictions d'usage mentionnées sur ce titre. » Les tondeuses autoportées autorisées à circuler sur la voie publique (disposant d'un procès-verbal de réception et d'homologation et immatriculées) sont assimilées à des machines agricoles automotrices par l'article R. 311-1 de ce même code. Il en résulte que tout agent d'une collectivité territoriale qui conduit sur les voies ouvertes à la circulation publique une tondeuse à gazon autoportée est tenu de posséder le permis de conduire correspondant, défini par l'article R. 221-4 du code de la route. Conformément à ce texte, la ou les catégories de permis de conduire exigées pour la conduite de ce type de véhicule, à savoir B, E(B), C ou E(C), sont définies en fonction du poids total autorisé en charge (PTAC) du véhicule et, le cas échéant, de sa remorque. La nouvelle directive 2006/126/CE relative au permis de conduire entrera en vigueur le 19 janvier 2013. Sa transposition en droit français aura plusieurs conséquences facilitant l'accès à la conduite de ce type d'engin : possibilité, avec la catégorie B complétée d'une formation obligatoire, de conduire un ensemble jusqu'à 4 250 kilos de poids total roulant autorisé (PTRA), création des catégories C1 et C1E autorisant la conduite de véhicules dont le PTAC est compris entre 3 500 et 7 500 kilos.
