@@ -210,9 +210,7 @@ L'exploitant lutte contre la prolifération des insectes et des rongeurs aussi s
 
 Les produits de nettoyage, de désinfection, de traitement, le fuel et les produits dangereux sont stockés dans des conditions propres à éviter tout déversement accidentel dans le milieu naturel et tous risques pour la sécurité et la santé des populations avoisinantes et pour la protection de l'environnement.
 
-5. Eau
-
-5.1. Prélèvements d'eau
+5. Eau5.1. Prélèvements d'eau
 
 Un compteur d'eau volumétrique est installé sur la conduite d'alimentation en eau de l'installation. En cas de raccordement sur un réseau public ou sur un forage en nappe, l'ouvrage est équipé d'un dispositif de disconnexion muni d'un système de non-retour.
 
@@ -364,9 +362,7 @@ En zone d'excédent structurel, les dispositions fixées par les arrêtés relat
 
 5.6.2. Traitement sur un site spécialisé
 
-Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre Ie
-
-r ou du livre V du code de l'environnement.
+Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre Ier ou du livre V du code de l'environnement.
 
 L'exploitant tient à la disposition de l'inspecteur des installations classées le relevé des quantités livrées et la date de livraison.
 
@@ -417,8 +413,6 @@ L'ensemble de ces éléments est présenté dans un document de synthèse tenu �
 Toute modification notable du plan d'épandage doit être portée avant sa réalisation à la connaissance du préfet.
 
 5.8.3. Quantités maximales épandables
-
-Dans les zones vulnérables, délimitées en application du décret no 93-1038 du 27 août 1993 susvisé, la quantité d'azote épandue ne doit pas dépasser 170 kg par hectare épandable et par an en moyenne sur l'exploitation pour l'azote contenu dans les effluents de l'élevage et les déjections restituées aux pâturages par les animaux.
 
 En zone d'excédent structurel, les dispositions fixées par les arrêtés relatifs aux programmes d'action, pris en application du décret no 2001-34 du 10 janvier 2001, sont applicables à l'installation, en particulier les dispositions relatives à l'étendue maximale des surfaces d'épandage des effluents.
 
@@ -568,15 +562,13 @@ En cas de rejet dans le milieu naturel, le point de rejet de l'effluent traité 
 
 Les résultats de ces analyses sont conservés cinq ans et présentés à sa demande à l'inspecteur des installations classées.
 
-6. Air - Odeurs
+6.Air - Odeurs
 
 Les bâtiments sont correctement ventilés.
 
 L'exploitant prend des dispositions pour atténuer les émissions d'odeurs, de gaz ou de poussières susceptibles de créer des nuisances de voisinage.
 
-7. Déchets
-
-7.1. Déchets
+7.Déchets7.1. Déchets
 
 Les déchets de l'exploitation, et notamment les emballages et les déchets de soins vétérinaires, sont stockés dans des conditions ne présentant pas de risques (prévention des envols, des infiltrations dans le sol et des odeurs, etc.) pour les populations avoisinantes humaines et animales et l'environnement.
 
@@ -602,11 +594,11 @@ Le niveau sonore des bruits en provenance de l'élevage ne doit pas compromettre
 
 Pour la période allant de 6 heures à 22 heures :
 
-DURÉE CUMULÉE
+DUREE CUMULEE
 
 d'apparition du bruit particulier T |
 
-ÉMERGENCE MAXIMALE
+EMERGENCE MAXIMALE
 
 admissible en db(A) |
 
