@@ -146,7 +146,7 @@ Tout aéronef, sauf ceux immatriculés 5R-MFH, 5R-MFI, 5R-MJE, 5R-MJF, 5R-MJG, 5
 
 |
 
-Tout aéronef, sauf 2 aéronefs de type B737-300, 2 aéronefs de type ATR. 72-500, 1 aéronef de type ATR. 42-500, 1 aéronef de type ATR. 42-320 et 3 aéronefs de type DHC 6-300
+Tout aéronef, sauf 2 aéronefs de type B737-300, 2 aéronefs de type ATR 72-500, 1 aéronef de type ATR 42-500, 1 aéronef de type ATR 42-320 et 3 aéronefs de type DHC 6-300
 
 |
 
@@ -286,7 +286,7 @@ DTA
 
 |
 
-Tout aéronef sauf ceux immatriculés D. 2-TED, D. 2-TEE, D. 2-TEF, D. 2-TEG, D. 2-TEH, D. 2-TBF, D. 2-TBG, D. 2-TBH, D. 2-TBJ
+Tout aéronef sauf ceux immatriculés D 2-TED, D 2-TEE, D 2-TEF, D 2-TEG, D 2-TEH, D 2-TBF, D 2-TBG, D 2-TBH, D 2-TBJ
 
 |
 
@@ -302,6 +302,6 @@ Tout aéronef sauf 5 aéronefs de type Boeing B777 et 4 aéronefs de type Boeing
 
 (4) Gabon Airlines n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
-(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les aéronefs spécifiques, dans les conditions fixées au considérant (69) du règlement (UE) n° 590/2010, JO L. 170 du 6 juillet 2010, p. 15.
+(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les aéronefs spécifiques, dans les conditions fixées au considérant (69) du règlement (UE) n° 590/2010, JOUE L 170 du 6 juillet 2010, p. 15.
 
 |
