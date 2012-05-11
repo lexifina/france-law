@@ -1,12 +1,6 @@
 # Article Annexe I
 
-DÉSIGNATION
-
 |
-
-DIAMÈTRE
-
-(en millimètres)
 
 |
 
@@ -18,7 +12,11 @@ MASSE
 
 |
 
+Désignation
+
 |
+
+Diamètre en mm
 
 |
 
@@ -28,27 +26,27 @@ Titre droit
 
 Tolérance
 
-(en millièmes)
+en millièmes
 
 |
 
-Masse
-
-(en grammes)
+Masse en g
 
 |
 
 Tolérance
 
-(en millièmes)
+en millièmes
 
 |
 
-TRANCHE
+Tranche
 
 |
 
-Pièces de 5 000 € en or qualité Belle Epreuve
+Pièces 5 000 € en or qualité
+
+Belle Épreuve
 
 |
 
@@ -78,7 +76,9 @@ du tirage
 
 |
 
-1 000 € en or qualité Belle Epreuve
+1 000 € en or qualité
+
+Belle Épreuve
 
 |
 
@@ -106,7 +106,9 @@ Lisse
 
 |
 
-1 000 € en or " europa " qualité Belle Epreuve
+1 000 € en or "Europa" qualité
+
+Belle Épreuve
 
 |
 
@@ -130,13 +132,13 @@ Minimum
 
 |
 
-Numérotation
-
-du tirage
+Numéritation du tirage
 
 |
 
-Pièces de 500 € en or qualité Belle Epreuve
+Pièces 500 € en or qualité
+
+Belle Épreuve
 
 |
 
@@ -164,7 +166,9 @@ Lisse
 
 |
 
-Pièces de 250 € en or Qualité Belle Epreuve
+Pièces de 250 € en or qualité
+
+Belle Épreuve
 
 |
 
@@ -192,7 +196,9 @@ Lisse
 
 |
 
-Pièces de 200 € en or " europa " qualité Belle Epreuve
+Pièces 200 € en or "Europa" qualité
+
+Belle Épreuve
 
 |
 
@@ -216,13 +222,13 @@ Minimum
 
 |
 
-Gravure en creux :
-
-europa
+Gravure en creux : " Europa "
 
 |
 
-Pièces de 200 € en or qualité Belle Epreuve
+Pièces 200 € en or qualité
+
+Belle Épreuve
 
 |
 
@@ -250,7 +256,9 @@ Lisse
 
 |
 
-Pièces de 100 € en or qualité Belle Epreuve
+Pièces 100 € en or qualité
+
+Belle Épreuve
 
 |
 
@@ -282,7 +290,9 @@ Lisse
 
 |
 
-Pièces de 50 € en or qualité Belle Epreuve
+Pièces 50 € en or qualité
+
+Belle Épreuve
 
 |
 
@@ -314,7 +324,9 @@ Lisse
 
 |
 
-Pièces de 50 € en or " europa " qualité Belle Epreuve
+Pièces 50 € en or " Europa " qualité
+
+Belle Épreuve
 
 |
 
@@ -342,13 +354,13 @@ Cuivre 40
 
 |
 
-Gravure en creux :
-
-europa
+Gravure en creux : " Europa "
 
 |
 
-Pièces de 5 € en or qualité Belle Epreuve
+Pièces 5 € en or qualité
+
+Belle Épreuve
 
 |
 
@@ -376,7 +388,9 @@ Lisse
 
 |
 
-Pièces de 5 € en or Qualité Belle Epreuve
+Pièces de 5 € en or qualité
+
+Belle Épreuve
 
 |
 

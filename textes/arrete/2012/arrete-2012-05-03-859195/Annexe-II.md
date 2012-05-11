@@ -1,12 +1,6 @@
 # Article Annexe II
 
-DÉSIGNATION
-
 |
-
-DIAMÈTRE
-
-(en millimètres)
 
 |
 
@@ -18,7 +12,11 @@ MASSE
 
 |
 
+Désignation
+
 |
+
+Diamètre en mm
 
 |
 
@@ -28,27 +26,27 @@ Titre droit
 
 Tolérance
 
-(en millièmes)
+en millièmes
 
 |
 
-Masse
-
-(en grammes)
+Masse en g
 
 |
 
 Tolérance
 
-(en millièmes)
+en millièmes
 
 |
 
-TRANCHE
+Tranche
 
 |
 
-Pièces de 100 € en argent qualité Belle Epreuve
+Pièces de 100 € en argent qualité
+
+Belle Épreuve
 
 |
 
@@ -80,7 +78,9 @@ du tirage
 
 |
 
-Pièces de 50 € en argent qualité Belle Epreuve
+Pièces 50 € en argent qualité
+
+Belle Épreuve
 
 |
 
@@ -112,7 +112,9 @@ du tirage
 
 |
 
-Pièces de 20 € en argent qualité Belle Epreuve
+Pièces 20 € en argent qualité
+
+Belle Épreuve
 
 |
 
@@ -142,7 +144,9 @@ Lisse
 
 |
 
-Pièces de 10 € en argent qualité Belle Epreuve
+Pièces 10 € en argent qualité
+
+Belle Épreuve
 
 |
 
@@ -156,7 +160,7 @@ Cuivre 100
 
 |
 
-+ 10
++10
 
 - 5
 
@@ -174,7 +178,9 @@ Lisse
 
 |
 
-Pièces de 10 € en argent qualité Belle Epreuve " europa "
+Pièces 10 € en argent qualité
+
+Belle Épreuve "Europa"
 
 |
 
@@ -188,7 +194,7 @@ Cuivre 100
 
 |
 
-+ 10
++10
 
 - 5
 
@@ -202,13 +208,45 @@ Cuivre 100
 
 |
 
-Gravure en creux :
-
-" europa "
+Gravure en creux " Europa "
 
 |
 
-Pièces de 5 € en argent qualité Brillant Universel
+Pièces de 10 € en argent qualité
+
+Belle Épreuve
+
+|
+
+29
+
+|
+
+Argent 500
+
+Cuivre 500
+
+|
+
++10
+
+- 5
+
+|
+
+10
+
+|
+
+± 15
+
+|
+
+Lisse
+
+|
+
+Pièces 5 € en argent qualité Brillant Universel
 
 |
 
@@ -222,7 +260,7 @@ Cuivre 100
 
 |
 
-+ 10
++10
 
 - 5
 
