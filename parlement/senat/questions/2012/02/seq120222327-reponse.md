@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120222327
+
+- Question : [SEQ120222327](seq120222327.md) — Diplômes requis pour la profession de moniteurs guides de pêche
+
+## Réponse
+
+*Sports, JO du 2012-05-17, page 1284*
+
+L'attention du ministère des sports a été attirée sur une requête formulée par la Fédération française des moniteurs guides de pêche concernant un éventuel projet de réforme de la formation des moniteurs guides de pêche. Actuellement, il faut en effet être titulaire du brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BPJEPS) spécialité « pêche de loisir » pour encadrer l'activité contre rémunération. Afin de consolider les compétences du titulaire de ce diplôme notamment en milieu maritime, une unité capitalisable complémentaire intitulée « pêche de loisir en milieu maritime » a été créée par arrêté du 16 janvier 2006. Pour les professionnels désirant exercer sur le domaine maritime, aucune nouvelle qualification ou évolution des qualifications existantes n'est, à ce jour, envisagée. Le diplôme de la marine marchande nommé « capitaine 200 » est un diplôme délivré par le ministère de l'écologie, du développement durable, des transports et du logement, direction des affaires maritimes qui permet le commandement des navires de commerce de jauge brute inférieure à 200 (moins de 24 m environ) naviguant à moins de 20 milles des côtes. Il n'est pas, à ce jour, envisagé de faire passer ce diplôme aux éducateurs sportifs relevant du champ du ministère chargé des sports pour exercer leur activité. L'activité professionnelle exercée par les éducateurs sportifs diplômés de moniteur « guide de pêche de loisir » est une profession qui ne nécessite pas l'obtention du brevet de capitaine 200. Il nécessite en revanche la possession du permis plaisance délivré par le ministère de l'écologie, du développement durable, des transports et du logement.
