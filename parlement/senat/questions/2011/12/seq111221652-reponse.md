@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111221652
+
+- Question : [SEQ111221652](seq111221652.md) — Mandat exclusif des agences immobilières
+
+## Réponse
+
+*Justice, JO du 2012-05-17, page 1277*
+
+Le projet de loi renforçant les droits, la protection et l'information des consommateurs a pour ambition d'apporter des réponses concrètes aux attentes de nos concitoyens concernant leur vie quotidienne dans les principaux secteurs de la vie courante qui constituent des dépenses contraintes pour les ménages, dont le secteur du logement et de l'immobilier. Lors de l'examen de ce texte en première lecture, les députés ont modifié l'article 7 de la loi dite « Hoguet » du 2 janvier 1970 en y insérant un nouvel alinéa réputant non écrites, dans les mandats exclusifs conclus avec un agent immobilier, toute clause pénale et toute stipulation interdisant au mandant de réaliser, sans l'intermédiaire de son mandataire, l'une des opérations mentionnées au 1° de l'article 1er de la loi. Cette disposition n'avait pas pour objet d'interdire le recours au mandat exclusif, dont l'intérêt pour les parties n'est pas contesté, mais visait à offrir au mandant la faculté de vendre son bien à un acquéreur trouvé par ses soins, et non par l'entremise de l'agent immobilier, sans pour autant être redevable d'une indemnité à ce dernier. Ce texte n'a pas été retenu par les sénateurs qui ont rétabli la clause pénale tout en prévoyant le plafonnement de son montant par décret. Les débats sont appelés à se poursuivre en seconde lecture devant les deux assemblées. Le Gouvernement est attentif à l'adoption d'un texte équilibré qui permette, à la fois, de renforcer la confiance des consommateurs et de soutenir l'activité des entreprises éprouvées par la crise que traverse actuellement notre pays. C'est dans cet esprit qu'il envisagera toute évolution des règles applicables au mandat exclusif.
