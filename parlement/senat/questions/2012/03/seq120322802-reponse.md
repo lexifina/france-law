@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120322802
+
+- Question : [SEQ120322802](seq120322802.md) — Situation préoccupante des établissements associatifs d'enseignement supérieur agricole
+
+## Réponse
+
+*Agriculture, JO du 2012-05-17, page 1217*
+
+La réforme du dispositif de financement des écoles d'enseignement supérieur agricole privées mise en œuvre par le décret n° 2009-791 du 23 juin 2009 a permis de rénover leurs relations avec l'État et de sécuriser les montants des subventions versées aux sept écoles. En application des articles R. 813-63 à R. 813-66 du code rural et de la pêche maritime, les établissements passent avec l'État un contrat quadriennal destiné à financer une partie des filières de formation d'ingénieurs qu'elles mettent en œuvre. L'aide financière de l'État versée au titre des contrats se compose d'une part fixe, correspondant à un nombre d'heures d'enseignement pris en compte par le contrat, et d'une part variable correspondant à la réalisation d'objectifs dans les domaines de l'enseignement, la recherche, le transfert, la valorisation et le développement international. Le montant de la part variable qui est notifiée chaque année par le ministre chargé de l'agriculture, après avis d'une commission consultative, est compris entre 10 à 25 % du montant de la part fixe. Ce nouveau dispositif a permis d'assurer aux écoles la stabilité de financement nécessaire à la continuité de leurs actions. La dotation 2012 de 24,4 M€, qui est identique à celles de 2010 et 2011, se décompose en 21,1 M€ versés au titre de la part fixe, sur la base de 75 750 heures d'enseignement et 3,3 M€ qui pourront être versés au titre de la part variable, soit près de 16 % du montant de la part fixe. Ce soutien accordé aux établissements d'enseignement supérieur agricole privés traduit l'attachement du ministère chargé de l'agriculture à la pérennité et au caractère innovant de ces écoles, dans un contexte marqué par des contraintes budgétaires.
