@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120322830
+
+- Question : [SEQ120322830](seq120322830.md) — Route nationale 31
+
+## Réponse
+
+*Transports, JO du 2012-05-17, page 1288*
+
+La multiplicité des priorités régionales tant en Picardie qu'en Champagne-Ardenne, les contraintes budgétaires régissant l'exercice et les difficultés à obtenir des cofinancements de la part des collectivités territoriales ont rendu délicate l'élaboration des programmes de développement et de modernisation des itinéraires routiers (PDMI) de ces régions. Des arbitrages difficiles ont été nécessaires et des opérations ont notamment dû être repoussées à une prochaine génération de PDMI. Dans ce contexte contraint, les efforts de l'État dans ces régions se sont portés sur l'autoroute A304, la déviation de Chépy ainsi que sur l'échangeur de Cormontreuil entre les autoroutes A4 et A34 en Champagne-Ardenne, sur la RN 2 entre Soissons et l'A104 et sur la déviation de Compiègne en Picardie. Aussi, aucune opération relative à l'aménagement de la RN 31 entre Soissons et Reims n'a pu être retenue. Toutefois, l'État est conscient de l'importance de la RN 31 pour la desserte des territoires qu'elle irrigue et de l'intérêt de poursuivre son aménagement pour répondre aux besoins de ces territoires et de leurs populations. C'est la raison pour laquelle l'aménagement de la section entre Soissons et Reims sera examiné avec attention dans le cadre de la préparation de la prochaine génération de PDMI. Au regard des données disponibles et des besoins à ce jour, cet aménagement devra sans doute privilégier l'amélioration de l'existant plutôt que la réalisation de sections en tracé neuf. En tout état de cause, la volonté des collectivités territoriales de s'associer à l'État pour financer l'aménagement de cet axe sera incontestablement, le moment venu, un facteur important pour que celui-ci figure en bonne place dans la liste des opérations retenues.
