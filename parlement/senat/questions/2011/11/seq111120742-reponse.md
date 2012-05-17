@@ -1,0 +1,9 @@
+# Réponse à la question SEQ111120742
+
+- Question : [SEQ111120742](seq111120742.md) — Mini-réacteur au fond de l'eau
+
+## Réponse
+
+*Industrie, JO du 2012-05-17, page 1250*
+
+Le projet porté par DCNS s'inscrit dans la thématique des petits réacteurs modulaires, plus connus sous leur acronyme anglais de SMR (« Small Modular Reactors »). Le Conseil de politique nucléaire du 21 février 2011 a demandé au ministre chargé de l'énergie de conduire un groupe de travail pour étudier ce type de réacteurs de faible puissance (100 à 300 MW). Un premier travail a donc été conduit au cours du premier semestre 2011, sous l'égide du CEA, entre le CEA, AREVA, DCNS et EDF. Il a donné lieu à un rapport de synthèse, remis dans le courant du mois de juillet 2011. Ce premier rapport montre qu'un marché potentiel existe pour les SMR ; que la France, au vu de son expérience nucléaire, civile comme militaire, dispose de l'ensemble des compétences pour développer ces SMR ; que plusieurs options techniques existent pour ces réacteurs - le projet porté par DCNS n'est donc qu'une des options possibles ; enfin que les projets hors France avançent, et que la concurrence, en particulier russe et américaine, se mobilise. Ce rapport montre aussi que de nombreux points restent à approfondir avant de se prononcer sur la faisabilité technico-économique d'un projet SMR. Le ministre a ainsi donné son accord pour préparer le lancement d'une étude de faisabilité début 2012. Le Conseil de politique nucléaire du 8 février dernier a décidé la réalisation de cette étude par AREVA, DCNS, EDF et le CEA. Elle est aujourd'hui engagée, et ses premiers résultats doivent être disponibles à la fin de l'année. Bien évidemment, cette étude portera une attention particulière aux enjeux de sûreté et de protection de l'environnement, sans oublier les questions liées à la non-prolifération.
