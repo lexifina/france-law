@@ -1,0 +1,9 @@
+# Réponse à la question SEQ100714599
+
+- Question : [SEQ100714599](seq100714599.md) — Mise en place pour les consommateurs professionnels d'un médiateur de l'énergie et d'une charte des bonnes pratiques
+
+## Réponse
+
+*Industrie, JO du 2012-05-17, page 1249*
+
+Le Médiateur national de l'énergie est une autorité administrative indépendante (AAI) créée par l'article 7 de la loi du 7 décembre 2006 relative au secteur de l'énergie. Il a compétence pour recommander des solutions aux litiges nés de l'exécution des contrats entre les fournisseurs d'électricité ou de gaz naturel et les consommateurs particuliers, ainsi que les consommateurs finals non domestiques souscrivant une puissance électrique égale ou inférieure à 36 kilovoltampères ou consommant moins de 30 000 kilowattheures de gaz naturel par an. Il a donc compétence pour traiter les litiges liés à l'exécution des contrats de fourniture, pour les clients dits petits professionnels. Le médiateur doit aujourd'hui répondre à un nombre de sollicitations croissant : les saisines reçues par ses services sont passées de 5 111 en 2009 à 8 044 en 2011. La priorité des services du médiateur national de l'énergie, au cours des derniers mois, a été d'adapter leur organisation pour faire face à cette augmentation du nombre de saisines. L'extension des compétences du médiateur national de l'énergie aux réclamations des PME et PMI serait une nouvelle mission, pour un coût supporté in fine par les consommateurs, alors même que ces entreprises sont souvent plus à même que les particuliers d'avoir recours à des moyens juridiques. Le recours aux services d'un avocat ou d'un conciliateur vis-à-vis d'une entreprise tierce est une démarche courante dans la vie d'une société. L'État n'a pas vocation à l'organiser au travers d'un médiateur public.
