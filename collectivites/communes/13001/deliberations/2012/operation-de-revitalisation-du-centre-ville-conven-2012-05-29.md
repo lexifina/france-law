@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — OPERATION DE REVITALISATION DU CENTRE VILLE. CONVENTION PUBLIQUE D'AMENAGEMENT VILLE D'AIX-EN-PROVENCE/SEMEPA. AGREMENT D'ACQUEREURS POUR LES LOTS 107 ET 114 POUR L'IMMEUBLE SITUE AUX 35/37, RUE DES CORDELIERS.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-05-29
+- Séance : Conseil Municipal 2CA
+- Objet : OPERATION DE REVITALISATION DU CENTRE VILLE. CONVENTION PUBLIQUE D'AMENAGEMENT VILLE D'AIX-EN-PROVENCE/SEMEPA. AGREMENT D'ACQUEREURS POUR LES LOTS 107 ET 114 POUR L'IMMEUBLE SITUE AUX 35/37, RUE DES CORDELIERS.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-3543-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
