@@ -54,6 +54,8 @@ Une information claire et précise est fournie, par tout moyen pertinent, au lou
 
 ― des procédures sont établies et mises en œuvre pour maintenir la sauvegarde des données.
 
+2.4 L'organisme transmet mensuellement, par voie électronique, à l'organisme mentionné à l'article L. 132-2, les décisions de classement devenues définitives, sous la forme d'un tableau récapitulatif.
+
 3. Le personnel
 
 3.1. Chaque référent technique ou chaque suppléant désigné par les organismes visés à l'article 1er du présent arrêté doit avoir une qualification, une formation ou une expérience appropriée et une connaissance satisfaisante des exigences des inspections à réaliser.
