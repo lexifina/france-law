@@ -96,7 +96,7 @@ Lorsque le nombre de points n'est pas une valeur entière, le nombre est arrondi
 
 2.3. Pondération de la patientèle
 
-Le nombre de points est défini pour une patientèle moyenne de référence de 800 patients pour un médecin généraliste traitant. Afin de prendre un compte le volume de la patientèle pour certains indicateurs (organisation du cabinet pour les médecins traitants et indicateurs portant sur la qualité des pratiques), le nombre de points calculé par indicateur est pondéré ensuite selon le volume de la patientèle réelle.
+Le nombre de points est défini pour une patientèle moyenne de référence de 800 patients pour un médecin généraliste traitant et pour un médecin spécialiste en cardiologie et médecine vasculaire. Afin de prendre un compte le volume de la patientèle pour certains indicateurs (organisation du cabinet pour les médecins traitants et indicateurs portant sur la qualité des pratiques), le nombre de points calculé par indicateur est pondéré ensuite selon le volume de la patientèle réelle.
 
 Au total la rémunération est calculée ainsi :
 
@@ -117,3 +117,15 @@ La rémunération relative au contrat défini à l'article L. 162-12-21 du code 
 Pour un médecin ayant adhéré au contrat défini à l'article L. 162-12-21 du code de la sécurité sociale, les modalités de ce contrat et de sa rémunération restent applicables dans les termes définis dans celui-ci jusqu'à son échéance. Ce médecin obtient, comme précédemment, sa rémunération issue du contrat défini à l'article L. 162-12-21 du code de la sécurité sociale à la date anniversaire sur la base des résultats obtenus dans le cadre dudit contrat.
 
 Par ailleurs, le médecin bénéficie également de la rémunération à la performance dans le cadre de la présente convention.
+
+Article 4
+
+Pour les médecins spécialistes en cardiologie également désignés comme médecin traitant
+
+Le dispositif de rémunération à la performance relative au médecin traitant et celui relatif à la spécialité en cardiologie ne sont pas cumulables.
+
+Article 5
+
+Précisions sur les modalités de calcul de la patientèle des médecins spécialistes en cardiologie
+
+Les actes exclus de la patientèle au sens du neuvième alinéa de l'article 26 sont les actes de chirurgie ou technique interventionnel par voie vasculaire portant sur le cœur, les artères ou les veines et actes de surveillance sur 24 heures ou forfaits de cardiologie ou de réanimation et actes de scanner, IRM ou scintigraphie cardiovasculaire et actes de réadaptation.

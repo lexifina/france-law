@@ -2132,6 +2132,8 @@ Activité > seuil 2 |
 
 (2) IRM : seuil 1 = 8 000 forfaits techniques ; seuil 2 = 11 000 forfaits techniques.
 
+La mise en œuvre de la classification et des tarifs pour les classes d'appareils 1,5 T dédiés aux membres, 1,5 T spécialisé ostéoarticulaire est conditionnée par la publication préalable des modifications de la liste des actes et prestations mentionnée à l'article L. 162-1-7 du code de la sécurité sociale
+
 3.3. Tomographes à émission de positons (TEP)
 
 Les forfaits techniques couvrent les coûts de fonctionnement de l'appareil et la fourniture du médicament radiopharmaceutique.
