@@ -4,7 +4,7 @@
 
 Section arts plastiques
 
-A. - Epreuve d'admissibilité
+A. - Epreuve d'admissibilitéf
 
 Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
@@ -110,13 +110,11 @@ B. - Epreuves d'admission
 
 Epreuve professionnelle : analyse d'une situation d'enseignement. Cette épreuve comporte un exposé suivi d'un entretien avec les membres du jury. L'épreuve se déroule dans la discipline, histoire ou géographie, non choisie par le candidat pour l'épreuve d'admissibilité.
 
-L'épreuve prend appui sur un dossier proposé par le jury qui tient compte du niveau d'enseignement (lycée d'enseignement général et technologique ou collège) dans lequel le candidat a une expérience.
+L'épreuve prend appui sur un dossier proposé par le jury.
 
-Le candidat fait connaître le niveau qu'il choisit au moment de l'inscription au concours.
+Le dossier comprend des documents nécessaires à la préparation d'une leçon, des supports d'enseignement et des productions liées aux pratiques de la classe. Il précise le niveau d'enseignement (collège ou lycée) auquel la situation d'enseignement doit être abordée.
 
-Le dossier comprend des documents nécessaires à la préparation d'une leçon, des supports d'enseignement et des productions des élèves.
-
-L'entretien a pour base la situation d'enseignement proposée par le dossier et est étendu à certains aspects de l'expérience professionnelle du candidat.
+L'entretien a pour base la situation d'enseignement proposée par le dossier et est étendu à certains aspects de l'expérience professionnelle du candidat : connaissance du système éducatif, autres enseignements susceptibles d'être assurés par le professeur (discipline non évaluée dans le dossier : histoire ou géographie ; éducation civique ; éducation civique, juridique et sociale).
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : quinze minutes maximum ; entretien : quarante-cinq minutes maximum) ; coefficient 2.
 
@@ -248,11 +246,11 @@ Epreuve de reconnaissance des acquis de l'expérience professionnelle définie �
 
 B. - Epreuves d'admission
 
-Epreuve professionnelle : le jury propose un ou plusieurs documents de nature professionnelle en rapport avec le niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
+Epreuve professionnelle : le jury propose un document de nature professionnelle en rapport avec le niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
 
-L'épreuve consiste en une explication de texte de langue française, assortie d'une question de grammaire référée aux programmes des classes de collège ou de lycée, selon le choix du candidat exprimé au moment de son inscription. La méthode d'explication est laissée au choix du candidat. La présentation de la question de grammaire prend la forme d'un développement organisé en relation avec les programmes.
+L'épreuve consiste en une explication de texte de langue française, assortie d'une question de grammaire référée aux programmes des classes de collège ou de lycée. La méthode d'explication est laissée au choix du candidat. La présentation de la question de grammaire prend la forme d'un court développement organisé en relation avec les programmes.
 
-L'explication de texte est suivie d'un entretien avec le jury au cours duquel le candidat est invité à justifier ses analyses et ses choix, et à préciser l'utilisation qu'il ferait, dans sa classe, des documents ayant servi de support à l'explication de texte.
+L'explication de texte assortie de la question de grammaire est suivie d'un entretien avec le jury au cours duquel le candidat est invité à justifier ses analyses et ses choix, et à en préciser la pertinence dans le cadre d'une situation d'enseignement projetée pour sa classe.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 2.
 
@@ -318,9 +316,9 @@ Le programme de mathématiques, valable pour trois années, est publié sur le s
 
 Section sciences physiques et chimiques
 
-A. - Epreuve d'admissibilitéf
+A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1), portant au choix du candidat au moment de l'inscription soit sur la physique, soit sur la chimie.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. - Epreuves d'admission
 
@@ -344,11 +342,11 @@ Section sciences de la vie et de la Terre
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1), portant au choix du candidat au moment de l'inscription soit sur les sciences de la vie, soit sur les sciences de la Terre.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
 
 B. - Epreuves d'admission
 
-Epreuve professionnelle. Cette épreuve comporte un exposé suivi d'un entretien avec le jury. L'exposé s'appuie sur l'exploitation d'un dossier, dans le champ non choisi par le candidat pour l'épreuve d'admissibilité ou associant les deux champs, se rapportant à une situation expérimentale et intègre la réalisation pratique que celle-ci comporte. L'entretien a pour base la situation d'enseignement proposée et s'étend à d'autres aspects de l'expérience professionnelle du candidat.
+Epreuve professionnelle. Cette épreuve comporte un exposé suivi d'un entretien avec le jury. L'exposé s'appuie sur l'exploitation d'un dossier se rapportant à une situation expérimentale et intègre la réalisation pratique que celle-ci comporte. L'entretien a pour base la situation d'enseignement proposée et s'étend à d'autres aspects de l'expérience professionnelle du candidat.
 
 Le jury tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
 
@@ -374,4 +372,4 @@ La graphie à utiliser pour cette section de concours est celle définie par l'a
 
 NOTA :
 
-Arrêté du 27 avril 2011 article 20 : Les présentes dispositions prennent effet à la session 2012 des concours.
+Arrêté du 10 janvier 2012 article 3 : Les présentes dispositions prennent effet le 1er juin 2012 pour la session 2013 du concours.
