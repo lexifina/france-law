@@ -230,7 +230,7 @@ Albertville
 
 |
 
-Albertville (La Tarentaise).
+Albertville (La Tarentaise), Saint-Jean-de-Maurienne (La Maurienne).
 
 |
 
