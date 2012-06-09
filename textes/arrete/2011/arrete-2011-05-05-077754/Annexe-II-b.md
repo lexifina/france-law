@@ -4,7 +4,7 @@ RÈGLEMENT D'EXAMEN
 
 BACCALAURÉAT PROFESSIONNEL
 
-productions horticoles
+spécialité "productions aquacoles"
 
 |
 
@@ -26,7 +26,7 @@ de la formation professionnelle
 
 continue dans un établissement
 
-public habilité (D 337/74)
+public habilité (D337-74)
 
 |
 
@@ -54,7 +54,7 @@ Unité
 
 |
 
-Coeff.
+Coefficient
 
 |
 
@@ -82,11 +82,11 @@ Durée
 
 |
 
-E1 (*) : Langue française, langages, éléments d'une culture humaniste et compréhension du monde
+E1 (*) : langue française, langages, éléments d'une culture humaniste et compréhension du monde
 
 |
 
-U 1
+U1
 
 |
 
@@ -116,11 +116,11 @@ Ecrite en deux parties
 
 |
 
-E2 : Langue et culture étrangères
+E2 : langue et culture étrangères
 
 |
 
-U 2
+U2
 
 |
 
@@ -148,11 +148,11 @@ Orale
 
 |
 
-E3 : Motricité, santé et socialisation par la pratique des APSAES (**)
+E3 : motricité, santé et socialisation par la pratique des APSAES (**)
 
 |
 
-U 3
+U3
 
 |
 
@@ -178,11 +178,11 @@ Pratique
 
 |
 
-E4 (*) : Culture scientifique et technologique
+E4 (*) : culture scientifique et technologique
 
 |
 
-U 4
+U4
 
 |
 
@@ -212,11 +212,11 @@ Ecrite en deux parties
 
 |
 
-E5 : Choix techniques
+E5 : choix techniques
 
 |
 
-U 5
+U5
 
 |
 
@@ -246,11 +246,11 @@ Ecrite
 
 |
 
-E6 : Formation en milieu professionnel
+E6 : diagnostic de l'entreprise aquacole
 
 |
 
-U 6
+U6
 
 |
 
@@ -258,7 +258,7 @@ U 6
 
 |
 
-Terminale ponctuelle orale sur un écrit
+Terminale ponctuelle orale sur support écrit
 
 |
 
@@ -280,11 +280,11 @@ Orale s'appuyant sur un écrit
 
 |
 
-E7 : Pratiques professionnelles
+E7 : pratiques professionnelles
 
 |
 
-U 7
+U7
 
 |
 
@@ -304,15 +304,15 @@ CCF
 
 |
 
-Orale
+Pratique et orale
 
 |
 
-0 h 30
+1 h 30
 
 |
 
-E8 : Epreuve facultative
+E8 : épreuve facultative
 
 |
 
@@ -338,10 +338,10 @@ CCF
 
 (*) Epreuve comportant des situations d'évaluation en cours de formation.
 
-(**) APSAES : activités physiques, sportives, artistiques et d'entretien de soi.
+(**) APSAES : activités physique, sportive, artistique et d'entretien de soi.
 
 |
 
 NOTA :
 
-Les annexes II b et II c sont publiées ci-après. L'intégralité du diplôme est disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris. Elle est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc
+L'intégralité du diplôme est disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris. Elle est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc
