@@ -4,9 +4,9 @@
 
 |
 
-Numéro du
+Numéro
 
-navire
+du navire
 
 |
 
@@ -30,7 +30,7 @@ longitude 45° ouest
 
 |
 
-OP AMOP /
+OP AMOP 1
 
 OP SUD
 
@@ -60,7 +60,7 @@ canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de p�
 
 |
 
-TOTAL AMOP
+TOTAL AMOP/SUD
 
 |
 
@@ -90,7 +90,7 @@ Senneurs
 
 |
 
-tanneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
+canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
 
 |
 
@@ -136,7 +136,7 @@ VILLE AGDE IV
 
 |
 
-canneurs ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
+canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
 
 |
 
@@ -148,7 +148,7 @@ canneurs ligneurs ou palangriers "petits métiers" titulaires d'un permis de pê
 
 |
 
-TOTAL PRO.QVA.PORT
+TOTAL PRO.QUA.PORT
 
 |
 
@@ -160,7 +160,7 @@ TOTAL PRO.QVA.PORT
 
 |
 
-OP SATHOAN
+OPSATHOAN
 
 |
 
@@ -320,38 +320,6 @@ JUANICOLUCIEN RAFAEL
 
 |
 
-canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
-
-|
-
-0 *
-
-|
-
-0
-
-|
-
-TOTAL STM
-
-|
-
-131
-
-|
-
-0
-
-|
-
-Navires non adhérant
-
-à une organisation de
-
-producteurs (hors OP)
-
-|
-
 819572
 
 |
@@ -368,6 +336,50 @@ ANNE ANTOINE 2
 
 |
 
+canneurs, ligneurs ou palangriers "petits métiers" titulaires d'un permis de pêche spécial "thon rouge"
+
+|
+
+0 *
+
+|
+
+0
+
+|
+
+TOTAL STM
+
+|
+
+211
+
+|
+
+0
+
+|
+
+Navires non adhérant
+
+à une organisation de
+
+producteurs (hors OP)
+
+|
+
+canneurs, ligneurs
+
+ou palangriers "petits métiers"
+
+titulaires d'un
+
+permis de pêche
+
+spécial "thon
+
+rouge" :
+
 |
 
 et immatriculés dans un quartier maritime des Alpes maritimes
@@ -379,22 +391,6 @@ et immatriculés dans un quartier maritime des Alpes maritimes
 |
 
 0
-
-|
-
-canneurs, ligneurs
-
-ou petits métier
-
-"métiers" d'un
-
-titulaires
-
-permis de pêche
-
-spécial "thon
-
-rouge" :
 
 |
 
@@ -458,13 +454,11 @@ et immatriculés dans un quartier maritime du Var
 
 |
 
-|
-
 TOTAL HORS OP
 
 |
 
-107,8
+27,8
 
 |
 
@@ -472,7 +466,7 @@ TOTAL HORS OP
 
 |
 
-Navires péchant au chalut pélagique au titre des prises accessoires
+Navires pêchant au chalut pélagique au titre des prises accessoires
 
 |
 
@@ -481,6 +475,8 @@ Navires péchant au chalut pélagique au titre des prises accessoires
 |
 
 0
+
+|
 
 |
 
@@ -498,6 +494,6 @@ Total
 
 |
 
-(*) : dont 45 % maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
+{*) : dont 45 % maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
 
 |
