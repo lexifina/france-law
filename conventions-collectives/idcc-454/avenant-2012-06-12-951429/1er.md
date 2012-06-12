@@ -1,0 +1,17 @@
+# Article 1er
+
+A compter du jour de la signature du présent avenant, les partenaires sociaux sont convenus que la nouvelle rédaction du paragraphe I et du paragraphe II de l'article 16 sera désormais la suivante (les parties en gras dans le texte ont été modifiées) :
+
+« I. – Priorité de réembauchage
+
+Des emplois de même nature sont réservés, par priorité, à qualification égale, aux agents ayant déjà effectué une ou plusieurs saisons au service de l'entreprise à condition qu'ils fassent acte de candidature avant le 15 septembre pour la saison d'hiver et le 15 avril pour la saison d'été. A cet effet, un document rappelant cette formalité sera remis par l'employeur à la fin de chaque saison pour la suivante. La demande de l'agent sera faite par courrier simple adressé à l'employeur ou si l'agent l'estime nécessaire, pour sécuriser la démarche, cette demande pourra être adressée par lettre recommandée avec avis de réception ou remise en main propre contre décharge. L'employeur doit répondre dans un délai de 6 semaines prenant effet à compter de l'une ou l'autre des deux dates précitées et, dans le cas de refus d'embaucher une femme en état de grossesse, lui en indiquer la raison. L'employée saisonnière absente pendant une saison pour cause de maternité, a priorité d'embauche par rapport à la personne engagée pour suppléer son absence, sans préjudice des autres dispositions du présent article.
+
+La rupture des contrats saisonniers, ou l'arrêt de leur succession d'une saison à l'autre entraîne la caducité définitive de la priorité de réembauche. Toutefois, la priorité est conservée si la succession des contrats saisonniers est suspendue pendant une ou plusieurs saisons pour cause de congés de droit prévus au code du travail, en accord ou avec information de l'employeur, conformément aux conditions prévues par le code du travail.
+
+A partir du moment où l'employeur a répondu favorablement à l'agent saisonnier, le contrat est formé entre les parties mais sa prise d'effet au-delà de la date présumée de mise en exploitation peut être retardée en cas d'absence de neige, d'accident et de maladie. Dans ce dernier cas, l'agent fournira à l'employeur un certificat médical et, en cas d'accident, il informera l'employeur de la durée prévisible de son absence.
+
+II. – Reconduction des contrats saisonniers
+
+Les saisonniers ayant déjà effectué une ou plusieurs saisons au service de l'entreprise se verront proposer un emploi saisonnier de même nature à condition qu'ils fassent acte de candidature avant le 15 septembre pour la saison d'hiver et le 15 avril pour la saison d'été. Cette demande sera faite par courrier simple adressé à l'employeur ou si le saisonnier l'estime nécessaire, pour sécuriser la démarche, cette demande pourra être adressée par lettre recommandée avec avis de réception ou remise en main propre contre décharge. L'employeur doit répondre dans un délai de 6 semaines prenant effet à compter de l'une ou l'autre des deux dates précitées.
+
+La rupture des contrats saisonniers, ou l'arrêt de leur succession d'une saison à l'autre entraîne la caducité définitive de la reconduction. Toutefois, la reconduction est conservée si la succession des contrats saisonniers est suspendue pendant une ou plusieurs saisons pour cause de congés de droit prévus au code du travail, en accord ou avec information de l'employeur, conformément aux conditions prévues par le code du travail. »
