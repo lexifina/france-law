@@ -54,7 +54,7 @@ Viandes fraîches de boucherie, à l'exclusion des viandes hachées
 
 |
 
-Produits à base de viande, plats cuisinés, saucisses crues, chair à saucisse et préparations de viandes ne contenant pas de viandes hachées, viandes fraîches des autres espèces que boucherie, à l'exclusion des viandes hachées
+Produits à base de viande, plats cuisinés, préparations de viandes, viandes fraîches des autres espèces que boucherie, à l'exclusion des viandes hachées
 
 |
 
