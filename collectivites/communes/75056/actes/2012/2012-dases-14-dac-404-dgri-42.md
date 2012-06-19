@@ -1,0 +1,9 @@
+# Paris : acte 2012 DASES 14 - DAC 404 - DGRI 42 — Subvention et convention (130.000 euros) avec l'association Solidarité Sida (11e).
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2012-06-19
+- Nature : PJ
+- Objet : Subvention et convention (130.000 euros) avec l'association Solidarité Sida (11e).
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
