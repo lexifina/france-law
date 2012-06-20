@@ -1,0 +1,85 @@
+# Budget : loi de finances rectificative 2014
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 14
+- Identifiant : DLR5L14N33224
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/collectif_budgetaire_2014
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-671.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-06-11 : 1er dépôt d'une initiative. (PRJLANR5L14B2024)
+  - 2014-06-11 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-11 : Renvoi en commission au fond
+      - 2014-04-23 : Nomination de rapporteur
+      - 2014-06-11 : Réunion de commission
+      - 2014-06-18 : Réunion de commission
+      - 2014-06-18 : Réunion de commission
+      - 2014-06-23 : Réunion de commission
+      - 2014-06-25 : Réunion de commission
+      - 2014-06-18 : Dépôt de rapport (RAPPANR5L14B2049)
+  - Discussion en séance publique
+    - 2014-06-23 : Discussion en séance publique
+    - 2014-06-23 : Discussion en séance publique
+    - 2014-06-24 : Discussion en séance publique
+    - 2014-06-24 : Discussion en séance publique
+    - 2014-06-25 : Discussion en séance publique
+    - 2014-06-25 : Discussion en séance publique
+    - 2014-06-26 : Discussion en séance publique
+    - 2014-07-01 : Discussion en séance publique
+    - 2014-07-01 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-07-01 : Dépôt d'une initiative en navette (PRJLSNR5S219B0671)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-01 : Renvoi en commission au fond
+      - 2012-06-20 : Nomination de rapporteur
+      - 2014-07-02 : Dépôt de rapport (RAPPSNR5S219B0672)
+  - Discussion en séance publique
+    - 2014-07-07 : Discussion en séance publique
+    - 2014-07-08 : Discussion en séance publique
+    - 2014-07-08 : Décision
+- Commission Mixte Paritaire
+  - 2014-07-09 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-07-10 : Nomination de rapporteur
+    - 2014-07-10 : Dépôt du rapport d'une CMP (RAPPANR5L14B2121)
+    - 2014-07-10 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0713)
+  - 2014-07-10 : Décision de la CMP
+- Nouvelle Lecture
+  - 2014-07-09 : Dépôt d'une initiative en navette (PRJLANR5L14B2109)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-09 : Renvoi en commission au fond
+      - 2014-07-11 : Dépôt de rapport (RAPPANR5L14B2124)
+  - Discussion en séance publique
+    - 2014-07-15 : Discussion en séance publique
+    - 2014-07-15 : Discussion en séance publique
+    - 2014-07-16 : Discussion en séance publique
+    - 2014-07-16 : Décision
+- Nouvelle Lecture
+  - 2014-07-16 : Dépôt d'une initiative en navette (PRJLSNR5S219B0747)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-16 : Renvoi en commission au fond
+      - 2014-07-17 : Dépôt de rapport (RAPPSNR5S219B0750)
+  - Discussion en séance publique
+    - 2014-07-21 : Discussion en séance publique
+    - 2014-07-21 : Décision
+- Lecture définitive
+  - 2014-07-22 : Dépôt d'une initiative en navette (PRJLANR5L14B2163)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-22 : Renvoi en commission au fond
+      - 2014-07-23 : Dépôt de rapport (RAPPANR5L14B2181)
+  - Discussion en séance publique
+    - 2014-07-23 : Discussion en séance publique
+    - 2014-07-23 : Décision
+- Conseil constitutionnel
+  - 2014-07-24 : Saisine du conseil constitutionnel
+  - 2014-08-06 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-08-08 : Promulgation d'une loi
