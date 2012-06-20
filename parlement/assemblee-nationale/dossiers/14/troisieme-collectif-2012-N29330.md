@@ -1,0 +1,88 @@
+# Budget : loi de finances rectificative 2012 (3)
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 14
+- Identifiant : DLR5L14N29330
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/troisieme_collectif_2012
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-204.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-11-14 : 1er dépôt d'une initiative. (PRJLANR5L14B0403)
+  - 2012-11-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-11-14 : Renvoi en commission au fond
+      - 2012-06-28 : Nomination de rapporteur
+      - 2012-11-28 : Réunion de commission
+      - 2012-11-28 : Réunion de commission
+      - 2012-11-28 : Réunion de commission
+      - 2012-12-03 : Réunion de commission
+      - 2012-12-05 : Réunion de commission
+      - 2012-11-28 : Dépôt de rapport (RAPPANR5L14B0465)
+  - Discussion en séance publique
+    - 2012-12-03 : Discussion en séance publique
+    - 2012-12-03 : Discussion en séance publique
+    - 2012-12-04 : Discussion en séance publique
+    - 2012-12-04 : Discussion en séance publique
+    - 2012-12-05 : Discussion en séance publique
+    - 2012-12-05 : Discussion en séance publique
+    - 2012-12-07 : Discussion en séance publique
+    - 2012-12-07 : Discussion en séance publique
+    - 2012-12-11 : Discussion en séance publique
+    - 2012-12-11 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-12-12 : Dépôt d'une initiative en navette (PRJLSNR5S199B0204)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-12 : Renvoi en commission au fond
+      - 2012-06-20 : Nomination de rapporteur
+      - 2012-12-12 : Dépôt de rapport (RAPPSNR5S199B0213)
+  - Discussion en séance publique
+    - 2012-12-14 : Discussion en séance publique
+    - 2012-12-15 : Discussion en séance publique
+    - 2012-12-15 : Décision
+- Commission Mixte Paritaire
+  - 2012-12-17 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-12-17 : Nomination de rapporteur
+    - 2012-12-17 : Dépôt du rapport d'une CMP (RAPPANR5L14B0542)
+    - 2012-12-17 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0230)
+  - 2012-12-17 : Décision de la CMP
+- Nouvelle Lecture
+  - 2012-12-17 : Dépôt d'une initiative en navette (PRJLANR5L14B0541)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-17 : Renvoi en commission au fond
+      - 2012-12-17 : Réunion de commission
+      - 2012-12-17 : Dépôt de rapport (RAPPANR5L14B0544)
+  - Discussion en séance publique
+    - 2012-12-18 : Discussion en séance publique
+    - 2012-12-18 : Discussion en séance publique
+    - 2012-12-18 : Décision
+- Nouvelle Lecture
+  - 2012-12-19 : Dépôt d'une initiative en navette (PRJLSNR5S199B0238)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-19 : Renvoi en commission au fond
+      - 2012-12-19 : Dépôt de rapport (RAPPSNR5S199B0240)
+  - Discussion en séance publique
+    - 2012-12-19 : Discussion en séance publique
+    - 2012-12-19 : Décision
+- Lecture définitive
+  - 2012-12-19 : Dépôt d'une initiative en navette (PRJLANR5L14B0571)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-19 : Renvoi en commission au fond
+      - 2012-12-19 : Réunion de commission
+      - 2012-12-19 : Dépôt de rapport (RAPPANR5L14B0572)
+  - Discussion en séance publique
+    - 2012-12-19 : Discussion en séance publique
+    - 2012-12-19 : Décision
+- Conseil constitutionnel
+  - 2012-12-20 : Saisine du conseil constitutionnel
+  - 2012-12-20 : Saisine du conseil constitutionnel
+  - 2012-12-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2012-12-29 : Promulgation d'une loi
