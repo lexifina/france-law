@@ -1,0 +1,82 @@
+# Budget : loi de finances rectificative 2013
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 14
+- Identifiant : DLR5L14N31756
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/collectif_budgetaire_2013
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-215.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-11-13 : 1er dépôt d'une initiative. (PRJLANR5L14B1547)
+  - 2013-11-13 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-11-13 : Renvoi en commission au fond
+      - 2012-06-29 : Nomination de rapporteur
+      - 2013-11-27 : Réunion de commission
+      - 2013-11-27 : Réunion de commission
+      - 2013-12-03 : Réunion de commission
+      - 2013-11-27 : Dépôt de rapport (RAPPANR5L14B1590)
+  - Discussion en séance publique
+    - 2013-12-03 : Discussion en séance publique
+    - 2013-12-03 : Discussion en séance publique
+    - 2013-12-04 : Discussion en séance publique
+    - 2013-12-04 : Discussion en séance publique
+    - 2013-12-06 : Discussion en séance publique
+    - 2013-12-06 : Discussion en séance publique
+    - 2013-12-10 : Discussion en séance publique
+    - 2013-12-10 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-12-10 : Dépôt d'une initiative en navette (PRJLSNR5S219B0215)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-12-10 : Renvoi en commission au fond
+      - 2012-06-20 : Nomination de rapporteur
+      - 2013-12-11 : Dépôt de rapport (RAPPSNR5S219B0217)
+  - Discussion en séance publique
+    - 2013-12-12 : Discussion en séance publique
+    - 2013-12-13 : Discussion en séance publique
+    - 2013-12-13 : Décision
+- Commission Mixte Paritaire
+  - 2013-12-16 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-12-16 : Nomination de rapporteur
+    - 2013-12-16 : Dépôt du rapport d'une CMP (RAPPANR5L14B1641)
+    - 2013-12-16 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0233)
+  - 2013-12-16 : Décision de la CMP
+- Nouvelle Lecture
+  - 2013-12-16 : Dépôt d'une initiative en navette (PRJLANR5L14B1640)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-12-16 : Renvoi en commission au fond
+      - 2013-12-16 : Dépôt de rapport (RAPPANR5L14B1652)
+  - Discussion en séance publique
+    - 2013-12-17 : Discussion en séance publique
+    - 2013-12-17 : Discussion en séance publique
+    - 2013-12-17 : Décision
+- Nouvelle Lecture
+  - 2013-12-18 : Dépôt d'une initiative en navette (PRJLSNR5S219B0241)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-12-18 : Renvoi en commission au fond
+      - 2013-12-18 : Dépôt de rapport (RAPPSNR5S219B0242)
+  - Discussion en séance publique
+    - 2013-12-18 : Discussion en séance publique
+    - 2013-12-18 : Décision
+- Lecture définitive
+  - 2013-12-18 : Dépôt d'une initiative en navette (PRJLANR5L14B1667)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-12-18 : Renvoi en commission au fond
+      - 2013-12-19 : Dépôt de rapport (RAPPANR5L14B1671)
+  - Discussion en séance publique
+    - 2013-12-19 : Discussion en séance publique
+    - 2013-12-19 : Décision
+- Conseil constitutionnel
+  - 2013-12-19 : Saisine du conseil constitutionnel
+  - 2013-12-20 : Saisine du conseil constitutionnel
+  - 2013-12-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-12-29 : Promulgation d'une loi
