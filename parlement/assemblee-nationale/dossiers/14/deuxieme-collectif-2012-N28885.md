@@ -1,0 +1,84 @@
+# Budget : loi de finances rectificative 2012 (2)
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 14
+- Identifiant : DLR5L14N28885
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/deuxieme_collectif_2012
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl11-687.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-07-04 : 1er dépôt d'une initiative. (PRJLANR5L14B0071)
+  - 2012-07-04 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-07-04 : Renvoi en commission au fond
+      - 2012-06-28 : Nomination de rapporteur
+      - 2012-07-11 : Réunion de commission
+      - 2012-07-16 : Réunion de commission
+      - 2012-07-12 : Dépôt de rapport (RAPPANR5L14B0079)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-06 : Saisine pour avis d'une commission
+      - 2012-07-11 : Nomination de rapporteur
+      - 2012-07-11 : Réunion de commission
+      - 2012-07-11 : Réunion de commission
+      - 2012-07-11 : Dépôt de rapport (AVISANR5L14B0078)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-09 : Saisine pour avis d'une commission
+      - 2012-07-04 : Nomination de rapporteur
+      - 2012-07-04 : Réunion de commission
+      - 2012-07-11 : Réunion de commission
+      - 2012-07-11 : Dépôt de rapport (AVISANR5L14B0077)
+  - Discussion en séance publique
+    - 2012-07-16 : Discussion en séance publique
+    - 2012-07-16 : Discussion en séance publique
+    - 2012-07-17 : Discussion en séance publique
+    - 2012-07-17 : Discussion en séance publique
+    - 2012-07-18 : Discussion en séance publique
+    - 2012-07-18 : Discussion en séance publique
+    - 2012-07-19 : Discussion en séance publique
+    - 2012-07-19 : Discussion en séance publique
+    - 2012-07-19 : Discussion en séance publique
+    - 2012-07-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-07-20 : Dépôt d'une initiative en navette (PRJLSNR5S198B0687)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-07-20 : Renvoi en commission au fond
+      - 2012-06-20 : Nomination de rapporteur
+      - 2012-07-23 : Dépôt de rapport (RAPPSNR5S198B0689)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-11 : Saisine pour avis d'une commission
+      - 2012-07-11 : Nomination de rapporteur
+      - 2012-07-23 : Dépôt de rapport (AVISSNR5S198B0691)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-11 : Saisine pour avis d'une commission
+      - 2012-07-11 : Nomination de rapporteur
+      - 2012-07-23 : Dépôt de rapport (AVISSNR5S198B0690)
+  - Discussion en séance publique
+    - 2012-07-24 : Discussion en séance publique
+    - 2012-07-25 : Discussion en séance publique
+    - 2012-07-26 : Discussion en séance publique
+    - 2012-07-27 : Discussion en séance publique
+    - 2012-07-27 : Décision
+- Commission Mixte Paritaire
+  - 2012-07-28 : Dépôt d'un projet de loi (PRJLANR5L14B0135)
+  - 2012-07-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-07-30 : Nomination de rapporteur
+    - 2012-07-30 : Dépôt du rapport d'une CMP (RAPPANR5L14B0136)
+    - 2012-07-30 : Dépôt du rapport d'une CMP (RAPPSNR5S198B0726)
+  - Discussion en séance publique
+    - 2012-07-31 : Discussion en séance publique
+    - 2012-07-31 : Décision
+  - Discussion en séance publique
+    - 2012-07-31 : Discussion en séance publique
+    - 2012-07-31 : Décision
+  - 2012-07-30 : Décision de la CMP
+- Conseil constitutionnel
+  - 2012-08-01 : Saisine du conseil constitutionnel
+  - 2012-08-01 : Saisine du conseil constitutionnel
+  - 2012-08-09 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2012-08-16 : Promulgation d'une loi
