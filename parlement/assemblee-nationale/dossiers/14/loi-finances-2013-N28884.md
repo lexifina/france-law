@@ -1,0 +1,218 @@
+# Budget : loi de finances 2013
+
+- Procédure : Projet de loi de finances de l'année
+- Législature : 14
+- Identifiant : DLR5L14N28884
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/loi_finances_2013
+- Sénat : http://www.senat.fr/dossier-legislatif/pjlf2013.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-09-28 : 1er dépôt d'une initiative. (PRJLANR5L14B0235)
+  - 2012-09-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-09-28 : Renvoi en commission au fond
+      - 2012-06-29 : Nomination de rapporteur
+      - 2012-07-11 : Nomination de rapporteur budgétaire
+      - 2012-07-12 : Nomination de rapporteur budgétaire
+      - 2012-09-26 : Nomination de rapporteur budgétaire
+      - 2012-10-09 : Réunion de commission
+      - 2012-10-10 : Réunion de commission
+      - 2012-10-11 : Réunion de commission
+      - 2012-10-11 : Réunion de commission
+      - 2012-10-15 : Réunion de commission
+      - 2012-10-16 : Réunion de commission
+      - 2012-10-17 : Réunion de commission
+      - 2012-10-18 : Réunion de commission
+      - 2012-10-19 : Réunion de commission
+      - 2012-10-10 : Dépôt de rapport (RAPPANR5L14B0251)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-03 : Saisine pour avis d'une commission
+      - 2012-07-11 : Nomination de rapporteur budgétaire
+      - 2012-07-11 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-30 : Réunion de commission
+      - 2012-10-31 : Réunion de commission
+      - 2012-10-31 : Réunion de commission
+      - 2012-10-31 : Réunion de commission
+      - 2012-11-06 : Réunion de commission
+      - 2012-11-06 : Réunion de commission
+      - 2012-11-06 : Réunion de commission
+      - 2012-10-10 : Dépôt de rapport (AVISANR5L14B0255)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-03 : Saisine pour avis d'une commission
+      - 2012-07-11 : Nomination de rapporteur budgétaire
+      - 2012-07-11 : Réunion de commission
+      - 2012-10-17 : Réunion de commission
+      - 2012-10-23 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-29 : Réunion de commission
+      - 2012-10-30 : Réunion de commission
+      - 2012-10-30 : Réunion de commission
+      - 2012-11-05 : Réunion de commission
+      - 2012-11-06 : Réunion de commission
+      - 2012-11-07 : Réunion de commission
+      - 2012-10-10 : Dépôt de rapport (AVISANR5L14B0252)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-03 : Saisine pour avis d'une commission
+      - 2012-07-11 : Nomination de rapporteur budgétaire
+      - 2012-07-12 : Nomination de rapporteur budgétaire
+      - 2012-07-11 : Réunion de commission
+      - 2012-10-23 : Réunion de commission
+      - 2012-10-23 : Réunion de commission
+      - 2012-10-23 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-25 : Réunion de commission
+      - 2012-10-25 : Réunion de commission
+      - 2012-10-30 : Réunion de commission
+      - 2012-10-30 : Réunion de commission
+      - 2012-10-31 : Réunion de commission
+      - 2012-11-06 : Réunion de commission
+      - 2012-10-10 : Dépôt de rapport (AVISANR5L14B0253)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-03 : Saisine pour avis d'une commission
+      - 2012-07-11 : Nomination de rapporteur budgétaire
+      - 2012-10-17 : Réunion de commission
+      - 2012-10-17 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-31 : Réunion de commission
+      - 2012-10-31 : Réunion de commission
+      - 2012-11-06 : Réunion de commission
+      - 2012-11-07 : Réunion de commission
+      - 2012-10-10 : Dépôt de rapport (AVISANR5L14B0254)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-03 : Saisine pour avis d'une commission
+      - 2012-07-05 : Nomination de rapporteur budgétaire
+      - 2012-10-30 : Réunion de commission
+      - 2012-10-31 : Réunion de commission
+      - 2012-10-10 : Dépôt de rapport (AVISANR5L14B0256)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-03 : Saisine pour avis d'une commission
+      - 2012-07-11 : Nomination de rapporteur budgétaire
+      - 2012-10-18 : Réunion de commission
+      - 2012-10-18 : Réunion de commission
+      - 2012-10-23 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-25 : Réunion de commission
+      - 2012-10-25 : Réunion de commission
+      - 2012-10-30 : Réunion de commission
+      - 2012-10-30 : Réunion de commission
+      - 2012-10-10 : Dépôt de rapport (AVISANR5L14B0258)
+    - Travaux d'une commission saisie pour avis
+      - 2012-07-03 : Saisine pour avis d'une commission
+      - 2012-07-11 : Nomination de rapporteur budgétaire
+      - 2012-07-31 : Nomination de rapporteur budgétaire
+      - 2012-07-11 : Réunion de commission
+      - 2012-10-23 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-24 : Réunion de commission
+      - 2012-10-25 : Réunion de commission
+      - 2012-10-10 : Dépôt de rapport (AVISANR5L14B0257)
+  - Discussion en séance publique
+    - 2012-10-16 : Discussion en séance publique
+    - 2012-10-16 : Discussion en séance publique
+    - 2012-10-17 : Discussion en séance publique
+    - 2012-10-17 : Discussion en séance publique
+    - 2012-10-18 : Discussion en séance publique
+    - 2012-10-18 : Discussion en séance publique
+    - 2012-10-18 : Discussion en séance publique
+    - 2012-10-19 : Discussion en séance publique
+    - 2012-10-19 : Discussion en séance publique
+    - 2012-10-19 : Discussion en séance publique
+    - 2012-10-22 : Discussion en séance publique
+    - 2012-10-23 : Discussion en séance publique
+    - 2012-10-30 : Discussion en séance publique
+    - 2012-10-30 : Discussion en séance publique
+    - 2012-10-31 : Discussion en séance publique
+    - 2012-10-31 : Discussion en séance publique
+    - 2012-11-05 : Discussion en séance publique
+    - 2012-11-05 : Discussion en séance publique
+    - 2012-11-06 : Discussion en séance publique
+    - 2012-11-06 : Discussion en séance publique
+    - 2012-11-06 : Discussion en séance publique
+    - 2012-11-07 : Discussion en séance publique
+    - 2012-11-07 : Discussion en séance publique
+    - 2012-11-08 : Discussion en séance publique
+    - 2012-11-08 : Discussion en séance publique
+    - 2012-11-09 : Discussion en séance publique
+    - 2012-11-09 : Discussion en séance publique
+    - 2012-11-09 : Discussion en séance publique
+    - 2012-11-09 : Discussion en séance publique
+    - 2012-11-12 : Discussion en séance publique
+    - 2012-11-12 : Discussion en séance publique
+    - 2012-11-13 : Discussion en séance publique
+    - 2012-11-13 : Discussion en séance publique
+    - 2012-11-13 : Discussion en séance publique
+    - 2012-11-14 : Discussion en séance publique
+    - 2012-11-14 : Discussion en séance publique
+    - 2012-11-15 : Discussion en séance publique
+    - 2012-11-15 : Discussion en séance publique
+    - 2012-11-20 : Discussion en séance publique
+    - 2012-11-20 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-11-22 : Dépôt d'une initiative en navette (PRJLSNR5S199B0147)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-11-22 : Renvoi en commission au fond
+      - 2012-06-20 : Nomination de rapporteur
+      - 2012-11-22 : Dépôt de rapport (RAPPSNR5S199B0148)
+  - Discussion en séance publique
+    - 2012-11-22 : Discussion en séance publique
+    - 2012-11-23 : Discussion en séance publique
+    - 2012-11-24 : Discussion en séance publique
+    - 2012-11-26 : Discussion en séance publique
+    - 2012-11-27 : Discussion en séance publique
+    - 2012-11-28 : Discussion en séance publique
+    - 2012-11-28 : Décision
+- Commission Mixte Paritaire
+  - 2012-11-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-12-06 : Nomination de rapporteur
+    - 2012-12-06 : Dépôt du rapport d'une CMP (RAPPANR5L14B0480)
+    - 2012-12-06 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0193)
+  - 2012-12-07 : Décision de la CMP
+- Nouvelle Lecture
+  - 2012-11-29 : Dépôt d'une initiative en navette (PRJLANR5L14B0466)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-11-29 : Renvoi en commission au fond
+      - 2012-12-11 : Réunion de commission
+      - 2012-12-11 : Dépôt de rapport (RAPPANR5L14B0485)
+  - Discussion en séance publique
+    - 2012-12-13 : Discussion en séance publique
+    - 2012-12-13 : Discussion en séance publique
+    - 2012-12-13 : Discussion en séance publique
+    - 2012-12-14 : Discussion en séance publique
+    - 2012-12-14 : Décision
+- Nouvelle Lecture
+  - 2012-12-14 : Dépôt d'une initiative en navette (PRJLSNR5S199B0229)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-14 : Renvoi en commission au fond
+      - 2012-12-18 : Dépôt de rapport (RAPPSNR5S199B0232)
+  - Discussion en séance publique
+    - 2012-12-18 : Discussion en séance publique
+    - 2012-12-18 : Décision
+- Lecture définitive
+  - 2012-12-19 : Dépôt d'une initiative en navette (PRJLANR5L14B0548)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-19 : Renvoi en commission au fond
+      - 2012-12-20 : Dépôt de rapport (RAPPANR5L14B0574)
+  - Discussion en séance publique
+    - 2012-12-20 : Discussion en séance publique
+    - 2012-12-20 : Décision
+- Conseil constitutionnel
+  - 2012-12-20 : Saisine du conseil constitutionnel
+  - 2012-12-20 : Saisine du conseil constitutionnel
+  - 2012-12-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2012-12-29 : Promulgation d'une loi
