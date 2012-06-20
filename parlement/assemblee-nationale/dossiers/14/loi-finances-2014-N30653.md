@@ -1,0 +1,271 @@
+# Budget : loi de finances 2014
+
+- Procédure : Projet de loi de finances de l'année
+- Législature : 14
+- Identifiant : DLR5L14N30653
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/loi_finances_2014
+- Sénat : http://www.senat.fr/dossier-legislatif/pjlf2014.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-09-25 : 1er dépôt d'une initiative. (PRJLANR5L14B1395)
+  - 2013-09-25 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-09-25 : Renvoi en commission au fond
+      - 2012-06-29 : Nomination de rapporteur
+      - 2013-06-05 : Nomination de rapporteur budgétaire
+      - 2013-09-25 : Réunion de commission
+      - 2013-09-25 : Réunion de commission
+      - 2013-10-09 : Réunion de commission
+      - 2013-10-09 : Réunion de commission
+      - 2013-10-09 : Réunion de commission
+      - 2013-10-10 : Réunion de commission
+      - 2013-10-10 : Réunion de commission
+      - 2013-10-15 : Réunion de commission
+      - 2013-10-16 : Réunion de commission
+      - 2013-10-21 : Réunion de commission
+      - 2013-10-22 : Réunion de commission
+      - 2013-10-22 : Réunion de commission
+      - 2013-10-22 : Réunion de commission
+      - 2013-10-23 : Réunion de commission
+      - 2013-10-23 : Réunion de commission
+      - 2013-10-23 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-25 : Réunion de commission
+      - 2013-10-28 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-10-31 : Réunion de commission
+      - 2013-10-31 : Réunion de commission
+      - 2013-10-31 : Réunion de commission
+      - 2013-10-31 : Réunion de commission
+      - 2013-11-04 : Réunion de commission
+      - 2013-11-04 : Réunion de commission
+      - 2013-11-05 : Réunion de commission
+      - 2013-11-05 : Réunion de commission
+      - 2013-11-05 : Réunion de commission
+      - 2013-11-05 : Réunion de commission
+      - 2013-11-05 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-11-14 : Réunion de commission
+      - 2013-10-10 : Dépôt de rapport (RAPPANR5L14B1428)
+    - Travaux d'une commission saisie pour avis
+      - 2013-07-02 : Saisine pour avis d'une commission
+      - 2013-06-05 : Nomination de rapporteur budgétaire
+      - 2013-06-05 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-10-10 : Dépôt de rapport (AVISANR5L14B1432)
+    - Travaux d'une commission saisie pour avis
+      - 2013-07-02 : Saisine pour avis d'une commission
+      - 2013-06-26 : Nomination de rapporteur budgétaire
+      - 2013-10-02 : Nomination de rapporteur budgétaire
+      - 2013-06-26 : Réunion de commission
+      - 2013-10-02 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-11-04 : Réunion de commission
+      - 2013-11-04 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2013-10-10 : Dépôt de rapport (AVISANR5L14B1429)
+    - Travaux d'une commission saisie pour avis
+      - 2013-07-02 : Saisine pour avis d'une commission
+      - 2013-07-10 : Nomination de rapporteur budgétaire
+      - 2013-10-02 : Nomination de rapporteur budgétaire
+      - 2013-10-22 : Nomination de rapporteur budgétaire
+      - 2013-07-10 : Réunion de commission
+      - 2013-10-02 : Réunion de commission
+      - 2013-10-22 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-10-10 : Dépôt de rapport (AVISANR5L14B1430)
+    - Travaux d'une commission saisie pour avis
+      - 2013-07-02 : Saisine pour avis d'une commission
+      - 2013-06-19 : Nomination de rapporteur budgétaire
+      - 2013-06-19 : Réunion de commission
+      - 2013-10-22 : Réunion de commission
+      - 2013-10-22 : Réunion de commission
+      - 2013-10-23 : Réunion de commission
+      - 2013-10-23 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-11-05 : Réunion de commission
+      - 2013-11-05 : Réunion de commission
+      - 2013-11-05 : Réunion de commission
+      - 2013-11-05 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-10-10 : Dépôt de rapport (AVISANR5L14B1431)
+    - Travaux d'une commission saisie pour avis
+      - 2013-07-02 : Saisine pour avis d'une commission
+      - 2013-06-12 : Nomination de rapporteur budgétaire
+      - 2013-10-21 : Réunion de commission
+      - 2013-10-21 : Réunion de commission
+      - 2013-10-23 : Réunion de commission
+      - 2013-10-31 : Réunion de commission
+      - 2013-10-31 : Réunion de commission
+      - 2013-10-10 : Dépôt de rapport (AVISANR5L14B1433)
+    - Travaux d'une commission saisie pour avis
+      - 2013-07-02 : Saisine pour avis d'une commission
+      - 2013-06-26 : Nomination de rapporteur budgétaire
+      - 2013-10-09 : Nomination de rapporteur budgétaire
+      - 2013-06-26 : Réunion de commission
+      - 2013-10-09 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-28 : Réunion de commission
+      - 2013-10-29 : Réunion de commission
+      - 2013-10-30 : Réunion de commission
+      - 2013-10-31 : Réunion de commission
+      - 2013-11-04 : Réunion de commission
+      - 2013-11-05 : Réunion de commission
+      - 2013-10-10 : Dépôt de rapport (AVISANR5L14B1435)
+    - Travaux d'une commission saisie pour avis
+      - 2013-07-02 : Saisine pour avis d'une commission
+      - 2013-06-26 : Nomination de rapporteur budgétaire
+      - 2013-06-26 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-24 : Réunion de commission
+      - 2013-10-31 : Réunion de commission
+      - 2013-10-31 : Réunion de commission
+      - 2013-11-07 : Réunion de commission
+      - 2013-10-10 : Dépôt de rapport (AVISANR5L14B1434)
+  - Discussion en séance publique
+    - 2013-10-15 : Discussion en séance publique
+    - 2013-10-15 : Discussion en séance publique
+    - 2013-10-16 : Discussion en séance publique
+    - 2013-10-16 : Discussion en séance publique
+    - 2013-10-17 : Discussion en séance publique
+    - 2013-10-17 : Discussion en séance publique
+    - 2013-10-17 : Discussion en séance publique
+    - 2013-10-18 : Discussion en séance publique
+    - 2013-10-18 : Discussion en séance publique
+    - 2013-10-18 : Discussion en séance publique
+    - 2013-10-21 : Discussion en séance publique
+    - 2013-10-21 : Discussion en séance publique
+    - 2013-10-22 : Discussion en séance publique
+    - 2013-10-29 : Discussion en séance publique
+    - 2013-10-29 : Discussion en séance publique
+    - 2013-10-30 : Discussion en séance publique
+    - 2013-11-04 : Discussion en séance publique
+    - 2013-11-04 : Discussion en séance publique
+    - 2013-11-05 : Discussion en séance publique
+    - 2013-11-05 : Discussion en séance publique
+    - 2013-11-06 : Discussion en séance publique
+    - 2013-11-06 : Discussion en séance publique
+    - 2013-11-07 : Discussion en séance publique
+    - 2013-11-07 : Discussion en séance publique
+    - 2013-11-07 : Discussion en séance publique
+    - 2013-11-08 : Discussion en séance publique
+    - 2013-11-08 : Discussion en séance publique
+    - 2013-11-12 : Discussion en séance publique
+    - 2013-11-12 : Discussion en séance publique
+    - 2013-11-13 : Discussion en séance publique
+    - 2013-11-13 : Discussion en séance publique
+    - 2013-11-13 : Discussion en séance publique
+    - 2013-11-14 : Discussion en séance publique
+    - 2013-11-14 : Discussion en séance publique
+    - 2013-11-14 : Discussion en séance publique
+    - 2013-11-15 : Discussion en séance publique
+    - 2013-11-15 : Discussion en séance publique
+    - 2013-11-19 : Discussion en séance publique
+    - 2013-11-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-11-21 : Dépôt d'une initiative en navette (PRJLSNR5S219B0155)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-11-21 : Renvoi en commission au fond
+      - 2012-06-20 : Nomination de rapporteur
+      - 2013-11-21 : Dépôt de rapport (RAPPSNR5S219B0156)
+  - Discussion en séance publique
+    - 2013-11-21 : Discussion en séance publique
+    - 2013-11-22 : Discussion en séance publique
+    - 2013-11-23 : Discussion en séance publique
+    - 2013-11-25 : Discussion en séance publique
+    - 2013-11-26 : Discussion en séance publique
+    - 2013-11-27 : Discussion en séance publique
+    - 2013-11-27 : Décision
+- Commission Mixte Paritaire
+  - 2013-11-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-12-05 : Nomination de rapporteur
+    - 2013-12-05 : Dépôt du rapport d'une CMP (RAPPANR5L14B1615)
+    - 2013-12-05 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0208)
+  - 2013-12-05 : Décision de la CMP
+- Nouvelle Lecture
+  - 2013-11-28 : Dépôt d'une initiative en navette (PRJLANR5L14B1592)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-11-28 : Renvoi en commission au fond
+      - 2013-12-11 : Dépôt de rapport (RAPPANR5L14B1619)
+  - Discussion en séance publique
+    - 2013-12-12 : Discussion en séance publique
+    - 2013-12-12 : Discussion en séance publique
+    - 2013-12-13 : Discussion en séance publique
+    - 2013-12-13 : Discussion en séance publique
+    - 2013-12-13 : Décision
+- Nouvelle Lecture
+  - 2013-12-16 : Dépôt d'une initiative en navette (PRJLSNR5S219B0229)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-12-16 : Renvoi en commission au fond
+      - 2013-12-17 : Dépôt de rapport (RAPPSNR5S219B0235)
+  - Discussion en séance publique
+    - 2013-12-17 : Discussion en séance publique
+    - 2013-12-17 : Décision
+- Lecture définitive
+  - 2013-12-17 : Dépôt d'une initiative en navette (PRJLANR5L14B1659)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-12-17 : Renvoi en commission au fond
+      - 2013-12-19 : Dépôt de rapport (RAPPANR5L14B1669)
+  - Discussion en séance publique
+    - 2013-12-19 : Discussion en séance publique
+    - 2013-12-19 : Décision
+- Conseil constitutionnel
+  - 2013-12-19 : Saisine du conseil constitutionnel
+  - 2013-12-20 : Saisine du conseil constitutionnel
+  - 2013-12-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-12-29 : Promulgation d'une loi
