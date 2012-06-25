@@ -22,8 +22,6 @@ Les salariés seront prévenus dans un délai de sept jours avant la modificatio
 
 En cas de circonstances exceptionnelles, ce délai pourra être réduit sans, toutefois, descendre au-dessous de trois jours.
 
-Les salariés à temps partiel sur une base mensuelle ou annuelle pourront bénéficier des dispositions prévues par un accord de modulation au prorata de leur temps de travail (1).
-
 Les dispositions applicables aux salariés à temps partiel annualisé sont prévues au point 9° ci-après.
 
 4° Utilisation des heures complémentaires
@@ -113,5 +111,3 @@ Les dispositions conventionnelles sont appliquées sur la base de la rémunérat
 10° Bilan du travail à temps partiel
 
 Conformément aux dispositions de l'article L. 212-4-5 du code du travail, un bilan du travail à temps partiel réalisé dans l'entreprise sera communiqué au moins une fois par an au comité d'entreprise ou d'établissement ou, à défaut, aux délégués du personnel s'il en existe. Ce bilan sera également communiqué aux délégués syndicaux de l'entreprise s'il en existe.
-
-(1) Alinéa exclu de l'extension par arrêté du 10 janvier 1997.
