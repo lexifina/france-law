@@ -1,0 +1,78 @@
+# Budget : finances publiques 2012-2017
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29114
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/loi_finances_1217
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-069.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-09-28 : 1er dépôt d'une initiative. (PRJLANR5L14B0234)
+  - 2012-09-28 : Etude d'impact (ETDIANR5L14B0234)
+  - 2012-09-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-09-28 : Renvoi en commission au fond
+      - 2012-06-28 : Nomination de rapporteur
+      - 2012-10-16 : Réunion de commission
+      - 2012-10-04 : Dépôt de rapport (RAPPANR5L14B0246, PRJLANR5L14BTC0246)
+  - Discussion en séance publique
+    - 2012-10-16 : Discussion en séance publique
+    - 2012-10-16 : Discussion en séance publique
+    - 2012-10-17 : Discussion en séance publique
+    - 2012-10-17 : Discussion en séance publique
+    - 2012-10-23 : Discussion en séance publique
+    - 2012-10-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-10-23 : Dépôt d'une initiative en navette (PRJLSNR5S199B0069)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-10-23 : Renvoi en commission au fond
+      - 2012-10-17 : Nomination de rapporteur
+      - 2012-10-31 : Dépôt de rapport (RAPPSNR5S199B0096)
+    - Travaux d'une commission saisie pour avis
+      - 2012-10-23 : Saisine pour avis d'une commission
+      - 2012-10-23 : Nomination de rapporteur
+      - 2012-10-23 : Dépôt de rapport (AVISSNR5S199B0073)
+  - Discussion en séance publique
+    - 2012-11-07 : Discussion en séance publique
+    - 2012-11-07 : Décision
+- Commission Mixte Paritaire
+  - 2012-11-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-12-06 : Nomination de rapporteur
+    - 2012-12-06 : Dépôt du rapport d'une CMP (RAPPANR5L14B0481)
+    - 2012-12-06 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0195)
+  - 2012-12-07 : Décision de la CMP
+- Nouvelle Lecture
+  - 2012-11-08 : Dépôt d'une initiative en navette (PRJLANR5L14B0347)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-11-08 : Renvoi en commission au fond
+      - 2012-12-17 : Réunion de commission
+      - 2012-12-17 : Dépôt de rapport (RAPPANR5L14B0543, PRJLANR5L14BTC0543)
+  - Discussion en séance publique
+    - 2012-12-18 : Discussion en séance publique
+    - 2012-12-18 : Décision
+- Nouvelle Lecture
+  - 2012-12-19 : Dépôt d'une initiative en navette (PRJLSNR5S199B0239)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-19 : Renvoi en commission au fond
+      - 2012-12-19 : Dépôt de rapport (RAPPSNR5S199B0241)
+  - Discussion en séance publique
+    - 2012-12-19 : Discussion en séance publique
+    - 2012-12-19 : Décision
+- Lecture définitive
+  - 2012-12-19 : Dépôt d'une initiative en navette (PRJLANR5L14B0573)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-19 : Renvoi en commission au fond
+      - 2012-12-20 : Dépôt de rapport (RAPPANR5L14B0575)
+  - Discussion en séance publique
+    - 2012-12-20 : Discussion en séance publique
+    - 2012-12-20 : Décision
+- Promulgation de la loi
+  - 2012-12-31 : Promulgation d'une loi
