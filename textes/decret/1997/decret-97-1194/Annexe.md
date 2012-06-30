@@ -2796,11 +2796,9 @@ Code des douanes
 
 |
 
-Autorisation de dédouanement à domicile des matériels de guerre et matériels assimilés et des poudres et substances explosives destinées à des fins militaires.
+(Supprimé)
 
 |
-
-Article 2 ter et arrêté du 2 février 1993 instaurant, dans les échanges intra-communautaires, une procédure de dédouanement à domicile des matériels de guerre et matériels assimilés et des poudres et substances explosives destinées à des fins militaires, article 3.
 
 |
 
@@ -2938,27 +2936,67 @@ Article 207 de l'annexe III.
 
 |
 
-Décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions et arrêté du 2 octobre 1992 modifié relatif à la procédure d'importation, d'exportation et de transfert des matériels de guerre, armes et munitions et des matériels assimilés
+Décret n
+
+°
+
+2011-1467 du 9 novembre 2011 relatif aux importations et aux exportations hors du territoire de
+
+l’Union européenne de matériels de guerre, armes et munitions et de matériels assimilés et aux transferts
+
+intracommunautaires de produits liés à la défense
 
 1
 
 |
 
-Autorisation d’importation et d’exportation de produits contingentés ou
-
-soumis à des mesures de commerce extérieur (produits industriels et
-
-agricoles) à l’exclusion des autorisations mises en œuvre en application
-
-de l’article 8 du règlement (CE) n
-
-°
-
-428/2009 du 5 mai 2009.
+Autorisation d’importation de matériels de guerre, armes et munitions.
 
 |
 
-Articles et 5.
+Article 2.
+
+|
+
+2 |
+
+Autorisation d’exportation de matériels de guerre, armes et munitions et matériels assimilés.
+
+|
+
+Article 14.
+
+|
+
+3 |
+
+Autorisation de transfert de produits liés à la défense.
+
+|
+
+Article 27.
+
+|
+
+4 |
+
+Autorisation de transit de matériels de guerre, armes et munitions et matériels assimilés.
+
+|
+
+Article 46.
+
+|
+
+5 |
+
+Modification, suspension, retrait et abrogation de l’autorisation d’importation de matériels de
+
+guerre, armes et munitions.
+
+|
+
+Article 7.
 
 |
 

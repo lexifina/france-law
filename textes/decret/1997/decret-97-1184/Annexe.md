@@ -178,17 +178,17 @@ Second alinéa de l'article 19
 
 |
 
-Arrêté du 2 octobre 1992 modifié relatif à la procédure d'importation, d'exportation et de transfert des matériels de guerre, armes et munitions et des matériels assimilés.
+Décret n° 2011-1467 du 9 novembre 2011 relatif aux importations et aux exportations hors du territoire de l'Union européenne de matériels de guerre, armes et munitions et de matériels assimilés et aux transferts intracommunautaires de produits liés à la défense.
 
 1
 
 |
 
-Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de matériels de guerre.
+Décisions relatives aux agréments préalables d'exportation
 
 |
 
-Article 4
+Article 12
 
 |
 
@@ -196,11 +196,11 @@ Article 4
 
 |
 
-Décisions d'autorisation d'exportation de matériels de guerre dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.
+Décisions d'autorisation d'exportation de matériels de guerre dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre
 
 |
 
-Article 9
+Article 14
 
 |
 
@@ -208,11 +208,47 @@ Article 9
 
 |
 
-Décisions d'autorisation de transit par la route dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.
+Décisions relatives aux agréments préalables de transfert
 
 |
 
 Article 24
+
+|
+
+4
+
+|
+
+Décisions d'autorisation de transfert de produits liés à la défense dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre
+
+|
+
+Article 27
+
+|
+
+5
+
+|
+
+Décisions d'autorisation de transit dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre
+
+|
+
+Article 46
+
+|
+
+6
+
+|
+
+Modification, suspension, retrait et abrogation des agréments préalables d'exportation, des autorisations d'exportation de matériel de guerre, des agréments préalables de transfert, des autorisations de transfert de produits liés à la défense et des autorisations de transit de matériels de guerre
+
+|
+
+Articles 21, 36 et 48
 
 |
 
@@ -240,9 +276,7 @@ Décisions de nomination des membres et du président du comité de décentralis
 
 |
 
-Article R. 510-3
-
-et A. 510-3
+Article R. 510-3 et A. 510-3
 
 |
 
