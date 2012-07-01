@@ -1,12 +1,16 @@
 # Article ANNEXE IIb
 
-direction régionale de l'environnement, de l'aménagement et du logement de :
+La direction régionale et interdépartementale de l'énergie et de l'environnement (DRIEE) (*)/ La direction régionale de l'environnement, de l'aménagement et du logement (DREAL) (*)/ La direction de l'environnement, de l'aménagement et du logement (DEAL) (*)/ Le constructeur (*) :
 
-Procés-verbal de visite technique initiale d'un petit train routier
+N° de réception par type nationale du véhicule tracteur :
+
+N° de réception par type nationale du véhicule remorqué :
+
+Procés-verbal de visite technique initiale d'un petit train routier touristique
 
 (Document à annexer à l'arrêté préfectoral d'autorisation)
 
-1. Catégorie (s) du petit train routier :
+1. Catégorie (s) du petit train routier touristique :
 
 2. Composition de l'ensemble en fonction de la catégorie :
 
@@ -76,10 +80,8 @@ Passagers dans la deuxième remorque :
 
 Passagers dans la troisième remorque :
 
-Signature : (*) Barrer la mention inutile.
+Date
 
-NOTA :
+Signature : DRIEE-DREAL-DEAL-Constructeur (*)
 
-Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
-
-Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.
+(*) Barrer la mention inutile.
