@@ -54,6 +54,14 @@ Article R. 411-36-I (3°)
 
 |
 
+Autorisations d'entrée sur le territoire et d'introduction dans l'environnement d'un macro-organisme non indigène utile aux végétaux. |
+
+Article R. 411-36-I (4°)
+
+|
+
+|
+
 Nomination des membres des comités directeurs des réserves nationales de chasse et de faune sauvage, lorsque la réserve s'étend en zone de chasse maritime. Décision conjointe du ministre chargé de la chasse et du ministre chargé de la mer.
 
 |
@@ -801,3 +809,13 @@ Articles L. 1333-2, L. 1333-3, R. 1333-3 et R. 1333-6
 IV.-Code de la santé publique :
 
 Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8.
+
+V. - Code rural et de la pêche maritime :
+
+Autorisations d'entrée sur le territoire et d'introduction dans l'environnement d'un macro-organisme non indigène utile aux végétaux.
+
+|
+
+Articles R. 258-6, R. 258-8 et R. 258-9
+
+|
