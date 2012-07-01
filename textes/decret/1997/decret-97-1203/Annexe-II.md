@@ -58,6 +58,14 @@ Article R. 254-28 du code rural et de la pêche maritime
 
 |
 
+Opposition à l'introduction à titre personnel de produits bénéficiant d'un permis de commerce parallèle
+
+|
+
+Décisions mentionnées à l'article R. 253-27 du code rural et de la pêche maritime.
+
+|
+
 TITRE II
 
 DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES

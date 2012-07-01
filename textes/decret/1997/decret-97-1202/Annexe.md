@@ -44,7 +44,9 @@ Article R. 141-8 du code rural et de la pêche maritime.
 
 |
 
-Qualité et sécurité des productions végétales et animales
+Qualité et sécurité des productions
+
+végétales et animales
 
 |
 
@@ -103,6 +105,14 @@ Désignation des personnes chargées du contrôle des laboratoires nationaux de 
 |
 
 Articles R. 202-6 et R. 202-16 du code rural et de la pêche maritime.
+
+|
+
+Autorisations d'entrée sur le territoire et d'introduction dans l'environnement d'un macro-organisme non indigène utile aux végétaux.
+
+|
+
+Articles R. 258-6, R. 258-8 et R. 258-9 du code rural et de la pêche maritime.
 
 |
 
@@ -218,7 +228,9 @@ Article R. 554-4 du code forestier.
 
 |
 
-Qualité et sécurité des productions végétales et animales
+Qualité et sécurité des productions
+
+végétales et animales
 
 |
 
@@ -229,14 +241,6 @@ Agrément des experts chargés de la vérification de l'existence des propriét�
 |
 
 Article R. 5146-19 du code de la santé publique.
-
-|
-
-Autorisation de mise sur le marché et autorisation de distribution pour expérimentation des produits phytopharmaceutiques.
-
-|
-
-articles R. * 253-2, R. * 253-21, R. * 253-38, R. * 253-46, R. * 253-40, R. * 253-44 et R. * 253-46.
 
 |
 
@@ -278,61 +282,11 @@ Autorisation d'utilisation, de dissémination et de mise sur le marché des orga
 
 Décret n° 93-1177 du 18 octobre 1993 pris pour l'application s'agissant de plantes, semences et de plants du titre III de la loi du 13 juillet 1992, art. 1er, 15 et 19 ;
 
-articles R. * 253-24, R. * 253-27, R. * 253-32, R. * 253-56, R. * 253-59 du code rural et de la pêche maritime.
-
 Décret n° 94-510 du 23 juin 1994 relatif à la commercialisation des plantes ornementales, des jeunes plants de légumes, des plantes fruitières et des matériels de multiplication de toutes ces plantes et modifiant le décret n° 81-605 du 18 mai 1981 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne le commerce des semences et des plants, art. 7 et 10 ;
 
 Décret n° 95-487 du 28 avril 1995 fixant les conditions de dissémination volontaire des animaux d'élevage génétiquement modifiés, art. 2,13,20-II et 25 ;
 
 Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 23,25,27).
-
-|
-
-Agrément pour la réalisation d'essais officiellement reconnus des produits phytopharmaceutiques.
-
-|
-
-article R. * 253-11 du code rural et de la pêche maritime.
-
-|
-
-Refus de transmission d'un dossier de demande d'inscription sur la liste communautaire d'une substance active contenue dans un produit phytopharmaceutique ne se trouvant pas sur le marché au 25 juillet 1993.
-
-|
-
-R. * 253-6 du code rural et de la pêche maritime.
-
-|
-
-Autorisation d'une extension d'usage d'un produit phytopharmaceutique autorisé.
-
-|
-
-R. * 253-45, R. * 253-61 du code rural et de la pêche maritime.
-
-|
-
-Autorisation provisoire pour la mise sur le marché d'un produit phytopharmaceutique contenant une substance active non inscrite sur la liste des substances actives et n'étant pas sur le marché au 25 juillet 1993.
-
-|
-
-R. * 253-49 du code rural et de la pêche maritime.
-
-|
-
-Autorisation de mise sur le marché des produits phytopharmaceutiques pour une période n'excédant pas cent vingt jours.
-
-|
-
-R. * 253-50 du code rural et de la pêche maritime.
-
-|
-
-Autorisation de mise sur le marché des produits. phytopharmaceutiques en provenance de l'Espace économique européen
-
-|
-
-R. * 253-52, R. * 253-54 et R. * 253-55 du code rural et de la pêche maritime.
 
 |
 
@@ -665,5 +619,37 @@ Agrément des organismes chargés de la certification environnementale des explo
 |
 
 Article R. 617-28 du code rural et de la pêche maritime.
+
+|
+
+Décisions d'autorisations de mise sur le marché, permis de commerce parallèle et d'expérimentation des produits phytopharmaceutiques et adjuvants vendus seuls ou en mélange et décisions faisant suite à une demande de modification, de renouvellement ou de retrait de ces autorisations et permis, y compris pour les produits phytopharmaceutiques composés en tout ou partie d'organismes génétiquement modifiés.
+
+|
+
+Décisions mentionnées à l'article R. 253-5 du code rural et de la pêche maritime.
+
+|
+
+Autorisation de reconditionnement des produits faisant l'objet d'un permis de commerce parallèle.
+
+|
+
+Décisions mentionnées à l'article R. 253-28 du code rural et de la pêche maritime.
+
+|
+
+Acceptation des demandes de confidentialité des données.
+
+|
+
+Décisions mentionnées à l'article R. 253-34 du code rural et de la pêche maritime.
+
+|
+
+Agrément des personnes réalisant des essais officiellement reconnus.
+
+|
+
+Décisions mentionnées à l'article R. 253-38 du code rural et de la pêche maritime.
 
 |
