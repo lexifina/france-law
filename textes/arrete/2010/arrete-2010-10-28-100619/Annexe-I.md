@@ -116,18 +116,6 @@ A l'exclusion de la terre végétale, de la tourbe et des terres et cailloux pro
 
 |
 
-17 06 05 *
-
-|
-
-Matériaux de construction contenant de l'amiante
-
-|
-
-Uniquement les déchets d'amiante lié à des matériaux inertes ayant conservé leur intégrité
-
-|
-
 19 12 05
 
 |
