@@ -116,6 +116,30 @@ Articles R. 258-6, R. 258-8 et R. 258-9 du code rural et de la pêche maritime.
 
 |
 
+Reconnaissance des organismes à vocation sanitaire prévue à l'article L. 201-9 du code rural et de la pêche maritime.
+
+|
+
+Article R. 201-12 du code rural et de la pêche maritime.
+
+|
+
+Reconnaissance des organisations vétérinaires à vocation technique prévue à l'article L. 201-9 du code rural et de la pêche maritime.
+
+|
+
+Article R. 201-18 du code rural et de la pêche maritime.
+
+|
+
+Reconnaissance des associations sanitaires régionales prévue à l'article L. 201-11 du code rural et de la pêche maritime.
+
+|
+
+Article R. 201-24 du code rural et de la pêche maritime.
+
+|
+
 Organismes professionnels agricoles
 
 |
