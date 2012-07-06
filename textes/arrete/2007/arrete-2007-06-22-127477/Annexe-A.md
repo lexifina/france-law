@@ -12,15 +12,17 @@ PERSONNES HABILITÉES
 
 MONTANT MAXIMUM
 
-des marchés (1)
+des marchés
 
 |
 
-Directions et services relevant du chef d'état-major des armées
+Directions et services
+
+relevant du chef d'état-major des armées
 
 |
 
-Direction centrale du service de santé des armées
+Direction centrale du service de santé des armées.
 
 |
 
@@ -32,19 +34,11 @@ Sans limitation
 
 |
 
-Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
+Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense.
 
 |
 
-Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information-Ile-de-France, Metz, Lyon, Bordeaux, Rennes, Toulon et Brest
-
-|
-
-Sans limitation
-
-|
-
-Commandant du 43e bataillon de transmissions
+Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information d'Ile-de-France, Metz, Lyon, Bordeaux, Rennes, Toulon et Brest
 
 |
 
@@ -52,19 +46,27 @@ Sans limitation
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Saint-Denis de La Réunion
+Commandant du Centre national de soutien opérationnel
 
 |
 
-MAPA × 1
+Sans limitation
 
 |
 
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Soutien Bicêtre
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de Saint-Denis de La Réunion
 
 |
 
-MAPA × 0, 66
+MAPA x 1
+
+|
+
+Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-soutien Bicêtre
+
+|
+
+MAPA x 0,66
 
 |
 
@@ -72,35 +74,11 @@ Commandant du 8e régiment de transmissions de Suresnes
 
 |
 
-MAPA × 0, 66
+MAPA x 0,66
 
 |
 
-Direction centrale du service du commissariat des armées
-
-|
-
-Directeur du service central d'études et de réalisations
-
-|
-
-Sans limitation
-
-|
-
-Directeurs du commissariat en région terre
-
-|
-
-Sans limitation
-
-|
-
-Directeur du commissariat de la base de transit interarmées
-
-|
-
-MAPA × 20
+Direction centrale du service du commissariat des armées.
 
 |
 
@@ -108,7 +86,7 @@ Directeur du centre interarmées d'administration des opérations
 
 |
 
-MAPA × 1
+MAPA x 1
 
 |
 
@@ -116,7 +94,7 @@ Directeur du commissariat administratif
 
 |
 
-MAPA × 1
+MAPA x 1
 
 |
 
@@ -124,71 +102,15 @@ Directeurs des commissariats de l'armée de terre
 
 |
 
-MAPA × 1
+MAPA x 1
 
 |
 
-Chef du service technique et des marchés généraux
+Directeurs du commissariat d'outre-mer
 
 |
 
-Sans limitation
-
-|
-
-Directeurs locaux du commissariat de la marine et directeurs adjoints
-
-|
-
-MAPA × 100
-
-|
-
-Chefs des services du matériel
-
-|
-
-MAPA × 60
-
-|
-
-Chefs des services vivres / restauration
-
-|
-
-MAPA × 60
-
-|
-
-Directeur de la structure centrale d'achat et de mandatement
-
-|
-
-Sans limitation
-
-|
-
-Directeur de la structure spécialisée d'achat et de mandatement
-
-|
-
-Sans limitation
-
-|
-
-Directeurs des structures locales d'achat et de mandatement
-
-|
-
-MAPA × 100
-
-|
-
-Directeurs du commissariat outre-mer
-
-|
-
-MAPA × 60
+MAPA x 60
 
 |
 
@@ -196,19 +118,11 @@ Directeurs du commissariat en opération extérieure
 
 |
 
-MAPA × 60
+MAPA x 60
 
 |
 
-Directeurs des plates-formes achats-finances
-
-|
-
-Sans limitation
-
-|
-
-Directeur du centre de soutien du combattant et des forces
+Directeurs des plates-formes achats finances
 
 |
 
@@ -216,7 +130,15 @@ Sans limitation
 
 |
 
-Directeur de l'antenne navale du centre de soutien du combattant et des forces à Toulon
+Directeur du centre d'expertise du soutien du combattant et des forces
+
+|
+
+Sans limitation
+
+|
+
+Directeur de l'antenne navale du centre d'expertise du soutien du combattant et des forces
 
 |
 
@@ -232,7 +154,15 @@ Sans limitation
 
 |
 
-Direction centrale du service des essences des armées
+Directeurs des établissements logistiques
+
+|
+
+15 000 € HT
+
+|
+
+Direction centrale du service des essences des armées.
 
 |
 
@@ -251,14 +181,6 @@ Adjoint interarmées de soutien pétrolier
 |
 
 Sans limitation (12)
-
-|
-
-Directeur régional interarmées du service des essences des armées en région Atlantique
-
-|
-
-MAPA × 20
 
 |
 
@@ -286,7 +208,7 @@ MAPA x 7
 
 |
 
-Divers
+Divers.
 
 |
 
@@ -294,9 +216,7 @@ Commandants des formations administratives et chefs des organismes administrés 
 
 |
 
-MAPA × 1
-
-|
+MAPA x 1
 
 |
 
@@ -304,7 +224,7 @@ Chefs des éléments de soutien national (NSE)
 
 |
 
-MAPA × 0,66
+MAPA x 0,66
 
 |
 
@@ -312,17 +232,15 @@ Armée de terre
 
 |
 
-Etat-major de l'armée de terre
+Etat-major de l'armée de terre.
 
 |
 
-Directeur de la section technique de l'armée de terre (4)
+Directeur de la section technique de l'armée de terre
 
 |
 
-MAPA × 4
-
-|
+MAPA x 4
 
 |
 
@@ -334,15 +252,11 @@ Sans limitation
 
 |
 
-|
-
 Commandant de la base de soutien du matériel de Neuvy-Pailloux (service de la maintenance industrielle terrestre)
 
 |
 
 MAPA x 3
-
-|
 
 |
 
@@ -354,7 +268,7 @@ MAPA x 3
 
 |
 
-Direction centrale du matériel de l'armée de terre
+Direction centrale du matériel de l'armée de terre.
 
 |
 
@@ -362,19 +276,19 @@ Chef du centre d'études et de développements informatiques du matériel de l'a
 
 |
 
-MAPA × 1
+MAPA x 1
 
 |
 
-Divers
+Divers.
 
 |
 
-Chef de la section géographique militaire (4)
+Chef de la section géographique militaire
 
 |
 
-MAPA × 1
+MAPA x 1
 
 |
 
@@ -390,11 +304,11 @@ Marine
 
 |
 
-Direction centrale du service de soutien de la flotte
+Direction centrale du service de soutien de la flotte.
 
 |
 
-Directeur local du service de soutien de la flotte de Brest, directeur adjoint
+Directeur local du service du soutien de la flotte de Brest, directeur adjoint
 
 |
 
@@ -402,7 +316,7 @@ MAPA x 70
 
 |
 
-Directeur local du service de soutien de la flotte de Toulon, directeur adjoint
+Directeur local du service du soutien de la flotte de Toulon, directeur adjoint
 
 |
 
@@ -442,7 +356,7 @@ MAPA x 10
 
 |
 
-Divers
+Divers.
 
 |
 
@@ -450,7 +364,7 @@ Commandants des formations autonomes de la marine et chefs des organismes admini
 
 |
 
-MAPA x 0, 66
+MAPA x 0,66
 
 |
 
@@ -458,15 +372,31 @@ Armée de l'air
 
 |
 
-Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense
+Structure intégrée du maintien en condition opérationnelle des matériels aéronautique du ministère de la défense.
 
 |
 
-Chef du service des contrats et des finances et adjoints au chef du service
+Chef du service des contrats et des finances
+
+|
+
+Sans limitation
+
+|
+
+Adjoints au chef du service des contrats et des finances
 
 |
 
 MAPA x 100
+
+|
+
+Président de la commission des contrats et ses adjoints
+
+|
+
+MAPA x 1
 
 |
 
@@ -478,7 +408,7 @@ Sans limitation
 
 |
 
-Service industriel de l'aéronautique (A)
+Service industriel de l'aéronautique (A).
 
 |
 
@@ -514,8 +444,6 @@ MAPA x 50
 
 |
 
-|
-
 Directeur de l'atelier industriel de l'aéronautique de Bretagne
 
 |
@@ -524,7 +452,9 @@ MAPA x 50
 
 |
 
-Divers |
+Divers.
+
+|
 
 Commandants des formations administratives et chefs des organismes administrés comme tels (9)
 
@@ -536,7 +466,7 @@ Direction générale de l'armement
 
 |
 
-Direction des opérations
+Direction des opérations.
 
 |
 
@@ -556,7 +486,7 @@ Sans limitation
 
 |
 
-Direction de la stratégie
+Direction de la stratégie.
 
 |
 
@@ -564,7 +494,7 @@ Directeur du centre d'analyse technico-opérationnelle de défense
 
 |
 
-MAPA x 50
+MAPA × 50
 
 |
 
@@ -572,11 +502,11 @@ Directeur du centre d'information et de documentation de l'armement
 
 |
 
-MAPA x 50
+Sans limitation
 
 |
 
-Direction technique
+Direction technique.
 
 |
 
@@ -592,9 +522,11 @@ Adjoints du chef du service centralisé des achats techniques
 
 |
 
-MAPA × 50 |
+MAPA x 50
 
-Directeur de DGA Ingénierie des projets
+|
+
+Directeur de DGA Ingénierie de projets
 
 |
 
@@ -614,7 +546,7 @@ Secrétariat général pour l'administration
 
 |
 
-Direction du service national
+Direction du service national.
 
 |
 
@@ -626,17 +558,15 @@ MAPA x 10
 
 |
 
-Service d'infrastructure de la défense
+Service d'infrastructure de la défense.
 
 |
 
-Directeur du service technique des bâtiments, fortifications et travaux
+Directeur du centre d'expertise des techniques de l'infrastructure de la défense
 
 |
 
-MAPA x 70 (6)
-
-MAPA x 15 (7)
+MAPA x 70 (6) MAPA x 15 (7)
 
 |
 
@@ -645,30 +575,6 @@ Directeurs des établissements du service d'infrastructure de la défense
 |
 
 Sans limitation
-
-|
-
-Directeur d'infrastructure de la défense de Cherbourg
-
-|
-
-Sans limitation (5)
-
-MAPA × 120 (6)
-
-MAPA × 40 (7)
-
-|
-
-Directeurs d'établissements d'infrastructure de la défense
-
-|
-
-Sans limitation (5)
-
-MAPA x 70 (6)
-
-MAPA x 30 (7)
 
 |
 
@@ -684,7 +590,7 @@ Divers
 
 |
 
-Ministère chargé de l'équipement
+Ministère chargé de l'équipement.
 
 |
 
@@ -736,7 +642,7 @@ Sans limitation (5) (6) (7)
 
 |
 
-Mission militaire au sein de la mission diplomatique française à Washington
+Mission militaire au sein de la mission diplomatique française à Washington.
 
 |
 
@@ -753,8 +659,6 @@ Sans limitation
 (2) Délégation accordée sans limite de seuil, à l'exclusion des marchés et accords-cadres d'informatique (fournitures ou prestations de services) faisant l'objet d'une programmation centralisée.
 
 (3) Délégation limitée aux marchés subséquents d'approvisionnement des bâtiments de la marine nationale en escale à l'étranger.
-
-(4) Délégation limitée aux marchés et accords-cadres imputés sur des crédits dont la direction centrale du matériel de l'armée de terre est gestionnaire.
 
 (5) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG.
 
@@ -775,7 +679,3 @@ A l'exception des commandants des formations administratives et organismes admin
 (12) Délégation limitée aux marchés pétroliers à l'étranger dans la zone de compétence de l'adjoint interarmées de soutien pétrolier.
 
 |
-
-NOTA :
-
-Arrêté du 6 décembre 2010 article 2 : (A) et (B) entrent en vigueur le 1er janvier 2011
