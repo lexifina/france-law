@@ -22,7 +22,7 @@ La Fédération nationale de la pêche et de la protection du milieu aquatique e
 
 - réaliser les études halieutiques et piscicoles et établir un état national et permanent de la pêche en France sur la base des statistiques des associations et fédérations de pêche agréées ;
 
-- assurer la défense de la pêche de loisirs aux lignes, aux engins et aux filets ainsi que la promotion de ses intérêts ;
+- assurer la défense de la pêche de loisirs aux lignes, aux engins et aux filets ainsi que la promotion de ses intérêts, notamment en élaborant des orientations nationales ;
 
 - coordonner l'action des fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique.
 
@@ -35,6 +35,8 @@ Elle assure la péréquation entre les fédérations départementales et interd�
 Elle participe à la protection et à la gestion durable du milieu aquatique et contribue notamment financièrement à des actions de gestion équilibrée, de protection et de surveillance du patrimoine piscicole, ainsi qu'à des actions de formation, de promotion et d'éducation à l'environnement.
 
 Elle peut élaborer, compte tenu de la fonction d'animation et d'orientation des associations agréées de pêche, une charte de la pêche en France pour exposer les principes d'un développement durable de la pêche et sa contribution à la conservation de la biodiversité. Ce document établit un code de bonnes pratiques et de gestion que chaque fédération départementale ou interdépartementale des associations agréées de pêche et de protection du milieu aquatique et ses adhérents doivent mettre en oeuvre.
+
+Elle peut créer un dispositif d'adhésion par internet mis à disposition des fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique et des associations agréées de pêche et de protection du milieu aquatique.
 
 Elle peut créer, participer ou adhérer à une fondation, ou des opérations nationales en relation avec ses missions.
 
@@ -53,6 +55,8 @@ Article 3
 La Fédération nationale de la pêche et de la protection du milieu aquatique regroupe l'ensemble des fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique de métropole et d'outre-mer.
 
 L'adhésion résulte du paiement par chaque fédération départementale et interdépartementale d'une cotisation obligatoire, prévue à l'article L. 434-5 du code de l'environnement, proportionnelle au nombre des pêcheurs adhérant aux associations que ces dernières regroupent, dont le montant est fixé par l'assemblée générale de la Fédération nationale de la pêche et de la protection du milieu aquatique, sur proposition de son conseil d'administration.
+
+Dans le cadre du dispositif d'adhésion par internet mentionné à l'article 2, le montant de la cotisation pêche et milieux aquatiques prévue à l'article 10 peut être perçu directement par la Fédération nationale de la pêche et de la protection des milieux aquatiques. Le montant restant des cotisations est reversé aux fédérations départementales ou interdépartementales des associations agréées de pêche et de protection du milieu aquatique.
 
 Durée et siège social
 
@@ -395,7 +399,3 @@ Le secrétaire général,
 Le trésorier,
 
 Déposé à la préfecture le
-
-NOTA :
-
-Arrêté du 9 juin 2010 art 6 : Les nouvelles dispositions du 5 de l'article 5 s'appliquent à compter du 1er août 2010, pour le remplacement des administrateurs en cours de mandat.
