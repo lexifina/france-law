@@ -72,7 +72,7 @@ du corps des bibliothécaires assistants spécialisés
 
 |
 
-Bibliothécaire assistant spécialisé de 1re classe
+Bibliothécaire assistant spécialisé de classe supérieure
 
 |
 
@@ -86,7 +86,7 @@ Pour 2012
 
 |
 
-Bibliothécaire assistant spécialisé hors classe
+Bibliothécaire assistant spécialisé de classe exceptionnelle
 
 |
 
