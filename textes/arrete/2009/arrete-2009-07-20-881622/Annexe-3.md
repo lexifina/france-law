@@ -38,7 +38,7 @@ Toussaint
 
 Samedi 27 octobre 2012
 
-Jeudi 8 novembre 2012
+Lundi 12 novembre 2012
 
 |
 
@@ -96,24 +96,34 @@ Lundi 13 mai 2013
 
 |
 
-Début des vacances d'été (**)
+Une journée de cours à déterminer localement (**)
 
 |
 
-Jeudi 4 juillet 2013
+Cours :
+
+- soit le mercredi 3 avril, soit le mercredi 22 mai
+
+- soit le mercredi 3 avril après-midi et mercredi 22 mai après-midi
 
 |
 
-(*) Deux demi-journées (ou un horaire équivalent), prises en dehors des heures de cours, seront dégagées, avant les vacances de la
+Début des vacances d'été (***)
 
-Toussaint, afin de permettre de prolonger la réflexion engagée lors de la journée de prérentrée.
+|
 
-(**) Les enseignants appelés à participer aux opérations liées aux examens sont en service jusqu'à la date fixée pour la clôture de
+Samedi 6 juillet 2013
 
-ces examens par la note de service établissant le calendrier de la session.
+|
+
+(*) Deux demi-journées (ou un horaire équivalent) prises en dehors des heures de cours seront dégagées, avant les vacances de la Toussaint, afin de permettre de prolonger la réflexion engagée lors de la journée de prérentrée.
+
+(**) Lorsque des cours sont déjà organisés le mercredi matin, la journée de cours sera organisée par demi-journée à ces deux dates. Le choix de la date ou des dates est arrêté par le recteur.
+
+(***) Les enseignants appelés à participer aux opérations liées aux examens sont en service jusqu'à la date fixée pour la clôture de ces examens par la note de service établissant le calendrier de la session.
 
 |
 
 Le départ en vacances a lieu après la classe, la reprise des cours le matin des jours indiqués.
 
-Lorsque les vacances débutent un samedi, pour les élèves qui n'ont pas cours ce jour-là le départ a lieu le vendredi après les cours.
+Lorsque les vacances débutent un samedi, pour les élèves qui n'ont pas cours ce jour-là, le départ a lieu le vendredi après les cours.
