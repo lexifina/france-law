@@ -188,7 +188,7 @@ X
 
 |
 
-Radeau(x) de survie ou annexe(s) de sauvetage
+Radeau (x) de survie
 
 |
 

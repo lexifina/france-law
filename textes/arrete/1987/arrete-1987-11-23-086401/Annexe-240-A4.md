@@ -582,15 +582,7 @@ Radeau classe V Plaisance
 
 |
 
-Radeau EN/ISO 9650
-
-|
-
-|
-
-|
-
-Annexe de sauvetage
+Radeau NF/ISO 9650
 
 |
 
