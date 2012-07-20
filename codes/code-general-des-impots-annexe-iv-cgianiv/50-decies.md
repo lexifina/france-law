@@ -1,6 +1,6 @@
 # Article 50 decies
 
-1. L'exonération de la taxe sur la valeur ajoutée est applicable sous réserve des dispositions du 2 aux oeuvres d'art originales, timbres, objets de collection ou d'antiquité repris aux numéros 97-04, 97-05 et 97-06 du tarif des droits de douane d'importation lorsqu'ils sont destinés :
+1. L'exonération de la taxe sur la valeur ajoutée est applicable sous réserve des dispositions du 2 aux œuvres d'art originales, timbres, objets de collection ou d'antiquité repris aux numéros 97-04, 97-05 et 97-06 du tarif des droits de douane d'importation lorsqu'ils sont destinés :
 
 1° A l'Etablissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées ;
 
@@ -15,3 +15,7 @@
 2° De présenter au bureau des douanes d'importation dans un délai de trente jours un certificat de prise en charge desdits objets dans l'inventaire de l'établissement destinataire.
 
 3. La taxe sur la valeur ajoutée n'est pas due si la cession est faite au bénéfice de l'un des établissements visés au 1.
+
+NOTA :
+
+Décret n° 2011-52 du 13 janvier 2011, art. 1er et 27.
