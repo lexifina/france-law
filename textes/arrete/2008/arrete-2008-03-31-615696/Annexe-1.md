@@ -1,67 +1,87 @@
 # Article Annexe 1
 
-LISTE DES STOCKS SOUMIS À PERMIS DE PÊCHE
+LISTE DES STOCKS SOUMIS À AUTORISATIONS DE PÊCHE EUROPÉENNES
 
-SPÉCIAUX RELATIFS À DES PLANS OU MESURES DE RECONSTITUTION
+RELATIVES À DES PLANS PLURIANNUELS EUROPÉENS
 
-ESPÈCES VISÉES
+PLAN PLURIANNUEL EUROPÉEN
 
-par les mesures de reconstitution ou de gestion
-
-|
-
-ZONES MARITIMES
-
-concernées
+(références réglementaires)
 
 |
 
-RÈGLEMENT
+ESPÈCE (S) VISÉE (S)
 
-communautaire
-
-|
-
-Sole.
+par le plan pluriannuel
 
 |
 
-CIEM VII e (Manche ouest).
+MÉTIER (S) VISÉ (S)
+
+par le plan pluriannuel
 
 |
 
-R (CE) n° 40/2008 du Conseil
+ZONE (S) VISÉE (S)
 
-du 16 janvier 2008.
-
-|
-
-Sole.
+par le plan pluriannuel
 
 |
 
-CIEM VIII a et b (golfe de Gascogne).
+R (CE) n° 509/2007 et R (UE) TAC et quotas annuel
 
 |
 
-R (CE) n° 388/2006 du Conseil
-
-du 23 février 2006.
+Toutes espèces
 
 |
 
-Merlu austral et langoustine.
+Filets et trémails (fixes, maillants, emmêlants) de maillage égal ou inférieur à 220 mm.
+
+Chalut à perche de maillage égal ou supérieur à 80 mm.
 
 |
 
-CIEM VIII c.
-
-CIEM IX a.
+CIEM VII e
 
 |
 
-R (CE) n° 40/2008 du Conseil
+(CE) n° 388/2006 et R (UE) TAC
 
-du 16 janvier 2008.
+|
+
+Sole
+
+|
+
+Tout engin
+
+|
+
+CIEM VIII a et b
+
+(golfe de Gascogne)
+
+|
+
+(CE) n° 2166/2005 et quotas annuel
+
+|
+
+Toutes espèces
+
+|
+
+Chalut de fond, sennes danoise et chaluts similaires d'un maillage égal ou supérieur à 32 mm.
+
+Filets maillant égal ou supérieur à 60 mm.
+
+Palangres de fond.
+
+|
+
+CIEM VIII c
+
+CIEM IX a
 
 |
