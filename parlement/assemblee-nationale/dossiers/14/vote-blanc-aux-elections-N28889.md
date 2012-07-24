@@ -1,0 +1,55 @@
+# Pouvoirs publics : reconnaissance du vote blanc
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N28889
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/vote_blanc_aux_elections
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl12-156.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-07-24 : 1er dépôt d'une initiative. (PIONANR5L14B0107)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-07-24 : Renvoi en commission au fond
+      - 2012-11-07 : Nomination de rapporteur
+      - 2012-11-07 : Réunion de commission
+      - 2012-11-14 : Réunion de commission
+      - 2012-11-22 : Réunion de commission
+      - 2012-11-14 : Dépôt de rapport (RAPPANR5L14B0400)
+  - Discussion en séance publique
+    - 2012-11-22 : Discussion en séance publique
+    - 2012-11-22 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-11-22 : Dépôt d'une initiative en navette (PIONSNR5S199B0156)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-11-22 : Renvoi en commission au fond
+      - 2013-01-30 : Nomination de rapporteur
+      - 2013-02-13 : Dépôt de rapport (RAPPSNR5S199B0357)
+  - Discussion en séance publique
+    - 2013-02-28 : Discussion en séance publique
+    - 2013-02-28 : Décision
+- deuxième lecture
+  - 2013-02-28 : Dépôt d'une initiative en navette (PIONANR5L14B0768)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-02-28 : Renvoi en commission au fond
+      - 2013-11-20 : Réunion de commission
+      - 2013-11-28 : Réunion de commission
+      - 2013-11-20 : Dépôt de rapport (RAPPANR5L14B1563, PIONANR5L14BTC1563)
+  - Discussion en séance publique
+    - 2013-11-28 : Discussion en séance publique
+    - 2013-11-28 : Décision
+- deuxième lecture
+  - 2013-11-28 : Dépôt d'une initiative en navette (PIONSNR5S219B0180)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-11-28 : Renvoi en commission au fond
+      - 2014-02-05 : Dépôt de rapport (RAPPSNR5S219B0338)
+  - Discussion en séance publique
+    - 2014-02-12 : Discussion en séance publique
+    - 2014-02-12 : Décision
+- Promulgation de la loi
+  - 2014-02-21 : Promulgation d'une loi
