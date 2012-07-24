@@ -1,0 +1,9 @@
+# Réponse à la question n° 326
+
+- Question : [326](326.md) — Question n° 326 — politiques communautaires
+
+## Réponse
+
+*JO du 2012-07-24*
+
+La position commune adoptée en décembre 1996 exprime la disposition de l'Union européenne à entreprendre un dialogue politique avec Cuba, tout en conditionnant son intensité à une évolution positive en matière de démocratisation et de droits de l'Homme dans ce pays. Elle prévoit à cet effet un examen annuel de la situation des droits de l'Homme et des réformes économiques entreprises par les autorités cubaines. L'Union européenne a suivi avec beaucoup d'attention les évolutions récentes survenues à Cuba sur le plan des droits de l'Homme, et notamment la libération de 115 prisonniers politiques entre juillet 2010 et mars 2011, ainsi qu'une mesure de grâce à l'égard de près de 3000 prisonniers de droit commun en décembre 2011. Tout en prenant acte des nombreuses réformes économiques entreprises depuis 2011, et notamment de l'introduction de mécanismes de marché dans certains secteurs de l'économie cubaine tels que l'immobilier, l'automobile, la construction, l'agriculture et les métiers du tourisme, l'Union européenne constate également que leur mise en oeuvre n'est que très progressive. Dans ces conditions, il n'y a actuellement pas consensus à Bruxelles entre Etats membres sur la manière de faire évoluer les relations entre l'Union européenne et Cuba. La Haute représentante pour les Affaires étrangères et la politique de sécurité, Madame Ashton, a reçu mandat du conseil des Affaires étrangères, en octobre 2010, pour faire des propositions visant à ouvrir la négociation d'un accord qui doit permettre, à terme, de remplacer la position commune. Ces propositions devraient être présentées aux Etats membres en septembre 2012. Dans cette perspective, la France encourage aujourd'hui le lancement de négociations avec Cuba, tout en proposant de maintenir la position commune jusqu'à ce qu'un accord soit trouvé.
