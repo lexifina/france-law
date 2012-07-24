@@ -6,7 +6,7 @@ Est considéré comme feu une partie chantée à découvert par un artiste lyriq
 
 Quatre artistes lyriques des choeurs de tessiture différente chantant à découvert une partie séparée du choeur perçoivent un feu.
 
-Le minimum du feu est fixé sur la base d'un minimum (cf. titre XIII du présent accord). La revalorisation s'effectue dans le cadre de la négociation annuelle. Ce feu s'entend pour une intervention calculée jusqu'à 10 mesures chantées.
+La rémunération du feu est fixé sur la base d'un minimum. La revalorisation s'effectue dans le cadre de la négociation annuelle. Ce feu s'entend pour une intervention calculée jusqu'à 10 mesures chantées.
 
 Toute difficulté particulière, ou service supplémentaire, doit faire l'objet d'une augmentation du feu à négocier entre le salarié et la direction.
 

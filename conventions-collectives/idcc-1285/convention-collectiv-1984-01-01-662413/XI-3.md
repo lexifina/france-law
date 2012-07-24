@@ -190,6 +190,18 @@ Chargé :
 
 ― et / ou de la promotion et de la diffusion d'un ou plusieurs spectacles.
 
+Bibliothécaire musical : sous l'autorité de la direction il ou elle gère les partitions (inventaire, classement, achat, location).
+
+Préalablement à la première répétition :
+
+- il (elle) recopie les coups d'archet pour les pupitres de cordes ;
+
+- il (elle) recopie les indications données par le chef d'orchestre ;
+
+- il (elle) inscrit les coupures et/ ou ajouts sur la totalité des partitions.
+
+Copiste : à partir de la partition (score) il (elle) réalise (copie) et transpose dans la bonne tonalité les parties séparées de la partition.
+
 Groupe 6
 
 Attaché :
@@ -239,6 +251,8 @@ Reçoit, demande, ventile et comptabilise les communications téléphoniques.
 Employé de bureau :
 
 Exécution de tâches administratives courantes.
+
+Agent de catering : sert les repas et dresse les buffets pour les artistes et les équipes de production.
 
 XI. 3. 2. 2. Filière communication-relations publiques-action culturelle
 
@@ -314,29 +328,17 @@ Chargé d'accueillir, d'orienter, de conseiller et d'informer le public. Doit as
 
 Groupe 9
 
-Hôte d'accueil :
+Hôte (esse) d'accueil : chargé (e) d'accueillir, d'orienter, de conseiller et d'informer le public. Doit assurer les visites. Veille à la bonne présentation des informations destinées au public.
 
-Chargé d'accueillir, d'orienter, de conseiller et d'informer le public. Doit assurer les visites. Veille à la bonne présentation des informations destinées au public.
+Contrôleur (euse) : contrôle l'entrée des salles de spectacles.
 
-Groupe 10
+Hôte (esse) de salle : accueille et place le public dans les salles, assure la diffusion et la vente des programmes.
 
-Contrôleur :
+Employé (e) de routage : accomplit les opérations de routage.
 
-Contrôle l'entrée des salles de spectacles.
+Employé (e) de bar : sert les consommations et assure leur encaissement, assure l'approvisionnement en denrées, assure la plonge du bar.
 
-Hôte de salle :
-
-Accueille et place le public dans les salles. Assure la diffusion et la vente des programmes.
-
-Employé de routage :
-
-Accomplit les opérations de routage.
-
-Employé de bar :
-
-Sert les consommations et assure leur encaissement. Assure l'approvisionnement en denrées. Assure la plonge du bar.
-
-XI. 3. 2. 2. Filière technique
+XI. 3. 2. 3. Filière technique
 
 Groupe 3
 
@@ -446,11 +448,7 @@ Régisseur de lieux de répétition :
 
 Accueille et accompagne techniquement les artistes, gère le parc de matériel, est chargé du respect des lieux.
 
-Régisseur audiovisuel :
-
-Chargé de la mise en oeuvre, du réglage et de la manipulation des appareils audiovisuels dont il peut assurer l'entretien courant.
-
-Peut être chargé de responsabilités de création ou appelé à participer à celle-ci.
+Régisseur (euse) audiovisuel/ vidéo de spectacle : chargé (e) de la mise en œuvre, du réglage et de la manipulation des appareils audiovisuels ou des outils de création, de traitement et de diffusion vidéo, en les adaptant aux contraintes du spectacle. Il (Elle) peut assurer l'entretien courant du matériel et être chargé (e) de responsabilités de création ou appelé (e) à participer à celle-ci.
 
 Régisseur de production :
 

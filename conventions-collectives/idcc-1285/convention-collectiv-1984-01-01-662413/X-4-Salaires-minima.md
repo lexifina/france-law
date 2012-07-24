@@ -34,11 +34,23 @@ La progression du salaire minimum correspondant à chaque échelon est calculée
 
 Lors de son embauche (ou lorsqu'il est promu dans un nouvel emploi au sein de l'entreprise) chaque salarié bénéficie d'un échelon qui lui est attribué par l'employeur en fonction des critères de classement suivants : l'autonomie, l'initiative, la responsabilité, la formation et l'expérience professionnelle.
 
+Lorsque sa possession est requise par l'entreprise, la possession par un salarié d'un diplôme SSIAP doit être prise en compte par l'employeur lors de la fixation contractuelle de la rémunération.
+
 X. 4. 2. Progression de carrière dans l'entreprise
 
 Jusqu'à l'échelon 7, une progression à l'ancienneté se fera au minimum d'un échelon tous les 2 ans, et ce tant que l'échelon 7 n'a pas été atteint.
 
 Au-delà, la progression dans les échelons s'effectue au choix de l'employeur, sur la base d'un entretien professionnel individuel avec le salarié, qui aura lieu au minimum tous les 2 ans et prenant notamment en compte les critères suivants : l'autonomie, l'initiative, la responsabilité, la formation et l'expérience professionnelle.
+
+Tous les salariés engagés en CDD au sein d'une entreprise sont rémunérés sur les mêmes bases que celles dont bénéficient les salariés titulaires de CDI.
+
+Les salariés engagés de manière répétée sous contrats à durée déterminée et appartenant aux filières non artistiques (réf. : art. XI. 3) :
+
+- à condition que le délai écoulé depuis la conclusion de leur premier contrat à durée déterminée avec l'entreprise soit supérieur à 5 ans, et que la durée cumulée des différents contrats dépasse 1 500 heures, ne pourront percevoir un salaire inférieur à celui du 3e échelon ;
+
+- à condition que le délai écoulé depuis la conclusion de leur premier contrat à durée déterminée avec l'entreprise soit supérieur à 10 ans, et que la durée cumulée des différents contrats dépasse 3 000 heures, ne pourront percevoir un salaire inférieur à celui du 6e échelon ;
+
+- à condition que le délai écoulé depuis la conclusion de leur premier contrat à durée déterminée avec l'entreprise soit supérieur à 15 ans, et que la durée cumulée des différents contrats dépasse 4 500 heures, ne pourront percevoir un salaire inférieur à celui du 9e échelon.
 
 X. 4. 3. Rémunération minimum
 
@@ -50,7 +62,7 @@ Les fonctions, prérogatives et responsabilités des cadres ne permettant pas d'
 
 En ce qui concerne les techniciens-agents de maîtrise, dont les horaires de travail ne peuvent être établis avec précision, sous réserve de l'application des articles cités à l'alinéa précédent, les organisations d'employeurs signataires et les organisations syndicales représentatives sur le plan national admettent que la pratique de la rémunération au forfait doit tendre à disparaître.
 
-Pour les cadres et techniciens-agents de maîtrise dont les horaires de travail rentrent dans le cadre de l'aménagement du temps de travail, il ne peut pas y avoir de rémunération au forfait au-delà du contingent des heures supplémentaires défini à l'article VI. 9 de la présente convention (1).
+Pour les cadres et techniciens-agents de maîtrise dont les horaires de travail rentrent dans le cadre de l'aménagement du temps de travail, il ne peut pas y avoir de rémunération au forfait au-delà du contingent des heures supplémentaires défini à l'article VI. 9 de la présente convention.
 
 Le forfait devra être établi à partir d'une base technique de calcul de la moyenne horaire hebdomadaire permettant de faire apparaître le salaire tel que défini à l'article X. 1 de la présente convention.
 
@@ -60,7 +72,7 @@ Les droits légaux, les avantages conventionnels ou résultant de la pratique da
 
 En cas de réduction de l'horaire collectif à temps plein dans les conditions prévues au titre VI de la présente convention, la transposition du maintien du salaire de base équivalant à 169 heures se traduit par une augmentation correspondante du salaire du titulaire d'un contrat de travail à temps partiel et au prorata de son temps de travail effectif, dans les conditions prévues au préambule du présent titre.
 
-Pour les salariés à temps partiel annualisé, l'employeur peut prévoir le principe et les modalités d'une rémunération moyenne mensuelle calculée sur l'ensemble de l'année, périodes travaillées et non travaillées confondues (2).
+Pour les salariés à temps partiel annualisé, l'employeur peut prévoir le principe et les modalités d'une rémunération moyenne mensuelle calculée sur l'ensemble de l'année, périodes travaillées et non travaillées confondues.
 
 X. 4. 6. Maladie
 
@@ -88,7 +100,7 @@ dans le cadre de l'annualisation du temps de travail
 
 Au-delà des 1 575 heures par an, dans le cadre du contingent des 130 heures supplémentaires, les 80 premières heures supplémentaires sont payées, majorées de 25 % et les 50 heures suivantes de 50 %.
 
-X. 4. 9. Majoration de rémunération des heures de nuit (3)
+X. 4. 9. Majoration de rémunération des heures denuit
 
 A défaut d'accord collectif d'entreprise plus favorable, les heures effectuées de nuit :
 
@@ -97,15 +109,3 @@ A défaut d'accord collectif d'entreprise plus favorable, les heures effectuées
 ― dans tous les autres cas entre 1 heure et 6 heures du matin donnent lieu à une majoration de 15 %. Le paiement intervient sur le bulletin de paie de la période concernée.
 
 Dans le cadre de l'aménagement du temps de travail, ces heures majorées s'imputent en tant qu'heures simples sur le contingent annuel des 1 575 heures de travail.
-
-(1) Paragraphe étendu sous réserve de l'application des dispositions de l'article L. 3121-41 du code du travail selon lesquelles la rémunération du salarié en forfait en heures doit être au moins égale à la rémunération minimale applicable dans l'entreprise pour le nombre d'heures correspondantes au forfait, augmentée des majorations pour heures supplémentaires prévues à l'article L. 3121-22 du code du travail.
-
-(Arrêté du 23 décembre 2009, art. 1er)
-
-(2) Paragraphe étendu sous réserve de l'application de l'article 12 de la loi du 19 janvier 2000 relative à la réduction négocie du temps de travail, qui sécurise le dispositif du temps partiel annualisé.
-
-(Arrêté du 23 décembre 2009, art. 1er)
-
-(3) Article étendu sous réserve de l'application des dispositions de l'article L. 3122-31 du code du travail dont il résulte qu'il ne peut être fait application que du seul travail de nuit occasionnel.
-
-(Arrêté du 23 décembre 2009, art. 1er)

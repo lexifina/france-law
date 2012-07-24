@@ -2,7 +2,7 @@
 
 Ces dispositions précisent les dispositions du titre VIII.
 
-Sont seuls concernés par ce titre les artistes lyriques en CDI et CDD salariés par les choeurs lyriques permanents.
+Sont seuls concernés par ce titre les artistes lyriques en CDI et CDD salariés par les chœurs lyriques permanents à l'exception de l'article XVI. 3.3 qui concerne tous les artistes lyriques des chœurs.
 
 XVI. 3. 1. Dispositions relatives au temps de travail
 

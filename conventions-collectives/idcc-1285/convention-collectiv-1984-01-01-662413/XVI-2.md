@@ -1,6 +1,6 @@
 # Article XVI.2
 
-XVI. 2. 1. Temps de travail effectif
+XVI. 2.1. Temps de travail effectif
 
 Artistes lyriques engagés en CDI
 
@@ -10,7 +10,7 @@ Durée du travail
 
 Les artistes lyriques des choeurs sont soumis à un horaire collectif spécifique conciliant les impératifs liés à l'activité d'interprétation de productions lyrique et l'amélioration des conditions de travail dans le respect de la vie personnelle et familiale.
 
-L'horaire de référence mensuel des artistes lyriques des choeurs à temps plein est de 151, 40 heures.
+L'horaire de référence mensuel des artistes lyriques des choeurs à temps plein est de 151,40 heures.
 
 Les entreprises peuvent toutefois décider de mettre en place un aménagement du temps de travail dans un cadre trimestriel dans les conditions définies ci-après.
 
@@ -70,7 +70,7 @@ Toutefois, en dehors des répétitions, des représentations et des enregistreme
 
 Ce travail indispensable non repérable, et par conséquent difficile à apprécier, est une réalité indéniable qui doit être pris en compte dans l'organisation et la rémunération de l'artiste.
 
-XVI. 2. 2. Organisation du travail
+XVI. 2.2. Organisation du travail
 
 pour les artistes lyriques engagés en CDI
 
@@ -100,7 +100,7 @@ Le temps consacré aux répétitions, aux enregistrements et aux représentation
 
 ― représentation : 1 service d'une durée équivalente à la durée de l'ouvrage entrecoupé des pauses d'entracte.
 
-Les dispositions relatives au dépassement de la durée des services de répétition et représentation sont indiquées à l'article XIII. 5. 3.
+Les dispositions relatives au dépassement de la durée des services de répétitions et représentation sont indiquées à l'article XVI. 4.
 
 Lors des représentations, les artistes lyriques des choeurs doivent être présents dans l'entreprise à l'heure fixée par accord d'entreprise et au maximum 50 minutes avant la représentation, ce temps s'ajoutant à la durée du service.
 
@@ -162,7 +162,7 @@ Chaque salarié bénéficie d'au moins 1 jour de repos fixe dans la semaine. En 
 
 Les dispositions de travail du dimanche s'appliquent aux jours fériés.
 
-XVI. 2. 3. Organisation du travail
+XVI. 2.3. Organisation du travail
 
 pour les artistes lyriques engagés en CDD
 
@@ -178,7 +178,7 @@ Durée du travail
 
 La durée quotidienne de travail effectif de chaque artiste lyrique ne peut excéder les durées prévues par l'article VI. 6 de la convention collective.
 
-Les artistes ne peuvent être convoqués à des répétitions, enregistrements ou représentations tels que définis ci-après pour une durée cumulée qui dépasse 6 heures pour les temps 1, 2, 3 et 4 définis au paragraphe XIII. 2. 1 ci-avant. Cette durée pourra être complétée de 1 heure, qui ne pourra comporter que des tâches relevant du temps 4.
+Les artistes ne peuvent être convoqués à des répétitions, enregistrements ou représentations tels que définis ci-après pour une durée cumulée qui dépasse 6 heures pour les temps 1,2,3 et 4 définis au paragraphe XVI. 2.1 ci-avant. Cette durée pourra être complétée de 1 heure, qui ne pourra comporter que des tâches relevant du temps 4.
 
 a) Période de répétition et d'enregistrement
 
@@ -196,7 +196,7 @@ b) Période de représentation
 
 Le raccord ou la balance et la représentation qui suit comptent pour une seule convocation.
 
-Le raccord ou la balance est le temps consacré à la répétition précédant immédiatement une représentation. Il ne peut excéder 1 h 30. Durant le raccord ou la balance, la durée du travail vocal (temps 1, 2 et 3 tels que définis au chapitre XIII. 2. 1) ne pourra dépasser la moitié de la durée de l'oeuvre.
+Le raccord ou la balance est le temps consacré à la répétition précédant immédiatement une représentation. Il ne peut excéder 1 h 30. Durant le raccord ou la balance, la durée du travail vocal (temps 1,2 et 3 tels que définis au chapitre XIII. 2.1) ne pourra dépasser la moitié de la durée de l'oeuvre.
 
 Un spectacle de durée normale (1 h 30 à 3 heures, entracte compris) ne peut être joué plus de 2 fois le même jour ni (sous réserve d'une dérogation par mois) 2 jours consécutifs en matinée et soirée.
 
@@ -204,7 +204,7 @@ Un spectacle de courte durée est défini comme un spectacle d'au plus 1 heure a
 
 ― concert a cappella ;
 
-― parties chantées représentant plus des 3 / 4 de la durée de la représentation ;
+― parties chantées représentant plus des 3/4 de la durée de la représentation ;
 
 De plus il ne peut être donné :
 
@@ -214,7 +214,7 @@ De plus il ne peut être donné :
 
 Affichage du plan de travail
 
-Un planning détaillé est transmis à l'artiste au plus tard 72 heures avant le début de son engagement. En cas d'impondérable, l'employeur s'autorise toute modification de dernière minute.L'employeur devra s'assurer que l'artiste-interprète a pu en prendre connaissance.
+Un planning détaillé est transmis à l'artiste au plus tard 72 heures avant le début de son engagement. En cas d'impondérable, l'employeur s'autorise toute modification de dernière minute. L'employeur devra s'assurer que l'artiste-interprète a pu en prendre connaissance.
 
 Repos
 

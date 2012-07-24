@@ -1,4 +1,4 @@
-# Article 3-3
+# Article III.3
 
 III.3.1. Financement et gestion des oeuvres sociales
 
@@ -96,29 +96,29 @@ Article 7
 
 L'assemblée générale se compose de :
 
-― 20 délégués du personnel des entreprises de moins de 10 salariés élus ainsi qu'il est dit à l'article 8 ;
+- 20 délégués du personnel ou représentants du personnel en cas de carence aux élections du délégué du personnel, des entreprises de moins de 10 salariés élus ainsi qu'il est dit à l'article 8 ;
 
-― 40 représentants des salariés intermittents du spectacle tels que définis par l'article III. 1. 2 de la présente convention élus ainsi qu'il est dit à l'article 8 ;
+- 40 représentants des salariés intermittents du spectacle tels que définis par l'article III. 1.2 de la présente convention élus ainsi qu'il est dit à l'article 8 ;
 
-― 1 représentant de chaque comité d'entreprise des structures employant de 10 à 50 salariés définies par l'article III. 2. 2 de la présente convention ;
+- 1 représentant de chaque comité d'entreprise des structures employant de 10 à 50 salariés définies par l'article III. 2.2 de la présente convention ;
 
-― 1 représentant de chaque comité d'entreprise des structures entrant dans le champ d'application de la présente convention collective employant plus de 50 salariés lorsque celui-ci a décidé de cotiser au FNAS dans les conditions prévues à l'article III. 2. 1.
+- 1 représentant de chaque comité d'entreprise des structures entrant dans le champ d'application de la présente convention collective employant plus de 50 salariés lorsque celui-ci a décidé de cotiser au FNAS dans les conditions prévues à l'article III. 2.1 ;
 
 Participent également aux travaux de l'assemblée générale avec voix consultative :
 
-― 1 représentant de chaque syndicat professionnel de salariés représentatif au niveau national ;
+- 1 représentant de chaque syndicat professionnel de salariés représentatif au niveau national ;
 
-― la commission de suivi, qui mandate son président aux fins de communication de son rapport, ainsi que pour débattre avec l'assemblée générale des questions qu'elle aurait fait porter à l'ordre du jour.
+- la commission de suivi, qui mandate son président aux fins de communication de son rapport, ainsi que pour débattre avec l'assemblée générale des questions qu'elle aurait fait porter à l'ordre du jour.
 
 Article 8
 
 La désignation des représentants à l'assemblée générale s'effectue de la manière suivante :
 
-― les 20 représentants des entreprises de moins de 10 salariés sont élus par tous les salariés de ces entreprises. Cette élection a lieu par correspondance sur les listes syndicales établies par les organisations de salariés représentatives au plan national à la proportionnelle à un tour. Le scrutin se déroule selon les modalités des élections professionnelles prévues au code du travail et selon les dispositions du règlement intérieur. Les premiers élus, au plus grand nombre de voix, occupent les sièges prévus pour ce collège au conseil de gestion ;
+- les 20 représentants des entreprises de moins de 10 salariés sont élus par tous les salariés de ces entreprises. Cette élection a lieu par correspondance sur listes syndicales établies par les organisations de salariés représentatives au plan national à la proportionnelle à un tour. Le scrutin se déroule selon les modalités des élections professionnelles prévues au code du travail à la représentation proportionnelle sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement intérieur. Au cours de ce même scrutin, et selon les mêmes modalités de calcul, seront élus les 3 représentants de ce collège au conseil de gestion ;
 
-― les 40 représentants des salariés intermittents du spectacle sont élus par l'ensemble des salariés intermittents ayant eu leurs droits ouverts au cours des 2 dernières années, selon les modalités fixées par le règlement intérieur. Cette élection a lieu par correspondance sur listes syndicales établies par les organisations de salariés représentatives au plan national à la proportionnelle selon les modalités des élections professionnelles prévues au code du travail et selon les dispositions du règlement intérieur. Les premiers élus, au plus grand nombre de voix, occupent les sièges prévus pour ce collège au conseil de gestion ;
+- les 40 représentants des salariés intermittents du spectacle sont élus par l'ensemble des salariés intermittents ayant eu leurs droits ouverts au cours des 2 dernières années, selon les modalités fixées par le règlement intérieur. Cette élection a lieu par correspondance sur listes syndicales établies par les organisations de salariés représentatives au plan national à la représentation proportionnelle selon les modalités des élections professionnelles prévues au code du travail sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement intérieur. Au cours de ce même scrutin, et selon les mêmes modalités de calcul, seront élus les 7 représentants de ce collège au conseil de gestion ;
 
-― les représentants des comités d'entreprise (ceux des structures employant de 10 à 50 salariés et ceux des structures de plus de 50 salariés ayant décidé d'adhérer volontairement au FNAS) sont désignés par leur propre comité d'entreprise.
+- les représentants des comités d'entreprises (ceux des structures employant de 10 à 50 salariés, et ceux des structures de plus de 50 salariés ayant décidé d'adhérer volontairement au FNAS) sont désignés par leur propre comité d'entreprise.
 
 Article 9
 
@@ -178,31 +178,31 @@ L'association est administrée par un conseil de gestion. Le conseil de gestion 
 
 Le conseil de gestion :
 
-― élabore les orientations et projets d'activités de l'association et le projet de budget correspondant, qui sont soumis à l'approbation de l'assemblée générale ;
+- élabore les orientations et projets d'activités de l'association et le projet de budget correspondant, qui sont soumis à l'approbation de l'assemblée générale ;
 
-― assure la gestion des activités et du budget approuvés par l'assemblée générale ;
+- assure la gestion des activités et du budget approuvés par l'assemblée générale ;
 
-― approuve les rapports moral et financier soumis à l'approbation de l'assemblée générale ;
+- approuve les rapports moral et financier soumis à l'approbation de l'assemblée générale ;
 
-― en collaboration avec la commission de suivi, est chargé d'établir la nature et de rédiger la forme des renseignements que les entreprises cotisantes doivent fournir à l'association pour remplir ses missions ;
+- est chargé, en collaboration avec la commission de suivi, d'établir la nature et de rédiger la forme des renseignements que les entreprises cotisantes doivent fournir à l'association pour remplir ses missions ;
 
-― entre les sessions de l'assemblée générale est doté des plus larges pouvoirs pour assurer la gestion des activités de l'association.
+- est doté, entre les sessions de l'assemblée générale, des plus larges pouvoirs pour assurer la gestion des activités de l'association.
 
 Le conseil de gestion est composé de 17 représentants, à savoir :
 
-― 3 représentants pour les structures employant moins de 10 salariés ;
+- 3 représentants pour les structures employant moins de 10 salariés ;
 
-― 7 représentants pour les salariés intermittents ;
+- 7 représentants pour les salariés intermittents ;
 
-― 7 représentants pour les salariés des structures employant entre 10 et 50 salariés constitués en comité d'entreprise dont 1 représentant des plus de 50 autant que possible.
+- 7 représentants pour les salariés des structures employant entre 10 et 50 salariés constitués en comité d'entreprise, dont 1 représentant des plus de 50 autant que possible.
 
 Les représentants sont désignés comme suit :
 
-― ceux représentant des structures de moins de 10 salariés sont les élus ayant obtenu le plus grand nombre de voix lors de leur élection à l'assemblée générale (cf. art. 8) ;
+- ceux représentant des structures de moins de 10 salariés sont élus lors de leur élection à l'assemblée générale (cf. art. 8) ;
 
-― ceux représentant les intermittents sont les élus ayant obtenu le plus grand nombre de voix lors de leur élection à l'assemblée générale (cf. art. 8) ;
+- ceux représentant les salariés intermittents sont élus lors de leur élection à l'assemblée générale (cf. art. 8) ;
 
-― ceux représentant des structures possédants un comité d'entreprise sont élus lors de l'assemblée générale par leur collège, sur les listes syndicales établies par les organisations de salariés représentatives au plan national à la proportionnelle selon les modalités des élections professionnelles prévues au code du travail et selon les dispositions du règlement intérieur.
+- ceux représentant des structures ayant constitué un comité d'entreprise sont élus lors de l'assemblée générale par leur collège, sur listes syndicales établies par les organisations de salariés représentatives au plan national selon les modalités des élections professionnelles prévues au code du travail à la représentation proportionnelle sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement intérieur.
 
 La durée du mandat des membres élus du conseil de gestion est fixée à 2 ans.
 

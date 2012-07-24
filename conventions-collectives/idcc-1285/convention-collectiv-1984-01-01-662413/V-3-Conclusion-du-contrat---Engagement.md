@@ -1,4 +1,4 @@
-# Article V.3 : Conclusion du contrat - Engagement
+# Article V.3
 
 L'embauche est faite ordinairement sous le régime du contrat à durée indéterminée.
 
@@ -51,6 +51,8 @@ et, le cas échéant :
 ― les conditions particulières éventuelles.
 
 En cas de salarié soumis à la journée continue, ce mode d'organisation et son caractère doivent être précisés dans le contrat, dans un avenant ou un accord d'établissement.
+
+Pour les filières autres qu'artistiques (réf. : art. XI. 3) le temps lié à l'élaboration et la préparation du spectacle, donnant lieu à des tâches effectuées hors de l'entreprise, doit être précisé dans le contrat de travail, ainsi que la rémunération, les modalités et les moyens mis à disposition du salarié pour la réalisation de ces tâches.
 
 En cas d'accord entre les parties, toute modification des éléments précités devra faire l'objet d'un avenant écrit au plus tard 15 jours ouvrés après l'accord verbal des parties.
 

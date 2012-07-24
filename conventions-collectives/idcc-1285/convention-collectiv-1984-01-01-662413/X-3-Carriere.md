@@ -68,7 +68,7 @@ C. ― Artiste chorégraphique engagé en CDD
 
 de moins de 1 mois
 
-Pour les répétitions : la rémunération minimale journalière pour 4 heures de travail figure dans l'annexe Salaires, et est revalorisée lors de la NAO. La rémunération de chaque heure effectuée en sus des 4 heures ci-avant est indivisible. Son montant figure dans l'annexe Salaires, et est revalorisé lors de la NAO.
+Pour les répétitions : selon les modalités prévues à l'article XIV. 2.1, la rémunération des répétitions et des activités connexes est assurée par services. Le montant de cette rémunération figure dans l'annexe " Salaires " et il est revalorisé lors de la NAO.
 
 Pour les représentations : lorsqu'une journée est consacrée à des représentations la rémunération est assurée au cachet forfaitaire ; chaque cachet assurant la rémunération d'une représentation.
 
@@ -182,9 +182,7 @@ Le montant minimum du cachet forfaitaire journalier varie en fonction des condit
 
 ― durée maximale de la prestation de chaque artiste limitée à 45 minutes.L'application du salaire minimum spécifique " plateau découvertes ” doit être indiquée en clair dans le contrat d'engagement.
 
-D. ― Artistes musiciens engagés par des entreprises
-
-non concernées par les articles X. 2. 3.A, B, C
+D. ― Artistes musiciens engagés par des entreprises non concernées par les articles X. 3.3. A, B, C
 
 Les artistes musiciens, qu'ils soient titulaires de CDI ou de CDD d'une durée supérieure à 1 mois, ou de CDDU d'une durée supérieure à 1 mois, perçoivent une rémunération mensuelle brute d'un montant au moins égal à celui figurant à l'annexe Salaires de la convention (tableau " Autres entreprises ”), montant revalorisé lors de la NAO.
 
@@ -199,6 +197,12 @@ X. 3. 4. 1. Artistes de choeur
 A. ― Rémunération mensualisée
 
 Les artistes, qu'ils soient titulaires de CDI ou de CDD d'une durée supérieure à 1 mois, perçoivent une rémunération mensuelle brute d'un montant au moins égal à celui figurant à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
+
+Le salaire minimum :
+
+- inclut les primes structurelles versées automatiquement chaque mois, indexées sur la progression des salaires ;
+
+- exclut des primes spécifiques liées aux productions.
 
 B. ― Rémunération au cachet
 
