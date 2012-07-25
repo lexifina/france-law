@@ -1,0 +1,72 @@
+# Logement et urbanisme : logement social (1)
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29020
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/mobilisation_foncier_public_logement
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl11-750.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-09-05 : 1er dépôt d'une initiative. (PRJLSNR5S198B0750)
+  - 2012-09-05 : Etude d'impact (ETDISNR5S198B0750)
+  - 2012-09-05 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-09-05 : Renvoi en commission au fond
+      - 2012-07-25 : Nomination de rapporteur
+      - 2012-09-11 : Dépôt de rapport (RAPPSNR5S198B0757)
+    - Travaux d'une commission saisie pour avis
+      - 2012-09-11 : Saisine pour avis d'une commission
+      - 2012-09-11 : Nomination de rapporteur
+      - 2012-09-11 : Dépôt de rapport (AVISSNR5S198B0758)
+  - Discussion en séance publique
+    - 2012-09-11 : Discussion en séance publique
+    - 2012-09-12 : Discussion en séance publique
+    - 2012-09-13 : Discussion en séance publique
+    - 2012-09-13 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-09-13 : Dépôt d'une initiative en navette (PRJLANR5L14B0195)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-09-13 : Renvoi en commission au fond
+      - 2012-09-18 : Nomination de rapporteur
+      - 2012-09-18 : Réunion de commission
+      - 2012-09-20 : Réunion de commission
+      - 2012-09-20 : Réunion de commission
+      - 2012-09-24 : Réunion de commission
+      - 2012-09-25 : Réunion de commission
+      - 2012-09-21 : Dépôt de rapport (RAPPANR5L14B0200, PRJLANR5L14BTC0200)
+    - Travaux d'une commission saisie pour avis
+      - 2012-09-05 : Saisine pour avis d'une commission
+      - 2012-09-11 : Nomination de rapporteur
+      - 2012-09-18 : Réunion de commission
+      - 2012-09-18 : Dépôt de rapport (AVISANR5L14B0196)
+  - Discussion en séance publique
+    - 2012-09-24 : Discussion en séance publique
+    - 2012-09-24 : Discussion en séance publique
+    - 2012-09-25 : Discussion en séance publique
+    - 2012-09-25 : Discussion en séance publique
+    - 2012-09-26 : Discussion en séance publique
+    - 2012-09-26 : Discussion en séance publique
+    - 2012-09-26 : Décision
+- Commission Mixte Paritaire
+  - 2012-09-27 : Dépôt d'un projet de loi (PRJLSNR5S198B0785)
+  - 2012-09-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-10-04 : Nomination de rapporteur
+    - 2012-10-04 : Dépôt du rapport d'une CMP (RAPPANR5L14B0247)
+    - 2012-10-04 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0015)
+  - Discussion en séance publique
+    - 2012-10-09 : Discussion en séance publique
+    - 2012-10-09 : Décision
+  - Discussion en séance publique
+    - 2012-10-10 : Discussion en séance publique
+    - 2012-10-10 : Discussion en séance publique
+    - 2012-10-10 : Décision
+  - 2012-10-05 : Décision de la CMP
+- Conseil constitutionnel
+  - 2012-10-10 : Saisine du conseil constitutionnel
+  - 2012-10-13 : Saisine du conseil constitutionnel
+  - 2012-10-24 : Conclusion du conseil constitutionnel
