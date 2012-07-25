@@ -1,0 +1,64 @@
+# Outre-mer : régulation économique
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29021
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/regulation_economique_outre-mer
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl11-751.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-09-05 : 1er dépôt d'une initiative. (PRJLSNR5S198B0751)
+  - 2012-09-05 : Etude d'impact (ETDISNR5S198B0751)
+  - 2012-09-05 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-09-05 : Renvoi en commission au fond
+      - 2012-07-25 : Nomination de rapporteur
+      - 2012-09-25 : Dépôt de rapport (RAPPSNR5S198B0779)
+    - Travaux d'une commission saisie pour avis
+      - 2012-09-12 : Saisine pour avis d'une commission
+      - 2012-09-12 : Nomination de rapporteur
+      - 2012-09-26 : Dépôt de rapport (AVISSNR5S198B0781)
+  - Discussion en séance publique
+    - 2012-09-26 : Discussion en séance publique
+    - 2012-09-26 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-09-27 : Dépôt d'une initiative en navette (PRJLANR5L14B0233)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-09-27 : Renvoi en commission au fond
+      - 2012-09-20 : Nomination de rapporteur
+      - 2012-09-20 : Réunion de commission
+      - 2012-10-02 : Réunion de commission
+      - 2012-10-03 : Réunion de commission
+      - 2012-10-03 : Dépôt de rapport (RAPPANR5L14B0245, PRJLANR5L14BTC0245)
+    - Travaux d'une commission saisie pour avis
+      - 2012-09-27 : Saisine pour avis d'une commission
+      - 2012-09-18 : Nomination de rapporteur
+      - 2012-10-03 : Réunion de commission
+      - 2012-10-03 : Dépôt de rapport (AVISANR5L14B0243)
+  - Discussion en séance publique
+    - 2012-10-09 : Discussion en séance publique
+    - 2012-10-10 : Discussion en séance publique
+    - 2012-10-10 : Discussion en séance publique
+    - 2012-10-10 : Décision
+- Commission Mixte Paritaire
+  - 2012-10-11 : Dépôt d'un projet de loi (PRJLSNR5S199B0044)
+  - 2012-10-11 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-10-25 : Nomination de rapporteur
+    - 2012-10-25 : Dépôt du rapport d'une CMP (RAPPANR5L14B0334)
+    - 2012-10-25 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0089)
+  - Discussion en séance publique
+    - 2012-11-07 : Discussion en séance publique
+    - 2012-11-07 : Décision
+  - Discussion en séance publique
+    - 2012-11-15 : Discussion en séance publique
+    - 2012-11-15 : Décision
+  - 2012-10-29 : Décision de la CMP
+- Promulgation de la loi
+  - 2012-11-20 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2015-12-16 : Rapport sur l'application des lois (RINFANR5L14B3363)
