@@ -2,8 +2,6 @@
 
 Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du code des pensions militaires d'invaladité et des victimes de la guerre
 
-.
-
 Etat ou territoires concernés
 
 |
@@ -30,7 +28,7 @@ Opérations Héraclès, Pamir et Epidote
 
 |
 
-2 octobre 2011
+2 octobre 2013
 
 |
 
@@ -128,7 +126,7 @@ Opérations Licorne et Calao (ONUCI)
 
 |
 
-17 septembre 2010
+17 septembre 2012
 
 |
 
@@ -169,6 +167,22 @@ Opérations militaires
 |
 
 29 juillet 2003
+
+|
+
+Haiti
+
+|
+
+Dans le cadre de la mission des Nations unies de stabilisation en Haïti (MINUSTAH) sur les territoires de la République d'Haïti et des pays et eaux avoisinants
+
+|
+
+19 février 2004
+
+|
+
+18 février 2012
 
 |
 
@@ -222,7 +236,23 @@ Opérations Daman (FINUL) et Baliste
 
 |
 
-31 août 2010
+31 août 2012
+
+|
+
+République du Liberia
+
+|
+
+Dans le cadre de l'opération MINUL (Mission des Nations unies au Liberia) sur le territoire de la République du Liberia
+
+|
+
+1er mai 2011
+
+|
+
+30 avril 2013
 
 |
 
@@ -328,7 +358,7 @@ Opération Boali
 
 |
 
-2 décembre 2010
+1er décembre 2012
 
 |
 
@@ -362,7 +392,7 @@ Dans le cadre de l'opération menée au titre de la police des Nations unies (MI
 
 |
 
-Dans le cadre de l'opération EUFOR Tchad / RCA sur le territoire du Tchad, de la République centrafricaine et pays avoisinants
+Dans le cadre de l'opération EUFOR Tchad/ RCA sur le territoire du Tchad, de la République centrafricaine et pays avoisinants
 
 |
 
@@ -370,7 +400,7 @@ Dans le cadre de l'opération EUFOR Tchad / RCA sur le territoire du Tchad, de l
 
 |
 
-27 janvier 2011
+27 janvier 2010
 
 |
 
@@ -406,6 +436,18 @@ Opérations Mamba et MONUC
 
 |
 
+Dans le cadre de l'opération MONUSCO (Mission de l'organisation des Nations unies pour la stabilisation en République démocratique du Congo) sur le territoire de la République démocratique du Congo
+
+|
+
+2 juin 2011
+
+|
+
+1er juin 2013
+
+|
+
 Somalie
 
 |
@@ -422,6 +464,18 @@ Somalie et ses approches maritimes et aériennes.
 
 |
 
+Dans le cadre de la mission de l'Union africaine de Somalie (African Mission in Somalia) sur les territoires de la République fédérale démocratique d'Ethiopie, de la République de Somalie et ses eaux avoisinantes
+
+|
+
+23 septembre 2008
+
+|
+
+22 septembre 2012
+
+|
+
 Tchad et pays avoisinants
 
 |
@@ -430,7 +484,7 @@ Tchad et pays avoisinants
 
 |
 
-31 décembre 2009
+31 décembre 2011
 
 |
 
@@ -464,7 +518,7 @@ Dans le cadre de l'opération menée au titre de la police des Nations unies (MI
 
 |
 
-Dans le cadre de l'opération EUFOR Tchad / RCA sur le territoire du Tchad, de la République Centrafricaine et pays avoisinants
+Dans le cadre de l'opération EUFOR Tchad/ RCA sur le territoire du Tchad, de la République Centrafricaine et pays avoisinants
 
 |
 
@@ -472,7 +526,7 @@ Dans le cadre de l'opération EUFOR Tchad / RCA sur le territoire du Tchad, de l
 
 |
 
-27 janvier 2011
+27 janvier 2010
 
 |
 
@@ -515,6 +569,18 @@ Opérations Trident, Astrée et Proxima
 |
 
 31 décembre 2009
+
+|
+
+Opération Trident
+
+|
+
+1er janvier 1995
+
+|
+
+31 décembre 2011
 
 |
 
