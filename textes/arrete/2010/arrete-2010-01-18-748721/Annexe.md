@@ -52,7 +52,9 @@ Corps des adjoints administratifs des administrations de l'Etat
 
 relevant des ministres chargés des affaires sociales
 
-Décret n° 2006-1760 du 23 décembre 2006 modifié |
+Décret n° 2006-1760 du 23 décembre 2006 modifié
+
+|
 
 Adjoint administratif de 1re classe
 
@@ -75,6 +77,14 @@ Adjoint administratif principal de 1re classe
 |
 
 13 %
+
+|
+
+Echelon spécial du grade d'adjoint administratif principal de 1re classe
+
+|
+
+30 %
 
 |
 
@@ -124,7 +134,9 @@ Corps des adjoints techniques des administrations de l'Etat
 
 relevant des ministres chargés des affaires sociales
 
-Décret n° 2006-1761 du 23 décembre 2006 modifié |
+Décret n° 2006-1761 du 23 décembre 2006 modifié
+
+|
 
 Adjoint technique de 1re classe
 
@@ -162,7 +174,9 @@ TAUX APPLICABLES
 
 Corps des ingénieurs du génie sanitaire
 
-Décret n° 90-973 du 30 octobre 1990 modifié |
+Décret n° 90-973 du 30 octobre 1990 modifié
+
+|
 
 Ingénieur en chef du génie sanitaire
 
@@ -182,7 +196,9 @@ Ingénieur général du génie sanitaire
 
 Corps des ingénieurs d'études sanitaires
 
-Décret n° 90-975 du 30 octobre 1990 modifié |
+Décret n° 90-975 du 30 octobre 1990 modifié
+
+|
 
 Ingénieur d'études principal
 
@@ -194,11 +210,11 @@ Ingénieur d'études principal
 
 Corps des techniciens sanitaires
 
-Décret n° 96-41 du 17 janvier 1996 modifié |
-
-Technicien principal
+Décret n° 96-41 du 17 janvier 1996 modifié
 
 |
+
+Technicien principal |
 
 19 %
 
@@ -220,9 +236,7 @@ et décret n° 2007-655 du 30 avril 2007
 
 |
 
-Adjoint sanitaire de 1re classe
-
-|
+Adjoint sanitaire de 1re classe |
 
 25 %
 
@@ -244,6 +258,14 @@ Adjoint sanitaire principal de 1re classe
 
 |
 
+Echelon spécial du grade d'adjoint sanitaire principal de 1re classe
+
+|
+
+50 %
+
+|
+
 Filière socio-éducative
 
 CORPS ET GRADES
@@ -260,9 +282,7 @@ Décret n° 91-783 du 1er août 1991 modifié
 
 |
 
-Assistant de service social principal
-
-|
+Assistant de service social principal |
 
 10 %
 
