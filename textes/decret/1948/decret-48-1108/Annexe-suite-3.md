@@ -136,7 +136,9 @@ Attaché d'administration de l'éducation nationale et de l'enseignement supéri
 
 |
 
-(250)(280)(305)(340) |
+(250) (280)
+
+(305)(340) |
 
 Echelons provisoires |
 
@@ -684,29 +686,17 @@ Secrétaire général
 
 |
 
-Médecin de l'éducation nationale, conseiller technique
+Abrogé
 
 |
 
-801 -1015 (a)
+|
 
 |
 
-(a)
+Abrogé
 
 |
-
-Médecin de l'éducation nationale
-
-1re classe
-
-2e classe
-
-|
-
-750 - 1015
-
-427 - 852
 
 |
 
@@ -1018,7 +1008,13 @@ Directeur de recherches, directeur de laboratoire
 
 |
 
-(1) Les indices prévus pour les maîtres de recherches et les directeurs ne concernent que le personnel du cadre. Les maîtres de conférences et les professeurs de facultés détachés pour servir dans ce cadre conservent le cas échéant les indices de leur cadre d'origine
+(1) Les indices prévus pour les maîtres de recherches
+
+et les directeurs ne concernent que le personnel du cadre.
+
+Les maîtres de conférences et les professeurs de facultés
+
+détachés pour servir dans ce cadre conservent le cas échéant les indices de leur cadre d'origine
 
 |
 
