@@ -2,9 +2,7 @@
 
 I. - TABLEAU DE CORRESPONDANCE
 
-ministère de l'éducation nationale
-
-et ministère de l'enseignement supérieur et de la recherche
+Ministère de l'éducation nationale et ministère de l'enseignement supérieur et de la recherche
 
 GRADES DU CORPS D'ORIGINE
 
@@ -238,7 +236,7 @@ Attaché principal d'administration de l'éducation nationale et de l'enseigneme
 
 |
 
-Attaché territorial principal .
+Attaché territorial principal.
 
 |
 
@@ -254,7 +252,7 @@ Secrétaire d'administration scolaire et universitaire de classe exceptionnelle.
 
 |
 
-Rédacteur territorial chef.
+Rédacteur territorial principal de 1re classe.
 
 |
 
@@ -262,7 +260,7 @@ Secrétaire d'administration scolaire et universitaire de classe supérieure.
 
 |
 
-Rédacteur territorial principal.
+Rédacteur territorial principal de 2e classe.
 
 |
 
@@ -308,7 +306,7 @@ Adjoint administratif territorial de 2e classe
 
 II. - TABLEAU DE CORRESPONDANCE
 
-ministère de l'agriculture et de la pêche
+Ministère de l'agriculture et de la pêche
 
 GRADES DU CORPS D'ORIGINE
 
@@ -494,7 +492,7 @@ Secrétaire administratif du ministère de l'agriculture et de la pêche de clas
 
 |
 
-Rédacteur territorial chef.
+Rédacteur territorial principal de 1re classe.
 
 |
 
@@ -502,7 +500,7 @@ Secrétaire administratif du ministère de l'agriculture et de la pêche de clas
 
 |
 
-Rédacteur territorial principal.
+Rédacteur territorial principal de 2e classe.
 
 |
 
@@ -548,7 +546,7 @@ Adjoint administratif territorial de 2e classe.
 
 III. - TABLEAU DE CORRESPONDANCE
 
-ministère de l'écologie, de l'énergie,
+Ministère de l'écologie, de l'énergie,
 
 du développement durable et de l'aménagement du territoire
 
@@ -976,7 +974,7 @@ Secrétaire administratif de classe exceptionnelle.
 
 |
 
-Rédacteur territorial chef.
+Rédacteur territorial principal de 1re classe.
 
 |
 
@@ -984,7 +982,7 @@ Secrétaire administratif de classe supérieure.
 
 |
 
-Rédacteur territorial principal.
+Rédacteur territorial principal de 2e classe.
 
 |
 
@@ -1028,7 +1026,7 @@ Adjoint administratif territorial de 2e classe.
 
 |
 
-IV. - Tableau de correspondance
+IV. - TABLEAU DE CORRESPONDANCE
 
 Ministère de la culture et de la communication
 
@@ -1318,7 +1316,7 @@ Secrétaire administratif de classe supérieure.
 
 |
 
-Rédacteur territorial principal.
+Rédacteur territorial principal de 2e classe.
 
 |
 
@@ -1326,7 +1324,7 @@ Secrétaire administratif de classe exceptionnelle.
 
 |
 
-Rédacteur territorial en chef.
+Rédacteur territorial principal de 1re classe.
 
 |
 
@@ -1412,7 +1410,7 @@ Adjoint administratif territorial principal de 1re classe.
 
 V. - TABLEAU DE CORRESPONDANCE
 
-ministère du travail, des relations sociales, de la famille et de la solidarité
+Ministère du travail, des relations sociales, de la famille et de la solidarité
 
 ministère de la santé, de la jeunesse, des sports et de la vie associative
 
@@ -1688,7 +1686,7 @@ Secrétaire administratif de classe exceptionnelle.
 
 |
 
-Rédacteur territorial en chef.
+Rédacteur territorial principal de 1re classe.
 
 |
 
@@ -1696,7 +1694,7 @@ Secrétaire administratif de classe supérieure.
 
 |
 
-Rédacteur territorial principal.
+Rédacteur territorial principal de 2e classe.
 
 |
 
@@ -1742,7 +1740,7 @@ Adjoint administratif territorial de 2e classe.
 
 VI. ― TABLEAU DE CORRESPONDANCE
 
-ministère de l'intérieur, de l'outre-mer et des collectivités territoriales
+Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales
 
 GRADES DU CORPS D'ORIGINE
 
@@ -1776,7 +1774,7 @@ Secrétaire administratif de l'intérieur et de l'outre-mer de classe exceptionn
 
 |
 
-Rédacteur territorial chef.
+Rédacteur territorial principal de 1re classe.
 
 |
 
@@ -1784,7 +1782,7 @@ Secrétaire administratif de l'intérieur et de l'outre-mer de classe supérieur
 
 |
 
-Rédacteur territorial principal.
+Rédacteur territorial principal de 2e classe.
 
 |
 
