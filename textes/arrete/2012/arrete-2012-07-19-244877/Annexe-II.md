@@ -1,0 +1,179 @@
+# Article Annexe II
+
+MODE DE CALCUL DE LA COMPENSATION POUR L'ESPÈCE BOVINE
+
+Axe territorial :
+
+HANDICAP NATUREL
+
+|
+
+DÉPLACEMENT/KM
+
+compensé
+
+(en euros)
+
+|
+
+COMPLÉMENT
+
+handicap naturel/
+
+mise en place
+
+(en euros)
+
+|
+
+Hors handicap naturel ou défavorisé simple
+
+|
+
+0,58
+
+|
+
+0,00
+
+|
+
+Piémont (P)
+
+|
+
+0,58
+
+|
+
+0,50
+
+|
+
+Montagne (M)
+
+|
+
+0,63
+
+|
+
+0,71
+
+|
+
+Haute montagne (HM)
+
+|
+
+0,68
+
+|
+
+1,93
+
+|
+
+Ile (ILE) et DOM
+
+|
+
+0,68
+
+|
+
+1,93
+
+|
+
+Pour éviter une surcompensation par opérateur, le montant de la compensation est plafonné de telle sorte que la somme du montant de la compensation et du coût total moyen estimé des doses distribuées et mises en place par l'opérateur (soit 5 euros par dose distribuée et 6,2 euros par dose mise en place) ne dépasse pas le montant total des coûts réels correspondants.
+
+Axe racial :
+
+RACE RECONNUE
+
+|
+
+RACE LOCALE
+
+|
+
+RACE
+
+à petits effectifs
+
+|
+
+COMPENSATION
+
+par IA
+
+de race pure
+
+(en euros)
+
+|
+
+Oui
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+1,00
+
+|
+
+Oui
+
+|
+
+Oui
+
+|
+
+Non
+
+|
+
+1,50
+
+|
+
+Oui
+
+|
+
+Oui
+
+|
+
+Oui
+
+|
+
+5,00
+
+|
+
+Oui
+
+|
+
+Non
+
+|
+
+Oui
+
+|
+
+5,00
+
+|
