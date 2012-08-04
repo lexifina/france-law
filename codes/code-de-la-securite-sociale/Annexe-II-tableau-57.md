@@ -6,11 +6,15 @@ DÉSIGNATION DES MALADIES
 
 |
 
-DÉLAI de prise en charge
+DÉLAI
+
+de prise en charge
 
 |
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
+LISTE LIMITATIVE DES TRAVAUX
+
+susceptibles de provoquer ces maladies
 
 |
 
@@ -60,9 +64,7 @@ ou
 
 |
 
-Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (*).
-
-|
+Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (*). |
 
 1 an (sous réserve d'une durée d'exposition d'un an)
 
@@ -100,53 +102,39 @@ Coude
 
 |
 
-Epicondylite.
+Tendinopathie d'insertion des muscles épicondyliens associée ou non à un syndrome du tunnel radial.
+
+|
+
+14 jours
+
+|
+
+Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des mouvements de pronosupination.
+
+|
+
+Tendinopathie d'insertion des muscles épitrochléens
+
+|
+
+14 jours
+
+|
+
+Travaux comportant habituellement des mouvements répétés d'adduction ou de flexion et pronation de la main et du poignet ou des mouvements de pronosupination.
+
+|
+
+Hygroma : épanchement des bourses séreuses ou atteintes inflammatoires des tissus sous-cutanés des zones d'appui du coude.
+
+- forme aiguë ;
+
+- forme chronique.
 
 |
 
 7 jours
-
-|
-
-Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des mouvements de supination et pronosupination.
-
-|
-
-Epitrochléite.
-
-|
-
-7 jours
-
-|
-
-Travaux comportant habituellement des mouvements répétés d'adduction ou de flexion et pronation de la main et du poignet ou des mouvements de supination et pronosupination.
-
-|
-
-Hygromas :
-
-|
-
-|
-
-|
-
-- hygroma aigu des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du coude ;
-
-|
-
-7 jours
-
-|
-
-Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
-
-|
-
-- hygroma chronique des bourses séreuses.
-
-|
 
 90 jours
 
@@ -156,13 +144,15 @@ Travaux comportant habituellement un appui prolongé sur la face postérieure du
 
 |
 
-Syndrome de la gouttière épitrochléo-olécrânienne (compression du nerf cubital).
+Syndrome canalaire du nerf ulnaire dans la gouttière épithrochléo-oléocranienne confirmé par électroneuromyographie (EMG)
 
 |
 
-90 jours
+90 jours (sous réserve d'une durée d'exposition de 90 jours)
 
 |
+
+Travaux comportant habituellement des mouvements répétitifs et/ou des postures maintenues en flexion forcée.
 
 Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
 
