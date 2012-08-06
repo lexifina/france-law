@@ -212,7 +212,7 @@ Le jury détermine le sujet de cette épreuve dans la même perspective que pour
 
 La durée de la préparation, de la séance et de l'entretien est comprise entre quatre heures et huit heures. La durée de la préparation ne pourra excéder quatre heures ; celle de la séance sera comprise entre une heure et trois heures.
 
-Après avoir pris connaissance du sujet, le candidat fixe lui-même, et dans ces limites, la durée de la préparation et de la séance, et en informe le jury. Ce dernier disposera, à son gré, de trente minutes à une heure d'entretien.
+Le jury fixe avant l'épreuve la durée de la préparation, de la séance et de l'entretien, compris entre trente minutes et une heure. Le jury en fixe la répartition au candidat avant l'épreuve.
 
 11. ACTIVITÉS SCIENTIFIQUES ET TECHNIQUES
 
