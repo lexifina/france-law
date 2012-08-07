@@ -1,0 +1,9 @@
+# Réponse à la question n° 1567
+
+- Question : [1567](1567.md) — Question n° 1567 — délégation interministérielle pour l'éducation numérique en Afrique; missions
+
+## Réponse
+
+*JO du 2012-08-07*
+
+Créée en 2010, la délégation interministérielle pour l'éducation numérique en Afrique est en charge du programme Sankoré porté par le Groupement d'intérêt public pour l'éducation numérique en Afrique (GIP ENA). Depuis 2010, 20,1 M€ de crédits de paiement ont été versés au GIP. Pour 2012, la subvention pour charges de service public prévue sur le programme 209 s'élève à 3,9 M€ de crédits de paiement, mais le versement effectif devrait être inférieur à ce montant car le gouvernement a souhaité suspendre les livraisons de classes numériques Sankoré (CNS) dans l'attente des résultats d'une évaluation. Les frais de personnel (2,5 ETP + 2 mises à disposition) et de fonctionnement ainsi que le loyer sont légèrement inférieurs à 1 M€. A ce stade, environ 2000 classes numériques ont été livrées dans les pays bénéficiaires du programme (Sénégal, Mali, Maurice, Madagascar, Burkina Faso, Haïti et Bénin) et pour partie installées dans divers établissements scolaires. Il n'existe donc pas de bilan à mi-parcours car les programmes de formation des professeurs et les premières utilisations concrètes des CNS ont à peine débuté, et selon un rythme qui varie en fonction des pays et des régions ciblées par le projet. Le gouvernement entend lancer une évaluation de cette initiative. Elle sera réalisée d'ici à la fin de l'année 2012 dans les pays avec lesquels des accords ont été signés. Cette évaluation sera confiée à un prestataire indépendant. L'objectif sera de jauger l'appropriation du programme par le corps professoral, mais également sa capacité à le poursuivre et à créer ses propres ressources éducatives, et enfin les acquis scolaires des élèves qui en découleront. En fonction des résultats de cette évaluation, le gouvernement prendra les décisions qui s'imposent.
