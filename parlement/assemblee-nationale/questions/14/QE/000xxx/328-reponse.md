@@ -1,0 +1,9 @@
+# Réponse à la question n° 328
+
+- Question : [328](328.md) — Question n° 328 — coopération militaire; perspectives
+
+## Réponse
+
+*JO du 2012-08-07*
+
+La France est résolument engagée en faveur de l'application du droit international et appelle régulièrement les autorités israéliennes à respecter les droits des Palestiniens en Cisjordanie, à Jérusalem-Est et dans la Bande de Gaza. Elle a toujours manifesté son attachement à la IVème convention de Genève, qui interdit la création de faits accomplis en temps d'occupation et qui s'applique dans les Territoires palestiniens, et déplore le refus d'Israël de se plier à ses obligations internationales. Pour autant, la France est engagée en faveur de la sécurité d'Israël. Elle attache une grande importance à la coopération avec Israël dans tous les domaines, coopération qui est bénéfique aux deux parties. La coopération dans le domaine militaire est toutefois strictement encadrée afin d'être cohérente avec les principes politiques qu'elle défend dans la région. Elle prend également en compte le fait qu'Israël n'a pas souscrit à plusieurs conventions relatives à la prolifération. S'agissant plus particulièrement du contrôle des exportations françaises d'armements, celui-ci est soumis à des normes législatives et réglementaires particulièrement rigoureuses, qui prennent en compte les impératifs nationaux de souveraineté et de sécurité, ainsi que l'ensemble des engagements internationaux et européens en matière de maîtrise des armements, de désarmement et de non-prolifération. Dans le cadre européen, il convient de rappeler l'existence de la position commune 2008/944/PESC, adoptée le 8 décembre 2008 durant la Présidence française du Conseil de l'Union européenne, qui définit des règles communes et juridiquement contraignantes de contrôle des exportations de technologie et d'équipements militaires, en remplacement de l'ancien Code de conduite européen.
