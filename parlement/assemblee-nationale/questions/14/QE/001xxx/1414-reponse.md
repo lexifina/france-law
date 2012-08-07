@@ -1,0 +1,9 @@
+# Réponse à la question n° 1414
+
+- Question : [1414](1414.md) — Question n° 1414 — moyens de communication; permanence
+
+## Réponse
+
+*JO du 2012-08-07*
+
+La nécessité, pour les armées, de disposer de moyens de transmissions fiables et sécurisés a été rappelée dans le Livre blanc sur la défense et la sécurité nationale publié le 17 juin 2008. La stratégie du ministère de la défense, en termes de maîtrise de l'information, tend ainsi à garantir, en toutes circonstances, la transmission des données nécessaires aux décideurs, à réduire les délais de traitement de ces données et à renforcer le travail en réseau. Dans ce cadre, les systèmes de télécommunications contemporains sont conçus et développés pour faire face à la multiplication et à la rapidité des échanges qu'imposent les opérations militaires modernes, fréquemment conduites sur des théâtres d'opérations éloignés du territoire national. Le dispositif permettant de maintenir, dans tout type de conflit, la permanence du commandement repose sur des systèmes de communications militaires nationaux multiples et résilients, utilisant des technologies différenciées, possédant leur propre alimentation électrique et aptes à résister aux menaces de type cybernétique ou électromagnétique. Les capacités de communication des armées seraient donc préservées, en cas de crise majeure, quel que soit l'état des infrastructures civiles. Pour autant, comme le souligne l'honorable parlementaire, le pigeon voyageur a présenté, au cours de l'histoire, un intérêt certain en matière de transmissions militaires. Sûr et endurant, il a souvent permis de s'affranchir de lignes de communication terrestres non sécurisées. Les armées disposent ainsi du dernier colombier militaire d'Europe sur le site du Mont-Valérien, en région parisienne. La France recense, en outre, près de 20 000 colombophiles amateurs, susceptibles d'apporter un précieux concours en cas de forte fragilisation des réseaux civils de télécommunications.
