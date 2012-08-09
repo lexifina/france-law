@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700007
+
+- Question : [SEQ120700007](seq120700007.md) — Droit de douane applicable aux importations de blé destiné à l'alimentation animale
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2012-08-09, page 1831*
+
+La Commission européenne a soumis à l'avis des États membres de l'Union européenne, lors du comité de gestion du 14 juin 2012, la reconduction de la suspension du droit de douane de 12 €/t attaché au contingent d'importation de 3,1 Mt de blé tendre de basse et moyenne qualité. Cette suspension est, d'ores et déjà, en vigueur depuis le 28 février 2011, la Commission n'ayant consulté les États membres que sur l'opportunité de la reconduire. Ce droit de douane a déjà été suspendu à plusieurs reprises, en fonction de la configuration du marché, en particulier depuis 2007/2008. En l'occurrence, pour l'année 2012, cette suspension s'applique uniquement au contingent à droit réduit, pour lequel il reste 1,2 Mt à exécuter jusqu'au 31 décembre 2012. Il convient de rappeler que la protection douanière à l'intérieur de ce contingent est modérée, le droit réduit étant de 12 €/t. En comparaison, le droit erga omnes, applicable aux quantités au-delà du contingent, est beaucoup plus élevé, à 95 €/t. Au plan économique, la portée de cette suspension n'est donc pas de nature à modifier les paramètres du marché, d'autant que les quantités concernées sont à mettre en rapport avec une production de 126 millions de tonnes de blé tendre dans l'Union européenne et des importations de l'ordre de 4 à 5 millions de tonnes par an, y compris via ce contingent. La France n'a pas soutenu cette proposition par attachement au principe de la préférence communautaire. En l'absence d'avis du comité de gestion, la Commission européenne a décidé de la mettre en œuvre.
