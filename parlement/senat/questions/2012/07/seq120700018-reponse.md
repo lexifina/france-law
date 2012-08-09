@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700018
+
+- Question : [SEQ120700018](seq120700018.md) — Situation des personnels mis à disposition des établissements labellisés FrancEducation
+
+## Réponse
+
+*Affaires étrangères, JO du 2012-08-09, page 1821*
+
+Depuis la parution du décret portant création du label FrancÉducation en janvier 2012, celui-ci a été attribué à 17 établissements dont 9 lors de la commission consultative du 28 juin 2012. Conformément au décret, les établissements candidats doivent compter parmi leurs enseignants au moins un titulaire de l'éducation nationale française par degré (sauf dérogation dûment justifiée). Dans le cadre du label, un titulaire déjà en exercice dans un établissement labellisé pourra, s'il le souhaite, faire une demande de détachement. Le ministère de l'éducation nationale pourra, sans qu'il y ait un caractère d'automaticité et en fonction de ses priorités, accorder un détachement à ce titulaire. Ce détachement ne pourra être prononcé que pour un service d'enseignement à temps complet, effectué exclusivement au sein d'un même établissement labellisé. Cet enseignant bénéficie d'un contrat de droit local. Il est recruté, rémunéré et pris en charge sur le plan de la couverture sociale locale par l'établissement d'accueil. Les conditions de rémunération sont donc celles offertes par l'établissement. Le dossier de demande de détachement et le contrat de droit local de l'enseignant (couverture sociale, cotisation pension civile de retraite, nombre d'heures, congés, distinction Europe/hors Europe) devront être validés puis transmis à la direction générale des ressources humaines du ministère de l'éducation nationale par l'intermédiaire du poste diplomatique ou consulaire. L'enseignant détaché pourra choisir de cotiser pour sa retraite en France, auquel cas, à son retour, il bénéficiera des mêmes avantages que s'il avait exercé en France.
