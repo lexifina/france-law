@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700288
+
+- Question : [SEQ120700288](seq120700288.md) — Prévention des épidémies de rhinopneumonie nerveuse dans les structures accueillant des chevaux
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2012-08-09, page 1832*
+
+Un foyer de rhinopneumonie nerveuse a été déclaré en février 2012 dans un centre équestre du Finistère. Seules les maladies qui sont reconnues comme maladies réputées contagieuses (MRC), et qui pourraient constituer des dangers sanitaires de première et de deuxième catégories au titre de la nouvelle réglementation récemment parue, donnent lieu à des mesures de police sanitaire et peuvent être soumises à des programmes de vaccination obligatoire. La rhinopneumonie nerveuse n'est actuellement classée ni comme MRC, ni comme danger sanitaire de première ou de deuxième catégorie. Une maladie est réputée contagieuse, ou constitue un danger sanitaire de première ou de deuxième catégorie, du fait de son inscription comme tel par décret au sein du code rural et de la pêche maritime. La pertinence de réglementer une maladie est évaluée au regard d'une analyse scientifique, technique et économique de son impact sur la santé publique, sur l'économie de l'élevage et sur le commerce international. À cet égard, l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses) vient d'établir une hiérarchisation des maladies enzootiques, notamment chez le cheval. Une étude socio-économique s'avère nécessaire pour compléter cette évaluation et ainsi permettre de classer réglementairement les maladies en tant que dangers sanitaires de première ou de deuxième catégorie. Il est cependant possible, pour les maladies dont le caractère prioritaire ne serait pas révélé par les différentes analyses et études, de mettre en œuvre des programmes de lutte volontaires fédérant les organisations professionnelles concernées comme le groupement de défense sanitaire par exemple.
