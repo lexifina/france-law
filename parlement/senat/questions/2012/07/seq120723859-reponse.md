@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120723859
+
+- Question : [SEQ120723859](seq120723859.md) — Modalités d'élection des représentants de la profession agricole au sein des chambres d'agriculture
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2012-08-09, page 1830*
+
+Le décret n° 2012-838 du 29 juin 2012 modifie les conditions de désignation des membres du collège « chefs d'exploitation et assimilés » des chambres régionales d'agriculture. Ces derniers seront désormais élus dans le cadre des élections des membres des chambres départementales d'agriculture par un scrutin direct. Les sièges de ce collège à la chambre régionale seront répartis par département en fonction du nombre de départements composant la région. La liste qui a recueilli le plus grand nombre de voix bénéficie d'un premier siège (à l'exception des régions composées de deux départements, dans lesquelles cette liste bénéficie de deux sièges). Les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle du plus fort reste. Les sièges attribués à chaque liste sont répartis entre les candidats aux élections régionales dans leur ordre de présentation sur la liste. Pour les chambres départementales d'agriculture, la moitié des sièges est toujours attribuée à la liste qui a obtenu le plus de voix. Cette attribution opérée, les autres sièges sont désormais répartis entre toutes les listes à la représentation proportionnelle suivant la règle du plus fort reste. Ces nouvelles dispositions seront mises en œuvre à l'occasion des prochaines élections aux chambres d'agriculture dont la date de clôture du scrutin a été fixée par l'arrêté du 12 mars 2012 au 31 janvier 2013. Elles n'entraîneront aucune surcharge administrative puisque les élections aux chambres départementales et régionales feront l'objet d'un scrutin unique pour les collèges « chef d'exploitation et assimilés ».
