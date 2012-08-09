@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700548
+
+- Question : [SEQ120700548](seq120700548.md) — Levée de l'embargo contre Cuba
+
+## Réponse
+
+*Affaires étrangères, JO du 2012-08-09, page 1824*
+
+La France a voté le 25 octobre dernier, pour la 20e année consécutive, la résolution présentée par le Gouvernement de la République de Cuba à l'Assemblée générale des Nations unies réclamant la levée de l'embargo américain. Pour la France comme pour l'ensemble de l'Union européenne (UE), cet embargo est inacceptable puisque la loi Helms-Burton, approuvée par le Congrés américain en 1996, contient des clauses d'extra-territorialité qui sont contraires aux engagements internationaux pris devant l'Organisation mondiale du commerce. Ces clauses ne sont d'ailleurs pas appliquées, l'exécutif américain renouvelant chaque année la non-application du chapitre correspondant de cette loi. La France a également voté une résolution de soutien, présentée par le Gouvernement de la République de Cuba, dans le cadre de l'Association des États de la Caraïbe (AEC), dont elle est membre associée au titre des départements français et des collectivités d'Outre-mer d'Amérique, lors de la conférence ministérielle qui s'est tenue à Port d'Espagne, Trinité-et-Tobago, le 10 février 2012. Le secrétaire général des Nations unies devra rendre compte, lors de la prochaine assemblée générale, de la mise en œuvre de la résolution de la 66e AGNU. On s'oriente donc vers l'examen, par l'AGNU, d'un nouveau projet de résolution, que la France, comme l'ensemble de l'Union européenne, contribuera à faire adopter. Il est important que cette position soit approuvée dans le cadre multilatéral propre à la nature du débat. C'est pourquoi la France privilégie cette procédure. Il convient, en outre, de noter que l'explication de vote est commune à l'ensemble des États membres de l'Union européenne et exprimée par la présidence protempore de l'UE.
