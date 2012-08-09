@@ -468,7 +468,43 @@ Les pièges de cette dénomination ne sont utilisés que :
 
 |
 
+14
+
 |
+
+Piège "livre de messe" à palette (variante)
+
+|
+
+Pierre Billard Saint-Laurent-Nouan (41)
+
+|
+
+|
+
+Piège fermé :
+
+Longueur : 37 cm
+
+Largeur : 12 cm
+
+Hauteur : 7,5 cm
+
+Piège ouvert :
+
+Longueur : 33 cm
+
+Largeur : 12 cm
+
+Hauteur : 20 cm
+
+|
+
+916
+
+|
+
+Conforme au descriptif adressé au ministère chargé de la chasse
 
 |
 
@@ -479,6 +515,18 @@ Les pièges de cette dénomination ne sont utilisés que :
 |
 
 |
+
+|
+
+1° Dans les marais et jusqu'à 200 m des cours d'eau, des étangs ou des marais uniquement avec appât végétal, pour le piégeage des rats musqués ;
+
+2° A plus de 200 m des cours d'eau, des étangs ou des marais :
+
+- dans une boîte ménageant une ou des ouvertures inférieures ou égales à 11 × 11 cm ;
+
+- en gueule de terrier et dans les bottes de paille et de foin ;
+
+- au bois, dans une enceinte ménageant une ou des ouvertures d'une largeur inférieure ou égale à 15 cm.
 
 |
 
