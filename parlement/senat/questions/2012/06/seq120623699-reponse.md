@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120623699
+
+- Question : [SEQ120623699](seq120623699.md) — Traité international concernant le commerce des armes classiques
+
+## Réponse
+
+*Affaires étrangères, JO du 2012-08-09, page 1817*
+
+La conférence diplomatique qui s'est ouverte à New York le 2 juillet vise à établir un instrument juridiquement contraignant sur le commerce international des armes, et non pas sur les dispositions relatives au droit des citoyens à acquérir, détenir ou utiliser des armes. L'objectif est de faire adopter par la communauté internationale un traité fixant des normes de comportement plus responsable des États exportateurs et importateurs d'armement fondées sur un engagement d'évaluation des risques liés aux transferts, en édictant des principes partagés régissant le contrôle des transferts de technologies et d'équipements militaires. L'approche retenue consiste à inclure dans les critères d'autorisation de transfert la prise en compte du risque que les matériels exportés puissent servir à des violations explicitement définies : transferts en violation d'embargos décidés par les Nations unies, actions constitutives d'actes de terrorisme ou de violations des droits de l'Homme ou du droit international humanitaire, contribution à une accumulation d'armements ayant un effet déstabilisant au niveau régional ou encore transfert d'équipements dont la nature est incompatible avec les objectifs de développement durable du pays destinataire. En outre les travaux du comité préparatoire à cette conférence des Nations unies ont montré qu'une exclusion des armes de chasse et de tir sportif, un moment réclamée par certaines délégations, ne pouvait pas passer par une définition à priori de ces catégories mais devait simplement résulter du champ général d'application du traité, qui vise en effet directement les armes à usage militaire ou de maintien de l'ordre.
