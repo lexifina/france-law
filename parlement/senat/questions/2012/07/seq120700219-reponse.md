@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700219
+
+- Question : [SEQ120700219](seq120700219.md) — Situation de Mohamed Lemine Ould Dadde, ancien commissaire aux droits de l'homme, emprisonné arbitrairement en Mauritanie
+
+## Réponse
+
+*Affaires étrangères, JO du 2012-08-09, page 1822*
+
+Après un an de détention préventive, M. Ould Dadde a été détenu plus de huit mois supplémentaires, ce qui est illégal selon le droit mauritanien. L'ambassade de France en Mauritanie, qui est en contact permanent avec l'épouse de M. Ould Dadde, de nationalité française, s'est assurée que cette dernière pouvait bien exercer son droit de visite. À trois reprises, le porte-parole du ministère des affaires étrangères s'est exprimé au sujet de la détention de M. Ould Dadde : le 5 mai, le 5 octobre et le 9 novembre 2011. L'ancien ministre chargé de la coopération, M. Henri de Raincourt, a eu l'occasion de s'exprimer personnellement sur ce sujet devant l'Assemblée nationale. L'ambassadeur en Mauritanie a effectué une démarche à Nouakchott le 22 novembre auprès du ministre mauritanien de la justice. Le procès s'est finalement ouvert le 29 mai devant la cour criminelle de Nouakchott. Suite à la condamnation, le 10 juin dernier, de M. Ould Dadde, l'ambassadeur de France en Mauritanie a effectué une démarche le 19 juin auprès du président de la République lui-même, M. Ould Abdel Aziz, en mettant l'accent sur les nombreuses zones d'ombres que comporte la condamnation de M. Ould Dadde, en rappelant les devoirs du président de la République de garantir l'indépendance de la justice et lui demandant, à cette fin, de veiller au respect des règles, notamment en matière de recours. Les autorités françaises suivent de très près cette affaire et saisiront toute occasion de réitérer l'appel de la France à un procès équitable de M. Ould Dadde.
