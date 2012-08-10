@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — DÉCISION DE PRINCIPE SUR L'OUVERTURE DES DONNÉES PUBLIQUES DE LA VILLE D'AIX-EN-PROVENCE ET PARTENARIAT AVEC LA RÉGION PROVENCE-ALPES-CÔTE D'AZUR DE PUBLIER DES DONNÉS PUBLIQUES SUR LE SITE INTERNET OPENDATA.REGIONPACA.FR.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-08-10
+- Séance : Conseil Municipal 2CA
+- Objet : DÉCISION DE PRINCIPE SUR L'OUVERTURE DES DONNÉES PUBLIQUES DE LA VILLE D'AIX-EN-PROVENCE ET PARTENARIAT AVEC LA RÉGION PROVENCE-ALPES-CÔTE D'AZUR DE PUBLIER DES DONNÉS PUBLIQUES SUR LE SITE INTERNET OPENDATA.REGIONPACA.FR.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-4044-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
