@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ZAC DES DEUX ORMES - CONVENTION DE CONCESSION VILLE D'AIX-EN-PROVENCE/SEMEPA - RETROCESSION D'EMPRISES DE VOIRIES ET D'EQUIPEMENTS PUBLICS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-08-10
+- Séance : Conseil Municipal 2CA
+- Objet : ZAC DES DEUX ORMES - CONVENTION DE CONCESSION VILLE D'AIX-EN-PROVENCE/SEMEPA - RETROCESSION D'EMPRISES DE VOIRIES ET D'EQUIPEMENTS PUBLICS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-4067-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
