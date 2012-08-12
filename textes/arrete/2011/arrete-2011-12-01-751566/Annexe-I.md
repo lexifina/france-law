@@ -100,6 +100,10 @@ Guadeloupe
 
 |
 
+|
+
+|
+
 Directeur régional des finances publiques de Martinique
 
 |
@@ -108,15 +112,13 @@ Guyane
 
 |
 
-Directeur régional des finances publiques de Martinique
-
 |
 
 Eure, Seine-Maritime
 
 |
 
-Directeur régional des finances publiques de Haute-Normandie et du département de Seine-Maritime
+Directeur régional des finances publiques de la Haute-Normandie et du département de la Seine-Maritime
 
 |
 
@@ -156,7 +158,7 @@ Seine-Saint-Denis
 
 |
 
-Directeur départemental des finances publiques de Seine-Saint-Denis
+Directeur départemental des finances publiques de la Seine-Saint-Denis
 
 |
 
@@ -200,11 +202,11 @@ Directeur régional des finances publiques de Midi-Pyrénées et du département
 
 |
 
-Nord, Pas-de-Calais
+Nord-Pas-de-Calais
 
 |
 
-Directeur régional des finances publiques de Nord - Pas-de-calais et du département du Nord
+Directeur régional des finances publiques de Nord-Pas-de-calais et du département du Nord
 
 |
 
@@ -212,7 +214,7 @@ Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée
 
 |
 
-Directeur régional des finances publiques des Pays de la Loire et du département de Loire-Atlantique
+Directeur régional des finances publiques des Pays de la Loire et du département de la Loire-Atlantique
 
 |
 
@@ -248,7 +250,7 @@ Directeur départemental des finances publiques des Alpes-Maritimes
 
 |
 
-Réunion
+La Réunion
 
 |
 
