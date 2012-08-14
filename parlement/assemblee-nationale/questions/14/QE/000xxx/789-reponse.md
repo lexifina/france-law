@@ -1,0 +1,9 @@
+# Réponse à la question n° 789
+
+- Question : [789](789.md) — Question n° 789 — loi n° 2010-874 du 27 juillet 2010; décret d'application; publication
+
+## Réponse
+
+*JO du 2012-08-14*
+
+La loi de modernisation de l'agriculture et de la pêche de juillet 2010 a pour objectif, au regard du déficit commercial de la filière bois, de mobiliser plus de bois tout en préservant une exploitation durable des forêts. La création de gestionnaires forestiers professionnels (GFP), prévue à l'article L. 315-1 du code forestier, va permettre de proposer une offre plus large d'intervenants professionnels aux propriétaires forestiers pour gérer plus efficacement leurs forêts et pour bénéficier de la mesure fiscale relative au dispositif d'encouragement fiscal à l'investissement (DEFI-contrat). Actuellement, seuls les experts et les techniciens de coopératives reconnus comme « hommes de l'art » peuvent faire bénéficier les propriétaires forestiers de ces mesures. Le dispositif relatif au GFP remplacera le dispositif « Homme de l'art » prévu par l'arrêté du 28 juillet 2008. Les GFP devront disposer au minimum d'un diplôme de niveau III en gestion forestière, de trois ans d'expérience dans ce même domaine et travailler de manière indépendante afin de protéger les intérêts des propriétaires forestiers (mandat de gestion). Le professionnel justifiant de cette qualification de GFP sera inscrit sur une liste établie par le préfet, après avis du Centre national de la propriété forestière. Un projet de décret a été examiné favorablement par le Conseil d'État, en juillet 2011. Le projet de décret fait actuellement l'objet d'un nouvel examen par les services du ministère de l'agriculture, de l'agroalimentaire et de la forêt, afin qu'il soit rapidement publié et permette l'entrée en vigueur du dispositif.
