@@ -1,0 +1,68 @@
+# LOI n° 2012-958 du 16 août 2012 de finances rectificative pour 2012
+
+- Type : loi publiee
+- Législature : XIVème législature
+- Ouvert le : 2012-08-17
+- Mis à jour le : 2013-06-24
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000026142708
+
+## LOI n° 2012-958 du 16 août 2012 de finances rectificative pour 2012
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026288927
+
+## LOI n° 2012-958 du 16 août 2012 de finances rectificative pour 2012 (rectificatif)
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026335044
+
+## Décision du Conseil constitutionnel n° 2013-327 QPC du 21 juin 2013
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027593173
+
+## Documents
+
+- [Projet de loi de finances rectificative pour 2012](http://www.assemblee-nationale.fr/14/projets/pl0071.asp) (sur le site de l'Assemblée nationale)
+- [Exposé des motifs](http://www.assemblee-nationale.fr/14/projets/pl0071.asp#P127_14658) (sur le site de l'Assemblée nationale)
+- [Communiqué de presse du Conseil des ministres du 4 juillet 2012](http://	http://archives.gouvernement.fr/ayrault/gouvernement/loi-de-finances-rectificative-pour-2012.html) Le ministre de l’économie et des finances et le ministre délégué auprès du ministre de l’économie et des finances, chargé du budget, ont présenté un projet de loi de finances rectificative pour 2012. Ce texte est le premier acte du redressement dans la justice des comptes publics. Il vise à garantir le respect par notre pays de ses objectifs en matière de réduction du déficit et à mettre en oeuvre les engagements pris par le Président de la République devant les Français. La stratégie de finances publiques retenue pour la législature est présentée dans le rapport préparatoire au débat d’orientation des finances publiques présenté ce jour au Parlement. I. Assurer la réduction du déficit public Le Gouvernement prend en compte une révision à la baisse de 7,1 Md€ des prévisions de recettes des administrations publiques pour 2012, dont 5,1 Md€ pour l’Etat. Cette réduction est essentiellement due à la correction des prévisions exagérément optimistes (à hauteur de 5,9 Md€) des recettes retenues par le précédent Gouvernement, indépendamment de la croissance. La révision de la croissance économique à 0,3 % induit par ailleurs une baisse de 2,4 Md€. D’autres informations nouvelles améliorent à l’inverse de 1,2 Md€ en net les prévisions de recettes en comptabilité nationale. S’agissant des dépenses, l’audit de la Cour des comptes fait état d’un risque en exécution sur la dépense de l’Etat, hors charge de la dette et de pensions, estimé entre 1,2 Md€ et 2 Md€, dû en partie à des hypothèses optimistes de construction du budget initial. Le Gouvernement a décidé, afin de maîtriser ces risques, de maintenir la réserve initiale et d’augmenter son montant de 1,5 Md€. Le Gouvernement s’était préparé à ces mauvaises nouvelles. Pour atteindre l‘objectif de limitation du déficit public à 4,5 % de la richesse nationale en 2012, les dispositions fiscales et de recettes sociales inscrites dans le présent projet de loi de finances rectificative permettent de redresser les recettes publiques à hauteur de 7,2 Md€ en 2012, soit un montant équivalent à la révision de la prévision de recettes. Pour être juste, cet effort doit être demandé en priorité à ceux qui en ont les moyens et épargner les plus modestes. Les hausses de prélèvements seront donc ciblées sur les entreprises et les ménages disposant des capacités contributives les plus importantes. Les plus grandes entreprises sont mises à contribution. Au titre des mesures transversales, il sera instauré une taxe de 3 % sur les dividendes distribués par les entreprises de plus de 250 M€ de chiffre d’affaires, dont seront donc exonérées les PME. Par ailleurs, diverses niches fiscales et sociales seront réduites, notamment les versements réalisés par les entreprises au titre de l’épargne salariale qui se verront appliquer un forfait social de 20 % contre 8 % actuellement. En outre, diverses mesures techniques sont adoptées afin de limiter l’optimisation fiscale des entreprises et, en particulier, le transfert de bénéfices à l’étranger. Enfin, il sera créé un acompte sur la contribution exceptionnelle à l’impôt sur les sociétés payée par les entreprises de plus de 250 M€ de chiffre d’affaires. Au titre des mesures sectorielles, la taxe de risque systémique pesant sur les banques sera doublée, de même que la taxe sur les transactions financières (acquisitions d’actions), les stocks de produits pétroliers détenus par les entreprises seront soumis à une taxe exceptionnelle de 4 %. Les mesures fiscales portant sur les ménages pèseront essentiellement sur les plus aisés. C’est le cas de la contribution exceptionnelle sur la fortune au titre de 2012. Les abattements en ligne directe pour le calcul des droits de succession et de donation seront réduits à 100 000 € par ascendant et par enfant et le délai de rapport fiscal des donations sera porté de 10 à 15 ans. Ces mesures épargneront les classes moyennes : après réforme, 88 % des successions resteront exonérées d’impôt (contre 95 % auparavant) et le délai de rapport fiscal des donations profite essentiellement aux successions figurant parmi les 10 % les plus importantes. L’augmentation de 2 points des prélèvements sociaux portant sur les revenus du capital, prévue dans le cadre de la « TVA sociale » par le précédent gouvernement, sera maintenue. Le projet de loi revient sur la hausse de la TVA votée par la précédente majorité. L’augmentation de 1,6 point du taux normal, applicable au 1er octobre contre une baisse des cotisations patronales, aurait conduit à ponctionner de plus de 10,6 Md€ par an le pouvoir d’achat des Français. Enfin, il est prévu d’alourdir la taxation des stock-options et de soumettre aux prélèvements sociaux les revenus immobiliers des non-résidents. Parallèlement, compte tenu de la situation de l’emploi et des finances publiques, l’exonération de cotisations sociales dont bénéficient les heures supplémentaires sera abrogée, sauf pour la part patronale des entreprises de moins de 20 salariés. II. Mettre en oeuvre les engagements du Président de la République Première des priorités, l’enseignement bénéficie d’ouvertures de crédits à hauteur de 89,5 millions d’euros, financés par annulation de crédits à due concurrence sur les crédits des autres missions. Par souci de justice autant que d’efficacité économique, le Gouvernement a par ailleurs décidé de soutenir le pouvoir d’achat des classes moyennes et populaires. Le projet de loi permet notamment d’assurer le financement de la majoration de 25 % de l’allocation de rentrée scolaire promise par le Président de la République, majoration qui interviendra dès la rentrée 2012 et d’annuler la hausse de la TVA programmée par le précédent Gouvernement. Toutes les mesures prises par le Gouvernement sont donc intégralement financées soit pas des économies, soit par des recettes supplémentaires.
+- [Texte adopté en 1ère lecture par l'Assemblée nationale le 19 juillet 2012](http://www.assemblee-nationale.fr/14/ta/ta0002.asp)
+- [Texte modifié en 1ère lecture par le Sénat le 27 juillet 2012](http://www.senat.fr/petite-loi-ameli/2011-2012/687.html)
+- [Texte adopté en CMP par l'Assemblée nationale le 31 juillet 2012](http://www.assemblee-nationale.fr/14/ta/ta0013.asp) (Texte adopté avec amendements)
+- [Texte adopté en CMP par le Sénat le 31 juillet 2012](http://www.senat.fr/petite-loi-ameli/2011-2012/727.html) (Texte adopté avec amendements)
+- [Décision n° 2012-654 DC du 9 août 2012](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000026289262&dateTexte=&categorieLien=id) (partiellement conforme)
+- [Dossier de la décision n° 2012-654 DC du 9 août 2012](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/root/bank/download/2012654DCobservations.pdf)
+- [Rapport sur la mise en application de la loi transmis au Parlement par le Gouvernement le 14 mars 2013](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/application-des-lois/rapports-art-67/2012/loi_2012-958.pdf.pdf) (en application de l'article 67 de la loi n° 2004-1343 du 9 décembre 2004 de simplification du droit)
+- Dossiers législatifs
+  - Assemblée nationale
+    - [Dossier législatif de l'Assemblée nationale](http://www.assemblee-nationale.fr/14/dossiers/deuxieme_collectif_2012.asp)
+  - Sénat
+    - [Dossier législatif du Sénat](http://www.senat.fr/dossier-legislatif/pjl11-687.html)
+- Documents préparatoires
+  - [Rapport n° 79 de M. Christian Eckert](http://www.assemblee-nationale.fr/14/rapports/r0079.asp)
+  - [Rapport n° 689 de M. François Marc (Tome I - Rapport)](http://www.senat.fr/rap/l11-689-1/l11-689-1.html)
+  - [Rapport n° 689 de M. François Marc (Tome II - Tablleau comparatif)](http://www.senat.fr/rap/l11-689-2/l11-689-2.html)
+  - [Rapport n° 136 de M. Christian Eckert (Assemblée nationale) et n° 726 de M. François Marc (Sénat)](http://www.assemblee-nationale.fr/14/rapports/r0136.asp)
+  - [Texte de la CMP déposé le 30 juillet 2012](http://www.assemblee-nationale.fr/14/ta-commission/r0136-a0.asp)
+- Débats parlementaires
+  - Assemblée nationale (1ère lecture)
+    - Compte rendu intégral des séances du 16 juillet 2012
+      - [1ère séance du 16 juillet 2012](http://www.assemblee-nationale.fr/14/cri/2011-2012-extra/20121005.asp#P713_212401) : présentation, motion de rejet préalable.
+      - [2ème séance du 16 juillet 2012](http://www.assemblee-nationale.fr/14/cri/2011-2012-extra/20121006.asp) : motion de renvoi en commission, discussion générale.
+    - Compte rendu intégral des séances du 17 juillet 2012
+      - [1ère séance du 17 juillet 2012](http://www.assemblee-nationale.fr/14/cri/2011-2012-extra/20121007.asp#P403_77537) : discussion des articles de la première partie : art 1er, après l’art 1er.
+      - [2ème séance du 17 juillet 2012](http://www.assemblee-nationale.fr/14/cri/2011-2012-extra/20121008.asp) : discussion des articles de la première partie (suite) : après l’art 1er (suite), art 2.
+    - Compte rendu intégral des séances du 18 juillet 2012
+      - [1ère séance du 18 juillet 2012](http://www.assemblee-nationale.fr/14/cri/2011-2012-extra/20121009.asp) : discussion des articles de la première partie (suite) : art 2 (suite), amendements de suppression de l’article 2.
+      - [2ème séance du 18 juillet 2012](http://www.assemblee-nationale.fr/14/cri/2011-2012-extra/20121010.asp) : discussion des articles de la première partie (suite) : art 2 (suite), après l’art 2.
+    - Compte rendu intégral des séances du 19 juillet 2012
+      - [1ère séance du 19 juillet 2012](http://www.assemblee-nationale.fr/14/cri/2011-2012-extra/20121011.asp) : discussion des articles de la première partie (suite) : art 3, art 4.
+      - [2ème séance du 19 juillet 2012](http://www.assemblee-nationale.fr/14/cri/2011-2012-extra/20121012.asp) : discussion des articles de la première partie (suite) : art 4 (suite), après l’art 4, art 5, art 6, art 7, art 8, après l’art 8, art 9, art 10, art 11, art 12, art 13, art 14, art 15, après l’art 15, art 16.
+      - [3ème séance du 19 juillet 2012](http://www.assemblee-nationale.fr/14/cri/2011-2012-extra/20121013.asp) : discussion des articles de la première partie (suite) : art 17,art 18, art 19 et état A. Seconde partie : art 20 et état B, art 21 et état C, art 22 et état D, art 23, art 24, avant l’art 25, art 25, art 26, après l’art 26, avant l’art 27, art 27, après l’art 27, art 28, art 29, après l'art 29, art 30, après l’art 30, explications de vote, vote sur l’ensemble.
+  - Sénat (1ère lecture)
+    - [Compte rendu intégral de la séance du 24 juillet 2012](http://www.senat.fr/seances/s201207/s20120724/s20120724_mono.html) : discussion générale, question préalable, renvoi en commission, discussion des articles de la première partie : art 1er.
+    - [Compte rendu intégral de la séance du 25 juillet 2012](http://www.senat.fr/seances/s201207/s20120725/s20120725_mono.html) : discussion des articles de la première partie (suite) : art 1er (suite), art additionnels, art 1er bis, art additionnels, art 2, art 3.
+    - [Compte rendu intégral de la séance du 26 juillet 2012](http://www.senat.fr/seances/s201207/s20120726/s20120726_mono.html) : discussion des articles de la première partie (suite) : art 4, art 6, art additionnel, art 7, art 8, art additionnels, art 9, art additionnels, art 10, art 11, art 12, art 13, art 14, art 15, arts additionnel, art 17, art 5 (précédemment réservé), art 19. Discussion des articles de la seconde partie : art 20, art 23.
+    - [Compte rendu intégral de la séance du 27 juillet 2012](http://www.senat.fr/seances/s201207/s20120727/s20120727_mono.html) : discussion des articles de la seconde partie (suite) : art 24, art additionnels, art 25, art additionnels, art 26, arts additionnels, art 27, art additionnels, art 27 bis, art 28, art 29, art additionnels, art 30, art additionnel, art 32, art additionnels, interventions et vote sur l'ensemble.
+  - Assemblée nationale (lecture texte CMP)
+    - Compte rendu intégral des séances du 31 juillet 2012
+      - [Séance unique du 31 juillet 2012](http://www.assemblee-nationale.fr/14/cri/2011-2012-extra/20121018.asp) : présentation, motion de rejet préalable, discussion générale, texte de la commission mixte paritaire, explications de vote, vote sur l’ensemble.
+  - Sénat (lecture texte CMP)
+    - [Compte rendu intégral de la séance du 31 juillet 2012](http://www.senat.fr/seances/s201207/s20120731/s20120731_mono.html) : discussion générale, discussion des articles : art 24, art 27 bis C, art 30 bis, art 33, interventions et vote sur l'ensemble.
