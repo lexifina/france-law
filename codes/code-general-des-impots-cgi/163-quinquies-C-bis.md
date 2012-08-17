@@ -1,9 +1,13 @@
 # Article 163 quinquies C bis
 
-Les distributions effectuées par les sociétés unipersonnelles d'investissement à risque mentionnées à l'article 208 D sont exonérées d'impôt sur le revenu et de la retenue à la source mentionnée au 2 de l'article 119 bis lorsque les conditions suivantes sont réunies :
+Les distributions effectuées par les sociétés unipersonnelles d'investissement à risque mentionnées à l'article 208 D sont exonérées d'impôt sur le revenu et, sauf si elles sont payées dans un Etat ou territoire non coopératif au sens de l'article 238-0 A, de la retenue à la source mentionnée au 2 de l'article 119 bis lorsque les conditions suivantes sont réunies :
 
 1° Elles sont prélevées sur des bénéfices exonérés d'impôt sur les sociétés en application des dispositions de l'article 208 D ;
 
 2° L'associé a son domicile fiscal en France ou dans un pays ou territoire ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales ;
 
 3° Les actions ouvrant droit aux distributions concernées ont été souscrites par l'associé unique initial ou transmises à titre gratuit à la suite du décès de cet associé.
+
+NOTA :
+
+Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 6 II : Ces dispositions sont applicables aux produits, sommes, valeurs et distributions versés à compter de la date de publication de la présente loi.
