@@ -12,4 +12,6 @@ II.-Les crédits d'impôt de toute nature ainsi que la créance visée à l'arti
 
 III.-La contribution est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et sanctions.
 
-Elle est payée spontanément au comptable public compétent, au plus tard à la date prévue au 2 de l'article 1668 pour le versement du solde de liquidation de l'impôt sur les sociétés.
+NOTA :
+
+Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 12 II : Ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2012 .
