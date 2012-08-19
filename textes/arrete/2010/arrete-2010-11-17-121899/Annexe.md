@@ -72,6 +72,16 @@ Certificat technique du premier degré de mécanicien militaire radio
 
 |
 
+Aéronautique, opérateurs aérosurveillance et avitailleurs
+
+|
+
+Certificat d'officier de police judiciaire
+
+Diplôme d'arme de la gendarmerie nationale
+
+|
+
 Systèmes d'information et de communication
 
 |
