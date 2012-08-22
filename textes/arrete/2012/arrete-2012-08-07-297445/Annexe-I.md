@@ -1,14 +1,22 @@
-# Article Annexes
+# Article Annexe I
 
-ANNEXE 1
+LISTE DES SPÉCIALITÉS DANS LESQUELLES PEUVENT ÊTRE RECRUTÉS
 
-LISTE DES SPÉCIALITÉS DANS LESQUELLES PEUVENT ÊTRE RECRUTÉS LES TECHNICIENS DU MINISTÈRE DE LA DÉFENSE
+LES TECHNICIENS SUPÉRIEURS D'ÉTUDES ET DE FABRICATIONS DE 3e CLASSE
 
 SPÉCIALITÉS
 
 |
 
 DÉFINITION DE LA SPÉCIALITÉ
+
+|
+
+Achats
+
+|
+
+Participer aux activités de suivi de l'exécution et de la passation des marchés, établir et suivre les achats sur factures et marchés simples.
 
 |
 
@@ -44,7 +52,7 @@ Collecter, contrôler et mettre en forme les données géographiques et créer d
 
 |
 
-Electronique ― Maintenance
+Electronique - maintenance
 
 |
 
@@ -52,7 +60,7 @@ Activités destinées à assurer les opérations de maintenance préventive et c
 
 |
 
-Electrotechnique ― Maintenance
+Electrotechnique - maintenance
 
 |
 
@@ -68,7 +76,7 @@ Procéder à la maintenance préventive et corrective de systèmes techniques (i
 
 |
 
-Génie civil ― Encadrement de chantier
+Génie civil - encadrement de chantier
 
 |
 
@@ -76,11 +84,11 @@ Surveillance technique et maintien en état des infrastructures, incluant les in
 
 |
 
-Génie civil ― Etudes techniques
+Génie civil - études techniques
 
 |
 
-Elaboration technique du projet d'une opération d'infrastructure (études techniques et graphiques, métrés et estimations, rédaction des pièces contractuelles...).
+Elaboration technique du projet d'une opération d'infrastructure (études techniques et graphiques, métrés et estimations, rédaction des pièces contractuelles, etc.).
 
 |
 
@@ -96,7 +104,7 @@ Infographie
 
 |
 
-Participer à la réalisation ou réaliser un support de communication (création de plaquettes, de projets d'affiches, de brochures, de catalogues...).
+Participer à la réalisation ou réaliser un support de communication (création de plaquettes, de projets d'affiches, de brochures, de catalogues, etc.).
 
 |
 
@@ -128,7 +136,7 @@ Métiers de la restauration, hébergement, loisirs
 
 |
 
-Ensemble des activités liées à la restauration, de la production à la distribution ainsi que les activités relatives à l'hébergement et aux loisirs.
+Ensemble des activités liées à la restauration, de la production à la distribution, ainsi que les activités relatives à l'hébergement et aux loisirs.
 
 |
 
@@ -140,7 +148,7 @@ Participer à la mise en œuvre de la politique en matière de sécurité des pe
 
 |
 
-Optique, optronique ― Maintenance
+Optique, optronique - maintenance
 
 |
 
@@ -148,7 +156,7 @@ Exécuter, réparer, monter et régler les appareils d'optique ou d'optronique.
 
 |
 
-Pyrotechnie ― Stockage, maintenance
+Pyrotechnie - stockage - maintenance
 
 |
 
@@ -156,14 +164,18 @@ Activités liées à la mise en œuvre des matières explosives et des compositi
 
 |
 
+Sciences et techniques de la mer
+
+|
+
+Collecter, contrôler et mettre en forme l'information et la documentation dans les domaines de l'hydrographie, la bathymétrie, de la marée et des courants, de l'océanographie et de la géophysique. Mener des activités destinées à assurer les opérations de maintenance préventive et corrective, ou les essais de l'instrumentation océanographique.
+
+|
+
 Télécommunications
 
 |
 
-Ensemble des métiers d'expertise participant à la conception, au développement, au déploiement, à l'exploitation et la maintenance des systèmes de communication.
+Ensemble des métiers d'expertise participant à la conception, au développement, au déploiement, à l'exploitation et à la maintenance des systèmes de communication.
 
 |
-
-ANNEXE 2
-
-Vous pouvez consulter le tableau dans le JO n° 51 du 02/03/2010 texte numéro 29
