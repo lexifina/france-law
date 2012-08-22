@@ -1,6 +1,8 @@
-# Article Annexe 1
+# Article Annexe I
 
-LISTE DES SPÉCIALITÉS DANS LESQUELLES PEUVENT ÊTRE RECRUTÉS LES INGÉNIEURS D'ÉTUDES ET DE FABRICATIONS
+LISTE DES SPÉCIALITÉS DANS LESQUELLES PEUVENT ÊTRE RECRUTÉS
+
+LES INGÉNIEURS D'ÉTUDES ET DE FABRICATIONS
 
 SPÉCIALITÉS
 
@@ -54,7 +56,7 @@ Chimie des procédés industriels et chimie des hydrocarbures
 
 |
 
-Diriger un programme de recherche. Concevoir, développer et expérimenter les méthodes, protocoles, technologies et moyens d'essais dans le domaine de la chimie.
+Concevoir, développer et expérimenter les méthodes, protocoles, technologies et moyens d'essais dans le domaine de la chimie, notamment la chimie des hydrocarbures. Animer et encadrer des équipes de techniciens. Diriger un programme de recherche/développement.
 
 |
 
@@ -90,11 +92,11 @@ Concevoir, définir et effectuer les travaux de développement d'un produit ou d
 
 |
 
-Génie civil - Etudes techniques
+Génie civil-études techniques
 
 |
 
-Procéder à l'élaboration technique d'une opération d'infrastructure au profit d'un maître d'ouvrage. Activités liées à la détermination des procédés techniques, des méthodes d'organisation et de coût afin de constituer l'avant projet de l'opération d'infrastructure, l'étude d'exécution et la fixation des conditions de réalisation de construction ou de réhabilitation.
+Procéder à l'élaboration technique d'une opération d'infrastructure au profit d'un maître d'ouvrage. Activités liées à la détermination des procédés techniques, des méthodes d'organisation et de coût afin de constituer l'avant-projet de l'opération d'infrastructure, l'étude d'exécution et la fixation des conditions de réalisation de construction ou de réhabilitation.
 
 |
 
@@ -106,7 +108,7 @@ Définir, organiser et réaliser ou faire réaliser les travaux de conception de
 
 |
 
-Matériaux souples (textiles, cuir, élastomère)
+Matériaux souples (textile, cuir, élastomère)
 
 |
 
@@ -114,7 +116,7 @@ Concevoir, définir et effectuer les travaux de conception et de développement 
 
 |
 
-Mécanique - Etudes
+Mécanique - études
 
 |
 
@@ -122,7 +124,7 @@ Concevoir, réaliser et évaluer des systèmes et ensemble mécaniques et élect
 
 |
 
-Mécanique - Maintenance
+Mécanique - maintenance
 
 |
 
@@ -166,11 +168,11 @@ Production et communication audiovisuelle
 
 |
 
-Réaliser un support de communication audiovisuelle. Assurer la mise en œuvre et le suivi de l'ensemble des moyens destiné à une production (écrite ou audiovisuelle).
+Réaliser un support de communication audiovisuelle. Assurer la mise en œuvre et le suivi de l'ensemble des moyens destinés à une production (écrite ou audiovisuelle).
 
 |
 
-Pyrotechnie-expertise, essais
+Pyrotechnie - expertise, essais
 
 |
 
@@ -178,7 +180,7 @@ Assurer la maîtrise de la conception d'une munition, d'une fonction ou d'un sou
 
 |
 
-Pyrotechnie ― stockage, maintenance
+Pyrotechnie - stockage, maintenance
 
 |
 
@@ -225,5 +227,3 @@ Télécommunications
 Définir, organiser et réaliser ou faire réaliser les travaux de conception des systèmes de communication. Assurer l'organisation, le suivi et la validation des réalisations de systèmes de communication. Participer aux études fonctionnelles et à la mise en place des mesures d'accompagnement afférentes. Assurer l'organisation du soutien des systèmes de communication.
 
 |
-
-Vous pouvez consulter le tableau dans le JO n° 53 du 04/03/2010 texte numéro 46
