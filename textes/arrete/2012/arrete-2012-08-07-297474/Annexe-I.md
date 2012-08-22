@@ -1,8 +1,8 @@
-# Article Annexe 1
+# Article Annexe I
 
-LISTE DES SPÉCIALITÉS DANS LESQUELLES PEUVENT ÊTRE RECRUTÉS LES TECHNICIENS SUPÉRIEURS
+LISTE DES SPÉCIALITÉS DANS LESQUELLES PEUVENT ÊTRE RECRUTÉS
 
-D'ÉTUDES ET DE FABRICATIONS
+LES TECHNICIENS SUPÉRIEURS D'ÉTUDES ET DE FABRICATIONS DE 2e CLASSE
 
 SPÉCIALITÉS
 
@@ -20,11 +20,19 @@ Participer aux activités liées à la mise en œuvre de la politique d'achat (b
 
 |
 
-Aéronautique ― Etudes techniques
+Aéronautique - études techniques
 
 |
 
 Définir les opérations techniques et logistiques de maintenance préventive, curative et évolutive sur les structures et les systèmes (avioniques, mécaniques et propulsifs) aéronautiques.
+
+|
+
+Agroalimentaire
+
+|
+
+Charger de la prospective et du suivi technique des marchés d'aliments (recherche de fournisseurs, amélioration des produits existants), assurer le respect de la composition de l'emballage, permettant d'améliorer les durées de conservation des produits.
 
 |
 
@@ -40,7 +48,7 @@ Analyses physico-chimiques
 
 |
 
-Mise en œuvre et développement de moyens d'essais physico-chimiques, à vocation analytique. Comprend les analyses radiologiques et de radiochimie.
+Mise en œuvre d'essais physico-chimiques, à vocation analytique. Comprend les analyses radiologiques et de radiochimie.
 
 |
 
@@ -56,7 +64,7 @@ Cartographie
 
 |
 
-Mise en œuvre des méthodes et techniques, conduite des études, spécification et réalisation des travaux nécessaires pour extraire, structurer et représenter l'information géographique afin de permettre sa prise en compte dans le fonctionnement des systèmes d'armes et unités opérationnelles et pour la réalisation de la mission de service public.
+Mise en œuvre des méthodes et techniques, conduite des études, spécification et réalisation des travaux, nécessaires pour extraire, structurer et représenter l'information géographique afin de permettre sa prise en compte dans le fonctionnement des systèmes d'armes et unités opérationnelles et pour la réalisation de la mission de service public.
 
 |
 
@@ -64,7 +72,7 @@ Chimie des procédés industriels et chimie des hydrocarbures
 
 |
 
-Mise en œuvre de méthodes, protocoles, technologies et moyens d'essais dans le domaine de la chimie et participation à leur conception, à leur développement et à leur expérimentation.
+Mise en œuvre d'essais physico-chimiques. Participation à la conception, au développement et à l'expérimentation des méthodes, protocoles, technologies et moyens d'essais dans le domaine de la chimie, notamment la chimie des hydrocarbures.
 
 |
 
@@ -92,11 +100,19 @@ Intervention dans la conception d'un produit ou d'un objet et dans l'organisatio
 
 |
 
-Génie civil ― Etudes techniques
+Génie civil - études techniques
 
 |
 
-Elaboration technique du projet d'une opération d'infrastructure (études techniques et graphiques, métrés et estimations, rédaction des pièces contractuelles...)
+Elaboration technique du projet d'une opération d'infrastructure (études techniques et graphiques, métrés et estimations, rédaction des pièces contractuelles...).
+
+|
+
+Gestion des matériels et des approvisionnements
+
+|
+
+Elaborer les actions nécessaires à une gestion optimisée des matériels et des équipements en respectant la maîtrise des coûts et des risques, dégager des processus d'application.
 
 |
 
@@ -116,7 +132,7 @@ Assurer la définition technique de tous les produits d'emballage liés au condi
 
 |
 
-Matériaux souples (textiles, cuir, élastomère)
+Matériaux souples (textile, cuir, élastomère)
 
 |
 
@@ -124,7 +140,7 @@ Superviser, créer et réaliser des patronages et des gradations à partir d'un 
 
 |
 
-Mécanique ― Etudes
+Mécanique - études
 
 |
 
@@ -156,7 +172,7 @@ Participer à l'élaboration d'un produit sonore aux fins de communication, à l
 
 |
 
-Optique, optronique ― Etudes
+Optique, optronique - études
 
 |
 
@@ -204,7 +220,7 @@ Assurer la mise en œuvre et le suivi des moyens matériels, humains, juridiques
 
 |
 
-Pyrotechnie ― expertise, essais
+Pyrotechnie - expertise, essais
 
 |
 
@@ -259,5 +275,3 @@ Télécommunications
 Ensemble des métiers d'expertise participant à la conception, au développement, au déploiement, à l'exploitation et la maintenance des systèmes de communication.
 
 |
-
-Vous pouvez consulter le tableau dans le JO n° 53 du 04/03/2010 texte numéro 47
