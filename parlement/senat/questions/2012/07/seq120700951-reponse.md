@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700951
+
+- Question : [SEQ120700951](seq120700951.md) — Féminisation des équipages de sous-marins français
+
+## Réponse
+
+*Défense, JO du 2012-08-23, page 1877*
+
+La marine nationale a poursuivi, depuis 1993, une politique d'ouverture au personnel féminin qui porte aujourd'hui ses fruits. En effet, avec 46 bâtiments de surface à équipage mixte, les femmes sont présentes dans tous les grades, de matelot à officiers supérieurs, et y occupent des postes variés, y compris celui de commandant de bâtiment de combat ou de flottille d'hélicoptères. La marine leur offre des perspectives de carrières identiques aux hommes dans la plupart des filières et cette année, une femme va être nommée contre-amirale à compter du 1er septembre, après une carrière opérationnelle notamment marquée par deux commandements à la mer. À bord des sous-marins, la question de la mixité soulève en revanche quelques interrogations liées aux conditions de promiscuité particulières à ce type de bâtiment, pendant des patrouilles longues. Par ailleurs, les générations actuelles de sous-marins n'ont pas été conçues et aménagées pour accueillir dans un espace très restreint un équipage mixte dans des conditions décentes. Pour autant, consciente des évolutions ultérieures possibles, la marine nationale a souhaité que la possibilité d'introduire la mixité soit prévue dans la conception de ses futurs sous-marins. Ainsi, la nouvelle génération de sous-marins nucléaires d'attaque de la classe Barracuda, dont les premiers bâtiments seront livrés à partir de 2017, disposera d'infrastructures adaptées à l'embarquement de femmes. En attendant, la marine nationale française poursuit ses travaux d'analyse et de faisabilité en prenant en compte la mise en œuvre des politiques conduites par certaines autres marines en matière d'accueil du personnel féminin à bord des sous-marins, notamment celle du Royaume-Uni.
