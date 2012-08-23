@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700424
+
+- Question : [SEQ120700424](seq120700424.md) — Reconnaissance de l'engagement des sapeurs-pompiers volontaires d'aérodrome
+
+## Réponse
+
+*Intérieur, JO du 2012-08-23, page 1879*
+
+Mme la sénatrice appelle l'attention de M. le ministre de l'intérieur sur l'attribution de la médaille d'honneur des sapeurs-pompiers aux pompiers d'aérodrome. Les modalités d'attribution de cette médaille d'honneur, destinée à récompenser la durée des services accomplis en cette qualité par les sapeurs-pompiers civils, professionnels ou volontaires, sont en cours de modification afin que cette médaille puisse également être attribuée aux sapeurs-pompiers de Paris, aux marins pompiers de Marseille et aux militaires des unités d'instruction et d'intervention de la sécurité civile. Ces unités, affectées pour emploi au ministère de l'intérieur, ont pour mission de porter secours aux personnes et aux biens dans un secteur géographique défini. Les aéroports et aérodromes dépendent du ministre délégué auprès de Mme la ministre de l'écologie, du développement durable et de l'énergie, chargé des transports, de la mer et de la pêche. Les qualifications des pompiers d'aérodrome sont définies par la direction générale de l'aviation civile. La diversité des statuts des aéroports entraîne la diversité dans les statuts et les régimes applicables aux pompiers d'aérodromes. Certains dépendent des services départementaux d'incendie et de secours, d'autres proviennent d'unités militaires et d'autres d'organismes tiers. Le métier de pompier d'aérodrome ne recouvre pas l'ensemble du métier de sapeur-pompier tel qu'il est entendu au ministère de l'intérieur. Tant que le métier de pompier d'aérodrome n'est pas répertorié dans les nomenclatures des professions et compte tenu de l'ensemble des éléments précédemment cités, il paraît inapproprié d'élargir l'octroi de la médaille d'honneur des sapeurs-pompiers au-delà du périmètre envisagé.
