@@ -6,11 +6,15 @@ UNITÉS DE FORMATION
 
 |
 
-CONTENU
+CONTENU INDICATIF
 
 |
 
 VOLUME HORAIRE
+
+|
+
+COMPÉTENCES VISÉES
 
 |
 
@@ -20,10 +24,6 @@ Unité de formation principale portant sur le processus de médiation et l'inté
 
 La médiation : un concept
 
-- principes fondamentaux
-
-- philosophie et éthique des médiations
-
 |
 
 70 heures
@@ -32,25 +32,45 @@ La médiation : un concept
 
 |
 
-- phénoménologie des médiations
-
-- historique et spécificité des médiations
-
-- différentes étapes du processus de médiation
+1
 
 |
 
 |
 
-|
-
-- gestion des conflits et effets
-
-- restauration des liens
-
-- grilles d'analyse des situations et techniques d'entretiens spécifiques
+DC1/ DC3
 
 |
+
+Principes fondamentaux
+
+Philosophie et éthique des médiations
+
+Phénoménologie des médiations
+
+Historique et spécificité des médiations
+
+|
+
+|
+
+2
+
+|
+
+|
+
+DC1
+
+|
+
+Différentes étapes du processus de médiation
+
+Gestion des conflits et effets
+
+Restauration des liens
+
+Grilles d'analyse des situations et techniques d'entretiens spécifiques
 
 |
 
@@ -62,25 +82,11 @@ La médiation familiale :
 
 - potentialités et limites
 
-|
-
-210 heures
-
-|
-
-|
-
 - définition, processus particulier
 
 - posture du médiateur familial : position de tiers
 
-- responsabilités du médiateur social familial
-
-|
-
-|
-
-|
+- responsabilités du médiateur familial
 
 - place de l'écrit
 
@@ -88,23 +94,11 @@ La médiation familiale :
 
 - médiation intergénérationnelle
 
-|
-
-|
-
-|
-
 - médiation familiale successorale
 
 - médiation familiale dans le contexte de la protection de l'enfance et de l'adolescence
 
 - médiation familiale dans le contexte pénal
-
-|
-
-|
-
-|
 
 - médiation familiale internationale et interculturelle
 
@@ -112,7 +106,7 @@ La médiation familiale :
 
 |
 
-|
+210 heures
 
 |
 
@@ -124,13 +118,27 @@ Accompagnement au processus de médiation familiale et analyse de sa pratique
 
 |
 
+DC1/ DC3
+
+|
+
 Unité de formation contributive : droit
 
 |
 
-- droit civil et droit pénal de la famille
+Droit civil et droit pénal de la famille
 
-- droit patrimonial de la famille
+Droit patrimonial de la famille
+
+Présentation des normes juridiques
+
+Le sujet de droit et les droits subjectifs
+
+L'organisation juridictionnelle
+
+L'action en justice
+
+Les procédures de divorce et de séparation
 
 |
 
@@ -138,25 +146,7 @@ Unité de formation contributive : droit
 
 |
 
-|
-
-- présentation des normes juridiques
-
-- le sujet de droit et les droits subjectifs
-
-|
-
-|
-
-|
-
-- l'organisation juridictionnelle
-
-- l'action en justice
-
-- les procédures de divorce et de séparation
-
-|
+DC2
 
 |
 
@@ -164,9 +154,17 @@ Unité de formation contributive : psychologie
 
 |
 
-- étude des structures familiales
+Etude des structures familiales
 
-- développement psycho-affectif et construction identitaire de l'enfant
+Développement psycho-affectif et construction identitaire de l'enfant
+
+Processus de construction du couple
+
+Effets psychologiques du conflit sur la famille
+
+Psycho-pathologie de la famille
+
+Les séparations et (ou) la rupture et leurs effets sur la dynamique familiale
 
 |
 
@@ -174,23 +172,7 @@ Unité de formation contributive : psychologie
 
 |
 
-|
-
-- processus de construction du couple
-
-- effets psychologiques du conflit sur la famille
-
-|
-
-|
-
-|
-
-- psycho-pathologie de la famille
-
-- les séparations et (ou) la rupture et leurs effets sur la dynamique familiale
-
-|
+DC2
 
 |
 
@@ -198,9 +180,15 @@ Unité de formation contributive : sociologie
 
 |
 
-- évolution sociologique et démographique de la famille
+Evolution sociologique et démographique de la famille
 
-- anthropologie des relations familiales
+Anthropologie des relations familiales
+
+Interculturalité et famille
+
+Du couple à la parentalité
+
+Les liens familiaux
 
 |
 
@@ -208,15 +196,7 @@ Unité de formation contributive : sociologie
 
 |
 
-|
-
-- inter-culturalité et famille
-
-- du couple à la parentalité
-
-- les liens familiaux
-
-|
+DC2
 
 |
 
@@ -230,6 +210,10 @@ Méthodologie d'élaboration du mémoire
 
 |
 
+DC2
+
+|
+
 Formation pratique
 
 |
@@ -239,5 +223,29 @@ Stage de mise en situation dans un service de médiation familiale favorisant l'
 |
 
 105 heures en discontinu
+
+|
+
+DC1
+
+DC2
+
+DC3
+
+|
+
+En cas de validation partielle du diplôme par VAE et de poursuite par la voie de la formation, la durée de stage est allégée de :
+
+|
+
+70 heures
+
+35 heures
+
+|
+
+si DC1 validé
+
+si DC2 validé
 
 |
