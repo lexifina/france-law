@@ -3140,11 +3140,11 @@ F.-TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DES MATÉRIAUX DE CONSTRUCTION
 
 F-1. - Produits relevant du centre d'études et de recherche de l'industrie du béton
 
-23.20.13
+23.20.12
 
 |
 
-Ciments, mortiers, bétons et compositions similaires réfractaires NCA.
+Briques, dalles, carreaux et matériaux céramiques réfractaires de construction, autres que ceux en farines siliceuses fossiles ou en terres siliceuses
 
 |
 
@@ -3152,7 +3152,7 @@ Ciments, mortiers, bétons et compositions similaires réfractaires NCA.
 
 |
 
-Béton réfractaire, éléments de fours.
+Béton réfractaire. Eléments de fours, autres....
 
 |
 
@@ -3168,7 +3168,7 @@ Opérations sous-traitées intervenant dans la fabrication de produits réfracta
 
 |
 
-Blocs, tuiles, carreaux, dalles, pavés, entre vous et articles similaires, en ciment, béton ou pierre artificielle.
+Blocs, tuiles, carreaux, dalles, pavés, entrevous et articles similaires, en ciment, béton ou pierre artificielle.
 
 |
 
@@ -3180,7 +3180,7 @@ Béton cellulaire.
 
 |
 
-Blocs en béton cellulaire autoclavé.
+Blocs béton cellulaire autoclavé.
 
 |
 
@@ -3260,7 +3260,7 @@ Carreaux et dalles pour le sol.
 
 |
 
-Carreaux et dalles pour sols intérieurs, extérieurs, abords de piscine.
+Carreaux et dalles pour sols intérieurs, extérieurs, abords de piscine, autres...
 
 |
 
@@ -3428,7 +3428,7 @@ Bordures et caniveaux.
 
 |
 
-Eléments de protection urbain, séparateur de voirie.
+Eléments de protection urbains, séparateur de voirie.
 
 |
 
@@ -3556,7 +3556,7 @@ Clôtures, ECL.
 
 |
 
-Clôtures et poteaux, panneaux, lisses, éléments annexes (couronnements, plots, éléments de fondations...).
+Clôtures et poteaux, panneaux, lisses, autres éléments annexes...
 
 |
 
