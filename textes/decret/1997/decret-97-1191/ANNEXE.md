@@ -1014,7 +1014,7 @@ Décisions à caractère financier résultant de l'application des décisions :
 
 |
 
-Décisions à caractère financier résultant de l'application des décisions juridictionnelles rendues dans les procédures où le ministre de l'intérieur, et pour son compte l'agent judiciaire du Trésor ou le ministre des affaires étrangères représentait l'Etat en défense.
+Décisions à caractère financier résultant de l'application des décisions juridictionnelles rendues dans les procédures où le ministre de l'intérieur, et pour son compte l'agent judiciaire de l'Etat ou le ministre des affaires étrangères représentait l'Etat en défense.
 
 |
 
