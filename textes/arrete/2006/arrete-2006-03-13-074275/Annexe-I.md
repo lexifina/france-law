@@ -2,27 +2,27 @@
 
 PROGRAMME DE FORMATION
 
-La préparation pour l'obtention du certificat de capacité pour effectuer des prélèvements sanguins en vue d'analyses de biologie médicale comprend une formation théorique et un stage pratique.
+La préparation pour l'obtention du certificat de capacité pour effectuer des prélèvements sanguins en vue d'examens de biologie médicale comprend une formation théorique et un stage pratique.
 
 Au terme de cette préparation, le candidat devra être capable de :
 
-- reconnaître le type de prélèvement qu'il doit faire, suivant les indications du prescripteur ;
+-reconnaître le type de prélèvement qu'il doit faire, suivant les indications du prescripteur ;
 
-- choisir le matériel et la méthode qui y correspondent ;
+-choisir le matériel et la méthode qui y correspondent ;
 
-- effectuer l'étiquetage du récipient pour échantillons permettant l'identification du patient et de l'examen ;
+-effectuer l'étiquetage du récipient pour échantillons permettant l'identification du patient et de l'examen ;
 
-- préparer le patient pour prévenir toutes les complications ;
+-préparer le patient pour prévenir toutes les complications ;
 
-- exécuter un prélèvement de sang veineux ou capillaire en vue d'analyses biologiques sans risque pour le patient ;
+-exécuter un prélèvement de sang veineux ou capillaire en vue d'examens biologiques sans risque pour le patient ;
 
-- choisir, en cas de nécessité, les modalités de transmission à un autre laboratoire du prélèvement, en fonction de sa nature et de son but ;
+-choisir, en cas de nécessité, les modalités de transmission à un autre laboratoire du prélèvement, en fonction de sa nature et de son but ;
 
-- assurer la maintenance du matériel ;
+-assurer la maintenance du matériel ;
 
-- appliquer les règles d'hygiène et de sécurité et les dispositions prévues par le guide de bonne exécution des analyses.
+-appliquer les règles d'hygiène et de sécurité et les dispositions prévues par le guide de bonne exécution des examens.
 
-I. - Programme-Formation théorique
+I.-Programme-Formation théorique
 
 1. Notions générales sur les prélèvements sanguins
 
@@ -44,13 +44,13 @@ I. - Programme-Formation théorique
 
 3.3. Techniques de prélèvement :
 
-- points de ponction ;
+-points de ponction ;
 
-- méthodes ;
+-méthodes ;
 
-- prévention des complications ;
+-prévention des complications ;
 
-- précautions indispensables pour la protection du patient, du préleveur et du produit à analyser, notamment l'hygiène des mains ;
+-précautions indispensables pour la protection du patient, du préleveur et du produit à analyser, notamment l'hygiène des mains ;
 
 3.4. Conduite à tenir en cas d'incident ou d'accident.
 
@@ -62,19 +62,19 @@ I. - Programme-Formation théorique
 
 5. Elimination des déchets
 
-II. - Le stage pratique
+II.-Le stage pratique
 
-Au terme du stage prévu à l'article 5 du présent arrêté, le candidat doit être capable de pratiquer, sans risque pour le patient, un prélèvement de sang veineux ou capillaire destiné à une analyse de biologie médicale.
+Au terme du stage prévu à l'article 5 du présent arrêté, le candidat doit être capable de pratiquer, sans risque pour le patient, un prélèvement de sang veineux ou capillaire destiné à un examen de biologie médicale.
 
 Certificat de capacité
 
-autorisant les techniciens des laboratoires d'analyses
+autorisant les techniciens des laboratoires d'examens
 
 de biologie médicale à effectuer
 
 les prélèvements sanguins
 
-(art. R. 6211-32 du code de la santé publique)
+(art. R. 4352-13 du code de la santé publique)
 
 PHOTO
 
@@ -92,7 +92,7 @@ Adresse personnelle :
 
 Diplômes :
 
-Direction départementale des affaires sanitaires et sociales (cachet) :
+Agence régionale de santé (cachet) :
 
 Epreuve théorique
 
@@ -144,11 +144,11 @@ Composition du jury :
 
 Types de prélèvements (dont deux au pli du coude) : préciser la localisation :
 
-- prélèvement 1 :
+-prélèvement 1 :
 
-- prélèvement 2 :
+-prélèvement 2 :
 
-- prélèvement 3 :
+-prélèvement 3 :
 
 Appréciation générale :
 
