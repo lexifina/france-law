@@ -1,0 +1,9 @@
+# Réponse à la question n° 2811
+
+- Question : [2811](2811.md) — Question n° 2811 — harkis
+
+## Réponse
+
+*JO du 2012-08-28*
+
+La question des Harkis fait partie des questions les plus douloureuses léguées par notre histoire partagée avec l'Algérie. Les autorités françaises sont pleinement conscientes de la détresse personnelle ressentie par ceux de nos compatriotes qui sont encore aujourd'hui dans l'impossibilité de se rendre en Algérie, notamment pour y rendre visite à leur famille ou rendre un hommage à leurs aïeux. Cette sensibilité est partagée par l'ensemble des autorités françaises, de la présidence de la République française aux conseils municipaux, en passant bien sûr par le ministère des Affaires étrangères. La circulation des Harkis n'est pas essentiellement un problème juridique : il n'y a pas de droit spécifique dont des citoyens français pourraient se prévaloir pour accéder au territoire algérien mais c'est une question importante à la fois humaine et politique qui fait l'objet d'un dialogue avec les autorités algériennes. Le ministre des Affaires étrangères a évoqué cette question avec ses interlocuteurs algériens lors de sa première visite dans le pays les 15 et 16 juillet derniers. Cette question est évoquée aujourd'hui dans le cadre des négociations en cours autour d'un nouvel avenant à la convention de circulation du 27 décembre 1968 sur la circulation, l'établissement et le travail des ressortissants algériens en France. Dans le cadre de cette négociation, les autorités françaises demanderont aux autorités algériennes des conditions d'accueil et de circulation pour les ressortissants français plus favorables que celles actuellement pratiquées en Algérie. Des restrictions subsistent et nous en saisissons les autorités algériennes, dans le respect de leur souveraineté, mais aussi avec la forte volonté de résoudre ces drames humains.
