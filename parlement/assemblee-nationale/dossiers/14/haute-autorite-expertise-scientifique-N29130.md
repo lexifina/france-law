@@ -1,0 +1,54 @@
+# Recherche, sciences et techniques :  expertise en matière de santé et d'environnement et lanceurs d'alerte
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29130
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/haute_autorite_expertise_scientifique
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl11-747.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-08-28 : 1er dépôt d'une initiative. (PIONSNR5S198B0747)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-08-28 : Renvoi en commission au fond
+      - 2012-09-11 : Nomination de rapporteur
+      - 2012-10-09 : Dépôt de rapport (RAPPSNR5S199B0024)
+    - Travaux d'une commission saisie pour avis
+      - 2012-09-26 : Saisine pour avis d'une commission
+      - 2012-09-26 : Nomination de rapporteur
+      - 2012-10-10 : Dépôt de rapport (AVISSNR5S199B0032)
+  - Discussion en séance publique
+    - 2012-10-15 : Discussion en séance publique
+    - 2012-11-21 : Discussion en séance publique
+    - 2012-11-21 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-11-21 : Dépôt d'une initiative en navette (PIONANR5L14B0432)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-11-21 : Renvoi en commission au fond
+      - 2012-12-19 : Nomination de rapporteur
+      - 2013-01-23 : Réunion de commission
+      - 2013-01-30 : Réunion de commission
+      - 2013-01-23 : Dépôt de rapport (RAPPANR5L14B0650, PIONANR5L14BTC0650)
+    - Travaux d'une commission saisie pour avis
+      - 2012-12-03 : Saisine pour avis d'une commission
+      - 2012-12-12 : Nomination de rapporteur
+      - 2013-01-15 : Réunion de commission
+      - 2013-01-15 : Dépôt de rapport (AVISANR5L14B0584)
+  - Discussion en séance publique
+    - 2013-01-31 : Discussion en séance publique
+    - 2013-01-31 : Discussion en séance publique
+    - 2013-01-31 : Décision
+- deuxième lecture
+  - 2013-02-01 : Dépôt d'une initiative en navette (PIONSNR5S199B0329)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-02-01 : Renvoi en commission au fond
+      - 2013-03-27 : Dépôt de rapport (RAPPSNR5S199B0451)
+  - Discussion en séance publique
+    - 2013-04-03 : Discussion en séance publique
+    - 2013-04-03 : Décision
+- Promulgation de la loi
+  - 2013-04-16 : Promulgation d'une loi
