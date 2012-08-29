@@ -1,0 +1,71 @@
+# Travail : création des emplois d'avenir
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29012
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/creation_emplois_avenir
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl11-760.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-08-29 : 1er dépôt d'une initiative. (PRJLANR5L14B0146)
+  - 2012-08-29 : Etude d'impact (ETDIANR5L14B0146)
+  - 2012-08-29 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-08-29 : Renvoi en commission au fond
+      - 2012-09-04 : Nomination de rapporteur
+      - 2012-09-04 : Réunion de commission
+      - 2012-09-04 : Réunion de commission
+      - 2012-09-04 : Réunion de commission
+      - 2012-09-04 : Réunion de commission
+      - 2012-09-11 : Réunion de commission
+      - 2012-09-05 : Dépôt de rapport (RAPPANR5L14B0148, PRJLANR5L14BTC0148)
+    - Travaux d'une commission saisie pour avis
+      - 2012-08-30 : Saisine pour avis d'une commission
+      - 2012-09-04 : Nomination de rapporteur
+      - 2012-09-04 : Réunion de commission
+      - 2012-09-04 : Réunion de commission
+      - 2012-09-04 : Dépôt de rapport (AVISANR5L14B0147)
+  - Discussion en séance publique
+    - 2012-09-11 : Discussion en séance publique
+    - 2012-09-11 : Discussion en séance publique
+    - 2012-09-12 : Discussion en séance publique
+    - 2012-09-12 : Discussion en séance publique
+    - 2012-09-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-09-13 : Dépôt d'une initiative en navette (PRJLSNR5S198B0760)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-09-13 : Renvoi en commission au fond
+      - 2012-09-12 : Nomination de rapporteur
+      - 2012-09-18 : Dépôt de rapport (RAPPSNR5S198B0768)
+    - Travaux d'une commission saisie pour avis
+      - 2012-09-12 : Saisine pour avis d'une commission
+      - 2012-09-12 : Nomination de rapporteur
+      - 2012-09-20 : Dépôt de rapport (AVISSNR5S198B0772)
+  - Discussion en séance publique
+    - 2012-09-24 : Discussion en séance publique
+    - 2012-09-25 : Discussion en séance publique
+    - 2012-09-25 : Décision
+- Commission Mixte Paritaire
+  - 2012-09-26 : Dépôt d'un projet de loi (PRJLANR5L14B0231)
+  - 2012-09-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-10-02 : Nomination de rapporteur
+    - 2012-10-02 : Dépôt du rapport d'une CMP (RAPPANR5L14B0237)
+    - 2012-10-02 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0001)
+  - Discussion en séance publique
+    - 2012-10-04 : Discussion en séance publique
+    - 2012-10-09 : Discussion en séance publique
+    - 2012-10-09 : Décision
+  - Discussion en séance publique
+    - 2012-10-09 : Discussion en séance publique
+    - 2012-10-09 : Décision
+  - 2012-10-02 : Décision de la CMP
+- Conseil constitutionnel
+  - 2012-10-11 : Saisine du conseil constitutionnel
+  - 2012-10-24 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2012-10-26 : Promulgation d'une loi
