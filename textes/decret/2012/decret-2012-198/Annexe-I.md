@@ -62,7 +62,7 @@ Guillot Cobreda
 
 |
 
-Poulets, dindes
+Poulets, pintades
 
 |
 
@@ -92,11 +92,7 @@ SARL JBA
 
 |
 
-Poulets, dindes,
-
-lapins de chair, canards,
-
-pintades, pigeons
+Poulets, lapins de chair, canards maigres, pintades
 
 |
 
