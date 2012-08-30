@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120801357
+
+- Question : [SEQ120801357](seq120801357.md) — Problématique du dispositif de radar aux feux pour les véhicules longs
+
+## Réponse
+
+*Intérieur, JO du 2012-08-30, page 1908*
+
+L'objectif des dispositifs de contrôle de franchissement de feux rouges est de lutter contre l'insécurité et l'incivilité en ville et d'inciter les usagers à respecter la signalisation sur la totalité de leur trajet. Ils contribuent également à pacifier le milieu urbain et à protéger les usagers vulnérables tels que les cyclistes et les piétons. Ces dispositifs sont conçus pour se déclencher uniquement lors du franchissement d'un feu pendant la phase de rouge et ne peuvent donc flasher des conducteurs durant la phase de feu orange. Ils prennent un premier cliché alors que le véhicule a débuté le franchissement de la ligne d'effet des feux. Le second cliché montre le véhicule au-delà du feu caractérisant l'infraction. Ainsi, un poids lourd à long gabarit tel un semi-remorque, ayant débuté le franchissement du feu au vert ou à l'orange ne sera pas sanctionné, même si l'arrière de sa remorque est passé au rouge. Par ailleurs, le Centre automatisé de constatation des infractions routières (CACIR) apprécie les circonstances particulières avant d'émettre un avis de contravention et n'établit pas de contravention s'il constate sur la photo que l'infraction n'est pas caractérisée ou s'il existe le moindre doute sur les circonstances de la constatation. De plus, le fonctionnement des feux de circulation obéit à la Convention internationale sur la signalisation routière signée à Vienne le 8 novembre 1968 qui indique dans son article 23 le principe des feux non clignotants. Ainsi, le dispositif actuel répond déjà aux inquiétudes des professionnels du transport, et il n'est pas prévu de modifier le fonctionnement des feux tricolores.
