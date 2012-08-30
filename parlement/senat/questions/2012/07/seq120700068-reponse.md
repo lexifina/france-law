@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700068
+
+- Question : [SEQ120700068](seq120700068.md) — Aménagement de la Nationale 12, projet de la société Axe 12
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2012-08-30, page 1908*
+
+Le projet d'aménager la route nationale 12 en 2x2 voies demeure d'actualité. Néanmoins, le contexte budgétaire très contraint ne permet pas à l'État d'envisager aujourd'hui sur crédits publics un aménagement autrement que progressif de l'axe. C'est la raison pour laquelle le traitement des zones de congestion ou présentant des enjeux de sécurité ont été en premier privilégiées. Ainsi, à l'est d'Alençon, 8,3 M€ et 30 M€ ont été inscrits à l'actuel PDMI pour l'aménagement, respectivement, de la déviation de Sainte-Anne - Saint-Maurice et la section Mortagne-au-Perche - Tourouvre dont les études préalables à l'enquête publique vont être lancées prochainement. Dans ce contexte, le groupement privé « Axe 12 » propose aujourd'hui un contrat de partenariat public-privé avec mise en place d'un péage par l'État qui permettrait selon ses promoteurs l'achèvement rapide de la mise à 2x2 voies de cette route entre Nonancourt et Alençon pour un coût raisonnable pour la collectivité. Cette proposition laisse toutefois apparaître quelques incertitudes. Outre les réelles difficultés juridiques notamment d'égalité devant le péage, la proposition repose sur une réalisation préalable du projet actuellement en étude de mise en concession de la RN 154 entre Allaines et Nonancourt et s'appuie sur un bilan financier fondé sur des évaluations optimistes des trafics susceptibles d'emprunter le péage, dans un modèle où le risque financier est entièrement assumé par la puissance publique. La proposition fait enfin ressortir un besoin complémentaire de financement public non assuré à ce jour. En conséquence, l'analyse de cette proposition doit être approfondie afin de s'assurer de sa faisabilité et de son intérêt effectif pour la collectivité.
