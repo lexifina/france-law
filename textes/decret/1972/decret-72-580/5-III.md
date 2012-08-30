@@ -6,10 +6,12 @@ Peuvent se présenter au concours interne les fonctionnaires de l'Etat, des coll
 
 L'ensemble de ces conditions s'apprécient à la date de publication des résultats d'admissibilité aux concours.
 
-Pour être nommés fonctionnaires stagiaires, les candidats ayant subi avec succès les épreuves du concours externe doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
-
-Pour être titularisés, les candidats ayant subi avec succès les épreuves du concours interne doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
+Pour être titularisés, les candidats ayant subi avec succès les épreuves d'un des concours doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
 
 Les conditions d'attribution du certificat de compétences en langues de l'enseignement supérieur et du certificat de compétences en informatique et internet sont définies par arrêtés du ministre chargé de l'enseignement supérieur.
 
 La liste des titres, diplômes, certificats, attestations ou qualifications équivalentes attestant des compétences précitées est fixée par arrêté du ministre chargé de l'éducation.
+
+NOTA :
+
+Décret n° 2012-999 du 27 août 2012 article 6 : Les présentes dispositions s'appliquent aux candidats reçus aux concours à partir de la session 2012.
