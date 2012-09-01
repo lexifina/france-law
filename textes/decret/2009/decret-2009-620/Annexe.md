@@ -350,16 +350,6 @@ Décret n° 82-419 du 18 mai 1982 fixant les attributions de la commission des p
 
 |
 
-Commission des téléphériques.
-
-|
-
-|
-
-Arrêté du 5 novembre 1997 portant création d'une commission des téléphériques (articles 3 et 4).
-
-|
-
 Commission des usagers du port pour le service du remorquage portuaire.
 
 |
