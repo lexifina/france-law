@@ -426,14 +426,6 @@ Règlement (CEE) n° 1868/94 du Conseil du 27 juillet 1994 instituant un régime
 
 |
 
-Délivrance des certificats d'importation, d'exportation ou de préfixation, à l'exception de ceux délivrés en Guadeloupe, en Guyane, en Martinique et à La Réunion.
-
-|
-
-Règlement (CE) n° 1291/2000 de la Commission du 9 juin 2000 portant modalités communes d'application du régime des certificats d'importation, d'exportation et de préfixation pour les produits agricoles.
-
-|
-
 Agrément des programmes d'amélioration génétique.
 
 |
