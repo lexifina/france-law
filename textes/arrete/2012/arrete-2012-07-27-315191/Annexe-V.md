@@ -2,21 +2,19 @@
 
 RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE SUITE À UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À L'ARMÉE DE L'AIR
 
-1. Communication et culture
+1. Communication
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -38,23 +36,21 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
-
-|
-
-COEFFICIENT
-
-multiplicateur
+(années)
 
 |
 
-Brevet d'atomicien appliqué aux armes nucléaires (BATAN).
+COEFFICIENT MULTIPLICATEUR
 
 |
 
-2
+Formation en langues rares (chinois, russe, arabe) à l'INALCO.
+
+|
+
+6
 
 |
 
@@ -68,15 +64,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -126,15 +120,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -246,25 +238,7 @@ Stage de prévention HSCT.
 
 |
 
-5. Soutien opérationnel
-
-INTITULÉ DE LA FORMATION
-
-|
-
-DURÉE DU LIEN
-
-au service (années)
-
-|
-
-COEFFICIENT
-
-multiplicateur
-
-|
-
-Banc diagnostic SOURIAU 2610.
+Brevet d'atomicien appliqué aux armes nucléaires (BATAN).
 
 |
 
@@ -273,6 +247,34 @@ Banc diagnostic SOURIAU 2610.
 |
 
 1
+
+|
+
+Formation à la maintenance véhicule incendie VMA (véhicule mousse sur aéroport) 105/108/VIRP/BLOC POMPE.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+5. Soutien opérationnel
+
+INTITULÉ DE LA FORMATION
+
+|
+
+DURÉE DU LIEN AU SERVICE
+
+(années)
+
+|
+
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -312,31 +314,7 @@ Permis C, D, E (B), E (D).
 
 |
 
-Stage de formation à la conduite et protection automobile de niveau 1.
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Transport matières dangereuses.
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Stage industriel NTI 3 maintenance du radar Aladin nouvelle génération durci.
+Contrôle non destructif niveau II
 
 |
 
@@ -344,11 +322,11 @@ Stage industriel NTI 3 maintenance du radar Aladin nouvelle génération durci.
 
 |
 
-1
+2
 
 |
 
-Stage industriel NTI 3 maintenance émetteurs ERFM22/25 et TELEC.
+Contrôle non destructif niveau III
 
 |
 
@@ -356,7 +334,7 @@ Stage industriel NTI 3 maintenance émetteurs ERFM22/25 et TELEC.
 
 |
 
-1
+3
 
 |
 
@@ -384,21 +362,31 @@ Techniques du montage vidéo.
 
 |
 
+Stage industriel GM 400 (radar)
+
+|
+
+3
+
+|
+
+1
+
+|
+
 6. SIC (systèmes d'information et de communication)
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -554,15 +542,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -578,7 +564,7 @@ Brevet du personnel navigant air du 2e degré (BPN Air) (pilote ou navigateur).
 
 |
 
-Formation qualification de type pilote sur hélicoptère Super Puma.
+Stage de qualification pilote sur hélicoptère Super Puma.
 
 |
 
@@ -638,7 +624,7 @@ Formation réentraînement transport (RET).
 
 |
 
-Formation réentraînement hélicoptère (REH).
+Formation pilote avion réorienté hélicoptère (REH).
 
 |
 
@@ -650,25 +636,59 @@ Formation réentraînement hélicoptère (REH).
 
 |
 
+Stage de qualification machine pilote sur hélicoptère EC 725.
+
+|
+
+5
+
+|
+
+2
+
+|
+
+Formation CCQ (cross cockpit qualification) A330 vers A340.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Formation CCQ (cross cockpit qualification).
+
+|
+
+2
+
+|
+
+1
+
+|
+
 7.2. Autres formations
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
-
-|
-
-COEFFICIENT
-
-multiplicateur
+(années)
 
 |
 
-ETIS métrologie (secteur civil)
+COEFFICIENT MULTIPLICATEUR
+
+|
+
+E.T.I.S métrologie (secteur civil)
 
 |
 
@@ -782,15 +802,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 

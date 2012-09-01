@@ -6,15 +6,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -51,5 +49,29 @@ Diplôme d'études spécialisées de médecine du travail obtenu par le concours
 |
 
 1
+
+|
+
+Stage DE Hôpital plus (EHESP) pour les stagiaires n'appartenant pas à l'équipe de direction d'un HIA.
+
+|
+
+4
+
+|
+
+3
+
+|
+
+Suivi d'au moins trois modules de formation à l'Institut français de l'audit et du contrôle interne (IFACI).
+
+|
+
+4
+
+|
+
+3
 
 |

@@ -10,15 +10,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -38,7 +36,7 @@ Ecoles de niveau II militaires :
 
 - école des systèmes de combat et armes navales (ESCAN) ;
 
-- école supérieure des fusiliers commandos (ESFC) ;
+- école supérieure des fusiliers commandos (ESFC)
 
 - école de guerre des mines (EGM) ;
 
@@ -116,19 +114,17 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
-
-|
-
-COEFFICIENT
-
-multiplicateur
+(années)
 
 |
 
-Brevet de pilote d'avion ou d'hélicoptère du 2e degré de l'aéronautique navale.
+COEFFICIENT MULTIPLICATEUR
+
+|
+
+Brevet de pilote d'avion ou d'hélicoptère du deuxième degré de l'aéronautique navale.
 
 |
 
@@ -164,15 +160,15 @@ Formations aéronautiques militaires qualifiantes :
 
 Formations aéronautiques civiles qualifiantes :
 
-- Airline Transport Pilot Licence (ATPL) ;
+- airline transport pilot licence (ATPL) ;
 
-- Commercial Pilot Licence (CPL) ;
+- commercial pilot licence (CPL) ;
 
-- Instrument Rating (IR)
+- instrument rating (IR)
 
-- Flight Instructor (FI) ;
+- flight instructor (FI) ;
 
-- Multi Crew Cooperation (MCC) - qualification de travail en équipage ;
+- multi crew cooperation (MCC) qualification de travail en équipage ;
 
 - stages de langue anglaise aéronautique aux Etats-Unis (DLI).
 
@@ -234,21 +230,31 @@ Brevet maritime de contrôleur de défense aérienne.
 
 |
 
+Stage d'administrateur du système local de préparation et de restitution de mission (SLPRM).
+
+|
+
+3
+
+|
+
+1
+
+|
+
 c) Opérations en milieu maritime :
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -282,15 +288,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -306,6 +310,30 @@ Stage du certificat de nageur de combat.
 
 |
 
+Plongeur de bord
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Certificat de pilote de port du 1er degré
+
+|
+
+2
+
+|
+
+1
+
+|
+
 3. Formations des officiers mariniers
 
 3.1. Règles générales
@@ -314,15 +342,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -422,15 +448,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -452,15 +476,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -506,15 +528,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -530,7 +550,7 @@ Certificat de moniteur de simulateur de vol rafale (C MOSPRAFALE).
 
 |
 
-Certificat d'opérateur en vol conduite machine à bord des avions de patrouille et avions de surveillance maritime (C CM).
+Certificat d'opérateur en vol "conduite machine" à bord des avions de patrouille et avions de surveillance maritime (C CM).
 
 |
 
@@ -566,7 +586,7 @@ Stage sauveteur plongeur hélicoptère spécialisé marine.
 
 |
 
-Stage industriel des systèmes avionique EC 725 CARACAL / EC 225.
+Stage industriel des systèmes avionique EC 725 CARACAL/EC 225.
 
 |
 
@@ -578,7 +598,7 @@ Stage industriel des systèmes avionique EC 725 CARACAL / EC 225.
 
 |
 
-Stage industriel des systèmes porteur et puissance EC 725 CARACAL / EC 225.
+Stage industriel des systèmes porteur et puissance EC 725 CARACAL/EC 225.
 
 |
 
@@ -590,7 +610,7 @@ Stage industriel des systèmes porteur et puissance EC 725 CARACAL / EC 225.
 
 |
 
-Stage industriel mécanicien navigant EC 725 CARACAL / EC 225.
+Stage industriel mécanicien navigant EC 725 CARACAL/EC 225.
 
 |
 
@@ -602,7 +622,7 @@ Stage industriel mécanicien navigant EC 725 CARACAL / EC 225.
 
 |
 
-Stage des systèmes porteur et puissance Rafale.
+Stage des systèmes porteur et puissance rafale.
 
 |
 
@@ -614,7 +634,7 @@ Stage des systèmes porteur et puissance Rafale.
 
 |
 
-Stage des systèmes armement Rafale.
+Stage des systèmes armement rafale.
 
 |
 
@@ -626,7 +646,7 @@ Stage des systèmes armement Rafale.
 
 |
 
-Stage des systèmes avionique Rafale.
+Stage des systèmes avionique rafale.
 
 |
 
@@ -674,25 +694,7 @@ Stage des systèmes porteur et puissance NH 90.
 
 |
 
-Opérations en milieu maritime :
-
-INTITULÉ DE LA FORMATION
-
-|
-
-DURÉE DU LIEN
-
-au service (années)
-
-|
-
-COEFFICIENT
-
-multiplicateur
-
-|
-
-Plongeur de bord.
+Stage dépanneur en ligne ATLANTIQUE ATL 2
 
 |
 
@@ -704,7 +706,19 @@ Plongeur de bord.
 
 |
 
-b) Niveau brevet supérieur :
+Stage dépanneur en ligne HAWKEYE
+
+|
+
+2
+
+|
+
+1
+
+|
+
+b) Niveau brevet supérieur
 
 Prévention et gestion des risques :
 
@@ -712,15 +726,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -740,7 +752,7 @@ Chef d'agrès marin-pompier (CHEFAGRES).
 
 |
 
-2
+4
 
 |
 
@@ -760,25 +772,35 @@ Exercice de la profession d'enseignant de la conduite automobile et de la sécur
 
 |
 
+Formation à la maintenance véhicule incendie VMA (véhicule mousse sur aéroport) 105/108/VIRP/BLOC POMPE.
+
+|
+
+2
+
+|
+
+1
+
+|
+
 Soutien opérationnel :
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
-
-|
-
-COEFFICIENT
-
-multiplicateur
+(années)
 
 |
 
-Stage d'intervention sur munitions et explosifs conventionnels et neutralisation des munitions sous-marines.
+COEFFICIENT MULTIPLICATEUR
+
+|
+
+CMD Diver (intervention sur munitions et explosifs conventionnels et neutralisation des munitions sous-marines "IMEC-Neutra").
 
 |
 
@@ -796,15 +818,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -826,15 +846,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -850,19 +868,7 @@ Cours du certificat de directeur de pont d'envol.
 
 |
 
-Certificat de pilote de port du 1er degré.
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Stage tube lance-missiles niveau supérieur sur SNLE.
+Stage "tube lance-missiles" niveau supérieur sur SNLE.
 
 |
 
@@ -898,7 +904,7 @@ Stage de maître de central sur sous-marin.
 
 |
 
-Stage de mécanicien discrétion acoustique sur SNLE type TRIOMPHANT .
+Stage de mécanicien discrétion acoustique sur SNLE type "TRIOMPHANT".
 
 |
 
@@ -922,21 +928,19 @@ Spécialiste de génie sous-marin.
 
 |
 
-Opérations en milieu aéronautique :
+Opérations en milieu aéronautique
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -952,7 +956,7 @@ Stage d'exploitation des systèmes NH 90
 
 |
 
-c) Niveau brevet de maîtrise :
+c) Niveau brevet de maîtrise
 
 Ressources humaines :
 
@@ -960,31 +964,17 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
-
-|
-
-COEFFICIENT
-
-multiplicateur
+(années)
 
 |
 
-Certificat supérieur ressources humaines .
+COEFFICIENT MULTIPLICATEUR
 
 |
 
-2
-
-|
-
-1
-
-|
-
-Spécialiste en administration financière du personnel (ADMIFINAN).
+Certificat supérieur "ressources humaines".
 
 |
 
@@ -1050,15 +1040,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -1080,15 +1068,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 

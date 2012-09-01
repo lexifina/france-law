@@ -8,15 +8,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -44,7 +42,7 @@ Formation de l'enseignement supérieur validée par la licence (tous domaines) (
 
 |
 
-Formation de l'enseignement supérieur validée par un diplôme conférant le grade de master (tous domaines).
+Formation de l'enseignement supérieur validée par un diplôme conférant le grade de master ou mastère (tous domaines).
 
 |
 
@@ -78,15 +76,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -102,7 +98,7 @@ Centre des hautes études militaires (CHEM).
 
 |
 
-Formations de l'enseignement militaire du premier degré (EMS 1) d'une durée de quatre mois consécutifs minimum (sauf diplôme d'état-major).
+Enseignement militaire du second degré (EMS2).
 
 |
 
@@ -114,7 +110,7 @@ Formations de l'enseignement militaire du premier degré (EMS 1) d'une durée de
 
 |
 
-Enseignement militaire du second degré (EMS 2).
+Formations de l'enseignement militaire du premier degré (EMS1) d'une durée de quatre mois consécutifs minimum (sauf diplôme d'état-major).
 
 |
 
@@ -126,7 +122,7 @@ Enseignement militaire du second degré (EMS 2).
 
 |
 
-Enseignement militaire supérieur scientifique et technique (EMS ST).
+Enseignement militaire supérieur scientifique et technique (EMSST).
 
 |
 
@@ -135,6 +131,18 @@ Enseignement militaire supérieur scientifique et technique (EMS ST).
 |
 
 2
+
+|
+
+Formation de qualification (diplôme d'état-major).
+
+|
+
+2
+
+|
+
+1
 
 |
 
@@ -144,15 +152,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -300,7 +306,19 @@ Stage d'instructeur des techniques d'optimisation du potentiel (EPS, sophrologie
 
 |
 
-Stage du brevet d'Etat d'éducateur sportif des activités de la natation.
+Stage du brevet d'Etat d'éducateur sportif des activités de la natation (BEESAN).
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BPJEPS), option activité aquatique et de la natation (AAN).
 
 |
 
@@ -348,21 +366,31 @@ Stage de spécialité élémentaire sports équestres, option maréchalerie et o
 
 |
 
+Certificat de moniteur de voile nautique.
+
+|
+
+3
+
+|
+
+1
+
+|
+
 4. Santé
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -370,11 +398,15 @@ Formations appelées à être sanctionnées par un certificat ou un diplôme per
 
 |
 
-Double de la période de formation
+double de la période
+
+de formation
 
 |
 
-1 |
+1
+
+|
 
 5. Infrastructure
 
@@ -382,15 +414,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -436,15 +466,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -484,7 +512,7 @@ Certificat de technicien en radioprotection.
 
 |
 
-Equipier d'intervention risques chimiques et biologiques ou chef d'équipe d'intervention risques chimiques et biologiques (RCH 2).
+Equipier d'intervention risques chimiques et biologiques ou chef d'équipe d'intervention risques chimiques et biologiques (RCH 2)
 
 |
 
@@ -584,7 +612,7 @@ Préventionniste (PRV 2) ou attestation de compétence en matière de préventio
 
 |
 
-3
+4
 
 |
 
@@ -610,23 +638,17 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
-
-|
-
-COEFFICIENT
-
-multiplicateur
+(années)
 
 |
 
-Formation intervention sur munitions et explosifs conventionnels.
+COEFFICIENT MULTIPLICATEUR
 
 |
 
-3
+Formation intervention sur munitions et explosifs conventionnels 2e niveau CMD 2 (Conventional Munition Disposal)
 
 |
 
@@ -634,7 +656,11 @@ Formation intervention sur munitions et explosifs conventionnels.
 
 |
 
-Formation intervention sur engins explosifs improvisés.
+3
+
+|
+
+Formation intervention sur engins explosifs improvisés IEDD (Improved Explosive Device Disposal)
 
 |
 
@@ -682,31 +708,7 @@ Stage du certificat de spécialiste en métrologie électronique.
 
 |
 
-Stage de mine et explosif 3e niveau (Explosive EOD level 2).
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Stage d'intervention sur munitions spéciales/NRBC.
-
-|
-
-2
-
-|
-
-1
-
-|
-
-Stage de neutralisation d'engins explosifs supérieur.
+Formation intervention sur munitions spéciales/NRBC BCMD (Bilogical Chemical Munition Disposal).
 
 |
 
@@ -754,21 +756,43 @@ Permis E (C).
 
 |
 
+Transport des matières dangereuses classe 7
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Formation d'adaptation TL 2 contrôle matériel levage (ou vérificateur des appareils de levage et de manutention).
+
+|
+
+2
+
+|
+
+2
+
+|
+
 8. SIC (systèmes d'information et de communication)
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -808,21 +832,31 @@ Maître système des réseaux de satellites.
 
 |
 
+Stage supérieur des formations SAP.
+
+|
+
+3
+
+|
+
+1
+
+|
+
 9. Renseignement
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -934,7 +968,7 @@ Interprète d'image de premier niveau.
 
 |
 
-Stage du certificat d'interprétation d'imagerie détaillée et restitution d'images, interprète image de second niveau.
+Stage du certificat d'interprétation d'imagerie détaillée et restitution d'images Interprète image de second niveau.
 
 |
 
@@ -1018,21 +1052,31 @@ Formation inspecteur de sécurité de la défense (ISD).
 
 |
 
+Certificat d'analyste traitant.
+
+|
+
+4
+
+|
+
+1
+
+|
+
 10. Opérations en milieu aéronautique
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -1048,7 +1092,7 @@ Formation officier et sous-officier pilote hélicoptère délivrée par l'aviati
 
 |
 
-Formation de pilote d'essais expérimental classe A à l'Ecole du personnel navigant d'essai et de réception (EPNER).
+Formation de pilote d'essais expérimental classe A à l'école du personnel navigant d'essai et de réception (EPNER).
 
 |
 
@@ -1060,7 +1104,7 @@ Formation de pilote d'essais expérimental classe A à l'Ecole du personnel navi
 
 |
 
-Formation de pilote d'essais classe B à l'Ecole du personnel navigant d'essai et de réception (EPNER).
+Formation de pilote d'essais classe B à l'école du personnel navigant d'essai et de réception (EPNER).
 
 |
 
@@ -1096,7 +1140,7 @@ Formation d'ingénieur navigant d'essais à l'EPNER.
 
 |
 
-Formation d'expérimentateur navigant d'essais classe A à l'EPNER.
+Formation d'expérimentateur navigant d'essais classe A à l'EPNER
 
 |
 
@@ -1144,7 +1188,7 @@ Formation d'adaptation pilote NH 90.
 
 |
 
-Formation qualification de type pilote sur hélicoptère EC 725/225.
+Formation qualification de type pilote sur hélicoptère EC 725/225
 
 |
 
@@ -1168,18 +1212,6 @@ Formation météorologiste de premier niveau.
 
 |
 
-Stage d'administrateur du système local de préparation et de restitution de mission (SLPRM).
-
-|
-
-3
-
-|
-
-1
-
-|
-
 Formation initiale au CICDA des contrôleurs et opérateurs.
 
 |
@@ -1192,7 +1224,7 @@ Formation initiale au CICDA des contrôleurs et opérateurs.
 
 |
 
-Formation Flight Instructor (FI) pilote avion Joint Aviation Requirement (JAR) ― Flight Crew Licensing (FCL).
+Formation Flight Instructor (FI) pilote avion Joint Aviation Requirement (JAR) Flight Crew Licensing (FCL).
 
 |
 
@@ -1204,7 +1236,7 @@ Formation Flight Instructor (FI) pilote avion Joint Aviation Requirement (JAR) �
 
 |
 
-Formation Flight Instructor (FI) pilote hélicoptère Joint Aviation Requirement (JAR) ― Flight Crew Licensing.
+Formation Flight Instructor (FI) pilote hélicoptère Joint Aviation Requirement (JAR) Flight Crew Licensing.
 
 |
 
@@ -1264,7 +1296,7 @@ Stage sauveteur plongeur hélicoptère.
 
 |
 
-Formation Instrument Rating Instructor (IRI) pilote avion / hélicoptère Joint Aviation Requirement (JAR) ― Flight Crew Licensing (FCL).
+Formation Instrument Rating Instructor (IRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR) ― Flight Crew Licensing (FCL).
 
 |
 
@@ -1276,7 +1308,7 @@ Formation Instrument Rating Instructor (IRI) pilote avion / hélicoptère Joint 
 
 |
 
-Formation Type Rating Instructor (TRI) pilote avion / hélicoptère Joint Aviation Requirement (JAR) ― Flight Crew Licensing (FCL).
+Formation Type Rating Instructor (TRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR) ― Flight Crew Licensing (FCL).
 
 |
 
@@ -1288,11 +1320,23 @@ Formation Type Rating Instructor (TRI) pilote avion / hélicoptère Joint Aviati
 
 |
 
-Formation Class Rating Instructor (CRI) pilote avion / hélicoptère Joint Aviation Requirement (JAR) ― Flight Crew Licensing (FCL).
+Formation Class Rating Instructor (CRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR) ― Flight Crew Licensing (FCL).
 
 |
 
 2
+
+|
+
+2
+
+|
+
+Formation radio de bord calibration 1351
+
+|
+
+6
 
 |
 
@@ -1306,15 +1350,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -1378,7 +1420,7 @@ Cours de certificat de chuteur opérationnel.
 
 |
 
-Techniciens en cynotechnie (prépa FS1) à Biscarosse.
+Techniciens en cynotechnie (prépa FS 1) à Biscarosse.
 
 |
 
@@ -1456,23 +1498,21 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
-
-|
-
-COEFFICIENT
-
-multiplicateur
+(années)
 
 |
 
-Formation parachutiste expérimentateur ou d'essai.
+COEFFICIENT MULTIPLICATEUR
 
 |
 
-4
+Brevet de parachutiste navigant expérimentateur.
+
+|
+
+5
 
 |
 

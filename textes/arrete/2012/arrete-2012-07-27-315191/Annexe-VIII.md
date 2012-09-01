@@ -8,15 +8,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -32,33 +30,19 @@ Stage de formation des ingénieurs militaires des essences.
 
 |
 
-Formation de qualification (diplôme d'état-major).
-
-|
-
-2
-
-|
-
-1
-
-|
-
 2. Sous-officiers
 
 INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
@@ -92,15 +76,13 @@ INTITULÉ DE LA FORMATION
 
 |
 
-DURÉE DU LIEN
+DURÉE DU LIEN AU SERVICE
 
-au service (années)
+(années)
 
 |
 
-COEFFICIENT
-
-multiplicateur
+COEFFICIENT MULTIPLICATEUR
 
 |
 
