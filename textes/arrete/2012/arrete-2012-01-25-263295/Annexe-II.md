@@ -98,7 +98,7 @@ Adjoint technique de formation et de recherche principal de 1re classe pour 2012
 
 Corps des techniciens de laboratoire
 
-(conformément aux dispositions du décret n° 96-273 du 26 mars 1996)
+(conformément aux dispositions du décret n° 2012-1002 du 29 août 2012)
 
 |
 

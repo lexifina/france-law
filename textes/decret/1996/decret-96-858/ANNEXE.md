@@ -96,11 +96,11 @@ Corps de fonctionnaires
 
 -professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007 ;
 
--techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié ;
+-techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales supérieures des techniques industrielles et des mines et régis par le décret n° 2012-1002 du 29 août 2012 ;
 
 -ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967 ;
 
--fonctionnaires de l'Etat détachés sur des emplois de l' Institut Mines-Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
+-fonctionnaires de l'Etat détachés sur des emplois de l'Institut Mines-Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
 
 Agents non titulaires
 
@@ -197,9 +197,3 @@ Agents non titulaires :
 -personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique régis par le décret n° 2003-1006 du 21 octobre 2003 ;
 
 -autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
-
-NOTA :
-
-Décret n° 2009-235 du 27 février 2009 art 7 : Les présentes dispositions prennent effet dans chaque région à la date de nomination du directeur régional de l'environnement, de l'aménagement et du logement et au plus tard le 1er janvier 2011.
-
-Conformément à son article 10, le présent décret ne s'applique ni à la région Ile-de-France, ni aux régions d'outre-mer.

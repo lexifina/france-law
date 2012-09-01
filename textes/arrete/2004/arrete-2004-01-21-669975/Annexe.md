@@ -628,7 +628,7 @@ Techniciens de l'industrie et des mines
 
 |
 
-Techniciens de laboratoire des écoles nationales des mines
+Techniciens de laboratoire des écoles nationales supérieures des mines
 
 |
 
@@ -1038,21 +1038,21 @@ Les directeurs régionaux de l'Institut national de la statistique et des étude
 
 Les chefs de service des unités suivantes :
 
-- service central des enquêtes et études statistiques (SCEES) du ministère de l'agriculture et de la pêche ;
+-service central des enquêtes et études statistiques (SCEES) du ministère de l'agriculture et de la pêche ;
 
-- service des études et des statistiques industrielles (SESSI) du ministère de l'économie, des finances et de l'emploi ;
+-service des études et des statistiques industrielles (SESSI) du ministère de l'économie, des finances et de l'emploi ;
 
-- direction de l'évaluation, de la prospective et de la performance (DEPP) du ministère de l'éducation nationale et du ministère de l'enseignement supérieur ;
+-direction de l'évaluation, de la prospective et de la performance (DEPP) du ministère de l'éducation nationale et du ministère de l'enseignement supérieur ;
 
-- direction de l'animation de la recherche, des études et des statistiques (DARES) du ministère de l'économie, des finances et de l'emploi et du ministère du travail, des relations sociales et de la solidarité ;
+-direction de l'animation de la recherche, des études et des statistiques (DARES) du ministère de l'économie, des finances et de l'emploi et du ministère du travail, des relations sociales et de la solidarité ;
 
-- direction de la recherche, des études, de l'évaluation et des statistiques (DREES) du ministère de la santé, de la jeunesse et des sports ;
+-direction de la recherche, des études, de l'évaluation et des statistiques (DREES) du ministère de la santé, de la jeunesse et des sports ;
 
-- sous-direction de la statistique, des études et de la documentation (SDSED) du ministère de la justice ;
+-sous-direction de la statistique, des études et de la documentation (SDSED) du ministère de la justice ;
 
-- service économie, statistiques et prospective (SESP) du ministère de l'écologie, du développement et de l'aménagement durables ;
+-service économie, statistiques et prospective (SESP) du ministère de l'écologie, du développement et de l'aménagement durables ;
 
-- Institut français de l'environnement (IFEN) du ministère de l'écologie, du développement et de l'aménagement durables.
+-Institut français de l'environnement (IFEN) du ministère de l'écologie, du développement et de l'aménagement durables.
 
 Le directeur de la coordination statistique et des relations internationales, pour la notation des agents affectés dans les autres services statistiques des ministères.
 
