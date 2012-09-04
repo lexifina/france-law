@@ -474,7 +474,7 @@ La place et le rôle des régions en France et dans un autre pays européen
 
 (*) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'aménagement choisi se situe dans un territoire métropolitain ou ultramarin français.
 
-(**) Pour les élèves suivant un enseignement à distance, dans un établissement français à l'étranger ou dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur la région Ile-de-France .
+(**) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'étude porte sur la région Ile-de-France. Pour les élèves dont le lycée se situe dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur ce territoire.
 
 |
 
