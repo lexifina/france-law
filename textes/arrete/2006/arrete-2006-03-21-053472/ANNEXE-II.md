@@ -1,10 +1,10 @@
 # Article ANNEXE II
 
-BARÈME DES POINTS SUPPLÉMENTAIRES
+BARÈME DES POINTS SUPPLÉMENTAIRES (1)
 
 NUMÉRO
 
-d'ordre
+D'ORDRE
 
 |
 
@@ -20,7 +20,7 @@ MAJORATION
 
 |
 
-a) Pupille de la nation.
+a) Pupille de la Nation.
 
 |
 
@@ -30,7 +30,7 @@ a) Pupille de la nation.
 
 |
 
-b) Orphelin de père ou de mère dont le parent, militaire d'active, fonctionnaire ou agent de l'Etat du ministère de la défense, est décédé par le fait ou à l'occasion du service ou des suites de blessures ou de maladies imputables au service.
+b) Orphelin de père ou de mère dont le parent, militaire d'active, fonctionnaire ou agent civil du ministère de la défense, est décédé par le fait ou à l'occasion du service ou des suites de blessures ou de maladies imputables au service.
 
 |
 
@@ -38,7 +38,13 @@ b) Orphelin de père ou de mère dont le parent, militaire d'active, fonctionnai
 
 |
 
-c) Orphelin de père ou de mère dont le parent, non militaire d'active, non fonctionnaire ou agent de l'Etat du ministère de la défense, est décédé des suites d'un accident du travail ou de maladies professionnelles.
+c) Orphelin de père ou de mère dont le parent, non militaire d'active, non fonctionnaire ou agent civil du ministère de la défense, est décédé des suites d'un accident du travail ou de maladies professionnelles.
+
+|
+
+|
+
+|
 
 d) Orphelin de père ou de mère dont le parent, réserviste, est décédé par le fait ou à l'occasion du service ou des suites de blessures ou de maladies contractées ou aggravées par le fait ou à l'occasion du service, au cours de ses activités dans la réserve.
 
@@ -66,7 +72,7 @@ Enfant ou enfant fiscalement à charge de militaire d'active, radié des cadres,
 
 |
 
-+ 10 points
++ 20 points
 
 |
 
@@ -120,6 +126,14 @@ Enfant ou enfant fiscalement à charge de père ou de mère militaire affecté �
 
 a) Enfant ou enfant fiscalement à charge de militaire d'active, placé dans une position autre que la position d'activité.
 
+|
+
++ 4 points
+
+|
+
+|
+
 b) Enfant ou enfant fiscalement à charge d'un militaire radié des cadres ou rayé des contrôles :
 
 - en ayant acquis des droits à pension militaire de retraite ;
@@ -128,15 +142,13 @@ b) Enfant ou enfant fiscalement à charge d'un militaire radié des cadres ou ra
 
 |
 
-+ 4 points
-
 |
 
 7
 
 |
 
-Enfants remplissant les critères d'attribution de bourses de l'éducation nationale lors de sa demande d'admission.
+Enfant remplissant les critères d'attribution des bourses nationales de lycée lors de sa demande d'admission.
 
 |
 
@@ -256,7 +268,7 @@ Famille nombreuse
 
 |
 
-Enfant ou parent (père ou mère) handicapé dans la famille
+Enfant ou parent (père ou mère) handicapé dans la famille.
 
 |
 
@@ -264,4 +276,4 @@ Enfant ou parent (père ou mère) handicapé dans la famille
 
 |
 
-La somme de ces points et de ceux obtenus lors du contrôle de connaissances forment un total sur 200. Ce total est ensuite ramené à une moyenne sur 20.
+(1) La somme de ces points, cumulables entre eux, et de ceux obtenus lors du contrôle de connaissances forme un total sur 200. Ce total est ensuite ramené à une moyenne sur 20.
