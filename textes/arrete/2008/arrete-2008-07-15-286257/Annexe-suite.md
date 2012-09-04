@@ -2436,25 +2436,29 @@ DÉMARCHES
 
 |
 
-La Région où est situé l'établissement
+La région où est situé l'établissement (*) :
 
-Politiques régionales, valorisation des ressources dans le cadre du développement économique régional, organisation de son territoire, intégration en France et en Europe.
+Politiques régionales, valorisation des ressources dans le cadre du développement économique régional, organisation de son territoire, intégration en France et en Europe
 
 |
 
-La Région est mise en perspective dans le contexte français et européen à l'aide de cartes à différentes échelles, éventuellement par une démarche comparative avec une autre région.
+La région est mise en perspective dans le contexte français et européen à l'aide de cartes à différentes échelles, éventuellement par une démarche comparative avec une autre région.
 
 |
 
 CAPACITÉS
 
-Localiser et situer les repères spatiaux de la Région étudiée
+Localiser et situer les repères spatiaux de la région étudiée
 
-Situer sa Région parmi les autres régions françaises
+Situer sa région parmi les autres régions françaises
 
 Expliquer un enjeu d'aménagement du territoire régional
 
 Réaliser un croquis de l'organisation du territoire régional
+
+|
+
+(*) Pour les élèves suivant un enseignement à distance ou dans un établissement français à l'étranger, l'étude porte sur la région Ile-de-France, en articulation avec l'étude de cas sur l'agglomération parisienne, prévue dans le thème 2 de la partie II. Pour les élèves dont le lycée se situe dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur ce territoire.
 
 |
 
@@ -3029,3 +3033,35 @@ DOCUMENTS DE RÉFÉRENCES
 |
 
 .
+
+CLASSE DE 3ème , SECTION INTERNATIONALE
+
+Complément spécifique au programme d'histoire-géographie
+
+1 - Histoire
+
+Dans la langue étudiée, en prenant en compte les spécificités historiques et géographiques de la civilisation, de l'espace et de l'État dont relève la section, on met en œuvre au choix :
+
+- la partie II du programme : Guerres mondiales et régimes totalitaires (1914-1945)
+
+ou
+
+- la partie III du programme : Une géopolitique mondiale (depuis 1945)
+
+ou
+
+- la partie IV du programme : La vie politique [dans l'État dont relève la section.]
+
+2 - Géographie
+
+Dans la langue étudiée, en prenant en compte les spécificités géographiques et historiques de la civilisation, de l'espace et de l'État dont relève la section, on met en œuvre au choix :
+
+- la partie I du programme : Habiter [l'État dont relève la section]
+
+ou
+
+- la partie II du programme : Aménagement et développement du territoire [de l'État dont relève la section]
+
+ou
+
+- la partie III du programme : [l'État dont relève la section] et l'Union européenne
