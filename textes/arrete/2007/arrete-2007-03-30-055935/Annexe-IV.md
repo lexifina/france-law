@@ -322,7 +322,7 @@ ponctuelle orale
 
 |
 
-* Les langues vivantes autorisées sont les suivantes : anglais, allemand, espagnol, italien et portugais.
+* Les langues vivantes autorisées sont les suivantes : anglais, allemand, espagnol, hébreu, italien et portugais.
 
 (1) Non compris le temps de préparation de 20 minutes.
 

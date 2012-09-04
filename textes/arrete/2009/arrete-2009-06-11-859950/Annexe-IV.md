@@ -402,7 +402,7 @@ Orale
 
 |
 
-* Liste des langues autorisées : anglais, allemand, arabe, chinois, espagnol, italien, portugais, russe.
+* Liste des langues autorisées : anglais, allemand, arabe, chinois, espagnol, hébreu, italien, portugais, russe.
 
 ** La langue vivante étrangère choisie au titre de l'épreuve facultative est obligatoirement différente de celle choisie au titre de l'épreuve obligatoire. Seuls les points au-dessus de la moyenne sont pris en compte.
 

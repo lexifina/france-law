@@ -184,7 +184,7 @@ Expression orale 15 minutes + 20 minutes de préparation.
 
 - Dans un second temps, l'examinateur s'entretiendra avec lui pour demander précisons, explications, réactions (10 minutes).
 
-La liste des langues autorisées est la suivante : anglais, allemand, arabe, chinois, espagnol, italien, portugais, russe, japonais.
+La liste des langues autorisées est la suivante : anglais, allemand, arabe, chinois, espagnol, hébreu, italien, portugais, russe, japonais.
 
 Épreuve E3 / U3 - économie et droit
 
