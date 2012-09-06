@@ -1,0 +1,90 @@
+# Energie : système énergétique sobre, tarification de l'eau et éoliennes
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29019
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/tarification_progressive_energie
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl12-019.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-09-06 : 1er dépôt d'une initiative. (PIONANR5L14B0150)
+  - 2012-09-10 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-09-06 : Renvoi en commission au fond
+      - 2012-09-18 : Nomination de rapporteur
+      - 2012-09-18 : Réunion de commission
+      - 2012-09-18 : Réunion de commission
+      - 2012-09-18 : Réunion de commission
+      - 2012-09-19 : Réunion de commission
+      - 2012-09-20 : Dépôt de rapport (RAPPANR5L14B0199, PIONANR5L14BTC0199)
+  - Discussion en séance publique
+    - 2012-09-26 : Discussion en séance publique
+    - 2012-10-01 : Discussion en séance publique
+    - 2012-10-01 : Discussion en séance publique
+    - 2012-10-04 : Discussion en séance publique
+    - 2012-10-04 : Discussion en séance publique
+    - 2012-10-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-10-05 : Dépôt d'une initiative en navette (PIONSNR5S199B0019)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-10-05 : Renvoi en commission au fond
+      - 2012-09-12 : Nomination de rapporteur
+      - 2012-10-23 : Dépôt de rapport (RAPPSNR5S199B0070)
+    - Travaux d'une commission saisie pour avis
+      - 2012-09-26 : Saisine pour avis d'une commission
+      - 2012-09-26 : Nomination de rapporteur
+      - 2012-10-16 : Dépôt de rapport (AVISSNR5S199B0051)
+  - Discussion en séance publique
+    - 2012-10-30 : Discussion en séance publique
+    - 2012-10-30 : Décision
+- Commission Mixte Paritaire
+  - 2012-12-17 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-12-19 : Nomination de rapporteur
+    - 2012-12-19 : Dépôt du rapport d'une CMP (RAPPANR5L14B0550)
+    - 2012-12-19 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0245)
+  - 2013-01-08 : Décision de la CMP
+- Nouvelle Lecture
+  - 2012-10-31 : Dépôt d'une initiative en navette (PIONANR5L14B0338)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-10-31 : Renvoi en commission au fond
+      - 2013-01-09 : Réunion de commission
+      - 2013-01-09 : Réunion de commission
+      - 2013-01-17 : Réunion de commission
+      - 2013-01-09 : Dépôt de rapport (RAPPANR5L14B0579, PIONANR5L14BTC0579)
+  - Discussion en séance publique
+    - 2013-01-17 : Discussion en séance publique
+    - 2013-01-17 : Discussion en séance publique
+    - 2013-01-17 : Décision
+- Nouvelle Lecture
+  - 2013-01-18 : Dépôt d'une initiative en navette (PIONSNR5S199B0270)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-01-18 : Renvoi en commission au fond
+      - 2013-02-06 : Nomination de rapporteur
+      - 2013-02-06 : Dépôt de rapport (RAPPSNR5S199B0336)
+  - Discussion en séance publique
+    - 2013-02-13 : Discussion en séance publique
+    - 2013-02-14 : Discussion en séance publique
+    - 2013-02-14 : Décision
+- Lecture définitive
+  - 2013-02-15 : Dépôt d'une initiative en navette (PIONANR5L14B0733)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-02-15 : Renvoi en commission au fond
+      - 2013-02-27 : Réunion de commission
+      - 2013-02-28 : Dépôt de rapport (RAPPANR5L14B0761)
+  - Discussion en séance publique
+    - 2013-03-11 : Discussion en séance publique
+    - 2013-03-11 : Décision
+- Conseil constitutionnel
+  - 2013-03-13 : Saisine du conseil constitutionnel
+  - 2013-03-13 : Saisine du conseil constitutionnel
+  - 2013-04-11 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-04-15 : Promulgation d'une loi
