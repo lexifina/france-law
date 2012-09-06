@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700478
+
+- Question : [SEQ120700478](seq120700478.md) — Reconnaissance et indemnisation des travailleurs forcés indochinois déportés en France
+
+## Réponse
+
+*Anciens combattants, JO du 2012-09-06, page 1942*
+
+Les travailleurs indochinois requis durant la Seconde Guerre mondiale ont été employés en tant qu'ouvriers non spécialisés et gérés par le service de la main d'œuvre indigène, nord-africaine et coloniale (MOI), organisme civil du ministère chargé du travail. Par conséquent, leurs droits à pension et à réversion dépendent du régime général dont la compétence relève du ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social. Pour autant, ils ont été rendus attributaires du code des pensions militaires d'invalidité et des victimes de la guerre par l'ordonnance n° 45-1280 du 15 juin 1945. Les articles L. 248 à L. 250 de ce code prévoient en effet que les travailleurs indochinois, requis pendant la guerre de 1939-1945 et employés dans les établissements de l'État ou travaillant pour la défense nationale, et leurs ayants cause, sont, en ce qui concerne les infirmités ou décès résultant d'un accident survenu ou d'une maladie contractée en service, soumis au régime des pensions d'invalidité applicable aux militaires dits autochtones. Ceux d'entre eux qui sont morts en tant que victimes de guerre sont honorés globalement à l'occasion de chacune des manifestations commémoratives au même titre que les autres catégories de victimes civiles, voire militaires pour ceux qui ont pu avoir une activité dans la Résistance. S'agissant de la mise en œuvre d'une mesure symbolique, comme la réalisation d'une plaque commémorative ou l'érection d'une stèle, le ministre délégué auprès du ministre de la défense, chargé des anciens combattants est prêt à examiner les moyens de soutenir une initiative en ce sens qui viendrait à émaner d'une collectivité territoriale ou d'une association.
