@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SURVEILLANCE DE LA PRESENCE DES MICROPOLLUANTS DANS LES EAUX REJETEES AU MILIEU NATUREL PAR LES STATIONS DE TRAITEMENT DES EAUX USEES - DEMANDE DE SUBVENTION A L'AGENCE DE L'EAU RHONE MEDITERRANEE ET CORSE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-09-07
+- Séance : Conseil Municipal 2CA
+- Objet : SURVEILLANCE DE LA PRESENCE DES MICROPOLLUANTS DANS LES EAUX REJETEES AU MILIEU NATUREL PAR LES STATIONS DE TRAITEMENT DES EAUX USEES - DEMANDE DE SUBVENTION A L'AGENCE DE L'EAU RHONE MEDITERRANEE ET CORSE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-3721-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
