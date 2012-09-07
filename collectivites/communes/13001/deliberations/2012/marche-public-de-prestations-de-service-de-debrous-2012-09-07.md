@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — MARCHÉ PUBLIC DE PRESTATIONS DE SERVICE DE DÉBROUSSAILLEMENT ET DE FAUCHAGE POUR LE COMPTE DE LA VILLE D'AIX-EN-PROVENCE N°A10.066. AVENANT PORTANT TRANSFERT DU MARCHÉ À LA SARL ARPENTS CAMEXO. AUTORISATION DE SIGNATURE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-09-07
+- Séance : Conseil Municipal 2CA
+- Objet : MARCHÉ PUBLIC DE PRESTATIONS DE SERVICE DE DÉBROUSSAILLEMENT ET DE FAUCHAGE POUR LE COMPTE DE LA VILLE D'AIX-EN-PROVENCE N°A10.066. AVENANT PORTANT TRANSFERT DU MARCHÉ À LA SARL ARPENTS CAMEXO. AUTORISATION DE SIGNATURE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-3719-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
