@@ -10,122 +10,126 @@ PARIS DU GROUPE I
 
 |
 
-Pari "Simple"
+Pari " Simple "
 
 |
 
-Pari "Simple"
-
-|
-
-|
-
-Pari "Tiercé"
+Pari " Simple "
 
 |
 
 |
 
-Pari "Triplet"
+Pari " Tiercé"
+
+Pari " Triplet "
 
 |
 
-Pari "Par reports"
+Pari " Par reports "
 
 |
 
-Pari "Trio Hippodrome"
+Pari " Trio hippodrome "
 
 |
 
-Pari "2 sur 4"
+Pari " 2 sur 4 "
 
 |
 
-Pari "Trio Ordre Hippodrome"
+Pari " Trio ordre hippodrome "
 
 |
 
-Pari "Couplé"
-
-|
-
-|
-
-Pari "Couplé Hippodrome"
-
-|
-
-Pari "Couplé Hippodrome"
+Pari " Couplé "
 
 |
 
 |
 
-Pari "Trio Ordre International"
+Pari " Couplé hippodrome "
 
 |
 
-Pari "Trio"
-
-|
-
-Pari "Trio"
-
-|
-
-Pari "Trio Ordre"
-
-|
-
-Pari "Trio Ordre"
+Pari " Couplé hippodrome "
 
 |
 
 |
 
-Pari "Quarté Plus" : rapports ordre exact et ordre inexact
+Pari " Trio ordre international "
 
 |
 
-Pari "Quarté Plus" : rapport Bonus
+Pari " Trio "
 
 |
 
-Pari "Quarté Plus" : rapport Bonus
+Pari " Trio "
 
 |
 
-|
-
-Pari "Quarté"
+Pari " Trio Ordre "
 
 |
 
-|
-
-Pari "Quartet"
+Pari " Trio Ordre "
 
 |
 
 |
 
-Pari "Quinté Plus" : rapports ordre exact, ordre inexact.
+Pari " Quarté plus " : rapports ordre exact et ordre inexact
 
 |
 
-Pari "Quinté Plus" : rapports Bonus 3, Bonus 4 sur 5 et Bonus 4.
+Pari " Quarté plus " : rapport Bonus
 
 |
 
-Pari "Quinté Plus" : rapports Bonus 3, Bonus 4 sur 5 et Bonus 4.
+Pari " Quarté plus " : rapport Bonus
 
 |
 
-Pari "Multi"
+|
+
+Pari " Quarté "
 
 |
 
-Pari "Multi"
+|
+
+Pari " Quartet "
+
+|
+
+|
+
+Pari " Quinté plus " : rapports ordre exact, ordre inexact.
+
+|
+
+Pari " Quinté plus " : rapports Bonus 3, Bonus 4 sur 5 et Bonus 4.
+
+|
+
+Pari " Quinté plus " : rapports Bonus 3, Bonus 4 sur 5 et Bonus 4.
+
+|
+
+Pari visé au chapitre XIII bis
+
+|
+
+Pari visé au chapitre XIII bis
+
+|
+
+Pari " Multi "
+
+|
+
+Pari " Multi "
 
 |
