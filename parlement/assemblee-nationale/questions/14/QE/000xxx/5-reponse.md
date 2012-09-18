@@ -1,0 +1,9 @@
+# Réponse à la question n° 5
+
+- Question : [5](5.md) — Question n° 5 — aides de l'État; remboursement; politiques communautaires
+
+## Réponse
+
+*JO du 2012-09-18*
+
+L'action engagée par le ministère de l'agriculture, de l'agroalimentaire et de la forêt est guidée par deux objectifs : - d'une part, éviter une procédure devant la Cour de justice de l'Union européenne qui exposerait la France à une lourde amende sans toutefois dispenser les bénéficiaires des aides de leurs obligations ; - d'autre part, défendre les intérêts de la filière des fruits et légumes en réduisant autant que possible au regard du droit, les sommes en cause. Le dialogue avec les acteurs concernés et les échanges engagés avec la Commission européenne et qui se poursuivent, ont donné d'importants résultats. Par exemple, la Commission européenne a pris note de l'impossibilité des autorités françaises à identifier les bénéficiaires des aides sur la période 1992-1997 et donc à recouvrer ces aides ; de même sont aujourd'hui exclus de la procédure tous les montants pouvant être associés à des aides notifiées à la Commission européenne à l'époque. La préoccupation du Gouvernement, conscient de la fragilité économique du secteur des fruits et légumes, est de ne pas mettre en péril les entreprises ou les exploitations. Le travail en cours localement consiste en un traitement au cas par cas de la procédure auprès des organisations de producteurs et des entreprises concernées de transformation et de commercialisation de fruits et légumes, incluant la mobilisation de toutes les mesures d'accompagnement existantes et possibles au regard du droit communautaire. Cent vingt demandes de remboursements ont été envoyées à ce stade. Cette procédure engagée de manière individualisée au niveau des organisations de producteurs de fruits et légumes se poursuit, en particulier pour permettre l'étude approfondie des cas les plus complexes.
