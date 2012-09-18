@@ -1,0 +1,9 @@
+# Réponse à la question n° 2229
+
+- Question : [2229](2229.md) — Question n° 2229 — emprunts russes; remboursement
+
+## Réponse
+
+*JO du 2012-09-18*
+
+Ce dossier a fait dans le passé l'objet de très nombreux échanges avec la Russie. Les deux gouvernements ont fini par conclure, le 26 novembre 1996, un mémorandum, complété le 27 mai 1997 par un accord intergouvernemental. Ces textes, qui portent sur les créances réciproques, financières et réelles entre la France et la Russie, antérieures au 9 mai 1945, ont définitivement et totalement éteint le contentieux inter-étatique entre la France et la Fédération de Russie sur les emprunts russes. La Russie a, au titre de ces accords, versé 400 millions de dollars, « en qualité de règlement complet et définitif de toutes les créances financières et réelles réciproques apparues antérieurement au 9 mai 1945 [...] » (article 3 de l'accord du 27 mai 1997). Cette somme, de même que la totalité des intérêts produits, a été intégralement affectée par le gouvernement français à l'indemnisation de tous les porteurs de titres russes et des victimes de dépossession en Russie ou dans les territoires faisant partie de l'ex-URSS, selon les modalités fixées par l'article 48 de la loi de finances rectificative pour 1999 et le décret n° 2000-777 du 23 août 2000. Dans ce contexte, l'article 3, alinéa 2, de l'accord du 27 mai 1997 doit se comprendre comme l'acceptation par le gouvernement français de la responsabilité exclusive de la répartition et du versement aux ayants-droits français des sommes reçues des autorités russes, conformément aux dispositions de l'accord conclu avec elles, à l'exclusion de toute responsabilité à cet égard de la partie russe. Le gouvernement français a pour sa part renoncé à présenter ou à soutenir d'aucune manière les revendications des porteurs d'emprunts russes à l'encontre de la Fédération de Russie (article 1er de l'accord du 27 mai 1997).
