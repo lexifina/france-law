@@ -1,0 +1,9 @@
+# Réponse à la question n° 3497
+
+- Question : [3497](3497.md) — Question n° 3497 — Grèce; plan de soutien; perspectives
+
+## Réponse
+
+*JO du 2012-09-18*
+
+Les sujets abordés pendant cette première rencontre, qui a eu lieu entre le Président de la République et le premier ministre grec, Antonis Samaras, le 25 août dernier à Paris, et qui s'est déroulée en présence du ministre des Affaires étrangères, Laurent Fabius, et du ministre des finances, Pierre Moscovici, ont naturellement été centrés sur la crise de la zone euro et sur la situation en Grèce. Le Président de la République a demandé à la Grèce de faire la démonstration de la crédibilité de son programme et de la volonté de ses dirigeants de le mettre en oeuvre. Il a également souligné que la Grèce se trouve dans la zone euro et doit y rester. Le Président de la République a ensuite salué les mesures que les Grecs ont mises en oeuvre, douloureusement, depuis deux ans et demi. Si des efforts financiers et des réformes structurelles sont encore nécessaires de la part d'Athènes, il a souhaité que ces dernières soient supportables pour la population. Le Président de la République a précisé que les partenaires européens de la Grèce attendraient le rapport qui devrait être transmis par la troïka au Conseil européen en octobre. De son côté, le premier ministre grec a indiqué que son gouvernement était déterminé à honorer ses engagements et à rétablir la crédibilité de la Grèce. Il s'est montré confiant dans la capacité de la Grèce à remplir ses objectifs : réduire les déficits, réduire la dette, accomplir les réformes structurelles entamées. Il a insisté sur la nécessité de prendre rapidement des mesures qui ramèneront la croissance, car la reprise économique est vitale pour l'efficacité des efforts grecs et le maintien de la cohésion sociale.
