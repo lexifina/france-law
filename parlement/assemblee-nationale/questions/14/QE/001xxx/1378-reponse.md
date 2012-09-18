@@ -1,0 +1,9 @@
+# Réponse à la question n° 1378
+
+- Question : [1378](1378.md) — Question n° 1378 — conditions d'attribution
+
+## Réponse
+
+*JO du 2012-09-18*
+
+La bourse d'enseignement supérieur sur critères sociaux est une aide complémentaire à celle que la famille est en mesure d'apporter. Elle est donc accordée en fonction d'un barème national qui prend en considération les ressources et les charges de la famille de l'étudiant. Les revenus pris en compte pour déterminer le droit à bourse de l'étudiant sont ceux figurant à la ligne « revenu brut global » de l'avis d'imposition de ses parents. Prendre en compte le revenu brut global, sans retirer tel ou tel type de charge déductible en fonction de la situation spécifique de la famille, est destiné à garantir un traitement égalitaire de tous les étudiants. Par ailleurs, si un parent déclare élever seul son enfant, son seul revenu brut global sera retenu pour apprécier le droit à bourse de l'étudiant. En revanche, les revenus de l'autre parent ne seront pas pris en compte. La solution de retenir comme base de calcul le revenu fiscal de référence en lieu et place du revenu brut global n'a pas été retenue car elle reviendrait à déduire du revenu pris en compte pour le calcul du droit à bourse les dépenses de subsistance et d'entretien des frères et soeurs de l'étudiant lorsqu'elles sont couvertes par une pension alimentaire versée au conjoint qui en assume la charge alors qu'elles ne peuvent être déduites lorsque les conjoints ne constituent qu'un seul foyer fiscal. En tout état de cause, la jurisprudence du Conseil d'Etat établit qu'aucune disposition législative ou réglementaire ne fait obstacle à la prise en compte, dans la détermination des ressources des familles, de revenus non imposables tels que les pensions alimentaires versées. La réflexion qui sera menée dans le cadre des travaux du plan national de la vie étudiante pourra conduire à refonder les aides directes aux étudiants.
