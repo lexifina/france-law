@@ -1,0 +1,63 @@
+# Budget : gouvernance des finances publiques
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N29092
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/programmation_gouvernance_finances_publiques
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-043.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-09-19 : 1er dépôt d'une initiative. (PRJLANR5L14B0198)
+  - 2012-09-19 : Etude d'impact (ETDIANR5L14B0198)
+  - 2012-09-19 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-09-19 : Renvoi en commission au fond
+      - 2012-09-26 : Nomination de rapporteur
+      - 2012-09-26 : Réunion de commission
+      - 2012-09-26 : Réunion de commission
+      - 2012-10-03 : Réunion de commission
+      - 2012-10-03 : Réunion de commission
+      - 2012-10-03 : Réunion de commission
+      - 2012-10-08 : Réunion de commission
+      - 2012-10-03 : Dépôt de rapport (RAPPANR5L14B0244, PRJLANR5L14BTC0244)
+  - Discussion en séance publique
+    - 2012-10-08 : Discussion en séance publique
+    - 2012-10-10 : Discussion en séance publique
+    - 2012-10-10 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-10-11 : Dépôt d'une initiative en navette (PRJLSNR5S199B0043)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-10-11 : Renvoi en commission au fond
+      - 2012-09-25 : Nomination de rapporteur
+      - 2012-10-24 : Dépôt de rapport (RAPPSNR5S199B0083)
+    - Travaux d'une commission saisie pour avis
+      - 2012-10-10 : Saisine pour avis d'une commission
+      - 2012-10-10 : Nomination de rapporteur
+      - 2012-10-23 : Dépôt de rapport (AVISSNR5S199B0074)
+  - Discussion en séance publique
+    - 2012-10-29 : Discussion en séance publique
+    - 2012-10-30 : Discussion en séance publique
+    - 2012-10-30 : Décision
+- Commission Mixte Paritaire
+  - 2012-10-31 : Dépôt d'un projet de loi (PRJLANR5L14B0339)
+  - 2012-10-31 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-11-08 : Nomination de rapporteur
+    - 2012-11-08 : Dépôt du rapport d'une CMP (RAPPANR5L14B0346)
+    - 2012-11-08 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0115)
+  - Discussion en séance publique
+    - 2012-11-19 : Discussion en séance publique
+    - 2012-11-19 : Décision
+  - Discussion en séance publique
+    - 2012-11-22 : Discussion en séance publique
+    - 2012-11-22 : Décision
+  - 2012-11-12 : Décision de la CMP
+- Conseil constitutionnel
+  - 2012-11-23 : Saisine du conseil constitutionnel
+  - 2012-12-13 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2012-12-17 : Promulgation d'une loi
