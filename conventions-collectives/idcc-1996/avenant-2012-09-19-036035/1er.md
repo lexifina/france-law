@@ -1,0 +1,31 @@
+# Article 1er
+
+L'article 5 « Droit syndical et liberté d'opinion » des dispositions générales de la convention collective nationale étendue de la pharmacie d'officine du 3 décembre 1997 est rédigé comme suit :
+
+« 5.1. Les parties signataires reconnaissent la liberté d'opinion, ainsi que le droit d'adhérer librement ou d'appartenir à un syndicat professionnel constitué en vertu du livre Ier de la deuxième partie du code du travail. Elles expriment leur attachement à la liberté d'exercice du droit syndical, leur volonté de la voir respectée et sont soucieuses d'en faciliter la mise en œuvre.
+
+En aucun cas, les origines, les croyances, les opinions, le sexe, l'âge, ou le fait d'appartenir ou de ne pas appartenir à un syndicat, ou d'exercer une activité syndicale ne seront pris en considération pour quiconque.
+
+Sans préjudice des dispositions prévues aux articles L. 1132-1 et suivants du code du travail relatifs au principe de non-discrimination, aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire, directe ou indirecte, notamment en matière d'embauche, de formation, d'évolution professionnelle et de rémunération en raison de l'appartenance à un syndicat ou de ses activités syndicales. L'application de ces dispositions aux salariés investis d'un mandat syndical, qui ne devront faire l'objet d'aucune entrave, discrimination ou sanction en raison de leurs fonctions, fera l'objet d'une attention particulière.
+
+L'employeur ne doit par ailleurs user d'aucun moyen de pression en faveur ou à l'encontre d'une organisation syndicale. Il ne doit pas faire obstacle à la diffusion de l'information syndicale lorsque cette diffusion est réalisée conformément aux dispositions légales en vigueur.
+
+Il est de même interdit à tout employeur de prélever les cotisations syndicales sur les salaires de son personnel et de les payer au lieu et place de celui-ci.
+
+Toute mesure prise par l'employeur contrairement aux dispositions qui précèdent est considérée comme abusive et peut donner lieu à des dommages et intérêts.
+
+Lorsqu'une décision concernant l'embauchage, la conduite ou la répartition du travail, les mesures de discipline et de congédiement, la rétribution, l'avancement et la promotion aura été prise à l'encontre d'un salarié et que celui-ci ou l'une des parties signataires estimera que cette décision a été prise en violation des dispositions du présent article, le litige pourra être soumis à la commission paritaire de conciliation prévue à l'article 31. Le recours devant cette commission paritaire ne constitue pas un préalable obligatoire et ne fait pas obstacle au droit pour le salarié, ou l'organisation syndicale à laquelle il est adhérent, de demander judiciairement réparation du préjudice causé.
+
+5.2. Des autorisations d'absences rémunérées seront accordées, sur justificatif, aux salariés appelés à siéger ès qualités dans les commissions, sous-commissions ou groupes de travail paritaires constitués d'un commun accord entre les parties signataires et régulièrement convoqués, sous réserve d'en prévenir leur employeur 1 semaine au moins avant la date prévue, sauf urgence.
+
+5.3. Pour faciliter le libre exercice du droit syndical, des autorisations d'absence non rémunérées seront accordées, sur préavis d'au moins 1 semaine, sauf urgence, aux salariés devant assister aux réunions statutaires des organisations syndicales, sur présentation de documents écrits émanant de celles-ci. Les organisations de salariés s'engagent à n'user de cette faculté que dans la mesure où ces réunions ne pourraient avoir lieu en dehors des heures de travail.
+
+Des autorisations d'absence non rémunérées seront accordées sur préavis d'au moins 1 mois aux salariés désirant participer à des stages de formation économique et sociale ou de formation syndicale, dans le cadre de la réglementation en vigueur. Toutefois, dans les entreprises officinales occupant au moins 10 salariés, ces autorisations d'absence seront rémunérées conformément aux dispositions légales en vigueur.
+
+5.4. Des autorisations d'absences rémunérées seront accordées, sur justificatif, aux salariés appelés à siéger ès qualités dans les comités de gestion des organismes de retraite et de prévoyance ou de formation, sous réserve d'en prévenir leur employeur 1 semaine au moins avant la date prévue, sauf urgence.
+
+Des autorisations d'absence rémunérées seront accordées, sous réserve d'en prévenir leur employeur une semaine au moins avant la date prévue, sauf urgence, aux salariés appelés ès qualités à siéger dans les commissions officielles instituées et convoquées par les pouvoirs publics et intéressant la pharmacie d'officine. Conformément à l'article D. 3142-5-1 du code du travail, le salarié désigné pour participer à un jury d'examen ou de validation des acquis de l'expérience en application des dispositions de l'article L. 3142-3-1 adresse à l'employeur, dans un délai qui ne peut pas être inférieur à 15 jours calendaires avant le début de la session d'examen ou de validation, une demande écrite d'autorisation d'absence indiquant les dates et le lieu de la session. Il joint à sa demande une copie de la convocation à participer à un jury d'examen ou de validation des acquis de l'expérience.
+
+5.5. Les absences prévues aux paragraphes 5.2,5.3 et 5.4 compteront comme temps de travail effectif, notamment pour le calcul de la durée des congés payés et l'application des avantages liés à l'ancienneté, ainsi que pour l'ensemble des autres droits résultant pour l'intéressé de son contrat de travail.
+
+5.6. Dans les cas prévus au paragraphe 5.2 ci-dessus, les autorisations d'absence rémunérées, seront prises en charge par le fonds national pour le développement du paritarisme et le financement de la négociation collective dans la pharmacie d'officine (FNDP), visé à l'article 2 de l'accord collectif national étendu du 3 décembre 1997 modifié relatif au développement du paritarisme et au financement de la négociation collective, dans les conditions et selon les modalités qu'il appartiendra à son conseil d'administration de déterminer. »
