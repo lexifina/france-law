@@ -1,0 +1,179 @@
+# Délibération n° 2012-324 du 20 septembre 2012 autorisant la Compagnie Eiffage du Viaduc de Millau à mettre en œuvre un traitement de données à caractère personnel ayant pour finalité la lutte contre la fraude au péage
+
+- Nature : Deliberation
+- Type : Autre autorisation
+- Numéro : 2012-324
+- Date : 2012-09-20
+- Publication : 2012-11-08
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000026584529
+
+(Demande d’autorisation n° 1584938)
+
+La Commission nationale de l’informatique et des libertés,
+
+Saisie par la Compagnie Eiffage du Viaduc de Millau d’une demande d’autorisation concernant un traitement de données à caractère personnel ayant pour finalité la lutte contre la fraude au péage ;
+
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement de données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code de procédure pénale, notamment son article 529-6 ;
+
+Vu le code de la route, notamment ses articles L. 330-2 et R. 421-9 ;
+
+Vu le code de la sécurité intérieure, notamment son article L. 252-5 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 25-I-3° ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ;
+
+Vu le dossier et ses compléments ;
+
+Sur la proposition de M. Jean-François CARREZ, rapporteur et après avoir entendu les observations de Mme Elisabeth ROLIN, commissaire du Gouvernement,
+
+Formule les observations suivantes :
+
+Sur le responsable du traitement
+
+|
+
+La Compagnie Eiffage du Viaduc de Millau.
+
+|
+
+Sur la finalité
+
+|
+
+La finalité du traitement est la lutte contre la fraude au péage.
+
+Le dispositif mis en place permet de :
+
+constater les infractions prévues à l’article R. 421-9 du code de la route par télésurveillance
+
+consulter le système d’immatriculation des véhicules (SIV)
+
+mettre en place la procédure transactionnelle
+
+Le dispositif de vidéosurveillance permet de constater les infractions prévues à l’article R. 421-9 du code de la route qui prévoit que : « Le fait, pour tout conducteur, de refuser d'acquitter le montant du péage ou de se soustraire d'une manière quelconque à ce paiement est puni de l'amende prévue pour les contraventions de la deuxième classe ». Il n’y a toutefois pas de reconnaissance automatique des plaques d’immatriculation.
+
+constater les infractions prévues à l’article R. 421-9 du code de la route par télésurveillance
+
+consulter le système d’immatriculation des véhicules (SIV)
+
+mettre en place la procédure transactionnelle
+
+L’article L. 330-2 du code de la route permet la consultation des informations concernant les pièces administratives exigées pour la circulation des véhicules ou affectant la disponibilité de ceux-ci par les « agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage, assermentés dans les conditions prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des contraventions au présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4 ».
+
+L’accès aux données contenues dans le SIV se fait par l’intermédiaire d’un concentrateur informatique, agréé par le Ministère de l’Intérieur.
+
+constater les infractions prévues à l’article R. 421-9 du code de la route par télésurveillance
+
+consulter le système d’immatriculation des véhicules (SIV)
+
+mettre en place la procédure transactionnelle
+
+L’article L. 529-6 du code de procédure pénale autorise les exploitants d’une autoroute à mettre en place une procédure transactionnelle en cas de contraventions pour non-paiement du péage. Cette procédure implique une extinction de l’action publique en cas de versement à l’exploitant par le contrevenant d’une indemnité forfaitaire dans un délai de deux mois.
+
+La société adresse un avis de paiement au titulaire du certificat d’immatriculation. A défaut de paiement ou de protestation dans le délai de deux mois, le procès-verbal de contravention est envoyé par l'exploitant à l’Officier du Ministère Public et le titulaire du certificat d’immatriculation devient redevable d'une amende forfaitaire majorée recouvrée par le Trésor public.
+
+La Commission considère la finalité poursuivie comme déterminée, explicite et légitime.
+
+Elle considère également qu’il y a lieu de faire application des dispositions de l’article 25-I-3° de la loi du 6 janvier 1978 modifiée, qui soumettent à autorisation les traitements pourtant sur des données relatives aux infractions, condamnations et mesures de sûreté.
+
+|
+
+Sur les données traitées
+
+|
+
+Les données suivantes sont collectées :
+
+les images issues des caméras de vidéosurveillance ;
+
+les données collectées en cas de constatation de non paiement :
+
+les données relatives à l’infraction : date, heure, voie, gare, péager, montant du péage, classe ;
+
+les données relatives au conducteur : nom, prénom, adresse ;
+
+les données relatives au véhicule utilisé : marque, type, numéro d’immatriculation, pays ;
+
+les données relatives au propriétaire du véhicule : nom, prénom, adresse.
+
+les données permettant d’interroger le SIV : numéro d’immatriculation, marque, modèle, type de couleur du véhicule, gare, voie, date et heure de l’infraction, matricule de l’agent verbalisateur ;
+
+les données en provenance du SIV : nom ou raison sociale, prénom, nom d’usage ou d’époux, numéro SIREN, adresse, qualité de propriétaire du titulaire du certificat d’immatriculation, caractéristiques du véhicule permettant d’écarter les fausses plaques ou plaques usurpées (marque, modèle et couleur).
+
+La Commission considère que ces données sont pertinentes au regard de la finalité poursuivie.
+
+|
+
+Sur les destinataires
+
+|
+
+Sont destinataires des données :
+
+les personnels dûment habilités de la Compagnie Eiffage du viaduc de Millau ;
+
+les gestionnaires dûment habilités du SIV ;
+
+l’officier du Ministère Public en cas de non paiement.
+
+Ces destinataires n’appellent pas d’observations de la part de la Commission.
+
+|
+
+Sur l’information et le droit d’accès
+
+|
+
+Les personnes concernées sont informées, conformément à l’article 32 de la loi du 6 janvier 1978 modifiée, par des panneaux apposés sur des bornes de péage, ainsi que :
+
+par une mention sur la constatation de non paiement du péage (CNP) ;
+
+par une mention sur l’avis de paiement.
+
+Les droits d’accès et de rectification s’exercent auprès du Directeur Général Délégué, Compagnie Eiffage du Viaduc de Millau, Péage de Saint-Germain, BP 60457 – 12104 MILLAU Cedex.
+
+La Commission estime que ces modalités d’information et d’exercice des droits sont satisfaisantes.
+
+|
+
+Sur les mesures de sécurité
+
+|
+
+La Commission observe que les consultations du SIV sont réalisées par envoi de fichiers d’appels par l’intermédiaire du concentrateur, organisme assurant la centralisation des différents fichiers d’interrogation, leur transmission au SIV et la récupération et le renvoi des réponses aux sociétés à l’origine de l’interrogation.
+
+Le détail des interrogations est tracé pendant une durée de 400 jours, afin de permettre la détection d’interrogation frauduleuse.
+
+Les modalités d’authentification des utilisateurs habilités à accéder aux données sont conformes aux recommandations de la Commission.
+
+L’ensemble des échanges de données réalisés sur des canaux de communication non sécurisés seront chiffrés afin de garantir la confidentialité des données.
+
+Les étapes de développement et de maintenance font l’objet de mesures de sécurité visant à garantir la confidentialité des données.
+
+Les autres mesures de sécurité n’appellent pas d’observation particulière de la part de la Commission.
+
+|
+
+Sur les autres caractéristiques du traitement
+
+|
+
+Les enregistrements vidéos ne peuvent être conservés au-delà d’une durée de 30 jours.
+
+Les autres données (dont les photographies issues des enregistrements vidéos) sont conservées pendant le temps nécessaire à l’instruction du dossier, dans la limite de la durée de la prescription légale en matière de contravention, soit un an.
+
+La Commission estime que ces durées de conservation sont proportionnées au regard de la finalité poursuivie.
+
+|
+
+Autorise, conformément à la présente délibération, la Compagnie Eiffage du Viaduc de Millau à mettre en œuvre le traitement susmentionné.
+
+La Présidente
+
+Isabelle FALQUE-PIERROTIN
