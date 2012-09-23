@@ -2,7 +2,9 @@
 
 MONTANTS DE L'INDEMNITÉ POUR TRAVAUX INCOMMODES SUSCEPTIBLE D'ÊTRE ALLOUÉE AUX OUVRIERS D'ÉTAT DE LA DIRECTION GÉNÉRALE DE L'AVIATION CIVILE OU DE L'ÉTABLISSEMENT PUBLIC MÉTÉO-FRANCE EFFECTUANT DES TRAVAUX DE NATURE PARTICULIÈREMENT DANGEREUSE, PÉNIBLE, INSALUBRE OU SALISSANTE, PRÉVUS À L'ARTICLE 6 DU PRÉSENT ARRÊTÉ
 
-CATÉGORIES DE TRAVAUX
+CATÉGORIES DE
+
+travaux
 
 |
 
@@ -52,29 +54,9 @@ S
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
 1.2.1.1. Essais en vol
 
 Indemnité journalière pour services aériens définie par le décret n° 74-122 du 18 février 1974
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -82,19 +64,7 @@ Indemnité journalière pour services aériens définie par le décret n° 74-12
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
 a) Essais au point fixe
-
-|
 
 |
 
@@ -118,8 +88,6 @@ b) Essais de pressurisation de cabine d'avion
 
 |
 
-|
-
 0,42
 
 |
@@ -137,8 +105,6 @@ Taux horaire
 |
 
 c) Essais de moteur ou réacteur au banc
-
-|
 
 |
 
@@ -170,11 +136,7 @@ Taux horaire
 
 |
 
-|
-
 1.2.4.1. Essais des engins lourds sur route
-
-|
 
 |
 
@@ -206,11 +168,7 @@ Taux horaire
 
 |
 
-|
-
 - de 3 à 30 mètres
-
-|
 
 |
 
@@ -234,8 +192,6 @@ Taux horaire
 
 |
 
-|
-
 0,49
 
 |
@@ -253,8 +209,6 @@ Taux horaire
 |
 
 - plus de 60 mètres
-
-|
 
 |
 
@@ -276,21 +230,7 @@ Taux horaire
 
 1.4. Travaux de réparation sur des appareils sous tension
 
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Mise au point et réglage sous tension d'équipements mettant en œuvre des tensions supérieures à 100 V en alternatif et 1 600 V en continu
-
-|
+Mise au point et réglage sous tension d'équipements mettant en œuvre des tensions supérieures à 100 V en alternatif et à 1 600 V en continu
 
 |
 
@@ -298,11 +238,11 @@ Mise au point et réglage sous tension d'équipements mettant en œuvre des tens
 
 |
 
-0,06
+0,07
 
 |
 
-0,06
+0,18
 
 |
 
@@ -310,9 +250,7 @@ Taux horaire
 
 |
 
-1.5. Manutention, mise en place de pièces lourdes à l'aide de moyens précaires : crics, pinces... (travaux ne permettant pas l'utilisation de moyens mieux adaptés) par ripage ou déplacement sur rouleaux et nécessitant des efforts physiques importants
-
-|
+1.6. Manutention, mise en place de pièces lourdes à l'aide de moyens précaires : crics, pinces... (travaux ne permettant pas l'utilisation de moyens mieux adaptés) par ripage ou déplacement sur rouleaux et nécessitant des efforts physiques importants
 
 |
 
@@ -334,7 +272,7 @@ En application de l'article 6 du présent arrêté, le taux est relevé à 0,15 
 
 |
 
-1.6. Travaux divers
+1.7. Travaux divers
 
 |
 
@@ -346,11 +284,7 @@ En application de l'article 6 du présent arrêté, le taux est relevé à 0,15 
 
 |
 
-|
-
-1.6.1. Travaux à la toupie à bois
-
-|
+1.7.1. Travaux à la toupie à bois
 
 |
 
@@ -370,9 +304,7 @@ Taux horaire
 
 |
 
-1.6.5. Travaux qui, sans être insalubres ou dangereux pour l'organisme, sont susceptibles de provoquer des malaises, nausées ou céphalées en l'absence de ventilation appropriée (utilisation importante de colles notamment)
-
-|
+1.7.5. Travaux qui, sans être insalubres ou dangereux pour l'organisme, sont susceptibles de provoquer des malaises, nausées ou céphalées en l'absence de ventilation appropriée (utilisation importante de colles notamment)
 
 |
 
@@ -396,8 +328,6 @@ Taux horaire
 
 |
 
-B, C, H, T
-
 |
 
 |
@@ -410,25 +340,23 @@ B, C, H, T
 
 2.1.1. Travaux à caractère général
 
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Sans masque
 
-Travaux nécessitant le port d'un masque protecteur
-
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-2.1.2. Travaux à caractère spécifique
-
-|
+B, C, H, T
 
 |
 
@@ -448,15 +376,9 @@ Taux horaire
 
 |
 
-a) Injection et coulée de résine pour l'obtention de mousses. Imprégnation à la résine des tissus, de verre pour matières plastiques stratifiées :
-
-Sans masque
-
-Travaux nécessitant le port d'un masque protecteur
+Travaux nécessitant le port d'un masque protecteur, le taux est à porté à
 
 |
-
-T
 
 |
 
@@ -476,7 +398,37 @@ Taux horaire
 
 |
 
-b) Traitement thermique au bain de sels et de plomb
+2.1.2. Travaux à caractère spécifique
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Injection et coulée de résine pour l'obtention de mousses. Imprégnation à la résine des tissus, de verre pour matières plastiques stratifiées :
+
+|
+
+T
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sans masque
 
 |
 
@@ -498,6 +450,8 @@ Taux horaire
 
 |
 
+Travaux nécessitant le port d'un masque protecteur
+
 |
 
 |
@@ -518,7 +472,7 @@ Taux horaire
 
 |
 
-c) Manipulation de produits agressifs spéciaux
+b) Traitement thermique au bain de sels et de plomb
 
 |
 
@@ -539,6 +493,8 @@ c) Manipulation de produits agressifs spéciaux
 Taux horaire
 
 |
+
+c) Manipulation de produits agressifs spéciaux
 
 |
 
@@ -564,8 +520,6 @@ Taux horaire
 
 |
 
-C, H, T
-
 |
 
 |
@@ -580,23 +534,7 @@ C, H, T
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-2.2.2. Travaux à caractère spécifique
-
-Travaux sur ou avec laser
-
-|
-
-|
+C, H, T |
 
 0,08
 
@@ -614,7 +552,21 @@ Taux horaire
 
 |
 
-En cas d'expérimentation en laboratoire sur laser de forte intensité (supérieur à 1 joule au cm² pour un temps inférieur à 1 seconde) ou de moyenne puissance (supérieur à 1 mW/cm²) et émettant dans le domaine de la transparence de l'œil
+2.2.2. Travaux à caractère spécifique
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Travaux sur ou avec laser
 
 |
 
@@ -636,31 +588,45 @@ Taux horaire
 
 |
 
+En cas d'expérimentation en laboratoire sur laser de forte intensité (supérieur à 1 joule au cm² pour un temps inférieur à 1 seconde) ou de moyenne puissance (supérieur à 1 mW/ cm²) et émettant dans le domaine de la transparence de l'œil
+
+|
+
+|
+
+0,42
+
+|
+
+0,42
+
+|
+
+0,42
+
+|
+
+Taux horaire
+
+|
+
 En cas de travaux d'expérimentation ou de mise au point de laser pendant lesquels l'opérateur est tenu de supprimer certains éléments de protection
 
 |
 
 |
 
-0,42
+0,49
+
+|
 
 0,49
 
 |
 
-0,42
-
 0,49
 
 |
-
-0,42
-
-0,49
-
-|
-
-Taux horaire
 
 Taux horaire
 
@@ -669,8 +635,6 @@ Taux horaire
 2.3. Travaux exécutés en air confiné par suite de volume très réduit de l'espace où ils sont exécutés, ou en air pollué en l'absence de ventilation efficace, travaux exécutés à l'aide du scaphandre dans l'air comprimé ou en dépression
 
 |
-
-H, S
 
 |
 
@@ -685,6 +649,8 @@ H, S
 2.3.1. Travaux à caractère général exécutés en air confiné par suite de volume très réduit de l'espace où ils sont exécutés ou en air pollué en l'absence de ventilation artificielle
 
 |
+
+H, S
 
 |
 
@@ -754,7 +720,7 @@ Taux horaire
 
 |
 
-Travaux photographiques en chambre noire au-delà de 3 heures par jour
+f) Travaux photographiques en chambre noire au-delà de 3 heures par jour
 
 |
 
@@ -780,6 +746,8 @@ Taux horaire
 
 |
 
+B, C, H, S, T
+
 |
 
 |
@@ -794,10 +762,6 @@ Taux horaire
 
 |
 
-B, C, H, S, T
-
-|
-
 |
 
 |
@@ -807,8 +771,6 @@ B, C, H, S, T
 |
 
 Sans masque
-
-|
 
 |
 
@@ -829,8 +791,6 @@ Taux horaire
 |
 
 Travaux nécessitant le port d'un masque protecteur
-
-|
 
 |
 
@@ -862,8 +822,6 @@ Taux horaire
 
 |
 
-|
-
 a) Travaux sur panneaux ou sur matelas, de fibre de verre, de soie de verre, de liège, de mousses de matières plastiques
 
 |
@@ -876,11 +834,7 @@ a) Travaux sur panneaux ou sur matelas, de fibre de verre, de soie de verre, de 
 
 |
 
-|
-
-b) Travaux sur matières plastiques stratifiées
-
-|
+Travaux sur matières plastiques stratifiées
 
 |
 
@@ -920,8 +874,6 @@ Travaux nécessitant le port d'un masque protecteur
 
 |
 
-|
-
 0,18
 
 |
@@ -938,9 +890,19 @@ Taux horaire
 
 |
 
-c) Travaux sur l'amiante
+b) Travaux sur l'amiante
 
-Dans les conditions de sécurité prévues par les textes relatifs à la protection contre les risques liés à l'inhalation des poussières d'amiante
+|
+
+|
+
+|
+
+|
+
+|
+
+Dans les conditions de sécurité prévues par les textes relatifs à laprotection contre les risques liés à l'inhalation des poussières d'amiante
 
 |
 
@@ -964,9 +926,7 @@ Taux horaire
 
 |
 
-d) Travaux en atmosphère polluée simultanément par de la poussière de verre, des verres plastiques, de la résine epoxy et des solvants divers
-
-|
+c) Travaux en atmosphère polluée simultanément par de la poussière de verre, des verres plastiques, de la résine epoxy et des solvants divers
 
 |
 
@@ -979,8 +939,6 @@ d) Travaux en atmosphère polluée simultanément par de la poussière de verre,
 |
 
 Sans masque
-
-|
 
 |
 
@@ -1004,8 +962,6 @@ Travaux nécessitant le port d'un masque protecteur
 
 |
 
-|
-
 0,42
 
 |
@@ -1022,7 +978,7 @@ Taux horaire
 
 |
 
-e) Travaux au jet de sable
+d) Travaux au jet de sable
 
 |
 
@@ -1039,8 +995,6 @@ C, H
 |
 
 Sans tenue spéciale
-
-|
 
 |
 
@@ -1064,8 +1018,6 @@ Avec tenue et casque spéciaux
 
 |
 
-|
-
 0,35
 
 |
@@ -1082,9 +1034,7 @@ Taux horaire
 
 |
 
-f) Vidange de chambre de sable
-
-|
+e) Vidange de chambre de sable
 
 |
 
@@ -1123,6 +1073,8 @@ Taux horaire
 |
 
 Taux horaire
+
+Il doit être tenu compte de la saison durant laquelle s'exécutent les travaux.
 
 |
 
@@ -1354,7 +1306,45 @@ En application de l'article 6 du présent arrêté, ce taux peut être porté à
 
 |
 
-3.1. Travaux exceptionnellement salissants
+3.1. Travaux particulièrement salissants
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Entretien des matériels, manipulation de graisses, huiles, charbon, essences, pétrole
+
+|
+
+H
+
+|
+
+0,03
+
+|
+
+0,06
+
+|
+
+0,08
+
+|
+
+Taux horaire
+
+|
+
+3.2. Travaux exceptionnellement salissants
 
 |
 
