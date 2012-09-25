@@ -1,0 +1,8 @@
+# Rosny-sous-Bois : délibération 3 — RAPPORT ANNUEL SUR LE PRIX ET LA QUALITE DU SERVICE PUBLIC DE L'EAU POTABLE - ANNEE 2010-2011
+
+- Collectivité : Rosny-sous-Bois
+- SIREN : 219300647
+- Code INSEE : 93064
+- Date : 2012-09-25
+- Objet : RAPPORT ANNUEL SUR LE PRIX ET LA QUALITE DU SERVICE PUBLIC DE L'EAU POTABLE - ANNEE 2010-2011
+- Jeu de données : https://www.data.gouv.fr/datasets/5ba3983f634f41312a65602e
