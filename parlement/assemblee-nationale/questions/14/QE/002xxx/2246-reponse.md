@@ -1,0 +1,9 @@
+# Réponse à la question n° 2246
+
+- Question : [2246](2246.md) — Question n° 2246 — études; première année; échec; coût
+
+## Réponse
+
+*JO du 2012-09-25*
+
+La première année commune aux études de santé (PACES), instaurée par la loi n° 2009-833 du 7 juillet 2009, a été mise en place lors de l'année universitaire 2010-2011. La commission pédagogique nationale des études de santé (CPNES) a été créée par le décret n° 2010-762 du 7 juillet 2010. Cette instance placée auprès de la ministre chargée de l'enseignement supérieur est notamment chargée d'assurer le suivi de la mise en place de la réforme instaurant la première année commune aux études de santé. Un premier bilan a été réalisé dès la fin de l'année de mise en oeuvre de cette réforme, sur la base d'un questionnaire détaillé, établi par cette commission. D'importants problèmes persistent effectivement. Afin d'améliorer l'organisation de la PACES, il est apparu indispensable de tirer les enseignements de cette enquête. Un certain nombre de recommandations ont été adressées à l'ensemble des établissements organisant cette année d'études. Il leur a été ainsi demandé d'accentuer l'effort déjà accompli dans le cadre de la procédure d'orientation active et de faire en sorte que les étudiants qui sollicitent une inscription en PACES disposent de toutes les informations leur permettant de mieux apprécier l'adéquation entre leurs aspirations personnelles, leurs capacités et la réalité des études et du métier envisagé. D'autres recommandations relatives à la mise en place du programme, à l'organisation des enseignements et aux moyens pédagogiques mis en oeuvre ont été également formulées. Un nouveau bilan de la PACES sera diligenté par la CPNES à la fin de l'année universitaire 2012-2013. Il permettra d'inspirer les modifications à mettre en oeuvre dans les premières années d'études de santé.
