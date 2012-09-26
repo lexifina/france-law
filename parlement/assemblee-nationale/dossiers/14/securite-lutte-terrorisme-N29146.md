@@ -1,0 +1,53 @@
+# Police et sécurité : sécurité et lutte contre le terrorisme
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29146
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/securite_lutte_terrorisme
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-006.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-10-03 : 1er dépôt d'une initiative. (PRJLSNR5S199B0006)
+  - 2012-10-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-10-03 : Renvoi en commission au fond
+      - 2012-09-26 : Nomination de rapporteur
+      - 2012-10-10 : Dépôt de rapport (RAPPSNR5S199B0035)
+  - Discussion en séance publique
+    - 2012-10-16 : Discussion en séance publique
+    - 2012-10-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-10-17 : Dépôt d'une initiative en navette (PRJLANR5L14B0297)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-10-17 : Renvoi en commission au fond
+      - 2012-10-17 : Nomination de rapporteur
+      - 2012-10-24 : Réunion de commission
+      - 2012-11-07 : Réunion de commission
+      - 2012-11-14 : Réunion de commission
+      - 2012-11-14 : Réunion de commission
+      - 2012-11-27 : Réunion de commission
+      - 2012-11-14 : Dépôt de rapport (RAPPANR5L14B0409, PRJLANR5L14BTC0409)
+  - Discussion en séance publique
+    - 2012-11-27 : Discussion en séance publique
+    - 2012-11-27 : Discussion en séance publique
+    - 2012-11-27 : Décision
+- Commission Mixte Paritaire
+  - 2012-11-28 : Dépôt d'un projet de loi (PRJLSNR5S199B0170)
+  - 2012-11-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-12-06 : Nomination de rapporteur
+    - 2012-12-06 : Dépôt du rapport d'une CMP (RAPPANR5L14B0478)
+    - 2012-12-06 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0191)
+  - Discussion en séance publique
+    - 2012-12-10 : Discussion en séance publique
+    - 2012-12-10 : Décision
+  - Discussion en séance publique
+    - 2012-12-12 : Discussion en séance publique
+    - 2012-12-12 : Décision
+  - 2012-12-06 : Décision de la CMP
+- Promulgation de la loi
+  - 2012-12-21 : Promulgation d'une loi
