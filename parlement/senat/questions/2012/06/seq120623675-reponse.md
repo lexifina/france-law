@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120623675
+
+- Question : [SEQ120623675](seq120623675.md) — Situation des représentants étudiants élus
+
+## Réponse
+
+*Enseignement supérieur et recherche, JO du 2012-09-27, page 2092*
+
+En respect du principe de l'autonomie administrative et pédagogique des universités, il appartient aux responsables des établissements de fixer les dates des réunions de conseils comme celles des séances d'examens. Il paraît matériellement impossible d'interdire l'organisation d'examens le même jour qu'une séance d'un conseil universitaire pour permettre aux étudiants élus d'y assister dans le but d'assurer une non-coïncidence absolue de toutes les dates d'examens et de conseils. Si, pour des raisons liées à l'organisation des cours et aux contraintes afférentes aux études poursuivies, un examen ne peut être organisé qu'un jour déterminé, l'administration n'est pas tenue de modifier cette date. Il convient d'ajouter qu'une session spéciale d'examen ne saurait être organisée pour un nombre limité de candidats. L'égalité de l'ensemble des candidats devant l'examen et surtout le respect de l'anonymat des copies, lorsque la réglementation l'a prévu, ne pourraient alors être assurés. Toutefois, afin de permettre aux élus étudiants d'exercer leurs mandats dans les meilleures conditions, l'article L. 719-1 du code de l'éducation dans sa rédaction issue de la loi n° 2007-1199 du 10 août 2007 relative aux libertés et responsabilités des universités prévoit, pour les élections des représentants des étudiants au conseil d'administration d'université, l'élection, pour chaque représentant, d'un suppléant dans les mêmes conditions que le titulaire. Ce suppléant ne siège qu'en l'absence du titulaire. Il va de soi que la convocation à une séance d'un conseil permet à l'étudiant de justifier son absence à une séance de cours ou de travaux dirigés obligatoires.
