@@ -1,0 +1,51 @@
+# Justice : retenue et délit d'aide au séjour irrégulier
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29121
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/retention_delit_aide_sejour_irregulier
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl11-789.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-09-28 : 1er dépôt d'une initiative. (PRJLSNR5S198B0789)
+  - 2012-09-28 : Etude d'impact (ETDISNR5S198B0789)
+  - 2012-09-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-09-28 : Renvoi en commission au fond
+      - 2012-10-03 : Nomination de rapporteur
+      - 2012-10-24 : Dépôt de rapport (RAPPSNR5S199B0085)
+  - Discussion en séance publique
+    - 2012-11-08 : Discussion en séance publique
+    - 2012-11-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-11-09 : Dépôt d'une initiative en navette (PRJLANR5L14B0351)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-11-09 : Renvoi en commission au fond
+      - 2012-10-17 : Nomination de rapporteur
+      - 2012-11-28 : Réunion de commission
+      - 2012-12-11 : Réunion de commission
+      - 2012-11-28 : Dépôt de rapport (RAPPANR5L14B0463, PRJLANR5L14BTC0463)
+  - Discussion en séance publique
+    - 2012-12-11 : Discussion en séance publique
+    - 2012-12-11 : Discussion en séance publique
+    - 2012-12-11 : Décision
+- Commission Mixte Paritaire
+  - 2012-12-12 : Dépôt d'un projet de loi (PRJLSNR5S199B0214)
+  - 2012-12-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-12-13 : Nomination de rapporteur
+    - 2012-12-13 : Dépôt du rapport d'une CMP (RAPPANR5L14B0539)
+    - 2012-12-13 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0227)
+  - Discussion en séance publique
+    - 2012-12-19 : Discussion en séance publique
+    - 2012-12-19 : Décision
+  - Discussion en séance publique
+    - 2012-12-20 : Discussion en séance publique
+    - 2012-12-20 : Décision
+  - 2012-12-14 : Décision de la CMP
+- Promulgation de la loi
+  - 2012-12-31 : Promulgation d'une loi
