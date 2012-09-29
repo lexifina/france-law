@@ -212,7 +212,7 @@ EFBS
 
 |
 
-HC-T (FR) (1) (2)
+HC-T (1) (2)
 
 |
 
@@ -276,7 +276,7 @@ HC-T (1), HC-NT, NHC
 
 |
 
-Marseille Port (15)
+Marseille Port
 
 |
 
@@ -304,7 +304,7 @@ E
 
 |
 
-STEF
+Hangar 23
 
 |
 
@@ -388,7 +388,7 @@ Aéroport
 
 |
 
-HC-T (CH) (1) (2)
+HC-T (CH) (1) (2), NHC-NT (2)
 
 |
 
@@ -625,8 +625,6 @@ O = Autres animaux (y compris animaux de zoo).
 (4) Uniquement protéines animales.
 
 (6) Graisses, huiles et huiles de poisson liquides uniquement.
-
-(15) Cette autorisation est valable jusqu'au 30 juin 2012.
 
 (a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement.
 

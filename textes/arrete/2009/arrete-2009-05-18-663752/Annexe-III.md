@@ -24,49 +24,21 @@ et autres objets
 
 sous toutes ses formes
 
-et fruits et légumes)
-
-|
+et fruits et légumes) |
 
 Bois sous toutes
 
-ses formes exclusivement
-
-|
+ses formes exclusivement |
 
 Fruits et légumes
 
-exclusivement
+exclusivement |
 
-|
+Bordeaux |
 
-Basse-Terre
+Aéroport-port |
 
-|
-
-Port
-
-|
-
-Tous
-
-|
-
-|
-
-|
-
-Bordeaux
-
-|
-
-Aéroport-port
-
-|
-
-Tous
-
-|
+Tous |
 
 |
 
@@ -527,6 +499,18 @@ Aéroport
 Tous
 
 |
+
+|
+
+|
+
+Sète
+
+|
+
+Port |
+
+Tous |
 
 |
 
