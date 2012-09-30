@@ -350,27 +350,27 @@ C
 
 |
 
-DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DU CALVADOS
+Direction départementale des territoires et de la mer du Calvados
 
-FONCTIONS EXERCÉES
+FONCTIONS EXERCEES
 
 |
 
 NIVEAU
 
-de qualification
-
-de l'emploi
+de qualification de l'emploi
 
 |
 
-NOMBRE D'EMPLOIS
+NOMBRE
+
+d'emplois
 
 |
 
-NOMBRE DE POINTS
+NOMBRE DE POINTS (IM)
 
-(IM) par emploi
+par emploi
 
 |
 
@@ -406,27 +406,25 @@ B
 
 |
 
-DIRECTION DÉPARTEMENTALE DE LA COHÉSION SOCIALE DU CALVADOS
+Direction départementale de la cohésion sociale du Calvados
 
-FONCTIONS EXERCÉES
+FONCTIONS EXERCEES
 
 |
 
 NIVEAU
 
-de qualification
-
-de l'emploi
+de qualification de l'emploi
 
 |
 
-NOMBRE D'EMPLOIS
+NOMBRE d'emplois
 
 |
 
-NOMBRE DE POINTS
+NOMBRE DE POINTS (IM)
 
-(IM) par emploi
+par emploi
 
 |
 
@@ -1238,7 +1236,7 @@ A
 
 |
 
-Direction départementale de l'équipement d'Eure-et-Loir
+Direction départementale des territoires d'Eure-et-Loir
 
 FONCTIONS EXERCEES
 
@@ -1262,7 +1260,7 @@ par emploi
 
 |
 
-Chef du bureau politique de la ville et observatoire de l'habitat
+Chef de bureau rénovation urbaine et politique de la ville (6)
 
 |
 
@@ -1278,19 +1276,27 @@ A
 
 |
 
-Chargé de mission pour la politique de la ville
+Chef de service aménagement, urbanisme et habitat (6)
 
 |
 
-A
+A |
+
+1 |
+
+25 points |
+
+Adjoint au chef de service aménagement, urbanisme et habitat (6)
 
 |
+
+A |
 
 1
 
 |
 
-50 points
+25 points
 
 |
 
@@ -1433,3 +1439,5 @@ NOTA :
 (4) En application des articles 1 et 2 de l'arrêté du 29 décembre 2009, en vigueur à compter du 1er janvier 2009 et jusqu'au 1er juillet 2009.
 
 (5) En application de l'article 2 de l'arrêté du 29 décembre 2009, entre en vigueur à compter du 1er juillet 2009.
+
+(6) En application de l'article 1 de l'arrêté du 17 septembre 2012, entre en vigueur à compter du 1er juillet 2011.
