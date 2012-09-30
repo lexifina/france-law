@@ -1,6 +1,6 @@
 # Article Annexe
 
-LISTE ET RESSORT DES JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE DES INFRACTIONS RENTRANT DANS LES CATÉGORIES MENTIONNÉES AUX ARTICLES 697-1 ET 702 (ALINÉA 2) DU CODE DE PROCÉDURE PÉNALE
+LISTE ET RESSORT DES JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE DES INFRACTIONS ENTRANT DANS LES CATÉGORIES MENTIONNÉES AUX ARTICLES 697-1 ET 702 (ALINÉA 2) DU CODE DE PROCÉDURE PÉNALE
 
 COURS
 
@@ -528,6 +528,22 @@ Ressort de la cour d'appel de Basse-Terre.
 
 |
 
+Cayenne
+
+|
+
+Cayenne
+
+|
+
+Cayenne
+
+|
+
+Ressort de la cour d'appel de Cayenne
+
+|
+
 Fort-de-France
 
 |
@@ -562,47 +578,19 @@ Ressort de la cour d'appel de Saint-Denis.
 
 Saint-Pierre
 
-(tribunal supérieur d'appel)
-
 |
 
 Saint-Pierre
 
-(tribunal de première instance)
-
 |
 
-Saint-Pierre
-
-(cours criminelle)
+Saint-Pierre (tribunal criminel)
 
 |
 
 Ressort du tribunal supérieur d'appel
 
 de Saint-Pierre (Saint-Pierre-et-Miquelon).
-
-|
-
-Mamoutzou tribunal supérieur d'appel)
-
-|
-
-Mamoutzou (tribunal
-
-de première instance)
-
-|
-
-Mamoutzou
-
-(cours criminelle)
-
-|
-
-Ressort du tribunal supérieur d'appel
-
-de Mamoutzou (Mayotte).
 
 |
 
