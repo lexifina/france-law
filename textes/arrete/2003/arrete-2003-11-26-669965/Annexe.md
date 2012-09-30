@@ -8,7 +8,7 @@ OBJET DE L'ASTREINTE
 
 |
 
-NOMBRE ET TYPE D'ASTREINTE
+NOMBRE ET TYPE D'ASTREINTES
 
 |
 
@@ -42,6 +42,8 @@ Secrétariat général
 
 |
 
+|
+
 Logis
 
 |
@@ -54,7 +56,13 @@ Astreinte technique.
 
 |
 
-Service des systèmes d'information et de la modernisation (SSIM) (à compter de l'entrée en vigueur de l'arrêté portant création du SSIM de la DGAC)
+Service des systèmes d'information
+
+et de la modernisation (SSIM)
+
+(à compter de l'entrée en vigueur de l'arrêté
+
+portant création du SSIM de la DGAC)
 
 |
 
@@ -66,7 +74,13 @@ Astreinte opérationnelle et technique.
 
 |
 
-Centre d'exploitation, de développement et d'études du réseau d'information de gestion (jusqu'à l'entrée en vigueur de l'arrêté portant création du SSIM de la DGAC)
+Centre d'exploitation, de développement
+
+et d'études du réseau d'information de gestion
+
+(jusqu'à l'entrée en vigueur de l'arrêté
+
+portant création du SSIM de la DGAC)
 
 |
 
@@ -78,13 +92,17 @@ Astreinte opérationnelle et technique.
 
 |
 
-École nationale de l'aviation civile
+Ecole nationale de l'aviation civile
 
 |
 
 |
 
-Direction de la formation au pilotage et des vols : bureau des opérations centralisées (site de Muret)
+|
+
+Direction de la formation au pilotage et des vols :
+
+bureau des opérations centralisées (site de Muret)
 
 |
 
@@ -92,7 +110,7 @@ Astreinte opérationnelle et technique.
 
 |
 
-1 astreinte de fin de semaine.
+1 astreinte de fin de semaine et jours fériés.
 
 |
 
@@ -118,7 +136,9 @@ Astreinte enquêtes-accidents (niveau central).
 
 |
 
-1 astreinte de semaine et 2 astreintes de fin de semaines.
+1 astreinte de semaine
+
+et 2 astreintes de fin de semaine.
 
 |
 
@@ -130,7 +150,9 @@ des services de la navigation aérienne
 
 |
 
-Échelon central
+|
+
+Echelon central
 
 |
 
@@ -288,6 +310,8 @@ SNA Région parisienne
 
 |
 
+|
+
 CRNA Nord
 
 |
@@ -324,7 +348,7 @@ Astreinte technique (radar).
 
 |
 
-Paris-Charles-de-Gaulle (CDM)
+Paris - Charles-de-Gaulle (CDM)
 
 |
 
@@ -336,7 +360,7 @@ Astreinte opérationnelle.
 
 |
 
-Paris-Charles-de-Gaulle
+Paris - Charles-de-Gaulle
 
 |
 
@@ -378,6 +402,8 @@ SNA Nord
 
 |
 
+|
+
 Siège
 
 |
@@ -394,7 +420,9 @@ Athis-Mons
 
 |
 
-Astreinte technique pour la maintenance Île-de-France.
+Astreinte technique pour la maintenance
+
+Ile-de-France.
 
 |
 
@@ -403,6 +431,8 @@ Astreinte technique pour la maintenance Île-de-France.
 |
 
 SNA Nord-Est
+
+|
 
 |
 
@@ -438,6 +468,8 @@ SNA Ouest
 
 |
 
+|
+
 Siège
 
 |
@@ -468,6 +500,8 @@ SNA Centre-Est
 
 |
 
+|
+
 Siège
 
 |
@@ -493,6 +527,8 @@ Astreinte opérationnelle.
 |
 
 SNA Sud-Est
+
+|
 
 |
 
@@ -540,6 +576,8 @@ SNA Sud
 
 |
 
+|
+
 Siège
 
 |
@@ -553,6 +591,8 @@ Astreinte opérationnelle.
 |
 
 SNA Sud-Ouest
+
+|
 
 |
 
@@ -582,7 +622,9 @@ Astreinte technique pour la centrale énergie.
 
 |
 
-SNA Sud-Sud-Est
+SNA Sud - Sud-Est
+
+|
 
 |
 
@@ -613,6 +655,8 @@ Astreinte opérationnelle.
 |
 
 SNA Antilles-Guyane
+
+|
 
 |
 
@@ -660,6 +704,8 @@ SNA océan Indien
 
 |
 
+|
+
 Siège
 
 |
@@ -678,7 +724,11 @@ Direction de la sécurité de l'aviation civile
 
 |
 
+|
+
 DSAC Nord
+
+|
 
 |
 
@@ -708,7 +758,9 @@ Astreinte de direction et de contrôle technique.
 
 |
 
-Région Nord-Pas-de-Calais (Lille, Calais, Le Touquet et Merville)
+Région Nord - Pas-de-Calais
+
+(Lille, Calais, Le Touquet et Merville)
 
 |
 
@@ -720,7 +772,7 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Picardie (Beauvais)
+Région Picardie (Beauvais),
 
 |
 
@@ -750,6 +802,8 @@ DSAC Sud-Ouest
 
 |
 
+|
+
 DSAC
 
 |
@@ -758,7 +812,9 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 26 semaines par an.
+1 astreinte de semaine dans la limite
+
+de 26 semaines par an.
 
 |
 
@@ -816,6 +872,8 @@ DSAC Sud
 
 |
 
+|
+
 DSAC
 
 |
@@ -824,7 +882,9 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 26 semaines par an.
+1 astreinte de semaine dans la limite
+
+de 26 semaines par an.
 
 |
 
@@ -870,6 +930,8 @@ DSAC Ouest
 
 |
 
+|
+
 DSAC
 
 |
@@ -878,7 +940,9 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 26 semaines par an.
+1 astreinte de semaine dans la limite
+
+de 26 semaines par an.
 
 |
 
@@ -948,6 +1012,8 @@ DSAC Nord-Est
 
 |
 
+|
+
 DSAC
 
 |
@@ -956,7 +1022,9 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 26 semaines par an
+1 astreinte de semaine dans la limite
+
+de 26 semaines par an
 
 |
 
@@ -976,7 +1044,7 @@ Région Bourgogne et Franche-Comté (Dijon)
 
 |
 
-Astreinte enquêtes-accidents (Bourgogne et Franche-Comté)
+Astreinte enquêtes-accidents (Bourgogne et Franche- Comté)
 
 |
 
@@ -996,7 +1064,9 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Lorraine et Champagne-Ardenne (Metz-Nancy-Lorraine)
+Région Lorraine et Champagne-Ardenne
+
+(Metz-Nancy-Lorraine)
 
 |
 
@@ -1014,6 +1084,8 @@ DSAC Centre-Est
 
 |
 
+|
+
 DSAC
 
 |
@@ -1022,7 +1094,9 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 26 semaines par an.
+1 astreinte de semaine dans la limite
+
+de 26 semaines par an.
 
 |
 
@@ -1068,6 +1142,8 @@ DSAC Sud-Est
 
 |
 
+|
+
 DSAC
 
 |
@@ -1076,7 +1152,9 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-2 astreintes de semaine dans la limite, pour chaque astreinte, de 36 semaines par an.
+2 astreintes de semaine dans la limite,
+
+pour chaque astreinte, de 36 semaines par an.
 
 |
 
@@ -1116,7 +1194,9 @@ Astreinte enquêtes-accidents.
 
 |
 
-Région Languedoc-Roussillon (Montpellier-Méditerranée)
+Région Languedoc-Roussillon
+
+(Montpellier-Méditerranée)
 
 |
 
@@ -1146,6 +1226,8 @@ DSAC Antilles-Guyane
 
 |
 
+|
+
 DSAC
 
 |
@@ -1154,7 +1236,9 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 26 semaines par an.
+1 astreinte de semaine dans la limite
+
+de 26 semaines par an.
 
 |
 
@@ -1212,6 +1296,8 @@ DSAC océan Indien
 
 |
 
+|
+
 DSAC
 
 |
@@ -1220,7 +1306,9 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 18 semaines par an.
+1 astreinte de semaine dans la limite
+
+de 18 semaines par an.
 
 |
 
@@ -1254,6 +1342,8 @@ DSAC et SNA océan Indien
 
 |
 
+|
+
 Dzaoudzi-Pamandzi
 
 |
@@ -1272,6 +1362,8 @@ SEAC Polynésie française
 
 |
 
+|
+
 SEAC
 
 |
@@ -1280,11 +1372,13 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 18 semaines par an.
+1 astreinte de semaine dans la limite
+
+de 18 semaines par an.
 
 |
 
-Tahiti-Faaa
+Tahiti - Faaa
 
 |
 
@@ -1296,7 +1390,7 @@ Astreinte de direction (SEAC).
 
 |
 
-Tahiti-Faaa
+Tahiti - Faaa
 
 |
 
@@ -1308,7 +1402,7 @@ Astreinte enquêtes-accidents (Territoire).
 
 |
 
-Tahiti-Faaa
+Tahiti - Faaa
 
 |
 
@@ -1320,7 +1414,7 @@ Astreinte technique de maintenance.
 
 |
 
-Tahiti-Faaa
+Tahiti - Faaa
 
 |
 
@@ -1332,15 +1426,17 @@ Astreinte opérationnelle.
 
 |
 
-Service mixte "direction de l'aviation civile
+Service mixte Direction de l'aviation civile
 
-en Nouvelle-Calédonie"
+en Nouvelle-Calédonie
+
+|
 
 |
 
 |
 
-Service mixte "DAC/NC"
+Service mixte DAC/NC
 
 |
 
@@ -1348,7 +1444,9 @@ Astreinte de contrôle technique d'exploitation.
 
 |
 
-1 astreinte de semaine dans la limite de 18 semaines par an.
+1 astreinte de semaine dans la limite
+
+de 18 semaines par an.
 
 |
 
@@ -1356,7 +1454,7 @@ Nouméa
 
 |
 
-Astreinte de direction (service mixte "DAC/NC").
+Astreinte de direction (Service mixte DAC/NC ).
 
 |
 
@@ -1400,4 +1498,6 @@ Astreinte technique de centrale énergie
 
 |
 
-(1) Une astreinte de semaine couvre une période de 7 jours sur 7. |
+(1) Une astreinte de semaine couvre une période de 7 jours sur 7.
+
+|
