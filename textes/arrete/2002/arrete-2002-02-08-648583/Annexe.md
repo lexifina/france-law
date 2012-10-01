@@ -14,11 +14,11 @@ GRADE D'ASSIMILATION
 
 |
 
-Contrôleurs des transports terrestres.
+Secrétaires d'administration et de contrôle du développement durable.
 
 |
 
-Contrôleur des transports terrestres de classe normale dont l'indice brut de rémunération est au plus égal à 380.
+Secrétaire d'administration et de contrôle du développement durable de classe normale dont l'indice brut de rémunération est au plus égal à 380.
 
 |
 
@@ -26,11 +26,11 @@ Agent du premier grade de la catégorie B dont l'indice de rémunération est au
 
 |
 
-Contrôleurs des affaires maritimes.
+Secrétaires d'administration et de contrôle du développement durable.
 
 |
 
-Contrôleur des affaires maritimes de classe normale dont l'indice brut de rémunération est au plus égal à 380.
+Secrétaire d'administration et de contrôle de classe normale du développement durable dont l'indice brut de rémunération est au plus égal à 380.
 
 |
 
@@ -118,35 +118,35 @@ Catégories dont l'indice terminal est inférieur ou égal à celui du dernier �
 
 |
 
-- l'échelle 2
+-l'échelle 2
 
 |
 
-- agents de catégorie C rémunérés en échelle 2.
+-agents de catégorie C rémunérés en échelle 2.
 
 |
 
-- l'échelle 3
+-l'échelle 3
 
 |
 
-- agents de catégorie C rémunérés en échelle 3.
+-agents de catégorie C rémunérés en échelle 3.
 
 |
 
-- l'échelle 4
+-l'échelle 4
 
 |
 
-- agents de catégorie C rémunérés en échelle 4.
+-agents de catégorie C rémunérés en échelle 4.
 
 |
 
-- l'échelle 5
+-l'échelle 5
 
 |
 
-- agents de catégorie C rémunérés en échelle 5.
+-agents de catégorie C rémunérés en échelle 5.
 
 |
 
