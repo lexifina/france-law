@@ -1,18 +1,18 @@
 # Article Annexe II
 
-(quotas en tonnes)
+(Quotas en tonnes)
 
 |
 
-Quota 2012 en Océan Atlantique à l'Est
+QUOTA 2012 EN OCÉAN ATLANTIQUE
 
-de la longitude 45° ouest
+à l'est de la longitude 45° Ouest
 
 |
 
-Quota 2012 en
+QUOTA 2012
 
-Mer Méditerranée
+en mer Méditerranée
 
 |
 
@@ -32,7 +32,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1
+0
 
 |
 
@@ -56,7 +56,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse Normandie (OPBN)
+Navires adhérant à l'organisation de producteurs marins pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -92,11 +92,7 @@ Navires adhérant à l'organisation de producteurs Pêcheurs de Bretagne
 
 |
 
-17
-
-|
-
-15
+1,4
 
 |
 
@@ -104,7 +100,11 @@ Navires adhérant à l'organisation de producteurs Pêcheurs de Bretagne
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+0
+
+|
+
+Navires adhérant à l'organisation de producteurs des pêcheurs artisants de l'île de Noirmoutier (OPPAN)
 
 |
 
@@ -112,7 +112,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-2
+0
 
 |
 
@@ -120,7 +120,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs VENDES
+Navires adhérant à l'organisation de producteurs VENDÉE
 
 |
 
@@ -136,7 +136,7 @@ Navires adhérant à l'organisation de producteurs VENDES
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins pêcheurs de l'île d'Yeu
 
 |
 
@@ -144,7 +144,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-6
+29
 
 |
 
@@ -152,7 +152,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest)
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-ouest)
 
 |
 
@@ -160,7 +160,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1
+0
 
 |
 
@@ -168,11 +168,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Côtinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
 
 |
 
-1
+0
 
 |
 
@@ -200,7 +200,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-Navires adhérant à l'organisation de producteurs Coopérative des Artisans Pêcheurs du Sud (CAP SUD)
+Navires adhérant à l'organisation de producteurs Coopérative des artisans pêcheurs du Sud (CAP SUD)
 
 |
 
@@ -208,7 +208,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des Artisans Pê
 
 |
 
-73
+85
 
 |
 
@@ -216,7 +216,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des Artisans Pê
 
 |
 
-Navires non adhérant à une organisation de producteurs
+Navires n'adhérant pas à une organisation de producteurs
 
 |
 
@@ -236,7 +236,7 @@ Réserve pour les navires participant à la pêche expérimentale
 
 |
 
-12
+12,6
 
 |
 
@@ -248,15 +248,15 @@ Réserve pour les navires participant à la pêche expérimentale
 
 |
 
-TOTAL
+Total
 
 |
 
-52
+36
 
 |
 
-98
+114
 
 |
 
