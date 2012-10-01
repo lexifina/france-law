@@ -6,7 +6,7 @@ Pour les 50 premières tonnes dans le mois
 
 |
 
-0,76 euro
+1 €
 
 |
 
@@ -14,7 +14,7 @@ Pour les tonnes suivantes
 
 |
 
-0,38 euro
+0,50 €
 
 |
 
@@ -24,7 +24,7 @@ Pour les 50 premières tonnes dans le mois
 
 |
 
-0,46 euro
+0,50 €
 
 |
 
@@ -32,7 +32,7 @@ Pour les tonnes suivantes
 
 |
 
-0,23 euro
+0,25 €
 
 |
 
@@ -42,7 +42,7 @@ Pour les 50 premières tonnes dans le mois
 
 |
 
-0,76 euro
+1 €
 
 |
 
@@ -50,8 +50,8 @@ Pour les tonnes suivantes
 
 |
 
-0,38 euro
+0,50 €
 
 |
 
-Le montant maximum perçu par lot de poissons des espèces visées au II de l'article 267 quater F de l'annexe II au code général des impôts est fixé à 50 euros.
+Le montant maximum perçu par lot de poissons des espèces visées au II de l'article 267 quater F de l'annexe II au code général des impôts est fixé à 50 €.
