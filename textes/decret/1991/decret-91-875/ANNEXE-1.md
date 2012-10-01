@@ -216,7 +216,7 @@ Techniciens territoriaux
 
 |
 
-Techniciens supérieurs de l'équipement
+Techniciens supérieurs du développement durable
 
 |
 
@@ -230,15 +230,13 @@ Technicien supérieur en chef
 
 |
 
-Contrôleurs de travaux publics de l'Etat
-
-|
+Techniciens supérieur du développement durable |
 
 Technicien principal de 2e classe
 
 |
 
-Contrôleur principal des TPE
+Technicien supérieur principal du développement durable
 
 |
 
@@ -246,7 +244,7 @@ Technicien
 
 |
 
-Contrôleur des TPE
+Techniciens supérieur du développement durable
 
 |
 
@@ -286,9 +284,7 @@ A compter du 1er janvier 2008
 
 |
 
-Agents de maîtrise territoriaux
-
-|
+Agents de maîtrise territoriaux |
 
 Adjoints techniques du ministère de l'intérieur
 
@@ -1192,7 +1188,7 @@ Aide opérateur.
 
 |
 
-Adjoint administratif. de 2e classe
+Adjoint administratif de 2e classe.
 
 |
 

@@ -31,3 +31,7 @@ B. - Personnels relevant du ministère chargé du budget,
 direction générale des douanes et droits indirects
 
 Titres correspondants de l'annexe I ou III du présent arrêté.
+
+NOTA :
+
+Conformément à l'article 36 du décret n° 2012-1064 du 18 septembre 2012, la mention "contrôleur des affaires maritimes" est remplacée par la mention "technicien supérieur du développement durable".

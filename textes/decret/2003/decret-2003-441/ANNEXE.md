@@ -29,3 +29,7 @@ Experts techniques des services techniques du ministère de l'équipement, des t
 Agents d'exploitation des travaux publics de l'Etat.
 
 Syndics des gens de mer.
+
+NOTA :
+
+Conformément à l'article 36 du décret n° 2012-1064 du 18 septembre 2012, la mention "contrôleur des affaires maritimes" spécialité navigation et sécurité et spécialité pêches, cultures marines et environnement est remplacée par la mention "technicien supérieur du développement durable".
