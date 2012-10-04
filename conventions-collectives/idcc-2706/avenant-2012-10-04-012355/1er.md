@@ -1,0 +1,181 @@
+# Article 1er
+
+L'article 2 « Taux des cotisations applicables » est modifié comme suit :
+
+– part employeur : 60 % ;
+
+– part salarié : 40 %.
+
+Non-cadres
+
+(En pourcentage.)
+
+Garantie |
+
+Cotisation
+
+globale |
+
+Cotisation employeur |
+
+Cotisation
+
+salarié |
+
+|
+
+TA |
+
+TB/ TC |
+
+TA |
+
+TB/ TC |
+
+TA |
+
+TB/ TC |
+
+Décès + RE, RC et frais d'obsèques |
+
+0,78 |
+
+0,78 |
+
+0,47 |
+
+0,47 |
+
+0,31 |
+
+0,31 |
+
+Incapacité |
+
+0,29 |
+
+0,29 |
+
+0,174 |
+
+0,174 |
+
+0,116 |
+
+0,116 |
+
+Invalidité |
+
+0,45 |
+
+0,45 |
+
+0,27 |
+
+0,27 |
+
+0,18 |
+
+0,18 |
+
+Total |
+
+1,52 |
+
+1,52 |
+
+0,914 |
+
+0,914 |
+
+0,606 |
+
+0,606 |
+
+Cadres
+
+(En pourcentage.)
+
+Garantie |
+
+Cotisation
+
+globale |
+
+Cotisation
+
+employeur |
+
+Cotisation
+
+salarié |
+
+|
+
+TA |
+
+TB/ TC |
+
+TA |
+
+TB/ TC |
+
+TA |
+
+TB/ TC |
+
+Décès + RE, RC et frais d'obsèques |
+
+1,10 |
+
+0,42 |
+
+1,10 |
+
+0,25 |
+
+0 |
+
+0,17 |
+
+Incapacité |
+
+0,1625 |
+
+0,5125 |
+
+0,1625 |
+
+0,3075 |
+
+0 |
+
+0,205 |
+
+Invalidité |
+
+0,3375 |
+
+0,9875 |
+
+0,3375 |
+
+0,5925 |
+
+0 |
+
+0,395 |
+
+Total |
+
+1,60 |
+
+1,92 |
+
+1,60 |
+
+1,15 |
+
+0 |
+
+0,77 |
