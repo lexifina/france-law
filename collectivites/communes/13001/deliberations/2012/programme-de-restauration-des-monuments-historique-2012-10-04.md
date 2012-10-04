@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — PROGRAMME DE RESTAURATION DES MONUMENTS HISTORIQUES - ÉTUDE D'ÉVALUATION DES FONTAINES DE LA ROTONDE, DES NEUF CANONS ET DE LA FONTAINE PASCAL - DÉCISION D'ENGAGER LES TRAVAUX - DEMANDES DE SUBVENTIONS ET DE FONDS DE CONCOURS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-10-04
+- Séance : Conseil Municipal 2CA
+- Objet : PROGRAMME DE RESTAURATION DES MONUMENTS HISTORIQUES - ÉTUDE D'ÉVALUATION DES FONTAINES DE LA ROTONDE, DES NEUF CANONS ET DE LA FONTAINE PASCAL - DÉCISION D'ENGAGER LES TRAVAUX - DEMANDES DE SUBVENTIONS ET DE FONDS DE CONCOURS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-3499-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
