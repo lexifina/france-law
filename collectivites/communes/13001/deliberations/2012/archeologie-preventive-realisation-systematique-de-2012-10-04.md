@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ARCHEOLOGIE PREVENTIVE - REALISATION SYSTEMATIQUE DES DIAGNOSTICS - BILAN FONCTIONNEL ET FINANCIER POUR L'EXERCICE 2011 - REACTUALISATION DE LA CONVENTION RELATIVE A LA MISE EN OEUVRE DES DIAGNOSTICS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-10-04
+- Séance : Conseil Municipal 2CA
+- Objet : ARCHEOLOGIE PREVENTIVE - REALISATION SYSTEMATIQUE DES DIAGNOSTICS - BILAN FONCTIONNEL ET FINANCIER POUR L'EXERCICE 2011 - REACTUALISATION DE LA CONVENTION RELATIVE A LA MISE EN OEUVRE DES DIAGNOSTICS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-3448-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
