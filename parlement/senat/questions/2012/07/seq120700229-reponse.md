@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700229
+
+- Question : [SEQ120700229](seq120700229.md) — Développement des télévisions locales
+
+## Réponse
+
+*Culture et communication, JO du 2012-10-04, page 2155*
+
+Le ministère de la culture et de la communication a engagé une réflexion, au cours du premier semestre 2010, sur les perspectives de développement des télévisions locales en confiant au cabinet Analysys Mason la réalisation d'une étude sur les conditions de réussite de la télévision locale en France sur la base d'une comparaison internationale. Les pistes dégagées par cette étude ont conduit, en janvier 2011, au lancement d'une consultation publique destinée à recueillir l'avis des professionnels sur les mesures susceptibles de favoriser le développement des télévisions locales. Les propositions formulées par les professionnels ont nourri les réflexions des services du ministère de la culture et de la communication (direction générale des médias et des industries culturelles), en lien avec ceux du Conseil supérieur de l'audiovisuel (CSA). Elles visent notamment à renforcer la situation financière des chaînes locales en facilitant leur accès au marché publicitaire et en sécurisant le cadre réglementaire régissant les possibilités d'intervention des collectivités territoriales. Les comparaisons internationales ont en effet montré que l'implication des collectivités locales dans le financement des télévisions associatives était déterminant. En outre, un consensus se dégage pour recommander une amélioration de la mesure d'audience des chaînes locales, afin de développer l'intérêt des annonceurs. Par ailleurs, si les résultats de la consultation publique ont indiqué que la majorité des télévisions locales souhaite le maintien du cadre actuel dans ses grandes lignes, le CSA, dans le cadre de ses compétences de régulation, a décidé d'assouplir les contraintes de programmation des télévisions locales.
