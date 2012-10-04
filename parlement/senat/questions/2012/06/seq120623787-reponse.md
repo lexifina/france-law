@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120623787
+
+- Question : [SEQ120623787](seq120623787.md) — Respect des règles sociales et fiscales applicables aux artistes
+
+## Réponse
+
+*Culture et communication, JO du 2012-10-04, page 2150*
+
+La ministre de la culture et de la communication est attachée au respect de ses obligations fiscales et sociales par toute personne commercialisant des œuvres d'art. Les obligations sociales liées à la perception de revenus artistiques sont rappelées dans la circulaire interministérielle DSS 5B/2011/63 du 16 février 2011. Tous les revenus provenant d'une activité d'artiste auteur - vente d'œuvres, cession de droits d'auteur - à titre principal ou accessoire sont assujettis aux cotisations du régime institué par le code de la sécurité sociale (articles L. 382-1 et suivants). De même, toute personne qui procède à la diffusion ou à l'exploitation commerciale d'œuvres originales est soumise obligatoirement à une contribution au régime de protection sociale des artistes auteurs. Les organismes chargés du recouvrement de ces cotisations et contributions, Agessa et Maison des Artistes, veillent à ce que cette obligation soit respectée par une information systématique auprès des artistes auteurs, des commerces d'art et des organisateurs d'expositions, et par la mise en place de plans de contrôle par les URSSAF. Les organisations professionnelles des artistes auteurs assurent également une information sur les obligations fiscales et sociales. Les revenus artistiques sont soumis aux obligations déclaratives fiscales comme tous les autres revenus, selon les modalités précisées dans le code général des impôts. L'ensemble des règles qui s'attachent à la perception de revenus d'activités artistiques est rappelé sur le site du Centre national des arts plastiques, établissement sous tutelle de la direction générale de la création artistique au ministère de la culture et de la communication (www. cnap. fr/ressources professionnelles).
