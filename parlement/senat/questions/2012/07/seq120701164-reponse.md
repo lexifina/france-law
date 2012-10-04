@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120701164
+
+- Question : [SEQ120701164](seq120701164.md) — Application de la loi sur le cumul des mandats en cas de contentieux électoral
+
+## Réponse
+
+*Intérieur, JO du 2012-10-04, page 2170*
+
+Les règles relatives au cumul des mandats électifs conditionnent l'obligation de se démettre d'un mandat au caractère définitif de l'élection. En cas de contestation électorale, l'élection ne présente ce caractère qu'au moment du jugement définitif la confirmant. Ainsi, il n'est pas envisageable de demander à l'élu en situation de cumul de démissionner d'un mandat antérieur alors qu'un contentieux est en cours sur son dernier mandat, au risque qu'il se voie privé de deux mandats dans le cas où le jugement prononcerait l'annulation de l'élection attaquée. Aussi, en application de la loi, le représentant de l'État ne peut constater la démission d'office qu'à défaut d'option et dans le délai de trente jours à compter de la date à laquelle le jugement confirmant cette élection est devenu définitif. Il n'apparaît pas que les préfets tardent à appliquer la loi en la matière. En ce qui concerne l'information relative aux contentieux électoraux, elle est organisée par le code de justice administrative qui prévoit, outre la communication des requêtes, mémoires et actes aux parties intéressées, la possibilité d'intervention d'un tiers soit en tant que partie nouvelle à l'instance, soit en tant que participant en appel en cause pour observations. Il n'apparaît pas nécessaire d'organiser une information sur l'existence d'un contentieux électoral en direction d'autres personnes et notamment une information obligatoire des candidats à l'élection et facultative des électeurs, dès lors que ceux-ci ne sont pas parties ou tiers au contentieux. En effet, tant que le contentieux n'est pas jugé, tous les mandats de l'élu demeurent valables et le recours n'a donc pas d'effet sur la situation des autres candidats ou pour les électeurs.
