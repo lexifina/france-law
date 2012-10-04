@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ACQUISITION D'UNE PARCELLE D'ENVIRON 17 M² À DÉTACHER DE LA PARCELLE CADASTRÉE SECTION OI N° 310 DANS LE CADRE DES TRAVAUX DE DÉSENCLAVEMENT DU QUARTIER L'EPERON POUR LA JONCTION ENTRE L'ANCIEN CHEMIN RURAL ET LE CHEMIN DE LA ROSE.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-10-04
+- Séance : Conseil Municipal 2CA
+- Objet : ACQUISITION D'UNE PARCELLE D'ENVIRON 17 M² À DÉTACHER DE LA PARCELLE CADASTRÉE SECTION OI N° 310 DANS LE CADRE DES TRAVAUX DE DÉSENCLAVEMENT DU QUARTIER L'EPERON POUR LA JONCTION ENTRE L'ANCIEN CHEMIN RURAL ET LE CHEMIN DE LA ROSE.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-3485-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
