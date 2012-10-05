@@ -1,12 +1,12 @@
 # Article Annexe 311-1.A.2
 
-ÉQUIPEMENTS POUR LESQUELS IL N'EXISTE PAS DE NORMES D'ESSAI
+ÉQUIPEMENTS POUR LESQUELS IL N'EXISTE PAS DE NORMES D'ESSAI DÉTAILLÉES
 
-DÉTAILLÉES DANS LES INSTRUMENTS INTERNATIONAUX
+DANS LES INSTRUMENTS INTERNATIONAUX
 
 1. Engins de sauvetage
 
-Colonne 4 : OMI MSC/Circ. 980 s'applique sauf en cas de remplacement par les instruments spécifiques mentionnés dans la colonne 4.
+Colonne 4 : OMI MSC/circ. 980 s'applique sauf en cas de remplacement par les instruments spécifiques mentionnés dans la colonne 4.
 
 ARTICLE N°
 
@@ -88,7 +88,7 @@ Règ. X/3
 
 |
 
-Rés. OMI MSC.48(66)-(Recueil LSA)
+Rés. OMI MSC.48(66)-(recueil LSA)
 
 |
 
@@ -104,9 +104,9 @@ Matériaux pour combinaison d'immersion
 
 |
 
-|
+Intentionnellement blanc
 
-Article supprimé
+|
 
 |
 
@@ -136,11 +136,15 @@ Règ. III/26
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 8
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.48(66)-(Recueil LSA) I, IV, VI
+(recueil HSC de 1994) 8
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 8
+Rés. OMI MSC.48(66)-(recueil LSA) I, IV, VI
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000) 8
 
 |
 
@@ -156,13 +160,7 @@ Echelles d'embarquement
 
 |
 
-Transféré à l'annexe A.1/1.29
-
-|
-
-|
-
-|
+Transféré à l'annexe A.1)/1.29
 
 |
 
@@ -178,15 +176,23 @@ Règ. III/6
 
 |
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI A.1021(26)
 
-Rés. OMI MSC.48(66)-(Recueil LSA)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
 
-OMI MSC/Circ.808
+Rés. OMI MSC.48(66)-(recueil LSA)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
+
+OMI MSC/circ. 808
 
 |
+
+ISO 27991 (2008).
 
 |
 
@@ -208,7 +214,7 @@ qui requiert
 
 une "approbation
 
-de type
+de type"
 
 |
 
@@ -230,7 +236,7 @@ MODULES
 
 d'évaluation
 
-DE la conformité
+de la conformité
 
 |
 
@@ -262,7 +268,7 @@ A.2/2.1
 
 |
 
-Dispositifs de contrôle et d'enregistrement à bord pour les NOx
+Dispositifs de contrôle et d'enregistrement à bord pour le NOx
 
 |
 
@@ -270,35 +276,15 @@ Transféré à l'annexe A.1/2.8
 
 |
 
-|
-
-|
-
-|
-
 A.2/2.2
 
 |
 
-Dispositifd'épuration des gaz d'échappement à bord
+Systèmes de nettoyage embarqués des gaz d'échappement
 
 |
 
-Annexe VI, Règ. 13
-
-Annexe VI, Règ. 14
-
-|
-
-Annexe VI, Règ. 13
-
-Annexe VI, Règ. 14
-
-|
-
-Rés. OMI MEPC.170(57)
-
-|
+Transféré à l'annexe A.1/2.10
 
 |
 
@@ -310,11 +296,11 @@ Autres méthodes équivalentes pour réduire les émissions à bord de NOx
 
 |
 
-Annexe VI, Règ. 13
+Annexe VI, Règ. 4
 
 |
 
-Annexe VI, Règ. 13
+Annexe VI, Règ. 4
 
 |
 
@@ -356,7 +342,7 @@ qui requiert
 
 une "approbation
 
-de type
+de type"
 
 |
 
@@ -410,7 +396,7 @@ A.2/3.1
 
 |
 
-Extincteurs mobiles et transportables
+Extincteurs non portatifs et transportables
 
 |
 
@@ -450,7 +436,7 @@ Démarreur par temps froid de groupes électrogènes (dispositifs de démarrage)
 
 |
 
-Transféré à l'annexe A.2/8.1
+Transféré à l'annexe A.2/81
 
 |
 
@@ -516,11 +502,29 @@ Transféré à l'annexe A.1/3.51
 
 |
 
+A.2/3.7
+
+|
+
+Détecteurs de chaleur
+
+|
+
+Transféré à l'annexe A.1/3.51
+
+|
+
+|
+
+|
+
+|
+
 A.2/3.8
 
 |
 
-Fanal de sécurité électrique
+Fanal de sécurité électrique.
 
 |
 
@@ -528,21 +532,23 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-(Recueil FSS)
+Rés. OMI MSC.98(73)-
+
+(recueil FSS)
 
 |
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(Recueil FSS)3
+Rés. OMI MSC.98(73)-(recueil FSS), 3
 
 |
 
-Publication CEI 79
+Série CEI 60079
 
 |
 
@@ -562,13 +568,11 @@ Règ. II-2/19
 
 Règ. II-2/19
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 7
+Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 7
+Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
 
 |
-
-EN 943-1 (2002)
 
 EN 943-1 (2002), y compris AC (2005)
 
@@ -578,9 +582,9 @@ EN ISO 6529 (2001)
 
 EN ISO 6530 (2005)
 
-EN 14605 (2005)
+EN 14605 (2005), y compris A1 (2009)
 
-OMI MSC/Circ.1120
+OMI MSC/circ. 1120
 
 |
 
@@ -690,7 +694,9 @@ Règ. II-2/19
 
 Règ. II-2/20
 
-Rés. OMI MSC.98(73)-(Recueil FSS) 10
+Rés. OMI MSC.98(73)-
+
+(recueil FSS) 10
 
 |
 
@@ -700,11 +706,13 @@ Règ. II-2/19
 
 Règ. II-2/20
 
-Rés. OMI MSC.98(73)-(Recueil FSS). 10
+Rés. OMI MSC.98(73)-(recueil FSS) 10
 
 |
 
-Rés. OMI MSC.98(73)-(Recueil FSS). 10
+Rés. OMI MSC.98(73)-
+
+(recueil FSS) 10
 
 |
 
@@ -768,7 +776,7 @@ A.2/3.19
 
 |
 
-Composants de dispositifs fixes d'extinction d'incendie par eau à action directe destinés à être utilisés dans les locaux de machines de type "A
+Composants de dispositifs fixes d'extinction d'incendie par eau à action directe destinés à être utilisés dans les locaux de machines de type "A"
 
 |
 
@@ -804,7 +812,7 @@ A.2/3.21
 
 |
 
-Composants de dispositifs d'extinction d'incendie pour les magasins à peinture et soutes à liquides inflammables
+Composants de dispositifs d'extinction de l'incendie pour les magasins à peinture et soutes à liquides inflammables
 
 |
 
@@ -814,9 +822,7 @@ Règ. II-2/10
 
 Règ. II-2/10
 
-Rés. OMI MSC.98(73)-(Recueil FSS)
-
-OMI MSC.1/Circ.1239
+OMI MSC.1/circ. 1239
 
 |
 
@@ -828,7 +834,7 @@ A.2/3.22
 
 |
 
-Composants de dispositifs fixes d'extinction d'incendie pour les conduits d'évacuation des fourneaux de cuisine
+Composants de dispositifs fixes d'extinction de l'incendie pour les conduits d'évacuation des fourneaux de cuisine
 
 |
 
@@ -848,7 +854,7 @@ A.2/3.23
 
 |
 
-Composants de dispositifs d'extinction d'incendie pour héliplates-formes
+Composants de dispositifs d'extinction de l'incendie pour héliplates-formes
 
 |
 
@@ -858,11 +864,9 @@ Règ. II-2/18
 
 Règ. II-2/18
 
-OMI MSC.1/Circ.1239
-
 |
 
-EN 13565-1 (2003), y compris A1 (2007)
+EN 13565-1 (2003), y compris A1(2007)
 
 |
 
@@ -888,13 +892,15 @@ Règ. II-2/10
 
 Règ. II-2/20
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 7
+Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 7
+Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(Recueil FSS) 4
+Rés. OMI MSC.98(73)-(recueil FSS) 4
 
-OMI MSC.1/Circ.1239
+OMI MSC.1/circ. 1239
+
+OMI MSC.1/circ. 1313
 
 |
 
@@ -918,11 +924,7 @@ Règ. II-2/3
 
 |
 
-Rés. OMI A.653(16)
-
-Rés. OMI A.799(19)
-
-Rés. OMI MSC.61(67)-(Recueil FTP), annexe 1, partie 1 et partie 5, ou annexe 2
+Rés. OMI MSC.61(67)-(recueil FTP), annexe 1, partie 1 et partie 5, ou annexe 2
 
 ISO 1716 (2002)
 
@@ -944,7 +946,7 @@ Règ. II-2/4
 
 Règ. II-2/4
 
-OMI MSC.1/Circ.1276
+OMI MSC.1/circ. 1276
 
 |
 
@@ -974,39 +976,87 @@ Règ. II-2/10
 
 Règ. II-2/20
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 7
+Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 7
+Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(Recueil FSS) 7
+Rés. OMI MSC.98(73)-(recueil FSS) 7
+
+OMI MSC.1/circ. 1313
+
+OMI MSC.1/circ. 1318
 
 |
+
+Dispositifs électriques automatiques de commande et de temporisation
 
 EN 12094-1 (2003)
 
+Dispositifs non électriques automatiques de commande et de temporisation
+
 EN 12094-2 (2003)
+
+|
+
+|
+
+Dispositifs manuels de déclenchement et d'arrêt d'urgence
 
 EN 12094-3 (2003)
 
+|
+
+Vannes de réservoir haute pression et leur déclencheurs
+
 EN 12094-4 (2004)
+
+|
+
+Vannes directionnelles haute et basse pression et leurs déclencheurs
 
 EN 12094-5 (2006)
 
+|
+
+Dispositifs non électriques de mise hors service
+
 EN 12094-6 (2006)
 
-EN 12094-7 (2000), y compris A1 (2005)
+|
+
+Diffuseurs pour systèmes à CO2
+
+EN 12094-7 (2000) y compris A1(2005)
+
+|
+
+Connecteurs
 
 EN 12094-8 (2006)
 
+|
+
+Manomètres et contacts à pression
+
 EN 12094-10 (2003)
+
+|
+
+Dispositifs de pesée mécaniques
 
 EN 12094-11 (2003)
 
+|
+
+Clapet anti-retour
+
 EN 12094-13 (2001), y compris AC (2002)
 
-EN 12094-16 (2003)
-
 |
+
+Dispositifs odorisants pour installations à CO2 basse pression
+
+EN 12094-16 (2003)
 
 |
 
@@ -1014,7 +1064,7 @@ A.2/3.28
 
 |
 
-Composants de dispositifs d'extinction d'incendie à mousse à foisonnement moyen diffuseurs à mousse fixes pour pétroliers
+Composants de dispositifs d'extinction d'incendie à mousse à foisonnement moyen, diffuseurs à mousse fixes pour pétroliers
 
 |
 
@@ -1078,8 +1128,6 @@ Règ. II-2/10
 
 Règ. II-2/10
 
-Rés. OMI A.800(19)
-
 |
 
 |
@@ -1088,21 +1136,15 @@ Rés. OMI A.800(19)
 
 A.2/3.32
 
-(nouvel article)
-
 |
 
 Dispositifs d'extinction à poudre chimique sèche
 
 |
 
-Règ. II-2/1
+Transféré à l'annexe A.1/3.62
 
 |
-
-Règ. II-2/1
-
-Recueil international de règles relatives à la construction et à l'équipement des navires transportant des gaz liquéfiés en vrac : chapitre 11
 
 |
 
@@ -1112,7 +1154,7 @@ Recueil international de règles relatives à la construction et à l'équipemen
 
 4. Equipements de navigation
 
-Notes concernant le point 4. - Equipements de navigation
+Notes concernant le point Equipements de navigation.
 
 Colonnes 3 et 4 : la référence au chapitre V de la convention SOLAS doit s'entendre comme une référence à SOLAS 1974 dans sa version modifiée par la résolution MSC 73, qui est entrée en vigueur le 1er juillet 2002.
 
@@ -1130,7 +1172,7 @@ qui requiert
 
 une "approbation
 
-de type
+de type"
 
 |
 
@@ -1148,7 +1190,9 @@ d'essai
 
 |
 
-MODULES D'ÉVALUATION
+MODULES
+
+d'évaluation
 
 de la conformité
 
@@ -1236,7 +1280,7 @@ A.2/4.4
 
 |
 
-Fanal à signaux de jour
+Fanal de signalisation diurne
 
 |
 
@@ -1370,27 +1414,31 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994)
 
-Rés. OMI MSC.74(69)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000)
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.115(73)
 
 Rés. OMI MSC.191(79)
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 EN 61108-1 (2003)
 
@@ -1402,7 +1450,7 @@ EN 62288 (2008)
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 CEI 61108-1 (2003)
 
@@ -1410,7 +1458,7 @@ CEI 61108-2 (1998)
 
 série CEI 61162
 
-CEI 62288 Ed.1.0 (2008)
+CEI 62288 Ed.1.0(2008)
 
 |
 
@@ -1424,7 +1472,7 @@ Equipement DGPS, DGLONASS
 
 |
 
-Transféré à l'annexe A.1/4.44, A.1/4.50 et A.1/4.51
+Transféré à l'annexe A.1)/4.44, A.1/4.50 et A.1/4.51
 
 |
 
@@ -1442,7 +1490,7 @@ Gyrocompas pour engins à grande vitesse
 
 |
 
-Transféré à l'annexe A.1/4.31
+Transféré à l'annexe A.1)/4.31
 
 |
 
@@ -1460,7 +1508,7 @@ Enregistreur des données du voyage (VDR)
 
 |
 
-Transféré à l'annexe A.1/4.29
+Transféré à l'annexe A.1)/4.29
 
 |
 
@@ -1474,7 +1522,7 @@ A.2/4.15
 
 |
 
-Système intégré de navigation
+Système intégré de navigation.
 
 |
 
@@ -1482,23 +1530,31 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 13
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 13
+(recueil HSC de 1994) 13
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
+
+Rés. OMI MSC.36(63)-(recueil HSC de 1994) 13
 
 Rés. OMI MSC.86(70)
+
+Rés. OMI MSC.97(73)-(recueil HSC de 2000) 13
 
 Rés. OMI MSC.191(79)
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série EN 61162
 
@@ -1508,13 +1564,13 @@ EN 62288 (2008)
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série CEI 61162
 
 CEI 61924 (2006)
 
-CEI 62288 Ed.1.0 (2008)
+CEI 62288 Ed.1.0(2008)
 
 |
 
@@ -1524,11 +1580,11 @@ A.2/4.16
 
 |
 
-Système de passerelle intégré
+Système d'équipement de passerelle
 
 |
 
-Article supprimé
+Intentionnellement blanc
 
 |
 
@@ -1542,35 +1598,15 @@ A.2/4.17
 
 |
 
-Systèmes de renforcement de cible radar
+Système de renforcement de cibles radar
 
 |
 
-Règ. V/18
-
-Règ/ X/3
-
-Rès. OMI MSC.36(63)-(Recueil HSC de 1994)
-
-Res. OMI MSC.97(73)-(Recueil HSC de 2000)
-
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Transféré à l'annexe A.1)/4.53
 
 |
 
-Rés. OMI A.694(17)
-
-Rés. OMI MSC.164(78)
-
-UIT-R M 1176 (10/95)
-
 |
-
-EN 60945 (2002)
-
-ou
-
-CEI 60945 (2002)
 
 |
 
@@ -1588,33 +1624,43 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994)
 
 Rés. OMI MSC.86(70)
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000)
+
+Rés. OMI MSC.191(79)
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série EN 61162
 
+EN 62288 (2008)
+
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série CEI 61162
+
+CEI 62288 Ed.1.0(2008)
 
 |
 
@@ -1630,19 +1676,23 @@ Compas magnétique pour engins à grande vitesse
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
 
 |
 
 Rés. OMI A.382(X)
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994)
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000)
 
 |
 
@@ -1650,15 +1700,15 @@ ISO 1069 (1973)
 
 ISO 25862 (2009)
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-Ou
+ou
 
 ISO 1069 (1973)
 
 ISO 25862 (2009)
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945,
 
 |
 
@@ -1668,33 +1718,35 @@ A.2/4.20
 
 |
 
-Système de contrôle de poursuite pour engins à grande vitesse
+Système de contrôle de poursuite pour
+
+engins à grande vitesse
 
 |
-
-Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
 
 |
 
-Règ. V/19
+Rés. OMI A.694 (17)
 
-Rés. OMI A.694(17)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
-
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000)
 
 Rés. OMI MSC.191(79)
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série EN 61162
 
@@ -1702,7 +1754,7 @@ EN 62288 (2008)
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série CEI 61162
 
@@ -1752,7 +1804,7 @@ A.2/4.23
 
 |
 
-Dispositif de contrôle de route à transmission (THD), de type magnétique
+Dispositif de contrôle de route à transmission (THD) de type magnétique
 
 |
 
@@ -1778,25 +1830,29 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994)
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000)
 
 Rés. OMI MSC.191(79)
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série EN 61162
 
@@ -1804,7 +1860,7 @@ EN 62288 (2008)
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série CEI 61162
 
@@ -1826,25 +1882,29 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994)
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000)
 
-- Rés. OMI MSC.191(79)
+Rés. OMI MSC.191(79)
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série EN 61162
 
@@ -1852,7 +1912,7 @@ EN 62288 (2008)
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série CEI 61162
 
@@ -1938,7 +1998,7 @@ A.2/4.30
 
 |
 
-Système de passerelle intégré
+Système d'équipement de passerelle
 
 |
 
@@ -1946,9 +2006,13 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 13
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 13
+(recueil HSC de 1994) 13
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000) 13
 
 |
 
@@ -1956,17 +2020,17 @@ Règ. V/19
 
 Rés. OMI A.694 (17)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 15
+Rés. OMI MSC.36(63)-(recueil HSC de 1994) 15
 
-Rés. OMI MSC.64(67)
-
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 15
+Rés. OMI MSC.97(73)-(recueil HSC de 2000) 15
 
 Rés. OMI MSC.191(79)
 
+OMI SN.1/circ. 288
+
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série EN 61162
 
@@ -1976,7 +2040,7 @@ EN 62288 (2008)
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série CEI 61162
 
@@ -1996,19 +2060,11 @@ Taximètre
 
 |
 
-Règ. V/18
+Transféré à l'annexe A.1/4.54
 
 |
 
-Règ. V/19
-
 |
-
-EN 60945 (2002)
-
-ou
-
-CEI 60945 (2002)
 
 |
 
@@ -2022,33 +2078,11 @@ Système d'alarme de quart à la passerelle de navigation (BNWAS)
 
 |
 
-|
-
-Rés. OMI A.694(17)
-
-Rés. OMI MSC.128(75)
-
-OMI MSC/Circ.982
-
-Rés. OMI CSMMSC.191(79)
-
-Division 212
+Transféré à l'annexe A.1/4.57
 
 |
 
-EN 60945 (2002)
-
-série EN 61162
-
-EN 62288 (2008)
-
-ou
-
-CEI 60945 (2002)
-
-série CEI 61162
-
-CEI 62288 Ed.1.0(2008)
+|
 
 |
 
@@ -2058,9 +2092,7 @@ A.2/4.33
 
 |
 
-Système de contrôle de poursuite
-
-(en fonction lorsque la vitesse du navire atteint ou dépasse 30 nœuds)
+Système de contrôle de poursuite (en fonction lorsque la vitesse du navire atteint ou dépasse 30 nœuds)
 
 |
 
@@ -2072,17 +2104,23 @@ Règ. V/19
 
 Rés. OMI A.694 (17)
 
+Rés. OMI MSC.191(79)
+
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série EN 61162
 
+EN 62288 (2008)
+
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série CEI 61162
+
+CEI 62288 Ed.1.0(2008)
 
 |
 
@@ -2102,7 +2140,7 @@ Règ. V/19
 
 Règ. V/19
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
 Rés. OMI A.813(19)
 
@@ -2110,19 +2148,21 @@ Rés. OMI MSC.202(81)
 
 Rés. OMI MSC.211(81)
 
-Rés. OMI MSC.263(84), OMI MSC.1/Circ 1307.
+Rés. OMI MSC.263(84)
+
+OMI MSC.1/circ 1307.
 
 Division 335
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série EN 61162
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série CEI 61162
 
@@ -2138,45 +2178,11 @@ Récepteur Galileo
 
 |
 
-Règ. V/18
-
-Règ. X/3
-
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 13
+Transféré à l'annexe A.1/4.56
 
 |
 
-Règ. V/19
-
-Rés. OMI A.694(17)
-
-Rés. OMI A.813(19)
-
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 13
-
-Rés. OMI MSC.233(82)
-
-Rés. OMI CSMMSC.191(79)
-
 |
-
-EN 60945 (2002)
-
-série EN 61162
-
-EN 62288 (2008)
-
-ou
-
-CEI 60945 (2002)
-
-série CEI 61162
-
-CEI 62288 Ed.1.0(2008)
 
 |
 
@@ -2190,33 +2196,11 @@ Equipement AIS-SART
 
 |
 
-Règ. III/4
-
-Règ. IV/14
+Transféré à l'annexe A.1/4.55
 
 |
 
-Règ. III/6
-
-Règ. IV/7
-
-Rés. OMI MSC.246(83)
-
-Rés. OMI MSC.247(83)
-
-Rés. OMI MSC.256(84)
-
 |
-
-EN 60945 (2002)
-
-série EN 61162
-
-ou
-
-CEI 60945 (2002)
-
-série CEI 61162
 
 |
 
@@ -2238,7 +2222,7 @@ qui requiert
 
 une "approbation
 
-de type
+de type"
 
 |
 
@@ -2256,7 +2240,9 @@ d'essai
 
 |
 
-MODULES D'ÉVALUATION
+MODULES
+
+d'évaluation
 
 de la conformité
 
@@ -2298,23 +2284,27 @@ Règ. IV/14
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
 
 |
 
-Règ.IV/8
+Règ. IV/8
 
 Rés. OMI A.662(16)
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
 Rés. OMI A.805(19)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994)
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000)
 
 UIT-R M.489-2 (10/95)
 
@@ -2322,11 +2312,11 @@ UIT-R M.693 (06/90)
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 |
 
@@ -2344,31 +2334,35 @@ Règ. IV/14
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
 
 |
 
 Règ. IV/13
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994)
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000)
 
-OMI COMSAR Circ.16
+OMI COMSAR/circ. 16
 
-OMI COMSAR Circ.32
+OMI COMSAR/circ. 32
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 |
 
@@ -2404,31 +2398,35 @@ Règ. IV/14
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
 
 |
 
 Règ. IV/6
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994)
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000)
 
-OMI MSC/Circ. 862
+OMI MSC/circ. 862
 
-OMI COMSAR Circ.32
+OMI COMSAR/circ. 32
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 |
 
@@ -2446,9 +2444,13 @@ Règ. IV/14
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+(recueil HSC de 1994)
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000)
 
 |
 
@@ -2456,21 +2458,21 @@ Règ. IV/6
 
 Rés. OMI A.694(17)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994)
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000)
 
-OMI MSC/Circ.862
+OMI MSC/circ. 862
 
-OMI COMSAR Circ.32
+OMI COMSAR/circ. 32
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 |
 
@@ -2480,11 +2482,11 @@ A.2/5.6
 
 |
 
-RLS bande L (Inmarsat)
+RLS bande L (INMARSAT)
 
 |
 
-Article supprimé
+Intentionnellement blanc
 
 |
 
@@ -2506,21 +2508,21 @@ Système d'alerte de sûreté du navire
 
 Règ. XI-2/6
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
 Rés. OMI MSC.147(77)
 
-OMI MSC/Circ.1072
+OMI MSC/circ. 1072
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série EN 61162
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série CEI 61162
 
@@ -2530,7 +2532,7 @@ série CEI 61162
 
 A.2/5.8
 
-Ex A.1/5.16
+Ex-A.1/5.16
 
 |
 
@@ -2542,31 +2544,41 @@ Règ. IV/14
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 14
+Rés. OMI MSC.36(63)-
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 14
+(recueil HSC de 1994) 14
+
+Rés. OMI MSC.97(73)-
+
+(recueil HSC de 2000) 14
 
 |
 
 Règ. IV/7
 
-Rés. OMI A.694(17)
+Rés. OMI A.694 (17)
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994) 14
+Rés. OMI MSC.36(63)-(recueil HSC de 1994) 14
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000) 14
+Rés. OMI MSC.97(73)-(recueil HSC de 2000) 14
 
 Rés. OMI MSC.80(70)
 
-OMI COMSAR Circ.32
+OMI COMSAR/circ. 32
 
 Convention de l'OACI, annexe 10, règles radio
 
 |
 
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+
 ETSI EN 301 688 V1.1.1 (2000-07)
 
-EN 60945 (2002)
+ou
+
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+
+ETSI EN 301 688 V1.1.1 (2000-07)
 
 |
 
@@ -2588,7 +2600,7 @@ qui requiert
 
 une "approbation
 
-de type
+de type"
 
 |
 
@@ -2674,19 +2686,19 @@ Rés. OMI A.694(17)
 
 |
 
-EN 60945 (2002)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-Sifflets COLREG 72, annexe III/1 (fonctionnement)
+Sifflets, COLREG 72, annexe III/1 (fonctionnement)
 
-Cloches ou gongs - COLREG 72, annexe III/2 (fonctionnement)
+Cloches ou gongs, COLREG 72 annexe III/2 (fonctionnement)
 
 ou
 
-CEI 60945 (2002)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-Sifflets COLREG 72, annexe III/1 (fonctionnement)
+Sifflets, COLREG 72, annexe III/1 (fonctionnement)
 
-Cloches ou gongs COLREG 72, annexe III/2 (fonctionnement)
+Cloches ou gongs, COLREG 72 annexe III/2 (fonctionnement)
 
 |
 
@@ -2708,7 +2720,7 @@ qui requiert
 
 une "approbation
 
-de type
+de type"
 
 |
 
@@ -2778,7 +2790,7 @@ Résolution 5 de la conférence SOLAS 1997
 
 |
 
-OMI MSC.1/Circ 1229
+OMI MSC.1/circ 1229
 
 |
 
@@ -2792,9 +2804,9 @@ Détecteurs (alarme) de niveau d'eau à bord des vraquiers
 
 |
 
-|
-
 Article supprimé
+
+|
 
 |
 
@@ -2818,7 +2830,7 @@ qui requiert
 
 une "approbation
 
-de type
+de type"
 
 |
 
@@ -2870,15 +2882,13 @@ de la conformité
 
 A.2/8.1
 
-Ex A.2/3.3
+|
+
+Démarreur par temps froid de groupes électrogènes(dispositifs de démarrage)
 
 |
 
-Démarreur par temps froid de groupes électrogènes (dispositifs de démarrage)
-
-|
-
-Règ. II-1/44
+Règ.II-1/44
 
 Règ. X/3
 
@@ -2886,9 +2896,9 @@ Règ. X/3
 
 Règ. II-1/44
 
-Rés. OMI MSC.36(63)-(Recueil HSC de 1994)
+Rés. OMI MSC.36(63)-(recueil HSC de 1994) 12
 
-Rés. OMI MSC.97(73)-(Recueil HSC de 2000)
+Rés. OMI MSC.97(73)-(recueil HSC de 2000) 12.
 
 |
 
