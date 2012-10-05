@@ -22,9 +22,9 @@ Ecole nationale supérieure de l'aéronautique et de l'espace.
 
 Ecole nationale supérieure d'ingénieurs de constructions aéronautiques.
 
-Ecole nationale supérieure des ingénieurs des études et techniques d'armement.
-
 Ecole nationale supérieure de techniques avancées.
+
+Ecole nationale supérieure de techniques avancées Bretagne.
 
 Ecole nationale des travaux maritimes.
 
