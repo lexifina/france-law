@@ -1,0 +1,9 @@
+# Réponse à la question n° 617
+
+- Question : [617](617.md) — Question n° 617 — rapport; propositions
+
+## Réponse
+
+*JO du 2012-10-09*
+
+L'avis de la garde des sceaux, ministre de la justice, a été sollicité concernant les propositions formulées par la commission « Gouvernance de la Justice » du club des juristes dans le rapport intitulé « Pour une administration au service de la justice », et notamment la proposition consistant à maintenir l'échelon d'administration judiciaire au niveau des cours d'appel ayant la qualité d'unités opérationnelles afin d'équilibrer l'architecture d'ensemble entre le centre et la périphérie, et à instituer en conséquence, au niveau du ressort de la cour d'appel, un véritable « conseil d'administration régional » ayant pour mission d'émettre un avis sur la préparation du budget opérationnel de programme, la définition du projet stratégique et des objectifs des juridictions du ressort, l'établissement du bilan et l'évaluation de l'activité juridictionnelle dans le ressort de la cour. La ministre de la justice tient à préciser que le club des juristes est un « think tank » indépendant réunissant une quarantaine de membres issus du monde juridique et des affaires. Les travaux cités, issus du rapport intitulé « Pour une administration au service de la justice », doivent donc être considérés comme une simple contribution au débat sur la justice. Ces contributions sont très nombreuses et sont à l'image des attentes exprimées après plusieurs années au cours desquelles le monde judiciaire a été malmené par le pouvoir en place. Ces propositions seront donc soumises, comme les autres, aux services de la garde des sceaux afin d'enrichir le débat sur les réformes de la justice. La ministre de la justice ne manquera pas, dans les prochains mois, de faire publiquement des propositions dans ce domaine.
