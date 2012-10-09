@@ -1,0 +1,9 @@
+# Réponse à la question n° 2403
+
+- Question : [2403](2403.md) — Question n° 2403 — contrôleurs du travail; carrière; réforme; perspectives
+
+## Réponse
+
+*JO du 2012-10-09*
+
+Les missions de contrôle administratif, qui ne concernent pas que le seul corps des contrôleurs du travail, sont une des préoccupations de la ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique qui compte inscrire une réflexion sur ces corps dans le cadre de l'agenda social arrêté en concertation avec les partenaires sociaux. Il convient d'abord de rappeler qu'un dispositif de reconnaissance de l'expérience professionnelle a été mis en place au bénéfice des membres du corps des contrôleurs du travail, qui permet aux agents de ce corps qui ne disposent pas d'un diplôme de niveau II d'accéder au corps de l'inspection du travail. Ce dispositif s'accompagne d'une modification du statut particulier de l'inspection du travail, introduite par le décret n° 2009-1382 du 9 novembre 2009, qui a permis de multiplier, à titre permanent, par 2,4 le nombre de promotions de contrôleurs du travail dans le corps de catégorie A. Le nombre de promotions ainsi obtenu est le plus élevé de ceux observés pour l'accès aux autres corps de catégorie A. Ces dispositions permettent de fluidifier la promotion des contrôleurs du travail qui exercent effectivement leurs fonctions dans les sections d'inspection du travail, affectations qui ne représentent pas une part majoritaire dans les affectations des membres du corps. Le dispositif actuel permet donc la reconnaissance de la qualification de contrôleurs du travail exerçant les fonctions faisant appel aux compétences semblables à celles développées par le corps de l'inspection du travail, dans l'attente d'une réflexion plus globale sur les corps de contrôle.
