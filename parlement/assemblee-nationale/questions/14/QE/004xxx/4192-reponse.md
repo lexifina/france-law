@@ -1,0 +1,9 @@
+# Réponse à la question n° 4192
+
+- Question : [4192](4192.md) — Question n° 4192 — relations bilatérales
+
+## Réponse
+
+*JO du 2012-10-09*
+
+La France a réagi dès le 3 septembre à la décision azerbaïdjanaise de gracier Ramil Safarov. Le porte-parole du ministère des Affaires étrangères a fait part publiquement de la préoccupation que suscitait cette décision et de notre inquiétude quant aux possibles conséquences de cette décision sur le processus de paix sur le Haut-Karabagh. Les trois co-présidents français, américain et russe du Groupe de Minsk, en charge dans le cadre de l'OSCE de la recherche d'un règlement négocié du conflit du Haut-Karabagh, ont également publié dès le 3 septembre une déclaration conjointe exprimant leur profonde préoccupation et leur regret face à la décision azerbaïdjanaise. Dans ce contexte de tensions accrues entre l'Azerbaïdjan et l'Arménie, il est important que le processus de négociation ne soit pas interrompu. L'invitation à Paris des ministres des Affaires étrangères arménien et azerbaïdjanais à Paris les 2 et 3 septembre par les coprésidents du Groupe de Minsk, les ambassadeurs Jacques Faure (France), Robert Bradtke (Etats-Unis) et Igor Popov (Russie), décidée avant cet évènement, s'est ainsi révélée utile pour permettre aux co-présidents, qui se sont entretenus séparément avec chacun des deux ministres, de faire part de leur préoccupation au ministre azerbaïdjanais et pour appeler les deux ministres à poursuivre leurs efforts en faveur d'une solution négociée au conflit du Haut-Karabagh. La France entend poursuivre ses efforts pour contribuer à une solution pacifique du conflit du Haut-Karabagh et assumer toutes ses responsabilités dans le cadre de la médiation du Groupe de Minsk. A ce titre, elle aura des contacts au plus haut niveau dans les jours et les semaines qui viennent avec les deux pays.
