@@ -1,0 +1,9 @@
+# Réponse à la question n° 3049
+
+- Question : [3049](3049.md) — Question n° 3049 — circulation urbaine; dispositifs sonores; mise en place
+
+## Réponse
+
+*JO du 2012-10-09*
+
+Le Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques (CERTU) a mené un travail de recensement des solutions envisageables pour différencier, dans les zones de rencontre, les espaces continus, dédiés aux piétons, des espaces de circulation des véhicules motorisés et des cycles. Le rapport intitulé « zone de rencontre : quels dispositifs repérables et détectables par les personnes aveugles et malvoyantes ? » est désormais disponible sur le site internet du CERTU. Afin de poursuivre la réflexion menée dans ce rapport, le CERTU a lancé, en partenariat avec les collectivités volontaires et les associations locales d'usagers concernés, des expérimentations de solutions techniques pour différencier (de manière repérable et détectable) les espaces affectés aux piétons des espaces de circulation des véhicules motorisés ou des cycles dans les lieux aménagés tout à niveau. En outre, afin de remédier aux difficultés qu'ont les personnes aveugles et malvoyantes à identifier les limites des aires piétonnes et des zones de rencontre, il mène des réflexions et suit des expérimentations, comme celle de la zone de rencontre de Namur en Belgique, afin d'identifier les méthodes et dispositifs les plus pertinents. Si au terme des travaux scientifiques menés, certains dispositifs sonores devaient être recommandés à l'avenir, le CERTU sera néanmoins vigilant à ce que ces messages ne puissent être confondus avec d'autres messages sonorisés déjà existants et à éviter la multiplication des signaux et des messages. En effet, les messages parlés peuvent être mal compris dans l'environnement bruyant lié à la circulation automobile, notamment si les fréquences du bruit routier englobent celles de la voix humaine.
