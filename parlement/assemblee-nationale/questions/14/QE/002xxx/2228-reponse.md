@@ -1,0 +1,9 @@
+# Réponse à la question n° 2228
+
+- Question : [2228](2228.md) — Question n° 2228 — situation politique
+
+## Réponse
+
+*JO du 2012-10-09*
+
+La France prône une solution africaine à la crise malienne et salue les efforts de la CEDEAO et de l'Union africaine en ce sens. La CEDEAO avait décidé de confier au Burkina Faso le soin de mener une médiation, initiative que la France a soutenue. C'est également la CEDEAO qui envisage d'intervenir au Mali, en appui aux forces maliennes et à la demande de celles-ci. La France pourra apporter un appui logistique, si les autorités maliennes en font la demande, et si le Conseil de sécurité l'autorise. Le Président Traoré a adressé une requête le 4 septembre au Président Ouattara, Président en exercice de la CEDEAO. A ce stade, le Conseil de Sécurité n'a pas statué sur une telle intervention. La résolution 2056 pose le cadre politique, et prépare la voie à une intervention africaine. Par ailleurs, cette résolution appelle à la mise en oeuvre de sanction contre les entités et les personnes liées à Al Qaïda au Maghreb Islamique. Le gouvernement est mobilisé dans les instances multilatérales pour accompagner nos partenaires africains dans la recherche d'une solution à la crise malienne. Ce message, délivré à l'ensemble de nos partenaires africains, est fondé sur la nécessité d'une feuille de route claire pour le gouvernement malien, une lutte effective contre tous les groupes terroristes et une mobilisation de la CEDEAO et de l'Union Africaine en vue de proposer une intervention. Le 26 septembre prochain, une conférence de haut niveau consacrée au Sahel, présidée par le Secrétaire général des Nations Unies destinée à accroître la mobilisation internationale, se tiendra en marge de l'Assemblée générale des Nations Unies. Le Président de la République française, et le ministre des Affaires étrangères y participeront.
