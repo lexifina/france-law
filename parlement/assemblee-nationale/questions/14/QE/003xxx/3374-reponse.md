@@ -1,0 +1,9 @@
+# Réponse à la question n° 3374
+
+- Question : [3374](3374.md) — Question n° 3374 — médaille commémorative; perspectives
+
+## Réponse
+
+*JO du 2012-10-09*
+
+Les médailles commémoratives ont vocation à perpétuer le souvenir de conflits armés au cours desquels les troupes françaises ont été engagées. Elles sont créées pendant les hostilités ou juste après leur cessation. Elles sont toujours subordonnées à l'existence d'opérations de guerre ou de maintien de l'ordre. La situation des troupes d'occupation qui ont servi en Allemagne après la Seconde Guerre mondiale n'est donc pas similaire. Accéder à cette requête remettrait en cause ces principes fondamentaux qui ont toujours été respectés par les plus hautes autorités civiles et militaires. Dans ces conditions, il n'est pas envisagé de créer une décoration spécifique pour les militaires français qui ont été affectés en Allemagne, de la fin de la Seconde Guerre mondiale jusqu'à la fin de la « guerre froide ». Par ailleurs, la Grande chancellerie de la Légion d'honneur a souvent fait connaître sa position selon laquelle elle n'était pas favorable à la création de nouvelles décorations, estimant que le dispositif actuel offrait un éventail suffisamment large de distinctions pour permettre de récompenser, dans leur diversité, l'ensemble des activités et des mérites. Au-delà de ces éléments, le ministre de la défense se doit de rappeler que la médaille de la défense nationale avec agrafe « forces françaises stationnées en Allemagne », créée pour les personnels qui ont servi dans les FFA à partir du 1er septembre 1981, peut d'ores et déjà être attribuée. Celle-ci ne peut, toutefois, être octroyée rétroactivement, le décret n° 82-358 du 21 avril 1982 portant création de la médaille de la défense nationale, fixant la date à partir de laquelle cette médaille peut être décernée au 1er septembre 1981.
