@@ -1,0 +1,9 @@
+# Réponse à la question n° 1290
+
+- Question : [1290](1290.md) — Question n° 1290 — transporteur et commissionnaire; réglementation
+
+## Réponse
+
+*JO du 2012-10-09*
+
+L'ancien article 101 du code de commerce était ainsi rédigé : « la lettre de voiture forme un contrat entre l'expéditeur et le voiturier, ou entre l'expéditeur, le commissionnaire et le voiturier » ; la loi n° 98-69 du 6 février 1988 l'a modifié, et ce texte, devenu l'article L. 132-8 du code de commerce, assure à présent la protection du transporteur de la défaillance de celui qui, en commandant le transport, s'est obligé à payer le fret, en permettant au voiturier d'agir non seulement contre l'expéditeur, comme il en avait déjà le droit, mais également contre le destinataire, qualifié légalement de partie au contrat de transport. S'agissant de l'expéditeur, il apparaît, certes, que la mise en jeu de son obligation peut lui faire supporter une charge qui n'aurait pas dû peser sur lui, notamment s'il a déjà payé un transporteur qu'il a directement requis, lequel a fait appel à une autre entreprise de transport et si cette dernière n'a pu obtenir paiement de son donneur d'ordres. Un risque identique pèse également sur le destinataire, bien qu'il n'ait pas choisi le transporteur ni organisé l'opération. Selon la formule retenue par la Chambre commerciale de la Cour de cassation, dans un arrêt du 11 avril 2012, il s'agit, cependant, d'une mesure qui tend à assurer la conciliation, par le législateur, des droits patrimoniaux des parties au contrat et à améliorer les conditions d'exercice de la profession de transporteur routier. Toutefois, la charge de la preuve de la qualité d'expéditeur incombant au transporteur, ceci limite les recours notamment dans le cas de marchandise vendue « départ usine ». Eu égard à ces solutions équilibrées, une modification du texte en faveur de l'expéditeur ne paraît pas envisageable.
