@@ -64,7 +64,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-59
+0
 
 |
 
@@ -108,15 +108,15 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-328
+218
 
 |
 
-15 090
+15 080
 
 |
 
-386
+336
 
 |
 
@@ -192,11 +192,11 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-481
+260
 
 |
 
-2 499
+2 319
 
 |
 
@@ -252,15 +252,15 @@ Total
 
 |
 
-328
+218
 
 |
 
-15 630
+15 340
 
 |
 
-3 296
+3 066
 
 |
 
@@ -574,7 +574,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-21
+1
 
 |
 
@@ -598,7 +598,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-0
+1
 
 |
 
@@ -610,7 +610,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-458
+496
 
 |
 
@@ -670,7 +670,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-1 331
+1 367,9
 
 |
 
@@ -718,7 +718,7 @@ Total
 
 |
 
-1 810
+1 865,9
 
 |
 
@@ -924,7 +924,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-137
+141
 
 |
 
@@ -964,7 +964,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-126
+129
 
 |
 
@@ -984,7 +984,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-93
+95
 
 |
 
@@ -1004,7 +1004,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-72
+74
 
 |
 
@@ -1044,7 +1044,7 @@ Navires adhérant à l'organisation de producteurs Marins pêcheurs de Basse-Nor
 
 |
 
-72
+74
 
 |
 
@@ -1084,7 +1084,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-1 635
+1 678
 
 |
 
@@ -1104,7 +1104,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-29
+30
 
 |
 
@@ -1144,7 +1144,7 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-19
+20
 
 |
 
@@ -1164,7 +1164,7 @@ Total
 
 |
 
-2 217
+2 275
 
 |
 
@@ -1220,7 +1220,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-31
+41
 
 |
 
@@ -1236,11 +1236,11 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-606
+211
 
 |
 
-99
+726
 
 |
 
@@ -1248,11 +1248,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-450
+656
 
 |
 
-1 840
+2 387
 
 |
 
@@ -1268,7 +1268,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-138
+183
 
 |
 
@@ -1280,15 +1280,15 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-876
+1 276
 
 |
 
-6 000
+11 261
 
 |
 
-0
+15
 
 |
 
@@ -1300,11 +1300,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-85
+73
 
 |
 
-14
+70
 
 |
 
@@ -1316,7 +1316,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-35
+46
 
 |
 
@@ -1332,7 +1332,7 @@ Navires adhérant à l'organisation de producteurs Marins pêcheurs de Basse Nor
 
 |
 
-578
+1 460
 
 |
 
@@ -1364,15 +1364,15 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-925
+2 078
 
 |
 
-32
+270
 
 |
 
-Navires adhérant à l'organisation de producteurs VENDEE
+Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
@@ -1380,11 +1380,11 @@ Navires adhérant à l'organisation de producteurs VENDEE
 
 |
 
-339
+347
 
 |
 
-17
+128
 
 |
 
@@ -1404,7 +1404,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Autres navires n'adhérant pas à une organisation de producteurs et immatriculés dans un quartier maritime du Nord - Pas-de-Calais
+Autres navires n'adhérant pas à une organisation de producteurs et immatriculés dans un quartier maritime du Nord-Pas-de-Calais
 
 |
 
@@ -1412,7 +1412,7 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-23
+31
 
 |
 
@@ -1428,7 +1428,7 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-32
+43
 
 |
 
@@ -1444,7 +1444,7 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-48
+64
 
 |
 
@@ -1460,7 +1460,7 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-22
+30
 
 |
 
@@ -1504,15 +1504,15 @@ Total
 
 |
 
-1 326
+1 932
 
 |
 
-10 704
+18 257
 
 |
 
-162
+1 209
 
 |
 
@@ -1602,7 +1602,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-383
+198
 
 |
 
@@ -1626,11 +1626,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-3 007
+3 087
 
 |
 
-2
+0
 
 |
 
@@ -1674,11 +1674,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1 576
+1 856
 
 |
 
-33
+13
 
 |
 
@@ -1702,7 +1702,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-141
+91
 
 |
 
@@ -1726,7 +1726,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-253
+213
 
 |
 
@@ -1746,7 +1746,7 @@ Navires adhérant à l'organisation de producteurs Marins pêcheurs de Basse-Nor
 
 |
 
-733
+838
 
 |
 
@@ -1794,11 +1794,11 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-4 635
+4 355
 
 |
 
-861
+883
 
 |
 
@@ -1822,7 +1822,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-546
+636
 
 |
 
@@ -1956,7 +1956,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-9 977
+10 456
 
 |
 
@@ -2028,7 +2028,7 @@ Total
 
 |
 
-9 977
+10 456
 
 |
 
@@ -2090,7 +2090,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-267
+162
 
 |
 
@@ -2110,7 +2110,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-2 178
+2 283
 
 |
 
@@ -2122,7 +2122,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-0
+5
 
 |
 
@@ -2130,7 +2130,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-10
+5
 
 |
 
@@ -2146,7 +2146,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-268
+267
 
 |
 
@@ -2162,11 +2162,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-276
+327
 
 |
 
-2 973
+2 915
 
 |
 
@@ -2182,7 +2182,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-13
+8
 
 |
 
@@ -2190,7 +2190,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1 514
+1 619
 
 |
 
@@ -2210,7 +2210,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-629
+529
 
 |
 
@@ -2266,15 +2266,15 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-5 966
+5 929
 
 |
 
-6 638
+6 938
 
 |
 
-0
+48
 
 |
 
@@ -2290,7 +2290,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-1 142
+842
 
 |
 
@@ -2334,7 +2334,7 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-64
+16
 
 |
 
@@ -2342,11 +2342,11 @@ Total
 
 |
 
-364
+415
 
 |
 
-13 562
+13 466
 
 |
 
@@ -2454,7 +2454,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-426
+456
 
 |
 
@@ -2486,7 +2486,7 @@ Total
 
 |
 
-521
+551
 
 |
 
@@ -2570,7 +2570,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-596
+586
 
 |
 
@@ -2590,7 +2590,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-67
+77
 
 |
 
@@ -2658,7 +2658,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-16
+6
 
 |
 
@@ -2714,11 +2714,11 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-61
+61,5
 
 |
 
-117
+127
 
 |
 
@@ -2794,7 +2794,7 @@ Total
 
 |
 
-85
+85,5
 
 |
 
@@ -2872,7 +2872,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-82
+96
 
 |
 
@@ -2880,7 +2880,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-29
+30
 
 |
 
@@ -2896,7 +2896,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-56
+63
 
 |
 
@@ -2912,7 +2912,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-424
+438
 
 |
 
@@ -2932,15 +2932,15 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-102
+116
 
 |
 
-230
+240
 
 |
 
-115
+65
 
 |
 
@@ -2952,7 +2952,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-83
+123
 
 |
 
@@ -2960,7 +2960,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-63
+65
 
 |
 
@@ -2972,7 +2972,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-22
+7
 
 |
 
@@ -2980,7 +2980,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-128
+132
 
 |
 
@@ -3020,7 +3020,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-36
+37
 
 |
 
@@ -3032,15 +3032,15 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-3 047
+3 097
 
 |
 
-28
+11
 
 |
 
-1 345
+1 442
 
 |
 
@@ -3060,7 +3060,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-75
+78
 
 |
 
@@ -3088,11 +3088,11 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-0
+1
 
 |
 
-204
+137
 
 |
 
@@ -3100,7 +3100,7 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-54
+56
 
 |
 
@@ -3112,7 +3112,7 @@ Total
 
 |
 
-4 369
+4 419
 
 |
 
@@ -3120,31 +3120,31 @@ Total
 
 |
 
-1 863
+1 923
 
 |
 
-(1) Les captures de raie fleurie (Leucoraja neavus) (RJN/2AC4-C), de raie bouclée (Raja clavata) (RJC/2AC4-C), de raie lisse (Raja brachyura) (RJH/2AC4-C), de raie douce (Raja montagui) (RJM/2AC4-C), et de raie radiée (Amblyraja radiata) (RJR/2AC4-C) sont déclarées séparément.
+(1) Les captures de raie fleurie (Leucoraja neavus) (RJN/ 2AC4-C), de raie bouclée (Raja clavata) (RJC/ 2AC4-C), de raie lisse (Raja brachyura) (RJH/ 2AC4-C), de raie douce (Raja montagui) (RJM/ 2AC4-C) et de raie radiée (Amblyraja radiata) (RJR/ 2AC4-C) sont déclarées séparément.
 
 Quota de prises accessoires. Ces espèces ne peuvent représenter plus de 25 % en poids vif des captures détenues à bord par sortie de pêche. Cette condition s'applique uniquement aux navires d'une longueur hors tout supérieure à 15 mètres.
 
 Ne s'applique pas au pocheteau gris (Dipturus batis). Lorsque ces espèces sont accidentellement capturées, elles ne doivent pas être blessées. Les spécimens capturés sont rapidement remis à la mer. Les pêcheurs sont encouragés à mettre au point et à utiliser des techniques et des équipements facilitant la remise à la mer rapide et sûre de ces espèces.
 
-(2) Les captures de raie fleurie (Leucoraja naevus) (RJN/67AKXD), de raie bouclée (Raja clavata) (RJC/67AKXD), de raie lisse (Raja brachyura) (RJH/67AKXD), de raie douce (Raja montagui) (RJM/67AKXD), de raie mêlée (Raja microocellata) (RJE/67AKXD), de raie circulaire (Leucoraja circularis) (RJI/67AKXD) et de raie chardon (Leucoraja fullonica) (RJF/67AKXD) sont déclarées séparément.
+(2) Les captures de raie fleurie (Leucoraja naevus) (RJN/ 67AKXD), de raie bouclée (Raja clavata) (RJC/ 67AKXD), de raie lisse (Raja brachyura) (RJH/ 67AKXD), de raie douce (Raja montagui) (RJM/ 67AKXD), de raie mêlée (Raja microocellata) (RJE/ 67AKXD), de raie circulaire (Leucoraja circularis) (RJI/ 67AKXD) et de raie chardon (Leucoraja fullonica) (RJF/ 67AKXD) sont déclarées séparément.
 
 Ne s'applique pas à la raie brunette (Raja undulata), au pocheteau gris (Dipturus batis), au pocheteau de Norvège (Raja [Dipturus] nidarosiensis) et à la raie blanche (Rostroraja alba). Lorsque ces espèces sont accidentellement capturées, elles ne doivent pas être blessées. Les spécimens capturés sont rapidement remis à la mer. Les pêcheurs sont encouragés à mettre au point et à utiliser des techniques et des équipements facilitant la remise à la mer rapide et sûre de ces espèces.
 
-Condition particulière : dont 5 % au plus, peuvent être pêchés dans les eaux de l'UE de la zone VII d (SRX/*O7D).
+Condition particulière : dont 5 % au plus peuvent être pêchés dans les eaux de l'UE de la zone VII d (SRX/ *O7D).
 
-(3) Les captures de raie fleurie (Leucoraja neavus) (RJN/07D), de raie bouclée (Raja clavata) (RJC/07D), de raie lisse (Raja brachyura) (RJH/07D), de raie douce (Raja montagui) (RJM/07D) et de raie radiée (Amblyraja radiata) (RJR/07D) sont déclarées séparément.
+(3) Les captures de raie fleurie (Leucoraja neavus) (RJN/ 07D), de raie bouclée (Raja clavata) (RJC/ 07D), de raie lisse (Raja brachyura) (RJH/ 07D), de raie douce (Raja montagui) (RJM/ 07D) et de raie radiée (Amblyraja radiata) (RJR/ 07D) sont déclarées séparément.
 
-Ne s'applique pas au pocheteau gris (Dipturus batis) ni à la raie brunette (Raja undulata). Lorsque ces espèces sont accidentellement capturées, elles ne doivent pas être blessées. Les spécimens capturés sont rapidement remis à la mer. Les pêcheurs sont encourages à mettre au point et à utiliser des techniques et des équipements facilitant la remise à la mer rapide et sûre de ces espèces.
+Ne s'applique pas au pocheteau gris (Dipturus batis) ni à la raie brunette (Raja undulata). Lorsque ces espèces sont accidentellement capturées, elles ne doivent pas être blessées. Les spécimens capturés sont rapidement remis à la mer. Les pêcheurs sont encouragés à mettre au point et à utiliser des techniques et des équipements facilitant la remise à la mer rapide et sûre de ces espèces.
 
-Condition particulière : dont 5 % au plus, peuvent être pêchés dans les eaux de l'UE des zones VI a, VI b, VII a-c et VII e-k (SRX/*67AKD).
+Condition particulière : dont 5 % au plus peuvent être pêchés dans les eaux de l'UE des zones VI a, VI b, VII a-c et VII e-k (SRX/ *67AKD).
 
 (4) Les captures de raie fleurie (Leucoraja neavus) (RJN/89-C) et de raie bouclée (Raja clavata) (RJC/89-C) sont déclarées séparément.
 
-Ne s'applique pas à la raie brunette (Raja undulata), au pocheteau gris (Dipturus batis) et à la raie blanche (Rostroraja alba). Lorsque ces espèces sont accidentellement capturées, elles ne doivent pas être blessées. Les spécimens capturés sont rapidement remis à la mer. Les pêcheurs sont encourages à mettre au point et à utiliser des techniques et des équipements facilitant la remise à la mer rapide et sûre de ces espèces.
+Ne s'applique pas à la raie brunette (Raja undulata), au pocheteau gris (Dipturus batis) et à la raie blanche (Rostroraja alba). Lorsque ces espèces sont accidentellement capturées, elles ne doivent pas être blessées. Les spécimens capturés sont rapidement remis à la mer. Les pêcheurs sont encouragés à mettre au point et à utiliser des techniques et des équipements facilitant la remise à la mer rapide et sûre de ces espèces.
 
 |
 
@@ -3462,7 +3462,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-18
+1
 
 |
 
@@ -3498,7 +3498,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-470
+460
 
 |
 
@@ -3558,7 +3558,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-1 557
+1 610,9
 
 |
 
@@ -3606,7 +3606,7 @@ Total
 
 |
 
-2 045
+2 071,9
 
 |
 
@@ -3812,7 +3812,7 @@ Navires adhérant à l'organisation de producteurs Coopérative de mareyage des 
 
 |
 
-520
+533
 
 |
 
@@ -3840,7 +3840,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-204
+216
 
 |
 
@@ -3848,15 +3848,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-202
+206
 
 |
 
-351
-
-|
-
-1
+352
 
 |
 
@@ -3868,7 +3864,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-16
+0
+
+|
+
+0
 
 |
 
@@ -3876,7 +3876,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-2
+0
 
 |
 
@@ -3884,11 +3884,11 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-48
+49
 
 |
 
-2
+5
 
 |
 
@@ -3904,7 +3904,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-476
+483
 
 |
 
@@ -3912,7 +3912,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-5
+0
 
 |
 
@@ -3952,7 +3952,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-405
+416
 
 |
 
@@ -3980,7 +3980,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-358
+408
 
 |
 
@@ -4008,7 +4008,7 @@ Navires adhérant à l'organisation de producteurs Marins pêcheurs de Basse-Nor
 
 |
 
-28
+4
 
 |
 
@@ -4016,10 +4016,6 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-2
-
-|
-
 0
 
 |
@@ -4036,7 +4032,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-513
+0
+
+|
+
+515
 
 |
 
@@ -4044,27 +4044,27 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-70
-
-|
-
-116
-
-|
-
-86
-
-|
-
-48
-
-|
-
 63
 
 |
 
-1 092
+115
+
+|
+
+91
+
+|
+
+55
+
+|
+
+68
+
+|
+
+1 044
 
 |
 
@@ -4136,7 +4136,7 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-20
+16,5
 
 |
 
@@ -4164,15 +4164,15 @@ Total
 
 |
 
-283
+279,5
 
 |
 
-70
+80
 
 |
 
-76
+81
 
 |
 

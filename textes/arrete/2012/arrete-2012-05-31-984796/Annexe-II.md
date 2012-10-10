@@ -276,6 +276,8 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+|
+
 VI, eaux UE
 
 et eaux internationales
@@ -332,7 +334,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-1 248
+1 268
 
 |
 
@@ -372,7 +374,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-893
+891
 
 |
 
@@ -392,7 +394,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-604
+602
 
 |
 
@@ -400,7 +402,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-651
+631
 
 |
 
@@ -412,7 +414,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-1 772
+1 768
 
 |
 
@@ -452,7 +454,7 @@ Navires adhérant à l'organisation de producteurs Marins pêcheurs de Basse-Nor
 
 |
 
-331
+330
 
 |
 
@@ -492,7 +494,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-12 198
+12 068
 
 |
 
@@ -500,7 +502,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-4 947
+4 747
 
 |
 
@@ -512,7 +514,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-221
+200
 
 |
 
@@ -520,7 +522,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-252
+352
 
 |
 
@@ -540,7 +542,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-248
+368
 
 |
 
@@ -572,7 +574,7 @@ Total
 
 |
 
-17 561
+17 421
 
 |
 
@@ -595,6 +597,8 @@ Brosme brosme
 ZONES DE RÉFÉRENCE
 
 du Conseil international pour l'exploration de la mer (CIEM)
+
+|
 
 |
 
@@ -648,7 +652,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-7
+1
 
 |
 
@@ -776,7 +780,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-148
+158
 
 |
 
@@ -840,7 +844,7 @@ Total
 
 |
 
-187
+191
 
 |
 
@@ -858,7 +862,9 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
-IV, eaux UE des zones II a,
+|
+
+IV, eaux UE de la zone II a ;
 
 partie de la zone III a
 
@@ -872,9 +878,9 @@ ni dans le Kattegat
 
 VI b ; eaux UE et eaux
 
-internationales de la zone V b,
+internationales de la zone V b ;
 
-à l'ouest de 12° 00' O
+à l'ouest de 12° 00'O
 
 et des zones XII et XIV
 
@@ -884,9 +890,9 @@ VI a ; eaux UE
 
 et eaux internationales
 
-de la zone V b,
+de la zone V b ;
 
-à l'est de 12° 00' O (1)
+à l'est de 12° 00'O (1)
 
 |
 
@@ -1132,6 +1138,8 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+|
+
 VII a
 
 |
@@ -1152,15 +1160,13 @@ COPACE 34.1.1
 
 |
 
-Eaux norvégiennes
-
-des zones I et II
+I et II b
 
 |
 
-Eaus internationales
+Eaux norvégiennes
 
-des zones I et II b
+des zones I et II
 
 |
 
@@ -1256,7 +1262,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-0
+4
 
 |
 
@@ -1280,7 +1286,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-2 514
+2 701
 
 |
 
@@ -1296,7 +1302,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-201
+181
 
 |
 
@@ -1304,7 +1310,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-0
+7
 
 |
 
@@ -1352,7 +1358,7 @@ Navires adhérant à l'organisation de producteurs Marins pêcheurs de Basse-Nor
 
 |
 
-0
+1
 
 |
 
@@ -1388,19 +1394,19 @@ Navires adhérant à l'organisation de producteurs Les pêcheurs de Bretagne
 
 |
 
-155
+120
 
 |
 
-5 587
-
-|
-
-0
+5 577
 
 |
 
 0
+
+|
+
+45
 
 |
 
@@ -1424,7 +1430,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-0
+1
 
 |
 
@@ -1462,7 +1468,7 @@ Navires n'adhérant pas à une organisation de producteurs :
 
 |
 
-Autres navires n'adhérant pas à une organisation de producteurs et immatriculés dans un quartier maritime de Nord - Pas-de-Calais
+Autres navires n'adhérant pas à une organisation de producteurs et immatriculés dans un quartier maritime de Nord-Pas-de-Calais
 
 |
 
@@ -1470,11 +1476,11 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-9
+22
 
 |
 
-7
+14
 
 |
 
@@ -1494,11 +1500,11 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-5
+12
 
 |
 
-1
+2
 
 |
 
@@ -1518,11 +1524,11 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-10
+23
 
 |
 
-12
+22
 
 |
 
@@ -1542,11 +1548,11 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-2
+4
 
 |
 
-3
+5
 
 |
 
@@ -1570,7 +1576,7 @@ Total
 
 |
 
-7 304
+7 294
 
 |
 
@@ -1578,7 +1584,7 @@ Total
 
 |
 
-2 514
+2 759
 
 |
 
@@ -1595,6 +1601,8 @@ ZONES DE RÉFÉRENCE
 du Conseil international
 
 pour l'exploration de la mer (CIEM)
+
+|
 
 |
 
@@ -1690,11 +1698,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-227
+286
 
 |
 
-31
+0
 
 |
 
@@ -1770,11 +1778,11 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-3 824
+3 765
 
 |
 
-919
+950
 
 |
 
@@ -1856,6 +1864,8 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+|
+
 Eaux UE des zones IV b,
 
 IV c et VII d
@@ -1864,7 +1874,7 @@ IV c et VII d
 
 Eaux de l'UE des zones II a, IV a ;
 
-VI, VII a - c VII e - k, VIII a,
+VI, VII a-c VII e-k, VIII a,
 
 VIII b, VIII d et VIII e ;
 
@@ -1898,7 +1908,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-393
+395
 
 |
 
@@ -1934,7 +1944,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-9 456
+7 362
 
 |
 
@@ -1946,7 +1956,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-64
+65
 
 |
 
@@ -1994,7 +2004,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-2 384
+2 398
 
 |
 
@@ -2006,7 +2016,7 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-1 122
+1 129
 
 |
 
@@ -2042,7 +2052,7 @@ Total
 
 |
 
-13 623
+11 553
 
 |
 
@@ -2192,6 +2202,8 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+|
+
 Eaux norvégiennes
 
 des zones I et II
@@ -2264,7 +2276,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-37
+40
 
 |
 
@@ -2332,11 +2344,11 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-514
+414
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
 
 |
 
@@ -2372,7 +2384,7 @@ Navires adhérant à l'organisation de producteurs Marins pêcheurs de Basse-Nor
 
 |
 
-275
+375
 
 |
 
@@ -2404,7 +2416,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-37
+34
 
 |
 
@@ -2412,7 +2424,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-7 805
+7 658
 
 |
 
@@ -2472,7 +2484,7 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-3
+20
 
 |
 
@@ -2492,7 +2504,7 @@ Total
 
 |
 
-10 728
+10 598
 
 |
 
@@ -2554,7 +2566,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-84
+88
 
 |
 
@@ -2594,7 +2606,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-7
+27
 
 |
 
@@ -2626,7 +2638,7 @@ Total
 
 |
 
-91
+115
 
 |
 
@@ -2644,15 +2656,17 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+|
+
 Océan Atlantique
 
-au nord de 5° Nord
+au nord de 5° nord
 
 |
 
 Océan Atlantique
 
-au sud de 5° Nord
+au sud de 5° nord
 
 |
 
@@ -2696,7 +2710,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-40
+20
 
 |
 
@@ -2732,7 +2746,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-57
+7
 
 |
 
@@ -2756,7 +2770,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-283
+273
 
 |
 
@@ -2768,7 +2782,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-2 233
+2 663
 
 |
 
@@ -2792,7 +2806,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-1 070
+720
 
 |
 
@@ -2984,6 +2998,8 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+|
+
 Eaux UE et eaux internationales
 
 des zones V b, VI et VII
@@ -3068,7 +3084,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
 
 |
 
@@ -3152,6 +3168,18 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
+Total
+
+|
+
+2 090
+
+|
+
+149
+
+|
+
 HARENG
 
 Clupea harengus
@@ -3166,11 +3194,13 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+|
+
 Eaux UE, norvégiennes et internationales des zones I et II
 
 |
 
-Eaux UE et eaux norvégiennes de la zone CIEM IV au nord de 53° 30' N
+Eaux UE et eaux norvégiennes de la zone CIEM IV au nord de 53° 30'N
 
 |
 
@@ -3254,11 +3284,11 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-0
+4
 
 |
 
-1 925
+1 958
 
 |
 
@@ -3286,7 +3316,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-37
+0
 
 |
 
@@ -3306,19 +3336,19 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-802
+0
 
 |
 
-21 286
+17 588
 
 |
 
-9 281
+9 285
 
 |
 
-470
+484
 
 |
 
@@ -3558,11 +3588,11 @@ Total
 
 |
 
-802
+0
 
 |
 
-21 286
+17 592
 
 |
 
@@ -3570,7 +3600,7 @@ Total
 
 |
 
-470
+484
 
 |
 
@@ -3593,6 +3623,8 @@ Hoplostethus atlanticus
 ZONES DE RÉFÉRENCE
 
 du Conseil international pour l'exploration de la mer (CIEM)
+
+|
 
 |
 
@@ -3860,11 +3892,13 @@ du Conseil international pour l'exploration de la mer (CIEM)
 
 |
 
+|
+
 VII
 
 |
 
-dont au maximum les quotas
+Dont au maximum les quotas
 
 ci-dessous peuvent être pêchés
 
@@ -3952,7 +3986,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-6
+0
 
 |
 
@@ -4024,15 +4058,15 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-3 916
+3 766
 
 |
 
-212
+62
 
 |
 
-3 375
+3 381
 
 |
 
@@ -4088,11 +4122,11 @@ Total
 
 |
 
-4 391
+4 241
 
 |
 
-238
+88
 
 |
 
@@ -4130,7 +4164,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-156
+147
 
 |
 
@@ -4146,7 +4180,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-1 254
+1 245
 
 |
 
@@ -4154,7 +4188,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-429
+420
 
 |
 
@@ -4214,11 +4248,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Autres navires n'adhérant pas à une organisation de producteurs et immatriculés dans un quartier maritime de Nord - Pas-de-Calais
+Autres navires n'adhérant pas à une organisation de producteurs et immatriculés dans un quartier maritime de Nord-Pas-de-Calais
 
 |
 
-1
+2
 
 |
 
@@ -4226,7 +4260,7 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-7
+14
 
 |
 
@@ -4234,7 +4268,7 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-5
+11
 
 |
 
@@ -4242,7 +4276,7 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-8
+19
 
 |
 
@@ -4250,7 +4284,7 @@ Autres navires n'adhérant pas à une organisation de producteurs et immatricul�
 
 |
 
-2
+4
 
 |
 
@@ -4300,7 +4334,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-1
+0
 
 |
 
@@ -4316,7 +4350,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-12
+2
 
 |
 
@@ -4332,7 +4366,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-75
+40
 
 |
 
@@ -4356,7 +4390,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-905
+951
 
 |
 
