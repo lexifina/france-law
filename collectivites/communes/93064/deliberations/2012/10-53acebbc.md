@@ -1,0 +1,8 @@
+# Rosny-sous-Bois : délibération 10 — CHOIX DU PROJET DE REHABILITATION POUR LA PISCINE ET DETERMINATION DU MODE GESTION
+
+- Collectivité : Rosny-sous-Bois
+- SIREN : 219300647
+- Code INSEE : 93064
+- Date : 2012-10-11
+- Objet : CHOIX DU PROJET DE REHABILITATION POUR LA PISCINE ET DETERMINATION DU MODE GESTION
+- Jeu de données : https://www.data.gouv.fr/datasets/5ba3983f634f41312a65602e
