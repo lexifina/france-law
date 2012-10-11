@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700369
+
+- Question : [SEQ120700369](seq120700369.md) — Régime social du personnel français employé par l'association des parents d'élèves du lycée français Saint-Exupéry à Ouagadougou
+
+## Réponse
+
+*Affaires étrangères, JO du 2012-10-11, page 2230*
+
+La loi n° 89-1000 du 30 décembre 1989 a, dans son article unique, autorisé l'approbation de l'accord de coopération technique en matière de personnel entre le gouvernement de la République française et le gouvernement du Burkina Faso, signé le 4 février 1989. Le décret n° 92-633 du 13 juillet 1990 a porté publication de l'accord de coopération précité. Cet accord de coopération technique en matière de personnel abroge l'accord du 24 avril 1961 et demeure le texte en vigueur à ce jour. L'assimilation des personnels français recrutés localement par les associations des parents d'élèves du lycée Saint-Exupéry de Ouagadougou et de l'école André Malraux de Bobo-Dioulasso, toutes deux de droit burkinabé, à des personnels assistants techniques mis à disposition de l'État burkinabé n'est pas recevable par nos partenaires, car elle constituerait une dérogation au droit local. Le régime dérogatoire dont bénéficiaient ces personnels n'est plus applicable aux nouveaux recrutés à compter du 1er janvier 2011. L'employeur doit désormais verser les cotisations sociales de ces recrutés locaux à la Caisse nationale de sécurité sociale CNSS. Le personnel français reste libre de souscrire des protections supplémentaires auprès de la Caisse des Français de l'étranger. La négociation reste à mener sur le régime fiscal qui impliquerait un prélèvement à la source correspondant à 30 % du salaire environ et qui, soit amoindrirait fortement le salaire de ces agents, soit nécessiterait un accroissement conséquent des charges salariales se répercutant sur les frais de scolarité des établissements.
