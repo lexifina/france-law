@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700564
+
+- Question : [SEQ120700564](seq120700564.md) — Nouveaux outils de communication et droit d'expression au sein des conseils municipaux
+
+## Réponse
+
+*Intérieur, JO du 2012-10-11, page 2240*
+
+La possibilité d'avoir recours à des outils modernes de communication dans le cadre du fonctionnement du conseil municipal est d'ores et déjà prévue par les dispositions législatives en vigueur. Pour ce qui concerne l'information des élus, l'article L. 2121-13-1 du code général des collectivités territoriales (CGCT) dispose que « la commune assure la diffusion de l'information auprès de ses membres élus par les moyens matériels qu'elle juge les plus appropriés ». La commune peut ainsi mettre à disposition des élus les moyens informatiques et de télécommunications qu'elle juge nécessaires. En application de l'article précité, cette mise à disposition se fait dans les conditions déterminées par les assemblées délibérantes. La réglementation et l'accès de ces outils sont donc régis par le règlement intérieur du conseil municipal prévu à l'article L. 2121-8 du CGCT. Pour ce qui concerne les débats au sein du conseil municipal, de la même façon, le règlement intérieur permet de déterminer l'organisation matérielle de cette assemblée. En effet, selon la jurisprudence du Conseil d'État, le règlement intérieur a pour objet de comporter des mesures concernant le fonctionnement interne du conseil municipal (Conseil d'État, 18 novembre 1987, Marcy). Par conséquent, sans qu'il apparaisse nécessaire à ce stade de légiférer sur ce point, il appartient au conseil municipal de déterminer, dans son règlement intérieur en application de l'article L. 2121-8 du CGCT, les moyens matériels, tels que des vidéos ou diaporamas, qui pourront être utilisés lors des débats portant sur les affaires inscrites à l'ordre du jour.
