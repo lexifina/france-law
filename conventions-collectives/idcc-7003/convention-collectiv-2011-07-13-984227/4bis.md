@@ -1,4 +1,4 @@
-# Article 4bis
+# Article 4 bis
 
 1. Bénéficient des avantages de la convention collective nationale des conserveries coopératives et SICA, au prorata de l'ancienneté dans l'entreprise, calculée ainsi qu'il est indiqué ci-dessous, les travailleurs dont l'activité professionnelle, menée à terme dans un temps limité en fonction des contraintes inhérentes au rythme des saisons, est appelée à se répéter chaque année, par des campagnes successives, et pour lesquels le ou les contrats successifs atteignent l'ancienneté minimale permettant l'ouverture des droits aux dispositions de la présente convention :
 
@@ -14,8 +14,4 @@ Il est convenu également que les directions prendront toutes dispositions utile
 
 Les présentes dispositions ne peuvent être la cause d'une réduction des avantages acquis.
 
-2. Les travailleurs saisonniers qui ne réunissent pas les conditions prévues à l'alinéa 1 du point 1. de ce même article sont exclus de l'application des dispositions des articles 21 (1),38 bis et 39.
-
-(1) "21" exclu de l'extension.
-
-(Arrêté du 21 juin 2012, art. 1er)
+2. Les travailleurs saisonniers qui ne réunissent pas les conditions prévues à l'alinéa 1, du point 1, de ce même article sont exclus de l'application des dispositions des articles 38 bis et 39.
