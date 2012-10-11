@@ -4764,6 +4764,730 @@ Le nombre 12 signifie que, au cours de la tranche horaire correspondante, au plu
 
 Le nombre 12,5 signifie que, au cours de la tranche horaire correspondante, au plus 13 mouvements peuvent être acceptés deux périodes de 10 minutes, 12 mouvements pendant les quatre autres périodes, sous réserve du respect de la contrainte horaire correspondante.
 
+A compter de la saison aéronautique d'été 2013 :
+
+HEURES LOCALES
+
+|
+
+ARRIVÉES
+
+par dix minutes
+
+|
+
+ARRIVÉES
+
+par heure
+
+|
+
+DÉPARTS
+
+par dix minutes
+
+|
+
+DÉPARTS
+
+par heure
+
+|
+
+TOTAL
+
+arrivées
+
++ départs
+
+par heure
+
+|
+
+HEURES LOCALES
+
+|
+
+0 heure à 0 heure 59
+
+|
+
+7
+
+|
+
+30
+
+|
+
+7
+
+|
+
+25
+
+|
+
+40
+
+|
+
+0 heure à 0 heure 59
+
+|
+
+1 heure à 1 heure 59
+
+|
+
+7
+
+|
+
+20
+
+|
+
+7
+
+|
+
+25
+
+|
+
+40
+
+|
+
+1 heures à 1 heures 59
+
+|
+
+2 heures à 2 heures 59
+
+|
+
+7
+
+|
+
+20
+
+|
+
+7
+
+|
+
+20
+
+|
+
+32
+
+|
+
+2 heures à 2 heures 59
+
+|
+
+3 heures à 3 heures 59
+
+|
+
+7
+
+|
+
+20
+
+|
+
+7
+
+|
+
+20
+
+|
+
+32
+
+|
+
+3 heures à 3 heures 59
+
+|
+
+4 heures à 4 heures 59
+
+|
+
+7
+
+|
+
+20
+
+|
+
+7
+
+|
+
+20
+
+|
+
+32
+
+|
+
+4 heures à 4 heures 59
+
+|
+
+5 heures à 5 heures 59
+
+|
+
+7
+
+|
+
+30
+
+|
+
+7
+
+|
+
+25
+
+|
+
+40
+
+|
+
+5 heures à 5 heures 59
+
+|
+
+6 heures à 6 heures 59
+
+|
+
+10 *
+
+|
+
+41
+
+|
+
+7
+
+|
+
+38
+
+|
+
+67
+
+|
+
+6 heures à 6 heures 59
+
+|
+
+7 heures à 7 heures 59
+
+|
+
+11
+
+|
+
+48
+
+|
+
+12
+
+|
+
+66
+
+|
+
+103
+
+|
+
+7 heures à 7 heures 59
+
+|
+
+8 heures à 8 heures 59
+
+|
+
+12
+
+|
+
+62
+
+|
+
+11,5
+
+|
+
+62
+
+|
+
+106
+
+|
+
+8 heures à 8 heures 59
+
+|
+
+9 heures à 9 heures 59
+
+|
+
+11,5
+
+|
+
+62
+
+|
+
+12,5
+
+|
+
+62
+
+|
+
+116
+
+|
+
+9 heures à 9 heures 59
+
+|
+
+10 heure à 10 heure 59
+
+|
+
+11,5
+
+|
+
+60
+
+|
+
+12
+
+|
+
+67
+
+|
+
+111
+
+|
+
+10 heure à 10 heure 59
+
+|
+
+11 heures à 11 heures 59
+
+|
+
+11,5
+
+|
+
+60
+
+|
+
+12
+
+|
+
+63
+
+|
+
+111
+
+|
+
+11 heures à 11 heures 59
+
+|
+
+12 heures à 12 heures 59
+
+|
+
+11,5
+
+|
+
+54
+
+|
+
+12
+
+|
+
+63
+
+|
+
+109
+
+|
+
+12 heures à 12 heures 59
+
+|
+
+13 heures à 13 heures 59
+
+|
+
+11,5
+
+|
+
+54
+
+|
+
+12
+
+|
+
+67
+
+|
+
+106
+
+|
+
+13 heures à 13 heures 59
+
+|
+
+14 heures à 14 heures 59
+
+|
+
+12
+
+|
+
+57
+
+|
+
+11,5
+
+|
+
+63
+
+|
+
+105
+
+|
+
+14 heures à 14 heures 59
+
+|
+
+15 heures à 15 heures 59
+
+|
+
+12
+
+|
+
+56
+
+|
+
+12
+
+|
+
+65
+
+|
+
+108
+
+|
+
+15 heures à 15 heures 59
+
+|
+
+16 heures à 16 heures 59
+
+|
+
+11
+
+|
+
+56
+
+|
+
+12
+
+|
+
+63
+
+|
+
+107
+
+|
+
+16 heures à 16 heures 59
+
+|
+
+17 heures à 17 heures 59
+
+|
+
+12
+
+|
+
+61
+
+|
+
+11,5
+
+|
+
+62
+
+|
+
+107
+
+|
+
+17 heures à 17 heures 59
+
+|
+
+18 heures à 18 heures 59
+
+|
+
+12
+
+|
+
+60
+
+|
+
+12
+
+|
+
+62
+
+|
+
+111
+
+|
+
+18 heures à 18 heures 59
+
+|
+
+19 heures à 19 heures 59
+
+|
+
+11,5
+
+|
+
+59
+
+|
+
+11,5
+
+|
+
+62
+
+|
+
+109
+
+|
+
+19 heures à 19 heures 59
+
+|
+
+20 heure à 20 heure 59
+
+|
+
+11,5
+
+|
+
+56
+
+|
+
+11,5
+
+|
+
+64
+
+|
+
+108
+
+|
+
+20 heure à 20 heure 59
+
+|
+
+21 heures à 21 heures 59
+
+|
+
+11,5
+
+|
+
+53
+
+|
+
+11,5
+
+|
+
+53
+
+|
+
+97
+
+|
+
+21 heures à 21 heures 59
+
+|
+
+22 heures à 22 heures 59
+
+|
+
+10
+
+|
+
+44
+
+|
+
+10
+
+|
+
+41
+
+|
+
+78
+
+|
+
+22 heures à 22 heures 59
+
+|
+
+23 heures à 23 heures 59
+
+|
+
+8
+
+|
+
+40
+
+|
+
+10
+
+|
+
+30
+
+|
+
+62
+
+|
+
+23 heures à 23 heures 59
+
+|
+
+Le nombre 10 * signifie que, au cours de la tranche horaire correspondante, onze mouvements au plus peuvent être acceptés sur une période de dix minutes, dix mouvements pendant les cinq autres périodes de dix minutes, sous réserve du respect de la contrainte horaire correspondante.
+
+Le nombre 11,5 signifie que, au cours de la tranche horaire correspondante, douze mouvements au plus peuvent être acceptés pendant trois périodes de dix minutes, onze mouvements pendant les trois autres périodes de dix minutes, sous réserve du respect de la contrainte horaire correspondante.
+
+Le nombre 12 signifie que, au cours de la tranche horaire correspondante, treize mouvements au plus peuvent être acceptés pendant une période de dix minutes, douze mouvements pendant les cinq autres périodes, sous réserve du respect de la contrainte horaire correspondante.
+
+Le nombre 12,5 signifie que, au cours de la tranche horaire correspondante, treize mouvements au plus peuvent être acceptés pendant deux périodes de dix minutes, douze mouvements pendant les quatre autres périodes, sous réserve du respect de la contrainte horaire correspondante.
+
 2. Capacité des terminaux
 
 A compter de la saison aéronautique d'été 2008 :
@@ -5007,3 +5731,33 @@ par heure au départ
 1 000
 
 |
+
+A compter de la saison aéronautique d'été 2013 :
+
+TERMINAL |
+
+FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DÉPART |
+
+1 |
+
+1 950 |
+
+2 A |
+
+900 |
+
+2 B |
+
+1 200 |
+
+2 C |
+
+900 |
+
+2 G |
+
+500 |
+
+3 |
+
+1 000 |
