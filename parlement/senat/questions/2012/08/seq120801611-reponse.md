@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120801611
+
+- Question : [SEQ120801611](seq120801611.md) — Parrainages des candidats aux élections présidentielles
+
+## Réponse
+
+*Intérieur, JO du 2012-10-11, page 2245*
+
+Dans ses observations sur l'élection présidentielle des 22 avril et 6 mai 2012 (décision n° 2012-155 PDR du 21 juin 2012), le Conseil constitutionnel a jugé que la procédure actuelle de présentation des candidats à l'élection présidentielle par cinq cents élus habilités, dite communément procédure des « parrainages », remplit deux objectifs principaux : celui d'éviter des candidatures purement « fantaisistes » et celui d'assurer la présence au premier tour des candidats représentant tous les grands courants de la vie politique française. Toutefois, ce dispositif de présentation, qui permet la présence de candidats qui obtiennent en définitive au premier tour un très faible nombre de suffrages ou, au contraire, qui ne garantit pas aux représentants de certaines formations politiques présentes lors de scrutins précédents de se présenter alors qu'ils ont obtenu en définitive un très grand nombre de voix, suscite des débats. Par ailleurs, le Conseil constitutionnel constate que la législation actuelle sur la publication des noms des élus habilités fait l'objet de contestations récurrentes dans le cadre de la campagne électorale. Eu égard aux questions posées par le dispositif actuel de présentation des candidats à l'élection présidentielle, une modification des règles de présentation des candidats pourrait être envisagée. En tout état de cause, ce dispositif sera examiné par la commission chargée de la rénovation et de la déontologie de la vie publique, laquelle est chargée, dans le cadre de la mission qui lui a été confiée par le Président de la République, de se prononcer sur la pertinence du système actuel.
