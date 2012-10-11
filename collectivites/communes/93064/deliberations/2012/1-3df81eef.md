@@ -1,0 +1,8 @@
+# Rosny-sous-Bois : délibération 1 — RAPPORT ANNUEL DU SYNDICAT INTERCOMMUNAL FUNERAIRE DE LA REGION PARISIENNE - S.I.F.U.R.E.P. - ANNEE 2011
+
+- Collectivité : Rosny-sous-Bois
+- SIREN : 219300647
+- Code INSEE : 93064
+- Date : 2012-10-11
+- Objet : RAPPORT ANNUEL DU SYNDICAT INTERCOMMUNAL FUNERAIRE DE LA REGION PARISIENNE - S.I.F.U.R.E.P. - ANNEE 2011
+- Jeu de données : https://www.data.gouv.fr/datasets/5ba3983f634f41312a65602e
