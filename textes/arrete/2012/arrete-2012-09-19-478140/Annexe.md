@@ -1,0 +1,151 @@
+# Article Annexe
+
+DISPENSATEURS DE FORMATION HABILITÉS CONFORMÉMENT À L'ARRÊTÉ DU 31 JUILLET 2012 RELATIF AUX CONDITIONS DE DÉLIVRANCE DU CERTIFICAT DE COMPÉTENCE CONCERNANT LA PROTECTION DES ANIMAUX DANS LE CADRE DE LEUR MISE À MORT
+
+DISPENSATEUR DE FORMATION
+
+|
+
+TYPES D'HABILITATION
+
+|
+
+HABILITATION
+
+|
+
+|
+
+|
+
+A compter du
+
+|
+
+Jusqu'au |
+
+ADIV Développement, 10, rue Jacqueline-Auriol, zac des Gravanches, 63039 Clermont-Ferrand Cedex 2
+
+|
+
+RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement
+
+RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+20 septembre 2012
+
+//
+
+|
+
+20 septembre 2017
+
+//
+
+|
+
+|
+
+RPA et opérateur, porcins-manipulations et soins-mise à mort
+
+|
+
+//
+
+|
+
+//
+
+|
+
+ADOFIA, 24, rue des Vignoles, 75020 Paris
+
+|
+
+RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+20 septembre 2012
+
+|
+
+20 septembre 2017
+
+|
+
+|
+
+RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+//
+
+|
+
+//
+
+|
+
+|
+
+RPA et opérateur, porcins-manipulations et soins-mise à mort
+
+|
+
+//
+
+|
+
+//
+
+|
+
+IFIP, Institut du porc, 149, rue de Bercy, 75020 PARIS
+
+|
+
+RPA et opérateur, porcins-manipulations et soins-mise à mort
+
+|
+
+20 septembre 2012
+
+|
+
+20 septembre 2017
+
+|
+
+Institut de l'élevage, 149, rue de Bercy, 75020 Paris
+
+|
+
+RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+20 septembre 2012
+
+|
+
+20 septembre 2017
+
+|
+
+|
+
+RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+//
+
+|
+
+//
+
+|
