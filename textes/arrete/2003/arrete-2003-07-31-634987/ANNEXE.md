@@ -1,78 +1,92 @@
 # Article ANNEXE
 
-Intitulé : conducteur d'installations et de machines automatisées.
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Niveau : V.
+Intitulé :
 
-Code NSF : 251 u.
+Titre professionnel : Conducteur (trice) d'installations et de machines automatisées (ancien intitulé : Conducteur d'installations et de machines automatisées (Niveau V))
+
+Niveau : V
+
+Code NSF : 251 u
 
 Résumé du référentiel d'emploi
 
-Le conducteur réalise, au sein d'une équipe, sur des machines et installations automatisées, intégrées ou non dans une ligne de production, l'ensemble des actions concourant à l'obtention d'une production conforme en qualité, coûts et délais, dans le respect des normes d'hygiène, d'environnement et de sécurité définies par l'entreprise.
+Le titulaire de l'emploi réalise, seul ou au sein d'une équipe, sur des installations et des machines automatisées, intégrées ou non dans une ligne de production, l'ensemble des actions concourant à l'obtention d'une production conforme en qualité, coûts et délais, dans le respect des normes d'hygiène, d'environnement et de sécurité définies par l'entreprise.
 
-Pour cela, il assure tout ou partie des activités suivantes :
+Pour cela, il assure tout ou partie des tâches suivantes :
 
--préparation du poste de travail ;
+Préparation du poste de travail,
 
--démarrage et arrêt de l'installation ou de la machine ;
+Démarrage et arrêt des moyens de production,
 
--conduite et surveillance du process de fabrication ;
+Conduite des moyens de production et surveillance du process de fabrication,
 
--contrôle des pièces ou des sous-ensembles fabriqués ;
+Contrôle des pièces ou des sous-ensembles fabriqués,
 
--maintenance préventive de premier niveau ;
+Maintenance dédiée à la production et nettoyage des outillages et des moyens de production en cours de production,
 
--participation à des groupes d'amélioration.
+Amélioration technique ou organisationnelle de son secteur de fabrication.
 
-Les moyens de production mis en œuvre regroupent généralement plusieurs technologies : mécanique, électricité, pneumatique, hydraulique et informatique.
+Les moyens de production mis en œuvre regroupent généralement plusieurs technologies : mécanique, électricité, pneumatique, hydraulique, automatique et informatique.
+
+Le titulaire de l'emploi travaille de façon autonome, sous la responsabilité de son hiérarchique direct. Il lui rend compte de son activité et l'informe de tout incident.
+
+Sa propre responsabilité est limitée à l'application stricte de consignes et des procédures.
+
+Le titulaire de l'emploi travaille dans de nombreux domaines de la production industrielle. Selon la nature du secteur, il se conforme aux normes spécifiques en vigueur.
+
+Il exerce son métier en atelier dans des entreprises de toutes tailles selon des organisations différentes.
+
+Les horaires de travail sont de types : 2 × 8,3 × 8, nuit, parfois VSD, rarement en journée.
+
+L'exécution des tâches s'effectue le plus souvent debout avec des déplacements fréquents autour de l'installation, voire aux divers magasins de stockage.
+
+Elle nécessite, selon les secteurs, le port d'équipements de sécurité et/ ou de propreté.
+
+Les conditions environnementales varient en fonction de l'activité de l'entreprise : bruit, chaleur, froid, humidité, poussières volatiles, courants d'air, milieu aseptisé, odeurs particulières.
+
+L'activité oblige à une vigilance et une anticipation permanentes, à une réactivité immédiate à l'événement.
+
+Le poste requiert parfois la maîtrise de la conduite d'engins de manutention de type gerbeur ou chariot élévateur. Une certification de type CACES est appréciée pour la tenue de l'emploi.
+
+Dans certaines entreprises, l'habilitation électrique pour non-électricien B0 est quelquefois également requise pour tenir l'emploi.
 
 Capacités attestées et descriptif des composantes de la certification
 
 1. Lancer et arrêter une installation ou une machine automatisée
 
-Préparer, en fonction du changement de série, le poste de travail.
+Préparer une production sur une installation ou sur une machine automatisée.
 
-Charger un programme.
+Démarrer, mettre en cadence et arrêter une installation ou une machine automatisée.
 
-Assurer la mise en route et l'arrêt des moyens de production en fonction des séries selon les procédures établies.
+Proposer des améliorations techniques ou organisationnelles dans son secteur de production.
 
-Réaliser les opérations simples de maintenance productive des outils et des moyens de production en fonction des documents techniques.
+2. Conduire une installation ou une machine automatisée
 
-Proposer des améliorations techniques (produit ; process) ou organisationnelles (flux ; charges...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
+Effectuer une opération de production sur une installation ou sur une machine automatisée.
 
-2. Conduire et surveiller une opération de production sur une installation ou sur une machine automatisée
+Effectuer les opérations de contrôle des pièces issues d'une production industrielle.
 
-Prendre en compte les paramètres (documents, informations...) nécessaires à la fabrication.
+Réaliser les opérations de maintenance dédiée à la production et de nettoyage des outillages et des moyens de production.
 
-Approvisionner en matière et composants la machine et vérifier les références (étiquettes ; bon accord contrôle réception).
+Proposer des améliorations techniques ou organisationnelles dans son secteur de production.
 
-Conduire et surveiller une opération de production sur machine ou installation automatisée dans le respect des procédures (modes opératoires...) et selon les conditions prévues (qualité, quantité, délais...).
-
-Assurer le contrôle des paramètres-machine et des pièces issues d'une fabrication industrielle.
-
-Saisir et enregistrer les informations relatives à la production sur document (informatique ou papier) de gestion de production.
-
-Proposer des améliorations techniques (produit ; process) ou organisationnelles (flux ; charges...) permettant d'améliorer les conditions de travail et les indicateurs industriels.
-
-Secteurs d'activité ou types d'emploi
+Secteurs d'activités et types d'emploi
 
 accessibles par le détenteur du titre
 
-Automobile, agroalimentaire, électroménager, électronique et électricité, pharmacie, plasturgie, métallurgie, entreprises de travail temporaire.
+Mécanique, plasturgie, sidérurgie, métallurgie, électronique, textile, aéronautique, agroalimentaire, automobile, pharmacie, équipement électrique, meuble.
+
+Conducteur de ligne, conducteur de machines, conducteur de machines automatisées, opérateur sur machines automatisées
+
+Code ROME :
+
+H2906 Conduite d'installation automatisée ou robotisée de fabrication mécanique
 
 Réglementation de l'activité :
 
-Néant.
-
-Codes ROME :
-
-44211-Opérateur (trice) sur machines automatiques en production électrique et électronique.
-
-4512-Opérateur (trice) sur machines et appareils de fabrication des industries agro alimentaires.
-
-45411-Opérateur (trice) sur machines de finition, contrôle et conditionnement.
-
-46231-Conducteur (trice) de machines de façonnage.
+Sans objet.
 
 Autorité responsable de la certification :
 
