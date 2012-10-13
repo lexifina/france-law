@@ -24,23 +24,21 @@ L'aire de protection est appelée OCS (Obstacle Clearance Surface) ou surface d�
 
 |
 
-Piste exploitée à vue
+PISTE EXPLOITÉE À VUE
 
 |
 
-Piste exploitée aux instruments
+PISTE EXPLOITÉE AUX INSTRUMENTS
 
 |
 
-Approche à vue de jour
+Approche à vue
 
 |
 
-Approche à vue de nuit
+Approche classique (a)
 
-|
-
-Approche classique et Approche de précision
+et approche de précision
 
 |
 
@@ -68,15 +66,7 @@ Chiffre de code de la piste
 
 |
 
-1 et 2
-
-|
-
-3 et 4
-
-|
-
-largeur à l'origine
+Largeur à l'origine
 
 |
 
@@ -100,19 +90,15 @@ largeur à l'origine
 
 |
 
-150 m
+Distance au seuil
 
 |
 
-300 m
+30 m (b)
 
 |
 
-distance au seuil
-
-|
-
-30 m
+60 m (b)
 
 |
 
@@ -128,19 +114,7 @@ distance au seuil
 
 |
 
-60 m
-
-|
-
-60 m
-
-|
-
-60 m
-
-|
-
-divergence
+Divergence
 
 |
 
@@ -164,43 +138,17 @@ divergence
 
 |
 
-15 %
+Longueur totale
 
 |
 
-15 %
+Longueur de la section rectiligne de la ou des trouées d'atterrissage associées
 
 |
 
-longueur totale
+(a) Toutefois, dans le cas d'une piste utilisée en conditions de vol aux instruments avec approche suivie de manœuvre à vue imposée (VPT - Visual pattern with prescribed tracks) et/ ou de manœuvre à vue libre (MVL), ou dans le cas d'une piste utilisée en conditions de vol aux instruments avec approche directe dotée, pour chaque catégorie d'aéronef concernée, d'une altitude de descente minimum (MDA) supérieure à la valeur minimale prescrite pour les manœuvres à vue (VPT/ MVL) et d'une portée visuelle de piste (RVR) requise supérieure à la valeur minimale de visibilité prescrite pour les manœuvres à vue (VPT/ MVL), les surfaces à prendre en compte peuvent être celles spécifiées pour les pistes exploitées à vue.
 
-|
-
-7 500 m
-
-|
-
-7500 m
-
-|
-
-15 000 m
-
-|
-
-7 500 m
-
-|
-
-15 000 m
-
-|
-
-7 500 m
-
-|
-
-15 000 m
+(b) Distance nulle pour les pistes non revêtues.
 
 |
 
@@ -215,3 +163,69 @@ Si di est la distance, mesurée en projection orthogonale sur l'axe de piste, s�
 (Figure non reproduite, consulter le fac-similé de l'arrêté du 7 juin 2007, JORF du 27 octobre 2007).
 
 L'angle d'inclinaison q0 de l'OCS détermine également le calage angulaire du dispositif PAPI. En effet, le calage angulaire A de l'élément lumineux du PAPI signalant la partie la plus basse de la pente de guidage de l'approche suit la relation : A = q0 + 0,57°.
+
+3. Surface de protection contre les obstacles des indicateurs visuels de pente d'approche des infrastructures à usage exclusif des hélicoptères
+
+Une surface de protection contre les obstacles est associée à l'installation de l'indicateur de trajectoire d'approche pour hélicoptère (HAPI).
+
+La pente de la surface de protection contre les obstacles est déterminée de façon à garantir une marge de franchissement d'obstacle suffisante au-dessus de tous les obstacles situés dans l'aire de protection.
+
+Les caractéristiques de la surface de protection contre les obstacles sont celles spécifiées dans le tableau 1 de la présente annexe.
+
+La figure 1 de la présente annexe donne une représentation de la surface de protection contre les obstacles.
+
+Tableau 1. - Dimensions et pente de la surface de protection contre les obstacles associée à l'indicateur de trajectoire d'approche pour hélicoptère
+
+CARACTÉRISTIQUES DE LA SURFACE
+
+|
+
+Emplacement du bord intérieur
+
+|
+
+Bord extérieur du rectangle circonscrit à l'aire de sécurité
+
+|
+
+Largeur du bord intérieur
+
+|
+
+Largeur minimale spécifiée de l'aire d'approche finale et de décollage plus l'aire de sécurité
+
+|
+
+Divergence
+
+|
+
+10 %
+
+|
+
+Longueur
+
+|
+
+2 500 m
+
+|
+
+Pente
+
+|
+
+Egale à A - 0,65°
+
+A est l'angle de la limite supérieure du secteur du signal "trop bas" de l'indicateur
+
+|
+
+Figure 1. - Représentation de la surface de protection contre les obstacles associée
+
+à l'indicateur de trajectoire d'approche pour hélicoptère
+
+(Figure non reproduite, vous pouvez la consulter à l'adresse suivante :
+
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20121012&numTexte=23&pageDebut=15947&pageFin=15956)
