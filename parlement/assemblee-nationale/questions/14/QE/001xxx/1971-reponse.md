@@ -1,0 +1,9 @@
+# Réponse à la question n° 1971
+
+- Question : [1971](1971.md) — Question n° 1971 — aides de l'État; réglementation
+
+## Réponse
+
+*JO du 2012-10-16*
+
+L'aide aux chômeurs créateurs et repreneurs d'entreprises (ACCRE) permet à des créateurs ou repreneurs d'entreprises de bénéficier d'une franchise d'exonération des charges sociales pendant douze mois au titre de leur nouvelle activité. Au fil des nombreuses réformes qui ont jalonné son histoire, son périmètre a été étendu à un ensemble très large de publics en difficulté d'accès ou de maintien dans l'emploi notamment, les demandeurs d'emploi indemnisés, les personnes non indemnisées inscrites depuis six mois comme demandeurs d'emploi, les jeunes de moins de 30 ans, les bénéficiaires de minimaux sociaux, les salariés repreneurs de leur entreprise en difficulté, et plus récemment les auto-entrepreneurs, avec les règles de cumul introduites par la loi de finances rectificative pour 2009 et le régime micro social simplifié instauré par la loi de modernisation de l'économie du 4 août 2008. Par ailleurs l'accès à l'aide a été simplifié avec le transfert de sa gestion aux Urssaf fin 2007 et le traitement des demandes par les Centres de Formalité des Entreprises (CFE). Dans le même temps, les conditions d'octroi de l'aide ont été largement assouplies avec la suppression de l'examen au fond de la demande sur la base d'un dossier économique, l'aide étant conditionnée à la seule appartenance à l'une des catégories administratives prévues par les textes. Il convient enfin de rappeler que tout élargissement des conditions d'octroi de l'aide n'est pas neutre pour les comptes sociaux puisqu'il s'agit en effet d'une exonération non compensée, dont le coût est estimé en 2010 à près de 220 M€. Pour toutes ces raisons, il n'est pas envisagé d'assouplir davantage les conditions d'octroi de l'aide aux chômeurs créateurs d'entreprises.
