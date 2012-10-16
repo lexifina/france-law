@@ -1,0 +1,9 @@
+# Réponse à la question n° 25
+
+- Question : [25](25.md) — Question n° 25 — caisses régionales de sécurité sociale dans les mines; pérennité
+
+## Réponse
+
+*JO du 2012-10-16*
+
+Le Gouvernement suit avec une attention toute particulière la situation du régime de sécurité sociale dans les mines et les préoccupations que suscite la réforme de ce régime prévue par le décret du 30 août 2011. Le président et les membres du conseil d'administration de la CANSSM ont été nommés respectivement par décret et arrêté du 2 janvier 2012 et le nouveau conseil d'administration a été installé le 18 janvier suivant. Les instances représentatives du personnel ont également été mises en place et le Comité central d'entreprise a tenu sa première réunion le 9 février 2012. Cette réforme suscite des inquiétudes, relayées par plusieurs élus des bassins miniers ainsi que par les responsables des fédérations syndicales minières. C'est le cas de la situation des salariés des caisses minières et du maintien de leurs droits et garanties conventionnelles dans la perspective d'un adossement au régime général, qui n'a pas fait l'objet d'une concertation suffisante de la part du précédent Gouvernement et sur lequel portent de fortes préoccupations. Par ailleurs, le devenir de l'offre de santé de ce régime, à la pérennité de laquelle les populations minières sont légitimement attachées, suscite également des inquiétudes. La ministre des affaires sociales et de la santé a donc décidé d'instaurer un moratoire sur ces sujets afin d'accorder, comme le demande l'ensemble des élus et responsables syndicaux, le temps nécessaire au dialogue. Une nouvelle phase de concertation s'ouvrira prochainement et associera tous les acteurs de la corporation minière. Il a été demandé au directeur général de la CANSSM de ne prendre aucune décision définitive dans ce domaine pendant la durée du moratoire.
