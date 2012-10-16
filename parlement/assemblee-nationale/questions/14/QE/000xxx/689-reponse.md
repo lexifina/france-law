@@ -1,0 +1,9 @@
+# Réponse à la question n° 689
+
+- Question : [689](689.md) — Question n° 689 — secours à personne dans des conditions extrêmes; statistiques; coût
+
+## Réponse
+
+*JO du 2012-10-16*
+
+Les services départementaux d'incendie et de secours (SDIS) doivent, pour répondre aux missions énumérées à l'article L.1424-2 du code général des collectivités territoriales (CGCT), adopter une organisation adaptée aux risques auxquels ils sont confrontés. Les SDIS assurent, à ce titre, les interventions de secours à personne en milieu souterrain. Ces interventions sont réalisées par des personnels spécialisés, les unités dénommées groupe de reconnaissance et d'intervention en milieu périlleux (GRIMP) ou secours en montagne, formées à la qualification « Intervention Site Souterrain » (ISS1). En 2011, on dénombrait 394 sapeurs-pompiers (volontaires, professionnels ou militaires) titulaires de la qualification ISS1. Il y a actuellement 4 centres de formation agréés par la direction générale de la sécurité civile et de la gestion des crises pour dispenser cette formation : les SDIS de Côte-d'Or, de l'Isère, de Meurthe-et-Moselle et la Brigade des sapeurs-pompiers de Paris. Ces quatre centres de formation agréés peuvent former des sapeurs-pompiers provenant de tous les SDIS qui doivent, en fonction des risques à couvrir dans le département, disposer de personnels qualifiés en la matière. Ce risque est identifié dans le schéma départemental d'analyse et de couverture des risques (SDACR), arrêté par le préfet, sur avis conforme du conseil d'administration du SDIS. Par ailleurs, pour faire face aux risques de ces interventions en milieu périlleux, 22 SDIS ont signé des conventions de spéléologie secours (par exemple avec d'autres SDIS ou encore avec des associations de spéléologie). S'agissant des coûts liés à ces formations et à l'achat des matériels nécessaires à ce type d'intervention, ils ne donnent pas lieu à un recensement à l'échelon central.
