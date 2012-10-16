@@ -1,0 +1,9 @@
+# Réponse à la question n° 2935
+
+- Question : [2935](2935.md) — Question n° 2935 — étudiants; stages; gratification; réglementation
+
+## Réponse
+
+*JO du 2012-10-16*
+
+L'article 27 de la loi n° 2011-893 du 28 juillet 2011 pour le développement de l'alternance et la sécurisation des parcours professionnels a modifié le code de l'éducation, et notamment l'article L. 612-11 relatif aux modalités de calcul de la gratification versée aux stagiaires. Ce texte prévoit que « lorsque la durée de stage au sein d'une même entreprise est supérieure à 2 mois consécutifs ou, au cours d'une même année scolaire ou universitaire, à 2 mois consécutifs ou non, le ou les stages font l'objet d'une gratification versée mensuellement dont le montant est fixé par convention de branche ou par accord professionnel étendu ou, à défaut, par décret ». Cette réglementation s'applique à tous les étudiants, quelle que soit la spécialité disciplinaire ou le niveau de formation. Les associations sont tenues de gratifier les stagiaires dans les mêmes conditions que les entreprises, en application de l'article 6-2 du décret n° 2006-1093 du 29 août 2006 modifié par l'article 1er du décret n° 2008-96 du 31 janvier 2008 relatif à la gratification et au suivi des stages en entreprise. Ces dispositions assurent une égalité de traitement entre les étudiants inscrits dans une même formation, quel que soit le statut de l'organisme dans lequel ils effectuent leur période de stage. Il n'est pas envisagé à ce jour de dérogation au régime de gratification pour les stagiaires affectés dans une association. Toutefois, les étudiants conservent la possibilité d'accomplir leur stage auprès d'une fondation privée ; dès lors que cet organisme est signataire de la convention de stage, conformément à l'article 3 du décret du 29 août 2006 précité, il devient l'employeur direct du stagiaire.
