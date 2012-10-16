@@ -1,0 +1,9 @@
+# Réponse à la question n° 464
+
+- Question : [464](464.md) — Question n° 464 — zones de développement économique rural; création
+
+## Réponse
+
+*JO du 2012-10-16*
+
+Reconstruire une politique d'aménagement du territoire suppose de s'intéresser à tous les types d'espaces. Pour les territoires ruraux, les défis sont connus : maintenir et recréer des activités productives en veillant à la préservation des ressources et des paysages, amplifier les retombées économiques liées à la présence d'habitants et de touristes, renforcer l'attractivité des territoires en améliorant l'accès au numérique et l'offre de services. Ils ne pourront être relevés qu'en améliorant les relations existantes entre les espaces ruraux et les villes auxquelles ils sont connectés. Sur ces différents sujets, l'État est loin d'être le seul acteur. Dans un contexte d'approfondissement de la décentralisation, sa mission première consiste à définir des orientations nationales soucieuses de l'égalité des territoires, et à proposer aux partenaires régionaux des modalités d'action plus efficaces pour atteindre les objectifs définis en commun. Dès lors, la contractualisation est une voie à privilégier. Une réflexion est engagée sur les principes et l'architecture des futurs contrats 2014- 2020 et devrait aboutir rapidement. Il est d'ores et déjà évident que la question de l'accessibilité des services figurera parmi les thématiques prioritaires proposées par l'Etat au partenariat régional. A l'intervention contractualisée, s'ajouteront des leviers nationaux, parmi lesquels les aides zonées. L'actuelle géographie prioritaire résulte d'un empilement de zonages accumulés au fil des années, reposant parfois sur des indicateurs obsolètes. Elle mérite d'être réformée, au regard d'objectifs reprécisés qui pourront conduire à redéfinir les avantages associés et leurs modalités de mise en oeuvre. Ce chantier sera lancé prochainement et ne manquera pas d'associer les parlementaires.
