@@ -1,0 +1,9 @@
+# Réponse à la question n° 4533
+
+- Question : [4533](4533.md) — Question n° 4533 — pâtures; aides communautaires; éligibilité
+
+## Réponse
+
+*JO du 2012-10-16*
+
+Les négociations sur la politique agricole commune (PAC) pour l'après 2013 sont engagées à l'échelle européenne. Les propositions législatives de la Commission européenne, qui servent de base pour cette négociation, ont été rendues publiques à la mi-octobre 2011. Le projet de règlement relatif aux soutiens directs définit notamment les surfaces agricoles permettant de bénéficier d'aides de la PAC. Dans ce cadre, la notion de « prairie permanente » remplace l'actuelle notion de « pâturage permanent » et apparaît plus restrictive. En effet, cela conduit à ne retenir que les surfaces fourragères comportant un pourcentage majoritaire d'espèces herbacées, ce qui n'est pas le cas de l'ensemble des pâturages permanents qui peuvent actuellement bénéficier des aides de la PAC. Un certain nombre de systèmes pastoraux français, en particulier situés dans les zones de montagnes, s'appuient sur des surfaces dont la présence d'espèces herbacées peut être limitée. Ces systèmes valorisent des espaces fragiles et maintiennent leur ouverture, ce qui est favorable à la biodiversité, et constituent une activité économique essentielle de ces zones. Par conséquent, la France a d'ores et déjà demandé que la définition des prairies permanentes du projet de la Commission européenne puisse évoluer afin de ne pas exclure ces surfaces, support d'une activité agro-sylvo-pastorale. De manière plus générale, la France sera particulièrement attentive, au cours des négociations, à ce que les différents volets de la future PAC contiennent les dispositifs et instruments appropriés afin de permettre au secteur de l'élevage de faire face aux difficultés auxquelles il est confronté.
