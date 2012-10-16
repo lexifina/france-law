@@ -1,0 +1,9 @@
+# Réponse à la question n° 920
+
+- Question : [920](920.md) — Question n° 920 — ouverture des droits; disparités
+
+## Réponse
+
+*JO du 2012-10-16*
+
+La question des disparités territoriales dans l'attribution de l'allocation d'éducation de l'enfant handicapé (AEEH) a été identifiée par les pouvoirs publics. Il convient de préciser que cette question ne doit pas être envisagée sous le seul angle de la lourdeur des démarches administratives. Même en cas de stabilité du handicap, la situation de l'enfant handicapé doit être analysée en fonction de son âge. En effet, les besoins de l'enfant sont en constante évolution chaque année. De plus, l'évaluation par l'équipe pluridisciplinaire de la maison départementale des personnes handicapées (MDPH) ne doit pas se limiter aux seuls besoins pouvant faire l'objet d'une couverture par une prestation relevant de la compétence de la MDPH. Elle est l'occasion de prendre en compte la situation globale de l'enfant et éventuellement de repérer des besoins pouvant être couverts par d'autres dispositifs spécialisés ou de droit commun. Déjà plusieurs mesures ont ét prises pour remédier aux difficultés signalées : - un formulaire unique de demande auprès de la MDPH, qui précise les pièces à joindre à la demande, a été établi dans un souci d'harmonisation des procédures ; - la commission des droits et de l'autonomie des personnes handicapées (CDAPH) a la possibilité d'adapter la durée d'attribution des droits et prestation en fonction de l'évolutivité du handicap et de la situation. - la CDAPH peut avoir recours à une procédure simplifiée de prise de décisions en cas de stabilité du handicap. - enfin, il a été décidé que la caisse nationale de solidarité pour l'autonomie (CNSA), qui anime le réseau des MDPH, engagerait avant la fin de l'année 2012, une analyse sur ce sujet pour proposer les autres actions qui s'avéreraient nécessaires améliorer encore les prises de décision en matière d'AEEH.
