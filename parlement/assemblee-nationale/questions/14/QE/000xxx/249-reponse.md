@@ -1,0 +1,9 @@
+# Réponse à la question n° 249
+
+- Question : [249](249.md) — Question n° 249 — décret; publication
+
+## Réponse
+
+*JO du 2012-10-16*
+
+Le ministre de l'éducation nationale a vu ses attributions déterminées par le décret n° 2012-767 du 24 mai 2012 relatif aux attributions du ministre de l'éducation nationale. Aux termes de ce texte, « le ministre de l'éducation nationale prépare et met en oeuvre la politique du Gouvernement en faveur de l'accès de chacun aux savoirs et du développement de l'enseignement préélémentaire, élémentaire et secondaire. Il veille, conjointement avec les autres ministres intéressés, au développement de l'éducation artistique et culturelle des enfants et des jeunes adultes tout au long de leurs cycles de formation. » « Pour l'exercice de ses attributions, le ministre de l'éducation nationale a autorité sur la direction générale de l'enseignement scolaire, sur l'inspection générale de l'éducation nationale et sur le bureau du cabinet. Il a autorité, conjointement avec le ministre de l'enseignement supérieur et de la recherche, sur le secrétariat général mentionné à l'article 1er du décret du 17 mai 2006 [...], sur l'inspection générale de l'administration de l'éducation nationale et de la recherche ainsi que sur le médiateur de l'éducation nationale et de l'enseignement supérieur, sur le haut fonctionnaire de défense et de sécurité et sur la mission ministérielle d'audit interne. Il dispose, en tant que de besoin, de la direction générale pour l'enseignement supérieur et l'insertion professionnelle et du délégué à l'information et à l'orientation mentionné à l'article L. 6123-4 du code du travail. » « Le ministre de l'éducation nationale assure, conformément à leurs dispositions statutaires, la tutelle des établissements publics relevant de ses attributions. ».
