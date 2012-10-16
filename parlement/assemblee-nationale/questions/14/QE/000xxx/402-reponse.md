@@ -1,0 +1,9 @@
+# Réponse à la question n° 402
+
+- Question : [402](402.md) — Question n° 402 — conducteurs; revendications; perspectives
+
+## Réponse
+
+*JO du 2012-10-16*
+
+Les usagers de deux roues motorisés représentent 2,5 % du trafic mais un quart des tués. Face à ce terrible constat, il a été mis en place dès 2009 une large concertation au cours de laquelle la Fédération Française des Motards en Colère s'est largement exprimée. Ainsi, comme cette dernière l'a souhaité, une formation de 7 heures, obligatoire, a été mise en place et rendue obligatoire le 1er janvier 2011 pour les titulaires du seul permis B souhaitant conduire une motocyclette légère ou un tricycle à moteur de la catégorie L5e . S'agissant des infrastructures, les travaux de la concertation ont abouti notamment à la réalisation d'un guide de recommandations à l'usage des gestionnaires de voirie, pour une meilleure prise en compte des usagers de deux-roues motorisés. Poursuivant cette concertation, le préfet Régis Guyot a présidé un groupe de travail, de février 2012 à juin 2012, chargé de rédiger un rapport susceptible d'évaluer l'autorisation de la circulation inter-files et l'obligation du port des équipements de protection individuelle pour les motocyclistes. Ce rapport, auquel la FFMC a pris une part très active, sera présenté prochainement. Par ailleurs, des mesures dédiées aux deux-roues motorisés prises lors du comité interministériel de la sécurité routière du 11 mai 2011 répondent aux besoins spécifiques des motocyclistes en matière de sécurité routière. Pour inciter les usagers de deux-roues motorisés à mieux s'équiper, un guide dédié a été réalisé et diffusé à près d'un million d'exemplaires par la Sécurité routière. Le contrôle technique de tous les deux-roues motorisés n'est pas d'actualité. Cette mesure sera abordée prochainement dans le cadre des travaux à longs termes de la Commission européenne.
