@@ -1,0 +1,9 @@
+# Réponse à la question n° 225
+
+- Question : [225](225.md) — Question n° 225 — douanes; orphelins; centres d'accueil; subventions
+
+## Réponse
+
+*JO du 2012-10-16*
+
+L'oeuvre des orphelins des douanes est une association qui joue un rôle essentiel dans le cadre de l'action sociale de la direction générale des douanes et droits indirects (DGDDI). La communauté douanière et le ministère chargé du budget sont très attachés aux actions menées par cette association en faveur des enfants des douaniers, notamment les plus fragilisés et ceux souffrant de handicap, aux valeurs de solidarité qu'elle véhicule et au lien social qu'elle consolide. Ce lien privilégié se matérialise par un soutien constant de la DGDDI, laquelle apporte une aide très importante à l'oeuvre des orphelins des douanes (ODOD), au plan financier avec une subvention annuelle conséquente en matière de fonctionnement, au plan matériel avec la mise à disposition de deux agents auprès de l'association et en matière de facilités de service par l'octroi d'autorisations d'absence permettant aux 48 délégués régionaux de participer régulièrement à la vie de cette association. Une nouvelle convention financière a été finalisée en fin d'année 2011 et signée le 10 janvier 2012. Elle permet à l'association d'être dotée de plus de 5,2 millions d'euros pour cette année. S'agissant des moyens financiers qui pourront être mobilisés pour 2013, ils ne pourront pas s'affranchir du contexte budgétaire général. Par ailleurs, diverses pistes ont été évoquées avec l'ODOD en vue de lui permettre d'une part, d'obtenir des ressources supplémentaires (ouverture de l'internat de Chalès à d'autres ministères, recherche de nouvelles sources de financement extérieur...) d'autre part, d'explorer les marges existantes dans ses dépenses de fonctionnement.
