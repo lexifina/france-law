@@ -1,0 +1,9 @@
+# Réponse à la question n° 368
+
+- Question : [368](368.md) — Question n° 368 — recueil des usages de la profession; élaboration
+
+## Réponse
+
+*JO du 2012-10-16*
+
+La loi n° 2009-669 du 12 juin 2009 favorisant la diffusion et la protection de la création sur Internet a modifié l'article L. 132-27 du code de la propriété intellectuelle en y ajoutant un alinéa ainsi rédigé : « Les organisations représentatives des producteurs, les organisations professionnelles d'auteurs et les sociétés de perception et de répartition des droits mentionnées au titre II du livre III peuvent établir conjointement un recueil des usages de la profession. » Elle complète ainsi cet article issu de la loi du 11 mars 1957 aux termes duquel « le producteur est tenu d'assurer à l'oeuvre audiovisuelle une exploitation conforme aux usages de la profession ». Cet ajout avait pour objet de clarifier et de formaliser les « usages de la profession », qui fondent les obligations du producteur en matière d'exploitation des oeuvres audiovisuelles, afin de favoriser notamment l'exploitation numérique de ces oeuvres et ainsi de développer les catalogues d'offre légale. Des discussions entre les organisations représentatives des producteurs, les organisations professionnelles d'auteurs et les sociétés de perception et de répartition des droits ont été effectivement engagées depuis la loi du 12 juin 2009, en vue de développer cette offre légale, notamment dans le cadre de la renégociation des accords sur la chronologie des médias et sur la rémunération des auteurs au titre de l'exploitation des oeuvres en vidéo à la demande. Il apparaît que la question de l'élaboration d'un recueil des usages n'a pas encore donné lieu à un rapprochement entre les parties. Un tel recueil pourrait éventuellement émerger de la mission qui a été confiée à M. Pierre Lescure sur « l'acte II de l'exception culturelle ».
