@@ -1,0 +1,9 @@
+# Réponse à la question n° 50
+
+- Question : [50](50.md) — Question n° 50 — blocage; impacts
+
+## Réponse
+
+*JO du 2012-10-16*
+
+La forte hausse des loyers constatée au moment de la relocation en Île-de-France et dans quelques grandes agglomérations a conduit le Gouvernement à encadrer certains loyers. Le décret n° 2012-894 du 20 juillet 2012 est une mesure nécessaire qui marque la volonté politique du Gouvernement d'agir rapidement dans les limites permises par la loi n° 89-462 du 6 juillet 1989 concernant les rapports locatifs. Ce décret, pris en application de l'article 18 de la loi susvisée, prévoit que les loyers tant à la relocation que lors d'un renouvellement de bail, ne peuvent subir d'augmentation autre que l'application de la variation de l'indice de référence des loyers (IRL). Cette disposition, qui ne s'applique pas aux logements neufs ou ayant fait l'objet de travaux depuis moins de six mois, prévoit des dérogations à la modalité d'encadrement, notamment lorsque le propriétaire a effectué des travaux d'améliorations ou lorsque le loyer est manifestement sous évalué. Le décret est entré en vigueur depuis le 1er août pour une durée d'un an. Un dispositif d'évaluation sera mis en place préalablement à toute reconduction éventuelle de ce régime d'encadrement des loyers. Ce dispositif est la première étape de la politique globale que le Gouvernement souhaite mener pour améliorer les conditions de vie des français, développer l'offre de logements et soutenir l'effort de construction. Dans les prochaines semaines, une large concertation sera engagée en vue d'aboutir à l'élaboration d'un projet de loi-cadre concernant les rapports propriétaires-locataires qui devrait être voté en 2013. Cette loi fixera notamment un encadrement durable des loyers qui s'appuiera sur des données provenant de plusieurs observatoires mis en place dans les prochains mois.
