@@ -1,0 +1,9 @@
+# Réponse à la question n° 1276
+
+- Question : [1276](1276.md) — Question n° 1276 — portables; antennes-relais; installation; réglementation
+
+## Réponse
+
+*JO du 2012-10-16*
+
+La mission du Comité opérationnel (COMOP) issu de la table ronde « Radiofréquences, santé, environnement » organisée par le Gouvernement en 2009 comportait effectivement deux volets. D'une part, il était chargé d'étudier la faisabilité technique d'un abaissement de l'exposition aux radiofréquences émises par la téléphonie mobile, notamment grâce à la modélisation dans plusieurs quartiers des niveaux d'exposition et des conséquences d'un abaissement sur la qualité du service, la couverture réseau et le nombre d'antennes. D'autre part, il devait identifier et valider de nouvelles procédures de concertation et d'information locale par des expérimentations dans plusieurs villes pilotes. Dans ce cadre, le Gouvernement a notamment indiqué que, même si les seuils réglementaires d'exposition ne nécessitent pas de révision en l'état actuel des connaissances, dès lors que l'exposition globale peut être réduite sans dégradation de la couverture ou de la qualité de service et à des coûts économiquement acceptables, cette réduction doit être envisagée. À la suite de la remise du rapport d'étape du COMOP, un comité technique associant l'ensemble des parties prenantes poursuit les travaux engagés sur chacun des deux volets. Ces travaux ont d'ores et déjà ouvert des pistes pour améliorer la situation lorsque des niveaux d'émission atypiques sont observés. Ils prévoient également une évaluation de l'impact d'une réduction de l'exposition sur la couverture du territoire, sur la qualité du service mobile et sur le nombre d'antennes, actuellement en cours. Il convient donc, avant de conclure sur ces sujets, d'attendre la fin des travaux du comité technique institué en octobre 2011.
