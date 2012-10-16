@@ -88,9 +88,7 @@ Ancienneté dans l'entreprise |
 
 90 jours |
 
-Si plusieurs absences pour maladie ou pour accident se produisent au cours d'une période de 12 mois comptée à partir du début de l'arrêt de travail en cours ouvrant un crédit d'indemnisation, la durée totale d'indemnisation ne pourra dépasser au cours de cette période les durées prévues ci-dessus.
-
-En cas d'épuisement du crédit d'indemnisation pendant une absence pour maladie, un nouveau crédit n'est ouvert, dans le cadre d'une nouvelle période de 12 mois, qu'après une reprise de travail de l'intéressé, confirmée par le médecin du travail.
+Pour le calcul des indemnités dues au titre d'une période de paie, il sera tenu compte des indemnités déjà perçues par l'intéressé durant les 12 mois antérieurs de telle sorte que si plusieurs absences pour maladie ou accident ont été indemnisées au cours de ces 12 derniers mois, la durée totale de l'indemnisation ne dépasse pas celle fixée ci-dessus, au titre de la maladie, d'une part, de l'accident de travail ou de la maladie professionnelle, d'autre part.
 
 La rémunération nette est évaluée sur la base :
 
