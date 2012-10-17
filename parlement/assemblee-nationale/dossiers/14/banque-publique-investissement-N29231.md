@@ -1,0 +1,69 @@
+# Economie : banque publique d’investissement (BPI)
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29231
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/banque_publique_investissement
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-176.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-10-17 : 1er dépôt d'une initiative. (PRJLANR5L14B0298)
+  - 2012-10-17 : Etude d'impact (ETDIANR5L14B0298)
+  - 2012-10-17 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-10-17 : Renvoi en commission au fond
+      - 2012-10-30 : Nomination de rapporteur
+      - 2012-11-21 : Réunion de commission
+      - 2012-11-21 : Réunion de commission
+      - 2012-11-21 : Dépôt de rapport (RAPPANR5L14B0433, PRJLANR5L14BTC0433)
+    - Travaux d'une commission saisie pour avis
+      - 2012-10-19 : Saisine pour avis d'une commission
+      - 2012-10-30 : Nomination de rapporteur
+      - 2012-11-13 : Réunion de commission
+      - 2012-11-13 : Dépôt de rapport (AVISANR5L14B0397)
+    - Travaux d'une commission saisie pour avis
+      - 2012-10-29 : Saisine pour avis d'une commission
+      - 2012-10-31 : Nomination de rapporteur
+      - 2012-11-14 : Dépôt de rapport (AVISANR5L14B0399)
+  - Discussion en séance publique
+    - 2012-11-29 : Discussion en séance publique
+    - 2012-11-29 : Discussion en séance publique
+    - 2012-11-29 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2012-11-30 : Dépôt d'une initiative en navette (PRJLSNR5S199B0176)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-11-30 : Renvoi en commission au fond
+      - 2012-11-27 : Nomination de rapporteur
+      - 2012-12-05 : Dépôt de rapport (RAPPSNR5S199B0187)
+    - Travaux d'une commission saisie pour avis
+      - 2012-11-13 : Saisine pour avis d'une commission
+      - 2012-11-13 : Nomination de rapporteur
+      - 2012-12-05 : Dépôt de rapport (AVISSNR5S199B0185)
+    - Travaux d'une commission saisie pour avis
+      - 2012-11-20 : Saisine pour avis d'une commission
+      - 2012-11-20 : Nomination de rapporteur
+      - 2012-12-05 : Dépôt de rapport (AVISSNR5S199B0186)
+  - Discussion en séance publique
+    - 2012-12-10 : Discussion en séance publique
+    - 2012-12-11 : Discussion en séance publique
+    - 2012-12-11 : Décision
+- Commission Mixte Paritaire
+  - 2012-12-12 : Dépôt d'un projet de loi (PRJLANR5L14B0488)
+  - 2012-12-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2012-12-13 : Nomination de rapporteur
+    - 2012-12-13 : Dépôt du rapport d'une CMP (RAPPANR5L14B0538)
+    - 2012-12-13 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0222)
+  - Discussion en séance publique
+    - 2012-12-19 : Discussion en séance publique
+    - 2012-12-19 : Décision
+  - Discussion en séance publique
+    - 2012-12-19 : Discussion en séance publique
+    - 2012-12-19 : Décision
+  - 2012-12-13 : Décision de la CMP
+- Promulgation de la loi
+  - 2012-12-31 : Promulgation d'une loi
