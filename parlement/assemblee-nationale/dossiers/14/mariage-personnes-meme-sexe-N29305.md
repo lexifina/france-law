@@ -1,0 +1,100 @@
+# Société : ouverture du mariage aux couples de même sexe
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29305
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/mariage_personnes_meme_sexe
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-349.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-11-07 : 1er dépôt d'une initiative. (PRJLANR5L14B0344)
+  - 2012-11-07 : Etude d'impact (ETDIANR5L14B0344)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-11-07 : Renvoi en commission au fond
+      - 2012-10-17 : Nomination de rapporteur
+      - 2012-12-18 : Réunion de commission
+      - 2013-01-15 : Réunion de commission
+      - 2013-01-16 : Réunion de commission
+      - 2013-01-29 : Réunion de commission
+      - 2013-01-30 : Réunion de commission
+      - 2013-01-17 : Dépôt de rapport (RAPPANR5L14B0628, PRJLANR5L14BTC0628)
+    - Travaux d'une commission saisie pour avis
+      - 2012-11-07 : Saisine pour avis d'une commission
+      - 2012-11-14 : Nomination de rapporteur
+      - 2012-11-14 : Réunion de commission
+      - 2013-01-14 : Réunion de commission
+      - 2013-01-15 : Dépôt de rapport (AVISANR5L14B0581)
+  - Discussion en séance publique
+    - 2013-01-29 : Discussion en séance publique
+    - 2013-01-29 : Discussion en séance publique
+    - 2013-01-30 : Discussion en séance publique
+    - 2013-01-30 : Discussion en séance publique
+    - 2013-02-01 : Discussion en séance publique
+    - 2013-02-01 : Discussion en séance publique
+    - 2013-02-01 : Discussion en séance publique
+    - 2013-02-02 : Discussion en séance publique
+    - 2013-02-02 : Discussion en séance publique
+    - 2013-02-02 : Discussion en séance publique
+    - 2013-02-03 : Discussion en séance publique
+    - 2013-02-03 : Discussion en séance publique
+    - 2013-02-03 : Discussion en séance publique
+    - 2013-02-04 : Discussion en séance publique
+    - 2013-02-04 : Discussion en séance publique
+    - 2013-02-05 : Discussion en séance publique
+    - 2013-02-05 : Discussion en séance publique
+    - 2013-02-06 : Discussion en séance publique
+    - 2013-02-06 : Discussion en séance publique
+    - 2013-02-07 : Discussion en séance publique
+    - 2013-02-07 : Discussion en séance publique
+    - 2013-02-08 : Discussion en séance publique
+    - 2013-02-08 : Discussion en séance publique
+    - 2013-02-08 : Discussion en séance publique
+    - 2013-02-12 : Discussion en séance publique
+    - 2013-02-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-02-12 : Dépôt d'une initiative en navette (PRJLSNR5S199B0349)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-02-12 : Renvoi en commission au fond
+      - 2012-11-14 : Nomination de rapporteur
+      - 2013-03-20 : Dépôt de rapport (RAPPSNR5S199B0437)
+    - Travaux d'une commission saisie pour avis
+      - 2013-02-06 : Saisine pour avis d'une commission
+      - 2013-02-06 : Nomination de rapporteur
+      - 2013-03-20 : Dépôt de rapport (AVISSNR5S199B0435)
+  - Discussion en séance publique
+    - 2013-04-04 : Discussion en séance publique
+    - 2013-04-05 : Discussion en séance publique
+    - 2013-04-08 : Discussion en séance publique
+    - 2013-04-09 : Discussion en séance publique
+    - 2013-04-10 : Discussion en séance publique
+    - 2013-04-11 : Discussion en séance publique
+    - 2013-04-12 : Discussion en séance publique
+    - 2013-04-04 : Motion référendaire
+    - 2013-04-12 : Décision
+- deuxième lecture
+  - 2013-04-12 : Dépôt d'une initiative en navette (PRJLANR5L14B0920)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-04-12 : Renvoi en commission au fond
+      - 2013-04-15 : Réunion de commission
+      - 2013-04-15 : Réunion de commission
+      - 2013-04-18 : Réunion de commission
+      - 2013-04-16 : Dépôt de rapport (RAPPANR5L14B0922, PRJLANR5L14BTC0922)
+  - Discussion en séance publique
+    - 2013-04-17 : Discussion en séance publique
+    - 2013-04-17 : Discussion en séance publique
+    - 2013-04-18 : Discussion en séance publique
+    - 2013-04-18 : Discussion en séance publique
+    - 2013-04-18 : Discussion en séance publique
+    - 2013-04-23 : Discussion en séance publique
+    - 2013-04-23 : Décision
+- Conseil constitutionnel
+  - 2013-04-23 : Saisine du conseil constitutionnel
+  - 2013-04-23 : Saisine du conseil constitutionnel
+  - 2013-05-17 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-05-17 : Promulgation d'une loi
