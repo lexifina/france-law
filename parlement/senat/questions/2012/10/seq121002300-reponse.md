@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002300
+
+- Question : [SEQ121002300](seq121002300.md) — Application de l'article 8 B du traité de Lisbonne
+
+## Réponse
+
+*Sports, jeunesse, éducation populaire et vie associative, JO du 2012-10-18, page 2317*
+
+La ministre chargée de la vie associative entretient un dialogue ouvert, transparent et régulier avec les grands réseaux associatifs et les coordinations associatives au premier rang desquelles la conférence permanente des coordinations associatives (CPCA). Cette association regroupe 16 coordinations associatives nationales des secteurs de l'éducation populaire, du sport, de l'action culturelle, de l'action sanitaire et sociale, de la solidarité internationale, des droits de l'Homme ou encore de la vie étudiante. Elle est naturellement l'un des interlocuteurs privilégiés des pouvoirs publics dans ce domaine. Dans le cadre de cette concertation, la charte des engagements réciproques signée en 2001 entre les coordinations associatives et les ministres concernés sera réactivée et déclinée chaque fois que cela sera possible, au plan national, territorial et sectoriel. Par ailleurs, le dialogue s'appuie aussi sur des outils comme le Haut Conseil à la vie associative, instance d'expertise placée auprès du Premier ministre, chargée d'éclairer les pouvoirs publics, consultée obligatoirement sur tout projet de loi ou de décret concernant, soit les associations sans considération de leur secteur d'activité, soit la vie associative. Le Conseil économique, social et environnemental représentant les différentes composantes de la société civile contribue également à cette politique de concertation par les avis qu'il produit à son initiative ou sur sollicitation. L'ensemble de ces instances et organismes concourt à la mise en œuvre des énoncés du Traité de Lisbonne en matière de dialogue civil.
