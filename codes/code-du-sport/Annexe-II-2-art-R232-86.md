@@ -150,8 +150,6 @@ Lorsqu'une affaire concerne un manquement aux dispositions de l'article L. 232-9
 
 -le licencié justifie être titulaire d'une autorisation d'usage à des fins thérapeutiques délivrée par l'Agence française de lutte contre le dopage, ou d'une autorisation d'usage à des fins thérapeutiques dont l'agence a reconnu la validité ;
 
--le licencié justifie avoir procédé à une déclaration d'usage auprès de l'Agence française de lutte contre le dopage, ou à une déclaration d'usage dont l'agence a reconnu la validité ;
-
 -le licencié dispose d'une raison médicale dûment justifiée définie à l'article R. 232-85-1.
 
 Cette décision est notifiée à l'intéressé et, le cas échéant, à la ou les personnes investies de l'autorité parentale ou au représentant légal par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé.
@@ -180,7 +178,7 @@ Lorsque l'analyse de l'échantillon B est pratiquée, la date de cette analyse e
 
 Article 20
 
-Lorsqu'à la suite d'un contrôle, l'analyse de l'échantillon A révèle la présence d'une substance interdite, de l'un de ses métabolites ou de ses marqueurs, ou l'utilisation d'une méthode interdite qui figurent sur la liste mentionnée au dernier alinéa de l'article L. 232-9 et que le licencié ne peut pas faire état d'une autorisation d'usage thérapeutique, d'une déclaration d'usage ou d'une raison médicale dûment justifiée, le président de l'organe disciplinaire ordonne à l'encontre du licencié, à titre conservatoire et dans l'attente de la décision de l'organe disciplinaire, une suspension provisoire de participer aux manifestations et aux compétitions mentionnées au 1° de l'article L. 230-3 du code du sport. La décision de suspension doit être motivée.
+Lorsqu'à la suite d'un contrôle, l'analyse de l'échantillon A révèle la présence d'une substance interdite, de l'un de ses métabolites ou de ses marqueurs, ou l'utilisation d'une méthode interdite qui figurent sur la liste mentionnée au dernier alinéa de l'article L. 232-9 et que le licencié ne peut pas faire état d'une autorisation d'usage thérapeutique ou d'une raison médicale dûment justifiée, le président de l'organe disciplinaire ordonne à l'encontre du licencié, à titre conservatoire et dans l'attente de la décision de l'organe disciplinaire, une suspension provisoire de participer aux manifestations et aux compétitions mentionnées au 1° de l'article L. 230-3 du code du sport. La décision de suspension doit être motivée.
 
 Si l'analyse de l'échantillon B ne confirme pas le rapport de l'analyse de l'échantillon A, cette suspension provisoire prend fin à compter de la réception par la fédération du rapport de l'analyse de l'échantillon B.
 
