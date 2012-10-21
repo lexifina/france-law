@@ -54,10 +54,4 @@ Génétique constitutionnelle ;
 
 Génétique somatique.
 
-Sous-domaine : assistance médicale à la procréation (AMP).
-
-Familles :
-
-Spermiologie ;
-
-Embryologie clinique.
+Sous-domaine : activités biologiques d'assistance médicale à la procréation.
