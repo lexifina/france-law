@@ -1,0 +1,9 @@
+# Réponse à la question n° 3576
+
+- Question : [3576](3576.md) — Question n° 3576 — citoyenneté d'honneur; réglementation
+
+## Réponse
+
+*JO du 2012-10-23*
+
+La décision d'une commune d'octroyer un hommage public relève de la compétence du conseil municipal, en application de l'article L.2121-29 du code général des collectivités territoriales aux termes duquel « le conseil municipal règle par ses délibérations les affaires de la commune ». Le conseil municipal est ainsi compétent en matière de dénomination des voies et bâtiments publics (CE, 2 février 1991, Commune de Montgeron, req. n° 84929), d'apposition de plaques commémoratives, ou d'attribution de toute autre forme d'hommage public telle que le titre de citoyen d'honneur, dès lors que l'attribution de cet hommage est conforme à un intérêt public local. La compétence du conseil municipal dans ce domaine fait l'objet d'un contrôle de l'erreur manifeste d'appréciation par le juge administratif. Ainsi, constitue une opération d'intérêt communal l'érection par une commune d'une sculpture commémorative d'un cardinal « compte tenu de l'ensemble des activités exercées et notamment du rôle joué » par celui-ci dans la commune (CE, 25 novembre 1988, Dubois, req. n° 65932). Dans la mesure où l'attribution d'un hommage doit être conforme à un intérêt public local, celui-ci ne doit être ni de nature à provoquer des troubles à l'ordre public, ni à heurter la sensibilité des personnes, ni à porter atteinte à l'image de la ville ou du quartier concerné, comme l'illustre le contrôle du juge administratif en matière de dénomination des espaces publics (CAA Marseille, 12 novembre 2007, Ville de Nice, req. n° 06MA01409). A ce jour, l'attribution de la distinction de citoyen d'honneur n'a pas donné lieu à contentieux et aucun recensement n'est effectué en la matière au niveau central.
