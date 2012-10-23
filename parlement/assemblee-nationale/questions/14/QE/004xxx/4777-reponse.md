@@ -1,0 +1,9 @@
+# Réponse à la question n° 4777
+
+- Question : [4777](4777.md) — Question n° 4777 — opposants; poursuites judiciaires; déroulement
+
+## Réponse
+
+*JO du 2012-10-23*
+
+La réconciliation est l'un des enjeux majeurs de l'édification de la Libye nouvelle. Elle passe par un refus de l'impunité mais aussi par la garantie d'un procès juste et équitable pour tous, y compris les dirigeants de l'ancien régime, et plus généralement par le respect des droits de tous. Les autorités libyennes l'ont bien compris et se sont engagées à plusieurs reprises à juger les dignitaires de l'ancien régime dans le respect des droits de l'Homme et des normes internationales. Elles auront néanmoins besoin d'aide pour relever cette mission, alors que l'Etat et ses institutions sont encore en construction en Libye. La France est mobilisée pour lui apporter toute l'assistance nécessaire à la mise en place d'un Etat de droit. Elle développe avec l'Etat libyen une coopération dans tous les domaines relevant de la gouvernance démocratique, y compris en matière de justice. Elle soutient par ailleurs le développement de la société civile libyenne, dont les associations des droits de l'Homme et d'avocats ont fait preuve d'un grand dynamisme depuis la chute de l'ancien régime. La communauté internationale est aussi active dans le domaine de la justice. La Mission d'appui des Nations Unies en Libye est en étroit contact avec les autorités libyennes concernant la mise en place d'une justice transitionnelle. La réforme du système judiciaire libyen constitue un des grands défis dans l'édification d'un Etat de droit, démocratique et efficace. Les nouvelles autorités libyennes ont marqué leur détermination à les relever, et peut compter sur l'appui de ses partenaires. Le gouvernement français poursuivra son dialogue et sa coopération avec la Libye pour que les principes fondamentaux pour lesquels les Libyens ont combattu soient respectés.
