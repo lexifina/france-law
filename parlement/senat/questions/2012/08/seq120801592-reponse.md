@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120801592
+
+- Question : [SEQ120801592](seq120801592.md) — Notification de la taxe foncière
+
+## Réponse
+
+*Économie et finances, JO du 2012-10-25, page 2403*
+
+En l'absence d'un relevé détaillé de leurs biens accompagnant l'avis d'imposition, les multi-propriétaires ne disposent pas d'informations précises sur l'imposition liée à chacune de leurs propriétés bâties lorsque celles-ci sont regroupées à une même adresse. En effet, les éléments figurant sur l'avis d'imposition de taxes foncières sont agrégés au niveau de chaque adresse. Aussi, les informations relatives aux garages peuvent parfois être distinguées des informations relatives aux appartements du fait de cette restitution par adresse : il est fréquent dans une résidence que l'adresse de l'entrée du parking soit différente de l'adresse de tout ou partie des appartements. La distinction opérée entre appartement et garage n'est ainsi aucunement liée à la consistance des biens, mais uniquement à la différence d'adresse constatée entre ceux-ci. Eu égard à la densité des informations figurant actuellement sur l'avis d'imposition, il paraît difficile de l'enrichir d'informations détaillées complémentaires. Au demeurant, un détail des avis au niveau de chaque local concerné pourrait conduire à des avis d'imposition volumineux, notamment dans le cas d'un multi-propriétaire (propriétaire unique d'un bâtiment entier par exemple). Toutefois, chaque contribuable peut obtenir ces informations (pour chaque local) par simple consultation de la documentation cadastrale. Cette consultation peut être effectuée soit à la mairie de la commune où sont situés les biens, soit au centre des finances publiques dont relève la commune (les coordonnées de ce centre figurent sur l'avis d'imposition de taxes foncières). À la demande du contribuable, une copie de ce relevé peut être délivrée par ces mêmes services.
