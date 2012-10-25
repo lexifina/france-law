@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120623741
+
+- Question : [SEQ120623741](seq120623741.md) — Suppression de l'épreuve facultative portant sur langue étrangère ou régionale pour le bac STMG
+
+## Réponse
+
+*Éducation nationale, JO du 2012-10-25, page 2405*
+
+La préservation et la transmission des langues régionales constituent une des missions du système éducatif. C'est pourquoi, dans le cadre de la réforme du lycée, la place des langues régionales n'a en aucun cas été marginalisée. Bien au contraire, elles peuvent désormais faire partie des enseignements obligatoires dès la classe de seconde au titre de la langue vivante 2. Dès lors, dans la continuité de ces enseignements, les bacheliers de la série STG du baccalauréat technologique bénéficient d'une épreuve de langue étrangère ou régionale dans le cadre de l'épreuve obligatoire de langue vivante 2. Dans le cadre de cette épreuve sont proposées aux candidats les langues régionales suivantes : basque, breton, catalan, corse, créole, occitan langue d'oc, langues mélanésiennes et tahitien. Il est à souligner que cette épreuve obligatoire de LV2 peut être passée par tout candidat, quelle que soit son académie d'origine et cela même s'il n'existe pas d'examinateur dans celle-ci. À compter de la session 2013, les nouvelles modalités des épreuves obligatoires de langues sont exhaustives puisqu'elles permettent d'apprécier les compétences orales comme les compétences écrites. Cette évolution contribue à valoriser la pratique des langues régionales, puisque leur caractère vivant et parlé est pleinement pris en compte dans l'enseignement comme dans l'évaluation. Cela présente une plus-value par rapport aux épreuves facultatives qui n'évaluent que les compétences orales et dont l'organisation est soumise à une zone d'influence et à des impératifs organisationnels (présence d'un examinateur compétent dans l'académie).
