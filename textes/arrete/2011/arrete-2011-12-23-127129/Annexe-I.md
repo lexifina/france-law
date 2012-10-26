@@ -78,9 +78,9 @@ Eaux de lavage : les eaux issues des opérations de lavage. La citerne est déba
 
 Les aires de lavage des citernes, fûts et autres contenants, sont aménagées de façon à limiter les projections résultant du lavage à cette zone et à canaliser les effluents.
 
-Ces aires sont implantées à une distance minimale de 10 m des limites de propriété.
+Ces aires sont implantées à une distance minimale de 10 m par rapport aux tiers.
 
-Les activités de lavage de citernes de transport des matières dangereuses sont exercées dans un bâtiment couvert.
+Les activités de lavage de citernes de transport des matières dangereuses au titre de la réglementation ADR sont exercées dans un bâtiment couvert.
 
 2.2. Intégration dans le paysage
 
@@ -174,7 +174,9 @@ Le sol des aires et des locaux de réception, d'entreposage et, plus largement, 
 
 2.10. Cuvettes de rétention
 
-Tout stockage de produits, de produits d'égouttures éventuels et de déchets liquides dangereux, ou susceptibles de créer une pollution de l'eau ou du sol (à l'exception des eaux de lavage) est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
+Tout stockage de produits, de produits d'égouttures éventuels et de déchets liquides dangereux, ou susceptibles de créer une pollution de l'eau ou du sol (à l'exception des eaux de lavage) et des effluents phytosanitaires dont le stockage est réglementé par l'arrêté du 12 septembre 2006 relatif à la mise sur le marché et à l'utilisation des produits visés à l'article L. 253-1 du code rural et
+
+de la pêche maritimeest associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
 
 100 % de la capacité du plus grand réservoir ;
 
@@ -373,6 +375,8 @@ Le raccordement à une nappe d'eau ou au réseau public de distribution d'eau po
 L'usage du réseau d'eau incendie est strictement réservé aux sinistres et aux exercices de secours, ainsi qu'aux opérations d'entretien ou de maintien hors gel de ce réseau.
 
 Les installations de prélèvement doivent être munies d'un dispositif de mesure totaliseur. Le relevé du totaliseur est effectué au minimum une fois par mois et est porté sur un registre consigné dans le dossier "installations classées" prévu au point 1.4.
+
+A défaut, en cas d'impossibilité d'un compteur dédié à l'installation de lavage, l'exploitant évalue la quantité d'eau consommée par cette installation.
 
 5.4. Consommation
 

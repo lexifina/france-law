@@ -18,7 +18,7 @@ Les dispositions sont applicables aux installations existantes selon le calendri
 
 1. Dispositions générales
 
-2. Implantation - aménagement (sauf 2.4, 2.9, 2.11, 3e alinéa 2.5 et 2e alinéa du 2.1)
+2. Implantation - aménagement (sauf 2.4, 2.9, 2.11, 3e alinéa 2.5 et 2e et 3e alinéa du 2.1)
 
 3. Exploitation-entretien
 

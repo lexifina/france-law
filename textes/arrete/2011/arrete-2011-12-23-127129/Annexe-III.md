@@ -132,13 +132,17 @@ Présence de jauges de niveau sur les réservoirs fixes et présence de disposit
 
 Vérification de la position fermée du dispositif d'obturation.
 
-Vérification du positionnement de vidange des cuves à l'intérieur des rétentions.
-
 Vérification que les vannes sont cadenassées en dehors des opérations de transvasement.
 
-Présentation de la consigne.
-
 Présence de cuvettes de rétention séparées pour les produits ou déchets incompatibles ou susceptibles de réagir dangereusement ensemble.
+
+2.11. Isolement du réseau de collecte
+
+Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés de sorte à prévenir les pollutions accidentelles, en maintenant notamment sur le site les eaux d'extinction d'un sinistre ou les matières écoulées lors d'un accident de transport. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
+
+Objet du contrôle :
+
+Présentation de la consigne.
 
 3. Exploitation - Entretien
 
