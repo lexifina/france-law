@@ -126,6 +126,16 @@ Uniquement dans la région de provenance CSA 800 "Corse".
 
 |
 
+Eucalyptus spp.
+
+|
+
+Espèces du genre Eucalyptus spp. et hybrides artificiels entre ces espèces
+
+|
+
+|
+
 Fraxinus angustifolia Vahl.
 
 |

@@ -1,8 +1,6 @@
 # Article Annexe 1
 
-Liste des essences soumises aux dispositions du code forestier,
-
-chapitre IV du titre V du livre V, nom botanique et nom commun
+Liste des espèces et hybrides artificiels relevant des dispositions du code forestier (chapitre IV du titre V du livre V)
 
 Nom botanique
 
@@ -121,6 +119,12 @@ Cedrus libani A.Richard
 |
 
 Cèdre du Liban.
+
+|
+
+Eucalyptus spp. |
+
+Espèces du genre Eucalyptus spp. et hybrides artificiels entre ces espèces
 
 |
 
@@ -352,7 +356,7 @@ Populus spp.
 
 |
 
-Espèces du genre peuplier.
+Espèces du genre Populus spp. et hybrides artificiels entre ces espèces
 
 |
 

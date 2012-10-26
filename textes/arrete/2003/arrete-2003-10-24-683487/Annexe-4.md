@@ -172,10 +172,6 @@ Pin maritime
 
 |
 
-1) En dehors de la région de provenance PPA 301 "Massif landais" et des régions administratives Bretagne et Pays-de-la-Loire ;
-
-2) Y compris la région de provenance PPA 301 "Massif landais" et les régions administratives Bretagne et Pays-de-la-Loire, à compter du 1er juillet 2012.
-
 |
 
 Pinus sylvestris L.
@@ -195,8 +191,6 @@ Pseudotsuga menziesii (Mirb.) Franco
 Douglas vert
 
 |
-
-A compter du 1er juillet 2012
 
 |
 
