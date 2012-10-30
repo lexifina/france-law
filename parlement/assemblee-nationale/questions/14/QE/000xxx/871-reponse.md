@@ -1,0 +1,9 @@
+# Réponse à la question n° 871
+
+- Question : [871](871.md) — Question n° 871 — action gérontologique et ingénierie sociale; master; perspectives
+
+## Réponse
+
+*JO du 2012-10-30*
+
+¿¿¿¿¿¿L'agence d'évaluation de la recherche et de l'enseignement supérieur (AERES) a évalué le master « Action gérontologique et ingénierie sociale » dans le cadre du processus de contractualisation de l'université Aix Marseille, évaluation très mitigée venant confirmer l'évaluation faite au contrat précédent. Cette formation a fait l'objet de recommandations sur différents points importants : composition de l'équipe pédagogique (peu d'enseignants-chercheurs), conception des unités d'enseignement, appui recherche (cohérence des axes de recherche des laboratoires et objectifs de la formation). Or, même pour une formation à vocation directement professionnelle, le ministère ne peut négliger la qualité de la formation académique requise au niveau du master. Le principal atout de cette formation est son taux déclaré d'insertion professionnelle, soit 100 %. C'est pour tenir compte de ce point que dans le cadre de la procédure de contractualisation, la direction générale pour l'enseignement supérieur et l'insertion professionnelle (DGESIP) a proposé au conseil national de l'enseignement supérieur et de la recherche (CNESER) de prolonger l'habilitation existante d'un an afin de permettre à l'université de produire un bilan exhaustif de cette formation tant quantitatif que qualitatif en fournissant notamment pour l'insertion professionnelle, la nature des emplois occupés. Suite à l'examen positif des éléments fournis par l'université dès le mois de mai 2012, la DGESIP a proposé au CNESER du 22 mai 2012 un avis favorable concernant cette formation. Le master « Action gérontologique et ingénierie sociale » a donc été habilité pour six ans dans la structuration existante, soit la durée du contrat 2012-2017.
