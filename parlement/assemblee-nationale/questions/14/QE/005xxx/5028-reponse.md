@@ -1,0 +1,9 @@
+# Réponse à la question n° 5028
+
+- Question : [5028](5028.md) — Question n° 5028 — farines animales; poltiques communautaires
+
+## Réponse
+
+*JO du 2012-10-30*
+
+Le 16 juillet 2010, la Commission européenne a adopté une feuille de route faisant état d'un nouveau programme d'actions pour les cinq années à venir, en matière de lutte contre les encéphalopathies spongiformes transmissibles. Parmi les mesures envisagées, figure le réexamen de certains aspects de l'interdiction totale d'usage des protéines animales transformées (PAT) dans l'alimentation des animaux producteurs de denrées alimentaires. Les PAT, dont il est question dans cette feuille de route, concernent des protéines issues de carcasses de non-ruminants (porcs ou volailles), ayant fait l'objet, a minima, d'une inspection ante mortem favorable à l'abattoir, et pour lesquelles une méthode de transformation normalisée d'hygiénisation, combinant des paramètres de température, pression, durée, et granulométrie, sont appliquées. Le texte modifiant la réglementation actuelle (annexe IV du règlement (CE) n° 999/2001) a été présenté au vote des Etats membres le 18 juillet 2012. Il avait fait l'objet de nombreuses discussions et il reprend des conditions de sécurisation des filières et la mise en place de méthodes d'analyses adaptées. Il concerne l'autorisation d'utilisation de protéines animales transformées de non ruminants uniquement à destination de l'alimentation des animaux aquatiques à partir du 1er juin 2013. La France a voté contre ce projet pour des raisons de difficultés d'acceptation sociétale vis à vis de cette réintroduction. Ce texte ne sera adopté définitivement qu'après les 3 mois de droit de regard du Conseil et du Parlement européen conformément à la procédure de réglementation avec contrôle. La mise en oeuvre de ce texte ne pourra donc intervenir qu'après l'adoption définitive ainsi que la publication de celui-ci.
