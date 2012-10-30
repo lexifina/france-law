@@ -1,0 +1,9 @@
+# Réponse à la question n° 4203
+
+- Question : [4203](4203.md) — Question n° 4203 — aide d'urgence française; bilan
+
+## Réponse
+
+*JO du 2012-10-30*
+
+En accord avec les autorités jordaniennes, la France a décidé, au début du mois d'août 2012, de déployer un groupement médico-chirurgical (GMC) sur le site du camp de réfugiés de Za'taari, administré par l'Organisation des Nations unies, afin d'apporter une aide d'urgence aux victimes des combats en Syrie et un soutien sanitaire aux réfugiés. Ce GMC est opérationnel depuis le 14 août dernier et offre une capacité d'accueil de 15 lits. A l'intérieur comme aux abords du camp, la sécurité est assurée par les forces de gendarmerie jordaniennes ; le GMC disposant pour sa part d'une capacité de protection, en dernier ressort, des personnes et des biens. Les blessés en provenance de la Syrie sont accueillis à la frontière par les autorités jordaniennes, puis dirigés vers les structures médicales les plus proches, au nombre desquelles figure le GMC. Ils sont réorientés vers ces autorités après avoir reçu les soins appropriés. Il n'existe dans ces conditions aucun moyen de distinguer un combattant d'une victime civile lors de l'arrivée d'une personne blessée au GMC. A la date du 16 septembre 2012, le GMC a effectué 1194 actes médicaux, 82 consultations psychologiques et 37 opérations chirurgicales. Il a en outre conduit, conjointement avec l'hôpital marocain déployé sur le même site, une campagne de vaccination contre la rougeole et la poliomyélite au profit de 4 389 enfants. Le surcoût de cette opération, couvrant les dépenses liées au déploiement et au fonctionnement du GMC sur une période de 6 semaines, s'élève à 2 M€. Au total, 81 militaires déployés en Jordanie, incluant 28 personnes du service de santé des armées, contribuent à l'accomplissement de cette action d'aide humanitaire.
