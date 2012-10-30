@@ -1,0 +1,9 @@
+# Réponse à la question n° 5045
+
+- Question : [5045](5045.md) — Question n° 5045 — indemnisation; champ d'application
+
+## Réponse
+
+*JO du 2012-10-30*
+
+Très attaché au devoir de mémoire, le ministre délégué auprès du ministre de la défense, chargé des anciens combattants est particulièrement attentif au dossier des orphelins de guerre. Il assure l'honorable parlementaire de sa compréhension pour la souffrance et les peines endurées par celles et ceux que la guerre a privés de leurs parents. Il mesure leur incompréhension depuis que deux décrets, l'un du 13 juillet 2000, l'autre du 27 juillet 2004, ont posé les termes d'une indemnisation. Le ministre connaît leurs attentes. Cependant, il ne saurait être occulté que la justification fondamentale du dispositif mis en oeuvre repose sur le caractère spécifique de la reconnaissance des conditions d'extrême barbarie propres à certaines disparitions pendant la Seconde Guerre mondiale. Seul un décret unique définissant une solution qui tienne le plus grand compte de l'équité et corrige les principales inégalités constatées dans l'application de la notion de victimes d'actes de barbarie pendant la Seconde Guerre mondiale, pourrait alors remplacer et compléter ceux de 2000 et 2004. Les différentes associations d'orphelins et les associations d'anciens combattants pourraient être à nouveau consultées. Toutefois, la situation actuelle de nos finances publiques impose une rigueur et une vigilance budgétaires durables. Dans ces conditions, la parution d'un décret unique ne paraît pas envisageable pour l'instant. En effet, son coût impliquerait un niveau d'engagement financier difficilement compatible avec celui de nos finances publiques actuelles. Il y va de l'intérêt général que l'adoption d'une mesure d'indemnisation globale soit reportée à des échéances budgétaires plus clémentes.
