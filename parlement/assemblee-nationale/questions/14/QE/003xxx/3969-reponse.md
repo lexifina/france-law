@@ -1,0 +1,9 @@
+# Réponse à la question n° 3969
+
+- Question : [3969](3969.md) — Question n° 3969 — mutation immobilière; montant
+
+## Réponse
+
+*JO du 2012-10-30*
+
+Les mutations à titre onéreux d'immeubles affectés à l'habitation, sont soumises aux droits de mutation à titre onéreux (DMTO) à un taux global de 5,09 % : à un droit départemental plafonné à 3,80 % s'ajoutent une taxe additionnelle communale de 1,20 % perçue au profit soit de la commune (article 1584 du code général des impôts - CGI) soit du fonds de péréquation départemental (article 1595 bis du CGI), qui peut être réduite jusqu'à 0,5 % sur délibération des conseils municipaux (article 1584 bis du CGI), ainsi qu'un prélèvement de 2,37 % de la taxe départementale pour frais d'assiette et de recouvrement. Les DMTO représentent une part conséquente des recettes des collectivités territoriales (départements et communes). Compte tenu des contraintes budgétaires qui pèsent sur ces dernières, une mesure d'allégement de ces droits pour favoriser l'accession à la propriété des ménages ou la mobilité des travailleurs, aussi digne d'intérêt soit-elle, n'est pas envisagée. En effet, une baisse des taux diminuerait mécaniquement les recettes des collectivités territoriales. Il est néanmoins rappelé que les conseils généraux ont la possibilité d'instituer sur l'assiette des droits un abattement d'un montant compris entre 7 600 € et 46 000 €, à la condition que l'acquéreur prenne l'engagement de ne pas affecter l'immeuble à un usage autre que celui de l'habitation pendant une durée de trois ans à compter de la date de l'acte d'acquisition. Par ailleurs, en vertu de l'article 1594 D du CGI, le taux du droit départemental peut être modifié par les conseils généraux sans que ces modifications puissent avoir pour effet de le réduire à moins de 1,20 % ou de le relever au-delà de 3,80 %.
