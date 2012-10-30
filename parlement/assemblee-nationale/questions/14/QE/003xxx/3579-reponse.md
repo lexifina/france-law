@@ -1,0 +1,9 @@
+# Réponse à la question n° 3579
+
+- Question : [3579](3579.md) — Question n° 3579 — loi de programmation militaire; bilan et perspectives
+
+## Réponse
+
+*JO du 2012-10-30*
+
+Au regard de la démarche volontariste engagée par le Gouvernement pour assurer le redressement et le retour à l'équilibre des finances publiques à l'horizon 2017 et des contraintes qui pèsent sur ces dernières, les perspectives de ressources du ministère de la défense au cours des prochaines années rendent nécessaire une nouvelle expertise des besoins, des priorités, ainsi que des efforts à conduire pour l'avenir. A cet égard, la rédaction d'un nouveau livre blanc sur la défense et la sécurité nationale, décidée par le Président de la République, permettra de clarifier, en prenant en considération le contexte financier, les choix concernant notre stratégie de défense, les missions des forces armées et les capacités dont elles doivent être dotées pour les remplir, dans le respect des principes de souveraineté et d'indépendance qui gouvernent la politique de défense de notre pays. Consécutivement à l'approbation du futur livre blanc en conseil de défense et de sécurité nationale, prévue au début de l'année 2013, les services du ministère entameront sans délai les travaux physico-financiers de préparation de la prochaine loi de programmation militaire 2014-2019. Ils tiendront compte, comme une donnée d'entrée, de la trajectoire des ressources de la mission « Défense » pour les années 2013-2015 qui sera votée par le Parlement dans le cadre de la loi de programmation des finances publiques. Le schéma selon lequel l'élaboration du livre blanc sur la défense et la sécurité nationale de 2008 avait précédé la rédaction et l'adoption de la loi de programmation militaire pour les années 2009 à 2014, dont la Cour des comptes a souligné le caractère vertueux, sera ainsi reproduit.
