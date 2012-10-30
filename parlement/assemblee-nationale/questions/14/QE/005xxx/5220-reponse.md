@@ -1,0 +1,9 @@
+# Réponse à la question n° 5220
+
+- Question : [5220](5220.md) — Question n° 5220 — plan Écophyto; organismes de formation; habilitation
+
+## Réponse
+
+*JO du 2012-10-30*
+
+Le certificat individuel professionnel produits phytopharmaceutiques - dit communément « certiphyto » - se décline en fonction de l'activité professionnelle : application, distribution, conseil. Le certificat est délivré par la direction régionale de l'agriculture, de l'alimentation et de la forêt, autorité administrative. Il est accessible par différentes voies telles que le test (voie B), le test et la formation (voie C) ou la formation (voie D). Ces voies d'accès sont mises en oeuvre par des organismes de formation habilités à cet effet. Un organisme de formation s'entend en référence à la réglementation en matière de prestation de formation et relevant du Code du travail. Les conditions d'habilitation ainsi que le dossier de demande sont définis par l 'arrêté du 21 octobre 2011. L'habilitation est accordée par le directeur régional de l'alimentation, de l'agriculture et de la forêt (DRAAF) après étude du dossier de demande en réponse au cahier des charges. Cette habilitation couvre donc une région administrative. Pour un organisme de formation déposant une demande d'intervention sur au moins deux régions, l'habilitation est prononcée par la directrice générale de l'enseignement et de la recherche (DGER). Il appartient à chaque organisme de formation, en réponse au cahier des charges, d'expliciter les moyens humains et matériels dont il dispose, son expérience et la qualification des formateurs pour dispenser chacune des quatre thématiques mentionnées par la loi du 12 juillet 2010 portant engagement national pour l'environnement. L'habilitation se traduit par une décision administrative du DRAAF ou de la DGER pour une durée de trois ans renouvelable.
