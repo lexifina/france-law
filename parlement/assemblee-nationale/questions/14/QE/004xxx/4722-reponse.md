@@ -1,0 +1,9 @@
+# Réponse à la question n° 4722
+
+- Question : [4722](4722.md) — Question n° 4722 — consulats; accueil des administrés; qualité
+
+## Réponse
+
+*JO du 2012-10-30*
+
+Le ministère des affaires étrangères attache une importance particulière à la question de la qualité de l'accueil dans les postes diplomatiques et consulaires. Les postes doivent, en effet, offrir aux Français résidents ou de passage à l'étranger l'accueil empreint de courtoisie et de professionnalisme qu'ils sont en droit d'attendre d'une implantation diplomatique ou consulaire française à l'étranger. Tout manquement signalé entraîne une enquête et les obligations qui incombent aux agents leur sont fermement rappelées à ces occasions. Les chefs de poste et leurs adjoints sont, pour leur part, sensibilisés à la question de l'accueil lors des séminaires et des stages de formation qui leur sont proposés à l'occasion de leur prise de fonctions. L'institut de formation aux affaires administratives et consulaires propose également aux agents consulaires des modules sur ces questions (jeux de rôles, mises en situation). La création du portail « MonConsulat. fr » s'est inscrite dans cette démarche d'amélioration du service public consulaire. Le lancement prochain, dans une dizaine de postes pilotes de dispositifs mobiles permettant de recueillir les empreintes biométriques pour les demandes de passeport vise également à répondre à ce souci de facilitation des démarches pour nos compatriotes. Par ailleurs, le ministère a lancé un programme de réformes destinées à simplifier ou dématerialiser certaines procédures. Enfin, le Ministre et la Ministre déléguée chargée des français de l'étranger ont confié à Monsieur l'Ambassadeur Daniel Lequertier une mission destinée à identifier d'ici fin 2012 les réformes envisageables s'agissant du réseau consulaire, ses missions et ses moyens.
