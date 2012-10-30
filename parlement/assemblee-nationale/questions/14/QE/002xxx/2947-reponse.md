@@ -1,0 +1,9 @@
+# Réponse à la question n° 2947
+
+- Question : [2947](2947.md) — Question n° 2947 — prestataires établis à l'étranger; obligations des clients; réglementation
+
+## Réponse
+
+*JO du 2012-10-30*
+
+Depuis le 1er septembre 2006, les dispositions du deuxième alinéa du 1 de l'article 283 du code général des impôts (CGI) prévoient que lorsqu'une prestation de service taxable en France est effectuée par un assujetti établi hors de France à destination d'un client identifié à la taxe sur la valeur ajoutée (TVA) en France, la taxe doit être acquittée par le client selon le mécanisme de l'auto-liquidation. Ce mécanisme de lutte contre la fraude a uniquement pour objet de changer le redevable de la TVA dans les relations entre entreprises et nullement d'exonérer lesdits échanges de TVA. Ainsi, la collecte et le paiement de la taxe incombent au client en lieu et place du prestataire qui, de ce fait, ne facture plus la taxe, afin de mettre un terme à tout risque de non paiement de la taxe pour défaillance dudit prestataire non établi en France. Ce dispositif garantit parfaitement la neutralité de la TVA et n'obère en rien la compétitivité des entreprises françaises dès lors que dans tous les cas les opérations sont taxables. D'ailleurs, en cas de contrôle, les entreprises qui ont omis d'auto-liquider la taxe s'exposent à une amende de 5 % de la somme déductible conformément à l'article 1788 A du CGI. En outre, ce système est sans conséquence pour le budget de l'Etat puisque l'auto-liquidation de la TVA est une « opération blanche » pour le client qui, après avoir collecté la taxe, la déduit immédiatement. Enfin, il convient de signaler que la situation des entreprises françaises qui interviennent en Espagne est similaire à celle des entreprises espagnoles au regard de la TVA dès lors que ce pays applique aussi le mécanisme de l'auto-liquidation pour les entreprises étrangères non établies sur son territoire.
