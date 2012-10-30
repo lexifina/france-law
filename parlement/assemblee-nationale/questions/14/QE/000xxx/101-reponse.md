@@ -1,0 +1,9 @@
+# Réponse à la question n° 101
+
+- Question : [101](101.md) — Question n° 101 — tarifs; évolution
+
+## Réponse
+
+*JO du 2012-10-30*
+
+Le Gouvernement, très sensible à l'impact sur le pouvoir d'achat des tarifs de l'énergie, dans un contexte de progression de la précarité énergétique, a souhaité contenir la hausse de juillet pour le gaz et l'électricité au niveau de l'inflation, soit 2 %. Cette décision est destinée à protéger le budget des ménages, en particulier les plus modestes. Par ailleurs, le Conseil d'Etat a prononcé le 10 juillet dernier l'annulation de l'arrêté du 29 septembre 2011 par lequel le précédent Gouvernement avait gelé partiellement les tarifs en distribution publique pour une période de 3 mois et enjoint aux ministres en charge de l'énergie et de l'économie de prendre un nouvel arrêté à portée rétroactive, autorisant le fournisseur GDF-Suez à refacturer pour le trimestre considéré l'écart entre la hausse qui aurait dû intervenir et les tarifs effectivement appliqués. Dans un contexte de hausse des cours internationaux de l'énergie, le Gouvernement a donc souhaité engager une réflexion approfondie sur le cadre tarifaire actuel, afin de renforcer la lutte contre la précarité énergétique, et mettre en place un mécanisme de tarification progressive. Ce modèle de tarification devrait permettre à chaque ménage d'accéder à un forfait d'énergie de base à prix bonifié, visant à satisfaire les besoins essentiels. Enfin, concernant le contrôle des coûts d'approvisionnement en gaz de GDF-Suez, il convient de rappeler que la formule tarifaire est régulièrement auditée par la Commission de régulation de l'énergie (CRE), le dernier audit ayant été remis au Gouvernement en septembre 2011, et les conclusions de celui-ci ayant largement inspiré la nouvelle formule tarifaire entrée en vigueur au 1er janvier 2012.
