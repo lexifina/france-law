@@ -1,0 +1,9 @@
+# Réponse à la question n° 3403
+
+- Question : [3403](3403.md) — Question n° 3403 — concours; organisation
+
+## Réponse
+
+*JO du 2012-10-30*
+
+Le corps des officiers de gendarmerie, à l'instar de l'ensemble des corps militaires, est construit autour de voies de recrutement classiques (externe et interne). Ces modalités de recrutement répondent parfaitement aux besoins de l'institution en permettant, en externe, le recrutement de jeunes diplômés et, en interne, de personnels expérimentés. Ces voies de recrutement assurent également un rôle de promotion de la diversité et permettent à la gendarmerie de rester en phase avec la société civile : ainsi, une classe préparatoire intégrée permet à des jeunes de milieu modeste de préparer le concours externe d'officier de gendarmerie. Le concours réservé aux fonctionnaires de catégorie A a également pour but d'ouvrir l'institution à des candidats titulaires d'une expérience professionnelle plurielle. Les concours dits de troisième voie (ou troisième concours) permettent aux personnes disposant d'une expérience élective, syndicale, associative ou professionnelle d'accéder à certains corps ou cadres d'emplois, en particulier dans la fonction publique territoriale. Un concours dit « de troisième voie » pour la gendarmerie nationale ne répondrait à aucun besoin particulier de recrutement. Il convient également de rappeler que les missions du corps des officiers de gendarmerie s'exercent en matière de police judiciaire, de police administrative, de sécurité et de défense : toutes les expériences professionnelles antérieures ne sont pas nécessairement transposables dans un métier aussi spécifique. Il faut noter qu'une telle logique prévaut également pour des corps civils aux missions similaires (fonctionnaires actifs de la police nationale).
