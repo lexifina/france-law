@@ -1,0 +1,9 @@
+# Réponse à la question n° 930
+
+- Question : [930](930.md) — Question n° 930 — assiette; réglementation
+
+## Réponse
+
+*JO du 2012-10-30*
+
+L'intégration de l'abattement de 20 % dans le barème de l'impôt sur le revenu, dans le cadre de la loi de finances pour 2006, s'est accompagnée corrélativement de mesures de correction apportées aux revenus, qui ne bénéficiaient pas auparavant de cet avantage. Ainsi, le 4° du I de l'article 76 de la loi de finances pour 2006, codifié au 1° du 7 de l'article 158 du code général des impôts (CGI), prévoit que le montant des revenus passibles de l'impôt sur le revenu dans la catégorie des bénéfices industriels et commerciaux (BIC), des bénéfices non commerciaux (BNC) ou des bénéfices agricoles (BA), réalisés par des contribuables soumis à un régime réel d'imposition est multiplié par un coefficient de 1,25 pour les contribuables qui ne sont pas adhérents d'un centre de gestion ou d'une association agréée, ou, à compter du 1er janvier 2010, pour ceux qui ne font pas appel aux services d'un expert comptable, d'une société membre de l'ordre ou d'une association de gestion et de comptabilité, autorisé à ce titre par l'administration fiscale et ayant conclu avec cette dernière une convention. Cette mesure corrective ne constitue en aucun cas une pénalisation à l'encontre des non-adhérents mais un moyen simple de maintenir à l'identique l'avantage fiscal résultant de l'adhésion à un organisme agréé, sans pour autant majorer l'impôt dû par les non-adhérents. Enfin, il est rappelé que le Conseil constitutionnel a jugé que « la différence de traitement entre adhérents et non-adhérents demeure justifiée à l'instar du régime antérieur et ne crée donc pas de rupture caractérisée de l'égalité devant les charges publiques », (décision n° 2010-16 QPC du 23 juillet 2010). Dans ces conditions, il n'apparaît pas utile d'adapter la législation en vigueur.
