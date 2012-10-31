@@ -40,7 +40,9 @@ Concentration maximale
 
 autorisée dans
 
-le produit cosmétique fini
+le produit
+
+cosmétique fini
 
 |
 
@@ -746,41 +748,93 @@ Contient du dichlorophène.
 
 |
 
-Eau oxygénée et autres composés ou mélanges libérant de l'eau oxygénée dont le carbamide d'eau oxygénée et le peroxyde de zinc.
+Peroxyde d'hydrogène et autres composés ou mélanges libérant du peroxyde d'hydrogène, dont le peroxyde de carbamide et le peroxyde de zinc.
 
 |
 
-a) Préparations pour traitements capillaires.
-
-b) Préparations pour l'hygiène de la peau.
-
-c) Préparations pour durcir les ongles.
-
-d) Produits d'hygiène buccale.
+a) Mélanges pour traitements capillaires.
 
 |
 
-12 % d'H2O2 (40 volumes) présent ou dégagé.
-
-4 % d'H2O2 présent ou dégagé.
-
-2 % d'H2O2 présent ou dégagé.
-
-0,1 % d'H2O2 présent ou dégagé.
+a) 12 % de H2O2 (40 volumes) présent ou dégagé.
 
 |
 
 |
 
-a), b), c) :
+a) Porter des gants appropriés
 
-- contient de l'eau oxygénée ;
+|
 
-- éviter le contact du produit avec les yeux ;
+b) Mélanges pour l'hygiène de la peau.
 
-- rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.
+|
 
-a) Porter des gants appropriés.
+b) 4 % de H2O2 présent ou dégagé.
+
+|
+
+|
+
+a) b) c) e) :
+
+"Contient du peroxyde d'hydrogène".
+
+Eviter le contact avec les yeux.
+
+Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.
+
+|
+
+c) Mélanges pour durcir les ongles.
+
+|
+
+c) 2 % de H2O2 présent ou dégagé.
+
+|
+
+|
+
+|
+
+d) Produits bucco-dentaires, y compris les produits de rinçage buccal, les dentifrices et les produits de blanchiment ou d'éclaircissement des dents.
+
+|
+
+d) ≤ 0,1 % de H2O2 présent ou dégagé
+
+|
+
+|
+
+|
+
+e) Produits de blanchiment ou d'éclaircissement des dents.
+
+|
+
+e) > 0,1 % et ≤ 6 % de H2O2 présent ou dégagé.
+
+|
+
+e) Doit être vendu uniquement à des praticiens de l'art dentaire. Pour chaque cycle d'utilisation, première utilisation par des praticiens de l'art dentaire au sens de l'article L. 4141-2 du code de la santé publique, ou sous leur supervision directe, si un niveau de sécurité équivalent est assuré. Ensuite, à fournir au consommateur pour terminer le cycle d'utilisation.
+
+Ne pas utiliser chez les enfants/adolescents âgés de moins de dix-huit ans.
+
+|
+
+e) Concentration en H2O2 présent ou dégagé indiqué en pourcentage.
+
+Ne pas utiliser chez les enfants/adolescents âgés de moins de dix-huit ans.
+
+Contient du peroxyde d'hydrogène.
+
+Eviter le contact avec les yeux.
+
+Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.
+
+Doit être vendu uniquement à des praticiens de l'art dentaire. Pour chaque cycle d'utilisation, la première utilisation doit être effectuée uniquement par des praticiens de l'art dentaire ou sous leur supervision directe, si un niveau de sécurité équivalent est assuré. Ensuite, à fournir au consommateur pour terminer le cycle d'utilisation.
 
 |
 
@@ -6867,3 +6921,7 @@ a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 (15) L'utilisation de la base libre et des sels de ce colorant est autorisée, sauf interdiction au titre de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques.
 
 (16) Pour une utilisation comme agent conservateur, voir le numéro d'ordre 58 de l'arrêté du 6 février 2001 modifié fixant la liste des agents conservateurs que peuvent contenir les produits cosmétiques.
+
+NOTA :
+
+Les produits mentionnés aux a, b et c du numéro d'ordre 12 de l'annexe de l'arrêté du 6 février 2001 susvisé et portant la mention "Contient de l'eau oxygénée" en lieu et place de la mention "Contient du peroxyde d'hydrogène" et fabriqués avant le 31 octobre 2012 peuvent continuer à être vendus ou cédés au consommateur après cette date.
