@@ -1,6 +1,6 @@
 # Article Annexe III
 
-Liste des sites Natura 2000 désignés comme zones spéciales de conservation et zones de protection spéciale mentionnées en application de l'article L. 414-1 et inclus dans le périmètre d'intervention de l'établissement :
+Liste des sites Natura 2000 désignés comme zones spéciales de conservation et zones de protection spéciale désignés en application de l'article L. 414-1 et inclus dans le périmètre d'intervention de l'établissement :
 
 |
 
@@ -28,11 +28,7 @@ ZPS FR 5410100
 
 |
 
-17 ― 79 ― 85
-
-|
-
-|
+17 - 79 - 85
 
 |
 
@@ -40,15 +36,11 @@ ZSC FR 5400446
 
 |
 
-17 ― 79
+17 - 79
 
 |
 
-|
-
-|
-
-SIC
+SIC FR 5200659
 
 |
 
@@ -116,7 +108,7 @@ ZPS FR 5412013
 
 |
 
-79 ― 85
+79 - 85
 
 |
 
@@ -156,7 +148,7 @@ SIC FR 5202002
 
 |
 
-Forêt de Mervent ― Vouvant et ses abords
+Forêt de Mervent-Vouvant et ses abords
 
 |
 
@@ -172,7 +164,7 @@ SIC FR 5200658
 
 |
 
-Plaine calcaire du Sud Vendée
+Plaine calcaire du Sud-Vendée
 
 |
 
@@ -180,4 +172,6 @@ ZPS FR 5212011
 
 |
 
-85 |
+85
+
+|
