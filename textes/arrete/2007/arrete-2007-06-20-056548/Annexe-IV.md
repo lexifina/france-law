@@ -1,34 +1,38 @@
 # Article Annexe IV
 
-TABLEAU D'ALLÈGEMENTS ET DE DISPENSES DES DOMAINES DE FORMATION
+TABLEAU D'ALLÈGEMENTS ET DE DISPENSES DE DOMAINES DE FORMATION
 
-Diplômes détenus
+DIPLÔMES DÉTENUS
 
 par le candidat
 
+Domaines de formation
+
 |
 
-Diplôme d'état
+DIPLÔME D'ÉTAT
 
 de technicien
 
-de l'intervention sociale et familiale
+de l'intervention
+
+sociale et familiale
 
 |
 
-Baccalauréat
+BACCALAURÉAT
 
 professionnel
 
-services de
+services
 
-proximité
+de proximité
 
 et vie locale
 
 |
 
-Baccalauréat
+BACCALAURÉAT
 
 professionnel
 
@@ -40,25 +44,27 @@ en milieu rural
 
 BEATEP
 
-spécialité activité sociale
+spécialité
 
-et vie
+activité sociale
 
-locale
+et vie locale
 
-ou BP
+ou BPJEPS
 
-JEPS
-
-animation
-
-sociale
+animation sociale
 
 |
 
-Diplôme
+TITRE
 
-d'Etat
+professionnel de technicien
+
+médiation services
+
+|
+
+DIPLÔME D'ÉTAT
 
 d'auxiliaire
 
@@ -72,9 +78,7 @@ aide à domicile
 
 |
 
-Diplôme
-
-d'Etat
+DIPLÔME D'ÉTAT
 
 d'assistant
 
@@ -82,43 +86,15 @@ familial
 
 |
 
-Diplôme
+DIPLÔME D'ÉTAT
 
-d'Etat
-
-d'aide
-
-médico-psychologique
+d'aide médico-psychologique
 
 |
 
-DF 1 Accompagnement social et éducatif spécialisé
+DF 1
 
-|
-
-|
-
-|
-
-|
-
-Allègement
-
-|
-
-|
-
-|
-
-Allègement
-
-|
-
-DF 2 Participation à l'élaboration et à la conduite du projet éducatif spécialisé
-
-|
-
-Dispense
+Accompagnement social et éducatif spécialisé
 
 |
 
@@ -128,25 +104,23 @@ Dispense
 
 |
 
-Allègement
+Allégement
 
 |
 
 |
 
-Allègement
+|
 
 |
 
-DF 3 Travail en équipe pluri-professionnelle
+Allégement
 
 |
 
-Allègement
+DF 2
 
-|
-
-Dispense*
+Participation à l'élaboration et à la conduite du projet éducatif spécialisé
 
 |
 
@@ -154,23 +128,43 @@ Dispense
 
 |
 
+|
+
+|
+
+|
+
+|
+
+Allégement
+
+|
+
+|
+
+Allégement
+
+|
+
+DF 3
+
+Travail en équipe pluriprofessionnelle
+
+|
+
+Allégement
+
+|
+
+Dispense (*)
+
+|
+
 Dispense
 
 |
 
-Allègement
-
-|
-
-Allègement
-
-|
-
-Allègement
-
-|
-
-DF 4 Implications dans les dynamiques institutionnelles
+Dispense
 
 |
 
@@ -178,29 +172,55 @@ Dispense
 
 |
 
-Allègement
+Allégement
 
 |
 
-Allègement
+Allégement
 
 |
 
-Allègement
+Allégement
 
 |
 
-Allègement
+DF 4
+
+Implications dans les dynamiques institutionnelles
+
+|
+
+Dispense
+
+|
+
+Allégement
+
+|
+
+Allégement
+
+|
+
+Allégement
+
+|
+
+Dispense
+
+|
+
+Allégement
 
 |
 
 |
 
-Allègement
+Allégement
 
 |
 
-(*) Uniquement pour les candidats ayant préparé les secteurs d'activités "activités de soutien et d'aide à l'intégration" et "activités participant à la socialisation et au développement de la citoyenneté".
+* Uniquement pour les candidats ayant préparé les deux secteurs d'activités : "activités de soutien et d'aide à l'intégration" et "activités participant à la socialisation et au développement de la citoyenneté".
 
 |
 
