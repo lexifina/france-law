@@ -102,7 +102,7 @@ Inspecteur général des services administratifs
 
 |
 
-B-INSPECTIONS A COMPETENCES LOCALES
+B - INSPECTIONS A COMPETENCES LOCALES
 
 |
 
@@ -220,7 +220,7 @@ Echelon fonctionnel : inspecteur adjoint au directeur académique des services d
 
 |
 
-II Bis - ÉTABLISSEMENTS ET SERVICE DE RECHERCHE
+II Bis-ÉTABLISSEMENTS ET SERVICE DE RECHERCHE
 
 |
 
@@ -238,42 +238,6 @@ Vient de l'Industrie
 
 |
 
-Directeur de recherche
-
-1re classe
-
-2e classe
-
-|
-
-1015 (a)
-
-801-1015 (a)
-
-|
-
-(a)
-
-(a)
-
-|
-
-Chargé de recherche
-
-1re classe
-
-2e classe
-
-|
-
-562-1015
-
-530-677
-
-|
-
-|
-
 Attaché de recherche
 
 |
@@ -283,90 +247,6 @@ Attaché de recherche
 |
 
 (2) corps provisoire
-
-|
-
-Ingénieur de recherche
-
-hors classe
-
-1re classe
-
-2e classe
-
-|
-
-801-1015 (a)
-
-701-1015
-
-473-874
-
-|
-
-(a)
-
-|
-
-Ingénieur d'études
-
-hors classe
-
-1re classe
-
-2e classe
-
-|
-
-852-966
-
-665-821
-
-416-750
-
-|
-
-A compter du 1er août 1996
-
-A compter du 1er août 1996
-
-|
-
-Assistant ingénieur
-
-|
-
-366-660
-
-|
-
-A compter du 1er janvier 1997
-
-|
-
-Technicien
-
-classe exceptionnelle
-
-classe supérieure
-
-classe normale
-
-|
-
-425-612
-
-384-579
-
-306-544
-
-|
-
-A compter du 1er août 1994
-
-A compter du 1er août 1995
-
-A compter du 1er août 1995
 
 |
 
@@ -381,38 +261,6 @@ Classement hiérarchique
 |
 
 Observations
-
-|
-
-Adjoint technique principal de la recherche
-
-1re classe
-
-2e classe
-
-|
-
-E 6
-
-E 5
-
-|
-
-|
-
-Adjoint technique de la recherche
-
-1re classe
-
-2e classe
-
-|
-
-E 4
-
-E 3
-
-|
 
 |
 
