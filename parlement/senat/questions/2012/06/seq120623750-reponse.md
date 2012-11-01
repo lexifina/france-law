@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120623750
+
+- Question : [SEQ120623750](seq120623750.md) — Coopérative d'habitants
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2012-11-01, page 2482*
+
+Le Gouvernement souhaite favoriser le développement de nouvelles formes d'habitat solidaire. Les coopératives d'habitants constituent une réponse possible qui a fait l'objet de nombreux échanges entre les porteurs du projet et les services du ministère. Au vue des conclusions de ces travaux, il apparaît que ce dispositif de coopérative d'habitation pourrait présenter un risque économique pour les ménages en situation de mobilité, pour lesquels la revente des parts sociales ne permettra pas de se reloger sur le marché, d'autant plus que le remboursement de leurs parts par la coopérative pourrait avoir lieu de manière étalée, dans certaines situations. De plus, le dispositif pourrait présenter un risque pour l'équilibre financier de la coopérative elle-même, face au risque que certains coopérateurs ne réalisent pas les acquisitions de parts sociales au rythme prévu, ou en cas de départs simultanés de plusieurs d'entre eux ne trouvant pas de repreneur pour leurs parts sociales, obligeant la coopérative à racheter celles-ci à leur valeur nominale. Cette mutualisation du capital, qui vient s'ajouter à la mutualisation des charges, pourrait ainsi compromettre la capacité de la coopérative à faire face aux dépenses afférentes à l'entretien du bâti à long terme, malgré la mise en place de provisions. C'est pourquoi le Gouvernement entend poursuivre la concertation avec les partenaires pour élaborer des propositions d'évolution du dispositif de coopérative d'habitation, en vue de mieux sécuriser l'accédant sur son capital en garantissant l'absence de tout risque de copropriété dégradée. Ces propositions pourront, le cas échéant, alimenter le projet de loi cadre sur le logement que le Gouvernement présentera au premier semestre 2013.
