@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002737
+
+- Question : [SEQ121002737](seq121002737.md) — Modification d'un plan local d'urbanisme
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2012-11-01, page 2483*
+
+Dans un arrêt du 12 mars 2010, le Conseil d'État a jugé que les dispositions de l'article L. 123-10 du code de l'urbanisme ne permettent de modifier le projet de plan local d'urbanisme après l'enquête publique que pour tenir compte des résultats de l'enquête publique et, sous réserve que cela ne porte pas atteinte à l'économie générale du plan (CE 12 mars 2012, Lille Métropole Communauté urbaine, req. 312 108). Cette jurisprudence a pour conséquence de fragiliser la prise en compte, après l'enquête publique, des avis émis par les personnes publiques associées joints au dossier de cette enquête. C'est pourquoi le 2° du VI de l'article 3 de l'ordonnance n° 2012-11 du 5 janvier 2012 portant clarification et simplification des procédures d'élaboration, de modification et de révision des documents d'urbanisme prévoit que les modifications qui peuvent être apportées au projet de plan local d'urbanisme après l'enquête publique sont non seulement celles qui permettent de tenir compte des observations du public et du rapport du commissaire ou de la commission d'enquête mais également celles qui permettent de tenir compte des avis qui ont été joints au dossier d'enquête publique. Cette disposition sera applicable dès l'entrée en vigueur de l'ordonnance (à une date fixée par décret en Conseil d'État et au plus tard le 1er janvier 2013), y compris aux procédures en cours à cette date. Il n'y a pas de procédure particulière à suivre pour tenir compte des avis et observations recueillis, la délibération finale adoptera simplement le document d'urbanisme dans une version modifiée. Les modifications apportées ne doivent toutefois pas porter atteinte à l'économie générale du projet, faute de quoi une nouvelle enquête publique devra être organisée.
