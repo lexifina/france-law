@@ -1,14 +1,6 @@
 # Article Annexe II-1
 
-|
-
-Certifications délivrées par le Ministère chargé de l'agriculture
-
-|
-
-Vous avez
-
-obtenu
+VOUS AVEZ OBTENU
 
 Equivalence
 
@@ -16,25 +8,7 @@ dans le BP JEPS AE
 
 |
 
-BAC
-
-PRO
-
-ou
-
-BREVET
-
-Professionnel
-
-Toutes
-
-spécialités
-
-|
-
-BAC
-
-PRO
+BAC PRO
 
 CGEA
 
@@ -44,15 +18,13 @@ du cheval
 
 |
 
-BAC
-
-PRO
+BAC PRO
 
 CGEA
 
-Elevage et
+Elevage
 
-valorisation
+et valorisation
 
 du cheval
 
@@ -60,13 +32,31 @@ du cheval
 
 BREVET
 
-Professionnel
+professionnel
 
 Responsable
 
-d'Exploitation
+d'exploitation
 
-Agricole*
+agricole (*)
+
+|
+
+BAC PRO
+
+Conduite et gestion de l'entreprise hippique
+
+|
+
+BREVET
+
+professionnel
+
+Responsable
+
+d'entreprise
+
+hippique (**)
 
 |
 
@@ -74,15 +64,11 @@ BEPA
 
 Activités hippiques
 
-Entraînement du
-
-cheval de
-
-compétition
+Entraînement du cheval de compétition
 
 Support
 
-Sports équestres**
+sports équestres (**)
 
 |
 
@@ -90,13 +76,13 @@ BEPA
 
 Activités hippiques
 
-Soigneur-
+soigneur
 
 aide-animateur
 
 Support
 
-Sports équestres**
+sports équestres (**)
 
 |
 
@@ -104,19 +90,27 @@ BEPA
 
 Activités hippiques
 
-Soigneur
+soigneur
 
 aide-animateur
 
-Support
-
-Tourisme équestre**
+Support tourisme équestre (**)
 
 |
 
-Exigences préalables à l'entrée en formation
+BEPA
+
+Cavalier
+
+soigneur
 
 |
+
+Exigences
+
+préalables à l'entrée
+
+en formation
 
 |
 
@@ -130,7 +124,27 @@ Acquis
 
 |
 
-Acquis
+Acquis,
+
+mentions
+
+équitation
+
+tourisme équestre (***)
+
+|
+
+Acquis,
+
+mentions
+
+équitation
+
+tourisme équestre (***)
+
+|
+
+Acquis,
 
 mention
 
@@ -138,7 +152,7 @@ mention
 
 |
 
-Acquis
+Acquis,
 
 mention
 
@@ -146,7 +160,7 @@ mention
 
 |
 
-Acquis
+Acquis,
 
 mention
 
@@ -154,7 +168,19 @@ tourisme équestre
 
 |
 
-Exigences préalables à la mise en situation pédagogique
+Acquis,
+
+mention équitation
+
+|
+
+Exigences
+
+préalables à la mise
+
+en situation pédagogique
+
+|
 
 |
 
@@ -173,6 +199,8 @@ Acquis
 |
 
 Acquis
+
+|
 
 |
 
@@ -193,6 +221,12 @@ Acquis
 |
 
 Acquis
+
+|
+
+Acquis
+
+|
 
 |
 
@@ -222,6 +256,12 @@ Acquis
 
 |
 
+Acquis
+
+|
+
+|
+
 |
 
 |
@@ -248,6 +288,12 @@ Acquis
 
 |
 
+Acquis
+
+|
+
+|
+
 |
 
 |
@@ -264,6 +310,14 @@ UC 4
 
 |
 
+Acquis
+
+|
+
+Acquis
+
+|
+
 |
 
 |
@@ -276,8 +330,6 @@ UC 5
 
 |
 
-|
-
 Acquis
 
 |
@@ -290,11 +342,17 @@ Acquis
 
 |
 
+|
+
+|
+
 Acquis
 
 |
 
 Acquis
+
+|
 
 |
 
@@ -316,12 +374,14 @@ UC 6
 
 |
 
+|
+
+|
+
 UC 7
 
 |
 
-|
-
 Acquis
 
 |
@@ -331,6 +391,16 @@ Acquis
 |
 
 Acquis
+
+|
+
+Acquis
+
+|
+
+Acquis
+
+|
 
 |
 
@@ -341,6 +411,10 @@ Acquis
 |
 
 UC 8
+
+|
+
+|
 
 |
 
@@ -376,6 +450,10 @@ UC 9
 
 |
 
+|
+
+|
+
 UC 10
 
 |
@@ -394,6 +472,12 @@ UC 10
 
 |
 
-* Sous réserve de l'obtention des UC spécifiques équines attestées par l'autorité académique (DRAF) de l'établissement d'origine du candidat.
+|
 
-** L'attestation mentionnant le support suivi est fournie par l'autorité académique (DRAF) de l'établissement d'origine du candidat
+|
+
+(*) Les équivalences précisées dans l'annexe II-1 ci-dessus s'appliquent jusqu'au 1er septembre 2013 sous réserve de l'obtention des UC spécifiques équines attestées par l'autorité académique (DRAAF) de l'établissement d'origine du candidat.
+
+(**) L'attestation mentionnant le support suivi est fournie par l'autorité académique (DRAAF) de l'établissement d'origine du candidat.
+
+(***) Pour la mention "tourisme équestre", l'attestation mentionnant le module d'adaptation professionnelle suivi ou l'UCARE obtenue est fournie par l'autorité académique de l'établissement d'origine du candidat. |
