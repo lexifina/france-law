@@ -1,27 +1,39 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus avant la date d'effet du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel secrétaire assistant(e) selon le tableau de correspondances figurant ci-dessous :
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la date d'entrée en vigueur du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous.
 
-SECRÉTAIRE ASSISTANT(E)
+TITRE PROFESSIONNEL
 
-(arrêté du 3 juillet 2003) |
+secrétaire assistant (e)
 
-SECRÉTAIRE ASSISTANT(E)
+(arrêté du 20 décembre 2007
 
-(présent arrêté) |
+portant révision de l'arrêté
 
-Organiser son poste bureautique et produire tout document à l'aide de logiciels de bureau. |
-
-|
+du 3 juillet 2003)
 
 |
 
-Assurer les travaux courants de secrétariat et assister une équipe. |
+TITRE PROFESSIONNEL
 
-Traiter et assurer le suivi d'évènements et de dossiers. |
+secrétaire assistant (e)
+
+(présent arrêté)
 
 |
 
-Assurer le suivi administratif dans différents services. |
+Assurer les travaux courants de secrétariat et assister une équipe.
 
-Réaliser le traitement administratif des différentes fonctions de l'entreprise. |
+|
+
+Assurer les travaux courants de secrétariat et assister une équipe.
+
+|
+
+Réaliser le traitement administratif des diverses fonctions de l'entreprise.
+
+|
+
+Réaliser le traitement administratif des diverses fonctions de l'entreprise.
+
+|
