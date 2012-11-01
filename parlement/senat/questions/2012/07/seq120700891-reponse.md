@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700891
+
+- Question : [SEQ120700891](seq120700891.md) — Contraintes pour les communes rurales résutant de la mise en place des périmètres de protection des sources en eau potable
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2012-11-01, page 2468*
+
+La loi actuelle ne permet pas aux communes de percevoir une compensation financière en contrepartie des servitudes qui sont créées pour la préservation de la qualité des captages. Il est difficile d'estimer le coût que représenteraient ces indemnisations supplémentaires pour les collectivités locales, cependant la mise en place des périmètres de protection a déjà un coût financier conséquent pour celles qui le font. Le retard dans la mise en place des périmètres de protection est actuellement en train d'être résorbé puisque, en juillet 2012, ce sont 21 902 captages qui bénéficient de périmètres de protection soit 65,3 % des captages publics d'eau destinée à la consommation humaine utilisés en France. Le pourcentage de population desservie par une eau issue d'un captage protégé par une déclaration d'utilité publique est de 77,2%. À l'occasion du débat suscité par la question orale de Mme Marie-Hélène des Esgaulx, sénatrice de Gironde, posée le 11 janvier 2011, le ministère chargé de l'écologie s'était engagé à réfléchir aux conditions de mise en place d'une solidarité financière en concertation avec les différents ministères concernés dont celui de la santé. La complexité et l'importance de la question ont conduit à examiner cette problématique dans le cadre d'une mission relative aux modalités de ventes d'eau potable à d'autres services de distribution d'eau, confiée au conseil général de l'environnement et du développement durable (CGEDD). Dès qu'elles seront disponibles, ses propositions seront transmises aux différents ministères concernés afin de les examiner.
