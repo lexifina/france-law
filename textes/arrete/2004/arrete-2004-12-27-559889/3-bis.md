@@ -1,22 +1,28 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de secrétaire assistant(e) immobilier selon le tableau de correspondances figurant ci-dessous.
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la date d'entrée en vigueur du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous.
 
-ANCIEN INTITULÉ
+TITRE PROFESSIONNEL
 
-Secrétaire assistant(e) spécialisé(e) immobilier
+secrétaire assistant (e)
+
+spécialisé (e) immobilier
+
+(arrêté du 27 décembre 2004
+
+modifié)
 
 |
 
-NOUVEL INTITULÉ
+TITRE PROFESSIONNEL
 
-Secrétaire assistant(e) immobilier
+secrétaire assistant (e) immobilier
+
+(présent arrêté)
 
 |
 
-Organiser son poste bureautique et produire tout document à l'aide de logiciels de bureau.
-
-Traiter et assurer le suivi d'évènements et de dossiers.
+Assurer les travaux courants de secrétariat et assister une équipe.
 
 |
 
