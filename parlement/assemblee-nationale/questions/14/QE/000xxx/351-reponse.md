@@ -1,0 +1,9 @@
+# Réponse à la question n° 351
+
+- Question : [351](351.md) — Question n° 351 — généralités
+
+## Réponse
+
+*JO du 2012-11-06*
+
+L'auxiliaire de puériculture exerce son activité en collaboration et sous la responsabilité de l'infirmier, dans le cadre du rôle qui relève de l'initiative de celui-ci, défini aux articles R.4311-3 à R.4311-5 du code de la santé publique et non sur prescription médicale. Cette collaboration existe au sein d'un établissement de santé ou d'un service à domicile à caractère sanitaire, social ou médico-social. L'auxiliaire de puériculture a pour mission de dispenser des soins liés aux fonctions d'entretien et de continuité de la vie, visant le bien-être et l'autonomie de l'enfant et réalise les actes de soins pour lesquels il a été formé. Son rôle s'inscrit dans une approche globale de l'enfant et prend en compte la dimension relationnelle des soins ainsi que la communication avec la famille dans le cadre du soutien à la parentalité. L'auxiliaire de puériculture participe à l'accueil et à l'intégration sociale d'enfants en situation de handicap, atteints de maladies chroniques, ou en situation de risque d'exclusion. L'auxiliaire de puériculture est un acteur essentiel dans l'organisation de la prise en charge des enfants que ce soit en établissement de santé ou en établissement d'accueil pour enfant. Le gouvernement souhaite engager prochainement des travaux de réingénierie du diplôme en tenant compte de plusieurs facteurs : - la mise en oeuvre du baccalauréat professionnel « service à la personne » va impacter le contenu de la formation initiale ; - l'évolution de la délégation d'actes techniques à des tiers formés dans le cadre de la prise en charge des personnes atteintes de maladies chroniques ou de handicap ; - la mise en oeuvre de coopération entre professionnels de santé permettant une ouverture dans les champs d'exercice des professions concernées.
