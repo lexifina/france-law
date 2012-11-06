@@ -1,0 +1,9 @@
+# Réponse à la question n° 2087
+
+- Question : [2087](2087.md) — Question n° 2087 — décharges d'activité; réglementation
+
+## Réponse
+
+*JO du 2012-11-06*
+
+A la suite des accords de Bercy sur la rénovation du dialogue social et sur la base des conclusions d'un bilan des moyens accordés aux organisations syndicales et des pratiques mises en oeuvre dans les trois fonctions publiques, une concertation conduite avec les organisations syndicales de la fonction publique et les représentants des employeurs territoriaux et hospitaliers, a permis de définir les orientations d'une réforme des moyens syndicaux pour les trois fonctions publiques. Pour la fonction publique territoriale, ces orientations ont nécessité des dispositions législatives qui ont été introduites dans la loi du 26 janvier 1984 par la loi du 12 mars 2012. Ainsi, l'article 100-1 de la loi du 26 janvier 1984 modifiée reprend, sous la notion de « crédit de temps syndical », les décharges d'activité de service précédemment prévues par l'article 100. Un contingent d'heures de décharges d'activité de service est calculé selon un barème dégressif appliqué au nombre d'électeurs inscrits sur la liste électorale du ou des comités techniques compétents. Les centres de gestion calculent ce contingent pour les collectivités et établissements obligatoirement affiliés et leur versent les charges salariales de toute nature afférentes à ces décharges d'activité de service concernant l'ensemble des agents de ces collectivités et établissements. La mise en oeuvre, au niveau réglementaire de ces dispositions législatives, nécessitera une modification du décret n° 85-397 du 3 avril 1985 relatif à l'exercice du droit syndical dans la fonction publique territoriale. Elle sera précédée d'une concertation avec les représentants des employeurs territoriaux et des organisations syndicales, au cours de laquelle l'article 18, qui fixe le barème de calcul des décharges d'activité de service, sera examiné.
