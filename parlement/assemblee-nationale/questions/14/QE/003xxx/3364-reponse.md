@@ -1,0 +1,9 @@
+# Réponse à la question n° 3364
+
+- Question : [3364](3364.md) — Question n° 3364 — petit commerce; maintien
+
+## Réponse
+
+*JO du 2012-11-06*
+
+La loi de modernisation de l'économie du 4 août 2008 et ses textes d'application ont renforcé l'action du FISAC en faveur des opérations territoriales en élargissant ses conditions d'intervention, ce qui a généré une très forte augmentation des demandes (1570 dossiers en 2011 contre 783 en 2008). Dans le même temps, les crédits ouverts en loi de finances ont enregistré une forte diminution (60 M€ en 2008, 42 M€ en 2012). La soutenabilité financière du dispositif n'étant pas assurée, le précédent Ministre en charge du commerce a été conduit à redéfinir, dans l'urgence et unilatéralement, le cadre d'intervention du FISAC, notamment en excluant des dépenses subventionnables les aménagements urbains réalisés dans les seules communes de plus de 3 000 habitants (travaux de voirie, aménagement de trottoirs, de parcs de stationnement...), seuls les investissements ayant un lien incontestable avec les activités commerciales, comme la signalétique commerciale, la rénovation des halles et marchés ou la restructuration des centres commerciaux de proximité, demeurant éligibles. En revanche, les aménagements urbains réalisés dans les communes de moins de 3 000 habitants continuent d'ouvrir droit à subvention du FISAC si ceux-ci sont directement liés à l'activité commerciale. Dans ce contexte particulièrement difficile, une évaluation complète du FISAC va être menée, qui devrait déboucher sur la mise en place d'une allocation plus équitable et mieux ciblée des crédits. Les pouvoirs publics s'attacheront à ce que dans le respect des engagements pris en matière de redressement des finances publiques, ces financements indispensables au dynamisme économique des territoires puissent être préservés.
