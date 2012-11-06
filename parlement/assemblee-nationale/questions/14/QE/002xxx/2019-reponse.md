@@ -1,0 +1,9 @@
+# Réponse à la question n° 2019
+
+- Question : [2019](2019.md) — Question n° 2019 — CAPES; certificats en langues; dispense
+
+## Réponse
+
+*JO du 2012-11-06*
+
+Les dispositions du décret n° 2012-999 du 27 août 2012 modifient les statuts particuliers des personnels enseignants et d'éducation et reportent notamment la date d'exigence des certificats en langues de l'enseignement supérieur et du certificat en informatique et internet (C2I) à la date de titularisation, au lieu de la date de nomination, pour les lauréats des concours externes, à compter de la session 2012. Ce texte aligne donc la situation des candidats aux concours externes sur celles des candidats aux concours internes. L'arrêté du 31 mai 2010 modifié, relatif aux titres et diplômes exigés des lauréats aux concours de recrutement des personnels enseignants, prévoit que le certificat de compétences en langues de l'enseignement supérieur de niveau B2 (CLES 2) ou toute autre certification équivalente de niveau B2 du Cadre européen commun de référence pour les langues est exigé, sauf dans les cas de dispenses, à la titularisation des lauréats des concours. A titre transitoire et pour les sessions 2012, 2013 et 2014, il est toutefois prévu que les lauréats des concours peuvent également produire, à la place du CLES 2, l'un des diplômes ci-après lorsque le champ disciplinaire majeur de la formation n'appartient pas au domaine des langues vivantes étrangères : ¿ diplôme national de master délivré après la validation de l'aptitude à maîtriser une langue vivante étrangère conformément au troisième alinéa de l'article 6 de l'arrêté du 25 avril 2002 relatif au diplôme national de master ; ¿ autre diplôme de l'enseignement supérieur obtenu en France et sanctionnant un cycle d'études d'au moins deux ans validant des enseignements comprenant la pratique d'au moins une langue vivante étrangère.
