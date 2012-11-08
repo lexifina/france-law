@@ -4,15 +4,13 @@ MODÈLE DE STATUTS DES CAISSES DE BASE DU RÉGIME SOCIAL DES INDÉPENDANTS SITU�
 
 TITRE Ier
 
-DISPOSITIONS RELATIVES À LA CONSTITUTION
-
-ET À L'OBJET DE LA CAISSE
+DISPOSITIONS RELATIVES À LA CONSTITUTION ET À L'OBJET DE LA CAISSE
 
 Article 1er
 
 Constitution et buts de la caisse
 
-La caisse a été créée par arrêté du préfet de région en date du ............ en application des dispositions de l'article L. 611-8du code de la sécurité sociale.
+La caisse a été créée par arrêté du préfet de région en date du............ en application des dispositions de l'article L. 611-8du code de la sécurité sociale.
 
 Elle prend la dénomination de Caisse RSI et a étéenregistrée sous le numéro
 
@@ -52,13 +50,13 @@ Dans les conseils d'administration de toutes les caisses du régime social des i
 
 Outre les administrateurs élus siègent également au conseil avec voix consultative :
 
-- un médecin désigné par le conseil départemental de l'ordre des médecins dont la circonscription est comprise en tout ou partie dans celle des caisses de base et un pharmacien désigné par la section E du Conseil national de l'ordre des pharmaciens ;
+-un médecin désigné par le conseil départemental de l'ordre des médecins dont la circonscription est comprise en tout ou partie dans celle des caisses de base et un pharmacien désigné par la section E du Conseil national de l'ordre des pharmaciens ;
 
-- un représentant de chacune des catégories d'organismes conventionnés, nommés par arrêté du préfet de la région dans laquelle se trouve le siège de la caisse.
+-un représentant de chacune des catégories d'organismes conventionnés, nommés par arrêté du préfet de la région dans laquelle se trouve le siège de la caisse.
 
 Le directeur et l'agent comptable ou leurs représentants assistent, avec voix consultative, aux séances du conseil d'administration, du bureau ou des commissions ayant reçu délégation du conseil d'administration. Il en est de même du médecin-conseil chef de service.
 
-Le directeur régional des affaires sanitaires et sociales ou son représentant peut également assister au conseil et être entendu à chaque fois qu'il le demande.
+Le responsable, ou son représentant, du service mentionné à l'article R. 155-1 du code de la sécurité sociale peut également assister au conseil et être entendu à chaque fois qu'il le demande.
 
 Le mandat des membres du conseil d'administration est de 6 ans renouvelable.
 
@@ -66,31 +64,27 @@ Article 4
 
 Les missions du conseil d'administration
 
-I. - Lors de son installation :
+I.-Lors de son installation par le responsable du service mentionné à l'article R. 155-1 :
 
-Après chacun de ses renouvellements, le conseil d'administration est installé sous la présidence du directeur régional des affaires sanitaires et sociales ou son représentant.
+Au cours de sa première réunion suivant l'élection de ses membres, le conseil d'administration procède, dans cet ordre, à l'élection :
 
-Le conseil d'administration procède, dans cet ordre, à l'élection :
+-du président et des deux vice-présidents dans les conditions mentionnées à l'article R. 611-27 du code de la sécurité sociale ;
 
-- du président ;
+-des autres membres du bureau après en avoir fixé le nombre ;
 
-- des deux vice-présidents ;
+-des membres des commissions prévues réglementairement ou décidées par délibération du conseil d'administration..
 
-- des autres membres du bureau ;
-
-- des membres des commissions.
-
-Ensuite, le conseil d'administration adopte les statuts de la caisse de base.
-
-II. - Missions générales :
+II.-Missions générales :
 
 Le conseil d'administration de la caisse de base a notamment pour rôle :
 
 1. Sur proposition du directeur :
 
-1° D'adopter les statuts de la caisse et le cas échéant le règlement intérieur ;
+1° D'établir les statuts de la caisse et le cas échéant le règlement intérieur ;
 
-2° D'adopter les budgets de gestion et d'intervention.
+2° D'aprouver les budgets de gestion et d'intervention ;
+
+3° D'approuver, conformément aux dispositions de l'article R. 114-6-1 du code de la sécurité sociale, sauf vote contraire à la majorité des deux tiers des membres, les comptes annuels sur présentation du directeur et de l'agent comptable et au vu du rapport de validation prévu à l'article D. 114-4-2 du code de la sécurité sociale.
 
 2. De délibérer également sur :
 
@@ -110,7 +104,7 @@ Le conseil d'administration de la caisse de base a notamment pour rôle :
 
 1° L'application par le directeur et l'agent comptable des dispositions législatives et réglementaires ainsi que l'exécution de ses décisions.
 
-2° L'application par les organismes conventionnés mentionnés à l'article L. 611-20 du code de la sécurité sociale et situés dans la circonscription de la caisse des dispositions législatives, réglementaires et conventionnelles, notamment en matière d'encaissement des cotisations maladie, de versement des prestations maladie et de respect des exigences des contrats signés par l'organisme conventionné pour l'exercice des fonctions qui lui sont confiées.
+2° (Supprimé).
 
 Le conseil d'administration peut être saisi par le directeur de toute question relative au fonctionnement de la caisse.
 
@@ -122,11 +116,11 @@ Article 5
 
 Le fonctionnement du conseil d'administration
 
-Le conseil d'administration se réunit au moins une fois par trimestre sur convocation de son président qui fixe l'ordre du jour de la séance. Le directeur régional des affaires sanitaires et sociales reçoit notification des ordres du jour des séances du conseil.
+Le conseil d'administration se réunit au moins une fois par trimestre sur convocation de son président qui fixe l'ordre du jour de la séance. Le responsable du service mentionné à l'article R. 155-1 reçoit notification des ordres du jour des séances du conseil.
 
-La convocation est de droit lorsqu'elle est demandée par le directeur régional des affaires sanitaires et sociales ou par le tiers des membres du conseil d'administration. Dans ce cas, la réunion intervient dans les 20 jours suivant la réception de la demande.
+La convocation est de droit lorsqu'elle est demandée par le responsable du service mentionné à l'article R. 155-1 ou par le tiers des membres du conseil d'administration. Dans ce cas, la réunion intervient dans les 20 jours suivant la réception de la demande.
 
-Les questions dont le directeur régional ou le tiers des membres demandent l'inscription à l'ordre du jour sont inscrites de droit.
+Les questions dont le responsable du service mentionné ci-dessus ou le tiers des membres demandent l'inscription à l'ordre du jour sont inscrites de droit.
 
 Le conseil d'administration ne peut valablement délibérer que si la majorité de ses membres ayant voix délibérative assiste à la séance. Si le quorum n'est pas atteint, le conseil d'administration est à nouveau convoqué avec le même ordre du jour dans un délai maximal de 20 jours et délibère alors valablement quel que soit le nombre des membres présents.
 
@@ -166,11 +160,11 @@ Article 7
 
 Les dispositions relatives au mandat d'administrateur
 
-I. - Tout administrateur qui ne remplit plus les conditions d'éligibilité suivantes est déclaré démissionnaire d'office par le conseil d'administration ou par le directeur régional des affaires sanitaires et sociales :
+I.-Conformément aux articles L. 231-6 et L. 231-6-1 du code de la sécurité sociale, tout administrateur qui ne remplit plus les conditions suivantes doit démissionner ou est déclaré démissionnaire d'office par le conseil d'administration ou par le responsable du service mentionné à l'article R. 155-1 :
 
-- les membres des conseils d'administration doivent être âgés de dix-huit ans au moins et de soixante-cinq ans au plus à la date de leur élection, n'avoir fait l'objet d'aucune des condamnations mentionnées aux articles L. 6 et L. 7 du code électoral et ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle prononcée en application des dispositions du code de la sécurité sociale ou dans les cinq années précédant la date susmentionnée à une peine contraventionnelle prononcée en application de ce code. Toutefois la limite d'âge de soixante-cinq ans n'est pas applicable aux administrateurs représentants des retraités ;
+-les membres des conseils d'administration doivent n'avoir fait l'objet d'aucune des condamnations mentionnées à l'article L. 6 du code électoral et ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle prononcée en application des dispositions du code de la sécurité sociale ou dans les cinq années précédant la date susmentionnée à une peine contraventionnelle prononcée en application de ce code. Toutefois la limite d'âge de soixante-cinq ans n'est pas applicable aux administrateurs représentants des retraités ;
 
-- ne peuvent être désignés comme administrateur ou perdent le bénéfice de leur mandat :
+-perdent également le bénéfice de leur mandat :
 
 1° Les assurés volontaires, les assurés personnels, les employeurs et les travailleurs indépendants qui n'ont pas satisfait à leurs obligations à l'égard des organismes de recouvrement de sécurité sociale dont ils relèvent ;
 
@@ -188,11 +182,11 @@ b) Les personnes qui perçoivent, à quelque titre que ce soit, des honoraires d
 
 c) Les personnes qui, dans l'exercice de leur activité professionnelle, plaident, consultent pour ou contre l'organisme où elles siègent, ou effectuent des expertises pour l'application de la législation de sécurité sociale à des ressortissants dudit organisme.
 
-II. - Les fonctions d'administrateur ou d'agent salarié des organismes auxquels le régime social des indépendants a délégué certaines fonctions liées à ses missions sont incompatibles avec les fonctions d'administrateur d'une caisse du régime social des indépendants.
+II.-Les fonctions d'administrateur ou d'agent salarié des organismes auxquels le régime social des indépendants a délégué certaines fonctions liées à ses missions sont incompatibles avec les fonctions d'administrateur d'une caisse du régime social des indépendants.
 
 L'administrateur qui se trouve dans un des cas d'incompatibilité précités doit démissionner de cette fonction après les élections, au risque de se voir déclarer d'office démissionnaire.
 
-III. - Le membre du conseil d'administration démissionnaire ou révoqué ne peut être désigné à ces mêmes fonctions pendant une durée de quatre ans à dater de l'arrêté de révocation.
+III.-Le membre du conseil d'administration démissionnaire ou révoqué ne peut être désigné à ces mêmes fonctions pendant une durée de quatre ans à dater de l'arrêté de révocation.
 
 En cas de dissolution d'un conseil d'administration, les membres dudit conseil ne peuvent être désignés aux mêmes fonctions avant l'expiration d'un délai de quatre ans.
 
@@ -228,7 +222,7 @@ Le président
 
 La durée du mandat du président est fixée à six ans renouvelable une fois.
 
-Il préside les réunions du conseil d'administration dont il assure l'ordre et la police.
+Il fixe l'ordre du jour des réunions du conseil d'administration et signe les convocations. Il préside et organise les débats du conseil d'administration. Il assure également l'ordre et la police de la séance.
 
 Il signe conjointement avec le directeur de la caisse les contrats pluriannuels de gestion conclus avec la caisse nationale.
 
@@ -248,9 +242,11 @@ Le président désigne le vice-président qui le remplace en cas d'empêchement.
 
 Le doyen d'âge assure la présidence de la première réunion jusqu'à l'élection du président.
 
-Le bureau procède, le cas échéant, à l'étude préalable des affaires inscrites à l'ordre du jour des séances du conseil d'administration.
+Le bureau procède, le cas échéant, à l'étude préalable des affaires inscrites à l'ordre du jour des séances du conseil d'administration fixé par le président.
 
 Le conseil peut, par délégation permanente ou temporaire, confier au bureau une partie de ses attributions.
+
+Les délibérations du bureau sont adoptées à la majorité simple des membres présents et représentés.
 
 Chapitre IV
 
@@ -260,21 +256,17 @@ Article 12
 
 Dispositions générales relatives aux commissions
 
-Le conseil d'administration constitue en son sein :
-
-1° Des commissions auxquelles il délègue une partie de ses attributions (il désigne une commission de contrôle, une commission de recours amiable, une commission sociale de l'invalidité, une commission d'action sanitaire et sociale et une commission des marchés).
-
-2° Des commissions constituées à titre consultatif pouvant comprendre des personnalités qui n'appartiennent pas au conseil, sur invitation du président.
+Le conseil d'administration constitue en son sein les commissions prévues par un texte législatif ou réglementaire. Il peut également désigner en son sein des commissions et leur déléguer une partie de ses attributions ou leur donner un rôle consultatif. Dans ce cas, les commissions consultatives peuvent comprendre des personnalités qui n'appartiennent pas au conseil, sur invitation du président.
 
 Le conseil d'administration peut désigner en son sein le président de chaque commission.
 
-La commission ne peut valablement délibérer que si la majorité de ses membres ayant voix délibérative assiste à la séance. En cas d'empêchement, un membre du conseil peut donner pouvoir à un autre membre. Aucun membre ne peut recevoir plus d'un pouvoir.
+Sauf dispositions réglementaires contraires, la commission ne peut valablement délibérer que si la majorité de ses membres ayant voix délibérative assiste à la séance. En cas d'empêchement, un membre du conseil peut donner pouvoir à un autre membre. Aucun membre ne peut recevoir plus d'un pouvoir.
 
 Lorsque des membres suppléants sont élus au sein des commissions, ils n'assistent aux réunions qu'en cas d'empêchement des membres titulaires.
 
 Article 13
 
-Commissions ayant délégation de décision
+Commissions obligatoires
 
 La commission de recours amiable
 
@@ -282,39 +274,31 @@ Elle comprend 4 administrateurs titulaires et 4 administrateurs suppléants dés
 
 Elle est chargée d'examiner les contestations des assurés concernant les décisions administratives de la caisse.
 
+Les dossiers des assurés sont examinés sous couvert d'anonymat.
+
 Sa saisine est obligatoire avant une éventuelle saisine des tribunaux de sécurité sociale. Elle permet le règlement amiable d'un litige.
 
-Elle est compétente pour statuer sur :
+La commission peut valablement statuer si deux de ses membres sont présents. En cas de partage des voix au sein de la commission, il est statué par le conseil d'administration.
 
-- les demandes de remises des majorations de retard en matière de cotisations ou de pénalités en cas de non-production du revenu ;
+Elle est compétente pour statuer sur les réclamations relevant du contentieux général de la sécurité sociale et formées contre les décisions prises par le régime social des indépendants, notamment en matière de :
 
-- les demandes de réductions d'assiettes de cotisations en cas de diminution des revenus ;
+-remises des majorations de retard ou de pénalités en cas de non-production du revenu ;
 
-- les demandes de remises de dettes en matières de cotisations ;
+-réductions d'assiettes de cotisations en cas de diminution des revenus ;
 
-- les demandes suite au refus de versement de prestations, en nature et en espèces, d'assurance maladie ou maternité.
+-remises de dettes de cotisations ;
+
+-remises de dettes nées de l'application de l'article L. 376-1 du code de la sécurité sociale ;
+
+-prestations en nature ou en espèces de l'assurance maladie et maternité ;
+
+-prestations de l'assurance vieillesse, de l'invalidité-décès et de l'assurance vieillesse complémentaire obligatoire ;
+
+-le recouvrement des indus prévus à l'article L. 133-4.
 
 Toutes les décisions prises par la commission sont soumises, avant notification aux assurés, aux autorités de tutelle. Elles peuvent être contestées devant les tribunaux.
 
 Elle peut recevoir délégation du conseil d'administration pour se prononcer sur les admissions en non-valeur des cotisations sociales.
-
-La commission de contrôle
-
-Elle est composée de 4 administrateurs titulaires et 4 administrateurs suppléants. Elle est chargée de vérifier l'exactitude des écritures comptables de la caisse et la bonne régularité des opérations techniques et administratives. Elle doit se réunir au moins deux fois par an :
-
-- une fois à l'improviste ;
-
-- une fois après un exercice comptable pour l'examen du bilan et des comptes de résultats.
-
-Aucun membre du bureau ne peut assister aux réunions de cette commission à l'exception du trésorier qui peut y participer avec voix consultative.
-
-Elle établit un rapport concernant les opérations de l'année écoulée et la situation de la caisse en fin d'année. Ce rapport est présenté au conseil d'administration et annexé au bilan.
-
-La commission sociale de l'invalidité
-
-Elle est composée de (entre 4 et 6 membres) administra-teurs titulaires et d'un nombre égal de suppléants.
-
-Elle reçoit du conseil les pouvoirs nécessaires à ses missions.
 
 La commission d'action sanitaire et sociale
 
@@ -322,33 +306,35 @@ Elle est composée de six membres titulaires et d'un nombre égal de suppléants
 
 Elle reçoit du conseil d'administration les pouvoirs de décision et de notification nécessaires à l'attribution d'aides individuelles et collectives.
 
+Les dossiers des assurés sont examinés sous couvert d'anonymat.
+
 La commission des marchés
 
 Elle est composée de 4 administrateurs titulaires et 4 administrateurs suppléants.
 
-Ses missions et son fonctionnement sont définies à l'arrêté du 4 octobre 2005 portant réglementation sur les marchés des organismes de sécurité sociale.
+Ses missions et son fonctionnement sont définies à l'arrêté du 16 juin 2008 portant réglementation sur les marchés des organismes de sécurité sociale.
 
-Article 14
+La Commission des pénalités financières en matière d'assurance maladie-maternité.
 
-Commissions consultatives
+La commission rend un avis motivé sur les pénalités financières envisagées à l'encontre des bénéficiaires, professionnels de santé, établissements de santé ou d'hébergement pour personnes âgées dépendantes en application de l'article L. 162-1-14 du code de la sécurité sociale.
 
-La commission de gestion des risques maladie et vieillesse
+Elle est composée de cinq administrateurs titulaires et de cinq administrateurs suppléants désignés en tenant compte de la répartition des sièges entre les différentes catégories représentées au sein du conseil.
 
-Cette commission est composée de 4 administrateurs titulaires et de 4 suppléants.
+Lorsqu'une pénalité est envisagée à l'encontre d'un professionnel de santé, la formation de base constituée des administrateurs est complétée de cinq représentants (cinq titulaires et cinq suppléants) de la profession de santé à laquelle appartient le professionnel concerné.
 
-Le directeur de la caisse, le médecin conseil chef de service et l'agent comptable assistent aux réunions.
+Lorsqu'une pénalité est envisagée à l'encontre d'un établissement de santé, la formation de base constituée des administrateurs est complétée de cinq administrateurs (cinq titulaires et cinq suppléants) des établissements de santé.
 
-Cette commission a un rôle de réflexion, d'impulsion et de suivi des actions de gestion du risque.
+La Commission des pénalités financières en matière d'assurance vieillesse.
 
-La commission d'évaluation de la qualité de service
+La commission est composée de quatre administrateurs titulaires et de quatre administrateurs suppléants désignés en tenant compte de la répartition des sièges entre les différentes catégories représentées au sein du conseil. Elle rend un avis motivé en cas de pénalités financières envisagées pour inobservation par l'assuré des règles applicables à la législation d'assurance vieillesse ayant abouti au versement de prestations indues en application de l'article L. 114-17 du code de la sécurité sociale.
 
-Le conseil peut constituer en son sein une commission composée de 3 membres titulaires et de 3 membres suppléants chargée d'évaluer l'aspect qualitatif du service rendu aux assurés. Celle-ci soumet chaque année un rapport comprenant des préconisations à l'adresse du directeur de la caisse.
+Article 14 (supprimé)
 
 Article 15
 
 Commissions extérieures
 
-Le conseil d'administration désigne des représentants dans diverses commissions extérieures compétentes, dans sa circonscription, en matière d'assurance maladie maternité ainsi qu'en matière d'assurance vieillesse et invalidité-décès.
+Le conseil d'administration désigne des représentants dans diverses commissions extérieures compétentes, dans sa circonscription.
 
 Chapitre V
 
@@ -366,7 +352,7 @@ Ces procès-verbaux sont reliés à la fin de chaque année.
 
 Les copies ou extraits des procès-verbaux sont valablement certifiés auprès des tiers par le président ou un des vice-présidents.
 
-Le procès-verbal est communiqué à la caisse nationale dans les mêmes conditions et délais qu'à la direction régionale des affaires sanitaires et sociales compétente.
+Le procès-verbal est communiqué à la caisse nationale dans les mêmes conditions et délais qu'au service mentionné à l'article R. 155-1 du code de la sécurité sociale.
 
 Chapitre VI
 
@@ -384,6 +370,10 @@ Il préside le comité d'entreprise.
 
 Il représente l'organisme en justice dans tous les actes de la vie civile. Il peut donner mandat à cet effet à un agent de sa caisse.
 
+Conformément aux dispositions des articles R. 114-6-1 et R. 611-59 du code de la sécurité sociale, il arrête les comptes annuels de la caisse préalablement établis par l'agent comptable.
+
+Il présente avec l'agent comptable ces comptes annuels au conseil d'administration qui les approuve au vu du rapport de validation prévu à l'article D. 114-4-2 du code de la sécurité sociale, sauf vote contraire à la majorité des deux tiers des membres.
+
 Il décide des actions à intenter en justice au nom de la caisse dans les conditions fixées à l'article L. 122-1 du code de la sécurité sociale.
 
 Par ailleurs, il remet chaque année au conseil d'administration un rapport sur le fonctionnement administratif et financier de la caisse.
@@ -396,9 +386,7 @@ L'agent comptable
 
 Il est chargé, sous sa propre responsabilité et sous le contrôle du conseil d'administration, de l'ensemble des opérations comptables et financières de la caisse.
 
-Il établit les comptes annuels de la caisse qui, après avoir été visés par le directeur, seront présentés au conseil d'administration.
-
-Toute décision individuelle prise en matière de gestion du personnel est communiquée à l'agent comptable qui porte mention de la disponibilité des crédits correspondants et de sa conformité aux autorisations budgétaires.
+Conformément aux dispositions des articles R. 114-6-1 et R. 611-59 du code de la sécurité sociale, il établit les comptes annuels de la caisse, lesquels sont arrêtés par le directeur. Il les présente, avec le directeur, au conseil d'administration qui les approuve, sauf vote contraire à la majorité des deux tiers des membres.
 
 Article 19
 
@@ -436,7 +424,7 @@ Article 22
 
 Adoption et modification des statuts
 
-Les statuts et les règlements intérieurs des caisses de base ainsi que leurs modifications, sont soumis à l'approbation du préfet de région qui dispose d'un délai de 30 jours à compter de la date de réception pour les approuver ou s'y opposer. Passé ce délai, ces documents sont considérés comme approuvés.
+Les statuts et les règlements intérieurs des caisses de base ainsi que leurs modifications, sont soumis à l'approbation du responsable du service mentionné à l'article R. 155-1 qui dispose d'un délai de 30 jours à compter de la date de réception pour s'y opposer. Passé ce délai, ces documents sont considérés comme approuvés.
 
 L'approbation initiale des statuts de l'organisme est donnée par l'arrêté d'enregistrement dudit organisme.
 
