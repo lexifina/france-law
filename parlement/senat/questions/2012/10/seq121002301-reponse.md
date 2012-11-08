@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002301
+
+- Question : [SEQ121002301](seq121002301.md) — Professions de santé en Nouvelle-Calédonie
+
+## Réponse
+
+*Enseignement supérieur et recherche, JO du 2012-11-08, page 2541*
+
+Accompagnant la mise en place de la première année du premier cycle des études médicales puis de la première année commune aux études de santé (PACES), dans le cadre du département des sciences et techniques de l'université de Nouvelle-Calédonie (UNC), des conventions de coopération universitaire ont été régulièrement renouvelées entre cette université et l'université Paris VI qui accueille les étudiants de l'UNC pour la poursuite de leurs études. Ce dispositif conventionnel prévoit notamment l'aide apportée par cette université pour la préparation des étudiants de Nouvelle-Calédonie aux épreuves sanctionnant la première année organisées à Nouméa et la désignation, par chaque président d'université, d'un coordinateur de la PACES qui collaborent étroitement. Une forme particulière de soutien à destination des étudiants d'origine mélanésienne intervient dans le cadre de la politique de rééquilibrage mise en œuvre par l'État en Nouvelle-Calédonie, avec la prise en charge de jeunes gens en internat, accompagnés par un tuteur bénévole venant de métropole. Le coût de cette opération est assumé par un groupement d'intérêt public (GIP), « Cadres Avenir », à finalité de rééquilibrage et regroupant essentiellement l'État, le territoire et les provinces de Nouvelle-Calédonie, l'objectif étant de favoriser l'accès des jeunes d'origine océanienne aux études de santé. Le Président de l'université de Nouvelle-Calédonie a fait savoir que la désignation d'un nouveau coordonnateur local au sein de son établissement n'a remis en cause ni l'étroite collaboration de son université avec ce GIP ni le dispositif de tutorat en internat à destination des étudiants d'origine mélanésienne.
