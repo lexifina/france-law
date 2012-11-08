@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700851
+
+- Question : [SEQ120700851](seq120700851.md) — Enseignement de l'histoire-géographie
+
+## Réponse
+
+*Éducation nationale, JO du 2012-11-08, page 2538*
+
+Attentif à la formation humaniste des citoyens tout au long de leur scolarité, le Président de la République s'est engagé à ce que l'histoire-géographie soit rétabli comme enseignement obligatoire pour tous les élèves de la terminale scientifique. À titre transitoire, dans l'attente de ce rétablissement, l'enseignement facultatif d'histoire-géographie prévu par les textes en vigueur est proposé dès cette rentrée à tous les élèves de terminale de cette série. D'ores et déjà, les services du ministère de l'éducation nationale entreprennent la révision des programmes d'histoire-géographie de la série S dans la perspective d'un rétablissement à la rentrée 2014 de l'enseignement obligatoire en classe terminale. Les programmes d'histoire-géographie-éducation civique progressivement mis en œuvre au collège depuis la rentrée scolaire 2009 s'appliquent, à tous les niveaux, dans le cadre d'une grille horaire inchangée depuis la rentrée scolaire de septembre 1997. Dans un cadre horaire global de trois heures hebdomadaires au cycle central, le professeur a l'obligation de couvrir l'intégralité des trois programmes et de veiller strictement à la parité entre l'histoire et la géographie mais il a la latitude pour construire un cheminement dont il assume la responsabilité. À la fin de la scolarité obligatoire, l'élève doit connaître et savoir utiliser des repères historiques fondamentaux qui sont, dans la continuité des acquis de l'école élémentaire, essentiellement ancrés dans notre histoire nationale. Les programmes d'histoire-géographie-éducation civique du collège ont reçu un avis favorable lors de la séance du 3 juillet 2008 du Conseil supérieur de l'éducation.
