@@ -672,7 +672,7 @@ Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aé
 
 Utilisable par les hélicoptères dans des conditions définies par la direction de la sécurité de l'aviation civile Sud. |
 
-Riberac - Saint-Aulaye |
+Riberac - Tourette |
 
 Dordogne |
 
