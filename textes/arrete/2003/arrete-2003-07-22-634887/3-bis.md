@@ -1,20 +1,24 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de technicien (ne) d'assistance en informatique selon le tableau de correspondances figurant ci-dessous.
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la date d'entrée en vigueur du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous :
 
-TECHNICIEN (NE) D'ASSISTANCE EN INFORMATIQUE
+TITRE PROFESSIONNEL
 
-(arrêté du 22 juillet 2003)
+technicien (ne) d'assistance
+
+en informatique
+
+(arrêté du 22 juillet 2003 modifié)
 
 |
 
-TECHNICIEN (NE) D'ASSISTANCE EN INFORMATIQUE
+TITRE PROFESSIONNEL
+
+technicien (ne) d'assistance
+
+en informatique
 
 (présent arrêté)
-
-|
-
-Intervenir sur poste de travail informatique et auprès d'un utilisateur.
 
 |
 
@@ -22,7 +26,7 @@ Intervenir et assister sur poste informatique auprès des entreprises et des par
 
 |
 
-Intervenir à distance et au premier niveau en informatique.
+Intervenir et assister sur poste informatique auprès des entreprises et des particuliers.
 
 |
 
@@ -30,10 +34,14 @@ Assister en centre de services informatiques et numériques auprès des entrepri
 
 |
 
-Intervenir en environnement de réseau informatique d'entreprise.
+Assister en centre de services informatiques et numériques auprès des entreprises et des particuliers.
 
 |
 
 Intervenir et assister sur les accès et les services de réseaux numériques.
+
+|
+
+Intervenir et assister sur les accès et services de réseaux numériques auprès des entreprises et des particuliers.
 
 |
