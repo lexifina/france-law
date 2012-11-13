@@ -1,0 +1,9 @@
+# Réponse à la question n° 2521
+
+- Question : [2521](2521.md) — Question n° 2521 — automobiles; acquisition; réglementation
+
+## Réponse
+
+*JO du 2012-11-13*
+
+La lutte contre la fraude fiscale est une priorité du Gouvernement et il partage pleinement la préoccupation de l'auteur de la question à l'égard des pratiques frauduleuses constatées en matière de TVA sur la marge dans le secteur des véhicules d'occasion. La direction générale des finances publiques (DGFiP) mène une action volontariste dans ce domaine. La détection des anomalies se fait notamment dès l'examen de la demande de certificat fiscal aux fins d'immatriculation d'un véhicule. La DGFiP met en oeuvre l'ensemble de ses procédures à l'encontre des fraudes de ce type : enquêtes, procédures de visite et de saisie, contrôles de comptabilité de mandataires ou négociants automobiles. L'objectif poursuivi est de réunir les éléments permettant d'asseoir les rappels de TVA, d'une part, et, d'autre part, de mettre en oeuvre des poursuites pénales. Au plan pénal, 54 plaintes pour fraude fiscale ou escroquerie ont ainsi été déposées en 2011. Par ailleurs, dans le cadre de la lutte contre ces fraudes, la DGFiP a systématiquement recours à l'assistance administrative à destination des États de provenance des véhicules. Une coopération accélérée entre États membres de l'Union européenne sur les opérateurs suspects en matière de fraude à la TVA dans le commerce intracommunautaire des véhicules d'occasion, a en outre été mise en place dans le cadre du dispositif EUROFISC, opérationnel depuis le 1er janvier 2011. Enfin, afin de se doter d'outils supplémentaires le Gouvernement proposera, dans le cadre du projet de loi de finances rectificative pour 2012, une mesure visant à faciliter le recouvrement de la TVA frauduleusement éludée dans le cadre de montages concernant les voitures d'occasion.
