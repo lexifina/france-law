@@ -1,0 +1,9 @@
+# Réponse à la question n° 721
+
+- Question : [721](721.md) — Question n° 721 — rupture conventionnelle; champ d'application
+
+## Réponse
+
+*JO du 2012-11-13*
+
+La loi n° 2008-596 du 25 juin 2008 portant modernisation du marché du travail a introduit la notion de rupture conventionnelle en droit du travail. S'agissant des agents contractuels de la fonction publique territoriale, dont le régime juridique est fixé par le décret n° 88-145 du 15 février 1988 pris pour l'application de l'article 136 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et relatif aux agents non titulaires de la fonction publique territoriale, aucune disposition équivalente n'est prévue. En effet, le droit du travail et le droit de la fonction publique poursuivent des objectifs distincts qui justifient que la place laissée à l'accord de la volonté des parties ne soit pas la même dans la relation contractuelle, notamment au moment de la rupture du contrat. Les dispositions réglementaires relatives aux indemnités de licenciement des contractuels sont d'ordre public et de ce fait soustraites à l'accord de la volonté des parties. Le juge administratif a ainsi consacré les dispositions réglementaires relatives aux indemnités de licenciement des agents publics comme des dispositions d'ordre public, c'est-à-dire impératives, que la volonté des parties au contrat ne peut en aucun cas mettre en échec : « considérant que les dispositions de l'article 46 du décret du 15 février 1988 [relatives aux indemnités de licenciement précitées] présentent un caractère d'ordre public ; que, par suite, une collectivité territoriale ou un établissement public en dépendant ne saurait légalement s'en écarter en concluant avec un agent non titulaire un contrat prévoyant des modalités différentes de calcul de l'indemnité de licenciement » (CE n° 250695 du 14 juin 2004).
