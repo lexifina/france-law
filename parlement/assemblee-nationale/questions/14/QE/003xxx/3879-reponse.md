@@ -1,0 +1,9 @@
+# Réponse à la question n° 3879
+
+- Question : [3879](3879.md) — Question n° 3879 — conditions d'attribution
+
+## Réponse
+
+*JO du 2012-11-13*
+
+La bourse d'enseignement supérieur sur critères sociaux est accordée à l'étudiant confronté à des difficultés matérielles ne lui permettant pas d'entreprendre ou de poursuivre des études supérieures. Elle constitue une aide complémentaire à celle de la famille. A ce titre, elle ne peut se substituer à l'obligation alimentaire telle que définie par les dispositions des articles 203 et 371-2 du code civil qui imposent aux parents d'assurer l'entretien de leurs enfants, même majeurs, tant que ces derniers ne sont pas en mesure de subvenir à leurs propres besoins. Conformément à la réglementation en vigueur, les bourses d'enseignement supérieur sur critères sociaux sont accordées en fonction d'un barème national qui prend en considération les ressources et les charges de la famille de l'étudiant. Les revenus retenus pour le calcul du droit à bourse sont ceux de l'année n - 2, pondérés par la prise en compte, d'une part, de l'éloignement du domicile de l'étudiant par rapport à l'établissement d'inscription à la rentrée et, d'autre part, des personnes à charge de sa famille. En cas de séparation, les revenus pris en compte sont ceux du parent ayant à charge le candidat, sous réserve qu'un jugement prévoie pour l'autre parent l'obligation du versement d'une pension alimentaire. En l'absence d'un tel jugement, les ressources des deux parents sont prises en compte. En revanche, dans le cas du versement volontaire d'une pension alimentaire, les revenus des deux parents sont pris en compte en veillant à ne pas comptabiliser deux fois la pension alimentaire. La question des revenus à prendre en compte pour le calcul des aides aux étudiants est traitée dans le cadre des assises de l'enseignement supérieur et de la recherche.
