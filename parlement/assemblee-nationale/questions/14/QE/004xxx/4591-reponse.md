@@ -1,0 +1,9 @@
+# Réponse à la question n° 4591
+
+- Question : [4591](4591.md) — Question n° 4591 — mobilité; statistiques
+
+## Réponse
+
+*JO du 2012-11-13*
+
+L'aide à la mobilité internationale, dont le montant est de 400 € par mois, s'adresse aux étudiants boursiers sur critères sociaux ou bénéficiaires d'une aide d'urgence annuelle qui souhaitent suivre une formation supérieure à l'étranger dans le cadre d'un programme d'échanges ou effectuer un stage international. Cette formation ou ce stage doit s'inscrire dans le cadre de leur cursus d'études. Cette aide est accordée sur décision des chefs d'établissement d'enseignement supérieur. Le chef d'établissement retient les candidatures en fonction de la qualité et de l'intérêt pédagogiques des projets individuels des étudiants et de leur conformité avec la politique internationale menée par l'établissement. Depuis la rentrée 2012, ces aides sont mises en paiement directement par les établissements d'enseignement supérieur où sont inscrits les étudiants concernés. Cette aide se compose de deux mensualités forfaitaires minimum. Elle peut être complétée par une ou plusieurs mensualités, dans la limite de sept (soit un maximum de neuf mensualités) afin de prendre en compte la durée du séjour et certaines spécificités telles que l'éloignement du pays d'accueil de l'étudiant, le coût de la vie du pays choisi. Le département de la Lozère compte deux sites universitaires, l'un à Mende où se trouvent l'antenne de l'université de Perpignan Via Domitia et un pôle de l'université Montpellier II (IUFM) et l'autre à Albaret Sainte Marie où est implantée une antenne de l'Institut des sciences de l'entreprise et du management rattaché à l'université Montpellier I. Parmi les étudiants originaires du département de la Lozère, près de 900 bénéficient d'une bourse sur critères sociaux en 2011-2012 et plus de 10 ont obtenu une aide à la mobilité internationale.
