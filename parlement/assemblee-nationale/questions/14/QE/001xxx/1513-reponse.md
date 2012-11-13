@@ -1,0 +1,9 @@
+# Réponse à la question n° 1513
+
+- Question : [1513](1513.md) — Question n° 1513 — contrôles médicaux; assouplissement
+
+## Réponse
+
+*JO du 2012-11-13*
+
+Les demandes de droits et prestations adressées à la maison départementale des personnes handicapées (MDPH) doivent être accompagnées d'un certificat médical. Toutefois, afin de simplifier les démarches, un nouveau certificat médical a été mis en place par arrêté du 23 mars 2009 qui prévoit désormais la possibilité, pour le médecin, de remplir un certificat simplifié lorsque l'état de santé ou le handicap de la personne est stable. Par ailleurs, la commission des droits et de l'autonomie des personnes handicapées (CDAPH) a la possibilité d'adapter la durée d'attribution des droits et prestations en fonction de l'évolutivité du handicap et de la situation. Ainsi, elle peut attribuer la carte d'invalidité, pour une durée limitée, jusqu'à dix ans ou à titre définitif. Il en va de même pour la carte de stationnement délivrée par le préfet. S'agissant des prestations, l'allocation aux adultes handicapés (AAH), lorsque le taux d'incapacité des personnes est égal ou supérieur à 80%, ainsi que la prestation de compensation (PCH) pour le 1er élément (aides humaines) et le 4e élément (aides spécifiques) peuvent être attribuées pour une durée pouvant aller jusqu'à dix ans. Ces dispositions visent à faciliter les démarches en particulier des personnes dont le handicap est définitif. Cependant, il convient de signaler qu'il importe de conserver, le cas échéant, même pour ces personnes, un délai permettant une évaluation périodique de leur situation. En effet, ces différents droits et prestations s'inscrivent dans un plan personnalisé de compensation qui prend en compte la globalité de la situation de la personne, sans se limiter à la seule nature du handicap.
