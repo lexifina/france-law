@@ -1,0 +1,9 @@
+# Réponse à la question n° 565
+
+- Question : [565](565.md) — Question n° 565 — homosexuels; revendications
+
+## Réponse
+
+*JO du 2012-11-13*
+
+Depuis sa création par la loi n° 99-944 du 15 novembre 1999, le pacte civil de solidarité (PACS) s'adresse à tous les couples, quel que soit le sexe des partenaires, qui entendent organiser leur vie commune dans un cadre légal souple et fiable, garant d'une stabilité juridique renforcée, tant à l'égard des partenaires qu'à l'égard des tiers. Depuis sa création, et alors même que ce nouveau contrat d'union avait été extrêmement critiqué par l'opposition d'alors, le régime juridique du PACS a été sensiblement amélioré et modifié, tout en restant distinct de celui du mariage. Cette différence demeure justifiée dans la mesure où le PACS ne comporte pas les mêmes engagements que l'union matrimoniale, ni les mêmes conditions de dissolution. Par ailleurs, eu égard au nombre de contrats conclus, le PACS, dans sa forme actuelle, répond aux attentes de nombreux couples, et pas seulement à celles des couples de même sexe, loin s'en faut ; en effet près de 95 % des PACS sont conclus par des couples hétérosexuels. Dès lors, il n'est pas envisagé de le réformer, notamment pour le réserver exclusivement aux couples de personnes de même sexe. La Cour européenne des droits de l'homme estime, dans l'arrêt cité du 24 juin 2010, que les Etats sont les mieux placés pour fixer, en matière de mariage entre personnes de même sexe, les règles adaptées aux besoins de la société. Le législateur peut donc déterminer les conditions de fond du mariage qui lui semblent les plus pertinentes au regard, notamment, du principe d'égalité. Ainsi, conformément aux engagements du président de la République, le gouvernement soumettra prochainement au parlement un projet de loi visant à ouvrir le mariage et l'adoption aux couples de personnes de même sexe.
