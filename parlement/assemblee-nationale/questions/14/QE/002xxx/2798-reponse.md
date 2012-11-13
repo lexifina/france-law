@@ -1,0 +1,9 @@
+# Réponse à la question n° 2798
+
+- Question : [2798](2798.md) — Question n° 2798 — effectifs de la profession; répartition géographique
+
+## Réponse
+
+*JO du 2012-11-13*
+
+Les difficultés d'accès aux soins, matérialisées par des délais de rendez-vous longs ou l'éloignement géographique d'un professionnel, alimentent le sentiment de désertification médicale. Plus de 7 % de nos concitoyens habitent dans des zones dont la densité médicale est préoccupante. Le départ à la retraite d'un médecin, surtout dans les territoires ruraux, est une inquiétude majeure pour la population. Même si le problème est davantage celui de la répartition géographique des professionnels que de leur nombre global, il en résulte des inégalités territoriales d'accès à la santé. Le Gouvernement souhaite favoriser un égal accès de tous nos concitoyens à la santé et aux soins. La priorité doit être de trouver des solutions concrètes qui permettent à la fois de répondre aux attentes réelles des professionnels et aux besoins des patients : travail en équipes, horaires décents, installation facilitée pour les médecins libéraux ou nouvelles formes d'exercice, implantation de maisons, de pôles ou de centres de santé le cas échéant, mobilisation des hôpitaux de proximité, parcours professionnels diversifiés. À cet égard, la formation constitue un levier majeur. Il peut s'agir, par exemple, de faire découvrir le métier de généraliste tôt dans les études de médecine en rendant effectifs les stages de deuxième cycle chez les praticiens généralistes. Dans le projet de loi de financement de la sécurité sociale pour 2013, le Gouvernement vient par ailleurs de présenter une première mesure forte pour lutter contre les déserts médicaux, avec la création du statut de praticien territoriale de médecine générale, qui permettra à 200 jeunes médecins de venir en aide à leur confrères dans les zones où l'offre médicale est insuffisante.
