@@ -1,0 +1,9 @@
+# Réponse à la question n° 5137
+
+- Question : [5137](5137.md) — Question n° 5137 — promotion; perspectives
+
+## Réponse
+
+*JO du 2012-11-13*
+
+La France mettra en oeuvre le processus de ratification de la Charte européenne des langues régionales ou minoritaires, conformément à l'engagement du Président de la République. Ce travail sera fait de manière transversale et coopérative, et visera, en liaison étroite avec les parlementaires et l'ensemble des élus, à assurer un plein développement aux langues de France. Dans le domaine occitan, fidèle à l'esprit de responsabilité partagée entre les différents organes publics, l'État porte son effort sur la coordination inter-régionale déjà engagée entre Aquitaine et Midi-Pyrénées, et destinée à s'étendre aux autres collectivités du territoire intéressé. Un document de cadrage pour un dialogue entre l'État et les collectivités sur la promotion de l'occitan a été mis au point. Il concerne la numérisation du patrimoine documentaire, le livre et l'édition, le spectacle vivant et la programmation audiovisuelle, et tend à inscrire les projets dans les dispositifs de droit commun du ministère de la culture et de la communication et des collectivités. Pour ce qui concerne la désignation des usages, les services de l'État considèrent que la langue d'oc ou occitan se réalise sous différentes formes ou variétés, dont le nom est donné dans la liste des langues de France diffusée par le ministère de la culture et de la communication : l'occitan parlé en Auvergne est l'auvergnat, en Languedoc le languedocien, en Provence le provençal, etc. Les variations qui distinguent ces parlers sont donc prises en compte, mais ne remettent pas en cause l'unité du domaine. Cette position est une reconnaissance de la pluralité interne des systèmes linguistiques, contre les tendances au repli et à la fragmentation.
