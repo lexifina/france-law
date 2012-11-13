@@ -1,0 +1,9 @@
+# Réponse à la question n° 2686
+
+- Question : [2686](2686.md) — Question n° 2686 — collectivités territoriales; missions
+
+## Réponse
+
+*JO du 2012-11-13*
+
+Les difficultés économiques croissantes que connaissent nombre de ménages en France ont notamment pour conséquence l'aggravation majeure des conditions de logement. C'est donc une mobilisation générale, pour tous, qu'il nous faut engager. C'est le sens de l'engagement du Président de la République à marquer un renforcement de la politique du logement : renforcement quantitatif, avec l'objectif ambitieux de construire 500 000 logements par an, dont 150 000 logements sociaux, et, renforcement qualitatif, avec la prise en compte de l'égalité des territoires, de la mixité sociale et de la qualité écologique. Les actions ont déjà été engagées. L'objectif de 150 000 logements sociaux, et l'accroissement de l'enveloppe de crédits qui l'accompagne, en ces temps de grande vigilance budgétaire, sont inscrits dans la loi de finances pour 2013. Mais, il s'agit de construire là où sont les besoins, et donc bien souvent là où le prix du foncier est le plus important. C'est pourquoi le projet de loi de mobilisation du foncier public et de renforcement des obligations de production de logements sociaux devra être adopté et promulgué au plus vite. Les collectivités territoriales qui se sont engagées, depuis 2005, grâce au dispositif des délégations de compétences, dans la mise en oeuvre des politiques locales de l'habitat ont effectivement contribué à l'augmentation de la production de logements sociaux sur leurs territoires, en particulier par leur participation financière dans les opérations, et par leur accompagnement des communes pour que les projets de construction puissent se concrétiser. Le débat parlementaire sur le projet de loi de décentralisation, prévu début 2013, pourrait permettre de conforter le rôle des collectivités territoriales.
