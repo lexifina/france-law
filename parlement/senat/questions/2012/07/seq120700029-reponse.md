@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700029
+
+- Question : [SEQ120700029](seq120700029.md) — Exercice du recouvrement amiable par certaines sociétés de recouvrement
+
+## Réponse
+
+*Justice, JO du 2012-11-15, page 2610*
+
+Les dispositions du décret n° 96-1112 du 18 décembre 1996 portant règlementation de l'activité des personnes procédant au recouvrement amiable des créances pour le compte d'autrui ont été codifiées aux articles R. 124-1 à R. 124-7 du code des procédures civiles d'exécution. L'article R. 124-6 de ce code impose aux sociétés de recouvrement de délivrer au débiteur une quittance pour tout paiement qu'il effectue. Par ailleurs et en application de l'article R. 124-4 3° du même code, lorsque les sociétés de recouvrement adressent une mise en demeure à un débiteur, celle-ci doit notamment comporter le montant de la somme due en principal, intérêts et accessoires, à l'exclusion cependant des frais restant à la charge du créancier en vertu du troisième alinéa de l'article L. 111-8 du même code, lequel prévoit que les frais de recouvrement amiable doivent rester à la charge du créancier, sauf s'ils sont prescrits par la loi. Ces frais peuvent en outre être laissés en tout ou partie à la charge du débiteur si, dans le cadre d'un contentieux devant le juge de l'exécution, ils sont considérés comme nécessaires. Par conséquent et dans le cadre d'un recouvrement amiable, il est déjà interdit aux sociétés de recouvrement de facturer aux débiteurs tant les frais de mise en demeure que ceux relatifs à l'émission d'une quittance en cas de paiement. Seule une prescription légale ou une décision du juge de l'exécution peuvent permettre de laisser ces frais à la charge des débiteurs. Il n'est donc pas envisagé de réforme des dispositions issues du décret du 18 décembre 1996 sur ce point.
