@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120801558
+
+- Question : [SEQ120801558](seq120801558.md) — Contribution pour l'aide juridique
+
+## Réponse
+
+*Justice, JO du 2012-11-15, page 2613*
+
+L'article L. 2132-5 du code général des collectivités territoriales prévoit que « Tout contribuable inscrit au rôle de la commune a le droit d'exercer, tant en demande qu'en défense, à ses frais et risques, avec l'autorisation du tribunal administratif, les actions qu'il croit appartenir à la commune, et que celle-ci, préalablement appelée à en délibérer, a refusé ou négligé d'exercer ». Ces dispositions permettent à tout contribuable local de se substituer à la commune pour exercer une action en justice que cette dernière a refusé ou omis d'exercer, à la condition que le tribunal administratif l'y ait préalablement autorisé. Comme le Conseil d'État l'a jugé dans un arrêt du 13 mai 1994, Levais, 150047, le tribunal administratif saisi, en application de ces dispositions, de la demande d'un contribuable tendant à exercer une action appartenant à la commune, statue comme autorité administrative et non comme autorité juridictionnelle. Dans ces conditions, la saisine du tribunal administratif en vue d'obtenir une autorisation d'ester en justice pour le compte de la commune, qui ne constitue pas une « instance introduite en matière civile, commerciale, prud'homale, sociale ou rurale devant une juridiction judiciaire ou par instance introduite devant une juridiction administrative » au sens de l' article 1635 bis q du code général des impôt, issu de la loi n° 2011-900 du 29 juillet 2011, n'est pas soumise au versement de la contribution pour l'aide juridique. En revanche, dans l'hypothèse où le tribunal administratif autoriserait une telle action, cette dernière devrait donner lieu au versement de la contribution pour l'aide juridique par le contribuable local, lequel, en vertu des dispositions précitées, exerce cette action « à ses frais et risques ».
