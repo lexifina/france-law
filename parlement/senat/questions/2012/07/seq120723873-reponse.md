@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120723873
+
+- Question : [SEQ120723873](seq120723873.md) — Pilotage du plan bâtiment Grenelle
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2012-11-15, page 2599*
+
+Vu les décrets n° 2012-770 et n° 2012-772 du 24 mai 2012, relatifs respectivement aux attributions de la ministre de l'égalité des territoires et du logement et de la ministre de l'écologie, du développement durable et de l'énergie, les deux ministères ont, en effet, une autorité conjointe sur la direction générale de l'aménagement, du logement et de la nature (DGALN). Il s'ensuit que le comité stratégique « Plan Bâtiment Grenelle », au sein de la DGALN, est placé sous l'autorité des deux ministres. Cet état de fait n'obère en rien la netteté et l'efficacité du dispositif. En effet, en matière de rénovation des bâtiments, les engagements du Président de la République sont clairs et ambitieux, et ont été réitérés lors de son discours à la Conférence environnementale des 14 et 15 septembre, dont la « Feuille de route de sortie » a été rendue publique le 20 septembre 2012. L'objectif du Gouvernement est de mettre aux meilleures normes énergétiques un million de logements neufs et anciens par an à terme, en priorité axé sur les quatre millions de logements anciens qui sont les plus mal isolés. La rénovation énergétique des bâtiments est aujourd'hui la première des politiques permettant conjointement d'améliorer le pouvoir d'achat, de développer l'économie et l'emploi et de s'engager dans la transition écologique de notre société. Ceci nécessite de changer d'échelle non seulement en mobilisant de manière plus efficace l'ensemble des dispositifs existants, mais aussi en imaginant de nouveaux modèles de financement. Tels sont les objectifs qui guident l'action du Gouvernement, que le comité stratégique « Plan Bâtiment Grenelle » accompagne dans sa mise en œuvre.
