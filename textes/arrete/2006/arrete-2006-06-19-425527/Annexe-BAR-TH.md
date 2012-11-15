@@ -1978,29 +1978,31 @@ Opération n° BAR-TH-13
 
 Chaudière biomasse individuelle
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Maisons individuelles existantes.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'une chaudière biomasse.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Le rendement énergétique de l'équipement, mesuré à partir des normes NF EN 303.5 ou EN 12809, doit être supérieur ou égal à :
+Le rendement énergétique de l'équipement doit être supérieur ou égal à :
 
-- 85 % si le chargement du combustible est automatique ;
+85 % si le chargement du combustible est automatique ;
 
-- 80 % si le chargement du combustible est manuel.
+80 % si le chargement du combustible est manuel.
+
+Pour les chaudières de puissance inférieure ou égale à 50 kW, destinées à être implantées dans le volume habitable, le rendement énergétique est mesuré à partir de la norme NF EN 12 809.
+
+Pour les autres chaudières de puissance inférieure ou égale à 500 kW, le rendement énergétique est mesuré selon la norme NF EN 303.5.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans
-
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
 Zone climatique |
 
@@ -2058,35 +2060,37 @@ Appartements existants.
 
 2. Dénomination :
 
-Mise en place d'une chaufferie valorisant de la biomasse comme combustible pour des besoins de chauffage et/ou d'eau chaude sanitaire, accompagnée d'un contrat de maintenance comportant un engagement de maintien du rendement énergétique de la chaudière sur la durée du contrat.
-
-Le rendement énergétique est mesuré à partir des normes NF EN 303.5 ou EN 12809.
+Mise en place d'une chaufferie valorisant la biomasse comme combustible pour des besoins de chauffage et/ou d'eau chaude sanitaire, accompagnée d'un contrat de maintenance comportant un engagement de maintien du rendement énergétique de la chaudière sur la durée du contrat.
 
 3. Conditions pour la délivrance de certificats :
 
 Pour la chaufferie :
 
-La production thermique annuelle nette de la chaudière due à la biomasse (Pth) est évaluée par une étude de faisabilité selon le cahier des charges défini par l'ADEME ou selon tout autre référentiel équivalent.
+La production thermique annuelle nette de la chaudière due à la biomasse (Pth) sera évaluée par une étude de faisabilité selon le cahier des charges défini par l'ADEME ou selon tout autre référentiel équivalent.
 
 Pour le contrat :
 
-1° Le contrat est établi avec un professionnel ayant une qualification Qualibat 553 ou 554 ou tout dispositif présentant des spécifications techniques équivalentes ;
+- le contrat doit être établi avec un professionnel ayant une qualification Qualibat 553 ou 554 ou tout dispositif présentant des spécifications techniques équivalentes ;
 
-2° Le contrat prévoit que le rendement énergétique de la chaufferie installée est mesuré au moins une fois par an ;
+- le contrat prévoit que le rendement énergétique de la chaufferie installée est mesuré au moins une fois par an ;
 
-3° Le contrat comporte l'engagement du prestataire à maintenir le rendement énergétique de la chaufferie installée. Le rendement à maintenir est défini à partir d'une mesure après installation.
+- pour les chaudières de puissance inférieure ou égale à 50 kW, destinées à être implantées dans le volume habitable, le rendement énergétique est mesuré à partir de la norme NF EN 12 809 ;
+
+- pour les autres chaudières de puissance inférieure ou égale à 500 kW, le rendement énergétique est mesuré selon la norme NF EN 303.5 ;
+
+- le contrat comporte l'engagement du prestataire à maintenir le rendement énergétique de la chaufferie installée. Le rendement à maintenir est défini à partir d'une mesure après installation.
 
 4. Durée de vie conventionnelle :
 
 Chaudière : 15 ans.
 
-Contrat : plafonnée à 8 ans.
+Contrat : plafonné à 8 ans.
 
 5. Montant de certificats en kWh cumac :
 
 Pour la chaufferie :
 
-11,563 × Pth(kWh/an)
+11,563 × Pth (kWh/an)
 
 Pour le contrat :
 
@@ -2564,35 +2568,47 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-19
 
-Programmateur d'intermittence pour un chauffage collectif à combustible
+Programmateur d'intermittence pour un chauffage collectif
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
-Mise en place, sur une chaudière existante, d'un équipement ayant la fonction de programmation d'intermittence, au sens de la norme EN 12098-5, pour un chauffage collectif à combustible.
+Mise en place, sur un circuit de chauffage existant, d'un équipement ayant la fonction de programmation d'intermittence, au sens de la norme EN 12098-5, pour un chauffage collectif.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
+ZONE CLIMATIQUE |
 
-Zone climatique |
+MONTANT EN kWh CUMAC
 
-Montant en kWh cumac pour un appartement |
+par programmateur |
+
+|
+
+NOMBRE
+
+de programmateurs
+
+|
 
 H1
 
 |
 
 13 000
+
+|
+
+|
 
 |
 
@@ -2604,11 +2620,21 @@ H2
 
 |
 
+x |
+
+N
+
+|
+
 H3
 
 |
 
 7 100
+
+|
+
+|
 
 |
 
@@ -2852,31 +2878,43 @@ Opération n° BAR-TH-22
 
 Récupérateur de chaleur à condensation
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un récupérateur de chaleur à condensation pour un système de chauffage collectif.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Les locaux professionnels au sein d'immeubles collectifs existants sont assimilés à des appartements.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans.
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
+USAGE
 
-Usage de la chaudière |
+de la chaudière
 
-Zone climatique |
+|
 
-kWh cumac |
+ZONE
+
+climatique |
+
+MONTANTS EN kWh CUMAC
+
+pour un appartement |
+
+|
+
+NOMBRE
+
+d'appartements |
 
 Chauffage |
 
@@ -2886,9 +2924,17 @@ H1 |
 
 |
 
+|
+
+|
+
 H2 |
 
 15 000
+
+|
+
+|
 
 |
 
@@ -2898,13 +2944,25 @@ H3 |
 
 |
 
-Chauffage et eau chaude
+x
 
-sanitaire |
+|
+
+N
+
+|
+
+Chauffage
+
+et eau chaude sanitaire |
 
 H1 |
 
 24 000
+
+|
+
+|
 
 |
 
@@ -2914,9 +2972,17 @@ H2 |
 
 |
 
+|
+
+|
+
 H3 |
 
 15 000
+
+|
+
+|
 
 |
 
@@ -2926,41 +2992,67 @@ Opération n° BAR-TH-23
 
 Optimiseur de relance en chauffage collectif
 
-1. Secteur d'application
+1. Secteur d'application :
 
 Appartements existants.
 
-2. Dénomination
+2. Dénomination :
 
-Mise en place d'un optimiseur de relance centralisé équipé d'un programmateur d'intermittence avec auto adaptation des horaires de changement de phase de chauffage pour un système de chauffage collectif.
+Mise en place, sur un circuit de chauffage existant, d'un optimiseur de relance centralisé équipé d'un programmateur d'intermittence avec autoadaptation des horaires de changement de phase de chauffage pour un système de chauffage collectif.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Les locaux professionnels au sein d'immeubles collectifs existants sont assimilés à des appartements.
 
 Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle
+4. Durée de vie conventionnelle : 15 ans.
 
-15 ans.
+5. Montant de certificats en kWh cumac :
 
-5. Montant de certificats en kWh cumac
+ZONE CLIMATIQUE
 
-Appartement |
+|
 
-Zone climatique |
+MONTANT EN kWh CUMAC
+
+par appartement
+
+|
+
+|
+
+NOMBRE
+
+d'appartements |
 
 H1 |
 
 19 000 |
 
+|
+
+|
+
 H2 |
 
 15 000 |
 
+x
+
+|
+
+N
+
+|
+
 H3 |
 
 10 000 |
+
+|
+
+|
 
 Certificats d'économies d'énergie
 
@@ -3870,35 +3962,53 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-28
 
-Plancher rayonnant électrique, plafond rayonnant plâtre, avec dispositif de réglage automatique
+Plancher rayonnant électrique et plafond rayonnant plâtre
 
-1. Secteur d'application
+avec dispositif de réglage automatique
+
+1. Secteur d'application :
 
 Bâtiments résidentiels existants.
 
-2. Dénomination
+2. Dénomination :
 
 Mise en place d'un plancher rayonnant électrique ou d'un plafond rayonnant plâtre, avec un dispositif de réglage automatique en fonction de la température intérieure.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Plancher rayonnant électrique ou plancher rayonnant plâtre bénéficiant d'un avis technique.
+Plancher rayonnant électrique ou plafond rayonnant plâtre :
 
-Mise en place réalisée par un professionnel dans le respect du Cahier des Prescriptions Techniques Plancher Rayonnant Électrique (PRE) et de ses additifs, notamment en ce qui concerne les isolants thermiques à mettre en œuvre.
+- possédant des caractéristiques de performances validées par un avis technique valide du CSTB ;
 
-4. Durée de vie conventionnelle
+- possédant des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF 45011 par le Comité français d'accréditation (COFRAC) ou par tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent dans le cadre de l'European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
-30 ans.
+Mise en place réalisée par un professionnel dans le respect du cahier des prescriptions techniques plancher rayonnant électrique (PRE) et de ses additifs, notamment en ce qui concerne les isolants thermiques à mettre en œuvre.
 
-5. Montant de certificats en kWh cumac
+4. Durée de vie conventionnelle : 30 ans.
 
-Le montant est exprimé par m² de Plancher Rayonnant Électrique ou de Plafond Rayonnant.
+5. Montant de certificats en kWh cumac :
 
-Zone climatique |
+Le montant est exprimé par mètre carré de plancher rayonnant électrique ou de plafond rayonnant plâtre.
 
-Maison individuelle |
+ZONE
 
-Appartement avec chauffage individuel |
+climatique |
+
+MAISON
+
+individuelle |
+
+APPARTEMENT
+
+avec chauffage individuel |
+
+|
+
+SURFACE DE PLAFOND
+
+ou de plancher
+
+|
 
 H1 |
 
@@ -3906,17 +4016,31 @@ H1 |
 
 80 |
 
+x
+
+|
+
+S |
+
 H2 |
 
 110 |
 
 65 |
 
+|
+
+|
+
 H3 |
 
 70 |
 
 45 |
+
+|
+
+|
 
 Certificats d'économies d'énergie
 
@@ -4258,43 +4382,41 @@ avec label de haute performance énergétique
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : maisons individuelles ou appartements neufs.
+Maisons individuelles ou appartements neufs.
+
+La fiche est applicable à tout bâtiment résidentiel en zone ANRU dont le permis de construire a été déposé avant le 28 octobre 2011 et à tout autre bâtiment résidentiel dont le permis de construire a été déposé avant le 1er janvier 2013.
 
 2. Dénomination :
 
 Amélioration des performances énergétiques d'un bâtiment par rapport aux exigences réglementaires en vigueur au moment du dépôt du permis de construire, à partir du 1er septembre 2006, attestée par l'obtention d'un des labels haute performance énergétique , défini par l'arrêté du 3 mai 2007 relatif aux contenus et aux conditions d'attribution de ce label.
 
-3. Conditions particulières à l'obtention de certificats :
+3. Conditions pour la délivrance de certificats :
 
 Le bâtiment bénéficie d'un des labels suivants :
 
-― HPE 2005 ;
+HPE 2005 ;
 
-― THPE 2005 ;
+THPE 2005 ;
 
-― HPE EnR. 2005 ;
+HPE EnR 2005 ;
 
-― THPE EnR. 2005 ;
+THPE EnR 2005 ;
 
-― BBC 2005.
+BBC 2005.
 
-4. Durée de vie conventionnelle :
-
-35 ans.
+4. Durée de vie conventionnelle : 35 ans.
 
 5. Montant de certificats en kWh cumac :
 
-C'ref et C'projet sont les valeurs des coefficients Cref et Cprojet de la réglementation exprimés en [kWh/m².an] d'énergie finale lorsque les calculs sont réalisés avec le moteur de calcul RT2005. Shon représente la surface hors uvre nette en mètres carrés.
+C'ref et C'projet sont les valeurs des coefficients C'ref et C'projet de la réglementation exprimés en [kWh/m².an] d'énergie finale lorsque les calculs sont réalisés avec le moteur de calcul RT2005.
 
-CONDITION SUR
+Shon représente la surface hors œuvre nette en mètres carrés.
 
-(C'ref ― C'projet)/C'ref
+CONDITION SUR (C'ref - C'projet)/C'ref
 
 |
 
-KWh CUMAC
-
-par logement
+kWh CUMAC
 
 |
 
@@ -4488,25 +4610,49 @@ Ventilation naturelle hygroréglable
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : maison individuelle et appartement existants.
+Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une ventilation naturelle hygroréglable dans un logement avec chauffage à combustible ou électrique.
+Mise en place d'un système de ventilation naturelle hygroréglable.
 
 3. Conditions pour la délivrance de certificats :
 
-Mise en place réalisée par un professionnel qui s'assurera que l'étanchéité du bâtiment atteint un niveau de performance compatible avec les performances de la ventilation naturelle hygroréglable.
+Les systèmes de ventilation naturelle hybride hygroréglables ne bénéficiant pas d'un avis technique du CSTB en cours de validité ou n'ayant pas de caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent dans le cadre de l'European Co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation :
 
-Information à fournir impérativement : ancienneté du bâtiment (avant ou après 75).
+- sont éligibles pour les opérations engagées jusqu'au 30 juin 2013, avec une minoration de 15 % des montants de CEE en kWh cumac ;
 
-4. Durée de vie conventionnelle :
+- ne sont pas éligibles pour les opérations engagées à partir du 1er juillet 2013.
 
-16 ans.
+Pour les appartements :
+
+Mise en place réalisée par un professionnel.
+
+Le professionnel atteste que les conduits sont compatibles avec les systèmes de ventilation mis en œuvre.
+
+Pour les maisons individuelles :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
 
 5. Montant de certificats en kWh cumac :
 
+Cas d'une ventilation naturelle hygroréglable sans avis technique du CSTB.
+
 APPARTEMENT
+
+|
+
+TYPE DE CHAUFFAGE |
+
+X
+
+|
+
+NOMBRE D'APPARTEMENTS
+
+|
 
 Zone
 
@@ -4514,53 +4660,13 @@ climatique
 
 |
 
-APPAREIL
+Chauffage
 
-de chauffage à circuit
+électrique |
 
-de combustion
+Chauffage
 
-non étanche
-
-|
-
-AUTRES CHAUFFAGES
-
-à combustible
-
-|
-
-CHAUFFAGE
-
-électrique
-
-|
-
-X
-
-|
-
-FACTEUR
-
-correctif
-
-(1)
-
-|
-
-SURFACE
-
-habitable
-
-(en m²)
-
-|
-
-NOMBRE
-
-de pièces
-
-principales
+à combustible |
 
 |
 
@@ -4568,189 +4674,7 @@ H1
 
 |
 
-3 600
-
-|
-
-8 200
-
-|
-
-3 900
-
-|
-
-0,6
-
-|
-
-< 40
-
-|
-
-1
-
-|
-
-0,7
-
-|
-
-41 ― 60
-
-|
-
-2
-
-|
-
-H2
-
-|
-
-3 000
-
-|
-
-6 700
-
-|
-
-3 200
-
-|
-
-1
-
-|
-
-61 ― 80
-
-|
-
-3
-
-|
-
-1,4
-
-|
-
-81 ― 100
-
-|
-
-4
-
-|
-
-H3
-
-|
-
-2 000
-
-|
-
-4 500
-
-|
-
-2 100
-
-|
-
-1,7
-
-|
-
-101 ― 130
-
-|
-
-5
-
-|
-
-2,2
-
-|
-
-> 131
-
-|
-
-6 et +
-
-|
-
-MAISON
-
-individuelle |
-
-APPAREIL
-
-de chauffage à circuit
-
-de combustion
-
-non étanche
-
-|
-
-AUTRES CHAUFFAGES
-
-à combustible
-
-|
-
-CHAUFFAGE
-
-électrique
-
-|
-
-X
-
-|
-
-FACTEUR
-
-correctif
-
-(1)
-
-|
-
-SURFACE
-
-habitable
-
-(en m²)
-
-|
-
-NOMBRE
-
-de pièces
-
-principales
-
-|
-
-Zone
-
-climatique |
-
-H1
-
-|
-
-9 300
-
-|
-
-15 400
+5 500
 
 |
 
@@ -4758,27 +4682,9 @@ H1
 
 |
 
-0,4
-
 |
 
-< 40
-
-|
-
-1
-
-|
-
-0,4
-
-|
-
-41 ― 60
-
-|
-
-2
+N
 
 |
 
@@ -4786,11 +4692,7 @@ H2
 
 |
 
-7 600
-
-|
-
-12 600
+4 500
 
 |
 
@@ -4798,27 +4700,7 @@ H2
 
 |
 
-0,7
-
 |
-
-61 ― 80
-
-|
-
-3
-
-|
-
-0,9
-
-|
-
-81 ― 100
-
-|
-
-4
 
 |
 
@@ -4826,11 +4708,7 @@ H3
 
 |
 
-5 100
-
-|
-
-8 400
+3 000
 
 |
 
@@ -4838,15 +4716,115 @@ H3
 
 |
 
+|
+
+|
+
+MAISON
+
+individuelle |
+
+TYPE DE CHAUFFAGE
+
+|
+
+X
+
+|
+
+FACTEUR CORRECTIF
+
+|
+
+SURFACE HABITABLE
+
+en m²
+
+|
+
+Zone
+
+climatique |
+
+Chauffage
+
+électrique |
+
+Chauffage
+
+à combustible |
+
+H1
+
+|
+
+8 900
+
+|
+
+13 800
+
+|
+
+0,2
+
+|
+
+S < 35
+
+|
+
+0,4
+
+|
+
+35 ≤ S < 60
+
+|
+
+H2
+
+|
+
+7 300
+
+|
+
+11 300
+
+|
+
+0,7
+
+|
+
+60 ≤ S < 80
+
+|
+
+0,9
+
+|
+
+80 ≤ S < 100
+
+|
+
+H3
+
+|
+
+4 800
+
+|
+
+7 600 |
+
 1,1
 
 |
 
-101 ― 130
-
-|
-
-5
+100 ≤ S ≤ 130
 
 |
 
@@ -4854,15 +4832,193 @@ H3
 
 |
 
-> 131
+> 130
 
 |
 
-6 et +
+Cas d'une ventilation naturelle hygroréglable avec avis technique du CSTB.
+
+APPARTEMENT |
+
+TYPE DE CHAUFFAGE |
 
 |
 
-(1) Le facteur correctif est déterminé à partir soit du nombre de pièces principales, soit de la surface habitable.
+NOMBRE D'APPARTEMENTS |
+
+Zone
+
+climatique
+
+|
+
+Chauffage
+
+électrique |
+
+Chauffage
+
+à combustible |
+
+|
+
+|
+
+H1
+
+|
+
+6 500
+
+|
+
+10 000
+
+|
+
+x
+
+|
+
+N |
+
+H2
+
+|
+
+5 300
+
+|
+
+8 200
+
+|
+
+|
+
+|
+
+H3
+
+|
+
+3 500
+
+|
+
+5 500
+
+|
+
+|
+
+|
+
+MAISON
+
+individuelle |
+
+TYPE DE CHAUFFAGE |
+
+|
+
+FACTEUR CORRECTIF |
+
+SURFACE HABITABLE
+
+en m²
+
+|
+
+ZONE
+
+climatique |
+
+Chauffage
+
+électrique |
+
+Chauffage
+
+à combustible |
+
+|
+
+0,2 |
+
+S < 35 |
+
+H1 |
+
+10 500
+
+|
+
+16 300
+
+|
+
+|
+
+|
+
+0,4
+
+|
+
+35 ≤ S < 60 |
+
+H2
+
+|
+
+8 600
+
+|
+
+13 300
+
+|
+
+x
+
+|
+
+0,7 |
+
+60 ≤ S < 80 |
+
+|
+
+0,9 |
+
+80 ≤ S < 100 |
+
+H3
+
+|
+
+5 700
+
+|
+
+8 900
+
+|
+
+|
+
+1,1 |
+
+100 ≤ S ≤ 130 |
+
+|
+
+1,4 |
+
+> 130
+
+|
 
 Certificats d'économies d'énergie
 
@@ -7079,3 +7235,379 @@ Electricité
 |
 
 Le nombre d'unités d'habitation (N) représente le nombre de maisons individuelles ou le nombre d'appartements desservis par l'installation.
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-55
+
+Ventilation naturelle hybride hygroréglable
+
+1. Secteur d'application :
+
+Bâtiments résidentiels existants.
+
+2. Dénomination :
+
+Mise en place d'un système de ventilation naturelle hybride hygroréglable.
+
+3. Conditions pour la délivrance de certificats :
+
+Les systèmes de ventilation naturelle hybride hygroréglables ne bénéficiant pas d'un avis technique du CSTB en cours de validité ou n'ayant pas de caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent dans le cadre de l'European Co-operation of Accreditation (EA), coordination européenne des organismes d'accréditation :
+
+- sont éligibles pour les opérations engagées jusqu'au 30 juin 2013, avec une minoration de 15 % des montants de CEE en kWh cumac ;
+
+- ne sont pas éligibles, pour les opérations engagées à partir du 1er juillet 2013.
+
+Pour les appartements :
+
+Mise en place réalisée par un professionnel.
+
+Le professionnel atteste que les conduits sont compatibles avec les systèmes de ventilation mis en œuvre.
+
+Pour les maisons individuelles :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Cas d'une ventilation naturelle hybride hygroréglable sans avis technique du CSTB :
+
+APPARTEMENT |
+
+TYPE DE CHAUFFAGE |
+
+|
+
+NOMBRE D'APPARTEMENTS |
+
+Zone
+
+climatique |
+
+Chauffage
+
+électrique |
+
+Chauffage
+
+à combustible |
+
+|
+
+|
+
+H1 |
+
+9 800
+
+|
+
+15 900 |
+
+x
+
+|
+
+N |
+
+H2 |
+
+8 000 |
+
+13 000 |
+
+|
+
+|
+
+H3 |
+
+5 400 |
+
+8 700 |
+
+|
+
+|
+
+MAISON
+
+individuelle |
+
+TYPE DE CHAUFFAGE |
+
+|
+
+FACTEUR CORRECTIF |
+
+SURFACE HABITABLE
+
+en m²
+
+|
+
+Zone
+
+climatique |
+
+Chauffage
+
+électrique |
+
+Chauffage
+
+à combustible |
+
+|
+
+0,2 |
+
+S < 35 |
+
+H1 |
+
+17 200 |
+
+27 700 |
+
+|
+
+|
+
+0,4 |
+
+35 ≤ S < 60
+
+|
+
+H2 |
+
+14 100 |
+
+22 600 |
+
+x
+
+|
+
+0,7
+
+|
+
+60 ≤ S < 80 |
+
+|
+
+0,9 |
+
+80 ≤ S < 100 |
+
+H3 |
+
+9 400 |
+
+15 100 |
+
+|
+
+1,1 |
+
+100 ≤ S ≤ 130 |
+
+|
+
+1,4 |
+
+> 130 |
+
+Cas d'une ventilation naturelle hybride hygroréglable avec avis technique du CSTB :
+
+APPARTEMENT |
+
+TYPE DE CHAUFFAGE |
+
+|
+
+NOMBRE D'APPARTEMENTS |
+
+Zone
+
+climatique |
+
+Chauffage
+
+électrique |
+
+Chauffage
+
+à combustible |
+
+|
+
+|
+
+H1 |
+
+11 500
+
+|
+
+18 700 |
+
+x
+
+|
+
+N |
+
+H2 |
+
+9 400 |
+
+15 300 |
+
+|
+
+|
+
+H3 |
+
+6 300 |
+
+10 200 |
+
+|
+
+|
+
+MAISON
+
+individuelle |
+
+TYPE DE CHAUFFAGE |
+
+|
+
+FACTEUR CORRECTIF |
+
+SURFACE HABITABLE
+
+en m²
+
+|
+
+Zone
+
+climatique |
+
+Chauffage
+
+électrique |
+
+Chauffage
+
+à combustible |
+
+|
+
+0,2 |
+
+S < 35 |
+
+H1 |
+
+20 300 |
+
+32 600
+
+|
+
+|
+
+|
+
+0,4 |
+
+35 ≤ S < 60
+
+|
+
+H2 |
+
+16 600 |
+
+26 600 |
+
+x
+
+|
+
+0,7
+
+|
+
+60 ≤ S < 80 |
+
+|
+
+0,9 |
+
+80 ≤ S < 100 |
+
+H3 |
+
+11 100 |
+
+17 800
+
+|
+
+|
+
+1,1 |
+
+100 ≤ S ≤ 130 |
+
+|
+
+1,4 |
+
+> 130 |
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-56
+
+Chauffe-bain à condensation
+
+1. Secteur d'application :
+
+Bâtiments résidentiels : appartements existants.
+
+2. Dénomination :
+
+Mise en place d'un chauffe-bain à condensation (eau chaude sanitaire individuelle).
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+kWh CUMAC PAR CHAUFFE-BAIN |
+
+|
+
+NOMBRE DE CHAUFFE-BAIN |
+
+15 500 |
+
+x
+
+|
+
+N |

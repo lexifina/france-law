@@ -4,131 +4,13 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-SE-01
 
-Formation des acteurs professionnels du secteur du bâtiment aux économies d'énergie
-
-1. Secteur d'application
-
-Secteur du bâtiment.
-
-2. Dénomination
-
-Formation des acteurs professionnels du secteur du bâtiment aux économies d'énergie.
-
-3. Conditions pour la délivrance de certificats
-
-- Le contenu de la formation doit être agréé par le comité de pilotage spécialement constitué pour cette action ;
-
-- attestation de l'un des organismes paritaires collecteurs agréés (OPCA) figurant sur une liste établie par le comité de pilotage certifiant le versement des fonds par les obligés suite à facturation de la formation (la facture est émise par l'organisme paritaire collecteur agréé qui tient à disposition les preuves de réalisation des formations dans le cadre réglementaire actuellement en vigueur pour la formation professionnelle)
-
-4. Durée de vie conventionnelle
-
-3 ans.
-
-5. Montant de certificats en kWh cumac
-
-Montant des certificats
-
-(kWh cumac) |
-
-=
-
-|
-
-Dépense de formation
-
-(facturée en euros) |
-
-/
-
-|
-
-Coût forfaitaire des
-
-économies additionnelles
-
-dues à la formation
-
-(euro/kWh cumac) |
-
-M
-
-|
-
-D
-
-|
-
-0,015
-
-|
+(Supprimé)
 
 Certificats d'économies d'énergie
 
 Opération n° BAR-SE-02
 
-Ingénierie d'accompagnement des entreprises et artisans du bâtiment pour réaliser les objectifs énergétiques du Grenelle de l'environnement
-
-1. Secteur d'application
-
-Entreprises et artisans du secteur du bâtiment effectuant des travaux de rénovation, de maintenance ou de construction de bâtiments résidentiels ou tertiaires.
-
-2. Dénomination
-
-Élaboration de documents techniques destinés aux entreprises et artisans du secteur du bâtiment pour la réalisation de travaux de rénovation, de maintenance ou de construction de bâtiments, en vue d'accompagner les entreprises et artisans du secteur du bâtiment dans la rénovation, la maintenance et la construction de bâtiments conformes aux objectifs énergétiques du Grenelle de l'environnement (bâtiments neufs à basse consommation et/ou à énergie positive, rénovation énergétique lourde des bâtiments existants).
-
-3. Conditions pour la délivrance de certificats
-
-Un comité de pilotage, spécialement constitué pour cette action, détermine une liste de documents à établir. Pour chacun de ces documents, le comité de pilotage établit un cahier des charges et retient un prestataire.
-
-Une fois les prestations réalisées et validées par le comité de pilotage, celui-ci délivre une attestation de versement de fonds aux entreprises ayant contribué financièrement au paiement des prestations. Les certificats d'économies d'énergie sont délivrés à ces entreprises, sur leur demande et sur présentation de l'attestation.
-
-La quantité maximale de certificats d'économies d'énergie délivrés par document sera mentionnée dans le cahier des charges correspondant et validée par le représentant de l'Etat au sein du comité de pilotage.
-
-4. Durée de vie conventionnelle
-
-Sans objet
-
-5. Montant de certificats en kWh cumac
-
-Montant des
-
-certificats
-
-(kWh cumac) |
-
-=
-
-|
-
-Montant de la prestation
-
-éligible
-
-(facturée en euros) |
-
-/
-
-|
-
-Coût forfaitaire des
-
-économies additionnelles
-
-dues à l'accompagnement
-
-(euro/kWh cumac) |
-
-M
-
-|
-
-D
-
-|
-
-0,015
-
-|
+(Supprimé)
 
 Certificats d'économies d'énergie
 
@@ -244,13 +126,15 @@ Appartements existants équipés d'une installation collective de chauffage à e
 
 2. Dénomination :
 
-Acquisition et réglage d'organes d'équilibrage neufs destinés à assurer une température uniforme dans tous les locaux. Une installation collective de chauffage à eau chaude est considérée comme équilibrée si l'écart de température entre le logement le plus chauffé et le moins chauffé d'un même bâtiment est strictement inférieur à 2° C.
+Acquisition et réglage d'organes d'équilibrage neufs destinés à assurer une température uniforme dans tous les locaux.
+
+Une installation collective de chauffage à eau chaude est considérée comme équilibrée si l'écart de température entre le logement le plus chauffé et le moins chauffé d'un même bâtiment est strictement inférieur à 2 °C.
 
 3. Conditions pour la délivrance de certificats :
 
-Installation et réglage d'organes d'équilibrage neufs, en pied de colonne et/ ou au niveau des logements, effectués par un professionnel.
+Installation et réglage d'organes d'équilibrage neufs, en pied de colonne et/ou au niveau des logements, effectués par un professionnel.
 
-Afin de prouver que les organes d'équilibrage assurent une température uniforme dans tous les locaux, le professionnel fournit un tableau d'enregistrement, signé par ses soins et par le client, des températures moyennes après l'installation de ces organes d'équilibrage.
+Afin de prouver que les organes d'équilibrage assurent une température uniforme dans tous les locaux, le professionnel fournit le tableau d'enregistrement, signé par ses soins et par le client, des températures moyennes, après l'installation de ces organes d'équilibrage.
 
 4. Durée de vie conventionnelle : 10 ans.
 
@@ -264,11 +148,13 @@ par appartement |
 
 |
 
-NOMBRE D'APPARTEMENTS |
+NOMBRE
+
+d'appartements |
 
 H1 |
 
-6 700
+13 400
 
 |
 
@@ -278,12 +164,12 @@ N |
 
 H2 |
 
-5 500
+11 000
 
 |
 
 H3 |
 
-3 700
+7 400
 
 |

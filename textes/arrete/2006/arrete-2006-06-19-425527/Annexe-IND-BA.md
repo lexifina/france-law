@@ -316,7 +316,7 @@ P
 
 Certificats d'économies d'énergie
 
-Opération n° IND-BA-10
+Opération standardisée n° IND-BA-10
 
 Dé-stratificateur d'air
 
@@ -348,7 +348,7 @@ climatique
 
 |
 
-HAUTEUR DU LOCAL h
+HAUTEUR DU LOCAL H
 
 (en mètres)
 
@@ -356,9 +356,11 @@ HAUTEUR DU LOCAL h
 
 |
 
-RÉGIME
+MODE DE
 
-de fonctionnement
+fonctionnement
+
+du site
 
 |
 
@@ -450,7 +452,7 @@ H3 |
 
 4 500 |
 
-Avec P la puissance de chauffage en kW de l'aérotherme assurant le chauffage du local et h la hauteur sous plafond ou sous faîtage du local en mètres.
+P est la puissance de chauffage en kW de l'aérotherme assurant le chauffage du local et h la hauteur sous plafond ou sous faîtage du local en mètres.
 
 Certificats d'économies d'énergie
 
@@ -472,9 +474,9 @@ Installation d'un luminaire avec ballast associé ou non à un dispositif de con
 
 Le ballast a un indice d'efficacité énergétique au sens de la directive 2009/125/CE du Parlement européen et du Conseil du 21 octobre 2009 établissant un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie :
 
-- A1 ou A1 bat pour les luminaires équipés d'un système de variation ;
+― A1 ou A1 bat pour les luminaires équipés d'un système de variation ;
 
-- A2 ou A2 bat pour les luminaires qui ne sont pas équipés d'un système de variation.
+― A2 ou A2 bat pour les luminaires qui ne sont pas équipés d'un système de variation.
 
 La puissance de l'installation correspond à la somme des puissances des nouveaux luminaires.
 

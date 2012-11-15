@@ -563,3 +563,173 @@ x
 |
 
 S |
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-10
+
+Chaudière à condensation pour le chauffage
+
+des serres horticoles
+
+1. Secteur d'application :
+
+Serres horticoles, neuves ou existantes.
+
+2. Dénomination :
+
+Mise en place d'une chaudière de type condensation pour le chauffage des serres horticoles neuves ou existantes.
+
+3. Conditions pour la délivrance de certificats :
+
+Le professionnel doit attester de la mise en œuvre d'une régulation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 21 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE EN kWh CUMAC/M² |
+
+|
+
+SURFACE CHAUFFÉE
+
+en m² |
+
+Zone climatique |
+
+H1
+
+|
+
+257
+
+|
+
+|
+
+S |
+
+H2
+
+|
+
+210 |
+
+x
+
+|
+
+H3
+
+|
+
+140 |
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-11
+
+Chaufferie biomasse pour le chauffage de bâtiments
+
+d'élevage de porcs
+
+1. Secteur d'application :
+
+Bâtiments d'élevage de porcs, neufs ou existants.
+
+2. Dénomination :
+
+Mise en place d'une chaufferie valorisant de la biomasse comme combustible pour des besoins de chauffage de bâtiments d'élevage de porcs.
+
+3. Conditions pour la délivrance de certificats :
+
+Le professionnel atteste que la chaudière installée est associée à un système de chauffage à eau chaude.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+PUISSANCE BIOMASSE
+
+installée en kW |
+
+|
+
+MONTANT
+
+en kWh cumac/kW |
+
+P
+
+|
+
+x
+
+|
+
+33 200
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-12
+
+Ecrans thermiques latéraux
+
+1. Secteur d'application :
+
+Serres maraîchères ou horticoles, neuves ou existantes.
+
+2. Dénomination :
+
+Mise en place d'un écran thermique vertical au niveau d'une ou de plusieurs paroi(s) de serre.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+L'installateur atteste de la surface au sol de serres faisant l'objet de l'opération.
+
+4. Durée de vie conventionnelle : 5 ans.
+
+5. Montant de certificats en kWh cumac :
+
+|
+
+MONTANT DU GAIN
+
+(kWh cumac/m²)
+
+|
+
+|
+
+SURFACE AU SOL
+
+de serre équipée (m²)
+
+|
+
+Serres maraîchères |
+
+30
+
+|
+
+x |
+
+S |
+
+Serres horticoles |
+
+15 |
+
+|

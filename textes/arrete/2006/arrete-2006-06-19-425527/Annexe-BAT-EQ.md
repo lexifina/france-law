@@ -1589,3 +1589,209 @@ Combi |
 |
 
 |
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-26
+
+Lampe ou luminaire à LED pour l'éclairage d'accentuation
+
+1. Secteur d'application :
+
+Bâtiments tertiaires existants.
+
+2. Dénomination :
+
+Mise en place d'une lampe ou d'un luminaire à LED pour l'éclairage d'accentuation.
+
+3. Conditions pour la délivrance de certificats :
+
+Les lampes ou luminaires LED mis en place respectent les critères suivants :
+
+- indice de rendu des couleurs (IRC ou Ra) : ≥ 80 ;
+
+- durée de vie (à 30 % de chute de flux lumineux) : ≥ 20 000 heures ;
+
+- température de couleur (Tc) : ≤ 4 000 kelvins (K) pour les bureaux et les locaux d'enseignement (pour les autres locaux du secteur tertiaire, aucun critère sur la température de couleur n'est imposé) ;
+
+- angle d'ouverture : ≤ 60° ;
+
+- flux minimum sortant : ≥ 320 lumens ;
+
+- efficacité lumineuse : ≥ 45 lumens/W.
+
+4. Durée de vie conventionnelle :
+
+7 ans pour les lampes ou luminaires d'une durée de vie ≥ 20 000 heures.
+
+15 ans pour les lampes ou luminaires d'une durée de vie ≥ 40 000 heures.
+
+5. Montant de certificats en kWh cumac :
+
+DURÉE DE VIE
+
+lampe/luminaire
+
+(heures)
+
+|
+
+SANS GESTION
+
+de l'éclairage |
+
+SI DÉTECTION
+
+de présence
+
+ou variation
+
+de lumière |
+
+SI DÉTECTION
+
+de présence
+
+ou variation
+
+de lumière |
+
+|
+
+NOMBRE DE LAMPES
+
+ou de luminaires
+
+installés |
+
+≥ 20 000 |
+
+630
+
+|
+
+760 |
+
+880
+
+|
+
+x |
+
+N
+
+|
+
+≥ 40 000 |
+
+1 300 |
+
+1 560
+
+|
+
+1 820
+
+|
+
+|
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-27
+
+Luminaire à LED de type downlight
+
+1. Secteur d'application :
+
+Bâtiments tertiaires existants.
+
+2. Dénomination :
+
+Mise en place d'un luminaire à LED de type downlight, avec ou sans dispositif de contrôle automatique.
+
+3. Conditions pour la délivrance de certificats :
+
+Les luminaires à LED mis en place doivent respecter les critères suivants :
+
+- indice de rendu des couleurs (IRC ou Ra) : ≥ 80 ;
+
+- durée de vie (à 30 % de chute de flux lumineux) : ≥ 20 000 heures ;
+
+- température de couleur (Tc) : ≤ 4 000 kelvins (K) pour les bureaux et les locaux d'enseignement (pour les autres locaux du secteur tertiaire, aucun critère sur la température de couleur n'est imposé) ;
+
+- flux lumineux sortant du luminaire : ≥ 900 lumens ;
+
+- efficacité lumineuse : ≥ 50 lumens/W.
+
+4. Durée de vie conventionnelle :
+
+6 ans pour lampes d'une durée de vie ≥ 20 000 heures.
+
+11 ans pour lampes d'une durée de vie ≥ 40 000 heures.
+
+5. Montant de certificats en kWh cumac :
+
+DURÉE DE VIE
+
+du luminaire
+
+à LED (heures) |
+
+SANS GESTION
+
+de l'éclairage |
+
+SI DÉTECTION
+
+de présence
+
+ou variation
+
+de lumière |
+
+SI DÉTECTION
+
+de présence
+
+ou variation
+
+de lumière |
+
+|
+
+NOMBRE
+
+de luminaires
+
+installés |
+
+≥ 20 000 |
+
+640 |
+
+770 |
+
+890 |
+
+x
+
+|
+
+N
+
+|
+
+≥ 40 000 |
+
+1 180 |
+
+1 420 |
+
+1 660 |
+
+|
+
+|

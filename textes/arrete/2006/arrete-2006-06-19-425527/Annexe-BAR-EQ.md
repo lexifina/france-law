@@ -196,24 +196,48 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-EQ-07
 
-Lampe fluo-compacte avec globe de classe B
+Lampe à LED pour l'éclairage d'accentuation
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : maisons individuelles et appartements existants.
+Bâtiments résidentiels existants.
 
 2. Dénomination :
 
-Mise en place d'une lampe fluo-compacte avec globe de classe B (ou encore appelée lampe basse consommation).
+Mise en place d'une lampe à LED pour l'éclairage d'accentuation.
 
 3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Les lampes à LED mises en place respectent les critères suivants :
 
-4. Durée de vie conventionnelle :
+- indice de rendu des couleurs (IRC ou Ra) : ≥ 80 ;
 
-6,5 ans.
+- durée de vie (à 30 % de chute de flux lumineux) : ≥ 15 000 heures ;
+
+- température de couleur (Tc) : ≤ 4 000 kelvins (K) ;
+
+- angle d'ouverture : ≤ 60° ;
+
+- efficacité lumineuse : ≥ 45 lumens/W.
+
+4. Durée de vie conventionnelle : 15 ans.
 
 5. Montant de certificats en kWh cumac :
 
-90 kWh cumac
+MONTANT EN kWh CUMAC
+
+par lampe à LED installée |
+
+|
+
+NOMBRE
+
+de lampes installées |
+
+400 |
+
+x
+
+|
+
+N |

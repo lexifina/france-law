@@ -30,71 +30,7 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-SE-01
 
-Formation des acteurs professionnels du secteur
-
-du bâtiment aux économies d'énergie
-
-1. Secteur d'application :
-
-Secteur du bâtiment.
-
-2. Dénomination :
-
-Formation des acteurs professionnels du secteur du bâtiment aux économies d'énergie.
-
-3. Conditions pour la délivrance de certificats :
-
-Le contenu de la formation doit être agréé par le comité de pilotage spécialement constitué pour cette action.
-
-Attestation de l'un des organismes paritaires collecteurs agréés (OPCA) figurant sur une liste établie par le comité de pilotage certifiant le versement des fonds par les obligés suite à facturation de la formation (la facture est émise par l'organisme paritaire collecteur agréé qui tient à disposition les preuves de réalisation des formations dans le cadre réglementaire actuellement en vigueur pour la formation professionnelle).
-
-Le montant de certificats pouvant être obtenu par un fournisseur d'énergie sur une période est limité à 7 % de l'obligation qui lui a été attribuée pour cette même période.
-
-4. Durée de vie conventionnelle :
-
-3 ans.
-
-5. Montant de certificats en kWh cumac :
-
-MONTANT DES CERTIFICATS
-
-(en kWh cumac)
-
-|
-
-=
-
-|
-
-PARTICIPATION FINANCIÈRE
-
-(en euros)
-
-|
-
-/
-
-|
-
-COÛT FORFAITAIRE DES ÉCONOMIES
-
-additionnelles dues à la formation
-
-(euros/kWh cumac)
-
-|
-
-M
-
-|
-
-D
-
-|
-
-0,02
-
-|
+(Supprimé)
 
 Certificats d'économies d'énergie
 
@@ -440,15 +376,11 @@ correctif
 
 Energie
 
-de chauffage
-
-|
+de chauffage |
 
 Zone
 
-climatique
-
-|
+climatique |
 
 Caractéristique paroi finale
 

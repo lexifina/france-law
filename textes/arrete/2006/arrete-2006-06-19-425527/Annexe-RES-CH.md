@@ -4,51 +4,49 @@ Certificats d'économies d'énergie
 
 Opération n° RES-CH-01
 
-Production de chaleur renouvelable ou de récupération en réseau (France métropolitaine)
+Production de chaleur renouvelable
 
-1. Secteur d'application
+ou de récupération en réseau (France métropolitaine)
 
-Appartements existants et bâtiments tertiaires existants en France métropolitaine.
+1. Secteur d'application :
 
-2. Dénomination
+Réseau de chaleur desservant des bâtiments résidentiels existants ou des bâtiments tertiaires existants en France métropolitaine.
+
+2. Dénomination :
 
 Mise en place d'un système de production de chaleur renouvelable ou de récupération (géothermie, incinération, bois-énergie, biogaz, chaleur industrielle, etc.) sur un réseau de chaleur.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
 Cette opération s'applique aux installations non soumises à la directive 2003/87/CE établissant un système d'échange de quotas d'émissions de gaz à effet de serre.
 
-Le réseau de chaleur peut alimenter également des bâtiments neufs, non concernés par cette opération. La proportion de bâtiments existants alimentés par le réseau doit être fournie.
+Le réseau de chaleur peut alimenter également des bâtiments neufs, non concernés par cette opération.
 
-La chaleur renouvelable ou de récupération nette est déterminée par une étude spécifique.
+La chaleur renouvelable ou de récupération nette alimentant les bâtiments existants sera déterminée par une étude spécifique. La source d'énergie renouvelable ou de récupération y sera précisée.
 
-Le terme kWhth est égal au nombre de kWh renouvelables ou de récupération nets produits et valorisés par an par l'installation.
+Le terme évalué en kWhth est égal au nombre de kWh renouvelables ou de récupération net produits et valorisés par an par l'installation et destinés à alimenter les bâtiments existants.
 
-4. Durée de vie conventionnelle
+La liste des bâtiments pris en considération dans l'étude spécifique doit être fournie.
+
+4. Durée de vie conventionnelle :
 
 Pour les sources d'énergie comme le bois-énergie et le biogaz : 15 ans.
 
 Pour les autres sources d'énergie, notamment les unités d'incinération d'ordures ménagères (UIOM) ou la géothermie : 20 ans.
 
-5. Montant de certificats en kWh cumac
+5. Montant de certificats en kWh cumac :
 
-Source d'énergie |
+SOURCE D'ÉNERGIE |
 
-Coefficient cumac |
-
-|
-
-Chaleur renouvelable
-
-nette/ an |
+COEFFICIENT CUMAC |
 
 |
 
-|
+CCHALEUR RENOUVELABLE NETTE/AN
 
-Bois-énergie et
+alimentant des bâtiments existants |
 
-biogaz
+Bois-énergie, biogaz
 
 |
 
@@ -62,17 +60,7 @@ kWhth
 
 |
 
-X |
-
-C
-
-|
-
-UIOM - déchets
-
-géothermie
-
-autres
+UIOM, déchets, géothermie, autres
 
 |
 
@@ -81,8 +69,6 @@ autres
 |
 
 |
-
-C (%) = [surface des bâtiments existants alimentés par le système de production de chaleur renouvelable ou de récupération] / [surface de l'ensemble des bâtiments alimentés par le réseau (neufs + existants)]
 
 Certificats d'économies d'énergie
 
@@ -459,3 +445,1073 @@ H2 |
 H3 |
 
 14 900 |
+
+Certificats d'économies d'énergie
+
+Opération n° RES-CH-05
+
+Passage d'un réseau de chaleur en basse température
+
+1. Secteur d'application :
+
+Réseaux de chaleur existants.
+
+2. Dénomination :
+
+Passage d'un réseau de chaleur en haute température (HT), ou d'une partie d'un réseau de chaleur HT, à un réseau en basse température (BT).
+
+3. Conditions pour la délivrance de certificats :
+
+Baisse de la température maximale de service (TMS) à une valeur inférieure à 120 °C dans la totalité du réseau ou dans la partie considérée de celui-ci.
+
+Fournir le descriptif de la portion considérée du réseau (longueur et diamètre nominal) et sa durée annuelle d'utilisation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 30 ans.
+
+5. Montant de certificats en kWh cumac :
+
+|
+
+|
+
+DURÉE
+
+annuelle d'utilisation
+
+du réseau
+
+|
+
+FACTEUR
+
+d'utilisation |
+
+|
+
+MONTANT LINÉAIRE |
+
+|
+
+|
+
+DN |
+
+kWh cumac/m |
+
+L
+
+|
+
+x
+
+|
+
+12 mois
+
+|
+
+1
+
+|
+
+x
+
+|
+
+25 |
+
+3 000
+
+|
+
+|
+
+|
+
+11 mois |
+
+0,92 |
+
+|
+
+32 |
+
+3 400
+
+|
+
+|
+
+|
+
+10 mois |
+
+0,83 |
+
+|
+
+40 |
+
+3 700
+
+|
+
+|
+
+|
+
+9 mois |
+
+0,75 |
+
+|
+
+50 |
+
+4 000
+
+|
+
+|
+
+|
+
+8 mois |
+
+0,67 |
+
+|
+
+65 |
+
+4 600
+
+|
+
+|
+
+|
+
+7 mois |
+
+0,58 |
+
+|
+
+80 |
+
+5 100
+
+|
+
+|
+
+|
+
+6 mois |
+
+0,5 |
+
+|
+
+100 |
+
+5 700
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+125 |
+
+6 700
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+150 |
+
+7 300
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+175 |
+
+8 100
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+200 |
+
+8 700
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+250 |
+
+10 100
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+300 |
+
+11 400
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+350 |
+
+12 700
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+400 |
+
+13 800
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+450 |
+
+15 000
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+500 |
+
+16 100
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+550 |
+
+17 200
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+600 |
+
+18 300
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+700 |
+
+20 700
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+800 |
+
+22 900
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+900 |
+
+25 300
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 000
+
+|
+
+27 800
+
+|
+
+Avec :
+
+L : longueur, en mètres, de la tuyauterie aller du réseau ou de la partie considérée.
+
+DN : diamètre nominal de la tuyauterie aller. Il s'agit du diamètre BT (après travaux), équivalent, en termes de débit énergétique, au diamètre HT avant travaux.
+
+Certificats d'économies d'énergie
+
+Opération n° RES-CH-06
+
+Renforcement du calorifuge des canalisations
+
+d'un réseau de chaleur en caniveau
+
+1. Secteur d'application :
+
+Réseaux de chaleur existants.
+
+2. Dénomination :
+
+Renforcement du calorifuge des canalisations aller et retour d'un réseau de chaleur en caniveau, qu'il soit eau surchauffée (HT), eau chaude (BT), ou vapeur (V), dans tout ou partie du réseau.
+
+3. Conditions pour la délivrance de certificats :
+
+Fournir le descriptif de la portion considérée du réseau de chaleur (longueur, diamètre nominal et caractère HT, BT ou V) et sa durée annuelle d'utilisation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 30 ans.
+
+5. Montant de certificats en kWh cumac :
+
+LONGUEUR
+
+de la tuyauterie
+
+aller en m |
+
+|
+
+DURÉE
+
+annuelle d'utilisation
+
+du réseau |
+
+FACTEUR
+
+d'utilisation |
+
+|
+
+MONTANT UNITAIRE EN kWh CUMAC |
+
+|
+
+|
+
+DN |
+
+Eau chaude
+
+(BT) |
+
+Eau surchauffée
+
+(HT) |
+
+Vapeur
+
+(a)
+
+|
+
+L |
+
+x
+
+|
+
+12 mois
+
+|
+
+1
+
+|
+
+x |
+
+25 |
+
+3 200
+
+|
+
+5 700
+
+|
+
+NE |
+
+|
+
+|
+
+11 mois |
+
+0,92 |
+
+|
+
+32 |
+
+3 800
+
+|
+
+6 700
+
+|
+
+NE |
+
+|
+
+|
+
+10 mois |
+
+0,83 |
+
+|
+
+40 |
+
+4 500
+
+|
+
+7 800
+
+|
+
+10 800
+
+|
+
+|
+
+|
+
+9 mois |
+
+0,75 |
+
+|
+
+50 |
+
+4 900
+
+|
+
+9 000
+
+|
+
+12 900
+
+|
+
+|
+
+|
+
+8 mois |
+
+0,67 |
+
+|
+
+65 |
+
+5 900
+
+|
+
+10 600
+
+|
+
+13 600
+
+|
+
+|
+
+|
+
+7 mois |
+
+0,58 |
+
+|
+
+80 |
+
+6 500
+
+|
+
+11 900
+
+|
+
+15 900
+
+|
+
+|
+
+|
+
+6 mois |
+
+0,5 |
+
+|
+
+100 |
+
+7 500
+
+|
+
+13 400
+
+|
+
+19 700
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+125 |
+
+8 200
+
+|
+
+14 900
+
+|
+
+21 300
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+150 |
+
+9 000
+
+|
+
+16 300
+
+|
+
+25 000
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+175 |
+
+9 700
+
+|
+
+17 500
+
+|
+
+28 100
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+200 |
+
+10 100
+
+|
+
+18 500
+
+|
+
+31 600
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+250 |
+
+11 200
+
+|
+
+20 200
+
+|
+
+38 400
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+300 |
+
+12 000
+
+|
+
+21 600
+
+|
+
+41 600
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+350 |
+
+12 800
+
+|
+
+22 900
+
+|
+
+43 000
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+400 |
+
+13 400
+
+|
+
+24 300
+
+|
+
+44 800
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+450 |
+
+14 200
+
+|
+
+25 400
+
+|
+
+NE
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+500 |
+
+14 900
+
+|
+
+26 700
+
+|
+
+51 300
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+550 |
+
+15 500
+
+|
+
+27 800
+
+|
+
+NE
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+600 |
+
+16 100
+
+|
+
+28 900
+
+|
+
+58 400
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+700 |
+
+17 500
+
+|
+
+31 200
+
+|
+
+64 300
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+800 |
+
+18 800
+
+|
+
+33 800
+
+|
+
+69 500
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+900 |
+
+20 400
+
+|
+
+36 400
+
+|
+
+71 000
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 000
+
+|
+
+22 400
+
+|
+
+39 700
+
+|
+
+NE
+
+|
+
+Avec :
+
+DN : diamètre nominal de la tuyauterie aller.
+
+NE : non existant.

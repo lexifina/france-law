@@ -816,9 +816,7 @@ En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif aux
 
 Certificats d'économies d'énergie
 
-Opération n° BAT-TH-31
-
-Unité autonome de traitement d'air en toiture
+Opération n° BAT-TH-31Unité autonome de traitement d'air en toiture
 
 à haute performance énergétique
 
@@ -850,9 +848,7 @@ Mise en place par un professionnel.
 
 5. Montant des certificats en kWh cumac :
 
-MONTANT UNITAIRE EN KWH CUMAC
-
-|
+MONTANT UNITAIRE EN KWH CUMAC |
 
 Puissance frigorifique < 150 kW.
 
@@ -878,75 +874,9 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-SE-02
 
-Ingénierie d'accompagnement des entreprises et artisans du bâtiment
+(Supprimé)
 
-pour réaliser les objectifs énergétiques du Grenelle de l'environnement
-
-1. Secteur d'application :
-
-Entreprises et artisans du bâtiment effectuant des travaux et/ou réalisant la maintenance des bâtiments résidentiels ou tertiaires.
-
-2. Dénomination :
-
-Elaboration du contenu de documents techniques destinés aux entreprises et artisans du bâtiment pour la réalisation de travaux de rénovation, la maintenance ou la construction de bâtiments en vue d'accompagner les entreprises et artisans du bâtiment pour la rénovation, la maintenance et la construction de bâtiments conformes aux objectifs énergétiques du Grenelle de l'Environnement (bâtiments neufs à basse consommation et/ou à énergie positive, rénovation énergétique lourde des bâtiments existants).
-
-3. Conditions pour la délivrance de certificats :
-
-Un comité de pilotage spécialement constitué pour cette action détermine une liste de documents à établir. Pour chacun de ces documents, le comité de pilotage établit un cahier des charges et retient un prestataire.
-
-Une fois les prestations réalisées et validées par le comité de pilotage, le comité de pilotage délivre une attestation de versement de fonds aux entreprises ayant contribué financièrement au paiement des prestations. Les certificats d'économies d'énergie sont délivrés à ces entreprises, sur leur demande et sur présentation de l'attestation. La quantité maximale de certificats d'économies d'énergie délivrés par document sera mentionnée dans le cahier des charges correspondant et validée par le représentant de l'Etat au sein du comité de pilotage.
-
-4. Durée de vie conventionnelle :
-
-Sans objet.
-
-5. Montant de certificats en kWh cumac :
-
-MONTANT DES CERTIFICATS
-
-(en kWh cumac)
-
-|
-
-=
-
-|
-
-PARTICIPATION FINANCIÈRE
-
-(en euros)
-
-|
-
-/
-
-|
-
-COÛT FORFAITAIRE DES ÉCONOMIES
-
-additionnelles dues à l'accompagnement
-
-(euros/kWh cumac)
-
-|
-
-M
-
-|
-
-D
-
-|
-
-0,02
-
-|
-
-Certificats d'économies d'énergie
-
-Opération n° BAR-TH-41
-
-Remplacement d'un climatiseur existant
+Certificats d'économies d'énergieOpération n° BAR-TH-41Remplacement d'un climatiseur existant
 
 par un climatiseur de classe A (DOM)
 
@@ -1136,9 +1066,7 @@ SURFACE
 
 chauffée (en m²) |
 
-X
-
-|
+X |
 
 BRANCHE
 

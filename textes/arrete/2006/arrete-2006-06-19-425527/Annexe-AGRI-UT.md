@@ -250,9 +250,7 @@ ZONE CLIMATIQUE
 
 |
 
-A
-
-(h cumac/°C)
+A (H CUMAC)
 
 |
 

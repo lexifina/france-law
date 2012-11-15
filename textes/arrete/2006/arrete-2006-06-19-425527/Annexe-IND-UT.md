@@ -390,9 +390,7 @@ Certificats d'économies d'énergie
 
 Opération n° IND-UT-09
 
-Récupérateur de chaleur sur un compresseur d'air comprimé
-
-pour le chauffage de locaux
+Récupérateur de chaleur sur un compresseur d'air comprimé pour le chauffage de locaux ou la production d'eau chaude sanitaire
 
 1. Secteur d'application :
 
@@ -400,61 +398,45 @@ Industrie.
 
 2. Dénomination :
 
-Installation d'un récupérateur de chaleur sur un compresseur d'air pour le chauffage de locaux sur un site industriel.
+Installation d'un récupérateur de chaleur sur un compresseur d'air pour le chauffage de locaux ou la production d'eau chaude sanitaire sur un site industriel.
 
 3. Conditions pour la délivrance de certificats :
 
 Sans objet.
 
-4. Durée de vie conventionnelle :
-
-10 ans.
+4. Durée de vie conventionnelle : 10 ans.
 
 5. Montant de certificats en kWh cumac :
 
-RÉFRIGÉRANT
+RÉFRIGÉRANT |
+
+MODE
+
+de fonctionnement du site
 
 |
 
-MODE DE FONCTIONNEMENT
+MONTANT DE CERTIFICATS
+
+en kWh cumac
 
 |
 
-ÉCONOMIE D'ÉNERGIE (kWh cumac)
-
-|
-
-|
-
-|
-
-Puissance
-
-nominale
+Puissance nominale
 
 du moteur
 
-en kW
+(en kW)
 
 |
 
 |
 
-Zone climatique
+Zone climatique |
 
 |
 
-|
-
-|
-
-|
-
-|
-
-H1
-
-|
+H1 |
 
 H2
 
@@ -464,19 +446,11 @@ H3
 
 |
 
-Récupération sur réfrigérant d'huile
+Récupération sur réfrigérant d'huile |
+
+1 × 8 h |
 
 |
-
-1 × 8
-
-|
-
-P
-
-|
-
-X
 
 |
 
@@ -492,7 +466,9 @@ X
 
 |
 
-2 × 8
+2 × 8 h |
+
+|
 
 |
 
@@ -508,7 +484,9 @@ X
 
 |
 
-3 × 8 arrêt le week-end
+3 × 8 h avec arrêt le week-end |
+
+|
 
 |
 
@@ -524,9 +502,11 @@ X
 
 |
 
-3 × 8 sans arrêt le week-end
+3 × 8 h sans arrêt le week-end |
 
-|
+P |
+
+x |
 
 22 500
 
@@ -540,11 +520,11 @@ X
 
 |
 
-Récupération sur réfrigérant d'air
+Récupération sur réfrigérant d'air |
+
+1 × 8 h |
 
 |
-
-1 × 8
 
 |
 
@@ -560,7 +540,9 @@ Récupération sur réfrigérant d'air
 
 |
 
-2 × 8
+2 × 8 h |
+
+|
 
 |
 
@@ -576,7 +558,9 @@ Récupération sur réfrigérant d'air
 
 |
 
-3 × 8 arrêt le week-end
+3 × 8 h avec arrêt le week-end |
+
+|
 
 |
 
@@ -592,7 +576,9 @@ Récupération sur réfrigérant d'air
 
 |
 
-3 × 8 sans arrêt le week-end
+3 × 8 h sans arrêt le week-end |
+
+|
 
 |
 
@@ -1780,11 +1766,11 @@ Industrie.
 
 2. Dénomination :
 
-Installation de matelas isolants souples, démontables pour l'isolation de points singuliers (robinets, vannes, filtres, brides etc.) dans les réseaux de fluides caloporteurs.
+Installation de matelas isolants souples, démontables pour l'isolation de points singuliers (robinets, vannes, filtres, brides, etc.) dans les réseaux de fluides caloporteurs.
 
 3. Conditions pour la délivrance de certificats :
 
-Les matelas doivent être certifiés conforme 2.2, selon la norme NF EN 10204.
+Le certificat de conformité 2.2, selon la norme NF L. 00-015C, doit être fourni.
 
 Mise en place réalisée par un professionnel.
 
@@ -1810,7 +1796,7 @@ singuliers isolés |
 
 Vapeur |
 
-1 × 8 heures |
+1 × 8 h |
 
 19 300 |
 
@@ -1818,9 +1804,7 @@ Vapeur |
 
 |
 
-|
-
-3 × 8 heures avec arrêt le week-end ou 2 × 8 heures |
+3 × 8 h avec arrêt le week-end ou 2x8 h |
 
 48 300 |
 
@@ -1828,9 +1812,7 @@ Vapeur |
 
 |
 
-|
-
-3 × 8 heures sans arrêt le week-end |
+3 × 8 h sans arrêt le week-end |
 
 77 300 |
 
@@ -1840,7 +1822,7 @@ N |
 
 Eau chaude |
 
-1 × 8 heures |
+1 × 8 h |
 
 3 900 |
 
@@ -1848,9 +1830,7 @@ Eau chaude |
 
 |
 
-|
-
-3 × 8 heures avec arrêt le week-end ou 2 × 8 heures |
+3 × 8 h avec arrêt le week-end ou 2 x 8 h |
 
 9 700 |
 
@@ -1858,12 +1838,334 @@ Eau chaude |
 
 |
 
-|
-
-3 × 8 heures sans arrêt le week-end |
+3 × 8 h sans arrêt le week-end |
 
 15 500 |
 
 |
 
 |
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-22
+
+Sécheur d'air comprimé à haute efficacité énergétique
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Installation d'un sécheur à adsorption utilisant un apport de chaleur pour la régénération du sécheur.
+
+3. Conditions pour la délivrance de certificats :
+
+Sans objet.
+
+4. Durée de vie conventionnelle : 15 ans
+
+5. Montant de certificats en kWh cumac :
+
+MODE DE FONCTIONNEMENT
+
+du site |
+
+MONTANT UNITAIRE
+
+en kWh cumac/kW |
+
+|
+
+|
+
+1 × 8
+
+|
+
+2 050 |
+
+|
+
+|
+
+2 × 8 |
+
+5 100 |
+
+x |
+
+Pcompresseur(s)
+
+|
+
+3 × 8 avec arrêt le week-end |
+
+6 300 |
+
+|
+
+|
+
+3 × 8 sans arrêt le week-end |
+
+8 150 |
+
+|
+
+|
+
+Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseurs en kWél ou dans les données techniques du fabricant.
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-23
+
+Moteur Premium IE3
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Mise en place d'un moteur Premium appartenant à la classe de rendement IE3.
+
+3. Conditions pour la délivrance de certificats :
+
+Le label IE3 doit figurer sur la plaque du moteur.
+
+Pour les moteurs d'une puissance comprise entre 0,75 kW et 7,5 kW, seules les opérations engagées avant le 1er janvier 2017 donnent lieu à la délivrance de certificats d'économies d'énergie.
+
+Pour les moteurs d'une puissance supérieure à 7,5 kW, seules les opérations engagées avant le 1er janvier 2015 donnent lieu à la délivrance de certificats d'économies d'énergie.
+
+4. Durée de vie conventionnelle :
+
+15 ans pour des moteurs de puissance inférieure ou égale à 15 kW.
+
+20 ans pour des moteurs de puissance supérieure à 15 kW.
+
+5. Montant de certificats en kWh cumac :
+
+PUISSANCE DU MOTEUR
+
+Pn en kW
+
+|
+
+POMPES, VENTILATEURS,
+
+compresseurs |
+
+AUTRES MOTEURS |
+
+Pour Pn ≤ 15 kW |
+
+720 × Pn + 1 600
+
+|
+
+460 × Pn + 1 000 |
+
+Pour Pn > 15 kW |
+
+470 × Pn + 7 800 |
+
+300 × Pn + 5 100 |
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-24
+
+Séquenceur électronique pour le pilotage
+
+d'une centrale de production d'air comprimé
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Installation d'un séquenceur électronique assurant le pilotage centralisé des compresseurs d'une centrale de production d'air comprimé.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+TYPE
+
+de séquenceur
+
+|
+
+NOMBRE
+
+de compresseurs pilotés |
+
+MONTANT UNITAIRE
+
+en kWh cumac/kW |
+
+|
+
+PUISSANCE TOTALE
+
+des compresseurs pilotés (kW)
+
+|
+
+Séquenceur simple sans option
+
+"optimisation d'énergie"
+
+|
+
+2 |
+
+550 |
+
+|
+
+|
+
+3 |
+
+1 100
+
+|
+
+|
+
+|
+
+4 |
+
+1 650
+
+|
+
+|
+
+|
+
+5 |
+
+2 200
+
+|
+
+|
+
+|
+
+6 |
+
+2 700
+
+|
+
+|
+
+|
+
+7 |
+
+3 200
+
+|
+
+|
+
+|
+
+8 |
+
+3 700
+
+|
+
+x |
+
+N |
+
+Séquenceur avec option
+
+"optimisation d'énergie" |
+
+2 |
+
+2 500
+
+|
+
+|
+
+|
+
+3 |
+
+3 050
+
+|
+
+|
+
+|
+
+4 |
+
+3 600
+
+|
+
+|
+
+|
+
+5 |
+
+4 100
+
+|
+
+|
+
+|
+
+6 |
+
+4 700
+
+|
+
+|
+
+|
+
+7 |
+
+5 200
+
+|
+
+|
+
+|
+
+8 |
+
+5 700
+
+|
+
+|
+
+|
+
+La puissance totale des compresseurs pilotés est la somme des puissances électriques en kWélec indiquées sur la (ou les) plaque(s) ou dans les données techniques des compresseurs pilotés par le séquenceur.
