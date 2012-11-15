@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120701075
+
+- Question : [SEQ120701075](seq120701075.md) — Application restrictive de la SRU en zones rurales
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2012-11-15, page 2604*
+
+Depuis les lois de décentralisation, les collectivités locales élaborent les cartes communales et les plans locaux d'urbanisme (PLU) qui couvrent leurs territoires. En ce qui concerne les cartes communales, l'article R. 124-3 du code de l'urbanisme prévoit notamment que « le ou les documents graphiques délimitent les secteurs où les constructions ne sont pas autorisées à l'exception de l'adaptation, du changement de destination, de la réfection ou de l'extension des constructions existantes ou des constructions et installations nécessaires à des équipements collectifs, à l'exploitation agricole ou forestière et à la mise en valeur des ressources naturelles ». Le Conseil d'État (CE, 9 mai 2005, M. et Mme Weber, requête n° 262618) estime qu'une construction peut être considérée comme une extension d'une habitation existante dès lors qu'elle est attenante à celle-ci. Hormis ce cas, il n'est donc pas possible de considérer que les garages, abris de jardins, piscines ou autres annexes, puissent être autorisés dans les zones inconstructibles des cartes communales ou des plans locaux d'urbanisme. Aussi, tout assouplissement en la matière doit relever d'une meilleure prise en compte de l'existant lors de la délimitation des secteurs constructibles, au sein de la carte communale ou du plan local d'urbanisme, dans les conditions édictées par les articles L. 123-1 et suivants du code de l'urbanisme et leurs articles réglementaires d'application. En effet, la réglementation relative aux plans locaux d'urbanisme laisse des possibilités plus importantes à leurs auteurs pour régler les problèmes dans le cadre des dispositions de l'article L. 123-1 du code de l'urbanisme.
