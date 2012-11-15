@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700182
+
+- Question : [SEQ120700182](seq120700182.md) — Situation des infirmiers diplômés d'État
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2012-11-15, page 2593*
+
+La réforme LMD du diplôme d'État infirmier mise en œuvre dans le cadre du protocole d'accord du 2 février 2010 s'est accompagnée de la création d'un nouveau corps comportant des grilles indiciaires revalorisées, celui des infirmiers en soins généraux et spécialisés, classé en catégorie A. Le reclassement dans le nouveau corps est effectif depuis le 1er décembre 2010. Désormais, le recrutement des infirmiers s'opère exclusivement dans ce nouveau corps de catégorie A. Depuis la mise en place de cette réforme et la reconnaissance du grade de licence au diplôme d'infirmier diplômé d'État, les droits des étudiants en soins infirmiers sont similaires à ceux des étudiants de l'enseignement supérieur ; ils ont, du fait de leur affiliation au régime de sécurité sociale étudiante, vocation à bénéficier de l'ensemble des prestations offertes par les centres régionaux des œuvres universitaires et scolaires (CROUS) comme les étudiants inscrits à l'université (restauration, hébergement, actions culturelles, actions sociales et aides d'urgence ponctuelles). Par ailleurs, une réflexion est en cours concernant le montant des bourses allouées par les conseils régionaux et les modalités de leur attribution en vue, éventuellement, de les aligner sur celles de l'enseignement supérieur. Dans le cadre des travaux lancés par la ministre des affaires sociales et de la santé sur « le pacte de confiance pour l'hôpital », les contenus des métiers des professionnels de l'hôpital seront revisités afin de développer de nouvelles qualifications et de disposer des meilleures compétences pour relever les défis d'un service public hospitalier modernisé.
