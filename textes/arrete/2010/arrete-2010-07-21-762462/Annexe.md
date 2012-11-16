@@ -12,7 +12,7 @@ L'histoire et la géographie font partie des enseignements communs de la classe 
 
 La classe de seconde a permis, sur la base des acquis du collège et dans le prolongement des démarches qui y avaient été initiées, de mettre en œuvre une approche plus synthétique et problématisée, caractérisée par la recherche du sens et l'exercice du raisonnement et de l'esprit critique, répondant aux finalités culturelles, civiques et intellectuelles, communes à l'enseignement de l'histoire et de la géographie.
 
-Les programmes de la classe de première permettent d'approfondir cette approche, qui s'inscrit dans les objectifs d'apprentissage du lycée, et de renforcer la culture et les outils intellectuels indispensables à la construction d'un citoyen éclairé du xxie siècle.
+Les programmes de la classe de première permettent d'approfondir cette approche, qui s'inscrit dans les objectifs d'apprentissage du lycée, et de renforcer la culture et les outils intellectuels indispensables à la construction d'un citoyen éclairé du XXIe siècle.
 
 Ils sont conçus en cohérence avec ceux de la seconde.
 
@@ -35,8 +35,6 @@ CAPACITÉS ET MÉTHODES
 |
 
 I. - Maîtriser des repères chronologiques et spatiaux
-
-|
 
 |
 
@@ -81,8 +79,6 @@ I. - Maîtriser des repères chronologiques et spatiaux
 |
 
 II. ― Maîtriser des outils et méthodes spécifiques
-
-|
 
 |
 
@@ -150,8 +146,6 @@ III. ― Maîtriser des méthodes de travail personnel
 
 |
 
-|
-
 1° Développer son expression personnelle et son sens critique
 
 |
@@ -194,11 +188,11 @@ III. ― Maîtriser des méthodes de travail personnel
 
 HISTOIRE
 
-Questions pour comprendre le xxe siècle
+Questions pour comprendre le XXe siècle
 
 Le programme d'histoire de la classe de première est conçu en cohérence avec celui de la classe de seconde, dans le cadre d'un tronc commun sur deux années :
 
-― il est dans son prolongement chronologique : consacré au xxe siècle, il prend la suite d'une mise en perspective sur le temps long, de l'Antiquité au xixe siècle ;
+― il est dans son prolongement chronologique : consacré au XXe siècle, il prend la suite d'une mise en perspective sur le temps long, de l'Antiquité au XIXe siècle ;
 
 ― il se situe également dans sa continuité en termes d'objectifs d'apprentissage, tant sur le plan des connaissances à acquérir que sur celui des capacités et des méthodes à approfondir.
 
@@ -208,7 +202,7 @@ Le fil conducteur du programme
 
 Des questions indispensables à la compréhension de l'histoire du monde au xxe siècle constituent la trame de ce programme.
 
-En ce début du xxie siècle, il est possible d'avoir une vue globale et synthétique sur le siècle précédent et ainsi de concevoir une nouvelle approche thématique. Les questions qui structurent les programmes, centrées sur la compréhension du xxe siècle, sont mises en perspective sur une plus longue durée lorsque cela s'avère pertinent : ainsi, une bonne compréhension des mutations des économies et des sociétés nécessite une étude s'étendant du milieu du xixe siècle à nos jours ; la décolonisation est plus intelligible si son étude est reliée à celle de la colonisation ; 1989 ne peut être perçu comme une rupture que si l'on aborde la période postérieure...
+En ce début du XXIe siècle, il est possible d'avoir une vue globale et synthétique sur le siècle précédent et ainsi de concevoir une nouvelle approche thématique. Les questions qui structurent les programmes, centrées sur la compréhension du XXe siècle, sont mises en perspective sur une plus longue durée lorsque cela s'avère pertinent : ainsi, une bonne compréhension des mutations des économies et des sociétés nécessite une étude s'étendant du milieu du XIXe siècle à nos jours ; la décolonisation est plus intelligible si son étude est reliée à celle de la colonisation ; 1989 ne peut être perçu comme une rupture que si l'on aborde la période postérieure...
 
 Pour traiter le programme
 
@@ -224,13 +218,13 @@ L'approche thématique qui structure le programme doit être fondée sur la mobi
 
 La réflexion critique sur des sources de nature différente, déjà exercée en seconde, doit être approfondie. Parmi ces sources, les différentes formes de production artistiques doivent trouver toute leur place, conformément aux objectifs visés par l'enseignement d'histoire des arts.
 
-Questions pour comprendre le xxe siècle
+Questions pour comprendre le XXe siècle
 
 Le professeur peut articuler les thèmes et les questions dans un ordre différent de celui de leur présentation, à l'exclusion du thème 1 qui ouvre obligatoirement la mise en œuvre du programme.
 
 Thème 1. ― Croissance économique, mondialisation et mutations
 
-des sociétés depuis le milieu du xixe siècle (9-10 heures)
+des sociétés depuis le milieu du XIXe siècle (9-10 heures)
 
 QUESTIONS
 
@@ -256,11 +250,11 @@ Mutations des sociétés
 
 La population active, reflet des bouleversements économiques et sociaux : l'exemple de la France depuis les années 1850.
 
-Une étude : l'immigration et la société française au xxe siècle.
+Une étude : l'immigration et la société française au XXe siècle.
 
 |
 
-Thème 2. ― La guerre au xxe siècle
+Thème 2. ― La guerre au XXe siècle
 
 (16-17 heures)
 
@@ -312,17 +306,15 @@ Genèse et affirmation des régimes totalitaires (soviétique, fasciste et nazi)
 
 Les régimes totalitaires dans l'entre-deux-guerres : genèse, points communs et spécificités.
 
-Les totalitarismes face aux démocraties dans les années 1930.
-
 |
 
-La fin des totalitarismes
+La fin des régimes totalitaires
 
 |
 
 La dénazification de l'Allemagne et le procès de Nuremberg.
 
-La sortie progressive du totalitarisme en URSS : Khrouchtchev, la déstalinisation et ses limites ; Gorbatchev, de la Glasnost à la disparition de l'URSS.
+Gorbatchev et la fin de l'URSS.
 
 |
 
@@ -342,8 +334,6 @@ Le temps des dominations coloniales
 
 |
 
-Le partage colonial de l'Afrique à la fin du xixe siècle.
-
 L'empire français au moment de l'exposition coloniale de 1931, réalités, représentations et contestations.
 
 |
@@ -351,10 +341,6 @@ L'empire français au moment de l'exposition coloniale de 1931, réalités, repr
 La décolonisation
 
 |
-
-Deux études :
-
-La fin de l'empire des Indes.
 
 La guerre d'Algérie.
 
@@ -392,7 +378,7 @@ La République et la question ouvrière : le Front populaire.
 
 La République, les religions et la laïcité depuis les années 1880.
 
-La place des femmes dans la vie politique et sociale de la France au xxe siècle.
+La place des femmes dans la vie politique et sociale de la France au XXe siècle.
 
 |
 
@@ -452,9 +438,7 @@ MISE EN ŒUVRE
 
 |
 
-Approches des territoires du quotidien
-
-|
+Approches des territoires du quotidien |
 
 Un aménagement choisi dans un territoire proche du lycée (étude de cas) (*)
 
@@ -518,8 +502,6 @@ Les dynamiques des espaces productifs dans la mondialisation
 
 Un territoire de l'innovation (étude de cas).
 
-Les espaces de production agricole en lien avec les marchés européens et mondiaux.
-
 Dynamiques de localisation des activités et mondialisation.
 
 |
@@ -549,8 +531,6 @@ MISE EN ŒUVRE
 De l'espace européen aux territoires de l'Union européenne
 
 |
-
-Europe, Europes : un continent entre unité et diversité.
 
 L'Union européenne : frontières et limites ; une union d'Etats à géométrie variable.
 
@@ -588,8 +568,6 @@ L'Union européenne, acteur et pôle majeurs de la mondialisation.
 
 Une façade maritime mondiale : la Northern Range .
 
-Une aire de relation de l'Union européenne : la Méditerranée.
-
 |
 
 La France dans la mondialisation
@@ -597,8 +575,6 @@ La France dans la mondialisation
 |
 
 La présence française dans le monde.
-
-La France, pôle touristique mondial.
 
 Paris, ville mondiale.
 

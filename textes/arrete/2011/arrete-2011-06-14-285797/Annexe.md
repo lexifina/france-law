@@ -128,17 +128,15 @@ Genèse et affirmation des régimes totalitaires (soviétique, fasciste et nazi)
 
 Les régimes totalitaires dans l'entre-deux-guerres : genèse, points communs et spécificités.
 
-Les totalitarismes face aux démocraties dans les années 1930.
-
 |
 
-La fin des totalitarismes
+La fin des régimes totalitaires
 
 |
 
 La dénazification de l'Allemagne et le procès de Nuremberg.
 
-La sortie progressive du totalitarisme en URSS : Khrouchtchev, la déstalinisation et ses limites ; Gorbatchev, de la Glasnost à la disparition de l'URSS.
+Gorbatchev et la fin de l'URSS.
 
 |
 
@@ -158,8 +156,6 @@ Le temps des dominations coloniales
 
 |
 
-Le partage colonial de l'Afrique à la fin du xixe siècle.
-
 L'empire français au moment de l'exposition coloniale de 1931, réalités, représentations et contestations.
 
 |
@@ -167,10 +163,6 @@ L'empire français au moment de l'exposition coloniale de 1931, réalités, repr
 La décolonisation
 
 |
-
-Deux études :
-
-La fin de l'empire des Indes.
 
 La guerre d'Algérie.
 
@@ -266,8 +258,6 @@ De l'espace européen aux territoires de l'Union européenne
 
 |
 
-- Europe, Europes : un continent entre unité et diversité
-
 - L'Union européenne : frontières et limites ; une union d'États à géométrie variable
 
 - Disparités et inégalités socio-spatiales : l'action de l'Union européenne sur les territoires
@@ -322,8 +312,6 @@ Les dynamiques des espaces productifs dans la mondialisation
 
 - Un territoire de l'innovation (étude de cas)
 
-- Les espaces de production agricole en lien avec les marchés européens et mondiaux
-
 - Dynamiques de localisation des activités et mondialisation
 
 |
@@ -338,4 +326,6 @@ Mobilités, flux et réseaux de communication dans la mondialisation
 
 |
 
-Thème 4 - Un État au choix : dynamiques de ses territoires dans la mondialisation (15-16 heures) (En géographie, comme en histoire, le programme est conçu pour être traité dans un horaire annuel de 57 à 62 heures)
+Thème 4 - Un État au choix : dynamiques de ses territoires dans la mondialisation (15-16 heures)
+
+(En géographie, comme en histoire, le programme est conçu pour être traité dans un horaire annuel de 57 à 62 heures)
