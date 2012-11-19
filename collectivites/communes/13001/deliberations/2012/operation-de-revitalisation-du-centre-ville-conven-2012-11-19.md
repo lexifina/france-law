@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — OPERATION DE REVITALISATION DU CENTRE VILLE. CONVENTION PUBLIQUE D'AMENAGEMENT VILLE/SEMEPA. APPLICATION DES DISPOSITIONS DE L'ARTICLE L 1524-3 DU CODE GENERAL DES COLLECTIVITES TERRITORIALES.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-11-19
+- Séance : Conseil Municipal 2CA
+- Objet : OPERATION DE REVITALISATION DU CENTRE VILLE. CONVENTION PUBLIQUE D'AMENAGEMENT VILLE/SEMEPA. APPLICATION DES DISPOSITIONS DE L'ARTICLE L 1524-3 DU CODE GENERAL DES COLLECTIVITES TERRITORIALES.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-4189-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
