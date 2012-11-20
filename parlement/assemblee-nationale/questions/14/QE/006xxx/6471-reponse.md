@@ -1,0 +1,9 @@
+# Réponse à la question n° 6471
+
+- Question : [6471](6471.md) — Question n° 6471 — moyens; effectifs de personnel
+
+## Réponse
+
+*JO du 2012-11-20*
+
+La rentrée scolaire 2012/2013, dans l'enseignement agricole, s'est effectuée dans de bonnes conditions, grâce à la création de 110 emplois supplémentaires dans les établissements inscrits dans le cadre du plan d'urgence décidé par le Président de la République pour la rentrée scolaire 2012. Ces 110 emplois ont été affectés dans les établissements où les situations étaient les plus tendues et ils ont permis d'accueillir les élèves dans de meilleures conditions. Leur répartition a été effectuée sur la base d'un travail fin, mené avec chaque direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF). Ils ont été répartis de la façon suivante : 50 postes d'enseignants d'une part, 60 postes d'assistants d'éducation et d'assistants vie scolaire individuels d'autre part. En ce qui concerne les 50 emplois d'enseignants dans les établissements publics, ils ont permis la création de postes, de demi-postes et, dans certains cas, une augmentation de la quotité de travail de certains postes d'agents contractuels. S'agissant des 60 emplois d'assistants d'éducation (crédits équivalents à 20 emplois) et d'assistants vie scolaire pour l'aide aux jeunes en situation de handicap (crédits équivalents à 40 emplois), l'ensemble des DRAAF ont bénéficié de moyens visant à leur permettre le recrutement de ces deux catégories d'agents, selon les besoins prioritaires. La répartition des emplois d'aides aux jeunes en situation de handicap s'est faite en liaison étroite avec les DRAAF, sur la base du nombre d'élèves handicapés inscrits à la rentrée scolaire dans les établissements. Elle a permis d'améliorer la couverture des besoins dans les régions où les situations les plus urgentes étaient constatées.
