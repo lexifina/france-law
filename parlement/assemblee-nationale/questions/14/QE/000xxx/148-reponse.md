@@ -1,0 +1,9 @@
+# Réponse à la question n° 148
+
+- Question : [148](148.md) — Question n° 148 — prestation compensatoire; révision; réglementation
+
+## Réponse
+
+*JO du 2012-11-20*
+
+En vertu de l'article 270 du code civil, la prestation compensatoire, qui a pour objet de compenser, autant qu'il est possible, la disparité que la rupture du mariage crée dans les conditions de vie respectives des époux, a un caractère forfaitaire et prend la forme d'un capital dont le montant est fixé par le juge. En privilégiant le versement sous la forme d'un capital le législateur a précisément souhaité régler, au moment du divorce, cette question et prévenir ainsi les éventuels conflits ultérieurs. Ainsi, dès que la décision qui l'a prononcée a acquis force de chose jugée, la prestation compensatoire versée sous forme de capital ne peut être révisée, suspendue ou supprimée. Cependant, l'article 275 du même code prévoit que lorsque le débiteur n'est pas en mesure de verser le capital, le juge fixe les modalités de paiement du capital dans la limite de huit années, sous forme de versements périodiques. Ces versements périodiques constituent seulement une modalité de versement du capital, lequel a été fixé de façon définitive lors du divorce. Ils ne peuvent être assimilés à une rente viagère, qui est censée avoir été accordée pour la vie du créancier. Il est dès lors tout à fait justifié qu'aucune disposition ne prévoit la possibilité de réviser le montant de la prestation compensatoire fixée en capital. Il est toutefois prévu qu'à la demande du débiteur, en cas de changement important dans sa situation, le juge peut, par décision spéciale et motivée, modifier les modalités de paiement, et autoriser le versement du capital sur une durée totale supérieure à huit ans. Ce faisant, il peut être ainsi tenu compte des difficultés rencontrées par le débiteur.
