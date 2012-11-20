@@ -1,0 +1,9 @@
+# Réponse à la question n° 4716
+
+- Question : [4716](4716.md) — Question n° 4716 — circulaire du 29 décembre 2009; bilan
+
+## Réponse
+
+*JO du 2012-11-20*
+
+La circulaire du 29 décembre 2009 relative au guide des bonnes pratiques en matière de marchés publics a été remplacée par celle du 14 février 2012 ayant le même objet. Cette nouvelle version a pour objet de tenir compte des modifications récentes du droit de la commande publique, notamment introduites par le décret n° 2011-1000 du 25 août 2011 modifiant certaines dispositions applicables aux marchés et contrats relevant de la commande publique, ainsi que les précisions apportées par la jurisprudence. Elle apporte également des conseils concernant la passation des marchés à procédure adaptée inférieurs au seuil de 15.000 € HT, consécutivement aux conséquences de l'arrêt du Conseil d'Etat du 10 février 2010, Me Perez c/ Ministre de l'économie, et du décret n° 2011-1853 du 9 décembre 2011 modifiant certains seuils du code des marchés publics. Enfin, elle reprend les seuils révisés tous les deux ans conformément aux directives européennes, et précisés par le décret n° 2011-2027 du 29 décembre 2011 modifiant les seuils applicables aux marchés et contrats relevant de la commande publique. Comme le rappelle la circulaire, « ce guide n'a aucune portée réglementaire », et par-delà aucun caractère contraignant, son objet étant de constituer un outil d'aide et de conseil aux acheteurs publics. Sa dernière version a été élaborée après une large concertation menée par le ministère de l'économie, des finances et de l'industrie avec les principaux acteurs de la commande publique. Ainsi, par exemple, la circulaire du 14 février 2012 s'est enrichie de développements consacrés aux marchés de maîtrise d'oeuvre, et plus particulièrement ceux des collectivités locales.
