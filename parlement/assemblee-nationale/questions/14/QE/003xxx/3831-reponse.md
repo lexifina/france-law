@@ -1,0 +1,9 @@
+# Réponse à la question n° 3831
+
+- Question : [3831](3831.md) — Question n° 3831 — bénévolat; déplacement; perspectives
+
+## Réponse
+
+*JO du 2012-11-20*
+
+Depuis la modification de la rédaction de l'article 200 du code général des impôts issue de l'article 41 de la loi n° 2000-627 du 6 juillet 2000, un dispositif fiscal permet, d'ores et déjà, aux bénévoles de bénéficier, sous certaines conditions, d'une réduction d'impôt pour les frais qu'ils engagent personnellement dans le cadre de leur activité associative s'ils sont en mesure d'en produire les justificatifs. Les frais des bénévoles liés notamment aux déplacements qu'ils effectuent pour la réalisation de l'objet social de leur association sont ainsi éligibles s'ils ont renoncé expressément à leur remboursement. C'est, par exemple, le cas de parents transportant bénévolement avec leur propre véhicule les jeunes du club sportif local. Les frais de transport afférents à un véhicule dont le contribuable est propriétaire font l'objet d'une évaluation forfaitaire en fonction d'un barème kilométrique que l'administration fiscale actualise chaque année (0,304 € par km pour les véhicules automobiles, 0,118 € pour les scooters, vélomoteurs et motos, au titre de l'année 2011 selon l'instruction fiscale du 2 mars 2012 publiée au bulletin officiel des impôts - BOI - du 13 mars 2012 sous la référence 5 B-11-12). Le monde associatif, en particulier les associations sportives, s'approprie progressivement ce dispositif. Pour accompagner davantage l'engagement des bénévoles notamment dans les petits clubs sportifs, une réflexion est en cours sur les moyens de faciliter leurs déplacements, particulièrement en milieu rural et dans les zones urbaines sensibles, en mettant en oeuvre des partenariats avec les collectivités permettant par exemple l'acquisition de minibus.
