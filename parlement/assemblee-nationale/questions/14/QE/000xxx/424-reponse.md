@@ -1,0 +1,9 @@
+# Réponse à la question n° 424
+
+- Question : [424](424.md) — Question n° 424 — fraudes; sanctions; statistiques
+
+## Réponse
+
+*JO du 2012-11-20*
+
+La fraude à la SNCF représente, en 2011, 2 110 367 infractions contre 1 610 035 en 2010, correspondant à 18 millions d'euros pour le montant des amendes recouvrées en 2011 contre 15 millions d'euros en 2010. À la RATP, le nombre d'infractions en 2011 s'élève à 1 271 000 contre 880 000 en 2010, correspondant respectivement à 20 et 14 millions d'euros pour le montant des amendes recouvrées (sources SNCF et RATP). La fraude dans les transports en commun constitue une nuisance à la qualité du service public, une perte de recettes pour l'exploitant de service de transport et génère un sentiment d'insécurité et d'injustice. Dans ce cadre, la RATP a engagé une profonde réorganisation de ses moyens en opérant une mutualisation des corps de contrôle issus de ses réseaux (bus, tramway, métro et RER) et lui permet une meilleure efficacité. La SNCF mène également des actions en la matière. L'entreprise poursuit des actions de lutte contre les escroqueries, avec une veille accrue sur les ventes des titres de transport par internet et une vigilance particulière sur les fraudes aux abonnements. S'agissant de la fraude pendant le voyage, une organisation plus efficace, reposant notamment sur le déploiement de moyens spécialisés de type « équipes volantes » a été mise en place. La SNCF organise également des campagnes de communication ciblées notamment sur la falsification des titres de transport, les réductions non justifiées ou sur l'échange de titres après voyage. La lutte contre la fraude est une préoccupation prioritaire pour les pouvoirs publics et les opérateurs de transport qui s'inscrivent dans une démarche globale de lutte contre la délinquance au travers du plan national de prévention de la délinquance et d'aide aux victimes.
