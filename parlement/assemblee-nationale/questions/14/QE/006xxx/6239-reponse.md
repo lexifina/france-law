@@ -1,0 +1,9 @@
+# Réponse à la question n° 6239
+
+- Question : [6239](6239.md) — Question n° 6239 — zones naturelles; bâtiments menaçant ruine
+
+## Réponse
+
+*JO du 2012-11-20*
+
+Une construction ancienne, située en zone naturelle d'un document d'urbanisme n'autorisant que les travaux sur construction existante, sans changement de destination, pourra faire l'objet d'une réhabilitation dès lors que cette construction n'est pas considérée comme une ruine. Il n'existe pas de définition positive de la ruine, mais la jurisprudence a regardé par exemple comme des travaux portant sur des constructions existantes, des travaux réalisés sur une maison ayant été construite au 19e siècle pour servir d'habitation, ayant perdu ses menuiseries extérieures et le plancher de son premier étage mais ayant conservé la totalité de son gros oeuvre, sa toiture et ses murs extérieurs de la cour administrative d'appel (CAA) de Marseille, 10 décembre 1998, commune de Carcès, req n° 97MA00527. En revanche, un arrêt de la CAA de Bordeaux, n° 10BX02824, du 6 septembre 2011, définit comme une ruine la construction qui ne comporte qu'un seul mur et des fondations. Un autre arrêt de la CAA de Bordeaux n° 05BX01811 du 17 décembre 2007 précise que dès lors qu'un cinquième des murs du bâtiment sur lequel porte le projet et la moitié de sa toiture sont détruits, le bâtiment litigieux présente le caractère d'une ruine et ne peut dès lors être regardé comme une construction existante. Pour apprécier le changement de destination de la construction, la jurisprudence considère qu'il convient de prendre en compte la destination initiale de la construction, ainsi que, le cas échéant, tout changement de destination intervenu ultérieurement. Le fait qu'une construction soit restée inoccupée pendant une longue période ne la prive pas de la destination qui ressort de ses caractéristiques propres. Tel n'est toutefois pas le cas d'une ruine dont la reconstruction s'apparente à une nouvelle construction.
