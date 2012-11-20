@@ -1,0 +1,9 @@
+# Réponse à la question n° 6690
+
+- Question : [6690](6690.md) — Question n° 6690 — validations de trimestres; modalités
+
+## Réponse
+
+*JO du 2012-11-20*
+
+Le dispositif de régularisation de cotisations arriérées permet aux assurés d'effectuer un versement rétroactif de cotisations d'assurance vieillesse au titre de périodes d'apprentissage ou d'activité salariée rémunérée, pour lesquelles l'employeur n'avait pas versé les cotisations qu'il devait. Ce dispositif a surtout été utilisé depuis 2003 pour remplir les conditions de durée d'assurance requise pour bénéficier d'un départ en retraite anticipée pour longue carrière avant soixante ans. Pour établir la réalité de l'activité exercée, nombre d'assurés n'ont pu fournir que des attestations sur l'honneur certifiées par deux témoins. En 2009, des cas de fraudes ont été mis en évidence à la suite de contrôles diligentés par l'inspection générale des finances et l'inspection générale des affaires sociales. Il s'agit essentiellement de personnes qui ont établi de fausses déclarations sur l'honneur attestant de travaux salariés rémunérés en réalité inexistants. A la suite d'un processus harmonisé sur tout le territoire et contradictoire et dès lors que les enquêtes menées ont mis en évidence leur caractère frauduleux, certaines de ces régularisations ont été annulées. Il s'agit d'un millier de dossiers, sur les 100 000 dossiers de régularisation de cotisations arriérées. Ces annulations peuvent dans certains cas avoir des impacts importants sur les revenus des personnes concernées. C'est pourquoi lors de la récupération des indus, les services du ministère ont rappelé aux caisses de retraite la nécessité de procéder à un examen attentif de la situation personnelle de l'assuré, notamment au regard de son activité et de ses ressources, afin d'étaler la récupération de manière à garantir à l'intéressé un minimum de ressources.
