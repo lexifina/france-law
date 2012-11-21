@@ -1,0 +1,58 @@
+# Travail : contrat de génération
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29505
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/contrat_de_generation
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-289.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-12-12 : 1er dépôt d'une initiative. (PRJLANR5L14B0492)
+  - 2012-12-12 : Etude d'impact (ETDIANR5L14B0492)
+  - 2012-12-12 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-12 : Renvoi en commission au fond
+      - 2012-11-21 : Nomination de rapporteur
+      - 2012-11-21 : Réunion de commission
+      - 2012-12-19 : Réunion de commission
+      - 2012-12-19 : Réunion de commission
+      - 2013-01-15 : Réunion de commission
+      - 2012-12-19 : Dépôt de rapport (RAPPANR5L14B0570, PRJLANR5L14BTC0570)
+  - Discussion en séance publique
+    - 2013-01-15 : Discussion en séance publique
+    - 2013-01-15 : Discussion en séance publique
+    - 2013-01-16 : Discussion en séance publique
+    - 2013-01-23 : Discussion en séance publique
+    - 2013-01-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-01-23 : Dépôt d'une initiative en navette (PRJLSNR5S199B0289)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-01-23 : Renvoi en commission au fond
+      - 2012-12-19 : Nomination de rapporteur
+      - 2013-01-30 : Dépôt de rapport (RAPPSNR5S199B0317)
+  - Discussion en séance publique
+    - 2013-02-05 : Discussion en séance publique
+    - 2013-02-06 : Discussion en séance publique
+    - 2013-02-06 : Décision
+- Commission Mixte Paritaire
+  - 2013-02-07 : Dépôt d'un projet de loi (PRJLANR5L14B0710)
+  - 2013-02-07 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-02-12 : Nomination de rapporteur
+    - 2013-02-12 : Dépôt du rapport d'une CMP (RAPPANR5L14B0713)
+    - 2013-02-12 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0346)
+  - Discussion en séance publique
+    - 2013-02-12 : Discussion en séance publique
+    - 2013-02-12 : Décision
+  - Discussion en séance publique
+    - 2013-02-14 : Décision
+  - 2013-02-12 : Décision de la CMP
+- Conseil constitutionnel
+  - 2013-02-14 : Saisine du conseil constitutionnel
+  - 2013-02-28 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-03-01 : Promulgation d'une loi
