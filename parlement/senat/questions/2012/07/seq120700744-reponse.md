@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700744
+
+- Question : [SEQ120700744](seq120700744.md) — Charte de l'industrie alimentaire et des médias télévisés sur la nutrition
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2012-11-22, page 2658*
+
+En mars 2008 des discussions ont été menées au ministère de la santé entre scientifiques, acteurs économiques et associatifs et les administrations concernées dans le but de limiter la pression publicitaire télévisée pour les aliments dont le Programme national nutrition santé (PNNS) recommande une limitation de consommation. Un premier dialogue a eu lieu en 2008 avec les représentants des secteurs des medias et de l'industrie alimentaire dans le but de réduire le nombre de ces publicités, notamment à la télévision. Ce dialogue a débouché sur une charte par laquelle les acteurs s'engagent à développer les informations sur les comportements alimentaires et l'importance de l'activité physique. Le Conseil supérieur de l'audiovisuel est chargé de vérifier la mise en œuvre de cette charte. Les deux rapports remis par le CSA depuis lors montrent la bonne application de cette charte. Par ailleurs, début 2012, l'institut TNS Sofres, évaluant pour 2011 l'impact de cette charte, conclut que le volume annuel d'émissions relatives à une bonne hygiène de vie et faisant référence au site www. mangerbouger. fr a augmenté de 31 %, passant de 789 heures en 2010 à 1 036 heures en 2011. De nouvelles discussions sur le sujet seront menées en 2013 conformément à l'action 12.1 prévue par le PNNS 2011-2015 sous l'égide du ministère chargé de la santé. Les mesures retenues seront mises en œuvre par les différents ministères en fonction de leur champ de compétences. Enfin, dans le cadre des priorités qui seront développées dans la nouvelle stratégie nationale de santé, une attention particulière sera accordée aux effets de la publicité sur la nutrition, notamment à destination des enfants.
