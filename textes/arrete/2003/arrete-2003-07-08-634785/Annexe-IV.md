@@ -1021,3 +1021,9 @@ Le comportement du candidat face à une situation d'urgence est évalué par des
 Dans le cas où cette évaluation pratique ne peut être réalisée, une évaluation écrite d'environ 30 minutes est mise en place. Au cours de celle-ci le candidat précise la conduite à tenir pour une situation d'urgence relevant du secourisme.
 
 La note globale proposée au jury par le professeur de biotechnologies santé - environnement assurant l'enseignement d'hygiène-prévention-secourisme est calculée en faisant le total des notes obtenues à chacune des trois situation d'évaluation.
+
+NOTA :
+
+Arrêté du 8 novembre 2012 JORF du 23 novembre 2012 : Le présent arrêté et son annexe II seront consultables en ligne au Bulletin officiel du ministère de l'éducation nationale en date du 10 janvier 2013 sur le site http://www.education.gouv.fr/.
+
+L'intégralité du diplôme est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc.

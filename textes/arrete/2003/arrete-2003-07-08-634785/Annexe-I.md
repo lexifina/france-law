@@ -619,3 +619,9 @@ R 5-3 Le client est informé des différentes prestations proposées par l'entre
 R 5-4 Enregistrement des informations nécessaires aux services commerciaux et administratifs pour un meilleur suivi de la clientèle.
 
 |
+
+NOTA :
+
+Arrêté du 8 novembre 2012 JORF du 23 novembre 2012 : Le présent arrêté et son annexe II seront consultables en ligne au Bulletin officiel du ministère de l'éducation nationale en date du 10 janvier 2013 sur le site http://www.education.gouv.fr/.
+
+L'intégralité du diplôme est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc.
