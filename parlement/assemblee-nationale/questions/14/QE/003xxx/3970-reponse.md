@@ -1,0 +1,9 @@
+# Réponse à la question n° 3970
+
+- Question : [3970](3970.md) — Question n° 3970 — repas; qualité; perspectives
+
+## Réponse
+
+*JO du 2012-11-27*
+
+La loi 2010-874 du 27 juillet 2010 de modernisation de l'agriculture et de la pêche dans son article L 230-5 prévoit que « les gestionnaires, publics et privés, des services de restauration scolaire [...] sont tenus de respecter des règles, déterminées par décret, relatives à la qualité nutritionnelle des repas qu'ils proposent ». La commission consultative d'évaluation des normes interrogée sur les règles envisagées pour le décret et l'arrêté de mise en oeuvre de cet article avait donné le 6 janvier 2011 un avis défavorable à ces textes. Cependant, après une évolution du texte, le décret et l'arrêté du 30 septembre 2011 relatifs à la qualité nutritionnelle des repas servis dans le cadre de la restauration scolaire ont pu être publiés, signés par les ministres chargés de l'agriculture, de la santé, de l'éducation, de la défense, de l'intérieur, de l'outre-mer et de la consommation. Ainsi, depuis la rentrée scolaire 2012, l'ensemble des restaurations scolaires du territoire national sont tenues de mettre en oeuvre cette réglementation afin de fournir aux enfants qui fréquentent la restauration scolaire des repas de qualité nutritionnelle satisfaisante. Cette mesure est notamment importante pour les enfants issus de familles défavorisées pour lesquelles les études montrent que la qualité nutritionnelle de l'alimentation s'éloigne le plus des recommandations. Plus globalement, l'importance de la prévention pour une politique de santé publique, et singulièrement d'une prévention orientée vers la jeunesse, vers les questions d'alimentation, d'obésité et d'éducation à la santé a été rappelée par le Président de la République lors de son discours devant le congrès de la mutualité française. La loi de santé publique prévue pour 2013 portera cette forte ambition.
