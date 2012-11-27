@@ -1,0 +1,9 @@
+# Réponse à la question n° 2086
+
+- Question : [2086](2086.md) — Question n° 2086 — titularisation; perspectives
+
+## Réponse
+
+*JO du 2012-11-27*
+
+La loi n° 2012-347 du 12 mars 2012 a transposé l'accord du 31 mars 2011 portant sécurisation des parcours professionnels des agents contractuels dans les trois versants de la fonction publique. Elle a permis pour les agents les plus précaires de bénéficier de la transformation de leur contrat à durée déterminée en contrat à durée indéterminée (CDI) à la date de publication de la loi. S'agissant des établissements de l'enseignement supérieur et de la recherche, plus de 2 500 agents remplissant les conditions prévues par la loi du 12 mars 2012 se sont vus proposer un CDI. La loi du 12 mars 2012 instaure également un dispositif spécifique d'accès à l'emploi titulaire via des recrutements réservés ouverts aux agents non titulaires remplissant certaines conditions. Les recrutements réservés de l'enseignement supérieur et de la recherche seront organisés à compter de l'année 2013 et jusqu'en 2016 permettant ainsi à plusieurs milliers d'agents, qui auront satisfait aux épreuves, de changer de statut en devenant fonctionnaires de l'Etat. De plus, afin de prévenir la reconstitution de situations de précarité et améliorer les conditions d'emploi des agents contractuels, la loi a modifié et a encadré de manière plus restrictive les cas de recours aux agents non titulaires dans la fonction publique. En outre, les règles du financement de la recherche sur projet par l'ANR ont été revues afin de limiter les recours aux CDD. Enfin, un groupe de travail visant à diffuser les nouvelles dispositions de la législation et à favoriser les échanges de bonnes pratiques de gestion entre services et établissements publics contribuera à une lutte plus efficace contre la précarité dans le champ de l'enseignement supérieur et de la recherche.
