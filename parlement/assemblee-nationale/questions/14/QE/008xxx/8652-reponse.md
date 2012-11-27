@@ -1,0 +1,9 @@
+# Réponse à la question n° 8652
+
+- Question : [8652](8652.md) — Question n° 8652 — prisonniers détenus; attitude de la France
+
+## Réponse
+
+*JO du 2012-11-27*
+
+La France est particulièrement attentive au sort des prisonniers palestiniens, notamment de ceux qui, placés en détention administrative, ont entamé une grève de la faim depuis plusieurs mois et se trouvent dans un état de santé critique. Certains d'entre eux ont toutefois, depuis quelques semaines, suspendu leur mouvement de protestation. La France a eu, à plusieurs reprises, l'occasion de faire part, à titre national et avec ses partenaires européens, de ses préoccupations aux autorités israéliennes et de les appeler à prendre d'urgence les mesures appropriées. La France rappelle que les conditions de détention des prisonniers doivent être conformes aux obligations prévues par les conventions internationales, notamment dans le domaine du droit international des droits de l'Homme et du droit international humanitaire. A cet égard, la détention administrative doit rester une mesure d'exception, avoir une durée limitée, et s'effectuer dans le respect des garanties fondamentales, en particulier les droits de la défense du détenu et le droit à un procès équitable dans un délai raisonnable. Le cas des mineurs détenus appelle également une attention toute particulière. Israël ayant ratifié les conventions de Genève du 12 août 1949 et la convention relative aux droits de l'enfant du 20 novembre 1989, la France appelle régulièrement le gouvernement israélien au respect des engagements internationaux auxquels il est partie. La France continue à suivre de près l'évolution de la situation ainsi que la mise en oeuvre de l'accord conclu en mai dernier entre autorités pénitentiaires et prisonniers palestiniens et qui vise notamment à améliorer les conditions de détention.
