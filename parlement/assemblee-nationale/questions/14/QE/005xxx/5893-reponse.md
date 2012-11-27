@@ -1,0 +1,9 @@
+# Réponse à la question n° 5893
+
+- Question : [5893](5893.md) — Question n° 5893 — perspectives
+
+## Réponse
+
+*JO du 2012-11-27*
+
+Le redressement productif voulu par le Président de la République et que promeut le Gouvernement passe, entre autres, par un rapport plus équilibré entre les grands groupes et les petites et moyennes entreprises (PME). Les grands groupes font souvent porter à leurs sous-traitants les coûts d'ajustement en période de crise et ils participent insuffisamment au développement et à la structuration des filières. Il est donc nécessaire de revoir la nature des relations entre les donneurs d'ordre et les PME en améliorant les liens de sous-traitance et de coproduction : la question du partage des risques, industriels et technologiques, trop systématiquement reportés sur les prestataires doit par exemple faire partie de la réflexion, tout comme le partage des brevets et des bénéfices de la recherche. Cet enjeu est bien identifié et est un des leviers du Pacte national pour la croissance, la compétitivité et l'emploi présenté par le Gouvernement le 6 novembre dernier. La conférence nationale de l'industrie (CNI) va être refondée. Transformée en conseil national de l'industrie, cette instance est le lieu privilégié de ce rééquilibrage, du projet collectif de « Produire Ensemble ». Le CNI est chargé d'élaborer et de mettre en oeuvre des pactes entre les entreprises d'une même filière : stratégie à 10 ans, politique de formation, relations Grands groupes et PME, démarche collective à l'export, mutualisation des achats, co-développement etc. Les dispositifs publics en matière d'innovation, les pôles de compétitivité et les investissements d'avenir accompagneront ces stratégies. Des « contrats » de filière vont donc être mis en place. Un premier contrat a déjà été validé par le comité stratégique de la filière automobile, le 19 octobre 2012, dans la continuité du Plan automobile présenté le 25 juillet 2012.
