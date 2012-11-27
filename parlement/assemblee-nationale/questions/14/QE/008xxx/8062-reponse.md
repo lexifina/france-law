@@ -1,0 +1,9 @@
+# Réponse à la question n° 8062
+
+- Question : [8062](8062.md) — Question n° 8062 — programme Erasmus; pérennité
+
+## Réponse
+
+*JO du 2012-11-27*
+
+La pérennité du programme européen d'échanges « Erasmus » n'est pas menacée. Des déclarations excessivement alarmistes ont pu évoquer le risque d'une cessation de paiements pour la fin de l'exercice 2012. Or la Commission européenne indiquait dans une note d'information en date du 16 octobre 2012, que « jusqu'à la fin de l'année, il ne devrait pas y avoir de problème de paiement des bourses Erasmus aux étudiants qui se rendent à l'étranger pour une période d'étude ou pour un stage » dans la mesure où 70 % des financements du programme Erasmus pour l'année universitaire 2012/2013 ont d'ores et déjà été transférés aux agences nationales. De fait, au plan national, l'agence Europe-Education-Formation-France, chargée du programme européen pour l'Education et la Formation tout au long de la vie, dont le programme Erasmus est une composante, dispose d'une trésorerie qui lui permet, jusqu'à la fin de l'année 2012, de faire face à ses engagements vis-à-vis des bénéficiaires des programmes qu'elle gère. Dans son budget rectificatif pour 2012 présenté le 23 octobre, la Commission a néanmoins demandé 90 millions d'euros supplémentaires. La France a appuyé cette demande, compte-tenu de l'importance qu'elle attache au programme Erasmus, comme le Premier ministre l'a rappelé dans son intervention à l'Assemblée nationale le 2 octobre 2012. A cette occasion, il avait en effet réaffirmé l'attachement du gouvernement français à la continuation et au renforcement de ce programme : « aujourd'hui, l'Europe ne consacre que 1 % de son budget à l'éducation et à la formation. Mon gouvernement demandera une augmentation sensible de cette part. C'est ainsi que le programme Erasmus devra monter en puissance et bénéficier à un nombre plus important d'étudiants, notamment issus de familles modestes ».
