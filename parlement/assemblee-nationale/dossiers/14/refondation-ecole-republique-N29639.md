@@ -1,0 +1,89 @@
+# Education : refondation de l’école de la République
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29639
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/refondation_ecole_Republique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-441.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-01-23 : 1er dépôt d'une initiative. (PRJLANR5L14B0653)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-01-23 : Renvoi en commission au fond
+      - 2012-11-28 : Nomination de rapporteur
+      - 2012-11-28 : Réunion de commission
+      - 2012-12-05 : Réunion de commission
+      - 2013-01-30 : Réunion de commission
+      - 2013-02-06 : Réunion de commission
+      - 2013-02-20 : Réunion de commission
+      - 2013-02-27 : Réunion de commission
+      - 2013-02-27 : Réunion de commission
+      - 2013-02-28 : Réunion de commission
+      - 2013-02-28 : Réunion de commission
+      - 2013-03-11 : Réunion de commission
+      - 2013-03-12 : Réunion de commission
+      - 2013-02-28 : Dépôt de rapport (RAPPANR5L14B0767, PRJLANR5L14BTC0767)
+  - Discussion en séance publique
+    - 2013-03-11 : Discussion en séance publique
+    - 2013-03-12 : Discussion en séance publique
+    - 2013-03-12 : Discussion en séance publique
+    - 2013-03-13 : Discussion en séance publique
+    - 2013-03-13 : Discussion en séance publique
+    - 2013-03-14 : Discussion en séance publique
+    - 2013-03-14 : Discussion en séance publique
+    - 2013-03-14 : Discussion en séance publique
+    - 2013-03-15 : Discussion en séance publique
+    - 2013-03-15 : Discussion en séance publique
+    - 2013-03-19 : Discussion en séance publique
+    - 2013-03-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-03-20 : Dépôt d'une initiative en navette (PRJLSNR5S199B0441)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-03-20 : Renvoi en commission au fond
+      - 2013-01-30 : Nomination de rapporteur
+      - 2013-05-14 : Dépôt de rapport (RAPPSNR5S199B0568)
+    - Travaux d'une commission saisie pour avis
+      - 2013-04-03 : Saisine pour avis d'une commission
+      - 2013-04-03 : Nomination de rapporteur
+      - 2013-04-24 : Dépôt de rapport (AVISSNR5S199B0537)
+    - Travaux d'une commission saisie pour avis
+      - 2013-04-18 : Saisine pour avis d'une commission
+      - 2013-04-18 : Nomination de rapporteur
+      - 2013-05-15 : Dépôt de rapport (AVISSNR5S199B0570)
+  - Discussion en séance publique
+    - 2013-05-21 : Discussion en séance publique
+    - 2013-05-22 : Discussion en séance publique
+    - 2013-05-23 : Discussion en séance publique
+    - 2013-05-24 : Discussion en séance publique
+    - 2013-05-24 : Décision
+- deuxième lecture
+  - 2013-05-27 : Dépôt d'une initiative en navette (PRJLANR5L14B1057)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-27 : Renvoi en commission au fond
+      - 2013-05-29 : Réunion de commission
+      - 2013-05-29 : Réunion de commission
+      - 2013-06-03 : Réunion de commission
+      - 2013-05-29 : Dépôt de rapport (RAPPANR5L14B1093, PRJLANR5L14BTC1093)
+  - Discussion en séance publique
+    - 2013-06-03 : Discussion en séance publique
+    - 2013-06-03 : Discussion en séance publique
+    - 2013-06-04 : Discussion en séance publique
+    - 2013-06-04 : Discussion en séance publique
+    - 2013-06-05 : Discussion en séance publique
+    - 2013-06-05 : Décision
+- deuxième lecture
+  - 2013-06-06 : Dépôt d'une initiative en navette (PRJLSNR5S199B0641)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-06 : Renvoi en commission au fond
+      - 2013-06-18 : Dépôt de rapport (RAPPSNR5S199B0672)
+  - Discussion en séance publique
+    - 2013-06-25 : Discussion en séance publique
+    - 2013-06-25 : Décision
+- Promulgation de la loi
+  - 2013-07-08 : Promulgation d'une loi
