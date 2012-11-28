@@ -1,0 +1,93 @@
+# Collectivités territoriales : élection des conseillers municipaux, intercommunaux, départementaux et modification du calendrier électoral (2 projets de loi)
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N29394
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/conseillers_municipaux_communautaires_departementaux
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-165.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-11-28 : 1er dépôt d'une initiative. (PRJLSNR5S199B0165)
+  - 2012-11-28 : Etude d'impact (ETDISNR5S199B0165)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-11-28 : Renvoi en commission au fond
+      - 2012-12-05 : Nomination de rapporteur
+      - 2012-12-19 : Dépôt de rapport (RAPPSNR5S199B0250)
+  - Discussion en séance publique
+    - 2013-01-15 : Discussion en séance publique
+    - 2013-01-16 : Discussion en séance publique
+    - 2013-01-17 : Discussion en séance publique
+    - 2013-01-18 : Discussion en séance publique
+    - 2013-01-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-01-21 : Dépôt d'une initiative en navette (PRJLANR5L14B0630)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-01-21 : Renvoi en commission au fond
+      - 2013-01-15 : Nomination de rapporteur
+      - 2013-01-30 : Réunion de commission
+      - 2013-02-06 : Réunion de commission
+      - 2013-02-18 : Réunion de commission
+      - 2013-02-18 : Réunion de commission
+      - 2013-02-06 : Dépôt de rapport (RAPPANR5L14B0700, PRJLANR5L14BTC0700)
+  - Discussion en séance publique
+    - 2013-02-18 : Discussion en séance publique
+    - 2013-02-18 : Discussion en séance publique
+    - 2013-02-19 : Discussion en séance publique
+    - 2013-02-19 : Discussion en séance publique
+    - 2013-02-20 : Discussion en séance publique
+    - 2013-02-20 : Discussion en séance publique
+    - 2013-02-22 : Discussion en séance publique
+    - 2013-02-22 : Discussion en séance publique
+    - 2013-02-26 : Discussion en séance publique
+    - 2013-02-26 : Décision
+- deuxième lecture
+  - 2013-02-26 : Dépôt d'une initiative en navette (PRJLSNR5S199B0388)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-02-26 : Renvoi en commission au fond
+      - 2013-02-27 : Dépôt de rapport (RAPPSNR5S199B0404)
+  - Discussion en séance publique
+    - 2013-03-13 : Discussion en séance publique
+    - 2013-03-14 : Discussion en séance publique
+    - 2013-03-14 : Décision
+- deuxième lecture
+  - 2013-03-15 : Dépôt d'une initiative en navette (PRJLANR5L14B0818)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-03-15 : Renvoi en commission au fond
+      - 2013-03-20 : Réunion de commission
+      - 2013-03-26 : Réunion de commission
+      - 2013-03-20 : Dépôt de rapport (RAPPANR5L14B0827, PRJLANR5L14BTC0827)
+  - Discussion en séance publique
+    - 2013-03-26 : Discussion en séance publique
+    - 2013-03-26 : Discussion en séance publique
+    - 2013-03-27 : Discussion en séance publique
+    - 2013-03-27 : Discussion en séance publique
+    - 2013-04-02 : Discussion en séance publique
+    - 2013-04-02 : Décision
+- Commission Mixte Paritaire
+  - 2013-04-02 : Dépôt d'un projet de loi (PRJLSNR5S199B0474)
+  - 2013-04-02 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-04-02 : Nomination de rapporteur
+    - 2013-04-02 : Dépôt du rapport d'une CMP (RAPPANR5L14B0877)
+    - 2013-04-02 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0476)
+  - Discussion en séance publique
+    - 2013-04-15 : Discussion en séance publique
+    - 2013-04-15 : Décision
+  - Discussion en séance publique
+    - 2013-04-16 : Discussion en séance publique
+    - 2013-04-17 : Discussion en séance publique
+    - 2013-04-17 : Décision
+  - 2013-04-03 : Décision de la CMP
+- Conseil constitutionnel
+  - 2013-04-18 : Saisine du conseil constitutionnel
+  - 2013-05-16 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-05-17 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2014-07-16 : Rapport sur l'application des lois (RINFANR5L14B2129)
