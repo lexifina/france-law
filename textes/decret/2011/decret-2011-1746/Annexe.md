@@ -46,7 +46,7 @@ a) - Densité de plantation.
 
 Les vignes présentent une densité minimale à la plantation de 7000 pieds à l'hectare.
 
-Ces vignes ne peuvent présenter un écartement entre les rangs supérieur à 1 mètre et un écartement entre les pieds sur un même rang inférieur à 0,80 mètre.
+Ces vignes ne peuvent présenter un écartement entre les rangs supérieur à 1,50 mètre ni un écartement entre les pieds sur un même rang inférieur à 0,80 mètre.
 
 b) - Règles de taille.
 
@@ -326,7 +326,7 @@ Tout opérateur concerné par les dispositions transitoires fixées au XI du cha
 
 - Enregistrement des contrôles de maturité.
 
-- Cahier de chai contenant les analyses avant conditionnement : glucose et fructose, TAV, SO2 total,AV, AM.
+- Cahier de chai contenant les analyses avant conditionnement : glucose et fructose, TAV, SO2 total, AV, AM.
 
 - le cahier d'enrichissement
 
