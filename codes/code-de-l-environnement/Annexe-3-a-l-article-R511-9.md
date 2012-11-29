@@ -410,7 +410,7 @@ Règles de classement :
 
 |
 
-1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au titre de la présente nomenclature dès lors qu'elles sont mises en œuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à autorisation au titre d'une autre rubrique de la nomenclature.
+1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au titre de la présente nomenclature dès lors qu'elles sont mises en oeuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à autorisation au titre d'une autre rubrique de la nomenclature.
 
 |
 
@@ -1562,7 +1562,7 @@ A
 
 |
 
-Silos et installations de stockage de céréales, grains, produits alimentaires ou tout produit organique dégageant des poussières inflammables, y compris les stockages sous tente ou structure gonflable.
+Silos et installations de stockage en vrac de céréales, grains, produits alimentaires ou tout produit organique dégageant des poussières inflammables, y compris les stockages sous tente ou structure gonflable.
 
 |
 
@@ -1574,7 +1574,59 @@ Silos et installations de stockage de céréales, grains, produits alimentaires 
 
 |
 
-a) si le volume total de stockage est supérieur à 15 000 m³
+1. Silos plats :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Si le volume total de stockage est supérieur à 15 000 m³
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+b) Si le volume total de stockage est supérieur à 5 000 m³, mais inférieur ou égal à 15 000 m³
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+2. Autres installations :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Si le volume total de stockage est supérieur à 15 000 m³
 
 |
 
@@ -1590,11 +1642,23 @@ A
 
 |
 
-b) si le volume total de stockage est supérieur à 5 000 m³, mais inférieur ou égal à 15 000 m³
+b) Si le volume total de stockage est supérieur à 5 000 m³, mais inférieur ou égal à 15 000 m³
 
 |
 
 DC
+
+|
+
+|
+
+|
+
+|
+
+Les critères caractérisant les termes silo, silo plat, tente et structure gonflable sont précisés par arrêtés ministériels.
+
+|
 
 |
 
@@ -1920,7 +1984,7 @@ a) supérieure à 200 t / j
 
 |
 
-b) supérieure à 50 t / j, mais inférieure ou égale à 200 t / j
+b) supérieure à 50 t/j, mais inférieure ou égale à 200 t/j
 
 |
 
@@ -2336,7 +2400,7 @@ Nota. - Pour les installations de distillation discontinue, le seuil, prévu aux
 
 |
 
-Vins (préparation, conditionnement de)
+Préparation, conditionnement de vins.
 
 |
 
@@ -2348,19 +2412,7 @@ Vins (préparation, conditionnement de)
 
 |
 
-La capacité de production étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure à 20 000 hl/an
+A. Installations dont les activités sont classées au titre de la rubrique 3642.
 
 |
 
@@ -2368,7 +2420,33 @@ A
 
 |
 
-1
+3
+
+|
+
+|
+
+|
+
+B. Autres installations que celles visées au A, la capacité de production étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure à 20 000 hl/ an
+
+|
+
+E
+
+|
 
 |
 
@@ -2380,7 +2458,7 @@ A
 
 |
 
-2. supérieure à 500 hl/an, mais inférieure ou égale à 20 000 hl/an
+2. Supérieure à 500 hl/ an, mais inférieure ou égale à 20 000 hl/ an
 
 |
 
@@ -3480,7 +3558,7 @@ A
 
 |
 
-2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25 t/an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à 1 000 l
+2. La quantité susceptible d'être présente dans l'installation étant supérieure ou égale à 200 l ou la quantité de solvants consommée étant supérieure à 25 t / an, sans que la quantité susceptible d'être présente dans l'installation soit supérieure à 1 000 l
 
 |
 
@@ -4272,7 +4350,7 @@ D
 
 |
 
--à la restauration des monuments historiques classés ou inscrits, ou des immeubles figurant au plan de sauvegarde et de mise en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération sont interdits
+- à la restauration des monuments historiques classés ou inscrits, ou des immeubles figurant au plan de sauvegarde et de mise en valeur d'un secteur sauvegardé en tant qu'immeubles dont la démolition, l'enlèvement ou l'altération sont interdits
 
 |
 
@@ -4284,7 +4362,7 @@ D
 
 |
 
--ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou architectural justifie que celle-ci soit effectuée avec leurs matériaux d'origine.
+- ou à la restauration des bâtiments anciens dont l'intérêt patrimonial ou architectural justifie que celle-ci soit effectuée avec leurs matériaux d'origine.
 
 |
 
@@ -4309,16 +4387,6 @@ DC
 |
 
 -
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
