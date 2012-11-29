@@ -438,7 +438,7 @@ Teneur maximale en SO2 total (milligrammes par litre)
 
 |
 
-Teneur maximale en acide malique (milligrammes par litre)
+Teneur maximale en acide malique (grammes par litre)
 
 |
 
@@ -526,7 +526,7 @@ Teneur maximale en SO2 total (milligrammes par litre)
 
 |
 
-Teneur maximale en Acide malique (milligrammes par litre)
+Teneur maximale en Acide malique (grammes par litre)
 
 |
 
