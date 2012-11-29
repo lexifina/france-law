@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901744
+
+- Question : [SEQ120901744](seq120901744.md) — Favoriser le financement de la vie associative
+
+## Réponse
+
+*Sports, jeunesse, éducation populaire et vie associative, JO du 2012-11-29, page 2764*
+
+Comme l'a indiqué la ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative, lors de son audition devant la commission des affaires culturelles et de l'éducation du 17 juillet 2012, le Haut Conseil à la vie associative (HCVA) a été saisi sur le congé d'engagement, ainsi que sur le financement privé de la vie associative. L'avis du HCVA relatif au congé d'engagement bénévole des salariés vient d'être rendu. Cet avis est la première étape dans le travail engagé pour développer le bénévolat et donner les moyens à ceux qui souhaitent s'y investir ou le faire dans de bonnes conditions. Un dialogue va s'ouvrir avec les organisations syndicales d'employeurs et de salariés pour définir les contours opérationnels possibles de la mise en œuvre de ce nouveau dispositif. L'avis du HCVA relatif à l'amélioration du financement privé des associations devrait être rendu début 2013. En parallèle, le ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative et le ministère délégué à l'économie sociale et solidaire viennent d'initier un chantier visant à une sécurisation du financement public aux associations. Dans ce cadre, une révision de la circulaire du 18 janvier 2010 relative aux relations entre les pouvoirs publics et les associations sera effectuée. L'adoption des dispositions législatives, dans le cadre du projet de loi sur l'économie sociale et solidaire qui sera présenté en avril 2013, sera également étudiée, dans l'objectif d'une sécurisation du financement public de l'initiative associative.
