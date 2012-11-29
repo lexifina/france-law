@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700344
+
+- Question : [SEQ120700344](seq120700344.md) — Pluralisme au sein des commissions créées en application de l'article L. 2121-22 du CGCT
+
+## Réponse
+
+*Intérieur, JO du 2012-11-29, page 2752*
+
+Les conseils municipaux des départements de la Moselle, du Bas-Rhin et du Haut-Rhin sont soumis à des règles de fonctionnement qui relèvent, pour certaines, du droit local. Ainsi, l'article L. 2541-1 du code général des collectivités territoriales (CGCT) exclut l'application des dispositions de l'article L. 2121-22 du CGCT aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin qui prévoit, dans son troisième alinéa, l'obligation de respecter le principe de la représentation proportionnelle dans la composition des commissions municipales, y compris pour les commissions d'appel d'offres et les bureaux d'adjudications dans les communes de plus de 3 500 habitants. Pour les communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin, la création de ces commissions, dénommées « commissions spéciales », dans ces départements est prévue par l'article L. 2541-8 du CGCT. Toutefois, cet article ne prévoit pas l'obligation de respecter la représentation proportionnelle dans leur composition. Néanmoins, cette obligation est établie par l'article 22 du code des marchés publics pour les commissions d'appel d'offres. Une telle harmonisation des règles relatives aux commissions municipales se fondant sur le dispositif de droit commun apparaît comme légitime sous réserve que le renoncement au dispositif dérogatoire corresponde à une volonté concertée des élus concernés. Une harmonisation nécessiterait cependant une modification législative. Des propositions de loi en ce sens existent mais n'ont pas jusqu'à présent été inscrites à l'ordre du jour des assemblées (Sénat, propositions n° 27 du 12 octobre 2009 et n° 380 du 6 avril 2010 et Assemblée Nationale, proposition n° 2174 du 21 décembre 2009).
