@@ -2,7 +2,7 @@
 
 LISTE DES ZONES MENTIONNÉES À L'ARTICLE D. 310-15-3
 
-DÉPARTEMENTS
+DÉPARTEMENT
 
 |
 
@@ -14,43 +14,7 @@ DATES DE DÉBUT DES PÉRIODES DE SOLDES
 
 |
 
-Alpes-de-Haute-Provence (04)
-
-|
-
-Tout le département
-
-|
-
-Soldes d'été : premier mercredi du mois de juillet
-
-|
-
-Hautes-Alpes (05)
-
-|
-
-Tout le département
-
-|
-
-Soldes d'été : premier mercredi du mois de juillet
-
-|
-
 Alpes-Maritimes (06)
-
-|
-
-Tout le département
-
-|
-
-Soldes d'été : premier mercredi du mois de juillet
-
-|
-
-Bouches-du-Rhône (13)
 
 |
 
@@ -83,18 +47,6 @@ Tout le département
 |
 
 Soldes d'été : deuxième mercredi du mois de juillet
-
-|
-
-Landes (40)
-
-|
-
-Tout le département
-
-|
-
-Soldes d'hiver : premier mercredi du mois de janvier
 
 |
 
@@ -134,31 +86,7 @@ Soldes d'hiver : premier jour ouvré du mois de janvier
 
 |
 
-Pyrénées-Atlantiques (64)
-
-|
-
-Tout le département
-
-|
-
-Soldes d'hiver : premier mercredi du mois de janvier
-
-|
-
-Var (83)
-
-|
-
-Tout le département
-
-|
-
-Soldes d'été : premier mercredi du mois de juillet
-
-|
-
-Vaucluse (84)
+Pyrénées-Orientales (66)
 
 |
 
@@ -191,16 +119,6 @@ Guadeloupe (971)
 Soldes d'hiver : premier samedi de janvier
 
 Soldes d'été : dernier samedi de septembre
-
-|
-
-Saint-Barthélemy et Saint-Martin
-
-|
-
-Soldes d'hiver : premier samedi de mai
-
-Soldes d'été : deuxième samedi d'octobre
 
 |
 
@@ -246,9 +164,7 @@ Soldes d'été : premier samedi du mois de février.
 
 COLLECTIVITÉ
 
-d'outre-mer
-
-(COM)
+d'outre-mer (COM)
 
 |
 
@@ -264,12 +180,40 @@ Saint-Pierre-et-Miquelon (975)
 
 |
 
-Tout le département
+Toute la collectivité
 
 |
 
 Soldes d'été : premier mercredi après le 14 juillet
 
 Soldes d'hiver : premier mercredi après le 15 janvier
+
+|
+
+Saint-Barthélemy (977)
+
+|
+
+Toute la collectivité
+
+|
+
+Soldes d'hiver : premier samedi de mai
+
+Soldes d'été : deuxième samedi d'octobre
+
+|
+
+Saint-Martin (978)
+
+|
+
+Toute la collectivité
+
+|
+
+Soldes d'hiver : premier samedi de mai
+
+Soldes d'été : deuxième samedi d'octobre
 
 |
