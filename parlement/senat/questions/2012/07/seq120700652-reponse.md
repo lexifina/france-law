@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700652
+
+- Question : [SEQ120700652](seq120700652.md) — Fourniture de prestations d'étude à l'occasion de marchés publics de collectivités locales
+
+## Réponse
+
+*Intérieur, JO du 2012-11-29, page 2753*
+
+En matière d'indemnités susceptibles d'être allouées à des candidats à des marchés, en contrepartie de prestations, le code des marchés publics (CMP) n'a expressément prévu l'allocation de primes que dans trois catégories de procédures : le dialogue compétitif (article 67 X du CMP), la conception-réalisation (article 69 I et IV) et le concours (article 70 VII). En matière de dialogue compétitif, des primes peuvent être allouées si le règlement de consultation l'indique. Elles sont alors accordées à l'ensemble des participants, ou uniquement à ceux qui ont été admis à la discussion, voire seulement à ceux dont les offres ont été les mieux classées (article 67-X). En matière de conception-réalisation, les primes sont obligatoirement prévues dans le règlement de consultation, ainsi que les modalités de leur réduction, voire leur suppression, en cas d'offres incomplètes ou ne répondant pas au règlement de la consultation ; leur montant est défini par le code (article 69- I, 8e alinéa, et IV). En matière de concours, les primes sont obligatoirement accordées, selon les propositions du jury (article 70-VII, second alinéa). Concernant les autres procédures, à savoir l'appel d'offres ou les procédures négociées, et a fortiori les procédures adaptées, aucune disposition n'encadre les modalités d'allocation d'éventuelles primes. L'opportunité de les accorder ainsi que les modalités correspondantes relèvent donc de la décision du pouvoir adjudicateur. Celui-ci peut en revanche mentionner, en cas par exemple de remise d'échantillons, les conditions de leur restitution, voire un paiement forfaitaire, dans le règlement de consultation.
