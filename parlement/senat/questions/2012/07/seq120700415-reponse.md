@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700415
+
+- Question : [SEQ120700415](seq120700415.md) — Pour une remise en état rapide du système expérimental d'utilistaion de la bande d'arrêt d'urgence sur le tronçon commun A 4 et A 86
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2012-11-29, page 2765*
+
+Mis en service en septembre 2005, le dispositif de voie auxiliaire A4-A86 consistait à exploiter, dans les périodes de fort trafic, une voie supplémentaire. Il s'agit d'une exploitation dynamique de la bande d'arrêt d'urgence (BAU) à l'aide d'équipements actifs (panneaux à message variable, signaux d'affectation de voie, caméras et barrières mobiles). Les premières années de fonctionnement du dispositif ont montré son intérêt indéniable pour les usagers du tronc commun permettant d'améliorer sensiblement la fluidité du trafic sur l'axe pour un coût nettement inférieur à celui de travaux d'infrastructure d'efficacité équivalente. Malheureusement, cette phase de fonctionnement a également mis en lumière la vulnérabilité du dispositif aux accidents de la circulation et aux actes de vandalisme. La dégradation due à ces événements répétitifs a conduit à l'arrêt du dispositif en 2009. Des tentatives de réparation, menées en 2010 et 2011, se sont heurtées de nouveau à des actes de malveillance. Dès lors, une refonte en profondeur du fonctionnement du dispositif a été entamée, reposant à la fois sur la protection renforcée des dispositifs de télécommunication contre le vandalisme et sur l'adaptation du dispositif de signalisation s'appuyant sur l'expérience acquise. Depuis le début de l'année 2012, des travaux ont donc été réalisés pour améliorer ce dispositif en vue de sa réouverture. Ainsi, la glissière mobile a été remise en service au mois d'octobre dans le sens de circulation vers Paris, et dans quelques mois dans l'autre sens, en fonction de l'achèvement des travaux du tunnel de Nogent.
