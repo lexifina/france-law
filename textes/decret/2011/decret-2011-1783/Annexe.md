@@ -400,7 +400,7 @@ a) - Date de mise en marché à destination du consommateur.
 
 - Les vins blancs "secs" sont mis en marché à destination du consommateur selon les dispositions de l'article D. 645-17 du code rural et de la pêche maritime ;
 
-- A l'issue de la période d'élevage, les vins "moelleux" sont mis en marché à destination du consommateur à partir du 1er janvier de l'année qui suit celle de la récolte ;
+- A l'issue de la période d'élevage, les vins "moelleux" sont mis en marché à destination du consommateur à partir du 1er février de l'année qui suit celle de la récolte ;
 
 - A l'issue de la période d'élevage, les vins "liquoreux" sont mis en marché à destination du consommateur à partir du 1er avril de l'année qui suit celle de la récolte.
 
