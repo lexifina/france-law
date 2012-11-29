@@ -2962,9 +2962,7 @@ AS
 
 |
 
-a) supérieure ou égale à 2 t
-
-|
+a) supérieure ou égale à 2 t |
 
 10
 
@@ -3012,9 +3010,7 @@ La quantité totale de ce produit susceptible d'être présente dans l'installat
 
 |
 
-8. La quantité totale de ce produit susceptible d'être présente dans l'installation étant :
-
-|
+8. La quantité totale de ce produit susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -3030,9 +3026,7 @@ AS
 
 |
 
-a) supérieure ou égale à 20 t
-
-|
+a) supérieure ou égale à 20 t |
 
 10
 
@@ -3050,9 +3044,7 @@ A
 
 |
 
-b) supérieure ou égale à 10 t, mais inférieure à 20 t
-
-|
+b) supérieure ou égale à 10 t, mais inférieure à 20 t |
 
 6
 
@@ -3082,9 +3074,7 @@ La quantité totale de l'un de ces produits susceptible d'être présente dans l
 
 |
 
-9. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant :
-
-|
+9. La quantité totale de l'un de ces produits susceptible d'être présente dans l'installation étant : |
 
 |
 
@@ -3100,9 +3090,7 @@ AS
 
 |
 
-a) supérieure ou égale à 50 t
-
-|
+a) supérieure ou égale à 50 t |
 
 10
 
@@ -4106,7 +4094,7 @@ A
 
 |
 
-Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés
+Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).
 
 |
 
@@ -4118,7 +4106,7 @@ Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés
 
 |
 
-1. Conditionnement de fluides et mise en oeuvre telle que fabrication de mousses, etc. à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345 et du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564
+1. Fabrication et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564, de la fabrication industrielle de composés organohalogénés, organophosphorés et organostanniques visée par la rubrique 1174, de l'emploi de liquides organohalogénés visé par la rubrique 1175 et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute tension.
 
 |
 
@@ -4130,7 +4118,7 @@ Chlorofluorocarbures, halons et autres carbures et hydrocarbures halogénés
 
 |
 
-La quantité de fluide susceptible d'être présente dans l'installation étant :
+Le volume des équipements susceptibles de contenir des fluides étant :
 
 |
 
@@ -4176,7 +4164,7 @@ D
 
 |
 
-2. Composants et appareils clos en exploitation, dépôts de produits neufs ou régénérés, à l'exception des appareils de compression et de réfrigération visés par la rubrique 2920
+2. Emploi dans des équipements clos en exploitation.
 
 |
 
@@ -4192,6 +4180,52 @@ D
 
 |
 
+a) Equipements frigorifiques ou climatiques (y compris pompe à chaleur) de capacité unitaire supérieure à 2 kg, la quantité cumulée de fluide susceptible d'être présente dans l'installation étant supérieure ou égale à 300 kg
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+b) Equipements d'extinction, la quantité cumulée de fluide susceptible d'être présente dans l'installation étant supérieure à 200 kg
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
+3. Stockage de fluides vierges, recyclés ou régénérés, à l'exception du stockage temporaire.
+
+|
+
+|
+
+|
+
+3. Quelle que soit la capacité
+
+|
+
+1
+
+|
+
+1) Fluides autres que l'hexafluorure de soufre :
+
 La quantité de fluide susceptible d'être présente dans l'installation étant :
 
 |
@@ -4204,7 +4238,7 @@ La quantité de fluide susceptible d'être présente dans l'installation étant 
 
 |
 
-a) supérieure à 800 l de capacité unitaire sauf installations d'extinction
+a) En récipient de capacité unitaire supérieure ou égale à 400 l
 
 |
 
@@ -4218,7 +4252,7 @@ D
 
 |
 
-b) supérieure à 200 kg dans les installations d'extinction
+b) Supérieure à 1 t et en récipients de capacité unitaire inférieure à 400 l
 
 |
 
@@ -4232,23 +4266,29 @@ D
 
 |
 
-3. Régénération des fluides et recyclage des halons, sur site de traitement
+2) Cas de l'hexafluorure de soufre :
 
 |
 
-A
+|
 
 |
 
-1
+|
 
 |
 
-3. Quelle que soit la capacité
+La quantité de fluide susceptible d'être présente dans l'installation étant supérieure à 150 kg quel que soit le conditionnement
 
 |
 
-1
+D
+
+|
+
+|
+
+|
 
 |
 
@@ -4257,16 +4297,6 @@ A
 |
 
 Comburants (fabrication, emploi ou stockage de substances ou mélanges) tels que définis à la rubrique 1000 à l'exclusion des substances visées nominativement ou par famille par d'autres rubriques :
-
-|
-
-|
-
-|
-
-|
-
-|
 
 1. Fabrication.
 
@@ -4296,9 +4326,7 @@ AS
 
 |
 
-a) supérieure ou égale à 200 t
-
-|
+a) supérieure ou égale à 200 t |
 
 10
 
@@ -5134,7 +5162,9 @@ c) Inférieure à 100 kg
 
 |
 
-DC |
+DC
+
+|
 
 |
 
@@ -5174,7 +5204,9 @@ a) Supérieure ou égale à 100 kg
 
 |
 
-b) Inférieure à 100 kg |
+b) Inférieure à 100 kg
+
+|
 
 DC
 
