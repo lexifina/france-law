@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-MODALITÉS DE PRISE EN COMPTE DES PARTICULARITÉS TOPOGRAPHIQUES DANS LA SURFACE AGRICOLE
+MODALITÉS DE PRISE EN COMPTE DES ÉLÉMENTS TOPOGRAPHIQUES DANS LA SURFACE AGRICOLE
 
 PARTICULARITÉS TOPOGRAPHIQUES
 
@@ -24,7 +24,7 @@ Prairies permanentes, landes, parcours, alpages, estives
 
 |
 
-Surface de l'élément - Pas de limite spécifique
+Surface de l'élément ― pas de limite spécifique
 
 |
 
@@ -50,7 +50,7 @@ Gel fixe
 
 |
 
-Surface de l'élément - Pas de limite spécifique
+Surface de l'élément ― pas de limite spécifique
 
 |
 
@@ -62,7 +62,7 @@ Gel spécifique
 
 |
 
-Surface de l'élément - Pas de limite spécifique
+Surface de l'élément ― pas de limite spécifique
 
 |
 
@@ -74,7 +74,7 @@ Gel spécifique
 
 |
 
-Surface de l'élément - Pas de limite spécifique
+Surface de l'élément ― pas de limite spécifique
 
 |
 
@@ -98,7 +98,7 @@ Verger ou fruits correspondants ou prairie
 
 |
 
-Surface de l'élément - Pas de limite spécifique
+Surface de l'élément ― pas de limite spécifique
 
 |
 
@@ -110,7 +110,7 @@ Libellé de la culture attenante à la tourbière
 
 |
 
-Surface de l'élément - Pas de limite spécifique
+Surface de l'élément ― pas de limite spécifique
 
 |
 
@@ -134,7 +134,7 @@ Libellé de la culture sur laquelle est situé l'élément
 
 |
 
-Surface de l'élément - Pas de limite spécifique
+Surface de l'élément ― pas de limite spécifique
 
 |
 
@@ -146,7 +146,7 @@ Libellé de la culture sur laquelle est situé l'élément
 
 |
 
-Surface de l'élément - Pas de limite spécifique
+Surface de l'élément ― pas de limite spécifique
 
 |
 
@@ -158,7 +158,7 @@ Libellé de la culture sur laquelle est situé l'élément
 
 |
 
-Surface de l'élément dans la limite de 5 % de la surface de l'îlot sur lequel est situé ou qui jouxte l'élément et, le cas échéant, pour les éléments linéaires, 5 mètres de large
+Surface de l'élément dans la limite de 5 % de la surface de l'îlot sur lequel est situé ou qui jouxte l'élément et le cas échéant pour les éléments linéaires, 5 mètres de large
 
 |
 
@@ -170,11 +170,11 @@ Libellé de la culture sur laquelle est situé l'élément
 
 |
 
-Surface de l'élément dans la limite de 5 % de la surface de l'îlot sur lequel est situé ou qui jouxte l'élément (ou, le cas échéant, pour les surfaces fourragères, dans la limite fixée dans le cadre des normes usuelles)
+Surface de l'élément dans la limite de 5 % de la surface de l'îlot sur lequel est situé ou qui jouxte l'élément (ou le cas échéant, pour les surfaces fourragères, dans la limite fixée dans le cadre des normes usuelles)
 
 |
 
-Bordures de champs : bandes végétalisées en couvert spontané ou implanté (4) différentiable à l'œil nu de la parcelle cultivée qu'elle borde, d'une largeur de 1 à 5 mètres, située entre deux parcelles, entre une parcelle et un chemin ou encore entre une parcelle et une lisière de foret
+Bordures de champs : bandes végétalisées en couvert spontané ou implanté (4) différentiable à l'œil nu de la parcelle cultivée qu'elle borde, d'une largeur de 1 à 5 mètres, située entre deux parcelles, entre une parcelle et un chemin ou encore entre une parcelle et une lisière de forêt
 
 |
 
@@ -194,7 +194,7 @@ Libellé de la culture sur laquelle est situé l'élément ou attenante à l'él
 
 |
 
-Surface de l'élément dans la limite de 5 % de la surface de l'îlot sur lequel est situé ou qui jouxte l'élément et 5 mètres de large (ou, le cas échéant, dans la limite fixée dans le cadre des normes usuelles)
+Surface de l'élément dans la limite de 5 % de la surface de l'îlot sur lequel est situé ou, qui jouxte l'élément et 5 mètres de large (ou le cas échéant, dans la limite fixée dans le cadre des normes usuelles)
 
 |
 
@@ -218,7 +218,7 @@ Libellé de la culture sur laquelle est situé l'élément ou attenante à l'él
 
 |
 
-Surface de l'élément dans la limite de 5 % de la surface de l'îlot sur lequel est situé ou qui jouxte l'élément (ou, le cas échéant, pour les surfaces fourragères, dans la limite fixée dans le cadre des normes usuelles)
+Surface de l'élément dans la limite de 5 % de la surface de l'îlot sur lequel est situé ou, qui jouxte l'élément (ou, le cas échéant, pour les surfaces fourragères, dans la limite fixée dans le cadre des normes usuelles)
 
 |
 
@@ -230,7 +230,7 @@ Libellé de la culture sur laquelle est situé l'élément ou attenante à l'él
 
 |
 
-Surface de l'élément dans la limite de 5 % de la surface de l'îlot sur lequel est situé ou qui jouxte l'élément (ou, le cas échéant, pour les surfaces fourragères, dans la limite fixée dans le cadre des normes usuelles)
+Surface de l'élément dans la limite de 5 % de la surface de l'îlot sur lequel est situé ou, qui jouxte l'élément (ou, le cas échéant, pour les surfaces fourragères, dans la limite fixée dans le cadre des normes usuelles)
 
 |
 
@@ -266,11 +266,11 @@ Prairies permanentes, landes, parcours, alpages, estives
 
 |
 
-Surface de l'élément - Pas de limite spécifique
+Surface de l'élément ― pas de limite spécifique
 
 |
 
-Autres milieux , toutes surfaces ne recevant ni intrant (fertilisants et traitements), ni labour depuis au moins 5 ans (par exemple ruines, dolines ruptures de pente...)
+Autres milieux , toutes surfaces ne recevant ni intrant (fertilisants et traitements), ni labour depuis au moins cinq ans (par exemple ruines, dolines ruptures de pente...)
 
 |
 
