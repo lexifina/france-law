@@ -1,0 +1,9 @@
+# Réponse à la question n° 5020
+
+- Question : [5020](5020.md) — Question n° 5020 — aides de l'État
+
+## Réponse
+
+*JO du 2012-12-04*
+
+L'année 2012 est marquée par l'envolée des prix des céréales. Le secteur de l'élevage va ainsi être confronté à un renchérissement du coût de l'alimentation avec des conséquences défavorables sur la situation financière des exploitants. Le réseau bancaire a été mobilisé pour mettre en place un dispositif d'identification et de traitement des situations financières les plus difficiles. Les établissements de crédit doivent effectuer un point concernant les exploitations d'élevage potentiellement en difficulté au regard de deux critères, d'une part, sur la constatation d'un retard supérieur à 60 jours pour le paiement d'une échéance de remboursement de prêt et d'autre part, sur le dépassement pendant plus de 30 jours d'une ligne de trésorerie autorisée. Ils doivent donc traiter, au cas par cas, les difficultés rencontrées à travers la mise en place de mesures adaptées à la situation individuelle des exploitations concernées (prêts de trésorerie, reports d'échéance, prêts de consolidation, ...). De plus, les céréaliers ont proposé la création d'un fonds structurel de solidarité à destination des éleveurs. Ce fonds structurel de solidarité « céréaliers-éleveurs » sera doté d'environ 100 millions d'euros, sur la base d'une cotisation volontaire des producteurs de céréales. Cette décision prise par les organisations professionnelles et saluée par le ministre chargé de l'agriculture, permettra la prise en compte des difficultés des filières d'élevage liées à la hausse du prix des céréales. Par ailleurs, le dispositif de négociation commerciale entre les filières et la distribution sera mis en oeuvre pour intégrer la hausse des coûts de production, en veillant à protéger le consommateur. A cet effet, des tables rondes sur le sujet des relations commerciales vont débuter à la fin de l'année 2012.
