@@ -1,0 +1,9 @@
+# Réponse à la question n° 4236
+
+- Question : [4236](4236.md) — Question n° 4236 — armes; contrôle
+
+## Réponse
+
+*JO du 2012-12-04*
+
+A titre liminaire, il convient de rappeler que la France a signé et ratifié de nombreux instruments internationaux de lutte contre la corruption parmi lesquels figurent notamment la Convention relative à la corruption d'agents publics étrangers dans les transactions commerciales internationales, adoptée en 1997 dans le cadre de l'Organisation de coopération et de développement économiques (OCDE), la Convention des Nations Unies contre la corruption, dite Convention de Merida, adoptée en 2003, les Conventions contre la corruption, civile et pénale, du Conseil de l'Europe, adoptées en 1999, ainsi que le protocole additionnel à la Convention pénale contre la corruption du Conseil de l'Europe, adopté en 2003. La ratification de ces conventions par un nombre toujours croissant d'États vise à favoriser une uniformisation des normes en matière de lutte contre la corruption transnationale. Afin de s'assurer du respect de ces instruments contraignants par les États signataires, dans chacune des instances internationales, des organes ou mécanismes de suivi ont été mis en place (Groupe de travail de lutte contre la corruption de l'OCDE, programme d'évaluation de l'ONUDC, Groupe d'États contre la corruption du Conseil de l'Europe). La France participe activement à ces mécanismes d'évaluation par ses pairs. Concernant les informations révélées par la presse en relation avec la société objet de la présente question écrite, elles ont été portées à la connaissance des autorités judiciaires territorialement compétentes, qui apprécieront les suites qu'il convient de leur donner, la garde des sceaux n'ayant pas vocation à intervenir dans le cours des affaires pénales en cours.
