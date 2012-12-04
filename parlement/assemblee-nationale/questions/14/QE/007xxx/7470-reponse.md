@@ -1,0 +1,9 @@
+# Réponse à la question n° 7470
+
+- Question : [7470](7470.md) — Question n° 7470 — personnel; régime de retraite; réglementation
+
+## Réponse
+
+*JO du 2012-12-04*
+
+Le Centre national pour l'aménagement des structures des exploitations agricoles (CNASEA) a fusionné avec l'Agence unique de paiement le 1er avril 2009 pour former l'Agence de services et de paiement (ASP). L'ASP a adhéré à l'institution de retraite complémentaire des agents non-titulaires de l'Etat et des collectivités locales (IRCANTEC). En application de l'article L. 922-2 du code de la sécurité sociale, cette adhésion a entraîné l'affiliation de tous les salariés qui appartiennent à la catégorie couverte par l'institution, ainsi que des anciens salariés et retraités. Les retraités de l'ex-CNASEA relèvent donc désormais de l'IRCANTEC. Les droits acquis par les retraités ou leurs ayant-droits sont convertis dans le nouveau régime, en application de la réglementation de l'IRCANTEC et de l'AGIRC-ARRCO, afin de maintenir le niveau de pension perçue par le retraité. En revanche, les droits liquidés postérieurement à la date du transfert (droits directs et droits dérivés) sont soumis à la réglementation du nouveau régime d'affiliation, en l'espèce l'IRCANTEC. Ce régime prévoit un taux de réversion inférieur à celui de l'AGIRC-ARRCO. Néanmoins, l'âge d'ouverture du droit à réversion y est plus favorable aux assurés ainsi que le rendement et les droits familiaux servis. Comme indiqué lors de la feuille de route adoptée à l'issue de la grande conférence sociale des 9 et 10 juillet 2012, une phase de concertation avec les partenaires sociaux, à partir du printemps 2013, aura lieu sur les orientations à retenir pour l'avenir de notre système de retraite. Elle portera notamment sur les instruments mobilisés pour atteindre l'objectif d'équité, qui constitue l'un des enjeux essentiels de notre système de retraite par répartition.
