@@ -1,0 +1,2158 @@
+# Ville de Pirae : délibération — Délibération n°101-2012 du 04-12-2012 - Appouvant la liste des bénéficiaire d'une aide poue la cantine scolaire
+
+- Collectivité : Ville de Pirae
+- SIREN : 200013746
+- Date : 2012-12-04
+- Objet : Délibération n°101-2012 du 04-12-2012 - Appouvant la liste des bénéficiaire d'une aide poue la cantine scolaire
+- Pages : 10
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-municipal-annee-2012/20190831-041201/deliberation-ndeg101-2012-du-04-12-2012-appouvant-la-liste-des-beneficiaire-dune-aide-poue-la-cantine-scolaire.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/586c58cdc751df5a622b7154
+
+## Texte
+
+H 
+1 
+i IH 
+Ville de Pirae 
+POLYNÉSIE FRANÇAISE 
+TAHITI 
+DELIBERATION N°101/2012 
+DU 04 DECEMBRE 2012 
+Approuvant 
+la 
+liste 
+des 
+enfants 
+des 
+écoles 
+de 
+la 
+commune 
+de 
+Pirae, 
+bénéficiant d'une aide pour la 
+cantine 
+scolaire 
+au titre 
+de 
+l'année 
+2012-2013 
+Date de convocation : 
+26 novembre 
+2012 
+Date d'affichage : 
+26 novembre 2012 
+Résultais des votes 
+Pour 
+Contre 
+Abstentions 
+21 
+0 
+0 
+La délibération est adoptée 
+l'unanimité 
+Affichage du compte rendu du 
+conseil municipal ie 
+Le 07 décembre 2012 
+Affichage de la présente 
+délibération le : 
+2.§..MC,.OT 
+REPUBUQÙE^RANËUSÈ** 
+Liberté - Egalité - Fraternité 
+EXTRAIT DU REGISTRE 
+DE DELIBERATIONS DU CONSEIL MUNICIPAL 
+L'an deux mille douze, le quatre du mois de décembre à huit heures cinquante, 
+Le Conseil municipal, légalement convoqué, s'est réuni à la mairie en séance publique sous la 
+présidence de Madame le Maire, Béatrice VERNAUDON. 
+Conformément à l'article L.2121-15 du Code général des Collectivités Territoriales, il a été 
+procédé à la nomination des secrétaires de séance. 
+Madame Elisa YAO THAM SAO et Monsieur William BENNETT, ont été désignés pour 
+remplir cette fonction. 
+Etaient présents : 
+Nbre 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+Nom et Prénom 
+VERNAUDON Béatrice 
+SUN MAÏRAI 
+PUCHON Georges 
+TICCHI Christiane Tiare 
+TERIIEROOITERAÏ Jean-Baptiste 
+YAO THAM SAO Elisa 
+BENNNETT William 
+TETUAETARA Théodore 
+LICHTLE Yvette 
+LECHENE Eliane 
+TEANOTOGA Hinano 
+MOE Elisabeth 
+ATIU Marc 
+TEFAATAU Alvest 
+PROKOP Alban 
+POMARE Wilfred 
+TOUAITAHUATA Charles 
+TANEPAU Viora 
+TUEINUI Noël 
+TICCHI William 
+TEANINIURAITEMOANA Laiza 
+TAPUTU Karine 
+TAURAA Stéphanie 
+TAVAE Imelda 
+DU SOUICH Audrey 
+MAI Teruirau 
+MACE Miriama 
+BREMOND Madeleine 
+TEMARÏI Tahiri 
+MERCERON Armelle 
+FREBAULT Pierre 
+DOOM Yves 
+TÏRAO Aldo 
+Présent 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+17 
+Absent 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+16 
+Procuration 
+Eliane LECHENE 
+Charles TOUAITAHUATA 
+MairaiSUN 
+Christiane TICCHI 
+4 
+Délibération n°101/2Q12 du 04 décembre 2012 
+Approuvant la liste des enfants des écoles de la commune de Pirae, bénéficiant d'une aide pour la cantine scolaire au titre de l'année 2012-2013 
+
+DELIBERATION N°101/2012 DU 04 DECEMBRE 2012 
+Approuvant la liste des enfants des écoles de la commune 
+de Pirae bénéficiant d'une aide pour la cantine scolaire au 
+titre de l'année 2012/2013 
+LE CONSEIL MUNICIPAL DE LA VILLE DE PIRAE 
+Ayant été régulièrement convoqué et ie quorum ayant été atteint ; 
+Sous la présidence du maire de la commune ; 
+VU 
+la loi organique n° 2004-192 du 27 février 2004 modifiée, portant statut d'autonomie de la 
+Polynésie française, promulguée par l'arrêté n° 119 DRCL du 3 mars 2004 ; 
+VU 
+la loi n° 2004-193 du 27 février 2004, complétant le statut d'autonomie de la Polynésie 
+française, promulguée par l'arrêté n° 119 DRCL du 3 mars 2004 ; 
+VU 
+l'ordonnance n° 2007-1434 du 5 octobre 2007 modifiée, portant extension des première, 
+deuxième et cinquième parties du Code Générai des Collectivités Territoriales aux communes 
+de la Polynésie française, à leurs groupements et à leurs établissements publics, ensemble la 
+loi n° 2007-1720 du 07 décembre 2007 tendant à renforcer la stabilité des institutions et la 
+transparence de la vie politique en Polynésie française et n° 2007-1787 du 20 décembre 2007 
+relative à la simplification du droit ; 
+VU 
+la loi n° 71-1028 du 24 décembre 1971 modifiée, relative à la création et à l'organisation des 
+communes dans le territoire de la Polynésie française, promulguée par l'arrêté n° 31/AA du 6 
+janvier 1972 ; 
+VU 
+le décret n° 72/407 du 17 mai 1972 portant création de communes dans le territoire de la 
+Polynésie française ; 
+VU 
+l'arrêté n° 173/AA du 30 janvier 1965 instituant la commune de Pirae ; 
+VU 
+la délibération n°41/2009 du 02 juin 2009 relative aux bourses de cantine ; 
+VU 
+les explications fournies par Madame Béatrice VERNAUDON, Maire ; 
+Après en avoir délibéré en sa séance du 04 décembre 2012 
+ADOPTEE A 
+L'UNANIMITE 
+VOTANTS 
+POUR 
+CONTRE 
+ABSTENTION 
+21 
+21 
+0 
+0 
+Délibération n°101/2012 du 04 décembre 2012 
+Approuvant la liste des enfants des écoles de la commune de Pirae, bénéficiant d'une aide pour ia cantine scolaire au titre de l'année 2012-2013 
+
+ADOPTE : 
+Article 1 er , 
+Il est attribu 
+égaie à 500 
+ID 
+9716 
+9799 
+9839 
+9968 
+10282 
+10306 
+10329 
+10387 
+10528 
+10568 
+10632 
+10661 
+10746 
+10879 
+10934 
+10942 
+10951 
+10969 
+11066 
+11072 
+11178 
+11282 
+11312 
+11336 
+11480 
+11553 
+11713 
+11812 
+12327 
+12427 
+12428 
+10567 
+11315 
+11361 
+11362 
+11505 
+11506 
+11522 
+11599 
+11607 
+11688 
+11741 
+Dos° 
+72 
+566 
+926 
+190 
+240 
+678 
+657 
+941 
+932 
+743 
+941 
+847 
+850 
+825 
+1003 
+832 
+836 
+840 
+1011 
+1124 
+862 
+836 
+1064 
+922 
+877 
+964 
+998 
+1061 
+1060 
+1110 
+1110 
+318 
+903 
+262 
+862 
+1076 
+938 
+72 
+832 
+840 
+678 
+1098 
+a la gratuité de la cantine scolaire (moyenne économique inférieure ou 
+rancs/pers/jour) aux enfants dont les noms figurent ci-après : 
+Nom 
+UTIA 
+TAVAE 
+MOUTARDIER 
+TAUIRAI 
+ARO 
+JAMET 
+YEOU 
+TEUPOOHUUUA 
+TEAUNA 
+TURI 
+TEUPOOHUÏTUA 
+SOMMERS 
+TEHEÏ 
+BEA 
+MOREL 
+TEAMO 
+TIHOPU 
+MATUANUI 
+GUYENNET 
+URARII 
+TUAÏRA 
+TIHOPU 
+GAUTHIER 
+STTGGER 
+MATEHAU--TAEA 
+TANI 
+IZAL 
+VAIRAU 
+RAAPOTO-
+BOTHEREAU 
+PAERAU 
+PAERAU 
+TEPA 
+PAOFAI 
+TETOKA 
+TUAIRA 
+LEAU 
+TAUIRAÏ 
+UTIA 
+TEMAURÏ 
+MATUANUI 
+JAMET 
+TUTEIRIHÏA 
+Prénom 
+Raiarii 
+Hiro 
+Marqot 
+Tehea 
+Tani 
+Teravaheinui 
+Sarniley 
+Faahei 
+Maui 
+Kaha 
+Laukelani 
+Claire 
+Hinerava 
+James 
+Kevainui 
+Edenly 
+Hendric 
+Moanatea 
+Anqe 
+Heimana 
+Kimberiey 
+Tehani 
+Killian 
+Tetuiarii 
+Natua arii 
+Teiva 
+Kainoa 
+Matai 
+Erwan 
+Temehau 
+Kuranui 
+Hereiti 
+Manutahi 
+Tevahînetuihau 
+Matahau 
+Wai-lanî 
+Jessie 
+Manutere 
+Teuiarai 
+Teanihei 
+Teremoana 
+Laetitia 
+Date Naiss 
+04/07/2002 
+30/01/2003 
+02/07/2002 
+27/11/2002 
+26/06/2003 
+11/03/2004 
+16/06/2003 
+29/06/2003 
+25/07/2004 
+28/07/2004 
+15/04/2005 
+07/10/2005 
+08/05/2005 
+25/06/2006 
+04/02/2006 
+04/05/2005 
+22/03/2005 
+03/03/2005 
+12/01/2002 
+17/02/2001 
+16/11/2005 
+28/02/2004 
+11/05/2006 
+08/11/2006 
+29/07/2006 
+09/06/2006 
+03/08/2006 
+29/04/2006 
+30/01/2004 
+18/07/2004 
+10/09/2005 
+08/04/2004 
+30/05/2006 
+16/04/2007 
+11/04/2007 
+11/01/2007 
+14/01/2007 
+27/06/2007 
+30/08/2007 
+06/01/2008 
+13/01/2008 
+28/02/2007 
+Ecole Fréquentée 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAÏ TANE PRIMAIRE 
+01 TUTERAÏ TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAÏ TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+Délibération n°101/2012 du 04 décembre 2012 
+Approuvant ia liste des enfants des écoles de la commune de Pirae, bénéficiant d'une aide pour la cantine scoiaire au titre de l'année 2012-2013 
+
+11745 
+11803 
+11806 
+11924 
+11933 
+11939 
+11940 
+12002 
+12060 
+12065 
+12077 
+12093 
+12233 
+12244 
+12284 
+12296 
+12305 
+12355 
+12356 
+12363 
+12438 
+12527 
+9761 
+9804 
+9978 
+10170 
+10240 
+10410 
+10607 
+10836 
+11000 
+11008 
+11117 
+11341 
+9371 
+9040 
+9366 
+9500 
+9551 
+9662 
+10353 
+10356 
+10437 
+10446 
+10669 
+10683 
+959 
+463 
+989 
+1011 
+903 
+1004 
+134 
+825 
+1042 
+1012 
+1069 
+1026 
+1065 
+1120 
+1102 
+1056 
+1042 
+1064 
+1129 
+926 
+1104 
+1075 
+151 
+408 
+134 
+675 
+112 
+316 
+728 
+408 
+151 
+827 
+995 
+912 
+1082 
+359 
+110 
+1118 
+387 
+482 
+816 
+1013 
+359 
+876 
+876 
+480 
+TAIRAUI 
+POROI 
+TETUAIRIA 
+BAX DE KEATING 
+PAOFAI 
+VAHINEMOEA 
+VANAA 
+BEA 
+HOUARIKI 
+HAHUTU 
+TEOROI 
+LEE TAM 
+ASEN 
+CADOUSTEAU 
+URAEVA 
+MARE 
+HOUARIKI 
+GAUTHIER 
+HURIA 
+MOUTARDIER 
+ATIU 
+TAIRIO 
+BARSINAS 
+PERO 
+VANAA 
+MAMATUI 
+TUPUAITUA 
+MATAOA-BREMOND 
+TUIHANI 
+PERO 
+RAGONNEAU 
+AMO 
+MARUAKE-PORUTU 
+TOKORAGI 
+HORA 
+NIUAITE 
+URARII 
+TERAIAMANO 
+TEHAU 
+MAI 
+HURÏA 
+LOZANO 
+NIUAITI 
+TERIITAPUNUI 
+TERIITAPUNUI 
+HURUPA 
+Hirinaki 
+Naea 
+Tehauarii 
+Mehiti 
+Léon 
+Vairani 
+Byron 
+Tesse 
+Ninirei 
+Evangeline 
+Yohan 
+Kaimanarii 
+Vahi 
+Manuvai 
+Jody 
+Hiavai 
+Riifano 
+Alan 
+Ariitea 
+Vavitu 
+Heepuenui 
+Hokulea 
+Nancy 
+Heifara 
+Romeo 
+Dorothée 
+Ranihei 
+Hinatea 
+Tehitirava 
+Tamahana 
+Tiare 
+Hereani 
+Hawaiki 
+Hitimana 
+Heremoana 
+Herehau 
+Christine 
+Heînarani 
+Anavai 
+Vaihau 
+Atema 
+Mélanie 
+Ariihau 
+Sanjie 
+Wladislas 
+Matorai 
+20/03/2008 
+28/08/2007 
+04/10/2007 
+09/03/2009 
+19/05/2008 
+29/01/2009 
+10/11/2008 
+25/04/2009 
+18/10/2008 
+04/03/2008 
+17/05/2009 
+08/12/2008 
+24/12/2008 
+09/02/2010 
+15/03/2010 
+20/06/2009 
+12/02/2010 
+11/01/2009 
+23/08/2009 
+10/06/2009 
+27/01/2010 
+15/12/2009 
+29/07/2002 
+09/10/2002 
+21/12/2002 
+03/02/2004 
+05/01/2004 
+04/11/2003 
+31/05/2005 
+29/08/2005 
+27/10/2005 
+20/03/2006 
+21/06/2006 
+23/12/2006 
+12/03/2002 
+26/03/2001 
+24/04/2002 
+18/05/2002 
+29/01/2002 
+08/03/2002 
+24/12/2002 
+27/09/2002 
+03/11/2003 
+03/04/2003 
+17/03/2005 
+17/11/2004 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAÏ TANE MATERNELLE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+03 NAHOATA PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+Deiiberation n°101/2012 du 04 décembre 2012 
+Approuvant la iiste des enfants des écoles de la commune de Pirae, bénéficiant d'une aide pour la cantine scoiaire au titre de l'année 2012-2013 
+
+10706 
+11086 
+11200 
+11221 
+11222 
+11278 
+11498 
+11627 
+11635 
+11640 
+11683 
+11725 
+11746 
+11747 
+11749 
+11762 
+12007 
+12010 
+12015 
+12020 
+12021 
+12032 
+12066 
+12076 
+12167 
+12170 
+12184 
+12237 
+12279 
+12309 
+12313 
+12314 
+12357 
+12407 
+12481 
+12504 
+12278 
+9844 
+10139 
+10233 
+10514 
+10675 
+10691 
+10698 
+10700 
+11027 
+770 
+284 
+1016 
+1090 
+395 
+870 
+770 
+1090 
+950 
+946 
+1045 
+987 
+949 
+949 
+1047 
+359 
+1067 
+1008 
+336 
+1010 
+1089 
+284 
+1052 
+1031 
+1073 
+1013 
+1078 
+987 
+_105jt 
+1090 
+1071 
+1071 
+1092 
+1054 
+1095 
+1105 
+1054 
+633 
+1039 
+1072 
+772 
+769 
+808 
+767 
+349 
+12 
+8ARFF 
+TOUAITAHUATA 
+RAIOHA 
+BARSINAS 
+TETOE 
+TAVAEARAI 
+BARFF 
+BARSINAS 
+TAHUA 
+MERVIN 
+TERAI 
+FAANA 
+EL HADJ KADDOUR 
+EL HADJ KADDOUR 
+TEMAE 
+NÏUAITI 
+FLORES 
+HAATANI 
+MANA 
+PERRY 
+PEU 
+TOUAITAHUATA 
+KAUA 
+LENOIR 
+TERAI 
+LOZANO 
+COTTET 
+FAANA 
+MOREAU 
+BARSINAS 
+TARUOURA 
+TARUOURA 
+TAUHIRO 
+MOREAU 
+ARAI 
+MARO 
+MOREAU 
+PARAU 
+TEAHUOTOGA 
+TINOMANO 
+TEINA 
+RAIHAUTI 
+TERAI 
+MOU FAT 
+TAERO 
+FLORES 
+Farerua 
+Lanahei 
+Narava 
+Aroarii 
+Aroariitera 
+Tuehitini 
+Rose 
+Heïmatatini 
+Lindsay 
+Hereatua 
+Teraiarii 
+Moeruru 
+Vahinerii 
+Gelimma 
+Landry 
+Hanomai 
+Revanui 
+Wilfred 
+Bina 
+Anavai 
+Héléna 
+Moehana 
+Tehina 
+Tematafalnuu 
+Tevai-arii 
+Estrella 
+Maeana 
+Teatatemaurlora 
+Lokeani 
+Teheiarii junior 
+Taaroa 
+Tuatahi 
+Teriiehoaiteuira 
+Hiva 
+Kaha 
+Heiarii 
+Maui 
+Shade 
+Josue 
+Teihoariki 
+Raimana 
+Kim 
+Ninirei 
+Mihiau 
+Heremana 
+AbiqaiS 
+08/08/2004 
+12/07/2004 
+25/03/2006 
+14/10/2006 
+19/11/2005 
+18/03/2002 
+04/12/2006 
+19/09/2007 
+03/03/2005 
+03/10/2007 
+19/01/2008 
+09/02/2007 
+21/03/2003 
+06/06/2005 
+03/08/2003 
+12/06/2007 
+31/08/2008 
+01/01/2005 
+01/07/2008 
+19/12/2001 
+27/07/2008 
+04/06/2008 
+19/07/2007 
+18/07/2008 
+07/04/2008 
+19/09/2007 
+19/12/2005 
+25/11/2008 
+23/05/2006 
+10/07/2009 
+20/03/2006 
+31/07/2009 
+11/01/2009 
+03/10/2009 
+23/05/2004 
+08/06/2009 
+01/12/2004 
+21/12/2002 
+04/11/2003 
+06/05/2004 
+16/10/2004 
+16/03/2005 
+08/09/2004 
+13/10/2004 
+02/07/2004 
+26/08/2001 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+Délibération n°101/2012 du 04 décembre 2012 
+Approuvant la iiste des enfants des écoles de la commune de Pirae, bénéficiant d'une aide pour la cantine scolaire au titre de l'année 2012-2013 
+
+11039 
+11044 
+11136 
+11149 
+11195 
+11283 
+11296 
+11311 
+11313 
+11325 
+11340 
+11463 
+11476 
+11483 
+11583 
+11584 
+11916 
+12226 
+12318 
+12418 
+12430 
+12431 
+12497 
+12500 
+12501 
+12537 
+11366 
+11597 
+11646 
+11647 
+11650 
+11834 
+11967 
+11972 
+11974 
+11986 
+11989 
+11992 
+11994 
+11999 
+12118 
+12121 
+12125 
+12126 
+12134 
+12208 
+803 
+874 
+1039 
+445 
+868 
+993 
+556 
+967 
+933 
+868 
+556 
+921 
+921 
+478 
+969 
+969 
+1081 
+1058 
+1059 
+1091 
+1106 
+1106 
+1119 
+1113 
+1113 
+1126 
+930 
+953 
+965 
+1000 
+803 
+1107 
+1000 
+1080 
+1070 
+1043 
+549 
+1116 
+1079 
+910 
+1072 
+1038 
+246 
+1086 
+207 
+1041 
+TEARO 
+TAVAE 
+TEAHUOTOGA 
+TAMU 
+RARI 
+MARA 
+TERIIORAI 
+TIARE 
+FARAURU 
+RARI 
+TERIIORAI 
+TUNOA 
+TUNOA 
+PITO 
+BEA 
+BEA 
+TUIHO 
+TAHU 
+NGATIPA 
+PAA 
+TEVIRI 
+TEVIRI 
+TAURAA 
+MAU 
+MAU 
+TEHEI 
+JAMET 
+MAKE 
+TEARO 
+MAIHOTA 
+TEARO 
+PAHUAIVEVAU 
+MAIHOTA 
+TEOROI 
+TIIHIVA 
+PÏTTMAN 
+REHUA 
+TEAHAMAI 
+TEOROI 
+TUTAVAE 
+TÏNOMANO 
+HEITAA 
+KAPÏKURA 
+MICHELON 
+VAIRAA 
+PITO 
+Maihea 
+Jessica 
+Heikauani 
+Amanaki 
+Hanalei 
+Moea 
+Lovaina 
+Paul 
+Mihiau 
+Heiarii 
+Leilani 
+Heinui 
+Kevin 
+Anaiki 
+Tuteina 
+Mahana 
+Kelly 
+Eaqles 
+Teva 
+Désiré 
+Kealii 
+Keven 
+Teraimatuanui 
+Hinaîea 
+Toiky 
+Heilanie 
+Moehau 
+Miriura 
+Apetahï 
+Valéria 
+Teahu 
+Hanivai 
+loane 
+Haniata 
+Raimanu 
+Tehauarii 
+Hotu 
+Wailea 
+Arnold 
+Tahimanarii 
+Roqorea 
+Jean-louis 
+Tehuiarïi 
+Tarah 
+Mohoelani 
+Ragihei 
+03/06/2006 
+30/10/2005 
+12/01/2006 
+02/08/2005 
+08/11/2001 
+20/02/2004 
+16/08/2005 
+30/04/2006 
+07/05/2006 
+14/08/2006 
+17/12/2006 
+28/10/2003 
+03/06/2006 
+21/08/2006 
+15/03/2001 
+19/09/2005 
+11/01/2003 
+28/03/2001 
+02/10/2006 
+28/06/2005 
+01/04/2004 
+27/12/2006 
+06/01/2006 
+21/06/2002 
+24/03/2005 
+18/03/2005 
+10/05/2007 
+29/02/2008 
+30/06/2007 
+26/06/2007 
+14/06/2007 
+19/09/2008 
+06/08/2009 
+30/04/2009 
+05/05/2009 
+13/07/2008 
+03/11/2008 
+19/09/2008 
+19/11/2008 
+02/04/2008 
+31/08/2007 
+20/11/2008 
+10/07/2008 
+14/08/2008 
+17/02/2008 
+30/05/2009 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+Délibération n°101/2012 du 04 décembre 2012 
+Approuvant la iiste des enfants des écoies de ia commune de Pirae, bénéficiant d'une aide pour la cantine scolaire au titre de Cannée 2012-2013 
+
+12209 
+12264 
+12304 
+12337 
+12343 
+12346 
+12351 
+12359 
+12375 
+12384 
+12389 
+12393 
+12399 
+12421 
+12432 
+12437 
+12478 
+12496 
+12050 
+10874 
+11202 
+11348 
+11585 
+11830 
+11904 
+11907 
+11908 
+12049 
+12395 
+12400 
+12474 
+6542 
+6851 
+7078 
+7901 
+8504 
+8778 
+9305 
+9478 
+11273 
+1037 
+398 
+1114 
+1097 
+1083 
+803 
+1101 
+1099 
+1122 
+1108 
+1084 
+1074 
+207 
+556 
+1106 
+1100 
+1085 
+1107 
+1082 
+794 
+728 
+909 
+947 
+266 
+827 
+258 
+1117 
+995 
+1115 
+912 
+1096 
+1063 
+72 
+7 
+408 
+190 
+955 
+246 
+290 
+398 
+870 
+POROI 
+TEIRI 
+TAUTU 
+ARIITAI 
+MARUOI 
+TEARO 
+TERE 
+HIO 
+TEAHAMAI 
+PERRY 
+OHU--IOANE 
+TAI 
+VAÏRAA 
+TERIIORAI 
+TEVIRI 
+HEITAA 
+TEIKÎTEEPUPUNI 
+PAHUAIVEVAU 
+APO 
+THUNG MI WA 
+TUIHANI 
+YEONG ATIN 
+CHANG 
+BEA 
+AMO 
+MAMATUI 
+PAAEHO 
+REHUA 
+TAUTU 
+TUPUAITUA 
+RAVEINO 
+RAIOAOA 
+UTIA 
+CHANG 
+PERO 
+TAUIRAI 
+VAIRAU 
+KAPIKURA 
+TEHEI 
+KAPIKURA 
+TEVAEARAI 
+Tanenui 
+Teua 
+Puakehia 
+Vahinehau 
+Peheani 
+Manahau 
+Akaroa 
+Johanna 
+Mataiki 
+Fanau'ura 
+Mahana 
+Anuhea 
+Hitira'iariinui 
+Tepava 
+Kealey 
+Namahi 
+Victorin 
+Heinuî 
+Laniley 
+Poeiti 
+Ismaël 
+Tetuaura 
+Ravahere 
+Heiarit 
+Tuhiva 
+Adhémar 
+Guillaume 
+Manahikî 
+Manaterehau 
+Tumatarii 
+MicheNe 
+Nick 
+Vainui 
+Tapuarii 
+Sarah 
+Alan 
+Tahateata 
+Joakim 
+Hapai 
+Panihau 
+Bhcilia 
+24/03/2009 
+02/12/2009 
+17/04/2010 
+30/01/2010 
+23/12/2009 
+04/05/2009 
+07/04/2009 
+27/11/2009 
+22/05/2010 
+19/03/2009 
+22/04/2010 
+30/11/2009 
+03/04/2009 
+28/11/2008 
+29/05/2008 
+03/04/2010 
+10/04/2010 
+08/01/2010 
+23/06/2008 
+14/03/2006 
+23/10/2006 
+03/02/2007 
+01/10/2007 
+21/06/2008 
+16/11/2008 
+19/10/2008 
+25/11/2008 
+21/01/2008 
+13/02/2010 
+22/04/2009 
+09/03/2008 
+08/08/2007 
+05/07/1995 
+30/04/1996 
+21/12/1995 
+16/05/1996 
+22/10/1996 
+23/08/1998 
+13/03/1999 
+20/04/1999 
+09/08/2000 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+08 CJA 
+08 CJA 
+08 CJA 
+08 OA 
+08 OA 
+08 CJA 
+08 OA 
+08 OA 
+08 CJA 
+Article 2" : 
+Les enfants dont les noms figurent ci-après 
+(moyenne économique comprise entre 501 
+facturés au prix de 1410 francs par mois : 
+bénéficient d'une bourse de cantine 
+et 1390 francs/pers/jour), et seront 
+Délibération n°101/2012 du 04 décembre 2012 
+Approuvant la liste des enfants des écoles de la commune de Pirae, bénéficiant d'une aide pour ia cantine scolaire au titre de i'année 2012-2013 
+
+ID 
+11007 
+9885 
+10558 
+10938 
+10330 
+11573 
+9116 
+9851 
+10926 
+10927 
+10976 
+9720 
+12258 
+11519 
+12287 
+12332 
+11790 
+11929 
+12004 
+12465 
+11785 
+12330 
+12376 
+12243 
+12251 
+12533 
+11944 
+12255 
+11001 
+9820 
+10970 
+12458 
+12053 
+10563 
+12250 
+12362 
+10747 
+9802 
+12426 
+11478 
+9873 
+11748 
+12385 
+12242 
+11028 
+10211 
+10653 
+11381 
+10213 
+11332 
+11050 
+10701 
+11070 
+11153 
+9037 
+Dos0 
+108 
+899 
+747 
+747 
+1094 
+1094 
+228 
+228 
+843 
+843 
+846 
+528 
+163 
+364 
+364 
+1077 
+1033 
+1027 
+1023 
+1103 
+846 
+528 
+1121 
+1125 
+1127 
+1127 
+1128 
+1128 
+1066 
+163 
+1009 
+1068 
+951 
+845 
+845 
+1088 
+824 
+323 
+913 
+913 
+567 
+567 
+1123 
+1055 
+758 
+1062 
+1062 
+1007 
+637 
+879 
+571 
+571 
+474 
+810 
+269 
+Nom 
+UTIA 
+TERAIMANA 
+HAERERAAROA 
+HAERERAAROA 
+TAUOTAHA 
+TAITI 
+PIRITUA 
+PIRITUA 
+TEKURIO 
+TEKURIO 
+WALKER 
+PITOMAI 
+TAAROA 
+TOOFA 
+TOOFA 
+BAUDRIN 
+MERVIN 
+TOKORAGÏ 
+RICHMOND 
+TEAHUI 
+WALKER 
+PITOMAI 
+TEINAURI 
+TUTEIRIHIA 
+MANARANI 
+MANARANI 
+MAGNERON 
+MAGNERON 
+TANE 
+TAAROA 
+JURD 
+TEHUITUA 
+TERE 
+HAREHOE 
+HAREHOE 
+TETOPATA-
+AMARU 
+TERE 
+TEHAHETUA 
+MAKE 
+MAKE 
+TAVITA 
+TAVITA 
+PAm 
+TAKAIO 
+MAU 
+ARIIOEHAU 
+ARÏIOEHAU 
+TAPUTU 
+CHUNG 
+MAONI 
+TANI 
+TANI 
+TUPEA 
+FARAURU 
+AH SCHA 
+Prénom 
+Maihere 
+Kamalani 
+Vainono 
+Heipua 
+Takihei 
+Vaiarii 
+Tauarii 
+Cohan 
+Tepoe 
+Hinatea 
+Jason 
+Hinahinatea 
+Faaheî 
+Tamatoa-ariki 
+Ravatua 
+Kealahei 
+Raihau 
+Mylee 
+Mihinoa 
+Mareura 
+Loïs 
+Moeheiarii 
+Varohi 
+Teheï 
+Teraimana 
+Heitiare 
+Honoteauratini 
+Tamahaunui 
+Timi 
+Teheaiani 
+Hereiti 
+Meherio 
+Teriirahi 
+Ravanui 
+Tehauarai 
+Ranihei 
+Dylan 
+Tearoha 
+Espérance 
+Jennifer 
+Taaitoa 
+Hauhere 
+Tïmen 
+Tamaterai 
+Pouarii 
+Eileen 
+Loana 
+Naairoa 
+Tenio 
+Tamatona 
+Mahine 
+Manahau 
+Teahinarau 
+Tevaihani 
+Paul 
+Date Naiss 
+28/06/2006 
+06/06/2003 
+18/02/2005 
+13/05/2006 
+18/01/2003 
+05/02/2004 
+11/04/2001 
+02/07/2002 
+19/04/2006 
+19/04/2006 
+09/12/2004 
+18/07/2002 
+09/06/2010 
+06/05/2007 
+01/09/2009 
+12/11/2009 
+24/06/2007 
+15/05/2009 
+30/08/2007 
+22/10/2009 
+12/06/2007 
+30/03/2009 
+10/04/2009 
+09/04/2009 
+24/03/2008 
+12/03/2010 
+25/011/2008 
+21/12/2009 
+07/12/2005 
+25/07/2003 
+25/11/2005 
+11/12/2006 
+28/01/2009 
+30/11/2004 
+05/04/2009 
+29/05/2009 
+09/02/2005 
+19/11/2002 
+30/03/2005 
+22/06/2006 
+23/03/2003 
+02/08/2007 
+06/05/2009 
+15/04/2009 
+09/05/2005 
+28/03/2004 
+30/03/2005 
+10/12/2006 
+05/04/2004 
+26/10/2006 
+23/02/2006 
+12/07/2004 
+30/12/2005 
+18/07/2005 
+05/03/2001 
+Ecole fréquentée 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAÏ TANE PRIMAIRE 
+01 TUTERAÏ TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAÏ TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAÏ TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAÏ TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAÏ TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAÏ TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAÏ TANE MATERNELLE 
+02 TUTERAÏ TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+02 TUTERAI TANE MATERNELLE 
+03 NAHOATA PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+04 TAAONE PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+Délibération n°101/2012 du 04 décembre 2012 
+Approuvant la iiste des enfants des écoles de la commune de Pirae, bénéficiant d'une aide pour la cantine scolaire au titre de l'année 2012-2013 
+
+9428 
+10681 
+11669 
+12259 
+11517 
+12331 
+12454 
+12339 
+12132 
+11367 
+11649 
+11838 
+12379 
+12459 
+11363 
+11328 
+11977 
+11360 
+12507 
+7768 
+269 
+269 
+1062 
+1007 
+637 
+1057 
+1087 
+1093 
+1051 
+571 
+571 
+990 
+990 
+136 
+810 
+269 
+269 
+1066 
+1032 
+1051 
+AH SCHA 
+AH SCHA 
+ARIIOEHAU 
+TAPUTU 
+CHUNG 
+TAERO 
+PATIÏ 
+TETAINANUARII 
+TERIITAUM1HAU 
+TANI 
+TANI 
+TETUA 
+TETUA 
+WOO 
+FARAURU 
+AH SCHA 
+AH SCHA 
+TANE 
+TEHOIRI 
+TERIITAUMIHAU 
+Mataiti 
+Heiarii 
+Benjamin 
+Muriavai 
+Tavero 
+Dylan 
+Warren 
+Manahau 
+Elena 
+Teiva 
+Ravahere 
+Teriihauatua 
+Puahi 
+Teora 
+Mirirani-nui 
+Jeanne 
+Roxanne 
+Hanaley 
+Rautiare 
+Cedric 
+03/03/2002 
+09/09/2004 
+09/04/2007 
+10/03/2010 
+25/04/2007 
+19/05/2010 
+01/07/2009 
+03/02/2009 
+09/07/2008 
+01/06/2007 
+26/04/2008 
+09/10/2007 
+11/11/2009 
+12/05/2009 
+06/03/2007 
+03/10/2006 
+14/10/2008 
+13/04/2007 
+18/07/2009 
+16/06/1997 
+05 FAUTAUA VAL PRIMAIRE 
+05 FAUTAUA VAL PRIMAIRE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+06 FAUTAUA VAL MATERNELLE 
+07 NAHOATA MATERNELLE 
+07 NAHOATA MATERNELLE 
+08 CJA NAHOATA 
+Article 3. : 
+En raison d'une moyenne économique supérieure à 1390 francs, la demande de 
+bourse 
+de 
+cantine 
+des 
+enfants 
+dont 
+les 
+noms 
+suivent 
+est 
+refusée : 
+ID 
+10967 
+11369 
+9982 
+10308 
+9896 
+11784 
+9436 
+9497 
+Doss0 
+852 
+852 
+588 
+929 
+1112 
+1112 
+976 
+132 
+Nom 
+MATAIKI 
+MATAIKI 
+CASADO 
+TANÏ 
+PENI-MARAE 
+PENI-MARAE 
+SORMAN 
+LÏSSAC 
+Prénom 
+Kauehi 
+Hanalei 
+Cassidy 
+Ranitea 
+Kitana 
+Katarina 
+Ariihau 
+Noholani 
+Date Naiss 
+04/11/2005 
+01/07/2005 
+21/11/2002 
+03/10/2003 
+21/07/2002 
+17/11/2007 
+21/05/2002 
+05/07/2002 
+Ecole fréquentée 
+01 TUTERAI TANE PRIMAIRE 
+02 TUTERAI TANE MATERNELLE 
+04 TAAONE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+02 TUTERAI TANE MATERNELLE 
+01 TUTERAI TANE PRIMAIRE 
+01 TUTERAI TANE PRIMAIRE 
+Article 4. : 
+Leur famille n'étant pas résidente de la commune de Pirae, ia demande de bourse 
+de cantine des enfants dont les noms suivent est refusée : 
+ID 
+12524 
+12468 
+Dos° 
+1109 
+1111 
+Nom 
+CHUNG SI NAM 
+LUCAS 
+Prénom 
+Heiarii 
+Améthyste 
+Date Naiss 
+07/01/2002 
+08/01/2010 
+Ecole fréquentée 
+05 FAUTAUA VAL PRIMAIRE 
+06 FAUTAUA VAL MATERNELLE 
+Article 5. : 
+La présente délibération, qui sera enregistrée, communiquée partout où besoin 
+sera, est prise pour valoir ce que de droit 
+Délibération n°101/2012 du 04 décembre 2012 
+Approuvant la iiste des enfants des écoies de la commune de Pirae, bénéficiant d'une aide pour la cantine scolaire au titre de l'année 2012-2013 
+
+Extrait certifié conforme au Registre des délibérations 
+Le Maire 
+Acte rendu exécutoire 
+après envoi à la Subdivision administrative 
+Le 
+I.?.DEC. 2012 
+et publication du 
+2..0...QEC,,2012 
+Le Maire, 
+tjji 
+atrice VERNAUDON 
+Délibération n°lûl/20l2 du 04 décembre 2012 
+Approuvant ia iiste des enfants des écoles de la commune de Pirae, bénéficiant d'une aide pour la cantine scolaire au titre de i'année 2012-2013
