@@ -1,0 +1,9 @@
+# Réponse à la question n° 687
+
+- Question : [687](687.md) — Question n° 687 — substances toxiques
+
+## Réponse
+
+*JO du 2012-12-04*
+
+Depuis une quarantaine d'années, des études épidémiologiques réalisées dans le monde industrialisé ont révélé une baisse de la fertilité masculine et une augmentation de certaines malformations du tractus génital chez les garçons. Ces évolutions sont souvent attribuées à des substances chimiques qui perturberaient le fonctionnement du système hormonal, en particulier celui de la reproduction et pourrait donc affecter l'adulte, le jeune enfant ou l'embryon et le foetus lors de leur développement prénatal. L'Institut National de Prévention et d'Education pour la Santé (INPES) a été saisi afin d'évaluer la compréhensibilité d'un logo dédié à l'information des femmes enceintes ou en âge de procréer vis-à-vis des substances reprotoxiques ou des perturbateurs endocriniens contenus dans les produits grand public. Un pré-test quantitatif a été réalisé. Ce travail nécessite une étude plus approfondie pour l'élaboration d'un logo qui soit suffisamment compréhensible pour le public ciblé tout en respectant les critères d'étiquetage des substances chimiques. Ce travail ne peut se faire qu'en coordination à la fois avec les Etats membres de l'Union Européenne, mais surtout avec les instances ad hoc de l'Organisation des Nations Unies puisque les règles d'étiquetage et d'emballage des substances chimiques dangereuses se décident depuis 2002 à ce niveau. Par ailleurs, lors de la Conférence environnementale, les 14 et 15 septembre 2012, le gouvernement a annoncé qu'un groupe de travail sur les perturbateurs endocriniens associant l'ensemble des parties prenantes élaborerait d'ici juin 2013 une stratégie nationale comprenant des actions de recherche, d'expertise, d'information du public et de réflexion sur l'encadrement réglementaire.
