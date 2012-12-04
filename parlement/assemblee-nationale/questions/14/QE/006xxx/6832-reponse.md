@@ -1,0 +1,9 @@
+# Réponse à la question n° 6832
+
+- Question : [6832](6832.md) — Question n° 6832 — surfaces d'intérêt écologique; extension
+
+## Réponse
+
+*JO du 2012-12-04*
+
+Les négociations sur la politique agricole commune post-2013 sont engagées à l'échelle communautaire. Les propositions législatives de la Commission européenne, qui servent de base pour cette négociation, ont été rendues publiques à la mi-octobre 2011. Le projet de règlement relatif aux soutiens directs prévoit, notamment, un dispositif d'aide forfaitaire lié à la mise en oeuvre, par l'agriculteur, de mesures favorables à l'environnement. Cette aide, appelée « verdissement », doit représenter 30 % du budget total des aides directes. La Commission européenne propose trois mesures qui doivent être respectées par chaque agriculteur, dont une obligation consistant à prévoir 7 % de la surface agricole de l'exploitation, hors les prairies permanentes, à des éléments d'intérêt écologique comme les terres mises en jachère, les terrasses, les bandes tampons ou les particularités topographiques. La France est favorable au principe de verdissement car il contribue à la légitimité des soutiens directs versés aux agriculteurs. Toutefois, la proposition de la Commission européenne mériterait d'être améliorée. En particulier, en ce qui concerne le critère relatif aux surfaces d'intérêt écologique, il est opportun de retenir, au sein de ces surfaces, une liste d'éléments suffisante pour répondre aux enjeux du climat et de l'environnement de manière adaptée aux situations diverses des exploitations agricoles de l'Union européenne. Ainsi, au-delà des éléments proposés par la Commission européenne, certaines cultures nécessitant peu d'intrants et jouant un rôle important dans le stockage du carbone, comme le chanvre, présentent des caractéristiques qui devraient leur permettre d'être incluses dans cette liste.
