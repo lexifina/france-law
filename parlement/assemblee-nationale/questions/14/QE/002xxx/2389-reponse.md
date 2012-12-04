@@ -1,0 +1,9 @@
+# Réponse à la question n° 2389
+
+- Question : [2389](2389.md) — Question n° 2389 — Angoulême Saintes; électrification; perspectives
+
+## Réponse
+
+*JO du 2012-12-04*
+
+Dans le cadre des « études des conditions de la modernisation de la desserte de la Saintonge et du Pays royannais » inscrites au contrat de projets 2007-2013 de la Région Poitou-Charentes pour un montant de 4,5 M€ dont 2 M€ de participation de l'Etat, les études d'avant-projet (AVP) de l'électrification des lignes Niort-Saintes, Angoulême-Saintes et Saintes-Royan ont été engagées afin d'éclairer les conditions d'une desserte entre Paris et Royan par TGV sans rupture de charge. Réseau ferré de France a présenté lors du dernier comité de pilotage de cette opération différents scénarios de réalisation des travaux d'électrification complète des lignes Niort-Saintes, Angoulême-Saintes et Saintes-Royan, incluant également les travaux de modernisation de la voie entre Saintes et Royan, et a précisé pour chacun d'entre eux les coûts associés allant de 183 M€ à 217 M€ aux conditions économiques de janvier 2010, pour l'ensemble de ces trois sections de ligne. L'électrification de la ligne Angoulême-Saintes-Royan s'élève quant à elle à un coût compris entre 131 M€ et 154 M€ aux conditions économiques de janvier 2010. Le volet socio-économique de l'opération est actuellement approfondi et devrait être présenté aux partenaires lors du prochain comité de pilotage. Au vu des résultats de l'ensemble des études, les membres du comité de pilotage seront invités à examiner les conditions de poursuite de l'opération, en fonction notamment des capacités de financement des différents partenaires intéressés par ce projet. Au vu de son intérêt, le degré de mobilisation, notamment financière, des collectivités territoriales sera un élément déterminant de la poursuite de l'opération.
