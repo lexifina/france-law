@@ -1,0 +1,9 @@
+# Réponse à la question n° 2586
+
+- Question : [2586](2586.md) — Question n° 2586 — effectifs de personnel
+
+## Réponse
+
+*JO du 2012-12-04*
+
+Pour l'académie de Toulouse, il peut être précisé qu'à la rentrée scolaire 2011, le nombre moyen d'élèves par division (E/D) dans les collèges ruraux du second degré public s'établit à 25 élèves, plus favorable que la moyenne pour l'ensemble des collèges qui est de 26,2 traduisant ainsi la prise en compte de la spécificité des territoires ruraux. La gestion des postes de documentaliste relève des autorités académiques, dans le cadre de leur dotation globalisée en emplois d'enseignant. Dans l'académie de Toulouse, le ratio moyen est d'un poste de documentation pour 490 élèves. Les collèges d'Aurignac (Haute-Garonne) et de l'Isle-en-Dodon (Haute-Garonne) scolarisent respectivement 232 et 163 élèves à la rentrée scolaire 2012. L'attribution pour chacun de ces collèges d'un demi-poste de documentaliste leur permet d'avoir un ratio élève/poste de respectivement 464 et 326, plus favorable que la moyenne académique. A la rentrée 2012, dans le cadre de la préparation de la rentrée, l'académie de Toulouse a donné la priorité aux dotations en postes de documentation aux trois nouveaux établissements qui ont ouvert. Il doit être également noté que l'apprentissage des nouvelles technologies n'est pas de la seule compétence de l'enseignant-documentaliste, tous les enseignants intervenant dans cet apprentissage transversal. Enfin, tant les créations de postes que les moyens budgétaires spécifiques alloués au numérique (10 millions d'euros dans le PLF 2013 contre 3,6 millions d'euros en 2012) témoignent de la priorité accordée à ces sujets et du souci de favoriser l'accès aux sources d'informations ainsi que l'apprentissage des nouvelles technologies dans le monde rural en particulier.
