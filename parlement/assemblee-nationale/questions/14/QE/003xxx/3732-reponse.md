@@ -1,0 +1,9 @@
+# Réponse à la question n° 3732
+
+- Question : [3732](3732.md) — Question n° 3732 — médicaments; remboursement
+
+## Réponse
+
+*JO du 2012-12-04*
+
+La spécialité pharmaceutique Jevtana ® (principe actif : cabazitaxel), bénéficiant d'une autorisation de mise sur le marché (AMM) dans l'indication du cancer de la prostate métastatique, a fait l'objet d'une inscription sur la liste des spécialités agréées à l'usage des collectivités par arrêté du 22 mars 2012, publié au Journal Officiel du 27 mars 2012. Sur la base de ce texte, les établissements hospitaliers peuvent donc acheter, utiliser cette spécialité, celle-ci faisant l'objet, sur le fondement de ce même texte, d'une prise en charge par l'assurance maladie. Le mode de financement par l'assurance maladie à l'hôpital de cette spécialité suit le droit commun de la tarification à l'activité (TA), c'est-à-dire le financement par les tarifs des groupes homogènes de séjour (GHS), rémunérant l'activité des hôpitaux pour l'ensemble de leurs dépenses, y compris celles relatives aux produits de santé. Le laboratoire a sollicité le financement par l'inscription sur la liste des spécialités pharmaceutiques financées en sus des prestations d'hospitalisation (dite « liste en sus »), inscription qui revêt un caractère dérogatoire et s'adresse à des spécialités répondant à des critères spécifiques, en conformité notamment avec l'avis de la commission de transparence. L'inscription en sus de Jevtana ® n'a pas été retenue à ce stade, suivant en cela les préconisations du Conseil de l'hospitalisation consistant à ne pas inscrire sur la liste en sus un médicament dont l'apport thérapeutique par rapport aux autres traitements existants est mineur et dont le comparateur est financé dans les conditions de droit commun. Une procédure de réévaluation par la commission de transparence est en cours.
