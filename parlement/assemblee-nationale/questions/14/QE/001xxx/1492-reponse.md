@@ -1,0 +1,9 @@
+# Réponse à la question n° 1492
+
+- Question : [1492](1492.md) — Question n° 1492 — risques professionnels; chargés de prévention; recrutement
+
+## Réponse
+
+*JO du 2012-12-04*
+
+Certaines collectivités de petites tailles rencontrent des difficultés à désigner les assistants de prévention (précédemment désignés agents chargés de la mise en oeuvre des règles d'hygiène et de sécurité (ACMO)) prévus par le décret n° 85-603 du 10 juin 1985 relatif à l'hygiène et à la sécurité du travail ainsi qu'à la médecine professionnelle et préventive dans la fonction publique territoriale. Même si en 2007, lors de la préparation de la loi relative à la fonction publique territoriale, il avait pu être envisagé de permettre à l'assemblée délibérante des communes de moins de dix agents, de désigner en leur sein un élu pour exercer les fonctions d'ACMO, la loi n° 2007-209 du 19 février 2007, qui a introduit un article 108-3 dans la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, n'a pas retenu cette possibilité. La législation actuelle prévoit néanmoins d'autres solutions : l'assistant de prévention peut être mis à disposition pour tout ou partie de son temps par l'EPCI dont est membre la commune, par le centre de gestion ou par une autre commune. L'agent exerce alors sa mission sous la responsabilité de l'autorité territoriale auprès de laquelle il est placé. Ces dispositions sont de nature à pallier les difficultés de désignation et de formation de ces agents. Dans le cadre de la concertation ouverte par la ministre de la réforme de l'Etat, de la décentralisation et de la fonction publique avec les organisations syndicales de la fonction publique sur l'amélioration des conditions de vie au travail, la question des acteurs de la prévention sera examinée et pourra le cas échéant être conduite à évoluer.
