@@ -1,0 +1,9 @@
+# Réponse à la question n° 6282
+
+- Question : [6282](6282.md) — Question n° 6282 — activités aquacoles; schémas régionaux; élaboration
+
+## Réponse
+
+*JO du 2012-12-04*
+
+La consommation de produits aquatiques croît dans notre pays mais ce sont les importations qui répondent à cette augmentation de la demande. Le Président de la République a demandé au Gouvernement d'appuyer le secteur pour inverser cette tendance. Au-delà du gisement d'emplois que représentent les différents secteurs aquacoles, il s'agit d'assurer la sécurité alimentaire de notre pays, et donc de conforter son indépendance. Une cohérence de l'action publique doit être recherchée. L'intervention de l'Etat, en bonne intelligence avec les collectivités locales, en faveur du développement durable de ces secteurs pour garantir à la fois le développement économique et le respect des écosystèmes. Par ailleurs, les filières aquacoles ont besoin de visibilité afin de pérenniser leurs activités et de faire face aux investissements futurs. La mise en place des schémas régionaux de développement de l'aquaculture marine permet de répondre à ces enjeux et le ministre délégué auprès de la ministre de l'écologie, du développement durable et de l'énergie, chargé des transports, de la mer et de la pêche a demandé aux préfets des régions littorales, responsables de l'adoption de ces schémas, de tout mettre en oeuvre pour aboutir à leur adoption dans les délais les plus brefs. Enfin, la réforme de la politique commune de la pêche, actuellement en négociation, doit également être l'occasion de renforcer la place de l'aquaculture dans l'Union européenne. Le ministre délégué auprès de la ministre de l'écologie, du développement durable et de l'énergie, chargé des transports, de la mer et de la pêche soutient les propositions de la Commission européenne allant dans ce sens et défend une politique ambitieuse permettant le développement d'une aquaculture durable et compétitive en France.
