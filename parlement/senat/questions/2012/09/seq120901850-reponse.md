@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901850
+
+- Question : [SEQ120901850](seq120901850.md) — Cautionnement pour un bail d'habitation
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2012-12-06, page 2831*
+
+L'article 22-1 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs réglemente le régime du cautionnement des locaux à usage d'habitation. Les dispositions de l'article 22-1 précité ont été modifiées par l'article 55 de la loi n° 2009-323 du 25 mars 2009 de mobilisation pour le logement et de lutte contre l'exclusion. Depuis cette modification législative, tout cumul entre le cautionnement et une assurance garantissant les obligations locatives du locataire d'un logement non meublé est désormais interdit lorsque le bailleur est une personne physique. Conscient de certaines difficultés d'application du dispositif de non-cumul entre le cautionnement et une assurance garantissant les obligations locatives, notamment à l'égard de certaines catégories de personnes et particulièrement des étudiants, le législateur a mis en place un assouplissement de cette mesure, en autorisant un bailleur à solliciter une caution lorsque le candidat à la location est un étudiant ou un apprenti (art 39 de la loi n° 2009-1437 du 24 novembre 2009 relative à l'orientation et à la formation professionnelle tout au long de la vie). Cette évolution vis-à-vis d'une catégorie de locataires qui rencontrait des difficultés du fait de cette mesure, a sensiblement amélioré le dispositif. Toutefois, dans le cadre de la concertation qui va s'engager très prochainement en vue d'aboutir à l'élaboration d'un projet de loi-cadre concernant notamment les rapports bailleurs-locataires, les éventuels dysfonctionnements liés à l'interdiction de cumul entre le cautionnement et une assurance garantissant les obligations locatives du locataire feront l'objet d'échanges et de discussions entre les partenaires concernés.
