@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700661
+
+- Question : [SEQ120700661](seq120700661.md) — Bénéfice d'un coefficient géographique pour l'AP-HM
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2012-12-06, page 2814*
+
+Il convient tout d'abord de rappeler que les coefficients géographiques majorants s'appliquent aux tarifs nationaux et aux forfaits annuels dans certaines zones géographiques, pour tous les établissements de la zone (publics et privés). Les éventuels surcoûts structurels d'un établissement particulier au sein d'une zone géographique n'ont par conséquent pas vocation à être financés par la mise en œuvre d'un coefficient géographique qui est calculé au regard des surcoûts (immobiliers, salariaux ou fiscaux) subis par tous les établissements d'une zone géographique. Les régions éligibles au coefficient géographique présentent des surcoûts importants, et ce s'agissant de l'ensemble des facteurs de production (charges de personnel, médicaments et dispositifs médicaux, fiscalité, surcoûts immobiliers), dans des proportions spécifiques à chaque région. Ainsi, les salariés des DOM en particulier bénéficient de compléments de rémunération réglementaires très importants (qui emportent un surcoût pour l'employeur de l'ordre de 25 % à 30 %), du fait de l'éloignement géographique de ces régions. D'autres surcoûts tels que les surcoûts immobiliers en Île-de-France ou les surcoûts liés à l'importation de certains médicaments ou biens de consommation dans les régions insulaires viennent également justifier l'application d'un coefficient géographique pour ces zones. Les diverses études et données utilisées dans le cadre de la détermination et de l'actualisation des niveaux des coefficients géographiques (données INSEE sur les prix des biens et services, données DADS sur les écarts de rémunération dans les établissements de santé...) ne font en revanche pas apparaître de surcoûts significatifs entre la région PACA et le reste de la France.
