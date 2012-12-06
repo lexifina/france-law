@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700752
+
+- Question : [SEQ120700752](seq120700752.md) — Effets pervers du développement des pratiques d'emplois médicaux temporaires
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2012-12-06, page 2814*
+
+Le décret n° 2010-1137 du 29 septembre 2010 portant dispositions relatives aux praticiens contractuels, aux assistants, aux praticiens attachés et aux médecins, pharmaciens et chirurgiens-dentistes recrutés dans les établissements publics de santé, pris en application de l'article 5-VI de la loi du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires, a permis l'encadrement du recours, par les établissements publics de santé, aux praticiens recrutés pour une courte durée c'est-à-dire pour une durée inférieure à trois mois. Cet encadrement est réalisé par une double mesure : la fixation d'une proportion à respecter entre le nombre des praticiens temporaires et celui des praticiens titulaires ou recrutés pour une durée supérieure à trois mois dans une même activité et une même structure d'une part et l'obligation pour les établissements de transmettre au directeur général de l'agence régionale de santé (ARS) un état semestriel des recrutements temporaires d'autre part. Un contrôle a posteriori du volume d'emploi de personnels temporaires doit permettre au directeur général de l'ARS, le cas échéant, de remettre en cause l'autorisation d'activité lorsque la continuité des soins paraît compromise par un important recours aux emplois médicaux de courte durée. Sur la base de ce contrôle, le ministère de la santé pourra disposer d'une cartographie régionale du recours à l'emploi temporaire et de ses éventuelles dérives qu'il entend réguler via les ARS et en lien avec les chambres régionales des comptes.
