@@ -14,7 +14,7 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 
 |
 
-CERTIFICATS/VISITES
+CERTIFICATS/ VISITES
 
 |
 
@@ -24,29 +24,21 @@ Veritas
 
 |
 
-DET NORSK
+DET NORSKE
 
 Veritas
 
 |
 
-GERMANISCH
+GERMANISCHER
 
-et Lloyd
+Lloyd
 
 |
 
 LLOYD'S
 
-register
-
-of Shipping
-
-|
-
-AMERICAN
-
-bureau
+Register
 
 of Shipping
 
@@ -76,19 +68,11 @@ Permis de navigation
 
 |
 
--
-
-|
-
 2
 
 |
 
-Visites relatives au franc-bord/certificat de franc-bord
-
-|
-
-H
+Visites relatives au franc-bord/ Certificat de franc-bord
 
 |
 
@@ -132,15 +116,11 @@ D
 
 |
 
-D
-
-|
-
 4
 
 |
 
-Visites relatives à la sécurité de construction/Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
+Visites relatives à la sécurité de construction/ Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
 
 |
 
@@ -157,10 +137,6 @@ H
 |
 
 H
-
-|
-
--
 
 |
 
@@ -168,7 +144,7 @@ H
 
 |
 
-Certificat d'exemption au titre de la SOLAS
+Certificat d'exemption au titre de la Solas
 
 |
 
@@ -185,10 +161,6 @@ D
 |
 
 D
-
-|
-
--
 
 |
 
@@ -196,7 +168,7 @@ D
 
 |
 
-Visites requises pour le certificat de sécurité radioélectrique pour navire de charge/Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C
+Visites requises pour le certificat de sécurité radioélectrique pour navire de charge/Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
 
 |
 
@@ -213,10 +185,6 @@ H
 |
 
 H
-
-|
-
--
 
 |
 
@@ -224,7 +192,7 @@ H
 
 |
 
-Visites relatives à la sécurité du matériel d'armement/Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C
+Visites relatives à la sécurité du matériel d'armement/Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
 
 |
 
@@ -241,10 +209,6 @@ H
 |
 
 H
-
-|
-
--
 
 |
 
@@ -252,7 +216,7 @@ H
 
 |
 
-Visites relatives à l'aptitude au transport de gaz liquéfiés en vra/Certificat international d'aptitude au transport de gaz liquéfié en vrac
+Visites relatives à l'aptitude au transport de gaz liquéfiés en vrac/Certificat international d'aptitude au transport de gaz liquéfié en vrac
 
 |
 
@@ -269,10 +233,6 @@ H
 |
 
 H
-
-|
-
--
 
 |
 
@@ -300,10 +260,6 @@ H
 
 |
 
--
-
-|
-
 10
 
 |
@@ -325,10 +281,6 @@ H
 |
 
 H
-
-|
-
--
 
 |
 
@@ -356,10 +308,6 @@ H
 
 |
 
--
-
-|
-
 12
 
 |
@@ -381,10 +329,6 @@ H
 |
 
 H
-
-|
-
--
 
 |
 
@@ -412,10 +356,6 @@ H
 
 |
 
--
-
-|
-
 14
 
 |
@@ -437,10 +377,6 @@ H
 |
 
 H
-
-|
-
--
 
 |
 
@@ -468,10 +404,6 @@ H
 
 |
 
--
-
-|
-
 16
 
 |
@@ -493,10 +425,6 @@ H
 |
 
 H
-
-|
-
--
 
 |
 
@@ -524,10 +452,6 @@ H
 
 |
 
--
-
-|
-
 18
 
 |
@@ -549,10 +473,6 @@ H
 |
 
 H
-
-|
-
--
 
 |
 
@@ -580,13 +500,11 @@ H
 
 |
 
-|
-
 20
 
 |
 
-Visite relative à la conformité au transport de marchandises dangereuses (Circulaire MSC 1266)/Document de conformité prescription spéciales applicables aux navires transportant des marchandises dangereuses
+Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/Document de conformité prescriptions spéciales applicables aux navires transportant des marchandises dangereuses
 
 |
 
@@ -603,8 +521,6 @@ H
 |
 
 H
-
-|
 
 |
 
@@ -616,7 +532,7 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 
 |
 
-CERTIFICATS/VISITES
+CERTIFICATS/ VISITES
 
 |
 
@@ -626,25 +542,21 @@ Veritas
 
 |
 
-DET NORSK
+DET NORSKE
 
 Veritas
 
 |
 
-GERMANISCH
+GERMANISCHER
 
-et Lloyd
-
-|
-
-LLOYD'S register
-
-of Shipping
+Lloyd
 
 |
 
-AMERICAN bureau
+LLOYD'S
+
+Register
 
 of Shipping
 
@@ -654,11 +566,7 @@ of Shipping
 
 |
 
-Visites relatives au Certificat international ou national de franc-bord/Certificat de franc-bord
-
-|
-
-H
+Visites relatives au certificat international ou national de franc-bord/Certificat de franc-bord
 
 |
 
@@ -702,15 +610,11 @@ D
 
 |
 
-D
-
-|
-
 3
 
 |
 
-Visites relatives au Registre des apparaux de levage/Approbation du registre
+Visites relatives au registre des apparaux de levage/Approbation du registre
 
 |
 
@@ -727,10 +631,6 @@ H
 |
 
 H
-
-|
-
--
 
 |
 
@@ -758,10 +658,6 @@ H
 
 |
 
--
-
-|
-
 5
 
 |
@@ -783,9 +679,5 @@ H
 |
 
 H
-
-|
-
--
 
 |
