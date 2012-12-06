@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901736
+
+- Question : [SEQ120901736](seq120901736.md) — Signalétique sur le réseau autouroutier
+
+## Réponse
+
+*Intérieur, JO du 2012-12-06, page 2839*
+
+Des limitations de vitesse plus restrictives que celles définies par le code de la route peuvent être fixées ponctuellement par l'autorité détentrice du pouvoir de police lorsqu'elle estime qu'en un lieu donné la limite réglementaire n'est pas adaptée aux caractéristiques de la voie, à l'intensité du trafic qu'elle supporte ou encore au franchissement de points dangereux. La compréhension et l'acceptation de ces limitations par les usagers facilitent leur respect qui est un enjeu essentiel pour la sécurité de la circulation sur autoroutes comme sur les autres types de réseau. Aussi la lisibilité et l'adaptation de la signalisation à la situation locale constituent-elles une préoccupation permanente des pouvoirs publics. D'une part, l'instruction interministérielle sur la signalisation routière, qui précise les conditions d'implantation de la signalisation, demande que ces limitations de vitesse soient rappelées régulièrement, et obligatoirement après chaque intersection ou bretelle d'insertion. De plus, sur les autoroutes et sur les routes à chaussées séparées par un terre-plein central et comportant au moins deux voies, les panneaux de limitation de vitesse placés à droite doivent être répétés à gauche, ou sur portique au-dessus des voies. D'autre part, la commission départementale de la sécurité routière, qui a vu récemment son champ d'action élargi, est désormais le lieu où les questions relatives à la signalisation ou à la pertinence des limitations de vitesse peuvent être examinées entre les gestionnaires du réseau routier et les représentants des usagers. Enfin, des instructions ont été récemment données par circulaire aux préfets de département leur demandant de veiller à la bonne cohérence des limitations de vitesse sur l'ensemble des réseaux.
