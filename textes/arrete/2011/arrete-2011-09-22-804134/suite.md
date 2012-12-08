@@ -154,79 +154,153 @@ Secteur droit à dépassement permanent (DP)
 
 Les médecins titulaires du droit à dépassement permanent à la date d'entrée en vigueur de la présente convention en conservent le bénéfice.
 
+Article 35.3
+
+Pratique tarifaire des médecins exerçant en secteur à honoraires différents et titulaires du droit à dépassement permanent.
+
+Les médecins autorisés à pratiquer des honoraires différents et les médecins titulaires d'un droit à dépassement permanent fixent et modulent le montant de leurs honoraires à des niveaux permettant l'accès aux soins des assurés sociaux et de leurs ayants droit.
+
+En outre, dans le contexte actuel de croissance économique faible, ces médecins s'engagent à modérer leur pratique tarifaire pendant la durée de la présente convention afin de garantir l'accès aux soins.
+
+De plus, en sus des situations déjà prévues par les textes réglementaires et la convention médicale (situations d'urgence médicale et soins délivrés aux patients bénéficiaires de la couverture maladie universelle complémentaire), les médecins susmentionnés pratiquent leurs actes aux tarifs opposables, pour les patients disposant de l'attestation de droit à l'aide à l'acquisition d'une complémentaire santé (ACS) définie à l'article L. 863-3 du code de la sécurité sociale.
+
+Article 35.4
+
+Engagement de l'assurance maladie sur l'accessibilité au dispositif ACS.
+
+L'assurance maladie met en œuvre les moyens nécessaires pour :
+
+- favoriser l'accès au dispositif de l'ACS (information sur les critères d'accessibilité, accompagnement dans les démarches, amélioration des délais de traitement des dossiers, etc.) des assurés sociaux remplissant les critères d'éligibilité ;
+
+- apporter aux médecins libéraux l'information nécessaire sur leurs patients disposant de l'attestation de droit à l'ACS.
+
+Article 35.5
+
 Sous-titre 3
 
-Mise en œuvre de l'option de coordination
+Contrat d'accès aux soins
 
-Afin de favoriser l'accès aux soins et de prendre en compte, dans le cadre du parcours de soins coordonnés, leur engagement dans la coordination des soins réalisés à tarifs maîtrisés, cette option de coordination est proposée à l'ensemble des médecins généralistes et spécialistes qui sont autorisés à pratiquer des honoraires différents ou titulaires d'un droit permanent à dépassement.
+Afin de favoriser l'accès des patients à des soins aux tarifs opposables et de réduire leur reste à charge, un contrat d'accès aux soins est proposé à l'ensemble des médecins qui sont autorisés à pratiquer des honoraires différents ou titulaires d'un droit permanent à dépassement.
 
-Pour les chirurgiens, gynécologues obstétriciens et anesthésistes, le bénéfice de l'option de coordination est maintenu jusqu'à l'entrée en vigueur du secteur optionnel.
+Ce contrat a pour objectif d'améliorer la prise en charge des patients dans le cadre du parcours de soins coordonnés en développant l'activité à tarif opposable et en améliorant le niveau de remboursement par l'assurance maladie. Dans cet objectif, l'assurance maladie s'engage, d'une part, à aligner les tarifs de remboursement de ces médecins sur ceux exerçant en secteur à honoraires opposables et, d'autre part, à faire bénéficier les médecins souscrivant au contrat d'accès aux soins des revalorisations des tarifs de remboursement applicables aux médecins exerçant en secteur à honoraires opposables.
+
+L'objectif est de favoriser l'activité à tarifs opposables et l'attractivité du contrat d'accès aux soins.
+
+L'UNOCAM s'engage à consacrer des ressources allant au-delà des sommes naturellement appelées par le mécanisme du ticket modérateur au financement de tarifs opposables réévalués dans le secteur à honoraires opposables et le contrat d'accès aux soins, afin de répondre aux besoins de santé des adhérents et assurés des organismes complémentaires d'assurance maladie et de réduire leurs restes à charge. Les partenaires conventionnels conviennent de définir les modalités de ce nouveau dispositif dans les meilleurs délais.
+
+L'UNOCAM s'engage à inciter les organismes complémentaires d'assurance maladie, lorsque les garanties ou les contrats le prévoient, à prendre en charge de façon privilégiée les dépassements d'honoraires des médecins adhérant au contrat d'accès aux soins pendant la durée de celui-ci.
 
 Article 36
 
-Engagements du praticien adhérant à l'option de coordination
+Mise en place du contrat d'accès aux soins.
 
-Le praticien adhérent s'engage, pour les actes qu'il effectue pour les patients qui entrent dans le parcours de soins coordonnés, à pratiquer les tarifs suivants :
+Peuvent adhérer au contrat d'accès aux soins les médecins autorisés à pratiquer des honoraires différents, les médecins titulaires du droit à dépassement permanent et les médecins titulaires des titres visés à l'article 35.1 permettant d'accéder au secteur à honoraires différents et qui s'installent pour la première fois en exercice libéral.
 
-- pour les actes cliniques : les tarifs opposables sans dépassement ;
+Pour les médecins visés à l'alinéa précédent et installés antérieurement au 1er janvier 2013, l'adhésion au contrat d'accès aux soins est ouverte durant la période du 1er janvier 2013 au 30 juin 2013.
 
-- pour les actes techniques : les tarifs opposables avec un dépassement pratiqué avec tact et mesure plafonné pour chaque acte à 20 % de sa valeur. Ce dépassement est plafonné pour chaque acte à 50 % de sa valeur pour les médecins exerçant une spécialité chirurgicale, obstétricale ou d'anesthésie-réanimation.
+L'objectif du présent avenant est que la grande majorité des médecins éligibles choisissent d'adhérer au contrat d'accès aux soins. Celui-ci entre en vigueur au 1er juillet 2013, sous réserve qu'au moins un tiers des médecins éligibles au contrat d'accès aux soins y aient adhéré. Les partenaires conventionnels peuvent toutefois convenir, par voie d'avenant, d'un aménagement de ce seuil au vu des résultats constatés. A défaut d'avenant au 1er juillet 2013, la période d'adhésion et la date d'entrée en vigueur sont repoussées jusqu'à ce que ce seuil d'un tiers soit atteint.
 
-Pour l'ensemble de son activité le praticien s'engage à respecter :
+Les médecins visés au premier alinéa du présent article et qui s'installent postérieurement au 1er janvier 2013 disposent d'un délai de six mois pour adhérer au contrat d'accès aux soins.
 
-- pour les actes cliniques, un ratio honoraires sans dépassements sur honoraires totaux égal ou supérieur à 30 %, avec pour base le système national interrégimes des professionnels de santé (SNIR-PS) ;
+Sous réserve de l'entrée en vigueur du contrat d'accès aux soins dans les conditions mentionnées ci-dessus, les médecins titulaires des titres visés à l'article 35.1 et installés antérieurement au 1er janvier 2013 peuvent adhérer au contrat d'accès aux soins.
 
-- pour les actes techniques, un ratio honoraires sans dépassements sur honoraires totaux égal ou supérieur à 30 %, avec pour base le SNIR-PS.
-
-Ces dépassements ne sont pas applicables :
-
-- en cas de consultation en urgence médicalement justifiée ;
-
-- lorsque le praticien reçoit un enfant de moins de 16 ans. Il bénéficie dans ce cas de la majoration forfaitaire transitoire (MPC) prévue à l'article 2 bis des dispositions générales de la NGAP.
+Après l'entrée en vigueur du dispositif du contrat d'accès aux soins, le médecin éligible peut adhérer à tout moment au contrat.
 
 Article 37
 
-Engagements de l'assurance maladie vis-à-vis du praticien adhérant à l'option de coordination
+Tarifs de remboursement applicables aux soins réalisés par les praticiens adhérant au contrat d'accès aux soins.
 
-Les caisses d'assurance maladie participent au financement des cotisations sociales dues par le médecin adhérant à l'option de coordination au titre de ses honoraires en application des articles L. 242-11, L. 645-2 et L. 722-4 du code de la sécurité sociale. Cette prise en charge s'effectue dans les conditions définies à l'article 60 et à l'annexe XIX et s'applique sur la part de l'activité du praticien réalisée aux tarifs opposables effectuée dans le cadre de la présente convention.
-
-La participation de l'assurance maladie est versée aux organismes de recouvrement, sur leur appel, par la CPAM ou la CGSS du lieu d'implantation du médecin. La CPAM ou la CGSS du lieu d'implantation du médecin établit le bilan annuel d'activité à tarif opposable par praticien ayant opté pour l'option de coordination avant le 30 juin de l'année n + 1 et informe chaque médecin concerné des montants de cotisations prises en charge.
-
-En outre, lorsqu'il reçoit un patient, en accès coordonné ou spécifique, pour des soins itératifs et procède à un retour d'information au médecin traitant, le praticien adhérent applique la majoration de coordination définie à l'annexe XIV de la présente convention.
+Les soins réalisés par les médecins qui adhèrent au contrat d'accès aux soins bénéficient des tarifs de remboursement identiques aux tarifs en vigueur dans le secteur à honoraires opposables.
 
 Article 38
 
-Modalités d'adhésion à l'option
+Adhésion au contrat d'accès aux soins et engagements du médecin.
 
-Le médecin formalise son adhésion à l'option de coordination par le biais d'un formulaire (modèle en annexe XVIII du présent texte) qu'il adresse à la caisse du lieu d'implantation de son cabinet principal par lettre recommandée avec accusé de réception.
+Le médecin qui souscrit le contrat d'accès aux soins s'engage à faire bénéficier ses patients de l'amélioration du tarif de remboursement des soins.
 
-Sans réponse de la caisse dans le mois suivant la réception du formulaire, l'adhésion est réputée acquise pour la durée d'application de la présente convention.
+A cet effet, le contrat d'accès aux soins permet de diminuer, progressivement, sur une durée de trois ans, le reste à charge des patients au fur et à mesure de la mise en œuvre de la revalorisation des tarifs de remboursement et de la baisse des dépassements.
+
+Article 38.1
+
+Engagements du médecin :
+
+Les caisses mettent à disposition de chaque médecin éligible au contrat d'accès aux soins un état de sa pratique tarifaire de l'année 2012. Cet état comporte les tarifs pratiqués par le médecin pour les principaux actes qu'il réalise, la part des actes réalisés aux tarifs opposables ainsi que le taux de dépassement constaté en 2012. Par ailleurs, le médecin est informé du taux de dépassement qui aurait été le sien si les actes avaient été réalisés par un médecin exerçant en secteur à honoraires opposables (taux de dépassement recalculé).
+
+Les modalités de calcul du taux de dépassement sont définies en annexe XIX.
+
+En adhérant au contrat d'accès aux soins, le médecin s'engage à ne pas augmenter sa pratique tarifaire et à respecter le taux de dépassement moyen recalculé tels que définis au premier alinéa du présent article. Le contrat ne peut pas comporter d'engagement de taux de dépassement recalculé, tel que défini à l'article 2 de l'annexe XIX, supérieur à 100 %.
+
+Pendant la durée du contrat, les évolutions des tarifs de remboursement donnent lieu à un avenant au contrat d'accès aux soins soumis au médecin. Cet avenant comporte le taux de dépassement recalculé en fonction des nouveaux tarifs de remboursement modifié conformément aux dispositions de l'annexe XIX.
+
+Le contrat comporte, par ailleurs, dans un souci d'amélioration d'accès aux soins, le pourcentage d'activité aux tarifs opposables que le praticien s'engage à respecter. Ce pourcentage, qui inclut les cas visés à l'article 35.3 de la présente convention (situations d'urgence médicale, patients en CMUC ou disposant de l'attestation de droit à l'ACS), doit être supérieur ou égal à celui constaté pour l'année 2012.
+
+Cas particulier des médecins nouvellement installés depuis moins d'un an :
+
+Les médecins nouvellement installés depuis moins d'un an peuvent adhérer au contrat d'accès aux soins. Dans ce cas, le taux de dépassement applicable ne peut être supérieur à la moyenne, pondérée par les effectifs, des taux de dépassement constatée pour les médecins éligibles au contrat d'accès aux soins de la même spécialité et de la même région, à l'exception des spécialités d'anatomo-cytopathologie, de gériatrie, de médecine interne et de néphrologie, pour lesquelles le taux national est retenu. Les médecins s'engagent la première année sur une part minimale d'actes à tarif opposable incluant les cas visés à l'article 35.3 de la convention et progressent régulièrement pour atteindre, à l'issue du contrat, le taux d'activité à tarif opposable correspondant à la moyenne des taux constatée définie selon les mêmes règles que le taux de dépassement.
+
+Cas particulier des médecins titulaires des titres visés à l'article 35.1 n'exerçant pas dans le secteur à honoraires différents ou non titulaires du droit permanent à dépassement et installés avant le 1er janvier 2013 :
+
+Le taux de dépassement applicable à ces médecins ne peut être supérieur à la moyenne, pondérée par les effectifs, des taux de dépassement constatée pour les médecins éligibles au contrat d'accès aux soins de la même spécialité et de la même région, à l'exception des spécialités d'anatomo-cytopathologie, de gériatrie, de médecine interne et de néphrologie, pour lesquelles le taux national est retenu. La part d'activité à tarif opposable est fixée selon les mêmes règles sans pouvoir être inférieure à 30 %.
+
+Modalités d'adhésion et durée du contrat d'accès aux soins
+
+Le médecin déclare son souhait d'adhérer au contrat d'accès aux soins auprès de la CPAM ou CGSS de son lieu d'installation, dans les conditions définies à l'article 36, par le biais d'un formulaire type dont le modèle figure à l'annexe XVIII qu'il adresse à la caisse du lieu d'implantation de son cabinet principal par lettre recommandée avec accusé de réception. Est joint au formulaire un état de la pratique tarifaire du médecin sur l'année 2012 établi conformément aux dispositions du premier alinéa du présent article.
+
+La caisse enregistre l'adhésion à la date de réception de cette lettre et adresse au médecin un courrier attestant cet enregistrement.
+
+L'adhésion au contrat d'accès aux soins est valable pour une durée de trois ans.
+
+Article 38.2
+
+Prise en compte de l'activité à tarif opposable.
+
+Les caisses d'assurance maladie participent au financement des cotisations sociales dues par le médecin adhérant au contrat d'accès aux soins au titre de ses honoraires en application des articles L. 242-11, L. 612-1, L. 645-2 et L. 722-4 du code de la sécurité sociale.
+
+Cette prise en charge s'effectue dans les conditions définies aux articles 60 et suivants et à l'annexe XX sur la part des honoraires du médecin réalisée aux tarifs opposables.
+
+Article 38.3
+
+Prise en charge par les organismes complémentaires.
+
+L'UNOCAM s'engage à inciter les organismes d'assurance maladie complémentaires à prendre en charge de manière privilégiée les dépassements d'honoraires des médecins adhérant au contrat d'accès aux soins, lorsque le contrat complémentaire prévoit une prise en charge de dépassement.
 
 Article 39
 
 Modalités de suivi des engagements
 
-A compter de son adhésion à l'option de coordination, le médecin reçoit chaque trimestre des documents de suivi relatifs au respect de ces différents engagements : suivi du respect des tarifs opposables et des dépassements d'honoraires dans les conditions définis à l'article 36.
+A compter de la date d'adhésion au contrat d'accès aux soins, le médecin reçoit, chaque trimestre, des documents de suivi de sa pratique tarifaire : suivi du respect de son taux d'activité réalisé à tarifs opposables, de la non-augmentation de sa pratique tarifaire et de son taux de dépassement tels que définis à l'article 38.
 
-Si, à l'issue d'un trimestre, une caisse constate un non-respect par le médecin de l'un ou plusieurs engagements souscrits dans le cadre de l'option de coordination, elle lui adresse un courrier d'avertissement par lettre recommandée avec accusé de réception signalant, d'une part, les anomalies constatées et, d'autre part, le fait que si le trimestre suivant un nouveau non-respect des engagements est constaté une procédure de résiliation de l'adhésion est susceptible d'être mise en œuvre dans les conditions définies à l'article 41.
+Si, à l'issue de deux trimestres consécutifs, la caisse constate le non-respect par le médecin de l'un ou l'autre des engagements souscrits dans le cadre du contrat d'accès aux soins, elle lui adresse un courrier d'avertissement signalant, d'une part, les anomalies constatées et, d'autre part, le fait que si le non-respect des engagements est constaté à l'issue d'une année civile, une procédure de résiliation de l'adhésion est susceptible d'être mise en œuvre dans les conditions définies à l'article 40.
 
 Article 40
 
-Modalités de résiliation par le médecin
+Modalités de résiliation
 
-Le médecin ayant adhéré à l'option de coordination peut à tout moment revenir sur ce choix.
+Article 40.1
 
-Dans ce cas il doit informer la CPAM ou la CGSS de son lieu d'installation, par lettre recommandée avec avis de réception. Cette résiliation est effective un mois après la réception du courrier par la caisse.
+Modalités de résiliation par le médecin.
+
+Le médecin ayant adhéré au contrat d'accès aux soins peut revenir sur ce choix à la date anniversaire du contrat ou, si un avenant a été conclu en application de l'article 38.1, à la date anniversaire de celui-ci. Dans ce cas, il informe la CPAM ou la CGSS de son lieu d'installation, par lettre recommandée avec avis de réception. Cette résiliation est effective un mois après la réception du courrier par la caisse et à compter de cette date le médecin perd les avantages conférés par le contrat.
+
+Article 40.2
+
+Modalités de résiliation par la caisse.
+
+La caisse qui, dans les conditions définies précédemment, constate, à l'issue de chaque année civile telle que définie à l'article 38, le non-respect par un médecin de ses engagements adresse un courrier par lettre recommandée avec accusé de réception notifiant les anomalies constatées et le détail des étapes de la procédure définie ci-après.
+
+La procédure prévue au présent article s'applique également en cas de constatation par la caisse, dans un délai de deux mois après l'envoi par la caisse de la proposition de l'avenant prévu à l'article 38.1, de l'absence de signature du médecin. La caisse adresse à l'issue de ce délai un courrier par lettre recommandée constatant l'absence de signature de l'avenant au contrat.
+
+Le médecin dispose d'un délai de deux mois à compter de la réception des courriers définis aux paragraphes précédents pour faire connaître ses observations écrites à la caisse. Il peut dans ce même délai être entendu par le directeur de la caisse ou l'un de ses représentants ou par la commission paritaire locale définie à l'article 74, avec une possibilité d'appel en CPN. A l'issue de ce délai, la caisse peut notifier au médecin la fin de son adhésion au contrat d'accès aux soins par lettre recommandée avec accusé de réception.
+
+A compter de la date de réception de ce courrier, il est mis fin à la participation de l'assurance maladie aux cotisations sociales. La caisse peut également engager une récupération des sommes versées au titre de l'adhésion au contrat d'accès aux soins.
 
 Article 41
 
-Résiliation par la caisse en cas de non-respect des engagements par le médecin
+Suivi des pratiques tarifaires.
 
-La caisse qui, dans les conditions définies à l'article 39, constate le non-respect par un médecin de ses engagements deux trimestres consécutifs alors qu'elle a mis en œuvre la procédure d'avertissement visée à ce même article adresse un courrier par lettre recommandée avec accusé de réception notifiant les anomalies constatées et le détail des étapes de la procédure définie ci-après.
+Chaque trimestre, les partenaires conventionnels suivent la mise en œuvre du contrat d'accès aux soins, et plus généralement l'évolution des pratiques tarifaires au regard des dispositions de l'article 35.3 de la convention, dans le cadre d'un observatoire instauré par le présent avenant dont la composition et les missions sont définies en annexe XXIII. Au regard des résultats constatés, ils prennent, le cas échéant, toute mesure nécessaire à l'atteinte des objectifs fixés.
 
-Le médecin dispose d'un délai de deux mois à compter de la réception de ce courrier pour faire connaître ses observations écrites à la caisse. Il peut dans ce même délai être entendu par le directeur de la caisse ou l'un de ses représentants ou par la commission paritaire locale définie à l'article 74. A l'issue de ce délai, la caisse peut notifier au médecin la fin de son adhésion à l'option de coordination par lettre recommandée avec accusé de réception.
-
-A compter de la date de réception de ce courrier, il est mis fin à la participation de l'assurance maladie aux cotisations sociales visée à l'article 37. La caisse peut également engager une récupération des sommes versées au titre de l'adhésion à l'option de coordination.
+La mise en œuvre des mesures prévues au présent sous-titre est conditionnée par la publication préalable des modifications de la liste des actes et prestations mentionnée à l'article L. 162-1-7 du code de la sécurité sociale.
 
 Article 42
 
@@ -254,27 +328,7 @@ Il informe le malade du montant du dépassement autorisé non remboursé par l'a
 
 Ce dépassement ne peut se cumuler avec un dépassement pour exigence particulière du patient (DE) tel que défini au paragraphe précédent.
 
-Article 42.3
-
-Application de dépassements maîtrisés (DM) sur les tarifs opposables des seuls actes techniques
-
-Les médecins adhérant à l'option de coordination décrite à l'article 36 de la présente convention et autorisés à pratiquer des honoraires différents au sens des précédents paragraphes ont la possibilité de pratiquer des dépassements maîtrisés (DM) sur les tarifs opposables des seuls actes techniques.
-
-Article 42.4
-
-Application de dépassements maîtrisés (DM) dans le cadre de l'application du secteur optionnel
-
-Les médecins qui adhèreront au secteur optionnel dans l'hypothèse où il serait mis en place auront la possibilité de pratiquer des dépassements maîtrisés (DM) sur une partie de leurs actes.
-
-Dans toutes les situations précédentes, le médecin fixe ses honoraires avec tact et mesure, conformément aux obligations qui résultent du code de déontologie.
-
 Sous-titre 4
-
-Projet de secteur optionnel
-
-Les parties signataires se sont mises d'accord sur les paramètres suivants relatifs à un secteur optionnel.
-
-Conformément aux dispositions du titre I de la présente convention et dans un souci de faciliter l'accès aux soins des assurés sociaux par un encadrement des dépassements d'honoraires, un nouveau secteur d'exercice dit secteur optionnel sera créé pour les professionnels des spécialités de chirurgie, anesthésie-réanimation et gynécologie obstétrique ayant une activité technique prépondérante ou remplissant le nombre d'actes sous l'appellation acte de chirurgie , acte d'anesthésie ou acte d'obstétrique visé à l'article R. 4031-27 du code de la santé publique.
 
 Conditions d'adhésion au secteur optionnel
 
@@ -700,9 +754,7 @@ Les caisses nationales se sont engagées à améliorer la lisibilité des retour
 
 Article 52
 
-La procédure exceptionnelle :
-
-la facturation via la feuille de soins sur support papier
+La procédure exceptionnelle : la facturation via la feuille de soins sur support papier
 
 En cas d'impossibilité de produire des feuilles de soins électroniques, du fait de l'absence ou de la non-présentation de la carte d'assurance maladie, la facturation via la feuille de soins sur support papier est possible.
 
@@ -1058,9 +1110,13 @@ La CPN réunie en formation exécutive est notamment chargée des missions suiva
 
 - elle émet un avis sur le recours consultatif formé auprès d'elle par le médecin à l'encontre duquel une sanction a été décidée par les caisses dans les conditions définies à l'article 75 ;
 
+- elle émet un avis dans les conditions définies à l'article 3 de l'annexe XXII de la convention nationale ;
+
 - elle assure le suivi et examine le bilan des commissions des pénalités sur la base d'un bilan d'activité annuel communiqué par la caisse ;
 
-- elle assure le suivi des expérimentations de nouveaux modes de rémunérations qui ont lieu au niveau régional en application de l'article 44 de la loi de financement de la sécurité sociale pour l'année 2008.
+- elle assure le suivi des expérimentations de nouveaux modes de rémunérations qui ont lieu au niveau régional en application de l'article 44 de la loi de financement de la sécurité sociale pour l'année 2008 ;
+
+- elle suit et évalue les résultats du contrat d'accès aux soins défini aux articles 36 et suivants et les engagements des médecins autorisés à pratiquer des honoraires différents et les médecins titulaires d'un droit à dépassement permanent définis à l'article 35.3.
 
 Article 71
 
@@ -1278,6 +1334,8 @@ La CPR réunie en formation exécutive est chargée notamment des missions suiva
 
 - elle émet un avis sur le recours suspensif formé auprès d'elle par le médecin à l'encontre duquel une sanction a été décidée par les caisses dans les conditions à l'article 78 ;
 
+- elle émet un avis sur les situations de pratiques tarifaires excessives que lui soumet le directeur de la caisse primaire d'assurance maladie du lieu d'implantation d'exercice principal du médecin. Cet avis porte sur le caractère sanctionnable de la pratique tarifaire soumise puis sur la nature et le quantum de la sanction.
+
 - elle est informée des travaux des instances locales de la région ;
 
 - elle informe régulièrement la CPN de ses travaux.
@@ -1388,13 +1446,27 @@ Le non-respect des dispositions conventionnelles peut notamment porter sur :
 
 - l'utilisation abusive du DE ;
 
+- une pratique tarifaire excessive des médecins exerçant en secteur à honoraires différents ou titulaires du droit à dépassement permanent ;
+
 - la non-inscription, de façon répétée, du montant des honoraires perçus, au sens de la présente convention et de la réglementation ;
 
 - le non-respect, de façon répétée, de la liste visée à l'article L. 162-1-7 du code de la sécurité sociale ;
 
 - le non-respect du droit à la dispense d'avance des frais au profit des bénéficiaires de la CMUC et de l'ACS ;
 
-- le non-respect de manière systématique de l'obligation de transmission électronique à l'assurance maladie, posée à l'article L. 161-35 du code de la sécurité sociale, des documents de facturation des actes et prestations .
+- le non-respect de manière systématique de l'obligation de transmission électronique à l'assurance maladie, posée à l'article L. 161-35 du code de la sécurité sociale, des documents de facturation des actes et prestations.
+
+L'appréciation du caractère excessif de la pratique tarifaire s'effectue au regard de tout ou partie des critères suivants :
+
+- le rapport entre la somme des honoraires facturés aux assurés sociaux au-delà du tarif opposable et la somme des tarifs opposables des soins délivrés par le médecin (taux de dépassement) ;
+
+- le taux de croissance annuel du rapport ci-dessus ;
+
+- la fréquence des actes avec dépassements et la variabilité des honoraires pratiqués ;
+
+- le dépassement moyen annuel par patient.
+
+L'appréciation tient compte de la fréquence des actes par patient, du volume global de l'activité du professionnel de santé ainsi que du lieu d'implantation du cabinet et de la spécialité. Elle tient également compte des niveaux d'expertise et de compétence.
 
 La procédure conventionnelle applicable en cas de manquement imputable à un médecin est décrite à l'annexe XXII de la présente convention.
 
@@ -1404,7 +1476,7 @@ Des sanctions susceptibles d'être prononcées
 
 Les sanctions susceptibles d'être prononcées à l'encontre d'un médecin sont les suivantes :
 
-- suspension du droit permanent à dépassement, du droit de pratiquer des honoraires différents qui peut être temporaire ou prononcée pour la durée d'application de la présente convention (jusqu'à la date de renouvellement de la convention) ; cette mesure ne pouvant être prononcée qu'en cas de non-respect du tact et de la mesure, après décision du conseil de l'ordre ;
+- suspension du droit permanent à dépassement, du droit de pratiquer des honoraires différents qui peut être temporaire ou prononcée pour la durée d'application de la présente convention (jusqu'à la date de renouvellement de la convention) ;
 
 - suspension du droit à pratiquer des dépassements autorisés plafonnés (DA) tels que définis à l'article 34.1, cette mesure ne pouvant être prononcée qu'en cas de non-respect des limites de dépassements fixées par la présente convention ;
 
@@ -1418,7 +1490,11 @@ La mise hors champ de la convention de trois mois ou plus entraîne la suppressi
 
 En cas de sursis, la sanction de mise hors convention peut être rendue exécutoire pendant une période de deux ans à compter de sa notification, dès lors que de nouveaux manquements réalisés postérieurement à la notification de la sanction devenue définitive ont été relevés à l'encontre du médecin par la CPL. Elle peut, dans ce cadre et le cas échéant, se cumuler, avec la sanction prononcée à l'occasion de l'examen de ces nouveaux manquements.
 
-Le sursis ne s'applique pas à la suspension de la participation des caisses à la prise en charge des avantages sociaux inhérente à la procédure de mise hors convention.
+Le sursis ne s'applique pas dans les cas ci-après :
+
+- la suspension de la participation des caisses à la prise en charge des avantages sociaux inhérente à la procédure de mise hors convention ;
+
+- la suspension du droit permanent à dépassement ou du droit à pratiquer des honoraires différents.
 
 Article 77
 
@@ -1444,6 +1520,8 @@ Le médecin a la possibilité de présenter un recours consultatif auprès de la
 
 - suspension de la prise en charge des cotisations sociales d'une durée supérieure à six mois.
 
+- suspension du droit permanent à dépassement et du droit à pratiquer des honoraires différents ou, quelle que soit la durée, pour toute sanction applicable aux cas de pratiques tarifaires excessives.
+
 Ces recours suspendent la décision des caisses.
 
 Dans le cas où la CPR ou la CPN sont saisies, les voies de recours de droit commun restent ouvertes dès lors que la procédure conventionnelle est épuisée.
@@ -1460,7 +1538,7 @@ Lorsque le conseil de l'ordre des médecins ou une juridiction a prononcé, à l
 
 - une peine effective d'emprisonnement ;
 
-- une mesure de liquidation judiciaire.
+- une mesure de liquidation judiciaire ;
 
 Le professionnel se trouve placé de fait et simultanément hors de la convention médicale, à partir de la date d'application de la sanction ordinale ou judiciaire ou de la mesure de liquidation judiciaire, et pour la même durée.
 
@@ -1496,14 +1574,6 @@ des syndicats médicaux français,
 
 Dr M. Chassang
 
-Au titre des spécialistes :
-
-Le président de la Confédération
-
-des syndicats médicaux français,
-
-Dr M. Chassang
-
 Le président
 
 de la Fédération française
@@ -1511,6 +1581,14 @@ de la Fédération française
 des médecins généralistes,
 
 Dr C. Leicher
+
+Au titre des spécialistes :
+
+Le président de la Confédération
+
+des syndicats médicaux français,
+
+Dr M. Chassang
 
 Le président
 

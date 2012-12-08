@@ -230,6 +230,60 @@ Rémunération spécifique annuelle Médecin traitant pour les patients en ALD (
 
 |
 
+Forfait médecin traitant (FMT) du médecin traitant pour les patients hors ALD au 1er juillet 2013 |
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
+Rémunération forfaitaire (MPA) pour les patients âgés de plus de 85 ans au 1er juillet 2013 |
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
+Rémunération forfaitaire (MPA) pour les patients âgés de plus de 80 ans au 1er juillet 2014 |
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
 Forfait de surveillance thermal : STH (prévu au titre XV, chapitre 4, article 2, de la NGAP)
 
 |
@@ -1192,6 +1246,60 @@ Rémunération spécifique annuelle Médecin traitant pour les patients en ALD :
 
 |
 
+Forfait médecin traitant (FMT) du médecin traitant pour les patients hors ALD au 1er juillet 2013 |
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
+Rémunération forfaitaire (MPA) pour les patients âgés de plus de 85 ans au 1er juillet 2013 |
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
+Rémunération forfaitaire (MPA) pour les patients âgés de plus de 80 ans au 1er juillet 2014 |
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
+5,00
+
+|
+
 Majorations de coordination dans le cadre du parcours de soins coordonnés
 
 |
@@ -1854,7 +1962,9 @@ Pour les appareils autorisés à fonctionner et pour lesquels aucun tarif de for
 
 Tarifs des forfaits techniques des scanners
 
-TYPE D'APPAREILS |
+TYPE D'APPAREILS
+
+|
 
 FORFAIT PLEIN
 
@@ -1932,53 +2042,335 @@ Non amortis, toutes classes
 
 (1) Scanographie : seuil 1 = 11 000 forfaits ; seuil 2 = 13 000 forfaits.
 
+Les tarifs suivants sont applicables à compter du 1er juillet 2015 :
+
+Tarifs des forfaits techniques des scanners
+
+TYPE D'APPAREILS
+
+|
+
+FORFAIT PLEIN
+
+|
+
+FORFAIT RÉDUIT SELON LES TRANCHES D'ACTIVITÉ
+
+|
+
+Activité = activité
+
+de référence
+
+|
+
+Activité > activité
+
+de référence et = seuil 1
+
+|
+
+Activité > seuil 1
+
+et = seuil 2
+
+|
+
+Activité > seuil 2
+
+|
+
+Amortis (1), toutes classes
+
+|
+
+70,38 €
+
+|
+
+58,72 €
+
+|
+
+41,88 €
+
+|
+
+29,63 €
+
+|
+
+Non amortis, toutes classes
+
+|
+
+99,51 €
+
+|
+
+58,72 €
+
+|
+
+41,88 €
+
+|
+
+29,63 €
+
+|
+
+(1) Sont considérés comme amortis les appareils installés depuis plus de sept ans révolus au 1er janvier de l'année considérée.
+
+|
+
 3.2. Imagerie par résonance magnétique
 
-Tarifs des forfaits techniques des IRM (2)
+Tarifs des forfaits techniques des IRM
 
-CLASSE D'APPAREILS, SELON LA PUISSANCE
+PUISSANCE DE L'APPAREIL
 
-de l'aimant (en tesla) |
+(en teslas)
 
-< 0,5 T |
+|
 
-0,5 T |
+< 0,5 T
 
-> 0,5 T et < 1,5 T |
+|
 
-1,5 T (2) |
+0,5 T
 
-1,5 T dédié
+|
 
-aux membres
+> 0,5 T et < 1,5 T
 
-(3) |
+|
 
-1,5 T spécialisé ostéo-articulaire (3) |
+1,5 T (2)
 
-> 1,5 T |
+|
 
-Activité de référence (nombre de forfaits) |
+Activités de référence
 
-3 500 |
+|
 
-4 000 |
+3 500
 
-4 500 |
+|
 
-4 000 |
+4 000
 
-4 500 |
+|
 
-4 500 |
+4 000
 
-4 500 |
+|
 
-AMORTIS (1), forfaits pleins
+4 500
 
-Paris |
+|
 
-154,26 € |
+Amortis (1), forfaits pleins :
+
+|
+
+|
+
+Paris
+
+|
+
+171,40 €
+
+|
+
+Région parisienne (hors Paris)
+
+|
+
+164,22 €
+
+|
+
+Province
+
+|
+
+154,18 €
+
+|
+
+Non amortis, forfaits pleins
+
+|
+
+|
+
+Paris
+
+|
+
+198,64 €
+
+|
+
+194,34 €
+
+|
+
+218,72 €
+
+|
+
+230,20 €
+
+|
+
+Région parisienne (hors PARIS)
+
+|
+
+192,90 €
+
+|
+
+187,17 €
+
+|
+
+211,55 €
+
+|
+
+223,03 €
+
+|
+
+Province
+
+|
+
+182,86 €
+
+|
+
+179,28 €
+
+|
+
+204,38 €
+
+|
+
+213,71 €
+
+|
+
+Forfait réduit selon les tranches toutes régions, tous appareils (puissance et millésime) :
+
+|
+
+|
+
+Activité > activité de référence et ≤ Seuil 1
+
+|
+
+80,61 €
+
+|
+
+Activité > Seuil 1 et ≤ Seuil 2
+
+|
+
+67,18 €
+
+|
+
+Activité > Seuil 2 |
+
+41,99 €
+
+|
+
+(1) Sont considérés comme amortis, les appareils installés depuis plus de sept ans révolus au 1er janvier de l'année considérée.
+
+(2) Les appareils dont la puissance est supérieure à 1,5 T se voient provisoirement appliquer les tarifs et activités de référence de la classe 1,5T .
+
+|
+
+Tarifs des forfaits techniques des IRM au 1er juillet 2013 (2)
+
+CLASSE D'APPAREILS selon la PUISSANCE de l'aimant ( en tesla)
+
+|
+
+< 0,5 T
+
+|
+
+0,5 T
+
+|
+
+>0,5 T et < 1,5 T
+
+|
+
+1,5 T (2)
+
+|
+
+1,5 T dédié aux membres (3)
+
+|
+
+1,5 T spécialisé
+
+ostéo-articulaire
+
+(3)
+
+|
+
+> 1,5 T
+
+|
+
+Activité de référence (nombre de forfaits)
+
+|
+
+3 500
+
+|
+
+4 000
+
+|
+
+4 000
+
+|
+
+4 500
+
+|
+
+4 500
+
+|
+
+4 500
+
+|
+
+4 500
+
+|
+
+AMORTIS, forfaits pleins (1)
 
 |
 
@@ -1986,99 +2378,75 @@ Paris |
 
 |
 
-72,64 € |
-
-85,68 € |
-
-154,26 € |
-
-Région parisienne hors Paris |
-
-147,80 € |
-
 |
 
 |
 
-|
-
-72,17 € |
-
-84,64 € |
-
-147,80 € |
-
-Province |
-
-138,76 € |
+Paris
 
 |
 
-|
+124,62 €
 
 |
 
-72,01 € |
+72,64 €
 
-84,28 € |
+|
 
-138,76 € |
+85,68 €
+
+|
+
+154,26 €
+
+|
+
+Région parisienne hors Paris
+
+|
+
+120,94 €
+
+|
+
+72,17 €
+
+|
+
+84,64 €
+
+|
+
+147,80 €
+
+|
+
+Province
+
+|
+
+119,68 €
+
+|
+
+72,01 €
+
+|
+
+84,28 €
+
+|
+
+138,76 € ,
+
+|
 
 NON AMORTIS, forfaits pleins
 
-Paris |
+|
 
-178,78 € |
-
-174,91 € |
-
-207,78 € |
-
-207,18 € |
-
-108,00 € |
-
-125,00 € |
-
-218,69 € |
-
-Région parisienne hors Paris |
-
-173,61 € |
-
-168,45 € |
-
-200,97 € |
-
-200,73 € |
-
-107,54 € |
-
-123,96 € |
-
-211,88 € |
-
-Province |
-
-165,47 € |
-
-161,35 € |
-
-194,16 € |
-
-192,34 € |
-
-107,37 € |
-
-123,60 € |
-
-203,02 € |
-
-FORFAIT RÉDUIT selon les tranches d'activités
-
-Activité > Activité de référence et ≤ seuil 1 |
-
-74,16 € |
+|
 
 |
 
@@ -2086,15 +2454,103 @@ Activité > Activité de référence et ≤ seuil 1 |
 
 |
 
-46,67 € |
+Paris
 
-48,88 € |
+|
 
-74,16 € |
+125,15 €
 
-Activité > seuil 1 et ≤ seuil 2 |
+|
 
-61,81 € |
+122,44 €
+
+|
+
+207,78 €
+
+|
+
+207,18 €
+
+|
+
+108,00 €
+
+|
+
+125.00 €
+
+|
+
+218,69 €
+
+|
+
+Région parisienne hors Paris
+
+|
+
+121,53 €
+
+|
+
+117,92 €
+
+|
+
+200,97 €
+
+|
+
+200,73 €
+
+|
+
+107,54 €
+
+|
+
+123.96 €
+
+|
+
+211,88 €
+
+|
+
+Province
+
+|
+
+115,83 €
+
+|
+
+112,95 €
+
+|
+
+194,16 €
+
+|
+
+192,34 €
+
+|
+
+107,37 €
+
+|
+
+123,60 €
+
+|
+
+203,02 €
+
+|
+
+FORFAIT REDUIT selon les tranches d'activité
 
 |
 
@@ -2102,15 +2558,147 @@ Activité > seuil 1 et ≤ seuil 2 |
 
 |
 
-38,73 € |
+|
 
-40,74 € |
+|
 
-61,81 € |
+Activité > Activité Référence et = seuil 1
 
-Activité > seuil 2 |
+|
 
-38,63 € |
+74,16 €
+
+|
+
+46,67 €
+
+|
+
+48,88 €
+
+|
+
+74,16 €
+
+|
+
+Activité > seuil 1 et = seuil 2
+
+|
+
+52,54 €
+
+|
+
+38,73 €
+
+|
+
+40,74 €
+
+|
+
+61,81 €
+
+|
+
+Activité > seuil 2
+
+|
+
+26,11 €
+
+|
+
+24,20 €
+
+|
+
+25,46 €
+
+|
+
+38,63 €
+
+|
+
+(1) Sont considérés comme amortis, les appareils installés depuis plus de sept ans révolus au 1 er janvier de l'année considérée.
+
+(2) Hors appareils IRM 1,5 T dédié aux examens des membres et appareils IRM 1,5 T spécialisé aux examens ostéo-articulaire.
+
+(3) Appareils IRM adossés à un appareil 1.5 T ou 1,5 T déjà installé, sur le même site géographique ou en "adossement fonctionnel" selon les dispositions de l'instruction CNAMTS/DGOS/R3 n° 2012-248 du 15 juin 2012 relative à la priorité de gestion du risque sur l'imagerie médicale en 2010-2012.
+
+|
+
+Tarifs des forfaits techniques des IRM au 1er juillet 2014 (2)
+
+CLASSE D'APPAREILS selon la PUISSANCE de l'aimant (en tesla)
+
+|
+
+< 0,5 T
+
+|
+
+0,5 T
+
+|
+
+> 0,5 T et < 1,5 T
+
+|
+
+1,5 T (2)
+
+|
+
+1,5 T dédié aux membres (3)
+
+|
+
+1,5 T spécialisé
+
+ostéo-articulaire (3)
+
+|
+
+> 1,5 T
+
+|
+
+Activité de référence (nombre de forfaits)
+
+|
+
+3 500
+
+|
+
+4 000
+
+|
+
+4 000
+
+|
+
+4 500
+
+|
+
+4 500
+
+|
+
+4 500
+
+|
+
+4 500
+
+|
+
+AMORTIS, forfaits pleins (1)
 
 |
 
@@ -2118,21 +2706,585 @@ Activité > seuil 2 |
 
 |
 
-24,20 € |
+|
 
-25,46 € |
+|
 
-38,63 € |
+Paris
+
+|
+
+124,62 €
+
+|
+
+72,64 €
+
+|
+
+85,68 €
+
+|
+
+154,26 €
+
+|
+
+Région parisienne hors Paris
+
+|
+
+120,94 €
+
+|
+
+72,17 €
+
+|
+
+84,64 €
+
+|
+
+147,80 €
+
+|
+
+Province
+
+|
+
+119,68 €
+
+|
+
+72,01 €
+
+|
+
+84,28 €
+
+|
+
+138,76 €
+
+|
+
+NON AMORTIS, forfaits pleins
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Paris
+
+|
+
+125,15 €
+
+|
+
+122,44 €
+
+|
+
+207,78 €
+
+|
+
+196,82 €
+
+|
+
+108,00 €
+
+|
+
+125,00 €
+
+|
+
+218,69 €
+
+|
+
+Région parisienne hors Paris
+
+|
+
+121,53 €
+
+|
+
+117,92 €
+
+|
+
+200,97 €
+
+|
+
+190,69 €
+
+|
+
+107,54 €
+
+|
+
+123,96 €
+
+|
+
+211,88 €
+
+|
+
+Province
+
+|
+
+115,83 €
+
+|
+
+112,95 €
+
+|
+
+194,16 €
+
+|
+
+182,72 €
+
+|
+
+107,37 €
+
+|
+
+123,60 €
+
+|
+
+203,02 €
+
+|
+
+FORFAIT REDUIT selon les tranches d'activité
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Activité > Activité Référence et = seuil 1
+
+|
+
+74,16 €
+
+|
+
+46,67 €
+
+|
+
+48,88 €
+
+|
+
+74,16 €
+
+|
+
+Activité > seuil 1 et = seuil 2
+
+|
+
+52,54 €
+
+|
+
+38,73 €
+
+|
+
+40,74 €
+
+|
+
+61,81 €
+
+|
+
+Activité > seuil 2
+
+|
+
+26,11 €
+
+|
+
+24,20 €
+
+|
+
+25,46 €
+
+|
+
+38,63 €
+
+|
 
 (1) Sont considérés comme amortis, les appareils installés depuis plus de sept ans révolus au 1er janvier de l'année considérée.
 
 (2) Hors appareils IRM 1,5 T dédié aux examens des membres et appareils IRM 1,5 T spécialisé aux examens ostéo-articulaire.
 
-(3) Appareils IRM adossés à un appareil 1,5 T ou > 1,5 T déjà installé sur le même site géographique. |
+(3) Appareils IRM adossés à un appareil 1,5 T ou 1,5 T déjà installé, sur le même site géographique ou en "adossement fonctionnel" selon les dispositions de l'instruction CNAMTS/DGOS/R3 n° 2012-248 du 15 juin 2012 relative à la priorité de gestion du risque sur l'imagerie médicale en 2010-2012.
 
-(2) IRM : seuil 1 = 8 000 forfaits techniques ; seuil 2 = 11 000 forfaits techniques.
+|
 
-La mise en œuvre de la classification et des tarifs pour les classes d'appareils 1,5 T dédiés aux membres, 1,5 T spécialisé ostéoarticulaire est conditionnée par la publication préalable des modifications de la liste des actes et prestations mentionnée à l'article L. 162-1-7 du code de la sécurité sociale
+Tarifs des forfaits techniques des IRM au 1er juillet 2015 (2)
+
+CLASSE D'APPAREILS selon la PUISSANCE de l'aimant (en tesla)
+
+|
+
+< 0,5 T
+
+|
+
+0,5 T
+
+|
+
+> 0,5 T et < 1,5 T
+
+|
+
+1,5 T (2)
+
+|
+
+1,5 T dédié aux membres (3)
+
+|
+
+1,5 T spécialisé
+
+ostéo-articulaire (3)
+
+|
+
+> 1,5 T
+
+|
+
+Activité de référence (nombre de forfaits)
+
+|
+
+3 500
+
+|
+
+4 000
+
+|
+
+4 000
+
+|
+
+4 500
+
+|
+
+4 500
+
+|
+
+4 500
+
+|
+
+4 500
+
+|
+
+AMORTIS, forfaits pleins (1)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Paris
+
+|
+
+124,62 €
+
+|
+
+72,64 €
+
+|
+
+85,68 €
+
+|
+
+154,26 €
+
+|
+
+Région parisienne hors Paris
+
+|
+
+120,94 €
+
+|
+
+72,17 €
+
+|
+
+84,64 €
+
+|
+
+147,80 €
+
+|
+
+Province
+
+|
+
+119,68 €
+
+|
+
+72,01 €
+
+|
+
+84,28 €
+
+|
+
+138,76 €
+
+|
+
+NON AMORTIS, forfaits pleins
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Paris
+
+|
+
+125,15 €
+
+|
+
+122,44 €
+
+|
+
+207,78 €
+
+|
+
+186,46 €
+
+|
+
+108,00 €
+
+|
+
+125,00 €
+
+|
+
+218,69 €
+
+|
+
+Région parisienne hors Paris
+
+|
+
+121,53 €
+
+|
+
+117,92 €
+
+|
+
+200,97 €
+
+|
+
+180,66 €
+
+|
+
+107,54 €
+
+|
+
+123,96 €
+
+|
+
+211,88 €
+
+|
+
+Province
+
+|
+
+115,83 €
+
+|
+
+112,95 €
+
+|
+
+194,16 €
+
+|
+
+173,11 €
+
+|
+
+107,37 €
+
+|
+
+123,60 €
+
+|
+
+203,02 €
+
+|
+
+FORFAIT REDUIT selon les tranches d'activité
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Activité > Activité Référence et = seuil 1
+
+|
+
+74,16 €
+
+|
+
+46,67 €
+
+|
+
+48,88 €
+
+|
+
+74,16 €
+
+|
+
+Activité > seuil 1 et = seuil 2
+
+|
+
+52,54 €
+
+|
+
+38,73 €
+
+|
+
+40,74 €
+
+|
+
+61,81 €
+
+|
+
+Activité > seuil 2
+
+|
+
+26,11 €
+
+|
+
+24,20 €
+
+|
+
+25,46 €
+
+|
+
+38,63 €
+
+|
+
+(1) Sont considérés comme amortis, les appareils installés depuis plus de sept ans révolus au 1er janvier de l'année considérée.
+
+(2) Hors appareils IRM 1,5 T dédié aux examens des membres et appareils IRM 1,5 T spécialisé aux examens ostéo-articulaire.
+
+(3) Appareils IRM adossés à un appareil 1,5 T ou 1,5 T déjà installé, sur le même site géographique ou en "adossement fonctionnel" selon les dispositions de l'instruction CNAMTS/DGOS/R3 n° 2012-248 du 15 juin 2012 relative à la priorité de gestion du risque sur l'imagerie médicale en 2010-2012.
+
+|
 
 3.3. Tomographes à émission de positons (TEP)
 
