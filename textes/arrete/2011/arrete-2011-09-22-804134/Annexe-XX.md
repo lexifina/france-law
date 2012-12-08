@@ -1,57 +1,59 @@
 # Article Annexe XX
 
-SECTEUR OPTIONNEL - FORMULAIRE D'ADHÉSION PRÉVISIONNEL
+PARTICIPATION AUX COTISATIONS SOCIALES DES MÉDECINS ADHÉRANT AU CONTRAT D'ACCÈS AUX SOINS
 
-Adhésion au secteur optionnel
+Article 1er
 
-Ce document est à remplir par le médecin qui l'envoie, en double exemplaire, à la caisse d'assurance maladie du lieu de son exercice principal qui lui en retourne un exemplaire.
+Taux de participation des caisses aux cotisations sociales pour les médecins affiliés au régime des PAM
 
-Identification du médecin
+|
 
-"Je, soussigné(e),
+TAUX DE PARTICIPATION |
 
-Nom :
+Assurance maladie, maternité, décès |
 
-Prénom :
+9,7 % |
 
-N° d'identification :
+Allocations familiales |
 
-Secteur conventionnel :
+5 % dans la limite du plafond de sécurité sociale puis 2,9 % |
 
-Secteur à honoraires différents
+Avantages complémentaires vieillesse |
 
-Secteur droit à dépassement permanent (DP)
+Pour la cotisation annuelle obligatoire : 2/3 de la cotisation forfaitaire du médecin
 
-Médecins titulaires des titres visés au point 35.1 de la convention médicale permettant d'accéder au secteur à honoraires différents
+Pour la cotisation d'ajustement : 2/3 de la cotisation fixée par décret dans la limite de 5 fois le plafond annuel de la sécurité sociale |
 
-Médecins titulaires des titres visés au point 35.1 de la convention médicale permettant d'accéder au secteur à honoraires différents et qui s'installent pour la première fois en exercice libéral
+Le montant final de la participation versée au médecin est calculé proportionnellement à la part d'activité réalisée à tarif opposable dans le total des honoraires et proportionnellement à la part de la durée de souscription du contrat d'accès aux soins dans l'année civile.
 
-Spécialité médicale :
+Article 2
 
-Spécialités de chirurgie
+Taux de participation des caisses aux cotisations sociales pour les médecins affiliés au régime du RSI
 
-Spécialités d'anesthésie-réanimation
+pour les médecins affiliés au régime du RSI
 
-Spécialités de gynécologie obstétrique
+|
 
-Adresse du lieu d'exercice principal :
+TAUX DE PARTICIPATION |
 
-déclare mon souhait d'adhérer au secteur optionnel et m'engage à en respecter les dispositions, prévues par la convention nationale des médecins libéraux de mois 2011."
+Assurance maladie, maternité, décès |
 
-Cachet du médecinFait à
+0,6 % dans la limite du plafond de sécurité sociale et de 5,9 % dans la limite de 5 fois le plafond de sécurité sociale |
 
-Le
+Allocations familiales |
 
-Signature
+5 % dans la limite du plafond de sécurité sociale puis 2,9 % |
 
-La mise en œuvre du secteur optionnel et l'enregistrement de votre adhésion ne seront effectifs que s'il est constaté au niveau national par l'UNCAM et les organisations syndicales représentatives signataires de la convention nationale, à l'issue d'une période de six mois à compter de l'entrée en vigueur de l'avenant à la convention nationale relatif au secteur optionnel, que les praticiens issus du secteur à honoraires différents ou remplissant les conditions pour s'installer dans ce secteur sont majoritaires au sein des médecins ayant exprimé leur souhait d'adhérer au secteur optionnel.
+Avantages complémentaires vieillesse |
 
-Accusé de réception de la caisse
+Pour la cotisation annuelle obligatoire : 2/3 de la cotisation forfaitaire du médecin
 
-Adhésion enregistrée le , à effet du
+Pour la cotisation d'ajustement : 2/3 de la cotisation fixée par décret dans la limite de 5 fois le plafond annuel de la sécurité sociale |
 
-Adhésion non enregistrée
+Le montant final de la participation versée au médecin est calculé proportionnellement à la part d'activité réalisée à tarif opposable dans le total des honoraires et proportionnellement à la part de la durée de souscription du contrat d'accès aux soins dans l'année civile.
 
-Motif :
+Le versement de cette participation est subordonné au respect par le praticien ayant adhéré au contrat d'accès aux soins des obligations découlant de cette adhésion.
 
-Cachet de la caisse Date
+La CPAM, après avoir vérifié que le professionnel est adhérent au contrat d'accès aux soins et a respecté ses engagements, verse la participation pour le compte de tous les régimes.
+
+La CNAMTS effectue une répartition interrégimes du montant annuel de la participation des caisses selon la part de chacun des régimes d'assurance maladie dans les dépenses (ONDAM).

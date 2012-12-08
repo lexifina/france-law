@@ -1,81 +1,23 @@
 # Article Annexe XIX
 
-PARTICIPATION AUX COTISATIONS SOCIALES DES MÉDECINS ADHÉRANT À L'OPTION DE COORDINATION ET AU SECTEUR OPTIONNEL (DANS L'HYPOTHÈSE OÙ CE DERNIER EST MIS EN PLACE)
+CONTRAT D'ACCÈS AUX SOINS
 
 Article 1er
 
-Taux de participation des caisses aux cotisations sociales
+Modalités de calcul du taux de dépassement et de la part d'activité à tarif opposable
 
-pour les médecins affiliés au régime des PAM
+Quelle que soit la date d'adhésion du médecin, l'année de référence pour le calcul du taux de dépassement et de la part d'activité à tarif opposable est l'année 2012. Si le médecin n'a pas d'activité au titre de 2012, il est fait application des taux constatés l'année précédant l'entrée dans le contrat d'accès aux soins ou, à défaut, des dispositions relatives aux médecins nouvellement installés depuis moins d'un an définies à l'article 38.1 de la convention.
 
-|
-
-TAUX DE PARTICIPATION
-
-|
-
-Assurance maladie, maternité, décès
-
-|
-
-9,7 %
-
-|
-
-Allocations familiales
-
-|
-
-5 % dans la limite du plafond de sécurité sociale puis 2,9 %
-
-|
-
-Avantages complémentaires vieillesse
-
-|
-
-Activité facturée en tarifs opposables sur le total des honoraires, multipliée par le montant de la participation des caisses pour les médecins exerçant en secteur à honoraires opposables.
-
-|
+Le taux de dépassement constaté sur l'année 2012 est défini comme le rapport du total des dépassements annuels aux honoraires remboursables annuels. L'ensemble des rémunérations forfaitaires sont exclues des honoraires remboursables (rémunération médecin traitant, rémunération sur objectif de santé publique, rémunération forfaitaire pour les astreintes et la régulation, etc.).
 
 Article 2
 
-Taux de participation des caisses aux cotisations sociales
+Taux de dépassement recalculé
 
-pour les médecins affiliés au régime du RSI
+Ce taux de dépassement constaté sur l'année 2012 est recalculé sur la base des tarifs de remboursement applicables aux médecins exerçant en secteur à honoraires opposables. En adhérant au contrat d'accès de soins, le médecin s'engage à respecter ce taux recalculé. Pendant la durée du contrat, ce taux est recalculé en fonction des évolutions des tarifs de remboursement. Compte tenu de l'objectif d'amélioration de l'accès aux soins, les hausses tarifaires applicables au tarif opposable bénéficient intégralement au patient par l'amélioration de sa base de remboursement, le patient bénéficiant alors d'une diminution équivalente du dépassement. Dans ce cas, un avenant au contrat d'accès aux soins est soumis au médecin adhérent, dans lequel figure le taux de dépassement recalculé avec les nouveaux tarifs de remboursement.
 
-|
+Article 3
 
-TAUX DE PARTICIPATION
+Suivi des engagements du contrat d'accès aux soins
 
-|
-
-Assurance maladie, maternité, décès
-
-|
-
-0,6 % dans la limite du plafond de sécurité sociale et de 5,9 % dans la limite de cinq fois le plafond de sécurité sociale
-
-|
-
-Allocations familiales
-
-|
-
-5 % dans la limite du plafond de sécurité sociale puis 2,9 %
-
-|
-
-Avantages complémentaires vieillesse
-
-|
-
-Activité facturée en tarifs opposables sur le total des honoraires, multipliée par le montant de la participation des caisses pour les médecins exerçant en secteur à honoraires opposables.
-
-|
-
-Conformément à l'article L. 162-14-1 (5°) du code de la sécurité sociale, le versement de cette participation est subordonné au respect par le praticien ayant adhéré à l'option de coordination ou au secteur optionnel des obligations découlant de cette adhésion.
-
-La CPAM, sur appel de l'organisme de recouvrement et après avoir vérifié que le professionnel est adhérent à l'option de coordination ou au secteur optionnel et a respecté ses engagements, verse la participation pour le compte de tous les régimes.
-
-La CNAMTS effectue une répartition interrégimes du montant annuel de la participation des caisses selon la part de chacun des régimes d'assurance maladie dans les dépenses (ONDAM).
+En adhérant au contrat d'accès aux soins, le médecin s'engage à maintenir sa pratique tarifaire et à respecter le taux de dépassement moyen recalculé dans les conditions définies à l'article 2 de la présente annexe. Le suivi du respect de ces engagements est effectué par année civile (en date de remboursement des soins) quelle que soit la date d'adhésion au contrat d'accès aux soins.

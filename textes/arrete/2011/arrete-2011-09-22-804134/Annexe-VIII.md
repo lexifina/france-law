@@ -1,6 +1,6 @@
 # Article Annexe VIII
 
-FORMULAIRE D'ADHÉSION À L'OPTION SANTÉ SOLIDARITÉ TERRITORIALE
+FORMULAIRE D'ADHÉSIONÀ L'OPTION SANTÉ SOLIDARITÉ TERRITORIALE
 
 Adhésion à l'option conventionnelle santé solidarité territoriale
 
@@ -20,7 +20,7 @@ Adresse du lieu d'exercice principal :
 
 Secteur conventionnel :
 
-Secteur 1 Secteur 2 option de coordination
+Secteur 1 secteur 2 adhérant au contrat d'accès aux soins
 
 Secteur 2 : je m'engage à pratiquer exclusivement les tarifs opposables pour mon activité au sein de la zone sous-dotée, déclare adhérer à l'option conventionnelle santé solidarité destinée à améliorer l'offre de soins dans les zones où les besoins en implantation de professionnels de santé ne sont pas satisfaits, définie à l'article [X] de la présente convention et m'engage à respecter les dispositions de la convention nationale des médecins libéraux, publiée au Journal officiel du XX/XX/2011."
 

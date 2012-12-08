@@ -36,7 +36,7 @@ Article 3
 
 Dispositions spécifiques aux médecins spécialistes en cas d'urgence
 
-En cas d'urgence médicalement justifiée, le médecin spécialiste conventionné en secteur à honoraires opposables ou ayant adhéré à l'option de coordination ou au secteur optionnel dans l'hypothèse où ce dernier est mis en œuvre, dans la mesure où il ne bénéficie pas de la majoration pour soins d'urgence (modificateur "M") réservée au généraliste et au pédiatre et de la majoration d'urgence ( "MU") réservée au médecin généraliste, prévues au livre 3 "dispositions diverses" articles III-2 et III-4 de la CCAM, peut facturer la majoration de coordination "MCS", applicable à la consultation ou à la visite dans les conditions précisées au présent article.
+En cas d'urgence médicalement justifiée, le médecin spécialiste conventionné en secteur à honoraires opposables ou ayant adhéré au contrat d'accès aux soins défini aux articles 36 et suivants de la convention dans la mesure où il ne bénéficie pas de la majoration pour soins d'urgence (modificateur "M") réservée au généraliste et au pédiatre et de la majoration d'urgence ( "MU") réservée au médecin généraliste, prévues au livre 3 "dispositions diverses" articles III-2 et III-4 de la CCAM, peut facturer la majoration de coordination "MCS", applicable à la consultation ou à la visite dans les conditions précisées au présent article.
 
 Le médecin spécialiste procède à un retour d'information auprès du médecin traitant.
 

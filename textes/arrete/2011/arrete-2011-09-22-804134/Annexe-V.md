@@ -20,7 +20,7 @@ Adresse du lieu d'exercice principal :
 
 Secteur conventionnel :
 
-Secteur 1 Secteur 2 option de coordination
+Secteur 1 secteur 2 adhérant au contrat d'accès aux soins
 
 Secteur 2 : je m'engage à pratiquer exclusivement les tarifs opposables pour mon activité au sein de la zone sous-dotée.
 
