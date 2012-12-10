@@ -2,9 +2,7 @@
 
 ORDONNATEURS SECONDAIRES POUR LES RECETTES ET LES DÉPENSES DES SERVICES DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE RELATIVES À L'ACTIVITÉ DES SERVICES RÉGIONAUX ET DÉPARTEMENTAUX DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE
 
-PRÉFET DE RÉGION
-
-compétent
+PRÉFET DE RÉGION compétent
 
 |
 
@@ -12,17 +10,11 @@ DÉLÉGATAIRE
 
 |
 
-RÉGIONS
-
-concernées
+RÉGIONS concernées
 
 |
 
-DIRECTIONS DÉPARTEMENTALES
-
-de la protection judiciaire
-
-de la jeunesse concernées
+DIRECTIONS DÉPARTEMENTALES de la protection judiciaire de la jeunesse concernées
 
 |
 
@@ -58,13 +50,11 @@ Finistère, Côtes-d'Armor, Morbihan, Ille-et-Vilaine, Manche, Calvados, Orne, M
 
 |
 
-Centre
+Bourgogne
 
 |
 
-Le directeur de la direction située à Orléans.
-
-|
+Le directeur de la direction située à Dijon |
 
 Bourgogne, Centre.
 
