@@ -586,7 +586,9 @@ Sous-directeur des élus locaux et de la fonction publique territoriale
 
 |
 
-En charge d'une sous-direction relevant de la direction générale de la police nationale ( direction des ressources et des compétences de la police nationale)
+En charge d'une sous-direction relevant de la direction générale de la police nationale
+
+( direction des ressources et des compétences de la police nationale)
 
 |
 
@@ -1340,6 +1342,14 @@ Préfet d'un département de métropole ou d'outre-mer autre que ceux précités
 
 |
 
+Préfet de police des Bouches-du-Rhône
+
+|
+
+1 |
+
+140 |
+
 Préfet secrétaire général de la préfecture de la région Ile-de-France
 
 |
@@ -1416,7 +1426,7 @@ Préfet délégué à la sécurité et à la défense
 
 |
 
-6
+5
 
 |
 
@@ -1435,6 +1445,14 @@ Préfet délégué pour l'égalité des chances
 120
 
 |
+
+Préfet délégué en charge du projet de l'agglomération Marseille-Provence
+
+|
+
+1 |
+
+120 |
 
 Préfet délégué auprès du préfet de la Guadeloupe pour les îles Saint-Barthélémy et de Saint-Martin
 
@@ -3164,7 +3182,9 @@ Des Yvelines
 
 |
 
-80 |
+80
+
+|
 
 Autres postes
 
@@ -3174,7 +3194,7 @@ Autres postes
 
 |
 
-De la Corse-du-Sude
+De la Corse-du-Sud
 
 |
 
@@ -3206,6 +3226,18 @@ Emplois spécifiques
 
 |
 
+Sous-préfet secrétaire général de la zone de défense et de sécurité Sud
+
+|
+
+1
+
+|
+
+100
+
+|
+
 Secrétaire général pour l'administration de la police de Versailles
 
 |
@@ -3218,13 +3250,27 @@ Secrétaire général pour l'administration de la police de Versailles
 
 |
 
-Directeur adjoint du cabinet du préfet de police |
+Directeur adjoint du cabinet du préfet de police
+
+|
 
 1
 
 |
 
 100
+
+|
+
+Sous-préfet directeur de cabinet du préfet de police des Bouches-du-Rhône
+
+|
+
+1
+
+|
+
+80
 
 |
 
