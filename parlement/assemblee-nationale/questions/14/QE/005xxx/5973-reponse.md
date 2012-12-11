@@ -1,0 +1,9 @@
+# Réponse à la question n° 5973
+
+- Question : [5973](5973.md) — Question n° 5973 — textes d'application; publication
+
+## Réponse
+
+*JO du 2012-12-11*
+
+La loi n° 2012-304 du 6 mars 2012, adoptée à l'unanimité des deux assemblées à chaque lecture résulte d'un important travail de concertation avec les représentants des détenteurs légaux d'armes (tireurs sportifs, chasseurs, armuriers, collectionneurs). Elle répond à l'exigence de simplification du droit en proposant notamment une nouvelle classification, conforme avec les obligations européennes en la matière. Pour l'essentiel de ses dispositions, cette loi est applicable 18 mois à compter de sa promulgation, soit au 7 septembre 2013. Seules sont entrées en vigueur immédiatement les dispositions qui prévoient, d'une part, le prononcé obligatoire de peines complémentaires d'interdiction d'acquisition et de détention d'armes, sauf décision contraire du juge, et, d'autre part, l'inscription de ces interdictions judiciaires au fichier national des interdits d'acquisition et de détention d'armes. La mise en oeuvre de la loi nécessite l'élaboration d'une nouvelle nomenclature des armes qui constituera le socle à partir duquel seront pris les textes réglementaires d'application. La modification d'une soixantaine de textes réglementaires est ainsi nécessaire. Les travaux d'élaboration de cette nomenclature sont engagés entre les services du ministère de l'intérieur et ceux des autres administrations concernées (défense, sports, douanes et SGDSN). Le projet de refonte du décret n° 95-589 du 6 mai 1995 fixant le régime des matériels de guerre, armes et munitions intègrera les principales mesures d'application de la loi du 6 mars 2012. Toutefois, l'article 5 de la loi du 6 mars 2012 qui établit le principe de la carte du collectionneur fera l'objet d'un décret spécifique. L'objectif de publication de ce décret en Conseil d'Etat est fixé pour le troisième trimestre 2013.
