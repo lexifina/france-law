@@ -1,0 +1,9 @@
+# Réponse à la question n° 6155
+
+- Question : [6155](6155.md) — Question n° 6155 — présignalisation; statistiques
+
+## Réponse
+
+*JO du 2012-12-11*
+
+Le Gouvernement a décidé en 2011, pour accompagner le retrait des panneaux de signalisation des radars fixes, d'installer de façon concomitante des radars pédagogiques affichant la vitesse des véhicules. Ces panneaux ont aussi pour but d'inciter les usagers en infraction à adapter leur vitesse sans les verbaliser. Les radars pédagogiques sont installés sensiblement plus en amont que les panneaux de présignalisation qu'ils remplacent, à une distance variant de quelques centaines de mètres à plusieurs kilomètres. Ils sont également implantés dans des zones de danger où il n'y a pas de radar fixe mais où des contrôles mobiles pourraient être effectués. En créant une incertitude sur le positionnement des radars fixes, les radars pédagogiques incitent ainsi les usagers à réguler leur vitesse sur toutes les zones de danger et à maintenir une vitesse inférieure à la vitesse limite autorisée tout au long de leur parcours. Au 1er septembre 2012, plus de 1400 radars pédagogiques ont été installés sur le programme 751 (58 % en remplacement des panneaux de présignalisation des radars fixes, 21 % en amont des radars nouvellement installés comprenant les radars vitesses moyennes et les radars discriminants, 21 % en zone de vigilance accrue non pourvue d'un radar fixe). 200 radars supplémentaires devraient être installés d'ici à la fin de l'année 2012. Par, ailleurs, dans le cadre des Plans Départementaux d'Action de Sécurité Routière (PDASR), les préfets ont la possibilité de subventionner l'installation par les collectivités locales de radars pédagogiques implantés dans des zones de danger où il n'y a pas de radar fixe. A ce titre, pour les départements qui ont souhaité utiliser ce moyen de financement, 167 radars ont été installés, une cinquantaine de radars supplémentaires est en cours d'acquisition.
