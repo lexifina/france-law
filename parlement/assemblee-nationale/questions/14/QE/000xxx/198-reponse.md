@@ -1,0 +1,9 @@
+# Réponse à la question n° 198
+
+- Question : [198](198.md) — Question n° 198 — système éducatif; perspectives
+
+## Réponse
+
+*JO du 2012-12-11*
+
+Selon la loi du 4 août 1994 relative à l'emploi de la langue française codifiée à l'article L.121-1 du code de l'éducation, la langue de l'enseignement, des examens et concours, ainsi que des thèses et mémoires dans les établissements publics et privés d'enseignement est le français. Il existe des exceptions justifiées à l'emploi de la langue française, liées aux nécessités induites par les enseignements de langues et cultures régionales ou étrangères, ou lorsque les enseignants sont des professeurs associés ou invités étrangers. Il ne s'agit donc souvent pas d'enseignements « imposés » mais de choix faits par les étudiants pour renforcer leur niveau en langue étrangère à travers l'acquisition de nouvelles connaissances dans une discipline. S'agissant des thèses de doctorat, un cas particulier concerne les diplômes en partenariat international. La langue dans laquelle est rédigée la thèse est définie par convention conclue entre les établissements français et étranger contractants. Lorsque la langue de rédaction employée n'est pas le français, la thèse est complétée par un résumé substantiel en langue française. Dans un monde globalisé et dans le contexte compétitif de l'espace européen de l'enseignement supérieur et de la recherche, les établissements d'enseignement supérieur sont invités à favoriser l'excellence et la mobilité internationale et à prendre en compte les avancées de la recherche dont une partie non négligeable des résultats fait l'objet d'une publication en langue anglaise. Enfin le ministère de l'enseignement supérieur et de la recherche participe à la défense et au rayonnement de la langue française à travers le monde notamment grâce aux travaux de la commission spécialisée de terminologie et de néologie de l'éducation et de l'enseignement supérieur.
