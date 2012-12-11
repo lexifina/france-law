@@ -1,0 +1,9 @@
+# Réponse à la question n° 206
+
+- Question : [206](206.md) — Question n° 206 — revitalisation économique; financement
+
+## Réponse
+
+*JO du 2012-12-11*
+
+L'Agence nationale de l'habitat (Anah) finance les opérations importantes de réhabilitation du parc de logements miniers appartenant auparavant à Charbonnages de France et détenus par la SOGINORPA, filiale de l'établissement public régional à caractère industriel et commercial EPINORPA. Le 13 août 2007, une nouvelle convention-cadre a été signée entre l'État, l'Anah et la SOGINORPA afin d'achever la rénovation des cités minières du Nord-Pas-de-Calais, pour une durée de 7 ans, et fixant l'objectif de 21 000 remises en état avant location. Cette convention prévoit la mobilisation de 147 millions d'euros, soit une moyenne annuelle de 21 millions d'euros, décidée par le conseil d'administration de l'Anah le 6 décembre 2007. En contrepartie des financements octroyés par l'Anah, l'organisme bailleur s'engage d'une part, à conventionner le logement rénové avec un montant de loyer plafonné, d'autre part, à réserver un pourcentage de logements au public ayant été reconnu prioritaire par la commission de médiation, défini dans la loi du 5 mars 2007 sur le droit opposable au logement (DALO). Entre 2007 et 2011, 10 125 logements du parc géré par la SOGINORPA ont été subventionnés et remis aux normes de décence avant relocation en Nord-Pas-de-Calais, via les enveloppes spécifiques dédiées à cette action. Pour un montant total de 92 770 750 d'euros, soit 63 % de l'enveloppe, 3 071 logements à loyers intermédiaires et 7 054 logements conventionnés sociaux ont pu être financés. Sous l'application de la convention 2007-2013, l'action de la rénovation des logements miniers se poursuit en 2012, pour le développement de l'offre de logements à loyer maîtrisé.
