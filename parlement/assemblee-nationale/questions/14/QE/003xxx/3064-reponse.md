@@ -1,0 +1,9 @@
+# Réponse à la question n° 3064
+
+- Question : [3064](3064.md) — Question n° 3064 — centres éducatifs fermés; bilan et perspectives
+
+## Réponse
+
+*JO du 2012-12-11*
+
+43 centres éducatifs fermés sont actuellement en fonctionnement, dont 2 dans les départements d'outre-mer (34 du secteur associatif, 9 du secteur public) pour une capacité totale à l'issue 2012 de plus de 500 places. Le dispositif « centre éducatif fermé » permet :- d'offrir aux magistrats des réponses éducatives permettant de ne pas recourir à l'incarcération ; - d'accueillir des mineurs placés en aménagement de peine. Le Président de la République a annoncé pendant la campagne présidentielle un programme de doublement du nombre des CEF. Afin de mettre en oeuvre cet engagement - que la garde des sceaux a réaffirmé - dans les meilleures conditions, il a été décidé d'une mission d'évaluation des CEF, confiée conjointement à l'inspection générale des affaires sociales et à l'inspection générale des services judiciaires. Dans l'immédiat, les projets qui étaient très avancés seront menés à leur terme. Quatre établissements de placement éducatifs sont en cours de transformation en CEF à Bures sur Yvette, Bruay la Bussière, Laon et Angoulème, pour des ouvertures prévues en 2012 et 2013 pour le dernier. Deux autres CEF vont être créés à Epinay sur Seine et à Cambrai. Les travaux sont en cours et les ouvertures doivent intervenir en 2013. Enfin, compte tenu des besoins identifiés à l'occasion de la réunion des ministres du 6 septembre 2012 sur la situation de l'agglomération de Marseille, un nouveau CEF sera créé dans la ville de Marseille. Le développement du programme des CEF et la diversification de l'hébergement et des réponses pénales sera organisé après la remise du rapport de l'inspection qui sera remis le 15 janvier 2013.
