@@ -40,13 +40,43 @@ Admission provisoire
 
 Admission définitive
 
-(1) Ne rien inscrire.
+Vous pouvez consulter le tableau dans le JO
 
-(2) Ecrire en majuscules en respectant les cases. Lorsqu'une dénomination a déjà été utilisée pour désigner la variété à un catalogue national ou lors de la délivrance d'un titre de protection, la dénomination proposée doit être identique, sauf lorsque des motifs linguistiques ou d'ordre public s'opposent à son utilisation en France.
+n° 248 du 25/10/2003 page 18216 à 18221
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+(1) Ne rien inscrire. (2) Ecrire en majuscules en respectant les cases. Lorsqu'une dénomination a déjà été utilisée pour désigner la variété à un catalogue national ou lors de la délivrance d'un titre de protection, la dénomination proposée doit être identique, sauf lorsque des motifs linguistiques ou d'ordre public s'opposent à son utilisation en France.
 
 B. - Fiche descriptive du matériel de base
 
 1. Dénomination proposée pour le clone
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
 
 2. Critères généraux d'identification
 
@@ -180,6 +210,10 @@ b) Décrire, en annexe, les résultats obtenus sur chaque site de test pour les 
 
 Si des barèmes ont été utilisés, les définir en annexe.
 
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
 TABLEAU 1
 
 Présentation des résultats obtenus sur chaque site de test
@@ -194,6 +228,10 @@ Le cas échéant, définir en annexe les barèmes utilisés.
 
 D. - Conseils d'utilisation proposés
 
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
 E. - Informations éventuelles sur d'autres tests
 
 1. Tout ou partie du matériel de base fait-il l'objet d'autres tests :
@@ -202,9 +240,17 @@ E. - Informations éventuelles sur d'autres tests
 
 Si oui, fournir les informations suivantes (utiliser un tableau du modèle ci-dessous) :
 
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
 - sous la responsabilité d'un autre expérimentateur : non oui
 
 Si oui, fournir le cas échéant les informations suivantes (utiliser un tableau du modèle ci-dessous) :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
 
 2. Tout ou partie du matériel de base fait-il l'objet :
 
@@ -212,6 +258,22 @@ Si oui, fournir le cas échéant les informations suivantes (utiliser un tableau
 
 Si oui, fournir les informations suivantes (utiliser un tableau du modèle ci-dessous) :
 
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
 - d'une admission dans la même ou une autre catégorie : non oui
 
 Si oui, fournir le cas échéant les informations suivantes (utiliser un tableau du modèle ci-dessous) :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 248 du 25/10/2003 page 18216 à 18221
+
+NOTA :
+
+Arrêté du 16 novembre 2012 : Nota. ― L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt à l'adresse :
+
+http://agriculture.gouv.fr/Presentation-de-la-reglementation
+
+Une copie de l'annexe peut également être demandée par courrier adressé à la direction générale des politiques agricole, agroalimentaire et des territoires, service de la forêt, de la ruralité et du cheval, sous-direction de la forêt et du bois, bureau des investissements forestiers, 19, avenue du Maine, 75732 Paris Cedex 15.
