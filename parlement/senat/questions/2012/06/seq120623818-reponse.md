@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120623818
+
+- Question : [SEQ120623818](seq120623818.md) — Suspension des concours de l'agrégation et du CAPES de chinois
+
+## Réponse
+
+*Enseignement supérieur et recherche, JO du 2012-12-13, page 2909*
+
+Concernant la session 2012, le calibrage des concours de l'enseignement public s'est effectué dans le respect des emplois votés en loi de finances, dans un contexte contraint de suppressions de postes. Les choix effectués résultaient néanmoins de l'analyse conjointe de plusieurs éléments, notamment l'étude du nombre de départs en retraite et les besoins exprimés par les académies. Il s'avère que les enseignants de chinois sont une population jeune, dont la moyenne d'âge s'établit autour de 43 ans, et que la discipline fait appel à de nombreux contractuels. On constate par ailleurs une réelle difficulté à répartir de nouvelles ressources dans les académies (professeurs stagiaires et néo-titulaires). C'est pourquoi le ministère a souhaité privilégier le CAPES interne de chinois pour la session 2012, qu'il a mieux doté avec 12 postes proposés, contre 4 l'année précédente. Pour la session 2013, la réouverture du CAPES externe, avec 15 postes proposés, s'inscrit dans la tendance globale d'augmentation du volume des recrutements dans le second degré, conformément à la volonté du Gouvernement qui souhaite faire de la jeunesse et de l'éducation nationale la grande priorité du quinquennat. Par ailleurs, la mise en œuvre de la loi n° 2012-347 du 12 mars 2012 relative notamment à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, permettra un recrutement par la voie de concours réservés, offrant ainsi la possibilité d'une titularisation à celles et ceux qui enseignaient déjà le chinois aux élèves dans le cadre de contrats.
