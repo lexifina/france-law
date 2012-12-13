@@ -448,6 +448,16 @@ BPE130
 
 |
 
+BPE800-Corse |
+
+BPE800
+
+|
+
+|
+
+|
+
 BPE901-Nord-Est et montagnes.
 
 |
@@ -1542,7 +1552,7 @@ PSY202
 
 |
 
-PSY203-Basses Vosges gréseuses.
+PSY203-Hanau .
 
 |
 
@@ -2441,3 +2451,9 @@ TPL901
 NOTA :
 
 A l'article 1er de l'arrêté du 16 novembre 2010 modifiant l'arrêté du 24 octobre 2003, au lieu de "Pinus nigra Arn. ssp nigricans Host" lire "Pinus nigra Arn. ssp clusiana Clem" : la région de provenance "PCL-901, région méditerranéenne" est supprimée".
+
+Arrêté du 16 novembe 2012 : Nota. ― L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt :
+
+http://agriculture.gouv.fr/Presentation-de-la-reglementation.
+
+Une copie de l'annexe peut également être demandée par courrier adressé à la direction générale des politiques agricole, agroalimentaire et des territoires, service de la forêt, de la ruralité et du cheval, sous-direction de la forêt et du bois, bureau des investissements forestiers, 19, avenue du Maine, 75732 Paris Cedex 15.
