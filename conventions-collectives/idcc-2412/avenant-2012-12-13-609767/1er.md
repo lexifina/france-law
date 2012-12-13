@@ -1,0 +1,57 @@
+# Article 1er
+
+La production de films d'animation a connu depuis un peu moins de deux ans de nouveaux développements. La mise en production de programmes important comportant une date de livraison impérative dépendant notamment d'une sortie en salle pour le cinéma d'animation ou d'une diffusion télévisuelle pour les programmes audiovisuels d'animation implique la tenue d'un calendrier très serré en termes d'organisation du travail. La succession des phases de production et l'enchaînement de celle-ci impose parfois l'organisation d'heures supplémentaires. Celles-ci doivent s'effectuer généralement sur un 6e jour de travail, la réalisation d'heures en semaine étant difficilement compatible avec l'attention requise par les outils numériques de travail.
+
+Ainsi, les partenaires sociaux conviennent d'amender l'article 3.4 de l'accord sur la durée, l'aménagement et la réduction du temps de travail dans le secteur de la production d'animation du 21 février 2002, annexé à la convention collective de la production de films d'animation comme suit :
+
+« Article 3.4
+
+Repos quotidien et hebdomadaire
+
+Tout salarié bénéficie d'un repos quotidien d'une durée minimale de 11 heures consécutives entre deux journées de travail.
+
+Tout salarié bénéficie d'un repos hebdomadaire d'une durée minimale de 48 heures. En cas de réalisation d'heures supplémentaires sur une sixième journée, ce repos peut être, exceptionnellement, ramené à une durée minimale de 24 heures auxquelles s'ajoutent 11 heures consécutives de repos quotidien. »
+
+De plus, il est prévu de modifier l'article 8 du même accord de telle sorte :
+
+« Article 8
+
+Heures supplémentaires et travail du dimanche
+
+8.1. Heures supplémentaires
+
+Les heures supplémentaires sont les heures de travail accomplies à la demande de l'employeur au-delà de la durée légale effective du travail. Elles s'apprécient dans un cadre hebdomadaire ou, dans les cas définis aux articles 7.3 et 7.4, dans un cadre mensuel ou annuel.
+
+Les heures supplémentaires, ainsi que leurs majorations, peuvent prendre la forme, pour tout ou partie, avec l'accord du salarié, d'un repos de remplacement ou d'un paiement.
+
+Les heures prises sous la forme de repos de remplacement ne s'imputent pas au contingent d'heures supplémentaires applicables à l'entreprise. Le repos de remplacement peut être pris dès que le salarié en bénéficie pour au moins 7 heures. La date de prise du repos est définie d'un commun accord entre l'employeur et le salarié.
+
+La rémunération des heures supplémentaires est majorée dans les conditions suivantes :
+
+– 25 % à compter de la 1re heure supplémentaire et jusqu'à la 9e ;
+
+– 50 % à compter de la 9e heure supplémentaire.
+
+Le contingent annuel d'heures supplémentaires est fixé à 230 heures pour une même année. Les heures supplémentaires effectuées au-delà du contingent ouvrent droit à une contrepartie obligatoire en repos fixée à :
+
+– 50 % de la durée des heures réalisées pour les entreprises de 20 salariés au plus ;
+
+– 100 % dans les entreprises de plus de 20 salariés.
+
+Le droit à repos est acquis dès que le salarié a cumulé 7 heures de contrepartie. La date du repos doit être définie dans les 2 mois de l'ouverture du droit. Le salarié fixe la date de la journée ou de la demi-journée de repos d'un commun accord avec son employeur.
+
+Il est possible que les heures supplémentaires se réalisent sur un 6e jour de travail dans la semaine. Cette organisation ne doit pas entraîner le salarié à réaliser plus de 15 semaines de 6 jours par année civile. De plus, cette organisation du travail sur 6 jours ne peut se reproduire plus de 6 semaines d'affilée et ne peut conduire à la réalisation de plus de 6 jours de suite de travail.
+
+8.2. Convention d'heures supplémentaires
+
+Lorsque l'horaire de travail du salarié est susceptible de comporter régulièrement la réalisation d'heures supplémentaires, il peut être convenu par écrit, au préalable, entre l'employeur et le salarié, une convention d'heures supplémentaires (CHS). Celle-ci inclut dans la rémunération mensuelle un nombre déterminé d'heures supplémentaires hebdomadaires ou mensuelles.
+
+La convention d'heures supplémentaires détermine le nombre d'heures supplémentaires contractualisées. Elle en fixe l'indemnisation qui ne peut être inférieure à la rémunération du nombre d'heures définies augmenté des majorations pour heures supplémentaires. Si les heures supplémentaires ne peuvent être réalisées, le salarié conserve la rémunération prévue par la convention d'heures supplémentaires. La réalisation d'heures au-delà de la convention d'heures supplémentaires ouvre droit à rémunération selon les règles applicables aux heures supplémentaires.
+
+8.3. Travail du dimanche
+
+La production de film d'animation fait partie des activités du spectacle pour lesquelles le code du travail autorise le travail du dimanche.
+
+Les heures travaillées le dimanche sont majorées à hauteur de 25 %. Cette majoration se cumule, le cas échéant, avec la majoration pour heure supplémentaire.
+
+Le travail du dimanche peut entraîner la réalisation d'un 6e jour de travail sur la semaine. Cette organisation ne doit pas entraîner le salarié à réaliser plus de 22 semaines de 6 jours par an. De plus, cette organisation du travail sur 6 jours ne peut se reproduire plus de 6 semaines d'affilée. »
