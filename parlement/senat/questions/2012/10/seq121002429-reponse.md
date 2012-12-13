@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002429
+
+- Question : [SEQ121002429](seq121002429.md) — Pouvoirs du maire en matière de limitation de vitesse
+
+## Réponse
+
+*Intérieur, JO du 2012-12-13, page 2912*
+
+Au titre du pouvoir de police de circulation qui lui est conféré par l'article L. 2213-1 du code général des collectivités territoriales, le maire a la possibilité de modifier la limite réglementaire de vitesse en agglomération, fixée à 50 km/h par l'article R. 413-3 du code de la route. Ainsi, sur les sections de route où les accès des riverains et les traversées des piétons sont en nombre limité et sont protégés par des dispositifs appropriés, cette limite peut être relevée à 70 km/h (article R. 413-3). De même, la création de zones de circulation particulière (zone 30, zone de rencontre) entraîne l'application de nouvelles limites de vitesse réglementaires (respectivement 30 et 20 km/h) conformément à l'article R. 110-2 du code précité. Enfin, des limitations plus restrictives que celles définies par le code de la route peuvent être fixées ponctuellement par l'autorité détentrice du pouvoir de police dès lors que la sécurité de la circulation l'exige (article R. 411-8). Ces mesures doivent être fondées sur un arrêté motivé pris par le maire après, le cas échéant, consultation des autorités gestionnaires de la voirie concernée et, s'il s'agit d'une route à grande circulation, après avis conforme du préfet (ou avis simple s'agissant d'une limitation de vitesse ponctuelle prise en application de l'article R. 411-8). Leur opposabilité aux usagers est conditionnée à la mise en place d'une signalisation conforme aux dispositions de l'arrêté du 24 novembre 1967 modifié relative à la signalisation des routes et autoroutes et implantée dans les conditions prévues par l'Instruction interministérielle sur la signalisation routière (arrêté du 7 juin 1977 modifié).
