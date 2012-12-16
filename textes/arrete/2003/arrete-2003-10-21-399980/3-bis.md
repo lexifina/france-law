@@ -1,24 +1,20 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de conseiller (ère) en insertion professionnelle selon le tableau de correspondances figurant ci-dessous :
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la date d'entrée en vigueur du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous.
 
-CONSEILLER (ÈRE)
+TITRE PROFESSIONNEL
 
-en insertion professionnelle
+conseiller (ère) en insertion professionnelle
 
-(arrêté du 21 octobre 2003)
+(arrêté du 21 octobre 2003 modifié)
 
 |
 
-CONSEILLER (ÈRE)
+TITRE PROFESSIONNEL
 
-en insertion professionnelle
+conseiller (ère) en insertion professionnelle
 
 (présent arrêté)
-
-|
-
-Accueillir des personnes en difficulté d'insertion et analyser la demande pour favoriser la démarche d'accompagnement.
 
 |
 
@@ -26,7 +22,7 @@ Accueillir des personnes en démarche d'insertion et analyser la demande pour fa
 
 |
 
-Accompagner les personnes dans leurs parcours d'insertion sociale et professionnelle.
+Accueillir pour analyser la demande des personnes en démarche d'insertion et établir un diagnostic partagé.
 
 |
 
@@ -34,7 +30,7 @@ Accompagner les personnes dans leur parcours d'insertion sociale et professionne
 
 |
 
-Mettre en œuvre des relations avec les employeurs en matière d'insertion.
+Accompagner les personnes dans leur parcours d'insertion sociale et professionnelle.
 
 |
 
@@ -42,7 +38,11 @@ Développer et mettre en œuvre des solutions d'insertion avec les employeurs.
 
 |
 
-Participer au montage de projets et à la conduite de projets dans le champ de l'insertion.
+Mettre en œuvre une offre de services auprès des employeurs pour favoriser l'insertion professionnelle.
+
+|
+
+Contribuer au montage de projets ou à la réalisation d'actions dans le champ de l'insertion.
 
 |
 
