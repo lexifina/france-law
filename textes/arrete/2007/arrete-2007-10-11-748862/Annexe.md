@@ -74,13 +74,25 @@ Adjoint administratif de 1re classe |
 
 |
 
-Adjoint administratif principal de 2e classe |
+Echelon spécial du grade d'adjoint administratif principal de 1re classe
+
+|
+
+30 %
+
+|
+
+Adjoint administratif principal de 2e classe
+
+|
 
 6 %
 
 |
 
-Adjoint administratif principal de 1re classe |
+Adjoint administratif principal de 1re classe
+
+|
 
 5 %
 
@@ -90,9 +102,19 @@ Corps des permanenciers auxiliaires de régulation médicale
 
 |
 
-Permanencier auxiliaire de régulation médicale chef |
+Permanencier auxiliaire de régulation médicale chef
+
+|
 
 13 %
+
+|
+
+Echelon spécial de grade de permanencier auxiliaire de régulation médicale chef
+
+|
+
+30 %
 
 |
 
@@ -104,13 +126,17 @@ Corps des dessinateurs
 
 |
 
-Dessinateur chef de groupe |
+Dessinateur chef de groupe
+
+|
 
 5 %
 
 |
 
-Dessinateur principal |
+Dessinateur principal
+
+|
 
 13 %
 
@@ -120,13 +146,17 @@ Corps des conducteurs ambulanciers
 
 |
 
-Conducteur ambulancier de 1re catégorie |
+Conducteur ambulancier de 1re catégorie
+
+|
 
 6 %
 
 |
 
-Conducteur ambulancier hors catégorie |
+Conducteur ambulancier hors catégorie
+
+|
 
 3 %
 
@@ -136,19 +166,25 @@ Corps des ouvriers
 
 |
 
-Ouvrier professionnel |
+Ouvrier professionnel
+
+|
 
 6 %
 
 |
 
-Maître ouvrier |
+Maître ouvrier
+
+|
 
 9 %
 
 |
 
-Maître ouvrier principal |
+Maître ouvrier principal
+
+|
 
 12 %
 
@@ -158,7 +194,9 @@ Corps de la maîtrise ouvrière
 
 |
 
-Agent de maîtrise principal |
+Agent de maîtrise principal
+
+|
 
 4 %
 
@@ -168,13 +206,17 @@ Corps des techniciens et techniciens supérieurs hospitaliers
 
 |
 
-Technicien supérieur hospitalier de 2e classe |
+Technicien supérieur hospitalier de 2e classe
+
+|
 
 10 %
 
 |
 
-Technicien supérieur hospitalier de 1re classe |
+Technicien supérieur hospitalier de 1re classe
+
+|
 
 20 %
 
@@ -188,7 +230,9 @@ Corps des psychologues
 
 |
 
-Psychologue hors classe |
+Psychologue hors classe
+
+|
 
 12 %
 
@@ -210,6 +254,14 @@ Aide-soignant de classe supérieure |
 
 |
 
+Echelon spécial du grade d'aide-soignant de classe exceptionnelle
+
+|
+
+30 %
+
+|
+
 Aide-soignants de classe exceptionnelle |
 
 20 %
@@ -225,6 +277,16 @@ Infirmiers de classe supérieure
 |
 
 26 % |
+
+Corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière
+
+|
+
+Infirmiers en soins généraux deuxième grade
+
+|
+
+11 % |
 
 Filière de rééducation
 
