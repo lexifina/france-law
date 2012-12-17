@@ -1,4 +1,4 @@
-# Article Annexe
+# Article Annexe II
 
 PROGRAMME DE LA SCOLARITÉ DES ADJOINTS DE SÉCURITÉ
 
@@ -206,9 +206,19 @@ Situation 4 : interpeller un individu :
 
 ― la mise en œuvre des gestes techniques liés à une intervention sur un différend dans un lieu privé.
 
-III. ― La formation informatique
+III. Les autres disciplines-activités physiques et professionnelles :
 
-― les règles d'utilisation de l'outil informatique dans la police nationale ;
+― les manipulations et le tir ;
+
+― l'armement ;
+
+― les techniques de défense en intervention ;
+
+― la préparation physique du policier.
+
+IV. - La formation informatique :
+
+― les règles de l'utilisation de l'informatique dans la police nationale ;
 
 ― l'intranet du ministère de l'intérieur ;
 
@@ -221,13 +231,3 @@ III. ― La formation informatique
 ― révisions ;
 
 ― évaluation école (utilisation pratique des logiciels).
-
-IV. ― Les autres disciplines ― activités physiques et professionnelles
-
-― les manipulations et le tir ;
-
-― l'armement ;
-
-― les techniques de défense en intervention ;
-
-― la préparation physique du policier.
