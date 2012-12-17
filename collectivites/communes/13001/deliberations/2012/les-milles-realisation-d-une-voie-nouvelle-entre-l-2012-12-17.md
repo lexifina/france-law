@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — LES MILLES - REALISATION D'UNE VOIE NOUVELLE ENTRE LE CHEMIN DE LA BADESSE ET LE CHEMIN DES DEPORTES - CESSION GRATUITE DANS LE CADRE DES EMPLACEMENTS RESERVES N°92, 363 ET 364 - CESSION VOLONTAIRE DE LA PARCELLE CADASTREE KL N°391
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2012-12-17
+- Séance : Conseil Municipal 2CA
+- Objet : LES MILLES - REALISATION D'UNE VOIE NOUVELLE ENTRE LE CHEMIN DE LA BADESSE ET LE CHEMIN DES DEPORTES - CESSION GRATUITE DANS LE CADRE DES EMPLACEMENTS RESERVES N°92, 363 ET 364 - CESSION VOLONTAIRE DE LA PARCELLE CADASTREE KL N°391
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-4356-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
