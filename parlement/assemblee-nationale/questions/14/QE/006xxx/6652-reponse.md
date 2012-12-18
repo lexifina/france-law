@@ -1,0 +1,9 @@
+# Réponse à la question n° 6652
+
+- Question : [6652](6652.md) — Question n° 6652 — utilisation; conséquences; santé
+
+## Réponse
+
+*JO du 2012-12-18*
+
+La prise en charge par le régime de sécurité sociale agricole des maladies professionnelles consécutives à l'exposition à des pesticides fait l'objet d'une attention toute particulière de la part du ministre de l'agriculture, de l'agroalimentaire et de la forêt. Dès 2010, la commission supérieure des maladies professionnelles en agriculture a initié un travail d'analyse des études et recherches déjà publiées sur les liens entre les affections à effet différé et l'exposition aux pesticides. Elle a mandaté à cet effet un groupe de travail chargé d'auditionner les experts spécialistes de ces questions et de rendre un rapport compilant l'ensemble des arguments médicaux, techniques ou socio-économiques par pathologie. En 2011, la commission a proposé au ministre l'adoption d'un nouveau tableau de maladies professionnelles, le tableau n° 58 sur la « maladie de Parkinson provoquée par les pesticides », qui a été créé par le décret n° 2012-665 du 4 mai 2012 révisant et complétant les tableaux des maladies professionnelles en agriculture. Ainsi, la possibilité de demander la reconnaissance de la maladie de Parkinson comme maladie professionnelle en lien avec les pesticides, pour bénéficier à ce titre d'une réparation forfaitaire analogue à celle des accidents du travail, est ouverte sous les conditions fixées par ce tableau. Les éléments recueillis par le groupe de travail de la commission, relatifs aux autres pathologies neuro-dégénératives comme la maladie d'Alzheimer, n'ont pas été considérés comme suffisants à ce jour. Les travaux se poursuivent par l'examen des cancers et plus spécialement les hémopathies, dont les myélomes multiples, les lymphomes non-Hodgkiniens, les lymphomes Hodgkiniens et les leucémies.
