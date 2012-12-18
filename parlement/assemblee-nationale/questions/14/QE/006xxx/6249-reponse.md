@@ -1,0 +1,9 @@
+# Réponse à la question n° 6249
+
+- Question : [6249](6249.md) — Question n° 6249 — zones vulnérables
+
+## Réponse
+
+*JO du 2012-12-18*
+
+Les récentes évolutions réglementaires relatives à l'application de la directive « nitrates » s'inscrivent dans le cadre d'une procédure contentieuse intentée par la Commission européenne (CE) contre la France auprès de la Cour de justice de l'Union européenne pour mauvaise application de la directive. La révision des zones vulnérables définies au titre de cette directive s'effectue tous les quatre ans. De plus, dans le contentieux C-193/12 pour lequel la Cour de justice européenne a été saisie le 26 avril 2012, la CE reproche à la France une délimitation insuffisante des zones vulnérables dans quatre bassins (Adour Garonne, Loire Bretagne, Rhin Meuse et Rhône Méditerranée) compte-tenu des concentrations en nitrates observées dans les eaux. Dix secteurs concernés par les demandes d'extension sont identifiés par la CE. Devant la menace d'une condamnation, il nous est indispensable de veiller à ce que la délimitation issue de la révision actuelle puisse satisfaire aux demandes formulées par la CE. Les préfets coordonnateurs de bassin, en charge de cette révision, doivent par conséquent veiller à ce que les propositions soient suffisantes pour contribuer à la résolution du contentieux. Il est indispensable en particulier que les secteurs identifiés par la CE fassent l'objet d'une analyse approfondie tant pour justifier du classement que du non classement. Les travaux visant à réaliser ces analyses mobilisent l'ensemble des acteurs concernés dans le cadre de la gouvernance de bassin. Les acteurs agricoles et les élus impliqués localement peuvent faire entendre leurs préoccupations et recevoir toutes les réponses nécessaires dans le processus d'élaboration de la révision du zonage.
