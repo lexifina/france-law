@@ -1,0 +1,9 @@
+# Réponse à la question n° 2163
+
+- Question : [2163](2163.md) — Question n° 2163 — conditions d'attribution; réglementation
+
+## Réponse
+
+*JO du 2012-12-18*
+
+Lorsqu'un demandeur de logement social est en instance de divorce, l'article L. 441-1 permet d'évaluer ses ressources de manière plus souple que la procédure de droit commun, afin de prendre en compte les ressources du seul demandeur au lieu de celles de l'ensemble du ménage. Pour pouvoir tenir compte de sa situation, le demandeur doit fournir une ordonnance de non conciliation, afin de prouver que la procédure de divorce est réellement engagée. Cette disposition législative se fonde initialement sur le souhait de prendre en compte la situation particulière des demandeurs de logement social en instance de divorce. Le choix de l'ordonnance de non conciliation est justifié par le fait que cet acte constitue la première décision rendue par le juge aux affaires familiales. L'ordonnance contient des éléments de nature à considérer la rupture comme irrévocable. D'autres types de pièces, tels que les actes sous seing privé, pourraient ne pas présenter de garanties suffisantes quant au caractère définitif de la séparation. Afin de garantir des attributions en adéquation avec les besoins des demandeurs, notamment les plus défavorisés, la réglementation ne peut donc pas anticiper sur des situations de fait qui n'ont pas encore produit tous leurs effets juridiques. La question de la prise en compte des ressources des demandeurs figure néanmoins parmi les points essentiels qui devront être examinés dans le cadre de la concertation relative au régime d'attribution des logements sociaux qui sera lancée en fin d'année pour préparer la réforme de la procédure d'attribution. La réflexion qui sera alors engagée pourra, le cas échéant, permettre la définition de nouveaux critères prenant mieux en compte la situation des demandeurs.
