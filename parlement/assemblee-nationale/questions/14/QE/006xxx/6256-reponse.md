@@ -1,0 +1,9 @@
+# Réponse à la question n° 6256
+
+- Question : [6256](6256.md) — Question n° 6256 — préservation
+
+## Réponse
+
+*JO du 2012-12-18*
+
+La consommation d'espaces agricoles par l'urbanisation, qui était de 60 000 ha par an en moyenne entre 1992 et 2003, est passée à plus de 80 000 ha par an depuis, selon les données du service de statistiques et de prospective du ministère, alors que la demande pour des produits agricoles est croissante et que l'artificialisation est une des causes principales de la perte de biodiversité. Conscient de ce phénomène de disparition irréversible du foncier agricole, l'objectif de freiner au niveau national l'artificialisation nette des espaces agricoles et naturels a été réaffirmé lors de la conférence environnementale des 14 et 15 septembre 2012, comme mentionné dans la feuille de route pour la transition écologique. Pour mémoire, des mesures de préservation des surfaces agricoles, naturelles et forestières, qui pourront être améliorées par l'évolution législative et réglementaire à venir, existent (dispositions issues des lois dites Grenelle et de la loi de modernisation de l'agriculture notamment). Afin de renforcer les dispositifs existants, le calendrier sera fixé dans le projet de loi sur le logement, l'urbanisme et la ville préparé par la ministre de l'égalité des territoires et du logement pour le début de l'année 2013. Cette loi sera aussi l'occasion de définir le cadre juridique d'une ville plus dense, moins consommatrice d'espaces et d'énergie. Le projet de loi d'avenir pour l'agriculture, l'agroalimentaire et la forêt, prévu pour la fin 2013, se saisira également de cette problématique foncière. En particulier, les modalités d'évolution éventuelle du calcul et de l'usage de la taxe sur la cession à titre onéreux de terrains nus rendus constructibles pourront être discutées dans ce cadre.
