@@ -1,0 +1,52 @@
+# Questions sociales et santé : réforme de la biologie médicale
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29556
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/biologie_medicale_reforme
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl12-243.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-12-19 : 1er dépôt d'une initiative. (PIONSNR5S199B0243)
+  - 2012-12-19 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-19 : Renvoi en commission au fond
+      - 2013-01-16 : Nomination de rapporteur
+      - 2013-01-23 : Dépôt de rapport (RAPPSNR5S199B0277)
+  - Discussion en séance publique
+    - 2013-01-31 : Discussion en séance publique
+    - 2013-02-05 : Discussion en séance publique
+    - 2013-02-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-02-05 : Dépôt d'une initiative en navette (PIONANR5L14B0669)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-02-05 : Renvoi en commission au fond
+      - 2013-01-30 : Nomination de rapporteur
+      - 2013-02-13 : Réunion de commission
+      - 2013-03-25 : Réunion de commission
+      - 2013-02-13 : Dépôt de rapport (RAPPANR5L14B0724, PIONANR5L14BTC0724)
+  - Discussion en séance publique
+    - 2013-03-25 : Discussion en séance publique
+    - 2013-03-25 : Décision
+- Commission Mixte Paritaire
+  - 2013-03-26 : Dépôt d'un projet de loi (PIONSNR5S199B0445)
+  - 2013-03-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-04-10 : Nomination de rapporteur
+    - 2013-04-10 : Dépôt du rapport d'une CMP (RAPPANR5L14B0915)
+    - 2013-04-10 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0492)
+  - Discussion en séance publique
+    - 2013-05-14 : Discussion en séance publique
+    - 2013-05-14 : Décision
+  - Discussion en séance publique
+    - 2013-05-16 : Discussion en séance publique
+    - 2013-05-16 : Décision
+  - 2013-04-10 : Décision de la CMP
+- Promulgation de la loi
+  - 2013-05-30 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2016-01-26 : Rapport sur l'application des lois (RINFANR5L14B3441)
