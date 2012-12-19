@@ -1,0 +1,105 @@
+# Economie : separation et régulation des activités bancaires
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29532
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/separation_regulation_activites_bancaires
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-365.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2012-12-19 : 1er dépôt d'une initiative. (PRJLANR5L14B0566)
+  - 2012-12-19 : Etude d'impact (ETDIANR5L14B0566)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2012-12-19 : Renvoi en commission au fond
+      - 2013-01-23 : Nomination de rapporteur
+      - 2013-01-23 : Réunion de commission
+      - 2013-01-30 : Réunion de commission
+      - 2013-01-30 : Réunion de commission
+      - 2013-01-30 : Réunion de commission
+      - 2013-02-06 : Réunion de commission
+      - 2013-02-06 : Réunion de commission
+      - 2013-02-12 : Réunion de commission
+      - 2013-02-07 : Dépôt de rapport (RAPPANR5L14B0707, PRJLANR5L14BTC0707)
+    - Travaux d'une commission saisie pour avis
+      - 2013-01-07 : Saisine pour avis d'une commission
+      - 2013-01-09 : Nomination de rapporteur
+      - 2013-01-30 : Réunion de commission
+      - 2013-01-30 : Dépôt de rapport (AVISANR5L14B0661)
+    - Travaux d'une commission saisie pour avis
+      - 2013-01-21 : Saisine pour avis d'une commission
+      - 2013-01-23 : Nomination de rapporteur
+      - 2013-01-23 : Réunion de commission
+      - 2013-02-05 : Réunion de commission
+      - 2013-02-05 : Dépôt de rapport (AVISANR5L14B0666)
+  - Discussion en séance publique
+    - 2013-02-12 : Discussion en séance publique
+    - 2013-02-12 : Discussion en séance publique
+    - 2013-02-13 : Discussion en séance publique
+    - 2013-02-13 : Discussion en séance publique
+    - 2013-02-14 : Discussion en séance publique
+    - 2013-02-14 : Discussion en séance publique
+    - 2013-02-19 : Discussion en séance publique
+    - 2013-02-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-02-20 : Dépôt d'une initiative en navette (PRJLSNR5S199B0365)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-02-20 : Renvoi en commission au fond
+      - 2013-01-30 : Nomination de rapporteur
+      - 2013-03-12 : Dépôt de rapport (RAPPSNR5S199B0422)
+    - Travaux d'une commission saisie pour avis
+      - 2013-02-20 : Saisine pour avis d'une commission
+      - 2013-02-20 : Nomination de rapporteur
+      - 2013-03-13 : Dépôt de rapport (AVISSNR5S199B0427)
+    - Travaux d'une commission saisie pour avis
+      - 2013-02-27 : Saisine pour avis d'une commission
+      - 2013-02-27 : Nomination de rapporteur
+      - 2013-03-13 : Dépôt de rapport (AVISSNR5S199B0428)
+  - Discussion en séance publique
+    - 2013-03-20 : Discussion en séance publique
+    - 2013-03-21 : Discussion en séance publique
+    - 2013-03-22 : Discussion en séance publique
+    - 2013-03-22 : Décision
+- deuxième lecture
+  - 2013-03-25 : Dépôt d'une initiative en navette (PRJLANR5L14B0838)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-03-25 : Renvoi en commission au fond
+      - 2013-05-29 : Réunion de commission
+      - 2013-06-04 : Réunion de commission
+      - 2013-05-29 : Dépôt de rapport (RAPPANR5L14B1091, PRJLANR5L14BTC1091)
+  - Discussion en séance publique
+    - 2013-06-05 : Discussion en séance publique
+    - 2013-06-05 : Discussion en séance publique
+    - 2013-06-05 : Décision
+- deuxième lecture
+  - 2013-06-06 : Dépôt d'une initiative en navette (PRJLSNR5S199B0643)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-06 : Renvoi en commission au fond
+      - 2013-06-19 : Dépôt de rapport (RAPPSNR5S199B0681)
+  - Discussion en séance publique
+    - 2013-06-26 : Discussion en séance publique
+    - 2013-06-26 : Décision
+- Commission Mixte Paritaire
+  - 2013-06-27 : Dépôt d'un projet de loi (PRJLANR5L14B1209)
+  - 2013-06-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-07-11 : Nomination de rapporteur
+    - 2013-07-11 : Dépôt du rapport d'une CMP (RAPPANR5L14B1247)
+    - 2013-07-11 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0750)
+  - Discussion en séance publique
+    - 2013-07-17 : Discussion en séance publique
+    - 2013-07-17 : Discussion en séance publique
+    - 2013-07-17 : Décision
+  - Discussion en séance publique
+    - 2013-07-18 : Discussion en séance publique
+    - 2013-07-18 : Décision
+  - 2013-07-16 : Décision de la CMP
+- Promulgation de la loi
+  - 2013-07-26 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2015-06-24 : Rapport sur l'application des lois (RINFANR5L14B2895)
