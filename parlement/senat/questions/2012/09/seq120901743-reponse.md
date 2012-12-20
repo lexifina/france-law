@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901743
+
+- Question : [SEQ120901743](seq120901743.md) — Filière équine
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2012-12-20, page 2983*
+
+La filière équine française représente un atout stratégique important en termes d'emplois, d'activités économiques et d'occupation des territoires. Le ministre de l'agriculture, de l'agroalimentaire et de la forêt en a pleinement appréhendé l'importance, ainsi que la complexité des mutations que connaît la filière. C'est pourquoi il a initié une réflexion dont l'objet est de conforter l'avenir de cette filière en précisant notamment les missions qui doivent être dévolues à l'Institut français du cheval et de l'équitation (IFCE). La concertation a commencé par un échange avec les parlementaires et les élus des collectivités territoriales. Cela s'est poursuivi le 5 novembre 2012 par une réunion à laquelle participaient les représentants des organisations professionnelles et syndicales. Par ailleurs, une étude prospective a été conduite conjointement par l'Institut national de la recherche agronomique et l'IFCE et permet de dégager quatre hypothèses de scénarios d'évolution pour la filière à l'horizon 2030. Il est certain que les problématiques évoquées et les interrogations émises seront prises en compte. Ainsi, il sera possible de manière collégiale d'arriver à la définition d'une politique nationale du cheval et de préciser le rôle de l'État, des collectivités territoriales et des acteurs de la filière. Cette réflexion devra s'accompagner d'un travail sur la refonte du système d'aide en s'assurant de sa pertinence tout en s'appuyant sur les possibilités que pourra donner la politique agricole commune, et notamment son volet développement rural, dans sa nouvelle définition pour la période 2014-2020. C'est l'objet même des réflexions qui seront demandées au groupe de travail qui sera mis en place très prochainement.
