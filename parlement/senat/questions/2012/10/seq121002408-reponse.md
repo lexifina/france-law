@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002408
+
+- Question : [SEQ121002408](seq121002408.md) — Études sanitaires sur les rats
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2012-12-20, page 2992*
+
+Le Gouvernement a saisi l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) et le Haut Conseil des biotechnologies (HCB) sur la validité et les conséquences à tirer de l'étude publiée par le professeur Séralini sur le maïs transgénique NK 603 et l'herbicide Roundup. L'ANSES et le HCB ont rendu leurs avis. Ils concluent que les résultats de l'étude ne sont pas de nature à remettre en cause les précédentes évaluations sanitaires de ces produits en raison de biais importants dans le protocole et dans l'analyse des données. S'agissant des rats Sprague Dawley, l'ANSES et le HCB ne remettent pas en cause le choix de cette souche, qui est fréquemment utilisée dans les études de toxicologie, y compris dans les études de 90 jours présentées par les entreprises dans les dossiers de demande de mise sur le marché d'OGM. En revanche, l'ANSES et le HCB reprochent aux auteurs de l'étude de ne pas avoir tenu compte des caractéristiques de cette souche dans l'élaboration du protocole et dans l'interprétation des résultats. En effet, une fréquence d'apparition de tumeurs mammaires de 60 % est observée naturellement chez ces rats au bout de deux ans. Un nombre trop faible de rats réduit alors les possibilités d'interprétation statistique de l'étude. L'ANSES recommande d'engager des recherches sur les effets à long terme de la consommation des OGM et des pesticides, sur la base de protocoles précis. Le Gouvernement a pris connaissance de cette proposition, et portera par ailleurs au niveau européen la demande d'une remise à plat du dispositif communautaire d'évaluation, d'autorisation et de contrôle des OGM et des pesticides.
