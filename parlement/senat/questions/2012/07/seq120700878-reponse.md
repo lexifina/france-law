@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700878
+
+- Question : [SEQ120700878](seq120700878.md) — Application de la jurisprudence du Conseil d'État sur l'attribution aux fonctionnaires de la bonification pour enfants en cas de naissances multiples
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2012-12-20, page 3011*
+
+Le code des pensions civiles et militaires de retraite (CPCMR) prévoit dans son article L. 12b la possibilité pour les fonctionnaires de bénéficier d'une bonification fixée à quatre trimestres par enfant né avant le 1er janvier 2004, à condition qu'ils aient, pour chacun d'eux, interrompu ou réduit leur activité. L'interruption d'activité doit être d'une durée continue au moins égale à deux mois et intervenir dans le cadre d'un congé de maternité, d'un congé d'adoption, d'un congé parental, d'un congé de présence parentale ou d'une disponibilité pour élever un enfant de moins de huit ans. La réduction d'activité doit être, quant à elle, prise sous forme d'un temps partiel dont la durée est proportionnelle à la quotité de travail. En cas de naissances ou d'adoptions multiples, l'interruption ou la réduction d'activité ouvre droit à bonification pour chacun des enfants. Spécialement, les parents de jumeaux voient chacun de leurs deux enfants pris en compte pour la même période d'interruption ou de réduction d'activité. Par exemple, une interruption d'activité de deux mois dans le cadre d'un congé maternité ouvre droit à bonification pour chacun des deux enfants en cas de naissance de jumeaux. La prise en compte de chaque enfant en cas de naissance multiple, solution indiquée dans la jurisprudence du Conseil d'État en date du 29 mai 2009 (arrêt n° 318318, ministère du budget, des comptes publics et de la fonction publique, aussi appelé arrêt Kucharski) s'applique dans les trois fonctions publiques.
