@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700362
+
+- Question : [SEQ120700362](seq120700362.md) — Difficultés rencontrées pour avoir recours à l'interruption volontaire de grossesse durant la période des vacances d'été
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2012-12-20, page 2965*
+
+Pour l'été 2012, la ministre des affaires sociales et de la santé a donné instruction aux agences régionales de santé (ARS) d'anticiper les difficultés et de mettre en place un dispositif propre à garantir pour toute femme souhaitant y recourir un accès à l'IVG. Cette organisation peut notamment s'appuyer sur les permanences téléphoniques régionales d'information relatives à l'IVG et à la contraception créées en application de la circulaire DH/DGS/DREES/SDFE n° 99-628 du 17 novembre 1999 relative à l'organisation et à la prise en charge des IVG. Les permanences téléphoniques, informées des dates de fermeture de cabinets médicaux ou services hospitaliers, sont en effet en mesure d'orienter efficacement les femmes souhaitant recourir à l'IVG en fonction du terme. Il était demandé par ailleurs aux ARS de signaler à la direction générale de l'offre de soins et à la direction générale de la santé toute difficulté de prise en charge des femmes en demande d'IVG rencontrée pendant l'été. Le ministère sera dès lors en mesure de procéder à l'analyse des difficultés recensées et de mettre en place, le cas échéant, les mesures correctives propres à ce que soit assuré tout au long de l'année aux femmes qui la souhaitent un accès à l'IVG. Enfin, la ministre des affaires sociales et de la santé s'est engagée, pour faciliter l'accès à l'IVG et lever les contraintes financières qui sont bien souvent des freins, à proposer le remboursement à 100 % de l'IVG à toutes les femmes, quelle que soit la méthode pratiquée (instrumentale ou médicamenteuse).
