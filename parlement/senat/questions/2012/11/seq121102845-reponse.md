@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121102845
+
+- Question : [SEQ121102845](seq121102845.md) — Gestion du futur régime d'indemnités journalières pour les exploitants agricoles
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2012-12-20, page 2997*
+
+Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2013 comporte un article prévoyant la mise en œuvre, à compter de 2014, d'un dispositif d'indemnités journalières destinées aux exploitants agricoles en cas de maladie ou d'accident de la vie privée. Le dispositif proposé sera autofinancé par une cotisation forfaitaire, à la charge du chef de l'exploitation ou de l'entreprise agricole, couvrant l'ensemble des non-salariés agricoles de l'exploitation. Le PLFSS prévoit que la gestion du dispositif sera confiée à la Mutualité sociale agricole (MSA) et aux assureurs privés, comme l'est la gestion de la branche maladie des exploitants agricoles depuis la création du régime. Cette gestion conjointe du régime par la MSA et les assureurs constitue un héritage de la loi n° 61-89 du 25 janvier 1961, qui a créé l'assurance maladie, invalidité, maternité des non-salariés agricoles (AMEXA). Antérieurement à la socialisation de l'assurance maladie des non-salariés agricoles, les assureurs privés détenaient une part prééminente dans ce secteur. C'est la raison pour laquelle le législateur avait laissé aux bénéficiaires de l'AMEXA le libre choix entre une assurance souscrite soit auprès de la MSA, soit auprès d'assureurs privés regroupés au sein du groupement des assureurs maladie des exploitants agricoles (GAMEX). Aujourd'hui, 93 % des non-salariés agricoles sont affiliés auprès de la MSA et 7 % d'entre eux auprès du GAMEX. Une réflexion globale sur le système de gestion de l'AMEXA est sans doute nécessaire. En attendant, le Gouvernement a souhaité ne pas remettre en cause la gestion conjointe de ce régime par la MSA et le GAMEX, y compris pour le dispositif d'indemnités journalières.
