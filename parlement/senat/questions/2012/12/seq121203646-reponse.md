@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203646
+
+- Question : [SEQ121203646](seq121203646.md) — Délai de réponse aux demandes de permis de construire et de certificats d'urbanisme
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2012-12-20, page 3005*
+
+La direction départementale des territoires (DDT) de Moselle s'emploie à traiter dans les délais les demandes de permis de construire dont elle a la charge et en priorité les cas où un refus doit être délivré. Elle ne peut toutefois pas garantir à elle seule l'ensemble des délais de la chaîne, qui va de l'instruction jusqu'à la signature et l'envoi de la décision par l'autorité compétente. La DDT de la Moselle peut également, lorsque son plan de charge l'y oblige, mettre en œuvre les dispositions du code de l'urbanisme qui lui permettent de laisser naître un permis tacite à l'issue du délai d'instruction. Dans le cas où ce permis tacite s'avérerait illégal, il est possible de procéder à son retrait dans un délai de deux mois, après avoir organisé une procédure contradictoire permettant l'information du bénéficiaire. S'agissant des certificats d'urbanisme opérationnels, le silence gardé par l'administration a une valeur différente. Il ne permet pas au demandeur de se prévaloir d'une décision favorable tacite sur la faisabilité du projet. L'article R. 410-2 du code de l'urbanisme prévoit en effet que le défaut de notification d'une décision expresse permet seulement au demandeur de conserver pendant 18 mois, dans les conditions prévues par l'article L. 410-1 du code de l'urbanisme, le bénéfice des dispositions d'urbanisme en vigueur au terme du délai d'instruction. L'autorité compétente ne peut donc délivrer un certificat de décision tacite mais reste toujours saisie de la demande. Consciente des problèmes que cela peut poser aux demandeurs en attente d'un avis sur la faisabilité sur leur projet, la DDT s'efforce dans tous les cas de produire cette réponse dans les meilleurs délais.
