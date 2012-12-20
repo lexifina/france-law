@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002416
+
+- Question : [SEQ121002416](seq121002416.md) — Personnel technique des réseaux et infrastructures routières
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2012-12-20, page 3011*
+
+En application de l'article 111 de la loi du 13 août 2004 relative aux libertés et responsabilités locales, les agents anciennement fonctionnaires de l'État dont les services ont été transférés aux collectivités territoriales et qui sont intégrés dans la fonction publique territoriale conservent le bénéfice de la catégorie active à titre personnel s'ils ont accompli la durée minimale de services requise dans ces fonctions (soit 15 ans et 9 mois pour un départ en retraite en 2012). Ces agents conservent donc le droit à un départ anticipé en retraite à titre personnel. En conséquence, ce droit n'est pas conféré par la loi aux emplois qu'ils occupent dans la fonction publique territoriale et qui ne relèvent pas de la catégorie active. Par ailleurs, les risques de pénibilité et de dangerosité au travail sont liés aux conditions de travail. Le départ anticipé en retraite ne constitue pas la réponse la plus adéquate. La prévention doit être au cœur des solutions à apporter. Différents moyens peuvent être mis en œuvre pour identifier les risques, adapter les postes, aménager et organiser le travail, en particulier celui des seniors, développer la réorientation professionnelle et renforcer la politique de la santé et de la prévention au travail en améliorant la surveillance médicale des agents ainsi que la protection et la sensibilisation contre les risques d'accidents de service et les maladies professionnelles. Ces questions sont examinées dans le cadre de la concertation inscrite dans « l'agenda social » sur l'amélioration des conditions de vie au travail que le Gouvernement a engagée avec les organisations syndicales.
