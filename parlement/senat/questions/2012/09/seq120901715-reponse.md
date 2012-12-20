@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901715
+
+- Question : [SEQ120901715](seq120901715.md) — Reconnaissance de la Confédération française des retraités en tant qu'association agréée
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2012-12-20, page 2974*
+
+Le Gouvernement est très attaché à la participation des retraités et des personnes âgées aux instances qui traitent des problèmes les concernant. S'agissant de la branche vieillesse du régime général de la sécurité sociale, une représentation des personnes âgées et retraitées est assurée par l'une des personnes qualifiées nommées au sein de leur conseil d'administration (cf. 4° de l'article L. 215-2 du code de la sécurité sociale pour les caisses d'assurance retraite et de la santé au travail et 3° de l'article L. 222-5 du même code pour la caisse nationale d'assurance vieillesse des travailleurs salariés). Il en va de même aux conseils d'administration des caisses de retraite des professions non salariées (artisans, commerçants, avocats et la plupart des professions libérales) où les retraités sont représentés en tant que tels dans un collège spécifique. Enfin, la plupart des associations de retraités siègent au sein du Comité national des retraités et des personnes âgées (CNRPA), lequel est représenté par son vice-président au Conseil d'orientation des retraites (COR). Spécifiquement créé pour représenter les retraités auprès des pouvoirs publics, le CNRPA, notamment composé des représentants des principales associations y compris les unions syndicales de retraités affiliées aux organisations syndicales représentatives, est relayé par des comités départementaux et régionaux. Son rôle est d'assurer la participation des retraités et des personnes âgées à l'élaboration et la mise en œuvre de la politique sociale les concernant. Sur les seize associations et organisations composant le CNRPA, quatre sont des composantes de la confédération française des retraités (CFR).
