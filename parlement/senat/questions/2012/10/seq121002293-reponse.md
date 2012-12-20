@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002293
+
+- Question : [SEQ121002293](seq121002293.md) — Procédure applicable à l'obtention d'un bail emphytéotique administratif
+
+## Réponse
+
+*Intérieur, JO du 2012-12-20, page 3007*
+
+En matière de baux emphytéotiques administratifs (BEA), le juge administratif puis le législateur ont rappelé que le recours à cet instrument ne pouvait avoir pour vocation d'éluder l'application des règles de la commande publique. Le Conseil d'État, dans son arrêt du 10 juin 1994, Commune de Cabourg (n° 141633), avait déjà posé comme principe qu'un contrat de la commande publique (marché public, délégation de service public notamment) adossé à un BEA doit faire l'objet d'une publicité et d'une mise en concurrence préalables. L'article L. 1311-2 du code général des collectivités territoriales (CGCT), dans sa rédaction issue de la loi n° 2011-267 du 14 mars 2011 d'orientation et de programmation pour la performance de la sécurité intérieure (LOPPSI II), a consacré cette interprétation en disposant que les BEA doivent faire l'objet de telles formalités « le cas échéant », c'est-à-dire chaque fois que le droit national ou le droit communautaire de la commande publique l'exigent. Le décret n° 2011-2065 du 30 décembre 2011 relatif aux règles de passation des BEA a introduit dans le CGCT un article R. 1311-2 qui précise que lorsqu'un BEA est accompagné d'une convention non détachable constituant un contrat de la commande publique ou une concession de travaux publics, ou si un BEA contient des clauses non détachables permettant de déterminer un tel contrat, il doit faire l'objet des mesures de publicité et de mise en concurrence préalables applicables à ce même contrat. Il en résulte que les délais de procédure, et notamment les délais de remise des offres, sont ceux qui découlent des procédures auxquelles il est recouru pour les contrats de la commande publique correspondants.
