@@ -1,6 +1,6 @@
 # Article A I
 
-A. - I. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
+A-I. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
 de l'enseignement supérieur et de la recherche relevant de l'article 58 du décret du 3 décembre 1983 susvisé,
 
@@ -22,6 +22,8 @@ Localisation
 
 |
 
+|
+
 Aix-Marseille
 
 |
@@ -34,9 +36,9 @@ Rectorat
 
 |
 
-|
+Service départemental de l'éducation nationale des Bouches-du-Rhône
 
-Inspection académique des Bouches-du-Rhône |
+|
 
 1
 
@@ -50,29 +52,11 @@ Rectorat
 
 |
 
-1
+2
 
 |
 
-|
-
-Inspection académique de l'Oise |
-
-1
-
-|
-
-Bordeaux |
-
-Rectorat |
-
-1
-
-|
-
-|
-
-Inspection académique de la Gironde
+Service départemental de l'éducation nationale de l'Oise
 
 |
 
@@ -80,9 +64,33 @@ Inspection académique de la Gironde
 
 |
 
-Caen |
+Bordeaux
 
-Rectorat |
+|
+
+Rectorat
+
+|
+
+1
+
+|
+
+Service départemental de l'éducation nationale de la Gironde
+
+|
+
+1
+
+|
+
+Caen
+
+|
+
+Rectorat
+
+|
 
 2
 
@@ -100,25 +108,25 @@ Rectorat
 
 |
 
-|
+Service départemental de l'éducation nationale de Seine-et-Marne
 
-Inspection académique de Seine-et-Marne |
+|
 
 1
 
 |
 
-|
+Service départemental de l'éducation nationale de la Seine-Saint-Denis
 
-Inspection académique de Seine-Saint-Denis |
+|
 
 1
 
 |
 
-|
+Service départemental de l'éducation nationale du Val-de-Marne
 
-Inspection académique du Val-de-Marne |
+|
 
 1
 
@@ -128,23 +136,29 @@ Dijon
 
 |
 
-Rectorat |
-
-1
+Rectorat
 
 |
-
-Grenoble |
-
-Rectorat |
 
 2
 
 |
 
+Grenoble
+
 |
 
-Inspection académique de l'Isère |
+Rectorat
+
+|
+
+2
+
+|
+
+Service départemental de l'éducation nationale de l'Isère
+
+|
 
 1
 
@@ -154,15 +168,15 @@ Lille
 
 |
 
-Rectorat |
+Rectorat
+
+|
 
 2
 
 |
 
-|
-
-Inspection académique du Nord
+Service départemental de l'éducation nationale du Nord
 
 |
 
@@ -170,9 +184,9 @@ Inspection académique du Nord
 
 |
 
-|
+Service départemental de l'éducation nationale du Pas-de-Calais
 
-Inspection académique du Pas-de-Calais |
+|
 
 1
 
@@ -186,13 +200,11 @@ Rectorat
 
 |
 
-1
+2
 
 |
 
-|
-
-Inspection académique du Rhône
+Service départemental de l'éducation nationale du Rhône
 
 |
 
@@ -212,6 +224,14 @@ Rectorat
 
 |
 
+Service départemental de l'éducation nationale du Gard
+
+|
+
+1
+
+|
+
 Nancy-Metz
 
 |
@@ -224,9 +244,7 @@ Rectorat
 
 |
 
-|
-
-Inspection académique de la Moselle
+Service départemental de l'éducation nationale de la Moselle
 
 |
 
@@ -242,13 +260,11 @@ Rectorat
 
 |
 
-2
+3
 
 |
 
-|
-
-Inspection académique de la Loire-Atlantique
+Service départemental de l'éducation nationale de la Loire-Atlantique
 
 |
 
@@ -268,9 +284,7 @@ Rectorat
 
 |
 
-|
-
-Inspection académique des Alpes-Maritimes
+Service départemental de l'éducation nationale des Alpes-Maritimes
 
 |
 
@@ -278,9 +292,7 @@ Inspection académique des Alpes-Maritimes
 
 |
 
-|
-
-Inspection académique du Var
+Service départemental de l'éducation nationale du Var
 
 |
 
@@ -297,6 +309,14 @@ Rectorat
 |
 
 2
+
+|
+
+Service départemental de l'éducation nationale du Loiret
+
+|
+
+1
 
 |
 
@@ -336,9 +356,7 @@ Rectorat
 
 |
 
-|
-
-Inspection académique du Finistère
+Service départemental de l'éducation nationale du Finistère
 
 |
 
@@ -346,9 +364,7 @@ Inspection académique du Finistère
 
 |
 
-|
-
-Inspection académique d'Ille-et-Vilaine
+Service départemental de l'éducation nationale d'Ille-et-Vilaine
 
 |
 
@@ -380,9 +396,7 @@ Rectorat
 
 |
 
-|
-
-Inspection académique de la Seine-Maritime
+Service départemental de l'éducation nationale de la Seine-Maritime
 
 |
 
@@ -398,7 +412,7 @@ Rectorat
 
 |
 
-1
+2
 
 |
 
@@ -422,23 +436,11 @@ Rectorat
 
 |
 
-2
+3
 
 |
 
-|
-
-Inspection académique des Yvelines
-
-|
-
-1
-
-|
-
-|
-
-Inspection académique de l'Essonne
+Service départemental de l'éducation nationale des Yvelines
 
 |
 
@@ -446,9 +448,7 @@ Inspection académique de l'Essonne
 
 |
 
-|
-
-Inspection académique des Hauts-de-Seine
+Service départemental de l'éducation nationale de l'Essonne
 
 |
 
@@ -456,9 +456,7 @@ Inspection académique des Hauts-de-Seine
 
 |
 
-|
-
-Inspection académique du Val-d'Oise
+Service départemental de l'éducation nationale des Hauts-de-Seine
 
 |
 
@@ -466,8 +464,18 @@ Inspection académique du Val-d'Oise
 
 |
 
-Administration centrale |
+Service départemental de l'éducation nationale du Val-d'Oise
 
-2
+|
+
+1
+
+|
+
+Administration centrale
+
+|
+
+3
 
 |
