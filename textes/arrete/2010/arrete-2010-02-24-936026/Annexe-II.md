@@ -90,8 +90,6 @@ parfumante allergisante
 
 |
 
-NUMÉRO CAS
-
 |
 
 (1)
@@ -756,7 +754,7 @@ Extraits de mousse d'arbre
 
 Toutefois, la présence de traces de ces substances parfumantes est tolérée à condition qu'elle soit techniquement inévitable dans les bonnes pratiques de fabrication et qu'elle ne dépasse pas 100 mg/kg.
 
-2. Les substances parfumantes allergisantes suivantes sont indiquées sur le jouet, sur une étiquette jointe, sur l'emballage ou sur un feuillet d'accompagnement si elles ont été ajoutées au jouet, telles quelles, à des concentrations dépassant 100 mg/kg du jouet ou des composantes de celui-ci.
+2. Les substances parfumantes allergisantes suivantes sont indiquées sur le jouet, sur une étiquette jointe, sur l'emballage ou sur un feuillet d'accompagnement si elles ont été ajoutées au jouet, telles quelles, à des concentrations dépassant 100 mg / kg du jouet ou des composantes de celui-ci.
 
 N°
 
@@ -930,7 +928,7 @@ Sans préjudice des autres dispositions des 3 et 4 de la partie III "Propriété
 
 |
 
-MG / KG DE MATIÈRE
+MG/KG DE MATIÈRE
 
 de jouet sèche,
 
@@ -940,7 +938,7 @@ ou souple
 
 |
 
-MG / KG DE MATIÈRE
+MG/KG DE MATIÈRE
 
 de jouet liquide
 
@@ -948,7 +946,7 @@ ou collante
 
 |
 
-MG / KG DE MATIÈRE
+MG/KG DE MATIÈRE
 
 grattée du jouet
 
@@ -1038,17 +1036,15 @@ Cadmium
 
 |
 
-1, 9
+1, 3
 
 |
 
-0, 5
+0, 3
 
 |
 
-23
-
-|
+17 |
 
 Chrome (III)
 
