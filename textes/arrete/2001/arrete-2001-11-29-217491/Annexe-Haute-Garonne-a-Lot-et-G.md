@@ -472,9 +472,7 @@ par emploi
 
 |
 
-Chef de la cellule quartiers existants
-
-|
+Chef du service aménagement habitat environnement et construction |
 
 A
 
@@ -488,9 +486,7 @@ A
 
 |
 
-Chef du bureau financement et technique de la construction
-
-|
+Chef du bureau habitat accessibilité bâtiment durable |
 
 A
 
@@ -504,9 +500,7 @@ A
 
 |
 
-Adjoint au chef de la cellule quartiers existants
-
-|
+Chargé de suivi du PDALPD et financement ANRU |
 
 B
 
@@ -520,9 +514,7 @@ B
 
 |
 
-Adjoint au chef du bureau financement et technique de la construction
-
-|
+Instructeur ANAH |
 
 B
 
@@ -536,9 +528,7 @@ B
 
 |
 
-Responsable de l'animation du plan pour les plus défavorisés
-
-|
+Instructeur ANAH et gens du voyage/ habitat indigne |
 
 B
 
@@ -552,9 +542,7 @@ B
 
 |
 
-Suivi des contestations et des remises de dettes à la section départementale des aides publiques au logement
-
-|
+Chargé du suivi de la commission de conciliation et conventionnement public |
 
 C
 
@@ -568,9 +556,7 @@ C
 
 |
 
-Suivi des impayés de loyer à la section départementale des aides publiques au logement
-
-|
+Secrétaire du bureau habitat accessibilité bâtiment durable |
 
 C
 
@@ -963,3 +949,5 @@ B
 NOTA :
 
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
+
+Arrêté du 12 décembre 2012 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2012 pour le département du Jura.
