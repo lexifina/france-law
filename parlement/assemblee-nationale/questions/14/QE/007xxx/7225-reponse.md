@@ -1,0 +1,9 @@
+# Réponse à la question n° 7225
+
+- Question : [7225](7225.md) — Question n° 7225 — effectifs de personnel; Carcassonne
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Concernant les effectifs de magistrats, la circulaire de localisation 2012 prévoit 11 magistrats au siège du tribunal de grande instance de Carcassonne dont un vice-président et un juge chargés du tribunal d'instance. A ce jour, seul le poste de vice-président chargé du tribunal d'instance de Carcassonne est pourvu. Le poste de juge d'instance est donc vacant. Le tribunal de grande instance de Carcassonne compte cependant un vice-président en surnombre. Compte tenu de ce surnombre le président du tribunal de grande instance a la faculté de déléguer à l'instance l'un des magistrats du ressort de son tribunal en attendant que le poste de juge d'instance soit pourvu. Les services de la Chancellerie s'attacheront lors du prochain projet de mouvement à mettre les effectifs des magistrats des tribunaux d'instance et de grande instance de Carcassonne en conformité avec la circulaire de localisation des emplois. Concernant les effectifs de fonctionnaires, dans le cadre de la localisation des emplois au titre de l'année 2012 et au regard de la charge de travail du tribunal de grande instance de Carcassonne, le nombre de fonctionnaires a été fixé à 9 : 3 greffiers, 5 adjoints administratifs et 1 greffier en chef. L'effectif réel de cette juridiction est de 8 fonctionnaires : 2 greffiers en chef, 2 greffiers et 4 adjoints administratifs. Le tribunal d'instance de Carcassonne compte donc 1 vacance de poste de greffier, 1 vacance de poste d'adjoint administratif et 1 surnombre de greffier en chef. Les deux postes vacants sont publiés aux commissions administratives paritaires compétentes de fin d'année 2012. Ils seront pourvus dès que possible.
