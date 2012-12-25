@@ -1,0 +1,9 @@
+# Réponse à la question n° 283
+
+- Question : [283](283.md) — Question n° 283 — décret; publication
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Déléguée auprès de la ministre des affaires sociales et de la santé, la ministre déléguée en charge des personnes handicapées et de la lutte contre l'exclusion met en oeuvre la politique d'intégration dans la vie sociale et citoyenne, d'aide à l'autonomie, d'accompagnement et de prise en charge à domicile et en établissement des personnes handicapées. Elle suit la politique d'accessibilité au bénéfice des personnes handicapées. Elle met en oeuvre l'action du Gouvernement en matière de lutte contre la pauvreté et de minima sociaux. Elle participe à la définition et à la mise en oeuvre d'actions en matière d'insertion économique et sociale et d'innovation sociale. Elle est associée à la préparation des travaux du comité interministériel du handicap, du comité interministériel de lutte contre les exclusions et du conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale et suit l'exécution des décisions en ces matières. A ce titre, elle est notamment chargée du pilotage de la conférence nationale de lutte contre la pauvreté et pour l'inclusion sociale, qui se tiendra à Paris les 10 et 11 décembre 2012, et de la préparation du plan de lutte contre la pauvreté et pour l'inclusion sociale, qui sera annoncé courant janvier 2013. Elle est également chargée par le Premier ministre du suivi de l'application de la circulaire n° 5602/SG du 4 septembre 2012 demandant à l'ensemble des ministres d'inclure la prise en compte du handicap dans les projets de loi déposés au Parlement (ou, le cas échéant, de justifier l'absence de dispositions spécifiques). Elle a donc pour mission de faire en sorte que l'ensemble des politiques publiques contribuent à l'intégration des personnes handicapées.
