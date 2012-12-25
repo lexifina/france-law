@@ -1,0 +1,9 @@
+# Réponse à la question n° 8575
+
+- Question : [8575](8575.md) — Question n° 8575 — rémunérations; revalorisation
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Face aux difficultés et aux enjeux liés aux différents projets statutaires qui ont pu être proposés ces dernières années à l'ensemble des fonctionnaires des greffes (projet de fusion des corps des greffiers des services judiciaires et des secrétaires administratifs relevant du ministère de la justice et projet d'intégration du corps des greffiers dans le Nouvel espace statutaire de la catégorie B), la garde des sceaux, ministre de la justice souhaite que de nouvelles propositions d'évolutions statutaires puissent être rapidement étudiées. Toutefois, ces évolutions statutaires doivent s'effectuer à l'aune d'une réflexion sur les métiers de greffe et sur les missions des greffiers en chef et des greffiers ; réflexion qui s'inscrit elle-même dans le cadre d'une analyse plus globale sur l'office du juge et sur l'organisation judiciaire et territoriale. la garde des sceaux a confié à l'Institut des hautes études sur la justice une mission de réflexion autour de ces questions. Un groupe de travail est mis en place avec la direction des services judiciaires afin de faire des propositions sur l'assistance au magistrat et sur les missions des greffes. En outre, il convient de rappeler que les disparités indemnitaires existant actuellement entre les directions du ministère de la justice sont liées aux conditions et aux contraintes particulières dans lesquelles certains fonctionnaires sont amenés à exercer leurs fonctions, notamment en milieu carcéral. A ce titre, la problématique plus générale de l'harmonisation des différents régimes indemnitaires existants au sein du ministère de la justice doit aussi être engagée autour du secrétariat général via une réflexion inter-directionnelles.
