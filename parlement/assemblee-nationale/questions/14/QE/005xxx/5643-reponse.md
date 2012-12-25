@@ -1,0 +1,9 @@
+# Réponse à la question n° 5643
+
+- Question : [5643](5643.md) — Question n° 5643 — délivrance; sous-préfectures; maintien
+
+## Réponse
+
+*JO du 2012-12-25*
+
+La mise en place du certificat d'immatriculation au format SIV s'accompagne d'une volonté d'amélioration de la qualité du service et de simplification des démarches pour les usagers. Le nombre de points d'accès au service a été fortement augmenté dans le cadre de cette réforme. Ainsi, les usagers peuvent, depuis la mise en place du SIV, se rendre désormais dans n'importe quelle préfecture ou sous-préfecture délivrant des certificats d'immatriculation, quel que soit leur département d'origine. Par ailleurs, pour les opérations d'immatriculation d'un véhicule neuf, ou pour un changement de titulaire d'un véhicule (dit véhicule d'occasion), l'usager peut choisir de se présenter chez un des 20 000 professionnels de la vente automobile habilités ou toujours en préfecture ou en sous-préfecture. Ce recours aux professionnels de l'automobile pour l'instruction des demandes de certificat d'immatriculation évite à l'usager un déplacement en préfecture ou sous-préfecture et permet un gain de temps et de coûts de déplacement. S'agissant des opérations de demandes de changements d'adresse et de certificat de situation administrative (ancien certificat de non gage), il est désormais possible de les effectuer par internet sans avoir besoin de se rendre en préfecture ou en sous-préfecture. Enfin, il est toujours possible pour les usagers qui ne souhaiteraient ni se déplacer en préfecture ou sous-préfecture ni recourir aux services d'un professionnel de l'automobile de procéder par courrier. Ce dispositif a donc amélioré la qualité du service rendu aux usagers et simplifié l'accès de nos concitoyens aux formalités administratives tout en permettant la délivrance d'un certificat d'immatriculation sécurisé, ensuite adressé sous pli sécurisé par l'Imprimerie nationale au domicile de l'usager.
