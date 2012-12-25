@@ -1,0 +1,9 @@
+# Réponse à la question n° 8570
+
+- Question : [8570](8570.md) — Question n° 8570 — accès; réglementation
+
+## Réponse
+
+*JO du 2012-12-25*
+
+L'article 777 du code de procédure pénale prévoit que le bulletin n° 3 ne peut être délivré qu'à la seule personne qu'il concerne. La loi prohibe sa transmission directe à une tierce personne. Il appartient au seul détenteur du document de décider de l'adresser à un organisme extérieur, public ou privé. Pour accélérer et faciliter la délivrance du bulletin n° 3, le service du casier judiciaire national met à la disposition des usagers un service Internet de demande de bulletin, accessible en France et à l'étranger. L'extrait est alors établi en moins de 24 heures et adressé par voie postale au demandeur. Ce dispositif est connu des usagers puisqu'au 30 avril 2012, 91 % des bulletins n° 3 délivrés ont été demandés par internet. En outre, il ressort de l'article 6 § 3 de la décision cadre 2009/315/JAI du Conseil en date du 26 février 2009 concernant l'organisation et le contenu des échanges d'informations extraites du casier judiciaire entre les États membres, transposée en droit interne par la loi du 27 mars 2012 de programmation relative à l'exécution des peines, qu'un ressortissant français peut désormais s'adresser au service du casier judiciaire d'un des 26 autres États de l'Union européenne pour obtenir son bulletin n° 3. Outre la rapidité de cette délivrance grâce au réseau informatique mis en place entre les casiers judiciaires des États partenaires, la décision cadre rappelle que ce dispositif doit faciliter la compréhension des informations transmises et leur traduction automatique. Le bulletin ainsi délivré comportera un certain nombre de données traduites dans la langue de l'État où la demande a été faite. Ce dispositif européen est entré en vigueur le 27 avril 2012.
