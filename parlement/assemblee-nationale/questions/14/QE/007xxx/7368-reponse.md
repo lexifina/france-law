@@ -1,0 +1,9 @@
+# Réponse à la question n° 7368
+
+- Question : [7368](7368.md) — Question n° 7368 — validation de trimestres; réglementation
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Le décret n° 2012-847 du 2 juillet 2012 relatif à l'âge d'ouverture du droit à pension de vieillesse prévoit l'ouverture du droit à la retraite anticipée à soixante ans pour les assurés justifiant de la durée d'assurance cotisée requise pour leur génération et ayant commencé à travailler avant vingt ans. Ceci revient à réduire de deux ans la condition de durée d'assurance exigée, par la suppression de la majoration de huit trimestres précédemment en vigueur. De plus, la condition de début d'activité a été étendue aux assurés ayant commencé avant 20 ans et pas seulement avant 18 ans. Le nombre de trimestres « réputés cotisés » est élargi : le nouveau dispositif ajoute aux quatre trimestres de service national et quatre trimestres de maladie, maternité, accidents du travail, précédemment retenus, deux trimestres de périodes de chômage indemnisé et deux trimestres supplémentaires liés à la maternité. La mise en oeuvre effective de ce dispositif intervient pour les départs à la retraite à compter du 1er novembre 2012. Cet élargissement du dispositif de retraite anticipée pour carrières longues a donc nettement amélioré la prise en compte des aléas de carrière des assurés, tout en maintenant un lien étroit entre retraite anticipée et longue activité de l'assuré. Comme indiqué dans la feuille de route adoptée à l'issue de la grande conférence sociale des 9 et 10 juillet 2012, une phase de concertation avec les partenaires sociaux, à partir du printemps 2013, aura lieu sur les orientations à retenir pour l'avenir de notre système de retraite. Elle portera notamment sur les instruments mobilisés pour atteindre l'objectif d'équité, qui constitue l'un des enjeux essentiels du système de retraite par répartition.
