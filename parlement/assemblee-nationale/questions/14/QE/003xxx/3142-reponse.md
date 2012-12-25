@@ -1,0 +1,9 @@
+# Réponse à la question n° 3142
+
+- Question : [3142](3142.md) — Question n° 3142 — cartes bancaires; fraudes; lutte et prévention
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Le fait de fabriquer, de détenir ou d'offrir des moyens de falsification ou de contrefaçon de carte de paiement est constitutif d'une infraction prévue par le code monétaire et financier. Constitue également une infraction le fait de contrefaire, de falsifier ou de faire usage d'une carte de paiement contrefaite ou falsifiée. Ces infractions sont punies de sept ans d'emprisonnement et de 750 000 € d'amende. Ces peines sont portées à dix ans d'emprisonnement et à 1 000 000 € d'amende lorsqu'elles sont commises en bande organisée. Les personnes déclarées coupables en tant qu'auteur ou complice peuvent, à titre complémentaire, être condamnées à une ou plusieurs peines ayant notamment pour finalité d'éviter la réitération de l'infraction. Il peut ainsi être prononcé une interdiction d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Le tribunal peut également ordonner la confiscation des matières, machines, appareils, instruments et programmes informatiques ayant servis à la fabrication des cartes de paiement contrefaites ou falsifiées. Le cas échéant, la responsabilité pénale des personnes morales peut être engagée dans les conditions du droit commun. Enfin, les personnes ayant personnellement souffert du dommage directement causé par ces infractions peuvent se constituer partie civile, aux fins d'obtenir une indemnisation. Il n'est pas possible de communiquer d'éléments statistiques concernant le nombre d'individus ayant été déférés à ce titre pour l'année 2011. Toutefois, concernant l'année 2010, il peut être indiqué que ce type d'agissements - tous chefs d'infractions confondus - a donné lieu à 367 condamnations devant les tribunaux français.
