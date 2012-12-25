@@ -1,0 +1,9 @@
+# Réponse à la question n° 6563
+
+- Question : [6563](6563.md) — Question n° 6563 — associations; financements publics; pérennité
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Comme la ministre déléguée chargée des personnes handicapées et de la lutte contre l'exclusion s'y était engagée lors de la séance du conseil national consultatif des personnes handicapées (CNCPH) du 20 juin 2012, ses services ont reçu le 17 juillet 2012 l'association nationale des centres régionaux pour l'enfance et l'adolescence inadaptées (CREAI) afin de lui faire part des résultats de l'enquête sur les CREAI menée en décembre 2011 auprès des agences régionales de santé (ARS) et des directions régionales de la jeunesse, des sports, et de la cohésion sociale (DRJSCS) et des suites que la ministre compte y donner. Les résultats de cette enquête n'ont fait que confirmer l'intérêt et le rôle majeur des CREAI en matière d'expertise et d'apport de connaissance dans le champ des politiques médico-sociales, sociales et de la santé. Cette conviction a amené la ministre des affaires sociales et de la santé à considérer comme prioritaire le financement de ces structures dans le cadre du projet de loi de finances pour 2013, actuellement en cours de débat au Parlement. Des pistes de financement complémentaires sont en outre à l'étude. Il semble indispensable d'engager avec l'association nationale des CREAI une réflexion approfondie sur l'évolution des relations entre ces structures et l'Etat, afin de rendre plus efficientes leur position et leur expertise sur les territoires dans le champ de l'action sociale et médico-sociale. A cette fin, la ministre des affaires sociales de la santé a chargé les services compétents du pilotage d'un groupe de travail, associant, aux côtés de l'association nationale des CREAI, notamment la caisse nationale de solidarité pour l'autonomie (CNSA) et quelques ARS et DRJSCS. Le groupe rendra ses propositions au début de l'année 2013.
