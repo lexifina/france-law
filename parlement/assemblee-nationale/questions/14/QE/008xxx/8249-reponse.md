@@ -1,0 +1,9 @@
+# Réponse à la question n° 8249
+
+- Question : [8249](8249.md) — Question n° 8249 — fermeture; conséquences
+
+## Réponse
+
+*JO du 2012-12-25*
+
+La convention relative aux Trains d'équilibre du territoire (TET), signée en 2010, prévoyait, que « Le Cévenol » s'arrêterait à compter de 2013 à Nîmes, où les passagers pourraient emprunter le TER. Cette disposition répondait notamment à la difficulté de tracer les sillons entre Nîmes et Marseille, réseau saturé, faisant l'objet de nombreux travaux de rénovation et de modernisation, et où il existe une offre ferroviaire alternative importante et notamment des TER. Cette limitation à Nîmes n'est en aucun cas une anticipation d'une suppression du Cévenol. Le Gouvernement est déterminé à maintenir ce train. Ainsi, pour la période 2007-2014, 62 millions sont consacrés au renouvellement et au développement de la ligne Clermont-Nîmes dans le cadre des contrats de projets ou du plan-rail Auvergne, et en moyenne 13 millions d'euros sont affectés chaque année à la maintenance de cette ligne. Le Cévenol a une fonction d'aménagement du territoire entre Clermont-Ferrand et Nîmes et il la conservera. Cette limitation à Nîmes aurait dû être l'occasion de mieux articuler les services TER et TET. Cependant, les correspondances qu'il est prévu de mettre en oeuvre en gare de Nîmes ne sont pas satisfaisantes, notamment dans le sens Marseille-Nîmes. La SNCF doit examiner les améliorations qui pourront être techniquement apportées à la desserte. L'entreprise estime que la fin des travaux sur le viaduc de Courbessac en avril 2013 améliorera l'exploitation de la gare de Nîmes, redonnant un peu de souplesse en termes de circulations. La SNCF doit, à la demande du ministre délégué chargé des transports, de la mer et de la pêche, présenter rapidement des propositions afin d'améliorer, en avril 2013, la desserte dans le sens Marseille-Nîmes-Clermont.
