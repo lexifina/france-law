@@ -1,0 +1,9 @@
+# Réponse à la question n° 6320
+
+- Question : [6320](6320.md) — Question n° 6320 — prise en charge; réglementation
+
+## Réponse
+
+*JO du 2012-12-25*
+
+La prise en charge des frais de transports par l'assurance maladie répond à la nécessité de couvrir les frais des personnes se trouvant dans l'obligation de se déplacer pour recevoir les soins ou les traitements appropriés à leur état. Elle est encadrée par un référentiel de prescription arrêté par le ministre chargé de la sécurité sociale (arrêté du 23 décembre 2006). Ce référentiel précise les modes de transport pouvant être prescrits en fonction de l'état de santé du patient et de l'importance de ses déficiences et incapacités. L'article R.322-10 du code de la sécurité sociale fixe les situations dans lesquelles un transport peut être prescrit. Il s'agit notamment des transports liés à une hospitalisation, des transports liés aux traitements ou examens des personnes reconnues atteints d'une affection de longue durée (ALD), des transports par ambulance justifiés par l'état du malade tel qu'apprécié sur la base du référentiel des transports en un lieu distant de plus de 150 km, des transports en série lorsque le nombre de transports prescrits au titre d'un même traitement est au moins égal à quatre au cours d'une période de deux mois et que chaque transport est effectué vers un lieu distant de plus de 50 km. Le décret du 10 mars 2011, entré en vigueur le 1er avril 2011, a précisé que le motif de prise en charge des transports liés au traitement ou examen des patients en ALD était conditionné au fait que l'état de santé du patient justifie un transport, au regard des déficiences ou incapacités présentées par l'assuré. Toutefois les frais de transport pour se rendre en centre d'hémodialyse, pour soins en chimiothérapie ou radiothérapie, des patients atteints d'une affection longue durée sont pris en charge au titre de l'hospitalisation par l'assurance maladie, quel que soit l'état de santé.
