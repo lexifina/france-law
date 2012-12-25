@@ -1,0 +1,9 @@
+# Réponse à la question n° 5404
+
+- Question : [5404](5404.md) — Question n° 5404 — actions de prévention; développement
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Les données scientifiques concernant les décès prématurés avant 65 ans montrent une part importante de décès évitables, notamment ceux liés au tabagisme, à certaines maladies cardio-vasculaires. C'est pourquoi des actions de prévention doivent être mises en place. S'agissant des actions de prévention sanitaire et de promotion de la santé, une stratégie nationale de santé sera définie en 2013, avec pour vocation de structurer et piloter l'ensemble de ces actions menées et financées sur le territoire. Elle définira les grandes priorités de santé publique, les moyens d'actions et les résultats attendus. Dans le cadre de ses missions, la direction générale de la santé a mis l'accent sur le renforcement de la prévention et de la promotion de la santé. Ce travail s'appuie sur les nombreuses analyses convergentes consacrées à la politique de prévention au cours des années écoulées, en dernier lieu par la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale (MECSS) dans son rapport de février 2012. Un des objectifs sera de favoriser les interventions au plus près des lieux de vie de la population. C'est en effet au niveau local (commune, école, lieu de l'activité professionnelle, lieu d'insertion...) que l'on peut obtenir la connaissance la plus fine des besoins et que l'on peut développer des actions et des outils innovants adaptés aux caractéristiques de chaque groupe de la population et efficaces pour réduire les inégalités de santé. En particulier, l'école, dans l'accomplissement de sa mission éducative, mais aussi comme milieu de vie le plus important après la famille, exerce une grande influence sur le développement des aptitudes des enfants et des jeunes. Le rôle des structures et des réseaux de santé de proximité devra également être développé.
