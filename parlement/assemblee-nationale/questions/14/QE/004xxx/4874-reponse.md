@@ -1,0 +1,9 @@
+# Réponse à la question n° 4874
+
+- Question : [4874](4874.md) — Question n° 4874 — droits des malades; fin de vie
+
+## Réponse
+
+*JO du 2012-12-25*
+
+L'accompagnement des personnes en fin de vie est une préoccupation qui concerne tous les citoyens et qui, à l'occasion de certains cas particulièrement difficiles et douloureux, interroge toute la société. La loi du 9 juin 1999 vise à garantir le droit à l'accès aux soins palliatifs et favorise une approche soignante soucieuse de la qualité des derniers jours, le soulagement de la douleur, l'apaisement des souffrances dans un environnement favorable à la relation avec les proches. La loi du 22 avril 2005 relative aux droits des malades et à la fin de vie propose des réponses adaptées aux circonstances parfois complexes de la mort médicalisée. Elle constitue une avancée certaine en condamnant l'acharnement thérapeutique, en renforçant les soins palliatifs et en mettant en place les conditions pour que le patient, ou à défaut une personne de confiance, puisse faire valoir son souhait. En phase avancée ou terminale d'une affection grave et incurable, les décisions de limitation ou d'arrêt des traitements justifient des procédures collégiales, transparentes et respectueuses du choix de la personne. La loi admet expressément que, pour soulager les souffrances d'une personne en fin de vie, un traitement contre la douleur ayant pour effet secondaire d'abréger la vie, peut être entrepris. La mission sur la fin de vie présidée par le professeur Didier Sicard a été instaurée par le Président de la République le 17 juillet 2012. Elle est chargée de mener un travail de réflexion et de concertation intégrant la pluridisciplinarité des approches en organisant des débats citoyens en région. L'achèvement de ces travaux est prévu pour la fin de l'année 2012 et des propositions sont attendues, notamment s'agissant des évolutions souhaitables.
