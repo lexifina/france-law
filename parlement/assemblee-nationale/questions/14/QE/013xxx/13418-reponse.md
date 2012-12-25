@@ -1,0 +1,9 @@
+# Réponse à la question n° 13418
+
+- Question : [13418](13418.md) — Question n° 13418 — régime fiscal et social; réforme; conséquences
+
+## Réponse
+
+*JO du 2012-12-25*
+
+L'option pour l'assiette forfaitaire ouverte au bénéfice des particuliers employeurs que le Gouvernement a proposé de supprimer à l'article 15 du projet de loi de financement de la sécurité sociale (PLFSS) pour 2013 est un dispositif pénalisant pour les salariés concernés, puisqu'il réduit les cotisations versées par l'employeur et, par voie de conséquence, les droits sociaux contributifs acquis (retraite, indemnités journalières, chômage). Par exemple, pour une femme née en 1960, ayant effectué toute sa carrière dans les services à la personne, en étant rémunérée à 1,1 SMIC, maintenir le forfait pour les 10 ans à venir revient à réduire sa pension future de 135 € par mois. Au plan des principes, la possibilité donnée à l'employeur de choisir le niveau de sa participation au financement de la protection sociale et le niveau de la couverture sociale de son salarié n'est pas justifiée. En outre, le dispositif dont il s'agit a été jugé « peu efficient » au regard de son bilan coût-avantage par le comité d'évaluation des dépenses fiscales et des niches sociales, dans son rapport de 2011. La préoccupation visant à ne pas renchérir le coût du travail pour les employeurs et à les inciter au respect des obligations déclaratives est toutefois légitime. C'est pourquoi le dispositif prévu par l'article 15 du PLFSS a été complété, en première lecture, à l'Assemblée nationale, d'un mécanisme d'exonération forfaitaire : pour chaque heure effectuée, le particulier employeur pourra déduire 0,75 € du montant des cotisations patronales soit l'équivalent de 8 points de cotisations au niveau du SMIC. Par ailleurs, les avantages fiscaux dont bénéficient les particuliers employeurs restent inchangés.
