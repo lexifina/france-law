@@ -1,0 +1,9 @@
+# Réponse à la question n° 192
+
+- Question : [192](192.md) — Question n° 192 — pérennité; Douai
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Le palais de justice de Douai héberge la cour d'appel et le tribunal de grande instance. En 2003, une étude de faisabilité a été diligentée pour la restructuration de ce palais et la réorganisation des juridictions de Douai. L'extension de la cour d'appel, qui a été confiée à l'Agence publique pour l'immobilier de la justice (APIJ), est actuellement en phase d'études. Le maître d'oeuvre, qui a été sélectionné sur concours, a présenté l'avant-projet sommaire (APS) en juillet 2012. Depuis 2005, le tribunal de grande instance de Lille occupe l'intégralité du palais de justice. Cet immeuble de grande hauteur, construit en 1968, a fait l'objet en septembre 2002 de la part de la commission de sécurité d'un avis défavorable à la poursuite de son exploitation, compte tenu des risques d'incendie liés au fort potentiel calorifique existant (immobilier et mobilier). L'opération de réhabilitation/restructuration avec mise aux normes, qui nécessite la réalisation d'importants travaux, a été confiée à l'APIJ. L'intervention de la maire de Lille auprès de l'ancien garde des sceaux ainsi que les difficultés rencontrées pour reloger la juridiction pendant la durée du chantier ont conduit à envisager la construction d'un nouveau palais de justice susceptible d'héberger également le tribunal d'instance. A aucun stade de ce projet, il n'a été envisagé d'intégrer la construction de locaux susceptibles d'accueillir les services de la cour d'appel de Douai afin de la relocaliser à Lille. Les études diligentées par l'APIJ tant pour les juridictions de Douai que pour celles de Lille sont réalisées sur la base des implantations judiciaires actuelles. Le transfert de la cour d'appel à Lille nécessiterait une modification du code de l'organisation judiciaire qui n'est pas d'actualité.
