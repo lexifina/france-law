@@ -1,0 +1,9 @@
+# Réponse à la question n° 11460
+
+- Question : [11460](11460.md) — Question n° 11460 — armes; contrôle
+
+## Réponse
+
+*JO du 2012-12-25*
+
+La conférence des Nations Unies de juillet 2012 en vue d'un traité sur le commerce des armes s'est terminée sans qu'un accord ait pu être trouvé. La France et une majorité de ses partenaires a souhaité poursuivre le travail et reprendre les négociations. La Première commission de l'Assemblée générale des Nations Unies a voté le 7 novembre dernier une résolution convoquant une nouvelle conférence du 18 au 28 mars prochain, à New York. Cette résolution, coparrainée par la France, a reçu une grande majorité de soutien. 157 Etats, dont la Chine et les Etats-Unis, ont voté en faveur et aucune délégation n'a voté contre. Ce vote illustre la volonté des membres de la communauté internationale de reprendre et terminer le travail commencé en juillet. Les négociations de mars se feront selon la règle du consensus et sur la base du projet de texte élaboré par la présidence lors de la conférence de juillet. Ce projet de traité comporte les éléments essentiels du texte tel que la France le souhaite : buts et objectifs clairs et ambitieux, définition large des équipements concernés, paramètres et modalités précis de mise en oeuvre. Comme la France le prône, les munitions et technologies entrent également dans le cadre de ce projet de traité, tout comme la prise en compte des droits de l'Homme et du droit international humanitaire. La France reste déterminée et très engagée dans ce processus, visant à établir des normes communes pour réglementer le commerce de l'armement et lutter contre les trafics. Elle continue à mener des actions auprès des acteurs du commerce de l'armement, mais aussi auprès des représentants de la société civile (organisations non gouvernementales ou industries. ) Elle se concerte avec l'ensemble de ses partenaires et est déterminée à oeuvrer pour que cette nouvelle étape soit un succès.
