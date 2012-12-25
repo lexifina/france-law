@@ -1,0 +1,9 @@
+# Réponse à la question n° 8065
+
+- Question : [8065](8065.md) — Question n° 8065 — parlements nationaux; contrôle
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Le traité de Lisbonne renforce la coopération interparlementaire en matière de suivi de la politique de sécurité et de défense commune. Si la politique de sécurité et de défense commune reste soumise à des règles et procédures spécifiques qui excluent l'adoption d'actes législatifs, le traité reconnaît au Parlement européen et aux parlements nationaux un droit d'information et de suivi sur ces politiques. Ainsi, le protocole n° 1 sur le rôle des parlements nationaux dans l'Union européenne stipule, dans son article 9 que « le Parlement européen et les parlements nationaux définissent ensemble l'organisation et la promotion d'une coopération interparlementaire efficace et régulière au sein de l'Union ». Il prévoit également, dans son article 10, la possibilité d'organiser des « conférences interparlementaires sur des thèmes particuliers, notamment pour débattre des questions de politique étrangère et de sécurité commune, y compris la politique de sécurité et de défense commune », sans en définir les modalités pratiques. Sur cette base, des travaux se sont engagés pour définir le cadre et les modalités de la coopération interparlementaire entre le Parlement européen et les parlements nationaux et une première conférence interparlementaire a pu être organisée sur ces questions sous présidence chypriote à Chypre du 9 au 12 septembre 2012 avec notamment la participation de Mme Ashton et de six parlementaires français. Le gouvernement suit avec attention les progrès de ces travaux de définition et de mise en place conduits par les parlementaires. C'est aussi en lien avec ces travaux que la proposition d'instaurer chaque trimestre une séance de questions d'actualité consacrée aux questions internationales et à la politique étrangère doit être envisagée.
