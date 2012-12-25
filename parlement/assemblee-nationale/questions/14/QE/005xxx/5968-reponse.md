@@ -1,0 +1,9 @@
+# Réponse à la question n° 5968
+
+- Question : [5968](5968.md) — Question n° 5968 — Air France; franchise bagages
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Les compagnies Air France et Corsair ont en effet modifié leur politique en matière de transport de bagages en soute sur les vols entre la métropole et les départements d'outre-mer qu'elles desservent pour ne plus accepter, sans frais additionnel, qu'un unique bagage de 23 kg maximum en classe économique. La compagnie Air Caraïbes a fait de même et appliquera la même franchise sur les bagages accompagnés à l'exception de ses vols transatlantiques au départ et à destination de Cayenne pour lesquels elle maintient une franchise en classe économique de deux bagages de 23 kg. Les trois compagnies ont toutefois maintenu une franchise de deux bagages de 23 kg en classe économique, pour certains tarifs : dans le cadre des congés bonifiés, du passeport mobilité, pour des administrations et des étudiants pour Air France, à l'attention des étudiants pour Corsair et à l'attention des jeunes de 12 à 24 ans pour Air Caraïbes. Ces décisions des compagnies françaises s'inscrivent notamment dans un alignement sur la politique en matière de bagages de la compagnie XL Airways France qui débutera sa desserte des Antilles et de la Réunion en décembre prochain. Il convient de noter que l'arrivée de cette compagnie a également conduit Air France, Corsair et Air Caraïbes à diminuer leurs tarifs sur les Antilles. Particulièrement attaché à ce que ces départements disposent d'une desserte de qualité et d'une offre tarifaire adaptée, le ministre chargé des transports a invité les dirigeants d'Air France et de Corsair à porter une grande attention à la question de leur politique en matière de bagages et à mieux prendre en compte dans leurs décisions la spécificité des liaisons de continuité territoriale vers l'outre-mer.
