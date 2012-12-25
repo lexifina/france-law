@@ -1,0 +1,9 @@
+# Réponse à la question n° 2922
+
+- Question : [2922](2922.md) — Question n° 2922 — sports d'hiver; travailleurs saisonniers; données statistiques
+
+## Réponse
+
+*JO du 2012-12-25*
+
+La connaissance de données concernant l'origine géographique des travailleurs saisonniers des stations de sports d'hiver peut effectivement constituer une source d'informations utile à divers institutions et organismes locaux. Le collationnement et l'analyse de ce type de données peuvent, le cas échéant, s'inscrire dans le cadre des axes d'intervention des maisons de l'emploi précisés dans le cahier des charges publiées dans l'arrêté du 21 décembre 2009. On rappellera ainsi que l'axe 1 de ce cahier des charges « développer une stratégie territoriale partagée » prévoit que, en s'appuyant sur des outils et travaux existants aux niveaux local et régional -issus de Pôle emploi, de la direction de l'animation de la recherche, des études et des statistiques (DARES), de l'institut national de la statistique et des études économiques (INSEE) etc.-, les maisons de l'emploi peuvent élaborer un diagnostic territorial susceptible d'être diffusé aux acteurs locaux dans un souci d'appropriation des réalités locales. En outre, l'axe 3 (« contribution au développement de l'emploi local ») prévoit que les maisons de l'emploi doivent « coordonner, animer et produire une information spécifique déjà existante au niveau local, mais éclatée entre les différents acteurs territoriaux intervenant dans le champ de la politique de l'emploi ». L'objectif est, dans ce cadre, de fluidifier la transmission d'informations et les relations entre les différents acteurs sur le territoire. Dès lors, il appartient aux structures présentes localement de s'investir sur de tels sujets afin de diffuser toute information utile aux acteurs locaux.
