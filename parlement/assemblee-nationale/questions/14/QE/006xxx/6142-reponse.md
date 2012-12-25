@@ -1,0 +1,9 @@
+# Réponse à la question n° 6142
+
+- Question : [6142](6142.md) — Question n° 6142 — cambriolages; statistiques; Rhône
+
+## Réponse
+
+*JO du 2012-12-25*
+
+Au cours des dix dernières années, l'évolution de la délinquance constatée par les services de police et de gendarmerie dans le Rhône s'établit comme suit. De 2002 à 2011, les atteintes aux biens ont diminué de 34,57 % (71 390 faits constatés en 2011, contre 109 108 faits constatés en 2002), soit davantage qu'au niveau national (- 29,83 %). S'agissant des cambriolages (cambriolages de résidences principales ; de résidences secondaires ; de locaux industriels, commerciaux et financiers ; de divers lieux : caves, fret, matériel agricole...), ils ont baissé de 40,69 % (10 982 faits constatés en 2011, contre 18 364 faits constatés en 2002), soit une diminution plus marquée que celle observée sur le plan national (- 22,94 %). Ces chiffres sont l'occasion de souligner que le ministre de l'intérieur a décidé de rénover et de renforcer la fiabilité de la statistique publique de la délinquance, les agrégats utilisés jusqu'à présent pouvant susciter des réserves. Si les indicateurs statistiques demeureront, constituant un outil indispensable pour le pilotage et l'évaluation des services, ils seront revus et affinés, et l'appareil statistique de la délinquance sera réformé pour garantir sa totale transparence. Des travaux ont été engagés au sein du ministère de l'intérieur et feront l'objet d'une large consultation avec les acteurs concernés : INSEE, Observatoire national de la délinquance et des réponses pénales, inspections générales, Parlement, etc. Par ailleurs, sous l'autorité du Premier ministre et sur la base des travaux du Parlement, l'indépendance de l'Observatoire national de la délinquance et des réponses pénales sera renforcée. Au terme de ces travaux, un nouveau format de pilotage institutionnel et opérationnel, plus exhaustif et plus transparent, devrait être adopté en 2013.
