@@ -932,7 +932,7 @@ la certification
 
 |
 
-1 contrôle/ an
+1 contrôle/an
 
 1 contrôle annuel spécifique à la
 
@@ -992,17 +992,9 @@ bénéficiaires)
 
 |
 
-UFA certifiées GBP AC :
+Pour les UFA certifiées GBP AC : un contrôle/an/site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le "protocole de contrôle documentaire pour les usines certifiées GBP AC " (*).
 
-1 contrôle documentaire par sondage du respect des contraintes de formulation, par site de fabrication et par an
-
-Ne nécessite pas de déplacement sur site.
-
-L'organisme certificateur convient d'un rendez-vous téléphonique avec le fabricant d'aliment afin d'organiser la transmission sans délai des informations (formules ouvertes et journaux de dosages). En cas de non conformité avérée, l'organisme certificateur pourra procéder à un contrôle sur site.
-
-UFA non-certifiées GBP AC :
-
-1 audit/an des exigences explicites décrites dans le cahier des charges
+Pour les UFA non certifiées GBP AC : un audit/an des exigences explicites décrites dans le cahier des charges.
 
 |
 
@@ -1022,7 +1014,7 @@ Fournisseur
 
 |
 
-1 contrôle interne / an
+1 contrôle interne/an
 
 (Si non réalisé en interne, ajoute
 
@@ -1109,3 +1101,5 @@ Fournisseur
 En cas d'exigence explicite ou de recommandation innovante à réaliser en point de vente : 10% des points de vente en simple ou en double rayon
 
 |
+
+(*) Document consultable sur le site internet du CEPRAL.
