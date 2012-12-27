@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002564
+
+- Question : [SEQ121002564](seq121002564.md) — Discrimination linguistique par les institutions de l'Union européenne
+
+## Réponse
+
+*Francophonie, JO du 2012-12-27, page 3077*
+
+Le traité de Lisbonne, entré en vigueur le 1er décembre 2009, réaffirme plusieurs principes relatifs à la protection du multilinguisme au sein de l'Union européenne. La diversité linguistique revêt en effet pour l'Union européenne un caractère fondamental. L'Union doit en particulier permettre aux citoyens européens d'accéder à la législation et aux informations européennes dans leur propre langue. C'est ainsi que la législation et les documents d'importance politique doivent être présentés dans toutes les langues officielles. À l'occasion de la dernière journée européenne des langues, le vice-président du Parlement européen en charge du multilinguisme, M. Miguel Angel Martinez, a fait part de son soutien inconditionnel à la diversité linguistique. En dépit de ces déclarations, une dégradation en termes d'accès aux documents législatifs et d'importance politique dans les différentes langues de travail de l'Union (et notamment le Français) a été observée au Parlement européen. Bien que l'augmentation de l'activité législative du Parlement européen consécutive à l'entrée en vigueur du Traité de Lisbonne puisse partiellement expliquer certains retards en termes de traduction, la France déplore vivement les difficultés que peuvent rencontrer les parlementaires pour accéder aux documents de travail dans leur langue maternelle. Aussi, les autorités françaises ne manqueront pas, comme elles le font régulièrement, de rappeler l'exigence de respect du multilinguisme lors de ses futurs échanges avec l'administration du Parlement européen. Il en va non seulement du bon fonctionnement de l'activité législative mais aussi de la crédibilité du Parlement européen.
