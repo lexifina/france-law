@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120801321
+
+- Question : [SEQ120801321](seq120801321.md) — Adapatation du code du travail aux besoins du service dans les écoles
+
+## Réponse
+
+*Éducation nationale, JO du 2012-12-27, page 3070*
+
+Depuis le 1er janvier 2010, le contrat unique d'insertion (CUI), créé par la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active (RSA) et réformant les politiques d'insertion, se substitue aux contrats d'accompagnement dans l'emploi concomitamment à l'extinction du dispositif du CAV et du CAE. Il est régi par les articles L. 5134-19-1 à L. 5134-34 et D. 5134-14 à R. 5134-50 du code du travail. Il est conclu pour une durée minimale de six mois et renouvelable dans la limite d'une durée totale de vingt-quatre mois. Les personnels recrutés sous contrat aidé relèvent des dispositions du code du travail qui encadre strictement les durées et les conditions de renouvellement de ces contrats. La durée hebdomadaire de travail du titulaire d'un CUI-CAE ne peut être inférieure à vingt heures, conformément à l'article L. 5134-26 du code du travail ; elle peut, cependant, être modulée sur tout ou partie de la période couverte par le contrat, à condition que celle-ci ne soit pas supérieure à la durée légale hebdomadaire de 35 heures et que cela soit mentionné dans le contrat de travail. La modulation du temps de travail est sans incidence sur le calcul de la rémunération due au salarié, le nombre d'heures de travail effectuées devant être égal à la durée de travail mentionnée dans le contrat. Lorsque cette modulation est mise en place, le contrôle du nombre d'heures de travail effectuées est réalisé au terme du contrat. Dans ces conditions, il ne paraît pas nécessaire de proposer de réforme du code du travail spécifique pour les missions scolaires.
