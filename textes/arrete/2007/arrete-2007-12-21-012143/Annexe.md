@@ -2,8 +2,6 @@
 
 EXIGENCES ET RECOMMANDATIONS APPLICABLES À LA CERTIFICATION DE CONFORMITÉ DE LA VIANDE DE LAPIN (1)
 
-(1) Voir in fine le tableau des abréviations.
-
 Les exigences sont les règles de production, de transformation et de conditionnement d'un produit ou d'une famille de produits qui s'imposent à l'opérateur souhaitant obtenir une certification de conformité.
 
 Elles sont constituées de spécifications propres à la demande de certification et au produit concerné et peuvent intégrer les chartes professionnelles d'application volontaire.
@@ -26,6 +24,8 @@ Chaque cahier des charges décrit ses propres caractéristiques et les moyens de
 
 ― de l'ensemble des éléments retenus.
 
+(1) Voir in fine le tableau des abréviations.
+
 1re exigence
 
 relative au schéma de vie du produit
@@ -34,9 +34,219 @@ En raison de la nature du produit, dont la qualité finale dépend d'une success
 
 Exemple de schéma de vie
 
-Vous pouvez consulter le tableau dans le JO
+ETAPES A DECRIRE
 
-n° 8 du 10/01/2008 texte numéro 12
+|
+
+EXIGENCES DU PRODUIT
+
+courant
+
+|
+
+CARACTERISTIQUES CERFIFIEES
+
+|
+
+Référentiels collectifs
+
+nationaux et (le cas échéant),
+
+interprofessionnels Contrat de
+
+progrès sanitaire
+
+|
+
+Caractéristique
+
+obligatoire non
+
+communicante
+
+|
+
+Caractéristique
+
+certifiée n° 1
+
+|
+
+Caractéristique
+
+certifiée n° 2
+
+|
+
+Ex :
+
+Bien-être animal
+
+|
+
+Ex: Respect des
+
+bonnes pratiques
+
+d'élevage
+
+|
+
+Ex. :Caractéristique
+
+relative à
+
+l'alimentation
+
+animale
+
+|
+
+Sélection
+
+(description des souches
+
+ou croisements utilisés)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Phase de reproduction
+
+(saillies naturelles ou
+
+insémination artificielle)
+
+|
+
+|
+
+|
+
+|
+
+Naissance des lapereaux
+
+|
+
+|
+
+|
+
+|
+
+Élevage en maternité
+
+|
+
+|
+
+|
+
+|
+
+Sevrage
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Engraissement
+
+|
+
+|
+
+|
+
+|
+
+Transport
+
+(élevage 1 abattoir)
+
+|
+
+|
+
+|
+
+|
+
+Abattage
+
+|
+
+|
+
+|
+
+|
+
+Découpe
+
+|
+
+|
+
+|
+
+|
+
+Transformation
+
+|
+
+|
+
+|
+
+|
+
+Conditionnement
+
+|
+
+|
+
+|
+
+|
+
+Transport
+
+(chaîne du froid...]
+
+|
+
+|
+
+|
+
+|
+
+Distribution
+
+|
+
+|
+
+|
+
+|
 
 2e exigence : comparaison entre produit courant et produit certifié
 
@@ -52,7 +262,9 @@ Les cahiers des charges respectent les critères minimaux suivants :
 
 - le poids des carcasses individuelles devra être compris dans une fourchette de [écart des extrêmes] (3) de telle manière que ce poids soit égal au minimum à 50 % du poids estimé de l'adulte par le sélectionneur.
 
-(2) Un lot correspond à un éleveur et à une date de conception. (3) A préciser par le fournisseur.
+(2) Un lot correspond à un éleveur et à une date de conception.
+
+(3) A préciser par le fournisseur.
 
 4e exigence : nettoyage et désinfection
 
@@ -66,9 +278,9 @@ Dans le cas de bandes multiples, le cahier des charges décrit comment sont assu
 
 Le respect d'un ensemble de bonnes pratiques professionnelles peut améliorer la qualité moyenne d'un produit et réduire son hétérogénéité, même si chacune des pratiques de cet ensemble, prise séparément, ne peut être considérée comme significative.
 
-Dans ce cas, cet ensemble de bonnes pratiques, assorti des moyens de maîtrise et de contrôle correspondants, permet d'obtenir un produit significativement différent du produit courant. A ce titre, une communication du type : Respect des bonnes pratiques d'élevage » est possible.
+Dans ce cas, cet ensemble de bonnes pratiques, assorti des moyens de maîtrise et de contrôle correspondants, permet d'obtenir un produit significativement différent du produit courant. A ce titre, une communication du type : Respect des bonnes pratiques d'élevage est possible.
 
-Les bonnes pratiques d'élevage, pour être certifiables, sont décrites précisément à chaque étape du schéma de vie de l'animal et sont supérieures aux pratiques d'élevage courantes sur au moins deux critères significatifs. Les deux critères retenus vont au-delà du simple respect de la norme NF V 47-001 Production et transformation du lapin de chair domestique ».
+Les bonnes pratiques d'élevage, pour être certifiables, sont décrites précisément à chaque étape du schéma de vie de l'animal et sont supérieures aux pratiques d'élevage courantes sur au moins deux critères significatifs. Les deux critères retenus vont au-delà du simple respect de la norme NF V 47-001 Production et transformation du lapin de chair domestique .
 
 Ces bonnes pratiques portent en particulier sur :
 
@@ -114,9 +326,9 @@ Dans ce cas, un plan d'alimentation précis et détaillé (seuils d'incorporatio
 
 Précisions sur les allégations communicantes qui peuvent être utilisées :
 
-Une allégation du type : Alimentation 100 % végétale, minérale et vitaminique » n'est pas possible dans le champ des caractéristiques certifiées.
+Une allégation du type : Alimentation 100 % végétale, minérale et vitaminique n'est pas possible dans le champ des caractéristiques certifiées.
 
-Cependant, l'allégation du type : Alimentation 100 % végétale, minérale et vitaminique [...] » est possible si elle est complétée par une description plus précise des matières premières utilisées, répondant aux conditions suivantes :
+Cependant, l'allégation du type : Alimentation 100 % végétale, minérale et vitaminique [...] est possible si elle est complétée par une description plus précise des matières premières utilisées, répondant aux conditions suivantes :
 
 Pour toute la durée de vie de l'animal, respect d'apports de :
 
@@ -142,11 +354,11 @@ Il peut donc être fait référence à une famille de matières premières qui a
 
 Pour exemple, les matières premières entrant dans cette famille peuvent être : luzerne, tourteaux de tournesol, pulpes de betteraves, paille..., cette liste n'étant pas exhaustive.
 
-En tout état de cause, le cahier des charges fournit la liste positive des matières premières retenues pour constituer cette famille, et en quoi elles peuvent être classées dans cette famille riches en fibres ».
+En tout état de cause, le cahier des charges fournit la liste positive des matières premières retenues pour constituer cette famille, et en quoi elles peuvent être classées dans cette famille riches en fibres .
 
-D'autre part, la deuxième famille pourra être constituée de graines et issues de céréales car différente nutritionnellement de la famille décrite ci-dessus. La communication retiendra la mention issues de céréales » (si le taux de graines est nul) ou issues et graines de céréales » (si la ration comporte également des graines de céréales même avec un taux faible).
+D'autre part, la deuxième famille pourra être constituée de graines et issues de céréales car différente nutritionnellement de la famille décrite ci-dessus. La communication retiendra la mention issues de céréales (si le taux de graines est nul) ou issues et graines de céréales (si la ration comporte également des graines de céréales même avec un taux faible).
 
-S'il est choisi de communiquer sur : Alimentation 100 % végétale, minérale et vitaminique dont 65 % minimum de matières premières riches en fibres et issues et graines de céréales », alors un niveau minimum d'incorporation pour chaque famille doit être respecté :
+S'il est choisi de communiquer sur : Alimentation 100 % végétale, minérale et vitaminique dont 65 % minimum de matières premières riches en fibres et issues et graines de céréales , alors un niveau minimum d'incorporation pour chaque famille doit être respecté :
 
 - 20 % minimum pour la famille des matières premières qui apportent les fibres ;
 
@@ -156,7 +368,7 @@ S'il est choisi de communiquer sur : Alimentation 100 % végétale, minérale et
 
 Selon les connaissances scientifiques actuelles concernant la production de viande de lapin, il n'existe pas d'éléments objectifs relatifs à l'élevage de ces animaux ayant un impact significatif pour le consommateur sur la qualité de la viande.
 
-Par conséquent, toute allégation du type : Produit sélectionné pour la qualité de la viande » devra être démontrée.
+Par conséquent, toute allégation du type : Produit sélectionné pour la qualité de la viande devra être démontrée.
 
 4e recommandation : caractéristique certifiée relative à l'âge des animaux à l'abattage
 
@@ -170,33 +382,339 @@ La durée d'élevage s'étend du jour de la naissance des lapereaux au jour d'en
 
 Plan de surveillance pour la viande de lapin
 
-1. Application des dispositions communes de l'arrêté Modalités minimales de contrôle - Parties communes et généralités ».
+1. Application des dispositions communes de l'arrêté Modalités minimales de contrôle - Parties communes et généralités .
 
 2. Exigences minimales de contrôle spécifiques à la viande de lapin.
 
 Tableau récapitulatif des missions d'évaluation initiale internes et externes des opérateurs de la filière
 
-Vous pouvez consulter le tableau dans le JO
+STRUTURES
 
-n° 8 du 10/01/2008 texte numéro 12
+mises en place pour la maitrise interne de la certification
 
-Vous pouvez consulter le tableau dans le JO
+|
 
-n° 8 du 10/01/2008 texte numéro 12
+CONTRÔLES INTERNES
 
-Vous pouvez consulter le tableau dans le JO
+|
 
-n° 8 du 10/01/2008 texte numéro 12
+CONTRÔLES EXTERNES
 
-(5) Cf. conditions de recevabilité de cet allègement dans l'arrêté portant homologation des Conditions minimales de contrôle - Parties communes et généralités » (point 2.4).
+|
+
+Responsable du contrôle
+
+|
+
+Fréquence de contrôle et d'audit
+
+|
+
+Fournisseur
+
+|
+
+|
+
+Maîtrise continue
+
+|
+
+2audits / an
+
+|
+
+Organisme de qualification et de suivi des élevages (OQ ou OSE)
+
+|
+
+Fournisseur
+
+|
+
+un contrôle annuel par l'organisme lui même sur ses activités de qualification et de suivi
+
+ou
+
+un contrôle annuel par le fournisseur.
+
+|
+
+deux audits par an de l'organisme responsable de qualification et du suivi des élevages
+
+|
+
+.
+
+SCHEMA DE VIE
+
+et points de contrôle de
+
+l'ensemble des éléments
+
+retenus dans le cahier
+
+des charges)
+
+|
+
+Opérateurs
+
+concernés
+
+|
+
+CONTRÔLES INTERNES
+
+|
+
+CONTRÔLES EXTERNES
+
+Fréquences d'intervention
+
+minimales de l'organisme
+
+certificateur
+
+|
+
+Responsable du
+
+contrôle
+
+|
+
+Fréquence de
+
+contrôle et d'audit
+
+|
+
+Élevage des animaux
+
+|
+
+À détailler
+
+|
+
+éleveurs
+
+|
+
+Organisme de qualification,
+
+Organisme de suivi des élevages,
+
+ou
+
+Fournisseur
+
+|
+
+Un contrôle par an de tous les élevages.
+
+Les non-conformités sont communiquées dans les plus brefs délais au fournisseur
+
+(avec copie à I'OC).
+
+Une procédure de gestion des non-conformités graves est mise en œuvre par le fournisseur.
+
+|
+
+- Contrôle de 50 % des éleveurs avec un minimum de 3 élevages par organisme de suivi des élevages
+
+|
+
+Fonction transport (en cas d'exigence explicite sur ce point dans le cahier des charges)
+
+|
+
+A détailler
+
+|
+
+transporteur
+
+|
+
+Organisme de qualification,
+
+Organisme de suivi des élevages,
+
+ou
+
+Fournisseur
+
+|
+
+|
+
+Si le transport est assuré directement par l'opérateur, audit de la fonction transport lors de son audit.
+
+Si le transport est assuré par un transporteur indépendant ou une société de transport spécialisée, vérification lors de l'audit de la structure qui a procédé à la qualification que le transporteur respecte le cahier des charges.
+
+|
+
+Fabrication d' aliments
+
+|
+
+A détailler
+
+|
+
+Fabricants d'aliments composés
+
+|
+
+Fournisseur
+
+|
+
+- Référencement des entreprises fabricants d'aliments composés et des fournisseurs d'aliments simples qui s'engagent auprès de l'organisme chargé de l'habilitation et du suivi d'élevage et transmission du listing des entreprises référencées à l'organisme certificateur.
+
+|
+
+― si l'alimentation n'est pas une caractéristique explicite : référencement des fabricants fait en interne et suivi en externe lors de l'audit du fournisseur ;
+
+― si l'alimentation est une caractéristique explicite, s'ajoute pour les UFA certifiées GBP AC : un contrôle/ an/ site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le " protocole de contrôle documentaire pour les usines certifiées GBP AC (*) ”.
+
+Pour les UFA non certifiées GBP AC : un audit/ an des exigences explicites décrites dans le cahier des charges.
+
+(*) Document consultable sur le site internet du CEPRAL.
+
+|
+
+Abattage et découpe
+
+|
+
+A détailler
+
+|
+
+- Abattoir
+
+- Ateliers de découpe et/ou
+
+Ateliers de troisième transformation (préparation d'UVCI)
+
+|
+
+Fournisseur.
+
+|
+
+|
+
+- un audit et 3 contrôles (4 visites dont une inopinée) par site par an
+
+ou
+
+- un audit et deux contrôles (3 visites dont une inopinée) par an si l'entreprise a une certification ISO 9000 ou 22000 (3)
+
+Un par trimestre pour chaque atelier de découpe/conditionnement UVCI
+
+|
+
+Grossistes
+
+|
+
+|
+
+- Grossistes
+
+|
+
+Fournisseur
+
+|
+
+|
+
+- un contrôle par an si commercialisation en l'état,
+
+- Si découpe en pièces de détail, la fréquence prévue dans la catégorie Abattage et découpe doit être appliquée
+
+|
+
+Distribution avec ou sans atelier de découpe
+
+|
+
+A détailler
+
+|
+
+Points de vente simple rayon
+
+|
+
+|
+
+|
+
+50 % des points de vente par an
+
+(chaque magasin est contrôlé une année sur deux)
+
+|
+
+Points de vente double rayon
+
+|
+
+|
+
+|
+
+120 % des points de vente par an
+
+(chaque magasin est contrôlé une fois et 20% d'entre eux font l'objet d'un second contrôle)
+
+|
 
 Contrôles analytiques pour des critères non réglementaires
 
 ou lorsque les valeurs sont plus exigeantes que les critères réglementaires
 
-Vous pouvez consulter le tableau dans le JO
+NATURE DU PRÉLÈVEMENT
 
-n° 8 du 10/01/2008 texte numéro 12
+|
+
+FRÉQUENCE DES CONTRÔLES
+
+à réaliser en externe
+
+|
+
+DÉTERMINATIONS
+
+effectuées
+
+|
+
+CRITÈRE DE CONFORMITÉ
+
+|
+
+.
+
+|
+
+.
+
+|
+
+.
+
+|
+
+.
+
+|
 
 Tableau des abréviations :
 
