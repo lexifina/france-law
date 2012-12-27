@@ -510,7 +510,11 @@ Référencement des entreprises fabricants d'aliments composés et des fournisse
 
 |
 
-- un audit par an par l'OC.
+Pour les UFA certifiées GBP AC : un contrôle par an par site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le " protocole de contrôle documentaire pour les usines certifiées GBP AC " (*).
+
+Pour les UFA non certifiées GBP AC : un audit par an des exigences explicites décrites dans le cahier des charges.
+
+(*) Document consultable sur le site internet du CEPRAL.
 
 |
 
