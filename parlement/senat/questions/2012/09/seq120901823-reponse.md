@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901823
+
+- Question : [SEQ120901823](seq120901823.md) — Non-parution du décret d'application relatif à la coordination entre régimes d'assurance invalidité
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2012-12-27, page 3052*
+
+Jusqu'à la loi de financement de la sécurité sociale (LFSS) pour 2011, il n'existait pas, pour les personnes ayant successivement relevé de plusieurs régimes, de coordination entre ces régimes pour le calcul du droit à pension d'invalidité de l'assuré. Cette situation pouvait entraîner la liquidation de pensions très modestes, pour les assurés nouvellement affiliés à un régime, puisqu'il n'était pas tenu compte des années cotisées dans un ou plusieurs autres régimes. C'est pourquoi l'article 94 de la LFSS pour 2011 a posé le principe d'une coordination entre régimes d'invalidité pour le calcul de la pension servie à un assuré qui a relevé, au cours de sa carrière, de plusieurs régimes de sécurité sociale. Cette coordination s'applique aux régimes calculant les pensions d'invalidité comme une fraction d'un revenu annuel moyen correspondant aux dix années civiles d'assurance les plus avantageuses (ce qui est le cas aujourd'hui du régime général, du régime des salariés agricoles et du régime social des indépendants). Un décret en Conseil d'État doit fixer les conditions dans lesquelles sont calculés ces droits à pension. Ce décret n'a pas été pris et le Gouvernement est pleinement conscient des difficultés que cela entraîne pour certains invalides. La détermination de ces règles de coordination aura mécaniquement des conséquences sur l'équilibre des régimes concernés. La difficulté à évaluer précisément ces conséquences explique le retard pris. Le Gouvernement souhaite cependant que ces difficultés soient rapidement levées afin qu'un projet de décret soit publié dans les meilleurs délais.
