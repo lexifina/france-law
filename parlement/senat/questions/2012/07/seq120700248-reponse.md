@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700248
+
+- Question : [SEQ120700248](seq120700248.md) — Avenir du service de radiologie de centre hospitalier général de Montauban
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2012-12-27, page 3052*
+
+Actuellement, aucun candidat ne postule sur les postes de praticiens hospitaliers en imagerie médicale publiés par la direction du centre hospitalier de Montauban. Il convient donc d'explorer toutes les solutions permettant d'assurer une continuité des soins avec les effectifs de radiologues présents sur le territoire. Dans le département du Tarn-et-Garonne, dix-huit radiologues publics et privés sont aujourd'hui présents. Cet effectif global est théoriquement suffisant pour répondre aux besoins de la population du territoire de santé. C'est pourquoi l'agence régionale de santé (ARS) de Midi-Pyrénées a réuni l'ensemble des structures publiques et privées du département (y compris les cabinets de ville) depuis le printemps 2012 afin de trouver des solutions pérennes pour réaliser, avec les ressources humaines disponibles, l'ensemble des actes d'imagerie (conventionnelle, échographie, imagerie en coupe) pour l'activité programmée comme pour les urgences ou en période de permanence des soins. Les solutions doivent pouvoir reposer sur une coopération public-privé. Les centres hospitaliers de Montauban et de Moissac ont actuellement recours depuis plusieurs années aux professionnels du secteur privé, dans le cadre d'une collaboration qui donne satisfaction tant aux médecins hospitaliers qu'aux patients. L'ARS étudie l'approfondissement de ce partenariat avec les professionnels libéraux pour qu'ils participent à l'ensemble des activités de radiologie, y compris en ce qui concerne la participation à l'activité non programmée et la permanence des soins.
