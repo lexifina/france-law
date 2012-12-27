@@ -784,11 +784,13 @@ Référencement des entreprises fabricants d'aliments composés et des fournisse
 
 En cas de caractéristiques certifiées concernant l'alimentation :
 
-- un audit par an par l'organisme certificateur ;
+Pour les UFA certifiées GBP AC : un contrôle/an/site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le "protocole de contrôle documentaire pour les usines certifiées GBP AC (*)".
 
-- si le fabricant est déjà audité dans le cadre du Guide des bonnes pratiques des fabricants d'aliments (ou une démarche équivalente), l'organisme certificateur ne réalise qu'un contrôle par an.
+Pour les UFA non certifiées GBP AC : un audit/ an des exigences explicites décrites dans le cahier des charges.
 
 |
+
+(*) Document consultable sur le site internet du CEPRAL.
 
 CONTROLES ANALYTIQUES
 
