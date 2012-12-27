@@ -16,31 +16,31 @@ La certification garantit que le produit certifié se différencie du produit co
 
 Le produit courant doit répondre :
 
-― aux réglementations nationale et communautaire ;
+- aux réglementations nationale et communautaire ;
 
-― aux normes d'application obligatoire et aux références professionnelles à portée obligatoire (accord interprofessionnel étendu...).
+- aux normes d'application obligatoire et aux références professionnelles à portée obligatoire (accord interprofessionnel étendu...).
 
 Chaque cahier des charges décrit ses propres caractéristiques et les moyens de maîtrise associés en fonction :
 
-― des éléments décrits dans les présentes exigences et recommandations ;
+- des éléments décrits dans les présentes exigences et recommandations ;
 
-― des caractéristiques certifiées mises en avant et justifiant la demande de certification ;
+- des caractéristiques certifiées mises en avant et justifiant la demande de certification ;
 
-― de l'ensemble des éléments retenus.
+- de l'ensemble des éléments retenus.
 
 Préambule
 
 Le consommateur recherche :
 
-― une viande saine, sans aucun résidu et de bonne qualité hygiénique ;
+- une viande saine, sans aucun résidu et de bonne qualité hygiénique ;
 
-― une viande d'apparence assez maigre ou légèrement persillée, tendre et savoureuse ;
+- une viande d'apparence assez maigre ou légèrement persillée, tendre et savoureuse ;
 
-― une viande claire de couleur homogène ;
+- une viande claire de couleur homogène ;
 
-― des informations sur le mode d'élevage et l'alimentation des animaux ;
+- des informations sur le mode d'élevage et l'alimentation des animaux ;
 
-― des informations sur la zone de provenance.
+- des informations sur la zone de provenance.
 
 Outre ces critères élémentaires de sécurité et de qualité organoleptique, des exigences de type éthique, comme le respect du bien-être de l'animal et la protection de l'environnement, sont implicitement ou explicitement attendues par le consommateur de viande d'agneau.
 
@@ -342,14 +342,6 @@ Mise à disposition du consommateur
 
 |
 
-|
-
-|
-
-|
-
-|
-
 (2) Entre chaque étape du schéma de vie, dès lors qu'il y a transport des animaux ou de viande entre deux sites différents, cette étape est décrite dans le référentiel (implicite) même si elle n'apparaît pas de manière explicite dans le tableau ci-dessus.
 
 2e exigence : comparaison entre produit courant
@@ -384,7 +376,7 @@ La liste des matières premières représentant 100 % de l'alimentation de l'agn
 
 La ration alimentaire des agneaux est composée d'une :
 
-A. ― Ration de base :
+A. - Ration de base :
 
 1. Produits laitiers : lait maternel ou autre, à définir ;
 
@@ -392,7 +384,7 @@ A. ― Ration de base :
 
 3. Autres ingrédients éventuels (par exemple : tubercules).
 
-B. ― Ration complémentaire :
+B. - Ration complémentaire :
 
 1. Aliments concentrés (aliments composés ou simples, selon le type d'élevage) : indiquer la liste des familles d'ingrédients distribués (par exemple : céréales, etc.) ;
 
@@ -412,19 +404,19 @@ Dans ce cas, c'est cette maîtrise sur l'ensemble du schéma de vie du produit, 
 
 Ces bonnes pratiques d'élevage portent en particulier sur :
 
-― l'identification des animaux, la traçabilité des flux d'animaux à tous les stades ;
+- l'identification des animaux, la traçabilité des flux d'animaux à tous les stades ;
 
-― l'origine génétique des animaux et l'absence de défauts majeurs ;
+- l'origine génétique des animaux et l'absence de défauts majeurs ;
 
-― le choix des types d'animaux mis sur le marché ;
+- le choix des types d'animaux mis sur le marché ;
 
-― l'achat d'aliments auprès de fabricants et distributeurs fournissant une information détaillée sur leur composition (à partir des factures, bons de livraison...) ;
+- l'achat d'aliments auprès de fabricants et distributeurs fournissant une information détaillée sur leur composition (à partir des factures, bons de livraison...) ;
 
-― l'exclusion ou le plafonnement de certaines matières premières dans l'alimentation ;
+- l'exclusion ou le plafonnement de certaines matières premières dans l'alimentation ;
 
-― la maîtrise de la qualité des aliments pour animaux ;
+- la maîtrise de la qualité des aliments pour animaux ;
 
-― la préparation des animaux avant le transport.
+- la préparation des animaux avant le transport.
 
 2e recommandation : caractéristique certifiée
 
@@ -432,21 +424,21 @@ relative au mode d'alimentation des animaux
 
 Toute communication relative au mode d'alimentation doit répondre aux principes suivants :
 
-― les points sur lesquels il y a communication devront être détaillés ;
+- les points sur lesquels il y a communication devront être détaillés ;
 
-― en cas de communication sur un ingrédient particulier, le pourcentage distribué doit être significatif dans sa catégorie.
+- en cas de communication sur un ingrédient particulier, le pourcentage distribué doit être significatif dans sa catégorie.
 
 La recommandation minimum est la suivante :
 
 Pour la période d'allaitement : indiquer la durée ainsi que la liste des matières premières représentant le complément distribué jusqu'au sevrage :
 
-A. ― Ration de base :
+A. - Ration de base :
 
 1. Produits laitiers : lait maternel ou autre, à définir selon le type d'élevage et/ou communication ;
 
 2. Fourrages : liste des composants ; il est demandé de distinguer l'herbe pâturée et les fourrages conservés (foin, paille, ensilage, etc.) pour les animaux élevés hors bergerie.
 
-B. ― Ration complémentaire :
+B. - Ration complémentaire :
 
 1. Aliments concentrés (aliments composés ou simples, selon le type d'élevage) : liste des familles d'ingrédients avec pourcentage d'incorporation (par exemple : x à y % de céréales, etc.).
 
@@ -454,13 +446,13 @@ B. ― Ration complémentaire :
 
 Pour la période d'engraissement : indiquer la liste des matières premières et le pourcentage des catégories d'aliments distribués :
 
-A. ― Ration de base :
+A. - Ration de base :
 
 1. Fourrages : liste des composants ; il est demandé de distinguer l'herbe pâturée et les fourrages conservés (foin, paille, ensilage, etc.) pour les animaux élevés hors bergerie ;
 
 2. Autres.
 
-B. ― Ration complémentaire :
+B. - Ration complémentaire :
 
 1. Aliments concentrés (aliments composés ou simples, selon le type d'élevage) : liste des familles d'ingrédients (par exemple : céréales, etc).
 
@@ -478,9 +470,9 @@ S'il y a communication sur le mode d'élevage, deux types d'allégation dans le 
 
 La mention "(...) et recevant une alimentation complémentaire" dans la première allégation citée ci-dessus étant considérée comme générale, elle doit s'accompagner :
 
-― soit d'une autre caractéristique certifiée significative sur l'alimentation (suffisamment différente de la pratique courante) ;
+- soit d'une autre caractéristique certifiée significative sur l'alimentation (suffisamment différente de la pratique courante) ;
 
-― soit d'une autre caractéristique certifiée plus spécifique, complémentaire et non relative à l'alimentation.
+- soit d'une autre caractéristique certifiée plus spécifique, complémentaire et non relative à l'alimentation.
 
 En tout état de cause, une communication relative au mode d'élevage implique le respect de bonnes pratiques d'élevage. Par conséquent, la première recommandation doit être aussi respectée.
 
@@ -498,19 +490,19 @@ relative à la qualité de la viande
 
 Lorsque le cahier des charges prévoit une caractéristique du type "produit sélectionné pour la qualité de viande", ce cahier des charges doit :
 
-― décrire la ou les races et croisements de races utilisés ;
+- décrire la ou les races et croisements de races utilisés ;
 
-― établir une fourchette restrictive d'âge et de poids permettant de garantir l'homogénéité et la spécificité du produit certifié ;
+- établir une fourchette restrictive d'âge et de poids permettant de garantir l'homogénéité et la spécificité du produit certifié ;
 
-― intégrer les exigences de l'utilisation de la viande en carcasses et celles de la transformation (découpe éventuelle...).
+- intégrer les exigences de l'utilisation de la viande en carcasses et celles de la transformation (découpe éventuelle...).
 
 Ces exigences portent principalement sur :
 
-― les caractéristiques des carcasses : poids et classement ;
+- les caractéristiques des carcasses : poids et classement ;
 
-― les caractéristiques des viandes : couleur de la viande et du gras, tenue du gras... Le demandeur devra préciser quel référent il utilise, avec quelle précision et quels sont les critères d'exclusion ;
+- les caractéristiques des viandes : couleur de la viande et du gras, tenue du gras... Le demandeur devra préciser quel référent il utilise, avec quelle précision et quels sont les critères d'exclusion ;
 
-― les conditions de refroidissement et de conservation au froid des viandes : il faut une réfrigération suffisamment rapide pour éviter les risques bactériologiques, mais pas trop rapide non plus, pour ne pas pénaliser le potentiel de tendreté.
+- les conditions de refroidissement et de conservation au froid des viandes : il faut une réfrigération suffisamment rapide pour éviter les risques bactériologiques, mais pas trop rapide non plus, pour ne pas pénaliser le potentiel de tendreté.
 
 Dans le cas où il y a communication sur un ou plusieurs points spécifiques et relatifs à la qualité de viande, ce ou ces points doivent être décrits spécialement.
 
@@ -532,35 +524,35 @@ sur le mode d'alimentation ou le mode de production
 
 Ration de base :
 
-― lait maternel ;
+- lait maternel ;
 
-― foin, herbe.
+- foin, herbe.
 
 Ration complémentaire :
 
 Aliment composé :
 
-― graines de céréales et co-produits de la transformation de céréales ;
+- graines de céréales et co-produits de la transformation de céréales ;
 
-― produits et sous-produits de graines d'oléagineux ;
+- produits et sous-produits de graines d'oléagineux ;
 
-― graines de légumineuses ;
+- graines de légumineuses ;
 
-― tubercules ;
+- tubercules ;
 
-― sous-produits de canne à sucre.
+- sous-produits de canne à sucre.
 
 Additifs :
 
-― substances ayant des effets antioxydants ;
+- substances ayant des effets antioxydants ;
 
-― substances aromatiques et apéritives ;
+- substances aromatiques et apéritives ;
 
-― agents conservateurs ;
+- agents conservateurs ;
 
-― oligo-éléments ;
+- oligo-éléments ;
 
-― vitamines.
+- vitamines.
 
 Deuxième cas : communication
 
@@ -568,43 +560,43 @@ sur le mode d'alimentation ou le mode de production
 
 Ration de base :
 
-― lait maternel ;
+- lait maternel ;
 
-― foin ;
+- foin ;
 
-― herbe pâturée.
+- herbe pâturée.
 
 Ration complémentaire :
 
 Aliment composé :
 
-― graines de céréales : x à y % ;
+- graines de céréales : x à y % ;
 
-― co-produits de la transformation de céréales : a à b % ;
+- co-produits de la transformation de céréales : a à b % ;
 
-― produits et sous-produits de graines d'oléagineux : c à d % ;
+- produits et sous-produits de graines d'oléagineux : c à d % ;
 
-― graines de légumineuses : e à f % ;
+- graines de légumineuses : e à f % ;
 
-― tubercules : g à h % ;
+- tubercules : g à h % ;
 
-― sous-produits de canne à sucre : i à j %.
+- sous-produits de canne à sucre : i à j %.
 
 Additifs : z % :
 
-― substances ayant des effets antioxydants ;
+- substances ayant des effets antioxydants ;
 
-― substances aromatiques et apéritives ;
+- substances aromatiques et apéritives ;
 
-― agents conservateurs ;
+- agents conservateurs ;
 
-― oligo-éléments ;
+- oligo-éléments ;
 
-― vitamines.
+- vitamines.
 
 PLAN DE SURVEILLANCE POUR LA VIANDE D'AGNEAU
 
-1. Application des dispositions de l'arrêté "Modalités minimales de contrôle. ― Parties communes et généralités".
+1. Application des dispositions de l'arrêté "Modalités minimales de contrôle. - Parties communes et généralités".
 
 2. Exigences minimales de contrôle spécifiques à la viande d'agneau.
 
@@ -790,9 +782,15 @@ Référencement des entreprises fabricants d'aliments composés et des fournisse
 
 |
 
-- un audit par an par l'OC.
+Pour les UFA certifiées GBP AC :
 
-Si le fabricant d'aliments est audité par un OC dans le cadre du guide des bonnes pratiques des fabricants d'aliments (ou d'une démarche équivalente), l'OC ne réalise qu'un contrôle par an.
+Un contrôle/an/site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le "protocole de contrôle documentaire pour les usines certifiées GBP AC (*)".
+
+Pour les UFA non certifiées GBP AC :
+
+Un audit/an des exigences explicites décrites dans le cahier des charges.
+
+(*) Document consultable sur le site internet du CEPRAL
 
 |
 
