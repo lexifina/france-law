@@ -846,19 +846,23 @@ Organisme de qualification
 
 |
 
-- si l'alimentation n'est pas une caractéristique explicite :
+Si l'alimentation n'est pas une caractéristique explicite : référencement des fabricants fait en interne et suivi en externe lors de l'audit du fournisseur de la certification.
 
-Référencement des fabricants fait en interne et suivi en externe lors de l'audit du fournisseur
+Si l'alimentation est une caractéristique explicite, s'ajoute au référencement :
 
-- si l'alimentation est une caractéristique explicite, s'ajoute au référencement :
+Pour les UFA certifiées GBP AC :
 
-- Un audit et un contrôle par an et par site (soit 2 visites)
+Un contrôle/an/site de fabrication portant sur le respect des contraintes de formulation, réalisé selon les modalités de contrôle définies dans le "protocole de contrôle documentaire pour les usines certifiées" (*).
 
-- Un seul audit si l'entreprise a une certification assurance qualité ISO 9000 ou 220004.
+Pour les UFA non certifiées GBP AC :
+
+Un audit par an des exigences explicites décrites dans le cahier des charges.
 
 |
 
 (3) Cf. conditions de recevabilité de cet allègement dans l'arrêté portant homologation des Conditions minimales de contrôle - Parties communes et généralités (point 2.4).
+
+(*) Le contrôle est réalisé selon les modalités définies dans le "protocole de contrôle documentaire pour les usines certifiées GBP AC" consultable sur le site internet du CEPRAL.
 
 Contrôles analytiques pour des critères non réglementaires
 
