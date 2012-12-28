@@ -6,7 +6,7 @@
 
 QUOTA 2012 EN OCÉAN ATLANTIQUE
 
-à l'est de la longitude 45° Ouest
+à l'Est de la longitude 45° Ouest
 
 |
 
@@ -56,7 +56,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs marins pêcheurs de Basse-Normandie (OPBN)
+Navires adhérant à l'Organisation de producteurs marins pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -92,22 +92,6 @@ Navires adhérant à l'organisation de producteurs Pêcheurs de Bretagne
 
 |
 
-1,4
-
-|
-
-0
-
-|
-
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs des pêcheurs artisants de l'île de Noirmoutier (OPPAN)
-
-|
-
 0
 
 |
@@ -120,11 +104,27 @@ Navires adhérant à l'organisation de producteurs des pêcheurs artisants de l'
 
 |
 
-Navires adhérant à l'organisation de producteurs VENDÉE
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
 
 |
 
-7
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+Navires adhérant à l'organisation de producteurs Vendée
+
+|
+
+6,5
 
 |
 
@@ -152,11 +152,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-ouest)
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest)
 
 |
 
-2
+3,4
 
 |
 
@@ -208,7 +208,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-85
+85,5
 
 |
 
@@ -216,7 +216,7 @@ Navires adhérant à l'organisation de producteurs Coopérative des artisans pê
 
 |
 
-Navires n'adhérant pas à une organisation de producteurs
+Navires non adhérents à une organisation de producteurs
 
 |
 
@@ -252,11 +252,11 @@ Total
 
 |
 
-36
+35,5
 
 |
 
-114
+114,5
 
 |
 
