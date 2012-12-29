@@ -2,29 +2,17 @@
 
 POSTES D'INSPECTION FRONTALIERS
 
-NOM
+NOM |
 
-|
+CODE TRACES |
 
-CODE TRACES
+TYPE |
 
-|
+CENTRE D'INSPECTION |
 
-TYPE
+PRODUITS |
 
-|
-
-CENTRE D'INSPECTION
-
-|
-
-PRODUITS
-
-|
-
-ANIMAUX VIVANTS
-
-|
+ANIMAUX VIVANTS |
 
 Bordeaux
 
@@ -130,25 +118,15 @@ Dunkerque
 
 |
 
-FR DKK 1
+FR DKK 1 |
 
-|
-
-Port
-
-|
+Port |
 
 Caraïbes
 
 |
 
 HC-T (1), HC-NT
-
-|
-
-|
-
-|
 
 |
 
@@ -186,12 +164,6 @@ HC-T (1), HC-NT, NHC
 
 |
 
-|
-
-|
-
-|
-
 Dugrand
 
 |
@@ -202,23 +174,11 @@ HC-T (FR) (1) (2)
 
 |
 
-|
-
-|
-
-|
-
 EFBS
 
 |
 
 HC-T (1) (2)
-
-|
-
-|
-
-|
 
 |
 
@@ -295,12 +255,6 @@ Hangar 14
 |
 
 E
-
-|
-
-|
-
-|
 
 |
 
@@ -464,13 +418,9 @@ Roissy-Charles-de-Gaulle
 
 |
 
-FR CDG 4
+FR CDG 4 |
 
-|
-
-Aéroport
-
-|
+Aéroport |
 
 Air France
 
@@ -482,23 +432,11 @@ HC-T (1), HC-NT, NHC-NT
 
 |
 
-|
-
-|
-
-|
-
 France Handling
 
 |
 
 HC-T (1), HC-NT, NHC
-
-|
-
-|
-
-|
 
 |
 
@@ -546,11 +484,9 @@ Port
 
 |
 
-Frontignan
-
 |
 
-HC-T (1), HC-NT
+HC (1) (2), NHC-NT
 
 |
 
@@ -612,11 +548,11 @@ T (CH) = Produits réfrigérés.
 
 U = Ongulés : les bovins, porcins, ovins, caprins et solipèdes domestiques ou sauvages.
 
-E = Equidés enregistrés au sens de la directive 90/426/ CEE.
+E = Equidés enregistrés au sens de la directive 90/426/CEE.
 
 O = Autres animaux (y compris animaux de zoo).
 
-(1) Contrôles dans les conditions de la décision 93/352/ CEE de la Commission prise en application de l'article 19, paragraphe 3, de la directive 97/78/ CE du Conseil.
+(1) Contrôles dans les conditions de la décision 93/352/CEE de la Commission prise en application de l'article 19, paragraphe 3, de la directive 97/78/CE du Conseil.
 
 (2) Produits emballés uniquement.
 
@@ -628,7 +564,7 @@ O = Autres animaux (y compris animaux de zoo).
 
 (a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement.
 
-b) Cette autorisation est valable jusqu'au 31 décembre 2012.
+b) Cette autorisation est valable jusqu'au 1er septembre 2013.
 
 c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.
 
