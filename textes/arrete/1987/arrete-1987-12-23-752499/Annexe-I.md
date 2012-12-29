@@ -1,23 +1,23 @@
 # Article Annexe I
 
-Le programme de l'épreuve de biologie porte sur les points suivants de la seule partie des sciences de la vie du programme des sciences de la vie et de la Terre des classes de première et de terminale, série scientifique (arrêté du 9 août 2000, JO du 22 août 2000, Bulletin officiel de l'éducation nationale hors série no 7 du 31 août 2000 : programme des lycées, volume 5, classe de première, physique-chimie, et sciences de la vie et de la Terre, série scientifique ; arrêté du 1er juillet 2002, JO du 10 juillet 2002, Bulletin officiel de l'éducation nationale hors série no 6 du 29 août 2002 : programme des lycées, volume 11, classe de seconde et du cycle terminal des séries générales et technologiques ; arrêté du 20 juillet 2001, JO du 4 août 2001, Bulletin officiel de l'éducation nationale hors série no 4 et 5 du 30 août 2001 : programme des lycées, volumes 9 et 10, classe terminale, physique-chimie, et sciences de la vie et de la Terre, série scientifique) :
+Le programme des épreuves de biologie, de physique et de chimie mentionnées à l'article 7 est déterminé sur la base du programme des sciences de la vie et de la Terre et de physique-chimie des classes de première et de terminale, série scientifique, fixé par arrêtés du 21 juillet 2010 et du 12 juillet 2011, publiés au Bulletin officiel spécial n° 9, du 30 septembre 2010 et n° 8 du 13 octobre 2011 du ministère en charge de l'éducation nationale.
 
-A. - Points issus de première, série scientifique
+1° Programme spécifique de sciences de la vie et de la Terre :
 
-Toute la partie science de la vie (thème général : des phénotypes à différents niveaux d'organisation du vivant) à l'exclusion de toute la partie science de la Terre du programme de sciences de la vie et de la Terre de première, série scientifique.
+Le programme des épreuves de biologie porte sur les points suivants :
 
-B. - Points issus de terminale, série scientifique
+Programme de première, série scientifique :
 
-Parmi les parties issues de l'enseignement obligatoire à l'exclusion de toutes les parties de l'enseignement dit de spécialité du programme de sciences de la vie et de la Terre de terminale, série scientifique :
+- dans le thème 1 "la Terre dans l'Univers, la vie et l'évolution du vivant" : thème 1A "expression, stabilité et variation du patrimoine génétique" ;
 
-- la partie 1-2 : parenté entre êtres vivants actuels et fossiles-phylogénèse-évolution ;
+- dans le thème 3 "corps humain et santé" : thèmes 3A "féminin, masculin", thème 3B "variation génétique et santé", thème 3C "de l'œil au cerveau : quelques aspects de la vision".
 
-- la partie 1-3 : stabilité et variabilité des génomes et évolution ;
+Programme de terminale, série scientifique :
 
-- la partie 1-6 : procréation ;
+- dans le thème 1 "la Terre dans l'Univers, la vie et l'évolution du vivant" : thème 1A-1 "le brassage génétique et sa contribution à la diversité génétique", thème 1A-2 "diversification génétique et diversification des êtres vivants", thème 1A-3 "de la diversification des êtres vivants à l'évolution de la biodiversité", thème 1A-4 "un regard sur l'évolution de l'homme" ;
 
-- la partie 1-7 : immunologie.
+- dans le thème 3 "corps humain et santé" : thèmes 3A "le maintien de l'intégrité de l'organisme" et thème 3B "neurone et fibre musculaire". Sont exclus les enseignements dits de spécialité.
 
-II. Programme de physique et de chimie
+2° Programme spécifique de physique-chimie :
 
-Le programme des épreuves de physique et de chimie porte sur l'intégrité du programme de physique-chimie de première et de terminale, série scientifique (arrêté du 9 août 2000, JO du 22 août 2000, Bulletin officiel de l'éducation nationale, hors série no 7 du 31 août 2000 : programme des lycées, volume 5, classe de première, physique-chimie et sciences de la vie et de la Terre, série scientifique ; arrêtés du 20 juillet 2001, JO du 4 août 2001, Bulletin officiel de l'éducation nationale hors série nos 4 et 5 du 30 août 2001 : programme des lycées, volumes 9 et 10, classe terminale, physique-chimie et sciences de la vie et de la Terre, série scientifique).
+Le programme des épreuves de physique et de chimie porte sur l'intégralité du programme de physique-chimie de première et de terminale, série scientifique. Sont exclus les enseignements dits de spécialité.
