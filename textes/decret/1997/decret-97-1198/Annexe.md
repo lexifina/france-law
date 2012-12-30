@@ -10,11 +10,7 @@ Code des ports maritimes
 
 |
 
-Approbation d'une concession d'outillage public dans les ports
-
-d'intérêt national lorsque la déclaration d'utilité publique a fait
-
-l'objet d'un décret en Conseil d'Etat.
+Approbation d'une concession d'outillage public dans les ports d'intérêt national lorsque la déclaration d'utilité publique a fait l'objet d'un décret en Conseil d'Etat.
 
 |
 
@@ -24,11 +20,7 @@ l'objet d'un décret en Conseil d'Etat.
 
 |
 
-Approbation d'une concession d'outillage public dans les ports
-
-autonomes maritimes lorsque la déclaration d'utilité publique
-
-a fait l'objet d'un décret en Conseil d'Etat.
+Approbation d'une concession d'outillage public dans les ports autonomes maritimes lorsque la déclaration d'utilité publique a fait l'objet d'un décret en Conseil d'Etat.
 
 |
 
@@ -48,9 +40,7 @@ Code de l'aviation civile
 
 Suppression ou modification d'installations existantes
 
-Constituant des obstacles à la navigation aérienne à
-
-l'extérieur des zones de servitudes de dégagement.
+Constituant des obstacles à la navigation aérienne à l'extérieur des zones de servitudes de dégagement.
 
 |
 
@@ -76,13 +66,7 @@ Article R. 222-3
 
 |
 
-Autorisation d'outillage privé avec obligation de service
-
-public sur les aérodromes appartenant à l'Etat dans le
-
-cadre des concessions non conformes aux cahiers des
-
-charges types.
+Autorisation d'outillage privé avec obligation de service public sur les aérodromes appartenant à l'Etat dans le cadre des concessions non conformes aux cahiers des charges types.
 
 |
 
@@ -96,9 +80,7 @@ Annexe I au décret n° 2005-828 du 20 juillet 2005 relatif à la société Aér
 
 |
 
-Approbation des contrats de délégation passés par la
-
-société Aéroports de Paris
+Approbation des contrats de délégation passés par la société Aéroports de Paris
 
 |
 
@@ -106,7 +88,9 @@ Article 5
 
 |
 
-TITRE II : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉQUIPEMENT, DES TRANSPORTS ET DU LOGEMENT
+TITRE II : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE
+
+CHARGÉ DE L'ÉQUIPEMENT, DES TRANSPORTS ET DU LOGEMENT
 
 A.-Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement
 
@@ -116,13 +100,7 @@ Décret n° 83-252 du 29 mars 1983 relatif aux procédures d'homologation ou d'a
 
 |
 
-Homologation des armatures en acier à haute résistance et des
-
-procédés de précontrainte pour construction en béton précontraint
-
-par pré ou post-tension, sur proposition de la commission
-
-interministérielle d'agrément.
+Homologation des armatures en acier à haute résistance et des procédés de précontrainte pour construction en béton précontraint par pré ou post-tension, sur proposition de la commission interministérielle d'agrément.
 
 |
 
@@ -142,9 +120,7 @@ Décret n° 86-664 du 14 mars 1986 déterminant les conditions dans lesquelles l
 
 |
 
-Autorisation permanente d'exercer des missions de
-
-conduite d'opération.
+Autorisation permanente d'exercer des missions de conduite d'opération.
 
 |
 
@@ -160,9 +136,7 @@ Code de la construction et de l'habitation
 
 |
 
-Autorisation donnée à une société anonyme d'habitations
-
-à loyer modéré de consentir des avances à d'autres sociétés HLM.
+Autorisation donnée à une société anonyme d'habitations à loyer modéré de consentir des avances à d'autres sociétés HLM.
 
 |
 
@@ -178,11 +152,7 @@ type n° 11 annexée.
 
 |
 
-Approbation des statuts des sociétés immobilières SOFAL, acquises
-
-par souscription par les CIL, et les CCI avec des fonds de la
-
-participation des employeurs à l'effort de construction (PEEC).
+Approbation des statuts des sociétés immobilières SOFAL, acquises par souscription par les CIL, et les CCI avec des fonds de la participation des employeurs à l'effort de construction (PEEC).
 
 |
 
@@ -190,15 +160,11 @@ Article R. 313-18.
 
 |
 
+3
+
 |
 
-Fixation d'une indemnité à verser par le bénéficiaire des financements
-
-aidés par l'Etat en cas de non-respect de la réglementation du financement
-
-de la construction de logements locatifs sociaux et de la réglementation
-
-des plafonds de ressources qui y sont afférents.
+Fixation d'une indemnité à verser par le bénéficiaire des financements aidés par l'Etat en cas de non-respect de la réglementation du financement de la construction de logements locatifs sociaux et de la réglementation des plafonds de ressources qui y sont afférents.
 
 |
 
@@ -210,9 +176,7 @@ Article R. 331-26.
 
 |
 
-Octroi d'un agrément de collecte de la participation des employeurs
-
-à l'effort de construction.
+Octroi d'un agrément de collecte de la participation des employeurs à l'effort de construction.
 
 |
 
@@ -228,11 +192,7 @@ Code de la construction et de l'habitation
 
 |
 
-Octroi d'un agrément de collecte de la participation des employeurs à
-
-l'effort de construction (pour un agrément concernant les chambres de
-
-commerce et d'industrie).
+Octroi d'un agrément de collecte de la participation des employeurs à l'effort de construction (pour un agrément concernant les chambres de commerce et d'industrie).
 
 |
 
@@ -250,11 +210,7 @@ Code de la construction et de l'habitation
 
 |
 
-Octroi d'un agrément de collecte de la participation des employeurs
-
-à l'effort de construction (pour un agrément concernant les caisses
-
-d'allocations familiales).
+Octroi d'un agrément de collecte de la participation des employeurs à l'effort de construction (pour un agrément concernant les caisses d'allocations familiales).
 
 |
 
@@ -272,19 +228,7 @@ Code de la construction et de l'habitation
 
 |
 
-Décisions concernant un office public d'aménagement et de construction
-
-et relatives au retrait temporaire d'une ou plusieurs compétences, à la révocation
-
-d'un ou plusieurs membres du conseil d'administration, à l'interdiction de participer
-
-au conseil d'administration, au conseil de surveillance ou au directoire d'un
-
-organisme d'habitations à loyer modéré, à la dissolution du conseil d'administration
-
-et à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la
-
-mission confiée à ce dernier.
+Décisions concernant un office public d'aménagement et de construction et relatives au retrait temporaire d'une ou plusieurs compétences, à la révocation d'un ou plusieurs membres du conseil d'administration, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré, à la dissolution du conseil d'administration et à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier.
 
 |
 
@@ -296,17 +240,7 @@ Article R. 421-13.
 
 |
 
-Décisions concernant un office public d'habitations à loyer modéré et relatives au
-
-retrait temporaire d'une ou plusieurs compétences, à la révocation d'un ou plusieurs
-
-membres du conseil d'administration, à l'interdiction de participer au conseil
-
-d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations
-
-à loyer modéré, à la dissolution du conseil d'administration et à la nomination d'un
-
-administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier.
+Décisions concernant un office public d'habitations à loyer modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la révocation d'un ou plusieurs membres du conseil d'administration, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré, à la dissolution du conseil d'administration et à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier.
 
 |
 
@@ -322,9 +256,7 @@ Code de la construction et de l'habitation
 
 |
 
-Autorisation de sortie du statut coopératif pour les sociétés anonymes coopératives
-
-d'habitations à loyer modéré.
+Autorisation de sortie du statut coopératif pour les sociétés anonymes coopératives d'habitations à loyer modéré.
 
 |
 
@@ -342,9 +274,7 @@ Décret n° 60-24 du 12 janvier 1960 portant application, à l'égard des agents
 
 |
 
-Pensions garanties par l'Etat : décision de mise en paiement de la
-
-pension ou de la rente garantie.
+Pensions garanties par l'Etat : décision de mise en paiement de la pension ou de la rente garantie.
 
 |
 
@@ -360,9 +290,7 @@ Décret n° 60-25 du 12 janvier 1960 portant application, à l'égard des retrai
 
 |
 
-Pensions garanties par l'Etat : décision de mise en paiement de la
-
-pension ou de la rente garantie.
+Pensions garanties par l'Etat : décision de mise en paiement de la pension ou de la rente garantie.
 
 |
 
@@ -378,9 +306,7 @@ Décret n° 61-752 du 13 juillet 1961 portant application de l'article 11 de la 
 
 |
 
-Pensions garanties par l'Etat : décision de mise en paiement de la
-
-pension ou de la rente garantie.
+Pensions garanties par l'Etat : décision de mise en paiement de la pension ou de la rente garantie.
 
 |
 
@@ -398,9 +324,7 @@ Décret n° 96-611 du 4 juillet 1996 relatif à la mise sur le marché des batea
 
 |
 
-Agrément des organismes d'évaluation de conformité des navires
-
-de plaisance.
+Agrément des organismes d'évaluation de conformité des navires de plaisance.
 
 |
 
@@ -418,9 +342,7 @@ Décret n° 93-279 du 4 mars 1993 fixant les modalités de calcul des quantités
 
 |
 
-Décision relative à l'obligation de capacité de transport de pétrole
-
-brut sous pavillon français.
+Décision relative à l'obligation de capacité de transport de pétrole brut sous pavillon français.
 
 |
 
@@ -448,15 +370,17 @@ Article 219, paragraphe 1er (3°).
 
 Mesures prises par le ministre chargé du transport des marchandises dangereuses et, le cas échéant, les autres ministres intéressés
 
-Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution : 1
+Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution :
+
+1
 
 |
 
-Evaluation des cargaisons et approbation des conditions de transport.
+Evaluation des cargaisons et approbation des conditions de transport
 
 |
 
-Article 56 (II)..
+Article 56 (II).
 
 |
 
@@ -468,7 +392,7 @@ Habilitation, retrait et suspension de l'habilitation des organismes chargés de
 
 |
 
-Article 42-2
+Article 42-2.
 
 |
 
@@ -480,11 +404,7 @@ Code des ports maritimes
 
 |
 
-Approbation d'une concession d'outillage public dans les ports d'intérêt
-
-national principaux ou lorsqu'il y a lieu à déclaration d'utilité publique
-
-prononcée par arrêté ministériel.
+Approbation d'une concession d'outillage public dans les ports d'intérêt national principaux ou lorsqu'il y a lieu à déclaration d'utilité publique prononcée par arrêté ministériel.
 
 |
 
@@ -500,15 +420,7 @@ Code de l'aviation civile
 
 |
 
-Autorisation d'outillage privé avec obligation de service public sur les aérodromes
-
-appartenant à l'Etat dans le cadre des concessions conformes aux cahiers des
-
-charges types lorsque l'aérodrome concerné a assuré, en moyenne au cours des
-
-trois dernières années civiles connues, un trafic de plus de 200 000 passagers
-
-embarqués ou débarqués.
+Autorisation d'outillage privé avec obligation de service public sur les aérodromes appartenant à l'Etat dans le cadre des concessions conformes aux cahiers des charges types lorsque l'aérodrome concerné a assuré, en moyenne au cours des trois dernières années civiles connues, un trafic de plus de 200 000 passagers embarqués ou débarqués.
 
 |
 
@@ -526,11 +438,7 @@ Code de l'aviation civile
 
 |
 
-Décision relative à l'inscription sur les registres spéciaux du personnel navigant
-
-professionnel de l'aéronautique civile des personnes n'ayant pas la nationalité
-
-française (transport et travail aériens).
+Décision relative à l'inscription sur les registres spéciaux du personnel navigant professionnel de l'aéronautique civile des personnes n'ayant pas la nationalité française (transport et travail aériens).
 
 |
 
@@ -546,9 +454,7 @@ Code de l'aviation civile
 
 |
 
-Etablissement de certaines installations à l'extérieur de zones grevées de
-
-servitudes de dégagement.
+Etablissement de certaines installations à l'extérieur de zones grevées de servitudes de dégagement.
 
 |
 
@@ -560,9 +466,7 @@ Article R. 244-1.
 
 |
 
-Habilitation d'organismes techniques ou de personnes extérieures à l
-
-'administration en matière de contrôle technique.
+Habilitation d'organismes techniques ou de personnes extérieures à l'administration en matière de contrôle technique.
 
 |
 
@@ -578,11 +482,7 @@ Code de l'aviation civile
 
 |
 
-Décision relative à l'inscription sur les registres spéciaux du personnel
-
-navigant professionnel de l'aéronautique civile des personnes n'ayant
-
-pas la nationalité française (essais et réceptions).
+Décision relative à l'inscription sur les registres spéciaux du personnel navigant professionnel de l'aéronautique civile des personnes n'ayant pas la nationalité française (essais et réceptions).
 
 |
 
@@ -598,9 +498,7 @@ Code de l'aviation civile
 
 |
 
-Autorisation de créer un aérodrome en cas d'opposition des
-
-départements ministériels intéressés.
+Autorisation de créer un aérodrome en cas d'opposition des départements ministériels intéressés.
 
 |
 
@@ -616,13 +514,7 @@ Décret n° 2001-129 du 8 février 2001 portant transposition de la directive 96
 
 |
 
-Désignation des organismes habilités à mettre en oeuvre la
-
-procédure d'évaluation de la conformité ou de l'aptitude à
-
-l'emploi des constituants d'interopérabilité et la procédure de
-
-vérification CE des sous-systèmes.
+Désignation des organismes habilités à mettre en œuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification CE des sous-systèmes.
 
 |
 
@@ -636,9 +528,7 @@ Décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des constit
 
 |
 
-Habilitation des organismes à évaluer la conformité des
-
-constituants et sous-systèmes des remontées mécaniques
+Habilitation des organismes à évaluer la conformité des constituants et sous-systèmes des remontées mécaniques
 
 |
 
@@ -646,21 +536,13 @@ Article 15
 
 |
 
-Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèmes ferroviaires transeuropéens conventionnel et à
-
-grande vitesse.
+Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèmes ferroviaires transeuropéens conventionnel et à grande vitesse.
 
 1
 
 |
 
-Habilitation des organismes mettant en oeuvre la procédure
-
-d'évaluation de la conformité ou de l'aptitude à l'emploi des
-
-constituants d'interopérabilité et la procédure de vérification
-
-" CE " des sous-systèmes.
+Habilitation des organismes mettant en oeuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification "CE" des sous-systèmes.
 
 |
 
@@ -676,13 +558,39 @@ Décret n° 2003-947 du 3 octobre 2003 modifiant le décret n° 92-647 du 8 juil
 
 |
 
-Habilitation des organismes à effectuer les tâches d'attestation
-
-de conformité des produits de construction.
+Habilitation des organismes à effectuer les tâches d'attestation de conformité des produits de construction.
 
 |
 
 Article 1er III
+
+|
+
+Mesures prises par les ministres chargés de la construction, des transports et de l'équipement :
+
+Décret n° 2012-1489 du 27 décembre 2012 pris pour l'exécution du règlement (UE) n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011 établissant des conditions harmonisées de commercialisation pour les produits de construction et abrogeant la directive 89/106/ CEE du Conseil.
+
+1
+
+|
+
+Désignation des organismes notifiés, autorisés à effectuer les tâches d'évaluation et de vérification de la constance des performances des produits de construction.
+
+|
+
+Article 2
+
+|
+
+2
+
+|
+
+Désignation des organismes d'évaluation technique européenne des produits de construction
+
+|
+
+Article 4
 
 |
 
@@ -724,9 +632,7 @@ Décret n° 93-1289 du 8 décembre 1993 relatif à l'Ecole nationale des ponts e
 
 |
 
-Attribution et délivrance des titres et diplômes de l'Ecole
-
-nationale des ponts et chaussées.
+Attribution et délivrance des titres et diplômes de l'Ecole nationale des ponts et chaussées.
 
 |
 
@@ -740,13 +646,9 @@ Code de la voirie routière
 
 |
 
-Autorisation d'emploi à titre expérimental, attestation
+Autorisation d'emploi à titre expérimental, attestation d'équivalence et homologation des équipements routiers.
 
-d'équivalence et homologation des équipements routiers.
-
-Suspension et annulation de cette autorisation,
-
-attestation ou homologation.
+Suspension et annulation de cette autorisation, attestation ou homologation.
 
 |
 
@@ -774,9 +676,7 @@ Article R. 118-2-4
 
 |
 
-Agrément des organismes habilités à attester et à vérifier la conformité
-
-des équipements routiers. Suspension et annulation de cet agrément.
+Agrément des organismes habilités à attester et à vérifier la conformité des équipements routiers. Suspension et annulation de cet agrément.
 
 |
 
@@ -794,9 +694,7 @@ Code de la construction et de l'habitation
 
 |
 
-Approbation de l'attribution de la portion d'actif excédant la moitié
-
-du capital social en cas de dissolution d'une société d'habitations à loyer modéré.
+Approbation de l'attribution de la portion d'actif excédant la moitié du capital social en cas de dissolution d'une société d'habitations à loyer modéré.
 
 |
 
@@ -810,11 +708,7 @@ Article R. 422-17,
 
 |
 
-Décisions relatives à l'extension de la compétence territoriale des sociétés
-
-anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives
-
-d'habitations à loyer modéré et des sociétés anonymes de crédit immobilier.
+Décisions relatives à l'extension de la compétence territoriale des sociétés anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives d'habitations à loyer modéré et des sociétés anonymes de crédit immobilier.
 
 |
 
@@ -838,9 +732,7 @@ articles R. 422-10 et R. 422-11.
 
 |
 
-Autorisation d'acquisition de titres souscrits avec des fonds de la participation des
-
-employeurs à l'effort de construction (PEEC) par les CIL.
+Autorisation d'acquisition de titres souscrits avec des fonds de la participation des employeurs à l'effort de construction (PEEC) par les CIL.
 
 |
 
@@ -852,9 +744,7 @@ Article R. 313-31-I (2 ter).
 
 |
 
-Autorisation pour affectation de la perte (réalisée dans l'exercice clos des organismes
-
-collecteurs) en diminution de compte de réserve.
+Autorisation pour affectation de la perte (réalisée dans l'exercice clos des organismes collecteurs) en diminution de compte de réserve.
 
 |
 
@@ -866,25 +756,7 @@ Article R. 313-33-2.
 
 |
 
-Décisions concernant une société anonyme de crédit immobilier, une société anonyme
-
-d'habitations à loyer modéré ou une société coopérative d'habitations à loyer modéré
-
-et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou
-
-à la révocation d'un ou plusieurs membres du conseil d'administration, du conseil de
-
-surveillance ou du directoire, à l'interdiction de participer au conseil d'administration,
-
-au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré,
-
-à la suspension du conseil d'administration, du conseil de surveillance ou du directoire,
-
-à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission c
-
-onfiée à ce dernier, à la dissolution, à la liquidation et à la nomination d'un liquidateur
-
-ainsi qu'à l'autorisation de procéder à une cession d'actifs.
+Décisions concernant une société anonyme de crédit immobilier, une société anonyme d'habitations à loyer modéré ou une société coopérative d'habitations à loyer modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou à la révocation d'un ou plusieurs membres du conseil d'administration, du conseil de surveillance ou du directoire, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré, à la suspension du conseil d'administration, du conseil de surveillance ou du directoire, à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier, à la dissolution, à la liquidation et à la nomination d'un liquidateur ainsi qu'à l'autorisation de procéder à une cession d'actifs.
 
 |
 
@@ -900,9 +772,7 @@ HLM : article R. 422-17.
 
 |
 
-Agrément des sociétés anonymes de crédit immobilier, des sociétés coopératives
-
-d'habitations à loyer modéré.
+Agrément des sociétés anonymes de crédit immobilier, des sociétés coopératives d'habitations à loyer modéré.
 
 |
 
@@ -914,9 +784,7 @@ Coopératives HLM : article R. 422-16.
 
 |
 
-Agrément et renouvellement de l'agrément des sociétés anonymes d'habitations à loyer
-
-modéré.
+Agrément et renouvellement de l'agrément des sociétés anonymes d'habitations à loyer modéré.
 
 |
 
@@ -930,9 +798,7 @@ et R. 422-16-1.
 
 |
 
-Accord en vue de la réévaluation de l'actif des sociétés d'habitations à loyer modéré
-
-et de crédit immobilier.
+Accord en vue de la réévaluation de l'actif des sociétés d'habitations à loyer modéré et de crédit immobilier.
 
 |
 
@@ -944,11 +810,7 @@ Article R. 423-72.
 
 |
 
-Retrait d'agrément, sanction envers les organismes HLM qui recueillent la participation
-
-des employeurs à l'effort de construction (PEEC) et injonction de transfert de leur situation
-
-active et passive à un organisme ou une personne morale ou physique.
+Retrait d'agrément, sanction envers les organismes HLM qui recueillent la participation des employeurs à l'effort de construction (PEEC) et injonction de transfert de leur situation active et passive à un organisme ou une personne morale ou physique.
 
 |
 
@@ -972,11 +834,7 @@ Article R. 423-86
 
 |
 
-Agrément spécial d'une société anonyme de coordination d'organismes d'habitations à loyer
-
-modéré aux fins d'exercer certaines des compétences mentionnées aux alinéas troisième et
-
-suivants de l'article L. 422-2.
+Agrément spécial d'une société anonyme de coordination d'organismes d'habitations à loyer modéré aux fins d'exercer certaines des compétences mentionnées aux alinéas troisième et suivants de l'article L. 422-2.
 
 |
 
@@ -988,25 +846,7 @@ Article R. 423-87
 
 |
 
-Décisions concernant une société anonyme de coordination d'organismes d'habitations à loyer
-
-modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou
-
-à la révocation d'un membre du conseil d'administration, du conseil de surveillance ou du
-
-directoire, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou
-
-au directoire d'un organisme d'habitation à loyer modéré, à la suspension du conseil
-
-d'administration, du conseil de surveillance ou du directoire, à la nomination d'un
-
-administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier, à la
-
-dissolution et à la liquidation de la société, à la nomination d'un liquidateur. Autorisation de
-
-procéder à une attribution d'actifs selon les modalités prévues au premier alinéa de
-
-l'article L. 422-11.
+Décisions concernant une société anonyme de coordination d'organismes d'habitations à loyer modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou à la révocation d'un membre du conseil d'administration, du conseil de surveillance ou du directoire, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitation à loyer modéré, à la suspension du conseil d'administration, du conseil de surveillance ou du directoire, à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier, à la dissolution et à la liquidation de la société, à la nomination d'un liquidateur. Autorisation de procéder à une attribution d'actifs selon les modalités prévues au premier alinéa de l'article L. 422-11.
 
 |
 
@@ -1022,11 +862,7 @@ Code des ports maritimes :
 
 |
 
-Approbation de la convention entre l'autorité portuaire et Réseau ferré de France fixant les
-
-conditions techniques et financières particulières du raccordement des voies ferrées portuaires
-
-au réseau ferré national.
+Approbation de la convention entre l'autorité portuaire et Réseau ferré de France fixant les conditions techniques et financières particulières du raccordement des voies ferrées portuaires au réseau ferré national.
 
 |
 
@@ -1110,9 +946,7 @@ Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèm
 
 |
 
-Dérogation aux spécifications techniques d'interopérabilité du
-
-système ferroviaire transeuropéen conventionnel.
+Dérogation aux spécifications techniques d'interopérabilité du système ferroviaire transeuropéen conventionnel.
 
 |
 
@@ -1124,11 +958,7 @@ Article 9
 
 |
 
-Refus de transmission à la Commission européenne d'une demande
-
-de dérogation aux spécifications techniques d'interopérabilité du
-
-système ferroviaire transeuropéen conventionnel.
+Refus de transmission à la Commission européenne d'une demande de dérogation aux spécifications techniques d'interopérabilité du système ferroviaire transeuropéen conventionnel.
 
 |
 
@@ -1136,17 +966,15 @@ Article 10
 
 |
 
-Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18 et
+Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18
 
-95-19 du 19 juin 1995.
+et 95-19 du 19 juin 1995.
 
 1
 
 |
 
-Délivrance, suspension temporaire et retrait des licences d'entreprises
-
-ferroviaires.
+Délivrance, suspension temporaire et retrait des licences d'entreprises ferroviaires.
 
 |
 
@@ -1196,9 +1024,7 @@ Art. 7 et 8
 
 |
 
-Autorisation de mise en exploitation, suspension temporaire et
-
-retrait d'autorisations.
+Autorisation de mise en exploitation, suspension temporaire et retrait d'autorisations.
 
 |
 
@@ -1212,11 +1038,7 @@ Règlement (CEE) n° 684-92 du Conseil du 16 mars 1992 établissant des règles 
 
 |
 
-Délivrance des autorisations pour l'exécution de services internationaux
-
-(CEE) de transport routier de voyageurs lorsque le service n'est pas
-
-limité à un département frontalier et à l'Etat membre limitrophe.
+Délivrance des autorisations pour l'exécution de services internationaux (CEE) de transport routier de voyageurs lorsque le service n'est pas limité à un département frontalier et à l'Etat membre limitrophe.
 
 |
 
@@ -1230,11 +1052,7 @@ Code de la route
 
 |
 
-Accréditation (et retrait d'accréditation) des représentants français de
-
-constructeurs étrangers pour effectuer les réceptions et homologation
-
-de véhicules et d'équipements.
+Accréditation (et retrait d'accréditation) des représentants français de constructeurs étrangers pour effectuer les réceptions et homologation de véhicules et d'équipements.
 
 |
 
@@ -1248,9 +1066,7 @@ et R. 109-2, 2e alinéa.
 
 |
 
-Réception et homologation des équipements des véhicules
-
-(et annulation d'homologation).
+Réception et homologation des équipements des véhicules (et annulation d'homologation).
 
 |
 
@@ -1280,9 +1096,7 @@ Titres II et III.
 
 |
 
-Décret n° 60-794 du 22 juin 1960 modifié portant publication de l'accord européen relatif au transport international des
-
-marchandises dangereuses par route (ADR) ouvert à la signature le 30 septembre 1957
+Décret n° 60-794 du 22 juin 1960 modifié portant publication de l'accord européen relatif au transport international des marchandises dangereuses par route (ADR) ouvert à la signature le 30 septembre 1957
 
 1
 
@@ -1312,11 +1126,7 @@ Décret n° 70-810 du 2 septembre 1970 relatif à la sécurité des bateaux à p
 
 |
 
-Agrément et décision de nomination d'experts pour intervenir à
-
-la demande des commissions de surveillance et de particuliers
-
-en effectuant des visites et essais sur les bateaux à passagers.
+Agrément et décision de nomination d'experts pour intervenir à la demande des commissions de surveillance et de particuliers en effectuant des visites et essais sur les bateaux à passagers.
 
 |
 
@@ -1330,13 +1140,7 @@ Décret n° 71-912 du 28 octobre 1971 relatif à la sécurité des bateaux et en
 
 |
 
-Agrément d'experts pour intervenir à la demande des commissions
-
-de surveillance et de particuliers en effectuant des visites et essais
-
-sur les bateaux et engins de plaisance circulant ou stationnant sur
-
-les eaux intérieures.
+Agrément d'experts pour intervenir à la demande des commissions de surveillance et de particuliers en effectuant des visites et essais sur les bateaux et engins de plaisance circulant ou stationnant sur les eaux intérieures.
 
 |
 
@@ -1350,11 +1154,7 @@ Décret n° 79-222 du 6 mars 1979 modifié fixant le régime applicable aux tran
 
 |
 
-Délivrance des autorisations pour l'exécution de services internationaux
-
-de transport routier de voyageurs à destination ou en provenance des
-
-pays tiers à l'Espace économique européen.
+Délivrance des autorisations pour l'exécution de services internationaux de transport routier de voyageurs à destination ou en provenance des pays tiers à l'Espace économique européen.
 
 |
 
@@ -1362,19 +1162,13 @@ Article 3.
 
 |
 
-Décret n° 81-208 du 3 mars 1981 portant application des dispositions du titre III, chapitre Ier, du livre II du code du travail dans
-
-les entreprises de transport public par route
+Décret n° 81-208 du 3 mars 1981 portant application des dispositions du titre III, chapitre Ier, du livre II du code du travail dans les entreprises de transport public par route
 
 1
 
 |
 
-Autorisation du ministre des transports aux chefs d'entreprise de transport
-
-public par route pour déroger dans certains cas aux conditions d'exploitation
-
-du transport (création de comité hygiène et sécurité).
+Autorisation du ministre des transports aux chefs d'entreprise de transport public par route pour déroger dans certains cas aux conditions d'exploitation du transport (création de comité hygiène et sécurité).
 
 |
 
@@ -1388,9 +1182,7 @@ Décret n° 83-40 du 26 janvier 1983 relatif aux modalités d'application des di
 
 |
 
-Autorisation ministérielle au calcul de la durée hebdomadaire de travail
-
-sur deux semaines dans le transport routier de marchandises
+Autorisation ministérielle au calcul de la durée hebdomadaire de travail sur deux semaines dans le transport routier de marchandises
 
 |
 
@@ -1420,11 +1212,7 @@ Décret n° 97-608 du 31 mai 1997 relatif à la formation professionnelle initia
 
 |
 
-Jusqu'au 31 décembre 1999, agrément des centres de formation
-
-habilités à former les conducteurs routiers (marchandises) au titre
-
-de leur formation obligatoire.
+Jusqu'au 31 décembre 1999, agrément des centres de formation habilités à former les conducteurs routiers (marchandises) au titre de leur formation obligatoire.
 
 |
 
@@ -1596,7 +1384,7 @@ Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie 
 
 |
 
-Délivrance, visa et renouvellement du document de conformité à la gestion de la sécurité.
+Délivrance, visa et renouvellement du document de conformité à la gestion de la sécurité
 
 |
 
@@ -1608,7 +1396,7 @@ Article 3-1, paragraphe III.
 
 |
 
-Délivrance des certificats d'exemption
+Délivrance des certificats d'exemption.
 
 |
 
@@ -1716,13 +1504,11 @@ duplicatas de permis de conduire des navires de plaisance
 
 Article 5,
 
-1er alinéa
+1er alinéa.
 
 |
 
-Décret n° 99-439 du 25 mai 1999 modifié relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle
-
-d'équipage.
+Décret n° 99-439 du 25 mai 1999 modifié relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage.
 
 1
 
@@ -2328,6 +2114,42 @@ Article R. 213-3-3, III.
 
 |
 
+32
+
+|
+
+Certification des personnes mettant en œuvre des mesures de sûreté ; de leurs superviseurs et des instructeurs et retrait de cette certification
+
+|
+
+Article R. 213-4, I
+
+|
+
+33
+
+|
+
+Agrément des organismes participant au processus de certification ou délivrant la certification à ces mêmes personnes et suspension ou retrait de cet agrément
+
+|
+
+Article R. 213-4-1
+
+|
+
+34
+
+|
+
+Approbation des cours portant sur la sûreté de l'aviation civile et retrait de cette approbation
+
+|
+
+Article R. 213-4-1
+
+|
+
 Annexe I au décret n° 2005-828 du 20 juillet 2005relatif à la société Aéroports de Paris
 
 1
@@ -2420,7 +2242,7 @@ Articles 5 et 6.
 
 |
 
-Retrait du marché de produits dangereux.
+Retrait du marché de produits dangereux
 
 |
 
@@ -2450,7 +2272,7 @@ Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité
 
 |
 
-Article 45-1.
+Article 6 bis.
 
 |
 
