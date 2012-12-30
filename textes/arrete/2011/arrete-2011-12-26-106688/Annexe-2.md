@@ -16,35 +16,21 @@ TITRE
 
 |
 
-AVANCE
-
-de trésorerie
-
-(en €)
+AVANCE DE TRÉSORERIE (en euros)
 
 |
 
 PLAFOND DE DÉPENSES
 
-autorisées en 2012
+autorisées pour 2012
 
-(en €)
-
-|
-
-Mission anciens combattants, mémoire
-
-et liens avec la nation
+(en euros)
 
 |
 
-|
+Mission anciens combattants,
 
-|
-
-|
-
-|
+mémoire et liens avec la nation
 
 Liens entre la nation et son armée
 
@@ -58,89 +44,31 @@ Liens entre la nation et son armée
 
 |
 
-24 340 000
+|
 
 |
 
-20 279 987
+24 340 000
 
 |
 
 Mission défense
 
-|
-
-|
-
-|
-
-|
-
-|
-
 Environnement et prospective de la politique de défense
+
+Equipement des forces
+
+Préparation et emploi des forces
+
+Soutien de la politique de défense
 
 |
 
 144
 
-|
-
-2
-
-|
-
-232 990 000
-
-|
-
-194 161 418
-
-|
-
-Equipement des forces
-
-|
-
 146
 
-|
-
-2
-
-|
-
-195 630 000
-
-|
-
-163 026 551
-
-|
-
-Préparation et emploi des forces
-
-|
-
 178
-
-|
-
-2
-
-|
-
-9 134 560 000
-
-|
-
-7 612 134 682
-
-|
-
-Soutien de la politique de défense
-
-|
 
 212
 
@@ -148,27 +76,25 @@ Soutien de la politique de défense
 
 2
 
+2
+
+2
+
+2
+
 |
+
+232 990 000
+
+195 630 000
+
+9 134 560 000
 
 182 570 000
 
 |
 
-152 144 163
-
-|
-
 Mission action extérieure de l'Etat
-
-|
-
-|
-
-|
-
-|
-
-|
 
 Action de la France en Europe et dans le monde
 
@@ -186,21 +112,7 @@ Action de la France en Europe et dans le monde
 
 |
 
-35 221 869
-
-|
-
 Mission outre-mer
-
-|
-
-|
-
-|
-
-|
-
-|
 
 Emploi outre-mer
 
@@ -218,21 +130,7 @@ Emploi outre-mer
 
 |
 
-69 088 501
-
-|
-
 Mission sécurité
-
-|
-
-|
-
-|
-
-|
-
-|
 
 Gendarmerie nationale
 
@@ -250,21 +148,7 @@ Gendarmerie nationale
 
 |
 
-3 330 000
-
-|
-
 Mission sécurité civile
-
-|
-
-|
-
-|
-
-|
-
-|
 
 Conduite et pilotage des politiques de l'intérieur
 
@@ -282,21 +166,7 @@ Conduite et pilotage des politiques de l'intérieur
 
 |
 
-45 649 629
-
-|
-
 Mission écologie
-
-|
-
-|
-
-|
-
-|
-
-|
 
 Conduite et pilotage des politiques de l'écologie, de l'énergie, du développement durable et de la mer
 
@@ -314,10 +184,6 @@ Conduite et pilotage des politiques de l'écologie, de l'énergie, du développe
 
 |
 
-9 100 000
-
-|
-
 Total ATS
 
 |
@@ -330,7 +196,7 @@ Total ATS
 
 |
 
-8 304 136 800
+8 744 546 800
 
 |
 
@@ -1105,32 +971,6 @@ Conduite et pilotage des politiques de l'écologie, de l'énergie, du développe
 |
 
 10 920 000
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
