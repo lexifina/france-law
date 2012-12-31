@@ -1,0 +1,72 @@
+# LOI n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012
+
+- Type : loi publiee
+- Législature : XIVème législature
+- Ouvert le : 2012-12-31
+- Mis à jour le : 2012-12-31
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000026630194
+
+## LOI n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026857857
+
+## Décision du Conseil constitutionnel n° 2012-661 DC du 29 décembre 2012
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026858820
+
+## LOI n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012 (rectificatif)
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027093638
+
+## Documents
+
+- [Projet de loi, exposés des motifs et évaluations préalables des articles du projet de loi](http://www.assemblee-nationale.fr/14/pdf/projets/pl0403.pdf) (sur le site de l'Assemblée nationale).
+- [Communiqué de presse du Conseil des ministres du 14 novembre 2012](http://archives.gouvernement.fr/ayrault/gouvernement/loi-de-finances-rectificative-pour-2012-0.html) Le ministre de l’économie et des finances et le ministre délégué auprès du ministre de l’économie et des finances, chargé du budget, ont présenté un projet de loi de finances rectificative (PLFR) pour 2012. Ce texte assure le respect strict du plafond de dépense (dépenses de l’Etat hors charge de la dette et pensions) défini lors de la précédente loi de finances rectificative. L’ensemble des ouvertures de crédits est en effet couvert par des annulations. Ces ouvertures visent principalement à couvrir les insuffisances de crédits qu’avait identifiées la Cour des comptes dans son rapport de juin 2012. Parallèlement, le financement des priorités du Gouvernement est assuré, notamment en faveur de la politique de l’emploi et du logement. Le PLFR prévoit également l’octroi de garanties à l’Unédic et à PSA Finance et l’apport de la contribution de la France à la recapitalisation de Dexia annoncée le 8 novembre. Hors opération de recapitalisation de Dexia, le solde budgétaire est ainsi conforme à la dernière prévision présentée en septembre, soit -83,6 milliards d’euros. Cette gestion responsable de la dépense publique permet de confirmer l’objectif de réduction du déficit public à 4,5 % de la richesse nationale en 2012. Le collectif budgétaire constitue également, en matière fiscale, une étape essentielle dans le plan global de renforcement de la lutte contre la fraude et l’optimisation en matière fiscale et sociale voulu par le Gouvernement, dont les différents aspects seront rassemblés dans le plan national de lutte contre la fraude en 2013. Les Français appelés à faire des efforts pour participer au redressement des comptes publics dans la justice ne comprendraient pas que certains puissent se soustraire à leur juste contribution par des manœuvres illégales ou des optimisations abusives. Les mesures de lutte contre la fraude fiscale visent d’abord à contraindre les contribuables soupçonnés de fraude à davantage de transparence vis-à-vis de l’administration. Un contribuable refusant de dévoiler l’origine de sommes non déclarées placées à l’étranger verra celles-ci présumées provenir d’une donation et taxées à 60 %. L’obligation de justifier les encaissements sur ses comptes sera également rendue plus opérante et jouera lorsque les encaissements excèdent les revenus déclarés de plus de 200 000 € par an. Parallèlement, est proposé le renforcement des moyens procéduraux de lutte contre la fraude à disposition des administrations. La procédure de flagrance fiscale, la procédure judiciaire d’enquête fiscale (la « police fiscale ») seront ainsi étendues. L’administration verra également ses prérogatives adaptées aux évolutions informatiques afin de lui permettre d’accéder à des données stockées à distance ou protégées. Les entreprises qui tiennent leur comptabilité au moyen de systèmes informatisés devront la présenter sous cette forme lors d’un contrôle à compter de 2014. La fraude qui frappe le commerce du tabac sera spécifiquement visée, avec la mise en place d’une traçabilité des produits du tabac, permettant de mieux lutter contre les réseaux de contrefaçon et de contrebande. Les moyens des douanes seront également renforcés sur Internet, en organisant la réalisation d’opérations sous identité cachée. La fraude en matière de TVA aux voitures d’occasion sera également mieux réprimée, en rendant solidairement redevable de la TVA tout membre de la chaîne d’intermédiaires qui « savait ou ne pouvait ignorer » qu’il participait à un montage frauduleux, comme c’est déjà le cas pour les fraudes de type « carrousels ». Enfin, les mesures de lutte contre les abus en matière fiscale visent à limiter les capacités pour les contribuables de mettre en place des stratégies d’optimisation fiscale détournant l’esprit de la loi. Ainsi, les gains tirés des cessions d’usufruit temporaire, réalisées pour bénéficier d’une imposition favorable des plus-values, seront requalifiés et imposés comme les revenus des biens dont l’usufruit est cédé. Sont également visées les opérations d’apports-cessions et de donations-cessions : le projet de loi propose ainsi que des titres cédés rapidement après une donation soient taxés de la même façon que des titres cédés pour en donner ensuite le produit. L’ensemble de ces mesures vise à atteindre l’objectif de produit supplémentaire de 1 Md€ issu de la lutte contre la fraude, retenu dans le projet de loi de finances initiale pour 2013. Par ailleurs, le projet de loi propose un ensemble de mesures de mise en conformité avec la législation communautaire, notamment en matière d’imposition des transferts de sièges de sociétés à l’étranger, de simplifications administratives (favorables aux entreprises) en matière de cautions douanières et de facturation électronique de la TVA. Le PLFR propose enfin une réforme ambitieuse du système des garanties à l’exportation, première mesure mise en œuvre du Pacte national pour la croissance, la compétitivité et l’emploi (décision n° 15).
+- [Texte adopté en 1ère lecture par l'Assemblée nationale le 11 décembre 2012](http://www.assemblee-nationale.fr/14/ta/ta0060.asp)
+- [Texte rejeté en 1ère lecture par le Sénat le 15 décembre 2012](http://www.senat.fr/petite-loi-ameli/2012-2013/204.html)
+- [Texte adopté en nouvelle lecture par l'Assemblée nationale le 18 décembre 2012](http://www.assemblee-nationale.fr/14/ta/ta0067.asp)
+- [Texte rejeté en nouvelle lecture par le Sénat le 19 décembre 2012](http://www.senat.fr/petite-loi-ameli/2012-2013/238.html)
+- [Texte adopté en lecture définitive par l'Assemblée nationale le 19 décembre 2012](http://www.assemblee-nationale.fr/14/ta/ta0071.asp)
+- [Rapport sur la mise en application de la loi transmis au Parlement par le Gouvernement le 14 novembre 2013](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/application-des-lois/rapports-art-67/2012/loi_2012-1510.pdf.pdf) (en application de l'article 67 de la loi n° 2004-1343 du 9 décembre 2004 de simplification du droit)
+- Dossiers législatifs
+  - Assemblée nationale
+    - [Dossier législatif de l'Assemblée nationale](http://www.assemblee-nationale.fr/14/dossiers/troisieme_collectif_2012.asp)
+  - Sénat
+    - [Dossier législatif du Sénat](http://www.senat.fr/dossier-legislatif/pjl12-204.html)
+- Documents préparatoires
+  - [Rapport n° 465 de M. Christian Eckert](http://www.assemblee-nationale.fr/14/rapports/r0465.asp)
+  - [Rapport n° 213 de M. François Marc (Tome I - Rapport)](http://www.senat.fr/rap/l12-213-1/l12-213-1.html)
+  - [Rapport n° 213 de M. François Marc (Tome II - Tableau comparatif)](http://www.senat.fr/rap/l12-213-2/l12-213-2.html)
+  - [Rapport de M. Christian Eckert (n° 542 à l'Assemblée nationale) et M. François Marc (n° 230 au Sénat)](http://www.assemblee-nationale.fr/14/rapports/r0542.asp) (désaccord en CMP).
+  - [Rapport n° 544 de M. Christian Eckert (Tome I - Introduction)](http://www.assemblee-nationale.fr/14/rapports/r0544-tI.asp)
+  - [Rapport n° 544 de M. Christian Eckert (Tome II - Tableau comparatif)](http://www.assemblee-nationale.fr/14/rapports/r0544-tII.asp)
+  - [Rapport n° 240 de M. François Marc](http://www.senat.fr/rap/l12-240/l12-240.html)
+  - [Rapport n° 572 de M. Christian Eckert](http://www.assemblee-nationale.fr/14/rapports/r0572.asp)
+- Débats parlementaires
+  - Assemblée nationale (1ère lecture)
+    - Compte rendu intégral des séances du 3 décembre 2012
+      - [1ère séance du 3 décembre 2012](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130081.asp#P308_79162) : présentation, motion de rejet préalable, discussion générale.
+      - [2ème séance du 3 décembre](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130082.asp#P84_2190) : discussion générale (suite), discussion des articles : première partie, art 1er, art 2, art 3, après l’art 3, art 4 et état A, vote sur l’ensemble de la première partie, seconde partie, art 5 et état B, art 6 et état C, art 7, après l’art 7, art 8, art 9, art 10.
+    - Compte rendu intégral des séances du 4 décembre 2012
+      - [2ème séance du 4 décembre](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130084.asp#P389_76670) : seconde partie (suite), après l’art 24.
+      - [3ème séance du 4 décembre 2012](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130085.asp) : seconde partie (suite) : après l’article 24 (suite).
+    - Compte rendu intégral des séances du 5 décembre 2012
+      - [1ère séance du 5 décembre 2012](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130086.asp) : seconde partie (suite) : après l’article 24 (suite).
+      - [2ème séance du 5 décembre 2012](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130087.asp) : seconde partie (suite) : art 11 (précédemment réservé), art 12 (précédemment réservé), après l’art 12 (amendements précédemment réservés), art 13, art 14.
+    - Compte rendu intégral des séances du 7 décembre 2012
+      - [1ère séance du 7 décembre 2012](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130090.asp#P61_2884) : seconde partie (suite) : après l’art 14 (amendements précédemment réservés), art 15 (précédemment réservé), après l’art 15 (amendements précédemment réservés), art 16 (précédemment réservé), après l’art 16 (amendements précédemment réservés), art 17 (précédemment réservé), après l’art 17 (amendements précédemment réservé).
+      - [2ème séance du 7 décembre](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130091.asp#P115_3580) : seconde partie (suite) : après l’art 17 (suite), art 18, après l’art 18, art 19, art 20, après l’art 20, art 21, après l’art 21, art 22, après l’art 22, art 23, art 24, art 25, art 26, après l’art 26, art 27, après l’article 27, article 28, après l’article 24 (Amendements précédemment réservés), avant l'article 25 (amendement précédemment réservé), après l'article 28, article 29, article 30, article 31, après l'article 31.
+    - Compte rendu intégral des séances du 11 décembre 2012
+      - [1ère séance du 11 décembre 2012](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130092.asp#P386_77294) : explications de vote, vote sur l’ensemble.
+  - Sénat (1ère lecture)
+    - [Compte rendu intégral de la séance du 14 décembre 2012](http://www.senat.fr/seances/s201212/s20121214/s20121214_mono.html) : discussion générale, discussion des articles : art 3 bis, art 4 (État A), art additionnel, art 5 (État B), art 6 (Etat B), art additionnels, art 7, art 10, art 12, art additionnel, art 12 bis, art additionnel, art 13, art additionnels, art 14 septies, art 15 bis, art 15 ter, art additionnels, art 16 bis, art 16 ter, art 16 quater, art 16 quinquies, art 16 sexies, art 16 septies, art 17, art additionnels, art 17 septies, art 17 opties, art 17 nonies, art 17 decies, art 17 duedecies, art 17 terdecies, art additionnels.
+    - [Compte rendu intégral de la séance du 15 décembre 2012](http://www.senat.fr/seances/s201212/s20121215/s20121215_mono.html) : discussion des articles (suite): art 19, art additionnels, art 22, art 22 bis, art additionnels, art 24, art additionnels, art 24 bis, art additionnel, art 24 ter, art 24 quater, art additionnels, art 24 sexies, art additionnels, art 26, art additionnels, art additionnel, art 26 quater, art 28 ter, art 29, art 30, art 31, art 32, art 34, art additionnels, seconde délibération, interventions sur l'ensemble.
+  - Assemblée nationale (Nouvelle lecture)
+    - Compte rendu intégral des séances du 18 décembre 2012
+      - [1ère séance du 18 décembre 2012](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130100.asp#P385_71424) : présentation, motion de rejet préalable, discussion générale, discussion des articles, première partie : art 1er, art 2, art 3, art 3 bis, art 4 et état A, vote sur l’ensemble de la première partie ; seconde partie : art 5 et état B, art 6 et état D, art 7 à 7 ter, art 8, art 9, art 10, art 11, art 12, art 12 bis et 12 ter.
+      - [2ème séance du 18 décembre 2012](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130101.asp) : discussion des articles : art 13, art 14, art 14 bis, art 14 ter, art 14 quater, art 14 quinquies, arts 14 sexies à 15, art 15 bis, art 15 ter, art 15 quater, art 16, arts 16 bis à 16 quater, art 16 quinquies, art 16 sexies, art 16 septies, art 17, arts 17 bis et 17 ter, art 17 quater, arts 17 quinquies à 17 octies, art 17 nonies, art 17 decies, art 17 undecies, art 17 duodecies, art 17 terdecies, arts 17 quaterdecies à 19, art 20, art 20 bis, art 21, arts 21 bis à 21 quater, art 22, art 22 bis, art 23, art 24, art 24 bis, art 24 ter, art 24 quater, art 24 quinquies, art 24 sexies, art 25, art 26, art 26 bis, art 26 ter, art 26 quater, art 26 quinquies, arts 27 à 28, art 28 bis, art 28 ter, arts 29 et 30, art 31, art 32, arts 33 à 36, vote sur l’ensemble.
+  - Sénat (Nouvelle lecture)
+    - [Compte rendu intégral de la séance du 19 décembre 2012](http://www.senat.fr/seances/s201212/s20121219/s20121219_mono.html) : discussion générale, discussion des arts de la première partie : art 3 bis, discussion des arts de la deuxième partie : art 14 septies, art 17, art 17 duodecies, art 19, art 24 bis, art 24 quater, art 24 sexies, art 28 ter, vote sur l'ensemble.
+  - Assemblée nationale (Lecture définitive)
+    - Compte rendu intégral des séances du 19 décembre 2012
+      - [2ème séance du 19 décembre 2012](http://www.assemblee-nationale.fr/14/cri/2012-2013/20130103.asp) : présentation, discussion générale, vote sur l’ensemble.
