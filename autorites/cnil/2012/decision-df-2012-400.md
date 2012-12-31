@@ -1,0 +1,9 @@
+# Décision DF-2012-400 autorisant la société GE REAL ESTATE EUROPE SAS à transférer des données à caractère personnel vers les Etats-Unis aux fins d’autorisation ou de refus des demandes d'achat ou de vente de titres cotés par les employés exposés à de l'information priviligiée. (Demande d’autorisation n°1595979)
+
+- Nature : Decision
+- Type : Autorisation de transfert
+- Numéro : DF-2012-400
+- Date : 2012-12-31
+- Publication : 2012-08-09
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000026268945
