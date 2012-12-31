@@ -1,0 +1,9 @@
+# Décision DF-2012-052 autorisant la société AVANADE FRANCE à transférer des données à caractère personnel vers les Etats-Unis aux fins de suivi de l’attribution des téléphones mobiles et des abonnements professionnels (Demande d’autorisation n°1537511)
+
+- Nature : Decision
+- Type : Autorisation de transfert
+- Numéro : DF-2012-052
+- Date : 2012-12-31
+- Publication : 2013-01-10
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000026915666
