@@ -20,7 +20,7 @@ de "cas par cas"
 
 en application de l'annexe III
 
-de la directive 85/337/ CE
+de la directive 85/337/CE
 
 |
 
@@ -494,7 +494,7 @@ a) Stations d'épuration des agglomérations ou dispositifs d'assainissement non
 
 |
 
-b) Stations d'épuration situées dans la bande littorale de cent mètres au sens de l'article L. 146-4-III du code de l'urbanisme, dans la bande littorale des cinquante pas au sens des articles L. 156-2 et L. 711-3-III du code de l'urbanisme, ou en espace remarquable du littoral au sens de l'article L. 146-6 du code de l'urbanisme.
+b) Stations d'épuration situées dans la bande littorale de cent mètres prévue au III de l'article L. 146-4 du code de l'urbanisme, dans la bande littorale prévue à l'article L. 156-2 de ce code, ou dans un espace remarquable du littoral prévu par l'article L. 146-6 du même code.
 
 |
 
@@ -502,7 +502,7 @@ b) Stations d'épuration situées dans la bande littorale de cent mètres au sen
 
 |
 
-a) Dragage et/ ou rejet y afférent en milieu marin soumis à autorisation au titre de l'article R. 214-1 du code de l'environnement.
+a) Dragage et/ou rejet y afférent en milieu marin soumis à autorisation au titre de l'article R. 214-1 du code de l'environnement.
 
 |
 
