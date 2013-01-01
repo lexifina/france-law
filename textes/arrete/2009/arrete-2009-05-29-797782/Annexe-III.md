@@ -1,16 +1,18 @@
 # Article Annexe III
 
-DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT DES MARCHANDISES DANGEREUSES PAR VOIES DE NAVIGATION INTÉRIEURES (ADN)
+DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT DES MARCHANDISES
+
+DANGEREUSES PAR VOIES DE NAVIGATION INTÉRIEURES (ADN)
 
 1. Dispositions générales
 
 1.1. La présente annexe est composée :
 
-- de l'accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2011. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
+- de l'accord européen relatif au transport international des marchandises dangereuses par voies de navigation intérieures (ADN) fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2013. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
 
 http://www.unece.org/trans/danger/danger.htm ;
 
--des dispositions particulières qui complètent notamment le règlement annexé à l'ADN et en précisent les modalités d'application aux transports nationaux ou internationaux de marchandises dangereuses par voies de navigation intérieures effectués en France.
+- des dispositions particulières qui complètent notamment le règlement annexé à l'ADN et en précisent les modalités d'application aux transports nationaux ou internationaux de marchandises dangereuses par voies de navigation intérieures effectués en France.
 
 1.2. Les dispositions particulières figurent dans le paragraphe 2 de la présente annexe III comme suit :
 
@@ -100,4 +102,192 @@ Les références au Code européen des voies de navigation intérieures (CEVNI) 
 
 2.4. Titres de navigation, certificats de visite.
 
-Les références aux prescriptions locales, régionales ou internationales des bateaux reprises au 1. 1. 4. 6 et dans la partie 9 du règlement annexé ADN sont celles correspondant au décret n° 2007-1168 du 2 août 2007 et celles des arrêtés du 28 août 2008 et du 21 décembre 2007 relatifs aux titres de navigation des bâtiments et établissements flottants destinés au transport de marchandises naviguant ou stationnant sur les eaux intérieures et celles correspondant au Règlement de visite des bateaux du Rhin relatives aux certificats de visites.
+Les références aux prescriptions locales, régionales ou internationales des bateaux reprises au 1.1.4.6 et dans la partie 9 du Règlement annexé à l'ADN sont celles correspondant au décret n° 2007-1168 du 2 août 2007 et à l'arrêté du 21 décembre 2007 relatif aux titres de navigation des bâtiments et établissements flottants destinés au transport de marchandises naviguant ou stationnant sur les eaux intérieures, ainsi que celles correspondant au Règlement de visite des bateaux du Rhin relatives aux certificats de visites.
+
+3. Dispositions relatives à la formation.
+
+3.1. Programme de formation.
+
+A partir des prescriptions générales du 8.2.1 et des prescriptions particulières des 8.2.2.1 et 8.2.2.2, les organismes de formation agréés, dans les conditions prévues au 8.2.2.6 ainsi qu'aux articles 19 et 20 du présent arrêté, adaptent et complètent leurs programmes conformément au cahier des charges qui leur est applicable.
+
+3.2. Cours de base et cours de spécialisation.
+
+a) Les cours de base sont les cours visés aux 8.2.2.3.1 et 8.2.2.3.2 ; ils comportent trois variantes :
+
+- transport par bateaux à marchandises sèches ;
+
+- transport par bateaux-citernes ;
+
+- combinaison "Transport par bateaux à marchandises sèches" et "Transport par bateaux-citernes".
+
+b) Les cours de spécialisation sont les cours visés aux 8.2.2.3.3 et 8.2.2.3.4 ; ils comportent deux variantes :
+
+- spécialisation "gaz" ;
+
+- spécialisation "chimie".
+
+Les cours de spécialisation initiaux, qui font l'objet du 8.2.2.3.3, sont accessibles aux candidats préalablement titulaires d'une attestation d'expert "bateaux-citernes" ou combinée "bateaux à marchandises sèches/bateaux-citernes".
+
+Les cours de recyclage et de perfectionnement, qui font l'objet du 8.2.2.3.4, sont accessibles aux candidats préalablement titulaires :
+
+- pour le recyclage et le perfectionnement "gaz" d'une attestation d'expert "gaz" et "bateaux-citernes" ou "gaz" et combinée "bateaux à marchandises sèches/bateaux-citernes" ;
+
+- pour le recyclage et le perfectionnement "chimie" d'une attestation d'expert "chimie" et "bateaux-citernes"ou "chimie" et combinée "bateaux à marchandises sèches/bateaux-citernes".
+
+3.3. Durées minimales des formations.
+
+Les durées minimales, prévues au 8.2.2.4, de la formation de base et des cours de spécialisation, ainsi que celles, prévues au 8.2.2.5, des cours de recyclage et de perfectionnement correspondants, exprimées en leçons d'une durée unitaire de quarante-cinq minutes, sont les suivantes :
+
+|
+
+FORMATION INITIALE
+
+|
+
+FORMATION DE RECYCLAGE
+
+|
+
+Cours de base
+
+"marchandises sèches"
+
+|
+
+Trente-deux leçons, dont au minimum huit leçons en matière de stabilité et dont 30 % environ sont consacrés à des exercices pratiques
+
+|
+
+Seize leçons, dont au minimum deux leçons en matière de stabilité et dont 30 % environ sont consacrés à des exercices pratiques
+
+|
+
+Cours de base
+
+"bateaux-citernes"
+
+|
+
+Trente-deux leçons, dont au minimum huit leçons en matière de stabilité et dont 30 % environ sont consacrés à des exercices pratiques
+
+|
+
+Seize leçons, dont au minimum deux leçons en matière de stabilité et dont 30 % environ sont consacrés à des exercices pratiques
+
+|
+
+Cours de base
+
+"combiné"
+
+|
+
+Quarante leçons, dont au minimum huit leçons en matière de stabilité et dont 30 % environ sont consacrés à des exercices pratiques
+
+|
+
+Seize leçons, dont au minimum deux leçons en matière de stabilité et dont 30 % environ sont consacrés à des exercices pratiques
+
+|
+
+Cours de spécialisation
+
+"gaz"
+
+|
+
+Seize leçons
+
+|
+
+Huit leçons
+
+|
+
+Cours de spécialisation
+
+"chimie"
+
+|
+
+Seize leçons
+
+|
+
+Huit leçons
+
+|
+
+3.4. Dispositions transitoires.
+
+En application du 1.6.8 du Règlement annexé à l'ADN, les dispositions des 8.2.2.3, 8.2.2.4 et 8.2.2.5, dans leur version applicable le 31 décembre 2012, peuvent continuer d'être appliquées jusqu'au 31 décembre 2014.
+
+Lorsqu'il est fait application de ces dispositions, les durées minimales des formations ci-dessous remplacent les durées correspondantes définies au tableau du 3.3 :
+
+|
+
+FORMATION INITIALE
+
+|
+
+FORMATION DE RECYCLAGE
+
+|
+
+Cours de base
+
+"marchandises sèches"
+
+|
+
+Vingt-quatre leçons, dont 30 % environ sont consacrés à des exercices pratiques
+
+|
+
+Seize leçons, dont 50 % environ sont consacrés à des exercices pratiques
+
+|
+
+Cours de base
+
+"bateaux-citernes"
+
+|
+
+Vingt-quatre leçons, dont 30 % environ sont consacrés à des exercices pratiques
+
+|
+
+Seize leçons, dont 50 % environ sont consacrés à des exercices pratiques
+
+|
+
+Cours de base
+
+"combiné"
+
+|
+
+Trente-deux leçons, dont 30 % environ sont consacrés à des exercices pratiques
+
+|
+
+Seize leçons, dont 50 % environ sont consacrés à des exercices pratiques
+
+|
+
+3.5. Dispositions particulières.
+
+Aux fins de se conformer aux dispositions du 1.6.8 du Règlement annexé à l'ADN, tout conducteur responsable et toute personne responsable du chargement ou du déchargement d'une barge sont tenus, avant le 31 décembre 2019, d'avoir participé :
+
+- soit à un cours initial de base, tel que défini au 3.3 de la présente annexe III ;
+
+- soit à un cours de recyclage de base, qui, par exception aux dispositions du 8.2.2.5 et du 3.3 de la présente annexe III, comprend vingt-quatre leçons de quarante-cinq minutes, dont huit leçons consacrées à la stabilité.
+
+NOTA :
+
+Arrêté du 12 décembre 2012 article 27 : Les présentes dispositions entrent en vigueur le 1er janvier 2013
+
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2013.
+
+Le décret n° 2007-1168 du 2 août 2007 est abrogé et codifié dans la partie réglementaire du code des transports par le décret n° 2013-251 du 25 mars 2013, article 3.

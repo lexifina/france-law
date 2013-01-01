@@ -6,9 +6,9 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR. Cet accord, y compris les amendements en vigueur au 1er janvier 2011, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
+- des annexes A et B de l'ADR. Cet accord, y compris les amendements en vigueur au 1er janvier 2013, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante :
 
-http : / / www. unece. org / trans / danger / danger. htm ;
+http://www.unece.org/trans/danger/danger.htm;
 
 - des dispositions particulières qui complètent notamment les annexes A et B de l'ADR et en précisent les modalités d'application aux transports nationaux ou internationaux par route de marchandises dangereuses effectués sur le territoire national.
 
@@ -84,8 +84,6 @@ Pour les expéditions de colis, il appartient au responsable du chargement tel q
 
 - les colis chargés soient correctement calés et arrimés.
 
-Pour les réceptions de colis, il appartient au destinataire de veiller à ce que les dispositions du présent arrêté relatives au déchargement soient respectées.
-
 En cas de rupture de charge, les exigences ci-dessus s'appliquent au responsable du nouveau chargement.
 
 2.1.3. Dispositions applicables aux transports en citernes.
@@ -118,7 +116,7 @@ Il appartient en outre au responsable de l'établissement où s'effectue le remp
 
 Les dispositions du 2.1.1 de la présente annexe I ne s'appliquent pas.
 
-Il appartient en outre au responsable de l'établissement où s'effectue le remplissage (ou le déchargement) de veiller au préalable à ce qu'une formation spécifique du conducteur à l'usage de ce type d'installation ait été assurée.A défaut, l'établissement doit assurer cette formation. Une description détaillée de la formation reçue doit être conservée par le conducteur.
+Il appartient en outre au responsable de l'établissement où s'effectue le remplissage (ou le déchargement) de veiller au préalable à ce qu'une formation spécifique du conducteur à l'usage de ce type d'installation ait été assurée. A défaut, l'établissement doit assurer cette formation. Une description détaillée de la formation reçue doit être conservée par le conducteur et par le responsable de l'établissement où s'effectue le remplissage ou le déchargement.
 
 2.2. Chargement, déchargement.
 
@@ -134,7 +132,7 @@ Il est interdit de charger ou de décharger sur un emplacement public, en dehors
 
 Toutefois, sont autorisés :
 
-- à l'occasion d'un tir public dûment autorisé, le déchargement sur la voie publique des artifices de divertissement de toutes catégories ;
+- à l'occasion d'un tir public effectué selon les dispositions de l'arrêté du 31 mai 2010 pris en application des articles 3, 4 et 6 du décret n° 2010-580 du 31 mai 2010 relatif à l'acquisition, la détention et l'utilisation des artifices de divertissement et des articles pyrotechniques destinés au théâtre, le déchargement sur la voie publique des artifices de divertissement de toutes catégories ;
 
 - le déchargement sur la voie publique d'explosifs industriels et accessoires de tir des n° s ONU 0081,0082,0083,0084,0241,0033,0060,0065,0289,0029,0030,0267,0455,0360,0361,0500,0042,0283,0105,0131,0454,0255 et 0456, dédiés aux déclenchements d'avalanche, pour la livraison d'un stockage situé en station de sports d'hiver relevant du régime de l'enregistrement ou de la déclaration sous la rubrique 1131 de la nomenclature des installations classées pour la protection de l'environnement, inaccessible aux véhicules routiers. Cette autorisation s'applique toute l'année pour les stockages ayant été enregistrés avant le 30 juillet 2010 ou déclarés avant le 15 mai 2011 et du 1er novembre au 31 mai pour les stockages ayant été enregistrés ou déclarés après ces dates respectives. Quel que soit le régime, il est satisfait aux conditions de sécurité spécifiques de l'arrêté du 29 juillet 2010 relatif aux prescriptions générales applicables aux installations relevant du régime de l'enregistrement au titre de la rubrique n° 1311 de la nomenclature des installations classées pour la protection de l'environnement. Un arrêté préfectoral fixe, le cas échéant, des conditions supplémentaires, destinées notamment à compléter les plans de sûreté établis par les opérateurs dans le cadre du chapitre 1.10 de l'ADR.
 
@@ -154,7 +152,7 @@ Toutefois, sont autorisés :
 
 - le chargement des colis d'huiles usagées du n° ONU 3082 ;
 
-- le chargement des colis de déchets d'activités de soins à risques infectieux et assimilés du n° ONU 3291, lorsque les établissements de soins et assimilés ne disposent pas d'emplacement dédié au stationnement des véhicules d'enlèvement.
+- le chargement des colis contenant des matières et objets affectés au n° ONU 3291, lorsque les établissements de soins et assimilés ne disposent pas d'emplacement dédié au stationnement des véhicules d'enlèvement.
 
 2.2.1.3. Citernes.
 
@@ -238,7 +236,7 @@ Les véhicules stationnent selon les règles fixées au vu des résultats de l'�
 
 En complément du 1.4.1.2, les dispositions suivantes s'appliquent :
 
-Si un véhicule se trouve dans une situation anormale et dangereuse, il sera éloigné autant que possible de toute zone habitée.
+Si un véhicule se trouve dans une situation anormale et dangereuse, il sera éloigné autant que possible de toute zone habitée ou de tout lieu ou établissement recevant du public.
 
 En cas d'accident ou d'incident, notamment explosion, incendie, fuite ou menace de fuite suite à un choc, perte ou vol de matières ou objets dangereux survenant en cours de manutention ou de transport de marchandises dangereuses en dehors d'un établissement gardienné, le préposé chargé de l'exécution du transport préviendra ou fera prévenir, sans délai :
 
@@ -278,11 +276,11 @@ Sont reconnues pour exercer cette fonction :
 
 2.5. Dispositions spéciales relatives à la classe 6. 2.
 
-2.5.1. Les transports de déchets d'activités de soins à risques infectieux et assimilés du n° ONU 3291, effectués par un producteur dans son véhicule personnel ou dans un véhicule de service, dans la mesure où la masse transportée demeure inférieure ou égale à 15 kg, ne sont pas soumis aux dispositions du présent arrêté.
+2.5.1. Les transports de matières et objets affectés au n° ONU 3291, effectués par un producteur dans son véhicule personnel ou dans un véhicule de service, dans la mesure où la masse transportée demeure inférieure ou égale à 15 kg, ne sont pas soumis aux dispositions du présent arrêté.
 
 2.5.2. Nonobstant les dispositions du 1.1.3.6, les dispositions suivantes s'appliquent quelle que soit la masse transportée, hormis les cas d'exemption prévus au 2.5.1 de la présente annexe I :
 
-a) Les colis renfermant des déchets d'activités de soins à risques infectieux et assimilés ou des pièces anatomiques sont transportés, à l'intérieur des véhicules, dans des compartiments solidaires des véhicules ou dans des caissons amovibles. Ces compartiments ou caissons leur sont réservés. Toutefois, ceux-ci peuvent aussi, sans préjudice des dispositions du code rural relatives à l'équarrissage, contenir des cadavres d'animaux, préalablement emballés.
+a) Les colis contenant des matières et objets affectés au n° ONU 3291 sont transportés, à l'intérieur des véhicules, dans des compartiments solidaires des véhicules ou dans des caissons amovibles. Ces compartiments ou caissons leur sont réservés. Toutefois, ceux-ci peuvent aussi, sans préjudice des dispositions du code rural relatives à l'équarrissage, contenir des cadavres d'animaux, préalablement emballés.
 
 b) Les compartiments visés ci-dessus des véhicules immatriculés en France répondent aux conditions d'aménagement suivantes :
 
@@ -310,7 +308,9 @@ Les caissons amovibles sont lavés et désinfectés après chaque déchargement.
 
 d) Exceptionnellement, lorsque la filière d'élimination comporte une période de stationnement supérieure à deux heures, celui-ci doit s'effectuer dans un lieu fermé offrant toutes les garanties de sécurité.
 
-e) En dehors du personnel de bord, il est interdit de transporter des voyageurs dans des véhicules transportant des déchets d'activités de soins à risques infectieux et assimilés ou des pièces anatomiques d'origine humaine.
+e) En dehors du personnel de bord, il est interdit de transporter des voyageurs dans des véhicules transportant des matières et objets affectés au n° ONU 3291.
+
+2.5.3. Si dans le cadre du calcul des quantités visées au 1.1.3.6 la masse nette de matières ou d'objets affectés au n° ONU 3291 ne peut être connue, les quantités transportées sont exprimées en litres, sur la base de la contenance en eau nominale de chaque emballage remis au transport. Ces informations figurent dans le document de transport prévu au 5.4.1.1.1.
 
 2.6. Dispositions spéciales relatives à la classe 7.
 
@@ -334,7 +334,7 @@ Le transport simultané de personnes et de marchandises dangereuses autres que c
 
 3.2.1. Le transport pour compte propre de marchandises dangereuses autres que celles de la classe 7, en quantités n'excédant pas les limites fixées au 1.1.3.6, n'est pas soumis à l'obligation du document de transport prévu au 5.4.1.
 
-3.2.2. Pour les contenants vides (emballages, récipients, GRV, grands emballages, citernes, véhicules pour vrac et conteneurs pour vrac), la désignation des marchandises prévue au 5.4.1.1.6 peut être portée sur le document de transport ayant accompagné le véhicule en charge. La date à partir de laquelle débute le retour à vide doit être mentionnée sur le même document de transport.
+3.2.2. Pour les contenants vides (emballages, récipients, GRV, grands emballages, citernes, véhicules pour vrac et conteneurs pour vrac), la désignation des marchandises prévue au 5.4.1.1.6.2.3 peut être portée sur le document de transport ayant accompagné le véhicule en charge. La date à partir de laquelle débute le retour à vide doit être mentionnée sur le même document de transport.
 
 3.2.3. Les transports de marchandises dangereuses effectués à partir du lieu de déchargement des navires les ayant transportées par voie maritime en vrac (c'est-à-dire dans des espaces à cargaison d'un navire sans être retenues par aucune forme de dispositif intermédiaire) jusqu'au lieu de leur stockage ou dépotage ne sont pas soumis à l'obligation du document de transport prévu au 5.4.1 sous réserve que :
 
@@ -348,7 +348,7 @@ Pour les transports de marchandises dangereuses effectués à partir du lieu de 
 
 3.3.1. Les transports effectués à l'aide de véhicules agricoles, tels qu'ils sont définis à l'article R. 311-1 du code de la route, sont assujettis à l'ensemble des dispositions du présent arrêté, sauf dans les cas suivants :
 
-a) Pour le transport de l'ammoniac (n° ONU 1005) employé uniquement pour l'agriculture et effectué dans les citernes spécifiques décrites à l'appendice IV. 4 du présent arrêté, seules s'appliquent, jusqu'au 30 juin 2012, les dispositions précisées dans cet appendice.
+a) (supprimé)
 
 b) Pour les transports de matières ci-après :
 
@@ -458,7 +458,7 @@ Toutes les règles définies par le présent arrêté et applicables aux certifi
 
 4.1. Programme de formation.
 
-A partir des données de base du 8.2.2.3, et conformément au 8.2.1, les organismes de formation agréés dans les conditions prévues au 8.2.2.6, aux articles 19 et 20, adaptent et complètent leurs programmes en fonction de la formation de base et des spécialisations recherchées.
+A partir des données de base du 8.2.2.3, et conformément au 8.2.1, les organismes de formation agréés, dans les conditions prévues au 8.2.2.6 ainsi qu'aux articles 19 et 20 du présent arrêté, adaptent et complètent leurs programmes conformément au cahier des charges qui leur est applicable et en fonction des formations qu'ils proposent.
 
 4.2. Formation de base et spécialisations.
 
@@ -474,13 +474,17 @@ d) Spécialisation " classe 7 " : formation requise au 8.2.1.4.
 
 4.3. Formations restreintes de spécialisation citernes, conformément au 8.2.1.3.
 
-a) Spécialisation " GPL " : formation restreinte au transport des hydrocarbures gazeux en mélanges liquéfiés n. s. a. (classe 2, n° ONU 1965).
+a) Spécialisation "GPL" : formation restreinte au transport des matières de la classe 2 de n°s ONU 1011, 1075, 1965, 1969 et 1978.
 
-b) Spécialisation " produits pétroliers " : formation restreinte au transport des matières désignées par les n° s ONU 1202,1203,1223,1267,1268,1300,1863,1999,3295,3256 (uniquement huile de chauffe lourde et bitumes),3475 de la classe 3 et 3257 (uniquement bitumes) de la classe 9.
+b) Spécialisation "produits pétroliers" : formation restreinte au transport des matières désignées par :
+
+- les n°s ONU 1202, 1203, 1223, 1267, 1268, 1300, 1863, 1999, 3295 et 3475 ;
+
+- les n°s ONU 3082, 3256 et 3257, uniquement pour les huiles de chauffe lourdes et les bitumes.
 
 4.4. Durées minimales des formations.
 
-Les durées minimales de la formation de base, des spécialisations, ainsi que celles des formations de recyclage correspondantes, prévues au 8.2.1.5, exprimées en séances d'enseignement au sens du 8.2.2.4.3, sont les suivantes :
+Les durées minimales de la formation de base, des spécialisations, ainsi que celles des formations de recyclage correspondantes, prévues au 8.2.1.5, exprimées en séances d'enseignement au sens du 8.2.2.3.6, sont les suivantes :
 
 4.4.1. Formation de base et spécialisations.
 
@@ -578,25 +582,17 @@ Spécialisation produits pétroliers
 
 |
 
+4.4.3. Le conducteur titulaire d'un certificat de formation spécialisée peut suivre une formation de recyclage restreinte dont le champ est entièrement couvert par son certificat précédent. Dans ce cas, le certificat est renouvelé pour les spécialisations couvertes par le recyclage.
+
 4.5. Dispositions transitoires concernant les certificats de formation.
 
-4.5.1. Conformément au 1.6.1.21, jusqu'au 31 décembre 2012, les certificats conformes au modèle en vigueur au 31 décembre 2010 peuvent encore être délivrés pour une durée de validité comme défini au 8.2.2.8.2.
+4.5.1. (supprimé)
 
-4.5.2. Jusqu'au 31 décembre 2012, les spécialisations citernes ou citernes gaz en vigueur au 31 décembre 2010, ainsi que leurs recyclages, peuvent encore être dispensées par les organismes agréés à cet effet. Les certificats correspondants sont délivrés comme mentionné au 4.5.1 ci-dessus.
+4.5.2. (supprimé)
 
 4.5.3. Les conducteurs titulaires d'un certificat correspondant à une seule des spécialisations "citernes" ou "citernes gaz" en vigueur au 31 décembre 2010, qui souhaitent obtenir un certificat correspondant à la spécialisation "citernes" étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, suivent une formation de recyclage adaptée dont les modalités sont précisées par le cahier des charges mentionné à l'article 20.
 
 4.5.4. Les conducteurs titulaires de certificats correspondant aux deux spécialisations "citernes" et "citernes gaz" en vigueur au 31 décembre 2010 peuvent obtenir un certificat de formation correspondant à la spécialisation "citernes" étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I, en suivant une formation de recyclage comme précisé au 4.4.1 ci-dessus.
-
-4.6. Dispositions relatives au renouvellement des agréments d'organismes de formation.
-
-4.6.1. Les agréments délivrés avant le 31 décembre 2010 dont le champ d'application couvre des formations définies aux 4.2 et 4.3 de la présente annexe I continuent à être valides dans les conditions fixées par chacun des arrêtés d'agrément.
-
-4.6.2. Les agréments délivrés avant le 31 décembre 2010 dont le champ d'application couvre des formations non définies au 4.2 ou au 4.3 de la présente annexe I sont retirés à compter du 31 décembre 2012 et font l'objet de conditions particulières de renouvellement précisées aux 4.6.3 et 4.6.4 ci-après.
-
-4.6.3. Les organismes de formation agréés au 31 décembre 2010 pour délivrer les deux spécialisations "citernes" et "citernes gaz" mentionnées au 4.5.2 ci-dessus sont agréés pour délivrer la spécialisation "citernes" étendue à toutes les classes, mentionnée au 4.2 ainsi que la formation de recyclage adaptée mentionnée au 4.5.3 de la présente annexe I, sous réserve de l'approbation des programmes de formation correspondants par décision du ministre chargé des transports terrestres des matières dangereuses. La validité de cet agrément expire à la date d'échéance la plus proche fixée par les arrêtés d'agrément correspondants.
-
-4.6.4. Les organismes de formation agréés au 31 décembre 2010 pour délivrer la seule spécialisation "citernes" mentionnée au 4.5.2 ci-dessus, n'incluant pas le transport de gaz, peuvent demander une extension de leur agrément dans le but d'être agréés pour délivrer la spécialisation "citernes" étendue à toutes les classes, mentionnée au 4.2 de la présente annexe I. Le dossier de demande d'agrément démontre que les supports pédagogiques, les questions d'examen et la compétence des formateurs ont été complétés de manière à couvrir les transports de gaz en citernes.L'agrément est délivré dans les conditions prévues aux articles 19 et 20. Après obtention de l'extension de leur agrément, ces organismes sont habilités à délivrer la formation adaptée mentionnée au 4.5.3 de la présente annexe I dans les conditions fixées au 4.6.3. ci-dessus.
 
 5. Dispositions relatives aux contrôles des transports par route des marchandises dangereuses
 
@@ -715,3 +711,9 @@ Lorsqu'une ou plusieurs infractions ont été constatées en matière de transpo
 sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et de la mer.
 
 Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.
+
+NOTA :
+
+Arrêté du 12 décembre 2012 article 27 : Les présentes dispositions entrent en vigueur le 1er janvier 2013
+
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, à l'exception des dispositions des 4.5.1, 4.5.2 et 4.6 de l'annexe I, peuvent continuer d'être appliquées jusqu'au 30 juin 2013
