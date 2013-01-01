@@ -1,12 +1,10 @@
 # Article Annexe B
 
-ORDONNATEURS SECONDAIRES POUR LES RECETTES ET LES DÉPENSES DES TITRES 2, 3, 5 ET 6 DES SERVICES DE L'ADMINISTRATION PÉNITENTIAIRE SITUÉS DANS LES COLLECTIVITÉS D'OUTRE-MER ET EN NOUVELLE-CALÉDONIE
+ORDONNATEURS SECONDAIRES POUR LES RECETTES ET LES DÉPENSES DES TITRES II, III, V ET VI DES SERVICES DE L'ADMINISTRATION PÉNITENTIAIRE SITUÉS EN POLYNESIE FRANÇAISE ET EN NOUVELLE-CALÉDONIE
 
 HAUTS-COMMISSAIRES
 
 de la République
-
-ou préfet compétent
 
 |
 
@@ -18,17 +16,11 @@ STRUCTURES CONCERNÉES
 
 |
 
-Mayotte
+Polynésie française
 
 |
 
-Délégataire
-
-|
-
-|
-
-Le chef de l'établissement pénitentiaire de Majicavo (MA).
+Délégataire : le chef de l'établissement pénitentiaire de Faaa-Nuutania (CP).
 
 |
 
@@ -36,15 +28,7 @@ Etablissements et services rattachés.
 
 |
 
-|
-
-Subdélégataires
-
-|
-
-|
-
-Agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+Subdélégataires : agents relevant de l'autorité du directeur de l'établissement pénitentiaire.
 
 |
 
@@ -56,9 +40,7 @@ Polynésie française
 
 |
 
-Délégataire
-
-Le chef de l'établissement pénitentiaire de Faaa-Nuutania (CP).
+Délégataire : le directeur du service pénitentiaire d'insertion et de probation de Polynésie française.
 
 |
 
@@ -66,11 +48,7 @@ Etablissements et services rattachés.
 
 |
 
-|
-
-Subdélégataires
-
-Agents relevant de l'autorité du directeur de l'établissement pénitentiaire.
+Subdélégataires : agents relevant de l'autorité du directeur du SPIP.
 
 |
 
@@ -82,9 +60,7 @@ Nouvelle-Calédonie
 
 |
 
-Délégataire
-
-Le chef de l'établissement pénitentiaire de Nouméa (CP).
+Délégataire : le chef de l'établissement pénitentiaire de Nouméa (CP).
 
 |
 
@@ -92,11 +68,27 @@ Etablissements et services rattachés.
 
 |
 
+Subdélégataires : agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+
 |
 
-Subdélégataires
+Etablissements et services rattachés.
 
-Agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+|
+
+Nouvelle-Calédonie
+
+|
+
+Délégataire : le directeur du service pénitentiaire d'insertion et de probation de Nouvelle-Calédonie.
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Subdélégataires : agents relevant de l'autorité du directeur du SPIP.
 
 |
 

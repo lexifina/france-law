@@ -1,8 +1,12 @@
 # Article Annexe D
 
-ORDONNATEURS SECONDAIRES POUR LES RECETTES ET LES DÉPENSES DES SERVICES DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE RELATIVES À L'ACTIVITÉ DES SERVICES RÉGIONAUX ET DÉPARTEMENTAUX DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE
+ORDONNATEURS SECONDAIRES POUR LES RECETTES ET LES DÉPENSES DES SERVICES DÉCONCENTRÉS DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE SITUÉS EN MÉTROPOLE À COMPTER DU 1er JANVIER 2013
 
-PRÉFET DE RÉGION compétent
+PRÉFET
+
+de région
+
+compétent
 
 |
 
@@ -10,11 +14,23 @@ DÉLÉGATAIRE
 
 |
 
-RÉGIONS concernées
+RÉGIONS
+
+concernées
 
 |
 
-DIRECTIONS DÉPARTEMENTALES de la protection judiciaire de la jeunesse concernées
+DIRECTIONS TERRITORIALES
+
+concernées
+
+|
+
+RESSORTS
+
+DÉPARTEMENTAUX
+
+des directions territoriales
 
 |
 
@@ -22,31 +38,75 @@ Aquitaine
 
 |
 
-Le directeur de la direction située à Bordeaux.
+DIRPJJ Sud-Ouest (siège à Bordeaux)
+
+Délégataire : le directeur de la direction interrégionale
 
 |
 
-Aquitaine, Limousin, Poitou-Charentes.
+Aquitaine
 
 |
 
-Deux-Sèvres, Vienne, Charente-Maritime, Charente, Haute-Vienne, Creuse, Corrèze, Gironde, Dordogne, Lot-et-Garonne, Landes, Pyrénées-Atlantiques.
+DTPJJ Aquitaine
+
+Nord
 
 |
 
-Bretagne
+Gironde
+
+Dordogne
+
+Lot-et-Garonne
 
 |
 
-Le directeur de la direction située à Rennes.
+|
+
+DTPJJ Aquitaine
+
+Sud
 
 |
 
-Basse-Normandie, Bretagne, Pays de la Loire.
+Landes
+
+Pyrénées-Atlantiques
 
 |
 
-Finistère, Côtes-d'Armor, Morbihan, Ille-et-Vilaine, Manche, Calvados, Orne, Mayenne, Sarthe, Loire-Atlantique, Maine-et-Loire, Vendée.
+Limousin
+
+|
+
+DTPJJ Limousin
+
+|
+
+Haute-Vienne
+
+Corrèze
+
+Creuse
+
+Vienne
+
+|
+
+Poitou-Charentes
+
+|
+
+DTPJJ Poitou-Charentes
+
+|
+
+Deux-Sèvres
+
+Charente-Maritime
+
+Charente
 
 |
 
@@ -54,13 +114,169 @@ Bourgogne
 
 |
 
-Le directeur de la direction située à Dijon |
+DIRPJJ Grand-Centre (siège à Dijon)
 
-Bourgogne, Centre.
+Délégataire : le directeur de la direction interrégionale
 
 |
 
-Eure-et-Loir, Loiret, Loir-et-Cher, Indre-et-Loire, Indre, Cher, Yonne, Nièvre, Côte-d'Or, Saône-et-Loire.
+Bourgogne
+
+|
+
+DTPJJ Côte-d'Or - Saône-et-Loire
+
+|
+
+Côte-d'Or
+
+Saône-et-Loire
+
+|
+
+|
+
+DTPJJ Yonne-Nièvre
+
+|
+
+Yonne
+
+Nièvre
+
+|
+
+Centre
+
+|
+
+DTPJJ Centre-Orléans
+
+|
+
+Loiret
+
+Eure-et-Loir
+
+|
+
+|
+
+DTPJJ Touraine-Berry
+
+|
+
+Indre-et-Loire
+
+Cher
+
+Indre
+
+Loir-et-Cher
+
+|
+
+Champagne-Ardenne
+
+|
+
+DTPJJ Marne-Ardenne
+
+|
+
+Marne
+
+Ardenne
+
+|
+
+|
+
+DTPJJ Aube - Haute-Marne
+
+|
+
+Aube
+
+Haute-Marne
+
+|
+
+Bretagne
+
+|
+
+DIRPJJ Grand-Ouest (siège à Rennes)
+
+Délégataire : le directeur de la direction interrégionale
+
+|
+
+Bretagne
+
+|
+
+DTPJJ Ille-et-Vilaine - Côtes-d'Armor
+
+|
+
+Ille-et-Vilaine - Côtes-d'Armor
+
+|
+
+|
+
+DTPJJ Finistère-Morbihan
+
+|
+
+Finistère
+
+Morbihan
+
+|
+
+Pays de la Loire
+
+|
+
+DTPJJ Loire-Atlantique - Vendée
+
+|
+
+Loire-Atlantique
+
+Vendée
+
+|
+
+|
+
+DTPJJ Maine-et-Loire - Sarthe - Mayenne
+
+|
+
+Maine-et-Loire
+
+Sarthe
+
+Mayenne
+
+|
+
+Basse-Normandie
+
+|
+
+DTPJJ Basse-Normandie
+
+|
+
+Calvados
+
+Orne
+
+Manche
 
 |
 
@@ -68,15 +284,91 @@ Ile-de-France
 
 |
 
-Le directeur de la direction située à Paris.
+DIRPJJ Ile-de-France - outre-mer (siège à Paris)
+
+Délégataire : le directeur de la direction interrégionale
 
 |
 
-Ile-de-France.
+Ile-de-France
 
 |
 
-Yvelines, Essonne, Val-d'Oise, Seine-et-Marne, Hauts-de-Seine, Val-de-Marne, Seine-Saint-Denis, Paris.
+DT Paris
+
+|
+
+Paris
+
+|
+
+|
+
+DT Seine-et-Marne
+
+|
+
+Seine-et-Marne
+
+|
+
+|
+
+DT Yvelines
+
+|
+
+Yvelines
+
+|
+
+|
+
+DT Essonne
+
+|
+
+Essonne
+
+|
+
+|
+
+DT Hauts-de-Seine
+
+|
+
+Hauts-de-Seine
+
+|
+
+|
+
+DT Seine-Saint-Denis
+
+|
+
+Seine-Saint-Denis
+
+|
+
+|
+
+DT Val-de-Marne
+
+|
+
+Val-de-Marne
+
+|
+
+|
+
+DT Val-d'Oise
+
+|
+
+Val-d'Oise
 
 |
 
@@ -84,15 +376,83 @@ Midi-Pyrénées
 
 |
 
-Le directeur de la direction située à Toulouse.
+DIRPJJ Sud (siège à Toulouse)
+
+Délégataire : le directeur de la direction interrégionale
 
 |
 
-Languedoc-Roussillon, Midi-Pyrénées.
+Midi-Pyrénées
 
 |
 
-Lot, Tarn-et-Garonne, Gers, Hautes-Pyrénées, Haute-Garonne, Ariège, Tarn, Aveyron, Lozère, Gard, Hérault, Aude, Pyrénées-Orientales.
+DT Haute-Garonne - Ariège - Hautes-Pyrénées
+
+|
+
+Haute-Garonne - Ariège - Hautes-Pyrénées
+
+|
+
+|
+
+DT Tarn-et-Garonne, Lot - Gers,
+
+|
+
+Tarn-et-Garonne
+
+Gers
+
+Lot
+
+|
+
+|
+
+DT Tarn-Aveyron
+
+|
+
+Tarn
+
+Aveyron
+
+|
+
+Languedoc-Roussillon
+
+|
+
+DT Hérault
+
+|
+
+Hérault
+
+|
+
+|
+
+DT Gard-Lozère
+
+|
+
+Gard
+
+Lozère
+
+|
+
+|
+
+DT Pyrénées-Orientales - Aude
+
+|
+
+Pyrénées-Orientales
+
+Aude
 
 |
 
@@ -100,15 +460,69 @@ Nord - Pas-de-Calais
 
 |
 
-Le directeur de la direction située à Lille.
+DIRPJJ Grand-Nord (siège à Lille)
+
+Délégataire : le directeur de la direction interrégionale
 
 |
 
-Haute-Normandie, Nord - Pas-de-Calais, Picardie.
+Nord - Pas-de-Calais
 
 |
 
-Nord, Pas-de-Calais, Somme, Aisne, Oise, Seine-Maritime, Eure.
+DT Nord
+
+|
+
+Nord
+
+|
+
+|
+
+DT Pas-de-Calais
+
+|
+
+Pas-de-Calais
+
+|
+
+Haute-Normandie
+
+|
+
+DT Haute-Normandie
+
+|
+
+Seine-Maritime
+
+Eure
+
+|
+
+Picardie
+
+|
+
+DT Oise
+
+|
+
+Oise
+
+|
+
+|
+
+DT Somme-Aisne
+
+|
+
+Somme
+
+Aisne
 
 |
 
@@ -116,15 +530,75 @@ Lorraine
 
 |
 
-Le directeur de la direction située à Nancy.
+DIRPJJ Grand-Est (siège à Nancy)
+
+Délégataire : le directeur de la direction interrégionale
 
 |
 
-Alsace, Champagne-Ardenne, Lorraine, Franche-Comté.
+Lorraine
 
 |
 
-Ardennes, Marne, Aube, Haute-Marne, Meuse, Moselle, Meurthe-et-Moselle, Vosges, Haute-Sâone, Doubs, Jura, Bas-Rhin, Haut-Rhin, Territoire de Belfort.
+DT Meurthe-et-Moselle
+
+|
+
+Meurthe-et-Moselle
+
+Meuse
+
+Vosges
+
+|
+
+|
+
+DT Moselle
+
+|
+
+Moselle
+
+|
+
+|
+
+DT Alsace
+
+|
+
+Bas-Rhin
+
+Haut-Rhin
+
+|
+
+Franche-Comté
+
+|
+
+DT Franche-Comté
+
+|
+
+Doubs
+
+Jura
+
+Haute-Saône
+
+Territoire de Belfort
+
+|
+
+Provence - Alpes - Côte d'Azur
+
+|
+
+DIRPJJ Sud-Est (siège à Marseille)
+
+Délégataire : le directeur de la direction interrégionale
 
 |
 
@@ -132,15 +606,59 @@ Provence-Alpes-Côte d'Azur
 
 |
 
-Le directeur de la direction située à Marseille.
+DT Bouches-du-Rhône
 
 |
 
-Provence-Alpes-Côte d'Azur, Corse.
+Bouches-du-Rhône
 
 |
 
-Hautes-Alpes, Alpes-de-Haute-Provence, Vaucluse, Bouches-du-Rhône, Var, Alpes-Maritimes, Corse-du-Sud, Haute-Corse.
+|
+
+DT Var
+
+|
+
+Var
+
+|
+
+|
+
+DT Alpes-Maritimes
+
+|
+
+Alpes-Maritimes
+
+|
+
+|
+
+DT Alpes-Vaucluse
+
+|
+
+Vaucluse
+
+Alpes-de-Haute-Provence
+
+Hautes Alpes
+
+|
+
+Corse
+
+|
+
+DT Corse
+
+|
+
+Corse-du-Sud
+
+Haute-Corse
 
 |
 
@@ -148,18 +666,82 @@ Rhône-Alpes
 
 |
 
-Le directeur de la direction située à Lyon.
+DIRPJJ Centre-Est (siège à Lyon)
+
+Délégataire : le directeur de la direction interrégionale
 
 |
 
-Auvergne, Rhône-Alpes.
+Rhône-Alpes
 
 |
 
-Allier, Puy-de-Dôme, Cantal, Haute-Loire, Loire, Ardèche, Rhône, Ain, Isère, Drôme, Haute-Savoie, Savoie.
+DT Rhône-Ain
 
 |
 
-NOTA :
+Rhône
 
-Décret n° 2010-214 du 2 mars 2010 article 8 : Dans tous les textes réglementaires, les mots : direction départementale de la protection judiciaire de la jeunesse sont remplacés par les mots : direction territoriale de la protection judiciaire de la jeunesse .
+ain
+
+|
+
+|
+
+DT Loire
+
+|
+
+Loire
+
+|
+
+|
+
+DT Isère
+
+|
+
+Isère
+
+|
+
+|
+
+DT Les Savoie
+
+|
+
+Haute-Savoie
+
+Savoie
+
+|
+
+|
+
+DT Drôme-Ardèche
+
+|
+
+Drôme
+
+Ardèche
+
+|
+
+|
+
+DT Auvergne
+
+|
+
+Puy-de-Dôme
+
+Allier
+
+Cantal
+
+Haute-Loire
+
+|

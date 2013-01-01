@@ -22,9 +22,7 @@ Guadeloupe
 
 |
 
-Délégataire
-
-Le chef de l'établissement pénitentiaire de Baie-Mahaut (CP).
+Délégataire : le chef de l'établissement pénitentiaire de Baie-Mahault (CP).
 
 |
 
@@ -32,11 +30,47 @@ Etablissements et services rattachés.
 
 |
 
+Subdélégataires : agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+
 |
 
-Subdélégataires
+Etablissements et services rattachés.
 
-Agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+|
+
+Guadeloupe
+
+|
+
+Délégataire : le chef de l'établissement pénitentiaire de Basse-Terre (MA).
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Subdélégataires : agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Guadeloupe
+
+|
+
+Délégataire : le directeur du service pénitentiaire d'insertion et de probation de Guadeloupe.
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Subdélégataires : agents relevant de l'autorité du directeur du SPIP.
 
 |
 
@@ -48,9 +82,7 @@ Martinique
 
 |
 
-Délégataire
-
-Le chef de l'établissement pénitentiaire de Ducos (CP).
+Délégataire : le chef de l'établissement pénitentiaire de Ducos (CP).
 
 |
 
@@ -58,11 +90,47 @@ Etablissements et services rattachés.
 
 |
 
+Subdélégataires : agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+
 |
 
-Subdélégataires
+Etablissements et services rattachés.
 
-Agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+|
+
+Martinique
+
+|
+
+Délégataire : le directeur du service pénitentiaire d'insertion et de probation de Martinique.
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Subdélégataires : agents relevant de l'autorité du directeur du SPIP.
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Mayotte
+
+|
+
+Délégataire : le chef de l'établissement pénitentiaire de Majicavo (MA).
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Subdélégataires : agents relevant de l'autorité du chef de l'établissement pénitentiaire.
 
 |
 
@@ -74,9 +142,7 @@ La Réunion
 
 |
 
-Délégataire
-
-Le chef de l'établissement pénitentiaire du Port (CP).
+Délégataire : le chef de l'établissement pénitentiaire du Port (CP).
 
 |
 
@@ -84,11 +150,67 @@ Etablissements et services rattachés.
 
 |
 
+Subdélégataires : agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+
 |
 
-Subdélégataires
+Etablissements et services rattachés.
 
-Agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+|
+
+La Réunion
+
+|
+
+Délégataire : le chef de l'établissement pénitentiaire de Saint-Denis (CP).
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Subdélégataires : agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+La Réunion
+
+|
+
+Délégataire : le chef de l'établissement pénitentiaire de Saint-Pierre (MA).
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Subdélégataires : agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+La Réunion
+
+|
+
+Délégataire : le directeur du service pénitentiaire d'insertion et de probation de La Réunion.
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Subdélégataires : agents relevant de l'autorité du directeur du SPIP.
 
 |
 
@@ -100,9 +222,7 @@ Guyane
 
 |
 
-Délégataire
-
-Le chef de l'établissement pénitentiaire de Rémire-Montjoly (CP).
+Délégataire : le chef de l'établissement pénitentiaire de Rémire-Montjoly (CP).
 
 |
 
@@ -110,11 +230,27 @@ Etablissements et services rattachés.
 
 |
 
+Subdélégataires : agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+
 |
 
-Subdélégataires
+Etablissements et services rattachés.
 
-Agents relevant de l'autorité du chef de l'établissement pénitentiaire.
+|
+
+Guyane
+
+|
+
+Délégataire : le directeur du service pénitentiaire d'insertion et de probation de Guyane.
+
+|
+
+Etablissements et services rattachés.
+
+|
+
+Subdélégataires : agents relevant de l'autorité du directeur du SPIP.
 
 |
 
