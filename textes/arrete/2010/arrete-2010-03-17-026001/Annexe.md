@@ -12,7 +12,7 @@ CIRCONSCRIPTIONS RÉGIONALES
 
 |
 
-CENTRE
+GRAND CENTRE
 
 (siège à Dijon)
 
@@ -21,6 +21,8 @@ CENTRE
 Centre
 
 Bourgogne
+
+Champagne-Ardenne
 
 |
 
@@ -48,8 +50,6 @@ Lorraine
 
 Franche-Comté
 
-Champagne-Ardenne
-
 |
 
 GRAND OUEST
@@ -66,7 +66,7 @@ Basse-Normandie
 
 |
 
-ÎLE-DE-FRANCE-OUTRE-MER
+ILE-DE-FRANCE-OUTRE-MER
 
 (siège à Paris)
 
