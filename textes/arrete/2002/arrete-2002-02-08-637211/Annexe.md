@@ -166,7 +166,9 @@ DGINSEE
 
 |
 
-Personnels de direction
+|
+
+Enquêteurs et enquêteurs-experts
 
 |
 
@@ -178,7 +180,7 @@ Chargés d'enquêtes auprès des entreprises
 
 |
 
-Certains missionnaires de la direction des relations internationales et de la coopération
+Certains missionnaires de la direction de la méthodologie et de la coordination statistique et internationale
 
 |
 
