@@ -1,0 +1,23 @@
+# Article 1er
+
+L'article 5.2 de la convention collective nationale des ouvriers des travaux publics du 15 décembre 1992 est abrogé et remplacé par les dispositions suivantes :
+
+« L'ouvrier bénéficie d'autorisations d'absence exceptionnelles non déductibles des congés et n'entraînant pas de réduction de la rémunération à l'occasion des événements suivants :
+
+– mariage : 4 jours ;
+
+– Pacs : 3 jours ;
+
+– mariage d'un de ses enfants : 1 jour ;
+
+– obsèques de son conjoint marié ou pacsé : 3 jours ;
+
+– obsèques d'un de ses enfants : 3 jours ;
+
+– obsèques de son père, de sa mère : 3 jours ;
+
+– obsèques d'un de ses grands-parents ou beaux-parents, d'un de ses frères ou beaux-frères, d'une de ses sœurs ou belles-sœurs, d'un de ses petits-enfants : 1 jour ;
+
+– naissance survenue à son foyer ou arrivée d'un enfant placé en vue de son adoption : 3 jours.
+
+Ces jours d'absence ne peuvent se cumuler avec les congés accordés pour ce même enfant dans le cadre du congé de maternité prévu aux articles L. 1225-17 et suivants du code du travail.
