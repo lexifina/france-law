@@ -6,7 +6,7 @@ Tp = TF + TL
 
 dans laquelle :
 
-T F représente un taux fonction de la taille de la famille donné par le tableau suivant :
+TF représente un taux fonction de la taille de la famille donné par le tableau suivant :
 
 BÉNÉFICIAIRES
 
@@ -90,7 +90,7 @@ Personne seule
 
 |
 
-248,24
+253,58
 
 |
 
@@ -98,7 +98,7 @@ Couple sans personne à charge
 
 |
 
-303,85
+310,38
 
 |
 
@@ -106,7 +106,7 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-341,91
+349,26
 
 |
 
@@ -114,7 +114,7 @@ Par personne supplémentaire à charge
 
 |
 
-49,76
+50,83
 
 |
 
