@@ -1,0 +1,9 @@
+# Réponse à la question n° 8030
+
+- Question : [8030](8030.md) — Question n° 8030 — souveraineté; protection; Saint-Paul
+
+## Réponse
+
+*JO du 2013-01-01*
+
+Les deux îles composant l'archipel de Saint-Paul et d'Amsterdam sont distantes de 80 km. L'île d'Amsterdam abrite la base permanente française Martin de Viviès qui héberge entre 20 et 35 personnes selon les saisons. L'île de Saint-Paul est classée zone de protection intégrale de la réserve naturelle des Terres australes françaises créée par le décret n° 2006-1211. Son accès est interdit sauf autorisation expresse du préfet des Terres australes et antarctiques françaises (TAAF). Des pratiques de pêche responsables ont permis de stabiliser le stock de langoustes et d'en garantir une exploitation à long terme. L'administration des TAAF précise chaque année, dans le détail, la réglementation en vigueur et le total admissible de captures de langoustes pendant la campagne de pêche de décembre à avril de chaque année dans les eaux territoriales et la ZEE de ces îles. Un seul navire, français et basé à La Réunion, est autorisé à y pêcher. Il embarque systématiquement un contrôleur des pêches des TAAF au cours de ses marées. La France exerce sa souveraineté à Saint Paul sans aucune contestation jusqu'à aujourd'hui. Les deux îles sont placées sous le couvert du dispositif de surveillance des pêches et des ZEE mis en oeuvre par l'État. La marine nationale met en oeuvre des frégates de surveillance, le NIVOSE et le FLOREAL, équipées de moyens héliportés, et un patrouilleur spécialisé, l'ALBATROS. L'OSIRIS, ex navire de pêche illicite, a été arraisonné et transformé en 2003 en navire d'État affecté à la surveillance des pêches. Une partie de la redevance versée par les armements réunionnais pratiquant la pêche australe est affectée au financement de ce dispositif auquel contribue également l'administration des Terres australes et antarctiques françaises.
