@@ -4,7 +4,7 @@ LISTE DES SUBSTANCES FIGURANT DANS CHAQUE CATÉGORIE MENTIONNÉE AU I DE L'ARTIC
 
 Substances classées en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales
 
-ou de leur toxicité pour la reproduction de catégories 1A ou 1B
+ou de leur toxicité pour la reproductionde catégorie 1A ou 1B
 
 DÉNOMINATION
 
@@ -12,9 +12,9 @@ de la substance
 
 |
 
-LE CAS ÉCHÉANT,
+LE CAS ÉCHÉANT, DANS LE CADRE
 
-dans le cadre de la décision communautaire
+de la décision communautaire
 
 |
 
@@ -102,7 +102,9 @@ Quizalofop-P-ethyl
 
 |
 
-Substances classées en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction de catégorie 2 identifiées parmi les substances prioritaires au titre de la directive-cadre sur l'eau
+Substances classées en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité
+
+pour la reproduction de catégorie 2 identifiées parmi les substances prioritaires au titre de la directive-cadre sur l'eau
 
 DÉNOMINATION
 
@@ -110,9 +112,9 @@ de la substance
 
 |
 
-LE CAS ÉCHÉANT,
+LE CAS ÉCHÉANT, DANS LE CADRE
 
-dans le cadre de la décision communautaire
+de la décision communautaire
 
 |
 
@@ -142,7 +144,9 @@ Isoproturon
 
 |
 
-Substances classées en raison de leur toxicité aiguë de catégories 1,2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée
+Substances classées en raison de leur toxicité aiguë de catégories 1, 2 ou 3 ou en raison de leur toxicité spécifique
+
+pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée
 
 DÉNOMINATION
 
@@ -150,9 +154,9 @@ de la substance
 
 |
 
-LE CAS ÉCHÉANT,
+LE CAS ÉCHÉANT, DANS LE CADRE
 
-dans le cadre de la décision communautaire
+de la décision communautaire
 
 |
 
@@ -196,6 +200,34 @@ Abamectine
 
 |
 
+Acéquinocyl
+
+|
+
+2011/490
+
+|
+
+57960-19-7
+
+|
+
+|
+
+Acide indolylbutyrique
+
+|
+
+2011/28
+
+|
+
+133-32-4
+
+|
+
+|
+
 Alpha-cyperméthrine (alphaméthrine)
 
 |
@@ -219,6 +251,20 @@ Azoxystrobine
 |
 
 131860-33-8
+
+|
+
+|
+
+Benfuracarbe
+
+|
+
+2007/615
+
+|
+
+82560-54-1
 
 |
 
@@ -372,7 +418,7 @@ Diphénylamine
 
 |
 
-2009/859
+578/2012
 
 |
 
@@ -391,6 +437,34 @@ Diquat (dibromide)
 |
 
 85-00-7
+
+|
+
+|
+
+Dithianon
+
+|
+
+2011/41
+
+|
+
+3347-22-6
+
+|
+
+|
+
+Dodine
+
+|
+
+2011/9
+
+|
+
+2439-10-3
 
 |
 
@@ -478,20 +552,6 @@ Fipronil
 
 |
 
-Fluazinam
-
-|
-
-2008/108
-
-|
-
-79622-59-6
-
-|
-
-|
-
 Fluorure de sulfuryle
 
 |
@@ -510,7 +570,7 @@ Fluquinconazole
 
 |
 
--
+806/2011
 
 |
 
@@ -543,6 +603,20 @@ Fosthiazate
 |
 
 98886-44-3
+
+|
+
+|
+
+Indoxacarbe
+
+|
+
+2006/10
+
+|
+
+173584-44-6
 
 |
 
@@ -734,7 +808,7 @@ Téfluthrine
 
 |
 
-2008/934
+800/2011
 
 |
 
@@ -744,7 +818,7 @@ Téfluthrine
 
 |
 
-Zêta-cyperméthrine
+Zêta-cypermethrine
 
 |
 
@@ -780,9 +854,9 @@ de la substance
 
 |
 
-LE CAS ÉCHÉANT,
+LE CAS ÉCHÉANT, DANS LE CADRE
 
-dans le cadre de la décision communautaire
+de la décision communautaire
 
 |
 
@@ -795,6 +869,48 @@ notamment au CAS
 À L'EXCEPTION
 
 de la forme structurale
+
+|
+
+1-décanol
+
+|
+
+2011/33
+
+|
+
+112-30-1
+
+|
+
+|
+
+1-naphthylacétamide
+
+|
+
+786/2011
+
+|
+
+86-86-2
+
+|
+
+|
+
+1-méthylcyclopropène (1-MCP)
+
+|
+
+2006/19
+
+|
+
+3100-04-7
+
+|
 
 |
 
@@ -840,20 +956,6 @@ de la forme structurale
 
 |
 
-Acequinocyl
-
-|
-
--
-
-|
-
-57960-19-7
-
-|
-
-|
-
 Acétamipride
 
 |
@@ -872,7 +974,7 @@ Acétochlore
 
 |
 
-2008/934
+1372/2011
 
 |
 
@@ -896,6 +998,20 @@ Acibenzolar-S-methyl (ou benzothiadiazole)
 
 |
 
+Acide 1-naphthylacétique (ANA)
+
+|
+
+787/2011
+
+|
+
+86-87-3
+
+|
+
+|
+
 Aclonifen
 
 |
@@ -914,7 +1030,7 @@ Acrinathrine
 
 |
 
-2008/934
+974/2011
 
 |
 
@@ -938,11 +1054,11 @@ Amidosulfuron
 
 |
 
-Aminopyralid
+Aminopyralide
 
 |
 
--
+2011/490
 
 |
 
@@ -1012,7 +1128,7 @@ Bénalaxyl-M
 
 |
 
--
+2011/671
 
 |
 
@@ -1031,20 +1147,6 @@ Benfluraline
 |
 
 1861-40-1
-
-|
-
-|
-
-Bénoxacor
-
-|
-
--
-
-|
-
-98730-04-2
 
 |
 
@@ -1115,6 +1217,20 @@ Bifénox
 |
 
 42576-02-3
+
+|
+
+|
+
+Bixafen
+
+|
+
+2012/363
+
+|
+
+581809-46-3
 
 |
 
@@ -1238,7 +1354,7 @@ Chlorantraniliprole
 
 |
 
--
+2012/191
 
 |
 
@@ -1248,7 +1364,7 @@ Chlorantraniliprole
 
 |
 
-Chloridazone (ou pyrazone)
+Chloridazone (ou Pyrazone)
 
 |
 
@@ -1322,7 +1438,7 @@ Cinidon éthyl
 
 |
 
-2002/64
+1134/2011
 
 |
 
@@ -1374,20 +1490,6 @@ Clomazone
 
 |
 
-Cloquintocet mexyl
-
-|
-
--
-
-|
-
-99607-70-2
-
-|
-
-|
-
 Clothianidine
 
 |
@@ -1425,6 +1527,20 @@ Cyclanilide
 |
 
 113136-77-9
+
+|
+
+|
+
+Cycloxydime
+
+|
+
+2011/4
+
+|
+
+101205-02-1
 
 |
 
@@ -1668,20 +1784,6 @@ Dimoxystrobine
 
 |
 
-Dithianon
-
-|
-
-2011/41
-
-|
-
-3347-22-6
-
-|
-
-|
-
 Dodemorphe
 
 |
@@ -1691,20 +1793,6 @@ Dodemorphe
 |
 
 1593-77-7
-
-|
-
-|
-
-Dodine
-
-|
-
-2011/9
-
-|
-
-2439-10-3
 
 |
 
@@ -1938,7 +2026,7 @@ Fluazifop-P
 
 |
 
-2008/934
+788/2011
 
 |
 
@@ -1957,6 +2045,20 @@ Fludioxonil
 |
 
 131341-86-1
+
+|
+
+|
+
+Fluazinam
+
+|
+
+2008/108
+
+|
+
+79622-59-6
 
 |
 
@@ -2074,6 +2176,34 @@ Flutolanil
 
 |
 
+Flutriafol
+
+|
+
+2011/42
+
+|
+
+76674-21-0
+
+|
+
+|
+
+Fluxapyroxad
+
+|
+
+589/2012
+
+|
+
+907204-31-3
+
+|
+
+|
+
 Folpet (Folpel)
 
 |
@@ -2097,6 +2227,20 @@ Foramsulfuron
 |
 
 173159-57-4
+
+|
+
+|
+
+Forchlorfenuron
+
+|
+
+2006/10
+
+|
+
+68157-60-8
 
 |
 
@@ -2130,7 +2274,7 @@ Glyphosate
 
 |
 
-Haloxyfop-P (haloxyfop-R)
+Haloxyfop-P (Haloxyfop-R)
 
 |
 
@@ -2214,6 +2358,20 @@ Imazamox
 
 |
 
+Imazaquine
+
+|
+
+2008/69
+
+|
+
+81335-37-7
+
+|
+
+|
+
 Imidaclopride
 
 |
@@ -2223,20 +2381,6 @@ Imidaclopride
 |
 
 138261-41-3
-
-|
-
-|
-
-Indoxacarbe
-
-|
-
-2006/10
-
-|
-
-173584-44-6
 
 |
 
@@ -2260,7 +2404,7 @@ Ipconazole
 
 |
 
--
+2011/252
 
 |
 
@@ -2354,20 +2498,6 @@ Lenacile
 
 |
 
-Lufénuron
-
-|
-
-2009/77
-
-|
-
-103055-07-8
-
-|
-
-|
-
 Malathion
 
 |
@@ -2396,11 +2526,11 @@ Mancozèbe
 
 |
 
-Mandipropamide
+Mandipropamid
 
 |
 
--
+2011/490
 
 |
 
@@ -2512,7 +2642,7 @@ Meptyldinocap
 
 |
 
--
+2012/191
 
 |
 
@@ -2564,7 +2694,7 @@ Metalaxyl
 
 |
 
-Metam (incl. - potassium and - sodium)
+Metam (incl. potassium and sodium)
 
 |
 
@@ -2834,7 +2964,7 @@ Oxyfluorfène
 
 |
 
-2008/934
+798/2011
 
 |
 
@@ -2853,6 +2983,20 @@ Paclobutrazol
 |
 
 76738-62-0
+
+|
+
+|
+
+Penconazole
+
+|
+
+2009/77
+
+|
+
+66246-88-6
 
 |
 
@@ -2914,6 +3058,20 @@ Phenmédiphame
 
 |
 
+Phényl-2 phénol
+
+|
+
+2009/160
+
+|
+
+90-43-7,132-27-4
+
+|
+
+|
+
 Phéromones de lépidoptères à chaîne linéaire
 
 |
@@ -2922,7 +3080,7 @@ Phéromones de lépidoptères à chaîne linéaire
 
 |
 
-33956-49-9,16974-11-1,54364-62-4,40642-40-8,28079-04-1,38363-29-0
+33956-49-9,16974-11-1,54364-62-4,40642-40-8,28079-04-1,38363-29-0,37338-40-2,112-53-8,112-72-1
 
 |
 
@@ -3002,7 +3160,7 @@ Pinoxaden
 
 |
 
--
+2012/191
 
 |
 
@@ -3012,7 +3170,7 @@ Pinoxaden
 
 |
 
-Pirimiphos-methyl
+Pirimiphos-méthyl
 
 |
 
@@ -3030,7 +3188,7 @@ Prochloraze
 
 |
 
-2008/934
+1143/2011
 
 |
 
@@ -3180,7 +3338,7 @@ Pymétrozine
 
 |
 
-Pyraflufen-ethyl
+Pyraflufen-éthyl
 
 |
 
@@ -3250,15 +3408,29 @@ Pyriproxyfène
 
 |
 
-Pyroxsulame
+Pyroxsulam
 
 |
 
--
+2011/490
 
 |
 
 422556-08-9
+
+|
+
+|
+
+Quinmérac
+
+|
+
+2010/89
+
+|
+
+90717-03-6
 
 |
 
@@ -3322,6 +3494,20 @@ Rimsulfuron
 
 |
 
+Sedaxane
+
+|
+
+2011/123
+
+|
+
+874967-67-6
+
+|
+
+|
+
 Silthiofam
 
 |
@@ -3350,7 +3536,7 @@ Sintofen (ou Cintofen)
 
 |
 
-S-métolachlore
+S-Métolachlore
 
 |
 
@@ -3359,6 +3545,20 @@ S-métolachlore
 |
 
 87392-12-9
+
+|
+
+|
+
+Spinetoram
+
+|
+
+2008/740
+
+|
+
+935545-74-7
 
 |
 
@@ -3420,6 +3620,20 @@ Spiroxamine
 
 |
 
+Sulcotrione
+
+|
+
+2008/125
+
+|
+
+99105-77-8
+
+|
+
+|
+
 Sulfosulfuron
 
 |
@@ -3434,7 +3648,7 @@ Sulfosulfuron
 
 |
 
-Tau-fluvalinate
+Tau-Fluvalinate
 
 |
 
@@ -3466,7 +3680,7 @@ Tebufénozide
 
 |
 
--
+2011/60
 
 |
 
@@ -3480,7 +3694,7 @@ Tembotrione
 
 |
 
--
+2012/191
 
 |
 
@@ -3546,6 +3760,20 @@ Thiamethoxam
 
 |
 
+Thiencarbazone
+
+|
+
+2011/490
+
+|
+
+317815-83-1
+
+|
+
+|
+
 Thifensulfuron-méthyl
 
 |
@@ -3588,7 +3816,7 @@ Thirame
 
 |
 
-Tolclofos-methyl
+Tolclofos-méthyl
 
 |
 
@@ -3597,6 +3825,20 @@ Tolclofos-methyl
 |
 
 57018-04-9
+
+|
+
+|
+
+Triadiménol
+
+|
+
+2008/125
+
+|
+
+55219-65-3
 
 |
 
@@ -3686,6 +3928,20 @@ Triflusulfuron
 
 |
 
+Trinexapac (ou cimetacarb éthyl)
+
+|
+
+2006/64
+
+|
+
+104273-73-6,95266-40-3
+
+|
+
+|
+
 Triticonazole
 
 |
@@ -3714,11 +3970,11 @@ Tritosulfuron
 
 |
 
-Valiphénal
+Valifenalate
 
 |
 
--
+2011/671
 
 |
 
@@ -3750,9 +4006,9 @@ de la substance
 
 |
 
-LE CAS ÉCHÉANT,
+LE CAS ÉCHÉANT, DANS LE CADRE
 
-dans le cadre de la décision communautaire
+de la décision communautaire
 
 |
 
@@ -3780,7 +4036,7 @@ Cuivre et composés
 
 |
 
-Cuivre de l'hydroxyde de cuivre ; cuivre de l'oxychlorure de cuivre
+Cuivre de l'hydroxyde de cuivre, cuivre de l'oxychlorure de cuivre
 
 |
 
