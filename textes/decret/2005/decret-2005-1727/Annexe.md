@@ -200,21 +200,31 @@ Assistant territorial socio-éducatif.
 
 |
 
-Infirmier de classe supérieure.
-
-|
+Infirmier de classe supérieure relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat |
 
 Infirmier territorial de classe supérieure.
 
 |
 
-Infirmier de classe normale.
+Infirmier de classe normale relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat.
 
 |
 
 Infirmier territorial de classe normale.
 
 |
+
+Infirmier de classe normale relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat. |
+
+Infirmier territorial en soins généraux de classe normale. |
+
+Infirmier de classe supérieure relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat. |
+
+Infirmier territorial en soins généraux de classe supérieure. |
+
+Infirmier hors classe relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat. |
+
+Infirmier territorial en soins généraux hors classe. |
 
 Conseiller d'administration scolaire et universitaire hors classe.
 
@@ -898,21 +908,29 @@ Assistant territorial socio-éducatif.
 
 |
 
-Infirmier de classe supérieure.
-
-|
+nfirmier de classe supérieure relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat |
 
 Infirmier territorial de classe supérieure.
 
 |
 
-Infirmier de classe normale.
-
-|
+Infirmier de classe normale relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat. |
 
 Infirmier territorial de classe normale.
 
 |
+
+Infirmier de classe normale relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat. |
+
+Infirmier territorial en soins généraux de classe normale. |
+
+Infirmier de classe supérieure relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat. |
+
+Infirmier territorial en soins généraux de classe supérieure. |
+
+Infirmier hors classe relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat. |
+
+Infirmier territorial en soins généraux hors classe. |
 
 Attaché principal nommé conseiller d'administration de l'écologie, du développement et de l'aménagement durables, 4e à 7e échelon.
 
@@ -1578,21 +1596,29 @@ Assistant territorial socio-éducatif principal.
 
 |
 
-Infirmier de classe normale.
-
-|
+Infirmier de classe normale relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat. |
 
 Infirmier territorial de classe normale.
 
 |
 
-Infirmier de classe supérieure.
-
-|
+Infirmier de classe supérieure relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat |
 
 Infirmier territorial de classe supérieure.
 
 |
+
+Infirmier de classe normale relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat. |
+
+Infirmier territorial en soins généraux de classe normale. |
+
+Infirmier de classe supérieure relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat. |
+
+Infirmier territorial en soins généraux de classe supérieure. |
+
+Infirmier hors classe relevant du décret n° 2012-762 du 9 mai 2012 portant dispositions statutaires communes aux corps d'infirmiers de catégorie A des administrations de l'Etat. |
+
+Infirmier territorial en soins généraux hors classe. |
 
 Inspecteur hors classe de l'action sanitaire et sociale, 3e, 4e et 5e échelons.
 
