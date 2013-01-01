@@ -2,47 +2,25 @@
 
 LISTE DES POLLUANTS
 
-NUMÉRO CAS
+NUMÉRO CAS |
 
-|
+NUMÉRO SANDRE |
 
-NUMÉRO
+POLLUANT (1) |
 
-SANDRE
+SEUIL DE REJETS |
 
-|
+Dans l'air (kg/ an) |
 
-POLLUANT (1)
+Dans l'eau (1b) |
 
-|
+Dans le sol (kg/ an) |
 
-SEUIL DE REJETS
+(kg/ an) |
 
-|
+(g/ jour) |
 
-|
-
-|
-
-|
-
-Dans l'air
-
-(kg/an)
-
-|
-
-Dans l'eau
-
-(kg/an)
-
-|
-
-Dans le sol
-
-(kg/an)
-
-|
+A. - Paramètres E-PRTR et associés |
 
 74-82-8
 
@@ -66,6 +44,10 @@ Méthane (CH4).
 
 |
 
+-
+
+|
+
 630-08-0
 
 |
@@ -77,6 +59,10 @@ Monoxyde de carbone (CO).
 |
 
 500 000
+
+|
+
+-
 
 |
 
@@ -110,6 +96,10 @@ Dioxyde de carbone (CO2) (3).
 
 |
 
+-
+
+|
+
 |
 
 |
@@ -119,6 +109,10 @@ Hydrofluorocarbones (HFC) (4).
 |
 
 100
+
+|
+
+-
 
 |
 
@@ -152,11 +146,13 @@ Protoxyde d'azote (N2O).
 
 |
 
-7664-41-7
+-
 
 |
 
-1351
+7664-41-7
+
+|
 
 |
 
@@ -168,7 +164,9 @@ Ammoniac (NH3).
 
 |
 
-15 000
+|
+
+-
 
 |
 
@@ -180,7 +178,7 @@ Ammoniac (NH3).
 
 |
 
-Composés organiques volatils non méthaniques (COVNM).
+Composés organiques volatils non méthaniques (COVNM) (5).
 
 |
 
@@ -196,11 +194,15 @@ Composés organiques volatils non méthaniques (COVNM).
 
 |
 
+-
+
+|
+
 |
 
 |
 
-Oxydes d'azote (NOx/NO2).
+Oxydes d'azote (NOx/ NO2).
 
 |
 
@@ -216,15 +218,23 @@ Oxydes d'azote (NOx/NO2).
 
 |
 
+-
+
+|
+
 |
 
 |
 
-Perfluorocarbones (PFC) (5).
+Perfluorocarbones (PFC) (6).
 
 |
 
 100
+
+|
+
+-
 
 |
 
@@ -258,15 +268,23 @@ Hexafluorure de soufre (SF6).
 
 |
 
+-
+
+|
+
 |
 
 |
 
-Oxydes de soufre (SOx/SO2).
+Oxydes de soufre (SOx/ SO2).
 
 |
 
 150 000 (*) et (**)
+
+|
+
+-
 
 |
 
@@ -296,6 +314,10 @@ Azote total.
 
 |
 
+-
+
+|
+
 50 000
 
 |
@@ -320,6 +342,10 @@ Phosphore total.
 
 |
 
+-
+
+|
+
 5 000
 
 |
@@ -328,7 +354,7 @@ Phosphore total.
 
 |
 
-Hydrochlorofluorocarbones (HCFC) (6).
+Hydrochlorofluorocarbones (HCFC) (7).
 
 |
 
@@ -344,11 +370,15 @@ Hydrochlorofluorocarbones (HCFC) (6).
 
 |
 
+-
+
+|
+
 |
 
 |
 
-Chlorofluorocarbones (CFC) (7).
+Chlorofluorocarbones (CFC) (8).
 
 |
 
@@ -364,11 +394,15 @@ Chlorofluorocarbones (CFC) (7).
 
 |
 
+-
+
+|
+
 |
 
 |
 
-Halons (8).
+Halons (9).
 
 |
 
@@ -377,68 +411,6 @@ Halons (8).
 |
 
 -
-
-|
-
--
-
-|
-
-|
-
-|
-
-Trifluorure d'azote (NF3).
-
-|
-
-500
-
-|
-
--
-
-|
-
--
-
-|
-
-7429-90-5
-
-|
-
-1370
-
-|
-
-Aluminium et composés (exprimés en tant que Al) (9).
-
-|
-
--
-
-|
-
-2 000
-
-|
-
-2 000
-
-|
-
-7440-36-0
-
-|
-
-|
-
-Antimoine et composés (exprimés en tant que Sb) (9).
-
-|
-
-10
 
 |
 
@@ -470,6 +442,10 @@ Arsenic et composés (exprimés en tant que As) (9).
 
 |
 
+10
+
+|
+
 5
 
 |
@@ -482,7 +458,7 @@ Arsenic et composés (exprimés en tant que As) (9).
 
 |
 
-Cadmium et composés (exprimés en tant que Cd) (9)
+Cadmium et composés (exprimés en tant que Cd) (9).
 
 |
 
@@ -490,7 +466,11 @@ Cadmium et composés (exprimés en tant que Cd) (9)
 
 |
 
-0
+1
+
+|
+
+2
 
 |
 
@@ -518,55 +498,11 @@ Chrome et composés (exprimés en tant que Cr) (9).
 
 |
 
+200
+
+|
+
 50
-
-|
-
-18540-29-9
-
-|
-
-1371
-
-|
-
-Chrome hexavalent et composés (exprimés en tant que Cr VI) (9).
-
-|
-
--
-
-|
-
-30
-
-|
-
-30
-
-|
-
-7440-48-4
-
-|
-
-1379
-
-|
-
-Cobalt et composés (exprimés en tant que Co) (9).
-
-|
-
-5
-
-|
-
-40
-
-|
-
--
 
 |
 
@@ -590,31 +526,11 @@ Cuivre et composés (exprimés en tant que Cu) (9).
 
 |
 
+200
+
+|
+
 50
-
-|
-
-7439-89-6
-
-|
-
-1393
-
-|
-
-Fer et composés (exprimés en tant que Fe) (9).
-
-|
-
--
-
-|
-
-3 000
-
-|
-
-3 000
 
 |
 
@@ -634,35 +550,15 @@ Mercure et composés (exprimés en tant que Hg) (9).
 
 |
 
-0
-
-|
-
 1
 
 |
 
-7439-96-5
+2
 
 |
 
-1394
-
-|
-
-Manganèse et composés (exprimés en tant que Mn) (9).
-
-|
-
-200 (**)
-
-|
-
-500
-
-|
-
-500
+1
 
 |
 
@@ -682,7 +578,11 @@ Nickel et composés (exprimés en tant que Ni) (9).
 
 |
 
-0
+20
+
+|
+
+20
 
 |
 
@@ -706,7 +606,7 @@ Plomb et composés (exprimés en tant que Pb) (9).
 
 |
 
-0
+20
 
 |
 
@@ -714,51 +614,7 @@ Plomb et composés (exprimés en tant que Pb) (9).
 
 |
 
-7440-31-5
-
-|
-
-1380
-
-|
-
-Etain et composés (exprimés en tant que Sn) (9).
-
-|
-
-2 000
-
-|
-
-200
-
-|
-
-200
-
-|
-
-7440-32-6
-
-|
-
-1373
-
-|
-
-Titane et composés (exprimés en tant que Ti) (9).
-
-|
-
--
-
-|
-
-100
-
-|
-
-100
+20
 
 |
 
@@ -782,6 +638,10 @@ Zinc et composés (exprimés en tant que Zn) (9).
 
 |
 
+200
+
+|
+
 100
 
 |
@@ -802,7 +662,11 @@ Alachlore.
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -826,7 +690,11 @@ Aldrine.
 
 |
 
-0
+1
+
+|
+
+-
 
 |
 
@@ -850,7 +718,11 @@ Atrazine.
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -878,6 +750,10 @@ Chlordane.
 
 |
 
+-
+
+|
+
 1
 
 |
@@ -902,6 +778,10 @@ Chlordécone.
 
 |
 
+-
+
+|
+
 1
 
 |
@@ -922,7 +802,11 @@ Chlorfenvinphos.
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -946,7 +830,11 @@ Chloro-alkanes (C10-C13).
 
 |
 
-0
+1
+
+|
+
+2
 
 |
 
@@ -970,7 +858,11 @@ Chlorpyriphos.
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -1014,7 +906,11 @@ Total DDT (y compris les métabolites DDD et DDE).
 
 |
 
-0
+1
+
+|
+
+-
 
 |
 
@@ -1030,7 +926,7 @@ Total DDT (y compris les métabolites DDD et DDE).
 
 |
 
-1,2-dichloroéthane (DCE).
+1,2-dichloréthane (DCE, chlorure d'éthylène).
 
 |
 
@@ -1038,7 +934,11 @@ Total DDT (y compris les métabolites DDD et DDE).
 
 |
 
-0
+10
+
+|
+
+20
 
 |
 
@@ -1054,7 +954,7 @@ Total DDT (y compris les métabolites DDD et DDE).
 
 |
 
-Dichlorométhane (DCM).
+Dichlorométhane (DCM, chlorure de méthylène).
 
 |
 
@@ -1062,7 +962,11 @@ Dichlorométhane (DCM).
 
 |
 
-0
+10
+
+|
+
+20
 
 |
 
@@ -1086,7 +990,11 @@ Dieldrine.
 
 |
 
-0
+1
+
+|
+
+-
 
 |
 
@@ -1110,7 +1018,11 @@ Diuron.
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -1134,7 +1046,11 @@ Endosulphan (mélange d'isomères).
 
 |
 
-0
+1
+
+|
+
+-
 
 |
 
@@ -1158,7 +1074,11 @@ Endrine.
 
 |
 
-0
+1
+
+|
+
+-
 
 |
 
@@ -1181,6 +1101,10 @@ Composés organohalogénés (exprimés en tant que AOX) (10).
 |
 
 1 000
+
+|
+
+-
 
 |
 
@@ -1208,6 +1132,10 @@ Heptachlore.
 
 |
 
+-
+
+|
+
 1
 
 |
@@ -1228,7 +1156,11 @@ Hexachlorobenzène (HCB).
 
 |
 
-0
+1
+
+|
+
+2
 
 |
 
@@ -1252,7 +1184,11 @@ Hexachlorobutadiène (HCBD).
 
 |
 
-0
+1
+
+|
+
+2
 
 |
 
@@ -1264,9 +1200,9 @@ Hexachlorobutadiène (HCBD).
 
 |
 
-1200
+1200 +
 
-1201
+1201 +
 
 1202
 
@@ -1280,7 +1216,11 @@ Hexachlorobutadiène (HCBD).
 
 |
 
-0
+1
+
+|
+
+-
 
 |
 
@@ -1296,7 +1236,7 @@ Hexachlorobutadiène (HCBD).
 
 |
 
-Lindane.
+Gamma isomère Lindane.
 
 |
 
@@ -1304,7 +1244,11 @@ Lindane.
 
 |
 
-0
+1
+
+|
+
+2
 
 |
 
@@ -1330,6 +1274,10 @@ Mirex.
 
 |
 
+-
+
+|
+
 1
 
 |
@@ -1342,15 +1290,19 @@ PCDD + PCDF (dioxines + furannes) (en Teq) (11).
 
 |
 
-0,0001 (**)
+0,000 1 (**)
 
 |
 
-0,0001
+0,000 1
 
 |
 
-0,0001
+-
+
+|
+
+0,000 1
 
 |
 
@@ -1370,7 +1322,11 @@ Pentachlorobenzène.
 
 |
 
-0
+1
+
+|
+
+2
 
 |
 
@@ -1394,7 +1350,11 @@ Pentachlorophénol (PCP).
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -1422,6 +1382,62 @@ Biphényles polychlorés (PCB).
 
 |
 
+-
+
+|
+
+0,1
+
+|
+
+|
+
+6428
+
+|
+
+PCBi : somme des 7 PCB indicateurs (PCB 28 + PCB 52 + PCB 101 + PCB 118 + PCB 138 + PCB 153 + PCB 180).
+
+|
+
+0,1
+
+|
+
+0,1
+
+|
+
+2
+
+|
+
+0,1
+
+|
+
+|
+
+6434
+
+|
+
+PCB-DL : somme des 12 PCB-DL (somme de PCB 77 + PCB 81 + PCB 105 + PCB 114 + PCB 118 + PCB 123 + PCB 126 + PCB 156 + PCB 157 + PCB 167 + PCB 169 + PCB 189).
+
+|
+
+0,1
+
+|
+
+0,1
+
+|
+
+-
+
+|
+
 0,1
 
 |
@@ -1442,7 +1458,11 @@ Simazine.
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -1458,7 +1478,7 @@ Simazine.
 
 |
 
-Tétrachloroéthylène (PER).
+Tétrachloroethylène (PER, tétrachloroéthylène).
 
 |
 
@@ -1466,7 +1486,11 @@ Tétrachloroéthylène (PER).
 
 |
 
-0
+10
+
+|
+
+2
 
 |
 
@@ -1482,7 +1506,7 @@ Tétrachloroéthylène (PER).
 
 |
 
-Tétrachlorométhane (TCM).
+Tétrachlorométhane (TCM, tétrachlorure de carbone).
 
 |
 
@@ -1490,7 +1514,11 @@ Tétrachlorométhane (TCM).
 
 |
 
-0
+1
+
+|
+
+2
 
 |
 
@@ -1502,7 +1530,7 @@ Tétrachlorométhane (TCM).
 
 |
 
-1630
+1774
 
 |
 
@@ -1514,7 +1542,11 @@ Trichlorobenzènes (TCB) (tous les isomères).
 
 |
 
-0
+1
+
+|
+
+-
 
 |
 
@@ -1525,6 +1557,8 @@ Trichlorobenzènes (TCB) (tous les isomères).
 71-55-6
 
 |
+
+1284
 
 |
 
@@ -1540,6 +1574,10 @@ Trichlorobenzènes (TCB) (tous les isomères).
 
 |
 
+300
+
+|
+
 -
 
 |
@@ -1547,6 +1585,8 @@ Trichlorobenzènes (TCB) (tous les isomères).
 79-34-5
 
 |
+
+1271
 
 |
 
@@ -1562,6 +1602,10 @@ Trichlorobenzènes (TCB) (tous les isomères).
 
 |
 
+300
+
+|
+
 -
 
 |
@@ -1574,7 +1618,7 @@ Trichlorobenzènes (TCB) (tous les isomères).
 
 |
 
-Trichloréthylène (TRI).
+Trichloréthylène.
 
 |
 
@@ -1582,7 +1626,11 @@ Trichloréthylène (TRI).
 
 |
 
-0
+10
+
+|
+
+2
 
 |
 
@@ -1606,7 +1654,11 @@ Trichlorométhane (chloroforme).
 
 |
 
-0
+10
+
+|
+
+20
 
 |
 
@@ -1634,6 +1686,10 @@ Toxaphène.
 
 |
 
+-
+
+|
+
 1
 
 |
@@ -1646,7 +1702,7 @@ Toxaphène.
 
 |
 
-Chlorure de vinyle.
+Chlorure de vinyle (chloroéthène).
 
 |
 
@@ -1655,6 +1711,10 @@ Chlorure de vinyle.
 |
 
 10
+
+|
+
+300
 
 |
 
@@ -1678,7 +1738,11 @@ Anthracène.
 
 |
 
-0
+1
+
+|
+
+2
 
 |
 
@@ -1702,11 +1766,15 @@ Benzène.
 
 |
 
-0
+200 (12)
 
 |
 
-200
+20
+
+|
+
+200 (12)
 
 |
 
@@ -1724,7 +1792,7 @@ Benzène.
 
 |
 
-Diphényléthers bromés (PBDE) (12).
+Diphényléthers bromés (PBDE) (13)
 
 |
 
@@ -1732,7 +1800,11 @@ Diphényléthers bromés (PBDE) (12).
 
 |
 
-0
+1
+
+|
+
+-
 
 |
 
@@ -1744,11 +1816,17 @@ Diphényléthers bromés (PBDE) (12).
 
 |
 
-1957
+1957 +
+
+1958 +
+
+6366 +
+
+6369
 
 |
 
-Nonyphénols et éthoxylates de nonylphénol (NP/NPE).
+Nonyphénols et éthoxylates de nonylphénol (NP/ NPE).
 
 |
 
@@ -1756,7 +1834,11 @@ Nonyphénols et éthoxylates de nonylphénol (NP/NPE).
 
 |
 
-0
+1
+
+|
+
+2
 
 |
 
@@ -1780,11 +1862,15 @@ Ethylbenzène.
 
 |
 
-0
+200 (12)
 
 |
 
-200
+300
+
+|
+
+200 (12)
 
 |
 
@@ -1803,6 +1889,10 @@ Oxyde d'éthylène.
 |
 
 10
+
+|
+
+-
 
 |
 
@@ -1826,7 +1916,11 @@ Isoproturon.
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -1850,7 +1944,11 @@ Naphtalène.
 
 |
 
-0
+10
+
+|
+
+20
 
 |
 
@@ -1874,6 +1972,10 @@ Composés organostanniques (en tant que Sn total).
 
 |
 
+-
+
+|
+
 50
 
 |
@@ -1882,7 +1984,7 @@ Composés organostanniques (en tant que Sn total).
 
 |
 
-1461
+6616
 
 |
 
@@ -1894,7 +1996,11 @@ Phtalate de di (2-éthylhexyl) (DEHP).
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -1910,7 +2016,7 @@ Phtalate de di (2-éthylhexyl) (DEHP).
 
 |
 
-Phénols (en tant que C total) (13).
+Phénols (en tant que C total) (14).
 
 |
 
@@ -1922,143 +2028,61 @@ Phénols (en tant que C total) (13).
 
 |
 
+-
+
+|
+
 20
-
-|
-
-191-24-2
-
-|
-
-1118
-
-|
-
-Benzo(g,h,i)pérylène.
-
-|
-
--
-
-|
-
-0
-
-|
-
--
 
 |
 
 207-08-9
 
-|
-
-1117
-
-|
-
-Benzo(k)fluoranthène.
-
-|
-
-|
-
-0
-
-|
-
-50
-
-5
-
-|
-
 193-39-5
 
-|
-
-1204
-
-|
-
-Indeno(1,2,3-cd)pyrène.
-
-|
-
-|
-
-0
-
-|
-
-(en tant
-
-(en tant
-
-|
-
 50-32-8
-
-|
-
-1115
-
-|
-
-Benzo(a)pyrène.
-
-|
-
-|
-
-0
-
-|
-
-que HAP) (14)
-
-que HAP) (14)
-
-|
 
 205-99-2
 
 |
 
+1117
+
+1204
+
+115
+
 1116
 
 |
 
-Benzo(b)fluoranthène.
+Hydrocarbures aromatiques polycycliques (HAP) :
+
+Somme des paramètres :
+
+Benzo (k) fluoranthène ;
+
+Indeno (1,2,3-cd) pyrène ;
+
+Benzo (a) pyrène ;
+
+Benzo (b) fluoranthène.
 
 |
 
-|
-
-0
+50
 
 |
 
-|
-
-|
-
-|
-
-Hydrocarbures.
-
-|
-
--
-
-|
-
-10 000
+5
 
 |
 
 -
+
+|
+
+5
 
 |
 
@@ -2078,19 +2102,21 @@ Toluène.
 
 |
 
-0
+200 (12)
 
 |
 
-200
+300
+
+|
+
+200 (12)
 
 |
 
 688-73-3
 
 |
-
-1820
 
 |
 
@@ -2102,7 +2128,11 @@ Tributylétain et composés (15).
 
 |
 
-0
+1
+
+|
+
+2
 
 |
 
@@ -2127,6 +2157,10 @@ Triphénylétain et composés (16).
 |
 
 1
+
+|
+
+-
 
 |
 
@@ -2156,62 +2190,6 @@ Carbone organique total (en tant que C total ou DCO/3).
 
 |
 
-|
-
-|
-
-Demande chimique en oxygène (DCO).
-
-|
-
--
-
-|
-
-150 000
-
-|
-
--
-
-|
-
-|
-
-|
-
-Demande biologique en oxygène (DBO5).
-
-|
-
--
-
-|
-
-43 000
-
-|
-
--
-
-|
-
-|
-
-|
-
-Matières en suspension (MES).
-
-|
-
--
-
-|
-
-300 000
-
-|
-
 -
 
 |
@@ -2232,7 +2210,11 @@ Trifluraline.
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -2248,7 +2230,7 @@ Trifluraline.
 
 |
 
-Xylènes (17).
+Xylènes (somme ortho-xylène, méta-xylène, para-xylène).
 
 |
 
@@ -2256,11 +2238,15 @@ Xylènes (17).
 
 |
 
-0
+200 (12)
 
 |
 
-200
+300
+
+|
+
+200 (12)
 
 |
 
@@ -2284,6 +2270,10 @@ Chlorures (en tant que Cl total).
 
 |
 
+-
+
+|
+
 2 000 000
 
 |
@@ -2297,6 +2287,10 @@ Chlore et composés inorganiques (en tant que HCl).
 |
 
 10 000 (**)
+
+|
+
+-
 
 |
 
@@ -2328,6 +2322,10 @@ Amiante.
 
 |
 
+-
+
+|
+
 1
 
 |
@@ -2349,6 +2347,10 @@ Cyanures (sous forme de CN total).
 |
 
 50
+
+|
+
+-
 
 |
 
@@ -2376,6 +2378,10 @@ Fluorures (en tant que F total).
 
 |
 
+-
+
+|
+
 2 000
 
 |
@@ -2389,6 +2395,10 @@ Fluor et composés inorganiques (en tant que HF).
 |
 
 5 000 (**)
+
+|
+
+-
 
 |
 
@@ -2422,6 +2432,12 @@ Acide cyanhydrique (HCN).
 
 |
 
+-
+
+|
+
+7783-06-4
+
 |
 
 |
@@ -2431,6 +2447,10 @@ Sulfure d'hydrogène (H2S).
 |
 
 3 000
+
+|
+
+-
 
 |
 
@@ -2466,6 +2486,10 @@ Sulfates.
 
 |
 
+-
+
+|
+
 |
 
 |
@@ -2486,22 +2510,6 @@ Particules (PM10).
 
 |
 
-|
-
-|
-
-Poussières totales.
-
-|
-
-150 000 (*)
-
-|
-
--
-
-|
-
 -
 
 |
@@ -2510,7 +2518,11 @@ Poussières totales.
 
 |
 
-1920
+6600 +
+
+6370 +
+
+6371
 
 |
 
@@ -2522,7 +2534,11 @@ Octylphénols et éthoxylates d'octylphénol.
 
 |
 
-0
+1
+
+|
+
+10
 
 |
 
@@ -2546,7 +2562,11 @@ Fluoranthène.
 
 |
 
-0
+1
+
+|
+
+4
 
 |
 
@@ -2570,7 +2590,7 @@ Isodrine.
 
 |
 
-0
+1
 
 |
 
@@ -2578,7 +2598,11 @@ Isodrine.
 
 |
 
-36355-01-8
+-
+
+|
+
+36355-1-8
 
 |
 
@@ -2598,9 +2622,43 @@ Hexabromobiphényle.
 
 |
 
+-
+
+|
+
 0,1
 
 |
+
+191-24-2
+
+|
+
+1118
+
+|
+
+Benzo (g, h, i) pérylène.
+
+|
+
+-
+
+|
+
+1
+
+|
+
+2
+
+|
+
+-
+
+|
+
+B. - Autres paramètres spécifiques |
 
 50-00-0
 
@@ -2619,6 +2677,10 @@ Aldéhyde formique (formaldéhyde).
 |
 
 300
+
+|
+
+-
 
 |
 
@@ -2650,6 +2712,10 @@ Aniline.
 
 |
 
+-
+
+|
+
 302-01-2
 
 |
@@ -2665,6 +2731,10 @@ Hydrazine.
 |
 
 70
+
+|
+
+-
 
 |
 
@@ -2696,17 +2766,25 @@ Méthanol (alcool méthylique).
 
 |
 
+-
+
+|
+
 75-07-0
 
 |
 
 |
 
-Acétaldéhyde (aldéhyde acétique ou éthanal).
+Acétaldéhyde (aldéhyde acétique-éthanal).
 
 |
 
 200
+
+|
+
+-
 
 |
 
@@ -2740,17 +2818,25 @@ Acrylonitrile.
 
 |
 
+-
+
+|
+
 106-99-0
 
 |
 
 |
 
-1,3-butadiène.
+1-3 butadiène.
 
 |
 
 15 000
+
+|
+
+-
 
 |
 
@@ -2766,6 +2852,8 @@ Acrylonitrile.
 
 |
 
+1736
+
 |
 
 Chlorométhane (chlorure de méthyle).
@@ -2773,6 +2861,10 @@ Chlorométhane (chlorure de méthyle).
 |
 
 15 000
+
+|
+
+-
 
 |
 
@@ -2806,13 +2898,17 @@ Crésol (mélanges d'isomères).
 
 |
 
+-
+
+|
+
 123-91-1
 
 |
 
 |
 
-1,4-dioxane.
+1-4 dioxane.
 
 |
 
@@ -2828,9 +2924,15 @@ Crésol (mélanges d'isomères).
 
 |
 
+-
+
+|
+
 106-89-8
 
 |
+
+1494
 
 |
 
@@ -2846,6 +2948,10 @@ Epichlorhydrine (1-chloro-2,3-époxypropane).
 
 |
 
+300
+
+|
+
 -
 
 |
@@ -2856,11 +2962,15 @@ Epichlorhydrine (1-chloro-2,3-époxypropane).
 
 |
 
-Oxyde de propylène (1,2-époxypropane).
+Oxyde de propylène (1-2 époxypropane).
 
 |
 
 2 000
+
+|
+
+-
 
 |
 
@@ -2878,7 +2988,7 @@ Oxyde de propylène (1,2-époxypropane).
 
 |
 
-Sulfate de carbone.
+Sulfure de carbone.
 
 |
 
@@ -2894,11 +3004,461 @@ Sulfate de carbone.
 
 |
 
+-
+
+|
+
+1136-21-6
+
+|
+
+1351
+
+|
+
+Hydroxyde d'ammonium (NH4 +).
+
+|
+
+-
+
+|
+
+15 000
+
+|
+
+-
+
+|
+
+|
+
+7783-54-2
+
+|
+
+|
+
+Trifluorure d'azote (trifluoramine).
+
+|
+
+500
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+7429-90-5
+
+|
+
+1370
+
+|
+
+Aluminium et composés (exprimés en tant que Al) (17).
+
+|
+
+-
+
+|
+
+2 000
+
+|
+
+-
+
+|
+
+2 000
+
+|
+
+7440-36-0
+
+|
+
+|
+
+Antimoine et composés (exprimés en tant que Sb) (9).
+
+|
+
+10 (**)
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+18540-29-9
+
+|
+
+1371
+
+|
+
+Chrome hexavalent et composés (exprimés en tant que Cr VI) (9).
+
+|
+
+-
+
+|
+
+30
+
+|
+
+-
+
+|
+
+30
+
+|
+
+7440-48-4
+
+|
+
+1379
+
+|
+
+Cobalt et composés (exprimés en tant que Co) (9).
+
+|
+
+5 (**)
+
+|
+
+40
+
+|
+
+-
+
+|
+
+-
+
+|
+
+7439-89-6
+
+|
+
+1393
+
+|
+
+Fer et composés (exprimés en tant que Fe) (9).
+
+|
+
+-
+
+|
+
+3 000
+
+|
+
+-
+
+|
+
+3 000
+
+|
+
+7439-96-5
+
+|
+
+1394
+
+|
+
+Manganèse et composés (exprimés en tant que Mn) (9).
+
+|
+
+200 (**)
+
+|
+
+500
+
+|
+
+-
+
+|
+
+500
+
+|
+
+7440-31-5
+
+|
+
+1380
+
+|
+
+Etain et composés (exprimés en tant que Sn) (9).
+
+|
+
+2 000
+
+|
+
+200
+
+|
+
+-
+
+|
+
+200
+
+|
+
+7440-32-6
+
+|
+
+1373
+
+|
+
+Titane et composés (exprimés en tant que Ti) (9).
+
+|
+
+-
+
+|
+
+100
+
+|
+
+-
+
+|
+
+100
+
+|
+
+7440-28-0
+
+|
+
+|
+
+Thallium et ses composés (exprimés en tant que Tl).
+
+|
+
+10 (**)
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+7440-62-2
+
+|
+
+|
+
+Vanadium et ses composés
+
+|
+
+10 (**)
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
 |
 
 |
 
-C8F17SO2X (18) sulfonate de perfluorooctane (SPFO)
+Hydrocarbures.
+
+|
+
+-
+
+|
+
+10 000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+|
+
+|
+
+Demande chimique en oxygène (DCO).
+
+|
+
+-
+
+|
+
+150 000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+|
+
+|
+
+Demande biologique en oxygène (DBO5).
+
+|
+
+-
+
+|
+
+43 000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+|
+
+|
+
+Matières en suspension (MES).
+
+|
+
+-
+
+|
+
+300 000
+
+|
+
+-
+
+|
+
+-
+
+|
+
+|
+
+|
+
+Poussières totales.
+
+|
+
+150 000 (*)
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+|
+
+|
+
+Sulfonate de perfluorooctane (SPFO) (18).
 
 |
 
@@ -2910,58 +3470,1604 @@ C8F17SO2X (18) sulfonate de perfluorooctane (SPFO)
 
 |
 
+-
+
+|
+
 0
 
 |
 
-(18) C8F17SO2X.
+32536-52-0
 
-X = OH.
+|
 
-X = sel métallique (O-M +) préciser.
+|
 
-X = halogénure préciser.
+Octabromodiphényléther (octaBDE).
 
-X = amide préciser.
+|
 
-X = autre dérivé préciser.
+0
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+32534-81-9
+
+|
+
+|
+
+Pentabromodiphényléther.
+
+|
+
+0
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+C. - Paramètres de l'action RSDE non repris par ailleurs |
+
+|
+
+1630
+
+|
+
+1,2,3-trichlorobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+4
+
+|
+
+-
+
+|
+
+|
+
+1283
+
+|
+
+1,2,4-trichlorobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+4
+
+|
+
+-
+
+|
+
+|
+
+1629
+
+|
+
+1,3,5-trichlorobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+4
+
+|
+
+-
+
+|
+
+207-08-9
+
+|
+
+1117
+
+|
+
+Benzo (k) fluoranthène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2
+
+|
+
+-
+
+|
+
+193-39-5
+
+|
+
+1204
+
+|
+
+Indeno (1,2,3-cd) pyrène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2
+
+|
+
+-
+
+|
+
+50-32-8
+
+|
+
+1115
+
+|
+
+Benzo (a) pyrène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2
+
+|
+
+-
+
+|
+
+205-99-2
+
+|
+
+1116
+
+|
+
+Benzo (b) fluoranthène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2
+
+|
+
+-
+
+|
+
+|
+
+1178
+
+|
+
+Endosulfan alpha.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2
+
+|
+
+-
+
+|
+
+|
+
+1179
+
+|
+
+Endosulfan bétâ.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2
+
+|
+
+-
+
+|
+
+|
+
+2915
+
+|
+
+Pentabromodiphényléther BDE 99.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2
+
+|
+
+-
+
+|
+
+|
+
+2916
+
+|
+
+Pentabromodiphényléther BDE 100.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2
+
+|
+
+-
+
+|
+
+|
+
+1593
+
+|
+
+2-chloroaniline.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1592
+
+|
+
+3-chloroaniline.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1591
+
+|
+
+4-chloroaniline.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1594
+
+|
+
+4-chloro-2-nitroaniline.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1586
+
+|
+
+3,4-dichloroaniline.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1584
+
+|
+
+Biphényle.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1847
+
+|
+
+Tributylphosphate.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1465
+
+|
+
+Acide chloroacétique.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1633
+
+|
+
+Isopropylbenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1467
+
+|
+
+Chlorobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1165
+
+|
+
+1,2-dichlorobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1164
+
+|
+
+1,3-dichlorobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1166
+
+|
+
+1,4-dichlorobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1631
+
+|
+
+1,2,4,5-tétrachlorobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1469
+
+|
+
+1-chloro-2-nitrobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1468
+
+|
+
+1-chloro-3-nitrobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1470
+
+|
+
+1-chloro-4-nitrobenzène.
+
+|
+
+-
+
+|
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1636
+
+|
+
+4-chloro-3-méthylphénol.
+
+|
+
+-
+
+|
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1471
+
+|
+
+2-chlorophénol.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1651
+
+|
+
+3-chlorophénol.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1650
+
+|
+
+4-chlorophénol.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1486
+
+|
+
+2,4-dichlorophénol.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1548
+
+|
+
+2,4,5-trichorophénol.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1549
+
+|
+
+2,4,6-trichlorophénol.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+2612
+
+|
+
+Hexachloropentadiène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+2611
+
+|
+
+Chloroprène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+2065
+
+|
+
+3-chloroprène (chlorure d'allyle).
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1160
+
+|
+
+1,1-dichloroéthane.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1162
+
+|
+
+1,1-dichloroéthylène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1163
+
+|
+
+1,2-dichloroéthylène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1656
+
+|
+
+Hexachloroéthane.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1284
+
+|
+
+1,1,1-trichloroéthane.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1285
+
+|
+
+1,1,2-trichloroéthane.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1453
+
+|
+
+Acénaphtène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1771
+
+|
+
+Dibutylétain cation.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+2542
+
+|
+
+Monobutylétain cation.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+6372
+
+|
+
+Triphénylétain cation.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1602
+
+|
+
+2-chlorotoluène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1601
+
+|
+
+3-chlorotoluène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+1600
+
+|
+
+4-chlorotoluène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+2613
+
+|
+
+2-nitrotoluène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+2614
+
+|
+
+Nitrobenzène.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+300
+
+|
+
+-
+
+|
+
+|
+
+6366
+
+6369
+
+|
+
+Ethoxylates de nonylphénols, somme de :
+
+NP10E ;
+
+NP20E.
+
+|
+
+-
+
+|
+
+|
+
+2
+
+|
+
+-
+
+|
+
+|
+
+6370
+
+6371
+
+|
+
+Ethoxylate d'octylphénol, somme de :
+
+OP1OE ;
+
+OP2OE.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+10
+
+|
+
+-
+
+|
+
+|
+
+2919
+
+2916
+
+2915
+
+2911
+
+2912
+
+2910
+
+1815
+
+|
+
+Diphényléthers bromés somme de :
+
+BDE 47 ;
+
+BDE 99 ;
+
+BDE 100 ;
+
+BDE 154 ;
+
+BDE 153 ;
+
+BDE 183 ;
+
+BDE 209.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+2
+
+|
+
+-
+
+|
 
 (*) Pour les installations de combustion de puissance thermique supérieure à 20 MW, ce seuil est fixé à 0.
 
-(**) Pour les installations d'incinération de déchets non dangereux de capacité supérieure à 3 tonnes par heure et les installations d'incinération de déchets dangereux de capacité supérieure à 10 tonnes par jour, ce seuil est fixé à 0.
+(**) Pour les installations d'incinération de déchets non dangereux et les installations d'incinération de déchets dangereux, ce seuil est fixé à 0.
 
 |
 
 (1) Sauf précision contraire, tout polluant spécifié à l'annexe II est déclaré en tant que masse totale de ce polluant ou, si le polluant est un groupe de substances, en tant que masse totale du groupe.
 
-(2) Le tiret (-) indique qu'il n'y a pas d'obligation de déclaration pour le polluant et le milieu concerné.
+(1b) Pour les rejet dans l'eau, le dépassement de l'un ou l'autre du flux (en kg/ an ou en g/ j) entraîne l'obligation de déclaration du flux annuel.
 
-(3) La déclaration fera la distinction entre le dioxyde de carbone (CO2) d'origine biomasse et non biomasse.
+(2) Le tiret - indique qu'il n'y a pas d'obligation de déclaration pour le polluant et le milieu concerné.
 
-(4) Masse totale des fluorocarbones d'hydrogène : somme de HFC23, HFC32, HFC41, HFC4310mee, HFC125, HFC134, HF134a, HFC152a, HFC143, HFC143a, HFC227ea, HFC236fa, HFC245ca, HFC365mfc.
+(3) La déclaration fera la distinction entre le dioxyde de carbone (CO2) d'origine biomasse et non-biomasse.
 
-(5) Masse totale des perfluorocarbones : somme de CF4, C2F6, C3F8, C4F10, c-C4F8, C5F12, C6F14.
+(4) Masse totale des fluorocarbones d'hydrogène : somme de HFC23, HFC32, HFC41, HFC4310mee, HFC125, HFC134, HFC134a, HFC152a, HFC143, HFC143a, HFC227ea, HFC236fa, HFC245ca, HFC365mfc.
 
-(6) Masse totale des substances énumérées, y compris leur isomères, dans le groupe VIII de l'annexe I du règlement (CE) n° 2037/2000 du Parlement européen et du Conseil du 29 juin 2000 relatif à des substances qui appauvrissent la couche d'ozone (JO L 244 du 29 septembre 2000, p. 1). Règlement modifié par le règlement (CE) n° 1804/2003 (JO L 265 du 16 octobre 2003, p. 1).
+(5) Somme des émissions de COVNM (hors méthane).
 
-(7) Masse totale des substances énumérées, y compris leurs isomères, dans les groupes I et II de l'annexe I du règlement (CE) n° 2037/2000.
+(6) Masse totale des perfluorocarbones : somme de CF4, C2F6, C3F8, C4F10, c-C4F8, C5F12, C6F14.
 
-(8) Masse totale des substances énumérées, y compris leurs isomères, dans les groupes III et VI de l'annexe I du règlement (CE) n° 2037/2000.
+(7) Masse totale des substances énumérées, y compris leur isomères, dans le groupe VIII de l'annexe I du règlement (CE) n° 2037/2000 du Parlement européen et du Conseil du 29 juin 2000 relatif à des substances qui appauvrissent la couche d'ozone (JOUE n° L 244 du 29 septembre 2000, page 1). Règlement modifié par le règlement (CE) n° 1804/2003 (JOUE n° L 265 du 16 octobre 2003, page 1).
 
-(9) Tous les métaux sont signalés en tant que masse totale de l'élément sous toutes les formes chimiques présentes dans le rejet.
+(8) Masse totale des substances énumérées, y compris leurs isomères, dans les groupes I et II de l'annexe I du règlement (CE) n° 2037/2000.
+
+(9) Masse totale des substances énumérées, y compris leurs isomères, dans les groupes III et VI de l'annexe I du règlement (CE) n° 2037/2000.
 
 (10) Composés organiques halogénés qui peuvent être absorbés par le charbon actif et exprimé en tant que chlorure.
 
 (11) Exprimé en tant que I-TEQ.
 
-(12) Masse totale des diphényléthers bromés suivants : penta-BDE, octa-BDE et déca-BDE.
+(12) Chacun des polluants est soumis à la notification s'il y a dépassement du seuil fixé pour la somme BTEX (somme des rejets de benzène, de toluène, d'éthylbenzène et de xylènes).
 
-(13) Masse totale du phénol et des phénols simples substitués exprimés en tant que carbone total.
+(13) Masse totale des diphényléthers bromés suivants : penta-BDE, octa-BDE et déca-BDE.
 
-(14) Hydrocarbures aromatiques polycycliques.
+(14) Masse totale du phénol et des phénols simples substitués exprimés en tant que carbone total.
 
-(15) Masse totale du tributylétain, exprimée en tant que masse de tributylétain.
+(15) Masse totale du tributylétain, exprimée en tant que masse de tributylétain dont le tributylétain cation.
 
 (16) Masse totale des composés de triphénylétain, exprimée en tant que masse de triphénylétain.
 
-(17) Masse totale de xylène (ortho-xylène, méta-xylène, para-xylène).
+(17) Tous les métaux sont signalés en tant que masse totale de l'élément sous toutes les formes chimiques présentes dans le rejet.
+
+(18) C8 F17SO2X où X = OH, sel métallique (O-M), halogénure, amide ou autre dérivé.
