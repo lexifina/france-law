@@ -1,0 +1,15 @@
+# Article 1er
+
+Il est créé un article 33 « Couverture complémentaire frais de santé » :
+
+« Tous les salariés de la branche doivent être couverts par une assurance complémentaire frais de santé.
+
+A cette fin, si nécessaire, l'entreprise souscrira une couverture collective et obligatoire. Toutefois, certains salariés pourront être dispensés dans les conditions prévues par les textes législatifs et réglementaires.
+
+Une condition d'ancienneté ne pouvant excéder 3 mois peut être prévue sans remise en cause du caractère collectif des garanties.
+
+Les entreprises sont libres de souscrire auprès de l'organisme de leur choix.
+
+Afin d'aider les entreprises à souscrire un régime conforme aux dispositions du présent accord, les partenaires sociaux ont négocié un « contrat national de référence » avec l'AG2R Prévoyance, institution de prévoyance régie par le code de la sécurité sociale, dont le siège social est situé 35, boulevard Brune, 75014 Paris.
+
+Les cotisations doivent comporter une participation effective de l'employeur, cette participation pouvant en représenter la totalité ou, au minimum, une part significative qui ne peut se limiter à la seule prise en charge des frais de mise en place et de gestion du régime. »
