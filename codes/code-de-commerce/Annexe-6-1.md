@@ -1030,17 +1030,7 @@ Ressort du TC
 
 |
 
-TC de Lille
-
-|
-
-Ressort du TC
-
-|
-
-|
-
-TC de Roubaix-Tourcoing
+TC de Lille Métropole
 
 |
 
