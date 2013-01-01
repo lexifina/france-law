@@ -524,6 +524,18 @@ H
 
 |
 
+21 |
+
+Visite relative à la prévention de la pollution atmosphérique/ Certificat international de rendement énergétique (IEE) |
+
+H |
+
+H |
+
+H |
+
+H |
+
 2. Titres et certificats délivrés au nom de l'Etat pour tous les types de navires :
 
 H : Habilitation comprenant l'étude, l'approbation des plans et documents, la réalisation des visites à bord, la délivrance, le visa et le renouvellement, le retrait et la suspension des titres et certificats en application des dispositions du décret n° 84-810 du 30 août 1984 modifié.
