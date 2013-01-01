@@ -192,6 +192,34 @@ Agrément et retrait d'agrément des organismes, agrément et retrait d'agrémen
 
 articles R. 543-252 et R. 543-253 du code de l'environnement. |
 
+Décret n° 2012-1538 du 28 décembre 2012 relatif à la mise en place d'une consigne ou d'un système de reprise équivalent des bouteilles de gaz destinées à un usage individuel et à la gestion des déchets de bouteilles de gaz.
+
+1
+
+|
+
+Agrément et retrait d'agrément des organismes chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel.
+
+Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales.
+
+|
+
+Article R. 543-267
+
+|
+
+2
+
+|
+
+Agrément et retrait d'agrément des organismes coordonnateurs chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel.
+
+Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales.
+
+|
+
+Article R. 543-268 |
+
 2. Décisions administratives individuelles prises par le ministre de l'intérieur
 
 CIRCULATION ET SÉCURITÉ ROUTIÈRES

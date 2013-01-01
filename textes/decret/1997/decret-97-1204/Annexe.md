@@ -240,6 +240,38 @@ Approbation et retrait d'approbation des systèmes individuels, agrément et ret
 
 Articles R. 543-251, R. 543-252 et R. 543-253. |
 
+|
+
+Approbation et retrait d'approbation des systèmes individuels chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel.
+
+Arrêté conjoint des ministres chargés de l'environnement et de l'industrie. |
+
+Article R. 543-266
+
+|
+
+|
+
+Agrément et retrait d'agrément des organismes chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel.
+
+Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. |
+
+Article R. 543-267
+
+|
+
+|
+
+Agrément et retrait d'agrément des organismes coordonnateurs chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel.
+
+Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales.
+
+|
+
+Article R. 543-268
+
+|
+
 II.-Décisions administratives individuelles prises par le ministre chargé de l'environnement :
 
 Livre Ier
@@ -810,7 +842,7 @@ IV.-Code de la santé publique :
 
 Agrément et retrait d'agrément des écoorganismes et des systèmes individuels chargés de la gestion des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement mentionnés à l'article R. 1335-8-1. Arrêté conjoint des ministres chargés de l'environnement, des collectivités territoriales et de la santé : article R. 1335-8-8.
 
-V. - Code rural et de la pêche maritime :
+V.-Code rural et de la pêche maritime :
 
 Autorisations d'entrée sur le territoire et d'introduction dans l'environnement d'un macro-organisme non indigène utile aux végétaux.
 
