@@ -8,11 +8,11 @@ b) Des livraisons de produits agricoles faites à des personnes morales non assu
 
 c) Des exportations de produits agricoles.
 
-I bis. - Le taux du remboursement forfaitaire est fixé pour les ventes faites à compter du 1er janvier 2012 :
+I bis. - Le taux du remboursement forfaitaire est fixé pour les ventes faites à compter du 1er janvier 2014 :
 
-1° A 4,63% (1) pour le lait, les animaux de basse-cour, les oeufs, les animaux de boucherie et de charcuterie définis par décret, ainsi que les céréales, les graines oléagineuses et les protéagineux mentionnés à l'annexe I du règlement (CE) n° 73/2009 du Conseil du 19 janvier 2009.
+1° A 4,90 % pour le lait, les animaux de basse-cour, les oeufs, les animaux de boucherie et de charcuterie définis par décret, ainsi que les céréales, les graines oléagineuses et les protéagineux mentionnés à l'annexe I du règlement (CE) n° 73/2009 du Conseil du 19 janvier 2009.
 
-2° A 3,68 % (1) pour les autres produits.
+2° A 3,89 % pour les autres produits.
 
 I ter. - 1. Périmé
 
@@ -29,7 +29,3 @@ IV. - Les justifications exigées pour l'octroi du remboursement forfaitaire peu
 (3) Voir Annexe II, art. 266.
 
 (4) Voir Annexe III, art. 98 bis.
-
-NOTA :
-
-(1) Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art.1 VII : Ces dispositions s'appliquent à compter du 1er janvier 2012.

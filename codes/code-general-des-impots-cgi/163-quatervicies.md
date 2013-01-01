@@ -6,7 +6,7 @@ a) aux plans d'épargne retraite populaire prévus à l'article L. 144-2 du code
 
 b) A titre individuel et facultatif aux contrats souscrits dans le cadre de régimes de retraite supplémentaire, auxquels l'affiliation est obligatoire et mis en place dans les conditions prévues à l'article L. 911-1 du code de la sécurité sociale, lorsque ces contrats sont souscrits par un employeur ou un groupement d'employeurs ;
 
-c) Au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique ainsi qu'aux autres régimes de retraite complémentaire, auxquels les dispositions du 1° bis de l'article 83, en vigueur jusqu'au 1er janvier 2004, avaient été étendues avant cette date, constitués au profit des fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises régies par le code des assurances, ou institués par les organismes mentionnés au VII de l'article 5 de l'ordonnance n° 2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les directives 92/49/ CEE et 92/96/ CEE du Conseil, des 18 juin et 10 novembre 1992, pour leurs opérations collectives visées à l'article L. 222-1 du code de la mutualité.
+c) Au régime de retraite complémentaire institué par la Caisse nationale de prévoyance de la fonction publique ainsi qu'aux autres régimes de retraite complémentaire, auxquels les dispositions du 1° bis de l'article 83, en vigueur jusqu'au 1er janvier 2004, avaient été étendues avant cette date, constitués au profit des fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics soit auprès d'organismes relevant du code de la mutualité, soit auprès d'entreprises régies par le code des assurances, ou institués par les organismes mentionnés au VII de l'article 5 de l'ordonnance n° 2001-350 du 19 avril 2001 relative au code de la mutualité et transposant les directives 92/49/CEE et 92/96/CEE du Conseil, des 18 juin et 10 novembre 1992, pour leurs opérations collectives visées à l'article L. 222-1 du code de la mutualité.
 
 2.-a) Les cotisations ou les primes mentionnées au 1 sont déductibles pour chaque membre du foyer fiscal dans une limite annuelle égale à la différence constatée au titre de l'année précédente ou, pour les personnes qui n'ont pas été fiscalement domiciliées en France au cours des trois années civiles précédant celle au cours de laquelle elles s'y domicilient, au titre de cette dernière année, entre :
 
@@ -18,13 +18,13 @@ Les membres d'un couple marié ou les partenaires liés par un pacte civil de so
 
 b) La différence, lorsqu'elle est positive, constatée au titre d'une année entre, d'une part, la limite définie au a et, d'autre part, les cotisations ou primes mentionnées au 1 peut être utilisée au cours de l'une des trois années suivantes.
 
-c) Lorsque le montant des cotisations ou primes mentionnées au 1 excède la limite définie au a, l'excédent qui correspond à des rachats de cotisations ou de primes mentionnés au c du 1 effectués par les personnes affiliées à ces régimes au 31 décembre 2004 n'est pas réintégré, en totalité au titre de l'année 2004, et, pour les années 2005 à 2012, dans la limite de :
+c) Lorsque le montant des cotisations ou primes mentionnées au 1 excède la limite définie au a, l'excédent qui correspond à des rachats de cotisations ou de primes mentionnés au c du 1 effectués par les personnes affiliées à ces régimes au 31 décembre 2004 n'est pas réintégré, en totalité au titre de l'année 2004, et, pour les années 2005 à 2013, dans la limite de :
 
 1° six années de cotisations au titre de chacune des années 2005 et 2006 ;
 
 2° quatre années de cotisations au titre de chacune des années 2007 à 2009 incluse ;
 
-3° deux années de cotisations au titre de chacune des années 2010 à 2012 incluse.
+3° deux années de cotisations au titre de chacune des années 2010 à 2013 incluse.
 
 Les dispositions des quatre premiers alinéas s'appliquent aux personnes ayant la qualité de fonctionnaire ou d'agent public, en activité, affiliées après le 31 décembre 2004.
 
@@ -37,7 +37,3 @@ II.-Les revenus d'activité professionnelle mentionnés au 1° du a du 2 du I s'
 2.-Des bénéfices industriels et commerciaux définis aux articles 34 et 35, des bénéfices agricoles mentionnés à l'article 63 et des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92, pour leur montant imposable.
 
 Les revenus exonérés en application des articles 44 sexies à 44 undecies,44 terdecies à 44 quindecies ou au 9 de l'article 93 ainsi que l'abattement prévu à l'article 73 B sont retenus pour l'appréciation du montant des revenus définis au premier alinéa. Sont également retenus les revenus imposés dans les conditions prévues à l'article 151-0 pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue au 1 de l'article 102 ter. Il n'est pas tenu compte des plus-values et moins-values professionnelles à long terme.
-
-NOTA :
-
-Loi n° 2010-1658 du 29 décembre 2010 article 60 II 2 : (1) Les présentes dispositions s'appliquent à compter de l'imposition des revenus de 2010.
