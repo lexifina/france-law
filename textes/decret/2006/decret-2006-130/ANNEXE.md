@@ -284,7 +284,7 @@ Article 20
 
 Tenue des comptes
 
-La maison départementale est soumise aux règles de gestion financière et comptable publiques : application des dispositions du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique applicables aux établissements publics à caractère administratif.
+La maison départementale est soumise aux règles de gestion financière et comptable publiques : application des dispositions du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique applicables aux établissements publics à caractère administratif.
 
 L'agent comptable est nommé par arrêté du préfet après avis du trésorier-payeur général et ne peut être remplacé ou révoqué que dans les mêmes formes. Il participe de droit avec voix consultative aux instances de délibération et d'administration du groupement.
 
