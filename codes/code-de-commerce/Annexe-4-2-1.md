@@ -1,8 +1,8 @@
 # Article Annexe 4-2-1
 
-JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 442-6,
+Juridictions commerciales compétentes en application de l'article L. 442-6 du code de commerce
 
-DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
+des procédures qui sont applicables aux personnes, commerçants ou artisans
 
 SIÈGE DES TRIBUNAUX DE COMMERCE
 
@@ -10,11 +10,9 @@ et des tribunaux mixtes de commerce
 
 |
 
-RESSORT
+RESSORT |
 
-|
-
-Marseille.
+Marseille
 
 |
 
@@ -22,7 +20,7 @@ Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 
 |
 
-Bordeaux.
+Bordeaux
 
 |
 
@@ -30,7 +28,7 @@ Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse.
 
 |
 
-Lille.
+Tourcoing
 
 |
 
@@ -38,15 +36,15 @@ Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.
 
 |
 
-Fort-de-France.
+Fort-de-France
 
 |
 
-Le ressort des cours d'appel de Basse-Terre, de Cayenne et de Fort-de-France.
+Le ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
 
 |
 
-Lyon.
+Lyon
 
 |
 
@@ -54,7 +52,7 @@ Le ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.
 
 |
 
-Nancy.
+Nancy
 
 |
 
@@ -62,7 +60,7 @@ Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy.
 
 |
 
-Paris.
+Paris
 
 |
 
@@ -70,7 +68,7 @@ Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis de La Réu
 
 |
 
-Rennes.
+Rennes
 
 |
 

@@ -874,19 +874,11 @@ Lille
 
 |
 
-Lille
+Tourcoing
 
 |
 
-Ressort du tribunal d'instance de Lille, à l'exception du canton de Lannoy
-
-|
-
-Roubaix-Tourcoing
-
-|
-
-Ressort des tribunaux d'instance de Roubaix et de Tourcoing et canton de Lannoy
+Ressort du tribunal de grande instance de Lille
 
 |
 
