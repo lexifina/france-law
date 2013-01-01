@@ -160,7 +160,9 @@ B
 
 |
 
-Chef du bureau habitat et politique du logement des plus démunis
+Chef du bureau habitat et politique du logement
+
+des plus démunis
 
 |
 
@@ -176,7 +178,9 @@ A
 
 |
 
-Adjoint au chef du bureau habitat et politique du logement des plus démunis
+Adjoint au chef du bureau habitat et politique
+
+du logement des plus démunis
 
 |
 
@@ -192,7 +196,9 @@ B
 
 |
 
-Accueil des familles dans le cadre de la politique du logement des plus démunis
+Accueil des familles dans le cadre de la politique
+
+du logement des plus démunis
 
 |
 
@@ -232,7 +238,9 @@ par emploi
 
 |
 
-Chef du service habitat et chargé du suivi des contrats de ville
+Chef du service habitat et chargé du suivi
+
+des contrats de ville
 
 |
 
@@ -264,7 +272,9 @@ A
 
 |
 
-Chargé de mission politique de la ville et délégué de l'Etat
+Chargé de mission politique de la ville
+
+et délégué de l'Etat
 
 |
 
@@ -480,15 +490,17 @@ C
 
 |
 
-Direction départementale de l'équipement du Nord
+Direction départementale des territoires et de la mer du Nord
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES
 
 |
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -498,13 +510,15 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS (IM)
+NOMBRE
+
+de points (IM)
 
 par emploi
 
 |
 
-Directeur adjoint "habitat"
+Chef du service aménagement ville renouvellement urbain
 
 |
 
@@ -516,79 +530,15 @@ A
 
 |
 
-5 points
+30 points
 
 |
 
-Chef du service habitat
-
-|
-
-A
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Chef du service aménagement et politiques sociales et urbaines
+Adjoint au chef du service aménagement ville renouvellement urbain
 
 |
 
 A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chef de la cellule politique de la ville et renouvellement urbain
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40 points
-
-|
-
-Chef de la cellule contrats d'agglomération
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40 points
-
-|
-
-Inspecteur à la cellule contrats d'agglomération
-
-|
-
-B
 
 |
 
@@ -600,39 +550,9 @@ B
 
 |
 
-Instructeur à la cellule contrats d'agglomération
+Chef de cellule instruction administrative et financière au sein du service
 
-|
-
-C
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
-Instructeur à la cellule contrats d'agglomération
-
-|
-
-C
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Chef de la cellule "parc social"
+aménagement ville renouvellement urbain
 
 |
 
@@ -648,103 +568,7 @@ A
 
 |
 
-Adjoint au chef de la cellule "parc social"
-
-|
-
-B
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Chargé de mission"politique de la ville"
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40 points
-
-|
-
-Chargé de mission "habitat"
-
-|
-
-A
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
-Instructeur des dossiers de financement des logements sociaux
-
-|
-
-B
-
-|
-
-5
-
-|
-
-5 points
-
-|
-
-Instructeur des dossiers de démolition - aliénation
-
-|
-
-B
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
-Chef de l'arrondissement territorial de Lille
-
-|
-
-A
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Chef de la cellule urbanisme et habitat à l'arrondissement de Lille
+Référent social au sein du service aménagement ville renouvellement urbain
 
 |
 
@@ -760,11 +584,59 @@ A
 
 |
 
-Chargé de mission "habitat" (Lille)
+Référent composition urbaine au sein du service aménagement ville renouvellement urbain
 
 |
 
-B
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Référent aménagement opérationnel au sein du service aménagement ville renouvellement urbain
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Référent appui méthodologique au sein du service aménagement ville renouvellement urbain
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Adjoint au chef du service habitat
+
+|
+
+A
 
 |
 
@@ -776,7 +648,7 @@ B
 
 |
 
-Chef de l'arrondissement territorial de Douai-Cambrai
+Chef de cellule suivi des organismes HLM au sein du service habitat
 
 |
 
@@ -788,27 +660,11 @@ A
 
 |
 
-5 points
+20 points
 
 |
 
-Chargé de mission "politique de la ville" (Douai, Cambrai)
-
-|
-
-A
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Chef de l'arrondissement territorial d'Avesnes-sur-Helpe
+Chef de cellule droit au logement-éradication habitat indigne au sein du service habitat
 
 |
 
@@ -820,11 +676,157 @@ A
 
 |
 
-5 points
+20 points
 
 |
 
-Chargé d'études "politique de la ville et grands projets urbains" (Avesnes-sur-Helpe)
+Chef de cellule parc privé au sein du service habitat
+
+|
+
+A
+
+|
+
+1
+
+|
+
+29 points
+
+|
+
+Chef de cellule parc social au sein du service habitat
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Responsable de la délégation territoriale des Flandres
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Chef de cellule habitat aménagement constructions durables au sein de la délégation territoriale des Flandres
+
+|
+
+A
+
+|
+
+1
+
+|
+
+25 points
+
+|
+
+Adjoint au responsable de la délégation territoriale de Lille
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Chef de cellule politiques de l'habitat au sein de la délégation territoriale de Lille
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Adjoint au responsable de la délégation territoriale du Douaisis et Cambrésis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Chef de cellule habitat ville au sein de la délégation territoriale de l'Avesnois
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Chef de cellule habitat ville au sein de la délégation territoriale du Valenciennois
+
+|
+
+A
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Adjoint au chef de la cellule instruction administrative et financière au sein du service
+
+aménagement ville renouvellement urbain
 
 |
 
@@ -836,43 +838,11 @@ B
 
 |
 
-30 points
+15 points
 
 |
 
-Chef de l'arrondissement territorial de Dunkerque
-
-|
-
-A
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Chef de la cellule ville et habitat (Dunkerque)
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40 points
-
-|
-
-Chargé de mission pour la communauté urbaine de Dunkerque
+Chargé du centre de ressources au sein du service aménagement ville renouvellement urbain
 
 |
 
@@ -884,75 +854,11 @@ B
 
 |
 
-30 points
+15 points
 
 |
 
-Chef de l'arrondissement territorial de Valenciennes
-
-|
-
-A
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Directeur adjoint à l'arrondissement de Valenciennes
-
-|
-
-A
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Chef de la cellule "politique de la ville" à Valenciennes
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40 points
-
-|
-
-Chef de la cellule urbanisme à l'arrondissement de Valenciennes
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40 points
-
-|
-
-Chargé d'études "politique de la ville" (Valenciennes)
+Chargé d'études au sein du service aménagement ville renouvellement urbain
 
 |
 
@@ -964,11 +870,27 @@ B
 
 |
 
-30 points
+15 points
 
 |
 
-Chargé d'études à la cellule "habitat social" à l'arrondissement de Valenciennes
+Instructeur ANRU au sein du service aménagement ville renouvellement urbain
+
+|
+
+B
+
+|
+
+2
+
+|
+
+15 points
+
+|
+
+Chargé de mission logement aidé durable au sein du service habitat
 
 |
 
@@ -980,75 +902,11 @@ B
 
 |
 
-30 points
+15 points
 
 |
 
-Subdivisionnaire d'aménagement territorial de Fournies-Trélon
-
-|
-
-A
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Subdivisionnaire d'aménagement territorial de Douai n° 1
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40 points
-
-|
-
-Subdivisionnaire d'aménagement territorial de Douai n° 2
-
-|
-
-A
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Subdivisionnaire d'aménagement territorial de Lille-Est
-
-|
-
-A
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
-Subdivisionnaire d'aménagement territorial de Lille-Ouest
+Adjoint au chef de cellule parc privé au sein du service habitat
 
 |
 
@@ -1060,11 +918,151 @@ B
 
 |
 
-5 points
+15 points
 
 |
 
-Subdivisionnaire d'aménagement territorial de Valenciennes-Ouest
+Chargé de programmation logement au sein de la délégation territoriale des Flandres
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Chargé de mission PDALPD et insalubrité au sein de la délégation territoriale de Lille
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Chef de pôle DALO au sein de la délégation territoriale de Lille
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Chef de pôle DALO au sein de la délégation territoriale du Douaisis et Cambrésis
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Chargé d'études habitat au sein de la délégation territoriale de l'Avesnois
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Chef de pôle DALO au sein de la délégation territoriale du Valenciennois
+
+|
+
+B
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Instructeur gestionnaires parc social au sein du service habitat
+
+|
+
+C
+
+|
+
+1
+
+|
+
+15 points
+
+|
+
+Direction départementale de la cohésion sociale du Nord
+
+FONCTIONS EXERCÉES
+
+|
+
+NIVEAU
+
+de qualification
+
+de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE
+
+de points (IM)
+
+par emploi
+
+|
+
+Mission accès au logement
 
 |
 
@@ -1076,31 +1074,15 @@ A
 
 |
 
-5 points
+15 points
 
 |
 
-Subdivisionnaire d'aménagement territorial de Valenciennes-Est
+Mission accès au logement
 
 |
 
-A
-
-|
-
-1
-
-|
-
-5 points
-
-|
-
-Subdivisionnaire d'aménagement territorial de l'agglomération de Dunkerque
-
-|
-
-A
+B
 
 |
 
@@ -1108,7 +1090,7 @@ A
 
 |
 
-5 points
+15 points
 
 |
 

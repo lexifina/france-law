@@ -202,13 +202,15 @@ B
 
 Direction départementale de l'équipement et de l'agriculture (2) des Alpes-Maritimes
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES
 
 |
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -218,7 +220,9 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS (IM)
+NOMBRE
+
+de points (IM)
 
 par emploi
 
@@ -236,27 +240,11 @@ A
 
 |
 
-50 points
+50
 
 |
 
-Chef du service habitat et politique de la ville
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40 points
-
-|
-
-Chef du bureau politique de la ville
+Responsable du pôle habitat - Service territorial Est montagne
 
 |
 
@@ -268,11 +256,11 @@ A
 
 |
 
-40 points
+40
 
 |
 
-Chef du bureau financement logement
+Responsable du pôle développement de l'offre de logement - Service logement construction
 
 |
 
@@ -284,27 +272,11 @@ A
 
 |
 
-40 points
+40
 
 |
 
-Adjoint au chef du bureau politique de la ville
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Responsable des projets urbains
+Instructeur rénovation urbaine - Service territorial Est montagne
 
 |
 
@@ -316,27 +288,11 @@ B
 
 |
 
-30 points
+30
 
 |
 
-Chef du bureau politique sociale du logement
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Adjoint au chef de bureau politique sociale du logement
+Administrateur de données à la mission foncière - Service logement construction
 
 |
 
@@ -348,11 +304,11 @@ B
 
 |
 
-30 points
+30
 
 |
 
-Suivi des réhabilitations dans le cadre des contrats de ville
+Chargé du pôle habitat - Service territorial Ouest
 
 |
 
@@ -360,11 +316,103 @@ B
 
 |
 
-2
+1
 
 |
 
-30 points
+30
+
+|
+
+Instructeur rénovation urbaine - Service territorial Ouest
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30
+
+|
+
+Chargé de mission habitat - Service territorial Est montagne
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30
+
+|
+
+Direction départementale de la cohésion sociale des Alpes-Maritimes
+
+FONCTIONS EXERCÉES
+
+|
+
+NIVEAU
+
+de qualification
+
+de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE
+
+de points (IM)
+
+par emploi
+
+|
+
+Responsable de la mission logement - Service du logement
+
+|
+
+A
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Animateur du plan départemental d'action pour le logement des personnes défavorisées (PDALDP) et des droits au logement opposable (DALO), adjoint au chef de la mission logement au service du logement
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30
 
 |
 

@@ -1,8 +1,8 @@
 # Article Annexe
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI JUSTIFIANT DE L'OBTENTION
 
-justifiant de l'obtention de la nouvelle bonification indiciaire
+de la nouvelle bonification indiciaire
 
 |
 
@@ -31,22 +31,6 @@ par emploi
 |
 
 Responsable du budget et/ ou du contrôle de gestion et/ ou des moyens généraux et/ ou du service du personnel et/ ou du contentieux d'une direction
-
-|
-
-A
-
-|
-
-1
-
-|
-
-40
-
-|
-
-Secrétaire du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales (CNRACL)
 
 |
 
@@ -102,7 +86,7 @@ A
 
 |
 
-4
+3
 
 |
 
@@ -118,7 +102,7 @@ A
 
 |
 
-50
+46
 
 |
 
@@ -134,7 +118,7 @@ A
 
 |
 
-2
+3
 
 |
 
@@ -174,7 +158,7 @@ B
 
 |
 
-Développeur d'applications sur INFO SERVICE
+Développeur d'applications sur Info Service
 
 |
 
@@ -230,7 +214,7 @@ B
 
 |
 
-1
+2
 
 |
 
@@ -270,7 +254,7 @@ B
 
 |
 
-Responsable du secteur des affaires générales ou directeurs administratifs adjoints du Comité social du groupe
+Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social du groupe
 
 |
 
@@ -318,7 +302,7 @@ B
 
 |
 
-Technicien des opérations post marché ou d'opérations bancaires et/ ou financières sur secteurs prioritaires
+Technicien des opérations post-marché ou d'opérations bancaires et/ ou financières sur secteurs prioritaires
 
 |
 
@@ -326,7 +310,7 @@ B
 
 |
 
-42
+41
 
 |
 
@@ -358,23 +342,7 @@ B
 
 |
 
-23
-
-|
-
-20
-
-|
-
-Technicien d'actuariat informatique
-
-|
-
-B
-
-|
-
-1
+24
 
 |
 
@@ -422,7 +390,7 @@ B
 
 |
 
-6
+8
 
 |
 
@@ -438,7 +406,7 @@ B
 
 |
 
-32
+39
 
 |
 
@@ -454,7 +422,7 @@ B
 
 |
 
-50
+56
 
 |
 
@@ -462,7 +430,7 @@ B
 
 |
 
-Assistant de contrôle budgétaire et/ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière
+Assistant de contrôle budgétaire et/ ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière
 
 |
 
@@ -470,7 +438,7 @@ B
 
 |
 
-36
+37
 
 |
 
@@ -526,22 +494,6 @@ B
 
 |
 
-Recruteur et gestionnaire des personnels non permanents
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20
-
-|
-
 Responsable de la gestion de l'encouragement à la prévoyance individuelle (EPI) au niveau fédéral
 
 |
@@ -574,7 +526,7 @@ B
 
 |
 
-Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions "système"
+Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions système
 
 |
 
@@ -582,7 +534,7 @@ B
 
 |
 
-6
+5
 
 |
 
@@ -614,7 +566,7 @@ B
 
 |
 
-5
+6
 
 |
 
@@ -662,7 +614,7 @@ B
 
 |
 
-30
+32
 
 |
 
@@ -694,7 +646,7 @@ B
 
 |
 
-4
+3
 
 |
 
@@ -758,7 +710,7 @@ B
 
 |
 
-75
+71
 
 |
 
@@ -766,7 +718,7 @@ B
 
 |
 
-Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisses de retraites de Bordeaux
+Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraites de Bordeaux
 
 |
 
@@ -782,7 +734,7 @@ B
 
 |
 
-Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche Caisses de retraites de Bordeaux
+Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche caisses de retraites de Bordeaux
 
 |
 
@@ -790,7 +742,7 @@ B
 
 |
 
-17
+18
 
 |
 
@@ -806,7 +758,7 @@ B
 
 |
 
-164
+158
 
 |
 
@@ -822,7 +774,7 @@ C
 
 |
 
-8
+6
 
 |
 

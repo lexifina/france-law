@@ -12,7 +12,9 @@ exercées
 
 |
 
-NOMBRE D'EMPLOIS
+NOMBRE
+
+d'emplois
 
 |
 
@@ -24,23 +26,39 @@ par emploi
 
 Secrétaire de la commission technique d'orientation et de reclassement professionnel (COTOREP) :
 
-- dans 30 départements au titre de la politique de la ville (1) ;
-
-- dans les autres départements.
-
 |
 
 B
 
 |
 
-13
+|
 
-29
+|
+
+- dans 30 départements au titre de la politique de la ville (1)
+
+|
+
+|
+
+10
 
 |
 
 30
+
+|
+
+- dans les autres départements
+
+|
+
+|
+
+28
+
+|
 
 25
 
@@ -48,29 +66,45 @@ B
 
 Contrôle hors section d'inspection, spécialisé dans la répression du travail clandestin et des trafics de main-d'œuvre :
 
-- dans 30 départements au titre de la politique de la ville (1) ;
-
-- dans les autres départements.
-
 |
 
 B
 
 |
 
-42
+|
 
-16
+|
+
+- dans 30 départements au titre de la politique de la ville (1)
+
+|
+
+|
+
+40
 
 |
 
 24
 
+|
+
+- dans les autres départements
+
+|
+
+|
+
+18
+
+|
+
 19
 
 |
 
-Responsable du secrétariat particulier des directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, des directeurs d'unité territoriale, des directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et de la direction de la cohésion sociale, du travail, de l'emploi et de la population - Saint-Pierre-et-Miquelon.
+Responsable du secrétariat particulier des directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, des directeurs d'unité territoriale, des directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et de la direction de la cohésion sociale, du travail, de l'emploi et de la population - Saint-Pierre-et-Miquelon
 
 |
 
@@ -78,7 +112,7 @@ B ou C
 
 |
 
-120
+123
 
 |
 
@@ -88,29 +122,45 @@ B ou C
 
 Secrétaire adjoint de la commission technique d'orientation et de reclassement professionnel (COTOREP) :
 
-- dans 30 départements au titre de la politique de la ville (1) ;
-
-- dans les autres départements.
-
 |
 
 B
+
+|
+
+|
+
+|
+
+- dans 30 départements au titre de la politique de la ville (1)
+
+|
 
 |
 
 1
 
-3
-
 |
 
 20
+
+|
+
+- dans les autres départements
+
+|
+
+|
+
+3
+
+|
 
 15
 
 |
 
-Responsable de section administrative et financière dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+Responsable de section administrative et financière dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
 
 |
 
@@ -118,7 +168,7 @@ B
 
 |
 
-125
+118
 
 |
 
@@ -126,47 +176,11 @@ B
 
 |
 
-Responsable de la gestion du personnel dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+Responsable de la gestion du personnel dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
 
 |
 
 B
-
-|
-
-22
-
-|
-
-18
-
-|
-
-Correspondant formation, action sociale ou communication dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
-
-|
-
-B
-
-|
-
-58
-
-|
-
-20
-
-|
-
-Contrôle sur place, au sein des groupes régionaux de contrôle, d'organismes dont le produit comptable annuel est égal ou supérieur à 153 000 € ou d'entreprises concourant au développement de la formation continue et dont l'effectif moyen annuel est égal ou supérieur à 500 salariés.
-
-|
-
-B
-
-|
-
-51
 
 |
 
@@ -174,7 +188,43 @@ B
 
 |
 
-Assistant de service social du personnel.
+18
+
+|
+
+Correspondant formation, action sociale ou communication dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
+
+|
+
+B
+
+|
+
+61
+
+|
+
+20
+
+|
+
+Contrôle sur place, au sein des groupes régionaux de contrôle, d'organismes dont le produit comptable annuel est égal ou supérieur à 153 000 euros ou d'entreprises concourant au développement de la formation continue et dont l'effectif moyen annuel est égal ou supérieur à 500 salariés
+
+|
+
+B
+
+|
+
+55
+
+|
+
+25
+
+|
+
+Assistant de service social du personnel
 
 |
 
@@ -190,7 +240,7 @@ B
 
 |
 
-Régisseur d'avances et de recettes.
+Régisseur d'avances et de recettes
 
 |
 
@@ -198,7 +248,7 @@ A ou B
 
 |
 
-22
+21
 
 |
 
@@ -206,7 +256,7 @@ A ou B
 
 |
 
-Responsable du contrôle de la main-d'œuvre étrangère.
+Responsable du contrôle de la main-d'œuvre étrangère
 
 |
 
@@ -214,7 +264,7 @@ B
 
 |
 
-82
+88
 
 |
 
@@ -222,7 +272,7 @@ B
 
 |
 
-Gestionnaire régional de masse salariale dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+Gestionnaire régional de masse salariale dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
 
 |
 
@@ -238,7 +288,7 @@ B ou C
 
 |
 
-Responsable d'un service régional de gestion administrative et de paie dont l'effectif moyen est égal ou supérieur à 1 500 agents.
+Responsable d'un service régional de gestion administrative et de paie dont l'effectif moyen est égal ou supérieur à 1 500 agents
 
 |
 
@@ -254,7 +304,7 @@ A ou B
 
 |
 
-Adjoint au responsable d'un service régional de gestion administrative et de paie dont l'effectif moyen est égal ou supérieur à 1 500 agents.
+Adjoint au responsable d'un service régional de gestion administrative et de paie dont l'effectif moyen est égal ou supérieur à 1 500 agents
 
 |
 

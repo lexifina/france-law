@@ -20,7 +20,7 @@ Responsable du secrétariat particulier du directeur de l'Institut
 
 |
 
-B
+B ou C
 
 |
 
@@ -104,10 +104,26 @@ B
 
 |
 
-0
+1
 
 |
 
 20
+
+|
+
+Régisseur d'avances et de recettes
+
+|
+
+B ou C
+
+|
+
+5
+
+|
+
+15
 
 |
