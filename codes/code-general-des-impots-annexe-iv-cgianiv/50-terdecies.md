@@ -12,91 +12,75 @@ Par carcasse abattue
 
 |
 
-a) Animaux de boucherie :
+A. - Ongulés domestiques
 
 |
 
 |
 
-Pour les gros bovins
+Pour les bovins adultes
 
 |
 
-4,12
+5
 
 |
 
-Pour les veaux
+Pour les jeunes bovins, au sens de l'annexe VI ter point 1 b du règlement (CE) n° 2074/2005, c'est-à-dire les bovins de moins de 8 mois (usuellement appelés veaux)
 
 |
 
-1,68
+2
 
 |
 
-Pour les solipèdes domestiques
+Pour les solipèdes et équidés
 
 |
 
-3,05
+3
 
 |
 
 Pour les ovins et caprins :
 
-|
-
-|
-
 - d'un poids carcasse inférieur à 12 kilogrammes
-
-|
-
-0,14
-
-|
 
 - d'un poids carcasse de 12 kilogrammes ou plus
 
 |
 
-0,24
+0,15
+
+0,25
 
 |
 
 Pour les porcins :
 
-|
-
-|
-
 - d'un poids carcasse inférieur à 25 kilogrammes
-
-|
-
-0,38
-
-|
 
 - d'un poids carcasse de 25 kilogrammes ou plus
 
 |
 
-0,79
+0,50
+
+1
 
 |
 
-b) Volailles et lapins :
+B. - Volailles et lagomorphes
 
 |
 
 |
 
-Pour les volailles du genre Gallus et les pintades
+Pour les volailles de l'espèce Gallus et les pintades
 
 |
 
-0,0046
+0,005
 
 |
 
@@ -112,19 +96,19 @@ Pour les dindes
 
 |
 
-0,02
+0,025
 
 |
 
-Pour les lapins domestiques
+Pour les lapins d'élevage
 
 |
 
-0,0046
+0,005
 
 |
 
-c) Gibier d'élevage et sauvage :
+C. - Gibier ongulé d'élevage et gibier sauvage
 
 |
 
@@ -134,7 +118,7 @@ Pour le petit gibier à plumes
 
 |
 
-0,0046
+0,005
 
 |
 
@@ -150,7 +134,7 @@ Pour les ratites (autruche, émeu, nandou)
 
 |
 
-0,04
+0,5
 
 |
 
@@ -158,7 +142,7 @@ Pour le sanglier
 
 |
 
-1,30
+1,5
 
 |
 
@@ -166,6 +150,6 @@ Pour les ruminants
 
 |
 
-0,46
+0,5
 
 |
