@@ -26,95 +26,45 @@ PARAMÈTRE
 
 |
 
-C
+VALEUR
 
 |
 
-Poussières totales
+Poussières totales |
 
-|
+30 mg/m³ (moyenne journalière) (*) |
 
-30 mg/m3 (moyenne journalière) (*)
+Chlorure d'hydrogène (HCI) |
 
-|
+10 mg/m³ (moyenne journalière) (*) |
 
-Chlorure d'hydrogène (HCI)
+Fluorure d'hydrogène (HF) |
 
-|
+1 mg/m³ (moyenne journalière) (*) |
 
-10 mg/m3 (moyenne journalière) (*)
+NOx |
 
-|
+500 mg/m³ (moyenne journalière) (*) |
 
-Fluorure d'hydrogène (HF)
+Cd + TI |
 
-|
+0,05 mg/m³ |
 
-1 mg/m3 (moyenne journalière) (*)
+Hg |
 
-|
+0,05 mg/m³ |
 
-NOx pour les installations existantes
+Sb + As + Pb + Cr + Co + Cu + Mn + Ni + V |
 
-|
+0,5 mg/m³ |
 
-800 mg/m3, (moyenne journalière) (*)
+Dioxines et furannes |
 
-|
+0,1 ng/m³ |
 
-NOx pour les installations nouvelles
+(*) Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières. |
 
-|
-
-500 mg/mn3 (1)
-
-|
-
-Cd + TI
-
-|
-
-0,05 mg/m3
-
-|
-
-Hg
-
-|
-
-0,5 mg/m3
-
-|
-
-Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V
-
-|
-
-0,5 mg/m3
-
-|
-
-Dioxines et furannes
-
-|
-
-0,1 ng/m3
-
-|
-
-(*) Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.
-
-(1) Pour l'application des valeurs limites d'émission de NOx, les cimenteries existantes qui commencent à incinérer des déchets après la date de parution au Journal officiel du présent arrêté ne doivent pas être considérées comme des installations nouvelles. Seules sont considérées comme nouvelles les cimenteries dont l'activité principale est autorisée après la date de parution au Journal officiel du présent arrêté.
-
-|
-
-Pour les métaux, la méthode de mesure utilisée est la moyenne mesurée sur une période d'échantillonnage d'une demi-heure au minimum et de huit heures au maximum.
-
-Ces valeurs s'appliquent aux émissions de métaux et de leurs composés sous toutes leurs formes physiques.
-
-La concentration en dioxines et furannes est définie comme la somme des concentrations en dioxines et furannes déterminée selon les indications de l'annexe III.
-
-La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
+L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les NOx pour les cimenteries utilisant des fours Lepol ou des fours rotatifs longs, à condition que la valeur limite C n'excède pas 800 mg/m³, et ce jusqu'au 1er janvier 2016.
 
 C pour SO2 et COT (teneur en O2 de 10 %)
 
@@ -180,9 +130,19 @@ L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différen
 
 II. - Dispositions applicables aux installations de combustion co-incinérant des déchets
 
+Pour le calcul de la puissance thermique nominale totale des installations de combustion, les règles de cumul suivantes s'appliquent :
+
+- lorsque les gaz résiduaires d'au moins deux installations de combustion distinctes sont rejetés par une cheminée commune, l'ensemble formé par ces installations est considéré comme une seule installation de combustion et les capacités de chacune d'elles s'additionnent aux fins du calcul de la puissance thermique nominale totale ;
+
+- si au moins deux installations de combustion distinctes autorisées pour la première fois le 1er juillet 1987 ou après ou pour lesquelles les exploitants ont introduit une demande complète d'autorisation à cette date ou après sont construites de telle manière que leurs gaz résiduaires pourraient, compte tenu des facteurs techniques et économiques, être rejetés par une cheminée commune, l'ensemble formé par ces installations est considéré comme une seule installation de combustion, et les capacités de chacune d'elles s'additionnent aux fins du calcul de la puissance thermique nominale totale ;
+
+- aux fins du calcul de la puissance thermique nominale totale d'un ensemble d'installations de combustion visé aux paragraphes 1 et 2, les installations de combustion individuelles dont la puissance thermique nominale est inférieure à 15 MW ne sont pas prises en compte.
+
 Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.
 
 SO2, NOx, poussières
+
+II-1. C procédé exprimé en moyennes journalières (mg/Nm³) valable jusqu'au 31 décembre 2015, pour les installations dont les installations de combustion ont été autorisées avant le 7 janvier 2013, ou pour lesquelles les exploitants ont introduit une demande complète d'autorisation avant cette date, sous réserve que les installations soient mises en service au plus tard le 7 janvier 2014, et les installations dont les installations de combustion qui avaient obtenu une dérogation visée à l'article 4, paragraphe 4, de la directive 2001/80/CE et qui sont exploitées après le 1er janvier 2016 ; et jusqu'au 6 janvier 2013 pour les autres installations de combustion.
 
 C procédé pour les combustibles solides (moyennes journalières exprimées en mg/m³, teneur en O2 de 6 %)
 
@@ -206,91 +166,35 @@ P < 50 MW
 
 |
 
-SO2 :
+SO2 : cas général |
 
 |
 
-|
+850 |
+
+200 |
+
+200 |
+
+NOx |
 
 |
 
-|
+400 |
 
-|
+200 |
 
-Cas général
+200 |
 
-|
+Poussières |
 
-|
+50 |
 
-850
+50 |
 
-|
+30 |
 
-850 à 200 (décroissance linéaire)
-
-|
-
-200
-
-|
-
-Combustibles produits sur le territoire national
-
-|
-
-|
-
-ou taux de désulfuration ≥ 90 %
-
-|
-
-ou taux de désulfuration ≥ 92 %
-
-|
-
-ou taux de désulfuration ≥ 95 %
-
-|
-
-NOx
-
-|
-
-|
-
-400
-
-|
-
-300
-
-|
-
-200
-
-|
-
-Poussières
-
-|
-
-50
-
-|
-
-50
-
-|
-
-30
-
-|
-
-30
-
-|
+30 |
 
 C procédé pour la biomasse (moyennes journalières exprimées en mg/m³, teneur 6 % d'O2)
 
@@ -312,65 +216,37 @@ P < 50 MW
 
 |
 
-> 300 MW
+> 300 MW |
+
+SO2 |
 
 |
 
-SO2
+200 |
+
+200 |
+
+200 |
+
+NOx |
 
 |
 
-|
+350 |
 
-200
+300 |
 
-|
+300 |
 
-200
+Poussières |
 
-|
+50 |
 
-200
+50 |
 
-|
+30 |
 
-NOx
-
-|
-
-|
-
-350
-
-|
-
-300
-
-|
-
-300
-
-|
-
-Poussières
-
-|
-
-50
-
-|
-
-50
-
-|
-
-30
-
-|
-
-30
-
-|
+30 |
 
 C procédé pour les combustibles liquides (moyennes journalières exprimées en mg/m³, teneur en O2 de 3 %)
 
@@ -400,19 +276,237 @@ SO2
 
 |
 
-850
+850 |
+
+400 à 200 (décroissance linéaire de 100 à 300 MWth) |
+
+200 |
+
+NOx |
 
 |
 
-850 à 200 (décroissance linéaire)
+400 |
+
+200 |
+
+200 |
+
+Poussières |
+
+50 |
+
+50 |
+
+30 |
+
+30 |
+
+II-2. C procédé exprimé en moyennes journalières (mg/Nm³) à partir du 1er janvier 2016, pour les installations dont les installations de combustion ont été autorisées avant le 7 janvier 2013, ou pour lesquelles les exploitants ont introduit une demande complète d'autorisation avant cette date, sous réserve que les installations soient mises en service au plus tard le 7 janvier 2014, et les installations dont les installations de combustion qui avaient obtenu une dérogation visée à l'article 4, paragraphe 4, de la directive 2001/80/CE et qui sont exploitées après le 1er janvier 2016 ; et, à partir du 7 janvier 2013, pour les autres installations de combustion.
+
+II-2.1. C procédé pour les installations dont les installations de combustion ont été autorisées avant le 7 janvier 2013, ou pour lesquelles les exploitants ont introduit une demande complète d'autorisation avant cette date, sous réserve que les installations soient mises en service au plus tard le 7 janvier 2014, et les installations dont les installations de combustion qui avaient obtenu une dérogation visée à l'article 4, paragraphe 4, de la directive 2001/80/CE et qui sont exploitées après le 1er janvier 2016.
+
+C procédé pour les combustibles solides à l'exception de la biomasse (teneur en O2 de 6 %)
+
+SUBSTANCE POLLUANTE
 
 |
 
-200
+< 50 MW
 
 |
 
-NOx
+50 à 100 MWth
+
+|
+
+100 à 300 MWth
+
+|
+
+> 300 MWth
+
+|
+
+SO2 |
+
+|
+
+400
+
+pour la tourbe :
+
+300
+
+|
+
+200 |
+
+200 |
+
+NOx |
+
+|
+
+300
+
+pour le lignite
+
+pulvérisé : 400
+
+|
+
+200 |
+
+200 |
+
+Poussières |
+
+50 |
+
+30 |
+
+25
+
+pour la tourbe : 20
+
+|
+
+20 |
+
+C procédé pour la biomasse (teneur en O2 de 6 %)
+
+SUBSTANCE POLLUANTE
+
+|
+
+< 50 MWth
+
+|
+
+50 à 100 MWth
+
+|
+
+100 à 300 MWth
+
+|
+
+> 300 MWth
+
+|
+
+SO2
+
+|
+
+|
+
+200 |
+
+200 |
+
+200 |
+
+NOx |
+
+|
+
+300 |
+
+250 |
+
+200 |
+
+Poussières |
+
+50 |
+
+30 |
+
+20 |
+
+20 |
+
+C procédé pour les combustibles liquides (teneur en O2 de 3 %)
+
+SUBSTANCE POLLUANTE
+
+|
+
+< 50 MW
+
+|
+
+50 à 100 MWth
+
+|
+
+100 à 300 MWth
+
+|
+
+> 300 MWth
+
+|
+
+SO2
+
+|
+
+|
+
+350 |
+
+250 |
+
+200 |
+
+NOx |
+
+|
+
+400 |
+
+200 |
+
+150 |
+
+Poussières |
+
+50 |
+
+30 |
+
+25 |
+
+20 |
+
+II-2.2. C procédé pour les autre installations de combustion, à l'exception des turbines à gaz et des moteurs à gaz).
+
+C procédé pour les combustibles solides à l'exception de la biomasse (teneur en O2 de 6 %)
+
+SUBSTANCE POLLUANTE
+
+|
+
+< 50 MWth
+
+|
+
+50 à 100 MWth
+
+|
+
+100 à 300 MWth
+
+|
+
+> 300 MWth
+
+|
+
+SO2
 
 |
 
@@ -420,7 +514,7 @@ NOx
 
 400
 
-|
+pour la tourbe :
 
 300
 
@@ -428,123 +522,159 @@ NOx
 
 200
 
-|
-
-Poussières
+pour la tourbe : 300 sauf en cas de combustion en lit fluidisé : 250
 
 |
 
-50
+150
+
+pour la combustion en lit fluidisé sous pression ou circulant ou, en cas de combustion de tourbe, pour toutes les combustions en lit fluidisé : 200
 
 |
 
-50
+NOx |
 
 |
 
-30
+300
+
+pour la tourbe :
+
+250
 
 |
 
-30
+200 |
+
+150
+
+pour la combustion
+
+de lignite pulvérisé : 200
 
 |
 
-HCl, HF
+Poussières |
 
-PARAMÈTRE
+50 |
 
-|
+20 |
 
-C (à 6 % de 02)
+20 |
 
-|
+10
 
-Chlorure d'hydrogène (HCI)
-
-|
-
-10mg/m3 (moyenne journalière) (*)
+pour la tourbe : 20
 
 |
 
-Fluorure d'hydrogène (HF)
+C procédé pour la biomasse (teneur en O2 de 6 %)
+
+SUBSTANCE POLLUANTE
 
 |
 
-1mg/m3 (moyenne journalière) (*)
+< 50 MWth
 
 |
 
-* Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières
+50 à 100 MWth
 
 |
 
-Métaux, dioxines
-
-PARAMÈTRE
+100 à 300 MWth
 
 |
 
-C (à 6 % de 02)
+> 300 MWth
 
 |
 
-Cd+TI
+SO2
 
 |
 
-0,05 mg/m3
+|
+
+200 |
+
+200 |
+
+150 |
+
+NOx |
 
 |
 
-Hg
+250 |
+
+200 |
+
+150 |
+
+Poussières |
+
+50 |
+
+20 |
+
+20 |
+
+20 |
+
+C procédé pour les combustibles liquides (teneur en O2 de 3 %)
+
+SUBSTANCE POLLUANTE
 
 |
 
-0,05 mg/m3
+< 50 MWth
 
 |
 
-Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V
+50 à 100 MWth
 
 |
 
-0,5 mg/m3
+100 à 300 MWth
 
 |
 
-Dioxines et furannes
+> 300 MWth
 
 |
 
-0,1 ng/m3
+SO2
 
 |
 
-Pour les métaux, la méthode de mesure utilisée est la moyenne mesurée sur une période d'échantillonnage d'une demi-heure au minimum et de huit heures au maximum.
+|
 
-Ces valeurs s'appliquent aux émissions de métaux et de leurs composés sous toutes leurs formes physiques.
+350 |
 
-La concentration en dioxines et furannes est définie comme la somme des concentrations en dioxines et furannes déterminée selon les indications de l'annexe III.
+200 |
 
-La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
+150 |
 
-C pour l'ammoniac (teneur en O2 de 10 %).
-
-PARAMÈTRE
+NOx |
 
 |
 
-VALEUR MOYENNE JOURNALIÈRE
+300 |
 
-|
+150 |
 
-Ammoniac |
+100 |
 
-30 mg/m³ |
+Poussières |
 
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures technologies disponibles et que l'excès d'ammoniac dans ses émissions soit lié à la teneur en ammoniac dans les matières premières (calcaires, argiles, etc.) mises en œuvre. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. En tout état de cause, cette valeur ne peut dépasser 100 mg/Nm³.
+50 |
+
+20 |
+
+20 |
+
+10 |
 
 III. - Dispositions applicables aux secteurs industriels non visés aux points I et II et qui co-incinèrent des déchets HCl, HF
 
@@ -641,3 +771,19 @@ Ammoniac |
 30 mg/m³ |
 
 L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour l'ammoniac pour les cimenteries sous réserve que l'exploitant justifie qu'il mette en œuvre les meilleures technologies disponibles et que l'excès d'ammoniac dans ses émissions soit lié à la teneur en ammoniac dans les matières premières (calcaires, argiles, etc.) mises en œuvre. Pour chacun de ces cas particuliers, après justification à l'aide d'une étude technique réalisée par l'exploitant, une valeur spécifique est définie dans l'arrêté d'autorisation. En tout état de cause, cette valeur ne peut dépasser 100 mg/Nm³.
+
+NOTA :
+
+Arrêté du 18 décembre 2012 article 3 :
+
+ENTRÉE EN VIGUEUR du I :
+
+Installation d'incinération ou de co-incinération de déchets non dangereux de moins de 3 t/h : 7 juillet 2015.
+
+Installation d'incinération ou de co-incinération de déchets dangereux de moins de 10 t/jour : 7 juillet 2015.
+
+Installation d'incinération ou de co-incinération de déchets non dangereux de plus de 3t/h : 7 janvier 2014.
+
+Installation d'incinération ou de co-incinération de déchets dangereux de plus de 10 t/jour : 7 janvier 2014.
+
+Les autres dispositions entrent en vigueur au 1er janvier 2013.
