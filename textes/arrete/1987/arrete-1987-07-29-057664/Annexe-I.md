@@ -2,15 +2,11 @@
 
 PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTICLES L. 441-3, R. 331-12 ET R. 441-1 (1°) DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS AUTRES QUE CEUX MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (NOTAMMENT PLUS)
 
-CATÉGORIE
-
-de ménages
+CATÉGORIE DE MÉNAGES
 
 |
 
-PARIS
-
-et communes limitrophes
+PARIS ET COMMUNES LIMITROPHES
 
 (en euros)
 
@@ -34,15 +30,15 @@ AUTRES RÉGIONS
 
 |
 
-22 334
+22 814
 
 |
 
-22 334
+22 814
 
 |
 
-19 417
+19 834
 
 |
 
@@ -50,15 +46,15 @@ AUTRES RÉGIONS
 
 |
 
-33 378
+34 096
 
 |
 
-33 378
+34 096
 
 |
 
-25 930
+26 487
 
 |
 
@@ -66,15 +62,15 @@ AUTRES RÉGIONS
 
 |
 
-43 756
+44 697
 
 |
 
-40 124
+40 987
 
 |
 
-31 183
+31 853
 
 |
 
@@ -82,15 +78,15 @@ AUTRES RÉGIONS
 
 |
 
-52 242
+53 365
 
 |
 
-48 061
+49 094
 
 |
 
-37 645
+38 454
 
 |
 
@@ -98,15 +94,15 @@ AUTRES RÉGIONS
 
 |
 
-62 157
+63 493
 
 |
 
-56 895
+58 118
 
 |
 
-44 284
+45 236
 
 |
 
@@ -114,15 +110,15 @@ AUTRES RÉGIONS
 
 |
 
-69 943
+71 447
 
 |
 
-64 024
+65 401
 
 |
 
-49 908
+50 981
 
 |
 
@@ -130,14 +126,14 @@ Par personne supplémentaire
 
 |
 
-7 792
+7 960
 
 |
 
-7 134
+7 287
 
 |
 
-5 567
+5 687
 
 |
