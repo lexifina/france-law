@@ -1,151 +1,89 @@
 # Article Annexe VI
 
-PROGRAMME DE LA TROISIÈME ÉPREUVE D'ADMISSIBILITÉ ET DE LA DEUXIÈME ÉPREUVE D'ADMISSION
+DROIT ET GESTION DES COLLECTIVITÉS TERRITORIALES
 
-Droit hospitalier
+1. L'organisation et les compétences des collectivités territoriales et de leurs établissements publics et les grands problèmes de la décentralisation :
 
-Introduction
+L'organisation, les compétences et les missions des collectivités territoriales et de leurs groupements.
 
-Evolution historique et caractéristiques de l'organisation hospitalière française.
+Les élus locaux : conditions d'accès et d'exercice des mandats.
 
-L'établissement public de santé dans son environnement économique.
+Le maire, agent de l'Etat.
 
-Notions d'organisation hospitalière dans les principaux pays européens.
+Les organes des collectivités territoriales : élection, organisation et répartition des compétences.
 
-1. Organisation hospitalière française (lois du 31 décembre 1970 et du 31 juillet 1991, ordonnances du 24 avril 1996, du 4 septembre 2003 et du 2 mai 2005)
+Typologie et règles d'organisation des établissements publics locaux.
 
-1.1. Le service public hospitalier
+Les relations entre l'Etat et les collectivités territoriales : contrôle de légalité et politiques partenariales.
 
-Origine et définition.
+2. Politique budgétaire et financière des collectivités territoriales :
 
-Missions.
+a) Les budgets locaux :
 
-Composants : le secteur public, le secteur privé, le service de santé des armées.
+Principes généraux.
 
-1.2. Les moyens mis en place
+Préparation, vote, exécution et contrôles.
 
-Territoires de santé et planification sanitaire (SROS).
+Notions sur le plan comptable général et sur les instructions budgétaires et comptables applicables aux collectivités territoriales.
 
-Le régime des autorisations.
+Les comptables publics ;
 
-Organes de concertation et de coopération interhospitalières.
+b) Les ressources locales :
 
-L'instrumentation juridique traditionnelle : syndicats interhospitaliers ; communautés d'établissements ; groupements d'intérêt public (GIP) et d'intérêt économique (GIE).
+Les recettes fiscales.
 
-L'instrumentation juridique nouvelle : groupements de coopération sanitaire (GCS).
+Les dotations et subventions de l'Etat.
 
-Le classement des établissements assurant le service public hospitalier.
+Les emprunts.
 
-L'évaluation de l'activité médicale : la Haute Autorité de santé (HAS), l'évaluation des pratiques professionnelles (EPP), la certification des établissements de santé, l'accréditation des personnels médicaux et soignants.
+Les ressources domaniales.
 
-2. L'organisation de l'établissement public de santé
+La tarification des services locaux ;
 
-L'organisation administrative :
+c) Les dépenses locales :
 
-- le statut juridique de l'établissement public de santé (EPS) ;
+Dépenses obligatoires et dépenses facultatives ;
 
-- création, transformation, suppression des EPS ;
+d) La trésorerie des collectivités locales ; la gestion de la dette ;
 
-- les principes de la nouvelle gouvernance hospitalière ;
+e) Les transferts de compétences et leur compensation financière.
 
-- les organes de décision à l'EPS : conseil d'administration, directeur, conseil exécutif ;
+3. La gestion du personnel dans les collectivités territoriales :
 
-- les instances consultatives.
+Le statut de la fonction publique territoriale : organisation, recrutement, carrière, protection sociale.
 
-L'organisation médicale :
+La gestion prévisionnelle des effectifs.
 
-- pôles d'activité, services, unités fonctionnelles ;
+4. Les services publics locaux :
 
-- la contractualisation interne.
+Gestion directe.
 
-Les contrôles et la tutelle exercés par l'Etat, ses services déconcentrés (DRASS, DDASS) et par l'ARH.
+Gestion déléguée.
 
-Les régimes spéciaux de l'administration générale de l'Assistance publique - hôpitaux de Paris, des hospices civils de Lyon et de l'Assistance publique à Marseille.
+Les principales formes de gestion et de financement des établissements publics locaux.
 
-3. Les statuts des personnels
+Les marchés publics.
 
-3.1. Personnel médical des établissements publics de santé
+5. Les politiques de développement local :
 
-- la démographie médicale hospitalière.
+Les collectivités locales et le développement économique.
 
-- les praticiens exerçant à temps plein : personnels enseignants et hospitaliers, praticiens hospitaliers ;
+L'intercommunalité.
 
-- les praticiens exerçant à temps partiel ;
+Les modes de financement du développement local.
 
-- les praticiens attachés ;
+L'aménagement du territoire.
 
-- les internes ;
+6. La politique de l'espace urbain :
 
-- les études médicales à l'hôpital ;
+Les règles nationales et locales d'urbanisme.
 
-- les consultants.
+Le droit de préemption et les réserves foncières.
 
-3.2. Personnels soumis au titre IV du statut général de la fonction publique (loi du 9 janvier 1986)
+La fiscalité de l'urbanisme.
 
-- la démographie des personnels hospitaliers non médicaux.
+7. Les collectivités territoriales et les citoyens :
 
-3.2.1. Règles générales
+Information et communication locales : obligations et moyens des collectivités locales.
 
-- Droits et obligations des fonctionnaires hospitaliers.
-
-- Titre IV.
-
-- Le Conseil supérieur de la fonction publique hospitalière.
-
-- La formation permanente continue.
-
-3.2.2. Notions sur les statuts particuliers
-
-Personnel de direction ; personnel administratif ; pharmaciens ; personnels des services de pharmacie, de laboratoire, d'électroradiologie ; personnel des services médicaux ; personnels d'encadrement des écoles de formation ; personnel technique ; personnel des services ouvriers, des parcs automobiles, du service intérieur ; personnel d'exécution ; personnel des services sociaux.
-
-4. Le statut du malade et l'éthique dans le monde hospitalier
-
-4.1. Malade hospitalisé en hôpital général et en psychiatrie
-
-La loi du 4 mars 2002.
-
-La charte du malade hospitalisé.
-
-L'éthique en milieu hospitalier (loi bioéthique du 6 août 2004) :
-
-- Comité national d'éthique ;
-
-- comité de protection des personnes ;
-
-- les prélèvements d'organes.
-
-4.2. Malade non hospitalisé
-
-Les consultations externes.
-
-5. Le fonctionnement économique et financier
-
-5.1 Gestion financière
-
-La tarification à l'activité (T2A) : ses principes, son champ d'application, ses modalités de mise en oeuvre.
-
-Les autres sources de financement ; l'état prévisionnel des recettes et des dépenses (EPRD), le plan global de financement prévisionnel (PGFP), le plan prévisionnel d'investissement (PPI).
-
-La procédure budgétaire.
-
-Le nouveau régime comptable des EPS.
-
-5.2. Gestion économique
-
-L'achat public.
-
-6. La responsabilité des établissements publics de santé
-
-Responsabilité des établissements.
-
-Responsabilité des personnels hospitaliers.
-
-Principes généraux de la responsabilité administrative du secteur hospitalier :
-
-- problème de compétence ;
-
-- fondements de la responsabilité ;
-
-- évolution législative et jurisprudentielle du régime de la responsabilité hospitalière ;
-
-- l'indemnisation des malades sur la base de la loi du 4 mars 2002, rôle des commissions régionales de conciliation et d'indemnisation (CRCI).
+La concertation et la participation des citoyens.

@@ -1,16 +1,14 @@
 # Article Annexe II
 
-PROGRAMME DE LA DEUXIÈME ÉPREUVE D'ADMISSIBILITÉ
+DROIT PUBLIC
 
-Droit public
-
-1. Sources du droit
+1. Les sources du droit public.
 
 La Constitution et le bloc de constitutionnalité.
 
-Les traités et autres sources de droit international.
+Les normes internationales.
 
-Les traités et autres sources de droit communautaire.
+Le droit de l'Union européenne.
 
 La loi et le principe de légalité.
 
@@ -18,9 +16,11 @@ Le pouvoir réglementaire.
 
 La jurisprudence constitutionnelle et administrative.
 
-2. Le régime constitutionnel
+2. Les institutions politiques et le droit constitutionnel.
 
-2.1. Théorie constitutionnelle et institutions politiques comparées
+La théorie constitutionnelle et institutions politiques comparées.
+
+Le contrôle de constitutionnalité et les cours constitutionnelles.
 
 La souveraineté et ses modes d'expression.
 
@@ -28,65 +28,69 @@ Les régimes électoraux.
 
 Les institutions politiques de la démocratie libérale.
 
-2.2. Le régime politique français
+L'histoire constitutionnelle depuis 1789.
 
-Evolution des institutions politiques depuis 1789.
+Les institutions politiques issues de la Constitution du 4 octobre 1958.
 
-Le régime politique issu de la Constitution du 4 octobre 1958.
+3. Le droit administratif.
 
-3. Droit administratif
+3.1. L'organisation administrative :
 
-3.1. L'organisation administrative
+Les relations juridiques entre personnes publiques (centralisation, déconcentration et décentralisation).
 
-L'Etat et les collectivités territoriales ; déconcentration et décentralisation ; contractualisation.
+Les relations des citoyens avec les administrations.
 
-Le secteur public et parapublic ; les démembrements de l'administration.
+L'administration de l'Etat : administration centrale, administration déconcentrée.
 
-Les relations de l'administration et des administrés ; la participation ; la consultation ; l'administration consultative ; la procédure administrative non contentieuse.
+Les collectivités territoriales.
 
-Les administrations centrales de l'Etat ; la coordination interministérielle.
+Les établissements publics, les groupements d'intérêt public, les opérateurs de l'Etat.
 
-Les circonscriptions territoriales : la région, le département, la commune.
+Les autorités administratives et publiques indépendantes.
 
-Les établissements publics.
+3.2.1. L'organisation de la juridiction administrative :
 
-Les autorités administratives indépendantes.
+Le principe de séparation des autorités administratives et judiciaires : le Tribunal des conflits.
 
-3.2. La justice administrative
+L'organisation, la procédure contentieuse, le recours.
 
-L'organisation de la juridiction administrative.
+3.2.2. Les principes généraux du contentieux administratif.
 
-Le principe de séparation des autorités administratives et judiciaires : le tribunal des conflits.
+3.3. L'activité administrative :
 
-Les recours en annulation et les recours de pleine juridiction.
+Le service public : notions ; régime juridique.
 
-Les principes généraux du contentieux administratif.
+La police administrative : notion ; régime juridique.
 
-3.3. L'activité administrative
+Les actes administratifs unilatéraux : notion ; régime juridique.
 
-Le service public ; notion ; différents types de services publics.
+Les contrats de l'administration : notion, passation, régime juridique.
 
-La police administrative.
+Les marchés publics.
 
-L'acte administratif unilatéral : les actes réglementaires ; les actes individuels ; hiérarchie des actes administratifs.
+La propriété des personnes publiques : domaine public et domaine privé, expropriation pour cause d'utilité publique, travaux publics.
 
-Les contrats administratifs, les marchés publics.
+La responsabilité administrative.
 
-Les biens : expropriation, domaine public, domaine privé, travaux publics.
+L'évaluation de l'action administrative.
 
-Les principes généraux de l'intervention économique.
+La modernisation administrative : l'utilisation des nouvelles technologies de l'information et de la communication dans les administrations.
 
-Les principes de légalité et le contrôle de la légalité.
+4. Le droit de la fonction publique.
 
-La responsabilité de l'administration.
+Le statut général de la fonction publique.
 
-3.4. La fonction publique
+Les organes de gestion de la fonction publique.
 
-Le statut de la fonction publique de l'Etat ; les fonctions publiques territoriale et hospitalière.
+La notion d'agent public.
 
-Les diverses catégories d'agents de l'Etat et des collectivités publiques ; les problèmes généraux de la fonction publique ; statut, recrutement, obligations, responsabilités et droits des fonctionnaires, procédures de participation et de consultation.
+Le fonctionnaire : recrutement, carrière.
 
-4. Droit communautaire
+Le fonctionnaire : droits, libertés.
+
+Le fonctionnaire : responsabilité, obligations.
+
+5. Le droit de l'Union européenne.
 
 Les institutions.
 
@@ -96,10 +100,10 @@ L'ordre juridique communautaire.
 
 Les recours juridictionnels.
 
-5. Droits fondamentaux et libertés publiques
+6. Les droits fondamentaux et les libertés publiques.
 
-Régime juridique.
+Le régime juridique.
 
-Protection interne et internationale.
+La protection interne et internationale.
 
-L'Etat de droit
+L'Etat de droit.

@@ -1,141 +1,101 @@
 # Article Annexe V
 
-PROGRAMME DE LA DEUXIÈME ÉPREUVE D'ADMISSIBILITÉ
+SCIENCES ÉCONOMIQUES
 
-Finances publiques
+Macroéconomie.
 
-1. Cadres des finances publiques contemporaines.
+1. Le cadre comptable de l'activité économique.
 
-2. Principes du droit budgétaire
+1.1. Les principes généraux de la comptabilité nationale et les comptes d'exploitation.
 
-2.1. Genèse des principes et adaptation.
+1.2. Les tableaux synthétiques (TEE, TES).
 
-Annualité, unité, universalité, spécialité.
+1.3. Les agrégats et les identités comptables.
 
-2.2. La portée de l'équilibre budgétaire.
+1.4. La balance des paiements et la position extérieure nette.
 
-Etat.
+1.5. L'évolution des équilibres comptables de la France au cours des cinq dernières années.
 
-Collectivités locales.
+2. Marchés, comportements et équilibre macroéconomiques en économie fermée.
 
-2.3. Approche juridictionnelle des principes.
+2.1. Le marché des biens et des services et les comportements de consommation, d'épargne et d'investissement.
 
-Conseil constitutionnel.
+2.2. Le marché du travail et les comportements d'offre et de demande de travail.
 
-Juridictions financières.
+2.3. Le marché de la monnaie et les comportements d'offre et de demande de monnaie.
 
-3. Notions de droit budgétaire.
+2.4. L'équilibre macroéconomique classique et keynésien.
 
-3.1. Du budget à la loi de finances
+2.5. Le modèle d'équilibre global et la théorie du déséquilibre.
 
-Catégories de lois de finances (loi de finances annuelle, loi de finances rectificative, loi de règlement).
+2.6. Anticipations rationnelles et équilibre macroéconomique.
 
-3.2. Les particularités de la loi de financement de la sécurité sociale
+2.7. Les principes généraux de la régulation conjoncturelle (politiques budgétaire et monétaire).
 
-3.3. Budgets et comptes des collectivités locales
+3. Macroéconomie européenne.
 
-4. Elaboration des documents budgétaires
+3.1. L'économie française et l'Europe.
 
-4.1. Les méthodes d'aide à la décision
+3.2. La conduite des politiques conjoncturelles dans le cadre de l'Union économique et monétaire.
 
-Historique (budgets fonctionnels).
+3.3. La conduite des politiques structurelles dans le cadre de l'Union économique et monétaire.
 
-Les méthodes RCB, ZBB, évaluation.
+4. Relations économiques et financières internationales.
 
-4.2. Le rôle des exécutifs
+4.1. Les institutions et relations monétaires internationales depuis 1944.
 
-Institutions : autorités de préparation (ministre des finances, Etat).
+4.2. Les faits de la globalisation économique depuis 1974.
 
-Calendrier : exécutifs locaux, collectivités locales, rénovation du cycle de préparation 1996.
+4.3. Les fondements du commerce international.
 
-4.3. Le rôle du débat d'orientation
+4.4. L'analyse de l'intégration financière internationale et de ses conséquences.
 
-Assemblée nationale et Sénat.
+Microéconomie.
 
-Collectivités locales.
+1. Mécanismes de marché :
 
-5. L'autorisation budgétaire
+1.1. Définition description des structures de marché.
 
-5.1. L'autorisation parlementaire
+1.2. Concepts d'offre et de demande du marché.
 
-Initiative, droit d'amendement.
+1.3. Equilibre du marché et efficacité.
 
-Procédure de vote (vote sur les parties).
+1.4. La notion d'élasticité.
 
-Signification de l'autorisation parlementaire (vote par titre et par ministère).
+2. Comportements individuels :
 
-Portée du vote :
+2.1. Théorie du consommateur (préférences et contrainte budgétaire, la décision de consommation, effets revenu et substitution, courbe de demande individuelle, offre de travail et comportement d'épargne).
 
-- modifications par l'exécutif (virements, transferts, décrets d'avance) ; régulation budgétaire ;
+2.2. Théorie du producteur (l'objectif de maximisation du profit, les coûts de l'entreprise, la firme preneuse de prix, la décision de production, la courbe d'offre individuelle, le profit à l'équilibre de long terme).
 
-- chapitre réservoir (charges communes) ;
+3. L'équilibre de concurrence pure et parfaite :
 
-- débudgétisation ;
+3.1. Définition de l'équilibre concurrentiel.
 
-- contrôle de constitutionnalité.
+3.2. Equilibre et optimum de Pareto : les deux théorèmes de l'économie du bien-être.
 
-5.2. Collectivités locales, autorisation des assemblées locales
+4. La concurrence imparfaite :
 
-Légalité des budgets locaux.
+4.1. Le monopole.
 
-Le contrôle budgétaire des chambres régionales des comptes.
+4.2. La concurrence oligopolistique.
 
-5.3. La mise en oeuvre de l'autorisation budgétaire pour l'Etat
+4.3. La concurrence monopolistique.
 
-Décrets de répartition et mise à disposition des crédits.
+4.4. Les asymétries d'information.
 
-6. Le contenu des budgets
+4.5. Stratégies tarifaires.
 
-6.1. L'Etat
+4.6. L'organisation de la firme (frontières horizontales de la firme, intégration verticale).
 
-Typologie des crédits.
+4.7. Les politiques de concurrence.
 
-Evolution des dépenses.
+5. Economie publique et défaillances de marché :
 
-Le système fiscal (notions générales).
+5.1. Les externalités.
 
-6.2. Les collectivités locales
+5.2. Les biens publics ;
 
-Impôts locaux (généralités).
+5.3. Le monopole naturel.
 
-Dotations et concours de l'Etat (généralités).
-
-Les catégories des collectivités et leurs dépenses.
-
-L'interventionnisme économique des collectivités locales.
-
-7. L'exécution
-
-7.1. Le droit de la comptabilité publique
-
-Le principe de séparation.
-
-Ordonnateur et comptable.
-
-Le processus comptable.
-
-ELOP, ALR.
-
-7.2. Le Trésor
-
-Notion de Trésor et fonction du Trésor.
-
-Le réseau du Trésor (les correspondants).
-
-Le Trésor et la modernisation des marchés financiers.
-
-Les ressources du Trésor (emprunts, bons du Trésor) et l'évolution des relations avec la Banque de France.
-
-7.3. Les relations financières Etat-collectivités locales
-
-Avances.
-
-Obligations de dépôt disponibles.
-
-8. Les contrôles
-
-8.1. Typologie des contrôles
-
-8.2. Les contrôles exercés par les juridictions (juridictionnel et gestion)
-
-8.3. Le contrôle des assemblées
+5.4. Le choix social.

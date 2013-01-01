@@ -1,123 +1,143 @@
 # Article Annexe IV
 
-PROGRAMME DE LA DEUXIÈME ÉPREUVE D'ADMISSIBILITÉ
+SANTÉ PUBLIQUE
 
-Santé publique
+1. Définition de la santé et épidémiologie.
 
-1. Epidémiologie
+Définitions de la santé.
 
-Grands principes de base :
+Définition de l'invalidité et du handicap.
 
-Collecte, codage, standardisation et utilisation des données de natalité, morbidité, invalidité, mortalité.
+Indicateurs :
 
-Registres et principales sources d'information en santé.
+- démographiques (natalité, mortalité, espérance de vie, pyramide des âges, taux de fécondité) ;
 
-Indicateurs de santé : mortalité, santé, incidence, prévalence, indicateurs de qualité de vie.
+- santé (incidence, prévalence, morbidité, mortalité infantile).
 
-Notion de risque, risque relatif.
+Principes des indicateurs de qualité de crise.
 
-2. Economie de la santé et système de santé
+Recueils de données en épidémiologie.
 
-2.1. Généralités
+Principales sources d'information, dont les registres (principes).
 
-Notion de système de santé, typologie des systèmes de santé et de protection sociale.
+Notion de risque, risque relatif et odd ratio .
 
-Indicateurs de besoins, de moyens, de couverture, de production, de résultats, etc.
+Limites d'analyse et principaux biais (critiques de l'information).
 
-Evaluation économique : notion d'efficacité, d'efficience, de productivité.
+Les types d'enquêtes épidémiologiques : observation, analytiques (cohortes, cas témoins), interventionnelles.
 
-Principes des études : coût-efficacité, coût-bénéfice, coût-avantage.
+2. Economie de la santé et système de santé.
 
-Santé, économie, éthique : principaux débats actuels.
+2.1. Généralités :
 
-2.2. Analyse macroéconomique
+Notion de système de santé.
 
-Comptabilité nationale.
+Définitions : efficacité, efficience, productivité, utilité.
 
-Comptes de la santé.
+Principes des évaluations médico-économiques : coût/efficacité, coût/bénéfice, coût/utilité.
 
-Principaux postes de la consommation médicale.
+Analyse des disparités géographiques et sociales en matière de santé.
 
-Evolution des dépenses de santé en France et à l'étranger.
+Principes des liens entre santé, économie et éthique.
 
-Financement des dépenses de santé.
+2.2. Analyse macroéconomique ; les comptes de la santé et leur évolution :
 
-2.3. Analyse microéconomique
+Les principaux agrégats des comptes de la santé en France : consommation de services et biens médicaux (CSBM), dépense courante de santé (DCS).
 
-Comportement des agents économiques : hôpital, médecins, malades, financeurs.
+Le financement des dépenses de santé.
 
-Formation des prix.
+Evolution des dépenses de santé en France et à l'étranger (agrégat : DTS).
 
-Particularités des biens et services médicaux.
+2.3. Analyse microéconomique :
 
-Analyse des facteurs individuels et collectifs influençant l'évolution des dépenses de santé.
+Particularités des biens et services médicaux : asymétrie d'information, formation des prix.
 
-2.4. Gestion des unités de production de soins
+Facteurs de la consommation des soins de santé.
 
-Mesures de l'activité, PMSI.
+Maîtrise des dépenses de santé.
 
-Comptabilité analytique et contrôle de gestion.
+2.4. Mesure de l'activité hospitalière : PMSI.
 
-Le projet d'établissement et la démarche stratégique.
+2.5. Allocation de ressources et planification sanitaire :
 
-Audit.
+Tarification des biens et services médicaux, modalités de rémunération des professionnels de santé libéraux.
 
-L'évaluation à l'hôpital : évaluation des techniques, évaluation de la qualité des soins, évaluation des établissements (certification) et accréditation des médecins.
+2.6. Eléments du système de santé français :
 
-La politique de gestion des risques.
+Les professionnels de santé : aspects démographiques, exercice professionnel des médecins hospitaliers.
 
-L'informatisation des processus de production et le DMP.
+L'industrie pharmaceutique et la distribution des médicaments hors de l'hôpital.
 
-2.5. Allocation de ressources et planification sanitaire
+L'administration de la santé : les agences régionales de santé (missions) ; le ministère chargé de la santé et les agences nationales (missions).
 
-Analyse des disparités géographiques et sociologiques en matière de santé.
+Modalités de financement des établissements hospitaliers, la tarification à l'activité, les MIGAC.
 
-Les schémas régionaux d'organisation sanitaire.
+Principes et évolution de l'allocation des ressources (prix de journée, dotation globale, tarification à l'activité, forfaits...).
 
-Modalités de financement des établissements hospitaliers.
+3. Santé et prévention.
 
-Tarification des biens et services médicaux.
+Définition générales :
 
-2.6. Eléments du système français
+- la prévention primaire, secondaire, tertiaire.
 
-Les personnels de santé.
+- les préventions : universelle, sélective et ciblée (GORDON).
 
-Le système hospitalier en France.
+Education à la santé.
 
-Les alternatives à hospitalisation, les soins à domicile.
+Education thérapeutique.
 
-L'industrie pharmaceutique et biomédicale.
+Prévention pour les populations vulnérables :
 
-L'administration de la santé.
+- migrants ;
 
-3. Santé et prévention
+- personnes âgées ;
 
-Définitions des modèles de représentations de la santé.
+- protection maternelle et infantile.
 
-Actions de prévention : éducation pour la santé, promotion de la santé, vaccinations, dépistage.
+Lutte contre les addictions : définition, principes, organisation.
 
-Approches par populations spécifiques :
+Les principes des vaccinations.
 
-- le nourrisson et le jeune enfant ;
+Les principes du dépistage.
 
-- l'enfant d'âge scolaire et l'adolescent ;
+4. La qualité dans le système de soins.
 
-- les personnes en situation de handicap et/ou d'inadaptation sociale ;
+Principes et définition de la qualité.
 
-- les personnes âgées ;
+Evaluation des pratiques professionnelles (EPP).
 
-- les migrants.
+La certification hospitalière.
 
-4. Hygiène et environnement hospitalier
+L'accréditation des équipes et des personnes.
 
-Les eaux d'alimentation, d'adduction, traitement, contrôle.
+Définition des différentes vigilances.
 
-Assainissement, eaux usées, déchets hospitaliers.
+5. Protection sociale.
 
-Hygiène alimentaire collective.
+Définition des risques sociaux et place de la santé.
 
-Eléments d'organisation contre les infections hospitalières (architecture, circuits, méthodes d'organisation).
+Prise en charge des risques sociaux en prenant l'exemple du financement de la CSBM.
 
-La gestion des risques sanitaires.
+Place de l'assurance maladie obligatoire (AMO) :
 
-5. Les plans de santé publique (loi du 9 août 2004)
+- principe de la prise en charge des soins de ville, des soins hospitaliers et des médicaments en médecine de ville ;
+
+- ticket modérateur et forfaits à la charge du patient ;
+
+- affections de longue durée (ALD).
+
+Définition CMU et AME.
+
+Assurance maladie complémentaire (AMC).
+
+Différents types d'AMC.
+
+6. Hygiène à l'hôpital.
+
+Définition et gestion des eaux usées et des déchets hospitaliers.
+
+Eléments d'hygiène alimentaire collective.
+
+Eléments d'organisation contre les infections nosocomiales.
+
+Principes de gestion de crises sanitaires.

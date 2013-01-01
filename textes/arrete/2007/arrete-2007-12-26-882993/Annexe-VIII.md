@@ -1,109 +1,63 @@
 # Article Annexe VIII
 
-PROGRAMME DE LA TROISIÈME ÉPREUVE D'ADMISSIBILITÉ ET DE LA DEUXIÈME ÉPREUVE D'ADMISSION
+GESTION COMPTABLE ET FINANCIÈRE DES ENTREPRISES
 
-Droit des établissements sociaux et médico-sociaux et droit de l'aide sociale
+I. - Comptabilité.
 
-1. Droit des établissements sociaux et médico-sociaux
+A. - Comptabilité générale et financière :
 
-Introduction
+Objet et principes de la comptabilité.
 
-L'établissement social et médico-social dans son environnement financier.
+Règles de comptabilisation et d'évaluation, normes comptables.
 
-L'organisation sociale et médico-sociale française :
+Tenue, structure et fonctionnement des comptes.
 
-Les missions de service public.
+Documents de synthèse (bilan, compte de résultat, annexe, tableau de financement).
 
-Composants : le secteur public, le secteur privé.
+Les comptes consolidés.
 
-Les moyens mis en place.
+B. - Comptabilité de gestion :
 
-Organes de concertation.
+Système d'information et outils d'aide à la décision.
 
-Le régime des autorisations.
+Bases conceptuelles du calcul des coûts (activités, processus, ressources, performances).
 
-Les structures :
+Méthodes de calcul des coûts (analyse en coûts partiels, coûts complets, coûts préétablis, imputation rationnelle).
 
-Le statut juridique de l'établissement social et médico-social.
+II. - Contrôle de gestion.
 
-Création, transformation, suppression des établissements sociaux et médico-sociaux.
+Problématique du contrôle dans les organisations.
 
-Les organes de décision des établissements sociaux et médico-sociaux : le conseil d'administration, le directeur.
+La démarche prévisionnelle : stratégie, plans, budgets.
 
-Les instances consultatives.
+Evaluation des résultats et des performances.
 
-Les contrôles et la tutelle.
+Conception et réalisation des dispositifs de pilotage et de contrôle.
 
-Les statuts des personnels publics :
+III. - Finance.
 
-Personnels soumis au titre IV du statut général de la fonction publique.
+A. - Théorie et problématique financières :
 
-Règles générales :
+Création de valeur.
 
-- droit et obligations des fonctionnaires ;
+Coût et risque des décisions de financement.
 
-- titre IV ;
+B. - Analyse financière :
 
-- le conseil supérieur de la fonction publique hospitalière ;
+Mesure de la rentabilité et du risque.
 
-- la formation permanente continue ;
+Méthodologie du diagnostic.
 
-Notions sur les statuts particuliers :
+Evaluation des entreprises.
 
-- personnel de direction ;
+C. - Gestion financière :
 
-- personnels sociaux et médico-sociaux ;
+Environnement financier de l'entreprise.
 
-Le régime financier :
+Gestion des investissements et des financements à long et à moyen termes.
 
-Gestion budgétaire et comptable et modalités financières.
+Gestion financière du court terme.
 
-Le budget et comptabilité des établissements, la procédure budgétaire.
+Gestion de la trésorerie.
 
-Gestion économique pour les centres d'aide par le travail.
-
-La responsabilité des établissements sociaux et médico-sociaux :
-
-Responsabilité des établissements.
-
-Responsabilité des agents.
-
-Principes généraux de la responsabilité administrative.
-
-Problème de compétence.
-
-Fondements de la responsabilité.
-
-Rapports de la responsabilité administrative du service avec la responsabilité personnelle des agents.
-
-Les politiques en faveur de l'enfance, des personnes handicapées, des personnes âgées et des personnes en difficulté.
-
-2. Droit de l'aide sociale
-
-2.1. La notion d'aide sociale
-
-Le droit de l'aide sociale.
-
-La place de l'aide sociale parmi les systèmes de protection sanitaire et sociale (santé publique, sécurité sociale, action sociale, protection de l'enfance, lutte contre la pauvreté et les exclusions).
-
-2.2. Les règles générales de l'aide sociale
-
-L'organisation administrative, financière et contentieuse de l'aide sociale (avant et depuis la décentralisation).
-
-Le fonctionnement de l'aide sociale (l'admission, le contentieux, la récupération des prestations versées, les rapports entre l'aide sociale et l'obligation alimentaire, etc.).
-
-2.3. Les formes d'aide sociale
-
-L'aide médicale.
-
-L'aide sociale à l'enfance.
-
-L'aide sociale aux personnes âgées.
-
-L'aide sociale aux personnes handicapées.
-
-L'aide sociale à la famille.
-
-L'aide sociale à l'hébergement et à la réadaptation sociale.
-
-2.4. Caractéristiques générales de l'aide sociale dans les principaux pays européens
+Gestion dans le cadre international.

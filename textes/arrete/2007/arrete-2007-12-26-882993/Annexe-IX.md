@@ -1,53 +1,75 @@
 # Article Annexe IX
 
-PROGRAMME DE LA TROISIÈME ÉPREUVE D'ADMISSIBILITÉ ET DE LA DEUXIÈME ÉPREUVE D'ADMISSION
+HISTOIRE
 
-Comptabilité privée
+I. - Religion et nations : l'Europe, de Luther à la révocation de l'édit de Nantes.
 
-Les principes de la comptabilité générale.
+Christianisme, Réforme, Contre-Réforme en Europe aux xvie et xviie siècles.
 
-Le fonctionnement des comptes.
+Religions et conflits en Europe, 1519-1648.
 
-Principes d'élaboration du bilan et du compte de résultat.
+Renaissance, baroque et classicisme, des guerres d'Italie (1515) à la mort de Louis XIV (1715).
 
-Le plan comptable général 1982.
+II. - Economies et sociétés européennes de 1348 à 1848.
 
-Les systèmes comptables.
+Les campagnes européennes, de la Grande Peste au milieu du xixe siècle.
 
-Les enregistrements courants : facturations, règlements, salaires.
+La civilisation urbaine en Occident, de la fin du xviiie au milieu du xixe siècle.
 
-Les amortissements, les provisions et les régularisations de charges et de produits.
+III. - L'évolution économique et sociale du monde, de la révolution industrielle à nos jours.
 
-Les documents comptables normalisés (bilan, compte de résultat, annexe).
+Amorce, développement et effets de la révolution industrielle.
 
-Les documents spécifiques au système développé (tableau de financement, soldes intermédiaires de gestion).
+Impérialismes et mise en valeur des continents.
 
-Les problèmes comptables de sociétés commerciales.
+Transformations sociales en Europe et en Amérique du Nord.
 
-La comptabilité analytique d'exploitation, le coût de revient complet, le coût de revient d'imputation rationnelle.
+Evolutions et révolutions dans les sociétés dominées.
 
-Les coûts partiels : coût variable, coût direct, coût marginal.
+Modèles et réalités du développement, des années vingt à nos jours.
 
-Les coûts standards et l'analyse comptable des écarts.
+Formes et étapes de la mondialisation des échanges.
 
-Comparaison avec la comptabilité publique.
+IV. - Le gouvernement des nations des Lumières à nos jours.
 
-Note. - Les candidats ayant choisi l'option comptabilité privée sont autorisés à faire usage pour cette épreuve de calculatrices électroniques de poche non imprimantes à alimentation autonome, à entrée unique par clavier, non programmables et sans document d'accompagnement.
+Liberté et souveraineté dans la pensée politique et l'évolution des régimes.
 
-Les possibilités de ces calculatrices devront être limitées aux capacités de calcul suivantes :
+Nations et nationalismes depuis 1648.
 
-- 4 opérations ;
+Formes et développements de la démocratie dans le monde de 1789 à nos jours.
 
-- racine carrée ;
+Socialisme et sociétés aux xixe et xxe siècles.
 
-- fonctions usuelles (trigonométriques, logarithmes, exponentielles) ;
+Les expériences totalitaires.
 
-- mémoire avec entrée en plus ou en moins ;
+V. - Les relations internationales des années 1880 à nos jours.
 
-- changement de signe ;
+L'équilibre des puissances, du traité de Berlin à 1914.
 
-- notation scientifique (virgule flottante) ;
+Le déséquilibre des puissances, de la Première à la Seconde Guerre mondiale (1914-1945).
 
-- et est également autorisée la liste des comptes du Plan comptable 1982.
+La montée des Etats-Unis au premier rôle mondial.
 
-- les matériels et documents pourront faire l'objet de vérifications et le prêt ou l'échange en seront interdits.
+La Guerre froide et les décolonisations, 1947-1991.
+
+L'évolution des relations internationales depuis 1975.
+
+VI. - Peuples et nations au xxe siècle.
+
+La France de la IIIe République à nos jours.
+
+L'Allemagne, l'Italie, le Royaume-Uni et la Russie au xxe siècle.
+
+Les Etats-Unis depuis la guerre de Sécession.
+
+La Chine, l'Inde, le Japon dans la deuxième moitié du xxe siècle.
+
+Le Moyen-Orient depuis 1945.
+
+VII. - Histoire de l'Union européenne.
+
+Le contexte de début de la coopération européenne.
+
+Les étapes de la construction de l'Union européenne.
+
+Le fonctionnement de l'Union européenne.
