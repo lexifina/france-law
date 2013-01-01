@@ -1,0 +1,21 @@
+# Article 1er
+
+Le présent règlement détermine les conditions dans lesquelles BTP-Prévoyance assure une couverture collective contre les risques de décès, d'invalidité ou d'incapacité, sous la forme de garanties qui s'ajoutent à celles servies par le régime national de prévoyance des ouvriers institué par l'accord collectif national du 31 juillet 1968.
+
+Les garanties – et le niveau de couverture retenu pour chacune d'entre elles – s'appliquent à tous les membres du personnel ouvriers et apprentis de chaque entreprise qui décide d'adhérer au présent règlement.
+
+Les garanties proposées dans ce cadre sont les suivantes :
+
+– garantie décès : versement d'un capital en cas de décès du participant ;
+
+– garantie indemnités journalières : versement d'indemnités journalières en cas d'incapacité de travail du participant ;
+
+– garantie invalidité : versement d'une rente en cas d'invalidité du participant ;
+
+– garantie décès-invalidité accidentels (GDIA) : versement d'un capital en cas de décès accidentel ou d'invalidité accidentelle du participant ;
+
+– garantie forfait naissance : versement d'une allocation forfaitaire destinée à couvrir les frais exposés en cas de naissance ou d'adoption ;
+
+– garantie obsèques famille : versement d'un capital en cas de décès du conjoint ou d'un enfant à charge.
+
+Pour chaque garantie, le niveau de couverture est fonction de l'option retenue.
