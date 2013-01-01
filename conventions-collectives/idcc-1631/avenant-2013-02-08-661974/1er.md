@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent avenant a pour objet d'intégrer dans le dispositif prévoyance mis en place par l'accord national de la branche de l'hôtellerie de plein air du 9 mars 2004 et ses divers avenants, le respect de l'obligation incombant à l'employeur de cotiser à hauteur de 1,5 % TA des salaires pour des garanties de prévoyance au profit des salariés cadres en excluant la garantie maintien de salaire qui ne peut pas être intégrée dans cette enveloppe (suite aux remarques du ministère des affaires sociales et de la santé du 30 août 2012 concernant l'extension de l'avenant n° 5 à l'accord national susvisé).
