@@ -2986,7 +2986,9 @@ TC
 
 |
 
-TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES INDUSTRIES DES TRANSPORTS, DE L'EAU, DU GAZ, DE L'ELECTRICITE, DU LIVRE ET DE LA COMMUNICATION
+TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES INDUSTRIES DES TRANSPORTS,
+
+DE L'EAU, DU GAZ, DE L'ELECTRICITE, DU LIVRE ET DE LA COMMUNICATION
 
 NATURE DU RISQUE
 
@@ -3184,11 +3186,43 @@ Composition, photocomposition, gravure et photogravure.
 
 |
 
-Production et distribution d'électricité, de gaz et de chaleur. Agents statutaires : entreprises nationalisées (b).
+Production et distribution d'électricité, de gaz et de chaleur. Agents statutaires : entreprises nationalisées (b). |
+
+40.1ZA |
+
+0,20 |
+
+TC |
+
+Production et distribution d'électricité, de gaz et de chaleur. Agents statutaires : entreprises non nationalisées (b). |
+
+40.1ZB |
+
+0,20 |
+
+TC |
+
+Production et distribution d'électricité, de gaz et de chaleur. Agents temporaires : entreprises nationalisées (b). |
+
+40.1ZC |
+
+2,20 |
+
+TC |
+
+Production et distribution d'électricité, de gaz et de chaleur. Agents temporaires : entreprises non nationalisées (b) |
+
+40.1ZD |
+
+2,20 |
+
+TC |
+
+Agents statutaires des industries électriques et gazières.
 
 |
 
-40.1ZA
+40.1ZE
 
 |
 
@@ -3200,43 +3234,11 @@ TC
 
 |
 
-Production et distribution d'électricité, de gaz et de chaleur. Agents statutaires : entreprises non nationalisées (b).
+Salariés non statutaires des industries électriques et gazières.
 
 |
 
-40.1ZB
-
-|
-
-0,20
-
-|
-
-TC
-
-|
-
-Production et distribution d'électricité, de gaz et de chaleur. Agents temporaires : entreprises nationalisées (b).
-
-|
-
-40.1ZC
-
-|
-
-2,20
-
-|
-
-TC
-
-|
-
-Production et distribution d'électricité, de gaz et de chaleur. Agents temporaires : entreprises non nationalisées (b)
-
-|
-
-40.1ZD
+40.1ZF
 
 |
 
@@ -5804,7 +5806,11 @@ Chimie expert. Laboratoires de recherches chimiques.
 
 |
 
-TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES INDUSTRIES DU BOIS, DE L'AMEUBLEMENT, DU PAPIER-CARTON, DU TEXTILE, DU VETEMENT, DES CUIRS ET DES PEAUX ET DES PIERRES ET TERRES A FEU
+TARIF DES COTISATIONS D'ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES DES INDUSTRIES DU BOIS,
+
+DE L'AMEUBLEMENT, DU PAPIER-CARTON, DU TEXTILE, DU VETEMENT,
+
+DES CUIRS ET DES PEAUX ET DES PIERRES ET TERRES A FEU
 
 NATURE DU RISQUE
 
@@ -8116,15 +8122,35 @@ TC
 
 |
 
-Collectivités territoriales (communales, départementales, régionales..., y compris leurs établissements publics).
+Collectivités territoriales (communales, départementales, régionales..., y compris leurs établissements publics). |
+
+75.1AD |
+
+1,70 |
 
 |
 
-75.1AD
+Collectivités territoriales (communales, départementales, régionales...,) y compris leurs établissements publics hors secteur médico-social.
+
+|
+
+75.1BA
 
 |
 
 1,70
+
+|
+
+|
+
+Etablissements publics médico-sociaux des collectivités territoriales.
+
+|
+
+75.1BB
+
+|
 
 |
 
@@ -8414,15 +8440,35 @@ Travaux à façon divers sauf la location de brevets, entreposage d'archives d'e
 
 |
 
-Etablissements de soins privés : cliniques générales ou spécialisées, établissements hospitaliers, généraux ou spécialisés, dispensaires, etc.
+Etablissements de soins privés : cliniques générales ou spécialisées, établissements hospitaliers, généraux ou spécialisés, dispensaires, etc. |
+
+85.1AA |
+
+2,40 |
 
 |
 
-85.1AA
+Etablissements de soins privés y compris centres de réadaptation fonctionnelle.
+
+|
+
+85.1AB
 
 |
 
 2,40
+
+|
+
+|
+
+Services de soins privés médicaux exclusivement à domicile.
+
+|
+
+85.1AC
+
+|
 
 |
 
@@ -8526,11 +8572,19 @@ Vétérinaires. - Cliniques vétérinaires.
 
 |
 
-Action sociale sous toutes ses formes, y compris garderies, haltes-garderies, centres de réadaptation fonctionnelle et rééducation professionnelle et établissements ou services d'aide par le travail (personnel administratif et enseignant).
+Action sociale sous toutes ses formes, y compris garderies, haltes-garderies, centres de réadaptation fonctionnelle et rééducation professionnelle et établissements ou services d'aide par le travail (personnel administratif et enseignant). |
+
+85.3AA |
+
+2,80 |
+
+TC |
+
+Services d'aide sociale à domicile (auxiliaires de vie, aides ménagères...).
 
 |
 
-85.3AA
+85.3AB
 
 |
 
@@ -8539,6 +8593,54 @@ Action sociale sous toutes ses formes, y compris garderies, haltes-garderies, ce
 |
 
 TC
+
+|
+
+Accueil, hébergement en établissement pour personnes âgées (maisons de retraite...).
+
+|
+
+85.3AC
+
+|
+
+|
+
+|
+
+Accueil, hébergement en établissement pour personnes handicapées (enfants et adultes).
+
+|
+
+85.3AD
+
+|
+
+|
+
+|
+
+Accueil, hébergement, prévention pour la petite enfance, l'enfance, l'adolescence (2).
+
+|
+
+85.3AE
+
+|
+
+|
+
+|
+
+Action sociale sous toutes ses formes hors risques 85. 3AB/85. 3AC/85. 3AD/85. 3AE.
+
+|
+
+85.3BA
+
+|
+
+|
 
 |
 
@@ -8796,6 +8898,8 @@ Le taux du numéro de risque 74.5BD est applicable aux établissements occupants
 
 Le taux du numéro de risque 74.5BC est applicable au personnel de ces entreprises non visé les articles L. 1251-16 et L. 1251-17 du code du travail.
 
+(2) Y compris les crèches, garderies, centres aérés et de loisirs..., à l'exclusion des structures et colonies de vacances visées au numéro de risque 55. 2EC.
+
 |
 
 CATEGORIES DE TRAVAILLEURS VISES PAR L'ARRETE PREVU A L'ARTICLE D 242-6-22
@@ -8976,7 +9080,11 @@ TC
 
 |
 
-CATEGORIES DE PERSONNELS VISES PAR L'ARRETE PREVU A L'ARTICLE D 242-6-21 DU CODE DE LA SECURITE SOCIALE ET A L'ARTICLE 1er (III) DE L'ARRETE DU 17 OCTOBRE 1995 RELATIF A LA TARIFICATION DES RISQUES D'ACCIDENTS DU TRAVAIL ET DE MALADIES PROFESSIONNELLES
+CATEGORIES DE PERSONNELS VISES PAR L'ARRETE PREVU A L'ARTICLE D 242-6-21 DU CODE DE LA SECURITE SOCIALE
+
+ET A L'ARTICLE 1er (III) DE L'ARRETE DU 17 OCTOBRE 1995 RELATIF A LA TARIFICATION DES RISQUES D'ACCIDENTS
+
+DU TRAVAIL ET DE MALADIES PROFESSIONNELLES
 
 NATURE DU RISQUE
 
