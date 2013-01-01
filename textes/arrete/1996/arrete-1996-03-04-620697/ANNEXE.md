@@ -1,8 +1,6 @@
 # Article ANNEXE
 
-INDICE DE DATE
-
-de la norme
+INDICE DE DATE de la norme
 
 |
 
@@ -18,9 +16,9 @@ de l'obligation de conformité (1)
 
 CONDITIONS
 
-particulières
+particulières ou
 
-ou applications exclues
+applications exclues
 
 |
 
@@ -184,6 +182,26 @@ Raccords d'extrémité avec joint d'étanchéité pour tuyaux flexibles métalli
 
 |
 
+NF D 36-121/ A1)
+
+(décembre 2011)
+
+|
+
+Raccords d'extrémité avec joint d'étanchéité pour tuyaux flexibles métalliques onduleux pour le raccordement externe des appareils à usage domestique utilisant les combustibles gazeux distribués par réseaux
+
+|
+
+1er janvier 2012
+
+|
+
+1er janvier 2012
+
+|
+
+|
+
 NF D 36-123
 
 (juin 2001)
@@ -210,7 +228,7 @@ NF D 36-124
 
 |
 
-Raccords rapides avec obturation automatique destinés au raccordement externe par tuyaux flexibles des appareils utilisant les combustibles gazeux, autres que les appareils de cuisson, lave-linge et sèche-linge domestiques
+Raccords rapides avec obturation automatique destinés au raccordement externe par tuyaux flexibles des appareils utilisant les combustibles gazeux autres que les appareils de cuisson, lave-linge et sèche-linge domestiques
 
 |
 
@@ -244,13 +262,33 @@ Raccords d'extrémité avec joint d'étanchéité pour tuyaux flexibles métalli
 
 |
 
+NF D 36-125/ A1
+
+(décembre 2011)
+
+|
+
+Raccords d'extrémité avec joint d'étanchéité pour tuyaux flexibles métalliques onduleux pour le raccordement externe des appareils à usage domestique utilisant le butane et le propane distribués par récipients
+
+|
+
+1er janvier 2012
+
+|
+
+1er janvier 2012
+
+|
+
+|
+
 XP D 36-126
 
 (août 1997)
 
 |
 
-Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, pour raccordement des appareils mobiles à usage non domestique pour utilisation dans les domaines tertiaires et industriels notamment dans les laboratoires de recherche et d'enseignement, utilisant les combustibles gazeux distribués par réseaux
+Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, pour raccordement des appareils mobiles à usage non domestique pour utilisation dans les domaines tertiaires et industriels, notamment dans les laboratoires de recherche et d'enseignement utilisant les combustibles gazeux distribués par réseaux
 
 |
 
@@ -264,13 +302,13 @@ Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, po
 
 |
 
-XP D 36-126/ A
+XP D 36-126/ A1
 
 (mars 2002)
 
 |
 
-Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, pour raccordement des appareils mobiles à usage non domestique pour utilisation dans les domaines tertiaires et industriels notamment dans les laboratoires de recherche et d'enseignement, utilisant les combustibles gazeux distribués par réseaux
+Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, pour raccordement des appareils mobiles à usage non domestique pour utilisation dans les domaines tertiaires et industriels, notamment dans les laboratoires de recherche et d'enseignement utilisant les combustibles gazeux distribués par réseaux
 
 |
 
@@ -282,13 +320,13 @@ Tubes souples homogènes à base de caoutchouc de diamètre intérieur 12 mm, po
 
 |
 
-Extension aux tubes souples de diamètre intérieur 6 mm
+Extension aux tubes souples de diamètre intérieur à 6 mm
 
 |
 
-NF EN 12864
+NF EN 1286
 
-(avril 2002)
+(4 avril 2002)
 
 |
 
@@ -308,7 +346,7 @@ A appliquer avec XP M 88-778
 
 |
 
-NF EN 12864/ A
+NF EN 12864/ A1
 
 (mai 2004)
 
@@ -462,7 +500,7 @@ XP D 30-506
 
 |
 
-Appareils à combustion utilisant les combustibles gazeux, non visés par la Directive Européenne 90/396/ CEE concernant les appareils à gaz, et non concernés par une norme spécifique - Exigences essentielles de sécurité et utilisation rationnelle de l'énergie
+Appareils à combustion utilisant les combustibles gazeux, non visés par la directive européenne 90/396/ CEE concernant les appareils à gaz, et non concernés par une norme spécifique. - Exigences essentielles de sécurité et utilisation rationnelle de l'énergie
 
 |
 
@@ -496,101 +534,101 @@ Déclencheurs de sécurité à robinet d'arrêt incorporé et à deux raccords u
 
 |
 
-XP E 29-135
+NF E 29-135
 
-(août 1999)
-
-|
-
-Robinetterie de gaz, basse pression - Robinets à tournant sphérique et robinets à tournant conique à fond plat destinés à être manœuvrés manuellement pour les installations de gaz des bâtiments - Pression maximale de service inférieure ou égale à 500 mbar
+(décembre 2011)
 
 |
 
-1er mai 2002
+Robinetterie de gaz, basse pression. - Robinets à tournant sphérique et robinets à tournant conique à fond plat destinés à être manœuvrés manuellement pour les installations de gaz des bâtiments. - Pression maximale de service inférieure ou égale à 500 mbar
 
 |
 
-1er juillet 2000
+1er janvier 2014
 
 |
 
-|
-
-XP E 29-140
-
-(décembre 1999)
-
-|
-
-Robinets de commande pour appareils à usage domestique utilisant les combustibles gazeux - Robinets de sécurité (à obturation automatique intégrée)
-
-|
-
-31 décembre 2000
-
-|
-
-1er juillet 2000
+1er janvier 2012
 
 |
 
 |
 
-XP E 29-141
+NF E 29-140
 
-(août 1999)
-
-|
-
-Robinetterie de gaz, moyenne pression - Robinets à tournant sphérique et robinets à tournant conique à fond plat destinés à être manœuvrés manuellement pour les installations de gaz des bâtiments - Pression maximale de service de 5 bar
+(décembre 2011)
 
 |
 
-1er mai 2002
+Robinets de commande pour appareils à usage domestique utilisant les combustibles gazeux. - Robinets de sécurité (à obturation automatique intégrée)
 
 |
 
-1er juillet 2000
+1er janvier 2014
 
 |
 
-|
-
-XP E 29-142
-
-(janvier 2005)
-
-|
-
-Robinetterie de gaz, moyenne pression - Robinets dits poussoirs (types F et F1)
-
-|
-
-1er septembre 2007
-
-|
-
-1er septembre 2006
+1er janvier 2012
 
 |
 
 |
 
-XP E 29-190-2
+NF E 29-141
 
-(juillet 2006)
-
-|
-
-Appareils de régulation de pression de gaz (régulateurs) pour réseaux de distribution et branchements - Partie 2 : Régulateurs de type B
+(décembre 2011)
 
 |
 
-1er novembre 2010
+Robinetterie de gaz, moyenne pression. - Robinets à tournant sphérique et robinets à tournant conique à fond plat destinés à être manœuvrés manuellement pour les installations de gaz des bâtiments. - Pression maximale de service de 5 bar
 
 |
 
-1er novembre 2007
+1er janvier 2014
+
+|
+
+1er janvier 2012
+
+|
+
+|
+
+NF E 29-142
+
+(décembre 2011)
+
+|
+
+Robinetterie de gaz, moyenne pression. - Robinets dits poussoirs (types F et F1)
+
+|
+
+1er janvier 2014
+
+|
+
+1er janvier 2012
+
+|
+
+|
+
+NF E 29-190-2
+
+(mai 2011)
+
+|
+
+Appareils de régulation de pression de gaz (régulateurs) pour réseaux de distribution et branchements. - Partie 2 : régulateurs de type B
+
+|
+
+1er juillet 2012
+
+|
+
+1er janvier 2012
 
 |
 
@@ -666,7 +704,7 @@ NF EN 751-1
 
 |
 
-Matériaux d'étanchéité pour raccords filetés en contact des gaz de la 1re, 2e et 3e famille et de l'eau chaude - Partie 1 : composition d'étanchéité anaérobie.
+Matériaux d'étanchéité pour raccords filetés en contact des gaz de la 1re, 2e et 3e famille et de l'eau chaude. - Partie 1 : composition d'étanchéité anaérobie.
 
 |
 
@@ -688,7 +726,7 @@ NF EN 751-2
 
 |
 
-Matériaux d'étanchéité pour raccords filetés en contact des gaz de la 1re, 2e et 3e famille et de l'eau chaude - Partie 2 : composition d'étanchéité non durcissante.
+Matériaux d'étanchéité pour raccords filetés en contact des gaz de la 1re, 2e et 3e famille et de l'eau chaude. - Partie 2 : composition d'étanchéité non durcissante.
 
 |
 
@@ -710,7 +748,7 @@ NF EN 751-3
 
 |
 
-Matériaux d'étanchéité pour raccords filetés en contact des gaz de la 1re, 2e et 3e famille et de l'eau chaude - Partie 3 : bandes en PTFE non fritté.
+Matériaux d'étanchéité pour raccords filetés en contact des gaz de la 1re, 2e et 3e famille et de l'eau chaude. - Partie 3 : bandes en PTFE non fritté.
 
 |
 
@@ -732,7 +770,7 @@ NF M 88-768
 
 |
 
-Installations d'hydrocarbures liquéfiés en récipients - Flexibles de raccordement pour phase gazeuse
+Installations d'hydrocarbures liquéfiés en récipients. - Flexibles de raccordement pour phase gazeuse
 
 |
 
@@ -752,7 +790,7 @@ XP M 88-778
 
 |
 
-Installations d'hydrocarbures liquéfiés en bouteilles - Détendeurs basse pression à réglage fixe, directement connectés à une bouteille de butane ou de propane commercial, à usage domestique
+Installations d'hydrocarbures liquéfiés en bouteilles. - Détendeurs basse pression à réglage fixe, directement connectés à une bouteille de butane ou de propane commercial, à usage domestique
 
 |
 
@@ -772,7 +810,7 @@ XP M 88-779
 
 |
 
-Installations d'hydrocarbures liquéfiés - Détendeurs et inverseurs automatiques pour installations domestiques de butane ou de propane à pression de détente jusqu'à 4 bar de débit inférieur ou égal à 100 kg/ h
+Installations d'hydrocarbures liquéfiés. - Détendeurs et inverseurs automatiques pour installations domestiques de butane ou de propane à pression de détente jusqu'à 4 bar de débit inférieur ou égal à 100 kg/ h
 
 |
 
@@ -852,7 +890,7 @@ NF EN 593
 
 |
 
-Robinetterie industrielle - Robinets métalliques à papillon
+Robinetterie industrielle. - Robinets métalliques à papillon
 
 |
 
@@ -874,7 +912,7 @@ NF EN 1555-1
 
 |
 
-Systèmes de canalisations en plastique pour la distribution de combustibles gazeux - Polyéthylène (PE) - Partie 1 : généralités
+Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Partie 1 : généralités
 
 |
 
@@ -894,7 +932,7 @@ NF EN 1555-2
 
 |
 
-Systèmes de canalisations en plastique pour la distribution de combustibles gazeux - Polyéthylène (PE) - Partie 2 : tubes
+Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Partie 2 : tubes
 
 |
 
@@ -914,7 +952,7 @@ NF EN 1555-3
 
 |
 
-Systèmes de canalisations en plastique pour la distribution de combustibles gazeux - Polyéthylène (PE) - Partie 3 : raccords
+Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Partie 3 : raccords
 
 |
 
@@ -930,19 +968,19 @@ Systèmes de canalisations en plastique pour la distribution de combustibles gaz
 
 NF EN 1555-4
 
-(avril 2003) (2)
+(décembre 2011)
 
 |
 
-Systèmes de canalisations en plastique pour la distribution de combustibles gazeux - Polyéthylène (PE) - Partie 4 : robinets
+Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Partie 4 : robinets
 
 |
 
-1er septembre 2007
+1er janvier 2012
 
 |
 
-1er septembre 2006
+1er janvier 2012
 
 |
 
@@ -954,7 +992,7 @@ NF EN 1555-5
 
 |
 
-Systèmes de canalisations en plastique pour la distribution de combustibles gazeux - Polyéthylène (PE) - Partie 5 : aptitude à l'emploi du système
+Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Partie 5 : aptitude à l'emploi du système
 
 |
 
@@ -974,7 +1012,7 @@ NF T 54-969
 
 |
 
-Systèmes de canalisations en plastique pour la distribution de combustibles gazeux - Polyéthylène (PE) - Accessoires électrosoudables - Temps de sécurité du cycle de soudage
+Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Accessoires électrosoudables. - Temps de sécurité du cycle de soudage
 
 |
 
@@ -994,7 +1032,7 @@ NF T 54-972
 
 |
 
-Systèmes de canalisations en plastique pour la distribution de combustibles gazeux - Polyéthylène (PE) - Robinets - Plage angulaire d'étanchéité et spécifications dimensionnelles complémentaires
+Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Robinets - Plage angulaire d'étanchéité et spécifications dimensionnelles complémentaires
 
 |
 
@@ -1011,7 +1049,5 @@ Systèmes de canalisations en plastique pour la distribution de combustibles gaz
 (1) Colonne 3 : cas des matériels d'un modèle en vente sur le marché français à la date de publication de l'arrêté d'homologation de la norme ou de l'arrêté fixant les dates de mise en application obligatoire de la norme. Cas des matériels pour lesquels à cette même date une procédure est en cours pour faire reconnaître leur conformité à la norme précédente en vigueur.
 
 Colonne 4 : cas des matériels correspondant à des modèles non commercialisés sur le marché français à la date de publication de l'arrêté d'homologation de la norme ou de l'arrêté fixant les dates de mise en application obligatoire de la norme.
-
-(2) Une nouvelle version devrait paraître en 2011. La date de départ de l'obligation de conformité avec cette nouvelle version sera d'un an à compter de la date de sa publication.
 
 |
