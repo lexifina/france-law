@@ -1,0 +1,9 @@
+# Réponse à la question n° 6081
+
+- Question : [6081](6081.md) — Question n° 6081 — rapport; propositions
+
+## Réponse
+
+*JO du 2013-01-01*
+
+Depuis 2008, un comité de sélection est constitué pour pourvoir chaque emploi d'enseignant-chercheur en établissement public à caractère scientifique, culturel et professionnel ou dans tout autre établissement d'enseignement supérieur. Le système mis en place est très souple et permet de composer chaque comité de sélection en fonction du profil de poste publié en faisant appel notamment à des personnalités de renommée internationale. Le comité de sélection, créé par le conseil d'administration, peut, si l'établissement le souhaite, être composé entièrement de personnalités étrangères. Le déroulement des concours est désormais organisé en application de l'article 9 du décret n° 84-43 du 6 juin 1984 modifié fixant les dispositions statutaires communes applicables aux enseignants-chercheurs et portant statut particulier du corps des professeurs des universités et du corps des maîtres de conférences, sous la responsabilité des chefs d'établissement. Pour des emplois qui ont une importance particulière, les établissements peuvent, en complément de l'affichage sur le portail Galaxie du ministère de l'enseignement supérieur et de la recherche, accessible par internet et très visible au niveau international, organiser librement une communication externe destinée à élargir le cercle des candidatures et solliciter des personnalités universitaires déjà en poste dans les établissements français ou étrangers. Les personnalités sollicitées doivent, le cas échéant, respecter les formalités administratives auxquelles sont soumises toutes les candidatures, dans le respect des règles régissant le recrutement des fonctionnaires, soumis au statut général et au statut particulier du corps auquel ils souhaitent accéder.
