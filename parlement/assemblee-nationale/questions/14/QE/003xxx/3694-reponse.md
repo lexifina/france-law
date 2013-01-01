@@ -1,0 +1,9 @@
+# Réponse à la question n° 3694
+
+- Question : [3694](3694.md) — Question n° 3694 — mendicité; utilisation d'animaux de compagnie; lutte et prévention
+
+## Réponse
+
+*JO du 2013-01-01*
+
+Au regard du développement de la mendicité sur la voie publique en présence d'animaux domestiques, le Ministère de l'intérieur a, conjointement avec le Ministère chargé de l'agriculture, adressé une circulaire n° NORIOCK1108025C du 13 mai 2011 relative à l'exploitation animale à des fins de mendicité aux préfets et préfet de police. Dans cette circulaire, les préfets sont invités à s'assurer que ces animaux sont gardés dans des conditions conformes à la réglementation en vigueur en matière de protection animale, de sécurité et de santé publiques. Ainsi, les préfets doivent veiller à ce que les contrôles de police et de gendarmerie de leur département soient effectués afin de s'assurer du bon état d'entretien de ces animaux et, le cas échéant, de signaler au procureur de la République les manquements aux dispositions du code pénal, telles que celles sanctionnant les mauvais traitements (articles 521-1 ou R. 654-1 du code pénal). Il est également rappelé en la matière les dispositions du code rural et de la pêche maritime, telles que celles, par exemple, portant sur l'identification des chiens âgés de plus de quatre mois (dont le défaut est sanctionné par l'article R. 215-15 du code rural et de la pêche d'une amende forfaitaire) et des chats de plus de sept mois (dont l'identification est obligatoire depuis le 1er janvier 2012). En outre, cette circulaire rappelle que les services de police et de gendarmerie peuvent, le cas échéant, dresser un procès verbal sur le fondement de l'article 313-12-1 du code pénal qui incrimine d'une peine de six mois d'emprisonnement et de 3750 euros d'amende « le fait, en réunion et de manière agressive, ou sous la menace d'un animal dangereux, de solliciter, sur la voie publique, la remise de fonds, de valeurs ou d'un bien ».
