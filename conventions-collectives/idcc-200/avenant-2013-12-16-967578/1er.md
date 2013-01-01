@@ -1,0 +1,7 @@
+# Article 1er
+
+L'article 80 du régime de prévoyance de la convention collective nationale des exploitations frigorifiques est modifié comme suit :
+
+« Article 80
+
+Sont bénéficiaires du régime de prévoyance tous les salariés non cadres ne relevant pas des articles 4 et 4 bis de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 (AGIRC). Les salariés travaillant dans les entreprises entrant dans le champ d'application de la convention collective nationale des exploitations frigorifiques, quelle que soit la nature de leur contrat de travail. »
