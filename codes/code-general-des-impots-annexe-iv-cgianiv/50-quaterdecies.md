@@ -12,48 +12,36 @@ Par tonne
 
 |
 
-Pour les viandes de boucherie
+Pour les viandes d'ongulés domestiques
 
 |
 
-1,68
+2
 
 |
 
-Pour les viandes de volailles et de lapin
+Pour les viandes de volailles et de lapin d'élevage
 
 |
 
-1,35
+1,5
 
 |
 
 Pour les viandes de gibier d'élevage et sauvage :
 
-|
-
-|
-
 - petit gibier à plumes, petit gibier à poils
 
-|
-
-1,35
-
-|
-
-- ratites (autruche, émeu, nandou)
-
-|
-
-2,90
-
-|
+- ratites (autruche, emeu, nandou)
 
 - sanglier et ruminants
 
 |
 
-1,68
+1,5
+
+3
+
+2
 
 |
