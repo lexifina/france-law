@@ -14,7 +14,7 @@ NAVIRES EFFECTUANT DE LA NAVIGATION INTERNATIONALE, CERTIFICATS SPÉCIFIQUES ET 
 
 Nota. - Le visa de plusieurs documents du tableau n'est pas formellement requis par la réglementation internationale mais requis par la présente annexe.
 
-Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes II (2°) et II (3°) de l'article 3-1 du décret n° 84-810 modifié du 30 août 1984 :
+Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes III (2°) et III (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
 
 DOCUMENTS
 
@@ -358,7 +358,7 @@ CSN
 
 |
 
-Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes II (2°) et II (3°) de l'article 3-1 du décret n° 84-810 modifié du 30 août 1984 :
+Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes III (2°) et III (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
 
 CERTIFICATS SPÉCIFIQUES
 
@@ -460,7 +460,7 @@ SCH
 
 |
 
-Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes II (2°) et II (3°) de l'article 3-1 du décret n° 84-810 modifié du 30 août 1984 :
+Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes III (2°) et III (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
 
 CERTIFICATS D'EXEMPTIONS DES NAVIRES DONT LA DÉLIVRANCE
 
