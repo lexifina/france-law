@@ -6,14 +6,6 @@ A.-Pour les déchets ménagers et assimilés mentionnés au 1 de l'article 266 s
 
 a) Déchets ménagers et assimilés réceptionnés dans une installation de stockage de déchets ménagers et assimilés ou transférés vers une telle installation située dans un autre Etat :
 
-|
-
-|
-
-QUOTITÉ EN EUROS
-
-|
-
 DÉSIGNATION DES MATIÈRES
 
 ou opérations imposables
@@ -23,6 +15,10 @@ ou opérations imposables
 UNITÉ
 
 de perception
+
+|
+
+QUOTITÉ EN EUROS
 
 |
 
@@ -262,14 +258,6 @@ Cette réduction est égale à 0,50 € par tonne en 2009, 0,60 € par tonne en
 
 b) Déchets ménagers et assimilés réceptionnés dans une installation d'incinération de déchets ou transférés vers une telle installation située dans un autre Etat :
 
-|
-
-|
-
-QUOTITÉ EN EUROS
-
-|
-
 DÉSIGNATION DES MATIÈRES
 
 ou opérations imposables
@@ -279,6 +267,10 @@ ou opérations imposables
 UNITÉ
 
 de perception
+
+|
+
+QUOTITÉ EN EUROS
 
 |
 
@@ -500,7 +492,7 @@ Tonne
 
 |
 
-10, 03 (10,32 en 2009)
+10,03 (10,32 en 2009)
 
 |
 
@@ -512,7 +504,7 @@ Tonne
 
 |
 
-20, 01 (20,59 en 2009)
+20,01 (20,59 en 2009)
 
 |
 
@@ -526,7 +518,7 @@ Tonne
 
 |
 
-43, 24 (44,49 en 2009)
+136,02
 
 |
 
@@ -538,7 +530,7 @@ Tonne
 
 |
 
-43, 24 (44,49 en 2009)
+43,24 (44,49 en 2009)
 
 |
 
@@ -550,7 +542,7 @@ Tonne
 
 |
 
-64, 86 (66,74 en 2009)
+64,86 (66,74 en 2009)
 
 |
 
@@ -562,7 +554,7 @@ Tonne
 
 |
 
-51, 89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
+51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
 |
 
@@ -574,7 +566,7 @@ Tonne
 
 |
 
-43, 24 (44,49 en 2009)
+136,02
 
 |
 
@@ -586,7 +578,67 @@ Tonne
 
 |
 
-64, 86 en 2009 et 85 à compter de 2010
+259,86
+
+|
+
+Arsenic
+
+|
+
+Kilogramme
+
+|
+
+500
+
+|
+
+Sélénium
+
+|
+
+Kilogramme
+
+|
+
+500
+
+|
+
+Mercure
+
+|
+
+Kilogramme
+
+|
+
+1 000
+
+|
+
+Benzène
+
+|
+
+Kilogramme
+
+|
+
+5
+
+|
+
+Hydrocarbures aromatiques polycycliques
+
+|
+
+Kilogramme
+
+|
+
+50
 
 |
 
@@ -598,7 +650,7 @@ Tonne
 
 |
 
-44, 02 (45,30 en 2009)
+44,02 (45,30 en 2009)
 
 |
 
@@ -612,7 +664,7 @@ Tonne
 
 |
 
-39, 51(40,66 en 2009)
+39,51(40,66 en 2009)
 
 |
 
@@ -624,7 +676,7 @@ Tonne
 
 |
 
-170, 19 (175,13 en 2009)
+170,19 (175,13 en 2009)
 
 |
 
@@ -636,7 +688,7 @@ Tonne
 
 |
 
-283, 65 (291,88 en 2009)
+283,65 (291,88 en 2009)
 
 |
 
@@ -648,7 +700,7 @@ Tonne
 
 |
 
-0, 20
+0,20
 
 |
 
@@ -662,7 +714,7 @@ Délivrance d'autorisation :
 
 |
 
-501, 61 (516,16 en 2009)
+501,61 (516,16 en 2009)
 
 |
 
@@ -672,7 +724,7 @@ Délivrance d'autorisation :
 
 |
 
-1 210, 78 (1 245,89 en 2009)
+1 210,78 (1 245,89 en 2009)
 
 |
 
@@ -682,7 +734,7 @@ Délivrance d'autorisation :
 
 |
 
-2 525, 35 (2 598,59 en 2009)
+2 525,35 (2 598,59 en 2009)
 
 |
 
@@ -694,7 +746,7 @@ Exploitation au cours d'une année civile (tarifs de base) :
 
 |
 
-339, 37 (349,21 en 2009)
+339,37 (349,21 en 2009)
 
 |
 
@@ -704,23 +756,11 @@ Exploitation au cours d'une année civile (tarifs de base) :
 
 |
 
-380, 44 (391,47 en 2009)
+380,44 (391,47 en 2009)
 
 |
 
-Imprimés papiers émis à destination des utilisateurs finaux
-
-|
-
-Kilogramme
-
-|
-
-0,12
-
-|
-
-Papiers à usage graphique, transformés, manufacturés, conditionnés et destinés à être imprimés par ou pour le compte d'utilisateurs finaux
+Sacs de caisse à usage unique en matière plastique
 
 |
 
@@ -728,49 +768,25 @@ Kilogramme
 
 |
 
-2010
+10
 
 |
 
-0,06
+1 bis. A compter du 1er janvier 2013, les tarifs mentionnés au 1 sont relevés, chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année.
 
-|
+Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter :
 
-|
+a) Du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ;
 
-|
+b) Du 1er janvier 2016 aux tarifs mentionnés au a du même A ;
 
-2011
+c) Du 1er janvier 2015 au tarif applicable aux sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.
 
-|
-
-0,12
-
-|
-
-Sacs de caisse à usage unique en matière plastique |
-
-Kilogramme |
-
-10 |
-
-|
-
-1 bis. A compter du 1er janvier 2009, les tarifs mentionnés au 1 sont relevés, chaque année, dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
-
-Toutefois, l'alinéa précédent ne s'applique :
-
-a) Qu'à compter du 1er janvier 2010 aux tarifs applicables aux poussières totales en suspension et aux matériaux d'extraction ;
-
-b) Qu'à compter du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ;
-
-c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1 ;
-
-d) Qu'à compter du 1er janvier 2015 au tarif applicable aux sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.
+.
 
 2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article 266 sexies est de 450 € par installation.
 
-3. Le seuil d'assujettissement à la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 5 000 kilogrammes.
+3. (Alinéa abrogé).
 
 4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
 
@@ -782,7 +798,7 @@ d) Qu'à compter du 1er janvier 2015 au tarif applicable aux sacs de caisse à u
 
 7. Le décret en Conseil d'Etat prévu au b du 8 du I de l'article 266 sexies fixe un coefficient multiplicateur compris entre un et dix pour chacune des activités exercées dans les installations classées, en fonction de sa nature et de son volume. Le montant de la taxe effectivement perçue chaque année par établissement au titre de chacune de ces activités est égal au produit du tarif de base fixé dans le tableau figurant au 1 du présent article et du coefficient multiplicateur.
 
-8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 50 tonnes par an.
+8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 5 tonnes par an.
 
 NOTA :
 

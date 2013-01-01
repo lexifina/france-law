@@ -8,8 +8,12 @@ Lorsqu'une même option a donné lieu à des achats ou des ventes effectués à 
 
 Les opérations qui ne sont pas dénouées au 31 décembre sont prises en compte pour la détermination du profit de l'année au cours de laquelle elles sont dénouées.
 
-3. Le 11 de l'article 150-0 D, l'article 96 A et le 2 de l'article 200 A sont applicables.
+3. Le 11 de l'article 150-0 D et le 2 de l'article 200 A sont applicables.
 
 4. Un décret fixe les obligations déclaratives incombant aux intermédiaires (1).
 
 (1) Voir les articles 41 septdecies L à 41 septdecies O de l'annexe III et l'article R. 96 C 2 du livre des procédures fiscales.
+
+NOTA :
+
+Loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013, article 10 V : Ces dispositions s'appliquent aux gains nets et profits réalisés à compter du 1er janvier 2013, aux distributions perçues à compter du 1er janvier 2013 et aux transferts de domicile fiscal hors de France intervenus à compter du 1er janvier 2013.
