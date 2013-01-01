@@ -1,41 +1,101 @@
 # Article ANNEXE XVI
 
-Liste des épreuves et échelles de cotation
+ÉCONOMIE DE LA SANTÉ
 
-L'exécution des épreuves est soumise aux règlements des fédérations françaises d'athlétisme et de natation ; compte tenu des observations particulières suivantes :
+1. L'organisation des systèmes de santé :
 
-Liste des épreuves
+Les différents principes d'organisation ; leur évolution historique, les principes actuels.
 
-A. - Pour les hommes :
+La diversité des modes d'organisation.
 
-1° Course de 100 mètres : un seul essai, course individuelle ;
+Les comparaisons internationales des systèmes de santé (pays de l'OCDE).
 
-2° Course de 1 000 mètres : course en ligne avec un maximum de dix candidats par course ;
+Les notions de système de santé et de système de soins.
 
-3° Saut en hauteur : trois essais à chaque hauteur. Le candidat peut s'abstenir de sauter l'une ou plusieurs de ces hauteurs. La note obtenue est celle correspondant à la plus grande hauteur réellement franchie ;
+2. Méthodologie et épidémiologie :
 
-4° Lancer du poids de 6 kilogrammes : trois essais non consécutifs, le meilleur essai comptant ;
+2.1 Les apports de la démographie :
 
-5° Un parcours de 50 mètres nage libre chronométré, départ plongé.
+Les indicateurs démographiques ;
 
-B. - Pour les femmes :
+- population : état, mouvements et tendances ;
 
-1° Course de 60 mètres : un seul essai, course individuelle ;
+- effets sur le système de santé ;
 
-2° Course de 300 mètres : course en ligne avec un maximum de dix candidates par course ;
+- politique de l'emploi et politique de la santé ;
 
-3° Saut en hauteur : mêmes conditions que pour les hommes ;
+- qualité de la vie, mode de vie, niveau de vie et contraintes économiques.
 
-4° Lancer du poids de 4 kilogrammes : trois essais non consécutifs, le meilleur essai comptant ;
+2.2. Les approches économiques du domaine de la santé :
 
-5° Un parcours de 50 mètres nage libre chronométré, départ plongé.
+Les comptes de la santé (approche macro-économique) :
 
-Echelles de cotation
+- concepts et méthodes de la comptabilité nationale et du compte satellite "Santé" ;
 
-Toute performance qui se traduirait par une fraction de note sera appréciée à la note inférieure.
+- tendances à long terme et évolution récente des principaux agrégats ;
 
-Une bonification d'un point est attribuée par année au-dessus de vingt-sept ans, l'âge étant apprécié au 1er janvier de l'année du concours.
+- l'aide à la décision dans le domaine de la santé (approche micro-économique) ;
 
-Cette bonification est ajoutée au total général obtenu à l'issue des différents exercices et avant calcul de la moyenne.
+- principes et méthodologie de l'évaluation économique (calcul des coûts/indicateurs de résultats médico-économiques/pilotage de la performance ; exemples d'application.
 
-(Voir tableaux pages suivantes (non reproduits)).
+2.3. Epidémiologie :
+
+Les définitions de la santé.
+
+La définition de l'invalidité et du handicap.
+
+Les indicateurs :
+
+- démographiques (natalité, mortalité, espérance de vie, pyramide des âges, taux de fécondité) ;
+
+- santé (incidence, prévalence, morbidité, mortalité infantile).
+
+Les principes des indicateurs de qualité de crise.
+
+Les recueils de données en épidémiologie.
+
+Les principales sources d'information dont les registres (principes).
+
+La notion de risque, risque relatif et "odd ratio".
+
+Les limites d'analyse et principaux biais (critiques de l'information).
+
+Les types d'enquêtes épidémiologiques : observation, analytiques (cohortes, cas témoins), interventionnelles.
+
+3. La production :
+
+Les facteurs de production :
+
+- ressources humaines : volume et structure de l'emploi, âge, sexe, qualification, rémunération ;
+
+- organisation des professions de santé et évolution ;
+
+- équipements : structure et évolution des capacités de production ;
+
+- progrès technique : diffusion des innovations.
+
+Les secteurs et unités de production :
+
+- volume et structure de la production et évolution, structure des coûts, formation des prix, stratégies ;
+
+- secteur hospitalier : organisation et évolutions ;
+
+- secteur de soins ambulatoires et à domicile ;
+
+- industrie pharmaceutique.
+
+4. La consommation :
+
+Valeurs, structure et évolution de la consommation de soins et de biens médicaux.
+
+Analyse des disparités démographiques, géographiques et socio-économiques.
+
+5. Le financement et la maîtrise des dépenses :
+
+Structure et évolution du financement.
+
+Modalités de financement et comportement des acteurs du système de santé.
+
+Les différentes approches de la maîtrise des dépenses.
+
+Ethique et choix économiques face aux besoins des usagers.

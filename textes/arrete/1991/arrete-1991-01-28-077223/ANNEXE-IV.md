@@ -1,13 +1,143 @@
 # Article ANNEXE IV
 
-Mathématiques et sciences physiques
+SANTÉ PUBLIQUE
 
-Programmes de mathématiques et de sciences physiques de classe de biologie mathématiques spéciales définis aux annexes I et II de l'arrêté du 7 septembre 1988.
+1. Définition de la santé et épidémiologie :
 
-Bulletin officiel du ministère de l'éducation nationale, de la jeunesse et des sports n° 34 du 13 octobre 1988.
+Définitions de la santé.
 
-Centre national de documentation pédagogique. - Brochure n° 001 F 6067.
+Définition de l'invalidité et du handicap.
 
-Note : Emploi des calculatrices.
+Indicateurs :
 
-L'emploi des calculatrices est défini par la réglementation en vigueur pour les examens et concours relevant du ministère de l'éducation nationale. Les élèves doivent savoir utiliser une calculatrice programmable. Les capacités suivantes sont seules exigibles : programmation des valeurs d'une fonction d'un ou plusieurs variables, des valeurs d'une suite, des sommes partielles d'une série, à quoi il convient d'ajouter, en raison de l'introduction de l'informatique, la programmation d'une séquence et d'une instruction conditionnelle ou itérative.
+- démographiques (natalité, mortalité, espérance de vie, pyramide des âges, taux de fécondité) ;
+
+- santé (incidence, prévalence, morbidité, mortalité infantile).
+
+Principes des indicateurs de qualité de crise.
+
+Recueils de données en épidémiologie.
+
+Principales sources d'information dont les registres (principes).
+
+Notion de risque, risque relatif et odd ratio .
+
+Limites d'analyse et principaux biais (critiques de l'information).
+
+Les types d'enquêtes épidémiologiques : observation, analytiques (cohortes, cas témoins), interventionnelles.
+
+2. Economie de la santé et système de santé :
+
+2.1. Généralités :
+
+Notion de système de santé.
+
+Définitions : efficacité, efficience, productivité, utilité.
+
+Principes des évaluations médico-économiques : coût/efficacité, coût/bénéfice, coût/utilité.
+
+Analyse des disparités géographiques et sociales en matière de santé.
+
+Principes des liens entre santé, économie et éthique.
+
+2.2. Analyse macroéconomique ; les comptes de la santé et leur évolution :
+
+Les principaux agrégats des comptes de la santé en France : consommation de services et biens médicaux (CSBM), dépense courante de santé (DCS).
+
+Le financement des dépenses de santé.
+
+Evolution des dépenses de santé en France et à l'étranger (agrégat : DTS).
+
+2.3. Analyse microéconomique :
+
+Particularités des biens et services médicaux : asymétrie d'information, formation des prix.
+
+Facteurs de la consommation des soins de santé.
+
+Maîtrise des dépenses de santé.
+
+2.4. Mesure de l'activité hospitalière : PMSI.
+
+2.5. Allocation de ressources et planification sanitaire :
+
+Tarification des biens et services médicaux, modalités de rémunération des professionnels de santé libéraux.
+
+2.6. Eléments du système de santé français :
+
+Les professionnels de santé : aspects démographiques, exercice professionnel des médecins hospitaliers.
+
+L'industrie pharmaceutique et la distribution des médicaments hors de l'hôpital.
+
+L'administration de la santé : les agences régionales de santé (missions) ; ministère chargé de la santé et les agences nationales (missions).
+
+Modalités de financement des établissements hospitaliers, la tarification à l'activité, les MIGAC.
+
+Principes et évolution de l'allocation des ressources (prix de journée, dotation globale, tarification à l'activité, forfaits...).
+
+3. Santé et prévention :
+
+Définition générales :
+
+- la prévention primaire, secondaire, tertiaire ;
+
+- les préventions : universelle, sélective et ciblée (GORDON).
+
+Education à la santé.
+
+Education thérapeutique.
+
+Prévention pour les populations vulnérables :
+
+- migrants ;
+
+- personnes âgées ;
+
+- protection maternelle et infantile.
+
+Lutte contre les addictions : définition, principes, organisation.
+
+Les principes des vaccinations.
+
+Les principes du dépistage.
+
+4. La qualité dans le système de soins :
+
+Principes et définition de la qualité.
+
+Evaluation des pratiques professionnelles (EPP).
+
+La certification hospitalière.
+
+L'accréditation des équipes et des personnes.
+
+Définition des différentes vigilances.
+
+5. Protection sociale :
+
+Définition des risques sociaux et place de la santé.
+
+Prise en charge des risques sociaux en prenant l'exemple du financement de la CSBM.
+
+Place de l'assurance maladie obligatoire (AMO) :
+
+- principe de la prise en charge des soins de ville, des soins hospitaliers, et des médicaments en médecine de ville ;
+
+- ticket modérateur et forfaits à la charge du patient ;
+
+- affections de longue durée (ALD).
+
+Définition CMU et AME.
+
+Assurance maladie complémentaire (AMC).
+
+Différents types d'AMC.
+
+6. Hygiène à l'hôpital :
+
+Définition et gestion des eaux usées et des déchets hospitaliers.
+
+Eléments d'hygiène alimentaire collective.
+
+Eléments d'organisation contre les infections nosocomiales.
+
+Principes de gestion de crises sanitaires.

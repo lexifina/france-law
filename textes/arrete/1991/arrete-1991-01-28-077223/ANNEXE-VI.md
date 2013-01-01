@@ -1,91 +1,69 @@
 # Article ANNEXE VI
 
-Finances publiques
+DROIT CIVIL
 
-I. - La notion de loi de finances
+I. - Les sources du droit :
 
-1. La définition de la loi de finances annuelle.
+Le renouvellement des sources (constitutionnelle, européenne).
 
-2. La définition des lois de finances rectificatives et des lois de règlement.
+L'interprétation en droit civil.
 
-3. La définition du budget de l'Etat.
+L'évolution du droit civil depuis 1804.
 
-4. La règle de l'annualité budgétaire : définition, contenu, exception (les autorisations de programme).
+II. - Les personnes :
 
-5. Le principe de l'unité budgétaire :
+Les personnes physiques, la personnalité juridique (conditions, durée, absence, disparition) ; droits de l'homme ; droits de la personnalité (secret, respect de la vie privée) ; nom, domicile, état civil.
 
-- définition des budgets autonomes, budgets annexes, comptes spéciaux du Trésor ;
+Les personnes morales : personnalité morale, classification (société, société unipersonnelle, associations, fondations, fiducie) ; condition juridique.
 
-- énumération, contenu et justification des budgets annexes, et des comptes spéciaux du Trésor.
+III. - Droit de la famille :
 
-6. La règle de l'universalité budgétaire : définition, contenu, exceptions.
+Le mariage et les régimes matrimoniaux, le divorce, la séparation de corps, le concubinage.
 
-II. - La préparation des lois de finances
+La filiation légitime, la filiation naturelle, la filiation par adoption.
 
-1. Les méthodes de préparation rationnelle des futures décisions (la rationalisation des choix budgétaires).
+L'autorité parentale.
 
-2. Le rôle du Gouvernement et du ministre des finances dans la préparation du projet de loi de finances (les services du ministère des finances et leurs rapports avec les autres administrations).
+IV. - Propriété et possession :
 
-3. Les problèmes d'évolution des dépenses et des recettes budgétaires.
+L'usufruit ; les servitudes.
 
-4. La planification : les liaisons plan - budget.
+Les constructions sur le terrain d'autrui.
 
-III. - Le vote des lois de finances
+La copropriété des immeubles divisés par appartements.
 
-1. La procédure de saisine du Parlement.
+La règle : En fait de meubles...
 
-2. La procédure du vote de la loi de finances.
+Le patrimoine.
 
-3. Les limitations et le contrôle de l'initiative parlementaire en matière budgétaire.
+V. - Les obligations :
 
-IV. - Le contenu des lois de finances
+Les obligations contractuelles.
 
-1. Les charges publiques.
+Définition du contrat, formation et validité (échange des consentements, vices du consentement, capacité, objet et cause, protection du consommateur, conditions de forme).
 
-2. Les ressources publiques.
+Force obligatoire (autonomie de la volonté, imprévision, interprétation du contrat).
 
-3. Portée des autorisations budgétaires.
+Effets à l'égard des tiers (stipulation pour autrui, promesse pour autrui, contrats collectifs).
 
-V. - L'exécution des lois de finances
+Simulation dans les contrats.
 
-1. L'exécution administrative et comptable des lois de finances :
+Nullité, résolution, résiliation.
 
-- règles et procédures d'exécution des dépenses publiques ;
+Responsabilité contractuelle (conditions, réparation, clauses de non-responsabilité, clauses pénales).
 
-- règles et procédures d'exécution des recettes publiques ;
+Modalités des obligations (terme et condition, monnaie, clauses d'indexation), obligations complexes (solidarité passive, obligations in solidum, cautionnement).
 
-- principes généraux de la comptabilité publique.
+Transmission des obligations (cession de créances, cession de dettes, cession de contrats) et extinction (paiement, novation, délégation, compensation).
 
-2. L'exécution économique et financière des lois de finances :
+La responsabilité délictuelle et quasi délictuelle (art. 1382 à 1386 du code civil) ; conditions, réparation du dommage ; réparation des accidents de la circulation.
 
-- l'organisation du Trésor ;
+Quasi-contrats, gestion d'affaires, enrichissement sans cause.
 
-- le rôle du Trésor public ;
+VI. - Consommation :
 
-- les opérations du Trésor.
+Protection du consommateur dans le domaine de la vente et du crédit ; les clauses abusives, les produits dangereux ; droit français et droit communautaire.
 
-VI. - Le contrôle de l'exécution des lois de finances
+VII. - La vente immobilière :
 
-1. Les contrôles financiers internes.
-
-2. Les contrôles de la Cour des comptes et des institutions associées.
-
-3. Les contrôles parlementaires.
-
-VII. - Les finances locales
-
-1. Ressources et dépenses des collectivités locales.
-
-2. Le budget des collectivités locales :
-
-- principes généraux : annualité, universalité, équilibre ;
-
-- élaboration, exécution ;
-
-- les contrôles des chambres régionales des comptes.
-
-3. Les interventions économiques des collectivités locales :
-
-- modalités ;
-
-- financement.
+Les principes généraux de la publicité foncière.

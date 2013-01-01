@@ -1,121 +1,101 @@
 # Article ANNEXE V
 
-Santé publique
+SCIENCES ÉCONOMIQUES
 
-1. Epidémiologie
+Macroéconomie
 
-Grands principes de base :
+1. Le cadre comptable de l'activité économique :
 
-Collecte, codage, standardisation et utilisation des données de natalité, morbidité, invalidité, mortalité.
+1.1. Les principes généraux de la comptabilité nationale et les comptes d'exploitation.
 
-Registres et principales sources d'information en santé.
+1.2. Les tableaux synthétiques (TEE, TES).
 
-Indicateurs de santé : mortalité, santé, incidence, prévalence, indicateurs de qualité de vie.
+1.3. Les agrégats et les identités comptables.
 
-Notion de risque, risque relatif.
+1.4. La balance des paiements et la position extérieure nette.
 
-2. Economie de la santé et système de santé
+1.5. L'évolution des équilibres comptables de la France au cours des cinq dernières années.
 
-2.1. Généralités :
+2. Marchés, comportements et équilibre macroéconomiques en économie fermée :
 
-Notion de système de santé, typologie des systèmes de santé et de protection sociale.
+2.1. Le marché des biens et services et les comportements de consommation, d'épargne et d'investissement.
 
-Indicateurs de besoins, de moyens, de couverture, de production, de résultats, etc.
+2.2. Le marché du travail et les comportements d'offre et de demande de travail.
 
-Evaluation économique : notion d'efficacité, d'efficience, de productivité.
+2.3. Le marché de la monnaie et les comportements d'offre et de demande de monnaie.
 
-Principes des études : coût/efficacité, coût/bénéfice, coût/avantage.
+2.4. L'équilibre macroéconomique classique et keynésien.
 
-Santé, économie, éthique : principaux débats actuels.
+2.5. Le modèle d'équilibre global et la théorie du déséquilibre.
 
-2.2. Analyse macroéconomique :
+2.6. Anticipations rationnelles et équilibre macroéconomique.
 
-Comptabilité nationale.
+2.7. Les principes généraux de la régulation conjoncturelle (politiques budgétaire et monétaire).
 
-Comptes de la santé.
+3. Macroéconomie européenne :
 
-Principaux postes de la consommation médicale.
+3.1 L'économie française et l'Europe.
 
-Evolution des dépenses de santé en France et à l'étranger.
+3.2. La conduite des politiques conjoncturelles dans le cadre de l'Union économique et monétaire.
 
-Financement des dépenses de santé.
+3.3. La conduite des politiques structurelles dans le cadre de l'Union économique et monétaire.
 
-2.3. Analyse microéconomique :
+4. Relations économiques et financières internationales :
 
-Comportement des agents économiques : hôpital, médecins, malades, financeurs.
+4.1 Les institutions et relations monétaires internationales depuis 1944.
 
-Formation des prix.
+4.2. Les faits de la globalisation économique depuis 1974.
 
-Particularités des biens et services médicaux.
+4.3. Les fondements du commerce international.
 
-Analyse des facteurs individuels et collectifs influençant l'évolution des dépenses de santé.
+4.4. L'analyse de l'intégration financière internationale et de ses conséquences.
 
-2.4. Gestion des unités de production de soins :
+Microéconomie
 
-Mesures de l'activité, PMSI.
+1. Mécanismes de marché :
 
-Comptabilité analytique et contrôle de gestion.
+1.1. Définition et description des structures de marché.
 
-Le projet d'établissement et la démarche stratégique.
+1.2. Concepts d'offre et de demande du marché.
 
-Audit.
+1.3. Equilibre du marché et efficacité.
 
-L'évaluation à l'hôpital : évaluation des techniques, évaluation de la qualité des soins, évaluation des établissements (certification) et accréditation des médecins.
+1.4. La notion d'élasticité.
 
-La politique de gestion des risques.
+2. Comportements individuels :
 
-L'informatisation des process de production et le DMP.
+2.1. Théorie du consommateur (préférences et contrainte budgétaire, la décision de consommation, effets revenu et substitution, courbe de demande individuelle, offre de travail et comportement d'épargne).
 
-2.5. Allocation de ressources et planification sanitaire :
+2.2. Théorie du producteur (l'objectif de maximisation du profit, les coûts de l'entreprise, la firme preneuse de prix, la décision de production, la courbe d'offre individuelle, le profit à l'équilibre de long terme).
 
-Analyse des disparités géographiques et sociologiques en matière de santé.
+3. L'équilibre de concurrence pure et parfaite :
 
-Les schémas régionaux d'organisation sanitaire.
+3.1 Définition de l'équilibre concurrentiel.
 
-Modalités de financement des établissements hospitaliers.
+3.2. Equilibre et optimum de Pareto : les deux théorèmes de l'économie du bien-être.
 
-Tarification des biens et services médicaux.
+4. La concurrence imparfaite :
 
-2.6. Eléments du système français :
+4.1 Le monopole.
 
-Les personnels de santé.
+4.2. La concurrence oligopolistique.
 
-Le système hospitalier en France.
+4.3. La concurrence monopolistique.
 
-Les alternatives à hospitalisation, les soins à domicile.
+4.4. Les asymétries d'information.
 
-L'industrie pharmaceutique et biomédicale.
+4.5. Stratégies tarifaires.
 
-L'administration de la santé.
+4.6. L'organisation de la firme (frontières horizontales de la firme, intégration verticale).
 
-3. Santé et prévention
+4.7. Les politiques de concurrence.
 
-Définitions des modèles de représentations de la santé.
+5. Economie publique et défaillances de marché :
 
-Actions de prévention : éducation pour la santé, promotion de la santé, vaccinations, dépistage.
+5.1 Les externalités.
 
-Approches par populations spécifiques :
+5.2. Les biens publics ;
 
-- le nourrisson et le jeune enfant ;
+5.3. Le monopole naturel.
 
-- l'enfant d'âge scolaire et l'adolescent ;
-
-- les personnes en situation de handicap et/ou d'inadaptation sociale ;
-
-- les personnes âgées ;
-
-- les migrants.
-
-4. Hygiène et environnement hospitalier
-
-Les eaux d'alimentation, d'adduction, traitement, contrôle.
-
-Assainissement, eaux usées, déchets hospitaliers.
-
-Hygiène alimentaire collective.
-
-Eléments d'organisation contre les infections hospitalières (architecture, circuits, méthodes d'organisation).
-
-La gestion des risques sanitaires.
-
-5. Les plans de santé publique (loi du 9 août 2004)
+5.4. Le choix social.

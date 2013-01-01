@@ -1,49 +1,63 @@
 # Article ANNEXE IX
 
-Comptabilité privée
+GESTION COMPTABLE ET FINANCIÈRE DES ENTREPRISES
 
-Les principes de la comptabilité générale.
+I. - Comptabilité
 
-Le fonctionnement des comptes.
+A. - Comptabilité générale et financière :
 
-Principes d'élaboration du bilan et du compte de résultat.
+Objet et principes de la comptabilité.
 
-Le plan comptable général 1982.
+Règles de comptabilisation et d'évaluation, normes comptables.
 
-Les systèmes comptables.
+Tenue, structure et fonctionnement des comptes.
 
-Les enregistrements courants : facturations, règlements, salaires.
+Documents de synthèse (bilan, compte de résultat, annexe, tableau de financement).
 
-Les amortissements, les provisions et les régularisations de charges et de produits.
+Les comptes consolidés.
 
-Les documents comptables normalisés (bilan, compte de résultat, annexe).
+B. - Comptabilité de gestion :
 
-Les documents spécifiques au système développé (tableau de financement, soldes intermédiaires de gestion).
+Système d'information et outils d'aide à la décision.
 
-Les problèmes comptables de sociétés commerciales.
+Bases conceptuelles du calcul des coûts (activités, processus, ressources, performances).
 
-La comptabilité analytique d'exploitation, le coût de revient complet, le coût de revient d'imputation rationnelle.
+Méthodes de calcul des coûts (analyse en coûts partiels, coûts complets, coûts préétablis, imputation rationnelle).
 
-Les coûts partiels ; coût variable, coût direct, coût marginal.
+II. - Contrôle de gestion
 
-Les coûts standards et l'analyse comptable des écarts.
+Problématique du contrôle dans les organisations.
 
-Comparaison avec la comptabilité publique.
+La démarche prévisionnelle : stratégie, plans, budgets.
 
-Note : Les candidats ayant choisi l'option comptabilité privée sont autorisés à faire usage pour cette épreuve de calculatrices électroniques de poche non imprimantes à alimentation autonome, à entrée unique par clavier, non programmables, et sans document d'accompagnement. Les possibilités de ces calculatrices devront être limitées aux capacités de calcul suivantes :
+Evaluation des résultats et des performances.
 
-- 4 opérations ;
+Conception et réalisation des dispositifs de pilotage et de contrôle.
 
-- racine carrée ;
+III. - Finance
 
-- fonctions usuelles (trigonométriques, logarithmes, exponentielles) ;
+A. - Théorie et problématique financières :
 
-- mémoire avec entrée en plus ou en moins ;
+Création de valeur.
 
-- changement de signe ;
+Coût et risque des décisions de financement.
 
-- notation scientifique (virgule flottante).
+B. - Analyse financière :
 
-et est également autorisée la liste des comptes du plan comptable 1982.
+Mesure de la rentabilité et du risque.
 
-Les matériels et documents pourront faire l'objet de vérifications et le prêt ou l'échange en seront interdits.
+Méthodologie du diagnostic.
+
+Evaluation des entreprises.
+
+C. - Gestion financière :
+
+Environnement financier de l'entreprise.
+
+Gestion des investissements et des financements à long et à moyen termes.
+
+Gestion financière du court terme.
+
+Gestion de la trésorerie.
+
+Gestion dans le cadre international.

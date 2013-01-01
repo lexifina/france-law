@@ -1,41 +1,9 @@
 # Article ANNEXE XIV
 
-I. - Statistique descriptive
+LANGUES VIVANTES
 
-Généralités, définitions : unités et caractères.
+Les candidats devront être capables de soutenir une conversation courante dans la langue choisie, le niveau de connaissance requis étant :
 
-Classification des caractères : continu, discontinu.
+- pour le concours externe, équivalent à deux années d'études après le baccalauréat (études non spécialisées en langue) ;
 
-Les séries statistiques.
-
-Distributions statistiques et représentations graphiques.
-
-Les caractéristiques de valeur centrale : médiane, mode et moyennes.
-
-Les caractéristiques de dispersion : quartilles, écart moyen, variance et écart type.
-
-Les nombres indices.
-
-II. - Théorie des probabilités
-
-Définitions : épreuves, événements, espace des possibles, variable aléatoire, mesure.
-
-Axiomes du calcul des probabilités.
-
-Epreuves répétées : loi des grands nombres.
-
-Probabilités conditionnelles.
-
-Caractéristiques des lois de probabilité moyenne et moments d'ordre supérieur ; écart type, fonction de répartition.
-
-Lois de probabilité à une variable (discrète) : loi uniforme, loi binominale, loi de Poisson, loi hypergéométrique.
-
-Lois de probabilité à une variable (continue) : loi uniforme, loi normale, loi log normale, loi de Paréto.
-
-Lois de probabilité à plusieurs variables.
-
-III. - Statistique inductive
-
-Jugement sur échantillon ; méthodes de sondage ; distribution d'échantillonnage ; ajustement à une loi théorique ; estimation et signification des paramètres ; comparaison des paramètres ; les estimateurs ; les tests X 2 et F de Snédécor.
-
-Dépendance statistique ; la droite d'estimation ; régression à deux variables ; corrélation ; régression multiple ; corrélation partielle ; multicolinéarité.
+- pour le concours interne, équivalent au baccalauréat.

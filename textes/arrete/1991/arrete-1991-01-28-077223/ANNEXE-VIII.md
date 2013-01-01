@@ -1,101 +1,57 @@
 # Article ANNEXE VIII
 
-Programme de la troidéme épreuve d'admissibilité et de la deuxiéme épreuve.
+FINANCES PUBLIQUES
 
-Législation de sécurité sociale et d'aide sociale
+1. Le cadre général des finances publiques :
 
-1. Sécurité sociale
+1.1 Notions historiques sur l'évolution des finances publiques et sources.
 
-1.1. Le système français de sécurité sociale : principes, évolution historique, organisation actuelle :
+1.2. Les structures institutionnelles.
 
-- le régime général des salariés ;
+1.3. Les grands principes budgétaires.
 
-- notions générales sur les régimes spéciaux et autonomes ;
+2. Les documents financiers :
 
-- les régimes complémentaires de retraite et de prévoyance ;
+2.1 Les documents de l'Etat : loi de finances de l'année, loi de finance rectificative, loi de règlement, lois spéciales.
 
-- la mutualité ;
+2.2. Les documents financiers des collectivités territoriales.
 
-- le fonctionnement des caisses.
+2.3. La loi de financement de la sécurité sociale.
 
-1.2. Les comptes de la sécurité sociale : évolution passée et prévisible des dépenses et des recettes :
+2.4. Le budget de l'Union européenne (notions).
 
-- la sécurité sociale dans l'économie nationale ;
+3. La préparation des documents financiers :
 
-- les lois de financement de la sécurité sociale : élaboration, structure, prévisions de recettes, objectifs de dépenses, ONDAM ;
+3.1 Les outils de la prévision budgétaire.
 
-- la compensation ;
+3.2. Les acteurs de la préparation budgétaire.
 
-- les sources de financement (cotisation, CSG, impôt) et l'assiette des cotisations.
+3.3. Le calendrier de la préparation budgétaire.
 
-1.3. Les prestations familiales et la politique de la famille :
+4. L'adoption des documents financiers.
 
-- les aides au logement.
+5. Le contenu des documents financiers :
 
-1.4. Les assurances maladie et maternité :
+5.1 Les ressources.
 
-- les prestations en nature et en espèces ;
+5.2. Les dépenses.
 
-- l'assurance maladie et la politique de santé ;
+5.3. L'équilibre budgétaire.
 
-- les rapports entre les prescripteurs et les organismes d'assurance maladie ;
+5.4. La dette publique.
 
-- la prévention ;
+6. L'exécution des documents financiers :
 
-- l'action sanitaire et sociale des caisses ;
+6.1 La notion de performance.
 
-- les relations entre l'hôpital et les caisses d'assurance maladie.
+6.2. Les acteurs, les principes et les procédures de l'exécution.
 
-1.5. L'assurance vieillesse :
+6.3. La gestion de fait.
 
-- les systèmes de retraite et leur évolution ;
+7. Les relations financières entre l'Etat et les collectivités territoriales.
 
-- la couverture du risque invalidité ;
+8. Les contrôles financiers :
 
-- les prestations aux handicapés enfants et adultes.
+8.1 Les contrôles a priori, en cours d'exécution et a posteriori.
 
-1.6. Les accidents du travail et les maladies professionnelles :
-
-- prévention ;
-
-- réparation ;
-
-- rééducation.
-
-1.7. Le contentieux de la sécurité sociale.
-
-1.8. Généralités sur la sécurité sociale dans les autres pays de l'Union européenne.
-
-1.9. Le droit international de la sécurité sociale.
-
-1.10. La sécurité sociale et les politiques de l'emploi.
-
-2. Aide sociale
-
-2.1. La notion de l'aide sociale :
-
-- le droit de l'aide sociale ;
-
-- la place de l'aide sociale parmi les systèmes de protection sanitaire et sociale (santé publique, sécurité sociale, action sociale, protection de l'enfance, lutte contre la pauvreté et les exclusions).
-
-2.2. Les règles générales de l'aide sociale :
-
-- l'organisation administrative, financière et contentieuse de l'aide sociale (avant et depuis la décentralisation) ;
-
-- le fonctionnement de l'aide sociale (l'admission, le contentieux, la récupération des prestations versées, les rapports entre l'aide sociale et l'obligation alimentaire, etc.).
-
-2.3. Les formes d'aide sociale :
-
-- l'aide médicale ;
-
-- l'aide sociale à l'enfance ;
-
-- l'aide sociale aux personnes âgées ;
-
-- l'aide sociale aux personnes handicapées ;
-
-- l'aide sociale à la famille ;
-
-- l'aide sociale à l'hébergement et à la réadaptation sociale.
-
-2.4. Caractéristiques générales de l'aide sociale dans les principaux pays européens.
+8.2. Les contrôles de nature politique, administratif et juridictionnel.

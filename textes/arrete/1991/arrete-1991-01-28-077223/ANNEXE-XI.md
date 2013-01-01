@@ -1,143 +1,97 @@
 # Article ANNEXE XI
 
-Techniques quantitatives
+LÉGISLATION DE SÉCURITÉ SOCIALE ET AIDE SOCIALE
 
-I. - Statistique descriptive
+1. Législation de sécurité sociale :
 
-Concepts généraux :
+1.1 Le système français de sécurité sociale :
 
-Population, sous-population, unités.
+Evolutions historiques, conceptions, principes, organisation actuelle.
 
-Caractères : classifications (qualitatif, quantitatif) [continu, discret].
+Notions générales sur les régimes spéciaux et autonomes.
 
-Séries statistiques simples (unidimensionnelles) :
+La protection sociale complémentaire.
 
-Résumés graphiques : diagrammes, histogrammes, courbes.
+Les régimes complémentaires de retraite.
 
-Résumés numériques :
+Organisation et fonctionnement des organismes de sécurité sociale.
 
-- tableaux de fréquences, indicateurs ou caractéristiques de position ou valeur centrale ;
+1.2. Le financement de la protection sociale :
 
-- indicateurs ou caractéristiques de dispersion, indicateurs de forme et de concentration.
+La sécurité sociale dans l'économie nationale.
 
-Séries statistiques doubles (bidimensionnelles) :
+Les lois de financement de la sécurité sociale : élaboration, structure, prévisions de recettes, objectifs de dépenses, ONDAM.
 
-Tableaux de fréquence à double entrée.
+La compensation dans les comptes de la sécurité sociale.
 
-Distribution conjointe.
+Les sources de financement ; enjeux et évolutions.
 
-Distribution conditionnelles.
+L'assiette des cotisations : composition et enjeux.
 
-Distributions marginales.
+1.3. Les prestations familiales et la politique de la famille.
 
-Etude de liaison entre deux caractères :
+1.4. L'assurance maladie et la politique de santé :
 
-Tables de contingence.
+Les rapports entre prescripteurs et organismes d'assurance maladie.
 
-Cas de deux caractères totalement ordonnés.
+La médecine libérale et hospitalière.
 
-Rapports de corrélation.
+Les politiques de santé publique.
 
-Etude de la liaison linéaire : coefficient de corrélation linéaire. Détermination des droites de régression par la méthode des moindres carrés.
+La régulation du système de santé ; acteurs, enjeux et évolution.
 
-Séries chronologiques :
+Le rôle et la place de la prévention.
 
-Etude des éléments constitutifs ; tendance, variations saisonnières, variations résiduelles.
+1.5. Les systèmes de retraite et leur évolution.
 
-Méthodes des moyennes mobiles.
+1.6. L'assurance vieillesse :
 
-Les nombres indices :
+1.7. La couverture du risque invalidité :
 
-Définitions et propriétés.
+La prise en charge du handicap (enfants et adultes) ; financement de la dépendance.
 
-Indices usuels : Laspeyre, Paasche, Fischer.
+La Caisse nationale de solidarité (CNSA) et le financement de la perte de l'autonomie.
 
-II. - Concepts fondamentaux de la théorie des probabilités
+1.8. Les accidents du travail et les maladies professionnelles :
 
-Espace de probabilité :
+Prévention, réparation, rééducation.
 
-Représentation d'une expérience aléatoire par un ensemble fondamental, un ensemble d'événements et une mesure de probabilité. Axiomatique élémentaire.
+1.9. Le contentieux de la sécurité sociale :
 
-Variable aléatoire :
+Procédure, acteurs, voies de recours.
 
-Définition. Fonction de répartition.
+Enjeux juridiques et financiers.
 
-Espérance mathématique.
+1.10. Généralités sur l'Union européenne et la protection sociale.
 
-Variances.
+2. Droit de l'aide sociale :
 
-Notions de probabilité conditionnelle et d'indépendance stochastique :
+2.1 La notion d'aide sociale :
 
-Loi des grands nombres.
+Le droit de l'aide sociale.
 
-Lois unidimensionnelles typiques.
+La place de l'aide sociale parmi les systèmes de protection sanitaire et sociale (santé publique, sécurité sociale, action sociale, protection de l'enfance, lutte contre la pauvreté et les exclusions).
 
-Lois discrètes : uniforme, de Bernouilli, binominale, hypergéométrique, Pascal, Poisson.
+2.2. L'organisation de l'aide sociale :
 
-Lois continues : uniforme, normale, log-normale, Pareto, lois du Chicarre, de Fischer-Snedecor.
+Les différents acteurs ; leur rôle.
 
-Couples de variables aléatoires :
+La répartition des compétences en matière d'aide sociale.
 
-Généralités : loi conjointe, lois marginales, lois conditionnelles.
+Le fonctionnement de l'aide sociale (l'admission, le contentieux, la récupération des prestations versées, les rapports entre l'aide sociale.
 
-Liaison, corrélation linéaire, indépendance.
+2.3. Les formes d'aide sociale :
 
-Cas particulier des lois normales bidimensionnelles.
+L'aide médicale.
 
-III. - Inférence statistique
+L'aide sociale à l'enfance.
 
-Généralités sur l'échantillonnage :
+L'aide sociale aux personnes âgées.
 
-Théorie de l'estimation : estimation ponctuelle et par intervalle de confiance.
+L'aide sociale aux personnes handicapées.
 
-Applications à la théorie de sondage et à la régression linéaire.
+L'aide sociale à la famille.
 
-Théorie des tests d'hypothèse :
+L'aide sociale à l'hébergement et à la réadaptation sociale.
 
-Concept d'hypothèse statistique. Problématique des tests. Etude des classes typiques de tests.
-
-Applications aux problèmes de comparaison des paramètres des lois de probabilité et à la régression linéaire.
-
-IV. - Technique de la décision publique :
-
-Méthodes du calcul économique
-
-Les raisonnements de base en matière de choix des investissements :
-
-Actualisation (utilisation des tables).
-
-Critères de choix simples des investissements (bénéfice actualisé, taux de rentabilité, méthodes de classification des projets).
-
-Critères de choix spécifiques à l'économie publique ; concepts de la théorie du surplus.
-
-Evaluation des biens non marchands :
-
-Les différentes pratiques tarifaires en économique publique.
-
-Les notions de coûts généralisés.
-
-Technique d'analyse globale du calcul économique :
-
-Résolution de programmes d'investissements à long terme. Utilisation de la programmation linéaire.
-
-Méthodes R.C.B. et coûts-avantages.
-
-Eléments sur les méthodes d'analyse multicritères.
-
-Note : Les notions mathématiques nécessaires à la compréhension et la mise en oeuvre de ces instruments sont supposées connues.
-
-Les candidats ayant choisi l'option techniques quantitatives sont autorisés à faire usage pour cette épreuve des tables de logarithmes, tables de Barlow, règles à calcul, et calculatrices électroniques de poche non imprimantes, à alimentation autonome, à entrée unique par clavier, non programmables, et sans document d'accompagnement. Les possibilités de ces calculatrices devront être limitées aux capacités de calcul suivantes :
-
-- quatre opérations ;
-
-- racine carrée ;
-
-- fonctions usuelles (trigonométriques, logarithmes, exponentielles) ;
-
-- mémoire avec entrée en plus ou en moins ;
-
-- changement de signe ;
-
-- notation scientifique (virgule flottante).
-
-Les matériels pourront faire l'objet de vérifications et le prêt ou l'échange en seront interdits.
+2.4. Caractéristiques générales de l'aide sociale dans les principaux pays européens.

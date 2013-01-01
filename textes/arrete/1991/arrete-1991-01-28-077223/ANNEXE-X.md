@@ -1,43 +1,75 @@
 # Article ANNEXE X
 
-Micro-économie
+HISTOIRE
 
-I. - Théorie du comportement du consommateur et de la demande
+I. - Religion et nations : l'Europe, de Luther à la révocation de l'édit de Nantes :
 
-Equilibre du consommateur sous contrainte budgétaire.
+Christianisme, Réforme, Contre-Réforme en Europe aux XVIe et XVIIe siècles.
 
-Introduction du temps dans les choix du consommateur.
+Religions et conflits en Europe, 1519-1648.
 
-Demande individuelle, demande à l'entreprise, demande sur le marché.
+Renaissance, baroque et classicisme, des guerres d'Italie (1515) à la mort de Louis XIV (1715).
 
-II. - Théorie du comportement du producteur
+II. - Economies et sociétés européennes de 1348 à 1848 :
 
-et des coûts de production
+Les campagnes européennes, de la Grande Peste au milieu du XIXe siècle.
 
-La fonction de production.
+La civilisation urbaine en Occident, de la fin du XVIIIe au milieu du XIXe siècle.
 
-Equilibre du producteur.
+III. - L'évolution économique et sociale du monde, de la révolution industrielle à nos jours :
 
-Coûts de production.
+Amorce, développement et effets de la révolution industrielle.
 
-III. - Les marchés et les prix
+Impérialismes et mise en valeur des continents.
 
-Objectifs et stratégies de la firme.
+Transformations sociales en Europe et en Amérique du Nord.
 
-Les marchés de concurrence (concurrence pure et parfaite, concurrence monopolistique).
+Evolutions et révolutions dans les sociétés dominées.
 
-Le monopole.
+Modèles et réalités du développement, des années vingt à nos jours.
 
-La discrimination de prix.
+Formes et étapes de la mondialisation des échanges.
 
-Les marchés oligopolistiques.
+IV. - Le gouvernement des nations, des Lumières à nos jours :
 
-Les entraves à la concurrence et les politiques de la concurrence.
+Liberté et souveraineté dans la pensée politique et l'évolution des régimes.
 
-IV. - Les fondements de l'intervention de l'Etat
+Nations et nationalismes depuis 1648.
 
-La théorie de l'optimum.
+Formes et développements de la démocratie dans le monde de 1789 à nos jours.
 
-Les effets externes.
+Socialisme et sociétés aux XIXe et XXe siècles.
 
-Les principes de détermination des prix publics.
+Les expériences totalitaires.
+
+V. - Les relations internationales des années 1880 à nos jours :
+
+L'équilibre des puissances, du traité de Berlin à 1914.
+
+Le déséquilibre des puissances, de la Première à la Seconde Guerre mondiale (1914-1945).
+
+La montée des Etats-Unis au premier rôle mondial.
+
+La guerre froide et les décolonisations, 1947-1991.
+
+L'évolution des relations internationales depuis 1975.
+
+VI. - Peuples et nations au XXe siècle
+
+La France de la IIIe République à nos jours.
+
+L'Allemagne, l'Italie, le Royaume-Uni et la Russie au XXe siècle.
+
+Les Etats-Unis depuis la guerre de sécession.
+
+La Chine, l'Inde, le Japon dans la deuxième moitié du XXe siècle ;
+
+Le Moyen-Orient depuis 1945.
+
+VII. - Histoire de l'Union européenne :
+
+Le contexte de début de la coopération européenne.
+
+Les étapes de la construction de l'Union européenne.
+
+Le fonctionnement de l'Union européenne.

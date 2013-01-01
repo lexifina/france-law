@@ -1,14 +1,14 @@
 # Article ANNEXE II
 
-Droit public
+DROIT PUBLIC
 
-1. Sources du droit
+1. Les sources du droit public :
 
 La Constitution et le bloc de constitutionnalité.
 
-Les traités et autres sources de droit international.
+Les normes internationales.
 
-Les traités et autres sources de droit communautaire.
+Le droit de l'Union européenne.
 
 La loi et le principe de légalité.
 
@@ -16,9 +16,11 @@ Le pouvoir réglementaire.
 
 La jurisprudence constitutionnelle et administrative.
 
-2. Le régime constitutionnel
+2. Les institutions politiques et le droit constitutionnel :
 
-2.1. Théorie constitutionnelle et institutions politiques comparées :
+La théorie constitutionnelle et institutions politiques comparées.
+
+Le contrôle de constitutionnalité et les cours constitutionnelles.
 
 La souveraineté et ses modes d'expression.
 
@@ -26,65 +28,69 @@ Les régimes électoraux.
 
 Les institutions politiques de la démocratie libérale.
 
-2.2. Le régime politique français :
+L'histoire constitutionnelle depuis 1789.
 
-Evolution des institutions politiques depuis 1789.
+Les institutions politiques issues de la Constitution du 4 octobre 1958.
 
-Le régime politique issu de la Constitution du 4 octobre 1958.
-
-3. Droit administratif
+3. Le droit administratif :
 
 3.1. L'organisation administrative :
 
-L'Etat et les collectivités territoriales ; déconcentration et décentralisation ; contractualisation.
+Les relations juridiques entre personnes publiques (centralisation, déconcentration et décentralisation).
 
-Le secteur public et parapublic ; les démembrements de l'administration.
+Les relations des citoyens avec les administrations.
 
-Les relations de l'administration et des administrés ; la participation ; la consultation ; l'administration consultative ; la procédure administrative non contentieuse.
+L'administration de l'Etat : administration centrale, administration déconcentrée.
 
-Les administrations centrales de l'Etat ; la coordination interministérielle.
+Les collectivités territoriales.
 
-Les circonscriptions territoriales : la région, le département, la commune.
+Les établissements publics, les groupements d'intérêt public, les opérateurs de l'Etat.
 
-Les établissements publics.
+Les autorités administratives et publiques indépendantes.
 
-Les autorités administratives indépendantes.
-
-3.2. La justice administrative :
-
-L'organisation de la juridiction administrative.
+3.2.1. L'organisation de la juridiction administrative :
 
 Le principe de séparation des autorités administratives et judiciaires : le tribunal des conflits.
 
-Les recours en annulation et les recours de pleine juridiction.
+L'organisation, la procédure contentieuse, le recours.
 
-Les principes généraux du contentieux administratif.
+3.2.2. Les principes généraux du contentieux administratif :
 
 3.3. L'activité administrative :
 
-Le service public ; notion ; différents types de service public.
+Le service public : notions, régime juridique.
 
-La police administrative.
+La police administrative : notion, régime juridique.
 
-L'acte administratif unilatéral : les actes réglementaires, les actes individuels ; hiérarchie des actes administratifs.
+Les actes administratifs unilatéraux : notion, régime juridique.
 
-Les contrats administratifs, les marchés publics.
+Les contrats de l'administration : notion, passation, régime juridique.
 
-Les biens : expropriation, domaine public, domaine privé, travaux publics.
+Les marchés publics.
 
-Les principes généraux de l'intervention économique.
+La propriété des personnes publiques : domaine public et domaine privé, expropriation pour cause d'utilité publique, travaux publics.
 
-Les principes de légalité et le contrôle de la légalité.
+La responsabilité administrative.
 
-La responsabilité de l'administration.
+L'évaluation de l'action administrative.
 
-3.4. La fonction publique :
+La modernisation administrative : l'utilisation des nouvelles technologies de l'information et de la communication dans les administrations.
 
-Le statut de la fonction publique de l'Etat ; la fonction publique territoriale et hospitalière.
+4. Le droit de la fonction publique :
 
-Les diverses catégories d'agents de l'Etat et des collectivités publiques ; les problèmes généraux de la fonction publique ; statut, recrutement, obligations, responsabilités et droits des fonctionnaires, procédures de participation et de consultation.
+Le statut général de la fonction publique.
 
-4. Droit communautaire
+Les organes de gestion de la fonction publique.
+
+La notion d'agent public.
+
+Le fonctionnaire : recrutement, carrière.
+
+Le fonctionnaire : droits, libertés.
+
+Le fonctionnaire : responsabilité, obligations.
+
+5. Le droit de l'Union européenne :
 
 Les institutions.
 
@@ -94,10 +100,10 @@ L'ordre juridique communautaire.
 
 Les recours juridictionnels.
 
-5. Droits fondamentaux et libertés publiques
+6. Les droits fondamentaux et les libertés publiques :
 
-Régime juridique.
+Le régime juridique.
 
-Protection interne et internationale.
+La protection interne et internationale.
 
 L'Etat de droit.

@@ -1,55 +1,115 @@
 # Article ANNEXE XV
 
-I. - Méthodologie
+PSYCHOLOGIE
 
-1.1. Les apports de la démographie :
+I. - Concepts directeurs de la psychologie sociale :
 
-- les indicateurs démographiques ;
+La conduite et le comportement.
 
-- population : état, mouvements et tendances.
+Psychologie du comportement affectif, de la perception, de l'intelligence, du langage, de la mémoire.
 
-1.2. Les approches économiques du domaine de la santé :
+Normes et valeurs.
 
-Les comptes de la santé (approche macro-économique) :
+Statuts et rôles.
 
-- concepts et méthodes de la comptabilité nationale et du compte satellite " Santé " ;
+Attitudes et opinions.
 
-- tendances à long terme et évolution récente des principaux agrégats.
+Motivations.
 
-L'aide à la décision dans le domaine de la santé (approche micro-économique) :
+Caractère et personnalité.
 
-- principes et méthodologie de l'évaluation économique (calcul des coûts/indicateurs de résultats). Exemples d'application.
+La personnalité de base.
 
-II. - La production
+Relations interpersonnelles.
 
-Les facteurs de production :
+Les interactions : coopération, conflit, agression.
 
-- ressources humaines : volume et structure de l'emploi (âge, sexe, qualification, rémunération) ;
+Interaction et discussion.
 
-- équipements : structure et évolution des capacités de production ;
+Interaction et "jeu".
 
-- progrès technique : diffusion des innovations.
+Interaction et échange.
 
-Les secteurs et unités de production :
+II. - Psychologie des groupes et collectivités organisés et non organisés :
 
-- volume et structure de la production et évolution, structure des coûts, formation des prix, stratégies ;
+Société globale, assemblées et groupes restreints.
 
-- secteur hospitalier ;
+La discussion du groupe : directivité et non-directivité.
 
-- secteur de soins ambulatoires et à domicile ;
+La dynamique des groupes.
 
-- industrie pharmaceutique.
+L'information et les communications.
 
-III. - La consommation
+Les mass media. La propagande.
 
-Valeurs, structure et évolution de la consommation de soins et de biens médicaux.
+La foule.
 
-Analyse des disparités démographiques, géographiques et socio-économiques.
+Les catastrophes.
 
-IV. - Le financement et la maîtrise des dépenses
+La panique.
 
-Structure et évolution du financement ;
+Les communications dans le groupe et entre les groupes.
 
-Modalités de financement et comportement des acteurs du système de santé ;
+III. - Domaines d'application de la psychologie :
 
-Comparaisons internationales des systèmes de santé (pays de l'O.C.D.E.).
+1. Psychologie politiques et administratives :
+
+L'approche psychologique des phénomènes politiques.
+
+Les partis : électeurs, militants, dirigeants.
+
+Les "intérêts" : leur mode d'organisation, de pression, de négociation.
+
+Les grands corps de l'Etat, influence de l'administration sur le processus politique.
+
+Pouvoir temporel et pouvoir spirituel : les églises, les intellectuels, les sociétés de pensée.
+
+Pouvoir collégial et pouvoir personnel.
+
+Gouvernement des personnes et gouvernement des choses.
+
+La hiérarchie administrative.
+
+Décision administrative et décision politique.
+
+2. Psychologie médicale :
+
+La relation médecin-malade.
+
+L'organisation de la pratique médicale et l'organisation hospitalière.
+
+3. Psychologie militaire :
+
+Le "moral" dans l'armée. Le commandement.
+
+L'armée sans institution.
+
+Notions de psychologie sociale.
+
+Psychologie des relations internationales.
+
+IV. - Le psychologue dans les entreprises et les organisations publiques et privées :
+
+Les organisations de sondage d'opinion en France et à l'étranger.
+
+Les organisations d'études de marchés et d'études de motivation.
+
+Les organisations de formation et de perfectionnement dans les techniques de groupes.
+
+V. - Méthodologie des sciences sociales :
+
+Les enquêtes.
+
+Les sondages.
+
+Le questionnaire.
+
+L'entretien.
+
+Etudes des marchés.
+
+Etudes de motivation.
+
+Les modèles mathématiques.
+
+Les modèles de simulation.

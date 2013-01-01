@@ -1,8 +1,8 @@
 # Article ANNEXE VII
 
-droit hospitalier
+DROIT HOSPITALIER
 
-Introduction
+Introduction :
 
 Evolution historique et caractéristiques de l'organisation hospitalière française.
 
@@ -10,133 +10,143 @@ L'établissement public de santé dans son environnement économique.
 
 Notions d'organisation hospitalière dans les principaux pays européens.
 
-1. Organisation hospitalière française
+1. Organisation hospitalière française :
 
-(Lois des 31 décembre 1970 et 31 juillet 1991, ordonnances
+1.1 Les missions de service public :
 
-du 24 avril 1996, du 4 septembre 2003 et du 2 mai 2005)
+Le champ des missions.
 
-1.1. Le service public hospitalier :
+Les acteurs de santé attributaires d'une mission de service public.
 
-- origine et définition ;
+Les missions de service public et l'organisation régionale de l'offre de soins.
 
-- missions ;
-
-- composants : le secteur public, le secteur privé, le service de santé des armées.
+Les attributions des missions de service public et ses effets.
 
 1.2. Les moyens mis en place :
 
-- territoires de santé et planification sanitaire (SROS) ;
+Les territoires de santé et la planification sanitaire.
 
-- le régime des autorisations ;
+Le régime des autorisations.
 
-- organes de concertation et de coopération interhospitalières :
+Les organes de concertation et de coopération interhospitalière.
 
-- l'instrumentation juridique traditionnelle : syndicats interhospitaliers ; communautés d'établissements ; groupements d'intérêt public (GIP) et d'intérêt économique (GIE) ;
+L'instrumentation juridique traditionnelle : syndicats interhospitaliers ; communautés d'établissements ; groupements d'intérêt public (GIP) et d'intérêt économique (GIE) ; groupements de coopération sanitaire (GCS) ; communauté hospitalière de territoire (CHT).
 
-- l'instrumentation juridique nouvelle : groupements de coopération sanitaire (GCS) ;
+L'évaluation des soins : la Haute Autorité de santé (HAS), le développement professionnel continu (DPC), la certification des établissements de santé, l'accréditation des médecins.
 
-- le classement des établissements assurant le service public hospitalier ;
+2. L'organisation de l'établissement public de santé :
 
-- l'évaluation de l'activité médicale : la Haute Autorité de santé (HAS), l'évaluation des pratiques professionnelles (EPP), la certification des établissements de santé, l'accréditation des personnels médicaux et soignants.
+2.1. L'organisation administrative :
 
-2. L'organisation de l'établissement public de santé
+Le statut juridique de l'établissement public de santé (EPS).
 
-L'organisation administrative :
+Création, transformation, suppression des EPS.
 
-- le statut juridique de l'établissement public de santé (EPS) ;
+Les principes de l'organisation interne.
 
-- création, transformation, suppression des EPS ;
+Les organes de décision à l'EPS.
 
-- les principes de la nouvelle gouvernance hospitalière ;
+Les instances.
 
-- les organes de décision à l'EPS : conseil d'administration, directeur, conseil exécutif ;
+2.2. L'organisation médicale :
 
-- les instances consultatives.
+Les pôles et leurs structures internes.
 
-L'organisation médicale :
+La contractualisation interne.
 
-- pôles d'activité, services, unités fonctionnelles ;
+Les contrôles et la tutelle exercés par l'Etat et par les agences régionales de santé.
 
-- la contractualisation interne.
+3. Les statuts des personnels :
 
-Les contrôles et la tutelle exercés par l'Etat, ses services déconcentrés (DRASS, DDASS) et par l'ARH.
+3.1. Le personnel médical :
 
-Les régimes spéciaux de l'administration générale de l'Assistance publique à Paris, des Hospices civils de Lyon et de l'Assistance publique à Marseille.
+La démographie médicale hospitalière.
 
-3. Les statuts des personnels
+Les praticiens exerçant à temps plein ou à temps partiel.
 
-3.1. Personnel médical des établissements publics de santé :
+Les personnels hospitalo-universitaires.
 
-- la démographie médicale hospitalière ;
+Les praticiens attachés.
 
-- les praticiens exerçant à temps plein : personnels enseignants et hospitaliers, praticiens hospitaliers ;
+Les internes.
 
-- les praticiens exerçant à temps partiel ;
+Les études médicales à l'hôpital.
 
-- les praticiens attachés ;
+Les consultants.
 
-- les internes ;
+Les sages-femmes.
 
-- les études médicales à l'hôpital ;
-
-- les consultants.
-
-3.2. Personnels soumis au titre IV du statut général de la fonction publique (loi du 9 janvier 1986) :
+3.2. Le personnel non médical :
 
 La démographie des personnels hospitaliers non médicaux.
 
-3.2.1. Règles générales :
+3.2.1 Les règles générales :
 
-- droits et obligations des fonctionnaires hospitaliers ;
+Les droits et obligations des fonctionnaires hospitaliers (titres Ier et IV).
 
-- titre IV ;
+Le Conseil supérieur de la fonction publique hospitalière.
 
-- le Conseil supérieur de la fonction publique hospitalière ;
-
-- la formation permanente continue.
+Les outils de la formation des personnels.
 
 3.2.2. Notions sur les statuts particuliers :
 
-Personnel de direction ; personnel administratif ; pharmaciens ; personnels des services de pharmacie, de laboratoire, d'électroradiologie ; personnel des services médicaux ; personnels d'encadrement des écoles de formation ; personnel technique ; personnel des services ouvriers, des parcs automobiles, du service intérieur ; personnel d'exécution ; personnel des services sociaux.
+Les personnels administratifs dont les personnels de direction.
 
-4. Le statut du malade et l'éthique dans le monde hospitalier
+Les personnels techniques et ouvriers.
 
-4.1. Malade hospitalisé en hôpital général et en psychiatrie :
+Les personnels des services de soins, médicotechniques et de rééducation et les directeurs des soins.
 
-La loi du 4 mars 2002.
+Les personnels socio-éducatifs.
 
-La charte du malade hospitalisé.
+Les psychologues.
 
-L'éthique en milieu hospitalier (loi bioéthique du 6 août 2004) :
+4. Le statut du malade et l'éthique dans le monde hospitalier :
 
-- Comité national d'éthique ;
+4.1. Le malade hospitalisé :
 
-- comité de protection des personnes ;
+La charte du malade hospitalisé : le cadre de la loi du 4 mars 2002.
 
-- les prélèvements d'organes.
+L'éthique en milieu hospitalier ; le Comité national d'éthique.
 
-4.2. Malade non hospitalisé :
+Le respect du secret médical et sa protection en EPS.
+
+Les règles spécifiques à la santé mentale et ses évolutions récentes.
+
+Les prélèvements d'organes.
+
+4.2. Le malade non hospitalisé :
 
 Les consultations externes.
 
-5. Le fonctionnement économique et financier
+5. Le fonctionnement économique et financier :
 
-5.1. Gestion financière :
+5.1 Les modalités d'allocation des ressources :
 
-- la tarification à l'activité (T2A) : ses principes, son champ d'application, ses modalités de mise en oeuvre ;
+- T2A (principes, champs d'application et modalités de mise en œuvre) ;
 
-- les autres sources de financement ; l'état prévisionnel des recettes et des dépenses (EPRD), le plan global de financement prévisionnel (PGFP), le plan prévisionnel d'investissement (PPI) ;
+- les autres sources de financement des activités sanitaires des EPS (MIGAC, DAF, produits des tarifications journalières, forfait journalier, autres recettes...) ;
 
-- la procédure budgétaire ;
+- le financement des activités sociales et médico-sociales gérées par les EPS.
 
-- le nouveau régime comptable des EPS.
+Le régime comptable des EPS.
+
+La séparation de l'ordonnateur et du comptable.
+
+La procédure et les documents budgétaires des EPS :
+
+- le financement des investissements : le plan global de financement pluriannuel (PGFP) ;
+
+- l'annualité budgétaire : l'état prévisionnel des recettes et des dépenses (EPRD) et ses annexes ;
+
+- les équilibres financiers : tableau de financement, capacité d'autofinancement (CAF), fonds de roulement (FDR), besoin en fonds de roulement (BFR) et trésorerie.
 
 5.2. Gestion économique :
 
-- l'achat public.
+Le comptable matière.
 
-6. La responsabilité des établissements publics de santé
+L'achat public.
+
+6. La responsabilité des établissements publics de santé :
 
 Responsabilité des établissements.
 
@@ -144,10 +154,10 @@ Responsabilité des personnels hospitaliers.
 
 Principes généraux de la responsabilité administrative du secteur hospitalier :
 
-- problème de compétence ;
+- problème de compétence.
 
-- fondements de la responsabilité ;
+- fondements de la responsabilité.
 
-- évolution législative et jurisprudentielle du régime de la responsabilité hospitalière ;
+- évolution législative et jurisprudentielle du régime de la responsabilité hospitalière.
 
-- l'indemnisation des malades sur la base de la loi du 4 mars 2002, rôle des commissions régionales de conciliation et d'indemnisation (CRCI).
+- l'indemnisation des malades, rôle des commissions régionales de conciliation et d'indemnisation (CRCI).
