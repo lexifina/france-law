@@ -24,7 +24,7 @@ Agrément des citernes des types "OMI"
 
 - Lloyd's Register of Shipping
 
-- Groupement d'Associations des Propriétaires d'Appareils à Vapeur et Electriques
+- APAVE
 
 2. Pour chaque nouveau type de citerne mobile, l'un des organismes agréés choisi par le demandeur parmi les organismes cités au paragraphe 1 de la présente annexe établit un certificat d'approbation du prototype (voir annexe 411-6.A.10 pour types 1, 2 et 5, annexe 411-6.A.11 pour type 7).
 
@@ -52,9 +52,9 @@ Aux fins de ce paragraphe, les organismes de contrôle agréés sont les suivant
 
 - Bureau Veritas ;
 
-- Groupement d'Associations des Propriétaires d'Appareils à Vapeur et Electrique (G.A.P.A.V.E).
+- APAVE.
 
-Les organismes agréés sont chargés du classement des dossiers de conformité vérifiés par leurs soins. Ils doivent, en outre, adresser annuellement au ministre chargé de la marine marchande un état des certificats de conformité délivrés.
+Les organismes agréés sont chargés du classement des dossiers de conformité vérifiés par leurs soins. Ils doivent, en outre, adresser annuellement au ministre chargé du transport maritime de matières dangereuses un état des certificats de conformité délivrés.
 
 5. Cas particulier d'une citerne assujettie sur un châssis porteur
 
@@ -354,7 +354,7 @@ Aux fins du paragraphe 13.1.5.6 de la section 13 de l'Introduction Générale du
 
 14. Débit des dispositifs de décompression des citernes de type 5 et 6
 
-Nonobstant les dispositions du paragraphe 13.109.1 de l'Introduction Générale du Code IMDG, il est admis d'utiliser, pour les citernes mobiles de type 5 et 6 approuvées après le 1er février 1995, des dispositifs de décompression dont le débit total requis a été calculé sur la base d'une pression d'accumulation supérieure de 20% à la pression de début d'ouverture du dispositif de décompression.
+Nonobstant les dispositions du paragraphe 13.109.1 de l'Introduction Générale du Code IMDG, il est admis d'utiliser, pour les citernes mobiles de type 5 et 6 approuvées après le 1er février 1995, des dispositifs de décompression dont le débit total requis a été calculé sur la base d'une pression d'accumulation supérieure de 20 % à la pression de début d'ouverture du dispositif de décompression.
 
 15. Dispositions particulières aux citernes de type OMI 4
 
