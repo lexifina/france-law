@@ -4044,7 +4044,7 @@ Bastia
 
 |
 
-6° Chef de l'Institut national de formation de la police nationale (INFPN) ; directeur d'Ecole nationale de police (ENP) ; directeur de l'Ecole nationale supérieure des officiers de police (ENSOP) ; directeur de l'Ecole nationale supérieure de police (ENSP) ; directeur de l'Institut national de police scientifique (INPS)
+6° Chef de l'Institut national de formation de la police nationale (INFPN) ; directeur d'Ecole nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de police (ENSP) ; directeur de l'Ecole nationale supérieure de police (ENSP) ; directeur de l'Institut national de police scientifique (INPS)
 
 DÉSIGNATION DES EMPLOIS
 
@@ -4094,7 +4094,7 @@ Saint-Cyr-au-Mont-d'Or
 
 |
 
-Directeur de l'Ecole nationale supérieure des officiers de police (ENSOP)
+Directeur de l'Ecole nationale supérieure de police (ENSP)
 
 |
 
