@@ -324,9 +324,7 @@ Commission compétente en matière d'agriculture
 
 |
 
-Président du conseil d'administration de l'établissement public OSEO
-
-|
+Directeur général de la société anonyme BPI-Groupe |
 
 Commission compétente en matière d'activités financières
 
