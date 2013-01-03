@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002143
+
+- Question : [SEQ121002143](seq121002143.md) — Indemnisation des pupilles de la Nation
+
+## Réponse
+
+*Anciens combattants, JO du 2013-01-03, page 20*
+
+Très attaché au devoir de mémoire, le ministre délégué auprès du ministre de la défense, chargé des anciens combattants est particulièrement attentif au dossier des orphelins de guerre. Il assure l'honorable parlementaire de sa compréhension pour la souffrance et les peines endurées par celles et ceux que la guerre a privés de leurs parents. Il mesure leur incompréhension depuis que deux décrets, l'un en 2000, et l'autre en 2004, ont posé les termes d'une indemnisation. Le ministre connaît leurs attentes. Cependant, il lui apparaît nécessaire de rappeler les étapes qui ont prévalu à l'instauration de cette indemnisation. Le décret n° 2000-657 du 13 juillet 2000 a accordé une indemnisation aux orphelins de victimes de persécutions antisémites. Cette décision traduit la situation tragique de ces orphelins dont les parents avaient été déportés et qui, en outre, devaient se cacher pour ne pas être eux-mêmes déportés. Le décret n° 2004-751 du 27 juillet 2004 complète le dispositif en indemnisant les orphelins des déportés résistants ainsi que les orphelins de résistants et de combattants dont les parents avaient été tués dans le cadre d'actes liés à la barbarie nazie. Le dispositif d'indemnisation doit rester fidèle à sa justification fondamentale qui est de consacrer solennellement le souvenir des victimes de la barbarie nazie, à travers leurs enfants mineurs au moment des faits. Toute rupture avec cette spécificité ouvrirait un champ d'extension illimité. C'est pourquoi, il a été décidé de maintenir la spécificité afin de ne pas porter atteinte à la cohérence des deux décrets. Toutefois, ils seront mis en œuvre de façon éclairée.
