@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002391
+
+- Question : [SEQ121002391](seq121002391.md) — Allotissement des marchés relevant de l'ordonnance du 6 juin 2005
+
+## Réponse
+
+*Intérieur, JO du 2013-01-03, page 31*
+
+L'article 10 du code des marchés publics (CMP), tel qu'issu du décret n° 2006-975 du 1er août 2006, a fait de l'obligation de passer des marchés séparés la règle, à partir du moment où il est possible de déterminer des prestations distinctes, et du marché unique l'exception. Cette obligation a été introduite « afin de susciter la plus large concurrence ». Toutefois, elle ne figure pas dans l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics. Il s'agit au demeurant d'une mesure nationale insérée en 2006 à l'occasion de la refonte du CMP, les directives européennes en matière de marchés publics ne contenant aucune règle de cette nature. Il en résulte que les marchés passés en application de l'ordonnance du 6 juin 2005 ne sont pas soumis à l'obligation de découpage en lots. Il en va de même des marchés des offices publics de l'habitat, depuis que l'article 132 de la loi n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit, dite loi Warsmann, les a placés sous le régime de l'ordonnance du 6 juin 2005 en modifiant le code de la construction et de l'habitation. Toutefois, aucune règle ni aucun principe n'empêche une autorité contractante à laquelle s'applique ladite ordonnance de passer des marchés séparés si elle le souhaite, voire de se conformer volontairement au code des marchés publics. Dans la mesure où le recours à des lots séparés a souvent des effets bénéfiques sur le coût de l'opération, la bonne gestion des deniers publics et l'accès des petites et moyennes entreprises à la commande publique peuvent ainsi se concilier.
