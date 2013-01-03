@@ -1,0 +1,67 @@
+# Transports : infrastructures et services
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29552
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/infrastructures_services_transports
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-260.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-01-03 : 1er dépôt d'une initiative. (PRJLSNR5S199B0260)
+  - 2013-01-03 : Etude d'impact (ETDISNR5S199B0260)
+  - 2013-01-21 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-01-03 : Renvoi en commission au fond
+      - 2013-01-15 : Nomination de rapporteur
+      - 2013-02-06 : Dépôt de rapport (RAPPSNR5S199B0338)
+    - Travaux d'une commission saisie pour avis
+      - 2013-01-23 : Saisine pour avis d'une commission
+      - 2013-01-23 : Nomination de rapporteur
+      - 2013-02-05 : Dépôt de rapport (AVISSNR5S199B0334)
+  - Discussion en séance publique
+    - 2013-02-11 : Discussion en séance publique
+    - 2013-02-12 : Discussion en séance publique
+    - 2013-02-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-02-13 : Dépôt d'une initiative en navette (PRJLANR5L14B0728)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-02-13 : Renvoi en commission au fond
+      - 2013-01-30 : Nomination de rapporteur
+      - 2013-03-27 : Réunion de commission
+      - 2013-03-28 : Dépôt de rapport (RAPPANR5L14B0850, PRJLANR5L14BTC0850)
+    - Travaux d'une commission saisie pour avis
+      - 2013-02-20 : Saisine pour avis d'une commission
+      - 2013-02-26 : Nomination de rapporteur
+      - 2013-02-26 : Réunion de commission
+      - 2013-03-26 : Réunion de commission
+      - 2013-03-27 : Dépôt de rapport (AVISANR5L14B0844)
+  - Discussion en séance publique
+    - 2013-04-10 : Discussion en séance publique
+    - 2013-04-10 : Discussion en séance publique
+    - 2013-04-11 : Discussion en séance publique
+    - 2013-04-11 : Discussion en séance publique
+    - 2013-04-16 : Discussion en séance publique
+    - 2013-04-16 : Décision
+- Commission Mixte Paritaire
+  - 2013-04-16 : Dépôt d'un projet de loi (PRJLSNR5S199B0512)
+  - 2013-04-16 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-04-17 : Nomination de rapporteur
+    - 2013-04-17 : Dépôt du rapport d'une CMP (RAPPANR5L14B0938)
+    - 2013-04-17 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0514)
+  - Discussion en séance publique
+    - 2013-04-18 : Discussion en séance publique
+    - 2013-04-18 : Décision
+  - Discussion en séance publique
+    - 2013-04-24 : Discussion en séance publique
+    - 2013-04-24 : Décision
+  - 2013-04-17 : Décision de la CMP
+- Conseil constitutionnel
+  - 2013-04-25 : Saisine du conseil constitutionnel
+  - 2013-05-23 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-05-28 : Promulgation d'une loi
