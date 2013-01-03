@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121102921
+
+- Question : [SEQ121102921](seq121102921.md) — Consultation de la commission consultative des services publics locaux pour la création d'une régie
+
+## Réponse
+
+*Intérieur, JO du 2013-01-03, page 29*
+
+L'article L. 1413-1 du code général des collectivités territoriales dispose que « les régions, les départements, les communes de plus de 10 000 habitants, les établissements publics de coopération intercommunale de plus de 50 000 habitants et les syndicats mixtes comprenant au moins une commune de plus de 10 000 habitants créent une commission consultative des services publics locaux (CCSPL) pour l'ensemble des services publics (...) qu'ils exploitent en régie dotée de l'autonomie financière. » Ce même article précise que dans le cas où cette commission est déjà créée, « elle est consultée pour avis par l'assemblée délibérante ou par l'organe délibérant sur (...) tout projet de création d'une régie dotée de l'autonomie financière ». Ainsi, au regard des dispositions précitées, la création des régies soit dotées de la seule autonomie financière soit dotées de la personnalité morale et de l'autonomie financière, mentionnées aux articles L. 2221-1 et suivants du code général des collectivités territoriales, nécessite la consultation au préalable de la CCSPL ou la création de cette commission dans le cas où celle-ci n'aurait pas été mise en place par les collectivités désignées à l'article L. 1413-1 précité. Cette lecture, confirmée par le jugement du Tribunal administratif de Nîmes, Préfet du Vaucluse, du 16 septembre 2011 qui a précisé que ces dispositions législatives « ne limitent pas l'exigence de cette consultation de la commission des services publics locaux à la seule hypothèse de création de service doté de la personnalité morale (...) ; que cette consultation revêt le caractère d'une formalité substantielle » n'a pas à ce jour été remis en cause par les juridictions administratives supérieures.
