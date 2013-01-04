@@ -1,10 +1,10 @@
 # Article Annexe
 
-Grilles horaires du cycle terminal de la voie générale : séries ES, L et S
+GRILLES HORAIRES DU CYCLE TERMINAL DE LA VOIE GENERALE : SERIES ES, L ET S
 
-1/ classe de première
+1/ CLASSE DE PREMIERE
 
-ENSEIGNEMENTS COMMUNS AUX 3 SERIES
+ENSEIGNEMENTS COMMUNS AUX 3 SÉRIES
 
 |
 
@@ -24,15 +24,7 @@ Français
 
 |
 
-Histoire-géographie
-
-|
-
-4 h
-
-|
-
-LV1 et LV2 (enveloppe globalisée) (a) (b)
+LV 1 et LV 2 (enveloppe globalisée) (a) (b)
 
 |
 
@@ -98,73 +90,75 @@ SERIE S
 
 Sciences économiques et sociales
 
+Histoire-géographie
+
+Mathématiques
+
+Sciences
+
 |
 
 5 h
+
+4 h
+
+3 h
+
+1 h 30
 
 |
 
 Littérature
 
+Littérature étrangère en langue étrangère
+
+Histoire-géographie
+
+Sciences
+
 |
 
 2 h
 
+2 h
+
+4 h
+
+1 h 30
+
 |
 
 Mathématiques
+
+Physique-chimie
+
+Sciences de la vie et de la Terre
+
+ou Sciences de l'ingénieur
 
 |
 
 4 h
 
-|
-
-Mathématiques
-
-|
+3 h
 
 3 h
 
-|
-
-Littérature étrangère en langue étrangère
+7 h
 
 |
 
-2 h
+ou Ecologie, agronomie et territoires (h)(e)
 
 |
 
-Physique-chimie
+6 h
 
 |
 
-3 h
+Histoire-géographie |
 
-|
-
-Sciences
-
-|
-
-1 h 30
-
-|
-
-Sciences
-
-|
-
-1 h 30
-
-|
-
-Sciences de la vie et de la Terre
-
-|
-
-3 h
+2 h 30
 
 |
 
@@ -178,11 +172,7 @@ Un enseignement obligatoire au choix parmi :
 
 |
 
-ou Sciences de l'ingénieur
-
 |
-
-7 h
 
 |
 
@@ -198,11 +188,7 @@ Arts (f)
 
 |
 
-ou Ecologie, agronomie et territoires (h) (e)
-
 |
-
-6 h
 
 |
 
@@ -242,7 +228,7 @@ LCA : latin (g)
 
 |
 
-LCA grec (g)
+LCA : grec (g)
 
 |
 
@@ -274,7 +260,7 @@ LV3 (a) (b)
 
 |
 
-LV1 ou 2 approfondies
+LV 1 ou 2 approfondies
 
 |
 
@@ -380,7 +366,7 @@ LCA : grec
 
 |
 
-LCA : (grec) (g)
+LCA : grec (g)
 
 |
 
@@ -444,19 +430,11 @@ Arts (f)
 
 |
 
-b) atelier artistique
+|
 
 |
 
-72 h annuelles
-
 |
-
-b) atelier artistique
-
-|
-
-72 h annuelles
 
 |
 
@@ -484,11 +462,11 @@ Pratiques sociales et culturelles (h)
 
 |
 
-|
+b) atelier artistique
 
 |
 
-|
+72 h annuelles
 
 |
 
@@ -496,9 +474,15 @@ b) atelier artistique
 
 |
 
-72 h
+72 h annuelles
 
-annuelles
+|
+
+b) atelier artistique
+
+|
+
+72 h annuelles
 
 |
 
@@ -508,23 +492,23 @@ annuelles
 
 (c) Les élèves désirant poursuivre l'enseignement d'exploration d'EPS de seconde de 5 heures, bénéficient d'un enseignement complémentaire de 4 heures en sus de l'enseignement obligatoire. Dans ce cas, le cumul de cet enseignement complémentaire avec l'option facultative d'EPS n'est pas autorisé.
 
-(d) Enseignement dispensé en groupe à effectif réduit
+(d) Enseignement dispensé en groupe à effectif réduit.
 
-(e) Travaux personnels encadrés s'appuyant prioritairement sur les disciplines dominantes de la série. Pour les choix de sciences de l'ingénieur et de biologie, agronomie, territoire et développement durable en série S, les TPE sont intégrés dans l'horaire de cette discipline. Pour les élèves ayant choisi un enseignement complémentaire d'EPS de 4 heures, les TPE peuvent porter sur l'EPS
+(e) Travaux personnels encadrés s'appuyant prioritairement sur les disciplines dominantes de la série. Pour les choix de "sciences de l'ingénieur" et d' "écologie, agronomie et territoires" en série S, les TPE sont intégrés dans l'horaire de cette discipline. Pour les élèves ayant choisi un enseignement complémentaire d'EPS de 4 heures, les TPE peuvent porter sur l'EPS.
 
-(f) au choix parmi : arts plastiques ou cinéma-audiovisuel ou danse ou histoire des arts ou musique ou théâtre. Les élèves ont la possibilité de cumuler en enseignement obligatoire au choix et en option facultative deux enseignements relevant d'un même domaine artistique ou non,
+(f) au choix parmi : arts plastiques ou cinéma-audiovisuel ou danse ou histoire des arts ou musique ou théâtre. En série L, les élèves ont la possibilité de cumuler en enseignement obligatoire au choix et en option facultative deux enseignements relevant d'un même domaine artistique ou non.
 
 (g) Un même enseignement de langue et cultures de l'Antiquité (LCA) ou de LV3 ne peut être choisi au titre de l'enseignement obligatoire au choix et au titre de l'option facultative.
 
-(h) Enseignements assurés uniquement dans les lycées d'enseignement général et technologique agricole
+(h) Enseignements assurés uniquement dans les lycées d'enseignement général et technologique agricole.
 
 |
 
-Grilles horaires du cycle terminal de la voie générale : séries ES, L et S
+GRILLES HORAIRES DU CYCLE TERMINAL DE LA VOIE GENERALE : SERIES ES, L ET S
 
-2/ classe terminale
+2. CLASSE TERMINALE
 
-ENSEIGNEMENTS COMMUNS AUX 3 SERIES
+ENSEIGNEMENTS COMMUNS AUX 3 SÉRIES
 
 |
 
@@ -532,11 +516,11 @@ Disciplines
 
 |
 
-horaires
+Horaires
 
 |
 
-LV1 et LV2 (enveloppe globalisée) (a) (b)
+LV 1 et LV 2 (enveloppe globalisée) (a) (b)
 
 |
 
@@ -552,7 +536,7 @@ Education physique et sportive (c)
 
 |
 
-Education civique juridique et sociale(d)
+Education civique juridique et sociale (d)
 
 |
 
@@ -594,89 +578,57 @@ SERIE S
 
 Sciences économiques et sociales
 
+Mathématiques
+
+Histoire-géographie
+
+Philosophie
+
 |
 
 5 h
+
+4 h
+
+4 h
+
+4 h
 
 |
 
 Littérature
 
+Littérature étrangère en langue étrangère
+
+Histoire-géographie
+
+Philosophie
+
 |
 
 2 h
 
-|
-
-Mathématiques
-
-|
-
-6 h
-
-|
-
-Mathématiques
-
-|
-
-4 h
-
-|
-
-Littérature étrangère en langue étrangère
-
-|
-
 1 h 30
 
+4 h
+
+8 h
+
 |
+
+Mathématiques
 
 Physique-chimie
-
-|
-
-5 h
-
-|
-
-Histoire-géographie
-
-|
-
-4 h
-
-|
-
-Histoire-géographie
-
-|
-
-4 h
-
-|
 
 Sciences de la vie et de la Terre
 
 |
 
+6 h
+
+5 h
+
 3 h 30
-
-|
-
-Philosophie
-
-|
-
-4 h
-
-|
-
-Philosophie
-
-|
-
-8 h
 
 |
 
@@ -688,23 +640,45 @@ ou sciences de l'ingénieur
 
 |
 
+ou d'Ecologie, agronomie et territoires (h)
+
+|
+
+5 h 30
+
+|
+
+Philosophie
+
+|
+
+3 h
+
+|
+
+Histoire-géographie
+
+|
+
+2 h
+
+|
+
 un enseignement de spécialité au choix parmi :
 
 |
 
 |
 
-un enseignement dé spécialité au choix parmi :
+un enseignement de spécialité au choix parmi :
 
 |
 
 |
 
-ou Ecologie, agronomie et territoires (h)
+un enseignement de spécialité au choix (e) parmi :
 
 |
-
-5 h 30
 
 |
 
@@ -724,11 +698,11 @@ Arts (f)
 
 |
 
-Philosophie
+Mathématiques
 
 |
 
-3 h
+2 h
 
 |
 
@@ -748,48 +722,6 @@ Arts du cirque
 
 |
 
-un enseignement de spécialité au choix (e) parmi :
-
-|
-
-|
-
-Économie approfondie
-
-|
-
-1 h 30
-
-|
-
-LCA. latin (g)
-
-|
-
-3 h
-
-|
-
-Mathématiques
-
-|
-
-2 h
-
-|
-
-|
-
-|
-
-LCA . grec (g)
-
-|
-
-3 h
-
-|
-
 Physique-chimie
 
 |
@@ -798,11 +730,15 @@ Physique-chimie
 
 |
 
-|
+Economie approfondie
 
 |
 
-LV3 (a, b, g)
+1 h 30
+
+|
+
+LCA : latin (g)
 
 |
 
@@ -822,6 +758,30 @@ Sciences de la vie et de la Terre
 
 |
 
+LCA : grec (g)
+
+LV3 (a, b, g)
+
+|
+
+3 h
+
+3 h
+
+|
+
+Informatique et sciences du numérique
+
+|
+
+2 h
+
+|
+
+|
+
+|
+
 LV1 ou 2 approfondies
 
 |
@@ -830,7 +790,7 @@ LV1 ou 2 approfondies
 
 |
 
-Informatique et sciences du numérique
+Ecologie, agronomie et territoires (h)
 
 |
 
@@ -850,11 +810,7 @@ Mathématiques
 
 |
 
-Ecologie, agronomie et territoires (h)
-
 |
-
-2 h
 
 |
 
@@ -890,11 +846,9 @@ a) 2 enseignements au plus parmi :
 
 |
 
-a) histoire-géographie
+a) 2 enseignements au plus parmi :
 
 |
-
-2 h
 
 |
 
@@ -914,9 +868,11 @@ LV3 (a, b, g)
 
 |
 
-b) 2 enseignements au plus parmi :
+LV3 (a) (b)
 
 |
+
+3 h
 
 |
 
@@ -936,7 +892,7 @@ LCA : latin (g)
 
 |
 
-LV3 (a) (b)
+LCA : latin
 
 |
 
@@ -952,7 +908,7 @@ LCA : grec
 
 |
 
-LCA : (grec) (g)
+LCA : grec (g)
 
 |
 
@@ -960,7 +916,15 @@ LCA : (grec) (g)
 
 |
 
-LCA. latin
+LCA : grec
+
+|
+
+3 h
+
+|
+
+Education physique et sportive
 
 |
 
@@ -977,14 +941,6 @@ Education physique et sportive
 |
 
 Education physique et sportive
-
-|
-
-3 h
-
-|
-
-LCA. grec
 
 |
 
@@ -1005,30 +961,6 @@ Arts (f)
 |
 
 3 h
-
-|
-
-Education physique et sportive
-
-|
-
-3 h
-
-|
-
-b) atelier artistique
-
-|
-
-72 h annuelles
-
-|
-
-b) atelier artistique
-
-|
-
-72 h annuelles
 
 |
 
@@ -1072,15 +1004,23 @@ Pratiques sociales et culturelles (h)
 
 |
 
-|
+b) atelier artistique
 
 |
 
-|
+72 h annuelles
 
 |
 
-c) atelier artistique
+b) atelier artistique
+
+|
+
+72 h annuelles
+
+|
+
+b) atelier artistique
 
 |
 
@@ -1094,16 +1034,18 @@ c) atelier artistique
 
 (c) Les élèves qui bénéficient d'un enseignement complémentaire d'EPS de 4 heures en sus de l'enseignement obligatoire ne peuvent pas le cumuler avec l'option facultative d'EPS.
 
-(d) Enseignement dispensé en groupe à effectif réduit
+(d) Enseignement dispensé en groupe à effectif réduit.
 
-(e) Dans le cas du choix de sciences de l'ingénieur dans les enseignements obligatoires de la série S, le choix de l'enseignement de spécialité est facultatif
+(e) Dans le cas du choix de sciences de l'ingénieur dans les enseignements obligatoires de la série S, le choix de l'enseignement de spécialité est facultatif.
 
-(f) Au choix parmi : arts plastiques ou cinéma-audiovisuel ou danse ou histoire des arts ou musique ou théâtre. Les élèves ont la possibilité de cumuler en enseignement de spécialité et en option
+(f) Au choix parmi : arts plastiques ou cinéma-audiovisuel ou danse ou histoire des arts ou musique ou théâtre. En série L, les élèves ont la possibilité de cumuler en enseignement de spécialité et en option facultative deux enseignements relevant d'un même domaine artistique ou non.
 
-facultative deux enseignements relevant d'un même domaine artistique au non.
+(g) Un même enseignement de langues et cultures de l'Antiquité ou de LV3 ne peut être pris au titre de l'enseignement de spécialité et au titre de l'option facultative.
 
-(g) Un même enseignement de langues et cultures de l'Antiquité ou dé LV3 ne peut être pris au titré de l'enseignement de spécialité et au titre dé l'option facultative.
-
-(h) Enseignements assurés uniquement dans lés lycées d'enseignement général et technologique agricole
+(h) Enseignements assurés uniquement dans les lycées d'enseignement général et technologique agricole.
 
 |
+
+NOTA :
+
+Arrêté du 19 décembre 2012, article 3 : Les dispositions du présent arrêté entrent en application à compter de la rentrée de l'année scolaire 2013-2014 en classes de première et à compter de la rentrée de l'année scolaire 2014-2015 en classes terminales. En tant que de besoin, le ministre chargé de l'éducation nationale et le ministre chargé de l'agriculture fixent les dispositions applicables lors de ces rentrées aux élèves redoublants.
