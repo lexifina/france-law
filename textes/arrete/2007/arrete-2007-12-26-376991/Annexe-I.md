@@ -68,6 +68,14 @@ Chef du bureau du droit et des procédures d'expulsion. |
 
 |
 
+Adjoint au chef du bureau des polices administratives.
+
+|
+
+30
+
+|
+
 Direction générale de la sécurité civile et de la gestion des crises.
 
 |
@@ -80,7 +88,7 @@ Chef du bureau des affaires financières et juridiques.
 
 |
 
-Chef du bureau du statut, du management et du dialogue social.
+Chef du bureau des statuts et du management.
 
 |
 
@@ -104,7 +112,7 @@ Adjoint administratif du chef de la base avions de la sécurité civile.
 
 |
 
-Chef du bureau de l'alerte, de la planification et de la préparation aux crises.
+Chef du bureau de l'alerte, de la sensibilisation et de l'éducation des publics.
 
 |
 
@@ -136,7 +144,7 @@ Chef de cabinet.
 
 |
 
-Direction de l'évaluation de la performance et des affaires financières et immobilières. (2)
+Direction de l'évaluation de la performance et des affaires financières et immobilières.
 
 |
 
@@ -148,7 +156,7 @@ Chef du bureau du budget et du fonctionnement.
 
 |
 
-Chef du bureau de la qualité juridique et comptable.
+Chef du bureau du contrôle interne comptable.
 
 |
 
@@ -181,14 +189,6 @@ Adjoint au chef du bureau des affaires immobilières d'administration centrale.
 |
 
 Direction de la modernisation et de l'action territoriale.
-
-|
-
-Adjoint au chef du bureau des polices administratives
-
-|
-
-30
 
 |
 
@@ -398,6 +398,12 @@ Chef de la division de la formation des personnels administratifs, techniques et
 
 |
 
+Adjoint au chef du bureau des affaires juridiques et statutaires.
+
+|
+
+30 |
+
 Chef du bureau des politiques sociales. |
 
 30 |
@@ -450,7 +456,23 @@ Direction des ressources humaines.
 
 |
 
-Chef du bureau du recrutement.
+Chef du service de la modernisation et de la performance.
+
+|
+
+50
+
+|
+
+Adjoint au chef du service de gestion des personnels de la police nationale.
+
+|
+
+50
+
+|
+
+Adjoint au chef du service de gestion des personnels d'administration générale, chef du bureau du dialogue social, des affaires statutaires et indemnitaires.
 
 |
 
@@ -578,7 +600,7 @@ Chef du bureau de la sécurité de l'habitat.
 
 |
 
-Direction de la police urbaine de proximité.
+Direction de la sécurité de proximité de l'agglomération parisienne.
 
 |
 
@@ -650,36 +672,40 @@ Chef du département de la dépense de l'Etat.
 
 |
 
-Ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire.
+Secrétariat général à l'immigration et à l'intégration.
 
 |
 
 Chef du bureau du droit de l'éloignement.
 
+|
+
+30
+
+|
+
 Chef du département de l'asile à la frontière et de l'admission au séjour.
 
 |
 
-30
-
-30
-
-|
+30 |
 
 Agence nationale des titres sécurisés.
 
 |
 
-Chef du département qualité. |
+Chef du département qualité.
+
+|
 
 30
 
 |
 
-NOTA :
+Direction générale de la gendarmerie nationale. |
 
-Arrêté du 3 décembre 2010 article 4 : :
+Chef du bureau du personnel civil. |
 
-(1) Les présentes dispositions entreront en vigueur le 1er janvier 2011.
+30
 
-(2) Les présentes dispositions entreront en vigueur le 1er février 2011
+|
