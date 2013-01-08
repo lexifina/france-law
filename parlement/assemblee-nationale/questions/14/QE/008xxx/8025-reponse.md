@@ -1,0 +1,9 @@
+# Réponse à la question n° 8025
+
+- Question : [8025](8025.md) — Question n° 8025 — établissements de santé; établissement public départemental de santé mentale; transfert
+
+## Réponse
+
+*JO du 2013-01-08*
+
+Après expertise par le directeur général de l'agence régionale de santé (ARS) de Martinique, la ministre des affaires sociales et de la santé a décidé de placer l'établissement départemental de santé mentale de Martinique (EPDSM) sous administration provisoire. Cet hôpital prend en charge six secteurs de psychiatrie adulte et l'inter-secteur de psychiatrie infanto juvénile couvrant l'ensemble du département. Il connait des difficultés financières et de management depuis plusieurs mois. Un inspecteur général des affaires sociales (IGAS) et un conseiller général des établissements de santé (CGES) sont sur place pour décider de mesures d'urgence pour mettre fin aux dysfonctionnements et irrégularités constatées : - évaluer la situation financière réelle de l'établissement ; - élaborer un plan de retour à l'équilibre (PRE) ; - organiser la mise en sécurité des patients par le déménagement sur la cité hospitalière de Mangot-Vulcin. Les transferts de patients de l'ancien centre hospitalier de Colson vers la nouvelle cité hospitalière ont eu lieu en décembre 2012 et s'achèveront début 2013. Des mesures concrètes d'amélioration de l'offre de soins psychiatriques ont été décidées par l'ARS en collaboration avec le conseil général : - la création d'unités de moyen et de long séjour (85 lits au total) ; - la création d'un établissement de personnes âgées dépendantes (EHPAD) à profil psychiatrique de 60 places ; - l'accueil de 20 patients en foyer d'accueil médicalisé (FAM) ; - l'extension d'une maison d'accueil spécialisé (MAS). A terme, c'est toute la psychiatrie de la Martinique qui doit bénéficier de cette restructuration au travers d'un nouveau schéma de prise en charge incluant les urgences et l'offre ambulatoire.
