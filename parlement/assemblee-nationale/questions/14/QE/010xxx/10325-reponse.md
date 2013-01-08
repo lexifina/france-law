@@ -1,0 +1,9 @@
+# Réponse à la question n° 10325
+
+- Question : [10325](10325.md) — Question n° 10325 — filière équine; revendications
+
+## Réponse
+
+*JO du 2013-01-08*
+
+La filière équine française représente un atout stratégique pour l'emploi en France. Le ministre de l'agriculture, de l'agroalimentaire et de la forêt en a pleinement appréhendé l'importance ainsi que la complexité des mutations qui la traversent. C'est pourquoi il a entrepris l'étude des moyens à mettre en oeuvre pour accompagner cette filière en associant à cette réflexion les institutionnels et représentants professionnels, dont la fédération nationale du cheval (FNC), qui ont été reçus durant l'automne. Les propositions contenues dans le manifeste de la FNC qui concernent la politique agricole commune (PAC) post-2013, telles que les adaptations de la prime aux races menacées équines (PRME), ne pourront être examinées que lorsque le cadre communautaire sera mieux connu. Les négociations sur la PAC post-2013 sont engagées à l'échelle communautaire, sur la base des propositions législatives de la Commission européenne qui ont été rendues publiques à la mi-octobre 2011. Le débat sur les modalités précises de la PAC post-2013 est ainsi loin d'être clos entre les États membres, le Parlement et la Commission. La France reste particulièrement attentive, au cours des négociations, à ce que les différents volets de la future PAC contiennent les dispositifs et instruments appropriés aux différentes filières agricoles. De la même façon, la proposition de texte relative au développement rural, qui encadrera la prochaine programmation européenne, n'est pas encore stabilisée. Concernant les mesures nationales contenues dans le manifeste de la FNC, l'État est prêt à accompagner la structuration de la profession, qui pourra alors se doter d'outils spécifiques, comme les contrats de filière proposés. Enfin, de nombreuses propositions sont déjà en oeuvre, telles que la généralisation du bouton auriculaire.
