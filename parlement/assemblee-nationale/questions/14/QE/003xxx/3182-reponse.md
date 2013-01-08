@@ -1,0 +1,9 @@
+# Réponse à la question n° 3182
+
+- Question : [3182](3182.md) — Question n° 3182 — enseignement religieux; dispense; organisation
+
+## Réponse
+
+*JO du 2013-01-08*
+
+En Alsace-Moselle, le maintien en vigueur du droit local en matière d'enseignement résulte de la loi (article L. 481-1 du code de l'éducation). Ainsi, parallèlement à l'affirmation constitutionnelle du principe de laïcité, l'enseignement de la religion y est obligatoire et s'accompagne de la faculté ouverte aux élèves, sur demande de leur représentants légaux, d'en être dispensés (cf. article D. 481-5 du même code). Dans le premier degré, les modalités de dispense sont précisées par la réglementation : les dispenses doivent être adressées au directeur d'école par déclaration écrite ou verbale et contresignées des représentants légaux. Le registre d'appel reçoit, par les soins du directeur d'école, la mention de l'origine et de la date des lettres ou déclarations par lesquelles les représentants légaux des enfants dispensent ceux-ci de l'enseignement religieux. L'article D. 481-6 du code de l'éducation dispose que les enfants dispensés reçoivent, en lieu et place de l'enseignement religieux, « un complément d'enseignement moral ». Les enfants ne sont donc pas, en toute hypothèse, livrés à eux-mêmes lorsqu'ils n'assistent pas à l'heure d'enseignement religieux. Il convient de souligner à cet égard, que les modalités de dispense de l'enseignement religieux ont été récemment simplifiées par le recteur de l'académie de Strasbourg. Les familles ne sont plus tenues, en effet, de demander expressément qu'un formulaire de dispense leur soit adressé pour que l'enfant reçoive un « complément d'enseignement moral ». Il leur suffit de mentionner directement leur préférence pour un « enseignement de morale » dans le formulaire prévu à cet effet.
