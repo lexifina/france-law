@@ -1,0 +1,9 @@
+# Réponse à la question n° 9242
+
+- Question : [9242](9242.md) — Question n° 9242 — prise en charge; maladies lysosomales
+
+## Réponse
+
+*JO du 2013-01-08*
+
+Les maladies lysosomales sont des maladies rares pour lesquelles il est extrêmement difficile de connaître le nombre de personnes touchées, compte tenu de leur polymorphisme. Trois axes principaux ont été engagés pour les années 2012-2014 : l'amélioration de la qualité de la prise en charge des patients, le développement de la recherche et l'amplification des coopérations européennes et internationales dans le domaine des maladies rares. La formation et l'information des professionnels de santé, des personnes malades, des familles et du grand public font partie des mesures de ce plan. Pour les professionnels de santé, cette formation est prévue dans le cadre du développement professionnel continu. En matière d'information des médecins, le développement et l'enrichissement constants de la base de données Orphanet, accessible gratuitement par tous sur Internet (www. orpha. net) permet aux médecins de disposer d'informations scientifiques et pratiques sur toutes les maladies rares. En effet, elle comprend notamment un inventaire et une encyclopédie des maladies rares et des gènes associés, un outil d'aide au diagnostic, une liste par maladie des centres d'expertise et des laboratoires diagnostiques en France et en Europe, des recommandations de bonne pratique disponibles, des fiches d'information sur les situations d'urgence et l'anesthésie, les associations de patients existantes. Enfin, chaque année, le dernier jour du mois de février, la journée nationale « maladies rares » est l'occasion pour les associations de patients, les professionnels de santé, les chercheurs et les autorités publiques d'associer leurs efforts pour mieux faire connaître cette maladie. En 2013, le thème de la journée sera la solidarité au sein de la communauté des maladies rares.
