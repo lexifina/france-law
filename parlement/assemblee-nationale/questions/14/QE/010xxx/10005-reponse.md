@@ -1,0 +1,9 @@
+# Réponse à la question n° 10005
+
+- Question : [10005](10005.md) — Question n° 10005 — infirmiers; assujettissement
+
+## Réponse
+
+*JO du 2013-01-08*
+
+L'ordre des masseurs-kinésithérapeutes affiche une proportion de professionnels inscrits au tableau très élevée, situation liée au caractère majoritairement libéral de cette profession, et a su rencontrer l'adhésion de ceux qui la composent. Il n'y a donc pas lieu de rendre facultative l'adhésion à l'ordre des masseurs-kinésithérapeutes. En revanche, parmi les ordres existants, celui des infirmiers revêt des particularités indéniables. Les conditions de sa création, les modalités d'exercice des infirmiers, en grande majorité salariés, qui rejettent en masse l'instance ordinale mise en place, les difficultés récurrentes lors de sa mise en place, puis de sa gestion, ont amené la ministre des affaires sociales et de la santé à proposer que l'adhésion à cet ordre soit rendue facultative. Cela nécéssite une disposition législative et un parlementaire s'est saisi de cette question en vue de déposer une proposition de loi sur le sujet.
