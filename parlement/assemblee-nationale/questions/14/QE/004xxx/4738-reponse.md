@@ -1,0 +1,9 @@
+# Réponse à la question n° 4738
+
+- Question : [4738](4738.md) — Question n° 4738 — véhicules particuliers; exportation vers la métropole; formalités
+
+## Réponse
+
+*JO du 2013-01-08*
+
+Les règles relatives à l'immatriculation de véhicules importés sur le territoire métropolitain et précédemment immatriculés dans un département ou un territoire d'outre-mer sont fixées par l'arrêté du 9 février 2009 modifié relatif à l'immatriculation des véhicules, notamment ses articles 12 F et 12 G. Ces véhicules en provenance d'outre-mer font l'objet de formalités douanières particulières lors de leur importation en France métropolitaine car il s'agit de territoires fiscaux différents. C'est la raison pour laquelle est exigé, pour l'immatriculation de ces véhicules en France métropolitaine, un certificat dit « 846A », document délivré par l'administration des douanes attestant de la régularité de la situation douanière et fiscale des véhicules concernés. Les modalités d'immatriculation des véhicules, notamment en ce qui concerne les vérifications de leurs caractéristiques techniques, demeurent par ailleurs identiques entre les départements d'outre-mer et la France métropolitaine. Seuls les véhicules en provenance de collectivités d'outre-mer, disposant de leur propre système d'immatriculation, peuvent le cas échéant faire l'objet de contrôles techniques spécifiques. Il s'agit toutefois de cas particuliers et résiduels où le titulaire du certificat d'immatriculation ne peut produire une attestation de l'administration territoriale concernée précisant que le véhicule a été, à l'origine, immatriculé au vu d'un certificat de conformité national ou communautaire. Dans ce cas de figure, le véhicule doit faire l'objet d'une réception spécifique dite « à titre isolé » attestant de la bonne conformité de ses caractéristiques techniques. Le Gouvernement n'envisage donc pas de modifier cette réglementation.
