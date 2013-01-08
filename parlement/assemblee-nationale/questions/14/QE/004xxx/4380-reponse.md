@@ -1,0 +1,9 @@
+# Réponse à la question n° 4380
+
+- Question : [4380](4380.md) — Question n° 4380 — domaines viticoles; acquéreurs étrangers
+
+## Réponse
+
+*JO du 2013-01-08*
+
+Un investisseur chinois s'est porté acquéreur du château de Gevrey, domaine viticole de deux hectares situé en Bourgogne, en aire d'appellation d'origine contrôlée « Gevrey- Chambertin ». Il convient de noter que le château de Gevrey n'est pas le premier investissement chinois en Bourgogne : un domaine de deux hectares a en effet été acquis en février dernier en appellation d'origine contrôlée « Vosne-Romanée », dans le cadre d'une association pour son exploitation avec un viticulteur français. Par ailleurs, d'autres vignobles, notamment situés dans le bordelais, ont été également acquis par les investisseurs étrangers chinois. Les investisseurs sont généralement des connaisseurs de la filière vitivinicole, parfois titulaires de diplômes en oenologie ou en oenotourisme. Cet intérêt des investisseurs étrangers témoigne de la notoriété de la viticulture française. L'engagement d'investisseurs étrangers dans la filière viticole française peut participer au développement de cette notoriété au-delà de nos frontières. Au niveau de la superficie totale du vignoble français qui représente environ 800 000 hectares, la proportion des superficies qui changent chaque année de propriétaire est de 2,5 % et certaines transactions peuvent atteindre des prix considérables, de l'ordre de 20 millions d'euros par hectare, notamment en Champagne ou en Bourgogne. Globalement, les français restent les premiers acheteurs de vignoble. En ce qui concerne le domaine de Gevrey, l'achat des vignes n'a pas remis en cause leur exploitation au niveau local : la mise en valeur des biens a en effet été confiée à des vignerons qui gèrent déjà d'autres vignobles. Ces modalités de reprise préservent donc la mise en valeur au niveau local du patrimoine viticole existant.
