@@ -1,0 +1,9 @@
+# Réponse à la question n° 13189
+
+- Question : [13189](13189.md) — Question n° 13189 — rémunérations; revalorisation
+
+## Réponse
+
+*JO du 2013-01-08*
+
+La garde des sceaux, ministre de la justice, a indiqué lors du débat budgétaire qu'elle regrettait de ne pas avoir pu revaloriser l'indemnité allouée aux fonctionnaires de greffe dans le cadre du projet de loi de finances pour 2013. Elle n'ignore pas l'absence d'évolution statutaire et indemnitaire depuis la réforme de 2003 ainsi que les difficultés et les enjeux liés aux différents projets statutaires qui ont pu être proposés ces dernières années aux greffiers des services judiciaires (projet de fusion des corps des greffiers des services judiciaires et des secrétaires administratifs relevant du ministère de la justice et projet d'intégration du corps des greffiers dans le Nouvel Espace Statutaire de la catégorie B). La garde des sceaux souhaite que de nouvelles propositions d'évolutions statutaires puissent être rapidement étudiées à partir d'une réflexion globale sur les missions confiées aux magistrats et fonctionnaires des services judiciaires. C'est la raison pour laquelle la garde des sceaux a confié à l'Institut des hautes études sur la justice le soin de mener une réflexion sur l'office du juge et son périmètre d'intervention. Elle a en outre mis en place avec la direction des services judiciaires un groupe de travail sur l'assistance au magistrat qui fera dans les prochains mois notamment des propositions concrètes d'évolution des métiers et des carrières des fonctionnaires des services judiciaires. Les organisations syndicales représentatives sont pleinement associées à ce groupe de travail dont les conclusions sont attendues pour le mois de juin 2013. La garde des sceaux souhaite ainsi avancer rapidement sur ce dossier afin d'assurer, en lien avec le ministère de la fonction publique, une évolution des carrières des fonctionnaires des greffes.
