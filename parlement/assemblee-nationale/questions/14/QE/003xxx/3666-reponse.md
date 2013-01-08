@@ -1,0 +1,9 @@
+# Réponse à la question n° 3666
+
+- Question : [3666](3666.md) — Question n° 3666 — jurés; statut
+
+## Réponse
+
+*JO du 2013-01-08*
+
+La loi n° 2011-939 du 10 août 2011 sur la participation des citoyens au fonctionnement de la justice pénale et le jugement des mineurs a prévu, à titre expérimental dans les ressorts des cours d'appel de Dijon et de Toulouse, que des citoyens assesseurs, qui sont des personnes tirées au sort chaque année à partir des listes électorales, feront partie de la composition de plusieurs juridictions répressives. Deux arrêtés des 16 février et 2 mai 2012 ont étendu l'expérimentation, à compter du 1er janvier 2013, dans le ressort de huit autres cours d'appel. Peu de temps après sa prise de fonction, la garde des sceaux, ministre de la justice, a considéré après avoir entendu l'avis concordant des chefs de cour et tribunaux que cette extension de l'expérimentation, qui impliquait la désignation des citoyens assesseurs au cours de l'année 2012 puis leur participation aux audiences des juridictions à compter du 1er janvier 2013, ne pouvait être poursuivie du fait de sa lourdeur, de ses conséquences sur le fonctionnement des juridictions et du défaut de bilan complet de l'expérimentation. C'est pourquoi l'arrêté du 13 juin 2012 a mis fin à l'extension de l'expérimentation dans les huit cours d'appel désignées par les arrêtés de février et juin 2012. La garde des sceaux a en outre confié à deux avocats généraux près la cour de cassation le soin de dresser le bilan de cette expérimentation. Si l'expérimentation se poursuit pour l'instant dans les cours d'appel de Dijon et de Toulouse, des décisions seront prises au début de l'année 2013. Conformément à la loi, un rapport sera déposé au Parlement, six mois au moins avant le 1er janvier 2014, au terme de l'expérimentation.
