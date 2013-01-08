@@ -1,0 +1,9 @@
+# Réponse à la question n° 7708
+
+- Question : [7708](7708.md) — Question n° 7708 — rapport parlementaire; propositions; perspectives
+
+## Réponse
+
+*JO du 2013-01-08*
+
+Les universités françaises déploient désormais leur offre de formation dans le cadre des principes qui président à la construction de l'espace européen de l'enseignement supérieur. Elles ont la possibilité de créer soit des diplômes d'établissement qui sont conçus et délivrés sous leur seule responsabilité, soit des diplômes nationaux. Dans ce dernier cas, il appartient à l'université de définir elle-même les objectifs de la formation, son contenu, son organisation pédagogique et les modalités de contrôle des connaissances et compétences, puis de soumettre le dossier correspondant à l'habilitation de l'Etat qui a le monopole de la collation des grades et titres universitaires. La demande d'habilitation fait l'objet de la part de l'Etat d'une instruction s'il s'agit de la création d'un nouveau diplôme, ou d'une évaluation effectuée par l'agence d'évaluation de la recherche et de l'enseignement supérieur (AERES) s'il s'agit d'un diplôme en renouvellement d'habilitation. Sur la base de cette instruction ou de cette évaluation, l'Etat, après avis du conseil national de l'enseignement supérieur et de la recherche (CNESER), prononce ou refuse l'habilitation du diplôme considéré. La proposition du centre d'analyse stratégique (CAS) peut s'inscrire sans difficulté dans le cadre de la réglementation existante. Dans tous les cas, qu'il s'agisse d'un diplôme d'établissement ou d'un diplôme national, l'initiative de créer une formation professionnelle revient à l'université. Il lui appartient ensuite de décider de solliciter ou non l'habilitation de l'Etat, selon qu'elle souhaite ou non délivrer un diplôme national qui constitue une garantie de qualité et confère au titulaire de la certification un grade ou un titre universitaire.
