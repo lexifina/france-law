@@ -1,0 +1,9 @@
+# Réponse à la question n° 8873
+
+- Question : [8873](8873.md) — Question n° 8873 — Mauritanie; conditions d'attribution
+
+## Réponse
+
+*JO du 2013-01-08*
+
+La loi n° 93-7 du 4 janvier 1993 a étendu le droit à la carte du combattant et au titre de reconnaissance de la Nation (TRN) aux militaires des forces armées françaises, qui, en vertu des décisions des autorités françaises, ont participé, au sein d'unités françaises ou alliées ou de forces internationales, soit à des conflits armés, soit à des opérations ou missions menées conformément aux obligations et engagements internationaux de la France. L'arrêté du 12 janvier 1994 modifié détermine les périodes, États et territoires ouvrant droit, le cas échéant, à ces titres. S'agissant de la Mauritanie, les périodes retenues pour la délivrance de la carte du combattant, comme du TRN, s'étendent du 1er janvier 1957 au 31 décembre 1959, puis du 1er novembre 1977 au 30 octobre 1980. Ces dates correspondent aux périodes pendant lesquelles des unités françaises ont été impliquées dans des actions de feu ou de combat, ce qui a permis leur reconnaissance comme unités combattantes. A cet égard, l'absence de combat impliquant des unités françaises en Mauritanie au début des années 1960 a toujours conduit à rejeter les demandes formulées dans ce sens. Il convient de rappeler sur ce point que la mise en place de l'armée mauritanienne au moment de l'indépendance de ce territoire a permis le retrait progressif des forces françaises, l'accord de défense de 1962 ne prévoyant que le maintien d'une mission d'aide militaire technique. A ce dispositif, très limité, se sont ajoutées, à la demande des autorités mauritaniennes, des missions ponctuelles de soutien logistique en septembre 1962 et novembre 1965, et de sécurisation des installations de l'aviation mauritanienne en septembre 1965. Dès lors, l'arrêté du 12 janvier 1994 ne paraît pas devoir être modifié sur ce point.
