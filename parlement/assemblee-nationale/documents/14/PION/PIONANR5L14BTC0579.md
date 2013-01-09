@@ -1,0 +1,13 @@
+# proposition de loi sur , en nouvelle lecture,  la proposition de loi , adoptée par l'Assemblée nationale après engagement de la procédure accélérée, visant à préparer la transition vers un système énergétique sobre et qui a fait l'objet d'un vote de rejet par le Sénat  au cours de sa séance du 30/10/2012 (n°338)
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Statut : ADOPTCOM
+- Titre court : transition vers un système énergétique sobre
+- Déposé le : 2013-01-09
+- Publié le : 2013-01-14
+- Dossier : DLR5L14N29019
+- Auteurs : M. François Brottes (rapporteur), Commission des affaires économiques
+- Identifiant : PIONANR5L14BTC0579
+- Législature : 14
