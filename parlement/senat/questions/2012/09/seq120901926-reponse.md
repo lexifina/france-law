@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901926
+
+- Question : [SEQ120901926](seq120901926.md) — Informations des enseignants élus sur leurs droits en matière de crédits d'heures ou d'autorisation d'absence
+
+## Réponse
+
+*Éducation nationale, JO du 2013-01-10, page 77*
+
+En application de l'article 11 bis de la loi n° 83-634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires, l'ensemble des fonctionnaires bénéficient des garanties accordées aux titulaires de mandats locaux reconnues par le code général des collectivités territoriales (CGCT). Ils jouissent notamment d'autorisations d'absence de droit accordées dans le cadre des travaux d'une assemblée publique élective et d'un crédit d'heures dont l'objet est de permettre aux agents de concilier leur activité professionnelle et leurs fonctions d'élu local et de leur conférer le temps nécessaire à l'administration de leur collectivité et des organismes auprès desquels ils la représentent ainsi qu'à la préparation des réunions des instances au sein desquelles ils siègent. L'existence de ces deux dispositifs a été rappelée aux services académiques par la circulaire ministérielle n° 2002-168 du 2 août 2002 relative aux autorisations d'absence de droit et facultatives. Par ailleurs, les associations d'élus locaux possèdent généralement une documentation complète sur leurs droits. L'association des maires de France (AMF) diffuse ainsi chaque année à ses adhérents une brochure - consultable également sur le site internet - sur le statut de l'élu(e) local(e), où sont abordés les autorisations d'absence et le crédit d'heures. Il appartient en outre au fonctionnaire nouvellement titulaire d'un mandat local d'avoir une démarche active et de se renseigner sur les moyens mis à sa disposition pour concilier son mandat avec l'exercice de son activité professionnelle auprès de son établissement d'affectation et du rectorat de son académie.
