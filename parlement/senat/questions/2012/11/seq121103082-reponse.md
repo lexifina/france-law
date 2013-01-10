@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121103082
+
+- Question : [SEQ121103082](seq121103082.md) — Interprétation de l'article L. 2333-7 du code général des collectivités territoriales relatif à la TLPE
+
+## Réponse
+
+*Intérieur, JO du 2013-01-10, page 88*
+
+L'article L. 2333-7 du code général des collectivités territoriales (CGCT) dispose que la taxe locale sur la publicité extérieure (TLPE) frappe les supports publicitaires fixes définis à l'article L. 581-3 du code de l'environnement, visibles de toute voie ouverte à la circulation publique à savoir : les dispositifs publicitaires ; les enseignes ; les préenseignes, y compris celles visées par les deuxième et troisième alinéas de L. 581-19 du code de l'environnement. L'alinéa 7 du même article prévoit expressément l'exonération des « supports exclusivement dédiés à l'affichage de publicités à visée non commerciale ou concernant des spectacles ». De même échappent à l'application de la TLPE « les supports exclusivement destinés à la signalisation directionnelle apposés sur un immeuble ou installés sur un terrain et relatifs à une activité qui s'y exerce ou à un service qui y est proposé ». Au regard des dispositions combinées des septième et dixième alinéas de l'article L. 2333-7 du CGCT, les supports apposés sur les façades des parcs d'exposition et des centres de congrès ou sur les terrains attenants en vue de signaler les voies d'accès aux manifestations temporaires et de spectacles ne sauraient donc valablement entrer dans l'assiette de la TLPE. En revanche, des supports, qui, au-delà de leur fonction proprement directionnelle, ne se situeraient pas aux abords immédiats et assureraient un rôle promotionnel ou commercial en indiquant « la proximité d'un immeuble ou s'exerce une activité déterminée, s'assimileraient à des préenseignes au sens du 3° de l'article L. 581-3 du code de l'environnement et, à ce titre pourraient se voir assujettis à la TLPE.
