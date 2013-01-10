@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120701058
+
+- Question : [SEQ120701058](seq120701058.md) — Violences lors des compétitions de football
+
+## Réponse
+
+*Sports, jeunesse, éducation populaire et vie associative, JO du 2013-01-10, page 90*
+
+La violence n'a pas sa place dans le sport. C'est pourquoi les pouvoirs publics sont entièrement mobilisés, aux côtés du mouvement sportif, pour bannir la violence des stades. Différentes actions de prévention du ministère en charge des sports ont été planifiées pour 2012/2013. Des chartes relatives au supportérisme (une destinée à tout spectateur sportif et l'autre destinée aux relations entre un club sportif et ses associations de supporters) et au respect de l'autre dans le sport (destinée à lutter contre les discriminations au sens large dans le sport) ont été élaborées au sein de groupes de travail pilotés par le ministère. Elles seront expérimentées lors de la saison sportive 2012/2013. Des rapprochements sont prévus avec les clubs professionnels de football grâce au partenariat noué avec la Ligue de football professionnel et l'Union des Clubs Professionnels de Football. Le guide juridique relatif à la prévention et la lutte contre les incivilités, violences et discriminations dans le sport a été mis à jour. Il est organisé sous forme de 12 fiches thématiques articulées en questions-réponses dont deux nouvelles sont consacrées au supportérisme. Elles dressent un panorama précis de la législation, de la réglementation concernant les comportements de supporters contraires aux valeurs du sport et des sanctions qui s'y rapportent. De plus, un rappel de la jurisprudence récente est effectué et vise ainsi à lutter ainsi contre certaines banalisations de violences dans les stades (notamment la violence verbale). Outil d'information et de sensibilisation, ce guide doit être diffusé au début de l'année 2013 auprès du mouvement sportif mais aussi, via le site internet du ministère en charge des sports, auprès du public.
