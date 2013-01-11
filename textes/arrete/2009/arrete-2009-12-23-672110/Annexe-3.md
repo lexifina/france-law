@@ -10,27 +10,11 @@ TRIBUNAUX ADMINISTRATIFS
 
 |
 
-Service local du contentieux de Saint-Germain-en-Laye
-
-|
-
-Amiens, Cergy-Pontoise, Lille, Versailles, Montreuil
-
-|
-
 Service local du contentieux de Lyon
 
 |
 
 Clermont-Ferrand, Dijon, Grenoble, Lyon
-
-|
-
-Service local du contentieux de Brest
-
-|
-
-Nantes
 
 |
 
@@ -46,7 +30,7 @@ Service local du contentieux de Rennes
 
 |
 
-Orléans, Rennes
+Caen, Nantes, Rennes
 
 |
 
@@ -54,15 +38,7 @@ Service local du contentieux de Metz
 
 |
 
-Besançon, Nancy, Strasbourg
-
-|
-
-Service local du contentieux de Cherbourg
-
-|
-
-Caen, Rouen
+Besançon, Châlons-en-Champagne, Nancy, Strasbourg
 
 |
 
@@ -78,6 +54,6 @@ Service local du contentieux de Villacoublay
 
 |
 
-Châlons-en-Champagne, Melun, Paris
+Amiens, Cergy-Pontoise, Lille, Melun, Montreuil, Orléans, Paris, Rouen, Versailles
 
 |

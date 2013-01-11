@@ -1,36 +1,32 @@
 # Article Annexe 1
 
-LIMITES DE COMPÉTENCE RELATIVES AU RÈGLEMENT AMIABLE DES DOMMAGES
+LIMITES DE COMPÉTENCES RELATIVES AU RÈGLEMENT AMIABLE DES DOMMAGES
 
-DÉCISIONS
+DÉCISION D'ALLOCATION
 
-d'allocation (1)
-
-|
-
-DÉCISIONS
-
-d'allocation
-
-d'indemnités
-
-provisionnelles
+d'une indemnité définitive (1)
 
 |
 
-DÉCISIONS DE REJET
+DÉCISION D'ALLOCATION
 
-(à l'exception des décisions
+d'une indemnité provisionnelle
 
-opposant la prescription
+|
 
-prévue par la loi n° 68-1250
+DÉCISION DE REJET
+
+(sauf en matière d'opposition
+
+de la prescription prévue
+
+par la loi n° 68-1250
 
 du 31 décembre 1968)
 
 |
 
-DÉCISIONS DE MISE À CHARGE
+DÉCISION DE MISE À CHARGE
 
 |
 
@@ -72,12 +68,12 @@ Illimité (2)
 
 |
 
-(1) Si, à l'occasion d'un même dommage, il y a plusieurs requérants, c'est l'indemnité la plus élevée susceptible d'être accordée qui doit être prise en considération pour déterminer la compétence pour l'ensemble de l'affaire.
+(1) Si, à l'occasion d'un même dommage, il y a plusieurs victimes, c'est l'indemnité la plus élevée susceptible d'être accordée qui doit être prise en considération pour déterminer la compétence au titre de l'ensemble de l'affaire.
 
-(2) Le montant des décisions de rejet et des décisions de mise à charge à l'égard des tiers est limité à 54 000 euros en ce qui concerne les dommages spécifiquement maritimes.
+(2) Le montant des décisions de rejet et des décisions de mise à charge à l'égard des tiers est limité à 54 000 € en ce qui concerne les dommages spécifiquement maritimes.
 
-(3) Sauf en ce qui concerne les indemnités destinées à réparer les dommages causés par les bang résultant des vols supersoniques pour lesquels le montant de la délégation est fixé à 18 000 euros.
+(3) Sauf en ce qui concerne les indemnités destinées à réparer les dommages causés par les déflagrations résultant des vols supersoniques pour lesquels le montant de la délégation est fixé à 18 000 €.
 
-(4) Les décisions d'allocation et décisions d'allocation provisionnelle prises par les directions du commissariat en opération extérieure ne concernent que la réparation amiable des dommages causés par les forces françaises aux tiers. Les dommages subis par les militaires français en opération extérieure seront indemnisés par le service local du contentieux du ressort duquel dépend l'intéressé.
+(4) Les décisions d'allocation (indemnités provisionnelles ou définitives) prises par les directions du commissariat en opération extérieure ne concernent que la réparation amiable des dommages causés aux tiers par les forces françaises. Les dommages subis par les militaires français en opération extérieure sont indemnisés par le service local du contentieux de Villacoublay (blessures, dommages matériels) ou la direction des affaires juridiques (décès).
 
 |
