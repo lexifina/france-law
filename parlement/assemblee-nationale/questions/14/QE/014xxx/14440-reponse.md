@@ -1,0 +1,9 @@
+# Réponse à la question n° 14440
+
+- Question : [14440](14440.md) — Question n° 14440 — autistes; perspectives
+
+## Réponse
+
+*JO du 2013-01-15*
+
+La France est très en retard dans le dépistage et la prise en charge de l'autisme. Il revient au nouveau Gouvernement de réaliser concrètement le troisième plan autisme. C'est aujourd'hui un impératif : la prévalence de l'autisme est de plus en plus importante, alors que les outils de dépistage et l'offre d'accompagnement sont gravement insuffisants. C'est pourquoi il faut agir vite, et sur plusieurs plans. Renforcer la recherche, dans le champ épidémiologique comme dans le champ social. Développer l'offre d'accompagnement, à partir d'un dépistage plus précoce et en tenant compte des recommandations publiées le 8 mars 2012 par la Haute autorité de santé et l'agence nationale de l'évaluation et de la qualité des établissements et services sociaux et médico-sociaux. Changer de regard sur l'autisme et changer de pratiques. Cela passe à la fois par la sensibilisation de l'opinion publique et par une meilleure formation des professionnels, notamment des médecins et des pédiatres. La logique générale dans laquelle ce plan va s'inscrire est celle de la personnalisation et de l'accessibilité du milieu ordinaire. La ministre déléguée en charge des personnes handicapées et de la lutte contre l'exclusion a réuni le conseil national de l'autisme le 18 juillet 2012, pour constituer des groupes de travail thématiques autour de ces axes. Ces groupes se réuniront par tranches d'âge et par thèmes jusqu'à la fin de l'année, sous le suivi attentif d'un groupe ad hoc. Les familles ont toute leur place dans ce processus de concertation. Le troisième plan sera lancé formellement au printemps 2013, afin de répondre aux besoins réels des personnes avec autisme et de ceux qui les entourent.
