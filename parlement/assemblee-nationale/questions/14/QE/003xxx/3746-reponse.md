@@ -1,0 +1,9 @@
+# Réponse à la question n° 3746
+
+- Question : [3746](3746.md) — Question n° 3746 — conducteurs; revendications
+
+## Réponse
+
+*JO du 2013-01-15*
+
+L'amélioration des infrastructures fait partie, avec le comportement et la sécurité active et passive des véhicules, des axes prioritaires du gouvernement pour diminuer l'accidentalité des usagers de deux roues motorisés. A ce titre, un guide de recommandations pour une meilleure prise en compte des usagers de deux roues motorisés dans les infrastructures a été diffusé très largement début 2012 afin de sensibiliser les gestionnaires de voirie aux particularismes liés à la pratique du deux roues motorisés. Cet ouvrage, produit par le centre d'études sur les réseaux, et les transports, l'urbanisme et les constructions publiques (CERTU) est mis en ligne gratuitement sur le site internet de la Délégation à la sécurité et à la circulation routières (www. securite-routiere. gouv. fr). Outre ce guide, un rapport d'étude a été commandé au service d'études sur les transports, les routes et leurs aménagements (SETRA). Il s'agit, à la lueur d'études d'accidentalité ciblées sur les usagers de deux-roues motorisés, de déterminer les configurations dans lesquelles il y a un enjeu fort relatif à la mise en place des dispositifs de retenue équipés « d'écrans motos ». Enfin, une expérimentation, lancée le 28 mai 2010 pour une durée de 3 ans sur le réseau routier national, permet d'évaluer l'efficacité, du point de vue de la sécurité routière, de l'utilisation de supports de panneaux dits « fragilisés », qui se cassent ou se déforment en cas de choc avec un véhicule, provoquant ainsi des décélérations réduites pour les occupants du véhicule. Ce type de support n'ayant pas besoin d'être isolé par une barrière de sécurité, leur emploi est par essence positif du point de vue de la sécurité des usagers de deux-roues motorisés.
