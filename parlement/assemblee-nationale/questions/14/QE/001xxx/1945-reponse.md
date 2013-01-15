@@ -1,0 +1,9 @@
+# Réponse à la question n° 1945
+
+- Question : [1945](1945.md) — Question n° 1945 — anciens combattants; revendications
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Aux termes de l'article R. 42 du code de la Légion d'honneur et de la médaille militaire, inséré dans la section 2 relative aux conditions d'attribution de la Légion d'honneur aux mutilés de guerre et aux déportés résistants, « ainsi qu'il est dit à l'article L. 344 du code des pensions militaires d'invalidité et des victimes de la guerre, les militaires et assimilés qui obtiennent soit la médaille militaire, soit un grade dans l'ordre de la Légion d'honneur, en raison de blessures de guerre entraînant une invalidité définitive de 100 % (cent pour cent) sont nommés chevaliers de la Légion d'honneur s'ils sont médaillés ou promus au grade supérieur dans l'ordre de la Légion d'honneur s'ils sont légionnaires. Ces décorations sont accordées au titre militaire avec traitement ». La dernière extension du champ d'application de ces dispositions, initialement adoptées en faveur des blessés de guerre, est intervenue dans le cadre de la loi n° 89-1013 du 31 décembre 1989, qui prévoit que l'article L. 344 du code des pensions militaires d'invalidité et des victimes de la guerre est applicable aux personnes possédant le titre de prisonnier du Viet-Minh. Il n'est pas actuellement envisagé d'étendre la réglementation précitée à de nouveaux bénéficiaires. Toutefois, il convient d'observer que cette situation ne porte pas préjudice aux anciens militaires prisonniers du Front de libération national en Algérie. En effet, ces derniers ont d'ores et déjà été, pour un certain nombre d'entre eux, décorés après les combats au titre du contingent destiné à l'armée active. En outre, ils peuvent prétendre à une nomination, promotion ou élévation dans le premier ordre national dans les mêmes conditions que l'ensemble des vétérans d'Afrique du Nord.
