@@ -1,0 +1,9 @@
+# Réponse à la question n° 12833
+
+- Question : [12833](12833.md) — Question n° 12833 — lettre de mission
+
+## Réponse
+
+*JO du 2013-01-15*
+
+La Ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative a transmis au directeur général du Centre national pour le développement du sport (CNDS), par lettre du 25 octobre 2012, ses orientations pour l'année 2013. Les directives ministérielles se concentrent sur le redressement de l'établissement qui a connu, au cours des dernières années, une dérive majeure. Ce redressement est décliné autour de trois priorités : - Le redressement des comptes de l'établissement car le niveau des engagements pris au cours des dernières années menaçait sa pérennité. La ministre a donc demandé au directeur général de proposer au conseil d'administration un plan de redressement préservant, autant que possible, le soutien au sport pour tous dans les territoires, le soutien à l'emploi et lui permettant d'assurer les engagements pris ; - Le retour aux ambitions d'origine du CNDS par le soutien à la pratique sportive pour tous, en concentrant les moyens sur la correction des inégalités d'accès à la pratique. La promotion de la santé par le sport figure également au rang de ces priorités conformes aux missions du CNDS ; - La simplification des procédures d'instruction et une plus grande autonomie laissée aux commissions territoriales pour adapter les interventions de l'établissement, sur la base des priorités nationales, aux besoins locaux. En contrepartie, l'exigence d'évaluation dans l'emploi des concours financiers est nettement renforcée. Ces orientations ont été présentées par la Ministre au conseil d'administration du 13 novembre 2012. L'ensemble des délibérations pour les mettre en oeuvre a été adopté avec un très large soutien des administrateurs.
