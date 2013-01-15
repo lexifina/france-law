@@ -1,0 +1,9 @@
+# Réponse à la question n° 6995
+
+- Question : [6995](6995.md) — Question n° 6995 — restaurants; mentions; contrôles
+
+## Réponse
+
+*JO du 2013-01-15*
+
+La protection des consommateurs dans le domaine de la restauration est assurée par différents moyens. L'hygiène des aliments proposés fait l'objet de contrôles réguliers et particulièrement rigoureux, qui concernent toutes les catégories d'aliments. Lorsque des manquements graves aux règles en vigueur sont identifiés, les mesures adéquates pouvant aller jusqu'à la fermeture de l'établissement sont prises. Par ailleurs, la création du titre de maître-restaurateur a permis de mieux valoriser la qualité des produits servis. Ce titre est délivré à la suite d'un audit externe réalisé par un organisme certificateur figurant sur une liste établie par arrêté du ministre chargé du commerce et qui justifie d'une compétence dans le domaine de la restauration. Sa délivrance repose sur des critères exigeants, notamment l'absence d'utilisation de plats préparés et le recours à des produits majoritairement frais. En outre, la loyauté de l'information donnée au consommateur quant aux caractéristiques des produits (provenance, fraîcheur, appellation d'origine, référence à un label) est contrôlée, les manquements aux obligations légales pouvant être sanctionnées pour tromperie. Il existe donc, d'ores et déjà, un ensemble de règles et des dispositifs de contrôle garantissant un haut niveau de protection des consommateurs, à la fois sous l'angle de la santé publique et de la qualité des produits. Il convient, en outre, de respecter un équilibre entre le nombre et le niveau de détail des mentions obligatoires et la nécessité de ne pas imposer de contraintes et de coûts excessifs aux entreprises du secteur, qui peuvent être de très petite taille. A cet égard, l'éventualité d'obligations d'information additionnelles paraît soulever des difficultés qui justifient une étroite concertation avec les parties concernées.
