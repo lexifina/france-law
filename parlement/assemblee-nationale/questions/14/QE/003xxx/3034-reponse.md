@@ -1,0 +1,9 @@
+# Réponse à la question n° 3034
+
+- Question : [3034](3034.md) — Question n° 3034 — internat; cursus; organisation
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Dans le cadre de la formation initiale des médecins, la question du post internat porte sur la dernière année des études en vue de l'obtention d'un diplôme d'études spécialisées complémentaires (DESC), dont ne dépend pas la délivrance du diplôme d'Etat de docteur en médecine. Les DESC appartenant au groupe I donnent accès à une formation complémentaire ne conditionnant pas un exercice particulier alors que les DESC appartenant au groupe II sont nécessaires pour exercer une sur-spécialité. La question du post internat est donc essentielle pour l'obtention d'un DESC de groupe II. La problématique du post internat se situe ainsi principalement dans le cadre de la formation de spécialiste. L'accès au secteur 2 est une question distincte. Afin de réduire l'inadéquation entre le nombre d'internes et les capacités d'accueil en post-internat et permettre ainsi à des internes d'accéder au post-internat pour terminer leur cursus de formation, 200 postes d'assistants spécialistes sont offerts chaque année depuis 2009. Ils sont financés pour deux ans et répartis dans les régions ayant subi la plus forte augmentation de leur nombre d'internes et présentant des difficultés d'accès au post-internat. Ces postes, financés par des crédits d'assurance maladie (missions d'intérêt général et d'aide à la contractualisation - MIGAC), doivent permettre à de jeunes médecins d'approfondir leur formation spécialisée et de contribuer à l'encadrement des internes. Enfin, une réflexion est en cours dans le cadre des travaux de la commission nationale de l'internat et du post internat. Il s'agit d'améliorer dans le cadre du troisième cycle des études médicales l'autonomisation progressive des internes jusqu'au diplôme d'Etat.
