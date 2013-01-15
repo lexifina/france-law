@@ -1,0 +1,9 @@
+# Réponse à la question n° 3025
+
+- Question : [3025](3025.md) — Question n° 3025 — prix; hausse; conséquences; transports routiers
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Les entreprises françaises de transport routier sont particulièrement sensibles aux évolutions du cours du gazole, celui-ci pouvant représenter près de 30 % du coût total d'exploitation d'un poids lourd. A ce titre, la répercussion des hausses de prix du carburant dans les contrats de transport est essentielle à l'équilibre financier à court terme des entreprises de transport routier. Les entreprises françaises bénéficient ainsi de dispositions spécifiques. Un mécanisme de répercussion des variations du coût du gazole sur le prix de transport permet aux transporteurs de répercuter la hausse du carburant à son donneur d'ordre. Cette disposition est d'ordre public, assortie d'une clause pénale qui sanctionne d'une amende de 15 000 € les donneurs d'ordres méconnaissant leurs obligations. Elle est applicable à l'ensemble des contrats de transport et il appartient à l'ensemble des chefs d'entreprises d'en revendiquer l'application. La Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), chargée du contrôle de l'application de ce dispositif, est sensibilisée à cette question et exerce des contrôles afin de s'assurer du respect du dispositif de répercussion par les opérateurs, à partir des informations qui lui sont communiquées. S'agissant de la fiscalité du gazole, la France est désormais au niveau des minima communautaires autorisés. La taxation du gazole professionnel est passée ces derniers mois sous la moyenne communautaire. Par ailleurs, dans le cadre des travaux en cours sur la réforme de la directive énergie, la France s'attache à défendre et à préserver le régime du gazole professionnel en vue d'atténuer les distorsions de concurrence résultant du déficit d'harmonisation fiscale entre les États membres.
