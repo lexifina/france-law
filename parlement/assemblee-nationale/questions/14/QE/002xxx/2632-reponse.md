@@ -1,0 +1,9 @@
+# Réponse à la question n° 2632
+
+- Question : [2632](2632.md) — Question n° 2632 — port du voile intégral; interdiction; bilan
+
+## Réponse
+
+*JO du 2013-01-15*
+
+La loi n° 2010-1192 du 11 octobre 2010 pose le principe d'une interdiction générale de la dissimulation du visage dans l'espace public. Elle crée deux infractions pénales : - une contravention de deuxième classe sanctionnant le fait de porter une tenue destinée à dissimuler son visage dans l'espace public, applicable depuis le 11 avril 2011 ; - un délit réprimant le fait d'imposer à une ou plusieurs personnes par violence, contrainte, abus d'autorité ou abus de pouvoir, en raison de leur sexe, de dissimuler leur visage. Le ministre de l'intérieur veille au respect de cette loi dont l'application s'effectue, dans la grande majorité des cas et sur l'ensemble du territoire de la République, sans recours à la contrainte et sans occasionner de trouble à l'ordre public. A la date du 13 novembre 2012, le bilan d'étape réalisé par les services de police portant sur la mise en oeuvre de la loi du 11 octobre 2010 relative à l'interdiction de la dissimulation du visage dans l'espace public souligne que l'application de cette loi et la campagne de sensibilisation l'ayant accompagnée n'ont concerné qu'une minorité de fidèles pratiquant un islam rigoriste. Toutefois, ce document signale le comportement de quelques femmes militantes, voire provocatrices, qui refusent de se soumettre à la loi. Cette attitude entraîne parfois des tensions voire des incidents lors des contrôles de police avec la population. Depuis le 5 mai 2011, la direction centrale de la sécurité publique a dénombré 506 contrôles, pour 460 verbalisations et 46 avertissements. Ces 506 contrôles ont porté sur 305 individus (parmi lesquels 4 hommes), dont 78 personnes récidivistes.
