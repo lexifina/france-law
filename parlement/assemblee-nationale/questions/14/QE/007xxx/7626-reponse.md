@@ -1,0 +1,9 @@
+# Réponse à la question n° 7626
+
+- Question : [7626](7626.md) — Question n° 7626 — réglementation
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Dans son rapport du 9 avril 2009, la Commission de sécurité des consommateurs (CSC) fait état de nombreuses défaillances sur les déchetteries. Parallèlement, l'accidentologie de ces installations recense depuis ces cinq dernières années de nombreux incidents graves aux personnes, dont plusieurs morts d'usagers et d'employés ainsi que de nombreux incendies. Les problèmes de sécurité dans ces installations sont notamment dus à la mauvaise manipulation des déchets dangereux, au risque d'incendie, de collision et de chutes. Face à ce constat, la CSC a émis un certain nombre de recommandations pour améliorer la sécurité des déchetteries, en particulier l'amélioration de la gestion des déchets dangereux et la sécurité incendie. Le décret n° 2012-384 du 20 mars 2012 modifiant la nomenclature des installations classées introduit de nouveaux seuils de régime administratif qui ne dépendent plus de la surface de l'installation mais du niveau de risques susceptibles d'y être présent. Les prescriptions techniques, définies dans les arrêtés ministériels du 27 mars 2012, portent désormais sur la quantité et la nature des déchets collectés. L'activité de broyage de déchets verts relève, depuis la publication du décret n° 2010-369 du 13 avril 2010, de la rubrique n° 2791 (autre traitement de déchets non dangereux). L'installation peut être classée sous le régime administratif le moins contraignant, la déclaration, si les quantités broyées ne dépassent pas 10 tonnes par jour. Un équipement communal de collecte de déchets (comme une déchetterie) peut également réaliser des opérations de traitement de déchets sur son site et notamment des opérations de compostage si les dispositions de séparation des aires d'activités sont bien établies.
