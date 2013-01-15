@@ -1,0 +1,9 @@
+# Réponse à la question n° 197
+
+- Question : [197](197.md) — Question n° 197 — système éducatif; perspectives
+
+## Réponse
+
+*JO du 2013-01-15*
+
+La position des linguistes a été largement prise en compte dans les débats qui ont conduit à la rédaction du « Rapport du Comité stratégique des langues » présenté en janvier 2012. Ce rapport préconise sans ambages une sensibilisation aux langues dès l'école maternelle dans un souci de diversité culturelle et d'une meilleure maîtrise de la langue qui reste un objectif prioritaire : « Ouvrir l'oreille à d'autres sonorités : travail d'écoute auprès de locuteurs natifs. Lier l'écoute à des activités artistiques (chants, danses) et à l'imaginaire de l'enfant... ». À l'école élémentaire, les élèves reçoivent un enseignement de langues vivantes à partir du CE1. Depuis la rentrée 2008, une sensibilisation est conduite dès le CP. Le cadre européen commun de références pour les langues (CECRL) fournit une base commune aux États membres de l'Union européenne pour concevoir les programmes. Les programmes de langues vivantes étrangères, publiés en 2007, se réfèrent au CECRL et fixent les objectifs à atteindre, pour chaque cycle, en ce qui concerne les compétences de communication et la connaissance de la culture des pays où la langue est parlée. Ils concernent 8 langues : l'allemand, l'anglais, l'arabe, le chinois, l'espagnol, l'italien, le portugais et le russe. Le développement des sections bi-langues au collège ont contribué à une plus grande diversification de l'enseignement des langues vivantes. Concernant l'enseignement des disciplines non linguistiques, seuls les élèves des sections internationales suivent certains enseignements en langue étrangère, appelés « enseignements spécifiques », pour lesquels ils sont regroupés en dehors de leurs classes habituelles.
