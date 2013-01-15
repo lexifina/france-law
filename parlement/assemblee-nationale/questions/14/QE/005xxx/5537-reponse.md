@@ -1,0 +1,9 @@
+# Réponse à la question n° 5537
+
+- Question : [5537](5537.md) — Question n° 5537 — honoraires des avocats
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Les principes régissant la taxe sur la valeur ajoutée (TVA) sont strictement encadrés par le droit communautaire, et plus particulièrement par la directive TVA n° 2006/112/CE du 28 novembre 2006 relative au système commun de la TVA. L'objectif général de cet impôt réside dans la taxation de la consommation finale de biens et de services et son fonctionnement se caractérise par la mise en oeuvre du mécanisme des paiements fractionnés. Selon ce principe, l'assujetti à cet impôt doit collecter la TVA sur son chiffre d'affaires sous déduction de la taxe ayant grevé ses propres dépenses d'amont. A cet égard, le droit à déduction de la TVA ne peut être exercé que par les assujettis agissant en tant que tels, c'est-à-dire par les personnes qui exercent des activités économiques. Au regard des objectifs poursuivis par le système communautaire de TVA, les assujettis et les non assujettis ne se trouvent donc pas dans une situation identique. Par ailleurs, le droit communautaire ne prévoit aucune exonération de la TVA pour les prestations réalisées par les avocats et toute mise en place d'une telle exonération ne pourrait qu'être sanctionnée par la Cour de justice de l'Union européenne (CJUE). En revanche, les avocats peuvent, le cas échéant, bénéficier du mécanisme de la franchise en base prévu par l'article 293B du code général des impôts (CGI) en matière de petites entreprises, étant précisé que le corollaire de ce type de dispositif réside dans l'impossibilité de déduire la taxe d'amont, l'aide juridictionnelle permet enfin l'accès au droit des personnes défavorisées. Enfin, les avocats peuvent, s'ils le souhaitent, différencier leurs honoraires selon que leur client est assujetti ou non assujetti, afin d'assumer une stricte égalité entre eux.
