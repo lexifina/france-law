@@ -1,0 +1,9 @@
+# Réponse à la question n° 5606
+
+- Question : [5606](5606.md) — Question n° 5606 — aides de l'État; contrats bleus; pérennisation
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Démarche innovante dans la filière pêche, les contrats bleus ont été mis en place au printemps 2008, dans le cadre du plan pour une pêche durable et responsable (PPDR) et des dispositions du règlement relatif au Fonds européen pour la pêche (20072013). Ils ont été conçus et bâtis avec la coopération très active des professionnels. Les engagements pris par chaque armateur adhérant à un contrat bleu répondent à plusieurs enjeux : - compléter et renforcer les partenariats entre les pêcheurs et les scientifiques, - contribuer à la préservation de l'environnement marin, - améliorer les pratiques en vue d'accroître la durabilité de la pêche, - responsabiliser les professionnels en les formant. Ces engagements doivent se traduire pour l'armateur, par des pratiques de pêche plus contraignantes que ce qu'impose la réglementation en vigueur (communautaire et nationale) et allant au-delà de ses pratiques antérieures. Ce dispositif était initialement prévu pour 2 ans. Néanmoins, compte tenu du grand intérêt de la démarche, le ministre chargé de la pêche a décidé de reconduire les contrats bleus jusqu'en 2013 en mobilisant des crédits d'État d'un montant similaire aux années précédentes (12,5 millions d'euros au total). Le projet de règlement relatif au Fonds européen pour les affaires maritimes et la pêche (FEAMP) permettra de mettre en place, à partir de 2014, des mesures reprenant l'esprit des « contrats bleus », à travers certaines actions déjà reprises dans les propositions de la Commission européenne. Dans ce cadre, dès que les textes communautaires seront stabilisés, les services de la direction des pêches maritimes et de l'aquaculture (DPMA) travailleront, en lien avec les professionnels, pour construire un nouveau dispositif en s'appuyant sur l'expérience acquise.
