@@ -1,0 +1,9 @@
+# Réponse à la question n° 2146
+
+- Question : [2146](2146.md) — Question n° 2146 — calcul; réforme; publicité
+
+## Réponse
+
+*JO du 2013-01-15*
+
+L' article 27 de la loi n° 2009-1437 du 24 novembre 2009 relative à l'orientation et à la formation professionnelle tout au long de la vie a instauré une contribution supplémentaire à l'apprentissage prévue à l'article 230 H du code général des impôts (CGI). La contribution est due par les entreprises d'au moins 250 salariés qui sont redevables de la taxe d'apprentissage et dont le nombre annuel moyen de salariés en contrat d'apprentissage ou de professionnalisation et de jeunes accomplissant un volontariat international en entreprise ou bénéficiant d'une convention industrielle de formation par la recherche en entreprise est inférieur à un seuil. L'article 23 de la loi n° 2011-900 du 29 juillet 2011 de finances rectificative pour 2011 et l'article 22 de la loi n° 2012-354 du 14 mars 2012 de finances rectificative pour 2012 en ont aménagé le régime afin de développer le nombre de salariés employés en alternance. A cet effet, un système de « bonus-malus » a été créé afin d'inciter les entreprises de plus de 250 salariés à recourir à l'apprentissage. Par ailleurs, le barème de la contribution a été modifié afin de renforcer également les incitations à recourir à l'apprentissage. Ce dispositif a été commenté par l'administration fiscale dans une instruction publiée le 30 mars 2012 au Bulletin officiel des impôts sous la référence 4 L-2-12. Ces commentaires sont accessibles sur le site du Bulletin officiel des finances publiques-impôts (BOFIP-Impôts http ://bofip. impots. gouv. fr) qui regroupe dans une base unique, consolidée et versionnée l'ensemble de la doctrine fiscale de la direction générale des finances publiques, sous la référence BOI -TPS-TA-50.
