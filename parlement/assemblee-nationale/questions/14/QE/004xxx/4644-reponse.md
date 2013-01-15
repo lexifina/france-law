@@ -1,0 +1,9 @@
+# Réponse à la question n° 4644
+
+- Question : [4644](4644.md) — Question n° 4644 — artisanat; développement
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Les entreprises artisanales forment aujourd'hui 47 % des apprentis. L'artisanat est donc un acteur majeur de l'apprentissage. Plus globalement, ce sont les petites entreprises qui forment le plus d'apprentis : les données de l'année 2011 indiquent en effet que 39,7 % des apprentis étaient formés dans des entreprises de moins de 10 salariés, et 75,8 % dans des entreprises de moins de 50 salariés. Il convient également de souligner que 500 000 artisans, soit 50 % de l'ensemble, ont été eux-mêmes apprentis. Dans ce secteur, l'apprentissage joue donc un véritable rôle d'ascenseur social qui doit être mis en évidence auprès des jeunes. La sensibilisation des jeunes à l'apprentissage passe aussi par une amélioration de son image, que favorise la possibilité d'accéder par ce moyen à tous les niveaux de qualification. Mais il reste encore beaucoup à faire pour que cette voie de formation soit considérée par tous à parité de dignité avec celle de la formation initiale sous statut scolaire. La progression de l'image de l'apprentissage est donc l'affaire de tous ses acteurs : les Régions, les partenaires sociaux, les Chambres consulaires et bien entendu l'Etat lui-même, qui unissent leurs efforts au quotidien sur le terrain, et participent ensemble à la réussite d'évènements promotionnels d'envergure tels que les Olympiades des métiers. Le développement des campus des métiers et la modernisation des locaux et équipements des centres de de formation d'apprantissage (CFA) est également importante pour la valorisation de l'apprentissage. C'est pourquoi le ministère délégué à la formation professionnelle et à l'apprentissage attache une grande importance à la mobilisation des crédits (500 M€) affectés à l'action « formation en alternance et hébergement » du programme des investissements d'avenir (PIA).
