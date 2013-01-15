@@ -1,0 +1,9 @@
+# Réponse à la question n° 8630
+
+- Question : [8630](8630.md) — Question n° 8630 — moyens
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Le 20 octobre 2012, 80 membres de l'association « génération identitaire » sont montés sur le toit de la mosquée de Poitiers afin de manifester leur souhait que soit organisé un référendum sur la politique migratoire française. Les forces de l'ordre ont rapidement réussi à apaiser la situation et à disperser les manifestants sans violence dès la fin de la matinée. A l'issue de cette manifestation non déclarée, des militants ont été placés en garde à vue pour vol en réunion, dégradation volontaire en réunion, participation à un groupement temporaire formé en vue de commettre des dégradations, provocation publique à la haine raciale et organisation d'une manifestation non déclarée. La demande de dissolution administrative de l'association « génération identitaire » a été entendue et examinée. Il s'agit d'une procédure qui met en cause la liberté d'association et la liberté d'expression à l'attention desquelles la Cour européenne des droits de l'homme porte une attention très stricte (CEDH, 24 juillet 2012, Farber c. Hongrie). Aussi, la mesure de dissolution administrative doit-elle pouvoir être justifiée comme strictement proportionnée à la menace grave pour l'ordre public que représente l'association en cause. En l'espèce, et sans minimiser la gravité des faits imputables à cette association, les conditions d'une telle dissolution, fondée sur l'article L. 121-1 du code de la sécurité intérieure, n'ont pas paru réunies pour lors. En revanche, tout nouveau trouble à l'ordre public justifiera un nouvel examen de la situation de cette association. D'une manière générale, le ministre de l'intérieur est particulièrement vigilant face au développement de groupuscules fanatiques. Il veille à assurer la promotion de la laïcité et à préserver la cohésion sociale et républicaine comme la sécurité des personnes.
