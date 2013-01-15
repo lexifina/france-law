@@ -1,0 +1,9 @@
+# Réponse à la question n° 6618
+
+- Question : [6618](6618.md) — Question n° 6618 — dématérialisation; directive 2010/45UE; transposition
+
+## Réponse
+
+*JO du 2013-01-15*
+
+La directive n° 2010/45/UE du conseil du 13 juillet 2010, modifiant la directive n° 2006/112/CE relative au système commun de taxe sur la valeur ajoutée en ce qui concerne les règles de facturation, vise à développer le recours à la facturation électronique et aménage les obligations tenant à la facturation auxquelles sont soumis les assujettis établis dans l'Union européenne (UE). Ces nouvelles règles de facturation seront applicables dans tous les Etats membres de l'UE à compter du 1er janvier 2013. Après une large consultation des instances représentatives des entreprises, le texte de transposition de cette directive figure à l'article 22 du projet de loi de finances rectificative pour 2012. L'administration veillera à ce que les mesures réglementaires d'application et les commentaires de ces nouvelles dispositions qui sont d'ores et déjà prêts, soient publiés dans les meilleurs délais après l'adoption de ce texte. Tout est donc mis en oeuvre pour que la France soit prête à l'échéance et que les opérateurs puissent, dès le 1er janvier 2013, se conformer aux nouvelles modalités prévues par la directive n° 2010/45/UE et user des nouvelles facultés que ce texte leur offre. Pour ce qui concerne la transposition dans les autres Etats membres, la France sait pouvoir compter sur la détermination de la Commission européenne à faire en sorte que ces mesures soient applicables dans l'ensemble de l'Union à la date prévue. A cet égard, et pour faciliter les travaux de transposition des Etats membres, la Commission a publié des notes explicatives pour les guider dans leurs travaux en précisant la portée qu'elle entendait donner aux nouvelles règles.
