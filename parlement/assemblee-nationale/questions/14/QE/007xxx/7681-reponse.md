@@ -1,0 +1,9 @@
+# Réponse à la question n° 7681
+
+- Question : [7681](7681.md) — Question n° 7681 — zones rurales; aides de l'État
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Le comité professionnel de la distribution de carburant (CPDC) a pour mission principale de soutenir directement les stations-service indépendantes par des aides appropriées. Ces aides, qui visent à la modernisation des stations-service et à leur adaptation à l'évolution du marché, sont de trois types : aides à l'environnement (sécurité des biens et des personnes), aides au développement (modernisation et diversification des activités), aides sociales (en cas de fermeture). Compte tenu des difficultés de financement des exploitants, et de l'absence d'accidentologie grave avérée, l'obligation de mises aux normes environnementales des cuves (double paroi) a été reportée de 3 ans, du 31 décembre 2010 au 31 décembre 2013. Ces exploitants sont donc invités à se rapprocher du comité et à déposer des dossiers de demande d'aides, étant précisé que l'implantation au sein des territoires ruraux est un des critères déterminant pour l'attribution des aides (plus de 70 % des aides sont allouées aux stations en zones rurales). Le Gouvernement étudie par ailleurs actuellement la possibilité de réorienter les moyens du CPDC au profit du soutien à la mutation du réseau des stations-service en milieu rural. Enfin, une étude actuellement diligentée par la DATAR a notamment pour objet d'identifier et de caractériser les stations-clés en termes de maillage du territoire ainsi que d'identifier les territoires vulnérables en matière d'accès au carburant qui devraient bénéficier prioritairement des aides du comité.
