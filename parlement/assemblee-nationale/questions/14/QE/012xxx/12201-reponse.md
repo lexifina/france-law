@@ -1,0 +1,9 @@
+# Réponse à la question n° 12201
+
+- Question : [12201](12201.md) — Question n° 12201 — aides de l'État
+
+## Réponse
+
+*JO du 2013-01-15*
+
+La commission des comptes de l'agriculture de la Nation, réunie le 12 décembre 2012, a examiné la situation prévisionnelle du revenu des exploitants agricoles en 2012. Cet examen fait apparaître que le revenu moyen des agriculteurs en 2012 a bénéficié d'une amélioration et a atteint un niveau historiquement élevé. La situation reste néanmoins très contrastée. Ainsi, certains secteurs tels que l'élevage et la viticulture sont confrontés à un repli. Le ministre de l'agriculture, de l'agroalimentaire et de la forêt a pris acte de l'évolution du revenu agricole en France et des disparités historiquement marquées entre filières. Ces résultats le confortent dans l'idée que la répartition des crédits de la politique agricole commune doit être rééquilibrée en faveur des filières d'élevage. Ils montrent également la nécessité de mettre en place des dispositifs de lissage de la volatilité des cours des matières premières. Le travail engagé en faveur du rééquilibrage des relations commerciales doit également permettre d'améliorer le revenu des producteurs. Par ailleurs, les exploitants agricoles disposant de faibles revenus professionnels tirés de leur activité peuvent bénéficier du revenu de solidarité active (RSA) dans des conditions particulières prévues à l'article L. 262-7 du code de l'action sociale et des familles. Ainsi, le droit au RSA est ouvert aux non salariés agricoles, qu'ils soient imposés au régime du forfait ou au régime du réel, dès lors que leur dernier bénéfice agricole connu n'excède pas 800 fois le montant horaire du salaire minimum de croissance en vigueur au 1er janvier de l'année de référence. Ce montant est majoré de 50 % lorsque le foyer se compose de deux personnes et de 30 % pour chaque personne supplémentaire.
