@@ -1,0 +1,9 @@
+# Réponse à la question n° 4008
+
+- Question : [4008](4008.md) — Question n° 4008 — oxyde d'éthylène; utilisation; réglementation
+
+## Réponse
+
+*JO du 2013-01-15*
+
+L'utilisation dans les maternités françaises de tétines, de téterelles et de biberons à usage unique, stérilisés par les fabricants avec une substance classée comme cancérogène depuis 1994 et interdite pour des matériaux en contact avec des denrées alimentaires, l'oxyde d'éthylène (OE), a conduit les autorités sanitaires à mettre en oeuvre des mesures visant à limiter l'usage de ces dispositifs. Ainsi, le ministère, par instruction des 25 novembre 2011 et 13 avril 2012, demandait aux établissements hospitaliers de ne pas utiliser de biberons stérilisés à l'OE pour les nourrissons nés à terme. Il demandait aussi de réserver l'usage des biberons, des dispositifs utilisés pour l'administration de certains médicaments et le stockage de lait maternel, qui sont stérilisés à l'OE, aux nouveau-nés pris en charge en service de néonatologie et aux nourrissons souffrant de pathologies graves avec un risque accru d'infection et ce, dans l'attente de nouvelles techniques permettant d'obtenir des biberons microbiologiquement propres. A la suite du rapport de l'Inspection générale des affaires sociales (IGAS), la ministre des affaires sociales et de la santé a saisi les agences sanitaires compétentes pour procéder à un inventaire de tous les autres dispositifs médicaux actuellement stérilisés à l'OE et présentant un risque d'exposition pour les nouveau-nés et les nourrissons dans les établissements hospitaliers, proposer concrètement les moyens de substitution possibles et à privilégier pour chacun de ces dispositifs, et étudier les possibilités d'utilisation de biberons à usage unique stérilisés par les fabricants par d'autres méthodes que l'OE.
