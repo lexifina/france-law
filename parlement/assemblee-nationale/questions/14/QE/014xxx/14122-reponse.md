@@ -1,0 +1,9 @@
+# Réponse à la question n° 14122
+
+- Question : [14122](14122.md) — Question n° 14122 — régime fiscal; perspectives
+
+## Réponse
+
+*JO du 2013-01-15*
+
+La deuxième loi de finances rectificative du 16 août 2012 a constitué la première étape pour replacer le principe de justice au coeur de notre système fiscal, et rendre la fiscalité plus favorable à l'investissement et à l'emploi. Le dispositif d'incitation aux heures supplémentaires par des allègements de cotisations sociales et une exonération d'impôt sur le revenu, qui représentait un coût important pour les finances publiques, estimé à 4,9 Mds€ en 2012, et dont les effets sur l'emploi se sont révélés négatifs, notamment en bas de cycle économique, a ainsi été abrogé. En revanche, les allègements de cotisations sociales patronales sur les heures supplémentaires ont été maintenus au profit des entreprises de moins de 20 salariés. Cet effort de 450 M€ vise à soutenir les plus petites entreprises. Par ailleurs, le Gouvernement a pris des mesures d'urgence en faveur du pouvoir d'achat avec la hausse de 25 % de l'allocation de rentrée scolaire et le coup de pouce au SMIC notamment. En outre, le Gouvernement a décidé, pour des raisons de justice fiscale, d'intégrer dans la loi de finances pour 2013, une revalorisation du mécanisme de la décote à l'impôt sur le revenu. Elle sera portée de 439 € à 480 €, ce qui permettra aux redevables dont le revenu par part est inférieur à 11 896 €, et dont les revenus réels n'ont pas augmenté, de ne pas payer d'impôt sur le revenu supplémentaire en 2013, et afin de compenser l'absence d'indexation du barème de l'impôt sur le revenu. Cette mesure qui bénéficiera à 7,4 millions de contribuables participe au maintien du pouvoir d'achat des plus fragiles. Ainsi, le redressement des comptes publics dans la justice est au coeur de l'action conduite par le Gouvernement.
