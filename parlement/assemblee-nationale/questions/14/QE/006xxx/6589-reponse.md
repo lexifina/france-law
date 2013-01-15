@@ -1,0 +1,9 @@
+# Réponse à la question n° 6589
+
+- Question : [6589](6589.md) — Question n° 6589 — paris sportifs; délits; lutte et prévention
+
+## Réponse
+
+*JO du 2013-01-15*
+
+La ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative partage l'analyse du député sur la nécessité absolue d'organiser internationalement la lutte contre le trucage des paris sportifs. Aucun pays n'est à l'abri des opérations de blanchiment d'argent sale opérées grâce aux paris sportifs. Il est donc effectivement nécessaire que la lutte contre la fraude sportive soit menée au niveau international. La ministre s'est rendue à Bruxelles, le 27 novembre dernier, pour participer au Conseil européen jeunesse et sport. La Présidence chypriote a proposé un projet de conclusion du conseil visant à élaborer une stratégie pour combattre la corruption et le trucage des matchs, à l'élaboration duquel la France avait activement contribué. Malheureusement, ce projet n'a pas été adopté. C'est donc au Conseil de l'Europe que revient aujourd'hui la rédaction d'une convention internationale juridiquement contraignante contre les matchs arrangés. Le 10 octobre, la ministre s'est rendue à Strasbourg pour la première réunion du comité de rédaction de cette convention internationale, afin d'en saluer les membres, et tout particulièrement leur président, le directeur des sports du gouvernement finlandais Harri Syvasalmi et leur vice-président, le Président de l'autorité de régulation des jeux en ligne (ARJEL). La convention, dont la signature est prévue en août 2014, aura pour but d'harmoniser au niveau international la lutte contre les matchs truqués, notamment par la mise en place d'une plateforme de contrôle des paris sportifs. La France est bien sûr favorable à l'inclusion de dispositions relatives à la manipulation de résultats sportifs dans les conventions des Nations-unies contre la criminalité transnationale organisée et contre la corruption.
