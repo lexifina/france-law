@@ -1,0 +1,9 @@
+# Réponse à la question n° 412
+
+- Question : [412](412.md) — Question n° 412 — développement
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Le Plan II des services à la personne initié en 2009 avait trois objectifs majeurs : - soutenir la création d'emplois dans les services à la personne ; - poursuivre la professionnalisation et améliorer la qualité des emplois ; - simplifier et assouplir les outils pour atteindre l'émission d'un milliard d'euros en CESU (chèques emplois services universels) préfinancés en 2012. Le chèque emploi service universel préfinancé, ou CESU préfinancé, est un titre de paiement nominatif dont le montant est prédéfini. Il est dédié aux services à la personne et à la garde d'enfants à domicile ou hors du domicile. Afin de simplifier et d'assouplir son utilisation plusieurs mesures ont été mises en oeuvre : - donner à tout bénéficiaire de CESU préfinancé le droit de payer par ce titre les dépenses de ses ascendants ; - supprimer la rémunération relative au remboursement des CESU, versée par les crèches publiques aux émetteurs. La suppression de cette commission permet aux crèches municipales d'accepter plus aisément le CESU. Cette mesure permet ainsi de lever un frein à la solvabilisation de la garde d'enfant pour les familles dont l'employeur co-finance des CESU ; - permettre le paiement en CESU de tous les centres de loisirs sans hébergement destinés à la petite enfance. Les crèches, haltes garderies, jardins d'enfants et garderies périscolaires pouvaient déjà être payés en CESU. Il est aujourd'hui possible de payer également grâce au CESU les centres aérés et les centres de loisirs sans hébergement destinés à la petite enfance. L'objectif d'émission d'un milliard d'euros en CESU préfinancés n'a pas encore été atteint. Cependant, le développement des CESU préfinancés a connu une forte progression pour atteindre 552 millions d'euros émis en CESU préfinancés en 2010 et 644 millions d'euros en 2011.
