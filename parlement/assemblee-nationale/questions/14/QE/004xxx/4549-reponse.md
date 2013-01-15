@@ -1,0 +1,9 @@
+# Réponse à la question n° 4549
+
+- Question : [4549](4549.md) — Question n° 4549 — implantation d'éoliennes; réglementation
+
+## Réponse
+
+*JO du 2013-01-15*
+
+L'arrêté du 13 novembre 2009 relatif à la réalisation du balisage des éoliennes situées en dehors des zones grevées de servitudes a été pris en vue de satisfaire une exigence de sécurité aérienne. En effet, s'il est indispensable de développer l'éolien terrestre pour atteindre l'objectif européen de 23 % d'énergies renouvelables d'ici 2020, cela doit se faire en assurant la sécurité du transport aérien. En ce sens, l'arrêté susvisé fixe des normes notamment colorimétriques et de balisage lumineux afin de rendre visibles les éoliennes pouvant constituer des obstacles à la navigation aérienne. La limitation des quantités colorimétriques au domaine du blanc permet d'assurer la visibilité des éoliennes. L'intégration paysagère doit toutefois être recherchée. Le Gouvernement soutient en effet un développement de l'éolien terrestre à haute qualité environnementale qui passe par une limitation de l'impact visuel des éoliennes sur les paysages. Ce point fait partie des critères évalués lors de la délivrance de l'autorisation d'exploiter au titre de la réglementation des installations classées pour la protection de l'environnement. Plus qu'une simple question de couleur qui, si elle permet de fondre les éoliennes dans leur environnement, ne supprime pas l'effet visuel des pales qui tournent, l'insertion des éoliennes dans les paysages nécessite une approche globale prenant en compte les particularités et les reliefs alentours. L'intégration paysagère sera en général plus réussie si le paysage reste lisible après implantation d'un parc éolien. Le respect des lignes de fuites, la création de perspective, la cohérence et l'uniformité du parc sont autant de moyens permettant d'assurer une insertion satisfaisante dans l'environnement.
