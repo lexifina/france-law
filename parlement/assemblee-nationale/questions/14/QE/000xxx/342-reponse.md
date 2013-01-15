@@ -1,0 +1,9 @@
+# Réponse à la question n° 342
+
+- Question : [342](342.md) — Question n° 342 — prime de Noël; bénéficiaires
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Jusqu'en 2008, la prime exceptionnelle de fin d'année dite « prime de Noël » était versée chaque année aux bénéficiaires de certains minima sociaux : revenu minimum d'insertion (RMI) y compris ceux ne bénéficiant que d'une mesure d'intéressement, revenu de solidarité active (RSA) expérimental, allocation de solidarité spécifique (ASS) et allocation équivalent retraite (AER). Reconduite de fait chaque année, cette prime exceptionnelle ne constitue une prestation ni obligatoire ni légale. Son octroi relève d'une décision en opportunité prise par le Gouvernement, habituellement à l'automne, et mise en oeuvre sur la base d'un décret simple signé au mois de décembre. D'un montant moyen de 150 euros pour une personne seule (il varie selon la composition familiale), cette prime est financée, le plus souvent par des crédits votés dans le cadre de la loi de finances rectificative de l'année en cours. Depuis sa création, le mécanisme de la prime de Noël est quasi stable dans son champ et dans son montant. Le gouvernement a décidé cette année d'en assurer le financement en loi de finances initiale afin d'en sécuriser la pérennisation. Lors de la création du RSA en 2009, les allocataires de l'allocation de parent isolé qui ne percevaient pas jusqu'alors la prime exceptionnelle de fin d'année ont été intégrés dans le champ de cette aide exceptionnelle qui bénéficie aux foyers docnt les ressources sont telles qu'ils ne peuvent prétendre au RSA versé en tant que revenu de subsistance (RSA « socle »). S'agissant de l'allocation aux adultes handicapés (AAH), celle-ci est d'un montant nettement supérieur à celui du RSA. Au 1er septembre 2012, le montant mensuel maximum de l'AAH s'élève à 776,59 euros. Pour ces différentes raisons, il n'est pas envisagé d'étendre le bénéfice de la prime de Noël aux allocataires de l'AAH.
