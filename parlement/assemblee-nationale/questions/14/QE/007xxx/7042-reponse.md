@@ -1,0 +1,9 @@
+# Réponse à la question n° 7042
+
+- Question : [7042](7042.md) — Question n° 7042 — détaillants; pratiques commerciales
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Compte tenu de l'existence d'un dispositif spécifique d'aides à la modernisation et à l'adaptation des artisans détaillants en carburant et des contraintes budgétaires, il n'est pas envisagé de contrat d'avenir avec cette profession. En effet, le comité professionnel de la distribution de carburant (CPDC) a pour mission principale de soutenir directement les stations-service indépendantes par des aides appropriées. Ces aides, qui visent à la modernisation des stations-service et à leur adaptation à l'évolution du marché, sont de trois types : aides à l'environnement (sécurité des biens et des personnes), aides au développement (modernisation et diversification des activités) et aides sociales (en cas de fermeture). Les difficultés de financement des exploitants et l'absence d'accidentologie grave avérée, ont conduit les pouvoirs publics à reporter de 3 ans, du 31 décembre 2010 au 31 décembre 2013, l'obligation de mises aux normes environnementales des cuves (double paroi). Ces exploitants sont donc invités à se rapprocher du comité et à déposer des dossiers de demande d'aides. Le Gouvernement examine actuellement la possibilité de plus orienter les moyens du CPDC au profit du soutien à la mutation du réseau des stations-service en milieu rural, ce qui permettra de maintenir un bon niveau de maillage sur le territoire. Enfin, une étude actuellement diligentée par la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale a notamment pour objet d'identifier et de caractériser les stations-clés en termes de maillage du territoire ainsi que d'identifier les territoires vulnérables en matière d'accès au carburant qui devraient bénéficier prioritairement des aides du comité.
