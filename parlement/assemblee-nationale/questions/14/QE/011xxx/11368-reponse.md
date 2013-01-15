@@ -1,0 +1,9 @@
+# Réponse à la question n° 11368
+
+- Question : [11368](11368.md) — Question n° 11368 — mendicité
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Les articles 225-12-5 à 225-12-7 du code pénal définissent et répriment l'exploitation de la mendicité permettant ainsi aux forces de sécurité de déférer devant l'autorité judiciaire les personnes organisant et tirant profit de la mendicité. Ainsi, l'article 225-12-6 du code pénal précise que l'exploitation de la mendicité peut être réprimée par une peine pouvant aller jusqu'à cinq ans d'emprisonnement et une amende de 75 000 euros notamment lorsqu'elle est commise à l'égard d'un mineur. Par ailleurs et ce même en dehors de toute exploitation, lorsque la mendicité présente le risque d'affecter la santé de l'enfant, l'ascendant ou la personne exerçant à son égard l'autorité parentale ou ayant autorité sur l'enfant peut être poursuivi pour le délit de privation de soins et puni de sept ans d'emprisonnement et de 100 000 euros d'amende. En effet, l'article 227-15 du code pénal considère comme une privation de soins le fait de maintenir un enfant de moins de six ans sur la voie publique ou dans un espace affecté au transport collectif de voyageurs, dans le but de solliciter la générosité des passants. Enfin, les maires des communes disposent en vertu de l'article L. 2212-2 du code général des collectivités territoriales de la possibilité de contrôler l'exercice de la mendicité dans leur commune. En effet, cet article assigne à la police administrative la fonction d'assurer le bon ordre, la sûreté, la sécurité et la salubrité publiques. En vertu de l'article R. 610-5 du code pénal, le non respect des mesures de police édictées est sanctionné par les amendes prévues pour les contraventions de première classe dont le montant s'élève à 38 euros aux termes de l'article 131-13-1° du code pénal.
