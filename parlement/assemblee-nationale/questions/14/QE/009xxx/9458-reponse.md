@@ -1,0 +1,9 @@
+# Réponse à la question n° 9458
+
+- Question : [9458](9458.md) — Question n° 9458 — propositions
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Le ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative et le ministère de l'éducation nationale partagent l'objectif commun de développer la pratique des activités physiques et sportives des jeunes sous toutes leurs formes. Les effets bénéfiques sur la réussite scolaire, sur la santé, sur le développement de l'enfant et sa confiance en lui ne sont plus en effet à démontrer. Le sport scolaire, dans le second degré, fonctionne grâce : -d'une part, à l'attribution de 3 heures forfaitaires dans le temps de service des enseignants d'éducation physique et sportive destinées à l'animation de l'association sportive des établissements scolaires. Ceci est du ressort du ministère de l'éducation nationale ; -d'autre part, à la structure Union nationale du sport scolaire (UNSS), chargée d'organiser le sport scolaire sur le territoire dont la tutelle est exercée par le ministère de l'éducation nationale. Le ministre de l'éducation nationale est le président de cette structure. Toutefois, en tant que partenaire des fédérations sportives, le ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative contribue à son financement par l'intermédiaire d'une convention d'objectifs. En 2012, 967 500 € ont ainsi été attribués à l'UNSS. Le ministère a largement préservé cette fédération, comme l'ensemble des fédérations sportives scolaires et universitaires, dans son budget 2013. Cela montre l'engagement du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative au côté du ministère de l'éducation nationale pour contribuer au développement des activités physiques et sportives dans les établissements scolaires.
