@@ -1,0 +1,9 @@
+# Réponse à la question n° 8807
+
+- Question : [8807](8807.md) — Question n° 8807 — tarifs; opacité
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Dans un même train et au sein d'une même classe de confort, la grande diversité des prix payés par les voyageurs résulte de l'existence de plusieurs typologies de tarifs réduits s'adressant chacune à un public différent. Aux tarifications sociales ou conventionnées mises en oeuvre à la demande des pouvoirs publics, s'ajoutent en effet les réductions accessibles par le biais des cartes commerciales de l'entreprise ainsi que les tarifs promotionnels. De surcroît, la SNCF applique, pour chaque type de tarif, jusqu'à cinq niveaux de prix différents en fonction du remplissage des trains. Par cette grande différenciation, la SNCF propose une proportion importante de billets à prix attractifs. C'est ainsi qu'en 2011, près de 80 % des 100 millions de voyageurs ayant emprunté le TGV ont bénéficié d'un tarif réduit. Le Gouvernement est attaché à conserver ces tarifs avantageux qui permettent de pérenniser le modèle français d'une grande vitesse ferroviaire accessible au plus grand nombre. En revanche, consciente de la complexité de sa tarification, la SNCF travaille à une meilleure communication sur ses prix auprès des voyageurs à travers un guide voyageurs et son site internet. Par ailleurs, depuis la publication au Journal officiel du 31 juillet 2011 du décret portant approbation de modifications du cahier des charges de la SNCF, l'entreprise est contrainte réglementairement d'afficher pour chaque parcours, le prix maximal et le prix minimal ainsi que le tarif promotionnel Prem's lorsqu'il en existe un. De surcroît, le décret renforce le pouvoir de contrôle de l'État, qui vérifie désormais chaque année que, sur les axes desservis, le quota de billets vendus en-deçà d'un tarif de référence est bien conforme à la réglementation.
