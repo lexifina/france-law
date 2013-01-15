@@ -1,0 +1,9 @@
+# Réponse à la question n° 7700
+
+- Question : [7700](7700.md) — Question n° 7700 — rapport parlementaire; propositions; perspectives
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Au niveau national, le pilotage de la politique de santé en faveur des élèves relève de la compétence du ministère de l'éducation nationale (cf. circulaire n° 2001-012 du 12 janvier 2001 relative aux orientations générales pour la politique de santé en faveur des élèves). Les relations avec le ministère chargé de la santé sont régulières et se traduisent en particulier par l'intégration du champ scolaire dans les différents plans de santé publique que coordonne le ministère de la santé (ex : plan de lutte contre le VIH, plan de prévention du suicide, programme national nutrition santé, etc.). Le MEN est également membre du comité national de santé publique. Cette politique de prévention est mise en oeuvre au niveau régional par les recteurs d'académie, en prenant en compte les orientations nationales et en les adaptant aux réalités de leurs territoires académiques. Ils agissent en partenariat avec les agences régionales de santé puisque le champ de la santé scolaire figure dans le champ de compétences de ces dernières. L'accent doit porter sur la bonne collaboration et articulation entre les deux partenaires plutôt que sur le principe de subsidiarité afin que les deux institutions jouent pleinement leur rôle. A titre d'exemple, l'académie de Montpellier vient de signer une convention avec l'ARS en ciblant cinq axes d'actions : la veille sanitaire, l'observation de la santé des jeunes scolarisés, la promotion de la santé, la formation des personnels enseignants, d'éducation et d'orientation et l'inclusion des élèves en situation de handicap. Les instances de pilotage sont donc mises en place, tant au niveau national qu'au niveau académique.
