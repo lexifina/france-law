@@ -1,0 +1,61 @@
+# Réponse à la question n° 4235
+
+- Question : [4235](4235.md) — Question n° 4235 — membres; indemnités; statistiques
+
+## Réponse
+
+*JO du 2013-01-15*
+
+L'examen des comptes de gestion des conseils régionaux (article 6531 : indemnités de fonction des élus) fait apparaître les montants suivants versés au titre des indemnités de fonction des membres des conseils économiques, sociaux et environnementaux pour l'année 2011. REGION (CESR_ind_fonction) COMPTE 6531 (en euros)
+
+REG PROVENCE-ALPES-COTE-D'AZUR 2 033 338
+
+REG BASSE-NORMANDIE 935 323
+
+REG BOURGOGNE 711 640
+
+REG FRANCHE-COMTE 486 233
+
+COLLECTIVITE TERRITORIALE DE CORSE 357 488
+
+REG MIDI-PYRENEES 1 512 836
+
+REG AQUITAINE 1 600 776
+
+REG LANGUEDOC-ROUSSILLON 1 181 057
+
+REG BRETAGNE 1 451 006
+
+REG PAYS-DE-LA-LOIRE 1 571 391
+
+REG CENTRE 1 028 624
+
+REG CHAMPAGNE-ARDENNE 860 478
+
+REG LORRAINE 1 279 325
+
+REG NORD-PAS-DE-CALAIS (NPDC) 1 526 257
+
+REG AUVERGNE 851 688
+
+REG ALSACE 954 119
+
+REG RHONE-ALPES 1 874 289
+
+REG ILE-DE-FRANCE 1 914 549
+
+REG HAUTE-NORMANDIE 675 995
+
+REG PICARDIE 537 567
+
+REG POITOU-CHARENTES 843 473
+
+REG LIMOUSIN 460 953
+
+REG GUADELOUPE 477 558
+
+REG GUYANE 65 718
+
+REG MARTINIQUE 379 059
+
+REG REUNION 660 826
