@@ -1,0 +1,9 @@
+# Réponse à la question n° 4366
+
+- Question : [4366](4366.md) — Question n° 4366 — prolongement; tracé
+
+## Réponse
+
+*JO du 2013-01-15*
+
+Le projet d'aménagement de cet axe a fait l'objet d'un débat public en 2006. Aujourd'hui, il demeure controversé, notamment dans le choix de son tracé. Si un certain consensus semble se dégager dans le département du Vald'Oise, des divergences importantes subsistent dans celui des Yvelines. Par ailleurs, au-delà de la question du tracé, la question du financement reste posée. Le prolongement de l'autoroute A104 a été inscrit au projet de Schéma national des infrastructures de transport (SNIT). Comme pour les autres projets du SNIT, sa réalisation fera l'objet d'un examen attentif, au vu de son intérêt socioéconomique et de la priorité accordée au redressement de nos comptes publics. En effet, le projet de SNIT, présenté à l'automne 2011 par le précédent Gouvernement comporte un montant évalué à 245 milliards d'euros d'opérations et projets divers - dont 88 milliards à la charge de l'État - à réaliser sur 25 ans, sans préciser ni les priorités, ni les solutions de financement nécessaires à sa réalisation. Le Ministre délégué chargé des transports, de la mer et de la pêche, a donc installé, le 17 octobre dernier, une commission composée de parlementaires et de personnalités qualifiées afin d'établir un diagnostic global sur la pertinence et la faisabilité du projet de SNIT, au vu de la situation actuelle et des perspectives de nos finances publiques, mais également de la priorité que le Gouvernement entend donner aux transports du quotidien, à la réduction de la fracture territoriale et à la rénovation des réseaux existants. Dans le cadre de cette mission, seront examinées les conditions de poursuite du projet de prolongement de l'autoroute A104.
