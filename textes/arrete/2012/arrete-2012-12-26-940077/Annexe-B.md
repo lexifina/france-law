@@ -2,9 +2,11 @@
 
 |
 
-NOM
+NOM DU
 
-du transporteur aérien (1)
+transporteur
+
+aérien (1)
 
 |
 
@@ -20,9 +22,9 @@ de la compagnie
 
 |
 
-IMMATRICULATION
+IMMATRICULATION DES APPAREILS
 
-des appareils interdits
+interdits
 
 |
 
@@ -94,11 +96,11 @@ KZR
 
 |
 
-Tout aéronef, sauf ceux immatriculés P4-KCA, P4-KCB, P4-EAS, P4-FAS, P4-GAS, P4-MAS, P4-NAS, P4-OAS, P4-PAS, P4-SAS, P4-TAS, P4-UAS, P4-VAS, P4-WAS, P4-YAS, P4-XAS, P4-HAS, P4-IAS, P4-JAS, P4-KAS, P4-LAS
+Tout aéronef, sauf : les aéronefs appartenant à la flotte de B767 tel que mentionné sur le CTA, les aéronefs appartenant à la flotte de B757, les aéronefs appartenant à la flotte de A319/A320/A321 tel que mentionné sur le CTA, les aéronefs appartenant à la flotte de Fokker 50 tel que mentionné sur le CTA
 
 |
 
-Tout aéronef sauf 2 aéronefs de type B767 ; 4 aéronefs de type B757 ; 10 aéronefs de type A319/320/321 et 5 aéronefs de type Fokker 50
+Tout aéronef sauf les aéronefs de type B767, les aéronefs de type B757, les aéronefs de type A319/320/321, les aéronefs de type Fokker 50
 
 |
 
@@ -130,7 +132,9 @@ Tout aéronef, sauf 2 aéronefs de type DC8-63 F
 
 |
 
-Air Madagascar
+Air
+
+Madagascar
 
 |
 
@@ -166,7 +170,7 @@ KMD
 
 |
 
-Tout aéronef, sauf celui immatriculé D. 6-CAM (851336)
+Tout aéronef, sauf celui immatriculé D 6-CAM (851336)
 
 |
 
@@ -226,30 +230,6 @@ Tout aéronef sauf 14 aéronefs de type A300, 8 aéronefs de type A310, 1 aéron
 
 |
 
-Jordan Aviation
-
-|
-
-Royaume hachémite de Jordanie
-
-|
-
-JAV
-
-|
-
-Tout aéronef, sauf ceux immatriculés JY-JAB, JY-JAD, JY-JAN, JY-JAO, JY-JAX, JY-JAY, JY-JAP, JY-JAQ, JY-JAV, JY-JAH, JY-JAC
-
-|
-
-Tout aéronef sauf 8 aéronefs de type B737, 2 aéronefs de type A310 et 1 aéronef de type A320
-
-|
-
-10
-
-|
-
 Nouvelle Air Affaires Gabon (SN2AG)
 
 |
@@ -266,11 +246,11 @@ Tout aéronef sauf ceux immatriculés TR-AAG et ZS-AFG
 
 |
 
-Tout aéronef sauf 1 aéronef de type Challenger CL. 601 et 1 aéronef de type HS-125-800
+Tout aéronef sauf 1 aéronef de type Challenger CL 601 et 1 aéronef de type HS-125-800
 
 |
 
-11
+10
 
 |
 
@@ -286,7 +266,7 @@ DTA
 
 |
 
-Tout aéronef sauf ceux immatriculés D 2-TED, D 2-TEE, D 2-TEF, D 2-TEG, D 2-TEH, D 2-TBF, D 2-TBG, D 2-TBH, D 2-TBJ
+Tout aéronef sauf ceux immatriculés D2-TED, D2-TEE, D2-TEF, D2-TEG, D2-TEH, D2-TBF, D2-TBG, D2-TBH, D2-TBJ
 
 |
 
@@ -298,10 +278,10 @@ Tout aéronef sauf 5 aéronefs de type Boeing B777 et 4 aéronefs de type Boeing
 
 (2) Afrijet n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
-(3) Air Astana n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
+(3) Pour ses activités actuelles dans l'Union européenne, Air Astana n'est autorisé à utiliser que les types d'aéronefs spécifiquement mentionnés ci-dessus, pour autant primo qu'ils soient immatriculés à Aruba et secundo que toutes les modifications apportées au CTA soient soumises en temps utile à la Commission et à Eurocontrol.
 
 (4) Gabon Airlines n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
-(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les aéronefs spécifiques, dans les conditions fixées au considérant (69) du règlement (UE) n° 590/2010, JOUE L 170 du 6 juillet 2010, p. 15.
+(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne en utilisant les aéronefs spécifiques, dans les conditions fixées au considérant (69) du règlement (UE) n° 590/2010, JOUE n° L 170 du 6 juillet 2010, p. 15.
 
 |
