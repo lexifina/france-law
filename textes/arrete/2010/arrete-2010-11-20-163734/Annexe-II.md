@@ -186,7 +186,7 @@ Il s'agit d'une course de 3 000 mètres, effectuée sur une piste d'athlétisme,
 
 Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées.
 
-Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à quinze.
+Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblable que possible et d'effectif inférieur ou égal à vingt.
 
 2.2.4. Epreuve de tractions et abdominaux
 
@@ -1153,3 +1153,7 @@ Natation
 Nota.-En cas de performance intermédiaire, la note à attribuer reste celle qui correspond à la performance immédiatement inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro.
 
 |
+
+NOTA :
+
+Les dispositions de l'arrêté du 20 novembre 2010 seront abrogées à compter des concours organisés en 2015.
