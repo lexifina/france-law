@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121103010
+
+- Question : [SEQ121103010](seq121103010.md) — Moyens insuffisants du CPDC
+
+## Réponse
+
+*Économie et finances, JO du 2013-01-17, page 181*
+
+Le Gouvernement est très attentif à la situation financière des stations-service confrontées aux coûts des mises en conformité rendues nécessaires par l'évolution de la réglementation dans le cadre de la poursuite ou la cessation de leur activité. Pour accompagner le réseau des petites stations-service dans leurs restructurations, le Gouvernement a créé en 1991 le comité professionnel des distributeurs de carburants (CPDC). Ce comité a pour mission principale de soutenir directement les petits détaillants par des aides appropriées pour les mises en conformité en regard de la protection de l'environnement et les fermetures définitives des points de vente. Le CPDC, dont la dotation publique relève du programme 134 de la mission développement économique, traite toutes les demandes qui lui sont transmises. En 2011, 1 075 dossiers ont été examinés pour un montant d'aides total s'élevant à 5,5 M€ dont 4 M€ d'aides à l'environnement et la sécurité. Concernant le budget alloué au CPDC, comme toutes les dépenses d'intervention de l'État, le Gouvernement doit envisager, sous le contrôle du Parlement, son évolution au regard de l'ensemble de la politique budgétaire. Si les moyens du CPDC ont fortement baissé ces dernières années, cette tendance a été inversée dans la loi de finances pour 2013. Enfin, la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale a commandé une étude sur le maillage du territoire français en stations-service. Les résultats de cette étude seront rendus prochainement et permettront de disposer d'une analyse plus fine sur la situation des stations-service notamment indépendantes.
