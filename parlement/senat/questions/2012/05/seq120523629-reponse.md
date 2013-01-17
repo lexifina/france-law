@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120523629
+
+- Question : [SEQ120523629](seq120523629.md) — Accès au crédit pour les entreprises et prise en compte de critères sociaux et environnementaux dans la cotation de la Banque de France
+
+## Réponse
+
+*Économie et finances, JO du 2013-01-17, page 155*
+
+La cotation Banque de France exprime de façon synthétique l'ensemble des informations économiques et financières recueillies sur une entreprise. Elle traduit une appréciation globale de la Banque de France sur la capacité d'une entreprise à honorer ses engagements financiers à un horizon de trois ans. En particulier, la cotation repose sur une notation « crédit » de l'entreprise dépendant de ses caractéristiques financières et actualisée en continue en fonction de l'information nouvelle disponible (bilan, incidents de paiement, dépôt de bilan...). La cotation offre au dirigeant un regard extérieur qui positionne son entreprise sur une échelle de risques établie suivant des normes européennes et utilisée par la profession bancaire. Elle est utilisée par les établissements de crédit comme outil d'aide à la décision, de suivi du portefeuille client et des prospects, de calcul des besoins en fonds propres. La cotation permet donc de réduire l'asymétrie d'information entre prêteur et emprunteurs et partant, contribue à améliorer l'accès au crédit des entreprises. S'il est important de favoriser la création et la qualité des emplois par les entreprises et de promouvoir plus généralement l'adoption par le plus grande nombre d'entre elles de critères sociaux et environnementaux vertueux, le système de cotation de la Banque de France n'apparaît pas l'outil le plus adapté. Toucher à la lisibilité d'un tel indicateur, au sens de l'analyse de solvabilité nécessaire à la décision d'octroi de prêts qu'il fournit aux établissements de crédit, nuirait à l'accès au crédit des petites et moyennes entreprises.
