@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203681
+
+- Question : [SEQ121203681](seq121203681.md) — Notices d'utilisation en français
+
+## Réponse
+
+*Économie et finances, JO du 2013-01-17, page 177*
+
+L'article 2 de la loi n° 94-665 du 4 août 1994 relative à l'emploi de la langue française prévoit dans son article 2 que « dans la désignation, l'offre, la présentation, le mode d'emploi ou d'utilisation, la description de l'étendue et des conditions de garantie d'un bien, d'un produit ou d'un service, ainsi que dans les factures et quittances, l'emploi de la langue française est obligatoire ». Ainsi, pour tous les produits commercialisés en France, la notice d'utilisation ou d'emploi devra être en français. Cependant, l'article 2 précité oblige à fournir un mode d'emploi en français mais ne précise pas qu'il doit être sur un support papier. Dans ces conditions, et dans un souci de respect de l'environnement, de plus en plus de marques proposent des manuels d'utilisation en format numérique, sur CD ou directement sur l'appareil. Le format numérique n'est donc pas contraire à l'obligation fixée par le législateur. Toutefois, le recours à une notice d'utilisation à télécharger gratuitement ou sur CD fourni avec l'appareil est plus courant pour des produits issus des nouvelles technologies comme les smartphones, les tablettes tactiles, les appareils photo numériques, les jeux vidéos, les consoles de jeux, les logiciels, les baladeurs, que pour les appareils électroménagers. En tout état de cause, la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) effectue tout au long de l'année des contrôles afin de vérifier l'application de la loi du 4 août 1994 relative à l'emploi de la langue française avec un nombre des contrôles en hausse en 2011 et une priorité accordée à la vérification des produits ayant une incidence sur la sécurité et la santé des consommateurs.
