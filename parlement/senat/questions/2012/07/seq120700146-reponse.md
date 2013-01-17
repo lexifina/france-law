@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700146
+
+- Question : [SEQ120700146](seq120700146.md) — Encadrement du prix du médicament
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-01-17, page 135*
+
+Depuis plusieurs années, les acteurs de la grande distribution et de la parapharmacie réclament aux pouvoirs publics la possibilité de vendre dans leurs magasins des médicaments non remboursables par les organismes d'assurance maladie, couramment appelés « médicaments conseil » ou « médicaments de médication familiale ». La dispensation du médicament, dont les modalités sont clairement définies à l'article R. 4235-48 du code de la santé publique, à savoir l'analyse pharmaceutique de l'ordonnance médicale si elle existe, la préparation éventuelle des doses à administrer et la mise à disposition des informations et les conseils nécessaires au bon usage du médicament, doit être réalisée par un pharmacien d'officine. Cet acte pharmaceutique doit être effectué avec la plus haute exigence dans l'intérêt de la santé publique, de la qualité des soins et de la sécurité des patients. La législation française sur les médicaments prévoit que la dispensation au détail de tous les médicaments ne peut se faire que dans les officines de pharmacie définies à l'article L. 5125-1 du code de la santé publique, par les professionnels de santé que sont les pharmaciens. Il n'est pas actuellement envisagé de sortir de ce cadre législatif et réglementaire qui permet une sécurisation du circuit du médicament, lequel ne doit pas être considéré comme un bien de consommation courante. Les prix des médicaments non remboursables par les organismes d'assurance maladie sont libres. Les pharmaciens, selon le code de déontologie qui leur est applicable, doivent les fixer avec tact et mesure. La ministre a rappelé récemment ces dispositions aux associations professionnelles nationales et à l'ordre des pharmaciens.
