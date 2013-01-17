@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901704
+
+- Question : [SEQ120901704](seq120901704.md) — Financement des réseaux de santé
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-01-17, page 140*
+
+Depuis le 1er mars 2012, la part régionale du fonds d'intervention pour la qualité et la coordination des soins (FIQCS), qui finançait les réseaux de santé, a été intégrée dans le fonds d'intervention régional (FIR), créé par l'article 65 de la loi n° 2011-1906 du 21 décembre 2011 de financement de la sécurité sociale pour 2012. Le FIR regroupe dans le cadre d'une enveloppe fermée des crédits qui répondent à des objectifs complémentaires de politique de santé : la continuité, la performance, la qualité et la coordination des soins et des actions de prévention. Ce fonds permet ainsi d'offrir aux agences régionales de santé (ARS) une plus grande souplesse dans la gestion de leurs crédits et de leur donner des marges d'actions régionales. En conséquence, l'allocation des ressources en matière de coordination des soins, et plus particulièrement en faveur des réseaux de santé, sera définie dans ce nouveau cadre qui laisse la possibilité aux ARS de mobiliser des ressources au-delà des crédits de l'ancien FIQCS. Pour recentrer les réseaux de santé sur leurs missions de coordination, en appui des équipes de premiers recours et pour les patients en situation complexe, un guide intitulé « Améliorer la coordination des soins : quel avenir pour les réseaux de santé ? », a été publié avec la collaboration de l'union nationale des réseaux de santé. Ce guide fait l'objet d'un accompagnement régional, au sein de chaque ARS, afin notamment que puissent être associés à cette démarche progressive d'évolution des réseaux de santé les représentants des professionnels de santé (URPS), les représentants des réseaux et des usagers. Ces évolutions doivent en effet permettre d'améliorer le service rendu par les réseaux de santé, aux patients et aux professionnels de santé.
