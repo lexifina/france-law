@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700212
+
+- Question : [SEQ120700212](seq120700212.md) — Groupement d'employeurs dans la filière pêche
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2013-01-17, page 208*
+
+Le Gouvernement est très sensible aux problèmes liés à l'emploi et à la formation professionnelle dans le secteur de la pêche, et reste mobilisé et à l'écoute des besoins de la profession. Les dispositions du code du travail relatives au groupement d'employeurs ont été rendues applicables aux entreprises d'armement maritime depuis la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche maritime et les cultures marines. Sous réserve d'entrer dans le champ d'application d'une même convention collective ou, à défaut, de déterminer celle qui sera applicable au groupement, les entreprises d'armement maritime, dont celles du secteur de la pêche, peuvent ainsi bénéficier des dispositions prévues aux articles L. 1253-1 et suivants du code du travail relatifs au groupement des employeurs. Cette question montre tout l'intérêt pour les partenaires sociaux à la pêche de disposer d'une convention collective étendue qui sera un signal fort en termes de dialogue social et de modernisation du secteur. Cette convention collective pourrait ainsi résoudre un certain nombre de questions relatives notamment à la formation et à l'organisation du métier, et permettre au secteur d'être reconnu comme branche pour la mise en œuvre des dispositions de la loi n° 2008-789 du 20 août 2008 relatives à la représentativité. Le Gouvernement a invité les partenaires sociaux à poursuivre leurs efforts afin de doter rapidement le secteur d'un tel instrument, indispensable pour développer ces groupements d'employeurs. Il ne peut toutefois se substituer aux partenaires sociaux pour négocier une telle convention collective.
