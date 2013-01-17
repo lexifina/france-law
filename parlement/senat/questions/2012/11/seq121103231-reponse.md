@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121103231
+
+- Question : [SEQ121103231](seq121103231.md) — Fonctionnement et missions de la direction générale de la concurrence, de la consommation et de la répression des fraudes
+
+## Réponse
+
+*Économie et finances, JO du 2013-01-17, page 180*
+
+Le séminaire gouvernemental du 1er octobre 2012 relatif à la modernisation de l'action publique a acté le lancement de travaux spécifiques sur l'administration territoriale de l'État afin d'identifier les pistes d'amélioration et de répondre aux dysfonctionnements constatés. Un groupe de travail interministériel sur l'administration territoriale de l'État constitué à cet effet proposera : - les mesures de court terme (fonctionnement, procédures de travail, mesures de gestion) nécessaires et praticables à iso-organisation ; - les hypothèses d'évolution à moyen terme compte tenu de l'analyse détaillée des propositions des ministères concernés, des options retenues dans le projet de loi décentralisation et de la trajectoire budgétaire. Ce groupe de travail s'appuiera notamment sur plusieurs missions d'audit qui ont déjà examiné l'organisation et le fonctionnement des services en charge des missions concurrence et consommation ainsi que leurs conséquences sur l'activité de la direction générale de la consommation, de la concurrence et de la répression des fraudes (DGCCRF). La situation des services chargés de la mise en œuvre des politiques portées par la DGCCRF et qui sont au cœur de l'action du Gouvernement en matière d'ordre public économique, sera donc évaluée dans le cadre de cette démarche générale. D'ores et déjà, les effectifs de la DGCCRF ont été stabilisés pour 2013 et le Gouvernement envisage de conforter les missions en matière de concurrence et de consommation grâce à de nouveaux outils juridiques, dans le cadre du projet de loi consommation qui sera déposé au cours de l'année 2013.
