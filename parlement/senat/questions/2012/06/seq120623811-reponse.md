@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120623811
+
+- Question : [SEQ120623811](seq120623811.md) — Poursuite du soutien de l'État au secteur de l'aide à domicile
+
+## Réponse
+
+*Budget, JO du 2013-01-17, page 146*
+
+L'étude présentée par la Fédération du service aux particuliers (FESP) conclut effectivement au rôle joué par les exonérations fiscales et de charges sociales mises en place par l'État dans le développement des services à la personne, 6,3 Mds€ sont consacrés chaque année à soutenir ce secteur dont le modèle économique reste encore tributaire de l'intervention publique. Les projets de loi de finances et de loi de financement de la sécurité sociale pour 2013 traduisent le choix du Gouvernement de préserver l'emploi, tout en ciblant mieux les avantages accordés à ce secteur et en rapprochant les conditions d'emploi et de travail des salariés à domicile du reste du monde du travail. La suppression de la possibilité pour les particuliers employeurs de cotiser sur une assiette forfaitaire vise à la fois à supprimer un avantage jugé peu efficient et à renforcer les droits sociaux des salariés, qui seront calculés sur leur salaire réel et non sur le SMIC. La création d'un abattement forfaitaire de 0,75 € par heure travaillée pour les particuliers employeurs permettra de réduire le coût du travail, tout particulièrement pour les emplois à bas salaire - cet abattement correspond à 8 points de cotisation au niveau du SMIC. Cela devrait soutenir l'emploi dans un secteur qui a été affecté par la suppression en 2011 de l'abattement de 15 points pour les employeurs cotisant sur assiette réelle. Le maintien de la réduction et du crédit d'impôt au titre des emplois à domicile contribue également à solvabiliser la demande et permet de lutter contre le travail dissimulé en maintenant le coût du travail déclaré moins coûteux pour l'employeur que celui du travail dissimulé.
