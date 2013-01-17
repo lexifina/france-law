@@ -88,9 +88,9 @@ Article 5
 
 |
 
-TITRE II : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE
+TITRE II : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉQUIPEMENT,
 
-CHARGÉ DE L'ÉQUIPEMENT, DES TRANSPORTS ET DU LOGEMENT
+DES TRANSPORTS ET DU LOGEMENT
 
 A.-Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement
 
@@ -966,9 +966,7 @@ Article 10
 
 |
 
-Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18
-
-et 95-19 du 19 juin 1995.
+Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991, 95-18 et 95-19 du 19 juin 1995.
 
 1
 
@@ -1106,17 +1104,9 @@ Agrément de colis pour le transport des matières radioactives.
 
 |
 
-Arrêté du 5 décembre 1996 relatif au
+Arrêté du 5 décembre 1996 relatif au transport des marchandises dangereuses par route, article 47.
 
-transport des marchandises
-
-dangereuses par route, article 47.
-
-Arrêté du 6 décembre 1996 relatif
-
-transport des marchandises dangereuses
-
-par chemin de fer, article 35.
+Arrêté du 6 décembre 1996 relatif transport des marchandises dangereuses par chemin de fer, article 35.
 
 |
 
@@ -1228,11 +1218,7 @@ Décret n° 2003-194 du 7 mars 2003 relatif à l'utilisation du réseau ferré n
 
 Délivrance de la licence d'entreprise ferroviaire ;
 
-Retrait, suspension de la licence d'entreprise ferroviaire et
-
-mise en demeure d'une entreprise ferroviaire de
-
-régulariser sa situation financière.
+Retrait, suspension de la licence d'entreprise ferroviaire et mise en demeure d'une entreprise ferroviaire de régulariser sa situation financière.
 
 |
 
@@ -1244,9 +1230,7 @@ Articles 10 et 12
 
 |
 
-Délivrance du certificat de sécurité pour l'utilisation du
-
-réseau ferré national ;
+Délivrance du certificat de sécurité pour l'utilisation du réseau ferré national ;
 
 Retrait et suspension du certificat de sécurité.
 
@@ -1286,9 +1270,7 @@ Article 2
 
 |
 
-Délivrance et renouvellement du certificat
-
-international de sûreté.
+Délivrance et renouvellement du certificat international de sûreté.
 
 |
 
@@ -1300,9 +1282,7 @@ Article 4
 
 |
 
-Délivrance et renouvellement du certificat
-
-international de sûreté provisoire.
+Délivrance et renouvellement du certificat international de sûreté provisoire.
 
 |
 
@@ -1314,9 +1294,7 @@ Article 5
 
 |
 
-Délivrance et renouvellement du certificat
-
-d'exemption.
+Délivrance et renouvellement du certificat d'exemption.
 
 |
 
@@ -1328,9 +1306,7 @@ Article 6
 
 |
 
-Approbation des modifications du plan de
-
-sûreté approuvé.
+Approbation des modifications du plan de sûreté approuvé.
 
 |
 
@@ -1366,9 +1342,7 @@ Article 9
 
 |
 
-Recours contre les décisions de retrait du
-
-certificat international de sûreté.
+Recours contre les décisions de retrait du certificat international de sûreté.
 
 |
 
@@ -1494,11 +1468,7 @@ Décret n° 92-1166 du 21 octobre 1992 relatif à la conduite en mer des navires
 
 |
 
-Jusqu'au 31 décembre 1998, délivrance des permis et des
-
-duplicatas de permis de conduire des navires de plaisance
-
-à moteur en mer pour les départements non côtiers.
+Jusqu'au 31 décembre 1998, délivrance des permis et des duplicatas de permis de conduire des navires de plaisance à moteur en mer pour les départements non côtiers.
 
 |
 
@@ -1514,15 +1484,7 @@ Décret n° 99-439 du 25 mai 1999 modifié relatif à la délivrance des titres 
 
 |
 
-Décision accordant une équivalence de tout ou partie des
-
-formations ou des temps de navigation requis pour la
-
-délivrance des titres de formation professionnelle maritime,
-
-ou des conditions nécessaires à l'entrée en formation, à
-
-des personnes justifiant de certaines qualifications.
+Décision accordant une équivalence de tout ou partie des formations ou des temps de navigation requis pour la délivrance des titres de formation professionnelle maritime, ou des conditions nécessaires à l'entrée en formation, à des personnes justifiant de certaines qualifications.
 
 |
 
@@ -1538,11 +1500,7 @@ Code des douanes
 
 |
 
-Autorisation pour transport déterminé (ATD) pour la liaison
-
-entre ports français (hors Antilles) pour les navires battant
-
-pavillon tiers.
+Autorisation pour transport déterminé (ATD) pour la liaison entre ports français (hors Antilles) pour les navires battant pavillon tiers.
 
 |
 
@@ -1558,9 +1516,7 @@ Décret du 24 juillet 1923 modifié relatif aux autorisations pour la vente et l
 
 |
 
-Entrées et sorties de flotte de commerce : navires de plus
-
-de 200 tonneaux de jauge brute.
+Entrées et sorties de flotte de commerce : navires de plus de 200 tonneaux de jauge brute.
 
 |
 
@@ -1574,9 +1530,7 @@ Décret n° 48-1751 du 16 novembre 1948 modifié étendant dans certaines condit
 
 |
 
-Entrées et sorties de flotte de commerce : navires de plus
-
-de 200 tonneaux de jauge brute.
+Entrées et sorties de flotte de commerce : navires de plus de 200 tonneaux de jauge brute.
 
 |
 
@@ -1594,11 +1548,7 @@ Code des ports maritimes
 
 |
 
-Autorisation ministérielle pour déroger dans le cahier des charges
-
-d'une concession d'outillage public dans les ports non autonomes
-
-au cahier des charges type.
+Autorisation ministérielle pour déroger dans le cahier des charges d'une concession d'outillage public dans les ports non autonomes au cahier des charges type.
 
 |
 
@@ -1610,11 +1560,7 @@ Article R. 122-8 c.
 
 |
 
-Autorisation ministérielle pour dérogation au cahier des charges
-
-types en matière d'outillage privé avec obligation de service public
-
-dans les ports d'intérêt national.
+Autorisation ministérielle pour dérogation au cahier des charges types en matière d'outillage privé avec obligation de service public dans les ports d'intérêt national.
 
 |
 
@@ -1630,9 +1576,7 @@ Code du tourisme
 
 |
 
-Délivrance, suspension et retrait de l'agrément national délivré à des
-
-organismes de tourisme social et familial.
+Délivrance, suspension et retrait de l'agrément national délivré à des organismes de tourisme social et familial.
 
 |
 
@@ -1648,11 +1592,7 @@ Code de l'aviation civile
 
 |
 
-Autorisation spéciale et temporaire accordée aux aéronefs étrangers pour circuler
-
-au-dessus du territoire français, sauf lorsqu'elle porte sur l'utilisation d'aéronefs
-
-pour du travail aérien.
+Autorisation spéciale et temporaire accordée aux aéronefs étrangers pour circuler au-dessus du territoire français, sauf lorsqu'elle porte sur l'utilisation d'aéronefs pour du travail aérien.
 
 |
 
@@ -1664,9 +1604,7 @@ Article R. 131-6.
 
 |
 
-Sanctions administratives prises après avis de la commission administrative
-
-de l'aviation civile.
+Sanctions administratives prises après avis de la commission administrative de l'aviation civile.
 
 |
 
@@ -1680,15 +1618,7 @@ et R. 330-20 et R. 330-22.
 
 |
 
-Délivrance, transformation en licence temporaire, suspension et retrait de la
-
-licence d'exploitation de transporteur aérien, sauf pour les entreprises
-
-exploitant exclusivement des aéronefs d'une masse maximale au décollage
-
-inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant
-
-pas de services réguliers internationaux.
+Délivrance, transformation en licence temporaire, suspension et retrait de la licence d'exploitation de transporteur aérien, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
 
 |
 
@@ -1700,15 +1630,7 @@ Article R. 330-1.
 
 |
 
-Approbation préalable des programmes d'exploitation des services aériens au
-
-départ, à destination ou à l'intérieur du territoire national, sauf pour les
-
-transporteurs aériens français exploitant exclusivement des aéronefs d'une
-
-masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de
-
-moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
+Approbation préalable des programmes d'exploitation des services aériens au départ, à destination ou à l'intérieur du territoire national, sauf pour les transporteurs aériens français exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
 
 |
 
@@ -1732,21 +1654,7 @@ Articles L. 330-8.
 
 |
 
-Autorisation, pour les transporteurs titulaires d'une licence d'exploitation
-
-délivrée par la France, d'exploiter un aéronef immatriculé à l'étranger ou des
-
-services aériens au départ, à destination ou à l'intérieur du territoire national,
-
-dans le cadre d'accords commerciaux aux termes desquels le transporteur
-
-contractuel n'est pas le transporteur de fait, sauf pour les entreprises exploitant
-
-exclusivement des aéronefs d'une masse maximale au décollage inférieure à
-
-10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services
-
-réguliers internationaux.
+Autorisation, pour les transporteurs titulaires d'une licence d'exploitation délivrée par la France, d'exploiter un aéronef immatriculé à l'étranger ou des services aériens au départ, à destination ou à l'intérieur du territoire national, dans le cadre d'accords commerciaux aux termes desquels le transporteur contractuel n'est pas le transporteur de fait, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
 
 |
 
@@ -1758,15 +1666,7 @@ Articles R. 330-4 et R. 330-9.
 
 |
 
-Octroi, renouvellement ou retrait de l'autorisation d'exploiter certains services
-
-intérieurs ou internationaux (extracommunautaires) pour les transporteurs établis
-
-en France, sauf pour les entreprises exploitant exclusivement des aéronefs d'une
-
-masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins
-
-de 20 sièges et n'exploitant pas de services réguliers internationaux.
+Octroi, renouvellement ou retrait de l'autorisation d'exploiter certains services intérieurs ou internationaux (extracommunautaires) pour les transporteurs établis en France, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
 
 |
 
@@ -1778,9 +1678,7 @@ Article R. 330-6.
 
 |
 
-Dérogations aux règles d'utilisation des aéroports et affectations individuelles des
-
-entreprises de transport aérien.
+Dérogations aux règles d'utilisation des aéroports et affectations individuelles des entreprises de transport aérien.
 
 |
 
@@ -1792,9 +1690,7 @@ Article R. 221-3.
 
 |
 
-Création d'un aérodrome de catégorie A, B, C ou E, destiné à être ouvert à la
-
-circulation aérienne publique.
+Création d'un aérodrome de catégorie A, B, C ou E, destiné à être ouvert à la circulation aérienne publique.
 
 |
 
@@ -1818,9 +1714,7 @@ Articles D. 232-2 et D. 232-6.
 
 |
 
-Modification des conditions ou consignes d'utilisation d'un aérodrome à usage
-
-restreint.
+Modification des conditions ou consignes d'utilisation d'un aérodrome à usage restreint.
 
 |
 
@@ -1844,9 +1738,7 @@ Articles R. 221-2 et D. 221-4.
 
 |
 
-Autorisation de certains transports aériens commerciaux sur aérodromes à
-
-usage restreint.
+Autorisation de certains transports aériens commerciaux sur aérodromes à usage restreint.
 
 |
 
@@ -1858,11 +1750,7 @@ Article D. 232-1.
 
 |
 
-Subordination de l'autorisation de création d'un aérodrome à usage restreint à la
-
-conclusion entre l'Etat et le créateur de l'aérodrome d'une convention de type
-
-L. 221-1 et imposition à l'exploitant d'une souscription d'un contrat d'assurance.
+Subordination de l'autorisation de création d'un aérodrome à usage restreint à la conclusion entre l'Etat et le créateur de l'aérodrome d'une convention de type L. 221-1 et imposition à l'exploitant d'une souscription d'un contrat d'assurance.
 
 |
 
@@ -1874,9 +1762,7 @@ Article D. 232-3.
 
 |
 
-Accord donné au créateur d'un aérodrome à usage restreint de confier l'exploitation
-
-de l'aérodrome à un tiers de son choix.
+Accord donné au créateur d'un aérodrome à usage restreint de confier l'exploitation de l'aérodrome à un tiers de son choix.
 
 |
 
@@ -1924,13 +1810,9 @@ Articles R. 410-2, R. 410-3, R. 425-4 et R. 431-3.
 
 |
 
-Décisions relatives à l'inscription sur les registres spéciaux du personnel
+Décisions relatives à l'inscription sur les registres spéciaux du personnel navigant professionnel de l'aéronautique civile de nationalité française.
 
-navigant professionnel de l'aéronautique civile de nationalité française.
-
-Décisions relatives à l'exercice d'une activité professionnelle par les
-
-personnes n'ayant pas la nationalité française.
+Décisions relatives à l'exercice d'une activité professionnelle par les personnes n'ayant pas la nationalité française.
 
 |
 
@@ -1944,15 +1826,7 @@ Chapitre Ier du titre II, du livre IV
 
 |
 
-Décisions relatives à l'agrément des médecins et des centres médicaux pour
-
-l'examen médical des titulaires de licences des personnels navigants et des
-
-candidats à ces licences ; décisions en matière de reconnaissance d'incapacité
-
-temporaire ou permanente de travail et de décès consécutifs d'un accident
-
-aérien survenu en service ou une maladie imputable au service aérien.
+Décisions relatives à l'agrément des médecins et des centres médicaux pour l'examen médical des titulaires de licences des personnels navigants et des candidats à ces licences ; décisions en matière de reconnaissance d'incapacité temporaire ou permanente de travail et de décès consécutifs d'un accident aérien survenu en service ou une maladie imputable au service aérien.
 
 |
 
@@ -1964,11 +1838,7 @@ Articles L. 424-1, L. 424-2, et D. 424-2.
 
 |
 
-Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel
-
-navigant sur une autre période de temps que celles prévues au code de
-
-l'aviation civile.
+Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel navigant sur une autre période de temps que celles prévues au code de l'aviation civile.
 
 |
 
@@ -1992,9 +1862,7 @@ Article D. 133-19 et D. 133-19-1.
 
 |
 
-Nomination d'un coordinateur pour l'attribution des créneaux horaires sur un aéroport
-
-coordonné.
+Nomination d'un coordinateur pour l'attribution des créneaux horaires sur un aéroport coordonné.
 
 Nomination du comité de coordination.
 
@@ -2044,9 +1912,7 @@ Article R. 133-17.
 
 |
 
-Délivrance de la qualification permettant l'exercice des fonctions assurant le service d'information
-
-de vol et d'alerte.
+Délivrance de la qualification permettant l'exercice des fonctions assurant le service d'information de vol et d'alerte.
 
 |
 
@@ -2156,9 +2022,7 @@ Annexe I au décret n° 2005-828 du 20 juillet 2005relatif à la société Aéro
 
 |
 
-Avis conforme sur les décisions de répartition des transporteurs aériens
-
-entre les aérodromes d'Aéroports de Paris
+Avis conforme sur les décisions de répartition des transporteurs aériens entre les aérodromes d'Aéroports de Paris
 
 |
 
@@ -2196,9 +2060,7 @@ Article 59
 
 |
 
-Sanction envers la société Aéroports de Paris en cas de manquement
-
-constaté aux obligations imposées par le cahier des charges
+Sanction envers la société Aéroports de Paris en cas de manquement constaté aux obligations imposées par le cahier des charges
 
 |
 
@@ -2212,11 +2074,7 @@ Code de l'environnement
 
 |
 
-Décision relative à la délivrance et le retrait des certificats de réception
-
-par type pour les moteurs destinés aux autorails, locomotives et
-
-bateaux de la navigation intérieure.
+Décision relative à la délivrance et le retrait des certificats de réception par type pour les moteurs destinés aux autorails, locomotives et bateaux de la navigation intérieure.
 
 |
 
@@ -2282,7 +2140,7 @@ Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression 
 
 |
 
-Habilitation d'organismes de contrôle mentionnés aux articles 10,12,18 et aux points 3.1.2 et 3.1.3 de l'annexe 1, ainsi que la suspension ou le retrait de cette habilitation.
+Habilitation d'organismes de contrôle mentionnés aux articles 10, 12, 18 et aux points 3.1.2 et 3.1.3 de l'annexe 1, ainsi que la suspension ou le retrait de cette habilitation.
 
 |
 
@@ -2348,9 +2206,7 @@ Décisions relatives à l'exécution des décisions de justice.
 
 |
 
-Décisions relatives au règlement amiable des litiges
-
-résultant de l'activité des services du ministère.
+Décisions relatives au règlement amiable des litiges résultant de l'activité des services du ministère.
 
 |
 
@@ -2358,15 +2214,7 @@ résultant de l'activité des services du ministère.
 
 |
 
-Décisions relatives aux personnes morales placées sous la tutelle
-
-ou le contrôle de l'Etat autres que celles mentionnées au 3° de
-
-l'annexe au décret pris pour l'application à l'ensemble des ministères
-
-du 1° de l'article 2, du décret n° 97-34 du 15 janvier 1997 relatif à la
-
-déconcentration des décisions administratives individuelles.
+Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3° de l'annexe au décret pris pour l'application à l'ensemble des ministères du 1° de l'article 2, du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles.
 
 |
 
@@ -2386,9 +2234,7 @@ Code des marchés publics
 
 |
 
-Exclusion temporaire ou définitive d'une entreprise des marchés
-
-passés par les services relevant de son autorité.
+Exclusion temporaire ou définitive d'une entreprise des marchés passés par les services relevant de son autorité.
 
 |
 
@@ -2402,10 +2248,164 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 
 |
 
-Agrément de certains organismes chargés de dispenser une formation en
-
-matière d'hygiène et de sécurité aux représentants des personnels siégeant
-
-aux comités d'hygiène et de sécurité.
+Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.
 
 |
+
+TITRE III : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉNERGIE
+
+Décret n° 2013-46 du 14 janvier 2013 relatif aux aides pour l'électrification rurale.
+
+1
+
+|
+
+Décisions de répartition en sous-programmes du programme principal et du programme spécial d'aides
+
+|
+
+Article 1er
+
+|
+
+2
+
+|
+
+Décision de répartition entre sous-programmes des droits à subventions du programme principal
+
+|
+
+Article 6, (II), 1er alinéa
+
+|
+
+3
+
+|
+
+Décision de répartition entre autorités organisatrices de la distribution des droits à subventions de chaque sous-programme du programme principal ou, le cas échéant, décision globale d'attribution de ces droits, selon le cas à l'établissement public de coopération départemental ou au département
+
+|
+
+Article 6, (II), 2e et 3e alinéa
+
+|
+
+4
+
+|
+
+Décision d'attribution d'une subvention d'un sous-programme du programme principal, fixant, le cas échéant, un taux réduit
+
+|
+
+Articles 8 et 3
+
+|
+
+5
+
+|
+
+Décisions relatives à un versement prévisionnel de trésorerie ou à un acompte afférents à une subvention, ou au paiement d'une subvention
+
+|
+
+Articles 9 (I et II) et 10
+
+|
+
+6
+
+|
+
+Décisions constatant la caducité de la subvention et prorogeant le délai de deux ans
+
+|
+
+Article 11
+
+|
+
+7
+
+|
+
+Décisions demandant le reversement d'une subvention et prolongeant le délai d'exécution des travaux
+
+|
+
+Article 12
+
+|
+
+8
+
+|
+
+Décision d'attribution ou de refus d'une subvention du programme spécial
+
+|
+
+Articles 13 et 15
+
+|
+
+9
+
+|
+
+Décisions relatives à un versement prévisionnel de trésorerie ou à un acompte afférents à une subvention, ou au paiement d'une subvention
+
+|
+
+Articles 16 (I et II) et 17
+
+|
+
+10
+
+|
+
+Décision constatant la caducité de la subvention et prorogeant le délai de deux ans
+
+|
+
+Article 18
+
+|
+
+11
+
+|
+
+Décision demandant le reversement d'une subvention et prolongeant le délai d'exécution
+
+|
+
+Article 19
+
+|
+
+12
+
+|
+
+Décision habilitant les agents chargés du contrôle
+
+|
+
+Article 21
+
+|
+
+13
+
+|
+
+Décision demandant le remboursement de tout ou partie d'une subvention versée
+
+|
+
+Article 22 |
