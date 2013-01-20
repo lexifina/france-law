@@ -14,7 +14,7 @@ D : Délivrance d'un certificat d'exemption sur avis conforme du ministre charg�
 
 |
 
-CERTIFICATS/ VISITES
+CERTIFICATS/VISITES
 
 |
 
@@ -40,7 +40,11 @@ LLOYD'S
 
 Register
 
-of Shipping
+|
+
+RINA SERVICES
+
+SpA
 
 |
 
@@ -49,6 +53,10 @@ of Shipping
 |
 
 Permis de navigation
+
+|
+
+-
 
 |
 
@@ -92,6 +100,10 @@ H
 
 |
 
+H
+
+|
+
 3
 
 |
@@ -116,11 +128,19 @@ D
 
 |
 
+D
+
+|
+
 4
 
 |
 
-Visites relatives à la sécurité de construction/ Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
+Visites relatives à la sécurité de construction/ Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C
+
+|
+
+H
 
 |
 
@@ -164,11 +184,19 @@ D
 
 |
 
+D
+
+|
+
 6
 
 |
 
-Visites requises pour le certificat de sécurité radioélectrique pour navire de charge/Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
+Visites requises pour le certificat de sécurité radioélectrique pour navire de charge/ Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C
+
+|
+
+H
 
 |
 
@@ -192,7 +220,11 @@ H
 
 |
 
-Visites relatives à la sécurité du matériel d'armement/Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
+Visites relatives à la sécurité du matériel d'armement/ Certificat de sécurité pour navire de charge et Fiche d'équipement modèle C
+
+|
+
+H
 
 |
 
@@ -216,7 +248,11 @@ H
 
 |
 
-Visites relatives à l'aptitude au transport de gaz liquéfiés en vrac/Certificat international d'aptitude au transport de gaz liquéfié en vrac
+Visites relatives à l'aptitude au transport de gaz liquéfiés en vrac/ Certificat international d'aptitude au transport de gaz liquéfié en vrac
+
+|
+
+H
 
 |
 
@@ -240,7 +276,11 @@ H
 
 |
 
-Visites relatives à l'aptitude au transport de produits chimiques dangereux en vrac/Certificat international d'aptitude au transport de produits chimiques dangereux en vrac
+Visites relatives à l'aptitude au transport de produits chimiques dangereux en vrac/ Certificat international d'aptitude au transport de produits chimiques dangereux en vrac
+
+|
+
+H
 
 |
 
@@ -264,7 +304,11 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution par les hydrocarbures/Certificat international de prévention de la pollution par les hydrocarbures
+Visites relatives à la prévention de la pollution par les hydrocarbures/ Certificat international de prévention de la pollution par les hydrocarbures
+
+|
+
+H
 
 |
 
@@ -288,7 +332,11 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution par les substances liquides nocives en vrac/Certificat international de prévention de la pollution liée au transport de substances liquides nocives en vrac
+Visites relatives à la prévention de la pollution par les substances liquides nocives en vrac/ Certificat international de prévention de la pollution liée au transport de substances liquides nocives en vrac
+
+|
+
+H
 
 |
 
@@ -312,7 +360,11 @@ H
 
 |
 
-Visites relatives au registre des apparaux de levage/Approbation du registre
+Visites relatives au registre des apparaux de levage/ Approbation du registre
+
+|
+
+H
 
 |
 
@@ -336,7 +388,11 @@ H
 
 |
 
-Visites relatives au registre des ordures/Approbation plan et registre des ordures
+Visites relatives au registre des ordures/ Approbation plan et registre des ordures
+
+|
+
+H
 
 |
 
@@ -360,7 +416,11 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution de l'atmosphère par les navires/Certificat international de prévention de la pollution de l'atmosphère
+Visites relatives à la prévention de la pollution de l'atmosphère par les navires/ Certificat international de prévention de la pollution de l'atmosphère
+
+|
+
+H
 
 |
 
@@ -384,7 +444,11 @@ H
 
 |
 
-Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/Certificat international du système antisalissure
+Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/ Certificat international du système antisalissure
+
+|
+
+H
 
 |
 
@@ -408,7 +472,11 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution par les eaux usées/Certificat international de prévention de la pollution par les eaux usées
+Visites relatives à la prévention de la pollution par les eaux usées/ Certificat international de prévention de la pollution par les eaux usées
+
+|
+
+H
 
 |
 
@@ -452,11 +520,19 @@ H
 
 |
 
+H
+
+|
+
 18
 
 |
 
-Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/Certificat international de prévention de la pollution de l'atmosphère par les moteurs
+Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution de l'atmosphère par les moteurs
+
+|
+
+H
 
 |
 
@@ -500,11 +576,15 @@ H
 
 |
 
+H
+
+|
+
 20
 
 |
 
-Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/Document de conformité prescriptions spéciales applicables aux navires transportant des marchandises dangereuses
+Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/ Document de conformité prescription spéciales applicables aux navires transportant des marchandises dangereuses
 
 |
 
@@ -524,17 +604,37 @@ H
 
 |
 
-21 |
+H
 
-Visite relative à la prévention de la pollution atmosphérique/ Certificat international de rendement énergétique (IEE) |
+|
 
-H |
+21
 
-H |
+|
 
-H |
+Visite relative à la prévention de la pollution atmosphérique/ Certificat international de rendement énergétique (IEE)
 
-H |
+|
+
+H
+
+|
+
+H
+
+|
+
+H
+
+|
+
+H
+
+|
+
+H
+
+|
 
 2. Titres et certificats délivrés au nom de l'Etat pour tous les types de navires :
 
@@ -570,7 +670,11 @@ LLOYD'S
 
 Register
 
-of Shipping
+|
+
+RINA SERVICES
+
+SpA
 
 |
 
@@ -578,7 +682,11 @@ of Shipping
 
 |
 
-Visites relatives au certificat international ou national de franc-bord/Certificat de franc-bord
+Visites relatives au certificat international ou national de Franc-Bord/ Certificat de franc-bord
+
+|
+
+H
 
 |
 
@@ -622,11 +730,19 @@ D
 
 |
 
+D
+
+|
+
 3
 
 |
 
-Visites relatives au registre des apparaux de levage/Approbation du registre
+Visites relatives au registre des apparaux de levage/ Approbation du registre
+
+|
+
+H
 
 |
 
@@ -650,7 +766,11 @@ H
 
 |
 
-Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/Certificat international du système antisalissure
+Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/ Certificat international du système antisalissure
+
+|
+
+H
 
 |
 
@@ -674,7 +794,11 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/Certificat international de prévention de la pollution de l'atmosphère par les moteurs
+Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution de l'atmosphère par les moteurs
+
+|
+
+H
 
 |
 
