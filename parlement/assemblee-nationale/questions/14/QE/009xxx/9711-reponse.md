@@ -1,0 +1,9 @@
+# Réponse à la question n° 9711
+
+- Question : [9711](9711.md) — Question n° 9711 — instances consultatives; coûts de fonctionnement
+
+## Réponse
+
+*JO du 2013-01-22*
+
+Le comité des inspecteurs généraux -COGEX- est un organe interne au fonctionnement de l'inspection générale des finances. Il est prévu aux statuts de l'IGF (article 3 du décret n° 73-276 du 14 mars 1973 relatif au statut particulier du corps de l'inspection générale des finances). Il rassemble les inspecteurs généraux des finances dans les cadres (i. e. présents au service soit 42 personnes au 12 novembre 2012), qui y traitent des questions « dont ils sont saisis par le ministre, par le chef de service ou dont ils se saisissent eux-mêmes ». Le COGEX est statutairement présidé par le ministre, ou en son absence par le chef du service. En pratique, cet organe fonctionne comme une réunion de service mensuelle et n'a donc ni budget propre, ni fonctionnaires mis à disposition. Au-delà du cas particulier faisant l'objet de la présente question, il convient de souligner que le Gouvernement souhaite réformer les pratiques de consultation préalable à la prise de décision et mettre un terme à l'inflation du nombre de commissions consultatives. Le comité interministériel de la modernisation de l'action publique du 18 décembre 2012 a ainsi fixé les orientations d'une nouvelle politique de la consultation. Conformément à ces orientations, chaque ministère dressera une cartographie faisant apparaître sa stratégie de consultation et examinera les possibilités de fusion ou de réorganisation des instances consultatives permettant d'en réduire le nombre et de renouveler les pratiques en privilégiant les modes de concertation ouverts ou informels. La présente réponse ne préjuge pas des décisions qui seront prises dans ce cadre.
