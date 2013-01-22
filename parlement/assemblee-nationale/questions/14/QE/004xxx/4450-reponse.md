@@ -1,0 +1,9 @@
+# Réponse à la question n° 4450
+
+- Question : [4450](4450.md) — Question n° 4450 — broyeurs à bois; hangars de stockage; implantation; réglementation
+
+## Réponse
+
+*JO du 2013-01-22*
+
+L'activité de broyage de bois pour la production de plaquettes destinées à la production d'énergie constitue de plus en plus fréquemment une activité de diversification pour certains agriculteurs ou entrepreneurs de travaux forestiers. Ces activités relèvent de la législation sur les installations classées et doivent, à ce titre, respecter certaines dispositions mises en oeuvre par les directions régionales de l'environnement, de l'aménagement et du logement. Ainsi, l'installation de broyeurs destinés à la fabrication de plaquettes de bois doit être conçue, équipée et exploitée de façon que leur fonctionnement ne puisse être à l'origine de bruits transmis par voie aérienne ou sous forme de vibrations susceptibles de compromettre la santé ou la sécurité du voisinage ou de constituer une nuisance pour celui-ci. Ces émissions sonores ne doivent pas engendrer une émergence supérieure à des valeurs admissibles fixées dans les zones où celles-ci sont réglementées. L'arrêté préfectoral d'autorisation fixe, pour chacune des périodes de la journée, les niveaux de bruit à ne pas dépasser en limites de propriété de l'installation, déterminés de manière à assurer le respect des valeurs du bruit émis directement à la source. L'exploitant doit faire réaliser périodiquement, à ses frais, une mesure des niveaux d'émission sonore de son établissement par une personne ou un organisme qualifié choisi après accord de l'inspection des installations classées. La création d'aires ou de hangars de stockage de plaquettes relève, quant à elle, de la nomenclature des installations classées pour la protection de l'environnement prenant en compte le risque lié au caractère combustible du matériau bois. La procédure applicable est, pour l'essentiel, fonction du volume d'activité prévu.
