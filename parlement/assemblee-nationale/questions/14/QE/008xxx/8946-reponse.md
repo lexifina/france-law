@@ -1,0 +1,9 @@
+# Réponse à la question n° 8946
+
+- Question : [8946](8946.md) — Question n° 8946 — Journée de la résistance; création
+
+## Réponse
+
+*JO du 2013-01-22*
+
+Le ministre délégué auprès du ministre de la défense, chargé des anciens combattants est très sensible à la conservation de la mémoire de la Résistance pendant la Seconde Guerre mondiale, car elle constitue l'une des composantes structurantes de l'Histoire collective de la France. La date du 27 mai 1943 est en effet une date chargée de symbole puisque c'est ce jour-là qu'a été créé, sous l'impulsion de Jean Moulin, le Conseil national de la Résistance (CNR) qui regroupait huit grands mouvements : Combat, Libération, Franc-tireur, Front national, OCM, Ceux de la Résistance, Ceux de la Libération et Libération-Nord ; six partis politiques : Parti communiste, SFIO, Parti radical, Alliance démocratique, Fédération républicaine et Démocrates populaires ainsi que deux syndicats : CGT et CFDT. Certes, la Résistance n'est pas née le 27 mai 1943, puisque dès juin 1940 des Français ont refusé de se résigner à la défaite. Par son appel symbolique lançant les bases « d'une flamme qui ne s'éteindra pas », le général de Gaulle a refusé la défaite et appelé à poursuivre le combat. S'il apparaît aujourd'hui difficile d'inscrire cet exceptionnel épisode de notre histoire collective qu'est le 27 mai dans un calendrier national qui ne comprend pas moins de quatre journées commémoratives liées à la Seconde Guerre mondiale, le ministre souhaite cependant donner sa pleine importance à cet événement fondateur. Ainsi, il fera du 70e anniversaire de la création du CNR un point fort de la célébration de la Résistance en 2013 et il interviendra auprès du ministre de l'éducation nationale afin que le CNR prenne toute sa place dans l'enseignement de l'histoire de la Seconde Guerre mondiale.
