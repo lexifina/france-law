@@ -1,0 +1,9 @@
+# Réponse à la question n° 13377
+
+- Question : [13377](13377.md) — Question n° 13377 — formation; perspectives
+
+## Réponse
+
+*JO du 2013-01-22*
+
+Le diplôme d'Etat de masseur-kinésithérapeute relève de la compétence de la ministre des affaires sociales et de la santé. En vue de son inscription dans le schéma licence-master-doctorat, cette formation a fait l'objet d'une réingénierie, dont les travaux ont été menés par le ministère en charge de la santé. Ces travaux ont été soumis fin juillet 2012 pour avis à mon département ministériel qui a formulé un certain nombre d'observations tant sur les aspects réglementaires que sur le contenu scientifique de cette formation réingéniée. Le niveau de reconnaissance universitaire de cette formation est en attente d'un arbitrage interministériel. Actuellement la formation conduisant au diplôme d'Etat de masseur-kinésithérapeute est organisée en trois ans. De façon dérogatoire certains instituts de formation en masso-kinésithérapie sélectionnent leurs étudiants à l'issue de la première année commune aux études de santé (PACES), conformément à l'arrêté du 27 avril 2012 relatif à l'admission dans les écoles préparant aux diplômes d'ergothérapeute, de technicien de laboratoire médical, de manipulateur d'électroadiologie médicale, de masseur-kinésithérapeute, de pédicure-podologue et de psychomotricien. Concernant la possibilité de permettre à des étudiants en masso-kinésithérapie de se former dans le champ des pratiques avancées, il appartient au ministère des affaires sociales et de la santé de les définir et de conduire les travaux sur les référentiels de formation correspondants. Ces référentiels seront soumis, pour avis, à mon département ministériel et à la conférence des présidents d'universités en vue d'une reconnaissance à un grade universitaire.
