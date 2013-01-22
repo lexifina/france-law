@@ -1,0 +1,9 @@
+# Réponse à la question n° 9856
+
+- Question : [9856](9856.md) — Question n° 9856 — instances de réflexion; statistiques
+
+## Réponse
+
+*JO du 2013-01-22*
+
+Le comité de pilotage de la formation de la gendarmerie a été créé par arrêté du 20 août 2009 et s'est réuni pour la première fois en 2012. Ce comité ne dispose pas de budget de fonctionnement ni de personnel dédié. Ayant pour objet de valider les orientations stratégiques en matière de formation, il regroupe les diverses autorités participant à la conception et la mise en oeuvre de la formation en gendarmerie sous la présidence du DGGN. Hormis le commandant des écoles, elles sont toutes situées en région parisienne et les réunions du comité ont lieu à Issy-les-Moulineaux, au siège de la DGGN. Les études sont menées par les officiers placés sous les ordres de ces autorités dans le cadre normal de leurs activités. Le secrétariat du comité est assuré par la sous-direction des compétences. Au-delà du cas particulier faisant l'objet de la présente question, il convient de souligner que le Gouvernement souhaite réformer les pratiques de consultation préalable à la prise de décision et mettre un terme à l'inflation du nombre de commissions consultatives. Le comité interministériel de la modernisation de l'action publique du 18 décembre 2012 a ainsi fixé les orientations d'une nouvelle politique de la consultation. Conformément à ces orientations, chaque ministère dressera une cartographie faisant apparaître sa stratégie de consultation et examinera les possibilités de fusion ou de réorganisation des instances consultatives permettant d'en réduire le nombre et de renouveler les pratiques en privilégiant les modes de concertation ouverts ou informels. La présente réponse ne préjuge pas des décisions qui seront prises dans ce cadre.
