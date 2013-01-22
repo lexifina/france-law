@@ -1,0 +1,9 @@
+# Réponse à la question n° 8487
+
+- Question : [8487](8487.md) — Question n° 8487 — doctorants; effectifs
+
+## Réponse
+
+*JO du 2013-01-22*
+
+Le nombre de nouveaux diplômes de doctorat décernés dans les pays de l'OCDE a connu une augmentation moins forte en France et en Allemagne qu'aux Etats-Unis, au Japon ou au Royaume-Uni. Il n'en demeure pas moins que depuis 2005, date à laquelle le caractère central de la formation doctorale a été confirmé, le nombre de docteurs en France n'a cessé d'augmenter. La formation doctorale repose sur les écoles doctorales qui proposent une offre de formation lisible et reconnue au plan européen et international, afin de mieux faire reconnaître la qualité de la recherche et de l'enseignement supérieur français. L'objectif est de former, au sein de ces écoles, des jeunes chercheurs de très haut niveau. Les docteurs doivent pouvoir irriguer tant le service public d'enseignement supérieur que les administrations et le secteur privé. A cette fin, le ministère de l'enseignement supérieur et de la recherche soutient différentes actions. Ainsi, le contrat doctoral garantit la reconnaissance de l'engagement des doctorants qui s'orientent vers l'enseignement supérieur et la recherche publique ou vers la recherche et le développement technologique au sein de l'entreprise. De plus, le renforcement du crédit d'impôt recherche encourage les entreprises à recruter des docteurs. Enfin, la reconnaissance du grade de docteur dans le secteur public est également au coeur des préoccupations du gouvernement. A cet égard, une réflexion est menée afin de permettre aux docteurs de bénéficier d'une meilleure insertion grâce à la mise en place de dispense dans le cadre de l'organisation de concours de la fonction publique. Une disposition législative devrait être prise dans le cadre de loi sur l'enseignement supérieur et de la recherche.
