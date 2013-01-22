@@ -1,0 +1,9 @@
+# Réponse à la question n° 3750
+
+- Question : [3750](3750.md) — Question n° 3750 — présignalisation; statistiques; Rhône
+
+## Réponse
+
+*JO du 2013-01-22*
+
+Le gouvernement a décidé en 2011, pour accompagner le retrait des panneaux de signalisation des radars fixes, d'installer de façon concomitante des radars pédagogiques affichant la vitesse des véhicules. Ces panneaux ont aussi pour but d'inciter les usagers en infraction à adapter leur vitesse sans les verbaliser. Les radars pédagogiques sont installés sensiblement plus en amont que les panneaux de présignalisation qu'ils remplacent, à une distance variant de quelques centaines de mètres à plusieurs kilomètres. Ils sont également implantés dans des zones de danger où il n'y a pas de radar fixe mais où des contrôles mobiles pourraient être effectués. En créant une incertitude sur le positionnement des radars fixes, les radars pédagogiques incitent ainsi les usagers à réguler leur vitesse sur toutes les zones de danger et à maintenir une vitesse inférieure à la vitesse limite autorisée tout au long de leur parcours. En ce qui concerne le département du Rhône, 30 dispositifs ont été installés dont 4 en zone de vigilance accrue dépourvue de radar fixe et 14 dispositifs sont en cours de finalisation dans le cadre du marché national. Par ailleurs, dans le cadre du Plan Départemental d'Action de Sécurité Routière (PDASR) du département du Rhône, le Préfet peut également subventionner l'installation par les collectivités locales de radars pédagogiques implantés dans des zones de danger où il n'y a pas de radar fixe. Lors de l'installation du Conseil national de la sécurité routière (CNSR) le 27 novembre 2012, le Ministre de l'Intérieur a demandé à cette instance d'examiner la question de la signalisation des radars fixes et de lui rendre un avis.
