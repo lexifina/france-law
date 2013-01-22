@@ -1,0 +1,9 @@
+# Réponse à la question n° 12595
+
+- Question : [12595](12595.md) — Question n° 12595 — ingénieurs des ponts, des eaux et des forêts; création
+
+## Réponse
+
+*JO du 2013-01-22*
+
+Les problématiques de gestion opérationnelle du corps des ingénieurs des ponts, des eaux et des forêts (IPEF) et de gestion individuelle des agents ne peuvent être dissociées des politiques plus globales de ressources humaines portées par chaque ministère gestionnaire de ce corps. Ainsi les questions relatives à l'encadrement supérieur de l'État que chacun des départements ministériels doit résoudre sont transversales à plusieurs corps (techniques ou administratifs), qu'il s'agisse des questions de parcours professionnels, de rémunération ou de gestion de carrière. Les deux ministères de rattachement du corps des IPEF doivent poursuivre en ce domaine une politique d'équilibre entre plusieurs corps privilégiant leurs besoins en compétences à l'appartenance à un corps particulier. A ce titre, la gestion des corps, dont celui des IPEF ne peut relever que des secrétaires généraux, qui seuls disposent de cette vision d'ensemble. Le ministre de l'agriculture, de l'agroalimentaire et de la forêt est lui-même également très attentif à ce que la gestion de ces ingénieurs, qui occupent une grande partie des emplois supérieurs dans ses champs de compétences, prenne en compte leur vocation à mener des carrières ouvertes, notamment en interministériel ou à l'international, les préparant à occuper des postes de haut niveau. Le rôle du chef de corps n'en est pas moins essentiel, non seulement sur les orientations stratégiques concernant les IPEF, mais également par sa présence en commission paritaire, et par le rôle de conseil que lui reconnaît la charte de gestion du corps aux grandes étapes de la carrière des ingénieurs.
