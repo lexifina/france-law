@@ -1,0 +1,9 @@
+# Réponse à la question n° 13908
+
+- Question : [13908](13908.md) — Question n° 13908 — ambassadeurs thématiques; bilan
+
+## Réponse
+
+*JO du 2013-01-22*
+
+La nomination de M. Gilles de Robien à la fonction d'ambassadeur chargé de promouvoir la cohésion sociale a fait suite au décret du 9 juillet 2007 portant fin de fonctions d'une ambassadrice en mission, chargée des questions sociales et de la parité dans les relations internationales, Mme Nicole Ameline, également déléguée du Gouvernement auprès de l'Organisation internationale du travail (OIT). Dans ses missions, M. de Robien ne dispose pas de services propres et s'appuie en tant que de besoin sur la Délégation des affaires internationales et européennes (DAEI) des ministères sociaux. En termes budgétaires, aucune charge financière en termes de rémunération ou d'ETP n'est supportée par le ministère des Affaires étrangères. Les dépenses de l'ambassadeur chargé de promouvoir la cohésion sociale au titre de ses frais de mission se sont élevées à un total de 52.957,17 € entre 2009 et 2012. Chargé par le précédent Président de la République de coordonner le volet social des travaux du G20, M. de Robien a joué un rôle important pendant la présidence française du G20. Délégué du Gouvernement auprès de l'OIT depuis plus de quatre ans, président en juin 2010 de la Conférence internationale du travail, M. de Robien a également montré son engagement en faveur d'un rôle accru pour l'OIT dans le pilier social de la mondialisation. M. de Robien a été désigné par consensus, le 15 juin dernier, président du Conseil d'administration du BIT, pour la période juin 2012-juin 2013, avec le soutien des gouvernements, du groupe des employeurs et de celui des travailleurs. Il a depuis lors notamment été chargé de la mission d'élaborer des propositions pour rénover le système de supervision des normes de l'OIT.
