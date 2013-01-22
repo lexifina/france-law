@@ -1,0 +1,9 @@
+# Réponse à la question n° 403
+
+- Question : [403](403.md) — Question n° 403 — auto-écoles; carburants; coût
+
+## Réponse
+
+*JO du 2013-01-22*
+
+La fiscalité des carburants, et plus largement des combustibles, est très largement encadrée par des dispositions communautaires qu'il s'agisse de la taxe sur la valeur ajoutée (TVA) ou des taxes intérieures de consommation sur les produits concernés. Les possibilités de réduction de la fiscalité qui peuvent être mises en oeuvre ne peuvent donc résulter que des dispositions prévues par ces directives. La TVA ayant grevé les achats de gazole est déductible en totalité pour les entreprises qui remplissent les conditions d'exercice du droit à déduction lorsque ce gazole est utilisé pour les besoins d'engins ouvrant eux-mêmes droit à déduction, ce qui est le cas des véhicules utilisés par les auto-écoles. Concernant les taxes intérieures de consommation, le Gouvernement a d'ores et déjà mis en oeuvre la totalité des mesures de réduction en faveur des secteurs socio-professionnels que la directive n° 2003/96/CE l'autorise à mettre en oeuvre. Par ailleurs, le Gouvernement tient à rappeler que les réductions de taxes intérieures de consommation, consenties principalement au profit des différents secteurs socio-professionnels les plus vulnérables, représentent actuellement un manque à gagner pour le budget de l'État de près de 6 milliards d'euros, ce qui représente un effort extrêmement important de la part de la collectivité en faveur des activités concernées. Le Gouvernement, dans un contexte budgétaire très contraint, n'envisage pas d'aller au-delà des dispositions existantes. En outre, la baisse de 6 centimes d'euros des prix des carburants à compter du 29 août 2012 jusqu'au 30 novembre 2012, constitue un nouvel effort de la part de l'État en faveur des automobilistes. Cet effort a été prolongé de manière dégressive jusqu'en janvier 2013.
