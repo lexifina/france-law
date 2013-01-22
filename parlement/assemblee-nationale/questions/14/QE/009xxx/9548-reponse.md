@@ -1,0 +1,9 @@
+# Réponse à la question n° 9548
+
+- Question : [9548](9548.md) — Question n° 9548 — propriété; droits de partage
+
+## Réponse
+
+*JO du 2013-01-22*
+
+L'article 835 du code civil dispose, s'agissant d'un partage amiable, que « si tous les indivisaires sont présents et capables, le partage peut intervenir dans la forme et selon les modalités choisies par les parties ». Ainsi, le partage se forme par le seul échange de consentement et il peut être fait verbalement. Il n'existe à ce principe qu'une seule exception : lorsque l'indivision porte sur des biens soumis à la publicité foncière, auquel cas, l'acte de partage est passé par acte notarié. Sur le plan fiscal, le 7° du 1 de l'article 635 du code général des impôts prévoit que doivent être enregistrés dans le délai d'un mois à compter de leur date, les actes constatant un partage de biens à quelque titre que ce soit. Par ailleurs, l'article 746 du même code stipule que les partages de biens meubles ou immeubles sont soumis à un droit d'enregistrement ou à une taxe de publicité foncière de 2,50 %, communément dénommés « droit de partage ». Il résulte de ces dispositions fiscales quatre conditions cumulatives à l'exigibilité du droit de partage : l'existence d'un acte, l'existence d'une indivision entre les copartageants, la justification de l'indivision et l'existence d'une véritable opération de partage, c'est-à-dire transformant le droit abstrait et général de chaque copartageant sur la masse commune en un droit de propriété exclusif sur les biens mis dans son lot. Par conséquent, en l'absence d'acte, un partage verbal n'est pas soumis au droit de partage. Par suite, le partage verbal entre époux du produit de la vente d'un immeuble commun qui intervient avant un divorce par consentement mutuel n'est pas soumis au droit de partage.
