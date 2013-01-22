@@ -1,0 +1,9 @@
+# Réponse à la question n° 10983
+
+- Question : [10983](10983.md) — Question n° 10983 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-01-22*
+
+L'observatoire national des emplois, des activités et des formations des sapeurs-pompiers professionnels et volontaires a été créé par arrêté du 4 janvier 2006. Cette instance regroupe des représentants des élus locaux, du ministère de l'Intérieur, du centre national de la fonction publique territoriale (CNFPT) et des personnels sapeurs-pompiers. Elle a pour objet d'assurer le suivi de l'évolution des emplois et des activités des sapeurs-pompiers. Ces missions étant déjà assurées par la commission nationale des services d'incendie et de secours (CNSIS) au sein de laquelle se réunissent les mêmes représentants, il n'y a donc plus lieu de convoquer cet observatoire, qui n'a pas été réuni depuis 2010 et auquel aucun budget ni personnel n'est d'ailleurs affecté. L'arrêté portant création de cet observatoire sera prochainement abrogé. Au-delà du cas particulier faisant l'objet de la présente question, il convient de souligner que le Gouvernement souhaite réformer les pratiques de consultation préalable à la prise de décision et mettre un terme à l'inflation du nombre de commissions consultatives. Le comité interministériel de la modernisation de l'action publique du 18 décembre 2012 a ainsi fixé les orientations d'une nouvelle politique de la consultation. Conformément à ces orientations, chaque ministère dressera une cartographie faisant apparaître sa stratégie de consultation et examinera les possibilités de fusion ou de réorganisation des instances consultatives permettant d'en réduire le nombre et de renouveler les pratiques en privilégiant les modes de concertation ouverts ou informels. La présente réponse ne préjuge pas des décisions qui seront prises dans ce cadre.
