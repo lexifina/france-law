@@ -1,0 +1,9 @@
+# Réponse à la question n° 8479
+
+- Question : [8479](8479.md) — Question n° 8479 — exercice de la profession
+
+## Réponse
+
+*JO du 2013-01-22*
+
+Le rôle et la charge de travail des directeurs d'école, notamment pour les écoles de taille importante, sont des sujets d'attention pour le ministère qui ouvrira un dialogue social avec les représentants de ces personnels au cours du premier trimestre 2013. Il s'agira d'apporter des réponses adaptées, notamment pour la formation initiale et continue des directeurs, les problèmes qu'ils peuvent rencontrer à l'occasion de leur prise de fonction ou pour accompagner les évolutions de leur métier et de leurs missions. L'objectif de cette concertation est de déboucher sur une définition clarifiée des missions des directeurs d'école dans le cadre de la refondation de l'école, leur rôle en matière de concertation des équipes pédagogiques, de liaison entre les cycles au profit d'un parcours scolaire plus fluide des élèves, déterminant pour leur réussite. Le ministre de l'éducation nationale et la ministre déléguée chargée de la réussite éducative ont constaté, lors de leur arrivée aux responsabilités, que le précédent Gouvernement n'avait pas assuré le financement d'un nombre important de contrats uniques d'insertion au second semestre 2012, mettant en difficulté les écoles et établissements scolaires qui disposent d'une assistance à la direction. Pour y remédier, le Gouvernement a mobilisé, dès cette rentrée, des moyens nouveaux. 12 000 contrats uniques d'insertion ont été créés pour faire face à la majorité des besoins de reconduction pour l'assistance administrative aux directeurs d'école et à la vie scolaire dans les collèges et lycées et pour compléter le dispositif dédié à l'accompagnement des élèves en situation de handicap. L'effort ainsi consenti devra s'accompagner d'une amélioration de la formation de ces personnels comme d'une résorption de leur précarité.
