@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002299
+
+- Question : [SEQ121002299](seq121002299.md) — Suivi des rapports annuels de la Cour des comptes
+
+## Réponse
+
+*Premier ministre, JO du 2013-01-24, page 262*
+
+Le Gouvernement est convaincu que les ministères doivent veiller à apporter des réponses rapides aux questions écrites des membres du Parlement, questions qui constituent une modalité importante de l'exercice par les assemblées du contrôle de l'activité gouvernementale. Il convient de relever à cet égard que le déploiement du logiciel « Réponses » et sa complète utilisation par les nouveaux membres de cabinets ministériels devrait conduire à accélérer les circuits de validation des projets de réponses. Le Premier ministre est convaincu que le respect des délais de réponse aux questions des parlementaires est un élément de la considération que le Gouvernement a des membres du Parlement et de l'importance de leur rôle dans notre démocratie. S'agissant du rapport annuel da la Cour des comptes, l'article L. 143-10-1 du code des juridictions financières, introduit par la loi de finances du 29 juillet 2011, est de nature à répondre aux préoccupations de l'auteur de la question. Cet article dispose que « le rapport public annuel mentionné à l'article L. 136-1 comporte une présentation des suites données aux observations définitives des juridictions financières, établie sur la base de comptes rendus que les destinataires de ces observations ont l'obligation de fournir à la Cour des comptes ». Conformément aux dispositions de cet article, le tome II du rapport public annuel 2012 de la Cour des comptes est consacré aux suites données, par les destinataires concernés, aux observations et aux recommandations que leur a adressées la Cour les années précédentes dans ses rapports publics et dans les communications aux ministres.
