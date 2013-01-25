@@ -56,9 +56,9 @@ Brevet professionnel option agroéquipement, conduite et maintenance des matéri
 
 Brevet professionnel option responsable d'exploitation aquacole maritime-continentale .
 
-Brevet de technicien supérieur agricole, délivré par le ministère chargé de l'éducation nationale.
+Brevet de technicien supérieur agricole.
 
-Brevet de technicien supérieur agroéquipement .
+Brevet de technicien supérieur agroéquipement délivré par le ministère chargé de l'éducation nationale.
 
 Diplôme universitaire de technologie génie biologique , option agronomie .
 
@@ -68,7 +68,7 @@ Diplôme national d'œnologue intégrant le module intitulé : fonctionnement, d
 
 Diplôme de docteur vétérinaire.
 
-Diplôme national d'œnologie délivré à compter de l'année 2009.
+Diplôme national d'œnologue délivré à compter de l'année 2009.
 
 Licence professionnelle agriculture et développement durable en milieu tropical et insulaire .
 
