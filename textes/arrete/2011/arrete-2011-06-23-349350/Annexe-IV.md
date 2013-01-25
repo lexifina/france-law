@@ -249,3 +249,5 @@ Remarques :
 4. Ce tableau n'a de valeur qu'en termes d'équivalence d'épreuves entre l'ancien diplôme et le nouveau pendant la phase transitoire où certains candidats peuvent garder le bénéfice des notes de certaines épreuves. En aucun cas il ne signifie une correspondance point par point entre les contenus d'épreuve.
 
 |
+
+L'ajout de la correspondance des épreuves facultatives sera mis en ligne sur le site http://www.enseignementsup-recherche.gouv.fr/
