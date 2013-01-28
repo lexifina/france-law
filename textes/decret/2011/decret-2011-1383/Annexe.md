@@ -2,4 +2,4 @@
 
 Cahier des charges de l'appellation d'origine contrôlée " Grands-Echezeaux ".
 
-Le cahier des charges de l'appellation d'origine contrôlée " Grands-Echezeaux " est publié au Bulletin officiel du ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire et peut être consulté à l'adresse suivante : http://agriculture.gouv.fr/bulletin-officiel.
+Le cahier des charges est publié, dans sa rédaction issue de cette modification, au Bulletin officiel du ministère de l'agriculture, de l'agroalimentaire et de la forêt et peut être consulté à l'adresse suivante : http://agriculture.gouv.fr.
