@@ -1,0 +1,9 @@
+# Réponse à la question n° 8821
+
+- Question : [8821](8821.md) — Question n° 8821 — allègement de charges; suppression
+
+## Réponse
+
+*JO du 2013-01-29*
+
+La suppression par la loi de finances rectificative du 16 août 2012 des exonérations sociales et de la déduction fiscale applicable aux heures supplémentaires et complémentaires mises en place par la loi travail, emploi et pouvoir d'achat de 2007 relève d'un engagement de campagne du Président de la République. Le dispositif de défiscalisation et d'exonération ainsi modifié avait un coût important pour les finances publiques (4,9 Mds€ en année pleine) et n'avait pas eu d'effet mesurable significatif sur le nombre total d'heures travaillées. Il avait en outre, selon des études convergentes dont celle du comité d'évaluation des dépenses fiscales et des niches sociales et le rapport des députés Jean-Pierre Gorges et Jean Mallot, engendré des gains inégaux pour le pouvoir d'achat, puisque l'avantage était croissant avec le niveau de rémunération et n'affectait que les seuls travailleurs salariés. Dans une logique d'activation et de rationalisation des niches fiscales et sociales, le Gouvernement a décidé de cibler les aides sur les entreprises de moins de vingt salariés qui ont le plus de difficultés pour faire face à un surcroît de commandes et qui sont confrontées à des problèmes d'accès au crédit et à la commande publique. Les très petites entreprises sont celles qui recourent le plus aux heures supplémentaires (elles représentent 44 % des heures réalisées) et celles où le nombre d'heures supplémentaires par salarié est le plus élevé. Pour ces structures, la loi a donc prévu de maintenir une déduction forfaitaire patronale de 1,50 € par heure supplémentaire. Cet effort aura un coût pour les finances publiques évalué à 500 M€ par an.
