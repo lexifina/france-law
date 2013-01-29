@@ -1,0 +1,9 @@
+# Réponse à la question n° 13622
+
+- Question : [13622](13622.md) — Question n° 13622 — délai de carence; fonction publique; réforme
+
+## Réponse
+
+*JO du 2013-01-29*
+
+L'article 105 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, entré en vigueur le 1er janvier 2012, prévoit le non versement aux agents publics de leur rémunération au titre du premier jour de congé de maladie, à l'exclusion des « cas de congé de longue maladie, de congé de longue durée ou si la maladie provient de l'une des causes exceptionnelles prévues à l'article L. 27 du code des pensions civiles et militaires de retraite ou d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de leurs fonctions ». Ainsi, le délai de carence ne s'applique ni dans le cas d'un congé longue maladie ou de longue durée, d'un congé de grave maladie, d'un congé de longue durée pour maladie, ni dans le cas d'un congé pour accident de service ou accident de travail ou maladie professionnelle. La circulaire MFPF1205478C du 24 février 2012 précise par ailleurs que : - le délai de carence ne s'applique pas à la prolongation d'un arrêt de travail qui succède directement à l'arrêt de travail initial, - lorsque l'arrêt de travail est en rapport avec une affection de longue durée au sens de l'article L. 324-1 du code de la sécurité sociale, le délai de carence ne s'applique qu'une seule fois, à l'occasion du premier congé de maladie. L'application du jour de carence a donc été encadrée de façon à éviter que les agents fréquemment absents en raison d'une maladie soient pénalisés. Néanmoins, la question du jour de carence sera abordée lors de la concertation relative aux carrières et aux parcours professionnels dans la fonction publique qui se déroule actuellement, conformément aux engagements pris par le Premier ministre lors de la grande conférence sociale qui s'est tenue les 9 et 10 juillet 2012.
