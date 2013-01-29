@@ -1,0 +1,9 @@
+# Réponse à la question n° 3319
+
+- Question : [3319](3319.md) — Question n° 3319 — Cour des comptes; rapport; propositions
+
+## Réponse
+
+*JO du 2013-01-29*
+
+Le Gouvernement a pris toute la mesure du constat opr par la Cour des comptes dans son dernier rapport La politique de la ville une dcennie de rformes Les constats quil dresse, concernant le maintien dcarts importants entre les quartiers populaires et leurs units urbaines environnantes et le manque de rsultats de politiques conduites depuis 10 ans pour y remdier, impliquent une rforme en profondeur de la politique de la ville. Le Premier ministre a demand au ministre dlgu charg de la politique de la ville dengager ds lautomne une concertation visant mettre en dbat lensemble des questions ayant trait la politique de la ville, quil sagisse de la gographie prioritaire, de la contractualisation ou des grands domaines dintervention thmatiques sagissant notamment de lemploi, lducation, la scurit et la sant. Annonce lors du conseil des ministres du 22 aot 2012, cette concertation sappuie sur la mobilisation de lensemble des acteurs de la politique de la ville, et notamment les collectivits territoriales, les parlementaires, les services de ltat, les acteurs associatifs, les professionnels de terrain et les reprsentants du monde conomique. Dans ce cadre, une rflexion est conduite sur le rle des services dconcentrs de ltat et leur organisation pour rendre plus efficace laction conduite en faveur de la politique de la ville. Par ailleurs, la mise en place de 340 dlgus des prfets a permis de renforcer la prsence de ltat et de la Rpublique au cur des quartiers les plus prioritaires de la politique de la ville. Les conclusions de la concertation seront tires par le Premier ministre lors dun comit interministriel des villes en fvrier 2013 et seront inscrites dans la loi pour entrer en application en 2014, en phase avec le renouvellement des conseils municipaux.
