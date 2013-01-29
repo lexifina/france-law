@@ -1,0 +1,9 @@
+# Réponse à la question n° 3323
+
+- Question : [3323](3323.md) — Question n° 3323 — Cour des comptes; rapport; propositions
+
+## Réponse
+
+*JO du 2013-01-29*
+
+Le Gouvernement a pris toute la mesure du constat opr par la Cour des comptes dans son dernier rapport La politique de la ville : une dcennie de rformes. Le Premier ministre a charg le ministre dlgu la ville dengager les rformes ncessaires ; les principes et le calendrier de celles-ci sont prciss dans la feuille de route prsente en conseil des ministres le 22 aot 2012. Pour tayer cette dmarche, une concertation nationale a t lance. Elle rassemble environ 150 membres, reprsentant lensemble des acteurs locaux et nationaux concerns : lus, reprsentants de ltat, professionnels, associations, bailleurs, entreprises, personnalits qualifies. Trois groupes de travail ont t constitus dont lun porte prcisment sur les modalits de gouvernance, de contractualisation et dvaluation de la politique de la ville. Les premiers axes dgags dans ce cadre mettent en avant le rle prpondrant du niveau intercommunal en matire de solidarit entre les diffrents territoires de lagglomration. Par ailleurs, une dclaration commune de ltat, des grandes villes et des agglomrations en date du 30 octobre prsente 13 engagements pour la vitalit conomique et la cohsion sociale de ces territoires. Lengagement n° 7 porte sur la politique de la ville. Il prcise notamment que les contrats de ville de nouvelle gnration regrouperont lchelle intercommunale les actions en faveur des habitants pour dfinir un vritable projet de territoire. Lensemble de ces rflexions aboutira des prconisations oprationnelles qui seront proposes dans le cadre dun rapport remis par les co prsidents de la concertation au ministre le 31 janvier prochain. Un comit interministriel des villes se tiendra en fvrier, qui, la lecture de ce rapport, proposera les pistes de rforme pour la politique de la ville. Un projet de loi sera dpos au Parlement dici lt.
