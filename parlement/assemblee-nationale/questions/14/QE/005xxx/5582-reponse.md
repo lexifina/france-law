@@ -1,0 +1,9 @@
+# Réponse à la question n° 5582
+
+- Question : [5582](5582.md) — Question n° 5582 — quartiers défavorisés; rapport; propositions
+
+## Réponse
+
+*JO du 2013-01-29*
+
+Suite la publication du rapport de la Cour des comptes La politique de la ville une dcennie de rformes, le conseil des ministres du 22 aot 2012 a annonc lengagement dune nouvelle tape de la politique de la ville. Cette dernire sappuiera sur les conclusions de la concertation nationale actuellement organise sous la responsabilit du ministre dlgu la ville. Sans prjuger lissue de cette concertation et des dcisions auxquelles elle aboutira, le renforcement de larticulation entre le volet social et le volet urbain de la politique de la ville apparat comme un enjeu majeur de la russite de cette politique. Face cet enjeu, lagence nationale pour la rnovation urbaine (ANRU) et lagence nationale pour la cohsion sociale et lgalit des chances (ACS) ont dores et dj accentu leur collaboration ces dernires annes. Ce rapprochement a donn lieu la signature dun accord-cadre entre les deux agences le 18 octobre 2010. Dans cette mme logique darticulation, il est prvu que les futurs contrats de la politique de la ville intgrent dans un cadre unique les actions de cohsion sociale et, pour les sites concerns, les projets de rnovation urbaine en cours ou venir. Dans le cadre de la concertation, le groupe de travail ddi aux questions de gouvernance ou dingnierie sattachera proposer les modalits oprationnelles de mise en uvre de ce contrat unique. Sur la base de ces propositions, le comit interministriel des villes (CIV) sera runi au premier trimestre 2013 pour rendre les arbitrages ncessaires. Ces arbitrages pourront, si cela savre ncessaire, inclure des dcisions concernant la gouvernance nationale, et notamment concernant lorganisation et les missions des administrations et des oprateurs de ltat intervenant dans le cadre de la politique de la ville.
