@@ -1,0 +1,9 @@
+# Réponse à la question n° 6783
+
+- Question : [6783](6783.md) — Question n° 6783 — modernisation; perspectives
+
+## Réponse
+
+*JO du 2013-01-29*
+
+Le Gouvernement actuel est déterminé à redonner sa juste place au fret ferroviaire, mode écologique et sûr dans le cadre d'une politique de report modal vers les transports les plus respectueux de l'environnement. Il ne s'agit pas de faire de grandes annonces comme le Gouvernement précédent l'a fait, mais de lever les blocages réels et en mettant en place des mesures destinées à renforcer la performance des opérateurs. Cela passe par des actions pratiques visant le développement de services de fret ou d'autoroutes ferroviaires mais aussi le suivi régulier de la disponibilité de l'infrastructure au bénéfice des usagers et des chargeurs. Cela passe par le désenclavement des ports français et le développement des plateformes portuaires de transport combiné. Plus particulièrement, la ligne ferroviaire Reims-FismesFère en Tardenois-La Ferté MilonParis est une ligne ancienne, modernisée dans les années 1970. Il y circule en moyenne 10 trains par jour dont 3 de fret. La maintenance de cette ligne est aujourd'hui importante (environ 3 M€ par an) avec notamment à la fin de l'aimée 2012 et en 2014 des opérations de gros entretiens. Ces opérations d'entretien permettront de garantir un état satisfaisant de la ligne ferroviaire, compte tenu du trafic qu'elle supporte, et d'assurer une desserte optimale des sites industriels qui l'utilisent. L'ancienneté de certains constituants (traverses et ballast notamment) nécessitera à terme un effort de renouvellement important. Jusqu'à ce que cette modernisation soit intégralement réalisée, la SNCF-Infrastructure peut être amenée en cas de fortes chaleurs à instaurer un ralentissement préventif des circulations à 40 km/h en vue d'y garantir la sécurité.
