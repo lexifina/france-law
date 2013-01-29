@@ -1,0 +1,9 @@
+# Réponse à la question n° 5348
+
+- Question : [5348](5348.md) — Question n° 5348 — commercialisation; réglementation
+
+## Réponse
+
+*JO du 2013-01-29*
+
+L'association « Générations Futures » avait demandé par recours grâcieux l'abrogation de l'autorisation de mise sur le marché (AMM) du produit phytopharmaceutique dénommé ROUNDUP EXPRESS (n° AMM 2010321), un herbicide à base de glyphosate destiné aux utilisateurs amateurs. La demande était notamment liée au fait que le produit contient de l'acide pélargonique qui, selon l'association, aurait du être considéré comme une substance active dans la mesure où cette molécule est inscrite sur la liste des substances actives phytopharmaceutiques autorisées dans l'Union européenne. Les services du ministère chargé de l'agriculture avaient considéré qu'il ne s'agissait pas d'une substance active dès lors que, compte tenu de la dose, cette substance était sans effet herbicide. Cette demande avait donc fait l'objet d'un refus implicite des services du ministère. Le Conseil d'État, par décision du 7 mars 2012, a annulé ce refus, sur le motif d'absence d'évaluation du caractère « actif » ou non de l'acide pélargonique. A la suite de cet arrêt, l'Agence nationale de sécurité sanitaire, de l'alimentation, de l'environnement et du travail, saisie par le ministère, a confirmé dans un avis du 26 juillet 2012, qu'en raison de la faible teneur en acide pélargonique dans la préparation ROUNDUP EXPRESS et de l'existence reconnue d'un effet désinfectant de cette substance, notifiée et adoptée également en tant que substance active biocide, l'acide pélargonique était présent dans le produit ROUNDUP EXPRESS uniquement en tant que co-formulant destiné à assurer la conservation et non en tant que substance active phytopharmaceutique. Le résultat de ces conclusions et l'absence de remise en cause de l'autorisation de mise sur le marché du ROUNDUP EXPRESS ont été communiqués à l'association « Générations Futures ».
