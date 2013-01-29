@@ -1,0 +1,9 @@
+# Réponse à la question n° 7771
+
+- Question : [7771](7771.md) — Question n° 7771 — femmes victimes de violences
+
+## Réponse
+
+*JO du 2013-01-29*
+
+A l'occasion de la journée mondiale contre les violences faites aux femmes, le 25 novembre 2012, le président de la République a demandé au Gouvernement de préparer et de mettre en oeuvre un plan global pour les femmes victimes de violences visant à la fois à mieux les informer et à mieux les accompagner. Le Comité interministériel aux droits des femmes, réuni le 30 novembre 2012, a pris à cet égard une série de mesures. Ainsi, en matière de prévention, dans les collèges et les lycées, des actions de sensibilisation à la lutte contre le harcèlement et les violences sexistes, d'éducation au respect et à l'égalité seront proposées et réalisées en lien avec les acteurs associatifs et les volontaires du service civique, dans le cadre des projets d'établissements. En matière d'accueil et d'accompagnement des femmes victimes de violences, un réseau sera établi avec l'ensemble des services sociaux et les associations d'aide aux victimes. Le déploiement des intervenants sociaux en unités de gendarmerie et en commissariats sera poursuivi et conforté. Un protocole d'accueil des femmes victimes de violences sera défini dans le cadre d'une convention avec l'Assemblée des Départements de France. Une mission interministérielle pour la lutte contre les violences faites aux femmes et la protection des victimes sera créée. Cette mission réunira et publiera les statistiques consolidées et les études sur les différentes formes de violences faites aux femmes, dont les violences sexuelles. Elle définira le cahier des charges d'un plan de formation transversal et interministériel sur les violences faites aux femmes afin d'assurer une meilleure formation des professionnels (gendarmes, policiers, magistrats, enseignants, médecins, travailleurs sociaux, acteurs des SIAO...).
