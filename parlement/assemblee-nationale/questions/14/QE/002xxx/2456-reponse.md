@@ -1,0 +1,9 @@
+# Réponse à la question n° 2456
+
+- Question : [2456](2456.md) — Question n° 2456 — corvidés; prolifération; lutte et prévention
+
+## Réponse
+
+*JO du 2013-01-29*
+
+Le corbeau freux et la corneille noire sont des gibiers qui peuvent être chassés pendant la saison de chasse. De plus, ils sont classés nuisibles dans le département de la Vendée par l'arrêté ministériel du 2 août 2012 pris pour l'application de l'article R.4276 du code de l'environnement et fixant la liste, les périodes et les modalités de destruction des espèces d'animaux classés nuisibles. Ils peuvent donc être détruits à tir entre la date de clôture générale et le 31 mars. Cette période peut être prolongée, en cas de besoin, jusqu'au 31 juillet sur autorisation individuelle délivrée par le préfet. Ils peuvent également être piégés toute l'année et en tout lieu. Enfin, en vertu de l'article L. 4266 du code de l'environnement, le préfet peut décider d'organiser des chasses ou des battues générales ou particulières chaque fois qu'il est nécessaire. Le maire peut également ordonner des battues portant sur les espèces classées nuisibles. Compte tenu de ces nombreuses possibilités d'actions à l'encontre des corvidés, pour prévenir les dégâts aux cultures, l'indemnisation de ces derniers n'est pas prévue. Cependant, le recours à une procédure contentieuse est possible, conformément à l'article L. 4267 du code de l'environnement. Réparation peut également être obtenue sur le fondement de l'article 1382 du code civil. Pour cela, il convient, d'une part, que le fait puisse être imputé au détenteur du droit de chasse ou au propriétaire du territoire d'où le gibier provient. D'autre part, la responsabilité du propriétaire du fonds d'où provient le gibier ou détenteur du droit de chasse n'est engagée que s'il a commis une faute ou une négligence favorisant la surabondance du gibier ou toute autre circonstance liée au défaut de précaution nécessaire.
