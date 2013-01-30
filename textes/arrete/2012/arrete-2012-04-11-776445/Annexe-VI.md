@@ -16,7 +16,7 @@ Il comprend trois épreuves :
 
 ― une épreuve de démonstration d'un virage, virage expert-moniteur (coefficient 1, notée sur 20) ;
 
-― une épreuve technique de démonstration à ski portant sur l'un des mouvements ou combinaisons de mouvements des classes débutants 2 et 3 (coefficient 1, notée sur 20) ;
+― une épreuve technique de démonstration à ski portant sur une succession de mouvements enchaînés ou non des classes débutants 2 et 3 (coefficient 1, notée sur 20) ;
 
 ― une épreuve pratique de présentation d'une évolution à ski des classes 2 et 3 (coefficient 1, notée sur 20).
 

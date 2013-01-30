@@ -18,9 +18,7 @@ Le dossier comprend les pièces suivantes :
 
 6. Trois enveloppes autocollantes de format 23× 16 cm, affranchies au tarif en vigueur et libellées au nom et à l'adresse du candidat et une enveloppe autocollante de format 21 × 29,7 cm affranchie au tarif en vigueur pour l'envoi d'un recommandé avec accusé de réception.
 
-II. ― Qualification des formateurs, du responsable
-
-pédagogique et de son adjoint
+II. ― Qualification des formateurs, du responsable pédagogique et de son adjoint
 
 Les formateurs du cycle préparatoire, le responsable pédagogique et son adjoint sont titulaires d'un des diplômes suivants :
 
@@ -36,11 +34,11 @@ III. ― Modalités de l'examen
 
 Les modalités de l'examen sont les suivantes :
 
-1° Une épreuve technique de démonstration portant sur l'un des mouvements ou combinaisons de mouvements des classes débutants 1 et 2 arrêtée par le président de jury sur proposition du responsable pédagogique du stage (coefficient 1, notée sur 20).
+1° Une épreuve technique de démonstration portant sur une succession de mouvements, enchaînés ou non, des classes débutants 1 et 2, arrêtée par le jury plénier sur proposition du responsable pédagogique du stage (coefficient 1, notée sur 20).
 
 L'épreuve technique de démonstration permet de juger de la maîtrise technique des gestes définis dans le mémento de l'enseignement du ski français.
 
-La liste des mouvements ou des combinaisons de mouvements est définie annuellement par la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+La liste des mouvements est définie annuellement par la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
 
 2° Une descente technique en ski alpin (coefficient 1, notée sur 20).
 

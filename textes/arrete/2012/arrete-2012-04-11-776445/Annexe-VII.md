@@ -74,6 +74,6 @@ Les modalités de constitution de ce dossier sont fixées par le directeur de l'
 
 Dans le cas où le stagiaire obtient une note inférieure à dix, il doit suivre à nouveau l'ensemble de la formation et il est soumis à l'ensemble de l'évaluation.
 
-Pour obtenir l'unité de formation, le candidat doit valider la première évaluation (A) et la seconde évaluation (B) et doit avoir obtenu un total minimum de 30 points aux évaluations mentionnées aux 2° et 3° de la seconde évaluation (B) dont 10 points minimum au 3°.
+Pour obtenir l'unité de formation, le candidat doit valider la première évaluation (A) et la seconde évaluation (B) et doit avoir obtenu un total minimum de 30 points aux évaluations mentionnées aux 2° et 3° de la seconde évaluation (B) dont 20 points minimum au 3°.
 
 Le test d'Eurosécurité est composé des épreuves de la première évaluation (A) et des évaluations mentionnées au 1°, au 2° et au 3.2 de la seconde évaluation (B).

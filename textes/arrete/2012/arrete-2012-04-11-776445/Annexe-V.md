@@ -2,23 +2,25 @@
 
 MODALITÉS D'ORGANISATION ET D'ÉVALUATION DU SLALOM GÉANT DE L'ÉPREUVE DE L'EUROTEST
 
-I. ― Composition du dossier d'inscription
+I. - Composition du dossier d'inscription
 
 Le dossier comprend les pièces suivantes :
 
-1. Une demande d'inscription établie sur un imprimé normalisé ;
+1. Une demande d'inscription établie sur un imprimé normalisé (*).
 
 2. Une photographie d'identité récente.
 
-3. Une photocopie recto verso de la carte nationale d'identité ou du passeport ;
+3. Une photocopie recto verso de la carte nationale d'identité ou du passeport.
 
-4. Trois enveloppes autocollantes de format 23 × 16 cm) affranchies au tarif en vigueur et libellées au nom et à l'adresse du candidat ;
+4. Trois enveloppes autocollantes de format 23 × 16 cm affranchies au tarif en vigueur et libellées au nom et à l'adresse du candidat (**).
 
-5. Un certificat médical de non-contre-indication à la pratique et à l'enseignement du ski alpin datant de moins d'un an à la date de clôture des inscriptions ;
+5. Un certificat médical de non-contre-indication à la pratique et à l'enseignement du ski datant de moins d'un an à la date de clôture des inscriptions.
 
-6. Une photocopie du livret de formation incluant le premier temps de formation ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du diplôme d'Etat de ski - moniteur national de ski alpin ou le diplôme du brevet d'Etat d'éducateur sportif du premier degré, option ski nordique de fond , ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du brevet d'Etat d'éducateur sportif du premier degré, option ski nordique de fond ;
+6. Une photocopie du livret de formation incluant le premier temps de formation ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du diplôme d'Etat de ski - moniteur national de ski alpin ou le diplôme du brevet d'Etat d'éducateur sportif du premier degré, option "ski nordique de fond" ou un diplôme ouvrant droit à des prérogatives d'exercice inférieures à celles du brevet d'Etat d'éducateur sportif du premier degré, option "ski nordique de fond".
 
-7. Une autorisation parentale pour les mineurs.
+7. Pour les personnes mineures, l'autorisation parentale ou celle du tuteur légal.
+
+Les convocations aux Eurotests de la première période (Eurotests se déroulant entre les mois de décembre et février) sont accompagnées d'une attestation de dépôt de dossier complet (**). Cette attestation est conservée par le candidat dans le cas où il échouerait aux Eurotests, en vue d'une éventuelle inscription aux Eurotests de la seconde période (Eurotests se déroulant entre les mois de mars et avril).
 
 II. ― Organisation et évaluation
 
