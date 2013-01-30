@@ -1,0 +1,84 @@
+# Education : enseignement supérieur et recherche
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29921
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/enseignement_superieur_recherche
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-614.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-03-20 : 1er dépôt d'une initiative. (PRJLANR5L14B0835)
+  - 2013-03-20 : Etude d'impact (ETDIANR5L14B0835)
+  - 2013-03-21 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-03-20 : Renvoi en commission au fond
+      - 2013-01-30 : Nomination de rapporteur
+      - 2013-03-26 : Réunion de commission
+      - 2013-05-14 : Réunion de commission
+      - 2013-05-14 : Réunion de commission
+      - 2013-05-15 : Réunion de commission
+      - 2013-05-15 : Réunion de commission
+      - 2013-05-22 : Réunion de commission
+      - 2013-05-16 : Dépôt de rapport (RAPPANR5L14B1042, PRJLANR5L14BTC1042)
+    - Travaux d'une commission saisie pour avis
+      - 2013-03-21 : Saisine pour avis d'une commission
+      - 2013-03-26 : Nomination de rapporteur
+      - 2013-03-26 : Réunion de commission
+      - 2013-04-23 : Réunion de commission
+      - 2013-04-24 : Dépôt de rapport (AVISANR5L14B0983)
+    - Travaux d'une commission saisie pour avis
+      - 2013-03-26 : Saisine pour avis d'une commission
+      - 2013-03-27 : Nomination de rapporteur
+      - 2013-04-17 : Réunion de commission
+      - 2013-04-17 : Dépôt de rapport (AVISANR5L14B0969)
+  - Discussion en séance publique
+    - 2013-05-22 : Discussion en séance publique
+    - 2013-05-22 : Discussion en séance publique
+    - 2013-05-23 : Discussion en séance publique
+    - 2013-05-23 : Discussion en séance publique
+    - 2013-05-23 : Discussion en séance publique
+    - 2013-05-24 : Discussion en séance publique
+    - 2013-05-24 : Discussion en séance publique
+    - 2013-05-28 : Discussion en séance publique
+    - 2013-05-28 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-05-28 : Dépôt d'une initiative en navette (PRJLSNR5S199B0614)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-28 : Renvoi en commission au fond
+      - 2013-04-10 : Nomination de rapporteur
+      - 2013-06-12 : Dépôt de rapport (RAPPSNR5S199B0659)
+    - Travaux d'une commission saisie pour avis
+      - 2013-05-15 : Saisine pour avis d'une commission
+      - 2013-05-15 : Nomination de rapporteur
+      - 2013-06-12 : Dépôt de rapport (AVISSNR5S199B0663)
+    - Travaux d'une délégation saisie pour avis
+      - 2013-06-05 : Saisine d'une délégation ou d'un office
+      - 2013-06-05 : Nomination de rapporteur
+      - 2013-06-11 : Dépôt de rapport (RINFSNR5S199B0655)
+  - Discussion en séance publique
+    - 2013-06-19 : Discussion en séance publique
+    - 2013-06-20 : Discussion en séance publique
+    - 2013-06-21 : Discussion en séance publique
+    - 2013-06-21 : Décision
+- Commission Mixte Paritaire
+  - 2013-06-24 : Dépôt d'un projet de loi (PRJLANR5L14B1170)
+  - 2013-06-24 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-06-26 : Nomination de rapporteur
+    - 2013-06-26 : Dépôt du rapport d'une CMP (RAPPANR5L14B1208)
+    - 2013-06-26 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0694)
+  - Discussion en séance publique
+    - 2013-07-03 : Discussion en séance publique
+    - 2013-07-03 : Décision
+  - Discussion en séance publique
+    - 2013-07-09 : Discussion en séance publique
+    - 2013-07-09 : Décision
+  - 2013-06-27 : Décision de la CMP
+- Promulgation de la loi
+  - 2013-07-22 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2016-09-28 : Rapport sur l'application des lois (RINFANR5L14B4062)
