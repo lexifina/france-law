@@ -1,0 +1,93 @@
+# Travail : sécurisation de l'emploi
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29877
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/securisation_emploi
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-489.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-03-06 : 1er dépôt d'une initiative. (PRJLANR5L14B0774)
+  - 2013-03-06 : Etude d'impact (ETDIANR5L14B0774)
+  - 2013-03-06 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-03-06 : Renvoi en commission au fond
+      - 2013-01-30 : Nomination de rapporteur
+      - 2013-03-13 : Réunion de commission
+      - 2013-03-13 : Réunion de commission
+      - 2013-03-19 : Réunion de commission
+      - 2013-03-21 : Réunion de commission
+      - 2013-03-26 : Réunion de commission
+      - 2013-03-26 : Réunion de commission
+      - 2013-03-27 : Réunion de commission
+      - 2013-04-03 : Réunion de commission
+      - 2013-03-27 : Dépôt de rapport (RAPPANR5L14B0847, PRJLANR5L14BTC0847)
+    - Travaux d'une commission saisie pour avis
+      - 2013-03-13 : Saisine pour avis d'une commission
+      - 2013-03-13 : Nomination de rapporteur
+      - 2013-03-13 : Réunion de commission
+      - 2013-03-26 : Réunion de commission
+      - 2013-03-26 : Dépôt de rapport (AVISANR5L14B0839)
+  - Discussion en séance publique
+    - 2013-04-02 : Discussion en séance publique
+    - 2013-04-02 : Discussion en séance publique
+    - 2013-04-03 : Discussion en séance publique
+    - 2013-04-03 : Discussion en séance publique
+    - 2013-04-04 : Discussion en séance publique
+    - 2013-04-04 : Discussion en séance publique
+    - 2013-04-04 : Discussion en séance publique
+    - 2013-04-05 : Discussion en séance publique
+    - 2013-04-05 : Discussion en séance publique
+    - 2013-04-05 : Discussion en séance publique
+    - 2013-04-06 : Discussion en séance publique
+    - 2013-04-06 : Discussion en séance publique
+    - 2013-04-06 : Discussion en séance publique
+    - 2013-04-08 : Discussion en séance publique
+    - 2013-04-08 : Discussion en séance publique
+    - 2013-04-08 : Discussion en séance publique
+    - 2013-04-09 : Discussion en séance publique
+    - 2013-04-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-04-10 : Dépôt d'une initiative en navette (PRJLSNR5S199B0489)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-04-10 : Renvoi en commission au fond
+      - 2013-03-13 : Nomination de rapporteur
+      - 2013-04-11 : Dépôt de rapport (RAPPSNR5S199B0501)
+    - Travaux d'une commission saisie pour avis
+      - 2013-03-27 : Saisine pour avis d'une commission
+      - 2013-03-27 : Nomination de rapporteur
+      - 2013-04-10 : Dépôt de rapport (AVISSNR5S199B0494)
+    - Travaux d'une délégation saisie pour avis
+      - 2013-03-19 : Saisine d'une délégation ou d'un office
+      - 2013-03-19 : Nomination de rapporteur
+      - 2013-04-10 : Dépôt de rapport (RINFSNR5S199B0490)
+  - Discussion en séance publique
+    - 2013-04-17 : Discussion en séance publique
+    - 2013-04-18 : Discussion en séance publique
+    - 2013-04-19 : Discussion en séance publique
+    - 2013-04-20 : Discussion en séance publique
+    - 2013-04-20 : Décision
+- Commission Mixte Paritaire
+  - 2013-04-22 : Dépôt d'un projet de loi (PRJLANR5L14B0979)
+  - 2013-04-22 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-04-23 : Nomination de rapporteur
+    - 2013-04-23 : Dépôt du rapport d'une CMP (RAPPANR5L14B0980)
+    - 2013-04-23 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0530)
+  - Discussion en séance publique
+    - 2013-04-24 : Discussion en séance publique
+    - 2013-04-24 : Décision
+  - Discussion en séance publique
+    - 2013-05-14 : Discussion en séance publique
+    - 2013-05-14 : Décision
+  - 2013-04-23 : Décision de la CMP
+- Conseil constitutionnel
+  - 2013-05-15 : Saisine du conseil constitutionnel
+  - 2013-05-16 : Saisine du conseil constitutionnel
+  - 2013-06-13 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-06-14 : Promulgation d'une loi
