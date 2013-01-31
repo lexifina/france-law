@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121103111
+
+- Question : [SEQ121103111](seq121103111.md) — Projet de hausse de la TVA dans le bâtiment et la restauration
+
+## Réponse
+
+*Économie et finances, JO du 2013-01-31, page 342*
+
+L'article 279-0 bis du code général des impôts (CGI) soumet au taux réduit de TVA de 7 % les travaux d'amélioration, de transformation, d'aménagement et d'entretien portant sur des locaux d'habitation achevés depuis plus de deux ans. Le Gouvernement est attaché à ce dispositif qui s'est montré efficace pour soutenir l'activité économique, redynamiser l'emploi et lutter contre le travail illégal. À compter du 1er janvier 2014, la structure des taux de taxe sur la valeur ajoutée (TVA) sera réaménagée, le taux normal de TVA sera porté de 19,6 % à 20 %, le taux intermédiaire de 7 % à 10 % et le taux réduit de 5,5 % à 5 %. Cette réforme contribue au financement du crédit d'impôt pour la compétitivité et l'emploi (CICE), pierre angulaire de la politique du Gouvernement en matière de restauration de la compétitivité et de la lutte contre le chômage, la restructuration des taux de TVA est juste car elle préserve le pouvoir d'achat des plus modestes. Le relèvement de trois points du taux intermédiaire de TVA, notamment aux secteurs de la restauration et de la rénovation des logements, s'inscrit dans le cadre de la réforme équilibrée proposée par le Gouvernement. La mise en place du CICE répond aux préoccupations exprimées quant à la sauvegarde des emplois en étant assis sur la masse salariale comprise entre 1 et 2,5 du SMIC. Ainsi, le secteur du bâtiment et des travaux publics, très intensif en main d'œuvre, va largement en bénéficier, ce qui lui permettra d'absorber les effets d'une hausse de trois points du taux intermédiaire de TVA. Ce secteur, qui représente 6 % de la valeur ajoutée, bénéficiera en effet de 10 % du CICE, soit une dépense fiscale de 2 Mds€.
