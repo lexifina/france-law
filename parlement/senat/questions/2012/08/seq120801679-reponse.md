@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120801679
+
+- Question : [SEQ120801679](seq120801679.md) — Situation des industries électro-intensives au regard de la contribution au service public de l'électricité
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2013-01-31, page 340*
+
+La contribution au service public de l'électricité (CSPE) est une contribution acquittée par l'ensemble des consommateurs finals permettant de financer les charges de service public de l'électricité comprenant la péréquation tarifaire, le soutien au développement des énergies renouvelables ainsi que le financement du tarif de première nécessité. Il existe actuellement trois types de plafonds ou exonérations pour les consommateurs industriels : - l'article L. 121-12 du code de l'énergie plafonne à 550 000 € le montant de la contribution due par site de consommation pour les consommateurs finals. Ce plafond est actualisé chaque année à hauteur du taux prévisionnel de croissance de l'indice des prix à la consommation (hors tabac). Pour l'année 2012, ce plafond se situe à 559 350 € ; - par ailleurs, pour les sociétés industrielles consommant plus de 7 GWh, le montant de la contribution est plafonné à 0,5 % de la valeur ajoutée de l'entreprise ; - enfin, peuvent également bénéficier d'une exonération de CSPE, les producteurs qui produisent de l'électricité pour leur propre usage (dans la limite 240 GWh par an et par site de production). Ces plafonnements ont été institués afin de préserver la compétitivité des industries électrointensives implantées sur le territoire français. Le Gouvernement est attaché à ce principe, et n'envisage pas de le remettre en cause. Une réflexion plus globale sur l'évolution de la CSPE sera organisée dans le cadre du grand débat national sur la transition énergétique qui s'est engagé le 29 novembre dernier et se poursuivra en 2013, pour aboutir à une loi de programmation en septembre 2013.
