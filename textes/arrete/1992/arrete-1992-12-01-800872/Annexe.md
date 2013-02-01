@@ -98,17 +98,11 @@ Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'
 
 |
 
-A
+A |
 
-|
+45 |
 
-46
-
-|
-
-30
-
-|
+30 |
 
 Chef de projet
 
@@ -230,7 +224,7 @@ B
 
 |
 
-3
+2
 
 |
 
@@ -406,7 +400,7 @@ B
 
 |
 
-39
+40
 
 |
 
@@ -662,7 +656,7 @@ B
 
 |
 
-6
+7
 
 |
 
@@ -710,7 +704,7 @@ B
 
 |
 
-71
+72
 
 |
 
