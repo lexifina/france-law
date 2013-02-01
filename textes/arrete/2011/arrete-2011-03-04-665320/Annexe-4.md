@@ -18,9 +18,7 @@ de l'installation (kW)
 
 NOMBRE DE DEMANDES
 
-complètes
-
-de raccordement reçues
+complètes de raccordement reçues
 
 |
 
@@ -32,7 +30,7 @@ de raccordement reçues (kW)
 
 |
 
-Installations situées sur des bâtiments à usage principal d'habitation et souhaitant bénéficier de l'intégration au bâti
+Installations souhaitant bénéficier de l'intégration au bâti
 
 |
 
@@ -44,59 +42,7 @@ Inférieure ou égale à 3 kW
 
 |
 
-|
-
-Supérieure à 3 kW et inférieure
-
-ou égale à 9 kW
-
-|
-
-|
-
-|
-
-|
-
-Supérieure à 9 kW et inférieure
-
-ou égale à 36 kW
-
-|
-
-|
-
-|
-
-Installations situées sur des bâtiments à usage principal autre que l'habitation et souhaitant bénéficier de l'intégration au bâti
-
-|
-
-Inférieure ou égale à 3 kW
-
-|
-
-|
-
-|
-
-|
-
-Supérieure à 3 kW et inférieure
-
-ou égale à 9 kW
-
-|
-
-|
-
-|
-
-|
-
-Supérieure à 9 kW et inférieure
-
-ou égale à 36 kW
+Supérieure à 3 kW et inférieure ou égale à 9 kW
 
 |
 
@@ -116,11 +62,7 @@ Inférieure ou égale à 36 kW
 
 |
 
-|
-
-Supérieure à 36 kW et inférieure
-
-ou égale à 100 kW
+Supérieure à 36 kW et inférieure ou égale à 100 kW
 
 |
 
