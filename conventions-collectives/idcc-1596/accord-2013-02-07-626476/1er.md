@@ -1,0 +1,103 @@
+# Article 1er
+
+Les montants des indemnités de petits déplacements, applicables dans la région Midi-Pyrénées aux ouvriers des entreprises artisanales du bâtiment occupant jusqu'à 10 salariés sont modifiés comme suit :
+
+Au 1er février 2013
+
+L'indemnité de repas est portée à 9,75 €.
+
+Les indemnités de transport et de trajet comme dans le tableau ci-après :
+
+(En euros.)
+
+Zone |
+
+Indemnité de transport |
+
+Indemnité de trajet |
+
+1A |
+
+1,27 |
+
+1,00 |
+
+1B |
+
+2,77 |
+
+1,83 |
+
+2 |
+
+5,58 |
+
+3,90 |
+
+3 |
+
+8,34 |
+
+4,96 |
+
+4 |
+
+11,05 |
+
+6,58 |
+
+5 |
+
+14,02 |
+
+8,35 |
+
+Au 1er septembre 2013
+
+L'indemnité de repas est portée à 9,85 €.
+
+Les indemnités de transport et de trajet comme dans le tableau ci-après :
+
+(En euros.)
+
+Zone |
+
+Indemnité de transport |
+
+Indemnité de trajet |
+
+1A |
+
+1,28 |
+
+1,01 |
+
+1B |
+
+2,80 |
+
+1,85 |
+
+2 |
+
+5,63 |
+
+3,93 |
+
+3 |
+
+8,42 |
+
+5,01 |
+
+4 |
+
+11,16 |
+
+6,65 |
+
+5 |
+
+14,16 |
+
+8,44 |
