@@ -36,13 +36,13 @@ VILLE/NOM SITE (2011)
 
 3. Besançon, site de Besançon n° 1
 
-4. Besançon, site de Besançon n° 2
+4. Supprimé ;
 
 5. Chalon-sur-Saône, site de Chalon-sur-Saône
 
 6. Dijon, site de Dijon Bocage
 
-7. Dijon, site de Dijon n° 2
+7. Supprimé ;
 
 8. Mâcon, site de Mâcon
 
@@ -201,18 +201,6 @@ Centre hospitalier de Pontarlier
 |
 
 Pontarlier
-
-|
-
-25
-
-|
-
-Centre hospitalier universitaire de Besançon
-
-|
-
-Besançon
 
 |
 
