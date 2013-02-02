@@ -694,17 +694,23 @@ Prises de force
 
 86/297/CEE modifiée par 2010/62/UE
 
+modifiée par 2012/24/UE
+
 |
 
 (7)
 
 29 septembre 2013
 
+(9)
+
 |
 
 (7)
 
 29 septembre 2016
+
+(9)
 
 |
 
