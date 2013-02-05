@@ -1,0 +1,21 @@
+# Réponse à la question n° 1091
+
+- Question : [1091](1091.md) — Question n° 1091 — autorisation d'emplois; statistiques
+
+## Réponse
+
+*JO du 2013-02-05*
+
+Les chiffres présentés ci-dessous concernent tous les emplois de l'administration centrale et des services déconcentrés de la mission « travail et emploi ». Pour l'exercice 2012, ils sont portés par le programme 155 « conception, gestion et évaluation des politiques de l'emploi et du travail » hors ceux de la délégation générale à l'emploi et à la formation professionnelle (DGEFP) qui sont portés par le programme 134 « développement des entreprises et de l'emploi » de la mission « économie » depuis 2008 suite à son rattachement au ministère chargé de l'économie. Si la réintégration de la DGEFP dans le périmètre du ministre du travail et de l'emploi a été réalisée fonctionnellement dès novembre 2010, ce n'est qu'à partir de l'exercice 2013 qu'elle sera achevée budgétairement dans le cadre d'un transfert des emplois, inscrit au prochain projet de loi de finances. 2012 2013
+
+Emplois du ministère hors DGEFP portés par le programme 155 9 899 9 810
+
+Emplois DGEFP portés par le programme 134 263
+
+Emplois DGEFP portés par le programme 155 262
+
+plafonds d'emploi en équivalent temps plein travaillé (ETPT) 10 162 10 072
+
+plafonds d'emploi portés par le programme 155 (en ETPT) 9 899 10 072
+
+Les autorisations d'emplois pour 2013 du ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social dans son domaine de compétences, portées par le seul programme 155, sont fixées à 10 072 ETPT, soit une baisse de 90 ETPT des emplois cumulés (10 162 ETPT) portés par les deux programmes 155 et 134 en LFI 2012 (respectivement 9899 ETPT et 263 ETPT). Cette baisse résulte de plusieurs facteurs : a) Un effort de maîtrise des effectifs de l'Etat permettant les créations d'emplois prévues dans les secteurs prioritaires, se traduisant par une réduction de 139 ETPT (- 138 ETPT sur le P155 et - 1 ETPT pour les effectifs DGEFP portés sur le programme 134) : b) Des transferts d'emplois entrants (+ 52 ETPT) et sortants (- 3 ETPT) modifiant le plafond ministériel : - Un transfert d'emplois du programme 218 de la mission « Economie » vers le programme 155, à hauteur de 4 ETPT, au titre de la réintégration au sein du programme 155 des emplois relatifs aux fonctions support (fonctions budgétaires et comptables et gestion des ressources humaines) dédiées à la DGEFP. - Un transfert d'emplois de l'Agence de services et de paiement (ASP), opérateur porté par le programme 154 de la mission « agriculture, pêche, alimentation, forêt et affaires rurales », vers le programme 155, à hauteur de 34 ETPT. Ce transfert vise à régulariser la prise en charge par le programme 155, depuis le 1er janvier 2012, de la rémunération de 35 agents contractuels de l'ASP en poste dans les services du ministère chargé du travail et titularisés dans un corps de fonctionnaires du ministère chargé de l'agriculture. - Un transfert d'emplois du programme 156 de la mission « Gestion des finances publiques et des ressources humaines » vers le programme 155, à hauteur de 14 ETPT, au titre du surdimensionnement des moyens demandés à la mission « travail et emploi » en loi de finance (LFI° 2011 pour la constitution des centres de services partagés (CSP) et des services facturiers (SFACT) CHORUS par rapport à leur activité réelle. Au total, ce sont 30 emplois sur les 118 transférés en 2011 qui seront réimputés sur le programme 155. Ce premier transfert a pour objet de régulariser en partie cette situation en réintégrant 14 emplois dès 2013. Un second transfert interviendra en LFI 2014 à hauteur des emplois restants. - Un transfert d'emplois du programme 155 vers le programme 124 de la mission « solidarité, insertion et égalité des chances », à hauteur de 2 ETPT, au titre de la contribution du ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social à la mutualisation des standards téléphoniques des ministères chargés des affaires sociales. - Un transfert d'emploi du programme 155 vers le programme 129 de la mission « direction de l'action du Gouvernement », à hauteur d'1 ETPT, au titre de la contribution du ministère à la montée en puissance de l'agence nationale de la sécurité des systèmes d'information (ANSSI).
