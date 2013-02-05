@@ -1,0 +1,9 @@
+# Réponse à la question n° 14635
+
+- Question : [14635](14635.md) — Question n° 14635 — sensibilisation; prévention
+
+## Réponse
+
+*JO du 2013-02-05*
+
+L'hémochromatose est une maladie génétique entraînant une surcharge en fer pouvant provoquer des atteintes viscérales. La seule prévention possible pour cette affection est la prévention des complications par un dépistage précoce puisque cette maladie est traitée facilement pour autant que son diagnostic soit précoce. Elle apparaît, avec une prévalence de 0,2 à 0,9%, comme l'une des maladies héréditaires les plus fréquentes dans les populations d'origine européenne. L'hémochromatose demeure longtemps asymptomatique, mais est une affection potentiellement sévère, avec une expression clinique variable. Le traitement consiste en des saignées régulières permettant l'évacuation de la surcharge en fer, restaurant une espérance de vie normale lorsqu'il est mis en oeuvre avant le stade des complications viscérales. Quand un diagnostic est posé chez un patient, une enquête familiale est recommandée. Actuellement en France, moins de 50 % des frères et soeurs de l'ensemble des patients bénéficient d'un test génétique alors que leur risque est plus important que celui des enfants du patient. La haute autorité de santé (HAS) a publié en 2005 des recommandations de bonne pratique « prise en charge de l'hémochromatose liée au gène HFE (hémochromatose de type 1) », qui prévoyaient, pour le suivi de la maladie, et lorsqu'un dépistage était envisagé, de réaliser un dosage de la capacité totale de saturation en fer de la transferrine (CTST). Les données de la caisse nationale d'assurance maladie montrent une très importante augmentation, entre 2005 et 2007, du nombre de dosages de cette CTST, témoignant de la prise en compte des recommandations de la HAS par les médecins. La mise en place de l'extension du dépistage nécessite une réflexion avec notamment le centre de référence des hémochromatoses.
