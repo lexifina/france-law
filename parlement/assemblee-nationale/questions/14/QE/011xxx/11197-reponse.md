@@ -1,0 +1,9 @@
+# Réponse à la question n° 11197
+
+- Question : [11197](11197.md) — Question n° 11197 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-02-05*
+
+La commission nationale culture handicap, co-présidée par les ministres chargés de la culture et du handicap, constitue une instance de dialogue et de consultation avec les principales associations de handicapés. Instance particulièrement pertinente pour faire avancer la mise en oeuvre de la loi n° 2005-102 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, elle a pour mission de proposer des mesures, dans tous les domaines concernés, notamment l'accès aux équipements, à la pratique artistique, à la formation et aux métiers de la culture. Aucun fonctionnaire n'est mis à disposition pour le fonctionnement de cette instance, dont les frais engagés concernent principalement la sténotypie et s'élèvent à 2000 € par an. La dernière séance a eu lieu en 2012 et une nouvelle séance est prévue au printemps 2013. Au-delà du cas particulier faisant l'objet de la présente question, il convient de souligner que le Gouvernement souhaite réformer les pratiques de consultation préalable à la prise de décision et mettre un terme à l'inflation du nombre de commissions consultatives. Le comité interministériel de la modernisation de l'action publique du 18 décembre 2012 a ainsi fixé les orientations d'une nouvelle politique de la consultation. Conformément à ces orientations, chaque ministère dressera une cartographie faisant apparaître sa stratégie de consultation et examinera les possibilités de fusion ou de réorganisation des instances consultatives permettant d'en réduire le nombre et de renouveler les pratiques en privilégiant les modes de concertation ouverts ou informels. La présente réponse ne préjuge pas des décisions qui seront prises dans ce cadre.
