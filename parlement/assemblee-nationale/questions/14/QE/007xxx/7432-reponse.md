@@ -1,0 +1,9 @@
+# Réponse à la question n° 7432
+
+- Question : [7432](7432.md) — Question n° 7432 — tracé à grande vitesse; réalisation
+
+## Réponse
+
+*JO du 2013-02-05*
+
+Le projet de schéma en question prévoit un montant de plus de 245 milliards d'euros d'opérations et projets divers - dont 88 milliards à la charge de l'État - à réaliser sur 25 ans. L'ampleur de ces investissements n'apparaît pas soutenable financièrement pour l'État, ses établissements publics et les collectivités territoriales et il convient de définir des priorités au vu de la situation actuelle et des perspectives de nos finances publiques, mais également de la priorité que le Gouvernement entend donner aux transports du quotidien, à la réduction de la fracture territoriale, à la rénovation des réseaux existants et au soutien à la compétitivité économique du pays. Il s'agit d'un constat global qui ne vise à ce stade aucun projet en particulier. Dans cet objectif, a été installée par le ministre délégué aux transports, à la mer et à la pèche, le 17 octobre dernier, une commission dite « Mobilité 21 », composée de parlementaires et d'experts reconnus, chargée d'établir un diagnostic global sur la pertinence et la faisabilité du projet de SNIT. Cette commission a pour tâche de dégager des recommandations portant sur les principes d'un schéma national de mobilité durable reposant à la fois sur les infrastructures et les services nationaux de transport. Dans ce cadre, elle doit hiérarchiser et mettre en perspective les projets d'infrastructures qui figurent au projet de SNIT. Les conclusions de la mission sont attendues au printemps 2013. Les recommandations qu'elle pourra faire seront présentées aux Commissions compétentes du Parlement et ce n'est qu'aux termes de cette démarche que des décisions pourront être prises sur les modalités et les calendriers de réalisation des LGV, notamment du projet ParisOrléansClermontFerrandLyon (POCL).
