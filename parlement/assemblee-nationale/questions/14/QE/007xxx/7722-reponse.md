@@ -1,0 +1,9 @@
+# Réponse à la question n° 7722
+
+- Question : [7722](7722.md) — Question n° 7722 — sciences économiques et sociales
+
+## Réponse
+
+*JO du 2013-02-05*
+
+Les nouveaux programmes des classes de première et terminale de la série sciences économiques et sociales ont été publiés respectivement aux bulletins officiels du 30 septembre 2010 et du 13 octobre 2011. Mis en application lors des rentrées 2011 et 2012, ces programmes soulèvent de la part de certains enseignants des questions qui méritent le temps de la réflexion et de l'analyse. C'est pourquoi un groupe d'experts a été constitué afin d'étudier l'opportunité de procéder à certains allègements pour la rentrée 2013. Ce groupe de travail, dont la composition relève de la responsabilité de la direction générale de l'enseignement scolaire (DGESCO), en lien avec l'Inspection générale de l'éducation nationale (IGEN), devra formuler des propositions dans un délai qui permette et la consultation de l'ensemble des acteurs et l'indispensable formation de tous les enseignants. Dès la rentrée de septembre 2013, les professeurs pourront ainsi former leurs élèves et les préparer sereinement aux épreuves du baccalauréat en ayant eu la possibilité de construire leur progression sur une base stabilisée. S'agissant de la refonte générale du programme de SES, le ministère de l'éducation nationale souhaite que le futur conseil supérieur des programmes qui, de par la prochaine loi de refondation de l'école, aura pour mission de faire toutes les propositions en ce domaine, soit saisi dès son installation. Cette instance consultative offrira toutes les garanties d'impartialité, de rigueur scientifique et pédagogique et de transparence nécessaires à l'élaboration de ce nouveau programme. C'est dans ce cadre que l'ensemble des propositions sera alors étudié avec la vigilance nécessaire. Ainsi, il n'est prévu ni de réécriture intégrale du programme ni de modifications des épreuves du baccalauréat dans l'immédiat.
