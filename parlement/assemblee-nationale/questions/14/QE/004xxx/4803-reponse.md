@@ -1,0 +1,9 @@
+# Réponse à la question n° 4803
+
+- Question : [4803](4803.md) — Question n° 4803 — effectif de personnel
+
+## Réponse
+
+*JO du 2013-02-05*
+
+La réglementation actuellement en vigueur ne norme pas le nombre minimal d'infirmier de bloc opératoire (IBODE) par bloc opératoire. La réglementation relative aux secteurs opératoires ne s'applique qu'aux activités d'anesthésie et de chirurgie ambulatoire (arrêté du 7 janvier 1993). Les conditions de fonctionnement récemment précisées pour les structures pratiquant l'anesthésie et la chirurgie ambulatoires n'exigent que la présence minimale d'un infirmier diplômé d'État par « structure ou unité de soin », et non par secteur opératoire. Cependant, le processus de certification par la haute autorité de santé (HAS) inclut une pratique exigible prioritaire obligatoire relative à la mise en oeuvre systématique d'une check-list relative à la sécurité chirurgicale, à laquelle participe l'IBODE. La qualité et la sécurité des soins sont également assurés par divers dispositifs : la mise en place croissante d'indicateurs de qualité, une accréditation des professionnels pour les spécialités médicales à risque, l'obligation pour les établissements de mettre en place une politique de gestion des risques et d'amélioration continue de la qualité (loi du 21 juillet 2009). Les réflexions et travaux qui ont pu être initiés ces derniers mois privilégient la notion de nombre minimal en personnel par équipe d'un établissement autorisé et non par secteur opératoire. En effet les besoins effectifs du bloc varient selon l'état du patient opéré, la nature et les caractéristiques techniques des soins dispensés. Il est par ailleurs privilégié la définition d'objectifs en termes de résultats (y compris qualité et sécurité) plutôt qu'en termes de moyens affectés, ceci de façon à laisser une souplesse d'organisation minimale aux équipes.
