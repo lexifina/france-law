@@ -30,7 +30,7 @@ Alsace
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -46,7 +46,7 @@ Aquitaine
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -62,7 +62,7 @@ Auvergne
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -78,7 +78,7 @@ Bourgogne
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -94,7 +94,7 @@ Centre
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -110,7 +110,7 @@ Champagne-Ardenne
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -126,7 +126,7 @@ Charente
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -142,7 +142,7 @@ Franche-Comté
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -158,7 +158,7 @@ Gers
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -174,7 +174,7 @@ Ile-de-France
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -190,7 +190,7 @@ Languedoc-Roussillon
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -206,7 +206,7 @@ Limousin
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -222,7 +222,7 @@ Midi-Pyrénées
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -238,7 +238,7 @@ Pays de la Loire
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -254,7 +254,7 @@ Picardie
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -270,7 +270,7 @@ Poitou
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -286,7 +286,7 @@ Provence-Alpes-Côte d'Azur
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
 
@@ -302,6 +302,6 @@ Rhône-Alpes
 
 |
 
-3 €/hlap
+50 €/hlap
 
 |
