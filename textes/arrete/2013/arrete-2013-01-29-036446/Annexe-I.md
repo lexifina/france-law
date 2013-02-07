@@ -1,24 +1,22 @@
-# Article LEGIARTI000019957660
-
-A N N E X E I
+# Article Annexe I
 
 PROGRAMME DE L'ÉPREUVE À OPTION
 
-(ÉCRIT ET ORAL)
+Premier concours (I) article 4, 1° (écrit et oral)
 
-PREMIÈRE OPTION : DROIT PRIVÉ
+Première option : droit privé
 
 1. Droit civil
 
 1.1. Les personnes.
 
-Personnes physiques : nom, domicile.
+Personnes physiques : nom, domicile, autres prérogatives extrapatrimoniales.
 
 Personnes morales : nature juridique, classification, régime juridique.
 
 1.2. Les biens.
 
-Le patrimoine : notion, contenu, meubles et immeubles.
+Le patrimoine : notion, contenu, meubles et immeubles, patrimoine d'affectation.
 
 La propriété : notion, attributs, caractères, évolution contemporaine.
 
@@ -28,7 +26,7 @@ a) Les contrats.
 
 Formation des contrats, conditions de validité.
 
-Effets : entre les parties, à l'égard des tiers, la stipulation pour autrui, les contrats collectifs, la simulation.
+Effets : entre les parties, à l'égard des tiers, la stipulation pour autrui, les contrats collectifs, la simulation, la délégation, les actions directes.
 
 Dissolution des contrats : nullités, rescision, résolution et résiliation, effets spéciaux de l'inexécution des contrats synallagmatiques.
 
@@ -36,7 +34,7 @@ La responsabilité contractuelle.
 
 b) Les sources extracontractuelles d'obligations.
 
-Responsabilité civile : évolution, fait générateur (fait personnel, fait d'autrui, fait des choses), le préjudice, le lien de causalité, le non-cumul entre responsabilité contractuelle et délictuelle.
+Responsabilité civile : évolution, fait générateur (fait personnel, fait d'autrui, fait des choses, responsabilité objective), le préjudice, le lien de causalité, les rapports entre responsabilité contractuelle et responsabilité extra-contractuelle.
 
 Quasi-contrats : enrichissement sans cause, gestion d'affaire, répétition de l'indu.
 
@@ -47,6 +45,8 @@ Le paiement, mesures de conservation, action oblique, action paulienne.
 Modalités d'exécution : solidarité, indivisibilité et obligation in solidum.
 
 d) Transmission des obligations.
+
+Cession de contrat, cession de créance, cession de dette.
 
 2. Droit commercial
 
@@ -60,17 +60,17 @@ Définition et régime.
 
 Qualification : preuve de la qualité de commerçant, statut, le registre du commerce.
 
-Biens commerciaux : le fonds de commerce, le bail commercial.
+Le fonds de commerce (notion, cession, nantissement), le bail commercial, l'entreprise individuelle à responsabilité limitée.
 
 2.4. La concurrence commerciale.
 
 Loyauté de la concurrence, liberté de la concurrence, concessions exclusives, franchises.
 
-Atteintes à la liberté de la concurrence : pratiques restrictives ou « individuelles », pratiques anticoncurrentielles : actions concertées, exploitation abusive d'une position dominante ou d'un état de dépendance économique, le Conseil de la concurrence.
+Atteintes à la liberté de la concurrence : pratiques restrictives, pratiques anticoncurrentielles, concentrations, le Conseil de la concurrence.
 
 2.5. Les sociétés.
 
-Notion de société, variétés : sociétés commerciales et sociétés civiles, sociétés anonymes.
+Notion de société, droit commun, variété : sociétés commerciales et sociétés civiles, sociétés anonymes.
 
 Problèmes posés par les groupes de sociétés.
 
@@ -78,7 +78,7 @@ Problèmes posés par les groupes de sociétés.
 
 3.1. Les institutions communautaires.
 
-3.2. La politique de la Communauté économique européenne (CEE) en matière de concurrence.
+3.2. Eléments de droit communautaire de la concurrence.
 
 3.3. La construction de l'Europe des transports.
 
@@ -128,7 +128,7 @@ Notions générales sur l'organisation et la compétence des juridictions judici
 
 Déroulement des instances civile et pénale.
 
-DEUXIÈME OPTION : DROIT PUBLIC
+Deuxième option : droit public
 
 1. Droit constitutionnel et institutions politiques
 
@@ -144,17 +144,17 @@ Les régimes politiques des Etats-Unis, de la Grande-Bretagne.
 
 L'évolution des institutions politiques françaises depuis 1870 : IIIe, IVe et Ve République.
 
-La Constitution française en vigueur, les pouvoirs publics, relations entre les pouvoirs, le pouvoir constituant et la révision de la Constitution.
+La Constitution française en vigueur, les pouvoirs publics, les relations entre les pouvoirs, le pouvoir constituant et la révision de la constitution.
 
 1.3. Le contentieux constitutionnel.
 
 Les grandes cours constitutionnelles (France, EU, Allemagne, Italie).
 
-Le contrôle de constitutionnalité des lois en France.
+Le contrôle de constitutionnalité des lois en France (contrôle a priori et question prioritaire de constitutionnalité).
 
-Le Conseil constitutionnel et les droits fondamentaux individuels.
+Le Conseil constitutionnel et les droits fondamentaux.
 
-Le Conseil constitutionnel et le droit international.
+Le Conseil constitutionnel et les droits supranationaux (droit communautaire, droit européen conventionnel et droit international).
 
 2. Droit administratif
 
@@ -162,21 +162,25 @@ Le Conseil constitutionnel et le droit international.
 
 Les traités internationaux.
 
-La loi. Le règlement. Les instructions et circulaires de service.
+La loi.
 
-2.2. Structure de l'administration.
+Les diverses catégories de règlements.
 
-Organes centraux : Gouvernement, administrations centrales, Conseil d'Etat.
+Les instructions, directives et circulaires.
 
-Organes régionaux et locaux : services extérieurs.
+2.2. La structure de l'administration.
 
-Décentralisation et déconcentration. Départements, communes et regroupements de communes. Régions.
+Les organes centraux : Gouvernement, administrations centrales, Conseil d'Etat.
 
-Les établissements publics et autres personnes publiques. Les autorités administratives indépendantes.
+Les organes régionaux et locaux : services extérieurs de l'Etat.
+
+La décentralisation et déconcentration : les régions, les départements, les communes et leurs divers regroupements.
+
+Les établissements publics et autres personnes publiques (autorités administratives indépendantes, organismes consultatifs, etc.)
 
 2.3. Les agents des services publics.
 
-Le statut général de la fonction publique : recrutement, obligations, droits et responsabilité des fonctionnaires.
+Le statut général de la fonction publique : recrutement, obligations, droits et responsabilités (administrative, civile et pénale) des fonctionnaires.
 
 Les agents contractuels.
 
@@ -186,7 +190,7 @@ Services publics industriels et commerciaux, sociétés d'économie mixte.
 
 Droit de la concurrence.
 
-L'aménagement du territoire/contrats de plan.
+L'aménagement du territoire, les partenariats Etats/collectivités locales, les contrats de plan, etc.
 
 Domaine public et domaine privé : composition, régime juridique, mode de gestion.
 
@@ -196,7 +200,7 @@ Les actes administratifs unilatéraux.
 
 Les contrats de l'administration : caractères généraux, les marchés, les concessions, les régies, la délégation de service public.
 
-Les travaux publics.
+Les travaux publics, l'expropriation pour cause d'utilité publique.
 
 2.6. La responsabilité administrative.
 
@@ -206,11 +210,11 @@ Responsabilité des fonctionnaires envers l'Etat et les particuliers.
 
 2.7. Le contrôle juridictionnel de l'administration.
 
-Rôles respectifs des juridictions administratives et judiciaires. Le tribunal des conflits.
+Les rôles respectifs des juridictions administratives et judiciaires. Le tribunal des conflits.
 
-Organisation et compétence des juridictions administratives de droit commun. Conseil d'Etat, cour administrative d'appel, tribunal administratif.
+L'organisation et la compétence des juridictions administratives de droit commun : Conseil d'Etat, cour administrative d'appel, tribunal administratif.
 
-Les recours. Le recours pour excès de pouvoir.
+Les recours : le recours pour excès de pouvoir, les recours en interprétation et en appréciation de légalité.
 
 3. Finances publiques
 
@@ -260,7 +264,9 @@ Le contrôle juridictionnel, la Cour des comptes et l'élargissement de ses attr
 
 Le contrôle parlementaire, la loi de règlement.
 
-La cour de discipline budgétaire et financière.
+La Cour de discipline budgétaire et financière.
+
+3.3. Le budget des collectivités locales.
 
 4. Droit international
 
@@ -278,19 +284,25 @@ L'Organisation mondiale du commerce (OMC) : fonctionnement, l'organe de règleme
 
 5.1. L'architecture de l'Union.
 
-Traités de Rome, de Maastricht, d'Amsterdam.
+a) Les traités de Rome, de Maastricht, d'Amsterdam, de Nice, de Lisbonne.
 
-5.2. Le droit communautaire individuel.
+b) Conseil, Commission, Parlement.
+
+5.2. Le droit communautaire originaire et le droit communautaire dérivé.
+
+5.3. Le droit communautaire institutionnel.
 
 Le triangle institutionnel, la Cour de justice des Communautés européennes (CJCE) et le Tribunal pénal international (TPI), les recours juridictionnels, les sources du droit communautaire.
 
-5.3. Le droit communautaire matériel.
+5.4. Le droit communautaire matériel.
 
 La concurrence.
 
+L'environnement.
+
 Le marché intérieur.
 
-TROISIÈME OPTION : SCIENCES ÉCONOMIQUES
+Troisième option : sciences économiques
 
 1. Les agents
 
@@ -348,7 +360,7 @@ La politique des revenus.
 
 Les fonctions de la monnaie, les banques et les intermédiaires financiers, la demande et l'offre de monnaie, les marchés monétaires et financiers.
 
-L'euro, les taux d'intérêts.
+L'euro, les taux d'intérêt.
 
 2.5. Les fluctuations économiques et l'inflation.
 
@@ -384,7 +396,7 @@ La coordination des politiques économiques : l'ECOFIN.
 
 3.6. La politique commune des transports.
 
-Les règles de la concurrence dans les transports maritimes et aériens. Multimodalité, intermodalité, la normalisation.
+Les règles de la concurrence dans les transports maritimes et aériens ; multimodalité, intermodalité, la normalisation.
 
 4. L'économie internationale
 
@@ -428,7 +440,7 @@ Volonté de développement ou assistance.
 
 6.1. La gestion financière de l'entreprise.
 
-Le capital, la gouvernance.
+Le capital ― la gouvernance.
 
 L'analyse financière de l'entreprise, la gestion des capitaux circulants (les notions de fonds de roulement et de trésoreries, problèmes posés par la gestion de la trésorerie de l'entreprise), la gestion des capitaux à long terme (le choix des investissements et de leurs modalités de financement). Les dettes. L'évaluation des entreprises.
 
@@ -468,704 +480,194 @@ La théorie des contrats.
 
 L'externalisation.
 
-A N N E X E I I
+Quatrième option : sciences et techniques
 
-PROGRAMME DE L'ÉPREUVE À OPTION
+1. Programme de physique
 
-(ÉCRIT)
+1.1. Electrocinétique :
 
-I. ― NOTIONS DE DROIT MARITIME
+Circuits linéaires passifs R, L, C ; méthodes générales d'étude des circuits passifs linéaires en régime sinusoïdal.
 
-1. Droit privé
+Dipôle linéaire.
 
-1.1. Le navire.
+Circuit raisonnant.
 
-Nationalité, propriété.
+Les diodes.
 
-1.2. Le navire, élément du patrimoine.
+Les transistors à jonction.
 
-Le crédit tiré du navire (hypothèque, privilèges), la responsabilité du propriétaire du navire, le droit des créanciers sur le navire.
+1.2. Résistance des matériaux :
 
-1.3. L'exploitation du navire.
+Formulation des principes de la statique.
 
-Les formes juridiques de l'armement, les opérations principales d'exploitation du navire (les contrats d'affrètement, le contrat de transport), les ventes maritimes.
+Torseurs transmissibles dans les liaisons parfaites entre solides.
 
-1.4. Les événements de mer.
+Systèmes isostatiques et hyperstatiques.
 
-Abordage, assistance et sauvetage, avaries communes.
+Contraintes et déformations.
 
-1.5. Les assurances maritimes.
+Notions sur le comportement des matériaux.
 
-2. Droit public international
+Théorèmes généraux sur la déformation des systèmes.
 
-2.1. Les eaux intérieures.
+Notions d'instabilité élastique.
 
-Nature juridique, étendue, condition juridique des navires de guerre et de commerce étrangers dans les eaux intérieures.
+Eléments de théorie de la résistance.
 
-2.2. La mer territoriale.
+1.3. Mécanique et vibrations :
 
-Nature juridique, étendue, problème de la zone contiguë, régime juridique.
+Mécanique des fluides (statique des fluides, fluides parfaits incompressibles, fluides visqueux).
 
-2.3. Le plateau continental.
+Mécanique des solides (thermodynamique du solide, problèmes d'élasticité plane, torsion, introduction à la mécanique des milieux curvilignes).
 
-Nature juridique, étendue, régime juridique.
+Vibrations et ondes (oscillateur harmonique, analogie électromécanique, impédance matricielle, couplage gyroscopique, propagation électromagnétique).
 
-2.4. La haute mer.
+1.4. Electromagnétisme :
 
-Nature juridique, régime juridique, police de la haute mer, utilisation économique.
+Electrostatique.
 
-2.5. La guerre maritime.
+Equations locales.
 
-Notions.
+Energies et densité d'énergie.
 
-II. - NOTIONS DE DROIT PÉNAL ET DE PROCÉDURE PÉNALE
+Magnétostatique.
 
-1. Droit pénal
+Forces magnétiques.
 
-L'infraction, la tentative et la complicité.
+Théorème d'Ampère.
 
-La classification des infractions : crimes, délits, contraventions.
+Phénomènes d'induction.
 
-Echelle des peines, étude sommaire de chacune des peines.
+Loi de Faraday.
 
-L'imputabilité, les faits justificatifs, les excuses, la minorité pénale, les circonstances atténuantes, la récidive, le casier judiciaire, le sursis, la grâce, l'amnistie, la réhabilitation.
+Champ électrique induit.
 
-2. Procédure pénale
+Energie magnétique équations de Maxwell.
 
-L'action publique et l'action civile.
+Energie électromagnétique.
 
-Les preuves en matière pénale.
+2. Programme d'électronique/électrotechnique
 
-La police judiciaire et l'instruction.
+2.1. Electronique :
 
-Les juridictions répressives : organisation, compétence, procédure.
+Fonctions de base de l'électronique (fonctions analogiques, fonctions logiques et numériques).
 
-Les voies de recours.
+Composants à semi-conducteurs (jonction PN, transistor bipolaire, transistor à effet de champ).
 
-III. - NOTIONS DE DROIT SOCIAL
+Circuits intégrés (linéaires, logiques, convertisseurs).
 
-1. Droit du travail
+Fonctions de base de l'électronique de puissance (hacheurs, redresseurs, gradateurs, onduleurs, convertisseurs statiques de puissance).
 
-1.1. Objet, nature et caractères fondamentaux du droit du travail.
+La protection de l'électronique de puissance.
 
-1.2. Les sources du droit du travail, l'organisation et les services administratifs.
+L'opto-électronique.
 
-1.3. Les rapports individuels de travail.
+2.2. Electrotechnique :
 
-Définition et critère du contrat de travail.
+Electrocinétique (circuits en courant continu, circuits en régime variable, représentation de Fresnel).
 
-Principe de la liberté du travail. Apprentissage et formation professionnelle. Restrictions légales (mineurs, femmes, étrangers, contrôle de l'embauchage). Restrictions conventionnelles.
+La distribution (système monophasé, systèmes triphasés) ;
 
-Conditions de formation et preuve du contrat.
+2.3. Les machines à courant continu (constitution, réversibilité, couplage).
 
-Le salaire (forme, montant, modalités et garanties de paiement).
+2.4. Les machines synchrones (description et fonctionnement).
 
-La réglementation des conditions de travail (durée, repos hebdomadaire, congés payés).
+2.5. Les accumulateurs (description et fonctionnement).
 
-La cessation du contrat de travail.
+2.6. La production et distribution de l'énergie électrique.
 
-Les litiges individuels.
+Cinquième option : sciences de la vie et environnement
 
-1.4. Les rapports collectifs.
+1. Connaissances générales
 
-L'entreprise : règlement intérieur, délégués du personnel, comités d'entreprise.
+Biologie des organismes.
 
-Les syndicats.
+Génétique formelle et mécanismes de l'évolution.
 
-Les conventions collectives.
+Biochimie (Structure des biomolécules, organisation et interactions moléculaires).
 
-Les conflits collectifs du travail.
+Evolution de la vie.
 
-2. La sécurité sociale (notions sommaires)
+Physique appliquée à la biologie.
 
-2.1. Les assurances sociales.
+Biologie des organismes.
 
-2.2. Les prestations familiales.
+Biologie cellulaire.
 
-2.3. Les accidents du travail.
+Chimie (atome, liaison et molécule).
 
-A N N E X E I I I
+Taxonomie et détermination des organismes.
 
-PROGRAMME DES ÉPREUVES SPORTIVES
+Diversité biologique végétale à travers l'évolution.
 
-1. Nature des épreuves
+Reproduction et développement des animaux.
 
-1.1. Candidats.
+Développement des plantes et productions végétales.
 
-Coefficient
+Hydrogéologie et pédologie.
 
-Vitesse : course de 100 m 2
+Géophysique.
 
-Détente : saut en hauteur 1
+Tectonique et géomorphologie.
 
-Puissance : lancer du poids de 5 kg (performance du meilleur bras) 1
+Histoire de la Terre et de la vie.
 
-Force : grimper à la corde lisse, bras seuls, 6 m mesurés du sol, départ debout, chronométré 1
+Energies et ressources.
 
-Natation : 50 m nage libre 3
+Diversité biologique animale à travers l'évolution.
 
-Total 8
+Physiologie animale et végétale.
 
-1.2. Candidates.
+Biologie moléculaire.
 
-Coefficient
+Les bases de la chimie organique descriptive.
 
-Vitesse : course de 80 m 2
+Traitement de données géologiques.
 
-Détente : saut en hauteur 1
+Sédimentologie et paléoenvironnements.
 
-Puissance : lancer du poids de 4 kg (performance du meilleur bras) 1
+Biotechnologies.
 
-Force : grimper de corde lisse à l'aide des bras et des jambes, départ debout, 5 m, chronométré 1
+Systématique et phylogénie.
 
-Natation : 50 m nage libre 3
+Stratégie adaptative des organismes.
 
-Total 8
+Pétrologie et géochimie.
 
-2. Barèmes de cotation
+Milieu intérieur et homéostasie.
 
-Les différentes épreuves sont exécutées et notées conformément aux barèmes donnés aux paragraphes ci-après.
+Paléoenvironnements et biodiversité.
 
-3. Barème des épreuves sportives (candidats)
+Bioécologie.
 
-NOTE |
+Biologie de l'habitat.
 
-100 MÈTRES |
+Biologie des populations et des écosystèmes.
 
-SAUT
+Défenses immunitaires.
 
-en hauteur |
+2. Sciences biologiques marines
 
-LANCER
+Biologie des populations aquatiques, écologie des systèmes marins, écophysiologie des organismes marin.
 
-du poids |
+Traitement des données biologiques.
 
-GRIMPER |
+Chimie marine.
 
-NATATION |
+Approche écosystémique de l'halieutique : océanographie physique, chimie des écosystèmes marins, écologie microbienne.
 
-20 |
+Ressources vivantes et environnement.
 
-11''6 |
+Biodiversité.
 
-1,73 m |
+Impact des polluants, méthodes quantitatives d'analyse des milieux et des ressources.
 
-14,56 m |
+Biologie des organismes marins : biochimie et biologie moléculaire pour les sciences de la mer, végétaux marins et littoraux, écophysiologie et écodiversité.
 
-6 m/5''4 |
+Ecosystèmes marins.
 
-31''3 |
+Gestion des ressources exploitées, enregistrements biologiques de l'environnement, invasions biologiques, microorganismes en milieu marin, environnements profonds.
 
-19 |
+Ecologie et exploitation halieutique.
 
-11''8 |
-
-1,69 m |
-
-13,73 m |
-
-6 m/5''8 |
-
-32''3 |
-
-18 |
-
-12'' |
-
-1,64 m |
-
-12,95 m |
-
-6 m/6''2 |
-
-33''4 |
-
-17 |
-
-12''2 |
-
-1,60 m |
-
-12,21 m |
-
-6 m/6''6 |
-
-34''4 |
-
-16 |
-
-12''4 |
-
-1,56 m |
-
-11,51 m |
-
-6 m/7''1 |
-
-35''6 |
-
-15 |
-
-12''6 |
-
-1,52 m |
-
-10,86 m |
-
-6 m/7''7 |
-
-36''7 |
-
-14 |
-
-12''8 |
-
-1,48 m |
-
-10,24 m |
-
-6 m/8''2 |
-
-37''9 |
-
-13 |
-
-13'' |
-
-1,44 m |
-
-9,65 m |
-
-6 m/8''8 |
-
-39''1 |
-
-12 |
-
-13''3 |
-
-1,40 m |
-
-9,10 m |
-
-6 m/9''5 |
-
-40''4 |
-
-11 |
-
-13''5 |
-
-1,36 m |
-
-8,58 m |
-
-6 m/10''2 |
-
-41''7 |
-
-10 |
-
-13''7 |
-
-1,33 m |
-
-8,09 m |
-
-6 m/11'' |
-
-43''1 |
-
-9 |
-
-13''9 |
-
-1,30 m |
-
-7,63 m |
-
-6 m/11''8 |
-
-44''5 |
-
-8 |
-
-14''2 |
-
-1,26 m |
-
-7,20 m |
-
-6 m/12''7 |
-
-45''9 |
-
-7 |
-
-14''4 |
-
-1,23 m |
-
-6,79 m |
-
-6 m/13''6 |
-
-47''4 |
-
-6 |
-
-14''7 |
-
-1,20 m |
-
-6,40 m |
-
-6 m/14''6 |
-
-49'' |
-
-5 |
-
-14''9 |
-
-1,17 m |
-
-6,03 m |
-
-6 m/15''7 |
-
-50''5 |
-
-4 |
-
-15''2 |
-
-1,13 m |
-
-5,69 m |
-
-6 m/16''8 |
-
-52''2 |
-
-3 |
-
-15''4 |
-
-1,11 m |
-
-5,37 m |
-
-6 m |
-
-53''8 |
-
-2 |
-
-15''7 |
-
-1,08 m |
-
-5,06 m |
-
-5,5 m |
-
-55''6 |
-
-1 |
-
-16'' |
-
-1,05 m |
-
-4,77 m |
-
-5 m |
-
-57''4 |
-
-0 |
-
-16''2 |
-
-1,02 m |
-
-4,50 m |
-
-4,5 m |
-
-59''2 |
-
-En cas de performance intermédiaire, arrondir systématiquement au nombre entier correspondant à la performance immédiatement inférieure et cotée sur la table des barèmes.
-
-4. Barème des épreuves sportives (candidates)
-
-NOTE |
-
-80 MÈTRES |
-
-SAUT
-
-en hauteur |
-
-LANCER
-
-du poids |
-
-GRIMPER |
-
-NATATION |
-
-20 |
-
-10''7 |
-
-1,40 m |
-
-9,96 m |
-
-5 m/5''4 |
-
-40''4 |
-
-19 |
-
-10''9 |
-
-1,36 m |
-
-9,39 m |
-
-5 m/5''8 |
-
-41''7 |
-
-18 |
-
-11''1 |
-
-1,33 m |
-
-8,86 m |
-
-5 m/6''2 |
-
-43''1 |
-
-17 |
-
-11''2 |
-
-1,30 m |
-
-8,35 m |
-
-5 m/6''7 |
-
-44''5 |
-
-16 |
-
-11''4 |
-
-1,26 m |
-
-7,88 m |
-
-5 m/7''2 |
-
-45''9 |
-
-15 |
-
-11''6 |
-
-1,23 m |
-
-7,43 m |
-
-5 m/7''7 |
-
-47''4 |
-
-14 |
-
-11''8 |
-
-1,20 m |
-
-7,00 m |
-
-5 m/8''3 |
-
-49'' |
-
-13 |
-
-12'' |
-
-1,17 m |
-
-6,60 m |
-
-5 m/8''9 |
-
-50''5 |
-
-12 |
-
-12''2 |
-
-1,13 m |
-
-6,23 m |
-
-5 m/9''6 |
-
-52''5 |
-
-11 |
-
-12''4 |
-
-1,11 m |
-
-5,87 m |
-
-5 m/10''3 |
-
-53''8 |
-
-10 |
-
-12''6 |
-
-1,08 m |
-
-5,54 m |
-
-5 m/11''1 |
-
-55''6 |
-
-9 |
-
-12''8 |
-
-1,05 m |
-
-5,22 m |
-
-5 m/12'' |
-
-57''4 |
-
-8 |
-
-13'' |
-
-1,02 m |
-
-4,92 m |
-
-5 m/12''9 |
-
-59''2 |
-
-7 |
-
-13''3 |
-
-0,99 m |
-
-4,64 m |
-
-5 m/13''9 |
-
-1'01''1 |
-
-6 |
-
-13''5 |
-
-0,97 m |
-
-4,38 m |
-
-5 m/14''9 |
-
-1'03''1 |
-
-5 |
-
-13''7 |
-
-0,94 m |
-
-4,13 m |
-
-5 m/16''1 |
-
-1'05''1 |
-
-4 |
-
-13''9 |
-
-0,92 m |
-
-3,89 m |
-
-5 m/17''3 |
-
-1'07''2 |
-
-3 |
-
-14''2 |
-
-0,90 m |
-
-3,69 m |
-
-5 m/18''6 |
-
-1'09''4 |
-
-2 |
-
-14''4 |
-
-0,88 m |
-
-3,46 m |
-
-5 m |
-
-1'11''6 |
-
-1 |
-
-14''7 |
-
-0,86 m |
-
-3,26 m |
-
-4,5 m |
-
-1'13''9 |
-
-0 |
-
-14''9 |
-
-0,84 m |
-
-3,08 m |
-
-4 m |
-
-1'16''3 |
-
-En cas de performance intermédiaire, arrondir systématiquement au nombre entier correspondant à la performance immédiatement inférieure et cotée sur la table des barèmes.
+Biologie halieutique, ressources halieutiques, ingénierie des pêches, écologie marine et gestion écosystémique, évaluation des stocks halieutiques, approche écosystémique des pêches.
