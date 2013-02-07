@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002690
+
+- Question : [SEQ121002690](seq121002690.md) — Devenir et modalités d'attribution du FISAC
+
+## Réponse
+
+*Artisanat, commerce et tourisme, JO du 2013-02-07, page 426*
+
+Les difficultés rencontrées par le fonds d'intervention pour les services, l'artisanat et le commerce (FISAC) sont consécutives à la progression rapide et forte du nombre d'opérations pouvant répondre aux conditions posées par la nouvelle réglementation (1 570 dossiers en 2011 contre 783 en 2008) qui faisait suite à l'élargissement et à l'assouplissement des possibilités d'aide effectués par la loi de modernisation de l'économie alors que dans le même temps les crédits affectés au FISAC ont diminué (60 M€ en 2008, 42 M€ en 2012), ce qui a conduit à différer les décisions d'attribution de subvention pour un nombre croissant de dossiers déposés et instruits. La soutenabilité financière du dispositif n'étant pas assurée, le précédent ministre en charge du commerce a été conduit à redéfinir, dans l'urgence et unilatéralement, le cadre d'intervention du FISAC. Ceci a provoqué de nombreux dysfonctionnements dans la procédure d'attribution des subventions, au premier rang desquels figurent des délais d'octroi de subvention anormalement longs que les services tentent de réduire, notamment en résorbant le stock des demandes déposées en 2011, voire en 2010. Dans ce contexte particulièrement difficile, une évaluation complète du FISAC est en cours, qui devrait déboucher sur la mise en place d'une allocation plus équitable et mieux ciblée des crédits. Les pouvoirs publics s'attacheront à ce que dans le respect des engagements pris en matière de redressement des finances publiques, ces financements indispensables au dynamisme économique des territoires puissent être préservés. Enfin, pour les années 2010-2012, 41 opérations ont été financées au titre du FISAC dans le département de la Gironde, pour un montant global de 6,04 M€.
