@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203680
+
+- Question : [SEQ121203680](seq121203680.md) — URSSAF et Union européenne
+
+## Réponse
+
+*Économie et finances, JO du 2013-02-07, page 432*
+
+Les redressements de cotisations et contributions de sécurité sociale sont en principe effectués sur la base des rémunérations réellement versées aux salariés relevant de la sécurité sociale. Par exception, les cotisations sont déterminées de manière forfaitaire dans les seuls cas où, soit la comptabilité de l'entreprise ne permet pas de connaître les montants exacts des assiettes de cotisations, soit les documents nécessaires à la réalisation du contrôle ne sont pas fournis par l'employeur. La mise en œuvre de ces procédures est effectuée dans le respect des règles communautaires de coordination des législations de sécurité sociale, notamment en s'assurant que les salariés de l'entreprise contrôlée ne relèvent pas du régime de sécurité sociale d'un autre Etat membre de l'Union européenne. À l'occasion des opérations de contrôle, l'employeur est ainsi amené à produire l'identité de ses salariés et, le cas échéant, le certificat attestant d'une autre législation de sécurité sociale qui leur est applicable, afin que les salariés concernés soient exclus du redressement de cotisations à sa charge. Dès lors, si tout ou partie des salariés relève d'une autre législation de sécurité sociale, l'employeur l'aura attesté et ne pourra donc faire l'objet d'aucun redressement de la part de l'URSSAF. Il ne peut donc y avoir double paiement dans ce cas. Si, au contraire, l'employeur fait l'objet d'un redressement par l'URSSAF, cela signifie que certains salariés sont affiliés à la législation française et non dans un autre pays. Dès lors, l'employeur n'a pas payé de cotisations sur ce motif dans un autre pays et il ne risque donc pas de double paiement de cotisations.
