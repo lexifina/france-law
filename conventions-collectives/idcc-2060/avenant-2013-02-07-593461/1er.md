@@ -1,0 +1,189 @@
+# Article 1er
+
+L'article 38.1 intéressant les salaires minima garantis de la convention collective nationale des chaînes de cafétérias et assimilés est modifié dans les conditions suivantes :
+
+1. Grille de salaires mise à jour applicable le premier jour du mois suivant la signature du présent avenant pour les entreprises adhérentes du SNRPO qui entrent dans le champ d'application de la convention collective nationale des chaînes de cafétérias et assimilés du 28 août 1998.
+
+Les rémunérations horaires brutes applicables sont déterminées dans le respect des salaires minima suivants :
+
+(En euros.)
+
+Catégorie |
+
+Niveau |
+
+Echelon |
+
+Taux horaire |
+
+Employés
+
+|
+
+I
+
+|
+
+1 |
+
+9,43 |
+
+2 |
+
+9,47 |
+
+3 |
+
+9,52 |
+
+II
+
+|
+
+1 |
+
+9,61 |
+
+2 |
+
+9,70 |
+
+3 |
+
+10,11 |
+
+III
+
+|
+
+1 |
+
+10,21 |
+
+2 |
+
+10,32 |
+
+3 |
+
+10,57 |
+
+Agents de maîtrise
+
+|
+
+IV
+
+|
+
+1 |
+
+10,57 |
+
+2 |
+
+11,00 |
+
+3 |
+
+11,84 |
+
+Concernant l'échelon 1 du niveau V de la catégorie « cadres », la rémunération annuelle brute ne peut être inférieure à la somme de 26 900 € pour un salarié à temps complet.
+
+Concernant l'échelon 2 du niveau V de la catégorie « cadres », la rémunération annuelle brute ne peut être inférieure à la somme de 37 032 € pour un salarié à temps complet.
+
+Concernant l'échelon 3 du niveau V de la catégorie « cadres », la rémunération annuelle brute ne peut être inférieure à la somme de 37 500 € pour un salarié à temps complet.
+
+2. Grille de salaires revalorisée applicable à compter du 1er juillet 2013.
+
+Les rémunérations horaires brutes applicables sont déterminées dans le respect des salaires minima suivants :
+
+(En euros.)
+
+Catégorie |
+
+Niveau |
+
+Echelon |
+
+Taux horaire |
+
+Employés
+
+|
+
+I
+
+|
+
+1 |
+
+9,43 |
+
+2 |
+
+9,53 |
+
+3 |
+
+9,59 |
+
+II
+
+|
+
+1 |
+
+9,70 |
+
+2 |
+
+9,80 |
+
+3 |
+
+10,23 |
+
+III
+
+|
+
+1 |
+
+10,30 |
+
+2 |
+
+10,41 |
+
+3 |
+
+10,70 |
+
+Agents de maîtrise
+
+|
+
+IV
+
+|
+
+1 |
+
+10,70 |
+
+2 |
+
+11,30 |
+
+3 |
+
+12,14 |
+
+Concernant l'échelon 1 du niveau V de la catégorie « cadres », la rémunération annuelle brute ne peut être inférieure à la somme de 27 800 € pour un salarié à temps complet.
+
+Concernant l'échelon 2 du niveau V de la catégorie « cadres », la rémunération annuelle brute ne peut être inférieure à la somme de 37 032 € pour un salarié à temps complet.
+
+Concernant l'échelon 3 du niveau V de la catégorie « cadres », la rémunération annuelle brute ne peut être inférieure à la somme de 37 750 € pour un salarié à temps complet.
+
+Au titre de la présente grille de salaires revalorisée, le taux de pente de la catégorie « employés » a été porté de 12 % à 13,46 %. Ce taux de pente de 13,46 % sera repris dans le cadre des négociations salariales de branche de 2014.
