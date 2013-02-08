@@ -300,7 +300,7 @@ Décisions de règlement amiable des demandes en indemnités mettant en cause la
 
 |
 
-Code de l'éducation.
+Code de l'éducation
 
 1
 
@@ -328,7 +328,7 @@ Habilitation des mutuelles ou sections de mutuelles d'étudiants à assurer le s
 
 |
 
-Article R. 381-29.
+Aticle R. 381-29.
 
 |
 
@@ -646,6 +646,20 @@ Article 42.
 
 |
 
+Code rural et de la pêche maritime
+
+1
+
+|
+
+Autorisation d'exécution de projets utilisant des animaux vivants à des fins scientifiques
+
+|
+
+Article R. 214-122
+
+|
+
 Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique
 
 1
@@ -680,6 +694,8 @@ Décisions à caractère financier prises pour l'exécution des décisions de ju
 
 |
 
+3
+
 |
 
 Agrément pris par le ministre chargé de la recherche en vue de l'utilisation confinée d'organismes génétiquement modifiés à des fins de recherche, de développement ou d'enseignement.
@@ -689,9 +705,3 @@ Agrément pris par le ministre chargé de la recherche en vue de l'utilisation c
 Article R. 532-1 du code de l'environnement
 
 |
-
-NOTA :
-
-Décret n° 2009-643 du 9 juin 2009 art. 24 : Les présentes dispositions entrent en vigueur un an après la publication de l'arrêté édictant la réglementation technique mentionnée au premier alinéa de l'article 4 de la loi du 3 juin 2008 susvisée et, au plus tard, dix-huit mois après la publication du présent décret
-
-.

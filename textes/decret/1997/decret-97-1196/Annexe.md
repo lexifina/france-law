@@ -10,7 +10,7 @@ et des victimes de la guerre
 
 Vous pouvez consulter le tableau dans le JO
 
-n° 300 du 27 / 12 / 1997 page 46054 à 46055
+n° 300 du 27/12/1997 page 46054 à 46055
 
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
@@ -20,7 +20,7 @@ Décret no 54-1304 du 27 décembre 1954, modifié par le décret no 59-1015 du 2
 
 Vous pouvez consulter le tableau dans le JO
 
-n° 300 du 27 / 12 / 1997 page 46054 à 46055
+n° 300 du 27/12/1997 page 46054 à 46055
 
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
@@ -67,6 +67,22 @@ Article
 R. 425-19
 
 |
+
+Code rural et de la pêche maritime
+
+1 |
+
+Autorisation d'exécution de projets utilisant des animaux vivants à des fins scientifiques lorsque les procédures expérimentales concernent les établissements relevant de son autorité ou de sa tutelle |
+
+Article R. 214-127
+
+|
+
+2 |
+
+Agrément des établissements éleveurs, fournisseurs ou utilisateurs d'animaux utilisés à des fins scientifiques lorsque ces établissements relèvent de son autorité ou de sa tutelle |
+
+Article R. 214-127 |
 
 Haut fonctionnaire correspondant de défense et de sécurité
 
