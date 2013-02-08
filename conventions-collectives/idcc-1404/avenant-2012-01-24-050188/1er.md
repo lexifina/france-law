@@ -12,9 +12,9 @@ Les salariés non cadres titulaires du niveau VI (coefficients B70 et B80) de la
 
 En application de l'article 36 de l'annexe I de ladite convention, les entreprises peuvent demander l'extension du régime complémentaire au bénéfice des salariés suivants :
 
-– employés et agents de maîtrise : niveaux III à IV de la classification conventionnelle des emplois prévue par l'avenant du 16 décembre 2010 (coefficients A70 à B60 inclus) ;
+– employés : niveau III de la classification conventionnelle des emplois prévue par l'avenant du 16 décembre 2010 (coefficients A70 et A80) ;
 
-– techniciens : niveau IV et V de la classification conventionnelle des emplois prévue par l'avenant du 16 décembre 2010 (coefficients B10 à B60 inclus).
+– techniciens et agents de maîtrise : niveaux IV et V de la classification conventionnelle des emplois prévue par l'avenant du 16 décembre 2010 (coefficients B10 à B60).
 
 Les salariés relevant de l'article 36 bénéficient du régime de retraite complémentaire conformément aux dispositions de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 .
 
