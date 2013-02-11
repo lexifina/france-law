@@ -1,49 +1,15 @@
 # Article 1er
 
-La présente convention, conclue en application de la loi du 11 février 1950 modifiée, et notamment le chapitre III du titre III du livre Ier du code du travail, règle sur l'ensemble du territoire national, y compris les DOM, les rapports entre employeurs et salariés des entreprises de négoce en matériaux de construction. L'activité de celles-ci se caractérise par une activité principale de commerce de gros, centrale d'achat non alimentaire, intermédiaires du commerce, définie par référence à la nouvelle nomenclature d'activités française (NAF) telle qu'elle résulte du décret n° 92-1129 du 2 octobre 1992.
+La présente convention règle sur l'ensemble du territoire national y compris les DOM les rapports entre les employeurs et l'ensemble des salariés, quel que soit leur statut :
 
-51.5F. Commerce de gros de matériaux de construction et d'appareils sanitaires.
+- des entreprises dont l'activité principale est le commerce de gros de bois et de matériaux de construction correspondant au code APE 46. 73A ;
 
-Dans cette classe, ne sont visées que les activités : « Commerce de gros de matériaux de construction ».
+- des entreprises dont l'activité principale est le commerce de gros d'appareils sanitaires et produits de décoration correspondant au code APE 46. 73B ;
 
-A titre indicatif, les principales familles de produits et matériaux pouvant être commercialisées par les entreprises de négoce en matériaux de construction sont les suivantes :
+- des intermédiaires du commerce en bois et matériaux de construction correspondant au code APE 46. 13Z, issus de la NAF rév. 2 ;
 
-- poudres, agrégats, béton, éléments de structure ;
+- des sociétés holding, lorsque leur activité vise à l'encadrement et au contrôle de sociétés relevant du code APE ci-dessus ;
 
-- couverture, étanchéité ;
+- des centrales d'achat non alimentaires dès lors que leur activité vise à gérer et à encadrer des entreprises ayant une activité en commerce de gros de bois, de matériaux de construction et d'appareils sanitaires.
 
-- travaux publics, assainissement, épuration ;
-
-- menuiseries intérieures et extérieures ;
-
-- cloisons, plafonds ;
-
-- isolation bâtiment, isolation industrie ;
-
-- carrelage et revêtements ;
-
-- sanitaire ;
-
-- bois, panneaux ;
-
-- chauffage ;
-
-- outillage, électricité, quincaillerie ;
-
-- peinture, bricolage décoration, équipements de jardin...
-
-La présente convention ne s'applique pas si une famille de produits mentionnée ci-dessus constitue durablement à elle seule l'activité principale définie par le champ d'application professionnel d'une autre convention collective nationale.
-
-Il est rappelé que le code APE attribué par l'INSEE est donné à titre indicatif et n'a que la valeur d'une présomption, seule l'activité réelle de l'entreprise détermine, en vertu de la jurisprudence de la Cour de cassation, son assujettissement à un texte conventionnel.
-
-Sont considérés comme cadres les collaborateurs diplômés d'une grande école, de l'enseignement supérieur ou ayant une formation ou des compétences équivalentes.
-
-Ils doivent occuper dans l'entreprise un des postes visés à l'article 6 « Classification » de la présente convention et posséder une formation administrative, commerciale, financière, juridique ou technique sanctionnée ou non par un diplôme. Ce personnel exerce une responsabilité fonctionnelle ou de commandement équivalente à l'emploi occupé.
-
-Sont exclus du champ d'application de la présente convention :
-
-- les VRP et représentants de commerce salariés régis par les articles L. 751-1 et suivants du code du travail et l'accord national interprofessionnel du 3 octobre 1975 et ses avenants ;
-
-- les salariés qui, bien que bénéficiant des dispositions des articles 4 bis et 36 de la convention nationale de retraite et de prévoyance des cadres du 14 mars 1947, ne sont pas des cadres ;
-
-- les titulaires de diplômes ou possesseurs de formation qui, aux termes de leur contrat, n'occupent pas dans l'entreprise des postes nécessitant la mise en œuvre des connaissances qu'ils ont acquises.
+Il est rappelé que le code APE attribué par l'INSEE est donné à titre indicatif et n'a que la valeur d'une présomption, seule l'activité réelle principale de l'entreprise détermine, en vertu de la jurisprudence de la Cour de cassation, son assujettissement à un texte conventionnel.
