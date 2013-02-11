@@ -2,9 +2,13 @@
 
 LISTE DES EMPLOIS DE CHEF DE MISSION DES SERVICES DU PREMIER MINISTRE
 
-SERVICES ET DIRECTIONS |
+SERVICES ET DIRECTIONS
 
-FONCTIONS |
+|
+
+FONCTIONS
+
+|
 
 NOMBRE
 
@@ -12,7 +16,7 @@ d'emplois
 
 |
 
-Secrétariat général du Gouvernement.
+Secrétariat général du Gouvernement
 
 |
 
@@ -24,15 +28,11 @@ Chef du cabinet du secrétaire général du Gouvernement
 
 |
 
-|
-
-Adjoint au chef du département de l'activité normative
+Adjoint au chef de département de l'activité normative
 
 |
 
 1
-
-|
 
 |
 
@@ -44,8 +44,6 @@ Chargé de mission adjoint au secrétariat général du Gouvernement
 
 |
 
-|
-
 Secrétaire général de la commission interministérielle de la politique immobilière de l'Etat
 
 |
@@ -54,7 +52,7 @@ Secrétaire général de la commission interministérielle de la politique immob
 
 |
 
-Cabinet du Premier ministre.
+Cabinet du Premier ministre
 
 |
 
@@ -66,21 +64,11 @@ Chef du service des interventions
 
 |
 
-Direction des services administratifs et financiers.
+Direction des services administratifs et financiers
 
 |
 
-Chef du bureau de la commande publique
-
-|
-
-1
-
-|
-
-|
-
-Chef du bureau de l'administration des personnels et des rémunérations
+Chef du bureau des achats ministériels
 
 |
 
@@ -88,9 +76,7 @@ Chef du bureau de l'administration des personnels et des rémunérations
 
 |
 
-|
-
-Chef de la mission de gestion des emplois déconcentrés.
+Chef du bureau de la gestion administrative et de la paie des personnels
 
 |
 
@@ -98,11 +84,7 @@ Chef de la mission de gestion des emplois déconcentrés.
 
 |
 
-Direction générale des médias et des industries culturelles.
-
-|
-
-Secrétaire général
+Chef du bureau de la gestion des emplois déconcentrés
 
 |
 
@@ -110,7 +92,7 @@ Secrétaire général
 
 |
 
-Service d'information du Gouvernement.
+Service d'information du Gouvernement
 
 |
 
@@ -122,15 +104,15 @@ Chef du bureau de l'administration générale
 
 |
 
-Direction de l'information légale et administrative |
+Direction de l'information légale et administrative
 
-Responsable de la mission du contrôle de gestion
+|
+
+Responsable du département de la qualité et du contrôle interne
 
 |
 
 1
-
-|
 
 |
 
@@ -142,9 +124,7 @@ Responsable du département des centres documentaires
 
 |
 
-|
-
-Responsable du département des périodiques, des collections et du conseil éditorial
+Responsable du département de l'édition
 
 |
 
@@ -152,15 +132,11 @@ Responsable du département des périodiques, des collections et du conseil édi
 
 |
 
-|
-
-Responsable du département communication
+Responsable du département de la communication
 
 |
 
 1
-
-|
 
 |
 
@@ -172,9 +148,7 @@ Responsable du département des ressources humaines
 
 |
 
-|
-
-Adjoint au responsable du département de l'information publique
+Directeur du centre d'appels interministériel
 
 |
 
@@ -182,9 +156,15 @@ Adjoint au responsable du département de l'information publique
 
 |
 
+Responsable du département de l'information administrative multicanal
+
 |
 
-Adjoint au responsable du département des périodiques, des collections et du conseil éditorial/chef de publication
+1
+
+|
+
+Adjoint au responsable du département de l'édition
 
 |
 
@@ -192,9 +172,7 @@ Adjoint au responsable du département des périodiques, des collections et du c
 
 |
 
-|
-
-Directeur du centre interministériel de renseignements administratifs de Metz
+Responsable du département des affaires financières
 
 |
 

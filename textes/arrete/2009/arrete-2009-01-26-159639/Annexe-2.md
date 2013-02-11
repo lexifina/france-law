@@ -6,7 +6,9 @@ SERVICES ET DIRECTIONS
 
 |
 
-FONCTIONS |
+FONCTIONS
+
+|
 
 NOMBRE
 
@@ -14,7 +16,7 @@ d'emplois
 
 |
 
-Secrétariat général du Gouvernement.
+Secrétariat général du Gouvernement
 
 |
 
@@ -26,21 +28,11 @@ Chef du cabinet du secrétaire général du Gouvernement
 
 |
 
-Direction des services administratifs et financiers.
+Direction des services administratifs et financiers
 
 |
 
-Chef du bureau de la commande publique
-
-|
-
-1
-
-|
-
-|
-
-Chef du bureau de l'administration des personnels et des rémunérations
+Chef du bureau des achats ministériels
 
 |
 
@@ -48,9 +40,7 @@ Chef du bureau de l'administration des personnels et des rémunérations
 
 |
 
-Direction de l'information légale et administrative |
-
-Directeur du centre interministériel de renseignements administratifs de Metz
+Chef du bureau de la gestion administrative et de la paie des personnels
 
 |
 
@@ -58,9 +48,11 @@ Directeur du centre interministériel de renseignements administratifs de Metz
 
 |
 
+Direction de l'information légale et administrative
+
 |
 
-Responsable de la mission du contrôle de gestion
+Responsable du département de la qualité et du contrôle interne
 
 |
 
@@ -68,9 +60,15 @@ Responsable de la mission du contrôle de gestion
 
 |
 
+Responsable du département de l'édition
+
 |
 
-Responsable du département des périodiques, des collections et du conseil éditorial
+1
+
+|
+
+Directeur du centre d'appels interministériel
 
 |
 
