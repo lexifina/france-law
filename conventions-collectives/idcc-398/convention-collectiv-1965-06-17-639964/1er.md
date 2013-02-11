@@ -1,37 +1,15 @@
-# Article 1
+# Article 1er
 
-La présente convention règle sur l'ensemble du territoire national, y compris les DOM, les rapports entre employeurs et salariés des entreprises dont l'activité principale est le « commerce de gros en matériaux de construction », définie par la nomenclature d'activités française, au code APE :
+La présente convention règle sur l'ensemble du territoire national y compris les DOM les rapports entre les employeurs et l'ensemble des salariés, quel que soit leur statut :
 
-51. 5 F Commerce de gros de matériaux de construction et d'appareils sanitaires.
+- des entreprises dont l'activité principale est le commerce de gros de bois et de matériaux de construction correspondant au code APE 46. 73A ;
 
-Dans cette classe, ne sont visées que les activités « commerce de gros de matériaux de construction ».
+- des entreprises dont l'activité principale est le commerce de gros d'appareils sanitaires et produits de décoration correspondant au code APE 46. 73B ;
 
-A titre indicatif, les principales familles de produits et matériaux pouvant être commercialisées par les entreprises de négoce en matériaux de construction sont les suivantes :
+- des intermédiaires du commerce en bois et matériaux de construction correspondant au code APE 46. 13Z, issus de la NAF rév. 2 ;
 
-- poudres, agrégats, béton, éléments de structure ;
+- des sociétés holding, lorsque leur activité vise à l'encadrement et au contrôle de sociétés relevant du code APE ci-dessus ;
 
-- couverture, étanchéité ;
-
-- travaux publics, assainissement, épuration ;
-
-- menuiseries intérieures et extérieures ;
-
-- cloisons, plafonds ;
-
-- isolation bâtiment, isolation industrie ;
-
-- carrelage et revêtements ;
-
-- sanitaires ;
-
-- bois, panneaux ;
-
-- chauffage ;
-
-- outillage, électricité, quincaillerie ;
-
-- peinture, bricolage décoration, équipements de jardin...
-
-La présente convention ne s'applique pas si une famille de produits mentionnée ci-dessus constitue durablement à elle seule l'activité principale définie par le champ d'application professionnel d'une autre convention collective nationale.
+- des centrales d'achat non alimentaires dès lors que leur activité vise à gérer et à encadrer des entreprises ayant une activité en commerce de gros de bois, de matériaux de construction et d'appareils sanitaires.
 
 Il est rappelé que le code APE attribué par l'INSEE est donné à titre indicatif et n'a que la valeur d'une présomption, seule l'activité réelle principale de l'entreprise détermine, en vertu de la jurisprudence de la Cour de cassation, son assujettissement à un texte conventionnel.
