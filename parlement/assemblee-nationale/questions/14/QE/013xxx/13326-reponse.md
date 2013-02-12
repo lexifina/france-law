@@ -1,0 +1,9 @@
+# Réponse à la question n° 13326
+
+- Question : [13326](13326.md) — Question n° 13326 — télécommunications; internet; développement
+
+## Réponse
+
+*JO du 2013-02-12*
+
+L'honorable parlementaire attire l'attention de M. le ministre des outre-mer sur les suites de l'appel à candidatures lancé par le ministère en charge des communications électroniques qui doit aboutir au choix du (ou des) gestionnaire(s) des noms de domaines internet de premier niveau correspondant aux codes pays du territoire national. Plus particulièrement, la question porte sur la désignation du gestionnaire des extensions ultramarines. La direction générale de la compétitivité, de l'industrie et des services (DGCIS) est en charge de la procédure. Dans ce cadre, un appel à candidatures portant sur les onze lots, le . fr et les dix extensions ultramarines, prévu par l'article L. 45 du code des postes et des communications électroniques (CPCE) a été lancé le 20 mars 2012. Un comité d'experts, désigné par la ministre chargée de l'économie numérique et présidé par l'agence du patrimoine immatériel de l'État, a procédé à une analyse des candidatures. Suite à la remise du rapport du comité d'experts au Gouvernement, la ministre chargée de l'économie numérique, par arrêté du 25 juin 2012, a désigné l'association française pour le nommage internet en coopération (AFNIC) comme office d'enregistrement pour l'extension nationale « . fr ». Les extensions ultramarines, dont certaines seront ouvertes à cette occasion, permettent à chaque territoire de posséder sa propre identité sur l'internet mondial. En conséquence, le ministère des outre-mer attache une grande importance à la désignation du gestionnaire pour chacune de ces extensions. Le ministère des outre-mer a mis en place une procédure de désignation et, veillera à sa réalisation dans les meilleurs délais.
