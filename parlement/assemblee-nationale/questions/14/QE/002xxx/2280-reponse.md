@@ -1,0 +1,9 @@
+# Réponse à la question n° 2280
+
+- Question : [2280](2280.md) — Question n° 2280 — annuités liquidables; périodes de chômage; prise en compte
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Les périodes de chômage ne sont pas prises en compte par le régime de retraite des fonctionnaires territoriaux, la caisse nationale de retraites des agents des collectivités locales (CNRACL), car celles-ci sont prises en compte par le régime général de la caisse nationale d'assurance vieillesse (CNAV). Selon un principe constant, une même période de cotisation ou assimilée ne peut pas être prise en compte par plusieurs régimes de retraite de base. Le fonctionnaire perçoit donc sa pension pour les services effectifs qu'il a effectués dans la fonction publique. S'il a subi une période de chômage, celle-ci ouvre des droits au régime général et elle est prise en compte dans le calcul de la retraite de ce régime. Le fonctionnaire perçoit donc deux pensions, l'une de la CNRACL, l'autre de la CNAV. Par ailleurs, la période de chômage ne pouvant pas être décomptée dans la durée des services effectifs pris en compte pour la pension versée par la CNRACL, elle peut en revanche être prise en compte par la CNRACL pour le décompte de la durée d'assurance qui lui sert à déterminer si le fonctionnaire peut bénéficier ou non d'une surcote. En effet, en application de l'article 20 du décret n° 2003-1306 du 26 décembre 2003 relatif au régime de retraites des fonctionnaires affiliés à la CNRACL, la durée prise en compte pour le calcul de la décote ou de la surcote fait masse des durées d'assurance obtenues dans l'ensemble des régimes de retraite de base de l'assuré pour obtenir le maximum de pension au regard de la durée d'assurance de l'ensemble de sa vie professionnelle. Compte tenu de ces éléments, il n'est pas envisagé d'élargir les cas strictement limités de validation de services.
