@@ -1,0 +1,9 @@
+# Réponse à la question n° 12643
+
+- Question : [12643](12643.md) — Question n° 12643 — logements de fonction; statistiques
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Les administrations du ministère de l'égalité des territoires et du logement (METL), communes avec celles du ministère de l'écologie, du développement durable et de l'énergie (MEDDE), utilisent des logements de fonction principalement pour assurer les fonctions de gardiens d'immeubles hébergeant les services, ainsi que certaines fonctions d'encadrement contribuant à la gestion des crises dans les départements d'outremer. Le régime de gestion des logements de fonction attribués aux personnels de l'État a fait l'objet d'une réforme par décret du 9 mai 2012. La mise en application de cette réforme est en cours. Elle est conduite avec un souci de prise en compte de la situation des agents concernés au sein du ministère et en lien avec les services de France Domaine en charge du pilotage de cette réforme. À fin 2012, le nombre d'agents de ces services bénéficiant de logements de fonction est de 124 dont 94 sous le régime de la concession par nécessité absolue de service et 30 sous le régime de l'utilité de service. S'agissant de services communs, ces logements sont aussi retracés dans le dénombrement mentionné dans la réponse faite par la ministre de l'écologie, du développement durable et de l'énergie. À titre indicatif, le plafond d'emplois ministériel METL pour 2013 est fixé à 14 194 ETPT. Les établissements publics sous tutelle du ministère qui relèvent du champ du décret du 9 mai 2012 n'utilisent pas de logement de fonction.
