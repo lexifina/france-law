@@ -1,0 +1,9 @@
+# Réponse à la question n° 9735
+
+- Question : [9735](9735.md) — Question n° 9735 — instances de réflexion; statistiques
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Le comité de coordination stratégique en matière de retraites de l'État a été institué par le décret n° 2009-1054 du 26 août 2009 pour assurer de manière interministérielle le pilotage de la réforme de la gestion des retraites de l'État. Présidé par le directeur de la gestion publique, adjoint au directeur général des finances publiques, il réunit trois fois par an le directeur général des finances publiques, le directeur général de l'administration et de la fonction publique, le directeur du budget, les secrétaires généraux des ministères, ou leurs représentants. Le comité de coordination stratégique est une instance de pilotage et de concertation interministérielle visant à conduire une réforme d'ampleur dans les meilleures conditions de mise en oeuvre. Il ne dispose d'aucun effectif ou moyen financier. Au-delà du cas particulier faisant l'objet de la présente question, il convient de souligner que le Gouvernement souhaite réformer les pratiques de consultation préalable à la prise de décision et mettre un terme à l'inflation du nombre de commissions consultatives. Le comité interministériel de la modernisation de l'action publique du 18 décembre 2012 a ainsi fixé les orientations d'une nouvelle politique de la consultation. Conformément à ces orientations, chaque ministère dressera une cartographie faisant apparaître sa stratégie de consultation et examinera les possibilités de fusion ou de réorganisation des instances consultatives permettant d'en réduire le nombre et de renouveler les pratiques en privilégiant les modes de concertation ouverts ou informels. La présente réponse ne préjuge pas des décisions qui seront prises dans ce cadre.
