@@ -1,0 +1,9 @@
+# Réponse à la question n° 4300
+
+- Question : [4300](4300.md) — Question n° 4300 — planche à neige; monitorat
+
+## Réponse
+
+*JO du 2013-02-12*
+
+L'annexe VII de l'arrêté du 25 octobre 2004 fixant les conditions d'obtention de la partie spécifique du brevet d'Etat d'éducateur sportif du 1er degré, option « ski alpin » définit le snowboard, sous toutes ses formes, comme une activité dérivée du ski alpin. Il en résulte effectivement que son encadrement ne peut être assuré que par des moniteurs de ski alpin. La question ici soulevée n'est pas propre au snowboard. Elle se pose systématiquement dès lors qu'apparaissent et se développent de nouvelles pratiques, toutes activités sportives confondues. Ce n'est pas pour autant qu'apparaissent de nouveaux métiers. Ainsi, le métier d'éducateur sportif est fondé sur une approche générique des compétences. C'est le cas du métier de moniteur de ski alpin. En matière de certifications professionnelles et conformément aux dispositions de l'article L. 212-1 du code du sport relatif à l'obligation de qualification, les diplômes d'encadrement du champ des activités physiques ou sportives doivent garantir la sécurité des pratiquants et des tiers. Dans une telle approche, la professionnalisation de l'encadrement de l'activité garantit la sécurité des usagers des domaines skiables, à un double point de vue : - la formation transversale dispensée aux moniteurs de ski alpin leur confère la maîtrise de l'ensemble des techniques de glisse sur neige ; - l'éventail des activités couvertes par le monitorat de ski alpin étant suffisamment large pour générer des revenus pérennes, il constitue un gage de viabilité économique et d'employabilité. Les futurs moniteurs sont ainsi incités à entreprendre une formation certes conséquente, mais qui leur apportera l'ensemble des compétences permettant un encadrement des pratiquants en sécurité. Il importe donc que le snowboard reste considéré comme une activité dérivée du ski alpin.
