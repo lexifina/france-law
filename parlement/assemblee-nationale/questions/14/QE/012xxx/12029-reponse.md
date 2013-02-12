@@ -1,0 +1,9 @@
+# Réponse à la question n° 12029
+
+- Question : [12029](12029.md) — Question n° 12029 — visite du Premier ministre; novembre 2012; bilan
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Le déplacement récent à Berlin a permis d'expliquer la cohérence et la détermination de l'action du Gouvernement en faveur du redressement de notre pays. Cette visite a été l'occasion d'expliquer le calendrier des réformes conduites par le Gouvernement, l'importance attachée à l'assainissement de nos finances publiques et la mise en place du « nouveau modèle français ». Dans les entretiens avec le Président fédéral, la Chancelière, le ministre Schäuble, le SPD, ainsi qu'avec les syndicats et les entrepreneurs, un tour d'horizon a été fait des questions européennes, de la situation politique et sociale en Allemagne et de la politique énergétique. Lors du colloque des entrepreneurs, organisé par le Süddeutsche Zeitung, l'accent a été mis sur les efforts entrepris pour améliorer la compétitivité de la France et relancer le dialogue social. Sur le plan européen, a été souligné la priorité du redressement de la Grèce et de la stabilisation de l'Espagne ainsi que le renforcement de la coordination économique et budgétaire et à la mise en oeuvre de l'union bancaire. Lors des entretiens avec des dirigeants d'entreprises françaises implantées en Allemagne, ont été évoquées les différences en termes de protection sociale entre les deux pays, les différents systèmes de formation, le rôle des syndicats et les différences de politique énergétique. Sur le 50e anniversaire du traité de l'Élysée, l'entretien avec la Chancelière a permis d'insister sur l'importance de tracer, à cette occasion, quelques grandes orientations susceptibles de mobiliser la jeunesse des deux pays en s'inscrivant étroitement dans l'appartenance commune de la France et de l'Allemagne à l'Europe.
