@@ -1,0 +1,9 @@
+# Réponse à la question n° 10754
+
+- Question : [10754](10754.md) — Question n° 10754 — statistiques
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Le ministère de l'égalité des territoires et du logement a été créé en mai 2012. Antérieurement, les compétences qui lui sont dévolues étaient exercées, pour l'essentiel, sous l'autorité du ministre de l'écologie, du développement durable, des transports et du logement (MEDDTL). Dans le contexte de la réorganisation des compétences ministérielles, les emplois relevant en loi de finances pour 2012 du plafond d'emplois du MEDDTL, 59 566 équivalent temps plein travaillé (ETPT), ont été répartis entre le ministère de l'égalité des territoires et du logement et celui du ministère de l'écologie, du développement durable et de l'énergie à hauteur, respectivement, de 14 676 ETPT et de 44 890 ETPT. Les plafonds d'emplois du MEDDTL étaient de 61 885 ETPT en loi de finances initiale pour 2011 et de 66 224 ETPT en loi de finances initiale pour 2010. Le nombre d'agents en poste au 31 décembre 2011 dans les services et administrations, hors opérateurs, du MEDDTL s'élevait à 55 656, dont 3 135 agents contractuels. Au 31 décembre 2010, le MEDDTL comptait 62 074 agents dont 3 262 personnels contractuels. L'écart entre le nombre d'agents en poste en 2010 et en 2011 s'explique, notamment, par la deuxième vague de transfert des agents des parcs (décentralisation), à hauteur de plus de 3 600 emplois et la prise en compte en 2010 des agents des exdirections régionales de l'industrie, de la recherche et de l'environnement (DRIRE), dont la gestion a été reprise en 2011 par le ministère chargé des finances, soit environ 1 000 emplois. Par ailleurs, il convient de prendre en compte les mesures de périmètre et de transferts de la loi de finances initiale pour 2011 à hauteur de 400 emplois environ et le schéma d'emploi réalisé en 2011, environ 1 300 emplois.
