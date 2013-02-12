@@ -1,0 +1,9 @@
+# Réponse à la question n° 14767
+
+- Question : [14767](14767.md) — Question n° 14767 — financement
+
+## Réponse
+
+*JO du 2013-02-12*
+
+En l'état actuel du droit, le conseil d'administration de chaque établissement foncier public (EPF) arrête annuellement le produit global de la taxe spéciale d'équipement (TSE) attendu, dans la limite d'un plafond fixé à 20 euros par habitant. L'EPF Lorraine, à l'instar des EPF Normandie et PACA, est soumis à un régime particulier dans la mesure où le produit global de sa TSE est fixé en loi de finances. La plupart des EPF dispose donc, via leur conseil d'administration, de marges de manoeuvre importantes afin d'augmenter leur montant de TSE en cas d'accroissement de leur activité. Le produit moyen de TSE perçu annuellement par les EPF sur l'ensemble du territoire s'élève en effet à 9 euros par habitant. Il importe de souligner également que la loi relative à la mobilisation du foncier public en faveur du logement prévoit désormais la possibilité d'affecter aux EPF d'État, à l'instar des EPF locaux, les prélèvements effectués sur les communes qui n'ont pas atteint leurs objectifs de production de logement social au titre de la loi relative à la solidarité et au renouvellement urbains. Enfin, après une montée en charge des acquisitions, les EPF accroissent désormais leurs cessions foncières. Les produits de cession ainsi dégagés leur permettent de reconstituer les capacités financières nécessaires à de nouvelles acquisitions et de financer en propre une partie de leur activité. Aussi, le projet de loi relatif au logement et à l'urbanisme qui sera présenté par la ministre de l'égalité des territoires et du logement au Parlement au cours de l'année 2013 s'attachera à ce que l'ensemble du territoire soit couvert par ces opérateurs fonciers dont le modèle financier n'a pas vocation à être remis en cause.
