@@ -1,0 +1,9 @@
+# Réponse à la question n° 11895
+
+- Question : [11895](11895.md) — Question n° 11895 — exonérations; coût; plafonnement
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Les produits énergétiques consommés par les secteurs visés par la question ne sont pas exonérés de la taxe intérieure de consommation des produits énergétiques (TICPE) mais bénéficient uniquement de taux réduits ou d'une procédure de remboursement partiel. Ainsi, le gazole destiné à être utilisé sous condition d'emploi bénéficie d'un taux réduit de la TICPE fixé à 7,20 euros par hectolitre. En outre, les agriculteurs bénéficient d'une procédure de remboursement partiel de la TICPE sur leurs achats de fioul lourd et de gazole non routier. De la même manière, les transporteurs routiers de marchandises et de voyageurs bénéficient d'un remboursement partiel de la TICPE sur leurs achats de gazole. Ces mesures sont destinées à atténuer la hausse du prix de certains produits énergétiques, l'instabilité du prix de l'énergie et à tenir compte de la crise économique qui frappe ces secteurs d'activités. En outre, il faut rappeler que, depuis le 1er janvier 2012 le tarif de la TICPE du gazole sous condition d'emploi, a été augmenté, passant de 5,66 à 7,20 euros par hectolitre. Cette mesure devrait générer des recettes supplémentaires de l'ordre de 70 M€ en année pleine. De plus, l'article 61 de la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative a restreint le champ d'application de la procédure de remboursement partiel de la TICPE en faveur des agriculteurs en excluant les achats de fioul domestique dont l'utilisation est désormais interdite à des fins professionnelles. Sauf à augmenter de manière significative la facture énergétique de ces secteurs, il n'est pas, à ce jour, envisagé de supprimer brutalement ces dispositifs qui feront néanmoins l'objet de réflexion dans le cadre du comité pour la fiscalité écologique.
