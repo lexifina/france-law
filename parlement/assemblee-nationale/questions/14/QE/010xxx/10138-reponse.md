@@ -1,0 +1,9 @@
+# Réponse à la question n° 10138
+
+- Question : [10138](10138.md) — Question n° 10138 — Rocade; Marseille; financement
+
+## Réponse
+
+*JO du 2013-02-12*
+
+La Région ProvenceAlpesCôte d'Azur, le Conseil général des Bouchesdu-Rhône et la Communauté urbaine Marseille Provence Métropole se sont d'ores et déjà engagés aux côtés de l'État pour financer le projet de rocade L2. Cet engagement s'est concrétisé par la signature, le 13 août 2010, d'un protocole d'accord fixant les engagements de chacune des parties et représentant un montant total de 730 M€. Outre le contrat de partenariat pour la rocade L2, ce protocole traite également des travaux dits « connexes » à cette infrastructure, qui seront réalisés en dehors du contrat et en partie sous maîtrise d'ouvrage des collectivités territoriales. L'engagement des parties a permis à l'État de lancer la procédure de dévolution du contrat de partenariat. Cette procédure vient d'entrer dans sa dernière phase avec la remise aux trois candidats, le 9 octobre dernier, du dossier de demande des offres finales. C'est ce Gouvernement qui aura permis l'achèvement d'une infrastructure indispensable à Marseille dont les premiers travaux datent de plus de 20 ans. Les propositions des candidats sont attendues pour les toutes premières semaines de 2013. Le contrat pourrait ainsi entrer en vigueur à l'été 2013. Par ailleurs, une grande part des travaux relatifs au tronçon Est de l'itinéraire a déjà été réalisée sous maîtrise d'ouvrage publique. Le contrat de partenariat prévoit donc, et de manière chronologique, les travaux nécessaires à l'achèvement de la L2 Est ainsi que la conception et la construction de la totalité de la L2 Nord. La durée des travaux à mener sur la L2 Est est estimée à un an. Avec une entrée en vigueur du contrat l'été prochain, la rocade L2 sera donc partiellement en service en 2016 du fait de la mise en service à 2x2 voies de la section est.
