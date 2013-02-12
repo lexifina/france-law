@@ -1,11 +1,11 @@
 # Article 1er
 
-Le présent accord est applicable aux entreprises entrant dans le champ d'application de la convention collective nationale des coopératives vinicoles et leurs unions du 22 avril 1986.
+Le présent accord est applicable aux entreprises entrant dans le champ d'application de la convention collective nationale des coopératives vinicoles et leurs unions du 22 avril 1986, tel que prévu à l'article 1er de ladite convention à l'exclusion de la dernière phrase.
 
-Les entreprises, organismes et personnes n'entrant pas dans le champ d'application de la convention collective peuvent appliquer l'accord ou bénéficier de celui-ci dès lors que :
+Les entreprises, organismes, n'entrant pas dans le champ d'application de l'accord peuvent appliquer volontairement ledit accord dès lors :
 
-– les entreprises ou organismes sont affiliés à la MSA et ne disposent pas d'un régime de frais de santé antérieur plus favorable, collectif ou individuel, que le présent accord ;
+– qu'ils relèvent de la MSA ;
 
-– les personnes relèvent du régime de la MSA et sont d'accord pour bénéficier du régime prévu par le présent accord.
+– qu'ils ne relèvent pas d'une convention collective ou d'un accord collectif mettant en œuvre un régime frais de santé collectif et obligatoire.
 
-Sont en particulier visés les sociétés annexes et filiales des caves coopératives et unions, les organismes professionnels fédérant au plan national, régional ou départemental les caves coopératives et leurs unions, les cadres dirigeants relevant de l'APN, les VRP exclusifs.
+Sont en particulier visés les sociétés annexes et filiales des caves coopératives et unions, et les organismes professionnels fédérant au plan national, régional ou départemental les caves coopératives et leurs unions.
