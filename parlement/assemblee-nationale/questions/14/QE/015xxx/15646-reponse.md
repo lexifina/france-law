@@ -1,0 +1,9 @@
+# Réponse à la question n° 15646
+
+- Question : [15646](15646.md) — Question n° 15646 — revalorisation
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Une politique volontariste de revalorisation des pensions a été menée depuis 1994 par les Gouvernements successifs. En particulier, c'est dans le cadre d'un plan quinquennal sur les retraites agricoles mené entre 1997 et 2002 qu'a été votée la loi du 4 mars 2002 tendant à la création d'un régime de retraite complémentaire obligatoire (RCO) pour les non-salariés agricoles. Cette loi a constitué une avancée sociale fondamentale pour le monde agricole. Les avancées de ces dernières années restent insuffisantes et l'amélioration de la situation des agriculteurs retraités les plus modestes est une préoccupation du Gouvernement, conformément aux engagements du Président de la République. En effet, dans un courrier du 17 avril 2012 adressé aux différentes organisations professionnelles agricoles, le Chef de l'État a pris un certain nombre d'engagements de campagne visant à « remettre en chantier un plan quinquennal relatif aux retraites agricoles ». Ce plan sera élaboré en cohérence avec le débat national sur les retraites annoncé au terme de la conférence sociale de juillet 2012. Sa mise en oeuvre devra ainsi articuler l'objectif de justice sociale à l'exigence de responsabilité financière, dans une approche globale et cohérente avec la réforme générale des retraites qui sera menée en 2013. C'est dans ce cadre que seront étudiées les conditions de l'extension du régime de RCO des non-salariés agricoles aux collaborateurs d'exploitation et aux aides familiaux déjà retraités. C'est également dans ce cadre que seront étudiées les modalités selon lesquelles pourraient être reversés aux conjoints survivants les points de RCO attribués à titre gratuit aux chefs d'exploitation ou d'entreprise agricole décédés avant la liquidation de leurs droits à pension.
