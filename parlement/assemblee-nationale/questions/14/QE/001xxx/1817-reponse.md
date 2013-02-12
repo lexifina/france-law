@@ -1,0 +1,9 @@
+# Réponse à la question n° 1817
+
+- Question : [1817](1817.md) — Question n° 1817 — classement; déclassement; réglementation
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Depuis la modification opérée par la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement, l'article L.141-3 du code de la voirie routière relatif au classement, au déclassement des voies communales, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des voies, prévoit dans son troisième alinéa l'organisation, dans certaines hypothèses, d'une enquête publique conformément aux dispositions du code de l'expropriation pour cause d'utilité publique. Les dispositions des articles R. 141-4 et suivants du code de la voirie routière, anciennement applicables aux procédures visées à l'article L.141-3 précité, prévoient une enquête similaire à une enquête préalable à la déclaration d'utilité publique notamment dans la composition du dossier, et, lorsque le projet est relatif à la délimitation ou à l'alignement des voies communales, un dossier plus complet comprenant les pièces nécessaires à une enquête parcellaire. En effet, les procédures d'alignement sont généralement utilisées pour procéder à des acquisitions foncières. A l'occasion de la réforme des enquêtes publiques opérée par la loi précitée, le législateur n'a pas entendu remettre en cause fondamentalement les modalités de déroulement des procédures prévues dans des législations diverses mais seulement de les unifier dans la mesure où elles présentent de nombreux traits communs. Par conséquent, conformément aux dispositions du code de l'expropriation relatives à l'enquête préalable à la déclaration d'utilité publique, l'enquête publique prévue à l'article L.141-3 du code de la voirie routière doit être désormais suivie et être complétée, en cas d'acquisitions foncières, d'une enquête parcellaire.
