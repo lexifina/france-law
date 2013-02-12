@@ -1,0 +1,9 @@
+# Réponse à la question n° 9088
+
+- Question : [9088](9088.md) — Question n° 9088 — taxe foncière; installations solaires; clarification
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Conformément aux dispositions combinées des articles 1380 et 1381-1° du code général des impôts (CGI), sont imposables à la taxe foncière sur les propriétés bâties, les constructions fixées au sol à perpétuelle demeure et présentant le caractère de véritables bâtiments ainsi que les ouvrages en maçonnerie présentant le caractère de véritables constructions. D'une manière générale, les ouvrages en maçonnerie se caractérisent notamment par leur nature, leur importance et leur fixité. Ainsi, les ouvrages en maçonnerie servant de support aux outillages ou moyens matériels d'exploitation sont susceptibles d'être imposés à la taxe foncière sur les propriétés bâties à l'exclusion des matériels qu'ils supportent. L'imposition de la structure d'une ferme solaire à la taxe foncière sur les propriétés bâties dépend donc de l'existence, ou non, d'ouvrages en maçonnerie et de leurs caractéristiques. Ces éléments sont appréciés par l'administration sous le contrôle du juge de l'impôt. S'agissant du terrain d'assise sur lequel est installée la ferme solaire, l'article 1394-7° du code précité prévoit une exonération de taxe foncière sur les propriétés non bâties en faveur des sols et terrains passibles de la taxe foncière sur les propriétés bâties. A cet égard, sont soumis à la taxe foncière sur les propriétés bâties, les terrains non cultivés employés à un usage commercial ou industriel, tels que chantiers, lieux de dépôt de marchandises et autres emplacements de même nature en application de l'article 1381-5° du même code. Il résulte de ces dispositions que le terrain sur lequel repose la ferme solaire est susceptible d'être imposable à la taxe foncière sur les propriétés bâties lorsqu'il est employé à un usage commercial.
