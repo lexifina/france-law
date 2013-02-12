@@ -1,0 +1,9 @@
+# Réponse à la question n° 12857
+
+- Question : [12857](12857.md) — Question n° 12857 — ligne Rhin-Rhône; Pontarlier; desserte
+
+## Réponse
+
+*JO du 2013-02-12*
+
+La filiale Lyria issue d'un partenariat entre la SNCF et les chemins de fer fédéraux (CFF) exploite différentes relations à grande vitesse entre la France et la Suisse, dont certaines assurent quotidiennement la desserte du Haut-Doubs. Chaque jour, quatre allers-retours entre Paris et Lausanne desservent ainsi la gare de Frasne tandis qu'un aller-retour entre Paris, Neuchâtel et Berne dessert également Pontarlier. Dans le cadre de réflexions portant sur le devenir de ces relations, les opérateurs ferroviaires ont effectivement envisagé la possibilité, d'une part de dérouter les TGV Paris - Berne via Bâle et la LGV Rhin-Rhône compte tenu des temps de parcours compétitifs permis par cette nouvelle infrastructure ; d'autre part, à plus long terme et dans l'attente de travaux prévus sur le réseau ferré Suisse, de repositionner certains TGV Paris - Lausanne via Genève et la ligne du Haut-Bugey. Au service annuel 2013, aucune modification de ces dessertes n'est intervenue et aucune décision n'a de surcroît été prise quant aux évolutions ultérieures. A la demande du ministre des transports, le président de la SNCF s'est engagé à ce qu'aucune révision du niveau de desserte TGV du Haut-Doubs, à Pontarlier et ailleurs, n'intervienne sans une concertation préalable approfondie avec l'ensemble des acteurs locaux. Garant du maintien d'une desserte équilibrée des territoires, le Gouvernement rappelle qu'aucun schéma de desserte existant ne saurait être modifié par la SNCF sans que les conséquences et les alternatives possibles ne soient en amont examinées et partagées avec les acteurs du Haut-Doubs et sans information préalable du ministre délégué aux transports, à la mer et à la pêche.
