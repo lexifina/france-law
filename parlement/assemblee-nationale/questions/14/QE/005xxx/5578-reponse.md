@@ -1,0 +1,9 @@
+# Réponse à la question n° 5578
+
+- Question : [5578](5578.md) — Question n° 5578 — quartiers défavorisés; rapport; propositions
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Lors du conseil des ministres du 22 août 2012, le Premier ministre a annoncé que la recommandation de la Cour des comptes concernant la signature de conventions bilatérales entre le ministre chargé de la ville et les ministres concernés par cette politique serait mise en oeuvre. Il s'agit de faciliter la mobilisation des politiques de droit commun en faveur des quartiers défavorisés. Ces conventions permettront ainsi à chaque ministre de formaliser pour trois années son engagement au bénéfice des territoires de la politique de la ville en termes d'objectifs, de moyens mobilisés et de méthode. Des projets de convention portant sur l'éducation et l'emploi sont en cours d'examen. La démarche est étendue à d'autres ministères (intérieur, santé, culture, transports, etc.). La circulaire du Premier ministre du 30 novembre 2012 confirme la priorité accordée par le Gouvernement à la mobilisation des moyens au profit des quartiers concernés, et cadre précisément le dispositif retenu. Parallèlement, la concertation sur le devenir de la politique de la ville engagée le 11 octobre dernier à Roubaix a permis de démarrer une réflexion sur le contenu de l'action publique en faveur des quartiers de la politique de la ville. Dans le cadre de cette concertation, le groupe de travail Projet de territoire permet de passer en revue les grands domaines d'intervention de l'État (emploi, santé, éducation, habitat, jeunesse, culture, sports, etc.), afin de formuler des préconisations opérationnelles concernant les priorités et modes d'intervention des différentes politiques sectorielles au bénéfice des territoires prioritaires. Les réflexions de ce groupe devraient être porteuses d'enseignements pour la rédaction des futures conventions.
