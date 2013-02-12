@@ -1,0 +1,9 @@
+# Réponse à la question n° 12891
+
+- Question : [12891](12891.md) — Question n° 12891 — fonds d'assurance VIVEA; gouvernance
+
+## Réponse
+
+*JO du 2013-02-12*
+
+Le fonds d'assurance formation VIVEA permet aux entrepreneurs agricoles de développer de nouvelles compétences afin d'accompagner l'évolution de leurs exploitations, dans une logique de développement durable. Le conseil d'administration de VIVEA élabore le cadre de la politique de la formation professionnelle continue à destination de ses contributeurs et en définit les orientations générales dans son plan stratégique triennal. Dans ce cadre, les élus VIVEA, au sein de leurs comités territoriaux, définissent leurs priorités de financement au regard des besoins des contributeurs de leurs territoires. Depuis 2009, le fonds d'assurance formation VIVEA connaît un fort développement de son activité. VIVEA a pu satisfaire la demande croissante de formation des professionnels grâce à l'augmentation de son budget composé des contributions et de cofinancements européens. L'ensemble des thèmes de formation a connu, indépendamment du « certiphyto », une augmentation significative des participations aux stages. Au total, la proportion d'exploitants qui participent à des formations est passée de 12 % en 2009 à 21,5 % en 2011. Les organisations agricoles sont représentées au sein du bureau et du conseil d'administration de VIVEA. Elles sont donc associées à la gestion du fonds. La volonté de VIVEA de faire accéder le plus grand nombre à des actions de formation continue est affirmée dans son 4e plan stratégique triennal 2013-2015, en particulier par le développement de sa politique qualité formation. Enfin, VIVEA réaffirme l'enjeu d'accompagnement des agriculteurs par la formation professionnelle continue pour conforter leurs exploitations agricoles en alliant performance économique et performance environnementale.
