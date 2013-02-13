@@ -1,0 +1,74 @@
+# Pouvoirs publics : représentation des Français établis hors de France
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29815
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/representation_expatries
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-376.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-02-20 : 1er dépôt d'une initiative. (PRJLSNR5S199B0376)
+  - 2013-02-20 : Etude d'impact (ETDISNR5S199B0376)
+  - 2013-02-20 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-02-20 : Renvoi en commission au fond
+      - 2013-02-13 : Nomination de rapporteur
+      - 2013-03-13 : Dépôt de rapport (RAPPSNR5S199B0376)
+  - Discussion en séance publique
+    - 2013-03-18 : Discussion en séance publique
+    - 2013-03-19 : Discussion en séance publique
+    - 2013-03-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-03-20 : Dépôt d'une initiative en navette (PRJLANR5L14B0834)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-03-20 : Renvoi en commission au fond
+      - 2013-03-13 : Nomination de rapporteur
+      - 2013-04-02 : Réunion de commission
+      - 2013-04-03 : Réunion de commission
+      - 2013-05-14 : Réunion de commission
+      - 2013-04-03 : Dépôt de rapport (RAPPANR5L14B0884, PRJLANR5L14BTC0884)
+  - Discussion en séance publique
+    - 2013-05-14 : Discussion en séance publique
+    - 2013-05-14 : Discussion en séance publique
+    - 2013-05-14 : Décision
+- deuxième lecture
+  - 2013-05-15 : Dépôt d'une initiative en navette (PRJLSNR5S199B0578)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-15 : Renvoi en commission au fond
+- Commission Mixte Paritaire
+  - 2013-05-15 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-05-22 : Nomination de rapporteur
+    - 2013-05-22 : Dépôt du rapport d'une CMP (RAPPANR5L14B1054)
+    - 2013-05-22 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0605)
+  - 2013-05-23 : Décision de la CMP
+- Nouvelle Lecture
+  - 2013-05-23 : Dépôt d'une initiative en navette (PRJLANR5L14B1055)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-23 : Renvoi en commission au fond
+      - 2013-06-12 : Réunion de commission
+      - 2013-06-21 : Réunion de commission
+      - 2013-06-12 : Dépôt de rapport (RAPPANR5L14B1129, PRJLANR5L14BTC1129)
+  - Discussion en séance publique
+    - 2013-06-21 : Discussion en séance publique
+    - 2013-06-21 : Décision
+- Nouvelle Lecture
+  - 2013-06-21 : Dépôt d'une initiative en navette (PRJLSNR5S199B0684)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-21 : Renvoi en commission au fond
+      - 2013-06-25 : Dépôt de rapport (RAPPSNR5S199B0686)
+  - Discussion en séance publique
+    - 2013-06-27 : Discussion en séance publique
+    - 2013-06-27 : Décision
+- Conseil constitutionnel
+  - 2013-06-28 : Saisine du conseil constitutionnel
+  - 2013-07-18 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-07-22 : Promulgation d'une loi
