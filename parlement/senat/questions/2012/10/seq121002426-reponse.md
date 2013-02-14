@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002426
+
+- Question : [SEQ121002426](seq121002426.md) — Maintien de la perception de la redevance d'assainissement en l'absence de bon fonctionnement d'une station d'épuration
+
+## Réponse
+
+*Intérieur, JO du 2013-02-14, page 527*
+
+En vertu de l'article L. 2224-7 du code général des collectivités territoriales, « tout service assurant tout ou partie des missions définies à l'article L. 2224-8 est un service d'assainissement ». Les missions relatives à l'assainissement collectif comprennent le contrôle des raccordements au réseau public de collecte, la collecte, le transport, l'épuration des eaux usées et l'élimination des boues produites (article L. 2224-8). Ainsi, l'épuration des eaux usées ne constitue qu'une composante du service public d'assainissement collectif. Or en vertu de l'article R. 2224-19 du code général des collectivités territoriales, « tout service public d'assainissement, quel que soit son mode d'exploitation, donne lieu à la perception de redevances d'assainissement établies dans les conditions fixées par les articles R. 2224-19-1 à R. 2224-19-11 ». La redevance d'assainissement collectif doit couvrir les charges consécutives aux investissements, au fonctionnement du service et au renouvellement des ouvrages et des équipements nécessaires à la fourniture du service (article L. 2224-12-3 du code général des collectivités territoriales), tel que la construction d'une station de lagunage. Cette redevance trouve sa contrepartie directe dans le service rendu aux usagers, tel que l'évacuation des effluents domestiques, et doit être proportionnée au coût du service rendu. En tout état de cause, le service public de l'assainissement étant géré sous forme de service public industriel et commercial, son budget doit être équilibré en recettes et en dépenses, au moyen de la redevance perçue auprès des usagers (articles L. 2224-1 et L. 2224-11 du code général des collectivités territoriales).
