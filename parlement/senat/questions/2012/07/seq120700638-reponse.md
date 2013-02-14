@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700638
+
+- Question : [SEQ120700638](seq120700638.md) — Financement des aires d'accueil des gens du voyage
+
+## Réponse
+
+*Intérieur, JO du 2013-02-14, page 523*
+
+La loi du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage prévoit une aide financière de l'Etat aux communes concernées ou aux établissements publics de coopération intercommunale compétents pour les aider à mettre en œuvre le dispositif d'accueil destiné aux gens du voyage. Conformément à l'article 4 de la loi du 5 juillet 2000 et au décret n° 2001-541 du 25 juin 2001 relatif au financement des aires d'accueil destinées aux gens du voyage, la subvention de l'Etat était plafonnée à 70 % de 15 245 € par place réalisée. Ce montant ne correspond pas toujours à 70 % du coût de réalisation qui est très variable suivant la localisation du terrain, les aménagements de viabilisation qu'il requiert et son propriétaire initial. Le coût global de l'aire d'accueil de Volstroff, réalisée sous maîtrise d'ouvrage de la communauté de communes de l'arc mosellan, s'est élevé à 949 426 €. Cet équipement a bénéficié d'une subvention de l'Etat de 294 322 € pour les 30 places réalisées. L'aire d'accueil de Volstroff, mise en service en mars 2011, permet aux gens du voyage de séjourner dans des conditions décentes car chaque place est dotée d'un accès aisé aux équipements sanitaires ainsi qu'à l'alimentation en eau potable et à l'électricité. En contrepartie, les occupants versent un droit d'usage et règlent leur consommation de fluides. La subvention de l'Etat peut être complétée par des subventions complémentaires de la région, du département et des caisses d'allocations familiales. Il doit enfin être rappelé que la compétence en matière d'aire d'accueil des gens du voyage relève spécifiquement des communes et qu'il n'est donc pas anormal que des moyens soient mobilisés dans cette perspective par les collectivités territoriales.
