@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700512
+
+- Question : [SEQ120700512](seq120700512.md) — Problème d'application de la nomenclature M22 à un EHPAD réalisé dans le cadre d'un partenariat public-privé
+
+## Réponse
+
+*Budget, JO du 2013-02-14, page 509*
+
+Dans le cadre des contrats de partenariat public/privé (PPP) souscrits par les établissements et services sociaux et médico-sociaux (ESSMS) publics, la partie de la rémunération des contrats relative au coût de l'investissement réalisé s'enregistre au débit du compte 235 « Immobilisations en cours - Part investissement PPP » dans la mesure où elle finance un bien en cours de construction. Après la mise en service du bien, la dépense s'impute au compte 1675 « Dettes PPP ». Elle constitue donc une dépense de la section d'investissement et doit à ce titre être exclusivement financée par une recette d'investissement, comme le précisent les articles R. 314-11 et R. 314-15 du code de l'action sociale et des familles (CASF). Le CASF ne prévoit pas la possibilité de transférer une recette de la section d'exploitation en section d'investissement. Dès lors, un EHPAD doit donc prévoir, dans son budget, des ressources d'investissement pour financer la part correspondante d'un contrat de PPP. Pour cela, il dispose notamment des recettes suivantes (article R. 314-11 du CASF) : le résultat cumulé excédentaire de la section d'investissement ; l'affectation du résultat excédentaire de la section d'exploitation de l'exercice budgétaire précédent ; les dotations et subventions accordées au projet ; les emprunts dans le respect des règles relatives à l'équilibre réel ; les dotations aux amortissements et provisions qui constituent le complément de l'autofinancement de l'établissement ou du service. Ces dotations couvriront ultérieurement le paiement des sommes restant dues au titre de la part « Investissement » à l'issue de la mise en service du bien objet du « PPP ».
