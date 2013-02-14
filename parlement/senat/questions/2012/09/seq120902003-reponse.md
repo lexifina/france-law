@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120902003
+
+- Question : [SEQ120902003](seq120902003.md) — Fréquence de ramassage des ordures ménagères
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2013-02-14, page 512*
+
+L'article R. 2224-23 du code général des collectivités territoriales précise l'obligation pour les zones agglomérées de plus de cinq cents habitants de mettre en place une collecte des ordures ménagères en porte à porte au moins une fois par semaine. On entend par zone agglomérée une zone présentant une continuité du tissu bâti sans coupure de plus de 200 mètres entre deux constructions. Cette disposition importante permet d'assurer un service de gestion des déchets garant de qualité et de proximité vis à vis des citoyens. Pour autant, le développement de modalités de gestion complémentaire peut participer à l'atteinte des objectifs de protection de l'environnement et de la santé humaine. Par exemple, la disposition des points d'apport volontaires à proximité de chaque habitant et le retrait des biodéchets dans les ordures ménagères peuvent justifier la mise en place d'une fréquence de collecte moins soutenue. L'article R. 2224-29 du code général des collectivités territoriales permet au préfet, après avis des conseils municipaux intéressés, d'autoriser des dispositions dérogeant temporairement à la collecte hebdomadaire. Un premier projet de modification du décret, mis en consultation en septembre 2011, a recueilli de nombreuses remarques qui ont été intégrées au nouveau projet de modification. Il précise le cadre de la dérogation à l'obligation de collecte hebdomadaire tout en harmonisant les spécificités des territoires ruraux aux besoins d'un service de gestion des déchets de qualité. La consultation sur ce projet de modification du décret vient d'être lancée auprès des représentants des collectivités et des fédérations de professionnels concernés et sa publication est envisagée pour la fin du premier semestre 2013.
