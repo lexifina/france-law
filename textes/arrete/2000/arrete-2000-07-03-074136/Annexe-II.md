@@ -172,6 +172,8 @@ Entreprise SEMT Pielstick, route de Saint-Germain, 18320 Jouet-sur-Aubois, de 19
 
 Fofumi, ZI les Muids, 45160 Olivet, de 1969 à 1985 ;
 
+GUYARD SAS, Ancienne Gare, 36110 Moulins-sur-Céphons : de 1978 à 1993 ;
+
 Hermann Moritz, 4, rue du Stade, 28480 Chassant, de 1964 à 1986 ;
 
 Prolifix, avenue du Général-Patton, 45330 Malesherbes : de 1979 à 1983 ;
@@ -680,6 +682,8 @@ Babcock Sacom, 775, rue André-Ampère, 13852 Aix-en-Provence : de 1929 à 1996 
 
 BP Chemicals, BP 6,13117 Lavera, de 1970 à 1977 ;
 
+CABOT France SA puis CABOT France SAS, BP 39, CD 21, CS 30039, route départementale 21,13130 Berre-l'Etang/13131 Berre-l'Etang Cedex : de 1959 à 1996 ;
+
 Chassimetal SA, Item SA, Item Centre SA, Ceric Thermic, 2208, route de Grasse, 06600 Antibes, lieudit Font de Cine, chemin de Saint-Bernard, 06220 Vallauris, de 1953 à 1996 ;
 
 Chaud et Froid, Les Pennes, Mirabeau, 13170 La Gavotte : de 1970 à 1986 ;
@@ -747,6 +751,8 @@ Société provençale de matériel inoxydable (SPMI), devenue Glitsch France, pu
 SNIFI/ EFI, agence quartier Saint-Estève, 13130 Berre-l'Etang, de 1965 à 1994 ;
 
 SNIFI/ EFI, BP 61,13110 Port-de-Bouc, de 1965 à 1990.
+
+SOREM ZI de Toulon Est, 83087 Toulon Cedex : de 1970 à 1983 ; puis SOCMEL 140, avenue Louis-Lagrange, ZI de Toulon Est, 83088 Toulon Cedex puis SOCMEL SA ZAC des Playes Est, 83500 La Seyne : de 1984 à 1997 ;
 
 Rhône-Alpes
 
