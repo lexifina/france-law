@@ -1,0 +1,9 @@
+# Réponse à la question n° 5415
+
+- Question : [5415](5415.md) — Question n° 5415 — accidents domestiques; lutte et prévention
+
+## Réponse
+
+*JO du 2013-02-19*
+
+L'institut de veille sanitaire (inVS) réalise une enquête permanente sur les accidents de la vie courante (étude EPAC) qui touchent préférentiellement les enfants de moins de 15 ans et les personnes de plus de 65 ans. Parmi ces accidents, les brûlures ont conduit à 11 984 hospitalisations en France métropolitaine, les hospitalisations des enfants de 0 à 4 ans représentant 31 % de l'ensemble en 2009. Des actions de sensibilisation et de prévention ont été développées avec des supports variés. Le site internet, www. prevention-maison. fr, créé par l'institut national de prévention et d'éducation pour la santé (INPES), participe à la prévention des accidents domestiques dans l'habitat et informe notamment sur le risque de brûlure chez les enfants. Ce sujet est également pris en considération sur le site dédié à la prévention des accidents de la vie courante, www. stopauxaccidentsquotidiens. fr, fondé conjointement par la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), l'institut de veille sanitaire (InVS), la commission de la sécurité des consommateurs (CSC), l'INPES, l'institut national de la consommation (INC) et la direction générale de la santé (DGS). La prévention des brûlures chez les jeunes enfants a également été prise en compte par l'INPES dans deux brochures dédiées à la prévention des accidents de la vie courante chez les enfants de moins de 6 ans. Des actions de prévention régionales ou locales peuvent également être réalisées à l'inititiative des agences régionales de santé, en lien avec leurs partenaires. Afin de limiter le risque de brûlure, des dispositions réglementaires ont par ailleurs été prises pour limiter la température maximale de l'eau chaude sanitaire, en particulier dans les pièces destinées à la toilette.
