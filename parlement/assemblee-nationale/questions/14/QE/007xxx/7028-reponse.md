@@ -1,0 +1,9 @@
+# Réponse à la question n° 7028
+
+- Question : [7028](7028.md) — Question n° 7028 — report en 2015; électeurs sénatoriaux; impacts
+
+## Réponse
+
+*JO du 2013-02-19*
+
+L'article L. 280 du code électoral dispose que « les sénateurs sont élus dans chaque département par un collège électoral composé : 1° des députés ; 2° des conseillers régionaux et des conseillers de l'Assemblée de Corse [...] 3° des conseillers généraux ; 4° des délégués des conseils municipaux ou des suppléants de ces délégués ». Par ailleurs, la loi organique n° 2003-696 du 30 juillet 2003 a prévu que le Sénat serait renouvelable par moitié. A cet effet, les sénateurs ont été répartis en deux séries 1 et 2. Au titre du renouvellement sénatorial de 2011 (série 1), les conseillers généraux concernés représentaient 2,76 % du collège électoral tandis que les conseillers régionaux en représentaient 1,22 %. Les élections sénatoriales du 25 septembre 2011, permettant de renouveler 170 sièges, concernaient 44 circonscriptions et 6 des 12 sénateurs représentant les Français établis hors de France. Le 5 octobre 2012, le Président de la République a annoncé, dans le cadre des états généraux de la démocratie territoriale, un report des élections départementales et régionales de 2014 à 2015. Ces dispositions sont reprises dans le projet de loi relatif à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires et modifient le calendrier électoral. Ces scrutins concernent le renouvellement de 1 040 conseillers régionaux et de 2 291 conseillers généraux. Au regard du nombre de conseillers et délégués municipaux (près de 95 % du collège), le nombre d'électeurs impactés par ce report reste faible. En effet, en septembre 2014, sur un collège d'environ 150 000 électeurs au niveau national, 3 331 d'entre eux seront concernés, soit 2,2 % du total des électeurs sénatoriaux.
