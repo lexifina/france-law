@@ -1,0 +1,9 @@
+# Réponse à la question n° 2384
+
+- Question : [2384](2384.md) — Question n° 2384 — restructuration; modalités
+
+## Réponse
+
+*JO du 2013-02-19*
+
+Dans un contexte international de forte concurrence, les sérieuses difficultés économiques rencontrées par la compagnie Air France l'ont conduite à prendre diverses mesures structurelles, dont des réductions d'effectifs, dans le cadre d'un plan de réorganisation appelé Transform 2015. Les efforts nécessaires entrepris par l'ensemble de la compagnie doivent permettre d'atteindre l'objectif fixé d'un retour à la compétitivité dès 2014. La direction de l'entreprise a pris formellement l'engagement devant les pouvoirs publics et les partenaires sociaux que les réductions d'effectifs envisagées dans le plan Transform 2015 se feront exclusivement sur la base de départs volontaires et non contraints. Par ailleurs, la mise en oeuvre des aspects sociaux de ce plan se réalise dans le cadre d'une large concertation avec les organisations syndicales et les institutions représentatives du personnel de l'entreprise. La situation économique et sociale d'Air France fait l'objet, bien entendu, d'une attention toute particulière de la part du Gouvernement. Le ministre délégué chargé des transports est en contact régulier avec le président directeur général de l'entreprise pour évoquer ce dossier. La compagnie Air France doit effectivement se donner les moyens de son redressement pour rester compétitive, mais dans une démarche favorisant le dialogue social et écartant tout plan prévoyant des départs non volontaires. Le ministre et les services de la direction générale de l'aviation civile sont très vigilants en ce qui concerne les impacts sociaux des mesures prises par le groupe Air France. La réussite du plan passera par une adhésion des personnels et un dialogue franc et permanent avec les salariés et leurs organisations syndicales.
