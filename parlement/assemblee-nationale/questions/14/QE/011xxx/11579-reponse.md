@@ -1,0 +1,9 @@
+# Réponse à la question n° 11579
+
+- Question : [11579](11579.md) — Question n° 11579 — services téléphoniques; numéros surtaxés; décret d'application; publication
+
+## Réponse
+
+*JO du 2013-02-19*
+
+L'amélioration de l'accessibilité de l'accueil téléphonique revêt une importance fondamentale car ce canal est privilégié par les usagers dans leur relation à l'administration. Chaque année, l'accueil téléphonique de l'administration représente une volumétrie de plus de 220 millions d'appels (diagnostic de l'accueil téléphonique, direction générale de la modernisation de l'Etat, 2010) et 45 % des usagers ont appelé au moins une fois un service public au cours des deux dernières années (enquête services publics de proximité, société de sondages BVA, décembre 2011). Près des trois-quarts de ces appels concernent les opérateurs de sécurité sociale et de Pôle emploi. En matière de coût des appels, les numéros publics ne sont pas surtaxés si les usagers appellent d'une ligne fixe, au contraire des appels issus des mobiles ou d'autres sources (box internet, ...), pour lesquels aucune garantie de coût n'existe. Certains numéros font l'objet d'une gratuité pour les usagers. Comme prévu à l'article 55 dela loi n° 2004-575 du 21 juin 2004, un décret en Conseil d'État détermine chaque année la liste des services sociaux mettant à la disposition des usagers des numéros d'appel spéciaux accessibles gratuitement depuis les téléphones fixes et mobiles, concernant les services publics. Cette gratuité se limite aux numéros d'urgence comme le service d'urgence sans-abri (115) et le service national d'accueil téléphonique de l'enfance en danger (119). Pour des raisons budgétaires, la gratuité des numéros de téléphone de l'administration n'a pas été étendue, y compris les services publics à but social (assurance maladie, allocations familiales, hôpitaux) et les services publics de l'emploi.
