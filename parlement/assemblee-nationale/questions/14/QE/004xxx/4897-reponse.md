@@ -1,0 +1,9 @@
+# Réponse à la question n° 4897
+
+- Question : [4897](4897.md) — Question n° 4897 — FIMO; financement
+
+## Réponse
+
+*JO du 2013-02-19*
+
+Le coût unitaire d'une formation initiale minimale obligatoire (FIMO) est de l'ordre de 2 500 € par conducteur, le prix de la prestation étant librement fixé par le centre de formation qui la propose. L'utilisation de véhicules de transport et l'exigence d'encadrement pédagogique d'un faible nombre de stagiaires - notamment dans les véhiculesécole - expliquent le coût unitaire élevé de cette formation. C'est pour faire face à ce coût que l'article 1635 bis M du code général des impôts a prévu une taxe fiscale perçue sur les immatriculations de véhicules de transports de marchandises. Sont ainsi annuellement consacrés 10 à 11 millions d'euros provenant du produit de cette taxe au financement des FIMO. Des taux forfaitaires de financement par stagiaire sont définis qui réduisent le coût de la formation. Les conseils régionaux et Pôle emploi attribuent des aides spécifiques dans le cadre de la politique de formation des demandeurs d'emploi. Pôle emploi, dans sa mission d'accompagnement des personnes en recherche d'emploi, peut ainsi prendre en charge, au moins partiellement, le coût d'une FIMO pour des personnes qui ont un projet professionnel viable et qui disposent, si possible, d'une promesse d'embauche comme conducteur routier dans une entreprise de transport. Le cumul de ces aides permet à certains stagiaires de bénéficier de FIMO sans avancer de frais à leur charge. Par ailleurs, un employeur peut financer un stage de formation à un salarié destiné à devenir conducteur routier. Dans ce cas, le coût de cette formation est déductible des obligations de financement prévues par le code du travail au titre de la formation professionnelle (art. L. 63311).
