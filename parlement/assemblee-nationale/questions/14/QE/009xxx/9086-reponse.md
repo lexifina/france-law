@@ -1,0 +1,9 @@
+# Réponse à la question n° 9086
+
+- Question : [9086](9086.md) — Question n° 9086 — champ d'application
+
+## Réponse
+
+*JO du 2013-02-19*
+
+L'article 165 de la loi n° 2010788 du 12 juillet 2010 portant engagement national pour l'environnement a instauré une taxe sur l'imperméabilisation des sols au profit des collectivités territoriales. Les articles L.2333-97 à L.2333-101 du code général des collectivités territoriales (CGCT) prévoient que cette taxe annuelle facultative peut être instituée au profit des collectivités assurant la compétence de collecte des eaux pluviales urbaines. Dans la mesure où elle assure le service de collecte, de transport, de stockage et de traitement des eaux pluviales des aires urbaines, une commune peut décider d'instituer, pour son propre compte, la taxe prévue à l'article L. 233397 du CGCT. Cependant, si tout ou partie des missions de gestion des eaux pluviales est transférée à des établissements publics de coopération intercommunale (EPCI) ou à des syndicats mixtes, il revient à ces derniers d'instituer la taxe. D'après l'article L.2333-101 du CGCT, les départements de Paris et de la petite couronne (Hauts-de-Seine, Seine-Saint-Denis, Val de Marne) ainsi que le Syndicat Interdépartemental pour l'Assainissement de l'Agglomération Parisienne (SIAAP) peuvent instituer la taxe pour la gestion des eaux pluviales urbaines « lorsqu'en application de l'article L. 34511 ils assurent tout ou partie des missions de gestion des eaux pluviales urbaines ». Ainsi, les départements de Paris et de la petite couronne se voient reconnaître la faculté d'instituer cette taxe pour leur propre compte. Il n'en demeure pas moins que la taxe pour la gestion des eaux pluviales urbaines peut être levée au profit des communes, des EPCI ou de syndicats compétents en dehors des départements précités.
