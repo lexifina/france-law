@@ -1,0 +1,9 @@
+# Réponse à la question n° 6910
+
+- Question : [6910](6910.md) — Question n° 6910 — paiement; calendrier
+
+## Réponse
+
+*JO du 2013-02-19*
+
+Aux termes de l'article R. 362-1 du code de la sécurité sociale, les prestations doivent être payées à l'assuré dans les quinze jours qui suivent l'envoi de l'avis d'interruption de travail, sous réserve que la caisse dispose des éléments nécessaires au calcul et à la liquidation de l'indemnité journalière. Cette mesure est favorable à l'assuré lorsque l'arrêt intervient dans la première moitié du mois car elle lui permet de percevoir ses indemnités journalières sans attendre la fin du mois. Elle permet en outre aux assurés arrêtés pour des périodes longues de percevoir leurs indemnités deux fois par mois ce qui représente une amélioration de leur trésorerie par rapport à un versement mensuel. Cette règle de paiement par quinzaine peut néanmoins dans certains cas poser des difficultés de trésorerie lorsque l'arrêt de travail intervient en deuxième partie de mois mais uniquement pour le premier versement. Toutefois, il convient de rappeler que l'article L.1226-1 du code du travail, issu de la loi n° 78-49 du 19 janvier 1978 relative à la mensualisation et à la procédure conventionnelle, oblige les employeurs à verser un complément de salaire égal à 90 % de la rémunération brute que le salarié aurait perçu s'il avait travaillé. Ce complément est versé à la date usuelle de paye du salaire, en même temps que la rémunération afférente aux jours où le salarié a travaillé dans le mois. Au-delà de cette obligation de complément, beaucoup d'employeurs pratiquent la subrogation avec la caisse. Ce mécanisme permet à l'employeur en cas d'arrêt de travail de maintenir le salaire à l'assuré pour la part d'indemnisation due par l'assurance maladie et de recevoir en contrepartie le remboursement direct des indemnités journalières qui sont dues à l'assuré.
