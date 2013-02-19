@@ -1,0 +1,9 @@
+# Réponse à la question n° 11546
+
+- Question : [11546](11546.md) — Question n° 11546 — couloirs aériens; tracé
+
+## Réponse
+
+*JO du 2013-02-19*
+
+Le relèvement des trajectoires d'arrivée en région IledeFrance est un chantier initié par le précédent Gouvernement. Il s'est conclu par l'adoption règlementaire d'un nouveau dispositif de circulation aérienne en novembre 2011, dont l'objectif est de réduire le niveau de bruit perçu par les populations survolées en retenant la solution la plus conforme à l'intérêt général. Ce relèvement des trajectoires d'arrivée des avions en région parisienne a permis un recul du point d'interception des axes de pistes déplaçant les flux d'arrivée des avions concernés. Ceci a eu pour conséquence un déplacement des flux vers l'Est et une augmentation du nombre de survols dans les secteurs du Nord de l'Aude audessus des communes de RomillysurSeine et MaizièreslaGrandeParoisse. L'analyse des journées caractéristiques, c'estàdire à fort trafic, pendant lesquelles les procédures de circulation aérienne standardisées habituelles ont été utilisées, indique pour ces communes le survol d'avions à l'arrivée vers ParisCharles de Gaulle et ParisLe Bourget. Les avions, à cet endroit, rejoignent le point où débute la procédure d'approche vers les aérodromes de destination. Les avions à destination de ParisLe Bourget, environ une trentaine par jour, sont à une altitude moyenne supérieure à 2 500 mètres. Les avions à destination de ParisCharles de Gaulle sont à une altitude moyenne supérieure à 4 000 mètres et représentent environ 230 survols. La légalité du dispositif a été contestée. Comptetenu de ce contentieux actuellement en cours, ce dossier ne relève donc plus du seul pouvoir exécutif. Le ministre observera avec attention les décisions qui seront rendues par le Conseil d'État.
