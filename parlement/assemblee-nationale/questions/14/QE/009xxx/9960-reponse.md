@@ -1,0 +1,9 @@
+# Réponse à la question n° 9960
+
+- Question : [9960](9960.md) — Question n° 9960 — perspectives; rapport; propositions
+
+## Réponse
+
+*JO du 2013-02-19*
+
+Afin d'identifier visuellement la nouvelle filière de police territoriale dont il préconise la création, le rapport de la mission sénatoriale dont les conclusions ont été rendues publiques, le 3 octobre 2012, par MM. les Sénateurs Pillet et Vandierendonck, propose de conserver la dominante bleue de la tenue d'uniforme mais d'y ajouter des incrustations d'une couleur différente. L'application du décret n° 2004-102 du 30 janvier 2004 relatif à la tenue des agents de police municipale n'a pas donné lieu, depuis sa publication, à des difficultés. Il n'existe pas de confusion. Ni les collectivités employeurs, ni les organisations syndicales représentatives n'ont signalé de problème particulier à cet égard et il n'est pas apparu de difficulté avec le public. L'ajout d'incrustations d'une autre couleur n'apparaît donc pas devoir être une priorité absolue d'autant que l'impact de la mesure sur les budgets des collectivités ne serait pas négligeable. Le ministre de l'intérieur demeure cependant ouvert aux propositions qui pourraient lui être faite en ce sens. En revanche, le rapport Ambroggiani sur la professionnalisation de la filière de police municipale remis au ministre de l'intérieur au printemps 2009 avait déploré l'insuffisant encadrement par les textes de la tenue d'uniforme des 6 125 agents de surveillance de la voie publique (ASVP), agents communaux dotés d'attributions de portée limitée et souvent employés par les maires pour renforcer leur police municipale. Ce sujet reste à prendre en compte dans le cadre d'un véritable statut des ASVP définissant clairement leurs missions et leur complémentarité par rapport aux policiers municipaux.
