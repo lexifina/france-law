@@ -1,0 +1,9 @@
+# Réponse à la question n° 6007
+
+- Question : [6007](6007.md) — Question n° 6007 — refus; tiers payant; suppression
+
+## Réponse
+
+*JO du 2013-02-19*
+
+L'avenant n° 6 à l'accord national fixant les objectifs de délivrance de spécialités génériques conclu entre l'union nationale des caisses d'assurance maladie (UNCAM) et les syndicats de pharmaciens d'officine, vise à renforcer, en le généralisant, le dispositif tiers payant contre génériques prévu par l'article L. 162-16-7. Cette mesure contribue au développement de la substitution et à la promotion des génériques qui, tout en garantissant la sécurité et la qualité des traitements par la notion de bioéquivalence, contribuent par leurs moindres coûts, à l'équilibre de la sécurité sociale. Ainsi les économies réalisées par les génériques depuis 2000 sont de l'ordre de 10 Mds€ (source, rapport inspection générale des affaires sociales-inspection générale des finances (IGAS-IGF) sur la maîtrise de l'objectif national des dépenses d'assurance maladie - ONDAM - 2013-2017). Cette mesure vise également à répondre à une hétérogénéité existante sur le terrain en mettant notamment en place des objectifs spécifiques pour certains départements. Pour les difficultés rencontrées par les personnes âgées ou en affection de longue durée, l'accord conventionnel comprend l'engagement des parties de garantir la stabilité de la délivrance du même générique pour les personnes âgées en ciblant tout particulièrement les traitements chroniques présents en cardiologie et en diabétologie. En outre, il convient de rappeler que, pour des raisons particulières tenant à son patient, le médecin garde la possibiltié de s'opposer à la substitution en apposant sur l'ordonnance la mention « non substituable ». Cette dernière a vocation à être exceptionnelle conformément à la réglementation en vigueur. Dans ce cas, le patient garde le bénéfice du tiers payant.
