@@ -1,0 +1,9 @@
+# Réponse à la question n° 2519
+
+- Question : [2519](2519.md) — Question n° 2519 — photographes professionnels; revendications
+
+## Réponse
+
+*JO du 2013-02-19*
+
+Le Gouvernement est conscient que, dans certains secteurs, notamment l'artisanat, la création du régime de l'auto-entrepreneur a été perçue comme un élément générateur de concurrence déloyale. Les photographes professionnels sont touchés par ce phénomène, à l'instar de nombreuses professions. Il a donc souhaité qu'une évaluation complète du dispositif soit réalisée. Une mission d'évaluation a été confiée à l'inspection générale des finances et à l'inspection générale des affaires sociales, qui procédera notamment à l'audition des représentants de l'ensemble des acteurs concernés. Les conclusions sont attendues pour la fin du premier trimestre 2013. Le cadre de la mission fixée par le Gouvernement comprend la recherche de l'impact du régime vis-à-vis des autres acteurs économiques. Sans attendre les conclusions de ce rapport, le principe d'une équivalence contributive entre le montant des prélèvements acquittés par les auto-entrepreneurs et celui des travailleurs indépendants relevant du régime de droit commun a déjà été posé par l'article 11 de la loi n° 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale. Le décret n° 2012-1551 du 28 décembre 2012, pris pour l'application de cette loi, a précisé les nouveaux taux de paiement libératoire social désormais applicables aux auto-entrepreneurs, à savoir 14 % (anciennement 12 %) pour les activités d'achat/vente, 24,6 % (anciennement 21,3 %) pour les activités artisanales et 21,3 % (anciennement 18,3 %) pour les activités libérales. Le Gouvernement poursuivra à son niveau la concertation avec toutes les parties intéressées, une fois qu'il sera en possession des résultats de l'évaluation, avant de procéder aux mesures d'ajustement et aux évolutions nécessaires.
