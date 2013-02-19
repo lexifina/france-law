@@ -1,0 +1,9 @@
+# Réponse à la question n° 14527
+
+- Question : [14527](14527.md) — Question n° 14527 — groupes terroristes; lutte et prévention
+
+## Réponse
+
+*JO du 2013-02-19*
+
+La lutte contre le financement du terrorisme constitue l'une des principales composantes du combat global contre le terrorisme. Le nombre et la gravité des actes de terrorisme international dépendent en effet en grande partie des ressources financières dont peuvent disposer les personnes et entités impliquées dans des activités liées au terrorisme. La France est pleinement engagée au niveau international dans la lutte contre le financement du terrorisme et respecte les obligations qui découlent des conventions et résolutions des Nations unies dans ce domaine (convention internationale pour la répression du financement du terrorisme de 1999 et résolutions 1267 (1999) et suivantes du conseil de sécurité). La France s'est ainsi dotée d'instruments de régulation efficaces afin d'assurer la transparence dans le déroulement des opérations financières. Elle dispose, par ailleurs, d'un arsenal juridique conséquent et sans cesse perfectionné pour lutter contre le financement du terrorisme. En outre, elle participe activement à l'amélioration des standards en la matière tant au niveau international qu'européen dans le cadre des travaux du Groupe d'action financière (GAFI) et de la Commission européenne. S'agissant plus particulièrement du financement des groupes terroristes qui sévissent dans le Sahara, la France, en sa qualité de membre permanent du Conseil de sécurité des Nations unies, contribue activement aux travaux du comité de sanctions contre les personnes et entités en lien avec Al Qaïda. A ce titre, la France applique pleinement le régime de sanctions onusien et a notamment mis en place le gel des fonds et autres avoirs financiers des groupes terroristes sanctionnés agissant au Sahel.
