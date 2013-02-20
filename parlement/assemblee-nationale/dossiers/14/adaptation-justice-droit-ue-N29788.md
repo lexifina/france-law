@@ -1,0 +1,55 @@
+# Justice : adaptation au droit de l'UE et des engagements internationaux
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29788
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/adaptation_justice_droit_UE
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-582.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-02-20 : 1er dépôt d'une initiative. (PRJLANR5L14B0736)
+  - 2013-02-20 : Etude d'impact (ETDIANR5L14B0736)
+  - 2013-03-20 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-02-20 : Renvoi en commission au fond
+      - 2013-02-21 : Nomination de rapporteur
+      - 2013-02-21 : Réunion de commission
+      - 2013-03-27 : Réunion de commission
+      - 2013-05-15 : Réunion de commission
+      - 2013-03-27 : Dépôt de rapport (RAPPANR5L14B0840, PRJLANR5L14BTC0840)
+  - Discussion en séance publique
+    - 2013-05-15 : Discussion en séance publique
+    - 2013-05-15 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-05-16 : Dépôt d'une initiative en navette (PRJLSNR5S199B0582)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-16 : Renvoi en commission au fond
+      - 2013-04-10 : Nomination de rapporteur
+      - 2013-05-22 : Dépôt de rapport (RAPPSNR5S199B0596)
+    - Travaux d'une délégation saisie pour avis
+      - 2013-04-10 : Saisine d'une délégation ou d'un office
+      - 2013-04-11 : Nomination de rapporteur
+      - 2013-05-16 : Dépôt de rapport (RINFSNR5S199B0583)
+  - Discussion en séance publique
+    - 2013-05-27 : Discussion en séance publique
+    - 2013-05-27 : Décision
+- Commission Mixte Paritaire
+  - 2013-05-28 : Dépôt d'un projet de loi (PRJLANR5L14B1058)
+  - 2013-05-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-07-16 : Nomination de rapporteur
+    - 2013-07-16 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0768)
+    - 2013-07-17 : Dépôt du rapport d'une CMP (RAPPANR5L14B1273)
+  - Discussion en séance publique
+    - 2013-07-23 : Discussion en séance publique
+    - 2013-07-23 : Décision
+  - Discussion en séance publique
+    - 2013-07-25 : Discussion en séance publique
+    - 2013-07-25 : Décision
+  - 2013-07-17 : Décision de la CMP
+- Promulgation de la loi
+  - 2013-08-05 : Promulgation d'une loi
