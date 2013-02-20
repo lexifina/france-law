@@ -149,3 +149,35 @@ RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complémen
 //
 
 |
+
+AVIPOLE FORMATION, Zoopole Les Croix, rue Camille-Guérin, 22400 Ploufragan
+
+|
+
+RPA et opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+1er février 2013
+
+|
+
+31 janvier 2018
+
+|
+
+GAD FORMATION, 14, rue Louis-Armand, zone industrielle de Kériven, 29600 Saint-Martin-des-Champs
+
+|
+
+Opérateur, porcins-manipulations et soins-mise à mort
+
+|
+
+1er février 2013
+
+|
+
+31 janvier 2018
+
+|
