@@ -2,7 +2,7 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé : plaquiste.
+Intitulé : plaquiste
 
 Niveau : V.
 
@@ -10,69 +10,55 @@ Code NSF : 233 s.
 
 Résumé du référentiel d'emploi
 
-Le (la) plaquiste réalise l'aménagement intérieur des locaux neufs et anciens à partir d'éléments préfabriqués à base de plaques de plâtre. Il (elle) construit des plafonds, des doublages et des cloisons. Il (elle) réalise les implantations, fixe les ossatures et les plaques de plâtre. Il (elle) assure également les travaux de finition en traitant les joints et en réalisant les enduits.
+Le plaquiste intervient dans tout bâtiment (individuel ou collectif, à usage d'habitation, commercial, industriel, public...) pour réaliser l'aménagement intérieur des locaux neufs et anciens, à partir d'éléments préfabriqués en matériaux secs à base de plâtre.
 
-Il (elle) intervient dans les chantiers de construction et de rénovation de tous types de bâtiments publics et privés, parfois en site occupé. Il (elle) exerce son activité dans des locaux couverts et fermés, parfois sur des échafaudages et se trouve très souvent amené (e) à soulever et transporter des charges.
+A partir de dossiers techniques, de plans de pose ou de consignes verbales, il réalise pour une finition en plâtre sec l'isolation thermique, l'étanchéité à l'air et construit des plafonds, des doublages, différentes cloisons techniques (gaine technique de désemfumage/ coupe-feu), des systèmes techniques d'isolation acoustique (cloison double parois plénum acoustique).
 
-Il (elle) travaille au sein d'entreprises comportant, le plus souvent, moins de 20 salariés, généralement en équipe de 2 à 3 personnes, sous la responsabilité d'un chef d'équipe. Il (elle) applique et adapte les consignes transmises en tenant compte de l'état des supports et des contraintes de l'environnement. Les problèmes qu'il (elle) doit résoudre sont liés au respect des normes de qualité et de productivité des ouvrages. L'atteinte de ces résultats est conditionnée par une bonne organisation, la connaissance des modes opératoires et des critères de recevabilité.
+Pour ce faire, il effectue des tracés, réalise des ossatures métalliques sur lesquelles il fixe des plaques de plâtre et pose par collage certains éléments (plaques de plâtre, complexe isolant, carreaux de plâtre). Enfin, il assure les travaux de finition en réalisant le jointoiement et les enduits.
 
-L'activité suppose de nombreux déplacements pour se rendre sur les différents chantiers. Elle nécessite parfois des horaires adaptés pour terminer un ouvrage.
+Le plaquiste intervient sur des chantiers de constructions neuves, ou en réhabilitation. En toute autonomie, il organise son poste de travail, établit l'ordre d'exécution et les modes opératoires des ouvrages à réaliser. Il contrôle les supports de réception et alerte son responsable en cas de non-conformité. Tout au long du chantier, il s'autocontrôle et rend compte à son responsable du déroulement des travaux.
 
-Capacités attestées et descriptif
+En plus de son responsable, ses principaux interlocuteurs sont le client et le maître d'œuvre.
 
-des composantes de la certification
+Pour toutes ses missions, le plaquiste est amené à un travail d'équipe qu'il coordonne avec de nombreux corps de métiers. Il intervient dans les locaux couverts et fermés, parfois sur des échafaudages. Sur le chantier, il manipule des charges lourdes et encombrantes, utilise du matériel électroportatif. Il doit porter des équipements de protection individuelle (EPI), respecter les règles d'hygiène et de sécurité individuelle et collective.
 
-1. Réaliser l'aménagement intérieur de locaux à usage d'habitation en plaques de plâtre de technicité courante
+Les déplacements souvent régionaux sont fréquents (changements de chantier). Les horaires de travail sont relativement réguliers.
 
-Démolir des ouvrages d'agencement intérieur en vue de la rénovation de bâtiments.
+Capacités attestées et descriptif des composantes de la certification
 
-Poser un plafond sur ossature métallique type fourrure, avec pose d'isolants.
+1. Réaliser à l'intérieur de bâtiments l'étanchéité à l'air et la pose de différents systèmes d'isolation thermique et acoustique pour une finition en plâtre sec
 
-Poser et coller des plaques, des complexes de doublages isolants.
+Mettre en œuvre des systèmes d'étanchéité à l'air dans un bâtiment pour une finition au plâtre sec.
 
-Réaliser un doublage sur ossature métallique type rails et montants, avec pose d'isolant.
+Mettre en œuvre des systèmes d'isolation thermique dans un bâtiment pour une finition au plâtre sec.
 
-Construire des cloisons de distribution avec ossature métallique, comportant la pose de menuiseries et un liaisonnement en L et en T.
+Mettre en œuvre des systèmes d'isolation acoustique dans un bâtiment pour une finition au plâtre sec.
 
-Réaliser le traitement des joints et les travaux de finition sur des ouvrages en plaques de plâtre.
+2. Réaliser l'aménagement intérieur de bâtiments en matériaux secs à base de plâtre
 
-2. Réaliser l'aménagement et l'agencement intérieur de tous types de locaux en plaques de plâtre de technicité particulière
+Réaliser des plafonds en matériaux secs à base de plâtre.
 
-Poser un plafond sur ossature métallique avec montants et sur ossature primaire.
+Réaliser des systèmes de doublages et des habillages de murs en matériaux secs à base de plâtre.
 
-Réaliser un doublage sur ossature métallique type fourrure.
+Réaliser des cloisons en matériaux secs à base de plâtre.
 
-Construire des cloisons de doublage et de distribution en carreaux de plâtre avec pose de tous types d'huisseries.
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-Construire une cloison de distribution phonique sur ossature métallique avec double parement.
+Les entreprises de pose de plaques de plâtre.
 
-Construire une cloison séparative de logement à ossature métallique.
+Les entreprises d'agencement de bâtiment.
 
-Construire des cloisons et des plafonds courbes en plaques de plâtre.
+Les agences d'intérim.
 
-Poser des plafonds décoratifs et techniques démontables.
+Plaquiste agenceur de magasins, de bureaux
 
-Réaliser le traitement des joints et les travaux de finition sur des ouvrages en plaques de plâtre.
+Code ROME :
 
-CCS : réaliser des ouvrages d'isolation acoustique, thermique et de protection incendie.
-
-Mettre en œuvre des systèmes techniques de protection incendie pour la réalisation de plafonds, de cloisons et de gaines.
-
-Réaliser des cloisons modulaires sur plancher technique avec barrière phonique.
-
-Réaliser des plafonds et des cloisons à hautes performances acoustiques.
-
-Secteurs d'activité ou types d'emploi
-
-accessibles par le détenteur du titre
-
-Petites et moyennes entreprises du second œuvre bâtiment intervenant dans le domaine de l'aménagement finitions.
+F1604-Montage d'agencements.
 
 Réglementation de l'activité :
 
 Néant.
-
-Code ROME : 42222-Monteur (se) plaquiste en agencements.
 
 Autorité responsable de la certification :
 
