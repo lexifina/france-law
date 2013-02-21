@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002214
+
+- Question : [SEQ121002214](seq121002214.md) — Couverture des Jeux Olympiques par France Télévisions
+
+## Réponse
+
+*Culture et communication, JO du 2013-02-21, page 604*
+
+France Télévisions a consacré au total 307 heures d'antenne aux Jeux Olympiques 2012 de Londres, en mobilisant pour ce faire quatre de ses chaînes nationales (France 2, France 3, France 4 et France Ô). France 2 et France 3 ont assuré la couverture en continu des principales épreuves des Jeux Olympiques toute la journée du 28 juillet au 12 août, tandis que France 4 et France Ô ont, quant à elles, diffusé les tournois de football féminin et masculin. À cette programmation s'est ajoutée la diffusion, sur les sites Internet de France Télévisions, de l'intégralité des compétitions des Jeux Olympiques, soit plus de 2 000 heures de direct. Les dépenses de production liées au dispositif mis en place par France Télévisions pour la couverture des Jeux Olympiques 2012 ont atteint, hors valorisation des moyens internes, un montant total de 10,5 M€. Pour assurer la couverture de ces JO de Londres, France Télévisions a mobilisé au total 257 personnes, ce qui correspond, compte tenu des rotations, à 158 postes de travail pendant la durée des Jeux, répartis de la manière suivante : 113 postes à Londres et 45 postes à Paris. S'y sont ajoutés les consultants sportifs mobilisés sur les différentes disciplines, ainsi qu'un nombre réduit de prestataires extérieurs sur site (moins de 15 personnes). À cet égard, le nouveau dispositif de production mis en place par France Télévisions pour la couverture des Jeux Olympiques depuis les Jeux de Pékin en 2008 (avec notamment une continuité d'antenne réalisée en régie depuis Paris) a permis, d'une part, d'optimiser le recours aux moyens internes du groupe et, d'autre part, de réduire de plus de moitié le nombre de personnes mobilisées sur place.
