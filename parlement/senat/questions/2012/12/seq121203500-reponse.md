@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203500
+
+- Question : [SEQ121203500](seq121203500.md) — Dangerosité du phénoxyéthanol
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-02-21, page 590*
+
+Le phénoxyéthanol est utilisé dans les produits cosmétiques pour adultes et pour enfants en tant qu'agent conservateur à une concentration maximale de 1 %. L'agence nationale de sécurité du médicament et des produits de santé (ANSM), autorité compétente en matière de produits cosmétiques, a mené une évaluation des risques pour la santé liés à l'utilisation du phénoxyéthanol dans les produits cosmétiques. Il en ressort qu'en tenant compte des expositions cumulées aux produits cosmétiques destinés aux adultes, il n'est pas nécessaire de recommander une modification de la valeur de la concentration maximale en phénoxyéthanol autorisée (1 %) pour les produits destinés aux adultes. En revanche, pour les produits destinés aux enfants de moins de trois ans, et compte tenu des expositions cumulées, l'ANSM recommande : de ne plus utiliser de phénoxyéthanol dans les produits cosmétiques destinés au siège ; une restriction de la teneur maximale en phénoxyéthanol à 0,4 % pour tous les autres produits destinés aux enfants de moins de trois ans. La réglementation des produits cosmétiques se définissant au niveau communautaire, les autorités françaises ont pris l'initiative d'informer la commission européenne de ces recommandations et du rapport d'évaluation afin que le comité scientifique pour la sécurité des consommateurs (CSSC) soit saisi sur la sécurité d'utilisation de cette substance dans les produits cosmétiques destinés aux adultes et aux enfants de moins de trois ans. Le résultat de cette saisine permettrait à la Commission européenne de statuer sur la nécessité de mesures de gestion du risque relatives au phénoxyéthanol et leur applicabilité dans tous les États membres.
