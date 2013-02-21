@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901809
+
+- Question : [SEQ120901809](seq120901809.md) — Dangerosité du triclosan
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-02-21, page 581*
+
+Le triclosan est utilisé pour ses propriétés antimicrobiennes, notamment dans les produits cosmétiques, en tant qu'agent conservateur à une concentration maximale de 0,3 %. Le comité scientifique européen pour la sécurité des consommateurs (CSSC) a conclu dans ses avis du 21 janvier 2009, scientific committee on consumer products (SCCP/1192/08) et du 22 mars 2011, scientific commitee on consumer safety (SCCS/1414/11) que l'utilisation du triclosan devrait être limitée ou interdite dans certaines catégories de produits cosmétiques. La Commission européenne a lancé le 23 août 2012 une consultation publique sur les impacts économiques d'une limitation de l'utilisation du triclosan dans les produits cosmétiques, conformément aux avis du CSSC, qui se traduirait par : une interdiction d'utilisation du triclosan dans les produits cosmétiques en aérosol ; un maintien de la concentration maximale en triclosan à 0,3 % dans les produits cosmétiques : dentifrices, savons pour les mains, gels douche pour le corps, déodorants sous forme de stick, poudres pour le visage, produits anticernes, produits de manucure ; une diminution de la concentration maximale en triclosan à 0,2 % dans les bains de bouche. Les autorités françaises soutiennent, dans une mesure de protection des consommateurs, cette proposition de modification du cadre réglementaire du triclosan. Elles ont saisi la Commission européenne afin que le CSSC procède à la réévaluation de la toxicité, notamment musculaire, du triclosan et ont réitéré leur prise de position sur la réévaluation nécessaire des résistances du triclosan tous les deux ans, à l'aune des nouvelles connaissances scientifiques.
