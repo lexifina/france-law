@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120801289
+
+- Question : [SEQ120801289](seq120801289.md) — Assiette de la taxe d'enlèvement des ordures ménagères
+
+## Réponse
+
+*Budget, JO du 2013-02-21, page 602*
+
+Conformément aux dispositions de l'article 1522 du code général des impôts (CGI), le montant de la taxe d'enlèvement des ordures ménagères (TEOM) est établi d'après le revenu net servant de base à la taxe foncière sur les propriétés bâties. Son assiette peut donc, par définition, ne pas représenter de manière précise le service rendu effectivement à l'usager. En application de l'article 46 de la loi de programmation relative à la mise en œuvre du Grenelle de l'environnement (n° 2009-967 du 3 août 2009), les collectivités territoriales disposent de la possibilité de mettre en place une tarification incitative pour le financement de l'élimination des déchets des ménages. Les modalités de fonctionnement de ce dispositif ont été précisées par l'article 97 de la loi de finances pour 2012 (n° 2011-1977 du 28 décembre 2011) codifié à l'article 1522 bis du CGI. Pour les impositions établies au titre des années 2013 et suivantes, les communes, les établissements publics de coopération intercommunale (EPCI) et les syndicats mixtes compétents, peuvent instituer sur leur territoire une part incitative à la TEOM assise, pour chaque local, sur la quantité et éventuellement la nature des déchets produits, exprimée en volume, en poids ou en nombre d'enlèvements. Cette part incitative s'ajoute à la part fixe de TEOM déterminée dans les conditions de droit commun. Enfin, la feuille de route proposée dans le cadre de la conférence environnementale prévoit notamment que le caractère incitatif de la taxation des déchets soit accentué. Les travaux en cours sur la fiscalité environnementale permettront de préciser les moyens d'atteindre cet objectif.
