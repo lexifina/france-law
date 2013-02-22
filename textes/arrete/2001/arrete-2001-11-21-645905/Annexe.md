@@ -1,16 +1,12 @@
 # Article Annexe
 
-.
-
-DESIGNATION DES EMPLOIS
+DÉSIGNATION DES EMPLOIS
 
 |
 
 NIVEAU
 
-des responsabilités
-
-exercées
+des responsabilités exercées
 
 |
 
@@ -286,11 +282,11 @@ De 10 à 50 points par emploi
 
 |
 
-91
+89
 
 |
 
-Dans la limite de 2492 points
+Dans la limite de 2 432 points
 
 |
 
@@ -306,11 +302,11 @@ De 10 à 30 points par emploi
 
 |
 
-57
+55
 
 |
 
-Dans la limite de 921,5 points
+Dans la limite de 871,5 points
 
 |
 
@@ -406,50 +402,10 @@ De 10 à 50 points par emploi
 
 |
 
-11
+1
 
 |
 
-Dans la limite de 475 points
-
-|
-
-Fonctions relatives au suivi des actions de santé
-
-|
-
-B
-
-|
-
-De 10 à 30 points par emploi
-
-|
-
-14
-
-|
-
-Dans la limite de 360 points
-
-|
-
-Fonctions relatives au suivi des actions de santé
-
-|
-
-C
-
-|
-
-De 10 à 20 points par emploi
-
-|
-
-2
-
-|
-
-Dans la limite de 30 points
+Dans la limite de 15 points
 
 |
