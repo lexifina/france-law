@@ -1,77 +1,607 @@
 # Article Annexe 5
 
-RAPPORT D'ÉVALUATION DES FONCTIONS CONCERNANT LES CANDIDATS
+RAPPORT D'ÉVALUATION DES FONCTIONS HOSPITALIÈRES CONCERNANT LES CANDIDATS À L'AUTORISATION D'EXERCICE DE LA PHARMACIE EN FRANCE
 
-À L'AUTORISATION D'EXERCICE DE LA PHARMACIE
+Précisez, le cas échéant, la spécialité :
 
-Nom et prénom du candidat :
+Biologie médicale :
 
-Affectation :
+Identité du candidat :
 
-Notation :
+Nom et prénom :
 
-A : très bon ;
+Etablissement et structure d'affectation :
 
-B : bon ;
+Date de recrutement par l'établissement :
 
-C : moyen ;
+Statut d'exercice :
 
-D : insuffisant ;
+I.-Description de l'activité dans la structure
+
+La structure d'exercice est-elle agréée pour la formation des internes :
+
+Oui Non
+
+Si non, y a-t-il une convention avec une structure agréée qui a permis au candidat d'avoir une activité formatrice ?
+
+Oui Non
+
+Si oui dans quel établissement et de quelle nature ?
+
+Activités pharmaceutiques ou biologiques (s'il s'agit de biologie spécialisée, préciser le champ d'exercice) :
+
+Gardes, astreintes :
+
+Eventuellement, éléments particuliers d'exercice (ex. : réseaux de soins, éducation thérapeutique...) :
+
+II.-Evaluation des compétences
+
+Evaluer de A à E :
+
+A : très bon.
+
+B : bon.
+
+C : moyen.
+
+D : insuffisant.
 
 E : sans objet.
 
-I. - Compétences professionnelles
+1. Pharmacie polyvalente
 
-Connaissances théoriques.
+|
 
-Connaissances pratiques.
+A |
 
-Aptitude au contrôle des prescriptions.
+B |
 
-Développement d'une démarche d'assurance qualité.
+C |
 
-Connaissance de la réglementation sanitaire particulièrement dans le domaine pharmaceutique.
+D |
 
-Qualité d'organisation du travail.
+E |
 
-Présentation orale de dossiers.
+Aptitudes pharmaceutiques :
 
-De plus, pour les pharmaciens biologistes : maîtrise des prélèvements d'échantillons biologiques, compétences théoriques et pratiques dans le domaine analytique (préciser dans quelle spécialité biologique), interprétation et validation des résultats. Connaissance et mise en œuvre des référentiels opposables.
+|
 
-II. - Intégration dans le service et dans l'établissement
+|
 
-Aptitude au travail en équipe au sein du service et dans l'établissement.
+|
 
-Respect des protocoles de soins et d'hygiène.
+|
 
-Respect des règles d'organisation du service.
+|
 
-Tenue et comportement.
+|
 
-Assiduité et ponctualité.
+Activités obligatoires :
 
-III. - Capacités relationnelles
+|
 
-Avec les patients.
+|
 
-Avec les médecins.
+|
 
-Avec le personnel non médical.
+|
 
-IV. - Formation complémentaire
+|
 
-Diplômes acquis.
+|
 
-Actions de formation continue suivies.
+Délivrance des médicaments et des dispositifs médicaux
 
-V. - Autres observations
+|
 
-Appréciation détaillée du chef de service ou du responsable de la structure :
+|
 
-Date :
+|
 
-Qualité du signataire :
+|
 
-Signature
+|
 
-(L'original de ce rapport est remis à l'intéressé[e].)
+|
+
+Activités optionnelles de la PUI :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Préparations (nutrition parentérale, cytostatiques..)
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vente aux patients ambulatoires
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Radiopharmacie
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Stérilisation des dispositifs
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Délivrance des aliments diététiques destinés à des fins médicales spéciales
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Connaissance de la réglementation sanitaire
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Qualité de l'organisation du travail
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tenue des dossiers pharmaceutiques
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2. Biologie médicale
+
+|
+
+A |
+
+B |
+
+C |
+
+D |
+
+E |
+
+Connaissances théoriques
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Aptitudes à l'exercice de la biologie médicale :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Phase préanalytique
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Phase analytique
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Phase postanalytique : validation et interprétation des résultats
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Connaissance de la réglementation en biologie médicale
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Qualité de l'organisation du travail
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Compétence en assurance qualité
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Appréciation sur les compétences :
+
+Appréciation sur l'autonomie d'exercice :
+
+III.-Intégration dans l'équipe médicale et paramédicale
+
+de la structure et dans l'établissement
+
+Evaluer de A à D :
+
+A : très bon.
+
+B : bon.
+
+C : moyen.
+
+D : insuffisant.
+
+E : sans objet.
+
+|
+
+A
+
+|
+
+B
+
+|
+
+C
+
+|
+
+D
+
+|
+
+E
+
+|
+
+Aptitude au travail en équipe
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Respect des protocoles
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Respect des règles d'organisation de la structure et de la continuité du service
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tenue et comportement
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Assiduité et ponctualité
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Le candidat participe-t-il activement aux staffs ou revues de dossiers ? Oui Non
+
+Le candidat est-il membre d'instances ou de comités au sein de l'établissement ? Oui Non
+
+Si oui lesquelles :
+
+IV.-Capacités relationnelles
+
+Evaluer de A à D :
+
+A : très bon.
+
+B : bon.
+
+C : moyen.
+
+D : insuffisant.
+
+E : sans objet.
+
+|
+
+A
+
+|
+
+B
+
+|
+
+C
+
+|
+
+D
+
+|
+
+E
+
+|
+
+Avec l'équipe médicale et non médicale de la structure d'exercice
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Avec les membres de l'équipe médicale et non médicale des pôles cliniques de l'établissement
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Avec les patients
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+*
+
+* *
+
+Appréciation d'ensemble détaillée du responsable de la structure sur l'exercice professionnel :
+
+Axes d'amélioration identifiés, le cas échéant, et recommandations
+
+Date
+
+Nom et qualité du signataire :
+
+Signature :
+
+Visa de l'administration hospitalière
+
+|
+
+Visa du président de la CME OU de la CMEL
+
+|
+
+L'original de ce rapport est remis à l'intéressé
+
+" Constitue un faux toute altération frauduleuse de la vérité, de nature à causer un préjudice et accompli par quelque moyen que ce soit, dans un écrit ou tout autre support d'expression de la pensée qui a pour objet ou qui peut avoir pour effet d'établir la preuve d'un droit ou d'un fait ayant des conséquences juridiques. " (Code pénal, art. 441-6.)
+
+Rappel
+
+I.-Conditions d'exercice de la pharmacie
+
+Conformément à l'article L. 4221-1 du code de la santé publique, nul ne peut exercer la profession de pharmacien en France s'il n'est :
+
+- titulaire d'un diplôme, certificat ou autre titre mentionnés aux articles L. 4221-2 à L. 4221-5 du CSP ;
+
+- de nationalité française, de citoyenneté andorrane ou ressortissant d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, d'un pays lié par une convention d'établissement avec la France, du Maroc ou de la Tunisie ;
+
+- inscrit au tableau de l'ordre des pharmaciens, cette dernière condition étant notamment subordonnée à la réalisation des deux premières.
+
+Ces conditions sont cumulatives. Les pharmaciens titulaires d'un diplôme obtenu en France sont dispensés de la condition de nationalité.
+
+Les pharmaciens, quelle que soit leur nationalité, titulaires de diplômes obtenus hors Union européenne ou Espace économique européen peuvent être recrutés par les établissements publics de santé sous un statut d'associé. Ils ne sont pas de plein exercice et ne participent à l'activité du service hospitalier que sous la responsabilité directe du responsable de la structure ou de l'un de ses collaborateurs ; ils peuvent exécuter des actes pharmaceutiques de pratique courante et sont associés à la permanence pharmaceutique (art. R. 6152-538 et R. 6152-632 du code de la santé publique).
+
+II.-Procédure d'autorisation d'exercice
+
+Par dérogation, conformément aux dispositions de l'article L. 4221-12 du code de la santé publique, le ministre chargé de la santé peut, après avis du Conseil supérieur de la pharmacie, autoriser individuellement à exercer des pharmaciens titulaires d'un diplôme permettant l'exercice de la profession dans le pays d'obtention de ce diplôme. Ils doivent avoir satisfait à des épreuves anonymes de vérification des connaissances organisées, le cas échéant, par spécialité et justifier d'un niveau suffisant de maîtrise de la langue française.
+
+Les pharmaciens, lauréats des épreuves, doivent en outre justifier, avant le passage devant le Conseil supérieur de la pharmacie, de fonctions hospitalières accomplies dans une structure ou organisme agréé pour la formation des internes. Les dispositions pérennes issues du code de la santé publique et les dispositions transitoires applicables jusqu'au 31 décembre 2011 prévoient que les lauréats doivent justifier de trois ans de fonctions hospitalières. La loi du 1er février 2012 a instauré une nouvelle épreuve de vérification des connaissances et a limité à un an la durée des fonctions hospitalières requises pour les lauréats de cette nouvelle épreuve. Les fonctions hospitalières sont effectuées sous le statut d'assistant associé ou d'attaché associé.
+
+Les fonctions exercées avant la réussite aux épreuves sous certains statuts fixés par décret peuvent être prises en compte après avis du Conseil supérieur de la pharmacie.
+
+Toutes les informations concernant le déroulement de ces procédures figurent sur le site Internet du Centre national de gestion : http://www.cng.sante.fr/ (rubrique " Concours et examens, procédure d'autorisation d'exercice ").
+
+Le présent dossier sert à évaluer les fonctions hospitalières effectuées par les pharmaciens dans le cadre de cette procédure. Cette évaluation est à réaliser chaque semestre par le responsable de la structure d'exercice du candidat. L'ensemble des évaluations est porté au dossier du candidat lorsqu'il sollicite, devant le Conseil supérieur de la pharmacie, l'autorisation de plein exercice de la profession en France.
