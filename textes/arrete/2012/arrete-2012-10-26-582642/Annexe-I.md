@@ -1,245 +1,1605 @@
 # Article Annexe I
 
-I. ― Mer du Nord, Manche, Atlantique
+TAILLES ET POIDS MINIMAUX DE CAPTURE DES POISSONS
 
-Poissons
+ET AUTRES ORGANISMES MARINS
 
-Anchois (Engraulis encrasicolus) : 12 cm.
+Les noms communs des poissons et autres organismes marins sont donnés à titre indicatif.
 
-Bar commun (Dicentrarchus labrax) : 42 cm.
+I. - Mer du Nord, Manche, Atlantique
 
-Bar moucheté (Dicentrarchus punstatus) : 30 cm.
+POISSONS
 
-Barbue (Scophtalmus rombus) : 30 cm.
+|
 
-Cabillaud (Gadus morhua) : 42 cm.
+Nom commun
 
-Cardine (Lepidorhombus spp.) : 20 cm.
+|
 
-Chapon (Scorpaena scrofa) : 30 cm.
+Nom scientifique
 
-Chinchard (Trachurus spp.) : 15 cm.
+|
 
-Congre (Conger conger) : 60 cm.
+Tailles
 
-Corb (Sciaena umbra) : 35 cm.
+et poids minimaux
 
-Dorade grise et rose (Spondyliosoma cantharus et Pagellus bogaraveo) : 23 cm.
+|
 
-Dorade royale (Sparus aurata) : 23 cm.
+ALOSES
 
-Eglefin (Melanogrammus aeglefinus) : 30 cm.
+|
 
-Espadon (Xiphias gladius) : 170 cm (LJFL) (*).
+Alosa spp.
 
-Flet (Platichthys flesus) : 20 cm.
+|
 
-Germon (Thunus alalunga) : 2 kg.
+30 cm
 
-Hareng (Clupea harengus) : 20 cm.
+|
 
-Lieu noir (Pollachius virens) : 35 cm.
+ANCHOIS
 
-Lieu jaune (Pollachius pollachius) : 30 cm.
+|
 
-Lingue (Molva molva) : 63 cm.
+Engraulis encrasicolus
 
-Lingue bleue (Molva dipterygia) : 70 cm.
+|
 
-Limande (Limanda limanda) : 20 cm.
+12 cm
 
-Limande sole (Microstomus kitt) : 25 cm.
+|
 
-Lotte (Lophius piscatorius) : 50 cm.
+BAR COMMUN
 
-Maigre (Argyrosomus regius) : 45 cm.
+|
 
-Maquereau (Scomber spp.) : 20 cm.
+Dicentrarchus labrax
 
-Maquereau mer du Nord (Scomber spp.) : 30 cm.
+|
 
-Merlan (Merlangius merlangus) : 27 cm.
+42 cm
 
-Merlu (Merluccius merluccius) : 27 cm.
+|
 
-Mostelle (Phycis blennoids) : 30 cm.
+BAR MOUCHETE
 
-Mulet (Mugil spp.) : 30 cm.
+|
 
-Orphie (Belone belone) : 30 cm.
+Dicentrarchus punctatus
 
-Plie/carrelet (Pleuronectes platessa) : 27 cm.
+|
 
-Rouget barbet ou de roche (Mullus spp.) : 15 cm.
+30 cm
 
-Sar commun (Diplodus sargus) : 25 cm.
+|
 
-Sardine (Sardina pilchardus) : 11 cm.
+BARBUE
 
-Sole (Solea spp.) : 24 cm.
+|
 
-Thon rouge (Thunnus thynnus) : 30 kg ou 115 cm.
+Scophtalmus rhombus
 
-Turbot (Psetta maxima) : 30 cm.
+|
+
+30 cm
+
+|
+
+CABILLAUD
+
+|
+
+Gadus morhua
+
+|
+
+42 cm
+
+|
+
+CARDINES
+
+|
+
+Lepidorhombus spp.
+
+|
+
+20 cm
+
+|
+
+CHAPON
+
+|
+
+Scorpaena scrofa
+
+|
+
+30 cm
+
+|
+
+CHINCHARDS
+
+|
+
+Trachurus spp.
+
+|
+
+15 cm
+
+|
+
+CONGRE
+
+|
+
+Conger conger
+
+|
+
+60 cm
+
+|
+
+CORB
+
+|
+
+Sciaena umbra
+
+|
+
+35 cm
+
+|
+
+DORADE GRISE
+
+|
+
+Spondyliosoma cantharus
+
+|
+
+23 cm
+
+|
+
+DORADE ROSE/ PAGEOT ROSE
+
+|
+
+Pagellus bogaraveo
+
+|
+
+23 cm
+
+|
+
+DORADE ROYALE
+
+|
+
+Sparus aurata
+
+|
+
+23 cm
+
+|
+
+EGLEFIN
+
+|
+
+Melanogrammus aeglefinus
+
+|
+
+30 cm
+
+|
+
+ESPADON
+
+|
+
+Xiphias gladius
+
+|
+
+170 cm (LJFL) *
+
+|
+
+FLET
+
+|
+
+Platichthys flesus
+
+|
+
+20 cm
+
+|
+
+GERMON
+
+|
+
+Thunus alalunga
+
+|
+
+2 kg
+
+|
+
+HARENG
+
+|
+
+Clupea harengus
+
+|
+
+20 cm
+
+|
+
+LIEU NOIR
+
+|
+
+Pollachius virens
+
+|
+
+35 cm
+
+|
+
+LIEU JAUNE
+
+|
+
+Pollachius pollachius
+
+|
+
+30 cm
+
+|
+
+LINGUE
+
+|
+
+Molva molva
+
+|
+
+63 cm
+
+|
+
+LINGUE BLEUE
+
+|
+
+Molva dipterygia
+
+|
+
+70 cm
+
+|
+
+LIMANDE
+
+|
+
+Limanda limanda
+
+|
+
+20 cm
+
+|
+
+LIMANDE SOLE
+
+|
+
+Microstomus kitt
+
+|
+
+25 cm
+
+|
+
+LOTTE
+
+|
+
+Lophius piscatorius
+
+|
+
+50 cm
+
+|
+
+MAIGRE
+
+|
+
+Argyrosomus regius
+
+|
+
+45 cm
+
+|
+
+MAKAIRES BLANCS
+
+|
+
+Tetrapturus spp.
+
+|
+
+168 cm (LJFL) *
+
+|
+
+MAKAIRE BLEU
+
+|
+
+Makaira nigricans
+
+|
+
+251 cm (LJFL) *
+
+|
+
+MAQUEREAUX
+
+|
+
+Scomber spp.
+
+|
+
+20 cm
+
+|
+
+MAQUEREAUX (mer du Nord)
+
+|
+
+Scomber spp.
+
+|
+
+30 cm
+
+|
+
+MERLAN
+
+|
+
+Merlangius merlangus
+
+|
+
+27 cm
+
+|
+
+MERLU
+
+|
+
+Merluccius merluccius
+
+|
+
+27 cm
+
+|
+
+MOSTELLES
+
+|
+
+Phycis spp.
+
+|
+
+30 cm
+
+|
+
+MULETS
+
+|
+
+Mugil spp.
+
+|
+
+30 cm
+
+|
+
+ORPHIES
+
+|
+
+Belone spp.
+
+|
+
+30 cm
+
+|
+
+PLIE/ CARRELET
+
+|
+
+Pleuronectes platessa
+
+|
+
+27 cm
+
+|
+
+ROUGETS
+
+|
+
+Mullus spp.
+
+|
+
+15 cm
+
+|
+
+SAR COMMUN
+
+|
+
+Diplodus sargus
+
+|
+
+25 cm
+
+|
+
+SARDINE
+
+|
+
+Sardina pilchardus
+
+|
+
+11 cm
+
+|
+
+SAUMON
+
+|
+
+Salmo salar
+
+|
+
+50 cm
+
+|
+
+SOLES
+
+|
+
+Solea spp.
+
+|
+
+24 cm
+
+|
+
+THON ROUGE
+
+|
+
+Thunnus thynnus
+
+|
+
+30 kg ou 115 cm (longueur à la fourche)
+
+|
+
+TRUITE DE MER
+
+|
+
+Salmo trutta
+
+|
+
+35 cm
+
+|
+
+TURBOT
+
+|
+
+Psetta maxima
+
+|
+
+30 cm
+
+|
+
+(*) LJFL = longueur maxillaire inférieur-fourche.
+
+(*) LT = longueur totale.
+
+(*) LC = longueur céphalothoracique.
+
+|
+
+.
+
+CRUSTACÉS
+
+|
+
+Nom commun
+
+|
+
+Nom scientifique
+
+|
+
+Tailles minimales
+
+|
+
+ARAIGNEE DE MER
+
+|
+
+Maia squinado et Maja brachydactyla
+
+|
+
+12 cm
+
+|
+
+BOUQUET/ CREVETTE ROSE
+
+|
+
+Palaemon serratus
+
+|
+
+5 cm
+
+|
+
+CREVETTES (AUTRES QUE BOUQUET)
+
+|
+
+Crangon spp., Pandalus spp., Palaemon spp. (hors Palaemon serratus), Penaeus spp., Parapenaeus longirostris
+
+|
+
+3 cm
+
+|
+
+ETRILLE
+
+|
+
+Polybius henslowi et Necora puber
+
+|
+
+6,5 cm
+
+|
+
+HOMARD
+
+|
+
+Homarus gammarus
+
+|
+
+8,7 cm (LC) (*)
+
+|
+
+LANGOUSTE ROUGE
+
+|
+
+Palinurus spp.
+
+|
+
+11 cm (LC) (*)
+
+|
+
+LANGOUSTINE
+
+|
+
+Nephrops norvegicus
+
+|
+
+9 cm (LT) (*)
+
+|
+
+Queues de LANGOUSTINES
+
+|
+
+|
+
+4,6 cm
+
+|
+
+TOURTEAU au nord du 48e parallèle Nord
+
+|
+
+Cancer pagurus
+
+|
+
+14 cm
+
+|
+
+TOURTEAU au sud du 48e parallèle Nord
+
+|
+
+Cancer pagurus
+
+|
+
+13 cm
+
+|
+
+(*) LJFL = longueur maxillaire inférieur-fourche.
+
+(*) LT = longueur totale.
+
+(*) LC = longueur céphalothoracique.
+
+|
+
+.
+
+MOLLUSQUES
+
+|
+
+Nom commun
+
+|
+
+Nom scientifique
+
+|
+
+Tailles et poids minimaux
+
+|
+
+BUCCIN/ BULOT
+
+|
+
+Buccinum undatum
+
+|
+
+4,5 cm
+
+|
+
+CLOVISSE
+
+|
+
+Venerupis pullastra
+
+|
+
+4 cm
+
+|
+
+COUTEAUX
+
+|
+
+Ensis spp., Pharus legumen, Solen spp.
+
+|
+
+10 cm
+
+|
+
+COQUE/ HENON
+
+|
+
+Cerastoderma edule
+
+|
+
+3 cm
+
+|
+
+COQUILLE St JACQUES
+
+|
+
+Pecten maximus
+
+|
+
+11 cm
+
+|
+
+HUÎTRE CREUSE
+
+|
+
+Crassostrea gigas
+
+|
+
+5 cm
+
+|
+
+HUÎTRE PLATE
+
+|
+
+Ostrea edulis
+
+|
+
+6 cm
+
+|
+
+MACTRE SOLIDE
+
+|
+
+Spisula solida
+
+|
+
+2,5 cm
+
+|
+
+MOULE
+
+|
+
+Mytilus edulis
+
+|
+
+4 cm
+
+|
+
+OLIVE DE MER/ TELLINE
+
+|
+
+Donax spp. et Tellina spp.
+
+|
+
+2,5 cm
+
+|
+
+ORMEAUX
+
+|
+
+Haliotis spp.
+
+|
+
+9 cm
+
+|
+
+OURSIN
+
+|
+
+Paracentrotus lividus
+
+|
+
+4 cm (piquants exclus)
+
+|
+
+OURSIN, région Bretagne
+
+|
+
+Paracentrotus lividus
+
+|
+
+5,5 cm (piquants exclus)
+
+|
+
+PALOURDE EUROPEENNE
+
+|
+
+Ruditapes decussatus
+
+|
+
+4 cm
+
+|
+
+PALOURDE JAPONAISE
+
+|
+
+Ruditapes philipinarum
+
+|
+
+4 cm
+
+|
+
+PALOURDE ROSE
+
+|
+
+Venerupis rhomboides
+
+|
+
+4 cm
+
+|
+
+PALOURDE ROUGE/ VERNIS
+
+|
+
+Callista spp.
+
+|
+
+6 cm
+
+|
+
+PRAIRES/ CLAM
+
+|
+
+Venus verrucosa/ Mercenaria mercenaria
+
+|
+
+4,3 cm
+
+|
+
+POULPES
+
+|
+
+Octopus vulgaris et Eledone cirrhosa
+
+|
+
+750 g
+
+|
+
+VANNEAUX/ PETONCLES
+
+|
+
+Chlamys spp.
+
+|
+
+4 cm
+
+|
+
+VENUS
+
+|
+
+Spisula spp.
+
+|
+
+2,8 cm
+
+|
+
+(*) LJFL = longueur maxillaire inférieur-fourche.
+
+(*) LT = longueur totale.
+
+(*) LC = longueur céphalothoracique.
+
+|
+
+.
+
+II.-Méditerranée
+
+POISSONS
+
+|
+
+Nom commun
+
+|
+
+Nom scientifique
+
+|
+
+Tailles et poids minimaux
+
+|
+
+ANCHOIS
+
+|
+
+Engraulis encrasicolus
+
+|
+
+9 cm
+
+|
+
+BAR COMMUN/ LOUP
+
+|
+
+Dicentrarchus labrax
+
+|
+
+30 cm
+
+|
+
+CERNIER ATLANTIQUE
+
+|
+
+Polyprion americanus
+
+|
+
+45 cm
+
+|
+
+CHAPON
+
+|
+
+Scorpanea scofra
+
+|
+
+30 cm
+
+|
+
+CHINCHARDS
+
+|
+
+Trachurus spp.
+
+|
+
+15 cm
+
+|
+
+CONGRE
+
+|
+
+Conger conger
+
+|
+
+60 cm
+
+|
+
+CORB
+
+|
+
+Sciaena umbra
+
+|
+
+35 cm
+
+|
+
+DORADE GRISE
+
+|
+
+Spondyliosoma cantharus
+
+|
+
+23 cm
+
+|
+
+DORADE COMMUNE/ PAGEOT ROSE
+
+|
+
+Pagellus bogaraveo
+
+|
+
+33 cm
+
+|
+
+DORADE ROYALE
+
+|
+
+Sparus aurata
+
+|
+
+23 cm
+
+|
+
+ESPADON
+
+|
+
+Xiphias gladius
+
+|
+
+90 cm (LJFL) (*) ou 10 kg de poids vif
+
+|
+
+MAIGRE
+
+|
+
+Argyrosomus regius
+
+|
+
+45 cm
+
+|
+
+MAQUEREAUX
+
+|
+
+Scomber spp.
+
+|
+
+18 cm
+
+|
+
+MARBRE
+
+|
+
+Lithognathus mormyrus
+
+|
+
+20 cm
+
+|
+
+MERLU
+
+|
+
+Merluccius merluccius
+
+|
+
+20 cm
+
+|
+
+MEROUS
+
+|
+
+Epinephelus spp.
+
+|
+
+45 cm
+
+|
+
+MOSTELLES
+
+|
+
+Phycis spp.
+
+|
+
+30 cm
+
+|
+
+PAGEOT ACARNE
+
+|
+
+Pagellus acarne
+
+|
+
+17 cm
+
+|
+
+PAGEOT ROUGE
+
+|
+
+Pagellus erythrinus
+
+|
+
+15 cm
+
+|
+
+PAGRE COMMUN
+
+|
+
+Pagrus pagrus
+
+|
+
+18 cm
+
+|
+
+ROUGETS
+
+|
+
+Mullus spp.
+
+|
+
+15 cm
+
+|
+
+SAR COMMUN
+
+|
+
+Diplodus sargus
+
+|
+
+23 cm
+
+|
+
+SAR à museau pointu
+
+|
+
+Diplodus puntazzo
+
+|
+
+18 cm
+
+|
+
+SAR à tête noire
+
+|
+
+Diplodus vulgaris
+
+|
+
+18 cm
+
+|
+
+SARDINE
+
+|
+
+Sardina pilchardus
+
+|
+
+11 cm
+
+|
+
+SOLES
+
+|
+
+Solea spp.
+
+|
+
+24 cm
+
+|
+
+SPARAILLON
+
+|
+
+Diplodus annularis
+
+|
+
+12 cm
+
+|
+
+THON ROUGE
+
+|
+
+Thunnus thynnus
+
+|
+
+30 kg ou 115 cm (longueur à la fourche)
+
+|
+
+(*) LJFL = longueur maxillaire inférieur-fourche.
+
+(*) LT = longueur totale.
+
+(*) LC = longueur céphalothoracique.
+
+|
+
+.
+
+CRUSTACÉS
+
+|
+
+Nom commun
+
+|
+
+Nom scientifique
+
+|
+
+Tailles minimales
+
+|
+
+CREVETTE ROSE DU LARGE
+
+|
+
+Parapenaeus longirostris
+
+|
+
+2 cm (LC) (*)
+
+|
+
+HOMARD
+
+|
+
+Homarus gammarus
+
+|
+
+30 cm (LT) (*)
+
+|
+
+LANGOUSTES
+
+|
+
+Palinuridae
+
+|
+
+9 cm (LC) (*)
+
+|
+
+LANGOUSTINE
+
+|
+
+Nephrops norvegicus
+
+|
+
+7 cm (LT) (*)
+
+|
+
+(*) LJFL = longueur maxillaire inférieur-fourche.
+
+(*) LT = longueur totale.
+
+(*) LC = longueur céphalothoracique.
+
+|
+
+.
+
+MOLLUSQUES ET AUTRES
+
+|
+
+Nom commun
+
+|
+
+Nom scientifique
+
+|
+
+Tailles et poids minimaux
+
+|
+
+COQUE/ HENON
+
+|
+
+Cerastoderma edule
+
+|
+
+2,7 cm
+
+|
+
+COQUILLE SAINT-JACQUES
+
+|
+
+Pecten jacobeus
+
+|
+
+10 cm
+
+|
+
+HUÎTRE CREUSE
+
+|
+
+Crassostrea gigas
+
+|
+
+6 cm
+
+|
+
+HUÎTRE PLATE
+
+|
+
+Ostrea edulis
+
+|
+
+6 cm
+
+|
+
+OURSIN
+
+|
+
+Paracentrotus lividus
+
+|
+
+pêché en mer, 5 cm (piquants exclus)
+
+|
+
+OURSIN
+
+|
+
+Paracentrotus lividus
+
+|
+
+pêché en étang, 3,5 cm (piquants exclus)
+
+|
+
+PALOURDE EUROPEENNE
+
+|
+
+Ruditapes decussatus
+
+|
+
+3,5 cm
+
+|
+
+PALOURDES (AUTRES)
+
+|
+
+Venerupis spp., Polititapes aureus
+
+|
+
+3 cm
+
+|
+
+PRAIRES
+
+|
+
+Venus spp.
+
+|
+
+2,5 cm
+
+|
+
+TELLINES
+
+|
+
+Donax trunculus et Tellina spp.
+
+|
+
+2,5 cm
+
+|
+
+(*) LJFL = longueur maxillaire inférieur-fourche.
+
+(*) LT = longueur totale.
+
+(*) LC = longueur céphalothoracique.
+
+|
+
+.
+
+.
+
+III. - Mayotte
 
 Crustacés
 
-Araignée de mer (Maia squinado) : 12 cm.
+LANGOUSTES
 
-Bouquet (Palaemon serratus) : 5 cm.
+|
 
-Crevettes (autres que bouquet) : 3 cm.
+Palinurus spp.
 
-Etrille (Polybius henslowi) : 6,5 cm.
+|
 
-Homard (Homarus gammarus) : 8,7 cm (LC) (*).
+18 cm
 
-Langouste rouge (Palinurus spp.) : 11 cm (LC) (*).
+|
 
-Langoustine (Nephrops norvegicus) : 9 cm (LT) (*).
+IV.-Saint-Pierre-et-Miquelon
 
-Queues de langoustine : 4,6 cm.
-
-Tourteau au nord du 48e parallèle Nord (Cancer pagurus) : 14 cm.
-
-Tourteau au sud du 48e parallèle Nord (Cancer pagurus) : 13 cm.
-
-Mollusques et autres
-
-Buccin ou bulot (Buccinum undatum) : 4,5 cm.
-
-Clovisse (Venerupis pullastra) : 4 cm.
-
-Couteau (Ensis spp., pharus legumen) : 10 cm.
-
-Coque (Cerastoderma edule) : 3 cm.
-
-Coquille Saint-Jacques (Pecten maximus) : 11 cm.
-
-Huître creuse (Crassostrea gigas) : 5 cm.
-
-Huître plate (Ostrea edulis) : 6 cm.
-
-Mactre solide (Spisula solida) : 2,5 cm.
-
-Moule (Mytilus edulis) : 4 cm.
-
-Olives de mer (Donax spp.) : 2,5 cm.
-
-Ormeau (Haliotis spp.) : 9 cm.
-
-Oursin (Paracentrotus lividus) : 4 cm (piquants exclus).
-
-Oursin, région Bretagne (Paracentrotus lividus) : 5,5 cm (piquants exclus).
-
-Palourde (Ruditapes decussatus) : 4 cm.
-
-Palourde japonaise (Ruditapes philipinarum) : 4 cm.
-
-Palourde rose (Venerupis rhomboides) : 4 cm.
-
-Palourde rouge (Callista chione) : 6 cm.
-
-Praire (Venus verrucosa, mercenaria mercenaria) : 4,3 cm.
-
-Poulpe (Octopus vulgaris, Eledone cirrosa) : 750 g.
-
-Vanneau ou pétoncle (Chlamys spp.) : 4 cm.
-
-Venus (Spisula spp.) : 2,8 cm.
-
-Vernis (Challista spp.) : 6 cm.
-
-II. ― Méditerranée
-
-Poissons
-
-Anchois (Engraulis encrasicolus) : 9 cm.
-
-Bar/loup commun (Dicentrarchus labrax) : 30 cm.
-
-Cernier Atlantique (Polyprion americanus) : 45 cm.
-
-Chapon (Scorpanea scofra) : 30 cm.
-
-Chinchard (Trachurus spp.) : 15 cm.
-
-Congre (Conger conger) : 60 cm.
-
-Corb (Sciaena umbra) : 35 cm.
-
-Dorade grise (Spondyliosoma cantharus) : 23 cm.
-
-Dorade commune (Pagellus bogaraveo) : 33 cm.
-
-Dorade royale (Sparus aurata) : 23 cm.
-
-Maigre (Argyrosomus regius) : 45 cm.
-
-Maquereau (Scomber spp.) : 18 cm.
-
-Marbre (Lithognathus mormyrus) : 20 cm.
-
-Merlu (Merluccius merluccius) : 20 cm.
-
-Mérous (Epinephelus spp.) : 45 cm.
-
-Mostelle (Phycis blennoids) : 30 cm.
-
-Pageot acarne (Pagellus acarne) : 17 cm.
-
-Pageot gros œil (Pagellus bogaraveo) : 33 cm.
-
-Pageot rouge (Pagellus erythrinus) : 15 cm.
-
-Pagre commun (Pagrus pagrus) : 18 cm.
-
-Rouget barbet ou de roche (Mullus spp.) : 15 cm.
-
-Sar commun (Diplodus sargus) : 23 cm.
-
-Sar à museau pointu (Diplodus puntazzo) : 18 cm.
-
-Sar à tête noire (Diplodus vulgaris) : 18 cm.
-
-Sardine (Sardina pilchardus) : 11 cm.
-
-Soles (Solea spp.) : 24 cm.
-
-Sparaillon (Diplodus annularis) : 12 cm.
-
-Thon rouge (Thunnus thynnus) : 30 kg ou 115 cm.
-
-Crustacés
-
-Crevettes roses du large (Parapenaeus longirostris) : 2 cm (LC) (*).
-
-Homard (Homarus gammarus) : 30 cm (LT) (*).
-
-Langouste (Palinuridae) : 9 cm (LC) (*).
-
-Langoustine (Nephrops norvegicus) : 7 cm (LT) (*).
-
-Mollusques et autres
-
-Coque/henon (Cerastoderma edule) : 2,7 cm.
-
-Coquille Saint-Jacques (Pecten jacobeus) : 10 cm.
-
-Huître creuse (Crassostrea gigas) : 6 cm.
-
-Huître plate (Ostrea edulis) : 6 cm.
-
-Oursin (Paracentrotus lividus) : pêché en mer, 5 cm (piquants exclus).
-
-Oursin (Paracentrotus lividus) : pêché en étang, 3,5 cm (piquants exclus).
-
-Palourde européenne (Ruditapes decussatus) : 3,5 cm.
-
-Palourde jaune ou clovisse (Venerupis spp.) : 3 cm.
-
-Praire (Venus spp.) : 2,5 cm.
-
-Tellines (Donax truncullus et Tellina spp.) : 2,5 cm.
-
-(*) LJFL = longueur maxillaire inférieur-fourche. (*) LT = longueur totale. (*) LC = longueur céphalothoracique.
+Les tailles minimales de capture et de débarquement applicables dans les eaux territoriales ainsi que dans la zone économique française au large des côtes de Saint-Pierre-et-Miquelon figurent dans le décret n° 87-182 du 19 mars 1987 et l'arrêté du 20 mars 1987 fixant certaines mesures de gestion et de conservation des ressources halieutiques dans les eaux territoriales et la zone économique française au large des côtes de Saint-Pierre-et-Miquelon pris en application du décret n° 87-182 du 19 mars 1987.
