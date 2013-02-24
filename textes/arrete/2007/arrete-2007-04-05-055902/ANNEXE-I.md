@@ -20,131 +20,217 @@ Alpes-de-Haute-Provence
 
 |
 
-04006 |
+04006
 
-Allos. |
+|
 
-4 173,22 |
+Allos.
 
-04061 |
+|
 
-Colmars-les-Alpes. |
+4 173,22
 
-1 182,34 |
+|
 
-04096 |
+04061
 
-Jausiers. |
+|
 
-1 349,95 |
+Colmars-les-Alpes.
 
-04100 |
+|
 
-Larche. |
+1 182,34
 
-2 323,40 |
+|
 
-04226 |
+04096
 
-Uvernet-Fours. |
+|
 
-6 239,92 |
+Jausiers.
+
+|
+
+1 349,95
+
+|
+
+04100
+
+|
+
+Larche.
+
+|
+
+2 323,40
+
+|
+
+04226
+
+|
+
+Uvernet-Fours.
+
+|
+
+6 239,92
+
+|
 
 Hautes-Alpes
 
 |
 
-05006 |
+05006
 
-L'Argentière-La-Bessée. |
+|
 
-1 704,63 |
+L'Argentière-La-Bessée.
 
-05031 |
+|
 
-Champcella. |
+1 704,63
 
-734,00 |
+|
 
-05032 |
+05031
 
-Champoléon. |
+|
 
-5 726,29 |
+Champcella.
 
-05036 |
+|
 
-Châteauroux-les-Alpes. |
+734,00
+
+|
+
+05032
+
+|
+
+Champoléon.
+
+|
+
+5 726,29
+
+|
+
+05036
+
+|
+
+Châteauroux-les-Alpes.
+
+|
 
 2 077,74
 
 |
 
-05058 |
+05058
 
-Freissinières. |
+|
+
+Freissinières.
+
+|
 
 4 934,77
 
 |
 
-05063 |
+05063
 
-La Grave. |
+|
+
+La Grave.
+
+|
 
 1 266,51
 
 |
 
-05064 |
+05064
 
-La Chapelle-en-Valgaudémar. |
+|
+
+La Chapelle-en-Valgaudémar.
+
+|
 
 10 951,35
 
 |
 
-05079 |
+05079
 
-Le Monêtier-les-Bains. |
+|
+
+Le Monêtier-les-Bains.
+
+|
 
 3 732,65
 
 |
 
-05090 |
+05090
 
-La Motte-en-Champsaur. |
+|
+
+La Motte-en-Champsaur.
+
+|
 
 2 370,57
 
 |
 
-05096 |
+05096
 
-Orcières. |
+|
+
+Orcières.
+
+|
 
 4 266,89
 
 |
 
-05101 |
+05101
 
-Pelvoux. |
+|
+
+Pelvoux.
+
+|
 
 8 373,25
 
 |
 
-05114 |
+05114
 
-Réallon. |
+|
+
+Réallon.
+
+|
 
 2 057,67
 
 |
 
-05152 |
+05152
+
+|
 
 Saint-Maurice-en-Valgaudemar.
 
@@ -154,25 +240,37 @@ Saint-Maurice-en-Valgaudemar.
 
 |
 
-05175 |
+05175
 
-Vallouise. |
+|
+
+Vallouise.
+
+|
 
 3 843,91
 
 |
 
-05181 |
+05181
 
-Villar-d'Arêne. |
+|
+
+Villar-d'Arêne.
+
+|
 
 4 974,04
 
 |
 
-05182 |
+05182
 
-Villar-Loubière. |
+|
+
+Villar-Loubière.
+
+|
 
 417,32
 
@@ -182,31 +280,45 @@ Alpes-Maritimes
 
 |
 
-06013 |
+06013
 
-Belvédère. |
+|
+
+Belvédère.
+
+|
 
 3 071,91
 
 |
 
-06016 |
+06016
 
-Beuil. |
+|
+
+Beuil.
+
+|
 
 2 412,24
 
 |
 
-06020 |
+06020
 
-Bollène-Vésubie. |
+|
+
+Bollène-Vésubie.
+
+|
 
 546,46
 
 |
 
-06023 |
+06023
+
+|
 
 Breil-sur-Roya.
 
@@ -429,6 +541,46 @@ Valdeblore.
 |
 
 4 108,79
+
+|
+
+Bouches-du-Rhône
+
+|
+
+13055
+
+|
+
+Marseille
+
+|
+
+6 751,45
+
+|
+
+13022
+
+|
+
+Cassis
+
+|
+
+988,63
+
+|
+
+13028
+
+|
+
+La Ciotat
+
+|
+
+758,57
 
 |
 
@@ -852,11 +1004,17 @@ Hures-la-Parade.
 
 |
 
-48075 |
+48075
 
-Ispagnac |
+|
 
-711,81 |
+Ispagnac
+
+|
+
+711,81
+
+|
 
 48186
 
@@ -966,11 +1124,17 @@ Pourcharesses.
 
 |
 
-48122 |
+48122
 
-Quézac |
+|
 
-587,13 |
+Quézac
+
+|
+
+587,13
+
+|
 
 48130
 
@@ -1112,201 +1276,381 @@ Saint-Martin-de-Lansuscle.
 
 |
 
-841,30 |
+841,30
+
+|
 
 48172
 
 |
 
-Saint-Maurice-de-Ventalon. |
+Saint-Maurice-de-Ventalon.
 
-3863,61 |
+|
 
-48176 |
+3863,61
 
-Saint-Pierre-des-Tripiers |
+|
 
-653,74 |
+48176
 
-48178 |
+|
 
-Saint-Privat-de-Vallongue. |
+Saint-Pierre-des-Tripiers
 
-1018,46 |
+|
 
-48193 |
+653,74
 
-Vébron. |
+|
 
-5507,38 |
+48178
 
-48194 |
+|
 
-Vialas. |
+Saint-Privat-de-Vallongue.
 
-3545,62 |
+|
+
+1018,46
+
+|
+
+48193
+
+|
+
+Vébron.
+
+|
+
+5507,38
+
+|
+
+48194
+
+|
+
+Vialas.
+
+|
+
+3545,62
+
+|
 
 Pyrénées-Atlantiques
 
 |
 
-64006 |
+64006
 
-Accous. |
+|
 
-931,65 |
+Accous.
 
-64136 |
+|
 
-Borce. |
+931,65
 
-2649,90 |
+|
 
-64223 |
+64136
 
-Etsaut. |
+|
 
-519,37 |
+Borce.
 
-64320 |
+|
 
-Laruns. |
+2649,90
 
-7819,36 |
+|
 
-64336 |
+64223
 
-Lescun. |
+|
 
-723,07 |
+Etsaut.
 
-64542 |
+|
 
-Urdos. |
+519,37
 
-2236,45 |
+|
+
+64320
+
+|
+
+Laruns.
+
+|
+
+7819,36
+
+|
+
+64336
+
+|
+
+Lescun.
+
+|
+
+723,07
+
+|
+
+64542
+
+|
+
+Urdos.
+
+|
+
+2236,45
+
+|
 
 Hautes-Pyrénées
 
 |
 
-65017 |
+65017
 
-Aragnouet. |
+|
 
-3094,55 |
+Aragnouet.
 
-65032 |
+|
 
-Arrens-Marsous. |
+3094,55
 
-3479,94 |
+|
 
-65481 |
+65032
 
-Barèges. |
+|
 
-251,40 |
+Arrens-Marsous.
 
-65089 |
+|
 
-Betpouey. |
+3479,94
 
-43,93 |
+|
 
-65138 |
+65481
 
-Cauterets. |
+|
 
-8403,50 |
+Barèges.
 
-65169 |
+|
 
-Estaing. |
+251,40
 
-3283,43 |
+|
 
-65188 |
+65089
 
-Gavarnie |
+|
 
-5342,48 |
+Betpouey.
 
-65192 |
+|
 
-Gèdre. |
+43,93
 
-5828,50 |
+|
 
-65295 |
+65138
 
-Luz-Saint-Sauveur. |
+|
 
-1022,83 |
+Cauterets.
+
+|
+
+8403,50
+
+|
+
+65169
+
+|
+
+Estaing.
+
+|
+
+3283,43
+
+|
+
+65188
+
+|
+
+Gavarnie
+
+|
+
+5342,48
+
+|
+
+65192
+
+|
+
+Gèdre.
+
+|
+
+5828,50
+
+|
+
+65295
+
+|
+
+Luz-Saint-Sauveur.
+
+|
+
+1022,83
+
+|
 
 Savoie
 
 |
 
-73015 |
+73015
 
-Allues. |
+|
 
-1557,58 |
+Allues.
 
-73023 |
+|
 
-Aussois. |
+1557,58
 
-1908,84 |
+|
 
-73040 |
+73023
 
-Bessans. |
+|
 
-1238,70 |
+Aussois.
 
-73047 |
+|
 
-Bonneval-sur-Arc. |
+1908,84
 
-5026,16 |
+|
 
-73071 |
+73040
 
-Champagny-en-Vanoise. |
+|
 
-4013,60 |
+Bessans.
 
-73143 |
+|
 
-Lanslebourg-Mont-Cenis. |
+1238,70
 
-690,13 |
+|
 
-73144 |
+73047
 
-Lanslevillard. |
+|
 
-1660,11 |
+Bonneval-sur-Arc.
 
-73157 |
+|
 
-Modane. |
+5026,16
 
-1233,10 |
+|
 
-73197 |
+73071
 
-Peisey-Nancroix. |
+|
 
-2723,15 |
+Champagny-en-Vanoise.
 
-73201 |
+|
 
-Planay. |
+4013,60
 
-236,88 |
+|
+
+73143
+
+|
+
+Lanslebourg-Mont-Cenis.
+
+|
+
+690,13
+
+|
+
+73144
+
+|
+
+Lanslevillard.
+
+|
+
+1660,11
+
+|
+
+73157
+
+|
+
+Modane.
+
+|
+
+1233,10
+
+|
+
+73197
+
+|
+
+Peisey-Nancroix.
+
+|
+
+2723,15
+
+|
+
+73201
+
+|
+
+Planay.
+
+|
+
+236,88
+
+|
 
 73206
 
@@ -1436,11 +1780,13 @@ Var
 
 |
 
-Hyères (Port-Cros, Bagaud, îlots).
+Hyères (Port-Cros, Bagaud, Porquerolles,
+
+îlots).
 
 |
 
-686,00
+1 656,47
 
 |
 
@@ -1460,13 +1806,17 @@ Les Abymes
 
 |
 
-97104 |
+97104
+
+|
 
 Baillif.
 
 |
 
-446,00 |
+446,00
+
+|
 
 97106
 
@@ -1504,11 +1854,17 @@ Gourbeyre.
 
 |
 
-97 111 |
+97 111
 
-Deshaies |
+|
 
-15,90 |
+Deshaies
+
+|
+
+15,90
+
+|
 
 97114
 
@@ -1534,11 +1890,17 @@ Lamentin.
 
 |
 
-97 116 |
+97 116
 
-Morne-à-l'Eau |
+|
 
-108,33 |
+Morne-à-l'Eau
+
+|
+
+108,33
+
+|
 
 97118
 
@@ -1576,9 +1938,13 @@ Saint-Claude.
 
 |
 
-97 129 |
+97 129
 
-Sainte-Rose |
+|
+
+Sainte-Rose
+
+|
 
 457,08
 
@@ -1612,39 +1978,61 @@ Guyane
 
 |
 
-97 352 |
+97 352
+
+|
 
 Saul.
 
 |
 
-103 425,00 |
+103 425,00
 
-97 353 |
+|
 
-Maripasoula. |
+97 353
 
-800 552,00 |
+|
 
-97 356 |
+Maripasoula.
+
+|
+
+800 552,00
+
+|
+
+97 356
+
+|
 
 Camopi.
 
 |
 
-856 686,00 |
+856 686,00
 
-97 358 |
+|
+
+97 358
+
+|
 
 Saint-Elie.
 
 |
 
-127 371,00 |
+127 371,00
 
-97 362 |
+|
 
-Papaichton. |
+97 362
+
+|
+
+Papaichton.
+
+|
 
 77 869,00
 
@@ -1654,19 +2042,33 @@ Réunion
 
 |
 
-97 401 |
+97 401
 
-Les Avirons. |
+|
 
-984,84 |
+Les Avirons.
 
-97 402 |
+|
 
-Bras-Panon. |
+984,84
 
-5 174,47 |
+|
 
-97 403 |
+97 402
+
+|
+
+Bras-Panon.
+
+|
+
+5 174,47
+
+|
+
+97 403
+
+|
 
 Entre-Deux.
 
