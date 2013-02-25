@@ -9268,34 +9268,6 @@ Jusqu'au 29/09/89
 
 |
 
-Véhicules articulés, trains routiers
-
-|
-
-A compter du 01/01/12
-
-|
-
-50 %
-
-|
-
-5 m/s²
-
-|
-
-Jusqu'au 31/12/11
-
-|
-
-Voir : "Véhicules à moteur de transport de marchandises
-
-(catégories N2 et N3)" et "Véhicule remorqué
-
-de transport de marchandises (catégories O3 et O4)"
-
-|
-
 Remorques (catégories O3 et O4)
 
 |
@@ -9455,34 +9427,6 @@ Toutes dates
 |
 
 2,2 m/s²
-
-|
-
-Véhicules articulés, trains routiers
-
-|
-
-A compter du 01/01/12
-
-|
-
-25 %
-
-|
-
-2,5 m/s²
-
-|
-
-Jusqu'au 31/12/11
-
-|
-
-Voir : "Véhicules à moteur de transport de marchandises
-
-(catégories N2 et N3)" et "Véhicule remorqué de transport
-
-de marchandises (catégories O3 et O4)"
 
 |
 
@@ -9882,7 +9826,7 @@ Le contrôleur effectue les contrôles des fonctions 0 à 9 de la présente anne
 
 1. Véhicules lourds de type I : immatriculés à compter du 1er janvier 1960 :
 
-Ces véhicules sont exemptés des points de contrôles et altérations suivantes :
+Ces véhicules sont exemptés des altérations suivantes :
 
 POINT DE CONTROLE |
 
@@ -10176,7 +10120,7 @@ Erreur sur plaque de tare
 
 2. Véhicules lourds de type II : immatriculés avant le 1er janvier 1960 :
 
-Ces véhicules sont exemptés des points de contrôles et altérations suivantes :
+Ces véhicules sont exemptés des altérations suivantes :
 
 POINT DE CONTROLE |
 
