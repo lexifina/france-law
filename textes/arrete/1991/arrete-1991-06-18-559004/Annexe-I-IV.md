@@ -140,7 +140,7 @@ N
 
 |
 
-5.2.6.1.2. issure, cassure (AV, AR.)
+5.2.6.1.2. Fissure, cassure (AV, AR.)
 
 |
 

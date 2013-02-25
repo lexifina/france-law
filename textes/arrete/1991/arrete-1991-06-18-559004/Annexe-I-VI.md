@@ -678,7 +678,7 @@ N
 
 |
 
-H H.2.5.2. Spécification
+H.2.5.2. Spécification
 
 |
 
@@ -1274,7 +1274,7 @@ O
 
 |
 
-H.2.15.1.2. Présence de corps gras (AVD, AVG, ARD, ARG, C)
+H.2.15.1.2. Présence de corps gras (AVD, AVG, ARD, ARG, C
 
 |
 
