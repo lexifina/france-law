@@ -1,0 +1,9 @@
+# Réponse à la question n° 10203
+
+- Question : [10203](10203.md) — Question n° 10203 — FISAC; conditions d'attribution
+
+## Réponse
+
+*JO du 2013-02-26*
+
+La loi de modernisation de l'économie du 4 août 2008 et ses textes d'application ont modifié l'action du fonds d'intervention pour les services, l'artisanat et le commerce (FISAC) en faveur des opérations territoriales en élargissant ses conditions d'intervention, ce qui a généré une très forte augmentation des demandes (1 570 dossiers en 2011 contre 783 en 2008). Dans le même temps, les crédits ouverts en loi de finances ont enregistré une forte diminution (60 M€ en 2008, 42 M€ en 2012). La soutenabilité financière du dispositif n'étant pas assurée, le précédent ministre en charge du commerce a été conduit à redéfinir, dans l'urgence et unilatéralement, le cadre d'intervention du FISAC, notamment en excluant des dépenses subventionnables les aménagements urbains réalisés dans les communes de plus de 3 000 habitants (travaux de voirie, aménagement de trottoirs, de parcs de stationnement...), seuls les investissements ayant un lien incontestable avec les activités commerciales, comme la signalétique commerciale, la rénovation des halles et marchés ou la restructuration des centres commerciaux de proximité, demeurant éligibles. Dans ce contexte particulièrement difficile, une évaluation complète du FISAC est en cours, qui devrait déboucher sur la mise en place d'une allocation plus équitable et mieux ciblée des crédits. Les pouvoirs publics s'attacheront à ce que dans le respect des engagements pris en matière de redressement des finances publiques, ces financements indispensables au dynamisme économique des territoires puissent être préservés. Enfin, pour les années 2010-2012, 41 opérations ont été subventionnées par le FISAC dans le département de la Gironde pour un montant global de 6,04 M€, dont 14 opérations urbaines financées à hauteur de 2,6 M€.
