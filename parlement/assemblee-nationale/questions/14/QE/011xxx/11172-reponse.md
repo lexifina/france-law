@@ -1,0 +1,9 @@
+# Réponse à la question n° 11172
+
+- Question : [11172](11172.md) — Question n° 11172 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-02-26*
+
+La commission chargée de donner un avis sur la pratique artistique de candidats aux concours d'accès au corps des professeurs des écoles nationales supérieures d'art a été créée en application de l'article 7 du décret n° 2002-1520 du 23 décembre 2002 fixant les dispositions statutaires applicables au corps des professeurs des écoles nationales supérieures d'art qui précise les conditions d'ouverture au concours donnant accès au corps des professeurs des écoles nationales supérieures d'art. Elle est chargée de donner un avis sur la pratique artistique régulière, d'une durée de huit années, correspondant à la discipline d'enseignement présentée par des candidats au concours d'accès au corps des professeurs des écoles nationales supérieures d'art. Cet avis est une garantie de neutralité de l'État et assure l'impartialité des décisions prise par l'administration. Composée majoritairement de personnalités qualifiées (enseignants des écoles d'art et professionnels), elle constitue un élément déterminant dans la procédure d'appréciation du critère d'expérience. Cette instance sera prochainement fusionnée avec la commission nationale d'équivalence, mais ce dispositif reste nécessaire pour s'assurer que les artistes recrutés dans le corps des professeurs des écoles supérieures d'art ont une pratique artistique reconnue par leurs pairs, à l'instar de ce qui se pratique dans les autres champs de l'enseignement supérieur et ce, dans le cadre du processus de Bologne qui vise notamment à faciliter la convergence des divers systèmes d'enseignement supérieur vers des systèmes plus transparents, sur la base de trois cycles (licence - master - doctorat).
