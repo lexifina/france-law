@@ -1,0 +1,9 @@
+# Réponse à la question n° 10035
+
+- Question : [10035](10035.md) — Question n° 10035 — réglementation
+
+## Réponse
+
+*JO du 2013-02-26*
+
+La pension de réversion du régime général est accordée, sous conditions de ressources, à partir de cinquante-cinq ans. Dans les régimes complémentaires AGIRC-ARRCO, dont les règles relèvent de la compétence des partenaires sociaux, la pension de réversion est attribuée à 55 ans à l'ARRCO, à 60 ans à l'AGIRC. Toutefois aucune condition d'âge n'est appliquée lorsque le conjoint survivant conserve au moins 2 enfants à sa charge au moment du décès (enfants de moins de 25 ans pour l'ARRCO, de moins de 21 ans pour l'AGIRC). Sont pris en compte, à ce titre, l'enfant légitime, adopté, reconnu, recueilli par une personne ayant la qualité de tuteur ou recueilli par une personne n'ayant pas la qualité de tuteur si son éducation est prise en charge pendant 9 ans avant l'âge de 16 ans. Est considéré comme enfant à charge : l'enfant âgé de moins de 18 ans, l'enfant âgé de 18 à 25 ans étudiant, apprenti ou demandeur d'emploi inscrit à Pôle emploi et non indemnisé par l'association pour l'emploi dans l'industrie et le commerce (ASSEDIC) ou l'enfant invalide, quel que soit son âge, à condition que l'état d'invalidité ait été constaté avant son 21e anniversaire. Cette pension de réversion, attribuée sans condition de ressources, est égale à 60 % de la retraite complémentaire du salarié décédé. Dans l'hypothèse mentionnée dans la question, les conditions d'âge précitées demeurent applicables, dès lors que l'enfant a été indemnisé par l'ASSEDIC et ne peut donc être regardé comme étant à charge, au sens des règles définies par l'AGIRC-ARRCO. En revanche, l'assurée est susceptible de bénéficier, sous condition de ressources, de l'allocation veuvage du régime général.
