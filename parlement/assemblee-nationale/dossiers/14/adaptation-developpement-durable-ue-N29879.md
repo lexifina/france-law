@@ -1,0 +1,59 @@
+# Environnement : adaptation au droit de UE dans le domaine du développement durable
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29879
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/adaptation_developpement_durable_UE
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-585.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-03-06 : 1er dépôt d'une initiative. (PRJLANR5L14B0775)
+  - 2013-03-06 : Etude d'impact (ETDIANR5L14B0775)
+  - 2013-03-06 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-03-06 : Renvoi en commission au fond
+      - 2013-02-26 : Nomination de rapporteur
+      - 2013-05-15 : Réunion de commission
+      - 2013-05-15 : Réunion de commission
+      - 2013-04-10 : Dépôt de rapport (RAPPANR5L14B0913, PRJLANR5L14BTC0913)
+    - Travaux d'une commission saisie pour avis
+      - 2013-03-19 : Saisine pour avis d'une commission
+      - 2013-03-27 : Nomination de rapporteur
+      - 2013-04-03 : Dépôt de rapport (AVISANR5L14B0879)
+  - Discussion en séance publique
+    - 2013-05-15 : Discussion en séance publique
+    - 2013-05-17 : Discussion en séance publique
+    - 2013-05-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-05-17 : Dépôt d'une initiative en navette (PRJLSNR5S199B0585)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-17 : Renvoi en commission au fond
+      - 2013-03-27 : Nomination de rapporteur
+      - 2013-05-22 : Dépôt de rapport (RAPPSNR5S199B0599)
+    - Travaux d'une commission saisie pour avis
+      - 2013-03-27 : Saisine pour avis d'une commission
+      - 2013-03-27 : Nomination de rapporteur
+      - 2013-05-22 : Dépôt de rapport (AVISSNR5S199B0592)
+  - Discussion en séance publique
+    - 2013-05-27 : Discussion en séance publique
+    - 2013-05-27 : Décision
+- Commission Mixte Paritaire
+  - 2013-05-28 : Dépôt d'un projet de loi (PRJLANR5L14B1059)
+  - 2013-05-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-06-12 : Nomination de rapporteur
+    - 2013-06-12 : Dépôt du rapport d'une CMP (RAPPANR5L14B1135)
+    - 2013-06-12 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0661)
+  - Discussion en séance publique
+    - 2013-06-27 : Discussion en séance publique
+    - 2013-06-27 : Décision
+  - Discussion en séance publique
+    - 2013-07-02 : Discussion en séance publique
+    - 2013-07-02 : Décision
+  - 2013-06-13 : Décision de la CMP
+- Promulgation de la loi
+  - 2013-07-16 : Promulgation d'une loi
