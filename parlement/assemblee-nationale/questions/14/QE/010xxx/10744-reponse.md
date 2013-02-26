@@ -1,0 +1,9 @@
+# Réponse à la question n° 10744
+
+- Question : [10744](10744.md) — Question n° 10744 — agents; plan de qualification; perspectives
+
+## Réponse
+
+*JO du 2013-02-26*
+
+Les promotions des agents peuvent s'effectuer soit par tableau d'avancement (TA) lorsque cette promotion a lieu au sein d'une catégorie ( A, B ou C) soit par accès à la catégorie supérieure ( C en B ou B en A). L'avancement par TA se fonde sur les textes suivants : - le décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'État ; - l'arrêté ministériel annuel, pris en application du décret du 1er septembre 2005 précité, fixant les taux de promotion de grade. Ce texte précise que le nombre maximum de fonctionnaires pouvant être promus au grade supérieur est déterminé par application d'un taux rapporté à l'effectif remplissant les conditions statutaires. Il est fixé par arrêté du ministre intéressé, après avis conforme du ministre de la réforme de l'État et de la fonction publique. Il obéit à une logique de taux ( promus / vivier des promouvables) afin de garantir une équité entre les agents. Ces taux font l'objet d'un arrêté interministériel et sont suivis par la direction générale de l'administration et de la fonction publique. Ainsi, pour l'année 2012, c'est bien l'ensemble des promotions de grade de l'année 2012 qui ont été prononcées sur la base de l'arrêté du 28 septembre 2012 fixant les taux de promotion dans certains corps du ministère de l'économie et des finances, publié au journal officiel du 4 octobre 2012. Pour les promotions à la catégorie supérieure, elles sont conditionnées par le statut de chaque corps. L'ensemble de ces promotions prennent en compte les contraintes budgétaires. Elles se fondent sur les mérites des agents. Pour les années 2013 et 2014, les taux de promotion permettant de déterminer le nombre maximum des avancements de grade pouvant être prononcés, ne sont pas encore arrêtés.
