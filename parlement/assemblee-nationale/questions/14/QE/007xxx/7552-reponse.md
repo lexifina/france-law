@@ -1,0 +1,9 @@
+# Réponse à la question n° 7552
+
+- Question : [7552](7552.md) — Question n° 7552 — programmes régionaux; maintien
+
+## Réponse
+
+*JO du 2013-02-26*
+
+Les différentes antennes régionales de France 3 aménagent leurs éditions locales pendant les périodes d'activité moins intenses, comme les vacances scolaires par exemple. Ce dispositif temporaire permet de maîtriser le volume des effectifs des antennes et d'éviter le recours excessif à l'emploi précaire (pigistes et intermittents), en remplacement des journalistes et des techniciens en congés. Pour autant, l'actualité locale est traitée pendant ces périodes par les rédactions régionales et demeure donc accessible au public. Cet effort de maîtrise des charges s'inscrit dans un contexte économique dégradé, qui conduit l'État et l'entreprise à réviser le contrat d'objectifs et de moyens (COM) 2011 - 2015 de France Télévisions, pour tenir compte de la contribution de l'entreprise à l'effort national de redressement des finances publiques et de la révision à la baisse de ses perspectives de recettes publicitaires. Si, dans ce cadre, un effort supplémentaire d'économie sera naturellement demandé à France Télévisions, ses grandes missions seront réaffirmées, notamment la diffusion d'une offre de proximité. Par ailleurs, le Gouvernement veillera à ce que le plan d'affaires inscrit dans l'avenant au COM, qui devrait être formalisé au début de l'année 2013 par l'État et France Télévisions, offre une meilleure visibilité à la société, et lui garantisse un financement pérenne de ses missions de service public. Enfin, l'entreprise a annoncé qu'elle souhaitait ouvrir une négociation sur l'emploi, notamment sur la situation des personnels non permanents, au 1er trimestre 2013. L'emploi étant un sujet prioritaire, le Gouvernement suivra avec beaucoup d'attention le déroulement de ces négociations.
