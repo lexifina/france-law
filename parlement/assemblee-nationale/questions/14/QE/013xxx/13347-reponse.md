@@ -1,0 +1,9 @@
+# Réponse à la question n° 13347
+
+- Question : [13347](13347.md) — Question n° 13347 — contrefaçons à l'étranger; politiques communautaires
+
+## Réponse
+
+*JO du 2013-02-26*
+
+Dans son arrêt du 1er décembre 2011 « Nokia-Philips », la CJUE a exigé que les autorités douanières disposent d'éléments probants ou d'indices forts de commercialisation dans l'Union européenne des marchandises de prime abord destinées à un pays tiers avant de pouvoir les intercepter. Les autorités françaises sont préoccupées par les conséquences de cette jurisprudence, qui a fragilisé l'action de la douane, essentielle dans la protection des droits de propriété intellectuelle. C'est pourquoi les autorités françaises ont demandé que le règlement n° 1383/2003 concernant l'intervention de la douane en matière de protection de la propriété intellectuelle, en cours de révision, autorise désormais expressément les autorités douanières à agir dès l'introduction des marchandises sur le territoire de l'Union, y compris lorsqu'elles sont en transit ou en transbordement, afin que toute marchandise soupçonnée de contrefaçon puisse être effectivement interceptée. Le règlement ainsi révisé devrait bientôt entrer en vigueur, les négociations entre le Parlement européen et le Conseil ayant abouti à un accord en décembre 2012. Par ailleurs, la Commission européenne s'apprête à proposer une révision du règlement sur la marque communautaire et de la directive sur les marques. Les autorités françaises seront vigilantes afin que ces textes autorisent eux aussi l'intervention des douanes sur les marchandises en transit sur le territoire de l'UE. En tout état de cause, les autorités françaises resteront particulièrement mobilisées, y compris au niveau européen, dans la lutte contre la contrefaçon et le piratage, qui portent une atteinte directe aux capacités d'innovation des entreprises et représentent un danger important pour la santé et la sécurité des consommateurs.
