@@ -1,0 +1,9 @@
+# Réponse à la question n° 11821
+
+- Question : [11821](11821.md) — Question n° 11821 — recouvrement des créances; ressortissants étrangers
+
+## Réponse
+
+*JO du 2013-02-26*
+
+A l'issue de la visite d'État effectuée les 19 et 20 décembre 2012 par le Président de la République en Algérie, et s'agissant des relations bilatérales, les présidents de la république des deux pays ont fixé, dans la déclaration d'Alger sur l'amitié et la coopération entre la France et l'Algérie, le cap politique d'une relation forte et renouvelée, cinquante ans après l'indépendance de l'Algérie. Les deux parties sont convenues de progresser ensemble, dans un intérêt partagé, en particulier sur la dimension humaine, et de poursuivre notamment les discussions engagées en vue d'apurer les dettes auprès des établissements hospitaliers français. Concernant les mesures concrètes à prendre par la France, des travaux sont engagés entre les ministères concernés et les principaux établissements hospitaliers afin de trouver des solutions pérennes au recouvrement des créances hospitalières. Une évaluation du montant global de la dette est en cours. On peut d'ores et déjà estimer qu'à la fin de l'année 2012, ce montant, certes significatif, était au total supérieur au montant concernant les seuls hôpitaux de Lyon et de Marseille, mais n'atteignait pas les sommes mentionnées. La France est déterminée, en étroite coopération avec les autorités algériennes, à rénover les outils existants en matière de sécurité sociale (protocole de soins) afin de mieux prendre en compte les nouvelles caractéristiques de la mobilité des personnes entre nos deux pays. Il demeure également important d'améliorer la mise en oeuvre d'un dispositif qui présente des limites, compte-tenu de son ancienneté. A cet effet, la France est attachée à la tenue prochaine de réunions entre experts français et algériens, y compris sur le sujet des créances hospitalières.
