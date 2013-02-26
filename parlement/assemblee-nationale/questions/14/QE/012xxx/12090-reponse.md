@@ -1,0 +1,9 @@
+# Réponse à la question n° 12090
+
+- Question : [12090](12090.md) — Question n° 12090 — conjoints survivants; revendications
+
+## Réponse
+
+*JO du 2013-02-26*
+
+La condition de ressources prévue pour le bénéfice de la pension de réversion servie par le régime général exclut certains revenus : il s'agit notamment des pensions de réversion servies par les régimes de retraite complémentaire obligatoires des salariés et travailleurs indépendants et des revenus tirés des biens mobiliers ou immobiliers acquis par suite du décès du conjoint. Ces revenus peuvent donc se cumuler en totalité avec la pension de réversion, même si cela entraîne un dépassement du plafond annuel de ressources (actuellement, 19 177,60 € pour une personne seule et 30 684,16 € pour un couple). En outre, les revenus d'activité éventuellement perçus par le conjoint survivant âgé d'au moins 55 ans sont, pour leur part, retenus après un abattement de 30 %. La pension de réversion prévue pour les fonctionnaires, égale à 50 % de la pension de l'assuré décédé, est versée sans condition de ressources ni d'âge. Il faut cependant souligner que les salariés du régime général peuvent bénéficier, outre la pension de réversion du régime de base, d'une pension de réversion au titre des régimes complémentaires ARRCO et, le cas échéant, AGIRC (pour ces derniers, la pension de réversion est égale à 60 % de la pension de l'assuré décédé et est attribuée sous condition d'âge sauf dans certaines situations, par exemple, en présence d'au moins deux enfants à charge, mais sans conditions de ressources). S'agissant des prestations accordées par les régimes de la fonction publique, celles-ci correspondent à un effort contributif des salariés et des employeurs spécifique. La comparaison doit se faire non pas isolément, sur un type de prestation, mais sur l'ensemble des droits et obligations qui les caractérisent.
