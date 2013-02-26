@@ -1,0 +1,9 @@
+# Réponse à la question n° 8415
+
+- Question : [8415](8415.md) — Question n° 8415 — création; perspectives; vétérans des essais nucléaires
+
+## Réponse
+
+*JO du 2013-02-26*
+
+Le ministre de la défense tient à préciser à l'honorable parlementaire que le projet de création d'une médaille commémorative en faveur des vétérans des essais nucléaires n'a à ce jour pas encore été communiqué pour approbation à la Grande Chancellerie. En effet, la définition des bénéficiaires potentiels ainsi que la définition des mérites correspondants sont encore aujourd'hui à l'étude. Par ailleurs, techniquement, il convient de souligner que le principe de créer toute nouvelle décoration ou récompense n'est, à titre exceptionnel, agréé par la grande chancellerie de la Légion d'honneur, que sous la réserve que les pouvoirs publics se trouvent dépourvus de tout moyen d'honorer des services ne relevant pas des ordres nationaux ou de toute décoration ou récompense existantes. Or, d'une part, les personnels ayant servi dans le Sahara pendant 90 jours, entre le 28 juin 1961 et le 1er juillet 1964, ont pu obtenir la médaille commémorative des opérations de sécurité et de maintien de l'ordre en Afrique du Nord avec agrafe « Sahara ». D'autre part, la médaille de la défense nationale, instituée par le décret n° 82-358 du 21 avril 1982, a pu aussi être décernée avec l'agrafe « Mururoa Hao » aux militaires affectés à compter de 1981 sur le site de Mururoa en Polynésie. Enfin, les missions accomplies par les militaires et civils sur les lieux d'expérimentations nucléaires ont été prises en compte au titre des deux ordres nationaux et de la médaille militaire. Comme le ministre de la défense s'y est engagé le 11 décembre dernier, les travaux relatifs à la reconnaissance des vétérans des essais vont être poursuivis.
