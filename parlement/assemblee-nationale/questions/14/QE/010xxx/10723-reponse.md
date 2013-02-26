@@ -1,0 +1,9 @@
+# Réponse à la question n° 10723
+
+- Question : [10723](10723.md) — Question n° 10723 — délais; statistiques
+
+## Réponse
+
+*JO du 2013-02-26*
+
+Depuis 2008, le ministère s'est attaché à simplifier et sécuriser le traitement des factures et à garantir un règlement rapide des fournisseurs par la mise en place d'un service facturier. Rattaché au département comptable ministériel, le service facturier est un centre unique de traitement des factures. Il gère la relation avec les fournisseurs sur certification du service fait par l'ordonnateur, de la réception des factures à leur mise en paiement. Le déploiement en janvier 2011 du système d'information financière interministériel CHORUS au sein du ministère a entrainé une réorganisation des services et de la fonction financière, qui, malgré la mobilisation de tous les acteurs de la dépense, a conduit à un allongement des délais de paiement vis-à-vis des fournisseurs. Ainsi le délai moyen de paiement du ministère en 2011 était de 52 jours, ce délai s'expliquant d'une part par la nécessaire reprise manuelle des dossiers dans la nouvelle application avant tout paiement, mais aussi par l'instauration dans l'outil d'un paiement à 30 jours par défaut. En 2012, un certain nombre de mesures ont été prises pour améliorer ce délai global de paiement, comme la généralisation de l'intervention des services gestionnaires pour réduire les délais de paiement après validation du comptable, ou le paiement immédiat des dépenses inférieures à 5000 euros. Les actions menées en vue de la réduction de ce délai global de paiement sont pilotées conjointement avec le comptable et suivies au sein du comité de suivi du contrat de services liant l'ensemble des acteurs de la chaine de la dépense. Ce délai n'a eu de cesse de diminuer en cours de l'année 2012. Ainsi, sur le même périmètre, il s'élève à 37 jours, en moyenne, de janvier à novembre 2012.
