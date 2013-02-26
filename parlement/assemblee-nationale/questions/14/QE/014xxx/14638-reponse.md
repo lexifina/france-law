@@ -1,0 +1,9 @@
+# Réponse à la question n° 14638
+
+- Question : [14638](14638.md) — Question n° 14638 — santé par le sport; perspectives
+
+## Réponse
+
+*JO du 2013-02-26*
+
+La pratique régulière d'une activité physique ou sportive pour tous les publics et à tous les âges s'inscrit parmi les priorités du ministère chargé des sports. Cette ambition a fait l'objet d'une communication conjointe, en conseil des ministres, de la ministre chargée des sports et de la ministre chargée de la santé, le 10 octobre 2012. Le sport et l'activité physique sont reconnus scientifiquement comme des vecteurs d'une politique de santé publique fondée sur la prévention, au-delà de la politique de soins. Cette politique publique « sport santé bien-être » prévoit, entre autre, de s'appuyer sur des actions visant à développer la recommandation des activités physiques et sportives par les médecins et les autres professionnels de santé. Le patient est ensuite pris en charge dans des clubs ou associations dans lesquels les éducateurs sont formés. La volonté de travailler avec les organisations professionnelles du secteur sanitaire ainsi qu'avec les collectivités territoriales, les mutuelles et le secteur associatif est clairement affichée. La réflexion autour des critères des contrats de santé responsables, individuels ou collectifs, fait également partie des orientations à développer avec les mutuelles et les sociétés d'assurance et de prévoyance. Le ministère encouragera toutes les initiatives de ces organismes qui permettent une accessibilité des pratiques physiques aux personnes qui en ont le plus besoin. Le comité de pilotage mis en place dont sont membres notamment le Directeur des sports, le Directeur général de la santé, le Secrétaire général des ministères sociaux, le Président du Comité national olympique et sportif français aura pour objectif de suivre et d'impulser la mise en oeuvre du plan d'action présenté en conseil des ministres.
