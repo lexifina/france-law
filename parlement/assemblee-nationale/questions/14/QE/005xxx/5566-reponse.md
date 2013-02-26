@@ -1,0 +1,9 @@
+# Réponse à la question n° 5566
+
+- Question : [5566](5566.md) — Question n° 5566 — Association pour le développement des échanges internationaux de produits et techniques agroalimentaires; subvention; montant
+
+## Réponse
+
+*JO du 2013-02-26*
+
+Le ministère de l'agriculture, de l'agroalimentaire et de la forêt (MAAF) est conscient de la pertinence et de l'efficacité des actions de promotion menées dans les pays-tiers par l'association pour le développement des échanges internationaux de produits et techniques agroalimentaires (ADEPTA), qui apporte un appui important à l'export de petites et moyennes entreprises ou de très petites entreprises. Le ministère chargé de l'agriculture s'est efforcé, en dépit de contraintes budgétaires croissantes, de préserver la dotation allouée à l'ADEPTA, notamment en 2012 alors que des baisses significatives affectaient, dans le même temps, d'autres budgets dédiés à la promotion. Compte-tenu des contraintes budgétaires pour l'année 2013, il n'est pas possible de revenir sur la réduction du budget consacré aux actions de promotion, décidée en 2010 dans le cadre de l'adoption du budget triennal 2010-2013. Néanmoins, il est primordial de trouver des solutions pour amoindrir les impacts de la diminution de l'aide publique, tant au niveau du personnel concerné, qu'en terme de cohérence des actions de promotion qui pourront être menées. La direction générale des politiques agricole, agroalimentaire et des territoires a d'ores et déjà évoqué des pistes de réflexions avec le président et la secrétaire générale de l'ADEPTA, visant à préserver la compétence de l'ADEPTA, dans le cadre du dispositif public d'appui à l'exportation. Des propositions concrètes doivent être rapidement recherchées, afin de trouver un cadre d'action acceptable pour 2013 et les années à venir.
