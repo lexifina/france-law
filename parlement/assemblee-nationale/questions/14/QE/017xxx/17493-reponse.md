@@ -1,0 +1,9 @@
+# Réponse à la question n° 17493
+
+- Question : [17493](17493.md) — Question n° 17493 — sanctions internationales; attitude de la France
+
+## Réponse
+
+*JO du 2013-02-26*
+
+La situation à l'est de la République démocratique du Congo (RDC) demeure préoccupante. Le mouvement rebelle M23 maintient des positions à proximité de la localité de Goma, en violation de l'accord signé à Kampala le 24 novembre dernier, et la situation sécuritaire reste volatile. Les conséquences humanitaires de cette crise sont dramatiques. Le nombre des personnes déplacées depuis le mois d'avril 2012 s'élève à 917 000 et de nombreuses informations font état d'exactions contre les populations civiles. La France a condamné avec fermeté les soutiens extérieurs dont bénéficie le M23 et appelle au respect de la souveraineté territoriale de la RDC. A ce titre, la résolution 2076 du conseil de sécurité des Nations unies, adoptée à l'initiative de la France, marque la claire volonté d'appliquer des sanctions à ceux qui violent l'intégrité territoriale de la RDC. Elle annonce l'adoption de sanctions contre les principaux responsables du M23. La France a fait part de sa préoccupation à la suite de la publication du rapport du groupe d'expert des Nations unies sur la RDC, qui met notamment en cause le Rwanda pour son soutien au M23. Au regard de ces éléments, un certain nombre de partenaires ainsi que des bailleurs multilatéraux, dont l'Union européenne, ont jugé utile de réfléchir aux modalités d'octroi de l'aide internationale au Rwanda. Les relations bilatérales entre la France et le Rwanda sont en phase de normalisation. La coopération française en faveur du Rwanda est destinée prioritairement à la population rwandaise et ne relève pas de l'aide budgétaire globale. Toute évolution à la baisse de notre dispositif de coopération aurait ainsi des conséquences directes pour les populations locales.
