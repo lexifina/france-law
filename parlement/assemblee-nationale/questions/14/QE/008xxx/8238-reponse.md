@@ -1,0 +1,9 @@
+# Réponse à la question n° 8238
+
+- Question : [8238](8238.md) — Question n° 8238 — bicyclettes; usage; développement; propositions
+
+## Réponse
+
+*JO du 2013-02-26*
+
+Face au poids du déficit public, la France s'est engagée dans une trajectoire de réduction des déficits à 3 % du PIB pour 2013, et un retour progressif à l'équilibre d'ici 2017. La trajectoire arrêtée par le Gouvernement passe notamment par un resserrement du champ d'application des niches et des avantages fiscaux, et non par un nouvel élargissement. A cet effet, le projet de loi de finances pour 2013 prévoit notamment le renforcement du mécanisme de plafonnement global de certains avantages fiscaux à l'impôt sur le revenu, avec un abaissement à 10 000 € de l'avantage procuré, la restriction des niches fiscales des grandes entreprises comme la limitation de la déductibilité des charges financières, et la maîtrise des dépenses de tous les services de l'Etat. Dans ce contexte, la création de nouvelles niches fiscales n'est pas à privilégier. Pour autant, le Gouvernement est sensible aux mesures visant à favoriser l'usage du vélo par les salariés pour leurs trajets domicile-travail. Ainsi, la législation actuelle permet déjà une prise en compte, pour les particuliers, des frais liés à l'utilisation du vélo pour ce type de déplacements. Par ailleurs, l'avantage qui résulte pour le salarié de la prise en charge par son employeur d'un abonnement à un service public de location de vélos, est exonéré d'impôt sur le revenu, en vertu de l'article 81-19° ter du code général des impôts. S'agissant des employeurs, les dépenses supportées pour mettre à la disposition des salariés une flotte de vélos, sont déjà déductibles de l'impôt sur les sociétés. L'ensemble de ces mesures constitue le vecteur approprié de prise en compte du vélo au travers de la fiscalité.
