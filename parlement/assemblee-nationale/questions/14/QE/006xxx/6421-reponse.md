@@ -1,0 +1,9 @@
+# Réponse à la question n° 6421
+
+- Question : [6421](6421.md) — Question n° 6421 — personnels des réseaux et infrastructures; pénibilité du travail; prise en compte
+
+## Réponse
+
+*JO du 2013-02-26*
+
+La loi du 26 octobre 2009 a transféré au 1er janvier 2010 les parcs routiers de l'Etat aux départements et a mis à disposition des conseils généraux, sans limitation de durée, les agents de ces parcs, qui relèvent actuellement du ministère en charge de l'équipement, avec possibilité d'opter pour les cadres d'emploi existants de la fonction publique territoriale. La loi 2012-347 du 12 mars 2012 a prévu que les agents intégrés conservaient, à titre personnel, le bénéfice du départ anticipé pour les ouvriers de l'Etat affectés sur des travaux ou emplois comportant des risques particuliers d'insalubrité prévu au régime des pensions des ouvriers des établissements industriels de l'Etat. Les nouveaux agents recrutés par les collectivités territoriales, qui relèvent de la catégorie sédentaire, se voient en revanche appliquer l'âge d'ouverture du droit à retraite de droit commun, soit 62 ans. La différence de situation au regard des droits à retraite de ces deux catégories de population ne constitue pas une rupture d'égalité dès lors que le bénéfice du départ anticipé prévu par la loi du 12 mars 2012 n'est pas conféré au titre des emplois occupés dans la fonction publique territoriale mais en vertu de droits acquis, avant la mise à disposition aux conseils généraux, du fait de l'accomplissement de services effectifs, en tant qu'agent de l'Etat, au cours d'une carrière antérieure. En outre, la question du traitement de la pénibilité dans les régimes de retraite pourra être réexaminée de façon plus transversale à l'occasion de la réflexion qui sera menée sur les retraites en 2013 et dont le Gouvernement a annoncé la tenue à l'issue de la grande conférence sociale de juillet 2012.
