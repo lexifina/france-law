@@ -1,0 +1,9 @@
+# Réponse à la question n° 11163
+
+- Question : [11163](11163.md) — Question n° 11163 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-02-26*
+
+La loi n° 91-1257 du 17 décembre 1991 accorde le droit d'ester en justice aux associations d'anciens combattants et victimes de guerre qui sont régulièrement déclarées depuis au moins 5 ans à la date des faits et répertoriées auprès de l'Office national des anciens combattants et victimes de guerre (ONAC-VG), et qui se proposent, dans leurs statuts, de défendre les intérêts moraux et l'honneur des anciens combattants et des victimes de la guerre et des morts pour la France. Les associations qui souhaitent être habilitées à ester en justice doivent saisir par écrit le directeur général de l'ONAC-VG et répondre à certains critères tels qu'une assise territoriale nationale et un nombre suffisant de cotisants. Si ces critères ne sont pas remplis, l'article 3 du décret n° 92-701 du 20 juillet 1992 portant application de la loi du 17 décembre 1991 prévoit que la demande d'inscription par l'ONAC-VG est soumise à l'avis d'une commission. Cette commission consultative pour l'habilitation des associations d'anciens combattants et victimes de guerre à ester en justice comprend le directeur général de l'ONAC-VG, président, un représentant du garde des sceaux, ministre de la justice, un représentant du ministre chargé des anciens combattants et deux représentants (un titulaire et un suppléant) d'associations d'anciens combattants siégeant au Conseil national de la vie associative. Depuis 1993, cette commission qui n'a ni secrétariat permanent, ni budget ne s'est réunie que 5 fois pour rendre 17 avis au total. Compte tenu de son activité très irrégulière, sa suppression devrait intervenir prochainement en application des conclusions du comité interministériel pour la modernisation de l'action publique qui s'est tenu le 18 décembre 2012.
