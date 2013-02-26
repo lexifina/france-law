@@ -1,0 +1,9 @@
+# Réponse à la question n° 3338
+
+- Question : [3338](3338.md) — Question n° 3338 — Cour des comptes; rapport; propositions
+
+## Réponse
+
+*JO du 2013-02-26*
+
+Les habitants résidant en Zone urbaine sensible (ZUS) sont en situation de vulnérabilité particulière du fait notamment de leur niveau de diplôme qui est beaucoup plus faible que la moyenne. La formation par alternance, considérée comme une voie efficace d'accès au marché du travail, particulièrement pour les jeunes de faible niveau de qualification, demeure encore largement fermée aux jeunes des quartiers. Ainsi, les derniers résultats diffusés par la direction de l'animation de la recherche, des études et des statistiques (DARES) montrent que les contrats en alternance restent peu mobilisés pour les jeunes résidant en ZUS. Ces derniers représentaient 5,5 % des nouveaux apprentis en 2009 et 5,9 % des jeunes entrants en contrat de professionnalisation en 2010 alors même que la part des jeunes habitants des ZUS dans la population totale des 15-24 ans est de 8,5 %. La circulaire du 2 février 2011 relative à la mise en oeuvre des Contrats d'objectifs et de moyens (COM) apprentissage 2011-2015 précise la priorité accordée à l'accès à certains publics dont les jeunes issus des zones urbaines sensibles. Cette orientation est réaffirmée avec vigueur pour la convention d'objectifs pour les quartiers populaires entre le ministre chargé de l'emploi et le ministre chargé de la ville en cours de finalisation. Cette convention, prévue par la circulaire du premier ministre du 30 novembre 2012. Il s'agit de territorialiser les politiques de l'emploi et de la formation, afin de concentrer les moyens de droit commun dans les quartiers prioritaires de la politique de la ville, à l'image de ce qui a été décidé avec le ciblage de 30 % des emplois d'avenir en direction des jeunes demandeurs d'emploi des zones urbaines sensibles.
