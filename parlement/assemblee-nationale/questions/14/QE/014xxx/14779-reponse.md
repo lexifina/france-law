@@ -1,0 +1,9 @@
+# Réponse à la question n° 14779
+
+- Question : [14779](14779.md) — Question n° 14779 — recherche; développement
+
+## Réponse
+
+*JO du 2013-02-26*
+
+Trois structures d'accompagnement des agriculteurs biologiques (assemblée permanente des chambres d'agricultures et son réseau, fédération nationale d'agriculture biologique et Coop de France) bénéficient de soutiens financiers du compte d'affectation spéciale développement agricole et rural dans le cadre du programme national de développement agricole et rural (PNDAR). Les orientations et choix de mise en oeuvre du prochain PNDAR pour la période 2014-2020 sont en cours d'élaboration avec un double objectif : - tirer partie de la diversité des acteurs de l'accompagnement du développement de l'agriculture biologique ; - optimiser les moyens en recherchant au maximum les synergies entre les acteurs, dans un contexte de maîtrise des dépenses publiques. En outre, l'évaluation du PNDAR est clairement prévue par le code rural et de la pêche maritime (article L.820-1). Elle participe à renforcer la pertinence et l'efficience des programmes et la qualité des démarches de projets. De façon plus globale, afin de donner un élan supplémentaire au développement de l'agriculture biologique en France, un programme national « ambition bio 2017 » sera élaboré d'ici le mois de juin 2013, après notamment une large concertation régionale prévue jusqu'à mi mars 2013. Un comité de pilotage, associant les représentants professionnels et l'administration, a été mis en place en septembre 2012 pour définir la méthode de travail et suivre la préparation du programme. Il se réunira de nouveau à partir de fin mars, une fois les remontées régionales réalisées. Dans ce cadre, la question de l'organisation et de la cohérence des réseaux d'appui aux producteurs biologiques au niveau des régions sera abordée.
