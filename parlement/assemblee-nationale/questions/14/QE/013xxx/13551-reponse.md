@@ -1,0 +1,9 @@
+# Réponse à la question n° 13551
+
+- Question : [13551](13551.md) — Question n° 13551 — bois énergie
+
+## Réponse
+
+*JO du 2013-02-26*
+
+Les opérations portant sur le bois de chauffage, les produits de la sylviculture agglomérée ou les déchets de bois destinés au chauffage sont soumises au taux réduit de 7 % de la taxe sur la valeur ajoutée (TVA) sur le fondement de l'article 3° bis de l'article 278 bis du code général des impôts (CGI). A compter du 1er janvier 2014, la structure des taux de TVA sera réaménagée conformément à l'article 68 de la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, portant le taux normal de TVA de 19,6 % à 20 %, le taux intermédiaire de 7 % à 10 % et abaissant le taux réduit de 5,5 % à 5 %. Par suite, le taux de TVA applicable aux opérations portant sur ces produits sera porté à 10 %. Toutefois, la livraison par réseau d'énergie calorifique produite au moins à 50 % à partir de la biomasse (dont le bois), de la géothermie, des déchets et d'énergie de récupération bénéficie du taux réduit de 5,5 % de la TVA sur le fondement du B de l'article 278-0 bis du CGI, qui sera abaissé d'un demi point à compter du 1er janvier 2014. Il est rappelé que la plupart des autres sources d'énergie ne bénéficient pas d'une fiscalité aussi favorable que la filière bois-énergie en matière de TVA. En effet, la chaleur produite à partir d'hydrocarbures (pétrole et gaz), d'électricité, et même l'énergie provenant de sources d'énergie renouvelable actuellement soumise au taux normal de 19,6 % sera taxée au taux de 20 % à compter du 1er janvier 2014. Ces éléments montrent que le Gouvernement préserve la situation préférentielle de la filière bois-énergie, en raison de son intérêt économique et écologique. Dans la situation actuelle des comptes publics, un effort supplémentaire en faveur de la filière bois est incompatible avec les objectifs de réduction des déficits.
