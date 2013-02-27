@@ -12,7 +12,9 @@ Pour chaque candidat, les épreuves sportives se déroulent sur une demi-journé
 
 1. Tractions : il s'agit de fléchir de manière simultanée les bras en pronation jusqu'à ce que le menton soit au-dessus de la barre puis de redescendre jusqu'à la position bras tendus. La distance entre les mains doit correspondre à la largeur des épaules du sujet. Un maximum de tractions doit être exécuté sans limite de temps.
 
-2. Abdominaux : il s'agit de réaliser une flexion du tronc jusqu'au contact des coudes avec les cuisses puis de revenir à la position de départ sans que les épaules ni la tête ne touchent le sol. Le sujet est allongé sur le dos, genoux et hanches fléchis à 90°. Les pieds en appui contre un mur ou sur une chaise sont tenus par un partenaire ou bloqués contre un espalier. Les épaules doivent être décollées du sol, les coudes fléchis, les mains sur la face avant des épaules, les bras en contact avec la poitrine et le menton placé contre le sternum. Un maximum de répétitions doit être exécuté en deux minutes ;
+2. Abdominaux : il s'agit de réaliser une flexion du tronc jusqu'au contact des coudes avec les cuisses puis de revenir à la position de départ sans que les épaules ni la tête ne touchent le sol.
+
+Le sujet est allongé sur le dos, genoux et hanches fléchis à 90°. Les pieds en appui contre un mur ou sur une chaise sont tenus par un partenaire ou bloqués contre un espalier. Les épaules doivent être décollées du sol, les coudes fléchis, les mains sur la face avant des épaules, les bras en contact avec la poitrine et le menton placé contre le sternum. Un maximum de répétitions doit être exécuté en deux minutes ;
 
 - une course de douze minutes : il s'agit de parcourir, à l'allure de son choix, sans marquer d'arrêt, la plus grande distance possible (arrondie à la cinquantaine de mètres inférieure) pendant une durée de douze minutes. Cette épreuve est effectuée sur piste avec départ en ligne.
 
@@ -468,7 +470,7 @@ Natation
 
 |
 
-240 m
+240"
 
 |
 
@@ -766,15 +768,15 @@ Natation
 
 |
 
-Nota. - 1. L'épreuve de tractions et l'épreuve d'abdominaux sont notées chacune sur 10. Les autres épreuves sont notées sur 20.
+Nota.
+
+1. L'épreuve de tractions et l'épreuve d'abdominaux sont notées chacune sur 10. Les autres épreuves sont notées sur 20.
 
 2. Toute performance qui se trouve comprise entre deux performances différant d'un point entraîne la note correspondant à la performance inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro.
 
 Annexe
 
-Certificat médical d'aptitude à la pratique des épreuves sportives
-
-des concours d'admission dans les grandes écoles militaires
+Certificat médical d'aptitude à la pratique des épreuves sportives des concours d'admission dans les grandes écoles militaires
 
 Je soussigné, docteur,
 
