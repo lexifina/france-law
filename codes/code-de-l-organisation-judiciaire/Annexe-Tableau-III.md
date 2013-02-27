@@ -20,7 +20,9 @@ Alpes-Maritimes
 
 |
 
-Nice |
+Nice
+
+|
 
 Menton, Nice (Ariane).
 
@@ -28,7 +30,9 @@ Menton, Nice (Ariane).
 
 Bouches-du-Rhône |
 
-Aix-en-Provence |
+Aix-en-Provence
+
+|
 
 Aix-en-Provence (Jas du Bouffan), Martigues, Salon-de-Provence.
 
@@ -42,7 +46,9 @@ Aubagne.
 
 |
 
-Tarascon |
+Tarascon
+
+|
 
 Arles
 
@@ -712,19 +718,11 @@ Côtes-d'Armor
 
 |
 
-[Guingamp
+Saint-Brieuc
 
 |
 
-Lannion (3).]
-
-|
-
-[Saint-Brieuc
-
-|
-
-Lannion (4).]
+Lannion, Loudéac
 
 |
 
@@ -734,7 +732,7 @@ Nantes
 
 |
 
-Châteaubriant.
+Nantes, Nantes-Rezé, Châteaubriant.
 
 |
 
