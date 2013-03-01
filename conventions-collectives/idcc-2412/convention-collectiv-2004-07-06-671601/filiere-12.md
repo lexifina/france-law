@@ -1,4 +1,4 @@
-# Article KALIARTI000018661220
+# Article filière 12
 
 FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
 
@@ -60,9 +60,13 @@ Technicienne système et réseau |
 
 Assure la maintenance du parc et des réseaux informatiques et des logiciels d'exploitation et de production. |
 
-Infographiste scripteur |
+Infographiste
 
-Infographiste scripteuse |
+développeur (euse) |
+
+Infographiste
+
+développeur (euse) |
 
 III B |
 
