@@ -2,15 +2,11 @@
 
 1. Liste des pays ou des entités administratives dont les titulaires de passeport sont dispensés de visa pour entrer sur le territoire de la Guadeloupe, la Guyane, la Martinique, La Réunion et de la collectivité de Saint-Pierre-et-Miquelon afin d'y effectuer des séjours dont la durée n'excède pas trois mois par période de six mois sur l'ensemble du territoire défini au premier alinéa de l'article L. 111-2 du code de l'entrée et du séjour des étrangers et du droit d'asile, sauf accord de circulation plus favorable, et limites à cette dispense :
 
-PAYS OU ENTITÉ
-
-administrative
+PAYS OU ENTITÉ administrative
 
 |
 
-CATÉGORIES CONCERNÉES
-
-par la dispense de visa
+CATÉGORIES CONCERNÉES par la dispense de visa
 
 |
 
@@ -18,11 +14,15 @@ Afrique du Sud
 
 |
 
+Pour entrer sur le territoire du département de La Réunion : dispense de visa de court séjour s'étendant à tout type de passeport.
+
+Pour entrer sur le territoire des départements de la Guadeloupe, la Guyane, la Martinique et de la collectivité de Saint-Pierre-et-Miquelon :
+
 Dispense s'appliquant seulement :
 
--aux titulaires d'un passeport diplomatique ou de service ;
+- aux titulaires d'un passeport diplomatique ou de service ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -56,7 +56,7 @@ Anguilla
 
 |
 
-Dispense de visa s'étendant seulement aux départements d'outre-mer de la Guadeloupe et de la Martinique et ne s'appliquant qu'aux titulaires d'un passeport britannique portant, sur la page des données personnelles la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention Anguilla.
+Dispense de visa s'étendant seulement aux départements d'outre-mer de la Guadeloupe et de la Martinique et ne s'appliquant qu'aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention Anguilla .
 
 |
 
@@ -98,9 +98,9 @@ Australie
 
 Dispense de visa, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
--une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
+- une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
 
--et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -126,9 +126,9 @@ Bahreïn
 
 Dispense de visa s'appliquant seulement :
 
--aux titulaires d'un passeport diplomatique ou spécial ;
+- aux titulaires d'un passeport diplomatique ou spécial ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -154,7 +154,7 @@ Bermudes
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page de données personnelles la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention Bermuda.
+Dispense s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page de données personnelles, la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention Bermuda .
 
 |
 
@@ -188,9 +188,9 @@ Brésil
 
 Dispense de visa, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
--une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
+- une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
 
--et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 Dispense de visa ne s'appliquant pas aux titulaires de passeport ordinaire pour entrer sur le territoire du département de la Guyane.
 
@@ -202,9 +202,9 @@ Titulaires d'un passeport britannique dont la nationalité mentionnée sur la pa
 
 Dispense s'appliquant aux seuls titulaires d'un passeport britannique portant, sur la page de données personnelles, à la rubrique nationalité :
 
--British Nationals (Overseas) ;
+- British Nationals (Overseas) ;
 
--ou British Subject et la mention que le titulaire du passeport bénéficie du droit de résidence au Royaume-Uni (right of abode).
+- ou British Subject et la mention que le titulaire du passeport bénéficie du droit de résidence au Royaume-Uni ( right of abode ).
 
 |
 
@@ -232,7 +232,7 @@ Cayman (îles)
 
 |
 
-Dispense s'étendant seulement aux départements d'outre-mer de la Guadeloupe et de la Martinique et s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page de données personnelles la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention Cayman islands.
+Dispense s'étendant seulement aux départements d'outre-mer de la Guadeloupe et de la Martinique et s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page de données personnelles, la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention Cayman islands .
 
 |
 
@@ -288,7 +288,7 @@ Congo (Brazzaville)
 
 |
 
-Dispense de visa s'appliquant jusqu'au 31 juillet 2011 aux seuls titulaires d'un passeport diplomatique sécurisé.
+Dispense de visa s'appliquant jusqu'au 31 juillet 2013 aux seuls titulaires d'un passeport diplomatique sécurisé.
 
 |
 
@@ -298,9 +298,9 @@ Corée du Sud
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
--une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
+- une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
 
--et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -332,7 +332,7 @@ Dominique
 
 |
 
-Dispense de visa pour des séjours d'une durée inférieure ou égale à quinze jours, dans la limite de cent vingt jours cumulés sur une période de douze mois s'étendant seulement aux départements d'outre-mer de la Guadeloupe, de la Martinique et de la Guyane.
+Dispense de visa pour des séjours d'une durée inférieure ou égale à quinze jours, dans la limite de cent vingt jours cumulés sur une période de douze mois, s'étendant seulement aux départements d'outre-mer de la Guadeloupe, de la Martinique et de la Guyane.
 
 |
 
@@ -350,9 +350,9 @@ Emirats arabes unis
 
 Dispense de visa s'appliquant seulement :
 
--aux titulaires d'un passeport diplomatique ou spécial ;
+- aux titulaires d'un passeport diplomatique ou spécial ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -370,9 +370,9 @@ Etats-Unis
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
--une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
+- une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
 
--et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -430,9 +430,9 @@ Japon
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
--une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
+- une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
 
--et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -450,9 +450,9 @@ Koweït
 
 Dispense de visa s'appliquant seulement :
 
--aux titulaires d'un passeport diplomatique ou spécial ;
+- aux titulaires d'un passeport diplomatique ou spécial ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -502,9 +502,9 @@ Mexique
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
--une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
+- une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
 
--et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -520,7 +520,7 @@ Monaco
 
 |
 
-Dispense de visa s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois.
+Dispense de visa s'étendant à tout type de passeport, y compris pour des séjours d'une durée excédant trois mois.
 
 |
 
@@ -538,7 +538,7 @@ Montserrat
 
 |
 
-Dispense de visa s'étendant seulement aux départements d'outre-mer de la Guadeloupe, la Guyane et de la Martinique et s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention Montserrat.
+Dispense de visa s'étendant seulement aux départements d'outre-mer de la Guadeloupe, la Guyane et de la Martinique et s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention Montserrat .
 
 |
 
@@ -572,9 +572,9 @@ Oman
 
 Dispense de visa s'appliquant seulement :
 
--aux titulaires d'un passeport diplomatique, spécial ou de service ;
+- aux titulaires d'un passeport diplomatique, spécial ou de service ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -608,9 +608,9 @@ Qatar
 
 Dispense de visa s'appliquant seulement :
 
--aux titulaires d'un passeport diplomatique ou spécial ;
+- aux titulaires d'un passeport diplomatique ou spécial ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -620,9 +620,9 @@ Russie
 
 Dispense de visa s'appliquant seulement :
 
--aux titulaires d'un passeport diplomatique ;
+- aux titulaires d'un passeport diplomatique ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -638,7 +638,7 @@ Saint-Marin
 
 |
 
-Dispense de visa s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois.
+Dispense de visa s'étendant à tout type de passeport, y compris pour des séjours d'une durée excédant trois mois.
 
 |
 
@@ -662,7 +662,7 @@ Sainte-Lucie
 
 |
 
-Dispense de visa pour des séjours d'une durée inférieure ou égale à quinze jours, dans la limite de cent vingt jours cumulés sur une période de douze mois s'étendant seulement aux départements d'outre-mer de la Guadeloupe, la Guyane et de la Martinique.
+Dispense de visa pour des séjours d'une durée inférieure ou égale à quinze jours, dans la limite de cent vingt jours cumulés sur une période de douze mois, s'étendant seulement aux départements d'outre-mer de la Guadeloupe, la Guyane et de la Martinique.
 
 |
 
@@ -678,7 +678,7 @@ Serbie
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique, à l'exclusion des titulaires de passeports serbes délivrés par la direction de coordination serbe (en serbe : Koordinaciona uprava).
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique, à l'exclusion des titulaires de passeports serbes délivrés par la direction de coordination serbe (en serbe : Koordinaciona uprava ).
 
 |
 
@@ -696,9 +696,9 @@ Singapour
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
--une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
+- une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
 
--et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -732,7 +732,7 @@ Iles Turques et Caïques
 
 |
 
-Dispense de visa s'étendant seulement aux départements d'outre-mer de la Guadeloupe et de la Martinique et s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention Turks and Caicos islands.
+Dispense de visa s'étendant seulement aux départements d'outre-mer de la Guadeloupe et de la Martinique et s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention Turks and Caicos Islands .
 
 |
 
@@ -742,7 +742,7 @@ Iles Vierges britanniques
 
 |
 
-Dispense s'étendant seulement aux départements d'outre-mer de la Guadeloupe et de la Martinique et s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention British Virgin Islands.
+Dispense s'étendant seulement aux départements d'outre-mer de la Guadeloupe et de la Martinique et s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention British Overseas Territories Citizen ou British Dependent Territories Citizen et la mention British Virgin Islands .
 
 |
 
@@ -760,9 +760,9 @@ Ukraine
 
 Dispense de visa s'appliquant seulement :
 
--aux titulaires d'un passeport diplomatique ;
+- aux titulaires d'un passeport diplomatique ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -780,9 +780,9 @@ Venezuela
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
--une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
+- une autorisation de travail est exigée par la réglementation française pour exercer cette activité ;
 
--et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -821,3 +821,11 @@ f) Les passagers se trouvant dans un port français à bord d'un navire y faisan
 3. Les titulaires d'un document d'identité canadien en provenance directe du Canada sont dispensés de passeport et de visa pour un séjour à Saint-Pierre-et-Miquelon n'excédant pas trois mois par période de six mois.
 
 En outre, la dispense précitée s'applique aux listes d'élèves, précisant leurs nom, prénom, date de naissance et nationalité, portant leur photographie ainsi que l'identité des accompagnateurs, dressées par un établissement scolaire situé au Canada, ayant été approuvées préalablement par l'autorité canadienne compétente.
+
+4. Liste des pays dont les ressortissants qui séjournent à l'île Maurice ou aux Seychelles peuvent, dans le cadre d'un séjour faisant l'objet d'un dispositif d'agrément, se voir délivrer gratuitement un visa d'une durée n'excédant pas quinze jours aux points de passage contrôlés du territoire de La Réunion, après accord du représentant de l'Etat, sous réserve qu'ils remplissent les conditions d'entrée fixées par le code de l'entrée et du séjour des étrangers et du droit d'asile :
+
+- Chine
+
+- Inde
+
+- Russie.
