@@ -1,0 +1,33 @@
+# Réponse à la question n° 172
+
+- Question : [172](172.md) — Question n° 172 — hôpital de Fumay; contrat local de santé; Ardennes
+
+## Réponse
+
+*JO du 2013-03-01*
+
+AVENIR DE L'HÔPITAL DE FUMAY
+
+M. le président. La parole est à M. Christophe Léonard, pour exposer sa question, n° 172, relative à l'avenir de l'hôpital de Fumay.
+
+M. Christophe Léonard. Ma question s'adresse à madame la ministre des affaires sociales et de la santé. Je souhaite vous interroger, madame la ministre, sur le renforcement du service public de proximité en matière de santé dans la pointe du département des Ardennes et plus particulièrement sur l'avenir de l'hôpital local de Fumay au regard des engagements n° 9 et n° 11 du " pacte territoire santé " annoncé le 13 décembre 2012.
+
+Unique établissement hospitalier dans un bassin de vie dont les voies de communication sont peu praticables, l'hôpital de Fumay joue un rôle fondamental pour garantir à chacun un accès aux soins urgents en moins de trente minutes. Je souhaite donc vous alerter, madame la ministre, sur le devenir de l'antenne SMUR de Fumay dont les missions - activité SMUR, accueil de patients présentant un besoin de soins d'urgence, relais de la médecine libérale de minuit à huit heures - ont été modifiées au 1er janvier 2012. Auparavant, l'existence de douze postes infirmiers permettait la couverture 24 heures sur 24 des sorties SMUR et l'accueil des patients. Lors des sorties, deux infirmières, dont l'une assurait par ailleurs une activité de consultation et de soins externes, prenaient en charge les patients se présentant pour une urgence. Ceux-ci étaient alors accueillis par une infirmière qui prodiguait les premiers soins, appliquait les protocoles de soins d'urgence et contactait le médecin régulateur du SAMU qui décidait de la prise en charge finale. Cette formule d'intervention, mise en place par l'agence régionale de l'hospitalisation avait été validée par la haute autorité de santé.
+
+Je souhaite également attirer votre attention, madame la ministre, sur la dénonciation récente par l'ARS Champagne-Ardenne du contrat qui liait l'hôpital de Fumay avec un laboratoire local d'analyses biologiques, sur la décision de mettre fin à l'activité de soins externes y compris par les infirmières de l'antenne SMUR, sur la restriction depuis janvier 2012 des horaires d'ouverture du service radiologie de 9 heures à 17 heures du lundi au vendredi et enfin sur la décision de fermeture de la morgue en décembre 2012, prise en l'absence de rapport d'inspection de non-conformité et contraire aux engagements pris lors de la récente reconstruction de l'hôpital de Fumay. Les corps des défunts seront désormais transférés vers un funérarium situé à 27 km de l'hôpital aux termes d'une convention qui, comme le stipule la loi, laisse le coût du transfert du corps à la charge de l'hôpital.
+
+En conclusion, il est urgent de définir un contrat local de santé garantissant la présence effective de médecins au sein de la maison médicale de garde de l'hôpital, une cartographie pérenne de la réponse médicale sur le territoire, une coordination efficace des soins ambulatoires avec les gardes pharmaceutiques, en particulier le week-end, l'efficience dans la réalisation des examens biologiques, le maintien de capacités radiologiques au-delà de 17 heures, la pérennité des moyens notamment infirmiers de l'antenne SMUR de Fumay et plus globalement le respect des engagements pris devant les élus du territoire par l'ARS les 12 et 25 octobre 2012 et le maintien des antennes CPAM toutes proches de Givet et de Monthermé. Pouvez-vous, madame la ministre, me dire quelles sont les intentions du Gouvernement sur tous ces points ?
+
+M. le président. La parole est à Mme la ministre des affaires sociales et de la santé.
+
+Mme Marisol Touraine, ministre des affaires sociales et de la santé. Monsieur le député Christophe Léonard, le centre hospitalier de Fumay assure une part importante de l'offre de soins de proximité pour la pointe des Ardennes, complétée notamment par l'activité de la maison médicale de garde. Une réduction du nombre d'infirmières diplômées d'État à l'accueil des soins urgents a en effet été décidée par le centre hospitalier. Il s'agissait d'améliorer l'équilibre entre les missions réalisées par ses services et celles de l'antenne de service médical d'urgence ou SMUR et d'éviter les erreurs d'orientation des patients en situation d'urgence vitale.
+
+Par précaution, une infirmière diplômée d'État a été maintenue dans le secteur des soins externes du centre hospitalier afin d'y accueillir les patients en urgence en l'absence de l'équipe du SMUR. Afin de sécuriser ce dispositif, la création d'une astreinte médicale supplémentaire articulée avec le centre hospitalier de Charleville semble en effet nécessaire. Je souhaite que ce travail soit accompli rapidement.
+
+À propos des activités de radiologie, je vous confirme ma volonté de développer une offre de soins programmés cohérente. Le matériel de dépistage du cancer du sein est actuellement en cours de renouvellement et des créations de consultations de spécialistes ont été mises en oeuvre.
+
+Enfin, comme elle s'y est engagée, l'agence régionale de santé réunira prochainement les pharmaciens et les médecins des organisations représentatives afin d'harmoniser les permanences. Plus globalement, elle renforcera son travail en lien avec les élus, les établissements et les professionnels de santé de la pointe de Givet afin de parvenir à une offre de santé à la fois globale, pérenne et sécurisée. La réflexion engagée sur un contrat local de santé, dont je vous confirme qu'il doit être un point d'aboutissement, donnera à ce travail la dimension partenariale requise et l'inscrira dans la durée.
+
+M. le président. La parole est à M. Christophe Léonard.
+
+M. Christophe Léonard. Je vous remercie de votre réponse, madame la ministre. J'appelle votre attention sur le caractère urgent de la mise en oeuvre des solutions évoquées. Le territoire que je représente connaît un taux de précarité de 20 %, un taux de chômage supérieur de 2 % à la moyenne nationale et une perte annuelle de population de 0,24 %. Dans ce cadre, les services publics, tant la formation que les transports et bien entendu la santé constituent un élément d'attractivité important du territoire. Mes administrés qui vont aujourd'hui à l'hôpital local de Fumay sont confrontés à une pancarte leur demandant d'appeler le 15. Ce n'est pas satisfaisant. C'est pourquoi le contrat local de santé doit rapidement être mis en oeuvre pour répondre rapidement à toutes ces problématiques et à toutes ces questions de la population que je représente.
