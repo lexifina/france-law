@@ -2,15 +2,7 @@
 
 LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 
-7258
-
-|
-
 20Z021
-
-|
-
-Toxicomanies non éthyliques avec dépendance, niveau 1.
 
 |
 
@@ -18,11 +10,15 @@ Toxicomanies non éthyliques avec dépendance, niveau 1.
 
 |
 
-Toxicomanies non éthyliques avec dépendance, niveau 1.
+Toxicomanies non éthyliques avec dépendance, niveau 1
 
 |
 
-7259
+7258
+
+|
+
+Toxicomanies non éthyliques avec dépendance, niveau 1
 
 |
 
@@ -30,19 +26,19 @@ Toxicomanies non éthyliques avec dépendance, niveau 1.
 
 |
 
-Toxicomanies non éthyliques avec dépendance, niveau 2.
-
-|
-
 7286
 
 |
 
-Toxicomanies non éthyliques avec dépendance, niveau 2.
+Toxicomanies non éthyliques avec dépendance, niveau 2
 
 |
 
-7260
+7259
+
+|
+
+Toxicomanies non éthyliques avec dépendance, niveau 2
 
 |
 
@@ -50,19 +46,19 @@ Toxicomanies non éthyliques avec dépendance, niveau 2.
 
 |
 
-Toxicomanies non éthyliques avec dépendance, niveau 3.
-
-|
-
 7287
 
 |
 
-Toxicomanies non éthyliques avec dépendance, niveau 3.
+Toxicomanies non éthyliques avec dépendance, niveau 3
 
 |
 
-7261
+7260
+
+|
+
+Toxicomanies non éthyliques avec dépendance, niveau 3
 
 |
 
@@ -70,19 +66,19 @@ Toxicomanies non éthyliques avec dépendance, niveau 3.
 
 |
 
-Toxicomanies non éthyliques avec dépendance, niveau 4.
-
-|
-
 7288
 
 |
 
-Toxicomanies non éthyliques avec dépendance, niveau 4.
+Toxicomanies non éthyliques avec dépendance, niveau 4
 
 |
 
-7262
+7261
+
+|
+
+Toxicomanies non éthyliques avec dépendance, niveau 4
 
 |
 
@@ -90,11 +86,11 @@ Toxicomanies non éthyliques avec dépendance, niveau 4.
 
 |
 
-Toxicomanies non éthyliques avec dépendance, très courte durée.
+7262
 
 |
 
-7263
+Toxicomanies non éthyliques avec dépendance, très courte durée
 
 |
 
@@ -102,11 +98,11 @@ Toxicomanies non éthyliques avec dépendance, très courte durée.
 
 |
 
-Abus de drogues non éthyliques sans dépendance, niveau 1.
+7263
 
 |
 
-7264
+Abus de drogues non éthyliques sans dépendance, niveau 1
 
 |
 
@@ -114,11 +110,11 @@ Abus de drogues non éthyliques sans dépendance, niveau 1.
 
 |
 
-Abus de drogues non éthyliques sans dépendance, niveau 2.
+7264
 
 |
 
-7265
+Abus de drogues non éthyliques sans dépendance, niveau 2
 
 |
 
@@ -126,11 +122,11 @@ Abus de drogues non éthyliques sans dépendance, niveau 2.
 
 |
 
-Abus de drogues non éthyliques sans dépendance, niveau 3.
+7265
 
 |
 
-7266
+Abus de drogues non éthyliques sans dépendance, niveau 3
 
 |
 
@@ -138,11 +134,11 @@ Abus de drogues non éthyliques sans dépendance, niveau 3.
 
 |
 
-Abus de drogues non éthyliques sans dépendance, niveau 4.
+7266
 
 |
 
-7267
+Abus de drogues non éthyliques sans dépendance, niveau 4
 
 |
 
@@ -150,19 +146,19 @@ Abus de drogues non éthyliques sans dépendance, niveau 4.
 
 |
 
-Ethylisme avec dépendance, niveau 1.
-
-|
-
 7281
 
 |
 
-Ethylisme avec dépendance, niveau 1.
+Ethylisme avec dépendance, niveau 1
 
 |
 
-7268
+7267
+
+|
+
+Ethylisme avec dépendance, niveau 1
 
 |
 
@@ -170,19 +166,19 @@ Ethylisme avec dépendance, niveau 1.
 
 |
 
-Ethylisme avec dépendance, niveau 2.
-
-|
-
 7282
 
 |
 
-Ethylisme avec dépendance, niveau 2.
+Ethylisme avec dépendance, niveau 2
 
 |
 
-7269
+7268
+
+|
+
+Ethylisme avec dépendance, niveau 2
 
 |
 
@@ -190,17 +186,19 @@ Ethylisme avec dépendance, niveau 2.
 
 |
 
-Ethylisme avec dépendance, niveau 3. |
-
 7283
 
 |
 
-Ethylisme avec dépendance, niveau 3.
+Ethylisme avec dépendance, niveau 3
 
 |
 
-7270
+7269
+
+|
+
+Ethylisme avec dépendance, niveau 3
 
 |
 
@@ -208,19 +206,19 @@ Ethylisme avec dépendance, niveau 3.
 
 |
 
-Ethylisme avec dépendance, niveau 4.
-
-|
-
 7284
 
 |
 
-Ethylisme avec dépendance, niveau 4.
+Ethylisme avec dépendance, niveau 4
 
 |
 
-7271
+7270
+
+|
+
+Ethylisme avec dépendance, niveau 4
 
 |
 
@@ -228,11 +226,11 @@ Ethylisme avec dépendance, niveau 4.
 
 |
 
-Ethylisme avec dépendance, très courte durée.
+7271
 
 |
 
-7272
+Ethylisme avec dépendance, très courte durée
 
 |
 
@@ -240,11 +238,11 @@ Ethylisme avec dépendance, très courte durée.
 
 |
 
-Ethylisme aigu, niveau 1.
+7272
 
 |
 
-7273
+Ethylisme aigu, niveau 1
 
 |
 
@@ -252,11 +250,11 @@ Ethylisme aigu, niveau 1.
 
 |
 
-Ethylisme aigu, niveau 2.
+7273
 
 |
 
-7274
+Ethylisme aigu, niveau 2
 
 |
 
@@ -264,11 +262,11 @@ Ethylisme aigu, niveau 2.
 
 |
 
-Ethylisme aigu, niveau 3.
+7274
 
 |
 
-7275
+Ethylisme aigu, niveau 3
 
 |
 
@@ -276,11 +274,11 @@ Ethylisme aigu, niveau 3.
 
 |
 
-Ethylisme aigu, niveau 4.
+7275
 
 |
 
-7276
+Ethylisme aigu, niveau 4
 
 |
 
@@ -288,11 +286,11 @@ Ethylisme aigu, niveau 4.
 
 |
 
-Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 1.
+7276
 
 |
 
-7277
+Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 1
 
 |
 
@@ -300,11 +298,11 @@ Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 
 
 |
 
-Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 2.
+7277
 
 |
 
-7278
+Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 2
 
 |
 
@@ -312,11 +310,11 @@ Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 
 
 |
 
-Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 3.
+7278
 
 |
 
-7279
+Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 3
 
 |
 
@@ -324,11 +322,11 @@ Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 
 
 |
 
-Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 4.
+7279
 
 |
 
-7280
+Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 4
 
 |
 
@@ -336,131 +334,11 @@ Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 
 
 |
 
-Troubles mentaux organiques induits par l'alcool ou d'autres substances, très courte durée.
+7280
 
 |
 
-7406
-
-|
-
-21C021
-
-|
-
-Greffes de peau pour lésions autres que des brûlures, niveau 1.
-
-|
-
-7407
-
-|
-
-21C022
-
-|
-
-Greffes de peau pour lésions autres que des brûlures, niveau 2.
-
-|
-
-7408
-
-|
-
-21C023
-
-|
-
-Greffes de peau pour lésions autres que des brûlures, niveau 3.
-
-|
-
-7409
-
-|
-
-21C024
-
-|
-
-Greffes de peau pour lésions autres que des brûlures, niveau 4.
-
-|
-
-7410
-
-|
-
-21C02J
-
-|
-
-Greffes de peau pour lésions autres que des brûlures, en ambulatoire.
-
-|
-
-7411
-
-|
-
-21C031
-
-|
-
-Parages de plaies pour lésions autres que des brûlures, niveau 1.
-
-|
-
-7412
-
-|
-
-21C032
-
-|
-
-Parages de plaies pour lésions autres que des brûlures, niveau 2.
-
-|
-
-7413
-
-|
-
-21C033
-
-|
-
-Parages de plaies pour lésions autres que des brûlures, niveau 3.
-
-|
-
-7414
-
-|
-
-21C034
-
-|
-
-Parages de plaies pour lésions autres que des brûlures, niveau 4.
-
-|
-
-7425
-
-|
-
-21C03J
-
-|
-
-Parages de plaies pour lésions autres que des brûlures, en ambulatoire.
-
-|
-
-7415
+Troubles mentaux organiques induits par l'alcool ou d'autres substances, très courte durée
 
 |
 
@@ -468,11 +346,11 @@ Parages de plaies pour lésions autres que des brûlures, en ambulatoire.
 
 |
 
-Interventions sur la main ou le poignet à la suite de blessures, niveau 1.
+7415
 
 |
 
-7416
+Interventions sur la main ou le poignet à la suite de blessures, niveau 1
 
 |
 
@@ -480,11 +358,11 @@ Interventions sur la main ou le poignet à la suite de blessures, niveau 1.
 
 |
 
-Interventions sur la main ou le poignet à la suite de blessures, niveau 2.
+7416
 
 |
 
-7417
+Interventions sur la main ou le poignet à la suite de blessures, niveau 2
 
 |
 
@@ -492,11 +370,11 @@ Interventions sur la main ou le poignet à la suite de blessures, niveau 2.
 
 |
 
-Interventions sur la main ou le poignet à la suite de blessures, niveau 3.
+7417
 
 |
 
-7418
+Interventions sur la main ou le poignet à la suite de blessures, niveau 3
 
 |
 
@@ -504,11 +382,11 @@ Interventions sur la main ou le poignet à la suite de blessures, niveau 3.
 
 |
 
-Interventions sur la main ou le poignet à la suite de blessures, niveau 4.
+7418
 
 |
 
-7419
+Interventions sur la main ou le poignet à la suite de blessures, niveau 4
 
 |
 
@@ -516,11 +394,11 @@ Interventions sur la main ou le poignet à la suite de blessures, niveau 4.
 
 |
 
-Interventions sur la main ou le poignet à la suite de blessures, en ambulatoire.
+7419
 
 |
 
-7420
+Interventions sur la main ou le poignet à la suite de blessures, en ambulatoire
 
 |
 
@@ -528,11 +406,11 @@ Interventions sur la main ou le poignet à la suite de blessures, en ambulatoire
 
 |
 
-Autres interventions pour blessures ou complications d'acte, niveau 1.
+7420
 
 |
 
-7421
+Autres interventions pour blessures ou complications d'acte, niveau 1
 
 |
 
@@ -540,11 +418,11 @@ Autres interventions pour blessures ou complications d'acte, niveau 1.
 
 |
 
-Autres interventions pour blessures ou complications d'acte, niveau 2.
+7421
 
 |
 
-7422
+Autres interventions pour blessures ou complications d'acte, niveau 2
 
 |
 
@@ -552,11 +430,11 @@ Autres interventions pour blessures ou complications d'acte, niveau 2.
 
 |
 
-Autres interventions pour blessures ou complications d'acte, niveau 3.
+7422
 
 |
 
-7423
+Autres interventions pour blessures ou complications d'acte, niveau 3
 
 |
 
@@ -564,11 +442,11 @@ Autres interventions pour blessures ou complications d'acte, niveau 3.
 
 |
 
-Autres interventions pour blessures ou complications d'acte, niveau 4.
+7423
 
 |
 
-7424
+Autres interventions pour blessures ou complications d'acte, niveau 4
 
 |
 
@@ -576,11 +454,71 @@ Autres interventions pour blessures ou complications d'acte, niveau 4.
 
 |
 
-Autres interventions pour blessures ou complications d'acte, en ambulatoire.
+7424
 
 |
 
-7563
+Autres interventions pour blessures ou complications d'acte, en ambulatoire
+
+|
+
+21C061
+
+|
+
+7426
+
+|
+
+Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 1
+
+|
+
+21C062
+
+|
+
+7427
+
+|
+
+Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 2
+
+|
+
+21C063
+
+|
+
+7428
+
+|
+
+Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 3
+
+|
+
+21C064
+
+|
+
+7429
+
+|
+
+Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 4
+
+|
+
+21C06J
+
+|
+
+7430
+
+|
+
+Greffes de peau ou parages de plaies pour lésions autres que des brûlures, en ambulatoire
 
 |
 
@@ -588,11 +526,11 @@ Autres interventions pour blessures ou complications d'acte, en ambulatoire.
 
 |
 
-Traumatismes, allergies et empoisonnements sans acte opératoire, avec anesthésie, en ambulatoire.
+7563
 
 |
 
-7564
+Traumatismes, allergies et empoisonnements sans acte opératoire, avec anesthésie, en ambulatoire
 
 |
 
@@ -600,11 +538,11 @@ Traumatismes, allergies et empoisonnements sans acte opératoire, avec anesthés
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 1.
+7564
 
 |
 
-7565
+Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -612,11 +550,11 @@ Effets toxiques des médicaments et substances biologiques, âge inférieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 2.
+7565
 
 |
 
-7566
+Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -624,11 +562,11 @@ Effets toxiques des médicaments et substances biologiques, âge inférieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 3.
+7566
 
 |
 
-7567
+Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -636,11 +574,11 @@ Effets toxiques des médicaments et substances biologiques, âge inférieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 4.
+7567
 
 |
 
-7614
+Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -648,11 +586,11 @@ Effets toxiques des médicaments et substances biologiques, âge inférieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, très courte durée.
+7614
 
 |
 
-7568
+Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -660,11 +598,11 @@ Effets toxiques des médicaments et substances biologiques, âge inférieur à 1
 
 |
 
-Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 1.
+7568
 
 |
 
-7569
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -672,11 +610,11 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 2.
+7569
 
 |
 
-7570
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -684,11 +622,11 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 3.
+7570
 
 |
 
-7571
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -696,11 +634,11 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 4.
+7571
 
 |
 
-7619
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -708,11 +646,11 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, très courte durée.
+7619
 
 |
 
-7572
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -720,11 +658,11 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, très 
 
 |
 
-Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 1.
+7572
 
 |
 
-7573
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -732,11 +670,11 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 2.
+7573
 
 |
 
-7574
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -744,11 +682,11 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 3.
+7574
 
 |
 
-7575
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -756,11 +694,11 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 4.
+7575
 
 |
 
-7620
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -768,11 +706,11 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, très courte durée.
+7620
 
 |
 
-7576
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -780,11 +718,11 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, très 
 
 |
 
-Traumatismes imprécis, âge inférieur à 18 ans, niveau 1.
+7576
 
 |
 
-7577
+Traumatismes imprécis, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -792,11 +730,11 @@ Traumatismes imprécis, âge inférieur à 18 ans, niveau 1.
 
 |
 
-Traumatismes imprécis, âge inférieur à 18 ans, niveau 2.
+7577
 
 |
 
-7578
+Traumatismes imprécis, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -804,11 +742,11 @@ Traumatismes imprécis, âge inférieur à 18 ans, niveau 2.
 
 |
 
-Traumatismes imprécis, âge inférieur à 18 ans, niveau 3.
+7578
 
 |
 
-7579
+Traumatismes imprécis, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -816,11 +754,11 @@ Traumatismes imprécis, âge inférieur à 18 ans, niveau 3.
 
 |
 
-Traumatismes imprécis, âge inférieur à 18 ans, niveau 4.
+7579
 
 |
 
-7580
+Traumatismes imprécis, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -828,11 +766,11 @@ Traumatismes imprécis, âge inférieur à 18 ans, niveau 4.
 
 |
 
-Traumatismes imprécis, âge supérieur à 17 ans, niveau 1.
+7580
 
 |
 
-7581
+Traumatismes imprécis, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -840,11 +778,11 @@ Traumatismes imprécis, âge supérieur à 17 ans, niveau 1.
 
 |
 
-Traumatismes imprécis, âge supérieur à 17 ans, niveau 2.
+7581
 
 |
 
-7582
+Traumatismes imprécis, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -852,11 +790,11 @@ Traumatismes imprécis, âge supérieur à 17 ans, niveau 2.
 
 |
 
-Traumatismes imprécis, âge supérieur à 17 ans, niveau 3.
+7582
 
 |
 
-7583
+Traumatismes imprécis, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -864,11 +802,11 @@ Traumatismes imprécis, âge supérieur à 17 ans, niveau 3.
 
 |
 
-Traumatismes imprécis, âge supérieur à 17 ans, niveau 4.
+7583
 
 |
 
-7615
+Traumatismes imprécis, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -876,11 +814,11 @@ Traumatismes imprécis, âge supérieur à 17 ans, niveau 4.
 
 |
 
-Traumatismes imprécis, âge supérieur à 17 ans, très courte durée.
+7615
 
 |
 
-7584
+Traumatismes imprécis, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -888,11 +826,11 @@ Traumatismes imprécis, âge supérieur à 17 ans, très courte durée.
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 1.
+7584
 
 |
 
-7585
+Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -900,11 +838,11 @@ Effets toxiques des médicaments et substances biologiques, âge supérieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 2.
+7585
 
 |
 
-7586
+Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -912,11 +850,11 @@ Effets toxiques des médicaments et substances biologiques, âge supérieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 3.
+7586
 
 |
 
-7587
+Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -924,11 +862,11 @@ Effets toxiques des médicaments et substances biologiques, âge supérieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 4.
+7587
 
 |
 
-7616
+Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -936,11 +874,11 @@ Effets toxiques des médicaments et substances biologiques, âge supérieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, très courte durée.
+7616
 
 |
 
-7588
+Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -948,11 +886,11 @@ Effets toxiques des médicaments et substances biologiques, âge supérieur à 1
 
 |
 
-Effets toxiques des autres substances chimiques, niveau 1.
+7588
 
 |
 
-7589
+Effets toxiques des autres substances chimiques, niveau 1
 
 |
 
@@ -960,11 +898,11 @@ Effets toxiques des autres substances chimiques, niveau 1.
 
 |
 
-Effets toxiques des autres substances chimiques, niveau 2.
+7589
 
 |
 
-7590
+Effets toxiques des autres substances chimiques, niveau 2
 
 |
 
@@ -972,11 +910,11 @@ Effets toxiques des autres substances chimiques, niveau 2.
 
 |
 
-Effets toxiques des autres substances chimiques, niveau 3.
+7590
 
 |
 
-7591
+Effets toxiques des autres substances chimiques, niveau 3
 
 |
 
@@ -984,11 +922,11 @@ Effets toxiques des autres substances chimiques, niveau 3.
 
 |
 
-Effets toxiques des autres substances chimiques, niveau 4.
+7591
 
 |
 
-7617
+Effets toxiques des autres substances chimiques, niveau 4
 
 |
 
@@ -996,11 +934,11 @@ Effets toxiques des autres substances chimiques, niveau 4.
 
 |
 
-Effets toxiques des autres substances chimiques, très courte durée.
+7617
 
 |
 
-7592
+Effets toxiques des autres substances chimiques, très courte durée
 
 |
 
@@ -1008,11 +946,11 @@ Effets toxiques des autres substances chimiques, très courte durée.
 
 |
 
-Autres effets toxiques, niveau 1.
+7592
 
 |
 
-7593
+Autres effets toxiques, niveau 1
 
 |
 
@@ -1020,11 +958,11 @@ Autres effets toxiques, niveau 1.
 
 |
 
-Autres effets toxiques, niveau 2.
+7593
 
 |
 
-7594
+Autres effets toxiques, niveau 2
 
 |
 
@@ -1032,11 +970,11 @@ Autres effets toxiques, niveau 2.
 
 |
 
-Autres effets toxiques, niveau 3.
+7594
 
 |
 
-7595
+Autres effets toxiques, niveau 3
 
 |
 
@@ -1044,11 +982,11 @@ Autres effets toxiques, niveau 3.
 
 |
 
-Autres effets toxiques, niveau 4.
+7595
 
 |
 
-7596
+Autres effets toxiques, niveau 4
 
 |
 
@@ -1056,11 +994,11 @@ Autres effets toxiques, niveau 4.
 
 |
 
-Maltraitance, niveau 1.
+7596
 
 |
 
-7597
+Maltraitance, niveau 1
 
 |
 
@@ -1068,11 +1006,11 @@ Maltraitance, niveau 1.
 
 |
 
-Maltraitance, niveau 2.
+7597
 
 |
 
-7598
+Maltraitance, niveau 2
 
 |
 
@@ -1080,11 +1018,11 @@ Maltraitance, niveau 2.
 
 |
 
-Maltraitance, niveau 3.
+7598
 
 |
 
-7599
+Maltraitance, niveau 3
 
 |
 
@@ -1092,11 +1030,11 @@ Maltraitance, niveau 3.
 
 |
 
-Maltraitance, niveau 4.
+7599
 
 |
 
-7600
+Maltraitance, niveau 4
 
 |
 
@@ -1104,11 +1042,11 @@ Maltraitance, niveau 4.
 
 |
 
-Autres traumatismes et effets nocifs autres que les intoxications, niveau 1.
+7600
 
 |
 
-7601
+Autres traumatismes et effets nocifs autres que les intoxications, niveau 1
 
 |
 
@@ -1116,11 +1054,11 @@ Autres traumatismes et effets nocifs autres que les intoxications, niveau 1.
 
 |
 
-Autres traumatismes et effets nocifs autres que les intoxications, niveau 2.
+7601
 
 |
 
-7602
+Autres traumatismes et effets nocifs autres que les intoxications, niveau 2
 
 |
 
@@ -1128,11 +1066,11 @@ Autres traumatismes et effets nocifs autres que les intoxications, niveau 2.
 
 |
 
-Autres traumatismes et effets nocifs autres que les intoxications, niveau 3.
+7602
 
 |
 
-7603
+Autres traumatismes et effets nocifs autres que les intoxications, niveau 3
 
 |
 
@@ -1140,11 +1078,11 @@ Autres traumatismes et effets nocifs autres que les intoxications, niveau 3.
 
 |
 
-Autres traumatismes et effets nocifs autres que les intoxications, niveau 4.
+7603
 
 |
 
-7618
+Autres traumatismes et effets nocifs autres que les intoxications, niveau 4
 
 |
 
@@ -1152,11 +1090,11 @@ Autres traumatismes et effets nocifs autres que les intoxications, niveau 4.
 
 |
 
-Autres traumatismes et effets nocifs autres que les intoxications, très courte durée.
+7618
 
 |
 
-7604
+Autres traumatismes et effets nocifs autres que les intoxications, très courte durée
 
 |
 
@@ -1164,11 +1102,11 @@ Autres traumatismes et effets nocifs autres que les intoxications, très courte 
 
 |
 
-Rejets de greffe, niveau 1.
+7604
 
 |
 
-7605
+Rejets de greffe, niveau 1
 
 |
 
@@ -1176,11 +1114,11 @@ Rejets de greffe, niveau 1.
 
 |
 
-Rejets de greffe, niveau 2.
+7605
 
 |
 
-7606
+Rejets de greffe, niveau 2
 
 |
 
@@ -1188,11 +1126,11 @@ Rejets de greffe, niveau 2.
 
 |
 
-Rejets de greffe, niveau 3.
+7606
 
 |
 
-7607
+Rejets de greffe, niveau 3
 
 |
 
@@ -1200,11 +1138,11 @@ Rejets de greffe, niveau 3.
 
 |
 
-Rejets de greffe, niveau 4.
+7607
 
 |
 
-7608
+Rejets de greffe, niveau 4
 
 |
 
@@ -1212,11 +1150,11 @@ Rejets de greffe, niveau 4.
 
 |
 
-Rejets de greffe, très courte durée.
+7608
 
 |
 
-7609
+Rejets de greffe, très courte durée
 
 |
 
@@ -1224,11 +1162,11 @@ Rejets de greffe, très courte durée.
 
 |
 
-Autres complications iatrogéniques non classées ailleurs, niveau 1.
+7609
 
 |
 
-7610
+Autres complications iatrogéniques non classées ailleurs, niveau 1
 
 |
 
@@ -1236,11 +1174,11 @@ Autres complications iatrogéniques non classées ailleurs, niveau 1.
 
 |
 
-Autres complications iatrogéniques non classées ailleurs, niveau 2.
+7610
 
 |
 
-7611
+Autres complications iatrogéniques non classées ailleurs, niveau 2
 
 |
 
@@ -1248,11 +1186,11 @@ Autres complications iatrogéniques non classées ailleurs, niveau 2.
 
 |
 
-Autres complications iatrogéniques non classées ailleurs, niveau 3.
+7611
 
 |
 
-7612
+Autres complications iatrogéniques non classées ailleurs, niveau 3
 
 |
 
@@ -1260,11 +1198,11 @@ Autres complications iatrogéniques non classées ailleurs, niveau 3.
 
 |
 
-Autres complications iatrogéniques non classées ailleurs, niveau 4.
+7612
 
 |
 
-7613
+Autres complications iatrogéniques non classées ailleurs, niveau 4
 
 |
 
@@ -1272,11 +1210,11 @@ Autres complications iatrogéniques non classées ailleurs, niveau 4.
 
 |
 
-Autres complications iatrogéniques non classées ailleurs, très courte durée.
+7613
 
 |
 
-7802
+Autres complications iatrogéniques non classées ailleurs, très courte durée
 
 |
 
@@ -1284,11 +1222,11 @@ Autres complications iatrogéniques non classées ailleurs, très courte durée.
 
 |
 
-Brûlures non étendues avec greffe cutanée, niveau 1.
+7802
 
 |
 
-7803
+Brûlures non étendues avec greffe cutanée, niveau 1
 
 |
 
@@ -1296,11 +1234,11 @@ Brûlures non étendues avec greffe cutanée, niveau 1.
 
 |
 
-Brûlures non étendues avec greffe cutanée, niveau 2.
+7803
 
 |
 
-7804
+Brûlures non étendues avec greffe cutanée, niveau 2
 
 |
 
@@ -1308,11 +1246,11 @@ Brûlures non étendues avec greffe cutanée, niveau 2.
 
 |
 
-Brûlures non étendues avec greffe cutanée, niveau 3.
+7804
 
 |
 
-7805
+Brûlures non étendues avec greffe cutanée, niveau 3
 
 |
 
@@ -1320,11 +1258,11 @@ Brûlures non étendues avec greffe cutanée, niveau 3.
 
 |
 
-Brûlures non étendues avec greffe cutanée, niveau 4.
+7805
 
 |
 
-7810
+Brûlures non étendues avec greffe cutanée, niveau 4
 
 |
 
@@ -1332,11 +1270,11 @@ Brûlures non étendues avec greffe cutanée, niveau 4.
 
 |
 
-Brûlures non étendues avec greffe cutanée, en ambulatoire.
+7810
 
 |
 
-7806
+Brûlures non étendues avec greffe cutanée, en ambulatoire
 
 |
 
@@ -1344,11 +1282,11 @@ Brûlures non étendues avec greffe cutanée, en ambulatoire.
 
 |
 
-Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 1.
+7806
 
 |
 
-7807
+Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 1
 
 |
 
@@ -1356,11 +1294,11 @@ Brûlures non étendues avec parages de plaie ou autres interventions chirurgica
 
 |
 
-Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 2.
+7807
 
 |
 
-7808
+Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 2
 
 |
 
@@ -1368,11 +1306,11 @@ Brûlures non étendues avec parages de plaie ou autres interventions chirurgica
 
 |
 
-Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 3.
+7808
 
 |
 
-7809
+Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 3
 
 |
 
@@ -1380,11 +1318,11 @@ Brûlures non étendues avec parages de plaie ou autres interventions chirurgica
 
 |
 
-Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 4.
+7809
 
 |
 
-7852
+Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 4
 
 |
 
@@ -1392,11 +1330,11 @@ Brûlures non étendues avec parages de plaie ou autres interventions chirurgica
 
 |
 
-Brûlures sans acte opératoire, avec anesthésie, en ambulatoire.
+7852
 
 |
 
-7853
+Brûlures sans acte opératoire, avec anesthésie, en ambulatoire
 
 |
 
@@ -1404,11 +1342,11 @@ Brûlures sans acte opératoire, avec anesthésie, en ambulatoire.
 
 |
 
-Brûlures et gelures non étendues sans intervention chirurgicale, niveau 1.
+7853
 
 |
 
-7854
+Brûlures et gelures non étendues sans intervention chirurgicale, niveau 1
 
 |
 
@@ -1416,11 +1354,11 @@ Brûlures et gelures non étendues sans intervention chirurgicale, niveau 1.
 
 |
 
-Brûlures et gelures non étendues sans intervention chirurgicale, niveau 2.
+7854
 
 |
 
-7855
+Brûlures et gelures non étendues sans intervention chirurgicale, niveau 2
 
 |
 
@@ -1428,11 +1366,11 @@ Brûlures et gelures non étendues sans intervention chirurgicale, niveau 2.
 
 |
 
-Brûlures et gelures non étendues sans intervention chirurgicale, niveau 3.
+7855
 
 |
 
-7856
+Brûlures et gelures non étendues sans intervention chirurgicale, niveau 3
 
 |
 
@@ -1440,11 +1378,11 @@ Brûlures et gelures non étendues sans intervention chirurgicale, niveau 3.
 
 |
 
-Brûlures et gelures non étendues sans intervention chirurgicale, niveau 4.
+7856
 
 |
 
-7862
+Brûlures et gelures non étendues sans intervention chirurgicale, niveau 4
 
 |
 
@@ -1452,11 +1390,11 @@ Brûlures et gelures non étendues sans intervention chirurgicale, niveau 4.
 
 |
 
-Brûlures et gelures non étendues sans intervention chirurgicale, très courte durée.
+7862
 
 |
 
-7857
+Brûlures et gelures non étendues sans intervention chirurgicale, très courte durée
 
 |
 
@@ -1464,11 +1402,11 @@ Brûlures et gelures non étendues sans intervention chirurgicale, très courte 
 
 |
 
-Brûlures étendues, niveau 1.
+7857
 
 |
 
-7858
+Brûlures étendues, niveau 1
 
 |
 
@@ -1476,11 +1414,11 @@ Brûlures étendues, niveau 1.
 
 |
 
-Brûlures étendues, niveau 2.
+7858
 
 |
 
-7859
+Brûlures étendues, niveau 2
 
 |
 
@@ -1488,11 +1426,11 @@ Brûlures étendues, niveau 2.
 
 |
 
-Brûlures étendues, niveau 3.
+7859
 
 |
 
-7860
+Brûlures étendues, niveau 3
 
 |
 
@@ -1500,11 +1438,11 @@ Brûlures étendues, niveau 3.
 
 |
 
-Brûlures étendues, niveau 4.
+7860
 
 |
 
-7861
+Brûlures étendues, niveau 4
 
 |
 
@@ -1512,11 +1450,11 @@ Brûlures étendues, niveau 4.
 
 |
 
-Brûlures avec transfert vers un autre établissement MCO : séjours de moins de 2 jours.
+7861
 
 |
 
-7901
+Brûlures avec transfert vers un autre établissement MCO : séjours de moins de 2 jours
 
 |
 
@@ -1524,11 +1462,11 @@ Brûlures avec transfert vers un autre établissement MCO : séjours de moins de
 
 |
 
-Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 1.
+7901
 
 |
 
-7902
+Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 1
 
 |
 
@@ -1536,11 +1474,11 @@ Interventions chirurgicales avec autres motifs de recours aux services de santé
 
 |
 
-Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 2.
+7902
 
 |
 
-7903
+Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 2
 
 |
 
@@ -1548,11 +1486,11 @@ Interventions chirurgicales avec autres motifs de recours aux services de santé
 
 |
 
-Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 3.
+7903
 
 |
 
-7904
+Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 3
 
 |
 
@@ -1560,11 +1498,11 @@ Interventions chirurgicales avec autres motifs de recours aux services de santé
 
 |
 
-Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 4.
+7904
 
 |
 
-7905
+Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 4
 
 |
 
@@ -1572,11 +1510,11 @@ Interventions chirurgicales avec autres motifs de recours aux services de santé
 
 |
 
-Interventions chirurgicales avec autres motifs de recours aux services de santé, en ambulatoire.
+7905
 
 |
 
-7959
+Interventions chirurgicales avec autres motifs de recours aux services de santé, en ambulatoire
 
 |
 
@@ -1584,11 +1522,11 @@ Interventions chirurgicales avec autres motifs de recours aux services de santé
 
 |
 
-Explorations nocturnes et apparentées : séjours de moins de 2 jours.
+7959
 
 |
 
-7960
+Explorations nocturnes et apparentées : séjours de moins de 2 jours
 
 |
 
@@ -1596,11 +1534,11 @@ Explorations nocturnes et apparentées : séjours de moins de 2 jours.
 
 |
 
-Motifs de recours de la CMD 23 sans acte opératoire, avec anesthésie, en ambulatoire.
+7960
 
 |
 
-7961
+Motifs de recours de la CMD 23 sans acte opératoire, avec anesthésie, en ambulatoire
 
 |
 
@@ -1608,11 +1546,11 @@ Motifs de recours de la CMD 23 sans acte opératoire, avec anesthésie, en ambul
 
 |
 
-Rééducation, très courte durée.
+7961
 
 |
 
-7962
+Rééducation, très courte durée
 
 |
 
@@ -1620,11 +1558,11 @@ Rééducation, très courte durée.
 
 |
 
-Rééducation.
+7962
 
 |
 
-7963
+Rééducation
 
 |
 
@@ -1632,11 +1570,11 @@ Rééducation.
 
 |
 
-Autres facteurs influant sur l'état de santé, niveau 1.
+7963
 
 |
 
-7964
+Autres facteurs influant sur l'état de santé, niveau 1
 
 |
 
@@ -1644,11 +1582,11 @@ Autres facteurs influant sur l'état de santé, niveau 1.
 
 |
 
-Autres facteurs influant sur l'état de santé, niveau 2.
+7964
 
 |
 
-7965
+Autres facteurs influant sur l'état de santé, niveau 2
 
 |
 
@@ -1656,11 +1594,11 @@ Autres facteurs influant sur l'état de santé, niveau 2.
 
 |
 
-Autres facteurs influant sur l'état de santé, niveau 3.
+7965
 
 |
 
-7966
+Autres facteurs influant sur l'état de santé, niveau 3
 
 |
 
@@ -1668,11 +1606,11 @@ Autres facteurs influant sur l'état de santé, niveau 3.
 
 |
 
-Autres facteurs influant sur l'état de santé, niveau 4.
+7966
 
 |
 
-7967
+Autres facteurs influant sur l'état de santé, niveau 4
 
 |
 
@@ -1680,11 +1618,11 @@ Autres facteurs influant sur l'état de santé, niveau 4.
 
 |
 
-Autres facteurs influant sur l'état de santé, très courte durée.
+7967
 
 |
 
-7968
+Autres facteurs influant sur l'état de santé, très courte durée
 
 |
 
@@ -1692,11 +1630,11 @@ Autres facteurs influant sur l'état de santé, très courte durée.
 
 |
 
-Autres motifs de recours pour infection à VIH, en ambulatoire.
+7968
 
 |
 
-7969
+Autres motifs de recours pour infection à VIH, en ambulatoire
 
 |
 
@@ -1704,11 +1642,11 @@ Autres motifs de recours pour infection à VIH, en ambulatoire.
 
 |
 
-Autres motifs de recours chez un patient diabétique, en ambulatoire.
+7969
 
 |
 
-7970
+Autres motifs de recours chez un patient diabétique, en ambulatoire
 
 |
 
@@ -1716,11 +1654,11 @@ Autres motifs de recours chez un patient diabétique, en ambulatoire.
 
 |
 
-Chimiothérapie pour affections non tumorales, niveau 1.
+7970
 
 |
 
-7971
+Chimiothérapie pour affections non tumorales, niveau 1
 
 |
 
@@ -1728,11 +1666,11 @@ Chimiothérapie pour affections non tumorales, niveau 1.
 
 |
 
-Chimiothérapie pour affections non tumorales, niveau 2.
+7971
 
 |
 
-7972
+Chimiothérapie pour affections non tumorales, niveau 2
 
 |
 
@@ -1740,11 +1678,11 @@ Chimiothérapie pour affections non tumorales, niveau 2.
 
 |
 
-Chimiothérapie pour affections non tumorales, niveau 3.
+7972
 
 |
 
-7973
+Chimiothérapie pour affections non tumorales, niveau 3
 
 |
 
@@ -1752,11 +1690,11 @@ Chimiothérapie pour affections non tumorales, niveau 3.
 
 |
 
-Chimiothérapie pour affections non tumorales, niveau 4.
+7973
 
 |
 
-7974
+Chimiothérapie pour affections non tumorales, niveau 4
 
 |
 
@@ -1764,11 +1702,11 @@ Chimiothérapie pour affections non tumorales, niveau 4.
 
 |
 
-Soins de contrôle chirurgicaux, niveau 1.
+7974
 
 |
 
-7975
+Soins de contrôle chirurgicaux, niveau 1
 
 |
 
@@ -1776,11 +1714,11 @@ Soins de contrôle chirurgicaux, niveau 1.
 
 |
 
-Soins de contrôle chirurgicaux, niveau 2.
+7975
 
 |
 
-7976
+Soins de contrôle chirurgicaux, niveau 2
 
 |
 
@@ -1788,11 +1726,11 @@ Soins de contrôle chirurgicaux, niveau 2.
 
 |
 
-Soins de contrôle chirurgicaux, niveau 3.
+7976
 
 |
 
-7977
+Soins de contrôle chirurgicaux, niveau 3
 
 |
 
@@ -1800,11 +1738,11 @@ Soins de contrôle chirurgicaux, niveau 3.
 
 |
 
-Soins de contrôle chirurgicaux, niveau 4.
+7977
 
 |
 
-7978
+Soins de contrôle chirurgicaux, niveau 4
 
 |
 
@@ -1812,11 +1750,11 @@ Soins de contrôle chirurgicaux, niveau 4.
 
 |
 
-Soins de contrôle chirurgicaux, très courte durée.
+7978
 
 |
 
-7979
+Soins de contrôle chirurgicaux, très courte durée
 
 |
 
@@ -1824,11 +1762,11 @@ Soins de contrôle chirurgicaux, très courte durée.
 
 |
 
-Autres motifs concernant majoritairement la petite enfance, niveau 1.
+7979
 
 |
 
-7980
+Autres motifs concernant majoritairement la petite enfance, niveau 1
 
 |
 
@@ -1836,11 +1774,11 @@ Autres motifs concernant majoritairement la petite enfance, niveau 1.
 
 |
 
-Autres motifs concernant majoritairement la petite enfance, niveau 2.
+7980
 
 |
 
-7981
+Autres motifs concernant majoritairement la petite enfance, niveau 2
 
 |
 
@@ -1848,11 +1786,11 @@ Autres motifs concernant majoritairement la petite enfance, niveau 2.
 
 |
 
-Autres motifs concernant majoritairement la petite enfance, niveau 3.
+7981
 
 |
 
-7982
+Autres motifs concernant majoritairement la petite enfance, niveau 3
 
 |
 
@@ -1860,11 +1798,11 @@ Autres motifs concernant majoritairement la petite enfance, niveau 3.
 
 |
 
-Autres motifs concernant majoritairement la petite enfance, niveau 4.
+7982
 
 |
 
-7995
+Autres motifs concernant majoritairement la petite enfance, niveau 4
 
 |
 
@@ -1872,11 +1810,11 @@ Autres motifs concernant majoritairement la petite enfance, niveau 4.
 
 |
 
-Autres motifs concernant majoritairement la petite enfance, très courte durée.
+7995
 
 |
 
-7983
+Autres motifs concernant majoritairement la petite enfance, très courte durée
 
 |
 
@@ -1884,11 +1822,11 @@ Autres motifs concernant majoritairement la petite enfance, très courte durée.
 
 |
 
-Désensibilisations nécessitant une hospitalisation.
+7983
 
 |
 
-7984
+Désensibilisations nécessitant une hospitalisation
 
 |
 
@@ -1896,11 +1834,11 @@ Désensibilisations nécessitant une hospitalisation.
 
 |
 
-Traitements prophylactiques.
+7984
 
 |
 
-7985
+Traitements prophylactiques
 
 |
 
@@ -1908,11 +1846,11 @@ Traitements prophylactiques.
 
 |
 
-Actes non effectués en raison d'une contre-indication.
+7985
 
 |
 
-7996
+Actes non effectués en raison d'une contre-indication
 
 |
 
@@ -1920,11 +1858,11 @@ Actes non effectués en raison d'une contre-indication.
 
 |
 
-Convalescences et autres motifs sociaux, très courte durée.
+7996
 
 |
 
-7986
+Convalescences et autres motifs sociaux, très courte durée
 
 |
 
@@ -1932,11 +1870,11 @@ Convalescences et autres motifs sociaux, très courte durée.
 
 |
 
-Convalescences et autres motifs sociaux.
+7986
 
 |
 
-7987
+Convalescences et autres motifs sociaux
 
 |
 
@@ -1944,11 +1882,11 @@ Convalescences et autres motifs sociaux.
 
 |
 
-Tests allergologiques nécessitant une hospitalisation.
+7987
 
 |
 
-7988
+Tests allergologiques nécessitant une hospitalisation
 
 |
 
@@ -1956,11 +1894,11 @@ Tests allergologiques nécessitant une hospitalisation.
 
 |
 
-Explorations et surveillance pour autres motifs de recours aux soins.
+7988
 
 |
 
-7989
+Explorations et surveillance pour autres motifs de recours aux soins
 
 |
 
@@ -1968,11 +1906,11 @@ Explorations et surveillance pour autres motifs de recours aux soins.
 
 |
 
-Autres symptômes et motifs de recours aux soins de la CMD 23, très courte durée.
+7989
 
 |
 
-7990
+Autres symptômes et motifs de recours aux soins de la CMD 23, très courte durée
 
 |
 
@@ -1980,11 +1918,11 @@ Autres symptômes et motifs de recours aux soins de la CMD 23, très courte dur�
 
 |
 
-Autres symptômes et motifs de recours aux soins de la CMD 23.
+7990
 
 |
 
-7991
+Autres symptômes et motifs de recours aux soins de la CMD 23
 
 |
 
@@ -1992,19 +1930,15 @@ Autres symptômes et motifs de recours aux soins de la CMD 23.
 
 |
 
-Soins palliatifs, avec ou sans acte, très courte durée.
+7991
 
 |
 
-7992
+Soins palliatifs, avec ou sans acte, très courte durée
 
 |
 
 23Z02Z
-
-|
-
-Soins palliatifs, avec ou sans acte.
 
 |
 
@@ -2012,7 +1946,7 @@ Soins palliatifs, avec ou sans acte.
 
 |
 
-Soins palliatifs, avec ou sans acte.
+Soins palliatifs, avec ou sans acte
 
 |
 
@@ -2020,15 +1954,15 @@ Soins palliatifs, avec ou sans acte.
 
 |
 
-23Z02Z
+Soins palliatifs, avec ou sans acte
 
 |
 
-Soins palliatifs, avec ou sans acte.
+7992
 
 |
 
-9999
+Soins palliatifs, avec ou sans acte
 
 |
 
@@ -2036,11 +1970,11 @@ Soins palliatifs, avec ou sans acte.
 
 |
 
-Interventions de confort et autres interventions non prises en charge par l'assurance maladie obligatoire.
+9999
 
 |
 
-8701
+Interventions de confort et autres interventions non prises en charge par l'assurance maladie obligatoire
 
 |
 
@@ -2048,11 +1982,11 @@ Interventions de confort et autres interventions non prises en charge par l'assu
 
 |
 
-Interventions pour maladie due au VIH, niveau 1.
+8701
 
 |
 
-8702
+Interventions pour maladie due au VIH, niveau 1
 
 |
 
@@ -2060,11 +1994,11 @@ Interventions pour maladie due au VIH, niveau 1.
 
 |
 
-Interventions pour maladie due au VIH, niveau 2.
+8702
 
 |
 
-8703
+Interventions pour maladie due au VIH, niveau 2
 
 |
 
@@ -2072,11 +2006,11 @@ Interventions pour maladie due au VIH, niveau 2.
 
 |
 
-Interventions pour maladie due au VIH, niveau 3.
+8703
 
 |
 
-8704
+Interventions pour maladie due au VIH, niveau 3
 
 |
 
@@ -2084,11 +2018,11 @@ Interventions pour maladie due au VIH, niveau 3.
 
 |
 
-Interventions pour maladie due au VIH, niveau 4.
+8704
 
 |
 
-8755
+Interventions pour maladie due au VIH, niveau 4
 
 |
 
@@ -2096,11 +2030,11 @@ Interventions pour maladie due au VIH, niveau 4.
 
 |
 
-Autres maladies dues au VIH.
+8755
 
 |
 
-8756
+Autres maladies dues au VIH
 
 |
 
@@ -2108,11 +2042,11 @@ Autres maladies dues au VIH.
 
 |
 
-Maladies dues au VIH, avec une seule complication infectieuse.
+8756
 
 |
 
-8757
+Maladies dues au VIH, avec une seule complication infectieuse
 
 |
 
@@ -2120,11 +2054,11 @@ Maladies dues au VIH, avec une seule complication infectieuse.
 
 |
 
-Maladies dues au VIH, avec plusieurs complications infectieuses.
+8757
 
 |
 
-8758
+Maladies dues au VIH, avec plusieurs complications infectieuses
 
 |
 
@@ -2132,11 +2066,11 @@ Maladies dues au VIH, avec plusieurs complications infectieuses.
 
 |
 
-Autres maladies dues au VIH, très courte durée.
+8758
 
 |
 
-8759
+Autres maladies dues au VIH, très courte durée
 
 |
 
@@ -2144,11 +2078,11 @@ Autres maladies dues au VIH, très courte durée.
 
 |
 
-Maladies dues au VIH, avec décès.
+8759
 
 |
 
-8760
+Maladies dues au VIH, avec décès
 
 |
 
@@ -2156,11 +2090,11 @@ Maladies dues au VIH, avec décès.
 
 |
 
-Maladies dues au VIH, âge inférieur à 13 ans, niveau 1.
+8760
 
 |
 
-8761
+Maladies dues au VIH, âge inférieur à 13 ans, niveau 1
 
 |
 
@@ -2168,11 +2102,11 @@ Maladies dues au VIH, âge inférieur à 13 ans, niveau 1.
 
 |
 
-Maladies dues au VIH, âge inférieur à 13 ans, niveau 2.
+8761
 
 |
 
-8762
+Maladies dues au VIH, âge inférieur à 13 ans, niveau 2
 
 |
 
@@ -2180,11 +2114,11 @@ Maladies dues au VIH, âge inférieur à 13 ans, niveau 2.
 
 |
 
-Maladies dues au VIH, âge inférieur à 13 ans, niveau 3.
+8762
 
 |
 
-8763
+Maladies dues au VIH, âge inférieur à 13 ans, niveau 3
 
 |
 
@@ -2192,11 +2126,11 @@ Maladies dues au VIH, âge inférieur à 13 ans, niveau 3.
 
 |
 
-Maladies dues au VIH, âge inférieur à 13 ans, niveau 4.
+8763
 
 |
 
-8802
+Maladies dues au VIH, âge inférieur à 13 ans, niveau 4
 
 |
 
@@ -2204,11 +2138,11 @@ Maladies dues au VIH, âge inférieur à 13 ans, niveau 4.
 
 |
 
-Interventions pour traumatismes multiples graves, niveau 1.
+8802
 
 |
 
-8803
+Interventions pour traumatismes multiples graves, niveau 1
 
 |
 
@@ -2216,11 +2150,11 @@ Interventions pour traumatismes multiples graves, niveau 1.
 
 |
 
-Interventions pour traumatismes multiples graves, niveau 2.
+8803
 
 |
 
-8804
+Interventions pour traumatismes multiples graves, niveau 2
 
 |
 
@@ -2228,11 +2162,11 @@ Interventions pour traumatismes multiples graves, niveau 2.
 
 |
 
-Interventions pour traumatismes multiples graves, niveau 3.
+8804
 
 |
 
-8805
+Interventions pour traumatismes multiples graves, niveau 3
 
 |
 
@@ -2240,11 +2174,11 @@ Interventions pour traumatismes multiples graves, niveau 3.
 
 |
 
-Interventions pour traumatismes multiples graves, niveau 4.
+8805
 
 |
 
-8852
+Interventions pour traumatismes multiples graves, niveau 4
 
 |
 
@@ -2252,11 +2186,11 @@ Interventions pour traumatismes multiples graves, niveau 4.
 
 |
 
-Traumatismes multiples graves, niveau 1.
+8852
 
 |
 
-8853
+Traumatismes multiples graves, niveau 1
 
 |
 
@@ -2264,11 +2198,11 @@ Traumatismes multiples graves, niveau 1.
 
 |
 
-Traumatismes multiples graves, niveau 2.
+8853
 
 |
 
-8854
+Traumatismes multiples graves, niveau 2
 
 |
 
@@ -2276,11 +2210,11 @@ Traumatismes multiples graves, niveau 2.
 
 |
 
-Traumatismes multiples graves, niveau 3.
+8854
 
 |
 
-8855
+Traumatismes multiples graves, niveau 3
 
 |
 
@@ -2288,11 +2222,11 @@ Traumatismes multiples graves, niveau 3.
 
 |
 
-Traumatismes multiples graves, niveau 4.
+8855
 
 |
 
-8906
+Traumatismes multiples graves, niveau 4
 
 |
 
@@ -2300,11 +2234,11 @@ Traumatismes multiples graves, niveau 4.
 
 |
 
-Transplantations hépatiques, niveau 1.
+8906
 
 |
 
-8907
+Transplantations hépatiques, niveau 1
 
 |
 
@@ -2312,11 +2246,11 @@ Transplantations hépatiques, niveau 1.
 
 |
 
-Transplantations hépatiques, niveau 2.
+8907
 
 |
 
-8908
+Transplantations hépatiques, niveau 2
 
 |
 
@@ -2324,11 +2258,11 @@ Transplantations hépatiques, niveau 2.
 
 |
 
-Transplantations hépatiques, niveau 3.
+8908
 
 |
 
-8909
+Transplantations hépatiques, niveau 3
 
 |
 
@@ -2336,11 +2270,11 @@ Transplantations hépatiques, niveau 3.
 
 |
 
-Transplantations hépatiques, niveau 4.
+8909
 
 |
 
-8910
+Transplantations hépatiques, niveau 4
 
 |
 
@@ -2348,11 +2282,11 @@ Transplantations hépatiques, niveau 4.
 
 |
 
-Transplantations pancréatiques, niveau 1.
+8910
 
 |
 
-8911
+Transplantations pancréatiques, niveau 1
 
 |
 
@@ -2360,11 +2294,11 @@ Transplantations pancréatiques, niveau 1.
 
 |
 
-Transplantations pancréatiques, niveau 2.
+8911
 
 |
 
-8912
+Transplantations pancréatiques, niveau 2
 
 |
 
@@ -2372,11 +2306,11 @@ Transplantations pancréatiques, niveau 2.
 
 |
 
-Transplantations pancréatiques, niveau 3.
+8912
 
 |
 
-8913
+Transplantations pancréatiques, niveau 3
 
 |
 
@@ -2384,11 +2318,11 @@ Transplantations pancréatiques, niveau 3.
 
 |
 
-Transplantations pancréatiques, niveau 4.
+8913
 
 |
 
-8914
+Transplantations pancréatiques, niveau 4
 
 |
 
@@ -2396,19 +2330,19 @@ Transplantations pancréatiques, niveau 4.
 
 |
 
-Transplantations pulmonaires, niveau 1.
-
-|
-
 8930
 
 |
 
-Transplantations pulmonaires, niveau 1.
+Transplantations pulmonaires, niveau 1
 
 |
 
-8915
+8914
+
+|
+
+Transplantations pulmonaires, niveau 1
 
 |
 
@@ -2416,19 +2350,19 @@ Transplantations pulmonaires, niveau 1.
 
 |
 
-Transplantations pulmonaires, niveau 2.
-
-|
-
 8931
 
 |
 
-Transplantations pulmonaires, niveau 2.
+Transplantations pulmonaires, niveau 2
 
 |
 
-8916
+8915
+
+|
+
+Transplantations pulmonaires, niveau 2
 
 |
 
@@ -2436,19 +2370,19 @@ Transplantations pulmonaires, niveau 2.
 
 |
 
-Transplantations pulmonaires, niveau 3.
-
-|
-
 8932
 
 |
 
-Transplantations pulmonaires, niveau 3.
+Transplantations pulmonaires, niveau 3
 
 |
 
-8917
+8916
+
+|
+
+Transplantations pulmonaires, niveau 3
 
 |
 
@@ -2456,19 +2390,19 @@ Transplantations pulmonaires, niveau 3.
 
 |
 
-Transplantations pulmonaires, niveau 4.
-
-|
-
 8933
 
 |
 
-Transplantations pulmonaires, niveau 4.
+Transplantations pulmonaires, niveau 4
 
 |
 
-8918
+8917
+
+|
+
+Transplantations pulmonaires, niveau 4
 
 |
 
@@ -2476,19 +2410,19 @@ Transplantations pulmonaires, niveau 4.
 
 |
 
-Transplantations cardiaques, niveau 1.
-
-|
-
 8934
 
 |
 
-Transplantations cardiaques, niveau 1.
+Transplantations cardiaques, niveau 1
 
 |
 
-8919
+8918
+
+|
+
+Transplantations cardiaques, niveau 1
 
 |
 
@@ -2496,19 +2430,19 @@ Transplantations cardiaques, niveau 1.
 
 |
 
-Transplantations cardiaques, niveau 2.
-
-|
-
 8935
 
 |
 
-Transplantations cardiaques, niveau 2.
+Transplantations cardiaques, niveau 2
 
 |
 
-8920
+8919
+
+|
+
+Transplantations cardiaques, niveau 2
 
 |
 
@@ -2516,19 +2450,19 @@ Transplantations cardiaques, niveau 2.
 
 |
 
-Transplantations cardiaques, niveau 3.
-
-|
-
 8936
 
 |
 
-Transplantations cardiaques, niveau 3.
+Transplantations cardiaques, niveau 3
 
 |
 
-8921
+8920
+
+|
+
+Transplantations cardiaques, niveau 3
 
 |
 
@@ -2536,19 +2470,19 @@ Transplantations cardiaques, niveau 3.
 
 |
 
-Transplantations cardiaques, niveau 4.
-
-|
-
 8937
 
 |
 
-Transplantations cardiaques, niveau 4.
+Transplantations cardiaques, niveau 4
 
 |
 
-8922
+8921
+
+|
+
+Transplantations cardiaques, niveau 4
 
 |
 
@@ -2556,11 +2490,11 @@ Transplantations cardiaques, niveau 4.
 
 |
 
-Transplantations rénales, niveau 1.
+8922
 
 |
 
-8923
+Transplantations rénales, niveau 1
 
 |
 
@@ -2568,11 +2502,11 @@ Transplantations rénales, niveau 1.
 
 |
 
-Transplantations rénales, niveau 2.
+8923
 
 |
 
-8924
+Transplantations rénales, niveau 2
 
 |
 
@@ -2580,11 +2514,11 @@ Transplantations rénales, niveau 2.
 
 |
 
-Transplantations rénales, niveau 3.
+8924
 
 |
 
-8925
+Transplantations rénales, niveau 3
 
 |
 
@@ -2592,11 +2526,11 @@ Transplantations rénales, niveau 3.
 
 |
 
-Transplantations rénales, niveau 4.
+8925
 
 |
 
-8926
+Transplantations rénales, niveau 4
 
 |
 
@@ -2604,11 +2538,11 @@ Transplantations rénales, niveau 4.
 
 |
 
-Autres transplantations, niveau 1.
+8926
 
 |
 
-8927
+Autres transplantations, niveau 1
 
 |
 
@@ -2616,11 +2550,11 @@ Autres transplantations, niveau 1.
 
 |
 
-Autres transplantations, niveau 2.
+8927
 
 |
 
-8928
+Autres transplantations, niveau 2
 
 |
 
@@ -2628,11 +2562,11 @@ Autres transplantations, niveau 2.
 
 |
 
-Autres transplantations, niveau 3.
+8928
 
 |
 
-8929
+Autres transplantations, niveau 3
 
 |
 
@@ -2640,11 +2574,11 @@ Autres transplantations, niveau 3.
 
 |
 
-Autres transplantations, niveau 4.
+8929
 
 |
 
-8970
+Autres transplantations, niveau 4
 
 |
 
@@ -2652,11 +2586,11 @@ Autres transplantations, niveau 4.
 
 |
 
-Allogreffes de cellules souches hématopoïétiques, niveau 1.
+8970
 
 |
 
-8971
+Allogreffes de cellules souches hématopoïétiques, niveau 1
 
 |
 
@@ -2664,11 +2598,11 @@ Allogreffes de cellules souches hématopoïétiques, niveau 1.
 
 |
 
-Allogreffes de cellules souches hématopoïétiques, niveau 2.
+8971
 
 |
 
-8972
+Allogreffes de cellules souches hématopoïétiques, niveau 2
 
 |
 
@@ -2676,11 +2610,11 @@ Allogreffes de cellules souches hématopoïétiques, niveau 2.
 
 |
 
-Allogreffes de cellules souches hématopoïétiques, niveau 3.
+8972
 
 |
 
-8973
+Allogreffes de cellules souches hématopoïétiques, niveau 3
 
 |
 
@@ -2688,11 +2622,11 @@ Allogreffes de cellules souches hématopoïétiques, niveau 3.
 
 |
 
-Allogreffes de cellules souches hématopoïétiques, niveau 4.
+8973
 
 |
 
-8977
+Allogreffes de cellules souches hématopoïétiques, niveau 4
 
 |
 
@@ -2700,11 +2634,11 @@ Allogreffes de cellules souches hématopoïétiques, niveau 4.
 
 |
 
-Autogreffes de cellules souches hématopoïétiques.
+8977
 
 |
 
-8976
+Autogreffes de cellules souches hématopoïétiques
 
 |
 
@@ -2712,11 +2646,11 @@ Autogreffes de cellules souches hématopoïétiques.
 
 |
 
-Greffes de cellules souches hématopoïétiques, en ambulatoire.
+8976
 
 |
 
-9602
+Greffes de cellules souches hématopoïétiques, en ambulatoire
 
 |
 
@@ -2724,11 +2658,11 @@ Greffes de cellules souches hématopoïétiques, en ambulatoire.
 
 |
 
-Entraînements à la dialyse péritonéale automatisée, en séances.
+9602
 
 |
 
-9603
+Entraînements à la dialyse péritonéale automatisée, en séances
 
 |
 
@@ -2736,11 +2670,11 @@ Entraînements à la dialyse péritonéale automatisée, en séances.
 
 |
 
-Entraînements à la dialyse péritonéale continue ambulatoire, en séances.
+9603
 
 |
 
-9604
+Entraînements à la dialyse péritonéale continue ambulatoire, en séances
 
 |
 
@@ -2748,11 +2682,11 @@ Entraînements à la dialyse péritonéale continue ambulatoire, en séances.
 
 |
 
-Entraînements à l'hémodialyse, en séances.
+9604
 
 |
 
-9605
+Entraînements à l'hémodialyse, en séances
 
 |
 
@@ -2760,19 +2694,19 @@ Entraînements à l'hémodialyse, en séances.
 
 |
 
-Hémodialyse, en séances.
-
-|
-
 9617
 
 |
 
-Hémodialyse, en séances.
+Hémodialyse, en séances
 
 |
 
-9606
+9605
+
+|
+
+Hémodialyse, en séances
 
 |
 
@@ -2780,11 +2714,11 @@ Hémodialyse, en séances.
 
 |
 
-Chimiothérapie pour tumeur, en séances.
+9606
 
 |
 
-9609
+Chimiothérapie pour tumeur, en séances
 
 |
 
@@ -2792,11 +2726,11 @@ Chimiothérapie pour tumeur, en séances.
 
 |
 
-Curiethérapie, en séances.
+9609
 
 |
 
-9610
+Curiethérapie, en séances
 
 |
 
@@ -2804,15 +2738,11 @@ Curiethérapie, en séances.
 
 |
 
-Techniques spéciales d'irradiation externe, en séances.
+9621
 
 |
 
-9619
-
-|
-
-Techniques spéciales d'irradiation externe, en séances.
+Techniques spéciales d'irradiation externe, en séances
 
 |
 
@@ -2820,15 +2750,23 @@ Techniques spéciales d'irradiation externe, en séances.
 
 |
 
-Techniques spéciales d'irradiation externe, en séances.
+Techniques spéciales d'irradiation externe, en séances
 
 |
 
-9621
+9619
 
 |
 
-Techniques spéciales d'irradiation externe, en séances.
+Techniques spéciales d'irradiation externe, en séances
+
+|
+
+9610
+
+|
+
+Techniques spéciales d'irradiation externe, en séances
 
 |
 
@@ -2836,11 +2774,7 @@ Techniques spéciales d'irradiation externe, en séances.
 
 |
 
-Techniques spéciales d'irradiation externe, en séances.
-
-|
-
-9613
+Techniques spéciales d'irradiation externe, en séances
 
 |
 
@@ -2848,11 +2782,11 @@ Techniques spéciales d'irradiation externe, en séances.
 
 |
 
-Transfusions, en séances.
+9613
 
 |
 
-9614
+Transfusions, en séances
 
 |
 
@@ -2860,11 +2794,11 @@ Transfusions, en séances.
 
 |
 
-Oxygénothérapie hyperbare, en séances.
+9614
 
 |
 
-9615
+Oxygénothérapie hyperbare, en séances
 
 |
 
@@ -2872,11 +2806,11 @@ Oxygénothérapie hyperbare, en séances.
 
 |
 
-Aphérèses sanguines, en séances.
+9615
 
 |
 
-9616
+Aphérèses sanguines, en séances
 
 |
 
@@ -2884,11 +2818,11 @@ Aphérèses sanguines, en séances.
 
 |
 
-Chimiothérapie pour affection non tumorale, en séances.
+9616
 
 |
 
-9622
+Chimiothérapie pour affection non tumorale, en séances
 
 |
 
@@ -2896,7 +2830,11 @@ Chimiothérapie pour affection non tumorale, en séances.
 
 |
 
-Radiothérapie conformationnelle avec modulation d'intensité, en séances.
+9622
+
+|
+
+Radiothérapie conformationnelle avec modulation d'intensité, en séances
 
 |
 
@@ -2904,11 +2842,7 @@ Radiothérapie conformationnelle avec modulation d'intensité, en séances.
 
 |
 
-Radiothérapie conformationnelle avec modulation d'intensité, en séances.
-
-|
-
-9626
+Radiothérapie conformationnelle avec modulation d'intensité, en séances
 
 |
 
@@ -2916,7 +2850,11 @@ Radiothérapie conformationnelle avec modulation d'intensité, en séances.
 
 |
 
-Préparations à une irradiation externe par RCMI ou techniques spéciales.
+9626
+
+|
+
+Préparations à une irradiation externe par RCMI ou techniques spéciales
 
 |
 
@@ -2924,11 +2862,7 @@ Préparations à une irradiation externe par RCMI ou techniques spéciales.
 
 |
 
-Préparations à une irradiation externe par RCMI ou techniques spéciales.
-
-|
-
-9628
+Préparations à une irradiation externe par RCMI ou techniques spéciales
 
 |
 
@@ -2936,11 +2870,11 @@ Préparations à une irradiation externe par RCMI ou techniques spéciales.
 
 |
 
-Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec HDV.
+9628
 
 |
 
-9629
+Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec HDV
 
 |
 
@@ -2948,11 +2882,11 @@ Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec
 
 |
 
-Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans HDV.
+9629
 
 |
 
-9630
+Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans HDV
 
 |
 
@@ -2960,11 +2894,11 @@ Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans
 
 |
 
-Autres préparations à une irradiation externe.
+9630
 
 |
 
-9631
+Autres préparations à une irradiation externe
 
 |
 
@@ -2972,11 +2906,11 @@ Autres préparations à une irradiation externe.
 
 |
 
-Techniques complexes d'irradiation externe avec repositionnement, en séances.
+9631
 
 |
 
-9632
+Techniques complexes d'irradiation externe avec repositionnement, en séances
 
 |
 
@@ -2984,15 +2918,19 @@ Techniques complexes d'irradiation externe avec repositionnement, en séances.
 
 |
 
-Techniques complexes d'irradiation externe sans repositionnement, en séances.
+9632
 
 |
 
-9633
+Techniques complexes d'irradiation externe sans repositionnement, en séances
 
 |
 
 28Z25Z
+
+|
+
+9633
 
 |
 

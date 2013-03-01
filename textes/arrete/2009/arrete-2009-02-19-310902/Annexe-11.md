@@ -4,19 +4,15 @@ LISTES DES ACTES DONNANT LIEU À RÉMUNÉRATION DES FORFAITS SE
 
 Liste 1 : liste des actes donnant lieu à rémunération sur la base d'un SE1
 
-CODE
+CODE CCAM |
 
-|
-
-LIBELLÉ DE L'ACTE CCAM
-
-|
+LIBELLÉ DE L'ACTE CCAM |
 
 DZQJ001
 
 |
 
-Echographie-doppler du cœur et des vaisseaux intrathoraciques, par voie œsophagienne [échocardiographie-doppler transœsophagienne]
+Echographie-doppler du coeur et des vaisseaux intrathoraciques, par voie œsophagienne [échocardiographie-doppler transoesophagienne]
 
 |
 
@@ -24,7 +20,7 @@ DZQJ008
 
 |
 
-Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques
+Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du coeur et des vaisseaux intrathoraciques
 
 |
 
@@ -32,7 +28,7 @@ DZQJ010
 
 |
 
-Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du cœur et des vaisseaux intrathoraciques, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
+Echographie-doppler transthoracique et échographie-doppler par voie œsophagienne du coeur et des vaisseaux intrathoraciques, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
 
 |
 
@@ -40,7 +36,7 @@ DZQJ011
 
 |
 
-Echographie-doppler du cœur et des vaisseaux intrathoraciques par voie œsophagienne, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
+Echographie-doppler du coeur et des vaisseaux intrathoraciques par voie œsophagienne, avec injection intraveineuse de produit de contraste ultrasonore ne franchissant pas le poumon
 
 |
 
@@ -104,7 +100,7 @@ HEGE001
 
 |
 
-Ablation de corps étranger de l'œsophage, par endoscopie rigide
+Ablation de corps étranger de l'oesophage, par endoscopie rigide
 
 |
 
@@ -112,7 +108,7 @@ HEGE002
 
 |
 
-Ablation de corps étranger de l'œsophage, de l'estomac et/ ou du duodénum, par œso-gastro-duodénoscopie
+Ablation de corps étranger de l'oesophage, de l'estomac et/ ou du duodénum, par œso-gastro-duodénoscopie
 
 |
 
@@ -214,7 +210,7 @@ Biopsie de l'urètre à la pince, par endoscopie
 
 Liste 2 : liste des actes donnant lieu à rémunération sur la base d'un SE2
 
-CODE
+CODE CCAM
 
 |
 
@@ -235,22 +231,6 @@ AHHA002
 |
 
 Biopsie neuromusculaire, par abord direct
-
-|
-
-BAFA005
-
-|
-
-Exérèse non transfixiante de lésions multiples unilatérales de paupière
-
-|
-
-BAFA006
-
-|
-
-Exérèse non transfixiante d'une lésion d'une paupière
 
 |
 
@@ -402,7 +382,7 @@ FCFA012
 
 |
 
-Exérèse de nœud [ganglion] lymphatique du cou à visée diagnostique, par cervicotomie
+Exérèse de noeud [ganglion] lymphatique du cou à visée diagnostique, par cervicotomie
 
 |
 
@@ -410,7 +390,7 @@ FCFA028
 
 |
 
-Exérèse de nœud [ganglion] lymphatique du cou à visée thérapeutique, par cervicotomie
+Exérèse de noeud [ganglion] lymphatique du cou à visée thérapeutique, par cervicotomie
 
 |
 
@@ -470,6 +450,14 @@ Ligature, section ou résection unilatérale ou bilatérale du conduit déféren
 
 |
 
+JSED001
+
+|
+
+Transfert intra-utérin d'embryon par voie vaginale
+
+|
+
 LHNH001
 
 |
@@ -514,7 +502,7 @@ PDFA001
 
 |
 
-Exérèse de lésion fasciale et/ ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux
+Exérèse de lésion fasciale et/ ou sous-fasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux
 
 |
 
@@ -544,7 +532,7 @@ Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous, e
 
 Liste 3 : liste des actes donnant lieu à rémunération sur la base d'un SE3
 
-CODE
+CODE CCAM
 
 |
 
@@ -666,7 +654,7 @@ Amniocentèse sur un sac amniotique unique, avec guidage échographique
 
 Liste 4 : liste des actes donnant lieu à rémunération sur la base d'un SE4
 
-CODE
+CODE CCAM
 
 |
 

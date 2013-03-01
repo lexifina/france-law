@@ -1362,6 +1362,14 @@ Pose d'une bioprothèse de la valve aortique, par voie artérielle transcutanée
 
 |
 
+DBLF009
+
+|
+
+Pose d'une bioprothèse de la valve pulmonaire dans un conduit prothétique, par voie veineuse transcutanée
+
+|
+
 DBLA004
 
 |
@@ -1486,7 +1494,7 @@ DBPA001
 
 |
 
-Commissurotomie [valvulotomie] ou valvectomie [valvulectomie] pulmonaire avec fermeture d'une communication interatriale, par thoracotomie avec CEC
+Commissurotomie [Valvulotomie] ou valvectomie [valvulectomie] pulmonaire avec fermeture d'une communication interatriale, par thoracotomie avec CEC
 
 |
 
@@ -1502,7 +1510,7 @@ DBPA003
 
 |
 
-Commissurotomie [valvulotomie] ou valvectomie [valvulectomie] pulmonaire, par thoracotomie avec clampage cave
+Commissurotomie [Valvulotomie] ou valvectomie [valvulectomie] pulmonaire, par thoracotomie avec clampage cave
 
 |
 
@@ -3246,7 +3254,7 @@ DKMD001
 
 |
 
-Ressuscitation cardio-respiratoire avec intubation trachéale, en dehors d'un bloc médicotechnique
+Ressuscitation cardiorespiratoire avec intubation trachéale, en dehors d'un bloc médicotechnique
 
 |
 
@@ -3254,7 +3262,7 @@ DKMD002
 
 |
 
-Ressuscitation cardio-respiratoire avec intubation trachéale, dans un bloc médicotechnique
+Ressuscitation cardiorespiratoire avec intubation trachéale, dans un bloc médicotechnique
 
 |
 

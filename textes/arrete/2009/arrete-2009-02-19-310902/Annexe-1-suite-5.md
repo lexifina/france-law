@@ -2,19 +2,15 @@
 
 LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 
+3C031
+
+|
+
 4922
 
 |
 
-13C031
-
-|
-
-Hystérectomies, niveau 1.
-
-|
-
-4923
+Hystérectomies, niveau 1
 
 |
 
@@ -22,11 +18,11 @@ Hystérectomies, niveau 1.
 
 |
 
-Hystérectomies, niveau 2.
+4923
 
 |
 
-4924
+Hystérectomies, niveau 2
 
 |
 
@@ -34,11 +30,11 @@ Hystérectomies, niveau 2.
 
 |
 
-Hystérectomies, niveau 3.
+4924
 
 |
 
-4925
+Hystérectomies, niveau 3
 
 |
 
@@ -46,11 +42,11 @@ Hystérectomies, niveau 3.
 
 |
 
-Hystérectomies, niveau 4.
+4925
 
 |
 
-4926
+Hystérectomies, niveau 4
 
 |
 
@@ -58,11 +54,11 @@ Hystérectomies, niveau 4.
 
 |
 
-Interventions réparatrices sur l'appareil génital féminin, niveau 1.
+4926
 
 |
 
-4927
+Interventions réparatrices sur l'appareil génital féminin, niveau 1
 
 |
 
@@ -70,11 +66,11 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 1.
 
 |
 
-Interventions réparatrices sur l'appareil génital féminin, niveau 2.
+4927
 
 |
 
-4928
+Interventions réparatrices sur l'appareil génital féminin, niveau 2
 
 |
 
@@ -82,11 +78,11 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 2.
 
 |
 
-Interventions réparatrices sur l'appareil génital féminin, niveau 3.
+4928
 
 |
 
-4929
+Interventions réparatrices sur l'appareil génital féminin, niveau 3
 
 |
 
@@ -94,11 +90,11 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 3.
 
 |
 
-Interventions réparatrices sur l'appareil génital féminin, niveau 4.
+4929
 
 |
 
-4988
+Interventions réparatrices sur l'appareil génital féminin, niveau 4
 
 |
 
@@ -106,11 +102,11 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 4.
 
 |
 
-Interventions réparatrices sur l'appareil génital féminin, en ambulatoire.
+4988
 
 |
 
-4930
+Interventions réparatrices sur l'appareil génital féminin, en ambulatoire
 
 |
 
@@ -118,11 +114,11 @@ Interventions réparatrices sur l'appareil génital féminin, en ambulatoire.
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 1.
+4930
 
 |
 
-4931
+Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 1
 
 |
 
@@ -130,11 +126,11 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 1.
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 2.
+4931
 
 |
 
-4932
+Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 2
 
 |
 
@@ -142,11 +138,11 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 2.
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 3.
+4932
 
 |
 
-4933
+Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 3
 
 |
 
@@ -154,11 +150,11 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 3.
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 4.
+4933
 
 |
 
-4934
+Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 4
 
 |
 
@@ -166,11 +162,11 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 4.
 
 |
 
-Interruptions tubaires, niveau 1.
+4934
 
 |
 
-4935
+Interruptions tubaires, niveau 1
 
 |
 
@@ -178,11 +174,11 @@ Interruptions tubaires, niveau 1.
 
 |
 
-Interruptions tubaires, niveau 2.
+4935
 
 |
 
-4936
+Interruptions tubaires, niveau 2
 
 |
 
@@ -190,11 +186,11 @@ Interruptions tubaires, niveau 2.
 
 |
 
-Interruptions tubaires, niveau 3.
+4936
 
 |
 
-4937
+Interruptions tubaires, niveau 3
 
 |
 
@@ -202,11 +198,11 @@ Interruptions tubaires, niveau 3.
 
 |
 
-Interruptions tubaires, niveau 4.
+4937
 
 |
 
-4938
+Interruptions tubaires, niveau 4
 
 |
 
@@ -214,11 +210,11 @@ Interruptions tubaires, niveau 4.
 
 |
 
-Interruptions tubaires, en ambulatoire.
+4938
 
 |
 
-4939
+Interruptions tubaires, en ambulatoire
 
 |
 
@@ -226,11 +222,11 @@ Interruptions tubaires, en ambulatoire.
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 1.
+4939
 
 |
 
-4940
+Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 1
 
 |
 
@@ -238,11 +234,11 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 2.
+4940
 
 |
 
-4941
+Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 2
 
 |
 
@@ -250,11 +246,11 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 3.
+4941
 
 |
 
-4942
+Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 3
 
 |
 
@@ -262,11 +258,11 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 4.
+4942
 
 |
 
-4943
+Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 4
 
 |
 
@@ -274,11 +270,11 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, en ambulatoire.
+4943
 
 |
 
-4944
+Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, en ambulatoire
 
 |
 
@@ -286,11 +282,11 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 1.
+4944
 
 |
 
-4945
+Interventions sur la vulve, le vagin ou le col utérin, niveau 1
 
 |
 
@@ -298,11 +294,11 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 1.
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 2.
+4945
 
 |
 
-4946
+Interventions sur la vulve, le vagin ou le col utérin, niveau 2
 
 |
 
@@ -310,11 +306,11 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 2.
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 3.
+4946
 
 |
 
-4947
+Interventions sur la vulve, le vagin ou le col utérin, niveau 3
 
 |
 
@@ -322,11 +318,11 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 3.
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 4.
+4947
 
 |
 
-4948
+Interventions sur la vulve, le vagin ou le col utérin, niveau 4
 
 |
 
@@ -334,11 +330,11 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 4.
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, en ambulatoire.
+4948
 
 |
 
-4949
+Interventions sur la vulve, le vagin ou le col utérin, en ambulatoire
 
 |
 
@@ -346,11 +342,11 @@ Interventions sur la vulve, le vagin ou le col utérin, en ambulatoire.
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 1.
+4949
 
 |
 
-4950
+Laparoscopies ou cœlioscopies diagnostiques, niveau 1
 
 |
 
@@ -358,11 +354,11 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 1.
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 2.
+4950
 
 |
 
-4951
+Laparoscopies ou cœlioscopies diagnostiques, niveau 2
 
 |
 
@@ -370,11 +366,11 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 2.
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 3.
+4951
 
 |
 
-4952
+Laparoscopies ou cœlioscopies diagnostiques, niveau 3
 
 |
 
@@ -382,11 +378,11 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 3.
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 4.
+4952
 
 |
 
-4953
+Laparoscopies ou cœlioscopies diagnostiques, niveau 4
 
 |
 
@@ -394,11 +390,11 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 4.
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, très courte durée.
+4953
 
 |
 
-4954
+Laparoscopies ou cœlioscopies diagnostiques, très courte durée
 
 |
 
@@ -406,11 +402,11 @@ Laparoscopies ou cœlioscopies diagnostiques, très courte durée.
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 1.
+4954
 
 |
 
-4955
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 1
 
 |
 
@@ -418,11 +414,11 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 1.
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 2.
+4955
 
 |
 
-4956
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 2
 
 |
 
@@ -430,11 +426,11 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 2.
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 3.
+4956
 
 |
 
-4957
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 3
 
 |
 
@@ -442,11 +438,11 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 3.
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 4.
+4957
 
 |
 
-4958
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 4
 
 |
 
@@ -454,11 +450,11 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 4.
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, très courte durée.
+4958
 
 |
 
-4959
+Ligatures tubaires par laparoscopie ou cœlioscopie, très courte durée
 
 |
 
@@ -466,11 +462,11 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, très courte durée.
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 1.
+4959
 
 |
 
-4960
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 1
 
 |
 
@@ -478,11 +474,11 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 1.
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 2.
+4960
 
 |
 
-4961
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 2
 
 |
 
@@ -490,11 +486,11 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 2.
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 3.
+4961
 
 |
 
-4962
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 3
 
 |
 
@@ -502,11 +498,11 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 3.
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 4.
+4962
 
 |
 
-4963
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 4
 
 |
 
@@ -514,11 +510,11 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 4.
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, en ambulatoire.
+4963
 
 |
 
-4964
+Dilatations et curetages, conisations pour tumeurs malignes, en ambulatoire
 
 |
 
@@ -526,11 +522,11 @@ Dilatations et curetages, conisations pour tumeurs malignes, en ambulatoire.
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 1.
+4964
 
 |
 
-4965
+Dilatations et curetages, conisations pour affections non malignes, niveau 1
 
 |
 
@@ -538,11 +534,11 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 1.
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 2.
+4965
 
 |
 
-4966
+Dilatations et curetages, conisations pour affections non malignes, niveau 2
 
 |
 
@@ -550,11 +546,11 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 2.
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 3.
+4966
 
 |
 
-4967
+Dilatations et curetages, conisations pour affections non malignes, niveau 3
 
 |
 
@@ -562,11 +558,11 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 3.
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 4.
+4967
 
 |
 
-4968
+Dilatations et curetages, conisations pour affections non malignes, niveau 4
 
 |
 
@@ -574,19 +570,21 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 4.
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, en ambulatoire.
-
-|
-
 4987
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, en ambulatoire.
+Dilatations et curetages, conisations pour affections non malignes, en ambulatoire
 
 |
 
-4969
+|
+
+4968
+
+|
+
+Dilatations et curetages, conisations pour affections non malignes, en ambulatoire
 
 |
 
@@ -594,11 +592,11 @@ Dilatations et curetages, conisations pour affections non malignes, en ambulatoi
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 1.
+4969
 
 |
 
-4970
+Autres interventions sur l'appareil génital féminin, niveau 1
 
 |
 
@@ -606,11 +604,11 @@ Autres interventions sur l'appareil génital féminin, niveau 1.
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 2.
+4970
 
 |
 
-4971
+Autres interventions sur l'appareil génital féminin, niveau 2
 
 |
 
@@ -618,11 +616,11 @@ Autres interventions sur l'appareil génital féminin, niveau 2.
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 3.
+4971
 
 |
 
-4972
+Autres interventions sur l'appareil génital féminin, niveau 3
 
 |
 
@@ -630,11 +628,11 @@ Autres interventions sur l'appareil génital féminin, niveau 3.
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 4.
+4972
 
 |
 
-4973
+Autres interventions sur l'appareil génital féminin, niveau 4
 
 |
 
@@ -642,11 +640,11 @@ Autres interventions sur l'appareil génital féminin, niveau 4.
 
 |
 
-Autres interventions sur l'appareil génital féminin, très courte durée.
+4973
 
 |
 
-4974
+Autres interventions sur l'appareil génital féminin, très courte durée
 
 |
 
@@ -654,11 +652,11 @@ Autres interventions sur l'appareil génital féminin, très courte durée.
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 1.
+4974
 
 |
 
-4975
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 1
 
 |
 
@@ -666,11 +664,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 2.
+4975
 
 |
 
-4976
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 2
 
 |
 
@@ -678,11 +676,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 3.
+4976
 
 |
 
-4977
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 3
 
 |
 
@@ -690,11 +688,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 4.
+4977
 
 |
 
-4978
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 4
 
 |
 
@@ -702,11 +700,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 1.
+4978
 
 |
 
-4979
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 1
 
 |
 
@@ -714,11 +712,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 2.
+4979
 
 |
 
-4980
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 2
 
 |
 
@@ -726,11 +724,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 3.
+4980
 
 |
 
-4981
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 3
 
 |
 
@@ -738,11 +736,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 4.
+4981
 
 |
 
-4982
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 4
 
 |
 
@@ -750,19 +748,21 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-Prélèvements d'ovocytes, en ambulatoire.
-
-|
-
 4989
 
 |
 
-Prélèvements d'ovocytes, en ambulatoire.
+Prélèvements d'ovocytes, en ambulatoire
 
 |
 
-4983
+|
+
+4982
+
+|
+
+Prélèvements d'ovocytes, en ambulatoire
 
 |
 
@@ -770,11 +770,11 @@ Prélèvements d'ovocytes, en ambulatoire.
 
 |
 
-Cervicocystopexie, niveau 1.
+4983
 
 |
 
-4984
+Cervicocystopexie, niveau 1
 
 |
 
@@ -782,11 +782,11 @@ Cervicocystopexie, niveau 1.
 
 |
 
-Cervicocystopexie, niveau 2.
+4984
 
 |
 
-4985
+Cervicocystopexie, niveau 2
 
 |
 
@@ -794,11 +794,11 @@ Cervicocystopexie, niveau 2.
 
 |
 
-Cervicocystopexie, niveau 3.
+4985
 
 |
 
-4986
+Cervicocystopexie, niveau 3
 
 |
 
@@ -806,11 +806,179 @@ Cervicocystopexie, niveau 3.
 
 |
 
-Cervicocystopexie, niveau 4.
+4986
 
 |
 
-5205
+Cervicocystopexie, niveau 4
+
+|
+
+13C181
+
+|
+
+4990
+
+|
+
+Myomectomies de l'utérus, niveau 1
+
+|
+
+13C182
+
+|
+
+4991
+
+|
+
+Myomectomies de l'utérus, niveau 2
+
+|
+
+13C183
+
+|
+
+4992
+
+|
+
+Myomectomies de l'utérus, niveau 3
+
+|
+
+13C184
+
+|
+
+4993
+
+|
+
+Myomectomies de l'utérus, niveau 4
+
+|
+
+13C191
+
+|
+
+4994
+
+|
+
+Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 1
+
+|
+
+13C192
+
+|
+
+4995
+
+|
+
+Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 2
+
+|
+
+13C193
+
+|
+
+4996
+
+|
+
+Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 3
+
+|
+
+13C194
+
+|
+
+4997
+
+|
+
+Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 4
+
+|
+
+13C19J
+
+|
+
+4998
+
+|
+
+Interventions pour stérilité ou motifs de soins liés à la reproduction, en ambulatoire
+
+|
+
+13C201
+
+|
+
+4999
+
+|
+
+Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 1
+
+|
+
+13C202
+
+|
+
+5000
+
+|
+
+Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 2
+
+|
+
+13C203
+
+|
+
+5001
+
+|
+
+Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 3
+
+|
+
+13C204
+
+|
+
+5002
+
+|
+
+Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 4
+
+|
+
+13C20J
+
+|
+
+5003
+
+|
+
+Exérèses ou destructions de lésions du col de l'utérus sauf conisations, en ambulatoire
 
 |
 
@@ -818,11 +986,11 @@ Cervicocystopexie, niveau 4.
 
 |
 
-Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours.
+5205
 
 |
 
-5206
+Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
 
 |
 
@@ -830,11 +998,11 @@ Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CM
 
 |
 
-Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours.
+5206
 
 |
 
-5207
+Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours
 
 |
 
@@ -842,11 +1010,11 @@ Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique 
 
 |
 
-Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours.
+5207
 
 |
 
-5208
+Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
 
 |
 
@@ -854,11 +1022,11 @@ Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 
 
 |
 
-Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CMD 13 et de moins de 2 jours.
+5208
 
 |
 
-5209
+Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CMD 13 et de moins de 2 jours
 
 |
 
@@ -866,11 +1034,11 @@ Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CM
 
 |
 
-Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, avec anesthésie, en ambulatoire.
+5209
 
 |
 
-5210
+Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, avec anesthésie, en ambulatoire
 
 |
 
@@ -878,11 +1046,11 @@ Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, a
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 1.
+5210
 
 |
 
-5211
+Tumeurs malignes de l'appareil génital féminin, niveau 1
 
 |
 
@@ -890,11 +1058,11 @@ Tumeurs malignes de l'appareil génital féminin, niveau 1.
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 2.
+5211
 
 |
 
-5212
+Tumeurs malignes de l'appareil génital féminin, niveau 2
 
 |
 
@@ -902,11 +1070,11 @@ Tumeurs malignes de l'appareil génital féminin, niveau 2.
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 3.
+5212
 
 |
 
-5213
+Tumeurs malignes de l'appareil génital féminin, niveau 3
 
 |
 
@@ -914,11 +1082,11 @@ Tumeurs malignes de l'appareil génital féminin, niveau 3.
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 4.
+5213
 
 |
 
-5214
+Tumeurs malignes de l'appareil génital féminin, niveau 4
 
 |
 
@@ -926,11 +1094,11 @@ Tumeurs malignes de l'appareil génital féminin, niveau 4.
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, très courte durée.
+5214
 
 |
 
-5215
+Tumeurs malignes de l'appareil génital féminin, très courte durée
 
 |
 
@@ -938,11 +1106,11 @@ Tumeurs malignes de l'appareil génital féminin, très courte durée.
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 1.
+5215
 
 |
 
-5216
+Autres affections de l'appareil génital féminin, niveau 1
 
 |
 
@@ -950,11 +1118,11 @@ Autres affections de l'appareil génital féminin, niveau 1.
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 2.
+5216
 
 |
 
-5217
+Autres affections de l'appareil génital féminin, niveau 2
 
 |
 
@@ -962,11 +1130,11 @@ Autres affections de l'appareil génital féminin, niveau 2.
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 3.
+5217
 
 |
 
-5218
+Autres affections de l'appareil génital féminin, niveau 3
 
 |
 
@@ -974,11 +1142,11 @@ Autres affections de l'appareil génital féminin, niveau 3.
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 4.
+5218
 
 |
 
-5219
+Autres affections de l'appareil génital féminin, niveau 4
 
 |
 
@@ -986,11 +1154,11 @@ Autres affections de l'appareil génital féminin, niveau 4.
 
 |
 
-Autres affections de l'appareil génital féminin, très courte durée.
+5219
 
 |
 
-5220
+Autres affections de l'appareil génital féminin, très courte durée
 
 |
 
@@ -998,11 +1166,11 @@ Autres affections de l'appareil génital féminin, très courte durée.
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 1.
+5220
 
 |
 
-5221
+Infections de l'utérus et de ses annexes, niveau 1
 
 |
 
@@ -1010,11 +1178,11 @@ Infections de l'utérus et de ses annexes, niveau 1.
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 2.
+5221
 
 |
 
-5222
+Infections de l'utérus et de ses annexes, niveau 2
 
 |
 
@@ -1022,11 +1190,11 @@ Infections de l'utérus et de ses annexes, niveau 2.
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 3.
+5222
 
 |
 
-5223
+Infections de l'utérus et de ses annexes, niveau 3
 
 |
 
@@ -1034,11 +1202,11 @@ Infections de l'utérus et de ses annexes, niveau 3.
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 4.
+5223
 
 |
 
-5224
+Infections de l'utérus et de ses annexes, niveau 4
 
 |
 
@@ -1046,11 +1214,11 @@ Infections de l'utérus et de ses annexes, niveau 4.
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 1.
+5224
 
 |
 
-5225
+Autres infections de l'appareil génital féminin, niveau 1
 
 |
 
@@ -1058,11 +1226,11 @@ Autres infections de l'appareil génital féminin, niveau 1.
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 2.
+5225
 
 |
 
-5226
+Autres infections de l'appareil génital féminin, niveau 2
 
 |
 
@@ -1070,11 +1238,11 @@ Autres infections de l'appareil génital féminin, niveau 2.
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 3.
+5226
 
 |
 
-5227
+Autres infections de l'appareil génital féminin, niveau 3
 
 |
 
@@ -1082,11 +1250,11 @@ Autres infections de l'appareil génital féminin, niveau 3.
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 4.
+5227
 
 |
 
-5238
+Autres infections de l'appareil génital féminin, niveau 4
 
 |
 
@@ -1094,11 +1262,11 @@ Autres infections de l'appareil génital féminin, niveau 4.
 
 |
 
-Autres infections de l'appareil génital féminin, très courte durée.
+5238
 
 |
 
-5228
+Autres infections de l'appareil génital féminin, très courte durée
 
 |
 
@@ -1106,11 +1274,11 @@ Autres infections de l'appareil génital féminin, très courte durée.
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 1.
+5228
 
 |
 
-5229
+Autres tumeurs de l'appareil génital féminin, niveau 1
 
 |
 
@@ -1118,11 +1286,11 @@ Autres tumeurs de l'appareil génital féminin, niveau 1.
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 2.
+5229
 
 |
 
-5230
+Autres tumeurs de l'appareil génital féminin, niveau 2
 
 |
 
@@ -1130,11 +1298,11 @@ Autres tumeurs de l'appareil génital féminin, niveau 2.
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 3.
+5230
 
 |
 
-5231
+Autres tumeurs de l'appareil génital féminin, niveau 3
 
 |
 
@@ -1142,11 +1310,11 @@ Autres tumeurs de l'appareil génital féminin, niveau 3.
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 4.
+5231
 
 |
 
-5232
+Autres tumeurs de l'appareil génital féminin, niveau 4
 
 |
 
@@ -1154,11 +1322,11 @@ Autres tumeurs de l'appareil génital féminin, niveau 4.
 
 |
 
-Assistance médicale à la procréation, niveau 1.
+5232
 
 |
 
-5233
+Assistance médicale à la procréation, niveau 1
 
 |
 
@@ -1166,11 +1334,11 @@ Assistance médicale à la procréation, niveau 1.
 
 |
 
-Assistance médicale à la procréation, niveau 2.
+5233
 
 |
 
-5234
+Assistance médicale à la procréation, niveau 2
 
 |
 
@@ -1178,11 +1346,11 @@ Assistance médicale à la procréation, niveau 2.
 
 |
 
-Assistance médicale à la procréation, niveau 3.
+5234
 
 |
 
-5235
+Assistance médicale à la procréation, niveau 3
 
 |
 
@@ -1190,11 +1358,11 @@ Assistance médicale à la procréation, niveau 3.
 
 |
 
-Assistance médicale à la procréation, niveau 4.
+5235
 
 |
 
-5236
+Assistance médicale à la procréation, niveau 4
 
 |
 
@@ -1202,11 +1370,11 @@ Assistance médicale à la procréation, niveau 4.
 
 |
 
-Explorations et surveillance gynécologiques.
+5236
 
 |
 
-5237
+Explorations et surveillance gynécologiques
 
 |
 
@@ -1214,11 +1382,11 @@ Explorations et surveillance gynécologiques.
 
 |
 
-Autres symptômes et recours aux soins de la CMD 13.
+5237
 
 |
 
-5314
+Autres symptômes et recours aux soins de la CMD 13
 
 |
 
@@ -1226,11 +1394,11 @@ Autres symptômes et recours aux soins de la CMD 13.
 
 |
 
-Accouchements uniques par voie basse avec autres interventions, sans complication significative.
+5314
 
 |
 
-5315
+Accouchements uniques par voie basse avec autres interventions, sans complication significative
 
 |
 
@@ -1238,11 +1406,11 @@ Accouchements uniques par voie basse avec autres interventions, sans complicatio
 
 |
 
-Accouchements uniques par voie basse avec autres interventions, avec autres complications.
+5315
 
 |
 
-5316
+Accouchements uniques par voie basse avec autres interventions, avec autres complications
 
 |
 
@@ -1250,11 +1418,11 @@ Accouchements uniques par voie basse avec autres interventions, avec autres comp
 
 |
 
-Accouchements uniques par voie basse avec autres interventions, avec complications majeures.
+5316
 
 |
 
-5317
+Accouchements uniques par voie basse avec autres interventions, avec complications majeures
 
 |
 
@@ -1262,11 +1430,11 @@ Accouchements uniques par voie basse avec autres interventions, avec complicatio
 
 |
 
-Accouchements uniques par voie basse avec autres interventions, avec complications sévères.
+5317
 
 |
 
-5310
+Accouchements uniques par voie basse avec autres interventions, avec complications sévères
 
 |
 
@@ -1274,11 +1442,11 @@ Accouchements uniques par voie basse avec autres interventions, avec complicatio
 
 |
 
-Affections du post-partum ou du post abortum avec intervention chirurgicale, très courte durée.
+5310
 
 |
 
-5311
+Affections du post-partum ou du post abortum avec intervention chirurgicale, très courte durée
 
 |
 
@@ -1286,11 +1454,11 @@ Affections du post-partum ou du post abortum avec intervention chirurgicale, tr�
 
 |
 
-Affections du post-partum ou du post abortum avec intervention chirurgicale.
+5311
 
 |
 
-5312
+Affections du post-partum ou du post abortum avec intervention chirurgicale
 
 |
 
@@ -1298,11 +1466,11 @@ Affections du post-partum ou du post abortum avec intervention chirurgicale.
 
 |
 
-Avortements avec aspiration ou curetage ou hystérotomie, en ambulatoire.
+5312
 
 |
 
-5313
+Avortements avec aspiration ou curetage ou hystérotomie, en ambulatoire
 
 |
 
@@ -1310,11 +1478,11 @@ Avortements avec aspiration ou curetage ou hystérotomie, en ambulatoire.
 
 |
 
-Avortements avec aspiration ou curetage ou hystérotomie.
+5313
 
 |
 
-5318
+Avortements avec aspiration ou curetage ou hystérotomie
 
 |
 
@@ -1322,11 +1490,11 @@ Avortements avec aspiration ou curetage ou hystérotomie.
 
 |
 
-Césariennes avec naissance d'un mort-né, sans complication significative.
+5318
 
 |
 
-5319
+Césariennes avec naissance d'un mort-né, sans complication significative
 
 |
 
@@ -1334,11 +1502,11 @@ Césariennes avec naissance d'un mort-né, sans complication significative.
 
 |
 
-Césariennes avec naissance d'un mort-né, avec autres complications.
+5319
 
 |
 
-5320
+Césariennes avec naissance d'un mort-né, avec autres complications
 
 |
 
@@ -1346,11 +1514,11 @@ Césariennes avec naissance d'un mort-né, avec autres complications.
 
 |
 
-Césariennes avec naissance d'un mort-né, avec complications majeures.
+5320
 
 |
 
-5321
+Césariennes avec naissance d'un mort-né, avec complications majeures
 
 |
 
@@ -1358,11 +1526,11 @@ Césariennes avec naissance d'un mort-né, avec complications majeures.
 
 |
 
-Césariennes avec naissance d'un mort-né, avec complications sévères.
+5321
 
 |
 
-5322
+Césariennes avec naissance d'un mort-né, avec complications sévères
 
 |
 
@@ -1370,11 +1538,11 @@ Césariennes avec naissance d'un mort-né, avec complications sévères.
 
 |
 
-Césariennes pour grossesse multiple, sans complication significative.
+5322
 
 |
 
-5323
+Césariennes pour grossesse multiple, sans complication significative
 
 |
 
@@ -1382,11 +1550,11 @@ Césariennes pour grossesse multiple, sans complication significative.
 
 |
 
-Césariennes pour grossesse multiple, avec autres complications.
+5323
 
 |
 
-5324
+Césariennes pour grossesse multiple, avec autres complications
 
 |
 
@@ -1394,11 +1562,11 @@ Césariennes pour grossesse multiple, avec autres complications.
 
 |
 
-Césariennes pour grossesse multiple, avec complications majeures.
+5324
 
 |
 
-5325
+Césariennes pour grossesse multiple, avec complications majeures
 
 |
 
@@ -1406,11 +1574,11 @@ Césariennes pour grossesse multiple, avec complications majeures.
 
 |
 
-Césariennes pour grossesse multiple, avec complications sévères.
+5325
 
 |
 
-5326
+Césariennes pour grossesse multiple, avec complications sévères
 
 |
 
@@ -1418,11 +1586,11 @@ Césariennes pour grossesse multiple, avec complications sévères.
 
 |
 
-Césariennes pour grossesse unique, sans complication significative.
+5326
 
 |
 
-5327
+Césariennes pour grossesse unique, sans complication significative
 
 |
 
@@ -1430,11 +1598,11 @@ Césariennes pour grossesse unique, sans complication significative.
 
 |
 
-Césariennes pour grossesse unique, avec autres complications.
+5327
 
 |
 
-5328
+Césariennes pour grossesse unique, avec autres complications
 
 |
 
@@ -1442,11 +1610,11 @@ Césariennes pour grossesse unique, avec autres complications.
 
 |
 
-Césariennes pour grossesse unique, avec complications majeures.
+5328
 
 |
 
-5329
+Césariennes pour grossesse unique, avec complications majeures
 
 |
 
@@ -1454,11 +1622,11 @@ Césariennes pour grossesse unique, avec complications majeures.
 
 |
 
-Césariennes pour grossesse unique, avec complications sévères.
+5329
 
 |
 
-5330
+Césariennes pour grossesse unique, avec complications sévères
 
 |
 
@@ -1466,11 +1634,11 @@ Césariennes pour grossesse unique, avec complications sévères.
 
 |
 
-Grossesses ectopiques avec intervention chirurgicale, sans complication significative.
+5330
 
 |
 
-5331
+Grossesses ectopiques avec intervention chirurgicale, sans complication significative
 
 |
 
@@ -1478,11 +1646,11 @@ Grossesses ectopiques avec intervention chirurgicale, sans complication signific
 
 |
 
-Grossesses ectopiques avec intervention chirurgicale, avec complications.
+5331
 
 |
 
-5332
+Grossesses ectopiques avec intervention chirurgicale, avec complications
 
 |
 
@@ -1490,11 +1658,11 @@ Grossesses ectopiques avec intervention chirurgicale, avec complications.
 
 |
 
-Affections de l'ante-partum avec intervention chirurgicale, très courte durée.
+5332
 
 |
 
-5333
+Affections de l'ante partum avec intervention chirurgicale, très courte durée
 
 |
 
@@ -1502,11 +1670,11 @@ Affections de l'ante-partum avec intervention chirurgicale, très courte durée.
 
 |
 
-Affections de l'ante-partum avec intervention chirurgicale.
+5333
 
 |
 
-5475
+Affections de l'ante partum avec intervention chirurgicale
 
 |
 
@@ -1514,11 +1682,11 @@ Affections de l'ante-partum avec intervention chirurgicale.
 
 |
 
-Affections médicales du post-partum ou du post-abortum, sans complication significative.
+5475
 
 |
 
-5476
+Affections médicales du post-partum ou du post abortum, sans complication significative
 
 |
 
@@ -1526,11 +1694,11 @@ Affections médicales du post-partum ou du post-abortum, sans complication signi
 
 |
 
-Affections médicales du post-partum ou du post-abortum, avec complications.
+5476
 
 |
 
-5460
+Affections médicales du post-partum ou du post abortum, avec complications
 
 |
 
@@ -1538,11 +1706,11 @@ Affections médicales du post-partum ou du post-abortum, avec complications.
 
 |
 
-Affections médicales du post-partum ou du post-abortum, très courte durée.
+5460
 
 |
 
-5477
+Affections médicales du post-partum ou du post abortum, très courte durée
 
 |
 
@@ -1550,11 +1718,11 @@ Affections médicales du post-partum ou du post-abortum, très courte durée.
 
 |
 
-Affections de l'ante-partum sans intervention chirurgicale, sans complication significative.
+5477
 
 |
 
-5478
+Affections de l'ante partum sans intervention chirurgicale, sans complication significative
 
 |
 
@@ -1562,11 +1730,11 @@ Affections de l'ante-partum sans intervention chirurgicale, sans complication si
 
 |
 
-Affections de l'ante-partum sans intervention chirurgicale, avec autres complications.
+5478
 
 |
 
-5479
+Affections de l'ante partum sans intervention chirurgicale, avec autres complications
 
 |
 
@@ -1574,11 +1742,11 @@ Affections de l'ante-partum sans intervention chirurgicale, avec autres complica
 
 |
 
-Affections de l'ante-partum sans intervention chirurgicale, avec complications majeures.
+5479
 
 |
 
-5480
+Affections de l'ante partum sans intervention chirurgicale, avec complications majeures
 
 |
 
@@ -1586,11 +1754,11 @@ Affections de l'ante-partum sans intervention chirurgicale, avec complications m
 
 |
 
-Affections de l'ante-partum sans intervention chirurgicale, avec complications sévères.
+5480
 
 |
 
-5481
+Affections de l'ante partum sans intervention chirurgicale, avec complications sévères
 
 |
 
@@ -1598,11 +1766,11 @@ Affections de l'ante-partum sans intervention chirurgicale, avec complications s
 
 |
 
-Affections de l'ante-partum sans intervention chirurgicale, très courte durée.
+5481
 
 |
 
-5469
+Affections de l'ante partum sans intervention chirurgicale, très courte durée
 
 |
 
@@ -1610,11 +1778,11 @@ Affections de l'ante-partum sans intervention chirurgicale, très courte durée.
 
 |
 
-Avortements sans aspiration, ni curetage, ni hystérotomie, très courte durée.
+5469
 
 |
 
-5470
+Avortements sans aspiration, ni curetage, ni hystérotomie, très courte durée
 
 |
 
@@ -1622,11 +1790,11 @@ Avortements sans aspiration, ni curetage, ni hystérotomie, très courte durée.
 
 |
 
-Avortements sans aspiration, ni curetage, ni hystérotomie.
+5470
 
 |
 
-5472
+Avortements sans aspiration, ni curetage, ni hystérotomie
 
 |
 
@@ -1634,11 +1802,11 @@ Avortements sans aspiration, ni curetage, ni hystérotomie.
 
 |
 
-Menaces d'avortement, très courte durée.
+5472
 
 |
 
-5473
+Menaces d'avortement, très courte durée
 
 |
 
@@ -1646,11 +1814,11 @@ Menaces d'avortement, très courte durée.
 
 |
 
-Menaces d'avortement.
+5473
 
 |
 
-9999
+Menaces d'avortement
 
 |
 
@@ -1658,11 +1826,11 @@ Menaces d'avortement.
 
 |
 
-Interruptions volontaires de grossesse : séjours de moins de 3 jours.
+9999
 
 |
 
-5482
+Interruptions volontaires de grossesse : séjours de moins de 3 jours
 
 |
 
@@ -1670,11 +1838,11 @@ Interruptions volontaires de grossesse : séjours de moins de 3 jours.
 
 |
 
-Accouchements hors de l'établissement.
+5482
 
 |
 
-5483
+Accouchements hors de l'établissement
 
 |
 
@@ -1682,11 +1850,11 @@ Accouchements hors de l'établissement.
 
 |
 
-Accouchements par voie basse avec naissance d'un mort-né, sans complication significative.
+5483
 
 |
 
-5484
+Accouchements par voie basse avec naissance d'un mort-né, sans complication significative
 
 |
 
@@ -1694,11 +1862,11 @@ Accouchements par voie basse avec naissance d'un mort-né, sans complication sig
 
 |
 
-Accouchements voie basse avec naissance d'un mort-né, avec complications.
+5484
 
 |
 
-5485
+Accouchements voie basse avec naissance d'un mort-né, avec complications
 
 |
 
@@ -1706,11 +1874,11 @@ Accouchements voie basse avec naissance d'un mort-né, avec complications.
 
 |
 
-Accouchements par voie basse avec naissance d'un mort-né, très courte durée.
+5485
 
 |
 
-5486
+Accouchements par voie basse avec naissance d'un mort-né, très courte durée
 
 |
 
@@ -1718,11 +1886,11 @@ Accouchements par voie basse avec naissance d'un mort-né, très courte durée.
 
 |
 
-Accouchements multiples par voie basse chez une primipare, sans complication significative.
+5486
 
 |
 
-5487
+Accouchements multiples par voie basse chez une primipare, sans complication significative
 
 |
 
@@ -1730,11 +1898,11 @@ Accouchements multiples par voie basse chez une primipare, sans complication sig
 
 |
 
-Accouchements multiples par voie basse chez une primipare, avec complications.
+5487
 
 |
 
-5488
+Accouchements multiples par voie basse chez une primipare, avec complications
 
 |
 
@@ -1742,11 +1910,11 @@ Accouchements multiples par voie basse chez une primipare, avec complications.
 
 |
 
-Accouchements multiples par voie basse chez une multipare, sans complication significative.
+5488
 
 |
 
-5489
+Accouchements multiples par voie basse chez une multipare, sans complication significative
 
 |
 
@@ -1754,11 +1922,11 @@ Accouchements multiples par voie basse chez une multipare, sans complication sig
 
 |
 
-Accouchements multiples par voie basse chez une multipare, avec complications.
+5489
 
 |
 
-5490
+Accouchements multiples par voie basse chez une multipare, avec complications
 
 |
 
@@ -1766,11 +1934,11 @@ Accouchements multiples par voie basse chez une multipare, avec complications.
 
 |
 
-Accouchements uniques par voie basse chez une primipare, sans complication significative.
+5490
 
 |
 
-5491
+Accouchements uniques par voie basse chez une primipare, sans complication significative
 
 |
 
@@ -1778,11 +1946,11 @@ Accouchements uniques par voie basse chez une primipare, sans complication signi
 
 |
 
-Accouchements uniques par voie basse chez une primipare, avec autres complications.
+5491
 
 |
 
-5492
+Accouchements uniques par voie basse chez une primipare, avec autres complications
 
 |
 
@@ -1790,11 +1958,11 @@ Accouchements uniques par voie basse chez une primipare, avec autres complicatio
 
 |
 
-Accouchements uniques par voie basse chez une primipare, avec complications majeures.
+5492
 
 |
 
-5493
+Accouchements uniques par voie basse chez une primipare, avec complications majeures
 
 |
 
@@ -1802,11 +1970,11 @@ Accouchements uniques par voie basse chez une primipare, avec complications maje
 
 |
 
-Accouchements uniques par voie basse chez une primipare, avec complications sévères.
+5493
 
 |
 
-5494
+Accouchements uniques par voie basse chez une primipare, avec complications sévères
 
 |
 
@@ -1814,11 +1982,11 @@ Accouchements uniques par voie basse chez une primipare, avec complications sév
 
 |
 
-Accouchements uniques par voie basse chez une primipare, très courte durée.
+5494
 
 |
 
-5495
+Accouchements uniques par voie basse chez une primipare, très courte durée
 
 |
 
@@ -1826,11 +1994,11 @@ Accouchements uniques par voie basse chez une primipare, très courte durée.
 
 |
 
-Accouchements uniques par voie basse chez une multipare, sans complication significative.
+5495
 
 |
 
-5496
+Accouchements uniques par voie basse chez une multipare, sans complication significative
 
 |
 
@@ -1838,11 +2006,11 @@ Accouchements uniques par voie basse chez une multipare, sans complication signi
 
 |
 
-Accouchements uniques par voie basse chez une multipare, avec autres complications.
+5496
 
 |
 
-5497
+Accouchements uniques par voie basse chez une multipare, avec autres complications
 
 |
 
@@ -1850,11 +2018,11 @@ Accouchements uniques par voie basse chez une multipare, avec autres complicatio
 
 |
 
-Accouchements uniques par voie basse chez une multipare, avec complications majeures.
+5497
 
 |
 
-5498
+Accouchements uniques par voie basse chez une multipare, avec complications majeures
 
 |
 
@@ -1862,11 +2030,11 @@ Accouchements uniques par voie basse chez une multipare, avec complications maje
 
 |
 
-Accouchements uniques par voie basse chez une multipare, avec complications sévères.
+5498
 
 |
 
-5499
+Accouchements uniques par voie basse chez une multipare, avec complications sévères
 
 |
 
@@ -1874,11 +2042,11 @@ Accouchements uniques par voie basse chez une multipare, avec complications sév
 
 |
 
-Accouchements uniques par voie basse chez une multipare, très courte durée.
+5499
 
 |
 
-5500
+Accouchements uniques par voie basse chez une multipare, très courte durée
 
 |
 
@@ -1886,11 +2054,11 @@ Accouchements uniques par voie basse chez une multipare, très courte durée.
 
 |
 
-Grossesses ectopiques sans intervention chirurgicale.
+5500
 
 |
 
-5501
+Grossesses ectopiques sans intervention chirurgicale
 
 |
 
@@ -1898,11 +2066,11 @@ Grossesses ectopiques sans intervention chirurgicale.
 
 |
 
-Faux travail et menaces d'accouchements prématurés, très courte durée.
+5501
 
 |
 
-5502
+Faux travail et menaces d'accouchements prématurés, très courte durée
 
 |
 
@@ -1910,11 +2078,11 @@ Faux travail et menaces d'accouchements prématurés, très courte durée.
 
 |
 
-Faux travail et menaces d'accouchements prématurés.
+5502
 
 |
 
-5837
+Faux travail et menaces d'accouchements prématurés
 
 |
 
@@ -1922,11 +2090,11 @@ Faux travail et menaces d'accouchements prématurés.
 
 |
 
-Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, sans complication significative.
+5837
 
 |
 
-5932
+Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, sans complication significative
 
 |
 
@@ -1934,11 +2102,11 @@ Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, san
 
 |
 
-Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, avec complications.
+5932
 
 |
 
-5838
+Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, avec complications
 
 |
 
@@ -1946,11 +2114,11 @@ Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, ave
 
 |
 
-Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, sans complication significative.
+5838
 
 |
 
-5933
+Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, sans complication significative
 
 |
 
@@ -1958,11 +2126,11 @@ Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 �
 
 |
 
-Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, avec complications.
+5933
 
 |
 
-5839
+Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, avec complications
 
 |
 
@@ -1970,11 +2138,11 @@ Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 �
 
 |
 
-Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, sans complication significative.
+5839
 
 |
 
-5934
+Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, sans complication significative
 
 |
 
@@ -1982,11 +2150,11 @@ Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, sans complicati
 
 |
 
-Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, avec complications.
+5934
 
 |
 
-5840
+Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, avec complications
 
 |
 
@@ -1994,11 +2162,11 @@ Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, avec complicati
 
 |
 
-Interventions chirurgicales, groupes nouveau-nés 8 à 9, sans complication significative.
+5840
 
 |
 
-5935
+Interventions chirurgicales, groupes nouveau-nés 8 à 9, sans complication significative
 
 |
 
@@ -2006,11 +2174,11 @@ Interventions chirurgicales, groupes nouveau-nés 8 à 9, sans complication sign
 
 |
 
-Interventions chirurgicales, groupes nouveau-nés 8 à 9, avec complications.
+5935
 
 |
 
-5841
+Interventions chirurgicales, groupes nouveau-nés 8 à 9, avec complications
 
 |
 
@@ -2018,11 +2186,11 @@ Interventions chirurgicales, groupes nouveau-nés 8 à 9, avec complications.
 
 |
 
-Interventions chirurgicales, groupe nouveau-nés 10, sans complication significative.
+5841
 
 |
 
-5936
+Interventions chirurgicales, groupe nouveau-nés 10, sans complication significative
 
 |
 
@@ -2030,11 +2198,11 @@ Interventions chirurgicales, groupe nouveau-nés 10, sans complication significa
 
 |
 
-Interventions chirurgicales, groupe nouveau-nés 10, avec complications.
+5936
 
 |
 
-5900
+Interventions chirurgicales, groupe nouveau-nés 10, avec complications
 
 |
 
@@ -2042,11 +2210,11 @@ Interventions chirurgicales, groupe nouveau-nés 10, avec complications.
 
 |
 
-Transferts précoces de nouveau-nés vers un autre établissement MCO.
+5900
 
 |
 
-5901
+Transferts précoces de nouveau-nés vers un autre établissement MCO
 
 |
 
@@ -2054,11 +2222,11 @@ Transferts précoces de nouveau-nés vers un autre établissement MCO.
 
 |
 
-Décès précoces de nouveau-nés.
+5901
 
 |
 
-5902
+Décès précoces de nouveau-nés
 
 |
 
@@ -2066,11 +2234,11 @@ Décès précoces de nouveau-nés.
 
 |
 
-Décès tardifs de nouveau-nés.
+5902
 
 |
 
-5903
+Décès tardifs de nouveau-nés
 
 |
 
@@ -2078,11 +2246,11 @@ Décès tardifs de nouveau-nés.
 
 |
 
-Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), sans problème significatif.
+5903
 
 |
 
-5904
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), sans problème significatif
 
 |
 
@@ -2090,11 +2258,11 @@ Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec autre problème significatif.
+5904
 
 |
 
-5905
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec autre problème significatif
 
 |
 
@@ -2102,11 +2270,11 @@ Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème sévère.
+5905
 
 |
 
-5906
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème sévère
 
 |
 
@@ -2114,11 +2282,11 @@ Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème majeur.
+5906
 
 |
 
-5907
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème majeur
 
 |
 
@@ -2126,11 +2294,11 @@ Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), sans problème significatif.
+5907
 
 |
 
-5908
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), sans problème significatif
 
 |
 
@@ -2138,11 +2306,11 @@ Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec autre problème significatif.
+5908
 
 |
 
-5909
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec autre problème significatif
 
 |
 
@@ -2150,11 +2318,11 @@ Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème sévère.
+5909
 
 |
 
-5910
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème sévère
 
 |
 
@@ -2162,11 +2330,11 @@ Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème majeur.
+5910
 
 |
 
-5911
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème majeur
 
 |
 
@@ -2174,11 +2342,11 @@ Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), sans problème significatif.
+5911
 
 |
 
-5912
+Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), sans problème significatif
 
 |
 
@@ -2186,11 +2354,11 @@ Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec autre problème significatif.
+5912
 
 |
 
-5913
+Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec autre problème significatif
 
 |
 
@@ -2198,11 +2366,11 @@ Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec problème majeur ou sévère.
+5913
 
 |
 
-5914
+Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec problème majeur ou sévère
 
 |
 
@@ -2210,11 +2378,11 @@ Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), sans problème significatif.
+5914
 
 |
 
-5915
+Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), sans problème significatif
 
 |
 
@@ -2222,11 +2390,11 @@ Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec autre problème significatif.
+5915
 
 |
 
-5916
+Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec autre problème significatif
 
 |
 
@@ -2234,11 +2402,11 @@ Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec problème majeur ou sévère.
+5916
 
 |
 
-5917
+Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec problème majeur ou sévère
 
 |
 
@@ -2246,11 +2414,11 @@ Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), sans problème significatif.
+5917
 
 |
 
-5918
+Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), sans problème significatif
 
 |
 
@@ -2258,11 +2426,11 @@ Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec autre problème significatif.
+5918
 
 |
 
-5919
+Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec autre problème significatif
 
 |
 
@@ -2270,11 +2438,11 @@ Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec problème majeur ou sévère.
+5919
 
 |
 
-5920
+Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec problème majeur ou sévère
 
 |
 
@@ -2282,11 +2450,11 @@ Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), sans problème significatif.
+5920
 
 |
 
-5921
+Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), sans problème significatif
 
 |
 
@@ -2294,11 +2462,11 @@ Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec autre problème significatif.
+5921
 
 |
 
-5922
+Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec autre problème significatif
 
 |
 
@@ -2306,11 +2474,11 @@ Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec problème majeur ou sévère.
+5922
 
 |
 
-5923
+Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec problème majeur ou sévère
 
 |
 
@@ -2318,11 +2486,11 @@ Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), sans problème significatif.
+5923
 
 |
 
-5924
+Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), sans problème significatif
 
 |
 
@@ -2330,11 +2498,11 @@ Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec autre problème significatif.
+5924
 
 |
 
-5925
+Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec autre problème significatif
 
 |
 
@@ -2342,11 +2510,11 @@ Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec problème majeur ou sévère.
+5925
 
 |
 
-5926
+Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec problème majeur ou sévère
 
 |
 
@@ -2354,11 +2522,11 @@ Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), sans problème significatif.
+5926
 
 |
 
-5927
+Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), sans problème significatif
 
 |
 
@@ -2366,11 +2534,11 @@ Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), avec problème significatif.
+5927
 
 |
 
-5928
+Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), avec problème significatif
 
 |
 
@@ -2378,11 +2546,11 @@ Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), sans problème significatif.
+5928
 
 |
 
-5929
+Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), sans problème significatif
 
 |
 
@@ -2390,11 +2558,11 @@ Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), avec problème significatif.
+5929
 
 |
 
-5930
+Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), avec problème significatif
 
 |
 
@@ -2402,11 +2570,11 @@ Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), sans problème significatif.
+5930
 
 |
 
-5931
+Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), sans problème significatif
 
 |
 
@@ -2414,11 +2582,11 @@ Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau
 
 |
 
-Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), avec problème significatif.
+5931
 
 |
 
-9999
+Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), avec problème significatif
 
 |
 
@@ -2426,11 +2594,11 @@ Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau
 
 |
 
-Mort-nés.
+9999
 
 |
 
-6104
+Mort-nés
 
 |
 
@@ -2438,11 +2606,11 @@ Mort-nés.
 
 |
 
-Interventions sur la rate, niveau 1.
+6104
 
 |
 
-6105
+Interventions sur la rate, niveau 1
 
 |
 
@@ -2450,11 +2618,11 @@ Interventions sur la rate, niveau 1.
 
 |
 
-Interventions sur la rate, niveau 2.
+6105
 
 |
 
-6106
+Interventions sur la rate, niveau 2
 
 |
 
@@ -2462,11 +2630,11 @@ Interventions sur la rate, niveau 2.
 
 |
 
-Interventions sur la rate, niveau 3.
+6106
 
 |
 
-6107
+Interventions sur la rate, niveau 3
 
 |
 
@@ -2474,11 +2642,11 @@ Interventions sur la rate, niveau 3.
 
 |
 
-Interventions sur la rate, niveau 4.
+6107
 
 |
 
-6108
+Interventions sur la rate, niveau 4
 
 |
 
@@ -2486,11 +2654,11 @@ Interventions sur la rate, niveau 4.
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 1.
+6108
 
 |
 
-6109
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 1
 
 |
 
@@ -2498,11 +2666,11 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 2.
+6109
 
 |
 
-6110
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 2
 
 |
 
@@ -2510,11 +2678,11 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 3.
+6110
 
 |
 
-6111
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 3
 
 |
 
@@ -2522,11 +2690,11 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 4.
+6111
 
 |
 
-6112
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 4
 
 |
 
@@ -2534,11 +2702,11 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, en ambulatoire.
+6112
 
 |
 
-6159
+Autres interventions pour affections du sang et des organes hématopoïétiques, en ambulatoire
 
 |
 
@@ -2546,11 +2714,11 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Affections de la rate, niveau 1.
+6159
 
 |
 
-6160
+Affections de la rate, niveau 1
 
 |
 
@@ -2558,11 +2726,11 @@ Affections de la rate, niveau 1.
 
 |
 
-Affections de la rate, niveau 2.
+6160
 
 |
 
-6161
+Affections de la rate, niveau 2
 
 |
 
@@ -2570,11 +2738,11 @@ Affections de la rate, niveau 2.
 
 |
 
-Affections de la rate, niveau 3.
+6161
 
 |
 
-6162
+Affections de la rate, niveau 3
 
 |
 
@@ -2582,11 +2750,11 @@ Affections de la rate, niveau 3.
 
 |
 
-Affections de la rate, niveau 4.
+6162
 
 |
 
-6163
+Affections de la rate, niveau 4
 
 |
 
@@ -2594,11 +2762,11 @@ Affections de la rate, niveau 4.
 
 |
 
-Affections de la rate, très courte durée.
+6163
 
 |
 
-6164
+Affections de la rate, très courte durée
 
 |
 
@@ -2606,11 +2774,11 @@ Affections de la rate, très courte durée.
 
 |
 
-Donneurs de moelle, niveau 1.
+6164
 
 |
 
-6165
+Donneurs de moelle, niveau 1
 
 |
 
@@ -2618,11 +2786,11 @@ Donneurs de moelle, niveau 1.
 
 |
 
-Donneurs de moelle, niveau 2.
+6165
 
 |
 
-6166
+Donneurs de moelle, niveau 2
 
 |
 
@@ -2630,11 +2798,11 @@ Donneurs de moelle, niveau 2.
 
 |
 
-Donneurs de moelle, niveau 3.
+6166
 
 |
 
-6167
+Donneurs de moelle, niveau 3
 
 |
 
@@ -2642,11 +2810,11 @@ Donneurs de moelle, niveau 3.
 
 |
 
-Donneurs de moelle, niveau 4.
+6167
 
 |
 
-6168
+Donneurs de moelle, niveau 4
 
 |
 
@@ -2654,11 +2822,11 @@ Donneurs de moelle, niveau 4.
 
 |
 
-Déficits immunitaires, niveau 1.
+6168
 
 |
 
-6169
+Déficits immunitaires, niveau 1
 
 |
 
@@ -2666,11 +2834,11 @@ Déficits immunitaires, niveau 1.
 
 |
 
-Déficits immunitaires, niveau 2.
+6169
 
 |
 
-6170
+Déficits immunitaires, niveau 2
 
 |
 
@@ -2678,11 +2846,11 @@ Déficits immunitaires, niveau 2.
 
 |
 
-Déficits immunitaires, niveau 3.
+6170
 
 |
 
-6171
+Déficits immunitaires, niveau 3
 
 |
 
@@ -2690,11 +2858,11 @@ Déficits immunitaires, niveau 3.
 
 |
 
-Déficits immunitaires, niveau 4.
+6171
 
 |
 
-6172
+Déficits immunitaires, niveau 4
 
 |
 
@@ -2702,11 +2870,11 @@ Déficits immunitaires, niveau 4.
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 1.
+6172
 
 |
 
-6173
+Autres affections du système réticuloendothélial ou immunitaire, niveau 1
 
 |
 
@@ -2714,11 +2882,11 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 1.
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 2.
+6173
 
 |
 
-6174
+Autres affections du système réticuloendothélial ou immunitaire, niveau 2
 
 |
 
@@ -2726,11 +2894,11 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 2.
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 3.
+6174
 
 |
 
-6175
+Autres affections du système réticuloendothélial ou immunitaire, niveau 3
 
 |
 
@@ -2738,11 +2906,11 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 3.
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 4.
+6175
 
 |
 
-6176
+Autres affections du système réticuloendothélial ou immunitaire, niveau 4
 
 |
 
@@ -2750,11 +2918,11 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 4.
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, très courte durée.
+6176
 
 |
 
-6177
+Autres affections du système réticuloendothélial ou immunitaire, très courte durée
 
 |
 
@@ -2762,11 +2930,11 @@ Autres affections du système réticuloendothélial ou immunitaire, très courte
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1.
+6177
 
 |
 
-6178
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2774,11 +2942,11 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2.
+6178
 
 |
 
-6179
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2786,11 +2954,11 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3.
+6179
 
 |
 
-6180
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2798,11 +2966,11 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4.
+6180
 
 |
 
-6181
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2810,11 +2978,11 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée.
+6181
 
 |
 
-6182
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -2822,11 +2990,11 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, tr�
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1.
+6182
 
 |
 
-6183
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2834,11 +3002,11 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2.
+6183
 
 |
 
-6184
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2846,11 +3014,11 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3.
+6184
 
 |
 
-6185
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2858,11 +3026,11 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4.
+6185
 
 |
 
-6186
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2870,11 +3038,11 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée.
+6186
 
 |
 
-6187
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -2882,11 +3050,11 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, très 
 
 |
 
-Purpuras, niveau 1.
+6187
 
 |
 
-6188
+Purpuras, niveau 1
 
 |
 
@@ -2894,11 +3062,11 @@ Purpuras, niveau 1.
 
 |
 
-Purpuras, niveau 2.
+6188
 
 |
 
-6189
+Purpuras, niveau 2
 
 |
 
@@ -2906,11 +3074,11 @@ Purpuras, niveau 2.
 
 |
 
-Purpuras, niveau 3.
+6189
 
 |
 
-6190
+Purpuras, niveau 3
 
 |
 
@@ -2918,11 +3086,11 @@ Purpuras, niveau 3.
 
 |
 
-Purpuras, niveau 4.
+6190
 
 |
 
-6191
+Purpuras, niveau 4
 
 |
 
@@ -2930,11 +3098,11 @@ Purpuras, niveau 4.
 
 |
 
-Purpuras, très courte durée.
+6191
 
 |
 
-6192
+Purpuras, très courte durée
 
 |
 
@@ -2942,11 +3110,11 @@ Purpuras, très courte durée.
 
 |
 
-Autres troubles de la coagulation, niveau 1.
+6192
 
 |
 
-6193
+Autres troubles de la coagulation, niveau 1
 
 |
 
@@ -2954,11 +3122,11 @@ Autres troubles de la coagulation, niveau 1.
 
 |
 
-Autres troubles de la coagulation, niveau 2.
+6193
 
 |
 
-6194
+Autres troubles de la coagulation, niveau 2
 
 |
 
@@ -2966,11 +3134,11 @@ Autres troubles de la coagulation, niveau 2.
 
 |
 
-Autres troubles de la coagulation, niveau 3.
+6194
 
 |
 
-6195
+Autres troubles de la coagulation, niveau 3
 
 |
 
@@ -2978,11 +3146,11 @@ Autres troubles de la coagulation, niveau 3.
 
 |
 
-Autres troubles de la coagulation, niveau 4.
+6195
 
 |
 
-6196
+Autres troubles de la coagulation, niveau 4
 
 |
 
@@ -2990,11 +3158,11 @@ Autres troubles de la coagulation, niveau 4.
 
 |
 
-Autres troubles de la coagulation, très courte durée.
+6196
 
 |
 
-6197
+Autres troubles de la coagulation, très courte durée
 
 |
 
@@ -3002,11 +3170,11 @@ Autres troubles de la coagulation, très courte durée.
 
 |
 
-Explorations et surveillance pour affections du sang et des organes hématopoïétiques.
+6197
 
 |
 
-6209
+Explorations et surveillance pour affections du sang et des organes hématopoïétiques
 
 |
 
@@ -3014,11 +3182,11 @@ Explorations et surveillance pour affections du sang et des organes hématopoï�
 
 |
 
-Symptômes et autres recours aux soins de la CMD 16, très courte durée.
+6209
 
 |
 
-6198
+Symptômes et autres recours aux soins de la CMD 16, très courte durée
 
 |
 
@@ -3026,11 +3194,11 @@ Symptômes et autres recours aux soins de la CMD 16, très courte durée.
 
 |
 
-Symptômes et autres recours aux soins de la CMD 16.
+6198
 
 |
 
-6199
+Symptômes et autres recours aux soins de la CMD 16
 
 |
 
@@ -3038,11 +3206,11 @@ Symptômes et autres recours aux soins de la CMD 16.
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1.
+6199
 
 |
 
-6200
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -3050,11 +3218,11 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2.
+6200
 
 |
 
-6201
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -3062,11 +3230,11 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3.
+6201
 
 |
 
-6202
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -3074,11 +3242,11 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4.
+6202
 
 |
 
-6203
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -3086,11 +3254,11 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée.
+6203
 
 |
 
-6204
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -3098,11 +3266,11 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, tr�
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1.
+6204
 
 |
 
-6205
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -3110,11 +3278,11 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2.
+6205
 
 |
 
-6206
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -3122,11 +3290,11 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3.
+6206
 
 |
 
-6207
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -3134,11 +3302,11 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4.
+6207
 
 |
 
-6208
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -3146,11 +3314,11 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée.
+6208
 
 |
 
-6210
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -3158,11 +3326,11 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, très 
 
 |
 
-Autres affections hématologiques concernant majoritairement la petite enfance, niveau 1.
+6210
 
 |
 
-6211
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 1
 
 |
 
@@ -3170,11 +3338,11 @@ Autres affections hématologiques concernant majoritairement la petite enfance, 
 
 |
 
-Autres affections hématologiques concernant majoritairement la petite enfance, niveau 2.
+6211
 
 |
 
-6212
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 2
 
 |
 
@@ -3182,11 +3350,11 @@ Autres affections hématologiques concernant majoritairement la petite enfance, 
 
 |
 
-Autres affections hématologiques concernant majoritairement la petite enfance, niveau 3.
+6212
 
 |
 
-6213
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 3
 
 |
 
@@ -3194,11 +3362,11 @@ Autres affections hématologiques concernant majoritairement la petite enfance, 
 
 |
 
-Autres affections hématologiques concernant majoritairement la petite enfance, niveau 4.
+6213
 
 |
 
-6309
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 4
 
 |
 
@@ -3206,11 +3374,11 @@ Autres affections hématologiques concernant majoritairement la petite enfance, 
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 1.
+6309
 
 |
 
-6310
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 1
 
 |
 
@@ -3218,11 +3386,11 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 1.
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 2.
+6310
 
 |
 
-6311
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 2
 
 |
 
@@ -3230,11 +3398,11 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 2.
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 3.
+6311
 
 |
 
-6312
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 3
 
 |
 
@@ -3242,11 +3410,11 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 3.
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 4.
+6312
 
 |
 
-6313
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 4
 
 |
 
@@ -3254,11 +3422,11 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 4.
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 1.
+6313
 
 |
 
-6314
+Autres interventions au cours de lymphomes ou de leucémies, niveau 1
 
 |
 
@@ -3266,11 +3434,11 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 1.
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 2.
+6314
 
 |
 
-6315
+Autres interventions au cours de lymphomes ou de leucémies, niveau 2
 
 |
 
@@ -3278,11 +3446,11 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 2.
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 3.
+6315
 
 |
 
-6316
+Autres interventions au cours de lymphomes ou de leucémies, niveau 3
 
 |
 
@@ -3290,11 +3458,11 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 3.
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 4.
+6316
 
 |
 
-6317
+Autres interventions au cours de lymphomes ou de leucémies, niveau 4
 
 |
 
@@ -3302,11 +3470,11 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 4.
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, en ambulatoire.
+6317
 
 |
 
-6318
+Autres interventions au cours de lymphomes ou de leucémies, en ambulatoire
 
 |
 
@@ -3314,11 +3482,11 @@ Autres interventions au cours de lymphomes ou de leucémies, en ambulatoire.
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 1.
+6318
 
 |
 
-6319
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 1
 
 |
 
@@ -3326,11 +3494,11 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 2.
+6319
 
 |
 
-6320
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 2
 
 |
 
@@ -3338,11 +3506,11 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 3.
+6320
 
 |
 
-6321
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 3
 
 |
 
@@ -3350,11 +3518,11 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 4.
+6321
 
 |
 
-6322
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 4
 
 |
 
@@ -3362,11 +3530,11 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 1.
+6322
 
 |
 
-6323
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 1
 
 |
 
@@ -3374,11 +3542,11 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 2.
+6323
 
 |
 
-6324
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 2
 
 |
 
@@ -3386,11 +3554,11 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 3.
+6324
 
 |
 
-6325
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 3
 
 |
 
@@ -3398,11 +3566,11 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 4.
+6325
 
 |
 
-6326
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 4
 
 |
 
@@ -3410,11 +3578,11 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, en ambulatoire.
+6326
 
 |
 
-6470
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, en ambulatoire
 
 |
 
@@ -3422,15 +3590,35 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres irradiations, niveau 1.
-
-|
-
 6523
 
 |
 
-6471
+Autres irradiations, niveau 1
+
+|
+
+6470
+
+|
+
+Autres irradiations, niveau 1
+
+|
+
+6525
+
+|
+
+Autres irradiations, niveau 1
+
+|
+
+6524
+
+|
+
+Autres irradiations, niveau 1
 
 |
 
@@ -3438,11 +3626,11 @@ Autres irradiations, niveau 1.
 
 |
 
-Autres irradiations, niveau 2.
+6471
 
 |
 
-6472
+Autres irradiations, niveau 2
 
 |
 
@@ -3450,11 +3638,11 @@ Autres irradiations, niveau 2.
 
 |
 
-Autres irradiations, niveau 3.
+6472
 
 |
 
-6473
+Autres irradiations, niveau 3
 
 |
 
@@ -3462,11 +3650,11 @@ Autres irradiations, niveau 3.
 
 |
 
-Autres irradiations, niveau 4.
+6473
 
 |
 
-6474
+Autres irradiations, niveau 4
 
 |
 
@@ -3474,11 +3662,11 @@ Autres irradiations, niveau 4.
 
 |
 
-Curiethérapies de la prostate, niveau 1.
+6474
 
 |
 
-6475
+Curiethérapies de la prostate, niveau 1
 
 |
 
@@ -3486,11 +3674,11 @@ Curiethérapies de la prostate, niveau 1.
 
 |
 
-Curiethérapies de la prostate, niveau 2.
+6475
 
 |
 
-6476
+Curiethérapies de la prostate, niveau 2
 
 |
 
@@ -3498,11 +3686,11 @@ Curiethérapies de la prostate, niveau 2.
 
 |
 
-Curiethérapies de la prostate, niveau 3.
+6476
 
 |
 
-6477
+Curiethérapies de la prostate, niveau 3
 
 |
 
@@ -3510,11 +3698,11 @@ Curiethérapies de la prostate, niveau 3.
 
 |
 
-Curiethérapies de la prostate, niveau 4.
+6477
 
 |
 
-6478
+Curiethérapies de la prostate, niveau 4
 
 |
 
@@ -3522,11 +3710,11 @@ Curiethérapies de la prostate, niveau 4.
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 1.
+6478
 
 |
 
-6479
+Autres curiethérapies et irradiations internes, niveau 1
 
 |
 
@@ -3534,11 +3722,11 @@ Autres curiethérapies et irradiations internes, niveau 1.
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 2.
+6479
 
 |
 
-6480
+Autres curiethérapies et irradiations internes, niveau 2
 
 |
 
@@ -3546,11 +3734,11 @@ Autres curiethérapies et irradiations internes, niveau 2.
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 3.
+6480
 
 |
 
-6481
+Autres curiethérapies et irradiations internes, niveau 3
 
 |
 
@@ -3558,11 +3746,11 @@ Autres curiethérapies et irradiations internes, niveau 3.
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 4.
+6481
 
 |
 
-6482
+Autres curiethérapies et irradiations internes, niveau 4
 
 |
 
@@ -3570,11 +3758,11 @@ Autres curiethérapies et irradiations internes, niveau 4.
 
 |
 
-Affections myéloprolifératives et tumeurs de siège imprécis sans acte opératoire, avec anesthésie, en ambulatoire.
+6482
 
 |
 
-6483
+Affections myéloprolifératives et tumeurs de siège imprécis sans acte opératoire, avec anesthésie, en ambulatoire
 
 |
 
@@ -3582,11 +3770,11 @@ Affections myéloprolifératives et tumeurs de siège imprécis sans acte opéra
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 1.
+6483
 
 |
 
-6484
+Chimiothérapie pour leucémie aiguë, niveau 1
 
 |
 
@@ -3594,11 +3782,11 @@ Chimiothérapie pour leucémie aiguë, niveau 1.
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 2.
+6484
 
 |
 
-6485
+Chimiothérapie pour leucémie aiguë, niveau 2
 
 |
 
@@ -3606,11 +3794,11 @@ Chimiothérapie pour leucémie aiguë, niveau 2.
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 3.
+6485
 
 |
 
-6486
+Chimiothérapie pour leucémie aiguë, niveau 3
 
 |
 
@@ -3618,11 +3806,11 @@ Chimiothérapie pour leucémie aiguë, niveau 3.
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 4.
+6486
 
 |
 
-6487
+Chimiothérapie pour leucémie aiguë, niveau 4
 
 |
 
@@ -3630,11 +3818,11 @@ Chimiothérapie pour leucémie aiguë, niveau 4.
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 1.
+6487
 
 |
 
-6488
+Chimiothérapie pour autre tumeur, niveau 1
 
 |
 
@@ -3642,11 +3830,11 @@ Chimiothérapie pour autre tumeur, niveau 1.
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 2.
+6488
 
 |
 
-6489
+Chimiothérapie pour autre tumeur, niveau 2
 
 |
 
@@ -3654,11 +3842,11 @@ Chimiothérapie pour autre tumeur, niveau 2.
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 3.
+6489
 
 |
 
-6490
+Chimiothérapie pour autre tumeur, niveau 3
 
 |
 
@@ -3666,11 +3854,11 @@ Chimiothérapie pour autre tumeur, niveau 3.
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 4.
+6490
 
 |
 
-6491
+Chimiothérapie pour autre tumeur, niveau 4
 
 |
 
@@ -3678,11 +3866,11 @@ Chimiothérapie pour autre tumeur, niveau 4.
 
 |
 
-Chimiothérapie pour autre tumeur, très courte durée.
+6491
 
 |
 
-6492
+Chimiothérapie pour autre tumeur, très courte durée
 
 |
 
@@ -3690,11 +3878,11 @@ Chimiothérapie pour autre tumeur, très courte durée.
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 1.
+6492
 
 |
 
-6493
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 1
 
 |
 
@@ -3702,11 +3890,11 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 2.
+6493
 
 |
 
-6494
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 2
 
 |
 
@@ -3714,11 +3902,11 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 3.
+6494
 
 |
 
-6495
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 3
 
 |
 
@@ -3726,11 +3914,11 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 4.
+6495
 
 |
 
-6496
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 4
 
 |
 
@@ -3738,11 +3926,11 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, très courte durée.
+6496
 
 |
 
-6497
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, très courte durée
 
 |
 
@@ -3750,11 +3938,11 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 1.
+6497
 
 |
 
-6498
+Leucémies aiguës, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -3762,11 +3950,11 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 1.
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 2.
+6498
 
 |
 
-6499
+Leucémies aiguës, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -3774,11 +3962,11 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 2.
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 3.
+6499
 
 |
 
-6500
+Leucémies aiguës, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -3786,11 +3974,11 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 3.
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 4.
+6500
 
 |
 
-6501
+Leucémies aiguës, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -3798,11 +3986,11 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 4.
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, très courte durée.
+6501
 
 |
 
-6502
+Leucémies aiguës, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -3810,11 +3998,11 @@ Leucémies aiguës, âge inférieur à 18 ans, très courte durée.
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 1.
+6502
 
 |
 
-6503
+Leucémies aiguës, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -3822,11 +4010,11 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 1.
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 2.
+6503
 
 |
 
-6504
+Leucémies aiguës, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -3834,11 +4022,11 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 2.
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 3.
+6504
 
 |
 
-6505
+Leucémies aiguës, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -3846,11 +4034,11 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 3.
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 4.
+6505
 
 |
 
-6506
+Leucémies aiguës, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3858,11 +4046,11 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 4.
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, très courte durée.
+6506
 
 |
 
-6507
+Leucémies aiguës, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -3870,11 +4058,11 @@ Leucémies aiguës, âge supérieur à 17 ans, très courte durée.
 
 |
 
-Autres leucémies, niveau 1.
+6507
 
 |
 
-6508
+Autres leucémies, niveau 1
 
 |
 
@@ -3882,11 +4070,11 @@ Autres leucémies, niveau 1.
 
 |
 
-Autres leucémies, niveau 2.
+6508
 
 |
 
-6509
+Autres leucémies, niveau 2
 
 |
 
@@ -3894,11 +4082,11 @@ Autres leucémies, niveau 2.
 
 |
 
-Autres leucémies, niveau 3.
+6509
 
 |
 
-6510
+Autres leucémies, niveau 3
 
 |
 
@@ -3906,11 +4094,11 @@ Autres leucémies, niveau 3.
 
 |
 
-Autres leucémies, niveau 4.
+6510
 
 |
 
-6511
+Autres leucémies, niveau 4
 
 |
 
@@ -3918,11 +4106,11 @@ Autres leucémies, niveau 4.
 
 |
 
-Autres leucémies, très courte durée.
+6511
 
 |
 
-6512
+Autres leucémies, très courte durée
 
 |
 
@@ -3930,11 +4118,11 @@ Autres leucémies, très courte durée.
 
 |
 
-Lymphomes et autres affections malignes hématopoïétiques, niveau 1.
+6512
 
 |
 
-6513
+Lymphomes et autres affections malignes hématopoiètiques, niveau 1
 
 |
 
@@ -3942,11 +4130,11 @@ Lymphomes et autres affections malignes hématopoïétiques, niveau 1.
 
 |
 
-Lymphomes et autres affections malignes hématopoïétiques, niveau 2.
+6513
 
 |
 
-6514
+Lymphomes et autres affections malignes hématopoiètiques, niveau 2
 
 |
 
@@ -3954,11 +4142,11 @@ Lymphomes et autres affections malignes hématopoïétiques, niveau 2.
 
 |
 
-Lymphomes et autres affections malignes hématopoïétiques, niveau 3.
+6514
 
 |
 
-6515
+Lymphomes et autres affections malignes hématopoiètiques, niveau 3
 
 |
 
@@ -3966,11 +4154,11 @@ Lymphomes et autres affections malignes hématopoïétiques, niveau 3.
 
 |
 
-Lymphomes et autres affections malignes hématopoïétiques, niveau 4.
+6515
 
 |
 
-6516
+Lymphomes et autres affections malignes hématopoiètiques, niveau 4
 
 |
 
@@ -3978,11 +4166,11 @@ Lymphomes et autres affections malignes hématopoïétiques, niveau 4.
 
 |
 
-Lymphomes et autres affections malignes hématopoïétiques, très courte durée.
+6516
 
 |
 
-6517
+Lymphomes et autres affections malignes hématopoiètiques, très courte durée
 
 |
 
@@ -3990,11 +4178,11 @@ Lymphomes et autres affections malignes hématopoïétiques, très courte durée
 
 |
 
-Polyglobulies, niveau 1.
+6517
 
 |
 
-6518
+Polyglobulies, niveau 1
 
 |
 
@@ -4002,11 +4190,11 @@ Polyglobulies, niveau 1.
 
 |
 
-Polyglobulies, niveau 2.
+6518
 
 |
 
-6519
+Polyglobulies, niveau 2
 
 |
 
@@ -4014,11 +4202,11 @@ Polyglobulies, niveau 2.
 
 |
 
-Polyglobulies, niveau 3.
+6519
 
 |
 
-6520
+Polyglobulies, niveau 3
 
 |
 
@@ -4026,11 +4214,11 @@ Polyglobulies, niveau 3.
 
 |
 
-Polyglobulies, niveau 4.
+6520
 
 |
 
-6521
+Polyglobulies, niveau 4
 
 |
 
@@ -4038,11 +4226,11 @@ Polyglobulies, niveau 4.
 
 |
 
-Polyglobulies, très courte durée.
+6521
 
 |
 
-6522
+Polyglobulies, très courte durée
 
 |
 
@@ -4050,11 +4238,11 @@ Polyglobulies, très courte durée.
 
 |
 
-Explorations et surveillance pour affections myéloprolifératives et tumeurs de siège imprécis ou diffus.
+6522
 
 |
 
-6702
+Explorations et surveillance pour affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
@@ -4062,11 +4250,11 @@ Explorations et surveillance pour affections myéloprolifératives et tumeurs de
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 1.
+6702
 
 |
 
-6703
+Interventions pour maladies infectieuses ou parasitaires, niveau 1
 
 |
 
@@ -4074,11 +4262,11 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 1.
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 2.
+6703
 
 |
 
-6704
+Interventions pour maladies infectieuses ou parasitaires, niveau 2
 
 |
 
@@ -4086,11 +4274,11 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 2.
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 3.
+6704
 
 |
 
-6705
+Interventions pour maladies infectieuses ou parasitaires, niveau 3
 
 |
 
@@ -4098,11 +4286,11 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 3.
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 4.
+6705
 
 |
 
-6706
+Interventions pour maladies infectieuses ou parasitaires, niveau 4
 
 |
 
@@ -4110,11 +4298,11 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 4.
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, en ambulatoire.
+6706
 
 |
 
-6763
+Interventions pour maladies infectieuses ou parasitaires, en ambulatoire
 
 |
 
@@ -4122,11 +4310,11 @@ Interventions pour maladies infectieuses ou parasitaires, en ambulatoire.
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 1.
+6763
 
 |
 
-6764
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 1
 
 |
 
@@ -4134,11 +4322,11 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 2.
+6764
 
 |
 
-6765
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 2
 
 |
 
@@ -4146,11 +4334,11 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 3.
+6765
 
 |
 
-6766
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 3
 
 |
 
@@ -4158,11 +4346,11 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 4.
+6766
 
 |
 
-6767
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 4
 
 |
 
@@ -4170,11 +4358,11 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 1.
+6767
 
 |
 
-6768
+Maladies virales, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -4182,11 +4370,11 @@ Maladies virales, âge supérieur à 17 ans, niveau 1.
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 2.
+6768
 
 |
 
-6769
+Maladies virales, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -4194,11 +4382,11 @@ Maladies virales, âge supérieur à 17 ans, niveau 2.
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 3.
+6769
 
 |
 
-6770
+Maladies virales, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -4206,11 +4394,11 @@ Maladies virales, âge supérieur à 17 ans, niveau 3.
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 4.
+6770
 
 |
 
-6771
+Maladies virales, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -4218,11 +4406,11 @@ Maladies virales, âge supérieur à 17 ans, niveau 4.
 
 |
 
-Maladies virales, âge supérieur à 17 ans, très courte durée.
+6771
 
 |
 
-6772
+Maladies virales, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -4230,11 +4418,11 @@ Maladies virales, âge supérieur à 17 ans, très courte durée.
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 1.
+6772
 
 |
 
-6773
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -4242,11 +4430,11 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 1.
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 2.
+6773
 
 |
 
-6774
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -4254,11 +4442,11 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 2.
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 3.
+6774
 
 |
 
-6775
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -4266,11 +4454,11 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 3.
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 4.
+6775
 
 |
 
-6776
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -4278,11 +4466,11 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 4.
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, très courte durée.
+6776
 
 |
 
-6777
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -4290,11 +4478,11 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, très courte du
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 1.
+6777
 
 |
 
-6778
+Septicémies, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -4302,11 +4490,11 @@ Septicémies, âge inférieur à 18 ans, niveau 1.
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 2.
+6778
 
 |
 
-6779
+Septicémies, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -4314,11 +4502,11 @@ Septicémies, âge inférieur à 18 ans, niveau 2.
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 3.
+6779
 
 |
 
-6780
+Septicémies, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -4326,11 +4514,11 @@ Septicémies, âge inférieur à 18 ans, niveau 3.
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 4.
+6780
 
 |
 
-6781
+Septicémies, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -4338,11 +4526,11 @@ Septicémies, âge inférieur à 18 ans, niveau 4.
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 1.
+6781
 
 |
 
-6782
+Septicémies, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -4350,11 +4538,11 @@ Septicémies, âge supérieur à 17 ans, niveau 1.
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 2.
+6782
 
 |
 
-6783
+Septicémies, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -4362,11 +4550,11 @@ Septicémies, âge supérieur à 17 ans, niveau 2.
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 3.
+6783
 
 |
 
-6784
+Septicémies, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -4374,11 +4562,11 @@ Septicémies, âge supérieur à 17 ans, niveau 3.
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 4.
+6784
 
 |
 
-6785
+Septicémies, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -4386,11 +4574,11 @@ Septicémies, âge supérieur à 17 ans, niveau 4.
 
 |
 
-Septicémies, âge supérieur à 17 ans, très courte durée.
+6785
 
 |
 
-6786
+Septicémies, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -4398,11 +4586,11 @@ Septicémies, âge supérieur à 17 ans, très courte durée.
 
 |
 
-Paludisme, niveau 1.
+6786
 
 |
 
-6787
+Paludisme, niveau 1
 
 |
 
@@ -4410,11 +4598,11 @@ Paludisme, niveau 1.
 
 |
 
-Paludisme, niveau 2.
+6787
 
 |
 
-6788
+Paludisme, niveau 2
 
 |
 
@@ -4422,11 +4610,11 @@ Paludisme, niveau 2.
 
 |
 
-Paludisme, niveau 3.
+6788
 
 |
 
-6789
+Paludisme, niveau 3
 
 |
 
@@ -4434,11 +4622,11 @@ Paludisme, niveau 3.
 
 |
 
-Paludisme, niveau 4.
+6789
 
 |
 
-6803
+Paludisme, niveau 4
 
 |
 
@@ -4446,11 +4634,11 @@ Paludisme, niveau 4.
 
 |
 
-Paludisme, très courte durée.
+6803
 
 |
 
-6790
+Paludisme, très courte durée
 
 |
 
@@ -4458,11 +4646,11 @@ Paludisme, très courte durée.
 
 |
 
-Maladies infectieuses sévères, niveau 1.
+6790
 
 |
 
-6791
+Maladies infectieuses sévères, niveau 1
 
 |
 
@@ -4470,11 +4658,11 @@ Maladies infectieuses sévères, niveau 1.
 
 |
 
-Maladies infectieuses sévères, niveau 2.
+6791
 
 |
 
-6792
+Maladies infectieuses sévères, niveau 2
 
 |
 
@@ -4482,11 +4670,11 @@ Maladies infectieuses sévères, niveau 2.
 
 |
 
-Maladies infectieuses sévères, niveau 3.
+6792
 
 |
 
-6793
+Maladies infectieuses sévères, niveau 3
 
 |
 
@@ -4494,11 +4682,11 @@ Maladies infectieuses sévères, niveau 3.
 
 |
 
-Maladies infectieuses sévères, niveau 4.
+6793
 
 |
 
-6794
+Maladies infectieuses sévères, niveau 4
 
 |
 
@@ -4506,11 +4694,11 @@ Maladies infectieuses sévères, niveau 4.
 
 |
 
-Maladies infectieuses sévères, très courte durée.
+6794
 
 |
 
-6795
+Maladies infectieuses sévères, très courte durée
 
 |
 
@@ -4518,11 +4706,11 @@ Maladies infectieuses sévères, très courte durée.
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 1.
+6795
 
 |
 
-6796
+Autres maladies infectieuses ou parasitaires, niveau 1
 
 |
 
@@ -4530,11 +4718,11 @@ Autres maladies infectieuses ou parasitaires, niveau 1.
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 2.
+6796
 
 |
 
-6797
+Autres maladies infectieuses ou parasitaires, niveau 2
 
 |
 
@@ -4542,11 +4730,11 @@ Autres maladies infectieuses ou parasitaires, niveau 2.
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 3.
+6797
 
 |
 
-6798
+Autres maladies infectieuses ou parasitaires, niveau 3
 
 |
 
@@ -4554,11 +4742,11 @@ Autres maladies infectieuses ou parasitaires, niveau 3.
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 4.
+6798
 
 |
 
-6804
+Autres maladies infectieuses ou parasitaires, niveau 4
 
 |
 
@@ -4566,11 +4754,11 @@ Autres maladies infectieuses ou parasitaires, niveau 4.
 
 |
 
-Autres maladies infectieuses ou parasitaires, très courte durée.
+6804
 
 |
 
-6799
+Autres maladies infectieuses ou parasitaires, très courte durée
 
 |
 
@@ -4578,11 +4766,11 @@ Autres maladies infectieuses ou parasitaires, très courte durée.
 
 |
 
-Explorations et surveillance pour maladies infectieuses ou parasitaires.
+6799
 
 |
 
-6800
+Explorations et surveillance pour maladies infectieuses ou parasitaires
 
 |
 
@@ -4590,11 +4778,11 @@ Explorations et surveillance pour maladies infectieuses ou parasitaires.
 
 |
 
-Affections de la CMD 18 avec décès : séjours de moins de 2 jours.
+6800
 
 |
 
-6801
+Affections de la CMD 18 avec décès : séjours de moins de 2 jours
 
 |
 
@@ -4602,11 +4790,11 @@ Affections de la CMD 18 avec décès : séjours de moins de 2 jours.
 
 |
 
-Symptômes et autres recours aux soins de la CMD 18, très courte durée.
+6801
 
 |
 
-6802
+Symptômes et autres recours aux soins de la CMD 18, très courte durée
 
 |
 
@@ -4614,11 +4802,11 @@ Symptômes et autres recours aux soins de la CMD 18, très courte durée.
 
 |
 
-Symptômes et autres recours aux soins de la CMD 18.
+6802
 
 |
 
-6805
+Symptômes et autres recours aux soins de la CMD 18
 
 |
 
@@ -4626,11 +4814,11 @@ Symptômes et autres recours aux soins de la CMD 18.
 
 |
 
-Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 1.
+6805
 
 |
 
-6806
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 1
 
 |
 
@@ -4638,11 +4826,11 @@ Autres maladies infectieuses concernant majoritairement la petite enfance, nivea
 
 |
 
-Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 2.
+6806
 
 |
 
-6807
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 2
 
 |
 
@@ -4650,11 +4838,11 @@ Autres maladies infectieuses concernant majoritairement la petite enfance, nivea
 
 |
 
-Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 3.
+6807
 
 |
 
-6808
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 3
 
 |
 
@@ -4662,11 +4850,11 @@ Autres maladies infectieuses concernant majoritairement la petite enfance, nivea
 
 |
 
-Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 4.
+6808
 
 |
 
-7001
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 4
 
 |
 
@@ -4674,11 +4862,11 @@ Autres maladies infectieuses concernant majoritairement la petite enfance, nivea
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 1.
+7001
 
 |
 
-7002
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 1
 
 |
 
@@ -4686,11 +4874,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 2.
+7002
 
 |
 
-7003
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 2
 
 |
 
@@ -4698,11 +4886,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 3.
+7003
 
 |
 
-7004
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 3
 
 |
 
@@ -4710,11 +4898,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 4.
+7004
 
 |
 
-7064
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 4
 
 |
 
@@ -4722,11 +4910,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 1.
+7064
 
 |
 
-7065
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 1
 
 |
 
@@ -4734,11 +4922,11 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 1.
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 2.
+7065
 
 |
 
-7066
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 2
 
 |
 
@@ -4746,11 +4934,11 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 2.
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 3.
+7066
 
 |
 
-7067
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 3
 
 |
 
@@ -4758,11 +4946,11 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 3.
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 4.
+7067
 
 |
 
-7068
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 4
 
 |
 
@@ -4770,11 +4958,11 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 4.
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, très courte durée.
+7068
 
 |
 
-7069
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, très courte durée
 
 |
 
@@ -4782,11 +4970,11 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, très courte d
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 1.
+7069
 
 |
 
-7070
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 1
 
 |
 
@@ -4794,11 +4982,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 2.
+7070
 
 |
 
-7071
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 2
 
 |
 
@@ -4806,11 +4994,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 3.
+7071
 
 |
 
-7072
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 3
 
 |
 
@@ -4818,11 +5006,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 4.
+7072
 
 |
 
-7073
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 4
 
 |
 
@@ -4830,11 +5018,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, très courte durée.
+7073
 
 |
 
-7074
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, très courte durée
 
 |
 
@@ -4842,11 +5030,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 1.
+7074
 
 |
 
-7075
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 1
 
 |
 
@@ -4854,11 +5042,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 2.
+7075
 
 |
 
-7076
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 2
 
 |
 
@@ -4866,11 +5054,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 3.
+7076
 
 |
 
-7077
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 3
 
 |
 
@@ -4878,11 +5066,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 4.
+7077
 
 |
 
-7078
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 4
 
 |
 
@@ -4890,11 +5078,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, très courte durée.
+7078
 
 |
 
-7079
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, très courte durée
 
 |
 
@@ -4902,11 +5090,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Névroses autres que les névroses dépressives, niveau 1.
+7079
 
 |
 
-7080
+Névroses autres que les névroses dépressives, niveau 1
 
 |
 
@@ -4914,11 +5102,11 @@ Névroses autres que les névroses dépressives, niveau 1.
 
 |
 
-Névroses autres que les névroses dépressives, niveau 2.
+7080
 
 |
 
-7081
+Névroses autres que les névroses dépressives, niveau 2
 
 |
 
@@ -4926,11 +5114,11 @@ Névroses autres que les névroses dépressives, niveau 2.
 
 |
 
-Névroses autres que les névroses dépressives, niveau 3.
+7081
 
 |
 
-7082
+Névroses autres que les névroses dépressives, niveau 3
 
 |
 
@@ -4938,11 +5126,11 @@ Névroses autres que les névroses dépressives, niveau 3.
 
 |
 
-Névroses autres que les névroses dépressives, niveau 4.
+7082
 
 |
 
-7083
+Névroses autres que les névroses dépressives, niveau 4
 
 |
 
@@ -4950,11 +5138,11 @@ Névroses autres que les névroses dépressives, niveau 4.
 
 |
 
-Névroses autres que les névroses dépressives, très courte durée.
+7083
 
 |
 
-7084
+Névroses autres que les névroses dépressives, très courte durée
 
 |
 
@@ -4962,11 +5150,11 @@ Névroses autres que les névroses dépressives, très courte durée.
 
 |
 
-Névroses dépressives, niveau 1.
+7084
 
 |
 
-7085
+Névroses dépressives, niveau 1
 
 |
 
@@ -4974,11 +5162,11 @@ Névroses dépressives, niveau 1.
 
 |
 
-Névroses dépressives, niveau 2.
+7085
 
 |
 
-7086
+Névroses dépressives, niveau 2
 
 |
 
@@ -4986,11 +5174,11 @@ Névroses dépressives, niveau 2.
 
 |
 
-Névroses dépressives, niveau 3.
+7086
 
 |
 
-7087
+Névroses dépressives, niveau 3
 
 |
 
@@ -4998,11 +5186,11 @@ Névroses dépressives, niveau 3.
 
 |
 
-Névroses dépressives, niveau 4.
+7087
 
 |
 
-7088
+Névroses dépressives, niveau 4
 
 |
 
@@ -5010,11 +5198,11 @@ Névroses dépressives, niveau 4.
 
 |
 
-Névroses dépressives, très courte durée.
+7088
 
 |
 
-7089
+Névroses dépressives, très courte durée
 
 |
 
@@ -5022,11 +5210,11 @@ Névroses dépressives, très courte durée.
 
 |
 
-Anorexie mentale et boulimie, niveau 1.
+7089
 
 |
 
-7090
+Anorexie mentale et boulimie, niveau 1
 
 |
 
@@ -5034,11 +5222,11 @@ Anorexie mentale et boulimie, niveau 1.
 
 |
 
-Anorexie mentale et boulimie, niveau 2.
+7090
 
 |
 
-7091
+Anorexie mentale et boulimie, niveau 2
 
 |
 
@@ -5046,11 +5234,11 @@ Anorexie mentale et boulimie, niveau 2.
 
 |
 
-Anorexie mentale et boulimie, niveau 3.
+7091
 
 |
 
-7092
+Anorexie mentale et boulimie, niveau 3
 
 |
 
@@ -5058,11 +5246,11 @@ Anorexie mentale et boulimie, niveau 3.
 
 |
 
-Anorexie mentale et boulimie, niveau 4.
+7092
 
 |
 
-7093
+Anorexie mentale et boulimie, niveau 4
 
 |
 
@@ -5070,11 +5258,11 @@ Anorexie mentale et boulimie, niveau 4.
 
 |
 
-Anorexie mentale et boulimie, très courte durée.
+7093
 
 |
 
-7094
+Anorexie mentale et boulimie, très courte durée
 
 |
 
@@ -5082,11 +5270,11 @@ Anorexie mentale et boulimie, très courte durée.
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 1.
+7094
 
 |
 
-7095
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 1
 
 |
 
@@ -5094,11 +5282,11 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 2.
+7095
 
 |
 
-7096
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 2
 
 |
 
@@ -5106,11 +5294,11 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 3.
+7096
 
 |
 
-7097
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 3
 
 |
 
@@ -5118,11 +5306,11 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 4.
+7097
 
 |
 
-7098
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 4
 
 |
 
@@ -5130,11 +5318,11 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, très courte durée.
+7098
 
 |
 
-7099
+Autres troubles de la personnalité et du comportement avec réactions impulsives, très courte durée
 
 |
 
@@ -5142,11 +5330,11 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 1.
+7099
 
 |
 
-7100
+Troubles bipolaires et syndromes dépressifs sévères, niveau 1
 
 |
 
@@ -5154,11 +5342,11 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 1.
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 2.
+7100
 
 |
 
-7101
+Troubles bipolaires et syndromes dépressifs sévères, niveau 2
 
 |
 
@@ -5166,11 +5354,11 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 2.
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 3.
+7101
 
 |
 
-7102
+Troubles bipolaires et syndromes dépressifs sévères, niveau 3
 
 |
 
@@ -5178,11 +5366,11 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 3.
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 4.
+7102
 
 |
 
-7103
+Troubles bipolaires et syndromes dépressifs sévères, niveau 4
 
 |
 
@@ -5190,11 +5378,11 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 4.
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, très courte durée.
+7103
 
 |
 
-7104
+Troubles bipolaires et syndromes dépressifs sévères, très courte durée
 
 |
 
@@ -5202,11 +5390,11 @@ Troubles bipolaires et syndromes dépressifs sévères, très courte durée.
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 1.
+7104
 
 |
 
-7105
+Autres psychoses, âge supérieur à 79 ans, niveau 1
 
 |
 
@@ -5214,11 +5402,11 @@ Autres psychoses, âge supérieur à 79 ans, niveau 1.
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 2.
+7105
 
 |
 
-7106
+Autres psychoses, âge supérieur à 79 ans, niveau 2
 
 |
 
@@ -5226,11 +5414,11 @@ Autres psychoses, âge supérieur à 79 ans, niveau 2.
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 3.
+7106
 
 |
 
-7107
+Autres psychoses, âge supérieur à 79 ans, niveau 3
 
 |
 
@@ -5238,11 +5426,11 @@ Autres psychoses, âge supérieur à 79 ans, niveau 3.
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 4.
+7107
 
 |
 
-7108
+Autres psychoses, âge supérieur à 79 ans, niveau 4
 
 |
 
@@ -5250,11 +5438,11 @@ Autres psychoses, âge supérieur à 79 ans, niveau 4.
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, très courte durée.
+7108
 
 |
 
-7109
+Autres psychoses, âge supérieur à 79 ans, très courte durée
 
 |
 
@@ -5262,11 +5450,11 @@ Autres psychoses, âge supérieur à 79 ans, très courte durée.
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 1.
+7109
 
 |
 
-7110
+Autres psychoses, âge inférieur à 80 ans, niveau 1
 
 |
 
@@ -5274,11 +5462,11 @@ Autres psychoses, âge inférieur à 80 ans, niveau 1.
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 2.
+7110
 
 |
 
-7111
+Autres psychoses, âge inférieur à 80 ans, niveau 2
 
 |
 
@@ -5286,11 +5474,11 @@ Autres psychoses, âge inférieur à 80 ans, niveau 2.
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 3.
+7111
 
 |
 
-7112
+Autres psychoses, âge inférieur à 80 ans, niveau 3
 
 |
 
@@ -5298,11 +5486,11 @@ Autres psychoses, âge inférieur à 80 ans, niveau 3.
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 4.
+7112
 
 |
 
-7113
+Autres psychoses, âge inférieur à 80 ans, niveau 4
 
 |
 
@@ -5310,11 +5498,11 @@ Autres psychoses, âge inférieur à 80 ans, niveau 4.
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, très courte durée.
+7113
 
 |
 
-7114
+Autres psychoses, âge inférieur à 80 ans, très courte durée
 
 |
 
@@ -5322,11 +5510,11 @@ Autres psychoses, âge inférieur à 80 ans, très courte durée.
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 1.
+7114
 
 |
 
-7115
+Maladies et troubles du développement psychologiques de l'enfance, niveau 1
 
 |
 
@@ -5334,11 +5522,11 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 1.
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 2.
+7115
 
 |
 
-7116
+Maladies et troubles du développement psychologiques de l'enfance, niveau 2
 
 |
 
@@ -5346,11 +5534,11 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 2.
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 3.
+7116
 
 |
 
-7117
+Maladies et troubles du développement psychologiques de l'enfance, niveau 3
 
 |
 
@@ -5358,11 +5546,11 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 3.
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 4.
+7117
 
 |
 
-7118
+Maladies et troubles du développement psychologiques de l'enfance, niveau 4
 
 |
 
@@ -5370,11 +5558,11 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 4.
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 1.
+7118
 
 |
 
-7119
+Autres maladies et troubles mentaux de l'enfance, niveau 1
 
 |
 
@@ -5382,11 +5570,11 @@ Autres maladies et troubles mentaux de l'enfance, niveau 1.
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 2.
+7119
 
 |
 
-7120
+Autres maladies et troubles mentaux de l'enfance, niveau 2
 
 |
 
@@ -5394,11 +5582,11 @@ Autres maladies et troubles mentaux de l'enfance, niveau 2.
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 3.
+7120
 
 |
 
-7121
+Autres maladies et troubles mentaux de l'enfance, niveau 3
 
 |
 
@@ -5406,11 +5594,11 @@ Autres maladies et troubles mentaux de l'enfance, niveau 3.
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 4.
+7121
 
 |
 
-7122
+Autres maladies et troubles mentaux de l'enfance, niveau 4
 
 |
 
@@ -5418,11 +5606,11 @@ Autres maladies et troubles mentaux de l'enfance, niveau 4.
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, très courte durée.
+7122
 
 |
 
-7123
+Autres maladies et troubles mentaux de l'enfance, très courte durée
 
 |
 
@@ -5430,11 +5618,11 @@ Autres maladies et troubles mentaux de l'enfance, très courte durée.
 
 |
 
-Troubles de l'humeur, niveau 1.
+7123
 
 |
 
-7124
+Troubles de l'humeur, niveau 1
 
 |
 
@@ -5442,11 +5630,11 @@ Troubles de l'humeur, niveau 1.
 
 |
 
-Troubles de l'humeur, niveau 2.
+7124
 
 |
 
-7125
+Troubles de l'humeur, niveau 2
 
 |
 
@@ -5454,11 +5642,11 @@ Troubles de l'humeur, niveau 2.
 
 |
 
-Troubles de l'humeur, niveau 3.
+7125
 
 |
 
-7126
+Troubles de l'humeur, niveau 3
 
 |
 
@@ -5466,11 +5654,11 @@ Troubles de l'humeur, niveau 3.
 
 |
 
-Troubles de l'humeur, niveau 4.
+7126
 
 |
 
-7127
+Troubles de l'humeur, niveau 4
 
 |
 
@@ -5478,11 +5666,11 @@ Troubles de l'humeur, niveau 4.
 
 |
 
-Troubles de l'humeur, très courte durée.
+7127
 
 |
 
-7128
+Troubles de l'humeur, très courte durée
 
 |
 
@@ -5490,11 +5678,11 @@ Troubles de l'humeur, très courte durée.
 
 |
 
-Autres troubles mentaux, niveau 1.
+7128
 
 |
 
-7129
+Autres troubles mentaux, niveau 1
 
 |
 
@@ -5502,11 +5690,11 @@ Autres troubles mentaux, niveau 1.
 
 |
 
-Autres troubles mentaux, niveau 2.
+7129
 
 |
 
-7130
+Autres troubles mentaux, niveau 2
 
 |
 
@@ -5514,11 +5702,11 @@ Autres troubles mentaux, niveau 2.
 
 |
 
-Autres troubles mentaux, niveau 3.
+7130
 
 |
 
-7131
+Autres troubles mentaux, niveau 3
 
 |
 
@@ -5526,11 +5714,11 @@ Autres troubles mentaux, niveau 3.
 
 |
 
-Autres troubles mentaux, niveau 4.
+7131
 
 |
 
-7132
+Autres troubles mentaux, niveau 4
 
 |
 
@@ -5538,11 +5726,11 @@ Autres troubles mentaux, niveau 4.
 
 |
 
-Autres troubles mentaux, très courte durée.
+7132
 
 |
 
-7133
+Autres troubles mentaux, très courte durée
 
 |
 
@@ -5550,11 +5738,11 @@ Autres troubles mentaux, très courte durée.
 
 |
 
-Explorations et surveillance pour maladies et troubles mentaux.
+7133
 
 |
 
-7135
+Explorations et surveillance pour maladies et troubles mentaux
 
 |
 
@@ -5562,11 +5750,11 @@ Explorations et surveillance pour maladies et troubles mentaux.
 
 |
 
-Symptômes et autres recours aux soins de la CMD 19, très courte durée.
+7135
 
 |
 
-7134
+Symptômes et autres recours aux soins de la CMD 19, très courte durée
 
 |
 
@@ -5574,6 +5762,10 @@ Symptômes et autres recours aux soins de la CMD 19, très courte durée.
 
 |
 
-Symptômes et autres recours aux soins de la CMD 19.
+7134
+
+|
+
+Symptômes et autres recours aux soins de la CMD 19
 
 |

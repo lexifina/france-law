@@ -830,7 +830,7 @@ LDPA006
 
 |
 
-Corporotomie [somatotomie] d'une vertèbre pour décompression médullaire, par cervicotomie antérieure ou antérolatérale
+Corporotomie [Somatotomie] d'une vertèbre pour décompression médullaire, par cervicotomie antérieure ou antérolatérale
 
 |
 
@@ -838,7 +838,7 @@ LDPA007
 
 |
 
-Corporotomie [somatotomie] d'une vertèbre pour décompression médullaire, avec arthrodèse et/ ou ostéosynthèse, par cervicotomie antérieure ou antérolatérale
+Corporotomie [Somatotomie] d'une vertèbre pour décompression médullaire, avec arthrodèse et/ ou ostéosynthèse, par cervicotomie antérieure ou antérolatérale
 
 |
 
@@ -1182,7 +1182,7 @@ LGFA003
 
 |
 
-Exérèse distale du sacrum [sacrectomie respectant S1 et S2], par abord antérieur et par abord postérieur
+Exérèse distale du sacrum [Sacrectomie respectant S1 et S2], par abord antérieur et par abord postérieur
 
 |
 
@@ -1190,7 +1190,7 @@ LGFA004
 
 |
 
-Exérèse totale du sacrum [sacrectomie totale], par abord antérieur et par abord postérieur
+Exérèse totale du sacrum [Sacrectomie totale], par abord antérieur et par abord postérieur
 
 |
 
@@ -1198,7 +1198,7 @@ LGFA006
 
 |
 
-Exérèse proximale du sacrum [sacrectomie S1 et/ ou S2], par abord antérieur et par abord postérieur
+Exérèse proximale du sacrum [Sacrectomie S1 et/ ou S2], par abord antérieur et par abord postérieur
 
 |
 
@@ -1622,7 +1622,7 @@ MZFA010
 
 |
 
-Désarticulation scapulohumérale [désarticulation de l'épaule]
+Désarticulation scapulohumérale [Désarticulation de l'épaule]
 
 |
 

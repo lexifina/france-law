@@ -1142,7 +1142,7 @@ EQQH005
 
 |
 
-Mesure et enregistrement des pressions du cœur droit, de l'artère pulmonaire et du cœur gauche, avec injection de produit de contraste, par voie veineuse transcutanée et par voie artérielle transcutanée ou cathétérisme du foramen ovale, avant l'âge de 24 ans
+Mesure et enregistrement des pressions du cœur droit, de l'artère pulmonaire et du cœur gauche, avec injection de produit de contraste, par voie veineuse transcutanée et par voie artérielle transcutanée ou cathétérisme du foramen ovale, avant l'âge de 24
 
 |
 
@@ -1174,7 +1174,7 @@ EQQP014
 
 |
 
-Surveillance continue des pressions du cœur droit avec mesure du débit cardiaque ou de la fraction d'éjection du ventricule droit, avec surveillance continue de la pression intra-artérielle par méthode effractive, par 24 heures
+Surveillance continue des pressions du cœur droit avec mesure du débit cardiaque ou de la fraction d'éjection du ventricule droit, avec surveillance continue de la pression intraartérielle par méthode effractive, par 24 heures
 
 |
 
@@ -1190,7 +1190,7 @@ EZLA001
 
 |
 
-Implantation sous-cutanée d'un site d'accès vasculaire pour circulation extracorporelle
+Implantation souscutanée d'un site d'accès vasculaire pour circulation extracorporelle
 
 |
 
@@ -1878,7 +1878,7 @@ GFFA001
 
 |
 
-Pneumonectomie avec exérèse totale de la plèvre [pleuropneumonectomie], par thoracotomie
+Pneumonectomie avec exérèse totale de la plèvre [Pleuropneumonectomie], par thoracotomie
 
 |
 
@@ -2022,7 +2022,7 @@ GFFA019
 
 |
 
-Exérèse de lobe pulmonaire restant [totalisation de pneumonectomie], par thoracotomie
+Exérèse de lobe pulmonaire restant [Totalisation de pneumonectomie], par thoracotomie
 
 |
 
@@ -2190,7 +2190,7 @@ GGCA001
 
 |
 
-Pleurostomie cutanée avec résection costale, par thoracotomie [thoracostomie en gueule de four]
+Pleurostomie cutanée avec résection costale, par thoracotomie [Thoracostomie en gueule de four]
 
 |
 
@@ -3590,7 +3590,7 @@ HNFA004
 
 |
 
-Duodénopancréatectomie totale avec splénectomie [splénopancréatectomie totale], par laparotomie
+Duodénopancréatectomie totale avec splénectomie [Splénopancréatectomie totale], par laparotomie
 
 |
 
@@ -3630,7 +3630,7 @@ HNFA010
 
 |
 
-Pancréatectomie gauche avec splénectomie [splénopancréatectomie gauche] avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie
+Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche] avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie
 
 |
 
@@ -3654,7 +3654,7 @@ HNFA013
 
 |
 
-Pancréatectomie gauche avec splénectomie [splénopancréatectomie gauche], par laparotomie
+Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par laparotomie
 
 |
 
@@ -3670,7 +3670,7 @@ HNFC002
 
 |
 
-Pancréatectomie gauche avec splénectomie [splénopancréatectomie gauche], par cœlioscopie
+Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par cœlioscopie
 
 |
 
@@ -3694,6 +3694,6 @@ HPLB003
 
 |
 
-Administration intrapéritonéale d'agent pharmacologique anticancéreux avec hyperthermie [chimiohyperthermie anticancéreuse intrapéritonéale], sous anesthésie générale
+Administration intrapéritonéale d'agent pharmacologique anticancéreux avec hyperthermie [Chimiohyperthermie anticancéreuse intrapéritonéale], sous anesthésie générale
 
 |

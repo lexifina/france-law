@@ -1,8 +1,6 @@
 # Article Annexe 8 liste 1
 
-Liste 1 : diagnostics et actes associés
-
-autorisant la facturation d'un supplément de surveillance continue
+Liste 1 : diagnostics et actes associés autorisant la facturation d'un supplément de surveillance continue
 
 CODE CIM-10
 
@@ -112,7 +110,7 @@ E10. 0
 
 |
 
-Diabète sucré insulinodépendant, avec coma
+Diabète sucré insulino-dépendant, avec coma
 
 |
 
@@ -124,7 +122,7 @@ E10. 1
 
 |
 
-Diabète sucré insulinodépendant, avec acidocétose
+Diabète sucré insulino-dépendant, avec acidocétose
 
 |
 
@@ -640,7 +638,7 @@ G04. 2
 
 |
 
-Méningo-encéphalite et méningomyélite bactériennes, non classées ailleurs
+Méningo-encéphalite et méningomyélite bactériennes, non classées aiileurs
 
 |
 
@@ -904,7 +902,7 @@ I21. 00
 
 |
 
-Infarctus (transmural aigu) du myocarde (de la paroi antérieure), prise en charge initiale
+Infarctus (transmural aigu) du myocarde (de la paroi) antérieure, prise en charge initiale
 
 |
 
@@ -1760,7 +1758,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1776,7 +1774,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1792,7 +1790,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1808,7 +1806,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1824,7 +1822,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1840,7 +1838,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1856,7 +1854,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1872,7 +1870,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1888,7 +1886,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1904,7 +1902,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1920,7 +1918,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1936,7 +1934,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1952,7 +1950,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1968,7 +1966,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -1984,7 +1982,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2000,7 +1998,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2016,7 +2014,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2032,7 +2030,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2048,7 +2046,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2064,7 +2062,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2080,7 +2078,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2096,7 +2094,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2112,7 +2110,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2128,7 +2126,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2144,7 +2142,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2160,7 +2158,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2176,7 +2174,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2192,7 +2190,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2208,7 +2206,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2224,7 +2222,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2240,7 +2238,7 @@ HSLF001
 
 |
 
-Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale et parentérale, avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2256,7 +2254,7 @@ HSLF002
 
 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2272,7 +2270,7 @@ HSLF003
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -2396,7 +2394,7 @@ Transfusion de concentré de globules rouges d'un volume inférieur à une demim
 
 |
 
-L51. 20
+L. 51.20
 
 |
 
@@ -2408,7 +2406,7 @@ Epidermolyse nécrosante suraiguë [Lyell] avec décollement égal ou supérieur
 
 |
 
-L51. 29
+L. 51.29
 
 |
 
@@ -2436,7 +2434,7 @@ M72. 60
 
 |
 
-Fasciite nécrosante - Sièges multiples
+Fasciite nécrosante ― Sièges multiples
 
 |
 
@@ -2448,7 +2446,7 @@ M72. 61
 
 |
 
-Fasciite nécrosante - Région scapulaire
+Fasciite nécrosante ― Région scapulaire
 
 |
 
@@ -2460,7 +2458,7 @@ M72. 62
 
 |
 
-Fasciite nécrosante - Bras
+Fasciite nécrosante ― Bras
 
 |
 
@@ -2472,7 +2470,7 @@ M72. 63
 
 |
 
-Fasciite nécrosante - Avant-bras
+Fasciite nécrosante ― Avant-bras
 
 |
 
@@ -2484,7 +2482,7 @@ M72. 64
 
 |
 
-Fasciite nécrosante - Main
+Fasciite nécrosante ― Main
 
 |
 
@@ -2496,7 +2494,7 @@ M72. 65
 
 |
 
-Fasciite nécrosante - Région pelvienne et cuisse
+Fasciite nécrosante ― Région pelvienne et cuisse
 
 |
 
@@ -2508,7 +2506,7 @@ M72. 66
 
 |
 
-Fasciite nécrosante - Jambe
+Fasciite nécrosante ― Jambe
 
 |
 
@@ -2520,7 +2518,7 @@ M72. 67
 
 |
 
-Fasciite nécrosante - Cheville et pied
+Fasciite nécrosante ― Cheville et pied
 
 |
 
@@ -2532,7 +2530,7 @@ M72. 68
 
 |
 
-Fasciite nécrosante - Autres localisations
+Fasciite nécrosante ― Autres localisations
 
 |
 
@@ -2544,7 +2542,7 @@ M72. 69
 
 |
 
-Fasciite nécrosante - Siège non précisé
+Fasciite nécrosante ― Siège non précisé
 
 |
 
@@ -2684,7 +2682,7 @@ O72. 2
 
 |
 
-Hémorragie du post-partum, tardive et secondaire
+hémorragie du post-partum, tardive et secondaire
 
 |
 
@@ -2696,11 +2694,11 @@ Transfusion de concentré de globules rouges d'un volume inférieur à une demim
 
 |
 
-R40. 2
+R. 40.20
 
 |
 
-Coma, sans précision
+Etat végétatif chronique
 
 |
 
@@ -2708,7 +2706,19 @@ Coma, sans précision
 
 |
 
-R57. 0
+R. 40.28
+
+|
+
+Coma, autre et sans précision
+
+|
+
+|
+
+|
+
+R. 57.0
 
 |
 
@@ -2720,11 +2730,11 @@ EQLF001
 
 |
 
-Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 microgrammes par kilogramme par minute [µg/kg/min], ou de dopexamine en dehors de la période néonatale, par 24 heures
+Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 µgrammes par kilogramme par minute [µg/ kg/ min], ou de dopexamine en dehors de la période néonatale, par 24 heures
 
 |
 
-R57. 1
+R. 57.1
 
 |
 
@@ -2736,11 +2746,11 @@ ENLF001
 
 |
 
-Pose de dispositif intra-artériel de surveillance de la pression intra-artérielle
+Pose de dispositif intraartériel de surveillance de la pression intraartérielle
 
 |
 
-R57. 1
+R. 57.1
 
 |
 
@@ -2756,7 +2766,7 @@ Pose d'un cathéter veineux central, par voie transcutanée
 
 |
 
-R57. 1
+R. 57.1
 
 |
 
@@ -2768,11 +2778,11 @@ EQLF002
 
 |
 
-Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte
+Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/ kg] en moins de 24 heures, chez l'adulte
 
 |
 
-R57. 2
+R. 57.2
 
 |
 
@@ -2784,7 +2794,7 @@ Choc septique
 
 |
 
-R57. 8
+R. 57.8
 
 |
 
@@ -2796,11 +2806,11 @@ EQLF001
 
 |
 
-Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 microgrammes par kilogramme par minute [µg/kg/min], ou de dopexamine en dehors de la période néonatale, par 24 heures
+Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 µgrammes par kilogramme par minute [µg/ kg/ min], ou de dopexamine en dehors de la période néonatale, par 24 heures
 
 |
 
-R65. 1
+R. 65.1
 
 |
 
@@ -2812,7 +2822,7 @@ Syndrome de réponse inflammatoire systémique d'origine infectieuse avec défai
 
 |
 
-R65. 3
+R. 65.3
 
 |
 
@@ -3392,7 +3402,7 @@ EQLF002
 
 |
 
-Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte
+Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/ kg] en moins de 24 heures, chez l'adulte
 
 |
 
@@ -3408,7 +3418,7 @@ HSLD002
 
 |
 
-Alimentation entérale par sonde avec apport > 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale par sonde avec apport > 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -3436,7 +3446,7 @@ EQLF002
 
 |
 
-Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/kg] en moins de 24 heures, chez l'adulte
+Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 millilitres par kilogramme [ml/ kg] en moins de 24 heures, chez l'adulte
 
 |
 
@@ -3452,7 +3462,7 @@ HSLD002
 
 |
 
-Alimentation entérale par sonde avec apport > 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale par sonde avec apport > 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
 
 |
 
@@ -3540,7 +3550,7 @@ DEQP007
 
 |
 
-Surveillance continue de l'électrocardiogramme par oscilloscopie et/ ou télésurveillance, avec surveillance continue de la pression intra-artérielle et/ ou de la saturation artérielle en oxygène par méthodes non effractives, par 24 heures
+Surveillance continue de l'électrocardiogramme par oscilloscopie et/ ou télésurveillance, avec surveillance continue de la pression intraartérielle et/ ou de la saturation artérielle en oxygène par méthodes non effractives, par 24 heures
 
 |
 

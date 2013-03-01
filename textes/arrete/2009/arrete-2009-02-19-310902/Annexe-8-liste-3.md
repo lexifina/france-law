@@ -1,24 +1,14 @@
 # Article Annexe 8 liste 3
 
-Liste 3 : diagnostics et actes associés autorisant la facturation
+Liste 3 : diagnostics et actes associés autorisant la facturation d'un supplément de surveillance continue pour les enfants de moins de 18 ans
 
-d'un supplément de surveillance continue pour les enfants de moins de 18 ans
+CODE CIM-10 |
 
-CODE CIM-10
+LIBELLÉS CIM-10 |
 
-|
+CODES ACTES CCAM |
 
-LIBELLÉS CIM-10
-
-|
-
-CODES ACTES CCAM
-
-|
-
-LIBELLÉS CCAM
-
-|
+LIBELLÉS CCAM |
 
 A37. 0
 
@@ -348,7 +338,7 @@ E66. 21
 
 |
 
-Obésité extrême avec hypoventilation alvéolaire, avec indice de masse corporelle égal ou supérieur à 40 kg/ m ² et inférieur à 50 kg/m²
+Obésité extrême avec hypoventilation alvéolaire, avec indice de masse corporelle égal ou supérieur à 40 kg/ m ² et inférieur à 50 kg/ m ²
 
 |
 
@@ -360,7 +350,7 @@ E66. 22
 
 |
 
-Obésité extrême avec hypoventilation alvéolaire, avec indice de masse corporelle égal ou supérieur à 50 kg/m²
+Obésité extrême avec hypoventilation alvéolaire, avec indice de masse corporelle égal ou supérieur à 50 kg/ m ²
 
 |
 
@@ -912,7 +902,7 @@ Ventilation barométrique ou volumétrique non effractive au masque facial penda
 
 |
 
-J986. 0
+J98. 60
 
 |
 
@@ -1240,7 +1230,7 @@ Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme 
 
 |
 
-03.2
+L. 03.2
 
 |
 
@@ -1252,7 +1242,7 @@ Phlegmon de la face
 
 |
 
-51.1
+L. 51.1
 
 |
 
@@ -1304,7 +1294,7 @@ Q39. 1
 
 |
 
-Atrésie de l'œsophage avec fistule trachéo-œsophagienne
+Atrésie de l'oesophage avec fistule trachéo-oesophagienne
 
 |
 
@@ -1456,11 +1446,11 @@ Syndrome abdominal aigu
 
 |
 
-R. 40.1
+R. 40.10
 
 |
 
-Stupeur
+Etat paucirelationnel
 
 |
 
@@ -1468,11 +1458,35 @@ Stupeur
 
 |
 
-R. 52.1
+R. 40.18
 
 |
 
-Douleur chronique irréductible
+Stupeur, autre et sans précision
+
+|
+
+|
+
+|
+
+R. 52.10
+
+|
+
+Douleur neuropathique
+
+|
+
+|
+
+|
+
+R. 52.18
+
+|
+
+Douleurs chroniques irréductibles, autres et non précisées
 
 |
 
@@ -2289,8 +2303,6 @@ Z99. 2 + 8
 |
 
 Dépendance envers une dialyse rénale, autre
-
-|
 
 |
 

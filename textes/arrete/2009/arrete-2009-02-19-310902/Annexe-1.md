@@ -1,22 +1,16 @@
 # Article Annexe 1
 
-LISTE DES FORFAITS DÉNOMMÉS
-
-"GROUPES HOMOGÈNES DE SÉJOURS"
-
-GHS
-
-|
+LISTE DES FORFAITS DÉNOMMÉS GROUPES HOMOGÈNES DE SÉJOUR
 
 GHM
 
 |
 
-LIBELLÉ DU GHM
+GHS
 
 |
 
-22
+LIBELLÉ
 
 |
 
@@ -24,11 +18,11 @@ LIBELLÉ DU GHM
 
 |
 
-Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 1.
+22
 
 |
 
-23
+Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -36,11 +30,11 @@ Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 1.
 
 |
 
-Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 2.
+23
 
 |
 
-24
+Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -48,11 +42,11 @@ Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 2.
 
 |
 
-Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 3.
+24
 
 |
 
-25
+Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -60,11 +54,11 @@ Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 3.
 
 |
 
-Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 4.
+25
 
 |
 
-26
+Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -72,13 +66,31 @@ Craniotomies pour traumatisme, âge supérieur à 17 ans, niveau 4.
 
 |
 
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1. |
-
 65
 
 |
 
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1.
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1
+
+|
+
+26
+
+|
+
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1
+
+|
+
+01C042
+
+|
+
+66
+
+|
+
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -86,19 +98,7 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 1.
 
 |
 
-01C042 |
-
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2. |
-
-66
-
-|
-
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2.
-
-|
-
-28
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -106,13 +106,31 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 2.
 
 |
 
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3. |
-
 67
 
 |
 
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3.
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3
+
+|
+
+28
+
+|
+
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3
+
+|
+
+01C044
+
+|
+
+68
+
+|
+
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -120,19 +138,7 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 3.
 
 |
 
-01C044 |
-
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4. |
-
-68
-
-|
-
-Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4.
-
-|
-
-30
+Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -140,11 +146,11 @@ Craniotomies en dehors de tout traumatisme, âge supérieur à 17 ans, niveau 4.
 
 |
 
-Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 1.
+30
 
 |
 
-31
+Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 1
 
 |
 
@@ -152,11 +158,11 @@ Interventions sur le rachis et la moelle pour des affections neurologiques, nive
 
 |
 
-Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 2.
+31
 
 |
 
-32
+Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 2
 
 |
 
@@ -164,11 +170,11 @@ Interventions sur le rachis et la moelle pour des affections neurologiques, nive
 
 |
 
-Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 3.
+32
 
 |
 
-33
+Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 3
 
 |
 
@@ -176,11 +182,11 @@ Interventions sur le rachis et la moelle pour des affections neurologiques, nive
 
 |
 
-Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 4.
+33
 
 |
 
-34
+Interventions sur le rachis et la moelle pour des affections neurologiques, niveau 4
 
 |
 
@@ -188,11 +194,11 @@ Interventions sur le rachis et la moelle pour des affections neurologiques, nive
 
 |
 
-Interventions sur le système vasculaire précérébral, niveau 1.
+34
 
 |
 
-35
+Interventions sur le système vasculaire précérébral, niveau 1
 
 |
 
@@ -200,11 +206,11 @@ Interventions sur le système vasculaire précérébral, niveau 1.
 
 |
 
-Interventions sur le système vasculaire précérébral, niveau 2.
+35
 
 |
 
-36
+Interventions sur le système vasculaire précérébral, niveau 2
 
 |
 
@@ -212,11 +218,11 @@ Interventions sur le système vasculaire précérébral, niveau 2.
 
 |
 
-Interventions sur le système vasculaire précérébral, niveau 3.
+36
 
 |
 
-37
+Interventions sur le système vasculaire précérébral, niveau 3
 
 |
 
@@ -224,11 +230,11 @@ Interventions sur le système vasculaire précérébral, niveau 3.
 
 |
 
-Interventions sur le système vasculaire précérébral, niveau 4.
+37
 
 |
 
-38
+Interventions sur le système vasculaire précérébral, niveau 4
 
 |
 
@@ -236,11 +242,11 @@ Interventions sur le système vasculaire précérébral, niveau 4.
 
 |
 
-Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 1.
+38
 
 |
 
-39
+Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 1
 
 |
 
@@ -248,11 +254,11 @@ Interventions sur les nerfs crâniens ou périphériques et autres interventions
 
 |
 
-Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 2.
+39
 
 |
 
-40
+Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 2
 
 |
 
@@ -260,11 +266,11 @@ Interventions sur les nerfs crâniens ou périphériques et autres interventions
 
 |
 
-Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 3.
+40
 
 |
 
-41
+Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 3
 
 |
 
@@ -272,11 +278,11 @@ Interventions sur les nerfs crâniens ou périphériques et autres interventions
 
 |
 
-Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 4.
+41
 
 |
 
-42
+Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, niveau 4
 
 |
 
@@ -284,11 +290,11 @@ Interventions sur les nerfs crâniens ou périphériques et autres interventions
 
 |
 
-Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, en ambulatoire.
+42
 
 |
 
-43
+Interventions sur les nerfs crâniens ou périphériques et autres interventions sur le système nerveux, en ambulatoire
 
 |
 
@@ -296,11 +302,11 @@ Interventions sur les nerfs crâniens ou périphériques et autres interventions
 
 |
 
-Pose d'un stimulateur cérébral, niveau 1.
+43
 
 |
 
-44
+Pose d'un stimulateur cérébral, niveau 1
 
 |
 
@@ -308,11 +314,11 @@ Pose d'un stimulateur cérébral, niveau 1.
 
 |
 
-Pose d'un stimulateur cérébral, niveau 2.
+44
 
 |
 
-45
+Pose d'un stimulateur cérébral, niveau 2
 
 |
 
@@ -320,11 +326,11 @@ Pose d'un stimulateur cérébral, niveau 2.
 
 |
 
-Pose d'un stimulateur cérébral, niveau 3.
+45
 
 |
 
-46
+Pose d'un stimulateur cérébral, niveau 3
 
 |
 
@@ -332,11 +338,11 @@ Pose d'un stimulateur cérébral, niveau 3.
 
 |
 
-Pose d'un stimulateur cérébral, niveau 4.
+46
 
 |
 
-47
+Pose d'un stimulateur cérébral, niveau 4
 
 |
 
@@ -344,11 +350,11 @@ Pose d'un stimulateur cérébral, niveau 4.
 
 |
 
-Pose d'un stimulateur médullaire, niveau 1.
+47
 
 |
 
-48
+Pose d'un stimulateur médullaire, niveau 1
 
 |
 
@@ -356,11 +362,11 @@ Pose d'un stimulateur médullaire, niveau 1.
 
 |
 
-Pose d'un stimulateur médullaire, niveau 2.
+48
 
 |
 
-49
+Pose d'un stimulateur médullaire, niveau 2
 
 |
 
@@ -368,11 +374,11 @@ Pose d'un stimulateur médullaire, niveau 2.
 
 |
 
-Pose d'un stimulateur médullaire, niveau 3.
+49
 
 |
 
-50
+Pose d'un stimulateur médullaire, niveau 3
 
 |
 
@@ -380,11 +386,11 @@ Pose d'un stimulateur médullaire, niveau 3.
 
 |
 
-Pose d'un stimulateur médullaire, niveau 4.
+50
 
 |
 
-73
+Pose d'un stimulateur médullaire, niveau 4
 
 |
 
@@ -392,11 +398,11 @@ Pose d'un stimulateur médullaire, niveau 4.
 
 |
 
-Pose d'un stimulateur médullaire, en ambulatoire.
+73
 
 |
 
-51
+Pose d'un stimulateur médullaire, en ambulatoire
 
 |
 
@@ -404,11 +410,11 @@ Pose d'un stimulateur médullaire, en ambulatoire.
 
 |
 
-Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 1.
+51
 
 |
 
-52
+Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -416,11 +422,11 @@ Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 1.
 
 |
 
-Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 2.
+52
 
 |
 
-53
+Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -428,11 +434,11 @@ Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 2.
 
 |
 
-Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 3.
+53
 
 |
 
-54
+Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -440,7 +446,23 @@ Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 3.
 
 |
 
-Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 4.
+54
+
+|
+
+Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 4
+
+|
+
+01C121
+
+|
+
+69
+
+|
+
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -448,19 +470,7 @@ Craniotomies pour tumeurs, âge inférieur à 18 ans, niveau 4.
 
 |
 
-01C121 |
-
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1. |
-
-69
-
-|
-
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1.
-
-|
-
-56
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -468,17 +478,19 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 1.
 
 |
 
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2. |
-
 70
 
 |
 
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2.
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2
 
 |
 
-57
+56
+
+|
+
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -486,13 +498,31 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 2.
 
 |
 
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3. |
-
 71
 
 |
 
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3.
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3
+
+|
+
+57
+
+|
+
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3
+
+|
+
+01C124
+
+|
+
+72
+
+|
+
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -500,79 +530,127 @@ Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 3.
 
 |
 
-01C124 |
-
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4. |
-
-72
+Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4
 
 |
 
-Craniotomies pour affections non tumorales, âge inférieur à 18 ans, niveau 4.
+01C141
 
 |
 
-59
+74
 
 |
 
-01C131
+Libérations de nerfs superficiels à l'exception du médian au canal carpien, niveau 1
 
 |
 
-Libérations du canal carpien et d'autres nerfs superficiels, niveau 1.
+01C142
 
 |
 
-60
+75
 
 |
 
-01C132
+Libérations de nerfs superficiels à l'exception du médian au canal carpien, niveau 2
 
 |
 
-Libérations du canal carpien et d'autres nerfs superficiels, niveau 2.
+01C143
 
 |
 
-61
+76
 
 |
 
-01C133
+Libérations de nerfs superficiels à l'exception du médian au canal carpien, niveau 3
 
 |
 
-Libérations du canal carpien et d'autres nerfs superficiels, niveau 3.
+01C144
 
 |
 
-62
+77
 
 |
 
-01C134
+Libérations de nerfs superficiels à l'exception du médian au canal carpien, niveau 4
 
 |
 
-Libérations du canal carpien et d'autres nerfs superficiels, niveau 4.
+01C14J
 
 |
 
-63
+78
 
 |
 
-01C13J
+Libérations de nerfs superficiels à l'exception du médian au canal carpien, en ambulatoire
 
 |
 
-Libérations du canal carpien et d'autres nerfs superficiels, en ambulatoire.
+01C151
 
 |
 
-189
+79
+
+|
+
+Libérations du médian au canal carpien, niveau 1
+
+|
+
+01C152
+
+|
+
+80
+
+|
+
+Libérations du médian au canal carpien, niveau 2
+
+|
+
+01C153
+
+|
+
+81
+
+|
+
+Libérations du médian au canal carpien, niveau 3
+
+|
+
+01C154
+
+|
+
+82
+
+|
+
+Libérations du médian au canal carpien, niveau 4
+
+|
+
+01C15J
+
+|
+
+83
+
+|
+
+Libérations du médian au canal carpien, en ambulatoire
 
 |
 
@@ -580,11 +658,11 @@ Libérations du canal carpien et d'autres nerfs superficiels, en ambulatoire.
 
 |
 
-Autres embolisations intracrâniennes et médullaires, niveau 1.
+189
 
 |
 
-190
+Autres embolisations intracrâniennes et médullaires, niveau 1
 
 |
 
@@ -592,11 +670,11 @@ Autres embolisations intracrâniennes et médullaires, niveau 1.
 
 |
 
-Autres embolisations intracrâniennes et médullaires, niveau 2.
+190
 
 |
 
-191
+Autres embolisations intracrâniennes et médullaires, niveau 2
 
 |
 
@@ -604,11 +682,11 @@ Autres embolisations intracrâniennes et médullaires, niveau 2.
 
 |
 
-Autres embolisations intracrâniennes et médullaires, niveau 3.
+191
 
 |
 
-192
+Autres embolisations intracrâniennes et médullaires, niveau 3
 
 |
 
@@ -616,11 +694,11 @@ Autres embolisations intracrâniennes et médullaires, niveau 3.
 
 |
 
-Autres embolisations intracrâniennes et médullaires, niveau 4.
+192
 
 |
 
-193
+Autres embolisations intracrâniennes et médullaires, niveau 4
 
 |
 
@@ -628,11 +706,11 @@ Autres embolisations intracrâniennes et médullaires, niveau 4.
 
 |
 
-Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 1.
+193
 
 |
 
-194
+Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 1
 
 |
 
@@ -640,11 +718,11 @@ Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 1.
 
 |
 
-Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 2.
+194
 
 |
 
-195
+Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 2
 
 |
 
@@ -652,11 +730,11 @@ Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 2.
 
 |
 
-Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 3.
+195
 
 |
 
-196
+Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 3
 
 |
 
@@ -664,11 +742,11 @@ Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 3.
 
 |
 
-Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 4.
+196
 
 |
 
-197
+Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 4
 
 |
 
@@ -676,11 +754,11 @@ Autres actes thérapeutiques par voie vasculaire du système nerveux, niveau 4.
 
 |
 
-Injections de toxine botulique, en ambulatoire.
+197
 
 |
 
-198
+Injections de toxine botulique, en ambulatoire
 
 |
 
@@ -688,11 +766,11 @@ Injections de toxine botulique, en ambulatoire.
 
 |
 
-Séjours pour douleurs chroniques rebelles comprenant un bloc ou une infiltration, en ambulatoire.
+198
 
 |
 
-199
+Séjours pour douleurs chroniques rebelles comprenant un bloc ou une infiltration, en ambulatoire
 
 |
 
@@ -700,11 +778,11 @@ Séjours pour douleurs chroniques rebelles comprenant un bloc ou une infiltratio
 
 |
 
-Affections du système nerveux sans acte opératoire avec anesthésie, en ambulatoire.
+199
 
 |
 
-200
+Affections du système nerveux sans acte opératoire avec anesthésie, en ambulatoire
 
 |
 
@@ -712,11 +790,11 @@ Affections du système nerveux sans acte opératoire avec anesthésie, en ambula
 
 |
 
-Embolisations intracrâniennes et médullaires pour hémorragie, niveau 1.
+200
 
 |
 
-201
+Embolisations intracrâniennes et médullaires pour hémorragie, niveau 1
 
 |
 
@@ -724,11 +802,11 @@ Embolisations intracrâniennes et médullaires pour hémorragie, niveau 1.
 
 |
 
-Embolisations intracrâniennes et médullaires pour hémorragie, niveau 2.
+201
 
 |
 
-202
+Embolisations intracrâniennes et médullaires pour hémorragie, niveau 2
 
 |
 
@@ -736,11 +814,11 @@ Embolisations intracrâniennes et médullaires pour hémorragie, niveau 2.
 
 |
 
-Embolisations intracrâniennes et médullaires pour hémorragie, niveau 3.
+202
 
 |
 
-203
+Embolisations intracrâniennes et médullaires pour hémorragie, niveau 3
 
 |
 
@@ -748,11 +826,11 @@ Embolisations intracrâniennes et médullaires pour hémorragie, niveau 3.
 
 |
 
-Embolisations intracrâniennes et médullaires pour hémorragie, niveau 4.
+203
 
 |
 
-204
+Embolisations intracrâniennes et médullaires pour hémorragie, niveau 4
 
 |
 
@@ -760,11 +838,11 @@ Embolisations intracrâniennes et médullaires pour hémorragie, niveau 4.
 
 |
 
-Méningites virales, niveau 1.
+204
 
 |
 
-205
+Méningites virales, niveau 1
 
 |
 
@@ -772,11 +850,11 @@ Méningites virales, niveau 1.
 
 |
 
-Méningites virales, niveau 2.
+205
 
 |
 
-206
+Méningites virales, niveau 2
 
 |
 
@@ -784,11 +862,11 @@ Méningites virales, niveau 2.
 
 |
 
-Méningites virales, niveau 3.
+206
 
 |
 
-207
+Méningites virales, niveau 3
 
 |
 
@@ -796,11 +874,11 @@ Méningites virales, niveau 3.
 
 |
 
-Méningites virales, niveau 4.
+207
 
 |
 
-333
+Méningites virales, niveau 4
 
 |
 
@@ -808,11 +886,11 @@ Méningites virales, niveau 4.
 
 |
 
-Méningites virales, très courte durée.
+333
 
 |
 
-208
+Méningites virales, très courte durée
 
 |
 
@@ -820,11 +898,11 @@ Méningites virales, très courte durée.
 
 |
 
-Infections du système nerveux à l'exception des méningites virales, niveau 1.
+208
 
 |
 
-209
+Infections du système nerveux à l'exception des méningites virales, niveau 1
 
 |
 
@@ -832,11 +910,11 @@ Infections du système nerveux à l'exception des méningites virales, niveau 1.
 
 |
 
-Infections du système nerveux à l'exception des méningites virales, niveau 2.
+209
 
 |
 
-210
+Infections du système nerveux à l'exception des méningites virales, niveau 2
 
 |
 
@@ -844,11 +922,11 @@ Infections du système nerveux à l'exception des méningites virales, niveau 2.
 
 |
 
-Infections du système nerveux à l'exception des méningites virales, niveau 3.
+210
 
 |
 
-211
+Infections du système nerveux à l'exception des méningites virales, niveau 3
 
 |
 
@@ -856,11 +934,11 @@ Infections du système nerveux à l'exception des méningites virales, niveau 3.
 
 |
 
-Infections du système nerveux à l'exception des méningites virales, niveau 4.
+211
 
 |
 
-212
+Infections du système nerveux à l'exception des méningites virales, niveau 4
 
 |
 
@@ -868,11 +946,11 @@ Infections du système nerveux à l'exception des méningites virales, niveau 4.
 
 |
 
-Infections du système nerveux à l'exception des méningites virales, très courte durée.
+212
 
 |
 
-213
+Infections du système nerveux à l'exception des méningites virales, très courte durée
 
 |
 
@@ -880,11 +958,11 @@ Infections du système nerveux à l'exception des méningites virales, très cou
 
 |
 
-Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 1.
+213
 
 |
 
-214
+Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 1
 
 |
 
@@ -892,11 +970,11 @@ Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau
 
 |
 
-Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 2.
+214
 
 |
 
-215
+Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 2
 
 |
 
@@ -904,11 +982,11 @@ Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau
 
 |
 
-Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 3.
+215
 
 |
 
-216
+Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 3
 
 |
 
@@ -916,11 +994,11 @@ Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau
 
 |
 
-Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 4.
+216
 
 |
 
-217
+Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau 4
 
 |
 
@@ -928,11 +1006,11 @@ Maladies dégénératives du système nerveux, âge supérieur à 79 ans, niveau
 
 |
 
-Maladies dégénératives du système nerveux, âge supérieur à 79 ans, très courte durée.
+217
 
 |
 
-218
+Maladies dégénératives du système nerveux, âge supérieur à 79 ans, très courte durée
 
 |
 
@@ -940,11 +1018,11 @@ Maladies dégénératives du système nerveux, âge supérieur à 79 ans, très 
 
 |
 
-Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 1.
+218
 
 |
 
-219
+Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 1
 
 |
 
@@ -952,11 +1030,11 @@ Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau
 
 |
 
-Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 2.
+219
 
 |
 
-220
+Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 2
 
 |
 
@@ -964,11 +1042,11 @@ Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau
 
 |
 
-Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 3.
+220
 
 |
 
-221
+Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 3
 
 |
 
@@ -976,11 +1054,11 @@ Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau
 
 |
 
-Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 4.
+221
 
 |
 
-222
+Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau 4
 
 |
 
@@ -988,11 +1066,11 @@ Maladies dégénératives du système nerveux, âge inférieur à 80 ans, niveau
 
 |
 
-Maladies dégénératives du système nerveux, âge inférieur à 80 ans, très courte durée.
+222
 
 |
 
-223
+Maladies dégénératives du système nerveux, âge inférieur à 80 ans, très courte durée
 
 |
 
@@ -1000,11 +1078,11 @@ Maladies dégénératives du système nerveux, âge inférieur à 80 ans, très 
 
 |
 
-Affections et lésions du rachis et de la moelle, niveau 1.
+223
 
 |
 
-224
+Affections et lésions du rachis et de la moelle, niveau 1
 
 |
 
@@ -1012,11 +1090,11 @@ Affections et lésions du rachis et de la moelle, niveau 1.
 
 |
 
-Affections et lésions du rachis et de la moelle, niveau 2.
+224
 
 |
 
-225
+Affections et lésions du rachis et de la moelle, niveau 2
 
 |
 
@@ -1024,11 +1102,11 @@ Affections et lésions du rachis et de la moelle, niveau 2.
 
 |
 
-Affections et lésions du rachis et de la moelle, niveau 3.
+225
 
 |
 
-226
+Affections et lésions du rachis et de la moelle, niveau 3
 
 |
 
@@ -1036,11 +1114,11 @@ Affections et lésions du rachis et de la moelle, niveau 3.
 
 |
 
-Affections et lésions du rachis et de la moelle, niveau 4.
+226
 
 |
 
-227
+Affections et lésions du rachis et de la moelle, niveau 4
 
 |
 
@@ -1048,11 +1126,11 @@ Affections et lésions du rachis et de la moelle, niveau 4.
 
 |
 
-Affections et lésions du rachis et de la moelle, très courte durée.
+227
 
 |
 
-228
+Affections et lésions du rachis et de la moelle, très courte durée
 
 |
 
@@ -1060,11 +1138,11 @@ Affections et lésions du rachis et de la moelle, très courte durée.
 
 |
 
-Autres affections cérébrovasculaires, niveau 1.
+228
 
 |
 
-229
+Autres affections cérébrovasculaires, niveau 1
 
 |
 
@@ -1072,11 +1150,11 @@ Autres affections cérébrovasculaires, niveau 1.
 
 |
 
-Autres affections cérébrovasculaires, niveau 2.
+229
 
 |
 
-230
+Autres affections cérébrovasculaires, niveau 2
 
 |
 
@@ -1084,11 +1162,11 @@ Autres affections cérébrovasculaires, niveau 2.
 
 |
 
-Autres affections cérébrovasculaires, niveau 3.
+230
 
 |
 
-231
+Autres affections cérébrovasculaires, niveau 3
 
 |
 
@@ -1096,11 +1174,11 @@ Autres affections cérébrovasculaires, niveau 3.
 
 |
 
-Autres affections cérébrovasculaires, niveau 4.
+231
 
 |
 
-232
+Autres affections cérébrovasculaires, niveau 4
 
 |
 
@@ -1108,11 +1186,11 @@ Autres affections cérébrovasculaires, niveau 4.
 
 |
 
-Autres affections cérébrovasculaires, très courte durée.
+232
 
 |
 
-233
+Autres affections cérébrovasculaires, très courte durée
 
 |
 
@@ -1120,11 +1198,11 @@ Autres affections cérébrovasculaires, très courte durée.
 
 |
 
-Affections des nerfs crâniens et rachidiens, niveau 1.
+233
 
 |
 
-234
+Affections des nerfs crâniens et rachidiens, niveau 1
 
 |
 
@@ -1132,11 +1210,11 @@ Affections des nerfs crâniens et rachidiens, niveau 1.
 
 |
 
-Affections des nerfs crâniens et rachidiens, niveau 2.
+234
 
 |
 
-235
+Affections des nerfs crâniens et rachidiens, niveau 2
 
 |
 
@@ -1144,11 +1222,11 @@ Affections des nerfs crâniens et rachidiens, niveau 2.
 
 |
 
-Affections des nerfs crâniens et rachidiens, niveau 3.
+235
 
 |
 
-236
+Affections des nerfs crâniens et rachidiens, niveau 3
 
 |
 
@@ -1156,11 +1234,11 @@ Affections des nerfs crâniens et rachidiens, niveau 3.
 
 |
 
-Affections des nerfs crâniens et rachidiens, niveau 4.
+236
 
 |
 
-237
+Affections des nerfs crâniens et rachidiens, niveau 4
 
 |
 
@@ -1168,11 +1246,11 @@ Affections des nerfs crâniens et rachidiens, niveau 4.
 
 |
 
-Affections des nerfs crâniens et rachidiens, très courte durée.
+237
 
 |
 
-238
+Affections des nerfs crâniens et rachidiens, très courte durée
 
 |
 
@@ -1180,11 +1258,11 @@ Affections des nerfs crâniens et rachidiens, très courte durée.
 
 |
 
-Autres affections du système nerveux, niveau 1.
+238
 
 |
 
-239
+Autres affections du système nerveux, niveau 1
 
 |
 
@@ -1192,11 +1270,11 @@ Autres affections du système nerveux, niveau 1.
 
 |
 
-Autres affections du système nerveux, niveau 2.
+239
 
 |
 
-240
+Autres affections du système nerveux, niveau 2
 
 |
 
@@ -1204,11 +1282,11 @@ Autres affections du système nerveux, niveau 2.
 
 |
 
-Autres affections du système nerveux, niveau 3.
+240
 
 |
 
-241
+Autres affections du système nerveux, niveau 3
 
 |
 
@@ -1216,11 +1294,11 @@ Autres affections du système nerveux, niveau 3.
 
 |
 
-Autres affections du système nerveux, niveau 4.
+241
 
 |
 
-242
+Autres affections du système nerveux, niveau 4
 
 |
 
@@ -1228,11 +1306,11 @@ Autres affections du système nerveux, niveau 4.
 
 |
 
-Autres affections du système nerveux, très courte durée.
+242
 
 |
 
-243
+Autres affections du système nerveux, très courte durée
 
 |
 
@@ -1240,11 +1318,11 @@ Autres affections du système nerveux, très courte durée.
 
 |
 
-Troubles de la conscience et comas d'origine non traumatique, niveau 1.
+243
 
 |
 
-244
+Troubles de la conscience et comas d'origine non traumatique, niveau 1
 
 |
 
@@ -1252,11 +1330,11 @@ Troubles de la conscience et comas d'origine non traumatique, niveau 1.
 
 |
 
-Troubles de la conscience et comas d'origine non traumatique, niveau 2.
+244
 
 |
 
-245
+Troubles de la conscience et comas d'origine non traumatique, niveau 2
 
 |
 
@@ -1264,11 +1342,11 @@ Troubles de la conscience et comas d'origine non traumatique, niveau 2.
 
 |
 
-Troubles de la conscience et comas d'origine non traumatique, niveau 3.
+245
 
 |
 
-246
+Troubles de la conscience et comas d'origine non traumatique, niveau 3
 
 |
 
@@ -1276,11 +1354,11 @@ Troubles de la conscience et comas d'origine non traumatique, niveau 3.
 
 |
 
-Troubles de la conscience et comas d'origine non traumatique, niveau 4.
+246
 
 |
 
-247
+Troubles de la conscience et comas d'origine non traumatique, niveau 4
 
 |
 
@@ -1288,11 +1366,11 @@ Troubles de la conscience et comas d'origine non traumatique, niveau 4.
 
 |
 
-Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 1.
+247
 
 |
 
-248
+Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 1
 
 |
 
@@ -1300,11 +1378,11 @@ Accidents ischémiques transitoires et occlusions des artères précérébrales,
 
 |
 
-Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 2.
+248
 
 |
 
-249
+Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 2
 
 |
 
@@ -1312,11 +1390,11 @@ Accidents ischémiques transitoires et occlusions des artères précérébrales,
 
 |
 
-Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 3.
+249
 
 |
 
-250
+Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 3
 
 |
 
@@ -1324,11 +1402,11 @@ Accidents ischémiques transitoires et occlusions des artères précérébrales,
 
 |
 
-Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 4.
+250
 
 |
 
-334
+Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, niveau 4
 
 |
 
@@ -1336,11 +1414,11 @@ Accidents ischémiques transitoires et occlusions des artères précérébrales,
 
 |
 
-Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, très courte durée.
+334
 
 |
 
-251
+Accidents ischémiques transitoires et occlusions des artères précérébrales, âge supérieur à 79 ans, très courte durée
 
 |
 
@@ -1348,11 +1426,11 @@ Accidents ischémiques transitoires et occlusions des artères précérébrales,
 
 |
 
-Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 1.
+251
 
 |
 
-252
+Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 1
 
 |
 
@@ -1360,11 +1438,11 @@ Accidents ischémiques transitoires et occlusions des artères précérébrales,
 
 |
 
-Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 2.
+252
 
 |
 
-253
+Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 2
 
 |
 
@@ -1372,11 +1450,11 @@ Accidents ischémiques transitoires et occlusions des artères précérébrales,
 
 |
 
-Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 3.
+253
 
 |
 
-254
+Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 3
 
 |
 
@@ -1384,11 +1462,11 @@ Accidents ischémiques transitoires et occlusions des artères précérébrales,
 
 |
 
-Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 4.
+254
 
 |
 
-335
+Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, niveau 4
 
 |
 
@@ -1396,11 +1474,11 @@ Accidents ischémiques transitoires et occlusions des artères précérébrales,
 
 |
 
-Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, très courte durée.
+335
 
 |
 
-255
+Accidents ischémiques transitoires et occlusions des artères précérébrales, âge inférieur à 80 ans, très courte durée
 
 |
 
@@ -1408,11 +1486,11 @@ Accidents ischémiques transitoires et occlusions des artères précérébrales,
 
 |
 
-Sclérose en plaques et ataxie cérébelleuse, niveau 1.
+255
 
 |
 
-256
+Sclérose en plaques et ataxie cérébelleuse, niveau 1
 
 |
 
@@ -1420,11 +1498,11 @@ Sclérose en plaques et ataxie cérébelleuse, niveau 1.
 
 |
 
-Sclérose en plaques et ataxie cérébelleuse, niveau 2.
+256
 
 |
 
-257
+Sclérose en plaques et ataxie cérébelleuse, niveau 2
 
 |
 
@@ -1432,11 +1510,11 @@ Sclérose en plaques et ataxie cérébelleuse, niveau 2.
 
 |
 
-Sclérose en plaques et ataxie cérébelleuse, niveau 3.
+257
 
 |
 
-258
+Sclérose en plaques et ataxie cérébelleuse, niveau 3
 
 |
 
@@ -1444,11 +1522,11 @@ Sclérose en plaques et ataxie cérébelleuse, niveau 3.
 
 |
 
-Sclérose en plaques et ataxie cérébelleuse, niveau 4.
+258
 
 |
 
-259
+Sclérose en plaques et ataxie cérébelleuse, niveau 4
 
 |
 
@@ -1456,11 +1534,11 @@ Sclérose en plaques et ataxie cérébelleuse, niveau 4.
 
 |
 
-Sclérose en plaques et ataxie cérébelleuse, très courte durée.
+259
 
 |
 
-260
+Sclérose en plaques et ataxie cérébelleuse, très courte durée
 
 |
 
@@ -1468,11 +1546,11 @@ Sclérose en plaques et ataxie cérébelleuse, très courte durée.
 
 |
 
-Lésions traumatiques intracrâniennes sévères, niveau 1.
+260
 
 |
 
-261
+Lésions traumatiques intracrâniennes sévères, niveau 1
 
 |
 
@@ -1480,11 +1558,11 @@ Lésions traumatiques intracrâniennes sévères, niveau 1.
 
 |
 
-Lésions traumatiques intracrâniennes sévères, niveau 2.
+261
 
 |
 
-262
+Lésions traumatiques intracrâniennes sévères, niveau 2
 
 |
 
@@ -1492,11 +1570,11 @@ Lésions traumatiques intracrâniennes sévères, niveau 2.
 
 |
 
-Lésions traumatiques intracrâniennes sévères, niveau 3.
+262
 
 |
 
-263
+Lésions traumatiques intracrâniennes sévères, niveau 3
 
 |
 
@@ -1504,11 +1582,11 @@ Lésions traumatiques intracrâniennes sévères, niveau 3.
 
 |
 
-Lésions traumatiques intracrâniennes sévères, niveau 4.
+263
 
 |
 
-336
+Lésions traumatiques intracrâniennes sévères, niveau 4
 
 |
 
@@ -1516,11 +1594,11 @@ Lésions traumatiques intracrâniennes sévères, niveau 4.
 
 |
 
-Lésions traumatiques intracrâniennes sévères, très courte durée.
+336
 
 |
 
-264
+Lésions traumatiques intracrâniennes sévères, très courte durée
 
 |
 
@@ -1528,11 +1606,11 @@ Lésions traumatiques intracrâniennes sévères, très courte durée.
 
 |
 
-Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 1.
+264
 
 |
 
-265
+Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 1
 
 |
 
@@ -1540,11 +1618,11 @@ Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 1.
 
 |
 
-Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 2.
+265
 
 |
 
-266
+Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 2
 
 |
 
@@ -1552,11 +1630,11 @@ Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 2.
 
 |
 
-Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 3.
+266
 
 |
 
-267
+Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 3
 
 |
 
@@ -1564,11 +1642,11 @@ Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 3.
 
 |
 
-Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 4.
+267
 
 |
 
-268
+Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 4
 
 |
 
@@ -1576,11 +1654,11 @@ Autres lésions traumatiques intracrâniennes, sauf commotions, niveau 4.
 
 |
 
-Commotions cérébrales, niveau 1.
+268
 
 |
 
-269
+Commotions cérébrales, niveau 1
 
 |
 
@@ -1588,11 +1666,11 @@ Commotions cérébrales, niveau 1.
 
 |
 
-Commotions cérébrales, niveau 2.
+269
 
 |
 
-270
+Commotions cérébrales, niveau 2
 
 |
 
@@ -1600,11 +1678,11 @@ Commotions cérébrales, niveau 2.
 
 |
 
-Commotions cérébrales, niveau 3.
+270
 
 |
 
-271
+Commotions cérébrales, niveau 3
 
 |
 
@@ -1612,11 +1690,11 @@ Commotions cérébrales, niveau 3.
 
 |
 
-Commotions cérébrales, niveau 4.
+271
 
 |
 
-272
+Commotions cérébrales, niveau 4
 
 |
 
@@ -1624,11 +1702,11 @@ Commotions cérébrales, niveau 4.
 
 |
 
-Douleurs chroniques rebelles, niveau 1.
+272
 
 |
 
-273
+Douleurs chroniques rebelles, niveau 1
 
 |
 
@@ -1636,11 +1714,11 @@ Douleurs chroniques rebelles, niveau 1.
 
 |
 
-Douleurs chroniques rebelles, niveau 2.
+273
 
 |
 
-274
+Douleurs chroniques rebelles, niveau 2
 
 |
 
@@ -1648,11 +1726,11 @@ Douleurs chroniques rebelles, niveau 2.
 
 |
 
-Douleurs chroniques rebelles, niveau 3.
+274
 
 |
 
-275
+Douleurs chroniques rebelles, niveau 3
 
 |
 
@@ -1660,11 +1738,11 @@ Douleurs chroniques rebelles, niveau 3.
 
 |
 
-Douleurs chroniques rebelles, niveau 4.
+275
 
 |
 
-337
+Douleurs chroniques rebelles, niveau 4
 
 |
 
@@ -1672,11 +1750,11 @@ Douleurs chroniques rebelles, niveau 4.
 
 |
 
-Douleurs chroniques rebelles, très courte durée.
+337
 
 |
 
-276
+Douleurs chroniques rebelles, très courte durée
 
 |
 
@@ -1684,11 +1762,11 @@ Douleurs chroniques rebelles, très courte durée.
 
 |
 
-Migraines et céphalées, niveau 1.
+276
 
 |
 
-277
+Migraines et céphalées, niveau 1
 
 |
 
@@ -1696,11 +1774,11 @@ Migraines et céphalées, niveau 1.
 
 |
 
-Migraines et céphalées, niveau 2.
+277
 
 |
 
-278
+Migraines et céphalées, niveau 2
 
 |
 
@@ -1708,11 +1786,11 @@ Migraines et céphalées, niveau 2.
 
 |
 
-Migraines et céphalées, niveau 3.
+278
 
 |
 
-279
+Migraines et céphalées, niveau 3
 
 |
 
@@ -1720,11 +1798,11 @@ Migraines et céphalées, niveau 3.
 
 |
 
-Migraines et céphalées, niveau 4.
+279
 
 |
 
-280
+Migraines et céphalées, niveau 4
 
 |
 
@@ -1732,11 +1810,11 @@ Migraines et céphalées, niveau 4.
 
 |
 
-Migraines et céphalées, très courte durée.
+280
 
 |
 
-281
+Migraines et céphalées, très courte durée
 
 |
 
@@ -1744,11 +1822,11 @@ Migraines et céphalées, très courte durée.
 
 |
 
-Convulsions hyperthermiques, niveau 1.
+281
 
 |
 
-282
+Convulsions hyperthermiques, niveau 1
 
 |
 
@@ -1756,11 +1834,11 @@ Convulsions hyperthermiques, niveau 1.
 
 |
 
-Convulsions hyperthermiques, niveau 2.
+282
 
 |
 
-283
+Convulsions hyperthermiques, niveau 2
 
 |
 
@@ -1768,11 +1846,11 @@ Convulsions hyperthermiques, niveau 2.
 
 |
 
-Convulsions hyperthermiques, niveau 3.
+283
 
 |
 
-284
+Convulsions hyperthermiques, niveau 3
 
 |
 
@@ -1780,11 +1858,11 @@ Convulsions hyperthermiques, niveau 3.
 
 |
 
-Convulsions hyperthermiques, niveau 4.
+284
 
 |
 
-285
+Convulsions hyperthermiques, niveau 4
 
 |
 
@@ -1792,11 +1870,11 @@ Convulsions hyperthermiques, niveau 4.
 
 |
 
-Epilepsie, âge inférieur à 18 ans, niveau 1.
+285
 
 |
 
-286
+Epilepsie, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -1804,11 +1882,11 @@ Epilepsie, âge inférieur à 18 ans, niveau 1.
 
 |
 
-Epilepsie, âge inférieur à 18 ans, niveau 2.
+286
 
 |
 
-287
+Epilepsie, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -1816,11 +1894,11 @@ Epilepsie, âge inférieur à 18 ans, niveau 2.
 
 |
 
-Epilepsie, âge inférieur à 18 ans, niveau 3.
+287
 
 |
 
-288
+Epilepsie, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -1828,11 +1906,11 @@ Epilepsie, âge inférieur à 18 ans, niveau 3.
 
 |
 
-Epilepsie, âge inférieur à 18 ans, niveau 4.
+288
 
 |
 
-289
+Epilepsie, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -1840,11 +1918,11 @@ Epilepsie, âge inférieur à 18 ans, niveau 4.
 
 |
 
-Epilepsie, âge inférieur à 18 ans, très courte durée.
+289
 
 |
 
-290
+Epilepsie, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -1852,11 +1930,11 @@ Epilepsie, âge inférieur à 18 ans, très courte durée.
 
 |
 
-Epilepsie, âge supérieur à 17 ans, niveau 1.
+290
 
 |
 
-291
+Epilepsie, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -1864,11 +1942,11 @@ Epilepsie, âge supérieur à 17 ans, niveau 1.
 
 |
 
-Epilepsie, âge supérieur à 17 ans, niveau 2.
+291
 
 |
 
-292
+Epilepsie, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -1876,11 +1954,11 @@ Epilepsie, âge supérieur à 17 ans, niveau 2.
 
 |
 
-Epilepsie, âge supérieur à 17 ans, niveau 3.
+292
 
 |
 
-293
+Epilepsie, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -1888,11 +1966,11 @@ Epilepsie, âge supérieur à 17 ans, niveau 3.
 
 |
 
-Epilepsie, âge supérieur à 17 ans, niveau 4.
+293
 
 |
 
-294
+Epilepsie, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -1900,11 +1978,11 @@ Epilepsie, âge supérieur à 17 ans, niveau 4.
 
 |
 
-Epilepsie, âge supérieur à 17 ans, très courte durée.
+294
 
 |
 
-295
+Epilepsie, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -1912,11 +1990,11 @@ Epilepsie, âge supérieur à 17 ans, très courte durée.
 
 |
 
-Tumeurs malignes du système nerveux, niveau 1.
+295
 
 |
 
-296
+Tumeurs malignes du système nerveux, niveau 1
 
 |
 
@@ -1924,11 +2002,11 @@ Tumeurs malignes du système nerveux, niveau 1.
 
 |
 
-Tumeurs malignes du système nerveux, niveau 2.
+296
 
 |
 
-297
+Tumeurs malignes du système nerveux, niveau 2
 
 |
 
@@ -1936,11 +2014,11 @@ Tumeurs malignes du système nerveux, niveau 2.
 
 |
 
-Tumeurs malignes du système nerveux, niveau 3.
+297
 
 |
 
-298
+Tumeurs malignes du système nerveux, niveau 3
 
 |
 
@@ -1948,11 +2026,11 @@ Tumeurs malignes du système nerveux, niveau 3.
 
 |
 
-Tumeurs malignes du système nerveux, niveau 4.
+298
 
 |
 
-299
+Tumeurs malignes du système nerveux, niveau 4
 
 |
 
@@ -1960,11 +2038,11 @@ Tumeurs malignes du système nerveux, niveau 4.
 
 |
 
-Tumeurs malignes du système nerveux, très courte durée.
+299
 
 |
 
-300
+Tumeurs malignes du système nerveux, très courte durée
 
 |
 
@@ -1972,11 +2050,11 @@ Tumeurs malignes du système nerveux, très courte durée.
 
 |
 
-Autres tumeurs du système nerveux, niveau 1.
+300
 
 |
 
-301
+Autres tumeurs du système nerveux, niveau 1
 
 |
 
@@ -1984,11 +2062,11 @@ Autres tumeurs du système nerveux, niveau 1.
 
 |
 
-Autres tumeurs du système nerveux, niveau 2.
+301
 
 |
 
-302
+Autres tumeurs du système nerveux, niveau 2
 
 |
 
@@ -1996,11 +2074,11 @@ Autres tumeurs du système nerveux, niveau 2.
 
 |
 
-Autres tumeurs du système nerveux, niveau 3.
+302
 
 |
 
-303
+Autres tumeurs du système nerveux, niveau 3
 
 |
 
@@ -2008,11 +2086,11 @@ Autres tumeurs du système nerveux, niveau 3.
 
 |
 
-Autres tumeurs du système nerveux, niveau 4.
+303
 
 |
 
-304
+Autres tumeurs du système nerveux, niveau 4
 
 |
 
@@ -2020,11 +2098,11 @@ Autres tumeurs du système nerveux, niveau 4.
 
 |
 
-Autres tumeurs du système nerveux, très courte durée.
+304
 
 |
 
-305
+Autres tumeurs du système nerveux, très courte durée
 
 |
 
@@ -2032,11 +2110,11 @@ Autres tumeurs du système nerveux, très courte durée.
 
 |
 
-Hydrocéphalies, niveau 1.
+305
 
 |
 
-306
+Hydrocéphalies, niveau 1
 
 |
 
@@ -2044,11 +2122,11 @@ Hydrocéphalies, niveau 1.
 
 |
 
-Hydrocéphalies, niveau 2.
+306
 
 |
 
-307
+Hydrocéphalies, niveau 2
 
 |
 
@@ -2056,11 +2134,11 @@ Hydrocéphalies, niveau 2.
 
 |
 
-Hydrocéphalies, niveau 3.
+307
 
 |
 
-308
+Hydrocéphalies, niveau 3
 
 |
 
@@ -2068,11 +2146,11 @@ Hydrocéphalies, niveau 3.
 
 |
 
-Hydrocéphalies, niveau 4.
+308
 
 |
 
-309
+Hydrocéphalies, niveau 4
 
 |
 
@@ -2080,11 +2158,11 @@ Hydrocéphalies, niveau 4.
 
 |
 
-Hydrocéphalies, très courte durée.
+309
 
 |
 
-310
+Hydrocéphalies, très courte durée
 
 |
 
@@ -2092,11 +2170,11 @@ Hydrocéphalies, très courte durée.
 
 |
 
-Anévrysmes cérébraux, niveau 1.
+310
 
 |
 
-311
+Anévrysmes cérébraux, niveau 1
 
 |
 
@@ -2104,11 +2182,11 @@ Anévrysmes cérébraux, niveau 1.
 
 |
 
-Anévrysmes cérébraux, niveau 2.
+311
 
 |
 
-312
+Anévrysmes cérébraux, niveau 2
 
 |
 
@@ -2116,11 +2194,11 @@ Anévrysmes cérébraux, niveau 2.
 
 |
 
-Anévrysmes cérébraux, niveau 3.
+312
 
 |
 
-313
+Anévrysmes cérébraux, niveau 3
 
 |
 
@@ -2128,11 +2206,11 @@ Anévrysmes cérébraux, niveau 3.
 
 |
 
-Anévrysmes cérébraux, niveau 4.
+313
 
 |
 
-314
+Anévrysmes cérébraux, niveau 4
 
 |
 
@@ -2140,11 +2218,11 @@ Anévrysmes cérébraux, niveau 4.
 
 |
 
-Accidents vasculaires intracérébraux non transitoires, niveau 1.
+314
 
 |
 
-315
+Accidents vasculaires intracérébraux non transitoires, niveau 1
 
 |
 
@@ -2152,11 +2230,11 @@ Accidents vasculaires intracérébraux non transitoires, niveau 1.
 
 |
 
-Accidents vasculaires intracérébraux non transitoires, niveau 2.
+315
 
 |
 
-316
+Accidents vasculaires intracérébraux non transitoires, niveau 2
 
 |
 
@@ -2164,11 +2242,11 @@ Accidents vasculaires intracérébraux non transitoires, niveau 2.
 
 |
 
-Accidents vasculaires intracérébraux non transitoires, niveau 3.
+316
 
 |
 
-317
+Accidents vasculaires intracérébraux non transitoires, niveau 3
 
 |
 
@@ -2176,11 +2254,11 @@ Accidents vasculaires intracérébraux non transitoires, niveau 3.
 
 |
 
-Accidents vasculaires intracérébraux non transitoires, niveau 4.
+317
 
 |
 
-318
+Accidents vasculaires intracérébraux non transitoires, niveau 4
 
 |
 
@@ -2188,11 +2266,11 @@ Accidents vasculaires intracérébraux non transitoires, niveau 4.
 
 |
 
-Transferts et autres séjours courts pour accidents vasculaires intracérébraux non transitoires.
+318
 
 |
 
-319
+Transferts et autres séjours courts pour accidents vasculaires intracérébraux non transitoires
 
 |
 
@@ -2200,11 +2278,11 @@ Transferts et autres séjours courts pour accidents vasculaires intracérébraux
 
 |
 
-Autres accidents vasculaires cérébraux non transitoires, niveau 1.
+319
 
 |
 
-320
+Autres accidents vasculaires cérébraux non transitoires, niveau 1
 
 |
 
@@ -2212,11 +2290,11 @@ Autres accidents vasculaires cérébraux non transitoires, niveau 1.
 
 |
 
-Autres accidents vasculaires cérébraux non transitoires, niveau 2.
+320
 
 |
 
-321
+Autres accidents vasculaires cérébraux non transitoires, niveau 2
 
 |
 
@@ -2224,11 +2302,11 @@ Autres accidents vasculaires cérébraux non transitoires, niveau 2.
 
 |
 
-Autres accidents vasculaires cérébraux non transitoires, niveau 3.
+321
 
 |
 
-322
+Autres accidents vasculaires cérébraux non transitoires, niveau 3
 
 |
 
@@ -2236,11 +2314,11 @@ Autres accidents vasculaires cérébraux non transitoires, niveau 3.
 
 |
 
-Autres accidents vasculaires cérébraux non transitoires, niveau 4.
+322
 
 |
 
-323
+Autres accidents vasculaires cérébraux non transitoires, niveau 4
 
 |
 
@@ -2248,11 +2326,11 @@ Autres accidents vasculaires cérébraux non transitoires, niveau 4.
 
 |
 
-Transferts et autres séjours courts pour autres accidents vasculaires cérébraux non transitoires.
+323
 
 |
 
-324
+Transferts et autres séjours courts pour autres accidents vasculaires cérébraux non transitoires
 
 |
 
@@ -2260,11 +2338,11 @@ Transferts et autres séjours courts pour autres accidents vasculaires cérébra
 
 |
 
-Explorations et surveillance pour affections du système nerveux.
+324
 
 |
 
-325
+Explorations et surveillance pour affections du système nerveux
 
 |
 
@@ -2272,11 +2350,11 @@ Explorations et surveillance pour affections du système nerveux.
 
 |
 
-Troubles du sommeil, niveau 1.
+325
 
 |
 
-326
+Troubles du sommeil, niveau 1
 
 |
 
@@ -2284,11 +2362,11 @@ Troubles du sommeil, niveau 1.
 
 |
 
-Troubles du sommeil, niveau 2.
+326
 
 |
 
-327
+Troubles du sommeil, niveau 2
 
 |
 
@@ -2296,11 +2374,11 @@ Troubles du sommeil, niveau 2.
 
 |
 
-Troubles du sommeil, niveau 3.
+327
 
 |
 
-328
+Troubles du sommeil, niveau 3
 
 |
 
@@ -2308,11 +2386,11 @@ Troubles du sommeil, niveau 3.
 
 |
 
-Troubles du sommeil, niveau 4.
+328
 
 |
 
-338
+Troubles du sommeil, niveau 4
 
 |
 
@@ -2320,11 +2398,11 @@ Troubles du sommeil, niveau 4.
 
 |
 
-Anomalies de la démarche d'origine neurologique, très courte durée.
+338
 
 |
 
-329
+Anomalies de la démarche d'origine neurologique, très courte durée
 
 |
 
@@ -2332,11 +2410,11 @@ Anomalies de la démarche d'origine neurologique, très courte durée.
 
 |
 
-Anomalies de la démarche d'origine neurologique.
+329
 
 |
 
-339
+Anomalies de la démarche d'origine neurologique
 
 |
 
@@ -2344,11 +2422,11 @@ Anomalies de la démarche d'origine neurologique.
 
 |
 
-Symptômes et autres recours aux soins de la CMD 01, très courte durée.
+339
 
 |
 
-330
+Symptômes et autres recours aux soins de la CMD 01, très courte durée
 
 |
 
@@ -2356,11 +2434,11 @@ Symptômes et autres recours aux soins de la CMD 01, très courte durée.
 
 |
 
-Symptômes et autres recours aux soins de la CMD 01.
+330
 
 |
 
-331
+Symptômes et autres recours aux soins de la CMD 01
 
 |
 
@@ -2368,11 +2446,11 @@ Symptômes et autres recours aux soins de la CMD 01.
 
 |
 
-Accidents vasculaires cérébraux non transitoires avec décès : séjours de moins de 2 jours.
+331
 
 |
 
-332
+Accidents vasculaires cérébraux non transitoires avec décès : séjours de moins de 2 jours
 
 |
 
@@ -2380,11 +2458,11 @@ Accidents vasculaires cérébraux non transitoires avec décès : séjours de mo
 
 |
 
-Autres affections de la CMD 01 avec décès : séjours de moins de 2 jours.
+332
 
 |
 
-340
+Autres affections de la CMD 01 avec décès : séjours de moins de 2 jours
 
 |
 
@@ -2392,11 +2470,11 @@ Autres affections de la CMD 01 avec décès : séjours de moins de 2 jours.
 
 |
 
-Autres affections neurologiques concernant majoritairement la petite enfance, niveau 1.
+340
 
 |
 
-341
+Autres affections neurologiques concernant majoritairement la petite enfance, niveau 1
 
 |
 
@@ -2404,11 +2482,11 @@ Autres affections neurologiques concernant majoritairement la petite enfance, ni
 
 |
 
-Autres affections neurologiques concernant majoritairement la petite enfance, niveau 2.
+341
 
 |
 
-342
+Autres affections neurologiques concernant majoritairement la petite enfance, niveau 2
 
 |
 
@@ -2416,11 +2494,11 @@ Autres affections neurologiques concernant majoritairement la petite enfance, ni
 
 |
 
-Autres affections neurologiques concernant majoritairement la petite enfance, niveau 3.
+342
 
 |
 
-343
+Autres affections neurologiques concernant majoritairement la petite enfance, niveau 3
 
 |
 
@@ -2428,11 +2506,11 @@ Autres affections neurologiques concernant majoritairement la petite enfance, ni
 
 |
 
-Autres affections neurologiques concernant majoritairement la petite enfance, niveau 4.
+343
 
 |
 
-344
+Autres affections neurologiques concernant majoritairement la petite enfance, niveau 4
 
 |
 
@@ -2440,11 +2518,11 @@ Autres affections neurologiques concernant majoritairement la petite enfance, ni
 
 |
 
-Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 1.
+344
 
 |
 
-345
+Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 1
 
 |
 
@@ -2452,11 +2530,11 @@ Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 1.
 
 |
 
-Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 2.
+345
 
 |
 
-346
+Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 2
 
 |
 
@@ -2464,11 +2542,11 @@ Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 2.
 
 |
 
-Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 3.
+346
 
 |
 
-347
+Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 3
 
 |
 
@@ -2476,11 +2554,11 @@ Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 3.
 
 |
 
-Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 4.
+347
 
 |
 
-410
+Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 4
 
 |
 
@@ -2488,11 +2566,11 @@ Troubles de la régulation thermique du nouveau-né et du nourrisson, niveau 4.
 
 |
 
-Interventions sur la rétine, niveau 1.
+410
 
 |
 
-411
+Interventions sur la rétine, niveau 1
 
 |
 
@@ -2500,11 +2578,11 @@ Interventions sur la rétine, niveau 1.
 
 |
 
-Interventions sur la rétine, niveau 2.
+411
 
 |
 
-412
+Interventions sur la rétine, niveau 2
 
 |
 
@@ -2512,11 +2590,11 @@ Interventions sur la rétine, niveau 2.
 
 |
 
-Interventions sur la rétine, niveau 3.
+412
 
 |
 
-413
+Interventions sur la rétine, niveau 3
 
 |
 
@@ -2524,11 +2602,11 @@ Interventions sur la rétine, niveau 3.
 
 |
 
-Interventions sur la rétine, niveau 4.
+413
 
 |
 
-414
+Interventions sur la rétine, niveau 4
 
 |
 
@@ -2536,11 +2614,11 @@ Interventions sur la rétine, niveau 4.
 
 |
 
-Interventions sur la rétine, en ambulatoire.
+414
 
 |
 
-415
+Interventions sur la rétine, en ambulatoire
 
 |
 
@@ -2548,11 +2626,11 @@ Interventions sur la rétine, en ambulatoire.
 
 |
 
-Interventions sur l'orbite, niveau 1.
+415
 
 |
 
-416
+Interventions sur l'orbite, niveau 1
 
 |
 
@@ -2560,11 +2638,11 @@ Interventions sur l'orbite, niveau 1.
 
 |
 
-Interventions sur l'orbite, niveau 2.
+416
 
 |
 
-417
+Interventions sur l'orbite, niveau 2
 
 |
 
@@ -2572,11 +2650,11 @@ Interventions sur l'orbite, niveau 2.
 
 |
 
-Interventions sur l'orbite, niveau 3.
+417
 
 |
 
-418
+Interventions sur l'orbite, niveau 3
 
 |
 
@@ -2584,11 +2662,11 @@ Interventions sur l'orbite, niveau 3.
 
 |
 
-Interventions sur l'orbite, niveau 4.
+418
 
 |
 
-419
+Interventions sur l'orbite, niveau 4
 
 |
 
@@ -2596,11 +2674,11 @@ Interventions sur l'orbite, niveau 4.
 
 |
 
-Interventions sur l'orbite, en ambulatoire.
+419
 
 |
 
-420
+Interventions sur l'orbite, en ambulatoire
 
 |
 
@@ -2608,11 +2686,11 @@ Interventions sur l'orbite, en ambulatoire.
 
 |
 
-Interventions sur le cristallin avec ou sans vitrectomie, niveau 1.
+420
 
 |
 
-421
+Interventions sur le cristallin avec ou sans vitrectomie, niveau 1
 
 |
 
@@ -2620,11 +2698,11 @@ Interventions sur le cristallin avec ou sans vitrectomie, niveau 1.
 
 |
 
-Interventions sur le cristallin avec ou sans vitrectomie, niveau 2.
+421
 
 |
 
-422
+Interventions sur le cristallin avec ou sans vitrectomie, niveau 2
 
 |
 
@@ -2632,11 +2710,11 @@ Interventions sur le cristallin avec ou sans vitrectomie, niveau 2.
 
 |
 
-Interventions sur le cristallin avec ou sans vitrectomie, niveau 3.
+422
 
 |
 
-423
+Interventions sur le cristallin avec ou sans vitrectomie, niveau 3
 
 |
 
@@ -2644,11 +2722,11 @@ Interventions sur le cristallin avec ou sans vitrectomie, niveau 3.
 
 |
 
-Interventions sur le cristallin avec ou sans vitrectomie, niveau 4.
+423
 
 |
 
-424
+Interventions sur le cristallin avec ou sans vitrectomie, niveau 4
 
 |
 
@@ -2656,11 +2734,11 @@ Interventions sur le cristallin avec ou sans vitrectomie, niveau 4.
 
 |
 
-Interventions sur le cristallin avec ou sans vitrectomie, en ambulatoire.
+424
 
 |
 
-425
+Interventions sur le cristallin avec ou sans vitrectomie, en ambulatoire
 
 |
 
@@ -2668,11 +2746,11 @@ Interventions sur le cristallin avec ou sans vitrectomie, en ambulatoire.
 
 |
 
-Interventions primaires sur l'iris, niveau 1.
+425
 
 |
 
-426
+Interventions primaires sur l'iris, niveau 1
 
 |
 
@@ -2680,11 +2758,11 @@ Interventions primaires sur l'iris, niveau 1.
 
 |
 
-Interventions primaires sur l'iris, niveau 2.
+426
 
 |
 
-427
+Interventions primaires sur l'iris, niveau 2
 
 |
 
@@ -2692,11 +2770,11 @@ Interventions primaires sur l'iris, niveau 2.
 
 |
 
-Interventions primaires sur l'iris, niveau 3.
+427
 
 |
 
-428
+Interventions primaires sur l'iris, niveau 3
 
 |
 
@@ -2704,11 +2782,11 @@ Interventions primaires sur l'iris, niveau 3.
 
 |
 
-Interventions primaires sur l'iris, niveau 4.
+428
 
 |
 
-429
+Interventions primaires sur l'iris, niveau 4
 
 |
 
@@ -2716,11 +2794,11 @@ Interventions primaires sur l'iris, niveau 4.
 
 |
 
-Interventions primaires sur l'iris, en ambulatoire.
+429
 
 |
 
-430
+Interventions primaires sur l'iris, en ambulatoire
 
 |
 
@@ -2728,11 +2806,11 @@ Interventions primaires sur l'iris, en ambulatoire.
 
 |
 
-Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 1.
+430
 
 |
 
-431
+Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -2740,11 +2818,11 @@ Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 1.
 
 |
 
-Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 2.
+431
 
 |
 
-432
+Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -2752,11 +2830,11 @@ Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 2.
 
 |
 
-Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 3.
+432
 
 |
 
-433
+Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -2764,11 +2842,11 @@ Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 3.
 
 |
 
-Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 4.
+433
 
 |
 
-434
+Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -2776,11 +2854,11 @@ Autres interventions extraoculaires, âge inférieur à 18 ans, niveau 4.
 
 |
 
-Autres interventions extraoculaires, âge inférieur à 18 ans, en ambulatoire.
+434
 
 |
 
-435
+Autres interventions extraoculaires, âge inférieur à 18 ans, en ambulatoire
 
 |
 
@@ -2788,11 +2866,11 @@ Autres interventions extraoculaires, âge inférieur à 18 ans, en ambulatoire.
 
 |
 
-Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 1.
+435
 
 |
 
-436
+Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2800,11 +2878,11 @@ Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 1.
 
 |
 
-Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 2.
+436
 
 |
 
-437
+Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2812,11 +2890,11 @@ Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 2.
 
 |
 
-Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 3.
+437
 
 |
 
-438
+Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2824,11 +2902,11 @@ Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 3.
 
 |
 
-Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 4.
+438
 
 |
 
-439
+Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2836,7 +2914,15 @@ Autres interventions extraoculaires, âge supérieur à 17 ans, niveau 4.
 
 |
 
-Autres interventions extraoculaires, âge supérieur à 17 ans, en ambulatoire.
+439
+
+|
+
+Autres interventions extraoculaires, âge supérieur à 17 ans, en ambulatoire
+
+|
+
+02C091
 
 |
 
@@ -2844,15 +2930,21 @@ Autres interventions extraoculaires, âge supérieur à 17 ans, en ambulatoire.
 
 |
 
-02C091 |
+Allogreffes de cornée, niveau 1
 
-Allogreffes de cornée, niveau 1. |
+|
+
+|
 
 460
 
 |
 
-Allogreffes de cornée, niveau 1.
+Allogreffes de cornée, niveau 1
+
+|
+
+02C092
 
 |
 
@@ -2860,19 +2952,17 @@ Allogreffes de cornée, niveau 1.
 
 |
 
-02C092 |
+Allogreffes de cornée, niveau 2
 
-Allogreffes de cornée, niveau 2. |
+|
+
+|
 
 461
 
 |
 
-Allogreffes de cornée, niveau 2.
-
-|
-
-442
+Allogreffes de cornée, niveau 2
 
 |
 
@@ -2880,17 +2970,21 @@ Allogreffes de cornée, niveau 2.
 
 |
 
-Allogreffes de cornée, niveau 3. |
+442
+
+|
+
+Allogreffes de cornée, niveau 3
+
+|
+
+|
 
 462
 
 |
 
-Allogreffes de cornée, niveau 3.
-
-|
-
-443
+Allogreffes de cornée, niveau 3
 
 |
 
@@ -2898,17 +2992,21 @@ Allogreffes de cornée, niveau 3.
 
 |
 
-Allogreffes de cornée, niveau 4. |
+443
+
+|
+
+Allogreffes de cornée, niveau 4
+
+|
+
+|
 
 463
 
 |
 
-Allogreffes de cornée, niveau 4.
-
-|
-
-444
+Allogreffes de cornée, niveau 4
 
 |
 
@@ -2916,17 +3014,21 @@ Allogreffes de cornée, niveau 4.
 
 |
 
-Allogreffes de cornée, en ambulatoire. |
+444
+
+|
+
+Allogreffes de cornée, en ambulatoire
+
+|
+
+|
 
 464
 
 |
 
-Allogreffes de cornée, en ambulatoire.
-
-|
-
-445
+Allogreffes de cornée, en ambulatoire
 
 |
 
@@ -2934,11 +3036,11 @@ Allogreffes de cornée, en ambulatoire.
 
 |
 
-Autres interventions intraoculaires pour affections sévères, niveau 1.
+445
 
 |
 
-446
+Autres interventions intraoculaires pour affections sévères, niveau 1
 
 |
 
@@ -2946,11 +3048,11 @@ Autres interventions intraoculaires pour affections sévères, niveau 1.
 
 |
 
-Autres interventions intraoculaires pour affections sévères, niveau 2.
+446
 
 |
 
-447
+Autres interventions intraoculaires pour affections sévères, niveau 2
 
 |
 
@@ -2958,11 +3060,11 @@ Autres interventions intraoculaires pour affections sévères, niveau 2.
 
 |
 
-Autres interventions intraoculaires pour affections sévères, niveau 3.
+447
 
 |
 
-448
+Autres interventions intraoculaires pour affections sévères, niveau 3
 
 |
 
@@ -2970,11 +3072,11 @@ Autres interventions intraoculaires pour affections sévères, niveau 3.
 
 |
 
-Autres interventions intraoculaires pour affections sévères, niveau 4.
+448
 
 |
 
-449
+Autres interventions intraoculaires pour affections sévères, niveau 4
 
 |
 
@@ -2982,11 +3084,11 @@ Autres interventions intraoculaires pour affections sévères, niveau 4.
 
 |
 
-Autres interventions intraoculaires pour affections sévères, en ambulatoire.
+449
 
 |
 
-450
+Autres interventions intraoculaires pour affections sévères, en ambulatoire
 
 |
 
@@ -2994,11 +3096,11 @@ Autres interventions intraoculaires pour affections sévères, en ambulatoire.
 
 |
 
-Autres interventions intraoculaires en dehors des affections sévères, niveau 1.
+450
 
 |
 
-451
+Autres interventions intraoculaires en dehors des affections sévères, niveau 1
 
 |
 
@@ -3006,11 +3108,11 @@ Autres interventions intraoculaires en dehors des affections sévères, niveau 1
 
 |
 
-Autres interventions intraoculaires en dehors des affections sévères, niveau 2.
+451
 
 |
 
-452
+Autres interventions intraoculaires en dehors des affections sévères, niveau 2
 
 |
 
@@ -3018,11 +3120,11 @@ Autres interventions intraoculaires en dehors des affections sévères, niveau 2
 
 |
 
-Autres interventions intraoculaires en dehors des affections sévères, niveau 3.
+452
 
 |
 
-453
+Autres interventions intraoculaires en dehors des affections sévères, niveau 3
 
 |
 
@@ -3030,11 +3132,11 @@ Autres interventions intraoculaires en dehors des affections sévères, niveau 3
 
 |
 
-Autres interventions intraoculaires en dehors des affections sévères, niveau 4.
+453
 
 |
 
-454
+Autres interventions intraoculaires en dehors des affections sévères, niveau 4
 
 |
 
@@ -3042,11 +3144,11 @@ Autres interventions intraoculaires en dehors des affections sévères, niveau 4
 
 |
 
-Autres interventions intraoculaires en dehors des affections sévères, en ambulatoire.
+454
 
 |
 
-455
+Autres interventions intraoculaires en dehors des affections sévères, en ambulatoire
 
 |
 
@@ -3054,11 +3156,11 @@ Autres interventions intraoculaires en dehors des affections sévères, en ambul
 
 |
 
-Interventions sur le cristallin avec trabéculectomie, niveau 1.
+455
 
 |
 
-456
+Interventions sur le cristallin avec trabéculectomie, niveau 1
 
 |
 
@@ -3066,11 +3168,11 @@ Interventions sur le cristallin avec trabéculectomie, niveau 1.
 
 |
 
-Interventions sur le cristallin avec trabéculectomie, niveau 2.
+456
 
 |
 
-457
+Interventions sur le cristallin avec trabéculectomie, niveau 2
 
 |
 
@@ -3078,11 +3180,11 @@ Interventions sur le cristallin avec trabéculectomie, niveau 2.
 
 |
 
-Interventions sur le cristallin avec trabéculectomie, niveau 3.
+457
 
 |
 
-458
+Interventions sur le cristallin avec trabéculectomie, niveau 3
 
 |
 
@@ -3090,11 +3192,11 @@ Interventions sur le cristallin avec trabéculectomie, niveau 3.
 
 |
 
-Interventions sur le cristallin avec trabéculectomie, niveau 4.
+458
 
 |
 
-459
+Interventions sur le cristallin avec trabéculectomie, niveau 4
 
 |
 
@@ -3102,11 +3204,71 @@ Interventions sur le cristallin avec trabéculectomie, niveau 4.
 
 |
 
-Interventions sur le cristallin avec trabéculectomie, en ambulatoire.
+459
 
 |
 
-506
+Interventions sur le cristallin avec trabéculectomie, en ambulatoire
+
+|
+
+02C131
+
+|
+
+465
+
+|
+
+Interventions sur les muscles oculomoteurs, âge inférieur à 18 ans, niveau 1
+
+|
+
+02C132
+
+|
+
+466
+
+|
+
+Interventions sur les muscles oculomoteurs, âge inférieur à 18 ans, niveau 2
+
+|
+
+02C133
+
+|
+
+467
+
+|
+
+Interventions sur les muscles oculomoteurs, âge inférieur à 18 ans, niveau 3
+
+|
+
+02C134
+
+|
+
+468
+
+|
+
+Interventions sur les muscles oculomoteurs, âge inférieur à 18 ans, niveau 4
+
+|
+
+02C13J
+
+|
+
+469
+
+|
+
+Interventions sur les muscles oculomoteurs, âge inférieur à 18 ans, en ambulatoire
 
 |
 
@@ -3114,11 +3276,11 @@ Interventions sur le cristallin avec trabéculectomie, en ambulatoire.
 
 |
 
-Hyphéma, niveau 1.
+506
 
 |
 
-507
+Hyphéma, niveau 1
 
 |
 
@@ -3126,11 +3288,11 @@ Hyphéma, niveau 1.
 
 |
 
-Hyphéma, niveau 2.
+507
 
 |
 
-508
+Hyphéma, niveau 2
 
 |
 
@@ -3138,11 +3300,11 @@ Hyphéma, niveau 2.
 
 |
 
-Hyphéma, niveau 3.
+508
 
 |
 
-509
+Hyphéma, niveau 3
 
 |
 
@@ -3150,11 +3312,11 @@ Hyphéma, niveau 3.
 
 |
 
-Hyphéma, niveau 4.
+509
 
 |
 
-510
+Hyphéma, niveau 4
 
 |
 
@@ -3162,11 +3324,11 @@ Hyphéma, niveau 4.
 
 |
 
-Infections oculaires aiguës sévères, niveau 1.
+510
 
 |
 
-511
+Infections oculaires aiguës sévères, niveau 1
 
 |
 
@@ -3174,11 +3336,11 @@ Infections oculaires aiguës sévères, niveau 1.
 
 |
 
-Infections oculaires aiguës sévères, niveau 2.
+511
 
 |
 
-512
+Infections oculaires aiguës sévères, niveau 2
 
 |
 
@@ -3186,11 +3348,11 @@ Infections oculaires aiguës sévères, niveau 2.
 
 |
 
-Infections oculaires aiguës sévères, niveau 3.
+512
 
 |
 
-513
+Infections oculaires aiguës sévères, niveau 3
 
 |
 
@@ -3198,11 +3360,11 @@ Infections oculaires aiguës sévères, niveau 3.
 
 |
 
-Infections oculaires aiguës sévères, niveau 4.
+513
 
 |
 
-514
+Infections oculaires aiguës sévères, niveau 4
 
 |
 
@@ -3210,11 +3372,11 @@ Infections oculaires aiguës sévères, niveau 4.
 
 |
 
-Affections oculaires d'origine neurologique, niveau 1.
+514
 
 |
 
-515
+Affections oculaires d'origine neurologique, niveau 1
 
 |
 
@@ -3222,11 +3384,11 @@ Affections oculaires d'origine neurologique, niveau 1.
 
 |
 
-Affections oculaires d'origine neurologique, niveau 2.
+515
 
 |
 
-516
+Affections oculaires d'origine neurologique, niveau 2
 
 |
 
@@ -3234,11 +3396,11 @@ Affections oculaires d'origine neurologique, niveau 2.
 
 |
 
-Affections oculaires d'origine neurologique, niveau 3.
+516
 
 |
 
-517
+Affections oculaires d'origine neurologique, niveau 3
 
 |
 
@@ -3246,11 +3408,11 @@ Affections oculaires d'origine neurologique, niveau 3.
 
 |
 
-Affections oculaires d'origine neurologique, niveau 4.
+517
 
 |
 
-518
+Affections oculaires d'origine neurologique, niveau 4
 
 |
 
@@ -3258,11 +3420,11 @@ Affections oculaires d'origine neurologique, niveau 4.
 
 |
 
-Affections oculaires d'origine neurologique, très courte durée.
+518
 
 |
 
-519
+Affections oculaires d'origine neurologique, très courte durée
 
 |
 
@@ -3270,11 +3432,11 @@ Affections oculaires d'origine neurologique, très courte durée.
 
 |
 
-Autres affections oculaires, âge inférieur à 18 ans, niveau 1.
+519
 
 |
 
-520
+Autres affections oculaires, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -3282,11 +3444,11 @@ Autres affections oculaires, âge inférieur à 18 ans, niveau 1.
 
 |
 
-Autres affections oculaires, âge inférieur à 18 ans, niveau 2.
+520
 
 |
 
-521
+Autres affections oculaires, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -3294,11 +3456,11 @@ Autres affections oculaires, âge inférieur à 18 ans, niveau 2.
 
 |
 
-Autres affections oculaires, âge inférieur à 18 ans, niveau 3.
+521
 
 |
 
-522
+Autres affections oculaires, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -3306,11 +3468,11 @@ Autres affections oculaires, âge inférieur à 18 ans, niveau 3.
 
 |
 
-Autres affections oculaires, âge inférieur à 18 ans, niveau 4.
+522
 
 |
 
-523
+Autres affections oculaires, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -3318,11 +3480,11 @@ Autres affections oculaires, âge inférieur à 18 ans, niveau 4.
 
 |
 
-Autres affections oculaires, âge inférieur à 18 ans, très courte durée.
+523
 
 |
 
-524
+Autres affections oculaires, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -3330,11 +3492,11 @@ Autres affections oculaires, âge inférieur à 18 ans, très courte durée.
 
 |
 
-Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 1.
+524
 
 |
 
-525
+Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -3342,11 +3504,11 @@ Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, ni
 
 |
 
-Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 2.
+525
 
 |
 
-526
+Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -3354,11 +3516,11 @@ Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, ni
 
 |
 
-Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 3.
+526
 
 |
 
-527
+Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -3366,11 +3528,11 @@ Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, ni
 
 |
 
-Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 4.
+527
 
 |
 
-528
+Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3378,11 +3540,11 @@ Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, ni
 
 |
 
-Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, très courte durée.
+528
 
 |
 
-529
+Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -3390,11 +3552,11 @@ Autres affections oculaires d'origine diabétique, âge supérieur à 17 ans, tr
 
 |
 
-Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 1.
+529
 
 |
 
-530
+Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -3402,11 +3564,11 @@ Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans
 
 |
 
-Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 2.
+530
 
 |
 
-531
+Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -3414,11 +3576,11 @@ Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans
 
 |
 
-Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 3.
+531
 
 |
 
-532
+Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -3426,11 +3588,11 @@ Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans
 
 |
 
-Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 4.
+532
 
 |
 
-533
+Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3438,11 +3600,11 @@ Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans
 
 |
 
-Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, très courte durée.
+533
 
 |
 
-534
+Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -3450,30 +3612,10 @@ Autres affections oculaires d'origine non diabétique, âge supérieur à 17 ans
 
 |
 
-Explorations et surveillance pour affections de l'œil.
+534
 
 |
 
-536
-
-|
-
-02M10T
-
-|
-
-Symptômes et autres recours aux soins de la CMD 02, très courte durée.
-
-|
-
-535
-
-|
-
-02M10Z
-
-|
-
-Symptômes et autres recours aux soins de la CMD 02.
+Explorations et surveillance pour affections de l'oeil
 
 |
