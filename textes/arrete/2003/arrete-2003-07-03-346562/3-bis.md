@@ -1,29 +1,43 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la date d'effet du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de comptable assistant(e) selon le tableau de correspondances figurant ci-dessous :
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les nouveaux certificats de compétences professionnelles selon le tableau figurant ci-dessous.
 
-ASSISTANT(E)
+TITRE PROFESSIONNEL
 
-en comptabilité et gestion
+comptable assistant (e)
 
-(ancien intitulé) |
+(arrêté du 20 décembre 2007)
 
-COMPTABLE ASSISTANT(E)
+|
 
-(nouvel intitulé) |
+TITRE PROFESSIONNEL
 
-Traiter des opérations commerciales et bancaires sur le plan administratif et comptable. |
+comptable assistant (e)
 
-Assurer les travaux courants de comptabilité. |
+(présent arrêté)
 
-Etablir la paie et assurer le suivi administratif du personnel. |
+|
 
-Etablir la paie et les déclarations sociales courantes. |
+Assurer les travaux courants de comptabilité.
 
-Réaliser les travaux comptables de fin d'exercice sous les aspects fiscaux et juridiques. |
+|
 
-Réaliser les travaux de fin d'exercice comptable et fiscal et présenter des données de gestion. |
+Assurer les travaux courants de comptabilité.
 
-Calculer des coûts, établir des prévisions et participer au suivi de l'évolution de la gestion d'une PME. |
+|
 
-Néant. |
+Etablir la paie et les déclarations sociales courantes.
+
+|
+
+Réaliser les travaux courants de paie.
+
+|
+
+Réaliser les travaux de fin d'exercice comptable et fiscal et présenter des données de gestion.
+
+|
+
+Préparer la fin d'exercice comptable et fiscal et calculer des éléments de gestion.
+
+|
