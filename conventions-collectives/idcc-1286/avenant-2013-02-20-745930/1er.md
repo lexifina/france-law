@@ -1,0 +1,25 @@
+# Article 1er
+
+L'article 3 « Bénéficiaires » de l'avenant n° 15 du 3 septembre 2008 est rédigé comme suit :
+
+« Article 3
+
+Bénéficiaires
+
+Le présent avenant institue un régime de « remboursement complémentaire de frais de soins de santé » obligatoire au profit de l'ensemble des salariés relevant des entreprises visées à l'article 1er du présent avenant, ayant 6 mois d'ancienneté dans l'entreprise.
+
+Peuvent, à leur initiative, se dispenser d'affiliation au présent régime « remboursement frais de soins de santé » conformément aux dispositions réglementaires en fournissant régulièrement les justificatifs correspondants :
+
+3.1. Les salariés bénéficiant de la couverture maladie universelle complémentaire (CMUC), pour la durée de leur prise en charge au titre de ce régime, à la condition de fournir à leur employeur une attestation annuelle justifiant de leur couverture. Les salariés devront obligatoirement rejoindre le présent régime à compter de la date à laquelle ils ne bénéficient plus du régime de la CMUC.
+
+3.2. Les salariés bénéficiant de l'aide à l'acquisition d'une complémentaire santé visée à l'article L. 863-1 du code de la sécurité sociale et cela jusqu'à échéance du contrat individuel si l'intéressé ne peut pas le résilier par anticipation.
+
+3.3. Les salariés à temps très partiel (contrat de travail inférieur à un mi-temps) qui devraient acquitter une cotisation au présent régime au moins égale à 10 % de leur rémunération brute.
+
+3.4. Les salariés en contrat à durée déterminée supérieur ou égal à 12 mois, à condition de fournir à leur employeur une attestation annuelle justifiant de leur couverture individuelle pour le même type de garanties.
+
+3.5. Les salariés en contrat à durée déterminée inférieur à 12 mois, même s'ils ne bénéficient pas d'une couverture individuelle souscrite par ailleurs.
+
+3.6. Les salariés bénéficiant y compris en tant qu'ayants droit d'une couverture relevant d'un dispositif de prévoyance complémentaire collectif et obligatoire, à condition de le justifier chaque année.
+
+Dans tous les cas, l'employeur doit être en mesure de produire la demande de dispense des salariés concernés ainsi que les justificatifs afférents. »
