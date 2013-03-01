@@ -24,7 +24,9 @@ par emploi
 
 |
 
-Chargé de mission pour la politique de la ville au service habitat |
+Chargé de mission pour la politique de la ville au service habitat
+
+|
 
 A
 
@@ -134,7 +136,9 @@ par emploi
 
 |
 
-Chef de bureau des études de l'habitat et de la ville |
+Chef de bureau des études de l'habitat et de la ville
+
+|
 
 A
 
@@ -148,7 +152,9 @@ A
 
 |
 
-Adjoint au chef du bureau des études de l'habitat et de la ville |
+Adjoint au chef du bureau des études de l'habitat et de la ville
+
+|
 
 B
 
@@ -186,7 +192,9 @@ par emploi
 
 |
 
-Chargé de la politique de la ville |
+Chargé de la politique de la ville
+
+|
 
 B
 
@@ -200,7 +208,7 @@ B
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) des Alpes-Maritimes
+Direction départementale des territoires et de la mer des Alpes-Maritimes
 
 FONCTIONS EXERCÉES
 
@@ -228,133 +236,85 @@ par emploi
 
 |
 
-Adjoint au directeur chargé de la politique de la ville
+Adjoint au chef du service logement et construction
 
 |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-50
-
-|
+50 |
 
 Responsable du pôle habitat - Service territorial Est montagne
 
 |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-40
-
-|
+40 |
 
 Responsable du pôle développement de l'offre de logement - Service logement construction
 
 |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-40
-
-|
+40 |
 
 Instructeur rénovation urbaine - Service territorial Est montagne
 
 |
 
-B
+B |
 
-|
+1 |
 
-1
-
-|
-
-30
-
-|
+30 |
 
 Administrateur de données à la mission foncière - Service logement construction
 
 |
 
-B
+B |
 
-|
+1 |
 
-1
-
-|
-
-30
-
-|
+30 |
 
 Chargé du pôle habitat - Service territorial Ouest
 
 |
 
-B
+B |
 
-|
+1 |
 
-1
-
-|
-
-30
-
-|
+30 |
 
 Instructeur rénovation urbaine - Service territorial Ouest
 
 |
 
-B
+B |
 
-|
+1 |
 
-1
-
-|
-
-30
-
-|
+30 |
 
 Chargé de mission habitat - Service territorial Est montagne
 
 |
 
-B
+B |
 
-|
+1 |
 
-1
-
-|
-
-30
-
-|
+30 |
 
 Direction départementale de la cohésion sociale des Alpes-Maritimes
 
@@ -388,17 +348,11 @@ Responsable de la mission logement - Service du logement
 
 |
 
-A
+A |
 
-|
+1 |
 
-1
-
-|
-
-40
-
-|
+40 |
 
 Animateur du plan départemental d'action pour le logement des personnes défavorisées (PDALDP) et des droits au logement opposable (DALO), adjoint au chef de la mission logement au service du logement
 
