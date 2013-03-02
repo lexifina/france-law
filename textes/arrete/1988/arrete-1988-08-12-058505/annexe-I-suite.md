@@ -1780,15 +1780,33 @@ a) patte anti-retour b), c) et d) bagues métalliques serties.
 
 |
 
-|
+48
 
 |
 
-|
+Entreprise Jean-Nicolas Ducatillon (59)
 
 |
 
+DUCATILLON
+
 |
+
+d) = 2
+
+c) = 20
+
+|
+
+780
+
+|
+
+a) Patte antiretour
+
+b), c), d) Bagues métalliques serties
+
+e) Le câble peut être brut ou peint en noir
 
 |
 
