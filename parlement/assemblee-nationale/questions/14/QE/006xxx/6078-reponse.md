@@ -1,0 +1,9 @@
+# Réponse à la question n° 6078
+
+- Question : [6078](6078.md) — Question n° 6078 — réglementation; réforme; perspectives
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Le fonctionnement des sociétés d'attribution d'immeubles en jouissance à temps partagé est régi par la loi n° 86-18 du 6 janvier 1986, à laquelle la loi n° 2009-888 de développement et de modernisation des services touristiques du 22 juillet 2009 a apporté des modifications significatives destinées à améliorer la situation des associés. Il a ainsi été instauré un droit de retrait d'ordre public ouvert à tout associé, soit après autorisation donnée par l'unanimité des associés, soit par décision de justice pour justes motifs, notamment lorsque les parts ou actions que l'associé détient dans le capital social lui ont été transmises par succession depuis moins de deux ans, ou lorsque celui-ci ne peut plus jouir de son bien du fait de la fermeture ou de l'inaccessibilité de la station ou de l'ensemble immobilier concerné (art. 19-1). Il appartient aux juridictions, lorsqu'elles sont saisies par des associés désirant se retirer de la société, de se prononcer souverainement dans chaque cas d'espèce au vu des motifs avancés et de leur justification par les demandeurs. Il importe que l'exercice du droit de retrait, sans être impossible, demeure strictement encadré afin de ne pas mettre en péril l'équilibre de la société et de ne pas nuire aux associés restants dont les charges se trouvent accrues par l'effet du retrait. Compte tenu toutefois des doléances exprimées par certains associés, il a été décidé de procéder à une évaluation des difficultés qui peuvent subsister à la suite de la modification législative précédemment évoquée. Des réunions de concertation sont actuellement menées par les services du ministère de la justice et du ministère de l'économie et des finances afin d'évaluer la nécessité d'une éventuelle évolution de la réglementation existante.
