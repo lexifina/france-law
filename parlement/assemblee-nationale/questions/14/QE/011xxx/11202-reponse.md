@@ -1,0 +1,9 @@
+# Réponse à la question n° 11202
+
+- Question : [11202](11202.md) — Question n° 11202 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-03-05*
+
+La commission nationale des monuments historiques, composée de 6 sections et d'un comité des sections, a succédé à la commission des monuments historiques, créée en 1837, puis à la Commission supérieure des monuments historiques. Instituée par l'article L. 611-1 du code du patrimoine, elle a pour objectif de conseiller la ministre sur les propositions de classement d'immeubles et d'objets mobiliers au titre des monuments historiques, si nécessaire d'office, et sur certains projets de travaux sur monuments historiques (immeubles ou objets mobiliers) ou aux abords des monuments historiques. Ces missions légales sont indispensables à la cohérence de la politique de protection et de travaux sur les monuments historiques. Composée d'élus, d'universitaires, d'experts et de membres du service des monuments historiques, le coût de fonctionnement de cette instance s'est élevé à 18 000 euros en 2011. Au-delà du cas particulier faisant l'objet de la présente question, il convient de souligner que le Gouvernement souhaite réformer les pratiques de consultation préalable à la prise de décision et mettre un terme à l'inflation du nombre de commissions consultatives. Le comité interministériel de la modernisation de l'action publique du 18 décembre 2012 a ainsi fixé les orientations d'une nouvelle politique de la consultation. Conformément à ces orientations, chaque ministère dressera une cartographie faisant apparaître sa stratégie de consultation et examinera les possibilités de fusion ou de réorganisation des instances consultatives permettant d'en réduire le nombre et de renouveler les pratiques en privilégiant les modes de concertation ouverts ou informels. La présente réponse ne préjuge pas des décisions qui seront prises dans ce cadre.
