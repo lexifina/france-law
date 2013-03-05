@@ -1,0 +1,9 @@
+# Réponse à la question n° 2881
+
+- Question : [2881](2881.md) — Question n° 2881 — zones de sécurité prioritaires; création
+
+## Réponse
+
+*JO du 2013-03-05*
+
+La mise en place des zones de sécurité prioritaires, leurs principes de fonctionnement ainsi que leur articulation avec les dispositifs partenariaux existants, tout comme la détermination des zones elles-mêmes, ont fait l'objet d'un important travail interministériel. Le ministère de la justice a pris bien entendu toute sa place dans le cadre de ces échanges interministériels afin de déterminer les modalités exactes de participation de l'institution judiciaire à ce nouvel outil partenarial et à la nécessaire coordination des services de l'État, tout en restant attentif à la spécificité de l'action du ministère public en ce domaine, et au respect de ses prérogatives. La ministre de la justice a pu adresser dès le 21 août 2012 une dépêche aux parquets relative à la mise en place des zones de sécurité prioritaires. Elle a reçue le 13 septembre 2012 les procureurs généraux des Cours d'appel et les procureurs de la République concernés par la mise en oeuvre des quinze premières zones de sécurité prioritaires en France afin de fixer la doctrine d'utilisation des prérogatives de l'autorité judiciaire dans ces zones. Il leur a été notamment indiqué la nécessité de la présence et de l'implication de la justice, l'importance de la direction de la police judiciaire et d'une action judiciaire adaptée à ces territoires. La garde des sceaux suivra attentivement la mise en oeuvre progressive des nouvelles zones de sécurité prioritaires en 2013. Elle a demandé aux procureurs de la République déjà concernés de faire un premier bilan de leur action à ce titre dans le cadre du rapport annuel de politique pénale 2012 qu'ils doivent rédiger pour la fin janvier 2013.
