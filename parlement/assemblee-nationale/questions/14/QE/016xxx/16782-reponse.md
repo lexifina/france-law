@@ -1,0 +1,9 @@
+# Réponse à la question n° 16782
+
+- Question : [16782](16782.md) — Question n° 16782 — diplôme; revendications
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Le travail conduit depuis plusieurs années, sous l'égide des deux ministères respectivement en charge de la santé et de l'enseignement supérieur, autour d'un référentiel d'activités et de compétences renouvelé et enrichi, prend en compte l'évolution de l'exercice du métier d'orthophoniste tant au niveau du soin que de la prévention à tous les âges de la vie. La transposition de ces compétences en matière de formation conduit à allonger d'un an la durée de ces études, organisées actuellement en quatre années, en vue du certificat de capacité d'orthophoniste qui sera reconnu au grade de master. En effet, les prises en charge en orthophonie sont devenues complexes et exigent de la part des orthophonistes des compétences plus approfondies et diversifiées et également une formation à la démarche scientifique permettant de faire évoluer les pratiques professionnelles en fonction des progrès de la connaissance scientifique. Une communication menée conjointement avec la ministre des affaires sociales et de la santé a été faite aux organisations professionnelles le 25 janvier 2013. C'est dans le cadre de ce dispositif que seront finalisés les travaux sous l'égide des deux départements ministériels, dans l'objectif d'une rentrée sur la base d'un programme de formation réingéniée en septembre 2013. Ces travaux devront également permettre d'harmoniser les modalités de formation tant théoriques que pratiques dans l'ensemble des universités préparant au certificat de capacité d'orthophoniste. La réglementation relative à la formation en orthophonie est en cours d'élaboration. Le texte sera présenté au conseil national de l'enseignement supérieur et de la recherche dès que les consultations préalables seront intervenues.
