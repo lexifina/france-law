@@ -1,0 +1,9 @@
+# Réponse à la question n° 11716
+
+- Question : [11716](11716.md) — Question n° 11716 — début de la Première Guerre mondiale; 100e anniversaire
+
+## Réponse
+
+*JO du 2013-03-05*
+
+La mission interministérielle des anniversaires des deux Guerres mondiales a été créée par décret n° 2012-1305 du 26 novembre 2012. Elle a pour objet d'impulser et de coordonner les deux cycles commémoratifs qui s'imposent à notre pays dans les prochaines années : le 70e anniversaire des années 1943, 1944 et 1945 et le centenaire de la Première Guerre mondiale 1914-1918. Ces deux cycles commémoratifs seront particulièrement importants. Le 70e anniversaire sera le dernier grand rendez-vous entre les Français et les derniers témoins d'une page d'histoire qui a profondément marqué notre nation. Le centenaire sera le moment de l'entrée de la Grande Guerre dans l'histoire partagée des Français. Toutefois ils garderont leurs spécificités. A cette fin, chacun des cycles sera mis en oeuvre par une structure différente. Le centenaire sera géré par le groupement d'intérêt public créé en avril 2012 et placé sous la présidence du général Irastorza. Le 70e anniversaire sera quant à lui géré par la direction de la mémoire, du patrimoine et des archives du ministère de la défense. L'Office national des anciens combattants et victimes de guerre aura le rôle de coordonner les initiatives des deux cycles commémoratifs sur le territoire. Dès lors, aucune confusion entre les deux ne saurait s'instaurer. La mission interministérielle, placée auprès du ministre de la défense et présidée par le ministre délégué auprès du ministre de la défense, chargé des anciens combattants, sera l'organisme d'impulsion et de coordination des programmes, en étroite liaison avec l'ensemble des autres ministères et des postes diplomatiques à Paris.
