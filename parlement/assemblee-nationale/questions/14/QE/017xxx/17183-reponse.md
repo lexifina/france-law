@@ -1,0 +1,9 @@
+# Réponse à la question n° 17183
+
+- Question : [17183](17183.md) — Question n° 17183 — revendications
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Depuis cinq ans, la filière porcine française traverse une crise économique sévère. Le Gouvernement est mobilisé pour apporter son soutien à la fois conjoncturel mais également structurel, afin de redonner des perspectives durables à ce secteur. Une table ronde s'est tenue le 30 octobre qui rassemblait l'ensemble de la filière : fabricants d'aliments pour animaux, producteurs, transformateurs (abattage-découpe et charcutiers), distributeurs. Elle a constitué la première étape vers l'élaboration d'un pacte économique, social et environnemental pour la filière porcine en France. Cela se traduira par un plan national pour la filière qui sera présenté courant mars 2013. Afin d'élaborer ce plan, 4 groupes de travail ont été créés sous la coordination de M. Alain Berger, délégué interministériel aux industries agroalimentaires et aux agroindustries : - maintenir la production en quantité tout en améliorant son impact environnemental ; - affronter la surcapacité dans le secteur abattage découpe ; - renforcer le secteur de la transformation ; - mieux vendre en renforçant les stratégies de marché. Concernant ce dernier groupe, il s'agit de voir comment reconquérir les marchés français et européens, développer l'export vers les pays tiers, en visant à combiner qualité et production de masse. L'obligation d'indiquer l'origine sur l'étiquetage de la viande de porc prévue dans le règlement (UE) n° 1169/2011 du Parlement européen et du conseil du 25 octobre 2011, permettra lorsque la Commission aura adopté les actes d'exécution, de mettre en avant et de mieux valoriser le label VPF (viande porcine française). Ce plan d'ampleur pour toute la filière permettra de redonner des perspectives à la filière porcine.
