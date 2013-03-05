@@ -1,0 +1,9 @@
+# Réponse à la question n° 13123
+
+- Question : [13123](13123.md) — Question n° 13123 — réformés; perspectives
+
+## Réponse
+
+*JO du 2013-03-05*
+
+La loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires dispose en son article 5 que « nul ne peut avoir la qualité de fonctionnaire s'il ne se trouve en position régulière au regard du code du service national » (5-4° ) et « s'il ne remplit les conditions d'aptitude physique exigées pour l'exercice de la fonction compte tenu des possibilités de compensation du handicap » (5-5° ). Des dispositions analogues sont prévues à l'article 5 bis de la loi précitée pour les ressortissants des États membres de la Communauté européenne ou d'un autre État partie à l'accord sur l'espace économique européen autres que la France qui ont accès, dans les conditions prévues au statut général, aux corps, cadres d'emplois et emplois. La loi n° 97-1019 du 28 octobre 1997 portant réforme du service national rend opposable à son article 2 « jusqu'au 1er janvier 2003, le livre II du code du service national qui s'applique aux Français, aux étrangers sans nationalité et aux bénéficiaires du droit d'asile, nés avant le 1er janvier 1979, ainsi qu'aux personnes rattachées aux mêmes classes de recensement ». Il résulte de ces dispositions que depuis le 1er janvier 2003, les personnes âgées de plus de 25 ans, y compris celles nées avant le 1er janvier 1979 sont dispensées de leurs obligations du service national et, à ce titre, aucun justificatif n'est demandé aux intéressés. Cette position est confirmée par la direction du service national du ministère de la défense. Il convient de préciser que la notion d'inaptitude physique également l'inaptitude d'ordre psychiatrique peut constituer pour un agent stagiaire une base légale de non titularisation (cour administrative d'appel de Nantes, 7 mars 1996, n° 94NT00609).
