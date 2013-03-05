@@ -1,0 +1,9 @@
+# Réponse à la question n° 752
+
+- Question : [752](752.md) — Question n° 752 — bilan
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Depuis 30 ans, le paysage mémoriel français s'est enrichi de plusieurs fondations dont la création a été essentiellement à l'initiative du monde combattant. Ces fondations sont devenues au fil du temps des acteurs majeurs de la politique de mémoire conduite par le ministre chargé des anciens combattants. Les principales d'entre elles sont actuellement au nombre de huit : La Fondation de la France libre, la Fondation de la Résistance, la Fondation pour la mémoire de la Déportation, la Fondation Charles de Gaulle, la Fondation pour la mémoire de la Shoah, la Fondation de Lattre, la Fondation pour la mémoire de la guerre d'Algérie, des combats du Maroc et de Tunisie et la Fondation du camp des Milles. L'Etat porte une attention toute particulière à ces institutions qui répondent pour partie au problème du vieillissement des structures associatives combattantes. Aussi a-t-il noué des liens étroits avec elles dans le cadre du partenariat permanent qu'il entretient avec le monde combattant. Présent au conseil d'administration de la plupart d'entre elles, il s'est engagé à leur donner les moyens financiers nécessaires pour garantir leur indépendance et leur fonctionnement, et permettre la mise en oeuvre de leurs projets mémoriels. Ce soutien des pouvoirs publics peut également être d'ordre administratif ou juridique. Cependant, la rationalisation du paysage des fondations de mémoire nécessite aujourd'hui de franchir une nouvelle étape dans les relations qu'elles entretiennent avec l'Etat. Cette évolution pourrait s'inscrire dans le cadre de la création d'un Haut Conseil auprès du ministre délégué dont l'une des sections regrouperait les fondations et les associations de mémoire.
