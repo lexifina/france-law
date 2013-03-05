@@ -1,0 +1,9 @@
+# Réponse à la question n° 16055
+
+- Question : [16055](16055.md) — Question n° 16055 — conseil supérieur des gens de la mer; composition
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Le décret n° 2010-1009 du 30 août 2010 relatif à l'organisation administrative et financière de l'Établissement national des invalides de la marine (ENIM) a abrogé le conseil supérieur de I'ENIM et mis en place une nouvelle gouvernance. La composition du conseil d'administration de l'ENIM et la nomination de ses représentants sont prévus au titre II du décret. Parmi ces représentants figurent les organisations professionnelles maritimes des quatre grands domaines d'activité maritime (cultures marines, commerce, pêche et plaisance professionnelle). Les associations de pensionnés ne sont pas représentées au sein de ce conseil. Toutefois, les organisations professionnelles maritimes contribuent, dans l'intérêt du monde maritime, à la défense de tous les marins, y compris des marins retraités. Un compte-rendu sera diffusé après chaque conseil d'administration dans la nouvelle lettre partenaire de I'ENIM. Le décret n° 2011-2109 du 30 décembre 2011 portant création du conseil supérieur des gens de mer est paru au Journal officiel de la République française du 31 décembre 2011. Ce conseil comporte trois formations dont l'une est chargée des questions relatives à la profession de marin et à la protection sociale des gens de mer. Cette formation comporte, parmi ses membres, cinq représentants des pensionnés du régime de sécurité sociale des marins, soit un nombre de représentants identique à celui de l'ancien conseil supérieur de l'ENIM. Le conseil s'est réuni pour la première fois le 1er juin 2012 et pour la seconde fois le 19 septembre dernier. Le président du conseil supérieur des gens de mer veille à ce que les pensionnés prennent une part active aux débats au sein de ce conseil.
