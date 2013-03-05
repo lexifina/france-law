@@ -1,0 +1,9 @@
+# Réponse à la question n° 11155
+
+- Question : [11155](11155.md) — Question n° 11155 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-03-05*
+
+En vertu d'un arrêté du 3 février 1995, le conseil scientifique du service de santé des armées (SSA) est chargé, dans le domaine de la recherche, de l'évaluation et de la prospective scientifiques. Cependant, dès l'année 2000, une démarche génératrice d'économies de moyens et de coordination des actions menées par les 4 organismes assurant la fonction recherche du SSA, situés à La Tronche, Marseille, Toulon et Brétigny-sur-Orge, a été mise en oeuvre. Ce processus a abouti, le 1er mars 2009, à la création de l'institut de recherche biomédicale des armées, établissement unique de recherche du SSA, actuellement en cours d'implantation à Brétigny-sur-Orge. Au regard de l'importante réorganisation de la filière recherche du SSA, mais également de celle de ses partenaires au sein des forces et de la direction générale de l'armement (DGA), il est apparu nécessaire de transférer les attributions du conseil scientifique à une nouvelle instance de concertation mieux adaptée à l'ensemble de ces évolutions fonctionnelles et structurelles : le conseil d'orientation de la recherche (CORe) du SSA. Cet organisme, qui ne bénéficie d'aucun moyen financier ou humain spécifique pour assurer son fonctionnement, se réunit une fois par an. Il associe outre la direction centrale du service de santé des armées, l'état-major des armées, les trois états-majors d'armée, la DGA, la direction générale de la gendarmerie nationale et l'institut national de la santé et de la recherche médicale. Dans ce contexte, la suppression du conseil scientifique devrait intervenir prochainement en application des conclusions du comité interministériel pour la modernisation de l'action publique qui s'est tenu le 18 décembre 2012.
