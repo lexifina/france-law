@@ -1,0 +1,9 @@
+# Réponse à la question n° 6911
+
+- Question : [6911](6911.md) — Question n° 6911 — personnes protégées; réglementation
+
+## Réponse
+
+*JO du 2013-03-05*
+
+L'assurance-vie est un contrat par lequel, en échange de primes, l'assureur s'engage à verser au souscripteur ou au tiers par lui désigné une somme déterminée en cas de mort de la personne assurée ou de sa survie à une date déterminée. Elle est dite « en cas de décès » lorsque le seul risque couvert est la mort de l'assuré et « en cas de vie » lorsque le seul « risque » couvert est la survie de l'intéressé. Elle est appelée « mixte » lorsque les deux risques sont couverts, l'assureur s'engageant alors à payer la somme prévue, soit à l'assuré lui-même s'il est vivant au terme fixé, soit, s'il meurt avant ce terme, au bénéficiaire désigné. Les deux premiers alinéas de l'article L. 132-3 du code des assurances disposent qu'il est défendu à toute personne de contracter une assurance en cas de décès sur la tête d'un mineur âgé de moins de douze ans, d'un majeur en tutelle, d'une personne placée dans un établissement psychiatrique d'hospitalisation. Toute assurance contractée en violation de cette prohibition est nulle. Cette interdiction ne concerne que l'assurance « en cas de décès » prise au sens strict. Le législateur vise en effet à protéger les personnes vulnérables, afin d'éviter qu'il soit spéculé sur leur mort pour obtenir le versement d'un capital. En revanche, le dernier alinéa de l'article L. 132-3 autorise la souscription de contrats d'assurance « en cas de vie » comprenant une clause de « contre-assurance », par laquelle l'assureur s'engage, en cas de décès de l'assuré avant l'échéance du contrat, à rembourser au bénéficiaire désigné ou aux ayants droit les sommes versées pour alimenter le contrat. En effet, il s'agit ici de favoriser la constitution d'un capital au bénéfice des personnes protégées, puisque le « risque » assuré est la survie de la personne vulnérable.
