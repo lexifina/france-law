@@ -1,0 +1,9 @@
+# Réponse à la question n° 10211
+
+- Question : [10211](10211.md) — Question n° 10211 — pensions militaires d'invalidité; indice; perspectives
+
+## Réponse
+
+*JO du 2013-03-05*
+
+L'article 117 de la loi de finances pour 2005, modifiant l'article L. 8 bis du code des pensions militaires d'invalidité et des victimes de la guerre, a institué un rapport constant entre le montant des pensions attribuées au titre de ce code et les traitements des fonctionnaires. Ainsi, la valeur du point de pension militaire d'invalidité (PMI) est désormais révisée proportionnellement à l'évolution de l'indice INSEE des traitements bruts de la fonction publique de l'État, à la date de cette évolution, et non plus de manière rétroactive comme dans le dispositif en vigueur auparavant. Si ce processus de révision n'intègre pas les primes des agents de la fonction publique, qui n'en bénéficient pas tous, il prend en compte, en revanche, les mesures éventuelles de repyramidage de corps et de revalorisation indiciaire des traitements de ces agents. En tout état de cause, l'indice INSEE des traitements bruts de la fonction publique de l'État est la seule référence pour l'évolution de la valeur du point de PMI, fixée à 13,91 euros depuis le 1er janvier 2012, conformément à l'arrêté du 12 octobre 2012 publié au Journal officiel de la République française du 24 octobre 2012. Ces dispositions permettent une revalorisation régulière des pensions militaires d'invalidité, de la retraite du combattant et de la retraite mutualiste. S'il n'est pas envisagé de revenir sur ce dispositif qui a été mis en place en concertation avec les principales associations du monde combattant, le ministre délégué auprès du ministre de la défense, chargé des anciens combattants, s'est engagé toutefois à veiller à la publication rapide, dès la fixation des nouveaux indices de l'INSEE, des arrêtés fixant la nouvelle valeur du point d'indice de pension.
