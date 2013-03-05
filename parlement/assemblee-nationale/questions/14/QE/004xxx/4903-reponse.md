@@ -1,0 +1,9 @@
+# Réponse à la question n° 4903
+
+- Question : [4903](4903.md) — Question n° 4903 — barrières de dégel; impacts économiques
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Lors d'épisodes hivernaux comportant une longue période de gel sans dégel, les gestionnaires de chaussées peuvent être amenés à proposer, au moment du dégel, des mesures de restriction de la circulation des poids lourds, limitant le tonnage des véhicules autorisés à emprunter certaines routes. Ces mesures dites « barrières de dégel » permettent d'éviter d'importantes dégradations, voire la mine totale des chaussées lorsque celles-ci sont de faible épaisseur. Selon la vulnérabilité des chaussées, le tonnage est limité à 3,5 tonnes, 7,5 tonnes ou « 12 tonnes et demi-charge ». L'épisode de froid intense qu'a connu la France métropolitaine début 2012 a duré une douzaine de jours, à partir de la fin du mois de janvier, et a touché les deux tiers des départements d'une manière plus ou moins sévère. Le réchauffement rapide qui a suivi a entraîné la mise en place de barrières de dégel dans de très nombreux départements, dès la mi-février. Selon les sites, ces barrières ont été levées entre le 17 février sur la façade ouest de la France et le 12 mars dans l'est de la France. Le réseau routier national n'est pratiquement pas concerné par de telles mesures, la quasi-totalité des chaussées le constituant ayant fait l'objet de travaux de mise hors gel. Pour ce qui concerne les autres routes, ce sont les collectivités locales qui prennent ces décisions après une analyse technico-économique intégrant la nécessaire protection du patrimoine routier et les enjeux économiques liés au transport des marchandises. C'est lors de cette analyse que sont évaluées les incidences des risques d'une rupture d'approvisionnement en matières premières de certaines entreprises, notamment celles dédiées à l'alimentation humaine ou animale.
