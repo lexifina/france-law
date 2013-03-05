@@ -1,0 +1,9 @@
+# Réponse à la question n° 11380
+
+- Question : [11380](11380.md) — Question n° 11380 — musées nationaux; Cour des comptes; rapport; propositions
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Le système de l'affectation d'une partie des produits d'entrée dans les collections permanentes à des acquisitions d'objets d'art a été maintenu dans les établissements publics pour lesquels les textes statutaires le prévoyaient (20 % pour le Louvre et le musée du Quai Branly, 16 % pour le musée d'Orsay, notamment). Ce dispositif d'affectation d'une partie des recettes de billetterie aux acquisitions a permis d'initier un cercle vertueux qui relève de la logique de l'investissement et de l'enrichissement du patrimoine national. Les collections nationales croissent grâce au succès de fréquentation rencontré par ces musées qui bénéficient à leur tour de la vitalité des collections dont ils ont la garde, suscitant ainsi une fréquentation plus importante. Si une réflexion sur l'intégration d'autres dépenses (comme celles induites par la restauration des oeuvres appartenant aux collections nationales et confiées à la garde des musées, par exemple) dans le périmètre des dépenses couvertes grâce à ce mécanisme peut être initiée, ce dispositif, qui a démontré toute sa justification, doit être structurellement et statutairement préservé. Pour les musées sous statut de service à compétence nationale et les musées de petite taille, le mécanisme d'acquisition sur ressources mutualisées a bien été conservé, mais les ressources disponibles ont été, en raison des contraintes budgétaires actuelles, temporairement diminuées. Sur le plan fonctionnel, le maintien de la capacité d'acquisition au profit des musées sous statut de service à compétence nationale et des musées de petite taille a été conforté par la conclusion d'une convention entre le ministère et l'établissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Élysées.
