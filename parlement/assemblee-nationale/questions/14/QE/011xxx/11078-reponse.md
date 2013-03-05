@@ -1,0 +1,9 @@
+# Réponse à la question n° 11078
+
+- Question : [11078](11078.md) — Question n° 11078 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Par arrêté en cours de préparation, il sera mis fin à la Commission de la sécurité de la circulation aérienne, créée par arrêté du 6 juin 2006 et issue d'une instance datant de 1991, chargée d'analyser certains événements d'aviation civile. La dernière réunion de la Commission a eu lieu en octobre 2012. Les activités de cette Commission, qui se réunissait environ cinq fois par an, visaient à produire des recommandations de sécurité aux interfaces entre les utilisateurs civils de l'espace aérien et les services civils de la navigation aérienne. Ces activités étaient devenues redondantes avec : - l'évolution des systèmes de traitement des événements par les services civils de navigation aérienne qui sont cadrés par des exigences européennes ; - les analyses particulières conduites par la direction de la sécurité de l'aviation civile (DSAC) dans le cadre du « programme de sécurité de l'État », mis en place au cours des dernières années en réponse à une exigence mondiale formulée par l'Organisation de l'aviation civile internationale (OACI) ; - l'implication accrue du Bureau d'enquêtes et d'analyses de l'aviation civile (BEA) dans le type d'incidents qui était du ressort de cette Commission. Par ailleurs, la direction générale de l'aviation civile (DGAC) a décidé qu'un thème de sécurité qui ne serait pas étudié par les structures précédentes pourrait faire l'objet d'un groupe de travail réunissant les différents partenaires, avec un mandat précis et une durée déterminée. La Commission de la sécurité de la circulation aérienne est au nombre des instances consultatives dont la suppression est prévue en application des conclusions du comité interministériel pour la modernisation de l'action publique.
