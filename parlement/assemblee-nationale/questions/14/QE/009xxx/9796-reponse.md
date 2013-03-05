@@ -1,0 +1,9 @@
+# Réponse à la question n° 9796
+
+- Question : [9796](9796.md) — Question n° 9796 — instances de réflexion; statistiques
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Le décret n° 2012-565 du 24 avril 2012 a mis en place la commission nationale des formations aux soins d'urgence en situation sanitaire normale et exceptionnelle, qui se substitue à la commission nationale des formations aux soins d'urgence et à la gestion de crises. Dans le cadre de la politique menée par le ministère de la santé visant à une meilleure formation de la population et des personnels des établissements de santé aux gestes et soins d'urgence, il est en effet apparu indispensable de continuer à disposer d'une instance consultative dans ce domaine. Cette nouvelle commission dispose d'un champ de compétences accru, notamment en ce qui concerne les formations à la gestion des situations sanitaires exceptionnelles. Du fait de la publication relativement récente de sa composition, la commission ne s'est pas réunie en 2012. En conséquence, aucun élément relatif à son fonctionnement n'est disponible pour l'année considérée. Au-delà du cas particulier faisant l'objet de la présente question, il convient de souligner que le Gouvernement souhaite réformer les pratiques de consultation préalable à la prise de décision et mettre un terme à l'inflation du nombre de commissions consultatives. Le comité interministériel de la modernisation de l'action publique du 18 décembre 2012 a ainsi fixé les orientations d'une nouvelle politique de la consultation. Conformément à ces orientations, chaque ministère dressera une cartographie faisant apparaître sa stratégie de consultation et examinera les possibilités de fusion ou de réorganisation des instances consultatives permettant d'en réduire le nombre et de renouveler les pratiques en privilégiant les modes de concertation ouverts ou informels. La présente réponse ne préjuge pas des décisions qui seront prises dans ce cadre.
