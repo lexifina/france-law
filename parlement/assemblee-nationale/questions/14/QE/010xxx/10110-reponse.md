@@ -1,0 +1,9 @@
+# Réponse à la question n° 10110
+
+- Question : [10110](10110.md) — Question n° 10110 — capacité professionnelle; réglementation
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Le règlement 1071/2009 du Parlement et du Conseil en date du 21 octobre 2009 établissant les règles communes sur les conditions à respecter pour exercer les professions de transporteurs par route a conduit à modifier profondément les règles mises en place dans notre réglementation. Le décret n° 99-752 du 30 août 1999 relatif aux transports routiers de marchandises modifié par le décret n° 2011-2045 du 28 décembre 2011 intègre désormais les nouvelles règles pour l'accès à la profession de transporteur. Ces modifications ont également été intégrées dans la réglementation concernant le transport de personnes. La voie de l'examen devient la voie principale pour obtenir la capacité professionnelle nécessaire à l'exercice de la profession de transporteur public routier. Deux autres voies sont toutefois maintenues : celle des diplômes, titres ou certificats, qui ne peut être retenue que pour ceux figurant dans une liste ayant fait l'objet d'une décision ministérielle, et celle de l'expérience professionnelle. La voie de l'expérience professionnelle ne peut être utilisée que par les personnes justifiant avoir, au cours des 10 années précédant le 4 décembre 2009, géré de manière continue une entreprise de transport public routier de marchandises. L'arrêté du 28 décembre 2011 relatif à la délivrance des attestations de capacité professionnelle permettant l'exercice de la profession de transporteur public routier précise les modalités de reconnaissance de cette expérience professionnelle qui est désormais établie exclusivement sur dossier. Les candidats ne sont plus convoqués devant la Commission consultative régionale qui appréciait si leurs connaissances justifiaient le suivi d'un ou deux stages pour être complétées.
