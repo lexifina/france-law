@@ -1,0 +1,9 @@
+# Réponse à la question n° 16123
+
+- Question : [16123](16123.md) — Question n° 16123 — situation politique
+
+## Réponse
+
+*JO du 2013-03-05*
+
+La France suit avec la plus grande attention la situation des droits de l'Homme et des communautés tamoules à Sri Lanka. Depuis la fin du conflit armé en mai 2009, la France a appelé à de nombreuses reprises à des investigations crédibles et impartiales sur les allégations de violations du droit international humanitaire susceptibles d'avoir été commises pendant les combats. La France soutient les conclusions du panel d'experts mandaté par le secrétaire général des Nations unies. Publié le 25 avril 2011, son rapport confirme que des crimes de guerre ont été commis par l'ensemble des parties au conflit, lors des mois précédant la victoire des troupes gouvernementales contre les Tigres de libération de l'Eelam tamoul. La communauté internationale a d'ores-et-déjà pris des mesures pour encourager Colombo à s'engager plus fermement sur la voie de la réconciliation nationale. Le 22 mars 2012, le conseil des droits de l'Homme (CDH) a adopté, avec le soutien de la France, une résolution appelant le gouvernement sri lankais à mettre en oeuvre les recommandations de la commission sri lankaise pour la réconciliation et à prendre toutes les mesures nécessaires à la lutte contre l'impunité. Lors de l'examen public universel de Sri Lanka au CDH en novembre dernier, la France a exprimé son inquiétude face à la faiblesse de l'Etat de droit dans ce pays. Le conseil des droits de l'Homme examinera à nouveau en mars 2013 la situation à Sri Lanka, avec la présentation du rapport du haut commissaire aux droits de l'Homme, conformément à la résolution adoptée un an auparavant. La France continuera à plaider dans ce cadre en faveur de la lutte contre l'impunité, la réconciliation et le respect de l'Etat de droit.
