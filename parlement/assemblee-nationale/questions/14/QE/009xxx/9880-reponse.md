@@ -1,0 +1,9 @@
+# Réponse à la question n° 9880
+
+- Question : [9880](9880.md) — Question n° 9880 — moyens; comité stratégique pour le numérique
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Le Comité stratégique pour le numérique a été créé par le décret n° 2006-502 du 3 mai 2006. Il avait pour mission de coordonner et d'orienter les actions menées en vue de la numérisation de la diffusion hertzienne de la télévision, de l'arrêt complet des émissions analogiques et de la réutilisation des fréquences ainsi libérées. De nouvelles missions lui ont été confiées à la suite de l'extinction de la diffusion analogique. Le décret n° 2012-612 du 2 mai 2012 l'a chargé de définir les orientations de nature à assurer une allocation optimale des fréquences hertziennes utilisées par les services de radiodiffusion, de communications électroniques et de sécurité publique et de coordonner les actions nécessaires à la modernisation de la diffusion de la télévision numérique terrestre par l'adoption de nouvelles normes de diffusion et de codage. Le Comité stratégique pour le numérique a été rattaché budgétairement aux services du Premier ministre. S'agissant des ressources humaines, le comité bénéficie d'un personnel de catégorie A (secrétaire général) et d'un personnel de catégorie C (secrétaire) dont les rémunérations sont assurées par les services du Premier ministre. En 2011, la masse salariale s'est élevée à 309 974 € pour 2,1 ETPT. Pour 2012, la masse salariale est estimée à 305 724 € pour 2 ETPT. S'agissant des moyens de fonctionnement, 37 500 € ont été alloués au comité pour l'exercice 2012 (39 000 € en 2011). Ces moyens ne comprennent pas les dépenses relatives à l'occupation des locaux et à l'accès aux réseaux de communication, qui sont mutualisées. Il est apparu que le pilotage du développement du numérique pouvait être rationalisé. Le décret n° 2013-130 du 8 février 2013 a en conséquence supprimé le Comité stratégique pour le numérique à compter du 1er mars 2013.
