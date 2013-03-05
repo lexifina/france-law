@@ -1,0 +1,9 @@
+# Réponse à la question n° 7091
+
+- Question : [7091](7091.md) — Question n° 7091 — doctorants; aides de l'État
+
+## Réponse
+
+*JO du 2013-03-05*
+
+Le contrat doctoral constitue la principale forme de soutien susceptible d'être attribué aux étudiants qui préparent un doctorat. Les doctorants inscrits en première année de thèse depuis moins de six mois peuvent solliciter l'obtention d'un contrat doctoral. Celui-ci, d'une durée de trois ans apporte toutes les garanties sociales d'un contrat de travail. Grâce à ce contrat unique, les doctorants contractuels sont des agents non titulaires de droit public, qui bénéficient d'un statut vis-à-vis de l'établissement public recruteur. La formation doctorale prévoit que les jeunes chercheurs effectuent les recherches liées à la thèse durant trois années. Il n'est pas envisagé de dissocier la durée réglementaire de préparation au doctorat de celle du financement et ce uniquement pour les doctorants dans le champ disciplinaire des sciences humaines. L'intention du ministère consiste plutôt à approfondir le dialogue avec les représentants des disciplines concernées, vers une évolution des pratiques et d'un accompagnement renforcé des doctorants au sein des établissements. Par ailleurs, le gouvernement étudie actuellement les modalités pour supprimer la limite d'âge pour les agents temporaires vacataires. Cette mesure profitera à l'ensemble des doctorants qui pourront assurer des travaux dirigés au sein des établissements d'enseignement supérieur. Enfin, comme l'a confirmé la ministre de la justice et garde des sceaux, les docteurs en droit continueront à bénéficier d'un accès à la formation théorique et pratique du centre régional de la formation professionnelle des avocats, sans avoir à passer au préalable un examen. Par cette décision, le gouvernement rappelle sa volonté de voir les docteurs irriguer tant le service public d'enseignement supérieur que les administrations et le secteur privé.
