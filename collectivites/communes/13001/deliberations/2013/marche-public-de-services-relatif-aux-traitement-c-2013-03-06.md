@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — MARCHE PUBLIC DE SERVICES RELATIF AUX TRAITEMENT, CONDITIONNEMENT, ENTRETIEN, CONSERVATION ET PRESTATIONS DE CONSERVATION - RESTAURATION DES COLLECTIONS DE TEXTILES ET DE LEURS ACCESSOIRES
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2013-03-06
+- Séance : Conseil Municipal 1CA
+- Objet : MARCHE PUBLIC DE SERVICES RELATIF AUX TRAITEMENT, CONDITIONNEMENT, ENTRETIEN, CONSERVATION ET PRESTATIONS DE CONSERVATION - RESTAURATION DES COLLECTIONS DE TEXTILES ET DE LEURS ACCESSOIRES
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-4889-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
