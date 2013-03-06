@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ASSOCIATION UN TOIT - OPERATION 'PRESBYTERE DE LUYNES' - CREATION DE QUATRE LOGEMENTS SOCIAUX - EMPRUNT PLAI DE 96 600 EUROS A SOUSCRIRE AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATION - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 45 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2013-03-06
+- Séance : Conseil Municipal 1CA
+- Objet : ASSOCIATION UN TOIT - OPERATION 'PRESBYTERE DE LUYNES' - CREATION DE QUATRE LOGEMENTS SOCIAUX - EMPRUNT PLAI DE 96 600 EUROS A SOUSCRIRE AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATION - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 45 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-4871-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
