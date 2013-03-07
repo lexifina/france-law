@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204775
+
+- Question : [SEQ130204775](seq130204775.md) — Possibilité pour un huissier de justice de pénétrer dans un hôtel de ville
+
+## Réponse
+
+*Justice, JO du 2013-03-07, page 811*
+
+L'enquête publique a pour objet d'assurer l'information et la participation du public ainsi que la prise en compte des intérêts des tiers lors de l'élaboration des décisions susceptibles d'affecter l'environnement. À cette fin, le public est averti, quinze jours au moins avant le début de l'enquête, des lieux ainsi que des jours et heures où il pourra consulter le dossier d'enquête et présenter ses observations sur le registre ouvert à cet effet (article R. 123-9 du code de l'environnement). Dès lors que l'enquête publique est une procédure ouverte au public, un huissier de justice peut, sans avoir à justifier d'une autorisation préalable du juge, accéder aux lieux où l'enquête est organisée, aux heures d'ouverture prévues, afin de constater la nature et la teneur des documents mis à la disposition du public. Dans ce cas le maire ne peut, sauf motif d'ordre public, s'opposer à sa visite. Les personnes souhaitant obtenir un constat en vue de la collecte et de la préservation d'éléments de preuves potentiels peuvent également, sur le fondement de l'article R. 531-1 du code de justice administrative, saisir le juge des référés du tribunal administratif. Le juge des référés ordonnera la mesure de constat s'il n'est rien demandé de plus que la constatation de faits, si ces faits sont susceptibles de donner lieu à un litige relevant de la compétence de la juridiction administrative et si la mesure sollicitée présente un caractère utile. Dans ce cas le défendeur est immédiatement averti et peut être représenté lors des opérations de constat. Il peut s'opposer à la tenue de ces opérations par la voie de l'appel ou celle de la tierce-opposition, selon les cas.
