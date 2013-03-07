@@ -1,6 +1,6 @@
 # Article Annexe IV
 
-LES ÉPREUVES DU STAGE NATIONAL DE FORMATION PRATIQUE
+ÉPREUVES DE L'EXAMEN NATIONAL DU DIPLÔME D'ARME
 
 ÉPREUVES
 
@@ -30,7 +30,7 @@ Conduite d'une mission du niveau chef de groupe
 
 |
 
-trente minutes
+Trente minutes
 
 |
 
@@ -50,7 +50,7 @@ Epreuves pratiques de contrôle de connaissances sous forme d'un rallye individu
 
 |
 
-vingt minutes
+Vingt minutes
 
 |
 
@@ -70,11 +70,11 @@ Epreuve de mise en corrélation du terrain et de la carte à partir d'un point f
 
 |
 
-trente minutes
+Trente minutes
 
 |
 
-5
+2,5
 
 |
 
@@ -82,11 +82,11 @@ Epreuve d'orientation en déplacement
 
 |
 
-trente minutes
+Trente minutes
 
 |
 
-5
+2,5
 
 |
 
@@ -102,7 +102,7 @@ Conduite d'une séance d'instruction ou de travail avec un temps de préparation
 
 |
 
-trente minutes
+Trente minutes
 
 |
 
@@ -126,7 +126,7 @@ Conduite d'une mission du niveau chef de groupe
 
 |
 
-trente minutes
+Trente minutes
 
 |
 
@@ -146,7 +146,7 @@ Conduite d'une mission du niveau chef de groupe
 
 |
 
-trente minutes
+Trente minutes
 
 |
 
@@ -166,7 +166,7 @@ Epreuves pratiques de contrôle de connaissances sous forme d'un rallye individu
 
 |
 
-trente minutes
+Trente minutes
 
 |
 
@@ -174,7 +174,9 @@ trente minutes
 
 |
 
-Tir pistolet automatique et armes longues
+Tir au pistolet automatique
+
+et aux armes longues
 
 |
 
@@ -206,7 +208,7 @@ Les candidats sont reçus individuellement par les examinateurs du jury. Cet ent
 
 |
 
-vingt minutes
+Vingt minutes
 
 |
 
@@ -566,7 +568,7 @@ NOTE
 
 |
 
-Temps > 14'00
+> 14'00
 
 |
 
