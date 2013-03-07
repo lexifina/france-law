@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203499
+
+- Question : [SEQ121203499](seq121203499.md) — Dispositif mobile Itinera de recueil des données biométriques
+
+## Réponse
+
+*Français de l'étranger, JO du 2013-03-07, page 809*
+
+Le dispositif Itinera ne diffère des dispositifs de recueil disponibles au sein des postes diplomatiques et consulaires que par le caractère portatif des équipements. Comme ces derniers, ils sont fournis par l'Agence nationale des titres sécurisés (ANTS), qui prend en charge l'ensemble des coûts de fabrication, lesquels ne sont pas précisés au ministère des affaires étrangères. L'utilisation de ce dispositif est hautement sécurisée, tant pour l'accès au logiciel TES (titres électroniques sécurisés) que pour la mise en route propre de l'ordinateur portable. Les données biométriques recueillies sont transmises de manière cryptée et ne sont pas stockées dans la valise. Ces outils offrent le même degré de sécurité que les dispositifs fixes installés dans les mairies et les postes diplomatiques et consulaires. Le déploiement du dispositif a été retardé du fait de la nécessité de procéder à des tests approfondis de fonctionnement, notamment sur le plan de la sécurité, ce qui n'était pas compatible avec la priorité donnée à la mise en place d'applications spécifiques pour les élections en 2012. Onze postes consulaires sont actuellement dotés d'une valise Itinera, dans le cadre de la phase dite « pilote ». Un bilan de cette expérience sera effectué en janvier 2013, et le déploiement à l'ensemble du réseau suivra, dès lors que les bons résultats obtenus se confirmeront. La répartition par poste s'est effectuée selon les critères suivants : importance de la communauté française et éloignement par rapport au poste consulaire, coût et difficulté des transports, sécurité des déplacements, conditions topographiques particulières, discontinuité du territoire de la circonscription.
