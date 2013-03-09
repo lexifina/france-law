@@ -2,39 +2,39 @@
 
 I. - La valeur des coefficients de proportionnalité "k" mentionnés dans le présent arrêté est fixée comme suit :
 
-Redevance de production.
+Redevance de production
 
 |
 
-k0 = 1
+k0 = (1 - 4 %)
 
 |
 
-Redevance de gestion de navigabilité.
+Redevance de gestion de navigabilité
 
 |
 
-k1 = 1 × Th
+K1 = (1 - 4 %) × Th
 
 |
 
-Redevance de maintenance.
+Redevance de maintenance
 
 |
 
-K2 = 1 × Th
+k2 = (1 - 4 %) × Th
 
 |
 
-Redevance d'organisme de formation de personnel de maintenance.
+Redevance d'organisme de formation de personnel de maintenance
 
 |
 
-K3 = 0,5 × Th
+k3 = 0,5 × (1 - 4 %) × Th
 
 |
 
-Redevance d'exploitant d'aéronefs.
+Redevance d'exploitant d'aéronefs
 
 |
 
@@ -44,7 +44,7 @@ k5 = 143
 
 |
 
-Redevance de sécurité et de sûreté d'exploitant d'aérodrome.
+Redevance de sécurité et de sûreté d'exploitant d'aérodrome
 
 |
 
@@ -54,15 +54,15 @@ k7 = 0,32
 
 |
 
-Redevance de sûreté aérienne de transporteur.
+Redevance de sûreté aérienne de transporteur
 
 |
 
-K8 = 0,80
+k8 = 0,80
 
 |
 
-Redevance d'organisme de formation de personnel navigant.
+Redevance d'organisme de formation de personnel navigant
 
 |
 
@@ -70,11 +70,11 @@ k9 = 750
 
 |
 
-Redevance d'aptitude au vol.
+Redevance d'aptitude au vol
 
 |
 
-k10 = 1 × Th
+K10 = (1 - 4 %) × Th
 
 |
 
@@ -82,7 +82,7 @@ Dans le tableau ci-dessus, le montant de Th est fixé au V ci-dessous.
 
 II. - Le plafond du montant de la redevance d'exploitant d'aéronef mentionné à l'article 5 du présent arrêté est fixé à 6 150 000 €.
 
-III. - La valeur du coefficient N mentionné à l'article 12 est fixée à 8,81.
+III. - La valeur du coefficient N mentionné à l'article 12 est fixée à (1 - 4 %) × 8,81.
 
 IV. - Le tarif des frais d'édition des documents mentionnés à l'article 12 du présent arrêté est fixé, par édition d'un document, à 50 €.
 
