@@ -102,13 +102,9 @@ Artois-Picardie.
 
 |
 
-DIREN Nord -Pas-de-Calais.
+DREAL Nord-Pas-de-Calais. |
 
-|
-
-Fleuves côtiers du Boulonnais, Aa, Lys, Scarpe, Escaut, Sambre, Canche, Authie, Somme.
-
-|
+Fleuves côtiers du Boulonnais, Aa, Lys, Scarpe, Escaut, Sambre, Canche, Authie, Somme. |
 
 Loire-Bretagne
 
@@ -118,11 +114,9 @@ Allier.
 
 |
 
-DDE du Puy-de-Dôme.
+DREAL Auvergne. |
 
-|
-
-Allier.
+Bassin de l'Allier.
 
 |
 
@@ -166,9 +160,7 @@ Vilaine-côtiers bretons.
 
 |
 
-DDE d'Ille-et-Vilaine.
-
-|
+DREAL Bretagne. |
 
 Côtiers bretons, de la Vilaine au Couesnon inclus.
 
@@ -182,11 +174,9 @@ Rhin-Sarre.
 
 |
 
-SN Strasbourg.
+DREAL Alsace. |
 
-|
-
-Rhin, Sarre, Ill, Zorn.
+Rhin et ses affluents alsaciens, Sarre (Nieds exclus).
 
 |
 
@@ -194,11 +184,9 @@ Meuse-Moselle.
 
 |
 
-DIREN Lorraine.
+DREAL Lorraine. |
 
-|
-
-Meuse, Moselle, Nieds.
+Bassin de la Meuse, bassin de la Moselle y compris Nieds (Sarre exclue).
 
 |
 
@@ -210,11 +198,9 @@ Rhône amont-Saône.
 
 |
 
-DIREN Rhône-Alpes.
+DREAL Rhône-Alpes. |
 
-|
-
-Saône, Rhône (rive droite du Rhône jusqu'à la limite nord du département de l'Ardèche, rive gauche du Rhône du Guiers [non inclus] à la limite nord du département de la Drôme).
+Saône, Rhône et ses affluents jusqu'à la limite nord du département de la Drôme, exceptés les bassins concernés par le service de prévision des crues Alpes du Nord.
 
 |
 
@@ -222,23 +208,19 @@ Alpes du Nord.
 
 |
 
-DDE de l'Isère.
+DREAL Rhône-Alpes. |
 
-|
-
-Isère, rive gauche du Rhône jusqu'au Guiers (inclus) et les affluents rive gauche de la limite nord du département de la Drôme au bassin versant de l'Isère inclus.
-
-|
+Isère, les affluents rive gauche du lac Léman et du Rhône jusqu'au Guiers (inclus), les affluents rive gauche du Rhône du Dolon (inclus) à l'Isère. |
 
 Grand Delta.
 
 |
 
-DDE du Gard.
+DREAL Rhône-Alpes.
 
 |
 
-Rhône aval (rive droite à l'aval de la limite nord du département de l'Ardèche, rive gauche à l'aval du bassin versant de l'Isère), Vidourle, Vistre.
+Rhône aval (à l'aval de la limite nord du département de la Drôme), et ses principaux affluents, bassins du Vidourle et du Vistre.
 
 |
 
@@ -246,11 +228,11 @@ Méditerranée Ouest.
 
 |
 
-DDE de l'Aude.
+DREAL Languedoc-Roussillon.
 
 |
 
-Tech, Têt, Réart, Agly, Aude, Orb, Hérault, Lez.
+Cours d'eau côtiers méditerranéens à l'ouest du Lez (inclus).
 
 |
 
@@ -262,7 +244,7 @@ Météo-France, DIRSE.
 
 |
 
-Touloubre, Huveaune, Argens, Loup, Siagne, Var.
+Cours d'eau côtiers à l'est du Rhône (non inclus).
 
 |
 
@@ -274,11 +256,11 @@ Seine aval-côtiers normands.
 
 |
 
-DDE de la Seine-Maritime.
+DREAL Haute-Normandie.
 
 |
 
-Seine en aval de la limite sud du département de l'Eure, côtiers normands, Epte.
+Bassin des fleuves côtiers normands, de l'Eure, de l'Epte et de la Seine à partir de la limite sud du département de l'Eure. Fleuve Seine à l'aval du barrage de Poses.
 
 |
 
@@ -286,11 +268,11 @@ Seine moyenne-Yonne-Loing.
 
 |
 
-DIREN Ile-de-France.
+DRIEE.
 
 |
 
-Seine à partir du département de Seine-et-Marne inclus et jusqu'à la limite sud du département de l'Eure, Marne à partir du département de Seine-et-Marne inclus, Yonne, Loing, Oise à partir du département du Val-d'Oise inclus.
+Bassins du Loing, de l'Yonne ; bassin de la Seine en Ile-de-France à l'exception des sous-bassins de l'Eure et de l'Epte. Fleuve Seine de l'Ile-de-France au barrage de Poses.
 
 |
 
@@ -298,11 +280,11 @@ Seine amont-Marne amont.
 
 |
 
-DIREN Champagne-Ardenne.
+DREAL Champagne-Ardenne.
 
 |
 
-Seine en amont du département de Seine-et-Marne, Marne en amont du département de Seine-et-Marne.
+Bassin de la Seine en amont du département de Seine-et-Marne ; bassin de la Marne en amont du département de Seine-et-Marne.
 
 |
 
@@ -310,11 +292,11 @@ Oise-Aisne.
 
 |
 
-SN Seine (arrondissement territorial Picardie).
+DREAL Champagne-Ardenne.
 
 |
 
-Oise en amont du département du Val-d'Oise.
+Bassin de l'Oise en amont du département du Val-d'Oise.
 
 |
 
@@ -454,6 +436,18 @@ Allier.
 
 |
 
+07
+
+|
+
+Ardèche. |
+
+Rhône amont-Saône. |
+
+|
+
+|
+
 08
 
 |
@@ -502,6 +496,8 @@ Seine amont-Marne amont.
 
 |
 
+Seine-Moyenne-Yonne-Loing.
+
 |
 
 |
@@ -534,7 +530,7 @@ Tarn-Lot.
 
 |
 
-|
+Méditerranée Ouest. |
 
 |
 
@@ -1396,6 +1392,18 @@ Artois-Picardie.
 
 |
 
+60
+
+|
+
+Oise. |
+
+Seine amont-Marne amont. |
+
+|
+
+|
+
 61
 
 |
@@ -1696,7 +1704,7 @@ Seine moyenne-Yonne-Loing.
 
 |
 
-|
+Seine aval-côtiers normands. |
 
 |
 
@@ -1750,7 +1758,7 @@ Tarn-Lot.
 
 |
 
-|
+Méditerranée Ouest. |
 
 |
 
@@ -1984,6 +1992,6 @@ Seine moyenne-Yonne-Loing.
 
 |
 
-|
+Seine aval-côtiers normands. |
 
 |
