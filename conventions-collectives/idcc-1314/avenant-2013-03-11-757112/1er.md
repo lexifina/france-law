@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent avenant, qui porte le numéro 58, modifie à compter du 1er avril 2013, l'article 10.E de l'accord collectif national des maisons d'alimentation à succursales, supermarchés, hypermarchés « Gérants-mandataires non-salariés » du 18 juillet 1963 modifié. Il est relatif aux taux de cotisations du régime de prévoyance des gérants mandataires non-salariés. Compte tenu de l'examen des résultats du régime, auquel les parties ont procédé le 28 janvier 2013, il est apparu opportun de prendre des mesures afin d'équilibrer et de pérenniser ledit régime au vu des enjeux de « reprise du passif » suite à la mise en place d'une garantie complémentaire d'invalidité permanente.
