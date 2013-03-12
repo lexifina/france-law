@@ -1,0 +1,9 @@
+# Réponse à la question n° 13494
+
+- Question : [13494](13494.md) — Question n° 13494 — sécurité privée; agréments
+
+## Réponse
+
+*JO du 2013-03-12*
+
+Le livre VI du code de la sécurité intérieure règlementant les activités privées de sécurité fait actuellement l'objet d'une réflexion afin de prendre en compte l'apparition de nouveaux métiers, les évolutions de la structuration du secteur et la spécialisation de certaines activités. Cette révision vise à assurer un équilibre entre la nécessité de professionnaliser et de clarifier le statut juridique de ces activités et celle de respecter la liberté de travailler et d'entreprendre. En raison de l'accès des personnes travaillant dans les entreprises de sécurité privées aux informations sensibles en lien avec la sécurité, un contrôle de moralité peut apparaître justifié. Cependant, afin de concilier garantie des libertés individuelles et impératifs de sécurité, si la professionnalisation du secteur de la sécurité privée apparaît un objectif prioritaire, elle ne doit raisonnablement pas conduire à la multiplication des autorisations d'accès à certaines professions et notamment aux métiers administratifs des entreprises de sécurité privée. On peut en effet s'interroger sur l'opportunité d'un contrôle de moralité systématique de toutes les personnes travaillant dans une entreprise de sécurité privée. En outre, l'installation récente du Conseil national des activités privées de sécurité (CNAPS), établissement public chargé d'instruire les dossiers d'autorisations et de contrôler la profession, doit inciter à ne pas étendre de manière démesurée le périmètre du livre VI du code de la sécurité intérieure et par voie de conséquence le champ des activités relevant de ses missions. Une extension significative du périmètre d'action d'un organisme encore jeune pourrait bouleverser ses modalités d'intervention et le détourner de ses missions principales.
