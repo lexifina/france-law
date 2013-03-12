@@ -1,0 +1,9 @@
+# Réponse à la question n° 13535
+
+- Question : [13535](13535.md) — Question n° 13535 — sécurité; Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2013-03-12*
+
+Le décret n° 2010-130 du 11 février 2010, relatif à l'organisation et aux missions des directions interrégionales de la mer, précise en son article 4 que le directeur interrégional de la mer (DIRM) exerce les compétences propres qui lui sont dévolues par les textes relatifs à la sauvegarde de la vie humaine en mer et à la sécurité des navires. Pour l'exercice de cette compétence, il dispose des centres de sécurité des navires (CSN) qui exercent la mission de contrôle des navires sous son autorité. Cette mission s'effectue désormais dans le cadre d'une démarche « qualité » de la direction des affaires maritimes (DAM) puisque cette dernière a été certifiée le 3 septembre 2012 au titre de la norme ISO 9001-2008 pour l'exercice des trois missions suivantes : - l'inspection de la sécurité des navires (de plus de 12 mètres) ; - la délivrance des titres de sécurité et de prévention de la pollution ; - la délivrance des titres de formation professionnelle maritime. La recommandation de la Cour des comptes, visant à ce que chaque DIRM soit dotée d'un projet de service définissant les stratégies de zone dans leurs missions de contrôle de la sécurité, s'intègre dans les exigences de la norme ISO à laquelle sont assujettis les services concourant à la réalisation des 3 missions précitées. En 2013, chaque DIRM déclinera à travers un document stratégique la mise en oeuvre à son échelon de la politique nationale en matière de contrôle de la sécurité des navires et de leurs équipages. Dans le cadre des objectifs de cette politique, elles auront à définir leurs priorités et leurs actions selon la spécificité de leur façade maritime. Ce document fera l'objet d'un suivi périodique national au titre de la démarche « qualité ».
