@@ -1,0 +1,9 @@
+# Réponse à la question n° 7376
+
+- Question : [7376](7376.md) — Question n° 7376 — erreurs médicales; lutte et prévention
+
+## Réponse
+
+*JO du 2013-03-12*
+
+La réduction de l'incidence des événements indésirables associés aux soins et la prévention des événements évitables sont un objectif de santé publique. Les principaux risques iatrogènes actuels sont dus aux infections nosocomiales, au circuit du médicament et aux pratiques invasives. Un ensemble de mesures a été progressivement construit, dont la pertinence est aujourd'hui reconnue. Des indicateurs relatifs aux mesures prises par chaque établissement de santé pour lutter contre les infections nosocomiales sont d'ailleurs désormais rendus publics. Les modalités opérationnelles de sécurisation du circuit du médicament ont été précisées pour les établissements de santé. Des actions sont menées par ailleurs dans ce domaine par les agences régionales de santé (ARS), les observatoires des médicaments, des dispositifs médicaux et des innovations thérapeutiques (OMEDIT), l'agence nationale de sécurité du médicament et des produits de santé (ANSM) et la haute autorité de santé (HAS). Des actions sectorielles sont également conduites dans des domaines spécifiques, en particulier radiothérapie et cancer, AVC, naissance, par les acteurs concernés (INCA pour radiothérapie et cancer, plan AVC en cours pour les AVC, commission nationale de la naissance pour la naissance). Au sein des établissements de santé, le rôle des commissions médicales d'établissement est essentiel puisque ces dernières participent à l'élaboration d'un programme de gestion des risques associés aux soins, adapté à l'activité locale. Dans ce cadre, le travail d'équipes entraînées à la gestion des risques est primordial. Leur reconnaissance sera d'ailleurs intégrée dans la prochaine version 2014 de la certification des établissements.
