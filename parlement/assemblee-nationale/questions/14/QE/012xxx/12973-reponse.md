@@ -1,0 +1,9 @@
+# Réponse à la question n° 12973
+
+- Question : [12973](12973.md) — Question n° 12973 — emprunts à taux variable; conséquences
+
+## Réponse
+
+*JO du 2013-03-12*
+
+Conscient des difficultés importantes que posent les emprunts structurés à risque des collectivités territoriales, le Gouvernement a rendu public, le 8 novembre dernier, un plan cohérent pour répondre aux attentes des collectivités locales. L'une des mesures décidées par le Gouvernement porte précisément sur la gestion des emprunts structurés à risque. La solution mise en oeuvre pour assainir la situation actuelle comporte plusieurs volets : - en premier lieu, une cellule nationale d'aide au diagnostic et à la gestion de risques sera créée pour les collectivités ayant contracté des emprunts sensibles ; - ensuite, des solutions d'accompagnement seront offertes aux collectivités décidant de se retirer de ces emprunts, en leur permettant de s'adresser à un conseil choisi avec le soutien de l'Etat qui pourra notamment aider à une négociation, au cas par cas, avec la banque concernée ; - le secteur bancaire sera incité à offrir un refinancement de ces prêts permettant de les désensibiliser. Les banques seront spécifiquement réunies à cette fin et l'évolution positive du dossier Dexia permet d'envisager plus sereinement une telle solution ; - enfin, pour les collectivités qui connaissent de très graves difficultés financières en raison des prêts sensibles qu'elles ont contractés, et qui ne seraient donc pas en mesure, seules, de refinancer leurs prêts, un mécanisme spécifique d'aide a été mis en place en loi de finances. Le Gouvernement a donc pris la pleine mesure des difficultés des collectivités territoriales concernées par les emprunts toxiques et a décidé de mesures cohérentes et complètes. Ces mesures doivent être mises en oeuvre au début de l'année 2013.
