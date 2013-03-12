@@ -1,0 +1,9 @@
+# Réponse à la question n° 9318
+
+- Question : [9318](9318.md) — Question n° 9318 — dettes; unification; financement
+
+## Réponse
+
+*JO du 2013-03-12*
+
+La réforme du système ferroviaire, annoncée le 30 octobre 2012, est organisée autour de quatre axes majeurs dont celui de la restauration des conditions d'un équilibre économique et financier de long terme pour le système ferroviaire. Il est, en effet, nécessaire de donner au système ferroviaire les moyens d'un équilibre durable, ainsi que des règles permettant d'encadrer son endettement qui progresse de 1,5 Md euros chaque année. A cette fin, les synergies liées à la constitution d'un pôle public ferroviaire unifié, regroupant le gestionnaire d'infrastructure unifié (GlU) et la SNCF, rendront possibles des gains de performance pour offrir aux usagers du transport ferroviaire le meilleur service au meilleur coût. Au-delà de cet effort de rationalisation des activités et d'une meilleure organisation, il conviendra d'examiner les conditions d'un retour à l'équilibre financier du système ferroviaire et les leviers que devront mobiliser tous les acteurs afin d'y contribuer. Outre le travail de hiérarchisation en cours des différents projets ferroviaires, associé à la définition d'un calendrier réaliste au regard des ressources disponibles, de nouvelles règles devront être mises en place pour mieux maîtriser l'endettement du système et éviter des dérives. En tout état de cause, les engagements financiers de RFF seront intégralement respectés. Le schéma retenu maintiendra la qualité de crédit permettant d'assurer la continuité des engagements financiers actuels, ainsi que les besoins futurs de financement du système, l'activité de gestion de l'infrastructure continuant à bénéficier de recettes pérennes. Ces différentes mesures permettront de stabiliser la dette ferroviaire à terme.
