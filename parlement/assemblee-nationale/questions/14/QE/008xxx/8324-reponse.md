@@ -1,0 +1,9 @@
+# Réponse à la question n° 8324
+
+- Question : [8324](8324.md) — Question n° 8324 — franchise médicale; suppression; pertinence
+
+## Réponse
+
+*JO du 2013-03-12*
+
+L'accès aux soins est une priorité pour le Gouvernement qui, dès la loi de financement de la sécurité sociale pour 2013, a marqué sur ce point une rupture avec la politique menée par le précédent Gouvernement. S'agissant des franchises sur les médicaments, les actes des auxiliaires médicaux et les transports, le Gouvernement est sensible au fait que les assurés qui ont un recours fréquent aux soins sont particulièrement impactés par ce dispositif. Les franchises ne sont pas dues par les mineurs, les bénéficiaires de la couverture maladie universelle complémentaire (CMU-c), les bénéficiaires de l'assurance maternité et les pensionnés militaires d'invalidité. La situation actuelle des finances publiques ne permet cependant pas au Gouvernement de supprimer dès aujourd'hui ce dispositif. L'objectif porté par le Gouvernement est de permettre à chacun d'accéder aux soins sur tout le territoire. Comme cela a été indiqué lors du débat à l'Assemblée nationale sur le projet de loi de financement de la sécurité sociale pour 2013, au-delà de la question des franchises, c'est la question du reste à charge des patients qui est posée. Le Gouvernement a sur ce point déjà engagé les actions nécessaires en commençant par l'encadrement des dépassements d'honoraires et par l'accès gratuit à certaines prestations telles que la contraception pour les mineures ou l'interruption volontaire de grossesse. Comme l'a annoncé le Président de la République au congrès de la mutualité française, l'amélioration de l'accès aux soins nécessite également de généraliser l'accès à une couverture complémentaire de qualité, qui fera l'objet de travaux dès l'année 2013.
