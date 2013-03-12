@@ -1,0 +1,9 @@
+# Réponse à la question n° 17002
+
+- Question : [17002](17002.md) — Question n° 17002 — aides de minimis; champ d'application
+
+## Réponse
+
+*JO du 2013-03-12*
+
+L'intervention de l'État en matière de soutien aux exploitations agricoles en difficultés relève des lignes directrices relatives au sauvetage et à la restructuration d'entreprises en difficultés arrêtées par la Commission européenne. La France dispose d'un dispositif national appelé communément AGRIDIFF qui a fait l'objet d'un agrément comme aide d'État par l'Union européenne en 2005 et 2007. Les aides de ce dispositif sont attribuées aux exploitations qui connaissent des difficultés structurelles. Leurs montants sont plafonnés. Calculée sur la base d'une prise en charge des intérêts des prêts de l'exploitation, l'aide peut atteindre 10 000 € par unité de travail non salariée, dans la limite de deux. Elles sont complétées par des prises en charge d'audit et de suivi technico-économique. Les collectivités territoriales peuvent intervenir en complément à la même hauteur. Pour les aides de faible montant que la Commission considère, de ce fait, comme n'étant pas susceptibles de fausser la concurrence, le régime dit de minimis s'applique. Le versement d'aides sous ce régime n'est pas précédé d'une notification à la Commission ou d'un accord de celle-ci. Toutefois le montant total des aides octroyées au titre du régime de minimis à chaque agriculteur ne doit pas excéder 7 500 euros sur l'exercice fiscal en cours et les deux précédents. Les règlements relatifs aux aides de minimis interdisent d'attribuer aux entreprises reconnues en difficulté structurelles ces aides qui sont destinées à soutenir les entreprises qui rencontrent des difficultés conjoncturelles. En conséquence est exclue de ce régime toute entreprise, en liquidation judiciaire ou mise en redressement judiciaire, ou encore soumise à un plan de redressement dans le cadre de la procédure AGRIDIFF.
