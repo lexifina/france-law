@@ -1,0 +1,9 @@
+# Réponse à la question n° 13534
+
+- Question : [13534](13534.md) — Question n° 13534 — sécurité; Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2013-03-12*
+
+Depuis l'inspection de la Cour des comptes, la direction des affaires maritimes (DAM) a été certifiée le 3 septembre 2012 au titre de la norme IS0 9001-2008 pour l'exercice des trois missions suivantes : - l'inspection de la sécurité des navires (de plus de 12 mètres) ; - la délivrance des titres de sécurité et de prévention de la pollution ; - la délivrance des titres de formation professionnelle maritime. Le rôle des directions interrégionales de la mer (DIRM) a été pleinement pris en compte dans le périmètre du système de management de la qualité de la DAM relatif au contrôle de la sécurité des navires. Les DIRM ont été identifiées comme les structures opérationnelles de pilotage pour la réalisation de ces trois missions. Elles sont dotées chacune d'un responsable de la qualité placé au niveau de la direction qui anime le pilotage des processus opérationnels concourant à ces missions. Dès 2013 et avec le recul d'une première année de fonctionnement du dispositif, il sera entrepris pour chacune des DIRM, siège d'une façade maritime, une déclinaison des objectifs et des indicateurs qui impliqueront les services locaux. A ces objectifs seront associées des actions spécifiques propres. Ainsi, la pleine application et le complet déploiement de la démarche qualité à l'ensemble des structures en charge de la sécurité des navires et de leurs équipages, permettront de répondre à la recommandation de la Cour des comptes dans ce domaine. Cela ne préjuge pas des suites de la réflexion sur l'organisation d'une administration de la mer mieux tournée vers les questions maritimes et en particulier la sécurité, dans un temps plus long cependant.
