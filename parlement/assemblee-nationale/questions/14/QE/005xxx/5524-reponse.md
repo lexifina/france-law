@@ -1,0 +1,9 @@
+# Réponse à la question n° 5524
+
+- Question : [5524](5524.md) — Question n° 5524 — fret; fermeture; Sotteville lès Rouen
+
+## Réponse
+
+*JO du 2013-03-12*
+
+La desserte ferroviaire du port de Rouen est assurée par une voie ferrée longeant la rive gauche de la Seine. Construite après-guerre, cette voie a été couverte par un ouvrage qui supporte des circulations ferroviaires dans sa partie inférieure et des circulations routières sur la partie supérieure, communément appelée « tranchée couverte de Rouen ». Cet ouvrage est l'un des premiers ouvrages précontraints construits en France et il présente aujourd'hui des signes de vieillissement. Mais, s'agissant de l'accès ferroviaire du port de Rouen, aucune des expertises ou inspections de cet ouvrage, dont la plus récente menée en 2012 par les services spécialisés de la SNCF pour le compte de Réseau ferré de France (RFF), n'ont conclu à la nécessité d'y interdire les circulations. Ces expertises ont cependant montré la nécessité de mener rapidement les investigations préalables à la réalisation des études de réparation de l'ouvrage. RFF a engagé ces démarches et c'est sur la base de ces études que pourra être établi le plan de financement de cette opération avec l'ensemble des parties concernées, dans un schéma de domanialité particulièrement complexe (routes nationales, départementales et communales, circulations de métro sur certaines sections). Il n'est donc pas question aujourd'hui de fermer cette voie ferrée qui est l'un des accès essentiels à la desserte du port de Rouen sauf, peut-être, ponctuellement lors des investigations et des études techniques ou, plus tard, lors de la réalisation des travaux de réparation. Ces aménagements aux conditions de circulation seront alors examinés entre les services de RFF et ceux du port en cherchant à en minimiser les effets.
