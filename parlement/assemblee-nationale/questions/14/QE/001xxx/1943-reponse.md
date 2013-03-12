@@ -1,0 +1,9 @@
+# Réponse à la question n° 1943
+
+- Question : [1943](1943.md) — Question n° 1943 — classement; zones inconstructibles; réglementation
+
+## Réponse
+
+*JO du 2013-03-12*
+
+Certaines activités agricoles, en fonction du classement auquel elles sont soumises au titre des installations classées pour la protection de l'environnement, doivent respecter des prescriptions, notamment en termes de distance minimale d'implantation par rapport aux tiers. En application de l'article L. 111-3 du code rural qui pose un principe dit de « réciprocité », les même règles seront applicables aux tiers, qui devront donc eux aussi s'implanter en respectant ces conditions de distance par rapport à l'installation classée. En matière d'information des communes, le code de l'environnement prévoit, pour les installations classées soumises à autorisation (article R. 512-20) et à enregistrement (article R. 512-46-11), une consultation du conseil municipal de la commune où l'installation est envisagée mais aussi de tous les conseils municipaux des communes concernées par les risques et inconvénients dont l'établissement peut être la source. S'agissant des installations soumises à déclaration, l'article R. 512-49 précise les modalités d'information du maire. En ce qui concerne la détermination du point à partir duquel est fixée cette distance, elle s'apprécie à partir des bâtiments destinés à accueillir des animaux ainsi qu'à partir des annexes (TA Versailles, 28 juin 1994, George et al. , req. n° 93-3926, dans le même sens à propos d'un règlement sanitaire départemental, CE, 10 octobre 2001, M. X, req. n° 208663). Plus précisément, le juge précise que cette distance s'apprécie à partir de la totalité de l'emprise au sol de l'ensemble immobilier destiné à recevoir le cheptel, y compris le couloir d'alimentation et l'aire de stockage des effluents (CAA Douai, 6 novembre 2003, M. et Mme Tan Do-Phat, req. n° 02DA00188).
