@@ -1,0 +1,9 @@
+# Réponse à la question n° 17198
+
+- Question : [17198](17198.md) — Question n° 17198 — usages non routiers; réglementation
+
+## Réponse
+
+*JO du 2013-03-12*
+
+Le gazole non routier est destiné à l'alimentation des moteurs des engins mobiles non routiers, des tracteurs agricoles et forestiers, des bateaux de plaisance lorsqu'ils ne sont pas en mer et des bateaux de navigation intérieure. Les conditions d'emploi du gazole non routier dans ces engins et véhicules sont définies par l'arrêté du 10 novembre 2011 fixant pour le gazole, les carburéacteurs, les gaz de pétrole liquéfiés et les émulsions d'eau dans du gazole, des conditions d'emploi ouvrant droit à l'application du régime fiscal privilégié institué par l'article 265 du code des douanes en matière de taxe intérieure de consommation, et explicitées dans la circulaire du 15 novembre 2011 relative aux produits sous conditions d'emploi ouvrant droit à l'application du régime fiscal privilégié institué par l'article 265 du code des douanes. Ainsi les textes règlementaires en vigueur stipulent clairement que seuls les tracteurs de type agricole ou forestier utilisés dans le cadre de travaux agricoles ou forestiers peuvent bénéficier de la fiscalité réduite du gazole non routier. Pour les usages autres que les travaux agricoles ou forestiers, comme par exemple les travaux publics, l'entretien des routes, le transport, la manutention, ces tracteurs ne peuvent prétendre à la fiscalité réduite du gazole non routier. Ainsi, les tracteurs participant à des chantiers de travaux publics, notamment en terrassement, que ce soit pour se rendre depuis l'exploitation agricole au lieu du chantier de travaux publics ou durant les heures de fonctionnement du tracteur sur le chantier de travaux publics, ne sont pas autorisés à fonctionner avec du gazole non routier. Ces tracteurs doivent fonctionner avec du gazole routier (non coloré) taxé au taux de 42,84 euros par hectolitre.
