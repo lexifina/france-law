@@ -1,0 +1,9 @@
+# Réponse à la question n° 6050
+
+- Question : [6050](6050.md) — Question n° 6050 — utilisation; réglementation
+
+## Réponse
+
+*JO du 2013-03-12*
+
+Les résidus de différents produits phytopharmaceutiques peuvent être présents dans certaines denrées alimentaires compte tenu des besoins de lutte contre les ravageurs. Dans le cas d'un mélange de plusieurs substances actives pour un même usage, l'efficacité contre le ravageur est améliorée et le risque d'apparition de résistance réduit. L'évaluation du risque lié à la présence de diverses substances chimiques dans les denrées alimentaires n'est pas directement prise en compte à ce jour en l'absence de données générales, permettant de couvrir l'ensemble des combinaisons possibles. Le ministère chargé de l'agriculture soutient directement les efforts de recherche sur les effets cumulés. L'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) a notamment conduit dans ce cadre une étude pluri-annuelle dénommée PERICLES qui a fait l'objet de plusieurs publications scientifiques. Les autorités et agences d'évaluation compétentes au niveau européen ont initié des travaux dès 2008 pour définir un cadre d'évaluation pour le risque lié à la présence de plusieurs résidus sur une même denrée. L'autorité européenne de sécurité des aliments (AESA) envisage en 2013 de tester cette procédure lors de l'évaluation des résultats transmis dans le cadre du programme européen de surveillance des résidus de produits phytopharmaceutiques dans les denrées. Les propositions de l'AESA en la matière sont en cours d'expertise par les services du ministère chargé de l'agriculture. Ces services participeront aux discussions qui seront initiées sous l'égide de la Commission européenne. A moyen terme, l'objectif est de doter l'Union européenne d'un corpus réglementaire qui permettra de prendre en compte le risque lié aux résidus multiples de substances chimiques.
