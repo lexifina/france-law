@@ -1,0 +1,9 @@
+# Réponse à la question n° 10725
+
+- Question : [10725](10725.md) — Question n° 10725 — délais; statistiques
+
+## Réponse
+
+*JO du 2013-03-12*
+
+Le ministère de la culture et de la communication considère comme prioritaire le respect de ses obligations contractuelles envers ses fournisseurs, notamment la stricte application d'un délai global de paiement à 30 jours maximum. Depuis 2011, les dispositifs de contrôle interne comptable ont été renforcés afin que l'ensemble des acteurs de la chaîne de la dépense soient sensibilisés au respect impératif des délais de paiement. Ces actions se sont concrétisées par une documentation des procédures comptables et une simplification des acteurs intervenant sur le traitement des dépenses. Les résultats ont été probants et mesurables. Sur la commande publique, en 2012, 35 381 paiements ont été réalisés pour l'ensemble du ministère (administration centrale et services déconcentrés), représentant 44 % du nombre total de paiements. Pour ces dépenses, le délai global de paiement est de 26,46 jours (contre 48,50 jours pour 34 861 paiements en 2011). La progression du ministère est notable entre 2011 et 2012, puisque le taux de paiements inférieurs à 30 jours est de 75,89 %, contre seulement 56,65 % en 2011. En 2013, ces actions seront poursuivies et accentuées grâce à la mise en place de circuits de gestion dématérialisés qui s'inséreront dans une organisation financière désormais pérenne et sécurisée. Sur l'ensemble du périmètre du ministère, toutes natures de dépenses confondues, le délai global de paiement en 2012 est de 20,16 jours pour 80 461 paiements (contre 35,54 jours pour 80 237 paiements en 2011). Ce délai inclut le paiement de dépenses d'intervention (subventions) qui sont au coeur des politiques publiques du ministère et qui s'établit à 4,89 jours en moyenne (contre 7,48 jours en 2011).
