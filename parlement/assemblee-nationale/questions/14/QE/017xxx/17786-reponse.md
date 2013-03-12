@@ -1,0 +1,9 @@
+# Réponse à la question n° 17786
+
+- Question : [17786](17786.md) — Question n° 17786 — résiliation; conséquences
+
+## Réponse
+
+*JO du 2013-03-12*
+
+La possibilité de résilier un contrat est prévue par le code des assurances dans un but de prudence : en effet, si le métier de l'assureur est de couvrir les risques, ces derniers doivent rester raisonnables afin de ne pas mettre en péril la société d'assurance et l'ensemble des assurés qui permettent la mutualisation des risques. C'est pourquoi la résiliation du contrat en cas de sinistre est possible. Il faut rappeler que pour les risques de particuliers - automobile et multirisque habitation notamment - l'assureur, comme l'assuré d'ailleurs, conserve un droit de résiliation à l'échéance (article L. 113-12 du code des assurances). Afin de concilier le respect du principe de prudence avec l'obligation d'assurance, une procédure spécifique est prévue. Toute personne qui, ayant sollicité la souscription d'un contrat d'assurance de responsabilité civile résultant de l'emploi d'un véhicule terrestre à moteur, se voit opposer un refus par une entreprise d'assurance agréée pour pratiquer cette branche, peut saisir le bureau central de tarification (BCT). Celui-ci fixe le montant de la prime moyennant laquelle l'assureur (choisi par la personne) est tenu de garantir le risque. Du fait de l'existence du BCT, aucun obstacle légal trouvant sa cause dans l'assurance ne s'oppose à la circulation d'un automobiliste, même novice. Ceci étant, le marché français de l'assurance automobile étant très ouvert, en règle générale, tout candidat à l'assurance peut trouver à s'assurer dans les conditions qui répondent à ses besoins ; l'essor d'Internet et la diversité des réseaux de distribution (sociétés d'assurances - bancassureurs - courtiers) facilitent l'accès aux informations sur les produits et la comparaison des offres et des prix et permettent de choisir l'offre la plus avantageuse.
