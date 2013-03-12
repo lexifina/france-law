@@ -1,0 +1,9 @@
+# Réponse à la question n° 1259
+
+- Question : [1259](1259.md) — Question n° 1259 — architecture; ouverture du capital; conséquences
+
+## Réponse
+
+*JO du 2013-03-12*
+
+La ministre de la culture et de la communication est particulièrement vigilante quant à la défense de l'indépendance de la profession d'architecte. Le respect d'un tel principe n'est pas incompatible avec la directive n° 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur, dite directive « services ». Cette directive a fait l'objet d'une transposition propre à chaque secteur d'activité. Pour ce qui concerne les sociétés d'architecture, les dispositions de la loi n° 77-2 du 3 janvier 1977 sur l'architecture encadrant les règles de détention du capital n'ont pas été modifiées par l'article 13 de la loi n° 2011-302 du 22 mars 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière de santé, de travail et de communications électroniques. Les dispositions actuellement en vigueur prévoient que la moitié du capital social et des droits de vote doivent être détenues par un ou plusieurs architectes ou éventuellement plusieurs sociétés d'architectures. La participation de personnes morales associées qui ne sont pas des sociétés d'architecture est limitée à hauteur de 25 % du capital social et des droits de vote. Enfin, un des associés au moins doit être un architecte personne physique détenant au moins 5 % du capital et des droits de vote. Le contrôle majoritaire des architectes dans les sociétés d'architecture permet de garantir leur indépendance économique et intellectuelle en prévenant en particulier les conflits d'intérêts et les incompatibilités professionnelles, corollaire de l'intérêt général de l'architecture consacré par la loi du 3 janvier 1977 sur l'architecture.
