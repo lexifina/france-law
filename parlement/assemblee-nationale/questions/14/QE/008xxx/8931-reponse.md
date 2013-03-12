@@ -1,0 +1,9 @@
+# Réponse à la question n° 8931
+
+- Question : [8931](8931.md) — Question n° 8931 — cartes bancaires; débit différé; prélèvements; date
+
+## Réponse
+
+*JO du 2013-03-12*
+
+Depuis le mois de septembre 2012, la Banque Postale a modifié les dates de prélèvement de ses clients détenteurs de carte à débit différé. Le client se voit en conséquence débité du montant correspondant à ses achats réglés durant le mois le dernier jour ouvré de celui-ci au lieu du 5 du mois suivant. Pour permettre la meilleure anticipation possible par sa clientèle, La Banque Postale a établi un calendrier précis des dates d'arrêté mensuel (qui sont inchangées) et des dates de prélèvement induites par ces nouvelles dispositions. Ainsi, les dates d'arrêté et de prélèvement interviennent désormais au cours du même mois. La clientèle de La Banque Postale ayant opté pour des cartes à débit différé est relativement peu nombreuse. La plupart de ses clients a souscrit une carte à débit immédiat, soit pour convenance personnelle, soit dans le cadre des mesures prises vis-à-vis des utilisateurs de carte plus vulnérables qui disposent d'un moyen de paiement « anti-dépassement » débité en temps réel. En tout état de cause, parmi ses clients ayant choisi un débit différé, La Banque Postale compte une grande partie de salariés rémunérés aux alentours du 20 de chaque mois qui ne seront donc pas pénalisés par la décision de la banque. Toutefois, consciente des désagréments que pourrait occasionner une telle décision aux détenteurs de carte à débit différé dont les revenus ne sont crédités qu'en tout fin de mois ou tout début du mois suivant, La Banque Postale (qui n'a cependant pas enregistré une recrudescence de demandes d'informations de la clientèle) a mis en place des possibilités de découverts exceptionnels ou de franchise d'agios. Il suffit d'en faire la demande auprès du centre financier dont dépend le client.
