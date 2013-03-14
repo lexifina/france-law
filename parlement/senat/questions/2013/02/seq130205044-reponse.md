@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130205044
+
+- Question : [SEQ130205044](seq130205044.md) — Reconnaissance du diplôme d'orthophoniste au grade master
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-03-14, page 869*
+
+La ministre des affaires sociales et de la santé et la ministre de l'enseignement supérieur et de la recherche se sont engagées à poursuivre la réforme des diplômes paramédicaux et leur refonte universitaire. Outre la mise en œuvre des accords de Bologne et l'attribution d'un grade universitaire, qui constitue pour les professions paramédicales un enjeu de reconnaissance, le processus de réingénierie est, pour les professions paramédicales dans leur ensemble, l'opportunité de voir reconnaître pleinement leurs compétences dans la prise en charge des patients. Les professionnels conduisent un travail depuis plusieurs années autour d'un référentiel d'activités et de compétences renouvelé et enrichi en accord avec l'évolution de l'exercice du métier d'orthophoniste, intervenant du parcours de soins et de la prévention à tous les âges de la vie. Les prises en charge en orthophonie sont devenues complexes et exigent de la part des orthophonistes des compétences plus approfondies, diversifiées et notamment en matière de recherche. Suite à ces travaux, le Gouvernement a décidé de porter la formation pour le certificat de capacité en orthophonie à cinq ans et de la reconnaître au grade de master. C'est dans ce cadre que les professionnels sont invités à finaliser leurs travaux sous l'égide du ministère de l'enseignement supérieur et de la recherche et du ministère des affaires sociales et de la santé, dans l'objectif d'une rentrée sur la base d'un programme de formation réingénié en septembre 2013. Ces travaux devront également permettre d'harmoniser les modalités de formation tant théoriques que pratiques dans l'ensemble des écoles universitaires préparant au certificat de capacité.
