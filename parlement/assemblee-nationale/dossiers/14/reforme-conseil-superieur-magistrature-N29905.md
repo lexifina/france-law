@@ -1,0 +1,51 @@
+# Justice : réforme du Conseil supérieur de la magistrature
+
+- Procédure : Projet ou proposition de loi constitutionnelle
+- Législature : 14
+- Identifiant : DLR5L14N29905
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/reforme_conseil_superieur_magistrature
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-625.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-03-14 : 1er dépôt d'une initiative. (PRJLANR5L14B0815)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-03-14 : Renvoi en commission au fond
+      - 2013-03-26 : Nomination de rapporteur
+      - 2013-03-26 : Réunion de commission
+      - 2013-05-21 : Réunion de commission
+      - 2013-05-22 : Réunion de commission
+      - 2013-05-28 : Réunion de commission
+      - 2013-05-22 : Dépôt de rapport (RAPPANR5L14B1050)
+  - Discussion en séance publique
+    - 2013-05-28 : Discussion en séance publique
+    - 2013-05-28 : Discussion en séance publique
+    - 2013-06-04 : Discussion en séance publique
+    - 2013-06-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-06-05 : Dépôt d'une initiative en navette (PRJLSNR5S199B0625)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-05 : Renvoi en commission au fond
+      - 2013-06-05 : Nomination de rapporteur
+      - 2013-06-19 : Dépôt de rapport (RAPPSNR5S199B0674)
+  - Discussion en séance publique
+    - 2013-07-03 : Discussion en séance publique
+    - 2013-07-04 : Discussion en séance publique
+    - 2013-07-04 : Décision
+- deuxième lecture
+  - 2013-07-04 : Dépôt d'une initiative en navette (PRJLANR5L14B1226)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-04 : Renvoi en commission au fond
+      - 2016-03-23 : Réunion de commission
+      - 2016-03-30 : Réunion de commission
+      - 2016-04-05 : Réunion de commission
+      - 2016-03-30 : Dépôt de rapport (RAPPANR5L14B3618)
+  - Discussion en séance publique
+    - 2016-04-05 : Discussion en séance publique
+    - 2016-04-05 : Discussion en séance publique
+    - 2016-04-26 : Discussion en séance publique
+    - 2016-04-26 : Décision
