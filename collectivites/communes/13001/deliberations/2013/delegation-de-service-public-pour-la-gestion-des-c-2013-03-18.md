@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — DELEGATION DE SERVICE PUBLIC POUR LA GESTION DES CRECHES, CENTRES DE LOISIRS, ET AUTRES STRUCTURES PETITE ENFANCE DE LA VILLE D'AIX-EN-PROVENCE - AVENANT N°6 PORTANT TRANSFERT DU CONTRAT A LA SOCIETE LPCR GROUPE.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2013-03-18
+- Séance : Conseil Municipal 2CA
+- Objet : DELEGATION DE SERVICE PUBLIC POUR LA GESTION DES CRECHES, CENTRES DE LOISIRS, ET AUTRES STRUCTURES PETITE ENFANCE DE LA VILLE D'AIX-EN-PROVENCE - AVENANT N°6 PORTANT TRANSFERT DU CONTRAT A LA SOCIETE LPCR GROUPE.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-4535-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
