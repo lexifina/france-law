@@ -1,0 +1,9 @@
+# Réponse à la question n° 7339
+
+- Question : [7339](7339.md) — Question n° 7339 — accès à la profession
+
+## Réponse
+
+*JO du 2013-03-19*
+
+Le décret n° 2012-441 du 3 avril 2012 a créé, par son article 5, un nouveau mode d'accès à la profession d'avocat, en ajoutant un article 97-1 au décret n° 91-1197 du 27 novembre 1991 selon lequel : « Les personnes justifiant de huit ans au moins d'exercice de responsabilités publiques les faisant directement participer à l'élaboration de la loi sont dispensées de la formation théorique et pratique et du certificat d'aptitude à la profession d'avocat ». Cette catégorie regroupe les anciens ministres et les parlementaires, qui peuvent devenir avocats sans avoir à suivre la formation théorique et pratique dispensée par un CRFPA (Centre Régional de Formation Professionnelle d'Avocats) ni à subir l'examen du CAPA (certificat d'accès à la profession d'avocat). La condition de diplôme reste exigée pour ces personnes : les anciens ministres et les parlementaires, ayant exercé l'une et/ou l'autre de ces fonctions pendant au moins huit ans, ne peuvent devenir avocats que s'ils justifient être titulaires d'une maîtrise en droit ou d'un diplôme équivalent, comme cela est prévu au 2° de l'article 11 de la loi n° 71-1130 du 31 décembre 1971. Ils sont en outre soumis à l'obligation de suivre, avant leur inscription au tableau, une formation en déontologie et réglementation professionnelle d'une durée de vingt heures. Toutefois, la garde des sceaux, ministre de la justice, est pleinement consciente des difficultés et réserves soulevées par l'application de ce dispositif qui a suscité des oppositions au sein de la profession d'avocat. C'est pourquoi elle a annoncé l'abrogation de l'article 97-1 du décret de 1991 et une réflexion concertée avec la profession sur l'accès à celle-ci.
