@@ -1,0 +1,9 @@
+# Réponse à la question n° 17431
+
+- Question : [17431](17431.md) — Question n° 17431 — sites; pillages; lutte et prévention
+
+## Réponse
+
+*JO du 2013-03-19*
+
+Le Conseil national de la recherche archéologique (CNRA) a remis en février 2011 un rapport intitulé « Détecteurs de métaux et pillage : le patrimoine archéologique national en danger ». Il est consultable en ligne sur les pages de la sous-direction de l'archéologie de la direction générale des patrimoines accessibles par le site Internet du ministère de la culture et de la communication. Pour faire face à la multiplication des atteintes portées au patrimoine archéologique, le CNRA a formulé une série de dix propositions essentielles visant à renforcer le cadre juridique relatif à l'utilisation des détecteurs de métaux. Certaines de ces préconisations doivent encore faire l'objet d'une analyse juridique approfondie, afin de s'assurer qu'elles pourront s'inscrire aisément dans le projet de loi relatif aux patrimoines que la ministre de la culture et de la communication souhaite soumettre à l'examen du Parlement à l'automne 2013. Il convient de souligner que d'ores et déjà des rapprochements très efficaces sont intervenus entre les différents services ministériels concernés par la protection du patrimoine archéologique (services patrimoniaux, gendarmerie, douanes, justice), afin d'améliorer la qualification des infractions constatées et d'engager les procédures nécessaires aux sanctions qu'elles appellent. Parallèlement à ce travail difficile, la direction générale des patrimoines du ministère de la culture et de la communication intensifie les actions de sensibilisation du public à la fragilité du patrimoine archéologique, relayées en régions par nos services déconcentrés et en partenariat avec les établissements publics, les collectivités territoriales et le milieu associatif.
