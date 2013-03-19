@@ -1,0 +1,9 @@
+# Réponse à la question n° 19321
+
+- Question : [19321](19321.md) — Question n° 19321 — origine des produits; Israël; information des consommateurs
+
+## Réponse
+
+*JO du 2013-03-19*
+
+La France est particulièrement préoccupée par la poursuite de la colonisation en Cisjordanie et à Jérusalem-Est. Elle a fermement condamné les dernières décisions en la matière, qui constituent des provocations. Elle rappelle systématiquement que la colonisation est illégale au regard du droit international, qu'elle nuit à la confiance entre les parties et qu'elle constitue un obstacle à une paix juste et durable. S'agissant de l'étiquetage des produits issus des colonies, il convient de rappeler que la législation européenne opère la distinction suivante : a) les catégories de produits pour lesquelles l'indication de l'origine géographique est obligatoire (notamment cosmétiques et certains produits alimentaires tels que les fruits et légumes frais, le vin, l'huile d'olive...) ; b) celles pour lesquelles l'étiquetage est facultatif, le producteur ou le distributeur étant alors libre d'indiquer ou non l'origine du produit. La législation européenne implique que si l'origine est indiquée, que ce soit de manière obligatoire ou volontaire, elle ne doit pas induire le consommateur en erreur. Les conclusions du Conseil Affaires étrangères du 20 décembre 2012 ont rappelé l'engagement de l'Union européenne et de ses Etats membres à faire pleinement appliquer la législation existante en matière de produits des colonies. Les travaux se poursuivent au sein de l'UE sur ce point. Le Royaume-Uni et le Danemark ont en outre publié des codes de conduites proposant aux distributeurs d'apposer, à titre facultatif, la mention « produit de Cisjordanie (produit des colonies israéliennes) » sur les produits issus des colonies. L'adoption d'une telle mesure reste à l'étude.
