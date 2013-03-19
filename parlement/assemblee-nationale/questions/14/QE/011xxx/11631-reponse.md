@@ -1,0 +1,15 @@
+# Réponse à la question n° 11631
+
+- Question : [11631](11631.md) — Question n° 11631 — langues régionales; rapport
+
+## Réponse
+
+*JO du 2013-03-19*
+
+Le service public audiovisuel est chargé, aux termes de l'article 43-11 de la loi du 30 septembre 1986, d'assurer la promotion de la langue française et, le cas échéant, des langues régionales et de mettre en valeur la diversité du patrimoine culturel et linguistique de la France. L'article 44 de la loi n° 86-1067 (modifié par la loi n° 2009-258) précise que : « France Télévisions conçoit et diffuse en région des programmes qui contribuent à la connaissance et au rayonnement de ces territoires et, le cas échéant, à l'expression des langues régionales. Ces programmes sont diffusés à travers des décrochages spécifiques, y compris aux heures de grande écoute, et peuvent être repris au niveau national. Ils reflètent la diversité de la vie économique, sociale et culturelle en région et proposent une information de proximité. » Enfin, l'article 40 du cahier des charges de France Télévisions, dont le respect est contrôlé par le Conseil supérieur de l'audiovisuel, dispose que la société « veille à ce que, parmi les services qu'elle édite, ceux qui proposent des programmes régionaux et locaux contribuent à l'expression des principales langues régionales parlées sur le territoire métropolitain et en outre-mer. » Dans ce cadre, France Télévisions a diffusé en 2011, sur l'antenne de France 3, un volume total de 357 heures d'émissions (contre 264 heures en 2010) dans les huit régions concernées par la pratique d'une langue régionale (Alsace, Aquitaine, Midi-Pyrénées, Languedoc- Roussillon, Provence-Alpes-Côte d'Azur, Corse, Bretagne). Dans la continuité de la dynamique initiée en 2009, ce volume est en progression de plus de 35 % et traduit l'effort engagé par France Télévisions pour accomplir au mieux sa mission de proximité et accorder une place de plus en plus importante aux langues régionales sur France 3, ce dont se félicite le ministère de la culture et de la communication. L'entreprise assure ainsi vouloir valoriser les productions locales et accroître le lien de proximité avec les téléspectateurs en prenant en compte leurs aspirations, leur quotidien, leurs habitudes et la richesse des territoires. S'agissant plus particulièrement de la langue provençale, l'entreprise indique qu'en 2011, France 3 Provence Alpes et France 3 Côte d'Azur ont diffusé 51 h32mn d'émissions en provençal avec le magazine hebdomadaire « Vaqui » le samedi à 10 h30 (26 minutes) et « Vaqui info » le dimanche à 12 h12 (7 minutes). En 2012, les antennes régionales ont maintenu leur programmation en langue provençale. Le magazine hebdomadaire « Vaqui » (26 minutes) a vu son horaire de diffusion passer à 10 h50 le samedi de janvier à juin puis le dimanche, toujours à 10 h50, de septembre à décembre. Le magazine « Vaqui info », quant à lui, a été diffusé le lundi à 12 h12 (7 minutes), de janvier à décembre.
+
+Évolution des volumes de diffusion en langue provençale sur France 3 : 2011 RAPPEL 2010 EVOLUTION
+
+2010/2011
+
+Nombre d'heures 51 :32 :30 22 :34 :23 128 %
