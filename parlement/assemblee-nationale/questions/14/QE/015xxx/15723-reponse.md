@@ -1,0 +1,9 @@
+# Réponse à la question n° 15723
+
+- Question : [15723](15723.md) — Question n° 15723 — fret; tarifs; Autorité de la concurrence; décision
+
+## Réponse
+
+*JO du 2013-03-19*
+
+L'Autorité de la concurrence a rendu le 18 décembre dernier une décision par laquelle elle a sanctionné la SNCF, à hauteur de 60,9 millions d'euros, pour avoir mis en oeuvre plusieurs pratiques constitutives d'abus de position dominante, ayant entravé ou retardé l'entrée de nouveaux opérateurs sur le marché du transport ferroviaire de marchandises. Le 18 janvier 2013, la SNCF a déposé auprès de la Cour d'appel de Paris une déclaration de recours à l'encontre de cette décision. L'Autorité de la concurrence a accompagné la sanction financière prononcée d'une injonction à l'encontre de la SNCF de mettre en place dans un délai de 18 mois une comptabilité analytique qui permettra d'identifier précisément les coûts supportés pour son activité de fret par train massif. Cette décision fait effectivement écho, bien que s'inscrivant dans un contexte différent qui est celui de l'exercice d'une activité à caractère concurrentiel, à l'une des propositions de la commission d'enquête de l'Assemblée nationale relative aux modalités, au financement et à l'impact sur l'environnement du projet de rénovation du réseau express régional (RER) d'Ile-de-France, qui a examiné les différentes causes de dysfonctionnement sur les lignes de RER. Dans son rapport du 7 mars 2012, elle a retenu trente propositions visant à améliorer la qualité du service de transport sur ce réseau. Parmi celles-ci figure l'instauration d'une comptabilité par ligne du RER. Les nouveaux contrats passés pour la période 2012-2015 entre le syndicat des transports d'Ile-de-France (STIF) et chaque exploitant, dont la SNCF, prévoient la mise en place progressive de comptes de ligne.
