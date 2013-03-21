@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120701050
+
+- Question : [SEQ120701050](seq120701050.md) — Financement des élèves scolarisés hors de leur commune dans un établissement privé
+
+## Réponse
+
+*Éducation nationale, JO du 2013-03-21, page 944*
+
+L'article L. 212-8 du code de l'éducation prévoit que, lorsque la capacité d'accueil des écoles publiques d'une commune ne permet pas la scolarisation des enfants résidant sur son territoire, cette commune est tenue de participer financièrement à la scolarisation des enfants concernés inscrits dans une école publique d'une autre commune. En application des dispositions de l'article L. 442-5-1 du même code, le même principe est mis en œuvre si les enfants sont scolarisés dans une école privée sous contrat hors de leur commune de résidence : dès lors, notamment, qu'il n'existe pas de capacité d'accueil dans les écoles publiques de leur commune de résidence, leur scolarisation dans une classe élémentaire sous contrat d'association située à l'extérieur de cette commune constitue pour celle-ci une dépense obligatoire. L'absence d'école publique dans la commune d'accueil ne modifie pas ce principe dont la mise en œuvre est déclenchée par la seule absence de moyen d'enseignement dans la commune de résidence. L'article L. 442-5-1 déjà évoqué précise qu'en l'absence d'école publique, la contribution mise à la charge de la commune de résidence est égale au coût moyen des classes élémentaires publiques du département dans lequel se situe cette commune. Toutefois, comme l'a indiqué le président de la République, le dispositif mis en place par la loi « Carle » du 28 octobre 2009 et ses mesures d'application ne doit pas conduire à la fragilisation des écoles publiques rurales du fait de l'inscription dans une école privée d'élèves résidant dans une commune voisine. Si tel devait être le cas, il serait alors nécessaire de modifier les textes concernés.
