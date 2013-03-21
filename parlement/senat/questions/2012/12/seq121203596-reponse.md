@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203596
+
+- Question : [SEQ121203596](seq121203596.md) — Enseignement de l'histoire et de la géographie
+
+## Réponse
+
+*Éducation nationale, JO du 2013-03-21, page 951*
+
+La place de l'histoire-géographie en série scientifique est un sujet qui mérite une attention particulière. Le caractère formateur de ces disciplines pour la compréhension du monde contemporain et la préparation des élèves à l'exercice de leurs droits de futurs citoyens, en font une des composantes majeures de la culture générale dans toutes les séries. Conformément aux engagements du président de la République, le ministre de l'éducation nationale a décidé de réintroduire l'histoire-géographie dans les enseignements obligatoires en classe terminale de la série scientifique S. Pour préserver l'équilibre des enseignements dans cette série, l'horaire d'histoire-géographie en classe de première est modifié concomitamment à celui de la classe terminale. La nouvelle configuration horaire de l'histoire-géographie en série S est la suivante : 2,5 heures hebdomadaires en classe de première et 2 heures en classe terminale. Elle répond à la volonté de conforter une culture générale historique et géographique sans alourdir à l'excès l'horaire global des élèves. L'application de ces mesures concernera la classe de première S à compter de la rentrée 2013 et la classe terminale S à compter de la rentrée 2014, conformément aux dispositions de l'arrêté du 19 décembre 2012 paru au Journal officiel de la République française du 3 janvier 2013. Les programmes de la série S ont été aménagés pour tenir compte des modifications d'horaires. Ces programmes ont été soumis au Conseil supérieur de l'éducation du 13 décembre 2012. Ils paraîtront au bulletin officiel de l'éducation nationale au début de l'année 2013. Les élèves passeront une épreuve obligatoire d'histoire-géographie en fin de terminale à la session 2015 du baccalauréat.
