@@ -24,14 +24,6 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 
 |
 
-Burkina Faso
-
-|
-
-L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
-
-|
-
 Cameroun
 
 |
@@ -40,17 +32,7 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 
 |
 
-Colombie
-
-|
-
-L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
-
-|
-
-Congo (République du)
-
-(Brazzaville)
+Congo (République du) (Brazzaville)
 
 |
 
@@ -74,25 +56,7 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 
 |
 
-Djibouti
-
-|
-
-L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
-
-|
-
-Dominicaine
-
-(République)
-
-|
-
-L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
-
-|
-
-Gambie
+Dominicaine (République)
 
 |
 
@@ -108,14 +72,6 @@ L'obligation de visa s'applique quel que soit le type de document de voyage, à 
 
 |
 
-Guinée-Bissau
-
-|
-
-L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
-
-|
-
 Haïti
 
 |
@@ -125,14 +81,6 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 |
 
 Inde
-
-|
-
-L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
-
-|
-
-Liberia
 
 |
 
@@ -156,14 +104,6 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 
 |
 
-Pérou
-
-|
-
-L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
-
-|
-
 Russie
 
 |
@@ -180,7 +120,7 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 
 |
 
-Sierra Leone
+Soudan
 
 |
 
@@ -188,7 +128,15 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 
 |
 
-Soudan
+Soudan du Sud
+
+|
+
+L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinaire.
+
+|
+
+Syrie
 
 |
 
@@ -216,4 +164,4 @@ L'obligation de visa s'applique seulement aux titulaires d'un passeport ordinair
 
 - les réfugiés et les apatrides titulaires d'un document de voyage délivré par les pays ou entités mentionnés à l'annexe IV du règlement (CE) n° 810/2009 du 13 juillet 2009 et au tableau ci-dessus.
 
-3. Sont exemptés du visa de transit aéroportuaire les étrangers mentionnés aux paragraphes 1 et 2 de la présente annexe et entrant dans les dispositions de l'article 3.5 du règlement n° 810/2009 ci-dessus
+3. Sont exemptés du visa de transit aéroportuaire les étrangers mentionnés aux paragraphes 1 et 2 de la présente annexe et entrant dans les dispositions de l'article 3.5 du règlement n° 810/2009 ci-dessus.
