@@ -154,6 +154,20 @@ Enzymes amylolytiques autorisées dans les aliments destinés spécifiquement au
 
 Par dérogation aux critères de pureté des enzymes fixés à la partie I de l'annexe II du présent arrêté, la teneur maximale en arsenic est de 2 mg/kg. |
 
+Extrait de houblon en solution aqueuse contenant environ 10 % d'acides bêta. |
+
+10 % d'acides bêta (1-lupulone, 2-colupulone, 3-adlupulone)
+
+acides alpha : pas plus de 0,1 % (m/ m)
+
+hydroxyde de potassium : pas plus de 3 %
+
+Absence de polyphénol
+
+Masse volumique : 1 020 kg/ m ³
+
+|
+
 Glutaraldéhyde.
 
 |

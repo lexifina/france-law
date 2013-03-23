@@ -868,6 +868,24 @@ Dose techniquement inévitable.
 
 |
 
+Amyloglucosidase (ou glucoamylase) issue d'une souche génétiquement modifiée de Trichoderma longibrachiatum (ex-reesei) (70H2-TrGA # 32-9) contenant le gène codant l'amyloglucosidase de Trichoderma longibrachiatum. |
+
+Enzymes. |
+
+Amidonnerie, production de sirops de glucose.
+
+Brasserie.
+
+Industrie de l'alcool.
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, biscotterie, pâtisserie et viennoiserie.
+
+|
+
+Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
+
+Teneur techniquement inévitable. |
+
 Arabinofuranosidase d'Aspergillus niger ARF-1.
 
 |
@@ -1050,6 +1068,16 @@ Hydrolyse du lactose. |
 
 Teneur techniquement inévitable. |
 
+Bêta-galactosidase issue d'une souche non génétiquement modifiée de Kluyveromyces lactis (CBS 683). |
+
+Enzymes. |
+
+Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages (à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée) stabilisés dans des conditions permettant d'assurer l'inactivation des enzymes. |
+
+Hydrolyse du lactose. |
+
+Teneur techniquement inévitable. |
+
 Bêta galactosidases de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.
 
 |
@@ -1179,6 +1207,16 @@ Hydrolyse des liaisons bêta 1-3 et 1-4 glycosidiques des bêta glucanes. Ne peu
 Dose techniquement inévitable.
 
 |
+
+Bromélaïne de tige extraite d'Ananas comosus |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, viennoiserie et biscotterie. |
+
+Hydrolyse des liaisons peptidiques des protéines. |
+
+Teneur techniquement inévitable. |
 
 Carboxypeptidase de type sérine issue d'une souche d'Aspergillus niger modifiée génétiquement PEG-1A contenant un gène codant la carboxypeptidase d'Aspergillus niger. |
 
@@ -1592,7 +1630,7 @@ Dose techniquement inévitable.
 
 Enzymes. |
 
-Viennoiserie, panification (à l'exception du pain de tradition française) et panification spéciale. |
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. |
 
 Hydrolyse des liaisons alpha (1,4) D-glycosidiques des polysaccharides amylacés en libérant des résidus maltotétraose à partir des extrémités non réductrices. |
 
@@ -1830,7 +1868,7 @@ Dose techniquement inévitable.
 
 |
 
-Exo-alpha-amylase maltogène de Bacillus subtilis contenant le gène de l'alpha amylase de Bacillus stéarothermophilus.
+Exo-α-amylase maltogène (ou 4-D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (SM) contenant le gène de Bacillus stearothermophilus.
 
 |
 
@@ -1840,13 +1878,15 @@ Enzymes.
 
 Sirop de maltose.
 
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie.
+
 |
 
 Hydrolyse des liaisons alpha 1-4 des chaînes d'amidon et d'oligosaccharides.
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -1869,6 +1909,16 @@ Teneur résiduelle techniquement inévitable.
 |
 
 Exo alpha amylase maltogène (ou 4-D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (OC) contenant le gène modifié codant l'exo alpha amylase maltogène de Bacillus stearothermophilus. |
+
+Enzymes. |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. |
+
+Hydrolyse des liaisons alpha-1-4 des chaînes d'amidon et d'oligosaccharides. |
+
+Teneur techniquement inévitable. |
+
+Exo-amylase maltogène (ou 4-D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (DS 63113) contenant un gène de Geobacillus stearothermophilus. |
 
 Enzymes. |
 
@@ -3415,6 +3465,22 @@ Hydrolysats de protéines utilisées pour leurs propriétés fonctionnelles.
 Dose techniquement inévitable.
 
 |
+
+Protéase issue d'une souche génétiquement modifiée de Bacillus subtilis (EP) contenant le gène de la protéase de Bacillus amyloliquefaciens. |
+
+Enzymes. |
+
+Hydrolysats de protéines.
+
+Brasserie.
+
+Panification (à l'exception du pain de tradition française) et panification spéciale. Biscuiterie, viennoiserie, pâtisserie.
+
+|
+
+Hydrolyse des liaisons peptidiques des protéines. |
+
+Teneur techniquement inévitable. |
 
 Protéase de Geobacillus caldoproteolyticus Rokko non transformée AZ 3173s. |
 

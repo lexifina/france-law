@@ -284,7 +284,7 @@ Légumes racines.
 
 |
 
-7 g/kg de légumes racines au maximum dans les bains de flottation pour la réalisation de tri densimétrique pour les légumes racines. Le procédé est suivi de rinçages suffisants pour réaliser l'élimination.
+7 g / kg de légumes racines au maximum dans les bains de flottation pour la réalisation de tri densimétrique pour les légumes racines. Le procédé est suivi de rinçages suffisants pour réaliser l'élimination.
 
 |
 
@@ -818,6 +818,26 @@ Divers.
 
 |
 
+Production de levures.
+
+|
+
+A la dose maximale de 500 mg/kg
+
+|
+
+Teneur résiduelle inférieure à 50 mg/ kg de levure.
+
+|
+
+Extrait de houblon en solution aqueuse contenant environ 10 % d'acides bêta.
+
+|
+
+Divers.
+
+|
+
 Sucre.
 
 |
@@ -982,7 +1002,7 @@ Produits à base de protéines dégraissées et de farines dégraissées.
 
 |
 
-Préparations de produits à base de protéines dégraissées et de farines dégraissées.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Préparations de produits à base de protéines dégraissées et de farines dégraissées. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
@@ -1250,11 +1270,11 @@ Café et thé.
 
 |
 
-Décaféination ou suppression des matières irritantes et amères du café ou du thé.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Décaféination ou suppression des matières irritantes et amères du café ou du thé. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
-≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg.
+≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg / kg.
 
 |
 
