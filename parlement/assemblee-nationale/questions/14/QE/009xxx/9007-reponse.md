@@ -1,0 +1,9 @@
+# Réponse à la question n° 9007
+
+- Question : [9007](9007.md) — Question n° 9007 — produits dangereux; lutte et prévention
+
+## Réponse
+
+*JO du 2013-03-26*
+
+Une étude a été récemment publiée dans une revue scientifique sur le port de colliers de dentition chez le nourrisson. Ces colliers, souvent constitués de perles d'ambre, ou d'autres matériaux auxquels sont associés des représentations de vertus apaisantes, sont utilisés par les parents afin d'atténuer les douleurs liées aux poussées dentaires chez le nourrisson. Cette étude souligne les risques d'étranglement que peut induire le port de ces colliers de dentition ainsi que le danger d'inhalation des perles d'ambre dont ils sont constitués. En parallèle de l'action de l'agence nationale de sécurité du médicament et des produits de santé dans le domaine de la publicité, la direction générale de la concurrence, de la consommation et de la répression des fraudes a mené, en 2011, une enquête de portée nationale sur les colliers de dentition. Cette enquête a mis en évidence que ces produits ne répondent généralement pas à l'obligation générale de sécurité des produits définie à l'article L.221-1 du code de la consommation et ont fait l'objet de mesures de retrait. L'ordre des pharmaciens a fait paraître dans son Journal du mois de mars 2012 un article indiquant que ces produits ne peuvent être vendus en officine. Un courrier a récemment été envoyé au conseil national de l'ordre des pharmaciens ainsi qu'aux principaux syndicats de pharmaciens leur demandant de bien vouloir de nouveau rappeler à leurs adhérents que les colliers de dentition ne peuvent être délivrés en pharmacie compte tenu des dispositions de l'arrêté du 15 février 2002 modifié fixant la liste des marchandises dont les pharmaciens peuvent faire le commerce dans leur officine.
