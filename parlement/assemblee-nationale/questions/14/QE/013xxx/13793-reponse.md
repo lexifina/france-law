@@ -1,0 +1,9 @@
+# Réponse à la question n° 13793
+
+- Question : [13793](13793.md) — Question n° 13793 — allocation temporaire d'attente; versement; modalités
+
+## Réponse
+
+*JO du 2013-03-26*
+
+Depuis 2008, la demande d'asile a augmenté de 70 % en cumulé par rapport à la première année d'accroissement de la demande (période 2008-2012), impactant très fortement les dispositifs de prise en charge des demandeurs d'asile, et notamment le financement de l'ATA et de l'hébergement d'urgence des demandeurs d'asile. Des besoins complémentaires importants sont donc identifiés sur ces deux postes de dépense depuis 2008 et sont abondés chaque année par le reversement de la totalité de la réserve de précaution appliquée sur le programme 303 « Immigration et asile » sur la seule action 2 « Garantie de l'exercice du droit d'asile » et par l'obtention en fin d'exercice budgétaire de crédits complémentaires dans le cadre d'un décret d'avance et/ou d'une loi de finances rectificative. Du fait de cette forte hausse de la demande d'asile, les dotations votées en loi de finances initiale se sont révélées insuffisantes pour couvrir les besoins réels. A titre d'information, les crédits votés en loi de finances initiale pour le paiement de l'ATA s'élevaient à 89,65 M€ en 2012. Or, le montant total des allocations versées, cette même année, aux demandeurs d'asile était d'environ 163,28 M€. Pour 2013, les crédits inscrits au projet de loi de finances initiale ont fait l'objet d'une mesure significative de rebasage et s'élèvent à 140 M€. L'allocation a été revalorisée de 1,75 % le 1er janvier pour atteindre 11,20 €/j. Dans ces conditions, il n'est pas souhaitable de revaloriser davantage cette allocation. Toutefois, les efforts pour réduire les délais de traitement de la demande d'asile, combinés à l'augmentation du nombre de places de CADA, doivent permettre de diminuer le nombre de bénéficiaires de cette aide.
