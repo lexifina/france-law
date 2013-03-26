@@ -1,0 +1,9 @@
+# Réponse à la question n° 16373
+
+- Question : [16373](16373.md) — Question n° 16373 — télévisions locales participatives
+
+## Réponse
+
+*JO du 2013-03-26*
+
+La ministre de la culture et de la communication est très attentive à la situation financière des médias locaux et aux moyens à mettre en oeuvre pour qu'ils se développent de façon pérenne. Qu'elles soient associatives, privées ou initiées par une collectivité locale, les télévisions locales sont susceptibles d'apporter un surcroît de pluralisme et de diversité à notre paysage audiovisuel. Elles constituent une partie importante de celui-ci et répondent à la demande grandissante de proximité exprimée par les concitoyens. La problématique du développement des télévisions de proximité se présente cependant de manière très différente de la situation qui avait présidé à la création du fonds de soutien à l'expression radiophonique (FSER). Cette décision de mise en place d'un fonds de soutien spécifique s'expliquait en effet par le mouvement de libéralisation des ondes et par le fait que la loi limite le financement publicitaire des radios associatives. Il n'est pas aujourd'hui question de restreindre l'accès des télévisions locales au marché publicitaire. Au surplus, compte tenu du contexte budgétaire contraint, il n'est actuellement pas envisageable pour le ministère de la culture et de la communication de créer un tel type de financement à destination des chaînes de télévision locales. En revanche, des mesures permettant d'accroître la visibilité des chaînes locales afin de favoriser leur accès au marché publicitaire et de développer l'intérêt des annonceurs, telles que l'amélioration de la mesure d'audience des chaînes et de leurs conditions de référencement dans les plans de service des opérateurs de communications électroniques (télévision par ADSL, câble...) retiennent l'attention du Gouvernement.
