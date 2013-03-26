@@ -1,0 +1,9 @@
+# Réponse à la question n° 16045
+
+- Question : [16045](16045.md) — Question n° 16045 — réglementation; candidatures; rejet
+
+## Réponse
+
+*JO du 2013-03-26*
+
+Dans le cadre de l'examen des candidatures prévu à l'article 52 du code des marchés publics, le pouvoir adjudicateur est tenu d'écarter les candidatures irrecevables. De ce fait, peut être éliminé un candidat ne présentant pas suffisamment de garanties du fait qu'il a mal exécuté des travaux antérieurs (CE, 27 février 1987, Hôpital départemental Esquirol c/ Sté Geneton, n° 61402). Cette position a été toutefois nuancée, le Conseil d'Etat ayant estimé qu'une « commission d'appel d'offres ne peut se fonder uniquement sur les seuls manquements allégués d'une entreprise dans l'exécution de précédents marchés, sans rechercher si d'autres éléments du dossier de candidature de la société permettent à celle-ci de justifier de telles garanties » (CE, 10 juin 2009, Région Lorraine, n° 324153). Il revient par conséquent au pouvoir adjudicateur, d'une part, de prouver la réalité du manquement du candidat lors de l'exécution de marchés antérieurs (exemple : CE, 1er mars 2012, Département de la Corse du Sud, n° 354159), et d'autre part de démontrer que ces manquements sont de nature à mettre en doute la réalité de la capacité du candidat de répondre au marché auquel il soumissionne. Il n'existe pas de jurisprudence relative à l'exclusion d'un candidat sur le fondement d'une mauvaise exécution d'un marché antérieur auprès d'un autre pouvoir adjudicateur que celui qui passe le marché considéré. Toutefois, il peut être évoqué qu'une décision d'exclusion uniquement fondée sur « des bruits et des rumeurs » de restructuration de l'entreprise candidate est irrégulière (CE, 28 avril 1993, Syndicat départemental d'électricité de la Drôme, n° 81843).
