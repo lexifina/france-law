@@ -1,0 +1,9 @@
+# Réponse à la question n° 6169
+
+- Question : [6169](6169.md) — Question n° 6169 — enfouissement; prise en charge
+
+## Réponse
+
+*JO du 2013-03-26*
+
+En vertu de l'article L. 2224-35 du code général des collectivités territoriales, un opérateur de communications électroniques, autorisé par une collectivité ou par un établissement public de coopération compétent à installer un ouvrage aérien non radioélectrique sur un support de ligne aérienne d'un réseau public de distribution d'électricité, procède à l'enfouissement de la ligne aérienne lorsque la collectivité ou l'établissement précité le demande. Le deuxième alinéa de cet article prévoit que l'opérateur prend à sa charge les coûts liés à la mise en place des équipements de communications électroniques et une partie des coûts des travaux de terrassement. L'arrêté du 2 décembre 2008 pris en application de l'article L. 2224-35 mentionné ci-dessus a précisé, dans son article 3, que la part prise en charge par l'opérateur des coûts de terrassement est fixée à 20 %. Ce même arrêté a indiqué que les coûts de terrassement « correspondent aux travaux de terrassement nécessaires au remplacement de la ligne aérienne de distribution d'électricité et de la ligne aérienne de communications électroniques ». Ces travaux de terrassement comprennent : - « l'ouverture de la tranchée, soit la démolition des revêtements, le terrassement et le déblayage, l'étayage éventuel, l'aménagement du fond de fouille ; - la fermeture de la tranchée, soit le remblayage, les dispositifs avertisseurs, le compactage. » Une convention conclue entre la collectivité ou l'établissement public de coopération et l'opérateur de communications électroniques fixe les modalités de réalisation ainsi que la participation financière de chaque partie de l'opération d'enfouissements de réseaux.
