@@ -1,0 +1,9 @@
+# Réponse à la question n° 16048
+
+- Question : [16048](16048.md) — Question n° 16048 — réglementation
+
+## Réponse
+
+*JO du 2013-03-26*
+
+L'article 70 du code des marchés publics (CMP), relatif aux concours, vise une procédure qui débouche sur un marché de travaux, alors que l'hypothèse évoquée porte sur un marché de maîtrise d'oeuvre. Les marchés de maîtrise d'oeuvre sont régis par l'article 74 du même code, qui prévoit un régime particulier si ces marchés sont passés sous la forme du concours. Dans le cas d'un marché de maîtrise d'oeuvre passé sous forme de concours, c'est donc l'article 74 qui s'applique. Par ailleurs, le 4° de l'article 21 du décret n° 2011-1000 du 25 août 2011 modifiant certaines dispositions applicables aux marchés et contrats relevant de la commande publique, a abrogé le V de l'article 74 du CMP, qui disposait que « pour les collectivités territoriales et les établissements publics locaux à l'exception des établissements publics sociaux ou médico-sociaux, c'est l'assemblée délibérante qui attribue le ou les marchés de maîtrise d'oeuvre ». De ce fait, comme l'indique la circulaire du 14 février 2012 portant guide des bonnes pratiques en matière de marchés publics, ce sont les procédures de droit commun qui s'appliquent, en l'occurrence l'attribution par la commission d'appel d'offres s'il s'agit d'un marché formalisé. En outre, un marché de maîtrise d'oeuvre s'analysant comme un marché de prestations intellectuelles ou de services, il peut être passé par un groupement de commandes prévu à l'article 8 du CMP. S'il s'agit d'un marché formalisé, la convention de groupement de commandes prévoit que l'attribution du marché a lieu soit par la commission d'appel d'offres créée spécifiquement pour le groupement (article 8-III du CMP), soit par celle du coordonnateur (article 8-VII). Dans le cas d'une procédure adaptée, l'attribution du marché peut se faire par une instance prévue à cet effet.
