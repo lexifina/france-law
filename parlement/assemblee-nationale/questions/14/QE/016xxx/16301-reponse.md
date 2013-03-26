@@ -1,0 +1,9 @@
+# Réponse à la question n° 16301
+
+- Question : [16301](16301.md) — Question n° 16301 — navires de croisière; sécurité; contrôles
+
+## Réponse
+
+*JO du 2013-03-26*
+
+En 2012, au titre du contrôle par l'État du port, 1 184 navires étrangers accostant dans les ports français ont fait l'objet d'inspections. Les navires inspectés ont été sélectionnés en fonction de leur profil de risque calculé par l'application communautaire THETIS (the hydrid european targeting and inspection system - système hybride européen d'inspection et de ciblage) selon les critères établis par la directive 2009/16/CE du 23 avril 2009 et le mémorandum d'entente de Paris sur le contrôle par l'État du port des navires étrangers (MoU de Paris, Memorandum of understanding-comprenant 27 États). En outre, à la suite à l'accident du Costa Concordia, en mai 2012, il est apparu nécessaire d'effectuer des contrôles additionnels sur les navires à passagers de croisière. Ainsi, avec le soutien de la France, le Comité du MoU de Paris a décidé en mai 2012 d'organiser une campagne spécifique ciblée sur le contrôle opérationnel des navires à passagers (HAVEP, harmonized verification programme - programme de vérification harmonisée). La campagne, à laquelle les 27 États dont la France participent, va durer toute l'année 2013. Au cours de celle-ci, les inspecteurs de la sécurité des navires chargés du contrôle par l'État du port des centres de sécurité des navires au sein des directions interrégionales de la mer vont effectuer des contrôles spécifiques comprenant la mise en oeuvre d'un scénario d'urgence standard qui inclut un incendie simulé dans les machines, le rassemblement des passagers et une évacuation (avec le débordement et l'affaissement des embarcations de sauvetage). Au cours de l'inspection, l'attention est également portée sur les communications, la formation des équipages, les sources d'énergie de secours et le fonctionnement des portes étanches.
