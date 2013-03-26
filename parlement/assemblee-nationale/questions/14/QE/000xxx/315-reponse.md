@@ -1,0 +1,9 @@
+# Réponse à la question n° 315
+
+- Question : [315](315.md) — Question n° 315 — EHPAD; médecins coordonnateurs; limite d'âge
+
+## Réponse
+
+*JO du 2013-03-26*
+
+La réponse à la question dépend du statut du médecin coordonnateur en établissement d'hébergement pour personnes âgées dépendantes (EHPAD). Si la fonction de médecin coordonnateur est exercée par un praticien hospitalier, l'article R. 6152-95 du code de la santé publique dispose que « la limite d'âge des praticiens [hospitaliers] relevant du présent statut est fixée à soixante-cinq ans ». En application des dispositions de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites, qui prévoit un report progressif de deux ans des bornes d'âge des salariés du régime général et des régimes spéciaux, la limite d'âge des praticiens hospitaliers susmentionnée sera progressivement portée à soixante-sept ans. D'ores et déjà et sans attendre cette modification règlementaire, les personnels médicaux peuvent bénéficier des dispositions de l'article 4 de la loi du 18 août 1936 concernant les mises à la retraite par ancienneté, leur permettant un recul de limite d'âge de un à quatre ans supplémentaires selon leur situation familiale. En outre, ils peuvent bénéficier des possibilités de prolongation d'activité prévues par le décret n° 2005-207 du 1er mars 2005 relatif à la prolongation d'activité des personnels médicaux hospitaliers pris en application de l'article 135 de la loi du 9 août 2004, qui précise dans son article 1er que : « peuvent être autorisés, dans la limite maximum de trente-six mois, à prolonger leur activité au-delà de la limite d'âge qui leur est applicable les praticiens hospitaliers à temps plein[...] ». Si la fonction de médecin coordonnateur est exercée par un praticien contractuel, celui-ci peut alors être recruté sans limite d'âge, en application des dispositions de l'article R6152-402 du code de la santé publique pour une période de six mois à trois ans.
