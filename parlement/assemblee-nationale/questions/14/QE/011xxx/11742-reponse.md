@@ -1,0 +1,9 @@
+# Réponse à la question n° 11742
+
+- Question : [11742](11742.md) — Question n° 11742 — nuisances sonores; réglementation
+
+## Réponse
+
+*JO du 2013-03-26*
+
+L'Autorité de contrôle des nuisances aéroportuaires (ACNUSA) a comparé en 2011 les trafics de nuit des aéroports de Paris-Charles de Gaulle (CDG) et des principaux hubs européens. L'aéroport de Paris-CDG accueille de nuit, sur la base d'une période de huit heures, 61 255 mouvements, à comparer à 48 805 pour Londres (en réunissant Heathrow, Gatwick et Stansted), 40 515 à Francfort et 28 096 à Schipol. Une comparaison de la situation de ces différents hubs européens est difficile car les facteurs à prendre en compte sont nombreux (distance à l'urbanisation, densité de population, vent dominant et configuration, existence ou pas d'une insonorisation des logements). Au-delà de ces mesures, il n'est plus envisagé par le Gouvernement de diminuer l'activité de l'aéroport, qui est créatrice d'emplois, de richesses et qui offre aux citoyens et aux acteurs économiques d'Ile-de-France des opportunités de déplacement et de transport de fret. L'existence de vols de nuit est la conséquence d'une suite de projets d'investissements et d'activités qui ont été mis en place de manière progressive et généralement consensuelle. L'aéroport de Paris-CDG fait l'objet d'une limitation du trafic de « coeur de nuit » entre 0 h et 5 h, dont le volume est plafonné avec, de plus, la contrainte que les créneaux non utilisés y sont définitivement abandonnés. En outre, depuis 2012, les aéronefs dont la marge est inférieure à 8 décibels y sont interdits entre 22 h et 6 h, et cette exigence sera portée à 10 décibels en 2014. Une réglementation exigeante est donc d'ores et déjà appliquée. Son évolution est régulièrement anticipée. Cette approche présente un avantage par rapport à celle adoptée par l'aéroport d'Heathrow qui autorise tous les aéronefs tout en les soumettant à un quota global de bruit.
