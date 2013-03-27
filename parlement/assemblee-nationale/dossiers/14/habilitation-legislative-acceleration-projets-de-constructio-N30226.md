@@ -1,0 +1,52 @@
+# Logement et urbanisme : accélération des projets de construction
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N30226
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/habilitation_legislative_acceleration_projets_de_construction
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-604.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-05-02 : 1er dépôt d'une initiative. (PRJLANR5L14B1017)
+  - 2013-05-02 : Etude d'impact (ETDIANR5L14B1017)
+  - 2013-05-02 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-02 : Renvoi en commission au fond
+      - 2013-03-27 : Nomination de rapporteur
+      - 2013-05-15 : Réunion de commission
+      - 2013-05-21 : Réunion de commission
+      - 2013-05-16 : Dépôt de rapport (RAPPANR5L14B1041, PRJLANR5L14BTC1041)
+  - Discussion en séance publique
+    - 2013-05-21 : Discussion en séance publique
+    - 2013-05-21 : Discussion en séance publique
+    - 2013-05-21 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-05-22 : Dépôt d'une initiative en navette (PRJLSNR5S199B0604)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-22 : Renvoi en commission au fond
+      - 2013-04-23 : Nomination de rapporteur
+      - 2013-05-23 : Dépôt de rapport (RAPPSNR5S199B0608)
+    - Travaux d'une commission saisie pour avis
+      - 2013-05-15 : Saisine pour avis d'une commission
+      - 2013-05-15 : Nomination de rapporteur
+      - 2013-05-22 : Dépôt de rapport (AVISSNR5S199B0607)
+  - Discussion en séance publique
+    - 2013-05-29 : Discussion en séance publique
+    - 2013-05-29 : Décision
+- deuxième lecture
+  - 2013-05-31 : Dépôt d'une initiative en navette (PRJLANR5L14B1102)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-31 : Renvoi en commission au fond
+      - 2013-06-04 : Réunion de commission
+      - 2013-06-19 : Réunion de commission
+      - 2013-06-04 : Dépôt de rapport (RAPPANR5L14B1105, PRJLANR5L14BTC1105)
+  - Discussion en séance publique
+    - 2013-06-20 : Discussion en séance publique
+    - 2013-06-20 : Décision
+- Promulgation de la loi
+  - 2013-07-01 : Promulgation d'une loi
