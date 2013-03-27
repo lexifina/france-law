@@ -1,0 +1,60 @@
+# Justice : attributions du garde des sceaux et des magistrats du ministère public
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N29949
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/attributions_magistrats_ministere_public
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-626.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-03-27 : 1er dépôt d'une initiative. (PRJLANR5L14B0845)
+  - 2013-03-27 : Etude d'impact (ETDIANR5L14B0845)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-03-27 : Renvoi en commission au fond
+      - 2013-04-03 : Nomination de rapporteur
+      - 2013-04-03 : Réunion de commission
+      - 2013-04-17 : Réunion de commission
+      - 2013-05-21 : Réunion de commission
+      - 2013-05-21 : Réunion de commission
+      - 2013-05-29 : Réunion de commission
+      - 2013-05-21 : Dépôt de rapport (RAPPANR5L14B1047, PRJLANR5L14BTC1047)
+  - Discussion en séance publique
+    - 2013-05-29 : Discussion en séance publique
+    - 2013-06-04 : Discussion en séance publique
+    - 2013-06-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-06-05 : Dépôt d'une initiative en navette (PRJLSNR5S199B0626)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-05 : Renvoi en commission au fond
+      - 2013-06-05 : Nomination de rapporteur
+      - 2013-06-19 : Dépôt de rapport (RAPPSNR5S199B0675)
+  - Discussion en séance publique
+    - 2013-07-03 : Discussion en séance publique
+    - 2013-07-04 : Discussion en séance publique
+    - 2013-07-04 : Décision
+- deuxième lecture
+  - 2013-07-05 : Dépôt d'une initiative en navette (PRJLANR5L14B1227)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-05 : Renvoi en commission au fond
+      - 2013-07-09 : Réunion de commission
+      - 2013-07-10 : Réunion de commission
+      - 2013-07-09 : Dépôt de rapport (RAPPANR5L14B1230, PRJLANR5L14BTC1230)
+  - Discussion en séance publique
+    - 2013-07-10 : Discussion en séance publique
+    - 2013-07-10 : Décision
+- deuxième lecture
+  - 2013-07-11 : Dépôt d'une initiative en navette (PRJLSNR5S199B0748)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-11 : Renvoi en commission au fond
+      - 2013-07-11 : Dépôt de rapport (RAPPSNR5S199B0753)
+  - Discussion en séance publique
+    - 2013-07-16 : Discussion en séance publique
+    - 2013-07-16 : Décision
+- Promulgation de la loi
+  - 2013-07-25 : Promulgation d'une loi
