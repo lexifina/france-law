@@ -6,7 +6,7 @@ Intitulé : titre professionnel de technicien (ne) médiation services.
 
 Niveau : IV.
 
-Code NSF : 330 t-332 t.
+Code NSF : 330-332.
 
 Résumé du référentiel d'emploi
 
@@ -22,9 +22,11 @@ Autonome dans le déroulement de ses activités, il (elle) intervient sous la re
 
 Le (la) TMS est en contact direct avec le public, usagers ou clients. Il (elle) est en permanence en lien avec les professionnels des associations, administrations et structures en charge d'un service public de son territoire. Il (elle) travaille en concertation avec ses partenaires et conduit l'action de médiation en complémentarité d'autres interventions ou prises en charge.
 
-Selon le contexte le (la) TMS travaille seul, en binôme ou en équipe. Il (elle) peut être amené (e) à travailler le soir ou le week-end. Il (elle) peut être joignable à tout moment de son activité.
+Selon le contexte, le (la) TMS travaille seul, en binôme ou en équipe. Il (elle) peut être amené (e) à travailler le soir ou le week-end. Il (elle) peut être joignable à tout moment de son activité.
 
-Capacités attestées et descriptif des composantes de la certification
+Capacités attestées et descriptif
+
+des composantes de la certification
 
 1. Participer à des réseaux professionnels et contribuer à une veille sociale territoriale
 
@@ -62,19 +64,21 @@ Mettre en œuvre une activité support à la médiation sociale, correspondant �
 
 Evaluer les actions menées.
 
-Secteurs d'activité ou types d'emploi accessibles par le détenteur du titre
+Secteur d'activité ou types d'emploi accessibles par le détenteur du titre
 
 Le (la) TMS exerce dans des lieux très différents : établissements scolaires, espaces publics et/ ou ouverts au public. Les employeurs sont principalement des associations, des collectivités territoriales, des bailleurs sociaux, des entreprises.
 
 Les types d'emplois accessibles sont les suivants :
 
--médiateur social.
+Médiateur social.
 
 Code ROME :
 
-K 1205-Information et médiation sociale.
+K 1204-Médiation sociale et facilitation de la vie en société.
 
-Réglementation de l'activité : néant.
+Réglementation de l'activité :
+
+Néant.
 
 Autorité responsable de la certification :
 
@@ -84,20 +88,20 @@ Liens avec d'autres certifications :
 
 Selon les modalités définies par arrêté relatif au titre professionnel TMS, liens avec :
 
-Baccalauréat professionnel services de proximité et vie locale ;
+Baccalauréat professionnel Services de proximité et vie locale ;
 
-Baccalauréat professionnel services aux personnes et aux territoires ;
+Baccalauréat professionnel Services aux personnes et aux territoires ;
 
-Diplôme d'Etat de moniteur-éducateur ;
+Diplôme d'Etat de moniteur éducateur ;
 
 BPJEPS toutes spécialités.
 
 Bases légales et réglementaires :
 
-Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 335-13, R. 338-2 ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6, R. 335-13 et R. 338-2 ;
 
 Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
 
 Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
 
-La règlementation applicable à ce titre professionnel est mise en œuvre à compter du 16 mai 2012.
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 16 mai 2012

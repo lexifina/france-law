@@ -1,6 +1,8 @@
 # Article Annexe II
 
-TABLEAU DES CORRESPONDANCES EN VUE DE L'OBTENTION DU TITRE DE TECHNICIEN (NE) MÉDIATION SERVICES
+TABLEAU DES CORRESPONDANCES MODIFIÉ EN VUE DE L'OBTENTION
+
+DU TITRE DE TECHNICIEN (NE) MÉDIATION SERVICES
 
 CERTIFICATEURS
 
@@ -8,7 +10,7 @@ CERTIFICATEURS
 
 MINISTÈRE CHARGÉ
 
-de la jeunesse et sports
+de la jeunesse et des sports
 
 |
 
@@ -24,9 +26,7 @@ des affaires sociales
 
 |
 
-MINISTÈRE CHARGÉ
-
-de l'agriculture
+MINISTÈRE CHARGÉ de l'agriculture
 
 |
 
@@ -48,21 +48,25 @@ Services de proximité et vie locale
 
 |
 
-Moniteur-éducateur |
+Moniteur éducateur
 
-Bac professionnel
+|
 
-Services en milieu rural |
+Baccalauréat professionnel Services aux personnes et aux territoires
+
+|
 
 CCP : participer à des réseaux professionnels et contribuer à une veille sociale territoriale
 
 |
 
-UC 2 + UC 3
+UC2 + UC3
 
 |
 
-Epreuve pratique E3 si U31 secteur A + U32 secteur G
+Epreuve pratique E3 si
+
+U31 secteur A + U32 secteur G
 
 Ou
 
@@ -70,9 +74,13 @@ U31 secteur G + U32 secteur A
 
 |
 
+DC3 + DC4
+
 |
 
-Epreuve 5 + épreuve 7 |
+Epreuve 5 + épreuve 7
+
+|
 
 CCP : assurer un service de médiation
 
@@ -80,7 +88,9 @@ CCP : assurer un service de médiation
 
 |
 
-Epreuve pratique E3 si U31 secteur A1 + U32 secteur A 2
+Epreuve pratique E3 si
+
+U 31 secteur A1 + U 32 secteur A2
 
 Ou
 
@@ -106,10 +116,18 @@ U32 secteur A2 + U31 secteur G1
 
 Ou
 
-U32 secteur A2 + U31 secteur G2 ou U32 secteur A2 + U31 secteur A1
+U32 secteur A2 + U31 secteur G2
+
+Ou
+
+U 32 secteur A2 + U 31 secteur A1
 
 |
 
-DC1 + DC2 |
+DC1 + DC2
 
-Epreuve 6 + épreuve 7 |
+|
+
+Epreuve 6 + épreuve 7
+
+|
