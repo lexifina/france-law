@@ -366,7 +366,7 @@ Visa, cote et paraphe des livres.
 
 |
 
-Procédures ouvertes après le 1er janvier 2006 en application du livre VI du code de commerce
+Procédures ouvertes après le 1 er janvier 2006 en application du livre VI du code de commerce
 
 |
 
@@ -530,7 +530,7 @@ NATURE DES ACTES
 
 |
 
-A. - Registre du commerce et des sociétés (1)
+A.-Registre du commerce et des sociétés (1)
 
 Immatriculation principale, immatriculation secondaire, inscription complémentaire (2)
 
@@ -752,7 +752,7 @@ Diligences de transmission de la formalité à l'INPI.
 
 |
 
-B. - Registre des agents commerciaux
+B.-Registre des agents commerciaux
 
 |
 
@@ -792,7 +792,7 @@ Extrait d'inscription de la déclaration.
 
 |
 
-C. - Registre du commerce et des sociétés
+C.-Registre du commerce et des sociétés
 
 Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
 
@@ -866,7 +866,7 @@ Copie des comptes annuels ou du document comptable simplifié ou de la déclarat
 
 6 |
 
-D. - Registre des agents commerciaux
+D.-Registre des agents commerciaux
 
 Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
 
@@ -926,7 +926,7 @@ Copie des comptes annuels ou du document comptable simplifié ou de la déclarat
 
 6 |
 
-E. - Registre des entrepreneurs individuels
+E.-Registre des entrepreneurs individuels
 
 à responsabilité limitée visés au 3° de l'article L. 526-7
 
@@ -1030,7 +1030,7 @@ NATURE DES ACTES
 
 |
 
-A. - Privilège du Trésor en matière fiscale
+A.-Privilège du Trésor en matière fiscale
 
 |
 
@@ -1082,7 +1082,7 @@ Mention d'une contestation en marge d'une inscription.
 
 |
 
-B. - Privilège de la sécurité sociale et des régimes complémentaires
+B.-Privilège de la sécurité sociale et des régimes complémentaires
 
 |
 
@@ -1206,7 +1206,7 @@ Délivrance d'un certificat de subrogation, de mention de saisie, de radiation d
 
 |
 
-C. - Vente et nantissement des fonds de commerce
+C.-Vente et nantissement des fonds de commerce
 
 |
 
@@ -1380,7 +1380,7 @@ Copie certifiée conforme.
 
 |
 
-D. - Nantissement d'un fonds agricole ou d'un fonds artisanal
+D.-Nantissement d'un fonds agricole ou d'un fonds artisanal
 
 |
 
@@ -1394,7 +1394,7 @@ Les émoluments alloués aux greffiers sont égaux à ceux prévus pour des acte
 
 |
 
-F. - Nantissement judiciaire
+F.-Nantissement judiciaire
 
 |
 
@@ -1408,7 +1408,7 @@ Les émoluments alloués aux greffiers sont égaux à ceux prévus pour des acte
 
 |
 
-G. - Gage des stocks
+G.-Gage des stocks
 
 |
 
@@ -1422,7 +1422,7 @@ Les émoluments alloués aux greffiers sont égaux à ceux prévus pour des acte
 
 |
 
-H. - Nantissement de l'outillage et du matériel
+H.-Nantissement de l'outillage et du matériel
 
 |
 
@@ -1436,7 +1436,7 @@ Les émoluments alloués aux greffiers sont égaux à ceux prévus pour des acte
 
 |
 
-I. - Gage sur meubles corporels
+I.-Gage sur meubles corporels
 
 (article 2338 du code civil)
 
@@ -1612,7 +1612,7 @@ Copie certifiée conforme.
 
 |
 
-J. - Warrants (1) (2)
+J.-Warrants (1) (2)
 
 |
 
@@ -1740,7 +1740,7 @@ Rédaction de lettre recommandée (en cas de formalité obligatoire).
 
 |
 
-K. - Nantissement de parts sociales ou de meubles incorporels
+K.-Nantissement de parts sociales ou de meubles incorporels
 
 |
 
@@ -1778,7 +1778,7 @@ NATURE DES ACTES
 
 |
 
-A. - Crédit-bail en matière mobilière
+A.-Crédit-bail en matière mobilière
 
 |
 
@@ -1842,7 +1842,7 @@ Certificat de radiation.
 
 |
 
-B. - Contrat de location
+B.-Contrat de location
 
 |
 
@@ -1906,7 +1906,7 @@ Certificat de radiation.
 
 |
 
-C. - Inscription sur le registre spécial des prêts et délais
+C.-Inscription sur le registre spécial des prêts et délais
 
 |
 
@@ -1970,7 +1970,7 @@ Certificat de radiation.
 
 |
 
-D. - Clause de réserve de propriété
+D.-Clause de réserve de propriété
 
 |
 
@@ -2034,7 +2034,7 @@ Certificat de radiation.
 
 |
 
-E. - Clause d'inaliénabilité
+E.-Clause d'inaliénabilité
 
 |
 
@@ -2098,7 +2098,7 @@ Certificat de radiation.
 
 |
 
-F. - Publicité des protêts et des certificats de non-paiement des chèques postaux
+F.-Publicité des protêts et des certificats de non-paiement des chèques postaux
 
 |
 
@@ -2142,7 +2142,7 @@ Délivrance d'un extrait de registre des protêts positif ou négatif.
 
 |
 
-G. - Immatriculation des bateaux de rivière
+G.-Immatriculation des bateaux de rivière
 
 |
 
@@ -2232,7 +2232,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 
 |
 
-Déclarations prévues au troisième alinéa de l'article 34 du décret du 3 avril 1919 modifié, mention des changements de domicile élu.
+Déclarations prévues au troisième alinéa de l'article R. 4124-6 du code des transports, mention des changements de domicile élu.
 
 |
 
@@ -2322,11 +2322,11 @@ Formalités consécutives au transfert d'immatriculation au greffier du lieu de 
 
 (3) Lorsque l'inscription est requise sur plusieurs bateaux et porte, pour chacun d'eux, sur la totalité de la créance, le droit proportionnel est réduit :
 
-- de moitié pour les deuxième, troisième, quatrième et cinquième bateaux ;
+-de moitié pour les deuxième, troisième, quatrième et cinquième bateaux ;
 
-- des deux tiers pour les sixième, septième, huitième, neuvième et dixième bateaux ;
+-des deux tiers pour les sixième, septième, huitième, neuvième et dixième bateaux ;
 
-- des trois quarts au-delà du dixième bateau.
+-des trois quarts au-delà du dixième bateau.
 
 |
 
@@ -2536,35 +2536,35 @@ Seuil de CA...
 
 |
 
-CA inférieur à 750 k€
+CA inférieur à 750 k €
 
 |
 
-CA supérieur à 750 k€
+CA supérieur à 750 k €
 
 |
 
-CA inférieur à 3 000 k€
+CA inférieur à 3 000 k €
 
 |
 
-CA supérieur à 3 000 k€
+CA supérieur à 3 000 k €
 
 |
 
-CA inférieur à 20 000 k€
+CA inférieur à 20 000 k €
 
 |
 
-CA de 20 000 k€ à 50 000 k€
+CA de 20 000 k € à 50 000 k €
 
 |
 
-CA supérieur à 50 000 k€
+CA supérieur à 50 000 k €
 
 |
 
-Droit principal. - Nombre de taux de base...
+Droit principal.-Nombre de taux de base...
 
 |
 
@@ -2606,7 +2606,7 @@ Droit principal. - Nombre de taux de base...
 
 Frais de transmission.
 
-- Nombre de taux de base...
+-Nombre de taux de base...
 
 |
 
@@ -2705,3 +2705,5 @@ Total...
 NOTA :
 
 Décret n° 2009-1661 du 28 décembre 2009 art. 11 I. - Les modifications induites par les articles 1er et 4 à 7 sont applicables aux procédures ouvertes à compter de l'entrée en vigueur du présent décret.
+
+Le décret du 3 avril 1919 est abrogé et codifié dans la partie réglementaire du code des transports par le décret n° 2013-253 du 25 mars 2013, article 4.
