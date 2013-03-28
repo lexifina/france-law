@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130104241
+
+- Question : [SEQ130104241](seq130104241.md) — Égalité professionnelle dans la fonction publique territoriale
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2013-03-28, page 1028*
+
+L'article 56 de la loi n° 2012-347 du 12 mars 2012 relative à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique a créé un mécanisme incitatif de respect de la parité entre les hommes et les femmes dans l'attribution des emplois de direction des trois fonctions publiques. Il crée l'article 6 quater de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires. Cet article dispose qu'au titre de chaque année civile les nominations dans les emplois supérieurs ou de direction des trois fonctions publiques doivent concerner au moins 40 % de personnes de chaque sexe. En cas de non-respect de cette obligation, une contribution financière est due. Une période transitoire de cinq ans permet une mise en œuvre progressive de l'obligation. Le décret n° 2012-601 du 30 avril 2012 relatif aux modalités de nominations équilibrées dans l'encadrement supérieur de la fonction publique complète le dispositif législatif et son annexe énonce les emplois de direction relevant de l'obligation de parité. La loi prévoit que le renouvellement dans un emploi de direction ne sera pas comptabilisé au titre de l'obligation de parité. Cette disposition a pour effet de ne pas pénaliser les employeurs publics qui renouvellent un agent initialement nommé dans l'emploi avant l'entrée en vigueur de l'obligation, à un moment où elle n'existait pas encore. De plus, pour l'avenir, la prise en considération du renouvellement pourrait constituer une entrave au renouvellement souhaité d'agents de direction.
