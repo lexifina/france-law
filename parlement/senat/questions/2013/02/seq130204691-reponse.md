@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204691
+
+- Question : [SEQ130204691](seq130204691.md) — Importation de viande bovine américaine désinfectée à l'acide lactique
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2013-03-28, page 1019*
+
+Le règlement (UE) n° 101/2013 de la Commission du 4 février 2013 concernant l'utilisation de l'acide lactique pour réduire la contamination microbiologique de surface des carcasses de bovins, publié le 5 février 2013 autorise, à partir du 25 février 2013, les exploitants du secteur alimentaire à utiliser l'acide lactique pour réduire la contamination microbiologique de surface des carcasses de bovins à l'abattoir. Cette pratique est ainsi autorisée pour les produits provenant de pays tiers et importés dans l'Union européenne mais aussi pour les opérateurs européens. Ce texte a été adopté à l'issue d'un processus décisionnel au cours duquel la France s'est toujours exprimée contre l'adoption de ces dispositions. En effet, la décontamination chimique, dont l'objet est de pallier d'éventuels défauts d'hygiène lors des opérations d'abattage, va à l'encontre de la priorité attachée depuis toujours par l'Union européenne au respect des bonnes pratiques d'hygiène tout au long de la chaîne alimentaire depuis l'élevage jusqu'à l'assiette du consommateur. Alors que la mesure est aujourd'hui d'application, ce sont les services vétérinaires des directions départementales en charge de la protection des populations (DDPP ou DDCSPP), présents dans les abattoirs, qui assureront le contrôle du respect, par l'exploitant, des conditions d'utilisation de l'acide lactique. Ceux-ci veilleront au strict respect des dispositions qui en encadrent l'usage (validation de l'efficacité, définition des produits pouvant êtres traités, non-substitution aux bonnes pratiques d'hygiène lors des opérations d'abattage...), et s'assureront que la priorité reste l'application de bonnes pratiques d'hygiène tout au long de la chaîne d'abattage.
