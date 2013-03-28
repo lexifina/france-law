@@ -86,6 +86,22 @@ Pour 2012
 
 |
 
+Pour 2013
+
+|
+
+13 %
+
+|
+
+Pour 2014
+
+|
+
+13 %
+
+|
+
 Bibliothécaire assistant spécialisé de classe exceptionnelle
 
 |
@@ -97,6 +113,14 @@ Pour 2012
 |
 
 11 %
+
+|
+
+Pour 2013
+
+|
+
+12 %
 
 |
 
@@ -382,6 +406,22 @@ Pour 2012
 
 |
 
+Pour 2013
+
+|
+
+10 %
+
+|
+
+Pour 2014
+
+|
+
+10 %
+
+|
+
 Technicien de recherche et de formation de classe exceptionnelle
 
 |
@@ -389,6 +429,22 @@ Technicien de recherche et de formation de classe exceptionnelle
 |
 
 Pour 2012
+
+|
+
+20 %
+
+|
+
+Pour 2013
+
+|
+
+20 %
+
+|
+
+Pour 2014
 
 |
 
@@ -424,6 +480,22 @@ Pour 2012
 
 |
 
+Pour 2013
+
+|
+
+12 %
+
+|
+
+Pour 2014
+
+|
+
+12 %
+
+|
+
 Adjoint technique principal de 2e classe
 
 |
@@ -431,6 +503,22 @@ Adjoint technique principal de 2e classe
 |
 
 Pour 2012
+
+|
+
+10 %
+
+|
+
+Pour 2013
+
+|
+
+10 %
+
+|
+
+Pour 2014
 
 |
 
@@ -449,5 +537,21 @@ Pour 2012
 |
 
 20 %
+
+|
+
+Pour 2013
+
+|
+
+18 %
+
+|
+
+Pour 2014
+
+|
+
+15 %
 
 |
