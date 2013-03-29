@@ -2,14 +2,42 @@
 
 Les forfaits horaires pour les contrats et les périodes de professionnalisation des salariés sont les suivants :
 
-– les actions de formation mises en œuvre par un organisme de formation externe dans le cadre du contrat de professionnalisation ;
+1. Les actions de formation mises en œuvre par un organisme de formation dans le cadre du contrat de professionnalisation.
 
-L'OPCA de branche appliquera le forfait suivant :
+L'OPCA de branche appliquera le forfait suivant : 12 € de l'heure dont 9,15 € au maximum TTC ou net de taxes au titre des coûts pédagogiques.
 
-– 12 € de l'heure, dont 9,15 € au maximum ttc ou net de taxes au titre des coûts pédagogiques ;
+2. Les actions de formation dans le cadre de la période de professionnalisation
 
-– les actions de formation dans le cadre de la période de professionnalisation.
+Les périodes de professionnalisation ont pour objet de favoriser le maintien dans l'emploi de salariés sous contrat de travail à durée indéterminée (1).
 
-L'OPCA de branche finance les périodes de formation réalisées par un organisme de formation externe. L'OPCA de branche appliquera le forfait suivant : 25 € au maximum de l'heure TTC ou net de taxes.
+Elles ont pour objectif :
 
-La CPNEFP de la branche, sur proposition de l'OPCA de branche, pourra revoir les montants des forfaits définis au présent accord entre deux négociations de branche sur la formation.
+-de permettre à leurs bénéficiaires d'acquérir une qualification :
+
+-enregistrée dans le répertoire national des certifications professionnelles (RNCP) ;
+
+-reconnue dans les classifications d'une convention collective nationale de branche ;
+
+-ouvrant droit à un certificat de qualification professionnelle ;
+
+-permettant d'acquérir une certification spécialisée (CS) ;
+
+-figurant sur une liste établie par la commission paritaire nationale de l'emploi de la branche ;
+
+-de participer à une action de formation dont l'objectif est défini par la CPNEFP.
+
+Les périodes de professionnalisation sont mises en œuvre sur la base des principes suivants :
+
+-une personnalisation des parcours de formation, en fonction des connaissances et des expériences de chacun des bénéficiaires ;
+
+-une alternance alliant des séquences de formation professionnelle, dans ou en dehors de l'entreprise, et l'exercice d'une ou plusieurs activités professionnelles en lien avec la qualification recherchée ;
+
+-le suivi de l'alternance est assuré par un tuteur.
+
+L'OPCA de branche appliquera le forfait suivant : 25 € au maximum de l'heure TTC ou net de taxes.
+
+La CPNEFP de la branche, sur proposition de l'OPCA de branche, communiquera à la section paritaire sectorielle jardinerie-graineterie les montants des forfaits définis au présent accord entre deux négociations de branche sur la formation.
+
+(1) Le premier alinéa du 2 de l'article 1er est étendu sous réserve de l'application des dispositions de l'article L. 6324-1 du code du travail.
+
+(Arrêté du 23 octobre 2013 - art. 1)
