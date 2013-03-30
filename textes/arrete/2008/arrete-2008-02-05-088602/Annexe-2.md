@@ -1,18 +1,14 @@
 # Article Annexe 2
 
-RYTHME SUD
-
-(A compter de la rentrée scolaire 2012-2013)
-
-PAYS DE RÉSIDENCE
-
-(rythme Sud)
+PAYS DE RÉSIDENCE (RYTHME SUD)
 
 |
 
 ENFANTS
 
-de moins de 10 ans
+de moins
+
+de 10 ans
 
 |
 
@@ -32,15 +28,35 @@ ARGENTINE
 
 |
 
-555
+a) Montant mensuel
 
 |
 
-575
+690
 
 |
 
-629
+719
+
+|
+
+784
+
+|
+
+b) Droits de première inscription
+
+|
+
+1 468
+
+|
+
+1 468
+
+|
+
+1 468
 
 |
 
@@ -48,47 +64,107 @@ BOLIVIE
 
 |
 
-296
+a) Montant mensuel
 
 |
 
-301
+408
 
 |
 
-307
+417
 
 |
 
-BRÉSIL (Rio de Janeiro)
+426
 
 |
 
-803
+b) Droits de première inscription
 
 |
 
-803
+1 253
 
 |
 
-803
+1 285
 
 |
 
-BRÉSIL (SAÕ PAULO)
+1 317
 
 |
 
-825
+BRESIL (Rio)
 
 |
 
-866
+a) Montant mensuel
 
 |
 
-892
+840
+
+|
+
+840
+
+|
+
+840
+
+|
+
+b) Droits de première inscription
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+BRESIL (Sao Paulo)
+
+|
+
+a) Montant mensuel
+
+|
+
+831
+
+|
+
+903
+
+|
+
+903
+
+|
+
+b) Droits de première inscription
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
 
 |
 
@@ -96,15 +172,35 @@ CHILI
 
 |
 
-495
+a) Montant mensuel
 
 |
 
-495
+505
 
 |
 
-495
+505
+
+|
+
+505
+
+|
+
+b) Droits de première inscription
+
+|
+
+1 861
+
+|
+
+1 861
+
+|
+
+1 861
 
 |
 
@@ -112,31 +208,71 @@ COSTA RICA
 
 |
 
-313
+a) Montant mensuel
 
 |
 
-313
+403
 
 |
 
-313
+403
 
 |
 
-PÉROU
+403
 
 |
 
-454
+b) Droits de première inscription
 
 |
 
-454
+0
 
 |
 
-454
+0
+
+|
+
+0
+
+|
+
+PEROU
+
+|
+
+a) Montant mensuel
+
+|
+
+499
+
+|
+
+499
+
+|
+
+499
+
+|
+
+b) Droits de première inscription
+
+|
+
+4 641
+
+|
+
+3 403
+
+|
+
+2 135
 
 |
 
@@ -144,15 +280,35 @@ URUGUAY
 
 |
 
-552
+a) Montant mensuel
 
 |
 
-670
+654
 
 |
 
-743
+770
+
+|
+
+828
+
+|
+
+b) Droits de première inscription
+
+|
+
+242
+
+|
+
+423
+
+|
+
+423
 
 |
 
@@ -160,14 +316,34 @@ VANUATU
 
 |
 
-364
+a) Montant mensuel
 
 |
 
-375
+396
 
 |
 
-458
+450
+
+|
+
+497
+
+|
+
+b) Droits de première inscription
+
+|
+
+752
+
+|
+
+752
+
+|
+
+752
 
 |
