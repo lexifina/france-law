@@ -24,7 +24,7 @@ CORPS DE L'ETAT CORRESPONDANT
 
 |
 
-Ministère des affaires sociales.
+Ministères chargés des affaires sociales.
 
 |
 
@@ -40,15 +40,11 @@ de bienfaisance.
 
 |
 
-Personnel des services médicaux.
+Infirmiers de l'Etat.
 
 |
 
-Personnel des services médicaux
-
-des établissements nationaux
-
-de bienfaisance.
+Infirmiers de l'Etat.
 
 |
 
@@ -348,7 +344,9 @@ Préposés et brigadiers, matelots et
 
 patrons des douanes. |
 
-Ministère de l'éducation nationale. |
+Ministère de l'éducation nationale.
+
+|
 
 Instituteurs et institutrices.
 
@@ -394,7 +392,9 @@ Professeurs des écoles. |
 
 Professeurs des écoles. |
 
-Ministère de l'équipement et du logement. |
+Ministère de l'équipement et du logement.
+
+|
 
 Adjoints techniques des travaux publics.
 
@@ -564,7 +564,9 @@ Adjoints administratifs. |
 
 Adjoints administratifs des préfectures. |
 
-Ministère de l'intérieur. |
+Ministère de l'intérieur.
+
+|
 
 Inspecteur de police.
 
@@ -911,3 +913,7 @@ Aides-techniciens de la météorologie. |
 Aides-techniciens de la météorologie.
 
 |
+
+NOTA :
+
+Le corps des agents du recouvrement du Trésor et des agents de constatation ou d'assiette des impôts sont, par modification du titre des décrets n° 68-464 et n° 50-213 par le décret n° 2007-655 (articles 13 et 15) devenus respectivement corps des agents d'administration du Trésor et des agents administratifs des impôts. Ces deux derniers sont devenus corps des agents administratifs des finances publiques par décret n° 2010-924 (article 29). Le corps des contrôleurs des impôts et des contrôleurs du Trésor sont devenus corps des contrôleurs des finances publiques par décret n° 2010-982 (article 28).
