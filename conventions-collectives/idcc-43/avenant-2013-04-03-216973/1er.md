@@ -1,0 +1,15 @@
+# Article 1er
+
+L'article 1er « Champ d'application » est modifié comme suit :
+
+« Cet accord a pour objet d'instituer un régime minimum obligatoire de prévoyance au plan national généralisé à tout le personnel cadre et non cadre exerçant une activité salariée dans les entreprises entrant dans le champ d'application de la convention collective nationale de l'import-export n° 3100 inscrit à l'effectif le jour de la mise en œuvre du régime de prévoyance.
+
+On entend par cadre le personnel relevant des articles 4 et 4 bis de la convention nationale de retraite et de prévoyance des cadres du 14 mars 1947 et de l'article 36 de l'annexe I de cette convention.
+
+On entend par non-cadre le personnel ne relevant pas des articles 4 et 4 bis de la convention nationale de retraite et de prévoyance des cadres du 14 mars 1947 et de l'article 36 de l'annexe I de cette convention.
+
+La notion de salarié s'entend pour tous les bénéficiaires d'un contrat de travail à durée déterminée ou indéterminée.
+
+Le personnel uniquement rétribué à la commission, les voyageurs, représentants et placiers ainsi que le personnel résidant à l'étranger ou dans les territoires et départements d'outre-mer exclus du champ d'application de la convention collective nationale de l'import-export le sont aussi du régime de prévoyance.
+
+La notion de salarié présent à l'effectif comprend tous les salariés au travail ou en arrêt pour cause de maladie, maternité ou accident au jour de l'entrée en vigueur du régime de prévoyance. »
