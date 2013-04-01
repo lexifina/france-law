@@ -1,0 +1,91 @@
+# Article 1er
+
+La loi du 9 novembre 2010 portant réforme des retraites a introduit des dispositions visant à relever, de manière progressive, l'âge de départ à la retraite.
+
+Afin de prendre en compte les impacts de cette mesure sur le régime de prévoyance, les dispositions suivantes annulent et remplacent le contenu de l'article 6 « Cotisations » de l'accord du 25 janvier 2007 :
+
+« Afin de prendre en compte les effets de la loi portant réforme des retraites sur la durée de service des prestations incapacité temporaire de travail et/ ou incapacité permanente de travail, il est instauré une cotisation exceptionnelle et temporaire de 0,29 %, qui s'ajoute au taux de cotisation du régime.
+
+Cette cotisation exceptionnelle et temporaire sera répartie entre l'employeur et le salarié, soit 0,145 % à la charge du salarié et 0,145 % à la charge de l'employeur.
+
+Cette cotisation sera prélevée pendant une durée de 12 mois.
+
+A l'issue de cette période, la cotisation exceptionnelle et temporaire cessera d'être appelée.
+
+Pour tous les employeurs et les salariés, le taux global d'appel des cotisations destinées au financement des prestations qui correspondent aux garanties couvrant l'indemnité journalière pour l'incapacité temporaire de travail, la rente liée à l'invalidité et le décès, est réparti à la charge des employeurs et à la charge des salariés, comme indiqué dans le tableau ci-dessous :
+
+Les taux de cotisations afférents aux garanties prévoyance sont :
+
+(En pourcentage.)
+
+Garanties |
+
+Taux
+
+de cotisation |
+
+Part
+
+employeur |
+
+Part
+
+salarié |
+
+Incapacité temporaire de travail |
+
+0,65 |
+
+0,33 |
+
+0,32 |
+
+Invalidité |
+
+0,38 |
+
+0,185 |
+
+0,195 |
+
+Décès |
+
+0,42 |
+
+0,21 |
+
+0,21 |
+
+Sous-total |
+
+1,45 |
+
+0,725 |
+
+0,725 |
+
+Assurance des charges sociales patronales |
+
+0,11 |
+
+0,11 |
+
+– |
+
+Réforme des retraites (cotisation exceptionnelle pour 1 an) |
+
+0,29 |
+
+0,145 |
+
+0,145 |
+
+Total |
+
+1,85 |
+
+0,98 |
+
+0,87 |
+
+Ces cotisations sont appelées sur l'ensemble du personnel non cadre quelle que soit son ancienneté. »
