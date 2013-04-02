@@ -1,0 +1,9 @@
+# Réponse à la question n° 20170
+
+- Question : [20170](20170.md) — Question n° 20170 — zones humides
+
+## Réponse
+
+*JO du 2013-04-02*
+
+Les zones humides sont très importantes pour le rôle qu'elles jouent notamment pour la biodiversité, la régulation des inondations et contre la pollution. La loi relative au développement des territoires ruraux du 23 février 2005 édicte que la préservation des zones humides est d'intérêt général (article L. 211-1-1 du code de l'environnement). Un décret en conseil d'État du 30 janvier 2007 a précisé la définition des zones humides (article R.211-108 du code de l'environnement) en fixant des critères objectifs : morphologie des sols liée à la présence prolongée d'eau d'origine naturelle et présence éventuelle de plantes hygrophiles définies à partir de listes établies par région bio-géographique. Un arrêté modifié du 24 juin 2008 a complété le dispositif en définissant notamment les classes pédologiques des sols qui peuvent être considérés comme hydromorphes. Ainsi, des sols peuvent être qualifiés d'humides sans considération de leur usage. Ces milieux ouverts doivent être entretenus pour rester opérationnels. Le pâturage et la fauche sont les meilleurs garants de leur maintien quand ils sont réalisés selon des modalités spécifiques et adaptées à la zone humide. Afin de garantir une agriculture performante et respectueuse des zones humides, le ministère chargé de l'agriculture a mis en place un système de mesures agro-environnementales (MAE) co-financées par l'Union européenne dont peuvent bénéficier les éleveurs. Le ministère de l'agriculture, de l'agroalimentaire et de la forêt veille à ce que ce type de mesures soit reconduit lors de la prochaine programmation du deuxième pilier de la politique agricole commune. Des travaux sont en cours afin de construire une MAE spécifique à la zone humide et adaptée.
