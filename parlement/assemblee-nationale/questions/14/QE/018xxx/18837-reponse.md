@@ -1,0 +1,9 @@
+# Réponse à la question n° 18837
+
+- Question : [18837](18837.md) — Question n° 18837 — marchés de conceptions-réalisation; réglementation
+
+## Réponse
+
+*JO du 2013-04-02*
+
+L'article 37 du code des marchés publics a été modifié par le décret n° 2011-1000 du 25 août 2011 afin d'y intégrer les innovations intégrées à l'article 18 de la loi du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée (loi MOP) par la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement. En permettant aux acheteurs publics de recourir au marché de conception-réalisation lorsqu'un engagement sur un niveau d'amélioration de l'efficacité énergétique rend nécessaire l'association de l'entrepreneur aux études de l'ouvrage, ces dispositions ont pour objet de mettre en oeuvre l'article 5 de la loi n° 2009-967 du 3 août 2009 de programmation relative à la mise en oeuvre du Grenelle de l'environnement qui fixe des objectifs de réduction des consommations d'énergie des bâtiments existants de l'État et de ses établissements publics et demande à l'État d'inciter les collectivités territoriales à engager un programme de rénovation de leurs bâtiments en matière d'économie d'énergie dans les mêmes conditions et au même rythme. En conséquence, la notion d'amélioration de la performance énergétique, qui implique une situation initiale, doit être comprise à la lumière de l'article 5 de la loi Grenelle qui ne vise que les bâtiments existants. Le recours au marché de conception-réalisation pour des motifs liés à la performance énergétique n'est donc possible que pour les travaux de réhabilitation et non dans l'hypothèse de la construction d'un ouvrage neuf. Ce point a été précisé lors de la mise à jour du guide de bonnes pratiques par la circulaire du 14 février 2012 (point 7.1.3.1).
