@@ -1,0 +1,9 @@
+# Réponse à la question n° 3925
+
+- Question : [3925](3925.md) — Question n° 3925 — victimes; réglementation
+
+## Réponse
+
+*JO du 2013-04-02*
+
+La garde des sceaux, ministre de la Justice, est sensible à la question posée au regard du droit d'accéder à la justice qui doit être garanti aux justiciables, et particulièrement aux victimes d'infractions portant atteinte à leur intégrité corporelle. Les conditions d'application de la règle mise en cause ne paraissent pas cependant porter atteinte à ce droit. Aux termes de l'article 88 du code de procédure pénale, le juge d'instruction saisi d'une plainte avec constitution de partie civile doit fixer le montant de la consignation que la victime doit déposer au greffe sous peine de non-recevabilité de la plainte. Les juges adaptent très concrètement le montant de la consignation en fonction des ressources de l'intéressé et au vu des éléments de la cause, ceci afin que ce cautionnement ne constitue pas un obstacle à l'accès au juge. Par ailleurs, la partie civile est automatiquement dispensée de toute consignation lorsqu'elle a obtenu l'aide juridictionnelle, que celle-ci soit totale ou partielle. De même, le juge peut dispenser de consignation la partie civile qui en ferait la demande. Il peut être noté qu'en matière de crime de sang, il est assez rare que l'initiative de l'engagement de l'action publique soit laissée aux victimes, les parquets prenant le plus grand soin à agir en ce domaine directement au nom des intérêts généraux de la société. Enfin, aux termes de la jurisprudence de la Cour de cassation, ces dispositions ne sont pas incompatibles avec celles de l'article 6 de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, garantissant le droit d'accès à la justice et à un procés équitable.
