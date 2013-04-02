@@ -1,0 +1,9 @@
+# Réponse à la question n° 8244
+
+- Question : [8244](8244.md) — Question n° 8244 — réseau; entretien; rapport; conclusions
+
+## Réponse
+
+*JO du 2013-04-02*
+
+Les dispositions du contrat de performance 2008-2012 de Réseau ferré de France (RFF) ont jeté les fondements de la réflexion à mener sur l'usage actuel et futur du réseau ferroviaire et l'analyse des enjeux et des potentiels de ses différents segments. La déclinaison des équilibres économiques et des politiques techniques par sous-réseau sera ainsi l'une des bases pour l'élaboration du prochain contrat de performance entre l'Etat et le gestionnaire d'infrastructure unifié que le Gouvernement souhaite créer. En matière de déplacements de voyageurs, les travaux menés par RFF sur la déclinaison par sous-réseau des politiques commerciales (tarification, services offerts...), d'infrastructures (exploitation, maintenance) et de modernisation permettront aussi de nourrir le dialogue à mener avec les régions sur la politique de gestion des sous-réseaux majoritairement utilisés par les trafics régionaux et, notamment, sur le sujet des lignes à faible trafic de catégorie UIC 7 à 9. S'agissant de la possible mise en oeuvre de dessertes routières en substitution des dessertes ferroviaires aujourd'hui assurées sur ces lignes, il convient de rappeler que la décision de maintenir des services sur une ligne peu fréquentée ou de les remplacer par une desserte routière relève strictement de l'autorité organisatrice régionale territorialement compétente pour l'organisation des services régionaux de voyageurs, depuis le transfert de compétences intervenu en 2002. D'une façon générale, les services ferroviaires et les services routiers sont complémentaires et ne doivent pas être opposés. Il appartient aux régions d'examiner cette question au cas par cas.
