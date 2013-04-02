@@ -1,0 +1,9 @@
+# Réponse à la question n° 16122
+
+- Question : [16122](16122.md) — Question n° 16122 — chrétiens; liberté de culte
+
+## Réponse
+
+*JO du 2013-04-02*
+
+La liberté de religion ou de conscience et la liberté d'expression, telles qu'elles sont définies par la Déclaration universelle des droits de l'Homme et le Pacte international sur les droits civils et politiques, que le Pakistan a ratifié en juin 2010, garantissent le droit de manifester sa religion et celui d'exprimer ses opinions sans être inquiété. L'opposition constante de la France à la peine de mort en toute circonstance l'incite également à prendre position contre le délit de blasphème, passible de la peine capitale. La France et ses partenaires européens expriment régulièrement leur préoccupation s'agissant de l'existence de ce délit et notamment des accusations infondées dont il est à l'origine et dont sont victimes des membres des minorités religieuses, musulmanes (ahmadie) comme non-musulmanes (chrétienne, hindoue). La mobilisation de la France et de la communauté internationale a ainsi contribué à la remise en liberté, en novembre dernier, de Rimsha Masih, une jeune fille de 14 ans injustement accusée de « délit de blasphème ». Par ailleurs, l'ambassade de France au Pakistan est en contact étroit avec M. Paul Bhatti, conseiller du premier ministre pour l'harmonie nationale avec rang de ministre fédéral. M. Bhatti, dont le frère Shahbaz, ministre en chargé des minorités religieuses, avait été assassiné le 2 mars 2011 pour ses prises de position contre la loi sur le blasphème, a organisé à Islamabad, les 20 et 22 février, une conférence sur le dialogue interreligieux au Pakistan. Dans un contexte difficile au Pakistan, l'action de M. Bhatti vise à faciliter le traitement pacifique des situations de conflits entre les différents groupes religieux au Pakistan. M. Bhatti sait pouvoir compter sur le soutien de la France dans sa démarche.
