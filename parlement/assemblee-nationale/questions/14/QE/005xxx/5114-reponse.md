@@ -1,0 +1,9 @@
+# Réponse à la question n° 5114
+
+- Question : [5114](5114.md) — Question n° 5114 — conditions d'attribution
+
+## Réponse
+
+*JO du 2013-04-02*
+
+Le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social a pris connaissance avec intérêt de la question relative à l'interprétation donnée en pratique aux dispositions de l'accord d'application n° 14 du 6 mai 2011 pris pour l'application des articles 2, 4 et 9 § 2 du règlement général annexé à la convention du 6 mai 2011 relative à l'indemnisation du chômage. Cet accord, qui précise les cas de démission considérés comme légitimes, prévoit notamment, dans son chapitre 2, des dispositions concernant la période de 91 jours pendant laquelle un salarié peut mettre fin volontairement à une activité entreprise à la suite d'un licenciement, d'une rupture conventionnelle ou d'une fin de contrat de travail à durée déterminée (CDD). Il ne précise pas cependant si cette période doit être évaluée en jours calendaires ou en jours travaillés. S'agissant du calcul de cette période de 91 jours, la règle qui doit être appliquée par Pôle emploi est la prise en compte du nombre de jours consécutifs entre la date de début du nouvel emploi et la date de la rupture volontaire. Ainsi, l'intéressé qui prend l'initiative de cesser l'activité reprise après un licenciement, un CDD ou une rupture conventionnelle n'ayant pas donné lieu à une inscription comme demandeur d'emploi peut bénéficier des allocations de chômage à condition que la durée de l'emploi repris n'excède pas 91 jours consécutifs (calendaires). Au-delà de cette période de 91 jours consécutifs, la démission ne pourra être considérée comme légitime et ne donnera donc pas lieu à l'allocation de chômage. Toutefois, pour éviter tout risque de divergences d'interprétation sur ce point, Pôle emploi procédera à un rappel de cette règle à l'ensemble de son réseau.
