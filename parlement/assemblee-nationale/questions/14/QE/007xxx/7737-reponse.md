@@ -1,0 +1,9 @@
+# Réponse à la question n° 7737
+
+- Question : [7737](7737.md) — Question n° 7737 — Richard Ducros; emploi et activité; Gard
+
+## Réponse
+
+*JO du 2013-04-02*
+
+Le 19 mai 2011, le tribunal de commerce de Paris a prononcé la liquidation judiciaire de l'entreprise Richard Ducros sise à Alès conduisant ainsi au licenciement de 284 salariés. La cellule de reclassement, mise en oeuvre dans le cadre du plan de sauvegarde de l'emploi, a permis de prendre en charge ces salariés afin de les accompagner dans leurs démarches de retour à l'emploi. Cette cellule, qui devait prendre fin en juillet 2012, a été prolongée d'un mois. Lors d'une réunion organisée le 9 juillet 2012 à la sous-préfecture d'Alès, avec les élus, les représentants des salariés et l'administration, afin de dresser le bilan de la mise en oeuvre du plan de sauvegarde de l'emploi, les anciens salariés de l'entreprise Richard Ducros ont émis le souhait de pouvoir bénéficier, aux termes de la prise en charge par la cellule de reclassement, des mesures de préretraites licenciement allocation spéciale du fonds national de l'emploi (ASFNE). Il n'a pu être donné une suite favorable à cette demande dans la mesure où la loi n° 2011-1977 du 28 décembre 2011 portant loi de finances pour 2012 a supprimé toute possibilité d'entrée nouvelle dans ce dispositif à compter du 1er janvier 2012. Par ailleurs, à titre dérogatoire au-delà des dispositifs de droit commun, l'Etat a intégralement pris en charge la mise en place d'une cellule de reclassement personnalisé à laquelle cent vingt salariés ont adhéré tandis que l'association pour la formation professionnelle des adultes (AFPA) a mis en place une cellule de premier accueil ainsi qu'une cellule d'accompagnement psychologique. Tous les moyens disponibles de l'Etat ont été mis en oeuvre pour atténuer les conséquences sociales de cette liquidation judiciaire.
