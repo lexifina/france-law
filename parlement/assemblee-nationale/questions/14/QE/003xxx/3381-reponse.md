@@ -1,0 +1,9 @@
+# Réponse à la question n° 3381
+
+- Question : [3381](3381.md) — Question n° 3381 — contrats aidés; Ardennes
+
+## Réponse
+
+*JO du 2013-04-02*
+
+Les contrats aidés sont largement mobilisés pour faire face aux conséquences sur l'emploi de la crise économique traversée par notre pays. La loi de finances initiale pour 2012 y a consacré une enveloppe financière globale de 1 965,6 M€. Au second semestre 2012, l'enveloppe physique a été abondée à deux reprises, de 120 000 contrats complémentaires au total, ce qui a porté le nombre total d'entrées en contrat unique d'insertion (CUI) à 510 000. L'enveloppe financière a été également abondée de 798 M€. La loi de finances initiale pour 2013 prévoit la mise en oeuvre de 390 000 entrées en CUI, réparties en 340 000 contrats d'accompagnement dans l'emploi (CAE) dans le secteur non marchand et 50 000 contrats initiative-emploi (CIE) dans le secteur marchand. La circulaire de programmation des contrats aidés pour le premier semestre 2013 a attribué à la région Champagne-Ardenne une enveloppe de 3891 CAE et 536 CIE. La durée moyenne des CAE initiaux va être portée à douze mois pour permettre la construction de parcours de qualité et donner une meilleure visibilité aux employeurs et aux demandeurs d'emploi concernés. En complément du CUI, et conformément aux engagements du président de la République, la loi portant création des emplois d'avenir est entrée en application à partir du 1er novembre 2012. Le gouvernement a fixé comme objectif la prescription de 100 000 contrats d'ici fin 2013. Ce dispositif est destiné aux jeunes de 16 à 25 ans peu qualifiés qui connaissent des difficultés d'accès à l'emploi. Il convient de rappeler que les contrats aidés ne sauraient constituer un moyen de financer des postes de travail correspondant à des emplois pérennes, mais sont des outils conçus pour favoriser l'insertion professionnelle des salariés qui en bénéficient.
