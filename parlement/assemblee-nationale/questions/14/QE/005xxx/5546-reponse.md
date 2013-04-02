@@ -1,0 +1,9 @@
+# Réponse à la question n° 5546
+
+- Question : [5546](5546.md) — Question n° 5546 — mise aux normes; accessibilité
+
+## Réponse
+
+*JO du 2013-04-02*
+
+La loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapés prévoit la mise en accessibilité d'ici le 1er janvier 2015 de l'ensemble des établissements recevant du public (ERP). Elle prévoit, également, une méthode pour arriver à cet objectif : la réalisation d'un état des lieux de l'existant, sa confrontation avec les besoins des usagers et l'établissement d'une programmation des travaux nécessaires. Cette phase de programmation et de planification se poursuit. Au 1er juillet 2012, 77 % des diagnostics des ERP des communes et 74 % des diagnostics des ERP des établissements publics de coopération intercommunaux étaient lancés ou achevés. L'enquête annuelle diligentée par la délégation ministérielle à l'accessibilité a montré qu'entre le 1er janvier 2007, date d'entrée en vigueur de la nouvelle règlementation « accessibilité », et le 1er janvier 2012, 330 000 établissements recevant du public sur 650 000 ont fait l'objet de travaux d'accessibilité, globaux ou partiels : la moitié du parc d'ERP a, ainsi, amélioré son niveau d'accessibilité tandis que 22 % du parc respecte intégralement les normes d'accessibilité. Une nette accélération des travaux a été constatée entre les années 2010 et 2011 (+ 17 %). Le 3 janvier 2013, la ministre de l'égalité des territoires et du logement, le ministre de l'intérieur, la ministre déléguée aux personnes handicapées et à la lutte contre l'exclusion et le ministre délégué aux transports, à la mer et à la pêche ont mandaté les préfets pour créer un atlas de l'accessibilité, fournissant le degré d'accessibilité des bâtiments de l'État et celui des bâtiments des collectivités territoriales qui le souhaitent.
