@@ -1,0 +1,87 @@
+# Pouvoirs publics : interdiction du cumul des fonctions exécutives locales avec les mandats de député, sénateur ou représentant au Parlement européen
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N29999
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/non-cumul_executif_local_depute_senateur
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-734.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-04-03 : 1er dépôt d'une initiative. (PRJLANR5L14B0885)
+  - 2013-04-03 : Etude d'impact (ETDIANR5L14B0885)
+  - 2013-04-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-04-03 : Renvoi en commission au fond
+      - 2013-04-11 : Nomination de rapporteur
+      - 2013-04-11 : Réunion de commission
+      - 2013-06-18 : Réunion de commission
+      - 2013-06-19 : Réunion de commission
+      - 2013-06-25 : Réunion de commission
+      - 2013-07-03 : Réunion de commission
+      - 2013-06-26 : Dépôt de rapport (RAPPANR5L14B1173, PRJLANR5L14BTC1173)
+  - Discussion en séance publique
+    - 2013-07-03 : Discussion en séance publique
+    - 2013-07-03 : Discussion en séance publique
+    - 2013-07-04 : Discussion en séance publique
+    - 2013-07-04 : Discussion en séance publique
+    - 2013-07-04 : Discussion en séance publique
+    - 2013-07-09 : Discussion en séance publique
+    - 2013-07-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-07-09 : Dépôt d'une initiative en navette (PRJLSNR5S199B0734)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-09 : Renvoi en commission au fond
+      - 2013-07-24 : Nomination de rapporteur
+      - 2013-09-11 : Dépôt de rapport (RAPPSNR5S199B0832)
+  - Discussion en séance publique
+    - 2013-09-18 : Discussion en séance publique
+    - 2013-09-19 : Discussion en séance publique
+    - 2013-09-19 : Décision
+- Commission Mixte Paritaire
+  - 2013-09-23 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-10-09 : Nomination de rapporteur
+    - 2013-10-09 : Dépôt du rapport d'une CMP (RAPPANR5L14B1418)
+    - 2013-10-09 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0060)
+  - 2013-10-10 : Décision de la CMP
+- Nouvelle Lecture
+  - 2013-09-23 : Dépôt d'une initiative en navette (PRJLANR5L14B1391)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-09-23 : Renvoi en commission au fond
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-18 : Réunion de commission
+      - 2013-11-06 : Dépôt de rapport (RAPPANR5L14B1529, PRJLANR5L14BTC1529)
+  - Discussion en séance publique
+    - 2013-11-18 : Discussion en séance publique
+    - 2013-11-18 : Discussion en séance publique
+    - 2013-11-20 : Discussion en séance publique
+    - 2013-11-20 : Décision
+- Nouvelle Lecture
+  - 2013-11-21 : Dépôt d'une initiative en navette (PRJLSNR5S219B0168)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-11-21 : Renvoi en commission au fond
+      - 2014-01-08 : Dépôt de rapport (RAPPSNR5S219B0266)
+  - Discussion en séance publique
+    - 2014-01-15 : Discussion en séance publique
+    - 2014-01-15 : Décision
+- Lecture définitive
+  - 2014-01-16 : Dépôt d'une initiative en navette (PRJLANR5L14B1711)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-01-16 : Renvoi en commission au fond
+      - 2014-01-21 : Dépôt de rapport (RAPPANR5L14B1714)
+  - Discussion en séance publique
+    - 2014-01-21 : Discussion en séance publique
+    - 2014-01-22 : Discussion en séance publique
+    - 2014-01-22 : Décision
+- Conseil constitutionnel
+  - 2014-01-23 : Saisine du conseil constitutionnel
+  - 2014-02-13 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-02-14 : Promulgation d'une loi
