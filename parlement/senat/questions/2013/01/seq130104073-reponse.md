@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130104073
+
+- Question : [SEQ130104073](seq130104073.md) — Recouvrement des amendes de stationnement
+
+## Réponse
+
+*Économie et finances, JO du 2013-04-04, page 1080*
+
+Les modalités de délivrance des timbres fiscaux par les services des impôts des entreprises aux débitants de tabac n'ont pas été modifiées. Les services des impôts des entreprises ont pour consigne de détenir des timbres en nombre suffisant pour éviter toute rupture de stock chez les buralistes. En août 2011, l'augmentation du tarif de 11 à 17 € des amendes de stationnement a pu ponctuellement faire apparaître des difficultés d'approvisionnement chez certains débitants de tabac mais les circonstances sont aujourd'hui différentes et un retour à une situation normale est constaté. Si toutefois, des cas de pénuries étaient constatés chez certains distributeurs auxiliaires de timbres (buralistes), elles ne peuvent résulter que de l'absence de réapprovisionnements réguliers ou d'éventuelles difficultés passagères d'approvisionnement. En tout état de cause, à défaut d'approvisionnement chez les buralistes, les contrevenants peuvent acheter des timbres auprès des centres des finances publiques. En outre, si le paiement n'a pas lieu au moment de la constatation de l'infraction, le paiement peut s'effectuer par timbre amende, par chèque libellé à l'ordre du Trésor public et joint à la carte de paiement, par téléphone au numéro du serveur vocal du télépaiement des amendes et, pour les amendes dont la référence de télépaiement figure sur le talon de paiement, par internet sur le site amendes. gouv. fr. L'amende doit être réglée dans les 45 jours de la réception de l'avis (60 jours en cas de paiement par une téléprocédure). Passé ce délai et à défaut de paiement, l'amende forfaitaire majorée est émise pour 33 €. Cependant, si le règlement intervient dans les 30 jours, son montant est diminué de 20 %.
