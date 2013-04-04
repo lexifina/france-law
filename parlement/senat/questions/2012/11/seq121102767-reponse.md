@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121102767
+
+- Question : [SEQ121102767](seq121102767.md) — Application de l'annexe VI de la convention MARPOL
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2013-04-04, page 1093*
+
+L'annexe VI de la convention MARPOL (marine pollution), révisée en 2008, et intégrée dans le droit de l'Union européenne par la directive 2012/33 UE du 21 novembre 2012, va imposer des nouvelles normes de teneur en soufre dans les carburants marins pour les navires opérant dans la Manche et la mer du Nord, qui sont classées en zone de contrôle des émissions de soufre (ZCES). Les navires devront passer du taux de 1 % de teneur en soufre des carburants, applicable aujourd'hui, au taux de 0,1 % dès le 1er janvier 2015. Le changement de carburant que nécessitera ce nouveau taux aura des conséquences financières importantes pour les compagnies maritimes qui opèrent quasi exclusivement dans cette zone. C'est un sujet de préoccupation majeur pour le secteur du transport maritime, auquel le ministère des transports, de la mer et de la pêche accorde la plus grande importance. Certaines solutions relèvent d'une décision de l'Organisation maritime internationale (0MI). En tout état de cause, quelle que soit la piste privilégiée, il est nécessaire de se concerter au préalable au sein de l'Union européenne, compte tenu de l'existence de la directive 2012/33 UE sur la teneur en soufre des carburants marins, qui régit ce domaine. Lors du Conseil des ministres des transports du 20 décembre 2012, un échange a eu lieu sur les possibles difficultés de mise en œuvre de ces nouvelles normes. Ces démarches sont indissociables de la recherche de solutions complémentaires ou alternatives, comme l'utilisation du gaz naturel liquéfié (GNL) ou l'amélioration des systèmes embarqués d'épuration de gaz d'échappement, à l'instar de ce que font déjà d'autres États européens.
