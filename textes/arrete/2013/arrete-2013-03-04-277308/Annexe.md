@@ -1,4 +1,4 @@
-# Article LEGIARTI000026829080
+# Article Annexe
 
 LISTE DES LABORATOIRES D'ANALYSES DE TERRE
 
@@ -24,37 +24,35 @@ Menu 2
 
 |
 
-T1
+T 1
 
 physico-chimie
 
 |
 
-T2 T1
+T 2 T 1
 
 + granulométrie
 
 |
 
-T3 T1
+T 3 T 1
 
 + oligoéléments
 
 |
 
-T4 T1
-
-+ éléments traces
+T 4 T 1 + éléments traces
 
 |
 
-T5
+T 5
 
 reliquats azotés
 
 |
 
-CESAR, centre scientifique agricole régional
+Centre scientifique agricole régional, CESAR
 
 |
 
@@ -182,7 +180,7 @@ Laboratoire Centre Atlantique - LCA
 
 |
 
-1, rue Champlain, ZI, Chef de Baie, 17074 La Rochelle, Cedex 9
+1, rue Champlain, ZI Chef de Baie, 17074 La Rochelle Cedex 9
 
 |
 
@@ -222,7 +220,7 @@ CERELAB GUSTALIS
 
 |
 
-Laboratoire départemental d'analyses 22, LDA22
+Laboratoire départemental d'analyses 22, LDA 22
 
 |
 
@@ -362,11 +360,11 @@ Avenue de l'Armagnac, 32800 Eauze
 
 |
 
-Laboratoire Centre Atlantique - LCA-Bordeaux
+Laboratoire Centre Atlantique - LCA Bordeaux
 
 |
 
-39, rue Michel Montaigne, BP 122, 33294 Blanquefort Cedex
+39, rue Michel-Montaigne, BP 122, 33294 Blanquefort Cedex
 
 |
 
@@ -414,7 +412,7 @@ Laboratoire d'analyses, DEPT B US 49, avenue Agropolis, bâtiment 1, 34398 Montp
 
 |
 
-Institut en santé agro-environnement (ISAE)
+Institut en santé agro-environnement-ISAE
 
 |
 
@@ -550,7 +548,7 @@ La Noëlle, BP 20199, 44155 Ancenis Cedex
 
 |
 
-IDAC, Institut départemental d'analyse et de conseil
+Institut départemental d'analyse et de conseil-IDAC
 
 |
 
@@ -632,7 +630,7 @@ SAS Laboratoire
 
 |
 
-LANO, Laboratoire agronomique de Normandie
+Laboratoire agronomique de Normandie-LANO
 
 |
 
@@ -732,26 +730,6 @@ Laboratoire départemental d'analyses de la Mayenne
 
 |
 
-IPL Santé environnement durables Nord
-
-|
-
-1, rue du Professeur-Calmette, 59046 Lille Cedex
-
-|
-
-|
-
-|
-
-|
-
-4
-
-|
-
-|
-
 Institut national de la recherche agronomique
 
 |
@@ -780,7 +758,7 @@ Laboratoire d'analyse des sols, 273, rue de Cambrai, 62000 Arras
 
 |
 
-OXYGEN Laboratoires d'analyses
+OXYGEN laboratoires d'analyses
 
 |
 
@@ -824,7 +802,7 @@ Laboratoire d'analyses agricoles, 77, avenue Victor-Dalbiez, 66027 Perpignan
 
 |
 
-SADEF, Société alsacienne pour le développement et l'étude de la fertilité
+Société alsacienne pour le développement et l'étude de la fertilité, SADEF
 
 |
 
@@ -852,7 +830,7 @@ SADEF, Société alsacienne pour le développement et l'étude de la fertilité
 
 |
 
-LARCA 72, Laboratoire de la chambre d'agriculture de la Sarthe
+Laboratoire de la chambre d'agriculture de la Sarthe-LARCA 72
 
 |
 
@@ -922,6 +900,8 @@ Laboratoire régional de contrôle des eaux de la ville de Limoges
 
 |
 
+4
+
 |
 
 |
@@ -930,7 +910,7 @@ Agsource Harris Laboratories
 
 |
 
-300 Speedway Circle - Unit 2, 68502 Lincoln NE, Etats-Unis
+300 Speedway Circle ― Unit 2, 68502 Lincoln NE, Etats-Unis
 
 |
 
@@ -967,5 +947,3 @@ Agro conseil SA, De Croylaan 48, 3001 Leuven Heverlee, Belgique
 5
 
 |
-
-.
