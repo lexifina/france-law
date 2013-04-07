@@ -2,9 +2,9 @@
 
 CRITÈRES D'APPRÉCIATION DE LA VALEUR PROFESSIONNELLE DES AGENTS
 
-Remarque méthodologique : dans chacune des trois rubriques obligatoires tout comme dans la quatrième rubrique facultative, les critères énumérés doivent prendre en compte la spécificité du métier du fonctionnaire et les exigences du poste qu'il occupe : de ce fait, certains critères apparaîtront non pertinents et ne seront pas retenus, de même que certains critères peuvent être pris en compte avec plus ou moins d'importance ou d'intensité.
+Parmi ces critères, dont tous n'ont pas nécessairement à être examinés, l'évaluateur retient, pour apprécier la valeur professionnelle des agents au terme de l'entretien professionnel, ceux qui sont adaptés à la nature des tâches qui leur sont confiées, au niveau de leurs responsabilités, et au contexte professionnel.
 
-Les compétences professionnelles et la technicité :
+1. Les compétences professionnelles et la technicité :
 
 ― maîtrise technique ou expertise scientifique du domaine d'activité ;
 
@@ -22,13 +22,7 @@ Les compétences professionnelles et la technicité :
 
 ― qualités d'expression orale.
 
-La contribution à l'activité du service :
-
-― sens du service public et conscience professionnelle ;
-
-― capacité à respecter l'organisation collective du travail ;
-
-― rigueur et efficacité (fiabilité et qualité du travail effectué, respect des délais, des normes et des procédures, sens de l'organisation, sens de la méthode, attention portée à la qualité du service rendu) ;
+2. La contribution à l'activité du service :
 
 ― aptitude à exercer des responsabilités particulières ou à faire face à des sujétions spécifiques au poste occupé ;
 
@@ -42,9 +36,15 @@ La contribution à l'activité du service :
 
 ― capacité à s'investir dans des projets ;
 
+― sens du service public et conscience professionnelle ;
+
+― capacité à respecter l'organisation collective du travail ;
+
+― rigueur et efficacité (fiabilité et qualité du travail effectué, respect des délais, des normes et des procédures, sens de l'organisation, sens de la méthode, attention portée à la qualité du service rendu) ;
+
 ― contribution au respect des règles d'hygiène et de sécurité.
 
-Les qualités personnelles et relationnelles :
+3. Les capacités professionnelles et relationnelles :
 
 ― autonomie, discernement et sens des initiatives dans l'exercice de ses attributions ;
 
@@ -54,7 +54,7 @@ Les qualités personnelles et relationnelles :
 
 ― aptitudes relationnelles (avec le public et dans l'environnement professionnel), notamment maîtrise de soi.
 
-Le cas échéant (pour les seuls fonctionnaires occupant un poste nécessitant ces compétences), l'aptitude au management ou/et à la conduite de projets :
+4. Le cas échéant, pour les seuls fonctionnaires concernés, l'aptitude à l'encadrement et/ou à la conduite de projets :
 
 ― capacité à animer une équipe ou un réseau ;
 
