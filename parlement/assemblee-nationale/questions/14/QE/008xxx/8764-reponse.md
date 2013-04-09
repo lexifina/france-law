@@ -1,0 +1,9 @@
+# Réponse à la question n° 8764
+
+- Question : [8764](8764.md) — Question n° 8764 — plans de sauvegarde; élaboration
+
+## Réponse
+
+*JO du 2013-04-09*
+
+Créé par la loi de modernisation de la sécurité civile du 13 août 2004, le plan communal de sauvegarde (PCS) est obligatoire pour les communes dotées d'un plan de prévention des risques naturels, approuvé, ou comprises dans le champ d'application d'un plan particulier d'intervention. Le PCS est un dispositif essentiel pour permettre aux communes de faire face à tout type d'événement de sécurité civile affectant la population (inondations, vent, chute de neige, accident de transport de matière dangereuse, etc.). Aussi, les préfets inciteront et accompagneront les communes qui ont l'obligation de le mettre en place. Pour impulser une dynamique de sécurité civile, les PCS sont mis au coeur des relations entre les préfets et les maires, ainsi, toutes les demandes de la préfecture en matière d'organisation de la réponse de sécurité civile (ORSEC) font référence au PCS : recensement des personnes vulnérables ainsi que des capacités d'accueil et d'hébergement, procédure de transmission des alertes, etc. De même, les communes sont systématiquement associées aux exercices de sécurité civile. De plus, les préfets accompagnent les communes en désignant le cas échéant des « référent(s) PCS » ou encore en organisant des ateliers d'aide à l'élaboration des PCS. Enfin, des outils d'aide à l'élaboration des PCS, tels que brochures, pages Internet, mallettes pédagogiques, comportant par exemple des trames de PCS ou des modèles types, sont mis à disposition par l'Etat. Tous les moyens seront donc mis en oeuvre pour que les communes s'approprient ce dispositif essentiel de gestion de crise, et que les communes retardataires remplissent leurs obligations légales.
