@@ -1,0 +1,9 @@
+# Réponse à la question n° 5956
+
+- Question : [5956](5956.md) — Question n° 5956 — réglementation
+
+## Réponse
+
+*JO du 2013-04-09*
+
+En vertu des dispositions du code général des collectivités territoriales, les obsèques sont réglées par la personne qui a qualité pour pourvoir aux funérailles, c'est-à-dire toute personne qui, par le lien stable et permanent qui l'unissait à la personne défunte, est susceptible d'exprimer la volonté de celle-ci. Il s'agit en règle générale, d'un proche parent (père, mère, conjoint, enfant, frère ou soeur du de cujus), mais aussi d'un héritier, d'un successeur ou d'un exécuteur testamentaire. C'est cette personne qui décide librement de toutes les dispositions à prendre (lieu de sépulture, organisation d'une cérémonie religieuse ou d'une cérémonie civile...). La personne qui a qualité pour pourvoir aux funérailles est accompagnée dans ses démarches par certaines professions du secteur funéraire. Il n'existe aucune disposition juridique permettant aux proches du défunt, lorsqu'un conflit familial existe, de contraindre la personne ayant qualité pour pourvoir aux funérailles ou un opérateur funéraire à les informer sur la date de l'inhumation ou de la crémation et le lieu de sépulture. L'opérateur concerné n'a d'obligations qu'envers la personne ayant qualité pour pourvoir aux funérailles. Le fait qu'une seule personne soit reconnue comme ayant la capacité d'organiser les funérailles répond à des considérations liées à l'ordre public et à la rapidité que requièrent les opérations consécutives au décès, l'inhumation ou la crémation devant avoir lieu dans des délais contraints. En effet, dès lors que le décès s'est produit en France, l'inhumation ou la crémation a lieu vingt-quatre heures au moins et six jours au plus après le décès (articles R. 2213-33 et R. 2213-35 du code général des collectivités territoriales). Par conséquent, il n'est pas envisagé de modifier la réglementation en vigueur sur ce point.
