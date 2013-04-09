@@ -1,0 +1,9 @@
+# Réponse à la question n° 12679
+
+- Question : [12679](12679.md) — Question n° 12679 — instances consultatives; rapport; propositions
+
+## Réponse
+
+*JO du 2013-04-09*
+
+L'article 29 de la loi précitée dispose qu'un rapport sera remis par le Gouvernement sur la création d'un observatoire national des violences faites aux femmes est présenté au Parlement avant le 31 décembre 2010. Celui-ci a été adressé aux deux assemblées, le 6 février 2012. Conscient de la nécessité de fonder un véritable cadre de réflexion commun pour la prévention et la lutte contre toutes les violences faites aux femmes en vue d'une meilleure organisation dans le recueil et l'analyse des données disponibles, le Gouvernement a décidé, dans le cadre du comité interministériel aux droits des femmes et à l'égalité entre les femmes et les hommes du 30 novembre 2012, de créer une mission interministérielle pour la protection des femmes contre les violences et la lutte contre la traite des êtres humains (MIPROF) auprès de la ministre chargée des droits des femmes. Cette mission instaurée par décret du 3 janvier 2013 assure la fonction d'observatoire national des violences faites aux femmes souhaitée par les parlementaires. Elle a notamment pour mission de rassembler, analyser et diffuser les informations ainsi que les statistiques relatives aux violences faites aux femmes. En lien avec les organismes de recherche et les administrations compétentes de l'Etat, elle contribuera à la réalisation d'études et de travaux de recherche et d'évaluation dans ce domaine. Mais au-delà de sa fonction d'observatoire, cette mission interministérielle jouera aussi un rôle pour favoriser l'animation locale des politiques de lutte contre les violences, faciliter la mutualisation des bonnes pratiques et mieux former les protagonistes.
