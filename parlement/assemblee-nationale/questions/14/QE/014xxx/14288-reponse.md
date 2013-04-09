@@ -1,0 +1,9 @@
+# Réponse à la question n° 14288
+
+- Question : [14288](14288.md) — Question n° 14288 — revendications
+
+## Réponse
+
+*JO du 2013-04-09*
+
+Dans le cadre de la réforme de la PAC, la France défend le renforcement des outils de régulation des marchés agricoles. Ainsi, en termes de « filet de sécurité », la proposition de la Commission relative à l'organisation commune de marché, reprend globalement l'architecture existante en distinguant, d'une part, les outils d'intervention sur le marché dont les mécanismes actuels sont maintenus, et, d'autre part, les mesures exceptionnelles actionnables en temps de crise. Au titre des « mesures exceptionnelles », le texte de la Commission prévoit la possibilité de déroger aux règles de déclenchement de l'intervention publique et de l'aide au stockage privé pour remédier aux situations de crise. Par ailleurs, le projet permet d'adopter des mesures de soutien pour tenir compte de graves perturbations de marché directement liées à une perte de confiance des consommateurs, en raison de l'existence de risques pour la santé publique, animale ou végétale, ou pour faire face aux restrictions des échanges commerciaux résultant de l'application de mesures destinées à lutter contre la propagation de maladies animales. Dans le cadre du second pilier de la PAC, le ministre chargé de l'agriculture orientera les soutiens au profit de l'évolution des modes de productions vers des systèmes plus autonomes et plus durables. Au-delà de ces mesures du ressort de la PAC, le Gouvernement est très attentif à l'avenir de la filière porcine. Une mission a été confiée au délégué Interministériel aux industries agroalimentaires et à l'agroindustrie sur la filière porcine. Les conclusions seront présentées à la filière le 15 avril. Elles porteront notamment sur la valorisation des produits (mise en avant de l'origine, création de valeur pour les produits de qualité, ...).
