@@ -1,0 +1,9 @@
+# Réponse à la question n° 2908
+
+- Question : [2908](2908.md) — Question n° 2908 — comité du supportérisme; perspectives
+
+## Réponse
+
+*JO du 2013-04-09*
+
+La prévention contre les incivilités et les violences dans le sport, notamment lorsqu'elles sont le fait de certains supporters, constitue l'une des priorités du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative. La ministre chargée des sports a présenté à la presse, en février dernier, le guide juridique relatif à la prévention et la lutte contre les incivilités, violences et discriminations dans le sport. Ce guide, issu des travaux du comité du supportérisme, est conçu pour l'ensemble des acteurs du sport. Deux fiches de ce guide sont spécialement consacrées à la thématique du supportérisme en présentant sous forme de questions-réponses toutes les évolutions législatives, réglementaires et jurisprudentielles qui se sont produites ces dernières années. Le guide est mis en ligne sur le site internet du ministère et a fait l'objet d'un relais dans la presse et certains réseaux sociaux. Par ailleurs, le Conseil national du sport (CNS) qui sera prochainement installé par la ministre chargée des sports comportera une formation restreinte « Ethique et respect des valeurs du sport ». Cette formation poursuivra les travaux initiés dans le cadre des comités de supportérisme et de lutte contre les discriminations dans le sport. Elle aura pour mission d'analyser la conformité des pratiques aux valeurs du sport et à l'éthique et la lutte contre les discriminations et les violences de toute nature dans le champ des activités physiques et sportives. Elle aura à connaître également les problématiques liées à la prévention et la lutte contre le dopage, la prévention des addictions au jeu et les conditions d'exercice des professions du sport.
