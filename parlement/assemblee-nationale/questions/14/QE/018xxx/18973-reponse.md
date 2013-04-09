@@ -1,0 +1,9 @@
+# Réponse à la question n° 18973
+
+- Question : [18973](18973.md) — Question n° 18973 — revenus d'activités professionnelles; cumul
+
+## Réponse
+
+*JO du 2013-04-09*
+
+Conformément aux dispositions du code de la sécurité sociale, lorsque le degré total d'incapacité d'une personne affiliée au régime général est au moins égal à 66,6 %, celle-ci peut cumuler la pension d'invalidité servie au titre de ce régime avec d'autres allocations, rentes ou pensions telles que la rente d'accident du travail, la pension militaire d'invalidité, la pension d'invalidité du régime des salariés agricoles ou la pension acquise au titre d'un régime spécial. Au regard de la réglementation en vigueur, le cumul d'une pension d'invalidité du régime général avec une pension militaire de retraite est donc autorisé. Toutefois, les articles L. 371-4 et L. 371-7 du code précité prévoient que le montant de la pension d'invalidité cumulée avec une rente d'accident du travail, une pension militaire ou ces deux avantages, perçu par le bénéficiaire, ne peut en aucun cas excéder le salaire concédé à un travailleur valide de la même catégorie professionnelle. Dans l'hypothèse d'un dépassement de ce plafond, il est en conséquence procédé à un écrêtement du montant de la pension d'invalidité. En effet, il est considéré que la réparation de la perte de salaire est atteinte lorsque l'assuré titulaire d'une pension militaire de retraite complétée par une pension d'invalidité dispose du même niveau de ressources que celui résultant de l'exercice d'un emploi relevant de la catégorie professionnelle à laquelle il appartenait. Enfin, il convient de préciser que la ministre chargée des affaires sociales apparaît plus particulièrement compétente afin d'informer l'honorable parlementaire quant à l'état d'avancement d'une éventuelle réflexion tendant à faire évoluer la réglementation considérée, qui s'applique aux salariés.
