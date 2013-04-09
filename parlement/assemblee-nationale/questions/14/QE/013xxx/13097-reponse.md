@@ -1,0 +1,9 @@
+# Réponse à la question n° 13097
+
+- Question : [13097](13097.md) — Question n° 13097 — practiciens; activités libérales
+
+## Réponse
+
+*JO du 2013-04-09*
+
+Le régime d'autorisation et de contrôle de l'activité libérale des médecins hospitaliers et les pratiques en matière de dépassements d'honoraires retiennent toute la préoccupation du gouvernement soucieux de garantir à tous un accès aux soins de qualité. Les partenaires conventionnels, l'assurance maladie et les syndicats de médecins libéraux ont signé le 25 octobre 2012 un avenant n° 8 à la convention médicale nationale du 26 juillet 2011 portant sur la question des dépassements. Cet avenant, approuvé par arrêté interministériel du 29 novembre 2012, concerne également les praticiens statutaires exerçant une activité libérale à l'hôpital public au sens de l'article L.6154-1 et suivants du code de la santé publique qui, pour cette pratique, entrent dans le champ de la convention médicale nationale. Par ailleurs, le Gouvernement a souhaité installer un groupe de travail spécifique consacré à la mise en oeuvre de l'avenant n° 8 dans le secteur privé au sein de l'hôpital public. Madame Dominique Laurent, conseillère d'Etat, a été chargée, le 19 octobre 2012, de présider ces travaux qui réunissent tous les acteurs concernés : représentants des professionnels avec et sans activité libérale, représentants des conférences de présidents de commissions médicales d'établissement de centres hospitaliers universitaires (CHU) et de centres hospitaliers (CH), des conférences de directeurs généraux de CHU et de CH, des commissions locales de l'activité libérale, de l'assurance maladie, du conseil national de l'Ordre des médecins, du collège des directeurs généraux d'agences régionales de santé, de la Fédération hospitalière de France et des usagers du système de santé. Ils se sont réunis à plusieurs reprises depuis le mois de novembre et la présidente a très récemment remis son rapport au gouvernement.
