@@ -1,0 +1,9 @@
+# Réponse à la question n° 7393
+
+- Question : [7393](7393.md) — Question n° 7393 — pompiers d'aéroport; statut
+
+## Réponse
+
+*JO du 2013-04-09*
+
+Les relations de travail des personnels chargés du service de sauvetage et de lutte contre l'incendie des aéronefs (SSLIA) sur les aérodromes sont régies par les textes particuliers applicables aux différentes entités qui les emploient dans le cadre de leur mission. Ces entités, auxquelles la loi depuis 1998 permet de confier le SSLIA, sont de nature juridique très diverse : il s'agit des chambres de commerce et d'industrie, des services départementaux d'incendie et de secours, des collectivités territoriales, des sociétés privées et, pour la région parisienne, de la société anonyme Aéroports de Paris. En raison de cette diversité, les personnels sont soumis aux règles sociales liées à leur emploi, à leur qualification ou à leur déroulement de carrière qui sont applicables de façon spécifique à l'employeur dont ils relèvent. Ces règles sociales, différentes selon les entités, peuvent ainsi être déterminées par la loi, le statut ou les conventions collectives. Une telle situation n'est d'ailleurs pas propre à cette catégorie de personnels. Compte tenu de la diversité d'employeurs, une uniformisation des règles sociales applicables apparaît délicate. Dans ce contexte, il appartient aux organisations syndicales de nouer, directement avec les différents employeurs concernés, le dialogue préalable indispensable à la recherche d'une harmonisation des conditions d'emploi des personnels. Le Gouvernement a par ailleurs demandé à la direction générale de l'aviation civile (DGAC) de procéder à une analyse concernant cette catégorie de salariés dont les conclusions seront communiquées aux différents partenaires sociaux. Ces conclusions pourront conduire, en tant que de besoin, à des travaux ultérieurs visant à faire converger les textes actuels.
