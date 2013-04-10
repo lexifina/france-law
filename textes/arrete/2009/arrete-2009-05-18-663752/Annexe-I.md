@@ -302,7 +302,7 @@ Aéroport
 
 |
 
-HC-T (1) (2), HC-NT
+HC-T (CH) (1) (2), HC-NT
 
 |
 
@@ -510,7 +510,7 @@ HC-T (1) (2), HC-NT (2), NHC (2)
 
 |
 
-O
+O (d)
 
 |
 
@@ -567,6 +567,8 @@ O = Autres animaux (y compris animaux de zoo).
 b) Cette autorisation est valable jusqu'au 1er septembre 2013.
 
 c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.
+
+d) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux et mammifères n'excédant pas 50 kg.
 
 (*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.
 
