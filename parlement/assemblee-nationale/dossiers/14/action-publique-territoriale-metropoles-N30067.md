@@ -1,0 +1,134 @@
+# Collectivités territoriales : action publique territoriale et métropoles
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N30067
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/action_publique_territoriale_metropoles
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-495.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-04-10 : 1er dépôt d'une initiative. (PRJLSNR5S199B0495)
+  - 2013-04-10 : Etude d'impact (ETDISNR5S199B0495)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-04-10 : Renvoi en commission au fond
+      - 2013-04-17 : Nomination de rapporteur
+      - 2013-05-15 : Dépôt de rapport (RAPPSNR5S199B0580)
+    - Travaux d'une commission saisie pour avis
+      - 2013-04-23 : Saisine pour avis d'une commission
+      - 2013-04-23 : Nomination de rapporteur
+      - 2013-05-22 : Dépôt de rapport (AVISSNR5S199B0593)
+    - Travaux d'une commission saisie pour avis
+      - 2013-04-24 : Saisine pour avis d'une commission
+      - 2013-04-24 : Nomination de rapporteur
+      - 2013-05-22 : Dépôt de rapport (AVISSNR5S199B0601)
+    - Travaux d'une commission saisie pour avis
+      - 2013-04-24 : Saisine pour avis d'une commission
+      - 2013-04-24 : Nomination de rapporteur
+      - 2013-05-22 : Dépôt de rapport (AVISSNR5S199B0598)
+  - Discussion en séance publique
+    - 2013-05-30 : Discussion en séance publique
+    - 2013-05-31 : Discussion en séance publique
+    - 2013-06-03 : Discussion en séance publique
+    - 2013-06-04 : Discussion en séance publique
+    - 2013-06-05 : Discussion en séance publique
+    - 2013-06-06 : Discussion en séance publique
+    - 2013-06-06 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-06-07 : Dépôt d'une initiative en navette (PRJLANR5L14B1120)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-07 : Renvoi en commission au fond
+      - 2013-05-21 : Nomination de rapporteur
+      - 2013-05-21 : Réunion de commission
+      - 2013-07-01 : Réunion de commission
+      - 2013-07-01 : Réunion de commission
+      - 2013-07-01 : Réunion de commission
+      - 2013-07-02 : Réunion de commission
+      - 2013-07-02 : Réunion de commission
+      - 2013-07-03 : Réunion de commission
+      - 2013-07-16 : Réunion de commission
+      - 2013-07-03 : Dépôt de rapport (RAPPANR5L14B1216, PRJLANR5L14BTC1216)
+    - Travaux d'une commission saisie pour avis
+      - 2013-06-07 : Saisine pour avis d'une commission
+      - 2013-04-24 : Nomination de rapporteur
+      - 2013-06-26 : Réunion de commission
+      - 2013-06-26 : Dépôt de rapport (AVISANR5L14B1207)
+    - Travaux d'une commission saisie pour avis
+      - 2013-06-07 : Saisine pour avis d'une commission
+      - 2013-05-22 : Nomination de rapporteur
+      - 2013-06-26 : Réunion de commission
+      - 2013-06-26 : Réunion de commission
+      - 2013-06-26 : Dépôt de rapport (AVISANR5L14B1205)
+    - Travaux d'une commission saisie pour avis
+      - 2013-06-10 : Saisine pour avis d'une commission
+      - 2013-06-18 : Nomination de rapporteur
+      - 2013-06-26 : Réunion de commission
+      - 2013-06-26 : Dépôt de rapport (AVISANR5L14B1177)
+    - Travaux d'une commission saisie pour avis
+      - 2013-06-13 : Saisine pour avis d'une commission
+      - 2013-05-22 : Nomination de rapporteur
+      - 2013-06-26 : Réunion de commission
+      - 2013-06-26 : Dépôt de rapport (AVISANR5L14B1178)
+  - Discussion en séance publique
+    - 2013-07-16 : Discussion en séance publique
+    - 2013-07-16 : Discussion en séance publique
+    - 2013-07-17 : Discussion en séance publique
+    - 2013-07-17 : Discussion en séance publique
+    - 2013-07-18 : Discussion en séance publique
+    - 2013-07-18 : Discussion en séance publique
+    - 2013-07-18 : Discussion en séance publique
+    - 2013-07-19 : Discussion en séance publique
+    - 2013-07-19 : Discussion en séance publique
+    - 2013-07-19 : Discussion en séance publique
+    - 2013-07-23 : Discussion en séance publique
+    - 2013-07-23 : Décision
+- deuxième lecture
+  - 2013-07-23 : Dépôt d'une initiative en navette (PRJLSNR5S199B0796)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-23 : Renvoi en commission au fond
+      - 2013-09-19 : Dépôt de rapport (RAPPSNR5S199B0859)
+  - Discussion en séance publique
+    - 2013-10-02 : Discussion en séance publique
+    - 2013-10-03 : Discussion en séance publique
+    - 2013-10-04 : Discussion en séance publique
+    - 2013-10-07 : Discussion en séance publique
+    - 2013-10-07 : Décision
+- deuxième lecture
+  - 2013-10-08 : Dépôt d'une initiative en navette (PRJLANR5L14B1407)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-10-08 : Renvoi en commission au fond
+      - 2013-11-27 : Réunion de commission
+      - 2013-11-27 : Réunion de commission
+      - 2013-12-10 : Réunion de commission
+      - 2013-11-27 : Dépôt de rapport (RAPPANR5L14B1587, PRJLANR5L14BTC1587)
+  - Discussion en séance publique
+    - 2013-12-10 : Discussion en séance publique
+    - 2013-12-11 : Discussion en séance publique
+    - 2013-12-11 : Discussion en séance publique
+    - 2013-12-12 : Discussion en séance publique
+    - 2013-12-12 : Discussion en séance publique
+    - 2013-12-12 : Décision
+- Commission Mixte Paritaire
+  - 2013-12-13 : Dépôt d'un projet de loi (PRJLSNR5S219B0227)
+  - 2013-12-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-12-17 : Nomination de rapporteur
+    - 2013-12-17 : Dépôt du rapport d'une CMP (RAPPANR5L14B1660)
+    - 2013-12-17 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0239)
+  - Discussion en séance publique
+    - 2013-12-19 : Discussion en séance publique
+    - 2013-12-19 : Décision
+  - Discussion en séance publique
+    - 2013-12-19 : Discussion en séance publique
+    - 2013-12-19 : Décision
+  - 2013-12-18 : Décision de la CMP
+- Conseil constitutionnel
+  - 2013-12-26 : Saisine du conseil constitutionnel
+  - 2014-01-23 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-01-27 : Promulgation d'une loi
