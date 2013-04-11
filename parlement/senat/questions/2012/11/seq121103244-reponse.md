@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121103244
+
+- Question : [SEQ121103244](seq121103244.md) — Ressources des chambres de métiers et de l'artisanat
+
+## Réponse
+
+*Artisanat, commerce et tourisme, JO du 2013-04-11, page 1169*
+
+Le plafonnement de la taxe additionnelle affectée au réseau des chambres de métiers et de l'artisanat participe de la solidarité financière exigée de l'ensemble des opérateurs et établissements publics de l'État. Dans ce contexte, il convient de rappeler que la ressource fiscale du réseau des chambres de métiers et de l'artisanat a connu, depuis 2010, une évolution dynamique supérieure à l'inflation constatée. En effet, la loi n° 2010-853 du 23 juillet 2010 relative aux réseaux consulaires, au commerce, à l'artisanat et aux services a modifié l'article 1601 du code général des impôts, afin de prévoir une indexation du droit fixe de la taxe pour frais de chambres de métiers (TFCM) sur le plafond annuel de la sécurité sociale. Or ce plafond a connu une évolution sensible, passant de 34 620 € au 1er janvier 2010 à 36 372 € au 1er janvier 2012, soit une augmentation de plus de 5 %, supérieure à celle de l'inflation moyenne hors tabac de 3,6 % sur la même période. Cette évolution dynamique caractérise également, et plus globalement, la TFCM qui a connu une augmentation de son produit de 5,2 % entre 2010 et 2011, soit + 10,4 M€, correspondant à une légère baisse du droit fixe de 0,6 % (- 0,7 M€) et à une hausse du droit additionnel à la cotisation foncière des entreprises de 13,8 % (+ 11,1 M€). Dans ce contexte, il appartient au réseau des chambres consulaires de l'artisanat de poursuivre et d'approfondir le mouvement de mutualisation des fonctions supports initié en 2010, afin de dégager de nouvelles marges de manœuvres financières au bénéfice de la modération de la fiscalité pesant sur les entreprises.
