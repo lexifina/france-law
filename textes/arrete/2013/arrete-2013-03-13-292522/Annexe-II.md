@@ -52,4 +52,6 @@ Déchets organiques (**)
 
 (*) Incorporé pur ou sous forme de ETBE (éthyl-tertio-butyl-éther), MTBE (méthyl-tertio-butyl-éther) et TAEE (tertioamyléthyléther).
 
-(**) Déchets organiques ménagers, déchets industriels et boues de stations d'épuration. |
+(**) Déchets organiques ménagers, déchets industriels et boues de stations d'épuration.
+
+|
