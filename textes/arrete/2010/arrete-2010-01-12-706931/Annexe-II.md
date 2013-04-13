@@ -14,20 +14,6 @@ DÉPARTEMENTS CONCERNÉS
 
 |
 
-DDTM de Loire-Atlantique
-
-|
-
-Loire
-
-|
-
-Loire
-
-Maine-et-Loire
-
-|
-
 DDT de la Haute-Marne
 
 |
@@ -36,11 +22,19 @@ Canal entre Champagne et Bourgogne
 
 |
 
-Côte-d'Or
+Haute-Marne
 
 Marne
 
 Meuse
+
+|
+
+DDT de la Côte-d'Or |
+
+Canal entre Champagne et Bourgogne |
+
+Côte-d'Or
 
 Haute-Saône
 

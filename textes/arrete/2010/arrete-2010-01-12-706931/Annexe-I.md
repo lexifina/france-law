@@ -24,30 +24,6 @@ concernés
 
 |
 
-DDTM de l'Aude
-
-|
-
-Rhône-Méditerranée
-
-|
-
-Bassins des cours d'eau suivants : Lez, Hérault, Orb, Aude, Agly, Têt, Réart et Tech
-
-|
-
-Ariège
-
-Aude
-
-Gard
-
-Hérault
-
-Pyrénées-Orientales
-
-|
-
 DDTM de Charente-Maritime
 
 |
@@ -101,38 +77,6 @@ Dordogne
 Gironde
 
 Lot
-
-|
-
-DDTM du Gard
-
-|
-
-Rhône-Méditerranée
-
-|
-
-Bassins du Vidourle et du Vistre, bassin du Rhône en aval de la frontière entre les départements de la Loire et de l'Ardèche, hors bassin de l'Isère
-
-|
-
-Alpes-de-Haute-Provence
-
-Hautes-Alpes
-
-Ardèche
-
-Bouches-du-Rhône
-
-Drôme
-
-Gard
-
-Lozère
-
-Var
-
-Vaucluse
 
 |
 
@@ -191,34 +135,6 @@ Landes
 Pyrénées-Atlantiques
 
 Hautes-Pyrénées
-
-|
-
-DDTM de Seine-Maritime
-
-|
-
-Seine-Normandie
-
-|
-
-Bassins de la Seine en aval du barrage de Poses et bassins des fleuves côtiers normands
-
-|
-
-Calvados
-
-Eure
-
-Eure-et-Loir
-
-Manche
-
-Orne
-
-Seine-Maritime
-
-Somme
 
 |
 
