@@ -16,7 +16,11 @@ Directeur de l'enseignement militaire supérieur.
 
 |
 
-Officier général de zone de défense.
+Officier général de zone de défense et de sécurité et officier général de zone de soutien.
+
+|
+
+Officier général de zone de défense et de sécurité.
 
 |
 
@@ -25,6 +29,10 @@ Chef de l'état-major particulier du Président de la République.
 |
 
 Commandant supérieur outre-mer.
+
+|
+
+Commandant de base de défense.
 
 |
 
@@ -40,7 +48,7 @@ Chef de cabinet militaire au cabinet du ministre de la défense.
 
 |
 
-Chef de cabinet du chef d'état-major des armées.
+Chef de cabinet du chef d'état-major des armées - chef de la division affaires générales de l'état-major des armées.
 
 |
 
@@ -60,10 +68,6 @@ Commandant des opérations spéciales.
 
 |
 
-Général adjoint relations internationales.
-
-|
-
 Directeur de cabinet du directeur général de la sécurité extérieure.
 
 |
@@ -80,19 +84,11 @@ Directeur du centre interarmées de concepts, de doctrines et d'expérimentation
 
 |
 
-Officier général adjoint à l'inspecteur des armées.
-
-|
-
-Chef d'état-major de la direction de l'enseignement militaire supérieur (DEMS).
-
-|
-
 Directeur du Centre des hautes études militaires (DEMS).
 
 |
 
-Commandant du soutien pour les bases de défense (EMA).
+Officier général chargé de la stratégie militaire et de la prospective.
 
 |
 
@@ -100,11 +96,11 @@ Général commandant interarmées des hélicoptères.
 
 |
 
-Commandant le Centre national des sports de la défense.
+Commandant interarmées de l'espace.
 
 |
 
-Général adjoint au chef de l'état-major interarmées de forces et d'entraînement.
+Commandant le Centre national des sports de la défense.
 
 |
 
@@ -129,10 +125,6 @@ DÉSIGNATION DE LA FONCTION
 |
 
 Commandant des forces terrestres.
-
-|
-
-Commandant de région terre.
 
 |
 
@@ -168,10 +160,6 @@ Directeur de la section technique de l'armée de terre.
 
 |
 
-Chef de cabinet du chef d'état-major de l'armée de terre.
-
-|
-
 Chef d'état-major du commandement des forces terrestres.
 
 |
@@ -180,7 +168,7 @@ Commandant de la brigade franco-allemande.
 
 |
 
-Directeur central du service de la maintenance industrielle terrestre.
+Directeur du service de la maintenance industrielle terrestre.
 
 |
 
@@ -193,6 +181,10 @@ Général adjoint au commandant des forces terrestres.
 |
 
 Commandant de division au commandement des forces terrestres.
+
+|
+
+Officier général chargé des relations internationales et du soutien aux exportations.
 
 |
 
@@ -212,19 +204,11 @@ Chef d'état-major du quartier général du corps de réaction rapide-France.
 
 |
 
-Général adjoint major au commandant d'une région terre.
+Général adjoint engagements à l'officier général de la zone de défense et de sécurité de Paris, Est, Sud-Est, Sud-Ouest ou Ouest.
 
 |
 
-Chef d'état-major d'une région terre.
-
-|
-
-Général adjoint pour l'outre-mer et l'étranger.
-
-|
-
-Directeur du service central des achats et de la maintenance.
+Général adjoint soutien à l'officier général de zone de soutien de Paris, Metz, Lyon, Bordeaux ou Rennes.
 
 |
 
@@ -280,10 +264,6 @@ Commandant la force des fusiliers marins et commandos.
 
 |
 
-Commandant la zone maritime océan Indien.
-
-|
-
 Autorité de coordination pour les affaires nucléaires, la prévention et la protection de l'environnement.
 
 |
@@ -296,11 +276,11 @@ Président de la commission permanente des programmes et des essais des bâtimen
 
 |
 
-Commandant la force aéromaritime de réaction rapide et adjoint au commandant la force d'action navale pour la préparation opérationnelle des états-majors de force.
+Directeur du service logistique de la marine et directeur de l'antenne navale du centre d'expertise du soutien du combattant et des forces.
 
 |
 
-Adjoint territorial au préfet maritime.
+Commandant la force aéromaritime de réaction rapide et adjoint au commandant la force d'action navale pour la préparation opérationnelle des états-majors de force.
 
 |
 
@@ -364,7 +344,7 @@ Commandant du centre d'expériences aériennes militaires.
 
 |
 
-Chef de l'état-major opérationnel air.
+Chef d'état-major et adjoint renseignement du commandant de la défense aérienne et des opérations aériennes.
 
 |
 
@@ -388,7 +368,7 @@ Commandant de brigade aérienne.
 
 |
 
-Directeur des droits financiers individuels et des affaires contentieuses.
+Commandant les écoles d'officiers de l'armée de l'air.
 
 |
 
@@ -401,6 +381,14 @@ Commandant les écoles des sous-officiers et militaires du rang de l'armée de l
 |
 
 Commandant du centre multimodal des transports.
+
+|
+
+Directeur du bureau enquêtes accident air.
+
+|
+
+Directeur du centre d'études stratégiques aérospatiales.
 
 |
 
@@ -456,7 +444,7 @@ Directeur de l'institut de recherche biomédicale du service de santé des armé
 
 |
 
-Directeur du département de l'audit interne du service de santé des armées.
+Inspecteur du service de santé des armées.
 
 |
 
@@ -468,7 +456,7 @@ DÉSIGNATION DE LA FONCTION
 
 |
 
-Directeur de l'établissement administratif et technique du service des essences des armées.
+Directeur de l'exploitation et de la logistique pétrolière interarmées.
 
 |
 
