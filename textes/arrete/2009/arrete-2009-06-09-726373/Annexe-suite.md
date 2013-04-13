@@ -2,9 +2,9 @@
 
 TABLEAU II
 
-EMPLOIS DE DIRECTEUR ET ASSIMILÉ
+Emplois de directeur et assimilé
 
-A.-Emplois de directeur :
+A. - Emplois de directeur :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -79,18 +79,6 @@ Directeur des affaires juridiques
 |
 
 Directeur de la mémoire, du patrimoine et des archives
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Directeur des statuts, des pensions et de la réinsertion sociale
 
 |
 
@@ -198,7 +186,7 @@ Directeur des ressources humaines de l'armée de terre
 
 |
 
-Directeur central du matériel de l'armée de terre et de la structure interarmées de maintenance des matériels terrestres
+Directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres et directeur central du matériel
 
 |
 
@@ -390,19 +378,13 @@ Directeur central du service des essences des armées
 
 |
 
-B.-Emplois de délégué :
+B. - Emplois de délégué :
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Délégué à l'information et à la communication de la défense
 
@@ -428,19 +410,13 @@ Délégué aux restructurations
 
 |
 
-C.-Emplois de sous-chef d'état-major à l'état-major des armées :
+C. - Emplois de sous-chef d'état-major à l'état-major des armées :
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Sous-chef d'état-major plans
 

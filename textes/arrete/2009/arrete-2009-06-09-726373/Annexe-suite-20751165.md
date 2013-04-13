@@ -2,17 +2,59 @@
 
 TABLEAU V
 
-EMPLOIS D'INSPECTEUR
+Emplois d'inspecteur
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
+
+NOMBRE D'EMPLOIS |
+
+NOMBRE DE POINTS PAR EMPLOI |
+
+Inspecteur de l'armement, chef de l'inspection
 
 |
 
-NOMBRE D'EMPLOIS
+1
 
 |
 
-NOMBRE DE POINTS PAR EMPLOI
+120
+
+|
+
+Inspecteur de l'armée de terre
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Inspecteur de la marine nationale
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Inspecteur de l'armée de l'air
+
+|
+
+1
+
+|
+
+110
 
 |
 
@@ -37,54 +79,6 @@ Inspecteur technique de l'infrastructure de la défense
 |
 
 100
-
-|
-
-Inspecteur de l'armée de terre
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Inspecteur de la marine nationale
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Inspecteur de l'armée de l'air
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Inspecteur de l'armement, chef de l'inspection
-
-|
-
-1
-
-|
-
-120
 
 |
 

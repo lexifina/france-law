@@ -2,21 +2,15 @@
 
 TABLEAU IV
 
-EMPLOIS DE DIRECTEUR ADJOINT, ADJOINT À UN DIRECTEUR ET ASSIMILÉ
+Emplois de directeur adjoint, adjoint à un directeur et assimilé
 
 A. - Emplois de directeur adjoint :
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Directeur central adjoint à la direction centrale du service d'infrastructure de la défense
 
@@ -30,7 +24,7 @@ Directeur central adjoint à la direction centrale du service d'infrastructure d
 
 |
 
-Directeur adjoint à la direction de la protection et de la sécurité de la défense
+Sous-directeur, adjoint au directeur de la protection et de la sécurité de la défense
 
 |
 
@@ -90,6 +84,42 @@ Directeur central adjoint à la direction interarmées des réseaux d'infrastruc
 
 |
 
+Directeur adjoint plans à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Directeur central adjoint du service de santé des armées
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Directeur adjoint des opérations (DGA)
+
+|
+
+1
+
+|
+
+100
+
+|
+
 Directeur adjoint à la direction générale des systèmes d'information et de communication de la défense
 
 |
@@ -126,19 +156,7 @@ Directeur central adjoint du service du commissariat des armées
 
 |
 
-Directeur adjoint à la structure interarmées de maintenance des matériels terrestres
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Directeur adjoint au directeur des ressources humaines de l'armée de terre commandant les écoles et les lycées de la défense
+Directeur adjoint à la structure intégrée du maintien en condition opérationnelle des matériels terrestres
 
 |
 
@@ -186,18 +204,6 @@ Directeur adjoint à la direction des ressources humaines de l'armée de l'air
 
 |
 
-Directeur adjoint à la direction centrale du service de santé des armées
-
-|
-
-1
-
-|
-
-100
-
-|
-
 Directeur adjoint à la direction centrale du service des essences des armées
 
 |
@@ -212,17 +218,11 @@ Directeur adjoint à la direction centrale du service des essences des armées
 
 B. - Emplois d'adjoint à un directeur et assimilé :
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense
 
@@ -248,23 +248,11 @@ Adjoint au directeur du développement international (DGA)
 
 |
 
-Directeur adjoint des opérations (DGA)
+Chef du service gestion des ressources humaines chargé des finances, du contrôle et des droits individuels (DRHAT)
 
 |
 
 1
-
-|
-
-100
-
-|
-
-Adjoint au directeur central du service du commissariat des armées
-
-|
-
-3
 
 |
 
@@ -284,11 +272,11 @@ Adjoint au directeur des ressources humaines de l'armée de terre
 
 |
 
-Adjoint au directeur central de la structure interarmées de maintenance de matériels terrestres
+Adjoint au directeur central de la structure intégrée du maintien en condition opérationnelle des matériels terrestres
 
 |
 
-2
+1
 
 |
 
@@ -320,11 +308,23 @@ Adjoint au chef du contrôle général des armées
 
 |
 
-Adjoint au directeur central de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
+Adjoint opérations à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
 
 |
 
-2
+1
+
+|
+
+100
+
+|
+
+Adjoint capacités à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
+
+|
+
+1
 
 |
 

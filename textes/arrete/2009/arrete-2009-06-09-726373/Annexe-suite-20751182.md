@@ -2,25 +2,19 @@
 
 TABLEAU VII
 
-EMPLOIS DE DIRECTEUR DE PROJET OU EXPERT DE HAUT NIVEAU
+Emplois de directeur de projet ou expert de haut niveau
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Directeur de projet ou expert de haut niveau groupe I
 
 |
 
-3
+2
 
 |
 

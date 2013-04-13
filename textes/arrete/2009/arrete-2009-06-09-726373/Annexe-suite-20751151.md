@@ -2,21 +2,15 @@
 
 TABLEAU III
 
-EMPLOIS DE CHEF DE SERVICE ET ASSIMILÉ
+Emplois de chef de service et assimilé
 
 A. - Emplois de chef de service :
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Chef du service parisien de soutien de l'administration centrale
 
@@ -30,7 +24,7 @@ Chef du service parisien de soutien de l'administration centrale
 
 |
 
-Adjoint au directeur des ressources humaines du ministère de la défense, chef du service de la politique générale des ressources humaines militaires et civiles
+Chef de service, adjoint au directeur des ressources humaines du ministère de la défense
 
 |
 
@@ -42,7 +36,7 @@ Adjoint au directeur des ressources humaines du ministère de la défense, chef 
 
 |
 
-Adjoint au directeur des ressources humaines du ministère de la défense, chef du service ressources humaines civiles
+Chef du service des statuts et de la réglementation des ressources humaines militaires et civiles (DRH-MD)
 
 |
 
@@ -54,7 +48,31 @@ Adjoint au directeur des ressources humaines du ministère de la défense, chef 
 
 |
 
-Adjoint au directeur des ressources humaines du ministère de la défense, chef du service de l'accompagnement professionnel et des pensions
+Chef du service de la politique générale et du pilotage des ressources humaines militaires et civiles (DRH-MD)
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service des ressources humaines civiles (DRH-MD)
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'accompagnement professionnel et des pensions (DRH-MD)
 
 |
 
@@ -138,7 +156,7 @@ Chef de service, adjoint au directeur du service national
 
 |
 
-Directeur, chef de service du service interarmées des munitions
+Directeur, chef du service interarmées des munitions
 
 |
 
@@ -151,18 +169,6 @@ Directeur, chef de service du service interarmées des munitions
 |
 
 Chef du service historique de la défense
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef du service de la gestion du personnel de la direction des ressources humaines de l'armée de terre
 
 |
 
@@ -282,17 +288,83 @@ Chef du service de maintien en condition opérationnelle de la direction des op�
 
 |
 
+Adjoint au sous-chef d'état-major plans (EMA)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Adjoint au sous-chef d'état-major opérations (EMA)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Adjoint au sous-chef d'état-major ressources humaines (EMA)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Adjoint au sous-chef d'état-major relations internationales (EMA)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Adjoint au sous-chef d'état-major soutien (EMA)
+
+|
+
+1
+
+|
+
+110
+
+|
+
 B. - Emplois de chef de division de l'état-major des armées et assimilé :
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
+
+NOMBRE D'EMPLOIS |
+
+NOMBRE DE POINTS PAR EMPLOI |
+
+Officier général adjoint au major général des armées-chef de la division études, synthèse, management général
 
 |
 
-NOMBRE D'EMPLOIS
+1
 
 |
 
-NOMBRE DE POINTS PAR EMPLOI
+120
 
 |
 
@@ -392,6 +464,18 @@ Chef de la division cohérence capacitaire
 
 |
 
+Officier général chargé de mission équipements
+
+|
+
+1
+
+|
+
+100
+
+|
+
 Chef de la division ressources humaines
 
 |
@@ -404,7 +488,7 @@ Chef de la division ressources humaines
 
 |
 
-Chef de la division études, synthèse, management général, adjoint au major général des armées
+Chef de la division maintien en condition opérationnelle
 
 |
 
@@ -416,7 +500,7 @@ Chef de la division études, synthèse, management général, adjoint au major g
 
 |
 
-Chef de la division soutien logistique interarmées
+Chef de la division politique et performance des soutiens
 
 |
 
@@ -428,7 +512,7 @@ Chef de la division soutien logistique interarmées
 
 |
 
-Secrétaire général du préconseil des systèmes de forces
+Délégué interarmées aux réserves
 
 |
 
@@ -442,17 +526,11 @@ Secrétaire général du préconseil des systèmes de forces
 
 C. - Emplois de sous-chef d'état-major d'armée et assimilé :
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Sous-chef d'état-major plans et programmes de l'état-major de l'armée de terre
 
