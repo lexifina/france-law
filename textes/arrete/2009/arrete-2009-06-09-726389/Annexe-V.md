@@ -2,19 +2,13 @@
 
 TABLEAU V
 
-Fonctions relevant de la direction générale pour l'armement
+Fonctions relevant de la direction générale de l'armement
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Directeur de DGA maîtrise de l'information à la direction technique
 

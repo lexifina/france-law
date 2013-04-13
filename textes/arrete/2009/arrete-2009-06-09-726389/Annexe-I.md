@@ -4,17 +4,11 @@ TABLEAU I
 
 Fonctions interarmées
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Inspecteur des armées
 
@@ -40,7 +34,79 @@ Directeur de l'enseignement militaire supérieur
 
 |
 
-Officier général de zone de défense
+Officier général de zone de défense et de sécurité et officier général de zone de soutien de Paris
+
+|
+
+1
+
+|
+
+140
+
+|
+
+Officier général de zone de défense et de sécurité Est, Sud-Est ou Ouest et officier général de zone de soutien de Metz, Lyon ou de Rennes
+
+|
+
+3
+
+|
+
+120
+
+|
+
+Général adjoint engagements à l'officier général de la zone de défense et de sécurité de Paris, Est, Sud-Est, Sud-Ouest ou Ouest
+
+|
+
+5
+
+|
+
+80
+
+|
+
+Général adjoint soutien à l'officier général de zone de soutien de Paris, Metz, Lyon, Bordeaux ou Rennes
+
+|
+
+5
+
+|
+
+80
+
+|
+
+Commandant de la base de défense d'Ile-de-France
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Commandant de la base de défense de Brest-Lorient ou de Toulon
+
+|
+
+2
+
+|
+
+80
+
+|
+
+Officier général de zone de défense et de sécurité Sud ou Nord
 
 |
 
@@ -112,7 +178,7 @@ Chef de cabinet militaire au cabinet du ministre de la défense
 
 |
 
-Chef de cabinet du chef d'état-major des armées
+Chef de cabinet du chef d'état-major des armées-chef de la division affaires générales de l'état-major des armées
 
 |
 
@@ -120,7 +186,7 @@ Chef de cabinet du chef d'état-major des armées
 
 |
 
-100
+120
 
 |
 
@@ -136,7 +202,7 @@ Chef de l'état-major interarmées de force et d'entraînement
 
 |
 
-Directeur du collège interarmées de défense
+Directeur de l'Ecole de guerre
 
 |
 
@@ -161,18 +227,6 @@ Chef du centre de planification et de conduite des opérations
 |
 
 Commandant des opérations spéciales
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Général adjoint relations internationales
 
 |
 
@@ -232,30 +286,6 @@ Directeur du centre interarmées de concepts, de doctrines et d'expérimentation
 
 |
 
-Officier général adjoint à l'inspecteur des armées
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef d'état-major de la direction de l'enseignement militaire supérieur (DEMS)
-
-|
-
-1
-
-|
-
-100
-
-|
-
 Directeur du Centre des hautes études militaires (DEMS)
 
 |
@@ -268,7 +298,7 @@ Directeur du Centre des hautes études militaires (DEMS)
 
 |
 
-Commandant du soutien pour les bases de défense (EMA)
+Officier général chargé de la stratégie militaire et de la prospective
 
 |
 
@@ -276,7 +306,7 @@ Commandant du soutien pour les bases de défense (EMA)
 
 |
 
-110
+100
 
 |
 
@@ -292,7 +322,7 @@ Général commandant interarmées des hélicoptères
 
 |
 
-Commandant le Centre national des sports de la défense
+Commandant interarmées de l'espace
 
 |
 
@@ -304,7 +334,7 @@ Commandant le Centre national des sports de la défense
 
 |
 
-Général adjoint au chef de l'état-major interarmées de force et d'entraînement
+Commandant le Centre national des sports de la défense
 
 |
 
@@ -353,6 +383,18 @@ Officier général chargé des fréquences
 |
 
 Officier général chargé du retour à la vie civile des officiers généraux
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Secrétaire général du Conseil supérieur de la réserve militaire
 
 |
 

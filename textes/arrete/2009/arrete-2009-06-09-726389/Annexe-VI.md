@@ -4,17 +4,11 @@ TABLEAU VI
 
 Fonctions relevant du service de santé des armées
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Inspecteur général du service de santé des armées
 
@@ -28,11 +22,107 @@ Inspecteur général du service de santé des armées
 
 |
 
-Médecin-chef d'un hôpital d'instruction des armées
+Médecin chef de l'hôpital d'instruction des armées du Val-de-Grâce
 
 |
 
-9
+1
+
+|
+
+80
+
+|
+
+Médecin chef de l'hôpital d'instruction des armées Sainte-Anne
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Médecin chef de l'hôpital d'instruction des armées Laveran
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Médecin chef de l'hôpital d'instruction des armées Percy
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Médecin chef de l'hôpital d'instruction des armées Bégin
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Médecin chef de l'hôpital d'instruction des armées Desgenettes
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Médecin chef de l'hôpital d'instruction des armées Robert Picqué
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Médecin chef de l'hôpital d'instruction des armées Clermont-Tonnerre
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Médecin chef de l'hôpital d'instruction des armées Legouest
+
+|
+
+1
 
 |
 
@@ -52,7 +142,7 @@ Directeur des approvisionnements en produits de santé
 
 |
 
-Directeur de l'Ecole du Val-de-Grâce
+Directeur de l'école du Val-de-Grâce
 
 |
 
@@ -60,7 +150,7 @@ Directeur de l'Ecole du Val-de-Grâce
 
 |
 
-80
+100
 
 |
 
@@ -76,7 +166,7 @@ Directeur de l'institut de recherche biomédicale du service de santé des armé
 
 |
 
-Directeur du département de l'audit interne du service de santé des armées
+Inspecteur du service de santé des armées
 
 |
 
@@ -84,6 +174,6 @@ Directeur du département de l'audit interne du service de santé des armées
 
 |
 
-80
+100
 
 |

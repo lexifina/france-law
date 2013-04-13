@@ -4,17 +4,11 @@ TABLEAU IV
 
 Fonctions relevant de l'armée de l'air
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Commandant des forces aériennes
 
@@ -124,7 +118,7 @@ Commandant du centre d'expériences aériennes militaires
 
 |
 
-Chef de l'état-major opérationnel air
+Chef d'état-major et adjoint renseignement du commandant de la défense aérienne et des opérations aériennes
 
 |
 
@@ -184,18 +178,6 @@ Adjoint au commandant de la défense aérienne et des opérations aériennes
 
 |
 
-Commandant la brigade aérienne du soutien de l'homme
-
-|
-
-1
-
-|
-
-80
-
-|
-
 Commandant la brigade aérienne de l'aviation de chasse
 
 |
@@ -244,7 +226,7 @@ Commandant la brigade aérienne des forces de sécurité et d'intervention
 
 |
 
-Commandant la brigade aérienne des systèmes d'information et de communications
+Commandant la brigade aérienne des systèmes d'armes
 
 |
 
@@ -256,43 +238,7 @@ Commandant la brigade aérienne des systèmes d'information et de communications
 
 |
 
-Commandant la brigade aérienne technique
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant la brigade aérienne logistique
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant la brigade aérienne d'infrastructure et du génie de l'air
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur des droits financiers individuels et des affaires contentieuses
+Commandant la brigade aérienne d'appui à la manœuvre aérienne
 
 |
 
@@ -329,6 +275,30 @@ Commandant les écoles des sous-officiers et militaires du rang de l'armée de l
 |
 
 Commandant du centre multimodal des transports
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur du bureau enquêtes accident air
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Directeur du centre d'études stratégiques aérospatiales
 
 |
 

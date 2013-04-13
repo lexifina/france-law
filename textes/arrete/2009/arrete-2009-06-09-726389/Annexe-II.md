@@ -4,17 +4,11 @@ TABLEAU II
 
 Fonctions relevant de l'armée de terre
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Commandant des forces terrestres
 
@@ -28,23 +22,13 @@ Commandant des forces terrestres
 
 |
 
-Commandant de région terre
-
-|
-
-5
-
-|
-
-140
-
-|
-
 Commandant de brigade spécialisée
 
 |
 
-4 |
+4
+
+|
 
 100
 
@@ -114,7 +98,7 @@ Commandant d'état-major de forces
 
 |
 
-3
+2
 
 |
 
@@ -134,19 +118,9 @@ Directeur de la section technique de l'armée de terre
 
 |
 
-Chef de cabinet du chef d'état-major de l'armée de terre
+Chef d'état-major du commandement des forces terrestres
 
 |
-
-1
-
-|
-
-100
-
-|
-
-Chef d'état-major du commandement des forces terrestres |
 
 1
 
@@ -168,7 +142,7 @@ Commandant de la brigade franco-allemande
 
 |
 
-Directeur central du service de la maintenance industrielle terrestre
+Directeur du service de la maintenance industrielle terrestre
 
 |
 
@@ -220,7 +194,7 @@ Commandant de division au commandement des forces terrestres
 
 |
 
-4
+8
 
 |
 
@@ -228,19 +202,7 @@ Commandant de division au commandement des forces terrestres
 
 |
 
-Chef du maintien en condition opérationnelle des matériels de l'armée de terre
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant du collège de l'enseignement supérieur de l'armée de terre
+Officier général chargé des relations internationales et du soutien aux exportations
 
 |
 
@@ -312,76 +274,6 @@ Chef d'état-major du quartier général du corps de réaction rapide-France
 
 |
 
-Général adjoint major au commandant d'une région terre |
-
-5
-
-|
-
-80
-
-|
-
-Chef d'état-major d'une région terre
-
-|
-
-5
-
-|
-
-80
-
-|
-
-Général adjoint pour l'outre-mer et l'étranger
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur du service central des achats et de la maintenance
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Commandant de division au commandement des forces terrestres
-
-|
-
-4
-
-|
-
-80
-
-|
-
-Commandant de division au commandement des forces terrestres
-
-|
-
-4
-
-|
-
-80
-
-|
-
 Commandant de la division opérations au quartier général du corps de réaction rapide-France
 
 |
@@ -402,7 +294,7 @@ Commandant du centre de préparation des forces
 
 |
 
-80
+100
 
 |
 

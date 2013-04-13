@@ -4,17 +4,11 @@ TABLEAU III
 
 Fonctions relevant de la marine nationale
 
-DÉSIGNATION DE L'EMPLOI
+DÉSIGNATION DE L'EMPLOI |
 
-|
+NOMBRE D'EMPLOIS |
 
-NOMBRE D'EMPLOIS
-
-|
-
-NOMBRE DE POINTS PAR EMPLOI
-
-|
+NOMBRE DE POINTS PAR EMPLOI |
 
 Préfet maritime
 
@@ -76,18 +70,6 @@ Commandant la force des fusiliers marins et commandos
 
 |
 
-Commandant la zone maritime océan Indien
-
-|
-
-1
-
-|
-
-100
-
-|
-
 Autorité de coordination pour les affaires nucléaires, la prévention et la protection de l'environnement
 
 |
@@ -124,7 +106,7 @@ Président de la commission permanente des programmes et des essais des bâtimen
 
 |
 
-Commandant la force aéromaritime de réaction rapide et adjoint au commandant de la force d'action navale pour la préparation opérationnelle des états-majors de force
+Directeur du service logistique de la marine et directeur de l'antenne navale du centre d'expertise du soutien du combattant et des forces
 
 |
 
@@ -136,11 +118,11 @@ Commandant la force aéromaritime de réaction rapide et adjoint au commandant d
 
 |
 
-Adjoint territorial au préfet maritime
+Commandant la force aéromaritime de réaction rapide et adjoint au commandant de la force d'action navale pour la préparation opérationnelle des états-majors de force
 
 |
 
-2
+1
 
 |
 
@@ -184,7 +166,7 @@ Directeur local du service de soutien de la flotte
 
 |
 
-Commandant de l'Ecole navale et du groupe des écoles du Poulmic
+Commandant de l'école navale et du groupe des écoles du Poulmic
 
 |
 
