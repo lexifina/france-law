@@ -1,0 +1,9 @@
+# Réponse à la question n° 4169
+
+- Question : [4169](4169.md) — Question n° 4169 — Cour européenne des droits de l'Homme; compétences
+
+## Réponse
+
+*JO du 2013-04-16*
+
+La France est particulièrement attachée à la Convention européenne de sauvegarde des droits de l'Homme et des Libertés fondamentales et soutient fermement l'action de la Cour européenne des droits de l'Homme, chargée de veiller à l'application de cette convention. La Cour est, en effet, essentielle dans le système de défense et de promotion des droits fondamentaux au niveau européen. La France considère que la Cour a vocation à exercer ses compétences à l'égard de l'ensemble du continent européen, afin d'assurer à l'ensemble des personnes vivant sur cet espace un égal accès aux droits de l'Homme, et que ce système, s'il peut être réformé, ne saurait en aucun cas être remis en cause dans son principe. Pour ce qui concerne la réforme de la Cour européenne des droits de l'Homme, un important travail a été accompli depuis 2010, avec la tenue annuelle de conférences impliquant les Etats membres du Conseil de l'Europe, le Conseil de l'Europe et la Cour. Ces conférences ont permis de définir et de mettre en oeuvre des actions visant à renforcer l'efficacité de la Cour au regard d'un nombre important de requêtes pendantes accumulées ces dernières années (environ 128 000 requêtes fin 2012). A la suite de la conférence de Brighton, des négociations sont actuellement en cours sur deux Protocoles à la Convention européenne de sauvegarde des droits de l'Homme et des Libertés fondamentales qui viseront pour l'un à renforcer notamment le principe de subsidiarité et pour l'autre - qui sera facultatif - à permettre aux plus hautes juridictions nationales de demander un avis consultatif à la Cour européenne des droits de l'Homme.
