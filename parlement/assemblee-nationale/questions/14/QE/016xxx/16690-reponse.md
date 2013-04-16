@@ -1,0 +1,9 @@
+# Réponse à la question n° 16690
+
+- Question : [16690](16690.md) — Question n° 16690 — réglementation
+
+## Réponse
+
+*JO du 2013-04-16*
+
+Les exhumations à la demande des familles sont régies par l'article R. 2213-40 du code général des collectivités territoriales. Il prévoit que l'exhumation doit être demandée par le plus proche parent de la personne décédée qui doit justifier auprès de la mairie de son état civil, de son domicile et de sa qualité. Le maire de la commune du lieu d'exhumation doit s'assurer de la qualité de plus proche parent avant de délivrer l'autorisation d'exhumer. La notion de plus proche parent peut poser des difficultés, aucun ordre n'étant préétabli. Une fois les vérifications effectuées, le maire doit délivrer l'autorisation, sans rechercher l'accord de l'ensemble de la famille. Le maire ne peut s'opposer à une demande d'exhumation que pour un motif d'ordre public lié au bon ordre et à la décence du cimetière. Lorsqu'il est informé d'un conflit familial, il a la faculté de surseoir à statuer et de renvoyer les parties devant le juge judiciaire afin que celui-ci tranche le différend. Le juge détermine, à défaut d'une manifestation expresse de la volonté du défunt, quelle est la personne la plus proche de ce dernier et la plus à même de connaître ses volontés et en conséquence de décider d'un transfert de sépulture. Dans la mesure où la jurisprudence admet que l'un des parents puisse s'engager sur l'honneur au nom de ceux appartenant au même degré de parenté démontrant ainsi qu'aucun d'eux n'est susceptible de s'opposer à l'exhumation (CE, 9 mai 2005, n° 262977) et où le juge judiciaire peut être saisi afin de trancher les différends dans le cas où s'élèverait au sein de la famille une opposition à la demande d'exhumation, il n'apparaît pas nécessaire de modifier la réglementation en vigueur.
