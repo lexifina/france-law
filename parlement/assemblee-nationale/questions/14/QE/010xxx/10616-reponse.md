@@ -1,0 +1,9 @@
+# Réponse à la question n° 10616
+
+- Question : [10616](10616.md) — Question n° 10616 — statistiques
+
+## Réponse
+
+*JO du 2013-04-16*
+
+Le plafonnement global de certains avantages fiscaux à caractère incitatif ou liés à un investissement mis en place à compter de 2009 et fixé initialement à 25 000 € majorés de 10 % du montant du revenu imposable a été progressivement diminué. Pour l'imposition des revenus de 2011, il a été fixé à 18 000 € majoré de 4 % du revenu imposable. Sur cette base, au titre de l'impôt sur les revenus (IR) de 2011 payé en 2012, pour les 10 000 contribuables présentant les montants les plus élevés d'avantages fiscaux, le montant moyen de réductions d'impôt imputées s'élève à près de 63 685 €, diminuant ainsi de plus de 49 % leur cotisation d'IR avant imputation de ces réductions. A compter de l'imposition des revenus de 2013, la loi de finances pour 2013 diminue le plafonnement global des avantages fiscaux en réduisant la part fixe à 10 000 € et en supprimant la part proportionnelle. Toutefois, la part fixe est maintenue à son niveau actuel, soit à 18 000 €, pour les investissements réalisés outre-mer et dans les SOFICA afin de tenir compte de leur spécificité et de préserver leur attractivité. En outre, la réduction d'impôt au titre du dispositif « Malraux » est dorénavant exclue du champ du plafonnement global. Enfin, le nouveau plafond ne s'applique pas aux avantages acquis antérieurement au 1er janvier 2013 ou qui trouvent leur fondement dans une décision d'investissement antérieure à cette date. Ainsi, les réductions d'impôt concernées restent soumises à un plafonnement global comportant une composante proportionnelle au revenu imposable. Par suite, le montant de déduction théorique maximum résultant des réductions et crédits d'impôt ne peut pas être déterminé.
