@@ -1,0 +1,9 @@
+# Réponse à la question n° 18268
+
+- Question : [18268](18268.md) — Question n° 18268 — Canceropôle-Oncopôle; Sanofi
+
+## Réponse
+
+*JO du 2013-04-16*
+
+Le groupe Sanofi a un fort ancrage sur le territoire national : Sanofi emploie 28 000 personnes sur le territoire français, ce qui constitue un quart de son effectif mondial, et la moitié de son effectif de recherche et développement, alors que le marché français ne représente que 7 % du chiffre d'affaires du groupe. Depuis juillet 2012, le groupe Sanofi partage avec les représentants du personnel des réflexions portant sur ses activités en France à l'horizon 2015. Les dirigeants du groupe Sanofi ont indiqué que leur groupe connaissait une baisse importante de la mise au point de nouvelles molécules, tandis que la France compte neuf sites de recherche et développement. Les dirigeants du groupe ont exclu tout recours à des procédures de licenciement. Néanmoins, ce plan de réorganisation est susceptible de conduire à une diminution d'emplois. Le Gouvernement, et en particulier le ministre du redressement productif, a exprimé clairement sa désapprobation de ce plan annoncé en juillet 2012, ce qui a conduit le groupe Sanofi à modifier très largement ses intentions initiales : dans la version présentée aux salariés à l'automne 2012, les pertes d'emplois seraient de l'ordre de 900 alors que les premières estimations relatives aux intentions initiales du groupe Sanofi faisaient état de plus de 2 000 suppressions d'emplois. Une mission a été confiée, en février 2013, à un expert indépendant, M. Jean-Pierre Saintouil, directeur du pôle santé de Toulouse Tech Transfer, sur l'avenir du site de Sanofi à Toulouse. A l'écart de toutes pressions, M. Saintouil doit examiner le potentiel de Sanofi à Toulouse et sa place au sein de l'écosystème de santé toulousain. Son rapport est attendu pour la fin avril 2013.
