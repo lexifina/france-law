@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002496
+
+- Question : [SEQ121002496](seq121002496.md) — Déductibilité des dons et cotisations aux partis politiques
+
+## Réponse
+
+*Budget, JO du 2013-04-18, page 1256*
+
+En application du 3 de l'article 200 du code général des impôts, les dons consentis par un contribuable domicilié en France pour le financement de certaines campagnes électorales ou des partis politiques ainsi que les cotisations versées aux partis et groupements politiques, ouvrent droit à une réduction d'impôt égale à 66 % du montant des sommes versées. Conformément au 1 bis de ce même article, ces dons et les autres dons ouvrant droit à la réduction d'impôt prévue à l'article 200 précité sont retenus dans la limite de 20 % du revenu imposable du foyer fiscal. Lorsque le montant des dons dépasse la limite de 20 % du revenu imposable, l'excédent est reporté sur les cinq années suivantes et ouvre droit à la réduction d'impôt dans les mêmes conditions. En application de l'article 19 de la loi n° 2011-1978 de la loi de finances rectificative pour 2011, les dons et cotisations versés à compter du 1er janvier 2012 pour le financement des partis et groupements politiques sont retenus dans la limite de 15 000 € par an et par foyer fiscal pour le bénéfice de la réduction d'impôt. Ne sont pas visés les dons versés pour le financement des campagnes électorales. Ce nouveau plafond annuel spécifique est applicable aux dons et cotisations versés à compter du 1er janvier 2012. Il ne s'applique pas aux réductions d'impôt et aux reports de ces réductions d'impôt qui résultent de dons aux partis politiques versés antérieurement au 1er janvier 2012. Dans la situation visée par l'auteur de la question, si un contribuable dispose d'un report sur 2012 d'un excédent de dons versés en 2011, ce report n'est donc pas concerné par la nouvelle limite de 15 000 € précitée.
