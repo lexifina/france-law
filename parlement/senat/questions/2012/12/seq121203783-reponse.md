@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203783
+
+- Question : [SEQ121203783](seq121203783.md) — Naturalisation des anciens combattants réformés pour raisons médicales suite à un accident de service
+
+## Réponse
+
+*Intérieur, JO du 2013-04-18, page 1274*
+
+L'article 21-14-1 du code civil organise les conditions dans lesquelles la nationalité française peut être conférée, sur proposition du ministre de la défense, à celui qui, engagé dans les armées françaises, a été blessé en mission au cours ou à l'occasion d'un engagement opérationnel. Cette procédure, qui présente un caractère exceptionnel, reste subordonnée à l'expression formelle d'une demande, et donc au consentement de l'intéressé. En dehors de ces cas particuliers, les légionnaires peuvent, en application du droit commun, obtenir la nationalité française par décision de l'autorité publique dans les conditions fixées par les articles 21-15 et suivants du code civil, qui imposent notamment au postulant d'en faire la demande et d'avoir ou de pouvoir être considéré comme ayant fixé le centre de ses intérêts en France. En particulier, l'exigence d'une durée de séjour de cinq ans est réduite à deux ans pour celui qui a rendu des services importants à la France (art. 21-17 du code civil). Pour les légionnaires en activité, les dossiers de demande sont constitués par le commandement de la légion à Aubagne et ils sont instruits, dès lors que les renseignements produits par l'autorité militaire sont satisfaisants, avec rapidité et bienveillance par le préfet des Bouches-du-Rhône. En toute hypothèse, les services rendus à la France par les intéressés sont naturellement pris en compte. Le dispositif actuel, qui concilie régime particulier et application du droit commun, étant de nature à faciliter l'accès à la nationalité française par les légionnaires lorsque les circonstances le justifient, il ne paraît pas nécessaire de le modifier.
