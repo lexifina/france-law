@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002493
+
+- Question : [SEQ121002493](seq121002493.md) — Unification de la gestion du réseau ferroviaire
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2013-04-18, page 1276*
+
+La réforme du système ferroviaire, annoncée le 30 octobre 2012, repose notamment sur l'unification des fonctions de gestionnaire d'infrastructure dans une entité unique, le gestionnaire d'infrastructure unifié (GIU), et sur le rattachement de ce dernier à l'exploitant historique, au sein d'un pôle public ferroviaire unifié, dans le respect des règles européennes. Le système ferroviaire français sera alors doté d'un véritable gestionnaire d'infrastructure, en charge de maintenir l'infrastructure physique (entretien et modernisation du réseau) et d'arrêter les conditions de son utilisation (répartition des sillons, tarification, gestion des circulations). Ces deux missions sont intimement liées et ne peuvent se concevoir sans un pilotage unique, aux très fortes interactions entre travaux et circulations. Les synergies liées à la constitution d'un pôle public ferroviaire unifié rendront possibles des gains de performance, pour offrir aux usagers du transport ferroviaire le meilleur service au meilleur coût. Au-delà de cet effort de rationalisation des activités et d'une meilleure organisation du travail, il conviendra d'examiner les conditions d'un retour à l'équilibre financier du système ferroviaire et les leviers que devront mobiliser tous les acteurs afin d'y contribuer. Pour la suite des travaux, Jean-Louis Bianco est chargé d'organiser la consultation et de présenter les grands axes de la réforme aux parties prenantes, afin de recueillir leur avis et de permettre d'en arrêter les modalités pratiques. Il remettra prochainement ses conclusions au Gouvernement, qui déposera ensuite un projet de loi au Parlement.
