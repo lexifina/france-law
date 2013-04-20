@@ -54,60 +54,6 @@ Pour les élèves français :
 
 La modalidad (série) du diplôme du bachiller décerné aux élèves français est déterminée conformément au tableau suivant.
 
-1. Pour la session 2012 de l'examen :
-
-SÉRIES DU SYSTÈME ÉDUCATIF FRANÇAIS
-
-|
-
-SÉRIES DU SYSTÈME ÉDUCATIF ESPAGNOL
-
-|
-
-Baccalauréat série économique et sociale.
-
-|
-
-Bachiller de humanidades y ciencias sociales.
-
-|
-
-Baccalauréat série littéraire.
-
-Spécialités (via) : mathématiques, latin, grec ancien, histoire des arts, langue vivante 2, langue vivante 3, langue vivante régionale.
-
-|
-
-Baccalauréat série littéraire.
-
-Spécialités (via) : théâtre-expression dramatique ou musique ou danse ou arts du cirque.
-
-|
-
-Bachiller de artes (via artes escénicas, música y danza).
-
-|
-
-Baccalauréat série littéraire.
-
-Spécialités (via) : arts plastiques ou cinéma-audiovisuel.
-
-|
-
-Bachiller de artes (via artes plásticas, imagen y diseño).
-
-|
-
-Baccalauréat série scientifique.
-
-|
-
-Bachiller de ciencias y tecnología.
-
-|
-
-2. A compter de la session 2013 de l'examen :
-
 SÉRIES DU SYSTÈME ÉDUCATIF FRANÇAIS
 
 |

@@ -62,7 +62,11 @@ SÉRIES DU SYSTÈME
 
 |
 
-Baccalauréat série littéraire avec latin et grec en épreuves facultatives
+Baccalauréat série littéraire avec les deux épreuves facultatives suivantes :
+
+- langues et cultures de l'antiquité : latin ;
+
+- langues et cultures de l'antiquité : grec
 
 |
 
