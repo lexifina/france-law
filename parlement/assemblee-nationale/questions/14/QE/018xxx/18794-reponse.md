@@ -1,0 +1,9 @@
+# Réponse à la question n° 18794
+
+- Question : [18794](18794.md) — Question n° 18794 — échanges de données informatisées; mise en place
+
+## Réponse
+
+*JO du 2013-04-23*
+
+A titre liminaire, il convient de préciser que l'obligation de télétransmettre la déclaration de résultats sera étendue à compter du 1er avril 2014 à toutes les entreprises non soumises à l'impôt sur les sociétés dont le chiffre d'affaires excède 80 000 euros, pour être généralisée l'année suivante à toutes les entreprises. De plus, il est précisé que l'accès aux téléprocédures d'échange de formulaire informatisé (EFI) peut s'effectuer non seulement via un certificat numérique mais aussi, depuis le 1er octobre 2010, par la simple saisie d'un identifiant et d'un mot de passe. Dans la mesure du possible, l'administration des finances publiques s'attache à offrir aux usagers professionnels une offre de téléprocédures équivalente en EFI et en échange de données informatisées (EDI). Telle n'a pas été la solution retenue en matière de déclaration de résultats puisque les entreprises n'ont pas la possibilité de la saisir directement sur le site www. impots. gouv. fr en mode EFI. En effet, compte tenu du nombre de données à prendre en compte, de leur complexité et de l'impossibilité de contrôler en ligne la saisie, l'utilisation du mode EFI pour transmettre les données de résultats n'a pas paru adapté. Seul le mode EDI permet en effet de transmettre des fichiers volumineux constitués automatiquement à partir des données comptables du dossier de l'entreprise, évitant ainsi tout risque d'erreur lié à la saisie des données de l'entreprise. De plus, des solutions permettant aux entreprises de télétransmettre leur déclaration de résultats sans nécessairement avoir recours à un prestataire comptable sont répertoriées sur le site www. impots. gouv. fr dans la rubrique des professionnels - vos impôts - impôt sur les sociétés - déclarer - solutions TDFC sans intermédiaire.
