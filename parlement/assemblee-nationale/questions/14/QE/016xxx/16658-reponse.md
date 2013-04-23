@@ -1,0 +1,9 @@
+# Réponse à la question n° 16658
+
+- Question : [16658](16658.md) — Question n° 16658 — logements de fonction; champ d'application
+
+## Réponse
+
+*JO du 2013-04-23*
+
+Conformément aux articles 1407 et 1408 du code général des impôts, la taxe d'habitation est établie au nom des personnes qui ont, à quelque titre que ce soit, la disposition ou la jouissance de locaux meublés affectés à l'habitation, c'est-à-dire qui ont la possibilité de les occuper à tout moment et qui en ont la jouissance à titre privatif (cf. base documentaire BOFIP-Impôts : BOI-IF-TH-10-20-10-20120912). Tel peut être le cas des titulaires d'un logement de fonction, même occupé par nécessité absolue de service. Lorsque leur conjoint et les autres membres de leur foyer fiscal occupent un autre logement, celui-ci est également imposé à la taxe d'habitation dès lors qu'il entre dans le champ des dispositions précitées. Toute pluralité d'habitation principale étant exclue en matière de taxe d'habitation, le logement de fonction est en principe considéré comme résidence principale. Toutefois, il est admis que les personnes occupant un logement par nécessité absolue de service puissent, en raison des inconvénients que peut comporter ce type de logement, bénéficier des dispositions fiscales relatives à la résidence principale pour une habitation distincte de ce logement de fonction, à condition qu'elle soit occupée de manière effective et permanente par leur conjoint et les autres membres de leur foyer. Dans cette hypothèse, le logement de fonction constitue une résidence secondaire et ne bénéficie pas des allègements réservés à la résidence principale. Cela étant, s'agissant du cas particulier évoqué, il ne saurait être répondu avec certitude que si, par la communication du nom et de l'adresse des contribuables concernées, l'administration était à même de procéder à une instruction détaillée.
