@@ -1,0 +1,9 @@
+# Réponse à la question n° 10420
+
+- Question : [10420](10420.md) — Question n° 10420 — consultation; réglementation
+
+## Réponse
+
+*JO du 2013-04-23*
+
+Il convient de distinguer la communicabilité des documents et la diffusion en ligne de ceux-ci. Les délais de communicabilité des archives, fixés par la loi n° 2008-696 du 15 juillet 2008 relative aux archives, s'imposent à tous. Néanmoins, dès leur expiration, toute personne peut avoir accès aux documents, et les services d'archives départementales sont tenus de garantir cet accès. Toutefois, certains documents, quoique librement communicables, restent soumis à un délai supplémentaire de protection pour leur diffusion en ligne uniquement : il s'agit des documents comportant des données nominatives. Ce délai, arrêté par la Commission nationale de l'informatique et des libertés (CNIL) dans sa délibération n° 2012-113 du 12 avril 2013, est de 100 ans. Les tables décennales de l'état civil, qui sont déjà librement communicables sans délai et accessibles à tous en salle de lecture des services d'archives, sont soumises à ce délai de 100 ans pour la diffusion en ligne. Enfin, la date de 1902 ne correspond à aucune condition légale. Le délai de 100 ans arrêté par la CNIL permet la mise en ligne sur Internet des tables décennales des décès jusqu'en 1912. Toutefois, il ne s'agit que d'une simple possibilité, et en aucun cas il n'est envisagé de soumettre les services publics à l'obligation de numériser un grand nombre de documents, étant donné le coût élevé de ces numérisations pour les collectivités qui les assument. Les services d'archives départementales assurent donc dans le respect de la loi le libre accès aux documents librement communicables dans leurs salles de lecture, et leur diffusion en ligne dans le respect des dispositions de la CNIL, et suivant leur capacité de numérisation et les choix stratégiques opérés par les collectivités dont ils dépendent.
