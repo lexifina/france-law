@@ -1,0 +1,9 @@
+# Réponse à la question n° 22828
+
+- Question : [22828](22828.md) — Question n° 22828 — commande publique; simplification
+
+## Réponse
+
+*JO du 2013-04-23*
+
+Un accord-cadre est un contrat conclu entre un pouvoir adjudicateur et un ou plusieurs opérateurs économiques, sur le fondement duquel des marchés subséquents sont passés. Il est soumis aux mêmes procédures et aux mêmes seuils que les marchés publics. Le pouvoir adjudicateur a la faculté de prévoir ou non un minimum ou un maximum en valeur ou en quantité. Lorsqu'un maximum est fixé par l'acheteur public, il détermine la limite supérieure des obligations susceptibles d'être mises à la charge du ou des titulaires par le biais des marchés subséquents. Pour cette raison, il constitue un des piliers de la relation contractuelle entre le pouvoir adjudicateur et les entreprises titulaires, qui ont apprécié l'étendue du marché sur cette base. Le pouvoir de modification unilatérale du contrat par le pouvoir adjudicateur ne peut être mis en oeuvre que dans des cas exceptionnels. La personne publique doit en effet justifier d'un motif d'intérêt général tenant à la nécessité de répondre à une évolution des besoins du service public. Ce pouvoir ne constitue donc pas le moyen adapté pour modifier le maximum fixé par l'accord-cadre. L'augmentation de ce maximum demeure néanmoins possible par la conclusion d'un avenant avec tous les titulaires de l'accord-cadre. Cet avenant ne doit pas avoir d'incidence sur l'application des seuils de procédure et conformément à l'article 20 du code des marchés publics, il ne doit pas bouleverser l'économie du contrat. Soucieux de maintenir l'équilibre des relations contractuelles entre les opérateurs économiques et les acheteurs publics, le Gouvernement n'envisage pas d'introduire dans le code des marchés publics de disposition consacrant un pouvoir de modification unilatérale du maximum énoncé dans un accord-cadre.
