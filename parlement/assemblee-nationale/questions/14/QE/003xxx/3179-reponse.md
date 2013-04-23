@@ -1,0 +1,9 @@
+# Réponse à la question n° 3179
+
+- Question : [3179](3179.md) — Question n° 3179 — emplois; perspectives
+
+## Réponse
+
+*JO du 2013-04-23*
+
+Aujourd'hui, le réseau de distribution de carburants est constitué par le réseau des stations-services des grandes et moyennes surfaces et par le réseau dit « traditionnel » qui comprend les points de vente des compagnies pétrolières et ceux des opérateurs indépendants. La part de marché de la grande distribution est en progression régulière pour s'établir à 57 % environ des volumes distribués pour 40 % environ du nombre des stations-services (4 900 sur 12 200 points de vente au total). Cette situation distingue le marché français par rapport à celui des autres pays européens. Le marché français est l'un des plus concurrentiels en ce qui concerne les prix à la pompe hors taxes, et ce au bénéfice des consommateurs. Dans ce cadre, les distributeurs de carburants notamment du réseau traditionnel adaptent en permanence le modèle économique de leur réseau de stations-services en fonction de leur stratégie commerciale et de leur positionnement en termes de prix et de services par rapport à l'environnement concurrentiel. On observe que certains d'entre eux ont développé des réseaux de stations-services automatiques, d'autres ont fait le choix de conserver une activité de services, d'autres enfin ont privilégié des stations implantées sur autoroutes ou en zones urbaines associées à une activité importante de boutique. Le consommateur dispose ainsi d'une offre commerciale diversifiée pour faire son plein de carburant. Le Gouvernement reste en tout état de cause attentif à la pérennisation des emplois dans l'ensemble des secteurs dont celui des stations-services. Il s'agit de concilier pouvoir d'achat et emplois en répondant aux besoins des différents consommateurs.
