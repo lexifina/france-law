@@ -1,0 +1,9 @@
+# Réponse à la question n° 17039
+
+- Question : [17039](17039.md) — Question n° 17039 — pratique sportive; visite médicale obligatoire; prise en charge
+
+## Réponse
+
+*JO du 2013-04-23*
+
+La circulaire N° DSS/MCGR/DGS/2011/331 du 27 septembre 2011 relative à la rationalisation des certificats médicaux précise que les médecins ne sont pas tenus de répondre aux diverses demandes de certificats médicaux lorsqu'il n'existe aucun fondement juridique. En conséquence, hormis les cas où le certificat médical est prévu par des textes, le certificat médical n'est pas nécessaire et le médecin est fondé à en refuser la délivrance. Les articles L.231-2 à L.231-2-3 du code du sport imposent systématiquement la présentation d'un certificat médical de non contre indication à la pratique sportive uniquement : lors de la délivrance et du renouvellement d'une licence sportive permettant la participation aux compétitions organisées par la fédération sportive qui la délivre ; pour l'obtention d'une première licence sportive ne permettant pas la participation aux compétitions organisées par la fédération sportive qui la délivre ; pour les sportifs non licenciés participant à une compétition sportive organisée par une fédération agréée ou autorisée par une fédération délégataire. Toutes les structures ou associations offrant une pratique d'activités physiques et sportives qui ne rentreraient pas dans le cadre précédent fixé par le code du sport ne sont donc pas soumises à cette obligation de demander un certificat médical à leurs adhérents. En tout état de cause, aucune obligation de présentation d'un certificat médical de non contre indication par les adhérents ne peut être imposée aux associations évoquées dans la question écrite. Toutefois, il convient aux dirigeants de ces associations d'apprécier les risques des activités pratiquées en leur sein et de mettre en oeuvre les moyens les plus adaptés pour garantir la sécurité de leurs adhérents.
