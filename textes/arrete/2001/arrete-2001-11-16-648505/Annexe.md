@@ -314,7 +314,7 @@ Directeur adjoint ou sous-directeur
 
 |
 
-C.-Fonctions exercées au Centre d'analyse stratégique
+C.-Fonctions exercées au Commissariat général à la stratégie et à la prospective
 
 DESIGNATION DE L'EMPLOI
 
@@ -332,7 +332,7 @@ de points par emploi
 
 |
 
-Directeur général du Centre d'analyse stratégique
+Commissaire général à la stratégie et à la prospective
 
 |
 
