@@ -1,0 +1,9 @@
+# Réponse à la question n° 4743
+
+- Question : [4743](4743.md) — Question n° 4743 — CLIS; perspectives; Marie-Galante
+
+## Réponse
+
+*JO du 2013-04-23*
+
+Les dispositifs collectifs de scolarisation ne sont pas la modalité principale d'inclusion scolaire des élèves handicapés. Ils sont destinés prioritairement aux élèves qui ne peuvent s'accommoder des contraintes d'une scolarisation individuelle. En effet, la loi d'orientation de 2005 vise à favoriser la réussite scolaire de tous les élèves en répondant de manière efficace aux besoins particuliers de certains d'entre eux. Elle privilégie les réponses qui tendent à maintenir l'élève dans un cursus scolaire ordinaire. Selon les situations individuelles, et en tenant compte notamment de la sévérité des troubles, les aménagements pédagogiques et les accompagnements nécessaires en termes de soin ou de rééducation sont généralement coordonnés par le médecin de l'éducation nationale. Si les besoins de l'élève le justifient, il peut bénéficier, sur décision de la commission des droits et de l'autonomie des personnes handicapées (CDAPH) au sein de la maison départementale des personnes handicapées (MDPH), de l'attribution d'un matériel pédagogique adapté (ordinateur, applications informatiques spécifiques...). La CDAPH peut également, en tant que de besoin, décider d'attribuer une aide humaine, individuelle ou mutualisée, adaptée à la situation de l'élève. Pour l'année scolaire 2011-2012, les écoles de Marie-Galante scolarisaient 25 élèves handicapés, dont 13 en CLIS, ce qui correspond à un taux de scolarisation en dispositif collectif supérieur à la moyenne nationale (52%, pour 34,4 % au niveau national). L'île de Marie-Galante compte cette année deux CLIS, l'une à l'école primaire publique mixte à Grand-Bourg, l'autre à l'école primaire publique Bourg Saint-Louis à Saint-Louis. Toutes deux comprennent l'effectif maximum prévu, soit 12 élèves.
