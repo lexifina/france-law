@@ -1,0 +1,9 @@
+# Réponse à la question n° 12995
+
+- Question : [12995](12995.md) — Question n° 12995 — statistiques
+
+## Réponse
+
+*JO du 2013-04-23*
+
+Aux termes de l'article 1er de la loi du 9 décembre 1905 concernant la séparation des Églises et de l'État, « la République garantit le libre exercice des cultes sous les seules restrictions édictées dans l'intérêt de l'ordre public ». Il résulte de ces dispositions que l'aménagement d'un lieu de culte ne nécessite aucune autorisation ou formalité autre que celles prévues d'une façon générale par le code de l'urbanisme et le code de la construction et de l'habitation. Par conséquent, aucune liste particulière d'édifices du culte ou de lieux de culte n'est dressée par l'administration. Néanmoins, selon les chiffres les plus couramment diffusés, les édifices du culte catholique seraient environ 45 000 (cathédrales, basiliques, églises et chapelles), ce nombre étant en légère érosion du fait de quelques désaffectations annuelles que ne compense pas la construction d'églises nouvelles. Le nombre de lieux de culte protestants est estimé à 3 000, dont 1 200 pour les réformés, luthériens ou autres courants « historiques » et 1 800 pour les évangéliques. On ne dénombrait que 800 lieux de culte évangélique en 1970 ; ils sont aujourd'hui en progression constante. En ce qui concerne les lieux de culte israélites, le nombre de synagogues reste stable, autour de 280 environ, les ouvertures en Île-de-France compensant les fermetures dans les autres régions. Par ailleurs, on estime qu'il existe 379 pagodes et salles de prière bouddhistes, 128 églises orthodoxes et 34 églises de chrétiens d'Arménie. Pour les musulmans, les mosquées et lieux de culte étaient en 2012 au nombre de 2 449, dont 272 à Mayotte et 46 dans les autres départements et collectivités d'outre-mer.
