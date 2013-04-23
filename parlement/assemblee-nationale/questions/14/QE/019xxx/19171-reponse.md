@@ -1,0 +1,9 @@
+# Réponse à la question n° 19171
+
+- Question : [19171](19171.md) — Question n° 19171 — lignes d'intérêt national; liste; modifications
+
+## Réponse
+
+*JO du 2013-04-23*
+
+Le document auquel il est fait référence dans la question est un document de travail technique parmi d'autres qui n'engageait pas le Gouvernement. Les réflexions étaient encore en cours et les premières consultations s'engageaient à peine. Ce document de travail n'est plus d'actualité. Le projet de loi de décentralisation est actuellement en cours d'examen au Conseil d'État et sera présenté très prochainement en conseil des ministres. Il ne contient aucune disposition sur la clarification des compétences en matière de desserte ferroviaire entre l'État et les régions. Le Gouvernement souhaite néanmoins faire évoluer les trains d'équilibre du territoire dont il est depuis peu l'autorité organisatrice. Ils sont lourdement déficitaires et la SNCF, qui en avait précédemment la responsabilité, n'y investissait plus. Ces trains jouent pourtant un rôle essentiel dans l'aménagement du territoire et dans le quotidien de nos concitoyens. Ils doivent en outre constituer une offre commerciale complémentaire du TGV par des horaires et des correspondances adaptées et avec l'accent mis sur l'accessibilité et la qualité du service à bord. L'évolution de ces trains du quotidien est donc une priorité du Gouvernement, qui a d'ailleurs annoncé le lancement dans les tous prochains mois d'une première tranche d'investissement de 400 M€ pour le renouvellement du matériel roulant. Mais l'investissement, seul, ne suffira pas pour améliorer la qualité de service à la hauteur de ce qu'attendent les usagers. Il sera donc nécessaire de réfléchir à la manière de mieux organiser les offres selon qu'elles concernent les déplacements domicile-travail ou les liaisons d'aménagement du territoire, en pleine concertation avec les régions.
