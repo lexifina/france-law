@@ -1,0 +1,9 @@
+# Réponse à la question n° 8789
+
+- Question : [8789](8789.md) — Question n° 8789 — maintien
+
+## Réponse
+
+*JO du 2013-04-23*
+
+Par arrêté du 14 février 2012, France Télécom a, à nouveau, été désignée pour prendre en charge les prestations de la troisième composante du service universel des communications électroniques (publiphones) pour une durée de deux ans. L'opérateur doit ainsi, dans les conditions prévues par un cahier des charges annexé à cet arrêté, assurer l'accès sans restriction à des cabines téléphoniques publiques installées sur le domaine public ou à d'autres points d'accès au service téléphonique au public. A ce titre, il met à disposition du public au moins un publiphone ou autre point d'accès au service téléphonique au public dans chaque commune. Dans les communes dont la population dépasse 1 000 habitants, cet opérateur implante au moins un second publiphone. Au total, France Télécom doit donc implanter plus de 46 000 publiphones. Ces obligations sont définies en valeur absolue pour le territoire national et sont fonction de la population de chaque commune. Elles ne tiennent pas compte du niveau de couverture en téléphonie mobile de chaque zone. Toutefois, l'activité de la publiphonie est en net recul en France depuis plusieurs années. Le trafic, au départ des cabines téléphoniques, a diminué de façon importante entre 1999 et 2009 passant de 3 330 millions à 24 millions de minutes par an. Cette tendance s'explique essentiellement par la part croissante de la téléphonie mobile. Conscient de l'importance des publiphones dans l'accès de tous aux services téléphoniques, le Gouvernement a confié au conseil général de l'économie, de l'industrie, de l'énergie et des technologies une étude comparative des usages de la publiphonie et de l'évolution de ceux-ci dans les principaux pays européens sur laquelle il pourra s'appuyer afin d'initier des réflexions sur les évolutions souhaitables en matière d'obligations de service universel.
