@@ -1,0 +1,101 @@
+# Justice : lutte contre la fraude fiscale
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N30152
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/lutte_fraude_fiscale
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-690.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-04-24 : 1er dépôt d'une initiative. (PRJLANR5L14B1011)
+  - 2013-05-07 : Dépôt d'une lettre rectificative. (LETTANR5L14B1021)
+  - 2013-04-24 : Etude d'impact (ETDIANR5L14B1011)
+  - 2013-04-24 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-04-24 : Renvoi en commission au fond
+      - 2013-05-15 : Nomination de rapporteur
+      - 2013-05-15 : Réunion de commission
+      - 2013-05-22 : Réunion de commission
+      - 2013-06-05 : Réunion de commission
+      - 2013-06-05 : Réunion de commission
+      - 2013-06-12 : Réunion de commission
+      - 2013-06-19 : Réunion de commission
+      - 2013-06-12 : Dépôt de rapport (RAPPANR5L14B1130, PRJLANR5L14BTC1130)
+    - Travaux d'une commission saisie pour avis
+      - 2013-05-15 : Saisine pour avis d'une commission
+      - 2013-05-15 : Nomination de rapporteur
+      - 2013-06-11 : Réunion de commission
+      - 2013-06-11 : Dépôt de rapport (AVISANR5L14B1125)
+  - Discussion en séance publique
+    - 2013-06-20 : Discussion en séance publique
+    - 2013-06-20 : Discussion en séance publique
+    - 2013-06-20 : Discussion en séance publique
+    - 2013-06-25 : Discussion en séance publique
+    - 2013-06-25 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-06-26 : Dépôt d'une initiative en navette (PRJLSNR5S199B0690)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-26 : Renvoi en commission au fond
+      - 2013-06-05 : Nomination de rapporteur
+      - 2013-07-10 : Dépôt de rapport (RAPPSNR5S199B0738)
+    - Travaux d'une commission saisie pour avis
+      - 2013-06-05 : Saisine pour avis d'une commission
+      - 2013-06-05 : Nomination de rapporteur
+      - 2013-07-09 : Dépôt de rapport (AVISSNR5S199B0730)
+  - Discussion en séance publique
+    - 2013-07-17 : Discussion en séance publique
+    - 2013-07-18 : Discussion en séance publique
+    - 2013-07-18 : Décision
+- Commission Mixte Paritaire
+  - 2013-07-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-07-23 : Nomination de rapporteur
+    - 2013-07-23 : Dépôt du rapport d'une CMP (RAPPANR5L14B1296)
+    - 2013-07-23 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0789)
+  - 2013-07-23 : Décision de la CMP
+- Nouvelle Lecture
+  - 2013-07-19 : Dépôt d'une initiative en navette (PRJLANR5L14B1293)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-19 : Renvoi en commission au fond
+      - 2013-09-11 : Réunion de commission
+      - 2013-09-17 : Réunion de commission
+      - 2013-09-11 : Dépôt de rapport (RAPPANR5L14B1348, PRJLANR5L14BTC1348)
+    - Travaux d'une commission saisie pour avis
+      - 2013-05-15 : Saisine pour avis d'une commission
+      - 2013-09-10 : Réunion de commission
+      - 2013-09-10 : Dépôt de rapport (AVISANR5L14B1343)
+  - Discussion en séance publique
+    - 2013-09-17 : Discussion en séance publique
+    - 2013-09-17 : Discussion en séance publique
+    - 2013-09-17 : Décision
+- Nouvelle Lecture
+  - 2013-09-18 : Dépôt d'une initiative en navette (PRJLSNR5S199B0855)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-09-18 : Renvoi en commission au fond
+      - 2013-10-02 : Dépôt de rapport (RAPPSNR5S219B0021)
+  - Discussion en séance publique
+    - 2013-10-08 : Discussion en séance publique
+    - 2013-10-08 : Décision
+- Lecture définitive
+  - 2013-10-09 : Dépôt d'une initiative en navette (PRJLANR5L14B1422)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-10-09 : Renvoi en commission au fond
+      - 2013-10-23 : Dépôt de rapport (RAPPANR5L14B1493)
+  - Discussion en séance publique
+    - 2013-10-30 : Discussion en séance publique
+    - 2013-11-05 : Discussion en séance publique
+    - 2013-11-05 : Décision
+- Conseil constitutionnel
+  - 2013-11-06 : Saisine du conseil constitutionnel
+  - 2013-12-04 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-12-06 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2017-02-08 : Rapport sur l'application des lois (RINFANR5L14B4457)
