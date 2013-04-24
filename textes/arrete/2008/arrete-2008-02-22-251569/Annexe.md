@@ -1,53 +1,53 @@
 # Article Annexe
 
-INTITULÉ DES TITRES À FINALITÉ PROFESSIONNELLE
+INTITULÉS DES TITRES À FINALITÉ PROFESSIONNELLE PRÉPARÉS
 
-préparés et délivrés en Polynésie française
-
-reconnus par l'Etat
-
-|
+ET DÉLIVRÉS EN POLYNÉSIE FRANÇAISE RECONNUS PAR L'ÉTAT
 
 Agent d'entretien du bâtiment.
 
-|
+Assistant (e) de vie aux familles.
 
-Agent technique des ventes en magasin.
+Agent (e) d'hôtellerie.
 
-|
+Agent (e) de maintenance en marine de plaisance.
 
 Carrossier réparateur.
 
-|
-
-Cuisinier.
-
-|
+Cuisinier (ère).
 
 Electricien d'équipement.
 
-|
+Employé (e) commercial (e) en magasin.
 
 Fabricant de vêtements sur mesure.
 
-|
+Mécanicien (ne) réparateur (trice) automobile.
 
-Mécanicien automobile.
+Mécanicien (ne) d'équipements et d'engins motorisés.
 
-|
-
-Mécanicien réparateur de matériel nautique.
-
-|
+Mécanicien (ne) réparateur (trice) en marine de plaisance.
 
 Menuisier d'agencement.
 
-|
+Métallier.
 
-Ouvrier de production horticole, option floriculture.
+Monteur-dépanneur frigoriste.
 
-|
+Ouvrier du paysage.
 
-Technicien d'assistance en informatique.
+Ouvrier de production horticole ornementale.
 
-|
+Peintre en bâtiment.
+
+Peintre en carrosserie.
+
+Secrétaire comptable.
+
+Serveur en restauration.
+
+Technicien (ne) d'accueil touristique.
+
+Technicien (ne) d'assistance en informatique.
+
+Vendeur (se)-conseil en magasin.
