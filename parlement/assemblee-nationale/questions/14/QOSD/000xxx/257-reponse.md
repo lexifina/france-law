@@ -1,0 +1,31 @@
+# Réponse à la question n° 257
+
+- Question : [257](257.md) — Question n° 257 — licences; délivrance; réglementation
+
+## Réponse
+
+*JO du 2013-04-24*
+
+CONDITIONS DE DÉLIVRANCE DES LICENCES DE FOOTBALL AUX MINEURS DE NATIONALITÉ ÉTRANGÈRE
+
+M. le président. La parole est à M. Pascal Deguilhem, pour exposer sa question, n° 257, relative aux conditions de délivrance des licences de football aux mineurs de nationalité étrangère.
+
+M. Pascal Deguilhem. Madame la ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative, ma question porte sur les dispositions prises par la Fédération française de football - la FFF - depuis fin 2009 pour encadrer la délivrance d'une première licence aux mineurs de nationalité étrangère. Ces dispositions ont été prises à la suite d'une directive de la FIFA. La décision de la Fédération a été de suspendre l'attribution d'une première licence à des jeunes de nationalité étrangère qui ne peuvent se prévaloir de cinq années complètes de résidence en France. Ce durcissement des règlements généraux de la FFF vise bien entendu à lutter contre un phénomène bien identifié par la Fédération internationale de football, à savoir le trafic international et l'exploitation de jeunes joueurs. Si la protection des mineurs étrangers contre ces trafics est un objectif louable et partagé, il n'est cependant pas concevable de maintenir des dispositions excluant de fait de nombreux adolescents de nationalité étrangère de la pratique d'un sport. Que dire de la situation faite aux jeunes nés en France de parents étrangers qui ne peuvent pratiquer en club ce sport si populaire ? En effet, cette réglementation a sans doute été mise en oeuvre sans discernement, à tel point que des centaines de jeunes résidant en France, et souvent nés en France, ont pu se voir refuser la délivrance de la licence de football au seul motif de leur nationalité étrangère. Des associations se sont mobilisées et, dans certains départements, la justice administrative, voire pénale, a été saisie par des parents. Ces derniers peuvent se prévaloir du préambule de la Constitution qui garantit " à tous, notamment à l'enfant [...], la protection de la santé, la sécurité matérielle, le repos et les loisirs ", ainsi que de l'article 225-1 du code pénal, qui reconnaît comme une discrimination les distinctions fondées sur la nationalité.
+
+Depuis la mise en application de ces dispositions, donc depuis plus de trois ans, vos prédécesseurs ont été saisis de cette question qui concerne l'accès au sport pour toutes et tous, et particulièrement pour les plus jeunes, ce à quoi, je le sais, vous êtes particulièrement attachée. Rien n'a changé pour le moment.
+
+Quelle intervention auprès de la FFF envisagez-vous, madame la ministre, afin de suspendre les dispositions à caractère discriminatoire envers les jeunes de nationalité étrangère qui souhaitent tout simplement pratiquer le football ?
+
+M. le président. La parole est à Mme la ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative.
+
+Mme Valérie Fourneyron, ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative. Monsieur Deguilhem, comme vous l'avez rappelé, face aux abus et aux contournements des dispositions réglementant les transferts internationaux de mineurs, la Fédération internationale de football amateurs a décidé en janvier 2009 de vérifier elle-même l'application de son règlement, notamment son article 19. Cet article relatif aux transferts internationaux des joueurs mineurs prévoit que tous les dossiers de transfert et de première demande de licence doivent être examinés par la sous-commission du statut des joueurs de la FIFA. Devant l'encombrement évident des dossiers qui lui ont été soumis, la FIFA a délégué dans un premier temps à certaines fédérations nationales, dont la Fédération française de football, l'examen des dossiers des joueurs mineurs souhaitant pratiquer en club amateur. Pour les clubs professionnels, la FIFA reste compétente.
+
+Avec l'intention affichée de lutter, comme vous l'avez rappelé, contre l'exploitation des jeunes joueurs étrangers, la FFF a ainsi édicté des conditions pour la délivrance des premières licences qui dépassent le cadre fixé par la FIFA, notamment des justificatifs de présence en France depuis au moins cinq ans. Ces conditions, dénoncées par des parlementaires, par des élus locaux, par des associations et par la LDH, ont pénalisé des jeunes vivant depuis longtemps en France, voire, comme vous l'avez également souligné, nés sur le territoire national. Délégué aux ligues régionales, l'examen de ces demandes a en outre conduit à un traitement différencié suivant le lieu du dépôt de la demande.
+
+Face à ces situations inacceptables, la FFF a pris plusieurs mesures. Par une circulaire du 2 juin 2010 toujours en vigueur, elle demande aux ligues régionales d'apporter une appréciation au cas par cas des dossiers présentés, avec une application souple du règlement. L'exigence de fournir les contrats de travail et les titres de séjour des parents du joueur a été supprimée. Par ailleurs, elle applique aux seuls mineurs âgés de plus de treize ans les demandes des pièces justificatives complémentaires exigées pour la délivrance des licences.
+
+C'était néanmoins insuffisant. C'est pourquoi j'ai moi-même saisi la FFF dès le mois de septembre 2012, considérant qu'il ne devait y avoir aucun blocage dans l'attribution d'une première licence de football au simple motif de la nationalité étrangère d'un joueur amateur. En février 2013, la fédération française de football s'est rangée aux arguments du ministère et a proposé une modification de sa procédure d'examen des premières demandes de licence permettant de traiter les mineurs nés en France de parents étrangers comme les joueurs mineurs nés de parents français. En application des règles de la FIFA, proportionnées à l'objectif poursuivi, la fédération française de football maintient uniquement ses contrôles pour les premières demandes de licence de joueurs mineurs de plus de treize ans nés à l'étranger.
+
+M. le président. La parole est à M. Pascal Deguilhem.
+
+M. Pascal Deguilhem. Je vous remercie, madame la ministre, de ces avancées. Souhaitons que, sur ce dossier problématique, elles mettent un terme à toutes les discriminations.
