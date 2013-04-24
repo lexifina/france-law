@@ -1,0 +1,91 @@
+# Pouvoirs publics : transparence de la vie publique
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N30146
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/vie_publique_transparence
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-688.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-04-24 : 1er dépôt d'une initiative. (PRJLANR5L14B1004)
+  - 2013-04-24 : Etude d'impact (ETDIANR5L14B1004)
+  - 2013-04-24 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-04-24 : Renvoi en commission au fond
+      - 2013-05-15 : Nomination de rapporteur
+      - 2013-05-15 : Réunion de commission
+      - 2013-05-22 : Réunion de commission
+      - 2013-06-04 : Réunion de commission
+      - 2013-06-04 : Réunion de commission
+      - 2013-06-05 : Réunion de commission
+      - 2013-06-17 : Réunion de commission
+      - 2013-06-05 : Dépôt de rapport (RAPPANR5L14B1108, PRJLANR5L14BTC1108)
+  - Discussion en séance publique
+    - 2013-06-17 : Discussion en séance publique
+    - 2013-06-17 : Discussion en séance publique
+    - 2013-06-18 : Discussion en séance publique
+    - 2013-06-18 : Discussion en séance publique
+    - 2013-06-19 : Discussion en séance publique
+    - 2013-06-25 : Discussion en séance publique
+    - 2013-06-25 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-06-26 : Dépôt d'une initiative en navette (PRJLSNR5S199B0688)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-26 : Renvoi en commission au fond
+      - 2013-06-05 : Nomination de rapporteur
+      - 2013-07-03 : Dépôt de rapport (RAPPSNR5S199B0722)
+      - 2013-07-09 : Dépôt de rapport (RAPPSNR5S199B0731)
+  - Discussion en séance publique
+    - 2013-07-09 : Discussion en séance publique
+    - 2013-07-12 : Discussion en séance publique
+    - 2013-07-15 : Discussion en séance publique
+    - 2013-07-15 : Décision
+- Commission Mixte Paritaire
+  - 2013-07-16 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-07-16 : Nomination de rapporteur
+    - 2013-07-16 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0770)
+    - 2013-07-17 : Dépôt du rapport d'une CMP (RAPPANR5L14B1271)
+  - 2013-07-17 : Décision de la CMP
+- Nouvelle Lecture
+  - 2013-07-16 : Dépôt d'une initiative en navette (PRJLANR5L14B1249)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-16 : Renvoi en commission au fond
+      - 2013-07-17 : Réunion de commission
+      - 2013-07-22 : Réunion de commission
+      - 2013-07-17 : Dépôt de rapport (RAPPANR5L14B1279, PRJLANR5L14BTC1279)
+  - Discussion en séance publique
+    - 2013-07-22 : Discussion en séance publique
+    - 2013-07-22 : Discussion en séance publique
+    - 2013-07-23 : Discussion en séance publique
+    - 2013-07-23 : Décision
+- Nouvelle Lecture
+  - 2013-07-23 : Dépôt d'une initiative en navette (PRJLSNR5S199B0797)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-23 : Renvoi en commission au fond
+      - 2013-07-24 : Dépôt de rapport (RAPPSNR5S199B0801)
+  - Discussion en séance publique
+    - 2013-07-25 : Discussion en séance publique
+    - 2013-07-25 : Décision
+- Lecture définitive
+  - 2013-07-26 : Dépôt d'une initiative en navette (PRJLANR5L14B1334)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-26 : Renvoi en commission au fond
+      - 2013-09-10 : Réunion de commission
+      - 2013-09-10 : Dépôt de rapport (RAPPANR5L14B1346)
+  - Discussion en séance publique
+    - 2013-09-11 : Discussion en séance publique
+    - 2013-09-17 : Discussion en séance publique
+    - 2013-09-17 : Décision
+- Conseil constitutionnel
+  - 2013-09-18 : Saisine du conseil constitutionnel
+  - 2013-10-09 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-10-11 : Promulgation d'une loi
