@@ -38,11 +38,11 @@ Entreprise Polyrey, Usine de couze-Saint-Front, 24150 lalinde : de 1971 à 1984 
 
 Intérisol, route de Mourenx, BP 47, Abidos, 64150 Mourenx : de 1974 à 1996 ;
 
-Isoroy établissement de Casteljaloux, route du Cocumont, BP 25,47700 Castel : de 1948 à 1983 ;
+ISOROY établissement de Casteljaloux, route du Cocumont, BP 25,47700 Casteljaloux : de 1948 à 1983 ;
 
 Kaeffer SA Abidos, BP 25,64170 Lacq : de 1980 à 1999 ;
 
-Pierrefitte-Bassens devenue Gironde-Languedoc, puis Compagnie française de l'Azote (Cofaz), devenue NHA Norsk Hydro Azote, devenue Hydro Azote, devenue Hydro Agri France, Avenue des industries, Ambarès, 33565 Carbon-Blanc : de 1963 à 1994 ;
+PIERREFITTE-BASSENS devenue GIRONDE-LANGUEDOC puis COMPAGNIE FRANÇAISE DE L'AZOTE (COFAZ) devenue NHA NORSK HYDRO AZOTE devenue HYDRO AZOTE devenue HYDRO AGRI FRANCE puis CASCO NOBEL INDUSTRIES devenue CASCO NOBEL INDUSTRIES SNC puis CASCO INDUSTRIES puis CASCO SAS, avenue des Industries, Ambarès, 33565 Carbon-Blanc : de 1963 à 1996 ;
 
 PONTICELLI agence Sud-Ouest ? Lieudit Les Isards, 33810 Ambes/ DE 1956 0 1996 ;
 
@@ -803,6 +803,8 @@ JST/ Vatech, 84, avenue Paul-Santy, 69008 Lyon : de 1949 à 1988 ;
 Loire Fonte Industrie (LFI, ex-Fonderie Jurine), 97, rue de la République, 42500 Le Chambon-Feugerolles : de 1920 à 1995 ;
 
 Pavailler, puis Pavailler BP, puis APV Pavailler Equipement, puis Pavailler Equipement, 555, rue Benoît-Frachon, 26800 Porte-lès-Valence : de 1950 à 1996 ;
+
+PRODUITS CHIMIQUES UGINE KUHLMANN puis AIDCHEM puis ELF ATOCHEM (usine de Brignoud), 14, avenue Robert-Huant, 38190 Brignoud : de 1951 à 1996 ;
 
 Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, zone industrielle, 07210 Alissas, de 1969 à 1980 ;
 
