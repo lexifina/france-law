@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204626
+
+- Question : [SEQ130204626](seq130204626.md) — Crédit d'impôt pour la compétitivité et l'emploi
+
+## Réponse
+
+*Économie et finances, JO du 2013-04-25, page 1343*
+
+Le crédit d'impôt pour la compétitivité et l'emploi, créé par l'article 66 de la loi du 29 décembre 2012 de finances rectificative pour 2012, correspond à la première mesure prise dans le cadre du pacte national pour la croissance, la compétitivité et l'emploi du 6 novembre 2012. Ce crédit d'impôt a pour objet, en diminuant le coût du travail des salariés rémunérés jusque 2,5 SMIC, d'améliorer la compétitivité des entreprises et ainsi leur permettre de réaliser des efforts en matière d'investissement, de recherche, d'innovation, de formation, de recrutement, de prospection de nouveaux marchés, de transition écologique et énergétique et de reconstitution de leur fonds de roulement. Il représente un effort sans précédent pour permettre à nos entreprises de retrouver le chemin de la croissance. Ce crédit d'impôt est institué en faveur des entreprises imposées d'après leur bénéfice réel et soumises à l'impôt sur les sociétés ou à l'impôt sur le revenu. Il s'applique quel que soit le mode d'exploitation de ces entreprises (entreprise individuelle ou société) et quelle que soit la catégorie d'imposition à laquelle elles appartiennent (bénéfices industriels et commerciaux, bénéfices non commerciaux, bénéfices agricoles) dès lors que ces entreprises emploient du personnel salarié. Il n'est pas envisagé de prendre en compte la rémunération des travailleurs indépendants représentée par le bénéfice même réalisé par leur entreprise (bénéfices industriels et commerciaux, bénéfices non commerciaux ou bénéfices agricoles). Dès lors que l'objectif du CICE est d'alléger le coût du travail et d'encourager l'embauche, il serait peu cohérent de l'accorder aux chefs d'entreprises qui n'emploient personne.
