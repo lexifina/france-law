@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204993
+
+- Question : [SEQ130204993](seq130204993.md) — Marché de prestations de services juridiques
+
+## Réponse
+
+*Intérieur, JO du 2013-04-25, page 1357*
+
+Dans la mesure où un pouvoir adjudicateur s'engage, dans le cadre d'un marché public, à commander des fournitures ou des services pour un minimum déterminé, le cocontractant a droit à ce que ce minimum de commandes soit honoré. Dans le cas contraire, le titulaire a droit à se voir indemnisé du manque à gagner que l'exécution minimale dudit marché lui aurait procuré (CE, 18 janvier 1991, Ville d'Antibes c. / S. A. R. L. Dani et autres, n° 80827). En l'occurrence, il s'agit de la marge nette résultant de l'écart entre le montant minimum du marché et celui des prestations réalisées (exemple : CE, 19 décembre 2012, Société AB Trans, n° 350341). Cette solution a été reprise notamment à l'article 38 du cahier des clauses administratives générales des marchés publics de fournitures courantes et de services (Arrêté du 19 janvier 2009). Le même article précise que « Le titulaire a droit, en outre, à être indemnisé de la part des frais et investissements, éventuellement engagés pour le marché et strictement nécessaires à son exécution, qui n'aurait pas été prise en compte dans le montant des prestations payées ». Au contentieux, il appartient au juge « de contrôler s'il n'existe pas une disproportion manifeste entre l'indemnité ainsi fixée et l'indemnisation du préjudice résultant pour le cocontractant des dépenses qu'il a réalisées et du gain qu'il a manqué » (CAA Versailles, 7 mars 2006, Commune de Draveil c/ Société Via Net Works, n° 04VE01381). Le règlement de cette indemnisation peut également avoir lieu par l'établissement d'un protocole transactionnel. Dans tous les cas, il incombe au titulaire d'apporter tous les justificatifs nécessaires à l'évaluation de son préjudice.
