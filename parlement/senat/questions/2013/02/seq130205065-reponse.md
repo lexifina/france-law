@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130205065
+
+- Question : [SEQ130205065](seq130205065.md) — Bilan du transfert des missions exercées par les associations départementales pour l'aménagement des structures des exploitations agricoles
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2013-04-25, page 1330*
+
+L'article 71 de la loi n° 2010-874 du 27 juillet 2010 de modernisation de l'agriculture et de la pêche (LMAP) est venu compléter l'article L. 511-4 du code rural et de la pêche maritime relatif aux missions des chambres d'agriculture en leur confiant la réalisation des missions de service public relatives à l'installation des jeunes agriculteurs. Le transfert de ces missions exercées précédemment par les associations départementales pour l'aménagement des structures des exploitations agricoles (ADASEA) a été rendu effectif au 1er janvier 2011 et a permis de terminer le mouvement de transfert entre les ADASEA et les chambres d'agriculture qui avait été initié depuis 2007 sur la base du volontariat. Cette opération s'est globalement bien déroulée et n'a pas perturbé la mission de service public de l'installation. Seules, quatre chambres ont rencontré des difficultés pour respecter le délai d'application du 1er janvier 2011. Une phase transitoire a nécessité la mise en place de conventions temporaires avec les ADASEA existantes dans ces départements. Toutes les situations ont pu être régularisées au cours de l'année 2011. En ce qui concerne le devenir des personnels des ADASEA, les chambres d'agriculture ont repris 450 agents, soit 90 % des effectifs totaux. Grâce à l'action conjuguée des préfets et des structures agricoles départementales, des propositions de reclassement ont été faites permettant d'assurer un emploi à la quasi totalité des salariés des ADASEA. Enfin, comme il s'y était engagé, l'État a assuré un accompagnement financier de ce transfert durant les années 2011 et 2012.
