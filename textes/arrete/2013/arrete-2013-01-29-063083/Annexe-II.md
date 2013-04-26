@@ -1,6 +1,6 @@
 # Article Annexe II
 
-(quotas en tonnes)
+(Quotas en tonnes)
 
 |
 
@@ -10,7 +10,9 @@ Quota en Océan Atlantique
 
 |
 
-Quota en Mer Méditerranée
+Quota en Mer
+
+Méditerranée
 
 |
 
@@ -18,7 +20,9 @@ Pour la pêche au chalut
 
 |
 
-Pour la pêche à la ligne et à la canne
+Pour la pêche à la
+
+ligne et à la canne
 
 |
 
@@ -26,7 +30,9 @@ Pour la pêche à la palangre
 
 |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord)
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du
+
+poisson du Nord-Normandie (FROM Nord)
 
 |
 
@@ -126,7 +132,9 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs
+
+artisans de l'île de Noirmoutier (OPPAN)
 
 |
 
@@ -146,31 +154,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs VENDEE
+Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
 24
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des marins-pêcheurs de l'île d'Yeu
-
-|
-
-0
 
 |
 
@@ -186,7 +174,9 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest)
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du
+
+poisson du Sud-Ouest (FROM Sud-Ouest)
 
 |
 
@@ -226,31 +216,11 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs Coopérative de mareyage des pêcheurs arcachonnais (ARCA-COOP)
+Navires adhérant à l'organisation de producteurs Les Pêcheurs d'Aquitaine
 
 |
 
-1
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-Navires adhérant à l'organisation de producteurs Coopérative des Artisans Pêcheurs du Sud (CAP SUD)
-
-|
-
-33
+34
 
 |
 
