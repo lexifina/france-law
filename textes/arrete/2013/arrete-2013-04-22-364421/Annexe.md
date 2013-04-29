@@ -1,0 +1,239 @@
+# Article Annexe
+
+FRAIS DE FONCTIONNEMENT DES ÉTABLISSEMENTS ET SERVICES D'AIDE PAR LE TRAVAIL (ESAT) PROGRAMME 157-02-03
+
+RÉGION |
+
+DOTATION RÉGIONALE 2013
+
+Frais de fonctionnement
+
+des établissements
+
+et services d'aide par le travail
+
+(en euros) |
+
+ALSACE
+
+|
+
+39 257 150
+
+|
+
+AQUITAINE
+
+|
+
+71 727 308
+
+|
+
+AUVERGNE
+
+|
+
+35 768 506
+
+|
+
+BOURGOGNE
+
+|
+
+38 488 658
+
+|
+
+BRETAGNE
+
+|
+
+76 928 779
+
+|
+
+CENTRE
+
+|
+
+58 806 808
+
+|
+
+CHAMPAGNE-ARDENNE
+
+|
+
+34 484 987
+
+|
+
+CORSE
+
+|
+
+5 150 321
+
+|
+
+FRANCHE-COMTÉ
+
+|
+
+30 397 388
+
+|
+
+ÎLE-DE-FRANCE
+
+|
+
+204 812 834
+
+|
+
+LANGUEDOC-ROUSSILLON
+
+|
+
+60 617 812
+
+|
+
+LIMOUSIN
+
+|
+
+23 050 513
+
+|
+
+LORRAINE
+
+|
+
+62 964 889
+
+|
+
+MIDI-PYRÉNÉES
+
+|
+
+66 814 529
+
+|
+
+NORD - PAS-DE-CALAIS
+
+|
+
+117 301 323
+
+|
+
+BASSE-NORMANDIE
+
+|
+
+42 270 010
+
+|
+
+HAUTE-NORMANDIE
+
+|
+
+41 377 342
+
+|
+
+PAYS DE LA LOIRE
+
+|
+
+78 472 321
+
+|
+
+PICARDIE
+
+|
+
+51 835 244
+
+|
+
+POITOU-CHARENTES
+
+|
+
+43 406 930
+
+|
+
+PROVENCE-ALPES-CÔTE D'AZUR
+
+|
+
+90 031 498
+
+|
+
+RHÔNE-ALPES
+
+|
+
+131 751 000
+
+|
+
+GUADELOUPE
+
+|
+
+8 406 249
+
+|
+
+MARTINIQUE
+
+|
+
+7 414 104
+
+|
+
+GUYANE
+
+|
+
+2 557 701
+
+|
+
+LA RÉUNION
+
+|
+
+13 591 650
+
+|
+
+SAINT-PIERRE-ET-MIQUELON
+
+|
+
+139 550
+
+|
+
+FRANCE ENTIÈRE
+
+|
+
+1 437 825 404
+
+|
