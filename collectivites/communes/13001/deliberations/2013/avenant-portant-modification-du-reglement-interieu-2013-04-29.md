@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — AVENANT PORTANT MODIFICATION DU REGLEMENT INTERIEUR RELATIF AUX MODALITES DE FONCTIONNEMENT DU CONSEIL MUNICIPAL DE LA VILLE D'AIX EN PROVENCE MODIFICATION DES DELIBERATIONS N°2009-1087 ET N°2013-13
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2013-04-29
+- Séance : Conseil Municipal 2CA
+- Objet : AVENANT PORTANT MODIFICATION DU REGLEMENT INTERIEUR RELATIF AUX MODALITES DE FONCTIONNEMENT DU CONSEIL MUNICIPAL DE LA VILLE D'AIX EN PROVENCE MODIFICATION DES DELIBERATIONS N°2009-1087 ET N°2013-13
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-4611-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
