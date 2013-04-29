@@ -2,9 +2,7 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel de plâtrier.
+Intitulé : plâtrier.
 
 Niveau : V.
 
@@ -12,75 +10,59 @@ Code NSF : 233 s.
 
 Résumé du référentiel d'emploi
 
-Le plâtrier construit des cloisons et des plafonds avec des produits à base de briques et de plâtre, pour aménager les espaces intérieurs de bâtiments. Il enduit les ouvrages réalisés lors des travaux de finition.
+Le plâtrier intervient dans tout bâtiment (individuel, collectif, à usage d'habitation, commercial, industriel et public...) pour réaliser l'aménagement intérieur des locaux neufs et anciens, à partir d'éléments préfabriqués en matériaux secs en terre cuite et matériaux adaptés à la réception d'enduits à base de plâtre.
 
-Il intervient dans les chantiers de construction et de rénovation de tous types de bâtiments publics et privés, parfois en site occupé. Il exerce son activité dans des locaux couverts et fermés, parfois sur des échafaudages, et se trouve très souvent amené à soulever et transporter des charges.
+A partir de dossiers techniques, de plans de pose ou de consignes verbales, il réalise pour une finition en plâtre humide dans le respect de la RT 2012 l'isolation thermique et acoustique, l'étanchéité à l'air et construit des plafonds, des doublages et différentes cloisons techniques.
 
-Il travaille au sein d'entreprises comportant, le plus souvent, moins de vingt salariés, généralement en équipes de deux ou trois personnes, sous la responsabilité d'un chef d'équipe. Il applique et adapte les consignes transmises en tenant compte de l'état des supports et des contraintes de l'environnement. Les problèmes qu'il doit résoudre sont liés au respect des normes de qualité et de productivité des ouvrages. L'atteinte de ces résultats est conditionnée par une bonne organisation, la connaissance des modes opératoires et des critères de recevabilité.
+Il intervient également dans la réalisation de divers travaux spécifiques (constructions d'éléments coupe-feu).
 
-L'activité comporte des déplacements, des contraintes de productivité et nécessite parfois des horaires adaptés liés aux délais de prise du plâtre et aux problèmes de reprise d'ouvrages.
+Pour ce faire, il effectue des tracés, réalise des ossatures métalliques sur lesquelles il fixe des plaques ou des éléments à enduire et pose par hourdage, collage ou assemblage différents type de briques plâtrières. Enfin, il assure les travaux de finition en réalisant les enduits.
+
+Le plâtrier intervient sur des chantiers de constructions neuves, ou en réhabilitation. En toute autonomie, il organise son poste de travail, établit l'ordre d'exécution et les modes opératoires des ouvrages à réaliser. Il contrôle les supports de réception et alerte son responsable en cas de non-conformité. Tout au long du chantier, il s'autocontrôle et rend compte à son responsable du déroulement des travaux.
+
+En plus de son responsable, ses principaux interlocuteurs sont le client et le maître d'œuvre.
+
+Pour toutes ses missions, le plâtrier réalise un travail qu'il coordonne avec de nombreux corps de métiers. Il intervient dans les locaux couverts et fermés, parfois sur des échafaudages. Sur le chantier, il manipule des charges, utilise des machines à projeter, du matériel électroportatif. Il doit porter des équipements de protection individuelle (EPI), respecter les règles d'hygiène et de sécurité individuelle et collective, et s'il existe le PPSP ou le plan de prévention.
+
+Les déplacements souvent régionaux sont fréquents (changements de chantier). Les horaires de travail sont liés aux ouvrages qu'il effectue notamment lors des travaux de finition.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Réaliser l'aménagement intérieur de locaux
+1. Réaliser à l'intérieur de bâtiments l'étanchéité à l'air et la pose de différents systèmes d'isolation thermique et acoustique pour une finition en plâtre humide
 
-à usage d'habitation en plaques de plâtre de technicité courante
+Mettre en œuvre des systèmes d'étanchéité à l'air dans un bâtiment pour une finition en plâtre humide.
 
-Démolir des ouvrages d'agencement intérieur en vue de la rénovation de bâtiments.
+Mettre en œuvre des systèmes d'isolation thermique dans un bâtiment pour une finition en plâtre humide.
 
-Poser un plafond sur ossature métallique type fourrure, avec pose d'isolants.
+Mettre en œuvre des systèmes d'isolation acoustique dans un bâtiment pour une finition en plâtre humide.
 
-Poser et coller des plaques, des complexes de doublages isolants.
+2. Construire et enduire tous types d'ouvrages en briques plâtrières ou en matériaux adaptés à l'enduisage
 
-Réaliser un doublage sur ossature métallique type rails et montants, avec pose d'isolant.
+Réaliser et enduire manuellement un plafond en briques plâtrières ou en matériaux adaptés à l'enduisage.
 
-Construire des cloisons de distribution avec ossature métallique, comportant la pose de menuiseries et un liaisonnement en L et en T.
+Réaliser et enduire manuellement des cloisons en matériaux sec à base de terre cuite.
 
-Réaliser le traitement des joints et les travaux de finition sur des ouvrages en plaques de plâtre.
+Enduire mécaniquement au plâtre un support intérieur.
 
-2. Construire des ouvrages en briques hourdées au plâtre
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-et en carreaux assemblés à la colle
+Les entreprises de plâtrerie.
 
-Construire des plafonds en briques hourdées au plâtre, avec pose d'isolants.
+Les entreprises d'enduits de façades.
 
-Construire des cloisons de doublage et de distribution en briques plâtrières hourdées au plâtre.
+Les entreprises d'agencement de bâtiment.
 
-Construire des cloisons et des gaines techniques verticales en carreaux de plâtre comportant la pose de tout type de menuiseries.
+Les agences d'intérim.
 
-Construire des cloisons en carreaux de brique comportant la pose de tout type de menuiseries.
+Plâtrier.
 
-3. Enduire au plâtre manuellement et mécaniquement tous supports horizontaux et verticaux
+Façadier projeteur.
 
-Enduire des plafonds manuellement, à la volée, en une seule couche de plâtre, normal ou allégé.
+Agenceur de magasins, de bureaux.
 
-Construire et enduire manuellement, à la volée, en deux couches de plâtre, des plafonds en métal déployé nervuré ou en plaques perforées.
+Code ROME :
 
-Enduire manuellement des supports verticaux, à la volée, en une seule couche de plâtre.
-
-Enduire manuellement, sur nus, des supports verticaux au plâtre normal ou allégé.
-
-Enduire mécaniquement au plâtre tout type de support.
-
-CCS : Réaliser des ouvrages en staff
-
-Fabriquer des plaques en staff et des éléments par traînage droit et circulaire.
-
-Fabriquer des éléments en staff après fabrication de moules en plâtre ou en élastomère.
-
-Poser des plaques et des éléments en staff.
-
-Réaliser une protection incendie avec des éléments en staff.
-
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
-
-Petites et moyennes entreprises du second œuvre bâtiment intervenant dans le domaine de l'aménagement finitions.
-
-Codes ROME :
-
-42114-Ouvrier / ouvrière de la maçonnerie.
-
-42222-Monteur / monteuse plaquiste en agencements.
+F1601-Application et décoration en plâtre, stuc et staff.
 
 Réglementation de l'activité :
 
