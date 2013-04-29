@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — MODIFICATION DU PLAN D'OCCUPATION DES SOLS - SECTEUR DU CHEMIN DE LA BEAUVALLE - PROJET DE RECOMPOSITION URBAINE D'UNE PARTIE DU QUARTIER DE LA BEAUVALLE - MISE A JOUR DU DROIT DE PREEMPTION URBAIN SUR LA NOUVELLE ZONE.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2013-04-29
+- Séance : Conseil Municipal 2CA
+- Objet : MODIFICATION DU PLAN D'OCCUPATION DES SOLS - SECTEUR DU CHEMIN DE LA BEAUVALLE - PROJET DE RECOMPOSITION URBAINE D'UNE PARTIE DU QUARTIER DE LA BEAUVALLE - MISE A JOUR DU DROIT DE PREEMPTION URBAIN SUR LA NOUVELLE ZONE.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-4621-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
