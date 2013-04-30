@@ -1,0 +1,9 @@
+# Réponse à la question n° 17307
+
+- Question : [17307](17307.md) — Question n° 17307 — rapport; propositions
+
+## Réponse
+
+*JO du 2013-04-30*
+
+Le conseil des ministres a adopté le 19 décembre 2012 un projet de loi de séparation et de régulation des activités bancaires, qui est actuellement en cours d'examen au Parlement. Il a été adopté en première lecture par l'Assemblée nationale et par le Sénat. Ce texte est très largement conforme aux recommandations du rapport Liikanen tout en tenant compte des spécificités du secteur bancaire français. Le projet de loi vise notamment à mettre en oeuvre l'engagement du Président de la République de séparer les activités utiles au financement de l'économie des activités spéculatives. Il instaure à cette fin, comme le préconise le rapport Liikanen, un strict cantonnement, au sein d'une filiale spécifique, des activités dites de trading pour compte propre, c'est-à-dire les activités des banques ne pouvant pas être rattachées au service du client. Cette filiale ne pourra pas bénéficier d'un soutien de la part du groupe bancaire qui la détient et ne pourra pas recevoir de dépôts. Ces activités « spéculatives » seront ainsi séparées des autres activités des banques. En outre, l'exercice de certaines activités, telles que le trading haute fréquence ou la spéculation sur les matières premières agricoles, sera interdit au sein de cette filiale. Enfin, l'ensemble des activités de marché des banques sera soumis à un dispositif de surveillance renforcé. L'objectif de ces mesures, ambitieuses mais équilibrées, et qui ont fait l'objet d'une large consultation, est donc précisément de mettre les banques au service du financement de l'économie. Elles ne réduiront pas la capacité des banques à financer l'économie, mais les empêcheront d'exposer les déposants aux risques de marché qu'elles prennent pour leur compte propre.
