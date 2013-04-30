@@ -1,0 +1,9 @@
+# Réponse à la question n° 5584
+
+- Question : [5584](5584.md) — Question n° 5584 — quartiers défavorisés; rapport; propositions
+
+## Réponse
+
+*JO du 2013-04-30*
+
+Conformément à la suggestion de la Cour des comptes, le ministre délégué chargé de la ville a demandé à la présidente du Conseil d'orientation de l'observatoire national des zones urbaines sensibles (ONZUS) de procéder à une évaluation du programme national de rénovation urbaine. Dans son rapport remis le 4 mars 2013 au ministre délégué à la ville, l'ONZUS analyse les effets des projets de rénovation urbaine sur les conditions de vie des habitants, le fonctionnement des quartiers et leur intégration aux dynamiques d'agglomération. Appelant à poursuivre cette dynamique de rénovation urbaine qui a permis d'améliorer les conditions de logement et d'enrayer les processus de dévalorisation dont souffraient de nombreux quartiers, le rapport préconise un certain nombre de modifications et d'améliorations pour permettre notamment une meilleure intégration des projets de rénovation urbaine dans la nouvelle génération de contrats uniques. À la fin de l'année 2012, le programme national de rénovation urbaine (PNRU) est engagé à 79 % et payé à 47 %. Le comité interministériel des villes (CIV) du 19 février 2013 a pris la décision de mener à bien et à son terme le PNRU, en mobilisant les ressources nécessaires et en autorisant l'engagement d'opérations prévues dans les conventions de rénovation urbaine jusqu'à la fin 2015. Le Gouvernement s'est engagé à mobiliser, avec les partenaires de l'ANRU, les ressources correspondantes, soit près de 6,5 milliards d'euros, pour garantir la mise en oeuvre complète du programme. Par ailleurs, le CIV a confirmé le lancement d'une nouvelle génération d'opérations de renouvellement urbain qui seront intégrées dans les contrats de ville 2014-2020, afin de prendre en compte un certain nombre de quartiers insuffisamment ou encore non traités.
