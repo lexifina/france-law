@@ -1,0 +1,229 @@
+# Réponse à la question n° 3361
+
+- Question : [3361](3361.md) — Question n° 3361 — contrôle de légalité
+
+## Réponse
+
+*JO du 2013-04-30*
+
+Les actes soumis au contrôle de légalité du représentant de l'Etat sont définis à l'article L. 2131-2 du code général des collectivités territoriales pour les communes et pour les établissements publics de coopération intercommunale (par renvoi de l'article L.5211-3 pour ces derniers), à l'article L.3131-2 pour les départements et à l'article L. 4141-2 pour les régions. Le recensement des données, effectué par le ministère de l'intérieur, ne distingue pas le nombre d'actes reçus et contrôlés par type de collectivités. L'examen des actes peut conduire les services en charge du contrôle de légalité à demander aux collectivités territoriales, à leurs groupements ou à leurs établissements publics de modifier ou de retirer un acte. En la matière, les interventions des préfectures se traduisent principalement par des lettres d'observation valant ou ne valant pas recours gracieux. Elles peuvent également prendre la forme d'échanges téléphoniques ou électroniques et d'entretiens avec les élus locaux. Pour l'année 2012, les données par département sont les suivantes : DÉPARTEMENT NOMBRE TOTAL D'ACTES REÇUS
+
+par la préfecture NOMBRE TOTAL D'ACTES
+
+ayant faitl'objetd'une intervention NOMBRE TOTAL D'ACTES RETIRÉS
+
+ou réformés aprèsune intervention
+
+de la préfecture
+
+AIN 61 931 579 350
+
+AISNE 49 841 555 502
+
+ALLIER 28 138 511 214
+
+ALPES DE HAUTE-PROVENCE 23 927 448 140
+
+HAUTES-ALPES 24 209 701 354
+
+ALPES-MARITIMES 84 541 1 550 959
+
+ARDÈCHE 30 426 72 56
+
+ARDENNES 29 701 699 410
+
+ARIÈGE 19 828 634 624
+
+AUBE 28 032 171 132
+
+AUDE 38 711 232 51
+
+AVEYRON 30 310 264 165
+
+BOUCHES-DU-RHÔNE 88 598 294 70
+
+CALVADOS 54 759 224 40
+
+CANTAL 22 416 283 156
+
+CHARENTE 48 699 349 225
+
+CHARENTE-MARITIME 79 184 585 187
+
+CHER 39 216 286 249
+
+CORRÈZE 35 885 1 475 787
+
+CÔTE-D'OR 64 119 434 237
+
+CÔTES D'ARMOR 56 791 1 250 614
+
+CREUSE 15 207 1 023 902
+
+DORDOGNE 44 969 540 205
+
+DOUBS 63 671 977 463
+
+DRÔME 48 500 116 82
+
+EURE 45 595 68 86
+
+EURE-ET-LOIR 33 736 419 150
+
+FINISTÈRE 73 691 350 209
+
+CORSE DU SUD 12 067 478 81
+
+HAUTE CORSE 14 947 226 190
+
+GARD 68 474 1 016 610
+
+HAUTE-GARONNE 78 750 1 078 457
+
+GERS 27 748 434 248
+
+GIRONDE 144 553 1 352 696
+
+HÉRAULT 67 478 235 131
+
+ILLE-ET-VILAINE 78 748 4 343 1 792
+
+INDRE 23 781 340 275
+
+INDRE-ET-LOIRE 52 233 1 600 876
+
+ISÈRE 111 683 1 216 747
+
+JURA 38 360 925 679
+
+LANDES 50 336 203 183
+
+LOIR-ET-CHER 32 070 1 207 471
+
+LOIRE 64 144 323 228
+
+HAUTE-LOIRE 22 453 390 197
+
+LOIRE-ATLANTIQUE 154 674 1 964 1 031
+
+LOIRET 68 252 199 105
+
+LOT 31 142 649 396
+
+LOT-ET-GARONNE 31 521 624 403
+
+LOZÈRE 15 565 481 311
+
+MAINE-ET-LOIRE 78 144 217 110
+
+MANCHE 60 335 547 155
+
+MARNE 58 552 420 168
+
+HAUTE-MARNE 16 977 328 199
+
+MAYENNE 48 354 470 289
+
+MEURTHE-ET-MOSELLE 59 749 974 652
+
+MEUSE 24 700 435 263
+
+MORBIHAN 59 895 1 108 906
+
+MOSELLE 61 861 418 175
+
+NIÈVRE 20 265 53 15
+
+NORD 146 927 3 799 2 236
+
+OISE 61 176 317 146
+
+ORNE 34 070 482 296
+
+PAS-DE-CALAIS 89 149 999 527
+
+PUY-DE-DÔME 68 015 4 279 2 522
+
+PYRÉNÉES-ATLANTIQUES 61 421 158 82
+
+HAUTES-PYRÉNÉES 17 553 188 9
+
+PYRÉNÉES-ORIENTALES 42 815 1 007 559
+
+BAS-RHIN 27 753 744 413
+
+HAUT-RHIN 55 125 364 178
+
+RHÔNE 85 629 1 554 980
+
+HAUTE-SAÔNE 28 709 543 401
+
+SAÔNE-ET-LOIRE 58 445 267 150
+
+SARTHE 82 351 298 190
+
+SAVOIE 54 518 119 59
+
+HAUTE-SAVOIE 56 930 1 341 646
+
+PARIS 42 617 60 24
+
+SEINE-MARITIME 122 995 487 98
+
+SEINE-ET-MARNE 73 097 524 121
+
+YVELINES 97 877 166 100
+
+DEUX-SÈVRES 54 024 478 282
+
+SOMME 38 723 563 114
+
+TARN 42 439 186 67
+
+TARN-ET-GARONNE 23 164 335 166
+
+VAR 75 002 389 101
+
+VAUCLUSE 52 883 651 305
+
+VENDÉE 86 231 454 338
+
+VIENNE 53 343 82 61
+
+HAUTE-VIENNE 38 767 764 452
+
+VOSGES 48 089 391 129
+
+YONNE 35 486 383 239
+
+TERRITOIRE DE BELFORT 4 186 60 45
+
+ESSONNE 75 442 1 982 930
+
+HAUTS-DE-SEINE 62 307 209 107
+
+SEINE-SAINT-DENIS 32 733 66 35
+
+VAL-DE-MARNE 44 619 44 19
+
+VAL-D'OISE 58 981 232 138
+
+GUADELOUPE 15 661 516 107
+
+MARTINIQUE 14 764 673 49
+
+GUYANE 7 794 732 390
+
+RÉUNION 35 981 921 551
+
+SAINT-PIERRE-ET-MIQUELON 882 38 32
+
+MAYOTTE 10 576 853 155
+
+POLYNÉSIE FRANÇAISE 6 232 411 160
+
+NOUVELLE CALÉDONIE 34 242 237 130
+
+TOTAL 5 202 165 68 688 36 497
+
+Source : résultats Indigo extraction au 20 février 2013.
