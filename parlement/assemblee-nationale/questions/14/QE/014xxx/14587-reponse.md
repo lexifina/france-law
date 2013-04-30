@@ -1,0 +1,9 @@
+# Réponse à la question n° 14587
+
+- Question : [14587](14587.md) — Question n° 14587 — actes de vente; tarifs; réglementation
+
+## Réponse
+
+*JO du 2013-04-30*
+
+Le tarif est la garantie pour tous les citoyens de justes conditions d'accès au droit. Les émoluments sont identiques pour un même acte, quels que soient le lieu du territoire, les charges structurelles de chaque office ou la situation de fortune des clients. En compensation, le tarif doit aussi permettre au notaire d'exercer son activité dans des conditions raisonnables de rentabilité. Le décret n° 2011-188 du 17 février 2011, qui a actualisé le tarif des notaires, a revu la tranche intermédiaire des émoluments et revalorisé le montant de l'unité de valeur. Enfin, il a instauré, pour les actes soumis à publicité foncière, un forfait de 90 unités de valeur, qui correspond à un ensemble de formalités qui doivent être systématiquement accomplies. Un tarif existe déjà pour chaque formalité accomplie isolément, mais la forfaitisation, établie par référence à un acte moyen, contribue à simplifier le calcul et la présentation du compte des droits, frais et émoluments. Ce forfait ne s'ajoute pas à la tarification isolée de chaque formalité, mais il s'y substitue. L'actualisation du tarif réalisée par le décret du 17 février 2011, qui peut se traduire pour quelques actes simples par une certaine hausse, s'applique de façon uniforme pour toutes les études, mais proportionnellement, elle peut aussi avoir un impact plus fort pour les études qui effectuent des transactions de plus faible montant. Elle est apparue nécessaire pour assurer un maillage qualitatif et quantitatif sur l'ensemble du territoire et conforter les études de taille réduite, amenées plus que d'autres à recevoir des actes faiblement tarifés. Ainsi, il n'est pas envisagé de modifier les dispositions législatives et réglementaires existantes.
