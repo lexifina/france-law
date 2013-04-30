@@ -1,0 +1,9 @@
+# Réponse à la question n° 19891
+
+- Question : [19891](19891.md) — Question n° 19891 — Canada; accord de libre échange
+
+## Réponse
+
+*JO du 2013-04-30*
+
+Les négociations de l'accord économique et commercial global (AECG) entre l'Union européenne (UE) et le Canada sont entrées dans leur phase finale fin 2012. Certains points bloquants sont encore en discussion entre les deux partenaires et l'équilibre global de l'accord ne pourra être apprécié que lors de la finalisation des textes définitifs. Au cours de la négociation, la France a constamment demandé à la Commission que ce futur accord de libre-échange comprenne des dispositions allant au-delà de l'accord bilatéral sur les vins et spiritueux, et qu'il puisse mettre fin aux pratiques discriminantes des monopoles d'État canadiens sur l'alcool. A ce stade, il apparaît que des réponses favorables aux intérêts de l'UE devraient pouvoir être obtenues sur les points suivants : - l'intégration de l'accord vins et spiritueux de 2003 dans l'AEGC, ce qui entraînera la compétence de l'organe de règlement des différents de l'AEGC sur les dispositions de l'accord existant ; - une stabilisation du nombre de points de vente privés (« private outlets »), qui ne sont pas accessibles aux produits étrangers. D'autres points ne sont pas encore tranchés, mais semblent en bonne voie, notamment : - la suppression de la part ad valorem de la taxe sur le différentiel de services imposée aux vins importés ; - l'inclusion de dispositions encadrant les activités des monopoles d'État, c'est-à-dire une séparation claire entre les activités traditionnelles de distribution des monopoles et les activités commerciales, y compris hors provinces, dès lors que ces activités portent atteinte aux intérêts des opérateurs européens. La France continue d'être attentive à la bonne conclusion de cet accord afin que les intérêts de nos producteurs soient bien pris en compte.
