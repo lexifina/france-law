@@ -1,0 +1,9 @@
+# Réponse à la question n° 18107
+
+- Question : [18107](18107.md) — Question n° 18107 — direction de la concurrence, de la consommation et de la répression des fraudes; restructuration; perspectives
+
+## Réponse
+
+*JO du 2013-04-30*
+
+La situation de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) doit faire l'objet d'une attention particulière. En 2012, son activité, mesurée par le nombre d'établissements contrôlés ou le nombre d'actions de contrôle, a baissé dans une plus forte proportion que celle des effectifs. Sensibilisés sur ce point, les pouvoirs publics ont souhaité, avant toute décision, disposer d'une appréciation exacte de la situation des services déconcentrés de l'État après les réformes entreprises ces dernières années. Le séminaire gouvernemental du 1er octobre 2012 relatif à la modernisation de l'action publique a acté le lancement de travaux spécifiques sur l'administration territoriale de l'État afin d'identifier les pistes d'amélioration et de répondre aux dysfonctionnements constatés. Un groupe de travail interministériel sur l'administration territoriale de l'État (GTATE) a proposé un ensemble de mesures de court terme qui ont été validées lors du comité interministériel de modernisation de l'action publique du 2 avril 2013. Ce comité a également acté le lancement d'une mission confiée à M. Rebière, préfet, et à M. Weiss, ingénieur général des ponts, eaux et forêts, mission qui proposera avant la fin du 1er semestre des scénarios à moyen terme d'organisation territoriale de l'Etat. D'ores et déjà, les effectifs de la DGCCRF ont été stabilisés pour 2013 et le Gouvernement envisage de conforter les missions en matière de concurrence et de consommation grâce à de nouveaux outils juridiques, dans le cadre du projet de loi consommation qui sera déposé au cours de l'année 2013.
