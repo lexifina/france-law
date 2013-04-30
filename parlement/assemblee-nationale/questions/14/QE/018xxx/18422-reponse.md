@@ -1,0 +1,9 @@
+# Réponse à la question n° 18422
+
+- Question : [18422](18422.md) — Question n° 18422 — postes de sécurité; personnel; aptitude
+
+## Réponse
+
+*JO du 2013-04-30*
+
+Les règles d'aptitude physique des conducteurs de train découlent de la transposition en droit français de la directive 2007/59/CE du 23 octobre 2007 relative à la certification de conducteurs de trains assurant la conduite de locomotives et de trains sur le système ferroviaire dans la Communauté. Depuis la modification du décret n° 2006-1279 du 19 octobre 2006 par le décret n° 2010-814 du 13 juillet 2010 relatif à la sécurité et l'interopérabilité du système ferroviaire, les parties de l'arrêté du 30 juillet 2003 traitant des aptitudes physique et psychologique sont privées de base légale. Il revient, dès lors, aux employeurs des personnels affectés à des tâches essentielles de sécurité autres que les conducteurs de déterminer les conditions d'aptitude physique et psychologique requises. Cette évolution du droit est confirmée par l'article 11 de l'arrêté du 19 mars 2012 fixant les objectifs, les méthodes et les indicateurs de sécurité et la réglementation technique de sécurité et d'interopérabilité applicables sur le réseau ferré national et a fait l'objet de nombreux échanges avec le secteur. Ainsi, il n'est pas nécessaire que le Gouvernement crée un système dérogatoire en la matière. Cependant, la réécriture de l'arrêté du 30 juillet 2003 a été engagée par les services de la direction générale des infrastructures, des transports et de la mer (DGITM), en concertation avec la profession, qui a émis le souhait que, dans un souci de sécurité et d'harmonisation des pratiques, les conditions d'aptitudes physiques et psychologiques pour les personnels autres que les conducteurs soient réintroduites dans la réglementation. La DGITM, en liaison avec la direction générale du travail et la profession, oeuvre donc dans ce sens et intégrera ces interrogations dans ses réflexions.
