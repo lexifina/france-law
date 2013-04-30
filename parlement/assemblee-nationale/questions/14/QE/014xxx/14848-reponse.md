@@ -1,0 +1,9 @@
+# Réponse à la question n° 14848
+
+- Question : [14848](14848.md) — Question n° 14848 — caisses d'action sociale; financement
+
+## Réponse
+
+*JO du 2013-04-30*
+
+Le Gouvernement est très attaché à la préservation du statut national du personnel des industries électriques et gazières (IEG). Il sait aussi le rôle joué, au sein de la branche, par les activités sociales, et l'importance qu'y accordent les personnels des IEG. Depuis la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité, le secteur de l'énergie a connu de profondes mutations. Dans ce contexte, certains aspects du fonctionnement des institutions sociales du personnel des industries électriques et gazières semblent aujourd'hui nécessiter une évolution en raison des modifications dans lesquelles sont engagés les secteurs de l'électricité et du gaz. La Cour des comptes l'a d'ailleurs souligné dans ses rapports publics d'avril 2007 et de mai 2011, qui préconisent notamment un cadre juridique et comptable rénovés de ces institutions sociales, notamment en ce qui concerne leur gouvernance, leur contrôle et l'assiette de leur financement. Le Gouvernement souhaite donc que les discussions entre partenaires sociaux sur le sujet puissent se poursuivre, afin d'examiner ensemble les voies les plus appropriées pour moderniser le fonctionnement des institutions sociales de la branche des IEG. Cette négociation ne doit toutefois pas conduire à remettre en cause, ni l'existence de ces institutions, ni le niveau de leur financement. En outre, le Gouvernement a fait part aux partenaires sociaux de son souhait que le calendrier soit desserré, afin de donner le temps à la discussion, et de garantir la réussite de la réforme, qui doit permettre d'aboutir, dans l'intérêt de tous, à des institutions sociales rénovées, efficaces et pérennisées.
