@@ -30,7 +30,7 @@ Classe dédoublée
 
 |
 
-Technologies biochimiques et biologiques
+Biotechnologies
 
 |
 
@@ -94,7 +94,7 @@ Mathématiques
 
 |
 
-3 h
+3,5 h
 
 |
 
@@ -198,19 +198,15 @@ Géographie
 
 |
 
-0,5
+|
 
 |
 
-0,5
+0,5 h
 
 |
 
-0,5
-
-|
-
-0,5
+1 h
 
 |
 
