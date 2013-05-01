@@ -1,8 +1,6 @@
 # Article Annexe I
 
-Annexe I
-
-Les objectifs généraux de la formation dan SLES classes de lettres première année
+Les objectifs généraux de la formation dans les classes de lettres première année
 
 Situées entre la classe terminale des lycées et l'entrée dans les écoles normales supérieures (ENS), les autres grandes écoles ou les universités, les classes de lettres première et seconde années constituent un parcours de haut niveau et s'inscrivent dans le cadre de l'architecture européenne des études au sein des études conduisant à la licence.
 
@@ -27,3 +25,7 @@ Les objectifs généraux s'articulent notamment autour des principes suivants, q
 - mener des recherches personnelles et collectives en exerçant son esprit critique.
 
 Ces principes supposent que l'on stimule chez les étudiants la curiosité intellectuelle et le plaisir de la découverte.
+
+NOTA :
+
+Arrêté du 4 avril 2013 art. 3 : Le présent arrêté entre en vigueur à compter de la rentrée universitaire 2013 pour les objectifs de formation de première année et de la rentrée universitaire 2014 pour ceux de seconde année.

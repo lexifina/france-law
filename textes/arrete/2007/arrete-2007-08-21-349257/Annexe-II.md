@@ -1,7 +1,5 @@
 # Article Annexe II
 
-Annexe II
-
 Les objectifs de formation en langues et culture de l'antiquité
 
 L'enseignement des langues et culture de l'Antiquité en classe préparatoire de lettres première année a pour objectif de donner accès à un ensemble de références à travers la lecture de textes anciens et de légitimer le rôle mémoriel, culturel, fédérateur des langues anciennes pour les pratiquer, les décrire et les inscrire dans le présent de notre culture.
@@ -37,3 +35,7 @@ Première problématique mise au programme pour 2007-2009 : Éros, philia, amor,
 Les notions juridiques, institutionnelles, politiques, religieuses, littéraires, particulièrement celles qui ressortissent au champ de la poétique et de la rhétorique, seront principalement analysées lors de l'étude des textes, donnés à titre indicatif et liés aux problématiques mises au programme. Il apparaît souhaitable de rattacher, quand cela est possible, l'étude des notions à la présentation de genres littéraires correspondants et d'opérer les rapprochements qui s'imposent entre le domaine grec et le domaine latin. Enfin, des rapprochements avec la littérature française sont également recommandés.
 
 Il convient aussi, pour enrichir les parcours à travers les textes, d'amener les étudiants à se familiariser avec les représentations figurées des grands mythes et des personnages, liées à la problématique retenue, qu'elles relèvent de l'art ou de l'artisanat.
+
+NOTA :
+
+Arrêté du 4 avril 2013 art. 3 : Le présent arrêté entre en vigueur à compter de la rentrée universitaire 2013 pour les objectifs de formation de première année et de la rentrée universitaire 2014 pour ceux de seconde année.

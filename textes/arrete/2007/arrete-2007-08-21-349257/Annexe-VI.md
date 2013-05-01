@@ -1,7 +1,5 @@
 # Article Annexe VI
 
-Annexe VI
-
 Les objectifs de la formation pour l'enseignement de la géographie en classe préparatoire de lettres première année
 
 L'enseignement de la géographie en classe préparatoire de lettres première année a pour objectif de permettre aux étudiants d'acquérir les bases d'une culture générale géographique solide et, pour les optionnaires, de se préparer aussi à la poursuite d'études universitaires.
@@ -43,3 +41,7 @@ La programmation annuelle peut accorder un horaire d'enseignement variable aux d
 En option, la formation privilégiera un approfondissement de l'apprentissage des concepts et des démarches de la géographie. Elle les préparera au commentaire de dossiers documentaires, et plus particulièrement de cartes.
 
 Au terme des deux années d'étude en classes préparatoires de lettres première année et seconde année, les étudiants qui se destinent à des études de géographie doivent avoir traité des questions leur donnant les bases cognitives, conceptuelles et méthodologiques indispensables à une poursuite d'études universitaires.
+
+NOTA :
+
+Arrêté du 4 avril 2013 art. 3 : Le présent arrêté entre en vigueur à compter de la rentrée universitaire 2013 pour les objectifs de formation de première année et de la rentrée universitaire 2014 pour ceux de seconde année.

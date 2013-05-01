@@ -1,8 +1,6 @@
 # Article Annexe VII
 
-Annexe VII
-
-Les objectifs de formation en langues vivantes A et B
+Les objectifs de formation en langues vivantes a et b
 
 L'année de lettres première année permet aux étudiants - dans la continuité de la formation qui leur a été dispensée jusqu'au baccalauréat - de poursuivre et approfondir leur exploration de deux aires linguistiques et culturelles autres que celle dont ils sont natifs. Dans ces deux langues étrangères, les étudiants consolident non seulement leur capacité à utiliser la langue à des fins de communication mais également et surtout leur maîtrise des références indispensables à la compréhension des actes d'expression (parole, texte, image, œuvre d'art, etc.)
 
@@ -39,3 +37,7 @@ Pour ce qui est du corpus sur lequel la compréhension, la réflexion et, partan
 - celui d'une investigation diachronique (données historiques et culturelles fondamentales, mondes imaginaires et virtuels, tels qu'ils sont représentés dans les œuvres littéraires).
 
 En littérature, les trois grands genres (prose, poésie, théâtre) et leurs formes canoniques sont abordés. L'étude de la civilisation des pays où la langue est parlée se fait au moyen de documents écrits (textes historiques, textes d'opinion, essais, articles de recherche universitaire, articles de presse, etc.) ou oraux (radio, télévision, internet).
+
+NOTA :
+
+Arrêté du 4 avril 2013 art. 3 : Le présent arrêté entre en vigueur à compter de la rentrée universitaire 2013 pour les objectifs de formation de première année et de la rentrée universitaire 2014 pour ceux de seconde année.
