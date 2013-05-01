@@ -1,6 +1,8 @@
 # Article ANNEXE
 
-INDICE DE DATE de la norme
+INDICE DE DATE
+
+de la norme
 
 |
 
@@ -946,21 +948,19 @@ Systèmes de canalisations en plastique pour la distribution de combustibles gaz
 
 |
 
-NF EN 1555-3
+NF EN 1555-3 + A1
 
-(octobre 2010)
-
-|
-
-Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Partie 3 : raccords
+(janvier 2013)
 
 |
 
-1er juin 2011
+Systèmes de canalisations en plastique pour la distribution de combustibles gazeux. - Polyéthylène (PE). - Partie 3 : raccords |
+
+1er mai 2013
 
 |
 
-1er juin 2011
+1er mai 2013
 
 |
 
