@@ -72,7 +72,7 @@ C
 
 |
 
-Direction départementale de l'équipement de la Guyane
+Direction de l'environnement, de l'aménagement et du logement de Guyane
 
 FONCTIONS EXERCEES
 
@@ -96,7 +96,7 @@ par emploi
 
 |
 
-Adjoint au chef du service habitat, aménagement, urbanisme et construction
+Chef du service aménagement, urbanisme, construction et logement
 
 |
 
@@ -112,7 +112,31 @@ A
 
 |
 
-Chef de cellule ville, chargé des problèmes d'insalubrité et du logement social
+Direction de la jeunesse, des sports et de la cohésion sociale de Guyane
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS (IM)
+
+par emploi
+
+|
+
+Chef du service de l'observation de la cohésion et de l'égalité des biens
 
 |
 
@@ -128,7 +152,7 @@ A
 
 |
 
-Responsable du suivi des crédits de la politique de la ville et de la coordination des services de l'Etat
+Responsable du suivi des crédits de la politique de la ville
 
 |
 
@@ -144,7 +168,7 @@ B
 
 |
 
-Adjoint au responsable du suivi des crédits de la politique de la ville et de la coordination des services de l'Etat
+Adjoint au responsable du suivi des crédits de la politique de la ville
 
 |
 
