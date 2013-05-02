@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901705
+
+- Question : [SEQ120901705](seq120901705.md) — Visiteurs médicaux
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-05-02, page 1423*
+
+La visite médicale (VM) en milieu hospitalier a fait l'objet, par la loi relative au renforcement de la sécurité sanitaire du médicament et des produits de santé du 29 décembre 2011, d'un encadrement sous forme d'une expérimentation, pour une durée ne pouvant excéder deux ans. Cet encadrement impose l'organisation de la VM collective pour un champ limité de produits de santé, selon des conditions définies par une convention conclue entre chaque établissement de santé et le laboratoire du produit promu et dont les modalités sont définies par un arrêté. La loi précise que la VM pourrait, selon le bilan de l'expérimentation, être revue tant sur le champ des produits de santé que sur les parties concernées avec une extension possible à la médecine ambulatoire et à l'ensemble des produits de santé. La haute autorité de santé (HAS) qui a en charge l'évaluation du dispositif a engagé des travaux en organisant des premières réunions. Il s'avère que le dispositif fait l'objet de nombreuses critiques émises par les principaux intéressés (hospitaliers et industriels) qui dénoncent sa lourdeur, sa rigidité et, pour les hospitaliers, le champ trop restreint des produits concernés. Faute de réelle adhésion des acteurs, cette expérimentation s'avère complexe à mettre en œuvre. L'évolution de la VM doit viser à rendre le dispositif plus opérationnel en ayant soin de promouvoir des objectifs de délivrance d'informations de qualité prévus par la charte de la visite médicale. Cette charte devrait être révisée par le comité économique des produits de santé (CEPS) conformément au nouvel accord cadre signé entre les industriels et l'État.
