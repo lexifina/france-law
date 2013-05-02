@@ -1,0 +1,51 @@
+# Pouvoirs publics : simplification des relations entre administration et citoyens
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N30512
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/simplifier_relations_administration_citoyens
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-664.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-06-13 : 1er dépôt d'une initiative. (PRJLSNR5S199B0664)
+  - 2013-06-13 : Etude d'impact (ETDISNR5S199B0664)
+  - 2013-05-02 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-13 : Renvoi en commission au fond
+      - 2013-06-26 : Nomination de rapporteur
+      - 2013-07-10 : Dépôt de rapport (RAPPSNR5S199B0742)
+  - Discussion en séance publique
+    - 2013-07-16 : Discussion en séance publique
+    - 2013-07-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-07-17 : Dépôt d'une initiative en navette (PRJLANR5L14B1276)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-17 : Renvoi en commission au fond
+      - 2013-07-17 : Nomination de rapporteur
+      - 2013-09-10 : Réunion de commission
+      - 2013-09-16 : Réunion de commission
+      - 2013-10-01 : Réunion de commission
+      - 2013-09-10 : Dépôt de rapport (RAPPANR5L14B1342, PRJLANR5L14BTC1342)
+  - Discussion en séance publique
+    - 2013-09-16 : Discussion en séance publique
+    - 2013-09-16 : Décision
+- Commission Mixte Paritaire
+  - 2013-09-17 : Dépôt d'un projet de loi (PRJLSNR5S199B0843)
+  - 2013-09-17 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-10-09 : Nomination de rapporteur
+    - 2013-10-09 : Dépôt du rapport d'une CMP (RAPPANR5L14B1417)
+    - 2013-10-09 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0063)
+  - Discussion en séance publique
+    - 2013-10-17 : Discussion en séance publique
+    - 2013-10-17 : Décision
+  - Discussion en séance publique
+    - 2013-10-30 : Discussion en séance publique
+    - 2013-10-30 : Décision
+  - 2013-10-10 : Décision de la CMP
+- Promulgation de la loi
+  - 2013-11-12 : Promulgation d'une loi
