@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203556
+
+- Question : [SEQ121203556](seq121203556.md) — Médication excessive dans les maisons de retraite
+
+## Réponse
+
+*Personnes âgées et autonomie, JO du 2013-05-02, page 1442*
+
+La prise en charge médicamenteuse des personnes âgées, aussi bien en ville que dans les établissements d'hébergement pour personnes âgées dépendantes (EHPAD), constituent une préoccupation permanente des autorités sanitaires, dans le cadre de la prévention de la iatrogénie et de la sécurisation du circuit du médicament. Ainsi plusieurs actions ont été conduites, soit par l'agence nationale de sécurité du médicament (ANSM), soit par la haute autorité de santé (HAS) afin d'améliorer la prescription médicamenteuse. L'objectif est d'optimiser l'usage des médicaments, de limiter les risques liés à leur consommation et de diminuer leur surconsommation. Une campagne d'information a été lancée sur la surconsommation de somnifères chez la personne âgée par la HAS, en novembre 2012, et sera évaluée sur un indicateur de d'évolution des prescriptions des benzodiazépines au cours du temps. Par ailleurs, le Gouvernement a décidé de renforcer les objectifs en matière d'amélioration de la prise en charge médicamenteuse des personnes âgées. Dans ce cadre, une mission ciblée sur la prise en charge médicamenteuse des résidents en EHPAD, a été confiée à M. Philippe VERGER. L'un des objectifs de la mission est d'assurer un travail de capitalisation permettant de recenser, valoriser et faire partager les outils et bonnes pratiques mises en œuvre sur le terrain en matière d'amélioration de la prise en charge médicamenteuse. La mission devra se concrétiser par des propositions stratégiques et opérationnelles en faveur d'une politique globale claire en matière de prise en charge médicamenteuse chez le sujet âgé en EHPAD au plus tard au 1er septembre 2013.
