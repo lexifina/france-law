@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305313
+
+- Question : [SEQ130305313](seq130305313.md) — Compétence en matière de brûlage des déchets
+
+## Réponse
+
+*Intérieur, JO du 2013-05-02, page 1441*
+
+Il convient de distinguer, d'une part, le pouvoir de police générale du maire, défini à l'article L.2212-2 du code général des collectivités territoriales (CGCT), d'autre part, les pouvoirs de police spéciale transférables au président d'un établissement public de coopération intercommunale. Lorsqu'un EPCI est compétent en matière de collecte des déchets ménagers, le pouvoir de police spéciale relatif à la réglementation de la collecte des déchets ménagers, défini à l'article L.2224-16 du CGCT, est transféré à son président en application du deuxième alinéa du I de l'article L.5211-9-2 du même code. Le président de l'EPCI est alors compétent pour réglementer « la présentation et les conditions de la remise des déchets en fonction de leurs caractéristiques ». Lorsqu'un EPCI à fiscalité propre est compétent en matière de réalisation d'aires d'accueil des gens du voyage, le pouvoir de police spéciale relatif à la réglementation du stationnement des résidences mobiles en dehors des aires d'accueil prévues à cet effet, défini à l'article 9 de la loi n° 2000-614 du 5 juillet 2000 modifiée, est transféré à son président. En revanche, la possibilité de réglementer le brûlage des déchets sur le territoire de la commune ne relève pas de l'un des pouvoirs de police spéciale précités mais du pouvoir de police générale du maire, défini à l'article L.2212-2 du CGCT, ou à l'article L. 2542-3 dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin. Ainsi, lorsqu'une réglementation du brûlage des déchets s'avère nécessaire pour des motifs d'ordre public, notamment de sécurité ou de salubrité publique, l'édiction d'une telle mesure relève-t-elle en tout état de cause du pouvoir de police générale du maire.
