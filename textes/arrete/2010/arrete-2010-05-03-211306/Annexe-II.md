@@ -40,9 +40,9 @@ Le candidat rétablit le libellé correct d'un texte comportant des omissions et
 
 Un représentant de l'administration (**) et, au choix :
 
-- un enseignant de l'éducation nationale ;
+-un enseignant de l'éducation nationale ;
 
-- un spécialiste de l'orientation professionnelle.
+-un spécialiste de l'orientation professionnelle.
 
 |
 
@@ -68,9 +68,9 @@ Le candidat rédige une synthèse à partir d'un dossier comprenant plusieurs do
 
 Un représentant de l'administration (**) et, au choix :
 
-- un enseignant de l'éducation nationale ;
+-un enseignant de l'éducation nationale ;
 
-- un enseignant de la conduite (**).
+-un enseignant de la conduite (**).
 
 |
 
@@ -86,19 +86,19 @@ Entretien.
 
 |
 
-La discussion porte sur l'un des deux sujets tirés au sort par le candidat dans la banque de sujets d'ordre général ou se rapportant au monde de l'automobile ou à la sécurité routière élaborés par le ministère chargé des transports.
+La discussion porte sur l'un des deux sujets tirés au sort par le candidat dans la banque de sujets d'ordre général ou se rapportant au monde de l'automobile ou à la sécurité routière élaborés par le ministère chargé de la sécurité routière.
 
 |
 
 Un spécialiste de l'orientation professionnelle ou un enseignant de l'éducation nationale et, au choix :
 
-- un représentant de l'administration (**) ;
+-un représentant de l'administration (**) ;
 
-- un enseignant de la conduite (**) ;
+-un enseignant de la conduite (**) ;
 
-- un psychologue agréé pour la formation des conducteurs responsables d'infractions ;
+-un psychologue agréé pour la formation des conducteurs responsables d'infractions ;
 
-- un chargé de mission de sécurité routière ou un intervenant départemental de sécurité routière.
+-un chargé de mission de sécurité routière ou un intervenant départemental de sécurité routière.
 
 |
 
@@ -140,7 +140,7 @@ Pédagogie en salle.
 
 |
 
-Le candidat dispense un cours théorique à un auditoire. Il développe l'un des deux sujets tirés au sort dans la banque de sujets élaborés par le ministère chargé des transports.
+Le candidat dispense un cours théorique à un auditoire. Il développe l'un des deux sujets tirés au sort dans la banque de sujets élaborés par le ministère chargé de la sécurité routière.
 
 A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.
 
@@ -148,11 +148,11 @@ A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.
 
 Un enseignant de la conduite (**) et, au choix :
 
-- un enseignant de l'éducation nationale ;
+-un enseignant de l'éducation nationale ;
 
-- un professionnel de la formation des formateurs ;
+-un professionnel de la formation des formateurs ;
 
-- un psychologue agréé pour la formation des conducteurs responsables d'infractions.
+-un psychologue agréé pour la formation des conducteurs responsables d'infractions.
 
 |
 
@@ -174,11 +174,11 @@ Le candidat conduit un véhicule de la catégorie B sur un parcours routier et u
 
 Un enseignant de la conduite (**) et, au choix :
 
-- un inspecteur du permis de conduire et de la sécurité routière ou un délégué au permis de conduire et à la sécurité routière ;
+-un inspecteur du permis de conduire et de la sécurité routière ou un délégué au permis de conduire et à la sécurité routière ;
 
-- un psychologue agréé pour la formation des conducteurs responsables d'infractions ;
+-un psychologue agréé pour la formation des conducteurs responsables d'infractions ;
 
-- à défaut, un enseignant de la conduite (**).
+-à défaut, un enseignant de la conduite (**).
 
 |
 
@@ -202,13 +202,13 @@ A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.
 
 Un enseignant de la conduite (**) et, au choix :
 
-- un inspecteur du permis de conduire et de la sécurité routière ou un délégué au permis de conduire et à la sécurité routière ;
+-un inspecteur du permis de conduire et de la sécurité routière ou un délégué au permis de conduire et à la sécurité routière ;
 
-- un professionnel de la formation des formateurs ;
+-un professionnel de la formation des formateurs ;
 
-- un chargé de mission de sécurité routière ou un intervenant départemental de sécurité routière ;
+-un chargé de mission de sécurité routière ou un intervenant départemental de sécurité routière ;
 
-- un psychologue agréé pour la formation des conducteurs responsables d'infractions.
+-un psychologue agréé pour la formation des conducteurs responsables d'infractions.
 
 |
 

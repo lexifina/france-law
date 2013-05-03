@@ -34,7 +34,7 @@ Maîtrise du véhicule sur aire de manœuvre fermée à la circulation.
 
 |
 
-Le candidat tire au sort une fiche établie par le ministère chargé des transports et effectue la manœuvre décrite sur la fiche.
+Le candidat tire au sort une fiche établie par le ministère chargé de la sécurité routière et effectue la manœuvre décrite sur la fiche.
 
 |
 
@@ -72,7 +72,7 @@ Contrôle des connaissances.
 
 |
 
-Le candidat développe les sujets mentionnés sur la fiche tirée au sort dans la banque de fiches élaborées par le ministère chargé des transports.
+Le candidat développe les sujets mentionnés sur la fiche tirée au sort dans la banque de fiches élaborées par le ministère chargé de la sécurité routière.
 
 |
 
@@ -80,9 +80,9 @@ Le candidat développe les sujets mentionnés sur la fiche tirée au sort dans l
 
 Pédagogie :
 
-- soit hors circulation
+-soit hors circulation
 
-- soit en circulation (après tirage au sort).
+-soit en circulation (après tirage au sort).
 
 |
 
@@ -94,7 +94,7 @@ Pédagogie :
 
 |
 
-Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie E(C) ou D ou titulaire de l'un de ces permis depuis moins d'un an.
+Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie E (C) ou D ou titulaire de l'un de ces permis depuis moins d'un an.
 
 A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.
 
@@ -106,15 +106,15 @@ Un enseignant de la conduite (**) pratiquant régulièrement la formation à la 
 
 Préalablement à l'examen, le candidat tire au sort :
 
-- d'une part, le type de véhicule (E[C] ou D) sur lequel il passera les épreuves de maîtrise du véhicule et de conduite personnelle, l'épreuve de pédagogie ayant lieu sur l'autre véhicule ;
+-d'une part, le type de véhicule (E [C] ou D) sur lequel il passera les épreuves de maîtrise du véhicule et de conduite personnelle, l'épreuve de pédagogie ayant lieu sur l'autre véhicule ;
 
-- d'autre part, le lieu de l'épreuve de pédagogie (aire de manœuvre fermée à la circulation ou circulation).
+-d'autre part, le lieu de l'épreuve de pédagogie (aire de manœuvre fermée à la circulation ou circulation).
 
 Les véhicules utilisés doivent être conformes aux normes exigées pour les épreuves du permis de conduire, à l'exception des caractéristiques techniques suivantes :
 
-- véhicule E(C) : longueur minimum de 14 m, boîte de vitesses à relais ou à étage, cabine comportant 5 places assises ;
+-véhicule E (C) : longueur minimum de 14 m, boîte de vitesses à relais ou à étage, cabine comportant 5 places assises ;
 
-- véhicule D : longueur minimum de 10,5 mètres, ralentisseur réglementaire.
+-véhicule D : longueur minimum de 10,5 mètres, ralentisseur réglementaire.
 
 (*) Les examinateurs peuvent être en activité ou à la retraite.
 

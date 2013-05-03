@@ -34,7 +34,7 @@ Maîtrise personnelle du véhicule sur aire de manœuvre fermée à la circulati
 
 |
 
-Le candidat tire au sort une fiche établie par le ministère chargé des transports et exécute les exercices figurant sur la fiche.
+Le candidat tire au sort une fiche établie par le ministère chargé de la sécurité routière et exécute les exercices figurant sur la fiche.
 
 |
 
@@ -52,7 +52,7 @@ Contrôle des connaissances.
 
 |
 
-Le candidat tire au sort une fiche établie par le ministère chargé des transports et développe les sujets mentionnés sur la fiche.
+Le candidat tire au sort une fiche établie par le ministère chargé de la sécurité routière et développe les sujets mentionnés sur la fiche.
 
 |
 
@@ -62,9 +62,9 @@ Un représentant de l'administration ayant, dans le cadre de ses fonctions, une 
 
 Pédagogie après tirage au sort :
 
-- soit hors circulation ;
+-soit hors circulation ;
 
-- soit en circulation.
+-soit en circulation.
 
 |
 
