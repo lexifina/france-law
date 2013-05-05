@@ -178,7 +178,7 @@ Station de transit de produits minéraux pulvérulents non ensachés tels que ci
 
 |
 
-1. supérieure à 25 000 m3
+1. supérieure à 25 000 m ³
 
 |
 
@@ -192,7 +192,7 @@ E
 
 |
 
-2. Supérieure à 5 000 m³ mais inférieure ou égale à 25 000 m³.
+2. Supérieure à 5 000 m ³ mais inférieure ou égale à 25 000 m ³.
 
 |
 
@@ -222,7 +222,7 @@ Station de transit de produits minéraux ou de déchets non dangereux inertes au
 
 |
 
-1. supérieure à 30 000 m2
+1. supérieure à 30 000 m 2
 
 |
 
@@ -238,7 +238,7 @@ A
 
 |
 
-2. Supérieure à 10 000 m2 mais inférieure ou égale à 30 000 m2.
+2. Supérieure à 10 000 m 2 mais inférieure ou égale à 30 000 m 2.
 
 |
 
@@ -252,7 +252,7 @@ E
 
 |
 
-3. Supérieure à 5 000 m2, mais inférieure ou égale à 10 000 m2
+3. Supérieure à 5 000 m², mais inférieure ou égale à 10 000 m²
 
 |
 
@@ -268,11 +268,7 @@ D
 
 |
 
-Installation de production de béton prêt à l'emploi équipée d'un dispositif
-
-d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations
-
-visées par la rubrique 2522. La capacité de malaxage étant :
+Installation de production de béton prêt à l'emploi équipée d'un dispositif d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations visées par la rubrique 2522. La capacité de malaxage étant :
 
 |
 
@@ -442,7 +438,7 @@ A
 
 |
 
-b) supérieure à 100 t/j, mais inférieure ou égale à 1 500 t/j
+b) supérieure à 100 t/ j, mais inférieure ou égale à 1 500 t/j
 
 |
 
@@ -650,7 +646,7 @@ A
 
 |
 
-b) supérieure à 500 kg/j, mais inférieure ou égale à 5 t/j
+b) supérieure à 500 kg/ j, mais inférieure ou égale à 5 t/j
 
 |
 
@@ -964,7 +960,7 @@ a) supérieure à 500 t/j
 
 |
 
-b) supérieure à 100 t/j mais inférieure ou égale à 500 t/j
+b) supérieure à 100 t/j mais inférieure ou égale à 500 t/ j
 
 |
 
@@ -1022,7 +1018,7 @@ La capacité de production étant :
 
 |
 
-1. supérieure à 100 kg/ j
+1. supérieure à 100 kg/j
 
 |
 
@@ -1212,7 +1208,7 @@ La capacité de production étant :
 
 |
 
-1. supérieure à 2 t/ j
+1. supérieure à 2 t/j
 
 |
 
@@ -1224,7 +1220,7 @@ A
 
 |
 
-1. La capacité de production étant supérieure à 50 t/ j
+1. La capacité de production étant supérieure à 50 t/j
 
 |
 
@@ -1232,7 +1228,7 @@ A
 
 |
 
-2. supérieure à 100 kg/ j, mais inférieure ou égale à 2 t/ j
+2. supérieure à 100 kg/j, mais inférieure ou égale à 2 t/j
 
 |
 
@@ -1698,7 +1694,7 @@ Email
 
 |
 
-a) supérieure à 500 kg/ j
+a) supérieure à 500 kg/j
 
 |
 
@@ -1714,7 +1710,7 @@ A
 
 |
 
-b) supérieure à 50 kg/ j, mais inférieure ou égale à 500 kg/ j
+b) supérieure à 50 kg/j, mais inférieure ou égale à 500 kg/j
 
 |
 
@@ -1728,7 +1724,7 @@ DC
 
 |
 
-2. Application, la quantité de matière susceptible d'être traitée étant supérieure à 100 kg/ j
+2. Application, la quantité de matière susceptible d'être traitée étant supérieure à 100 kg/j
 
 |
 
@@ -1864,9 +1860,7 @@ A
 
 |
 
-1. Quelle que soit la capacité
-
-|
+1. Quelle que soit la capacité |
 
 6
 
@@ -1936,7 +1930,7 @@ La capacité totale des vases d'extraction destinés à la distillation étant :
 
 |
 
-1. Supérieure à 50 m³
+1. Supérieure à 50 m ³
 
 |
 
@@ -1952,7 +1946,7 @@ A
 
 |
 
-2. Supérieure ou égale à 6 m³, mais inférieure ou égale à 50 m³
+2. Supérieure ou égale à 6 m ³, mais inférieure ou égale à 50 m ³
 
 |
 
@@ -1980,7 +1974,7 @@ Colorants et pigments organiques, minéraux et naturels (fabrication industriell
 
 |
 
-1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en œuvre dans un procédé d'une autre installation
+1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en oeuvre dans un procédé d'une autre installation
 
 |
 
@@ -2244,7 +2238,7 @@ Le volume susceptible d'être stocké étant :
 
 |
 
-1. Supérieur ou égal à 40 000 m³ ;
+1. Supérieur ou égal à 40 000 m ³ ;
 
 |
 
@@ -2260,7 +2254,7 @@ A
 
 |
 
-2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ;
+2. Supérieur ou égal à 1 000 m ³ mais inférieur à 40 000 m ³ ;
 
 |
 
@@ -2274,7 +2268,7 @@ E
 
 |
 
-3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
+3. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
 
 |
 
@@ -2316,7 +2310,7 @@ Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est comp
 
 |
 
-a) Supérieur ou égal à 45 000 m³ ;
+a) Supérieur ou égal à 45 000 m ³ ;
 
 |
 
@@ -2332,7 +2326,7 @@ A
 
 |
 
-b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ;
+b) Supérieur ou égal à 2 000 m ³ mais inférieur à 45 000 m ³ ;
 
 |
 
@@ -2346,7 +2340,7 @@ E
 
 |
 
-c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
+c) Supérieur ou égal à 200 m ³ mais inférieur à 2 000 m ³.
 
 |
 
@@ -2372,7 +2366,7 @@ D
 
 |
 
-a) Supérieur ou égal à 80 000 m³ ;
+a) Supérieur ou égal à 80 000 m ³ ;
 
 |
 
@@ -2388,7 +2382,7 @@ A
 
 |
 
-b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ;
+b) Supérieur ou égal à 10 000 m ³ mais inférieur à 80 000 m ³ ;
 
 |
 
@@ -2402,7 +2396,7 @@ E
 
 |
 
-c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
+c) Supérieur ou égal à 1 000 m ³ mais inférieur à 10 000 m ³.
 
 |
 
@@ -2444,9 +2438,7 @@ Quelle que soit la capacité
 
 |
 
-Organismes génétiquement modifiés (installations où sont utilisés de manière confinée dans un processus de production industrielle des), à l'exclusion de l'utilisation d'organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément au titre III du livre V du code de l'environnement et utilisés dans les conditions prévues par cette autorisation de mise sur le marché.
-
-|
+Organismes génétiquement modifiés (installations où sont utilisés de manière confinée dans un processus de production industrielle des), à l'exclusion de l'utilisation d'organismes génétiquement modifiés qui ont reçu une autorisation de mise sur le marché conformément au titre III du livre V du code de l'environnement et utilisés dans les conditions prévues par cette autorisation de mise sur le marché. |
 
 |
 
@@ -2474,7 +2466,7 @@ D
 
 |
 
-2. Utilisation d'organismes génétiquement modifiés de classe de confinement 2, 3, 4
+2. Utilisation d'organismes génétiquement modifiés de classe de confinement 2,3,4
 
 |
 
@@ -2504,9 +2496,7 @@ Les organismes génétiquement modifiés visés sont ceux définis par l'article
 
 |
 
-On entend par utilisation au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, mis en œuvre, stockés, détruits, éliminés, ou utilisés de toute autre manière, à l'exclusion du transport.
-
-|
+On entend par utilisation au sens de la présente rubrique toute opération ou ensemble d'opérations faisant partie d'un processus de production industrielle au cours desquelles des organismes sont génétiquement modifiés ou au cours desquelles des organismes génétiquement modifiés sont cultivés, mis en œuvre, stockés, détruits, éliminés, ou utilisés de toute autre manière, à l'exclusion du transport. |
 
 |
 
@@ -2680,7 +2670,7 @@ Le volume de déchets susceptibles d'être présents dans l'installation étant 
 
 |
 
-a) Supérieur ou égal à 600 m³
+a) Supérieur ou égal à 600 m ³
 
 |
 
@@ -2696,7 +2686,7 @@ A
 
 |
 
-b) Supérieur ou égal à 300 m³ et inférieur à 600 m³
+b) Supérieur ou égal à 300 m ³ et inférieur à 600 m ³
 
 |
 
@@ -2710,7 +2700,7 @@ E
 
 |
 
-c) Supérieur ou égal à 100 m³ et inférieur à 300 m³
+c) Supérieur ou égal à 100 m ³ et inférieur à 300 m ³
 
 |
 
@@ -2752,7 +2742,7 @@ Le volume susceptible d'être entreposé étant :
 
 |
 
-1. Supérieur ou égal à 1 000 m³
+1. Supérieur ou égal à 1 000 m ³
 
 |
 
@@ -2768,7 +2758,7 @@ A
 
 |
 
-2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³
+2. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³
 
 |
 
@@ -2868,7 +2858,7 @@ A
 
 |
 
-Installation de transit, regroupement ou tri de métaux ou de déchets de métaux non dangereux, d'alliage de métaux ou de déchets d'alliage de métaux non dangereux, à l'exclusion des activités et installations visées aux rubriques 2710, 2711 et 2712.
+Installation de transit, regroupement ou tri de métaux ou de déchets de métaux non dangereux, d'alliage de métaux ou de déchets d'alliage de métaux non dangereux, à l'exclusion des activités et installations visées aux rubriques 2710,2711 et 2712.
 
 |
 
@@ -2926,7 +2916,7 @@ D
 
 |
 
-Installation de transit, regroupement ou tri de déchets non dangereux de papiers/cartons, plastiques, caoutchouc, textiles, bois à l'exclusion des activités visées aux rubriques 2710 et 2711.
+Installation de transit, regroupement ou tri de déchets non dangereux de papiers/ cartons, plastiques, caoutchouc, textiles, bois à l'exclusion des activités visées aux rubriques 2710 et 2711.
 
 |
 
@@ -2950,7 +2940,7 @@ Le volume susceptible d'être présent dans l'installation étant :
 
 |
 
-1. Supérieur ou égal à 1 000 m³ ;
+1. Supérieur ou égal à 1 000 m ³ ;
 
 |
 
@@ -2966,7 +2956,7 @@ A
 
 |
 
-2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
+2. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
 
 |
 
@@ -2984,7 +2974,7 @@ D
 
 |
 
-Installation de transit, regroupement ou tri de déchets non dangereux de verre à l'exclusion des installations visées à la rubrique 2710, le volume susceptible d'être présent dans l'installation étant supérieur ou égal à 250 m³.
+Installation de transit, regroupement ou tri de déchets non dangereux de verre à l'exclusion des installations visées à la rubrique 2710, le volume susceptible d'être présent dans l'installation étant supérieur ou égal à 250 m ³.
 
 |
 
@@ -3002,7 +2992,7 @@ D
 
 |
 
-Installation de transit, regroupement ou tri de déchets non dangereux non inertes à l'exclusion des installations visées aux rubriques 2710, 2711, 2712, 2713, 2714, 2715 et 2719.
+Installation de transit, regroupement ou tri de déchets non dangereux non inertes à l'exclusion des installations visées aux rubriques 2710,2711,2712,2713,2714,2715 et 2719.
 
 |
 
@@ -3026,7 +3016,7 @@ Le volume susceptible d'être présent dans l'installation étant :
 
 |
 
-1. Supérieur ou égal à 1 000 m³ ;
+1. Supérieur ou égal à 1 000 m ³ ;
 
 |
 
@@ -3042,7 +3032,7 @@ A
 
 |
 
-2. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
+2. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³.
 
 |
 
@@ -3060,7 +3050,7 @@ DC
 
 |
 
-Installation de transit, regroupement ou tri de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313,2710,2711,2712 et 2719.
+Installation de transit, regroupement ou tri de déchets contenant des substances dangereuses ou préparations dangereuses mentionnées à l'article R. 511-10 du code de l'environnement, à l'exclusion des installations visées aux rubriques 1313, 2710, 2711, 2712 et 2719.
 
 |
 
@@ -3090,9 +3080,7 @@ La quantité susceptible d'être présente étant :
 
 |
 
-2. Inférieure à 50 t
-
-|
+2. Inférieure à 50 t |
 
 3
 
@@ -3218,9 +3206,7 @@ a) Supérieure ou égale à 50 t |
 
 |
 
-b) Supérieure ou égale à 1 t et inférieure à 50 t
-
-|
+b) Supérieure ou égale à 1 t et inférieure à 50 t |
 
 3
 
@@ -3242,7 +3228,7 @@ b) Supérieure ou égale à 1 t et inférieure à 50 t
 
 |
 
-Installation temporaire de transit de déchets issus de pollutions accidentelles marines ou fluviales ou de déchets issus de catastrophes naturelles, le volume susceptible d'être présent dans l'installation étant supérieur à 100 m³.
+Installation temporaire de transit de déchets issus de pollutions accidentelles marines ou fluviales ou de déchets issus de catastrophes naturelles, le volume susceptible d'être présent dans l'installation étant supérieur à 100 m ³.
 
 |
 
@@ -3322,7 +3308,7 @@ La capacité de traitement étant :
 
 |
 
-La capacité de traitement étant supérieure à 500 kg/ j
+La capacité de traitement étant supérieure à 500 kg/j
 
 |
 
@@ -3334,7 +3320,7 @@ A
 
 |
 
-a) supérieure à 50 t/ j
+a) supérieure à 50 t/j
 
 |
 
@@ -3348,7 +3334,7 @@ a) supérieure à 50 t/ j
 
 |
 
-b) supérieure à 10 t/ j, mais inférieure ou égale à 50 t/ j
+b) supérieure à 10 t/j, mais inférieure ou égale à 50 t/j
 
 |
 
@@ -3360,7 +3346,7 @@ b) supérieure à 10 t/ j, mais inférieure ou égale à 50 t/ j
 
 |
 
-Sous-produits d'origine animale, y compris débris, issues et cadavres (dépôt de), à l'exclusion des dépôts de peaux, des établissements de diagnostic, de recherche et d'enseignement et des dépôts annexés et directement liés aux installations dont les activités sont classées sous les rubriques 2101 à 2150, 2170, 2210, 2221, 2230, 2240 et 2690 de la présente nomenclature :
+Sous-produits d'origine animale, y compris débris, issues et cadavres (dépôt de), à l'exclusion des dépôts de peaux, des établissements de diagnostic, de recherche et d'enseignement et des dépôts annexés et directement liés aux installations dont les activités sont classées sous les rubriques 2101 à 2150,2170,2210,2221,2230,2240 et 2690 de la présente nomenclature :
 
 |
 
@@ -3698,9 +3684,7 @@ La capacité de traitement étant :
 
 |
 
-Installations de compostage de déchets non dangereux ou de matière végétale, ayant, le cas échéant, subi une étape de méthanisation.
-
-|
+Installations de compostage de déchets non dangereux ou de matière végétale, ayant, le cas échéant, subi une étape de méthanisation. |
 
 4
 
@@ -4102,7 +4086,7 @@ A
 
 |
 
-Installation de traitement de déchets non dangereux à l'exclusion des installations visées aux rubriques 2720, 2760, 2771, 2780, 2781 et 2782.
+Installation de traitement de déchets non dangereux à l'exclusion des installations visées aux rubriques 2720,2760,2771,2780,2781 et 2782.
 
 |
 
@@ -4186,9 +4170,7 @@ a) Supérieure ou égale à 50 t/j |
 
 |
 
-b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
-
-|
+b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j |
 
 3
 
@@ -4234,7 +4216,7 @@ La quantité d'eau mise en œuvre étant :
 
 |
 
-1. Supérieure ou égale à 20 m³/j ;
+1. Supérieure ou égale à 20 m ³/j ;
 
 |
 
@@ -4250,7 +4232,7 @@ A
 
 |
 
-2. Inférieure à 20 m³/j.
+2. Inférieure à 20 m ³/j.
 
 |
 
@@ -4516,7 +4498,7 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
 
 |
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25o C) est :
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25 o C) est :
 
 |
 
@@ -4570,7 +4552,7 @@ D
 
 |
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25o C) est supérieure à 250 l.
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25 o C) est supérieure à 250 l.
 
 |
 
@@ -4588,7 +4570,7 @@ D
 
 |
 
-Installation de compression fonctionnant à des pressions effectives supérieures à 105 Pa et comprimant ou utilisant des fluides inflammables ou toxiques, la puissance absorbée étant supérieure à 10 MW
+Installation de compression fonctionnant à des pressions effectives supérieures à 10 5 Pa et comprimant ou utilisant des fluides inflammables ou toxiques, la puissance absorbée étant supérieure à 10 MW
 
 |
 
@@ -4950,7 +4932,7 @@ DC
 
 |
 
-2. Lorsque l'application est faite par tout procédé autre que le trempé (pulvérisation, enduction). Si la quantité maximale de produits susceptible d'être mise en œuvre est :
+2. Lorsque l'application est faite par tout procédé autre que le "trempé" (pulvérisation, enduction). Si la quantité maximale de produits susceptible d'être mise en œuvre est :
 
 |
 
@@ -5072,7 +5054,7 @@ DC
 
 |
 
-Nota.-Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55o C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55o C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
+Nota.-Le régime de classement est déterminé par rapport à la quantité de produits mise en oeuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55o C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55o C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
 
 |
 
@@ -5310,13 +5292,1173 @@ D
 
 |
 
+3000
+
+|
+
+Les rubriques 3000 à 3999 ne s'appliquent pas aux activités de recherche et développement ou à l'expérimentation de nouveaux produits et procédés.
+
+Au sein de la plus petite subdivision de la rubrique, les capacités des installations s'additionnent pour les installations ou équipements visés à l'article R. 515-58.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3110
+
+|
+
+Combustion de combustibles dans des installations d'une puissance thermique nominale totale égale ou supérieure à 50 MW
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3120
+
+|
+
+Raffinage de pétrole et de gaz
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3130
+
+|
+
+Production de coke
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3140
+
+|
+
+Gazéification ou liquéfaction de :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Charbon
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Autres combustibles dans des installations d'une puissance thermique nominale totale égale ou supérieure à 20 MW
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3210
+
+|
+
+Grillage ou frittage de minerai métallique, y compris de minerai sulfuré
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3220
+
+|
+
+Production de fonte ou d'acier (fusion primaire ou secondaire), y compris par coulée continue, avec une capacité de plus de 2,5 tonnes par heure
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3230
+
+|
+
+Transformation des métaux ferreux :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Exploitation de laminoirs à chaud d'une capacité supérieure à 20 tonnes d'acier brut par heure
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Opérations de forgeage à l'aide de marteaux dont l'énergie de frappe dépasse 50 kilojoules par marteau et pour lesquelles la puissance calorifique mise en œuvre est supérieure à 20 MW
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Application de couches de protection de métal en fusion avec une capacité de traitement supérieure à 2 tonnes d'acier brut par heure
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3240
+
+|
+
+Exploitation de fonderies de métaux ferreux d'une capacité de production supérieure à 20 tonnes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3250
+
+|
+
+Transformation des métaux non ferreux :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Production de métaux bruts non ferreux à partir de minerais, de concentrés ou de matières premières secondaires par procédés métallurgiques, chimiques ou électrolytiques
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Fusion, y compris alliage, de métaux non ferreux incluant les produits de récupération et exploitation de fonderies de métaux non ferreux, avec une capacité de fusion supérieure à 4 tonnes par jour pour le plomb et le cadmium ou à 20 tonnes par jour pour tous les autres métaux
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3260
+
+|
+
+Traitement de surface de métaux ou de matières plastiques par un procédé électrolytique ou chimique pour lequel le volume des cuves affectées au traitement est supérieur à 30 mètres cubes
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3310
+
+|
+
+Production de ciment, de chaux et d'oxyde de magnésium :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Production de clinker (ciment) dans des fours rotatifs avec une capacité de production supérieure à 500 tonnes par jour ou d'autres types de fours avec une capacité de production supérieure à 50 tonnes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Production de chaux dans des fours avec une production supérieure à 50 tonnes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Production d'oxyde de magnésium dans des fours avec une capacité supérieure à 50 tonnes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3330
+
+|
+
+Fabrication du verre, y compris de fibres de verre, avec une capacité de fusion supérieure à 20 tonnes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3340
+
+|
+
+Fusion de matières minérales, y compris production de fibres minérales, avec une capacité de fusion supérieure à 20 tonnes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3350
+
+|
+
+Fabrication de produits céramiques par cuisson, notamment de tuiles, de briques, de pierres réfractaires, de carrelages, de grès ou de porcelaines avec une capacité de production supérieure à 75 tonnes par jour, et/ou dans un four avec une capacité supérieure à 4 mètres cubes et une densité d'enfournement de plus de 300 kg/m³ par four
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3410
+
+|
+
+Fabrication en quantité industrielle par transformation chimique ou biologique de produits chimiques organiques, tels que :
+
+a) Hydrocarbures simples (linéaires ou cycliques, saturés ou insaturés, aliphatiques ou aromatiques)
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Hydrocarbures oxygénés, notamment alcools, aldéhydes, cétones, acides carboxyliques, esters, et mélanges d'esters, acétates, éthers, peroxydes et résines époxydes.
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Hydrocarbures sulfurés
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+d) Hydrocarbures azotés, notamment amines, amides, composés nitreux, nitrés ou nitratés, nitriles, cyanates, isocyanates
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+e) Hydrocarbures phosphorés
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+f) Hydrocarbures halogénés
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+g) Dérivés organométalliques
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+h) Matières plastiques (polymères, fibres synthétiques, fibres à base de cellulose)
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+i) Caoutchoucs synthétiques
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+j) Colorants et pigments
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+k) Tensioactifs et agents de surface
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3420
+
+|
+
+Fabrication en quantité industrielle par transformation chimique ou biologique de produits chimiques inorganiques, tels que :
+
+a) Gaz, tels que ammoniac, chlore ou chlorure d'hydrogène, fluor ou fluorure d'hydrogène, oxydes de carbone, composés sulfuriques, oxydes d'azote, hydrogène, dioxyde de soufre, chlorure de carbonyle
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Acides, tels que acide chromique, acide fluorhydrique, acide phosphorique, acide nitrique, acide chlorhydrique, acide sulfurique, oléum, acides sulfurés
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Bases, telles que hydroxyde d'ammonium, hydroxyde de potassium, hydroxyde de sodium
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+d) Sels, tels que chlorure d'ammonium, chlorate de potassium, carbonate de potassium, carbonate de sodium, perborate, nitrate d'argent
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+e) Non-métaux, oxydes métalliques ou autres composés inorganiques, tels que carbure de calcium, silicium, carbure de silicium
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3430
+
+|
+
+Fabrication en quantité industrielle par transformation chimique ou biologique d'engrais à base de phosphore, d'azote ou de potassium (engrais simples ou composés)
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3440
+
+|
+
+Fabrication en quantité industrielle par transformation chimique ou biologique de produits phytosanitaires ou de biocides
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3450
+
+|
+
+Fabrication en quantité industrielle par transformation chimique ou biologique de produits pharmaceutiques, y compris d'intermédiaires
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3460
+
+|
+
+Fabrication en quantité industrielle par transformation chimique ou biologique d'explosifs
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3510
+
+|
+
+Elimination ou valorisation des déchets dangereux, avec une capacité de plus de 10 tonnes par jour, supposant le recours à une ou plusieurs des activités suivantes :
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+- traitement biologique
+
+- traitement physico-chimique
+
+- mélange avant de soumettre les déchets à l'une des autres activités énumérées aux rubriques 3510 et 3520
+
+- reconditionnement avant de soumettre les déchets à l'une des autres activités énumérées aux rubriques 3510 et 3520
+
+- récupération/régénération des solvants
+
+- recyclage/récupération de matières inorganiques autres que des métaux ou des composés métalliques
+
+- régénération d'acides ou de bases
+
+- valorisation des composés utilisés pour la réduction de la pollution
+
+- valorisation des constituants des catalyseurs
+
+- régénération et autres réutilisations des huiles
+
+- lagunage
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3520
+
+|
+
+Elimination ou valorisation de déchets dans des installations d'incinération des déchets ou des installations de coïncinération des déchets :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Pour les déchets non dangereux avec une capacité supérieure à 3 tonnes par heure
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Pour les déchets dangereux avec une capacité supérieure à 10 tonnes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3531
+
+|
+
+Elimination des déchets non dangereux non inertes avec une capacité de plus de 50 tonnes par jour, supposant le recours à une ou plusieurs des activités suivantes, à l'exclusion des activités relevant de la directive 91/271/CEE du Conseil du 21 mai 1991 relative au traitement des eaux urbaines résiduaires :
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+- traitement biologique
+
+- traitement physico-chimique
+
+- prétraitement des déchets destinés à l'incinération ou à la coïncinération
+
+- traitement du laitier et des cendres
+
+- traitement en broyeur de déchets métalliques, notamment déchets d'équipements électriques et électroniques et véhicules hors d'usage ainsi que leurs composants
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3532
+
+|
+
+Valorisation ou mélange de valorisation et d'élimination de déchets non dangereux non inertes avec une capacité supérieure à 75 tonnes par jour et entraînant une ou plusieurs des activités suivantes, à l'exclusion des activités relevant de la directive 91/271/CEE :
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+- traitement biologique
+
+- prétraitement des déchets destinés à l'incinération ou à la coïncinération
+
+- traitement du laitier et des cendres
+
+- traitement en broyeur de déchets métalliques, notamment déchets d'équipements électriques et électroniques et véhicules hors d'usage ainsi que leurs composants
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nota. - lorsque la seule activité de traitement des déchets exercée est la digestion anaérobie, le seuil de capacité pour cette activité est fixé à 100 tonnes par jour
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3540
+
+|
+
+Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720 et celles relevant des dispositions de l'article L. 541-30-1 du code de l'environnement, recevant plus de 10 tonnes de déchets par jour ou d'une capacité totale supérieure à 25 000 tonnes
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3550
+
+|
+
+Stockage temporaire de déchets dangereux ne relevant pas de la rubrique 3540, dans l'attente d'une des activités énumérées aux rubriques 3510,3520,3540 ou 3560 avec une capacité totale supérieure à 50 tonnes, à l'exclusion du stockage temporaire sur le site où les déchets sont produits, dans l'attente de la collecte
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3560
+
+|
+
+Stockage souterrain de déchets dangereux, avec une capacité totale supérieure à 50 tonnes
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3610
+
+|
+
+Fabrication, dans des installations industrielles, de :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Pâte à papier à partir du bois ou d'autres matières fibreuses |
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Papier ou carton, avec une capacité de production supérieure à 20 tonnes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Un ou plusieurs des panneaux à base de bois suivants : panneaux de particules orientées, panneaux d'aggloméré ou panneaux de fibres avec une capacité de production supérieure à 600 mètres cubes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3620
+
+|
+
+Prétraitement (opérations de lavage, blanchiment, mercerisation) ou teinture de fibres textiles ou de textiles, avec une capacité de traitement supérieure à 10 tonnes par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3630
+
+|
+
+Tannage des peaux, avec une capacité de traitement supérieure à 12 tonnes de produits finis par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3641
+
+|
+
+Exploitation d'abattoirs, avec une capacité de production supérieure à 50 tonnes de carcasses par jour
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
 3642
 
 |
 
 Traitement et transformation, à l'exclusion du seul conditionnement des matières premières ci-après, qu'elles aient été ou non préalablement transformées, en vue de la fabrication de produits alimentaires ou d'aliments pour animaux issus :
-
-|
 
 |
 
@@ -5344,8 +6486,6 @@ A
 
 |
 
-|
-
 2. Uniquement de matières premières végétales, avec une capacité de production supérieure à 300 t de produits finis par jour ou 600 t par jour lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an
 
 |
@@ -5362,11 +6502,7 @@ A
 
 |
 
-|
-
 3. Matières premières animales et végétales, aussi bien en produits combinés qu'en produits séparés, avec une capacité de production, exprimée en tonnes de produits finis par jour, supérieure à :
-
-|
 
 |
 
@@ -5394,11 +6530,9 @@ A
 
 |
 
-|
-
 - [300-(22,5 × A)] dans tous les autres cas
 
-où " A " est la proportion de matière animale (en pourcentage de poids) dans la quantité entrant dans le calcul de la capacité de production de produits finis.
+où "A" est la proportion de matière animale (en pourcentage de poids) dans la quantité entrant dans le calcul de la capacité de production de produits finis.
 
 |
 
@@ -5410,15 +6544,219 @@ où " A " est la proportion de matière animale (en pourcentage de poids) dans l
 
 |
 
-|
+Nota 1. - L'emballage n'est pas compris dans le poids final du produit.
 
-Nota 1.-L'emballage n'est pas compris dans le poids final du produit.
-
-Nota 2.-La présente rubrique ne s'applique pas si la matière première est seulement du lait.
+Nota 2. - La présente rubrique ne s'applique pas si la matière première est seulement du lait.
 
 |
 
 |
+
+|
+
+|
+
+|
+
+3643
+
+|
+
+Traitement et transformation du lait exclusivement, la quantité de lait reçue étant supérieure à 200 tonnes par jour (valeur moyenne sur une base annuelle)
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3650
+
+|
+
+Elimination ou recyclage de carcasses ou de déchets animaux, avec une capacité de traitement supérieure à 10 tonnes par jour
+
+|
+
+A
+
+|
+
+5
+
+|
+
+|
+
+|
+
+3660
+
+|
+
+Elevage intensif de volailles ou de porcs :
+
+a) Avec plus de 40 000 emplacements pour les volailles
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+b) Avec plus de 2 000 emplacements pour les porcs de production (de plus de 30 kg)
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+c) Avec plus de 750 emplacements pour les truies
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+Nota. - Par "volailles", on entend : les poulets, poules, dindes, pintades, canards, oies, cailles, pigeons, faisans et perdrix, élevés ou détenus en captivité en vue de leur reproduction, de la production de viande ou d'œufs de consommation ou de la fourniture de gibier de repeuplement
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3670
+
+|
+
+Traitement de surface de matières, d'objets ou de produits à l'aide de solvants organiques, notamment pour les opérations d'apprêt, d'impression, de couchage, de dégraissage, d'imperméabilisation, de collage, de peinture, de nettoyage ou d'imprégnation, avec une capacité de consommation de solvant organique supérieure à 150 kilogrammes par heure ou à 200 tonnes par an
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3680
+
+|
+
+Fabrication de carbone (charbon dur) ou d'électrographite par combustion ou graphitisation
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3690
+
+|
+
+Captage des flux de CO2 provenant d'installations classées soumises à autorisation, en vue du stockage géologique
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3700
+
+|
+
+Préservation du bois et des produits dérivés du bois au moyen de produits chimiques, avec une capacité de production supérieure à 75 mètres cubes par jour, autre que le seul traitement contre la coloration
+
+|
+
+A
+
+|
+
+3
+
+|
+
+|
+
+|
+
+3710
+
+|
+
+Traitement des eaux résiduaires dans des installations autonomes relevant des rubriques 2750 ou 2751 et qui sont rejetées par une ou plusieurs installations relevant de la section 8 du chapitre V du titre Ier du livre V
+
+|
+
+A
+
+|
+
+3
 
 |
 
