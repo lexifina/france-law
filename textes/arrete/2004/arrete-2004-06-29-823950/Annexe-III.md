@@ -1,12 +1,14 @@
-# Article Annexe I
+# Article Annexe III
 
-Les meilleures techniques disponibles visées à l'article 2 se définissent comme le stade de développement le plus efficace et avancé des activités et de leurs modes d'exploitation, démontrant l'aptitude pratique de techniques particulières à constituer, en principe, la base des valeurs limites d'émission visant à éviter et, lorsque cela s'avère impossible, à réduire de manière générale les émissions et l'impact sur l'environnement dans son ensemble.
+DÉTERMINATION DES MEILLEURES TECHNIQUES DISPONIBLES
 
-Par "techniques", on entend aussi bien les techniques employées que la manière dont l'installation est conçue, construite, entretenue, exploitée et mise à l'arrêt.
+Les meilleures techniques disponibles visées à l'article 2 se définissent comme le stade de développement le plus efficace et avancé des activités et de leurs modes d'exploitation démontrant l'aptitude pratique de techniques particulières à constituer, en principe, la base des valeurs limites d'émission visant à éviter et, lorsque cela s'avère impossible, à réduire de manière générale les émissions et l'impact sur l'environnement dans son ensemble.
 
-Par "disponibles", on entend les techniques mises au point sur une échelle permettant de les appliquer dans le contexte du secteur industriel ou agricole concerné, dans des conditions économiquement et techniquement viables, en prenant en considération les coûts et les avantages, que ces techniques soient utilisées ou produites ou non sur le territoire de l'Etat membre intéressé, pour autant que l'exploitant concerné puisse y avoir accès dans des conditions raisonnables.
+Par " techniques ", on entend aussi bien les techniques employées que la manière dont l'installation est conçue, construite, entretenue, exploitée et mise à l'arrêt.
 
-Par "meilleures", on entend les techniques les plus efficaces pour atteindre un niveau général élevé de protection de l'environnement dans son ensemble.
+Par " disponibles ", on entend les techniques mises au point sur une échelle permettant de les appliquer dans le contexte du secteur industriel ou agricole concerné, dans des conditions économiquement et techniquement viables en prenant en considération les coûts et les avantages, que ces techniques soient utilisées ou produites ou non sur le territoire de l'Etat membre intéressé, pour autant que l'exploitant concerné puisse y avoir accès dans des conditions raisonnables.
+
+Par " meilleures ", on entend les techniques les plus efficaces pour atteindre un niveau général élevé de protection de l'environnement dans son ensemble.
 
 Les considérations à prendre en compte en général ou dans un cas particulier lors de la détermination des meilleures techniques disponibles sont les suivantes :
 
