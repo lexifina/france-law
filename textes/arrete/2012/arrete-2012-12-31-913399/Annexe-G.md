@@ -328,9 +328,7 @@ Centre de services partagés de la direction des résidents à l'étranger et de
 
 |
 
-Contrôleur budgétaire et comptable ministériel auprès des ministères économique et financier
-
-|
+Contrôleur budgétaire et comptable ministériel auprès des ministères économique et financier |
 
 Directeur des résidents à l'étranger et des services généraux en qualité de comptable public principal de l'Etat à l'initiative de la liquidation de dépenses sans ordonnancement avant règlement
 
@@ -360,6 +358,4 @@ Recettes ordonnancées en application de l'article R. 52-3-19 du code des postes
 
 |
 
-Contrôleur budgétaire et comptable ministériel auprès des ministères économique et financier
-
-|
+Contrôleur budgétaire et comptable ministériel auprès des ministères économiques et financiers |

@@ -4,7 +4,7 @@ ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION
 
 DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
-A. - Ministère des affaires étrangères
+A.-Ministère des affaires étrangères
 
 CATÉGORIE DE PERSONNELS
 
@@ -24,7 +24,7 @@ Trésorier-payeur général pour l'étranger
 
 |
 
-B. - Ministère de la culture et de la communication
+B.-Ministère de la culture et de la communication
 
 CATÉGORIE DE PERSONNELS
 
@@ -52,7 +52,7 @@ Directeur régional des finances publiques d'Ile-de-France et du département de
 
 |
 
-C. - Ministère de l'agriculture, de l'agroalimentaire et de la forêt
+C.-Ministère de l'agriculture, de l'agroalimentaire et de la forêt
 
 CATÉGORIE DE PERSONNELS
 
@@ -96,7 +96,7 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-D. - Services déconcentrés du ministère de l'éducation nationale
+D.-Services déconcentrés du ministère de l'éducation nationale
 
 et du ministère de l'enseignement supérieur et de la recherche
 
@@ -124,7 +124,7 @@ Paris (enseignement du 1er et du 2e degré)
 
 |
 
-E. - Ministère de l'économie et des finances
+E.-Ministère de l'économie et des finances
 
 SERVICE
 
@@ -252,15 +252,11 @@ Direction générale de la concurrence, de la consommation et de la répression 
 
 |
 
-Services déconcentrés de métropole et des départements d'outre-mer hors Mayotte
+Services déconcentrés de métropole et des départements d'outre-mer hors Mayotte |
 
-|
+Directeur départemental des finances publiques des Hauts-de-Seine |
 
-Directeur départemental des finances publiques des Hauts-de-Seine
-
-|
-
-Service commun des laboratoires des ministères économique et financier
+Service commun des laboratoires des ministères économiques et financiers
 
 |
 
@@ -272,25 +268,17 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-Personnels issus de la direction générale des douanes et droits indirects
+Personnels issus de la direction générale des douanes et droits indirects |
 
-|
+Directeur départemental des finances publiques des Hauts-de-Seine |
 
-Directeur départemental des finances publiques des Hauts-de-Seine
+F.-Ministère de l'intérieur
 
-|
-
-F. - Ministère de l'intérieur
-
-SERVICE OU CATÉGORIE DE PERSONNELS
-
-|
+SERVICE OU CATÉGORIE DE PERSONNELS |
 
 COMPTABLE PUBLIC ASSIGNATAIRE DE LA PAYE
 
-sans ordonnancement préalable
-
-|
+sans ordonnancement préalable |
 
 Bureau des cultes du Bas-Rhin et du Haut-Rhin
 
@@ -312,7 +300,7 @@ Préfecture de l'Aisne
 
 |
 
-Directeur régional des finances publiques de Nord - Pas-de-Calais et du département du Nord
+Directeur régional des finances publiques de Nord-Pas-de-Calais et du département du Nord
 
 |
 
@@ -640,7 +628,7 @@ Préfecture de l'Oise
 
 |
 
-Directeur régional des finances publiques de Nord - Pas-de-Calais et du département du Nord
+Directeur régional des finances publiques de Nord-Pas-de-Calais et du département du Nord
 
 |
 
@@ -744,7 +732,7 @@ Préfecture de la Somme
 
 |
 
-Directeur régional des finances publiques de Nord - Pas-de-Calais et du département du Nord
+Directeur régional des finances publiques de Nord-Pas-de-Calais et du département du Nord
 
 |
 
@@ -836,17 +824,13 @@ Cf. annexe I
 
 |
 
-G. - Services du Premier ministre. - Juridictions administratives et financières
+G.-Services du Premier ministre.-Juridictions administratives et financières
 
-SERVICE OU CATÉGORIE DE PERSONNELS
-
-|
+SERVICE OU CATÉGORIE DE PERSONNELS |
 
 COMPTABLE PUBLIC ASSIGNATAIRE DE LA PAYE
 
-sans ordonnancement préalable
-
-|
+sans ordonnancement préalable |
 
 Magistrats des tribunaux administratifs et cours administratives d'appel
 
@@ -880,19 +864,13 @@ Directeur régional des finances publiques d'Ile-de-France et du département de
 
 |
 
-H. - Ministère de l'écologie, du développement durable et de l'énergie
+H.-Ministère de l'écologie, du développement durable et de l'énergie et ministère de l'égalité des territoires et du logement
 
-et ministère de l'égalité des territoires et du logement
-
-SERVICE OU CATÉGORIE DE PERSONNELS
-
-|
+SERVICE OU CATÉGORIE DE PERSONNELS |
 
 COMPTABLE PUBLIC ASSIGNATAIRE DE LA PAYE
 
-sans ordonnancement préalable
-
-|
+sans ordonnancement préalable |
 
 Direction régionale et interdépartementale de l'hébergement et du logement en région d'Ile-de-France
 
