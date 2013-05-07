@@ -1,0 +1,9 @@
+# Réponse à la question n° 19858
+
+- Question : [19858](19858.md) — Question n° 19858 — vols de nuit; réglementation
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Le trafic nocturne de l'aéroport de Lyon-Saint-Exupéry est aujourd'hui modeste, avec environ 25 vols par nuit dont cinq au coeur de nuit (0 h - 5 h), mais les riverains et notamment les populations vivant sous les trajectoires de décollage et d'atterrissage demandent l'examen de mesures permettant la diminution du bruit perçu. A cet égard, un groupe de travail a été constitué en 2012 associant élus, riverains et professionnels, et il a notamment examiné la question évoquée par M. Erwann BINET d'une réduction ou d'une suppression des vols de coeur de nuit entre 0 h et 5 h. Les conclusions de ce groupe de travail sont attendues dans le courant de l'année 2013. Les vols de nuit à Lyon sont principalement des vols cargo en liaison directe avec l'économie de la métropole et notamment du fret postal opéré par EuropAirpost. En début de nuit (avant 1 h du matin), sont également présents des vols réguliers moyen courrier qui terminent leur rotation à Lyon. Le fait de pouvoir arriver à ces horaires constitue un enjeu important pour les compagnies aériennes concernées qui peuvent ainsi réaliser un nombre de rotations adapté à la demande des passagers aériens, d'une part, et permettant une activité suffisante pour assurer l'équilibre financier de leur exploitation, d'autre part. En été, s'ajoutent quelques vols charter, parfois long-courriers, pour lesquels les horaires sont contraints par la destination ou la provenance. La suppression des vols de nuit aurait donc des répercussions négatives tout à la fois sur l'activité économique des entreprises, la viabilité des lignes aériennes implantées localement et les offres de transport pour les voyageurs des territoires.
