@@ -1,0 +1,9 @@
+# Réponse à la question n° 17943
+
+- Question : [17943](17943.md) — Question n° 17943 — revendications
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Les effectifs des psychologues scolaires représentent, en décembre 2012, 3 637 agents (soit 1,1 % des enseignants du premier degré en activité) et sont stables : 3 630 en 2011-2012, 3 665 en 2010-2011. Les psychologues scolaires sont recrutés, dans le premier degré, parmi les instituteurs et les professeurs des écoles titulaires qui détiennent l'un des diplômes permettant de faire usage professionnel du titre de psychologue, notamment le diplôme d'État de psychologie scolaire (DEPS) créé par le décret n° 89-684 du 18 septembre 1989, comme le rappelle la note de service DGESCO A1-1 n° 2012-0022 du 6 février 2012 Les psychologues scolaires jouissent du même niveau de recrutement que les enseignants, c'est-à-dire bac + 5 depuis la réforme dite de la mastérisation. Pour aborder les difficultés particulières rencontrées par les élèves, par exemple dans l'appropriation des connaissances et des savoir-faire, il est préféré que les psychologues scolaires témoignent d'une expérience dans l'enseignement du premier degré avant d'exercer ces fonctions. La création d'un statut les privant de cette expérience n'apparaît ainsi pas nécessairement opportune. Les orientations actuelles en matière de gestion de la fonction publique ne privilégient également pas l'augmentation du nombre de corps de fonctionnaires, à plus forte raison pour de petits effectifs. Cette situation ne remet pas en cause la qualification des psychologues scolaires qui sont recrutés au niveau master (bac + 5) et qui remplissent les conditions pour se prévaloir du titre de psychologue. Elle ne préjuge pas non plus de la possibilité d'évolutions ultérieures sur la visibilité institutionnelle des psychologues scolaires.
