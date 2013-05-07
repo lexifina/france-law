@@ -1,0 +1,9 @@
+# Réponse à la question n° 19631
+
+- Question : [19631](19631.md) — Question n° 19631 — textes d'application; publication
+
+## Réponse
+
+*JO du 2013-05-07*
+
+La loi n° 2011-1843 du 8 décembre 2011 relative aux certificats d'obtention végétale (COV), à travers son article 18, crée pour la première fois une base législative claire dans le code rural et de la pêche maritime pour la conservation des ressources phytogénétiques françaises pour l'agriculture et l'alimentation. Cette base législative constitue un pré-requis indispensable pour l'élaboration et la mise en oeuvre d'un dispositif de conservation des ressources génétiques. Elle permet à la France de répondre à ses engagements internationaux dans le domaine des ressources génétiques, d'une part, et de se prémunir contre la perte irrévocable de ressources présentant un intérêt effectif ou potentiel sur le plan scientifique, en terme de création d'autres variétés ou au plan patrimonial d'autre part. La conservation des ressources génétiques est en effet indispensable pour disposer de sources de variabilité génétique disponibles pour la création des variétés de demain, répondant aux enjeux actuels et à venir de l'agriculture, de l'alimentation et de la protection de l'environnement. La mise en oeuvre d'une politique durable de conservation des ressources génétiques des plantes cultivées doit permettre aux sélectionneurs de diversifier qualitativement l'offre variétale au bénéfice des différents modèles d'agriculture français. Dès lors, il convient d'évaluer avec précision les différentes options envisageables pour la mise en oeuvre de cette politique et son financement. Un rapport sur la question sera prochainement remis par le conseil général de l'agriculture, de l'alimentation et des espaces ruraux aux services du ministère de l'agriculture, de l'agroalimentaire et de la forêt qui pourront sur cette base préparer un projet de décret qui sera soumis à l'avis des acteurs concernés.
