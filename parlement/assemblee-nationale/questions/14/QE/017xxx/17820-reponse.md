@@ -1,0 +1,9 @@
+# Réponse à la question n° 17820
+
+- Question : [17820](17820.md) — Question n° 17820 — travaux forestiers; entreprises privées; normes de sécurité
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Les bûcherons et les ouvriers forestiers du Bas-Rhin, du Haut-Rhin et de la Moselle qui sont recrutés par les communes, les établissements publics de coopération intercommunale et certains établissements publics sont des salariés agricoles exerçant des activités agricoles qui relèvent des dispositions du code rural et de la pêche maritime. Le nouveau statut d'auto-entrepreneur créé par la loi de modernisation de l'économie du 4 août 2008 est ouvert aux personnes soumises au régime fiscal des micro-entreprises qui exercent une activité professionnelle non agricole et qui relèvent à ce titre du régime des travailleurs indépendants, comme prévu par les dispositions de l'article L.133-6-8 du code de la sécurité sociale. Or, les activités de travaux forestiers précisées à l'article L.722-3 du code rural et de la pêche maritime sont des activités entrant dans le champ du régime social des non-salariés agricoles défini à l'article L.722-1 de ce code, et dans celui des salariés agricoles défini à l'article L. 722-20 du même code. Ces activités agricoles ne sont pas au nombre de celles qui ouvrent droit au statut d'auto-entrepreneur. Un bûcheron ou un ouvrier forestier ne peut en conséquence s'installer légalement comme auto-entrepreneur. D'autre part, un salarié, sous réserve de l'appréciation souveraine des tribunaux, est soumis à un devoir de loyauté envers son employeur et ne doit pas, en particulier, entrer en concurrence avec lui. Enfin, pour les opérateurs qui auraient un statut d'agent public, le cumul d'emploi est strictement régi par les règles relatives au cumul d'un emploi public et d'une activité accessoire.
