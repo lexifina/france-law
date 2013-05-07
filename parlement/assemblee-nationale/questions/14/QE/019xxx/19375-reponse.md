@@ -1,0 +1,9 @@
+# Réponse à la question n° 19375
+
+- Question : [19375](19375.md) — Question n° 19375 — vote électronique; dysfonctionnements; bilan et perspectives
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Pour la première fois dans le cadre d'une élection nationale, les Français de l'étranger ont pu voter par internet lors des élections législatives de juin 2012. Proposé en plus de trois autres modalités d'expression du suffrage - le vote à l'urne, le vote par procuration et le vote par correspondance, le vote électronique a été utilisé plus de la moitié des électeurs qui ont voté. Il a aussi rempli toutes les garanties de sécurité qui avaient été définies, sous le contrôle d'auditeurs indépendants pour la phase préalable au scrutin, du bureau de vote électronique pendant le déroulement de celui-ci, et du juge électoral à son issue. En fonction de la configuration de leur poste informatique, certains électeurs ont pu rencontrer des difficultés liées à la mise à jour du logiciel Java, un module informatique nécessaire à la sécurisation du vote. Cette mise à jour (Java version 1.7) a été diffusée peu avant les périodes de vote et n'a pas été autorisée, faute d'un délai suffisant pour mener l'expertise de sécurité. Ces électeurs ont pu contacter une cellule d'assistance qui les a aidés à résoudre cette difficulté ou les a invités à voter depuis un autre poste informatique. Tous les électeurs conservaient également, tant qu'ils n'avaient pas effectivement voté par internet, la possibilité de se rendre à l'urne le jour du scrutin. L'organisation des élections législatives partielles pour la 1re et la 8e circonscription les 25 mai et 8 juin 2013 se fera, ainsi que l'exige la loi, dans les mêmes conditions que celle des élections de 2012. Concernant le vote par internet, le système de vote prévu pour les élections de 2012 sera donc à nouveau utilisé. Une mise à jour concernant la version 1.7 de Java a cependant été effectuée.
