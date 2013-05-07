@@ -1,0 +1,9 @@
+# Réponse à la question n° 13826
+
+- Question : [13826](13826.md) — Question n° 13826 — rapport; propositions
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Si aucun dispositif spécifique de coordination interministérielle n'a accompagné, à l'échelon central, la mise en oeuvre de la loi du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage, les ministères concernés ont collaboré dans le cadre habituel des réunions interministérielles, sous l'arbitrage du cabinet du Premier ministre. A cet égard, les services du ministère de l'intérieur ont travaillé étroitement avec ceux du logement et de la justice au sujet de la mise en place des aires d'accueil et des dispositions relatives à l'évacuation forcée des gens du voyage en stationnement illicite. Cette collaboration s'est illustrée notamment par l'élaboration puis la diffusion conjointe, avec le ministère du logement, de la circulaire du 28 août 2010 relative à la révision des schémas départementaux d'accueil des gens du voyage. L'importance de la coordination régionale, soulignée par le rapport de la Cour des comptes publié en octobre 2012, a été rappelée dans cette dernière circulaire par laquelle il a été demandé aux préfets d'associer pleinement la commission départementale consultative des gens du voyage à la procédure de révision de ces schémas et de s'assurer que sa consultation soit scrupuleusement respectée en fixant la périodicité de ses réunions. Dans le même objectif de coordination des services, les circulaires annuelles relatives à l'organisation des grands passages invitent les préfets à confronter les prévisions de stationnement dont ils disposent avec leurs collègues des départements limitrophes. D'une manière générale, le Gouvernement entend coordonner au mieux la politique menée en matière d'accueil et d'habitat des gens du voyage, par l'implication entière des différents départements ministériels concernés.
