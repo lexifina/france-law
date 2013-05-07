@@ -1,0 +1,9 @@
+# Réponse à la question n° 8605
+
+- Question : [8605](8605.md) — Question n° 8605 — vente en l'état futur d'achèvement; contrats; protection des acquéreurs
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Le contrat de vente en l'état futur d'achèvement est encadré par les articles L. 261-1 et suivants du code de la construction et de l'habitation qui reproduisent, notamment, les articles 1601-1 et suivants du code civil. Dans le cadre d'une vente en l'état futur d'achèvement, l'acquéreur procède à des versements entre les mains du vendeur, au fur et à mesure de l'édification de l'immeuble. En contrepartie, le vendeur a l'obligation de fournir dans le contrat, sous peine de nullité de la vente, une garantie d'achèvement de l'immeuble ou une garantie de remboursement des versements effectués en cas de résolution du contrat à défaut d'achèvement (articles L. 261-11 alinéa 1 et R. 261-17 et suivants du code de la construction et de l'habitation). Toutefois, certaines clauses insérées dans les contrats de vente en état futur d'achèvement apparaissent de nature à retarder de façon excessive la livraison de l'ouvrage, sans que ce retard soit justifié par des intempéries ou tout autre cas de force majeure. La jurisprudence de la Cour de cassation sanctionne les clauses qui ont pour effet de créer au détriment des acquéreurs non professionnels un déséquilibre entre les droits et les obligations des parties au contrat (Cas. civ. 3° 24.10.2012) et les déclare abusives. Des dispositions pénales sont, par ailleurs, prévues par l'article L.263-1 du code précité pour sanctionner le défaut de respect de ses obligations par le vendeur en l'état futur d'achèvement. Par conséquent, les acquéreurs disposent de moyens d'action devant les tribunaux compétents en vue de faire appliquer les garanties prévues par la loi.
