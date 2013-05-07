@@ -1,0 +1,9 @@
+# Réponse à la question n° 20093
+
+- Question : [20093](20093.md) — Question n° 20093 — contractualisation; perspectives
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Dans un contexte d'une plus grande libéralisation des échanges et d'une diminution des outils de gestion de marché au niveau communautaire, il apparaît nécessaire de mettre en oeuvre des outils de stabilisation des marchés pour réduire notamment les effets de la volatilité des prix agricoles. Une des voies de cette stabilisation est le développement des relations contractuelles entre les maillons des filières agricoles. Le dispositif introduit par la loi de modernisation de l'agriculture et de la pêche de 2010 était une première étape dans la définition d'un encadrement des relations contractuelles. En outre, deux décrets publiés en décembre 2010 ont rendu obligatoires les contrats dans les secteurs du lait de vache et des fruits et légumes. Un arrêté du 15 février 2011 rend applicable l'accord interprofessionnel conclu spécifiquement dans le secteur de la viande ovine. Le dispositif d'encadrement de la contractualisation a, par la suite, été consacré dans le droit communautaire au travers du règlement du 14 mars 2012 relatif aux relations contractuelles dans le secteur laitier. Le gouvernement proposera, dans le projet de loi d'avenir agricole en cours de préparation, de nouvelles dispositions législatives et réglementaires afin de promouvoir une contractualisation équilibrée et en faire un outil de régulation de filière. Par ailleurs, les pouvoirs publics encouragent les organisations professionnelles de la filière de la viande bovine à conclure un accord interprofessionnel à l'instar de celui signé dans le secteur ovin. Ils suivent avec attention les démarches des professionnels du secteur du lait de chèvre visant à favoriser l'émergence d'un accord interprofessionnel pour la contractualisation qui permettra un développement équilibré de cette filière.
