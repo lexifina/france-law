@@ -1,0 +1,85 @@
+# Justice : procureur de la République financier
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N30265
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/procureur_Republique_financier
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-691.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-05-07 : 1er dépôt d'une initiative. (PRJLANR5L14B1019)
+  - 2013-05-07 : Etude d'impact (ETDIANR5L14B1019)
+  - 2013-05-07 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-07 : Renvoi en commission au fond
+      - 2013-05-22 : Nomination de rapporteur
+      - 2013-05-22 : Réunion de commission
+      - 2013-05-22 : Réunion de commission
+      - 2013-06-05 : Réunion de commission
+      - 2013-06-05 : Réunion de commission
+      - 2013-06-12 : Réunion de commission
+      - 2013-06-19 : Réunion de commission
+      - 2013-06-12 : Dépôt de rapport (RAPPANR5L14B1131, PRJLANR5L14BTC1131)
+  - Discussion en séance publique
+    - 2013-06-20 : Discussion en séance publique
+    - 2013-06-20 : Discussion en séance publique
+    - 2013-06-20 : Discussion en séance publique
+    - 2013-06-25 : Discussion en séance publique
+    - 2013-06-25 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-06-26 : Dépôt d'une initiative en navette (PRJLSNR5S199B0691)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-26 : Renvoi en commission au fond
+      - 2013-06-05 : Nomination de rapporteur
+      - 2013-07-10 : Dépôt de rapport (RAPPSNR5S199B0738)
+  - Discussion en séance publique
+    - 2013-07-17 : Discussion en séance publique
+    - 2013-07-18 : Discussion en séance publique
+    - 2013-07-18 : Décision
+- Commission Mixte Paritaire
+  - 2013-07-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-07-23 : Nomination de rapporteur
+    - 2013-07-23 : Dépôt du rapport d'une CMP (RAPPANR5L14B1297)
+    - 2013-07-23 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0789)
+  - 2013-07-23 : Décision de la CMP
+- Nouvelle Lecture
+  - 2013-07-19 : Dépôt d'une initiative en navette (PRJLANR5L14B1294)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-19 : Renvoi en commission au fond
+      - 2013-09-11 : Réunion de commission
+      - 2013-09-17 : Réunion de commission
+      - 2013-09-11 : Dépôt de rapport (RAPPANR5L14B1349, PRJLANR5L14BTC1349)
+  - Discussion en séance publique
+    - 2013-09-17 : Discussion en séance publique
+    - 2013-09-17 : Discussion en séance publique
+    - 2013-09-17 : Décision
+- Nouvelle Lecture
+  - 2013-09-18 : Dépôt d'une initiative en navette (PRJLSNR5S199B0854)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-09-18 : Renvoi en commission au fond
+      - 2013-10-02 : Dépôt de rapport (RAPPSNR5S219B0021)
+  - Discussion en séance publique
+    - 2013-10-08 : Discussion en séance publique
+    - 2013-10-08 : Décision
+- Lecture définitive
+  - 2013-10-09 : Dépôt d'une initiative en navette (PRJLANR5L14B1424)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-10-09 : Renvoi en commission au fond
+      - 2013-10-23 : Dépôt de rapport (RAPPANR5L14B1494)
+  - Discussion en séance publique
+    - 2013-10-30 : Discussion en séance publique
+    - 2013-11-05 : Discussion en séance publique
+    - 2013-11-05 : Décision
+- Conseil constitutionnel
+  - 2013-11-06 : Saisine du conseil constitutionnel
+  - 2013-12-04 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2013-12-06 : Promulgation d'une loi
