@@ -1,0 +1,9 @@
+# Réponse à la question n° 17954
+
+- Question : [17954](17954.md) — Question n° 17954 — portugais; perspectives
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Le recrutement des enseignants du second degré s'effectue dans le cadre de concours nationaux dont les volumes sont déterminés annuellement dans le respect des plafonds d'emplois votés en loi de finances. Ces volumes sont déterminés par discipline et par type de concours, en fonction de plusieurs facteurs tels que le nombre de départs en retraite, les prévisions d'effectifs d'élèves et les éventuelles évolutions pédagogiques. Le portugais reste caractérisé par d'importants surnombres disciplinaires, proportionnellement aux effectifs enseignants constatés (15 % en moyenne sur les 3 dernières années scolaires). En effet, plus de 40 % des élèves concernés par l'enseignement du portugais sont localisés dans les départements d'outre-mer et plus particulièrement en Guyane (37 %). Or, l'affectation dans les DOM relève de conditions particulières, les enseignants doivent avoir spécifiquement sollicité les académies concernées dans le cadre des opérations d'affectation (stagiaires et titulaires). Si tel n'est pas le cas, une inadéquation entre les besoins potentiels et la répartition des ressources enseignantes sur le territoire est prévisible, générant un accroissement des sureffectifs disciplinaires. Néanmoins, la mise en oeuvre de la loi n° 2012-347 du 12 mars 2012 relative notamment à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique permettra un recrutement par la voie de concours réservés, offrant ainsi des perspectives de titularisation à celles et ceux qui enseignent déjà le portugais aux élèves dans le cadre d'un contrat. 4 postes sont ainsi proposés pour la session 2013. En outre, dans le cadre de la session exceptionnelle 2014, 2 postes seront proposés à l'ouverture.
