@@ -1,0 +1,9 @@
+# Réponse à la question n° 21649
+
+- Question : [21649](21649.md) — Question n° 21649 — droit de préemption du preneur; vente du fonds; réglementation
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Suite à la deuxième intervention de monsieur le député, il convient de préciser que la formalité imposée par l'article L. 412-8 du code rural et de la pêche maritime est la notification de l'intention de vendre, accompagnée de toutes les modalités de l'opération. Cette notification peut être faite, soit par lettre recommandée avec demande d'avis de réception, soit par acte d'huissier. Il s'agit là d'une mesure qui vise à protéger le locataire en cas de vente du bien affermé. Mais elle ne saurait pour autant donner au preneur le pouvoir, en refusant d'accepter le courrier, de bloquer toute la procédure ou d'obliger le bailleur à recourir à la notification par huissier, en exposant celui-ci à des frais et des délais supplémentaires. Il faut donc considérer que le notaire chargé d'instrumenter a satisfait à l'obligation prévue par l'article L. 412-8 précité dès lors qu'il est établi que la notification a bien été faite par lettre recommandée avec demande d'avis de réception. C'est dans ce sens que la cour de cassation s'est prononcée dans un arrêt n° 11-27500 du 27 novembre 2012 en relevant que « l'article L. 412-8 du code rural et de la pêche maritime laissait au notaire le choix entre deux modes de signification », dont la lettre recommandée avec demande d'avis de réception, et que, une fois cette formalité accomplie, la cour d'appel « n'avait pas à procéder à une recherche relative à la réception effective de la lettre par le preneur ». En cas de refus du destinataire de récupérer son pli, le délai de deux mois au terme duquel le preneur doit faire part de son intention d'exercer son droit de préemption commencera donc à courir à compter de la date du premier avis postal.
