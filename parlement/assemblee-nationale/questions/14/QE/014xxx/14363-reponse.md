@@ -1,0 +1,9 @@
+# Réponse à la question n° 14363
+
+- Question : [14363](14363.md) — Question n° 14363 — travailleurs sociaux; diplômes; perspectives
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Le diplôme d'Etat d'Assistant de service social (ASS), revalorisé à 180 points de crédits européens (ECTS) en août 2011, n'a pas été reconnu au niveau licence et demeure homologué au niveau III (bac +2). Ce principe, validé par l'ensemble des ministères lors de la revalorisation statutaire du corps des ASS, entrée en vigueur en septembre 2012, n'est pas actuellement remis en cause. La refonte du corps des ASS et, parallèlement, du corps des conseillers techniques de service social (CTSS), corps de débouché des ASS, en deux corps interministériels à gestion ministérielle (CIGEM) s'est inscrite dans une revalorisation des carrières. Un décret a, par ailleurs, créé l'emploi de conseiller pour l'action sociale des administrations de l'Etat. Le décret n° 2012-1098 du 28 septembre 2012 régit le nouveau corps interministériel des ASS des administrations de l'Etat, classé en catégorie B, dans le cadre du nouvel espace statutaire (NES) de cette catégorie. L'indice brut (IB) sommital du corps a été relevé, ainsi que pour l'ensemble des corps du NES, à l'IB 675 (au lieu de 638 antérieurement). Ce corps reste accessible par voie de concours sur titre (externe et interne) aux candidats justifiant du diplôme d'Etat d'ASS ou d'un titre de formation dans les conditions fixées par le code de l'action sociale et des familles. Le corps interministériel des CTSS des administrations de l'Etat, régi par le décret n° 2012-1099 du 28 septembre 2012, et classé en catégorie A, bénéficie d'un IB sommital de 730 (au lieu de 660 auparavant), pour tenir compte du relèvement du plafond indiciaire du corps des ASS des administrations de l'Etat. Ce plafond correspond à celui des corps d'infirmiers de la Fonction Publique Hospitalière ou de l'Etat. Ces deux corps ont donc bénéficié chacun d'une revalorisation.
