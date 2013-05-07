@@ -1,0 +1,9 @@
+# Réponse à la question n° 15749
+
+- Question : [15749](15749.md) — Question n° 15749 — préférence communautaire; perspectives
+
+## Réponse
+
+*JO du 2013-05-07*
+
+La préférence communautaire est un principe politique fondateur de la Communauté européenne, et plus particulièrement de la politique agricole commune. Ce principe politique fondamental demeure une préoccupation centrale dans les négociations commerciales internationales que mène l'Union européenne. Ainsi, à l'exception du système des préférences généralisées réservé aux pays en développement qui en ont le plus besoin, les droits de douane agricoles ne sont révisés que sous condition de réciprocité, tout en maintenant des contingents pour les secteurs les plus sensibles ou des mécanismes spécifiques, tels que le système de prix d'entrée pour le secteur des fruits et légumes. Cette attention particulière portée au secteur agricole permet de faire de la préférence communautaire, aujourd'hui encore, une réalité d'un point de vue économique : dans l'ensemble des échanges commerciaux internationaux, les flux du commerce agricole strictement internes à l'Union européenne représentent toujours une part prédominante. Conscient des disparités observées entre les filières, le ministre en charge de l'agriculture a présenté un plan de relance exceptionnel pour l'élevage lors du conseil des ministres du 6 mars 2013, qui prévoit de : - renforcer les mesures d'encadrement des relations commerciales et contractuelles ; - réorienter la politique agricole commune au profit de l'élevage ; - concilier la performance économique des activités agricoles avec le respect des exigences environnementales fixées dans la réglementation communautaire ; - développer la production d'énergies renouvelables pour créer des synergies avec les activités d'élevage ; - soutenir les éleveurs dont la situation financière est fragile.
