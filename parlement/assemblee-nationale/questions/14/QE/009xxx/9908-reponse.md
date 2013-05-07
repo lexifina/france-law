@@ -1,0 +1,9 @@
+# Réponse à la question n° 9908
+
+- Question : [9908](9908.md) — Question n° 9908 — moyens; conseil d'analyse de la société
+
+## Réponse
+
+*JO du 2013-05-07*
+
+Créé en 2004, le Conseil d'analyse de la société, placé auprès du Premier ministre, a pour mission d'éclairer les choix politiques du Gouvernement, par l'analyse et la confrontation des points de vue, lorsque les décisions à prendre présentent des enjeux liés à des faits de société. Le conseil examine les questions qui lui sont soumises par le Premier ministre ainsi que celles dont il juge utile de se saisir. Il est composé de personnalités choisies en raison de leur compétence, qui sont nommées par arrêté du Premier ministre pour un mandat de cinq ans renouvelable (Décret n° 2004-666 du 8 juillet 2004 portant création du Conseil d'analyse de la société). Le montant prévisionnel des dépenses de fonctionnement du CAS s'élève à 84 432 euros pour l'année 2012. Ce montant inclut un loyer budgétaire de 34 056 euros. Le CAS est composé d'un président délégué (catégorie A+) et de trois agents (un A+ et 2 A) mis à disposition par le ministère de l'Education nationale. Le montant prévisionnel des indemnités versées à ces quatre agents est évalué à 72 126 euros pour l'année 2012. Suivant une proposition du rapport de Mme Yannick Moreau, « Pour un commissariat général à la stratégie et à la prospective », le Premier ministre a décidé la suppression du Conseil d'analyse de la société dont la capacité d'expertise sera absorbée par le Commissariat général à la stratégie et à la prospective qui a été créé par le décret n° 2013-333 du 22 avril 2013 portant création du Commissariat général à la stratégie et à la prospective. Le rapport considérait en effet, sans mettre en cause la qualité de la production de cette instance, que son hétérogénéité ne justifiait pas son maintien dans le cadre de la mise en place d'une capacité d'expertise rénovée.
