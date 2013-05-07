@@ -1,0 +1,9 @@
+# Réponse à la question n° 18598
+
+- Question : [18598](18598.md) — Question n° 18598 — origine des produits
+
+## Réponse
+
+*JO du 2013-05-07*
+
+En 2010, les industries agroalimentaires comptaient environ 415 000 salariés pour 147 milliards d'euros de chiffre d'affaires (hors artisanat commercial). Il s'agit du premier employeur industriel en France. L'industrie des viandes représente plus d'un quart des emplois. La préservation de ces emplois ainsi que du savoir faire français, dont le repas gastronomique a été labellisé par l'UNESCO pour la sauvegarde du patrimoine immatériel de l'humanité, est une priorité pour l'Etat. Les récents évènements qui ont secoué la filière de la viande ont montré l'importance de la traçabilité des produits. Dans le cadre du conseil national de l'industrie, le secteur agro-alimentaire a été désigné comme une des treize filières stratégiques pour la France. Au sein du comité stratégique qui lui est dédié, la question de l'attractivité et de la pérennité des emplois sur le territoire ainsi que de la traçabilité et des labels de qualité occupe une place majeure. Les pouvoirs publics sont mobilisés aux côtés des professionnels afin de renforcer l'attractivité du territoire et de valoriser les circuits courts. La mise en place des rencontres régionales pour l'avenir de l'agroalimentaire et des référents « industries agroalimentaires » dans chaque région (en Direccte ou en Draaf) permet d'alimenter les réflexions et de renforcer l'accompagnement et la visibilité des entreprises françaises. Elles donneront lieu à un contrat de filière dans les prochaines semaines. Par ailleurs, dans le cadre du fonds unique interministériel et du programme investissements d'avenir, le ministère du redressement productif soutient les projets de recherche, d'innovation et d'industrialisation des sociétés afin de renforcer leur compétitivité et leur ancrage sur le territoire national.
