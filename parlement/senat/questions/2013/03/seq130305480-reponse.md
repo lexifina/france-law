@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305480
+
+- Question : [SEQ130305480](seq130305480.md) — Couverture du territoire en téléphonie mobile et ADSL
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2013-05-09, page 1504*
+
+Le président de la République a récemment rappelé sa volonté de faire du haut et très haut débit une priorité pour notre pays. Ainsi d'ici 10 ans, chacun devrait pouvoir disposer d'un accès internet à très haut débit. Pour atteindre ces objectifs ambitieux, le Gouvernement a élaboré une stratégie nationale de déploiement du très haut débit en concertation avec l'ensemble des acteurs concernés. Fondée sur le principe d'une action conjointe des opérateurs privés et du secteur public, cette stratégie s'appuie localement sur l'action des collectivités territoriales compétentes en matière d'aménagement numérique. Elle sera dotée de 3 milliards d'euros sur 10 ans, qui seront mis à disposition des collectivités par l'État sous forme de subventions. Par ailleurs, cette stratégie renforce la péréquation vis-à-vis des territoires ruraux, afin qu'ils puissent engager le chantier du très haut débit dans les mêmes délais que les territoires les plus denses. Le taux de subvention sera jusqu'à deux fois supérieur dans certains départements ruraux par rapport aux territoires denses. Dans les faits, la majorité des départements ont, comme l'Aisne, réalisé des schémas directeurs territoriaux d'aménagement numérique (SDTAN). Ces documents ont pour objectif de recenser les infrastructures déployées et de fixer une stratégie de développement pour les territoires qui ne feraient pas l'objet d'une intention d'investissement de la part d'un opérateur privé. En conséquence, il est nécessaire de se rapprocher du chargé de mission technologie de l'information et de la communication auprès du SGAR Picardie, et du Conseil général de l'Aisne, porteur du SDTAN.
