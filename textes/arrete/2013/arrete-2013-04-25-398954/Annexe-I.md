@@ -1,0 +1,1215 @@
+# Article Annexe I
+
+.
+
+NOM DU NAVIRE
+
+|
+
+QUARTIER D'IMMATRICULATION
+
+|
+
+NUMÉRO D'IMMATRICULATION
+
+|
+
+ABD'EL MOUSSA
+
+|
+
+ARCACHON
+
+|
+
+AC 645222
+
+|
+
+ALLELUIA
+
+|
+
+TOULON
+
+|
+
+TL 230406
+
+|
+
+AMPHITRITE
+
+|
+
+NANTES
+
+|
+
+NA D26337
+
+|
+
+AR GOELL
+
+|
+
+SAINT-MALO
+
+|
+
+SM 497390
+
+|
+
+AU BONHEUR DES DAMES
+
+|
+
+LES SABLES-D'OLONNE
+
+|
+
+LS 193379
+
+|
+
+AVEL MOR
+
+|
+
+LORIENT
+
+|
+
+LO 780179
+
+|
+
+AXEL II
+
+|
+
+MARSEILLE
+
+|
+
+MA 142485
+
+|
+
+BEPPINA
+
+|
+
+MARSEILLE
+
+|
+
+MA 308355
+
+|
+
+BETELGEUSE
+
+|
+
+VANNES
+
+|
+
+VA 745763
+
+|
+
+BICHON
+
+|
+
+PORT-VENDRES
+
+|
+
+PV 746166
+
+|
+
+BINGA
+
+|
+
+NOIRMOUTIER
+
+|
+
+NO 427423
+
+|
+
+BIR HAKEIM
+
+|
+
+SÈTE
+
+|
+
+ST 310468
+
+|
+
+CALLISTO
+
+|
+
+NANTES
+
+|
+
+NA E28399
+
+|
+
+CALOU
+
+|
+
+TOULON
+
+|
+
+TL 879913
+
+|
+
+CAMISARD
+
+|
+
+PORT-VENDRES
+
+|
+
+PV 110820
+
+|
+
+CAMPILLO MANUEL
+
+|
+
+LORIENT
+
+|
+
+LO 310656
+
+|
+
+CANASTEL
+
+|
+
+TOULON
+
+|
+
+TL 326414
+
+|
+
+DIAOULIC
+
+|
+
+LORIENT
+
+|
+
+LO 766905
+
+|
+
+DIOGENE II
+
+|
+
+TOULON
+
+|
+
+TL 326341
+
+|
+
+EMILIE JOLIE
+
+|
+
+TOULON
+
+|
+
+TL 335133
+
+|
+
+ENEZ KOALEN
+
+|
+
+SAINT-BRIEUC
+
+|
+
+SB 721659
+
+|
+
+EOS 2
+
+|
+
+MARTIGUES
+
+|
+
+MT 800920
+
+|
+
+ESPADON
+
+|
+
+TOULON
+
+|
+
+TL 185711
+
+|
+
+ESPADON
+
+|
+
+MARSEILLE
+
+|
+
+MA 304102
+
+|
+
+ESTERELLO
+
+|
+
+TOULON
+
+|
+
+TL 249244
+
+|
+
+ESTUAIRE
+
+|
+
+NANTES
+
+|
+
+NA D48669
+
+|
+
+ETOILE VERTE III
+
+|
+
+NANTES
+
+|
+
+NA 293184
+
+|
+
+EUROPE
+
+|
+
+SÈTE
+
+|
+
+ST 139855
+
+|
+
+FOCH
+
+|
+
+SAINT-MALO
+
+|
+
+SM 296578
+
+|
+
+FORTUNE
+
+|
+
+TOULON
+
+|
+
+TL 247055
+
+|
+
+GALATEE
+
+|
+
+VANNES
+
+|
+
+VA 152937
+
+|
+
+GOEDE VERWACHTING
+
+|
+
+SAINT-MALO
+
+|
+
+SM E27385
+
+|
+
+GOELAND
+
+|
+
+TOULON
+
+|
+
+TL 247529
+
+|
+
+GROS GRAINS
+
+|
+
+BORDEAUX
+
+|
+
+BX 567135
+
+|
+
+GWALARN
+
+|
+
+NANTES
+
+|
+
+NA 193 273
+
+|
+
+HOOP OP
+
+|
+
+SAINT-MALO
+
+|
+
+SM 911014
+
+|
+
+ISMANA
+
+|
+
+LE GUILVINEC
+
+|
+
+GV 807117
+
+|
+
+JEAN ET JEANNE
+
+|
+
+VANNES
+
+|
+
+VA 760187
+
+|
+
+JOLIE BRISE
+
+|
+
+CAEN
+
+|
+
+CN 296836
+
+|
+
+JUST PURE
+
+|
+
+AURAY
+
+|
+
+AY D12253
+
+|
+
+KALIOPI
+
+|
+
+TOULON
+
+|
+
+TL 509065
+
+|
+
+KERMOR
+
+|
+
+SAINT-BRIEUC
+
+|
+
+SB 219727
+
+|
+
+KORRIGANEZ
+
+|
+
+LORIENT
+
+|
+
+LO E41203
+
+|
+
+KYOSTOS
+
+|
+
+TOULON
+
+|
+
+TL D21069
+
+|
+
+L'AVENTURIERE
+
+|
+
+MARSEILLE
+
+|
+
+MA 170526
+
+|
+
+LA DAME JEANNE
+
+|
+
+BORDEAUX
+
+|
+
+BX 001873 F
+
+|
+
+LA FEE DU TRAON
+
+|
+
+AURAY
+
+|
+
+AY E48342
+
+|
+
+LA GALERE
+
+|
+
+TOULON
+
+|
+
+TL 172436
+
+|
+
+LE KAS ABARH
+
+|
+
+AURAY
+
+|
+
+AY 491654
+
+|
+
+LORIOT
+
+|
+
+LE GUILVINEC
+
+|
+
+GV 302539
+
+|
+
+LOU RESCATOR
+
+|
+
+TOULON
+
+|
+
+TL 362772
+
+|
+
+LOULOU
+
+|
+
+TOULON
+
+|
+
+TL 856068
+
+|
+
+LOULOU
+
+|
+
+LES SABLES-D'OLONNE
+
+|
+
+LS 421935
+
+|
+
+MAB ER GUIP
+
+|
+
+VANNES
+
+|
+
+VA 688068
+
+|
+
+MAMY
+
+|
+
+TOULON
+
+|
+
+TL 380197
+
+|
+
+MANON
+
+|
+
+TOULON
+
+|
+
+TL 700264
+
+|
+
+MARIA-GILBERTE
+
+|
+
+ILE D'YEU
+
+|
+
+YE 192785
+
+|
+
+MARIOUNE
+
+|
+
+MARSEILLE
+
+|
+
+MA 433289
+
+|
+
+MEN GUENN
+
+|
+
+PAIMPOL
+
+|
+
+PL 340311
+
+|
+
+MIDSHIP
+
+|
+
+DOUARNENEZ
+
+|
+
+DZ E29977
+
+|
+
+MS BLUE BERRY
+
+|
+
+PARIS
+
+|
+
+P 015576 F
+
+|
+
+NAIADE
+
+|
+
+VANNES
+
+|
+
+VA 643110
+
+|
+
+NEREE IV
+
+|
+
+SAINT-NAZAIRE
+
+|
+
+SN 409469
+
+|
+
+NORMANDIE
+
+|
+
+NANTES
+
+|
+
+NA 449259
+
+|
+
+NOTRE DAME DE STORA II
+
+|
+
+TOULON
+
+|
+
+TL 247500
+
+|
+
+OCTOPUS
+
+|
+
+NANTES
+
+|
+
+NA C59739
+
+|
+
+OISEAU DE FEU
+
+|
+
+AURAY
+
+|
+
+AY 219472
+
+|
+
+OLRIK 3
+
+|
+
+NICE
+
+|
+
+NI 229890
+
+|
+
+ORTEGAL
+
+|
+
+BREST
+
+|
+
+BR B97783
+
+|
+
+PALYNODIE II
+
+|
+
+SAINT-MALO
+
+|
+
+SM 263840
+
+|
+
+PAPINO
+
+|
+
+MARSEILLE
+
+|
+
+MA 360780
+
+|
+
+PATACHON
+
+|
+
+LA ROCHELLE
+
+|
+
+LR 190505
+
+|
+
+PATRON EMILE DANIEL
+
+|
+
+LORIENT
+
+|
+
+LO 445408
+
+|
+
+PATRON FRANCOIS HERVIS
+
+|
+
+CONCARNEAU
+
+|
+
+CC 544910
+
+|
+
+PENELOPE
+
+|
+
+SÈTE
+
+|
+
+ST 402509
+
+|
+
+PHOENIX
+
+|
+
+TOULON
+
+|
+
+TL 483502
+
+|
+
+PONANT
+
+|
+
+MARSEILLE
+
+|
+
+MA 568223
+
+|
+
+QUO VADIS II
+
+|
+
+TOULON
+
+|
+
+TL 224250
+
+|
+
+REDER MOR
+
+|
+
+MORLAIX
+
+|
+
+MX 842857
+
+|
+
+REGALADE
+
+|
+
+BAYONNE
+
+|
+
+BA B23249
+
+|
+
+REINE DE CORDEMAIS
+
+|
+
+NANTES
+
+|
+
+NA 867874
+
+|
+
+RIGOLO
+
+|
+
+CONCARNEAU
+
+|
+
+CC 791479
+
+|
+
+SAN NARI
+
+|
+
+TOULON
+
+|
+
+TL 233851
+
+|
+
+SANS ATOUT
+
+|
+
+TOULON
+
+|
+
+TL 587196
+
+|
+
+SANT TROUPES
+
+|
+
+TOULON
+
+|
+
+TL E47971
+
+|
+
+SANT VORAN
+
+|
+
+LE GUILVINEC
+
+|
+
+GV C57722
+
+|
+
+SAPHO
+
+|
+
+TOULON
+
+|
+
+TL 380192
+
+|
+
+SARA
+
+|
+
+MARTIGUES
+
+|
+
+MT 352639
+
+|
+
+SAVOIE 513
+
+|
+
+LYON
+
+|
+
+LY 002076 F
+
+|
+
+SCORPION III
+
+|
+
+MARSEILLE
+
+|
+
+MA 369639
+
+|
+
+SHENANDOAH
+
+|
+
+PORT-VENDRES
+
+|
+
+PV 788272
+
+|
+
+SKIVIDEN II
+
+|
+
+NANTES
+
+|
+
+NA799989
+
+|
+
+TAORA
+
+|
+
+NOIRMOUTIER
+
+|
+
+NO 281186
+
+|
+
+THETIS
+
+|
+
+NANTES
+
+|
+
+NA D22265
+
+|
+
+TOBAGO
+
+|
+
+SAINT-NAZAIRE
+
+|
+
+SN D42457
+
+|
+
+TOLL AVEL
+
+|
+
+PAIMPOL
+
+|
+
+PL 333878
+
+|
+
+VEGA 2
+
+|
+
+LORIENT
+
+|
+
+LO 469544
+
+|
+
+VENERANDA
+
+|
+
+PARIS
+
+|
+
+P 016235 F
+
+|
+
+VIKING
+
+|
+
+TOULON
+
+|
+
+TL 289633
+
+|
+
+XENUS
+
+|
+
+VANNES
+
+|
+
+VA882794
+
+|

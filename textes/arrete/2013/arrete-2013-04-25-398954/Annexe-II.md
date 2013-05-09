@@ -1,0 +1,1203 @@
+# Article Annexe II
+
+.
+
+NOM DU NAVIRE
+
+|
+
+QUARTIER D'IMMATRICULATION
+
+|
+
+NUMÉRO D'IMMATRICULATION
+
+|
+
+ANDRE JEAN
+
+|
+
+MARSEILLE
+
+|
+
+MA 308 153
+
+|
+
+ATALANTE
+
+|
+
+NICE
+
+|
+
+NI B12 386
+
+|
+
+AVEN
+
+|
+
+CONCARNEAU
+
+|
+
+CC 683 752
+
+|
+
+BEG HIR
+
+|
+
+AURAY
+
+|
+
+AY 176 132
+
+|
+
+BELLE DE VILAINE
+
+|
+
+VANNES
+
+|
+
+VA 847 315
+
+|
+
+LA BELLE ANGELE
+
+|
+
+CONCARNEAU
+
+|
+
+CC 791 463
+
+|
+
+BELOTE ET RE
+
+|
+
+LES SABLES-D'OLONNE
+
+|
+
+LS 266 518
+
+|
+
+BILFOT
+
+|
+
+PAIMPOL
+
+|
+
+PL 558 160
+
+|
+
+BRISEIS
+
+|
+
+MARSEILLE
+
+|
+
+MA 225 053
+
+|
+
+BROKOA
+
+|
+
+BAYONNE
+
+|
+
+BA 801 528
+
+|
+
+CALA
+
+|
+
+PORT-VENDRES
+
+|
+
+PV 405 500
+
+|
+
+CAPITAINE DE FREGATE LEVERGER
+
+|
+
+LA ROCHELLE
+
+|
+
+LR 453 218
+
+|
+
+CAP SIZUN
+
+|
+
+AUDIERNE
+
+|
+
+AD 815 541
+
+|
+
+CHANTALAUBE
+
+|
+
+LA ROCHELLE
+
+|
+
+LR 514 090
+
+|
+
+CIOTADEN
+
+|
+
+MARSEILLE
+
+|
+
+MA 814 386
+
+|
+
+COPPELIA
+
+|
+
+MARENNES
+
+|
+
+MN 312 649
+
+|
+
+CORENTIN
+
+|
+
+LE GUILVINEC
+
+|
+
+GV 730 801
+
+|
+
+CORSEN
+
+|
+
+SAINT-MALO
+
+|
+
+SM 402 856
+
+|
+
+ESPERANCE 1881
+
+|
+
+NICE
+
+|
+
+NI 457 065
+
+|
+
+DOULIBRE
+
+|
+
+CANNES
+
+|
+
+NI 576 462
+
+|
+
+HOM SONG
+
+|
+
+PORT-VENDRES
+
+|
+
+PV 130 201
+
+|
+
+ESCARMOUCHE
+
+|
+
+MARSEILLE
+
+|
+
+MA 296 993
+
+|
+
+ESQUIROL II
+
+|
+
+BORDEAUX
+
+|
+
+BX 618 071
+
+|
+
+ETOILE DE FRANCE
+
+|
+
+SAINT-MALO
+
+|
+
+SM D43 169
+
+|
+
+FACE AU VENT
+
+|
+
+DOUARNENEZ
+
+|
+
+DZ 184 967
+
+|
+
+FIRUZ
+
+|
+
+TOULON
+
+|
+
+TL 831 563
+
+|
+
+FRANIC II
+
+|
+
+SAINT-BRIEUC
+
+|
+
+SB 221 079
+
+|
+
+GRAIN D'AILE
+
+|
+
+LA ROCHELLE
+
+|
+
+LR 611 794
+
+|
+
+GRAND NORVEN
+
+|
+
+SAINT-NAZAIRE
+
+|
+
+SN 840 147
+
+|
+
+HISPANIA IV
+
+|
+
+AURAY
+
+|
+
+AY 190 739
+
+|
+
+IRENE VIII
+
+|
+
+NICE
+
+|
+
+NI D14 081
+
+|
+
+JACK
+
+|
+
+DOUARNENEZ
+
+|
+
+DZ 231 912
+
+|
+
+JOSHUA
+
+|
+
+LA ROCHELLE
+
+|
+
+LR 814 824
+
+|
+
+JUST RAYONA
+
+|
+
+AURAY
+
+|
+
+AY D12 298
+
+|
+
+KANEVEDEN
+
+|
+
+SAINT-MALO
+
+|
+
+SM 385 735
+
+|
+
+KAP KAVAL
+
+|
+
+LE GUILVINEC
+
+|
+
+GV D37 342
+
+|
+
+KRAKEN II
+
+|
+
+VANNES
+
+|
+
+VA 201 165
+
+|
+
+KROG E BARZ
+
+|
+
+PAIMPOL
+
+|
+
+PL 798 799
+
+|
+
+LA BONNE MERE
+
+|
+
+MARSEILLE
+
+|
+
+MA 246 903
+
+|
+
+LA FLANEUSE
+
+|
+
+MARSEILLE
+
+|
+
+MA 850 660
+
+|
+
+LA LAGARDE
+
+|
+
+MARSEILLE
+
+|
+
+MA 172 018
+
+|
+
+LA MOUETTE RIEUSE
+
+|
+
+VANNES
+
+|
+
+VA 417 450
+
+|
+
+LA NEBULEUSE
+
+|
+
+CAMARET
+
+|
+
+CM 231 613
+
+|
+
+LA TRAPANELLE
+
+|
+
+SÈTE
+
+|
+
+ST 214 042
+
+|
+
+LADY MAUD
+
+|
+
+AURAY
+
+|
+
+AY 846 195
+
+|
+
+LADY TRIX
+
+|
+
+VANNES
+
+|
+
+VA D11 866
+
+|
+
+L'ANGELUS
+
+|
+
+CHERBOURG
+
+|
+
+CH 296 849
+
+|
+
+LE DON DU VENT
+
+|
+
+MARSEILLE
+
+|
+
+MA 328 969
+
+|
+
+LE DUPERRE
+
+|
+
+LA ROCHELLE
+
+|
+
+LR A53 687
+
+|
+
+LE GRAND LEJON
+
+|
+
+SAINT-BRIEUC
+
+|
+
+SB 818 116
+
+|
+
+LE MANCHOT
+
+|
+
+TOULON
+
+|
+
+TL B53 738
+
+|
+
+L'ELEGANTE
+
+|
+
+ARCACHON
+
+|
+
+AC 322 500
+
+|
+
+L'ESPERANCE
+
+|
+
+SÈTE
+
+|
+
+ST 299 699
+
+|
+
+LIBERTE
+
+|
+
+TOULON
+
+|
+
+TL 326 051
+
+|
+
+LULU (1)
+
+|
+
+CAMARET
+
+|
+
+CM 803 093
+
+|
+
+LULU (2)
+
+|
+
+MARSEILLE
+
+|
+
+MA 439 250
+
+|
+
+MADELYNN
+
+|
+
+AURAY
+
+|
+
+AY 847 740
+
+|
+
+MARTHE-AUGUSTE
+
+|
+
+MARSEILLE
+
+|
+
+MA 134 425
+
+|
+
+MONE
+
+|
+
+SAINT-MALO
+
+|
+
+SNM 152 281
+
+|
+
+MONTE CRISTO
+
+|
+
+MARSEILLE
+
+|
+
+MA 308 207
+
+|
+
+MOWGLI
+
+|
+
+LE HAVRE
+
+|
+
+LH 425 694
+
+|
+
+NAGAÏNA
+
+|
+
+TOULON
+
+|
+
+TL 728 049
+
+|
+
+NOTRE DAME DES VOCATIONS
+
+|
+
+DOUARNENEZ
+
+|
+
+DZ 279 030
+
+|
+
+OBOCK
+
+|
+
+TOULON
+
+|
+
+TL 653 803
+
+|
+
+OTAHA
+
+|
+
+NANTES
+
+|
+
+NA 136 964
+
+|
+
+PATRON LEON AVRON
+
+|
+
+BOULOGNE-SUR-MER
+
+|
+
+BL C49 734
+
+|
+
+PEN-DUICK II
+
+|
+
+AURAY
+
+|
+
+AY 893 437
+
+|
+
+PEN-DUICK
+
+|
+
+LORIENT
+
+|
+
+LO D30 190
+
+|
+
+PEN-DUICK III
+
+|
+
+TOULON
+
+|
+
+TL 193 815
+
+|
+
+PEN-DUICK VI
+
+|
+
+SAINT-MALO
+
+|
+
+SM 157 491
+
+|
+
+PETITE LANDE
+
+|
+
+LA ROCHELLE
+
+|
+
+LR 849 383
+
+|
+
+PHEBUS
+
+|
+
+NICE
+
+|
+
+NI 526 249
+
+|
+
+PINCO
+
+|
+
+SAINT-BRIEUC
+
+|
+
+SB 778 124
+
+|
+
+PUCK
+
+|
+
+AURAY
+
+|
+
+AY D40 006
+
+|
+
+RAIS DE MANDRAGO
+
+|
+
+TOULON
+
+|
+
+TL B99 878
+
+|
+
+RED AR MOR
+
+|
+
+DOUARNENEZ
+
+|
+
+DZ 184571
+
+|
+
+LISIEUX
+
+|
+
+SÈTE
+
+|
+
+ST 161 921
+
+|
+
+SAINT-GILLES
+
+|
+
+LA ROCHELLE
+
+|
+
+LR 316 130
+
+|
+
+SANT EFFLAM
+
+|
+
+DOUARNENEZ
+
+|
+
+DZ A12 631
+
+|
+
+SAPHO
+
+|
+
+MARSEILLE
+
+|
+
+MA 479 754
+
+|
+
+SINBAD
+
+|
+
+LA ROCHELLE
+
+|
+
+LR B58 648
+
+|
+
+SKAL
+
+|
+
+AUDIERNE
+
+|
+
+AD D20 080
+
+|
+
+SKOIERN
+
+|
+
+MARSEILLE
+
+|
+
+MA 165 241
+
+|
+
+SLOCUM
+
+|
+
+CHERBOURG
+
+|
+
+CH 284 735
+
+|
+
+SOCRATE
+
+|
+
+PORT-VENDRES
+
+|
+
+PV 381 128
+
+|
+
+STEMAEL IV
+
+|
+
+MARSEILLE
+
+|
+
+MA 264464
+
+|
+
+STEPHANIE
+
+|
+
+MARSEILLE
+
+|
+
+MA 307 979
+
+|
+
+STEREDEN
+
+|
+
+MARSEILLE
+
+|
+
+MA 771 577
+
+|
+
+STIREN
+
+|
+
+VANNES
+
+|
+
+VA 560 426
+
+|
+
+TIRE D'AILE
+
+|
+
+CAEN
+
+|
+
+CN 332 048
+
+|
+
+TRAMONTANE DE CAVALAIRE
+
+|
+
+TOULON
+
+|
+
+TL 326 318
+
+|
+
+TRESCADEC
+
+|
+
+LE GUILVINEC
+
+|
+
+GV 405 809
+
+|
+
+UFANA
+
+|
+
+PORT-VENDRES
+
+|
+
+PV 315 136
+
+|
+
+VELATINA
+
+|
+
+PORT-VENDRES
+
+|
+
+PV 374 052
+
+|
+
+VERT GALANT
+
+|
+
+NOIRMOUTIER
+
+|
+
+NO 340 155
+
+|
+
+VIOLA
+
+|
+
+ILE D'YEU
+
+|
+
+YE 798 957
+
+|
+
+WINDHOVER
+
+|
+
+TOULON
+
+|
+
+TL 699 855
+
+|
+
+WINDJAMMER
+
+|
+
+CONCARNEAU
+
+|
+
+CC 291 790
+
+|
+
+YVON SALAUN
+
+|
+
+MORLAIX
+
+|
+
+MX 442 486
+
+|
