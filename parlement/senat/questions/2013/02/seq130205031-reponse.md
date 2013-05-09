@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130205031
+
+- Question : [SEQ130205031](seq130205031.md) — Délibération en vue de la création d'une régie communale
+
+## Réponse
+
+*Intérieur, JO du 2013-05-09, page 1505*
+
+Les collectivités territoriales, leurs établissements publics, les établissements publics de coopération intercommunale ou les syndicats mixtes sont compétents pour exploiter directement leurs services publics industriels et commerciaux ou administratifs dans les conditions prévues aux articles L. 1412-1, L. 1412-2 et L. 2221-1 et suivants du code général des collectivités territoriales. Ainsi, préalablement à toute délibération de la collectivité territoriale portant création de la régie, il est nécessaire de procéder à la consultation préalable de la commission consultative des services publics locaux, prévue à l'article L. 1413-1 du même code. La création de la régie obéit ensuite aux règles édictées à l'article R. 2221-1 du même code, qui précise que « la délibération par laquelle le conseil municipal décide de la création d'une régie dotée de la personnalité morale et de l'autonomie financière ou d'une régie dotée de la seule autonomie financière fixe les statuts et le montant de la dotation initiale de la régie ». Conformément à la lecture de cet article et quel que soit le type de régie, une seule et unique délibération est donc nécessaire pour : - procéder à la création de la régie. A cette occasion, la délibération précise quel service de la collectivité sera exploité par le biais d'une régie ; - fixer les statuts et le montant de la dotation initiale de la régie. Par conséquent, l'organisation administrative et financière de la régie figure au sein des statuts. Il convient d'ailleurs de préciser que la nature même de la régie (qu'elle soit dotée de la personnalité morale ou non) conditionne son organisation administrative et financière.
