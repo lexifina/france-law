@@ -1,14 +1,20 @@
 # Article Annexe
 
-LISTE DES LABORATOIRES NATIONAUX DE RÉFÉRENCE PRÉSENTÉE PAR DOMAINE DE COMPÉTENCE
+LISTE DES LABORATOIRES NATIONAUX
 
-Contaminants biologiques présents dans les denrées alimentaires
+DE RÉFÉRENCE PRÉSENTÉE PAR DOMAINE DE COMPÉTENCE
+
+Contaminants biologiques présents
+
+dans les denrées alimentaires
 
 DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -24,7 +30,7 @@ Campylobacter spp.
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -48,7 +54,9 @@ Escherichia coli, y compris E. coli vérotoxinogènes (VTEC)
 
 |
 
-VET AGRO SUP - Campus vétérinaire de Lyon, laboratoire d'études des micro-organismes alimentaires pathogènes (LMAP) - Marcy-l'Etoile
+VET AGRO SUP - Campus vétérinaire de Lyon
+
+Laboratoire d'études des micro-organismes alimentaires pathogènes (LMAP) - Marcy-l'Etoile
 
 |
 
@@ -76,7 +84,7 @@ ANSES - Laboratoire de sécurité des aliments de Maisons-Alfort
 
 |
 
-Mycotoxines (groupe B3d selon l'annexe I de la directive 96/23/CE du Conseil) dans les denrées d'origine animale
+Mycotoxines (groupe B3d selon l'annexe I de la directive 96/23/ CE du Conseil) dans les denrées d'origine animale
 
 |
 
@@ -112,7 +120,7 @@ Salmonella spp.
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -138,7 +146,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -182,7 +192,9 @@ Service commun des laboratoires - Laboratoire de Bordeaux-Pessac
 
 |
 
-Eléments traces métalliques dans les denrées alimentaires d'origine animale (groupe B3c selon l'annexe I de la directive 96/23/CE du Conseil)
+Eléments traces métalliques dans les denrées alimentaires
+
+d'origine animale (groupe B3c selon l'annexe I de la directive 96/23/ CE du Conseil)
 
 |
 
@@ -190,7 +202,9 @@ ANSES - Laboratoire de sécurité des aliments de Maisons-Alfort
 
 |
 
-Eléments traces métalliques dans les denrées alimentaires d'origine végétale et les aliments pour animaux
+Eléments traces métalliques dans les denrées alimentaires
+
+d'origine végétale et les aliments pour animaux
 
 |
 
@@ -198,7 +212,7 @@ Service commun des laboratoires - Laboratoire de Bordeaux-Pessac
 
 |
 
-Pesticides dans les denrées alimentaires d'origine animale et produits à forte teneur en matière grasse (groupes B2c, B3a sauf PCB et dioxines et B3b selon l'annexe I de la directive 96/23/CE du Conseil)
+Pesticides dans les denrées alimentaires d'origine animale et produits à forte teneur en matière grasse (groupes B2c, B3a sauf PCB et dioxines et B3b selon l'annexe I de la directive 96/23/ CE du Conseil)
 
 |
 
@@ -238,7 +252,7 @@ Institut de radioprotection et de sûreté nucléaire (IRSN) - Le Vésinet
 
 |
 
-Résidus de médicaments vétérinaires et colorants dans les denrées alimentaires d'origine animale et aliments pour animaux (groupes A6, B1, B2a, B2b, B2d, B2e, B2f sauf glucocorticoïdes, B3e selon l'annexe I de la directive 96/23/CE du Conseil)
+Résidus de médicaments vétérinaires et colorants dans les denrées alimentaires d'origine animale et aliments pour animaux (groupes A6, B1, B2a, B2b, B2d, B2e, B2f [sauf glucocorticoïdes], B3e selon l'annexe I de la directive 96/23/ CE du Conseil)
 
 |
 
@@ -246,7 +260,7 @@ ANSES - Laboratoire de Fougères
 
 |
 
-Substances ayant un effet anabolisant et substances non autorisées chez les animaux vivants et dans les denrées alimentaires d'origine animale (groupes A1 à A5 et B2f - glucocorticoïdes uniquement - selon l'annexe I de la directive 96/23/CE du Conseil)
+Substances ayant un effet anabolisant et substances non autorisées chez les animaux vivants et dans les denrées alimentaires d'origine animale (groupes A1 à A5 et B2f - glucocorticoïdes uniquement - selon l'annexe I de la directive 96/23/ CE du Conseil)
 
 |
 
@@ -260,7 +274,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -292,7 +308,7 @@ Botulisme aviaire
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -412,15 +428,15 @@ Influenza aviaire
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
-Virus Influenza porcin
+Virus influenza porcin
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -444,7 +460,7 @@ Maladie d'Aujeszky
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -468,7 +484,7 @@ Maladie de Newcastle
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -500,7 +516,7 @@ Mycoplasmoses aviaires
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -508,7 +524,7 @@ Maladies réglementées des poissons
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -548,7 +564,7 @@ Peste porcine africaine
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -556,7 +572,7 @@ Peste porcine classique
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -580,7 +596,7 @@ Rhinotrachéite infectieuse bovine (IBR)
 
 |
 
-ANSES - Laboratoire de Sophia-Antipolis
+ANSES - Laboratoire de Niort
 
 |
 
@@ -588,7 +604,7 @@ Salmonelloses aviaires
 
 |
 
-ANSES - Laboratoire de Ploufragan - Plouzané
+ANSES - Laboratoire de Ploufragan-Plouzané
 
 |
 
@@ -630,7 +646,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -638,7 +656,9 @@ OGM dans le maïs (parties végétatives) et pommes de terre, betteraves, riz, c
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité bactériologie, virologie, OGM - station d'Angers
+ANSES - Laboratoire de la santé des végétaux
+
+Unité bactériologie, virologie, OGM - Station d'Angers
 
 |
 
@@ -646,7 +666,7 @@ OGM dans le maïs (semences) et soja, colza et lin (semences et parties végéta
 
 |
 
-GEVES/BioGEVES - Surgères
+GEVES/ BioGEVES - Surgères
 
 |
 
@@ -658,7 +678,7 @@ Service commun des laboratoires - Laboratoire d'Illkirch-Graffenstaden
 
 |
 
-Santé des végétaux
+Santé des végétaux. -
 
 Bactéries phytopathogènes
 
@@ -666,7 +686,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -674,7 +696,9 @@ Bactéries sur bananier, agrumes et plantes tropicales
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité pathogènes des plantes tropicales, station de Saint-Pierre - île de La Réunion
+ANSES - Laboratoire de la santé des végétaux
+
+Unité pathogènes des plantes tropicales, station de Saint-Pierre - île de La Réunion
 
 |
 
@@ -682,7 +706,9 @@ Bactéries sur autres matrices
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité bactériologie, virologie, OGM - station d'Angers
+ANSES - Laboratoire de la santé des végétaux
+
+Unité bactériologie, virologie, OGM - Station d'Angers
 
 |
 
@@ -692,7 +718,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -700,7 +728,9 @@ Phytoplasmes sur toutes matrices
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité bactériologie, virologie, OGM - station d'Angers
+ANSES - Laboratoire de la santé des végétaux
+
+Unité bactériologie, virologie, OGM - Station d'Angers
 
 |
 
@@ -710,7 +740,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -718,15 +750,17 @@ Virus sur bananier et plantes tropicales
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité pathogènes des plantes tropicales, station de Saint-Pierre - île de La Réunion
+ANSES - Laboratoire de la santé des végétaux
+
+Unité pathogènes des plantes tropicales, station de Saint-Pierre - île de La Réunion
 
 |
 
-Virus de la Sharka (PPV), virus de la pomme de terre et virus sur agrumes
+Virus de la sharka (PPV), virus de la pomme de terre et virus sur agrumes
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité quarantaine - station de Lempdes (près de Clermont-Ferrand)
+ANSES - Laboratoire de la santé des végétaux - Unité quarantaine - Station de Lempdes (près de Clermont-Ferrand)
 
 |
 
@@ -734,7 +768,9 @@ Autres virus
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité bactériologie, virologie, OGM - station d'Angers
+ANSES - Laboratoire de la santé des végétaux
+
+Unité bactériologie, virologie, OGM - Station d'Angers
 
 |
 
@@ -744,7 +780,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -752,7 +790,9 @@ Viroïdes sur toutes matrices
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité bactériologie, virologie, OGM - station d'Angers
+ANSES - Laboratoire de la santé des végétaux
+
+Unité bactériologie, virologie, OGM - Station d'Angers
 
 |
 
@@ -762,7 +802,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -770,11 +812,13 @@ Champignons sur toutes matrices
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité mycologie - station de Malzéville (près de Nancy)
+ANSES - Laboratoire de la santé des végétaux
+
+Unité mycologie - Station de Malzéville (près de Nancy)
 
 |
 
-(*) Champignons sensu stricto, ainsi que les organismes généralement assimilés (i.e. oomycètes, plasmodiophoromycètes).
+(*) Champignons sensu stricto ainsi que les organismes généralement assimilés (i. e. oomycètes, plasmodiophoromycètes).
 
 Nématodes phytopathogènes
 
@@ -782,7 +826,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -790,7 +836,9 @@ Nématodes phytoparasites sur toutes matrices
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité nématologie - station du Rheu (près de Rennes)
+ANSES - Laboratoire de la santé des végétaux
+
+Unité nématologie - Station du Rheu (près de Rennes)
 
 |
 
@@ -800,7 +848,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -808,7 +858,9 @@ Insectes, acariens phytoparasites et auxiliaires sur toutes matrices
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité entomologie, plantes invasives - station de Montferrier-sur-Lèz (près de Montpellier)
+ANSES - Laboratoire de la santé des végétaux
+
+Unité entomologie, plantes invasives - Station de Montferrier-sur-Lèz (près de Montpellier)
 
 |
 
@@ -818,7 +870,9 @@ DOMAINE DE COMPÉTENCE
 
 |
 
-LABORATOIRE NATIONAL DE RÉFÉRENCE
+LABORATOIRE NATIONAL
+
+de référence
 
 |
 
@@ -826,6 +880,8 @@ Plantes invasives
 
 |
 
-ANSES - Laboratoire de la santé des végétaux, unité entomologie, plantes invasives - station de Montferrier-sur-Lèz (près de Montpellier)
+ANSES - Laboratoire de la santé des végétaux
+
+Unité entomologie, plantes invasives - Station de Montferrier-sur-Lèz (près de Montpellier)
 
 |
