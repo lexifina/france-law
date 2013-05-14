@@ -1,0 +1,9 @@
+# Réponse à la question n° 19926
+
+- Question : [19926](19926.md) — Question n° 19926 — information des consommateurs; développement
+
+## Réponse
+
+*JO du 2013-05-14*
+
+La réforme de l'assurance emprunteur opérée par la loi n° 2010-737 du 1er juillet 2010 portant réforme du crédit à la consommation a notamment institué, pour le souscripteur d'un crédit immobilier, le libre choix de son assurance. Un an après la mise en oeuvre de la réforme, le comité consultatif du secteur financier (CCSF) a réalisé un premier bilan de son application. La loi du 1er juillet 2010 a constitué un facteur de changement important des pratiques en matière d'assurance emprunteur. Les professionnels ont amélioré leur offre, mis en place des dispositifs d'analyse de l'équivalence des garanties ; peu de modifications de taux d'intérêt ont été identifiées en cas d'acceptation d'une assurance alternative, mais elles sont difficiles à constater. Les futurs emprunteurs sont désormais plus attentifs à l'assurance emprunteur et à son coût. Les pouvoirs publics sont soucieux de continuer à faire évoluer le marché de l'assurance emprunteur dans l'intérêt de tous et d'accroître l'information des emprunteurs. C'est le sens des dispositions relatives à l'assurance emprunteur qui figurent dans le projet de loi de séparation et de régulation des activités bancaires : elles délivrent à l'emprunteur une information plus complète et plus en amont, et ce faisant, accroissent la concurrence et la transparence sur le marché de l'assurance emprunteur en créant un cadre qui permette à l'emprunteur, en pratique, de choisir l'assurance qu'il souhaite à l'occasion de la souscription du prêt. Les débats parlementaires ont encore permis d'enrichir l'information de l'emprunteur en rendant obligatoire la remise d'une fiche standardisée d'information sur l'assurance emprunteur, remise très en amont, qui lui permette de comparer les offres et de faire jouer la concurrence.
