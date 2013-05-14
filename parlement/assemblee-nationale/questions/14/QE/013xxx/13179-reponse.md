@@ -1,0 +1,9 @@
+# Réponse à la question n° 13179
+
+- Question : [13179](13179.md) — Question n° 13179 — administrations publiques; coût
+
+## Réponse
+
+*JO du 2013-05-14*
+
+Les logiciels étant des oeuvres protégées par le droit de la propriété intellectuelle, leur utilisation s'inscrit dans le cadre contractuel établi entre la personne publique utilisatrice et le titulaire des droits (auteur ou ayant-droit). Les principes de tarification de cette licence et le périmètre des droits qui y sont inclus sont variables : cession à titre onéreux d'un droit patrimonial, exclusif ou non, sur la licence ; location ; redevances annuelles de maintenance et de support associé... Les principaux éditeurs ne distribuent toutefois pas directement leurs produits et ont mis en place un réseau de revendeurs. Certains logiciels comme les systèmes d'exploitation sont fournis avec les postes de travail. La mise à disposition du droit d'usage d'un logiciel s'inscrit en outre souvent dans le cadre d'une prestation plus globale (cas en particulier des prestations d'intégration) faisant intervenir des intermédiaires entre l'éditeur et la personne publique. Ces caractéristiques du marché du logiciel rendent particulièrement difficile l'évaluation du coût d'achat et d'utilisation des logiciels par les administrations publiques. Dans ce contexte et pour ce qui concerne l'Etat, la dépense de logiciels « non libres » (acquisition et maintenance) est évaluée à un montant annuel global de 231 à 260 M€ sur les cinq dernières années (2007-2011). Pour ce qui concerne les autres administrations publiques, les seules commandes effectuées par l'intermédiaire de l'UGAP représentent en 2011 un montant global de 63 M€. La dépense publique en logiciels non libres apparaît par conséquent supérieure à 300 M€ annuels, soit 1,5 Md€ sur cinq ans.
