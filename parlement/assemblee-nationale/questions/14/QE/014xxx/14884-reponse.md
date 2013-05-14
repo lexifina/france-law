@@ -1,0 +1,9 @@
+# Réponse à la question n° 14884
+
+- Question : [14884](14884.md) — Question n° 14884 — administrations publiques; coût
+
+## Réponse
+
+*JO du 2013-05-14*
+
+Les logiciels étant des oeuvres protégées par le droit de la propriété intellectuelle, leur utilisation s'inscrit dans le cadre contractuel établi entre la personne publique utilisatrice et le titulaire des droits (auteur ou ayant-droit). Les principes de tarification de cette licence et le périmètre des droits qui y sont inclus sont variables : cession à titre onéreux d'un droit patrimonial, exclusif ou non, sur la licence ; location ; redevances annuelles de maintenance et de support associé... A l'instar d'autres éditeurs, la société Microsoft ne distribue toutefois pas directement ses produits et s'appuie sur un réseau de revendeurs. Certains logiciels comme les systèmes d'exploitation sont fournis avec les postes de travail selon une licence particulière attachée au matériel. Le montant de cette licence est en outre confidentiel car négocié au niveau mondial entre le constructeur et Microsoft. La mise à disposition du droit d'usage d'un logiciel s'inscrit en outre souvent dans le cadre d'une prestation plus globale (cas en particulier des prestations d'intégration) faisant intervenir des intermédiaires entre l'éditeur et la personne publique. Ces caractéristiques du marché du logiciel rendent particulièrement difficile l'évaluation du coût d'achat et d'utilisation des logiciels Microsoft par les administrations publiques. Dans ce contexte et pour ce qui concerne l'État, la dépense de logiciels de la société Microsoft (acquisition et maintenance) est évaluée à un montant global estimé pour l'année 2011 de 53,9 M€, dont 10,2 M€ relèvent de logiciels pré-installés sur les postes de travail, 19,8 M€ d'achats de licences et 23,9 M€ de location de licences et de services.
