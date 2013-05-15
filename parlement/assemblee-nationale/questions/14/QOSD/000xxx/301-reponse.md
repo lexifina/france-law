@@ -1,0 +1,43 @@
+# Réponse à la question n° 301
+
+- Question : [301](301.md) — Question n° 301 — militaires et civils; pathologies liées aux essais nucléaires; reconnaissance
+
+## Réponse
+
+*JO du 2013-05-15*
+
+CONDITIONS D'INDEMNISATION DES VICTIMES DES ESSAIS NUCLÉAIRES
+
+M. le président. La parole est à M. Yannick Favennec, pour exposer sa question, n° 301, relative aux conditions d'indemnisation des victimes des essais nucléaires.
+
+M. Yannick Favennec. Je regrette que le ministre de la défense n'ait pas jugé bon se déplacer pour répondre à ma question, qui a pourtant été portée à sa connaissance depuis plusieurs semaines - les victimes des essais nucléaires apprécieront. Cette question porte sur la loi du 5 janvier 2010, relative à la reconnaissance et à l'indemnisation des victimes des essais nucléaires français, une loi votée à l'unanimité sous l'ancienne majorité, à laquelle j'appartenais, après le dépôt d'une proposition de loi dont j'étais moi-même l'auteur, à l'instar de plusieurs autres députés répartis sur l'ensemble des bancs de notre assemblée.
+
+Ce texte résultait du combat mené avec détermination et courage par des associations, notamment l'Association des vétérans des essais nucléaires - l'AVEN -, et de la volonté politique dont avait fait preuve le ministre de la défense de l'époque, Hervé Morin. Nous sommes tous attachés à ce que, grâce à cette loi, les victimes des essais nucléaires, qui attendaient depuis des années une juste reconnaissance du préjudice subi, puissent obtenir réparation.
+
+L'article 4 de cette loi, complété par l'article 7 du décret d'application n° 2010-653 du 11 juin 2010, introduit cependant des restrictions à la reconnaissance de la notion de présomption de causalité entre la présence chez un individu d'une maladie radio-induite et son exposition à des rayonnements ionisants dus aux essais nucléaires. Par ailleurs, le comité d'indemnisation des victimes des essais nucléaires a eu recours aux valeurs dosimétriques afin de définir la nature de l'exposition. Or, selon les associations de vétérans, il s'avère que 80 % des personnels déployés ne disposaient pas de dosimètres et que, de surcroît, ces derniers n'étaient pas aussi efficaces que les compteurs Geiger pour mesurer la contamination. À ce jour, très peu de dossiers ont reçu un avis favorable de la commission, ouvrant droit à indemnisation. Au 11 décembre 2012, sur les 786 demandes d'indemnisation enregistrées et sur les 400 dossiers examinés, seules 9 indemnisations ont été accordées. Bien que le décret n° 2012-604 du 30 avril 2012 ait permis d'élargir la liste des maladies radio-induites et des zones éligibles à indemnisation, il n'a pas remis en cause la méthodologie du traitement des demandes de réparation.
+
+À l'initiative de mon collègue François Rochebloine et avec les députés du groupe UDI, nous avons déposé à l'automne dernier, lors du vote du budget des anciens combattants, un amendement prévoyant le dépôt par le Gouvernement d'un rapport d'information avant le 1er juin prochain, portant sur l'opportunité et les modalités de modification du décret de juin 2010.
+
+Monsieur le ministre, êtes-vous en mesure de nous apporter des informations sur les conclusions de ce rapport ? En effet, 10 millions d'euros ayant été attribués au fonds d'indemnisation, il nous paraît urgent de définir de manière précise les modalités de mise en oeuvre d'un décret de nature à permettre une reconnaissance et une indemnisation effective et équitable des victimes des essais nucléaires. Nous ne devons jamais oublier, monsieur le ministre et mes chers collègues, que, derrière chaque demande d'indemnisation, il y a un être humain qui souffre et, parfois, une famille qui a perdu un être cher.
+
+M. le président. La parole est à M. le ministre du redressement productif.
+
+M. Arnaud Montebourg, ministre du redressement productif. Monsieur le député, M. le ministre de la défense, qui ne pouvait être présent lors de cette séance, m'a demandé de le remplacer afin de vous apporter les éléments de réponse suivants. Quand il a pris connaissance, peu de temps après sa prise de fonctions, du dossier relatif à l'indemnisation des victimes des essais nucléaires, il pensait, comme vous, qu'un plus grand nombre de vétérans, de Polynésiens, avaient d'ores et déjà obtenu satisfaction.
+
+Avant d'interpréter les chiffres, il faut savoir à quoi ils correspondent. Sur les 800 dossiers déposés au comité d'indemnisation, plus du quart ne remplit pas les trois conditions du décret, à savoir un lieu et une date en rapport avec les essais, et une maladie figurant dans le décret. Quant au faible nombre de personnes indemnisées, il faut également le mettre en rapport avec le nombre total de dossiers déposés : comme vous, nous pensions que des milliers de dossiers seraient déposés et que, sur ceux-là, un nombre limité de dossiers complexes nécessiterait une étude plus approfondie. Au regard de la faible quantité de dossiers qui lui ont été présentés, le ministre n'a lui-même pu proposer qu'un très faible nombre d'indemnisations.
+
+Mais le dispositif fonctionne, et il faut que les personnes qui le souhaitent puissent déposer un dossier, conformément aux exigences du décret, qui répondent elles-mêmes aux règles habituelles du droit de la responsabilité : c'est tout le sens du message que Jean-Yves Le Drian a adressé aux associations qu'il a rencontrées.
+
+En ce qui concerne le fonctionnement du dispositif, vous remettez aujourd'hui en cause la validité des doses prises en considération, la méthodologie appliquée et, au final, le fonctionnement même du processus d'indemnisation mis en place par la loi du 5 janvier 2010. En vérité, le dispositif mis en place repose sur des données scientifiques sérieuses, reconnues par la communauté internationale. La méthode adoptée s'appuie sur les méthodologies recommandées par l'Agence internationale à l'énergie atomique.
+
+Le rapport de l'Institut de radioprotection et de sûreté nucléaire du 29 juillet 2008 a conclu sans ambiguïté que les dosimètres utilisés lors des essais nucléaires présentaient des caractéristiques conformes aux normes internationales, et étaient bien adaptés à des mesures individuelles et d'ambiance des rayonnements Y et gamma, correspondant à ceux auxquels les personnes assistant aux essais ont pu être exposées. Les conditions de calcul des doses subies sont très favorables aux requérants, puisque les hypothèses maximales sont systématiquement retenues pour le niveau d'exposition pris en compte.
+
+Le ministre de la défense tient à rappeler que chaque dossier est étudié par un comité composé de personnalités reconnues, notamment de médecins désignés sur proposition du Haut conseil de la santé publique. Le comité d'indemnisation des victimes des essais nucléaires travaille en toute indépendance et en toute transparence, et le ministre de la défense n'a pas l'intention d'intervenir, sauf pour permettre à des parlementaires de juger du sérieux du travail du comité en les invitant au comité d'indemnisation : c'est ce qu'il a fait dès février de cette année, puisque deux de vos collègues sénateurs ont pu assister à une séance de travail du comité.
+
+Lors de la dernière réunion de la commission, en décembre 2012, le ministre a pris plusieurs engagements afin de faire progresser le dispositif, et plusieurs actions répondant aux demandes des associations et des parlementaires ont été lancées. Ainsi a-t-il donné son accord au lancement d'une étude épidémiologique, dont l'objectif sera de mesurer les conséquences sanitaires sur la population polynésienne de l'exposition aux retombées des essais nucléaires aériens entre juillet 1966 et juillet 1974.
+
+Enfin, il a souhaité que le Contrôle général des armées ainsi que l'IGAS mènent une étude commune afin d'analyser les procédures et les modalités d'application de la loi du 5 janvier 2010. Comme vous le voyez, monsieur le député, les choses s'améliorent progressivement. Nous sommes, nous aussi, surpris de la faiblesse des résultats obtenus jusqu'à présent, et qu'il nous appartient de faire progresser.
+
+M. le président. La parole est à M. Yannick Favennec.
+
+M. Yannick Favennec. Je vous remercie pour votre réponse, monsieur le ministre, qui ne me rassure cependant qu'à moitié. Vous n'avez en effet pas apporté d'éclairage sur l'utilisation des 10 millions d'euros dont est doté le fonds d'indemnisation. Je souhaite que, lors d'une prochaine séance, le ministre de la défense vienne lui-même répondre aux questions qui subsistent, afin d'apporter des éléments d'information complémentaires. En tout état de cause, je reste très attentif au rapport qui doit être publié dans les jours qui viennent.
