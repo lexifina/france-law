@@ -1,0 +1,92 @@
+# Economie : reconquête de l'économie réelle
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N30251
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/redonner_perspectives_emploi_industriel
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl13-007.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-05-15 : 1er dépôt d'une initiative. (PIONANR5L14B1037)
+  - 2013-08-30 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-05-15 : Renvoi en commission au fond
+      - 2013-05-22 : Nomination de rapporteur
+      - 2013-07-17 : Réunion de commission
+      - 2013-09-18 : Réunion de commission
+      - 2013-07-17 : Dépôt de rapport (RAPPANR5L14B1283, PIONANR5L14BTC1283)
+    - Travaux d'une commission saisie pour avis
+      - 2013-05-28 : Saisine pour avis d'une commission
+      - 2013-05-29 : Nomination de rapporteur
+      - 2013-07-16 : Réunion de commission
+      - 2013-07-17 : Dépôt de rapport (AVISANR5L14B1270)
+  - Discussion en séance publique
+    - 2013-09-18 : Discussion en séance publique
+    - 2013-09-18 : Discussion en séance publique
+    - 2013-10-01 : Discussion en séance publique
+    - 2013-10-01 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-10-01 : Dépôt d'une initiative en navette (PIONSNR5S219B0007)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-10-01 : Renvoi en commission au fond
+      - 2013-10-16 : Nomination de rapporteur
+      - 2014-01-29 : Dépôt de rapport (RAPPSNR5S219B0328)
+    - Travaux d'une commission saisie pour avis
+      - 2013-10-16 : Saisine pour avis d'une commission
+      - 2013-10-16 : Nomination de rapporteur
+      - 2014-01-28 : Dépôt de rapport (AVISSNR5S219B0315)
+    - Travaux d'une commission saisie pour avis
+      - 2013-10-30 : Saisine pour avis d'une commission
+      - 2013-10-30 : Nomination de rapporteur
+      - 2014-01-28 : Dépôt de rapport (AVISSNR5S219B0316)
+    - Travaux d'une commission saisie pour avis
+      - 2013-11-06 : Saisine pour avis d'une commission
+      - 2013-11-06 : Nomination de rapporteur
+      - 2014-01-27 : Dépôt de rapport (AVISSNR5S219B0314)
+  - Discussion en séance publique
+    - 2014-02-04 : Discussion en séance publique
+    - 2014-02-04 : Décision
+- Commission Mixte Paritaire
+  - 2014-02-05 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-02-05 : Nomination de rapporteur
+    - 2014-02-05 : Dépôt du rapport d'une CMP (RAPPANR5L14B1772)
+    - 2014-02-05 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0345)
+  - 2014-02-06 : Décision de la CMP
+- Nouvelle Lecture
+  - 2014-02-05 : Dépôt d'une initiative en navette (PIONANR5L14B1763)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-02-05 : Renvoi en commission au fond
+      - 2014-02-17 : Réunion de commission
+      - 2014-02-12 : Dépôt de rapport (RAPPANR5L14B1791, PIONANR5L14BTC1791)
+  - Discussion en séance publique
+    - 2014-02-17 : Discussion en séance publique
+    - 2014-02-17 : Décision
+- Nouvelle Lecture
+  - 2014-02-18 : Dépôt d'une initiative en navette (PIONSNR5S219B0372)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-02-18 : Renvoi en commission au fond
+      - 2014-02-19 : Dépôt de rapport (RAPPSNR5S219B0377)
+  - Discussion en séance publique
+    - 2014-02-21 : Discussion en séance publique
+    - 2014-02-21 : Décision
+- Lecture définitive
+  - 2014-02-21 : Dépôt d'une initiative en navette (PIONANR5L14B1812)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-02-21 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2014-02-24 : Discussion en séance publique
+    - 2014-02-24 : Décision
+- Conseil constitutionnel
+  - 2014-02-27 : Saisine du conseil constitutionnel
+  - 2014-02-27 : Saisine du conseil constitutionnel
+  - 2014-03-27 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-03-29 : Promulgation d'une loi
