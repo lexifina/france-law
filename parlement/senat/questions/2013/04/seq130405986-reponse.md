@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130405986
+
+- Question : [SEQ130405986](seq130405986.md) — Augmentation de la taxe sur la valeur ajoutée dans le secteur des services à la personne
+
+## Réponse
+
+*Économie et finances, JO du 2013-05-16, page 1542*
+
+La directive TVA n° 2006/112/CE du 28 novembre 2006 ne permet un taux de TVA réduit aux États que pour les activités de soins à domicile qui visent à satisfaire les besoins de la vie courante des personnes, concernant notamment l'hygiène et l'alimentation, et liés à la santé et au bien-être de ces personnes, ainsi que les soins destinés aux enfants, aux personnes âgées, aux personnes malades ou aux personnes handicapées. Cinq activités de services à la personne et le mandatement étaient soumis à un taux réduit de TVA de 7 %, alors qu'elles ne répondaient pas, selon la Commission, aux exigences définies par la directive TVA. Une mise en demeure avait été transmise en ce sens à la France en 2011 et un avis motivé lui a été adressé en 2012. Afin d'éviter un contentieux devant la Cour de justice européenne, avec le risque de voir la Cour réclamer l'application du taux plein de TVA à d'autres activités relevant des services à la personne, les autorités françaises se sont conformées aux demandes de la Commission. Le Gouvernement a par contre prévu de différer l'application de cette mesure au 1er juillet 2013 alors qu'elle devait entrer en vigueur au 1er avril 2013. Compte tenu du maintien de la réduction d'impôt ou crédit d'impôt de 50 % pour les particuliers employeurs, le surcoût effectif pour les consommateurs sera de 6,3 %. Dans le domaine du jardinage ou de l'assistance informatique ce surcoût moyen atteindra quelques dizaines d'euros par an. L'heure de travail déclarée, malgré la hausse de la TVA, demeurera nettement moins chère que l'heure de travail clandestine. L'impact économique sur le secteur mérite donc d'être relativisé, même si le Gouvernement en assurera un suivi attentif.
