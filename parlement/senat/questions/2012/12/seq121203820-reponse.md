@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203820
+
+- Question : [SEQ121203820](seq121203820.md) — Livret A
+
+## Réponse
+
+*Économie et finances, JO du 2013-05-16, page 1541*
+
+À la suite des relèvements du plafond du livret A et du livret de développement durable intervenus récemment, une réflexion a été engagée sur les principaux paramètres de l'épargne réglementée pour en améliorer l'efficacité, en particulier les modalités de centralisation des livrets d'épargne réglementée au fonds d'épargne géré par la Caisse des dépôts et la rémunération que perçoivent les établissements de crédit en contrepartie de la centralisation de ces livrets. Cette réforme devra permettre d'optimiser les conditions dans lesquelles l'épargne réglementée peut être mobilisée en soutien des priorités gouvernementales en faveur du logement social ou des petites et moyennes entreprises (PME), et plus généralement pour le financement de l'économie. Au-delà de cette réforme à venir, il convient de rappeler que la loi de modernisation de l'économie et ses textes d'application prévoient, à la suite de la généralisation de la distribution du livret A, une phase de convergence entre distributeurs historiques du livret A et nouveaux réseaux. Au cours de cette phase, qui se termine en 2022, les taux de centralisation des différents établissements, initialement très différents, convergent vers un taux de centralisation unique actuellement fixé à 65 %. De même, la rémunération perçue par les établissements en contrepartie de la centralisation, qui varie en fonction des taux de centralisation, doit converger vers un niveau unique de 0,5 % à horizon 2022. Dans ce contexte, le taux de centralisation des distributeurs historiques du livret A comme les Caisses d'épargne a déjà diminué et doit se réduire encore progressivement jusqu'au taux moyen de tous les autres établissements distributeurs.
