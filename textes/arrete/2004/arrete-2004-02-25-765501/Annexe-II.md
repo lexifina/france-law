@@ -1,81 +1,81 @@
 # Article Annexe II
 
-ANNEXE II
+DEMANDE DE REMBOURSEMENT D'AMENDE SUITE AU SUIVI
 
-DEMANDE DE REMBOURSEMENT OU D’INTERRUPTION DE L’ACTION EN RECOUVREMENT À ADRESSER AU COMPTABLE DU TRÉSOR DU LIEU DE LA COMMISSION DE L’INFRACTION
+DU STAGE DE SENSIBILISATION À LA SÉCURITÉ ROUTIÈRE
 
-Je soussigné(e) (1), ,
+Je soussigné (e) (1)
+
+Renseignements sur le demandeur :
+
+Adresse :
+
+Code postal : Ville :
+
+Téléphone fixe :/ téléphone portable :
+
+Courriel : @
+
+Sexe (1 = homme ; 2 = femme).
+
+Année de naissance (les deux derniers chiffres).
+
+Mois de naissance.
+
+Département de naissance (trois chiffres pour l'outre-mer ; 99 pour les naissances à l'étranger).
+
+Commune de naissance (code INSEE [*]) (deux chiffres pour l'outre-mer ou trois chiffres pour l'identifiant du pays de naissance),
 
 ayant suivi un stage de sensibilisation à la sécurité routière, en application des articles R. 223-4 et suivants du code de la route, demande :
 
 Le remboursement de l'amende (2).
 
-Je transmets :
+Montant de l'amende à rembourser :
 
-a) Les principales caractéristiques de la décision judiciaire (2) :
+Je transmets dans tous les cas :
 
-- la nature de la décision (3) :
+-une copie de la lettre 48 N adressée par le ministère de l'intérieur ;
 
-- la date et les références de la décision :
+-un relevé d'identité bancaire libellé au nom et adresse du demandeur (3) ;
 
-- la juridiction ayant prononcé la décision :
+-une copie de l'attestation de suivi de stage remise par la personne responsable de la formation spécifique, titulaire de l'agrément ;
 
-- le montant de l'amende payée :
+-la date et le mode de paiement de l'amende (4) ;
 
-- la nature du paiement (4) :
+-la preuve du paiement de l'amende : original de la partie à conserver du timbre-amende, copie du relevé de compte bancaire...
 
-- la date du paiement :
+De plus, selon la nature de l'amende si :
 
-ou s'il s'agit d'une amende forfaitaire (2) :
+Il s'agit d'une décision judiciaire (2) (amende forfaitaire majorée, jugement ou arrêt, ordonnance pénale...) :
 
-- le justificatif du paiement avec la " partie à conserver " du timbre-amende ;
+Je transmets l'original de l'avis d'amende (avis d'amende forfaitaire majorée, relevé de condamnation pénale, etc.).
 
-- pour tout autre mode de paiement :
+J'adresse le dossier de demande de remboursement complet au centre des finances publiques mentionné sur l'avis réclamant le paiement de l'amende (5).
 
-- le montant de l'amende forfaitaire payée :
+Nota.-Les amendes de composition pénale (suite à une décision judiciaire) ne peuvent faire l'objet d'un remboursement.
 
-- la nature du paiement (4) :
+Il s'agit d'une amende forfaitaire (2) :
 
-- la date du paiement :
+Je transmets l'original de l'avis de contravention.
 
-- l'adresse du destinataire du paiement :
+Lorsqu'il s'agit d'une infraction relevée par contrôle automatisé (radars vitesse et dispositifs feux rouges), j'adresse le dossier complet de demande de remboursement à la trésorerie du contrôle automatisé à Rennes : TCA, service des remboursements, CS 81239,35012 Rennes Cedex.
 
-b) Une copie de la lettre 48 N adressée par le ministère de l'intérieur.
-
-c) Un relevé d'identité bancaire ou postal pour rembourser l'amende.
-
-d) Une copie de l'attestation de suivi de stage remise par la personne responsable de la formation spécifique, titulaire de l'agrément.
+Pour tous les autres cas, j'adresse le dossier complet de demande de remboursement à la direction départementale des finances publiques du département du lieu de commission de l'infraction (5).
 
 L'interruption de l'action en recouvrement de l'amende (2).
 
 Je transmets :
 
-a) Les principales caractéristiques de la décision judiciaire :
+-l'original de l'avis d'amende (amende forfaitaire majorée, relevé de condamnation pénale, etc.) ;
 
-- la nature de la décision (3) :
+-une copie de la lettre 48 N adressée par le ministère de l'intérieur ;
 
-- la date et les références de la décision :
+-une copie de l'attestation de suivi de stage remise par la personne responsable de la formation spécifique, titulaire de l'agrément.
 
-- la juridiction ayant prononcé la décision :
+J'adresse le dossier de demande au centre des finances publiques (5) mentionné sur l'avis réclamant le paiement de l'amende.
 
-- le montant de l'amende encourue :
+Fait à, le
 
-b) Une copie de la lettre 48 N adressée par le ministère de l'intérieur.
+(Signature du demandeur)
 
-c) Une copie de l'attestation de suivi de stage remise par la personne responsable de la formation spécifique, titulaire de l'agrément.
-
-Fait à , le
-
-1) Nom et prénom(s) du titulaire du permis de conduire entrant dans le
-
-cadre de la période probatoire et auteur d’une infraction ayant donné lieu à
-
-une perte d’au moins 3 points.
-
-(2) Case à cocher.
-
-(3) Décision de justice : amende forfaitaire majorée, composition pénale,
-
-jugement ou arrêt, jours-amende, ordonnance pénale...
-
-(4) Nature du paiement : chèque, télépaiement...
+(*) Le code INSEE est le numéro à trois chiffres de votre commune de naissance : il fait partie de votre numéro de sécurité sociale, dont il constitue les huitième, neuvième et dixième chiffres, qui figurent immédiatement à la suite des deux chiffres indiquant votre département de naissance. (1) Nom et prénom (s) du titulaire du permis de conduire entrant dans le cadre de la période probatoire et auteur d'une infraction ayant donné lieu à une perte d'au moins 3 points. (2) Case à cocher. (3) Si le titulaire du compte n'est pas le demandeur, transmettre les documents suffisants pour justifier de la discordance (copie du livret de famille, par exemple). (4) Timbre-amende, chèque, virement, télépaiement... (5) Dans le cadre de l'instruction du dossier, le comptable des finances publiques peut demander toute autre pièce complémentaire qui s'avérerait nécessaire.
