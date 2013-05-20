@@ -12,7 +12,7 @@ a. Un registre coté et paraphé par l'administration municipale territorialemen
 
 3° Soit comporter une inscription globale pour les ouvrages strictement identiques, notamment quant à leur référence et à leur poids, à condition que la référence renvoie à une facture. La facture peut ne pas indiquer le titre et le poids des objets si l'identification reste possible par le numéro de série individuel ou la référence commerciale de l'ouvrage mentionnée dans un catalogue ou tout document de nature comptable ;
 
-b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles L. 123-12 à L. 123-17 du code de commerce ou aux spécifications du 3° du I de l'article 286 du code général des impôts si les documents prévus à cet article sont accompagnés de fiches de stock ou d'un inventaire permanent ;
+b. Ou une comptabilité conforme, suivant le cas, aux prescriptions des articles L. 123-12 à L. 123-23 du code de commerce ou aux spécifications du 3° du I de l'article 286 du code général des impôts si les documents prévus à cet article sont accompagnés de fiches de stock ou d'un inventaire permanent ;
 
 c. Ou un registre établi au moyen d'un logiciel assurant une gestion permanente des stocks, par référence de produits, permettant l'identification des ouvrages et offrant toutes garanties en matière de preuve. Tout logiciel doit comporter les indications reprises à l'article 56 J quindecies. Toutefois, l'indication du poids et du titre des ouvrages n'est pas exigée si leur identification est possible soit par le numéro de série individuel, soit par la référence commerciale de l'ouvrage mentionnée dans un catalogue ou tout document de nature comptable.
 
