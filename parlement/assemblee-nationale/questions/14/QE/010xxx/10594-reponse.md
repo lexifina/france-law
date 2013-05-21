@@ -1,0 +1,9 @@
+# Réponse à la question n° 10594
+
+- Question : [10594](10594.md) — Question n° 10594 — perspectives
+
+## Réponse
+
+*JO du 2013-05-21*
+
+Le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social a pris connaissance avec intérêt de la question portant sur la possibilité, pour un demandeur d'emploi indemnisé, d'être dispensé de recherche d'emploi afin de se consacrer à l'exercice d'une activité bénévole à plein temps. Depuis le 1er janvier 2012, la dispense de recherche d'emploi dont bénéficiaient certains demandeurs d'emploi âgés est supprimée. Seules les personnes ayant obtenu cette dispense avant le 1er janvier 2012 continuent à en bénéficier. Cette mesure vise, dans un contexte économique particulièrement difficile, à favoriser le retour vers l'emploi des seniors. Ainsi, désormais, tous les demandeurs d'emploi indemnisés au titre de l'allocation d'aide au retour à l'emploi (ARE) ou d'une allocation versée par le régime de solidarité doivent rechercher activement un emploi et accepter tout emploi correspondant aux compétences professionnelles ou aux formations définies dans le cadre d'un projet personnalisé d'accès à l'emploi (PPAE). A défaut, ils peuvent être radiés de la liste des demandeurs d'emploi. En outre, en application de l'article L. 5425-8 du code du travail, tout demandeur d'emploi indemnisé peut exercer une activité bénévole sous réserve qu'elle demeure compatible avec l'obligation de recherche d'emploi, ce qui ne serait pas possible si le demandeur d'emploi exerçait une activité bénévole à plein temps. Enfin, il paraît utile de souligner que le système d'assurance chômage est un système reposant sur un mode de gestion paritaire. Les partenaires sociaux sont, par conséquent, seuls compétents pour modifier les règles relatives à l'indemnisation au titre de l'assurance chômage.
