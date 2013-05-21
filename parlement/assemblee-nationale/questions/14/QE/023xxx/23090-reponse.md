@@ -1,0 +1,9 @@
+# Réponse à la question n° 23090
+
+- Question : [23090](23090.md) — Question n° 23090 — couverture du territoire
+
+## Réponse
+
+*JO du 2013-05-21*
+
+Conformément aux ambitions rappelées par le Président de la République, lors de son déplacement en Auvergne le 20 février dernier au sujet de la couverture numérique des territoires, chacun pourra bénéficier du très haut débit d'ici 10 ans. Pour atteindre cet objectif ambitieux, le Gouvernement a élaboré une stratégie nationale de déploiement du très haut débit en concertation avec l'ensemble des acteurs concernés. Fondée sur le principe d'une action conjointe des opérateurs privés et du secteur public, cette stratégie s'appuie localement sur l'action des collectivités territoriales compétentes en matière d'aménagement numérique. Financièrement, environ 20 milliards d'euros seront nécessaires. Ainsi, plus de la moitié seront apportés par les opérateurs privés en tant qu'investisseur ou par des redevances versées en tant que clients des réseaux d'initiative publique (RIP). L'autre moitié sera apportée par les pouvoirs publics à part égale entre les collectivités et l'État. Ainsi, ce dernier proposera sur 10 ans 3 milliards d'euros de subventions, à destination des porteurs de projets de RIP très haut débit. Afin de financer ce modèle, l'État s'appuiera sur le surplus de 200 millions d'euros par an généré par la redevance sur les fréquences 1 800 MHz et sur le reliquat des sommes allouées par le grand emprunt au très haut débit. Par ailleurs, une taxe de quelques dizaines de centimes par paires de cuivre est actuellement à l'étude. Enfin, l'État accordera des prêts à long terme et à des taux faibles afin d'étaler dans le temps la charge financière. Ils seront issus du doublement du plafond du livret A et les taux annoncés par le Premier ministre se situent autour de 3,05 % sur 20 à 40 ans.
