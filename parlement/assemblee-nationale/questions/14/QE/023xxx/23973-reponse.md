@@ -1,0 +1,9 @@
+# Réponse à la question n° 23973
+
+- Question : [23973](23973.md) — Question n° 23973 — médiathèques; zones rurales
+
+## Réponse
+
+*JO du 2013-05-21*
+
+L'accès le plus large de nos concitoyens à la culture sous ses différentes formes et dans toute sa diversité est une priorité du Gouvernement. Les bibliothèques et les médiathèques jouent dans cette perspective un rôle fondamental, en particulier dans les régions rurales, où elles sont, pour beaucoup, le lieu le plus proche où accéder aux oeuvres, ainsi qu'à une médiation et un conseil de qualité. Dans le même temps, la juste rémunération des auteurs et des artistes est une condition fondamentale du renouvellement de la création et de l'émergence de nouveaux talents. Alors que l'économie des industries culturelles connaît ces dernières années des bouleversements sans précédent, notamment liés aux innovations numériques, qui renouvellent en profondeur le rapport entre créateurs, industries culturelles et citoyens, le Gouvernement a engagé une réflexion sur l'adaptation des instruments de politiques publiques à ce nouveau contexte. Il a confié en ce sens à Monsieur Pierre Lescure une mission de concertation sur les contenus numériques et la politique culturelle à l'ère du numérique qui doit permettre de définir l'« Acte II de l'exception culturelle ». Monsieur Lescure remettra prochainement au Gouvernement ses conclusions, qui comporteront des propositions de mesures visant l'amélioration de l'accessibilité des oeuvres culturelles, dans le cadre d'une offre légale de qualité, intégrant la dimension numérique. Il s'agira en particulier d'explorer les moyens, pour les bibliothèques et les médiathèques, de tirer parti au mieux des potentialités offertes par le numérique pour favoriser, à moindre coût, l'accès des publics, et notamment des plus jeunes, aux oeuvres des plus grands catalogues numérisés.
