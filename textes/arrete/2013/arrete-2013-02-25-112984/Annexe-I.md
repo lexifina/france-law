@@ -96,6 +96,26 @@ Sont éligibles tous les navires actifs de la façade méditerranéenne.
 
 |
 
+Article 5 du règlement (CE) n° 1236/2010 établissant un régime de contrôle et de coercition dans la zone de la CPANE.
+
+|
+
+La pêche des espèces pélagiques, océaniques et d'eau profonde énumérée à l'annexe du règlement (CE) n° 1236/2010 dans la zone de convention CPANE est soumise à la détention d'une autorisation de pêche ORGP "Espèces pélagiques, océaniques et d'eau profonde en zone CPANE".
+
+|
+
+10 jours ouvrés avant la date d'entrée dans la zone CPANE.
+
+|
+
+Sont éligibles les navires ayant accès aux quotas de captures en vigueur sur la zone pour les navires de pêche battant pavillon français.
+
+|
+
+L'autorisation mentionne les espèces pêchées par le couple navire-armateur titulaire de l'autorisation.
+
+|
+
 (*) Une prise active d'espadon en mer Méditerranée s'entend pour toute marée où les captures d'espadon représentent plus de 5 % en poids des captures totales du navire.
 
 (**) Longueur maxillaire inférieure-fourche.
