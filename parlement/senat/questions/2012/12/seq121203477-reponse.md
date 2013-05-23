@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203477
+
+- Question : [SEQ121203477](seq121203477.md) — Le Cévenol : pérennité du statut de train d'équilibre du territoire
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2013-05-23, page 1588*
+
+La convention relative aux trains d'équilibre du territoire (TET), signée en 2010, prévoyait que « Le Cévenol » s'arrêterait à compter de 2013 à Nîmes, où les passagers pourraient emprunter le TER. Cette disposition répondait notamment à la difficulté de tracer les sillons entre Nîmes et Marseille, réseau saturé, faisant l'objet de nombreux travaux de rénovation et de modernisation, et où il existe une offre ferroviaire alternative importante, notamment des TER. Cette limitation à Nîmes n'est en aucun cas une anticipation d'une suppression du Cévenol. Le Gouvernement est déterminé à maintenir ce train. Ainsi, pour la période 2007-2014, 62 millions d'euros sont consacrés au renouvellement et au développement de la ligne Clermont-Nîmes dans le cadre des contrats de projets ou du plan-rail Auvergne, et en moyenne 13 millions d'euros sont affectés chaque année à la maintenance de cette ligne. Le Cévenol a une fonction d'aménagement du territoire entre Clermont-Ferrand et Nîmes et il la conservera. Cette limitation à Nîmes aurait dû être l'occasion de mieux articuler les services TER et TET. Cependant, les correspondances qu'il est prévu de mettre en œuvre en gare de Nîmes ne sont pas satisfaisantes, notamment dans le sens Marseille-Nîmes. Par conséquent, la SNCF examinera les améliorations qui pourront être techniquement apportées à la desserte. L'entreprise estime que la fin des travaux sur le viaduc de Courbessac en 2013 améliorera l'exploitation de la gare de Nîmes, redonnant un peu de souplesse en termes de circulations. La SNCF fera des propositions afin d'améliorer, en juillet 2013, la desserte dans le sens Marseille-Nîmes-Clermont.
