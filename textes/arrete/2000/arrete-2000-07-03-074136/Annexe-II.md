@@ -278,6 +278,8 @@ Précicable, 151, rue Michel-Carré, BP 10,95102 Argenteuil Cedex : de sa créat
 
 Raschig SAS : depuis 1998 ;
 
+REVCO puis GURIT ESSEX puis DOW AUTOMOTIVE, route de Jamard, 77390 Ozouer-le-Voulgis : de 1977 à 1983 ;
+
 Rieter/ Keller, laboratoire de recherche, route de l'Hautil, 95000 Boisemont, puis 78410 Aubergenville : de 1971 à 1981 ;
 
 Rincheval puis Famaro Rincheval, 3 avenue des Cures, 95320 Soisy-sous-Montmorency ;
@@ -482,7 +484,7 @@ Bitumes spéciaux, zone industrielle, allée Paul-Sabatier, 27940 Aubevoye : de 
 
 Carel Fouche Industrie, 27940 Aubevoye, de 1936 à 1989 ;
 
-Compagnie des produits chimiques et matières colorantes (CPCMC), Francolor, Compagnie française des matières colorantes (CFMC), FMC, division des établissements Kuhlmann, Pechiney Ugine Kuhlmann, ICI, Crompton et Knowles, de 1919 à 1996 ;
+COMPAGNIE DES PRODUITS CHIMIQUES ET MATIÈRES COLORANTES (CPCMC), FRANCOLOR, COMPAGNIE FRANÇAISE DES MATIÈRES COLORANTES (CFMC), FMC, division des établissements KUHLMANN, PECHINEY UGINE KUHLMANN, ICI, CROMPTON et KNOWLES, FRANCOLOR PIGMENTS, ICI FRANCOLOR, ICI PLC : de 1919 à 1996 ;
 
 Etablissement Julin, filiale SIM, rue d'Elbeuf, 76100 Rouen, rue Méridienne, 76100 Rouen, avenue du Général-Leclerc, 76120 Le Grand-Quevilly, depuis sa création à 1980 ;
 
@@ -556,6 +558,8 @@ Carel et Fouche, puis Construction ferroviaire du Mans, 2, rue du Miroir, 72000 
 
 EATON SA, ZI de Brais, 44611 Saint-Nazaire : De 1974 à 1996 ;
 
+GARDILOIRE puis COFAZ puis NORSK HYDRO AZOTE, HYDRO AZOTE, HYDRO AGRI FRANCE, Usine de Montoir de Bretagne, zone portuaire, BP 11,44550 Montoir-de-Bretagne : de 1971 à 1996 ;
+
 Inoxydable de l'Ouest, 53800 Congrier : de 1961 à 1982 ;
 
 Isotherma, ZI Noes, BP 23,44550 Montoire-de-Bretagne : de 1961 à 1999 ;
@@ -616,8 +620,6 @@ Etablissements DBA/ Bendix/ Honeywelle/ Allied Signal, Tille, 60000 Beauvais : d
 
 Frendo/ Fren J./ Fren Brex SA/ Roulunds Codan, Z. I. d'Angean, 60240 Chaumont-en-Vexin : de 1975 à 1997.
 
-Gurit Essex, Dow Automotive, ZI du Nord, route d'Amiens, 60130 Saint-Just-en-Chaussée, de 1977 à 1983.
-
 Hazemeyer, 285, rue de Guise, 02100 Saint-Quentin : de 1948 à 1981 ;
 
 Inmont, Saint-Just-en-Chaussée : de 1970 à 1974 ;
@@ -635,6 +637,8 @@ Matériel scientifique moderne, 4 bis, rue des Archers, 80000 Amiens, de 1950 à
 Max Perles et Cie, 4, rue du Professeur Dubos, 60119 Henonville, de 1970 à 1996 ;
 
 Moulinage et retorderie de l'Oise (MERO), 57, boulevard Lebègue, 60530 Neuilly-en-Thelle, de 1988 à 1990 ;
+
+REVCO puis GURIT ESSEX puis DOW AUTOMOTIVE, route d'Amiens, zone industrielle Nord, 60130 Saint-Just-en-Chaussée : de 1981 à 1983 ;
 
 SA Fichet Bauche, 80460 Oust-Marest : De 1969 à 1977 ;
 
@@ -672,6 +676,8 @@ Provence-Alpes-Côte d'Azur
 
 Alpha Isolation, ZI Les Estroublans, 1, rue No-5,13127 Vitrolles : depuis 1976 ;
 
+ATELIER LE CANET DE MARSEILLE puis CAMOM SA puis SOCIETE NOUVELLE CAMOM puis UIE (Union Industrielle et d'Entreprise) puis SOCIETE NOUVELLE CAMOM puis CAMOM SNC, ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1962 à 1996 ;
+
 Atofina, site de Fos, Carrefour du Caban, RN 568, BP 111,13773 Fos-sur-Mer : de 1975 à 2001 ;
 
 ATOFINA, établissement de Port-de-Bouc, carrefour du Caban, RN 268, BP 111,13773 Fos-sur-Mer : de 1940 à 1995 ;
@@ -702,6 +708,8 @@ FRIEDLANDER, boulevard du Progrès, 13014 Marseille, de 1960 à 1966 ", puis " 3
 
 Société de tuyauterie et de montage Friedlander, établissement secondaire de Saint-Auban, ZI Les Blâches Gombert, 04160 Château-Arnoux : De 1970 à 1996 ;
 
+IHP (Isolation Haute Provence), ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1976 à 1980 puis Zone artisanale, 04160 L'Escale : de 1981 à 1996 ;
+
 Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
 
 Kuhlmann puis Société Ugine Kuhlmann puis Pechiney Ugine Kuhlmann-PUK puis Produits chimiques Ugine Kuhlmann-PCUK puis ELF Atochem, Usine de l'Estaque, 13016 Marseille : De 1916 à 1989 ;
@@ -727,6 +735,8 @@ Saint-Gobain Industrie, puis Isover Saint-Gobain, Usine d'Orange, 235, rue du Po
 SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 13730 Saint-Victoret : depuis sa création ;
 
 SARL Plisson, Quartier du Trébon, route de Tarascon, 13200 Arles : de 1987 à 1996 ;
+
+SAS SAIT Centre d'exploitation de Château-Arnoux, ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1981 à 1996 ;
 
 Société des anciens établissements A.-Devries, ZI les Paluds, 13400 Aubagne : de 1958 à 1976 ;
 
@@ -807,6 +817,8 @@ Pavailler, puis Pavailler BP, puis APV Pavailler Equipement, puis Pavailler Equi
 PRODUITS CHIMIQUES UGINE KUHLMANN puis AIDCHEM puis ELF ATOCHEM (usine de Brignoud), 14, avenue Robert-Huant, 38190 Brignoud : de 1951 à 1996 ;
 
 Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, zone industrielle, 07210 Alissas, de 1969 à 1980 ;
+
+SA CRICERAM puis RSA LE RUBIS, Route nationale 85,38560 Jarrie : de 1983 à 1996 ;
 
 SAVIEM puis RVI, Avenue Ferdinand-Janvier, 07100 Annonay : de 1962 à 1993 ;
 
