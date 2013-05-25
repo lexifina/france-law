@@ -142,22 +142,6 @@ Décret n° 2012-531 du 19 avril 2012
 
 |
 
-Comité de pilotage restreint et groupes de travail du comité national de suivi du plan pour préserver l'efficacité des antibiotiques
-
-|
-
-DGS
-
-RI3
-
-|
-
-Arrêté du 29 mai 2002
-
-Arrêté du 5 mai 2008
-
-|
-
 Comité national de santé publique
 
 |
@@ -243,20 +227,6 @@ MC1
 Décret n° 2009-1216 du 9 octobre 2009
 
 Arrêté du 13 mars 2011
-
-|
-
-Commission nationale de l'échographie obstétricale et fœtale
-
-|
-
-DGS
-
-PP4
-
-|
-
-Décret n° 2010-766 du 7 juillet 2010
 
 |
 
