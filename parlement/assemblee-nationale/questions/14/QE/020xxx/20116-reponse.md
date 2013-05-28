@@ -1,0 +1,9 @@
+# Réponse à la question n° 20116
+
+- Question : [20116](20116.md) — Question n° 20116 — centrales nucléaires; modernisation; calendrier
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Astrid, est un projet de démonstrateur industriel électrogène de 600 mégawatts électriques (MWe) qui pourrait précéder la tête de série d'un futur réacteur commercial de quatrième génération de type réacteur à neutrons rapides refroidi au Sodium (RNR Na). Astrid devrait être opérationnel à l'horizon 2023. La première échéance du programme fixée par la loi du 28 juin 2006 a été atteinte fin 2012 avec la fin de la première phase d'un avant-projet sommaire (APS). Le CEA a remis un rapport au gouvernement, disponible sur son site à l'adresse : http ://www. cea. fr/energie/rapport-sur-la-gestion-durable-des-matieres-nucl-106009 dont le tome 3 est consacré à Astrid. L'APS comprend une première évaluation du coût d'investissement, la définition des options techniques innovantes et des options de sûreté, ainsi que le planning de déploiement. La deuxième phase de l'APS se déroulera de 2013 à 2014. L'avant-projet détaillé est prévu de 2015 à 2017. Dans le cadre du programme « Nucléaire de demain » des Investissements d'avenir (PIA), 625 millions d'euros ont fait l'objet d'une convention avec le CEA sur la période 2010-2017 pour le financement des études de conception d'Astrid, phase d'avant projet détaillé incluse. Le PIA couvre également les études pour la construction d'un atelier de fabrication du combustible d'Astrid et la rénovation ou la réalisation d'installations technologiques de qualification. Pour la mise en oeuvre du projet, le CEA s'est entouré d'industriels qui participent aux études au travers d'accords de collaboration. Plus de 500 personnes au total travaillent actuellement sur le projet Astrid. Les études d'exécution et de construction du démontrateur ne sont pas actuellement budgétisés.
