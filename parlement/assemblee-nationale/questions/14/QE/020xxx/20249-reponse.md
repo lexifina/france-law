@@ -1,0 +1,9 @@
+# Réponse à la question n° 20249
+
+- Question : [20249](20249.md) — Question n° 20249 — fonds d'insertion; fonction publique; renouvellement
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Le comité national du fonds pour l'insertion des personnes handicapées dans la fonction publique, organe délibérant de l'établissement public, est composé de représentants des employeurs des trois versants de la fonction publique, de représentants des organisations syndicales représentatives au plan national et de représentants des associations de personnes handicapées. La présidence et la vice-présidence du comité sont assurées par des membres du comité choisis en son sein, à la majorité des suffrages exprimés. Les membres du comité national sont nommés par arrêté conjoint des ministres chargés des personnes handicapées, de la fonction publique de l'Etat, de la fonction publique territoriale, de la fonction publique hospitalière et du budget. En vue du renouvellement du comité national, dont le mandat arrivait à échéance fin septembre 2012, les organisations syndicales, le conseil national consultatif des personnes handicapées et le conseil supérieur de la fonction publique territoriale ont proposé les noms de leurs représentants. Toutefois, il a paru, lors du contreseing de l'arrêté, que la représentation des élus locaux n'était pas suffisamment représentative de la diversité des collectivités territoriales et il a été demandé de procéder à une nouvelle proposition. Cette nouvelle étape a entrainé un retard dans la publication qui, bien que regrettable, n'a pas eu d'influence sur le fonctionnement de l'établissement ni sur celui des comités locaux du fonds. L'arrêté du 28 mars 2013 portant nomination au comité national du fonds pour l'insertion des personnes handicapées dans la fonction publique a été publié au Journal officiel de la république française du 29 mars 2013.
