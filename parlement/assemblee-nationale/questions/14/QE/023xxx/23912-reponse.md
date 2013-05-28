@@ -1,0 +1,9 @@
+# Réponse à la question n° 23912
+
+- Question : [23912](23912.md) — Question n° 23912 — affouage; réglementation
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Dans les bois et forêts qui appartiennent aux communes ou aux sections de communes, il est loisible à ces collectivités, en conformité avec l'article L. 243-1 du code forestier, d'attribuer lorsqu'elles décident de faire procéder à des coupes « tout ou partie du produit de la coupe au partage en nature entre les bénéficiaires de l'affouage, pour la satisfaction de leur consommation rurale ou domestique ». Le code prévoit que ces bois sont délivrés soit sur pied, lorsque la totalité des bois issus de la coupe est destinée au partage en nature, soit dans les autres cas après identification des bois abattus non destinés au partage. La remarque a été faite que l'abattage d'arbres est une activité particulièrement dangereuse, risquant de provoquer des accidents graves, et que l'office national des forêts (ONF), qui intervient régulièrement pour marteler les coupes d' affouage, préconise souvent aux élus municipaux le recours aux services de professionnels pour l'abattage des arbres jugés très dangereux. Cependant aucune disposition n'impose aux élus de donner suite à ces avertissements en imposant un tel recours. Même si ces forêts relèvent du régime forestier et bénéficient par conséquent des interventions de l'ONF, il paraît légitime que le code forestier laisse aux collectivités propriétaires la liberté de prendre leurs décisions elles-mêmes en matière de distribution ou non des coupes aux affouagistes. L'article L. 243-3 du code forestier autorise le conseil municipal à vendre tout ou partie de l'affouage au profit du budget communal ou des titulaires du droit d'affouage, après que l' exploitation et la vente ont été organisées par l'ONF. C'est la solution de la prudence qu'il appartient aux collectivités territoriales d'utiliser quand le danger des opérations d'abattage est perceptible.
