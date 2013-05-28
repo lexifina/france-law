@@ -1,0 +1,9 @@
+# Réponse à la question n° 15460
+
+- Question : [15460](15460.md) — Question n° 15460 — mutations; réglementation
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Ainsi que le précise la note de service relative aux opérations de mobilité, un mouvement complémentaire au mouvement interdépartemental peut être organisé par les DASEN, dans le respect des orientations ministérielles et en tenant compte de l'équilibre postes-personnels du département et de l'académie, si la situation du département le justifie (effectifs d'élèves, carte scolaire remaniée à la rentrée, surnombres, déficits, etc.. . ). Ce mouvement complémentaire constitue une véritable variable d'ajustement à la disposition des départements. Cette phase d'ajustement, qui se déroule en mode manuel, permet principalement de résoudre les situations particulières non satisfaites ou inconnues lors du mouvement interdépartemental : les rapprochements de conjoints ; les situations des personnels enseignants atteints d'un handicap ou celle d'un conjoint handicapé, ou d'un enfant reconnu handicapé ou gravement malade. Ces situations font l'objet d'une appréciation par chaque directeur académique. Chaque département a connaissance, par le biais d'une application WEB des candidats entrants ou sortants satisfaits au mouvement ainsi que des candidats non satisfaits, ce qui lui permet de gérer cette phase complémentaire. Les départements qui désirent mettre en place un mouvement complémentaire publient une note de service départementale qui indique le cadre et le calendrier. Ce mouvement complémentaire a pour avantage de réajuster par exemple un calibrage effectué en amont qui ne correspondrait plus tout à fait à la situation de la future rentrée scolaire. Lors du mouvement 2012, le mouvement complémentaire a permis de réaliser 1 139 mutations en plus des 4259 opérées par le mouvement informatisé.
