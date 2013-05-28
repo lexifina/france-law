@@ -1,0 +1,9 @@
+# Réponse à la question n° 21648
+
+- Question : [21648](21648.md) — Question n° 21648 — reprise du fonds; réglementation
+
+## Réponse
+
+*JO du 2013-05-28*
+
+La loi d'orientation agricole du 5 janvier 2006 a mis en place une procédure de déclaration afin de permettre l'exploitation de biens agricoles ayant fait l'objet d'une transmission familiale. Cette procédure dérogatoire de l'autorisation d'exploiter a été précisée par décret n° 2007-865 du 14 mai 2007 et concerne la mise en valeur de terres agricoles transmises par un parent ou allié jusqu'au troisième degré. Trois conditions doivent cependant être remplies : 1° ) les biens appartiennent à ce parent ou allié depuis 9 ans au moins ; 2° ) le bénéficiaire doit disposer de la capacité ou de l'expérience professionnelle requises ; Si cette condition n'est pas remplie, la reprise devra impérativement être soumise au régime général de demande administrative préalable et, dans ce cas, la délivrance de l'autorisation d'exploiter est nécessaire ; 3° ) les biens sont libres de location au jour de la déclaration. Dans le cas d'une reprise notifiée 18 mois avant le terme du bail sur le fondement de l'article L. 411-58 du CRPM, le bien est réputé « libre de location » au sens de l'article L. 331-2 II une fois que le congé a produit effet. C'est donc à l'expiration de son bail ou en respect d'une décision du tribunal paritaire des baux ruraux ayant validé le congé que le preneur en place quittera les terres. Conformément à l'article R. 331-7 du CRPM, le déclarant adressera sa déclaration (préalable à la mise en valeur des terres) au plus tard dans le mois qui suit le départ effectif du preneur. Le projet de loi d'avenir pour l'agriculture actuellement en préparation comportera un volet foncier. Dans ce cadre, des réflexions sont en cours concernant les transmissions familiales d'exploitations agricoles, liées par contrat de location.
