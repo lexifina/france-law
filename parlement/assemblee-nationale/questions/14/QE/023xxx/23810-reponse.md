@@ -1,0 +1,9 @@
+# Réponse à la question n° 23810
+
+- Question : [23810](23810.md) — Question n° 23810 — voies; traverses en bois; développement
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Dans les années 1950, au plus fort de la rénovation et de l'extension du réseau ferré national, la fabrication des traverses de chemin de fer constituait un débouché pour le chêne de qualité secondaire, représentant un volume annuel de l'ordre de 900 000 m3. En l'espace de cinq ans, le nombre de traverses bois utilisées par réseau ferré de France (RFF) a diminué de moitié passant de 500 000 à 250 000 unités en 2010. Au cours de l'année 2012, les professionnels ont engagé un programme de recherche ambitieux, soutenu par le fonds unique interministériel. Il s'agit de trouver une technique non polluante de conservation des bois, évitant de recourir aux différentes formulations à base de créosote. En dépit des efforts consentis par les professionnels, de l'intérêt évident en termes de stockage longue durée du carbone, ainsi qu'en termes d'activité pour la filière bois en milieu rural, les volumes utilisés ne cessent de diminuer. Le recours à la traverse en bois pour la rénovation des lignes régionales ne s'imposera pas sans un engagement résolu des conseils régionaux. C'est pourquoi le ministre de l'agriculture a récemment saisi les présidents de l'association des régions de France et de RFF, acteurs-clés sur cette problématique, pour attirer leur attention sur les conséquences, pour la filière forêt-bois française, d'une disparition de ce débouché. Le ministre des transports a depuis décidé la mise en place d'un groupe de travail associant l'ensemble des parties prenantes, sous l'égide de ses services, dans l'objectif d'objectiver le coût des traverses en bois, d'établir un bilan économique, social et écologique du matériau bois par rapport au béton et d'élaborer des solutions en matière de traitements alternatifs et de gestion de la fin de vie des traverses en bois.
