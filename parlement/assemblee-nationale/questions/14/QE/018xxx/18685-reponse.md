@@ -1,0 +1,9 @@
+# Réponse à la question n° 18685
+
+- Question : [18685](18685.md) — Question n° 18685 — emploi de vie scolaire; formation; perspectives
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Une circulaire du ministère de l'éducation nationale a été adressée au mois de juin 2012 aux recteurs d'académie pour rappeler les obligations des employeurs en matière de formation à l'égard des bénéficiaires de ces contrats d'EVS. Cette circulaire détaille également les dispositions prises pour la formalisation des actions de formation qui doivent leur être proposées : - la désignation d'un tuteur préalablement à la signature de la convention tripartite, - l'inscription d'actions de formation professionnelle et de validation des acquis de l'expérience dans la convention individuelle, - la formalisation des actions de formation et de validation des acquis de l'expérience professionnelle, - pendant l'exécution du contrat : la traçabilité des actions de formation et de validation des acquis de l'expérience professionnelle, - l'attestation d'expérience professionnelle. Pour les EVS faisant fonction d'AVS, la professionnalisation des accompagnants, engagement du Président de la République, reste un enjeu fondamental en vue notamment d'améliorer la prise en charge des enfants et adolescents en situation de handicap. A cet effet, le 16 octobre dernier, la ministre déléguée chargée de la réussite éducative et la ministre déléguée chargée des personnes handicapées et de la lutte contre l'exclusion ont installé un groupe de travail sur cette question dont la vocation est de favoriser la réussite scolaire et de préciser les contours, de reconnaître et de pérenniser cette profession en définissant un référentiel de compétences et d'activités. Ce groupe de travail rendra ses conclusions dans un rapport aux ministres dans les semaines qui viennent.
