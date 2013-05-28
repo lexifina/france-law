@@ -1,0 +1,9 @@
+# Réponse à la question n° 18036
+
+- Question : [18036](18036.md) — Question n° 18036 — FIPHFP; comité national; nominations
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Le comité national du fonds pour l'insertion des personnes handicapées dans la fonction publique, organe délibérant de l'établissement public, est composé de représentants des employeurs des trois versants de la fonction publique, de représentants des organisations syndicales représentatives au plan national et de représentants des associations de personnes handicapées. La présidence et la vice-présidence du comité sont assurées par des membres du comité choisis en son sein, à la majorité des suffrages exprimés. Les membres du comité national sont nommés par arrêté conjoint des ministres chargés des personnes handicapées, de la fonction publique de l'Etat, de la fonction publique territoriale, de la fonction publique hospitalière et du budget. L'arrêté du 28 mars 2013 portant nomination au comité national du fonds pour l'insertion des personnes handicapées dans la fonction publique a été publié au Journal officiel de la république française du 29 mars 2013. Le nouveau comité, installé le 19 avril 2013, inscrit son action dans les orientations fixées par son prédécesseur en poursuivant, notamment, le programme exceptionnel mis en place pour favoriser l'accessibilité dans la fonction publique, que ce soit l'accessibilité des lieux de travail, notamment dans les petites collectivités, l'accessibilité physique et pédagogique des écoles du service public ainsi que l'accessibilité numérique auquel le fonds consacre une enveloppe de 150 M€ depuis mi 2011. Il aura par ailleurs, après avoir suivi un séminaire d'information programmé courant mai, à se prononcer dans les mois à venir sur le compte financier et le rapport de gestion de l'établissement, sur des conventions conclues avec des partenaires ainsi que sur des renouvellements de conventionnement avec les grands employeurs publics.
