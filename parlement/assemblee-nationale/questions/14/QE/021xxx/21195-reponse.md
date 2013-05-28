@@ -1,0 +1,9 @@
+# Réponse à la question n° 21195
+
+- Question : [21195](21195.md) — Question n° 21195 — promotion interne; réglementation
+
+## Réponse
+
+*JO du 2013-05-28*
+
+L'article 38 de la loi n° 84-53 du 26 janvier 1984 a instauré une procédure de recrutement par contrat, dérogatoire au droit commun des concours, afin de favoriser l'accès des personnes handicapées à la fonction publique territoriale. Ce contrat est conclu pour une durée correspondant à celle du stage prévu par le statut particulier du cadre d'emploi d'accueil. A l'issue du contrat, le jury procède à l'appréciation de l'aptitude professionnelle de l'agent et s'il est déclaré apte à exercer les fonctions, l'autorité territoriale procède à sa titularisation, après avis de la commission administrative paritaire. Des dispositions similaires sont mises en oeuvre dans les deux autres versants de la fonction publique. Destinées à accroître le recrutement de personnes handicapées dans la fonction publique, elles ne sont pas ouvertes aux agents publics handicapés qui ont déjà la qualité de fonctionnaire. En effet, fonctionnaires de droit commun, ces derniers disposent des mêmes voies de promotion interne que l'ensemble de leurs collègues placés dans la même situation administrative. Ils peuvent bénéficier, dans le respect de l'égalité de traitement des candidats et en tant que de besoin, d'aménagements des épreuves lors des concours internes et sont inscrits, en fonction de leurs mérites, sur les tableaux d'avancement, à l'issue d'un examen ou d'une procédure de promotion au choix. Néanmoins, la fonction publique doit contribuer, à travers la gestion de ses agents, à mieux intégrer les personnes en situation de handicap. C'est l'un des enjeux que s'est fixé le Gouvernement dans la feuille de route de la grande conférence sociale et qui sera abordé dans le cadre du chantier de modernisation de l'action publique.
