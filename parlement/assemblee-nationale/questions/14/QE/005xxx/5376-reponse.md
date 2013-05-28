@@ -1,0 +1,9 @@
+# Réponse à la question n° 5376
+
+- Question : [5376](5376.md) — Question n° 5376 — revenus d'activités professionnelles; cumul
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Les fonctionnaires peuvent cumuler leur pension de retraite avec les revenus tirés de la reprise d'une activité professionnelle. Les règles de cumul diffèrent selon que la reprise d'activité s'opère dans le secteur privé ou dans le secteur public Les règles de cumul de pension avec un emploi public ont été fortement assouplies dans le cadre de la loi n° 2008-1330 de financement de la sécurité sociale pour 2009. Les fonctionnaires peuvent désormais cumuler intégralement leur pension de retraite avec des revenus tirés d'une reprise d'activité chez un employeur public. Ce cumul intégral n'est toutefois possible que si le fonctionnaire a liquidé toutes ses pensions de vieillesse personnelles auprès des régimes légaux de base ou complémentaires, français et étrangers et : - qu'il a atteint l'âge légal de départ à la retraite et bénéficie d'une durée d'assurance à taux plein ; - ou qu'il a atteint la limite d'âge. Si ces conditions ne sont pas remplies, le cumul de la pension de retraite avec les revenus d'activités demeure possible sous réserve que les revenus d'activité ne dépassent pas un certain plafond. Si le revenu d'activité est supérieur à ce plafond, l'excédent est déduit de la pension. En revanche, lorsque le fonctionnaire pensionné reprend une activité dans le secteur privé aucune règle d'écrêtement ne lui est applicable. Il peut donc cumuler intégralement sa pension et les revenus tirés de cette nouvelle activité. L'opportunité de faire évoluer la législation en la matière pourrait faire l'objet des discussions qui seront engagées à la suite des travaux menés par la commission pour l'avenir des retraites, mise en place le 26 février dernier.
