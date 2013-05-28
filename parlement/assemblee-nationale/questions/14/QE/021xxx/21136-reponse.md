@@ -1,0 +1,9 @@
+# Réponse à la question n° 21136
+
+- Question : [21136](21136.md) — Question n° 21136 — centre de loisirs associé à l'école; perspectives
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Les autorités académiques portent un grand intérêt au Centre de Loisirs Associé à l'Ecole (CLAE) Sainte-Catherine dont le dispositif leur a été présenté par l'ensemble des acteurs à la rentrée 2012. Chacun s'accorde à reconnaître son intérêt au regard des objectifs de réussite des élèves et d'un climat scolaire apaisé. Il est incontestable qu'il répond aux objectifs poursuivis en matière d'articulation entre le temps scolaire et les activités péri-éducatives. Pour autant, il n'existe pas de label « établissement innovant » qui permettrait de distinguer ce dispositif parmi les autres CLAE. S'agissant de la pérennité des ressources humaines dépendant du ministère de l'éducation nationale, les autorités académiques ont pris immédiatement les mesures nécessaires pour pallier la démission, en septembre 2012, de la personne affectée à l'assistance administrative du directeur d'école sous forme de contrat aidé par un autre recrutement. Elles ont renouvelé ce contrat en janvier 2013 à la suite d'un nouveau départ volontaire. Par ailleurs, le directeur de l'école bénéficie d'une décharge de 50 % de son obligation de service d'enseignement conformément à la réglementation en vigueur. La convention tripartite entre la mairie d'Avignon, la Ligue de l'enseignement et le ministère de l'éducation nationale fixe le cadre des engagements réciproques des partenaires de ce dispositif : le financement relève d'une subvention de la commune, la gestion et l'organisation du CLAE, en particulier les questions relatives à l'équipe d'animation dépendent de l'association, le ministère étant partie prenante du projet éducatif. Seule la commune est en mesure de garantir un financement pluriannuel, susceptible de garantir la stabilisation de l'équipe d'animation et le développement du CLAE.
