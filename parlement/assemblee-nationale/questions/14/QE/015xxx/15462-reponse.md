@@ -1,0 +1,9 @@
+# Réponse à la question n° 15462
+
+- Question : [15462](15462.md) — Question n° 15462 — titularisation; perspectives
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Le décret n° 2012-1512 du 28 décembre 2012 relatif à l'ouverture de recrutements réservés pour l'accès aux échelles de rémunération des maîtres contractuels et agréés de l'enseignement privé sous contrat transpose aux maîtres délégués de l'enseignement privé sous contrat les dispositions de la loi n° 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique. L'article 5 du décret précité précise que les lauréats des recrutements réservés obtiennent un contrat ou un agrément provisoire leur permettant d'accomplir leur période de stage selon les modalités applicables aux lauréats stagiaires du public. A l'issue du stage ils se voient délivrer un contrat ou un agrément définitif dans les mêmes conditions de titularisation que celles des stagiaires des recrutements réservés du public. Ces conditions ont été fixées en référence à l'article 9 du décret n° 2012-631 du 3 mai 2012 fixant les conditions générales d'organisation des recrutements réservés qui précise que les dispositions applicables en matière de stage et de sanction de stage sont celles prévues pour les lauréats des concours internes. Dans l'enseignement privé sous contrat, ces dispositions sont prévues aux articles R. 914-19-3 et R. 914-32 du code de l'éducation. Cette référence se justifie à double titre : d'une part, les lauréats des concours internes ont également une expérience au moins égale à trois ans et d'autre part, les maîtres délégués en contrat à durée indéterminée dans les établissements d'enseignement privés sous contrat sont éligibles aux recrutements réservés et aux concours internes.
