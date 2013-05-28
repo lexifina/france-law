@@ -1,0 +1,9 @@
+# Réponse à la question n° 17405
+
+- Question : [17405](17405.md) — Question n° 17405 — travailleurs handicapés; intégration professionnelle
+
+## Réponse
+
+*JO du 2013-05-28*
+
+Les personnes handicapées peuvent demander un temps partiel de droit qui ne peut leur être refusé, ou un allégement de service. Les allégements de service peuvent être accordés après avis du médecin de prévention et d'une commission académique. Ils doivent permettre une amélioration de la situation et sont réservés aux personnes dont l'état de santé a été jugé le plus prioritaire. En ce qui concerne le temps partiel thérapeutique, l'attribution de celui-ci reste subordonnée à l'avis du comité médical, qui ne dépend pas du ministère de l'éducation nationale mais du ministère des affaires sociales et de la santé. Il est effectivement accordé après un congé de longue maladie ou un congé de longue durée. Cette disposition est prévue par l'article 34 de la loi n° 84-16 portant dispositions statutaires relatives à la fonction publique de l'Etat, qui s'applique à tous les fonctionnaires. Le ministère de l'éducation nationale reste très soucieux de respecter les droits des personnes en situation de handicap et de favoriser leur intégration et leur maintien dans l'emploi. Depuis 2006, plusieurs campagnes nationales ont été menées afin d'en informer l'ensemble des agents et les inviter à faire connaître leurs besoins ; la dernière a eu lieu en septembre 2012. Les directeurs des ressources humaines, les correspondants handicap et les médecins sont formés et sensibilisés très régulièrement au sujet de l'accompagnement et des aménagements dont doivent bénéficier les intéressés. C'est ainsi que ces droits sont de mieux en mieux connus, reconnus et pris en compte. Il y a dans chaque académie un correspondant handicap, que les agents handicapés peuvent contacter afin de rechercher la solution qui sera la plus adaptée à sa situation.
