@@ -202,6 +202,18 @@ Hérouville-Saint-Clair.
 
 |
 
+Manche
+
+|
+
+Coutances.
+
+|
+
+Saint-Lô.
+
+|
+
 Cour d'appel de Cayenne
 
 Guyane
