@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130405882
+
+- Question : [SEQ130405882](seq130405882.md) — Circulaire visant à encadrer le recours aux agences
+
+## Réponse
+
+*Premier ministre, JO du 2013-05-30, page 1639*
+
+La circulaire à laquelle l'honorable parlementaire fait référence traduit la volonté du Gouvernement de contenir la création désordonnée d'agences qui a pu être observée dans un passé récent. La circulaire est l'expression de la prérogative confiée au Premier ministre par l'article 21 de la Constitution, de diriger l'action du Gouvernement. Elle engage l'ensemble du Gouvernement et a valeur d'instruction pour toutes les administrations de l'État. Le respect des principes qu'elle édicte sera assuré notamment par le contrôle des projets de texte dont l'intervention est nécessaire pour toute création d'une nouvelle agence : tout projet de texte réglementaire créant une nouvelle agence doit recevoir l'accord du Premier ministre avant d'être signé et publié au Journal officiel de la République française. La circulaire définit les critères au regard desquels seront appréciés les projets de création qui seront présentés par les ministères : tout projet qui ne répondrait pas aux conditions posées par la circulaire se verra opposer un refus qui ne permettra pas l'adoption du texte. Les mêmes critères seront mis en œuvre dans la préparation des projets de loi et guideront la position que prendra le Gouvernement sur d'éventuels amendements ou propositions de loi qui prévoiraient la création de nouvelles agences. Compte tenu de la diversité des textes susceptibles d'être proposés pour la création de nouvelles agences, la circulaire est un instrument tout à fait adapté à la définition de la doctrine qui guidera les arbitrages du Premier ministre sur les projets de création d'agences et pour porter cette doctrine à la connaissance de toutes les administrations et de toutes les personnes intéressées.
