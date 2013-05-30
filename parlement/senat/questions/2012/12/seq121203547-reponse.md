@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203547
+
+- Question : [SEQ121203547](seq121203547.md) — Délai de paiement des factures pour les petites communes
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2013-05-30, page 1659*
+
+Afin de soutenir la trésorerie des entreprises fragilisées par le contexte économique, l'article 33 du décret n° 2008-1355 du 19 décembre 2008 de mise en œuvre du plan de relance économique dans les marchés publics a modifié l'article 98 du code des marchés publics en réduisant de 45 jours à 30 jours le délai global de paiement des collectivités territoriales et de leurs établissements publics. Ce délai figure en outre dans la directive n° 2011/7/UE du Parlement européen et du Conseil du 16 février 2011 concernant la lutte contre le retard de paiement dans les transactions commerciales. La transposition de cette directive, devant être effective au plus tard le 16 mars 2013, a été matérialisée par la loi n° 2013-100 du 28 janvier 2013 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière (DADUE), elle-même complétée par le décret n° 2013-269 du 29 mars 2013 relatif à la lutte contre les retards de paiement dans les contrats de la commande publique. Dans ce cadre particulièrement contraint, il convient toutefois de relever que le Trésor public a pris des engagements pour que les petites collectivités, à l'intérieur de ce délai global, puissent bénéficier de facilités. Ces dernières portent notamment sur les factures de faibles montants, qui ne nécessitent que des contrôles réduits de la part du comptable public. Par ailleurs, l'article 39 de la loi DADUE précitée a introduit au profit de l'ordonnateur, s'il s'agit d'une collectivité territoriale, une action récursoire à l'encontre de l'État si le délai global de paiement est dépassé du fait du comptable, du moins pour la part qui lui incombe.
