@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305237
+
+- Question : [SEQ130305237](seq130305237.md) — Droit à la pension de réversion pour les signataires d'un pacte civil de solidarité
+
+## Réponse
+
+*Famille, JO du 2013-05-30, page 1657*
+
+L'ouverture du droit à réversion demeure liée à une condition de mariage, l'existence d'une situation de concubinage n'étant pas prise en compte à cet égard. Les personnes liées par un PACS ne sont en effet pas dans une situation identique à celle des conjoints, notamment du point de vue des obligations respectives entre membres du couple. Dès lors, le législateur peut fixer des règles différentes pour ces catégories de personnes sans contrevenir au principe d'égalité (arrêts du Conseil d'État des 28 juin 2002 et 6 décembre 2006). Dans sa décision du 29 juillet 2011 portant sur une question prioritaire de constitutionnalité (QPC) relative à l'exclusion des couples non mariés du bénéfice de la pension de la réversion, le Conseil Constitutionnel a considéré que, compte tenu des différences entre les trois régimes de vie de couple (concubinage, pacs et mariage), la différence de traitement quant au bénéfice de la pension de réversion entre couples mariés et couples non mariés ne méconnaît pas le principe d'égalité. Conformément à la feuille de route adoptée à l'issue de la grande conférence sociale des 9 et 10 juillet 2012, la Commission pour l'avenir des retraites a été installée par le Premier ministre le 27 février 2013. Elle doit en particulier identifier des pistes de réforme permettant d'atteindre simultanément des objectifs de pérennité financière, de renforcement de l'équité et d'amélioration du système de retraite par répartition. Une phase de concertation avec les partenaires sociaux interviendra dans le prolongement des travaux de cette commission, pour aboutir à des évolutions législatives sur les retraites à compter du 2e semestre 2013.
