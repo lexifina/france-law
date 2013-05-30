@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130104244
+
+- Question : [SEQ130104244](seq130104244.md) — Conditions de rémunération des agents des collectivités territoriales
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2013-05-30, page 1660*
+
+Au regard du principe de libre administration des collectivités territoriales, il revient à chaque collectivité de décider d'instituer ou non un régime indemnitaire. Si elles choisissent d'en instituer un, elles doivent respecter le plafond indemnitaire dont peuvent bénéficier les agents de l'État servant dans des corps comparables selon le principe de parité défini par l'article 88 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale. Le décret n° 91-875 du 6 septembre 1991 détermine, à cet effet, les équivalences entre cadre d'emplois territorial et corps de référence de la fonction publique d'État. La création d'un plancher dans les dispositifs de régimes indemnitaires serait de nature à entrer en conflit avec le principe de libre administration des collectivités territoriales et aurait un impact très important sur leurs charges. Cette question doit donc être étudiée en lien avec les associations d'élus. S'agissant de la définition d'éventuelles règles d'homogénéisation des différents régimes indemnitaires de la fonction publique territoriale, il convient de rappeler le nécessaire respect de la parité avec les régimes indemnitaires de la fonction publique d'État. Les discussions actuellement menées avec les organisations syndicales et les représentants des employeurs territoriaux, dans le cadre de l'agenda social, s'inscrivent dans le respect de ces deux principes de libre administration des collectivités locales et de parité avec la fonction publique de l'État.
