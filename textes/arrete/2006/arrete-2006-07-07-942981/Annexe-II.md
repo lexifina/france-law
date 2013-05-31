@@ -490,21 +490,21 @@ UC 9 - Être capable de maîtriser les outils nécessaires à la mise en œuvre 
 
 9.4.3 EC d'évaluer l'activité déclenchée par ces situations.
 
-Unité capitalisable : mention hockey sur gazon
+Unité capitalisable : mention hockey.
 
-UC 8 - Être capable de conduire une action d'animation sportive en hockey sur gazon
+UC 8 Etre capable de conduire une action d'animation sportive en hockey :
 
-8.1 EC de concevoir, conduire et évaluer son action éducative ;
+8.1 EC de préparer l'activité hockey pour différents publics ;
 
-8.1.1 EC de mobiliser les connaissances spécifiques en hockey sur gazon ;
+8.1.1 EC de cibler les attentes du public ;
 
-8.1.2 EC d'évaluer les niveaux de jeux des pratiquants en hockey sur gazon ;
+8.1.2 EC d'aménager l'environnement et le matériel par rapport aux publics ;
 
-8.1.3 EC d'animer la pratique du hockey sur gazon dans le respect des règles de sécurité ;
+8.1.3 EC d'animer la pratique du hockey dans le respect des règles de sécurité ;
 
-8.1.4 EC de mettre en œuvre un travail par atelier.
+8.1.4 EC de proposer une séance adaptée aux différents publics.
 
-8.2 EC de planifier un contenu d'enseignement.
+8.2 EC de planifier un contenu d'enseignement ;
 
 8.2.1 EC d'organiser dans le temps la pratique du hockey ;
 
@@ -514,7 +514,7 @@ UC 8 - Être capable de conduire une action d'animation sportive en hockey sur g
 
 8.2.4 EC de prendre en compte la dimension mentale.
 
-8.3 EC de mobiliser les connaissances administratives nécessaires à la gestion d'une manifestation.
+8.3 EC de mobiliser les connaissances administratives nécessaires à la gestion d'une manifestation ;
 
 8.3.1 EC de communiquer avec l'environnement fédéral ;
 
@@ -522,7 +522,7 @@ UC 8 - Être capable de conduire une action d'animation sportive en hockey sur g
 
 8.3.3 EC de tenir une feuille de match.
 
-8.4 EC de diriger des rencontres en respectant l'esprit du règlement.
+8.4 EC de diriger des rencontres en respectant l'esprit du règlement ;
 
 8.4.1 EC d'arbitrer un match de hockey ;
 
@@ -530,25 +530,25 @@ UC 8 - Être capable de conduire une action d'animation sportive en hockey sur g
 
 8.4.3 EC d'énoncer les règles de jeu du hockey.
 
-8.5 EC de proposer une initiation en hockey adaptée, en intégrant les aspects réglementaires et comportementaux qui s'y rapportent.
+8.5 EC de proposer une initiation en hockey adaptée, en intégrant les aspects réglementaires et comportementaux qui s'y rapportent ;
 
-8.5.1 EC de moduler les règles et l'environnement de la pratique en hockey pour favoriser l'initiation des jeunes joueurs (es) ;
+8.5.1 EC de moduler les règles et l'environnement de la pratique en hockey pour favoriser l'initiation des jeunes joueurs ;
 
 8.5.2 EC d'énoncer les connaissances spécifiques à la pratique du hockey chez les plus jeunes ;
 
 8.5.3 EC de différencier les étapes de l'évolution du joueur en fonction de son âge et de sa maturation.
 
-UC 9 - Être capable de maîtriser les outils nécessaires à la mise en œuvre d'une action d'animation sportive en hockey sur gazon.
+UC 9 Etre capable de maîtriser les outils nécessaires à la mise en œuvre d'une action d'apprentissage en hockey :
 
-9.1 EC d'identifier et d'analyser les différents niveaux de pratique.
+9.1 EC de transmettre les fondamentaux techniques : les conduites, propulsions et contrôles de balle ;
 
-9.1.1 EC de décrire les caractéristiques de l'activité en hockey sur gazon ;
+9.1.1 EC d'identifier les fondamentaux techniques ;
 
-9.1.2 EC de différencier les niveaux de jeu et d'en décrire les grandes lignes ;
+9.1.2 EC d'expliquer les trois domaines fondamentaux ;
 
-9.1.3 EC d'énoncer les différents dispositifs et les différentes formes de jeu.
+9.1.3 EC de démontrer les contenus techniques dans la séance.
 
-9.2 EC d'initier aux différents principes de jeu.
+9.2 EC de préparer la séance d'apprentissage en fonction des niveaux de jeu ;
 
 9.2.1 EC de différencier les caractéristiques du public, âge, motivation ;
 
@@ -570,13 +570,13 @@ UC 9 - Être capable de maîtriser les outils nécessaires à la mise en œuvre 
 
 9.2.10 EC de mettre en place les principes d'appuis, soutien et d'assistances offensives et défensives.
 
-9.3. EC d'énoncer la logique interne du hockey.
+9.3. EC de proposer une évaluation de la séance d'apprentissage ;
 
-9.3.1 EC de connaître l'historique et l'évolution du hockey ;
+9.3.1 EC de concevoir des outils d'évaluation ;
 
-9.3.2 EC de choisir des démarches pédagogiques diversifiées en fonction du public ;
+9.3.2 EC d'utiliser les différents outils ;
 
-9.3.3 EC de reconnaître les difficultés principales rencontrées dans l‘apprentissage de l'activité hockey aux plans collectif et individuel.
+9.3.3 EC d'adapter son évaluation aux niveaux de jeu.
 
 Mention rugby à XIII :
 
