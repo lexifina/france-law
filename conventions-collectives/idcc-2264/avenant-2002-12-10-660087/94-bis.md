@@ -10,33 +10,25 @@ La classification des cadres comporte 5 catégories permettant de prendre en com
 
 - la nature, l'importance et la structure de l'établissement.
 
-Cadre A : coefficient de 330 à 409 (1).
+Cadre A : coefficient de 340 à 409 (1).
 
-Cette catégorie concerne les cadres soignants, des services techniques ou administratifs, débutants ainsi que les cadres autodidactes exerçant ou ayant exercé des fonctions d'encadrement dans la position AM.
+Cette catégorie concerne les cadres soignants, des services techniques ou administratifs, débutants ainsi que les cadres autodidactes exerçant ou ayant exercé des fonctions d'encadrement dans la position AM. »
 
-Cadre confirmé
+Cadre A intermédiaire, dénommé « cadre confirmé » : 350 à 409.
 
-Un minimum de coefficients compris dans l'échelle de coefficient initiale est attribué au cadre A qui remplit les conditions suivantes :
+L'échelle de coefficients du cadre A intermédiaire, dénommé « cadre confirmé », est attribuée au salarié qui justifie d'une expérience professionnelle de 3 années et qui a débuté, en accord avec l'employeur, une formation complémentaire de niveau I ou II de l'éducation nationale, en lien avec son emploi repère.
 
-― soit justifier d'une expérience professionnelle de 5 années dans son emploi repère et dans l'entreprise ;
+Cadre B : coefficient de 420 à 454 (1).
 
-― soit justifier d'une expérience professionnelle de 3 années et avoir débuté, en accord avec l'employeur, une formation complémentaire de niveau I ou II de l'éducation nationale, en lien avec son emploi repère.
+Cette catégorie concerne les cadres pouvant avoir une délégation de pouvoir écrite limitée à leur domaine de compétence, et exerçant leur autorité sur un nombre limité de cadres et/ou agents de maîtrise. Elle concerne également les cadres A ayant 8 ans d'ancienneté en qualité de cadre. »
 
-Ce minimum de coefficient est fixé à 350.
+L'échelle de coefficients du cadre B ayant réalisé et validé une formation managériale complémentaire de niveau I de l'éducation nationale en lien avec son emploi repère, comprise entre 425 et 454 est maintenue.
 
-Cadre B : coefficient de 410 à 454.
-
-Cette catégorie concerne les cadres pouvant avoir une délégation de pouvoir écrite limitée à leur domaine de compétence, et exerçant leur autorité sur un nombre limité de cadres et/ou agents de maîtrise. Elle concerne également les cadres A ayant 12 ans d'ancienneté en qualité de cadre.
-
-Cadre C : coefficient de 455 à 554.
+Cadre C : coefficient de 465 à 554 (2).
 
 Cette catégorie concerne les cadres qui remplissent les conditions des cadres B, et qui exercent leur autorité sur plusieurs services.
 
-Cadre supérieur : coefficient à partir de 555.
-
-Cette catégorie concerne les cadres exerçant leur fonction avec une délégation écrite acceptée de pouvoir qui engage leur responsabilité dans leur domaine de compétence, et qui coordonnent plusieurs services ou établissements, notamment par l'autorité qu'ils peuvent exercer sur des cadres de catégorie A, B ou C, et sur un nombre important d'agents.
-
-La catégorie " cadre supérieur " ne pourra s'envisager que dans les entreprises ou les établissements dont la capacité d'accueil est d'au moins 100 lits.
+L'échelle de coefficients du cadre C ayant réalisé et validé une formation managériale complémentaire de niveau I de l'éducation nationale en lien avec son emploi repère, comprise entre 465 et 554, devient l'échelle de coefficients comprise entre 475 et 554.
 
 Cadre dirigeant.
 
@@ -46,4 +38,6 @@ Sont considérés comme ayant la qualité de cadre dirigeant, les cadres auxquel
 
 La délégation de pouvoir suppose compétence et moyens permettant de l'assumer.
 
-(1) Les dispositions de l'avenant n° 14 du 18 décembre 2008 concernant le niveau cadre A : la filière hébergement et vie sociale, la filière administrative et services techniques et la filière soins.
+(1) Les dispositions de l'avenant n° 17 du 4 mars 2013 concernent le niveau cadre A, B et C : la filière hébergement et vie sociale, la filière administrative et services techniques et la filière soins.
+
+(1) Les dispositions de l'avenant n° 17 du 4 mars 2013 concernent le niveau cadre A, B : la filière hébergement et vie sociale et la filière administrative et services techniques.
