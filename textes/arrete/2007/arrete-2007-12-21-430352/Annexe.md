@@ -4,15 +4,11 @@ CORPS À STATUTS COMMUNS
 
 À DIVERSES ADMINISTRATIONS DE CATÉGORIE A
 
-CORPS ET GRADES
-
-|
+CORPS ET GRADES |
 
 TAUX APPLICABLES
 
-(en pourcentage)
-
-|
+(en pourcentage) |
 
 Corps des chargés d'études documentaires
 
@@ -36,15 +32,11 @@ Chargés d'études documentaires principaux de 1re classe
 
 CORPS MINISTÉRIELS DE CATÉGORIE A
 
-CORPS ET GRADES
-
-|
+CORPS ET GRADES |
 
 TAUX APPLICABLES
 
-(en pourcentage)
-
-|
+(en pourcentage) |
 
 Corps des attachés d'administration de l'équipement
 
@@ -190,15 +182,11 @@ CORPS À STATUTS COMMUNS
 
 À DIVERSES ADMINISTRATIONS DE CATÉGORIE B
 
-CORPS ET GRADES
-
-|
+CORPS ET GRADES |
 
 TAUX APPLICABLES
 
-(en pourcentage)
-
-|
+(en pourcentage) |
 
 Corps des secrétaires administratifs de l'équipement
 
@@ -234,15 +222,11 @@ Assistants principaux de service social
 
 CORPS MINISTÉRIELS DE CATÉGORIE B
 
-CORPS ET GRADES
-
-|
+CORPS ET GRADES |
 
 TAUX APPLICABLES
 
-(en pourcentage)
-
-|
+(en pourcentage) |
 
 Corps des techniciens supérieurs de l'équipement
 
@@ -306,9 +290,9 @@ Contrôleurs des affaires maritimes de classe exceptionnelle
 
 Corps des inspecteurs du permis de conduire et de la sécurité routière
 
-Décret n° 87-997 du 10 décembre 1987 modifié
+Décret n° 2013-422 du du 22 mai 2013
 
-Inspecteurs principaux du permis de conduire et de la sécurité routière de 2e classe
+Inspecteurs du permis de conduire et de la sécurité routière de 2e classe
 
 |
 
@@ -348,15 +332,11 @@ CORPS À STATUTS COMMUNS
 
 À DIVERSES ADMINISTRATIONS DE CATÉGORIE C
 
-CORPS ET GRADES
-
-|
+CORPS ET GRADES |
 
 TAUX APPLICABLES
 
-(en pourcentage)
-
-|
+(en pourcentage) |
 
 Corps des adjoints administratifs des administrations de l'Etat
 
@@ -416,15 +396,11 @@ Adjoints techniques principaux des administrations de l'Etat de 1re classe
 
 CORPS MINISTÉRIELS DE CATÉGORIE C
 
-CORPS ET GRADES
-
-|
+CORPS ET GRADES |
 
 TAUX APPLICABLES
 
-(en pourcentage)
-
-|
+(en pourcentage) |
 
 Corps des dessinateurs
 
