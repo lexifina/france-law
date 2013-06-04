@@ -1,0 +1,9 @@
+# Réponse à la question n° 13863
+
+- Question : [13863](13863.md) — Question n° 13863 — dénonciation; conséquences
+
+## Réponse
+
+*JO du 2013-06-04*
+
+La convention fiscale qui liait la France au Danemark a fait l'objet d'une dénonciation unilatérale par ce dernier. Face à cette situation, le Gouvernement français s'est attaché à rechercher des solutions visant à atténuer les conséquences de cette dénonciation pour les contribuables. Dans cette perspective, des mesures ont été mises en place qui ont pour effet d'atténuer fortement l'impact de l'absence de convention fiscale et d'instaurer des mécanismes visant à régler les doubles impositions susceptibles d'être supportées par des résidents de France percevant des revenus de source danoise. Ainsi, dans la plupart des cas, les résidents de France peuvent imputer l'impôt prélevé au Danemark sur les revenus de source danoise sur l'impôt français correspondant à ces mêmes revenus. S'agissant plus spécifiquement des pensions de source danoise, dont les modalités d'imposition constituaient l'objet même du différend entre les autorités françaises et danoises, les deux Etats se sont accordés pour ne pas taxer les pensions de source publique et le Danemark n'a pas soumis à l'imposition les pensions de source danoise versées antérieurement à 2008 à des résidents français. Par ailleurs, l'administration fiscale française met tout en oeuvre afin de faciliter les démarches des contribuables concernés par ces situations de double imposition et s'efforce de traiter leurs demandes dans les meilleurs délais. La France envisage par ailleurs de reprendre des discussions avec ces dernières sur les problématiques conventionnelles, tout en restant attachée à préserver un cadre satisfaisant en matière de taxation des pensions, dans la mesure où les autorités danoises manifesteraient une ouverture en ce sens.
