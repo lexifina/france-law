@@ -1,0 +1,9 @@
+# Réponse à la question n° 21988
+
+- Question : [21988](21988.md) — Question n° 21988 — trop-perçus; assujettissement; réglementation
+
+## Réponse
+
+*JO du 2013-06-04*
+
+Au plan fiscal, les dispositions de l'article 12 du code général des impôts (CGI) conduisent à soumettre à l'impôt sur le revenu, au titre de l'année considérée, l'ensemble des revenus perçus au cours de ladite année. Ce principe d'imposition au titre de l'année de mise à disposition du revenu s'applique sans qu'il y ait lieu de distinguer suivant la période à laquelle les revenus se rapportent ou à la date à laquelle se place leur échéance.Par suite, lorsqu'un contribuable est appelé à reverser des sommes à raison desquelles il a été régulièrement imposé, ce reversement est sans incidence sur l'imposition se rapportant à l'année au cours de laquelle le contribuable a disposé desdites sommes. En revanche, le reversement s'impute sur le revenu de l'année au cours de laquelle il intervient, c'est-à-dire sur le montant brut (avant application de la déduction forfaitaire pour frais professionnels de 10 %) des sommes imposables dans la même catégorie d'imposition perçues l'année du reversement par l'intéressé ou, à défaut, par son conjoint ou ses enfants à charge. En l'absence de revenus de cette catégorie, le reversement est traité comme un déficit. Il peut alors être retranché du revenu global imposable de la même année ou, en cas d'insuffisance de ce dernier, de celui des années suivantes jusqu'à la cinquième inclusivement.Enfin, des consignes ont été données aux services de la direction générale des finances publiques afin que ces règles soient appliquées, dans le cadre d'un recours gracieux, de façon mesurée lorsque l'économie d'impôt réalisée l'année de déduction du reversement ne compense pas le surcoût d'impôt payé l'année de l'imposition du trop perçu.
