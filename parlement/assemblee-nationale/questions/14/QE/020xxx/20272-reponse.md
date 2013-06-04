@@ -1,0 +1,9 @@
+# Réponse à la question n° 20272
+
+- Question : [20272](20272.md) — Question n° 20272 — champ d'application; établissements de santé privés
+
+## Réponse
+
+*JO du 2013-06-04*
+
+Dans le cadre de la campagne tarifaire 2013, le ministère de la santé a veillé à une répartition du taux de l'objectif national de dépenses d'assurance maladie (ONDAM) « établissements de santé » la plus équilibrée possible entre les différents acteurs de l'hospitalisation. C'est dans un contexte économiquement contraint et avec l'objectif de respecter l'ONDAM 2013, que le Gouvernement a fait des choix en termes de répartition des ressources entre secteurs. Les besoins des établissements de santé privés à but lucratif ont fait l'objet d'une attention toute particulière ; la transparence de la construction des tarifs atteste que les établissements privés ne sont pas indûment lésés par rapport aux autres catégories d'établissements de santé. Il a néanmoins dû arbitrer en faveur d'une reprise progressive globale sur les tarifs des cliniques pour compenser l'avantage dont elles vont bénéficier dans les années à venir au titre de l'application du crédit d'impôt en faveur de la compétitivité et de l'emploi (CICE), dans le but de neutraliser l'impact de cet avantage fiscal. Cette reprise sera étalée sur trois années pour tenir compte de la montée en charge progressive du dispositif et de l'impact réel en trésorerie pour les établissements de santé privés. Elle est donc opérée de façon à ne pas nuire aux équilibres économiques des cliniques, dans l'attente qu'elles bénéficient concrètement du CICE. Les montants ainsi récupérés ont vocation à être déduits de l'ONDAM pour permettre une économie véritable pour l'assurance maladie et gager le coût du dispositif pour les comptes publics. Ils ne seront donc pas transférés au profit d'autres enveloppes au sein de l'ONDAM, conformément à l'objectif de neutralisation de l'impact du CICE.
