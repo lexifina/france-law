@@ -1,0 +1,9 @@
+# Réponse à la question n° 2184
+
+- Question : [2184](2184.md) — Question n° 2184 — médiateur du ministère; propositions
+
+## Réponse
+
+*JO du 2013-06-04*
+
+Parmi les diverses voies de poursuite des débiteurs n'ayant, malgré une relance, pas réglé leur dette à l'égard des collectivités territoriales et de leurs établissements publics, figurent les diverses formes de saisie de leurs biens par un huissier, ce qui entraîne des frais de poursuites mis à leur charge en plus du principal dû. Pour éviter ces frais supplémentaires, notamment pour des débiteurs connaissant des difficultés financières, les comptables publics recourent prioritairement à l'opposition à tiers détenteur. Lorsque cette opposition est notifiée à la banque du débiteur, celle-ci prélève des frais contractuels, variant d'une banque à l'autre mais que le projet de loi de séparation et de régulation des activités bancaires vise à mieux encadrer, et qui ne reviennent donc pas à l'administration. Afin que le recouvrement d'une dette n'entraîne pas de tels frais bancaires d'un montant supérieur à celui dû, la réglementation en vigueur n'autorise ce type de poursuites que pour les dettes d'un montant supérieur à 130 €. Lorsque l'opposition est adressée à une autre catégorie de tiers détenteurs (par exemple à l'employeur), ce seuil est de 30 €. Sachant que la majeure partie des créances émises par les organismes publics locaux est d'un montant limité, il n'est pas possible de réévaluer ces seuils sans priver ces organismes d'une partie non négligeable de leurs ressources financières pour équilibrer leurs comptes. En outre, le comptable étant obligé de recouvrer les créances sous sa responsabilité personnelle et pécuniaire, toute modification de ces seuils l'obligerait à recourir plus fréquemment à des saisies par voie d'huissier avec les frais supplémentaires qui s'y attachent pour les débiteurs.
