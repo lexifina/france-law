@@ -1,0 +1,9 @@
+# Réponse à la question n° 26486
+
+- Question : [26486](26486.md) — Question n° 26486 — programme européen d'aide aux plus démunis; perspectives
+
+## Réponse
+
+*JO du 2013-06-04*
+
+Le ministre en charge de l'agriculture tient à rappeler, en accord avec le souhait exprimé par le président de la République, le soutien de la France à un mécanisme européen en faveur des plus démunis. La crise actuelle est suffisamment grave pour qu'une telle aide, essentielle pour de nombreuses associations caritatives et leurs bénéficiaires, ne soit pas supprimée mais soit au contraire confortée. Le compromis politique dégagé en 2011 n'a permis qu'une prorogation temporaire de ce programme européen. Il a en effet été acté que celui-ci ne perdurerait, dans sa forme actuelle, que jusqu'au 1er janvier 2014. En ce sens, il faut saluer l'initiative de la Commission européenne de créer un nouvel instrument, le fonds européen d'aide aux plus démunis, qui permettra de conserver une aide européenne aux personnes les plus démunies. A cet égard, le ministre en charge de l'agriculture tient à réaffirmer que, dans un contexte difficile et malgré les réticences de certains États membres, le président de la République a réussi à obtenir le maintien de cette aide dans le cadre du conseil européen des 8 et 9 février 2013. En outre, et ce grâce à la volonté politique forte de la France en particulier, le budget alloué à ce dispositif d'aide est maintenu à hauteur de la proposition initiale de la Commission européenne (2,5 milliards d'euros) alors même que certains pays insistaient sur leurs demandes de revoir ce montant à la baisse. Enfin, le Gouvernement sera également vigilant sur l'importance, bien identifiée par la Commission européenne, de conserver un lien avec la politique agricole commune ainsi que la nécessité de réaffirmer la vocation avant tout alimentaire de cet outil.
