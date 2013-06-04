@@ -1,0 +1,9 @@
+# Réponse à la question n° 25928
+
+- Question : [25928](25928.md) — Question n° 25928 — main-d'oeuvre; coût
+
+## Réponse
+
+*JO du 2013-06-04*
+
+La recherche d'une plus grande compétitivité est une des clés de la réussite de la France dans la bataille pour l'emploi que mène le Gouvernement. En agriculture, l'exonération de charges sur les travailleurs saisonniers tout comme l'application du crédit d'impôt compétitivité et emploi (CICE) y contribueront pleinement. C'est au regard de l'enjeu de compétitivité que la dotation au titre de l'exonération de charges patronales pour l'embauche de travailleurs occasionnels et demandeurs d'emploi du secteur agricole et des contrats vendanges a été maintenue au même niveau qu'en 2012, soit un engagement à hauteur de 506,8 millions d'euros. Par ailleurs, cet allègement de charges sociales peut se cumuler avec le CICE prévu par l'article 66 de la dernière loi de finances rectificative pour 2012. Peuvent bénéficier de ce crédit d'impôt équivalent à 6 % des salaires inférieurs à 2,5 salaire minimum de croissance l'ensemble des entreprises employant des salariés, imposées à l'impôt sur les sociétés ou à l'impôt sur le revenu d'après leur bénéfice réel, quel que soit le mode d'exploitation (entreprise individuelle, société de personnes, société de capitaux...), et quel que soit le secteur d'activité (agricole, artisanal, commercial, industriel, de services...). La compétitivité de l'agriculture française ne dépend pas seulement de la baisse du coût du travail. Les facteurs d'innovation, le financement et l'investissement des entreprises, la formation sont également trois axes forts de soutien à la compétitivité. Les mesures annoncées dans le cadre du pacte national pour la compétitivité, la croissance et l'emploi visent à traiter toutes ces dimensions.
