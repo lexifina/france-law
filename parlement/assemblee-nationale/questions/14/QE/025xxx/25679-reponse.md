@@ -1,0 +1,9 @@
+# Réponse à la question n° 25679
+
+- Question : [25679](25679.md) — Question n° 25679 — Sahara occidental; attitude de la France
+
+## Réponse
+
+*JO du 2013-06-04*
+
+La France soutiendra toute solution au conflit qui recueillera l'agrément des parties, dans le respect des résolutions des Nations unies. Or la résolution 1282 a constaté en 1999 que les désaccords entre les parties sur les listes électorales semblaient ne guère laisser de possibilité de tenir le référendum. Par conséquent, le secrétaire général des Nations unies a confié une mission de bons offices à son envoyé personnel. Les plans successifs proposés dans ce cadre pour dépasser le blocage sur les listes électorales ont toutefois tous été rejetés par l'une ou l'autre partie. La France appuie les efforts de l'envoyé personnel pour permettre le rapprochement des parties. Dans la résolution 1979, adoptée à l'unanimité en avril 2011 pour le renouvellement annuel du mandat de la MINURSO, le Conseil de sécurité a, pour la première fois, mis l'accent sur les droits de l'Homme au Sahara occidental, en encourageant les réformes lancées au Maroc (mise en place d'un Conseil national des droits de l'Homme indépendant avec deux antennes régionales à Laâyoune et Dakhla au Sahara occidental, annonce d'une ouverture aux procédures spéciales du Conseil des droits de l'Homme des Nations unies, inscription de la régionalisation et de l'identité hassania dans la constitution dont près du tiers des articles portent sur les droits de l'Homme) et en appelant les parties à améliorer la situation des droits de l'Homme, y compris dans les camps de réfugiés de Tindouf en Algérie. (Alors que le rapport du SGNU n'a pas proposé l'extension à ce domaine du mandat de la MINURSO). La résolution 2099 d'avril 2013 qui a été adoptée comme les précédentes par consensus, conforte les orientations déjà engagées.
