@@ -1,0 +1,9 @@
+# Réponse à la question n° 2170
+
+- Question : [2170](2170.md) — Question n° 2170 — calcul; réglementation
+
+## Réponse
+
+*JO du 2013-06-04*
+
+Les aides personnelles au logement (aide personnalisée au logement, allocation de logement familiale et allocation de logement sociale) sont calculées en fonction du loyer, des charges versées, des ressources et de la composition du foyer. La composition du foyer intervient dans le calcul du taux de participation personnelle, à travers en particulier la détermination du loyer-plafond et dans les modalités de prise en compte des ressources. Les familles monoparentales sont traitées de la même manière que les couples, dès lors que des enfants sont présents au foyer et ce alors même que la taille de ces ménages est, par définition, inférieure. L'ensemble de ces paramètres aboutit à un mode de calcul complexe mais permettant de graduer assez finement le montant de l'aide personnelle au logement en fonction de la situation réelle du foyer, et particulièrement de sa composition et de ses revenus. Une étude de la direction de la recherche, des études, de l'évaluation et des statistiques (DREES) relative aux prestations familiales et de logement en 2010 montre que l'impact redistributif des aides aux logement et des minima sociaux avantage les familles monoparentales : alors que l'impact sur le niveau de vie est de 0,1 % pour les couples avec un enfant, il est de 10,8 % pour les isolés avec un enfant ; de même, alors que cet impact est de 0,3 % pour les couples avec deux enfants et de 1,3 % pour les couples avec trois enfants ou plus, il atteint chez les isolés avec deux enfants ou plus 16,6 %. Enfin, ainsi que cela a été annoncé lors de la conférence de lutte contre la pauvreté et les exclusions des 10 et 11 décembre 2012, les familles monoparentales feront l'objet d'une attention particulière dans le cadre des réformes à venir des politiques familiales.
