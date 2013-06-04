@@ -1,0 +1,9 @@
+# Réponse à la question n° 10122
+
+- Question : [10122](10122.md) — Question n° 10122 — revendications; perspectives
+
+## Réponse
+
+*JO du 2013-06-04*
+
+Le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social a pris connaissance avec intérêt de votre question sur les difficultés rencontrées par les saisonniers, employés aujourd'hui dans de nombreux secteurs. Vous soulignez des situations relevées par le forum social des saisonniers d'Aubagne, notamment celles relatives à l'absence de contrat de travail ou le non paiement des heures supplémentaires. De manière plus générale, vous pointez le caractère précaire de l'emploi saisonnier, qui les éloigne de l'accès au logement et à l'emprunt et ne permet pas toujours l'indemnisation par l'assurance chômage-chômage. S'agissant de l'absence de contrat à durée déterminée (CDD) saisonnier écrit et du non paiement des heures supplémentaires, il convient de rappeler aux salariés saisonniers que ce sont là des situations illégales qu'il leur appartient de porter devant le juge des prudhommes. En ce qui concerne la précarité des parcours et les moyens permettant d'y remédier, le projet de loi, transcrivant l'accord national interprofessionnel sur la sécurisation de l'emploi qui s'est conclue le 11 janvier 2013, apporte plusieurs réponses. Les travaux doivent se poursuivre, en lien avec la ministre chargée de l'artisanat, du commerce et du tourisme, et les parlementaires intéressés. A ce titre, les ministres ont convenu de la mise en place rapide d'un groupe de travail, en lien avec le Conseil National du Tourisme, afin de proposer les adaptations nécessaires pour développer l'emploi et mieux sécuriser les parcours professionnels dans le secteur du tourisme. Ce groupe de travail s'intéressera notamment à la question de l'emploi saisonnier.
