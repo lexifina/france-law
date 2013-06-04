@@ -1,0 +1,9 @@
+# Réponse à la question n° 1813
+
+- Question : [1813](1813.md) — Question n° 1813 — 3 Suisses; emploi et activité
+
+## Réponse
+
+*JO du 2013-06-04*
+
+La jurisprudence de la Cour de cassation indique clairement, que lorsque l'entreprise fait partie d'un groupe, l'existence des difficultés économiques à l'origine de la fermeture de l'entreprise, doit être appréciée dans le cadre du groupe, dans la limite du secteur d'activité auquel appartient l'entreprise. Ainsi les difficultés économiques d'une entreprise ne peuvent pas justifier le licenciement d'un salarié si la situation économique des autres entreprises du groupe appartenant au même secteur d'activité n'est pas affectée. Dans le cadre de la grande conférence sociale des 9 et 10 juillet 2012, le gouvernement a invité les partenaires sociaux à négocier au niveau national interprofessionnel les conditions d'une meilleure sécurisation de l'emploi et notamment de réfléchir à l'amélioration des procédures de licenciements collectifs. Cette négociation a abouti à la conclusion de l'accord national interprofessionnel du 11 janvier 2013 pour un nouveau modèle économique et social. Le projet de loi qui en émane, présenté en Conseil des Ministres le 6 mars 2013 a fait l'objet de longs débats au Parlement et a été voté définitivement le 14 mai 2013. Il permettra par la négociation de trouver un nouvel équilibre renforçant la sécurisation des parcours professionnels des salariés et la capacité d'adaptation des entreprises. La loi transforme les procédures applicables au licenciement économique. Auparavant, l'employeur décidait unilatéralement des mesures sociales. Demain, ce sera soit un accord majoritaire signé avec les OS, soit une décision d'homologation par l'administration. Le gouvernement reste bien entendu attentif à toutes les situations des salariés licenciés dans le cadre de ces restructurations.
