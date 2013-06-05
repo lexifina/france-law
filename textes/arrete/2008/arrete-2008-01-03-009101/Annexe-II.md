@@ -116,6 +116,8 @@ Thème 4
 
 Service, logistique :
 
+- la sensibilisation au handicap et la prise en compte des voyageurs handicapés
+
 - les comportements contribuant à la valorisation de l'image de marque d'une entreprise et au
 
 développement de la qualité de service

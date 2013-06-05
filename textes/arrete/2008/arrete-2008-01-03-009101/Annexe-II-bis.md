@@ -126,6 +126,8 @@ Thème 4
 
 Service, logistique (actualisation des connaissances) :
 
+- la sensibilisation au handicap et la prise en compte des voyageurs handicapés
+
 - les comportements contribuant à la valorisation de l'image de marque de l'entreprise et au développement de la qualité de service
 
 - l'environnement économique du transport de voyageurs et notamment l'organisation des transports et le rôle des différents acteurs économiques et institutionnels
