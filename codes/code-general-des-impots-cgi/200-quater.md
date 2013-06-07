@@ -120,9 +120,13 @@ Equipements de production d'électricité utilisant l'énergie radiative du sole
 
 |
 
-22 % |
+22 %
 
-11 % |
+|
+
+11 %
+
+|
 
 Pompes à chaleur (autres que air/ air) dont la finalité essentielle est la production
 
@@ -130,25 +134,33 @@ de chaleur, à l'exception des pompes à chaleur géothermiques.
 
 |
 
-25 % |
+25 %
+
+|
 
 22 %
 
 |
 
-15 % |
+15 %
+
+|
 
 Pompes à chaleur géothermiques dont la finalité essentielle est la production de chaleur.
 
 |
 
-40 % |
+40 %
+
+|
 
 36 %
 
 |
 
-26 % |
+26 %
+
+|
 
 Pompes à chaleur (autres que air/ air) thermodynamiques dédiées à la production
 
@@ -156,25 +168,33 @@ d'eau chaude sanitaire.
 
 |
 
-40 % |
+40 %
+
+|
 
 36 %
 
 |
 
-26 % |
+26 %
+
+|
 
 Pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques.
 
 |
 
-40 % |
+40 %
+
+|
 
 36 %
 
 |
 
-26 % |
+26 %
+
+|
 
 Chaudières et équipements de chauffage ou de production d'eau chaude fonctionnant
 
@@ -200,7 +220,9 @@ au bois ou autres biomasses :
 
 |
 
-15 % |
+15 %
+
+|
 
 -en cas de remplacement des mêmes matériels.
 
@@ -214,7 +236,9 @@ au bois ou autres biomasses :
 
 |
 
-26 % |
+26 %
+
+|
 
 (1) Pour les dépenses payées jusqu'au 28 septembre 2010 inclus, ainsi que celles
 
@@ -278,7 +302,7 @@ Cette facture comporte, outre les mentions prévues à l'article 289 :
 
 5° Lorsque les travaux d'installation des équipements, matériaux et appareils y sont soumis, les critères de qualification de l'entreprise ou de qualité de l'installation ;
 
-6° Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou d'un équipement de chauffage ou de production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, et pour le bénéfice du taux de 31 % mentionné à la dernière ligne du tableau du d du 5, outre les mentions précitées, la mention de la reprise, par l'entreprise qui a réalisé les travaux, de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa destruction.
+6° Dans le cas du remplacement d'une chaudière à bois ou autres biomasses ou d'un équipement de chauffage ou de production d'eau chaude indépendant fonctionnant au bois ou autres biomasses, et pour le bénéfice du taux de 26 % mentionné à la dernière ligne du tableau du d du 5, outre les mentions précitées, la mention de la reprise, par l'entreprise qui a réalisé les travaux, de l'ancien matériel et des coordonnées de l'entreprise qui procède à sa destruction.
 
 c) Lorsque le bénéficiaire du crédit d'impôt n'est pas en mesure de produire une facture ou une attestation comportant les mentions prévues au b selon la nature des travaux, équipements, matériaux et appareils concernés, il fait l'objet, au titre de l'année d'imputation et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la dépense non justifiée.
 
@@ -289,3 +313,7 @@ c) Lorsque le bénéficiaire du crédit d'impôt n'est pas en mesure de produire
 7. Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires.S'il excède l'impôt dû, l'excédent est restitué.
 
 Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de cinq ans de tout ou partie du montant des dépenses qui ont ouvert droit à cet avantage, il fait l'objet, au titre de l'année de remboursement et dans la limite du crédit d'impôt obtenu, d'une reprise égale au montant de l'avantage fiscal accordé à raison de la somme qui a été remboursée. Toutefois, aucune reprise n'est pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.
+
+NOTA :
+
+Modification effectuée en conséquence de l'article 1er du décret n° 2012-547 du 23 avril 2012.

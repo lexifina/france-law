@@ -4,15 +4,15 @@ Pour l'application du l du 1° du I de l'article 31 du code général des impôt
 
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus proche, de ceux mentionnés au :
 
--a de l'article 2 terdecies B, pour les baux conclus en 2012, s'agissant de logements autres que ceux visés au b de ce même article ;
+-a de l'article 2 terdecies B, pour les baux conclus en 2013, s'agissant de logements autres que ceux visés au b de ce même article ;
 
--b de l'article 2 terdecies B, pour les baux conclus en 2012, s'agissant de logements visés au b de ce même article.
+-b de l'article 2 terdecies B, pour les baux conclus en 2013, s'agissant de logements visés au b de ce même article.
 
-Pour les baux conclus en 2012, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,10 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à 13,31 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
+Pour les baux conclus en 2013, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,28 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à 13,56 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2012, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2013, les plafonds annuels de ressources sont les suivants :
 
 (en euros)
 
@@ -52,19 +52,19 @@ Personne seule
 
 |
 
-45 241
+46 214
 
 |
 
-33 605
+34 328
 
 |
 
-30 805
+31 467
 
 |
 
-30 597
+31 255
 
 |
 
@@ -72,19 +72,19 @@ Couple
 
 |
 
-67 612
+69 066
 
 |
 
-49 349
+50 410
 
 |
 
-45 237
+46 210
 
 |
 
-41 124
+42 008
 
 |
 
@@ -92,19 +92,19 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-81 276
+83 023
 
 |
 
-59 078
+60 348
 
 |
 
-54 155
+55 319
 
 |
 
-49 231
+50 289
 
 |
 
@@ -112,19 +112,19 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-97 355
+99 448
 
 |
 
-71 498
+73 035
 
 |
 
-65 540
+66 949
 
 |
 
-59 582
+60 863
 
 |
 
@@ -132,19 +132,19 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-115 250
+117 728
 
 |
 
-83 916
+85 720
 
 |
 
-76 925
+78 579
 
 |
 
-69 929
+71 432
 
 |
 
@@ -152,19 +152,19 @@ Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-129 686
+132 474
 
 |
 
-94 657
+96 692
 
 |
 
-86 770
+88 636
 
 |
 
-78 882
+80 578
 
 |
 
@@ -172,25 +172,25 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 
 |
 
-+ 14 455
++ 14 766
 
 |
 
-+ 10 752
++ 10 983
 
 |
 
-+ 9 856
++ 10 068
 
 |
 
-+ 8 960
++ 9 153
 
 |
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à l'article 2 duodecies.
 
-Pour les baux conclus en 2012, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
+Pour les baux conclus en 2013, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
 
 (en euros)
 
@@ -220,11 +220,11 @@ Personne seule
 
 |
 
-27 193
+27 686
 
 |
 
-23 831
+24 273
 
 |
 
@@ -232,23 +232,19 @@ Couple
 
 |
 
-36 315
+36 973
 
 |
 
-44 073
-
-|
+44 890 |
 
 Personne seule ou couple ayant une personne à charge
 
 |
 
-43 671
+44 462 |
 
-|
-
-46 621
+47 486
 
 |
 
@@ -256,35 +252,29 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-52 716
+53 671
 
 |
 
-49 171
-
-|
+50 083 |
 
 Personne seule ou couple ayant trois personnes à charge
 
 |
 
-62 017
+63 141
 
 |
 
-52 576
-
-|
+53 551 |
 
 Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-69 893
+71 159 |
 
-|
-
-55 984
+57 022
 
 |
 
@@ -292,11 +282,9 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 
 |
 
-+ 7 798
++ 7 940 |
 
-|
-
-+ 3 576 |
++ 3 643 |
 
 Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 

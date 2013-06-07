@@ -1,14 +1,14 @@
 # Article 1609 quintricies
 
-I. – Il est institué une contribution sur les activités privées de sécurité mentionnées au titre II bis de la loi n° 83-629 du 12 juillet 1983 réglementant les activités privées de sécurité.
+I. – Il est institué une contribution sur les activités privées de sécurité mentionnées au titre III du livre VI du code de la sécurité intérieure.
 
 II. – Sont redevables de la contribution mentionnée au I :
 
-1° Les personnes morales et physiques qui effectuent en France à titre onéreux des activités privées de sécurité mentionnées aux titres Ier et II de la loi n° 83-629 du 12 juillet 1983 précitée ;
+1° Les personnes morales et physiques qui effectuent en France à titre onéreux des activités privées de sécurité mentionnées aux titres Ier et II du livre VI du code de la sécurité intérieure ;
 
-2° Les personnes morales mentionnées à l'article 11 de la même loi qui, agissant pour leur propre compte, font exécuter en France par certains de leurs salariés une ou plusieurs de ces activités.
+2° Les personnes morales mentionnées à l'article L. 612-25 du même code qui, agissant pour leur propre compte, font exécuter en France par certains de leurs salariés une ou plusieurs de ces activités.
 
-Les activités mentionnées à l'article 20 de ladite loi sont réputées se situer en France lorsqu'elles sont effectuées pour les besoins d'une personne établie ou domiciliée en France.
+Les activités mentionnées aux articles L. 621-1 et L. 622-1 du même code sont réputées se situer en France lorsqu'elles sont effectuées pour les besoins d'une personne établie ou domiciliée en France.
 
 III. – Pour les personnes morales et physiques mentionnées au 1° du II, la contribution est calculée au taux de 0,5 % sur le montant hors taxe des ventes de prestations de services d'activités privées de sécurité assurées en France par ces personnes.
 
@@ -27,3 +27,7 @@ V. – 1. Sous réserve du 2, la contribution est déclarée et liquidée comme 
 VI. – Lorsqu'une personne non établie dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale est redevable de la contribution mentionnée au I, elle est tenue de faire accréditer auprès de l'administration fiscale un représentant établi en France, qui s'engage à remplir les formalités lui incombant et à acquitter la contribution à sa place. Ce représentant tient à la disposition de l'administration fiscale la comptabilité afférente aux prestations de services rendues et les données relatives aux rémunérations mentionnées au IV. A défaut de désignation de représentant, la contribution et, le cas échéant, les pénalités qui s'y rapportent sont dues par le destinataire de la prestation imposable.
 
 VII. – Le montant de la contribution s'ajoute au prix acquitté par le client. Il est signalé par une mention particulière figurant au bas de la facture relative à la prestation servie.
+
+NOTA :
+
+Modifications effectuées en conséquence des articles 3, 19 (18°) et 22 de l'ordonnance n° 2012-351 du 12 mars 2012.

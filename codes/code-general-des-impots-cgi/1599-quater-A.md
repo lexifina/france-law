@@ -26,7 +26,7 @@ Automoteur
 
 |
 
-30 000
+30 525
 
 |
 
@@ -34,7 +34,7 @@ Locomotive diesel
 
 |
 
-30 000
+30 525
 
 |
 
@@ -48,7 +48,7 @@ Automotrice
 
 |
 
-23 000
+23 403
 
 |
 
@@ -56,7 +56,7 @@ Locomotive électrique
 
 |
 
-20 000
+20 350
 
 |
 
@@ -64,7 +64,7 @@ Motrice de matériel à grande vitesse
 
 |
 
-35 000
+35 613
 
 |
 
@@ -72,7 +72,7 @@ Automotrice tram-train
 
 |
 
-11 500
+11 701
 
 |
 
@@ -86,7 +86,7 @@ Remorque pour le transport de passagers
 
 |
 
-4 800
+4 884
 
 |
 
@@ -94,7 +94,7 @@ Remorque pour le transport de passagers à grande vitesse
 
 |
 
-10 000
+10 175
 
 |
 
@@ -102,7 +102,7 @@ Remorque tram-train
 
 |
 
-2 400
+2 442
 
 |
 
@@ -120,4 +120,4 @@ Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privi
 
 NOTA :
 
-Modifications effectuées en conséquence des articles 3-7 [39°] et 17 de l'ordonnance n° 2010-1307 du 28 octobre 2010.
+Modifications effectuées en conséquence de l'article 37-VI B (4°) b de la loi n° 2012-1510 du 29 décembre 2012.

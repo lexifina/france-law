@@ -28,7 +28,7 @@ Motrice et remorque
 
 |
 
-12 260
+12 475
 
 |
 
@@ -42,7 +42,7 @@ Automotrice et motrice
 
 |
 
-23 000
+23 403
 
 |
 
@@ -50,7 +50,7 @@ Remorque
 
 |
 
-4 800
+4 884
 
 |
 
@@ -62,10 +62,10 @@ Lorsque du matériel roulant est destiné à être utilisé à la fois sur le r�
 
 IV.-Le redevable de l'imposition déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, le nombre de matériels roulants par catégorie.
 
-Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation foncière des entreprises .
+Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation foncière des entreprises.
 
 V.-La composante de l'imposition forfaitaire sur les entreprises de réseaux prévue au présent article est affectée, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au budget de l'établissement public " Société du Grand Paris " créé par la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris.
 
 NOTA :
 
-Modifications effectuées en conséquence du décret n° 2010-756 du 7 juillet 2010.
+Modifications effectuées en conséquence de l'article 37-VI B (4°) de la loi n° 2012-1510 du 29 décembre 2012.

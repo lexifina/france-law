@@ -1,12 +1,12 @@
 # Article 2 terdecies D
 
-I. ― Pour l'application du premier alinéa du III de l'article 19 novovicies du code général des impôts :
+I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
 1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2013, à 16,52 € en zone A bis, 12,27 € dans le reste de la zone A, 9,88 € en zone B 1 et 8,59 € en zone B 2. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la formule suivante :
 
-0,7 + 19/S,
+0,7 + 19/ S,
 
 dans laquelle S est la surface du logement. Le coefficient ainsi obtenu est arrondi à la deuxième décimale la plus proche et ne peut excéder 1,2.
 

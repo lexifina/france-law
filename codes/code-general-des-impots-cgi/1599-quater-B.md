@@ -10,7 +10,7 @@ II. ― L'imposition forfaitaire est due chaque année par le propriétaire du r
 
 III. ― Le montant de l'imposition est établi de la manière suivante :
 
-a) Pour les répartiteurs principaux de la boucle locale cuivre, le montant de l'imposition de chaque répartiteur principal est fonction du nombre de lignes en service qu'il comporte au 1er janvier de l'année d'imposition. Le tarif de l'imposition par ligne en service est de 2,45 € ;
+a) Pour les répartiteurs principaux de la boucle locale cuivre, le montant de l'imposition de chaque répartiteur principal est fonction du nombre de lignes en service qu'il comporte au 1er janvier de l'année d'imposition. Le tarif de l'imposition par ligne en service est de 2,53 € ;
 
 b) Pour les unités de raccordement d'abonnés et les cartes d'abonnés du réseau téléphonique commuté, le montant de l'imposition est établi en fonction de la nature de l'équipement selon le barème suivant :
 
@@ -28,7 +28,7 @@ Unité de raccordement d'abonnés
 
 |
 
-6 477
+6 692
 
 |
 
@@ -36,7 +36,7 @@ Carte d'abonné
 
 |
 
-71 |
+73 |
 
 IV. ― Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, par région, département et commune :
 
@@ -48,4 +48,4 @@ Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privi
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010.
+Modifications effectuées en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010 et de l'article 37-VI B (4°) b de la loi n° 2012-1510 du 29 décembre 2012.
