@@ -6,7 +6,7 @@ Il est statué sur les demandes d'agrément présentées pour l'application de l
 
 a. Pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 7,6 millions d'euros d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 150 millions d'euros ou dont le capital est détenu à plus de 50 % par une entreprise dont le chiffre d'affaires consolidé dépasse 150 millions d'euros ;
 
-b. Pour les créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique ;
+b. Pour les créations, et extensions de services de direction, d'études, d'ingénierie et d'informatique ;
 
 c. Pour les opérations liées à celles mentionnées aux a et b ;
 
@@ -16,4 +16,4 @@ d. (Abrogé) ;
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 64 V de la loi n° 2008-776 du 4 août 2008.
+Modification effectuée en conséquence de l'art. 87, X [1°, a] de la loi n° 2006-1771 du 30 décembre 2006.
