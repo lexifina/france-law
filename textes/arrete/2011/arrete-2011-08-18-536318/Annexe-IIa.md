@@ -1,7 +1,5 @@
 # Article Annexe IIa
 
-Règlement d'examen
+Les annexes seront consultables en ligne au Bulletin officiel du ministère de l'éducation nationale sur le site http://www.education.gouv.fr.
 
-Vous pouvez consulter le document à l'adresse suivante :
-
-http://www2.cndp.fr/archivage/valid/brochadmin/bouton/h095/h095da.pdf
+L'intégralité du diplôme est diffusée en ligne à l'adresse suivante : http://www.cndp.fr/outils-doc.
