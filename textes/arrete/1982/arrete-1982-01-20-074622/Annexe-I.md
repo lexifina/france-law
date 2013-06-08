@@ -646,6 +646,14 @@ Dracocéphale d'Autriche.
 
 |
 
+Dracocephalum ruyschiana L.
+
+|
+
+Dracocéphale de Ruysch.
+
+|
+
 Echinospartum horridum (Vahl) Rothm.
 
 |
@@ -2658,6 +2666,14 @@ Orchis à long éperon.
 
 |
 
+Orchis provincialis Balbis.
+
+|
+
+Orchis de Provence.
+
+|
+
 Orchis provincialis Balbis ssp. pauciflora (Ten.) Camus.
 
 |
@@ -3223,5 +3239,129 @@ Woodwardia radicans Sm.
 |
 
 Woodwardia.
+
+|
+
+Charophycées
+
+|
+
+Tolypella salina R. Cor.
+
+|
+
+Tolypelle saline.
+
+|
+
+Bryophytes
+
+|
+
+Bruchia vogesiaca Nestl. Ex Schwägr.
+
+|
+
+Bruchie des Vosges.
+
+|
+
+Buxbaumia viridis (DC.) Moug. & Nestl.
+
+|
+
+Buxbaumie verte.
+
+|
+
+Dichelyma capillaceum (Dicks.) Myr.
+
+|
+
+Fontinale chevelue.
+
+|
+
+Dicranum viride (Sull. & Lesq.) Lindb.
+
+|
+
+Dicrane vert.
+
+|
+
+Hamatocaulis vernicosus (Mitt.) Hedenäs.
+
+|
+
+Hypne vernissé.
+
+|
+
+Mannia triandra (Scop.) Grolle.
+
+|
+
+Grimaldie rupestre.
+
+|
+
+Meesia longiseta Hedw.
+
+|
+
+Meesie à longue soie.
+
+|
+
+Orthotricum rogeri Brid.
+
+|
+
+Orthotric de Roger.
+
+|
+
+Pyramidula tetragona (Brid.) Brid.
+
+|
+
+Pyramidule tétragone.
+
+|
+
+Riccia breidleri Jur. Ex Steph.
+
+|
+
+Riccie de Breidler.
+
+|
+
+Riella helicophylla (Bory & Mont.) Mont.
+
+|
+
+Riella à thalle hélicoïde.
+
+|
+
+Riella notarisii (Mont.) Mont.
+
+|
+
+|
+
+Riella parisii Gottsche.
+
+|
+
+|
+
+Sphagnum pylaesii Brid.
+
+|
+
+Sphaigne de la Pylaie.
 
 |
