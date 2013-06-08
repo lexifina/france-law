@@ -60,13 +60,11 @@ Les tarifs d'honoraires du dispositif de prévention
 
 Les tarifs ne peuvent pas faire l'objet de dépassements d'honoraires.
 
-La rémunération de l'examen systématique annuel de prévention pour les jeunes âgés de 6, 9, 12, 15 et 18 ans est fixée initialement à 25 euros. Elle est versée directement par la caisse d'assurance maladie au médecin stomatologiste.
+Les parties signataires conviennent de revaloriser l'examen de prévention bucco-dentaire à destination des 6, 9, 12, 15 et 18 ans, dans le cadre du programme MT'dents, à hauteur de 30 €. Les forfaits avec radiographies sont revalorisés. Dans ce cas, la rémunération forfaitaire de l'examen et des radiographies est la suivante :
 
-Cet examen peut être complété (si nécessaire) par une prise de radiographie(s) intrabuccale(s) rémunérées sur la base d'un forfait, quelle que soit la technique utilisée, de la façon suivante :
+- examen avec réalisation d'un ou deux clichés : 42 euros ;
 
-― pour la réalisation d'un ou de deux clichés : 11 euros ;
-
-― pour la réalisation de trois ou quatre clichés : 22 euros.
+- examen avec réalisation de trois ou quatre clichés : 54 euros.
 
 Article 3
 

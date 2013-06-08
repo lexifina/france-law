@@ -38,13 +38,25 @@ Pour chaque indicateur sont définis un niveau initial, un objectif intermédiai
 
 ― l'objectif cible fixé par la convention, est déterminé selon les cas en tenant compte de la loi de santé publique, des recommandations des autorités sanitaires (HAS, AFSSAPS) ou de comparaisons internationales. Il est commun à l'ensemble des médecins.
 
-Pour les indicateurs de qualité de la pratique médicale relatifs au suivi des pathologies chroniques et portant sur des données de suivi clinique définis à l'article 26.2 à savoir :
+Pour les indicateurs de qualité de la pratique médicale relatifs au suivi des pathologies chroniques, à la prévention ou à l'efficience et portant sur des données déclaratives de suivi clinique définis à l'article 26.2, à savoir :
 
 - les deux indicateurs portant sur les résultats de dosage de l'HbA1c chez les diabétiques de type 2 ;
 
 - les deux indicateurs portant sur les résultats de dosage du LDL cholestérol chez les diabétiques de type 2 ; et
 
 - l'indicateur de résultat de pression artérielle chez les patients traités par antihypertenseurs ;
+
+Pour les spécialistes en cardiologie et maladies vasculaires :
+
+- l'indicateur d'utilisation de la mesure ambulatoire de la pression artérielle (MAPA) ou de l'automesure dans la prise en charge de l'hypertension artérielle ;
+
+- l'indicateur portant sur le taux de LDL cholestérol chez les patients de moins de 85 ans en postinfarctus du myocarde ;
+
+- pour les spécialistes en gastroentérologie et hépatologie :
+
+- l'indicateur portant sur la qualité de la coloscopie réalisée après test positif de recherche de sang occulte dans les selles (réalisé dans le cadre du dépistage organisé) ;
+
+- l'indicateur portant sur la transmission par le médecin spécialiste en gastro-entérologie et hépatologie au médecin traitant (MT), des résultats et du délai de contrôle coloscopique après polypectomie par coloscopie.
 
 La situation médicale initiale du médecin n'étant pas connue au moment de l'entrée en vigueur du dispositif ou de l'adhésion du médecin à la convention lors d'une nouvelle installation, le niveau initial du médecin est défini par défaut à 0 %.
 
@@ -96,11 +108,11 @@ Lorsque le nombre de points n'est pas une valeur entière, le nombre est arrondi
 
 2.3. Pondération de la patientèle
 
-Le nombre de points est défini pour une patientèle moyenne de référence de 800 patients pour un médecin généraliste traitant et pour un médecin spécialiste en cardiologie et médecine vasculaire. Afin de prendre un compte le volume de la patientèle pour certains indicateurs (organisation du cabinet pour les médecins traitants et indicateurs portant sur la qualité des pratiques), le nombre de points calculé par indicateur est pondéré ensuite selon le volume de la patientèle réelle.
+Le nombre de points est défini pour une patientèle moyenne de référence de 800 patients pour un médecin généraliste traitant et pour un médecin spécialiste en cardiologie et maladies vasculaires et de 1 100 patients pour un spécialiste en gastro-entérologie et hépatologie. Afin de prendre un compte le volume de la patientèle pour certains indicateurs (organisation du cabinet pour les médecins traitants et indicateurs portant sur la qualité des pratiques), le nombre de points calculé par indicateur est pondéré ensuite selon le volume de la patientèle réelle.
 
 Au total la rémunération est calculée ainsi :
 
-Nombre de points x taux de réalisation pour l'indicateur x (patientèle réelle/800) x valeur du point.
+Nombre de points x taux de réalisation pour l'indicateur x (patientèle réelle/800 ou 1 100) x valeur du point.
 
 2.4. Accompagnement des premières installations
 
@@ -120,12 +132,18 @@ Par ailleurs, le médecin bénéficie également de la rémunération à la perf
 
 Article 4
 
-Pour les médecins spécialistes en cardiologie également désignés comme médecin traitant
+Pour les médecins spécialistes en cardiologie et maladies vasculaires et les médecins spécialistes en gastro-entérologie et hépatologie désignés comme médecin traitant
 
-Le dispositif de rémunération à la performance relative au médecin traitant et celui relatif à la spécialité en cardiologie ne sont pas cumulables.
+Le dispositif de rémunération à la performance relative au médecin traitant et ceux relatifs aux spécialités en cardiologie et maladies vasculaires et spécialités de gastro-entérologie et hépatologie ne sont pas cumulables.
 
 Article 5
 
 Précisions sur les modalités de calcul de la patientèle des médecins spécialistes en cardiologie
 
 Les actes exclus de la patientèle au sens du neuvième alinéa de l'article 26 sont les actes de chirurgie ou technique interventionnel par voie vasculaire portant sur le cœur, les artères ou les veines et actes de surveillance sur 24 heures ou forfaits de cardiologie ou de réanimation et actes de scanner, IRM ou scintigraphie cardiovasculaire et actes de réadaptation.
+
+Article 6
+
+Précisions sur les modalités de calcul de la patientèle des médecins spécialistes en gastro-entérologie et hépatologie.
+
+Les actes exclus de la patientèle au sens du neuvième alinéa de l'article 26 sont les actes peu fréquents (moins de 50 actes par an) et/ou non spécifiques de la spécialité (notamment certains actes d'imagerie).

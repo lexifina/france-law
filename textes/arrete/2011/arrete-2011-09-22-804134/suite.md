@@ -884,7 +884,9 @@ Article 60
 
 Principe et champ d'application
 
-En application du 5° de l'article L. 162-14-1 du code de la sécurité sociale , les partenaires conventionnels conviennent que les caisses d'assurance maladie participent au financement des cotisations dues par les médecins conventionnés en secteur à honoraires opposables. Elle est assise sur les honoraires perçus dans le cadre de l'exercice libéral effectué dans le cadre de la présente convention à l'exclusion des dépassements.
+En application du 5° de l'article L. 162-14-1 du code de la sécurité sociale , les partenaires conventionnels conviennent que les caisses d'assurance maladie participent au financement des cotisations dues par les médecins conventionnés en secteur à honoraires opposables. Cette participation est assise sur les revenus acquis au titre de l'activité libérale effectuée dans le cadre de la présente convention à l'exclusion des dépassements d'honoraires.
+
+A compter des revenus perçus au titre de l'année 2013, l'assiette de participation des caisses d'assurance maladie est étendue aux revenus tirés d'activités non salariées réalisées dans des structures dont le financement inclut la rémunération des médecins. La participation est conditionnée au respect des tarifs opposables fixés par la convention, attesté par la production de documents fixant les règles de rémunération entre les médecins et ces structures.
 
 A titre dérogatoire, les partenaires conventionnels conviennent que les forfaits rémunérant les médecins libéraux qui participent à la permanence des soins ambulatoire et en établissements de santé privés dans le cadre du dispositif issu de la loi HPST sont inclus dans l'assiette de calcul de la participation des caisses aux cotisations sociales bien qu'ils ne s'agissent pas d'honoraires perçus au titre d'une activité effectuée dans le cadre conventionnel.
 
@@ -898,7 +900,13 @@ Assurance maladie, maternité, décès
 
 Au titre du régime d'assurance maladie, maternité, décès des praticiens et auxiliaires médicaux conventionnés, les médecins conventionnés doivent une cotisation prévue à l'article L. 722-4 du code de la sécurité sociale.
 
-La participation des caisses est assise sur le montant du revenu net de dépassement d'honoraires tiré de l'activité conventionnée. Cette participation correspond à 9,7 % de ce montant.
+La participation des caisses, dont les modalités de calcul sont détaillées à l'annexe XXVI de la présente convention, est assise :
+
+- d'une part, sur le montant du revenu net de dépassements d'honoraires tiré de l'activité libérale réalisée dans le cadre de la présente convention ;
+
+- d'autre part, sur le montant des revenus tirés des activités non salariées réalisées dans des structures dont le financement inclut la rémunération des médecins, dès lors que ces activités ont été rémunérées sur la base des tarifs opposables fixés par la présente convention.
+
+Cette participation correspond à 9,7 % de ces montants.
 
 Les parties conventionnelles soulignent l'importance de faire bénéficier les femmes médecins d'une couverture maternité d'un niveau satisfaisant.
 
@@ -908,7 +916,9 @@ Allocations familiales
 
 Au titre des allocations familiales, les médecins doivent une cotisation en application de l'article L. 242-11 du code de la sécurité sociale.
 
-La participation des caisses est assise sur le montant du revenu net de dépassement d'honoraires tiré de l'activité conventionnée. Cette participation correspond à 5 % de ce montant dans la limite du plafond annuel de Sécurité Sociale ; au-delà, la participation correspond à 2,9 % du montant évoqué supra.
+L'assiette de participation des caisses est identique à celle prévue à l'article 60 de la présente convention. Cette participation correspond à 5 % de ce montant dans la limite du plafond annuel de sécurité sociale ; au-delà, la participation correspond à 2,9 % du montant évoqué supra.
+
+Les modalités de calcul de la participation sont précisées à l'annexe XXVI de la présente convention.
 
 Article 63
 
@@ -1037,6 +1047,8 @@ Des membres suivants pour la section sociale :
 - des deux médecins-conseils du régime général siégeant dans la section sociale de la CPN en formation plénière, chacun de ces médecins-conseils possédant quatre voix ;
 
 - du médecin-conseil du régime agricole et du médecin-conseil du régime social des indépendants, siégeant dans la section sociale en formation plénière, chacun de ces médecins-conseils possédant deux voix.
+
+Participe également à titre consultatif aux séances de la CPN un représentant de l'Union nationale des organismes d'assurance maladie complémentaire.
 
 En cas d'entrée de nouveaux signataires dans le champ conventionnel ou de retrait d'un signataire, la commission, constituée de l'ensemble des signataires de la convention, se réunit dans les deux mois à compter de la date de signature du nouveau signataire ou de retrait effectif d'un signataire.
 
