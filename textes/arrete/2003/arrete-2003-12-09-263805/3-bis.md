@@ -1,12 +1,14 @@
 # Article 3 bis
 
-Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel d'installateur de réseaux câblés de communications selon le tableau de correspondances figurant ci-dessous :
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles mentionnés au précédent article selon le tableau figurant ci-dessous :
 
 INSTALLATEUR DE RÉSEAUX
 
 câblés de communications
 
-(arrêté du 9 / 12 / 2003)
+(arrêté du 9 décembre 2003, modifié
+
+par l'arrêté du 7 juillet 2008)
 
 |
 
@@ -14,31 +16,31 @@ INSTALLATEUR DE RÉSEAUX
 
 câblés de communications
 
-(présent arrêté)
+(présent arrêté modificatif)
 
 |
 
-Construire des réseaux câblés de communications.
+Construire des réseaux câblés hybrides de communications
 
 |
 
-Construire des réseaux câblés hybrides de communications.
+Construire des réseaux câblés de communications
 
 |
 
-Raccorder des clients aux réseaux câblés de communications.
+Raccorder des clients à un réseau câblé hybride de communications
 
 |
 
-Raccorder des clients à un réseau câblé hybride de communications.
+Raccorder l'installation d'un client à un réseau câblé de communications
 
 |
 
-Réparer et modifier des réseaux câblés de communications.
+Réparer et modifier des réseaux câblés hybrides de communications
 
 |
 
-Réparer et modifier des réseaux câblés hybrides de communications .
+Aucune correspondance
 
 |
 
