@@ -1,0 +1,9 @@
+# Réponse à la question n° 1698
+
+- Question : [1698](1698.md) — Question n° 1698 — agents généraux d'assurance
+
+## Réponse
+
+*JO du 2013-06-11*
+
+La loi de financement de la sécurité sociale pour 2009 a instauré une majoration pour revaloriser les pensions de réversion des retraités les plus modestes (régime général, régimes des artisans, commerçants et professions libérales, salariés et non salariés agricoles et régime de Saint-Pierre-et-Miquelon). Cette augmentation a pris la forme d'une majoration de pension égale à 11,1 % de la pension de réversion, ce qui porte le taux de celle-ci de 54 % à 60 %. Elle est attribuée aux conjoints survivants âgés de plus de soixante-cinq ans dès lors qu'ils ont fait valoir tous leurs avantages de retraite et de réversion et que le total mensuel de ces avantages n'excède pas 841 €. Elle est intervenue à effet du 1er janvier 2010 sans qu'aucune démarche ne soit requise des assurés pour en obtenir le bénéfice. Elle concerne non seulement les pensions de réversion prenant effet à compter du 1er janvier 2010, mais aussi celles qui ont pris effet avant cette date. Cela représente pour le régime général, le régime agricole et les régimes de retraite des artisans, commerçants et professions libérales une dépense évaluée à 260 M€ par an. Le Premier ministre a installé le 27 février 2013 une commission pour l'avenir des retraites, présidée par Mme Yannick Moreau. Cette commission est chargée d'identifier les pistes de réforme permettant d'assurer l'équilibre des régimes à court, moyen et long terme, et d'en renforcer la justice, l'équité et la lisibilité pour les assurés. Sur la base des conclusions de ces travaux, qui seront remises très prochainement, le Gouvernement engagera avec les partenaires sociaux une concertation sur les évolutions souhaitables de notre système de retraite.
