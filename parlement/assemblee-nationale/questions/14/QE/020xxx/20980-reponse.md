@@ -1,0 +1,9 @@
+# Réponse à la question n° 20980
+
+- Question : [20980](20980.md) — Question n° 20980 — télévisions locales participatives
+
+## Réponse
+
+*JO du 2013-06-11*
+
+La création d'un fonds d'aide aux télévisions locales a été discutée lors du débat sur la loi relative aux communications électroniques et aux services de communication audiovisuelle de 2004, en s'appuyant sur l'exemple de l'aide versée par l'État aux radios associatives locales dans le cadre du Fonds de soutien à l'expression radiophonique (FSER). Cependant, pour des raisons évidentes de coûts de diffusion et de fabrication des programmes, le modèle des radios associatives n'est pas transposable en télévision. En outre, la problématique de croissance et d'évolution des télévisions associatives se présente de manière très différente de celle du développement des radios associatives. La décision qui avait présidé à la création du FSER s'expliquait par le mouvement de libéralisation des ondes et par le fait que la loi limite le financement publicitaire des radios associatives. Il n'est pas aujourd'hui question de limiter l'accès des télévisions associatives locales au marché publicitaire. Par ailleurs, en raison du contexte budgétaire contraint, il n'est actuellement pas envisageable pour le ministère de la culture et de la communication de créer un tel type de financement à destination des chaînes de télévision locales participatives. En revanche, des mesures permettant d'accroître la visibilité des chaînes locales afin de favoriser leur accès au marché publicitaire et de développer l'intérêt des annonceurs, telles que l'amélioration de la mesure d'audience des chaînes et de leurs conditions de référencement dans les plans de service des opérateurs de communications électroniques (télévision par ADSL, câble...) retiennent l'attention du Gouvernement.
