@@ -1,0 +1,9 @@
+# Réponse à la question n° 6677
+
+- Question : [6677](6677.md) — Question n° 6677 — vente du bien indivis; réforme; perspectives
+
+## Réponse
+
+*JO du 2013-06-11*
+
+Le droit de demander le partage est consacré par l'article 815 du code civil selon lequel « Nul ne peut être contraint à demeurer dans l'indivision et le partage peut être toujours provoqué, à moins qu'il n'y ait été sursis par jugement ou convention ». Ce droit de chaque indivisaire s'impose au juge, qui doit ordonner le partage dès lors qu'il est demandé par un indivisaire. La réforme du droit des successions, introduite par la loi n° 2006-728 du 23 juin 2006 portant réforme des successions et des libéralités, a permis de faciliter l'exercice de ce droit en simplifiant les opérations de partage et en favorisant le partage amiable. Ainsi, celui-ci est d'ores et déjà possible même en cas d'inertie ou de désaccord d'un ou plusieurs indivisaires, après mise en demeure par un copartageant de se présenter ou de se faire représenter au partage. Faute pour l'indivisaire de constituer mandataire dans les trois mois de la mise en demeure, le copartageant peut demander au juge de désigner toute personne qualifiée, qui représentera le défaillant jusqu'à la réalisation complète du partage. L'ensemble de ce dispositif est ainsi de nature à permettre aux héritiers de parvenir à un règlement rapide de la succession, tout en respectant le droit de propriété constitutionnellement garanti. En effet, le droit de disposer d'un bien étant l'un des attributs les plus essentiels du droit de propriété, les conditions du partage doivent être encadrées, afin de respecter les droits de l'ensemble des co-indivisaires. Dès lors il ne paraît pas nécessaire de procéder à une modification du droit en la matière, les mécanismes proposés par la loi permettant déjà d'assurer la possibilité de sortir de l'indivision tout en garantissant les droits des co-indivisaires.
