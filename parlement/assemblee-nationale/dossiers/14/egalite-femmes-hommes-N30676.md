@@ -1,0 +1,106 @@
+# Société : égalité entre les femmes et les hommes
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N30676
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/egalite_femmes_hommes
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-717.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-07-03 : 1er dépôt d'une initiative. (PRJLSNR5S199B0717)
+  - 2013-07-03 : Etude d'impact (ETDISNR5S199B0717)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-03 : Renvoi en commission au fond
+      - 2013-06-26 : Nomination de rapporteur
+      - 2013-07-24 : Dépôt de rapport (RAPPSNR5S199B0807)
+    - Travaux d'une commission saisie pour avis
+      - 2013-06-26 : Saisine pour avis d'une commission
+      - 2013-06-26 : Nomination de rapporteur
+      - 2013-07-23 : Dépôt de rapport (AVISSNR5S199B0794)
+    - Travaux d'une commission saisie pour avis
+      - 2013-07-10 : Saisine pour avis d'une commission
+      - 2013-07-10 : Nomination de rapporteur
+      - 2013-09-11 : Dépôt de rapport (AVISSNR5S199B0831)
+    - Travaux d'une délégation saisie pour avis
+      - 2013-06-11 : Saisine d'une délégation ou d'un office
+      - 2013-06-11 : Nomination de rapporteur
+      - 2013-07-22 : Dépôt de rapport (RINFSNR5S199B0788)
+  - Discussion en séance publique
+    - 2013-09-16 : Discussion en séance publique
+    - 2013-09-17 : Discussion en séance publique
+    - 2013-09-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-09-18 : Dépôt d'une initiative en navette (PRJLANR5L14B1380)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-09-18 : Renvoi en commission au fond
+      - 2013-09-18 : Nomination de rapporteur
+      - 2013-10-01 : Réunion de commission
+      - 2013-12-10 : Réunion de commission
+      - 2013-12-18 : Réunion de commission
+      - 2013-12-18 : Réunion de commission
+      - 2014-01-20 : Réunion de commission
+      - 2013-12-18 : Dépôt de rapport (RAPPANR5L14B1663, PRJLANR5L14BTC1663)
+    - Travaux d'une commission saisie pour avis
+      - 2013-10-17 : Saisine pour avis d'une commission
+      - 2013-10-30 : Nomination de rapporteur
+      - 2013-10-30 : Réunion de commission
+      - 2013-12-17 : Réunion de commission
+      - 2013-12-17 : Dépôt de rapport (AVISANR5L14B1657)
+    - Travaux d'une commission saisie pour avis
+      - 2013-10-30 : Saisine pour avis d'une commission
+      - 2013-10-29 : Nomination de rapporteur
+      - 2013-10-29 : Réunion de commission
+      - 2013-12-11 : Réunion de commission
+      - 2013-12-11 : Dépôt de rapport (AVISANR5L14B1631)
+  - Discussion en séance publique
+    - 2014-01-20 : Discussion en séance publique
+    - 2014-01-20 : Discussion en séance publique
+    - 2014-01-21 : Discussion en séance publique
+    - 2014-01-24 : Discussion en séance publique
+    - 2014-01-24 : Discussion en séance publique
+    - 2014-01-28 : Discussion en séance publique
+    - 2014-01-28 : Décision
+- deuxième lecture
+  - 2014-01-28 : Dépôt d'une initiative en navette (PRJLSNR5S219B0321)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-01-28 : Renvoi en commission au fond
+      - 2014-04-09 : Dépôt de rapport (RAPPSNR5S219B0443)
+  - Discussion en séance publique
+    - 2014-04-17 : Discussion en séance publique
+    - 2014-04-17 : Décision
+- deuxième lecture
+  - 2014-04-22 : Dépôt d'une initiative en navette (PRJLANR5L14B1894)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-04-22 : Renvoi en commission au fond
+      - 2014-06-18 : Réunion de commission
+      - 2014-06-26 : Réunion de commission
+      - 2014-06-18 : Dépôt de rapport (RAPPANR5L14B2043, PRJLANR5L14BTC2043)
+  - Discussion en séance publique
+    - 2014-06-26 : Discussion en séance publique
+    - 2014-06-26 : Discussion en séance publique
+    - 2014-06-26 : Décision
+- Commission Mixte Paritaire
+  - 2014-07-08 : Dépôt d'un projet de loi (PRJLSNR5S219B0688)
+  - 2014-07-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-07-21 : Nomination de rapporteur
+    - 2014-07-21 : Dépôt du rapport d'une CMP (RAPPANR5L14B2162)
+    - 2014-07-21 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0760)
+  - Discussion en séance publique
+    - 2014-07-23 : Discussion en séance publique
+    - 2014-07-23 : Décision
+  - Discussion en séance publique
+    - 2014-07-23 : Discussion en séance publique
+    - 2014-07-23 : Décision
+  - 2014-07-22 : Décision de la CMP
+- Conseil constitutionnel
+  - 2014-07-24 : Saisine du conseil constitutionnel
+  - 2014-07-31 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-08-04 : Promulgation d'une loi
