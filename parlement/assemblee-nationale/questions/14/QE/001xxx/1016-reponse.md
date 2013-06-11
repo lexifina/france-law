@@ -1,0 +1,9 @@
+# Réponse à la question n° 1016
+
+- Question : [1016](1016.md) — Question n° 1016 — dépenses; diminution; conséquences
+
+## Réponse
+
+*JO du 2013-06-11*
+
+Les crédits d'intervention relevant du périmètre de la ministre de la réforme de l'État, de la décentralisation et de la fonction publique sont inscrits sur le programme 148 « fonction publique » de la mission « gestion des finances publiques et des ressources humaines ». Ces crédits financent le transfert aux autres collectivités (subvention aux organisations syndicales, aux formations interministérielles et autres subventions) ainsi que le transfert aux ménages (participation de l'Etat au financement de la caisse nationale de solidarité pour l'autonomie, aide au maintien à domicile et allocation pour la diversité). Les crédits de ce programme en autorisations d'engagement et en crédits de paiement devraient diminuer d'un peu moins de 2 % sur la période 2013-2015. Par ailleurs, les programmes 119 « concours financiers de l'Etat aux communes », 120 « concours financiers de l'Etat aux départements », et 121 « concours financiers de l'Etat aux régions de la mission "relations avec les collectivités territoriales" (RCT) relèvent du périmètre du ministère de la réforme de l'Etat, de la décentralisation et de la fonction publique. L'intégralité des crédits de ces programmes correspond à des dépenses d'intervention. La loi de programmation des finances publiques 2012-2017 prévoit la stabilisation des crédits des programmes 119, 120 et 121 sur les exercices 2014 et 2015, à raison de 840,8 M€ sur le programme 119, 493,3 M€ sur le programme 120 et 906,1 M€ sur le programme 122 pour un montant total de 2 240,2 M€ pour ces trois programmes, légèrement supérieur à leur niveau 2013 (2234 M€). La stabilisation des crédits de ces trois programmes permettra de maintenir au même niveau le soutien de l'Etat à l'investissement public au niveau local.
