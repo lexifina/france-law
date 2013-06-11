@@ -1,0 +1,9 @@
+# Réponse à la question n° 9243
+
+- Question : [9243](9243.md) — Question n° 9243 — prise en charge; maladie de Tarlov
+
+## Réponse
+
+*JO du 2013-06-11*
+
+La maladie de Tarlov est due à la présence de kystes méningés. Cette maladie est relativement rare et les causes de survenue comme les facteurs déclenchant des symptômes sont mal connus ; des phénomènes traumatiques sont le plus souvent évoqués. De tels kystes peuvent être totalement asymptomatiques et découverts fortuitement, ce qui ne justifie aucun geste préventif. Ils peuvent entraîner des manifestations, essentiellement douloureuses dans le territoire de la racine nerveuse concernée : on parle alors de maladie de Tarlov. Les douleurs radiculaires peuvent être très intenses et s'accompagner d'autres manifestations neurologiques (troubles sensitifs, musculaires, vésicaux, etc.). Il faut les distinguer des lombalgies simples, des atteintes radiculaires d'autres causes (hernie discale, etc.) ou de maladies viscérales. Comme pour toutes les manifestations douloureuses chroniques, les patients relèvent d'une prise en charge spécialisée, réalisée en particulier dans les centres d'étude et de traitement de la douleur. Les indications neurochirurgicales sont rares (10 % des cas), réservées, après avoir éliminé toutes les autres causes possibles, aux kystes responsables de symptômes douloureux réfractaires à tout autre traitement ou de déficits neurologiques. Une concertation des professionnels prenant en charge les patients et des neurochirurgiens, préalable à toute intervention est recommandée. La ministre rappelle que le centre de référence des syringomyélies, service de neurochirurgie de l'hôpital Bicêtre au Kremlin-Bicêtre, peut servir de ressource pour confirmer les indications neurochirurgicales dans les cas les plus difficiles.
