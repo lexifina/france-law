@@ -1,0 +1,9 @@
+# Réponse à la question n° 19582
+
+- Question : [19582](19582.md) — Question n° 19582 — paiement; délais
+
+## Réponse
+
+*JO du 2013-06-11*
+
+Le ministère de la justice est particulièrement attentif à l'amélioration des délais de paiement des indemnités dues aux interprètes. Les retards de paiement actuels s'expliquent en partie par la volumétrie des mémoires traités par les juridictions et par la complexité du circuit de traitement de ces mémoires. Ils s'expliquent également par le caractère très contraint de la dotation budgétaire, d'autant que depuis le passage à la LOLF, les crédits sur lesquels sont imputées les indemnités allouées aux experts et aux interprètes sont devenus des crédits limitatifs. La Chancellerie a mis en place en 2012 un plan d'actions ayant pour objet à la fois de réduire le nombre des mémoires de frais, de simplifier la procédure et d'accélérer les délais de paiement. S'agissant des interprètes, elle a incité les juridictions à proposer aux interprètes intervenant de manière récurrente l'établissement de mémoires regroupant les frais de plusieurs missions. D'autres mesures seront prises en 2013 pour accélérer les délais de traitement des mémoires avec, notamment, la généralisation du contrôle par sondage. Dans cette perspective, la Chancellerie a saisi le Conseil d'Etat d'un projet de décret relatif aux frais de justice. Ainsi, la diminution très importante du flux des mémoires à traiter, associée aux nouvelles modalités de contrôle, devrait avoir pour conséquence une réduction des délais de paiement. Par ailleurs, la dotation accordée au titre des frais de justice pour l'année 2013 dans le cadre de la loi de finances initiale est en augmentation par rapport à l'année 2012. Ces crédits supplémentaires devraient également contribuer à doter les cours d'appel de telle sorte qu'elles puissent faire face à leurs engagements, en particulier à l'endroit des traducteurs interprètes.
