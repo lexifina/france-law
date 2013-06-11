@@ -1,0 +1,9 @@
+# Réponse à la question n° 11833
+
+- Question : [11833](11833.md) — Question n° 11833 — pensions alimentaires
+
+## Réponse
+
+*JO du 2013-06-11*
+
+La loi impose à chacun des parents de contribuer à l'entretien et à l'éducation de ses enfants à proportion de ses ressources, de celles de l'autre parent, ainsi que des besoins de l'enfant. Lorsque les parents sont séparés, le principe est que cette contribution est versée sous la forme d'une pension alimentaire. Néanmoins, cela n'en constitue pas la forme exclusive puisqu'il est prévu que cette contribution puisse également prendre celle d'une prise en charge directe de frais exposés au profit de l'enfant ou d'un droit d'usage et d'habitation. Cette variété des modalités de versement de la contribution à l'entretien et à l'éducation des enfants traduit la volonté du législateur de permettre aux parents et aux praticiens du droit de s'adapter à la diversité des situations qui peuvent se présenter. Le caractère indicatif de la table de référence en matière de fixation de la contribution à l'entretien et à l'éducation des enfants sous forme de pension alimentaire procède de cette préoccupation, outre le nécessaire respect du pouvoir d'appréciation des juges. Cette table a, en effet, vocation à offrir aux parties, à leur conseil et au magistrat la possibilité de recourir à une référence économique objective commune pour fixer le montant de la pension alimentaire. Si cette référence commune permet d'assurer une homogénéité du montant des pensions alimentaires sur l'ensemble du territoire, elle ne saurait pour autant en imposer une stricte égalité numérique. En effet, chacune des parties pourra toujours faire valoir tous les éléments qu'elle estime utiles, afin que le juge puisse adapter le montant de la contribution aux spécificités de la situation qui lui est soumise : la table de référence n'a pas vocation à intégrer l'ensemble des situations qui peuvent se présenter.
