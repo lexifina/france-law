@@ -1,0 +1,53 @@
+# Outre-mer : diverses dispositions
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N30677
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/diverses_dispositions_outre-mer
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-718.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-07-03 : 1er dépôt d'une initiative. (PRJLSNR5S199B0718)
+  - 2013-07-03 : Etude d'impact (ETDISNR5S199B0718)
+  - 2013-07-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-03 : Renvoi en commission au fond
+      - 2013-06-12 : Nomination de rapporteur
+      - 2013-07-17 : Dépôt de rapport (RAPPSNR5S199B0718)
+  - Discussion en séance publique
+    - 2013-07-23 : Discussion en séance publique
+    - 2013-07-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-07-24 : Dépôt d'une initiative en navette (PRJLANR5L14B1302)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-24 : Renvoi en commission au fond
+      - 2013-07-17 : Nomination de rapporteur
+      - 2013-09-18 : Réunion de commission
+      - 2013-09-18 : Réunion de commission
+      - 2013-10-01 : Réunion de commission
+      - 2013-10-02 : Réunion de commission
+      - 2013-09-18 : Dépôt de rapport (RAPPANR5L14B1382, PRJLANR5L14BTC1382)
+  - Discussion en séance publique
+    - 2013-10-02 : Discussion en séance publique
+    - 2013-10-02 : Discussion en séance publique
+    - 2013-10-02 : Décision
+- Commission Mixte Paritaire
+  - 2013-10-03 : Dépôt d'un projet de loi (PRJLSNR5S219B0037)
+  - 2013-10-03 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-10-09 : Nomination de rapporteur
+    - 2013-10-09 : Dépôt du rapport d'une CMP (RAPPANR5L14B1415)
+    - 2013-10-09 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0057)
+  - Discussion en séance publique
+    - 2013-10-17 : Discussion en séance publique
+    - 2013-10-17 : Décision
+  - Discussion en séance publique
+    - 2013-10-31 : Discussion en séance publique
+    - 2013-10-31 : Décision
+  - 2013-10-10 : Décision de la CMP
+- Promulgation de la loi
+  - 2013-11-15 : Promulgation d'une loi
