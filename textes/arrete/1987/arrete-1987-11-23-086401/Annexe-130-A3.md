@@ -428,7 +428,9 @@ des titres relève de la compétence d'une société de classification habilité
 
 |
 
-AVIS CONFORME
+AVIS
+
+CONFORME
 
 |
 
@@ -452,13 +454,9 @@ Renouvellement des certificats d'exemption
 
 |
 
-SCH
+SCH |
 
-|
-
-SCH
-
-|
+SCH |
 
 Disposition applicable pour tout navire dont les titres et certificats sont délivrés par l'administration au titre des paragraphes III (2°) et III (3°) de l'article 3-1 du décret n° 84-810 du 30 août 1984 modifié :
 

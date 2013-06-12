@@ -1,91 +1,285 @@
 # Article Annexe 130-A.4
 
-Déclaration de mise en chantier, d'acquisition à l'étranger, de mise en refonte, modifications importantes ou grande réparation.
+Déclaration de mise en chantier, d'acquisition à l'étranger, de mise en refonte, modifications importantes ou grande réparation. - Demande de désignation d'un centre de sécurité des navires compétent. - Demande de jaugeage ou rejaugeage d'un navire. - Demande de délivrance d'un permis de navigation
 
-Demande de désignation d'un centre de sécurité des navires compétent.
+Article 130.7 et article 130.8 de la division 130 du règlement annexé
 
-Demande de délivrance d'un permis de navigation.
+à l'arrêté du 23 novembre 1987 modifié relatif à la sécurité des navires
 
-Article 130.7 et article 130.8 de la division 130 du règlement annexé à l'arrêté du 23 novembre 1987 modifié, relatif à la sécurité des navires.
+Nature de la déclaration
 
-Nature de la déclaration :
+|
 
-Mise en chantier :
+Mise en chantier
 
-Acquisition à l'étranger (préciser pavillon d'origine) :
+|
 
-Demande de désignation d'un centre de sécurité des navires compétent :
+|
 
-Refonte, modifications importantes ou grande réparation :
+|
 
-Demande de délivrance d'un permis de navigation :
+Acquisition à l'étranger (préciser pavillon d'origine)
 
-Nom du navire :
+|
 
-Immatriculation ou numéro IMO :
+|
 
-Type de navire :
+|
 
-Matériaux de construction :
+Demande de désignation d'un centre de sécurité des navires compétent
 
-Jauge brute :
+|
 
-Longueur hors tout (cf. définition du décret) :
+|
 
-Nombre équipage :
+|
 
-Nombre passager :
+Refonte, modifications importantes ou grande réparation
 
-Nombre personnel spécial (cf. définition du décret) :
+|
 
-Date (prévue) de pose de quille :
+|
 
-Date prévue de mise en service :
+|
 
-Type d'exploitation envisagée :
+Demande de délivrance d'un permis de navigation
 
-Nom de l'exploitant du navire :
+|
 
-Coordonnées de l'exploitant du navire :
+|
 
-Chantier :
+|
 
-Coordonnées du chantier :
+Demande de jaugeage
 
-Qualité, nom et coordonnées de la personne physique mandatée par l'exploitant du navire comme interlocuteur de l'administration :
+|
 
-Exploitant du navire :
+|
 
-Chantier :
+|
 
-Autre :
+Demande de rejaugeage
 
-Qualité, nom et coordonnées de la personne physique mandatée par l'exploitant du navire pour présenter à l'administration des demandes de dérogation ou d'exemption :
+|
 
-Exploitant du navire :
+|
 
-Chantier :
+Nom du navire
 
-Autre :
+|
 
-Suivi par une société de classification : Oui Non
+|
 
-Nom et coordonnées de la société de classification :
+Immatriculation ou numéro IMO
 
-Cotes et marques prévues :
+|
 
-Existence d'un contrat de construction ou de réparation :
+|
 
-Oui Non
+Type de navire
 
-Nom et qualité du déclarant (obligatoirement exploitant du navire) :
+|
 
-Date :
+|
 
-Lieu :
+Matériaux de construction
 
-Signature :
+|
 
-Dans le cas où, en cours de construction, les caractéristiques principales du navire ou le service auquel il est destiné sont modifiés, l'exploitant du navire fait une nouvelle déclaration.
+|
+
+Jauge brute estimée
+
+|
+
+|
+
+Jauge brute calculée
+
+|
+
+|
+
+Longueur hors tout (cf. définition du décret)
+
+|
+
+|
+
+Longueur de référence (cf. définition du décret)
+
+Largeur (uniquement pour les navires de moins de 15 mètres)
+
+|
+
+|
+
+Creux (uniquement pour les navires de moins de 15 mètres)
+
+|
+
+|
+
+Nombre de l'équipage
+
+|
+
+|
+
+Nombre passagers
+
+|
+
+|
+
+Nombre personnel spécial (cf. définition du décret)
+
+|
+
+|
+
+Date (prévue) de pose de quille
+
+|
+
+|
+
+Date prévue de mise en service
+
+|
+
+|
+
+Type d'exploitation envisagée
+
+|
+
+|
+
+.
+
+Nom de l'exploitant du navire
+
+|
+
+|
+
+Coordonnées de l'exploitant du navire
+
+|
+
+|
+
+Chantier
+
+|
+
+|
+
+Coordonnées du chantier
+
+|
+
+|
+
+Qualité, nom et coordonnées de la personne physique mandatée par l'exploitant du navire comme interlocuteur de l'administration
+
+|
+
+Exploitant du navire
+
+|
+
+|
+
+Chantier
+
+|
+
+|
+
+Autre
+
+|
+
+|
+
+Qualité, nom et coordonnées de la personne physique mandatée par l'exploitant du navire pour présenter à l'administration des demandes de dérogation ou d'exemption
+
+|
+
+Exploitant du navire
+
+|
+
+|
+
+Chantier
+
+|
+
+|
+
+Autre
+
+|
+
+|
+
+Suivi par une société de classification
+
+|
+
+Oui
+
+|
+
+Non
+
+|
+
+Nom et coordonnées de la société de classification
+
+Cotes et marques prévues
+
+|
+
+Existence d'un contrat de construction, ou de réparation
+
+|
+
+Oui
+
+|
+
+Non
+
+|
+
+Nom et qualité du déclarant (obligatoirement exploitant du navire)
+
+|
+
+|
+
+Date
+
+|
+
+|
+
+Lieu
+
+|
+
+|
+
+Signature
+
+|
+
+|
+
+Dans le cas où, en cours de construction, les caractéristiques principales du navire ou le service auquel il est destiné sont modifiées, l'exploitant du navire fait une nouvelle déclaration.
 
 Toute modification des éléments mentionnés sur cette fiche doit être signalée à l'administration, sans délai.
