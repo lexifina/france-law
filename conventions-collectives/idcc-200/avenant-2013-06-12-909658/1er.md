@@ -1,0 +1,229 @@
+# Article 1er
+
+L'article 10 de l'annexe II « Ouvriers et employés » est rédigé comme suit :
+
+« Article 10
+
+Indemnité de licenciement
+
+Le salarié licencié alors qu'il compte, à la date d'envoi de la lettre de notification du licenciement, au minimum une année d'ancienneté au service du même employeur, a droit, sauf en cas de faute grave ou de faute lourde, à une indemnité de licenciement distincte du préavis.
+
+Le montant de l'indemnité de licenciement et ses conditions d'attribution sont fixés comme suit :
+
+– 1/5 de mois du salaire de référence par année d'ancienneté, et ce jusqu'à 10 ans d'ancienneté ;
+
+– auquel s'ajoute 1/3 de mois du salaire de référence au-delà de 10 ans d'ancienneté, et ce jusqu'à 15 ans d'ancienneté ;
+
+– auquel s'ajoute 2/5 de mois du salaire de référence au-delà de 15 ans d'ancienneté.
+
+Le montant de l'indemnité de licenciement peut être synthétisé de la manière suivante, en années pleines d'ancienneté (les années incomplètes donnent lieu à prorata) :
+
+Ancienneté
+
+du salarié |
+
+Méthode
+
+de calcul |
+
+Montant de l'indemnité
+
+(en nombre de mois
+
+du salaire de référence) |
+
+1 an |
+
+1/5 × 1 |
+
+0,20 |
+
+2 ans |
+
+1/5 × 2 |
+
+0,40 |
+
+3 ans |
+
+1/5 × 3 |
+
+0,60 |
+
+4 ans |
+
+1/5 × 4 |
+
+0,80 |
+
+5 ans |
+
+1/5 × 5 |
+
+1 |
+
+6 ans |
+
+1/5 × 6 |
+
+1,20 |
+
+7 ans |
+
+1/5 × 7 |
+
+1,40 |
+
+8 ans |
+
+1/5 × 8 |
+
+1,60 |
+
+9 ans |
+
+1/5 × 9 |
+
+1,80 |
+
+10 ans |
+
+1/5 × 10 |
+
+2 |
+
+11 ans |
+
+(1/5 × 10) + (1/3 × 1) |
+
+2,33 |
+
+12 ans |
+
+(1/5 × 10) + (1/3 × 2) |
+
+2,67 |
+
+13 ans |
+
+(1/5 × 10) + (1/3 × 3) |
+
+3 |
+
+14 ans |
+
+(1/5 × 10) + (1/3 × 4) |
+
+3,33 |
+
+15 ans |
+
+(1/5 × 10) + (1/3 × 5) |
+
+3,67 |
+
+16 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 1) |
+
+4,07 |
+
+17 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 2) |
+
+4,47 |
+
+18 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 3) |
+
+4,87 |
+
+19 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 4) |
+
+5,27 |
+
+20 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 5) |
+
+5,67 |
+
+21 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 6) |
+
+6,07 |
+
+22 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 7) |
+
+6,47 |
+
+23 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 8) |
+
+6,87 |
+
+24 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 9) |
+
+7,27 |
+
+25 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 10) |
+
+7,67 |
+
+26 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 11) |
+
+8,07 |
+
+27 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 12) |
+
+8,47 |
+
+28 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 13) |
+
+8,87 |
+
+29 ans |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 14) |
+
+9,27 |
+
+30 ans et plus |
+
+(1/5 × 10) + (1/3 × 5) + (2/5 × 15) |
+
+9,67 |
+
+Ce montant de l'indemnité conventionnelle est majoré de 5 % si le salarié est âgé de 55 ans ou plus à la date d'envoi de la lettre de licenciement.
+
+Le montant de l'indemnité de licenciement est plafonné, hors majoration d'âge, à 9,67 mois.
+
+Le salaire à prendre en considération pour le calcul de l'indemnité de licenciement est, selon la formule la plus avantageuse pour le salarié :
+
+– soit 1/12 de la rémunération brute des 12 derniers mois précédant la date d'envoi de la lettre de notification du licenciement ;
+
+– soit 1/3 des 3 derniers mois précédant la date d'envoi de la lettre de notification du licenciement. Dans ce dernier cas, toute prime ou gratification de caractère annuel ou exceptionnel, versée au salarié pendant cette période, n'est prise en compte que dans la limite d'un montant calculé à due proportion.
+
+Par dérogation à l'article 46 bis de la présente convention, l'ancienneté du salarié dans l'entreprise est déterminée conformément aux dispositions du code du travail.
+
+L'indemnité de licenciement ne se cumule pas avec toute autre indemnité de même nature. »
+
+L'article 1er s'appliquera aux procédures de licenciement qui débuteront à compter du premier jour du mois qui suit celui du dépôt du présent avenant.
