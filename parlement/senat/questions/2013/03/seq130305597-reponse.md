@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305597
+
+- Question : [SEQ130305597](seq130305597.md) — Contrat d'avenir en faveur des détaillants en carburants
+
+## Réponse
+
+*Économie et finances, JO du 2013-06-13, page 1794*
+
+En premier lieu, il est rappelé que le comité professionnel de la distribution de carburant (CPDC) a pour mission principale de soutenir directement les stations-service indépendantes par des aides appropriées. Ces aides, qui visent à la modernisation des stations-service et à leur adaptation à l'évolution du marché, sont de trois types : aides à l'environnement (sécurité des biens et des personnes), aides au développement (modernisation et diversification des activités), aides sociales (en cas de fermeture). Le comité bénéficie d'une dotation allouée par l'État. Les aides à l'environnement contribuent à financer les mises aux normes environnementales des stations-service et notamment des cuves (double paroi) dont l'échéance a été reportée de 3 ans, du 31 décembre 2010 au 31 décembre 2013. Par ailleurs, plus de 70 % des aides sont allouées aux stations en zones rurales et près d'un tiers est consacré au soutien des sites de maillage (absence de concurrence dans un rayon de 1 km, un seul concurrent maximum dans un rayon de 10 km). Compte tenu de l'existence d'un dispositif spécifique d'aides à la modernisation et à l'adaptation des détaillants en carburant, il n'est pas envisagé de contrat d'avenir avec cette profession.
