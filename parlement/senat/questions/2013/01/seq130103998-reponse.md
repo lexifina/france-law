@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130103998
+
+- Question : [SEQ130103998](seq130103998.md) — Sécurité à proximité des feux de circulation tricolores
+
+## Réponse
+
+*Intérieur, JO du 2013-06-13, page 1802*
+
+Les signaux pouvant être implantés sur les voies ouvertes à la circulation publique sont définis par l'arrêté du 24 novembre 1967 modifié relatif à la signalisation des routes et autoroutes. Cette réglementation est établie en conformité avec les textes internationaux signés par la France (convention de Vienne du 8 novembre 1968 et accords européens du 1er mai 1971) qui n'autorisent pas le clignotement du feu vert. La réglementation française qui fixe notamment les principes de fonctionnement des feux de circulation ne prévoit pas non plus qu'ils puissent être équipés d'un compteur de durée du feu. L'implantation d'un tel équipement sur un feu de circulation n'est donc pas aujourd'hui autorisée. Au demeurant, aucune étude n'a montré à ce jour le caractère positif de ce décompte de feu pour la sécurité routière. Il convient, par ailleurs, de rappeler que les dispositions de l'article R. 412-31 du code de la route fixent le principe de l'arrêt au feu jaune fixe, sauf dans le cas particulier où le véhicule est si près du feu que le conducteur ne peut le stopper en toute sécurité. L'article R. 413-17 du même code fait également obligation au conducteur « de rester constamment maître de sa vitesse et de régler cette dernière en fonction de l'état de la chaussée, des difficultés de la circulation et des obstacles prévisibles ». En dehors des circonstances particulières mentionnées ci-dessus dans lesquelles il peut être franchi, la durée du feu jaune fixe, qui est généralement de 3 secondes en agglomération et de 5 secondes hors agglomération où la vitesse autorisée est plus élevée, doit donc permettre à un conducteur qui aborde avec prudence une intersection de respecter l'arrêt sans freinage brutal.
