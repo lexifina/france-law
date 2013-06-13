@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700704
+
+- Question : [SEQ120700704](seq120700704.md) — Suppression du contrôle d'effectivité sur le forfait surdité
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-06-13, page 1781*
+
+L'article D. 245-9 du CASF précise que les personnes atteintes de surdité, c'est-à-dire celles dont la perte auditive moyenne est supérieure à 70 dB et qui ont recours à un système de communication adapté faisant intervenir une aide humaine, sont considérées comme remplissant les conditions permettant l'attribution du premier élément de la prestation de compensation (PCH). Elles bénéficient forfaitairement de 30 heures par mois au titre de l'aide humaine. Quand le besoin, apprécié au moyen du référentiel figurant à l'annexe 2-5 du CASF, le justifie, le forfait peut être supérieur. Ainsi, la réglementation a prévu, compte tenu des spécificités du handicap auditif, des dispositions particulières, à caractère forfaitaire, avec une tarification spécifique, pour quantifier le temps d'aide humaine pris en compte au titre de la PCH. Cette disposition réglementaire, qui prévoit, dans le cas d'une personne atteinte de surdité, d'accorder l'élément 1 de la PCH sans le subordonner à la justification qu'elle a effectivement recours à l'aide d'une tierce personne, se borne à faire application des dispositions législatives qui permettent d'accorder la PCH à une personne handicapée dont l'état nécessite une telle aide effective. Cette approche s'inscrit dans la continuité des dispositions qui existaient antérieurement pour l'allocation compensatrice pour tierce personne (ACTP). Dans ce cadre, les contrôles du président du conseil général prévues à l'article D. 245-58 du CASF portent sur la vérification des conditions d'attribution de la PCH afin de s'assurer qu'elles sont ou restent réunies. En revanche, elles ne portent pas sur les conditions d'utilisation de cette prestation.
