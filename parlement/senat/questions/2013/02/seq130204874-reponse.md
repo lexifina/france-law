@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204874
+
+- Question : [SEQ130204874](seq130204874.md) — Simplification des normes applicables par les élus, commande d'un nouveau rapport et devenir du rapport Doligé
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2013-06-13, page 1816*
+
+La maîtrise de l'inflation normative est une préoccupation du Gouvernement rappelée par le président de la République à l'occasion des États généraux de la démocratie territoriale organisés par le Sénat le 5 octobre 2012. Plusieurs initiatives parlementaires dont la proposition de loi de M. Eric Doligé, sénateur et la proposition de loi déposée par M. Jean-Pierre Sueur, sénateur et Mme Jacqueline Gourault, sénatrice, attestent également de la préoccupation des parlementaires. En vue d'endiguer le flux des normes, le comité interministériel pour la modernisation de l'action publique (CIMAP) du 18 décembre 2012 a arrêté des mesures d'allègement et de simplification qui s'inscrivent dans le prolongement des travaux parlementaires réalisés. Pour définir précisément les mesures de simplification, il était nécessaire d'évaluer au préalable les normes existantes ainsi que les conditions de leur maintien, de leur abandon ou de leur aménagement. C'est la raison pour laquelle a été confiée à M. Alain Lambert, ancien ministre et ancien sénateur, président du conseil général de l'Orne et M. Jean-Claude Boulard, maire du Mans, une mission d'évaluation des moyens à mettre en œuvre pour alléger le stock de normes qui pèsent sur les collectivités territoriales en concertation avec le CIMAP, les associations d'élus, d'entreprises et d'usagers. Ils ont rendu leur rapport le 26 mars dernier. Par ailleurs, la proposition de loi Sueur-Gourault portant création d'une haute autorité chargée du contrôle et de la régulation des normes applicables aux collectivités locales sera inscrite à l'ordre du jour de l'Assemblée nationale courant juillet.
