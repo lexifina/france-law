@@ -24,6 +24,14 @@ Pendant toute la durée de l'interdiction de concurrence, l'employeur est tenu d
 
 Sous réserve de respecter les dispositions du présent article, les dispositions contractuelles prévues par les contrats de travail en cours continuent de s'appliquer.
 
-A la cessation du contrat de travail qui prévoyait une clause de non-concurrence, l'employeur a la possibilité de libérer le salarié de la clause de non-concurrence, sous réserve de prévenir l'intéressé par lettre recommandée soit dans une lettre de rupture dans les 15 jours ouvrés qui suivent la notification du préavis ou, en cas de non-observation de celui-ci, dans les 15 jours ouvrés qui suivent la rupture du contrat de travail soit dans la convention de rupture en cas de rupture conventionnelle.
+A la cessation du contrat de travail qui prévoyait une clause de non-concurrence, l'employeur a la possibilité de libérer le salarié de la clause de non-concurrence.
+
+L'employeur peut se positionner sur la clause de non-concurrence dès la notification du licenciement ou à la réception de la lettre de démission et, en tout état de cause, il doit prévenir l'intéressé de sa décision par lettre recommandée avec avis de réception ou remise en main propre contre décharge :
+
+- au plus tard à la date du départ effectif de l'entreprise, en cas de non-exécution du préavis même en cas de dispositions ou stipulations contraires ;
+
+- ou au plus tard dans les 15 jours ouvrés de la notification du préavis de licenciement ou de démission en cas d'exécution de celui-ci.
+
+Enfin, en cas de rupture conventionnelle, si l'employeur libère le salarié de la clause de non-concurrence, la renonciation devra être prévue dans la convention de rupture.
 
 Dans ce cas, l'employeur ne devra pas l'indemnité prévue.
