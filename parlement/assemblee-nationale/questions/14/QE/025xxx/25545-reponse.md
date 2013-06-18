@@ -1,0 +1,9 @@
+# Réponse à la question n° 25545
+
+- Question : [25545](25545.md) — Question n° 25545 — CASDAR; excédents de trésorerie; affectation
+
+## Réponse
+
+*JO du 2013-06-18*
+
+Les actions de recherche, d'innovation et de développement agricole et rural, qu'il s'agisse des actions conduites par les instituts techniques agricoles ou de celles assurées par les acteurs du développement que sont les chambres d'agriculture, les coopératives et le réseau des autres organismes nationaux à vocation agricole et rurale, sont essentielles. Ces réseaux jouent en effet un rôle fondamental pour accompagner nos exploitations agricoles et les orienter dans des directions nouvelles et notamment pour assurer la transition vers l'agro-écologie. Dans le cadre du « surgel » transversal décidé par le Gouvernement début 2013 dans l'objectif de participer au redressement des comptes publics, 6 M€ ont été gagés sur le CASDAR. Ils correspondent à des crédits constatés en surplus en fin d'année 2012. Un retour sur ce gel n'est pas opportun, car il conduirait à faire porter ce gel sur d'autres actions bénéficiant aux agriculteurs, tout aussi importantes que les actions de développement agricole et rural. En revanche, pour permettre de maintenir les financements pour l'ensemble des organismes bénéficiaires du CASDAR tels qu'ils avaient été initialement envisagés pour 2013, le ministère en charge de l'agriculture va proposer de financer l'appel à projets « mobilisation collective pour l'agroécologie », qui a été lancé le 7 mai dernier, à partir du budget CASDAR 2014 et non du budget 2013. Au-delà de l'exercice particulier 2013, conscient des enjeux importants portés par le CASDAR, le ministère examinera très attentivement le traitement qui sera accordé à ces fonds dans le cadre de la procédure budgétaire en cours pour 2014.
