@@ -1,0 +1,9 @@
+# Réponse à la question n° 24067
+
+- Question : [24067](24067.md) — Question n° 24067 — enseignemenst facultatifs; perpsectives
+
+## Réponse
+
+*JO du 2013-06-18*
+
+La ministre de l'enseignement supérieur et de la recherche est attentive à la qualité de la formation dans l'ensemble des domaines disciplinaires en lien avec une réflexion élargie sur l'orientation et la réussite des étudiants notamment dans le premier cycle de l'enseignement supérieur. Dans le cadre de la concertation sur la simplification des intitulés des diplômes nationaux pour en améliorer la lisibilité pour l'ensemble des usagers (étudiants, familles et employeurs), une attention particulière est portée sur les parcours pluridisciplinaires en licence. Dans les secteurs des humanités ou des lettres, ces programmes de formation peuvent permettre d'avoir accès à une offre variée en lettres anciennes, y compris sous format numérique et à distance. En ce qui concerne le domaine des arts, des lettres et des langues, un plan global de soutien et de repositionnement est en cours de mise en place. Il vise à la fois à favoriser la recherche dans ce domaine, à identifier les modalités d'actions nationales pour les disciplines dont les formations sont à faible effectif, à analyser l'articulation entre les formations dans les disciplines concernées et les métiers où les compétences acquises lors de ces formations constituent des atouts pour les diplômés. Mais surtout, sera proposé en septembre, le lancement d'un plan de sauvegarde et de consolidation des disciplines rares ou à faibles effectifs. Un groupe de travail s'est déjà mis en place, pour observer une méthode qui aboutira à une consultation des représentants des disciplines, puis une cartographie nationale permettant de projeter un ensemble d'actions et de financements appropriés. L'action en faveur des disciplines rares fera partie de la stratégie nationale de l'enseignement supérieur.
