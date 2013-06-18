@@ -1,0 +1,9 @@
+# Réponse à la question n° 20627
+
+- Question : [20627](20627.md) — Question n° 20627 — domaine privé; libre accès; activités de loisir
+
+## Réponse
+
+*JO du 2013-06-18*
+
+Les propriétaires fonciers qui laissent le libre accès à leur propriété peuvent en principe engager leur responsabilité extracontractuelle dans les conditions de droit commun, dans l'hypothèse où des sportifs ou promeneurs viendraient à se blesser sur leur terrain. Leur responsabilité pourrait ainsi être recherchée sur le fondement de l'article 1384 alinéa 1er du code civil, relatif à la responsabilité du fait des choses que l'on a sous sa garde. Il résulte de la jurisprudence de la Cour de cassation que le gardien est celui qui a l'usage, le contrôle et la direction de la chose au moment du fait dommageable et que le propriétaire est présumé gardien. Le gardien peut alors s'exonérer totalement de sa responsabilité en prouvant un cas de force majeure, ou partiellement si la victime a commis une faute ayant contribué à la réalisation de son dommage. Un propriétaire pourrait par exemple engager sa responsabilité si un promeneur était blessé par une chute de pierres sur son terrain. Dans ces conditions, il est recommandé aux propriétaires de souscrire une assurance de responsabilité civile, qui peut être incluse dans l'assurance multirisques habitation. Il existe toutefois des exceptions à ce principe général de responsabilité civile du propriétaire dans les conditions de droit commun. Ainsi, selon l'article L 160-7 alinéa 4 du code de l'urbanisme, la responsabilité civile des propriétaires des terrains, voies et chemins grevés par les servitudes de passage des piétons sur le littoral, définies aux articles L 160-6 et L 160-6-1 du même code, ne saurait être engagée au titre de dommages causés ou subis par les bénéficiaires de ces servitudes.
