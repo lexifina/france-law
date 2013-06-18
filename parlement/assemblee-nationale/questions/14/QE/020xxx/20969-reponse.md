@@ -1,0 +1,9 @@
+# Réponse à la question n° 20969
+
+- Question : [20969](20969.md) — Question n° 20969 — compétences; extension
+
+## Réponse
+
+*JO du 2013-06-18*
+
+La fondation du patrimoine, dont la vocation est la sauvegarde et la mise en valeur du patrimoine non protégé, dispose de différents dispositifs incitatifs pour remplir ses missions. Dans le cadre de l'aide au patrimoine privé, le label de la fondation du patrimoine permet aux propriétaires privés d'immeubles non protégés au titre des monuments historiques de bénéficier d'une déduction fiscale pour les travaux extérieurs réalisés. Le ministère de l'économie et des finances a en effet habilité la fondation du patrimoine à délivrer un label ouvrant droit à une déduction fiscale à compter de la loi de finances pour 2003. Les conditions relatives à l'attribution du label ont été précisées suite à la publication par la direction générale des impôts du bulletin officiel des impôts n° 5-B-05 du 1er février 2005. Le champ du label de la fondation du patrimoine s'applique à trois catégories d'immeubles : les immeubles les plus caractéristiques du patrimoine rural, les immeubles non habitables constituant le « petit patrimoine de proximité » et les immeubles situés en zone de protection du patrimoine architectural, urbain et paysager, désormais transposable aux aires de mise en valeur de l'architecture et du patrimoine. Le dispositif des secteurs sauvegardés correspond quant à lui aux ensembles urbains - quartiers historiques- les plus remarquables du point de vue du patrimoine culturel. Le label de la fondation du patrimoine s'appliquant essentiellement au patrimoine rural non protégé, le nombre d'immeubles labellisés en secteur sauvegardé ne peut donc être que limité. Toutefois, une réflexion afin d'étendre le dispositif du label aux secteurs sauvegardés est à l'ordre du jour de la prochaine réunion avec la fondation du patrimoine.
