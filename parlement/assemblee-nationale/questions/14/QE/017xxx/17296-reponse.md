@@ -1,0 +1,9 @@
+# Réponse à la question n° 17296
+
+- Question : [17296](17296.md) — Question n° 17296 — recherche en paternité; procédures
+
+## Réponse
+
+*JO du 2013-06-18*
+
+Longtemps, les actions relatives à la filiation ont été considérées par la jurisprudence comme imprescriptibles. Ce sont les réformes du droit de la filiation introduites par la loi n° 72-3 du 3 janvier 1972 puis l'ordonnance n° 2005-759 du 4 juillet 2005 qui ont abouti au régime actuel, posant le principe d'une prescription de dix ans, courant soit à compter du jour où l'individu a été privé de son état pour les actions en réclamation d'une filiation - c'est à dire en général le jour de la naissance-, soit du jour où il est entré en possession de son état pour les actions en contestation. S'agissant des mineurs, le délai est suspendu pendant le temps de sa minorité, ce qui en pratique porte le plus souvent le délai d'action à 28 ans lorsque l'enfant est demandeur. La fixation de ces règles découle de la nécessité de trouver un équilibre entre le droit de l'enfant à accéder à sa filiation et le souci de ne pas créer une trop longue insécurité juridique pour les familles concernées, ce qui serait également préjudiciable à l'intérêt de l'enfant. Il n'est donc pas envisagé de prolonger ces délais, qui constituent déjà une dérogation au régime de droit commun, qui prévoit depuis la loi n° 2008-561 du 17 juin 2008 un délai de prescription extinctive de cinq ans. S'agissant du recours aux expertises, celui-ci est en effet strictement encadré et ne peut être ordonné que par le juge, et, en matière civile, dans le cadre d'une action en matière de filiation. Toute expertise menée en dehors de ce cadre est dépourvue d'effet juridique. En effet, si la vérité biologique occupe une place importante, il importe de ne pas méconnaître la réalité sociale, qui peut également fonder un lien de filiation.
