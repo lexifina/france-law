@@ -1,0 +1,9 @@
+# Réponse à la question n° 13683
+
+- Question : [13683](13683.md) — Question n° 13683 — documents publicitaires; lutte et prévention
+
+## Réponse
+
+*JO du 2013-06-18*
+
+Au regard de l'article 26 de la loi n° 65-557 du 10 juillet 1965 modifiée fixant le statut de la copropriété des immeubles bâtis, les copropriétaires décident en assemblée générale et selon la procédure prévue à ce même article, des modalités d'ouverture des portes d'accès aux immeubles. Les copropriétaires fixent ainsi les plages horaires d'ouverture de l'immeuble, les modalités techniques d'ouverture et choisissent le système qui répond le mieux à leur double préoccupation : - d'assurer la sécurité des personnes et des biens, - de permettre la desserte de leur immeuble par les services publics, les entreprises et les organismes pour lesquels il existe un droit d'accès ou dont les copropriétaires souhaitent les prestations. Le système Vigik est un système de contrôle d'accès physique conçu par La Poste afin de lui permettre d'assurer à chaque destinataire la distribution quotidienne des envois postaux à laquelle elle est tenue en tant que prestataire du service universel postal sous réserve d'installation de réception d'envois de correspondance appropriée (article R. 1-15 du code des postes et des communications électroniques). L'utilisation de Vigik a été progressivement étendue à d'autres services publics et prestataires postaux autorisés en fonction des évolutions dues à l'ouverture des marchés sans préjudice du droit des copropriétaires découlant de l'article 26 de la loi précitée du 10 juillet 1965 modifiée. Il appartient ainsi à chaque syndicat de copropriétaires d'assurer un équilibre entre ses intérêts et ceux des prestataires postaux autorisés qui bénéficient d'un accés aux boites aux lettres particulières en application de l'article L. 5-10 du code des postes et des comunications électroniques.
