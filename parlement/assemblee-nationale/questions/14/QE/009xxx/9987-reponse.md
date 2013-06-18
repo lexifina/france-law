@@ -1,0 +1,9 @@
+# Réponse à la question n° 9987
+
+- Question : [9987](9987.md) — Question n° 9987 — coopération antiterroriste
+
+## Réponse
+
+*JO du 2013-06-18*
+
+Le 1er novembre 2012, Aurore MARTIN est interpellée fortuitement par la gendarmerie sur un poste de contrôle routier à Mauléon-Licharre (64-ZGN). Conformément aux directives du Parquet général de Pau, Aurore MARTIN est conduite sans délai à la frontière franco-espagnole à Biriatou (64) afin d'être remise aux autorités espagnoles. En effet, le mandat d'arrêt européen (M. A. E. ) notifié à madame MARTIN était immédiatement exécutoire puisqu'elle avait épuisé toutes les voies légales de contestation. Le ministre de l'Intérieur ne pouvait donc s'opposer en aucune façon à l'application de ce mandat qui a été réalisée sous le contrôle du parquet général de Pau. Après sa remise aux autorités espagnoles, l'intéressée a été soumise aux règles procédurales en vigueur en Espagne. Elle a ainsi été transférée à Madrid pour être présentée devant un juge de « l'audience nationale » avant d'être incarcérée à l'issue. Le 21 décembre 2012, un collège de trois magistrats du tribunal central d'instruction, au sein de l'Audience Nationale à Madrid, a pris la décision de sa remise en liberté sous contrôle judiciaire avec obligation de communiquer une adresse postale en Espagne et paiement d'une caution de 15.000 euros. Aurore Martin a été libérée dès le lendemain de cette décision et est retournée dans sa famille en France, dans le département des Pyrénées-Atlantiques. A ce jour, Aurore MARTIN respecte ses obligations et se présente une fois par mois auprès du commissariat d'Irun (Espagne) dans le cadre du suivi de son contrôle judiciaire. La justice espagnole suit donc son cours dans le respect des droits de madame Martin. Par ailleurs, le gouvernement n'entend pas à ce jour remettre en cause le principe du M. A. E dont l'application est encadrée et contrôlée par les plus hautes juridictions de notre pays.
