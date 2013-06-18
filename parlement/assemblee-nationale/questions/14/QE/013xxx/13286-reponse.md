@@ -1,0 +1,9 @@
+# Réponse à la question n° 13286
+
+- Question : [13286](13286.md) — Question n° 13286 — instances consultatives; coûts de fonctionnement
+
+## Réponse
+
+*JO du 2013-06-18*
+
+En premier lieu, il convient d'indiquer à l'honorable parlementaire que la commission nationale de conciliation n'est pas une commission consultative mais une instance paritaire de règlement des conflits collectifs. Instituée par les articles L. 2522-1 et suivants du code du travail, elle est présidée par le ministre chargé du travail. Les commissions nationale ou régionales de conciliation comprennent des représentants des organisations représentatives des employeurs et des salariés en nombre égal ainsi que des représentants des pouvoirs publics dont le nombre ne peut excéder le tiers des membres de la commission. Tous les conflits collectifs de travail peuvent être soumis aux procédures de conciliation. Les conflits qui, pour quelque raison que ce soit, n'ont pas été soumis à une procédure conventionnelle de conciliation établie par convention ou accord collectif de travail, peuvent être portés devant une commission nationale ou régionale de conciliation. Ainsi, cette procédure permet d'engager des négociations en cas de conflit social. Elle présente aussi l'intérêt de constituer un niveau supérieur de recours en cas de refus ou d'échec de l'intervention de l'inspecteur du travail ou d'un médiateur. De même, le recours à cette procédure peut débloquer les négociations lorsque les partenaires sociaux refusent de les engager. Si la commission nationale de conciliation ne s'est pas réunie récemment, elle constitue néanmoins un moyen de recours utile, comme l'a démontré la Commission régionale de conciliation du Nord-Pas-de-Calais qui s'est réunie à deux reprises, dans sa section départementale du Nord, en décembre 2010 et en avril 2011 dans le cadre de conflits liés à l'emploi et aux salaires.
