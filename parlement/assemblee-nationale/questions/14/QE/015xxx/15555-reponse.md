@@ -1,0 +1,9 @@
+# Réponse à la question n° 15555
+
+- Question : [15555](15555.md) — Question n° 15555 — mandat; réglementation
+
+## Réponse
+
+*JO du 2013-06-18*
+
+Malgré les nombreuses actions déployées pour favoriser la participation des électeurs, telles que l'implantation de bureaux de vote en entreprises, l'expérimentation du vote électronique sur Paris ou encore la simplification des modalités de vote par correspondance, la participation aux élections des conseillers prud'hommes a, lors du dernier scrutin du 3 décembre 2008, atteint son plus bas niveau en trente ans (25,65 %) pouvant atteindre la légitimité de cette institution. Il apparaissait dès lors indispensable d'engager une réflexion sur les enjeux et les conditions de la désignation des conseillers prud'hommes. M. Jacky Richard, Conseiller d'État, s'est vu confier cette mission en octobre 2009. Les organisations syndicales et professionnelles y ont été particulièrement associées. Son rapport, intitulé « Le renforcement de la légitimité de l'institution prud'homale : quelle forme de désignation des conseillers prud'hommes ? », a été remis au Gouvernement le 25 mai 2010. Prenant appui sur cette étude, la réflexion sur ce sujet a conduit à prévoir la prorogation des mandats électifs et le report des élections. Ainsi, l'article 7 de la loi n° 2010-1215 du 15 octobre 2010 complétant les dispositions relatives à la démocratie sociale issues de la loi n° 2008-789 du 20 août 2008 reporte la date du prochain renouvellement des conseils de prud'hommes jusqu'à une date qui sera au plus tard le 31 décembre 2015. Il va de soi que pendant l'exercice de leur mandat prorogé, les conseillers prud'hommes continuent à être indemnisés dans les mêmes conditions et sous les mêmes modalités que celles en vigueur actuellement et que le budget triennal prend en compte cette indemnisation.
