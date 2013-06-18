@@ -1,0 +1,9 @@
+# Réponse à la question n° 16053
+
+- Question : [16053](16053.md) — Question n° 16053 — fonds de soutien à l'expression radiophonique; crédits pour 2013
+
+## Réponse
+
+*JO du 2013-06-18*
+
+Depuis plus de trente ans, le Gouvernement porte une attention toute particulière aux radios associatives, notamment par le biais du Fonds de soutien à l'expression radiophonique locale (FSER). Chaque année, environ 600 radios associatives bénéficient de ce soutien (630 en 2012), qui représente en moyenne 40 % de leurs ressources. Le soutien aux radios associatives est stabilisé dans un contexte budgétaire difficile ; le montant des crédits du FSER a été consolidé et se maintiendra à 29 M€ en 2013. Par cet effort particulier d'accompagnement, le Gouvernement souhaite marquer la priorité accordée à un système de soutien qui a fait ses preuves et réaffirmer encore la place très particulière qu'occupent ces radios dans le paysage radiophonique français. Média audiovisuels de proximité qui couvrent l'ensemble du territoire national, les radios associatives remplissent une mission de communication sociale de proximité primordiale. Elles sont un élément unificateur, animant la vie locale et réservant une large part de leur programmation à des cultures minoritaires, à de nouveaux talents artistiques ou à des campagnes d'intérêt général. Leur contribution au lien social apparaît encore plus nécessaire dans une période de difficultés économiques et sociales. A la suite du plan « FM+ », qui a notamment profité aux radios associatives, le nombre d'autorisations, et donc de bénéficiaires de l'aide du FSER, a augmenté. Par ailleurs, une pratique nouvelle s'est développée depuis quelques années de la part de certaines radios associatives consistant à demander, au titre d'un service local, plusieurs subventions du FSER. Une réflexion est engagée en 2013, en concertation avec les représentants de radios associatives, sur les modalités d'attribution des subventions du FSER.
