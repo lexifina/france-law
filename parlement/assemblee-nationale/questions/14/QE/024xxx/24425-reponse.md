@@ -1,0 +1,9 @@
+# Réponse à la question n° 24425
+
+- Question : [24425](24425.md) — Question n° 24425 — trafic; dispositifs de sécurité; côte atlantique
+
+## Réponse
+
+*JO du 2013-06-18*
+
+Les navires à passagers effectuant la liaison entre le continent et les îles d'Ouessant et Molène sont soumis aussi bien aux règlements des sociétés de classification qu'à la réglementation statutaire française ainsi qu'à de nombreuses vérifications, examens et contrôles par diverses commissions. Ces vérifications ont pour objet de contrôler que ces navires répondent aux normes applicables qui, pour ce type de navires, relèvent essentiellement de directives européennes. Ces navires ne rentrent pas dans le champ de la réglementation des navires à grande vitesse qui ne leur est donc pas opposable. Néanmoins, les types de matériels de sauvetage à bord des navires à grande vitesse et navires à passagers sont les mêmes (radeaux de sauvetage, toboggans d'évacuation, brassières...). Dans les deux cas, ils s'inspirent des prescriptions de la convention internationale pour la sauvegarde de la vie humaine (SOLAS) et du code (Life-Saving Appliances) LSA de l'organisation maritime internationale (OMI). Il n'est donc pas possible d'affirmer que les matériels équipant les navires à grande vitesse relevant du code (Safety for High-Speed Craft) HSC 2000 de l'OMI sont plus efficaces que ceux que l'on trouve sur les navires à passagers. Tous ces matériels sont d'ailleurs approuvés suivant les dispositions de la directive 96/98/CE du 20 décembre 1996 relative aux équipements marins (wheelmark). La directive 2009/45/CE du 6 mai 2009 établissant des règles et normes de sécurité pour les navires à passagers, applicable aux navires en cause, fait actuellement l'objet de travaux devant mener à une révision du texte. La réglementation nationale sera donc modifiée si la directive européenne l'impose.
