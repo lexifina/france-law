@@ -1,0 +1,9 @@
+# Réponse à la question n° 2191
+
+- Question : [2191](2191.md) — Question n° 2191 — inspection du travail; fonctionnement; Nord
+
+## Réponse
+
+*JO du 2013-06-18*
+
+L'unité territoriale de Nord-Lille de la direction régionale des entreprise, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) du Nord Pas-de-Calais dispose d'un site détaché situé dans immeuble domanial appelé Tour Mercure à Tourcoing. Ces locaux, qui hébergent 23 agents de l'inspection du travail de Tourcoing, ont été interdits d'accès par le directeur de l'unité territoriale en raison de la présence confirmée par un diagnostic d'amiante dans la moquette du couloir et des bureaux. L'unité territoriale de Nord-Lille a en conséquence organisé l'accueil temporaire des agents dans les locaux de l'Unité territoriale du Nord-Lille 77, rue Léon Gambetta à Lille mi-septembre 2011. Les conditions de travail y sont assez peu satisfaisantes. La DIRECCTE recherche avec la mission régionale de la politique immobilière de l'Etat et la préfecture un relogement dans d'autres locaux, un retour des agents sur Roubaix/Tourcoing n'étant pas prévisible à court terme. Après consultation et accord des agents concernés, les services ont été relogés temporairement dans un bâtiment domanial situé sur Villeneuve d'Ascq qui assure de meilleures conditions d'accueil que celles de Gambetta. La question du relogement définitif sur Roubaix-Tourcoing reste donc posée notamment, vu l'absence de domanial disponible. France Domaine et la mission régionale de la politique immobilière de l'Etat ont sollicité les collectivités territoriales pour rechercher de nouveaux locaux. Ces recherches sont pour le moment infructueuses. A défaut, un relogement dans le parc locatif privé devra être recherché à condition que le budget interministériel du budget opérationnel de programme (BOP) 333 le permette.
