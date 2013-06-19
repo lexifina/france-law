@@ -6,29 +6,27 @@ Enseignants
 
 Tableau récapitulatif : durées du travail et contingents d'heures supplémentaires.
 
-NIVEAU
+Niveau
 
-qualification |
+Qualification |
 
-PRÉ-
+Pré-
 
 élémentaire
 
 et primaire |
 
-SECONDAIRE
+Secondaire
 
 général |
 
-SECONDAIRE
+Secondaire
 
 général, sport,
 
-dessin, musique,
+dessin, musique, etc. |
 
-etc. |
-
-ENSEIGNEMENT
+Enseignement
 
 technique
 
@@ -36,41 +34,43 @@ secondaire
 
 et supérieur |
 
-ENSEIGNEMENT
+Enseignement
 
 supérieur
 
-sans recherche |
+enseignant
 
-ENSEIGNEMENT
+non chercheur |
+
+Enseignement
 
 supérieur
 
-avec recherche |
+enseignant
 
-FORMATION
+chercheur |
+
+Formation
 
 diplômante
 
 par alternance |
 
-FORMATION
+Formation
 
 qualifiante
 
 par alternance |
 
-MONITEURS
+Moniteurs
 
 techniques |
 
-COURS
+Cours
 
 de rattrapage |
 
-Durée annuelle de
-
-travail |
+Durée annuelle de travail |
 
 1 534 |
 
@@ -92,7 +92,7 @@ travail |
 
 1 534 |
 
-Durée anuelle de cours |
+Durée annuelle de cours |
 
 972 |
 
@@ -104,7 +104,7 @@ Durée anuelle de cours |
 
 750 |
 
-500 |
+350 |
 
 864 |
 
@@ -114,7 +114,7 @@ Durée anuelle de cours |
 
 972 |
 
-Nombre maximal de semaines de cours par an |
+Nombre maximum de semaines de cours par an |
 
 36 |
 
@@ -148,7 +148,7 @@ Horaire hebdomadaire moyen de cours |
 
 25 |
 
-20 |
+21 |
 
 24 |
 
@@ -170,7 +170,7 @@ Durée annuelle heures d'activités induites |
 
 784 |
 
-834 |
+1 184 (4) |
 
 670 |
 
@@ -192,7 +192,7 @@ Pourcentage d'activité de cours (1) |
 
 48,89 |
 
-32,59 |
+22,82 (5) |
 
 56,32 |
 
@@ -214,7 +214,7 @@ Pourcentage d'activités induites (1) |
 
 51,11 |
 
-54,37 |
+77,18 (5) |
 
 43,68 |
 
@@ -236,7 +236,7 @@ Coefficient de cours sur 1 534 heures (2) |
 
 2,0453 |
 
-3,0680 |
+2,0453 |
 
 1,7755 |
 
@@ -246,7 +246,7 @@ Coefficient de cours sur 1 534 heures (2) |
 
 1,5782 |
 
-Contingent d'heures supplémentaires sans modulation : au total (3) |
+Contingent d'heures supplémentaires sans modulation ; au total (3) |
 
 189 |
 
@@ -268,7 +268,9 @@ Contingent d'heures supplémentaires sans modulation : au total (3) |
 
 189 |
 
-dont heures de cours |
+Dont heures
+
+de cours |
 
 120 |
 
@@ -312,7 +314,9 @@ Contingent d'heures supplémentaires avec modulation : au total (3) |
 
 110 |
 
-dont heures de cours |
+Dont heures
+
+de cours |
 
 80 |
 
@@ -334,7 +338,7 @@ dont heures de cours |
 
 80 |
 
-Nombre maxi d'heures hebdomadaires en cas de modulation |
+Nombre maximum d'heures hebdomadaires en cas de modulation |
 
 30 |
 
@@ -346,7 +350,7 @@ Nombre maxi d'heures hebdomadaires en cas de modulation |
 
 28 |
 
-25 |
+28 |
 
 28 |
 
@@ -356,8 +360,12 @@ Nombre maxi d'heures hebdomadaires en cas de modulation |
 
 35 |
 
-(1) Soit le poids respectif des cours (AC) et des activités induites(AI) dans la durée totale de travail : AC/1 534 et AI/1 534.
+(1) Cas général : soit le poids respectif des cours (AC) et des activités induites (AI) dans la durée totale de travail : AC/1 534 et AI/1 534.
 
-(2) Coefficient égal à 1 534 heures divisé par le nombre d'heures de cours prévu. Il convertit l'activité de cours en activité totale (heures de cours + heures d'activités induites) par niveau d'enseignement (AC × coefficient = AC + AI).
+(2) Coefficient égal à 1 534 heures divisé par le nombre d'heures de cours prévu. Il convertit l'activité de cours en activité totale (heures de cours + heures d'activités induites), hors recherche pour les écoles concernées, par niveau d'enseignement (AC × coefficient = AC + AI).
 
-(3) Soit : activité de cours + activités induites. |
+(3) Soit : activité de cours + activités induites.
+
+(4) Heures d'activités induites, d'activités connexes et/ou de recherches.
+
+(5) Cas des écoles supérieures avec recherche : poids respectif des cours (AC) sur l'ensemble des activités induites et de recherche. |

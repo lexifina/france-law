@@ -2,7 +2,7 @@
 
 ANNEXE I-B
 
-Grille de salaires du personnel d'éducation
+Grille de salaires du personnel d'encadrement pédagogique
 
 Application au 1er septembre suivant la date extension
 
@@ -153,5 +153,19 @@ C2 |
 2 944 |
 
 35 328 |
+
+C3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 Les signataires de la présente convention conviennent de se réunir en juin 2008 pour négocier de nouvelles grilles.

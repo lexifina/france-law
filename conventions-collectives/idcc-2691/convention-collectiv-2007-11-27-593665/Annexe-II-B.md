@@ -6,35 +6,33 @@ Enseignants (entreprises de 20 salariés ou moins)
 
 Tableau récapitulatif des seuils et taux d'heures supplémentaires en absence de modulation.
 
-Ligne (3) : nombre maxi d'heures de cours (AC), d'heures d'activités induites (AI) et d'heures totales d'activité devant être rémunérées au taux de majoration de 15 %.
+Ligne (3) : nombre maximum d'heures de cours (AC), d'heures d'activités induites (AI) et d'heures totales d'activité devant être rémunérées au taux de majoration de 15 %.
 
-Ligne (4) : nombre maxi d'heures de cours (AC), d'heures d'activités induites (AI) et d'heures totales d'activité devant être rémunérées au taux de majoration de 25 %.
+Ligne (4) : nombre maximum d'heures de cours (AC), d'heures d'activités induites (AI) et d'heures totales d'activité devant être rémunérées au taux de majoration de 25 %.
 
-Ligne (5) : seuil de déclenchement hebdomadaire des heures d'activité de cours rémunérées au taux de 50 % (ajouter les activités induites correspondantes).
+Ligne (5) : seuil de déclenchement hebdomadaire des heures d'activité de cours rémunérées au taux de 50 % (plus les activités induites correspondantes).
 
-NIVEAU
+Niveau
 
-qualification |
+Qualification |
 
-PRÉ-
+Pré-
 
 élémentaire
 
 et primaire |
 
-SECONDAIRE
+Secondaire
 
 général |
 
-SECONDAIRE
+Secondaire
 
-enseignant sport,
-
-dessin, musique
+enseignant, sport, dessin, musique
 
 et danse |
 
-ENSEIGNEMENT
+Enseignement
 
 technique
 
@@ -42,39 +40,43 @@ secondaire
 
 et supérieur |
 
-ENSEIGNEMENT
+Enseignement
 
 supérieur
 
-sans recherche |
+(enseignant
 
-ENSEIGNEMENT
+non chercheur) |
+
+Enseignement
 
 supérieur
 
-avec recherche |
+(enseignant-
 
-FORMATION
+chercheur) |
+
+Formation
 
 diplômante
 
 par alternance |
 
-FORMATION
+Formation
 
 qualifiante
 
 par alternance |
 
-MONITEURS
+Moniteurs
 
-technique |
+techniques |
 
-COURS
+Cours
 
 de rattrapage
 
-mise à niveau |
+Mise à niveau |
 
 (1) Coefficient : total heures de travail activité de cours (AC) |
 
@@ -88,7 +90,7 @@ mise à niveau |
 
 2,0453 |
 
-3,0680 |
+2,0453 |
 
 1,7755 |
 
@@ -110,7 +112,7 @@ mise à niveau |
 
 25 |
 
-20 |
+21 |
 
 28 |
 
@@ -120,7 +122,7 @@ mise à niveau |
 
 32 |
 
-(3) Nbre maxi d'heures sup. en AC au taux de 15 % |
+(3) Nombre maximum d'heures supplémentaires en AC au taux de 15 % |
 
 4,00 |
 
@@ -142,7 +144,7 @@ mise à niveau |
 
 4,00 |
 
-(4) Nbre maxi d'heures sup. en AI au taux de 15 % |
+(4) Nombre maximum d'heures supplémentaires en AI au taux de 15 % |
 
 2,31 |
 
@@ -164,7 +166,7 @@ mise à niveau |
 
 2,31 |
 
-(5) Nbre total d'heures de travail payées au taux de 15 % |
+(5) Nombre total d'heures de travail payées au taux de 15 % |
 
 6,31 |
 
@@ -186,7 +188,7 @@ mise à niveau |
 
 6,31 |
 
-(1) Nbre maxi d'heures sup. en AC au taux de 25 % |
+(1) Nombre maximum d'heures supplémentaires en AC au taux de 25 % |
 
 1,07 |
 
@@ -208,7 +210,7 @@ mise à niveau |
 
 1,07 |
 
-(2) Nbre maxi d'heures sup. en AL au taux de 25 % |
+(2) Nombre maximum d'heures supplémentaires en AL au taux de 25 % |
 
 0,62 |
 
@@ -230,7 +232,7 @@ mise à niveau |
 
 0,62 |
 
-(3) Nbre total d'heures de travail payées au taux de 25 % |
+(3) Nombre total d'heures de travail payées au taux de 25 % |
 
 1,69 |
 
@@ -252,7 +254,7 @@ mise à niveau |
 
 1,69 |
 
-(4) Heures sup. d'AC payées au taux de 50 % au-delà de |
+(4) Heures supplémentaires d'AC payées au taux de 50 % au-delà de |
 
 32,07 |
 

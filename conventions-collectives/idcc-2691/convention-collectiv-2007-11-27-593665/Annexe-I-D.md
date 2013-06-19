@@ -1,0 +1,65 @@
+# Article Annexe I-D
+
+ANNEXE I D
+
+Grille de salaires des enseignants intégrés dans des cycles diplômants générant l'obligation de recherche
+
+(En euros.)
+
+Niveau |
+
+Echelon A |
+
+Echelon B |
+
+Echelon C |
+
+I |
+
+20 300 |
+
+21 400 (*) |
+
+- |
+
+II |
+
+25 500 |
+
+26 775 |
+
+28 920 |
+
+III |
+
+29 868 |
+
+32 320 |
+
+34 830 |
+
+IV |
+
+32 000 |
+
+33 600 |
+
+36 290 |
+
+V |
+
+34 000 |
+
+35 700 |
+
+38 560 |
+
+VI |
+
+37 700 |
+
+39 585 |
+
+42 750 |
+
+(*) Il est convenu par exception que la 3e année de préparation du doctorat relèvera de l'échelon B. |
