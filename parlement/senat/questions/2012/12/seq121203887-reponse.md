@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203887
+
+- Question : [SEQ121203887](seq121203887.md) — Financement de la révision de SCOT
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2013-06-20, page 1868*
+
+Les procédures de révision de documents d'urbanisme, notamment de schéma de cohérence territoriale (SCOT), ne devraient pas entraîner des coûts très importants, dans la mesure où elles sont destinées à modifier le projet d'aménagement et de développement durable (PADD) décidé par les élus. S'agissant de l'obligation de prendre en compte la loi « engagement national pour l'environnement », cette loi demande de traiter des sujets nouveaux et d'approfondir certains thèmes qui étaient déjà à prendre en compte. Les approches ou champs d'investigation nouveaux (mesure de la consommation d'espace, trames vertes et bleues, énergie-climat, communications électroniques, aménagement commercial) doivent être intégrés autant que possible dans les études existantes ou en cours pour d'autres documents de planification, dans un esprit de mutualisation des ressources (schéma régional de cohérence écologique, schéma régional climat-air-énergie, plans climat-énergie territoriaux, agenda 21, schéma directeur territorial de l'aménagement numérique). Dans beaucoup de cas, la commande d'études supplémentaires pourra rester pour cette raison limitée. Pour aider les collectivités à remplir ces objectifs, l'État subventionne depuis 2010 les établissements publics de SCOT ruraux, qui ont des ressources financières et humaines fragiles, et qui notamment ne disposent pas d'agence d'urbanisme. L'État dispose également de la dotation générale de décentralisation (DGD) pour l'élaboration et la révision des documents d'urbanisme. Ainsi, en 2012, le montant de la DGD « crédits exceptionnels », attribué exclusivement aux élaborations et révisions de SCOT, s'est élevé à 1,876 million d'euros, ce qui a permis de financer en particulier 12 révisions de SCOT.
