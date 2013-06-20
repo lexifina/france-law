@@ -1,17 +1,5 @@
-# Article 1
+# Article 1er
 
-Les conditions d'engagement d'un cadre sont fixées par les dispositions de l'article 11 de la convention collective.
+Dans le cadre des missions qui lui sont confiées par la loi, le SSTI conclut des contrats de travail dans les conditions énoncées à l'article 11 de la présente convention collective.
 
-La lettre d'engagement précise en outre :
-
-- la durée et les conditions de la période d'essai ;
-
-- la fonction qui sera exercée ;
-
-- le ou les lieux de travail ;
-
-- la position-repère par référence au tableau de classification joint à la présente annexe ;
-
-- les conditions de rémunération ;
-
-- et, éventuellement, les autres clauses particulières, notamment celles relatives à l'ancienneté dans la fonction.
+(Dispositions en vigueur au 1er janvier 2014)
