@@ -1298,7 +1298,7 @@ Liaisons mécaniques
 
 |
 
-Annexe IV 89/173/CEE remplacée par 2009/144/CE modifiée par 2010/52/ UE
+Annexe IV 89/173/CEE remplacée par 2009/144/CE modifiée par 2010/52/UE modifiée par 2013/8/UE
 
 |
 
@@ -1308,11 +1308,19 @@ Annexe IV 89/173/CEE remplacée par 2009/144/CE modifiée par 2010/52/ UE
 
 (9)
 
+Au plus tard le
+
+31 mars 2014
+
 |
 
 (7)
 
 (9)
+
+Au plus tard
+
+le 31 mars 2014
 
 |
 

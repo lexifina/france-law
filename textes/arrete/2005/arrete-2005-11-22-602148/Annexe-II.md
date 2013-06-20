@@ -936,7 +936,7 @@ Protection des éléments moteurs et exigences de sécurité supplémentaires et
 
 |
 
-Annexe II, 2,3 et 4 2009/144/CE modifiée par 2010/52/ UE
+Annexe II, 2,3 et 4 2009/144/CE modifiée par 2010/52/UE
 
 |
 
@@ -968,7 +968,7 @@ Liaisons mécaniques
 
 |
 
-Annexe IV 2009/144/CE modifiée par 2010/52/ UE
+Annexe IV 2009/144/CE modifiée par 2010/52/UE modifiée par 2013/8/UE
 
 |
 
@@ -976,11 +976,19 @@ Annexe IV 2009/144/CE modifiée par 2010/52/ UE
 
 (9)
 
+Au plus tard le
+
+31 mars 2014
+
 |
 
 (7)
 
 (9)
+
+Au plus tard le
+
+31 mars 2014
 
 |
 
