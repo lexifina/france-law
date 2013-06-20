@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130406006
+
+- Question : [SEQ130406006](seq130406006.md) — Indemnisation au titre du chômage des agents recrutés localement par le ministère des affaires étrangères
+
+## Réponse
+
+*Affaires étrangères, JO du 2013-06-20, page 1860*
+
+Les agents employés par les services extérieurs de l'État sous contrat de droit local, en application de la loi du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations, relèvent en principe du dispositif d'indemnisation chômage du pays dans lequel ils sont recrutés. Lorsque ces agents redeviennent résidents français et ne relèvent plus du régime d'indemnisation chômage du pays où ils exerçaient leurs fonctions, la question de leur droit à l'allocation d'aide au retour à l'emploi se pose. En effet, bien que relevant de fait d'un employeur de droit public situé en France, ils ne répondent pas aux conditions requises pour en bénéficier dans la mesure où ils n'étaient ni soumis à un contrat de droit public français, ni ne répondaient à la définition d'agents « expatriés » ou « détachés » au sens des dispositions du code du travail. Ainsi, l'état actuel des textes ne permet pas, en l'absence de coordination entre les différents régimes français et étrangers, une prise en charge de ces agents au titre du dispositif français d'indemnisation du chômage des personnes involontairement privées d'emploi. Néanmoins, le ministère des affaires étrangères est sensibilisé depuis plusieurs années sur ce sujet et la question de l'application aux agents de droit local de ce dispositif, dès lors que ceux-ci résident en France et ne relèvent plus du régime d'indemnisation chômage du pays où ils exerçaient leurs fonctions, fait l'objet d'une réflexion approfondie au niveau interministériel. Dans ce cadre, les récentes recommandations du Défenseur des droits ont retenu toute l'attention du Gouvernement et feront naturellement l'objet d'une réponse.
