@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506327
+
+- Question : [SEQ130506327](seq130506327.md) — Échange réciproque des permis de conduire entre la France et la Thaïlande
+
+## Réponse
+
+*Affaires étrangères, JO du 2013-06-20, page 1861*
+
+Le système français de reconnaissance et d'échange des permis de conduire étrangers, délivrés par les pays n'appartenant ni à l'Union européenne (UE), ni à l'espace économique européen (EEE), est en cours de réforme, pilotée par le ministère de l'intérieur. L'arrêté du 12 janvier 2012 a posé la fin du principe de l'automaticité de la tacite réciprocité que prévoyait auparavant l'arrêté du 8 février 1999 et qui est à l'origine du nombre très élevé d'États avec lesquels la France échange les permis de conduire. Cette réforme vise à assurer un haut niveau de garantie en termes de sécurité routière et de fiabilité documentaire, dans le contexte d'harmonisation européenne des conditions de reconnaissance et d'échange des permis de conduire délivrés par les États n'appartenant ni à l'UE ni à l'EEE. La liste actuelle des États dont la France échange les permis de conduire a été précisée par une circulaire du 3 août 2012. Cette liste a un caractère provisoire et a vocation à être remplacée, à terme, par une nouvelle liste, qui comportera uniquement des États avec lesquels un accord de réciprocité aura été formalisé. La possibilité d'entamer des négociations en vue de conclure un accord d'échange réciproque sur les permis de conduire entre la France et la Thaïlande sera étudiée par les services compétents du ministère de l'intérieur après l'étude qu'ils souhaitent mener auprès des pays concernés. Il s'agira d'apprécier le niveau de respect des exigences fixées en matière de sécurité routière et de sécurisation des titres délivrés. L'avis qui sera rendu fera ensuite l'objet d'un examen interministériel à l'issue duquel seront lancées, le cas échéant, des négociations bilatérales.
