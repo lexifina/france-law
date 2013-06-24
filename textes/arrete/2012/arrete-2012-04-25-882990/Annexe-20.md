@@ -166,7 +166,7 @@ Type d'activités
 
 |
 
-Navigation au-delà de 2 milles nautiques d'un abri.
+Navigation jusqu'à 200 milles nautiques d'un abri.
 
 |
 
@@ -330,6 +330,6 @@ L'activité se déroule conformément aux dispositions des articles A. 322-64 à
 
 Stage de formation : Dans le cadre exclusif des stages de formation préparant des mineurs de plus de quinze ans à la qualification patron d'embarcation , la navigation est autorisée avec un éloignement maximum de 20 milles nautiques d'un abri dans les conditions validées par l'une des associations nationales de scoutisme agréées, autorisées à délivrer les qualifications mentionnées dans la présente fiche.
 
-Les dispositions de la présente fiche sont en vigueur jusqu'au 1er juillet 2013.
+Les dispositions de la présente fiche sont en vigueur jusqu'au 1er juillet 2018.
 
 |
