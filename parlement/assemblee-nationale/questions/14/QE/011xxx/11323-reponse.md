@@ -1,0 +1,9 @@
+# Réponse à la question n° 11323
+
+- Question : [11323](11323.md) — Question n° 11323 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-06-25*
+
+Le conseil commun de la fonction publique (CCFP) a été créé par la loi du 5 juillet 2010 relative à la rénovation du dialogue social suite aux accords de Bercy de 2008 sur le dialogue social dans la fonction publique, négociés avec les organisations syndicales. Instance de concertation rassemblant employeurs publics et organisations syndicales représentatives, installée en janvier 2012, elle est consultée pour tout projet de réforme ayant pour objet ou pour effet de modifier le statut général de la fonction publique ou les règles générales concernant les non-titulaires, et ayant des incidences sur chacune des trois fonctions publiques ou sur seulement deux d'entre elles. Elle peut également être consultée sur toute question concernant l'ensemble de la fonction publique, notamment en termes de formation professionnelle, d'égalité professionnelle, d'accès des handicapés à l'emploi, de conditions de travail, de santé et sécurité, de droit syndical ou de rémunération. Elle est enfin consultée pour avis sur le rapport annuel sur l'état de la fonction publique. La direction générale de l'administration et de la fonction publique (DGAFP) assure le fonctionnement du CCFP, en prenant notamment en charge les quelques coûts induits par l'organisation des séances, essentiellement le remboursement de frais de déplacement de représentants syndicaux ne bénéficiant pas d'une décharge de service (6 demandes pour les réunions de l'année 2012). Aucun personnel n'est mis à disposition du CCFP, son suivi relevant des missions de différents agents affectés à la DGAFP. Il n'est pas envisagé de supprimer cette instance de concertation essentielle pour le développement du dialogue social dans la fonction publique.
