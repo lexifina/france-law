@@ -1,0 +1,9 @@
+# Réponse à la question n° 24660
+
+- Question : [24660](24660.md) — Question n° 24660 — filière; aides de l'État
+
+## Réponse
+
+*JO du 2013-06-25*
+
+Le ministre de l'agriculture, de l'agroalimentaire et de la forêt a présenté un plan de relance exceptionnel pour l'élevage lors du conseil des ministres du 6 mars 2013. Parmi les actions annoncées, la filière viande bovine est principalement concernée par la réorientation de la politique agricole commune (PAC). Alors que les négociations communautaires devraient aboutir fin juin, le ministre s'est engagé à obtenir un volume d'aides « couplées » au moins égal à 12 % des aides du premier pilier. De plus, les aides à l'hectare seront rééquilibrées au profit de l'élevage et les dispositions du « verdissement » adaptées. Enfin, les aides du deuxième pilier seront mobilisées pour soutenir l'élevage à l'herbe. Parmi les autres mesures du plan, l'encadrement des relations commerciales et contractuelles fait l'objet de nouvelles dispositions dans le projet de loi relatif à la consommation, présenté en Conseil des ministres le 2 mai 2013. Ces dispositions prévoient que les contrats de vente des produits agricoles et agroalimentaires devront comporter une clause relative aux modalités de renégociation du prix permettant de prendre en compte de manière équitable les fluctuations des prix des matières premières. En parallèle, au titre de 2013, le ministre chargé de l'agriculture a décidé la mise en place de deux aides d'urgence pour la filière viande bovine, l'une à l'engraissement, l'autre à l'élevage allaitant. Ces aides sont réservées aux éleveurs qui se sont installés depuis moins de 5 ans et aux agriculteurs qui ont investi dans le cadre d'un plan de modernisation depuis le 1er janvier 2007. Ces exploitations sont de fait les plus vulnérables économiquement. Le dispositif est doté d'une enveloppe de 20 millions d'euros.
