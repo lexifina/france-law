@@ -1,0 +1,9 @@
+# Réponse à la question n° 12805
+
+- Question : [12805](12805.md) — Question n° 12805 — prise en charge; maladie de Menière
+
+## Réponse
+
+*JO du 2013-06-25*
+
+La ministre des affaires sociales et de la santé rappelle que le remboursement des médicaments est conditionné à l'évaluation de leur niveau de service médical rendu (SMR) par la commission de la transparence (CT) de la haute autorité de santé (HAS), composée d'experts médicaux et scientifiques. Les médicaments dont le SMR a été considéré comme insuffisant n'ont donc pas vocation à être remboursés par l'assurance maladie. Concernant la spécialité Nootropyl®, la CT avait considéré en juillet 2006 que le SMR de ce médicament était insuffisant, notamment dans l'indication thérapeutique d'« amélioration symptomatique du vertige ». Elle avait mené une nouvelle évaluation du SMR de ce médicament et confirmé, le 2 novembre 2011, son SMR insuffisant. Cette évaluation tenait compte d'une part d'une efficacité mal établie, d'une absence de place dans la stratégie thérapeutique des vertiges, des acouphènes et des baisses d'acuité auditive et d'autre part des effets indésirables représentés principalement par des troubles de type agitation, instabilité ou troubles du sommeil et par des troubles gastro-intestinaux de type nausées, vomissements, gastralgies et diarrhées. La décision de dérembourser la spécialité Nootropyl® a été prise par arrêté du 24 janvier 2012. Sa radiation et celle de ses génériques des listes des spécialités pharmaceutiques remboursables est effective depuis le 1er mars 2012. La ministre rappelle que la HAS a accompagné le déremboursement de ce médicament d'un message destiné aux médecins et aux pharmaciens dans lequel sont détaillées les alternatives thérapeutiques médicamenteuses et non médicamenteuses pour le traitement des crises et le traitement de fond de ces vertiges.
