@@ -1,0 +1,9 @@
+# Réponse à la question n° 5508
+
+- Question : [5508](5508.md) — Question n° 5508 — cour des comptes; rapport 2012; conclusions
+
+## Réponse
+
+*JO du 2013-06-25*
+
+Le rapport de 2012 de la Cour des comptes sur l'application des lois de financement de la sécurité sociale a recommandé de mettre sous condition de ressources les exonérations sociales dont bénéficient les particuliers employeurs qui sont retraités (article L. 241-10 du code de la sécurité sociale). Ces exonérations concernent un ensemble de retraités qui sont aujourd'hui défavorisés en raison de leur état de santé ou de leur âge : il s'agit des personnes âgées de plus de 60 ans lorsqu'elles ont l'obligation de recourir à une tierce personne pour accomplir les actes quotidiens de la vie, des bénéficiaires de l'allocation personnalisée d'autonomie, des bénéficiaires de la prestation de compensation du handicap, les titulaires de rentes d'invalidités, ainsi que des personnes âgées de plus de 70 ans. Pour ces dernières, les cotisations sociales patronales sont exonérées dans la limite de 65 heures au niveau du salaire minimum interprofessionnel de croissance (SMIC) par mois. Il s'agit donc des personnes qui sont les premières concernées par la question de la perte d'autonomie, dont la réforme, pourtant annoncée, n'a pas pu aboutir sous la précédente mandature. En l'attente de cette réforme que l'actuel Gouvernement s'est engagé à présenter avant la fin de 2013, il n'est pas envisagé de procéder à une mise sous condition de ressources de ces exonérations. Cela conduirait en effet à priver d'une partie de leurs ressources des populations pour lesquelles rien ne serait proposé en contrepartie. Concernant les salariés qui sont employés par ces personnes, une mesure d'équité est en outre portée par la loi de financement de la sécurité sociale pour 2013, dont l'article 14 supprime le mécanisme d'assiette forfaitaire qui avait pour effet de minorer les droits contributifs acquis.
