@@ -1,0 +1,9 @@
+# Réponse à la question n° 23402
+
+- Question : [23402](23402.md) — Question n° 23402 — accès
+
+## Réponse
+
+*JO du 2013-06-25*
+
+Le plan pluriannuel contre la pauvreté et pour l'inclusion sociale a été officiellement adopté le 21 janvier 2013, lors de la réunion du comité interministériel de lutte contre les exclusions. Ce plan est le fruit d'un travail de concertation avec l'ensemble des acteurs concernés par la solidarité, notamment le ministère de l'éducation nationale. Une des mesures de ce plan, co-pilotée par le ministère délégué chargé de la réussite éducative, prévoit « d'améliorer l'accès à la restauration scolaire en rendant effectif le principe de non-discrimination ». Pour le premier degré, la compétence appartient aux communes. Le Gouvernement travaillera avec l'association des maires de France pour identifier les moyens de satisfaire les besoins existants au sein des populations les plus fragiles. Des recommandations conjointes seront adressées aux maires et aux directeurs d'école. Pour le second degré, l'Etat mobilisera davantage les fonds sociaux qui permettent d'apporter aux familles démunies le complément nécessaire aux bourses pour le règlement des frais de restauration scolaire et de sensibiliser les familles aux droits dont elles peuvent bénéficier. Dans les départements d'outre-mer, les caisses d'allocations familiales, qui accompagnent financièrement les communes pour la restauration scolaire des enfants accueillis, devront aider celles-ci à développer l'offre de restauration scolaire. Enfin, la circulaire n° 2013-060 du 10 avril 2013 d'orientation et de préparation de la rentrée 2013 précise que « la lutte contre les inégalités et la construction d'une école ouverte à tous exige de réaffirmer certains principes. Ainsi, l'accès à la restauration scolaire, quand celle-ci existe, est un droit. Il ne peut être établi aucune discrimination selon les situations familiales, géographiques ou de revenus ».
