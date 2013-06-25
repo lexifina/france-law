@@ -1,0 +1,9 @@
+# Réponse à la question n° 9519
+
+- Question : [9519](9519.md) — Question n° 9519 — perspectives
+
+## Réponse
+
+*JO du 2013-06-25*
+
+A l'instar des autres ministères, le ministère des droits des femmes participe pleinement à la mobilisation pour la transition énergétique. En application de la lettre de cadrage du Premier ministre du 23 janvier 2013, le ministères veillera, dans la continuité des décisions prises à l'occasion du comité interministériel aux droits des femmes et à l'égalité entre les femmes et les hommes du 30 novembre 2012, à renforcer la place des femmes dans les instances de gouvernance, dans le secteur public et privé, évolution de nature à favoriser la prise en compte d'enjeux de long terme en matière de développement durable et de transition écologique. Plusieurs mesures favorables à la parité ont déjà été adoptées, dans le champ de la réforme des scrutins locaux mais aussi concernant les instances créées (haut conseil des finances publiques, conseil national du sport, commission pour l'avenir des retraites, conseil national du numérique, . . ). Des mesures générales en faveur de la parité seront inscrites dans le projet de loi pour l'égalité entre les femmes et les hommes qui sera adopté en Conseil des ministres au début de l'été. Par ailleurs, le ministère, en lien avec le ministère de l'éducation nationale et le ministère de l'écologie, du développement durable et de l'énergie s'attache à favoriser la mixité dans l'accès aux emplois relevant des dispositifs de prévention des risques ou contribuant à la résilience des territoires. L'ouverture aux femmes des opportunités offertes par les emplois d'avenir dans le domaine de la protection de l'environnement sera également recherchée. Enfin, un haut fonctionnaire au développement durable a été désigné par le ministère. Il travaillera en réseau avec le commissaire général au développement durable.
