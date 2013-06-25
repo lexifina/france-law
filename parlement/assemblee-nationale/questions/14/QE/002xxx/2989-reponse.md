@@ -1,0 +1,9 @@
+# Réponse à la question n° 2989
+
+- Question : [2989](2989.md) — Question n° 2989 — délibérations; comptes-rendus; réglementation
+
+## Réponse
+
+*JO du 2013-06-25*
+
+L'article L. 2121-15 du code général des collectivités territoriales (CGCT) prévoit qu'au début de chacune de ses séances, le conseil municipal nomme un ou plusieurs de ses membres pour remplir les fonctions de secrétaire de séance. Le secrétaire de séance a ainsi la charge de rédiger le procès verbal de la séance du conseil municipal qui doit être approuvé par les conseillers municipaux présents à la séance (Conseil d'Etat, 10 février 1995, commune de Coudekerque-Branche). Le Conseil d'Etat a considéré que les conseils municipaux sont maîtres de la rédaction de leurs procès-verbaux (3 mars 1905, Papot) qui retracent le contenu des débats et les décisions prises en séance. Le compte rendu relève en revanche de la compétence du maire à qui il appartient de déterminer les extraits à afficher et à qui il incombe de faire procéder à l'affichage (Conseil d'Etat, 2 décembre 1977, comité de défense de l'environnement de Mâcon-Nord). Dans son arrêt du 10 février 1995 précité, le conseil d'Etat a précisé que le procès verbal doit être signé et approuvé par l'ensemble des conseillers présents à la séance. A défaut d'autres précisions, il convient par ailleurs de se référer à l'article L.2121-23 du code général des collectivités territoriales qui précise, s'agissant du registre des délibérations, que celles-ci sont inscrites par ordre de date et signées par tous les membres présents à la séance, mention devant être faite de la cause qui les a empêchés de signer. En revanche, s'il est possible de rectifier le contenu d'un procès verbal de séance, toute modification ne peut intervenir qu'avec approbation de l'ensemble des conseillers municipaux présents lors de la séance qui est retranscrite.
