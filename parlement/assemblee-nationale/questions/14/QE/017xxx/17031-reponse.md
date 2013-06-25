@@ -1,0 +1,9 @@
+# Réponse à la question n° 17031
+
+- Question : [17031](17031.md) — Question n° 17031 — billetteries; ententes illégales; poursuites
+
+## Réponse
+
+*JO du 2013-06-25*
+
+En ce qui concerne les pratiques d'entente des réseaux de vente de billets de spectacle, et à la différence des secteurs de la presse et de l'audiovisuel, le spectacle vivant ne dispose pas de législation spécifique susceptible de contrôler les phénomènes de concentration. Les pratiques anticoncurrentielles d'entente ou de position dominante dans ce secteur font l'objet d'un contrôle par le droit commun de la concurrence qui s'opère au plan national et européen. La décision rendue le 20 décembre 2012 par l'autorité de la concurrence condamnant la Fnac et Ticketnet à une amende de 9,3 M€ atteste de l'efficacité du contrôle opéré sur les pratiques d'entente des réseaux de vente de billets de spectacle. Cette sanction a de plus conduit la Fnac à l'élaboration d'un programme de conformité aux règles de la concurrence. L'élaboration d'un code de bonne conduite par les professionnels est une mesure qui doit être encouragée dans ce secteur. Le ministère de la culture et de la communication reste attentif aux opérations de concentration qui se développent dans le secteur du spectacle vivant, notamment avec l'apparition de sociétés multinationales dont la stratégie de diversification est susceptible d'affecter toute la chaîne économique du spectacle. C'est pourquoi les services du ministère de la culture et de la communication ont engagé une réflexion afin d'en mesurer les impacts et d'étudier les voies et les moyens de régulation possible, dont certains pourront, le cas échéant, trouver leur traduction dans la future loi d'orientation sur la création, afin de préserver l'accès à la culture, la diversité et le pluralisme de l'offre culturelle et des modèles économiques qui le garantissent.
