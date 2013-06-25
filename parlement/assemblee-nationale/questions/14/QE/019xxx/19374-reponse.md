@@ -1,0 +1,9 @@
+# Réponse à la question n° 19374
+
+- Question : [19374](19374.md) — Question n° 19374 — circonscriptions; modifications
+
+## Réponse
+
+*JO du 2013-06-25*
+
+Les limites territoriales de trois cinquièmes des cantons actuels n'ont pas été modifiés depuis leur création en 1801. Elles ne reflètent plus aujourd'hui ni la réalité démographique, ni les bassins de vie et d'activité au sein des départements. Par ailleurs, les écarts de représentation au sein d'un même département peuvent aller de 1 à 47 entre le canton le moins peuplé et celui le plus peuplé. Cette situation, manifestement contraire au principe d'égalité devant le suffrage inscrit dans l'article 3 de notre Constitution, ne saurait perdurer davantage. Aussi le Gouvernement a-t-il décidé d'engager le travail de refonte de la carte cantonale, rendu par ailleurs indispensable du fait de l'abrogation de la réforme du conseiller territorial. Il conduira ce projet sur la base des critères fixés par le législateur, dans le cadre de la loi adoptée par le Parlement. Dans chaque département, le projet de décret fixant la nouvelle carte cantonale sera soumis pour avis au Conseil général concerné. Le délai laissé aux assemblées départementales pour se prononcer sur ce projet de décret s'inscrit dans un calendrier contraint qui doit permettre la publication des quatre-vingt-dix-huit décrets au plus tard un an avant le renouvellement général de mars 2015, conformément aux dispositions de l'article 7 de la loi du 11 décembre 1990. Le Gouvernement s'est engagé devant la représentation nationale à ce que les assemblées départementales soient consultés sur les projets de décrets qui leurs seront transmis en dehors des périodes de congés, afin que les conseillers généraux puissent les examiner dans des conditions qu'il leur appartiendra de définir. L'ensemble des projets de décrets seront enfin soumis au Conseil d'Etat.
