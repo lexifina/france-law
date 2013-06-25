@@ -1,0 +1,9 @@
+# Réponse à la question n° 9606
+
+- Question : [9606](9606.md) — Question n° 9606 — lotissements; normes techniques; études d'impact
+
+## Réponse
+
+*JO du 2013-06-25*
+
+Les rubriques du tableau annexé à l'article R. 122-2 du code de l'environnement contiennent généralement des seuils de soumission des projets à étude d'impact. Certains projets au dessous du seuil peuvent cependant produire, en cas d'extension lors de phases ultérieures ou par un cumul avec d'autres projets, des effets notables sur l'environnement. Pour éviter ces effets de seuils, le III de l'article R. 122-2 prévoit que, lorsque le projet initial n'a pas fait l'objet d'une étude d'impact, l'extension dudit projet doit faire l'objet d'une telle étude si le projet, pris dans sa totalité, atteint les seuils et critères du tableau annexé à l'article R. 122-2. Ces dispositions sont à combiner avec celles des rubriques n° 33° et 34° de l'annexe à l'article R. 122-2 du code de l'environnement qui prévoient deux hypothèses de soumission des lotissements à étude d'impact (systématique ou après un examen au cas par cas), selon que la commune dispose d'un document d'urbanisme ayant fait l'objet d'une évaluation environnementale permettant l'opération ou qu'elle en soit dépourvue. Si le document d'urbanisme applicable a fait l'objet d'une évaluation environnementale « permettant l'opération », le projet est dispensé d'étude d'impact. Lorsque le document d'urbanisme n'a pas fait l'objet d'une telle évaluation, la rubrique 33° s'applique. La rubrique 34° s'applique, quant à elle, en l'absence de tout document d'urbanisme. Les rubriques relatives à ces projets visent les opérations réalisées « en une ou plusieurs phases ». Pour situer une demande de permis par rapport aux seuils, il convient de prendre en compte l'aménagement de la zone concernée.
