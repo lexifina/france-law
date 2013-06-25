@@ -1,0 +1,9 @@
+# Réponse à la question n° 18332
+
+- Question : [18332](18332.md) — Question n° 18332 — sapeurs pompiers; aptitude médicale
+
+## Réponse
+
+*JO du 2013-06-25*
+
+Le décret n° 2012-886 du 17 juillet 2012, relatif au contrôle médical de l'aptitude à la conduite ainsi que l'arrêté du 31 juillet 2012 portant sur l'organisation de ce contrôle ne concernent pas la profession de sapeur-pompier. En effet, la circulaire du 3 août 2012 de la délégation à la sécurité et à la circulation routière, relative à l'organisation du contrôle médical de l'aptitude à la conduite des conducteurs et des candidats au permis de conduire, indique que des dispositions particulières s'appliquent aux visites médicales des gendarmes, des sapeurs-pompiers et des agents de la police. Les sapeurs-pompiers « ...bénéficient d'une visite annuelle de maintien en activité qui conduit en particulier à établir une aptitude à la conduite des véhicules du service. Cette visite est réalisée par un médecin sapeur-pompier habilité. La liste des médecins habilités est établie par le président du conseil d'administration du service départemental d'incendie et de secours ». Ainsi, les médecins de sapeurs-pompiers restent compétents pour délivrer, lors des visites médicales, le certificat d'aptitude médicale à la conduite des véhicules du groupe « lourds » de lutte contre l'incendie. Enfin, leur habilitation par le président du conseil d'administration du service départemental d'incendie et de secours intervient après l'acquisition d'une formation initiale ou continue à la détermination de l'aptitude médicale. Celle-ci s'inscrit dans le cadre du diplôme interuniversitaire (DIU) des services de santé et de secours médical des services d'incendie et de secours, dans sa partie portant sur la santé publique et la santé au travail.
