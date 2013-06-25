@@ -1,0 +1,9 @@
+# Réponse à la question n° 6182
+
+- Question : [6182](6182.md) — Question n° 6182 — familles nombreuses; bénéficiaires
+
+## Réponse
+
+*JO du 2013-06-25*
+
+Les conditions d'attribution de la carte famille nombreuse sont précisées par plusieurs textes : une loi de 1921 relative au régime des chemins de fer, le décret n° 80-956 du 1er décembre 1980 relatif aux réductions accordées aux familles nombreuses sur les tarifs de la société nationale des chemins de fer français (SNCF) et enfin le décret n° 83-817 du 13 septembre 1983 portant approbation du cahier des charges de la société nationale des chemins de fer français. Le cahier des charges de la SNCF et les tarifs voyageurs sont homologués par le ministère en charge des transports. La SNCF applique de façon stricte ces textes. Dans son volume 3 des tarifs voyageurs, relatif aux tarifs sociaux et conventionnés, la SNCF détaille les pièces justificatives que le client doit produire à l'appui de sa demande. Ces pièces sont les suivantes pour les parents divorcés : une copie du jugement de divorce ou une ordonnance postérieure du juge aux affaires familiales et une attestation de la caisse qui verse les allocations familiales. Aussi, en cas de séparation, seul le parent allocataire des prestations familiales bénéficie des tarifs préférentiels adossés à la carte famille nombreuse, même si les parents exercent une garde alternée. Une extension du bénéfice de la carte famille nombreuse a été envisagée en 2008 et plusieurs scénarios proposés mais non retenus en raison des surcoûts engendrés sur le budget de l'Etat. Cependant, sensible à cette situation, la ministre des affaires sociales et de la santé va demander aux services compétents la réouverture de ces travaux, afin d'identifier les adaptations possibles de la carte famille nombreuse.
