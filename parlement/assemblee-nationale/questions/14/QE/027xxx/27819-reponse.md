@@ -1,0 +1,9 @@
+# Réponse à la question n° 27819
+
+- Question : [27819](27819.md) — Question n° 27819 — obtention à l'étranger; validation; réglementation
+
+## Réponse
+
+*JO du 2013-06-25*
+
+La France a engagé une réforme de son système organisant la reconnaissance et l'échange des permis de conduire étrangers délivrés par des Etats n'appartenant ni à l'Union européenne, ni à l'espace économique européen. Cette réforme, pilotée par le ministère de l'Intérieur, vise à assurer un haut niveau de garanties en termes de sécurité routière et de fiabilité documentaire. Elle s'inscrit également dans le cadre de l'harmonisation au niveau européen des types de permis de conduire, sécurisés et à validité limitée. L'arrêté du 12 janvier 2012 fixant les conditions de reconnaissance et d'échange des permis de conduire délivrés par les Etats n'appartenant ni à l'Union européenne, ni à l'espace économique européen a posé la fin du principe de l'automaticité de la tacite réciprocité que prévoyait auparavant l'arrêté du 8 février 1999 et qui est à l'origine du nombre très élevé d'Etats avec lesquels la France échange les permis de conduire. La liste actuelle de ces Etats a été précisée par une circulaire du 3 août 2012. Cette liste a un caractère provisoire et a vocation à être remplacée, à terme, par une nouvelle liste, qui comportera uniquement des Etats avec lesquels un accord en la matière aura été formalisé. La possibilité d'entamer des négociations en vue de conclure un accord d'échange réciproque sur les permis de conduire avec l'Argentine sera étudiée par les services compétents du ministère de l'intérieur, après l'étude qu'ils souhaitent mener auprès de tous les pays concernés. Il s'agira d'apprécier le niveau de respect des exigences fixées en matière de sécurité routière et de sécurisation des titres délivrés. L'avis qui sera rendu fera ensuite l'objet d'un examen interministériel à l'issue duquel seront lancées, le cas échéant, des négociations bilatérales.
