@@ -114,6 +114,26 @@ remise au public
 
 |
 
+Aminophylline
+
+|
+
+Voie orale
+
+|
+
+/
+
+|
+
+0,2
+
+|
+
+6
+
+|
+
 Butopiprine
 
 |
@@ -411,5 +431,25 @@ Pâte orale
 |
 
 0,15
+
+|
+
+Théophylline
+
+|
+
+Voie orale
+
+|
+
+/
+
+|
+
+0,1
+
+|
+
+3,6
 
 |
