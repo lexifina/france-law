@@ -1,0 +1,53 @@
+# Culture : vente à distance des livres
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N30534
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/prix_unique_livre_livraison_domicile
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl13-035.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-06-26 : 1er dépôt d'une initiative. (PIONANR5L14B1189)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-06-26 : Renvoi en commission au fond
+      - 2013-09-10 : Nomination de rapporteur
+      - 2013-09-10 : Réunion de commission
+      - 2013-09-18 : Réunion de commission
+      - 2013-09-18 : Dépôt de rapport (RAPPANR5L14B1385)
+  - Discussion en séance publique
+    - 2013-10-03 : Discussion en séance publique
+    - 2013-10-03 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-10-03 : Dépôt d'une initiative en navette (PIONSNR5S219B0035)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-10-03 : Renvoi en commission au fond
+      - 2013-10-23 : Nomination de rapporteur
+      - 2013-12-18 : Dépôt de rapport (RAPPSNR5S219B0247)
+  - Discussion en séance publique
+    - 2014-01-08 : Discussion en séance publique
+    - 2014-01-08 : Décision
+- deuxième lecture
+  - 2014-01-09 : Dépôt d'une initiative en navette (PIONANR5L14B1689)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-01-09 : Renvoi en commission au fond
+      - 2014-02-12 : Réunion de commission
+      - 2014-02-12 : Dépôt de rapport (RAPPANR5L14B1788, PIONANR5L14BTC1788)
+  - Discussion en séance publique
+    - 2014-02-20 : Discussion en séance publique
+    - 2014-02-20 : Décision
+- deuxième lecture
+  - 2014-02-20 : Dépôt d'une initiative en navette (PIONSNR5S219B0390)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-02-20 : Renvoi en commission au fond
+      - 2014-06-18 : Dépôt de rapport (RAPPSNR5S219B0637)
+  - Discussion en séance publique
+    - 2014-06-26 : Discussion en séance publique
+    - 2014-06-26 : Décision
+- Promulgation de la loi
+  - 2014-07-08 : Promulgation d'une loi
