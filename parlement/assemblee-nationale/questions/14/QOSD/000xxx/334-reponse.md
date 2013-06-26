@@ -1,0 +1,37 @@
+# Réponse à la question n° 334
+
+- Question : [334](334.md) — Question n° 334 — contournements; création; Seine-et-Marne
+
+## Réponse
+
+*JO du 2013-06-26*
+
+DÉVIATIONS DES COMMUNES DE MORMANT ET DE GUIGNES
+
+Mme la présidente. La parole est à M. Yves Jégo, pour exposer sa question, n° 334, relative aux déviations des communes de Mormant et de Guignes.
+
+M. Yves Jégo. Monsieur le ministre délégué chargé des transports, de la mer et de la pêche, ma question concerne la déviation routière attendue des communes de Guignes et de Mormant en Seine-et-Marne. Mais, de manière plus générale, elle concerne la situation économique du sud de la Seine-et-Marne. Vous le savez peut-être : dans cette partie de l'Île-de-France, éloignée de Paris, nous sommes les grands oubliés du Grand Paris. En matière de desserte, de transports, d'infrastructures, d'équipements, nous sommes très en retard. Cela se traduit par des difficultés sociales, des difficultés économiques et, bien sûr, un taux de chômage beaucoup plus élevé que dans le reste de la région Île-de-France.
+
+Les communes se battent pour lutter contre ce déséquilibre, en particulier la commune de Mormant, qui souhaite développer une zone d'activités tout à fait intéressante au centre de la Seine-et-Marne. Je rappelle que la Seine-et-Marne, à elle seule, c'est la moitié de la superficie de l'Île-de-France. Dans cette partie rurale, la future zone d'activités de Mormant nécessite que la déviation des villages de Guignes et de Mormant soit réalisée le plus rapidement possible.
+
+Peut-être me répondrez-vous que ce n'est pas de la compétence de l'État, et vous aurez raison : c'est de celle du conseil général. Celui-ci s'est engagé en 2011, dans des documents que je tiens à votre disposition, à réaliser dans le cadre du mandat qui commençait alors, les déviations de ces deux communes. Malheureusement, malgré la pression des élus, les demandes des maires, ce dossier ne prospère pas. Pour des raisons qui m'échappent, cette promesse qui avait été faite en 2011 n'est pas tenue aujourd'hui.
+
+Quel est l'enjeu économique ? Qu'est-ce qui fait que je vous interpelle, monsieur le ministre, et que je souhaite que l'État puisse intervenir dans cette affaire ? C'est que, si ces deux déviations voient le jour, comme cela a été promis en 2011, elles permettent immédiatement le développement de la zone d'activités de Mormant et l'implantation d'une grande entreprise française de logistique, qui créerait sur place plus de 300 emplois. Dans cette période de chômage, c'est particulièrement important, d'autant plus que cette région est éloignée de Paris. Les habitants du sud de la Seine-et-Marne trouveraient des emplois de proximité et ne seraient plus condamnés soit au chômage soit à de longues heures dans les transports en commun.
+
+L'enjeu n'est donc pas qu'un enjeu de sécurité routière, même si c'en est aussi un puisque les deux villages sont aujourd'hui traversés par des flots de camions qui rendent la zone particulièrement dangereuse et les conditions de vie des riverains tout à fait désagréables. Mais au-delà de cela, il y a la perspective de centaines d'emplois.
+
+Le Gouvernement, par votre voix, monsieur le ministre, par la voix des autres ministres, et celle du Premier ministre, se bat pour l'emploi, il veut montrer aux Français qu'il est à l'écoute des problèmes des entreprises qui peuvent créer de l'activité sur le territoire. Or on a là une grande entreprise nationale qui peut s'implanter d'ici à quelques semaines, qui peut créer des centaines d'emplois. Il suffit pour cela que des travaux d'aménagement routier d'un coût relativement faible – il s'agit de quelques millions d'euros – puissent débuter.
+
+Il est évidemment un peu triste de constater qu'il faut en venir à interpeller le Gouvernement sur cette question, mais à l'heure où le chômage est une telle difficulté pour nos compatriotes, à l'heure où le sud de la Seine-et-Marne souffre de ses retards par rapport à une agglomération parisienne qui fait l'objet de toutes les attentions du Grand Paris, il me semblait important de vous demander, monsieur le ministre, comment, par votre influence, par votre intervention, par les relations que vous pouvez développer avec le ministre de l'industrie, qui est déjà au fait de ce dossier, vous pouvez faire en sorte que la déviation de Guignes et de Mormant voie le jour. Vous pouvez faire en sorte que la collectivité qui en a la responsabilité – en l'occurrence, le département de Seine-et-Marne – tienne ses promesses. Vous pouvez ainsi faire en sorte que soit apportée une réponse, d'ici à quelques mois, aux familles qui pourraient trouver un emploi dans cette entreprise. Elles connaissent des angoisses que vous connaissez, et que vous partagez.
+
+J'ai vu ce matin que vous serez interrogé par plusieurs de mes collègues sur la situation toute particulière et les difficultés du sud de la Seine-et-Marne : nous sommes assez franciliens pour payer des impôts, et pas assez pour obtenir des infrastructures. J'aimerais que l'État, par votre intervention, puisse rétablir l'équité. J'aimerais qu'en débloquant ce dossier des déviations de Guignes et de Mormant, il permette la création d'emplois. C'est un combat dans lequel je vous rejoindrai volontiers.
+
+Mme la présidente. La parole est à M. le ministre délégué chargé des transports, de la mer et de la pêche.
+
+M. Frédéric Cuvillier, ministre délégué chargé des transports, de la mer et de la pêche. Il ne vous aura pas échappé, monsieur le député, que nous ne sommes pas ici dans l'enceinte du conseil général de Seine-et-Marne. Je ne suis donc pas en situation de pouvoir vous répondre sur une compétence qui appartient au département.
+
+Tout de même, le constat que vous faites est accablant pour l'action de mes prédécesseurs. Vous parlez d'infrastructures qui n'existent pas dans votre région, c'est un manque de préparation de l'avenir. Ce constat, je l'entends comme le bilan de ce qui n'a pas été fait par d'autres. Je prends mes responsabilités et j'entends votre message, et je souligne ce constat : l'absence infrastructures.
+
+Heureusement, le département, sous la présidence de l'éminent Vincent Eblé, est sensible à cette réalité. Vous avez souligné l'enjeu économique des déviations de Mormant et de Guignes, notamment si l'on considère l'implantation d'un logisticien, qui, compte tenu de l'intensité du trafic, ne manque pas d'émouvoir la population, à juste titre d'ailleurs. Aussi le président du conseil général a-t-il précisé que la question des contournements avait toute son attention. Nul doute que lui-même aura à cœur de répondre à ces préoccupations. On le sait très engagé sur ces sujets, et je lui rends ici hommage à ce titre, puisque vous me le permettez, et j'adresse – en votre nom, puisque c'est vous qui l'avez fait – un carton rouge à ceux qui avaient à prévoir des infrastructures nécessaires, qui manquent à votre population. Je ne puis qu'être dans le constat, puisque, encore une fois, l'État n'a pas compétence pour financer des routes départementales. En l'occurrence, il s'agit bien de la route départementale 619.
+
+Mais c'est une interprétation politique, je l'ai bien compris. Je me ferai le relais de ces préoccupations – et de ce constat sans concession, que vous faites à juste titre, à propos de ce qui n'a pas été fait par mes prédécesseurs – auprès des élus locaux, particulièrement le président du conseil général, qui ne manquera pas d'y répondre.
