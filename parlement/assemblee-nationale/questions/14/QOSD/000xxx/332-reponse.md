@@ -1,0 +1,29 @@
+# Réponse à la question n° 332
+
+- Question : [332](332.md) — Question n° 332 — modernisation; participations de l'État; région nantaise
+
+## Réponse
+
+*JO du 2013-06-26*
+
+MODERNISATION DES LIGNES FERROVIAIRES DANS LES PAYS DE LA LOIRE
+
+Mme la présidente. La parole est à Mme Monique Rabin, pour exposer sa question, n° 332, relative à la modernisation des lignes ferroviaires dans les Pays de la Loire.
+
+Mme Monique Rabin. Monsieur le ministre délégué chargé des transports, de la mer et de la pêche, comme vous le savez, la région Pays de la Loire est marquée par un certain développement économique mais aussi par un essor démographique sans précédent. La question des déplacements domicile-travail s'y pose avec acuité, notamment sur le littoral. La ligne de train Nantes-Pornic-Saint-Gilles est devenue, en une dizaine d'années, une priorité absolue puisqu'un million de voyageurs de Loire-Atlantique et de Vendée empruntent ces voies ferrées qui convergent vers la gare de Sainte-Pazanne avant de rejoindre Nantes. Des travaux importants ont été entrepris dans le cadre du contrat de projet 2007-2013, financés par l'État, RFF et les collectivités locales. Ils ont permis le changement de signalisation sur l'ensemble du tracé, mais le renouvellement de la voie n'est malheureusement intervenu que sur une section de moins de trente kilomètres, sur les 115 kilomètres que compte la ligne. Ces travaux n'ont donc permis qu'une amélioration partielle des dessertes alors que la fréquentation connaît, chaque semaine, de fortes augmentations.
+
+Le service se dégrade à cause du mauvais état de la voie, engendrant un ralentissement des trains et beaucoup de désagréments pour les salariés et pour les lycéens qui regagnent Nantes chaque jour. La modernisation de la ligne, avec notamment le renouvellement de la voie, est donc urgente, sa pérennité étant en jeu. Les études sont aujourd'hui suffisamment avancées pour envisager le début des travaux en septembre 2014, après la saison estivale. L'opération s'élève à 109 millions d'euros. RFF, conscient de l'urgence, a d'ores et déjà décidé de s'engager à plus de 25 % alors qu'il n'est intervenu qu'à hauteur de 18 % lors de la première phase ; c'est une augmentation que nous saluons. Les collectivités sont, quant à elles, très impliquées dans ce projet puisqu'elles ont déjà apporté près de 65 % du financement de la première phase. Il conviendrait donc que l'État s'engage en complément des autres partenaires dans les meilleurs délais afin que les travaux commencent dès 2014. La situation des usagers quotidiens et le développement économique du littoral le commandent.
+
+Nous avons besoin d'investissements en matière ferroviaire. Je vous remercie de m'indiquer, monsieur le ministre, dans la situation financière que nous connaissons, si l'État peut faire de ces travaux une priorité, ce qui répondrait non seulement aux besoins de l'usager mais aussi aux impératifs de développement durable et de l'emploi, car ce chantier susciterait par nature de l'emploi non délocalisable.
+
+Mme la présidente. La parole est à M. le ministre délégué chargé des transports, de la mer et de la pêche.
+
+M. Frédéric Cuvillier, ministre délégué chargé des transports, de la mer et de la pêche. Madame la députée, le Gouvernement suit bien évidemment avec une attention particulière l'avancée du dossier de modernisation de la ligne ferroviaire Nantes-Pornic et Nantes-Saint-Gilles-Croix-de-Vie. Une première phase de modernisation de la ligne entre Nantes et Saint-Gilles-Croix-de-Vie a été réalisée pour un montant de 51 millions d'euros, dans le cadre du contrat de projets 2007-2013 entre l'État et la région Pays-de-la-Loire. Elle a été mise en service en 2011. Le programme de travaux de cette première phase portait, d'une part, sur la modernisation de l'ensemble de la signalisation, et, d'autre part, sur la modernisation de la voie sur le tronçon central entre Nantes et Sainte-Pazanne.
+
+Lors de sa session du 28 mars 2013, le conseil d'administration de RFF a approuvé les études d'avant-projet de la deuxième phase, qui consiste principalement à renouveler les voies entre Sainte-Pazanne et Pornic, et entre Sainte-Pazanne et Saint-Gilles-Croix-de-Vie, les deux branches de cé réseau ferroviaire. Le coût de l'opération a été estimé à 109 millions d'euros.
+
+Concernant sa participation, le conseil d'administration de RFF, à la fois opérateur et entreprise d'État, a décidé d'un montant tout à fait substantiel de 26 millions d'euros, en nette augmentation, vous l'avez souligné, par rapport à la première tranche. Comme pour tous les projets d'investissement sur le réseau ferré national, cette participation a été évaluée conformément à l'article 4 des statuts de l'établissement, fondement sur lequel RFF peut participer au cofinancement des infrastructures, lequel est calculé afin de ne pas alourdir sa dette, déjà considérable. De ce fait, le montant forfaitaire ne peut être réévalué sans remettre en cause l'ensemble de l'équilibre financier.
+
+Pour ne pas retarder la réalisation de cette nouvelle phase de modernisation, les études de projet vont être engagées dès cet été. Elles permettront de finaliser le programme et d'appréhender l'ensemble de l'opération et ses conditions de réalisation. Les discussions du plan de financement des travaux pourront dès lors s'engager sur des bases claires, puisque le projet sera établi, et dans le cadre d'une contractualisation entre l'État et les collectivités territoriales. Ces discussions devront prendre en considération l'ensemble des opérations nécessaires pour répondre aux besoins de mobilité au niveau régional, et ce dans un souci de responsabilité budgétaire, tant pour la région que pour l'État.
+
+Soyez rassurée, madame la députée : nous sommes dans la continuité, RFF assume un financement substantiel et l'étude qui sera menée permettra d'avoir une base de contractualisation avec la région et un engagement de l'État.
