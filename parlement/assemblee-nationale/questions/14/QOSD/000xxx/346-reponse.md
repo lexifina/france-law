@@ -1,0 +1,21 @@
+# Réponse à la question n° 346
+
+- Question : [346](346.md) — Question n° 346 — enfants âgés de deux ans; décompte; zones rurales
+
+## Réponse
+
+*JO du 2013-06-26*
+
+COMPTABILISATION DES ENFANTS DE MOINS DE DEUX ANS DANS LES EFFECTIFS DE LA CARTE SCOLAIRE
+
+Mme la présidente. La parole est à M. Alain Marc, pour exposer sa question, n° 346, relative à la comptabilisation des enfants de moins de deux ans dans les effectifs de la carte scolaire.
+
+M. Alain Marc. Monsieur le ministre de l’éducation nationale, je souhaite vous interroger ce matin sur le projet de loi pour la refondation de l'école de la République. À la suite des échanges que nous avions eus dans l'hémicycle et aux assurances que vous m'aviez données, j'avais retiré un amendement qui proposait que les enfants atteignant l'âge de deux ans pendant l'année scolaire à venir soient comptabilisés dans l'effectif de la carte scolaire, ce qui permettrait aux écoles en milieu rural de garder un taux d'encadrement favorable à de bonnes pratiques pédagogiques. Dans les faits, les instructions ne semblent pas avoir été données ou les moyens pas tout à fait octroyés : force est de constater que vos intentions n'ont pas été appliquées. Cela vaut essentiellement pour le milieu rural, qui doit faire face aujourd'hui à de nombreuses difficultés en période de crise. Je souhaiterais donc, monsieur le ministre, que vous interveniez auprès des recteurs afin que vos intentions dans le domaine du comptage des effectifs des élèves atteignant deux ans soient suivies d'effet.
+
+Mme la présidente. La parole est à M. le ministre de l'éducation nationale.
+
+M. Vincent Peillon, ministre de l'éducation nationale. Monsieur Alain Marc, je vous remercie tout d'abord d'apporter un soutien aussi actif et même vigilant à la politique éducative du Gouvernement, vous qui connaissez bien les questions éducatives. Le primaire et l'accueil des moins de trois ans sont redevenues une de nos priorités après des années pendant lesquelles elles avaient été interrompues et même gravement amputées : nous sommes en effet passés d'un taux de scolarisation de 30 % à un taux de 13 %, même s'il est encore de 17 % dans votre département, ce dont je me réjouis. Il faut mener une politique active en ce domaine. Je suis d'autant plus heureux de votre soutien et de votre vigilance, monsieur le député, qu'au cours des débats parlementaires que vous avez évoqués, vous avez pu vous exprimer en ce sens, et je vous en donne acte. Malheureusement, y compris au Sénat où doit avoir lieu le dernier vote cet après-midi, le groupe parlementaire auquel vous appartenez a été défiant à l'égard de la scolarisation des moins de trois ans. Le sénateur Pierre Martin a par exemple rappelé que cela ne lui semblait pas un bon instrument de lutte pour la réussite éducative…
+
+Dans le projet de loi d'orientation et de programmation, nous avons clairement posé que les enfants peuvent être accueillis dès l'âge de deux ans révolus, et précisé qu'ils devaient l'être en particulier dans un certain nombre de zones où cela est plus utile qu'ailleurs dès lors qu'on ne peut pas le faire partout : les zones urbaines en difficulté, les zones rurales et de montagne et les régions d'outre-mer. C'est pourquoi le projet de loi précise maintenant que les enfants de moins de trois ans y sont comptabilisés dans les prévisions d'effectifs d'élèves pour la rentrée. La chose est désormais inscrite dans le texte. Mais les instructions ont été données dès la circulaire du 18 décembre 2012 relative à la scolarisation des enfants de moins de trois ans et j'ai demandé aux inspecteurs de l'éducation nationale, que vous connaissez bien, qui sont proches du terrain, de veiller à sa bonne application.
+
+Quant aux moyens alloués, vous les connaissez puisqu'ils ont été votés dans la loi de programmation : trois mille postes supplémentaires seront consacrés, au cours du quinquennat, à cette politique spécifique. J'ai maintenant les chiffres exacts de ce qui a été affecté à la rentrée 2013 à cette politique : au niveau national, 375 postes qui ont été directement affectés à la scolarisation des moins de trois ans. Bien entendu, je sais que la mise en œuvre d'une politique prioritaire mérite toujours la vigilance. Je compte sur les parlementaires et retiens votre soutien à notre politique qui me réjouit.
