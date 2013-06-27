@@ -1849,3 +1849,5 @@ Total (en pourcentage de zones)
 Par dérogation à la présente méthodologie, l'ensemble du territoire de Mayotte est classé en zone très sous-dotée.
 
 (1) Sauf MSA, SNCF, MINES et APRIA-AMEXA sur le mois de décembre 2010.
+
+Par décision dûment motivée, l'agence régionale de santé de Guyane pourra déroger aux principes d'adaptation régionale prévus dans la présente méthodologie pour le classement des zones par catégorie.
