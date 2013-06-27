@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305355
+
+- Question : [SEQ130305355](seq130305355.md) — Fermeture du commissariat de Castelnaudary
+
+## Réponse
+
+*Intérieur, JO du 2013-06-27, page 1948*
+
+Les opérations de redéploiement des zones de compétence entre la gendarmerie et la police nationales, engagées progressivement depuis 1997, ont contribué à améliorer le dispositif de sécurité au pourtour des agglomérations et dans la diversité des territoires dans une recherche de plus grande cohérence. Pour accroître la sécurité de nos concitoyens, une nouvelle phase d'adaptation du dispositif territorial des forces de sécurité a été initiée. Il s'agit de renforcer, chaque fois que possible, l'homogénéité des zones de compétence des deux forces, dans une logique d'agglomérations et de territoires. Le transfert de la circonscription de sécurité publique de Castelnaudary en zone de compétence de la gendarmerie nationale, avec fermeture du commissariat de police, s'inscrit dans cette démarche. En tout état de cause, cette opération ne saurait mettre en question la qualité du service public de sécurité. , elle n'en modifie que l'organisation. Une démarche de concertation auprès des élus a été menée par le préfet de l'Aude avec le directeur départemental de la sécurité publique et le commandant de groupement de gendarmerie départementale sur la base d'un projet donnant lieu à une prestation de sécurité au moins équivalente à celle délivrée aujourd'hui que ce soit en terme d'accueil du public, d'occupation de la voie publique, de délais d'intervention ou de capacité d'intervention en cas d'évènement particulier. Ces engagements pris, l'opération de redéploiement a été validée. Les modalités précises du transfert sont actuellement en cours de finalisation, en portant la plus grande attention aux situations individuelles des personnels concernés.
