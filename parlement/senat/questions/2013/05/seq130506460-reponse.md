@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506460
+
+- Question : [SEQ130506460](seq130506460.md) — Versement des aides dues aux éleveurs dans la mise aux normes bien-être de leurs truies gestantes
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2013-06-27, page 1937*
+
+Le circuit de paiement des dossiers de mise aux normes des bâtiments pour le bien-être des truies gestantes consiste en la transmission par la direction départementale des territoires et de la mer (DDTM) de l'intégralité du dossier, de demande d'aide lorsque celui ci est réputé conforme et complet au siège de l'organisme payeur, FranceAgriMer (FAM). Ce dernier assure ensuite la supervision, l'ordonnancement de la dépense correspondante et ce, avant le paiement final au bénéficiaire. La réduction des délais de paiement d'un dossier est un objectif partagé par l'ensemble des acteurs. Dans cet objectif, et afin de limiter le taux de rejet et de refus de paiement des dossiers par l'agence comptable, FAM procède à la supervision de l'instruction des demandes de paiement réalisée par les DDT(M). Cette étape, compte tenu du fort taux d'anomalies détectées, entraîne effectivement de nombreux retours vers les services départementaux et peut sembler ralentir les délais de paiement des dossiers. Mais au final en limitant le taux de rejet comptable, elle améliore la fluidité de l'ensemble du processus de paiement. Face à l'augmentation du nombre de demandes de paiement transmis, en lien avec l'achèvement d'une grande majorité des travaux, FAM a doublé le nombre d'agents affectés à la supervision et à l'ordonnancement des dossiers pour optimiser le traitement des dossiers. Cette mesure devra permettre de réduire le délai moyen des opérations au niveau national. De plus, un état des lieux des difficultés rencontrées va être réalisé par FAM afin d'améliorer la fluidité des échanges et l'efficience de la coopération avec les DDT(M).
