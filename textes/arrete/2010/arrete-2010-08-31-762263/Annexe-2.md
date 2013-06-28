@@ -4,7 +4,7 @@ RÈGLES D'ÉLIGIBILITÉ À LA PRIME D'INTÉGRATION AU BÂTI ET À LA PRIME D'INT
 
 1. Une installation photovoltaïque est éligible à la prime d'intégration au bâti si et seulement si elle remplit toutes les conditions suivantes :
 
-1.1. Le système photovoltaïque est installé sur la toiture d'un bâtiment clos (sur toutes les faces latérales) et couvert, assurant la protection des personnes, des animaux, des biens ou des activités. A l'exception des bâtiments à usage principal d'habitation, le système photovoltaïque est installé au moins deux ans après la date d'achèvement du bâtiment. Le système photovoltaïque est installé dans le plan de ladite toiture.
+1.1. Le système photovoltaïque est installé sur la toiture d'un bâtiment clos (sur toutes les faces latérales) et couvert, assurant la protection des personnes, des animaux, des biens ou des activités. Le système photovoltaïque est installé au moins deux ans après la date d'achèvement du bâtiment. Le système photovoltaïque est installé dans le plan de ladite toiture.
 
 1.2. Le système photovoltaïque remplace des éléments du bâtiment qui assurent le clos et couvert, et assure la fonction d'étanchéité. Après installation, le démontage du module photovoltaïque ou du film photovoltaïque ne peut se faire sans nuire à la fonction d'étanchéité assurée par le système photovoltaïque ou rendre le bâtiment impropre à l'usage.
 
@@ -16,7 +16,7 @@ RÈGLES D'ÉLIGIBILITÉ À LA PRIME D'INTÉGRATION AU BÂTI ET À LA PRIME D'INT
 
 3. Par exception aux dispositions du paragraphe 1, une installation photovoltaïque est éligible à la prime d'intégration au bâti si elle remplit toutes les conditions suivantes :
 
-3.1. Le système photovoltaïque est installé sur un bâtiment clos (sur toutes les faces latérales) et couvert, assurant la protection des personnes, des animaux, des biens ou des activités ; à l'exception des bâtiments à usage principal d'habitation, le système photovoltaïque est installé au moins deux ans après la date d'achèvement du bâtiment.
+3.1. Le système photovoltaïque est installé sur un bâtiment clos (sur toutes les faces latérales) et couvert, assurant la protection des personnes, des animaux, des biens ou des activités ; le système photovoltaïque est installé au moins deux ans après la date d'achèvement du bâtiment.
 
 3.2. Le système photovoltaïque remplit au moins l'une des fonctions suivantes :
 

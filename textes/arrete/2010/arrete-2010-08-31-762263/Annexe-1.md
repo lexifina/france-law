@@ -4,13 +4,7 @@ TARIFS D'ACHAT
 
 1.L'énergie active fournie par le producteur est facturée à l'acheteur sur la base des tarifs définis ci-dessous. Ils sont exprimés en c € / kWh hors TVA.
 
-2. Pour les installations d'une puissance crête inférieure ou égale à 3 kWc bénéficiant de la prime d'intégration au bâti et situées sur un bâtiment à usage principal d'habitation au sens de l'article L. 631-7 du code de la construction et de l'habitation, le tarif applicable à l'énergie active fournie est égal à 58 c € / kWh.
-
-Pour les installations d'une puissance crête supérieure à 3 kWc bénéficiant de la prime d'intégration au bâti et situées sur un bâtiment à usage principal d'habitation au sens de l'article L. 631-7 du code de la construction et de l'habitation, le tarif applicable à l'énergie active fournie est égal à 51 c € / kWh.
-
-Pour les installations bénéficiant de la prime d'intégration au bâti et situées sur un bâtiment à usage d'enseignement ou de santé, le tarif applicable à l'énergie active fournie est égal à 51 c € / kWh.
-
-Pour les installations bénéficiant de la prime d'intégration au bâti situées sur d'autres bâtiments, le tarif applicable à l'énergie active fournie est égal à 44 c € / kWh.
+2. Pour les installations bénéficiant de la prime d'intégration au bâti, le tarif applicable à l'énergie active fournie est égal à 44 c € / kWh.
 
 3. Pour les installations bénéficiant de la prime d'intégration simplifiée au bâti, le tarif applicable à l'énergie active fournie est égal à 37 c € / kWh.
 
