@@ -2,11 +2,9 @@
 
 INSTALLATIONS RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER
 
-GÉRÉES PAR LE DPSM (BRGM) AU 1er MAI 2012
+GÉRÉES PAR LE DPSM (BRGM) AU 1er JANVIER 2013
 
-BASSIN
-
-minier
+BASSIN MINIER
 
 |
 
@@ -52,6 +50,20 @@ Emergences minières
 
 |
 
+La Vernade
+
+|
+
+|
+
+Saint-Eloy
+
+|
+
+|
+
+|
+
 Le Périmètre de l'Aumance
 
 |
@@ -61,22 +73,6 @@ Buxières-les-Mines
 |
 
 Les Gauthrins
-
-|
-
-|
-
-|
-
-La Vernade
-
-|
-
-Saint-Eloy-les-Mines
-
-|
-
-Saint-Eloy
 
 |
 
@@ -100,7 +96,7 @@ Les Mouillères
 
 |
 
-Blanzy-Montceau
+Blanzy Montceau
 
 |
 
@@ -132,69 +128,35 @@ Piézomètres
 
 |
 
+Barbecot
+
+|
+
+Chapdes-Beaufort
+
+|
+
+BBT1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+BBT2
+
+|
+
+|
+
+|
+
 Le Périmètre de l'Aumance
-
-|
-
-Buxières-les-Mines
-
-|
-
-Gauthrins 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Gauthrins 2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Saint-Paul
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Sondage panneau 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Déviat
-
-|
-
-|
-
-|
 
 |
 
@@ -210,33 +172,7 @@ Saint-Charles
 
 |
 
-Blanzy-Montceau
-
-|
-
-Montceau-les-Mines
-
-|
-
-Maugrand
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Pyramide
-
-|
-
-|
-
-|
+Blanzy Montceau
 
 |
 
@@ -298,7 +234,7 @@ Les Mouillères
 
 |
 
-Blanzy-Montceau
+Blanzy Montceau
 
 |
 
@@ -316,39 +252,25 @@ Surverses de lacs miniers
 
 |
 
-Blanzy-Montceau
-
 |
 
 Montceau-les-Mines
 
 |
 
+Barrat Lucy
+
+|
+
+|
+
+|
+
+|
+
+|
+
 La Carrière de la Poudrière
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Saint-Pierre
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Barrat-Lucy
 
 |
 
@@ -370,19 +292,19 @@ Saint-Louis
 
 |
 
+|
+
+Saint-Pierre
+
+|
+
+|
+
+|
+
+|
+
 Sanvignes-les-Mines
-
-|
-
-Saint-Amédée
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -390,11 +312,23 @@ Les Fouthiaux
 
 |
 
+|
+
+|
+
+|
+
+|
+
+Saint-Amédée
+
+|
+
 Est
 
 |
 
-Digues
+Canalisations
 
 |
 
@@ -402,25 +336,39 @@ De Wendel H
 
 |
 
-Rosbruck
+Petite-Rosselle
 
 |
 
-Rosbruck
-
-|
-
-|
+Ouvrage de gestion des eaux
 
 |
 
 |
 
-Petite Rosselle
+Digues
+
+|
+
+|
 
 |
 
 Bassin Saint-Charles
+
+|
+
+|
+
+|
+
+|
+
+Rosbruck
+
+|
+
+Rosbruck
 
 |
 
@@ -470,19 +418,19 @@ Moyeuvre-Grande
 
 |
 
-Galerie de Moyeuvre-Grande
-
-|
-
-|
-
-|
-
-|
-
-|
-
 Ancienne galerie de Moyeuvre
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Galerie de Moyeuvre Grande
 
 |
 
@@ -508,11 +456,99 @@ Forages de rabattement
 
 |
 
+Amodiation du Warndt - Allemagne
+
+|
+
+Nassweiler
+
+|
+
+F10
+
+|
+
+|
+
+|
+
+|
+
+|
+
+F11
+
+|
+
+|
+
+|
+
+De Wendel H
+
+|
+
+Forbach
+
+|
+
+Forbach 1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Forbach 2
+
+|
+
+Est
+
+|
+
+Forages de rabattement
+
+|
+
+De Wendel H
+
+|
+
+Rosbruck
+
+|
+
+F12
+
+|
+
+|
+
+|
+
+|
+
+|
+
+F13
+
+|
+
+|
+
+|
+
 Sarre et Moselle
 
 |
 
-Betting-les-Saint-Avold
+Betting-lès-Saint-Avold
 
 |
 
@@ -588,7 +624,7 @@ F3
 
 |
 
-Hombourg Haut
+Hombourg-Haut
 
 |
 
@@ -636,6 +672,8 @@ Varsberg
 
 |
 
+Piézomètres
+
 |
 
 De Wendel H
@@ -646,7 +684,7 @@ Forbach
 
 |
 
-Forbach 1
+FORB ALL 1
 
 |
 
@@ -658,7 +696,107 @@ Forbach 1
 
 |
 
-Forbach 2
+FORB ALL 2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+FORB GTI 1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Puits Marienau
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Puits Simon 5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PZ SDEC E2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SP 2003 06
+
+|
+
+|
+
+|
+
+|
+
+Morsbach
+
+|
+
+IPA3
+
+|
+
+|
+
+|
+
+|
+
+Petite-Rosselle
+
+|
+
+SP 2003 04
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Puits Saint-Charles 3
 
 |
 
@@ -672,7 +810,7 @@ Rosbruck
 
 |
 
-F12
+ROS ALL 1
 
 |
 
@@ -684,23 +822,7 @@ F12
 
 |
 
-F13
-
-|
-
-|
-
-|
-
-Amodiation du Warndt - Allemagne
-
-|
-
-Nassweiler
-
-|
-
-F10
+ROS ALL 2
 
 |
 
@@ -712,13 +834,63 @@ F10
 
 |
 
-F11
+ROS GTI 1
 
 |
 
 |
 
-Piézomètres
+|
+
+|
+
+Schoeneck
+
+|
+
+P50
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PZ SDEC E5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SP 2007 01
+
+|
+
+|
+
+|
+
+|
+
+Stiring Wendel
+
+|
+
+PZ SDEC E10
+
+|
+
+|
 
 |
 
@@ -727,42 +899,6 @@ La Houve
 |
 
 Creutzwald
-
-|
-
-Puits 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Puits 2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Puits 4
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -838,35 +974,51 @@ LH 2003 06
 
 |
 
+Puits 1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Puits 2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Puits 4
+
+|
+
+|
+
+|
+
+|
+
+|
+
 PZ SDEC 02
 
 |
 
-|
+Est
 
 |
 
-|
-
-|
-
-PZ Gti Lac Creutzwald
-
-|
-
-|
-
-|
-
-|
-
-|
-
-PZ Gti Barrois
-
-|
-
-|
+Piézomètres
 
 |
 
@@ -874,7 +1026,7 @@ Sarre et Moselle
 
 |
 
-Betting-les-Saint-Avold
+Betting-lès-Saint-Avold
 
 |
 
@@ -978,6 +1130,54 @@ Creutzwald
 
 |
 
+IPA1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Puits Barrois
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PZ Gti Barrois
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PZ GTi Lac Creutzwald
+
+|
+
+|
+
+|
+
+|
+
+|
+
 PZ SDEC 04
 
 |
@@ -1002,7 +1202,7 @@ PZ SDEC 05
 
 |
 
-Puits Barrois
+CREU-GTi 2
 
 |
 
@@ -1014,7 +1214,31 @@ Puits Barrois
 
 |
 
-IPA1
+CREU-All 1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+CREU-All 2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+CREU-GTi 1
 
 |
 
@@ -1025,18 +1249,6 @@ IPA1
 |
 
 Freyming-Merlebach
-
-|
-
-Puits Vouters
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1074,6 +1286,18 @@ MERL GTI 1
 
 |
 
+|
+
+Puits Vouters
+
+|
+
+|
+
+|
+
+|
+
 Ham-sous-Varsberg
 
 |
@@ -1100,7 +1324,7 @@ HAM GTI
 
 |
 
-Hombourg Haut
+Hombourg-Haut
 
 |
 
@@ -1200,6 +1424,8 @@ PZ Varsberg
 
 |
 
+Stations de pompage
+
 |
 
 De Wendel H
@@ -1207,18 +1433,6 @@ De Wendel H
 |
 
 Forbach
-
-|
-
-Puits Marienau
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1230,203 +1444,11 @@ Puits Simon 5
 
 |
 
-|
-
-|
-
-FORB ALL 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-FORB ALL 2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-FORB GTI 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-PZ SDEC E2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-SP 2003 06
-
-|
-
-|
-
-|
-
-|
-
-Morsbach
-
-|
-
-IPA3
-
-|
-
-|
-
-|
-
-|
-
-Petite-Rosselle
-
-|
-
-SP 2003 04
-
-|
-
-|
-
-|
-
-|
-
-Rosbruck
-
-|
-
-ROS ALL 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-ROS ALL 2
-
-|
-
-|
-
-|
-
-|
-
-|
-
-ROS GTI 1
-
-|
-
-|
-
-|
-
-|
-
-Schoeneck
-
-|
-
-P50
-
-|
-
-|
-
-|
-
-|
-
-|
-
-PZ SDEC E5
-
-|
-
-|
-
-|
-
-|
-
-|
-
-SP 2007 01
-
-|
-
-|
-
-|
-
-|
-
-Stiring Wendel
-
-|
-
-PZ SDEC E10
-
-|
-
-|
-
-Stations de pompage
-
-|
-
 La Houve
 
 |
 
 Creutzwald
-
-|
-
-Puits 1
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1438,7 +1460,19 @@ Forage F28
 
 |
 
-Sarre-et-Moselle
+|
+
+|
+
+Puits 1
+
+|
+
+|
+
+|
+
+Sarre et Moselle
 
 |
 
@@ -1452,23 +1486,23 @@ Puits Vouters
 
 |
 
-|
-
-De Wendel H
-
-|
-
-Forbach
-
-|
-
-Puits Simon 5
-
-|
-
-|
-
 Stations de relevage des eaux
+
+|
+
+Amodiation du Warndt - Allemagne
+
+|
+
+Grossrosseln
+
+|
+
+Grande Rosselle
+
+|
+
+|
 
 |
 
@@ -1528,7 +1562,7 @@ Weihergraben
 
 |
 
-Sarre-et-Moselle
+Sarre et Moselle
 
 |
 
@@ -1536,29 +1570,29 @@ Ham-sous-Varsberg
 
 |
 
-Dispositifs de drainage
-
-|
-
-|
-
-|
-
-Amodiation du Warndt ― Allemagne
-
-|
-
-Grossrosseln
-
-|
-
-Grande-Rosselle
+dispositif de drainage
 
 |
 
 |
 
 Stations de traitement des eaux
+
+|
+
+De Wendel H
+
+|
+
+Forbach
+
+|
+
+Simon
+
+|
+
+|
 
 |
 
@@ -1590,22 +1624,6 @@ Vouters
 
 |
 
-|
-
-|
-
-De Wendel H
-
-|
-
-Forbach
-
-|
-
-Simon
-
-|
-
 Nord
 
 |
@@ -1632,7 +1650,7 @@ Piézomètres
 
 |
 
-Auchy-au-Bois
+Auchy au Bois
 
 |
 
@@ -1640,19 +1658,19 @@ Ligny-lès-Aire
 
 |
 
+Puits 2 ― 2 bis
+
+|
+
+|
+
+|
+
+|
+
+|
+
 PZC L bis
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Puits 2 - 2 bis
 
 |
 
@@ -1744,7 +1762,7 @@ PZH P
 
 |
 
-Vimy-Fresnoy
+Vimy Fresnoy
 
 |
 
@@ -1752,19 +1770,19 @@ Vimy
 
 |
 
+Puits 1 ― 1 bis
+
+|
+
+|
+
+|
+
+|
+
+|
+
 PZC V
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Puits 1 - 1 bis
 
 |
 
@@ -1834,7 +1852,7 @@ Ecaillon
 
 |
 
-Lemay-Sainte-Marie
+Lemay Sainte Marie
 
 |
 
@@ -2082,6 +2100,70 @@ Noyelles Pont
 
 |
 
+Escautpont
+
+|
+
+Fresnes-sur-Escaut
+
+|
+
+Putemont rive droite
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Putemont rive gauche
+
+|
+
+|
+
+|
+
+Flines les Raches
+
+|
+
+Anhiers
+
+|
+
+Belle Inutile
+
+|
+
+|
+
+|
+
+Fresnes
+
+|
+
+Fresnes-sur-Escaut
+
+|
+
+Fort Masys
+
+|
+
+Nord
+
+|
+
+Stations de relevage des eaux
+
+|
+
 L'Escarpelle
 
 |
@@ -2164,7 +2246,7 @@ Cornet
 
 |
 
-Roost-Warendin
+Roost Warendin
 
 |
 
@@ -2212,66 +2294,6 @@ Vallée de Scarpe
 
 |
 
-Escautpont
-
-|
-
-Fresnes-sur-Escaut
-
-|
-
-Putemont rive droite
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Putemont rive gauche
-
-|
-
-|
-
-|
-
-Flines les Raches
-
-|
-
-Anhiers
-
-|
-
-Belle Inutile
-
-|
-
-|
-
-|
-
-Fresnes
-
-|
-
-Fresnes-sur-Escaut
-
-|
-
-Fort Masys
-
-|
-
-|
-
-|
-
 Marles
 
 |
@@ -2280,19 +2302,19 @@ Marles-les-Mines
 
 |
 
-Rue des Ecoles
-
-|
-
-|
-
-|
-
-|
-
-|
-
 Pont de Divion
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Rue des Ecoles
 
 |
 
@@ -2472,7 +2494,7 @@ Moulineaux
 
 |
 
-Vieux Condé
+Vieux-Condé
 
 |
 
@@ -2506,11 +2528,21 @@ Galerie du ruisseau de Lascous
 
 |
 
-Laval-Pradel
-
 |
 
 Plan incliné des Oules
+
+|
+
+|
+
+|
+
+|
+
+|
+
+fossé des Oules
 
 |
 
@@ -2522,7 +2554,7 @@ C3
 
 |
 
-Fuveau - Gréasque
+Fuveau ― Gréasque
 
 |
 
@@ -2540,7 +2572,7 @@ Boussagues
 
 |
 
-La Tour sur Orb
+La Tour-sur-Orb
 
 |
 
@@ -2644,6 +2676,22 @@ Galerie Verrerie
 
 |
 
+Le Devois de Graissessac
+
+|
+
+Graissessac
+
+|
+
+TB de Grand Champ
+
+|
+
+|
+
+|
+
 Portes & Senechas
 
 |
@@ -2684,9 +2732,15 @@ Galerie Sainte-Illyde
 
 |
 
-|
+Sud
 
 |
+
+Emergences minières
+
+|
+
+Robiac & Meyrannes
 
 |
 
@@ -2768,6 +2822,22 @@ Galerie nationale
 
 |
 
+Ruffas
+
+|
+
+Le Bousquet-d'Orb
+
+|
+
+TB 250
+
+|
+
+|
+
+|
+
 Trelys & Palmesalade
 
 |
@@ -2822,54 +2892,6 @@ Galerie Saint-Hyppolite
 
 |
 
-Le Devois de Graissessac
-
-|
-
-Graissessac
-
-|
-
-TB de Grand Champ
-
-|
-
-|
-
-|
-
-Ruffas
-
-|
-
-Le Bousquet d'Orb
-
-|
-
-TB 250
-
-|
-
-|
-
-|
-
-Hors concession
-
-|
-
-Lastours
-
-|
-
-Emergence de La Caunette
-
-|
-
-|
-
-|
-
 Combes
 
 |
@@ -2878,19 +2900,31 @@ Aubin
 
 |
 
+Ecoulement Destresse
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Ecoulement du Bois Noir et La Peyrade
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Emergence Combes Feuillantines
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Ecoulement du Bois-Noir et La Peyrade
 
 |
 
@@ -2910,39 +2944,27 @@ Emergence de la Bouyssonie 2
 
 |
 
-|
-
-|
-
-Ecoulement Destresse
-
-|
-
-|
-
-|
-
 Cransac
 
 |
 
 Cransac
-
-|
-
-Emergence Augustin
-
-|
-
-|
-
-|
-
-|
 
 |
 
 Ecoulement de Bézelgues
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Emergence Augustin
 
 |
 
@@ -3012,7 +3034,7 @@ Aubin
 
 |
 
-Emergence du Crol-Bas
+Emergence du Crol Bas
 
 |
 
@@ -3074,38 +3096,6 @@ Emergence galerie 1230
 
 |
 
-C3
-
-|
-
-Fuveau
-
-|
-
-Galerie de Fuveau
-
-|
-
-|
-
-|
-
-C8
-
-|
-
-Peypin
-
-|
-
-Galerie la Doria
-
-|
-
-|
-
-|
-
 C11
 
 |
@@ -3138,6 +3128,38 @@ Galerie de Pinchinier
 
 |
 
+C3
+
+|
+
+Fuveau
+
+|
+
+Galerie de Fuveau
+
+|
+
+|
+
+|
+
+C8
+
+|
+
+Peypin
+
+|
+
+Galerie la Doria
+
+|
+
+|
+
+|
+
 Hors concession - C4 - C5
 
 |
@@ -3154,7 +3176,35 @@ Galerie de la Mer
 
 |
 
-Côte-en-Velin
+Cluzel
+
+|
+
+Saint-Genest-Lerpt
+
+|
+
+Bas Cluzel
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Cluzel Haut
+
+|
+
+|
+
+|
+
+Côte en Velin
 
 |
 
@@ -3162,11 +3212,15 @@ Fourneaux
 
 |
 
-Côte-en-Velin
+Côte en Velin
 
 |
 
+Sud
+
 |
+
+Emergences minières
 
 |
 
@@ -3178,18 +3232,6 @@ Saint-Arey
 
 |
 
-Galerie de la Beaume
-
-|
-
-|
-
-|
-
-|
-
-|
-
 Galerie de Combe Neveuse
 
 |
@@ -3198,39 +3240,27 @@ Galerie de Combe Neveuse
 
 |
 
-La Motte d'Aveillans
+|
 
 |
 
-La Motte d'Aveillans
+Galerie de la Beaume
+
+|
+
+|
+
+|
+
+La Motte-d'Aveillans
+
+|
+
+La Motte-d'Aveillans
 
 |
 
 Forage de décharge
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Galerie N4 bis
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Galerie N6 Comberamis
 
 |
 
@@ -3264,7 +3294,43 @@ Galerie N14
 
 |
 
+|
+
+Galerie N4 bis
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Galerie N6 Comberamis
+
+|
+
+|
+
+|
+
+|
+
 La Motte-Saint-Martin
+
+|
+
+Galerie de la Faurie
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -3276,11 +3342,15 @@ Galerie N3 sous la Molière
 
 |
 
-|
+Montrambert
 
 |
 
-Galerie de la Faurie
+La Ricamarie
+
+|
+
+Fendue Lyon
 
 |
 
@@ -3322,18 +3392,6 @@ Susville
 
 |
 
-Galerie Fontveille 1
-
-|
-
-|
-
-|
-
-|
-
-|
-
 Galerie du Peychagnard N10
 
 |
@@ -3342,15 +3400,11 @@ Galerie du Peychagnard N10
 
 |
 
-Cluzel
+|
 
 |
 
-Saint-Genest-Lerpt
-
-|
-
-Bas Cluzel
+Galerie Fontveille 1
 
 |
 
@@ -3358,35 +3412,7 @@ Bas Cluzel
 
 |
 
-|
-
-|
-
-Cluzel Haut
-
-|
-
-|
-
-|
-
-Montrambert
-
-|
-
-La Ricamarie
-
-|
-
-Fendue Lyon
-
-|
-
-|
-
-|
-
-Roche la Molière & Firminy
+Roche-la-Molière & Firminy
 
 |
 
@@ -3508,19 +3534,15 @@ Saint-Raby
 
 |
 
-Hors concession
+Salsigne
 
 |
 
-Limousis
+Salsigne
 
 |
 
-AD 7
-
-|
-
-|
+Cheminée Panneau Sud
 
 |
 
@@ -3528,7 +3550,15 @@ AD 7
 
 |
 
-AD 9
+Bouquiès
+
+|
+
+Decazeville
+
+|
+
+Crucifix
 
 |
 
@@ -3536,23 +3566,15 @@ AD 9
 
 |
 
-|
+Combes
 
 |
 
-AD 10
+Aubin
 
 |
 
-|
-
-|
-
-|
-
-|
-
-AD 12
+Lunelle
 
 |
 
@@ -3560,23 +3582,15 @@ AD 12
 
 |
 
-|
+Cransac
 
 |
 
-AD 14
+Cransac
 
 |
 
-|
-
-|
-
-|
-
-|
-
-AD 15
+Puits 1 nouveau
 
 |
 
@@ -3584,11 +3598,15 @@ AD 15
 
 |
 
-|
+Decazeville Firmi
 
 |
 
-AD 16
+Decazeville
+
+|
+
+Vialarels 1/150
 
 |
 
@@ -3616,8 +3634,6 @@ C4
 
 |
 
-Gardanne
-
 |
 
 Puits Y
@@ -3635,6 +3651,72 @@ Mimet
 |
 
 Puits Gérard
+
+|
+
+|
+
+|
+
+Fontsante
+
+|
+
+Tanneron/Callian
+
+|
+
+PZ1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PZ2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PZ3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PZ4
+
+|
+
+|
+
+Prélèvements d'eaux de surface
+
+|
+
+|
+
+|
+
+P1
 
 |
 
@@ -3688,6 +3770,8 @@ Puits Gérard
 
 |
 
+Sud
+
 |
 
 Stations de relevage des eaux
@@ -3737,22 +3821,6 @@ Saint-Martin-de-Valgalgues
 |
 
 Destival
-
-|
-
-|
-
-|
-
-Hors concession
-
-|
-
-Limousis
-
-|
-
-Station de traitement des eaux arseniées
 
 |
 
