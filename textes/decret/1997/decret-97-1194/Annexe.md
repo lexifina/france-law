@@ -1,5 +1,7 @@
 # Article Annexe
 
+<
+
 TITRE Ier
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
@@ -1996,6 +1998,36 @@ Article R. 247-11, 2e alinéa b et c. |
 
 Décisions entrant dans le champ des compétences de la direction générale des douanes et droits indirects
 
+Décret n°
+
+2014-62 du 28 janvier 2014 relatif aux exportations d’armes à feu, munitions et leurs éléments pris pour l’application du règlement (UE) n°
+
+258/2012 du Parlement européen et du Conseil du 14 mars 2012
+
+1
+
+|
+
+Autorisation d’exportation d’armes à feu, munitions et leurs éléments
+
+|
+
+Articles 2 et 4
+
+|
+
+2
+
+|
+
+Suspension, modification, abrogation et retrait de l’autorisation d’exportation d’armes à feu, munitions et leurs éléments
+
+|
+
+Article 10
+
+|
+
 Convention douanière de Genève relative au transport
 
 international de marchandises sous le couvert de carnets TIR, du 14 novembre 1975
@@ -2678,15 +2710,7 @@ Article 207 de l'annexe III.
 
 |
 
-Décret n
-
-°
-
-2011-1467 du 9 novembre 2011 relatif aux importations et aux exportations hors du territoire de
-
-l’Union européenne de matériels de guerre, armes et munitions et de matériels assimilés et aux transferts
-
-intracommunautaires de produits liés à la défense
+Titre III du livre III de la deuxième partie réglementaire du code de la défense
 
 1
 
@@ -2696,41 +2720,31 @@ Autorisation d’importation de matériels de guerre, armes et munitions.
 
 |
 
-Article 2.
+Article R. 2335-2.
 
 |
 
 2 |
 
-Autorisation d’exportation de matériels de guerre, armes et munitions et matériels assimilés.
+Autorisation de transfert d’armes, munitions et leurs éléments
 
 |
 
-Article 14.
+Article R. 2335-40-1
 
 |
 
 3 |
 
-Autorisation de transfert de produits liés à la défense.
-
-|
-
-Article 27.
-
-|
-
-4 |
-
 Autorisation de transit de matériels de guerre, armes et munitions et matériels assimilés.
 
 |
 
-Article 46.
+Article R. 2335-43.
 
 |
 
-5 |
+4 |
 
 Modification, suspension, retrait et abrogation de l’autorisation d’importation de matériels de
 
@@ -2738,7 +2752,19 @@ guerre, armes et munitions.
 
 |
 
-Article 7.
+Article R. 2335-7.
+
+|
+
+5 |
+
+Modification, suspension, retrait et abrogation de l’autorisation de transfert d’armes,
+
+munitions et leurs éléments
+
+|
+
+Article R. 2335-40-1
 
 |
 
