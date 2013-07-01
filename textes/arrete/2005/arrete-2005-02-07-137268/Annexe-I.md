@@ -2,9 +2,7 @@
 
 PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LES RUBRIQUES 2101 (ÉLEVAGES DE BOVINS), 2111 (ÉLEVAGES DE VOLAILLES ET/OU DE GIBIER À PLUMES) ET 2102 (ÉLEVAGES DE PORCS) DE LA NOMENCLATURE
 
-1. Dispositions générales
-
-1.1. Conformité de l'installation à la déclaration
+1. Dispositions générales1.1. Conformité de l'installation à la déclaration
 
 Pour l'application du présent arrêté, on entend par :
 
@@ -66,15 +64,13 @@ Dans les zones vulnérables, délimitées en application du décret no 93-1038 d
 
 1.9. Contrôles périodiques
 
-Les installations classées au titre des rubriques 2101-1 (b) et 2111-2 sont soumises à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+Les installations classées au titre des rubriques 2101-1 (b), 2101-2 (c) et 2111-2 sont soumises à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
 
-Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées à l'annexe IV du présent arrêté, modifiées le cas échéant par arrêté préfectoral, lorsqu'elles lui sont applicables.
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées en annexe IV du présent arrêté, éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables. Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées à l'annexe IV par la mention " (susceptible de donner lieu à une non-conformité majeure) ".
 
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le "dossier installation classée" prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leur date de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4 de l'annexe I de l'arrêté du 7 février 2005 susvisé. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier prévu au point 1.4 de l'annexe I susvisée.
 
-2. Implantation. - Aménagement
-
-2.1. Règles d'implantation des bâtiments
+2. Implantation. - Aménagement2.1. Règles d'implantation des bâtiments
 
 2.1.1. Règles générales
 
@@ -156,9 +152,7 @@ La distance d'implantation par rapport aux habitations des tiers, aux locaux hab
 
 L'exploitant prend les dispositions appropriées pour intégrer l'élevage dans le paysage.
 
-3. Exploitation. - Entretien
-
-3.1. Surveillance de l'exploitation
+3. Exploitation. - Entretien3.1. Surveillance de l'exploitation
 
 L'exploitation doit se faire sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconvénients des produits utilisés ou stockés dans l'installation.
 
@@ -168,9 +162,7 @@ L'installation est maintenue en parfait état d'entretien.
 
 Les parcours des volailles et des porcs élevés en plein air sont herbeux ou ombragés et maintenus en bon état. Toutes les dispositions sont prises en matière d'aménagement des parcours afin de favoriser leur fréquentation sur toute leur surface par les animaux.
 
-4. Risques
-
-4.1. Risque incendie
+4. Risques4.1. Risque incendie
 
 Les installations techniques (gaz, chauffage, fuel) sont réalisées conformément aux dispositions des normes et réglementations en vigueur.
 
@@ -218,9 +210,7 @@ Les dispositions de l'arrêté du 11 septembre 2003 relatif aux forages sont app
 
 5.2. Consommation
 
-Toutes les dispositions sont prises pour limiter la consommation d'eau.
-
-5.3 Réseau de collecte
+Toutes les dispositions sont prises pour limiter la consommation d'eau.5.3 Réseau de collecte
 
 5.3.1. Sols des bâtiments
 
@@ -244,7 +234,7 @@ Les aliments stockés en dehors des bâtiments, à l'exception du front d'attaqu
 
 Des dispositions sont prises pour qu'il ne puisse pas y avoir, en cas d'accident, déversement de matières dangereuses dans les égouts publics ou le milieu naturel.
 
-5.5. Stockage des effluents
+5.5.Stockage des effluents
 
 5.5.1. Capacité de stockage
 
@@ -362,7 +352,9 @@ En zone d'excédent structurel, les dispositions fixées par les arrêtés relat
 
 5.6.2. Traitement sur un site spécialisé
 
-Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre Ier ou du livre V du code de l'environnement.
+Les effluents provenant des activités d'élevage de l'exploitation peuvent, totalement ou en partie, être traités sur un site autorisé ou déclaré au titre du livre II, titre Ie
+
+r ou du livre V du code de l'environnement.
 
 L'exploitant tient à la disposition de l'inspecteur des installations classées le relevé des quantités livrées et la date de livraison.
 
@@ -562,13 +554,15 @@ En cas de rejet dans le milieu naturel, le point de rejet de l'effluent traité 
 
 Les résultats de ces analyses sont conservés cinq ans et présentés à sa demande à l'inspecteur des installations classées.
 
-6.Air - Odeurs
+6. Air - Odeurs
 
 Les bâtiments sont correctement ventilés.
 
 L'exploitant prend des dispositions pour atténuer les émissions d'odeurs, de gaz ou de poussières susceptibles de créer des nuisances de voisinage.
 
-7.Déchets7.1. Déchets
+7. Déchets
+
+7.1. Déchets
 
 Les déchets de l'exploitation, et notamment les emballages et les déchets de soins vétérinaires, sont stockés dans des conditions ne présentant pas de risques (prévention des envols, des infiltrations dans le sol et des odeurs, etc.) pour les populations avoisinantes humaines et animales et l'environnement.
 
@@ -594,11 +588,11 @@ Le niveau sonore des bruits en provenance de l'élevage ne doit pas compromettre
 
 Pour la période allant de 6 heures à 22 heures :
 
-DUREE CUMULEE
+DURËE CUMULËE
 
 d'apparition du bruit particulier T |
 
-EMERGENCE MAXIMALE
+ËMERGENCE MAXIMALE
 
 admissible en db(A) |
 
