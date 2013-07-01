@@ -1,12 +1,12 @@
 # Article Annexe XIII
 
-PRINCIPALES OPÉRATIONS DE CONTRÔLE EN VUE DE LA CERTIFICATION DES CARACTÉRISTIQUES CHIFFRÉES DES MANIFESTATIONS COMMERCIALES
+PRINCIPALES OPÉRATIONS DE CONTRÔLE EN VUE DU CONTRÔLE DES CARACTÉRISTIQUES CHIFFRÉES DES MANIFESTATIONS COMMERCIALES
 
 (annexe XIII de l'annexe 7-10 du livre septième de la partie Arrêtés du code de commerce)
 
 I. - Principes généraux
 
-En vue de certifier les caractéristiques chiffrées des manifestations commerciales, l'organisme réalise les deux types de contrôle suivants :
+En vue de contrôler les caractéristiques chiffrées des manifestations commerciales, l'organisme réalise les deux types de contrôle suivants :
 
 - contrôle de premier niveau : contrôle de type comptable de documents communiqués par l'organisateur de la manifestation ;
 
@@ -30,9 +30,9 @@ L'organisme suit les étapes suivantes :
 
 5. Contrôle de second niveau des données recueillies ;
 
-6. Etablissement d'un procès-verbal définitif - valant certification des caractéristiques chiffrées de la manifestation - sur la base des résultats du contrôle de second niveau.
+6. Etablissement d'un procès-verbal définitif-valant contrôle des caractéristiques chiffrées de la manifestation-sur la base des résultats du contrôle de second niveau.
 
-L'organisme chargé de certifier les caractéristiques chiffrées des manifestations commerciales recueille auprès de l'organisateur de la manifestation les documents et informations nécessaires pour ces opérations, et notamment :
+L'organisme chargé de contrôler les caractéristiques chiffrées des manifestations commerciales recueille auprès de l'organisateur de la manifestation les documents et informations nécessaires pour ces opérations, et notamment :
 
 - documents comptables : factures, extraits de comptes relatifs aux recettes afférentes aux exposants, à la vente et à la prévente de tickets ;
 
@@ -54,7 +54,7 @@ L'organisme chargé de certifier les caractéristiques chiffrées des manifestat
 
 - les surfaces nettes allouées aux animations ou présentations en relation avec le thème de la manifestation ;
 
-- la surface totale, dite surface brute , louée par le gestionnaire du site à l'organisateur de la manifestation ;
+- la surface totale, dite surface brute, louée par le gestionnaire du site à l'organisateur de la manifestation ;
 
 - talons de tickets contrôlés à l'entrée de la manifestation, classés par catégorie ;
 
@@ -114,17 +114,17 @@ Pour les manifestations dont le nombre de visiteurs est fourni par un prestatair
 
 B. - Contrôle complémentaire de premier niveau
 
-En dehors de toute hypothèse d'anomalie, l'organisme certificateur procède à un double contrôle de premier niveau des caractéristiques chiffrées de certaines manifestations choisies par échantillonnage aléatoire (une manifestation sur quarante au moins).
+En dehors de toute hypothèse d'anomalie, l'organisme de contrôle procède à un double contrôle de premier niveau des caractéristiques chiffrées de certaines manifestations choisies par échantillonnage aléatoire (une manifestation sur quarante au moins).
 
 C. - Contrôle de second niveau
 
 Le contrôle de second niveau permet d'identifier les écarts significatifs justifiant un complément d'information de la part de l'organisateur. Il est réalisé par traitement et comparaison des caractéristiques chiffrées issues des contrôles de premier niveau par calcul des ratios suivants (en valeur absolue) :
 
-- surface nette de la manifestation divisée par surface brute de la manifestation : ce ratio est généralement inférieur ou égal à 2 / 3 ;
+- surface nette de la manifestation divisée par surface brute de la manifestation : ce ratio est généralement inférieur ou égal à 2/3 ;
 
 - surface nette des stands divisée par nombre d'exposants : ce ratio est généralement supérieur ou égal à 6 mètres carrés ;
 
-- nombre d'entrées divisé par surface brute de la manifestation divisé par le nombre de jours d'ouverture au public de la manifestation : ce ratio est généralement inférieur à 1 visite / m ² et par jour ;
+- nombre d'entrées divisé par surface brute de la manifestation divisé par le nombre de jours d'ouverture au public de la manifestation : ce ratio est généralement inférieur à 1 visite/ m ² et par jour ;
 
 - caractéristiques chiffrées de la session contrôlée avec celles des sessions précédentes de la manifestation. Est constitutive d'un écart significatif une variation supérieure à 10 % par rapport à la session précédente ; cette variation doit néanmoins également s'apprécier sur plusieurs sessions ;
 
