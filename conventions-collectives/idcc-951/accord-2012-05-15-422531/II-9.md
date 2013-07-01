@@ -1,3 +1,0 @@
-# Article II.9
-
-Si la location d'un instrument est nécessaire, celle-ci sera effectuée et prise en charge par la direction en accord avec l'artiste.

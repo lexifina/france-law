@@ -1,1 +1,0 @@
-# Article II.3
