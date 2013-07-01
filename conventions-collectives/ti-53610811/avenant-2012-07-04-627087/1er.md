@@ -1,0 +1,95 @@
+# Article 1er
+
+L' article 7 « Cotisations » est remplacé par les dispositions suivantes :
+
+« Article 7
+
+Cotisations
+
+Article 7.1
+
+Assiette
+
+Les cotisations sont appelées pour tous les salariés définis à l'article 4 du présent accord sur la base des rémunérations brutes limitées à 4 fois le montant du plafond annuel de la sécurité sociale (tranches A et B) servant au calcul de l'assiette des cotisations d'assurances sociales.
+
+Article 7.2
+
+Taux et répartition
+
+Pour tous les employeurs et les salariés, le taux global des cotisations, comprenant l'assurance des charges sociales patronales, destinées au financement des garanties définies à l'article 5 est de 1,36 %.
+
+La répartition des cotisations par garantie et la répartition des cotisations entre les employeurs et les salariés pour chacune des garanties sont les suivantes :
+
+(En pourcentage.)
+
+Garantie |
+
+Employeur |
+
+Salarié |
+
+Ensemble |
+
+Décès |
+
+0,41 |
+
+|
+
+0,41 |
+
+Incapacité temporaire de travail |
+
+|
+
+|
+
+|
+
+Maintien de salaire |
+
+0,24 |
+
+|
+
+0,24 |
+
+Relais maintien de salaire |
+
+|
+
+0,48 |
+
+0,48 |
+
+Cotisations assurance charges sociales patronales |
+
+0,09 |
+
+|
+
+0,09 |
+
+Incapacité permanente toutes origines |
+
+0,06 |
+
+0,08 |
+
+0,14 |
+
+Total
+
+|
+
+0,80
+
+|
+
+0,56
+
+|
+
+1,36
+
+|
