@@ -1,8 +1,10 @@
 # Article Annexe I
 
-LISTE DES ESPACES NATURELS PROTÉGÉS CONCERNÉS ET DES RECETTES RÉGIONALES DES DOUANES CHARGÉES DE PERCEVOIR LA TAXE SUR LES PASSAGERS MARITIMES PRÉVUE PAR L'ARTICLE 285 QUATER DU CODE DES DOUANES
+LISTE DES ESPACES NATURELS PROTÉGÉS CONCERNÉS ET DES RECETTES RÉGIONALES DES DOUANES CHARGÉES DE PERCEVOIR
 
-ESPACES NATURELS PROTÉGÉS
+LA TAXE SUR LES PASSAGERS MARITIMES PRÉVUE PAR L'ARTICLE 285 QUATER DU CODE DES DOUANES
+
+ESPACE NATUREL PROTÉGÉ
 
 |
 
@@ -18,55 +20,7 @@ RECETTE RÉGIONALE DES DOUANES
 
 |
 
-Parc national de Port-Cros : îles de Port-Cros, de Bagaud et de la Gabinière (Var). Port de Port-Cros
-
-|
-
-Bureau de Toulon-la-Seyne, port marchand, 83070 Toulon
-
-|
-
-RR de Provence, hôtel des douanes, boulevard du Château-Double, 13098 Aix-en-Provence
-
-|
-
-Réserve naturelle du banc d'Arguin
-
-|
-
-Bureau d'Arcachon, les Huniers, 14 bis, quai Capitaine-Allègre, 33311 Arcachon
-
-|
-
-RR de Bordeaux, 1, quai de la Douane, 33064 Bordeaux
-
-|
-
-Réserve naturelle des Bouches de Bonifacio (arrêté du 1er février 2001)
-
-|
-
-Bureau d'Ajaccio, 3, quai l'Herminier, 20177 Ajaccio
-
-|
-
-RR de Corse, bâtiment des douanes, port de commerce de Bastia, 20416 Ville-di-Pietrabugno
-
-|
-
-Réserve naturelle de Saint-Martin (arrêté du 13 juillet 2006)
-
-|
-
-Bureau de Basse-Terre, 51, rue du Docteur-Pitat, 97100 Basse-Terre
-
-|
-
-RR de Guadeloupe, 51, rue du Docteur-Pitat, 97100 Basse-Terre
-
-|
-
-Sites classés de l'archipel des îles Chausey
+Ile Tatihou (Manche)
 
 |
 
@@ -74,23 +28,59 @@ Bureau de Cherbourg, 1, quai du Général-Lawton-Collins, 50107 Cherbourg
 
 |
 
-RR de Basse-Normandie, 44, quai Vendeuvre, 14019 Caen
+Basse-Normandie RR, 44, quai Vendeuvre, 14019 Caen
 
 |
 
-Sites classés de l'île de Bréhat et port de Bréhat
+Espaces terrestres classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'archipel de Chausey (Manche)
 
 |
 
-Bureau de Saint-Brieuc, 3, impasse des Longs-Réages, 22193 Plérin
+Bureau de Cherbourg, 1, quai du Général-Lawton-Collins, 50107 Cherbourg
 
 |
 
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
+Basse-Normandie RR, 44, quai Vendeuvre, 14019 Caen
 
 |
 
-Sites classés de l'île d'Ouessant et port de Lampaul
+Réserve naturelle nationale du Banc d'Arguin (Gironde)
+
+|
+
+Bureau d'Arcachon, les Huniers, 14 bis, quai du Capitaine-Allègre, 33311 Arcachon
+
+|
+
+Bordeaux RR, 1, quai de la Douane, 33064 Bordeaux
+
+|
+
+Ile aux Moines du golfe du Morbihan (Morbihan)
+
+|
+
+Bureau de Lorient, 94, avenue de la Perrière, 56321 Lorient
+
+|
+
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
+
+|
+
+Ile d'Arz (Morbihan)
+
+|
+
+Bureau de Lorient, 94, avenue de la Perrière, 56321 Lorient
+
+|
+
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
+
+|
+
+Sites classés de l'Ile d'Ouessant et port de Lampaul (Finistère)
 
 |
 
@@ -98,11 +88,11 @@ Bureau de Brest, 14, quai de la Douane, 29229 Brest
 
 |
 
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
 
 |
 
-Sites classés de l'île de Sein et port de l'île de Sein
+Sites classés de l'île de Sein et port de l'île de Sein (Finistère)
 
 |
 
@@ -110,95 +100,23 @@ Bureau de Quimper, 5 bis, rue Joseph-Cugnot, 29000 Quimper
 
 |
 
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
 
 |
 
-Sites classés de l'île d'Yeu, port Joinville et port de la Meule
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle nationale de Saint-Nicolas-de-Glénan situés sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas (Finistère)
 
 |
 
-Bureau des Sables-d'Olonne, rue Alain-Gautier, parc Actilone, 85108 Olonne-sur-Mer
+Bureau de Quimper, 5 bis, rue Joseph-Cugnot, 29000 Quimper
 
 |
 
-RR de Nantes, 8, rue Eugène-Varlin, 44187 Nantes
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
 
 |
 
-Sites classés de l'île de Porquerolles et port de Porquerolles
-
-|
-
-Bureau de Toulon-la-Seyne, port marchand, 83070 Toulon
-
-|
-
-RR de Provence, hôtel des douanes, boulevard du Château-Double, 13098 Aix-en-Provence
-
-|
-
-Sites classés des îles de Lérins : îles Sainte-Marguerite et Saint-Honorat
-
-|
-
-Bureau de Cannes, gare maritime, quai Pantiero, 06400 Cannes
-
-|
-
-RR de Nice, 17, rue de l'Hôtel-des-Postes, 06008 Nice
-
-|
-
-Sites classés des îles Sanguinaires
-
-|
-
-Bureau d'Ajaccio, 3, quai l'Herminier, 20177 Ajaccio
-
-|
-
-RR de Corse, bâtiment des douanes, port de commerce de Bastia, 20416 Ville-di-Pietrabugno
-
-|
-
-Sites classés du Pain de sucre et de la baie de Pompierre à Terre-de-Haut
-
-|
-
-Bureau de Basse-Terre, 51, rue du Docteur-Pitat, 97100 Basse-Terre
-
-|
-
-RR de Guadeloupe, 51, rue du Docteur-Pitat, 97100 Basse-Terre
-
-|
-
-Sites classés des falaises nord-est de Marie-Galante (arrêté du 13 juillet 2006)
-
-|
-
-Bureau de Basse-Terre, 51, rue du Docteur-Pitat, 97100 Basse-Terre
-
-|
-
-RR de Guadeloupe, 51, rue du Docteur-Pitat, 97100 Basse-Terre
-
-|
-
-Sites classés du massif des Calanques (arrêté du 13 juillet 2006)
-
-|
-
-Bureau de Marseille transports, 48, avenue Robert-Schuman, 13224 Marseille
-
-|
-
-RR de Marseille, 48, avenue Robert-Schuman, 13224 Marseille
-
-|
-
-Ile d'Arz
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île d'Hoëdic, ainsi que le port de l'île d'Hoëdic (Morbihan)
 
 |
 
@@ -206,23 +124,11 @@ Bureau de Lorient, 94, avenue de la Perrière, 56321 Lorient
 
 |
 
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
 
 |
 
-Ile Tatihou
-
-|
-
-Bureau de Cherbourg, 1, quai du Général-Lawton-Collins, 50107 Cherbourg
-
-|
-
-RR de Basse-Normandie, 44, quai Vendeuvre, 14019 Caen
-
-|
-
-Ile aux Moines du golfe du Morbihan
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île de Houat, ainsi que le port de Saint-Gildas (Morbihan)
 
 |
 
@@ -230,11 +136,83 @@ Bureau de Lorient, 94, avenue de la Perrière, 56321 Lorient
 
 |
 
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
 
 |
 
-Désert des Agriates et plage du Loto
+Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur Belle-Ile, ainsi que port du Palais et port de Sauzon (Morbihan)
+
+|
+
+Bureau de Lorient, 94, avenue de la Perrière, 56321 Lorient
+
+|
+
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
+
+|
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2, territoires classés de la réserve naturelle nationale François-Le Bail, port Tudy, port Lay, port Mélite et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île de Groix (Morbihan)
+
+|
+
+Bureau de Lorient, 94, avenue de la Perrière, 56321 Lorient
+
+|
+
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
+
+|
+
+Espaces terrestres et marins classés au titre de l'article L. 341-1 et terrains du Conservatoire de l'espace littoral et des rivages lacustres sur l'île de Batz (Finistère)
+
+|
+
+Bureau de Brest, 14, quai de la Douane, 29229 Brest
+
+|
+
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
+
+|
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2, territoires classés de la réserve naturelle d'Iroise situés dans l'archipel de Molène et port de Molène (Finistère)
+
+|
+
+Bureau de Brest, 14, quai de la Douane, 29229 Brest
+
+|
+
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
+
+|
+
+Espaces terrestres et marins classés en réserve naturelle nationale des Sept-Iles et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île-aux-Moines (Côtes-d'Armor)
+
+|
+
+Bureau de Saint-Brieuc, 3, impasse des Longs-Réages, 22193 Plérin
+
+|
+
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
+
+|
+
+Sites classés de l'île de Bréhat et port de Bréhat (Côtes-d'Armor)
+
+|
+
+Bureau de Saint-Brieuc, 3, impasse des Longs-Réages, 22193 Plérin
+
+|
+
+Bretagne RR, 8, cours des Alliés, 35012 Rennes
+
+|
+
+Désert des Agriates et plage du Loto (Haute-Corse)
 
 |
 
@@ -242,143 +220,11 @@ Bureau de Bastia, port de commerce de Bastia, 20416 Ville-di-Pietrabugno
 
 |
 
-RR de Corse, bâtiment des douanes, port de commerce de Bastia, 20416 Ville-di-Pietrabugno
+Corse RR, bâtiment des douanes, port de commerce de Bastia, 20416 Ville-di-Pietrabugno
 
 |
 
-Iles de Petite-Terre
-
-|
-
-Bureau de Pointe-à-Pître, hôtel des douanes, 6, quai Foulon, 97110 Pointe-à-Pître
-
-|
-
-RR de Guadeloupe, 51, rue du Docteur-Pitat, 97100 Basse-Terre
-
-|
-
-Iles du Salut
-
-|
-
-Bureau de Degrad-des-Cannes, ZI Degrad-des-Cannes, 97354 Rémire-Montjoly
-
-|
-
-RR de Guyane, 24, rue Lallouette, 97305 Cayenne
-
-|
-
-Espaces terrestres et marins classés en réserve naturelle dite des Sept Iles et terrains du Conservatoire de l'espace littoral et des rivages lacustres de l'île aux Moines de cet archipel
-
-|
-
-Bureau de Saint-Brieuc, 3, impasse des Longs-Réages, 22193 Plérin
-
-|
-
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
-
-|
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle d'Iroise situés dans l'archipel de Molène et port de Molène
-
-|
-
-Bureau de Brest, 14, quai de la Douane, 29229 Brest
-
-|
-
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
-
-|
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle de Saint-Nicolas-de-Glénan situés sur l'archipel de Glénan, ainsi que le port de l'île de Saint-Nicolas
-
-|
-
-Bureau de Quimper, 5 bis, rue Joseph-Cugnot, 29000 Quimper
-
-|
-
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
-
-|
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et territoires classés de la réserve naturelle François-Le Bail situés sur l'île de Groix, ainsi que port Tudy, port Lay et port Mélite
-
-|
-
-Bureau de Lorient, 94, avenue de la Perrière, 56321 Lorient
-
-|
-
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
-
-|
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur Belle-Ile, ainsi que le port du Palais et le port de Sauzon
-
-|
-
-Bureau de Lorient, 94, avenue de la Perrière, 56321 Lorient
-
-|
-
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
-
-|
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île de Houat, ainsi que le port de Saint-Gildas
-
-|
-
-Bureau de Lorient, 94, avenue de la Perrière, 56321 Lorient
-
-|
-
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
-
-|
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île d'Hoëdic, ainsi que le port de l'île Hoëdic
-
-|
-
-Bureau de Lorient, 94, avenue de la Perrière, 56321 Lorient
-
-|
-
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
-
-|
-
-Espaces terrestres et marins classés au titre de l'article L. 341-2 et terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île d'Aix, ainsi que le port de la Rade
-
-|
-
-Bureau de La Rochelle, boulevard Emile-Delmas, 17010 La Pallice
-
-|
-
-RR de Poitiers, 32, rue Salvador-Allende, 86020 Poitiers
-
-|
-
-Site inscrit au titre de l'article L. 341-1 et terrains du Conservatoire de l'espace littoral et des rivages lacustres sur l'île de Batz
-
-|
-
-Bureau de Brest, 14, quai de la Douane, 29229 Brest
-
-|
-
-RR de Bretagne, 8, cours des Alliés, 35012 Rennes
-
-|
-
-Réserve naturelle de la presqu'île de Scandola et sites classés de Porto et Girolata
+Sites classés des îles Sanguinaires (Corse-du-Sud)
 
 |
 
@@ -386,6 +232,262 @@ Bureau d'Ajaccio, 3, quai L'Herminier, 20177 Ajaccio
 
 |
 
-RR de Corse, bâtiment des douanes, port de commerce de Bastia, 20416 Ville-di-Pietrabugno
+Corse RR, bâtiment des douanes, port de commerce de Bastia, 20416 Ville-di-Pietrabugno
+
+|
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2 de Porto et de Girolata et territoires classés de la réserve naturelle de la presqu'île de Scandola (Corse-du-Sud)
+
+|
+
+Bureau d'Ajaccio, 3, quai L'Herminier, 20177 Ajaccio
+
+|
+
+Corse RR, bâtiment des douanes, port de commerce de Bastia, 20416 Ville-di-Pietrabugno
+
+|
+
+Réserve naturelle nationale des Bouches de Bonifacio (Corse-du-Sud)
+
+|
+
+Bureau d'Ajaccio, 3, quai l'Herminier, 20177 Ajaccio
+
+|
+
+Corse RR, bâtiment des douanes, port de commerce de Bastia, 20416 Ville-di-Pietrabugno
+
+|
+
+Sites classés des falaises nord-est de Marie-Galante (Guadeloupe)
+
+|
+
+Bureau de Basse-Terre, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Guadeloupe RR, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Iles de Petite-Terre (Guadeloupe)
+
+|
+
+Bureau de Basse-Terre, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Guadeloupe RR, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Sites classés du Pain de sucre et de la baie de Pompierre à Terre-de-Haut (archipel des Saintes à la Guadeloupe)
+
+|
+
+Bureau de Basse-Terre, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Guadeloupe RR, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Réserve naturelle nationale de la Désirade (Guadeloupe)
+
+|
+
+Bureau de Basse-Terre, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Guadeloupe RR, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Réserve naturelle nationale de Saint-Martin (Guadeloupe)
+
+|
+
+Bureau de Basse-Terre, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Guadeloupe RR, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Parc national de la Guadeloupe : îlet Pigeon, îlets du Grand Cul de Sac marin, mangroves du Grand Cul de Sac marin classés en cœur de parc national ainsi que l'aire maritime adjacente (Guadeloupe)
+
+|
+
+Bureau de Basse-Terre, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Guadeloupe RR, 51, rue du Docteur-Pitat, 97100 Basse-Terre
+
+|
+
+Iles du Salut (Guyane)
+
+|
+
+Bureau de Degrad-des-Cannes, ZI Degrad-des-Cannes, 97354 Rémire-Montjoly
+
+|
+
+Guyane RR, 24, rue Lallouette, 97305 Cayenne
+
+|
+
+Réserve naturelle nationale de l'île du Grand-Connétable (Guyane)
+
+|
+
+Bureau de Degrad-des-Cannes, ZI Degrad-des-Cannes, 97354 Rémire-Montjoly
+
+|
+
+Guyane RR, 24, rue Lallouette, 97305 Cayenne
+
+|
+
+Sites classés du massif des Calanques (Bouches-du-Rhône)
+
+|
+
+Marseille transports, 48, avenue Robert-Schuman, 13224 Marseille
+
+|
+
+Marseille RR, 48, avenue Robert-Schuman, 13224 Marseille
+
+|
+
+Ilet Madame (Martinique)
+
+|
+
+Bureau de Fort-de-France port, centre d'Affaires Agora bâtiment D ZAC Etang Z'abricot, BP 629,97200 Fort-de-France Cedex
+
+|
+
+Martinique RR, centre d'affaires agora bât D, ZAC Etang Z'abricot, BP 629,97261 Fort-de-France Cedex
+
+|
+
+Sites classés de l'île d'Yeu, port Joinville et port de La Meule (Vendée)
+
+|
+
+Bureau des Sables-d'Olonne, rue Alain-Gautier, parc Actilone, 85108 Olonne-sur-mer
+
+|
+
+Nantes RR, 8, rue Eugène-Varlin, 44187 Nantes
+
+|
+
+Sites classés des îles de Lérins : îles Sainte-Marguerite et Saint-Honorat (Alpes-Maritimes)
+
+|
+
+Bureau de Cannes, gare maritime, quai Pantiero, 06400 Cannes
+
+|
+
+Nice RR, 17, rue de l'Hôtel-des-Postes, 06008 Nice
+
+|
+
+Réserve naturelle nationale marine de Cerbère-Banyuls (Pyrénées-Orientales)
+
+|
+
+Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpignan Cedex
+
+|
+
+Perpignan RR, 1, BD Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+
+|
+
+Sites classés du cap Oullestrell situé sur les communes de Banyuls-sur-Mer et Port-Vendres ainsi que le domaine public correspondant maritime (Pyrénées-Orientales)
+
+|
+
+Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpignan Cedex
+
+|
+
+Perpignan RR, 1 BD Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+
+|
+
+Sites classés du cap Béar et ses abords (Pyrénées-Orientales)
+
+|
+
+Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpignan Cedex
+
+|
+
+Perpignan RR, 1 BD Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+
+|
+
+Sites classés du cap de l'Abeille (Pyrénées-Orientales)
+
+|
+
+Bureau de Perpignan, immeuble Le Carré, 3, avenue de Rome, BP 5156,66031 Perpignan Cedex
+
+|
+
+Perpignan RR, 1 BD Kennedy, immeuble Espadon, 66028 Perpignan Cedex
+
+|
+
+Espaces terrestres et marins classés au titre de l'article L. 341-2, terrains du Conservatoire de l'espace littoral et des rivages lacustres situés sur l'île d'Aix ainsi que le port de la Rade (Charente-Maritime)
+
+|
+
+Bureau de La Rochelle, boulevard Emile-Delmas, 17010 La Pallice
+
+|
+
+Poitiers RR, 32, rue Salvador-Allende, 86020 Poitiers
+
+|
+
+Parc national de Port-Cros :
+
+- île de Port-Cros (dont le port de Port-Cros), île de Bagaud, île de la Gabinière, classés en cœur de parc national, ainsi que l'aire maritime adjacente (Var) ;
+
+- espaces terrestres et maritimes situés sur l'île de Porquerolles et classés en cœur de parc national en aire maritime adjacente (dont le port de Porquerolles) et en site classé au titre de l' article L. 341-2 du code de l'environnement (Var)
+
+|
+
+Bureau de Toulon-la-Seyne, port marchand, 83070 Toulon
+
+|
+
+Provence RR, hôtel des douanes, boulevard du Château-Double, 13098 Aix-en-Provence
+
+|
+
+Réserve naturelle nationale marine de La Réunion (La Réunion)
+
+|
+
+Bureau du Port, Hôtel des douanes, boulevard Mascareignes ZAC Belvédère, BP 52003,97821 Le Port Cedex
+
+|
+
+La Réunion RR, 13, rue Jules-Auber, BP 02041,97488 Saint-Denis Cedex
 
 |
