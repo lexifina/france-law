@@ -184,19 +184,7 @@ Le TAEG vous permet de comparer différentes offres.
 
 Est-il obligatoire pour l'obtention même du crédit ou conformément aux clauses et conditions commerciales de contracter :
 
-|
-
-|
-
 - une assurance liée au crédit ?
-
-|
-
-Oui/ non ; [si oui, préciser le type d'assurance, et ajouter la mention suivante :
-
-Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix.]
-
-|
 
 - un autre service accessoire ?
 
@@ -205,6 +193,10 @@ Si les coûts de ces services ne sont pas connus du prêteur, ils ne sont pas in
 Lorsque l'assurance est proposée ou exigée par le prêteur, coût de cette assurance à l'aide d'un exemple chiffré exprimé en euros et par mois
 
 |
+
+Oui/ non ; [si oui, préciser le type d'assurance, et ajouter la mention suivante :
+
+Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix.]
 
 Oui/ non ; [si oui, préciser le type de service accessoire]
 
@@ -275,6 +267,16 @@ Vous disposez d'un délai de quatorze jours calendaires pour revenir sur votre e
 |
 
 Oui
+
+(Le cas échéant)
+
+Lorsque le contrat de crédit est un crédit affecté :
+
+- la rétractation sur le contrat de crédit entre le premier et le septième jour met fin au contrat de vente principal ;
+
+- si vous vous rétractez entre le huitième et le quatorzième jour, vous devez payer le bien ou la prestation de services acquis.
+
+Lorsque, dans le cadre d'un crédit affecté, vous demandez la livraison immédiate du bien ou de la prestation de services, votre droit de rétractation sur le contrat de crédit prend fin le jour de la livraison du bien ou de l'exécution de la prestation de services (sans pouvoir être inférieur à trois jours, ni excéder quatorze jours). Son exercice ne met fin à votre contrat de vente principal que dans les trois premiers jours. Au-delà, vous êtes tenu d'acquérir le bien ou la prestation de services.
 
 |
 
