@@ -8,83 +8,65 @@ Pour les différents groupes de produits, le taux normal et le taux spécifique 
 
 (En pourcentage)
 
-GROUPE DE PRODUITS |
+GROUPE DE PRODUITS
 
-TAUX NORMAL |
+|
 
-TAUX SPÉCIFIQUE |
+TAUX NORMAL
+
+|
+
+TAUX SPÉCIFIQUE
+
+|
 
 Cigarettes
 
 |
 
-45
+50 |
 
-|
-
-10
-
-|
+10 |
 
 Cigares et cigarillos
 
 |
 
-10
+15 |
 
-|
-
-5
-
-|
+5 |
 
 Tabacs fine coupe destinés à rouler les cigarettes
 
 |
 
-27
+30 |
 
-|
-
-15
-
-|
+15 |
 
 Autres tabacs à fumer
 
 |
 
-22
+25 |
 
-|
-
-0
-
-|
+0 |
 
 Tabacs à priser
 
 |
 
-15
+20 |
 
-|
-
-0
-
-|
+0 |
 
 Tabacs à mâcher
 
 |
 
-13
+15 |
 
-|
-
-0
-
-|
+0 |
 
 II.-Pour les cigarettes, le prix de vente au détail appliqué dans les départements de Corse est au moins égal à 75 % des prix de vente continentaux des mêmes produits.
 
@@ -94,7 +76,7 @@ Pour les cigares et les cigarillos, le prix de vente au détail appliqué dans l
 
 III.-Outre les cas prévus au 1 du I de l'article 302 D en ce qui concerne les tabacs manufacturés directement introduits dans les départements de Corse en provenance d'un autre Etat membre de la Communauté européenne, le droit de consommation est également exigible soit à l'importation, soit à l'issue d'un régime suspensif de l'accise. Dans ces cas, le droit est dû par la personne qui importe les produits ou qui sort les biens du régime suspensif.
 
-IV.-Le droit de consommation est recouvré dans les conditions prévues par les deuxième à cinquième alinéas de l'article 575 C.A l'exclusion des tabacs directement importés dans les départements de Corse qui demeurent soumis aux dispositions de l'article 575 M, les infractions aux dispositions du présent article sont recherchées, constatées, poursuivies et réprimées comme en matière de contributions indirectes.
+IV.-Le droit de consommation est recouvré dans les conditions prévues par les deuxième à cinquième alinéas de l'article 575 C. A l'exclusion des tabacs directement importés dans les départements de Corse qui demeurent soumis aux dispositions de l'article 575 M, les infractions aux dispositions du présent article sont recherchées, constatées, poursuivies et réprimées comme en matière de contributions indirectes.
 
 V.-Le produit du droit de consommation est affecté au financement de travaux de mise en valeur de la Corse et versé à concurrence :
 
@@ -106,4 +88,4 @@ VI.-Les unités de conditionnement doivent être revêtues des mentions prescrit
 
 NOTA :
 
-Loi n° 2012-1510 du 29 décembre 2012 article 54 II : Le I entre en vigueur à compter du 1er janvier 2013.
+Loi n° 2012-1510 du 29 décembre 2012, article 54 III : Ces dispositions entrent en vigueur à compter du 1er juillet 2013.
