@@ -1,0 +1,9 @@
+# Réponse à la question n° 18102
+
+- Question : [18102](18102.md) — Question n° 18102 — Établissement public d'insertion de la défense; perspectives
+
+## Réponse
+
+*JO du 2013-07-02*
+
+L'établissement public d'insertion de la défense (EPIDe), créé en 2005, compte à ce jour 18 centres d'accueil en France. Cet établissement est placé sous la co-tutelle des ministères chargés de l'emploi, de la ville et de la défense. La tutelle de premier rang est exercée par les ministères chargés de l'emploi et de la ville, qui sont les financeurs de l'EPIDe et qui sont donc en position de proposer, avec la direction générale de l'établissement, l'inscription d'une nouvelle implantation à l'ordre du jour du conseil d'administration. Le développement de l'offre de l'EPIDe dans le sud-ouest, par la création d'un centre à Toulouse, a été inscrit au contrat d'objectifs et de moyens conclu entre l'État et l'établissement le 2 février 2009. La parcelle d'une superficie de 103 995 m2 concernée par ce projet, située chemin de Tucaut, a été transférée en pleine propriété à l'EPIDe par le décret n° 2009-310 du 19 mars 2009 portant apport au profit de l'établissement public d'insertion de la défense d'immeubles domaniaux. A ce stade, un certain nombre de contraintes reste à lever parmi lesquelles notamment les trois éléments suivants : la ville de Toulouse n'a pas encore modifié le plan local d'urbanisme qui limite la constructibilité de la zone destinée à l'édification du centre, du fait de son classement en terres agricoles ; l'EPIDe n'a pas encore reçu confirmation du maintien du montant des fonds européens de développement régional nécessaires à l'opération, dans le programme européen d'aide au développement pour les années 2014-2020 ; enfin, l'ouverture d'un nouveau centre nécessite le recrutement de personnels d'encadrement à soumettre à l'accord du conseil d'administration de l'établissement.
