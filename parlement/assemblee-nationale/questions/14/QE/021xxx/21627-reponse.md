@@ -1,0 +1,9 @@
+# Réponse à la question n° 21627
+
+- Question : [21627](21627.md) — Question n° 21627 — souscription; protection; héritiers réservataires
+
+## Réponse
+
+*JO du 2013-07-02*
+
+Aux termes de l'alinéa 1er de l'article L. 132-13 du code des assurances, le capital ou la rente versés au titre d'une assurance-vie souscrite au bénéfice d'un tiers ne sont soumis ni aux règles du rapport à succession ni à celles de la réduction pour atteinte à la réserve des héritiers du contractant. En effet, ils ne figurent pas dans les biens existant au décès de l'assuré dans la mesure où le bénéficiaire les acquiert directement contre l'assureur en vertu d'un droit propre né de la stipulation pour autrui sur laquelle repose l'opération d'assurance. Ainsi, l'assurance-vie n'est pas prise en compte lors du calcul de la quotité disponible et de la réserve héréditaire. Si les héritiers du de cujus bénéficiant de la réserve héréditaire s'estiment lésés dans leurs droits, ils disposent aujourd'hui de deux moyens pour obtenir la prise en compte de l'assurance-vie dans la masse de calcul des droits successoraux que la loi leur garantit. Ils peuvent faire valoir le caractère manifestement excessif des primes pour obtenir, si tel est le cas, leur réintégration dans la masse, en vertu de l'alinéa 2 de l'article L. 132-13 précité. Ils peuvent aussi soutenir, le cas échéant, que l'assurance vie ne présentant aucun caractère aléatoire mais révélant au contraire une volonté de dépouillement irrévocable en faveur du bénéficiaire désigné, est constitutive d'une donation indirecte qu'il convient de réunir fictivement aux biens existant au décès. Ainsi, il ne paraît pas nécessaire de procéder à une modification du droit en la matière, les mécanismes proposés par la loi permettant déjà d'assurer aux héritiers une protection suffisante de leurs droits.
