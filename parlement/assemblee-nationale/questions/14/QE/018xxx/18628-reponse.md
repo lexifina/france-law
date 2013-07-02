@@ -1,0 +1,9 @@
+# Réponse à la question n° 18628
+
+- Question : [18628](18628.md) — Question n° 18628 — exportations; Grèce; bilan
+
+## Réponse
+
+*JO du 2013-07-02*
+
+L'importante crise financière à laquelle la Grèce est confrontée depuis 2009 a engendré une réduction du montant des crédits consacrés à la défense, qui s'est traduite par une diminution de ses acquisitions de matériels militaires. Ce pays a ainsi reconduit le gel des commandes d'équipements de ce type dans le cadre de l'exercice budgétaire 2013. Si le volume des exportations de matériels de défense français vers la Grèce est devenu très faible en 2012, le règlement des contrats en cours a néanmoins été honoré par le ministère de la défense grec. Dans ce contexte, lors de leur rencontre le 28 février dernier à Athènes, les ministres de la défense grec et français ont évoqué la relation bilatérale de défense entre les deux pays. Sur la base de l'initiative de l'Union européenne « Pooling and Sharing », ils ont ainsi examiné diverses alternatives de synergies, concernant notamment la surveillance maritime, la cyberdéfense, la formation et l'entraînement, ainsi que l'approvisionnement en pièces de rechange et la maintenance des systèmes d'armes. A la suite du partenariat stratégique conclu en 2008, les deux ministres ont convenu de poursuivre l'élaboration d'un accord de coopération de défense, qui constituera le cadre de la coopération bilatérale, en particulier dans les domaines opérationnel et de l'échange d'expériences en matière de réforme de la défense. Dans l'immédiat, les ministres de la défense ont décidé de mettre en place un comité franco-hellénique, composé de cadres des deux ministères. Ce comité sera chargé de préparer le contenu d'un accord portant sur la satisfaction des besoins opérationnels des forces armées grecques, s'agissant notamment des capacités maritimes et du maintien en condition opérationnelle des équipements des forces armées helléniques.
