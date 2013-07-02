@@ -1,0 +1,9 @@
+# Réponse à la question n° 20059
+
+- Question : [20059](20059.md) — Question n° 20059 — autorité constituée; notion; champ d'application
+
+## Réponse
+
+*JO du 2013-07-02*
+
+L'article 40 alinéa 2 du code de procédure pénale fait obligation à « toute autorité constituée, tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit » d'en aviser sans délai le procureur de la République. Selon la Cour de cassation, l'article 40 du code de procédure pénale suppose dans un premier temps l'exercice d'une fonction publique. Il s'agit, selon cette juridiction, d'une mission d'ordre public, s'agissant d'une obligation imposée aux fonctionnaires et autorités publiques en leur qualité d'agents de la puissance publique et de serviteurs de l'intérêt général. Le concept d'« autorité constituée » recouvrait traditionnellement les cours et tribunaux, préfets, sous-préfets, maires et assemblées électives. Néanmoins, le caractère général du terme employé permet d'inclure sous ce vocable, selon la doctrine, toute autorité, élue ou nommée, nationale ou locale, détentrice d'une parcelle de l'autorité publique. Ainsi, ont notamment été considérés comme « autorité constituée », les présidents des conseils généraux et des conseils régionaux et l'ensemble des autorités administratives indépendantes. Les personnes chargées de la direction des établissements privés sous contrats, tout comme les professeurs de ces établissements, ne peuvent donc être considérés comme une « autorité constituée » et l'article 40 du code de procédure pénale ne leur impose en conséquence aucune obligation à ce titre. Néanmoins, il existe, au sein du code pénal, des obligations de dénoncer qui s'appliquent à l'ensemble des citoyens concernant certaines catégories d'infractions et notamment les crimes ou les mauvais traitements commis au préjudice de mineurs de moins de quinze ans (articles 434-1 à 434-3).
