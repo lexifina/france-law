@@ -1,0 +1,9 @@
+# Réponse à la question n° 19874
+
+- Question : [19874](19874.md) — Question n° 19874 — concertation; perspectives
+
+## Réponse
+
+*JO du 2013-07-02*
+
+Le Gouvernement est sensible à ce que toute personne puisse, dans les conditions et limites définies par la loi, participer à l'élaboration des décisions publiques, notamment lorsque celles-ci ont une incidence sur l'environnement, ce qui est le cas pour les projets de transports collectifs. Il attache une grande importance à ce que les procédures administratives prévues pour les projets d'infrastructures soient ainsi mises en oeuvre dans le respect de la réglementation en vigueur et dans la plus grande transparence auprès des citoyens. En particulier, chacun peut faire part de son appréciation à l'occasion de l'enquête préalable à la déclaration d'utilité publique à l'issue de laquelle le bilan « coûts-avantages » de l'opération est établi. Les divers organismes à statut associatif ont vocation à jouer un rôle important, aux différentes étapes des procédures prévues, dans l'expression des observations des citoyens, de manière à éclairer au mieux la décision publique. Par une décision du 9 novembre 2012, le tribunal administratif de Toulon a annulé la décision de Toulon Provence Méditerranée autorisant la réalisation de travaux concourant à la création d'une ligne de bus à haut niveau de service en site propre, au motif que le projet déclaré d'utilité publique et soumis à concertation sur le fondement de l'article L.300-2 du code de l'urbanisme portait exclusivement sur la réalisation d'une ligne de tramway. Le projet de bus à haut niveau de service, s'il est confirmé, devra donc faire l'objet d'une nouvelle déclaration d'utilité publique. L'enquête publique qui la précédera pourra être l'occasion de recueillir les observations de tous les citoyens quant à ce projet. .
