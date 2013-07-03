@@ -1,0 +1,11 @@
+# projet de loi pour l’égalité entre les femmes et les hommes
+
+- Type : Projet de loi
+- Dénomination : Projet de loi
+- Provenance : Texte Déposé
+- Titre court : Egalité entre les femmes et les hommes
+- Déposé le : 2013-07-03
+- Publié le : 2013-09-17
+- Dossier : DLR5L14N30676
+- Auteurs : M. Jean-Marc Ayrault (auteur)
+- Identifiant : PRJLSNR5S199B0717
