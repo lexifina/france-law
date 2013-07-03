@@ -1,0 +1,53 @@
+# Questions sociales et santé : droits et protection des personnes faisant l'objet de soins psychiatriques
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N30679
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/soins_sans_consentement_psychiatrie
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl12-817.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-07-03 : 1er dépôt d'une initiative. (PIONANR5L14B1223)
+  - 2013-07-05 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-03 : Renvoi en commission au fond
+      - 2013-07-09 : Nomination de rapporteur
+      - 2013-07-09 : Réunion de commission
+      - 2013-07-17 : Réunion de commission
+      - 2013-07-25 : Réunion de commission
+      - 2013-07-17 : Dépôt de rapport (RAPPANR5L14B1284, PIONANR5L14BTC1284)
+  - Discussion en séance publique
+    - 2013-07-25 : Discussion en séance publique
+    - 2013-07-25 : Discussion en séance publique
+    - 2013-07-25 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-07-25 : Dépôt d'une initiative en navette (PIONSNR5S199B0817)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-25 : Renvoi en commission au fond
+      - 2013-09-04 : Nomination de rapporteur
+      - 2013-09-11 : Dépôt de rapport (RAPPSNR5S199B0835)
+  - Discussion en séance publique
+    - 2013-09-13 : Discussion en séance publique
+    - 2013-09-13 : Décision
+- Commission Mixte Paritaire
+  - 2013-09-13 : Dépôt d'un projet de loi (PIONANR5L14B1356)
+  - 2013-09-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2013-09-17 : Nomination de rapporteur
+    - 2013-09-17 : Dépôt du rapport d'une CMP (RAPPANR5L14B1358)
+    - 2013-09-17 : Dépôt du rapport d'une CMP (RAPPSNR5S199B0844)
+  - Discussion en séance publique
+    - 2013-09-19 : Discussion en séance publique
+    - 2013-09-19 : Décision
+  - Discussion en séance publique
+    - 2013-09-19 : Discussion en séance publique
+    - 2013-09-19 : Décision
+  - 2013-09-17 : Décision de la CMP
+- Promulgation de la loi
+  - 2013-09-27 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2017-02-15 : Rapport sur l'application des lois (RINFANR5L14B4486)
