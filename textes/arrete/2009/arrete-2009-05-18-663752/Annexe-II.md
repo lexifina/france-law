@@ -90,14 +90,6 @@ Port
 
 |
 
-Marseille
-
-|
-
-Port
-
-|
-
 Nantes - Saint-Nazaire
 
 |
