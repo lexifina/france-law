@@ -8,35 +8,35 @@ a) Dépenses après ordonnancement et recettes
 
 DÉPARTEMENT DE RÉSIDENCE
 
-du centre de services partagés |
+du centre de services partagés
+
+|
 
 COMPTABLE ASSIGNATAIRE |
 
-PARIS (CSP région IDF et administration centrale)
+PARIS (CSP région IDF et administration centrale) |
 
-|
+Receveur régional des douanes d'Ile-de-France |
 
-Receveur régional des douanes d'Ile-de-France
+RHÔNE (CSP national, sauf IDF) |
 
-|
-
-RHÔNE (CSP national, sauf IDF)
-
-|
-
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône
-
-|
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône |
 
 b) Dépenses sans ordonnancement
 
-SERVICE LIQUIDATEUR |
+SERVICE LIQUIDATEUR
+
+|
 
 DÉPARTEMENT DE RÉSIDENCE
 
-du centre de services partagés |
+du centre de services partagés
 
-COMPTABLE ASSIGNATAIRE |
+|
+
+COMPTABLE ASSIGNATAIRE
+
+|
 
 Direction interrégionale des douanes de Lille
 
@@ -182,19 +182,7 @@ Directeur régional des finances publiques de la Guadeloupe
 
 |
 
-Direction de Paris Est (Boissy Saint-Léger)
-
-|
-
-PARIS (CSP région IDF et administration centrale)
-
-|
-
-Directeur régional des finances publiques d'Ile-de-France et du département de Paris
-
-|
-
-Direction interrégionales des douanes de Roissy
+Direction interrégionale des douanes d'Ile-de-France (Boissy-Saint-Léger)
 
 |
 
@@ -206,7 +194,35 @@ Receveur régional des douanes d'Ile-de-France
 
 |
 
-Direction interrégionale des douanes d'Ile-de-France
+Direction interrégionales des douanes de Roissy |
+
+PARIS (CSP région IDF et administration centrale) |
+
+Directeur départemental des finances publiques de Seine-Saint-Denis |
+
+Direction interrégionale des douanes d'Ile-de-France (hors Boissy-Saint-Léger) |
+
+PARIS (CSP région IDF et administration centrale)
+
+|
+
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
+
+|
+
+Direction régionale des douanes de La Réunion
+
+|
+
+RHÔNE (CSP national, sauf IDF)
+
+|
+
+Directeur régional des finances publiques de La Réunion
+
+|
+
+Direction nationale du renseignement et des enquêtes douanières
 
 |
 
@@ -214,7 +230,7 @@ PARIS (CSP région IDF et administration centrale)
 
 |
 
-Directeur départemental des finances publiques de Seine-Sainte-Denis
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
 
 |
 
@@ -222,7 +238,9 @@ Directeur départemental des finances publiques de Seine-Sainte-Denis
 
 DÉPARTEMENT DE RÉSIDENCE
 
-du centre de services partagés |
+du centre de services partagés
+
+|
 
 COMPTABLE ASSIGNATAIRE |
 
@@ -240,7 +258,9 @@ des départements et collectivités d'outre-mer
 
 DÉPARTEMENT OU COLLECTIVITÉ DE RÉSIDENCE
 
-du centre de services partagés |
+du centre de services partagés
+
+|
 
 COMPTABLE PRINCIPAL DES SERVICES
 
@@ -320,9 +340,13 @@ NOUVELLE-CALÉDONIE
 
 4. Assignation spécifique de services de la direction générale des finances publiques
 
-SERVICE |
+SERVICE
 
-COMPTABLE ASSIGNATAIRE |
+|
+
+COMPTABLE ASSIGNATAIRE
+
+|
 
 Centre de services partagés de la direction des résidents à l'étranger et des services généraux
 
@@ -336,9 +360,13 @@ Directeur des résidents à l'étranger et des services généraux en qualité d
 
 5. Assignation spécifique de services du ministère de la justice
 
-SERVICE |
+SERVICE
 
-COMPTABLE ASSIGNATAIRE |
+|
+
+COMPTABLE ASSIGNATAIRE
+
+|
 
 Centre de services partagés de la Cour de cassation et du Conseil supérieur de la magistrature
 
@@ -350,12 +378,18 @@ Contrôleur budgétaire et comptable ministériel auprès du ministère de la ju
 
 6. Assignation spécifique de l'Agence nationale des fréquences
 
-RECETTES |
+RECETTES
 
-COMPTABLE ASSIGNATAIRE |
+|
+
+COMPTABLE ASSIGNATAIRE
+
+|
 
 Recettes ordonnancées en application de l'article R. 52-3-19 du code des postes et des communications électroniques
 
 |
 
-Contrôleur budgétaire et comptable ministériel auprès des ministères économiques et financiers |
+Contrôleur budgétaire et comptable ministériel auprès des ministères économiques et financiers
+
+|

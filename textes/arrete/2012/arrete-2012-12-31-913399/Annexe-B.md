@@ -22,7 +22,11 @@ BOUCHES-DU-RHÔNE
 
 |
 
-Les premier président et procureur général de la cour d'appel de Dijon
+Le responsable de la plate-forme interrégionale d'Aix-en-Provence
+
+|
+
+Le responsable de la plate-forme interrégionale de Dijon
 
 |
 
@@ -30,11 +34,15 @@ CÔTE-D'OR
 
 |
 
+Les premier président et procureur général de la cour d'appel de Dijon
+
+|
+
 Les premier président et procureur général de la cour d'appel d'Orléans
 
 |
 
-Les premier président et procureur général de la cour d'appel de Toulouse
+Le responsable de la plate-forme interrégionale de Toulouse
 
 |
 
@@ -42,11 +50,15 @@ HAUTE-GARONNE
 
 |
 
+Les premier président et procureur général de la cour d'appel de Toulouse
+
+|
+
 Les premier président et procureur général de la cour d'appel de Montpellier
 
 |
 
-Les premier président et procureur général de la cour d'appel de Bordeaux
+Le responsable de la plate-forme interrégionale de Bordeaux
 
 |
 
@@ -54,11 +66,15 @@ PYRÉNÉES-ATLANTIQUES
 
 |
 
+Les premier président et procureur général de la cour d'appel de Bordeaux
+
+|
+
 Les premier président et procureur général de la cour d'appel de Poitiers
 
 |
 
-Les premier président et procureur général de la cour d'appel de Rennes
+Le responsable de la plate-forme interrégionale de Rennes
 
 |
 
@@ -66,11 +82,15 @@ ILLE-ET-VILAINE
 
 |
 
+Les premier président et procureur général de la cour d'appel de Rennes
+
+|
+
 Les premier président et procureur général de la cour d'appel de Caen
 
 |
 
-Le directeur interrégional des services pénitentiaires situé à Strasbourg
+Le responsable de la plate-forme interrégionale de Nancy
 
 |
 
@@ -90,11 +110,7 @@ Les premier président et procureur général de la cour d'appel de Colmar
 
 |
 
-Le directeur interrégional de la protection judiciaire de la jeunesse situé à Nancy
-
-|
-
-Directeur interrégional des services pénitentiaires situé à Lille
+Le responsable de la plate-forme interrégionale de Lille
 
 |
 
@@ -110,15 +126,15 @@ Les premier président et procureur général de la cour d'appel d'Amiens
 
 |
 
-Le directeur interrégional de la protection judiciaire de la jeunesse situé à Lille
-
-|
-
-Les premier président et procureur général de la cour d'appel de Lyon
+Le responsable de la plate-forme interrégionale de Lyon
 
 |
 
 SAVOIE
+
+|
+
+Les premier président et procureur général de la cour d'appel de Lyon
 
 |
 
@@ -142,7 +158,7 @@ HAUTS-DE-SEINE
 
 |
 
-Le directeur interrégional des services pénitentiaires situé à Paris
+Le directeur interrégional des services pénitentiaires situés à Paris
 
 |
 
@@ -150,7 +166,7 @@ ESSONNE
 
 |
 
-Le directeur interrégional de la protection judiciaire de la jeunesse situé à Paris
+Le directeur interrégional de la protection judiciaire de la jeunesse située à Paris
 
 |
 

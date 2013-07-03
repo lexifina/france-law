@@ -6,11 +6,15 @@ ET DU MINISTÈRE DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE
 
 DÉPARTEMENT OU COLLECTIVITÉ DE RÉSIDENCE
 
-du centre de services partagés |
+du centre de services partagés
+
+|
 
 COMPTABLE PRINCIPAL DES SERVICES
 
-déconcentrés des finances publiques assignataire |
+déconcentrés des finances publiques assignataire
+
+|
 
 ALPES-MARITIMES
 
@@ -217,6 +221,10 @@ VAL-DE-MARNE
 |
 
 VAL-DE-MARNE
+
+|
+
+VAL-DE-MARNE (service interacadémique des examens et concours)
 
 |
 

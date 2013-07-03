@@ -1,6 +1,8 @@
 # Article Annexe A
 
-ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE L'INTÉRIEUR ET DU MINISTÈRE DES OUTRE-MER
+ASSIGNATION DES ORDONNATEURS SECONDAIRES
+
+DU MINISTÈRE DE L'INTÉRIEUR ET DU MINISTÈRE DES OUTRE-MER
 
 DÉPARTEMENT DE RÉSIDENCE
 
@@ -174,9 +176,7 @@ GIRONDE
 
 |
 
-GIRONDE
-
-|
+GIRONDE |
 
 GIRONDE (zone de défense) gendarmerie nationale
 
@@ -506,7 +506,7 @@ PARIS
 
 |
 
-PARIS (zone de défense) gendarmerie nationale
+VAL-DE-MARNE (zone de défense) gendarmerie nationale
 
 |
 
