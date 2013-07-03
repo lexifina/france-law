@@ -1,0 +1,91 @@
+# Sécurité sociale : loi de financement rectificative 2014
+
+- Procédure : Projet de loi de financement de la sécurité sociale
+- Législature : 14
+- Identifiant : DLR5L14N33248
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/plfss_rectificative_2014
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-689.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-06-18 : 1er dépôt d'une initiative. (PRJLANR5L14B2044)
+  - 2014-06-18 : Etude d'impact (ETDIANR5L14B2044)
+  - 2014-06-18 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-18 : Renvoi en commission au fond
+      - 2014-05-28 : Nomination de rapporteur
+      - 2014-05-28 : Réunion de commission
+      - 2014-06-18 : Réunion de commission
+      - 2014-06-24 : Réunion de commission
+      - 2014-06-24 : Réunion de commission
+      - 2014-06-30 : Réunion de commission
+      - 2014-06-25 : Dépôt de rapport (RAPPANR5L14B2061)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-18 : Saisine pour avis d'une commission
+      - 2014-06-11 : Nomination de rapporteur
+      - 2014-06-25 : Dépôt de rapport (AVISANR5L14B2058)
+  - Discussion en séance publique
+    - 2014-06-30 : Discussion en séance publique
+    - 2014-06-30 : Discussion en séance publique
+    - 2014-07-01 : Discussion en séance publique
+    - 2014-07-01 : Discussion en séance publique
+    - 2014-07-02 : Discussion en séance publique
+    - 2014-07-08 : Discussion en séance publique
+    - 2014-07-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-07-08 : Dépôt d'une initiative en navette (PRJLSNR5S219B0689)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-08 : Renvoi en commission au fond
+      - 2013-07-03 : Nomination de rapporteur
+      - 2014-07-09 : Dépôt de rapport (RAPPSNR5S219B0703)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-24 : Saisine pour avis d'une commission
+      - 2014-06-24 : Nomination de rapporteur
+      - 2014-07-09 : Dépôt de rapport (AVISSNR5S219B0701)
+  - Discussion en séance publique
+    - 2014-07-15 : Discussion en séance publique
+    - 2014-07-16 : Discussion en séance publique
+    - 2014-07-16 : Décision
+- Commission Mixte Paritaire
+  - 2014-07-17 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-07-17 : Nomination de rapporteur
+    - 2014-07-17 : Dépôt du rapport d'une CMP (RAPPANR5L14B2159)
+    - 2014-07-17 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0755)
+  - 2014-07-17 : Décision de la CMP
+- Nouvelle Lecture
+  - 2014-07-17 : Dépôt d'une initiative en navette (PRJLANR5L14B2154)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-17 : Renvoi en commission au fond
+      - 2014-07-18 : Réunion de commission
+      - 2014-07-18 : Dépôt de rapport (RAPPANR5L14B2160)
+  - Discussion en séance publique
+    - 2014-07-21 : Discussion en séance publique
+    - 2014-07-21 : Décision
+- Nouvelle Lecture
+  - 2014-07-22 : Dépôt d'une initiative en navette (PRJLSNR5S219B0762)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-22 : Renvoi en commission au fond
+      - 2014-07-22 : Dépôt de rapport (RAPPSNR5S219B0765)
+  - Discussion en séance publique
+    - 2014-07-22 : Discussion en séance publique
+    - 2014-07-22 : Décision
+- Lecture définitive
+  - 2014-07-22 : Dépôt d'une initiative en navette (PRJLANR5L14B2174)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-22 : Renvoi en commission au fond
+      - 2014-07-23 : Dépôt de rapport (RAPPANR5L14B2178)
+  - Discussion en séance publique
+    - 2014-07-23 : Discussion en séance publique
+    - 2014-07-23 : Décision
+- Conseil constitutionnel
+  - 2014-07-24 : Saisine du conseil constitutionnel
+  - 2014-08-06 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-08-08 : Promulgation d'une loi
