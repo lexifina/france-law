@@ -1,0 +1,11 @@
+# proposition de loi complétant la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : Complément à la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+- Déposé le : 2013-07-03
+- Dossier : DLR5L14N30332
+- Auteurs : Assemblée nationale de la 14ème législature
+- Identifiant : PIONANR5L14B1217
+- Législature : 14
