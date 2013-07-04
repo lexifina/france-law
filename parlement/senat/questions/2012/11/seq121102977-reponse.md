@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121102977
+
+- Question : [SEQ121102977](seq121102977.md) — Hébergement des familles déboutées du droit d'asile
+
+## Réponse
+
+*Intérieur, JO du 2013-07-04, page 1999*
+
+L'État a mis en place un dispositif public de prise en charge des demandeurs d'asile, qui prévoit notamment l'hébergement des demandeurs d'asile dans des centres d'accueil pour demandeurs d'asile (CADA). Son bon fonctionnement dépend notamment de la rotation dans les centres, la sortie des personnes dont le traitement de la demande d'asile est achevé, conditionnant l'entrée des nouveaux demandeurs d'asile. Ainsi, l'article R. 342-3 du code de l'action sociale et des familles (CASF) dispose qu'une personne déboutée de l'asile peut être maintenue dans le CADA pour une durée maximale d'un mois à compter de la date de notification de la décision définitive de rejet de la demande. Lorsque leur demande d'asile est rejetée, les demandeurs d'asile déboutés ont vocation à retourner dans leur pays d'origine, sauf s'ils sollicitent un réexamen de leur demande ou une admission au séjour à un autre titre que l'asile. Lorsque la décision négative leur est communiquée par l'Office français de protection des réfugiés et des apatrides (OFPRA) ou la cour nationale du droit d'asile (CNDA), les préfets notifient aux intéressés une obligation de quitter le territoire français sous un délai d'un mois. Les intéressés bénéficient alors d'une information sur le dispositif d'aide au retour volontaire mis en œuvre par l'Office français de l'immigration et de l'intégration (OFII). Ce dispositif comprend une aide matérielle et financière (cette dernière s'élève à 500 € par adulte et 250 € par enfant mineur) au départ et une prise en charge du voyage depuis la France jusqu'à la ville d'arrivée dans le pays d'origine. Par ailleurs, l'OFII propose une aide à la création d'entreprise dans le pays d'origine en complément de l'aide au retour.
