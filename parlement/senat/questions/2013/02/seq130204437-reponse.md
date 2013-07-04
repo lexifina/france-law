@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204437
+
+- Question : [SEQ130204437](seq130204437.md) — Révision des prestations compensatoires versées sous forme de rente
+
+## Réponse
+
+*Justice, JO du 2013-07-04, page 2005*
+
+La loi n° 2000-596 du 30 juin 2000 relative à la prestation compensatoire en matière de divorce et la loi n° 2004-439 du 26 mai 2004 relative au divorce ont profondément assoupli les conditions dans lesquelles les prestations compensatoires versées sous forme de rente peuvent être révisées. Ainsi, la révision, la suspension ou la suppression peuvent être demandées, d'une part, pour toutes rentes, sur le fondement de l'article 276-3 du code civil, en cas de changement important dans la situation de l'une ou l'autre des parties, sans toutefois que la révision puisse avoir pour effet de porter la rente à un montant supérieur à celui fixé initialement et, d'autre part, pour les rentes fixées avant l'année 2000, en application de l'article 33-VI de la loi du 26 mai 2004, lorsque le maintien en l'état de la rente serait de nature à procurer au créancier un avantage manifestement excessif au regard des critères posés à l'article 276 du code civil. La mise en œuvre de cette procédure est simple : la demande est portée devant le juge aux affaires familiales, saisi par voie de requête ou d'assignation, la représentation par avocat n'étant pas obligatoire. Si la loi ne prévoit pas expressément que la durée et le montant des sommes déjà versées peuvent être pris en compte, parmi d'autres éléments relatifs aux patrimoines des ex-époux, pour caractériser un tel avantage, la Cour de cassation l'a d'ores et déjà admis. Il est envisageable, afin de rendre le dispositif plus lisible, de consacrer cette jurisprudence dans la loi, ce qui nécessite toutefois de disposer d'un vecteur législatif approprié.
