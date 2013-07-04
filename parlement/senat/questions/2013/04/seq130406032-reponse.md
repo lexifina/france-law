@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130406032
+
+- Question : [SEQ130406032](seq130406032.md) — Compétence de la contribution annuelle au service départemental d'incendie et de secours
+
+## Réponse
+
+*Intérieur, JO du 2013-07-04, page 2002*
+
+La gestion des services départementaux d'incendie et de secours relève du seul service départemental d'incendie et de secours (SDIS), depuis la loi n° 96-369 du 3 mai 1996 codifiée aux articles L. 1424-1 et suivants du code général des collectivités territoriales (CGCT), à l'exception des centres d'incendie et de secours dont les communes et les établissements publics de coopération intercommunale (EPCI) ont souhaité conserver la gestion (alinéa 3 de l'article L. 1424-1). Ainsi, les EPCI compétents en matière d'incendie et de secours sont ceux qui exerçaient cette compétence à la date de promulgation de la loi du 3 mai 1996. Il peut également s'agir d'EPCI à fiscalité propre créés postérieurement à la promulgation de la loi du 3 mai 1996, mais qui résultent, en application de l'alinéa 2 de l'article L. 5111-3 du CGCT, de la transformation d'un autre EPCI à fiscalité propre qui détenait, à la date de promulgation de la loi du 3 mai 1996, la compétence en matière d'incendie et de secours. Or, l'alinéa 3 de l'article L. 1424-35 du CGCT dispose que seuls « les établissements publics de coopération intercommunale compétents pour la gestion des services d'incendie et de secours » contribuent en lieu et place des communes membres au financement du SDIS. Au regard de ces éléments, les communes ne peuvent pas transférer à un EPCI une compétence en matière d'incendie et de secours depuis l'entrée en vigueur de la loi du 3 mai 1996. En tout état de cause, la participation des communes au budget du SDIS, prévue à l'article L. 1424-35 du CGCT, ne constitue pas une compétence mais une dépense obligatoire. A ce titre, elle ne peut pas faire l'objet d'un transfert à un EPCI (CAA Bordeaux, 25 octobre 2011, req n° 11BX00533).
