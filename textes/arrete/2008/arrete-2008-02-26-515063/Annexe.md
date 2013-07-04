@@ -2,6 +2,8 @@
 
 I. ― Pour le transport de marchandises :
 
+- baccalauréat professionnel (bac pro) spécialité "conducteur transport routier de marchandises" (CTRM) ;
+
 - certificat d'aptitude professionnelle (CAP) conducteur routier marchandises ;
 
 - brevet d'études professionnelles (BEP) conduite et services dans le transport routier ;
