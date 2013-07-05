@@ -10,19 +10,15 @@ PERSONNES HABILITÉES
 
 |
 
-MONTANT MAXIMUM
-
-des marchés
+MONTANT MAXIMUM DES MARCHÉS (1)
 
 |
 
-Directions et services
-
-relevant du chef d'état-major des armées
+Directions et services relevant du chef d'état-major des armées
 
 |
 
-Direction centrale du service de santé des armées.
+Direction centrale du service de santé des armées
 
 |
 
@@ -34,11 +30,11 @@ Sans limitation
 
 |
 
-Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense.
+Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense
 
 |
 
-Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information d'Ile-de-France, Metz, Lyon, Bordeaux, Rennes, Toulon et Brest
+Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information d'information Ile-de-France, Metz, Lyon (13), Bordeaux, Rennes, Toulon et Brest
 
 |
 
@@ -46,7 +42,7 @@ Sans limitation
 
 |
 
-Commandant du Centre national de soutien opérationnel
+Commandant du centre national de soutien opérationnel
 
 |
 
@@ -58,15 +54,7 @@ Directeur de la direction interarmées des réseaux d'infrastructure et des syst
 
 |
 
-MAPA x 1
-
-|
-
-Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-soutien Bicêtre
-
-|
-
-MAPA x 0,66
+MAPA × 1
 
 |
 
@@ -74,11 +62,11 @@ Commandant du 8e régiment de transmissions de Suresnes
 
 |
 
-MAPA x 0,66
+MAPA × 0,66
 
 |
 
-Direction centrale du service du commissariat des armées.
+Direction centrale du service du commissariat des armées
 
 |
 
@@ -86,23 +74,7 @@ Directeur du centre interarmées d'administration des opérations
 
 |
 
-MAPA x 1
-
-|
-
-Directeur du commissariat administratif
-
-|
-
-MAPA x 1
-
-|
-
-Directeurs des commissariats de l'armée de terre
-
-|
-
-MAPA x 1
+MAPA × 1
 
 |
 
@@ -110,7 +82,7 @@ Directeurs du commissariat d'outre-mer
 
 |
 
-MAPA x 60
+MAPA × 60
 
 |
 
@@ -118,7 +90,7 @@ Directeurs du commissariat en opération extérieure
 
 |
 
-MAPA x 60
+MAPA × 60
 
 |
 
@@ -158,11 +130,11 @@ Directeurs des établissements logistiques
 
 |
 
-15 000 € HT
+15 000 euros HT
 
 |
 
-Direction centrale du service des essences des armées.
+Direction centrale du service des essences des armées
 
 |
 
@@ -200,15 +172,15 @@ MAPA × 20
 
 |
 
-Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine (3)
+Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine
 
 |
 
-MAPA x 7
+MAPA × 7
 
 |
 
-Divers.
+Divers
 
 |
 
@@ -216,7 +188,7 @@ Commandants des formations administratives et chefs des organismes administrés 
 
 |
 
-MAPA x 1
+MAPA × 1
 
 |
 
@@ -224,7 +196,7 @@ Chefs des éléments de soutien national (NSE)
 
 |
 
-MAPA x 0,66
+MAPA × 0,66
 
 |
 
@@ -232,7 +204,7 @@ Armée de terre
 
 |
 
-Etat-major de l'armée de terre.
+Etat-major de l'armée de terre
 
 |
 
@@ -240,7 +212,7 @@ Directeur de la section technique de l'armée de terre
 
 |
 
-MAPA x 4
+MAPA × 4
 
 |
 
@@ -256,7 +228,7 @@ Commandant de la base de soutien du matériel de Neuvy-Pailloux (service de la m
 
 |
 
-MAPA x 3
+MAPA × 3
 
 |
 
@@ -264,11 +236,11 @@ Chef du détachement de Moulins de la base de soutien du matériel de Clermont-F
 
 |
 
-MAPA x 3
+MAPA × 3
 
 |
 
-Direction centrale du matériel de l'armée de terre.
+Structure intégrée du maintien en condition opérationnelle des matériels terrestres
 
 |
 
@@ -276,19 +248,11 @@ Chef du centre d'études et de développements informatiques du matériel de l'a
 
 |
 
-MAPA x 1
+MAPA × 1
 
 |
 
-Divers.
-
-|
-
-Chef de la section géographique militaire
-
-|
-
-MAPA x 1
+Divers
 
 |
 
@@ -304,7 +268,7 @@ Marine
 
 |
 
-Direction centrale du service de soutien de la flotte.
+Direction centrale du service de soutien de la flotte
 
 |
 
@@ -312,7 +276,7 @@ Directeur local du service du soutien de la flotte de Brest, directeur adjoint
 
 |
 
-MAPA x 70
+MAPA × 70
 
 |
 
@@ -320,7 +284,7 @@ Directeur local du service du soutien de la flotte de Toulon, directeur adjoint
 
 |
 
-MAPA x 70
+MAPA × 70
 
 |
 
@@ -328,7 +292,7 @@ Directeur d'antenne de soutien des Antilles
 
 |
 
-MAPA x 10
+MAPA × 10
 
 |
 
@@ -336,7 +300,7 @@ Directeur d'antenne de soutien de Nouvelle-Calédonie
 
 |
 
-MAPA x 10
+MAPA × 10
 
 |
 
@@ -344,7 +308,7 @@ Directeur d'antenne de soutien de Polynésie française
 
 |
 
-MAPA x 10
+MAPA × 10
 
 |
 
@@ -352,19 +316,19 @@ Directeur d'antenne de soutien de La Réunion
 
 |
 
-MAPA x 10
+MAPA × 10
 
 |
 
-Divers.
+Divers
 
 |
 
-Commandants des formations autonomes de la marine et chefs des organismes administrés comme tels (9)
+Commandants des formations administratives de la marine et chefs des organismes administrés comme tels (9)
 
 |
 
-MAPA x 0,66
+MAPA × 0,66
 
 |
 
@@ -372,7 +336,7 @@ Armée de l'air
 
 |
 
-Structure intégrée du maintien en condition opérationnelle des matériels aéronautique du ministère de la défense.
+Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense
 
 |
 
@@ -388,7 +352,15 @@ Adjoints au chef du service des contrats et des finances
 
 |
 
-MAPA x 100
+MAPA × 100
+
+|
+
+Chef de la division des contrats du service des contrats et des finances et ses adjoints
+
+|
+
+MAPA × 1
 
 |
 
@@ -396,7 +368,7 @@ Président de la commission des contrats et ses adjoints
 
 |
 
-MAPA x 1
+MAPA × 100
 
 |
 
@@ -408,7 +380,7 @@ Sans limitation
 
 |
 
-Service industriel de l'aéronautique (A).
+Service industriel de l'aéronautique (A)
 
 |
 
@@ -416,7 +388,7 @@ Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en-Bugey
 
 |
 
-MAPA x 50
+MAPA × 50
 
 |
 
@@ -424,7 +396,7 @@ Directeur de l'atelier industriel de l'aéronautique de Bordeaux
 
 |
 
-MAPA x 50
+MAPA × 50
 
 |
 
@@ -440,7 +412,7 @@ Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu
 
 |
 
-MAPA x 50
+MAPA × 50
 
 |
 
@@ -448,11 +420,11 @@ Directeur de l'atelier industriel de l'aéronautique de Bretagne
 
 |
 
-MAPA x 50
+MAPA × 50
 
 |
 
-Divers.
+Divers
 
 |
 
@@ -466,7 +438,7 @@ Direction générale de l'armement
 
 |
 
-Direction des opérations.
+Direction des opérations
 
 |
 
@@ -486,7 +458,7 @@ Sans limitation
 
 |
 
-Direction de la stratégie.
+Direction de la stratégie
 
 |
 
@@ -506,7 +478,7 @@ Sans limitation
 
 |
 
-Direction technique.
+Direction technique
 
 |
 
@@ -522,15 +494,15 @@ Adjoints du chef du service centralisé des achats techniques
 
 |
 
-MAPA x 50
+MAPA × 50
 
 |
 
-Directeur de DGA Ingénierie de projets
+Directeur de DGA ingénierie des projets
 
 |
 
-MAPA x 50
+MAPA × 50
 
 |
 
@@ -538,7 +510,7 @@ Directeurs des centres d'expertise et d'essais
 
 |
 
-MAPA x 50
+MAPA × 50
 
 |
 
@@ -546,7 +518,7 @@ Secrétariat général pour l'administration
 
 |
 
-Direction du service national.
+Direction du service national
 
 |
 
@@ -554,11 +526,11 @@ Directeurs d'établissements et adjoints de ces directeurs
 
 |
 
-MAPA x 10
+MAPA × 10
 
 |
 
-Service d'infrastructure de la défense.
+Service d'infrastructure de la défense
 
 |
 
@@ -566,7 +538,9 @@ Directeur du centre d'expertise des techniques de l'infrastructure de la défens
 
 |
 
-MAPA x 70 (6) MAPA x 15 (7)
+MAPA × 70 (6)
+
+MAPA × 15 (7)
 
 |
 
@@ -590,15 +564,7 @@ Divers
 
 |
 
-Ministère chargé de l'équipement.
-
-|
-
-Directeurs départementaux de l'équipement (8)
-
-|
-
-Sans limitation (5) (6) (7)
+Ministère chargé de l'équipement
 
 |
 
@@ -626,27 +592,11 @@ Sans limitation (5) (6) (7)
 
 |
 
-Directeur des services de la navigation aérienne
+Mission militaire au sein de la mission diplomatique française à Washington
 
 |
 
-Sans limitation (5) (6) (7)
-
-|
-
-Directeur du centre d'études techniques maritimes et fluviales
-
-|
-
-Sans limitation (5) (6) (7)
-
-|
-
-Mission militaire au sein de la mission diplomatique française à Washington.
-
-|
-
-Attaché de défense adjoint en charge des questions "armement"
+Attaché de défense adjoint en charge des questions armement
 
 |
 
@@ -654,15 +604,11 @@ Sans limitation
 
 |
 
-(1) L'expression MAPA x s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics.
-
-(2) Délégation accordée sans limite de seuil, à l'exclusion des marchés et accords-cadres d'informatique (fournitures ou prestations de services) faisant l'objet d'une programmation centralisée.
-
-(3) Délégation limitée aux marchés subséquents d'approvisionnement des bâtiments de la marine nationale en escale à l'étranger.
+(1) L'expression MAPA x s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l' article 26-II du code des marchés publics.
 
 (5) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG.
 
-(6) Délégation limitée aux marchés et accords-cadres se référant aux cahiers (prestations intellectuelles, marchés industriels, fournitures courantes), y compris les marchés de ces types de prestations ne se référant pas à l'un de ces CCAG.
+(6) Délégation limitée aux marchés et accords-cadres de nature industrielle, de prestations intellectuelles et de fournitures courantes.
 
 (7) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
@@ -672,10 +618,12 @@ Sans limitation
 
 A l'exception des commandants des formations administratives et organismes administrés comme tels dont la liste est prévue à l'article 4 de l'arrêté du 29 novembre 2010 portant création et organisation des bases de défense et fixant les attributions des commandants des bases de défense, les commandants des formations soutenues par un groupement de soutien de base de défense ne peuvent passer et signer les marchés publics et accords-cadres mentionnés ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense.
 
-(10) Délégation applicable aux marchés et accords-cadres imputés sur le compte de commerce "approvisionnement des armées en produits pétroliers".
+(10) Délégation applicable aux marchés et accords-cadres imputés sur le compte de commerce approvisionnement des armées en produits pétroliers .
 
 (11) Délégation applicable aux marchés et accords-cadres imputés sur le budget défense.
 
 (12) Délégation limitée aux marchés pétroliers à l'étranger dans la zone de compétence de l'adjoint interarmées de soutien pétrolier.
+
+(13) Pour le directeur de la direction de Lyon, la délégation est applicable jusqu'au 31 décembre 2013.
 
 |
