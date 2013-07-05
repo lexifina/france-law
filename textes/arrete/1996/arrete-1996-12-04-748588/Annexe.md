@@ -1,132 +1,26 @@
 # Article Annexe
 
-Définition de l'emploi
+ATTRIBUTION DE LA NOUVELLE BONIFICATION INDICIAIRE
+
+À L'ECOLE NATIONALE DE LA MAGISTRATURE
+
+EMPLOI
 
 |
 
-Niveau de l'emploi
+NOMBRES
+
+de postes éligibles
 
 |
 
-Nombre de postes éligibles
-
-|
-
-Montant
+MONTANTS
 
 (en points majorés)
 
 |
 
-Date d'effet
-
-|
-
-Chargé des fonctions de secrétaire général adjoint
-
-|
-
-A
-
-|
-
-2
-
-|
-
-20
-
-|
-
-1er août 1994
-
-|
-
-Chef du service Concours
-
-|
-
-B
-
-|
-
-1
-
-|
-
-19
-
-|
-
-1er août 1990
-
-|
-
-Chef du service Intendance
-
-|
-
-B
-
-|
-
-1
-
-|
-
-19
-
-|
-
-1er août 1993
-
-|
-
-Responsable de l'installation et de la maintenance des systèmes informatiques
-
-|
-
-B
-
-|
-
-2
-
-|
-
-17
-
-|
-
-1er août 1992
-
-|
-
-Adjoint au chef du service Concours
-
-|
-
-B
-
-|
-
-1
-
-|
-
-17
-
-|
-
-1er août 1991
-
-|
-
-Agent chargé du service de la reprographie
-
-|
-
-C
+Technicien système et réseaux
 
 |
 
@@ -138,15 +32,7 @@ C
 
 |
 
-1er août 1995
-
-|
-
-Chef du service financier
-
-|
-
-B
+1er adjoint au chef du service des recrutements et de la validation des compétences
 
 |
 
@@ -154,10 +40,90 @@ B
 
 |
 
-19
+18
 
 |
 
-1er août 1996
+Agent en charge de l'animation des activités de reprographie
+
+|
+
+2
+
+|
+
+16
+
+|
+
+Responsable de la cellule conventions au sein du service financier
+
+|
+
+1
+
+|
+
+18
+
+|
+
+Agent chargé du secrétariat du directeur
+
+|
+
+1
+
+|
+
+16
+
+|
+
+Agent en charge du pôle social au sein du service des ressources humaines
+
+|
+
+1
+
+|
+
+16
+
+|
+
+Agent en charge de la gestion des procédures de marchés publics au sein du service financier
+
+|
+
+1
+
+|
+
+16
+
+|
+
+Agent en charge de l'encadrement des opérations de paye au sein du service des ressources humaines
+
+|
+
+1
+
+|
+
+16
+
+|
+
+Chauffeur principal du directeur
+
+|
+
+1
+
+|
+
+16
 
 |
