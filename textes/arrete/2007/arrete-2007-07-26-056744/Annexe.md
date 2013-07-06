@@ -2,7 +2,7 @@
 
 LISTE DES RACES RECONNUES DES ESPÈCES BOVINE, OVINE, CAPRINE ET PORCINE, DES RACES LOCALES ET DES RACES À PETITS EFFECTIFS DE CES MÊMES ESPÈCES
 
-I.-Espèce bovine
+I. - Espèce bovine
 
 RACES RECONNUES
 
@@ -142,11 +142,11 @@ Brahman
 
 |
 
-Bretonne Pie noire
+Bretonne Pie Noire
 
 |
 
-Bretonne Pie noire
+Bretonne Pie Noire
 
 |
 
@@ -274,13 +274,13 @@ Hérens
 
 |
 
-INRA 95
+Inra 95
 
 |
 
 |
 
-INRA 95
+Inra 95
 
 |
 
@@ -374,17 +374,17 @@ Parthenaise
 
 |
 
-Pie rouge des Plaines
+Pie Rouge des Plaines
 
 |
 
-Pie rouge des Plaines
+Pie Rouge des Plaines
 
 |
 
 |
 
-Prim'Holstein
+Prim' Holstein
 
 |
 
@@ -446,7 +446,7 @@ Saosnoise
 
 |
 
-Simmental Française
+Simmental française
 
 |
 
@@ -768,7 +768,7 @@ Ile-de-France (OIF)
 
 |
 
-INRA 401 (Romane)
+Inra 401 (Romane)
 
 |
 
@@ -776,21 +776,21 @@ INRA 401 (Romane)
 
 |
 
-Lacaune Lait
+Lacaune lait
 
 |
 
-Lacaune Lait
+Lacaune lait
 
 |
 
 |
 
-Lacaune Viande
+Lacaune viande
 
 |
 
-Lacaune Viande
+Lacaune viande
 
 |
 
@@ -842,7 +842,7 @@ Lourdaise
 
 |
 
-Manech noire (Manech Tête noire)
+Manech Noire (Manech Tête noire)
 
 |
 
@@ -852,7 +852,7 @@ Manech Tête noire
 
 |
 
-Manech rousse (Manech Tête rousse)
+Manech Rousse (Manech Tête rousse)
 
 |
 
@@ -896,7 +896,7 @@ Mérinos de Rambouillet
 
 |
 
-Mérinos précoce
+Mérinos Précoce
 
 |
 
@@ -928,7 +928,7 @@ Mourérous
 
 |
 
-Mouton charollais
+Mouton Charollais
 
 |
 
@@ -936,11 +936,11 @@ Mouton charollais
 
 |
 
-Mouton vendéen
+Mouton Vendéen
 
 |
 
-Mouton vendéen
+Mouton Vendéen
 
 |
 
@@ -976,7 +976,7 @@ Préalpes du Sud
 
 |
 
-Raïole (Rayole)
+Raïole (Ravole)
 
 |
 
@@ -1050,7 +1050,7 @@ Solognote
 
 |
 
-Southdown (Français)
+Southdown (français)
 
 |
 
@@ -1132,14 +1132,6 @@ Angora
 
 |
 
-Boer
-
-|
-
-|
-
-|
-
 Corse
 
 |
@@ -1150,7 +1142,7 @@ Corse
 
 |
 
-Créole (Cabri créole)
+Créole (Cabri Créole)
 
 |
 
@@ -1172,7 +1164,15 @@ Des Fossés
 
 |
 
-Du Massif central
+De Lorraine
+
+|
+
+De Lorraine
+
+|
+
+De Lorraine
 
 |
 
@@ -1184,15 +1184,7 @@ Du Massif central
 
 |
 
-Péï
-
-|
-
-Péï
-
-|
-
-Péï
+Du Massif central
 
 |
 
@@ -1208,7 +1200,7 @@ Poitevine
 
 |
 
-Provençale (Payse, Commune provençale)
+Provençale (Payse, commune provençale)
 
 |
 
@@ -1266,7 +1258,7 @@ RACES À PETITS EFFECTIFS
 
 |
 
-Créole de Guadeloupe (Cochon Planche)
+Créole de Guadeloupe (cochon Planche)
 
 |
 
@@ -1278,15 +1270,15 @@ Créole de Guadeloupe
 
 |
 
-Cul noir Limousin (Porc de Saint-Yrieix, Périgourdin, Cul noir, Limousin)
+Cul Noir Limousin (porc de Saint-Yrieix, Périgourdin, Cul Noir, Limousin)
 
 |
 
-Cul noir Limousin
+Cul Noir Limousin
 
 |
 
-Cul noir Limousin
+Cul Noir Limousin
 
 |
 
@@ -1346,15 +1338,15 @@ Nustrale
 
 |
 
-Pie noir du Pays basque (Basque, Bigourdan, Béarnais, Basco-Béarnais, Navarrin)
+Pie Noir du Pays Basque (Basque, Bigourdan, Béarnais, Basco-Béarnais, Navarrin)
 
 |
 
-Pie noir du Pays basque
+Pie Noir du Pays Basque
 
 |
 
-Pie noir du Pays basque
+Pie Noir du Pays Basque
 
 |
 
@@ -1366,15 +1358,15 @@ Piétrain
 
 |
 
-Porc blanc de l'Ouest
+Porc Blanc de l'Ouest
 
 |
 
-Porc blanc de l'Ouest
+Porc Blanc de l'Ouest
 
 |
 
-Porc blanc de l'Ouest
+Porc Blanc de l'Ouest
 
 |
 
