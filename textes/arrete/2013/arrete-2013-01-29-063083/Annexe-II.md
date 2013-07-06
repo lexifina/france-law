@@ -4,35 +4,37 @@
 
 |
 
-Quota en Océan Atlantique
+QUOTA EN OCÉAN ATLANTIQUE
 
-à l'Est de la longitude 45° ouest
-
-|
-
-Quota en Mer
-
-Méditerranée
+à l'est de la longigue 45° Ouest
 
 |
 
-Pour la pêche au chalut
+QUOTA
+
+en mer Méditerranée
 
 |
 
-Pour la pêche à la
+Pour la pêche
 
-ligne et à la canne
-
-|
-
-Pour la pêche à la palangre
+au chalut
 
 |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du
+Pour la pêche
 
-poisson du Nord-Normandie (FROM Nord)
+à la ligne et à la canne
+
+|
+
+Pour la pêche
+
+à la palangre
+
+|
+
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord)
 
 |
 
@@ -72,7 +74,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse Normandie (OPBN)
+Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
 
 |
 
@@ -116,11 +118,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-69
-
-|
-
-2
+61
 
 |
 
@@ -132,9 +130,11 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs
+0
 
-artisans de l'île de Noirmoutier (OPPAN)
+|
+
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
 
 |
 
@@ -158,7 +158,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-24
+37
 
 |
 
@@ -166,7 +166,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-13
+15
 
 |
 
@@ -174,17 +174,11 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du
-
-poisson du Sud-Ouest (FROM Sud-Ouest)
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest)
 
 |
 
-13
-
-|
-
-0
+8
 
 |
 
@@ -196,7 +190,11 @@ poisson du Sud-Ouest (FROM Sud-Ouest)
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière
+0
+
+|
+
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
 
 |
 
@@ -236,7 +234,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs d'Aquitaine
 
 |
 
-Navires non adhérant à une organisation de producteurs
+Navires n'adhérant pas à une organisation de producteurs
 
 |
 
@@ -256,7 +254,7 @@ Navires non adhérant à une organisation de producteurs
 
 |
 
-TOTAL
+Total
 
 |
 
