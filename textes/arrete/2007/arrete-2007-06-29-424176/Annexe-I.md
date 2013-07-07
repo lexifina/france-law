@@ -1,16 +1,22 @@
 # Article Annexe I
 
-LISTE DES DISCIPLINES ET SPÉCIALITÉS POUVANT ÊTRE OFFERTES AU CONCOURS ET DES DIPLÔMES, CERTIFICATS OU TITRES REQUIS POUR S'INSCRIRE DANS LESDITES SPÉCIALITÉS
+LISTE DES DISCIPLINES ET SPÉCIALITÉS POUVANT ÊTRE OFFERTES AU CONCOURS ET DES DIPLÔMES,
+
+CERTIFICATS OU TITRES REQUIS POUR S'INSCRIRE DANS LESDITES SPÉCIALITÉS
 
 CODE
 
 |
 
-LIBELLÉ spécialité
+LIBELLÉ
+
+spécialité
 
 |
 
-DIPLÔME(S), CERTIFICAT(S) OU TITRE(S) permettant de se présenter dans la spécialité
+DIPLÔME(S), CERTIFICAT(S) OU TITRE(S)
+
+permettant de se présenter dans la spécialité
 
 |
 
@@ -320,11 +326,15 @@ CODE
 
 |
 
-LIBELLÉ spécialité
+LIBELLÉ
+
+spécialité
 
 |
 
-DIPLÔME(S), CERTIFICAT(S) OU TITRE(S) permettant de se présenter dans la spécialité
+DIPLÔME(S), CERTIFICAT(S) OU TITRE(S)
+
+permettant de se présenter dans la spécialité
 
 |
 
@@ -536,11 +546,11 @@ DES d'oncologie, option radiothérapique.
 
 |
 
-Réanimation médicale.
+Réanimation.
 
 |
 
-DESC de réanimation médicale.
+DESC de réanimation
 
 |
 
