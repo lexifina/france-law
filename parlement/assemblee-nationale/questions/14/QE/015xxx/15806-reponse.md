@@ -1,0 +1,9 @@
+# Réponse à la question n° 15806
+
+- Question : [15806](15806.md) — Question n° 15806 — maladies parasites; platanes; canal du Midi
+
+## Réponse
+
+*JO du 2013-07-09*
+
+Le projet de replantation du patrimoine arboré du canal du Midi a été validé par la commission supérieure des sites et paysages le 30 septembre 2012. Son coût, estimé à 200 millions d'euros, hors maîtrise d'oeuvre, est couvert par tiers entre l'État (Voies navigables de France - VNF), les collectivités territoriales et des financements innovants, parmi lesquels le mécénat environnemental. Les conventions de financement avec les collectivités sont en cours de discussion. Concernant le troisième tiers de financement faisant appel au mécénat environnemental, il est prévu que l'offre globale de mécénat soit constituée de contributions diversifiées correspondant à différents volumes de financements de manière à solliciter des mécènes de type et de taille différents (petites et grandes entreprises, fondations françaises et étrangères, grand public), d'apporter aux mécènes potentiels la lisibilité de l'affectation de leurs dons et de prouver de leur bonne utilisation sur la durée, le projet devant s'échelonner sur 20 ans. Le domaine public fluvial étant inaliénable et la propriété de l'État, ce projet n'a en aucun cas pour but de segmenter le canal ou des tronçons du canal au bénéfice des mécènes, mais simplement d'apporter de la lisibilité quant à l'affectation des dons et la réalisation des opérations de replantation. Seules des contreparties d'image pourront être proposées aux mécènes potentiels, qui seront soumises à l'approbation de la commission des sites, le canal du midi étant classé au patrimoine mondial de l'Unesco. A ce stade, aucun État et aucune entreprise étrangère n'ont manifesté leur intérêt pour ce projet. Seules des demandes d'informations sur le mécénat du canal du midi sont parvenues à VNF, laquelle n'a contracté aucun accord avec un mécène potentiel.
