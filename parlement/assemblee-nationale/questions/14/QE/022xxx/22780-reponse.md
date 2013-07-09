@@ -1,0 +1,9 @@
+# Réponse à la question n° 22780
+
+- Question : [22780](22780.md) — Question n° 22780 — perspectives
+
+## Réponse
+
+*JO du 2013-07-09*
+
+Le Gouvernement s'est engagé dans une politique de stabilisation de l'emploi public sur la période du quinquennat, ce qui a été formalisé par l'article 7 de la loi de programmation pour les finances publiques de 2013 à 2017 du 31 décembre 2012, qui prévoit : « le plafond global des autorisations d'emplois de l'État et de ses opérateurs, mentionnés aux articles 69 et 70 de la loi n° 2011-1977 du 28 décembre 2011 précitée, est stabilisé sur la période de la programmation ». Cette politique permet de concilier la maîtrise des finances publiques avec la volonté de consacrer des moyens renforcés à des secteurs prioritaires : l'enseignement, la sécurité et la justice. Ainsi, la loi de finances pour 2013 a prévu la création de 10 011 postes dans le secteur de l'enseignement : - 8 781 au sein du ministère de l'éducation nationale ; - 1 000 dans les universités ; - 230 pour l'enseignement agricole. Elle a également prévu la création de 1 000 postes pour les secteurs de la sécurité (480) et de la justice (520). Les effectifs des ministères qui ne concourent pas aux missions prioritaires sont réduits de 12 298 postes. Cet effort compense les créations de postes des secteurs prioritaires en 2013, ainsi qu'une partie des créations de postes de la rentrée 2012, de manière à respecter le principe de stabilité des effectifs sur la durée du quinquennat. Cette politique constitue une rupture assumée avec la stratégie de réduction des effectifs menée pendant le quinquennat précédent, qui n'a pas atteint ses objectifs en termes d'amélioration du fonctionnement des services publics. Le Gouvernement privilégie d'autres leviers pour maîtriser la masse salariale de l'État comme la réduction des enveloppes catégorielles.
