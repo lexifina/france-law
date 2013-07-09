@@ -1,0 +1,9 @@
+# Réponse à la question n° 13117
+
+- Question : [13117](13117.md) — Question n° 13117 — homosexuels; extension; modalités
+
+## Réponse
+
+*JO du 2013-07-09*
+
+Le projet de loi ouvrant le mariage aux couples de personnes de même sexe, qui a été adopté par le Parlement à une large majorité, constitue un engagement du président de la République qui se rattache aux valeurs fondamentales de la société française : l'égalité des droits pour tous, la liberté de vivre ensemble et l'ouverture à l'autre. Le texte soumis par le gouvernement au Parlement étend le mariage aux couples de personnes de même sexe sans en changer le régime juridique. Les droits et devoirs que confère le mariage tels que la possibilité d'adopter conjointement un enfant ou les engagements de secours, de fidélité et de résidence commune, demeureront inchangés. Les préoccupations des maires sont connues du gouvernement puisque l'Association des maires de France a été reçue à la Chancellerie. Si certains maires peuvent avoir des réticences vis-à-vis de cette réforme, le gouvernement connaît leur esprit républicain et leur attachement à la bonne application de la loi. Le président de la République a réaffirmé que le mariage doit être célébré dans toutes les communes de la République. L'Etat est garant du respect de l'égalité des droits sur tout le territoire. Il importe à cet égard de rappeler qu'aux termes de l'article L.2122-32 du code général des collectivités territoriales, le maire et les adjoints sont officiers de l'état civil. En cette qualité d'agent de l'Etat, il appartient au maire de respecter et d'appliquer la loi, règle à laquelle la liberté de conscience, principe fondamental reconnu par les lois de la République, ne saurait en l'espèce faire échec, au regard en particulier de la liberté du mariage constitutionnellement protégée et du principe d'égalité de tous devant la loi.
