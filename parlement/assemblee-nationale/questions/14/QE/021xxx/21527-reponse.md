@@ -1,0 +1,9 @@
+# Réponse à la question n° 21527
+
+- Question : [21527](21527.md) — Question n° 21527 — AFTIF; perspectives
+
+## Réponse
+
+*JO du 2013-07-09*
+
+Dès sa création en 2005, l'Agence de financement des infrastructures de transport de France (AFITF) a été conçue comme l'opérateur financier chargé d'apporter les concours de niveau national au financement des projets d'infrastructures de transport, qu'il s'agisse des modes routiers, ferroviaires, fluviaux, portuaires et maritime, ou des transports collectifs, dans une approche résolument multimodale et dans une perspective de développement durable du territoire. Les engagements de l'AFITF en faveur des infrastructures portuaires et maritimes contribuent au développement des modes alternatifs à la route et aux transports aériens et participent à la vocation d'outil de report modal de l'Agence. Ainsi, entre 2005 et la fin de l'année 2012, l'AFITF a engagé un montant global de financement en faveur des infrastructures portuaires ou maritimes de 522,3 M€, dont 340,8 M€ ont d'ores et déjà été mandatés. L'essentiel des financements apportés à ce mode l'est au titre des contrats de plan État-Régions (CPER) et des contrats de projets 2007-2013. Il s'agit d'investissements réalisés dans les grands ports maritimes et dans les ports d'outre-mer : aménagement des accès, de bassins, installation de terminaux à conteneur, etc, (avec notamment les extensions de Port 2000 au Havre ou de Fos XXL à Marseille). Les autres financements de l'AFITF dans le domaine portuaire et maritime ont porté principalement sur le projet d'autoroutes de la mer et divers travaux d'aménagement hors les contrats de plan État-Régions (CPER), dont des travaux de défense du littoral. Au titre de l'année 2013 est prévue la poursuite de l'exécution des contrats de projet et du plan de relance portuaire, ainsi que, le cas échéant, l'accompagnement du lancement de nouvelles autoroutes de la mer.
