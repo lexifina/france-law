@@ -1,0 +1,9 @@
+# Réponse à la question n° 13536
+
+- Question : [13536](13536.md) — Question n° 13536 — sécurité; Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2013-07-09*
+
+La question de la sécurité des navires et de leurs équipages est à mettre en regard notamment des missions des directions interrégionales de la mer (DIRM) et directions départementales des territoires et de la mer (DDTM). Il est important, en effet, de rappeler les compétences des DIRM en matière notamment d'emploi maritime, de formation professionnelle et de prévention des risques professionnels. C'est dans ce contexte, par exemple, que la DIRM Nord Atlantique-Manche Ouest a mis en place un travail d'animation des services de l'État et des partenaires intéressés sur la question de la prévention des risques professionnels pour les gens de mer. Il s'agit ainsi de faire un état des lieux de la situation à partir de problématiques très concrètes liées au bassin d'activités et de préparer des plans d'actions opérationnels en lien notamment avec les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE). Cette expérience réussie sera reproduite par les autres DIRM. Un travail national est également mené au niveau du conseil supérieur des gens de mer. Pour ce qui concerne les décisions d'effectifs de navires, celles-ci relèvent des DDTM qui ont compétence pour viser les décisions d'effectifs soumises par l'armateur. Dans un certain nombre de cas, celles-ci peuvent être soumises par les DDTM à l'avis du centre de sécurité des navires qui peut pratiquer un certain nombre d'essais ou d'exercices techniques en mer. Enfin une réflexion est en cours concernant la gestion du rôle d'équipage afin de permettre une modernisation du processus d'enregistrement des services des marins par les DDTM, une plus grande responsabilisation des professionnels et un meilleur contrôle et suivi des équipages.
