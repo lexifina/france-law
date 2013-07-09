@@ -1,0 +1,9 @@
+# Réponse à la question n° 22750
+
+- Question : [22750](22750.md) — Question n° 22750 — saisies; débiteurs; minimum insaisissable
+
+## Réponse
+
+*JO du 2013-07-09*
+
+En application de l'article L.641-9 du code de commerce, le jugement de liquidation judiciaire emporte de plein droit, à partir de sa date, dessaisissement pour le débiteur de l'administration et de la disposition de ses biens, même de ceux qu'il a acquis à quelque titre que ce soit tant que la liquidation judiciaire n'est pas clôturée. Les droits et actions du débiteur concernant son patrimoine sont exercés pendant toute la durée de la liquidation judiciaire par le liquidateur. Certains biens sont toutefois exclus du dessaisissement du débiteur et ne peuvent donc être saisis. Tel est le cas notamment de la fraction insaisissable des salaires ou prestations assimilées et des créances alimentaires, comme l'a précisé un arrêt de la chambre commerciale de la Cour de cassation du 11 juillet 1995. Lorsque la saisie des rémunérations dues par un employeur est mise en oeuvre conformément aux dispositions du code du travail, l'employeur ne doit pas verser au liquidateur la fraction insaisissable de ces rémunérations. Lorsque la saisie porte sur le solde de comptes bancaires, l'article L. 162-2 du code des procédures civiles d'exécution dispose que le tiers saisi laisse à disposition du débiteur personne physique, dans la limite du solde créditeur du ou des comptes au jour de la saisie, une somme à caractère alimentaire d'un montant égal au montant forfaitaire, pour un allocataire seul, mentionné à l'article L. 262-2 du code de l'action sociale et des familles. Les articles R. 162-2 à R. 162-7 du même code précisent les modalités d'application du texte législatif, dont celles relatives au calcul du solde bancaire insaisissable en présence sur ce compte d'autres sommes insaisissables. Ces textes sont opposables au liquidateur.
