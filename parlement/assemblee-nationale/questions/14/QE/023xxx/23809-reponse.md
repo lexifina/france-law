@@ -1,0 +1,9 @@
+# Réponse à la question n° 23809
+
+- Question : [23809](23809.md) — Question n° 23809 — passages à niveau; lutte et prévention
+
+## Réponse
+
+*JO du 2013-07-09*
+
+Le passage à niveau N° 39 de Castelnau-le-Lez, situé à l'intersection de la ligne ferroviaire Nîmes - Montpellier et d'une voirie communale (avenue Marcel Dassault), est inscrit au programme de sécurisation national 2012. Ce passage à niveau est l'un des plus fréquentés de la région Languedoc-Roussillon. Son accidentologie est d'un piéton tué en 2011 et un autre en 1991. L'étude préliminaire de suppression a été réalisée en 2008. Elle a permis d'établir une solution de type pont-rail approuvée par les partenaires. Une étude complémentaire a permis de réduire le coût à 11 M€ HT (conditions économiques de mars 2011) par la suppression de certains rétablissements, l'optimisation des acquisitions foncière et la précision de la position de la nappe phréatique. A l'heure actuelle, l'État et Réseau ferré de France (RFF) se sont engagés à financer 50 % de l'opération, comme pour tous les passages à niveau inscrits au programme de sécurisation. Les discussions ont été lancées avec la commune de Castelnau-le-Lez et la Communauté d'Agglomération de Montpellier pour le complément de financement. La suppression de ce passage à niveau pourra raisonnablement se faire dans les 5 ans suivant l'accord financier. Sans attendre ces travaux de suppression, plusieurs améliorations ont été réalisées : - coordination du feu tricolore situé en amont du passage à niveau avec l'annonce de sa fermeture en 2004 ; - sécurisation du cheminement piétonnier parallèle à la voie ferrée par la pose de clôtures ; - élargissement du platelage et mise en place de feux à diodes en 2012. Par ailleurs, la mise en place d'un contrôle automatisé de franchissement a été engagée. Il devrait être opérationnel en juin 2013.
