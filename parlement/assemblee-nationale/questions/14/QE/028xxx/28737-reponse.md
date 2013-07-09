@@ -1,0 +1,9 @@
+# Réponse à la question n° 28737
+
+- Question : [28737](28737.md) — Question n° 28737 — sections urbaines; gratuité
+
+## Réponse
+
+*JO du 2013-07-09*
+
+La gratuité du tronçon Dourdan-Les Ulis de l'autoroute A 10 ne peut être obtenue qu'en procédant au rachat du péage actuellement perçu par la société Cofiroute pour la totalité des usagers de cette section. Le principe d'égalité entre les usagers s'opposant à ce que l'itinéraire Dourdan-Les Ulis ne soit gratuit que pour une catégorie d'usagers, il faudrait en effet rendre totalement libre de péage la section La Folie-Bessin-Dourdan et donc indemniser Cofiroute de l'intégralité du manque à gagner en résultant, estimé à plus d'une centaine de millions d'euros. Par ailleurs, il ne paraît pas souhaitable de promouvoir l'usage des autoroutes en Île-de-France, qui sont des infrastructures déjà proches de la saturation pour des trajets « domicile-travail » en véhicule individuel. L'amélioration des conditions d'accès à l'autoroute par les riverains de l'A 10 et de l'A 11, sans perdre la maîtrise du développement de la circulation automobile dans la région Ile-de-France, ne saurait constituer qu'une solution transitoire dictée par l'absence d'un réseau structuré de transports collectifs. Cependant, plusieurs mesures ont été mises en place pour les usagers locaux. Depuis plusieurs années, des formules d'abonnement préférentielles à destination des usagers fréquents passant par le diffuseur de Dourdan ont été mises en place. Ces réductions ont été accrues en 2011, et ont conduit à abaisser le péage jusqu'à 0,80 € par passage, au lieu de 1,60 € pour les véhicules légers. L'usage de l'autoroute revient donc pour ces usagers à 5 centimes d'euro du kilomètre. En outre, les tarifs préférentiels ont été mis en place pour favoriser le covoiturage sur ce trajet, en accompagnement des aires de covoiturage réalisées à Ablis et Allainville, ou en cours de réalisation à Dourdan.
