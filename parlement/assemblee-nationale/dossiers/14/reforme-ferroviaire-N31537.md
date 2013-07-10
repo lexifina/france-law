@@ -1,0 +1,74 @@
+# Transports : réforme ferroviaire
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N31537
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/reforme_ferroviaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-650.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-10-16 : 1er dépôt d'une initiative. (PRJLANR5L14B1468)
+  - 2013-10-16 : Etude d'impact (ETDIANR5L14B1468)
+  - 2014-05-22 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-10-16 : Renvoi en commission au fond
+      - 2013-07-10 : Nomination de rapporteur
+      - 2014-02-11 : Réunion de commission
+      - 2014-05-27 : Réunion de commission
+      - 2014-05-27 : Réunion de commission
+      - 2014-05-28 : Réunion de commission
+      - 2014-05-28 : Réunion de commission
+      - 2014-06-17 : Réunion de commission
+      - 2014-05-28 : Dépôt de rapport (RAPPANR5L14B1990, PRJLANR5L14BTC1990)
+    - Travaux d'une commission saisie pour avis
+      - 2013-12-12 : Saisine pour avis d'une commission
+      - 2013-12-12 : Nomination de rapporteur
+      - 2014-05-21 : Réunion de commission
+      - 2014-05-21 : Dépôt de rapport (AVISANR5L14B1965)
+  - Discussion en séance publique
+    - 2014-06-17 : Discussion en séance publique
+    - 2014-06-17 : Discussion en séance publique
+    - 2014-06-18 : Discussion en séance publique
+    - 2014-06-18 : Discussion en séance publique
+    - 2014-06-19 : Discussion en séance publique
+    - 2014-06-19 : Discussion en séance publique
+    - 2014-06-19 : Discussion en séance publique
+    - 2014-06-24 : Discussion en séance publique
+    - 2014-06-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-06-24 : Dépôt d'une initiative en navette (PRJLSNR5S219B0650)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-24 : Renvoi en commission au fond
+      - 2013-10-23 : Nomination de rapporteur
+      - 2014-07-02 : Dépôt de rapport (RAPPSNR5S219B0681)
+    - Travaux d'une commission saisie pour avis
+      - 2014-05-21 : Saisine pour avis d'une commission
+      - 2014-05-21 : Nomination de rapporteur
+      - 2014-06-25 : Dépôt de rapport (AVISSNR5S219B0652)
+  - Discussion en séance publique
+    - 2014-07-09 : Discussion en séance publique
+    - 2014-07-10 : Discussion en séance publique
+    - 2014-07-10 : Décision
+- Commission Mixte Paritaire
+  - 2014-07-11 : Dépôt d'un projet de loi (PRJLANR5L14B2126)
+  - 2014-07-11 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-07-16 : Nomination de rapporteur
+    - 2014-07-16 : Dépôt du rapport d'une CMP (RAPPANR5L14B2143)
+    - 2014-07-16 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0734)
+  - Discussion en séance publique
+    - 2014-07-21 : Discussion en séance publique
+    - 2014-07-21 : Discussion en séance publique
+    - 2014-07-21 : Décision
+  - Discussion en séance publique
+    - 2014-07-22 : Discussion en séance publique
+    - 2014-07-22 : Décision
+  - 2014-07-17 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-08-04 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2016-10-19 : Rapport sur l'application des lois (RINFANR5L14B4154)
