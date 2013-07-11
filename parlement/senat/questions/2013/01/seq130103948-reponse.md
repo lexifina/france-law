@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130103948
+
+- Question : [SEQ130103948](seq130103948.md) — Transparence à l'égard du grand public en matière d'efficacité des médicaments
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-07-11, page 2053*
+
+L'accès de tous les Français à une information claire et transparente sur les médicaments est un droit fondamental. La proposition de mentionner le niveau du service médical rendu sur la boîte ou la notice du médicament a été formulée par un rapport de juillet 2012 de l'Inspection générale des affaires sociales, consacré à la suppression de la vignette pharmaceutique. Procédant de la volonté d'une meilleure information du patient sur le médicament, cette proposition est en cours d'expertise par les services du ministère des affaires sociales et de la santé. De même, l'accès à une information fiable, indépendante et exhaustive sera facilité par la prochaine mise en ligne de la base de données sur les médicaments, prévue par la loi de 2011 relative au renforcement de la sécurité sanitaire du médicament et des produits de santé. Consultable gratuitement sur le site du ministère chargé de la santé, elle est destinée à servir de référence pour l'information des professionnels de santé, du public et des administrations compétentes en matière de produits de santé. Cette base de données rendra accessible à tous l'ensemble des données disponibles sur les médicaments, actuellement dispersées sur les sites des différents organismes tels que l'agence nationale de sécurité du médicament et des produits de santé (ANSM) et la haute autorité de santé (HAS). Elle comportera, notamment, une information sur le service médical rendu (SMR) et association des secrétaires médico-sociales et des référents (ASMR) des médicaments remboursables, accompagnée d'explications appropriées relatives à ces notions.
