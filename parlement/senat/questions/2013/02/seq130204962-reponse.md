@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204962
+
+- Question : [SEQ130204962](seq130204962.md) — Plan d'action contre la maladie de Parkinson
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-07-11, page 2058*
+
+Un programme d'actions contre la maladie de Parkinson, maladie neuro-dégénérative, reprenant les vingt priorités du livre blanc a été initié en juillet 2011 portant, notamment, sur la production de données épidémiologiques affinées, la coordination de la prise en charge médicale et sociale des personnes malades, spécifiquement des formes juvéniles, le soutien des proches, l'accueil des patients aux urgences. Ce programme permet à la fois de structurer l'offre hospitalière, tout en mobilisant les secteurs ambulatoire et médico-social. Un travail doit être conduit pour permettre, d'une part, d'accentuer les travaux de recherche sur cette maladie, incluant le diagnostic précoce et les évolutions thérapeutiques, et, d'autre part, de faire évoluer la prise en charge pour permettre aux patients, non seulement de bénéficier des services spécialisés, mais également de mobiliser les soins de proximité et de prendre en compte la réalité sociale que vivent ces personnes. Il convient également de reconnaître la place des associations de patients et la nécessité d'une information la plus précise possible. À cette fin, en liaison avec la ministre de l'enseignement supérieur et de la recherche et la ministre déléguée chargée des personnes âgées et de l'autonomie, la ministre des affaires sociales et de la santé a confié au professeur Joël Ankri et au docteur Catherine Van Broeckhoven, avec l'appui de l'Inspection générale des affaires sociales et de l'Inspection générale de l'administration de l'éducation nationale et de la recherche, la mission d'évaluer le plan Alzheimer et de faire des propositions pour un plan élargi aux autres maladies neuro-dégénératives. Les résultats de ces travaux devraient être connus avant la fin du 1er semestre 2013.
