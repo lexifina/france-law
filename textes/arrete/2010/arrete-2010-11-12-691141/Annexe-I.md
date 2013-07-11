@@ -244,7 +244,19 @@ x
 
 |
 
-1.1.3.5. L'office de tourisme doit s'engager à ouvrir son espace d'accueil au moins trois cent cinq jours par an, dont le samedi et le dimanche obligatoirement, en période de fréquentation touristique. Il est également ouvert en sus lors des manifestations événementielles sur sa zone géographique d'intervention.
+1.1.3.5. Pour les communes dont la population municipale est supérieure ou égale à 5 000 habitants, l'office de tourisme doit s'engager à ouvrir son espace d'accueil au moins trois cent cinq jours par an, dont le samedi et le dimanche obligatoirement, en période de fréquentation touristique. Il est également ouvert en sus lors des manifestations événementielles sur sa zone géographique d'intervention.
+
+|
+
+|
+
+|
+
+x
+
+|
+
+1.1.3.6. Pour les communes dont la population municipale est inférieure à 5 000 habitants, l'office de tourisme doit s'engager à ouvrir son espace d'accueil au moins deux cent quarante jours par an, dont le samedi et le dimanche obligatoirement, en période de fréquentation touristique. Il est également ouvert en sus lors des manifestations événementielles sur sa zone géographique d'intervention.
 
 |
 
