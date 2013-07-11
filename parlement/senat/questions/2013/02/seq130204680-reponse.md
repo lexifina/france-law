@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204680
+
+- Question : [SEQ130204680](seq130204680.md) — Éducation de la population sur la prise de médicament et les risques médicamenteux
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-07-11, page 2058*
+
+L'accès de tous les Français à une information claire et transparente sur les médicaments est un droit fondamental qui sera mis en œuvre grâce à la base de données prévue par la loi du 29 décembre 2011 relative au renforcement de la sécurité sanitaire du médicament et des produits de santé et qui sera consultable gratuitement sur le site du ministère chargé de la santé. Cette base de données rendra accessible à tous l'ensemble des données disponibles sur les médicaments, actuellement dispersées sur les sites des différents organismes tels que l'Agence nationale de sécurité du médicament et des produits de santé (ANSM) et la Haute Autorité de santé (HAS). Elle est destinée à servir de référence pour l'information des professionnels de santé, du public et des administrations compétentes en matière de produits de santé. D'autre part, s'il importe de garantir, pour chaque praticien, l'exercice de la liberté de prescription, il est non moins essentiel, d'un point de vue de santé publique, de pouvoir repérer les écarts éventuels entre les pratiques collectives de prescription et les conditions de l'autorisation de mise sur le marché (AMM) ou les recommandations professionnelles d'usage. C'est dans ce contexte que la ministre des affaires sociales et de la santé a confié aux professeurs Bégaud et Costagliola le soin de lui faire des propositions pour mettre en place un dispositif de pharmaco-surveillance. Leurs propositions porteront sur les modalités de mise en œuvre d'une méthode collaborative de suivi et d'analyse en continu des pratiques collectives de prescription par les pouvoirs publics, afin d'identifier les mésusages potentiels.
