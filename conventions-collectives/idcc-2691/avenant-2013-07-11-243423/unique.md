@@ -1,0 +1,35 @@
+# Article unique
+
+Afin de rectifier certaines erreurs matérielles s'étant glissées à l'article 6 de l'avenant n° 21 du 19 juin 2013, cet article est modifié comme suit :
+
+« Article 6
+
+L'article 4.4.2 relatif à la définition du temps plein de travail du personnel enseignant est modifié comme suit :
+
+a) Définition du temps plein
+
+1. Cadre général
+
+Le paragraphe a 1''Cadre général''reprend sans modification l'intégralité du paragraphe a''Définition du temps plein''de l'article 4.4.2 de la convention collective dans sa rédaction antérieure.
+
+2. Au cours de l'année scolaire ou universitaire, les enseignants disposent de 3 semaines travaillées, sans présence obligatoire dans l'établissement, destinées aux activités induites et/ ou de recherche. Une semaine est accolée aux congés d'été définis ci-dessous, cette semaine pouvant être utilisée pour une formation ouvrant droit, dans ce cas, à récupération. Les deux autres semaines sont réparties dans le cours de l'année scolaire ou universitaire et selon les modalités précisées pour les congés payés.
+
+b) Périodes de congés
+
+1. Cadre général
+
+Les périodes de congés payés, fixées au niveau de l'entreprise après consultation des représentants du personnel, se répartissent de la manière suivante :
+
+– 5 semaines en été ;
+
+– 1 semaine en cours d'année.
+
+2. Dispositions propres à certaines écoles
+
+Les écoles d'enseignement supérieur (avec ou sans recherche), les écoles spécialisées dans l'enseignement des langues ainsi que les écoles dispensant des formations en alternance peuvent déroger à ces dispositions après consultation, conformément aux dispositions de l'article L. 3141-13 du code du travail, des délégués du personnel et, le cas échéant, du comité d'entreprise.
+
+3. Le planning des périodes d'enseignement et de congés est établi conformément aux dispositions légales. Toute modification de la répartition des semaines de congés payés et des 3 semaines sans présence obligatoire définies au a 2 ci-dessus se fait dans le respect du nombre total de semaines tel que prévu au paragraphe a 2 ci-dessus, ces semaines pouvant être fractionnées pour les écoles relevant des dispositions du b 2 ci-dessus. »
+
+c) Modulation du temps de travail
+
+Ce paragraphe est inchangé.
