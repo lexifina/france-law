@@ -90,9 +90,7 @@ La rémunération des artistes musiciens, s'ils ne sont pas mensualisés, donne 
 
 Dans le présent article sont aussi pris en compte les chanteurs et les répétiteurs qui ne rentrent pas dans la catégorie des chanteurs lyriques, objet de l'article X. 3. 4.
 
-A. ― Artistes musiciens appartenant
-
-aux ensembles musicaux à nomenclature
+A. ― Artistes musiciens appartenant aux ensembles musicaux à nomenclature
 
 Rémunération mensualisée :
 
@@ -106,11 +104,17 @@ Les artistes musiciens titulaires de CDD d'une durée inférieure à 1 mois sont
 
 Le montant minimum du cachet figure à l'annexe Salaires de la convention, montant revalorisé lors de la NAO.
 
-Cas particulier des artistes musiciens engagés en CDD
+Cas particulier des artistes musiciens engagés en CDD dans les formations orchestrales employant des musiciens en CDI
 
-dans les formations orchestrales employant des musiciens en CDI
+Le musicien engagé en CDD supérieur à 1 mois est rémunéré sur la même base mensuelle que le musicien permanent.
 
-Durant une période de 12 mois après l'extension de la convention collective, et dans l'attente de la mise en oeuvre des négociations du 2e cycle, les musiciens engagés en CDD dans les formations à nomenclature employant des musiciens en CDI sont rémunérés selon les accords d'entreprise et / ou les usages constants de l'entreprise.
+Le musicien engagé en CDD inférieur à 1 mois est rémunéré sur la même base horaire que le musicien permanent de même catégorie (salaire de base).
+
+Chaque entreprise devra établir un taux minimal horaire en fonction des catégories et des salaires des permanents. Ce taux horaire sera calculé en divisant le salaire annuel de base par l'horaire collectif annuel de l'orchestre (congés compris). En tout état de cause, il ne peut être inférieur au salaire annuel minimal de la CCNEAC, divisé par l'horaire annuel de référence de la CCNEAC (1 224 heures).
+
+Dans le cas où il y a un seul service dans le contrat, le musicien est engagé pour un minimum de 3 heures, quelle que soit la durée réelle du service, et le montant journalier ne peut pas être inférieur à 90 €. Ce montant sera revalorisé chaque année dans le cadre de la NAO de la branche.
+
+Pour les musiciens engagés en CDD, les accords d'entreprise définiront les modalités de rémunération des temps de transports collectifs sans découcher organisés par l'employeur.
 
 B. ― Artistes musiciens embauchés au sein d'ensembles
 
