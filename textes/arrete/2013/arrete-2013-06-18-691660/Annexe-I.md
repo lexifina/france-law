@@ -2,11 +2,11 @@
 
 MODÈLE DE CONTRAT TRIPARTITE D'ACCOMPLISSEMENT DE LA MISSION DE SERVICE PUBLIC DE PERMANENCE DES SOINS EN ÉTABLISSEMENT DE SANTÉ (PDSES) PRIS EN APPLICATION DE L'AVENANT N° X AU CONTRAT PLURIANNUEL D'OBJECTIFS ET DE MOYENS (CPOM)
 
-Vu le code de la santé publique, et notamment l'article L. 6112-3 ;
+Vu le code de la santé publique, notamment l'article L. 6112-3 ;
 
-Vu l'arrêté du XXX relatif aux montants et aux conditions de versement de l'indemnité forfaitaire aux médecins libéraux participant à la mission de permanence des soins en établissement de santé ;
+Vu l'arrêté du 18 juin 2013 relatif aux montants et aux conditions de versement de l'indemnité forfaitaire aux médecins libéraux participant à la mission de permanence des soins en établissement de santé ;
 
-Vu le CPOM de l'établissement de santé XXX, conclu en date du [ou, le cas échéant, l'avenant à ce CPOM, en date du] ;
+Vu le CPOM de l'établissement de santé XXX, conclu en date du [ou, le cas échéant, l'avenant à ce CPOM, en date du],
 
 Il est conclu un contrat d'accomplissement de la mission de service public de permanence des soins en établissement de santé entre :
 
@@ -20,7 +20,7 @@ Article 1er
 
 Objet et modalités d'accomplissement de la mission par les médecins signataires
 
-Les présentes dispositions définissent les obligations qui, en vertu de l'article 4 du CPOM susmentionné, s'appliquent aux médecins, signataires du présent contrat, intervenant dans l'établissement au titre de la mission de service public de permanence des soins, pour la ou les lignes de permanence suivantes :
+Les présentes stipulations définissent les obligations qui, en vertu de l'article 4 du CPOM susmentionné, s'appliquent aux médecins, signataires du présent contrat, intervenant dans l'établissement au titre de la mission de service public de permanence des soins, pour la ou les lignes de permanence suivantes :
 
 Spécialité XXX :
 
@@ -28,7 +28,7 @@ Spécialité XXX :
 
 ― type de ligne : XXX ;
 
-Il s'agit de décrire par spécialité les lignes de permanence visées dans le présent contrat tripartite.
+(Il s'agit de décrire par spécialité les lignes de permanence visées dans le présent contrat tripartite.)
 
 Ces médecins sont recensés dans un tableau annexé au présent contrat.
 
@@ -46,7 +46,7 @@ Article 3
 
 Statut juridique du médecin
 
-Cette mise en œuvre s'opère dans le respect des conditions de l'activité libérale du médecin qui accepte d'y participer. La participation à la mission de permanence des soins en établissement de santé ne remet pas en cause directement ni indirectement le contrat d'exercice libéral établi entre l'établissement et chaque médecin signataire.
+La mise en œuvre de la participation à la mission de permanence des soins en établissement de santé s'opère dans le respect des conditions de l'activité libérale du médecin qui accepte d'y participer. Elle ne remet pas en cause directement ni indirectement le contrat d'exercice libéral établi entre l'établissement et chaque médecin signataire.
 
 Article 4
 
@@ -64,7 +64,7 @@ L'établissement s'engage à conventionner avec sa caisse pivot pour le versemen
 
 Pour leur part, les médecins signataires s'engagent à tenir à jour les tableaux mensuels des gardes et astreintes réalisées, à les transmettre au directeur d'établissement, au responsable du réseau de permanence des soins de l'établissement et, le cas échéant, au président de la commission médicale d'établissement ou au président de la conférence médicale pour attestation du service fait et pour contrôle du non-dépassement de l'enveloppe notifiée par l'ARS. Les médecins établissent une demande individuelle de versement qu'ils transmettent directement ou via l'établissement à la caisse pivot.
 
-Sous réserve des éléments communiqués par les médecins signataires, l'établissement s'engage, après avis du responsable du réseau de permanence des soins en établissement de santé et, le cas échéant, du président de la commission médicale d'établissement ou du président de la conférence médicale, à transmettre ces tableaux à la caisse pivot de l'établissement et, pour information, à l'agence régionale de santé, dans un délai de dix jours ouvrés à compter du dix de chaque mois.
+Sous réserve des éléments communiqués par les médecins signataires, l'établissement s'engage, après avis du responsable du réseau de permanence des soins en établissement de santé et, le cas échéant, du président de la commission médicale d'établissement ou du président de la conférence médicale, à transmettre les tableaux mensuels des gardes et astreintes réalisées à la caisse pivot de l'établissement et, pour information, à l'agence régionale de santé, dans un délai de dix jours ouvrés à compter du dix de chaque mois.
 
 Article 6
 
@@ -78,7 +78,7 @@ Durée du contrat, révision et dénonciation
 
 Le présent contrat entre en application à la date du ... pour une durée ne pouvant excéder celle du CPOM susvisé. Il est communiqué au conseil départemental de l'ordre.
 
-Il peut être révisé, dans les mêmes formes que sa signature, à tout moment à la demande de l'un ou l'autre des signataires.
+Il peut être révisé, dans les mêmes formes que sa signature, à tout moment, à la demande de l'un ou l'autre des signataires.
 
 Il peut être dénoncé par l'une ou l'autre des parties au contrat, sous réserve, sauf cas de force majeure, du respect d'un préavis de six mois notifié par pli recommandé avec demande d'avis de réception.
 
@@ -86,8 +86,10 @@ Lorsque le contrat est dénoncé par l'un ou plusieurs des médecins signataires
 
 Fait à , le en XXX exemplaires originaux.
 
-― le directeur général de l'ARS de XXX ;
+Le directeur général de l'ARS de XXX.
 
-― le [représentant] de l'établissement XXX ;
+Le [représentant] de l'établissement XXX.
 
-― les médecins participant à l'accomplissement de la mission de service public de permanence des soins pour les lignes de permanence mentionnées à l'article 1er du présent contrat.
+Les médecins participant à l'accomplissement de la mission de service public de permanence des soins pour les lignes de permanence mentionnées à l'article 1er du présent contrat.
+
+A
