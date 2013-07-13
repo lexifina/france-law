@@ -866,11 +866,15 @@ Directeur régional des finances publiques d'Ile-de-France et du département de
 
 H.-Ministère de l'écologie, du développement durable et de l'énergie et ministère de l'égalité des territoires et du logement
 
-SERVICE OU CATÉGORIE DE PERSONNELS |
+SERVICE OU CATÉGORIE DE PERSONNEL
+
+|
 
 COMPTABLE PUBLIC ASSIGNATAIRE DE LA PAYE
 
-sans ordonnancement préalable |
+sans ordonnancement préalable
+
+|
 
 Direction régionale et interdépartementale de l'hébergement et du logement en région d'Ile-de-France
 
@@ -892,7 +896,39 @@ Direction régionale et interdépartementale de l'environnement et de l'énergie
 
 |
 
+Personnel en poste à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne
+
+|
+
 Directeur départemental des finances publiques du Val-de-Marne
+
+|
+
+Personnel en poste dans le département de Seine-et-Marne (délégation de gestion avec la direction départementale territoriale)
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne
+
+|
+
+Personnel en poste dans les départements des Yvelines et de l'Essonne (délégation de gestion avec les directions départementales territoriales)
+
+|
+
+Directeur départemental des finances publiques des Yvelines
+
+|
+
+Personnel en poste dans le département du Val-d'Oise (délégation de gestion avec la direction départementale territoriale)
+
+|
+
+Directeur départemental des finances publiques des Hauts-de-Seine
+
+|
+
+Délégation de gestion avec le ministère chargé de l'agriculture
 
 |
 
@@ -912,7 +948,7 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par arrêté du 2 août 2010 (personnels en poste à l'administration centrale)
+Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par l'arrêté du 2 août 2010 (personnels en poste à l'administration centrale)
 
 |
 
@@ -920,7 +956,7 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par arrêté du 2 août 2010 (personnels en poste dans les services déconcentrés)
+Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par l'arrêté du 2 août 2010 (personnels en poste dans les services déconcentrés)
 
 |
 
@@ -948,14 +984,310 @@ Personnels de catégorie A en poste dans les départements d'outre-mer
 
 |
 
-Directeur régional des finances publiques d'Ile-de-France et du département de Paris à compter du 1er avril 2013
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
 
 |
 
-Personnels de catégorie B et C en poste dans les départements d'outre-mer
+Personnels de catégories B et C en poste dans les départements d'outre-mer
 
 |
 
-Directeur régional des finances publiques de Basse-Normandie et du département du Calvados à compter du 1er avril 2013
+Directeur régional des finances publiques de Basse-Normandie et du département du Calvados
 
 |
+
+Personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique. - Assistants de service social, infirmiers d'Etat, lieutenants de port, adjoints techniques d'Etat, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors "Berkani")
+
+|
+
+Alsace
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+
+|
+
+Aquitaine
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+
+|
+
+Auvergne
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er octobre 2013
+
+|
+
+Basse-Normandie
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+
+|
+
+Bourgogne
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+
+|
+
+Bretagne
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er octobre 2013
+
+|
+
+Centre
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+
+|
+
+Champagne-Ardenne
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+
+|
+
+Corse
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+
+|
+
+Franche-Comté
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+
+|
+
+Haute-Normandie
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er octobre 2013
+
+|
+
+Ile-de-France
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er avril 2014
+
+|
+
+Languedoc-Roussillon
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+
+|
+
+Limousin
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+
+|
+
+Lorraine
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er octobre 2013
+
+|
+
+Midi-Pyrénées
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+
+|
+
+Nord-Pas-de-Calais
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+
+|
+
+Pays de la Loire
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er avril 2014
+
+|
+
+Picardie
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+
+|
+
+Poitou-Charentes
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+
+|
+
+Provence-Alpes-Côte d'Azur
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+
+|
+
+Rhône-Alpes hors Ecole nationale des travaux publics de l'Etat de Vaulx-en-Velin
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+
+|
+
+Ecole nationale des travaux publics de l'Etat de Vaulx-en-Velin
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+
+|
+
+Personnels nouvellement affectés à compter du 1er juin 2013
+
+|
+
+Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+
+|
+
+Personnels en poste dans les structures du réseau scientifique constitutives du Centre d'études et d'expertise
+
+sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA)
+
+|
+
+Centre d'études techniques de l'équipement de l'Est
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er juillet 2013
+
+|
+
+Centre d'études techniques de l'équipement d'Ile-de-France
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er octobre 2013
+
+|
+
+Centre d'études techniques de l'équipement de Méditerranée
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er novembre 2013
+
+|
+
+Centre d'études techniques de l'équipement Nord-Picardie
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er novembre 2013
+
+|
+
+Centre d'études techniques de l'équipement Normandie-Centre
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er juillet 2013
+
+|
+
+Centre d'études techniques de l'équipement de l'Ouest
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er novembre 2013
+
+|
+
+Centre d'études techniques de l'équipement du Sud-Ouest
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er octobre 2013
+
+|
+
+Centre d'études techniques maritimes et fluviales
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er novembre 2013
+
+|
+
+Service d'études techniques des routes et autoroutes
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er octobre 2013
+
+|
+
+Ingénieurs des ponts, des eaux et forêts
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er octobre 2013
+
+|
+
+Personnels nouvellement affectés à compter du 1er juillet 2013
+
+|
+
+Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er juillet 2013
+
+|
+
+.
+
+NOTA :
+
+Décret n° 2013-1273 du 27 décembre 2013, article 26 : Dans tous les textes réglementaires en vigueur qui les mentionnent, les mots : "centre d'études techniques de l'équipement", "centre d'études techniques de l'équipement de l'Est", "centre d'études techniques de l'équipement de Lyon", "centre d'études techniques de l'équipement Méditerranée", "centre d'études techniques de l'équipement Normandie Centre", "centre d'études techniques de l'équipement Nord-Picardie", "centre d'études techniques de l'équipement de l'Ouest", "centre d'études techniques de l'équipement Sud-Ouest", "centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques", "centre d'études techniques maritimes et fluviales" et "service d'études sur les transports, les routes et leurs aménagements" sont remplacés par les mots : "centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement".
