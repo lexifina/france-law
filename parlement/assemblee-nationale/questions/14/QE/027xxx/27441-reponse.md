@@ -1,0 +1,9 @@
+# Réponse à la question n° 27441
+
+- Question : [27441](27441.md) — Question n° 27441 — statut; perspectives
+
+## Réponse
+
+*JO du 2013-07-16*
+
+Les assistants d'éducation sont essentiels au bon fonctionnement des établissements. Ils apportent un soutien indispensable à l'équipe éducative pour l'encadrement et la surveillance des élèves, pour l'assistance pédagogique dans les établissements de l'éducation prioritaire et pour l'aide à l'accueil et à l'intégration scolaires des élèves en situation de handicap, y compris en dehors du temps scolaire. Cette fonction a trop longtemps été négligée par le précédent Gouvernement. Si les assistants d'éducation sont recrutés par des contrats d'une durée maximale de trois ans, renouvelables dans la limite d'une période d'engagement totale de six ans, il n'en demeure pas moins qu'ils doivent pouvoir bénéficier de certaines perspectives professionnelles. Ainsi, pendant leur contrat, les assistants d'éducation doivent avoir accès aux formations prévues par les textes et, notamment, lorsqu'ils prennent en charge des enfants en situation de handicap. A l'issue de leur contrat, les assistants d'éducation peuvent demander à faire valider l'expérience acquise dans les conditions définies par les articles L. 900-1 et L. 934-1 du code du travail. Ils peuvent également se présenter aux différents concours des métiers de l'enseignement, notamment aux concours internes. Au moment où les recrutements de professeurs augmentent fortement (47 % de postes supplémentaires offerts aux concours externes publics à la session 2013), les assistants d'éducation se voient offrir une véritable chance de pouvoir mener à bien un projet professionnel au sein de l'éducation nationale.
