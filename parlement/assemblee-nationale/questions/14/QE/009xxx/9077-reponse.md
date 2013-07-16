@@ -1,0 +1,9 @@
+# Réponse à la question n° 9077
+
+- Question : [9077](9077.md) — Question n° 9077 — anciens combattants; demi-parts supplémentaires; conditions d'attribution
+
+## Réponse
+
+*JO du 2013-07-16*
+
+La demi-part supplémentaire accordée aux contribuables âgés de plus de 75 ans titulaires de la carte d'ancien combattant ou d'une pension servie en application des dispositions du code des pensions militaires d'invalidité et des victimes de guerre, ou aux veuves de ces personnes, est fonction des critères objectifs à savoir l'âge de l'intéressé et la délivrance de la carte du combattant ou d'une pension servie en application des dispositions du code des pensions militaires d'invalidité et des victimes de guerre. Cette règle permet d'apprécier de manière uniforme la situation des bénéficiaires. Lorsqu'il demande à bénéficier pour la première fois de la demi-part supplémentaire, le contribuable doit simplement cocher la case correspondant à sa situation sur la déclaration de revenus. Bien entendu, dans le cadre de son droit de contrôle, l'administration peut demander au contribuable de justifier qu'il est titulaire de la carte du combattant ou d'une pension servie en application du code précité. Pour les années suivantes, les données relatives à l'octroi de la demi-part supplémentaire précitée sont conservées et figurent donc sur la déclaration préremplie par l'administration fiscale. Ainsi, le contribuable ayant bénéficié, toutes conditions étant par ailleurs remplies, de la demi-part supplémentaire accordée aux titulaires de la carte du combattant ou d'une pension militaire d'invalidité ou de victime de guerre, n'a pas à renouveler sa demande les années suivantes et bénéficie automatiquement de l'avantage fiscal précité. Ces modalités déclaratives permettent d'ores et déjà de simplifier les obligations des contribuables.
