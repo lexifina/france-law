@@ -1,0 +1,9 @@
+# Réponse à la question n° 24619
+
+- Question : [24619](24619.md) — Question n° 24619 — CEAT; perspectives
+
+## Réponse
+
+*JO du 2013-07-16*
+
+L'ensemble domanial dénommé « centre d'essais aéronautique de Toulouse » est composé, d'une part, de l'ancien centre d'essais aéronautique, inutilisé depuis 2007 par le ministère de la défense, qui regroupe des bâtiments industriels et des équipements sportifs loués à la ville de Toulouse et, d'autre part, de l'emprise occupée par l'école nationale supérieure d'ingénieurs de constructions aéronautiques (ENSICA), qui la libérera en 2015. Cette libération est liée au regroupement dans le quartier de Rangueil des formations dispensées par l'institut supérieur de l'aéronautique et de l'espace, prévu à cet horizon. Au regard de son étendue et de ses composantes, l'emprise de l'ancien centre d'essais aéronautique offre des possibilités de reconversion très diversifiées. Une réflexion concernant son devenir est actuellement conduite dans le cadre d'un projet urbain. Elle a vocation à aboutir à une cession de la totalité du site et à la préservation des installations sportives. Par ailleurs, compte tenu de ses qualités architecturales et urbanistiques, le siège de l'ENSICA devrait pour sa part être conservé en l'état pour de nouveaux usages. Le reste du site, constitué pour l'essentiel de friches, intéresse la ville de Toulouse en ce qu'il s'intègre dans le projet urbain qu'elle souhaite mener, notamment pour développer le logement social. S'agissant de ces biens domaniaux, un accord intégrant les dispositions de la loi n° 2013-61 du 18 janvier 2013 relative à la mobilisation du foncier public en faveur du logement et au renforcement des obligations de production de logement social devrait intervenir entre la collectivité locale et le ministère de la défense avant la fin de l'année 2013.
