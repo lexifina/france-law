@@ -1,0 +1,9 @@
+# Réponse à la question n° 23160
+
+- Question : [23160](23160.md) — Question n° 23160 — classement en zone non aedificandi; réglementation
+
+## Réponse
+
+*JO du 2013-07-16*
+
+La possibilité de construire en zone agricole inscrite dans les plans locaux d'urbanisme est strictement encadrée par le code de l'urbanisme et ne permet d'autoriser des constructions à usage d'habitation que si les nécessités de l'exploitation agricole justifient la proximité de l'habitation de l'exploitant ou de ses salariés. Il existe une jurisprudence abondante sur la question qui permet de caractériser les situations qui relèvent de ce cas de figure. La diversité des types d'exploitations agricoles et des contextes locaux ne permet pas d'envisager un encadrement législatif ou réglementaire plus précis car chaque cas est spécifique et doit faire l'objet d'une analyse précise par les autorités locales. La nécessaire protection des espaces agricoles et le frein à la consommation d'espace sont des enjeux essentiels que le ministère de l'égalité des territoires et du logement promeut notamment dans le cadre du projet de loi « pour l'accès au logement et un urbanisme rénové ». Mais il convient également que des solutions adaptées soient trouvées pour pérenniser l'activité agricole dans nos territoires. Cette préoccupation, qui sera au coeur du projet de loi relatif à l'« avenir agricole » que prépare le ministre de l'agriculture, de l'agroalimentaire et de la forêt, doit faire l'objet d'une attention particulière dans le cadre de l'élaboration de chaque document local d'urbanisme. C'est l'occasion privilégiée d'identifier les besoins spécifiques des agriculteurs, notamment les perspectives de reprises d'exploitation et les besoins en logements qui peuvent en découler, et de trouver des réponses adaptées et acceptables au regard des autres enjeux du développement durable.
