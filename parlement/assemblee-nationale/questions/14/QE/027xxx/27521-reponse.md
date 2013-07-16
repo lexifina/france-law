@@ -1,0 +1,9 @@
+# Réponse à la question n° 27521
+
+- Question : [27521](27521.md) — Question n° 27521 — indemnité spécifique de vie locale; Australie
+
+## Réponse
+
+*JO du 2013-07-16*
+
+La ministre déléguée chargée des Français de l'étranger est attentive à la situation des personnels résidents en poste au sein du réseau des établissements français à l'étranger, en particulier dans les zones où les situations sont les plus difficiles. Sur les trois dernières années, de janvier 2011 à mai 2013, la croissance de l'ISVL en Australie est une des plus fortes du monde (3e plus importante sur 161 zones d'indemnité de résidence) avec 133 % d'augmentation. L'Australie a bénéficié de nombreuses hausses successives sur les 14 derniers barèmes (dont deux de 30 % chacune en avril 2011 et janvier 2012), accroissant très significativement les montants d'ISVL. Ainsi, dans les groupes 5 et 6 (déterminés en fonction du corps d'appartenance et de l'échelon des résidents) sur la période, le niveau annuel des indemnités a crû de plus de 7 876 € pour le groupe 5 (soit + 656 € par/mois) et de 6 398 € pour le groupe 6 (soit + 533 € par/mois). Cette forte croissance de l'indemnité en Australie a permis de compenser une inflation soutenue sur la période (+ de 8 % de croissance de l'ICP entre janvier 2010 et janvier 2013) comme de stabiliser la dépréciation de l'euro face au dollar australien (parité €/AUD stable autour de 1.7 AUD pour 1 € avant 2010, puis autour de 1.3 AUD pour 1 € depuis). La ministre déléguée a demandé à l'Agence pour l' enseignement français à l'étranger de continuer à porter une attention particulière à l'Australie lors de l'examen des prochains barèmes dans le cadre du nouveau dispositif ISVL, consciente des difficultés que peuvent continuer à rencontrer certains personnels résidents sur place, notamment au regard du coût de la vie comme de celui des loyers.
