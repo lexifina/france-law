@@ -1,0 +1,9 @@
+# Réponse à la question n° 14040
+
+- Question : [14040](14040.md) — Question n° 14040 — pathologies visuelles; dépistage
+
+## Réponse
+
+*JO du 2013-07-16*
+
+Le repérage des troubles visuels, dès les premiers mois de la vie, peut permettre d'identifier très tôt les situations à risque d'amblyopie, cause la plus fréquente de mauvaise vision unilatérale chez l'enfant. Le traitement par rééducation est d'autant plus efficace qu'il est précoce, l'amblyopie étant irréversible au-delà de 7-8 ans. Chez l'enfant plus grand, le dépistage des troubles visuels, en particulier des troubles de la réfraction, responsables de difficultés scolaires et de gêne dans la vie courante, reste de première importance du fait de leur prévalence élevée (20%). Tous les enfants de moins de six ans bénéficient de vingt examens médicaux obligatoires qui ont pour objet, entre autres, le dépistage précoce des anomalies ou déficiences, notamment sensorielles, et dont, dans tous les cas, le résultat doit être consigné dans le carnet de santé de l'enfant. Ces examens sont pratiqués par les médecins généralistes et pédiatres ou par les médecins des services de la protection maternelle et infantile des départements (PMI). L'examen au cours de la quatrième année est organisé à l'école maternelle par les services départementaux de PMI. A la demande de la direction générale de la santé, la haute autorité de santé (HAS) a publié en 2005 des recommandations concernant les dépistages chez l'enfant de 0 à 6 ans. Ces recommandations ont été prises en compte dans le modèle en vigueur du carnet de santé, où l'examen ophtalmologique est détaillé et répété aux différents âges clés. Les résultats de l'évaluation de ce modèle de carnet de santé auprès des professionnels ainsi que des parents seront, comme les avancées dans le domaine de l'ophtalmologie pédiatrique, pris en compte lors de la prochaine mise à jour du carnet de santé.
