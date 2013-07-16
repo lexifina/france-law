@@ -1,0 +1,9 @@
+# Réponse à la question n° 24919
+
+- Question : [24919](24919.md) — Question n° 24919 — Madagascar; perspectives
+
+## Réponse
+
+*JO du 2013-07-16*
+
+Réintroduit comme langue d'enseignement en 1993, le français est désormais langue partielle de scolarisation en primaire, puis langue d'enseignement dans le secondaire et le supérieur. Mais la fracture linguistique entraînée par 20 ans de malgachisation a affaibli une situation déjà fragile. Si les élèves malgaches déclarent majoritairement lire et regarder la télévision en français (mais écouter la radio en malgache), si le français est aussi, et surtout, la langue de l'emploi (dans l'administration publique, les entreprises publiques, les télécommunications et l'exportation[1]), il n'est maîtrisé que par 15,4 % de la population (5 % pour les francophones complets). Dans ce contexte, notre politique vise à améliorer la qualité de l'éducation à Madagascar en renforçant l'enseignement et l'apprentissage du français. Nous mettons des moyens importants tant humains (3 experts techniques internationaux placés auprès du ministère de l'Education nationale malgache) que financiers (un projet du Fonds de Solidarité Prioritaire d'1,2M€ « Appui à l'enseignement du et en français » vient d'être approuvé en comité interministériel). Un projet porté par l'AFD « Amélioration de la qualité de l'éducation à Madagascar » (AQUEM) de 10M€ et un projet de l'OIF-AUF sur financement AFD « Initiative de formation à distance des maîtres » (IFADEM) viennent compléter ces moyens. Par ailleurs nous renforçons l'environnement francophone sur l'ensemble du territoire et promouvons la langue française à travers notre réseau de 29 Alliances (17 postes d'expatriés) qui donnent des cours à plus de 22 000 étudiants, aux côtés de l'Institut français de Madagascar (IFM) et des 23 établissements scolaires homologués (12 000 élèves). [1] Source : Enquêtes 1-2-3, phase 1 « emploi », 2001-2010, INSTAT/DIAL.
