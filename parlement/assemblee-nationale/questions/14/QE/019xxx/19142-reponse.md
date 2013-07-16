@@ -1,0 +1,9 @@
+# Réponse à la question n° 19142
+
+- Question : [19142](19142.md) — Question n° 19142 — effectifs; rapport; propositions
+
+## Réponse
+
+*JO du 2013-07-16*
+
+L'honorable parlementaire souhaite connaître l'avis de la garde des sceaux, ministre de la justice concernant les propositions formulées dans le rapport d'information adopté par la commission des lois de l'Assemblée nationale sur les moyens de lutte contre la surpopulation carcérale et notamment sur la proposition consistant à réfléchir à la créaton d'un service départemental de l'insertion regroupant les services pénitentiaires d'insertion et de probation et les associations agissant sur mandat judiciaire. La ministre de la justice tient à saluer la qualité de ce rapport d'initiative parlementaire, qui a fait l'objet d'un débat à l'Assemblée nationale le 19 mars dernier. Ces propositions, dont celle faisant l'objet de la présente question, ont été soumises pour étude aux services de la Chancellerie. La garde des sceaux conduit également actuellement une série de consultations avec tous les acteurs concernés pour discuter du contenu de ces propositions. Tout comme les recommandations émises par le jury de la conférence de consensus sur la prévention de la récidive organisée à l'initiative de la garde des Sceaux, celles-ci contribueront à l'élaboration d'une nouvelle politique pénale en matière de prévention de la récidive et de prise en charge des personnes placées sous main de justice. Cette politique fera l'objet d'un projet de loi pénale qui sera présenté au Parlement, qui aura dès lors l'occasion de débattre sur les propositions que la ministre de la justice aura souhaité retenir, notamment quant au rôle que le monde associatif, mais aussi la société civile, les collectivités territoriales ou les services d'enquête par exemple, peuvent tenir.
