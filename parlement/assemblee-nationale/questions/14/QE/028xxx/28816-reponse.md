@@ -1,0 +1,9 @@
+# Réponse à la question n° 28816
+
+- Question : [28816](28816.md) — Question n° 28816 — Chine; pratiques commerciales; politiques communautaires
+
+## Réponse
+
+*JO du 2013-07-16*
+
+Dans le cadre d'une procédure anti-dumping lancée en septembre 2012, les exportations chinoises de panneaux photovoltaïques à destination de l'UE se voient appliquer, depuis le 6 juin, des droits de douane provisoires de 11,8 % en moyenne. La Commission pourrait décider de les relever dès le mois d'août à 47,6 % en moyenne, mais privilégie actuellement la recherche d'une solution négociée qui permettrait d'envisager un retour à des prix plus conformes à ceux du marché, sans passer par l'imposition de droits de douane additionnels. Cette initiative de la Commission, portant sur des flux commerciaux de l'ordre de 20 milliards d'euros par an, vise à rétablir les conditions d'une concurrence loyale pour les industriels européens de la filière, dont la survie apparaît aujourd'hui gravement menacée par la vente à bas coût des produits chinois. La Commission estime que plus de 30 000 emplois sont en jeu, alors que le nombre d'acteurs européens dans le secteur ne cesse de diminuer (environ 150 aujourd'hui d'ici la fin de l'année contre 750 en 2010) et que la Chine ne cesse de gagner des parts de marché dans l'UE (d'une part quasi-nulle en 2008 à près de 80 % en 2013). En France, le nombre d'emplois dans la filière photovoltaïque a été divisé par deux au cours des trois dernières années. La France soutient l'approche de la Commission dans ce dossier, et souhaite qu'une évolution négociée puisse être trouvée rapidement, dans un esprit d'apaisement, afin de garantir des conditions équitables pour les producteurs de l'UE. La résolution du différend sur le photovoltaïque, auquel une solution technique doit être apportée, ne doit pas empêcher l'UE de progresser avec Pékin sur d'autres dossiers commerciaux.
