@@ -1,0 +1,9 @@
+# Réponse à la question n° 20173
+
+- Question : [20173](20173.md) — Question n° 20173 — personnel soignant; suivi psychologique; rapport; propositions
+
+## Réponse
+
+*JO du 2013-07-16*
+
+Les professionnels des hôpitaux sont régulièrement confrontés à la souffrance et à la mort dans la plupart des services hospitaliers. Pour faire face à cette situation, des mesures liées à la formation initiale et continue sont mises en oeuvre dans le cadre du programme national de développement des soins palliatifs. Ces formations ont pour objet de permettre aux professionnels de s'engager dans les soins avec la proximité et la distance nécessaires au maintien de leur santé psychique en insistant sur le développement personnel, la relation et la communication. Les soignants en difficulté peuvent faire appel au psychologue ou à un membre de l'équipe de soins palliatifs lorsqu'elle existe dans l'établissement. En outre, de nombreux établissements disposent de psychologues du travail intervenant en cas de problème lié au travail, à la demande de l'employeur, du comité d'hygiène, de sécurité et des conditions de travail (CHSCT) ou du médecin du travail. Par ailleurs, le suivi des soignants s'inscrit dans la démarche d'évaluation et de prévention des risques professionnels dont les risques psychosociaux. De nombreux établissements de santé sont déjà mobilisés sur la prévention des risques psychosociaux par le biais de l'obligation qui leur est faite, depuis 2001, d'élaborer et de mettre à jour un « document unique d'évaluation des risques professionnels ». Ces démarches d'évaluation et de prévention sont entreprises en lien avec le service de santé au travail et les instances représentatives du personnel : CHSCT ou comité technique d'établissement. Enfin l'article R. 4626-26 du code du travail prévoit que les agents bénéficient d'un examen médical au moins une fois par an. Cet examen peut être plus fréquent si le médecin le juge nécessaire.
