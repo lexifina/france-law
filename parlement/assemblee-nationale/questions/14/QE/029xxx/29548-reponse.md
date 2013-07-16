@@ -1,0 +1,9 @@
+# Réponse à la question n° 29548
+
+- Question : [29548](29548.md) — Question n° 29548 — entretien officiel; premier ministre letton; bilan
+
+## Réponse
+
+*JO du 2013-07-16*
+
+Le Président de la République a reçu le Premier ministre de Lettonie, M. Valdis Dombrovskis, le 19 avril, dans le cadre de sa visite de travail en France. Le Président de la République a souligné l'excellence et l'ancienneté des relations bilatérales, le partenariat stratégique franco-letton signée en 2008 constituant un cadre utile, auquel la France souhaite donner une nouvelle impulsion. L'entretien a permis d'évoquer la candidature de la Lettonie à la zone euro au 1er janvier 2014. Le Président de la République a assuré à son interlocuteur le soutien de la France, si les rapports de la Banque centrale européenne et de la Commission européenne étaient favorables à une entrée de la Lettonie dans la zone euro à cette date (les rapports ont été adoptés depuis et sont favorables à cette entrée). La question de la candidature de la Lettonie à l'OCDE a également été évoquée. Le Président de la République a souligné que cette candidature (qui a prospéré entretemps) était légitime et méritait le soutien de la France. Enfin, sur le plan bilatéral, le Président de la République a exprimé sa volonté de renforcer les échanges, en particulier dans les domaines logistiques et ferroviaires, des équipements de défense, de l'énergie. Il a remercié son interlocuteur pour l'appui apporté par la Lettonie à la mission EUTM Mali. Il a enfin souhaité encourager le développement de la francophonie. Le dispositif de formation au français de 300 fonctionnaires lettons dispensé par l'Institut français de Riga en liaison avec l'Organisation internationale de la Francophonie était un succès à cet égard et méritait d'être poursuivi.
