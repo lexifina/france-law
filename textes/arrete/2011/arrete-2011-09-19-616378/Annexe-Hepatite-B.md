@@ -6,7 +6,7 @@ Des dérogations permettant le recours à des donneurs présentant un risque inf
 
 L'évaluation des résultats de ces greffes réalisées dans le cadre du dispositif dérogatoire figure dans le rapport de l'AFSSAPS susvisé qui a été réalisé et remis au ministre chargé de la santé en application de l'article 2 du décret n° 2005-1618 du 21 décembre 2005. Au vu de cette évaluation, il est apparu possible d'individualiser deux situations distinctes de greffes dans l'objectif de maintenir une balance bénéfice/ risque acceptable pour le receveur au regard notamment du contexte actuel de pénurie d'organes et de stagnation de l'activité de prélèvement constatée ces dernières années :
 
-1. Les greffes d'organes autres que le foie, et de cellules souches hématopoïétiques (CSH) ou de cellules mononucléées (CMN) réalisées à partir de donneurs présentant un profil sérologique dit infection ancienne guérie (antigène HBs négatif, anticorps anti-HBc positif, anticorps anti-HBs positif : Ag HBs -, Ac anti-HBc +, Ac anti-HBs +).
+1. Les greffes d'organes autres que le foie, et de cellules souches hématopoïétiques (CSH) ou de cellules mononucléées (CMN) réalisées à partir de donneurs présentant un profil sérologique dit infection ancienne guérie (antigène HBs négatif, anticorps anti-HBc positif, anticorps anti-HBs positif : Ag HBs-, Ac anti-HBc +, Ac anti-HBs +).
 
 Ces greffes sont réalisées en application du deuxième alinéa de l'article R. 1211-14 du code de la santé publique.
 
@@ -18,7 +18,7 @@ Toutefois, elles doivent faire l'objet d'un suivi des marqueurs de l'infection p
 
 Les conditions de réalisation de ces greffes sont décrites dans le paragraphe I de la présente annexe.
 
-2. Les greffes d'organes (y compris de foie) et de CSH ou de CMN réalisées à partir de donneurs présentant des anticorps anti-HBc isolés (1) (Ag HBs -, Ac anti-HBc +, Ac anti-HBs -) ainsi que les greffes hépatiques réalisées à partir de donneurs présentant un profil dit infection ancienne guérie (Ag HBs -, Ac anti-HBc +, Ac anti-HBs +).
+2. Les greffes d'organes (y compris de foie) et de CSH ou de CMN réalisées à partir de donneurs présentant des anticorps anti-HBc isolés (1) (Ag HBs-, Ac anti-HBc +, Ac anti-HBs-) ainsi que les greffes hépatiques réalisées à partir de donneurs présentant un profil dit infection ancienne guérie (Ag HBs-, Ac anti-HBc +, Ac anti-HBs +).
 
 Ces greffes sont réalisées en application du deuxième alinéa de l'article R. 1211-21 du code de la santé publique qui en détermine les conditions de réalisation.
 
@@ -32,11 +32,13 @@ Les dispositions générales relatives à la biovigilance telles que définies a
 
 Le recours à des donneurs présentant un profil dit portage aigu ou chronique (antigène HBs positif ou virémie à VHB) ne peut se justifier que dans le cadre d'une urgence vitale et en l'absence d'alternatives thérapeutiques. Ce type de greffe encadré par l'article R. 1211-22 du code de la santé publique ne fait pas l'objet du présent arrêté.
 
+3.-Enfin, le présent arrêté traite des conditions de greffe de certains tissus provenant de donneurs présentant un profil sérologique dit " infection ancienne guérie " (non porteurs de l'antigène HBs [Ag HBs] et présentant une sérologie positive pour les Ac anti-HBc associée à une sérologie positive pour les Ac anti-HBs). Les tissus concernés sont ceux pour lesquels a été identifié un besoin quantitatif (manque de greffons disponibles) ou qualitatif (manque de greffons adaptés pour le receveur), à savoir les cornées, les valves cardiaques, les artères, la peau et les os massifs. Les tissus ainsi énumérés peuvent être greffés si le risque prévisible encouru en l'état actuel des connaissances scientifiques n'est pas hors de proportion avec le bénéfice escompté. Les conditions de réalisation de ces greffes sont précisées au B du paragraphe I de la présente annexe.
+
 (1) La présence d'anticorps anti-HBc isolés peut correspondre à une réaction non spécifique, à un portage possible ou à un contact ancien avec le VHB.
 
-I. - Conditions d'utilisation des organes autres que le foie et des cellules souches hématopoïétiques (CSH) ou des cellules mononucléées (CMN) provenant de donneurs présentant un profil sérologique dit infection ancienne guérie (antigène HBs négatif, anticorps anti-HBc positif, anticorps anti-HBs positif : Ag HBs -, Ac anti-HBc +, Ac anti-HBs +)
+I.-Conditions d'utilisation des organes autres que le foie, des tissus et des cellules souches hématopoïétiques (CSH) ou des cellules mononucléées (CMN) provenant de donneurs présentant un profil sérologique dit infection ancienne guérie (antigène HBs négatif, anticorps anti-HBc positif, anticorps anti-HBs positif : Ag HBs-, Ac anti-HBc +, Ac anti-HBs +)
 
-A. - ORGANES (SAUF LE FOIE)
+A.-ORGANES (SAUF LE FOIE)
 
 1. Prérequis clinique
 
@@ -64,17 +66,35 @@ En cas de non-protection vis-à-vis du virus de l'hépatite B, le patient greff�
 
 L'équipe médicale met en place un suivi périodique, clinique, sérologique et virologique du patient greffé permettant notamment de définir son statut au regard du virus de l'hépatite B. Ce suivi s'inscrit dans le cadre général du suivi médical des patients greffés ; néanmoins, il doit être adapté selon :
 
-- le résultat du dépistage génomique viral du donneur dont le résultat peut être obtenu en postgreffe ;
+-le résultat du dépistage génomique viral du donneur dont le résultat peut être obtenu en postgreffe ;
 
-- la nature du greffon ;
+-la nature du greffon ;
 
-- le profil sérologique du receveur ;
+-le profil sérologique du receveur ;
 
-- l'état clinique du receveur et les thérapeutiques prescrites.
+-l'état clinique du receveur et les thérapeutiques prescrites.
 
 L'ensemble de ces informations doit être documenté de façon évidente et facilement accessible dans le dossier médical du patient.
 
-B. - CELLULES
+B.-Tissus (cornées, valves cardiaques, artères, peau et os massifs).
+
+1. Prérequis clinique :
+
+Les greffes de cornées, de valves cardiaques, d'artères, de peau et d'os massifs réalisées à partir de greffons issus de donneurs présentant un profil dit " infection ancienne guérie " (antigène HBs négatif, anticorps anti-HBc positif, anticorps anti-HBs positif) peuvent être réalisées chez tout receveur lorsque le dépistage génomique viral du VHB montre l'absence de réplication virale chez le donneur. Cet examen est, a contrario de la sélection biologique des donneurs d'organes où le résultat ne peut pas toujours être connu en prégreffe, conciliable avec les délais d'obtention des résultats.
+
+2. Information et consentement :
+
+Au moment où l'indication de greffe est posée, le receveur sera informé de l'éventualité de se voir attribuer un tissu provenant d'un donneur présentant un profil dit " infection ancienne guérie ". Cette information adaptée en fonction de la catégorie de tissus concernée doit être documentée dans le dossier médical du patient.
+
+Le consentement éclairé du patient est requis avant la greffe dans les conditions prévues aux articles L. 1111-4 et suivants du code de la santé publique.
+
+En tout état de cause, le patient a la possibilité de se rétracter à tout moment.
+
+3. Information des équipes médicales :
+
+L'utilisation des tissus mentionnés dans le présent paragraphe doit être documentée et portée à la connaissance des équipes médicales de greffe ainsi qu'à celle du médecin prenant en charge le patient en postgreffe.
+
+C.-CELLULES
 
 1. Prérequis clinique
 
@@ -96,19 +116,19 @@ L'utilisation d'un greffon issu d'un donneur présentant un profil dit infection
 
 L'équipe médicale met en place un suivi périodique, clinique, sérologique et virologique du patient greffé, permettant notamment de définir son statut au regard du virus de l'hépatite B. Ce suivi s'inscrit dans le cadre général du suivi médical des receveurs de CSH et de CMN, néanmoins il doit être adapté selon :
 
-- le profil sérologique du receveur ;
+-le profil sérologique du receveur ;
 
-- l'état clinique du receveur et les thérapeutiques prescrites.
+-l'état clinique du receveur et les thérapeutiques prescrites.
 
 L'ensemble de ces informations doit être documenté de façon évidente et facilement accessible dans le dossier médical du patient.
 
-II. - Conditions d'utilisation des organes (y compris le foie) et des CSH ou CMN provenant de donneurs présentant des anticorps anti-HBc isolés (Ag HBs -, Ac anti-HBc +, Ac anti-HBs -) et des greffons hépatiques de donneurs présentant un profil dit infection ancienne guérie (Ag HBs -, Ac anti-HBc +, Ac anti-HBs +)
+II.-Conditions d'utilisation des organes (y compris le foie) et des CSH ou CMN provenant de donneurs présentant des anticorps anti-HBc isolés (Ag HBs-, Ac anti-HBc +, Ac anti-HBs-) et des greffons hépatiques de donneurs présentant un profil dit infection ancienne guérie (Ag HBs-, Ac anti-HBc +, Ac anti-HBs +)
 
 L'article R. 1211-21 du code de la santé publique autorise la réalisation de ces greffes de façon pérenne mais à titre dérogatoire au regard du principe de l'interdiction de greffer. Elles ne peuvent être réalisées que dans les seuls cas où le pronostic vital est engagé et lorsque les alternatives thérapeutiques deviennent inappropriées.
 
 Le texte précité prévoit un encadrement de ce type de greffes sous la forme de recommandations qui ont pour objet d'accompagner les équipes médicales dans leur choix et de leur permettre d'assurer un suivi sérologique, virologique et histologique des receveurs greffés à partir d'un greffon provenant d'un donneur présentant des marqueurs de l'infection par le virus de l'hépatite B. Le respect de ces recommandations apparaît comme un élément essentiel pour assurer la sécurité des receveurs.
 
-A. - ORGANES
+A.-ORGANES
 
 1. Prérequis clinique
 
@@ -136,13 +156,13 @@ En cas de non-protection vis-à-vis du virus de l'hépatite B, le patient greff�
 
 L'équipe médicale met en place une prise en charge et un suivi périodique du receveur permettant notamment de définir son statut au regard du virus de l'hépatite B. Ce suivi s'inscrit dans le cadre général du suivi médical des receveurs, néanmoins il doit être adapté selon :
 
-- le résultat du dépistage génomique viral du donneur dont le résultat peut être obtenu en postgreffe ;
+-le résultat du dépistage génomique viral du donneur dont le résultat peut être obtenu en postgreffe ;
 
-- la nature du greffon ;
+-la nature du greffon ;
 
-- les profils sérologiques du donneur et du receveur ;
+-les profils sérologiques du donneur et du receveur ;
 
-- l'état clinique du receveur et les thérapeutiques prescrites.
+-l'état clinique du receveur et les thérapeutiques prescrites.
 
 L'ensemble de ces informations doit être documenté de façon évidente et facilement accessible dans le dossier médical du patient.
 
@@ -152,13 +172,13 @@ Le dispositif juridique de sécurité sanitaire permet de prélever les donneurs
 
 Même si les atteintes hépatiques sévères liées à l'infection constituent une contre-indication évidente, une liste exhaustive des contre-indications est difficile à prévoir et relève du cas par cas.
 
-Aussi, pour les prélèvements hépatiques envisagés sur des donneurs présentant un profil dit infection ancienne guérie (Ag HBs -, Ac anti-HBc +, Ac anti-HBs +) ou des anticorps anti-HBc isolés (Ag HBs -, Ac anti-HBc +, Ac anti-HBs -), les équipes de greffes doivent consulter un comité d'experts ad hoc placé auprès de l'Agence de la biomédecine qui analysera la situation médicale du donneur.
+Aussi, pour les prélèvements hépatiques envisagés sur des donneurs présentant un profil dit infection ancienne guérie (Ag HBs-, Ac anti-HBc +, Ac anti-HBs +) ou des anticorps anti-HBc isolés (Ag HBs-, Ac anti-HBc +, Ac anti-HBs-), les équipes de greffes doivent consulter un comité d'experts ad hoc placé auprès de l'Agence de la biomédecine qui analysera la situation médicale du donneur.
 
-B. - CELLULES
+B.-CELLULES
 
 1. Prérequis clinique
 
-Les greffes de cellules souches hématopoïétiques et de cellules mononucléées réalisées à partir de greffons issus de donneurs présentant des anticorps anti-HBc isolés (Ag HBs -, Ac HBc +, Ac HBs -) peuvent être réalisées chez tout receveur lorsque le dépistage génomique viral du VHB montre l'absence de réplication virale chez le donneur. Cet examen est, a contrario de la sélection biologique des donneurs d'organes où le résultat ne peut pas toujours être connu en prégreffe, conciliable avec les délais d'obtention des résultats.
+Les greffes de cellules souches hématopoïétiques et de cellules mononucléées réalisées à partir de greffons issus de donneurs présentant des anticorps anti-HBc isolés (Ag HBs-, Ac HBc +, Ac HBs-) peuvent être réalisées chez tout receveur lorsque le dépistage génomique viral du VHB montre l'absence de réplication virale chez le donneur. Cet examen est, a contrario de la sélection biologique des donneurs d'organes où le résultat ne peut pas toujours être connu en prégreffe, conciliable avec les délais d'obtention des résultats.
 
 2. Information et consentement
 
@@ -176,23 +196,23 @@ L'utilisation d'un greffon issu d'un donneur porteur de marqueurs du VHB doit ê
 
 L'équipe médicale met en place une prise en charge et un suivi périodique du patient greffé permettant notamment de définir son statut au regard du virus de l'hépatite B. Ce suivi s'inscrit dans le cadre général du suivi médical des receveurs de CSH et CMN ; néanmoins, il doit être adapté selon :
 
-- les profils sérologiques du donneur et du receveur ;
+-les profils sérologiques du donneur et du receveur ;
 
-- l'état clinique du receveur et les thérapeutiques prescrites.
+-l'état clinique du receveur et les thérapeutiques prescrites.
 
 L'ensemble de ces informations doit être documenté de façon évidente et facilement accessible dans le dossier médical du patient.
 
-C. - ÉCHANTILLOTHÈQUES (TISSUTHÈQUE, CELLULOTHÈQUE, PLASMATHÈQUE, SÉROTHÈQUE)
+C.-ÉCHANTILLOTHÈQUES (TISSUTHÈQUE, CELLULOTHÈQUE, PLASMATHÈQUE, SÉROTHÈQUE)
 
 Les greffes d'organes ou de cellules réalisées dans le cadre du présent paragraphe II nécessitent la constitution, d'une part, d'une échantillothèque du donneur et, d'autre part, d'une sérothèque-plasmathèque du patient dans le cadre de la biovigilance.
 
-L'échantillothèque du donneur nécessite la conservation, pour une période de dix ans, à une température minimale de - 80 °C, soit :
+L'échantillothèque du donneur nécessite la conservation, pour une période de dix ans, à une température minimale de-80° C, soit :
 
-- de 2 ml de sérum, 2 ml de plasma, 2 ml de sang total ainsi que, dans le cas des greffes de foie, d'un échantillon de tissu hépatique ;
+-de 2 ml de sérum, 2 ml de plasma, 2 ml de sang total ainsi que, dans le cas des greffes de foie, d'un échantillon de tissu hépatique ;
 
-- soit de 2 ml du greffon cellulaire pour les greffes de CSH ou de CMN.
+-soit de 2 ml du greffon cellulaire pour les greffes de CSH ou de CMN.
 
-L'échantillothèque du patient nécessite la conservation, pour une période de dix ans, à une température minimale de - 80 °C de 2 ml de sérum et de 2 ml de plasma.
+L'échantillothèque du patient nécessite la conservation, pour une période de dix ans, à une température minimale de-80° C de 2 ml de sérum et de 2 ml de plasma.
 
 Les laboratoires en charge de ces échantillothèques tracent les températures de conservation des échantillons, les données individuelles rattachées à chaque échantillon. Ils s'assurent de la mise en place de l'informatisation, de la sécurisation et de l'accessibilité des échantillons et des données associées.
 
@@ -204,15 +224,15 @@ Le matériel utilisé pour le prélèvement des échantillons est défini en rel
 
 Doivent être prélevés :
 
-- du sang total sur tube sec. Ce tube permettra de séparer et d'aliquoter le sérum ;
+-du sang total sur tube sec. Ce tube permettra de séparer et d'aliquoter le sérum ;
 
-- du sang total sur tube EDTA. Ce tube permettra de séparer et d'aliquoter le plasma ;
+-du sang total sur tube EDTA. Ce tube permettra de séparer et d'aliquoter le plasma ;
 
-- du sang total sur tube EDTA pour la conservation et l'aliquotage du sang total ;
+-du sang total sur tube EDTA pour la conservation et l'aliquotage du sang total ;
 
-- dans le cas des prélèvements de CSH ou de CMN à visée de greffe : un échantillon du greffon ;
+-dans le cas des prélèvements de CSH ou de CMN à visée de greffe : un échantillon du greffon ;
 
-- pour les greffes de foie : un échantillon de tissu hépatique d'un volume suffisant pour la réalisation ultérieure, le cas échéant, d'une recherche de charge virale et de séquençage du génome viral. Cet échantillon peut être celui utilisé pour l'appréciation de la qualité du parenchyme hépatique (degré de fibrose).
+-pour les greffes de foie : un échantillon de tissu hépatique d'un volume suffisant pour la réalisation ultérieure, le cas échéant, d'une recherche de charge virale et de séquençage du génome viral. Cet échantillon peut être celui utilisé pour l'appréciation de la qualité du parenchyme hépatique (degré de fibrose).
 
 Le volume des échantillons prélevés est à adapter en fonction de l'âge, du poids du donneur et du contexte clinique pour répondre aux exigences de prise en charge et de suivi du donneur après la greffe.
 
@@ -222,9 +242,9 @@ Le matériel utilisé pour le prélèvement des échantillons sera défini en re
 
 Doivent être prélevés :
 
-- du sang total sur tube sec. Ce tube permettra de séparer et d'aliquoter le sérum ;
+-du sang total sur tube sec. Ce tube permettra de séparer et d'aliquoter le sérum ;
 
-- du sang total sur tube EDTA. Ce tube permettra de séparer et d'aliquoter le plasma.
+-du sang total sur tube EDTA. Ce tube permettra de séparer et d'aliquoter le plasma.
 
 En postgreffe, il peut être utile de conserver des échantillons collectés à l'occasion du suivi des patients. La périodicité de prélèvement des échantillons est laissée à l'appréciation des équipes.
 
@@ -232,7 +252,7 @@ En postgreffe, il peut être utile de conserver des échantillons collectés à 
 
 3.1. Transport :
 
-La température doit être comprise entre +18 °C et + 24 °C.
+La température doit être comprise entre + 18° C et + 24° C.
 
 3.2. Délai entre le prélèvement et la congélation :
 
@@ -294,15 +314,15 @@ Le cas échéant :
 
 A minima, les informations suivantes apparaissent sur les conditionnements primaires (cryotubes ou tout autre dispositif destiné à conserver les échantillons congelés) :
 
-- nom, prénom ou code ;
+-nom, prénom ou code ;
 
-- date de prélèvement ;
+-date de prélèvement ;
 
-- type d'échantillon (en particulier sérum ou plasma).
+-type d'échantillon (en particulier sérum ou plasma).
 
 3.4.5. La congélation :
 
-Les échantillons (issus du sang ou de la tissuthèque) sont congelés le plus rapidement possible à une température minimum de - 80 °C selon les procédures mises en œuvre par le centre de conservation.
+Les échantillons (issus du sang ou de la tissuthèque) sont congelés le plus rapidement possible à une température minimum de-80° C selon les procédures mises en œuvre par le centre de conservation.
 
 Le traitement des échantillons du parenchyme hépatique doit permettre ultérieurement la réalisation des analyses virologiques éventuelles, en conséquence la fixation des tissus n'est pas recommandée
 
@@ -314,8 +334,8 @@ a) La traçabilité des températures de conservation durant toute la durée de 
 
 b) La traçabilité des échantillons. Celle-ci doit permettre notamment :
 
-- de retrouver sans délai le lieu de conservation de l'échantillon (cartographie des congélateurs, cuves, compartiments, boîte avec position des échantillons) ;
+-de retrouver sans délai le lieu de conservation de l'échantillon (cartographie des congélateurs, cuves, compartiments, boîte avec position des échantillons) ;
 
-- de répertorier toutes les non-conformités survenues depuis l'échantillonnage ;
+-de répertorier toutes les non-conformités survenues depuis l'échantillonnage ;
 
-- d'avoir accès aux conditions de mise en œuvre de la congélation, voire de la décongélation des échantillons (délai entre le décès et le prélèvement pour les donneurs prélevés en chambre mortuaire, délai entre le prélèvement et la congélation, motifs des décongélations éventuelles, traçabilité de l'historique des mouvements pour les échantillons issus d'un donneur ou d'un receveur donné...).
+-d'avoir accès aux conditions de mise en œuvre de la congélation, voire de la décongélation des échantillons (délai entre le décès et le prélèvement pour les donneurs prélevés en chambre mortuaire, délai entre le prélèvement et la congélation, motifs des décongélations éventuelles, traçabilité de l'historique des mouvements pour les échantillons issus d'un donneur ou d'un receveur donné...).
