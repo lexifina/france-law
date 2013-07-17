@@ -1,0 +1,54 @@
+# Fonction publique : déontologie et droits et obligations des fonctionnaires
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N30875
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/deontologie_droits_obligations_fonctionnaires
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-041.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-07-17 : 1er dépôt d'une initiative. (PRJLANR5L14B1278)
+  - 2015-06-17 : Dépôt d'une lettre rectificative. (LETTANR5L14B2880)
+  - 2013-07-17 : Etude d'impact (ETDIANR5L14B1278)
+  - 2015-06-17 : Avis du Conseil d'Etat (AVCEANR5L14B2880)
+  - 2015-07-31 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-07-17 : Renvoi en commission au fond
+      - 2013-09-18 : Nomination de rapporteur
+      - 2015-10-01 : Réunion de commission
+      - 2015-10-01 : Dépôt de rapport (RAPPANR5L14B3099, PRJLANR5L14BTC3099)
+  - Discussion en séance publique
+    - 2015-10-07 : Discussion en séance publique
+    - 2015-10-07 : Discussion en séance publique
+    - 2015-10-07 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-10-09 : Dépôt d'une initiative en navette (PRJLSNR5S259B0041)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-10-09 : Renvoi en commission au fond
+      - 2015-11-04 : Nomination de rapporteur
+      - 2015-12-16 : Dépôt de rapport (RAPPSNR5S259B0274)
+  - Discussion en séance publique
+    - 2016-01-26 : Discussion en séance publique
+    - 2016-01-27 : Discussion en séance publique
+    - 2016-01-27 : Décision
+- Commission Mixte Paritaire
+  - 2016-01-28 : Dépôt d'un projet de loi (PRJLANR5L14B3453)
+  - 2016-01-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-03-29 : Nomination de rapporteur
+    - 2016-03-29 : Dépôt du rapport d'une CMP (RAPPANR5L14B3604)
+    - 2016-03-29 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0506)
+  - Discussion en séance publique
+    - 2016-04-05 : Discussion en séance publique
+    - 2016-04-05 : Discussion en séance publique
+    - 2016-04-05 : Décision
+  - Discussion en séance publique
+    - 2016-04-07 : Discussion en séance publique
+    - 2016-04-07 : Décision
+  - 2016-03-30 : Décision de la CMP
+- Promulgation de la loi
+  - 2016-04-20 : Promulgation d'une loi
