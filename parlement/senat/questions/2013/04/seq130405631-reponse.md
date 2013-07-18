@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130405631
+
+- Question : [SEQ130405631](seq130405631.md) — Promotion de la volaille française
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2013-07-18, page 2107*
+
+En France, la production de volaille de chair a connu une baisse de l'ordre de 20 % sur les dix dernières années. Aujourd'hui 30 % de la consommation française de viandes de volailles est importée et cette proportion atteint près de 45 % pour le poulet. La filière française, bien que disposant du potentiel en termes de matières premières agricoles, d'infrastructures et de savoir-faire, subit, depuis plusieurs années, des pertes de parts de marché tant en France qu'à l'exportation. Un plan d'avenir de la filière, prenant en compte la production, la reconquête du marché intérieur et la stratégie commerciale a été présenté le 18 avril 2013. Un des objectif est de mieux valoriser la production française, au-delà des signes de qualité. Le Gouvernement défend au niveau communautaire l'étiquetage obligatoire de l'origine pour tous les produits à base de viande. Dans l'attente et pour se préparer, la filière devra développer le cahier des charges « volailles de France », intégrant, au-delà de la stricte origine, la qualité sanitaire, les normes de bien-être et les conditions environnementales et sociales de production notamment. Ceci pourra s'inscrire dans la démarche volontaire transversale en cours de réflexion sur un socle commun « viandes de France » permettant de revaloriser toutes les viandes françaises. Une véritable stratégie collective de promotion devra être mise en place. Le travail sur la réduction des gammes de produits devra se poursuivre pour permettre aux entreprises d'avoir des stratégies diversifiées. La filière devra également s'appuyer sur les outils existants d'appui à l'export pour se développer sur de nouveaux marchés.
