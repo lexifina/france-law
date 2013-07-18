@@ -308,6 +308,16 @@ Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aé
 
 Utilisable par les hélicoptères. |
 
+Kourou
+
+|
+
+Guyane
+
+|
+
+Réservé aux aéronefs basés et aux pilotes autorisés pour une utilisation dans le cadre des activités opérationnelles de la base spatiale et pour des évacuations sanitaires en situation de crise accidentelle majeure. |
+
 L'Alpe-d'Huez |
 
 Isère |
