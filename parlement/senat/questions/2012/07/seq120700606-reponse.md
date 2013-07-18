@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700606
+
+- Question : [SEQ120700606](seq120700606.md) — Classement des communes en qualité de communes rurales
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2013-07-18, page 2122*
+
+L'article D. 3334-8-1 du code général des collectivités territoriales (CGCT) précise les critères utilisés pour définir les communes rurales pour l'application des articles L. 3334-10 et R. 3334-8, relatifs à la dotation globale d'équipement des départements. La répartition de cette dotation entre les départements repose entre autres sur la réalisation de « travaux d'équipement rural », notion qui doit s'interpréter comme travaux d'équipements réalisés dans une commune définie comme rurale, dans le cadre des articles relatifs à la répartition de la dotation concernée. La définition de commune rurale, qui s'appuie notamment sur le découpage en unités urbaines réalisé par l'institut national de la statistique et des études économiques(INSEE), est donc circonscrite à l'application de ces articles. Ce zonage, élaboré à des fins statistiques, repose sur la notion de continuité du bâti. Il a été actualisé sur la base des données géographiques et démographiques de 2010, prenant en compte les évolutions enregistrées depuis 1999, date du précédent zonage et devrait rester stable pendant quelques années. L'État établit donc chaque année la liste des communes concernées dans le respect des articles du CGCT relatifs à la dotation globale d'équipement des départements, en fonction des évolutions démographiques des communes. En ce qui concerne les subventions des agences de l'eau, ces dernières ne sont pas dans le champ d'application des articles précités. Il appartient aux agences de fixer les critères pour définir les communes éligibles ou non à ces subventions.
