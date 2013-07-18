@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506187
+
+- Question : [SEQ130506187](seq130506187.md) — Mode de fonctionnement des commissions de réforme des agents de la fonction publique territoriale
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2013-07-18, page 2124*
+
+Les commissions de réforme des agents de la fonction publique territoriale comprennent, outre le président qui ne prend pas part aux votes, des médecins, des représentants des collectivités et des représentants du personnel. En application du dernier alinéa de l'article 8 de l'arrêté du 4 août 2004 relatif aux commissions de réforme des agents de la fonction publique territoriale et de la fonction publique hospitalière, tous les membres de la commission de réforme sont soumis aux obligations de secret et de discrétion professionnelle pour tous les faits, informations ou documents dont ils ont eu connaissance en cette qualité. Aux termes de l'article 16 du même arrêté, la commission de réforme doit être saisie de tous témoignages, rapports et constatations propres à éclairer son avis. Par ailleurs, l'article 19 de l'arrêté prévoit que pour l'examen des droits prévus en matière d'invalidité, la commission de réforme se prononce, soit au vu des pièces médicales contenues dans les dossiers ou de toutes nouvelles attestations médicales qui pourraient être demandées aux intéressés, soit en faisant comparaître devant elle l'agent lui-même. Les membres non médecins de la commission de réforme peuvent donc prendre connaissance de la partie médicale du dossier pour émettre leur avis. Ils sont tenus en conséquence à l'obligation de secret et de discrétion professionnelle. Enfin, l'avis rendu par la commission de réforme à la majorité de ses membres présents doit être motivé, dans le respect du secret médical.
