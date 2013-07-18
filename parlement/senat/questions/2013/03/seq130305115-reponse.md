@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305115
+
+- Question : [SEQ130305115](seq130305115.md) — Situation des salariés de l'usine de thé Fralib installée à Gémenos
+
+## Réponse
+
+*Redressement productif, JO du 2013-07-18, page 2121*
+
+L'usine Fralib, du groupe Unilever, située à Gémenos, entreprise de conditionnement de sachets de thé et d'infusions de marques « leaders » (Lipton, Eléphant...) appartient au groupe Unilever et fait l'objet d'un projet de fermeture depuis plus de 2 ans. Depuis 2007, la société a initié un mouvement de restructuration qui a déjà conduit à la suppression d'une quarantaine de postes. Certains salariés ont décidé de porter un projet de société coopérative et participative (SCOP) afin de reprendre l'activité du site. Cependant, ce projet est lié à la cession de la marque Eléphant ainsi qu'à la sous-traitance de volume de production par Unilever. Les services de l'État sont mobilisés pour permettre la préservation de l'emploi dans la région. Un dialogue a été noué entre les différents acteurs afin de parvenir à un accord. Le Président de la République, ainsi que différents ministres, ont rencontré les salariés de Fralib afin de faire un point sur la situation de l'usine. L'acquisition du site par la communauté urbaine de Marseille et la cession à l'euro symbolique de l'intégralité des machines par Unilever permettent d'envisager un véritable projet industriel sur le site. Ces résultats sont le fruit de l'implication des salariés, de la mobilisation de l'État et des collectivités locales concernées. Ces avancées encourageantes montrent que le dialogue doit se poursuivre et les services du Préfet de région continuent leur action pour permettre de trouver une solution satisfaisante pour toutes les parties. Le ministre du redressement productif continue d'œuvrer pour faire avancer ce dossier.
