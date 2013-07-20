@@ -1,8 +1,6 @@
 # Article Annexe I
 
-LISTE DES SUBSTANCES ACTIVES ET DES EXIGENCES S'Y RAPPORTANT APPROUVÉES
-
-AU NIVEAU COMMUNAUTAIRE POUR INCLUSION DANS LES PRODUITS BIOCIDES
+LISTE DES SUBSTANCES ACTIVES ET DES EXIGENCES S'Y RAPPORTANT APPROUVÉESAU NIVEAU COMMUNAUTAIRE POUR INCLUSION DANS LES PRODUITS BIOCIDES
 
 Type de produit 8 : produits de protection du bois
 
@@ -196,7 +194,7 @@ Aux fins de cette évaluation :
 
 |
 
-I. - Pour les produits contenant de la clothianidine comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et inscrites au plus tard au 1er février 2010 :
+I. - Pour les produits contenant de la clothianidine comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er février 2010 :
 
 1° Pour les produits dont la première mise sur le marché est antérieure au 1er février 2010 :
 
@@ -208,7 +206,7 @@ c) Les produits pour lesquels un dossier a été déposé mais est jugé non rec
 
 2° A compter du 1er février 2010, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
 
-II. - Pour les produits contenant de la clothianidine comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et qui ne sont pas inscrites au 1er février 2010 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+II. - Pour les produits contenant de la clothianidine comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er février 2010 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
 
 |
 
@@ -254,7 +252,7 @@ Aux fins de cette évaluation :
 
 |
 
-I. - Pour les produits contenant de l'étofenprox comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et inscrites au plus tard au 1er février 2010 :
+I. - Pour les produits contenant de l'étofenprox comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er février 2010 :
 
 1° Pour les produits dont la première mise sur le marché est antérieure au 1er février 2010 :
 
@@ -266,9 +264,7 @@ c) Les produits pour lesquels un dossier a été déposé mais est jugé non rec
 
 2° A compter du 1er février 2010, pour les produits non visés au paragraphe 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l' article L. 522-4 du code de l'environnement
 
-II. - Pour les produits contenant de l'étofenprox comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et qui ne sont pas inscrites au 1er février 2010 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
-
-|
+II. - Pour les produits contenant de l'étofenprox comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et qui ne sont pas inscrites au 1er février 2010 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive. |
 
 Thiaméthoxame
 
@@ -310,7 +306,7 @@ Aux fins de cette évaluation :
 
 |
 
-I. - Pour les produits contenant du thiaméthoxame comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et inscrites au plus tard au 1er juillet 2010 :
+I. - Pour les produits contenant du thiaméthoxame comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er juillet 2010 :
 
 1° Pour les produits dont la première mise sur le marché est antérieure au 1er juillet 2010 :
 
@@ -326,7 +322,9 @@ II. - Pour les produits contenant du thiaméthoxame comme substance active assoc
 
 |
 
-Propiconazole. |
+Propiconazole.
+
+|
 
 Identité :
 
@@ -360,7 +358,9 @@ Aux fins de cette évaluation :
 
 |
 
-31 mars 2020 |
+31 mars 2020
+
+|
 
 I. - Pour les produits contenant du propiconazole comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er avril 2010 :
 
@@ -378,7 +378,9 @@ II. - Pour les produits contenant du propiconazole comme substance active associ
 
 |
 
-IPBC. |
+IPBC.
+
+|
 
 Identité :
 
@@ -410,9 +412,11 @@ Aux fins de cette évaluation :
 
 |
 
-30 juin 2020 |
+30 juin 2020
 
-I. - Pour les produits contenant de l'IPBC comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451 / 2007 et inscrites au plus tard au 1er juillet 2010 :
+|
+
+I. - Pour les produits contenant de l'IPBC comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er juillet 2010 :
 
 1° Pour les produits dont la première mise sur le marché est antérieure au 1er juillet 2010 :
 
@@ -428,7 +432,9 @@ II. - Pour les produits contenant de l'IPBC comme substance active associée à 
 
 |
 
-K-HDO. |
+K-HDO.
+
+|
 
 Identité :
 
@@ -458,9 +464,13 @@ Aux fins de cette évaluation :
 
 |
 
-1er juillet 2010 |
+1er juillet 2010
 
-30 juin 2020 |
+|
+
+30 juin 2020
+
+|
 
 I. - Pour les produits contenant du K-HDO comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er juillet 2010 :
 
@@ -478,7 +488,9 @@ II. - Pour les produits contenant du K-HDO comme substance active associée à u
 
 |
 
-Thiabendazole. |
+Thiabendazole.
+
+|
 
 Identité :
 
@@ -506,9 +518,13 @@ Aux fins de cette évaluation :
 
 |
 
-1er juillet 2010 |
+1er juillet 2010
 
-30 juin 2020 |
+|
+
+30 juin 2020
+
+|
 
 I. - Pour les produits contenant du thiabendazole comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er juillet 2010 :1° Pour les produits dont la première mise sur le marché est antérieure au 1er juillet 2010 :
 
@@ -524,7 +540,9 @@ II. - Pour les produits contenant du thiabendazole comme substance active associ
 
 |
 
-Tébuconazole. |
+Tébuconazole.
+
+|
 
 Identité :
 
@@ -550,7 +568,9 @@ Aux fins de cette évaluation :
 
 |
 
-1er avril 2010 |
+1er avril 2010
+
+|
 
 31 mars 2020
 
@@ -1166,7 +1186,7 @@ N° CE : 276-696-7
 
 N° CAS : 72490-01-8
 
-Pureté minimale : 960 g/ kg
+Pureté minimale : 960 g/kg
 
 |
 
@@ -1340,7 +1360,7 @@ N° CAS : 20427-59-2
 
 Pureté minimale :
 
-≥ 965 g/ kg
+≥ 965 g/kg
 
 |
 
@@ -1400,7 +1420,7 @@ N° CAS : 1317-38-0
 
 Pureté minimale :
 
-≥ 976 g/ kg
+≥ 976 g/kg
 
 |
 
@@ -1610,6 +1630,80 @@ Sans objet (nouvelle substance active)
 
 |
 
+Cyanure d'hydrogène
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+Cyanure d'hydrogène
+
+N° CE : 200-821-6
+
+N° CAS : 74-90-8
+
+Pureté minimale :
+
+976 g/kg
+
+|
+
+Lorsqu'ils examinent une demande d'autorisation d'un produit conformément à l'article 5 et à l'annexe VI, les Etats membres étudient, si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations humaines et les milieux de l'environnement qui n'ont pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union.
+
+Les Etats membres veillent à ce que les autorisations de produits destinés à être utilisés en tant qu'agent de fumigation soient soumises aux conditions suivantes :
+
+1° Le produit ne peut être fourni qu'à des professionnels adéquatement formés à son utilisation et son usage est réservé à ces professionnels ;
+
+2° Des procédures opérationnelles sûres doivent être appliquées lors de la fumigation, et de la ventilation pour protéger les opérateurs et les autres personnes présentes ;
+
+3° La personne utilisant les produits doit porter un équipement de protection individuelle approprié comportant, le cas échéant, un appareil respiratoire autonome et une combinaison étanche au gaz ;
+
+4° L'accès aux espaces traités est interdit tant que la ventilation n'a pas permis le retour à des niveaux de concentration dans l'air sûrs pour les opérateurs et les autres personnes présentes ;
+
+5° Il faut empêcher que l'exposition pendant et après la ventilation ne dépasse des niveaux sûrs pour les opérateurs et les autres personnes présentes, par l'établissement d'une zone d'exclusion ;
+
+6° Avant la fumigation, toute denrée alimentaire et tout objet poreux susceptible d'absorber la substance active, à l'exception du bois à traiter, doivent être soit retirés de l'espace à traiter par fumigation, soit protégés contre l'absorption par des moyens adéquats et l'espace à traiter doit être protégé contre le risque d'ignition accidentelle.
+
+|
+
+1er octobre 2014
+
+|
+
+30 septembre 2024
+
+|
+
+I. - Pour les produits contenant du cyanure d'hydrogène comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er octobre 2014 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er octobre 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 30 septembre 2014 ;
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 30 septembre 2014 ne doivent plus être mis sur le marché au 30 mars 2015 au plus tard. Leur utilisation est interdite à partir du 30 septembre 2015 ;
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision ;
+
+2° A compter du 1er octobre 2014, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant du cyanure d'hydrogène comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er octobre 2014 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -1674,9 +1768,7 @@ en conformité des produits contenant la substance active avec l'article L. 522-
 
 |
 
-Acroléine
-
-|
+Acroléine |
 
 Identité :
 
@@ -1704,13 +1796,9 @@ Aux fins de cette évaluation, les autorisations sont soumises aux conditions su
 
 |
 
-1er/09/2010
+1er/09/2010 |
 
-|
-
-31/08/2020
-
-|
+31/08/2020 |
 
 Sans objet (nouvelle substance active) : les produits doivent être autorisés avant d'être mis sur le marc |
 
@@ -2326,9 +2414,7 @@ en conformité des produits contenant la substance active avec l'article L. 522-
 
 |
 
-Flocoumafen
-
-|
+Flocoumafen |
 
 Identité :
 
@@ -2360,13 +2446,9 @@ Aux fins de cette évaluation, les autorisations sont soumises aux conditions su
 
 |
 
-1er/10/2011
+1er/10/2011 |
 
-|
-
-30/09/2016
-
-|
+30/09/2016 |
 
 I. - Pour les produits contenant du flocoumafen comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er octobre 2011 :
 
@@ -2552,15 +2634,65 @@ II. - Pour les produits contenant du brodifacoum comme substance active associé
 
 |
 
-|
+Cyanure d'hydrogène
 
 |
 
-|
+Identité :
+
+Dénomination de l'UICPA :
+
+Cyanure d'hydrogène
+
+N° CE : 200-821-6
+
+N° CAS : 74-90-8
+
+Pureté minimale :
+
+976 g/kg
 
 |
 
+Lorsqu'ils examinent une demande d'autorisation d'un produit conformément à l'article 5 et à l'annexe VI, les Etats membres étudient, si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations humaines et les milieux de l'environnement qui n'ont pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union.
+
+Les Etats membres veillent à ce que les autorisations de produits destinés à être utilisés en tant qu'agent de fumigation soient soumises aux conditions suivantes :
+
+1° Le produit ne peut être fourni qu'à des professionnels adéquatement formés à son utilisation et son usage est réservé à ces professionnels ;
+
+2° Des procédures opérationnelles sûres doivent être appliquées lors de la fumigation et de la ventilation pour protéger les opérateurs et les autres personnes présentes ;
+
+3° La personne utilisant les produits doit porter un équipement de protection individuelle approprié comportant, le cas échéant, un appareil respiratoire autonome et une combinaison étanche au gaz ;
+
+4° L'accès aux espaces traités est interdit tant que la ventilation n'a pas permis le retour à des niveaux de concentration dans l'air sûrs pour les opérateurs et les autres personnes présentes ;
+
+5° Il faut empêcher que l'exposition pendant et après la ventilation ne dépasse des niveaux sûrs pour les opérateurs et les autres personnes présentes, par l'établissement d'une zone d'exclusion ;
+
+6° Avant la fumigation, toute denrée alimentaire et tout objet poreux susceptible d'absorber la substance active, à l'exception du bois à traiter, doivent être soit retirés de l'espace à traiter par fumigation, soit protégés contre l'absorption par des moyens adéquats et l'espace à traiter doit être protégé contre le risque d'ignition accidentelle.
+
 |
+
+1er octobre 2014
+
+|
+
+30 septembre 2024
+
+|
+
+I. - Pour les produits contenant du cyanure d'hydrogène comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er octobre 2014 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er octobre 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 30 septembre 2014 ;
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 30 septembre 2014, ne doivent plus être mis sur le marché au 30 mars 2015 au plus tard. Leur utilisation est interdite à partir du 30 septembre 2015 ;
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision ;
+
+2° A compter du 1er octobre 2014, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant du cyanure d'hydrogène comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er octobre 2014 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
 
 |
 
@@ -3540,6 +3672,66 @@ II. - Pour les produits contenant de l'extrait de margousier, comme substance ac
 
 |
 
+Cyanure d'hydrogène
+
+|
+
+Identité :
+
+Dénomination de l'UICPA :
+
+Cyanure d'hydrogène
+
+N° CE : 200-821-6
+
+N° CAS : 74-90-8
+
+Pureté minimale : 976 g/ kg
+
+|
+
+Lorsqu'ils examinent une demande d'autorisation d'un produit conformément à l'article 5 et à l'annexe VI, les Etats membres étudient, si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations humaines et les milieux de l'environnement qui n'ont pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union.
+
+Les Etats membres veillent à ce que les autorisations de produits destinés à être utilisés en tant qu'agent de fumigation soient soumises aux conditions suivantes :
+
+1° Le produit ne peut être fourni qu'à des professionnels adéquatement formés à son utilisation et son usage est réservé à ces professionnels ;
+
+2° Des procédures opérationnelles sûres doivent être appliquées lors de la fumigation et de la ventilation pour protéger les opérateurs et les autres personnes présentes ;
+
+3° La personne utilisant les produits doit porter un équipement de protection individuelle approprié comportant, le cas échéant, un appareil respiratoire autonome et une combinaison étanche au gaz ;
+
+4° L'accès aux espaces traités est interdit tant que la ventilation n'a pas permis le retour à des niveaux de concentration dans l'air sûrs pour les opérateurs et les autres personnes présentes ;
+
+5° Il faut empêcher que l'exposition pendant et après la ventilation ne dépasse des niveaux sûrs pour les opérateurs et les autres personnes présentes, par l'établissement d'une zone d'exclusion ;
+
+6° Avant la fumigation, toute denrée alimentaire et tout objet poreux susceptible d'absorber la substance active, à l'exception du bois à traiter, doivent être soit retirés de l'espace à traiter par fumigation, soit protégés contre l'absorption par des moyens adéquats et l'espace à traiter doit être protégé contre le risque d'ignition accidentelle.
+
+|
+
+1er octobre 2014
+
+|
+
+30 septembre 2024
+
+|
+
+I. - Pour les produits contenant du cyanure d'hydrogène comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er octobre 2014 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er octobre 2013 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 30 septembre 2014 ;
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 30 septembre 2014 ne doivent plus être mis sur le marché au 30 mars 2015 au plus tard. Leur utilisation est interdite à partir du 30 septembre 2015 ;
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision ;
+
+2° A compter du 1er octobre 2014, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant du cyanure d'hydrogène comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er octobre 2014 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
 |
 
 |
@@ -3838,6 +4030,60 @@ II. - Pour les produits contenant de la méthylnonylcétone comme substance acti
 
 |
 
+Cis-tricos-9-ene (muscalure)
+
+|
+
+Identité :
+
+Dénomination de l'UICPA : cis-tricos-9-ene ; (Z)-tricos-9-ene
+
+N° CE : 248-505-7
+
+N° CAS : 27519-02-4
+
+Pureté minimale :
+
+801 g/ kg
+
+|
+
+L'évaluation des risques réalisée au niveau de l'Union n'a pas abordé tous les scénarios d'utilisation et d'exposition possibles ; certains scénarios d'utilisation et d'exposition, tels que l'utilisation en plein air et l'exposition des denrées alimentaires ou aliments pour animaux, ont été exclus. Lorsqu'ils examinent une demande d'autorisation d'un produit conformément à l'article 5 et à l'annexe VI, les Etats membres étudient, si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations humaines et les milieux naturels qui n'ont pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union.
+
+|
+
+1er octobre 2014
+
+|
+
+30 septembre 2024
+
+|
+
+I. - Pour les produits contenant du cis-tricos-9-ene (muscalure) comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er octobre 2014 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er octobre 2014 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 30 septembre 2014 ;
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 30 septembre 2014 ne doivent plus être mis sur le marché au 30 mars 2015 au plus tard. Leur utilisation est interdite à partir du 30 septembre 2015 ;
+
+|
+
+Dans le cas des produits contenant du cis-tricos-9-ene dont des résidus peuvent subsister dans les denrées alimentaires ou les aliments pour animaux, il convient que les Etats membres évaluent la nécessité de fixer de nouvelles limites maximales de résidus (LMR) ou de modifier les limites existantes, conformément au règlement (CE) n° 470/2009 ou au règlement (CE) n° 396/2005, et qu'ils prennent toutes les mesures d'atténuation des risques appropriées pour empêcher le dépassement des LMR applicables.
+
+|
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision ;
+
+|
+
+2° A compter du 1er octobre 2014, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant du cis-tricos-9-ene (muscalure) comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er octobre 2014 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
 |
 
 |
@@ -3952,6 +4198,54 @@ II. - Pour les produits contenant de l'acide chlorhydrique comme substance activ
 
 |
 
+Acide nonanoïque, acide pélargonique
+
+|
+
+Identité :
+
+Dénomination de l'UICPA : acide nonanoïque
+
+N° CE : 203-931-2
+
+N° CAS : 112-05-0
+
+Pureté minimale :
+
+896 g/ kg
+
+|
+
+Lorsqu'ils examinent une demande d'autorisation d'un produit conformément à l'article 5 et à l'annexe VI, les Etats membres étudient, si cela est pertinent pour le produit en question, les utilisations ou scénarios d'exposition ainsi que les risques pesant sur les populations humaines et les milieux naturels qui n'ont pas été pris en considération de manière représentative dans l'évaluation des risques réalisée au niveau de l'Union.
+
+Les Etats membres veillent à ce que les autorisations pour les produits destinés à une utilisation non professionnelle soient subordonnées à la conception d'un emballage visant à réduire au minimum l'exposition de l'utilisateur, à moins qu'il ne puisse être prouvé, dans la demande d'autorisation du produit, que les risques pour la santé humaine peuvent être ramenés à des niveaux acceptables par d'autres moyens.
+
+|
+
+1er octobre 2014
+
+|
+
+30 septembre 2024
+
+|
+
+I. - Pour les produits contenant de l'acide nonanoïque, acide pélargonique comme seule substance active, ou associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et inscrites au plus tard au 1er octobre 2014 :
+
+1° Pour les produits dont la première mise sur le marché est antérieure au 1er octobre 2014 :
+
+a) Le dépôt de dossier doit intervenir au plus tard le 30 septembre 2014 ;
+
+b) Les produits pour lesquels aucun dossier n'a été déposé au 30 septembre 2014 ne doivent plus être mis sur le marché au 30 mars 2015 au plus tard. Leur utilisation est interdite à partir du 30 septembre 2015 ;
+
+c) Les produits pour lesquels un dossier a été déposé mais est jugé non recevable, ou qui ne sont pas autorisés, ne sont plus mis sur le marché au plus tard six mois après la notification de la décision, sauf disposition contraire dans cette décision. Leur utilisation est interdite douze mois après la notification de la décision, sauf disposition contraire dans cette décision.
+
+2° A compter du 1er octobre 2014, pour les produits non visés au 1° : les produits ne peuvent être mis sur le marché qu'après la délivrance de l'autorisation prévue à l'article L. 522-4 du code de l'environnement.
+
+II. - Pour les produits contenant de l'acide nonanoïque, acide pélargonique comme substance active associée à une ou plusieurs substances actives listées à l'annexe II du règlement (CE) n° 1451/2007 et qui ne sont pas inscrites au 1er octobre 2014 : les délais pour la mise en conformité des produits avec l'article L. 522-4 du code de l'environnement sont ceux fixés pour la substance active dont la date d'inscription est la plus tardive.
+
+|
+
 |
 
 |
@@ -3978,9 +4272,7 @@ c) Dans le cas des produits pour lesquels l'autorisation délivrée dans le cadr
 
 ANNEXE I A
 
-LISTE DES SUBSTANCES ACTIVES ET DES EXIGENCES S'Y RAPPORTANT APPROUVÉES AU NIVEAU COMMUNAUTAIRE
-
-POUR INCLUSION DANS LES PRODUITS BIOCIDES À FAIBLE RISQUE
+LISTE DES SUBSTANCES ACTIVES ET DES EXIGENCES S'Y RAPPORTANT APPROUVÉES AU NIVEAU COMMUNAUTAIRE POUR INCLUSION DANS LES PRODUITS BIOCIDES À FAIBLE RISQUE
 
 Type de produit 14 : rodenticides
 
@@ -4016,15 +4308,7 @@ d'expiration de l'inscription
 
 DÉLAIS POUR LA MISE
 
-en conformité des produits
-
-contenant la substance active
-
-avec l'
-
-article L. 522-4 du code de l'environne
-
-ment
+en conformité des produits contenant la substance active avec l'article L. 522-4 du code de l'environnement
 
 |
 
@@ -4176,6 +4460,4 @@ II. - Pour les produits contenant de l'acétate de (Z, E)-tétradéca-9,12-dién
 
 ANNEXE I B
 
-LISTE DES SUBSTANCES DE BASE ET DES EXIGENCES
-
-S'Y RAPPORTANT APPROUVÉES AU NIVEAU COMMUNAUTAIRE
+LISTE DES SUBSTANCES DE BASE ET DES EXIGENCES S'Y RAPPORTANT APPROUVÉES AU NIVEAU COMMUNAUTAIRE
