@@ -20,7 +20,7 @@ Attachés principaux
 
 |
 
-15 %
+10 %
 
 |
 
@@ -48,9 +48,7 @@ Corps des assistants médico-administratifs
 
 |
 
-Assistants médico-administratifs de classe supérieure
-
-|
+Assistants médico-administratifs de classe supérieure |
 
 12 %
 
@@ -68,9 +66,11 @@ Corps des adjoints administratifs
 
 |
 
-Adjoint administratif de 1re classe |
+Adjoint administratif de 1re classe
 
-12 %
+|
+
+6 %
 
 |
 
@@ -248,9 +248,11 @@ et des agents des services hospitaliers
 
 |
 
-Aide-soignant de classe supérieure |
+Aide-soignant de classe supérieure
 
-15 %
+|
+
+10 %
 
 |
 
@@ -264,7 +266,7 @@ Echelon spécial du grade d'aide-soignant de classe exceptionnelle
 
 Aide-soignants de classe exceptionnelle |
 
-20 %
+15 %
 
 |
 
@@ -276,7 +278,7 @@ Infirmiers de classe supérieure
 
 |
 
-26 % |
+18 % |
 
 Corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière
 
@@ -300,7 +302,9 @@ Pédicures de classe supérieure
 
 |
 
-50 % |
+50 %
+
+|
 
 Corps des masseurs-kinésithérapeutes
 
