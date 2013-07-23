@@ -1,0 +1,9 @@
+# Réponse à la question n° 22374
+
+- Question : [22374](22374.md) — Question n° 22374 — personnel; rémunérations; réglementation
+
+## Réponse
+
+*JO du 2013-07-23*
+
+Dans le cadre de partenariats conclus essentiellement avec le mouvement sportif, les personnels des établissements publics relevant du ministère chargé des sports sont parfois amenés à participer à l'organisation de manifestations sportives au sein des établissements et ce, en sus de leurs obligations statutaires de service. Le décret n° 2012-1085 du 26 septembre 2012 fixe les modalités de rétribution de ces personnels. Il offre ainsi un cadre réglementaire permettant aux établissements de mettre en oeuvre un dispositif adapté pour le bon déroulement de ces manifestations sportives, notamment en termes de sécurité et d'accueil des participants. Cependant, cette mission reste secondaire pour nos établissements dont l'activité est principalement orientée vers l'accompagnement des sportifs de haut niveau dans la conduite de leur double projet et vers la formation de l'encadrement sportif. Ce dispositif concerne les personnels exerçant leurs fonctions à l'Institut national du sport, de l'expertise et de la performance (INSEP), à l'Ecole nationale des sports de montagne (ENSM), à l'Ecole nationale de voile et des sports nautiques (ENVSN), dans les 16 centres de ressources, d'expertise et de performances sportives (CREPS) et au Musée national du sport (MNS). Le texte étant entré en vigueur le lendemain de sa publication, l'évaluation réalisée au titre de l'année 2012 est peu significative puisqu'elle portait uniquement sur les 3 derniers mois de l'année. A titre d'exemple, au sein de l'INSEP, l'un des principaux bénéficiaires de ce dispositif, 12 agents ont été concernés en 2012 et cela a représenté un montant total de rétributions égal à 2 000 €.
