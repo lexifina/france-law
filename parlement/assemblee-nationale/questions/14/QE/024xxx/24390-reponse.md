@@ -1,0 +1,9 @@
+# Réponse à la question n° 24390
+
+- Question : [24390](24390.md) — Question n° 24390 — mécénat publicitaire; lutte et prévention
+
+## Réponse
+
+*JO du 2013-07-23*
+
+Les spécialistes considèrent que le mouvement de marchandisation du sport s'est accéléré dans les années 1995, après l'arrêt « Bosman ». Cet arrêt, s'il a eu le mérite de libérer les joueurs en leur offrant une mobilité internationale et en réglant des situations absurdes, a également dérégulé le marché des transferts du football professionnel. De nombreux clubs ont ainsi fait le choix d'investir lourdement afin de recruter des joueurs qui leur permettaient d'obtenir rapidement des résultats sportifs, une visibilité médiatique et des retombées financières importantes. La mobilité des joueurs est alors devenue vite incontrôlable et a abouti à une très grande libéralisation des échanges de sportifs au sein d'un système favorisant les clubs les plus riches. La ministre chargée des sports, consciente de ces excès et dérives soutient auprès de la commission européenne des initiatives comme celle du fair-play financier mis en oeuvre par l'UEFA et qui devrait conduire les clubs européens de football à respecter un ensemble de règles visant à garantir une éthique financière pour le football. Elle a en outre, dans le cadre de l'évaluation des politiques publiques lancée par le gouvernement, proposé la mise en place d'une mission d'évaluation relative au soutien du sport professionnel et à la solidarité avec le sport amateur. Les pistes d'action qui seront proposées par cette mission qui rendra son rapport en juin 2013 conduiront certainement la ministre chargée des sports à proposer au plan national des mesures concernant le sport professionnel, son financement et sa régulation. Certaines de ces mesures pourront également être portées au plan européen.
