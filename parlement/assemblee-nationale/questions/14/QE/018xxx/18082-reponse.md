@@ -1,0 +1,9 @@
+# Réponse à la question n° 18082
+
+- Question : [18082](18082.md) — Question n° 18082 — détecteurs de fumée; installation
+
+## Réponse
+
+*JO du 2013-07-23*
+
+La loi visant à rendre obligatoire l'installation de détecteurs de fumée dans tous les lieux d'habitation a été promulguée le 9 mars 2010. Le décret n° 2011-36 du 10 janvier 2011 relatif à l'installation de détecteurs de fumée dans tous les lieux d'habitation vient préciser les exigences inscrites dans la loi, et renvoie sur un arrêté d'application. L'arrêté du 5 février 2013 relatif à l'application des articles R. 129-12 à R. 129-15 du code de la construction et de l'habitation précise les exigences auxquelles doit répondre le détecteur de fumée normalisé installé dans chaque logement, les conditions de son installation, de son entretien et de son fonctionnement. Il présente également les mesures de sécurité à mettre en oeuvre par les propriétaires dans les parties communes des bâtiments d'habitations pour prévenir le risque d'incendie. Enfin, il caractérise la notification de l'installation du détecteur de fumée normalisé qui doit être réalisée entre occupant et assureur. Cet arrêté a été publié au Journal officiel le 14 mars 2013. Afin de sensibiliser le plus largement possible le public au risque d'incendie domestique et à la nécessité de s'équiper sans délai de détecteur de fumée, une large communication a accompagné la publication de l'arrêté. Par ailleurs, une brochure intitulée « détecteurs de fumée - mode d'emploi » est d'ores et déjà disponible en téléchargement sur le site internet du ministère. Elle sera prochainement disponible en version papier et diffusée à une très large échelle, de façon à faire connaître à la population cette nouvelle obligation, de la sensibiliser aux risques de feux domestiques et d'apporter les réponses aux questions pratiques sur l'installation des détecteurs de fumée.
