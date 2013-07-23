@@ -1,0 +1,9 @@
+# Réponse à la question n° 10693
+
+- Question : [10693](10693.md) — Question n° 10693 — institutions européennes; actions de l'État
+
+## Réponse
+
+*JO du 2013-07-23*
+
+Le traité de Lisbonne, entré en vigueur le 1er décembre 2009, réaffirme plusieurs principes relatifs à la protection du multilinguisme au sein de l'Union européenne. La diversité linguistique revêt en effet pour l'Union européenne un caractère fondamental. L'Union doit en particulier permettre aux citoyens européens d'accéder à la législation et aux informations européennes dans leur propre langue. C'est ainsi que la législation et les documents d'importance politique doivent être présentés dans toutes langues officielles. Il est vrai qu'en dépit de ces règles nécessaires au bon fonctionnement de la coopération européenne, une dégradation de l'accès aux documents législatifs et d'importance dans les différentes langues de travail de l'Union (et notamment le français) a été observée dans certaines institutions de l'Union européenne, y compris au Parlement européen. Bien que l'augmentation de l'activité normative européenne consécutive à l'entrée en vigueur du traité de Lisbonne puisse partiellement expliquer certains retards en termes de traduction, la France déplore vivement les difficultés que peuvent notamment rencontrer les co-législateurs pour accéder aux documents de travail dans leur langue maternelle. Aussi, les autorités françaises ont elles mis en place un vademecum de l'usage du Français dans les institutions et incitent elles les représentants français au sein des institutions à leur signaler tout manquement aux règles de respect du multilinguisme. Elles ne manqueront pas, comme elles le font régulièrement, de rappeler l'exigence de respect du multilinguisme lors de leurs futurs échanges avec les institutions européennes. Il en va non seulement du bon fonctionnement de l'activité législative mais aussi du respect d'un principe fondateur de la construction européenne.
