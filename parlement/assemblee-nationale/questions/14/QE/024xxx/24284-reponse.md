@@ -1,0 +1,9 @@
+# Réponse à la question n° 24284
+
+- Question : [24284](24284.md) — Question n° 24284 — accord franco-britannique; mise en oeuvre
+
+## Réponse
+
+*JO du 2013-07-23*
+
+L'article 8 du traité de coopération en matière de défense et de sécurité conclu le 2 novembre 2010 entre la France et le Royaume-Uni prévoit que « chacune des parties s'engage à ne pas entraver un accès légitime à ses marchés et à ses contrats publics dans le domaine de la défense et de la sécurité ». Il convient de souligner que les flux commerciaux entre les deux partenaires sont historiquement très faibles au regard du montant de leurs budgets dédiés aux acquisitions d'équipements de défense. Le volume annuel des exportations de la France vers le Royaume-Uni représente ainsi près de 150 M€, tandis que celui des importations correspond à près de 70 M€. La signature du traité précité n'a, à ce jour, pas entraîné d'évolution significative de cette situation. De plus, la France et le Royaume-Uni doivent respecter un certain nombre d'obligations au titre de leur appartenance à l'Union européenne, et notamment celles prévues par la directive 2009/81/CE du Parlement européen et du Conseil relative à la coordination des procédures de passation de certains marchés de travaux, de fournitures et de services par des pouvoirs adjudicateurs ou entités adjudicatrices dans les domaines de la défense et de la sécurité. Les deux États ne peuvent en conséquence réserver l'ouverture de leurs marchés nationaux de défense au seul partenaire britannique ou français. Les analyses montrent à cet égard que la France est de loin le pays publiant le plus d'avis de marché (46 % du total des avis de l'Union européenne), se conformant ainsi aux objectifs de transparence et de concurrence pour la passation des marchés publics de défense et de sécurité.
