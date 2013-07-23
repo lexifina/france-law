@@ -1,0 +1,9 @@
+# Réponse à la question n° 29129
+
+- Question : [29129](29129.md) — Question n° 29129 — situation politique
+
+## Réponse
+
+*JO du 2013-07-23*
+
+La France a condamné les arrestations et les violences à Kidal, contre des personnes issues, notamment, des communautés songhaï, peul et bella, et a demandé la libération des personnes concernées. La France a par ailleurs soutenu la recherche d'une solution négociée à la situation de Kidal, permettant d'envisager un apaisement des relations intercommunautaires. L'accord préliminaire signé le 18 juin à Ouagadougou entre le gouvernement et les rebelles, sous l'égide de la médiation burkinabè et en présence de représentants de la communauté internationale prévoit la mise en oeuvre de mesures de confiance permettant la tenue des élections dans de bonnes conditions, sur l'ensemble du territoire, y compris à Kidal. L'accord prévoit un processus graduel de désarmement et la tenue d'un dialogue inclusif, 60 jours après la nomination du nouveau gouvernement, en vue d'aboutir à un accord de paix global et définitif qui conditionne le développement, le retour des réfugiés et l'organisation administrative du Mali. Sa mise en oeuvre a débuté. Le principal obstacle à l'organisation des élections est ainsi levé. Par ailleurs, la préparation technique des élections avance. Les formations du personnel chargé de les organiser ont débuté et se poursuivent. Les cartes d'électeur vont commencer à être distribuées. Les listes électorales ont été envoyées partout au Mali et à l'étranger. Elles devront être actualisées. Cette actualisation permettra de prendre en compte les changements de résidence des 300 000 déplacés. Le vote des 175 000 réfugiés sera rendu possible grâce aux accords que les autorités maliennes ont conclu avec les pays d'accueil. Si des étapes restent à franchir, rien ne permet, à ce stade, d'indiquer que les élections ne pourront avoir lieu le 28 juillet.
