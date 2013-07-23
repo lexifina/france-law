@@ -1,0 +1,9 @@
+# Réponse à la question n° 16006
+
+- Question : [16006](16006.md) — Question n° 16006 — quotas; communes touristiques; adaptation
+
+## Réponse
+
+*JO du 2013-07-23*
+
+Aux termes de l'article L. 3332-1 du code de la santé publique, un débit de boissons à consommer sur place de 2e ou 3e catégorie ne peut être ouvert dans les communes où le total des établissements de cette nature et des établissements de 4e catégorie atteint ou dépasse la proportion d'un débit pour 450 habitants, ou fraction de ce nombre. La population prise pour base de cette estimation est la population municipale totale, non comprise la population comptée à part, telle qu'elle résulte du dernier recensement. Par dérogation, cette disposition ne s'applique pas aux établissements, y compris de 4e catégorie, dont l'ouverture intervient à la suite d'un transfert réalisé dans les conditions fixées par l'article L. 3332-11. Or, afin de ne pas restreindre trop fortement les conditions de transfert, la loi n° 2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques a introduit la possibilité pour un débit de boissons à consommer sur place d'être transféré au-delà des limites du département où il se situe, lorsque ce transfert s'effectue au profit d'un établissement touristique de type hôtel classé ou terrain de camping ou de caravanage et qu'il respecte deux conditions : l'absence d'ouverture directe du débit sur la voie publique et l'absence de publicité du débit (article D. 3332-10 du code de la santé publique). Dès lors, l'idée de substituer au critère de la population municipale totale le critère de population DGF (dotation globale de fonctionnement) qui inclut les résidences secondaires et les places de caravanes, n'apparaît pas pertinente car les transferts sans quotas au profit d'établissements touristiques suffisent à ce que les communes touristiques puissent disposer de suffisamment de débits de boissons.
