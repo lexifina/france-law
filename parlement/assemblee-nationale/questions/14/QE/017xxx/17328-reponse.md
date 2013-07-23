@@ -1,0 +1,9 @@
+# Réponse à la question n° 17328
+
+- Question : [17328](17328.md) — Question n° 17328 — développement
+
+## Réponse
+
+*JO du 2013-07-23*
+
+Les contrats en alternance ont depuis longtemps fait leurs preuves en matière de qualification et d'insertion professionnelle des jeunes, et pour partie des salariés plus âgés au moyen du contrat de professionnalisation. Dans le cadre de la politique en faveur de l'emploi et de la priorité donnée à la jeunesse par le Président de la République, le Gouvernement est donc attaché au développement de ce type de contrat. C'est le cas en particulier pour le contrat d'apprentissage : le Pacte national pour la croissance, la compétitivité et l'emploi a ainsi fixé l'objectif de faire progresser le nombre d'apprentis de 435 000 aujourd'hui à 500 000 en 2017. Le développement du contrat de professionnalisation est également recherché en lien avec les partenaires sociaux dans le cadre de la convention conclue entre l'Etat et le Fonds paritaire de sécurisation des parcours professionnels (FPSPP) pour 2013-2015. Les aides financières aux contrats en alternance représentent pour l'Etat une charge annuelle de 2,1 milliards d'euros. Ces aides constituent un moyen d'encourager le recours à ces formations. Une évaluation de leur efficacité a été conjointement demandée à l'inspection générale des affaires sociales et à l'Inspection générale des finances. Ses résultats permettront de prendre les décisions les plus appropriées. Plus globalement, le projet de loi relatif à la formation professionnelle prévu pour la fin de l'année 2013 devraient intégrer des dispositions relatives à l'apprentissage avec deux grands objectifs : flécher une part plus importante de la taxe d'apprentissage vers l'apprentissage lui-même et organiser une répartition plus équitable de cette taxe.
