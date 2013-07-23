@@ -1,0 +1,9 @@
+# Réponse à la question n° 26437
+
+- Question : [26437](26437.md) — Question n° 26437 — couverture du territoire
+
+## Réponse
+
+*JO du 2013-07-23*
+
+Afin de répondre à la demande croissante de bande passante et afin de permettre le développement de nouveaux usages et de nouvelles pratiques comme le télétravail, le Président de la République a pris l'engagement de fournir à l'ensemble des français un accès internet à très haut débit d'ici 10 ans. Pour atteindre cet objectif ambitieux, le Gouvernement a élaboré une stratégie nationale de déploiement du très haut débit en concertation avec l'ensemble des acteurs concernés. Fondée sur le principe d'une action conjointe des opérateurs privés et du secteur public, cette stratégie s'appuie localement sur l'action des collectivités territoriales compétentes en matière d'aménagement numérique. 20 milliards d'euros seront mobilisés pour atteindre cet objectif du très haut débit sur tout le territoire. Plus de la moitié seront apportés par les opérateurs privés en tant qu'investisseur ou par des redevances versées en tant que clients des réseaux d'initiative publique (RIP). L'autre moitié sera apportée par les pouvoirs publics à part égale entre les collectivités et l'État. Ainsi, ce dernier proposera, sur 10 ans, 3 milliards d'euros de subventions à destination des porteurs de projets de RIP très haut débit. Concernant les usages numériques, la ministre de l'égalité des territoires et du logement a confié à M. Claudy Lebreton, président de l'Assemblée des départements de France, une mission de prospective sur les bouleversements provoqués par les services numériques et leurs conséquences pour l'égalité des territoires. Le rapport final de cette mission devrait être remis d'ici le mois de juillet, et soumettra à la ministre des propositions pour faciliter le développement des nouveaux usages et services numériques (dont le coworking est une composante importante) au bénéfice des territoires.
