@@ -1,0 +1,9 @@
+# Réponse à la question n° 24494
+
+- Question : [24494](24494.md) — Question n° 24494 — conditions d'attribution; opérations extérieures
+
+## Réponse
+
+*JO du 2013-07-23*
+
+L'arrêté du 28 juin 2012 modifiant l'arrêté du 12 janvier 1994 fixant la liste des opérations ouvrant droit au bénéfice de la carte du combattant au titre de l'article L. 253 ter du code des pensions militaires d'invalidité et des victimes de la guerre a actualisé le dispositif réglementaire en matière d'attribution de cette carte, en prorogeant les dates de fin de période des opérations menées en Afghanistan, en Côte-d'Ivoire, en ex-Yougoslavie, au Liban et en Israël, en République centrafricaine (opération Boali) et au Tchad (opération Épervier). De nouveaux théâtres d'opération sont également intégrés à cet arrêté. Il s'agit de la République démocratique du Congo (opération MONUSCO), de la République fédérale démocratique d'Éthiopie, de la République de Somalie et ses eaux avoisinantes (mission de l'Union africaine de Somalie ou AMISOM), de la République d'Haïti et des pays et eaux avoisinantes (opération MINUSTAH) ainsi que de la République du Liberia (opération MINUL). Les opérations Harmattan concernant l'engagement des forces françaises en « Grande Jamahiriya arabe libyenne populaire et socialiste » du 18 mars au 31 octobre 2011, Atalanta relative à la lutte contre la piraterie au large des côtes de la Somalie et Serval marquant l'engagement des forces françaises sur le territoire de la République du Mali à compter du 10 janvier 2013 seront intégrées prochainement à l'arrêté du 12 janvier 1994. Le projet d'arrêté modifiant à cet effet l'arrêté précité est actuellement en cours d'instruction au sein des services du ministère de la défense et du ministère chargé du budget. Après signature, ce texte sera publié au Journal officiel de la République française dans les meilleurs délais.
