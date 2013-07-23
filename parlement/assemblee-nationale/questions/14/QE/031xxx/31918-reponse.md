@@ -1,0 +1,9 @@
+# Réponse à la question n° 31918
+
+- Question : [31918](31918.md) — Question n° 31918 — relations bilatérales
+
+## Réponse
+
+*JO du 2013-07-23*
+
+La France a reçu, en 1922, un mandat de la société des nations pour administrer la plus grande partie de l'ancienne colonie allemande du Cameroun, qui a accédé à l'indépendance le 1er janvier 1960. C'est dans ce cadre que les autorités françaises de l'époque ont eu à assumer la responsabilité de la sécurité intérieure de ce territoire. La France a ensuite assisté les forces camerounaises dans le cadre d'une coopération technique, prévue par l'accord du 13 novembre 1960. Aujourd'hui, la renégociation des accords de défense existant entre la France et certains Etats africains a permis de fonder une coopération nouvelle et transparente. Reposant sur un partenariat de défense et de sécurité, cette coopération vise à soutenir la modernisation et la restructuration des forces armées et de sécurité des pays africains, principalement à travers des actions de formation. Elle a également pour objectif d'aider l'Afrique à bâtir son propre dispositif de sécurité collective, au moyen des brigades régionales de la force africaine en attente. Conclu le 21 mai 2009, l'accord de partenariat de défense entre la France et le Cameroun est entré en vigueur le 1er août 2012. Pour sa part, le ministère des affaires étrangères travaille au renforcement de la relation qui existe entre la France et ses partenaires africains, notamment le Cameroun, pays avec lequel la France entretient une coopération multiforme et dynamique, avec l'ambition d'appuyer son développement socio-économique. La période évoquée appartient à l'Histoire et aux historiens à qui il appartient désormais d'exploiter les archives rendues disponibles pour apporter leur éclairage sur la période.
