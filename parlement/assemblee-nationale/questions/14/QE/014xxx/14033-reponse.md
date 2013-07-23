@@ -1,0 +1,9 @@
+# Réponse à la question n° 14033
+
+- Question : [14033](14033.md) — Question n° 14033 — prise en charge
+
+## Réponse
+
+*JO du 2013-07-23*
+
+Les accueils de jour qu'ils soient autonomes ou adossés à un établissement d'hébergement pour personnes âgées dépendantes (EHPAD) bénéficient d'un forfait journalier transport pris en charge par l'assurance maladie (décret n° 2007-827 du 11 mai 2007 codifié à l'article R. 314-207 du code de l'action sociale et des familles). Le versement de ce forfait est subordonné à la mise en oeuvre d'une solution de transport adaptée aux besoins des usagers qui fréquentent l'accueil de jour (article D 312-9 du code de l'action sociale et des familles). Afin de pallier les difficultés liées à l'absence d'organisation d'un tel transport par la structure d'accueil, le décret n° 2011-1211 du 29 septembre 2011 prévoit que le gestionnaire de l'accueil de jour rembourse aux personnes accueillies ou à leurs familles les frais de transport qu'elles supportent dans la limite des forfaits journaliers définis. Le montant de ces frais de transport devrait être d'autant plus limité que le maillage territorial défini dans le cadre du plan Alzheimer conduit à mettre en oeuvre des dispositifs de proximité. En outre, afin de mieux solvabiliser le coût de ces transports vers ces structures, le montant de ce forfait a été augmenté de 30 % en 2010. Un arrêté de revalorisation doit être prochainement publié. Par ailleurs, le 21 septembre 2012, le Président de la République a annoncé la mise en place d'un dispositif d'évaluation du plan Alzheimer et son élargissement aux maladies neurodégénératives. Cette évaluation confiée au Professeur Ankri et au docteur Van Broeckhoven doit donner lieu en juin 2013 à un rapport analysant les actions menées à ce jour et élaborant des propositions et des recommandations pour poursuivre et améliorer cette politique publique.
