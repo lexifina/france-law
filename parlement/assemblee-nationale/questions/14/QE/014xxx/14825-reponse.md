@@ -1,0 +1,9 @@
+# Réponse à la question n° 14825
+
+- Question : [14825](14825.md) — Question n° 14825 — lutte et prévention
+
+## Réponse
+
+*JO du 2013-07-23*
+
+La confiance de nos concitoyens dans les institutions et les personnes qui les servent est essentielle au bon fonctionnement de la démocratie. Particulièrement sensible à la question de la lutte contre les infractions à la probité, dont la corruption est un exemple emblématique, le gouvernement porte actuellement devant le parlement le projet de loi « relatif à la lutte contre la fraude fiscale et la grande délinquance économique et financière » qui comprend de nombreuses mesures destinées à améliorer l'efficacité de la lutte contre les atteintes à la probité. Ainsi, l'article 1er de ce texte, voté en première lecture le 25 juin 2013, insère un nouvel article 2-22 dans le code de procédure pénale habilitant les associations de lutte contre la corruption, agréées selon des modalités fixées par décret en Conseil d'État, à exercer les droits de la partie civile sur le modèle des dispositions existantes à l'article 2-21 du même code. L'article 1er quater prévoit quant à lui une élévation sensible des peines d'amende encourues pour ces délits. Enfin, les articles 12 à 19 du projet de loi décident de la création d'un procureur de la République financier, à compétence nationale, chargé spécifiquement de la lutte contre les atteintes à la probité de grande complexité et la fraude fiscale complexe. Doté d'importants moyens propres qui seront exclusivement dédiés à cet objectif, le procureur de la République financier sera à même de mener une répression efficace de cette délinquance très spécifique. La création d'un parquet dédié permettra en outre, notamment grâce à son positionnement institutionnel particulier, de donner une nouvelle impulsion à la lutte contre la corruption et la grande délinquance économique et financière.
