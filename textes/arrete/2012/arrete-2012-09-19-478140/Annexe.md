@@ -14,37 +14,37 @@ HABILITATION
 
 |
 
-|
-
-|
-
 A compter du
 
 |
 
-Jusqu'au |
+Jusqu'au
+
+|
 
 ADIV Développement, 10, rue Jacqueline-Auriol, zac des Gravanches, 63039 Clermont-Ferrand Cedex 2
 
 |
 
-RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement
-
-RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement
+RPA et opérateur, bovins/équidés-manipulations et soins-mise à mort-complément sans étourdissement
 
 |
 
 20 septembre 2012
 
-//
-
 |
 
 20 septembre 2017
 
+|
+
+RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement |
+
 //
 
 |
+
+//
 
 |
 
@@ -64,7 +64,7 @@ ADOFIA, 24, rue des Vignoles, 75020 Paris
 
 |
 
-RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement
+RPA et opérateur, bovins/équidés-manipulations et soins-mise à mort-complément sans étourdissement
 
 |
 
@@ -76,9 +76,7 @@ RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complé
 
 |
 
-|
-
-RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement
+RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement
 
 |
 
@@ -87,8 +85,6 @@ RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complémen
 |
 
 //
-
-|
 
 |
 
@@ -124,7 +120,7 @@ Institut de l'élevage, 149, rue de Bercy, 75020 Paris
 
 |
 
-RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complément sans étourdissement
+RPA et opérateur, bovins/équidés-manipulations et soins-mise à mort-complément sans étourdissement
 
 |
 
@@ -136,9 +132,7 @@ RPA et opérateur, bovins/ équidés-manipulations et soins-mise à mort-complé
 
 |
 
-|
-
-RPA et opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement
+RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement
 
 |
 
@@ -179,5 +173,55 @@ Opérateur, porcins-manipulations et soins-mise à mort
 |
 
 31 janvier 2018
+
+|
+
+CFPPA du Gers, 32300 Mirande
+
+|
+
+Opérateur, volailles-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+1er juillet 2013
+
+|
+
+30 juin 2018
+
+|
+
+IFIP, Institut du porc, 3-5, rue Lespagnol, 75020 Paris
+
+|
+
+RPA et opérateur, bovins/équidés-manipulations et soins-mise à mort-complément sans étourdissement
+
+RPA et opérateur, ovins/caprins-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+1er juillet 2013
+
+|
+
+30 juin 2018
+
+|
+
+Institut de l'élevage, 149, rue de Bercy, 75595 Paris Cedex 12
+
+|
+
+RPA et opérateur, porcins-manipulations et soins-mise à mort
+
+|
+
+1er juillet 2013
+
+|
+
+30 juin 2018
 
 |
