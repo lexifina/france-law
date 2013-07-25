@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002427
+
+- Question : [SEQ121002427](seq121002427.md) — Déviation de Joncet sur la route nationale 116 dans les Pyrénées-Orientales
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2013-07-25, page 2198*
+
+L'État est pleinement conscient de l'importance que revêt l'aménagement de la déviation du Joncet pour l'amélioration de la desserte de la vallée de la Têt et de la Cerdagne. Le financement de ce projet a été retenu à l'actuel programme de modernisation des itinéraires routiers (PDMI) de la région Languedoc-Roussillon à hauteur de 20 millions d'euros. Les crédits nécessaires à l'engagement des travaux ont été inscrits à la programmation 2012 pour un montant de 6,4 millions d'euros. Le calendrier prévisionnel de l'opération permettait dès lors d'envisager un début des travaux à l'été 2012. Néanmoins, les services de la DREAL Languedoc-Roussillon, qui assurent la maîtrise d'ouvrage de cette opération, ont rencontré des difficultés lors de la phase préparatoire du chantier, notamment concernant l'acquisition de plusieurs parcelles et la définition fine des modalités de déplacement d'une ligne électrique de 20 000 volts. Ces difficultés ont ainsi conduit à retarder le lancement des travaux de quelques mois. Pour autant, le marché de la première phase de travaux, constituée par le rétablissement du chemin de Flassa, a pu être notifié en décembre 2012 à l'entreprise retenue. Les travaux préparatoires ont commencé à la mi-mars, pour une durée de chantier estimée à 16 mois. Parallèlement, les services de la DREAL Languedoc-Roussillon poursuivent la préparation du dossier de consultation des entreprises s'agissant de la réalisation de la deuxième phase de travaux. Aujourd'hui, la mise en service de la déviation est prévue pour 2016, sous réserve des disponibilités budgétaires.
