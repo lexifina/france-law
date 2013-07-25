@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305583
+
+- Question : [SEQ130305583](seq130305583.md) — Devenir de la formation en alternance
+
+## Réponse
+
+*Travail, emploi, formation professionnelle et dialogue social, JO du 2013-07-25, page 2216*
+
+Les contrats en alternance ont depuis longtemps fait leurs preuves en matière de qualification et d'insertion professionnelle des jeunes, et pour partie des salariés plus âgés au moyen du contrat de professionnalisation. Dans le cadre de la politique en faveur de l'emploi et de la priorité donnée à la jeunesse par le président de la République, le Gouvernement est donc attaché au développement de ce type de contrat. C'est le cas en particulier pour le contrat d'apprentissage : le Pacte national pour la croissance, la compétitivité et l'emploi a ainsi fixé l'objectif de faire progresser le nombre d'apprentis de 435 000 aujourd'hui à 500 000 en 2017. Le développement du contrat de professionnalisation est également recherché. Les aides financières aux contrats en alternance représentent pour l'État une charge annuelle de 2,1 milliards d'euros. Ces aides constituent un moyen d'encourager le recours à ces formations et leur efficacité constitue donc une question stratégique. Dans le cadre des travaux de modernisation de l'action publique, les aides financières aux contrats de formation par alternance font ainsi l'objet d'une évaluation, conjointement confiée à l'inspection générale des affaires sociales et à l'Inspection générale des finances. Plus généralement, un projet de loi relatif à la formation professionnelle est prévu pour la fin de l'année 2013 devraient intégrer des dispositions relatives à l'apprentissage avec deux grands objectifs : flécher une part plus importante de la taxe d'apprentissage vers l'apprentissage lui-même et organiser une répartition plus équitable de cette taxe.
