@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130405839
+
+- Question : [SEQ130405839](seq130405839.md) — Libre choix du prestataire par le consommateur
+
+## Réponse
+
+*Économie sociale et solidaire et consommation, JO du 2013-07-25, page 2191*
+
+Une attention particulière est portée aux relations commerciales des artisans-carrossiers avec les assureurs. Ces relations ont fait l'objet de travaux dans le cadre de la commission d'examen des pratiques commerciales (CEPC), qui a adopté le 14 mai 2008 une charte de bonnes pratiques. Une enquête a été diligentée en 2011 par la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) pour examiner entre autres les conditions de mise en œuvre de cette charte. Cette investigation n'a pas mis en évidence de pratiques déloyales, notamment sous l'angle du libre choix du réparateur par les assurés dont le principe est rappelé par la charte du 14 mai 2008. Il convient de rappeler que ce principe ne fait pas obstacle à la faculté des assureurs de proposer des prestations supplémentaires, telles que le prêt d'un véhicule automobile aux assurés qui ont recours à des réparateurs agréés par convention. Cette approche, qui contribue à la modération tarifaire, a été admise dans un autre domaine par l'autorité de la concurrence (avis n° 09-A-46 du 9 septembre 2009), à condition que les critères d'agrément soient transparents et non discriminatoires. Les pratiques commerciales des opérateurs continueront de faire l'objet d'une surveillance régulière par les corps d'enquête de la DGCCRF. Le Gouvernement est attaché à la loyauté des relations entre carrossiers et assureurs, ainsi qu'à la protection du pouvoir d'achat des consommateurs, notamment au regard de l'augmentation des primes d'assurances. Il va de soi qu'il reste à l'écoute de l'ensemble des acteurs de la chaîne économique ainsi que des associations de consommateurs, dans une optique de bonne régulation de ce secteur.
