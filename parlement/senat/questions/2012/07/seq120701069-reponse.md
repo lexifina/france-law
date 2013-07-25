@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120701069
+
+- Question : [SEQ120701069](seq120701069.md) — Recours subrogatoire des collectivités territoriales sur la prestation de compensation du handicap
+
+## Réponse
+
+*Personnes handicapées et lutte contre l'exclusion, JO du 2013-07-25, page 2194*
+
+L'article L. 245-1 du code de l'action sociale et des familles relatif à la prestation de compensation du handicap (PCH), prévoit une articulation avec les droits ouverts de même nature au titre d'un régime de sécurité sociale. En revanche, le législateur n'a effectivement pas rendu la PCH subsidiaire par rapport aux indemnisations assurantielles, ce qui aurait permis aux départements d'engager une action subrogatoire contre les tiers responsables. Une telle évolution, techniquement et juridiquement très complexe au regard de la nature des frais en cause ou des modalités de versement des indemnités, suppose en amont une évaluation des impacts sur les stratégies des assurances et leurs effets vis-à-vis des assurés. De même une évaluation des économies potentielles pour les départements, prenant en compte la lourdeur possible des procédures et certains effets indirects, doit être réalisée. La recherche de l'équité de traitement entre les bénéficiaires de la PCH, allant de pair avec une juste reconnaissance des droits acquis par les assurés et la préservation des nécessaires indemnisations s'imposant aux assurances et d'autre part, le souci de bonne gestion de cette prestation et des derniers publics rendent extrêmement opportunes ces analyses et projections. Elles seront donc conduites avant de décider d'engager éventuellement la réforme préconisée par le parlementaire. Celle-ci, qui concerne de multiples acteurs, ne pourra intervenir que dans le cadre d'une réforme plus globale et parfaitement encadrée, vu les enjeux multiples et effets croisés.
