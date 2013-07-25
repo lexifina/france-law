@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305304
+
+- Question : [SEQ130305304](seq130305304.md) — Ligne LGV Poitiers-Limoges
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2013-07-25, page 2210*
+
+À l'issue du débat public relatif à la ligne à grande vitesse (LGV) Poitiers-Limoges et de la décision du 8 mars 2007 du conseil d'administration de Réseau ferré de France (RFF) de poursuivre les études, la conduite des études et de la concertation a été décidée par l'État, pour retenir au début de l'année 2012 le tracé de référence du projet. L'approbation ministérielle du 25 mars 2013 a fixé les orientations sur la consistance du dossier et a demandé à RFF de saisir le préfet de la région Limousin, préfet de la Haute-Vienne, afin qu'il procède aux démarches nécessaires pour organiser le lancement de l'enquête publique relative au projet avant la fin du premier semestre 2013. Cette approbation a conduit à la signature, le 30 avril 2013, de l'arrêté interpréfectoral portant ouverture de l'enquête publique. Celle-ci se déroule entre le 30 mai et le 12 juillet 2013. Par ailleurs, comme les autres opérations figurant au projet de schéma national des infrastructures de transport présenté à l'automne 2011, la LGV Poitiers-Limoges est soumise à l'examen de la Commission « Mobilité 21 ». Cette Commission est chargée d'identifier les projets d'infrastructures de transport les plus urgents et de proposer des orientations pour une politique des transports soutenable, tenant compte de la situation de nos finances publiques et de la priorité donnée aux transports du quotidien, à la réduction de la fracture territoriale et à la rénovation des réseaux existants. Les conclusions des travaux de la Commission « Mobilité 21 » sont attendues d'ici la fin du mois de juin 2013. C'est au regard de ces prochaines conclusions que seront alors examinées les conditions et les modalités de réalisation de la LGV Poitiers-Limoges.
