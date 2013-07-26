@@ -48,13 +48,13 @@ Aubrac
 
 |
 
-Aurochs-reconstitué (Néo-Aurochs)
+Aurochs-reconstitué (néo-aurochs)
 
 |
 
 |
 
-Aurochs reconstitué
+Aurochs-reconstitué
 
 |
 
@@ -142,11 +142,11 @@ Brahman
 
 |
 
-Bretonne Pie Noire
+Bretonne pie noire
 
 |
 
-Bretonne Pie Noire
+Bretonne pie noire
 
 |
 
@@ -210,7 +210,7 @@ Créole
 
 |
 
-De Combat (Espagnole Brava)
+De Combat (espagnole brava)
 
 |
 
@@ -374,17 +374,17 @@ Parthenaise
 
 |
 
-Pie Rouge des Plaines
+Pie rouge des plaines
 
 |
 
-Pie Rouge des Plaines
+Pie rouge des plaines
 
 |
 
 |
 
-Prim' Holstein
+Prim'Holstein
 
 |
 
@@ -402,23 +402,23 @@ Raço di Bioù
 
 |
 
-Rouge Flamande (Rouge du Nord)
+Rouge flamande (Rouge du Nord)
 
 |
 
-Rouge Flamande
+Rouge flamande
 
 |
 
-Rouge Flamande
+Rouge flamande
 
 |
 
-Rouge des Prés (Maine Anjou)
+Rouge des prés (Maine-Anjou)
 
 |
 
-Rouge des Prés
+Rouge des prés
 
 |
 
@@ -536,11 +536,11 @@ Barégeoise
 
 |
 
-Basco-Béarnaise
+Basco-béarnaise
 
 |
 
-Basco-Béarnaise
+Basco-béarnaise
 
 |
 
@@ -690,7 +690,7 @@ Clun Forest
 
 |
 
-Corse (race ovine Corse)
+Corse (race ovine corse)
 
 |
 
@@ -718,15 +718,15 @@ Dorset Down
 
 |
 
-Dorset down
+Dorset Down
 
 |
 
-Est à laine Mérinos
+Est à laine mérinos
 
 |
 
-Est à laine Mérinos
+Est à laine mérinos
 
 |
 
@@ -842,21 +842,21 @@ Lourdaise
 
 |
 
-Manech Noire (Manech Tête noire)
+Manech noire (Manech tête noire)
 
 |
 
-Manech Tête noire
+Manech tête noire
 
 |
 
 |
 
-Manech Rousse (Manech Tête rousse)
+Manech rousse (Manech tête rousse)
 
 |
 
-Manech Tête rousse
+Manech tête rousse
 
 |
 
@@ -874,7 +874,7 @@ Martinik
 
 |
 
-Mérinos d'Arles (Mérinos de la Crau, Métis)
+Mérinos d'Arles (Mérinos de la Crau, métis)
 
 |
 
@@ -896,7 +896,7 @@ Mérinos de Rambouillet
 
 |
 
-Mérinos Précoce
+Mérinos précoce
 
 |
 
@@ -922,13 +922,13 @@ Mourerous (Peone, Guillaume)
 
 |
 
-Mourérous
+Mourerous
 
 |
 
 |
 
-Mouton Charollais
+Mouton charollais
 
 |
 
@@ -936,11 +936,11 @@ Mouton Charollais
 
 |
 
-Mouton Vendéen
+Mouton vendéen
 
 |
 
-Mouton Vendéen
+Mouton vendéen
 
 |
 
@@ -966,17 +966,17 @@ Ouessant
 
 |
 
-Préalpes du Sud
+PréAlpes du Sud
 
 |
 
-Préalpes du Sud
+PréAlpes du Sud
 
 |
 
 |
 
-Raïole (Ravole)
+Raïole (Rayole)
 
 |
 
@@ -1114,7 +1114,7 @@ RACES À PETITS EFFECTIFS
 
 |
 
-Alpine (Alpine chamoisée)
+Alpine (alpine chamoisée)
 
 |
 
@@ -1132,7 +1132,11 @@ Angora
 
 |
 
-Corse
+Boer
+
+|
+
+|
 
 |
 
@@ -1140,9 +1144,13 @@ Corse
 
 |
 
+Corse
+
 |
 
-Créole (Cabri Créole)
+|
+
+Créole (cabri créole)
 
 |
 
@@ -1188,6 +1196,18 @@ Du Massif central
 
 |
 
+Péï
+
+|
+
+Péï
+
+|
+
+Péï
+
+|
+
 Poitevine (du Poitou)
 
 |
@@ -1200,7 +1220,7 @@ Poitevine
 
 |
 
-Provençale (Payse, commune provençale)
+Provençale (payse, commune provençale)
 
 |
 
@@ -1236,7 +1256,7 @@ Rove
 
 |
 
-Saanen (Alpine Saanen)
+Saanen (alpine saanen)
 
 |
 
@@ -1270,15 +1290,19 @@ Créole de Guadeloupe
 
 |
 
-Cul Noir Limousin (porc de Saint-Yrieix, Périgourdin, Cul Noir, Limousin)
+Cul noir limousin
+
+(porc de Saint-Yrieix, périgourdin,
+
+Cul noir, Limousin)
 
 |
 
-Cul Noir Limousin
+Cul noir limousin
 
 |
 
-Cul Noir Limousin
+Cul noir limousin
 
 |
 
@@ -1338,15 +1362,15 @@ Nustrale
 
 |
 
-Pie Noir du Pays Basque (Basque, Bigourdan, Béarnais, Basco-Béarnais, Navarrin)
+Pie noir du pays Basque (basque, bigourdan, béarnais, basco-béarnais, navarrin)
 
 |
 
-Pie Noir du Pays Basque
+Pie noir du pays Basque
 
 |
 
-Pie Noir du Pays Basque
+Pie noir du pays Basque
 
 |
 
@@ -1358,15 +1382,15 @@ Piétrain
 
 |
 
-Porc Blanc de l'Ouest
+Porc blanc de l'Ouest
 
 |
 
-Porc Blanc de l'Ouest
+Porc blanc de l'Ouest
 
 |
 
-Porc Blanc de l'Ouest
+Porc blanc de l'Ouest
 
 |
 
