@@ -2,7 +2,7 @@
 
 COMPTE RENDU DETAILLE ANNUEL : RENSEIGNEMENTS GENERAUX.
 
-Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle prudentiel par les institutions de prévoyance et les unions d'institutions de prévoyance sont les suivants :
+Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle prudentiel et de résolution par les institutions de prévoyance et les unions d'institutions de prévoyance sont les suivants :
 
 a) La dénomination sociale de l'institution ou de l'union, son adresse, la date de son agrément, les modifications apportées aux statuts en cours d'exercice et, si de telles modifications sont intervenues, un exemplaire à jour des statuts ;
 
@@ -33,7 +33,3 @@ A l'appui de cette liste, l'institution ou l'union conserve à la disposition de
 -du document d'information annuelle relatif au rachat et à la réduction des contrats d'assurance vie (article L. 132-22 du code des assurances auquel renvoie l'article L. 932-23 du code de la sécurité sociale),
 
 et une fiche technique explicitant les garanties accordées, le tarif appliqué (avec justification de son caractère suffisant), les modalités de fixation à toute époque de la valeur de rachat et de la valeur de réduction-si le bulletin d'adhésion, le règlement ou le contrat en comporte-, la méthode de calcul de la charge annuelle de participation aux excédents ainsi que le mode de répartition de celle-ci entre les participants, ayants droit et bénéficiaires (quotité et délai), et le calcul des provisions mathématiques.
-
-NOTA :
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.

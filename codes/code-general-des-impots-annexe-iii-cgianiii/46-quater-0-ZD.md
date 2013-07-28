@@ -28,7 +28,7 @@ b bis) Les attestations mentionnées au b bis du 1 produites par les sociétés 
 
 c) le cas échéant, l'extrait de l'annexe comptable comportant les informations suivantes sur les comptes combinés : nom de l'entreprise combinante, liste des entreprises du périmètre de combinaison et description de la nature des liens qui permettent de fonder les critères de sélection des entreprises dont les comptes sont combinés, ainsi que l'indication des motifs qui justifient la non-combinaison de certaines entreprises ;
 
-d) Le cas échéant, la référence de l'agrément collectif délivré par l'Autorité de contrôle prudentiel pour elle-même et pour les caisses locales qui la détiennent.
+d) Le cas échéant, la référence de l'agrément collectif délivré par l'Autorité de contrôle prudentiel et de résolution pour elle-même et pour les caisses locales qui la détiennent.
 
 2 bis. Dans les trois mois de l'acquisition des titres d'une société du groupe ou d'une autre société intermédiaire, l'attestation mentionnée au b bis du 1 produite par la société qui sera qualifiée de société intermédiaire à compter de l'exercice au cours duquel est intervenue cette acquisition.
 

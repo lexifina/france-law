@@ -1,6 +1,6 @@
 # Article 235 ter ZE
 
-I. ― 1. Les personnes mentionnées aux 1° à 4° du A du I de l'article L. 612-2 du code monétaire et financier, soumises au contrôle de l'Autorité de contrôle prudentiel pour le respect des ratios de couverture et de division des risques ou du niveau de fonds propres adéquat prévus par les articles L. 511-41, L. 522-14 et L. 533-2 du même code, sont assujetties à une taxe de risque systémique au titre de leur activité exercée au 1er janvier de chaque année.
+I. ― 1. Les personnes mentionnées aux 1° à 4° du A du I de l'article L. 612-2 du code monétaire et financier, soumises au contrôle de l'Autorité de contrôle prudentiel et de résolution pour le respect des ratios de couverture et de division des risques ou du niveau de fonds propres adéquat prévus par les articles L. 511-41, L. 522-14 et L. 533-2 du même code, sont assujetties à une taxe de risque systémique au titre de leur activité exercée au 1er janvier de chaque année.
 
 2. Toutefois, ne sont pas assujetties à cette taxe :
 
@@ -16,7 +16,7 @@ III. ― Le taux de la taxe de risque systémique est fixé à 0,50 %.
 
 IV. ― La taxe de risque systémique est exigible le 30 avril.
 
-V. ― 1. La taxe de risque systémique est liquidée par la personne assujettie au vu des exigences minimales en fonds propres mentionnées dans l'appel à contribution mentionné au 1° du V de l'article L. 612-20 du code monétaire et financier.L'Autorité de contrôle prudentiel communique cet appel au comptable public compétent avant le 30 avril.
+V. ― 1. La taxe de risque systémique est liquidée par la personne assujettie au vu des exigences minimales en fonds propres mentionnées dans l'appel à contribution mentionné au 1° du V de l'article L. 612-20 du code monétaire et financier.L'Autorité de contrôle prudentiel et de résolution communique cet appel au comptable public compétent avant le 30 avril.
 
 2. La taxe de risque systémique est acquittée auprès dudit comptable au plus tard le 30 juin. Le paiement est accompagné d'un état conforme au modèle fourni par l'administration faisant apparaître les renseignements nécessaires à l'identification de la personne assujettie et à la détermination du montant dû.
 
@@ -30,7 +30,7 @@ VI. ― 1. La personne assujettie, dont le siège ou l'entreprise mère du group
 
 VII. ― Les contestations du montant des exigences minimales en fonds propres sur lequel la taxe de risque systémique est assise suivent le régime applicable aux contestations prévues au 3° du V de l'article L. 612-20 du code monétaire et financier.
 
-VIII. ― 1. Lorsque, en application du VII de l'article L. 612-20 du code monétaire et financier, l'Autorité de contrôle prudentiel révise le montant des exigences en fonds propres de la personne assujettie à la taxe de risque systémique, elle communique au comptable public compétent l'appel à contribution rectificatif accompagné de l'avis de réception par la personne assujettie.
+VIII. ― 1. Lorsque, en application du VII de l'article L. 612-20 du code monétaire et financier, l'Autorité de contrôle prudentiel et de résolution révise le montant des exigences en fonds propres de la personne assujettie à la taxe de risque systémique, elle communique au comptable public compétent l'appel à contribution rectificatif accompagné de l'avis de réception par la personne assujettie.
 
 2. Lorsque le montant des exigences minimales en fonds propres est révisé à la hausse, le complément de taxe de risque systémique qui en résulte est exigible à la date de réception de l'appel à contribution rectificatif. Le complément de taxe est acquitté auprès du comptable public compétent, dans les deux mois de son exigibilité, sous réserve, le cas échéant, d'une révision à la hausse du montant du crédit d'impôt mentionné au VI.
 
@@ -39,15 +39,3 @@ VIII. ― 1. Lorsque, en application du VII de l'article L. 612-20 du code moné
 IX. ― A défaut de paiement ou en cas de paiement partiel de la taxe de risque systémique dans le délai de trente jours suivant la date limite de paiement, le comptable public compétent émet un titre exécutoire. La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les taxes sur le chiffre d'affaires. Les réclamations sont présentées, instruites et jugées selon les règles applicables à ces taxes. Toutefois, en cas de révision du montant des exigences minimales en fonds propres dans les conditions du VIII, le droit de reprise de l'administration s'exerce, pour l'ensemble de la taxe due au titre de l'année concernée, jusqu'à la fin de la troisième année suivant celle au cours de laquelle la personne assujettie a reçu l'avis à contribution rectificatif.
 
 X. ― Le présent article est applicable sur l'ensemble du territoire de la République.
-
-NOTA :
-
-Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 9 I : Il est créé une taxe additionnelle à la taxe prévue à l'article 235 ter ZE du code général des impôts due au titre de 2012. Elle est due par les personnes redevables, en 2012, de cette dernière taxe.
-
-Cette taxe additionnelle est égale au montant de la taxe de risque systémique qui était exigible au 30 avril 2012.
-
-Elle est exigible le 30 août 2012.
-
-Elle est acquittée auprès du comptable public compétent au plus tard le 30 septembre 2012.
-
-Les VI à X du même article 235 ter ZE s'appliquent à cette taxe additionnelle.

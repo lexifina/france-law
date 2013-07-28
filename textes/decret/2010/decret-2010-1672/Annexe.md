@@ -18,9 +18,7 @@ du 7 décembre 2010
 
 TITRE Ier
 
-FORME. ― OBJET. ― DÉNOMINATION. ―
-
-SIÈGE. ― DURÉE
+FORME. ― OBJET. ― DÉNOMINATION. ―SIÈGE. ― DURÉE
 
 Article 1er
 
@@ -170,9 +168,7 @@ Dans le présent article :
 
 TITRE III
 
-CONSEIL D'ADMINISTRATION. ―
-
-DIRECTION GÉNÉRALE. ― CENSEURS. ― COMITÉS
+CONSEIL D'ADMINISTRATION. ―DIRECTION GÉNÉRALE. ― CENSEURS. ― COMITÉS
 
 Article 11
 
@@ -256,9 +252,7 @@ Le conseil d'administration procède aux contrôles et vérifications qu'il juge
 
 Conformément à l'ordonnance du 29 juin 2005 susmentionnée, le conseil d'administration fixe, dans des conditions fixées par voie réglementaire, le plafond d'intervention de l'activité mentionnée au paragraphe 1) de l'article 2.1 ci-dessus au titre de chaque exercice, notamment sous forme de subventions publiques ou d'avances remboursables.
 
-12.3. Décisions nécessitant l'autorisation préalable
-
-du conseil d'administration
+12.3. Décisions nécessitant l'autorisation préalable du conseil d'administration
 
 Les décisions suivantes relatives à la Société ou, le cas échéant, à l'une de ses filiales (définies comme les sociétés ou autres entités que la Société contrôle au sens de l'article L. 233-3 du code de commerce, étant précisé que Groupe désigne la Société et ses filiales) devront faire l'objet d'une autorisation préalable du conseil d'administration :
 
@@ -290,7 +284,7 @@ Les décisions suivantes relatives à la Société ou, le cas échéant, à l'un
 
 14) Nomination ou révocation des directeurs généraux délégués de la Société et des directeurs généraux et directeurs généraux délégués des filiales ;
 
-15) Toute décision de la Société entraînant un changement du statut législatif ou réglementaire qui lui est applicable et impliquant une décision de l'Autorité de contrôle prudentiel ;
+15) Toute décision de la Société entraînant un changement du statut législatif ou réglementaire qui lui est applicable et impliquant une décision de l'Autorité de contrôle prudentiel et de résolution ;
 
 16) Toute décision ou opération qui concerne directement ou indirectement l'utilisation des concours financiers de l'Etat ;
 
@@ -406,9 +400,7 @@ Le conseil d'administration met en place un comité chargé d'assurer le suivi d
 
 Le conseil d'administration peut décider la création d'autres comités chargés d'étudier les questions que lui-même ou son président soumet, pour avis, à leur examen. Il précise dans son règlement intérieur la composition et les attributions des comités qui exercent leur activité sous sa responsabilité.
 
-15.2. Comité de sélection et d'engagement pour l'activité
-
-innovation stratégique industrielle
+15.2. Comité de sélection et d'engagement pour l'activité innovation stratégique industrielle
 
 Un comité spécialisé est chargé de suivre l'instruction des dossiers et de proposer des décisions d'engagement sur les projets instruits dans le cadre de l'activité innovation stratégique industrielle . En cas de désaccord du commissaire du Gouvernement sur une proposition d'engagement, elle est soumise au conseil d'administration. La composition du comité et ses modalités précises de fonctionnement seront définies dans un règlement intérieur du comité, approuvé par le conseil d'administration.
 
@@ -464,9 +456,7 @@ Les procès-verbaux d'assemblées sont dressés et des copies ou extraits sont c
 
 TITRE VI
 
-ORGANISATION. ― EXERCICE SOCIAL. ― ENREGISTREMENT
-
-COMPTABLE. ― AFFECTATION DES RÉSULTATS
+ORGANISATION. ― EXERCICE SOCIAL. ― ENREGISTREMENT COMPTABLE. ― AFFECTATION DES RÉSULTATS
 
 Article 20
 
@@ -482,9 +472,7 @@ Chaque exercice social a une durée d'une année, qui commence le premier (1er) 
 
 Article 22
 
-Comptes. ― Enregistrement comptable
-
-et comptabilité analytique
+Comptes. ― Enregistrement comptable et comptabilité analytique
 
 22.1. Les comptes de l'exercice sont arrêtés par le conseil d'administration et approuvés par l'assemblée générale conformément aux lois en vigueur.
 
