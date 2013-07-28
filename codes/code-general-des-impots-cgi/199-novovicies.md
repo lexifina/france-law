@@ -56,7 +56,7 @@ VI. ― Le taux de la réduction d'impôt est fixé à 18 %.
 
 VII. ― La réduction d'impôt est répartie sur neuf années. Elle est accordée au titre de l'année d'achèvement du logement, ou de son acquisition si elle est postérieure, et imputée sur l'impôt dû au titre de cette même année, puis sur l'impôt dû au titre de chacune des huit années suivantes à raison d'un neuvième de son montant total au titre de chacune de ces années.
 
-VIII. ― A. ― La réduction d'impôt est applicable, dans les mêmes conditions, à l'associé d'une société civile de placement immobilier régie par les articles L. 214-50 à L. 214-84-3 du code monétaire et financier dont la quote-part de revenu est, en application de l'article 8 du présent code, soumise en son nom à l'impôt sur le revenu dans la catégorie des revenus fonciers.
+VIII. ― A. ― La réduction d'impôt est applicable, dans les mêmes conditions, à l'associé d'une société civile de placement immobilier régie par le paragraphe 4 de la sous-section 2 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier dont la quote-part de revenu est, en application de l'article 8 du présent code, soumise en son nom à l'impôt sur le revenu dans la catégorie des revenus fonciers.
 
 B. ― La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de propriété est démembré, est subordonnée à la condition que 95 % de la souscription servent exclusivement à financer un investissement pour lequel les conditions d'application du présent article sont réunies. Le produit de la souscription annuelle doit être intégralement investi dans les dix-huit mois qui suivent la clôture de celle-ci.
 

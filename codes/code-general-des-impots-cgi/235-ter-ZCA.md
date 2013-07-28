@@ -1,6 +1,6 @@
 # Article 235 ter ZCA
 
-I.-Les sociétés ou organismes français ou étrangers passibles de l'impôt sur les sociétés en France, à l'exclusion de ceux mentionnés au I de l'article L. 214-1 du code monétaire et financier ainsi que de ceux qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie), sont assujettis à une contribution additionnelle à cet impôt au titre des montants qu'ils distribuent au sens des articles 109 à 117 du présent code.
+I.-Les sociétés ou organismes français ou étrangers passibles de l'impôt sur les sociétés en France, à l'exclusion des organismes de placement collectif en valeurs mobilières et des placements collectifs relevant des paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ainsi que de ceux qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie), sont assujettis à une contribution additionnelle à cet impôt au titre des montants qu'ils distribuent au sens des articles 109 à 117 du présent code.
 
 La contribution est égale à 3 % des montants distribués. Toutefois, elle n'est pas applicable :
 
@@ -21,9 +21,3 @@ III.-La contribution est établie, contrôlée et recouvrée comme l'impôt sur 
 Elle est payée spontanément lors du premier versement d'acompte d'impôt sur les sociétés suivant le mois de la mise en paiement de la distribution.
 
 Pour l'application du deuxième alinéa du présent III, les sommes réputées distribuées au titre d'un exercice au sens des articles 109 à 117 sont considérées comme mises en paiement à la clôture de cet exercice.
-
-NOTA :
-
-Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 6 II : Ces dispositions sont applicables aux montants distribués dont la mise en paiement est intervenue à compter de la date de publication de la présente loi et le F dudit I s'applique aux exercices clos à compter de cette même date.
-
-Par exception au deuxième alinéa du III de l'article 235 ter ZCA du code général des impôts, pour les distributions mises en paiement avant le 1er septembre 2012, la contribution prévue à ce même article est payée spontanément lors du versement d'acompte d'impôt sur les sociétés du 15 décembre 2012.

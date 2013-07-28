@@ -70,7 +70,7 @@ VII. ― La réduction d'impôt obtenue fait l'objet d'une reprise au titre de l
 
 2° Le démembrement du droit de propriété de l'immeuble concerné ou des parts. Toutefois, aucune remise en cause n'est effectuée lorsque le démembrement de ce droit ou le transfert de la propriété du bien résulte du décès de l'un des membres du couple soumis à imposition commune et que le conjoint survivant attributaire du bien ou titulaire de son usufruit s'engage à respecter les engagements prévus au I et, le cas échéant, au VIII, dans les mêmes conditions et selon les mêmes modalités, pour la période restant à courir à la date du décès.
 
-VIII. ― La réduction d'impôt est applicable, dans les mêmes conditions, à l'associé d'une société civile de placement immobilier régie par les articles L. 214-50 et suivants du code monétaire et financier dont la quote-part de revenu est, en application de l'article 8, soumise en son nom à l'impôt sur le revenu dans la catégorie des revenus fonciers.
+VIII. ― La réduction d'impôt est applicable, dans les mêmes conditions, à l'associé d'une société civile de placement immobilier régie par les articles L. 214-114 et suivants du code monétaire et financier dont la quote-part de revenu est, en application de l'article 8, soumise en son nom à l'impôt sur le revenu dans la catégorie des revenus fonciers.
 
 Le taux de la réduction d'impôt est de :
 
