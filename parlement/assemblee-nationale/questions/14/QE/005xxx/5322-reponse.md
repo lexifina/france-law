@@ -1,0 +1,9 @@
+# Réponse à la question n° 5322
+
+- Question : [5322](5322.md) — Question n° 5322 — commissariat de Colombes; perspectives
+
+## Réponse
+
+*JO du 2013-07-30*
+
+Depuis 1979 le commissariat de circonscription de Colombes est implanté 5 rue du 8 mai 1945, dans une maison bourgeoise louée à la municipalité. D'une surface utile de 845 m2, les locaux sont d'une capacité peu satisfaisante pour accueillir les 120 fonctionnaires affectés au commissariat. La Ville de Colombes, propriétaire des lieux, a effectué à plusieurs reprises des travaux portant notamment sur la réfection des façades, l'étanchéité des toitures terrasses, le remplacement des menuiseries extérieures, ainsi que des travaux d'aménagement pour l'accessibilité des personnes à mobilité réduite. Par ailleurs, le service des affaires immobilières de la Préfecture de Police est désormais chargé de l'entretien du bâtiment depuis la mise en oeuvré de la police d'agglomération. Le ministère de l'intérieur est conscient de la nécessité d'améliorer par des travaux spécifiques le fonctionnement de ce commissariat. Toutefois, la configuration du site ne permet pas d'envisager une extension, seule solution permettant la rénovation globale du site et l'amélioration sensible des conditions de travail et d'accueil au sein du commissariat. L'hypothèse d'un aménagement dans des locaux précédemment occupés par la Gendarmerie nationale et appartenant au département a été un moment avancée. Elle s'est avérée irréalisable compte tenu du coût de restructuration de bâtiments inadaptés (anciens logements) et d'une incompatibilité avec les prescriptions du plan de prévention des risques d'inondation en vigueur sur le site. La recherche d'une nouvelle implantation s'avère donc indispensable pour apporter à ce dossier une solution satisfaisante pouvant être programmée par le ministère de l'intérieur.
