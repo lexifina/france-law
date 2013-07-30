@@ -1,0 +1,9 @@
+# Réponse à la question n° 20217
+
+- Question : [20217](20217.md) — Question n° 20217 — réglementation
+
+## Réponse
+
+*JO du 2013-07-30*
+
+Il ressort des dispositions de l'article 352 du code civil que le placement d'un enfant en vue de son adoption plénière fait échec à toute déclaration de filiation ou reconnaissance. Sous réserve de l'appréciation des tribunaux, ces dispositions ont donc vocation à s'appliquer que l'adoption ait été prononcée au bénéfice d'un couple marié ou d'une personne seule. La reconnaissance n'est recevable dans un tel cas de figure que si le parent souhaitant reconnaître l'enfant a, au préalable, exercé avec succès une tierce opposition, soit contre le jugement d'adoption à condition qu'il y ait eu fraude ou dol imputable aux adoptants (article 353-2 du code civil), soit contre le jugement ayant constaté l'abandon lorsque l'adoption concerne un enfant qui a été déclaré judiciairement abandonné et à condition qu'il y ait eu dol, fraude ou erreur sur l'identité de l'enfant (article 350 alinéa 6 du code civil). Toutefois, si la reconnaissance n'est pas possible en dehors de ces cas, le conjoint de l'adoptant peut établir un lien de filiation à l'égard de l'enfant, en l'adoptant. Cette règle, qui découlait de l'article 346 du code civil, est désormais expressément prévue depuis l'adoption de la loi n° 2013-404 du 17 mai 2013 ouvrant le mariage aux couples de personnes de même sexe. En effet, le nouvel article 345-1 du code civil issu de cette loi permet expressément l'adoption plénière de l'enfant du conjoint lorsque l'enfant a déjà fait l'objet d'une adoption plénière par ce seul conjoint et n'a de filiation établie qu'à son égard. Une telle adoption demeure en revanche impossible pour un concubin ou un partenaire, la loi précitée n'ayant pas réformé les conditions d'accès à l'adoption et le mariage demeurant nécessaire pour adopter conjointement un enfant ou l'enfant du conjoint.
