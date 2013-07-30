@@ -1,0 +1,9 @@
+# Réponse à la question n° 29439
+
+- Question : [29439](29439.md) — Question n° 29439 — revendications
+
+## Réponse
+
+*JO du 2013-07-30*
+
+Au terme de l'arrêté du 30 mars 1999, l'autruche figure dans la liste des espèces animales non domestiques prévue à l'article R. 413-6 du code de l'environnement, et à ce titre, relève effectivement du ministère chargé de l'écologie. Bien que l'abattage et la mise sur le marché de la viande d'autruche soient autorisés par une note de service n° 8076 du 21 avril 1993 de la direction générale de l'alimentation du ministère chargé de l'agriculture, il n'en demeure pas moins que, sur le plan juridique, les autruches sont des animaux non domestiques et ce, conformément à l'article précité du code de l'environnement. A cet égard, c'est par arrêté conjoint avec le ministre chargé de l'environnement que le ministre chargé de l'agriculture, le 2 avril 2001, a fixé les règles générales de fonctionnement et les caractéristiques des installations des établissements d'élevage d'autruches, s'agissant notamment du respect des pratiques d'élevage, du bien-être animal, et des conditions d'abattage. La caractéristique particulière de ces élevages d'autruches est de remplir plusieurs fonctions : élevage, abattage, vente directe de viande, et organisation de visites scolaires voire touristiques. L'intervention des différents ministères, notamment en matière de contrôle, provient directement du fait que ces élevages exercent traditionnellement ces différentes activités. Le ministre chargé de l'agriculture souscrit pleinement à la nécessité de résoudre les difficultés administratives soulevées. Néanmoins, la solution ne réside pas nécessairement dans le classement de l'autruche en animal domestique. Il s'agit, en premier lieu, d'instaurer un dialogue constructif entre les représentants des éleveurs et les services des différents ministères compétents et ce, en vue de simplifier les démarches administratives.
