@@ -1,0 +1,9 @@
+# Réponse à la question n° 18856
+
+- Question : [18856](18856.md) — Question n° 18856 — décentralisation; compétences; transfert
+
+## Réponse
+
+*JO du 2013-07-30*
+
+Dans le cadre de la réflexion engagée sur les missions prioritaires de l'Etat au titre de la modernisation de l'action publique, mais aussi dans la perspective de l'acte III de décentralisation, la question de l'avenir des établissements du Ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative (MSJEPVA) est posée. L'objectif pour le ministère est de conforter un réseau d'établissements couvrant d'une part les besoins des territoires et d'autre part des missions nationales en matière de sport de haut niveau, de service public de formation et d'expertise. Il s'agit, comme le traduisent les expériences conduites aujourd'hui dans certaines régions, d'asseoir leur ancrage territorial autour d'un projet partagé avec les collectivités locales, et en particulier les régions, dans le cadre d'une nouvelle gouvernance associant les acteurs du territoire. La réforme s'inscrit dans le cadre du projet de loi de mobilisation des régions pour la croissance, l'emploi et la promotion de l'égalité des territoires qui sera présenté à l'automne 2013. Elle vise à modifier le code du sport, afin de transformer les CREPS en établissements publics locaux de formation du sport (sur un modèle inspiré mais non transposé des EPLE). L'entrée en vigueur de la loi est envisagée au 1er janvier 2015. S'agissant des responsabilités nouvelles confiées au mouvement sportif, l'Etat a souhaité la création du CFSI, Comité français pour le sport international, qui doit à la fois favoriser l'obtention par la France de l'organisation de grands évènements sportifs internationaux, et soutenir les candidatures françaises dans les instances des fédérations internationales. Ces décisions n'emportent pas de conséquence sur le réseau déconcentré de l'Etat.
