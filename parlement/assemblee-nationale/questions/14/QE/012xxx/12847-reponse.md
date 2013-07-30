@@ -1,0 +1,9 @@
+# Réponse à la question n° 12847
+
+- Question : [12847](12847.md) — Question n° 12847 — portables; zones d'ombre; réduction
+
+## Réponse
+
+*JO du 2013-07-30*
+
+Afin de compléter la couverture mobile en 2G, le programme « zones blanches » a été initié par la signature, le 15 juillet 2003, d'une convention nationale entre le Gouvernement, l'autorité de régulation des communications électroniques et des postes (ARCEP), l'assemblée des départements de France (ADF), l'association des maires de France (AMF) et les trois opérateurs mobiles « historiques » (Orange, SFR et Bouygues Telecom). Cofinancé par l'Etat, les opérateurs mobiles et les collectivités territoriales, ce programme vise à apporter la couverture mobile dans les centres-bourgs de 3 073 communes, principalement situées en zone rurale, qui n'étaient couvertes par aucun opérateur de téléphonie mobile. En 2008, un nouveau recensement a permis d'identifier 364 nouvelles communes additionnelles qui ont été prises en compte dans le programme complémentaire. Au 28 février 2013, il reste 149 communes à couvrir, 26 communes au titre du programme initial et 123 au titre du programme complémentaire. Le programme est donc réalisé à plus de 95 %. L'objectif est d'achever le programme d'ici la fin de l'année 2013. D'une manière générale, la couverture de ces zones blanches est réalisée de manière prédominante selon la technique de l'itinérance locale, c'est-à-dire qu'un opérateur accueille les utilisateurs des autres opérateurs dans une zone où il est le seul présent. Cependant, la solution consistant à mutualiser des infrastructures passives (chaque opérateur installant ses infrastructures actives) a été retenue dans les zones où une telle solution s'avérait économiquement ou techniquement justifiée. Quelle que soit la technique de couverture retenue, les abonnés des trois opérateurs participant au programme « zones blanches » bénéficient à terme d'une couverture en téléphonie mobile effective.
