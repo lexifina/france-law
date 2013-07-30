@@ -1,0 +1,9 @@
+# Réponse à la question n° 27678
+
+- Question : [27678](27678.md) — Question n° 27678 — Cour européenne des droits de l'Homme; décision; attitude de la France
+
+## Réponse
+
+*JO du 2013-07-30*
+
+Par trois arrêts du 31 janvier 2013, la Cour européenne des droits de l'homme a condamné la France pour violation de l'article 9 de la Convention européenne des droits de l'homme (liberté de religion) en raison de la taxation, à l'issue de contrôles fiscaux, des dons manuels reçus par trois associations : l'Association Cultuelle du Temple Pyramide, l'Association Les Chevaliers du Lotus d'Or et l'Eglise Evangélique Missionnaire. Dans ces arrêts, la Cour a fait strictement application de sa jurisprudence issue de son arrêt du 30 juin 2011 « Association Les Témoins de Jéhovah c. France », qui portait sur la même question et est définitif. Le Gouvernement n'a donc pas demandé le renvoi en Grande Chambre de ces arrêts, demande qui aurait été dépourvue de toute chance de succès. Il convient toutefois de préciser que, comme dans l'affaire « Témoins de Jéhovah », la Cour a fondé son constat de violation exclusivement sur l'imprévisibilité de la taxation d'office des associations requérantes sur le fondement de l'article 757 du code général des impôts (CGI), en vertu duquel les dons manuels « révélés » à l'administration fiscale sont assujettis aux droits de donation. Pas plus qu'elle ne l'avait fait dans son arrêt du 30 juin 2011, la Cour n'a, dans ses arrêts du 31 janvier 2013 remis en cause le principe de la taxation des dons manuels ni ne s'est à aucun moment prononcée sur le contenu des croyances en cause. Ces décisions ne sauraient donc en tout état de cause être valablement interprétées par des mouvements sectaires comme un signal dans leur direction, leur ouvrant droit aux avantages fiscaux des associations cultuelles.
