@@ -1,0 +1,9 @@
+# Réponse à la question n° 25275
+
+- Question : [25275](25275.md) — Question n° 25275 — implantation; Var
+
+## Réponse
+
+*JO du 2013-07-30*
+
+Les récentes crises en lien avec l'alimentation ont montré que le développement des circuits courts et de proximité peut permettre de redonner confiance au consommateur. Par ailleurs, le Président de la République a, pendant sa campagne électorale, fixé l'objectif pour la restauration collective publique d'un approvisionnement à hauteur de 40 % en produits locaux issus de toutes les agricultures. Concernant plus particulièrement les abattoirs, des commissions interrégionales des abattoirs ont été créées, par décret du 7 février 2012, à la suite des conclusions de plusieurs audits sur la situation du réseau des abattoirs en France. Le rôle de ces commissions est d'impulser une réflexion partagée par les acteurs de la filière sur la thématique de l'abattage à un niveau territorial pertinent. Ces instances doivent en particulier définir les perspectives d'évolution de l'offre d'abattage au niveau du bassin en lien avec les capacités de production et élaborer, sur cette base, une stratégie interrégionale d'abattage permettant de répondre à la situation actuelle et de relever les défis à venir de la filière. Cette stratégie sera un outil d'aide à la décision pour l'Etat dans l'accompagnement des projets qui lui seront soumis. La Commission Sud-Est, regroupant les régions Rhône-Alpes, Provence-Alpes-Côte d'Azur et Corse, s'est réunie à deux reprises. Une stratégie interrégionale est en cours d'élaboration. Toutefois, les premiers travaux confirment les constats suivants : une surcapacité d'abattage, une diminution importante des tonnages abattus, des perspectives de production en repli, et une fragilité financière accrue de nombre d'outils. Tout projet d'ouverture d'un nouvel outil de faible tonnage doit être examiné à la lumière de cette situation.
