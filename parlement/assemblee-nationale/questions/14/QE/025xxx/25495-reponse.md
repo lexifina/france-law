@@ -1,0 +1,9 @@
+# Réponse à la question n° 25495
+
+- Question : [25495](25495.md) — Question n° 25495 — enseignement musical; perspectives
+
+## Réponse
+
+*JO du 2013-07-30*
+
+C'est en 1984 que les ministères chargés de la culture et de l'éducation nationale ont affiché une volonté commune de développer l'éducation artistique au sein du système scolaire, incitant la création de « centres de formation de musiciens intervenants en milieu scolaire » (CFMI). Neuf centres ont ainsi vu le jour, revêtant des formes juridiques diverses, mais tous rattachés à une université. Depuis trente ans, ils forment des artistes, musiciens professionnels, pour que les enfants pratiquent la musique à l'école primaire dans une démarche de projet avec les professeurs des écoles. Ce sont ainsi près de 5000 musiciens qui oeuvrent aujourd'hui auprès des enfants, majoritairement en tant qu'assistants principaux d'enseignement artistique au sein des collectivités territoriales. Le ministère en charge de la culture, qui a fait de l'éducation artistique et culturelle dès le plus jeune âge une de ses priorités, est pleinement conscient du rôle des musiciens intervenants dans ce domaine ; leur action pourra d'ailleurs prendre une nouvelle dimension dans le cadre du projet de loi pour la refondation de l'École de la République. Il est donc très attaché à ce que le soutien apporté par l'État aux CFMI soit pérennisé et à ce que ces structures soient confortées. Dans cette perspective, il sera proposé aux ministères de l'éducation nationale et de l'enseignement supérieur et de la recherche d'organiser avec le ministère en charge de la culture une coordination interministérielle dès la rentrée 2013. La première démarche de cette coordination pourrait être le lancement d'une étude sur la formation et le parcours des musiciens intervenants, dans le cadre de la mise en place des nouveaux horaires à l'école primaire et des écoles supérieures du professorat et de l'éducation.
