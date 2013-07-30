@@ -1,0 +1,9 @@
+# Réponse à la question n° 29364
+
+- Question : [29364](29364.md) — Question n° 29364 — statut; perspectives
+
+## Réponse
+
+*JO du 2013-07-30*
+
+La loi de finances pour 2013 a mis sous plafond, à hauteur du niveau de 2012, le montant du produit de l'imposition à percevoir, en 2013, par l'ensemble des chambres départementales d'agriculture. Ce plafonnement, à hauteur de 297 millions d'euros, est intervenu après une progression de la taxe pour frais de chambre de 1,8 % en 2011 et de 1,5 % en 2012, soit une augmentation, sur deux ans, d'environ 9,5 millions d'euros. Les chambres d'agriculture, de par leurs missions de représentation et d'intervention, sont des acteurs essentiels du développement agricole et rural. Elles jouent un rôle fondamental pour accompagner les exploitations agricoles et les orienter dans des directions nouvelles, notamment pour assurer la transition vers l'agro-écologie. Le ministère chargé de l'agriculture porte une attention toute particulière à ce que le réseau des chambres d'agriculture puisse disposer des ressources nécessaires au plein exercice de ses missions, et en particulier que le montant du produit de la taxe pour frais de chambre soit préservé. Il appartient cependant aux chambres d'agriculture, en tant qu'établissements publics, de veiller, dans le cadre de leur gestion, à la maîtrise de leurs charges pour équilibrer leur budget. La démarche de mutualisation engagée par les chambres d'agriculture devrait, à cet égard, commencer à porter ses fruits et engendrer des économies d'échelle. Elle doit cependant être renforcée. L'élaboration dans les prochains mois d'un contrat d'objectifs entre l'ACCA et l'Etat, intitulé Pacte d'avenir, sera l'occasion de conforter l'action des chambres au service des agriculteurs, malgré le contexte budgétaire contraint.
