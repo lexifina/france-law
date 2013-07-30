@@ -1,0 +1,9 @@
+# Réponse à la question n° 21184
+
+- Question : [21184](21184.md) — Question n° 21184 — autorisations de travail; délivrance
+
+## Réponse
+
+*JO du 2013-07-30*
+
+L'arrêté du 11 août 2011 relatif à la délivrance, sans opposition de la situation de l'emploi, des autorisations de travail aux étrangers non ressortissants d'un État membre de l'Union européenne, d'un autre État partie à l'Espace économique européen ou de la Confédération suisse a été annulé par un arrêt du Conseil d'État rendu le 26 décembre 2012 sur le fondement d'un défaut de consultation des organisations syndicales d'employeurs et de salariés représentatives, alors même que cette consultation est expressément mentionnée à l'article L. 313-10 1° du code de l'entrée et du séjour des étrangers et du droit d'asile. Dès lors, l'arrêté du 18 janvier 2008 est revenu en vigueur. L'évolution de la conjoncture économique rend nécessaire d'élaborer un nouvel arrêté, en recourant à une méthode analogue pour mesurer l'état des tensions sur le marché du travail. La liste des métiers caractérisée par des difficultés de recrutement qui ne peuvent être comblées à court terme par la formation professionnelle des demandeurs d'emploi sera soumise aux partenaires sociaux et à l'échelon régional, aux commissions paritaires régionales de l'emploi et de la formation professionnelle. Le débat parlementaire sur l'immigration professionnelle et étudiante qui s'est tenu le 24 avril au Sénat et le 13 juin à l'Assemblée nationale n'a pas remis en cause le principe d'une liste nationale déclinée régionalement et fixée par arrêté. Cette liste sera élaborée dans un esprit de rigueur et de concertation avec les partenaires sociaux, mais aussi avec les conseils régionaux. Il sera ainsi possible, au vu de la situation locale du marché du travail, aux commissions paritaires régionales de l'emploi et de la formation professionnelle de proposer d'inscrire sur la liste régionale, des métiers.
