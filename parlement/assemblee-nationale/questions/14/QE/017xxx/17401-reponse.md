@@ -1,0 +1,9 @@
+# Réponse à la question n° 17401
+
+- Question : [17401](17401.md) — Question n° 17401 — gouvernance transfrontalière
+
+## Réponse
+
+*JO du 2013-07-30*
+
+La situation géographique des collectivités situées à proximité immédiate d'une frontière nécessite la prise en compte de cette particularité, qui donne dans de nombreux cas lieu à la mise en place d'actions de coopération transfrontalière avec leurs homologues étrangères. Afin de remédier aux obstacles causés par les divergences entre les situations et les législations nationales, des outils juridiques ont été développés, notamment dans le cadre de l'Union européenne (UE) et du Conseil de l'Europe. Ceux-ci sont destinés à faciliter la mise en oeuvre de projets impliquant, dans le respect de leurs compétences, des collectivités situées de part et d'autre des frontières. Au niveau de l'UE, le règlement n° 1082/2006 institue le groupement européen de coopération territoriale (GECT). Sur la trentaine de GECT créés à ce jour, 11 impliquent des collectivités françaises et 8 ont leur siège en France. La ratification par la France du 3e Protocole à la convention-cadre de Madrid, élaboré dans le cadre du Conseil de l'Europe et entré en vigueur le 15 mai dernier, a permis de mettre en oeuvre le groupement eurorégional de coopération (GEC), pour associer des collectivités des Etats membres de l'UE avec des collectivités issues d'Etats membres du Conseil de l'Europe. En droit interne, les articles L. 1115-1 et suivants du code général des collectivités territoriales (CGCT) organisent la participation des collectivités aux différents dispositifs de coopération décentralisée. Les actions menées sur le fondement de ces dispositions témoignent d'une grande implication des collectivités territoriales et de leurs groupements dans ce domaine. Ainsi, un nombre croissant de régions, de départements, de communes et structures intercommunales sont engagés dans des projets de coopération.
