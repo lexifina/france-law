@@ -1,0 +1,9 @@
+# Réponse à la question n° 19704
+
+- Question : [19704](19704.md) — Question n° 19704 — calcul
+
+## Réponse
+
+*JO du 2013-07-30*
+
+Le dénuement des personnes les plus pauvres a poussé la société française à mettre en place des aides sociales, dont fait partie le revenu de solidarité active (RSA). Il s'agissait notamment de pallier les carences des solidarités familiales pour les personnes les plus isolées, mais non de les compléter. Ainsi, en vertu de l'article R. 262-6 du Code de l'action sociale et des familles (CASF), l'aide reçue par un allocataire du RSA de la part d'un tiers est prise en compte dans la détermination du montant versé, notamment afin de garantir une égalité de traitement entre différents bénéficiaires. En effet, le RSA, institué par la loi no 2008-1249 du 1er décembre 2008, répond au principe de subsidiarité, pilier de l'aide sociale en France. Il intervient en dernier recours pour garantir à tous les foyers placés dans la même situation (composition familiale et ressources tirées de l'activité professionnelle) un égal niveau minimum de ressources. Le montant versé au bénéficiaire correspond ainsi à la différence entre le montant garanti, identique pour tous, et les ressources dont dispose déjà le foyer. Aussi, l'aide reçue par un allocataire du RSA de la part de ses parents justifie bien une minoration du montant du RSA versé ; ceci, en particulier quand l'aide en question donne lieu à la déclaration par les parents auprès des services fiscaux d'une pension alimentaire, qui ouvre droit à une déduction d'impôts. Le RSA permet donc à tous de percevoir un même minimum. Dès lors, la prise en compte des aides familiales doit être considérée comme la garantie de l'égalité entre personnes les plus isolées, et personnes bénéficiant d'un soutien notamment familial.
