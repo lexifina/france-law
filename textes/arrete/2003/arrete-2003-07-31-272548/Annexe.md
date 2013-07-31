@@ -1,10 +1,8 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+INFORMATIONS REQUISES POUR L'INSCRIPTION AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : attaché commercial.
+Intitulé : commercial (e)
 
 Niveau : IV.
 
@@ -12,53 +10,75 @@ Code NSF : 312 t.
 
 Résumé du référentiel d'emploi
 
-L'attaché commercial prospecte et visite des entreprises ou, dans certains cas, des particuliers pour vendre des produits ou des prestations de services standards. Les produits vendus sont des biens d'équipement professionnel, des biens intermédiaires ou de consommation.
+Le (la) commercial (e) prospecte un secteur de vente et vend à des entreprises ou des particuliers des produits ou prestations de services référencés. Son but est d'atteindre des objectifs de vente (chiffre d'affaires, marge, objectifs quantitatifs) dans le cadre de la politique commerciale de son entreprise.
 
-Il développe une clientèle sur un secteur géographique et / ou un marché spécifique en utilisant les outils de marketing. Il participe également aux actions de communication de l'entreprise : salons professionnels, journées portes ouvertes, etc.
+Le (la) commercial (e) gère la relation commerciale avec les prospects et les clients d'un secteur de vente.
 
-Il propose au client qu'il visite une offre commerciale prédéfinie et correspondant à l'objectif de chiffre d'affaires et / ou de marge commerciale qui lui est fixé. Il dispose d'une autonomie de négociation limitée aux remises et avantages fixés par la politique commerciale de son entreprise.
+Il (elle) prospecte à distance et physiquement un secteur géographique ou spécifique.
 
-L'attaché commercial dispose en général d'une autonomie d'organisation de son travail mais qui peut varier selon la taille et la nature de l'entreprise.
+En ciblant une clientèle d'entreprises ou de particuliers à partir de critères pertinents, il (elle) exploite les potentialités de son secteur. Il (elle) vend en face-à-face des produits et des prestations de services référencés répondant aux besoins de ses clients, en défendant les intérêts de son entreprise.
 
-L'emploi suppose des déplacements fréquents sur un secteur précis (ville, département), ou parfois plus important (plusieurs départements, une région, voire la France entière).
+Il (elle) assure le suivi de ses ventes et met à jour les bases de données commerciales de l'entreprise.
 
-Capacités attestées et descriptif
+Il (elle) organise ses déplacements sur son secteur de vente avec l'objectif de les optimiser.
 
-des composantes de la certification
+Lors d'un entretien de vente, il (elle) négocie les conditions commerciales dans un cadre défini par sa hiérarchie et applique les conditions générales de vente de son entreprise.
 
-1. Vendre et négocier des produits et prestations
+Il (elle) rend compte de son activité et de ses résultats à sa hiérarchie. S'il (elle) est salarié (e), il (elle) est rattaché (e) à un responsable commercial.
 
-de services en face-à-face
+Selon l'organisation commerciale de l'entreprise, il (elle) travaille en collaboration avec des assistants commerciaux, des téléprospecteurs, des logisticiens des comptables et le service administration des ventes. Il (elle) est en relation commerciale avec les prospects, clients et prescripteurs.
 
-Représenter son entreprise et contribuer à la valorisation de son image.
+Le (la) commercial (e) se déplace sur un secteur géographique. Il (elle) a des horaires flexibles et s'adapte à ceux des clients. Pour favoriser sa réactivité auprès des clients et de l'entreprise, il (elle) utilise des outils nomades (smartphone, ordinateurs portables, systèmes de géo-localisation, tablettes). Le permis de conduire est généralement requis.
 
-Mener un entretien de vente et de négociation de produits et de prestations de services en situation de face-à-face pour réaliser une transaction commerciale.
+Il (elle) peut avoir un statut de salarié (e) et/ ou de VRP (voyageur représentant placier), un statut d'agent commercial ou de profession libérale.
 
-Traiter les réclamations du client en prenant en compte les intérêts de l'entreprise du vendeur.
+Capacités attestées et descriptif des composantes
 
-2. Prospecter, gérer et animer un secteur de vente
+de la certification
 
-géographique et / ou un marché spécifique
+1. Prospecter un secteur de vente
 
-Organiser son plan d'action commerciale en fonction des potentiels clients / prospects de son secteur et en s'informant sur son environnement.
+et organiser son activité commerciale
 
-Développer les contacts clients / prospects.
+Organiser son activité commerciale.
 
-Evaluer ses résultats et son activité commerciale.
+Prospecter à distance.
+
+Prospecter physiquement avec et sans rendez-vous.
+
+Analyser ses performances commerciales et en rendre compte.
+
+2. Vendre en face-à-face des produits et des services
+
+référencés aux entreprises et aux particuliers
+
+Représenter l'entreprise et valoriser son image.
+
+Mener un entretien de vente de produits et de services référencés aux entreprises et aux particuliers.
+
+Assurer le suivi de ses ventes.
+
+Compétences transversales de l'emploi.
+
+Organiser son activité commerciale en cohérence avec les objectifs fixés.
+
+Communiquer oralement avec un client ou prospect.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Tous les secteurs de production ou de commercialisation de biens et de services standards.
+Les différents secteurs d'activités concernés sont principalement :
 
-Il peut travailler pour une ou plusieurs entreprises et exercer sous des statuts divers : salarié de droit commun, VRP, vendeur multicartes ou agent commercial.
+-les secteurs d'activité qui nécessitent des commerciaux pour leur développement.
 
-Codes ROME :
+Les types d'emplois accessibles sont les suivants :
 
-14313-Attaché (e) commercial (e) en biens de consommation pour entreprise.
+-commercial, représentant, attaché commercial, prospecteur, délégué commercial.
 
-14314-Attaché (e) commercial (e) en services pour entreprises.
+Code ROME :
+
+D 1403-Relation commerciale auprès de particuliers.
 
 Réglementation de l'activité :
 
@@ -70,6 +90,10 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation : les articles L. 335-5, L. 335-6 et R. 338-1 et suivants ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 1er août 2013.
