@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130606846
+
+- Question : [SEQ130606846](seq130606846.md) — Autorisation aux mineurs de moins de seize ans d'un film utra-violent
+
+## Réponse
+
+*Culture et communication, JO du 2013-08-01, page 2260*
+
+Le réexamen du film « Only God forgives » par la commission de classification des œuvres cinématographiques a respecté une procédure inscrite tout à la fois dans les textes et dans la pratique. L'article 4 du décret n° 90-174 du 23 février 1990 prévoit en effet expressément que la ministre de la culture et de la communication peut demander un second examen du film par la commission. En voici les termes : « Avant de statuer, le ministre a la faculté de demander à la commission un nouvel examen (...) La procédure prévue à l'alinéa précédent est obligatoire dans le cas où le ministre chargé de la culture envisage de prendre une décision comportant une mesure plus restrictive que celle qui a été proposée par la commission de classification ». En tout état de cause, si l'intention de la ministre avait été d'accorder une classification moins restrictive, elle eût pu le faire, comme le prévoit le texte suscité, sans avoir à solliciter un nouvel avis de la commission. En demandant à la commission de réexaminer le film, elle n'a fait que respecter la pratique généralement appliquée par tous ses prédécesseurs depuis plus d'une vingtaine d'année lorsqu'est contesté un premier avis de la commission, que cette contestation se manifeste en faveur d'une mesure plus souple ou qu'elle revendique un durcissement de la classification proposée. Dans ce cas, il est également de tradition que la ministre suive le dernier avis exprimé par la commission : c'est ce qu'elle a fait en décidant d'appliquer au film « Only God Forgives » une interdiction aux mineurs de douze ans assortie d'un avertissement.
