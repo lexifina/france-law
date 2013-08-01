@@ -1,0 +1,31 @@
+# Réponse à la question SEQ130707639
+
+- Question : [SEQ130707639](seq130707639.md) — Creusement des inégalités entre jeunes
+
+## Réponse
+
+*Sports, jeunesse, éducation populaire et vie associative, JO du 2013-08-01, page 2275*
+
+Lors du Conseil interministériel de la Jeunesse du 21 février 2013, le Gouvernement a adopté un plan d’action pour la jeunesse qui s’articule autour de 13 chantiers prioritaires, déclinés en 47 mesures concrètes, mises en œuvre dès 2013.
+
+Cette nouvelle politique va réformer l’action publique en faveur des jeunes en profondeur, en s’appuyant sur quatre principes :
+
+- favoriser le droit commun pour l’accès aux droits sociaux;
+
+- viser l’autonomie et la sécurisation des parcours dans leur globalité;
+
+- lutter contre les inégalités et les discriminations;
+
+- encourager la participation des jeunes et la coconstruction des politiques publiques.
+
+Parmi les chantiers conduits dès à présent, la création d’un nouveau service public d’information, d'accompagnement et d'orientation permettra de répondre à la diversité des attentes des jeunes en la matière. Ces travaux seront menés avec les collectivités et incluront une rationalisation des dispositifs d’information existants.
+
+Le Gouvernement se fixe l’objectif de diminuer de moitié le décrochage des jeunes avant 2017. Dès 2013, 3000 jeunes décrocheurs bénéficieront d’une offre combinée service civique-formation ; des actions de prévention seront également menées dans chaque académie.
+
+L’accès à l’emploi restant la meilleure voie d’accès à l’autonomie, le Gouvernement a créé les emplois d’avenir destinés en premier lieu aux jeunes de 16 à 25 ans sans diplôme. Au 14 février 2013, près de 5000 contrats d’emplois d’avenir ont été signés. 18000 étudiants modestes pourront en outre accéder à un emploi d’avenir professeur sur 3 ans.
+
+Avec le contrat de génération, c’est un changement de regard sur les âges et une inflexion des pratiques des entreprises qui sont visés afin de refaire du CDI la norme.
+
+Les initiatives des jeunes créateurs d’entreprises seront également soutenues : le ministère délégué chargé des PME, de l’innovation et de l’économie numérique les accompagnera avec des solutions de microcrédit, de prêts, ou des garanties de la Banque publique d’investissement. Les régions seront également sollicitées et des démarches de sensibilisation des élèves à l’entrepreneuriat seront développées au collège et au lycée.
+
+Enfin, pour lutter contre les discriminations dont sont victimes les jeunes issus des quartiers prioritaires, le ministère délégué à la ville, en lien avec celui du travail, de l’emploi, de la formation professionnelle et du dialogue social et Pôle emploi, va expérimenter la création de 2000 emplois francs pour 10 sites tests sur la période 2013-2015. Il s’agit d’un dispositif incitatif pour favoriser l’embauche des jeunes qui résident dans les zones urbaines sensibles (ZUS) sous la forme d’une aide forfaitaire annuelle versées aux entreprises.
