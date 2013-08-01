@@ -6,7 +6,7 @@ TECHNICIEN (NE) SUPÉRIEUR (E)
 
 de support en informatique
 
-(arrêté du 22 juillet 2003)
+(arrêté du 22 juillet 2003 modifié)
 
 |
 
@@ -18,32 +18,22 @@ de support en informatique
 
 |
 
-Intervenir à distance et au premier niveau en informatique.
+Intervenir et assister à distance en centre de services informatiques |
+
+Intervenir et assister en centre de services sur l'environnement de travail utilisateur
 
 |
 
-Intervenir et assister à distance en centre de services informatiques.
+Intervenir et assister sur les systèmes et les réseaux informatiques
 
 |
 
-Intervenir à distance et au deuxième niveau en informatique.
+Intervenir et assurer le support sur les systèmes et les réseaux informatiques
 
 |
 
-Intervenir et assister sur les systèmes et les réseaux informatiques.
+Intervenir et assister sur les applications informatiques transverses |
 
-Intervenir et assister sur les applications informatiques transverses.
-
-|
-
-Assurer la gestion technique d'un parc informatique et d'un service d'assistance.
+Intervenir et assurer le support sur les serveurs d'applications
 
 |
-
-Néant.
-
-|
-
-NOTA :
-
-Arrêté du 23 avril 2008 article 1 : L'arrêté du 22 juillet 2003 est prorogé pour une durée de cinq ans à compter de la date d'entrée en vigueur du présent arrêté.
