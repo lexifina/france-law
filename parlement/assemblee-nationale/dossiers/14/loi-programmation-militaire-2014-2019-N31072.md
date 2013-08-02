@@ -1,0 +1,72 @@
+# Défense : loi de programmation militaire 2014-2019
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N31072
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/loi_programmation_militaire_2014-2019
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl12-822.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-08-02 : 1er dépôt d'une initiative. (PRJLSNR5S199B0822)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-08-02 : Renvoi en commission au fond
+      - 2013-09-11 : Nomination de rapporteur
+      - 2013-10-08 : Dépôt de rapport (RAPPSNR5S219B0050)
+    - Travaux d'une commission saisie pour avis
+      - 2013-09-18 : Saisine pour avis d'une commission
+      - 2013-09-18 : Nomination de rapporteur
+      - 2013-10-09 : Dépôt de rapport (AVISSNR5S219B0056)
+    - Travaux d'une commission saisie pour avis
+      - 2013-09-18 : Saisine pour avis d'une commission
+      - 2013-09-18 : Nomination de rapporteur
+      - 2013-10-09 : Dépôt de rapport (AVISSNR5S219B0053)
+  - Discussion en séance publique
+    - 2013-10-21 : Discussion en séance publique
+    - 2013-10-21 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-10-22 : Dépôt d'une initiative en navette (PRJLANR5L14B1473)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-10-22 : Renvoi en commission au fond
+      - 2013-10-01 : Nomination de rapporteur
+      - 2013-11-13 : Réunion de commission
+      - 2013-11-26 : Réunion de commission
+      - 2013-11-14 : Dépôt de rapport (RAPPANR5L14B1551, PRJLANR5L14BTC1551)
+    - Travaux d'une commission saisie pour avis
+      - 2013-10-22 : Saisine pour avis d'une commission
+      - 2013-09-18 : Nomination de rapporteur
+      - 2013-11-06 : Réunion de commission
+      - 2013-11-06 : Dépôt de rapport (AVISANR5L14B1531)
+    - Travaux d'une commission saisie pour avis
+      - 2013-10-23 : Saisine pour avis d'une commission
+      - 2013-10-15 : Nomination de rapporteur
+      - 2013-11-12 : Dépôt de rapport (AVISANR5L14B1540)
+    - Travaux d'une commission saisie pour avis
+      - 2013-10-31 : Saisine pour avis d'une commission
+      - 2013-10-23 : Nomination de rapporteur
+      - 2013-11-12 : Réunion de commission
+      - 2013-11-12 : Dépôt de rapport (AVISANR5L14B1537)
+  - Discussion en séance publique
+    - 2013-11-26 : Discussion en séance publique
+    - 2013-11-26 : Discussion en séance publique
+    - 2013-11-27 : Discussion en séance publique
+    - 2013-11-27 : Discussion en séance publique
+    - 2013-11-29 : Discussion en séance publique
+    - 2013-11-29 : Discussion en séance publique
+    - 2013-11-29 : Discussion en séance publique
+    - 2013-12-03 : Discussion en séance publique
+    - 2013-12-03 : Décision
+- deuxième lecture
+  - 2013-12-04 : Dépôt d'une initiative en navette (PRJLSNR5S219B0188)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-12-04 : Renvoi en commission au fond
+      - 2013-12-04 : Dépôt de rapport (RAPPSNR5S219B0195)
+  - Discussion en séance publique
+    - 2013-12-10 : Discussion en séance publique
+    - 2013-12-10 : Décision
+- Promulgation de la loi
+  - 2013-12-18 : Promulgation d'une loi
