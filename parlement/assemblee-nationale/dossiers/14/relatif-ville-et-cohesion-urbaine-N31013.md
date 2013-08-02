@@ -1,0 +1,71 @@
+# Logement et urbanisme : ville et cohésion urbaine
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N31013
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/relatif_ville_et_cohesion_urbaine
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-178.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-08-02 : 1er dépôt d'une initiative. (PRJLANR5L14B1337)
+  - 2013-08-02 : Etude d'impact (ETDIANR5L14B1337)
+  - 2013-10-09 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-08-02 : Renvoi en commission au fond
+      - 2013-10-02 : Nomination de rapporteur
+      - 2013-11-14 : Réunion de commission
+      - 2013-11-14 : Réunion de commission
+      - 2013-11-22 : Réunion de commission
+      - 2013-11-14 : Dépôt de rapport (RAPPANR5L14B1554, PRJLANR5L14BTC1554)
+    - Travaux d'une commission saisie pour avis
+      - 2013-10-16 : Saisine pour avis d'une commission
+      - 2013-10-23 : Nomination de rapporteur
+      - 2013-11-13 : Réunion de commission
+      - 2013-11-13 : Dépôt de rapport (AVISANR5L14B1545)
+    - Travaux d'une commission saisie pour avis
+      - 2013-10-31 : Saisine pour avis d'une commission
+      - 2013-11-06 : Nomination de rapporteur
+      - 2013-11-13 : Réunion de commission
+      - 2013-11-13 : Dépôt de rapport (AVISANR5L14B1542)
+  - Discussion en séance publique
+    - 2013-11-22 : Discussion en séance publique
+    - 2013-11-22 : Discussion en séance publique
+    - 2013-11-22 : Discussion en séance publique
+    - 2013-11-27 : Discussion en séance publique
+    - 2013-11-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-11-27 : Dépôt d'une initiative en navette (PRJLSNR5S219B0178)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-11-27 : Renvoi en commission au fond
+      - 2013-10-23 : Nomination de rapporteur
+      - 2013-12-18 : Dépôt de rapport (RAPPSNR5S219B0250)
+    - Travaux d'une commission saisie pour avis
+      - 2013-11-06 : Saisine pour avis d'une commission
+      - 2013-11-06 : Nomination de rapporteur
+      - 2014-01-08 : Dépôt de rapport (AVISSNR5S219B0264)
+  - Discussion en séance publique
+    - 2014-01-14 : Discussion en séance publique
+    - 2014-01-15 : Discussion en séance publique
+    - 2014-01-15 : Décision
+- Commission Mixte Paritaire
+  - 2014-01-16 : Dépôt d'un projet de loi (PRJLANR5L14B1710)
+  - 2014-01-16 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-02-04 : Nomination de rapporteur
+    - 2014-02-04 : Dépôt du rapport d'une CMP (RAPPANR5L14B1761)
+    - 2014-02-04 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0333)
+  - Discussion en séance publique
+    - 2014-02-12 : Discussion en séance publique
+    - 2014-02-12 : Décision
+  - Discussion en séance publique
+    - 2014-02-13 : Discussion en séance publique
+    - 2014-02-13 : Décision
+  - 2014-02-05 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-02-21 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2016-05-11 : Rapport sur l'application des lois (RINFANR5L14B3735)
