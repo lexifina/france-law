@@ -12,31 +12,21 @@ Lorsque le bénéficiaire est une exploitation, les taux sont ainsi fixés :
 
 MONTANT
 
-de l'investissement
+de l'investissement |
 
-|
-
-TYPE D'INVESTISSEMENT
-
-|
+TYPE D'INVESTISSEMENT |
 
 MONTANT SUBVENTIONNABLE
 
-maximum
-
-|
+maximum |
 
 TAUX DE SUBVENTION
 
-(part Etat)
-
-|
+(part Etat) |
 
 TAUX DE SUBVENTION
 
-(part Etat + part UE)
-
-|
+(part Etat + part UE) |
 
 Hors zone de montagne
 
@@ -54,13 +44,11 @@ Construction neuve
 
 |
 
-|
+7,50 %
 
-7, 50 %
+|
 
 15 %
-
-|
 
 |
 
@@ -72,10 +60,6 @@ Rénovation
 
 |
 
-|
-
-|
-
 Zone de montagne
 
 |
@@ -92,11 +76,11 @@ Construction neuve
 
 |
 
-|
-
 15 % montagne
 
-17, 50 % haute montagne
+17,50 % haute montagne
+
+|
 
 30 % montagne
 
@@ -104,8 +88,6 @@ Construction neuve
 
 |
 
-|
-
 Rénovation
 
 |
@@ -114,11 +96,7 @@ Rénovation
 
 |
 
-|
-
-|
-
-Pour un exploitant jeune agriculteur qui a perçu les aides à l'installation en application des articles D. 343-3 à D. 343-18 du code rural dans la mesure où l'engagement juridique intervient dans la période de cinq ans suivant la date d'installation retenue dans le cadre du certificat de conformité à l'installation et que, à compter du 1er janvier 2007, son projet est inscrit dans le plan de développement de l'exploitation, sont appliquées des majorations de :
+Pour un exploitant jeune agriculteur qui a perçu les aides à l'installation en application des articles D. 343-3 à D. 343-18 du code rural et de la pêche maritime dans la mesure où l'engagement juridique intervient dans la période de cinq ans suivant la date d'installation retenue dans le cadre du certificat de conformité à l'installation, sont appliquées des majorations de :
 
 -10 points du taux de subvention (Etat + Union européenne) ;
 
@@ -126,35 +104,23 @@ Pour un exploitant jeune agriculteur qui a perçu les aides à l'installation en
 
 MONTANT
 
-de l'investissement
+de l'investissement |
 
-|
-
-TYPE D'INVESTISSEMENT
-
-|
+TYPE D'INVESTISSEMENT |
 
 MONTANT SUBVENTIONNABLE
 
-maximum
-
-|
+maximum |
 
 TAUX DE SUBVENTION
 
-(part Etat)
-
-|
+(part Etat) |
 
 TAUX DE SUBVENTION
 
-(part Etat + part UE)
+(part Etat + part UE) |
 
-|
-
-Hors zone de montagne
-
-|
+Hors zone de montagne |
 
 Minimum 15 000 euros
 
@@ -168,15 +134,11 @@ Construction neuve
 
 |
 
-|
-
-12, 50 %
-
-25 %
+12,50 %
 
 |
 
-|
+25 % |
 
 Rénovation
 
@@ -186,13 +148,7 @@ Rénovation
 
 |
 
-|
-
-|
-
-Zone de montagne
-
-|
+Zone de montagne |
 
 Minimum 15 000 euros
 
@@ -206,11 +162,11 @@ Construction neuve
 
 |
 
-|
-
 20 % montagne
 
-22, 50 % haute montagne
+22,50 % haute montagne
+
+|
 
 40 % montagne
 
@@ -228,45 +184,29 @@ Rénovation
 
 |
 
-|
-
-|
-
 Pour les formes sociétaires, ces majorations se calculent au prorata du nombre d'associés-exploitants bénéficiant du statut de jeune agriculteur sur le nombre total des associés-exploitants.
 
-Lorsque l'exploitation a bénéficié d'une aide au titre des travaux réalisés dans le cadre du premier programme de maîtrise des pollutions d'origine agricole (PMPOA1), le taux de base de l'aide Etat passe de 7, 50 % à 5 %.
+Lorsque l'exploitation a bénéficié d'une aide au titre des travaux réalisés dans le cadre du premier programme de maîtrise des pollutions d'origine agricole (PMPOA1), le taux de base de l'aide Etat passe de 7,50 % à 5 %.
 
 MONTANT
 
-de l'investissement
+de l'investissement |
 
-|
-
-TYPE D'INVESTISSEMENT
-
-|
+TYPE D'INVESTISSEMENT |
 
 MONTANT SUBVENTIONNABLE
 
-maximum
-
-|
+maximum |
 
 TAUX DE SUBVENTION
 
-(part Etat)
-
-|
+(part Etat) |
 
 TAUX DE SUBVENTION
 
-(part Etat + part UE)
+(part Etat + part UE) |
 
-|
-
-Hors zone de montagne
-
-|
+Hors zone de montagne |
 
 Minimum 15 000 euros
 
@@ -280,13 +220,11 @@ Construction neuve
 
 |
 
-|
-
 5 %
 
-10 %
-
 |
+
+10 %
 
 |
 
@@ -298,13 +236,7 @@ Rénovation
 
 |
 
-|
-
-|
-
-Zone de montagne
-
-|
+Zone de montagne |
 
 Minimum 15 000 euros
 
@@ -318,19 +250,15 @@ Construction neuve
 
 |
 
-|
-
-12, 50 % montagne
+12,50 % montagne
 
 15 % haute montagne
 
+|
+
 25 % montagne
 
-30 % haute montagne
-
-|
-
-|
+30 % haute montagne |
 
 Rénovation
 
@@ -340,37 +268,25 @@ Rénovation
 
 |
 
-|
-
-|
-
 Une majoration de 2 points des taux de subvention fixés ci-dessus peut être appliquée en cas de constructions neuves des élevages bovin, ovin et caprin lorsque, dans les conditions fixées par le ministère chargé de l'agriculture, la charpente, les menuiseries et 30 % du bardage extérieur sont réalisés en bois.
 
 Lorsque le bénéficiaire de l'aide est une CUMA :
 
 MONTANT
 
-de l'investissement
-
-|
+de l'investissement |
 
 MONTANT SUBVENTIONNABLE
 
-maximum
-
-|
+maximum |
 
 TAUX DE SUBVENTION
 
-(part Etat)
-
-|
+(part Etat) |
 
 TAUX DE SUBVENTION
 
-(part Etat + part UE)
-
-|
+(part Etat + part UE) |
 
 Minimum 15 000 euros
 
@@ -380,7 +296,7 @@ Minimum 15 000 euros
 
 |
 
-7, 50 %
+7,50 %
 
 |
 
@@ -394,187 +310,121 @@ A 2.-Les plafonds unitaires de dépenses
 
 Les investissements immatériels prévus à l'article 4 sont pris en compte dans la limite de 10 % du montant des investissements matériels éligibles auxquels ils se rapportent et des montants subventionnables maximum fixés pour le dispositif.
 
-Des plafonds unitaires sont fixés ci-dessous par type d'investissement et pour l'octroi de l'aide du ministère chargé de l'agriculture.D'autres plafonds peuvent être fixés par arrêté du préfet de région en application de l'article 6 du présent arrêté.
+Des plafonds unitaires sont fixés ci-dessous par type d'investissement et pour l'octroi de l'aide du ministère chargé de l'agriculture. D'autres plafonds peuvent être fixés par arrêté du préfet de région en application de l'article 6 du présent arrêté.
 
 Le préfet de région, en application de l'article 6 du présent arrêté, peut fixer un sous-plafond maximal de dépenses éligibles pour les projets portant sur la seule acquisition d'un robot de traite.
 
 Pour les CUMA :
 
-TYPE DE MATÉRIEL
+B.-En ce qui concerne la mécanisation en zone de montagne
 
 |
 
-PLAFONDS
+TYPE DE MATÉRIEL |
 
-(en euros)
+PLAFONDS (en euros) |
 
-|
-
-Equipements liés à l'affouragement.
+Equipements liés à l'affouragement
 
 |
 
-Désilleuse automotrice
+Désileuse automotrice
 
-|
-
-80 000
-
-|
-
-|
-
-Désilleuse tractée
-
-|
-
-20 000
-
-|
-
-|
+Désileuse tractée
 
 Matériel de paillage : hacheuse, distributrice dérouleuse
 
-|
-
-10 000
-
-|
-
-|
-
 Matériel mobile de séchage en grange sous réserve d'utiliser des énergies renouvelables
 
-|
-
-80 000
-
-|
-
-|
-
 Matériel mobile de pesée et de contention
-
-|
-
-5 000
-
-|
-
-|
 
 Matériel de manutention : chargeur télescopique
 
 |
 
+80 000
+
+20 000
+
+10 000
+
+80 000
+
+5 000
+
 50 000
 
 |
 
-Equipements liés à la gestion des effluents.
+Equipements liés à la gestion des effluents
 
 |
 
-Matériels assurant une meilleure répartition ou l'enfouissement des effluents lors de l'épandage :
+Table d'épandage d'épandeur à fumier
 
--table d'épandage d'épandeur à fumier
-
-|
-
-3 800
-
-|
-
-|
-
--enfouisseur à dents
-
-|
-
-4 600
-
-|
-
-|
-
--enfouisseur à disques
-
-|
-
-12 200
-
-|
-
-|
-
--rampe à buses
-
-|
-
-6 900
-
-|
-
-|
-
--rampe à pendillards
-
-|
-
-12 200
-
-|
-
-|
+Rampe à buses
 
 Retourneur d'andain pour le compostage des fumiers
 
 |
 
+3 800
+
+6 900
+
 5 500
 
 |
 
-B.-En ce qui concerne la mécanisation en zone de montagne
+Equipements liés à la gestion des effluents et à la limitation des émissions d'ammoniac
+
+|
+
+Enfouisseur à dents
+
+Enfouisseur à disques
+
+Rampe à pendillards
+
+|
+
+4 600
+
+12 200
+
+12 200
+
+|
 
 B 1.-Les taux et la subvention maximum sur une période de trois ans
 
 Lorsque le bénéficiaire est une exploitation :
 
-ZONE
-
-|
+ZONE |
 
 PLANCHER DE DÉPENSES
 
-éligibles
-
-|
+éligibles |
 
 TAUX DE SUBVENTION
 
-(part Etat)
-
-|
+(part Etat) |
 
 TAUX DE SUBVENTION
 
-(part Etat + part UE)
-
-|
+(part Etat + part UE) |
 
 SUBVENTION
 
 maximum sur
 
-une période de trois ans
-
-|
+une période de trois ans |
 
 Montagne.
 
 |
+
+2 000 €
 
 |
 
@@ -586,15 +436,9 @@ Montagne.
 
 |
 
-2 000 €
-
-16 000 €
-
-|
+16 000 € |
 
 Haute montagne.
-
-|
 
 |
 
@@ -606,9 +450,7 @@ Haute montagne.
 
 |
 
-|
-
-Une majoration de 10 points du taux de subvention (Etat + Union européenne) est appliquée pour un exploitant jeune agriculteur qui a perçu les aides à l'installation en application des articles D. 343-3 à D. 343-18 du code rural dans la mesure où l'engagement juridique intervient dans la période de cinq ans suivant la date d'installation retenue dans le cadre du certificat de conformité à l'installation et que, à compter du 1er janvier 2007, son projet est inscrit dans le plan de développement de l'exploitation.
+Une majoration de 10 points du taux de subvention (Etat + Union européenne) est appliquée pour un exploitant jeune agriculteur qui a perçu les aides à l'installation en application des articles D. 343-3 à D. 343-18 du code rural et de la pêche maritime dans la mesure où l'engagement juridique intervient dans la période de cinq ans suivant la date d'installation retenue dans le cadre du certificat de conformité à l'installation.
 
 Lorsque le bénéficiaire de l'aide est une CUMA :
 
@@ -618,4 +460,4 @@ La subvention maximum, sur une période de trois ans, est fixée à 16 000 €.
 
 B 2.-Les plafonds unitaires de dépenses
 
-Des plafonds unitaires sont fixés par type d'investissement et pour l'octroi de l'aide du ministère chargé de l'agriculture.D'autres plafonds peuvent être fixés par arrêté du préfet de région définissant les modalités d'intervention du plan dans la région en application de l'article 6 du présent arrêté.
+Des plafonds unitaires sont fixés par type d'investissement et pour l'octroi de l'aide du ministère chargé de l'agriculture. D'autres plafonds peuvent être fixés par arrêté du préfet de région définissant les modalités d'intervention du plan dans la région en application de l'article 6 du présent arrêté.
