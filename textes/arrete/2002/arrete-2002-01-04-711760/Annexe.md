@@ -2,18 +2,50 @@
 
 MONTANT DE L'INDEMNITE D'EXPATRIATION
 
-Groupe 1 : montant égal au montant du groupe 9 d'indemnité de résidence.
+Groupe 1
 
-Groupe 2 : montant égal au montant du groupe 10 d'indemnité de résidence.
+|
 
-Groupe 3 : montant égal au montant du groupe 12 d'indemnité de résidence.
+Montant égal au montant du groupe 7 d'indemnité de résidence à l'étranger
 
-Groupe 4 : montant égal au montant du groupe 14 d'indemnité de résidence.
+|
 
-Groupe 5 : montant égal au montant du groupe 16 d'indemnité de résidence.
+Groupe 2
 
-Groupe 6 : montant égal au montant du groupe 19 d'indemnité de résidence.
+|
 
-Groupe 7 : montant égal au montant du groupe 20 d'indemnité de résidence.
+Montant égal au montant du groupe 8 d'indemnité de résidence à l'étranger
 
-Groupe 8 : montant égal au montant du groupe 21 d'indemnité de résidence.
+|
+
+Groupe 3
+
+|
+
+Montant égal au montant du groupe 9 d'indemnité de résidence à l'étranger
+
+|
+
+Groupe 4
+
+|
+
+Montant égal au montant du groupe 10 d'indemnité de résidence à l'étranger
+
+|
+
+Groupe 5
+
+|
+
+Montant égal au montant du groupe 11 d'indemnité de résidence à l'étranger
+
+|
+
+Groupe 6
+
+|
+
+Montant égal au montant du groupe 14 d'indemnité de résidence à l'étranger
+
+|
