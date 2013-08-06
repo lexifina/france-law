@@ -1,0 +1,9 @@
+# Réponse à la question n° 27391
+
+- Question : [27391](27391.md) — Question n° 27391 — CHSCT; fonctionnement
+
+## Réponse
+
+*JO du 2013-08-06*
+
+Le décret n° 2011-774 du 28 juin 2011 a profondément modifié le décret n° 82-453 du 28 mai 1982, notamment en créant les CHSCT, en remplacement des CHS, en y intégrant les conditions de travail. Cette réforme, qui s'inscrit pleinement dans l'obligation faite aux employeurs publics d'assurer la santé et la sécurité des personnels au travail, conduit à modifier non seulement la composition, mais surtout le rôle, les compétences et le positionnement de l'instance. Le CHSCT doit en effet devenir le lieu de discussion des politiques académiques et départementales en matière de prévention des risques professionnels lors de leur élaboration. Le ministère attache une très grande importance à ce que chaque académie et chaque département finalisent l'installation des différentes instances et créent les conditions optimales de fonctionnement pour qu'elles jouent pleinement leur rôle autour des questions de santé, de sécurité et des conditions de travail (enquêtes, visites, etc.). Cette volonté s'inscrit dans les travaux menés au niveau interministériel. Le projet d'accord cadre portant sur un plan national d'action pour la prévention des risques psychosociaux dans la fonction publique, actuellement en cours d'élaboration à la DGAFP, comprend un volet portant sur l'amélioration des moyens accordés aux membres des CHSCT. Des discussions sont actuellement menées par la DGAFP, d'une part, avec les organisations syndicales et, d'autre part, avec l'ensemble des ministères pour mettre en place un cadre interministériel fixant les règles d'attribution du temps syndical aux membres des CHSCT. Le ministère de l'éducation nationale, dans le cadre d'un dialogue social rénové, est particulièrement attentif à ce sujet sensible au sein des CHSCT.
