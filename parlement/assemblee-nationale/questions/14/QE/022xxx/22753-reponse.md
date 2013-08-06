@@ -1,0 +1,9 @@
+# Réponse à la question n° 22753
+
+- Question : [22753](22753.md) — Question n° 22753 — délits écologiques; poursuites
+
+## Réponse
+
+*JO du 2013-08-06*
+
+Protéger efficacement les écosystèmes français fait partie des objectifs de la France. Ainsi, la conférence environnementale, qui s'est déroulée en septembre 2012, a conduit le Gouvernement à retenir la thématique « biodiversité » comme « objectif prioritaire » dans sa feuille de route. Depuis 2009, la loi sur la responsabilité environnementale, dite « loi LRE », exige d'un exploitant, dont l'activité est ciblée par la LRE, de réparer en nature le dommage qu'il cause à l'environnement. Il doit pour cela identifier et mener un projet de restauration écologique du milieu endommagé. La LRE transpose à l'identique la directive européenne sur la responsabilité environnementale (DRE). La DRE ne concerne que les dommages graves et exclut ceux liés à des pollutions par des hydrocarbures. En effet, ces dommages sont traités par des conventions internationales, notamment la convention du 27 novembre 1992 qui crée le Fonds d'indemnisation pour des dommages dus à la pollution par des hydrocarbures (FIPOL). Depuis mai 2012, la France a élargi le périmètre des activités visées par la loi LRE en y intégrant le transport par canalisation d'hydrocarbures et de produits chimiques. En septembre 2012, suite à la confirmation par la Cour de cassation de la condamnation de Total dans l'affaire de l'Erika, la question de l'inscription du préjudice écologique dans le code civil fait l'objet de réflexions. Un groupe de travail constitué de magistrats, d'avocats, d'universitaires en droit et de représentants des ministères chargés de la justice, de l'écologie et des finances, s'est réuni depuis. Il devra envisager, d'ici mi-septembre 2013, les modifications législatives qui permettront de reconnaître en droit français le préjudice environnemental et de fixer le mode de réparation des atteintes à l'environnement.
