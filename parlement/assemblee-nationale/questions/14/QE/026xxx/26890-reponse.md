@@ -1,0 +1,9 @@
+# Réponse à la question n° 26890
+
+- Question : [26890](26890.md) — Question n° 26890 — délinquance financière; blanchiment d'argent; lutte et prévention
+
+## Réponse
+
+*JO du 2013-08-06*
+
+Les ministres des finances de la zone euro sont parvenus à un accord sur un programme d'assistance financière pour Chypre le 25 mars 2013. Ce programme porte sur un montant de 10 milliards d'euros au total, dont 9 milliards d'euros pour le mécanisme européen de stabilité (MES) et 1 milliard d'euros pour le Fonds monétaire international (FMI). Le prêt du MES couvrira les besoins du secteur financier à hauteur de 2,5 milliards d'euros tandis que 6,5 milliards d'euros seront consacrés aux besoins de financement de l'Etat chypriote. Ainsi, le plan d'assistance financière pour Chypre prévoit une contribution importante du secteur privé à la restructuration du secteur bancaire de l'île, notamment à travers la mise en résolution de la banque Laïki. Les dépôts inférieurs à 100 000 euros sont toutefois épargnés, afin de permettre une juste contribution de chacun. Des restrictions destinées à éviter une sortie des capitaux ont été mises en place rapidement par le gouvernement chypriote et, depuis lors, ont été assouplies progressivement. Enfin, le programme d'ajustement économique pour Chypre prévoit des mesures en faveur de la transparence financière. Dans ce cadre, un audit indépendant sur la lutte contre le blanchiment d'argent réalisé à la fois par le comité MONEYVAL, organisme dépendant du Conseil de l'Europe, et par une société d'audit spécialisée a été finalisé à la fin du mois d'avril. La France assure, dans le cadre européen, un suivi étroit du programme, notamment s'agissant du renforcement du cadre juridique de lutte contre le blanchiment et de sa mise en oeuvre effective. Au-delà du cas chypriote, le gouvernement français est très engagé dans la lutte contre la fraude et le blanchiment d'argent, au niveau européen comme dans un cadre international.
