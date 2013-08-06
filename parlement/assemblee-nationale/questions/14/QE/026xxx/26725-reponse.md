@@ -1,0 +1,9 @@
+# Réponse à la question n° 26725
+
+- Question : [26725](26725.md) — Question n° 26725 — remplacements; délais
+
+## Réponse
+
+*JO du 2013-08-06*
+
+En supprimant près de 80 000 postes entre 2007 et 2012, dont 5 000 de remplaçants sur les trois dernières années, la majorité précédente a durablement mis à mal la capacité de l'éducation nationale à assurer un remplacement effectif, rapide et de qualité dans l'ensemble des écoles et des établissements. Le premier droit des élèves et de leurs familles est celui d'avoir des professeurs. Les répercussions que les absences non remplacées peuvent avoir sur le quotidien des parents et des établissements, les difficultés et l'incompréhension qu'elles génèrent sont bien connues. Le devoir de l'éducation nationale est donc de restaurer ce droit et de remédier à cette rupture du service public. Il en va de l'égalité des chances entre les élèves, où qu'ils se trouvent sur le territoire de la République, de la lutte contre l'échec scolaire, comme de l'efficacité du système. Participe de cette volonté l'engagement du Président de la République de créer, d'ici au terme de son quinquennat, 60 000 postes nouveaux pour contribuer à l'effort de redressement éducatif de la Nation, dont 54 000 bénéficieront à l'éducation nationale, 5 000 à l'enseignement supérieur et 1 000 à l'enseignement agricole. Ainsi, parmi les 1 000 premiers postes de professeurs des écoles que le Gouvernement a recréé pour faire face à l'urgence de la rentrée 2012, une part sensible est déjà venue accroître le nombre de remplaçants. Pour la rentrée 2013, l'effort sera accru avec la création de 1 000 postes de remplaçants, dont 720 pour le primaire. Parmi les postes supplémentaires programmés dans le premier degré, une partie servira à améliorer le remplacement dans les zones ayant le plus souffert des suppressions d'emplois décidées ces six dernières années.
