@@ -1,0 +1,9 @@
+# Réponse à la question n° 27017
+
+- Question : [27017](27017.md) — Question n° 27017 — concessions; politiques communautaires
+
+## Réponse
+
+*JO du 2013-08-06*
+
+Les autorités françaises sont convaincues que la délégation de service public, telle qu'encadrée depuis 1993 par la loi « Sapin », a largement fait ses preuves. Aussi s'efforcent-elles de promouvoir ce modèle dans le cadre des discussions sur la proposition de directive européenne sur les concessions. Les négociations sur ce texte sont en cours de finalisation, un accord ayant été obtenu lors du trilogue du 25 juin entre le Conseil et le Parlement européen. A cet égard, le texte initialement proposé par la Commission européenne a été sensiblement amélioré, notamment en introduisant la souplesse nécessaire à la négociation de ces contrats complexes, dont la spécificité par rapport aux marchés publics se trouve désormais reconnue. Le secteur de l'eau a finalement été exclu de la directive concessions. Cette exclusion est complétée par une clause de révision faisant obligation à la Commission d'étudier, trois ans après la transposition, les effets sur le marché intérieur de cette exclusion. Les concessions dans ce secteur devront néanmoins respecter les principes du Traité, notamment celui de mise en concurrence transparente. S'agissant par ailleurs de la durée des contrats, les autorités françaises ont obtenu que soient pris en compte, pour déterminer la durée maximale d'une concession, les investissements nécessaires pour l'accomplissement des objectifs spécifiques du contrat, y compris ceux résultant des objectifs de peformance assignés au concessionnaire. En effet, une remise en concurrence trop fréquente génèrerait des charges excessives pour les autorités concédantes et nuirait à la qualité du service, en empêchant la fixation d'objectifs liés à l'amélioration du service.
