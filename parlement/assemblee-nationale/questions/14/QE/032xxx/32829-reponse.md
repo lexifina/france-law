@@ -1,0 +1,9 @@
+# Réponse à la question n° 32829
+
+- Question : [32829](32829.md) — Question n° 32829 — dépenses; justifications
+
+## Réponse
+
+*JO du 2013-08-06*
+
+Dans son rapport consacré au financement public de la recherche, la Cour des comptes recommande de simplifier les aides à la recherche et développement (R&D) des entreprises et les instruments de soutien aux actions partenariales et au transfert. Ce constat est aujourd'hui partagé : il est également dressé par des rapports récents comme le rapport des missions d'inspection -inspection générale de finances - IGF- inspection générale de l'administration de l'éducation nationale et de la recherche - IGAENR -conseil général de l'économie, de l'industrie, de l'énergie et des technologies - CGEIEIT- consacré à la recherche partenariale, ou le rapport de MM. Tambourin-Beylat consacré à l'innovation, ainsi que par la Cour elle-même dans un autre de ses rapports consacré aux aides à la recherche des entreprises. Ces rapports confirment la multiplication des dispositifs avec le temps et ses conséquences en termes de lisibilité de l'action publique. Ils suggèrent également de procéder à des évaluations des dispositifs ainsi qu'une évaluation d'ensemble pour pouvoir mener à bien leur simplification et accroître l'efficacité de l'Etat. Le ministère de l'enseignement supérieur et de la recherche souscrit à cette analyse : la phase de réflexion d'ores et déjà engagée vise à simplifier le système d'aide public et va s'accompagner d'un programme d'évaluation spécifique et globale qui permette d'identifier les redondances et de le rationaliser. Le ministère de l'enseignement supérieur et de la recherche s'est par ailleurs engagé à accroître l'impact économique des aides allouées à la recherche des entreprises et au transfert des résultats de la recherche publique en lançant, en novembre 2012, 15 mesures qui sont en cours de mise en oeuvre.
