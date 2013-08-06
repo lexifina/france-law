@@ -1,0 +1,9 @@
+# Réponse à la question n° 19865
+
+- Question : [19865](19865.md) — Question n° 19865 — écotaxe; mise en place; modalités
+
+## Réponse
+
+*JO du 2013-08-06*
+
+L'information routière et la sécurité des usagers sur l'ensemble du réseau national sont des préoccupations constantes des services du ministre délégué, chargé des transports, de la mer et de la pêche. En application d'une convention de partenariat avec Radio France ayant pour but de favoriser la communication en direction des usagers de la route, l'information routière est diffusée localement via les stations du réseau France Bleu. De plus, l'information des usagers sur les conditions de circulation en temps réel est diffusée sur les panneaux à messages variables. Plus d'un millier sont implantés sur les grands axes du réseau routier national non concédé, principalement en milieu périurbain où le trafic est le plus dense. Les services du ministère ont, en outre, développé une plate-forme informatique d'échange d'informations sur les événements routiers et les perturbations du réseau en temps réel, qui alimente le site Bison futé et dont les données sont disponibles pour les opérateurs de GPS et de smartphones, qui peuvent ainsi diffuser les informations à leurs clients. Enfin, les directions interdépartementales des routes (DIR) diffusent également des informations en temps réel ou en prévision de trafic sur leur site internet. Tous ces vecteurs d'information contribuent à l'amélioration de la sécurité des déplacements et ont été préférés à une radio de type 107.7 MHz. Il n'est donc pas prévu que l'État mette en place une radio d'information routière sur l'ensemble des grands axes de son réseau. Il convient en outre de rappeler que les recettes de l'écotaxe collectée sur le réseau national sont affectées à l'Agence de financement des infrastructures de transport de France (AFITF), qui a pour objectif de financer le développement des infrastructures de transport.
