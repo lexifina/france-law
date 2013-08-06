@@ -1,0 +1,9 @@
+# Réponse à la question n° 31926
+
+- Question : [31926](31926.md) — Question n° 31926 — agence pour l'enseignement français à l'étranger; modernisation
+
+## Réponse
+
+*JO du 2013-08-06*
+
+Depuis 2011, l'AEFE a mis en place un dispositif innovant de dématérialisation des corrections des copies du baccalauréat. La dématérialisation sécurise davantage tout le dispositif des examens, depuis l'acheminement des copies jusqu'au déplacement des enseignants et des élèves. Les copies sont scannées et mises à disposition des correcteurs via une plateforme sécurisée et la remontée des notes se fait automatiquement. Les enseignants n'ont plus à se déplacer d'un pays à l'autre, et disposent de nouveaux outils facilitant l'harmonisation des corrections (accès aux documents réglementaires, statistiques, forum, messagerie instantanée). La dématérialisation a également permis de contenir l'inflation du coût de passage des examens. Plus de 9 000 candidats du réseau bénéficient de cette innovation dont 1420 candidats d'Amérique du Nord. Dans cette zone, rattachée à l'académie de Caen, plus de 8000 copies ont été corrigées pour cette session 2013. Les centres de numérisation ont réalisé les opérations dans les délais. La durée des opérations, de la 1re journée de numérisation jusqu'aux délibérations, a été de 22 jours. Toutes les opérations se sont déroulées sans incident, pour la plus grande satisfaction de tous. L'extension de la dématérialisation va se poursuivre dans les pays du cône andin de l'Amérique du Sud (soumis au rythme sud), rattachés à l'académie de Poitiers. Le rectorat met actuellement en place les outils informatiques requis et forme les personnels d'encadrement nécessaires. La correction des épreuves écrites de la session du baccalauréat de novembre 2013 sera donc dématérialisée.
