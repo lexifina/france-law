@@ -1,0 +1,9 @@
+# Réponse à la question n° 16439
+
+- Question : [16439](16439.md) — Question n° 16439 — rapport; Cour des comptes; conclusions
+
+## Réponse
+
+*JO du 2013-08-06*
+
+Le rapport thématique de la cour des comptes de janvier 2013 souligne la faible capacité des contrats aidés du secteur non marchand à servir de tremplin vers l'emploi. Il convient de relever que les contrats d'accompagnement dans l'emploi jouent un double rôle, de retour à l'emploi pour des publics très en difficulté (près de 70 % des contrats d'accompagnement dans l'emploi conclues en 2012 l'ont été avec des demandeurs d'emploi de longue durée), et de prévention du chômage structurel par le maintien des compétences et habitudes de travail. Les préfets de région ont déjà la faculté, dans le cadre des arrêtés qu'ils prennent, de moduler les taux de prise en charge de ces contrats en fonction de différents critères, dont les efforts de formation des employeurs. De plus, lors de la conférence de lutte contre la pauvreté et pour l'inclusion sociale, plusieurs pistes de réforme ont été lancées, tenant notamment à la préservation d'un volume stable de contrats pour les personnes très éloignées de l'emploi, permettant de travailler avec les employeurs sur les parcours d'insertion en donnant accès à une formation, en modulant la durée de travail en fonction des capacités et de la progression des personnes et en mettant en place un accompagnement externe jusqu'à la stabilisation en emploi durable. Il a été également tenu compte des limites observées par le passé dans la construction des emplois d'avenir, votés par le Parlement en octobre 2012. Ces emplois, destinés aux jeunes de moins de 26 ans les moins qualifiés, sont prévus sur des durées plus longues - un à trois ans - permettant l'acquisition d'une expérience professionnelle significative et incluant nécessairement une formation. Le volume d'emplois créés prévu est de 150 000 entre le 1er novembre 2012 et le 31 décembre 2013.
