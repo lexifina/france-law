@@ -1,0 +1,9 @@
+# Réponse à la question n° 28525
+
+- Question : [28525](28525.md) — Question n° 28525 — hospitalisation; perspectives
+
+## Réponse
+
+*JO du 2013-08-06*
+
+Les établissements hospitaliers du service de santé des armées (SSA) ont pour principale mission d'assurer le soutien médical et l'expertise médicale spécialisés au profit des armées et des personnels civils et militaires qui sont les acteurs de la mission de défense. Ces organismes participent en outre à la politique de santé publique en accueillant tout patient disposant d'une couverture sociale, sous réserve de ne pas porter atteinte à l'accomplissement de l'objectif prioritaire de soutien des forces armées. Par ailleurs, à la demande de leur ambassade, les ressortissants étrangers non assurés sociaux peuvent être hospitalisés dans les établissements du SSA, après avoir avancé une somme correspondant au montant estimé des soins devant être dispensés. Cette somme est remise à l'Agence comptable des services industriels de l'armement (ACSIA), opérateur budgétaire pour le compte du SSA. L'admission de ces patients est également soumise à une condition de compatibilité de leur état de santé avec l'offre de soins proposée par les hôpitaux des armées, afin de garantir leur prise en charge dans les meilleures conditions possibles. En fonction du coût définitif des soins prodigués, le ministère de la défense peut demander un complément de paiement ou diligenter un remboursement, sur la base de la provision versée par le patient. Au terme de cette procédure, l'ACSIA rétablit la somme perçue au budget du ministère. L'hospitalisation en France du Président de la République algérienne s'inscrit dans le cadre de la stricte mise en oeuvre de ce dispositif d'accueil. Si, par le passé, une personnalité étrangère de haut rang a pu être hospitalisée aux frais du ministère de la défense, ce n'est qu'à titre exceptionnel, en raison de circonstances diplomatiques particulières.
