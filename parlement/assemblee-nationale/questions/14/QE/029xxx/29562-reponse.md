@@ -1,0 +1,9 @@
+# Réponse à la question n° 29562
+
+- Question : [29562](29562.md) — Question n° 29562 — fonction publique; perspectives
+
+## Réponse
+
+*JO du 2013-08-06*
+
+La proportion d'hommes et de femmes tend à l'équilibre dans les services du Premier ministre (respectivement 55 % et 45 % en 2012). Les services du Premier ministre intègrent des femmes à tous les niveaux de responsabilités. Ainsi, au sein de la catégorie A, le pourcentage de femmes a augmenté, passant de 35 % en 2010 à 44 % en 2011. Dans ce périmètre, le pourcentage de femmes s'élève à 29 % dans le corps des administrateurs civils. En septembre 2012, le Premier ministre a nommé un Haut fonctionnaire en charge de l'égalité entre les femmes et les hommes pour son administration, en application de la circulaire du 23 août 2012 relative à la prise en compte dans la préparation des textes législatifs et réglementaires de leur impact en termes d'égalité entre les femmes et les hommes. Son action s'inscrit en cohérence avec les premiers travaux engagés par le Comité interministériel des droits des femmes. Réuni le 30 novembre 2012, ce comité a défini un plan d'actions, qui s'attache à développer trois axes prioritaires : - favoriser l'équilibre Femmes-Hommes dans la vie professionnelle, à tous les niveaux hiérarchiques et dans tous les secteurs d'activités (accès aux postes d'encadrement, aux corps d'encadrement supérieur, équilibre Femmes-Hommes dans les short-lists de recrutement) ; - mesurer les écarts et y apporter les correctifs nécessaires en vue d'un meilleur équilibre (indicateurs de suivi sur les emplois, vigilance sur les écarts de rémunération) ; - améliorer la communication sur les inégalités (lutter contre les stéréotypes culturels, établir une charte de conduite, féminiser les titres, organiser des rencontres de femmes cadres).
