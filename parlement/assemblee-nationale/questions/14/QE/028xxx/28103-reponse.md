@@ -1,0 +1,9 @@
+# Réponse à la question n° 28103
+
+- Question : [28103](28103.md) — Question n° 28103 — données personnelles; protection; politiques communautaires
+
+## Réponse
+
+*JO du 2013-08-06*
+
+La proposition de la Commission européenne envisage un « droit à l'oubli » afin d'aider les citoyens à mieux gérer les risques liés à la protection des données en ligne (article 17). Conformément à cette disposition, les citoyens pourraient demander que leurs données soient effacées s'ils ne souhaitent plus qu'elles soient traitées et en l'absence de raison légitime pour les conserver. L'équilibre entre le droit à l'oubli et le droit à la mémoire est garanti au travers des exceptions à l'effacement des données (article 17.3), prévues dans certains cas, par exemple lorsque les données sont nécessaires à des fins historiques, statistiques et de recherche scientifique, pour des raisons de santé publique, pour l'exercice du droit à la liberté d'expression ou lorsque la loi l'exige. Dans le cadre de la négociation, les autorités françaises veilleront à ce que la proposition de règlement fasse l'objet d'adaptations afin de tenir compte de la spécificité des données d'archives. En effet, la mise en oeuvre de la proposition ne doit pas empêcher les autorités nationales chargées de la conservation et de la communication des archives nominatives d'exercer leur mission à des fins d'intérêt général, historique, statistique et scientifique, conformément au droit national. La France souhaite par ailleurs que la conservation, dans les archives, de données nominatives au-delà de la période d'utilisation courante, permette de garantir aux personnes des droits qui ne peuvent être exercés que par l'accès aux archives. Le principe du droit à l'oubli doit ainsi faire l'objet d'aménagements pour empêcher la destruction de données nominatives qui aurait pour conséquence de priver les personnes de la possibilité de faire valoir ces droits.
