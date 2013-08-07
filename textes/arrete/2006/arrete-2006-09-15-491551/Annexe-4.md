@@ -18,19 +18,11 @@ En kilogramme de CO2 par kilowattheure PCI d'énergie finale :
 
 |
 
-CHAUFFAGE
+CHAUFFAGE |
 
-|
+PRODUCTION D'EAU chaude sanitaire |
 
-PRODUCTION D'EAU
-
-chaude sanitaire
-
-|
-
-REFROIDISSEMENT
-
-|
+REFROIDISSEMENT |
 
 Bois, biomasse
 
@@ -82,13 +74,11 @@ Charbon
 
 |
 
-0,342
+0,384
 
 |
 
-0,342
-
-|
+0,384 |
 
 |
 
@@ -168,9 +158,7 @@ Les facteurs de conversion sont exprimés en kilogramme de CO2 par kilowattheure
 
 |
 
-TOUS USAGES
-
-|
+TOUS USAGES |
 
 Bois, biomasse
 
@@ -294,15 +282,9 @@ L'étiquette climat mentionne les limites de classes comme définies au paragrap
 
 La structuration des classes de l'étiquette climat est la suivante :
 
-DÉSIGNATION DE LA CLASSE
+DÉSIGNATION DE LA CLASSE |
 
-|
-
-PLAGE DE CONSOMMATIONS
-
-(kgéqCO2/ m ². an)
-
-|
+PLAGE DE CONSOMMATIONS (kgéqCO2/ m ². an) |
 
 A
 
@@ -368,15 +350,9 @@ i) Bâtiments à usage principal de bureau, d'administration ou d'enseignement.
 
 Pour ces bâtiments, la structuration des classes de l'étiquette climat est la suivante :
 
-DÉSIGNATION DE LA CLASSE
+DÉSIGNATION DE LA CLASSE |
 
-|
-
-PLAGE DE CONSOMMATIONS
-
-(kgéqCO2/ m ². an)
-
-|
+PLAGE DE CONSOMMATIONS (kgéqCO2/ m ². an) |
 
 A
 
@@ -438,15 +414,9 @@ ii) Bâtiments à occupation continue (par exemple : hôpitaux, hôtels, interna
 
 Pour ces bâtiments, la structuration des classes de l'étiquette climat est la suivante :
 
-DÉSIGNATION DE LA CLASSE
+DÉSIGNATION DE LA CLASSE |
 
-|
-
-PLAGE DE CONSOMMATIONS
-
-(kgéqCO2/ m ². an)
-
-|
+PLAGE DE CONSOMMATIONS (kgéqCO2/ m ². an) |
 
 A
 
@@ -508,15 +478,9 @@ iii) Autres bâtiments non mentionnés dans les deux précédents cas (par exemp
 
 Pour ces bâtiments, la structuration des classes de l'étiquette climat est la suivante :
 
-DÉSIGNATION DE LA CLASSE
+DÉSIGNATION DE LA CLASSE |
 
-|
-
-PLAGE DE CONSOMMATIONS
-
-(kgéqCO2/ m ². an)
-
-|
+PLAGE DE CONSOMMATIONS (kgéqCO2/ m ². an) |
 
 A
 
