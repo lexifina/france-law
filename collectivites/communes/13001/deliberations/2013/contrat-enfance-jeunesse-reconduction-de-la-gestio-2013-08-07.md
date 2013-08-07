@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONTRAT ENFANCE JEUNESSE - RECONDUCTION DE LA GESTION DE L'ALSH DEDIE AUX HABITANTS DU QUARTIER DU CHATEAU DE L'HORLOGE PAR LE C.P.C.V, ATTRIBUTION DES SUBVENTIONS SEJOURS ET SIGNATURE DES AVENANTS CORRESPONDANTS.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2013-08-07
+- Séance : Conseil Municipal 2CA
+- Objet : CONTRAT ENFANCE JEUNESSE - RECONDUCTION DE LA GESTION DE L'ALSH DEDIE AUX HABITANTS DU QUARTIER DU CHATEAU DE L'HORLOGE PAR LE C.P.C.V, ATTRIBUTION DES SUBVENTIONS SEJOURS ET SIGNATURE DES AVENANTS CORRESPONDANTS.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-5053-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
