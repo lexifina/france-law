@@ -14,25 +14,23 @@ NOMBRE ET TYPE D'ASTREINTES
 
 Direction générale
 
-|
-
-Astreinte de direction générale.
-
-|
-
-1 astreinte de semaine (1).
-
-|
-
 Pôle de la communication
 
 |
 
-Astreinte de direction.
+Astreinte de direction générale
 
 |
 
-1 astreinte de fin de semaine et jours fériés.
+1 astreinte de semaine (1)
+
+|
+
+Astreinte de direction
+
+|
+
+1 astreinte de fin de semaine et jours fériés
 
 |
 
@@ -48,11 +46,11 @@ Logis
 
 |
 
-Astreinte technique.
+Astreinte technique
 
 |
 
-1 astreinte de fin de semaine et jours fériés.
+1 astreinte de fin de semaine et jours fériés
 
 |
 
@@ -66,11 +64,11 @@ portant création du SSIM de la DGAC)
 
 |
 
-Astreinte opérationnelle et technique.
+Astreinte opérationnelle et technique
 
 |
 
-3 astreintes de semaine.
+3 astreintes de semaine
 
 |
 
@@ -84,11 +82,11 @@ portant création du SSIM de la DGAC)
 
 |
 
-Astreinte opérationnelle et technique.
+Astreinte opérationnelle et technique
 
 |
 
-2 astreintes de semaine.
+2 astreintes de semaine
 
 |
 
@@ -106,11 +104,11 @@ bureau des opérations centralisées (site de Muret)
 
 |
 
-Astreinte opérationnelle et technique.
+Astreinte opérationnelle et technique
 
 |
 
-1 astreinte de fin de semaine et jours fériés.
+1 astreinte de fin de semaine et jours fériés
 
 |
 
@@ -118,11 +116,11 @@ Centre de Melun
 
 |
 
-Astreinte opérationnelle et technique.
+Astreinte opérationnelle et technique
 
 |
 
-2 astreintes de semaine.
+2 astreintes de semaine
 
 |
 
@@ -156,11 +154,11 @@ Echelon central
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -168,11 +166,11 @@ CESNAC
 
 |
 
-Astreinte opérationnelle et technique.
+Astreinte opérationnelle et technique
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -180,27 +178,27 @@ CRNA Est
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique.
+Astreinte technique
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique (radar).
+Astreinte technique (radar)
 
 |
 
-2 astreintes de fin de semaine 4 fois par an.
+2 astreintes de fin de semaine 4 fois par an
 
 |
 
@@ -208,27 +206,35 @@ CRNA Sud-Est
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique.
+Astreinte technique
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique (antennes avancées).
+Astreinte technique (antennes avancées)
 
 |
 
-1 astreinte de fin de semaine et jours fériés.
+1 astreinte de fin de semaine et jours fériés
+
+|
+
+Astreinte technique de centrale énergie
+
+|
+
+1 astreinte de semaine
 
 |
 
@@ -236,35 +242,35 @@ CRNA Sud-Ouest
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique.
+Astreinte technique
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique de centrale énergie.
+Astreinte technique de centrale énergie
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique (radar).
+Astreinte technique (radar)
 
 |
 
-2 astreintes de fin de semaine 4 fois par an.
+2 astreintes de fin de semaine 4 fois par an
 
 |
 
@@ -272,35 +278,35 @@ CRNA Ouest
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique.
+Astreinte technique
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique de maintenance CAUTRA.
+Astreinte technique de maintenance CAUTRA
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique de centrale énergie.
+Astreinte technique de centrale énergie
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -316,71 +322,59 @@ CRNA Nord
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique.
+Astreinte technique
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique de maintenance CAUTRA.
+Astreinte technique de maintenance CAUTRA
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Astreinte technique (radar).
+Astreinte technique (radar)
 
 |
 
-2 astreintes de fin de semaine 4 fois par an.
+2 astreintes de fin de semaine 4 fois par an
 
 |
 
-Paris - Charles-de-Gaulle (CDM)
+Paris-Charles-de-Gaulle (CDM)
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Paris - Charles-de-Gaulle
+Paris-Charles-de-Gaulle
 
 |
 
-Astreinte opérationnelle et technique.
+Astreinte opérationnelle et technique
 
 |
 
-2 astreintes de semaine.
-
-|
-
-Organisme d'Orly
-
-|
-
-Astreinte opérationnelle et technique.
-
-|
-
-2 astreintes de semaine.
+2 astreintes de semaine
 
 |
 
@@ -388,11 +382,23 @@ Organisme d'Orly
 
 |
 
-Astreinte opérationnelle (aviation générale).
+Astreinte opérationnelle et technique
 
 |
 
-1 astreinte de fin de semaine et de jours fériés.
+2 astreintes de semaine
+
+|
+
+Organisme d'Orly
+
+|
+
+Astreinte opérationnelle (aviation générale)
+
+|
+
+1 astreinte de fin de semaine et de jours fériés
 
 |
 
@@ -408,11 +414,11 @@ Siège
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -422,11 +428,11 @@ Athis-Mons
 
 Astreinte technique pour la maintenance
 
-Ile-de-France.
+Ile-de-France
 
 |
 
-2 astreintes de fin de semaine et jours fériés.
+2 astreintes de fin de semaine et jours fériés
 
 |
 
@@ -442,11 +448,11 @@ Siège
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -454,11 +460,11 @@ Aérodrome de Bâle-Mulhouse
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -474,23 +480,23 @@ Siège
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Aérodrome de Nantes Atlantique
+Aérodrome de Nantes-Atlantique
 
 |
 
-Astreinte technique de maintenance.
+Astreinte technique de maintenance
 
 |
 
-2 astreintes de semaine.
+2 astreintes de semaine
 
 |
 
@@ -506,11 +512,11 @@ Siège
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -518,11 +524,11 @@ Aérodrome de Clermont-Ferrand
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -538,11 +544,11 @@ Siège
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -550,11 +556,11 @@ Ajaccio
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -562,11 +568,11 @@ Bastia
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -582,11 +588,11 @@ Siège
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -602,31 +608,11 @@ Siège
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
-
-|
-
-Siège
-
-|
-
-Astreinte technique pour la centrale énergie.
-
-|
-
-2 astreintes de semaine.
-
-|
-
-SNA Sud - Sud-Est
-
-|
-
-|
+1 astreinte de semaine
 
 |
 
@@ -634,11 +620,31 @@ Siège
 
 |
 
-Astreinte opérationnelle.
+Astreinte technique pour la centrale énergie
 
 |
 
-1 astreinte de semaine.
+2 astreintes de semaine
+
+|
+
+SNA Sud-Sud-Est
+
+|
+
+|
+
+|
+
+Siège
+
+|
+
+Astreinte opérationnelle
+
+|
+
+1 astreinte de semaine
 
 |
 
@@ -646,11 +652,11 @@ Montpellier-Méditerranée
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -666,23 +672,23 @@ Siège
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Aérodrome de Pointe-à-Pitre - Le Raizet
+Aérodrome de Pointe-à-Pitre-Le Raizet
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -690,11 +696,11 @@ Aérodrome de Cayenne-Rochambeau
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -710,11 +716,11 @@ Siège
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -738,11 +744,11 @@ DSAC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
-2 astreintes de semaine.
+2 astreintes de semaine
 
 |
 
@@ -750,37 +756,37 @@ DSAC
 
 |
 
-Astreinte de direction et de contrôle technique.
+Astreinte de direction
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Région Nord - Pas-de-Calais
+Région Nord-Pas-de-Calais
 
 (Lille, Calais, Le Touquet et Merville)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Région Picardie (Beauvais),
+Région Picardie (Beauvais)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -788,11 +794,11 @@ Région Ile-de-France
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -808,13 +814,13 @@ DSAC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
 1 astreinte de semaine dans la limite
 
-de 26 semaines par an.
+de 26 semaines par an
 
 |
 
@@ -826,7 +832,7 @@ Astreinte de direction
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -834,11 +840,11 @@ Région Aquitaine (Bordeaux)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -846,11 +852,11 @@ Région Aquitaine (Pau)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -858,11 +864,11 @@ Région Poitou-Charentes (Poitiers)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -878,13 +884,13 @@ DSAC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
 1 astreinte de semaine dans la limite
 
-de 26 semaines par an.
+de 26 semaines par an
 
 |
 
@@ -892,11 +898,11 @@ DSAC
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -904,11 +910,11 @@ DSAC (Toulouse)
 
 |
 
-Astreinte de direction.
+Astreinte de direction
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -916,11 +922,11 @@ Région Midi-Pyrénées (Toulouse)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -936,13 +942,13 @@ DSAC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
 1 astreinte de semaine dans la limite
 
-de 26 semaines par an.
+de 26 semaines par an
 
 |
 
@@ -950,11 +956,11 @@ DSAC (Brest et Rennes)
 
 |
 
-Astreinte de direction.
+Astreinte de direction
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -962,11 +968,11 @@ Région Bretagne (Brest)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -974,11 +980,11 @@ Région Pays de la Loire (Nantes)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -986,23 +992,25 @@ Région Centre (Tours)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Région Basse et Haute-Normandie (Deauville, Le Havre et Rouen)
+Région Basse et Haute-Normandie
+
+(Deauville, Le Havre et Rouen)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1018,7 +1026,7 @@ DSAC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
@@ -1032,11 +1040,11 @@ DSAC (Strasbourg)
 
 |
 
-Astreinte de direction.
+Astreinte de direction
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1044,11 +1052,13 @@ Région Bourgogne et Franche-Comté (Dijon)
 
 |
 
-Astreinte enquêtes-accidents (Bourgogne et Franche- Comté)
+Astreinte enquêtes-accidents
+
+(Bourgogne et Franche-Comté)
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1056,7 +1066,7 @@ Région Alsace (Strasbourg)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
@@ -1070,11 +1080,11 @@ Région Lorraine et Champagne-Ardenne
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1090,13 +1100,13 @@ DSAC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
 1 astreinte de semaine dans la limite
 
-de 26 semaines par an.
+de 26 semaines par an
 
 |
 
@@ -1104,11 +1114,11 @@ DSAC (Lyon)
 
 |
 
-Astreinte de direction.
+Astreinte de direction
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1116,11 +1126,11 @@ Région Rhône-Alpes (Lyon)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1128,11 +1138,11 @@ Région Auvergne (Clermont-Ferrand)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1148,13 +1158,13 @@ DSAC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
 2 astreintes de semaine dans la limite,
 
-pour chaque astreinte, de 36 semaines par an.
+pour chaque astreinte, de 36 semaines par an
 
 |
 
@@ -1162,11 +1172,11 @@ DSAC (Aix-en-Provence)
 
 |
 
-Astreinte de direction.
+Astreinte de direction
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1174,11 +1184,11 @@ Région PACA (Marseille-Provence)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1186,11 +1196,11 @@ Région PACA (Nice-Côte d'Azur)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1200,11 +1210,11 @@ Région Languedoc-Roussillon
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1212,11 +1222,11 @@ Collectivité territoriale Corse (Corse)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1232,13 +1242,13 @@ DSAC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
 1 astreinte de semaine dans la limite
 
-de 26 semaines par an.
+de 26 semaines par an
 
 |
 
@@ -1246,11 +1256,11 @@ DSAC (Fort-de-France)
 
 |
 
-Astreinte de direction.
+Astreinte de direction
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1258,11 +1268,11 @@ Martinique (Fort-de-France)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1270,11 +1280,11 @@ Guadeloupe (Pointe-à-Pitre)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1282,11 +1292,11 @@ Guyane (Cayenne)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1302,13 +1312,13 @@ DSAC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
 1 astreinte de semaine dans la limite
 
-de 18 semaines par an.
+de 18 semaines par an
 
 |
 
@@ -1316,11 +1326,11 @@ DSAC (Saint-Denis)
 
 |
 
-Astreinte de direction.
+Astreinte de direction
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1328,11 +1338,11 @@ DSAC (Saint-Denis)
 
 |
 
-Astreinte enquêtes-accidents.
+Astreinte enquêtes-accidents
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1348,11 +1358,11 @@ Dzaoudzi-Pamandzi
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1368,65 +1378,65 @@ SEAC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
 1 astreinte de semaine dans la limite
 
-de 18 semaines par an.
+de 18 semaines par an
 
 |
 
-Tahiti - Faaa
+Tahiti-Faaa
 
 |
 
-Astreinte de direction (SEAC).
+Astreinte de direction (SEAC)
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Tahiti - Faaa
+Tahiti-Faaa
 
 |
 
-Astreinte enquêtes-accidents (Territoire).
+Astreinte enquêtes-accidents (territoire)
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Tahiti - Faaa
+Tahiti-Faaa
 
 |
 
-Astreinte technique de maintenance.
+Astreinte technique de maintenance
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Tahiti - Faaa
+Tahiti-Faaa
 
 |
 
-Astreinte opérationnelle.
+Astreinte opérationnelle
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-Service mixte Direction de l'aviation civile
+Service mixte direction de l'aviation civile
 
 en Nouvelle-Calédonie
 
@@ -1436,17 +1446,17 @@ en Nouvelle-Calédonie
 
 |
 
-Service mixte DAC/NC
+Service mixte DAC/ NC
 
 |
 
-Astreinte de contrôle technique d'exploitation.
+Astreinte de contrôle technique d'exploitation
 
 |
 
 1 astreinte de semaine dans la limite
 
-de 18 semaines par an.
+de 18 semaines par an
 
 |
 
@@ -1454,23 +1464,11 @@ Nouméa
 
 |
 
-Astreinte de direction (Service mixte DAC/NC ).
+Astreinte de direction (service mixte DAC/ NC )
 
 |
 
-1 astreinte de semaine.
-
-|
-
-Nouméa
-
-|
-
-Astreinte enquêtes-accidents (Territoire).
-
-|
-
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
@@ -1478,11 +1476,23 @@ Nouméa
 
 |
 
-Astreinte opérationnelle.
+Astreinte enquêtes-accidents (territoire)
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
+
+|
+
+Nouméa
+
+|
+
+Astreinte opérationnelle
+
+|
+
+1 astreinte de semaine
 
 |
 
@@ -1494,10 +1504,8 @@ Astreinte technique de centrale énergie
 
 |
 
-1 astreinte de semaine.
+1 astreinte de semaine
 
 |
 
-(1) Une astreinte de semaine couvre une période de 7 jours sur 7.
-
-|
+(1) Une astreinte de semaine couvre une période de 7 jours sur 7. |
