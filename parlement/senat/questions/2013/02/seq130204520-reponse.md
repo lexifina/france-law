@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204520
+
+- Question : [SEQ130204520](seq130204520.md) — Action du Gouvernement en faveur de la baisse de l'euro
+
+## Réponse
+
+*Affaires européennes, JO du 2013-08-08, page 2328*
+
+Si l'appréciation de l'euro au cours de la décennie 2000 a pu pénaliser la compétitivité française, le taux de change effectif réel de la zone euro s'est déprécié depuis la crise financière : il en est résulté un effet positif pour les exportations françaises. Le taux de change avec le dollar américain, par exemple, s'établit aujourd'hui à 1,3 dollars environ. La question du taux de change n'épuise cependant pas le sujet des performances de l'économie française à l'exportation. De fait, une part importante des exportations françaises est destinée à d'autres pays de la zone euro, pour lesquels le taux de change ne joue pas (en 2012, 46,7 % des exportations françaises étaient destinées à la zone euro). En outre, d'autres pays, tout en ayant l'euro en partage, notamment l'Allemagne, ont réalisé sur la même période de bonnes performances à l'exportation. C'est pourquoi la dimension de la compétitivité hors prix doit aussi impérativement être prise en compte afin d'améliorer nos capacités exportatrices. C'est dans ce contexte que le gouvernement a décidé de mettre en œuvre un pacte de compétitivité, agissant grâce à différents leviers, notamment l'allègement du coût du travail, mais aussi, pour la compétitivité hors-coût, la simulation de l'innovation, la simplification de l'environnement réglementaire des entreprises et le soutien de l'emploi des jeunes. En particulier, la création du crédit d'impôt pour la compétitivité et l'emploi (CICE) - qui en mai 2013 était déjà préfinancé pour près d'un demi-milliard d'euros - permettra un allègement du coût du travail pour un montant de 20 milliards d'euros, soit 1 point de PIB. La compétitivité française, dans ses dimensions prix et hors prix, est ainsi au cœur de la politique du Gouvernement.
