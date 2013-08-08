@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204856
+
+- Question : [SEQ130204856](seq130204856.md) — Détection des prescriptions médicamenteuses inappropriées
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-08-08, page 2336*
+
+Les autorités compétentes, qu'il s'agisse notamment de l'agence nationale de sécurité du médicament et des produits de santé (ANSM) ou de l'assurance maladie, disposent et utilisent d'ores et déjà des outils informatiques pouvant permettre de déceler dans les données de santé disponibles les prescriptions et pratiques médicales s'écartant des finalités prévues par les autorisations de mise sur le marché des spécialités pharmaceutiques considérées. Les collaborations entre ces organismes se sont développées à cette fin et ont vocation à se développer. Par ailleurs, les accès et l'utilisation des données du système national d'information inter-régimes de l'assurance maladie (SNIIRAM), système qui contient les données issues de la prise en charge des soins par l'assurance maladie se développent pour permettre aux principaux opérateurs intervenant dans le pilotage du système de santé de disposer de davantage d'informations afin de faciliter l'exercice de leurs missions. C'est ainsi que, sous le contrôle de la CNIL qui veille au respect de la protection des données personnelles, plusieurs décisions sont en cours en vue de développer l'accès à plus d'exhaustivité des données stockées dans le SNIIRAM. Sont notamment concernés la haute autorité de santé (HAS), l'ANSM et l'institut national de veille sanitaire (INVS), la direction de la recherche, des études, de l'évaluation et des statistiques (DREES), l'agence technique de l'information sur l'hospitalisation (ATIH) et les agences régionales de santé (ARS). Ces évolutions concourront notamment à mieux répondre aux enjeux concernant les produits de santé.
