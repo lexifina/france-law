@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121103263
+
+- Question : [SEQ121103263](seq121103263.md) — Mise aux normes des installations individuelles d'assainissement à l'occasion d'une transaction immobilière
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2013-08-08, page 2361*
+
+Le ministère de l'écologie, du développement durable et de l'énergie n'a pas prévu pour le moment de mesure législative ou réglementaire visant à inscrire dans les missions du notaire l'information de l'acquéreur au sujet de l'obligation de réhabilitation des installations d'assainissement non collectif présentant des dangers pour la santé des personnes ou des risques avérés de pollution de l'environnement. Cependant, plusieurs actions de communication ont été mises en place à la fois pour informer les notaires de cette obligation mais également les potentiels acquéreurs. Une plaquette d'information, réalisée par le conseil supérieur du notariat a été présentée auprès des services de la direction de l'eau et de la biodiversité et de la direction générale de la santé. En cours de validation, elle sera distribuée aux notaires prochainement et aura vocation à les sensibiliser sur l'obligation qui incombe à l'acquéreur de réhabiliter - et ceci dans un délai d'un an suivant la vente - son dispositif d'assainissement non collectif si le diagnostic l'a déclaré non conforme. Les notaires seront ainsi incités à informer les acquéreurs de leurs obligations en termes d'assainissement non collectif. Différents outils informent d'ores et déjà l'acquéreur et usager de son obligation de travaux sous un an s'il achète un bien dont le diagnostic déclare le dispositif d'assainissement non collectif non conforme. Cette obligation est en effet mentionnée sur le site interministériel de l'assainissement non collectif (www. assainissement-non-collectif. developpementdurable. gouv. fr) ainsi que sur des plaquettes d'information et guide, téléchargeables sur ce même site.
