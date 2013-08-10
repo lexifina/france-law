@@ -90,6 +90,8 @@ parfumante allergisante
 
 |
 
+NUMÉRO CAS
+
 |
 
 (1)
@@ -754,7 +756,7 @@ Extraits de mousse d'arbre
 
 Toutefois, la présence de traces de ces substances parfumantes est tolérée à condition qu'elle soit techniquement inévitable dans les bonnes pratiques de fabrication et qu'elle ne dépasse pas 100 mg/kg.
 
-2. Les substances parfumantes allergisantes suivantes sont indiquées sur le jouet, sur une étiquette jointe, sur l'emballage ou sur un feuillet d'accompagnement si elles ont été ajoutées au jouet, telles quelles, à des concentrations dépassant 100 mg / kg du jouet ou des composantes de celui-ci.
+2. Les substances parfumantes allergisantes suivantes sont indiquées sur le jouet, sur une étiquette jointe, sur l'emballage ou sur un feuillet d'accompagnement si elles ont été ajoutées au jouet, telles quelles, à des concentrations dépassant 100 mg/kg du jouet ou des composantes de celui-ci.
 
 N°
 
@@ -976,7 +978,7 @@ Antimoine
 
 |
 
-11, 3
+11,3
 
 |
 
@@ -988,11 +990,11 @@ Arsenic
 
 |
 
-3, 8
+3,8
 
 |
 
-0, 9
+0,9
 
 |
 
@@ -1004,15 +1006,15 @@ Baryum
 
 |
 
-4 500
+1 500
 
 |
 
-1 125
+375
 
 |
 
-56 000
+18 750
 
 |
 
@@ -1036,11 +1038,11 @@ Cadmium
 
 |
 
-1, 3
+1,3
 
 |
 
-0, 3
+0,3
 
 |
 
@@ -1050,11 +1052,11 @@ Chrome (III)
 
 |
 
-37, 5
+37,5
 
 |
 
-9, 4
+9,4
 
 |
 
@@ -1066,15 +1068,15 @@ Chrome (VI)
 
 |
 
-0, 02
+0,02
 
 |
 
-0, 005
+0,005
 
 |
 
-0, 2
+0,2
 
 |
 
@@ -1082,11 +1084,11 @@ Cobalt
 
 |
 
-10, 5
+10,5
 
 |
 
-2, 6
+2,6
 
 |
 
@@ -1098,7 +1100,7 @@ Cuivre
 
 |
 
-622, 5
+622,5
 
 |
 
@@ -1114,11 +1116,11 @@ Plomb
 
 |
 
-13, 5
+13,5
 
 |
 
-3, 4
+3,4
 
 |
 
@@ -1146,11 +1148,11 @@ Mercure
 
 |
 
-7, 5
+7,5
 
 |
 
-1, 9
+1,9
 
 |
 
@@ -1166,7 +1168,7 @@ Nickel
 
 |
 
-18, 8
+18,8
 
 |
 
@@ -1178,11 +1180,11 @@ Sélénium
 
 |
 
-37, 5
+37,5
 
 |
 
-9, 4
+9,4
 
 |
 
@@ -1226,11 +1228,11 @@ Etain organique
 
 |
 
-0, 9
+0,9
 
 |
 
-0, 2
+0,2
 
 |
 
