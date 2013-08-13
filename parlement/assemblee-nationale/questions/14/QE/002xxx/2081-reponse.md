@@ -1,0 +1,9 @@
+# Réponse à la question n° 2081
+
+- Question : [2081](2081.md) — Question n° 2081 — comptes épargne-temps; provisionnement
+
+## Réponse
+
+*JO du 2013-08-13*
+
+Les personnels titulaires ou non titulaires de la fonction publique hospitalière bénéficient depuis le décret n° 2002-788 du 3 mai 2002 de la possibilité d'ouvrir un compte épargne-temps et de disposer, sous forme de congé, des jours qu'ils y placent. Les personnels médicaux disposent du même outil, mais avec des conditions d'utilisation différentes, depuis le décret n° 2002-1358 du 18 novembre 2002 codifiant les articles R. 6152-802 à 812 du code de la santé publique. La modification intervenue dans la réglementation relative au compte épargne-temps en décembre 2012 (par décrets n° 2012-1366 du 6 décembre 2012 pour les personnels de la fonction publique hospitalière et n° 2012-1481 du 27 décembre 2012 pour les personnels médicaux des établissements publics de santé) affirme désormais clairement l'obligation, pour les établissements, de comptabiliser au passif (de « provisionner ») la totalité des jours inscrits sur les comptes épargne-temps pour l'ensemble des établissements publics de santé. Des arrêtés, en cours de validation, seront signés conjointement par les ministres intéressés. Leur publication prochaine permettra de fixer avec précision et de façon homogène les modalités de comptabilisation et de transfert des droits acquis au titre du compte épargne-temps par leur titulaire. Ces arrêtés détailleront les conditions de constitution des provisions et de reprise de ces mêmes provisions. Par ailleurs, un dispositif de suivi des conditions de mise en oeuvre des nouvelles règles de fonctionnement des comptes épargne-temps a été institué afin de mieux observer les pratiques de recours au dispositif et d'inscrire celui-ci dans le cadre de la politique de gestion du temps de travail et des effectifs de l'établissement de santé.
