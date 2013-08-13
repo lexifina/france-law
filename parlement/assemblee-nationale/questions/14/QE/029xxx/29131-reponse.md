@@ -1,0 +1,9 @@
+# Réponse à la question n° 29131
+
+- Question : [29131](29131.md) — Question n° 29131 — emprunts russes; remboursement
+
+## Réponse
+
+*JO du 2013-08-13*
+
+Le contentieux interétatique entre la République française et la Fédération de Russie au sujet des « emprunts russes » s'est éteint par la signature, le 27 mai 1997, d'un accord entre les deux Etats (publié au Journal officiel par le décret n° 98-366 du 6 mai 1998), par lequel la France et la Russie renoncent réciproquement à toutes les créances financières et réelles qui seraient apparues entre elles antérieurement au 9 mai 1945, et s'abstiennent de soutenir les revendications de leurs ressortissants relatives à ces créances. En vertu de cet accord, la Fédération de Russie a versé, à la France, la somme de 400 millions de dollars représentant le solde des créances réciproques entre les deux Etats. Les modalités de reversement de ce solde aux porteurs d' « emprunts russes » en France, ont été définies par l'article 48 de la loi de finances rectificative du 30 décembre 1999, sur la base des recommandations d'une commission indépendante. Le recensement opéré par le ministère des finances a permis d'établir que 315 219 porteurs d'emprunts détenaient environ 9 millions de titres. Ces porteurs ont, depuis lors, bénéficié de versements. Aujourd'hui, le contentieux interétatique est définitivement apuré et la France s'abstient désormais de toute intervention auprès de la partie russe sur ce sujet. En revanche, l'accord intervenu entre la République française et la Fédération de Russie n'a ni pour objet ni pour effet de priver les particuliers français, même indemnisés, du droit à faire valoir leurs créances. L'Etat n'est toutefois lié par aucune obligation à l'égard de ces porteurs à raison de l'accord précité, qui ne produit aucun effet direct pour les particuliers comme le Conseil d'Etat l'a jugé en 2003 (CE, 21 février 2003, n° 226489, M. Uran).
