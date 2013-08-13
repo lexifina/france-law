@@ -1,0 +1,9 @@
+# Réponse à la question n° 15721
+
+- Question : [15721](15721.md) — Question n° 15721 — lignes d'intérêt national; liste; modifications
+
+## Réponse
+
+*JO du 2013-08-13*
+
+Le document auquel il est fait référence dans la question est un document de travail technique, un des multiples scénarios analysés, qui n'engageait pas le Gouvernement. Les réflexions étaient encore en cours et les premières consultations s'engageaient à peine. Ce document de travail n'est plus d'actualité. Les projets de loi présentés en conseil des ministres le 10 avril dernier ne contiennent aucune disposition sur la clarification des compétences en matière de desserte ferroviaire entre l'État et les régions. Le Gouvernement souhaite néanmoins faire évoluer les trains d'équilibre du territoire (TET) dont il est depuis peu l'autorité organisatrice. Ils sont lourdement déficitaires et la SNCF, qui en avait précédemment la responsabilité, n'y investissait plus. Ces trains jouent pourtant un rôle essentiel dans l'aménagement du territoire et dans le quotidien de nos concitoyens. Ils doivent en outre constituer une offre commerciale complémentaire du TGV par des horaires et des correspondances adaptées et par une amélioration de la qualité du service à bord. L'évolution de ces trains du quotidien est donc une priorité du Gouvernement, qui a d'ailleurs annoncé la mise en oeuvre d'une première tranche d'investissement d'au moins 500 M€ pour le renouvellement du matériel roulant, en particulier pour les lignes exploitant des locomotives thermiques devenues obsolètes, comme la ligne Paris - Troyes - Belfort citée dans la question. Mais l'investissement, seul, ne suffira pas pour améliorer la qualité de service à la hauteur de ce qu'attendent les usagers. Il sera donc nécessaire de réfléchir à la manière de mieux organiser les offres selon qu'elles concernent les déplacements domicile-travail ou les liaisons d'aménagement du territoire, en pleine concertation avec les régions.
