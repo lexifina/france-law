@@ -1,0 +1,9 @@
+# Réponse à la question n° 26355
+
+- Question : [26355](26355.md) — Question n° 26355 — résidence alternée des enfants; statistiques
+
+## Réponse
+
+*JO du 2013-08-13*
+
+Les statistiques produites par le ministère de la justice ne permettent pas de connaître, année après année, les décisions des juges aux affaires familiales en matière de résidence des enfants de parents séparés. Deux études statistiques, une première menée en 2003 et une seconde réalisée en juin 2012 et en cours de traitement, permettent de donner des éléments chiffrés. En 2003, toutes procédures confondues - divorce, après-divorce et enfants nés hors mariage -la proportion de résidence alternée homologuée ou prononcée par les juges aux affaires familiales s'établissait à 8,8 %. En 2012, cette même proportion est de 14,9 %, soit une augmentation de 6 points. En matière de résidence des enfants, les juges sont généralement amenés à homologuer les choix exprimés par les parents. C'est pourquoi il convient d'observer le taux de demandes de résidence en alternance. En 2003, le taux de demande de résidence alternée était de 10,3 % ; en 2012, il est de 17,8 %, soit une augmentation de 7 points. Le taux de demande de résidence en alternance dépend très largement du type de procédure. En 2012, il varie de 14,2 % dans les procédures relatives aux enfants nés hors mariage à 20,6 % dans les procédures de divorce. En outre, au sein même des procédures de divorce, le taux de demande de résidence en alternance apparaît près de deux fois plus important dans les divorces par consentement mutuel (28,8 % ) que dans les divorces contentieux (15,1 % ). En 2012, près de 95 % des résidences en alternance fixées résultent d'un accord des parents. En cas de désaccord entre les parents, la résidence en alternance est prononcée par le juge dans 50 % des situations.
