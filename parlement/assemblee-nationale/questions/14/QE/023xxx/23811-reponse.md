@@ -1,0 +1,9 @@
+# Réponse à la question n° 23811
+
+- Question : [23811](23811.md) — Question n° 23811 — Poitiers-Limoges; enquête publique
+
+## Réponse
+
+*JO du 2013-08-13*
+
+À l'issue du débat public relatif à la ligne à grande vitesse (LGV) Poitiers-Limoges et de la décision du 8 mars 2007 du conseil d'administration de Réseau ferré de France (RFF) de poursuivre les études, un processus de conduite des études et de la concertation a été décidé par l'État, permettant ainsi de retenir au début de l'année 2012 le tracé de référence du projet. Des approfondissements d'études ont par la suite été menés tout au long des années 2012 et 2013, notamment sur les enjeux écologiques et humains, au regard des dernières évolutions réglementaires, en concertation avec les collectivités territoriales concernées, afin d'améliorer encore l'insertion de la ligne dans son environnement. L'Autorité environnementale, dans son avis rendu le 13 mars 2013, indique que le maître d'ouvrage a présenté « une étude d'impact de qualité, malgré la complexité de l'opération ». Elle émet, par ailleurs, une série de recommandations afin d'améliorer encore le dossier et de s'assurer de la bonne prise en compte des enjeux environnementaux dans l'évaluation générale de l'utilité publique du projet. Le mémoire en réponse à cet avis, élaboré par RFF, est annexé au dossier support de l'enquête publique, sur la base de l'approbation ministérielle du 25 mars 2013 qui a fixé les dernières orientations sur la consistance du dossier. Cette approbation a conduit à la signature, le 30 avril 2013, de l'arrêté interpréfectoral portant ouverture de l'enquête publique, qui s'est déroulée entre le 30 mai et le 12 juillet 2013. Plus généralement, les études socio-économiques relatives à la LGV Poitiers-Limoges sont conduites par RFF en respect des instructions ministérielles en vigueur.
