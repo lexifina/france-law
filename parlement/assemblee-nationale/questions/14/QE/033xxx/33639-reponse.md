@@ -1,0 +1,9 @@
+# Réponse à la question n° 33639
+
+- Question : [33639](33639.md) — Question n° 33639 — situation politique
+
+## Réponse
+
+*JO du 2013-08-13*
+
+La France, profondément attachée à la préservation de la stabilité du Liban, est vivement préoccupée par la dégradation du contexte sécuritaire dans ce pays. Elle a condamné avec la plus grande fermeté l'attentat, commis le 9 juillet 2013 dans le quartier de Bir al Abed à Beyrouth, qui a fait une soixantaine de blessés. Elle a exprimé toute sa solidarité aux familles des victimes et rappelé avec force, à cette occasion, son refus catégorique du terrorisme. Il importe que toute la lumière soit faite sur ces évènements et que les responsables de ces actes soient traduits en justice. La France apporte son plein soutien au président libanais Michel Sleimane, garant des institutions et du dialogue national, ainsi qu'aux forces armées libanaises qui oeuvrent avec courage au maintien de l'ordre et de la stabilité du pays. La France appelle l'ensemble des acteurs libanais à privilégier la paix civile dans le respect de la déclaration de Baabda adoptée en juin 2012 qui, sous l'égide du président Sleimane, pose les fondements de la politique de distanciation par rapport au conflit syrien. A cet égard, l'implication militaire revendiquée du Hezbollah aux côtés du régime en Syrie porte atteinte à cette politique et favorise l'exacerbation des tensions internes. La France, consciente des risques de déstabilisation que la crise syrienne fait peser sur les équilibres libanais, se félicite de l'adoption par le Conseil de sécurité des Nations unies, le 11 juillet 2013, d'une déclaration présidentielle sur le Liban. Ce texte, d'initiative française, réaffirme l'attachement unanime des Etats membres du Conseil à la stabilité et à l'unité du Liban ainsi que leur volonté d'oeuvrer collectivement en ce sens.
