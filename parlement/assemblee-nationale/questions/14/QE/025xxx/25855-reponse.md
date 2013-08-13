@@ -1,0 +1,9 @@
+# Réponse à la question n° 25855
+
+- Question : [25855](25855.md) — Question n° 25855 — opérateurs; pratiques commerciales; surfacturation
+
+## Réponse
+
+*JO du 2013-08-13*
+
+Les problèmes de facturation dans le secteur des communications électroniques font l'objet d'une attention particulière de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) depuis 2008. Les réclamations reçues à ce sujet ont ainsi baissé de 62 % entre le premier trimestre 2008 et le premier trimestre 2013. Toutefois, malgré cette baisse en niveau, la part des réclamations liées à la facturation reste élevée, notamment pour les services mobiles. En effet, 22 % des réclamations reçues par la DGCCRF relatives à ces services concernent la facture. Ces réclamations proviennent le plus souvent d'incompréhensions concernant certains services facturés, en particulier des SMS surtaxés. Il est en effet relativement courant que les consommateurs laissent un téléphone à la portée d'un enfant et que celui-ci envoie de tels SMS ou souscrive des abonnements par ce biais. C'est la raison pour laquelle le Gouvernement a engagé deux chantiers importants afin de pallier ces problèmes. Tout d'abord, le conseil national de la consommation a été saisi fin 2012 de la question de l'utilisation des services de communications électroniques par les plus jeunes. Associations et opérateurs tâcheront ainsi de définir des règles visant à mieux encadrer les pratiques. Par ailleurs, des travaux ont été engagés afin d'étendre les dispositions de l'arrêté du 1er février 2002 relatif aux factures des services téléphoniques à l'ensemble des services de communications électroniques, y compris les SMS surtaxés et l'internet mobile. Un projet d'arrêté, qui va être soumis au conseil national de la consommation, devrait apporter des améliorations sensibles et une meilleure adéquation à l'évolution des offres.
