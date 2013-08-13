@@ -1,0 +1,9 @@
+# Réponse à la question n° 32419
+
+- Question : [32419](32419.md) — Question n° 32419 — menus; laïcité; respect
+
+## Réponse
+
+*JO du 2013-08-13*
+
+La composition des menus proposés dans les cantines scolaires relève exclusivement de la responsabilité des collectivités territoriales compétentes en matière de restauration scolaire. Seules les prescriptions nutritionnelles concernant la composition de ces menus et l'information du consommateur font l'objet d'obligation. Concernant le volet relatif à l'origine des viandes, le règlement n° 1169/2011 sur l'information des consommateurs sur les denrées alimentaires, dit « règlement INCO », prévoit d'étendre l'obligation de la mention de l'origine aux viandes fraîches de porc, de mouton, chèvre et volaille, par acte d'exécution adopté au plus tard le 13 décembre 2013. Il existe également des démarches privées volontaires. La démarche viande porcine française « VPF » en est le reflet et garantit une viande née, élevée et abattue en France. La France a demandé que l'étude relative à la viande utilisée en tant qu'ingrédient puisse être achevée avant la fin de l'été 2013, pour qu'une révision de la réglementation puisse être discutée au niveau européen avant la fin de l'année. Cette révision de la réglementation permettra d'améliorer la traçabilité de la viande utilisée dans les plats cuisinés et d'améliorer l'information des consommateurs sur ces produits. D'ici là, toutes les démarches volontaires des filières, déjà engagées seront les bienvenues et doivent être encouragées. La réflexion en cours de développement d'un socle commun à toutes les viandes (« viande de France » ou « viande française »), sur la base des logos déjà existants y contribuera, en valorisant les points communs à toutes les filières : haut niveau d'exigence sanitaire et de traçabilité, respect des normes environnementales et de bien-être, conditions sociales de production, définition commune de la notion d'origine.
