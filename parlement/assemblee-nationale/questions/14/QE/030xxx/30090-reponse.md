@@ -1,0 +1,9 @@
+# Réponse à la question n° 30090
+
+- Question : [30090](30090.md) — Question n° 30090 — revendications
+
+## Réponse
+
+*JO du 2013-08-13*
+
+Le Conseil constitutionnel a été saisi le 18 mars 2013 par le Conseil d'État d'une question prioritaire de constitutionnalité (QPC) posée par le Syndicat français de l'industrie cimentière et la Fédération de l'industrie du béton, portant sur le paragraphe V de l'article L. 224-1 du code de l'environnement. Le paragraphe V de l'article L. 224-1 du Code de l'environnement prévoit que, pour répondre aux objectifs du titre II (« Air et atmosphère ») du livre II de la partie législative de ce même code, un décret en Conseil d'État fixe les conditions dans lesquelles certaines constructions nouvelles doivent comporter une quantité minimale de matériaux en bois. Par ces dispositions, le législateur a entendu permettre l'adoption de normes techniques dans le bâtiment destinées à imposer l'utilisation de bois dans les constructions nouvelles, afin de favoriser une augmentation de la production de bois dont il est attendu une amélioration de la lutte contre la pollution atmosphérique. Dans sa décision n° 2013-317 QPC du 24 mai 2013, le Conseil constitutionnel a déclaré ces dispositions contraires à la Constitution, le législateur ayant habilité le pouvoir réglementaire à porter aux exigences de la liberté d'entreprendre une atteinte qui n'est pas justifiée par un motif d'intérêt général en lien direct avec l'objectif poursuivi. Une disposition modifiant le livre Ier du code forestier, visant à reconnaître d'intérêt général la fixation du dioxyde de carbone par les bois et forêt et le stockage de carbone dans les bois et forêts, dans le bois et les produits fabriqués à partir du bois, sera introduite dans le projet de loi d'avenir de l'agriculture, de l'alimentation et de la forêt en cours de préparation et qui devrait permettre de remédier à cette situation.
