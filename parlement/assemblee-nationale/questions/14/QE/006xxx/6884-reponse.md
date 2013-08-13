@@ -1,0 +1,9 @@
+# Réponse à la question n° 6884
+
+- Question : [6884](6884.md) — Question n° 6884 — caisses régionales de sécurité sociale dans les mines; pérennité
+
+## Réponse
+
+*JO du 2013-08-13*
+
+Comme le Gouvernement s'y était engagé, il a confié à l'automne 2012 une mission de concertation à M. Jean Bessière, à la suite de laquelle le Premier ministre a annoncé l'abrogation de l'article 80 du décret du 30 août 2011 qui prévoyait le transfert au régime général, le 31 décembre 2013 au plus tard, de la gestion des activités assurantielles et d'offre de soins du régime minier. Cette abrogation est effective depuis le décret du 28 mars 2013. Pour autant, des évolutions restent nécessaires pour organiser l'avenir du régime minier, qui rencontre des difficultés importantes, notamment sur le plan financier et pour la gestion de ses structures de soins. L'offre de soins minière doit noramment évoluer selon une approche territoriale, en adéquation avec les attentes et les besoins des populations des régions concernées. Le devenir de la gestion de l'assurance maladie du régime doit également être imaginé dans un contexte de décroissance rapide de la démographie du régime minier. C'est pourquoi, pour accompagner ces évolutions, la ministre des affaires sociales et de la santé a mis en place une instance de coordination stratégique associant l'ensemble des acteurs de la corporation minière au sein de laquelle siègent deux parlementaires. Elle a confié à M. Philippe Ritter, préfet honoraire, la mission de piloter cette instance. Celle-ci se réunit régulièrement depuis son installation, le 26 avril 2013, pour préparer les évolutions du régime qui trouveront leur concrétisation dans la prochaine convention d'objectifs et de gestion de la caisse autonome nationale de sécurité sociale dans les mines (CANSSM). Il importe enfin de rappeler que le droit des mineurs aux prestations spécifiques de leur régime n'est en aucune manière remis en cause.
