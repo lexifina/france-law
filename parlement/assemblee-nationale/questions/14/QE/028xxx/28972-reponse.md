@@ -1,0 +1,9 @@
+# Réponse à la question n° 28972
+
+- Question : [28972](28972.md) — Question n° 28972 — normalisation; perspectives
+
+## Réponse
+
+*JO du 2013-08-13*
+
+La contribution à la normalisation est un des critères d'évaluation des chercheurs dans les organismes de recherche, au titre des activités de valorisation. De même, l'implication des chercheurs dans les travaux de normalisation fait partie des activités prises en compte par l'agence d'évaluation de la recherche et de l'enseignement supérieur (AERES) dans l'évaluation des unités de recherche : la contribution à l'élaboration de normes est, au sein des produits destinés à des acteurs non académiques, un élément d'évaluation des interactions avec l'environnement social, économique et culturel de l'unité. La prise en charge des coûts liés à ces activités relève de l'arbitrage des priorités que chaque organisme et chaque unité de recherche établit. En effet des choix raisonnés doivent être faits en prenant en compte diverses finalités, la participation à des travaux de normalisation pouvant être : - une contribution à la promotion de résultats de recherche en vue de leur transfert à des acteurs économiques : intégrer les résultats de recherche dans des standards industriels permet aux organismes scientifiques, comme aux entreprises, de diffuser plus largement leurs travaux, avec, en corollaire, une meilleure exploitation de leur propriété intellectuelle ; - un mode de soutien à des acteurs industriels qui, notamment sur les filières du futur, peuvent faire appel à des chercheurs dans un cadre contractuel pour les épauler sur le développement de documents normatifs. Par ailleurs, l'accompagnement de l'innovation et de la recherche est une des composantes du plan d'actions de la stratégie française de normalisation 2011-2015 élaborée au sein de l'association française de normalisation (AFNOR) par le comité de pilotage et de coordination de la normalisation.
