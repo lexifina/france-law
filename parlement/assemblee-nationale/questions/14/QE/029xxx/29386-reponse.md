@@ -1,0 +1,9 @@
+# Réponse à la question n° 29386
+
+- Question : [29386](29386.md) — Question n° 29386 — alcools; rhums d'outre-mer; politiques communautaires
+
+## Réponse
+
+*JO du 2013-08-13*
+
+La France est autorisée par le Conseil de l'Union européenne à appliquer une fiscalité dérogatoire sur le rhum traditionnel produit dans les départements d'Outre-Mer (DOM), pour un volume de 120 000 hectolitres d'alcool pur et jusqu'au 31 décembre 2013. Ce dispositif fiscal est autorisé, dans son principe, par une décision du Conseil de 2007 modifiée en 2011, et dans ses modalités, par une décision de la Commission européenne au titre de ses compétences en matière d'aide d'État. Ce soutien vise à compenser les surcoûts propres aux distilleries des DOM et à maintenir un débouché à ces productions sur le marché métropolitain. Le régime fiscal applicable au rhum traditionnel des DOM a été impacté par une hausse de la fiscalité sur les alcools, intervenue début 2012. Pour tenir compte des spécificités de cette production, la loi de financement de la sécurité sociale 2012 a prévu des dispositions dérogatoires pour le rhum traditionnel des DOM, ce qui a conduit à accroître le différentiel de la fiscalité entre le rhum des DOM et les autres alcools et, par conséquent, l'intensité de l'aide d'État accordée à ce secteur. Le nouveau régime applicable au rhum des DOM a été notifié le 8 août 2012. Il fait actuellement l'objet d'échanges d'informations entre les autorités françaises et à la Commission européenne. A ce stade, aucune procédure d'inscription sur le registre des aides illégales n'a été déclenchée. La France a également transmis, le 12 mars 2013, une demande en vue du renouvellement de la décision du Conseil autorisant la France à appliquer une fiscalité dérogatoire au rhum traditionnel des DOM, pour la période 2014-2020. Ainsi, des négociations sont en cours pour pérenniser le régime et pour sécuriser la période 2012-2013.
