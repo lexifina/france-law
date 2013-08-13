@@ -2,49 +2,39 @@
 
 Les titulaires des certificats de qualification professionnelle enregistrés au répertoire national des certifications professionnelles et mentionnés ci-dessous sont réputés avoir obtenu soit le titre professionnel d'agent (e) de propreté et d'hygiène, soit les certificats de compétences professionnelles de ce titre professionnel selon le tableau de correspondances figurant ci-dessous.
 
-CERTIFICATS DE QUALIFICATION
+CERTIFICATS DE QUALIFICATION PROFESSIONNELLE
 
-professionnelle de la branche
+de la branche " propreté "
 
-propreté (arrêté portant
-
-enregistrement au répertoire
-
-national des certifications
-
-professionnelles du 14 janvier 2010)
-
-|
+(arrêté portant enregistrement au RNCP du 14 janvier 2010) |
 
 TITRE PROFESSIONNEL
 
 d'agent (e) de propreté et d'hygiène
 
-défini au présent arrêté
+(présent arrêté) |
+
+CQP agent machiniste classique en propreté + CQP agent d'entretien et rénovation en propreté
 
 |
 
-CQP agent machiniste classique + CQP agent d'entretien et de rénovation propreté
+Titre professionnel APH
 
 |
 
-Titre professionnel
+CQP agent machiniste classique en propreté
 
 |
 
-CQP agent machiniste classique
+Réaliser une prestation de service d'entretien manuel adaptée aux locaux, aux surfaces et à leur utilisation
 
 |
 
-CCP : réaliser une prestation de service d'entretien manuel adaptée aux locaux, aux surfaces et à leur utilisation
+CQP agent d'entretien et rénovation en propreté
 
 |
 
-CQP agent d'entretien et de rénovation propreté
-
-|
-
-CCP : réaliser une prestation de service d'entretien mécanisé et / ou de remise en état mécanisée adaptée aux locaux, aux surfaces et à leur utilisation
+Réaliser une prestation de service d'entretien mécanisé et/ ou de remise en état mécanisée adaptée aux locaux, aux surfaces et à leur utilisation
 
 |
 
