@@ -1,0 +1,9 @@
+# Réponse à la question n° 22139
+
+- Question : [22139](22139.md) — Question n° 22139 — conditions d'accueil; étrangers
+
+## Réponse
+
+*JO du 2013-08-13*
+
+Améliorer l'accueil des étrangers en préfecture est une priorité du ministre à double titre : il en va, d'une part, de l'image du service public et, d'autre part, de la volonté, affirmée par le Président de la République, de contribuer à la sécurisation du parcours des migrants. En effet, la dégradation de la situation observée dans certains départements, en dépit des efforts accomplis, est de nature à donner une image d'autant plus négative qu'elle concerne un public particulièrement vulnérable. C'est la raison pour laquelle le ministre a décidé de constituer une mission temporaire d'appui à l'accueil des étrangers en préfecture. Au travers d'un réseau de correspondants dédiés, cette mission a la charge d'accompagner chaque préfecture éprouvant des difficultés en matière d'accueil dans la mise en place d'un plan d'actions visant à renforcer ses capacités d'accueil et de traitement des demandes de titres. Ces plans d'action intègrent les leviers d'amélioration existants ainsi que les bonnes pratiques identifiées afin que chaque étranger puisse trouver dans l'administration, une réponse objective, équitable, personnalisée et dans des délais raisonnables. Parmi ces leviers et bonnes pratiques figurent notamment le développement d'un nouveau module de prise de rendez-vous par internet, qui sera prochainement déployé, permettant à l'usager étranger de se rendre en préfecture sur convocation. S'agissant des usagers étrangers les plus vulnérables, personnes âgées, à mobilité réduites ou se présentant avec des enfants, l'administration centrale du ministère développe le recours à de jeunes volontaires du service civique chargés tout particulièrement de l'accompagnement de ce public prioritaire afin de lui éviter de trop longues durées d'attente.
