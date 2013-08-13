@@ -1,0 +1,9 @@
+# Réponse à la question n° 33153
+
+- Question : [33153](33153.md) — Question n° 33153 — appellation d'origine protégée
+
+## Réponse
+
+*JO du 2013-08-13*
+
+Le volume complémentaire individuel (VCI) est un dispositif permettant aux viticulteurs d'alimenter, par une production supérieure au rendement de l'appellation d'origine contrôlée (AOC), une réserve individuelle, qu'ils pourront mobiliser ultérieurement en cas d'année déficiente sur le plan quantitatif ou qualitatif. Ce mécanisme a fait l'objet d'une expérimentation, depuis 2005, pour quatre AOC de vins blancs tranquilles du vignoble de Chablis. Le Comité national des appellations d'origine relatives aux vins et aux boissons alcoolisées, et des eaux-de-vie de l'institut national de l'origine et de la qualité (INAO), a effectué un suivi de cette expérimentation. Un bilan de celle-ci a été présenté lors de la réunion du Comité national du 2 février 2012. Ce bilan est positif, à la fois en termes d'atteinte des objectifs (diminution des excédents de rendement, faisabilité technique et administrative, contrôlabilité des opérations), mais également en termes de mobilisation des professionnels concernés, très majoritairement engagés dans le dispositif. Aussi, le comité national compétent de l'INAO a proposé que ce dispositif puisse être mobilisé par l'ensemble des producteurs de vins blancs tranquilles bénéficiant d'une AOC. Dans l'attente de la modification, en cours, des textes réglementaires, nécessaire à la mise en oeuvre de ce dispositif, l'expérimentation conduite dans le vignoble de Chablis a été prolongée de deux ans par le décret n° 2012-1224 du 2 novembre 2012 modifiant le décret du 20 octobre 2005 portant expérimentation du volume complémentaire individuel pour les appellations d'origine contrôlées « Petit Chablis », « Chablis », « Chablis premier cru » et « Chablis grand cru ».
