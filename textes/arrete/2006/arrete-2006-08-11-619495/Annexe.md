@@ -174,9 +174,9 @@ Les cessions ne sont autorisées que pour les autorisations délivrées avec pr�
 
 |
 
-II. - Dans les départements d'outre-mer et les collectivités de Mayotte
+II. - Dans les départements d'outre-mer et les collectivités de Saint-Barthélemy,
 
-et de Saint-Pierre-et-Miquelon
+de Saint-Martin et de Saint-Pierre-et-Miquelon
 
 FRÉQUENCES
 
@@ -194,7 +194,7 @@ CESSIONS AUTORISÉES
 
 Cessions intégrales.
 
-Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précision sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
+Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
 
 |
 
@@ -218,7 +218,19 @@ Cessions partielles portant sur la composante temporelle.
 
 Cessions intégrales.
 
-Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précision sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
+Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
+
+|
+
+880 MHz-915 MHz
+
+925 MHz-960 MHz
+
+|
+
+Cessions intégrales.
+
+Cessions partielles portant sur la composante spectrale.
 
 |
 
@@ -244,6 +256,30 @@ Les cessions ne sont autorisées que pour les autorisations délivrées avec pr�
 
 1 626,5 MHz-1 660 MHz
 
+|
+
+Cessions intégrales.
+
+Cessions partielles portant sur la composante temporelle.
+
+|
+
+1 710 MHz-1 785 MHz
+
+1 805 MHz-1 880 MHz
+
+1 900 MHz-1 980 MHz
+
+2 110 MHz-2 170 MHz
+
+|
+
+Cessions intégrales.
+
+Cessions partielles portant sur la composante spectrale.
+
+|
+
 2 483,5 MHz-2 500 MHz
 
 |
@@ -260,7 +296,7 @@ Cessions partielles portant sur la composante temporelle.
 
 Cessions intégrales.
 
-Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précision sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
+Cessions partielles portant sur la composante temporelle ou, pour les autorisations délivrées sans précisions sur l'implantation des stations, sur une ou plusieurs des composantes géographique, spectrale et temporelle.
 
 |
 
@@ -294,9 +330,7 @@ sauf
 
 48,2-48,54
 
-49,44-50,2
-
-GHz
+49,44-50,2 GHz
 
 |
 
