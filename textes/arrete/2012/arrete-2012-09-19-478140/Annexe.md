@@ -225,3 +225,21 @@ RPA et opérateur, porcins-manipulations et soins-mise à mort
 30 juin 2018
 
 |
+
+Institut de formation des métiers du secteur associatif juif - SIF, 9, rue Vauquelin, 75005 Paris
+
+|
+
+Opérateur, bovins, manipulations et soins, mise à mort, complément sans étourdissement
+
+Opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement
+
+Opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
+
+1er août 2013
+
+|
+
+31 juillet 2018
+
+|
