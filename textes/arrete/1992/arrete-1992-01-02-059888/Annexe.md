@@ -34,7 +34,7 @@ Sages-femmes cadres supérieurs
 
 |
 
-Cadres supérieurs de santé
+Cadres supérieurs de santé et cadres supérieurs de santé paramédicaux
 
 |
 
@@ -50,7 +50,7 @@ Sages-femmes cadres
 
 |
 
-Cadres de santé (filières infirmière, de rééducation et médico-technique)
+Cadres de santé et cadres de santé paramédicaux (filières infirmière, de rééducation et médico-technique)
 
 |
 
