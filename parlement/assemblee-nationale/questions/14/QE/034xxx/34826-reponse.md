@@ -1,0 +1,9 @@
+# Réponse à la question n° 34826
+
+- Question : [34826](34826.md) — Question n° 34826 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-08-20*
+
+Dans le cadre de la politique de modernisation de l'action publique, le Gouvernement a souhaité réformer les pratiques de consultation préalable à la prise de décision et mettre un terme à l'inflation du nombre de commissions consultatives. Dans ce contexte, le comité interministériel de modernisation de l'action publique du 17 juillet 2013 a décidé de fusionner la Commission de prévention des accidents du travail des non-salariés agricoles et la Commission nationale de prévention des accidents du travail et des maladies professionnelles des salariés agricoles avec le conseil supérieur des prestations sociales agricoles. La Commission nationale de prévention des accidents du travail et des maladies professionnelles des salariés agricoles a été instituée par la loi n° 72-965 du 25 octobre 1972. Elle est placée auprès du ministre en charge de l'agriculture qui la consulte pour définir les mesures de prévention des accidents du travail et des maladies professionnelles des salariés agricoles qui seront mises en oeuvre par la caisse centrale de la mutualité sociale agricole (CCMSA). Elle est composée des représentants de l'État, des employeurs et des salariés agricoles en nombre égal, de la CCMSA, ainsi que de personnes qualifiées dans le domaine de la prévention des risques professionnels. Elle adopte le programme et les moyens consacrés à ces actions de prévention par la CCMSA qui lui rend compte chaque année de leur exécution par les 35 caisses de mutualité sociale agricole réparties sur le territoire. La Commission se réunit une fois par an pour examiner le bilan des actions de prévention et adopter le programme de l'année à venir. Elle ne dispose d'aucun moyen humain ou financier spécifique pour assurer son fonctionnement.
