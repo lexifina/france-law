@@ -1,0 +1,9 @@
+# Réponse à la question n° 34167
+
+- Question : [34167](34167.md) — Question n° 34167 — politiques communautaires; exportations hors Union européenne
+
+## Réponse
+
+*JO du 2013-08-20*
+
+Après consultation du comité de gestion du 18 juillet 2013, la Commission européenne a pris la décision de mettre à zéro le montant unitaire des aides à l'exportation de volaille, qui était de 108,5 euros par tonne depuis janvier 2013. La France, avec le soutien de nombreux États-membres, s'est fortement mobilisée en amont de l'échéance en plaidant auprès de ses partenaires et de la Commission européenne pour un maintien des restitutions. Ce montant unitaire avait déjà subi une première baisse, passant de 325 à 217 euros par tonne, le 18 octobre 2012, et une seconde, passant de 217 à 108,5 euros par tonne, le 17 janvier 2013. Dès le 25 juillet 2013, le ministre chargé de l'agriculture et le ministre délégué à l'agroalimentaire ont reçu les dirigeants du Groupe Doux et de la société Tilly-Sabco pour définir des mesures, compatibles avec la réglementation européenne, visant à accompagner les entreprises concernées par cette évolution. Cette décision intervient alors qu'une dynamique de restructuration a été engagée par les opérateurs depuis plusieurs mois avec le Gouvernement et les collectivités territoriales en vue d'améliorer la compétitivité de la filière et préparer la fin du dispositif structurel d'aide à l'exportation. Le Gouvernement entend accompagner les entreprises concernées par tous les moyens à sa disposition, en liaison avec les collectivités locales concernées. Au-delà des possibilités de recours qui sont à l'étude avec les opérateurs, le Gouvernement entend continuer à soutenir les démarches engagées en vue d'effectuer les adaptations nécessaires de cette filière, dans l'objectif d'en améliorer la viabilité économique dans ce nouveau contexte.
