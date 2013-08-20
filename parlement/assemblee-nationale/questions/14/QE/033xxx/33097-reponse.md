@@ -1,0 +1,9 @@
+# Réponse à la question n° 33097
+
+- Question : [33097](33097.md) — Question n° 33097 — moyens financiers; cheptel ovin
+
+## Réponse
+
+*JO du 2013-08-20*
+
+Afin de favoriser une mise en place rapide de l'identification électronique des petits ruminants en France, le principe de la compensation du surcoût de l'utilisation des boucles électroniques a été appliqué en juillet 2010. Pour les animaux nés à partir de 2010, le surcoût était compensé à hauteur de 0,80 euro maximum pendant 3 ans. Le financement des boucles pour ces animaux a fait l'objet d'un co-financement européen. La Commission européenne et le ministère en charge de l'agriculture participaient au co-financement à hauteur de 50 % chacun pendant 3 ans. Pour les petits ruminants nés avant 2010 susceptibles d'être identifiés électroniquement chaque année dans le cadre des opérations de débouclage-rebouclage mises en place spécifiquement en France, le surcoût a été compensé à hauteur de 1 euro maximum pendant également 3 ans. Le calcul et la répartition des enveloppes ont été faits sur la base des informations existantes (recensement ovin/caprin, commandes des identifiants les années précédentes, etc.. . ). Les trois années de financement étant écoulées, il n'est pas prévu de nouveaux financements pour l'identification des petits ruminants. Comme dans toutes les filières d'élevage, le coût de l'identification est pris en charge par les éleveurs. Les services du ministère de l'agriculture, l'agroalimentaire et de la forêt ont cependant autorisé que les départements qui n'ont pas consommé encore toutes leurs enveloppes au 1er juillet 2013, puissent le faire jusqu'à la fin de l'année 2013. S'il est encore trop tôt pour estimer le reliquat à la fin de l'année 2013 des dites enveloppes, il apparaît qu'au niveau de consommation actuel, il ne devrait pas y avoir de reliquat excepté peut-être dans deux départements (les Deux-Sèvres et la Drôme).
