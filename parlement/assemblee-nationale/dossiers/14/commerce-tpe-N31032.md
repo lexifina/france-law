@@ -1,0 +1,66 @@
+# Economie : artisanat, commerce et très petites entreprises
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N31032
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/Commerce_tpe
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-376.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-08-21 : 1er dépôt d'une initiative. (PRJLANR5L14B1338)
+  - 2013-08-21 : Etude d'impact (ETDIANR5L14B1338)
+  - 2014-01-09 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-08-21 : Renvoi en commission au fond
+      - 2013-10-09 : Nomination de rapporteur
+      - 2014-01-28 : Réunion de commission
+      - 2014-01-28 : Réunion de commission
+      - 2014-01-29 : Réunion de commission
+      - 2014-02-12 : Réunion de commission
+      - 2014-01-29 : Dépôt de rapport (RAPPANR5L14B1739, PRJLANR5L14BTC1739)
+  - Discussion en séance publique
+    - 2014-02-12 : Discussion en séance publique
+    - 2014-02-12 : Discussion en séance publique
+    - 2014-02-13 : Discussion en séance publique
+    - 2014-02-13 : Discussion en séance publique
+    - 2014-02-18 : Discussion en séance publique
+    - 2014-02-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-02-18 : Dépôt d'une initiative en navette (PRJLSNR5S219B0376)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-02-18 : Renvoi en commission au fond
+      - 2014-01-29 : Nomination de rapporteur
+      - 2014-04-09 : Dépôt de rapport (RAPPSNR5S219B0440)
+    - Travaux d'une commission saisie pour avis
+      - 2014-02-26 : Saisine pour avis d'une commission
+      - 2014-02-26 : Nomination de rapporteur
+      - 2014-04-09 : Dépôt de rapport (AVISSNR5S219B0442)
+    - Travaux d'une commission saisie pour avis
+      - 2014-02-26 : Saisine pour avis d'une commission
+      - 2014-02-26 : Nomination de rapporteur
+      - 2014-04-09 : Dépôt de rapport (AVISSNR5S219B0446)
+  - Discussion en séance publique
+    - 2014-04-16 : Discussion en séance publique
+    - 2014-04-17 : Discussion en séance publique
+    - 2014-04-17 : Décision
+- Commission Mixte Paritaire
+  - 2014-04-18 : Dépôt d'un projet de loi (PRJLANR5L14B1893)
+  - 2014-04-18 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-05-21 : Nomination de rapporteur
+    - 2014-05-21 : Dépôt du rapport d'une CMP (RAPPANR5L14B1966)
+    - 2014-05-21 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0556)
+  - Discussion en séance publique
+    - 2014-05-26 : Décision
+  - Discussion en séance publique
+    - 2014-06-05 : Discussion en séance publique
+    - 2014-06-05 : Décision
+  - 2014-05-22 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-06-18 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2016-06-15 : Rapport sur l'application des lois (RINFANR5L14B3843)
