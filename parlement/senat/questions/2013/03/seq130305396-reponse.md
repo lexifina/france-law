@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305396
+
+- Question : [SEQ130305396](seq130305396.md) — Indemnités des maires
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2013-08-22, page 2458*
+
+Bien que les fonctions électives soient par principe gratuites, les élus municipaux peuvent bénéficier d'indemnités de fonction qui viennent compenser les dépenses et les sujétions qui résultent de l'exercice de leur charge publique. Les indemnités de fonction des élus sont fixées par le conseil municipal qui délibère dans les trois mois suivant son installation. Le montant des indemnités est fixé souverainement par l'assemblée, dans les limites fixées par la loi. Ce principe a été aménagé pour les communes de moins de 1 000 habitants puisqu'elles sont tenues, en application de l'article L. 2123-20-01 du code général des collectivités territoriales (CGCT) d'allouer à leur maire l'indemnité au taux maximal prévu par la loi, sauf si le conseil municipal en décide autrement. Le législateur a ainsi entendu faciliter l'attribution effective d'indemnités de fonction aux maires des plus petites communes qui semblaient souvent y renoncer afin de ne pas alourdir les finances de leur collectivité. Le Gouvernement a engagé une réflexion en vue d'améliorer le statut de l'élu local et soutient, à ce titre, l'initiative prise par le Sénat qui a voté, le 29 janvier 2013, la proposition de loi déposée par Mme Gourault et M. Sueur visant à faciliter l'exercice par les élus locaux de leur mandat. Cette proposition de loi comprend plusieurs dispositions destinées à renforcer la formation des élus locaux dans l'exercice du mandat ainsi qu'une amélioration des dispositifs d'accompagnement à la fin du mandat afin d'envisager une reconversion professionnelle des élus locaux. Elle devrait être inscrite rapidement à l'ordre du jour de l'Assemblée nationale.
