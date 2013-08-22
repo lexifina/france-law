@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305114
+
+- Question : [SEQ130305114](seq130305114.md) — Inquiétudes des entrepreneurs du bâtiment
+
+## Réponse
+
+*Économie et finances, JO du 2013-08-22, page 2439*
+
+Conformément aux dispositions de la directive n° 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée (TVA), les États membres peuvent appliquer des taux réduits de TVA aux livraisons de biens et aux prestations de services figurant à l'annexe III de cette même directive. Le Gouvernement reste attaché à ces dispositifs de taux réduit de TVA qui se sont montrés efficaces pour soutenir l'activité économique, dynamiser l'emploi et lutter contre le travail illégal. À compter du 1er janvier 2014, la structure des taux de TVA sera réaménagée, conformément aux dispositions de l'article 68 de la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, portant le taux normal de TVA de 19,6 % à 20 %, le taux intermédiaire de 7 % à 10 % et abaissant le taux réduit de 5,5 % à 5 %. La mise en place du crédit d'impôt pour la compétitivité et l'emploi (CICE) répond aux préoccupations exprimées quant à la sauvegarde des emplois en étant assis sur la masse salariale comprise entre 1 et 2,5 SMIC. Ainsi, le secteur du bâtiment et des travaux publics, très intensif en main d'œuvre, va largement en bénéficier, ce qui lui permettra d'absorber les effets d'une hausse de trois points du taux intermédiaire de TVA. Ce secteur, qui représente 6 % de la valeur ajoutée, bénéficiera en effet de 10 % du CICE, soit une dépense fiscale de deux milliards d'euros. Toutefois, afin de tenir compte des spécificités du secteur du logement social, le président de la République a annoncé dans son discours d'Alfortville du 21 mars 2013, une baisse à 5 % du taux de TVA applicable, à compter du 1er janvier 2014, à la construction et aux gros travaux de rénovation de logements sociaux.
