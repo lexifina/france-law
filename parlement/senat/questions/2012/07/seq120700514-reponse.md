@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700514
+
+- Question : [SEQ120700514](seq120700514.md) — Redevance collectée pour le financement des syndicats intercommunaux de collecte des déchets ménagers
+
+## Réponse
+
+*Économie et finances, JO du 2013-08-22, page 2435*
+
+Sur la base d'un accord entre États membres, la directive n° 2010/24/UE du Conseil européen du 16 mars 2010 organise l'assistance mutuelle des États européens en matière de recouvrement des créances publiques relatives aux taxes, impôts, droits et autres mesures. En vertu du 9° de l'article L. 1617-5 du code général des collectivités territoriales, les titres de recette émis par l'ordonnateur d'un établissement public de coopération intercommunale « peuvent faire l'objet d'une assistance en matière de recouvrement ou de prises de mesures conservatoires, de notification d'actes ou de décisions, y compris judiciaires, et d'échange de renseignements auprès des États membres de l'Union européenne dans les conditions prévues aux articles L. 283 A à L. 283 F du Livre des procédures fiscales ». Pour une créance dont la nature n'est ni prévue par la directive précitée (contrepartie financière versée par l'usager d'un service public notamment), ni dans une convention internationale d'assistance administrative, le comptable public ne peut engager des mesures d'exécution forcée que sur le territoire national. En effet, la souveraineté des États impose qu'aucun acte de poursuites ne soit mené sans leur consentement sur leur territoire, la force exécutoire des titres de recette précités étant limitée au territoire français. L'ordonnateur d'un organisme public local conserve toutefois la possibilité d'engager, aux frais de son organisme (recours à un avocat, ...), une procédure d'exequatur dans le pays concerné pour donner à son titre de recette force exécutoire dans ce même pays et permettre son exécution forcée sur le territoire de ce dernier.
