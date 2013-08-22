@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130405914
+
+- Question : [SEQ130405914](seq130405914.md) — Précisions quant à l'information destinée aux candidats non retenus à l'issue d'une procédure restreinte
+
+## Réponse
+
+*Économie et finances, JO du 2013-08-22, page 2443*
+
+Le concours restreint se déroule en deux phases. Le jury du concours examine d'abord les candidatures et le pouvoir adjudicateur arrête une liste de candidats admis à concourir. Les offres de ces candidats sont ensuite examinées par le jury, et le pouvoir adjudicateur choisit le ou les candidats avec qui il négocie, puis attribue le marché. À l'issue de la première phase (examen des candidatures), les candidats non retenus en sont informés (article 70-III 1° alinéa 2 du code des marchés publics). À l'issue de la seconde phase (attribution du marché après examen des offres), lorsque le candidat dont l'offre a été retenue produit les attestations et certificats mentionnés au I et II de l'article 46 du code des marchés publics, les candidats dont l'offre n'a pas été retenue sont informés du rejet de celle-ci (article 70-IX alinéa 2 du code des marchés publics). À ce stade, le pouvoir adjudicateur dispose de tous les éléments nécessaires à l'information des candidats évincés tels qu'imposée par l'article 80-I du code des marchés publics. Les candidats dont la candidature n'a pas été retenue (première phase) doivent être informés des motifs détaillés du rejet de leur candidature. Les candidats qui ont été admis à présenter une offre, mais dont l'offre n'a pas été retenue (deuxième phase), sont informés des motifs détaillés du rejet de leur offre, du nom de l'attributaire du marché et des motifs ayant conduit au choix de cette offre, ainsi que la durée du délai minimal que le pouvoir adjudicateur s'engage à respecter entre la notification de la lettre de rejet et la signature du marché.
