@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130707258
+
+- Question : [SEQ130707258](seq130707258.md) — Obtention ou renouvellement de passeport à l'étranger
+
+## Réponse
+
+*Français de l'étranger, JO du 2013-08-22, page 2449*
+
+Les caractéristiques des passeports biométriques rendent nécessaire la comparution personnelle des demandeurs lors du dépôt de la demande. Comme en France métropolitaine, une seconde comparution est requise lors du retrait du titre. Cette procédure permet de s'assurer de l'identité du demandeur ; elle permet aussi de vérifier que le titre émis a bien été remis à son titulaire. Aussi n'est-il pas envisagé de supprimer ces contrôles indispensables pour éviter tout risque d'usurpation d'identité dont de nombreux compatriotes ont été victimes. Conscient des difficultés que cette double comparution peut causer à nos compatriotes installés dans des régions éloignées des consulats, le ministère des affaires étrangères a obtenu en 2011 que les Français de l'étranger puissent récupérer leur passeport auprès d'une agence consulaire installée près de chez eux, sans obligation de se rendre à nouveau au consulat. Par ailleurs, le déploiement des valises ITINERA permet de recueillir les données biométriques des usagers lors de tournées consulaires. Dans ce cas, aucune comparution au consulat général n'est requise. Enfin, la création au 1er avril 2013 du passeport dit « grand voyageur » contribue également à l'allégement des contraintes, en proposant un livret de passeport contenant 48 pages au lieu de 32, afin de limiter les renouvellements anticipés des titres destinés à nos ressortissants les plus mobiles. Les conditions de délivrance ainsi que la fiscalité sont les mêmes que pour les passeports ordinaires. La croissance rapide du nombre de passeports « grand voyageur » délivrés à ce jour (près de 20 % de la demande à Hong Kong par exemple) montre qu'il répond à une demande réelle de nos compatriotes.
