@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506592
+
+- Question : [SEQ130506592](seq130506592.md) — Protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données
+
+## Réponse
+
+*Affaires européennes, JO du 2013-08-22, page 2416*
+
+En matière de marketing direct, le système actuel repose sur « l'opt-out ». Dans ce cadre, le consentement de la personne n'est pas demandé au moment de la collecte des données. La personne peut néanmoins faire jouer son droit d'opposition a posteriori, et souhaiter ne plus être inscrite dans le fichier. Dans le cadre des négociations en cours sur le projet de règlement européen relatif à la protection des données personnelles, les autorités françaises souhaitent qu'il soit précisé que les traitements de données mis en œuvre dans le cadre d'activités de marketing direct se fondent sur les intérêts légitimes du responsable de traitement (article 6, paragraphe 1, point f) et que, par conséquent, le consentement préalable de la personne concernée (article 6, paragraphe 1, point a) n'est pas nécessairement requis. Les autorités françaises sont en effet favorables à la préservation du système d'opt out sur lequel est basé le marketing direct. Sur cette base, une réflexion est en cours au sein des différents ministères concernés sur les options qui permettraient d'assouplir le système suggéré dans la proposition de règlement. Les autorités françaises ont spécifiquement demandé lors du Conseil Justice et Affaires intérieures de juin que cette question soit examinée. Par ailleurs, au plan national, le projet de loi relatif à la consommation prévoit une mesure reposant sur l'opt out, imposant à toute entreprise effectuant de la prospection commerciale par téléphone la consultation d'une liste où pourront s'inscrire les consommateurs ne souhaitant pas faire l'objet de ce type de démarchage.
