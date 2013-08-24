@@ -76,12 +76,20 @@ Alpes-Maritimes
 
 |
 
-DDTM de la Loire-Atlantique
-
-|
+DDTM de la Loire-Atlantique |
 
 Loire-Atlantique
 
 Vendée
+
+|
+
+DDT de Vaucluse |
+
+Vaucluse
+
+Alpes-de-Haute-Provence
+
+Hautes-Alpes
 
 |
