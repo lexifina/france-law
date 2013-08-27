@@ -1,0 +1,9 @@
+# Réponse à la question n° 5414
+
+- Question : [5414](5414.md) — Question n° 5414 — revendications
+
+## Réponse
+
+*JO du 2013-08-27*
+
+Concernant les sapeurs-pompiers volontaires membres des services de santé et de secours médical des services d'incendie et de secours, le décret n° 2013-412 du 17 mai 2013 précise les conditions d'engagement. Ils constituent une catégorie particulière de sapeurs-pompiers volontaires. Inscrits à un ordre professionnel et assujettis en permanence au code de la santé publique (déontologie médicale, moralité, assistance à personne, ...), cela crée un dilemme entre les activités de sapeur-pompier non membre du service de santé et de secours médical et les obligations précitées. Dans le cadre des missions de secours à personnes, un possible risque de conflit de compétence est fortement présent, notamment concernant les infirmiers. En effet, l'infirmier sapeur-pompier volontaire relève du collège officier ; or, le chef d'agrès, en charge du commandement de l'opération de secours, est en général un sous-officier. C'est pourquoi, il apparaît plus judicieux que le sapeur-pompier volontaire, membre du service de santé et de secours médical, intervienne en complément des équipes sapeurs-pompiers, en apportant la compétence conférée par son titre, visé par le code de la santé publique. Enfin, il est à noter que les activités du service de santé et de secours médical permettent, aux sapeurs-pompiers membres de ce service, un large éventail (médecine d'aptitude et de prévention, formation, soutien sanitaire, planification opérationnelle ainsi que la participation aux missions opérationnelles en interface avec les autres acteurs de l'aide médicale urgente). Tous ces éléments doivent conduire à n'autoriser, de manière habituelle, aux membres du service de santé et de secours médical des services d'incendie et de secours, que les activités entrant dans le champ de ce service.
