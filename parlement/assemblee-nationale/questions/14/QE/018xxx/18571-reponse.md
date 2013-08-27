@@ -1,0 +1,9 @@
+# Réponse à la question n° 18571
+
+- Question : [18571](18571.md) — Question n° 18571 — revendications
+
+## Réponse
+
+*JO du 2013-08-27*
+
+Les 27 500 buralistes représentent un important commerce de proximité, réparti sur tout le territoire. Aujourd'hui, leur principale activité est représentée par la vente des produits du tabac : chaque jour, 10 millions de concitoyens franchissent les portes d'un débit de tabac. Face aux mutations du marché engendrées par la politique de hausses des prix concourant à la lutte contre le tabac, les pouvoirs publics ont instauré des mécanismes compensatoires au profit des buralistes. Comme le recommande la Cour des Comptes, il est nécessaire de travailler, avec la profession, à une évolution des modalités de rémunération et à une diversification des activités. A l'occasion de la journée mondiale sans tabac pour 2013, des mesures pour renforcer la lutte contre le tabagisme en France ont été annoncées par le gouvernement. Le tabac est la première cause de mortalité en France et est responsable de 73 000 décès chaque année, tous évitables. L'aide au traitement de la dépendance tabagique est une priorité de santé publique, particulièrement dans un contexte de hausse de la consommation de tabac surtout chez les jeunes et les femmes. C'est pourquoi, une des mesures qui viennent d'être annoncées concerne l'aide au sevrage tabagique. Le projet de loi de financement de la sécurité sociale pour 2014 contiendra une mesure pour relever le défi du sevrage et inciter les jeunes fumeurs à arrêter le plus tôt possible. En l'état de la législation, les substituts nicotiniques sont des médicaments et ne peuvent être délivrés qu'en pharmacie. En effet, l'article L. 4211-1 du code de la santé publique prévoit que « sont réservés aux pharmaciens, sauf les dérogations prévues au présent code (...) la vente en gros, la vente au détail et toute dispensation au public des médicaments »..
