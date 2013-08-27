@@ -1,0 +1,9 @@
+# Réponse à la question n° 21095
+
+- Question : [21095](21095.md) — Question n° 21095 — mise en place; modalités
+
+## Réponse
+
+*JO du 2013-08-27*
+
+Les emplois d'avenir sont conçus pour répondre aux difficultés rencontrés par les jeunes de 16 à 25 ans peu ou pas qualifiés dans un contexte de chômage élevé. Les jeunes sans diplôme et sans emploi sont tous éligibles aux emplois d'avenir quel que soit leur lieu de résidence, tout comme les jeunes titulaires d'un diplôme de niveau V (CAP ou BEP), sous condition de durée de recherche d'emploi, fixée par décret. De manière dérogatoire, les jeunes ayant atteint le premier cycle de l'enseignement supérieur peuvent être éligibles aux emplois d'avenir s'ils résident en zone urbaine sensible (ZUS) en zone de revitalisation rurale (ZRR) ou dans un territoire d'outre-mer. Les ZUS créées par la loi du 14 novembre 1986 font partie de la géographie prioritaire de la ville et ont pour objectif de réduire les inégalités et les écarts de développement entre ces territoires et leur environnement, en particulier sur les thématiques de l'emploi et de l'habitat. La liste des ZUS est définie par décret sur la base de critères nationaux. Pour vérifier si un jeune réside en ZUS, un formulaire de saisie des adresses en ligne développé par le Secrétariat général du comité interministériel des villes (SGCIV) (http :/sig. ville. gouv/adresses/recherche) permet d'identifier l'appartenance d'une adresse à un quartier prioritaire ainsi que le type de quartier ZUS. Le comité interministériel de la ville du 19 février 2013 a confirmé que la géographie prioritaire de la ville va être redessinée dans le cadre du projet de loi relatif à la ville et à la cohésion urbaine. Nous nous sommes fixés comme objectif que 20 % des 100 000 jeunes recrutés en emplois d'avenir en 2013 seraient résidents en ZUS, 25 % en 2014 et 30 % en 2015.
