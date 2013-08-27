@@ -1,0 +1,9 @@
+# Réponse à la question n° 34377
+
+- Question : [34377](34377.md) — Question n° 34377 — déplacements ministériels; coût
+
+## Réponse
+
+*JO du 2013-08-27*
+
+Monsieur le Ministre délégué chargé des affaires européennes s'est rendu en Avignon le 18 juillet dernier, dans le cadre de ses déplacements bimensuels en régions, afin d'aller à la rencontre, sur le terrain, des acteurs de l'Europe concrète. Dans le Vaucluse, il s'est ainsi rendu sur un chantier d'insertion co-financé par le fonds social européen. Il a pu échanger sur place avec la dizaine de salariés en insertion qui travaillent sur ce chantier (espaces verts d'une zone commerciale). Le Ministre délégué a ensuite tenu une réunion de travail dans les locaux de l'association Espelido, menant ce chantier d'insertion, en présence du Président du Conseil général, de l'unité territoriale du Vaucluse de la DIRECCTE et des travailleurs sociaux. Les échanges ont permis de faire le point sur l'apport des fonds européens et les améliorations éventuelles à apporter à leur fonctionnement ou leur ciblage. Ont également été abordées les questions relatives au détachement de travailleurs au sein du marché unique européen et à ses conséquences, au niveau local, sur l'emploi dans le secteur du bâtiment et les emplois saisonniers. Le déplacement ministériel s'est poursuivi par un échange avec les deux co-directeurs du festival d'Avignon, sur les enjeux culturels de la construction européenne et la façon dont des projets transfrontaliers de création et de diffusion artistiques pourraient être soutenus par l'Union européenne en vue de renforcer le sentiment d'appartenance et l'idéal européen. Le Ministre délégué a également assisté au spectacle d'une troupe de Savoie (Chapiteau Théâtre Compagnie) se produisant dans le cadre du « off », ainsi qu'en soirée, au spectacle « Cour d'honneur » de Jérôme Bel.
