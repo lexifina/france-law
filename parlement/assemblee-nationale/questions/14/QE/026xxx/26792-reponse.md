@@ -1,0 +1,9 @@
+# Réponse à la question n° 26792
+
+- Question : [26792](26792.md) — Question n° 26792 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2013-08-27*
+
+La Cour fait le constat qu'en 2010, la protection des palais nationaux représentait 69 % des activités opérationnelles de la Garde contre 7,5 % seulement pour les services d'honneur. Il convient de prendre en compte que les palais nationaux (l'Élysée, Matignon, le Palais Bourbon, le Palais du Luxembourg...) sont des lieux particulièrement sensibles au regard de menaces multiples, au premier rang desquelles la menace terroriste. Dès lors, comme le préconise la Cour, je suis effectivement favorable à une étude relative à l'adaptation des moyens de protection des palais nationaux mais sans dégradation de la mission essentielle de sécurité et en tenant compte des spécificités de chaque site et dispositif. S'agissant des services d'honneur, la définition de leur forme et de leur volume mérite sans nul doute d'être révisée et modernisée. La Garde Républicaine remplit en outre des missions non spécifiques qui traduisent la polyvalence de ses militaires : interpellations à risque, escortes de détenus, lutte contre l'orpaillage en Guyane. Ces missions consacrent une véritable politique d'optimisation des moyens puisque seuls ceux qui n'ont pas été engagés sur des missions de sécurité et d'honneur y sont employés. S'agissant du régiment de cavalerie, il s'agit de la plus importante unité équestre de France. Il possède des capacités de projection qui sont utilisées tant au profit des unités implantées en zone gendarmerie qu'au profit des services présents en zone police. En conclusion, plusieurs travaux sont d'ores et déjà en cours ou seront prochainement lancés pour rationaliser le fonctionnement de la Garde Républicaine dont la pérennité ne saurait être mise en cause.
