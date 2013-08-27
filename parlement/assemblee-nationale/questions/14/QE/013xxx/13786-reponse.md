@@ -1,0 +1,9 @@
+# Réponse à la question n° 13786
+
+- Question : [13786](13786.md) — Question n° 13786 — fonctionnement; conditions de travail
+
+## Réponse
+
+*JO du 2013-08-27*
+
+La ministre des affaires sociales et de la santé a confié à M. Edouard COUTY, conseiller maître à la cour des comptes, ancien directeur des hôpitaux, la responsabilité d'une concertation destinée à rétablir un « pacte de confiance pour l'hôpital » autour de trois thématiques : le service public hospitalier dans le système de soins, le dialogue social à l'hôpital et la gestion des ressources humaines, l'organisation et le fonctionnement internes de l'hôpital (notamment gouvernance). Les groupes de travail étaient composés des représentants du personnel médical et non médical, des représentants des employeurs, des représentants des conférences, des représentants des usagers et de personnes qualifiées. Le 4 mars 2013, M. Edouard Couty a remis à la ministre des affaires sociales et de la santé le rapport final de synthèse des trois groupes de travail. La ministre a pris, sur la base des propositions qui lui ont été faites, quelque 13 engagements portant sur le service public hospitalier, le financement des établissements de santé, la démocratie à l'hôpital, avec notamment le renforcement des prérogatives des commissions médicales d'établissement, et le dialogue social. Il est prévu en particulier, dans ce domaine, de relancer la dynamique des contrats locaux d'amélioration des conditions de travail pour mieux répondre aux attentes des personnels. Par ailleurs les missions des comités d'hygiène, de sécurité et des conditions de travail (CHSCT) seront élargies par décret et la représentation des médecins sera améliorée pour répondre aux attentes de l'ensemble du personnel. Cette démarche s'inscrit dans le cadre de la future stratégie nationale de santé, qui a pour objectif de réorganiser le système de santé autour du patient et de structurer une médecine de parcours.
