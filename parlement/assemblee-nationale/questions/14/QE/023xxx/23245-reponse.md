@@ -1,0 +1,9 @@
+# Réponse à la question n° 23245
+
+- Question : [23245](23245.md) — Question n° 23245 — campagnes de promotion; réglementation
+
+## Réponse
+
+*JO du 2013-08-27*
+
+L'article L.52-1 du code électoral pose le principe de l'interdiction durant les six mois qui précédent une élection générale de « toute campagne de promotion publicitaire des réalisations ou de la gestion d'une collectivité (...) sur le territoire des collectivités intéressées par le scrutin ». Si le législateur a voulu encadrer la communication institutionnelle en période électorale, il n'a toutefois pas entendu la supprimer. En effet, les candidats sortants doivent pouvoir poursuivre l'accomplissement de leur mandat jusqu'à l'élection et conservent donc le droit d'informer leurs administrés sur les affaires les intéressant. Par conséquent, rien ne s'oppose à ce qu'une commune ayant initié une démarche dite « Agenda 21 » puisse poursuivre sa mise en oeuvre en période électorale. Toutefois, il convient d'être vigilant sur la communication relative au déroulement et aux résultats de cette démarche. En effet, selon la jurisprudence, il apparaît nécessaire de veiller à ce que les moyens employés ne dépassent pas les modalités classiques d'information habituellement mises en oeuvre par la commune. Par ailleurs, la communication doit rester strictement informative et neutre. Ainsi, elle ne doit pas contenir d'éléments de polémique électorale, faire une quelconque référence à l'élection ni promouvoir de quelque manière que ce soit l'action ou les projets d'une collectivité ou d'un élu. En tout état de cause, en l'absence de définition précise de la notion de campagne de promotion publicitaire, il appartient au juge de déterminer au cas par cas, notamment au regard des effets sur les résultats de l'élection, si la communication d'une information a constitué une campagne de promotion publicitaire au sens de l'article L.52-1 précité.
