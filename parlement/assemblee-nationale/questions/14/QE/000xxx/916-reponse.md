@@ -1,0 +1,9 @@
+# Réponse à la question n° 916
+
+- Question : [916](916.md) — Question n° 916 — fonctionnement; financement
+
+## Réponse
+
+*JO du 2013-08-27*
+
+S'il est prévu de confier de plus larges compétences aux régions dans le cadre de la nouvelle étape de décentralisation, il n'est pas question de confier la gestion du fonds paritaire de sécurisation des parcours professionnels (FPSPP) aux conseils régionaux. En effet, il convient de rappeler que le FPSPP, a été créé par un accord conclu entre les organisations représentatives d'employeurs et de salariés au niveau national et interprofessionnel. Les ressources du FPSPP proviennent pour la majeure partie des sommes correspondant à un pourcentage de la participation dont doivent s'acquitter tous les employeurs au titre de la formation professionnelle continue. Ce pourcentage fixé annuellement sur proposition des organisations représentatives d'employeurs et de salariés est compris entre 5 et 13 %. Ces ressources permettent de contribuer au financement d'actions de formation professionnelle concourant à la qualification et à la requalification des salariés et des demandeurs d'emploi, au bénéfice de publics dont les caractéristiques sont déterminées par la convention-cadre signée entre l'Etat et le FPSPP. Si une association plus forte des conseils régionaux, qui pourront passer des conventions avec les partenaires sociaux et l'Etat relatives à l'utilisation de certains financements pour la sécurisation des parcours, est en cours de calage, il n'est pas prévu de confier la gestion du fonds aux conseils régionaux. La vocation paritaire du fonds reste pleinement légitime même si des évolutions de la gouvernance pourraient être envisagées par les partenaires sociaux lors de la négociation interprofessionnelle en cours sur la réforme de la formation professionnelle.
