@@ -1,0 +1,9 @@
+# Réponse à la question n° 12690
+
+- Question : [12690](12690.md) — Question n° 12690 — autorisations de mise sur le marché; baclophène
+
+## Réponse
+
+*JO du 2013-08-27*
+
+Le bacloféne est utilisé dans la prise en charge de l'alcoolo-dépendance, situation non conforme à son autorisation de mise sur le marché (AMM). Dans cette indication, l'efficacité et la sécurité du baclofène n'ont pas été clairement démontrées à ce jour même si certaines données mettent en évidence des bénéfices cliniques chez certains patients. Les données de pharmacovigilance concernant cette utilisation sont également limitées. C'est pourquoi la démonstration du rapport des bénéfices et des risques de cette utilisation hors AMM doit être renforcée. Dans ce contexte, l'Agence Nationale de Sécurité du Médicament et des produits de santé (ANSM) a autorisé en 2012 le lancement de deux essais cliniques comparatifs versus placebo, l'un en milieu ambulatoire (étude « Bacloville ») et le deuxième en milieu hospitalier (étude « Alpadir »). Ces deux essais devraient apporter des éléments en termes de sécurité d'emploi et d'efficacité du bacloféne dans le traitement de l'alcool-dépendance et participer à l'identification objective des risques et des bénéfices de baclofène. En parallèle de ces essais cliniques, l'ANSM évalue une demande de recommandation temporaire d'utilisation (RTU). Ce dispositif permet, en l'absence d'alternative thérapeutique médicamenteuse appropriée et lorsque le rapport bénéfices/risques est présumé favorable, l'utilisation d'une spécialité pharmaceutique dans des indications non prévues par son AMM. L'ANSM rappelle, en outre, que le traitement de l'alcoolo-dépendance par baclofène ne peut être envisagé qu'au cas par cas, prescrit et surveillé par des praticiens expérimentés dans cette prise en charge, avec une adaptation posologique individuelle et une surveillance rapprochée de la réponse thérapeutique et de la survenue des effets indésirables.
