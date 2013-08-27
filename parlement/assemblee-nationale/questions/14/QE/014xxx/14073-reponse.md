@@ -1,0 +1,9 @@
+# Réponse à la question n° 14073
+
+- Question : [14073](14073.md) — Question n° 14073 — réglementation; calendrier
+
+## Réponse
+
+*JO du 2013-08-27*
+
+Depuis le 1er janvier 2010, l'exercice de la tutelle des caisses locales de sécurité sociale était séparé entre la Mission nationale de contrôle et d'audit des organismes de sécurité sociale (MNC), service à compétence nationale rattaché au directeur de la sécurité sociale compétent pour le régime général et le régime des indépendants, et la mission d'audit, d'évaluation et de contrôle des organismes de protection sociale agricole (MAECOPSA), service rattaché au ministère de l'agriculture compétent pour les organismes de la mutualité sociale agricole. Ces deux services remplissaient des missions de contrôle de légalité, d'audit, d'évaluation et de veille sur les actes et les agents de direction des organismes. La MNC compte une centaine d'agents et la MAECOPSA en comptait douze. Compte tenu de la proximité des missions remplies par ces deux services, leur fusion a été décidée dans l'objectif de faire converger le contrôle exercé sur les différents régimes de sécurité sociale. C'est l'objet du décret n° 2012-1362 du 6 décembre 2012 relatif au contrôle des organismes locaux de sécurité sociale. La MNC exerce dorénavant la tutelle, conjointement avec les services du ministère de l'agriculture, sur les organismes de protection sociale agricole. Elle est notamment compétente pour approuver les statuts et règlements intérieurs de ces organismes, contrôler les décisions de leurs conseils d'administration et certaines décisions de leurs directeurs et agréer les agents de direction de ces organismes. Ce texte prévoit, en outre, la suppression de la transmission à la MNC, par les greffes des tribunaux et cours d'appel, des jugements et arrêts dans le domaine de la sécurité sociale. La fusion des deux services a pris effet au 1er janvier 2013.
