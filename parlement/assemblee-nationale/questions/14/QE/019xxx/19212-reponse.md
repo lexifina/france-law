@@ -1,0 +1,9 @@
+# Réponse à la question n° 19212
+
+- Question : [19212](19212.md) — Question n° 19212 — aménagement; entretien
+
+## Réponse
+
+*JO du 2013-08-27*
+
+L'État attache une grande importance à l'aménagement du réseau routier national qui constitue un levier d'action majeur en faveur de la réduction de la fracture territoriale dont souffrent tout particulièrement certains de nos départements. Il contribue ainsi grandement au soutien à la compétitivité économique du pays. Cet aménagement du réseau s'inscrit aujourd'hui dans le cadre des programmes de modernisation des itinéraires routiers (PDMI) déclinés dans chaque région. En région Languedoc-Roussillon, l'effort de l'État en faveur des axes lozériens s'est traduit par l'inscription au PDMI actuel de 31,8 M€ (RN 88, RN 106 et A75) dont 18,35 M€ apportés directement par l'État. S'agissant du budget 2013 alloué à ces axes en Lozère au titre de l'aménagement, une enveloppe d'1,2 M€ a été retenue afin de poursuivre les études de la RN 88. Ces études concernent plus particulièrement la rocade ouest de Mende, ainsi que la déviation des communes de Langogne et Pradelles et le projet de contournement est de Mende dont les réalisations pourraient être envisagées dans une toute prochaine contractualisation. Le budget prévisionnel alloué à l'entretien (chaussées et ouvrages d'art) du réseau routier national non concédé pour l'année 2013 s'élève à 247,5 M€. Pour le département de la Lozère, sont programmés 4,3 M€ de travaux pour l'entretien des chaussées : - 0,7 M€ pour des travaux d'entretien préventif sur la RN 106, - 1,6 M€ pour des travaux d'entretien préventif sur la RN 88, - 2,0 M€ pour des travaux de réhabilitation des chaussées de la RN 88 et 0,6 M€ de travaux pour l'entretien des ouvrages d'art : - 0,4 M€ sur la RN 106, - 0,2 M€ pour des travaux d'entretien spécialisé sur divers ouvrages dans le département.
