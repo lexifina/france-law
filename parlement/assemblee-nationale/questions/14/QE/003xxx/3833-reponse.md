@@ -1,0 +1,9 @@
+# Réponse à la question n° 3833
+
+- Question : [3833](3833.md) — Question n° 3833 — stimulations cognitives; perspectives
+
+## Réponse
+
+*JO du 2013-08-27*
+
+La démence sémantique ou aphasie progressive est une maladie rare, individualisée en 1989 (Snowden et al. (1989 et 1992)), ayant une prévalence de 98/100 000 chez les patients de moins de 65 ans. C'est une affection dégénérative qui se traduit cliniquement par une atteinte prédominante de la mémoire sémantique et des troubles comportementaux au second plan. Les symptômes les plus communs s'inscrivent dans le domaine verbal. A ce jour et ce, malgré un financement important de la recherche dans ce domaine (en particulier grâce au plan Alzheimer et maladies apparentées), il n'existe pas de consensus sur l'organisation du système sémantique ni sur la prise en charge cognitive des patients déments sémantiques. Ainsi, il n'y a pas eu d'étude suffisamment conséquente pour apporter la preuve de l'efficacité à long terme de ce type de prise en charge, notamment sur la progression de la maladie, ni sur la supériorité d'une prise en charge sur une autre. La prise en charge est réalisée en ville et à l'hôpital par les professionnels formés aux techniques de réhabilitation (neuropsychologues, orthophonistes...). La stimulation cognitive réalisée en ville par les orthophonistes est intégralement remboursée par la sécurité sociale ; à l'hôpital, ces prises en charge spécifiques sont intégrées au financement forfaitaire des consultations mémoire et exonèrent le patient de toute participation financière. Des programmes de recherche sont en cours et des études exploratoires devraient permettre d'évaluer les diverses pistes rééducatives qui s'offrent au thérapeute, tout en tenant compte de l'hétérogénéité décrite dans les pathologies dégénératives et de l'évolution des troubles au cours de la prise en charge.
