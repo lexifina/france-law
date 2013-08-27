@@ -1,0 +1,9 @@
+# Réponse à la question n° 10050
+
+- Question : [10050](10050.md) — Question n° 10050 — registre départemental; mise en place; perspectives
+
+## Réponse
+
+*JO du 2013-08-27*
+
+Le système de surveillance des cancers en France est basé sur les registres. Les registres sont définis comme un recueil continu et exhaustif de données nominatives intéressant un ou plusieurs événements de santé dans une population géographiquement définie, à des fins de recherche et de santé publique, par une équipe ayant les compétences appropriées. Le budget de fonctionnement des registres est assuré par l'institut national de la santé et de la recherche médicale, l'institut de veille sanitaire (INVS) en lien avec l'institut national du cancer (INCA) depuis 2008. A la suite du premier plan cancer gouvernemental 2003-2007, et étant donné le taux élevé de mortalité par cancer dans la région Nord-Pas de Calais, un registre général des cancers a été mis en place sur le territoire sanitaire de la zone de proximité de Lille (ZPL). Ce registre couvre une population d'environ 800 000 habitants et est le 6e registre général français de par la taille de la population couverte. Depuis le 1er janvier 2009, le registre des cancers de Lille est rattaché au groupement de coopération sanitaire dans le domaine de la cancérologie, du centre de référence régional en cancérologie (GCS - C2RC) qui unit le centre hospitalier régional universitaire de Lille et le centre de lutte contre le cancer, Oscar Lambret. En complémentarité et en articulation étroite avec le dispositif constitué par les registres, l'INVS développe un système multisources de surveillance des cancers (SMSC) qui a vocation, à terme, à couvrir l'ensemble du territoire, à produire des données d'incidence par département et à permettre le suivi de l'incidence temporo spatiale et à contribuer ainsi aux alertes en particulier environnementales.
