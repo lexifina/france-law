@@ -1,0 +1,9 @@
+# Réponse à la question n° 6337
+
+- Question : [6337](6337.md) — Question n° 6337 — accès
+
+## Réponse
+
+*JO du 2013-08-27*
+
+La prise en charge à 100 % par la sécurité sociale des interruptions volontaires de grossesse (IVG) pour toutes les femmes ainsi que la revalorisation des forfaits d'IVG réalisées par méthode instrumentale sont deux mesures décidées par la ministre des affaires sociales et de la santé et votées sur sa proposition par le Parlement en fin d'année 2012. Entrées en vigueur en 2013, elles visent à améliorer l'accès des femmes à l'interruption volontaire de grossesse, dans le cadre plus large de la promotion de la santé des femmes. En effet, non seulement le reste à charge ne sera plus une limitation pour l'accès à l'IVG, mais la meilleure rémunération des actes d'IVG réalisés par les établissements de santé doit mettre un terme à toute vélléité de réduction de l'offre de soins au prétexte de son niveau de financement. Il est par ailleurs rappelé qu'aux termes de l'article R. 2212-4 du code de la santé publique, l'organisation de la prise en charge des IVG est une obligation pour les établissements publics autorisés en gynécologie-obstétrique ou en chirurgie. Enfin, dans le cadre des projets régionaux de santé (PRS) le guide méthodologique d'élaboration des schémas régionaux d'organisation des soins des projets régionaux de santé (SROS), donne plusieurs orientations nationales fortes en matière d'IVG, dont celles de « maintenir systématiquement l'IVG dans l'offre de soins de gynécologie-obstétrique et/ou de chirurgie notamment dans le cadre des restructurations » et d'« organiser l'offre de soins de manière à assurer les IVG entre 12 et 14 semaines au niveau des territoires de santé ». Les agences régionales de santé (ARS) ont très largement repris ces orientations nationales dans leur PRS et sont attentives au maintien de l'offre de soins en matière d'IVG.
