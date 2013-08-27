@@ -1,0 +1,9 @@
+# Réponse à la question n° 21475
+
+- Question : [21475](21475.md) — Question n° 21475 — protection et guidage; reconnaissance de la profession
+
+## Réponse
+
+*JO du 2013-08-27*
+
+Le décret du 28 mars 2011 externalise l'accompagnement des transports exceptionnels, déchargeant ainsi les forces de l'ordre de leur mission d'escorte de ces convois. Une formation initiale est obligatoire pour les guideurs non issus d'anciens corps actifs de la police et de la gendarmerie nationale. Concernant les compétences conférées aux guideurs, ils mettent en oeuvre les mesures de circulation indiquées dans l'arrêté préfectoral autorisant le transport exceptionnel. Une contravention de quatrième classe peut être délivrée à tout usager de la route ne respectant pas les indications des conducteurs de véhicule de guidage. L'intervention des forces de l'ordre peut cependant être requise lorsque l'itinéraire du transport exceptionnel prévoit le franchissement de points nécessitant la transgression d'une ou plusieurs dispositions du code de la route. L'arrêté interministériel modifié du 4 mai 2006 relatif aux transports exceptionnels de marchandises, d'engins ou de véhicules et ensembles de véhicules comportant plus d'une remorque prévoit une signalisation et un équipement des véhicules qui les rendent reconnaissables par les autres usagers de la route sans pour autant que les guideurs bénéficient de pouvoir de police. Par ailleurs, compte-tenu de leur caractère privé, il n'est pas envisageable de conférer aux convois de transport exceptionnel des facilités de passage comme celles dont jouissent les véhicules d'intérêt général prioritaires. Toutefois, la possibilité d'habiliter les guideurs à réguler ponctuellement la circulation dans des conditions strictement définies par le code de la route est actuellement étudiée par les services du ministère de l'intérieur.
