@@ -1,0 +1,9 @@
+# Réponse à la question n° 32863
+
+- Question : [32863](32863.md) — Question n° 32863 — tatouages; normes; réglementation
+
+## Réponse
+
+*JO du 2013-08-27*
+
+La pratique du tatouage connaît une popularité croissante ; elle expose pourtant le public à un risque infectieux car elle implique une effraction cutanée (perforation de l'épiderme) qui constitue une porte d'entrée pour les agents infectieux lors de la réalisation du geste ou lors de la cicatrisation qui s'ensuit. En réponse à cette question préoccupante, des textes ont été publiés pour encadrer cette pratique ; leur contenu vise également à organiser un régime de déclaration des activités de tatouage auprès des agences régionales de santé (ARS). Ainsi, le décret n° 2008-149 du 19 février 2008 et ses arrêtés d'application réglementent la mise en oeuvre des techniques de tatouage, de maquillage permanent et de perçage en exigeant des professionnels qu'ils soient formés, utilisent des matériaux conformes et respectent les règles générales d'hygiène et de salubrité, ceci en vue de réduire le risque de contamination. L'article R. 1311-12 du code de la santé publique, issu de ce décret, prévoit notamment que les professionnels « informent leurs clients, avant qu'ils se soumettent à ces techniques, des risques auxquels ils s'exposent et, après la réalisation de ces techniques, des précautions à respecter ». Les professionnels exerçant de manière exceptionnelle dans des manifestations et des rassemblements, sont soumis à une obligation de formation en matière d'hygiène et de salubrité, adaptée à la mise en oeuvre des techniques de tatouage dans ce cadre. Cette formation est dispensée par un organisme habilité. De plus, l'article R. 1311-3 du code de la santé publique dispose que « l'organisateur de la manifestation recourt à tout moyen nécessaire à la bonne compréhension linguistique de la formation par les personnes non francophones ».
