@@ -1,0 +1,9 @@
+# Réponse à la question n° 6877
+
+- Question : [6877](6877.md) — Question n° 6877 — perspectives
+
+## Réponse
+
+*JO du 2013-08-27*
+
+Partant du principe que les animaux ne peuvent être assimilés aux personnes, le code civil les considère comme des biens meubles par nature (article 528) ou des immeubles par destination quand ils ont été placés par le propriétaire d'un fonds pour le service et l'exploitation de celui-ci (article 524). En revanche, l'article L. 214-1 du code rural et de la pêche maritime, consacrant une vision moins utilitaire de l'animal, définit celui-ci comme un être sensible devant être placé par son propriétaire dans des conditions compatibles avec les impératifs biologiques de son espèce. Afin de mieux concilier la qualification juridique de l'animal et sa valeur affective, des reflexions ont été menées, et ce notamment dans le cadre d'un avant projet de réforme du livre II du code civil relatif aux biens, élaboré sous la direction du Professeur Périnet-Marquet, qui suggérait ainsi de mettre l'accent sur les lois spéciales qui protègent les animaux en précisant que sous réserve de ces règles protectrices, les animaux sont soumis au régime juridique des choses corporelles. Une option assez proche a été adoptée par le code civil allemand (le BGB) dont l'article 90 précise que « Les animaux ne sont pas des choses. Des lois spéciales les protègent. Il y a lieu de leur appliquer par analogie les règles régissant les choses, sauf dispositions contraires. ». La réflexion doit donc se poursuivre afin de parvenir à un dispositif qui, sans remettre en cause les grandes catégories existantes de biens (qui sont meubles ou immeubles), permette de mieux prendre en compte la spécificité de l'animal. En tout état de cause, une nouvelle définition du régime juridique de l'animal au sein du code civil supposerait une refonte générale du droit des biens.
