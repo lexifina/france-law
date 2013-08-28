@@ -20,11 +20,33 @@ relatif au statut particulier des professeurs des écoles
 
 |
 
-Professeur des écoles hors classe
+Professeur des écoles hors classe :
 
 |
 
-2,00
+|
+
+Pour l'année 2013
+
+|
+
+3,00
+
+|
+
+Pour l'année 2014
+
+|
+
+4,00
+
+|
+
+Pour l'année 2015
+
+|
+
+4,50
 
 |
 
@@ -130,11 +152,11 @@ Professeur d'enseignement général de collège classe exceptionnelle
 
 |
 
-42,00
+50,00
 
 |
 
-Corps des chargés d'enseignement d'éducation physique et sportive (en voie d'extinction)
+Corps des chargés d'enseignement de l'éducation physique et sportive (en voie d'extinction)
 
 Régi par le décret n° 60-403 du 22 avril 1960 modifié relatif aux dispositions statutaires
 
@@ -144,7 +166,7 @@ applicables aux chargés d'enseignement de l'éducation physique et sportive
 
 |
 
-Chargé d'enseignement physique et sportive hors classe
+Chargé d'enseignement de l'éducation physique et sportive hors classe
 
 |
 
@@ -152,11 +174,11 @@ Chargé d'enseignement physique et sportive hors classe
 
 |
 
-Chargé d'enseignement physique et sportive classe exceptionnelle
+Chargé d'enseignement de l'éducation physique et sportive classe exceptionnelle
 
 |
 
-42,00
+50,00
 
 |
 
@@ -174,7 +196,7 @@ Conseiller principal d'éducation hors classe
 
 |
 
-5,00
+7,00
 
 |
 
