@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700757
+
+- Question : [SEQ120700757](seq120700757.md) — Dépassements d'honoraires
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-08-29, page 2481*
+
+Le Gouvernement est très attentif au renforcement de l'accès aux soins, la lutte contre les dépassements abusifs participant de la politique qu'il a mise en œuvre pour renforcer l'accessibilité financière des soins de premier niveau dans notre pays. Sous son impulsion, les partenaires conventionnels ont signé le 25 octobre 2012 un avenant à la convention médicale de juillet 2011 consacré aux dépassements d'honoraires. Cet accord ouvre la voie à la modération des dépassements abusifs et élargit le champ des bénéficiaires des tarifs opposables, les patients recevant l'aide à l'acquisition d'une complémentaire santé (ACS) ne pouvant plus se voir facturer de dépassements. Les médecins ont désormais la possibilité de conclure un contrat d'accès aux soins, par lequel ils s'engagent à modérer le montant des dépassements d'honoraires, en contrepartie d'un meilleur remboursement de leurs patients par l'assurance maladie obligatoire. De leur côté, les complémentaires santé se sont également engagées à réduire le reste à charge des assurés en prenant mieux en charge les dépassements ainsi encadrés. La montée en charge du contrat d'accès aux soins, sous la conduite de la caisse nationale de l'assurance maladie des travailleurs salariés, se poursuit conformément aux engagements conventionnels. Enfin, on rappellera que, conformément aux engagements pris par le Gouvernement dans le cadre du plan de lutte contre la pauvreté et pour l'inclusion sociale, les plafonds de la CMU-c et l'ACS ont été revalorisés de 7 % au-dessus de l'inflation au 1er juillet 2013, élargissant ainsi dans des proportions importantes le champ des personnes concernées par ces dispositifs.
