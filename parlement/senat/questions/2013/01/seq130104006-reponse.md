@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130104006
+
+- Question : [SEQ130104006](seq130104006.md) — Infirmiers spécialisés pour le bloc opératoire
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-08-29, page 2488*
+
+Toutes les professions paramédicales sont actuellement engagées dans une démarche de « réingénierie » de leur formation dans la perspective d'une reconnaissance de leur cursus à un grade universitaire et de leur intégration dans le schéma Licence-Master-Doctorat (LMD). L'exercice de la profession d'infirmier au sein des blocs opératoires est réalisé en priorité par les infirmiers titulaires du diplôme d'État d'infirmier de bloc opératoire (IBODE) en référence à l'article R. 4311-11 du code de la santé publique. À ce jour, le diplôme d'IBODE ne conduit pas à un exercice exclusif. Ce diplôme, dans le cadre de la mise en œuvre du dispositif LMD, fait l'objet de réflexions et travaux menés par la direction générale de l'offre de soins en collaboration avec les professionnels représentant les infirmiers de bloc opératoire et les chirurgiens. L'ensemble de ces travaux se poursuit dans la perspective de valoriser le métier d'infirmier de bloc opératoire tout en prenant en compte l'évolution des compétences spécifiques à cet exercice, les contraintes organisationnelles des blocs opératoires et la gestion des risques liés aux soins. Cette réflexion se poursuit, afin de répondre aux attentes des IBODE, en ce qui concerne la suppression de deux années d'expérience en qualité d'infirmier avant de prétendre à la formation IBODE et donc permettre aux IDE de suivre la formation IBODE dès l'obtention du diplôme d'État d'infirmier ; l'accès du diplôme d'IBODE par voie de la validation des acquis de l'expérience et ainsi reconnaitre l'expérience acquise par les infirmiers exerçant au bloc opératoire ; l'identification de pratiques avancées ou la création d'un métier intermédiaire d'assistant opératoire accessible aux IBODE.
