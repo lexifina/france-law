@@ -4,37 +4,23 @@ PAYS
 
 |
 
-ISVL G1
+ISVL G1 |
 
-|
+ISVL G2 |
 
-ISVL G2
+ISVL G3 |
 
-|
+ISVL G4 |
 
-ISVL G3
+ISVL G5 |
 
-|
-
-ISVL G4
-
-|
-
-ISVL G5
-
-|
-
-ISVL G6
-
-|
+ISVL G6 |
 
 ISVL G7
 
 |
 
-ISVL G8
-
-|
+ISVL G8 |
 
 AFRIQUE DU SUD (autres villes)
 
@@ -2805,6 +2791,42 @@ HONGRIE
 |
 
 4 567
+
+|
+
+INDE (Bombay)
+
+|
+
+9 800
+
+|
+
+8 251
+
+|
+
+7 425
+
+|
+
+6 807
+
+|
+
+6 530
+
+|
+
+5 439
+
+|
+
+5 007
+
+|
+
+4 678
 
 |
 
