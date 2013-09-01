@@ -1,6 +1,6 @@
 # Article Annexe Tableau IV
 
-SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE, DES CHAMBRES DÉTACHÉES DES TRIBUNAUX DE GRANDE INSTANCE, DES SECTIONS DÉTACHÉES DES TRIBUNAUX DE PREMIÈRE INSTANCE, DES TRIBUNAUX D'INSTANCE ET DES JURIDICTIONS DE PROXIMITÉ (ANNEXE DES ARTICLES D. 211-1, D. 221-1, D. 231-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17, D. 562-1 ET D. 562-26)
+SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TRIBUNAUX DE GRANDE INSTANCE ET DE PREMIÈRE INSTANCE, DES CHAMBRES DÉTACHÉES DES TRIBUNAUX DE GRANDE INSTANCE, DES SECTIONS DÉTACHÉES DES TRIBUNAUX DE PREMIÈRE INSTANCE, DES TRIBUNAUX D'INSTANCE ET DES JURIDICTIONS DE PROXIMITÉ (ANNEXE DES ARTICLES D. 211-1, D. 212-19, D. 221-1, D. 231-1, D. 311-1, D. 522-1, D. 522-10, D. 522-22, D. 532-2, D. 552-1, D. 552-17, D. 562-1 ET D. 562-26)
 
 Siège
 
@@ -1402,7 +1402,7 @@ Bourges
 
 |
 
-Cantons de Baugy, Bourges 1er canton, Bourges 2e canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Les Aix d'Angillon, Levet, Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (11)]
+Cantons de Baugy, Bourges 1er canton, Bourges 2° canton, Bourges 3e canton, Bourges 4e canton, Bourges 5e canton, Chârost, Les Aix d'Angillon, Levet, Mehun-sur-Yèvre, Saint-Doulchard et Saint-Martin-d'Auxigny. (11)]
 
 |
 
@@ -1570,7 +1570,7 @@ Cantons de Balleroy, Bayeux, Bourguébus, Bretteville-sur-Laize, Cabourg, Caen 1
 
 |
 
-Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9e canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)]
+Cantons de Bourguébus, Cabourg, Caen 1er canton, Caen 2e canton, Caen 3e canton, Caen 4e canton, Caen 7e canton, Caen 8e canton, Caen 9° canton, Caen 10e canton, Caen-Hérouville Caen 6e canton, Creully, Douvres-la-Délivrande, Évrecy, Hérouville-Saint-Clair Caen 5e canton, Ouistreham, Tilly-sur-Seulles, Troarn et Villers-Bocage. (11)]
 
 |
 
@@ -1786,6 +1786,10 @@ Cour d'appel de Cayenne
 
 |
 
+Guyane
+
+|
+
 Cayenne
 
 |
@@ -1800,11 +1804,25 @@ Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest,
 
 Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne
 
-6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula,
+6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana,
 
-Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura,
+Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly,
 
-Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.
+Roura, Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et
+
+Sinnamary.
+
+|
+
+Dont une chambre détachée à Saint-Laurent-du-Maroni
+
+|
+
+|
+
+Ressort de la chambre détachée à Saint-Laurent-du-Maroni :
+
+Mana, Maripasoula, Saint-Laurent-du-Maroni
 
 |
 
@@ -2256,11 +2274,9 @@ Cantons de Beaurepaire-en-Bresse, Buxy, Chagny, Chalon-sur-Saône Centre, Chalon
 
 |
 
-[Le Creusot
+[Le CreusotCantons |
 
-|
-
-Cantons d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est, Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres, Montcenis, Montceau-les-Mines-Nord, Montceau-les-Mines-Sud, Montchanin, Mont-Saint-Vincent et Saint-Léger-sous-Beuvray. (4)]
+d'Autun-Nord, Autun-Sud, Couches, Épinac, Issy-l'Évêque, Le Creusot-Est, Le Creusot-Ouest, Lucenay-l'Évêque, Mesvres, Montcenis, Montceau-les-Mines-Nord, Montceau-les-Mines-Sud, Montchanin, Mont-Saint-Vincent et Saint-Léger-sous-Beuvray. (4)]
 
 |
 
@@ -2951,10 +2967,6 @@ Cour d'appel de Lyon
 |
 
 Ain
-
-|
-
-|
 
 |
 
@@ -3982,7 +3994,7 @@ Cantons de Lamotte-Beuvron, Mennetou-sur-Cher, Neung-sur-Beuvron, Romorantin-Lan
 
 |
 
-Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t canton et Vendôme 2e canton. (3)]
+Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)]
 
 |
 
@@ -6136,9 +6148,7 @@ Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e
 
 canton, Montauban 3ème canton, Montauban 4e canton,
 
-Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy,
-
-Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
+Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier.
 
 |
 
@@ -6493,8 +6503,6 @@ Nuku-Hiva
 Îles Marquises.
 
 |
-
-..
 
 Siège du tribunal de première instance
 
