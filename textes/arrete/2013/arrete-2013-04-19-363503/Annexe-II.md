@@ -1,14 +1,14 @@
 # Article Annexe II
 
-ÉPREUVES DU CONCOURS INTERNE DU CAPES
+ÉPREUVES DU CONCOURS INTERNE
 
 Section arts plastiques
 
-A. - Epreuve d'admissibilitéf
+A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Epreuve professionnelle. Cette épreuve traite d'une situation d'enseignement. Elle comporte un exposé du candidat suivi d'un entretien avec le jury.
 
@@ -42,11 +42,11 @@ A partir d'un dossier thématique de trois à cinq documents concernant les fina
 
 - la référence bibliographique, en suivant le format préétabli donné par le sujet et en respectant les normes en vigueur ;
 
-- des éléments d'analyse (résumé indicatif, mots clés).
+- des éléments d'analyse (résumé indicatif, mots-clés).
 
 Durée de l'épreuve : cinq heures ; coefficient 1.
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Epreuve professionnelle : cette épreuve comporte un exposé suivi d'un entretien avec les membres du jury. Elle prend appui sur un dossier élaboré par le candidat. L'exposé porte sur un sujet proposé par le jury à partir du dossier.
 
@@ -68,7 +68,7 @@ Le sujet élaboré par le jury invite le candidat à une réflexion sur son exp�
 
 L'entretien porte dans un premier temps sur le sujet qui a donné lieu à l'exposé. Il s'élargit ensuite aux différents domaines de l'activité professionnelle du professeur documentaliste.
 
-L'exposé et l'entretien doivent permettre au jury d'apprécier les connaissances et savoir-faire du candidat dans la fonction sollicitée, sa culture professionnelle et générale, la qualité de sa réflexion, ses capacités d'argumentation, ainsi que son aptitude à l'écoute et à la communication.
+L'exposé et l'entretien doivent permettre au jury d'apprécier les connaissances et le savoir-faire du candidat dans la fonction sollicitée, sa culture professionnelle et générale, la qualité de sa réflexion, ses capacités d'argumentation ainsi que son aptitude à l'écoute et à la communication.
 
 Durée de la préparation : une heure ; durée de l'épreuve : une heure maximum (exposé : quinze minutes maximum ; entretien : quarante-cinq minutes maximum) ; coefficient 2.
 
@@ -88,11 +88,11 @@ Le candidat est autorisé à prendre des notes pendant l'audition.
 
 Durée totale de l'épreuve : quatre heures ; coefficient 1.
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Epreuve professionnelle : analyse d'une situation d'enseignement. Cette épreuve comporte un exposé suivi d'un entretien avec les membres du jury.
 
-L'épreuve prend appui sur un dossier élaboré par le candidat comportant trois séquences d'enseignement réalisées ou observées dans une ou plusieurs classes (collège ou lycée). Le jury choisit d'interroger le candidat sur une ou plusieurs séquences comprenant nécessairement chant et accompagnement.
+L'épreuve prend appui sur un dossier élaboré par le candidat, comportant trois séquences d'enseignement réalisées ou observées dans une ou plusieurs classes (collège ou lycée). Le jury choisit d'interroger le candidat sur une ou plusieurs séquences comprenant nécessairement chant et accompagnement.
 
 Le dossier dactylographié comprend notamment des préparations de leçons, des textes musicaux, des documents sonores. Il comporte une note de synthèse pour chacune des séquences.
 
@@ -104,9 +104,9 @@ Section histoire et géographie
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1), portant au choix du candidat au moment de l'inscription soit sur l'histoire, soit sur la géographie.
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1) portant, au choix du candidat au moment de l'inscription, soit sur l'histoire, soit sur la géographie.
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Epreuve professionnelle : analyse d'une situation d'enseignement. Cette épreuve comporte un exposé suivi d'un entretien avec les membres du jury. L'épreuve se déroule dans la discipline, histoire ou géographie, non choisie par le candidat pour l'épreuve d'admissibilité.
 
@@ -124,9 +124,9 @@ Section langue corse
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Epreuve professionnelle : cette épreuve traite d'une situation d'enseignement. Elle comporte un exposé du candidat en langue corse suivi d'un entretien en français avec le jury. Elle prend appui sur un dossier proposé par le jury qui tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de son inscription au concours.
 
@@ -144,9 +144,9 @@ Section langues régionales :
 
 basque, breton, catalan, créole, occitan-langue d'oc
 
-A. - Epreuves d'admissibilité
+A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
 B. - Epreuve d'admission
 
@@ -156,21 +156,13 @@ Durée de la préparation : deux heures ; durée de l'épreuve : une heure maxim
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury. Cet échange se déroule en langue régionale.
 
-Option français : à partir d'un ou de plusieurs textes postérieurs à 1500 d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes. Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation. L'exposé est suivi d'un entretien avec les membres du jury.
-
-Option anglais et option espagnol : à partir d'un dossier fourni au candidat dans la langue choisie, exposé de la préparation d'un cours comportant des exercices écrits et oraux suivi d'un entretien avec les membres du jury.
-
-Option histoire et géographie : commentaire, analyse scientifique et utilisation pédagogique de documents fournis au candidat, suivis d'un entretien avec les membres du jury.
-
-Option mathématiques : exposé d'une séquence d'enseignement sur un thème donné suivi d'un entretien avec le jury sur les questions soulevées par l'exposé du candidat.
-
-Section langues des signes française
+Section langue des signes française
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Epreuve professionnelle consistant en la présentation d'une leçon portant sur les programmes des classes des collèges et des lycées.
 
@@ -180,7 +172,7 @@ L'épreuve comporte deux parties :
 
 - une première partie en langue des signes française, consistant en la présentation, l'étude et la mise en relation des documents, suivie d'un entretien en langue des signes française ;
 
-- une seconde partie en langue des signes française ou en français, consistant en la proposition de pistes d'exploitation didactiques et pédagogiques de ces documents, en fonction des compétences linguistiques (lexicales, grammaticales) qu'ils mobilisent et des activités langagières qu'ils permettent de mettre en pratique, suivi d'un entretien en langue des signes française ou en français au cours duquel le candidat est amené à justifier ses choix.
+- une seconde partie en langue des signes française ou en français, consistant en la proposition de pistes d'exploitation didactiques et pédagogiques de ces documents, en fonction des compétences linguistiques (lexicales, grammaticales) qu'ils mobilisent et des activités langagières qu'ils permettent de mettre en pratique, suivie d'un entretien en langue des signes française ou en français au cours duquel le candidat est amené à justifier ses choix.
 
 Chaque partie compte pour moitié dans la notation.
 
@@ -192,9 +184,9 @@ Section langues vivantes étrangères
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Epreuve professionnelle en deux parties :
 
@@ -210,59 +202,55 @@ Chacune des parties entre pour moitié dans la notation.
 
 Dix minutes maximum imputables sur la durée totale des entretiens pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury. Cet échange se déroule en langue étrangère.
 
-Section lettres classiques
+Section lettres
+
+Les candidats ont le choix au moment de l'inscription entre deux options :
+
+option lettres classiques ;
+
+option lettres modernes.
+
+Les candidats proposés pour l'admissibilité et pour l'admission par le jury du concours font l'objet de classements distincts selon l'option.
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1), portant au choix du candidat au moment de l'inscription soit sur le français, soit sur une langue ancienne (latin ou grec).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
-B. - Epreuves d'admission
+Pour les candidats ayant choisi l'option lettres classiques, le dossier de RAEP porte, au choix du candidat au moment de l'inscription, soit sur le français, soit sur une langue ancienne (latin ou grec).
+
+B. - Epreuve d'admission
 
 Epreuve professionnelle.
 
-Durée de la préparation : deux heures ; durée totale de l'épreuve : une heure et vingt-cinq minutes maximum.
+Durée de la préparation : deux heures et trente minutes.
+
+Durée totale de l'épreuve : une heure et vingt minutes maximum (durée de l'exposé : quarante minutes maximum ; durée de l'entretien : quarante minutes maximum).
+
+Coefficient 2.
 
 L'épreuve comporte :
 
-1. Une analyse d'une situation d'enseignement. Cette épreuve comporte un exposé suivi d'un entretien avec les membres du jury. Elle prend appui sur un dossier proposé par le jury qui tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours. Le dossier porte sur le français si le dossier de RAEP porte sur une langue ancienne ; il porte sur une langue ancienne si le dossier de RAEP porte sur le français.
+1. Une analyse d'une situation d'enseignement.
 
-Le candidat doit analyser les documents constituant le dossier proposé. Dans son exposé, il précise l'utilisation qu'il ferait de ces documents dans la classe ou dans les classes indiquées dans le dossier. Il définit ses objectifs, expose les modalités et la progression de sa démarche, propose des exercices, explique les résultats attendus.
+Le jury propose au candidat un dossier de nature professionnelle et précise le niveau d'enseignement (collège ou lycée) auquel la situation d'enseignement doit être abordée.
 
-L'entretien a pour base la situation d'enseignement proposée et est étendu à certains aspects de l'expérience professionnelle du candidat. Il inclut un temps d'interrogation relatif à la maîtrise de la langue française, comportant une question d'identification d'une forme ou d'une fonction grammaticale.
+L'épreuve consiste à élaborer, pour un niveau donné et à partir d'un dossier comportant un ou plusieurs textes littéraires éventuellement accompagnés d'un ou de plusieurs documents, un projet de séquence d'enseignement assorti de l'explication d'un texte de langue française choisi par le jury. La méthode d'explication est laissée au choix du candidat. La séquence devra comporter une séance d'étude de la langue.
 
-Exposé : trente minutes maximum ; entretien : quarante-cinq minutes maximum.
+2. L'exposé est suivi d'un entretien qui a pour base la situation d'enseignement proposée et est étendu à certains aspects de l'expérience professionnelle du candidat.
 
-Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+a) Il inclut, pour les candidats de l'option lettres modernes, un temps d'interrogation relatif à la maîtrise de la langue française et comportant une ou plusieurs questions d'analyse grammaticale (durée : dix minutes maximum) ;
 
-2. Une traduction improvisée, sans dictionnaire, d'un court texte de latin ou de grec choisi par le jury parmi les auteurs du programme des classes. Durée : 10 minutes maximum ; coefficient 2.
+b) Il inclut pour les candidats de l'option lettres classiques une traduction improvisée, sans dictionnaire, d'un court texte de latin ou de grec choisi par le jury parmi les auteurs du programme des classes (durée : dix minutes maximum).
 
-Le programme de l'épreuve est celui des lycées d'enseignement général et technologique et des collèges.
-
-Section lettres modernes
-
-A. - Epreuve d'admissibilité
-
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
-
-B. - Epreuves d'admission
-
-Epreuve professionnelle : le jury propose un document de nature professionnelle en rapport avec le niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
-
-L'épreuve consiste en une explication de texte de langue française, assortie d'une question de grammaire référée aux programmes des classes de collège ou de lycée. La méthode d'explication est laissée au choix du candidat. La présentation de la question de grammaire prend la forme d'un court développement organisé en relation avec les programmes.
-
-L'explication de texte assortie de la question de grammaire est suivie d'un entretien avec le jury au cours duquel le candidat est invité à justifier ses analyses et ses choix, et à en préciser la pertinence dans le cadre d'une situation d'enseignement projetée pour sa classe.
-
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 2.
+Pour les deux options, le programme de l'épreuve est celui des lycées d'enseignement général et technologique et des collèges.
 
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
-
-Le programme de l'épreuve est celui des lycées d'enseignement général et technologique et des collèges.
 
 Section mathématiques
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
 B. - Epreuve d'admission
 
@@ -286,9 +274,9 @@ Section philosophie
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Epreuve professionnelle : analyse d'une situation d'enseignement.
 
@@ -302,7 +290,7 @@ Section sciences économiques et sociales
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
 B. - Epreuves d'admission
 
@@ -314,21 +302,21 @@ Lors de l'entretien, dix minutes maximum pourront être réservées à un échan
 
 Le programme de mathématiques, valable pour trois années, est publié sur le site internet du ministère chargé de l'éducation nationale.
 
-Section sciences physiques et chimiques
+Section physique-chimie
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Epreuve professionnelle. Cette épreuve s'appuie sur un thème de physique et sur un thème de chimie, pris chacun dans une liste publiée sur le site internet du ministère chargé de l'éducation nationale et tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
 
 L'épreuve peut faire appel à l'emploi des technologies d'information et de communication pour l'enseignement (TICE). Elle comporte deux parties suivies d'un entretien avec le jury :
 
-Exposé relatif à l'exploitation pédagogique de documents soumis au candidat par le jury ;
+- exposé relatif à l'exploitation pédagogique de documents soumis au candidat par le jury ;
 
-Présentation d'une séquence expérimentale de nature qualitative ou quantitative, soumise au candidat par le jury.
+- présentation d'une séquence expérimentale de nature qualitative ou quantitative, soumise au candidat par le jury.
 
 Si l'exploitation pédagogique des documents concerne la physique, la réalisation de la séquence expérimentale appartient au domaine de la chimie. Si l'exploitation pédagogique des documents concerne la chimie, la réalisation de la séquence expérimentale appartient au domaine de la physique.
 
@@ -342,9 +330,9 @@ Section sciences de la vie et de la Terre
 
 A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Epreuve professionnelle. Cette épreuve comporte un exposé suivi d'un entretien avec le jury. L'exposé s'appuie sur l'exploitation d'un dossier se rapportant à une situation expérimentale et intègre la réalisation pratique que celle-ci comporte. L'entretien a pour base la situation d'enseignement proposée et s'étend à d'autres aspects de l'expérience professionnelle du candidat.
 
@@ -356,11 +344,11 @@ Lors de l'entretien, dix minutes maximum pourront être réservées à un échan
 
 Section tahitien
 
-A. - Epreuves d'admissibilité
+A. - Epreuve d'admissibilité
 
-Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe II bis (coefficient 1).
+Epreuve de reconnaissance des acquis de l'expérience professionnelle définie à l'annexe III (coefficient 1).
 
-B. - Epreuves d'admission
+B. - Epreuve d'admission
 
 Exploitation pédagogique de documents en tahitien (notamment documents audio, textuels, vidéo) soumis au candidat par le jury. L'épreuve se compose d'un exposé en tahitien suivi d'un entretien en tahitien comportant l'explication en français de faits de langue. Elle tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
 
@@ -369,7 +357,3 @@ Durée de la préparation : deux heures ; durée de l'épreuve : une heure maxim
 Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury. Cet entretien a lieu en tahitien.
 
 La graphie à utiliser pour cette section de concours est celle définie par l'arrêté du 20 octobre 1982 faisant suite à une délibération de l'assemblée territoriale de Polynésie française.
-
-NOTA :
-
-Arrêté du 10 janvier 2012 article 3 : Les présentes dispositions prennent effet le 1er juin 2012 pour la session 2013 du concours.
