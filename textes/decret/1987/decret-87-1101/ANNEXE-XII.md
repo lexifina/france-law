@@ -26,7 +26,7 @@ Directeur général des services de communes de 80.000 habitants à 150.000 habi
 
 |
 
-Directeur d'office public d'habitations à loyer modéré de :
+Directeur général d'office public de l'habitat de :
 
 5.000 logements à 10.000 au plus.
 
@@ -38,7 +38,7 @@ Plus 20.000 habitants à 40.000 habitants au plus
 
 |
 
-Directeur d'office public d'habitations à loyer modéré de :
+Directeur général d'office public de l'habitat de :
 
 Plus de 10.000 logements à 15.000 au plus.
 
@@ -50,7 +50,7 @@ Plus de 40.000 habitants à 80.000 habitants au plus
 
 |
 
-Directeur d'office public d'habitations à loyer modéré de :
+Directeur général d'office public de l'habitat de :
 
 Plus de 15.000 logements à 20.000 au plus.
 
@@ -62,7 +62,7 @@ Plus de 80.000 habitants à 150.000 habitants au plus
 
 |
 
-Directeur d'office public d'habitations à loyer modéré de :
+Directeur général d'office public de l'habitat de :
 
 Plus de 20.000 logements.
 
