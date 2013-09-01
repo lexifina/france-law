@@ -1,12 +1,16 @@
 # Article Annexe II
 
-LISTE DES ÉQUIVALENCES ENTRE DES DIPLÔMES OU TITRES ET LES UC DU BP REA MIS EN PLACE PAR LE PRÉSENT ARRÊTÉ
+LISTE DES UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL, OPTION "RESPONSABLE D'EXPLOITATION AGRICOLE"
+
+VALIDÉES AU TITRE DE LA DÉTENTION DE CERTAINS DIPLÔMES
 
 DIPLÔMES
 
 |
 
-UC BP REA
+UNITÉS CAPITALISABLES DU BREVET PROFESSIONNEL
+
+option "responsable d'exploitation agricole"
 
 |
 
@@ -18,43 +22,43 @@ Brevet professionnel agricole.
 
 |
 
-Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité pêche de loisir .
+Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité "pêche de loisir ".
 
 |
 
-UCG 1, 2 UCARE
+UCG 1, UCG 2,2 UCARE
 
 |
 
-Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité activités équestres .
+Brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
 |
 
-UCG 1, UCP 3, UCP 5, UCP 6, UCT 1, 1 UCARE
+UCG1, UCG2, 1 UCARE
 
 |
 
-Brevet professionnel, ministère de l'agriculture.
+Brevet professionnel ministère de l'agriculture.
 
 |
 
-UCG 1, UCG 2, 2 UCARE
+UCG1, UCG2, 2 UCARE
 
 |
 
-Baccalauréat professionnel agricole toutes options-BTA.
+Baccalauréat professionnel délivré par le ministère chargé de l'agriculture et brevet de technicien agricole.
 
 |
 
-UCG 1, UCG 2, 2 UCARE
+UCG 1, UCG 2,2 UCARE
 
 |
 
-Baccalauréat professionnel éducation nationale et BIT.
+Baccalauréat professionnel délivré par le ministère chargé de l'éducation.
 
 |
 
-UCG 1, 1 UCARE
+UCG 1,1 UCARE
 
 |
 
@@ -66,26 +70,10 @@ UCG 1
 
 |
 
-BTSA-BTS éducation nationale, DUT.
+Diplômes de niveau III et plus.
 
 |
 
 UCG 1, UCG 2
-
-|
-
-Autres diplômes de niveau III et plus.
-
-|
-
-UCG 1, UCG 2
-
-|
-
-Docteur vétérinaire.
-
-|
-
-UCG 1, UCG 2, UCP 2, 2 UCARE
 
 |
