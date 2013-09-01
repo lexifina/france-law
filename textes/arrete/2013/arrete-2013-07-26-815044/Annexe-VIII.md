@@ -46,7 +46,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Formation du premier degré de qualification professionnelle des sous-officiers amenant à l'obtention d'un brevet élémentaire de technicien ou de spécialiste (brevet élémentaire de technicien essences - brevet de spécialiste de l'armée de terre).
+Formation du premier degré de qualification professionnelle des sous-officiers amenant à l'obtention d'un brevet élémentaire de technicien ou de spécialiste (brevet élémentaire de technicien essences, brevet de spécialiste de l'armée de terre).
 
 |
 
@@ -58,7 +58,7 @@ Formation du premier degré de qualification professionnelle des sous-officiers 
 
 |
 
-Formation du second degré de qualification professionnelle des sous-officiers amenant à l'obtention d'un brevet supérieur de technicien ou de spécialiste (brevet supérieur de technicien essences - brevet supérieur de technicien de l'armée de terre).
+Formation du second degré de qualification professionnelle des sous-officiers amenant à l'obtention d'un brevet supérieur de technicien ou de spécialiste (brevet supérieur de technicien essences, brevet supérieur de technicien de l'armée de terre).
 
 |
 
@@ -86,7 +86,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Permis C, D, E (D).
+Permis C1, C1E, C, D1, D1E, D et DE ou brevet militaire de conduite PL, SPL et TC.
 
 |
 

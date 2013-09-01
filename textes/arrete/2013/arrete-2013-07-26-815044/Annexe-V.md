@@ -18,7 +18,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Stage communication niveau 3.
+Stage communication de troisième niveau.
 
 |
 
@@ -54,7 +54,7 @@ Formation en langues rares (chinois, russe, arabe) à l'INALCO.
 
 |
 
-1
+2
 
 |
 
@@ -166,7 +166,7 @@ Formateur de conduite tout terrain véhicules incendie mention VL et PL.
 
 |
 
-Chef d'agrès direction de la défense et de la sécurité civile (DDSC).
+Chef d'agrès et protection des infrastructures aéroportuaires (PIAP).
 
 |
 
@@ -202,7 +202,7 @@ Pompier de l'armée de l'air (MTA formation initiale).
 
 |
 
-Stage de prévention incendie armée de l'air de niveau 2.
+Stage de prévention incendie armée de l'air de deuxième niveau.
 
 |
 
@@ -214,7 +214,7 @@ Stage de prévention incendie armée de l'air de niveau 2.
 
 |
 
-Stage chef de groupe feux de forêt niveau 3.
+Stage chef de groupe feux de forêt troisième niveau.
 
 |
 
@@ -238,6 +238,42 @@ Stage de prévention HSCT.
 
 |
 
+Formation au service de sécurité incendie et assistance à personnes (SSIAP) de deuxième niveau.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Formation au service de sécurité incendie et assistance à personnes (SSIAP) de deuxième niveau.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Formation au service de sécurité incendie et assistance à personnes (SSIAP) de troisième niveau.
+
+|
+
+3
+
+|
+
+1
+
+|
+
 Brevet d'atomicien appliqué aux armes nucléaires (BATAN).
 
 |
@@ -250,7 +286,7 @@ Brevet d'atomicien appliqué aux armes nucléaires (BATAN).
 
 |
 
-Formation à la maintenance véhicule incendie VMA (véhicule mousse sur aéroport) 105/108/VIRP/BLOC POMPE.
+Formation à la maintenance véhicule incendie VMA (véhicule mousse sur aéroport) 105/108/VIRP/ BLOC POMPE.
 
 |
 
@@ -278,7 +314,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-CFM 56-2A-3 (protocole accord AWACS).
+0CFM 56-2A-3 (protocole accord AWACS).
 
 |
 
@@ -302,7 +338,7 @@ Formation conducteur grand routier de transport de fret (FIMO).
 
 |
 
-Permis C, D, E (B), E (D).
+Permis C, D, D 1, BE, D(E).
 
 |
 
@@ -314,7 +350,7 @@ Permis C, D, E (B), E (D).
 
 |
 
-Contrôle non destructif niveau II
+Contrôle non destructif de deuxième niveau.
 
 |
 
@@ -326,7 +362,7 @@ Contrôle non destructif niveau II
 
 |
 
-Contrôle non destructif niveau III
+Contrôle non destructif de troisième niveau.
 
 |
 
@@ -362,7 +398,7 @@ Techniques du montage vidéo.
 
 |
 
-Stage industriel GM 400 (radar)
+Stage industriel GM 400 (radar).
 
 |
 
@@ -450,7 +486,7 @@ Formation SI ou SSI spécifique pour application en interallié.
 
 |
 
-Formation industrielle MTBA (moyen de transmission des bases aériennes).
+Formation initiale industrielle MTBA - G (moyen de transmission des bases aériennes).
 
 |
 
@@ -536,7 +572,7 @@ Formation architecture, conception, modélisation (avancé).
 
 7. Opérations en milieu aéronautique
 
-7.1. Formation des officiers PN
+7.1. Formation des officiers - personnel navigant
 
 INTITULÉ DE LA FORMATION
 
@@ -648,7 +684,7 @@ Stage de qualification machine pilote sur hélicoptère EC 725.
 
 |
 
-Formation CCQ (cross cockpit qualification) A330 vers A340.
+Formation CCQ (Cross Cockpit Qualification) A330 vers A340.
 
 |
 
@@ -660,7 +696,7 @@ Formation CCQ (cross cockpit qualification) A330 vers A340.
 
 |
 
-Formation CCQ (cross cockpit qualification).
+Formation CCQ (Cross Cockpit Qualification).
 
 |
 
@@ -669,6 +705,114 @@ Formation CCQ (cross cockpit qualification).
 |
 
 1
+
+|
+
+Formation initiale en milieu civil : cours intégré ATPL.
+
+|
+
+5
+
+|
+
+3
+
+|
+
+Formation initiale en milieu civil : cours intégré CPL/IR.
+
+|
+
+5
+
+|
+
+3
+
+|
+
+Formation initiale en milieu civil : cours intégré CPL.
+
+|
+
+5
+
+|
+
+3
+
+|
+
+QT Falcon.
+
+|
+
+6
+
+|
+
+3
+
+|
+
+QTA Falcon.
+
+|
+
+4
+
+|
+
+2
+
+|
+
+QTA CN 235.
+
+|
+
+2
+
+|
+
+2
+
+|
+
+QTA C130.
+
+|
+
+2
+
+|
+
+2
+
+|
+
+CCQ tous types d'aéronefs.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+TRE (Type Rating Examinator).
+
+|
+
+2
+
+|
+
+2
 
 |
 
@@ -688,7 +832,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-E.T.I.S métrologie (secteur civil)
+ETIS métrologie (secteur civil).
 
 |
 
@@ -724,7 +868,7 @@ Formation mécanicien navigant ou membre d'équipage (toutes spécialités, sous
 
 |
 
-Stage formation spécialiste mécanicien A400M.
+Stage formation spécialiste mécanicien A 400M.
 
 |
 
@@ -736,7 +880,19 @@ Stage formation spécialiste mécanicien A400M.
 
 |
 
-Stage industriel de familiarisation (FALCON 50 ou FALCON 900 ou AIRBUS).
+Stage formation soutier sur A 400 M Atlas.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Stage industriel de familiarisation (Falcon 50 ou Falcon 900 ou Airbus).
 
 |
 
@@ -772,7 +928,7 @@ Stage industriel qualification de type mécanicien avionique EC 725.
 
 |
 
-Stages industriels mécaniciens systèmes de drones type Male.
+Stages industriels mécaniciens systèmes de drones type MALE.
 
 |
 
@@ -789,6 +945,18 @@ Formation globale à la conception de trajectoires IFR.
 |
 
 2
+
+|
+
+1
+
+|
+
+Formation technique Air Command and Control System (ACCS).
+
+|
+
+4
 
 |
 

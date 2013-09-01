@@ -36,7 +36,7 @@ Ecoles de niveau II militaires :
 
 - école des systèmes de combat et armes navales (ESCAN) ;
 
-- école supérieure des fusiliers commandos (ESFC)
+- école supérieure des fusiliers commandos (ESFC) ;
 
 - école de guerre des mines (EGM) ;
 
@@ -124,7 +124,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Brevet de pilote d'avion ou d'hélicoptère du deuxième degré de l'aéronautique navale.
+Brevet de pilote d'avion ou d'hélicoptère du 2e degré de l'aéronautique navale.
 
 |
 
@@ -146,7 +146,7 @@ Formations aéronautiques militaires qualifiantes :
 
 - formation d'adaptation coordinateur tactique d'hélicoptère NH 90 ;
 
-- stages qualification technique EC 225 - EC 725, AS 532 Cougar, NH 90, Dauphin N3.
+- stages qualification technique EC 225-EC 725, AS 532 Cougar, NH 90, Dauphin N3.
 
 |
 
@@ -160,15 +160,15 @@ Formations aéronautiques militaires qualifiantes :
 
 Formations aéronautiques civiles qualifiantes :
 
-- airline transport pilot licence (ATPL) ;
+- Airline Transport Pilot Licence (ATPL) ;
 
-- commercial pilot licence (CPL) ;
+- Commercial Pilot Licence (CPL) ;
 
-- instrument rating (IR)
+- Instrument Rating (IR) ;
 
-- flight instructor (FI) ;
+- Flight Instructor (FI) ;
 
-- multi crew cooperation (MCC) qualification de travail en équipage ;
+- Multi Crew Cooperation (MCC), qualification de travail en équipage ;
 
 - stages de langue anglaise aéronautique aux Etats-Unis (DLI).
 
@@ -194,7 +194,7 @@ Cours du certificat ou du brevet de tactique aéronautique.
 
 |
 
-Cours du certificat "contrôleur des opérations aériennes" (à l'EPV/56S) pour les OSC et les OSM.
+Cours du certificat contrôleur des opérations aériennes (à l'EPV/56S) pour les OSC et les OSM.
 
 |
 
@@ -258,7 +258,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Stage de "guerre des mines".
+Stage de guerre des mines .
 
 |
 
@@ -281,6 +281,54 @@ Stage du certificat d'aptitude au quart passerelle.
 1
 
 |
+
+d) Soutien opérationnel :
+
+INTITULÉ DE LA FORMATION
+
+|
+
+DURÉE DU LIEN AU SERVICE
+
+(années)
+
+|
+
+COEFFICIENT MULTIPLICATEUR
+
+|
+
+Formation pour la maintenance et/ou l'exploitation des systèmes (armes et senseur, système de combat, plate-forme).
+
+|
+
+4 |
+
+1 |
+
+e) Prévention et gestion des risques :
+
+INTITULÉ DE LA FORMATION
+
+|
+
+DURÉE DU LIEN AU SERVICE
+
+(années)
+
+|
+
+COEFFICIENT MULTIPLICATEUR
+
+|
+
+Formation chef de groupe des officiers SECUR .
+
+|
+
+4 |
+
+1 |
 
 2. Formation commune officiers - officiers mariniers
 
@@ -310,7 +358,7 @@ Stage du certificat de nageur de combat.
 
 |
 
-Plongeur de bord
+Plongeur de bord.
 
 |
 
@@ -322,11 +370,23 @@ Plongeur de bord
 
 |
 
-Certificat de pilote de port du 1er degré
+Certificat de pilote de port du 1er degré.
 
 |
 
 2
+
+|
+
+1
+
+|
+
+Formation en ingénierie de formation (INGEFORM).
+
+|
+
+3
 
 |
 
@@ -352,7 +412,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Formations professionnelles de 1er niveau et formations donnant le brevet d'aptitude technique (BAT) sur titre.
+Formations professionnelles de premier niveau et formations donnant le brevet d'aptitude technique (BAT).
 
 |
 
@@ -364,7 +424,7 @@ Formations professionnelles de 1er niveau et formations donnant le brevet d'apti
 
 |
 
-Formations professionnelles de 2e niveau et formations donnant le brevet supérieur (BS) ou le brevet supérieur technique (BST) sur titre.
+Formations professionnelles de second niveau et formations donnant le brevet supérieur (BS) ou le brevet supérieur technique (BST) sur titre.
 
 |
 
@@ -376,7 +436,7 @@ Formations professionnelles de 2e niveau et formations donnant le brevet supéri
 
 |
 
-Formations professionnelles de 3e niveau et certificats supérieurs (CSUP).
+Formations professionnelles de troisième niveau et certificats supérieurs (CSUP).
 
 |
 
@@ -388,7 +448,7 @@ Formations professionnelles de 3e niveau et certificats supérieurs (CSUP).
 
 |
 
-Stage de technicien-opérateur pour la maintenance élémentaire et l'exploitation des systèmes (armes et senseur, système de combat, plate-forme) au titre d'un contrat d'armement.
+Stage de technicien-opérateur pour la maintenance élémentaire et l'exploitation des systèmes (armes et senseur, système de combat, plate-forme).
 
 |
 
@@ -400,7 +460,7 @@ Stage de technicien-opérateur pour la maintenance élémentaire et l'exploitati
 
 |
 
-Stage de chef d'équipe pour l'intervention technique et la conduite des systèmes (armes et senseur, système de combat, plate-forme) au titre d'un contrat d'armement.
+Stage de chef d'équipe pour l'intervention technique et la conduite des systèmes (armes et senseur, système de combat, plate-forme).
 
 |
 
@@ -412,7 +472,7 @@ Stage de chef d'équipe pour l'intervention technique et la conduite des systèm
 
 |
 
-Stage d'expert système (armes et senseur, système de combat, plate-forme) au titre d'un contrat d'armement.
+Stage d'expert système (armes et senseur, système de combat, plate-forme).
 
 |
 
@@ -424,7 +484,7 @@ Stage d'expert système (armes et senseur, système de combat, plate-forme) au t
 
 |
 
-Stage de formateur système (armes et senseur, système de combat, plate-forme) au titre d'un contrat d'armement.
+Stage de formateur système (armes et senseur, système de combat, plate-forme).
 
 |
 
@@ -522,6 +582,34 @@ Certificat de reporter d'images
 
 |
 
+Opérations en milieu terrestre :
+
+INTITULÉ DE LA FORMATION
+
+|
+
+DURÉE DU LIEN AU SERVICE
+
+(années)
+
+|
+
+COEFFICIENT MULTIPLICATEUR
+
+|
+
+Stage du certificat de maître chien. Formation de spécialité initiale cynotechnie (stage de maître-chien).
+
+|
+
+2
+
+|
+
+1
+
+|
+
 Opérations en milieu aéronautique :
 
 INTITULÉ DE LA FORMATION
@@ -538,7 +626,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Certificat de moniteur de simulateur de vol rafale (C MOSPRAFALE).
+Certificat de moniteur de simulateur de vol Rafale (C MOSPRafale).
 
 |
 
@@ -550,7 +638,7 @@ Certificat de moniteur de simulateur de vol rafale (C MOSPRAFALE).
 
 |
 
-Certificat d'opérateur en vol "conduite machine" à bord des avions de patrouille et avions de surveillance maritime (C CM).
+Certificat d'opérateur en vol conduite machine à bord des avions de patrouille et avions de surveillance maritime (C CM).
 
 |
 
@@ -586,7 +674,7 @@ Stage sauveteur plongeur hélicoptère spécialisé marine.
 
 |
 
-Stage industriel des systèmes avionique EC 725 CARACAL/EC 225.
+Stage industriel des systèmes avionique EC 725 Caracal/EC 225.
 
 |
 
@@ -598,7 +686,7 @@ Stage industriel des systèmes avionique EC 725 CARACAL/EC 225.
 
 |
 
-Stage industriel des systèmes porteur et puissance EC 725 CARACAL/EC 225.
+Stage industriel des systèmes porteur et puissance EC 725 Caracal/EC 225.
 
 |
 
@@ -610,7 +698,7 @@ Stage industriel des systèmes porteur et puissance EC 725 CARACAL/EC 225.
 
 |
 
-Stage industriel mécanicien navigant EC 725 CARACAL/EC 225.
+Stage industriel mécanicien navigant EC 725 Caracal/EC 225.
 
 |
 
@@ -622,7 +710,7 @@ Stage industriel mécanicien navigant EC 725 CARACAL/EC 225.
 
 |
 
-Stage des systèmes porteur et puissance rafale.
+Stage des systèmes porteur et puissance Rafale.
 
 |
 
@@ -634,7 +722,7 @@ Stage des systèmes porteur et puissance rafale.
 
 |
 
-Stage des systèmes armement rafale.
+Stage des systèmes armement Rafale.
 
 |
 
@@ -646,7 +734,7 @@ Stage des systèmes armement rafale.
 
 |
 
-Stage des systèmes avionique rafale.
+Stage des systèmes avionique Rafale.
 
 |
 
@@ -694,7 +782,7 @@ Stage des systèmes porteur et puissance NH 90.
 
 |
 
-Stage dépanneur en ligne ATLANTIQUE ATL 2
+Stage dépanneur en ligne Atlantique ATL 2.
 
 |
 
@@ -706,7 +794,7 @@ Stage dépanneur en ligne ATLANTIQUE ATL 2
 
 |
 
-Stage dépanneur en ligne HAWKEYE
+Stage dépanneur en ligne Hawkeye.
 
 |
 
@@ -718,7 +806,131 @@ Stage dépanneur en ligne HAWKEYE
 
 |
 
-b) Niveau brevet supérieur
+Stage de chef contrôleur d'aéronautique.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage de contrôleur de procédures missile air-sol moyenne portée améliorée.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage d'opérateur multisenseurs du Caïman.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Certificat préparateur et animateur de missions sur simulateurs de vol Rafale ou Caïman.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage d'opérateur de conduite de drones.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage d'opérateur de maintenance UAV.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Cours du certificat de directeur de pont d'envol.
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Prévention et gestion des risques :
+
+INTITULÉ DE LA FORMATION
+
+|
+
+DURÉE DU LIEN AU SERVICE
+
+(années)
+
+|
+
+COEFFICIENT MULTIPLICATEUR
+
+|
+
+Equipier feux de navire.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Equipier feux de forêt.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+b) Niveau brevet supérieur :
 
 Prévention et gestion des risques :
 
@@ -772,7 +984,7 @@ Exercice de la profession d'enseignant de la conduite automobile et de la sécur
 
 |
 
-Formation à la maintenance véhicule incendie VMA (véhicule mousse sur aéroport) 105/108/VIRP/BLOC POMPE.
+Formation à la maintenance véhicule incendie VMA (véhicule mousse sur aéroport) 105/108/VIRP/ BLOC POMPE.
 
 |
 
@@ -800,7 +1012,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-CMD Diver (intervention sur munitions et explosifs conventionnels et neutralisation des munitions sous-marines "IMEC-Neutra").
+CMD Diver (intervention sur munitions et explosifs conventionnels et neutralisation des munitions sous-marines IMEC-Neutra ).
 
 |
 
@@ -840,6 +1052,66 @@ Certificat d'administrateur systèmes et réseaux d'hydrographie, d'océanograph
 
 |
 
+Stage de maintenance des équipements de transmissions intérieures.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage de maintenance des équipements de transmissions radioélectriques.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage de maintenance des systèmes de transmissions par satellite.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage de mise en œuvre et de maintenance élémentaire d'un AEROSTAT.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Stage de mise en œuvre et de maintenance supérieure d'un AEROSTAT.
+
+|
+
+2
+
+|
+
+1
+
+|
+
 Opérations en milieu maritime :
 
 INTITULÉ DE LA FORMATION
@@ -856,19 +1128,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Cours du certificat de directeur de pont d'envol.
-
-|
-
-3
-
-|
-
-1
-
-|
-
-Stage "tube lance-missiles" niveau supérieur sur SNLE.
+Stage tube lance missiles niveau supérieur sur SNLE.
 
 |
 
@@ -904,7 +1164,7 @@ Stage de maître de central sur sous-marin.
 
 |
 
-Stage de mécanicien discrétion acoustique sur SNLE type "TRIOMPHANT".
+Stage de mécanicien discrétion acoustique sur SNLE type Triomphant .
 
 |
 
@@ -928,7 +1188,7 @@ Spécialiste de génie sous-marin.
 
 |
 
-Opérations en milieu aéronautique
+Opérations en milieu aéronautique :
 
 INTITULÉ DE LA FORMATION
 
@@ -944,7 +1204,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Stage d'exploitation des systèmes NH 90
+Stage d'exploitation des systèmes NH 90.
 
 |
 
@@ -956,7 +1216,7 @@ Stage d'exploitation des systèmes NH 90
 
 |
 
-c) Niveau brevet de maîtrise
+c) Niveau brevet de maîtrise :
 
 Ressources humaines :
 
@@ -971,18 +1231,6 @@ DURÉE DU LIEN AU SERVICE
 |
 
 COEFFICIENT MULTIPLICATEUR
-
-|
-
-Certificat supérieur "ressources humaines".
-
-|
-
-2
-
-|
-
-1
 
 |
 
@@ -1003,18 +1251,6 @@ Spécialiste en organisation de la production alimentaire et en maîtrise des ri
 |
 
 2
-
-|
-
-1
-
-|
-
-Certificat supérieur ingénierie de formation (CSUP INGEFORM).
-
-|
-
-3
 
 |
 
@@ -1138,7 +1374,7 @@ Cours de chimiste nucléaire.
 
 |
 
-Stage d'instrumentiste de porte-avions nucléaire (PAN) - (transfert des forces sous-marines).
+Stage d'instrumentiste de porte-avions nucléaire (PAN) (transfert des forces sous-marines).
 
 |
 

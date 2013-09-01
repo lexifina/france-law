@@ -84,7 +84,7 @@ Stage de technicien en identification criminelle.
 
 |
 
-Stage enquêteur immigration irrégulière.
+Stage de formateur relais immigration irrégulière.
 
 |
 
@@ -208,7 +208,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Formation vol aux instruments RATING IFR (*).
+Formation vol aux instruments RATING IFR (1).
 
 |
 
@@ -220,7 +220,7 @@ Formation vol aux instruments RATING IFR (*).
 
 |
 
-Formation "adaptateur T3 appareil à voilure tournante".
+Formation adaptateur T3 appareil à voilure tournante .
 
 |
 
@@ -280,7 +280,19 @@ Qualification de type pilote Visual Flight Rules EC (145 ou 135).
 
 |
 
-(*) Evolution vers un emploi IFR.
+Stage d'opérateur de conduite de drones.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+(1) Evolution vers un emploi IFR.
 
 |
 
@@ -462,7 +474,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Equitation 1er niveau.
+Equitation premier niveau.
 
 |
 
@@ -474,7 +486,7 @@ Equitation 1er niveau.
 
 |
 
-Equitation 2e niveau.
+Equitation second niveau.
 
 |
 
@@ -486,7 +498,7 @@ Equitation 2e niveau.
 
 |
 
-Maréchalerie 1er niveau.
+Maréchalerie premier niveau.
 
 |
 
@@ -498,7 +510,7 @@ Maréchalerie 1er niveau.
 
 |
 
-Maréchalerie 2e niveau.
+Maréchalerie second niveau.
 
 |
 
@@ -630,7 +642,7 @@ Stage de formation des sous-officiers motocyclistes.
 
 |
 
-Mécanicien cellules et moteurs 1er niveau.
+Mécanicien cellules et moteurs premier niveau.
 
 |
 
@@ -642,7 +654,7 @@ Mécanicien cellules et moteurs 1er niveau.
 
 |
 
-Mécanicien cellule et moteurs 2e niveau.
+Mécanicien cellule et moteurs second niveau.
 
 |
 
@@ -654,7 +666,7 @@ Mécanicien cellule et moteurs 2e niveau.
 
 |
 
-Mécanicien avionique 1er niveau.
+Mécanicien avionique premier niveau.
 
 |
 
@@ -666,7 +678,7 @@ Mécanicien avionique 1er niveau.
 
 |
 
-Mécanicien avionique 2e niveau.
+Mécanicien avionique second niveau.
 
 |
 

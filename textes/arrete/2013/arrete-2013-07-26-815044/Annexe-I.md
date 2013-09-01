@@ -18,7 +18,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Formation de l'enseignement supérieur validant quatre semestres de la licence ou équivalent (tous domaines) (*).
+Formation de l'enseignement supérieur validant quatre semestres de la licence ou équivalent (tous domaines) (1).
 
 |
 
@@ -30,7 +30,7 @@ Formation de l'enseignement supérieur validant quatre semestres de la licence o
 
 |
 
-Formation de l'enseignement supérieur validée par la licence (tous domaines) (*).
+Formation de l'enseignement supérieur validée par la licence (tous domaines) (1).
 
 |
 
@@ -66,7 +66,7 @@ Formation de l'enseignement supérieur validée par un diplôme conférant le ti
 
 |
 
-(*) Hors formations de l'enseignement militaire supérieur.
+(1) Hors formations de l'enseignement militaire supérieur.
 
 |
 
@@ -98,7 +98,7 @@ Centre des hautes études militaires (CHEM).
 
 |
 
-Enseignement militaire du second degré (EMS2).
+Enseignement militaire du 2e degré (EMS2).
 
 |
 
@@ -110,7 +110,7 @@ Enseignement militaire du second degré (EMS2).
 
 |
 
-Formations de l'enseignement militaire du premier degré (EMS1) d'une durée de quatre mois consécutifs minimum (sauf diplôme d'état-major).
+Formations de l'enseignement militaire du 1er degré (EMS1) d'une durée de quatre mois consécutifs minimum (sauf diplôme d'état-major).
 
 |
 
@@ -238,7 +238,31 @@ Cours du certificat d'instructeur de saut à ouverture commandée et retardée.
 
 |
 
+3
+
+|
+
 2
+
+|
+
+Stage de moniteur-chef d'entraînement physique, militaire et sportif (EPMS). ― Application de la règle générale.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Stage de moniteur d'entraînement physique, militaire et sportif (EPMS). ― Application de la règle générale.
+
+|
+
+3
 
 |
 
@@ -258,35 +282,11 @@ Stage d'aide moniteur d'entraînement physique, militaire et sportif (EPMS).
 
 |
 
-Stage de moniteur-chef d'entraînement physique, militaire et sportif (EPMS) ― application de la règle générale.
-
-|
-
-4
-
-|
-
-1
-
-|
-
-Stage de moniteur d'entraînement physique, militaire et sportif (EPMS) ― application de la règle générale.
-
-|
-
-3
-
-|
-
-1
-
-|
-
 Stage de moniteur des techniques d'optimisation du potentiel.
 
 |
 
-1
+2
 
 |
 
@@ -298,27 +298,15 @@ Stage d'instructeur des techniques d'optimisation du potentiel (EPS, sophrologie
 
 |
 
-1
+3
 
 |
 
-1
+2
 
 |
 
-Stage du brevet d'Etat d'éducateur sportif des activités de la natation (BEESAN).
-
-|
-
-4
-
-|
-
-1
-
-|
-
-Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BPJEPS), option activité aquatique et de la natation (AAN).
+Brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BPJEPS), option activités aquatiques, option voile.
 
 |
 
@@ -366,15 +354,15 @@ Stage de spécialité élémentaire sports équestres, option maréchalerie et o
 
 |
 
-Certificat de moniteur de voile nautique.
+Stage d'expert en technique d'optimisation du potentiel (TOP).
+
+|
+
+2
 
 |
 
 3
-
-|
-
-1
 
 |
 
@@ -398,9 +386,7 @@ Formations appelées à être sanctionnées par un certificat ou un diplôme per
 
 |
 
-double de la période
-
-de formation
+Double de la période de formation
 
 |
 
@@ -424,7 +410,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Formation de spécialité 2e niveau conducteur de travaux.
+Formation de spécialité deuxième niveau conducteur de travaux.
 
 |
 
@@ -512,7 +498,7 @@ Certificat de technicien en radioprotection.
 
 |
 
-Equipier d'intervention risques chimiques et biologiques ou chef d'équipe d'intervention risques chimiques et biologiques (RCH 2)
+Equipier d'intervention risques chimiques et biologiques ou chef d'équipe d'intervention risques chimiques et biologiques (RCH 2).
 
 |
 
@@ -536,7 +522,7 @@ Equipier d'intervention risques radiologiques ou chef d'équipe d'intervention r
 
 |
 
-Chef de CMIC risques chimiques et biologiques (RCH 3).
+Chef de CMIC risques chimiques et biologiques (RCH3).
 
 |
 
@@ -560,7 +546,7 @@ Chef de CMIR risques radiologiques (RAD 3).
 
 |
 
-Conseiller technique risques chimiques et biologiques (RCH 4).
+Conseiller technique risques chimiques et biologiques (RCH4).
 
 |
 
@@ -596,7 +582,7 @@ Session de formation des inspecteurs hygiène et sécurité (Institut national d
 
 |
 
-Agent de prévention (PRV 1) ou attestation de compétence en matière de prévention de niveau 1 (AP 1).
+Agent de prévention (PRV 1) ou attestation de compétence en matière de prévention de premier niveau (AP 1).
 
 |
 
@@ -608,7 +594,7 @@ Agent de prévention (PRV 1) ou attestation de compétence en matière de préve
 
 |
 
-Préventionniste (PRV 2) ou attestation de compétence en matière de prévention de niveau 2 (AP 2), formation dispensée à l'ENSOSP.
+Préventionniste (PRV 2) ou attestation de compétence en matière de prévention de second niveau (AP 2), formation dispensée à l'ENSOSP.
 
 |
 
@@ -632,6 +618,30 @@ Responsable départemental de la prévention (PRV 3), formation dispensée à l'
 
 |
 
+Equipier feux de navire (ou IV Formations marine).
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Equipier feux de forêt (ou IV Formations marine).
+
+|
+
+2
+
+|
+
+1
+
+|
+
 7. Soutien opérationnel
 
 INTITULÉ DE LA FORMATION
@@ -648,7 +658,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Formation intervention sur munitions et explosifs conventionnels 2e niveau CMD 2 (Conventional Munition Disposal)
+Formation intervention sur munitions et explosifs conventionnels deuxième niveau CMD 2 (Conventional Munition Disposal).
 
 |
 
@@ -660,7 +670,7 @@ Formation intervention sur munitions et explosifs conventionnels 2e niveau CMD 2
 
 |
 
-Formation intervention sur engins explosifs improvisés IEDD (Improved Explosive Device Disposal)
+Formation intervention sur engins explosifs improvisés IEDD (Improved Explosive Device Disposal).
 
 |
 
@@ -672,7 +682,7 @@ Formation intervention sur engins explosifs improvisés IEDD (Improved Explosive
 
 |
 
-Qualification logistique 2.
+Formation logistique du 2e degré (QLIA2).
 
 |
 
@@ -684,7 +694,7 @@ Qualification logistique 2.
 
 |
 
-Qualification logistique 3.
+Formation logistique du 3e degré (QLIA3).
 
 |
 
@@ -708,7 +718,7 @@ Stage du certificat de spécialiste en métrologie électronique.
 
 |
 
-Formation intervention sur munitions spéciales/NRBC BCMD (Bilogical Chemical Munition Disposal).
+Formation intervention sur munitions spéciales/NRBC BCMD (Biological Chemical Munition Disposal).
 
 |
 
@@ -744,7 +754,7 @@ Cours du certificat de spécialiste des matériels de parachutage et de largage 
 
 |
 
-Permis E (C).
+Permis CE ou brevet militaire de conduite super poids lourd.
 
 |
 
@@ -756,7 +766,7 @@ Permis E (C).
 
 |
 
-Transport des matières dangereuses classe 7
+Transport des matières dangereuses classe 7.
 
 |
 
@@ -768,7 +778,7 @@ Transport des matières dangereuses classe 7
 
 |
 
-Formation d'adaptation TL 2 contrôle matériel levage (ou vérificateur des appareils de levage et de manutention).
+Formation d'adaptation T12 contrôle matériel levage (ou vérificateur des appareils de levage et de manutention).
 
 |
 
@@ -777,6 +787,30 @@ Formation d'adaptation TL 2 contrôle matériel levage (ou vérificateur des app
 |
 
 2
+
+|
+
+Qualification mouvements transports transits (QMTT) de deuxième niveau.
+
+|
+
+2
+
+|
+
+1
+
+|
+
+Qualification mouvements transports transits (QMTT) de troisième niveau.
+
+|
+
+2
+
+|
+
+1
 
 |
 
@@ -796,7 +830,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Formation officiers réseaux transmissions de données et informatiques réalisées à l'ESAT.
+Formation officiers réseaux transmissions de données et informatiques.
 
 |
 
@@ -872,7 +906,7 @@ Stage de formation renseignement à la DGSE.
 
 |
 
-Stage de renseignement long officier renseignement interprète analyste (ORIA).
+Formation officier renseignement interprète analyste (ORIA).
 
 |
 
@@ -968,7 +1002,7 @@ Interprète d'image de premier niveau.
 
 |
 
-Stage du certificat d'interprétation d'imagerie détaillée et restitution d'images Interprète image de second niveau.
+Stage du certificat d'interprétation d'imagerie détaillée et restitution d'images interprète image de second niveau.
 
 |
 
@@ -992,7 +1026,7 @@ Certificat de renseignement de deuxième niveau.
 
 |
 
-Stage du certificat d'opérateur d'écoute du premier niveau (ESAT de Rennes).
+Stage du certificat d'opérateur d'écoute du premier niveau.
 
 |
 
@@ -1004,7 +1038,7 @@ Stage du certificat d'opérateur d'écoute du premier niveau (ESAT de Rennes).
 
 |
 
-Stage du certificat d'opérateur d'écoute du deuxième niveau (ESAT de Rennes).
+Stage du certificat d'opérateur d'écoute du deuxième niveau.
 
 |
 
@@ -1052,6 +1086,30 @@ Formation inspecteur de sécurité de la défense (ISD).
 
 |
 
+Lutte contre la malveillance en sécurité industrielle.
+
+|
+
+4
+
+|
+
+1
+
+|
+
+Conseiller en sûreté et sécurité en milieu industriel.
+
+|
+
+4
+
+|
+
+1
+
+|
+
 Certificat d'analyste traitant.
 
 |
@@ -1080,7 +1138,7 @@ COEFFICIENT MULTIPLICATEUR
 
 |
 
-Formation officier et sous-officier pilote hélicoptère délivrée par l'aviation légère de l'armée de terre.
+Formation officier et sous-officier pilote hélicoptère.
 
 |
 
@@ -1140,7 +1198,7 @@ Formation d'ingénieur navigant d'essais à l'EPNER.
 
 |
 
-Formation d'expérimentateur navigant d'essais classe A à l'EPNER
+Formation d'expérimentateur navigant d'essais classe A à l'EPNER.
 
 |
 
@@ -1188,7 +1246,7 @@ Formation d'adaptation pilote NH 90.
 
 |
 
-Formation qualification de type pilote sur hélicoptère EC 725/225
+Formation qualification de type pilote sur hélicoptère EC 725/225.
 
 |
 
@@ -1236,7 +1294,7 @@ Formation Flight Instructor (FI) pilote avion Joint Aviation Requirement (JAR) F
 
 |
 
-Formation Flight Instructor (FI) pilote hélicoptère Joint Aviation Requirement (JAR) Flight Crew Licensing.
+Formation Flight Instructor (FI) pilote hélicoptère Joint Aviation Requirement (JAR) Flight Crew Licensing (FCL).
 
 |
 
@@ -1296,7 +1354,7 @@ Stage sauveteur plongeur hélicoptère.
 
 |
 
-Formation Instrument Rating Instructor (IRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR) ― Flight Crew Licensing (FCL).
+Formation Instrument Rating Instructor (IRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR). ― Flight Crew Licensing (FCL).
 
 |
 
@@ -1308,7 +1366,7 @@ Formation Instrument Rating Instructor (IRI) pilote avion/hélicoptère Joint Av
 
 |
 
-Formation Type Rating Instructor (TRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR) ― Flight Crew Licensing (FCL).
+Formation Type Rating Instructor (TRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR). ― Flight Crew Licensing (FCL).
 
 |
 
@@ -1320,7 +1378,7 @@ Formation Type Rating Instructor (TRI) pilote avion/hélicoptère Joint Aviation
 
 |
 
-Formation Class Rating Instructor (CRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR) ― Flight Crew Licensing (FCL).
+Formation Class Rating Instructor (CRI) pilote avion/hélicoptère Joint Aviation Requirements (JAR). ― Flight Crew Licensing (FCL).
 
 |
 
@@ -1332,7 +1390,7 @@ Formation Class Rating Instructor (CRI) pilote avion/hélicoptère Joint Aviatio
 
 |
 
-Formation radio de bord calibration 1351
+Formation radio de bord calibration 1351.
 
 |
 
@@ -1408,11 +1466,11 @@ Stage de chef unité haute montagne été.
 
 |
 
-Cours de certificat de chuteur opérationnel.
+Formation au saut opérationnel à grande hauteur.
 
 |
 
-2
+3
 
 |
 
@@ -1420,7 +1478,31 @@ Cours de certificat de chuteur opérationnel.
 
 |
 
-Techniciens en cynotechnie (prépa FS 1) à Biscarosse.
+Formation au saut opérationnel à très grande hauteur.
+
+|
+
+3
+
+|
+
+1
+
+|
+
+Formation pilote parachute biplace emport passager.
+
+|
+
+3
+
+|
+
+2
+
+|
+
+Formation de spécialité de premier niveau en cynotechnie.
 
 |
 
@@ -1432,7 +1514,7 @@ Techniciens en cynotechnie (prépa FS 1) à Biscarosse.
 
 |
 
-Technicien supérieur en cynotechnie (prépa FS 2) à Biscarosse.
+Formation de spécialité de second niveau en cynotechnie.
 
 |
 
@@ -1444,7 +1526,7 @@ Technicien supérieur en cynotechnie (prépa FS 2) à Biscarosse.
 
 |
 
-Stage du certificat d'équipe cynotechnique d'aide à la recherche et à la détection d'explosifs à Suippes.
+Formation d'adaptation cynotechnique d'aide à la recherche et à la détection d'explosifs.
 
 |
 
@@ -1456,23 +1538,11 @@ Stage du certificat d'équipe cynotechnique d'aide à la recherche et à la dét
 
 |
 
-Stage d'équipe cynotechnique d'aide à la recherche et à la détection de stupéfiants à Gramat.
+Formation d'adaptation cynotechnique d'aide à la recherche et à la détection de stupéfiants.
 
 |
 
 4
-
-|
-
-1
-
-|
-
-Stage du certificat de maître chien.
-
-|
-
-2
 
 |
 
