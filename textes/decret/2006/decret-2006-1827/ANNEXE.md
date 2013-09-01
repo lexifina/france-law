@@ -20,6 +20,8 @@ Ministère de la culture et de la communication
 
 Corps des chefs de travaux d'art du ministère chargé de la culture.
 
+Corps des conservateurs du patrimoine.
+
 Ministère de l'économie, des finances et de l'industrie
 
 Corps des agents de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects.
