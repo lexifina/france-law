@@ -1096,43 +1096,27 @@ c) La valeur du pH ne doit pas dépasser 11.
 
 |
 
+1-Naphtalénol
+
 1-Naphthol
 
-(n° CAS 90-15-3) et ses sels.
+N° CAS 90-15-3
+
+N° CE 201-969-4
 
 |
 
-Colorant d'oxydation pour la coloration des cheveux.
+Substance utilisée dans des teintures capillaires oxydantes
 
 |
 
-2,0 %.
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2,0 %.
 
 |
 
-En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,0 %.
-
-|
-
-Vous pouvez consulter le cliché dans le JO
-
-n° 86 du 13/04/2010 texte numéro 17
-
-Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
-
-Lire et suivre les instructions.
-
-Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
-
-Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
-
-Ne vous colorez pas les cheveux si :
-
-- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
-
-- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
-
-- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+Voir numéro d'ordre 205, colonne f, point a)
 
 |
 
@@ -1206,71 +1190,51 @@ b) 0,2 % (en quinine base).
 
 |
 
-Résorcine (3).
+1,3-Benzènediol
+
+Résorcinol
+
+N° CAS 108-46-3
+
+N° CE 203-585-2
 
 |
 
-a) Colorant d'oxydation pour la coloration des cheveux :
+a) Substance utilisée dans des teintures capillaires oxydantes
 
-1. Usage général.
+1. Usage général
 
-2. Usage professionnel.
+2. Usage professionnel
 
-b) Lotions capillaires et shampooings.
+b) Lotions capillaires et shampooings
 
 |
-
-a) 5 %.
 
 b) 0,5 %.
 
 |
 
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,25 %
+
 |
 
-a) 1. Contient de la résorcine. Bien rincer les cheveux après application. Ne pas employer pour la coloration des cils et des sourcils. Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.
+a) 1. Contient de la résorcine.
 
-Vous pouvez consulter le cliché dans le JO
+Bien rincer les cheveux après application.
 
-n° 86 du 13/04/2010 texte numéro 17
+Ne pas employer pour la coloration des cils et des sourcils.
 
-Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
+Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.
 
-Lire et suivre les instructions.
+Voir numéro d'ordre 205, colonne f, point a)
 
-Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
+2. Réservé aux professionnels.
 
-Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
+Contient de la résorcine.
 
-Ne vous colorez pas les cheveux si :
+Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.
 
-- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
-
-- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
-
-- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
-
-2. Réservé aux professionnels. Contient de la résorcine. Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.
-
-Vous pouvez consulter le cliché dans le JO
-
-n° 86 du 13/04/2010 texte numéro 17
-
-Les colorants capillaires peuvent provoquer des réactions allergiques sévères.
-
-Lire et suivre les instructions.
-
-Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans.
-
-Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie.
-
-Ne vous colorez pas les cheveux si :
-
-- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ;
-
-- vous avez déjà fait une réaction après avoir coloré vos cheveux ;
-
-- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.
+Voir numéro d'ordre 205, colonne f, point a)
 
 b) Contient de la résorcine.
 
@@ -6885,6 +6849,766 @@ a) Après mélange dans des conditions d'oxydation, la teneur maximale appliqué
 a) Voir numéro d'ordre 205, colonne f, point a.
 
 b) Voir numéro d'ordre 208, colonne f.
+
+|
+
+253 |
+
+Sulfate de 2,2'- [(4-aminophényl) imino]bis(éthanol)
+
+N, N-bis(2-Hydroxyethyl)-p-Phenylenediamine Sulfate
+
+N° CAS 54381-16-7
+
+N° CE 259-134-5
+
+|
+
+Substance utilisée dans des teintures capillaires oxydantes |
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2,5 % (exprimée en sulfate) :
+
+- ne pas utiliser avec des agents de nitrosation
+
+- concentration maximale en nitrosamine : 50 µg/kg
+
+- à conserver dans des récipients sans nitrite
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a) |
+
+254 |
+
+4-Chloro-1,3-benzènediol
+
+4-Chlororésorcinol
+
+N° CAS 95-88-5
+
+N° CE 202-462-0
+
+|
+
+Substance utilisée dans des teintures capillaires oxydantes |
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2,5 % |
+
+Voir numéro d'ordre 205, colonne f, point a) |
+
+255 |
+
+Sulfate de 2,4,5,6-tetra aminopyrimidine Tetra aminopyrimidine Sulfate
+
+N° CAS 5392-28-9
+
+N° CE 226-393-0
+
+|
+
+a) Substance utilisée dans des teintures capillaires oxydantes
+
+b) Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+b) 3,4 % (exprimée en sulfate) |
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 3,4 % (exprimée en sulfate). |
+
+a) Voir numéro d'ordre 205, colonne f, point a) |
+
+256 |
+
+Sulfate de 3-(2- hydroxyéthyl)-p-phénylènediammonium
+
+Hydroxyethyl-p-Phenylenediamine
+
+Sulfate
+
+N° CAS 93841-25-9
+
+N° CE 298-995-1
+
+|
+
+Substance utilisée dans des teintures capillaires oxydantes
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2,0 % (exprimée en sulfate).
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a)
+
+|
+
+257
+
+|
+
+1H-Indole-5,6-diol
+
+Dihydroxyindole
+
+N° CAS 3131-52-0
+
+N° CE 412-130-9
+
+|
+
+a) Substance utilisée dans des teintures capillaires oxydantes
+
+b) Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+b) 0,5 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,5 %
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a)
+
+b) Voir numéro d'ordre 208, colonne f
+
+|
+
+258
+
+|
+
+Chlorhydrate de 5-amino-4-chloro-2-
+
+méthylphénol5-Amino-4-
+
+Chloro-o-Cresol HCl
+
+N° CAS 110102-85-7
+
+|
+
+Substance utilisée dans des teintures capillaires oxydantes
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,5 % (exprimée en chlorhydrate)
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a)
+
+|
+
+259
+
+|
+
+1H-Indol-6-ol
+
+6-Hydroxyindole
+
+N° CAS 2380-86-1
+
+N° CE 417-020-4
+
+|
+
+Substance utilisée dans des teintures capillaires oxydantes
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,5 %
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a)
+
+|
+
+260 |
+
+1H-Indole-2,3-dione
+
+Isatine
+
+N° CAS 91-56-5
+
+N° CE 202-077-8
+
+|
+
+Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+1,6 %
+
+|
+
+|
+
+Voir numéro d'ordre 208, colonne f
+
+|
+
+261 |
+
+2-Aminopyridine-3-ol 2-Amino-3-Hydroxypyridine
+
+N° CAS 16867-03-1
+
+N° CE 240-886-8
+
+|
+
+Substance utilisée dans des teintures capillaires oxydantes
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,0 %
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a)
+
+|
+
+262 |
+
+Acétate
+
+de 2-méthyl-1-
+
+naphtalénol 1-Acetoxy-2-
+
+Methylnaphthalene
+
+N° CAS 5697-02-9
+
+N° CE 454-690-7
+
+|
+
+Substance utilisée dans des teintures capillaires oxydantes
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2,0 % (lorsque les deux substances 2-Methyl-1-Naphthol et 1- Acetoxy-2-Methylnaphthalene sont présentes dans une préparation pour teinture capillaire, la teneur maximale en 2-Methyl-1-Naphthol appliquée à la chevelure ne doit pas dépasser 2,0 %)
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a)
+
+|
+
+263 |
+
+1-Hydroxy-2-méthylnaphtalène
+
+2-Methyl-1-Naphthol
+
+N° CAS 7469-77-4
+
+N° CE 231-265-2
+
+|
+
+Substance utilisée dans des teintures capillaires oxydantes |
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2,0 % (lorsque les deux substances 2-Methyl-1-Naphthol et 1- Acetoxy-2-Methylnaphthalene sont présentes dans une préparation pour teinture capillaire, la teneur maximale en 2-Methyl-1-Naphthol appliquée à la chevelure ne doit pas dépasser 2,0 %)
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a)
+
+|
+
+264
+
+|
+
+5,7-Dinitro-8-oxydonaphtalène-2- sulfonate de disodium
+
+Acid Yellow 1
+
+N° CAS 846-70-8
+
+N° CE 212-690-2 CI 10316
+
+|
+
+a) Substance utilisée dans des teintures capillaires oxydantes
+
+b) Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+b) 0,2 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,0 %
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a)
+
+b) Voir numéro d'ordre 208, colonne f
+
+|
+
+265 |
+
+4-Nitro-1,2-phénylènediamine
+
+4-Nitro-o-Phenylenediamine
+
+N° CAS 99-56-9
+
+N° CE 202-766-3
+
+|
+
+Substance utilisée dans des teintures capillaires oxydantes
+
+|
+
+|
+
+Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,5 %.
+
+|
+
+Voir numéro d'ordre 205, colonne f, point a)
+
+|
+
+266
+
+|
+
+2-(4-Amino-3-nitroanilino)éthanol
+
+HC Red No. 7
+
+N° CAS 24905-87-1
+
+N° CE 246-521-9
+
+|
+
+Substance utilisée dans des teintures capillaires non oxydantes |
+
+1,0 %
+
+|
+
+Ne pas utiliser avec des agents de nitrosation
+
+Concentration maximale en nitrosamine : 50 µg/kg
+
+A conserver dans des récipients sans nitrite
+
+|
+
+Voir numéro d'ordre 208, colonne f
+
+|
+
+267 |
+
+2-[bis (2-Hydroxyéthyl)amino]-5-nitrophénol
+
+HC Yellow No. 4
+
+N° CAS 59820-43-8
+
+N° CE 428-840-7
+
+|
+
+Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+1,5 %
+
+|
+
+Ne pas utiliser avec des agents de nitrosation
+
+Concentration maximale en nitrosamine : 50 µg/kg
+
+A conserver dans des récipients sans nitrite
+
+|
+
+|
+
+268
+
+|
+
+2-[(2-Nitrophényl)amino] éthanol
+
+HC Yellow No. 2
+
+N° CAS 4926-55-0
+
+N° CE 225-555-8
+
+|
+
+a) Substance utilisée dans des teintures capillaires oxydantes
+
+b) Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+b) 1,0 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0,75 %.
+
+Pour a) et b) :
+
+- ne pas utiliser avec des agents de nitrosation
+
+- concentration maximale en nitrosamine : 50 µg/kg
+
+- à conserver dans des récipients sans nitrite
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a)
+
+|
+
+269
+
+|
+
+p-[(o-Nitrophényl)amino] phénol
+
+HC Orange No. 1
+
+N° CAS 54381-08-7
+
+N° CE 259-132-4
+
+|
+
+Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+1,0 %
+
+|
+
+|
+
+|
+
+270 |
+
+2-Nitro-N-phényl-benzène-1,4-diamine HC Red No. 1
+
+N° CAS 2784-89-6
+
+N° CE 220-494-3
+
+|
+
+Substance utilisée dans des teintures capillaires non oxydantes |
+
+1,0 % |
+
+|
+
+Voir numéro d'ordre 208, colonne f
+
+|
+
+271
+
+|
+
+Chlorhydrate de 1-méthoxy-3-(- aminoéthyl)amino-4-nitrobenzène
+
+HC Yellow No. 9
+
+N° CAS 86419-69-4
+
+N° CE 415-480-1
+
+|
+
+Substance utilisée dans des teintures capillaires non oxydantes |
+
+0,5 % (exprimée en chlorhydrate)
+
+|
+
+Ne pas utiliser avec des agents de nitrosation
+
+Concentration maximale en nitrosamine : 50 µg/kg
+
+A conserver dans des récipients sans nitrite
+
+|
+
+|
+
+272
+
+|
+
+1-(4'-Aminophénylazo)-2-méthyl- 4-(bis--hydroxyéthyl) aminobenzène
+
+HC Yellow No. 7
+
+N° CAS 104226-21-3
+
+N° CE 146-420-6
+
+|
+
+Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+0,25 %
+
+|
+
+|
+
+|
+
+273
+
+|
+
+4-(2'-Hydroxyéthyl)amino-3-nitrotrifluorométhylbenzène
+
+HC Yellow No. 13
+
+N° CAS 10442-83-8
+
+N° CE 443-760-2
+
+|
+
+a) Substance utilisée dans des teintures capillaires oxydantes
+
+b) Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+b) 2,5 % |
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2,5 %
+
+Pour a) et b) :
+
+- ne pas utiliser avec des agents de nitrosation
+
+- concentration maximale en nitrosamine : 50 µg/kg
+
+- à conserver dans des récipients sans nitrite
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a)
+
+|
+
+274 |
+
+Chlorure de
+
+3-[(4,5-dihydro-3-méthyl-
+
+5-oxo-1-phényl-1H-
+
+pyrazole-4-yl)azo]-N, N, N-triméthylanilinium
+
+Basic Yellow 57
+
+N° CAS 68391-31-1
+
+N° CE 269-943-5
+
+|
+
+Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+2,0 % |
+
+|
+
+|
+
+275
+
+|
+
+2,2'-[[4-[(4-Aminophényl)azo]phényl]imino]biséthanol
+
+Disperse Black 9
+
+N° CAS 20721-50-0
+
+N° CE 243-987-5
+
+|
+
+Substance utilisée dans des teintures capillaires non oxydantes |
+
+0,3 % (d'un mélange dans un rapport 1 : 1 de 2,2'- [4-(4- aminophénylazo) phénylimino] diéthanol et lignosulfate)
+
+|
+
+|
+
+|
+
+276 |
+
+1,4-bis[2,3, -Dihydroxypropylamino]-9,10-anthracènedione
+
+HC Blue No.14
+
+N° CAS 99788-75-7
+
+N° CE 421-470-7
+
+|
+
+Substance utilisée dans des teintures capillaires non oxydantes |
+
+0,3 %
+
+|
+
+Ne pas utiliser avec des agents de nitrosation
+
+Concentration maximale en nitrosamine : 50 µg/kg
+
+A conserver dans des récipients sans nitrite
+
+|
+
+|
+
+277
+
+|
+
+1-Méthyl-3-nitro-4-(-hydroxyéthyl)aminobenzène
+
+Hydroxyéthyl-2-Nitro-p-Toluidine
+
+N° CAS 100418-33-5
+
+N° CE 408-090-7
+
+|
+
+a) Substance utilisée dans des teintures capillaires oxydantes
+
+b) Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+b) 1,0 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,0 %
+
+Pour a) et b) :
+
+- ne pas utiliser avec des agents de nitrosation
+
+- concentration maximale en nitrosamine : 50 µg/kg
+
+- à conserver dans des récipients sans nitrite
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a)
+
+|
+
+278
+
+|
+
+1-Amino-2-nitro-4-
+
+(2',3'-dihydroxypropyl)amino-
+
+5-chlorobenzène + 1,4-bis-
+
+(2',3'-Dihydroxypropyl)amino-
+
+2-nitro-5-chlorobenzène
+
+HC Red No. 10 + HC Red No. 11
+
+N° CAS 95576-89-9 + 95576-92-4
+
+|
+
+a) Substance utilisée dans des teintures capillaires oxydantes
+
+b) Substance utilisée dans des teintures capillaires non oxydantes
+
+|
+
+b) 2,0 %
+
+|
+
+a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1,0 %.
+
+Pour a) et b) :
+
+- ne pas utiliser avec des agents de nitrosation
+
+- concentration maximale en nitrosamine : 50 µg/kg
+
+- à conserver dans des récipients sans nitrite
+
+|
+
+a) Voir numéro d'ordre 205, colonne f, point a)
 
 |
 
