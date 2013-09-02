@@ -2,41 +2,29 @@
 
 Horaire hebdomadaire des classes de technologie, physique et chimie
 
-DISCIPLINES
-
 |
 
-1ere ANNEE
+1re ANNÉE |
 
-|
+2e ANNÉE |
 
-2e ANNEE
-
-|
+DISCIPLINES |
 
 Cours
 
 |
 
-TD
-
-|
+TD |
 
 TP
 
 |
 
-Cours
+Cours |
 
-|
+TD |
 
-TD
-
-|
-
-TP
-
-|
+TP |
 
 Mathématiques
 
@@ -50,7 +38,7 @@ Mathématiques
 
 |
 
--
+―
 
 |
 
@@ -62,7 +50,7 @@ Mathématiques
 
 |
 
--
+―
 
 |
 
@@ -70,7 +58,7 @@ Physique
 
 |
 
-4
+5
 
 |
 
@@ -86,7 +74,7 @@ Physique
 
 |
 
-1
+2
 
 |
 
@@ -98,7 +86,7 @@ Chimie
 
 |
 
-3,5
+3
 
 |
 
@@ -118,7 +106,7 @@ Chimie
 
 |
 
-2,5
+2
 
 |
 
@@ -130,7 +118,7 @@ Informatique
 
 |
 
--
+―
 
 |
 
@@ -146,7 +134,7 @@ Informatique
 
 |
 
--
+―
 
 |
 
@@ -158,15 +146,11 @@ Français-philosophie
 
 |
 
-1
+2
 
 |
 
--
-
-|
-
-1
+―
 
 |
 
@@ -174,7 +158,11 @@ Français-philosophie
 
 |
 
--
+2
+
+|
+
+―
 
 |
 
@@ -186,11 +174,11 @@ Langue vivante étrangère
 
 |
 
--
+1 ESLV (*)
 
 |
 
--
+―
 
 |
 
@@ -198,11 +186,11 @@ Langue vivante étrangère
 
 |
 
--
+1 ESLV (*)
 
 |
 
--
+―
 
 |
 
@@ -210,7 +198,7 @@ Travaux d'initiative personnelle encadrés
 
 |
 
--
+―
 
 |
 
@@ -222,7 +210,7 @@ Travaux d'initiative personnelle encadrés
 
 |
 
--
+―
 
 |
 
@@ -234,7 +222,7 @@ Travaux d'initiative personnelle encadrés
 
 |
 
-Éducation physique et sportive
+Education physique et sportive
 
 |
 
@@ -242,11 +230,11 @@ Travaux d'initiative personnelle encadrés
 
 |
 
--
+―
 
 |
 
--
+―
 
 |
 
@@ -254,62 +242,54 @@ Travaux d'initiative personnelle encadrés
 
 |
 
--
+―
 
 |
 
--
+―
 
 |
 
-TOTAL
+Total
 
 |
 
-20,5
+21
 
 |
 
-8 (d)
+10 (c)
 
 |
 
-6,5 (c)
+6 (c)
 
 |
 
-21 (e)
+21 (d)
 
 |
 
-8 (e)
+11 d)
 
 |
 
-5,5
+5
 
 |
 
-(a) Horaire limité à la première période de la seconde année ;
+(*) ESLV : enseignement de sciences en langue vivante.
 
 |
 
-(b) 1 heure à partir du deuxième trimestre ;
+a) Horaire limité à la première période de la seconde année ;
 
-|
+b) A partir de la deuxième période ;
 
-(c) 5,5 heures en première période ;
+c) Horaire diminué d'une heure en première période ;
 
-|
-
-(d) Horaire diminué d'une heure en première période ;
-
-|
-
-e) Horaire diminué d'une heure en deuxième période.
-
-|
+d) Horaire diminué d'une heure en deuxième période.
 
 NOTA :
 
-Arrêté du 15 juillet 2013, article 5 : Le présent arrêté entre en vigueur à compter de la rentrée universitaire 2013 en ce qui concerne les horaires hebdomadaires de seconde année.
+Arrêté du 15 juillet 2013, article 5 : Le présent arrêté entre en vigueur à compter de la rentrée universitaire 2013 en ce qui concerne les horaires hebdomadaires de la première année et à compter de la rentrée universitaire 2014 en ce qui concerne les horaires hebdomadaires de seconde année.

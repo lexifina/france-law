@@ -2,53 +2,25 @@
 
 Horaire hebdomadaire des classes de technologie et sciences industrielles
 
-DISCIPLINES
+DISCIPLINES |
 
-|
+1re ANNÉE |
 
-1ere ANNEE
+2e ANNÉE |
 
-|
+Cours |
 
-2e ANNEE
+TD |
 
-|
+TP |
 
-Cours
+Cours |
 
-|
+TD |
 
-TD
-
-|
-
-TP
-
-|
-
-Cours
-
-|
-
-TD
-
-|
-
-TP
-
-|
+TP |
 
 Mathématiques
-
-|
-
-7
-
-|
-
-3 (a)
-
-|
 
 |
 
@@ -59,6 +31,20 @@ Mathématiques
 3
 
 |
+
+―
+
+|
+
+7
+
+|
+
+3
+
+|
+
+―
 
 |
 
@@ -70,7 +56,7 @@ Physique
 
 |
 
-2 (b)
+2
 
 |
 
@@ -98,7 +84,7 @@ Chimie
 
 |
 
-(b)
+―
 
 |
 
@@ -110,13 +96,7 @@ Chimie
 
 |
 
-|
-
-1
-
-|
-
-Génie électrique
+―
 
 |
 
@@ -124,51 +104,31 @@ Génie électrique
 
 |
 
-1 (c)
+Sciences industrielles de l'ingénieur
 
 |
 
-1,5
+2
 
 |
 
-1
+2
 
 |
 
-1
+3
 
 |
 
-1,5
+2
 
 |
 
-Génie mécanique
+2
 
 |
 
-1
-
-|
-
-1 (d
-
-|
-
-1,5
-
-|
-
-1
-
-|
-
-1
-
-|
-
-1,5
+3
 
 |
 
@@ -180,19 +140,23 @@ Informatique
 
 |
 
+―
+
 |
 
 1
 
 |
 
-1 (e)
+1 (a)
 
 |
 
-1 (e)
+1 (a)
 
 |
+
+―
 
 |
 
@@ -208,15 +172,19 @@ Français-philosophie
 
 |
 
-|
-
-1
+―
 
 |
 
 1
 
 |
+
+1
+
+|
+
+―
 
 |
 
@@ -228,7 +196,11 @@ Langue vivante étrangère
 
 |
 
+―
+
 |
+
+―
 
 |
 
@@ -236,23 +208,31 @@ Langue vivante étrangère
 
 |
 
-|
+―
 
 |
 
-Travail d'initiative personnelle encadrés
+―
 
 |
 
-|
-
-1 (f)
+Travaux d'initiative personnelle encadrés
 
 |
 
-1 (f)
+―
 
 |
+
+1 (b)
+
+|
+
+1 (b)
+
+|
+
+―
 
 |
 
@@ -264,7 +244,7 @@ Travail d'initiative personnelle encadrés
 
 |
 
-Éducation physique et sportive
+Education physique et sportive
 
 |
 
@@ -272,7 +252,11 @@ Travail d'initiative personnelle encadrés
 
 |
 
+―
+
 |
+
+―
 
 |
 
@@ -280,11 +264,43 @@ Travail d'initiative personnelle encadrés
 
 |
 
-|
+―
 
 |
 
-TOTAL
+―
+
+|
+
+Accompagnement personnalisé
+
+|
+
+―
+
+|
+
+3 (c)
+
+|
+
+―
+
+|
+
+―
+
+|
+
+―
+
+|
+
+―
+
+|
+
+Total
 
 |
 
@@ -308,42 +324,18 @@ TOTAL
 
 |
 
-6
+6 |
 
-|
+a) Horaire limité à la première période de la seconde année ;
 
-a) Plus 1 heure de mathématiques pour les étudiants issus du baccalauréat technologique, séries sciences et technologies industrielles (spécialités génie mécanique, génie des matériaux, génie électronique, génie électrotechnique, génie civil, génie énergétique) et sciences et technologies de laboratoire (spécialité physique de laboratoire et des procédés industriels) ;
+b) A partir de la deuxième période ;
 
-|
+c) L'équipe pédagogique dispose de 3 heures de TD supplémentaires pour accompagner de façon personnalisée les étudiants dans les disciplines scientifiques et technologiques ;
 
-b) Plus 1 heure de physique et chimie pour les étudiants issus du baccalauréat technologique, séries sciences et technologies industrielles (spécialités génie mécanique, génie des matériaux, génie électronique, génie électrotechnique, génie civil, génie énergétique) ;
+d) Horaire diminué d'une heure en première période ;
 
-|
-
-c) Plus 1 heure de génie électrique pour les étudiants issus du baccalauréat technologique, séries sciences et technologies industrielles (spécialités génie mécanique, génie des matériaux, génie civil) et sciences et technologies de laboratoire (spécialité physique de laboratoire et des procédés industriels) ;
-
-|
-
-d) Plus 1 heure de génie mécanique pour les étudiants issus du baccalauréat technologique, séries sciences et technologies industrielles (spécialités génie électronique, génie électrotechnique, génie énergétique) et sciences et technologies de laboratoire (spécialité physique de laboratoire et des procédés industriels) ;
-
-|
-
-e) Horaire limité à la première période de la seconde année ;
-
-|
-
-f) 1 heure à partir du deuxième trimestre ;
-
-|
-
-g) Horaire diminué d'une heure en première période ;
-
-|
-
-h) Horaire diminué d'une heure en deuxième période.
-
-|
+e) Horaire diminué d'une heure en deuxième période.
 
 NOTA :
 
-Arrêté du 15 juillet 2013, article 5 : Le présent arrêté entre en vigueur à compter de la rentrée universitaire 2013 en ce qui concerne les horaires hebdomadaires de seconde année.
+Arrêté du 15 juillet 2013, article 5 : Le présent arrêté entre en vigueur à compter de la rentrée universitaire 2013 en ce qui concerne les horaires hebdomadaires de la première année et à compter de la rentrée universitaire 2014 en ce qui concerne les horaires hebdomadaires de seconde année.
