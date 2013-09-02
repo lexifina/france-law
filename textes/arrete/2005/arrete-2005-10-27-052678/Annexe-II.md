@@ -90,6 +90,8 @@ Français-philosophie
 
 |
 
+5 min
+
 |
 
 |
@@ -110,7 +112,7 @@ Géographie
 
 |
 
-5 min
+-
 
 |
 
