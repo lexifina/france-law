@@ -1,0 +1,9 @@
+# Réponse à la question n° 22784
+
+- Question : [22784](22784.md) — Question n° 22784 — nouvelle bonification indiciaire; bénéficiaires
+
+## Réponse
+
+*JO du 2013-09-03*
+
+Les sapeurs-pompiers professionnels sont des fonctionnaires territoriaux qui, au regard de la fixation des éléments de base de leur traitement, sont soumis au droit commun de la fonction publique territoriale (FPT). Conformément à l'article 1er du décret n° 2006-780 du 3 juillet 2006, portant attribution de la nouvelle bonification indiciaire à certains personnels de la FPT exerçant dans des zones à caractère sensible, les fonctionnaires territoriaux doivent exercer leurs fonctions à titre principal sur un territoire classé en zones urbaines sensibles (ZUS), dont la liste est fixée par le décret du 26 décembre 1996 (version consolidée au 16 mai 2009), afin de bénéficier de cette mesure. En application de cet article, qui instaure l'obligation d'exercer à titre principal ses missions dans une ZUS, il est difficile d'envisager l'intégration des sapeurs-pompiers professionnels dans le régime d'attribution de la NBI ZUS. De fait, s'il était fait une interprétation extensive du décret précité, il faudrait alors considérer qu'une très grande majorité des sapeurs-pompiers professionnels, effectuant des opérations serait éligible à la NBI ZUS, ce qui serait contraire à l'esprit du texte. En outre, l'instauration d'une telle NBI serait une source d'inégalité entre sapeurs-pompiers professionnels et sapeurs-pompiers volontaires. En effet, les sapeurs-pompiers volontaires interviennent également en zone urbaine sensible. Toutefois, ils exercent une activité qui fait l'objet d'une indemnisation, mais ils ne peuvent bénéficier des dispositions du décret précité, applicable aux seuls fonctionnaires de la fonction publique territoriale.
