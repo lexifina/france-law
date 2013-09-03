@@ -1,0 +1,9 @@
+# Réponse à la question n° 19337
+
+- Question : [19337](19337.md) — Question n° 19337 — balayage des rues
+
+## Réponse
+
+*JO du 2013-09-03*
+
+En application du principe de spécialité qui régit tous les établissements publics, un établissement public de coopération intercommunale (EPCI) ne peut intervenir que dans les domaines de compétences qui lui ont été transférés et sur le territoire de ses communes membres. Conformément à ce principe, un EPCI ne peut réaliser des prestations de services pour le compte d'autrui que s'il est expressément habilité à le faire. L'article L. 5214-16-1 du code général des collectivités territoriales donne cette habilitation aux communautés de communes en les autorisant à réaliser des prestations de services au bénéfice de leur communes membres. Toutefois, cette intervention qui est un élément de l'objet social (ou spécialité fonctionnelle), doit, en premier lieu, présenter un lien avec les compétences transférées à l'établissement. En effet, le transfert de compétences est constitutif de la catégorie juridique des EPCI (CE, 18 décembre 1991, SIVOM de Ste Geneviève des Bois). En second lieu, les prestations de services, qui constituent des interventions pour le compte d'autrui, ne peuvent avoir qu'un caractère marginal par rapport à l'activité globale de l'établissement. La prestation de service doit donc être ponctuelle ou d'une importance limitée. Enfin, l'intervention ne peut être mise en oeuvre qu'au moyen d'une convention. Celle-ci doit être préalable à l'action et doit déterminer notamment les relations financières des co-contractants. Il est un seul cas où un EPCI peut agir en dehors des compétences qui lui ont été transférées. Ce cas vise la création de services communs entre un EPCI et ses communes et concerne essentiellement les services fonctionnels tels que les ressources humaines, l'informatique, la gestion des finances. L'article L. 5111-4-2 en définit les règles et les modalités d'application.
