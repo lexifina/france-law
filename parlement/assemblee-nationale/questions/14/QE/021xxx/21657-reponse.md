@@ -1,0 +1,9 @@
+# Réponse à la question n° 21657
+
+- Question : [21657](21657.md) — Question n° 21657 — bénévoles; assurance; coût; prise en charge
+
+## Réponse
+
+*JO du 2013-09-03*
+
+En application de l'article L. 432-1 du code de l'environnement, « tout propriétaire d'un droit de pêche, ou son ayant cause, est tenu de participer à la protection du patrimoine piscicole et des milieux aquatiques. À cet effet, il ne doit pas leur porter atteinte et, le cas échéant, il doit effectuer les travaux d'entretien, sur les berges et dans le lit du cours d'eau, nécessaires au maintien de la vie aquatique. Avec l'accord du propriétaire, cette obligation peut être prise en charge par une association agréée de pêche et de protection du milieu aquatique (AAPPMA) ou par la fédération départementale des associations agréées de pêche et de protection du milieu aquatique qui, en contrepartie, exerce gratuitement le droit de pêche pendant la durée de la prise en charge de cette obligation ». Ainsi, pour pouvoir exercer gratuitement le droit de pêche, les AAPPMA prennent souvent en charge l'entretien des cours d'eau à la place des propriétaires. Par ailleurs, conformément à leurs statuts, ces associations peuvent effectuer tous travaux et interventions de mise en valeur piscicole, tels des inventaires piscicoles, la constitution de réserves, l'aménagement de frayères, des opérations de repeuplement, l'établissement de passes à poissons. En général, pour ces opérations, elles bénéficient de subventions de la part des collectivités territoriales, de l'Agence de l'eau ou de la fédération départementale. Les membres de ces associations participent souvent à la réalisation des opérations et ce, bénévolement. Pour les protéger en cas d'accident, il appartient aux AAPPMA de souscrire une assurance sur les fonds qu'elles perçoivent grâce aux cartes de pêche ou aux subventions dont elles bénéficient.
