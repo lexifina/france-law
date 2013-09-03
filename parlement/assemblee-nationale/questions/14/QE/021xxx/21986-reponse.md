@@ -1,0 +1,9 @@
+# Réponse à la question n° 21986
+
+- Question : [21986](21986.md) — Question n° 21986 — plafond; abaissement; conséquences
+
+## Réponse
+
+*JO du 2013-09-03*
+
+Le système du quotient familial a pour objet de proportionner l'impôt sur le revenu aux facultés contributives de chaque foyer fiscal. Les contribuables célibataires sont ainsi normalement imposés en fonction d'une part de quotient familial. Les couples mariés ou pacsés sont, quant à eux, imposés sur la base de deux parts de quotient familial. Par ailleurs, chacune des deux premières personnes à charge ouvre droit à une demi-part supplémentaire et chaque personne, à compter de la troisième, à une majoration d'une part de quotient familial. Cette dernière disposition permet donc d'intégrer la taille de la famille dans la détermination des facultés contributives en augmentant le nombre de parts du foyer fiscal. Cependant, la loi a limité, dans un souci d'équité, l'avantage que représente le quotient familial en plafonnant l'économie d'impôt qui résulte de son application. Afin de renforcer la progressivité et le caractère redistributif de l'impôt sur le revenu, l'article 4 de la loi de finances pour 2013 a abaissé de 2 336 € à 2 000 € pour chaque demi-part l'avantage maximum en impôt résultant de l'application du quotient familial attribué au titre des enfants à charge principale ou exclusive. Cette réforme n'a une incidence que sur les seuls foyers disposant de revenus élevés ayant des enfants mineurs ou majeurs à charge ou rattachés, soient environ 883 000 foyers fiscaux dont la cotisation d'impôt sur le revenu devrait augmenter en 2013 en moyenne de 555 euros environ. Ainsi, le plafonnement du quotient familial ne s'applique qu'à partir d'un niveau de revenu imposable élevé, soit, après application éventuelle de 10 % pour les revenus imposés dans la catégorie des traitements et salaires, de 61 158 euros pour un couple marié ou lié par un pacs avec un enfant.
