@@ -1,0 +1,9 @@
+# Réponse à la question n° 29259
+
+- Question : [29259](29259.md) — Question n° 29259 — tarifs; affichage
+
+## Réponse
+
+*JO du 2013-09-03*
+
+Le décret n° 2011-914 portant approbation de modifications du cahier des charges de la SNCF, publié au Journal officiel le 31 juillet 2011, a fait évoluer certaines dispositions relatives à l'encadrement par l'État des tarifs grandes lignes de la SNCF en seconde classe. En particulier, il a renforcé la lisibilité sur les prix pour les usagers en imposant à la SNCF d'afficher le tarif le moins élevé (hors tarifs promotionnels) et le tarif le plus élevé pour chaque relation. Ainsi, la SNCF publie ses « tarifs voyageurs » qui constituent les conditions générales de vente. Le volume 6 de ce document comporte un recueil des prix reprenant les prix minimum et maximum en première et seconde classe pour les relations TGV et les principaux trajets Intercités à réservation obligatoire. Ces informations sont disponibles sur internet ou sur demande dans les points de vente. Consciente de la complexité de sa tarification, la SNCF travaille à une meilleure communication sur ses prix auprès des voyageurs. Son guide TGV, diffusé chaque année à plusieurs centaines de milliers d'exemplaires, inclut un tableau tarifaire des cent destinations TGV les plus fréquentées, indiquant pour chacune d'elles un prix minimum, un prix maximum en seconde et première classes, la distinction entre période normale et période de pointe pour les prix en seconde classe, ainsi que les conditions d'échange et de remboursement. Un guide similaire est également édité pour Intercités. En outre, la SNCF a procédé à une refonte de son site internet afin d'en améliorer la clarté et d'y faciliter la recherche d'informations. Ce site propose, ainsi, un calendrier des prix permettant de repérer pour certaines relations, le tarif le plus avantageux sur une période d'un mois.
