@@ -1,0 +1,9 @@
+# Réponse à la question n° 23337
+
+- Question : [23337](23337.md) — Question n° 23337 — lutte et prévention; propositions
+
+## Réponse
+
+*JO du 2013-09-03*
+
+L'honorable parlementaire souhaite connaître l'avis de la garde des sceaux, ministre de la justice, sur la proposition formulée par le jury de la conférence de consensus sur la prévention de la récidive consistant à réfléchir à une prise en charge du suivi (réinsertion sociale) des détenus par le personnel de surveillance. La garde des Sceaux tient à saluer l'important travail issu de cette conférence, qui a démontré, sur la base d'une méthode innovante, qu'il est possible de réformer autrement la politique pénale qu'au gré des événements et de façon non polémique. Les recommandations qui ont été présentées le 20 février dernier vont permettre d'initier une nouvelle politique en matière de prévention de la récidive, qui est au coeur de l'action gouvernementale, et de prise en charge des personnes placées sous main de justice. Depuis cette date, la ministre de la justice conduit une série de consultations avec tous les acteurs concernés pour discuter avec eux du contenu de ces recommandations qui serviront à enrichir les réflexions en cours sur la préparation d'un projet de loi pénale qui sera prochainement présenté au Parlement. La représentation nationale aura alors l'occasion de débattre sur les propositions que la ministre de la justice aura souhaité retenir. Lors des deux journées d'audition des 14 et 15 février, différents professionnels de l'administration pénitentiaire ont pu faire part de leurs pratiques professionnelles dans la prise en charge et le suivi des personnes détenues. La prise en charge pluridisciplinaire relative à la réinsertion sociale des personnes détenues s'inscrira dans les mesures qui seront mises en place.
