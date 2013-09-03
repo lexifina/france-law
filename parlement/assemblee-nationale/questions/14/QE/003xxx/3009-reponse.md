@@ -1,0 +1,9 @@
+# Réponse à la question n° 3009
+
+- Question : [3009](3009.md) — Question n° 3009 — groupes d'élus; effectif minimal; réglementation
+
+## Réponse
+
+*JO du 2013-09-03*
+
+La possibilité de création de groupes d'élus dans les conseils généraux en application de l'article L.3121-24 du code général des collectivités territoriales permet à ces groupes de bénéficier de moyens matériels et en personnel et de disposer d'un droit d'expression dans le bulletin d'information municipal. Cette possibilité est également prévue pour les conseils régionaux et les communes de plus de 100 000 habitants. Le législateur n'a pas fixé d'effectif minimum pour constituer un groupe. Toutefois, selon les termes de l'article L.3121-24 précité, un élu ne pourrait à lui seul constituer un groupe. La juridiction administrative a reconnu aux assemblées délibérantes la faculté de fixer, dans le règlement intérieur, sous le contrôle du juge de l'excès de pouvoir, un effectif minimum de conseillers pour la constitution d'un groupe d'élus (CAA de Marseille, 6 juillet 2004, n° 00MA01374 ; CAA de Nancy, 4 juin 1998, n° 97NC02102). Il appartient au juge administratif d'apprécier le cas échéant l'erreur manifeste d'appréciation, dans l'hypothèse où le seuil minimum requis par le règlement intérieur de l'assemblée délibérante pour constituer un groupe apparaissait aux élus trop élevé. Dans son arrêt du 4 juin 1998 précité, la cour administrative d'appel de Nancy a rappelé que l'exigence d'un nombre minimum de membres pour constituer un groupe ne porte, par elle-même, atteinte ni à la liberté d'information et d'expression, ni aux droits et prérogatives particulières qu'à titre individuel les élus qui ne font pas partie d'un groupe tiennent de leur qualité de membres d'une assemblée délibérante. Il n'est donc pas envisagé à ce stade de prévoir des mesures particulières sur les moyens donnés aux élus n'appartenant pas à un groupe d'élus.
