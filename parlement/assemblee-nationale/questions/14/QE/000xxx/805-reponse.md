@@ -1,0 +1,9 @@
+# Réponse à la question n° 805
+
+- Question : [805](805.md) — Question n° 805 — vente d'alcool; officines de pharmacie; réglementation
+
+## Réponse
+
+*JO du 2013-09-03*
+
+L'article 27 de la directive n° 92/83/CEE du Conseil du 19 octobre 1992 concernant l'harmonisation des structures des droits d'accises sur l'alcool et les boissons alcooliques prévoit les conditions d'exonération des droits d'accises sur l'alcool. Aux termes de cet article, sont notamment exonérés des droits d'accises l'alcool et les boissons alcooliques utilisés à des fins médicales dans les pharmacies. Ce régime d'exonération qui a été transposé en droit français par l'ordonnance n° 2001-766 du 29 août 2001 n'autorise pas la vente d'alcool non dénaturé en exonération de droits d'accises par les pharmaciens. La direction générale des douanes et droits indirects (DGDDI) a élaboré, en 2011, en lien avec le conseil national de l'ordre des pharmaciens et les organisations professionnelles, un document rappelant les règles relatives à la vente d'alcool en pharmacie. Par ailleurs, la loi de finances rectificative n° 2012-354 du 14 mars 2012 a modifié le II g de l'article 302 D bis du code général des impôts (CGI). Aux termes de cet article, est exonéré de droits d'accises, « l'alcool utilisé à des fins médicales ainsi que dans les pharmacies et dans la limite d'un contingent annuel fixé par l'administration, l'alcool pur acquis par les pharmaciens d'officine ». Toutefois, ce nouveau dispositif n'est pas compatible avec la directive européenne, ce qui fait obstacle à son application. Ainsi, les conditions d'exonération de l'alcool utilisé en pharmacie restent conformes aux dispositions reprises dans le document de synthèse cité ci-dessus. Les pharmaciens ne peuvent vendre aux particuliers que de l'alcool en droits acquittés.
