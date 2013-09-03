@@ -1,0 +1,9 @@
+# Réponse à la question n° 14289
+
+- Question : [14289](14289.md) — Question n° 14289 — mise en place; répartition géographique
+
+## Réponse
+
+*JO du 2013-09-03*
+
+La loi de finances pour 2013 a prévu que 100 000 emplois d'avenir seront déployés d'ici la fin de l'année 2013 et 50 000 supplémentaires en 2014. Parmi ces 100 000, 6000 sont dédiés aux emplois d'avenir professeur et font l'objet d'une programmation du ministère de l'éducation nationale, du ministère de l'agriculture et de l'agroalimentaire et de la forêt. L'enveloppe nationale des emplois d'avenir hors enveloppe éducation nationale est donc de 94 000 pour une période allant du 1er novembre 2012 au 31 décembre 2013. Les emplois d'avenir devant être ciblés en priorité sur les jeunes résidant dans les zones urbaines sensibles (ZUS), les zones de revitalisation rurale (ZRR) et les territoires ultra-marins, la répartition régionale de l'enveloppe repose en partie sur le nombre de jeunes résidant dans ces zones. Compte tenu des spécificités des territoires ultramarins, une enveloppe de 9 000 emplois d'avenir (secteurs non marchand et marchand), soit 9,5 % de l'enveloppe globale, leur est réservée. S'agissant de l'enveloppe restante de 85 000 emplois d'avenir, la répartition entre les régions de France métropolitaine a été réalisée selon les clés suivantes relatives au public cible : la part des demandeurr d'emploi en fin de mois (DEFM) jeunes de niveaux de formation V et infra (30%), la part des jeunes en demande d'insertion de niveaux de formation V sans diplôme et infra (30%), la part de la population jeune résidant en ZUS suivie en Mission locale (30%), la part de la population jeune résidant en ZRR suivie en Mission locale (10%). Pour 2013, 2154 emplois d'avenir ont été programmés pour le département de l'Essonne.
