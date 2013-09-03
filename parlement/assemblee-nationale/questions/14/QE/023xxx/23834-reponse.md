@@ -1,0 +1,9 @@
+# Réponse à la question n° 23834
+
+- Question : [23834](23834.md) — Question n° 23834 — EHPAD; construction; réglementation
+
+## Réponse
+
+*JO du 2013-09-03*
+
+Le 8 du I et le II de l'article 278 sexies du code général des impôts, issus de la loi n° 2007-290 du 5 mars 2007 instituant le droit au logement opposable et portant diverses mesures en faveur de la cohésion sociale, soumettent au taux réduit de TVA les livraisons et les livraisons à soi-même de locaux d'établissements d'hébergement de personnes âgées dépendantes dès lors qu'ils respectent quatre conditions cumulatives. Ces établissements doivent ainsi agir sans but lucratif. De plus, leur gestion doit être désintéressée. Par ailleurs, les personnes âgées hébergées doivent remplir les critères d'éligibilité au prêt locatif social (PLS) prévu par l'article R. 331-1 du code de la construction. Enfin, ces locaux doivent faire l'objet d'une convention entre le propriétaire ou les gestionnaires des locaux et le représentant de l'Etat dans le département. Dès lors, pour bénéficier du taux réduit de TVA, les constructions d'établissements d'hébergement de personnes âgées dépendantes doivent satisfaire à ces quatre conditions, et notamment celle relative à l'accueil de personnes disposant de ressources inférieures aux plafonds du PLS, indépendamment des modalités de financement de l'établissement. Dans le cadre du plan d'investissement pour le logement, le Président de la République a annoncé le 21 mars 2013 que le taux de la TVA sur le logement social sera abaissé à 5 % pour les livraisons de logements qui interviendront à compter du 1er janvier 2014. Le projet de loi de finances pour 2014 en cours d'élaboration inclura cette mesure et le Gouvernement restera attentif à la situation des constructions d'établissements d'hébergements des personnes âgées dépendantes susceptibles de bénéficier de ce taux réduit de 5 %.
