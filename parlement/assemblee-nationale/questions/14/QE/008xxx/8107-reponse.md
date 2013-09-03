@@ -1,0 +1,9 @@
+# Réponse à la question n° 8107
+
+- Question : [8107](8107.md) — Question n° 8107 — revalorisation
+
+## Réponse
+
+*JO du 2013-09-03*
+
+La loi du 21 août 2003 portant réforme des retraites prévoit l'indexation des pensions de retraite sur les prix. Par ailleurs, la loi de financement de la sécurité sociale (LFSS) pour 2009 a prévu que les retraites seraient désormais revalorisées le 1er avril et non le 1er janvier. Ainsi, les pensions de vieillesse du régime général ont été revalorisées de 1,3 % au 1er avril 2013. L'allocation de solidarité aux personnes âgées (ASPA) est un avantage non contributif accordé, sur demande, aux personnes âgées d'au moins 65 ans (ou à partir de l'âge légal de départ en retraite dans certains cas : inaptes au travail, anciens combattants...). Le plafond mensuel de ressources pour bénéficier de l'ASPA, ainsi que son montant mensuel maximal, s'élèvent, au 1er avril 2013, à 787,26 € par mois pour une personne seule et à 1 222,27 € pour un couple. L'ASPA est donc attribuée comme une allocation différentielle dans la limite du plafond de ressources précité. Le rapport des niveaux de vie moyens entre retraités et actifs affiche en France une quasi parité, avec un taux supérieur à 95 % en 2010. La pauvreté est ainsi en baisse parmi les retraités et plus faible que dans l'ensemble de la population, sous l'effet conjugué de l'amélioration des carrières et des mécanismes de revalorisation des pensions qui participent au maintien d'un haut niveau de remplacement des revenus d'activité par les pensions. Sur la base des conclusions des travaux de la commission pour l'avenir des retraites, présidée par Madame Yannick Moreau, le Gouvernement a engagé avec les partenaires sociaux une concertation sur les évolutions souhaitables de notre système de retraite, permettant d'assurer l'équilibre des régimes à court, moyen et long terme et d'en renforcer la justice, l'équité et la lisibilité pour les assurés.
