@@ -1,0 +1,9 @@
+# Réponse à la question n° 30687
+
+- Question : [30687](30687.md) — Question n° 30687 — exploitation; pérennité
+
+## Réponse
+
+*JO du 2013-09-03*
+
+La ligne Paris-Toulouse-Latour-de-Carol est une desserte nocturne quotidienne intégrée au périmètre de la convention pour l'exploitation des trains d'équilibre du territoire (TET). Cette desserte est proposée pour répondre au besoin de déplacement de nuit, au vu des temps de parcours réalisables, entre, d'une part, la région parisienne et, d'autre part, l'Ariège et la principauté d'Andorre. Les flux internationaux d'échange entre la France et l'Espagne sont traités par les itinéraires côtiers via Cerbère/Port-Bou et Hendaye/Irun. Les suppressions effectives des trains 3971 et 3970 aussi bien en 2013 qu'en 2012 sont dues essentiellement aux travaux, nécessaires pour garantir la pérennité de la ligne. Les intempéries hivernales et, par conséquent, les interdictions préfectorales de circuler sur cette ligne ont également contribué à la diminution de l'offre. Les périodes de travaux ont lieu principalement en milieu de semaine, ce qui permet de faire circuler ces trains les week-ends, périodes où le trafic est le plus élevé. Cependant, certains travaux, nécessitant cinq fois dans l'année des périodes de 48 à 72 heures de coupure totale du trafic entre Paris et Toulouse, occasionnent la suppression de ces trains durant ces week-ends. Pour offrir des possibilités de transport supplémentaires aux abonnés TER de la ligne, qui ne font donc pas partie de la clientèle de longue distance de nuit, la SNCF maintient dans les deux sens une offre place assise assortie d'une dérogation entre Toulouse et Latour-de-Carol pour autoriser l'emprunt de ce train national à réservation obligatoire, que ces abonnés ne pourraient normalement pas emprunter avec leur titre de transport régional.
