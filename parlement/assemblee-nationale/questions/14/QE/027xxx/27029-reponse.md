@@ -1,0 +1,9 @@
+# Réponse à la question n° 27029
+
+- Question : [27029](27029.md) — Question n° 27029 — FIMO-FCO; champ d'application
+
+## Réponse
+
+*JO du 2013-09-03*
+
+Les obligations de formation des conducteurs routiers s'appliquent, conformément à l'article 1er de la directive n° 2003/59/CE du Parlement européen et du Conseil du 15 juillet 2003, à tous les conducteurs qui effectuent un transport de marchandises ou de voyageurs au moyen d'un véhicule pour lequel un permis poids-lourd est requis. Les commerçants qui transportent des produits sur des lieux de vente, au moyen de véhicules de plus de 3,5 tonnes, entrent donc dans le champ des obligations de formation, même si ces véhicules sont aménagés en camions-magasins. L'exemption prévue au point f de l'article 2 de la directive précitée et transposée par l'article 1-4-f de l'ordonnance n° 58-1310 du 28 décembre 1958 pour les conducteurs des « véhicules utilisés pour des transports non commerciaux de voyageurs ou de biens dans des buts privés », concerne uniquement les transports effectués dans des buts privés et ne peut s'appliquer aux transports effectués dans un cadre professionnel. L'exemption prévue au point g de l'article 2 de la directive du 15 juillet 2003 et transposée par l'article 1-4-g de l'ordonnance précitée pour les « véhicules transportant du matériel ou de l'équipement, à utiliser dans l'exercice du métier de leur conducteur, à condition que la conduite du véhicule ne représente pas l'activité principale du conducteur » ne s'applique pas à l'activité de commerce non sédentaire. La marchandise transportée aux fins de vente ne peut, en effet, pas être considérée comme du matériel ou de l'équipement, même si les véhicules utilisés sont équipés ou aménagés spécialement pour la vente et que l'activité de conduite ne constitue pas leur activité principale. Les commerçants non sédentaires effectuent une activité de transport de marchandises et ne bénéficient donc pas de cette exemption.
