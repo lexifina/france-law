@@ -1,0 +1,9 @@
+# Réponse à la question n° 25464
+
+- Question : [25464](25464.md) — Question n° 25464 — implantation d'éoliennes; réglementation
+
+## Réponse
+
+*JO du 2013-09-03*
+
+L'application de la réglementation en matière de balisage des obstacles à la navigation aérienne et notamment de la spécification des feux de balisage des éoliennes relève de la direction générale de l'aviation civile (DGAC). Celle-ci précise que le balisage des obstacles, et plus particulièrement des éoliennes, est nécessaire afin d'assurer un niveau de sécurité acceptable pour les usagers de l'espace aérien. Il est réglementé par deux arrêtés : - l'arrêté du 13 novembre 2009 relatif à la réalisation du balisage des éoliennes situées en dehors des zones grevées de servitudes aéronautique ; - l'arrêté du 7 décembre 2010 modifié relatif à la réalisation du balisage des obstacles à la navigation aérienne. Ces arrêtés prévoient que les feux de balisage des éoliennes soient conformes à des spécifications techniques, alignées en ce qui concerne la fréquence d'éclat sur les recommandations de l'organisation de l'aviation civile internationale (OACI). En pratique, la fréquence retenue est de 40 éclats par minute. Cette valeur est également celle privilégiée par les États-Unis, équipés d'un nombre important d'éoliennes et ayant une activité aéronautique intense. Par ailleurs, il est demandé que les éclats soient blancs le jour et rouges la nuit, ce qui est de nature à réduire les nuisances tout en améliorant la visibilité pour les pilotes la nuit. Enfin, l'exigence française de balisage de chaque éolienne d'un parc éolien, qui va au-delà des recommandations de l'OACI de baliser les éoliennes délimitant le contour d'un parc éolien, vise à répondre aux besoins de sécurité des vols militaires à basse altitude. Les éoliennes implantées avant le 1er mars 2010 doivent se mettre en conformité avec ces différentes exigences d'ici le 1er mars 2015.
