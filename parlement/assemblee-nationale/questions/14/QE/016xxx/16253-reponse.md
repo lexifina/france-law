@@ -1,0 +1,9 @@
+# Réponse à la question n° 16253
+
+- Question : [16253](16253.md) — Question n° 16253 — régime des artistes auteurs
+
+## Réponse
+
+*JO du 2013-09-03*
+
+L'article R. 382-1 précise les règles applicables à l'affiliation au régime général de la sécurité sociale au titre d'une activité professionnelle d'artiste auteur. Ces règles permettent aux artistes auteurs dont l'activité est temporairement réduite de rester affiliés à ce titre. Toutefois, lorsque l'artiste a tiré pendant cinq années successives un revenu annuel inférieur à la moitié du seuil d'affiliation (fixé à 900 fois la valeur horaire moyenne du salaire minimum de croissance sur un an), il n'a plus droit à l'affiliation au titre de ses activités artistiques et la caisse primaire d'assurance maladie doit prononcer sa radiation. La caisse se trouve en situation de compétence liée. A titre dérogatoire, l'artiste peut toutefois demander le maintien de son affiliation au titre de ses activités artistiques auprès de l'association pour la gestion de la sécurité sociale des artistes auteurs (AGESSA). Le maintien de l'affiliation peut alors être prononcé à titre dérogatoire sur proposition motivée du directeur de l'organisme ou du médecin-conseil de la caisse. Il n'est pas envisagé de modifier ces dispositions qui permettent donc déjà à l'artiste auteur de demander le maintien à titre dérogatoire de son affiliation au régime général, au titre de ses activités artistiques, lorsque son revenu est réduit sous le seuil précité plus de cinq années consécutives. Par ailleurs, l'artiste auteur qui ne remplit plus les conditions d'affiliation au titre de ses activités artistiques peut bénéficier du droit aux prestations en nature d'assurance maladie, selon sa situation, en tant qu'ayant droit, au titre d'autres activités professionnelles ou par le biais de la couverture maladie universelle.
