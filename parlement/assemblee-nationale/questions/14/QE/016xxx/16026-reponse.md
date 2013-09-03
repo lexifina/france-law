@@ -1,0 +1,9 @@
+# Réponse à la question n° 16026
+
+- Question : [16026](16026.md) — Question n° 16026 — ressources collectées; emploi
+
+## Réponse
+
+*JO du 2013-09-03*
+
+Depuis le 1er mars 2012, date d'entrée en vigueur de la taxe d'aménagement, la taxe départementale des espaces naturels sensibles et la taxe départementale pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement sont regroupées, pour leur assiette, au sein de la part départementale de la taxe d'aménagement. En revanche, les affectations légales antérieures de ces deux taxes n'ont pas été modifiées. La possibilité d'utiliser la fraction de la part départementale de la taxe d'aménagement affectée aux espaces naturels sensibles dans les deux cas précis évoqués par l'honorable parlementaire appelle les précisions suivantes. La fraction de la part départementale de la taxe d'aménagement affectée aux espaces naturels sensibles ne peut être utilisée pour financer des projets immobiliers (touristiques ou pédagogiques) de grande dimension (plus de trois millions d'euros). De tels emplois de cette taxe n'entrent ni dans ses objectifs définis à l'article L. 142-1 du code de l'urbanisme, ni dans ses affectations limitativement énumérées à l'article L. 142-2 du même code. En revanche, cette taxe permet le financement des charges salariales des agents en charge de la politique des espaces naturels sensibles. Il s'agit des charges salariales comprises dans les seules dépenses autorisées par l'article L. 142-2 du code de l'urbanisme. La liste des utilisations possibles de la fraction de la part départementale de la taxe d'aménagement affectée aux espaces naturels sensibles, visées à l'article L. 142-2 précité, est limitative car cette taxe constitue une recette de nature fiscale. Par conséquent, son utilisation ne peut être interprétée que de manière stricte et restrictive, conformément à une jurisprudence administrative fiscale constante.
