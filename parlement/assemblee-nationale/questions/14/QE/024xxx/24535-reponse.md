@@ -1,0 +1,9 @@
+# Réponse à la question n° 24535
+
+- Question : [24535](24535.md) — Question n° 24535 — rapport; Cour des comptes; conclusions
+
+## Réponse
+
+*JO du 2013-09-03*
+
+L'allocation en faveur des demandeurs d'emploi en formation (AFDEF), créée par décret du 22 avril 2009, s'adresse aux demandeurs d'emploi qui se sont engagés dans une action de formation en 2009 et dont la durée des droits à indemnisation ne couvre pas la durée totale de formation. L'AFDEF prend alors le relais de l'allocation d'aide au retour à l'emploi jusqu'au terme de la formation. Cette allocation, reconduite à titre exceptionnel en 2010, a été supprimée le 1er janvier 2011. La rémunération de fin de formation (R2 F) a été créée le 11 avril 2011 et reconduite à titre exceptionnel en 2012 puis en 2013 pour tenir compte des difficultés auxquelles sont confrontés certains demandeurs d'emploi en formation, notamment du fait de la non reconduction de l'AFDEF. La R2 F est un dispositif financé par l'Etat et par le fonds de sécurisation des parcours professionnels (FPSPP) qui vise, comme l'AFDEF, à garantir aux demandeurs d'emploi indemnisés un revenu de remplacement jusqu'à la fin de leur formation. Cette allocation est versée par pôle emploi aux demandeurs d'emploi indemnisés qui suivent une action de formation dont la durée excède celle de leurs droits à indemnisation au titre de l'assurance chômage. Pour bénéficier de ce dispositif, les demandeurs d'emploi doivent s'engager à suivre une formation qualifiante leur permettant d'accéder plus rapidement à un emploi. Les formations éligibles à la R2 F doivent en outre permettre aux demandeurs d'emploi d'accéder à un métier en tension, identifié comme tel par arrêté du Préfet de région. Le montant de cette aide s'élève à 652,02 € par mois. En 2011 et 2012, 24 430 personnes ont pu bénéficier de la R2 F ce qui représente un coût global de 81,7 M€. Ce dispositif a été reconduit en 2013 pour permettre à 30 000 personnes d'en bénéficier.
