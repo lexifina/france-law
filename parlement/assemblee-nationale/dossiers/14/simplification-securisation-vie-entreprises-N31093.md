@@ -1,0 +1,70 @@
+# Entreprises : mesures de simplification et de sécurisation
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N31093
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/simplification_securisation_vie_entreprises
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-028.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-09-04 : 1er dépôt d'une initiative. (PRJLANR5L14B1341)
+  - 2013-09-04 : Etude d'impact (ETDIANR5L14B1341)
+  - 2013-09-04 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-09-04 : Renvoi en commission au fond
+      - 2013-09-11 : Nomination de rapporteur
+      - 2013-09-11 : Réunion de commission
+      - 2013-09-18 : Réunion de commission
+      - 2013-10-01 : Réunion de commission
+      - 2013-09-18 : Dépôt de rapport (RAPPANR5L14B1386, PRJLANR5L14BTC1386)
+    - Travaux d'une commission saisie pour avis
+      - 2013-09-05 : Saisine pour avis d'une commission
+      - 2013-09-11 : Nomination de rapporteur
+      - 2013-09-18 : Réunion de commission
+      - 2013-09-18 : Dépôt de rapport (AVISANR5L14B1379)
+    - Travaux d'une commission saisie pour avis
+      - 2013-09-05 : Saisine pour avis d'une commission
+      - 2013-09-11 : Nomination de rapporteur
+      - 2013-09-18 : Réunion de commission
+      - 2013-09-18 : Dépôt de rapport (AVISANR5L14B1364)
+  - Discussion en séance publique
+    - 2013-10-01 : Discussion en séance publique
+    - 2013-10-01 : Discussion en séance publique
+    - 2013-10-01 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2013-10-02 : Dépôt d'une initiative en navette (PRJLSNR5S219B0028)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-10-02 : Renvoi en commission au fond
+      - 2013-10-16 : Nomination de rapporteur
+      - 2013-12-04 : Dépôt de rapport (RAPPSNR5S219B0201)
+    - Travaux d'une commission saisie pour avis
+      - 2013-10-16 : Saisine pour avis d'une commission
+      - 2013-10-16 : Nomination de rapporteur
+      - 2013-11-21 : Dépôt de rapport (AVISSNR5S219B0164)
+    - Travaux d'une commission saisie pour avis
+      - 2013-11-06 : Saisine pour avis d'une commission
+      - 2013-11-06 : Nomination de rapporteur
+      - 2013-12-03 : Dépôt de rapport (AVISSNR5S219B0184)
+    - Travaux d'une commission saisie pour avis
+      - 2013-11-13 : Saisine pour avis d'une commission
+      - 2013-11-13 : Nomination de rapporteur
+      - 2013-12-03 : Dépôt de rapport (AVISSNR5S219B0185)
+  - Discussion en séance publique
+    - 2013-12-09 : Discussion en séance publique
+    - 2013-12-09 : Décision
+- deuxième lecture
+  - 2013-12-10 : Dépôt d'une initiative en navette (PRJLANR5L14B1617)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-12-10 : Renvoi en commission au fond
+      - 2013-12-17 : Réunion de commission
+      - 2013-12-17 : Dépôt de rapport (RAPPANR5L14B1653, PRJLANR5L14BTC1653)
+  - Discussion en séance publique
+    - 2013-12-19 : Discussion en séance publique
+    - 2013-12-19 : Décision
+- Promulgation de la loi
+  - 2014-01-02 : Promulgation d'une loi
