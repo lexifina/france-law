@@ -448,6 +448,22 @@ Valeur par défaut détaillée pour la culture
 
 |
 
+Alsace
+
+|
+
+23
+
+|
+
+Aquitaine
+
+|
+
+26
+
+|
+
 Auvergne
 
 |
@@ -689,6 +705,14 @@ Pays de la Loire
 |
 
 Poitou-Charentes
+
+|
+
+16
+
+|
+
+Provence-Alpes-Côte d'Azur
 
 |
 

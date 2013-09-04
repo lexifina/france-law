@@ -178,15 +178,13 @@ Valeur par défaut détaillée pour la culture
 
 |
 
-Aucune région productrice
+Provence-Alpes-Côte d'Azur
 
 |
 
--
+33 |
 
-|
-
-Les régions Alsace, Aquitaine, Corse, Provence-Alpes-Côte d'Azur, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional
+La région Corse, faiblement productrice, ne dispose pas de données robustes sur les itinéraires techniques au niveau régional
 
 |
 
@@ -214,9 +212,7 @@ Valeur par défaut détaillée pour la culture
 
 |
 
-18
-
-|
+18 |
 
 Aucune région productrice
 
@@ -226,7 +222,7 @@ Aucune région productrice
 
 |
 
-Les régions Alsace, Basse-Normandie, Bretagne, Corse, Franche-Comté, Haute-Normandie, Limousin, Lorraine, Nord - Pas-de-Calais, Picardie, Provence-Alpes-Côte d'Azur, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional
+Les régions Alsace, Basse-Normandie, Bretagne, Corse, Franche-Comté, Haute-Normandie, Limousin, Lorraine, Nord-Pas-de-Calais, Picardie, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional
 
 |
 
