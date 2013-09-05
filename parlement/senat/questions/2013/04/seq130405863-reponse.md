@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130405863
+
+- Question : [SEQ130405863](seq130405863.md) — Droit des veuves des anciens combattants en matière fiscale
+
+## Réponse
+
+*Budget, JO du 2013-09-05, page 2561*
+
+En application du f du 1 de l'article 195 du code général des impôts (CGI), le quotient familial des personnes âgées de plus de 75 ans et titulaires de la carte du combattant ou d'une pension servie en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de guerre est majoré d'une demi-part supplémentaire. Cet avantage constitue une exception au principe du quotient familial, puisqu'il ne correspond à aucune charge effective, ni charge de famille, ni charge liée à une invalidité. Cette disposition est également applicable aux personnes âgées de plus de 75 ans, veuves de personnes remplissant toutes les conditions requises, ce qui suppose que le défunt a été en mesure de bénéficier, au moins au titre d'une année d'imposition, de la demi-part mentionnée ci-dessus. Il en résulte effectivement que les veuves des personnes titulaires de la carte du combattant n'ayant pas atteint l'âge de 75 ans ne peuvent pas bénéficier de cette demi-part supplémentaire. Cette situation ne constitue pas un traitement défavorable pour les personnes concernées mais n'est que la conséquence du motif justifiant le bénéfice de la demi-part supplémentaire pour celles des veuves pouvant en bénéficier. En effet, le maintien de la demi-part au bénéfice de la personne veuve en cas de décès du titulaire de la carte d'ancien combattant après 75 ans, se justifie par la volonté d'éviter que la perte de cette demi-part, dont elle bénéficiait avant ce décès, puisse la pénaliser. Les veuves des personnes titulaires de la carte du combattant n'ayant pas atteint l'âge de 75 ans ne sont pas dans cette situation ce qui explique qu'elles ne bénéficient pas de cette demi-part supplémentaire.
