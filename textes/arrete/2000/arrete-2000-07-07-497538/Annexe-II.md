@@ -758,7 +758,7 @@ SARL Dourmap et Cie :
 
 SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
 
-SARL Michel LE BEC mécanique marine Ter r e - p l e i n O u e s t , p o r t d e Lesconil , 29740 Plobannalec De 1980 à 2000.
+SARL Michel LE BEC mécanique marine Terre-plein Ouest, port de Lesconil , 29740 Plobannalec De 1980 à 2000.
 
 SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau, depuis 1950 et FCRN (Finistérienne de construction et de réparation navales), ZI du Moros, 29900 Concarneau, depuis 1995, puis PNS (Piriou naval services), ZI du Moros, 29900 Concarneau, depuis 2008.
 
@@ -1234,9 +1234,9 @@ SERMI :
 
 - 76600 Le Havre : depuis 1960.
 
-service des bacs et passage d'eau du conseil général de la Seine-Maritime, hôtel du département, quai Jean-Moulin, 76101 Rouen Cedex 1, de 1947 à 1996
+Service des bacs et passage d'eau du conseil général de la Seine-Maritime, hôtel du département, quai Jean-Moulin, 76101 Rouen Cedex 1, de 1947 à 1996
 
-Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard Bois-Guilbert, BP 4075, 76100 Rouen, de 1947 à 2012.
+Service technique de l'outillage/SEO, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen 34, boulevard Boisguilbert, BP 4075, 76100 Rouen, de 1947 à 2012
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
 
@@ -1496,7 +1496,7 @@ Caloin SA :
 
 - 7, place de l'Europe, 59140 Dunkerque : depuis 1969.
 
-CEGELEC/ALSTOM, 24, route de Fort-Mardyck, BP 4, Le Triangle, 59430 Saint-Pol-sur-Mer : depuis 1965.
+CEGELEC/ALSTOM 24, route de Fort-Mardyck, BP 4, Le Triangle, 59430 Saint-Pol-sur-Mer, de 1965 à 1987
 
 CFEM-Comenord/CFEM, avant-port Ouest, 59820 Gravelines : de 1974 à 1986.
 
