@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204575
+
+- Question : [SEQ130204575](seq130204575.md) — Encadrement des manifestations sportives
+
+## Réponse
+
+*Intérieur, JO du 2013-09-05, page 2573*
+
+La facturation des prestations des gendarmes et des policiers lors de leurs missions de sécurité ou d'encadrement de manifestations sportives s'effectue sur la base des dispositions contenues dans la circulaire ministérielle n° NOR IOCK1025832C du 8 novembre 2010. Cette dernière rappelle notamment la loi du 3 août 2009 qui impose l'harmonisation et la rationalisation du régime de facturation des forces de police et de gendarmerie. L'arrêté NOR IOCF1022874A du 28 octobre 2010, relatif au remboursement de certaines dépenses supportées par les forces de l'ordre, prévoit dans son article 2 une augmentation constante du taux horaire par agent qui s'élèvera à 18,45 euros au 1er juillet 2013 et culminera à 20,00 euros au 1er juillet 2014. Ces conditions de facturation visent à limiter au strict nécessaire l'intervention des forces de sécurité et s'appliquent lorsque leurs actions dépassent « les obligations normales incombant à la puissance publique ». Les frais des services d'ordre doivent alors faire, de la part des organisateurs, l'objet d'un remboursement à l'État. Pour les courses cyclistes ne faisant pas déjà l'objet d'une convention au niveau national, une convention cadre a été signée le 7 janvier 2011 entre le ministère de l'intérieur et les responsables nationaux du cyclisme (cf. circulaire n° NOR IOCK1100745C). Afin de ne pas mettre en péril l'avenir des petites courses cyclistes, cette convention précise que l'augmentation du coût total des forces de l'ordre pour l'année 2011 serait plafonnée à 15 % de la facture réelle de 2010. Il en serait de même pour les années 2012, 2013 et 2014 par rapport à l'année précédente, à prestation équivalente. Les courses cyclistes organisées localement bénéficient donc d'un régime dérogatoire depuis l'année 2011.
