@@ -1,8 +1,8 @@
 # Article ANNEXE
 
-STATUTS DE L'ÉTABLISSEMENT PUBLIC
+Statuts de
 
-DE COOPÉRATION SCIENTIFIQUE UNIVERSITÉ DE BORDEAUX
+la Communauté d'universités et établissements d'Aquitaine
 
 Chapitre Ier
 
@@ -10,7 +10,7 @@ Dispositions générales
 
 Article 1er
 
-Université de Bordeaux est un établissement public de coopération scientifique régi par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
+Communauté d'universités et établissements d'Aquitaine est un établissement public de coopération scientifique régi par les articles L. 344-1 et L. 344-4 à L. 344-10 du code de la recherche et par les présents statuts.
 
 L'établissement est chargé de mener les projets d'intérêt commun et de gérer les moyens qui leur sont consacrés.
 
@@ -56,7 +56,7 @@ L'établissement comprend également les membres associés suivants :
 
 -l'école d'enseignement supérieur d'art de Bordeaux.
 
-Les membres fondateurs s'obligent à indiquer dans tous les vecteurs de leur communication leur appartenance à l'Université de Bordeaux.
+Les membres fondateurs s'obligent à indiquer dans tous les vecteurs de leur communication leur appartenance à la Communauté d'universités et établissements d'Aquitaine.
 
 Article 3
 
@@ -70,21 +70,21 @@ L'établissement a pour mission de :
 
 -assurer le portage et la mise en œuvre opérationnelle des programmes d'investissements d'avenir pour le compte des membres partenaires de l'IdEx tels que définis dans la convention n° ANR-10-IDEX-03-02 et dans le respect des règles de gouvernance et d'organisation adoptées par son conseil de gestion ;
 
--assurer la préparation opérationnelle de la création de la nouvelle Université de Bordeaux ;
+-assurer la préparation opérationnelle de la création de la nouvelle Communauté d'universités et établissements d'Aquitaine ;
 
--assurer la préparation opérationnelle de l'évolution du pôle de recherche et d'enseignement supérieur (PRES) Université de Bordeaux vers un PRES à vocation régionale ;
+-assurer la préparation opérationnelle de l'évolution du pôle de recherche et d'enseignement supérieur (PRES) Communauté d'universités et établissements d'Aquitaine vers un PRES à vocation régionale ;
 
--assurer la valorisation des activités de recherche des membres d'Université de Bordeaux ;
+-assurer la valorisation des activités de recherche des membres de la Communauté d'universités et établissements d'Aquitaine ;
 
 -développer la coopération au sein d'actions à caractère scientifique, technologique, professionnel, éducatif et culturel, et notamment :
 
--coordonner des actions communes, mutualiser l'évaluation, entreprendre toute action relative à l'information, l'orientation et l'insertion professionnelle des étudiants des établissements membres d'Université de Bordeaux,
+-coordonner des actions communes, mutualiser l'évaluation, entreprendre toute action relative à l'information, l'orientation et l'insertion professionnelle des étudiants des établissements membres de la Communauté d'universités et établissements d'Aquitaine,
 
 -coordonner l'accueil des étudiants, enseignants et chercheurs,
 
 -favoriser la mobilité des étudiants, enseignants et chercheurs vers l'étranger ;
 
--accroître la visibilité internationale d'Université de Bordeaux par des actions fortement cohérentes, en particulier :
+-accroître la visibilité internationale de la Communauté d'universités et établissements d'Aquitaine par des actions fortement cohérentes, en particulier :
 
 -entreprendre toute action de coopération européenne et internationale, bilatérale et multilatérale avec des institutions et établissements étrangers dans l'intérêt commun et le cadre légal défini par les pouvoirs publics,
 
@@ -96,7 +96,7 @@ L'établissement a pour mission de :
 
 -coordonner l'action de ses membres dans leurs relations communes avec les partenaires institutionnels ;
 
--promouvoir à l'échelon régional, national et international les activités du pôle et le label Université de Bordeaux ;
+-promouvoir à l'échelon régional, national et international les activités du pôle et le label Communauté d'universités et établissements d'Aquitaine ;
 
 -contribuer à la coordination et au développement des services offerts aux étudiants en matière de santé, de culture et de sport ;
 
