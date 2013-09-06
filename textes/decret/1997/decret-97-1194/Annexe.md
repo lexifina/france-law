@@ -1,7 +1,5 @@
 # Article Annexe
 
-<
-
 TITRE Ier
 
 LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
@@ -2842,17 +2840,17 @@ Article 5.
 
 |
 
-Décret n° 95-589 du 6 mai 1995 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions
+Décret n° 2013-700 du 30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à l’établissement d’un contrôle des armes moderne, simplifié et préventif
 
 1
 
 |
 
-Autorisation d'importation de matériels de guerre, armes et munitions.
+Permis de transfert.
 
 |
 
-Article 72.
+Article 149.
 
 |
 
@@ -2860,25 +2858,55 @@ Article 72.
 
 |
 
-Permis, agrément et accord préalable de transfert d'armes à feu et de munitions vers et en provenance d'un autre Etat-membre.
+Agrément de transfert.
 
 |
 
-Articles 92, 93 et 94.
+Article 150.
 
 |
 
 3 |
 
-Délivrance d’un certificat international d’importation et d’un certificat de vérification de
-
-livraison pour l’importation des matériels de guerre et des matériels assimilés régis par le
-
-code de la défense.
+Accord préalable de transfert.
 
 |
 
-Article 123-1.
+Article 151.
+
+|
+
+4 |
+
+Autorisation de transfert d’armes, munitions et leurs éléments.
+
+|
+
+Article 159.
+
+|
+
+5 |
+
+Modification, suspension, retrait et abrogation du permis de transfert, de l’agrément de
+
+transfert et de l’accord préalable de transfert.
+
+|
+
+Article 156.
+
+|
+
+6 |
+
+Modification, suspension, retrait et abrogation de l’autorisation de transfert d’armes
+
+munitions et leurs éléments.
+
+|
+
+Article 159.
 
 |
 
@@ -5229,3 +5257,7 @@ rejet de demandes de certificats d’économies d’énergie.
 Article 10-10.
 
 |
+
+NOTA :
+
+(1) Le décret n° 2013-700 du 30 juillet 2013 article 181 a remplacé le tableau inséré par l'article 53 du décret n° 2011-1467 du 9 novembre 2011. Or le décret n° 2012-901 du 20 juillet 2012 article 2 a remplacé le titre et le tableau par un renvoi au titre III du livre III de la deuxième partie réglementaire du code de la défense (se reporter au jo n°169 du 22/07/2012 texte n° 10).
