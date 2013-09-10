@@ -1,0 +1,9 @@
+# Réponse à la question n° 18350
+
+- Question : [18350](18350.md) — Question n° 18350 — visibilité
+
+## Réponse
+
+*JO du 2013-09-10*
+
+En 2012, 482 piétons ont trouvé la mort tandis que 12000 ont été blessés sur la voie publique. De tous les usagers de la route, les piétons sont les plus vulnérables. C'est pourquoi la démarche code de la rue engagée à partir de 2006 a eu comme objectif de mieux protéger les piétons en leur conférant à la fois plus de droits et plus de confort grâce notamment aux zones de rencontre, voies vertes et aires piétonnes. Cette catégorie d'usagers reste au centre des préoccupations de la Délégation à la sécurité et à la circulation routières, dans la mesure où elle profite moins de l'importante baisse de la mortalité que d'autres modes de déplacement. Ainsi, à l'occasion de la journée européenne du 6 mai 2013, la DSCR a édité une nouvelle version de son dépliant à destination des piétons. Ce petit guide leur rappelle qu'ils sont soumis, comme tous les autres usagers, aux dispositions du code de la route. Celui-ci prévoit notamment dans ses articles R412-34 et suivants les règles de circulation des piétons que ce soit sur les trottoirs ou accotements, sur la chaussée ou encore aux intersections. Il est par exemple prévu pour les déplacements en groupe que, lorsque la visibilité est réduite, les colonnes soient signalées à l'avant comme à l'arrière. De plus, dans son dépliant, la DSCR attire l'attention des piétons sur l'importance d'être perçu par les autres usagers et y conseille, lorsque la visibilité le nécessite, de s'équiper de vêtements clairs ou d'éléments rétro-réfléchissants. Enfin, le ministre délégué chargé des transports, a installé, début juin 2013, un groupe de travail interministériel, consacré à la promotion des mobilités actives, où la question de la visibilité et de la place des piétons sera abordée.
