@@ -1,0 +1,9 @@
+# Réponse à la question n° 9365
+
+- Question : [9365](9365.md) — Question n° 9365 — perspectives
+
+## Réponse
+
+*JO du 2013-09-10*
+
+Le Premier ministre a confirmé lors de la réunion qui s'est tenue le 16 juillet 2013 sur le Pacte de confiance entre l'État et les collectivités, qu'une nouvelle génération de CPER serait engagée pour la période 2014/2020. Ces contrats se caractériseront par une dimension stratégique accrue par rapport à la génération 2007-2013. Les axes thématiques de cette prochaine contractualisation ont par ailleurs été précisés : il s'agit de l'enseignement supérieur, la recherche et l'innovation ; des nouvelles filières et l'usine du futur ; des stratégies de mobilité multimodale, avec l'intégration des PDMI et des conclusions de la commission Duron ; de la couverture très haut débit du territoire et le développement des usages du numérique ; de la transition écologique et énergétique. Par ailleurs, les contrats comprendront un volet territorial portant notamment sur : les massifs, avec la reconduction des conventions interrégionales de massif ; les fleuves ; les métropoles ; les quartiers urbains sensibles, avec l'intégration dans les contrats de plan des nouveaux contrats de ville ; les territoires soumis à de fortes restructurations économiques. En outre, les schémas départementaux entre l'État et les conseils généraux - tels que prévus dans le projet de loi de mobilisation des régions pour la croissance et de promotion de l'égalité des territoires - relatifs à l'amélioration de l'accessibilité aux services au public, bénéficiant en priorité aux territoires ruraux, pourront également être intégrés à ce volet territorial. La signature des contrats interviendra à l'été 2014. L'année 2014 sera donc une année de transition, qui permettra d'améliorer le taux d'exécution des contrats 2007-2013 grâce à la mobilisation des crédits nécessaires au sein des programmes budgétaires concernés.
