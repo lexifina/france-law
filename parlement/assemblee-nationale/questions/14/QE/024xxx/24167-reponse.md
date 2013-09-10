@@ -1,0 +1,9 @@
+# Réponse à la question n° 24167
+
+- Question : [24167](24167.md) — Question n° 24167 — champ d'application
+
+## Réponse
+
+*JO du 2013-09-10*
+
+Le crédit d'impôt pour la compétitivité et l'emploi (CICE), créé par l'article 66 de la loi du 29 décembre 2012 de finances rectificative pour 2012, correspond à la première mesure prise dans le cadre du Pacte national pour la croissance, la compétitivité et l'emploi du 6 novembre 2012. Ce crédit d'impôt a pour objet, en diminuant le coût du travail des salariés rémunérés jusqu'à 2,5 SMIC, d'améliorer la compétitivité des entreprises et ainsi leur permettre de réaliser des efforts en matière d'investissement, de recherche, d'innovation, de formation, de recrutement, de prospection de nouveaux marchés, de transition écologique et énergétique et de reconstitution de leur fonds de roulement. Il représente un effort sans précédent pour permettre à nos entreprises de retrouver le chemin de la croissance. L'ensemble des entreprises employant des salariés pourront en bénéficier, quel que soit leur secteur d'activité, et quel que soit leur mode d'exploitation. A cet égard, il est précisé que la forme juridique revêtue par les entreprises importe peu et que les associations qui se livrent à des activités concurrentielles sont normalement soumises aux impôts commerciaux à raison de ces activités, et qu'elles pourront donc bénéficier du crédit d'impôt au titre des rémunérations qu'elles versent à leurs salariés affectés à ces activités. En revanche, les associations qui n'interviennent pas dans le champ de l'économie concurrentielle et qui, de ce fait, sont placées hors du champ des impôts commerciaux ne bénéficient pas du CICE. Une mission parlementaire est chargée par le Premier Ministre d'examiner la fiscalité du secteur non lucratif afin de s'assurer qu'aucune distorsion préjudiciable de concurrence n'est engendrée par le différentiel de fiscalité entre structures lucratives et structures non lucratives.
