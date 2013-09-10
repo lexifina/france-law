@@ -1,0 +1,9 @@
+# Réponse à la question n° 28039
+
+- Question : [28039](28039.md) — Question n° 28039 — activités; déontologie; contrôles
+
+## Réponse
+
+*JO du 2013-09-10*
+
+Les missions et les conditions de fonctionnement et de rémunération des syndics de copropriété sont principalement fixées par les articles 18, 18-1A, 18-1 et 18-2 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis. La liste minimale des prestations de gestion courante des syndics fait l'objet de l'arrêté du 19 mars 2010 entré en vigueur le 1er juillet 2010. Cet arrêté précise notamment que « toute prestation particulière doit figurer explicitement en tant que telle dans le contrat de syndic ». Le projet de loi pour l'accès au logement et à un urbanisme rénové prévoit d'insérer à l'article 18-1-A de la loi de 1965 des dispositions fixant le principe que la rémunération forfaitaire des syndics pour les tâches de gestions courantes. Toutefois, une rémunération spécifique complémentaire pourrait être perçue à l'occasion de prestations particulières, définies par décret. Ces dispositions, si elles étaient votées, seraient de nature à éviter certaines dérives, comme, par exemple, le fait de facturer en « honoraires particuliers » ce qui relève de la gestion courante. En effet, le principe est de limiter le nombre des prestations particulières pouvant être facturées de façon spécifique afin qu'elles constituent l'exception alors que les prestations de gestion courante faisant l'objet d'un forfait doivent être la règle. Par ailleurs, la commission des affaires économiques de l'Assemblée nationale a proposé lors de l'examen du projet de loi le 24 juillet, que le contrat de syndic respecte un contrat-type défini par décret en Conseil d'État, ce qui ne pourra que renforcer les exigences de transparence et de précision dans les modalités de tarification des honoraires des syndics.
