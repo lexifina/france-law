@@ -1,0 +1,9 @@
+# Réponse à la question n° 29919
+
+- Question : [29919](29919.md) — Question n° 29919 — temps de travail; rémunérations; Cour des comptes; préconisations
+
+## Réponse
+
+*JO du 2013-09-10*
+
+La gendarmerie, structurée pour répondre aux enjeux de sécurité publique sur 95 % du territoire national - depuis le milieu péri-urbain jusque dans les zones les plus rurales -, a besoin de réaliser son plafond d'emplois, c'est à dire de disposer des effectifs votés par le Parlement. En effet, afin de garantir le caractère opérationnel des unités qui constituent le maillage territorial de la gendarmerie, leur effectif est inscrit dans un tableau des effectifs autorisés (TEA), qui correspond à la déclinaison du plafond d'emplois jusqu'au niveau de l'unité élémentaire. Compte tenu des impératifs de maîtrise des finances publiques, la gendarmerie n'est pas autorisée à réaliser la totalité de ses effectifs. Dès lors, la divergence entre le plafond d'emplois et l'ETPT de gestion, de l'ordre de 700 en 2012, est le résultat d'une contrainte budgétaire. Face à cette situation, la réponse apportée en gestion consiste à faire « tourner la vacance d'emplois » entre les unités, qui supportent à tour de rôle le manque d'effectifs. A plus long terme, le Gouvernement, qui a mis fin aux suppressions d'emplois massives décidées par son prédécesseur, a pour objectif d'augmenter les recrutements d'environ 200 personnes par an. Une telle évolution soulèverait l'incompréhension légitime de la population et des élus locaux, alors même que le Président de la République a érigé la sécurité intérieure parmi ses priorités, avec une hausse d'effectifs prévue sur la période 2013-2015. Elle n'est pas donc pas souhaitable car elle aurait un impact évident sur le service de sécurité publique de proximité et sur l'égal accès des citoyens à la sécurité sur l'ensemble du territoire national.
