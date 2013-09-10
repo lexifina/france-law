@@ -1,0 +1,9 @@
+# Réponse à la question n° 32126
+
+- Question : [32126](32126.md) — Question n° 32126 — gardes-champêtres; véhicules
+
+## Réponse
+
+*JO du 2013-09-10*
+
+Les véhicules d'intérêt général prioritaires pouvant être équipés de dispositifs spéciaux sonores et lumineux sont énumérés à l'article R.311-1 du code de la route. Les véhicules des services de police figurent sur cette liste à l'inverse des véhicules des gardes champêtres. L'article 4 du décret n° 2005-425 du 28 avril 2005 a précisé que les véhicules terrestres d'un service de police municipale sont des véhicules d'intérêt général prioritaires. Les véhicules des gardes champêtres ne peuvent pas être assimilés aux véhicules des services de police cités à l'article R.311-1 du code de la route du fait de la nature de leur mission. En effet les services de police, visés à l'article R. 311-1, sont les services exerçant un pouvoir régalien de police générale. D'autres véhicules figurent dans cet article R.311-1 comme ceux des services de lutte contre l'incendie et d'aide médicale urgente. Les interventions des gardes champêtres ne présentent pas le même niveau d'urgence. En effet, l'utilisation des dispositifs spéciaux équipant ces véhicules doit répondre à des nécessités opérationnelles absolues. Une trop forte augmentation du nombre de véhicules bénéficiant de ces dispositifs serait de nature à en diminuer l'efficacité et aboutirait à des situations incontrôlables, voire dangereuses compte tenu des prérogatives attachées à cette catégorie de véhicules, notamment en matière de priorité de passage et de dépassement des vitesses maximales autorisées. Aussi, il n'est pas envisagé de modifier le code de la route dans le but de permettre aux véhicules des gardes champêtres de figurer dans la catégorie des véhicules d'intérêt général prioritaires.
