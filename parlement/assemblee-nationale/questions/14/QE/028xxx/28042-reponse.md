@@ -1,0 +1,9 @@
+# Réponse à la question n° 28042
+
+- Question : [28042](28042.md) — Question n° 28042 — églises; entretien; financement; imputation comptable
+
+## Réponse
+
+*JO du 2013-09-10*
+
+L'organisation et le fonctionnement des cultes reconnus en Alsace-Moselle sont régis par des dispositions réglementaires concernant notamment l'intervention de l'Etat (tutelle, rémunération des ministres des cultes concernés), des communes et la création d'établissements publics sui generis tels que les fabriques d'églises (décret du 30 décembre 1809 complété par le décret du 18 mars 1992), le conseil presbytéral (décret du 26 mars 1852), et le consistoire départemental (décret du 10 décembre 1806). Aux termes de l'article L.2543-3 du code général des collectivités territoriales (CGCT), les communes sont tenues d'intervenir en cas d'insuffisance des revenus des fabriques, des conseils presbytéraux et des consistoires, pour assurer les frais des cultes dont les ministres sont salariés de l'Etat. Ces interventions constituent des dépenses obligatoires. Lorsque les communes interviennent sur ce fondement, les dépenses d'investissement réalisées sur les édifices cultuels sont éligibles au fonds de compensation pour la TVA. L'intervention des communes couvre, selon l'article 37 du décret du 30 décembre 1809 modifié, les travaux d'entretien, d'embellissement, de réparation ou de reconstruction des bâtiments destinés aux cultes reconnus. Les travaux de peinture constituant des dépenses d'entretien à caractère conservatoire, ils sont éligibles au FCTVA. Si, par ailleurs, le conseil de fabrique participe financièrement aux travaux, la somme doit être déduite de l'assiette des dépenses éligibles au fonds. La récupération de la TVA par le biais du FCTVA ne porte donc que sur la part des travaux financée par la commune.
