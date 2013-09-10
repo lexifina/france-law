@@ -1,0 +1,9 @@
+# Réponse à la question n° 30801
+
+- Question : [30801](30801.md) — Question n° 30801 — revendications
+
+## Réponse
+
+*JO du 2013-09-10*
+
+L'enjeu économique majeur pour la filière forêt-bois française réside avant tout dans sa capacité à promouvoir des solutions industrielles compétitives sur les marchés domestiques et à l'exportation, à créer des emplois en France en dynamisant la gestion forestière et en développant, notamment dans la construction, l'utilisation du bois, matériau renouvelable reconnu pour ses capacités à stocker du carbone. Cet enjeu est bien identifié et fait l'objet de débats dans le cadre de l'élaboration du projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt, actuellement en préparation, laquelle s'appuie notamment sur les conclusions de la mission confiée par le Premier ministre à M. Jean-Yves Caullet, député de l'Yonne, sur la forêt française et la filière bois ainsi que sur les recommandations issues de la mission interministérielle commandée par les ministres en charge du redressement productif, de l'écologie et de l'agriculture. C'est sur la base de ces éléments, présentés aux acteurs de la filière lors du conseil supérieur de la forêt et du bois du 6 mai dernier, que le ministre de l'agriculture, de l'agroalimentaire et de la forêt s'appuie pour élaborer le volet « forêt » du projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt, lequel sera présenté au Conseil des ministres à l'automne avant d'être soumis à l'examen du Parlement. Enfin, les propositions formulées par les acteurs de la filière dans le cadre des rencontres régionales de l'agroalimentaire et du bois permettront de bâtir un plan national d'action pour la filière forêt-bois, qui prendra en compte l'ensemble des difficultés auxquelles elle est actuellement confrontée, et valorisera son rôle en termes économique et environnemental.
