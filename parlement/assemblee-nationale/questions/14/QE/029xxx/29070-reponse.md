@@ -1,0 +1,9 @@
+# Réponse à la question n° 29070
+
+- Question : [29070](29070.md) — Question n° 29070 — détecteurs de fumée; installation
+
+## Réponse
+
+*JO du 2013-09-10*
+
+La loi visant à rendre obligatoire l'installation de détecteurs de fumée dans tous les lieux d'habitation a été promulguée le 9 mars 2010. Le décret n° 2011-36 du 10 janvier 2011 relatif à l'installation de détecteurs de fumée dans tous les lieux d'habitation vient préciser les exigences inscrites dans la loi et renvoie sur un arrêté d'application. L'arrêté du 5 février 2013 relatif à l'application des articles R. 129-12 à R. 129-15 du code de la construction et de l'habitation précise les exigences auxquelles doit répondre le détecteur de fumée normalisé installé dans chaque logement, les conditions de son installation, de son entretien et de son fonctionnement. A cet effet, les détecteurs doivent comporter un indicateur de mise sous tension, un signal visuel, mécanique ou sonore, indépendant d'une source d'alimentation, indiquant l'absence de batteries ou piles et doivent émettre un signal de défaut sonore, différent de la tonalité de l'alarme, signalant la perte de capacité d'alimentation du détecteur. Ainsi, quelle que soit la durée de capacité de la pile, l'occupant est informé de la présence de celle-ci et de sa perte de capacité. Par ailleurs, l'entretien des détecteurs est très simple et précisé dans la notice qui accompagne le produit. Enfin, une brochure intitulée « détecteurs de fumée - mode d'emploi » est d'ores et déjà disponible en téléchargement sur le site internet du ministère. Elle sera prochainement disponible en version papier et diffusée à une très large échelle, de façon à faire connaître à la population cette nouvelle obligation, de la sensibiliser aux risques de feux domestiques et d'apporter les réponses aux questions pratiques sur l'installation des détecteurs de fumée.
