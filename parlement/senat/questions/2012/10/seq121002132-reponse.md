@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002132
+
+- Question : [SEQ121002132](seq121002132.md) — Difficultés en matière de construction de logements sociaux
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2013-09-12, page 2642*
+
+La dotation initiale accordée à la région Poitou-Charentes en 2012 résultait de l'exercice national de programmation établi par le précédent Gouvernement sur la base des moyens et objectifs votés par le Parlement. Cet exercice consistait à répartir les crédits disponibles et les objectifs de nombre de logements locatifs sociaux à financer en fonction de la tension des marchés du logement. Or la tension de la région Poitou-Charentes est à un niveau moindre que celle de nombreuses autres régions. Toutefois, afin d'encourager la dynamique de production impulsée dans la région depuis plusieurs années, la dotation de la région Poitou-Charentes a été augmentée en cours d'année et s'est donc élevée à près de 1 120 logements PLUS/PLAI et 1170 PLS pour l'année 2012, soit un niveau supérieur au nombre de logements financés en 2011 (environ 1 800 logements). Les objectifs fixés à la région Poitou-Charentes pour l'année 2013 s'élèvent à 1 320 logements PLUS PLAI et 1 320 logements PLS, soit une dotation en nombre de logements en hausse de 15 % par rapport à 2012. En 2012, la quasi totalité des dossiers déposés auprès des services de l'État a pu faire l'objet d'un financement. Ce n'est donc pas le contingentement des agréments qui explique la faible production de logements locatifs sociaux. Il devrait en être de même en 2013 puisque la volonté du Gouvernement est d'augmenter la production de logements locatifs sociaux avec un objectif de 150 000 nouveaux logements. Cela nécessite une mobilisation exceptionnelle de l'ensemble des acteurs locaux afin d'augmenter sensiblement les capacités de production des territoires.
