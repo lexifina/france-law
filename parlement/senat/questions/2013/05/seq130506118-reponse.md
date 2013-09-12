@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506118
+
+- Question : [SEQ130506118](seq130506118.md) — Inscription sur les listes électorales
+
+## Réponse
+
+*Intérieur, JO du 2013-09-12, page 2652*
+
+En application de l'article L. 11 du code électoral, il convient pour être inscrit sur la liste électorale d'une commune de justifier d'une attache suffisante avec celle-ci. Celle-ci peut résulter soit d'un domicile ou d'une résidence depuis six mois dans la commune, soit de la qualité de contribuable. Aux termes de l'article 6 de l'arrêté du 19 décembre 2007 pris en application des articles R. 5 et R. 60 du code électoral, les pièces permettant de justifier d'une attache avec la commune doivent avoir moins de trois mois. La réalité du domicile ou de la résidence peut être apportée par tous moyens propres à emporter la conviction de la commission administrative chargée de la révision des listes électorales. Les pièces les plus couramment admises sont les quittances ou factures établies au nom de l'électeur par un ou plusieurs organismes de distribution d'eau, de gaz, d'électricité ou de téléphone, fixe ou portable, et correspondant à une adresse située dans la commune. Ce peut être aussi un avis d'imposition quel qu'il soit, un bulletin de salaire ou un titre de pension adressé à un domicile situé dans la commune. Pour les personnes hébergées, un certificat d'hébergement peut valoir justificatif de domicile. Lorsqu'il est établi par une personne autre que le père ou la mère du demandeur, il doit alors être complété par un justificatif établissant la preuve de l'attache du demandeur avec la commune, comme par exemple un bulletin de salaire récent ou tout autre document sur lequel figure l'adresse de la personne hébergée. C'est en tout état de cause à la commission administrative d'apprécier la pertinence des justificatifs fournis à l'appui d'une demande d'inscription sur les listes électorales.
