@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130607057
+
+- Question : [SEQ130607057](seq130607057.md) — Exhumation d'ossements d'un ossuaire communal à la demande de la famille
+
+## Réponse
+
+*Intérieur, JO du 2013-09-12, page 2654*
+
+Aux termes du premier alinéa de l'article L. 2223-4 du code général des collectivités territoriales, « un arrêté du maire affecte à perpétuité, dans le cimetière, un ossuaire aménagé où les restes exhumés sont aussitôt réinhumés ». Il existe trois hypothèses dans lesquelles, une fois l'exhumation réalisée, les restes mortels sont déposés à l'ossuaire. Il s'agit de la reprise des sépultures en terrain commun, au terme du délai de rotation et de la reprise des concessions funéraires soit parvenues à échéance et non renouvelées dans un délai de deux ans, soit à l'achèvement d'une procédure de constatation d'« état d'abandon ». Lorsqu'un corps est inhumé dans une sépulture en terrain commun, le plus proche parent du défunt peut à tout moment en demander l'exhumation en vue d'une réinhumation dans un emplacement concédé, évitant ainsi le placement d'office à l'ossuaire au terme du délai de rotation. S'agissant de la reprise des concessions parvenues à échéance, la famille dispose d'un droit à renouvellement pendant deux années, auquel le maire ne peut s'opposer. Enfin, la procédure de constatation d'état d'abandon s'étale sur une durée minimum de trois années qui donnent plusieurs occasions à la famille de faire obstacle à l'exhumation des restes mortels. Dans ces conditions, il y a lieu de considérer que le placement à l'ossuaire est définitif. Dès cet instant, les restes mortels sont placés sous la responsabilité de la commune et la famille ne peut donc plus en disposer. En conséquence, le maire ne peut pas délivrer d'autorisation d'exhumation pour extraire des ossements, même individualisés, de l'ossuaire.
