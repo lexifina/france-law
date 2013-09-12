@@ -584,6 +584,20 @@ Dose techniquement inévitable.
 
 |
 
+Alpha-amylase issue d'une souche non génétiquement modifiée de Microbacterium imperiale (FERM P-11315). |
+
+Enzymes |
+
+Production de sirop enrichi en maltotriose.
+
+Panification.
+
+|
+
+Hydrolyse des liaisons alpha 1-4 glycosidiques des polysaccharides et des oligosaccharides. |
+
+Teneur techniquement inévitable. |
+
 Alpha-amylase de Pseudomonas fluorescens DC 88 porteuse d'un gène hybride de Thermococcus / codant l'alpha-amylase. |
 
 Enzymes. |
@@ -597,6 +611,22 @@ Industrie de l'alcool.
 Hydrolyse des liaisons endo-alpha-1, 4-D-glucosidiques des oligo-saccharides et des polysaccharides. |
 
 Dose techniquement inévitable. |
+
+Alpha-amylase issue d'une souche génétiquement modifiée de Trichoderma reesei (LOH4 AkAApaA) porteuse du gène codant une alpha-amylase d'Aspergillus kawachii. |
+
+Enzymes |
+
+Brasserie.
+
+Industrie de l'alcool.
+
+Amidonnerie, production de sirop de glucose.
+
+|
+
+Hydrolyse des liaisons alpha 1-4 glycosidiques des polysaccharides et des oligosaccharides. |
+
+Teneur techniquement inévitable. |
 
 Aminopeptidase d'Aspergillus niger EPD-4.
 
@@ -1386,7 +1416,7 @@ Dose techniquement inévitable.
 
 |
 
-Cellulase de Trichoderma longibrachiatum (ex-reesei) (souche A83).
+Cellulase issue d'une souche non génétiquement modifiée de Trichoderma longibrachiatum (ex reesei) A83.
 
 |
 
@@ -1394,7 +1424,13 @@ Enzymes.
 
 |
 
+Brasserie.
+
+Industrie de l'alcool.
+
 Amidonnerie, production de sirop de glucose.
+
+Panification (à l'exception du pain de tradition française) et panification spéciale.
 
 |
 
@@ -1402,7 +1438,7 @@ Hydrolyse de la cellulose
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -1655,6 +1691,22 @@ Hydrolyse des liaisons alpha 1-6 des dextranes.
 Dose techniquement inévitable.
 
 |
+
+Endo-bêta-glucanase issue d'une souche non génétiquement modifiée de Geosmithia emersonii (BWW1016. 2). |
+
+Enzymes |
+
+Brasserie.
+
+Industrie de l'alcool.
+
+Amidonnerie, production de sirop de glucose.
+
+|
+
+Hydrolyse des liaisons bêta 1-3 et 1-4 des glucanes. |
+
+Teneur techniquement inévitable. |
 
 Endoglucanase de Humicola insolens (DSM 1800).
 
@@ -3482,6 +3534,16 @@ Hydrolyse des liaisons peptidiques des protéines. |
 
 Teneur techniquement inévitable. |
 
+Protéase issue d'une souche génétiquement modifiée de Bacillus subtilisi (LMGS-23982) porteuse du gène codant une protéase de Thermus aquaticus. |
+
+Enzymes |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie. |
+
+Hydrolyse des liaisons peptidiques des protéines. |
+
+Teneur techniquement inévitable. |
+
 Protéase de Geobacillus caldoproteolyticus Rokko non transformée AZ 3173s. |
 
 Enzymes. |
@@ -3986,6 +4048,16 @@ Dose techniquement inévitable.
 
 |
 
+Thermolysine issue d'une souche de Geobacillus stearothermophilus non génétiquement modifiée (TP7). |
+
+Enzymes |
+
+Production d'extraits de levure hydrolysés et d'hydrolysats de protéines carnées. |
+
+Hydrolyse des liaisons peptidiques des protéines. |
+
+Teneur techniquement inévitable. |
+
 Transglutaminase de la souche de Streptomyces mobaraensis non génétiquement modifiée S8112. |
 
 Enzymes. |
@@ -4299,6 +4371,16 @@ Xylanase d'une souche de Trichoderma longibrachiatum non génétiquement modifi�
 Enzymes. |
 
 Biscuiterie, viennoiserie, pâtisserie, panification (à l'exception du pain de tradition française) et panification spéciale. |
+
+Hydrolyse des liaisons osidiques des hémicelluloses. |
+
+Teneur techniquement inévitable. |
+
+Xylanase issue d'une souche génétiquement modifiée de Trichoderma logibrachiatum (CBS-114044) porteuse du gène muté codant une xylanase de Thermopolyspora flexuosa (synonyme antérieur de Nonomuraea flexuosa). |
+
+Enzymes |
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie. |
 
 Hydrolyse des liaisons osidiques des hémicelluloses. |
 
