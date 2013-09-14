@@ -2520,16 +2520,6 @@ Substances et mélanges particuliers (emploi ou stockage de ou à base de) :
 
 4-aminobiphényle et/ou ses sels, benzidine et/ou ses sels, chlorure de N, N-diméthylcarbamoyle, diméthylnitrosamine, 2-naphthylamine et/ou ses sels, oxyde de bis(chlorométhyle), oxyde de chlorométhyle et de méthyle, 1,3-propanesultone, 4-nitrodiphényle, triamide hexaméthylphosphorique, benzotrichlorure, 1,2-dibromoéthane, sulfate de diéthyle, sulfate de diméthyle, 1,2-dibromo-3-chloropropane, 1,2-diméthylhydrazine, hydrazine.
 
-|
-
-|
-
-|
-
-|
-
-|
-
 La quantité totale de l'une de ces substances et mélanges en contenant susceptible d'être présente dans l'installation étant :
 
 |
@@ -2912,9 +2902,7 @@ A
 
 |
 
-b) supérieure ou égale à 200 kg, mais inférieure à 1 t
-
-|
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t |
 
 6
 
@@ -3108,9 +3096,7 @@ A
 
 |
 
-b) supérieure ou égale à 5 t, mais inférieure à 50 t
-
-|
+b) supérieure ou égale à 5 t, mais inférieure à 50 t |
 
 6
 
@@ -3864,7 +3850,9 @@ A
 
 |
 
-Quelle que soit la capacité |
+Quelle que soit la capacité
+
+|
 
 6
 
@@ -4297,6 +4285,16 @@ D
 |
 
 Comburants (fabrication, emploi ou stockage de substances ou mélanges) tels que définis à la rubrique 1000 à l'exclusion des substances visées nominativement ou par famille par d'autres rubriques :
+
+|
+
+|
+
+|
+
+|
+
+|
 
 1. Fabrication.
 
@@ -5204,9 +5202,7 @@ a) Supérieure ou égale à 100 kg
 
 |
 
-b) Inférieure à 100 kg
-
-|
+b) Inférieure à 100 kg |
 
 DC
 
@@ -5397,76 +5393,6 @@ A
 |
 
 |
-
-|
-
-1313
-
-|
-
-Produits explosifs (tri ou destruction de matières, objets et munitions et engins hors des lieux de découverte)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-La quantité totale de matière active susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-|
-
-La quantité totale de matière active autre que les cartouches de chasse et de tir, susceptible d'être présente dans l'installation étant :
-
-|
-
-|
-
-a) supérieure à 10 t
-
-|
-
-AS
-
-|
-
-6
-
-|
-
-a) supérieure à 10 t
-
-|
-
-10
-
-|
-
-b) inférieure ou égale à 10 t
-
-|
-
-A
-
-|
-
-3
-
-|
-
-b) inférieure ou égale à 10 t
-
-|
-
-6
 
 |
 
