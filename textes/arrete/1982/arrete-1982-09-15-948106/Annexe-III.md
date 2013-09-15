@@ -2,13 +2,15 @@
 
 POIDS DES ECHANTILLONS
 
-ESPECES
+ESPÈCES
 
 |
 
 POIDS MINIMAL
 
-à prélever sur un lot
+à prélever
+
+sur un lot
 
 (en grammes)
 
@@ -16,13 +18,17 @@ POIDS MINIMAL
 
 POIDS
 
-pour les dénombrements
+pour les
+
+dénombrements
 
 (en grammes)
 
 |
 
-Avoine, blé dur, blé tendre, orge, seigle, triticale |
+Avoine, avoine nue, avoine maigre, blé dur, blé tendre, épeautre, orge, seigle, triticale
+
+|
 
 1 000
 
@@ -32,9 +38,7 @@ Avoine, blé dur, blé tendre, orge, seigle, triticale |
 
 |
 
-Riz |
-
-500
+Riz, seigle des montagnes, hybride Secale montanum Guss. × Secale cereale L
 
 |
 
@@ -42,21 +46,37 @@ Riz |
 
 |
 
-Maîs
+500
+
+|
+
+Maïs :
+
+|
+
+|
+
+|
 
 Semences de base de lignées inbred
+
+|
+
+250
+
+|
+
+250
+
+|
 
 Semences de base autres que de lignées inbred et semences certifiées
 
 |
 
-250
-
 1 000
 
 |
-
-250
 
 1 000
 
@@ -64,23 +84,35 @@ Semences de base autres que de lignées inbred et semences certifiées
 
 Sorgho
 
-Sorgho du soudan
-
-Sorgho x sorgho du Soudan
-
 |
 
 1 000
 
-1 000
-
-1 000
-
 |
-
-1 000
 
 900
+
+|
+
+Sorgho du Soudan
+
+|
+
+1 000
+
+|
+
+900
+
+|
+
+Sorgho × Sorgho du Soudan.
+
+|
+
+1 000
+
+|
 
 900
 
@@ -94,6 +126,6 @@ Sarrasin
 
 |
 
-800
+600
 
 |

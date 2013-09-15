@@ -4,16 +4,6 @@ Conditions auxquelles doivent satisfaire les semences
 
 A. - Les semences doivent répondre aux normes et autres conditions suivantes, en ce qui concerne la pureté variétale, la faculté germinative, la pureté spécifique, la teneur en humidité et la teneur en semences d'autres espèces de plantes (voir tableau).
 
-B. - La présence d'organismes nuisibles affectant la valeur d'utilisation des semences n'est tolérée que dans la mesure où elle n'empêche pas leur emploi normal par l'utilisateur.
-
-Les semences doivent répondre aux conditions suivantes :
-
-Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea dans un échantillon de poids prévu à l'annexe n° IV ne doit pas excéder
-
-- un pour les semences de base ;
-
-- trois pour les semences certifiées.
-
 ESPÈCES
 
 |
@@ -54,13 +44,9 @@ maximale
 
 |
 
-TENEUR EN NOMBRE DE GRAINS
+TENEUR EN NOMBRE DE GRAINS D'AUTRES ESPÈCES DE PLANTES,
 
-d'autres espèces de plantes,
-
-y compris les grains rouges
-
-dans un échantillon du poids
+y compris les grains rouges dans un échantillon du poids
 
 prévu à l'annexe IV
 
@@ -70,23 +56,17 @@ Total
 
 |
 
-Autres
-
-espèces
+Autres espèces
 
 de céréales
 
 |
 
-Autres
-
-espèces
-
-de plantes
+Autres espèces de plantes
 
 |
 
-Avoine, avoine maigre, blé dur, blé tendre, orge
+Avoine, avoine maigre, blé dur, blé tendre, épeautre, orge
 
 |
 
@@ -98,7 +78,7 @@ Semences de prébase et de base
 
 |
 
-85 (a)
+85
 
 |
 
@@ -119,8 +99,6 @@ Semences de prébase et de base
 |
 
 Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
-
-|
 
 |
 
@@ -160,8 +138,6 @@ Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Aven
 
 |
 
-|
-
 2e génération
 
 99,0
@@ -192,7 +168,7 @@ Semences de prébase et de base
 
 |
 
-75 (a)
+75
 
 |
 
@@ -213,8 +189,6 @@ Semences de prébase et de base
 |
 
 Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
-
-|
 
 |
 
@@ -254,8 +228,6 @@ Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Aven
 
 |
 
-|
-
 2e génération
 
 99,0
@@ -286,7 +258,7 @@ Semences de prébase et de base
 
 |
 
-80 (a)
+80
 
 |
 
@@ -362,7 +334,7 @@ Semences de prébase et de base
 
 |
 
-Dont : 1 Fagopyrum tartaricum ou Rumex spp
+Dont : 1 Fagopyrum tartaricum ou Rumex spp.
 
 |
 
@@ -394,7 +366,7 @@ Variété diploïde
 
 |
 
-ou graine de renonculacée ou graine
+ou graine de renonculacée
 
 |
 
@@ -426,7 +398,7 @@ Variété tétraploïde
 
 |
 
-de caryophyllacée (f)
+ou graine de caryophyllacée (f)
 
 |
 
@@ -446,7 +418,7 @@ Semences certifiées
 
 |
 
-Dont : 3 Fagopyrum tartaricum ou Rumex spp
+Dont : 3 Fagopyrum tartaricum ou Rumex spp.
 
 |
 
@@ -478,11 +450,11 @@ Variété diploïde
 
 |
 
-ou graine de renonculacée ou graine
+ou graine de renonculacée
 
 |
 
-Variété tétraploïde.
+Variété tétraploïde
 
 |
 
@@ -510,7 +482,7 @@ Variété tétraploïde.
 
 |
 
-de caryophyllacée (f)
+ou graine de caryophyllacée
 
 |
 
@@ -526,7 +498,7 @@ Semences de prébase et de base
 
 |
 
-85 (a)
+85
 
 |
 
@@ -582,6 +554,78 @@ Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Aven
 
 |
 
+Seigle des montagnes
+
+|
+
+Semences
+
+|
+
+-
+
+|
+
+85
+
+|
+
+98
+
+|
+
+15
+
+|
+
+10
+
+|
+
+7
+
+|
+
+Sept, dont : 3 Raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena sterilis, Avena ludoviciana ou Lolium temulentum (c)
+
+|
+
+Secale montanum Guss. x Secale cereale L.
+
+|
+
+Semences
+
+|
+
+-
+
+|
+
+85
+
+|
+
+98
+
+|
+
+15
+
+|
+
+10
+
+|
+
+7
+
+|
+
+Sept, dont : 3 Raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena sterilis, Avena ludoviciana ou Lolium temulentum (c)
+
+|
+
 Maïs
 
 |
@@ -594,7 +638,7 @@ Semences de prébase et de base
 
 |
 
-90 (a)
+90
 
 |
 
@@ -624,7 +668,7 @@ Semences certifiées
 
 |
 
-90 (a bis)
+90
 
 |
 
@@ -714,7 +758,7 @@ Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Aven
 
 |
 
-Sorghum spp
+Sorghum spp.
 
 |
 
@@ -726,7 +770,7 @@ Semences de prébase et de base
 
 |
 
-80 (a)
+80
 
 |
 
@@ -778,10 +822,6 @@ Semences certifiées
 
 |
 
-(a) Les semences de base peuvent présenter une faculté germinative inférieure au taux prévu à condition que la faculté germinative réelle soit mentionnée dans le marquage.
-
-(a bis) La faculté germinative des semences certifiées peut être ramenée à 85 % à la condition que mention en soit faite dans le marquage.
-
 (b) Une deuxième graine n'est pas considérée comme impureté si un second échantillon du même poids est exempt de graines d'autres espèces de céréales.
 
 (c) La présence d'une graine d'Avena fatua, Avena ludoviciana, Avena sterilis ou Lolium temulentum dans un échantillon du poids fixé n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines de ces espèces.
@@ -793,3 +833,15 @@ Semences certifiées
 (f) Une deuxième graine de l'une de ces espèces n'est pas considérée comme une impureté si un deuxième échantillon du même poids est exempt de graines de ces espèces.
 
 |
+
+B. - La présence d'organismes nuisibles affectant la valeur d'utilisation des semences n'est tolérée que dans la mesure où elle n'empêche pas leur emploi normal par l'utilisateur.
+
+Les semences doivent répondre aux conditions suivantes :
+
+Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea dans un échantillon de poids prévu à l'annexe IV ne doit pas excéder :
+
+- un pour les semences de base ;
+
+- trois pour les semences certifiées ;
+
+- trois pour les semences sans aucun qualificatif.
