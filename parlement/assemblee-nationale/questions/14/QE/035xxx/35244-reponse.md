@@ -1,0 +1,9 @@
+# Réponse à la question n° 35244
+
+- Question : [35244](35244.md) — Question n° 35244 — fonds d'assurance récolte; développement
+
+## Réponse
+
+*JO du 2013-09-17*
+
+Depuis 2005, l'État soutient le développement d'une assurance des récoltes contre les risques climatiques, offrant une meilleure couverture que les indemnisations du régime des calamités agricoles. Ce soutien prend la forme d'une prise en charge partielle des primes ou cotisations d'assurance payées par les exploitants agricoles. Depuis 2010, cette aide s'insère dans le cadre du premier pilier de la politique agricole commune et bénéficie à ce titre d'un cofinancement européen. La réglementation européenne permet un taux de prise en charge publique plafonné à 65 % de la prime éligible. Depuis 2008, les crédits mobilisés pour accompagner l'assurance ont augmenté de 108 %. Par ailleurs, au cours de ces dernières années, les dépenses effectivement versées ont toujours été inférieures aux prévisions. L'enveloppe budgétaire pour la campagne 2013 a été fixée à 77,2 millions d'euros dans un contexte général où l'ensemble des ministères est appelé à participer à l'effort budgétaire. Le soutien à l'assurance récolte participe à cet effort au même titre que d'autres dispositifs financés par le ministère chargé de l'agriculture. Au cours des dernières années, l'enveloppe est passée de 37 millions d'euros en 2008 à 77,2 millions d'euros en 2013. En outre, afin de pérenniser les dispositifs de gestion des risques et d'en augmenter l'efficacité, le ministre en charge de l'agriculture a mis en place un groupe de travail sur l'avenir de la gestion des risques en agriculture, dont les conclusions lui seront remises fin septembre. La réduction de l'enveloppe ne constitue donc pas un signal négatif et n'implique aucunement le désengagement de l'État du dispositif de l'assurance récolte à l'avenir.
