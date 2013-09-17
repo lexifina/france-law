@@ -1,0 +1,9 @@
+# Réponse à la question n° 31513
+
+- Question : [31513](31513.md) — Question n° 31513 — drones; achats à l'étranger; États-unis; pertinence
+
+## Réponse
+
+*JO du 2013-09-17*
+
+Les opérations récentes ont largement démontré que la France doit disposer de drones de surveillance pour conduire ses missions, protéger ses militaires, les aider à contrôler de vastes espaces et parer d'éventuelles attaques ennemies. C'est pourquoi, le Livre blanc sur la défense et la sécurité nationale publié le 29 avril 2013 a prévu de doter les forces aériennes françaises de 12 drones de surveillance de théâtre dans les prochaines années. Dans l'immédiat, les opérations militaires conduites au Mali ont confirmé la nécessité d'équiper en urgence nos armées de deux drones de théâtre de moyenne altitude et longue endurance (MALE), en complément du système intérimaire Harfang qui arrive en fin de vie opérationnelle. A cet égard, le système MQ-9 Reaper conçu par les États-Unis d'Amérique est apparu comme étant la solution la mieux appropriée afin de combler rapidement le déficit capacitaire de nos forces. Pour les 10 appareils suivants, en l'absence d'offre européenne sur ce segment, un achat « sur étagère » sera privilégié selon des modalités prévoyant notamment une mise aux normes françaises de certains équipements de ces matériels, de nature à préserver la souveraineté du pays et à garantir sa totale indépendance. En tout état de cause, la direction générale de l'armement a entamé des travaux visant à prolonger jusqu'en 2017 les drones Harfang actuellement en service, ce qui permettra d'effectuer le choix du système successeur dans les meilleures conditions. Pour le plus long terme, le ministère de la défense soutiendra, avec ses partenaires, les initiatives visant à fédérer une offre industrielle européenne sur le segment des drones MALE.
