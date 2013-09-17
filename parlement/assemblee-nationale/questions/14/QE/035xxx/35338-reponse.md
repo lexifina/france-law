@@ -1,0 +1,9 @@
+# Réponse à la question n° 35338
+
+- Question : [35338](35338.md) — Question n° 35338 — centres techniques de consommation; moyens
+
+## Réponse
+
+*JO du 2013-09-17*
+
+Les centres techniques régionaux de la consommation (CTRC) participent, aux côtés de l'institut national de la consommation (INC), aux actions d'appui technique aux associations de défense des consommateurs. Ces actions ont notamment pour objet d'assurer la formation des bénévoles de ces associations et de mettre à la disposition de ces derniers la documentation juridique, économique et technique permettant d'informer les consommateurs sur leurs droits et de faciliter le règlement de leurs litiges avec les professionnels. Les subventions de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) à l'INC et aux CTRC ont fait l'objet d'une globalisation en 2010. Les crédits à ces structures ont légèrement diminué en 2011, mais fait exceptionnel dans le contexte budgétaire, ont été maintenus en 2012 au même niveau qu'en 2011. La répartition des crédits entre l'INC et les CTRC est du ressort du conseil d'administration de l'INC et de sa directrice générale, qui veille au bon versement des différentes tranches de subvention tout au long de l'année. Les CTRC sont associés à la définition des modalités de cette répartition à travers le comité d'évaluation des CTRC, où trois de ces structures sont représentées. En 2013, le respect de l'engagement de redressement des comptes publics suppose un partage équilibré des efforts. Le travail en réseau entre l'INC et les CTRC permet de dégager des synergies qui accroissent l'efficience des actions de soutien aux associations de consommateurs. Les missions des CTRC en sont donc confortées. La mutualisation des ressources entre l'INC et les CTRC prévue par le décret du 13 juillet 2010 est une voie de progrès qui doit être poursuivie.
