@@ -1,0 +1,9 @@
+# Réponse à la question n° 32644
+
+- Question : [32644](32644.md) — Question n° 32644 — Institut national de la jeunesse et de l'éducation populaire; perspectives
+
+## Réponse
+
+*JO du 2013-09-17*
+
+La jeunesse est la priorité du gouvernement. Un important travail interministériel a été engagé pour mener une nouvelle politique jeunesse. Le 21 février 2012 s'est tenu un Comité Interministériel de la Jeunesse (CIJ), sous l'égide du Premier ministre, qui a validé 13 chantiers et 47 mesures. Le gouvernement a décidé d'adapter l'organisation de l'État pour la mettre au service de cette nouvelle politique en créant un délégué interministériel à la jeunesse et en rationalisant l'administration centrale et les opérateurs du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative concernés par cette modernisation. L'Institut national de la jeunesse et de l'éducation populaire (INJEP) au coeur du dispositif de mise en oeuvre du CIJ, est chargé de la préparation du tableau de bord de la jeunesse. L'évolution envisagée vise à le renforcer : - en adaptant son statut à l'instar d'autres organismes reconnus (INSEE, observatoire des zones sensibles) ; - en pérennisant les garanties scientifiques de son statut actuel : autonomie du travail des chercheurs, présence d'un conseil scientifique, capacité à créer des partenariats, à contractualiser avec des tiers, ... ; - en renforçant ses effectifs par l'ajout de compétences absentes aujourd'hui : évaluation des politiques publiques, statistiques et vie associative. Le gouvernement a besoin de l'INJEP et de ses personnels pour être à la hauteur de l'ambition qu'il nourrit pour la jeunesse de notre pays, bien loin de la révision générale des politiques publiques (RGPP) qui avait entrainé la suppression de 60 postes sur 120.
