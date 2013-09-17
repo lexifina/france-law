@@ -1,0 +1,9 @@
+# Réponse à la question n° 24238
+
+- Question : [24238](24238.md) — Question n° 24238 — textes d'application; publication
+
+## Réponse
+
+*JO du 2013-09-17*
+
+Pour permettre aux travailleurs indépendants, aux membres des professions libérales et des professions non salariées ainsi qu'à leur conjoint collaborateur de bénéficier du droit à la formation professionnelle continue, et obtenir ainsi la possible prise en charge financière de leurs actions de formation, il a été instauré une contribution annuelle au profit de fonds d'assurance formation (FAF) spécialement dédiés. En raison de l'insuffisance des ressources dont disposaient ces FAF de non salariés, qui ne permettaient pas, dans un grand nombre de cas, le financement d'actions de formation au bénéfice de leurs adhérents, dont certaines obligatoires pour l'exercice de leur profession, la loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012 a augmenté la contribution annuelle au titre de la formation professionnelle des commerçants, professions libérales et professions médicales et prévu qu'un décret en conseil d'Etat soit pris afin d'en préciser les modalités de mise en oeuvre. Ce projet de décret, qui ne conditionne pas l'application des dispositions de la loi du 16 août 2012, devra permettre de déterminer, pour l'avenir, les conditions de fixation d'un taux de contribution à la formation professionnelle supérieur au minimum légal. Sa rédaction fait actuellement l'objet d'une concertation entre les FAF de non salariés et l'ensemble des services administratifs concernés à savoir la délégation générale à l'emploi et à la formation professionnelle, la direction de la sécurité sociale et la direction générale de la compétitivité de l'industrie et des services. Dès sa rédaction achevée, ce projet de décret pourra être transmis pour avis au conseil national de la formation professionnelle tout au long de la vie puis présenté au conseil d'Etat avant sa publication.
