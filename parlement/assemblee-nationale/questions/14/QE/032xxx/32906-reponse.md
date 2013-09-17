@@ -1,0 +1,9 @@
+# Réponse à la question n° 32906
+
+- Question : [32906](32906.md) — Question n° 32906 — maîtres-nageurs sauveteurs; qualifications; certifications
+
+## Réponse
+
+*JO du 2013-09-17*
+
+Les personnels disposant du BEESAN et des différents diplômes qui confèrent le titre de maître-nageur-sauveteur sont pleinement reconnus, dans leur double compétence à encadrer la natation scolaire aux côtés des enseignants du premier degré et à assurer surveillance et secours dans les établissements de bains. Les attentes institutionnelles sont fortes, tant pour les objectifs d'acquisition progressive du savoir-nager par les élèves que pour la compétence à garantir la sécurité des personnes dans le contexte particulier de pratique de l'activité. L'article L. 312-3 du code de l'éducation permet à l'équipe pédagogique de l'école de se faire assister pour l'enseignement de l'éducation physique et sportive. La participation des intervenants extérieurs implique l'établissement d'une convention et est soumise à l'agrément préalable du directeur académique des services de l'éducation nationale. Cet agrément est donc exigible au terme d'un article de loi. Pour les maîtres-nageurs-sauveteurs, il consiste en une simple vérification de qualification en référence à l'annexe 2 de la circulaire n° 2011-090 du 7 juillet 2011, et au-delà des cinq années qui suivent l'obtention du diplôme, de la date de révision ou d'obtention du certificat d'aptitude à l'exercice de la profession de maître nageur-sauveteur (CAEPMNS). Pour des éducateurs sportifs, ayant déjà été agréés dans le cadre d'une convention tacitement reconduite, la procédure de renouvellement d'agrément peut être simplifiée sans que cela ne préjuge toutefois de la suite réservée par le directeur académique des services de l'éducation nationale à la demande d'agrément.
