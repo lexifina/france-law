@@ -1,0 +1,9 @@
+# Réponse à la question n° 32796
+
+- Question : [32796](32796.md) — Question n° 32796 — Cour des comptes; rapport; propositions
+
+## Réponse
+
+*JO du 2013-09-17*
+
+Les observations formulées par la juridiction sur l'articulation de la programmation nationale avec les orientations du programme cadre pour la recherche et de le développement technologique (PCRDT) européen trouvent une réponse dans les dispositions de l'agenda France Europe 2020 présenté par la ministre de l'enseignement supérieur et de la recherche le 21 mai 2013. En effet, afin de préparer la communauté scientifique au nouveau programme cadre européen de recherche et d'innovation « Horizon 2020 », l'agenda stratégique France Europe 2020 propose un dispositif complet d'accompagnement et d'incitations qui permettra d'accroître l'ouverture et le rayonnement de la communauté française à l'Europe, en augmentant la présence de ses acteurs (publics mais aussi privés, notamment en contribuant à l'accompagnement des petites et moyennes entreprises -PME) dans les projets européens. Parmi celles-ci, valoriser et reconnaître les activités liées aux projets européens dans les processus d'évaluation, qu'ils concernent les chercheurs eux-mêmes ou les structures auxquelles ils appartiennent, avec la création, par le ministère de l'enseignement supérieur et de la recherche, d'un nouveau prix consacré aux équipes françaises porteuses de projets européens, promouvoir des stratégies d'établissement (établissements d'enseignement supérieur et de recherche et organismes de recherche) en faveur de la participation aux programmes européens, suivie au moyen d'indicateurs de participation au PCRDT dans les contrats d'objectifs, promouvoir, au sein de ces établissements, les fonctions supports aux projets européens, et leur professionnalisation (montage de projets, accompagnement juridique et financier).
