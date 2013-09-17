@@ -1,0 +1,9 @@
+# Réponse à la question n° 34202
+
+- Question : [34202](34202.md) — Question n° 34202 — carrière; perspectives
+
+## Réponse
+
+*JO du 2013-09-17*
+
+C'est en application de la loi que les personnels enseignant à l'étranger, qu'ils exercent ou non dans des établissements scolaires français à l'étranger, ne peuvent faire acte de candidature aux recrutements réservés autorisés par la loi n° 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique. En effet, ces personnels ne sont recrutés à aucun des titres visés par l'article 2 de cette loi votée par la précédente majorité. Dans le cas particulier des établissements scolaires gérés directement (EGD) par l'Agence française pour l'enseignement français à l'étranger (AEFE) et dans ceux liés par une convention avec elle (établissements conventionnés), il existe trois catégories de personnels sous contrat : les expatriés, les résidents et les recrutés locaux. Les postes d'expatriés et de résidents sont proposés par l'AEFE à des fonctionnaires titulaires, essentiellement issus de l'éducation nationale. Ils ne sont donc pas concernés par les dispositions de la loi Sauvadet du 12 mars 2012 puisqu'ils sont déjà fonctionnaires et leurs statuts sont régis par le décret n° 2002-22 du 4 janvier 2002 modifié relatif à la situation administrative et financière des personnels des établissements d'enseignement français à l'étranger. Dans les autres établissements partenaires, les personnels sont tous sous contrat de droit local (recrutés locaux) et ne relèvent pas de la législation française, en particulier des textes législatifs organisant la fonction publique française. Ils ne sont donc pas non plus éligibles aux concours réservés organisés pour la mise en oeuvre de la loi Sauvadet entre 2013 et 2016.
