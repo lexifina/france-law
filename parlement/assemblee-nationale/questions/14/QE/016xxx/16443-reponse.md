@@ -1,0 +1,9 @@
+# Réponse à la question n° 16443
+
+- Question : [16443](16443.md) — Question n° 16443 — rapport; Cour des comptes; conclusions
+
+## Réponse
+
+*JO du 2013-09-17*
+
+La loi du 24 novembre 2009, relative à l'orientation et à la formation professionnelle tout au long de la vie, a profondément modifié la réglementation antérieure relative au plafonnement des frais de fonctionnement des organismes paritaires collecteurs agréés (OPCA) en substituant au plafond réglementaire applicable de façon identique à l'ensemble des organismes un mécanisme individualisé de conventionnement avec l'Etat permettant de tenir compte de leurs spécificités et de leurs performances de gestion. Ainsi, a été signée avec chacun des 48 organismes agréés (20 au titre du plan de formation et de la professionnalisation et 28 au titre du seul congé individuel de formation) une convention d'objectifs et de moyens triennale 2012-2014. Respectueuse des prérogatives des partenaires sociaux en matière de définition des priorités, des critères et conditions de prise en charge des actions de formation, cette première génération des conventions d'objectifs et de moyens s'est attachée à réduire les écarts de coûts de fonctionnement entre les organismes paritaires collecteurs agrées (OPCA) et à affecter les gains d'efficience dégagés sur les frais de structure au déploiement de services de proximité mis en oeuvre au bénéfice des petites et moyennes entreprises (PME) et de leurs salariés. Conformément à la recommandation de la cour des comptes, et afin d'élargir le périmètre de ces conventions d'objectifs et de moyens, il pourrait être envisagé, pour la mise en oeuvre de la prochaine génération de ces conventions, de lier la négociation des plafonds de frais à une discussion sur les grands axes de la politique de formation décidée par les organismes, en lien étroit avec les branches professionnelles.
