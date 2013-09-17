@@ -1,0 +1,9 @@
+# Réponse à la question n° 7034
+
+- Question : [7034](7034.md) — Question n° 7034 — mise en place; financement
+
+## Réponse
+
+*JO du 2013-09-17*
+
+La création des emplois d'avenir est la traduction de la très forte priorité que le gouvernement souhaite accorder à la jeunesse en particulier pour l'accès à l'emploi des jeunes de 16 à 25 ans peu ou pas qualifiés. Il se fixe pour objectif d'améliorer l'insertion professionnelle de ces jeunes en leur offrant une qualification et une situation d'emploi par la création de 100 000 contrats entre le 1er novembre 2012 et le 31 décembre 2013 dans un contexte de chômage élevé. L'aide de l'Etat pour l'embauche d'un jeune en emploi d'avenir est de 75 % du salaire minimum interprofessionnel de croissance (SMIC) brut pour les employeurs du secteur non marchand. Le montant de l'aide est donc de 1 070 euros pour un salarié à temps plein dans le secteur non marchand pendant une durée de 3 ans. Cette durée doit être mise à profit pour rechercher toutes les solutions possibles de pérennisation de ces emplois. Dans le cas contraire, les jeunes qui auront acquis trois ans d'expérience professionnelle et auront bénéficié de formations, seront armés pour entamer une recherche d'emploi dans de bonnes conditions. Afin de faciliter l'embauche par les petites collecitivités locales, qui n'ont pas les moyens de recruter un jeune en emploi d'avenir à temps plein, la mutualisation est encouragée. Le recrutement direct par les centres de gestion est désormais possible. Le recours aux associations intermédiaires qui prennent en charge le travail administratif de la foncion employeur permet à une petite commune de mutualiser avec une association pour un emploi de même nature. Il n'est donc pas envisagé de niveler le taux de la subvention de l'Etat en fonction de la situation des communes.
