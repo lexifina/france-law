@@ -1,0 +1,9 @@
+# Réponse à la question n° 31135
+
+- Question : [31135](31135.md) — Question n° 31135 — immigration; formalités; ressortissants français
+
+## Réponse
+
+*JO du 2013-09-17*
+
+Le dispositif « Global Entry » est un programme permettant de bénéficier d'une procédure simplifiée et rapide de passage des frontières dans une vingtaine d'aéroports des États-Unis d'Amérique parmi les plus importants. Ce programme consiste, sur une base volontaire, en la fourniture des données personnelles par le passager (y compris les données biométriques), une vérification d'antécédents, un entretien avec un agent fédéral américain et le paiement d'un montant forfaitaire de 100 dollars pour une durée de 5 ans. Après acceptation du dossier, le passager a accès à un point de passage rapide de la frontière. Ce programme concerne actuellement les citoyens américains, ainsi que les ressortissants de quelques pays avec lesquels les États-Unis d'Amérique ont passé un accord bilatéral, tels que le Canada, le Mexique, le Japon ou encore la Corée du Sud. La France, comme l'Allemagne et la Grande-Bretagne, est invitée par les autorités américaines à adhérer à ce dispositif et à conclure à cet effet un accord bilatéral. Cette proposition américaine, qui simplifiera les déplacements des ressortissants français empruntant de façon fréquente des vols à destination des grands aéroports américains, a suscité l'intérêt de la France. Le ministère de l'intérieur procède actuellement à l'expertise de plusieurs aspects de ce programme : l'utilisation des données personnelles des ressortissants français, la question, à titre de réciprocité, des conditions du franchissement des frontières françaises par les voyageurs fréquents américains, qui en tant que ressortissants de pays tiers doivent, en application du Code frontières Schengen, faire l'objet d'un contrôle approfondi lorsqu'ils entrent dans l'espace Schengen.
