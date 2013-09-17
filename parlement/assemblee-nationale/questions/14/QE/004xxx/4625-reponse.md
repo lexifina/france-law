@@ -1,0 +1,9 @@
+# Réponse à la question n° 4625
+
+- Question : [4625](4625.md) — Question n° 4625 — durée de validité
+
+## Réponse
+
+*JO du 2013-09-17*
+
+Le Gouvernement est particulièrement sensible à l'amélioration de l'accueil des étrangers et la question des délais de renouvellement a été examinée. La circulaire du 25 juin 2013 relative aux conditions de renouvellement du titre de séjour a donné aux préfets des instructions relatives à la date de début de validité des titres de séjour renouvelés qui sont de nature à limiter le nombre de passages en préfecture. En règle générale, la date de début de validité du titre renouvelé est fixée au jour suivant l'expiration du précédent titre. Or, cette règle ne prend pas en compte la durée d'examen - parfois longue - de la demande de renouvellement, qui s'impute sur la durée utile du nouveau titre. Il a donc été demandé aux préfets que, lorsque la date de décision relative à la nouvelle carte est postérieure à la date d'expiration de la précédente, la date de début de validité du nouveau titre soit fixée à la date de la décision préfectorale. Il est précisé que les préfets doivent s'assurer que la date de la décision coïncide avec la mise en production du titre, « afin que seuls les délais de production s'imputent, le cas échéant, sur la durée du titre ». Au-delà de cette mesure pratique, le Gouvernement envisage dans le cadre d'un prochain projet de loi relatif à l'immigration de généraliser le titre de séjour pluriannuel en vue de sécuriser le parcours des étrangers en France et de favoriser leur intégration. Les procédures les plus simples comme le renouvellement des demandes de titre de séjour qui ont pour effet principal de ralentir l'action de l'administration seront réduites au strict nécessaire, dans la lignée des propositions faites par M. Fekl, parlementaire en mission, dans son rapport remis au Premier ministre.
