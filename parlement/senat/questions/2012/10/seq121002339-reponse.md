@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121002339
+
+- Question : [SEQ121002339](seq121002339.md) — Prix des carburants et survie des détaillants en carburants
+
+## Réponse
+
+*Économie et finances, JO du 2013-09-19, page 2708*
+
+Le comité professionnel de la distribution de carburant (CPDC) a pour mission principale de soutenir directement les stations-service indépendantes par des aides appropriées. Ces aides, qui visent à la modernisation des stations-service et à leur adaptation à l'évolution du marché, sont de trois types : aides à l'environnement, aides au développement, à la modernisation et à la diversification des activités, aides sociales en cas de fermeture. Les aides à l'environnement contribuent à financer les mises aux normes environnementales des stations-service et notamment des cuves dont l'échéance a été reportée de 3 ans, du 31 décembre 2010 au 31 décembre 2013. En contrepartie, le CPDC était tenu d'examiner en priorité les demandes d'aides au titre de ces investissements. Par ailleurs, plus de 70 % des aides sont allouées aux stations en zones rurales et près d'un tiers est consacré aux actions permettant de maintenir un maillage territorial minimal. Afin de mieux accompagner les opérations de diversification et de modernisation des stations-service, la mission d'inspection menée en novembre 2012 sur les prix, les marges et la consommation des carburants, considère qu'un nouveau compromis doit être trouvé entre les intérêts environnementaux et économiques. Ce rapport propose ainsi de mobiliser les aides du CPDC de 2013 à 2017 pour assurer le financement, d'une part, des mises aux normes environnementales, et d'autre part, des investissements indispensables pour soutenir la mutation des distributeurs indépendants. Un amendement au projet de loi sur la consommation, qui a été adopté en première lecture par l'Assemblée nationale, reprend cette proposition pour les stations distribuant moins de 500 m3 par an.
