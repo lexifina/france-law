@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203695
+
+- Question : [SEQ121203695](seq121203695.md) — Recrutement d'un employé contractuel par une commune
+
+## Réponse
+
+*Intérieur, JO du 2013-09-19, page 2716*
+
+S'il n'existait pas déjà, tout emploi sur lequel est recruté un agent non titulaire doit au préalable être créé, qu'il soit permanent ou non, cette création relevant de la compétence de l'organe délibérant qui doit préciser le ou les grades de fonctionnaire correspondants. S'il s'agit d'un emploi permanent, la délibération doit préciser, le cas échéant, s'il peut être également pourvu par un agent non titulaire dans les cas prévus à l'article 3-3 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale. Dans ce cas, la délibération doit préciser également le motif invoqué, la nature des fonctions, les niveaux de recrutement et de rémunération. À cet égard, il convient de rappeler qu'il ne peut être créé d'emploi permanent uniquement réservé aux agents non titulaires. Dès lors qu'un emploi est créé ou devient vacant, l'autorité territoriale doit en informer le centre de gestion, afin que celui-ci mette en œuvre des mesures de publicité. Cette obligation de déclaration ne concerne toutefois pas le remplacement momentané d'un agent, puisque l'emploi n'est pas vacant, ni les emplois correspondant à un besoin lié à un accroissement saisonnier ou occasionnel d'activité. Elle s'applique en revanche, non seulement aux recrutements prévus par l'article 3-3 précité, mais aussi en cas de vacance temporaire d'emploi dans l'attente du recrutement d'un fonctionnaire prévu par l'article 3-2. Un délai raisonnable doit s'écouler entre la publication de la vacance d'emploi et le recrutement, afin que les candidats soient effectivement mis en mesure de se manifester et que le principe de l'égalité d'accès aux emplois publics soit respecté.
