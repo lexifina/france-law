@@ -1,0 +1,173 @@
+# Délibération n° 2013-260 du 19 septembre 2013 autorisant le Groupement d’intérêt économique AXA à mettre en œuvre un traitement automatisé de données à caractère personnel ayant pour finalité la mise en place d’un dispositif d’alerte professionnelle.
+
+- Nature : Deliberation
+- Type : Autre autorisation
+- Numéro : 2013-260
+- Date : 2013-09-19
+- Publication : 2013-10-31
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000028133417
+
+(Demande d’autorisation n° 1661696)
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le Groupement d’intérêt économique AXA d’une demande d’autorisation concernant un traitement automatisé de données à caractère personnel ayant pour finalité la mise en place d’un dispositif d’alerte professionnelle;
+
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement de données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment ses articles 6-3°, 7-5°, 25-I-4° et 35 ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ;
+
+Vu la délibération de la CNIL n° 2005-305 du 8 décembre 2005 portant autorisation unique de traitements automatisés de données à caractère personnel mis en œuvre dans le cadre de dispositifs d’alerte professionnelle, telle que modifiée le 14 octobre 2010 ;
+
+Vu le dossier et ses compléments ;
+
+Sur la proposition de Monsieur Emmanuel de GIVRY, commissaire, et après avoir entendu les observations de M. Jean-Alexandre SILVY, commissaire du Gouvernement,
+
+Formule les observations suivantes :
+
+A titre liminaire, la Commission rappelle qu’elle a adopté, le 8 décembre 2005, une délibération portant autorisation unique de traitements automatisés de données à caractère personnel mis en œuvre dans le cadre de dispositifs d'alerte professionnelle (autorisation unique n°4).
+
+Elle observe que le traitement objet de la présente délibération ne répond pas aux conditions prévues par cette autorisation unique, notamment s’agissant du fondement juridique et du champ d’application du dispositif.
+
+La Commission doit, par conséquent, procéder à une analyse spécifique du traitement, au regard des principes relatifs à la protection des données à caractère personnel et, notamment, de l’article 6-3° de la loi du 6 janvier 1978 modifiée qui dispose que les traitements ne peuvent porter que sur des données à caractère personnel adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées et de leurs traitements ultérieurs.
+
+Responsable du traitement
+
+|
+
+La Commission est saisie par le Groupement d’intérêt économique (GIE) AXA, chargé d’assurer la gouvernance du groupe AXA spécialisé dans les activités d’assurance et de gestion d’actifs.
+
+Ce GIE définit la stratégie du groupe, contrôle et consolide les différentes opérations financières. Par ailleurs, il coordonne et conseille les entités du groupe AXA sur ses activités transversales.
+
+|
+
+Sur la finalité
+
+|
+
+Le traitement dont est saisie la Commission a pour finalité la mise en œuvre d’un dispositif d’alerte professionnelle, dédié à traiter les alertes des collaborateurs du GIE AXA portant sur des manquements graves dans les domaines financier, bancaire et comptable, ou en matière de lutte contre la corruption, les délits d’initiés et les pratiques anticoncurrentielles.
+
+La Commission considère que cette finalité est déterminée, explicite et légitime.
+
+Elle relève que la mise en œuvre de ce traitement vise à assurer la cohérence des contrôles internes effectués au niveau du groupe AXA, d’une part, ainsi que le respect de la partie du code de déontologie du groupe AXA applicable au champ du dispositif, d’autre part.
+
+La Commission rappelle qu’un dispositif d’alerte professionnelle doit être limité dans son champ d’application et que son utilisation doit demeurer facultative et complémentaire par rapport aux autres voies légales de remontée de réclamations.
+
+La Commission estime qu’en l’espèce le dispositif d’alerte qui lui est présenté est limité dans son champ d’application et répond à l’intérêt légitime du responsable du traitement, conformément aux dispositions de l’article 7-5° de la loi du 6 janvier 1978 modifiée.
+
+S’agissant des modalités d’un signalement, la Commission prend acte que les collaborateurs du GIE AXA souhaitant faire remonter une alerte utiliseront une adresse électronique dédiée.
+
+|
+
+Sur les données traitées
+
+|
+
+Les données collectées par l’intermédiaire du dispositif examiné par la Commission sont les suivantes :
+
+identité, fonction et coordonnées de l'émetteur de l'alerte ;
+
+identité, fonction et coordonnées des personnes faisant l'objet d'une alerte ;
+
+identité, fonction et coordonnées des personnes intervenant dans le recueil ou le traitement de l'alerte ;
+
+faits signalés ;
+
+éléments recueillis dans le cadre de la vérification des faits signalés ;
+
+compte rendu des opérations de vérification ;
+
+suites données à l'alerte.
+
+La Commission considère que le traitement de ces données est adéquat, pertinent et non excessif au regard de la finalité poursuivie.
+
+La Commission rappelle que l’obligation de s’identifier à l’occasion de l’émission d’une alerte professionnelle permet de limiter les risques de mises en cause abusives ou disproportionnées.
+
+Elle relève, à ce titre, que le dispositif conçu par le GIE AXA impose aux utilisateurs de s’identifier, étant précisé que l’identité de ces derniers est traitée de manière confidentielle.
+
+|
+
+Sur les destinataires
+
+|
+
+Les destinataires de tout ou partie des données à caractère personnel du présent traitement sont, dans la limite de leurs attributions respectives :
+
+le directeur de l’audit groupe et ses délégataires, chargés d’enregistrer et d’instruire les alertes ;
+
+les services internes éventuellement sollicités pour leur expertise, à savoir :
+
+la direction juridique et conformité ;
+
+la direction de la sûreté,
+
+le manager de la direction concernée par l'alerte ;
+
+la responsable des ressources humaines concerné.
+
+La Commission considère que ces destinataires présentent un intérêt légitime à accéder aux données du présent traitement.
+
+Elle relève, par ailleurs, que l’intégralité des personnes impliquées dans le traitement d’une alerte sont astreintes à une obligation de confidentialité.
+
+|
+
+Sur l’information et le droit d’accès
+
+|
+
+Les personnes concernées sont informées, conformément à l’article 32 de la loi du 6 janvier 1978 modifiée, par un courriel adressé à l’ensemble des collaborateurs du GIE AXA et une information diffusée sur l’intranet du GIE AXA.
+
+Les personnes mises en cause par une alerte en sont informées dès l’enregistrement de données les concernant. Cette information peut toutefois être retardée le temps nécessaire à l’adoption de mesures conservatoires visant à préserver des preuves.
+
+Les droits d’accès et de rectification s’exercent directement auprès du directeur de l’audit interne groupe.
+
+La Commission considère que ces modalités d’information et d’exercice des droits des personnes sont satisfaisantes.
+
+|
+
+Sur les mesures de sécurité
+
+|
+
+Des mesures de sécurité sont prises par le responsable de traitement afin de préserver la sécurité des données et, notamment, empêcher que des tiers non autorisés y aient accès.
+
+L’adresse électronique dédiée utilisée pour émettre une alerte ne sera accessible que par les personnes habilitées à traiter des signalements, lesquelles devront s’identifier avec des codes d’accès individuels.
+
+Conformément aux recommandations de la Commission, l’authentification des utilisateurs du traitement sera assurée par l’utilisation de mots de passe, renouvelés à intervalles réguliers, constitués d’au moins huit caractères et contenant une combinaison d’au moins trois types de caractères différents.
+
+Le traitement comporte, par ailleurs, une fonctionnalité de journalisation des opérations de consultation, de modification ou de création permettant d’identifier l’utilisateur à l’origine d’une opération.
+
+Enfin, les échanges de données et connexions à distance seront assurés par l’intermédiaire d’un réseau privé virtuel.
+
+Les mesures de sécurité décrites par le responsable de traitement sont conformes à l’exigence de sécurité prévue par l’article 34 de la loi du 6 janvier 1978 modifiée.
+
+La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques.
+
+|
+
+Sur les autres caractéristiques du traitement
+
+|
+
+La Commission relève que les durées de conservation prévues par le responsable de traitement sont identiques à celles mentionnées à l’article 6 de l’autorisation unique n° 4, à savoir :
+
+les données relatives à une alerte considérée, dès son recueil par le responsable du traitement, comme n'entrant pas dans le champ du dispositif sont détruites ou archivées sans délai ;
+
+lorsque l'alerte n'est pas suivie d'une procédure disciplinaire ou judiciaire, les données sont détruites ou archivées dans un délai de deux mois à compter de la clôture des opérations de vérification ;
+
+lorsqu'une procédure disciplinaire ou des poursuites judiciaires sont engagées à l'encontre de la personne mise en cause ou de l'auteur d'une alerte abusive, les données sont conservées jusqu'au terme de la procédure.
+
+La Commission considère que ces durées de conservation n’excèdent pas celles qui sont nécessaires à l’accomplissement de la finalité poursuivie par le responsable de traitement.
+
+|
+
+Autorise, conformément à la présente délibération, le Groupement d’intérêt économique AXA à mettre en œuvre le traitement susmentionné.
+
+La Présidente
+
+Isabelle FALQUE-PIERROTIN
