@@ -1,6 +1,6 @@
 # Article Annexe IV
 
-Liste des titres de formation de médecin généraliste délivrés par les Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen permettant l'accès à la qualification en médecine générale
+Liste des titres de formation de médecin généraliste délivrés par les Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen permettant l'accès à la qualification en médecine générale
 
 Pays
 
@@ -71,6 +71,18 @@ Chypre
 |
 
 1er mai 2004
+
+|
+
+Croatie
+
+|
+
+Diploma o specijalistickom usavršavanju
+
+|
+
+1er juillet 2013
 
 |
 

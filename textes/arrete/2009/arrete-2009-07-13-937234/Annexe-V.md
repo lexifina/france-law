@@ -1,6 +1,6 @@
 # Article Annexe V
 
-Liste des titres de formation de neuropsychiatrie et de radiologie délivrés par les Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen
+Liste des titres de formation de neuropsychiatrie et de radiologie délivrés par les Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen
 
 Pays
 
@@ -55,6 +55,16 @@ Chypre
 Νευρολογία - Ψυχιατρική
 
 |
+
+|
+
+Croatie
+
+|
+
+|
+
+Klinicka radiologija
 
 |
 

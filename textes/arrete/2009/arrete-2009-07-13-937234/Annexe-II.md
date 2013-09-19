@@ -1,6 +1,6 @@
 # Article Annexe II
 
-Liste des titres de formation de médecin spécialiste délivrés par les Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, visée au a) du 2° de l'article L. 4131-1 du code de la santé publique
+Liste des titres de formation de médecin spécialiste délivrés par les Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, visée au a) du 2° de l'article L. 4131-1 du code de la santé publique
 
 Pays
 
@@ -97,6 +97,22 @@ Chypre
 |
 
 1er mai 2004
+
+|
+
+Croatie
+
+|
+
+Diploma o specijalistickom usavršavanju
+
+|
+
+Ministarstvo nadležno za zdravstvo
+
+|
+
+1er juillet 2013
 
 |
 

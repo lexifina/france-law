@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Liste des titres de formation médicale de base délivrés par les Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, visée au a) du du 2° de l'article L. 4131-1 du code de la santé publique
+Liste des titres de formation médicale de base délivrés par les Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, visée au a) du du 2° de l'article L. 4131-1 du code de la santé publique
 
 Pays
 
@@ -123,6 +123,24 @@ Chypre
 |
 
 1er mai 2004
+
+|
+
+Croatie
+
+|
+
+Diploma "doktor medicine/ doktorica medicine"
+
+|
+
+Medicinski fakulteti sveucilišta u Republici Hrvatskoj
+
+|
+
+|
+
+1er juillet 2013
 
 |
 

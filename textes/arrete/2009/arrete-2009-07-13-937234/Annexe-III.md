@@ -1,6 +1,6 @@
 # Article Annexe III
 
-Dénomination des formations médicales spécialisées dispensées au sein des Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, et permettant l'accès à la qualification dans lesdites spécialités en France
+Dénomination des formations médicales spécialisées dispensées au sein des Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, et permettant l'accès à la qualification dans lesdites spécialités en France
 
 ANATOMIE ET CYTOLOGIE PATHOLOGIQUES
 
@@ -15,6 +15,8 @@ Belgique : Anatomie pathologique / Pathologische anatomie
 Bulgarie : Обща и клинична патология
 
 Chypre : Παθολογοανατομία-Ιστολογία
+
+Croatie : Patologija
 
 Danemark : Patologisk anatomi og cytologi
 
@@ -79,6 +81,8 @@ Belgique : Anesthésie-réanimation / Anesthesie reanimatie
 Bulgarie : Aнестезиология и интензивно лечение
 
 Chypre : Αναισθησιολογία
+
+Croatie : Anesteziologija, reanimatologija i intenzivna medicina
 
 Danemark : Anæstesiologi
 
@@ -170,6 +174,8 @@ Bulgarie : Кардиология
 
 Chypre : Καρδιολογία
 
+Croatie : Kardiologija
+
 Danemark : Intern medicin : kardiologi
 
 Espagne : Cardiología
@@ -229,6 +235,8 @@ Belgique : Chirurgie / Heelkunde
 Bulgarie : Xирургия
 
 Chypre : Γενική Χειρουργική
+
+Croatie : opća kirurgija
 
 Danemark : Kirurgi
 
@@ -290,6 +298,8 @@ Bulgarie : Детска хирургия
 
 Chypre : Χειρουργική Παίδων
 
+Croatie : Dječja kirurgija
+
 Espagne : Cirugía pediátrica
 
 Estonie : Lastekirurgia
@@ -340,6 +350,8 @@ Autriche : Mund - Kiefer - und Gesichtschirurgie
 
 Bulgarie : Дентална, орална и лицево-челюстна хирургия (formation de base de médecin et de praticien de l'art dentaire)
 
+Croatie : Maksilofacijalna kirurgija
+
 Espagne : Cirugía oral y maxilofacial
 
 Hongrie : Szájsebészet
@@ -375,6 +387,8 @@ Belgique : Chirurgie orthopédique / Orthopedische heelkunde
 Bulgarie : Ортопедия и травматология
 
 Chypre : Ορθοπεδική
+
+Croatie : Ortopedija i traumatologija
 
 Danemark : Ortopædisk kirurgi
 
@@ -437,6 +451,8 @@ Belgique : Chirurgie plastique, reconstructrice et esthétique / Plastische, rec
 Bulgarie : Пластично-възстаовителна хирургия
 
 Chypre : Πλαστική Χειρουργική
+
+Croatie : Plastična, rekonstrukcijska i estetska kirurgija
 
 Danemark : Plastikkirurgi
 
@@ -556,6 +572,8 @@ Bulgarie : Съдова хирургия
 
 Chypre : Χειρουργική Αγγείων
 
+Croatie : Vaskularna kirurgija
+
 Danemark : Karkirurgi
 
 Espagne : Angiología y cirugía vascular
@@ -602,6 +620,8 @@ Belgique : Chirurgie abdominale / Heelkunde op het abdomen
 
 Bulgarie : Висцерална хирургия
 
+Croatie : Abdominalna kirurgija
+
 Danemark : Kirurgisk gastroenterologi eller kirurgiske mave-tarmsygdomme (jusqu'au 1er janvier 2004)
 
 Espagne : Cirugía del aparato digestivo
@@ -631,6 +651,8 @@ Belgique : Dermato-vénéréologie / Dermato-venerologie
 Bulgarie : Кожни и венерически болести
 
 Chypre : Δερματολογία-Αφροδισιολογία
+
+Croatie : Dermatologija i venerologija
 
 Danemark : Dermato-venerologi
 
@@ -686,6 +708,8 @@ Bulgarie : Ендокринология и болести на обмяната
 
 Chypre : Ενδοκρινολογία
 
+Croatie : Endokrinologija i dijabetologija
+
 Danemark : Intern medicin : endokrinologi
 
 Espagne : Endocrinología y nutrición
@@ -739,6 +763,8 @@ Belgique : Gastro‑entérologie / gastroenterologie
 Bulgarie : Гастроентерология
 
 Chypre : Γαστρεντερολογία
+
+Croatie : Gastroenterologija
 
 Danemark : Intern medicin : gastroenterologi og hepatologi
 
@@ -846,6 +872,8 @@ Bulgarie : Aкушерство и гинекология
 
 Chypre : Μαιευτική-Γυναικολογία
 
+Croatie : Ginekologija i opstetricija
+
 Danemark : Gynækologi og obstetric
 
 Espagne : Obstetricia y ginecología
@@ -899,6 +927,8 @@ HEMATOLOGIE
 Rubrique européenne : Hématologie générale
 
 Chypre : Αιματολογία
+
+Croatie : Hematologija
 
 Danemark : Inter medicin :Hæmatologi
 
@@ -955,6 +985,8 @@ Belgique : Médecine interne / Inwendige geneeskunde
 Bulgarie : Вътрешни болести
 
 Chypre : Παθoλoγία
+
+Croatie : opća interna medicina
 
 Danemark : Intern medicin (jusqu'au 1er janvier 2004)
 
@@ -1018,6 +1050,8 @@ Bulgarie : Нуклеарна медицина
 
 Chypre : Πυρηνική Ιατρική
 
+Croatie : Nuklearna medicina
+
 Danemark : Klinisk fysiologi og nuklearmedicin
 
 Espagne : Medicina nuclear
@@ -1074,6 +1108,8 @@ Bulgarie : Физикална и рехабилитационна
 
 Chypre : Φυσική Ιατρική και Αποκατάσταση
 
+Croatie : Fizikalna medicina i rehabilitacija
+
 Espagne : Rehabilitación
 
 Estonie : Taastusravi ja füsiaatria
@@ -1128,6 +1164,8 @@ Bulgarie : Трудова медицина
 
 Chypre : Ιατρική της Εργασίας
 
+Croatie : Medicina rada i športa
+
 Danemark : Arbejdsmedicin
 
 Finlande : Työterveyshuolto / Företagshälsovård
@@ -1179,6 +1217,8 @@ Rubrique européenne : Maladies rénales
 Bulgarie : Нефрология
 
 Chypre : Νεφρολογία
+
+Croatie : Nefrologija
 
 Danemark : Intern medicin : nefrologi
 
@@ -1239,6 +1279,8 @@ Belgique : Neurochirurgie
 Bulgarie : Неврохирургия
 
 Chypre : Νευροχειρουργική
+
+Croatie : Neurokirurgija
 
 Danemark : Neurokirurgi
 
@@ -1302,6 +1344,8 @@ Bulgarie : Нервни болести
 
 Chypre : Νευρολογία
 
+Croatie : Neurologija
+
 Danemark : Neurologi
 
 Espagne : Neurología
@@ -1364,6 +1408,8 @@ Bulgarie : Лъчeлечение
 
 Chypre : Ακτινοθεραπεντική - Ογκολογία
 
+Croatie : Onkologija i radioterapija
+
 Danemark : Onkologi
 
 Espagne : Oncología radioterápica
@@ -1421,6 +1467,8 @@ Belgique : Ophtalmologie / Oftalmologie
 Bulgarie : Οчни болести
 
 Chypre : Οφθαλμολογία
+
+Croatie : Oftalmologija i optometrija
 
 Danemark : Oftalmologi
 
@@ -1484,6 +1532,8 @@ Bulgarie : Ушно-носно-гърлени болести
 
 Chypre : Ωτορινολαρυγγολογία
 
+Croatie : Otorinolaringologija
+
 Danemark : Oto-rhino-laryngologi
 
 Espagne : Otorrinolaringología
@@ -1546,6 +1596,8 @@ Bulgarie : Детски болести
 
 Chypre : Παιδιατρική
 
+Croatie : Pedijatrija
+
 Danemark : Pædiatri
 
 Espagne : Pediatria y sus áreas especificas
@@ -1606,6 +1658,8 @@ Bulgarie : Детска психиaтрия
 
 Chypre : пαισοψυχιατρική
 
+Croatie : Dječja i adolescentna psihijatrija
+
 Danemark : Børne- og ungdomspsykiatri
 
 Finlande : Lastenpsykiatria/Barnpsykiatri
@@ -1657,6 +1711,8 @@ Belgique : Pneumologie
 Bulgarie : Пневмология и фтизиатрия
 
 Chypre : Πνευμονολογία-Φυματιολογία
+
+Croatie : Pulmologija
 
 Danemark : Intern medicin : lungesygdomme
 
@@ -1720,6 +1776,8 @@ Bulgarie : Психиатрия
 
 Chypre : Ψυχιατρική
 
+Croatie : Psihijatrija
+
 Danemark : Psykiatri
 
 Espagne : Psiquiatría
@@ -1782,6 +1840,8 @@ Bulgarie : Образна диагностика
 
 Chypre : Ακτινολογία
 
+Croatie : Klinićka radiologija
+
 Danemark : Diagnostik radiologi
 
 Espagne : Radiodiagnóstico
@@ -1840,6 +1900,8 @@ Bulgarie : Ревматология
 
 Chypre : Ρευματολογία
 
+Croatie : Reumatologija
+
 Danemark : Intern medicin : reumatologi
 
 Espagne : Reumatología
@@ -1897,6 +1959,8 @@ Autriche : Sozialmedizin
 Bulgarie : Социална медицина и здравен мениджмънт Комуналнахигиена
 
 Chypre : Υγειονολογία / Κοινοτική Ιατρική
+
+Croatie : Javnozdravstvena medicina
 
 Danemark : Samfundsmedicin
 
@@ -1965,6 +2029,8 @@ Belgique : Urologie
 Bulgarie : Урология
 
 Chypre : Ουρολογία
+
+Croatie : Urologija
 
 Danemark : Urologi
 
