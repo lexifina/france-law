@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130607104
+
+- Question : [SEQ130607104](seq130607104.md) — Délais des campagnes électorales
+
+## Réponse
+
+*Intérieur, JO du 2013-09-19, page 2724*
+
+La commission nationale des comptes de campagne et des financements politiques (CNCCFP) considère que « le délai de financement des campagnes électorales fixé actuellement par les articles L. 52-4 et L. 52-12 du Code électoral, à un an, se révèle, à l'expérience, peu réaliste et source de difficultés d'interprétation, en particulier pour les responsables d'exécutifs locaux. En outre, plus la réalisation des opérations est ancienne, plus leur contrôle lors de l'examen des comptes de campagne risque de se heurter à des impossibilités d'ordre pratique. En conséquence, la CNCCFP serait d'avis que le législateur examine la possibilité de réduire très sensiblement cette durée ». Par souci d'harmonisation, un délai fixé à six mois irait dans le même sens que les interdictions prévues par les dispositions des alinéas 1 et 2 de l'article L. 52-1 du code électoral dans sa rédaction issue de la loi n° 2011-412 du 14 avril 2011. En revanche, un délai de quatre mois ne présente pas les mêmes avantages en termes d'harmonisation des différents délais et pourrait apparaître comme trop bref pour assurer une réelle transparence du financement. En ce qui concerne l'élection présidentielle, compte tenu de ses particularités, et à la lumière de la décision du Conseil constitutionnel du 4 juillet 2013, il est apparu à la CNCCFP que « l'examen d'une réduction de la période de financement de la campagne ne devrait pas être dissocié d'une réflexion plus large sur les conditions de déclaration et de présentation des candidats à l'élection présidentielle ». Le Gouvernement étudie les propositions de la CNCCFP. La mise en œuvre de ces propositions nécessite en tout état de cause la modification par le Parlement des articles législatifs encadrant le financement des campagnes électorales.
