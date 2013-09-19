@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130807753
+
+- Question : [SEQ130807753](seq130807753.md) — Réseau des ambassadeurs pour les régions
+
+## Réponse
+
+*Affaires étrangères, JO du 2013-09-19, page 2702*
+
+Dans le cadre de son action en faveur de la diplomatie économique, le ministère des affaires étrangères a mis à disposition d'une douzaine de conseils régionaux, qui en ont fait la demande, sept ambassadeurs d'expérience. Leur rôle est d'assurer une interface claire et visible entre le réseau diplomatique, que ces ambassadeurs connaissent bien, et les conseils régionaux, qui sont les chefs de file pour le développement économique des territoires. Les ambassadeurs pour les régions ne génèrent pas de coût budgétaire supplémentaire. Ils ne viennent pas non plus s'ajouter aux différents dispositifs déjà présents sur les territoires (réseaux régionaux des administrations économiques, chambres de commerce et d'industrie régionales, outils des conseils régionaux, agences de développement etc.). D'une part, ils s'inscrivent pleinement dans la stratégie définie localement à travers les plans régionaux d'internationalisation des entreprises (PRIE). Leur positionnement, auprès des présidents des régions qui fixent les priorités de leur action, est à même de répondre à l'extrême diversité qui est celle des territoires. D'autre part, ils œuvrent au partage de l'information et à une meilleure utilisation du réseau diplomatique au bénéfice des régions, sans instruire sur le fond les dossiers. Ils participent notamment à la constitution des listes d'entreprises, en particulier des PME et des ETI, dans les visites ministérielles à l'étranger. Ils assurent ainsi une meilleure coordination entre les territoires de France et notre diplomatie économique. Dans la bataille pour le redressement économique du pays, le réseau diplomatique français, le deuxième plus vaste au monde, est un atout important. Il était urgent de le mettre au service des forces vives de nos régions.
