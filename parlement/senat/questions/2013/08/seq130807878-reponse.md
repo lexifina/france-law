@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130807878
+
+- Question : [SEQ130807878](seq130807878.md) — Infractions sur le terriotoire communal
+
+## Réponse
+
+*Intérieur, JO du 2013-09-19, page 2722*
+
+Il convient de distinguer, d'une part, le signalement d'infractions, d'autre part, le dépôt d'une plainte au nom d'une collectivité territoriale. Les infractions peuvent être signalées par tout élu ou agent qui en a connaissance. En outre, conformément à l'article 40 du code de procédure pénale, tout agent public qui, dans l'exercice de ses fonctions, acquiert la connaissance d'un crime ou d'un délit doit en informer le Procureur de la République. En revanche, les procès-verbaux ne peuvent être dressés que par les agents que les textes habilitent à cet effet. La plainte est une démarche différente. Il est nécessaire de disposer de la capacité à ester en justice au nom de la collectivité pour procéder au dépôt d'une plainte au nom de celle-ci. La circulaire NOR IOCB1210275C du 6 avril 2012 rappelle les règles relatives à la capacité à ester en justice au nom de la commune. En vertu de l'article L. 2132-1 du code général des collectivités territoriales (CGCT), la décision d'ester en justice au nom de la commune relève de la compétence du conseil municipal, qui peut déléguer celle-ci au maire conformément au 16° de l'article L. 2122-22 du même code. Conformément aux dispositions de l'article L. 2122-23 du CGCT et sauf disposition contraire dans la délibération du conseil municipal, le maire peut subdéléguer la possibilité d'ester en justice au nom de la commune soit à un adjoint, soit à un conseiller municipal « en l'absence ou en cas d'empêchement des adjoints ou dès lors que ceux-ci sont tous titulaires d'une délégation » (article L. 2122-18 du CGCT). En revanche, le maire ne peut pas subdéléguer la capacité à ester en justice au nom de la commune à un fonctionnaire, même s'il s'agit d'un agent de police municipale.
