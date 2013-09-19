@@ -16,47 +16,99 @@ Nombre de points par emploi
 
 |
 
-Chef de garage coordinateur du parc automobile
+Chef de garage coordonnateur du parc automobile
 
 |
+
+C |
+
+1
+
+|
+
+15
+
+|
+
+Agent assurant la gestion, le recrutement et la formation des personnels |
 
 C
 
 |
 
-1 (à compter du 1er-08-1990)
+1
 
 |
 
-15 (à compter du 1er-08-1990)
+15
 
 |
 
-1 (à compter du 1er-08-1991)
+Secrétaires particuliers (ères) du secrétaire général
 
 |
 
-15 (à compter du 1er-08-1991)
+B ou C
 
 |
 
-Agent assurant la gestion, le recrutement et la formation des personnels
+3
 
 |
 
-C
+17
 
 |
 
-2 (à compter du 1er-08-1992)
+Secrétaire particulier (ère) du secrétaire général adjoint
 
 |
 
-15 (à compter du 1er-08-1992)
+B ou C
 
 |
 
-Secrétaires particuliers (ères) du Secrétaire général
+1
+
+|
+
+17
+
+|
+
+Chef de secrétariat coordination
+
+|
+
+B ou C
+
+|
+
+1
+
+|
+
+17
+
+|
+
+Chef de secrétariat des directions du SGDSN
+
+|
+
+B ou C
+
+|
+
+3
+
+|
+
+15
+
+|
+
+Chef du secrétariat exportation des matériels de guerre
 
 |
 
@@ -72,79 +124,7 @@ B ou C
 
 |
 
-2
-
-|
-
-13
-
-|
-
-Secrétaire particulier (ère) du Secrétaire général adjoint
-
-|
-
-B ou C
-
-|
-
-1
-
-|
-
-13
-
-|
-
-Chef de secrétariat de la coordination
-
-|
-
-B ou C
-
-|
-
-1
-
-|
-
-13
-
-|
-
-Chef de secrétariat des directions du SGDN
-
-|
-
-B ou C
-
-|
-
-5
-
-|
-
-15
-
-|
-
-Chef de secrétariat au secrétariat permanent du comité interministériel du renseignement
-
-|
-
-B ou C
-
-|
-
-1
-
-|
-
-13
-
-|
-
-Chef du bureau achat-marchés
+Chef du bureau courrier
 
 |
 
@@ -160,7 +140,7 @@ B ou C
 
 |
 
-Responsable du suivi des crédits du SGDN
+Chef du secrétariat du chef du centre de formation à la sécurité des systèmes d'information
 
 |
 
@@ -175,3 +155,13 @@ B ou C
 15
 
 |
+
+Responsable du suivi des crédits du SGDSN
+
+|
+
+B ou C |
+
+1 |
+
+15 |
