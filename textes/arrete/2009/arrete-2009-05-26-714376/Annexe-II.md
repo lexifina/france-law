@@ -36,6 +36,8 @@ b) Pour les autres demandeurs d'aide, le montant maximum de l'indemnisation pour
 
 - pour les actions de plantation à un montant maximal de 3 100 €/ha.
 
+A partir des plantations de la campagne 2012-2013 effectuées dans le cadre des plans collectifs locaux agréés au titre de la campagne 2010-2011, l'indemnité pour pertes de recettes est fixée pour les actions de plantation à un montant maximal de 4 500 €/ha.
+
 NOTA :
 
 (1) Cette date peut être adaptée pour les zones entrant dans le dispositif d'aide à la restructuration et à la reconversion du vignoble postérieurement à la campagne viticole 2008-2009.
