@@ -62,6 +62,8 @@ Phthorimaea operculella (teigne de la pomme de terre) ;
 
 Quadraspidiotus perniciosus (pou de San José) ;
 
+Rhagoletis completa Cresson (mouche du brou de la noix) ;
+
 Scaphoideus titanus (vecteur du phytoplasme de la flavescence dorée) ;
 
 Scolytes non listés aux annexes de l'arrêté du 24 mai 2006 susmentionné ;

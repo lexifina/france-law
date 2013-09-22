@@ -2,7 +2,9 @@
 
 Chapitre Ier : Dispositions relatives au territoire métropolitain.
 
-i) Les organismes nuisibles visés au chapitre Ier de la partie A de l'annexe I et au chapitre 1er de la partie A de l'annexe II de l'arrêté du 24 mai 2006 relatif aux exigences sanitaires des végétaux, produits végétaux et autres objets.
+i) Les organismes nuisibles visés au chapitre Ier de la partie A de l'annexe I et au chapitre Ier de la partie A de l'annexe II de l'arrêté du 24 mai 2006 relatif aux exigences sanitaires des végétaux, produits végétaux et autres objets, à l'exception de ceux listés ci-après :
+
+Rhagoletis completa Cresson (mouche du brou de la noix) ;
 
 ii) Les organismes nuisibles visés au chapitre 2 de la partie A de l'annexe I, à la partie B de l'annexe I, au chapitre 2 de la partie A de l'annexe II et à la partie B de l'annexe II de l'arrêté du 24 mai 2006 susmentionné, listés ci-après :
 
