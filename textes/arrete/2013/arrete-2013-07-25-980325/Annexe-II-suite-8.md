@@ -1,24 +1,32 @@
-# Article Annexe II (suite)
+# Article Annexe II (suite 8)
 
-..
-
-Secrétariat général de l'administration - Service parisien de soutien de l'administration centrale
+SID
 
 |
 
-SPAC
+Etablissement du service d'infrastructure de la défense d'Ile-de-France - Unité de soutien d'infrastructure de la défense de Paris - Antenne de Percy
 
 |
 
-Sous-direction de la gestion budgétaire et financière
+92
 
 |
 
-59
+Clamart
 
 |
 
-Lille
+X
+
+|
+
+X
+
+|
+
+|
+
+X
 
 |
 
@@ -40,31 +48,23 @@ X
 
 |
 
-|
+X
 
 |
 
-|
+SID
 
 |
 
-|
-
-SPAC
+Etablissement du service d'infrastructure de la défense d'Ile-de-France - Unité de soutien d'infrastructure de la défense de Versailles -Antennes de Suresnes
 
 |
 
-Sous-direction de la gestion budgétaire et financière
+92
 
 |
 
-75
-
-|
-
-Paris
-
-|
+Suresnes
 
 |
 
@@ -72,43 +72,7 @@ X
 
 |
 
-|
-
 X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-SPAC
-
-|
-
-Direction de site de Paris intra-muros
-
-|
-
-75
-
-|
-
-Paris
 
 |
 
@@ -130,14 +94,6 @@ X
 
 |
 
-X
-
-|
-
-X
-
-|
-
 |
 
 |
@@ -148,109 +104,11 @@ X
 
 |
 
-SPAC
+SID
 
 |
 
-Direction de site de Balard
-
-|
-
-75
-
-|
-
-Paris
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-SPAC
-
-|
-
-Sous-direction de la performance interne
-
-|
-
-75
-
-|
-
-Paris
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-X
-
-|
-
-SPAC
-
-|
-
-Direction de site Arcueil-Vanves
+Etablissement du service d'infrastructure de la défense d'Ile-de-France - Unité de soutien d'infrastructure de la défense de Paris - Antennes du Kremlin-Bicêtre
 
 |
 
@@ -258,7 +116,25 @@ Direction de site Arcueil-Vanves
 
 |
 
-Arcueil
+Le Kremlin-Bicêtre
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+|
 
 |
 
@@ -276,29 +152,15 @@ X
 
 |
 
-|
-
 X
 
 |
 
-X
+SID
 
 |
 
-|
-
-|
-
-|
-
-|
-
-SPAC
-
-|
-
-Sous-direction de l'ingénierie du soutien
+Etablissement du service d'infrastructure de la défense d'Ile-de-France - Unité de soutien d'infrastructure de la défense de Paris - Antenne de Bégin
 
 |
 
@@ -306,23 +168,7 @@ Sous-direction de l'ingénierie du soutien
 
 |
 
-Arcueil
-
-|
-
-|
-
-X
-
-|
-
-|
-
-|
-
-|
-
-|
+Saint-Mandé
 
 |
 
@@ -333,42 +179,6 @@ X
 X
 
 |
-
-|
-
-|
-
-|
-
-|
-
-SPAC
-
-|
-
-Sous-direction de la performance interne
-
-|
-
-94
-
-|
-
-Arcueil
-
-|
-
-|
-
-X
-
-|
-
-X
-
-|
-
-X
 
 |
 
@@ -392,61 +202,17 @@ X
 
 |
 
-X
-
-|
-
-SPAC
-
-|
-
-Sous-direction de la gestion du personnel civil de l'administration centrale
-
-|
-
-94
-
-|
-
-Arcueil
-
-|
-
 |
 
 X
 
 |
 
-|
+SID
 
 |
 
-X
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-SPAC
-
-|
-
-Sous-direction de l'ingénierie du soutien Arcueil-Vincennes
+Etablissement du service d'infrastructure de la défense d'Ile-de-France - Pôles de Paris
 
 |
 
@@ -458,17 +224,11 @@ Vincennes
 
 |
 
-|
-
 X
 
 |
 
-|
-
-|
-
-|
+X
 
 |
 
@@ -486,19 +246,289 @@ X
 
 |
 
+X
+
+|
+
+X
+
+|
+
+X
+
 |
 
 |
 
-Délégation à l'information et à la communication de la défense (DICOD)
+|
+
+X
 
 |
 
-DICOD
+SID
 
 |
 
-Délégation à l'information et à la communication de la défense
+Etablissement du service d'infrastructure de la défense d'Ile-de-France - Unité de soutien d'infrastructure de la défense de Creil - Antenne de Taverny
+
+|
+
+95
+
+|
+
+Taverny
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+SID
+
+|
+
+Etablissement du service d'infrastructure de la défense de Metz - Unité de soutien d'infrastructure de la défense de Strasbourg - Antenne de Donaueschingen
+
+|
+
+RFA
+
+|
+
+Donaueschingen
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+Service parisien de soutien de l'administration centrale (SPAC)
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - sous-direction de la gestion budgétaire et financière
+
+|
+
+59
+
+|
+
+Lille
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - sous direction de la gestion budgétaire et financière
+
+|
+
+75
+
+|
+
+Paris
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - sous-direction des achats
+
+|
+
+75
+
+|
+
+Paris
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - sous-direction de l'ingénierie du soutien
 
 |
 
@@ -516,15 +546,7 @@ X
 
 |
 
-X
-
 |
-
-X
-
-|
-
-X
 
 |
 
@@ -544,11 +566,679 @@ X
 
 |
 
+|
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - sous-direction de la performance interne
+
+|
+
+75
+
+|
+
+Paris
+
+|
+
 X
 
 |
 
-Direction de la protection et de la sécurité de la défense (DPSD)
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - direction de site de Paris intra-muros
+
+|
+
+75
+
+|
+
+Paris
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - direction de site de Balard
+
+|
+
+75
+
+|
+
+Paris
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - sous-direction de la performance interne
+
+|
+
+92
+
+|
+
+Bagneux
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - direction de site de Bagneux
+
+|
+
+92
+
+|
+
+Bagneux
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale – sous-direction de la gestion budgétaire et financière
+
+|
+
+94
+
+|
+
+Arcueil
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - direction de site Arcueil - Vanves
+
+|
+
+94
+
+|
+
+Arcueil
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - sous-direction de la gestion du personnel civil de l'administration centrale
+
+|
+
+94
+
+|
+
+Arcueil
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - sous-direction de l'ingénierie du soutien
+
+|
+
+94
+
+|
+
+Arcueil
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - sous-direction de la performance interne
+
+|
+
+94
+
+|
+
+Arcueil
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+SPAC
+
+|
+
+Service parisien de soutien de l'administration centrale - sous-direction de l'ingénierie du soutien Vincennes
+
+|
+
+94
+
+|
+
+Vincennes
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Délégation à l'information et à la communication de défense (DICOD)
+
+|
+
+DICOD
+
+|
+
+Délégation à l'information et à la communication de défense
+
+|
+
+75
+
+|
+
+Paris
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+|
+
+X
+
+|
+
+|
+
+|
+
+X
+
+|
+
+DPSD
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -695,6 +1385,8 @@ X
 |
 
 |
+
+X
 
 |
 
@@ -1314,7 +2006,7 @@ Poste de la protection et de la sécurité de la défense
 
 |
 
-Cherbourg-Octeville
+Cherbourg
 
 |
 
@@ -1506,7 +2198,7 @@ DPSD
 
 |
 
-Direction régionale de la protection et de la sécurité de la défense - Zone de défense Est
+Direction régionale de la protection et de la sécurité de la défense -Zone de défense Est
 
 |
 
@@ -1556,7 +2248,7 @@ DPSD
 
 |
 
-Direction régionale de la protection et de la sécurité de la défense - Zone de défense Nord
+Direction régionale de la protection et de la sécurité de la défense -Zone de défense Nord
 
 |
 
