@@ -32,9 +32,7 @@ Secrétaire général des ministères chargés des affaires sociales
 
 2° Secrétaire général
 
-DÉSIGNATION DE L'EMPLOI
-
-|
+DÉSIGNATION DE L'EMPLOI |
 
 NOMBRE
 
@@ -208,18 +206,6 @@ Directeur de l'administration générale et de la modernisation des services
 
 |
 
-Directeur, adjoint au directeur général de la santé (à compter du 5 juillet 2007)
-
-|
-
-1
-
-|
-
-150
-
-|
-
 Directeur de la sécurité sociale
 
 |
@@ -256,6 +242,14 @@ Directeur de la recherche, des études, de l'évaluation et des statistiques
 
 |
 
+Secrétaire général adjoint des ministères chargés des affaires sociales
+
+|
+
+1 |
+
+150 |
+
 Délégué
 
 |
@@ -264,7 +258,7 @@ Délégué
 
 |
 
-Délégué aux affaires juridiques (à compter du 5 mai 2011)
+Délégué aux affaires juridiques (à compter du 18 avril 2012)
 
 |
 
@@ -272,7 +266,7 @@ Délégué aux affaires juridiques (à compter du 5 mai 2011)
 
 |
 
-120
+150
 
 |
 
@@ -364,13 +358,23 @@ Chef de service, direction de l'administration générale et de la modernisation
 
 |
 
-Chef de service, secrétaire général, direction générale de la santé (à compter du 11 mai 2007)
+Chef de service, adjoint au directeur général de la santé, secrétaire général
 
 |
 
 1
 
 |
+
+120
+
+|
+
+Chef de service, adjoint au directeur général de la santé, chargé des politiques de santé
+
+|
+
+1 |
 
 120
 
@@ -602,7 +606,7 @@ Direction de l'administration générale et de la modernisation des services : s
 
 |
 
-Direction générale de la santé : sous-directeur de la politique des pratiques et des produits de santé (à compter du 11 mai 2007)
+Direction générale de la santé : sous-directeur de la politique des produits de santé et de la qualité des pratiques et des soins
 
 |
 
@@ -614,7 +618,7 @@ Direction générale de la santé : sous-directeur de la politique des pratiques
 
 |
 
-Direction générale de la santé : sous-directeur de la promotion de la santé et de la prévention des maladies chroniques (à compter du 11 mai 2007)
+Direction générale de la santé : sous-directeur de la santé des populations et de la prévention des maladies chroniques
 
 |
 
@@ -937,6 +941,16 @@ Sous-directeur au secrétariat général du comité interministériel des villes
 110
 
 |
+
+Sous-directeur, adjoint au délégué aux affaires juridiques (à compter du 17 avril 2013)
+
+|
+
+1
+
+|
+
+110 |
 
 Directeur de projet
 
