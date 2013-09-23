@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION DE PARTENARIAT EPCC ECOLE SUPERIEURE D ART (ESA) FELIX CICCOLINI ET VILLE D AIX-EN-PROVENCE POUR L'EXPOSITION 'ANTIATLAS DES FRONTIERES' DANS LE CADRE DE MARSEILLE PROVENCE 2013 - MUSEE DES TAPISSERIES
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2013-09-23
+- Séance : Conseil Municipal 1CA
+- Objet : CONVENTION DE PARTENARIAT EPCC ECOLE SUPERIEURE D ART (ESA) FELIX CICCOLINI ET VILLE D AIX-EN-PROVENCE POUR L'EXPOSITION 'ANTIATLAS DES FRONTIERES' DANS LE CADRE DE MARSEILLE PROVENCE 2013 - MUSEE DES TAPISSERIES
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-5147-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
