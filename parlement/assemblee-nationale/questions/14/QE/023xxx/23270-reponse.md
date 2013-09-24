@@ -1,0 +1,9 @@
+# Réponse à la question n° 23270
+
+- Question : [23270](23270.md) — Question n° 23270 — mortalité infantile; lutte et prévention
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Le taux de mortalité infantile a baissé au cours de la dernière décennie pour passer de 4,2 pour mille en 2002 à 3,5 pour mille en 2012. Le taux de mortinatalité est élevé en France au regard du taux déclaré par les autres pays européens, comme le rappelle le rapport EURO-PERISTAT publié en mai 2013. Cette particularité peut s'expliquer en grande partie par une politique active de dépistage des anomalies congénitales et une pratique des interruptions de grossesse pour motif médical plus tardive que dans les autres pays européens. Le rapport de l'académie nationale de médecine (23 novembre 2010) et l'étude de la mortinatalité menée par le registre périnatal dans trois départements de la région Rhône-Alpes (REHOP) estiment à près de 50 % le poids des interruptions de grossesse pour motif médical dans le taux de mortinatalité. Pour améliorer le recueil de cet indicateur, il a été décidé, dans le cadre de la circulaire interministérielle DGCL/DACS/DHOS/DGS du 19 juin 2009 et de l'instruction DGS/DGOS/DREES/MC1/R3/BESC/2011/403 du 26 octobre 2011 de s'appuyer sur le programme de médicalisation des systèmes d'information (PMSI) pour recueillir cet indicateur et de mobiliser les agences régionales de santé, les établissements de santé publics et privés et les professionnels de la périnatalité. Sur la base des données enregistrées dans le PMSI pour l'année 2013, la Direction de la recherche, des études, de l'évaluation et des statistiques (DREES) produira, en 2014, un taux de mortinatalité dans lequel il sera possible de distinguer la part de la mortinatalité spontanée de celle relevant d'une interruption de grossesse. Ces données permettront, en outre, de disposer de données relatives à l'âge gestationnel et au poids de naissance des mort-nés.
