@@ -1,0 +1,9 @@
+# Réponse à la question n° 9971
+
+- Question : [9971](9971.md) — Question n° 9971 — perspectives; rapport; propositions
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Compte tenu de la spécificité des missions des policiers municipaux, le législateur a entendu soumettre l'ensemble de ceux qui les exercent à un dispositif particulier de formation. Le centre national de la fonction publique territoriale (CNFPT), qui est l'opérateur de l'ensemble des formations à destination des policiers municipaux, s'efforce de faire correspondre le plus possible la formation dispensée aux missions des polices municipales. Il a ainsi récemment entrepris de réformer en profondeur les référentiels de formation. Il mène parallèlement plusieurs chantiers : élaboration de mallettes pédagogiques, dont une sur les gestes et techniques professionnels d'intervention ; relocalisation de certains sites de formation afin de mutualiser les moyens et de bénéficier de meilleures structures de formation ; procédure de labellisation de ses intervenants (avec recours à des organismes certificateurs extérieurs) ; mise en place de formations plus spécifiques (brigades motorisées, unités équestres). Concernant la formation à l'armement, le CNFPT propose, lorsque les délégations régionales sont en capacité d'y répondre, jusqu'à quatre séances d'entraînement par an pour les collectivités qui le souhaitent, l'exigence réglementaire étant fixée à deux séances. Enfin, pour faire face à la montée en puissance de la vidéo protection, le CNFPT a développé des stages de formation en matière de vidéosurveillance (stages pour la création d'un centre et pour les opérateurs, soit une offre cumulée de jours). Le catalogue de formation fait déjà l'objet de mesures d'adaptation, de façon constante, par l'actualisation régulière des référentiels, au regard des missions qui sont confiés aux acteurs de la police municipale par la réglementation.
