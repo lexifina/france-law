@@ -1,0 +1,9 @@
+# Réponse à la question n° 742
+
+- Question : [742](742.md) — Question n° 742 — péages; tarifs
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Les dispositions réglementaires qui régissent les tarifs de péage applicables aux autoroutes concédées ne prévoient pas de réduction dans l'hypothèse de travaux occasionnant une gêne temporaire pour l'usager. La détermination des niveaux de péage autoroutier tient compte de la structure du réseau, des charges d'exploitation et des charges financières de la société qui sont des éléments structurants de la concession. L'évolution des tarifs de péage fait l'objet de dispositions contractuelles, dont l'application est contrôlée par les services de l'État. Les travaux réalisés sur le réseau concédé ne relèvent pas « de la seule volonté de la société concessionnaire », mais des obligations d'entretien du réseau imposées par le cahier des charges du contrat de concession. Ces travaux d'entretien sont un volet de la contrepartie du péage acquitté par l'usager du réseau. L'information des usagers du réseau autoroutier concédé sur les chantiers et les perturbations constitue l'un des thèmes faisant l'objet d'un suivi au titre des contrats de concession. Ceux-ci imposent aux concessionnaires de fournir cette information, et des indicateurs de suivi sont actuellement mis en place et assortis de pénalités en cas de performance insuffisante. En ce qui concerne les chantiers, les sociétés concessionnaires indiquent de plus en plus couramment la durée des travaux, en plus de leur localisation. La programmation des travaux répond également à la volonté de gêner le moins possible le trafic sur les sections en travaux. C'est ainsi que les travaux sont programmés le plus souvent pendant les périodes à faible trafic. De plus, les arrêtés d'exploitation sous chantier délivrés par les préfets imposent le plus souvent aux concessionnaires d'informer les usagers par les moyens adaptés, dont la signalisation routière.
