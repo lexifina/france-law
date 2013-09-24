@@ -1,0 +1,9 @@
+# Réponse à la question n° 23130
+
+- Question : [23130](23130.md) — Question n° 23130 — revendications; perspectives
+
+## Réponse
+
+*JO du 2013-09-24*
+
+La loi relative à la sécurisation de l'emploi du 14 juin 2013, qui reprend les principales dispositions de l'accord national interprofessionnel du 11 janvier 2013 pour un nouveau modèle économique et social au service de la compétitivité des entreprises et de la sécurisation de l'emploi et des parcours professionnels apporte plusieurs réponses afin d'améliorer la situation des salariés précaires, dont les saisonniers bénéficieront, tels que les droits rechargeables à l'assurance chômage et le compte personnel de formation. Plus spécifiquement cette même loi ouvre, à titre dérogatoire et expérimental, le droit pour l'employeur de conclure sans accord de branche préalable des contrats à durée indéterminée intermittents dans les entreprises de moins de 50 salariés de trois secteurs fixés par arrêté du 19 juin 2013 : la formation (à l'exclusion des formateurs en langue étrangère), le commerce des articles de sports et équipements de loisir, et les détaillants et détaillants fabricants de la confiserie, chocolaterie et biscuiterie. Conscient des enjeux liés à la sécurisation de l'emploi saisonnier, le ministre du travail poursuit cependant ses travaux, en lien avec la ministre chargée de l'artisanat, du commerce et du tourisme et les parlementaires intéressés. A ce titre, les ministres ont mis en place rapidement un groupe de travail, animé en lien avec le conseil national du tourisme, afin de proposer les adaptations nécessaires pour développer l'emploi et mieux sécuriser les parcours professionnels dans le secteur du tourisme. Ce groupe de travail s'intéresse notamment à la question de l'emploi saisonnier et remettra ses propositions très prochainement.
