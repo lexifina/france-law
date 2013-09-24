@@ -1,0 +1,9 @@
+# Réponse à la question n° 22290
+
+- Question : [22290](22290.md) — Question n° 22290 — effectifs de la profession; répartition géographique
+
+## Réponse
+
+*JO du 2013-09-24*
+
+L'action du ministère des affaires sociales et de la santé en matière de formation initiale des futurs professionnels de santé s'inscrit dans le cadre de la politique gouvernementale de promotion de l'offre de soins ambulatoire et en particulier du « pacte territoire-santé », lancé en décembre dernier, qui met les soins primaires au coeur de l'organisation du système de santé. La ministre des affaires sociales et de la santé porte ainsi plusieurs mesures visant à renforcer la part des stages en ambulatoire dans la formation des futurs médecins, stages qui peuvent être effectués en cabinet, en maison de santé et en centre de santé. Il s'agit à la fois de généraliser le stage obligatoire de médecine générale et de permettre aux étudiants en médecine d'effectuer des stages « mixtes » entre l'hôpital et la ville, au cours du second cycle des études médicales. Une autre mesure consiste à mettre en place des stages en ambulatoire au cours de l'internat de médecine pour plusieurs spécialités exercées majoritairement en dehors des établissements de santé. Ces mesures font l'objet d'une réflexion menée en concertation avec la ministre de l'enseignement supérieur et de la recherche. Enfin, le cadre réglementaire du dispositif du contrat d'engagement de service public à destination des étudiants et internes en médecine a été simplifié (décret n° 2013-734 du 14 août 2013 relatif aux modalités de passation et d'exécution du contrat d'engagement de service public durant les études médicales) afin de lever les freins identifiés à la signature des contrats, l'objectif poursuivi étant de renforcer à terme la présence des professionnels de santé dans les territoires fragiles.
