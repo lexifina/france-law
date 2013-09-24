@@ -1,0 +1,9 @@
+# Réponse à la question n° 19537
+
+- Question : [19537](19537.md) — Question n° 19537 — nouvelles technologies; accessibilité
+
+## Réponse
+
+*JO du 2013-09-24*
+
+En ce qui concerne la téléphonie fixe et mobile, les besoins des personnes ayant une déficience visuelle sont progressivement pris en compte, dans le cadre de la « charte pour l'accès des personnes handicapées aux communications électroniques ». Cette charte a été signée en 2011 entre le ministère des affaires sociales et de la santé, la fédération française des télécoms (FFT), l'autorité de régulation des communications électroniques et des postes (ARCEP) et la secrétaire générale du comité interministériel du handicap. Dans le cadre de cette charte, des critères d'accessibilité prenant en compte les besoins et usages des personnes handicapées ont été élaborés avec le concours des associations, en collaboration étroite avec le groupement des industries des technologies de l'information et de la communication (GITEP TICS), représentant les constructeurs et l'association française des éditeurs de logiciels et solutions internet (AFDEL), représentant les éditeurs de logiciels. Le 2e bilan d'application de cette charte a été remis le 16 juillet 2013 et permet de mesurer les progrès réalisés sous l'égide du comité interministériel du handicap (CIH), en concertation avec les associations représentatives des personnes handicapées avec l'ARCEP et le conseil supérieur de l'audiovisuel (CSA). En outre, à partir de l'automne 2013, un programme d'actions pluriannuel sera engagé en faveur de l'accessibilité des sites web de l'Etat, du Gouvernement et des collectivités territoriales. Il sera conduit par le service d'information du Gouvernement (SIG) et la direction interministérielle des services d'information et de communication (DISIC), tous deux attachés au Premier ministre.
