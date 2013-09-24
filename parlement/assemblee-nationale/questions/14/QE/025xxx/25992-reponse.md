@@ -1,0 +1,9 @@
+# Réponse à la question n° 25992
+
+- Question : [25992](25992.md) — Question n° 25992 — échelon grand or; création
+
+## Réponse
+
+*JO du 2013-09-24*
+
+En application de l'article 11-3 du décret n° 86-68 du 13 janvier 1986, lorsqu'un fonctionnaire d'Etat est intégré dans un cadre d'emplois de la fonction publique territoriale à l'issue d'un détachement, les services qu'il a accomplis dans son corps d'origine sont assimilés à des services accomplis dans le cadre d'emplois d'intégration. L'objet de cette disposition est d'éviter que l'agent ne soit pénalisé dans sa progression de carrière : il pourra ainsi prétendre à un avancement ou une promotion interne dans les mêmes conditions qu'un fonctionnaire territorial ayant effectué l'ensemble de ses services au sein du cadre d'emplois. Toutefois, cette disposition ne saurait avoir une incidence sur la procédure d'attribution de la médaille d'honneur régionale, départementale et communale. En effet, conformément aux articles R. 411-42 et R. 411-43 du code des communes, cette médaille est destinée à récompenser les personnes ayant manifesté une réelle compétence professionnelle et un dévouement constant au service des collectivités locales. Peuvent notamment y prétendre les agents des régions, des départements, des communes et de leurs établissements publics ainsi que les agents de l'Etat ayant rendu des services pour le compte de ces collectivités locales. A ce titre, sont pris en compte les services effectués par le fonctionnaire en qualité d'agent de l'Etat indépendamment de son intégration ultérieure au sein de la fonction publique territoriale. Les règles relatives aux conditions requises pour l'attribution de la médaille d'honneur sont applicables sans préjudice des dispositions propres aux modalités de détachement dans la fonction publique.
