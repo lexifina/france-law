@@ -1,0 +1,9 @@
+# Réponse à la question n° 35431
+
+- Question : [35431](35431.md) — Question n° 35431 — maisons départementales des personnes handicapées; statut
+
+## Réponse
+
+*JO du 2013-09-24*
+
+La préparation de l'acte III de la décentralisation a permis d'étudier la situation des maisons départementales des personnes handicapées (MDPH) Au vu des orientations fixées par le Président de la République et des difficultés que peut parfois susciter l'actuel statut des MDPH, groupement d'intérêt public associant l'Etat, les conseil généraux et les associations de personnes handicapées, il a été envisagé d'en confier la seule responsabilité aux départements. Les associations ont fait part de leurs craintes de voir la participation des personnes handicapées remise en cause par ce changement de statut. Plusieurs mesures permettaient de garantir ce fondement de la loi du 11 février 2005 telles la revitalisation des conseils départementaux consultatifs des personnes handicapées (CDCPH), le maintien en l'état des commission des droits et de l'autonomie des personnes handicapées (CDAPH) et la création d'un comité des usagers au sein de chaque MDPH. Au regard des réserves soulevées par les associations de personnes handicapées mais aussi des difficultés juridiques et financières posées par la décentralisation des MDPH, il a été décidé de conserver le statut de groupement d'intérêt public (GIP). Dans ce cadre, des réflexions sur l'amélioration du mode de fonctionnement des MDPH ont été initiées, en vue notamment d'améliorer le service rendu aux usagers et de renforcer l'équité territoriale : - développer un système d'information interconnecté, - mettre à la disposition des MDPH des outils d'aide à la décision, - aider les MDPH à la mise en place d'un service de suivi en ligne des demandes des usagers.
