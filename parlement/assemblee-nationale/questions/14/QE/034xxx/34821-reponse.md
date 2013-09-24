@@ -1,0 +1,9 @@
+# Réponse à la question n° 34821
+
+- Question : [34821](34821.md) — Question n° 34821 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Le Conseil national de la chasse et de la faune sauvage est un organisme consultatif placé auprès du ministre de l'écologie, du développement durable et de l'énergie. Il donne son avis sur les moyens propres à préserver la faune sauvage, développer le capital cynégétique dans le respect des équilibres biologiques et améliorer les conditions d'exercice de la chasse. Ce Conseil est également consulté sur les projets de loi et de décret modifiant les dispositions législatives et réglementaires relatives à la chasse. Il ne mène pas d'actions en propre. Le secrétariat du CNCFS est assuré par la direction de l'eau et de la biodiversité au ministère en charge de la chasse. Le CNCFS se réunit entre trois à cinq fois par an. La prise en charge des frais de déplacement des membres représente environ 800 à 1 250 euros par an. Au-delà du cas particulier faisant l'objet de la présente question, il convient de souligner que le Gouvernement souhaite réformer les pratiques de consultation préalable à la prise de décision et mettre un terme à l'inflation du nombre de commissions consultatives. Le comité interministériel de la modernisation de l'action publique du 18 décembre 2012 a ainsi fixé les orientations d'une nouvelle politique de la consultation. Conformément à ces orientations, chaque ministère dressera une cartographie faisant apparaître sa stratégie de consultation et examinera les possibilités de fusion ou de réorganisation des instances consultatives permettant d'en réduire le nombre et de renouveler les pratiques en privilégiant les modes de concertation ouverts ou informels. La présente réponse ne préjuge pas des décisions qui seront prises dans ce cadre.
