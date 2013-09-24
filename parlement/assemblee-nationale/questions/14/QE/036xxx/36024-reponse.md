@@ -1,0 +1,9 @@
+# Réponse à la question n° 36024
+
+- Question : [36024](36024.md) — Question n° 36024 — péages; tarifs
+
+## Réponse
+
+*JO du 2013-09-24*
+
+L'automatisation des péages d'autoroutes a été engagée début 2000 par les sociétés concessionnaires, à l'époque majoritairement détenues par l'État. Cette automatisation n'est pas un cas isolé et s'explique par l'apparition d'innovations technologiques. La montée en puissance des cartes bancaires a également conduit de nombreux organismes publics ou privés à installer des automates de paiement. Néanmoins, la présence d'opérateurs aux péages est maintenue aux barrières terminales, soit en guichet, soit en poste de supervision. A cet égard, le maintien de personnels aux barrières isolées (échangeurs par exemple) pose des questions de sécurité, en particulier pour les échangeurs peu fréquentés, ce qui explique que les gestionnaires aient pu dans certains cas privilégier l'automatisation complète. Les agents des sociétés interviennent sur place, jour et nuit, pour assister les usagers en difficulté, même s'il est vrai que ces interventions peuvent être plus longues sur les barrières isolées. Conscient de ces enjeux, et afin de garantir une qualité de service à l'usager optimale, l'État a contractualisé avec les concessionnaires plusieurs indicateurs et objectifs de performance en matière d'entretien et d'exploitation, assortis de pénalités en cas de performance insuffisante. Les sociétés sont par exemple tenues de respecter un temps d'intervention sur incident, ainsi qu'un temps d'attente au péage limité. Le ministre délégué, chargé des transports, de la mer et de la pêche a demandé aux services la plus grande vigilance sur le respect des engagements contractuels. Dans ce contexte, l'effectif consacré à l'exploitation et à l'entretien du réseau dans les sociétés concessionnaires est resté stable depuis 2007.
