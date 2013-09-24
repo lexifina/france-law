@@ -1,0 +1,9 @@
+# Réponse à la question n° 32640
+
+- Question : [32640](32640.md) — Question n° 32640 — zones Natura 2000; exonérations; compensation
+
+## Réponse
+
+*JO du 2013-09-24*
+
+L'exonération de la taxe foncière sur le foncier non bâti fait partie depuis 2009 des variables d'ajustement des dotations sous enveloppes des concours financiers de l'État aux collectivités, dans le cadre du « contrat de stabilité ». Outre les exonérations de taxes sur le foncier non bâti (TFNB) pour Natura 2000, y figurent également celles pour les zones humides et les régénérations forestières, ainsi que les exonérations de taxe foncière sur les propriétés bâties ou de taxe professionnelle. In fine, les collectivités ont perçu une compensation liée aux exonérations consenties à hauteur de 83 % en 2009, de 78 % en 2011, de 72 % en 2011, de 61 % en 2012, et de 51 % en 2013. Le poids de Natura 2000 dans ces « manques à gagner » pour les collectivités est modeste, puisque le montant total des compensations considérées après minoration est de l'ordre du milliard, et que les compensations Natura 2000 avoisineraient le million. Ce déficit de compensation est cependant non négligeable et peut être pénalisant pour le budget des communes rurales. Ce dispositif peut constituer dans ces conditions un frein significatif à la dynamique mise en place avec les collectivités pour le réseau Natura 2000. Les négociations conduites avec le ministère des finances n'ont pour le moment pas permis d'obtenir le rétablissement d'un mode de remboursement non pénalisant. Les réflexions continuent toutefois en ce sens, notamment dans le cadre du chantier sur la fiscalité écologique qui vise plus largement à définir les modalités les plus appropriées pour encourager des comportements favorables à la biodiversité, au profit notamment de la bonne gestion des sites Natura 2000.
