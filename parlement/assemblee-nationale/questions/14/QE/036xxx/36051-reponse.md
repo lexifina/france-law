@@ -1,0 +1,9 @@
+# Réponse à la question n° 36051
+
+- Question : [36051](36051.md) — Question n° 36051 — simplification
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Le rapport de Messieurs Alain Lambert et Jean-Claude Boulard portant sur la lutte contre l'inflation normative a été remis le 26 mars dernier au Premier ministre. Comme il est souligné par ce rapport, à droit constant et sans attendre de nouvelles simplifications, les administrations peuvent utiliser les marges de manoeuvre laissées par les textes dans le sens d'une facilitation et d'une accélération de l'instruction des projets significatifs publics et privés. Les administrations déconcentrées, chargées de contrôler l'application des textes et de les mettre en oeuvre par des décisions individuelles, et qui sont en première ligne face à la complexité du droit, trouvent en effet quotidiennement les solutions pour accompagner les porteurs de projets. La proposition du rapport de Messieurs Alain Lambert et Jean-Claude Boulard visant à diffuser une instruction sur l'interprétation facilitatrice des normes a donc été mise en oeuvre dès le 2 avril 2013 par une instruction du Premier ministre adressée aux ministres et préfets. Le Gouvernement a également décidé, à l'issue du comité interministériel pour la modernisation de l'action publique du 17 juillet 2013, de conforter le rôle de l'administration territoriale de l'Etat. Deux principes ont été posés à cette occasion : le rôle des préfets doit être conforté, d'une part, et la présence des services de l'Etat dans le département doit être préservée durablement, d'autre part. En application de ces principes, le Gouvernement engage un travail interministériel destiné à restaurer une articulation efficace entre le niveau national et le niveau déconcentré et à assurer une plus grande fluidité des échanges entre le niveau régional et départemental. Des propositions seront formulées en ce sens avant la fin novembre 2013.
