@@ -1,0 +1,9 @@
+# Réponse à la question n° 20135
+
+- Question : [20135](20135.md) — Question n° 20135 — organisation; outre-mer
+
+## Réponse
+
+*JO du 2013-09-24*
+
+En 2013, se succèdent, en effet, deux sessions de concours pour le recrutement de professeurs du second degré, une session normale et une session exceptionnelle. Les admissibles à la seconde session, qui bénéficieront du statut de contractuel admissible et d'une formation alternée en école supérieure du professorat et de l'éducation (ESPE), complèteront la première afin d'optimiser les effectifs mis en place, dans les deux hypothèses, dès la rentrée 2013. Cet engagement de recrutement sans précédent pris par le Gouvernement se traduira par le renforcement de l'encadrement des classes. Loin de constituer un handicap, la possibilité de passer, et peut-être de réussir, deux concours, est une opportunité exceptionnelle qui ne demande aucun investissement supplémentaire puisque les épreuves et les programmes sont inchangés et se situent dans la continuité des écrits déjà passés par les candidats au titre de la première session. Le Gouvernement a été particulièrement attentif à la situation des candidats de la France d'outre-mer en déplaçant chaque fois que cela était possible, lorsque l'effectif concerné dépassait huit candidats et en plein accord avec le président du jury, une délégation du jury. Cela a été le cas en Martinique et en Guadeloupe pour des concours de professeurs de lycée professionnel. Par ailleurs, des transferts de centre d'examens pour les candidats admissibles et passant les épreuves orales en métropole seront accordés, sur demande des intéressés, pour leur permettre de passer les épreuves écrites de la session suivante dans l'académie qui organise les épreuves orales ou dans l'académie où ils ont des attaches familiales.
