@@ -1,0 +1,9 @@
+# Réponse à la question n° 33232
+
+- Question : [33232](33232.md) — Question n° 33232 — lutte et prévention
+
+## Réponse
+
+*JO du 2013-09-24*
+
+La grande conférence sociale pour l'emploi des 20 et 21 juin 2013 est venue souligner -et encore amplifier- la mobilisation immédiate et générale pour l'emploi, grâce à un engagement de tous les acteurs. A l'appui de la politique économique en faveur de la croissance, la politique de l'emploi vise trois objectifs : réussir la montée en puissance des dispositifs d'accès à l'emploi ; aider les entreprises à maintenir l'emploi face aux difficultés conjoncturelles et permettre aux demandeurs d'emploi de saisir toutes les opportunités d'embauche. Près de 50 000 jeunes ont été embauchés en emploi d'avenir fin août, conformément aux prévisions. Parallèlement, le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social a appelé les partenaires sociaux, lors de la grande conférence sociale, à intensifier les négociations sur le contrat de génération dans les entreprises et les branches, pour amplifier le bon démarrage du dispositif dans les petites entreprises. La loi sur la sécurisation de l'emploi a été promulguée le 14 juin 2013. Beaucoup des dispositifs sont désormais opérationnels : accords de maintien de l'emploi, activité partielle, procédure d'homologation des plans de sauvegarde de l'emploi. Enfin, un plan d'action a été décidé à la grande conférence sociale. L'objectif est de mobiliser d'ici la fin de l'année au moins 30 000 formations supplémentaires pour permettre à des demandeurs d'emploi d'acquérir les qualifications nécessaires pour saisir des opportunités d'embauche aujourd'hui non satisfaites faute de candidats qualifiés. L'adjonction de l'ensemble de ces politiques de l'emploi permettra d'inverser la courbe du chômage d'ici à la fin de l'année, conformément à l'objectif fixé par le Président de la République.
