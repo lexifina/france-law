@@ -1,0 +1,9 @@
+# Réponse à la question n° 31569
+
+- Question : [31569](31569.md) — Question n° 31569 — autorisation; Ponteau-Réaltor
+
+## Réponse
+
+*JO du 2013-09-24*
+
+La liaison électrique aérienne Lavera-Ponteau-Realtor, actuellement exploitée à 225 000 volts, doit être prochainement exploitée à la tension nominale pour laquelle elle a été autorisée en 1970, soit 400 000 volts. Ce projet est lié à la nécessaire augmentation de la capacité d'accueil électrique de la zone de Fos sur Mer et à la sécurité d'alimentation électrique de la zone. Il permet aussi d'économiser la construction d'un nouvel ouvrage électrique à très haute tension. Cette ligne ayant été dès l'origine autorisée pour une tension de 400 000 volts, ce que la déclaration d'utilité publique et les actes de servitudes de l'époque attestent, Réseau de transport d'électricité (RTE) n'est pas tenu d'obtenir d'autres autorisations. Les déclarations d'utilité publique et actes de servitudes sont donc valides. Afin de minimiser la gêne des riverains, EDF puis RTE avaient jusqu'alors limité les coupes de bois aux distances strictement nécessaires à la tension d'exploitation, soit 225 000 volts. L'élévation du niveau de tension l'oblige à élargir ces élagages. Ces coupes sont destinées à préserver une distance suffisante entre les végétaux et les câbles pour éviter les amorçages et garantir la sécurité des riverains. Empêcher le gestionnaire de réseau de procéder à ces coupes de bois crée des risques d'incendie ou d'électrocution significatifs pour les personnes. Pour ce qui concerne l'incidence des champs électromagnétiques sur la santé, de très nombreuses recherches ont été menées depuis trente ans sur cette question, mais aucune d'entre elles n'a réussi à identifier un mécanisme d'action des champs électromagnétiques extrêmement basse fréquence sur la santé des personnes à ce niveau d'exposition. Le risque d'électrocution ou d'incendie est en revanche avéré et doit être pris en compte.
