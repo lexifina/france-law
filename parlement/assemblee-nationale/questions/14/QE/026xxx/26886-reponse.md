@@ -1,0 +1,9 @@
+# Réponse à la question n° 26886
+
+- Question : [26886](26886.md) — Question n° 26886 — poésie; concours internationaux
+
+## Réponse
+
+*JO du 2013-09-24*
+
+L'Institut français, opérateur du ministère des affaires étrangères, met en place annuellement une douzaine de manifestations intellectuelles d'envergure auxquelles s'associent auteurs, universitaires, libraires et éditeurs. Les missions Stendhal soutiennent des auteurs, romanciers, essayistes, poètes qui souhaitent partir à l'étranger pour réaliser un projet d'écriture. En contrepartie, les écrivains apportent leur concours aux actions de rayonnement et d'échange culturel menées par les postes du réseau culturel français à l'étranger. Près de 700 auteurs ont bénéficié d'une mission Stendhal depuis sa création en 1989. En 2010, une anthologie consacrée aux poètes de la Méditerranée a été publiée chez Gallimard avec le soutien de l'Institut français. Le livre a fait l'objet d'événements de lancement dans les capitales européennes à travers le réseau culturel. 101 poètes de 24 pays y ont participé. En ce qui concerne les concours de poésie, la mission de la langue française et de l'éducation du ministère des affaires étrangères a apporté en 2013 son soutien institutionnel à l'association « Poésie en liberté », venue présenter son activité au caractère international : participation de 1400 lycéens et étudiants hors de France, issus de 65 pays et de 47 universités étrangères. Le soutien consistait en l'octroi du logo sur tous les documents promotionnels du concours et l'annonce de celui-ci auprès de tout le réseau culturel à l'étranger. Les associations qui ont vocation à oeuvrer pour la promotion de la langue française à l'étranger ont la possibilité de déposer une demande de subvention pour l'organisation d'un concours littéraire auprès du ministère des affaires étrangères.
