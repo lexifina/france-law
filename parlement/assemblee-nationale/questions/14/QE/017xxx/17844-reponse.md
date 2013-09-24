@@ -1,0 +1,9 @@
+# Réponse à la question n° 17844
+
+- Question : [17844](17844.md) — Question n° 17844 — rapport; Cour des comptes; conclusions
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Suite à sa création par un accord national interprofessionnel du 5 octobre 2009, et conformément à la réglementation relative à son fonctionnement, le Fonds paritaire de sécurisation des parcours professionnels (FPSPP) a pour objectif d'une part, de contribuer au financement d'actions de formation concourant à la qualification et à la requalification des salariés et demandeurs d'emploi et d'autre part, d'assurer la péréquation des fonds par des versements complémentaires aux organismes collecteurs agréés (OPCA) S'agissant de la réalisation d'actions de formation au bénéfice des salariés et demandeurs d'emploi, celle-ci s'effectue dans le cadre d'appels à projets, mis en oeuvre par les OPCA, dont le contenu et les publics cibles sont déterminés au vu des orientations de la convention-cadre triennale signée entre l'Etat et le fond paritaire de sécurisation des parcours professionnels (FPSPP). Afin d'assurer la transparence et le suivi de la gestion de ces fonds, la réglementation prévoit d'une part, la communication à l'administration des données physico-financières relatives aux actions financées et aux bénéficiaires de ces actions, et d'autres part, impose au FPSPP la publication sur son site internet (http ://www. fpspp. org) du contenu des appels à projets ainsi que des décisions de répartition prises par son conseil d'administration. Par ailleurs, et afin d'améliorer le suivi de la mise en oeuvre des appels à projets, le FPSPP a conçu des outils et des guides communs à l'ensemble des opérateurs (OPCA et autres partenaires) permettant une harmonisation des pratiques en matière de renseignement des remontées de données et des enquêtes évaluatives.
