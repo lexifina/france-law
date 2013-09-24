@@ -1,0 +1,9 @@
+# Réponse à la question n° 23921
+
+- Question : [23921](23921.md) — Question n° 23921 — revendications
+
+## Réponse
+
+*JO du 2013-09-24*
+
+L'augmentation des prix intervenue le 1er octobre 2012 et la hausse de la fiscalité des tabacs manufacturés adoptée en loi de financement de la sécurité sociale pour 2013, visent à réduire la prévalence tabagique notamment chez les plus jeunes et conduisent fort logiquement à l'attrition des volumes conformément aux objectifs de santé publique du Gouvernement. Cette évolution s'accompagnera nécessairement d'un nouveau dimensionnement du réseau des points de vente. Dans ce contexte, afin de conforter l'attractivité de l'activité de buraliste et maintenir un maillage territorial cohérent, l'Etat et la confédération nationale des buralistes ont conclu le 23 septembre 2011 le 3e contrat d'avenir pour la période 2012-2016. Ce texte prévoit une augmentation de 0,4 point de la rémunération liée à la vente du tabac sur la durée du contrat, et recentre les aides budgétaires au profit des buralistes implantés dans les départements frontaliers et dans lesquels le montant annuel de chiffre d'affaires en tabacs manufacturés est inférieur d'au moins 5 % par rapport à 2002. Il consacre par ailleurs le rôle important des buralistes, qui constituent le premier réseau de commerces de proximité dans l'aménagement du territoire notamment en zone rurale, par la mise en place d'une prime de service public de proximité d'un montant annuel de 1 500 € pour les débitants proposant certains services complémentaires à leurs clients. Dans le même temps, afin de diminuer les écarts de prix avec les pays limitrophes, le Gouvernement s'attache à rechercher dans une perspective de plus long terme les voies d'une convergence des prix au sein de l'Union européenne car la seule harmonisation fiscale déjà engagée laisse subsister des écarts de prix significatifs qui affaiblissent notre politique de santé publique.
