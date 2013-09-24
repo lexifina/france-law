@@ -1,0 +1,9 @@
+# Réponse à la question n° 22800
+
+- Question : [22800](22800.md) — Question n° 22800 — perspectives
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Le secteur de la restauration occupe une place majeure dans l'économie française avec plus de 728 000 actifs, soit 2,8 % de l'emploi en France métropolitaine et un chiffre d'affaire de 58,5 milliards d'euros. La restauration et la gastronomie française jouent également un rôle majeur dans l'attractivité touristique de la France et représentent ainsi 13,5 % des dépenses des touristes étrangers. Pour accompagner les entreprises du secteur, la ministre de l'artisanat, du commerce et du tourisme a présidé, le 25 mars 2013, le premier comité de filière pour la restauration, qui réunit les représentants des professionnels du secteur et des organisations syndicales des salariés, des représentants des réseaux consulaires, de la formation professionnelle, des producteurs, des métiers de bouche et des arts de la table. Les travaux du comité ont été conclus par la ministre le 24 juin 2013 qui a établi une feuille de route concertée avec les professionnels qui comprend 10 priorités réparties en 3 objectifs : - mieux informer les consommateurs et promouvoir la qualité dans la restauration, notamment par le biais de la promotion du « Fait Maison » et le développement, la modernisation et la promotion du titre de maître-restaurateur ; ces deux dispositifs ont à ce titre pris place dans le projet de loi sur la consommation actuellement soumis au Parlement ; - améliorer les conditions de travail des professionnels et favoriser le dialogue social, par exemple en apportant un soutien technique à la réalisation d'un rapport de branche ou en renforçant les moyens de lutte contre le travail illégal ; - renforcer les formations et valoriser les métiers de la restauration qui sont pourvoyeurs d'emplois.
