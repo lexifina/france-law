@@ -1,0 +1,9 @@
+# Réponse à la question n° 24488
+
+- Question : [24488](24488.md) — Question n° 24488 — contrats de développement territoriaux
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Le projet de nouveau Grand Paris porté par le Gouvernement est avant tout un projet de développement équilibré de la région capitale, vecteur d'attractivité et de croissance, mais aussi de cohésion urbaine et sociale, et de qualité de vie pour les franciliens. Les contrats de développement territorial (CDT) sont un outil essentiel pour porter cette vision. Conjointement, l'État et les collectivités élaborent une stratégie de développement autour de la nouvelle armature de transport, à une échelle compatible avec les enjeux du projet au-delà des limites administratives et dans une vision de long terme indispensable pour anticiper et accompagner les mutations qui doivent s'opérer sur le territoire. L'échéance du 31 décembre 2013 fixée par la loi pour la mise à l'enquête publique des CDT vise à inscrire leur élaboration dans un calendrier cohérent avec celui de la mise en oeuvre du réseau, là encore dans une logique d'anticipation. A ce titre, il est vivement souhaité que ce calendrier puisse être tenu. A ce jour cependant, seuls 9 territoires disposent d'un CDT validé en comité de pilotage, alors même qu'une vingtaine de CDT est en projet. Le calendrier des élections municipales de mars 2014 imposerait par ailleurs de tenir les enquêtes publiques avant fin 2013, nécessitant une validation du document dans les prochaines semaines. Soucieux de permettre la finalisation, dans de bonnes conditions de dialogue et de concertation, de documents portant sur une vision stratégique à long terme, le Gouvernement est favorable à un report d'un an de la date limite soit jusqu'au 31 décembre 2014, et soutiendra toute démarche d'évolution législative en ce sens.
