@@ -1,0 +1,9 @@
+# Réponse à la question n° 14926
+
+- Question : [14926](14926.md) — Question n° 14926 — revalorisation; perspectives
+
+## Réponse
+
+*JO du 2013-09-24*
+
+La situation de la profession de sage-femme nécessite une vigilance particulière. La situation démographique de la profession et les inquiétudes dont a fait part notamment le conseil de l'ordre des sages-femmes quant à l'augmentation récente du nombre de sages-femmes sans emploi ont ainsi conduit à ne pas augmenter le numerus clausus pour 2013 et à le fixer à 1 016 places (1 017 en 2012). De plus, dès cette année, au titre de la rentrée 2014-2015, et conformément au décret n° 2010-804 du 13 juillet 2010 (article 1-2° ) relatif aux missions confiées à l'observatoire national de la démographie des professions de santé (ONDPS), ce dernier proposera, à partir des propositions des comité régionaux, à la ministre des affaires sociales et de la santé et à la ministre de l'enseignement supérieur et de la recherche, le nombre et la répartition des effectifs de sages-femmes à former par région. Ces analyses, réalisées en lien étroit avec les comités régionaux, visent à mieux prendre en compte les besoins des régions, en fonction de leur démographie et de leurs priorités locales mais également en fonction de leurs capacités de formation. Par ailleurs, conformément à l'article L. 4151-7-1 du code de la santé publique, la formation initiale des sages-femmes peut être organisée au sein des universités, sous réserve de l'accord du conseil régional. Cette évolution a pour objectif, outre le fait d'encourager la mobilité européenne et les poursuites d'études, de favoriser les mutualisations d'enseignement entre les formations des professions médicales, dont font partie les sages-femmes, et pharmaceutiques, permettant ainsi d'améliorer la coopération et la coordination entre professionnels de santé et de construire une culture et des modes de travail communs.
