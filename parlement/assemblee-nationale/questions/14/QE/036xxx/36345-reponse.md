@@ -1,0 +1,9 @@
+# Réponse à la question n° 36345
+
+- Question : [36345](36345.md) — Question n° 36345 — pandémies; lutte et prévention; actions de la France
+
+## Réponse
+
+*JO du 2013-09-24*
+
+La France joue un rôle pionnier dans le domaine de la lutte contre le VIH/Sida. Co-fondatrice du Fonds mondial de lutte contre le sida, la tuberculose et le paludisme, elle est également à l'origine de la facilité internationale pour l'achat de produits de santé UNITAID. Depuis 2002, grâce à ces deux institutions et aux programmes bilatéraux, notre pays a consacré 4 milliards de dollars à la lutte contre les trois pandémies. La France est à l'avant-garde de la création et du plaidoyer en faveur de financements innovants pour la santé mondiale, et notamment pour la lutte contre les maladies transmissibles. Elle estime que les activités bénéficiant de la mondialisation doivent être mises au service de la solidarité internationale. C'est pourquoi il a été décidé de revaloriser la contribution de solidarité internationale sur les billets d'avions, financement innovant qui permet d'alimenter notre contribution à UNITAID. En outre, 10 % du produit de la taxe sur les transactions financières seront affectés au développement, y compris la santé. Enfin, la France encourage les pays européens à attribuer une part significative de leur taxe sur les transactions financières aux enjeux du développement. C'est dans ce contexte que le Président de la République a annoncé le 15 juillet dernier, malgré les contraintes budgétaires et pour entraîner une mobilisation internationale à la hauteur des enjeux de ces pandémies, que la contribution française au Fonds mondial sera au moins aussi importante pour les trois prochaines années (2014-2016), soit de 1,08 milliard d'euros. Cette annonce témoigne de l'engagement continu de la France auprès de cette organisation et de ses efforts majeurs destinés à vaincre les grandes pandémies.
