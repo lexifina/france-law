@@ -1,0 +1,9 @@
+# Réponse à la question n° 18720
+
+- Question : [18720](18720.md) — Question n° 18720 — zones humides
+
+## Réponse
+
+*JO du 2013-09-24*
+
+La France a ratifié la Convention de Ramsar en 1986. Depuis cette date, elle s'est toujours fortement impliquée pour la préservation des zones humides. A ce jour, plus de 42 sites Ramsar ont été désignés par la France. Depuis la dernière Conférence des parties de la Convention qui s'est tenue en Roumanie en 2012, la France est membre pour 3 ans du Comité permanent de la Convention et s'implique ainsi de façon renforcée dans sa gestion. Cette élection reconnaît l'investissement particulier de la France dans la mise en oeuvre de la convention. Selon l'analyse menée par le Secrétariat de la Convention lors de la dernière Conférence des parties, la France est le pays de l'Union européenne (UE) répondant de la manière la plus satisfaisante à ses exigences. En complément du plan national d'action pour la sauvegarde des zones humides 2010-2012, 60 millions d'euros (20 millions par an) ont été fléchés dans les IXèmes programmes des agences de l'eau pour des actions d'entretien, d'acquisition et de restauration de zones humides. Toutefois, ces mesures n'ont pas été suffisantes. C'est pourquoi le Gouvernement a souhaité que ce montant soit doublé dans la nouvelle programmation (2013-2018). Par ailleurs, l'Office national de l'eau et des milieux aquatiques (ONEMA) joue un rôle majeur dans la préservation des zones humides. Outre son activité indispensable de contrôle, il anime le portail national sur les zones humides avec l'appui du réseau des pôles-relais zones humides qu'il coordonne. Le ministère de l'écologie, du développement durable et de l'énergie conduit actuellement des réflexions préalables au lancement d'un 3e plan national d'action, dont la mise en oeuvre sera appuyée par la future Agence de la biodiversité.
