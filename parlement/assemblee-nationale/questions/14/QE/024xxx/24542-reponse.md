@@ -1,0 +1,9 @@
+# Réponse à la question n° 24542
+
+- Question : [24542](24542.md) — Question n° 24542 — données non publiques; ouverture
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Afin d'élaborer des solutions en vue d'améliorer la qualité de l'air, notamment dans le domaine des transports, un comité interministériel de la qualité de l'air (CIQA), réunissant les ministères de l'intérieur, de l'écologie, de la santé, du travail, de l'égalité des territoires et du logement, du budget et de la justice, ainsi que des représentants des collectivités territoriales, a été mis en place en novembre 2012. Dans le cadre de ses travaux, le CIQA a adopté le 6 février 2013 un plan d'urgence pour la qualité de l'air qui prévoit notamment l'étude des modalités d'une « identification positive et interopérable des véhicules vertueux en termes d'émissions, couplée à une adaptation de politiques de déplacement urbain ». A cet effet, une mission a été confiée à l'inspection générale de l'administration, au conseil général de l'environnement et du développement durable, et au conseil général de l'économie, de l'industrie, de l'énergie et des technologies en vue d'examiner les moyens dont pourraient disposer les collectivités territoriales pour mettre en oeuvre leurs politiques de déplacements urbains, en tenant compte des aspects techniques, économiques, juridiques et sociaux, notamment en ce qui concerne l'identification des véhicules en fonction de leur niveau de pollution. Les réflexions se poursuivent quant aux outils qui pourraient permettre aux collectivités territoriales de faciliter l'exercice de leurs compétences en matière de mobilité urbaine et de qualité de l'air et le Gouvernement demeure à l'écoute des propositions sur ce sujet. A ce stade l'ouverture des données non publiques telles que les déclarations annuelles de données sociales ou le fichier des cartes grises n'est pas envisagée dans le cadre du projet de loi de décentralisation et de réforme de l'action publique.
