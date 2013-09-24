@@ -1,0 +1,9 @@
+# Réponse à la question n° 24146
+
+- Question : [24146](24146.md) — Question n° 24146 — maisons départementales des personnes handicapées; fonctionnement
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Les maisons départementales des personnes handicapées (MDPH), constituées sous la forme de groupement d'intérêt public (GIP), ont pour vocation d'être le guichet unique pour toutes les questions liées au handicap avec pour principales missions d'accueillir, informer, orienter et accompagner les personnes handicapées et leur famille. Leur création a permis d'engager au plan local un véritable travail partenarial sur la politique d'accompagnement, d'accès aux droits et à l'information des personnes handicapées. Celles-ci peuvent y trouver un soutien et des compétences pour faire face à leurs démarches administratives. Le département assure la tutelle administrative et financière de ces GIP, dont l'Etat est membre de droit. Les MDPH sont administrées par une commission exécutive présidée par le président du conseil général. C'est ainsi au sein de cette instance qu'il revient à ses membres de décider du maillage territorial de la MDPH dans la perspective d'une meilleure proximité avec les concitoyens handicapés, compte-tenu des spécificités de leur territoire et en complément de l'intervention de ses agents (notamment les équipes pluridisciplinaires) à domicile. Certaines MDPH se sont déjà engagées en ce sens et ont déployé un réseau territorial, comme dans le Rhône avec les maisons du Rhône. D'autres ont mis en place un accueil de proximité dans des institutions locales, comme par exemple les centres communaux d'action sociale (CCAS), les unités territoriales des conseils généraux, les centres locaux d'information et de coordination gérontologiques (CLIC). La caisse nationale de solidarité et d'autonomie (CNSA), dans son rôle d'animation du réseau des MDPH, assure les échanges de bonne pratique en la matière.
