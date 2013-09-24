@@ -1,0 +1,9 @@
+# Réponse à la question n° 18810
+
+- Question : [18810](18810.md) — Question n° 18810 — rapport 2013; données statistiques; exactitude
+
+## Réponse
+
+*JO du 2013-09-24*
+
+L'étude réalisée par le ministère du budget « modalités d'approvisionnement du tabac en France - évaluation des achats hors du réseau des buralistes » présentée en août 2011, montre que la contrebande (contrefaçons, achats sur la voie publique et sur internet) représente effectivement 5 % du marché de la vente de cigarettes en France, contre 15 % pour les achats transfrontaliers. Invités à produire leurs observations sur le projet d'insertion de la Cour des comptes à propos des aides que l'Etat accorde aux buralistes, et dans un souci d'exactitude, le ministre de l'économie et des finances et celui chargé du budget ont fait part de la nécessaire prise en compte de l'effet d'éviction créé par les achats transfrontaliers et de ses conséquences sur le marché du tabac. Plus généralement, afin de contenir les achats illégaux, le plan d'action de la direction générale des douanes et droits indirects destiné à consolider la lutte contre la contrebande a été reconduit en 2013. Ce plan prévoit notamment le renforcement de la coopération internationale avec les Etats voisins de la France, ainsi que la poursuite des actions sur le fret express et postal liées aux achats sur internet. Dans ce cadre, depuis 2010, les services douaniers saisissent en moyenne chaque année 400 tonnes de tabac de contrebande. Parallèlement, afin de diminuer les écarts de prix avec les pays limitrophes, la France s'attache à rechercher, dans une perspective de plus long terme, les voies d'une convergence des prix au sein de l'Union européenne, car la seule harmonisation fiscale déjà engagée laisse subsister des écarts de prix significatifs qui affaiblissent, outre la viabilité du réseau des buralistes, la politique de santé publique.
