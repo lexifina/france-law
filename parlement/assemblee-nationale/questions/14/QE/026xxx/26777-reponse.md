@@ -1,0 +1,9 @@
+# Réponse à la question n° 26777
+
+- Question : [26777](26777.md) — Question n° 26777 — agents non titulaires; titularisation; modalités
+
+## Réponse
+
+*JO du 2013-09-24*
+
+La loi n° 2012-347 du 12 mars 2012 a comme objectif de remédier aux situations de précarité les plus graves des agents non titulaires de la fonction publique et d'éviter que ne se reconstituent de telles situations. Dans ce cadre, elle a prévu un ensemble de dispositions qui ne se limitent pas à la transformation en contrat à durée indéterminée des contrats à durée déterminée de plus de six ans sur les huit dernières années. En effet, le principal dispositif a trait à un accès à l'emploi titulaire pour les agents recrutés sur des emplois permanents et pour une quotité au moins égale à 50 % d'un emploi à temps complet depuis 4 ans au cours des six dernières années. Cet accès, étalé sur 4 ans, aura lieu par le biais de sélections professionnelles après adoption, par l'organe délibérant, d'un programme pluriannuel d'accès à l'emploi titulaire. Par ailleurs, de manière pérenne, la loi a également prévu que lorsqu'un agent non titulaire, recruté pour pourvoir un emploi permanent sur les fondements des articles 3-2 et 3-3 de la loi statutaire du 26 janvier 1984, est inscrit sur une liste d'aptitude d'accès à un cadre d'emplois dont les missions englobent l'emploi qu'il occupe, il est, au plus tard au terme de son contrat, nommé en qualité de fonctionnaire stagiaire. En outre, elle encadre plus strictement les cas de renouvellement des contrats des agents non titulaires, en interdisant notamment que se poursuivent au-delà de deux années les recrutements pour vacance d'emploi dans l'attente du recrutement d'un fonctionnaire. L'ensemble de ce dispositif est de nature à permettre de remplir les objectifs fixés par le protocole d'accord du 31 mars 2011 portant sécurisation des parcours professionnels des agents non titulaires des trois versants de la fonction publique.
