@@ -1,0 +1,9 @@
+# Réponse à la question n° 24459
+
+- Question : [24459](24459.md) — Question n° 24459 — libre circulation; préservation
+
+## Réponse
+
+*JO du 2013-09-24*
+
+L'article D.161-14 du code rural et de la pêche maritime dispose qu'il « est expressément fait défense de nuire aux chaussées des chemins ruraux et à leurs dépendances ou de compromettre la sécurité ou la commodité de la circulation sur ces voies », notamment de « labourer ou de cultiver le sol dans les emprises de ces chemins et de leurs dépendances » (3° ) et « d'une manière générale de se livrer à tout acte portant atteinte ou de nature à porter atteinte à l'intégrité des chemins ruraux et des ouvrages qu'ils comportent, à en modifier l'assiette ou à y occasionner des détériorations » (12° ). Le maire veille au respect des dispositions précitées en tant qu'autorité chargée de « la police et de la conservation des chemins ruraux », conformément à l'article L.161-5 du code rural et de la pêche maritime. A cet effet, l'article D.161-11 du code rural et de la pêche maritime dispose que « lorsqu'un obstacle s'oppose à la circulation sur un chemin rural, le maire y remédie d'urgence ». Le même article ajoute que « les mesures provisoires de conservation du chemin exigées par les circonstances sont prises, sur simple sommation administrative, aux frais et risques de l'auteur de l'infraction et sans préjudice des poursuites qui peuvent être exercées contre lui ». Enfin, l'article R.161-28 du code rural et de la pêche maritime dispose que les infractions aux dispositions précitées de l'article D.161-14 peuvent faire l'objet de poursuites pénales en vertu des dispositions répressives de droit commun, notamment sur le fondement des articles R.631-1 à R.635-1 du code pénal relatifs aux contraventions contre les biens.
