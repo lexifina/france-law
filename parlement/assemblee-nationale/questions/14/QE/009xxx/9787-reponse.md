@@ -1,0 +1,9 @@
+# Réponse à la question n° 9787
+
+- Question : [9787](9787.md) — Question n° 9787 — instances de réflexion; statistiques
+
+## Réponse
+
+*JO du 2013-09-24*
+
+Le décret n° 94-735 du 19 août 1994 relatif au concours et au programme pédagogique de l'internat en odontologie prévoit que la liste des services formateurs pour les internes en odontologie, le nombre et la répartition des postes dans ces services sont fixés chaque année par arrêté des ministres de l'enseignement supérieur et de la santé, après avis d'une commission nationale d'agrément. Ce texte régit l'internat en odontologie « ancien programme » menant à l'obtention de l'attestation d'études approfondies (AEA) en chirurgie dentaire et remplacé depuis la rentrée universitaire 2011-2012 par l'internat qualifiant en odontologie (article L. 634-1 du code de l'éducation). Ainsi, la dernière promotion d'internes admis à suivre le cursus mis en place en 1994 a pris ses fonctions en novembre 2010 et devra avoir achevé ses études à la fin de l'année universitaire 2015-2016. Dans l'attente, la Commission nationale d'agrément poursuit son rôle pour ces internes « ancien programme ». Toutefois, depuis la Commission nationale d'agrément réunie en janvier 2009 au titre de l'année universitaire 2009-2010, et en l'absence de nouvelle demande d'agrément de service dentaire, l'avis des membres de la Commission sur le renouvellement des agréments en cours est recueilli par courrier électronique. Dès lors, cette Commission, appelée à s'éteindre en 2015 et composée de représentants de l'administration centrale, des universités, des établissements de santé, du Conseil national de l'ordre des chirurgiens-dentistes et des internes en odontologie, ne représente aucun surcoût pour l'Etat tant en en matière de fonctionnement que de mise à disposition de fonctionnaires.
