@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130707468
+
+- Question : [SEQ130707468](seq130707468.md) — Délais de traitement des dossiers de la réserve parlementaire
+
+## Réponse
+
+*Intérieur, JO du 2013-09-26, page 2821*
+
+La cellule des subventions du bureau du cabinet du ministre de l'intérieur traite, chaque année, environ 10 000 dossiers et gère les enveloppes parlementaires de plus de 800 députés et sénateurs. Ces dossiers sont examinés avec le plus grand soin et beaucoup de rigueur par une équipe de dix agents. Le délai de traitement des demandes de subventions est subordonné au flux important de dossiers à traiter notamment avant et pendant la période estivale. Ce délai qui varie entre un mois et deux mois n'est pas plus long que par le passé et dépend de la qualité des pièces justificatives produites à l'appui des dossiers. Or, de nombreux dossiers transmis sont incomplets ou non conformes à la réglementation, contraignant les agents de la cellule à réclamer à de très nombreuses reprises les pièces nécessaires par mèl ou par téléphone, aux assistants parlementaires et aux collectivités territoriales. Il convient de rappeler, par ailleurs, que le décret régissant les subventions prévoit que le délai de deux mois de traitement des dossiers est suspendu dès lors qu'il apparaît nécessaire de demander des pièces justificatives manquantes ou complémentaires. En effet, un examen minutieux des demandes de subventions est indispensable pour s'assurer de la bonne cohérence des pièces fournies et de l'éligibilité d'un projet. Ces vérifications scrupuleuses permettent en dernier lieu, d'éviter les rejets des demandes de subventions par les préfectures, qui avant tout versement, effectuent elles aussi, des contrôles sur place et sur pièce, sur la validité des subventions accordées par arrêtés ministériels.
