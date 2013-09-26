@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120801492
+
+- Question : [SEQ120801492](seq120801492.md) — Avenir des hôpitaux du nord de la Drôme compte tenu du rapport de l'IGAS publié le 20 juillet 2012
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-09-26, page 2773*
+
+La ministre des affaires sociales et de la santé confirme qu'il n'a jamais été prévu de fusion entre les hôpitaux Drôme Nord et l'hôpital de Valence. Le 27 juillet 2011 le directeur général de l'agence régionale de santé (ARS) Rhône-Alpes a indiqué par écrit cette position au président du conseil général de la Drôme. Cette décision a été rappelée à plusieurs reprises par le directeur général de l'ARS Rhône-Alpes au président du conseil de surveillance des Hôpitaux Drôme Nord et au maire de Romans. Le rapport IGAS (inspection générale des affaires sociales) de 2012 a par ailleurs fait l'objet d'un courrier du directeur général de l'ARS Rhône-Alpes au chef de l'IGAS en septembre 2012, rappelant cette position. Ainsi, le directeur général de l'ARS a demandé au centre national de gestion la publication d'un poste de directeur pour cet établissement. Celui-ci a été nommé le 15 février 2013. Sur cette partie du territoire sud, les coopérations entre l'hôpital de Valence et les hôpitaux Drôme Nord doivent être approfondies et formalisées à travers la constitution d'une communauté hospitalière de territoire. Interrompus fin 2012 dans l'attente de l'arrivée du nouveau directeur des hôpitaux Drôme Nord, les travaux ont repris entre les deux principaux établissements constitutifs de la communauté hospitalière de territoire pour finaliser les documents constitutifs de cette communauté hospitalière de territoire : convention constitutive, projet médical. L'objectif de l'ARS Rhône-Alpes est une signature de la communauté hospitalière de territoire fin 2013.
