@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305309
+
+- Question : [SEQ130305309](seq130305309.md) — Frais irrépétibles
+
+## Réponse
+
+*Justice, JO du 2013-09-26, page 2821*
+
+L'article 700 du code de procédure civile permet en principe à la partie gagnante d'obtenir la condamnation de la partie tenue au paiement des dépens, ou, à défaut, de la partie perdante, à lui payer une somme déterminée par le juge au titre des frais qu'elle a exposés dans l'instance et qui ne sont pas compris dans les dépens de celle-ci, tels, par exemple, les honoraires d'avocat, les frais de déplacement ou encore la rémunération d'un expert amiable). Le juge fixe le montant de cette indemnité en tenant compte de l'équité ou de la situation économique de la partie condamnée. Il peut également, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette condamnation. L'application de l'article 700 du code de procédure civile relève du pouvoir discrétionnaire du juge : celui-ci n'est pas tenu de donner le ou les motifs de fait qui l'ont conduit à prononcer une condamnation ou, au contraire, à rejeter la demande. Toutefois, la demande d'indemnité fondée sur les dispositions de l'article 700 du code de procédure civile doit être soumise à la partie adverse et fait ainsi l'objet d'un débat contradictoire. En outre, afin de permettre au juge de faire une juste appréciation des sommes qu'elles ont engagées pour leur procès ou de prendre en compte leur situation économique, les parties peuvent communiquer au soutien de leurs prétentions à ce titre tous les justificatifs utiles. Ce dispositif permet au juge d'apprécier au cas par cas le montant de cette indemnité. Il ne paraît dès lors pas nécessaire ni opportun d'exiger sur cette question une motivation spéciale des décisions, ni même de fixer des critères pour déterminer le montant de cette indemnité.
