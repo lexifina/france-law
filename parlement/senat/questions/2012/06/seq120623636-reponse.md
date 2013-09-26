@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120623636
+
+- Question : [SEQ120623636](seq120623636.md) — Participation du Groupement d'assistance routière et de dépannage aux commissions interdépartementales d'agrément
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2013-09-26, page 2827*
+
+Dans sa décision du 16 février 2009 relative à des pratiques mises en œuvre par les sociétés d'autoroutes dans le secteur du dépannage-remorquage sur autoroutes, le conseil de la concurrence donne force obligatoire à un certain nombre de mesures, proposées par les sociétés d'autoroutes, visant à améliorer le jeu de la concurrence dans le domaine du dépannage sur autoroutes. Parmi ces mesures figure le retrait, pour les sociétés qui en conservaient la pratique, de la condition d'affiliation au GARD afin de pouvoir bénéficier d'un agrément autorisant à exercer l'activité de dépannage sur autoroutes. Dès lors, les conventions subsistant entre les sociétés d'autoroutes et le GARD ont été dénoncées. Cependant, cette dénonciation des conventions n'implique pas que le GARD ne participe plus aux commissions d'agrément. Il s'agit de deux choses indépendantes. S'agissant du réseau autoroutier concédé, deux circulaires - l'une datant de 1979 et l'autre de 2001 -, disposent que les commissions d'agrément de dépannage comprennent « un représentant des organisations professionnelles ». Dans ce cadre, le préfet invite les organisations professionnelles les plus représentatives. Aucune instruction n'a été donnée aux préfets dans le sens ni d'une invitation ni d'une exclusion du GARD aux réunions des commissions. La publication, le 25 avril 2013, d'une circulaire modifiant l'organisation du dépannage sur autoroutes vise à harmoniser les pratiques d'organisation du dépannage et à rappeler les règles de concurrence à respecter au moment du choix des dépanneurs qui peuvent intervenir sur le réseau autoroutier. Elle précise en particulier la composition des commissions.
