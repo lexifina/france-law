@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120523580
+
+- Question : [SEQ120523580](seq120523580.md) — Classement de l'estuaire de la Charente
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2013-09-26, page 2801*
+
+L'estuaire de la Charente constitue un milieu naturel de grande qualité, mais surtout un paysage original et baigné d'histoire, dont témoignent notamment l'arsenal et la corderie de Rochefort, ainsi que les forts échelonnés le long du fleuve. Sa protection au titre des sites paraît donc pleinement justifiée, et ce d'autant plus qu'il constitue, avec les îles toutes proches (Aix, Ré, Oléron, Madame) et l'ancien golfe de Saintonge, déjà classés, un ensemble d'une grande cohérence géographique et paysagère. Le classement d'un territoire au titre des sites n'a pas pour vocation de contraindre les pratiques agricoles, qui continuent de s'exercer librement, sous réserve de ne pas conduire à une modification profonde du paysage protégé. Quant aux bâtiments agricoles, leur réalisation est toujours examinée avec le souci de ne pas entraver une activité qui est, à l'évidence, indispensable à la bonne conservation du site. De surcroît, c'est avec un souci de concertation très poussée qu'a été conduite la procédure préalable au classement de l'estuaire de la Charente. L'enquête administrative, qui s'est déroulée du 19 décembre 2011 au 17 janvier 2012 inclus, a suscité très peu d'observations, notamment de la part des agriculteurs. Quant aux communes, seules quatre d'entre elles sur quatorze ont manifesté une opposition de principe à cette mesure. La commission départementale des sites s'est prononcée en faveur du classement à une large majorité (11 pour, 1 contre, 1 abstention), tandis que la commission supérieure des sites, a approuvé le classement à l'unanimité. Enfin, le Conseil d'État a validé le projet le 22 juillet 2013.
