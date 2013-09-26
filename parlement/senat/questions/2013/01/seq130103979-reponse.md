@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130103979
+
+- Question : [SEQ130103979](seq130103979.md) — Propriété d'un cadastre numérisé
+
+## Réponse
+
+*Intérieur, JO du 2013-09-26, page 2814*
+
+Les systèmes d'information géographique constituent des bases de données mettant en relation des informations sur des domaines d'activités (par exemple : transports, éducation, ordures ménagères, voirie, urbanisme) avec un territoire donné. Le cadastre peut servir de support à la mise en place de tels systèmes. La loi du 17 mars 1898 tendant à rendre plus rapide et plus économique la révision du cadastre et le décret n° 55-471 du 30 avril 1955 relatif à la rénovation et à la conservation du cadastre établissent le rôle des communes dans les opérations de mise à jour du cadastre. Les droits de propriété intellectuelle relatifs à la base de données cadastrale, gérée par la direction générale des finances publiques (DGFiP) chargée de la confection et de la mise à jour du plan cadastral, sont détenus par l'État. Par conséquent, l'établissement public de coopération intercommunale, lorsque lui a été transférée la compétence de numérisation du cadastre, ou, si tel n'est pas le cas, la commune, ne peuvent pas détenir de droits de propriété sur les données cadastrales numérisées. Sans préjudice des droits de propriété intellectuelle, la convention avec les services de l'État prévoit, à titre gratuit, un droit d'usage sur la documentation cadastrale et un droit de diffusion du plan cadastral numérisé pour le partenaire. Dans la mesure où, lorsqu'il s'agit d'un établissement public de coopération intercommunale, celui-ci agit pour le compte des communes membres, ces dernières peuvent a priori bénéficier des mêmes droits. Les modalités précises peuvent être définies au moment de la délégation de compétence relative à la numérisation du cadastre.
