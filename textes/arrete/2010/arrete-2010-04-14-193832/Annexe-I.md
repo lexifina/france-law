@@ -1072,11 +1072,7 @@ Option A : sciences économiques et gestion de l'entreprise
 
 Option B : sciences économiques et gestion commerciale
 
-Option C : sciences économiques et gestion de l'environnement
-
-Option D : sciences économiques et économie sociale et familiale
-
-Option E : sciences économiques et techniques comptables, bureautique
+Option C : sciences économiques et économie sociale et familiale
 
 Concours externe
 

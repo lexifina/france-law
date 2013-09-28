@@ -1234,10 +1234,6 @@ Option B : sciences économiques et sociales,
 
 et gestion commerciale
 
-Option C : sciences économiques et sociales,
-
-et gestion de l'environnement
-
 Concours externe
 
 NATURE DES ÉPREUVES
