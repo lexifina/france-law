@@ -1,0 +1,43 @@
+# LOI n° 2013-869 du 27 septembre 2013 modifiant certaines dispositions issues de la loi n° 2011-803 du 5 juillet 2011 relative aux droits et à la protection des personnes faisant l'objet de soins psychiatriques et aux modalités de leur prise en charge
+
+- Type : loi publiee
+- Législature : XIVème législature
+- Ouvert le : 2013-09-30
+- Mis à jour le : 2013-09-30
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000027754195
+
+## LOI n° 2013-869 du 27 septembre 2013 modifiant certaines dispositions issues de la loi n° 2011-803 du 5 juillet 2011 relative aux droits et à la protection des personnes faisant l'objet de soins psychiatriques et aux modalités de leur prise en charge
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027996629
+
+## Documents
+
+- [Proposition de loi relative aux soins sans consentement en psychiatrie](http://www.assemblee-nationale.fr/14/propositions/pion1223.asp)
+- [Texte adopté en 1ère lecture par l'Assemblée nationale le 25 juillet 2013](http://www.assemblee-nationale.fr/14/ta/ta0202.asp)
+- [Texte modifié en 1ère lecture par le Sénat le 13 septembre 2013](http://www.senat.fr/petite-loi-ameli/2012-2013/836.html)
+- [Texte adopté en CMP par l 'Assemblée nationale le 19 septembre 2013](http://www.assemblee-nationale.fr/14/ta/ta0212.asp)
+- [Texte adopté en CMP par le Sénat le 19 septembre 2013](http://www.senat.fr/petite-loi-ameli/2012-2013/845.html)
+- Dossiers législatifs
+  - Assemblée nationale
+    - [Dossier législatif de l'Assemblée nationale](http://www.assemblee-nationale.fr/14/dossiers/soins_sans_consentement_psychiatrie.asp)
+  - Sénat
+    - [Dossier législatif du Sénat](http://www.senat.fr/dossier-legislatif/ppl12-817.html)
+- Documents préparatoires
+  - [Rapport n° 1284 de M. Denys Robiliard](http://www.assemblee-nationale.fr/14/rapports/r1284.asp)
+  - [Texte de la commission déposé le 17 juillet 2013](http://www.assemblee-nationale.fr/14/ta-commission/r1284-a0.asp) (modification notamment du titre de la proposition de loi )
+  - [Rapport n° 835 de M. Jacky Le Menn](http://www.senat.fr/rap/l12-835/l12-835.html)
+  - [Texte de la commission déposé le 11 septembre 2013](http://www.senat.fr/leg/ppl12-836.html)
+  - [Rapport de M. Denys Robiliard (n° 1358 à l'Assemblée nationale) et de M. Jacky Le Menn (n° 844 au Sénat)](http://www.assemblee-nationale.fr/14/rapports/r1358.asp)
+  - [Texte de la commission mixte paritaire déposé le 17 juillet 2013](http://www.assemblee-nationale.fr/14/ta-commission/r1358-a0.asp)
+- Débats parlementaires (Procédure accélérée)
+  - Assemblée nationale (1ère lecture)
+    - Compte rendu intégral des séances du 25 juillet 2013
+      - [1ère séance du 25 juillet 2013](http://www.assemblee-nationale.fr/14/cri/2012-2013-extra/20131030.asp) : présentation, discussion générale.
+      - [2ème séance du 25 juillet 2013](http://www.assemblee-nationale.fr/14/cri/2012-2013-extra/20131031.asp) : discussion des articles : art 1er, art 2, art 3, avant l’art 4, art 4, art 5, art 6, art 6 bis, art 7, art 7 bis, art 8, art 9, art 10, art 11, art 12, art 13, titre, explications de vote, vote sur l’ensemble.
+  - Sénat (1ère lecture)
+    - [Compte rendu intégral de la séance du 13 septembre 2013](http://www.senat.fr/seances/s201309/s20130913/s20130913_mono.html#Niv1_SOM2) : discussion générale, discussion des articles : art 1er , art additionnels, art 3, art 4, art 5, art 6, art 6 bis, art additionnel, art 7, art 8, art 9, art additionnel, interventions et vote sur l'ensemble.
+  - Assemblée nationale (Lecture texte CMP)
+    - Compte rendu intégral des séances du 19 septembre 2013
+      - [1ère séance du 19 septembre 2013](http://www.assemblee-nationale.fr/14/cri/2012-2013-extra3/20133015.asp) : présentation, discussion générale, vote sur l’ensemble.
+  - Sénat (Lecture texte CMP)
+    - [Compte rendu intégral de la séance du 19 septembre 2013](http://www.senat.fr/seances/s201309/s20130919/s20130919_mono.html#Niv1_SOM8) : discussion générale, interventions et vote sur l'ensemble.
