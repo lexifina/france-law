@@ -1,0 +1,9 @@
+# Réponse à la question n° 31329
+
+- Question : [31329](31329.md) — Question n° 31329 — livres numériques; éditions en français; commercialisation
+
+## Réponse
+
+*JO du 2013-10-01*
+
+Les technologies numériques offrent naturellement de grandes facilités pour la mise à disposition des livres auprès de nos compatriotes expatriés ou des publics étrangers et la diffusion la plus large est évidemment de l'intérêt des éditeurs et des auteurs. Cependant, la mise en place de processus efficaces pour commercialiser des livres numériques français en dehors de nos frontières demande du temps et des moyens aux éditeurs, distributeurs et revendeurs qui, pour certains, doivent encore travailler au perfectionnement de leurs processus d'édition numérique sur le marché local. Par ailleurs, indépendamment de la volonté de ces professionnels, des limitations objectives existent. Elles peuvent d'abord résulter de la titularité des droits. Ainsi, un éditeur peut ne disposer que des droits d'exploitation pour son territoire, notamment pour les traductions et les illustrations incluses dans certains livres. Elles peuvent également être la conséquence de difficultés d'ordre technique rencontrées par les revendeurs dans la mise en place et la maintenance de systèmes susceptibles de gérer les disparités fiscales et légales existantes dans les différents pays ainsi que de prendre en compte les différents types de fichiers et de métadonnées fournis. Le Gouvernement partage la préoccupation exprimée de diffusion des livres français à l'étranger. La Commission européenne s'intéresse également à cette question qui est notamment abordée, dans le cadre du dialogue « licences pour l'Europe » lancé sous son impulsion le 4 février 2013, par le groupe de travail dédié aux questions liées à l'accès transfrontalier aux contenus numériques et à la portabilité de ces contenus. Le syndicat national de l'édition participe aux réunions tenues par ce groupe de travail.
