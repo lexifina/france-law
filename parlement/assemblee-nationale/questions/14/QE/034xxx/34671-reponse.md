@@ -1,0 +1,9 @@
+# Réponse à la question n° 34671
+
+- Question : [34671](34671.md) — Question n° 34671 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-10-01*
+
+Le Comité consultatif de la santé et de la protection animales (CCSPA), créé par le décret n° 85-175 du 4 février 1985 était une instance placée auprès du ministre chargé de l'agriculture dont l'avis pouvait être sollicité sur la détermination des maladies animales pour lesquelles des mesures réglementaires étaient souhaitables, sur la nature de ces mesures et sur toute question relative à la santé et à la protection des animaux, à l'exception des questions relatives à l'expérimentation animale et à l'identification des animaux. La composition de ce comité consultatif était arrêtée par le ministre chargé de l'agriculture. Le CCSPA n'était doté d'aucun budget ou personnel spécifique. Son secrétariat était assuré par le personnel du ministère, selon les sujets de l'ordre du jour. Ce comité s'est réuni régulièrement 4 à 5 fois par an, la dernière réunion ayant eu lieu le 22 mars 2012. Suite aux États Généraux du Sanitaire réunis au premier trimestre 2010, le décret n° 2012-842 du 30 juin 2012 sur la nouvelle gouvernance sanitaire a en effet mis un terme à son existence en abrogeant les articles R. 221-1 et R. 221-2 du code rural et de la pêche maritime. Le décret n° 2012-846 concomitant crée pour 5 ans une nouvelle commission administrative, le Conseil national d'orientation de la politique sanitaire animale et végétale (CNOPSAV), qui reprend dans un cadre élargi (mutualisation entre domaine animal et végétal) et rénové les attributions du CCSPA. Le CNOPSAV, tout comme le CCSPA, n'est pas doté d'un budget ou d'un personnel attribué. Pour information, on peut estimer que le suivi de ses trois sections : plénière, animale et végétale nécessitera en moyenne l'équivalent de 0,05 équivalent temps plein.
