@@ -1,0 +1,9 @@
+# Réponse à la question n° 34659
+
+- Question : [34659](34659.md) — Question n° 34659 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-10-01*
+
+Le conseil supérieur de la forêt, des produits forestiers et de la transformation du bois participe à la définition, à la coordination, à la mise en oeuvre et à l'évaluation de la politique forestière et de ses modulations régionales conformément à l'article L.113-1 du code forestier. Il est composé de membres du Parlement ainsi que des représentants des ministères intéressés, des collectivités territoriales, des établissements publics intéressés, des organisations professionnelles représentatives, des organisations syndicales de salariés représentatives, des associations de protection de l'environnement agréés mentionnées aux articles L 141-1 et L 141-3 du code de l'environnement et des intérêts associés à la forêt. Ce conseil est présidé par le ministre de l'agriculture, de l'agroalimentaire et de la forêt. Il n'est pas doté de budget de fonctionnement. Son secrétariat est directement assuré par la direction générale des politiques agricole, agroalimentaire et des territoires. Aucun fonctionnaire n'est mis à disposition de ce comité. Ses membres exercent leurs fonctions à titre gratuit conformément à l'article D 113-2 du code forestier. Le renouvellement de ce conseil est récent. Ses membres ont en effet été nommés par arrêté du 14 janvier et du 29 mai 2013 pour une durée de 5 ans. Il répond au souhait de l'ensemble des parties prenantes de la filière forêt/bois de disposer d'une instance pour débattre de la politique forestière. Dans le cadre du projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt actuellement en préparation, le Gouvernement souhaite réaffirmer le rôle de ce Conseil comme instance compétente pour débattre de la politique de la forêt et du bois.
