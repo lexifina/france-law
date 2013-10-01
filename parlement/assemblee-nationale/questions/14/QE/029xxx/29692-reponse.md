@@ -1,0 +1,9 @@
+# Réponse à la question n° 29692
+
+- Question : [29692](29692.md) — Question n° 29692 — procédure; réglementation
+
+## Réponse
+
+*JO du 2013-10-01*
+
+Les conciliateurs de justice sont des auxiliaires du service public de la justice, nommés par le premier président de la cour d'appel et exerçant leurs fonctions dans une circonscription du ressort du tribunal d'instance dont ils dépendent. Leur mission est de rechercher le règlement amiable des différends dans les conditions et selon les modalités prévues au code de procédure civile. Les parties peuvent avoir recours à un conciliateur de justice pour tenter de régler leur différend, soit d'un commun accord avant toute saisine du juge, soit lorsqu'elles saisissent le tribunal d'instance ou la juridiction de proximité de leur litige, à l'occasion de la tentative préalable de conciliation à laquelle le juge doit procéder mais qu'il peut alors déléguer à un conciliateur de justice. Il est indispensable que les parties comparaissent devant le conciliateur de justice, éventuellement assistées de la personne de leur choix. En effet, chaque partie doit pouvoir présenter ses arguments et, en particulier, son point de vue personnel sur l'affaire. Ce processus est d'ailleurs confidentiel pour permettre une discussion la plus large possible. C'est seulement à cette condition qu'une solution amiable au conflit, totale ou partielle, peut être dégagée, avec l'aide du conciliateur de justice. Il est toutefois exact que dans certains types de litiges, parmi lesquels les troubles du voisinage, la procédure de conciliation ne ménageant pas l'anonymat est susceptible d'engendrer des tensions. C'est pourquoi la garde des Sceaux a demandé à ses services de réflechir à un dispositif procédural de conciliation plus adapté à ces litiges qui nuisent gravement à la vie quotidienne de nos concitoyens.
