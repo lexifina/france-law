@@ -1,0 +1,9 @@
+# Réponse à la question n° 20548
+
+- Question : [20548](20548.md) — Question n° 20548 — ambulanciers; statut; réforme
+
+## Réponse
+
+*JO du 2013-10-01*
+
+Les dispositions réglementaires relatives à la durée du travail dans les entreprises de transport sanitaire, combinées avec celles de l'accord-cadre du 4 mai 2000 sur l'aménagement et la réduction du temps de travail des personnels des entreprises de transport sanitaire, apportent aux ambulanciers des garanties juridiques en matière de durée du travail et de rémunération. L'article 3 du décret n° 2009-32 du 9 février 2009 relatif à la durée du travail dans les entreprises de transport sanitaire prévoit que le temps de travail effectif des ambulanciers correspond aux amplitudes journalières, prises en compte pour 75 % de leur durée pour les services de permanence et 90 % en dehors de ces services. Le fait que l'amplitude constitue la base de calcul du temps de travail effectif permet la prise en compte, dans ce temps, des périodes de coupure autant que des périodes d'activité. En outre, l'article 2 de l'accord collectif précité limite l'amplitude de la journée de travail du personnel ambulancier roulant à 12 heures, avec possibilité de dépassement jusqu'à 15 heures mais dans des cas limitativement énumérés et moyennant une compensation financière ou en repos. L'article 4 du décret n° 2009-32 du 9 février 2009 précité fixe, quant à lui, une durée hebdomadaire moyenne de travail, comptée heure pour heure, ne pouvant dépasser 48 heures sur 4 mois. Le Gouvernement est attentif au contrôle rigoureux de l'application effective de ces règles. S'agissant de l'évolution des normes concernant les aspects statutaires et les conditions de rémunération, elle relève du domaine de la négociation collective et est donc de la seule compétence des partenaires sociaux.
