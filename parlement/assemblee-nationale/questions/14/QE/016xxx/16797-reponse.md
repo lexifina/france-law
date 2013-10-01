@@ -1,0 +1,9 @@
+# Réponse à la question n° 16797
+
+- Question : [16797](16797.md) — Question n° 16797 — SACEM; calcul; perspectives
+
+## Réponse
+
+*JO du 2013-10-01*
+
+L'alinéa premier de l'article L. 131-4 du code de la propriété intellectuelle prévoit que l'auteur doit être intéressé à la vente ou à l'exploitation de son oeuvre. En application de cette disposition d'ordre public, les redevances de droit d'auteur dues à l'occasion d'une manifestation musicale comportant des recettes d'entrée ou des recettes annexes (buffet, buvette, ou vente de programmes par exemple) sont calculées par la Société des auteurs, compositeurs et éditeurs de musique (SACEM) proportionnellement aux recettes. La SACEM prévoit par ailleurs que les redevances ne peuvent être inférieures à une redevance minimale établie à partir des dépenses engagées, mais en aucun cas la rémunération due aux auteurs n'est modulée en fonction du degré de bénéfice réalisé par rapport aux dépenses engagées. Lorsqu'une manifestation musicale est gratuite et que l'assiette de la rémunération proportionnelle fait par hypothèse défaut - par exemple, pour la simple sonorisation d'une kermesse ou d'un banquet - les redevances de la SACEM sont alors calculées forfaitairement en fonction des dépenses effectuées. Ce faisant, elle applique à la lettre le troisième alinéa de l'article L. 131-4 du code de la propriété intellectuelle, qui prévoit la possibilité de recourir au forfait dans l'hypothèse où « la base de calcul de la participation proportionnellement peut être pratiquement déterminée ». Le fait qu'une manifestation musicale produise des recettes ou qu'elle soit gratuite pour le public est en effet sans incidence sur l'acquittement des droits d'auteur, la musique restant toujours indispensable. Les auteurs doivent être rémunérés en toutes circonstances, au même titre que toutes les autres personnes contribuant au succès de l'événement.
