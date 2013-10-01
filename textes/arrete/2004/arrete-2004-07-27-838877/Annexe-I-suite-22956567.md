@@ -9148,23 +9148,9 @@ ESSAIS SUR PISTE
 
 Véhicules de la catégorie M1.
 
-Autocaravanes de PTAC> 3,5 t par exemple.
-
 |
 
-A compter du 01/01/12
-
-|
-
-58 %
-
-|
-
-5,8 m/s²
-
-|
-
-Jusqu'au 31/12/11
+Toutes dates
 
 |
 
@@ -9370,23 +9356,9 @@ ESSAIS SUR PISTE
 
 Véhicules de la catégorie M1.
 
-Autocaravanes de PTAC > 3,5 t par exemple.
-
 |
 
-A compter du 01/01/12
-
-|
-
-29 %
-
-|
-
-2,9 m/s²
-
-|
-
-Jusqu'au 31/12/11
+Toutes dates
 
 |
 
