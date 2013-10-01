@@ -1,0 +1,9 @@
+# Réponse à la question n° 27935
+
+- Question : [27935](27935.md) — Question n° 27935 — permis de construire; CUMA; réglementation
+
+## Réponse
+
+*JO du 2013-10-01*
+
+Le règlement national d'urbanisme et les règles applicables aux plans locaux d'urbanisme (PLU) permettent, en zones agricoles, les constructions et les installations nécessaires à l'exploitation agricole. Toutefois, les coopératives d'utilisation de matériel agricole (CUMA) étant des coopératives avec pour objet l'utilisation en commun de moyens propres à faciliter l'activité économique des exploitants, elles n'exercent pas une activité agricole telle que définie par l'article L. 311-1 du code rural et de la pêche maritime. A l'instar de toutes les constructions qui constituent le prolongement d'une activité agricole sans y être nécessaires, les hangars de ces coopératives, même s'ils contribuent de par leur nature à l'activité des exploitations adhérentes, ne peuvent s'implanter ni dans les zones agricoles des PLU, ni dans les zones inconstructibles au sein desquelles même les activités agricoles peuvent être interdites. Les hangars de ces coopératives ne peuvent donc être implantés que dans les secteurs constructibles des PLU, ou dans « des pastilles » de constructibilité limitée mises en place dans le respect des conditions strictes imposées par l'article L. 123-1-5.14° du code de l'urbanisme. Le Gouvernement ayant réaffirmé sa volonté de protéger les surfaces agricoles face à l'artificialisation croissante des sols, à la perte de la biodiversité ainsi qu'à la disparition massive des exploitations agricoles, notamment les plus petites, et aux difficultés d'accès au foncier agricole pour les jeunes agriculteurs ou les porteurs de projet en agriculture biologique en particulier, un assouplissement de la législation sur ce sujet n'est pas envisagé.
