@@ -1,0 +1,9 @@
+# Réponse à la question n° 23512
+
+- Question : [23512](23512.md) — Question n° 23512 — professionels du droit
+
+## Réponse
+
+*JO du 2013-10-01*
+
+Le Développement Professionnel Continu (DPC) est un dispositif d'amélioration continue de la qualité et de la sécurité des soins ; il associe la formation professionnelle continue et l'évaluation des pratiques professionnelles. L'Organisme gestionnaire du DPC (OGDPC) est un groupement d'intérêt public composé de représentants de l'Etat, de l'assurance maladie, des professionnels de santé et des employeurs ; il est financé par des fonds provenant notamment des employeurs et des établissements de santé, de l'Etat, de l'assurance maladie. Le DPC répond en partie à un enjeu de santé publique. Le dispositif du DPC existant pour les professionnels de santé n'est pas transposable aux avocats. S'agissant en effet d'une profession entièrement libérale et indépendante, l'organisation de la formation de ses membres est une question interne à cette profession qui relève de la compétence du Conseil national des barreaux comme cela résulte de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques. L'Etat n'assure pas la formation des avocats, il participe seulement au financement des centres régionaux de formation professionnelle des avocats (CRFPA). De même, il n'existe pas de structures publiques au sein desquelles exercent des avocats et qui pourraient, à l'instar des établissements de santé, financer un tel dispositif. Il appartient donc à la profession d'avocat d'organiser la formation tant initiale que continue de ses membres, et de mettre en place, le cas échéant, un dispositif d'évaluation des pratiques professionnelles afin de s'assurer de la qualité des prestations délivrées par ses membres, en-dehors de toute intervention de l'Etat.
