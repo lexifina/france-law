@@ -1,0 +1,9 @@
+# Réponse à la question n° 13033
+
+- Question : [13033](13033.md) — Question n° 13033 — centrales nucléaires; fermeture
+
+## Réponse
+
+*JO du 2013-10-01*
+
+Notre pays fait face à des défis climatiques et énergétiques sans précédent. La lutte contre le réchauffement climatique est non seulement une cause planétaire, européenne et nationale, mais peut aussi être le levier d'un nouveau modèle de croissance à la fois intelligent, durable et solidaire. Le Président de la République a décidé d'engager la transition énergétique de la France, cette transition reposant, d'une part, sur la sobriété et, d'autre part, sur la diversification des sources de production et d'approvisionnement. Pour ce qui concerne le nucléaire, le Président de la République a fixé un cap : réduire la part du nucléaire dans la production d'électricité à 50 % à l'horizon 2025. Il a également décidé que seule la centrale nucléaire de Fessenheim serait fermée durant le quinquennat. Enfin, choix a été fait de transformer le mix énergétique français afin de promouvoir les énergies renouvelables. Un débat national sur la transition énergétique a été organisé pour permettre aux élus, aux partenaires sociaux et aux associations de dégager des solutions permettant de garantir la compétitivité de notre appareil économique, tout en portant la transition énergétique. La synthèse des travaux sera remise le 20 septembre 2013 lors de la prochaine Conférence environnementale. Le ministre de l'écologie, du développement durable et de l'énergie a, d'ores et déjà, réaffirmé sa volonté de respecter le mandat fixé par le Président de la République, en ce qui concerne la fermeture de la centrale de Fessenheim avant le 31 décembre 2016. Les modalités inhérentes à cette fermeture nécessiteront l'intervention de dispositions législatives actuellement en préparation.
