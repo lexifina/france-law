@@ -1,0 +1,9 @@
+# Réponse à la question n° 2106
+
+- Question : [2106](2106.md) — Question n° 2106 — logements; réhabilitation; Satory
+
+## Réponse
+
+*JO du 2013-10-01*
+
+Dans le cadre de l'aménagement du plateau de Satory et du protocole d'accord sur le secteur « Fesch, Koufra, Delpal » Versailles-Satory-est du 27 janvier 2012, l'agence foncière et technique de la région parisienne (AFTRP) s'est vue confier le pilotage des études préalables d'aménagement et de reconversion urbaine. Pour ce faire, l'AFTRP a sollicité des bureaux d'études pour les divers diagnostics ainsi que l'agence d'urbanisme Busquets Arquitectura i Urbanime (BAU) pour les aspects d'urbanisme. Cette dernière a présenté deux scénarii de reconversion du site. Les différents partenaires se sont depuis réunis à plusieurs reprises, notamment lors de comités de pilotage (COPIL), pour parvenir à un consensus. L'étude menée par l'AFTRP a notamment confirmé qu'au regard du contexte budgétaire actuellement défavorable il ne semble envisageable de concevoir la réalisation de ce projet que selon une unique option, à savoir un montage de type partenariat public-privé (PPP) au sens de l'ordonnance du 17 juin 2004. Celui-ci pourrait consister à confier à un même groupement d'opérateurs la réalisation du programme gendarmerie à hauteur de 373 logements et la « double valorisation » du foncier inutilisé (Delpal 2 et Koufra, soit 8,1 ha) par un programme immobilier, les produits de valorisation venant alors en atténuation des coûts restant à la charge de l'État. Le ministère de l'intérieur a la volonté de voir aboutir ce projet. Le cadre juridique du PPP est à privilégier car il apparaît comme seul de nature à en permettre la réalisation tout en satisfaisant les besoins de la gendarmerie dont la vétusté des logements nécessite leur réhabilitation. Désormais, il convient d'approfondir cette option par une étude de faisabilité aux fins d'en déterminer les modalités juridiques et financières.
