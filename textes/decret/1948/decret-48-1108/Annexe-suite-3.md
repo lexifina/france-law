@@ -94,26 +94,6 @@ Echelon spécial
 
 |
 
-Conseiller d'administration
-
-hors classe
-
-classe normale
-
-|
-
-852 - 985
-
-529 - 871
-
-|
-
-A compter du 1er août 1995
-
-A compter du 1er août 1993
-
-|
-
 Attaché principal d'administration de l'éducation nationale et de l'enseignement supérieur
 
 |
@@ -136,9 +116,7 @@ Attaché d'administration de l'éducation nationale et de l'enseignement supéri
 
 |
 
-(250) (280)
-
-(305)(340) |
+(250)(280)(305)(340) |
 
 Echelons provisoires |
 
@@ -234,7 +212,7 @@ Attaché
 
 |
 
-Agent chef de 1re catégorie
+Agent chef de 1ere catégorie
 
 |
 
@@ -1008,13 +986,7 @@ Directeur de recherches, directeur de laboratoire
 
 |
 
-(1) Les indices prévus pour les maîtres de recherches
-
-et les directeurs ne concernent que le personnel du cadre.
-
-Les maîtres de conférences et les professeurs de facultés
-
-détachés pour servir dans ce cadre conservent le cas échéant les indices de leur cadre d'origine
+(1) Les indices prévus pour les maîtres de recherches et les directeurs ne concernent que le personnel du cadre. Les maîtres de conférences et les professeurs de facultés détachés pour servir dans ce cadre conservent le cas échéant les indices de leur cadre d'origine
 
 |
 
