@@ -6,33 +6,25 @@
 
 QUOTA EN OCÉAN ATLANTIQUE
 
-à l'est de la longigue 45° Ouest
-
-|
+à l'est de la longitude 45° Ouest |
 
 QUOTA
 
-en mer Méditerranée
+en mer Méditerranée |
+
+|
+
+Pour la pêche au chalut
 
 |
 
 Pour la pêche
 
-au chalut
-
-|
+à la ligne et à la canne |
 
 Pour la pêche
 
-à la ligne et à la canne
-
-|
-
-Pour la pêche
-
-à la palangre
-
-|
+à la palangre |
 
 Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord)
 
@@ -78,7 +70,7 @@ Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse-Nor
 
 |
 
-3
+0
 
 |
 
@@ -98,7 +90,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
-1
+0
 
 |
 
@@ -118,11 +110,11 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-61
+59
 
 |
 
-2
+1
 
 |
 
@@ -142,7 +134,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-1
+0
 
 |
 
@@ -158,7 +150,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-37
+29
 
 |
 
@@ -166,7 +158,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-15
+24
 
 |
 
@@ -222,7 +214,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs d'Aquitaine
 
 |
 
-79
+86
 
 |
 
@@ -258,15 +250,15 @@ Total
 
 |
 
-150
+136
 
 |
 
-82
+87
 
 |
 
-15
+24
 
 |
 
