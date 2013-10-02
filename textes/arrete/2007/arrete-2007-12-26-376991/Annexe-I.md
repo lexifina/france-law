@@ -130,7 +130,7 @@ Chef du bureau du budget et de la programmation financière.
 
 Chef du bureau du personnel et des compétences.
 
-Chef de cabinet.
+Chef de la coordination fonctionnelle.
 
 |
 
@@ -148,7 +148,7 @@ Direction de l'évaluation de la performance et des affaires financières et imm
 
 |
 
-Chef du bureau du budget et du fonctionnement.
+Chef du bureau de la gestion des sites de l'administration centrale.
 
 |
 
@@ -156,7 +156,7 @@ Chef du bureau du budget et du fonctionnement.
 
 |
 
-Chef du bureau du contrôle interne comptable.
+Chef du bureau de la commande publique et de la performance des achats.
 
 |
 
@@ -164,7 +164,7 @@ Chef du bureau du contrôle interne comptable.
 
 |
 
-Chef du centre de service Chorus pour l'administration générale.
+Adjoint au chef du centre des prestations financières.
 
 |
 
@@ -172,7 +172,7 @@ Chef du centre de service Chorus pour l'administration générale.
 
 |
 
-Adjoint au chef du bureau de la synthèse budgétaire et financière.
+Adjoint au chef du bureau de la synthèse budgétaire.
 
 |
 
@@ -180,31 +180,11 @@ Adjoint au chef du bureau de la synthèse budgétaire et financière.
 
 |
 
-Adjoint au chef du bureau des affaires immobilières d'administration centrale.
+Adjoint au chef du bureau de la synthèse, du patrimoine et de la stratégie.
 
 |
 
 30
-
-|
-
-Direction de la modernisation et de l'action territoriale.
-
-|
-
-Chef du bureau de la sécurité et de la réglementation routières.
-
-|
-
-30
-
-|
-
-Chef du service du fichier national des permis de conduire.
-
-|
-
-50
 
 |
 
@@ -672,11 +652,11 @@ Chef du département de la dépense de l'Etat.
 
 |
 
-Secrétariat général à l'immigration et à l'intégration.
+Direction générale des étrangers en France.
 
 |
 
-Chef du bureau du droit de l'éloignement.
+Chef du bureau de la circulation transfrontalière.
 
 |
 
@@ -684,9 +664,7 @@ Chef du bureau du droit de l'éloignement.
 
 |
 
-Chef du département de l'asile à la frontière et de l'admission au séjour.
-
-|
+Chef du département de l'asile à la frontière et de l'admission au séjour. |
 
 30 |
 
@@ -694,7 +672,7 @@ Agence nationale des titres sécurisés.
 
 |
 
-Chef du département qualité.
+Responsable du centre d'appels, de l'acheminement et de la gestion des sites web.
 
 |
 
@@ -707,5 +685,21 @@ Direction générale de la gendarmerie nationale. |
 Chef du bureau du personnel civil. |
 
 30
+
+|
+
+Délégation à la sécurité et à la circulation routières. |
+
+Chef du bureau du permis de conduire.
+
+|
+
+30
+
+|
+
+Chef du service du fichier national des permis de conduire. |
+
+50
 
 |
