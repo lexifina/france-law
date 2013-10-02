@@ -1,0 +1,127 @@
+# Agriculture : avenir pour l'agriculture, l'alimentation et la forêt
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N31757
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/avenir_agriculture_alimentation_foret
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-279.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-11-13 : 1er dépôt d'une initiative. (PRJLANR5L14B1548)
+  - 2013-11-13 : Etude d'impact (ETDIANR5L14B1548)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-11-13 : Renvoi en commission au fond
+      - 2013-10-02 : Nomination de rapporteur
+      - 2013-11-27 : Réunion de commission
+      - 2013-11-27 : Réunion de commission
+      - 2013-12-04 : Réunion de commission
+      - 2013-12-10 : Réunion de commission
+      - 2013-12-10 : Réunion de commission
+      - 2013-12-11 : Réunion de commission
+      - 2013-12-11 : Réunion de commission
+      - 2013-12-11 : Réunion de commission
+      - 2013-12-12 : Réunion de commission
+      - 2013-12-12 : Réunion de commission
+      - 2013-12-12 : Réunion de commission
+      - 2014-01-07 : Réunion de commission
+      - 2014-01-07 : Réunion de commission
+      - 2013-12-13 : Dépôt de rapport (RAPPANR5L14B1639, PRJLANR5L14BTC1639)
+    - Travaux d'une commission saisie pour avis
+      - 2013-11-08 : Saisine pour avis d'une commission
+      - 2013-11-13 : Nomination de rapporteur
+      - 2013-12-04 : Réunion de commission
+      - 2013-12-05 : Dépôt de rapport (AVISANR5L14B1614)
+    - Travaux d'une commission saisie pour avis
+      - 2013-11-14 : Saisine pour avis d'une commission
+      - 2013-10-15 : Nomination de rapporteur
+      - 2013-12-05 : Dépôt de rapport (AVISANR5L14B1604)
+  - Discussion en séance publique
+    - 2014-01-07 : Discussion en séance publique
+    - 2014-01-07 : Discussion en séance publique
+    - 2014-01-08 : Discussion en séance publique
+    - 2014-01-08 : Discussion en séance publique
+    - 2014-01-09 : Discussion en séance publique
+    - 2014-01-09 : Discussion en séance publique
+    - 2014-01-09 : Discussion en séance publique
+    - 2014-01-10 : Discussion en séance publique
+    - 2014-01-10 : Discussion en séance publique
+    - 2014-01-10 : Discussion en séance publique
+    - 2014-01-14 : Discussion en séance publique
+    - 2014-01-14 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-01-15 : Dépôt d'une initiative en navette (PRJLSNR5S219B0279)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-01-15 : Renvoi en commission au fond
+      - 2013-11-27 : Nomination de rapporteur
+      - 2014-02-19 : Dépôt de rapport (RAPPSNR5S219B0386)
+    - Travaux d'une commission saisie pour avis
+      - 2013-12-03 : Saisine pour avis d'une commission
+      - 2013-12-03 : Nomination de rapporteur
+      - 2014-02-05 : Dépôt de rapport (AVISSNR5S219B0344)
+    - Travaux d'une commission saisie pour avis
+      - 2013-12-18 : Saisine pour avis d'une commission
+      - 2013-12-18 : Nomination de rapporteur
+      - 2014-02-18 : Dépôt de rapport (AVISSNR5S219B0373)
+  - Discussion en séance publique
+    - 2014-04-09 : Discussion en séance publique
+    - 2014-04-10 : Discussion en séance publique
+    - 2014-04-11 : Discussion en séance publique
+    - 2014-04-12 : Discussion en séance publique
+    - 2014-04-14 : Discussion en séance publique
+    - 2014-04-15 : Discussion en séance publique
+    - 2014-04-15 : Décision
+- deuxième lecture
+  - 2014-04-17 : Dépôt d'une initiative en navette (PRJLANR5L14B1892)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-04-17 : Renvoi en commission au fond
+      - 2014-06-24 : Réunion de commission
+      - 2014-06-24 : Réunion de commission
+      - 2014-06-25 : Réunion de commission
+      - 2014-06-25 : Réunion de commission
+      - 2014-06-26 : Réunion de commission
+      - 2014-07-07 : Réunion de commission
+      - 2014-06-26 : Dépôt de rapport (RAPPANR5L14B2066, PRJLANR5L14BTC2066)
+  - Discussion en séance publique
+    - 2014-07-07 : Discussion en séance publique
+    - 2014-07-07 : Discussion en séance publique
+    - 2014-07-08 : Discussion en séance publique
+    - 2014-07-08 : Discussion en séance publique
+    - 2014-07-09 : Discussion en séance publique
+    - 2014-07-09 : Décision
+- deuxième lecture
+  - 2014-07-10 : Dépôt d'une initiative en navette (PRJLSNR5S219B0718)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-10 : Renvoi en commission au fond
+      - 2014-07-16 : Dépôt de rapport (RAPPSNR5S219B0743)
+  - Discussion en séance publique
+    - 2014-07-17 : Discussion en séance publique
+    - 2014-07-18 : Discussion en séance publique
+    - 2014-07-21 : Discussion en séance publique
+    - 2014-07-21 : Décision
+- Commission Mixte Paritaire
+  - 2014-07-22 : Dépôt d'un projet de loi (PRJLANR5L14B2171)
+  - 2014-07-22 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-07-23 : Nomination de rapporteur
+    - 2014-07-23 : Dépôt du rapport d'une CMP (RAPPANR5L14B2176)
+    - 2014-07-23 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0774)
+  - Discussion en séance publique
+    - 2014-07-24 : Discussion en séance publique
+    - 2014-07-24 : Décision
+  - Discussion en séance publique
+    - 2014-09-11 : Discussion en séance publique
+    - 2014-09-11 : Décision
+  - 2014-07-23 : Décision de la CMP
+- Conseil constitutionnel
+  - 2014-09-15 : Saisine du conseil constitutionnel
+  - 2014-10-09 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-10-13 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2016-12-20 : Rapport sur l'application des lois (RINFANR5L14B4328)
