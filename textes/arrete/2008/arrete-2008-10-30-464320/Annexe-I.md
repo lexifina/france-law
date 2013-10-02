@@ -1,10 +1,8 @@
 # Article Annexe I
 
-CHEFS DES SERVICES DES SYSTÈMES D'INFORMATION ET DE COMMUNICATION ACCÉDANT À L'ÉCHELON SPÉCIAL
+Chefs des services des systèmes d'information et de communication accédant à l'échelon spécial
 
 Services de zone des systèmes d'information et de communication (SZSIC)
-
-|
 
 LOCALISATION
 
@@ -34,9 +32,15 @@ Chef du SZSIC.
 
 |
 
-Services de l'administration centrale
+|
 
 |
+
+|
+
+|
+
+Services de l'administration centrale
 
 LOCALISATION
 
@@ -58,7 +62,7 @@ Direction des systèmes d'information et de communication.
 
 |
 
-Adjoint opérationnel à la sous-direction de l'exploitation et du soutien (SDES).
+Adjoint au sous-directeur des infrastructures (SDI)
 
 |
 
@@ -66,7 +70,7 @@ Adjoint opérationnel à la sous-direction de l'exploitation et du soutien (SDES
 
 |
 
-Chef de la division centrale des systèmes d'information et de communication (DCSIC)
+Adjoint au sous-directeur du soutien aux utilisateurs (SDSU)
 
 |
 

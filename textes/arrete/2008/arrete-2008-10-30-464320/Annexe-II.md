@@ -206,11 +206,7 @@ Direction des systèmes d'information et de communication
 
 |
 
-Chef du bureau opérateur à la sous-direction
-
-de l'exploitation et du soutien (SDES)
-
-|
+Adjoint au sous-directeur de la supervision et de la production (SDSP) |
 
 40
 
