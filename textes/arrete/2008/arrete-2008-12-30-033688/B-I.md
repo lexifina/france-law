@@ -1,26 +1,24 @@
 # Article B I
 
--
-
 B-I. - RÉPARTITION DES EMPLOIS D'ADMINISTRATEUR DE L'ÉDUCATION NATIONALE,
 
 de l'enseignement supérieur et de la recherche relevant de l'article 57-2 du décret du 3 décembre 1983 susvisé,
 
-services et établissements relevant du ministre chargé de l'éducation nationale
+services du ministre chargé de l'éducation nationale
+
+|
+
+Académie
+
+|
+
+Localisation
 
 |
 
 NOMBRE
 
 d'emplois
-
-|
-
-Académies
-
-|
-
-Localisation
 
 |
 
@@ -32,13 +30,9 @@ Rectorat
 
 |
 
-5
-
-|
-
 6
 
-A effet du 1er septembre 2013
+|
 
 |
 
@@ -50,6 +44,8 @@ Service départemental de l'éducation nationale des Alpes-de-Haute-Provence
 
 |
 
+|
+
 Service départemental de l'éducation nationale des Hautes-Alpes
 
 |
@@ -58,11 +54,15 @@ Service départemental de l'éducation nationale des Hautes-Alpes
 
 |
 
+|
+
 Service départemental de l'éducation nationale de Vaucluse
 
 |
 
 1
+
+|
 
 |
 
@@ -82,7 +82,9 @@ Rectorat
 
 |
 
-2
+3
+
+|
 
 |
 
@@ -93,12 +95,6 @@ Service départemental de l'éducation nationale de l'Aisne
 1
 
 |
-
-Service départemental de l'éducation nationale de la Somme
-
-|
-
-1
 
 |
 
@@ -118,7 +114,9 @@ Rectorat
 
 |
 
-5
+6
+
+|
 
 |
 
@@ -130,11 +128,15 @@ Service départemental de l'éducation nationale du Doubs
 
 |
 
+|
+
 Service départemental de l'éducation nationale du Jura
 
 |
 
 1
+
+|
 
 |
 
@@ -146,11 +148,15 @@ Service départemental de l'éducation nationale de la Haute-Saône
 
 |
 
+|
+
 Service départemental de l'éducation nationale du Territoire de Belfort
 
 |
 
 1
+
+|
 
 |
 
@@ -170,13 +176,9 @@ Rectorat
 
 |
 
-5
+7
 
 |
-
-6
-
-A effet du 1er septembre 2013
 
 |
 
@@ -188,11 +190,15 @@ Service départemental de l'éducation nationale de la Dordogne
 
 |
 
+|
+
 Service départemental de l'éducation nationale des Landes
 
 |
 
 1
+
+|
 
 |
 
@@ -204,11 +210,15 @@ Service départemental de l'éducation nationale de Lot-et-Garonne
 
 |
 
+|
+
 Service départemental de l'éducation nationale des Pyrénées-Atlantiques
 
 |
 
 1
+
+|
 
 |
 
@@ -232,11 +242,15 @@ Rectorat
 
 |
 
+|
+
 Service départemental de l'éducation nationale du Calvados
 
 |
 
 1
+
+|
 
 |
 
@@ -248,6 +262,8 @@ Service départemental de l'éducation nationale de la Manche
 
 |
 
+|
+
 Service départemental de l'éducation nationale de l'Orne
 
 |
@@ -256,11 +272,19 @@ Service départemental de l'éducation nationale de l'Orne
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
 3
+
+5
+
+A effet du
+
+1er septembre 2014
 
 |
 
@@ -272,13 +296,15 @@ Rectorat
 
 |
 
-3
-
-|
-
 4
 
-A effet du 1er septembre 2013
+5
+
+A effet du
+
+1er septembre 2014
+
+|
 
 |
 
@@ -290,11 +316,15 @@ Service départemental de l'éducation nationale de l'Allier
 
 |
 
+|
+
 Service départemental de l'éducation nationale du Cantal
 
 |
 
 1
+
+|
 
 |
 
@@ -306,6 +336,8 @@ Service départemental de l'éducation nationale de la Haute-Loire
 
 |
 
+|
+
 Le service départemental de l'éducation nationale du Puy-de-Dôme
 
 |
@@ -314,15 +346,19 @@ Le service départemental de l'éducation nationale du Puy-de-Dôme
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
-4
+5
 
-|
+6
 
-5 A effet du 1er septembre 2013
+A effet du
+
+1er septembre 2014
 
 |
 
@@ -370,17 +406,17 @@ Rectorat
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
-
 |
 
-8
+Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
 10
 
-A effet du 1er septembre 2013
+12
+
+A effet du 1er septembre 2014
 
 |
 
@@ -392,13 +428,9 @@ Rectorat
 
 |
 
-3
-
-|
-
 4
 
-A effet du 1er septembre 2013
+|
 
 |
 
@@ -410,11 +442,15 @@ Service départemental de l'éducation nationale de la Côte-d'Or
 
 |
 
+|
+
 Service départemental de l'éducation nationale de la Nièvre
 
 |
 
 1
+
+|
 
 |
 
@@ -426,6 +462,8 @@ Service départemental de l'éducation nationale de Saône-et-Loire
 
 |
 
+|
+
 Service départemental de l'éducation nationale de l'Yonne
 
 |
@@ -434,11 +472,17 @@ Service départemental de l'éducation nationale de l'Yonne
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
 5
+
+7
+
+A effet du 1er septembre 2014
 
 |
 
@@ -452,6 +496,12 @@ Rectorat
 
 4
 
+5
+
+A effet du 1er septembre 2014
+
+|
+
 |
 
 Service départemental de l'éducation nationale de l'Ardèche
@@ -459,6 +509,8 @@ Service départemental de l'éducation nationale de l'Ardèche
 |
 
 1
+
+|
 
 |
 
@@ -470,11 +522,15 @@ Service départemental de l'éducation nationale de la Drôme
 
 |
 
+|
+
 Service départemental de l'éducation nationale de la Savoie
 
 |
 
 1
+
+|
 
 |
 
@@ -486,11 +542,13 @@ Service départemental de l'éducation nationale de la Haute-Savoie
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
-5
+6
 
 |
 
@@ -503,6 +561,12 @@ Rectorat
 |
 
 2
+
+3
+
+A effet du 1er septembre 2014
+
+|
 
 |
 
@@ -522,7 +586,9 @@ Rectorat
 
 |
 
-2
+3
+
+|
 
 |
 
@@ -532,7 +598,9 @@ Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 1
 
-A effet du 1er septembre 2013
+2
+
+A effet du 1er septembre 2014
 
 |
 
@@ -544,7 +612,9 @@ Rectorat
 
 |
 
-6
+7
+
+|
 
 |
 
@@ -568,11 +638,15 @@ Rectorat
 
 |
 
+|
+
 Service départemental de l'éducation nationale de la Corrèze
 
 |
 
 1
+
+|
 
 |
 
@@ -584,11 +658,15 @@ Service départemental de l'éducation nationale de la Creuse
 
 |
 
+|
+
 Service départemental de l'éducation nationale de la Haute-Vienne
 
 |
 
 1
+
+|
 
 |
 
@@ -610,6 +688,12 @@ Rectorat
 
 4
 
+5
+
+A effet du 1er septembre 2014
+
+|
+
 |
 
 Service départemental de l'éducation nationale de l'Ain
@@ -617,6 +701,8 @@ Service départemental de l'éducation nationale de l'Ain
 |
 
 1
+
+|
 
 |
 
@@ -628,11 +714,17 @@ Service départemental de l'éducation nationale de la Loire
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
 7
+
+8
+
+A effet du 1er septembre 2014
 
 |
 
@@ -648,11 +740,17 @@ Rectorat
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
 2
+
+3
+
+A effet du 1er septembre 2014
 
 |
 
@@ -668,11 +766,15 @@ Rectorat
 
 |
 
+|
+
 Service départemental de l'éducation nationale de l'Aude
 
 |
 
 1
+
+|
 
 |
 
@@ -684,6 +786,8 @@ Service départemental de l'éducation nationale de la Lozère
 
 |
 
+|
+
 Service départemental de l'éducation nationale des Pyrénées-Orientales
 
 |
@@ -692,17 +796,13 @@ Service départemental de l'éducation nationale des Pyrénées-Orientales
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
-7
-
-|
-
 8
-
-A effet du 1er septembre 2013
 
 |
 
@@ -718,11 +818,15 @@ Rectorat
 
 |
 
+|
+
 Service départemental de l'éducation nationale de Meurthe-et-Moselle
 
 |
 
 1
+
+|
 
 |
 
@@ -734,6 +838,8 @@ Service départemental de l'éducation nationale de la Meuse
 
 |
 
+|
+
 Service départemental de l'éducation nationale des Vosges
 
 |
@@ -742,11 +848,17 @@ Service départemental de l'éducation nationale des Vosges
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
 7
+
+8
+
+A effet du 1er septembre 2014
 
 |
 
@@ -758,7 +870,9 @@ Rectorat
 
 |
 
-3
+4
+
+|
 
 |
 
@@ -770,11 +884,15 @@ Service départemental de l'éducation nationale de Maine-et-Loire
 
 |
 
+|
+
 Service départemental de l'éducation nationale de la Mayenne
 
 |
 
 1
+
+|
 
 |
 
@@ -786,11 +904,15 @@ Service départemental de l'éducation nationale de la Sarthe
 
 |
 
+|
+
 Service départemental de l'éducation nationale de la Vendée
 
 |
 
 1
+
+|
 
 |
 
@@ -814,6 +936,8 @@ Rectorat
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
@@ -830,7 +954,15 @@ Rectorat
 
 |
 
+5
+
+Jusqu'au 31 août 2014
+
 4
+
+A effet du 1er septembre 2014
+
+|
 
 |
 
@@ -842,6 +974,8 @@ Service départemental de l'éducation nationale du Cher
 
 |
 
+|
+
 Service départemental de l'éducation nationale d'Eure-et-Loir
 
 |
@@ -850,11 +984,15 @@ Service départemental de l'éducation nationale d'Eure-et-Loir
 
 |
 
-Service départemental de l'éducation nationale de l'Indre
+|
+
+Service départemental de l'éducation nationale d'Indre
 
 |
 
 1
+
+|
 
 |
 
@@ -866,6 +1004,8 @@ Service départemental de l'éducation nationale d'Indre-et-Loire
 
 |
 
+|
+
 Service départemental de l'éducation nationale de Loir-et-Cher
 
 |
@@ -874,17 +1014,13 @@ Service départemental de l'éducation nationale de Loir-et-Cher
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
-8
-
-|
-
 9
-
-A effet du 1er septembre 2013
 
 |
 
@@ -896,7 +1032,9 @@ Rectorat
 
 |
 
-4
+5
+
+|
 
 |
 
@@ -904,7 +1042,9 @@ Service interacadémique des examens et concours
 
 |
 
-3
+4
+
+|
 
 |
 
@@ -924,13 +1064,9 @@ Rectorat
 
 |
 
-6
-
-|
-
 7
 
-A effet du 1er septembre 2013
+|
 
 |
 
@@ -942,11 +1078,15 @@ Service départemental de l'éducation nationale de la Charente
 
 |
 
+|
+
 Service départemental de l'éducation nationale de la Charente-Maritime
 
 |
 
 1
+
+|
 
 |
 
@@ -958,11 +1098,17 @@ Service départemental de l'éducation nationale des Deux-Sèvres
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
 5
+
+6
+
+A effet du 1er septembre 2014
 
 |
 
@@ -974,7 +1120,9 @@ Rectorat
 
 |
 
-4
+5
+
+|
 
 |
 
@@ -986,11 +1134,15 @@ Service départemental de l'éducation nationale des Ardennes
 
 |
 
+|
+
 Service départemental de l'éducation nationale de l'Aube
 
 |
 
 1
+
+|
 
 |
 
@@ -1002,6 +1154,8 @@ Service départemental de l'éducation nationale de la Marne
 
 |
 
+|
+
 Service départemental de l'éducation nationale de la Haute-Marne
 
 |
@@ -1010,17 +1164,13 @@ Service départemental de l'éducation nationale de la Haute-Marne
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
-4
-
-|
-
 5
-
-A effet du 1er septembre 2013
 
 |
 
@@ -1036,11 +1186,15 @@ Rectorat
 
 |
 
+|
+
 Service départemental de l'éducation nationale des Côtes-d'Armor
 
 |
 
 1
+
+|
 
 |
 
@@ -1052,11 +1206,17 @@ Service départemental de l'éducation nationale du Morbihan
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
 6
+
+7
+
+A effet du 1er septembre 2014
 
 |
 
@@ -1069,6 +1229,12 @@ Rectorat
 |
 
 5
+
+6
+
+A effet du 1er septembre 2014
+
+|
 
 |
 
@@ -1092,6 +1258,8 @@ Rectorat
 
 |
 
+|
+
 Service départemental de l'éducation nationale de l'Eure
 
 |
@@ -1100,11 +1268,17 @@ Service départemental de l'éducation nationale de l'Eure
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
 4
+
+5
+
+A effet du 1er septembre 2014
 
 |
 
@@ -1120,6 +1294,8 @@ Rectorat
 
 |
 
+|
+
 Service départemental de l'éducation nationale du Bas-Rhin
 
 |
@@ -1128,11 +1304,15 @@ Service départemental de l'éducation nationale du Bas-Rhin
 
 |
 
+|
+
 Service départemental de l'éducation nationale du Haut-Rhin
 
 |
 
 1
+
+|
 
 |
 
@@ -1152,7 +1332,9 @@ Rectorat
 
 |
 
-4
+5
+
+|
 
 |
 
@@ -1164,11 +1346,15 @@ Service départemental de l'éducation nationale de l'Ariège
 
 |
 
+|
+
 Service départemental de l'éducation nationale de l'Aveyron
 
 |
 
 1
+
+|
 
 |
 
@@ -1180,11 +1366,15 @@ Service départemental de l'éducation nationale du Gers
 
 |
 
+|
+
 Service départemental de l'éducation nationale du Lot
 
 |
 
 1
+
+|
 
 |
 
@@ -1196,11 +1386,15 @@ Service départemental de l'éducation nationale des Hautes-Pyrénées
 
 |
 
-Service départemental de l'éducation nationale de Tarn
+|
+
+Service départemental de l'éducation nationale du Tarn
 
 |
 
 1
+
+|
 
 |
 
@@ -1212,17 +1406,13 @@ Service départemental de l'éducation nationale de Tarn-et-Garonne
 
 |
 
+|
+
 Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
-6
-
-|
-
 7
-
-A effet du 1er septembre 2013
 
 |
 
@@ -1238,21 +1428,23 @@ Rectorat
 
 |
 
-Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
-
 |
 
-8
+Etablissement public local d'enseignement - Lycée - Chef d'agence comptable
 
 |
 
 10
 
-A effet du 1er septembre 2013
+11
+
+A effet du 1er septembre 2014
 
 |
 
 Mayotte
+
+|
 
 |
 
@@ -1264,11 +1456,15 @@ Vice-rectorat de Nouvelle-Calédonie
 
 |
 
+|
+
 1
 
 |
 
 Vice-rectorat de Polynésie française
+
+|
 
 |
 
@@ -1286,6 +1482,12 @@ Centre national d'enseignement à distance
 
 2
 
+4
+
+A effet du 1er septembre 2014
+
+|
+
 |
 
 Centre national de documentation pédagogique
@@ -1293,6 +1495,8 @@ Centre national de documentation pédagogique
 |
 
 2
+
+|
 
 |
 
@@ -1308,6 +1512,16 @@ Administration centrale
 
 |
 
-35
+|
+
+34
+
+Jusqu'au 31 août 2014
+
+38
+
+A effet du
+
+1er septembre 2014
 
 |
