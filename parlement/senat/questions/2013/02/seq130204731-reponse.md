@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204731
+
+- Question : [SEQ130204731](seq130204731.md) — Transfert de parcelle de zone N à zone U
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2013-10-03, page 2889*
+
+Le site classé constitue une servitude d'utilité publique affectant l'utilisation du sol. C'est un outil de préservation des paysages les plus remarquables qui appelle à une gestion patrimoniale des espaces concernés et à une utilisation qui préserve leurs caractéristiques. Le maire est donc tenu de veiller à la compatibilité de son document d'urbanisme avec la protection du site. En particulier, même si le classement d'un site n'a pas pour objet ni pour effet d'instituer une inconstructibilité de principe ou d'interdire toute activité économique, il a pour objectif de conserver les caractéristiques du site et de les préserver de toute atteinte grave (destruction, altération, banalisation). Aussi, des modifications majeures apportées après le classement aux règles du plan local d'urbanisme (PLU), qui auraient pour effet d'entraîner la dénaturation d'un site ou d'un secteur bénéficiant d'une protection au titre du site classé doivent-elles être considérées comme incompatibles avec les objectifs de classement et remettant en cause le principe même de la protection. Il peut notamment s'agir d'une transformation de zone N en zone U, mais une analyse locale est à chaque fois nécessaire pour apprécier l'impact du changement de zonage, particulièrement lorsque ce dernier est justifié par la présence du site. Dans le cas particulier, la commune devra donc, en lien avec les services déconcentrés de l'État, s'assurer que l'ouverture à l'urbanisation d'une parcelle située en zone naturelle n'est pas de nature à modifier les caractéristiques du site et à porter atteinte aux objectifs du classement et qu'elle n'a pas pour objet de satisfaire un intérêt individuel.
