@@ -900,7 +900,7 @@ Total
 
 c) Armée de l'air
 
-Composition du conseil de la fonction militaire de l'armée de l'air
+Tableau 1. - Composition provisoire du conseil de la fonction militaire de l'armée de l'air de 2014 à 2016
 
 CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
@@ -908,9 +908,9 @@ CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
 
 NOMBRE
 
-total
+total de
 
-de titulaires
+titulaires
 
 |
 
@@ -943,16 +943,6 @@ Suppléants
 |
 
 I. - Officiers supérieurs
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1053,16 +1043,6 @@ I. - Officiers supérieurs
 |
 
 II. - Officiers subalternes
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1258,17 +1238,9 @@ II. - Officiers subalternes
 
 |
 
-III. - Sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense, support de base aérienne
+III. - Sous-officiers et militaires du rang affectés au sein d'une base aérienne
 
-|
-
-|
-
-|
-
-|
-
-|
+ou au sein d'une base de défense support de base aérienne
 
 |
 
@@ -1276,7 +1248,7 @@ III. - Sous-officiers et militaires du rang affectés au sein d'une base aérien
 
 |
 
-2
+1
 
 |
 
@@ -1288,11 +1260,11 @@ III. - Sous-officiers et militaires du rang affectés au sein d'une base aérien
 
 |
 
-1
+0
 
 |
 
-3
+0
 
 |
 
@@ -1300,7 +1272,7 @@ III. - Sous-officiers et militaires du rang affectés au sein d'une base aérien
 
 |
 
-13
+14
 
 |
 
@@ -1312,11 +1284,11 @@ III. - Sous-officiers et militaires du rang affectés au sein d'une base aérien
 
 |
 
-7
+8
 
 |
 
-21
+24
 
 |
 
@@ -1368,7 +1340,7 @@ III. - Sous-officiers et militaires du rang affectés au sein d'une base aérien
 
 |
 
-3.5. Militaires du rang engagés (**)
+3.5. Militaires du rang (**)
 
 |
 
@@ -1392,17 +1364,9 @@ III. - Sous-officiers et militaires du rang affectés au sein d'une base aérien
 
 |
 
-IV. - Sous-officiers et militaires du rang affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés (non rattachés à une base aérienne)
+IV. - Sous-officiers et militaires du rang affectés en états-majors interarmées,
 
-|
-
-|
-
-|
-
-|
-
-|
+directions de grandes structures interarmées, éléments air isolés (non rattachés à une base aérienne)
 
 |
 
@@ -1410,7 +1374,7 @@ IV. - Sous-officiers et militaires du rang affectés en états-majors interarmé
 
 |
 
-1
+2
 
 |
 
@@ -1422,30 +1386,6 @@ IV. - Sous-officiers et militaires du rang affectés en états-majors interarmé
 
 |
 
-0
-
-|
-
-0
-
-|
-
-4.2. Sous-officiers subalternes de carrière (*)
-
-|
-
-1
-
-|
-
-0
-
-|
-
-0
-
-|
-
 1
 
 |
@@ -1454,7 +1394,7 @@ IV. - Sous-officiers et militaires du rang affectés en états-majors interarmé
 
 |
 
-4.3. Sous-officiers sous contrat (*)
+4.2. Sous-officiers subalternes sous contrat (*) (***)
 
 |
 
@@ -1478,7 +1418,601 @@ IV. - Sous-officiers et militaires du rang affectés en états-majors interarmé
 
 |
 
-4.4. Militaires du rang engagés (*)
+4.3. Militaires du rang (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+Total
+
+|
+
+54
+
+|
+
+27
+
+|
+
+81
+
+|
+
+27
+
+|
+
+81
+
+|
+
+Application du critère géographique :
+
+(*) Tirage au sort au niveau national (sans application d'un critère géographique) :
+
+- officiers et sous-officiers du personnel navigant ;
+
+- sous-officiers et militaires du rang engagés affectés en états-majors interarmées, directions de grandes structures interarmées, éléments air isolés, non rattachés à une base aérienne.
+
+(**) Application d'un critère géographique (base aérienne ou base de défense support de base aérienne) : sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense support de base aérienne.
+
+(***) La catégorie des sous-officiers de carrière a été supprimée, sans candidat dans le groupe A.
+
+L'ensemble des suppléants des corps et catégories de personnel constitue un pool qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant :
+
+- critère géographique ou spécialité ;
+
+- ordre du tirage au sort ;
+
+- rang de suppléance ;
+
+- groupe de grade ;
+
+- lien juridique avec le service.
+
+Toutefois, les grandes catégories, officiers, sous-officiers, militaires du rang, seront strictement respectées.
+
+|
+
+Tableau 2. - Composition définitive du conseil de la fonction militaire de l'armée de l'air à compter de 2016
+
+CORPS OU CATÉGORIES DE PERSONNEL REPRÉSENTÉ
+
+|
+
+NOMBRE
+
+total de
+
+titulaires
+
+|
+
+RÉPARTITION PAR GROUPE
+
+|
+
+Groupe A
+
+|
+
+Groupe B
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+Titulaires
+
+|
+
+Suppléants
+
+|
+
+I. - Officiers supérieurs
+
+|
+
+1.1. Officiers de l'air (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1.2. Officiers mécaniciens de l'air ou des bases de l'air (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+1.3. Officiers tous corps, sauf de l'air (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1.4. Officiers tous corps (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+II. - Officiers subalternes
+
+|
+
+2.1. Officiers de l'air de carrière (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.2. Officiers de l'air sous contrat (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2.3. Officiers mécaniciens de l'air de carrière (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2.4. Officiers mécaniciens de l'air sous contrat (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.5. Officiers des bases de l'air de carrière (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+2.6. Officiers des bases de l'air sous contrat (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.7. Autres corps de carrière (*)
+
+|
+
+1
+
+|
+
+0
+
+|
+
+0
+
+|
+
+1
+
+|
+
+3
+
+|
+
+2.8. Tous corps sous contrat (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+III. - Sous-officiers et militaires du rang affectés au sein d'une base aérienne
+
+ou au sein d'une base de défense support de base aérienne
+
+|
+
+3.1. Sous-officiers supérieurs de carrière du personnel navigant (*)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+3.2. Sous-officiers supérieurs de carrière du personnel non navigant (**)
+
+|
+
+14
+
+|
+
+6
+
+|
+
+18
+
+|
+
+8
+
+|
+
+24
+
+|
+
+3.3. Sous-officiers subalternes de carrière (**)
+
+|
+
+5
+
+|
+
+3
+
+|
+
+9
+
+|
+
+2
+
+|
+
+6
+
+|
+
+3.4. Sous-officiers subalternes sous contrat (**)
+
+|
+
+9
+
+|
+
+4
+
+|
+
+12
+
+|
+
+5
+
+|
+
+15
+
+|
+
+3.5. Militaires du rang (**)
+
+|
+
+9
+
+|
+
+5
+
+|
+
+15
+
+|
+
+4
+
+|
+
+12
+
+|
+
+IV. - Sous-officiers et militaires du rang affectés en états-majors interarmées,
+
+directions de grandes structures interarmées, éléments air isolés (non rattachés à une base aérienne)
+
+|
+
+4.1. Sous-officiers supérieurs (*)
+
+|
+
+2
+
+|
+
+1
+
+|
+
+3
+
+|
+
+1
+
+|
+
+3
+
+|
+
+4.2. Sous-officiers subalternes (*) (***)
+
+|
+
+1
+
+|
+
+1
+
+|
+
+3
+
+|
+
+0
+
+|
+
+0
+
+|
+
+4.3. Militaires du rang (*)
 
 |
 
@@ -1536,9 +2070,11 @@ Application du critère géographique :
 
 (**) Application d'un critère géographique (base aérienne ou base de défense support de base aérienne) :
 
-- sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense, support de base aérienne.
+- sous-officiers et militaires du rang affectés au sein d'une base aérienne ou au sein d'une base de défense support de base aérienne.
 
-L'ensemble des suppléants des corps et catégories de personnel constitue un "pool" qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant :
+(***) La fusion des catégories sous-officiers subalternes de carrière et sous-officiers sous contrat est effective en 2016.
+
+L'ensemble des suppléants des corps et catégories de personnel constitue un pool qui est utilisé lorsqu'il y a vacance de siège en respectant l'ordre de priorité suivant :
 
 - critère géographique ou spécialité ;
 
@@ -1550,7 +2086,7 @@ L'ensemble des suppléants des corps et catégories de personnel constitue un "p
 
 - lien juridique avec le service.
 
-Toutefois, les grandes catégories, officiers, sous-officiers, militaires du rang, seront strictement respectées.
+Toutefois, les grandes catégories officiers, sous-officiers, militaires du rang seront strictement respectées.
 
 |
 
