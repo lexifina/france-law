@@ -1,0 +1,9 @@
+# Réponse à la question n° 31268
+
+- Question : [31268](31268.md) — Question n° 31268 — temps de travail; rémunérations; Cour des comptes; préconisations
+
+## Réponse
+
+*JO du 2013-10-08*
+
+L'instruction générale relative à l'organisation du travail des fonctionnaires actifs des services de la police nationale (IGOT), adoptée le 18 octobre 2002 suite à l'entrée en vigueur du décret n° 2000-815 du 25 août 2000 relatif à l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat, précise que, sous réserve des dispositions relatives au compte épargne-temps dans la police nationale et des nécessités de service, les repos destinés à compenser les services supplémentaires doivent être pris dans l'année civile au cours de laquelle ils ont été acquis. De plus, les chefs de services peuvent s'appuyer sur l'article 1.4 de l'instruction générale précitée qui indique que, lorsque les fonctionnaires de police font l'objet d'une mutation, ils doivent avoir épuisé, à sa date d'effet, tous les repos compensateurs de services supplémentaires qui leur sont dus, hors ceux qui auraient été versés au compte épargne-temps. Toute disposition doit être prise à cet effet, tant par l'agent que par l'administration. Afin d'aider les chefs de service dans la mise en oeuvre de ces règles, une formation continue concernant le contrôle et l'optimisation de la gestion du temps de travail est assurée depuis fin 2012. Ce stage, dispensé dans les délégations interrégionales au recrutement et à la formation de la police nationale, aborde notamment la maîtrise de l'environnement règlementaire et les mécanismes générant des heures supplémentaires. De plus, la mission « temps de travail » de la direction des ressources et des compétences de la police nationale assure un rôle d'assistance auprès des directions et services centraux de la police nationale dans l'application des normes juridiques.
