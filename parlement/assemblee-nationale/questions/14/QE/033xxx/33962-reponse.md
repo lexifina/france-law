@@ -1,0 +1,9 @@
+# Réponse à la question n° 33962
+
+- Question : [33962](33962.md) — Question n° 33962 — défrichement; champ d'application
+
+## Réponse
+
+*JO du 2013-10-08*
+
+L'article L.341-2 du code forestier dispose que « les opérations ayant pour but de remettre en valeur d'anciens terrains de culture ou de pacage envahis par une végétation spontanée... » ne constituent pas un défrichement et ne sont donc pas soumises à autorisation. Cette dérogation est soumise à deux conditions cumulatives : une précédente utilisation agricole des terrains et une végétation spontanée. Les dispositions relatives à l'alinéa 1 de l'article L.341-2 circonscrivent clairement le champ d'application des opérations de remise en valeur aux seules activités agricoles et pastorales. L'article ne mentionne aucune limite dans le temps à l'usage de cette disposition. De ce fait, les exploitants agricoles, en zone de montagne ou non, n'ont pas à demander d'autorisation de défrichement pour la remise en culture de terrains devenus boisés au fil du temps sans intervention de l'homme et anciennement destinés à l'agriculture D'autre part, pour lutter contre la déprise agricole, l'article L.126-1 du code rural dispose que les conseils généraux peuvent, après avis des chambres d'agriculture, définir des zones dans lesquelles des plantations et des semis d'essences forestières ou la reconstitution après coupe rase peuvent être interdits ou réglementés. De plus, le projet de loi d'avenir pour l'agriculture, l'agroalimentaire et la forêt prévoit d'étendre les compétences de l'observatoire national de la consommation des espaces agricoles (ONCEA) aux espaces naturels et forestiers. Cet observatoire a été créé par la loi n° 2010-874 du 27 juillet 2010, il a pour compétence d'élaborer des outils pertinents pour mesurer le changement de destination des espaces agricoles avec des indicateurs d'évolution (article L 112-1 du code rural et de la pêche maritime).
