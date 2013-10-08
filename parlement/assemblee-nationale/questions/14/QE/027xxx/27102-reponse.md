@@ -1,0 +1,9 @@
+# Réponse à la question n° 27102
+
+- Question : [27102](27102.md) — Question n° 27102 — définition; perspectives
+
+## Réponse
+
+*JO du 2013-10-08*
+
+L'article R123-2 du code de la construction et de l'habitation définit de manière extensive tant la notion d'établissement que celle de public. Ce même code prévoit par ailleurs le classement des ERP en différents types suivant la nature de leur exploitation (R123-18) et selon l'effectif du public qui les fréquente (R123-19). Parmi les 22 types d'ERP différents, il existe la catégorie des ERP de type PA « établissements de plein air » au titre des établissements spéciaux (piscines, arènes, terrains de sports, stades, terrains de tennis, patinoires, etc. situés en plein air). Dans ce cas, le seuil de classement de ces établissements pour l'application du règlement de sécurité est fixé à un effectif supérieur à 300 personnes. Pour les établissements recevant 300 personnes au plus, le maire peut fixer des mesures de sécurité, après avis de la commission de sécurité compétente. Il peut, en outre, faire vérifier certaines installations par un technicien compétent, et notamment la stabilité des ouvrages (article PA 1 de l'arrêté du 6 janvier 1983). Ainsi, si le « skate park » est réellement clos par une enceinte et couvert totalement ou partiellement, alors il peut être classé comme un ERP de type X (établissements à vocation d'activités physiques et sportives). S'il est à l'air libre et accueille moins de 300 personnes, à défaut de classement ERP, il s'agit donc d'une aire collective de jeux. Enfin, il est à noter que les équipements d'aires collectives de jeux relèvent du décret n° 94-699 du 10 août 1994 fixant les exigences de sécurité relatives aux équipements d'aires collectives de jeux et du décret n° 96-1136 du 18 décembre 1996 fixant les prescriptions de sécurité relatives aux aires de jeux.
