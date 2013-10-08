@@ -1,0 +1,9 @@
+# Réponse à la question n° 26901
+
+- Question : [26901](26901.md) — Question n° 26901 — opérateurs funéraires
+
+## Réponse
+
+*JO du 2013-10-08*
+
+L'article L. 2223-38 du code général des collectivités territoriales impose aux gestionnaires des chambres funéraires qui proposent également les autres prestations du service extérieur des pompes funèbres, de distinguer les locaux affectés à l'activité de chambre funéraire. Aucun document de nature commerciale ne doit être présenté dans ces locaux. Cette obligation de neutralité permet de ne pas imposer aux familles le choix d'un opérateur funéraire pour l'ensemble des prestations et de laisser ainsi s'exercer la libre concurrence. Dès lors que les familles ont eu connaissance de la liste des opérateurs funéraires habilités dans l'arrondissement ou le département concerné, un gestionnaire de chambre funéraire a la possibilité, dans un local séparé, de proposer d'autres prestations funéraires (article R. 2223-88 du code précité). Le non-respect de ces dispositions peut conduire le préfet de département à suspendre ou retirer l'habilitation délivrée à l'opérateur pour une ou plusieurs des activités exercées. Une amende d'un montant de 75 000 euros peut également être prononcée par l'autorité judiciaire à l'encontre du gestionnaire. Par ailleurs, les articles R. 2223-70 et R. 2223-75 prévoient le libre accès des familles et des opérateurs funéraires à la chambre funéraire. L'ensemble de ces dispositions apparaît suffisant pour assurer le respect des principes de neutralité et de distinction des activités dans une chambre funéraire. Il n'est donc pas nécessaire pour un opérateur funéraire qui souhaite être gestionnaire d'une chambre funéraire et proposer également les autres prestations du service extérieur des pompes funèbres de créer une personne morale distincte pour la gestion de la chambre funéraire.
