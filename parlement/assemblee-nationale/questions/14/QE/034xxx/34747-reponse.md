@@ -1,0 +1,9 @@
+# Réponse à la question n° 34747
+
+- Question : [34747](34747.md) — Question n° 34747 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-10-08*
+
+Organisme consultatif auprès du ministère de l'écologie, du développement durable et de l'énergie, le Conseil national du paysage (CNP) est chargé d'accompagner de son expertise la définition, la mise en oeuvre et l'évaluation de la politique des paysages en France. Il peut, en outre, être consulté sur des projets de textes législatifs et réglementaires ayant une incidence sur les paysages. Ses membres sont nommés par le ministre en charge de l'environnement. Le CNP ne dispose pas pour son fonctionnement de financements particuliers, ni de mise à disposition de fonctionnaires et son secrétariat est assuré par le bureau des paysages et de la publicité au sein de la direction de l'habitat, de l'urbanisme et des paysages. Depuis la mobilisation des ateliers thématiques de ce Conseil dans le cadre du Grenelle de l'environnement en 2009, puis lors de l'élaboration du décret n° 2012-118 d'application de la réglementation de la publicité en 2010, il n'a pas été mobilisé en 2011 et 2012. Dans le cadre de la modernisation de l'action publique, le ministère souhaite faire évoluer le CNP. Il est ainsi envisagé d'intégrer le CNP au sein de la Commission supérieure des sites, perspectives et paysages (CSSPP), et de créer une formation spécialisée dite « du paysage et du cadre de vie » qui puisse être saisie sur des questions relevant de la préservation, de la gestion ou de l'aménagement des paysages du quotidien. Cette intégration permettra de s'appuyer sur l'expérience de fonctionnement de la CSSPP et ainsi de doter le ministère d'une véritable instance de conseil et d'expertise capable d'éclairer le ministre sur des sujets à enjeux nationaux ayant une incidence sur les paysages.
