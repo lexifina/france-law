@@ -1,0 +1,9 @@
+# Réponse à la question n° 6557
+
+- Question : [6557](6557.md) — Question n° 6557 — fonction publique; perspectives
+
+## Réponse
+
+*JO du 2013-10-08*
+
+L'insertion professionnelle des personnes reconnues travailleurs handicapés est une préoccupation constante au sein des ministères sociaux. Ces ministères vont bientôt proposer, pour la période 2014-2018, un quatrième plan pluriannuel visant à favoriser l'insertion et le maintien dans l'emploi des personnes en situation de handicap. Par ailleurs, la direction des ressources humaines (DRH) ministérielle a mis en place une série de mesures destinées à pérenniser le taux d'emploi de 6 % conforme à l'obligation légale telles qu'un échéancier d'embauches annuelles de personnels en situation de handicap pour augmenter globalement et régulièrement l'effectif concerné, l'organisation prévisionnelle de formations d'une part en direction des encadrants, sur la thématique du handicap, de manière à optimiser l'insertion professionnelle des personnels concernés et, d'autre part en direction du réseau des correspondants handicap, la diffusion d'un guide pratique du recrutement des travailleurs handicapés afin d'accompagner les services et la fixation d'un objectif visant à respecter pour chaque direction d'administration centrale et chaque service déconcentré, individuellement, l'obligation du taux d'emploi de 6 %. En outre, une convention avec le fonds pour l'insertion des personnes handicapées dans la fonction publique (FIPHFP) a été signée. Celle-ci va faciliter la prise en charge des dépenses liées à l'emploi et l'insertion des travailleurs handicapés. Enfin, une convention de partenariat avec un centre de rééducation professionnelle et sociale a été signée dans le but d'accueillir, en qualité de stagiaires, des personnels en situation de handicap. Toutes ces mesures mises en oeuvre ont, ainsi, permis à la DRH ministérielle de ne pas avoir à verser de pénalités au FIPHFP au titre de la déclaration 2012.
