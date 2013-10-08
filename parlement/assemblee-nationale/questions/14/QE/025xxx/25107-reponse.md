@@ -1,0 +1,9 @@
+# Réponse à la question n° 25107
+
+- Question : [25107](25107.md) — Question n° 25107 — spécificités; préservation
+
+## Réponse
+
+*JO du 2013-10-08*
+
+Lors de la Grande conférence sociale des 9 et 10 juillet 2012, le Gouvernement a défini une démarche pour préparer les décisions assurant l'avenir des régimes de retraite. Cette démarche impliquait une phase de diagnostic et d'état des lieux de notre système de retraite et de ses perspectives financières, confié au Conseil d'orientation des retraites (COR). Un premier rapport adopté en décembre 2012 fait apparaître un besoin de financement du système de retraite important à court terme. Le second rapport adopté le 22 janvier 2013 montre que notre système remplit relativement bien ses objectifs, en particulier en matière d'équité entre les générations et de solidarité ; mais il reste éclaté et complexe. A partir de ces différents travaux, le Premier ministre a installé le 27 février 2013 la Commission pour l'avenir des retraites, présidée par Madame Moreau, présidente de section au Conseil d'État. La Commission a été chargée d'identifier les différentes pistes de réforme permettant d'assurer l'équilibre des régimes de retraites à court, moyen et long termes, et d'en renforcer la justice, l'équité et la lisibilité pour les assurés. Le rapport de la Commission a été remis au Premier ministre le 14 juin dernier. Il formule une série de propositions en vue de la future réforme des retraites. Le rapport envisage des mesures transversales concernant potentiellement l'ensemble des régimes obligatoires de base mais ne fait pas mention de mesures spécifiques au régime SNCF. Il en est de même pour les grands axes de la réforme retenue par le Gouvernement, qui ont été présentés le 27 août 2013. Par ailleurs, la réforme ferroviaire en préparation ne prévoit pas de remettre en cause le régime spécial de la SNCF.
