@@ -1,0 +1,9 @@
+# Réponse à la question n° 34146
+
+- Question : [34146](34146.md) — Question n° 34146 — groupe EADS; restructuration; modalités
+
+## Réponse
+
+*JO du 2013-10-08*
+
+Le 30 juillet dernier, le conseil d'administration d'EADS a approuvé un projet de réorganisation des divisions du groupe, prévoyant notamment de rassembler, au sein d'une même entité opérationnelle « Défense et Espace », les activités spatiales et de défense actuellement réparties entre Astrium, Cassidian et la branche militaire d'Airbus, dans le but de dégager de plus grandes synergies et d'économiser des coûts de structure. La nouvelle division « Défense et Espace » aura son siège à Munich et sera constituée de quatre branches : systèmes spatiaux, avions militaires, communication-renseignement-sécurité et équipements. Elle devrait être opérationnelle au début de l'année 2014. Préalablement à la mise en oeuvre de cette réorganisation, l'État a demandé à EADS d'exposer dans le détail le contenu de son projet pour s'assurer que les évolutions envisagées ne présentaient aucun risque pour les intérêts stratégiques de notre pays. Ainsi, s'agissant de la protection des actifs relatifs aux missiles balistiques détenus par la filiale Astrium Holding France d'EADS, l'accord de sécurité signé en décembre 2012 et la convention propre à la branche missiles balistiques, qui garantissent la préservation des intérêts français de sécurité nationale, resteront en vigueur au terme de la réorganisation d'EADS. Enfin, il est précisé qu'Astrium Holding France est une société de droit français basée dans notre pays et dotée de statuts encadrant strictement toute possibilité de cession d'actifs stratégiques ou de cessation d'activité stratégique. De plus, l'État dispose de la faculté d'approuver ou non la nomination de trois administrateurs externes de cette filiale d'EADS.
