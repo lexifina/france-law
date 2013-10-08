@@ -1,0 +1,9 @@
+# Réponse à la question n° 19564
+
+- Question : [19564](19564.md) — Question n° 19564 — entrepôts logistiques
+
+## Réponse
+
+*JO du 2013-10-08*
+
+Conformément à l'article 1499 du code général des impôts, la valeur locative des immobilisations industrielles passibles de la taxe foncière sur les propriétés bâties est déterminée en appliquant au prix de revient de leurs différents éléments des taux d'intérêts fixés par décret en Conseil d'Etat. La doctrine administrative précise que les établissements industriels doivent s'entendre, d'une part, des usines où s'effectuent, à l'aide d'un outillage relativement important, la transformation des matières premières ainsi que la fabrication ou la réparation des objets et d'autre part, les établissements où sont réalisées des opérations de manipulation ou des prestations de service, dans lesquelles le rôle de l'outillage et de la force motrice est prépondérant. Le Conseil d'Etat a conforté la doctrine administrative puisque, par une décision du 27 juillet 2005, il a considéré que « revêtent un caractère industriel (...) les établissements dont l'activité nécessite des moyens techniques, non seulement lorsque cette activité consiste dans la fabrication ou la transformation de bien corporels mobiliers mais aussi lorsque le rôle des installations techniques, matériels et outillages mis en oeuvre fut-ce pour les besoins d'une autre activité est prépondérant » (CE 27/07/2005 n° 261899 et 273663, Société pétroles Miroline). L'appréciation du degré d'importance des moyens techniques mis en oeuvre et leur contribution aux opérations effectuées résulte des données de fait propres à chaque situation. Elle doit être opérée par l'administration sous le contrôle du juge de l'impôt. Eu égard à l'hétérogénéité des situations et à l'évolution des techniques dans le temps, il n'apparaît pas que le degré d'importance des équipements puisse donner lieu par voie législative à une définition opérante.
