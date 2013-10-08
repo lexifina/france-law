@@ -1,0 +1,9 @@
+# Réponse à la question n° 25135
+
+- Question : [25135](25135.md) — Question n° 25135 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2013-10-08*
+
+L'association des SGAP à l'analyse et au suivi de l'évolution des dépenses salariales est un des objectifs prioritaires du plan d'amélioration du pilotage du programme budgétaire de la police nationale. Une équipe de fonctionnaires de l'administration centrale s'est déplacée dans les SGAP pour élaborer un état des lieux. Cette démarche a permis, d'une part, d'élaborer un diagnostic des pratiques relatives aux ressources humaines et à la paie, et, d'autre part, de formaliser les pistes d'amélioration à mettre en oeuvre, notamment à travers le plan directionnel de fiabilisation des données contenues dans le système d'information des ressources humaines (SIRH). Des groupes de travail dédiés ont été par ailleurs mis en place, notamment pour développer l'infocentre de suivi de la masse salariale. L'ensemble des SGAP de métropole est réuni, plusieurs fois par an, par le directeur des ressources et compétences de la police nationale afin d'informer l'encadrement supérieur des SGAP (directeurs RH et finances notamment) des grands chantiers en cours (ex : campagne de fiabilisation des données contenues dans le SIRH Dialogue) et de prendre acte de leurs attentes. Sur tous les aspects relatifs à la paie, une lettre d'information à destination des SGAP a été mise en place. Depuis mai 2013, un groupe de travail « GEDRET » (GEstion des Départs en RETraite) se réunit mensuellement pour la gestion des départs en retraite. Ce groupe de travail réunissant, sous la présidence de la DRCPN, les SGAP et les DISA, devrait permettre de conforter les prévisions de départ, en fonction des réalisations constatées, et aboutir, à partir de la situation réelle des départs en retraite et d'analyses fines des comportements, à des reprogrammations infra annuelles.
