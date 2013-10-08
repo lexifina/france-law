@@ -1,0 +1,9 @@
+# Réponse à la question n° 20207
+
+- Question : [20207](20207.md) — Question n° 20207 — intégration; rapport; propositions
+
+## Réponse
+
+*JO du 2013-10-08*
+
+Monsieur Christian Estrosi a attiré l'attention du ministre de l'intérieur sur la proposition du rapport sur la refondation des politiques d'intégration intitulé « La grande Nation pour une société inclusive », qui préconise d'interdire par la loi la création de toute nouvelle institution culturelle ailleurs que dans les quartiers de la politique de la Ville, sauf pour les formes d'expression culturelle elles-mêmes issues de ces quartiers. Le ministre de l'intérieur a demandé à la ministre de la culture et de la communication de lui répondre. Le rapport de Monsieur Thierry Tuot, remis le 11 février dernier, avait pour objectif de dessiner un état des lieux des politiques d'intégration dans notre pays et proposant de nombreuses pistes de réforme. Au vu de ces éléments, le Premier ministre a souhaité que soit engagé un vaste travail de refondation de la politique d'intégration qui pourra prendre en compte et expertisera les pistes ouvertes par Monsieur Thierry Tuot, dans le cadre d'une démarche partagée avec l'ensemble des ministères et des acteurs concernés. Dans cette perspective, 5 groupes de travail ont été constitués autour des questions de « connaissance et reconnaissance », d'« égalité réelle », d'« habitat », des « mobilités sociales » et de la « protection sociale » C'est dans ce cadre que la proposition de Monsieur Thierry Tuot citée par Monsieur Christian Estrosi sera examinée. Elle le sera en tenant en compte des vertus intégratrices évidentes des politiques culturelles, en tenant compte également du maillage déjà existant de lieux sur l'ensemble du territoire tout comme de l'engagement du ministère de la culture et de la communication de mobiliser une partie significative des crédits dédiés à l'éducation artistique et culturelle dans ces quartiers.
