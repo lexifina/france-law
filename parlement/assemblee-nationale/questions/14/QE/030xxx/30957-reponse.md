@@ -1,0 +1,9 @@
+# Réponse à la question n° 30957
+
+- Question : [30957](30957.md) — Question n° 30957 — agence française de la biodiversité; création; composition
+
+## Réponse
+
+*JO du 2013-10-08*
+
+La création d'une Agence pour la biodiversité a été annoncée par le Président de la République dans son discours prononcé lors de la conférence environnementale des 14 et 15 septembre 2012. Une mission consistant à déterminer les missions de cette Agence et en conséquence les structures pouvant la constituer et les moyens associés a été confiée à deux préfigurateurs, Jean-Marc Michel et Bernard Chevassus-au-Louis. Deux rapports ont été établis et présentés devant un groupe préfigurant le Conseil national de la transition écologique ainsi que devant le comité de suivi de la stratégie nationale pour la biodiversité. Les préfigurateurs plaident pour un scénario « ambitieux » consistant à créer une « Agence française pour la biodiversité » avec des moyens, aussi bien humains que financiers, significatifs, dont la plupart existent aujourd'hui, mais sont dispersés. L'ambition est surtout de venir en appui des acteurs de terrain, des collectivités et des entreprises, comme l'a souhaité le Président de la République. Comme le Gouvernement l'a indiqué lors de l'assemblée générale de la Fédération nationale des chasseurs, il est prévu, dans le cadre du projet de loi pour la biodiversité, le maintien de l'Office national de la chasse et de la faune sauvage (ONCFS). Il y aura bien évidemment des rapprochements à faire entre la nouvelle Agence, les fédérations de chasse et l'ONCFS, notamment par le biais d'une convention de partenariat, mais aussi par le contenu du contrat d'objectif de chaque établissement. La mission de préfiguration se poursuit sur cette base et l'Agence sera créée par la loi-cadre pour la biodiversité qui devrait être présentée au Conseil des ministres prochainement.
