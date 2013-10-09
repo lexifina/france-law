@@ -1,0 +1,64 @@
+# Justice : individualisation des peines et efficacité des sanctions pénales
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N31474
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/prevention_recidive_individualisation_peines
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-596.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-10-09 : 1er dépôt d'une initiative. (PRJLANR5L14B1413)
+  - 2013-10-09 : Etude d'impact (ETDIANR5L14B1413)
+  - 2014-05-16 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-10-09 : Renvoi en commission au fond
+      - 2013-10-30 : Nomination de rapporteur
+      - 2013-10-30 : Réunion de commission
+      - 2013-11-06 : Réunion de commission
+      - 2014-05-27 : Réunion de commission
+      - 2014-05-27 : Réunion de commission
+      - 2014-06-03 : Réunion de commission
+      - 2014-05-28 : Dépôt de rapport (RAPPANR5L14B1974, PRJLANR5L14BTC1974)
+  - Discussion en séance publique
+    - 2014-06-03 : Discussion en séance publique
+    - 2014-06-03 : Discussion en séance publique
+    - 2014-06-04 : Discussion en séance publique
+    - 2014-06-04 : Discussion en séance publique
+    - 2014-06-05 : Discussion en séance publique
+    - 2014-06-05 : Discussion en séance publique
+    - 2014-06-05 : Discussion en séance publique
+    - 2014-06-10 : Discussion en séance publique
+    - 2014-06-10 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-06-11 : Dépôt d'une initiative en navette (PRJLSNR5S219B0596)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-11 : Renvoi en commission au fond
+      - 2013-10-16 : Nomination de rapporteur
+      - 2014-06-18 : Dépôt de rapport (RAPPSNR5S219B0641)
+  - Discussion en séance publique
+    - 2014-06-24 : Discussion en séance publique
+    - 2014-06-26 : Discussion en séance publique
+    - 2014-06-26 : Décision
+- Commission Mixte Paritaire
+  - 2014-07-07 : Dépôt d'un projet de loi (PRJLANR5L14B2101)
+  - 2014-07-07 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-07-08 : Nomination de rapporteur
+    - 2014-07-08 : Dépôt du rapport d'une CMP (RAPPANR5L14B2102)
+    - 2014-07-08 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0690)
+  - Discussion en séance publique
+    - 2014-07-16 : Discussion en séance publique
+    - 2014-07-16 : Décision
+  - Discussion en séance publique
+    - 2014-07-17 : Discussion en séance publique
+    - 2014-07-17 : Décision
+  - 2014-07-08 : Décision de la CMP
+- Conseil constitutionnel
+  - 2014-07-18 : Saisine du conseil constitutionnel
+  - 2014-08-07 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-08-15 : Promulgation d'une loi
