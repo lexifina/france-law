@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130606889
+
+- Question : [SEQ130606889](seq130606889.md) — Dotation d'équipement des territoires ruraux
+
+## Réponse
+
+*Intérieur, JO du 2013-10-10, page 2978*
+
+La dotation d'équipement des territoires ruraux (DETR) est régie par les articles L. 2334-32 et suivants du code général des collectivités territoriales. Conformément à l'article L. 2334-37 de ce même code, il est institué dans chaque département, auprès du représentant de l'État, une commission d'élus dont le rôle est de fixer chaque année les catégories d'opérations prioritaires et, dans les limites fixées à l'article R. 2334-27 du code précité, les taux minimaux et maximaux de subventions applicables à chacune d'elles. Le préfet fixe le montant de la subvention de chaque opération dans le respect des catégories d'opérations prioritaires définies par la commission d'élus. Ces modalités de gestion permettent une réelle adaptation des attributions aux besoins exprimés localement dans le respect du principe de déconcentration entourant la DETR. En ce qui concerne les services de l'État, le préfet est juge des avis dont il souhaite s'entourer et de la suite qu'il décidera de leur donner. L'avis des services déconcentrés du ministère de la culture est particulièrement utile lorsque le projet comporte un enjeu patrimonial. Si en outre le projet, en raison de sa nature ou de sa localisation, relève d'un avis conforme de l'architecte des bâtiments de France, il est souhaitable de s'assurer de l'accord de celui-ci avant d'attribuer la subvention. Une bonne gestion des deniers publics implique en effet de n'engager les crédits qu'au profit des opérations dont la réalisation est suffisamment certaine. D'une manière plus générale, il est de bonne administration que les décisions en matière de DETR soient coordonnées avec les autorisations auxquelles les projets sont le cas échéant soumis.
