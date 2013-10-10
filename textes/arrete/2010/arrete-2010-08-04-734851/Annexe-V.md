@@ -10,9 +10,9 @@ titulaire
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission suppléant
+suppléant
 
 |
 
@@ -33,6 +33,10 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 |
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire, ou son représentant.
+
+|
+
+Le chef du bureau du recrutement, des concours et des examens.
 
 |
 
@@ -57,6 +61,10 @@ Le chef du bureau du personnel sous-officier du corps de soutien technique et ad
 |
 
 Un officier supérieur du corps technique et administratif de la gendarmerie nationale désigné par le directeur des personnels militaires de la gendarmerie nationale.
+
+|
+
+Le chef du bureau du recrutement, des concours et des examens.
 
 |
 

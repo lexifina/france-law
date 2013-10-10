@@ -4,21 +4,21 @@ SOUS-OFFICIERS DE GENDARMERIE
 
 La commission d'avancement mentionnée à l'article 4 se compose des officiers désignés dans le tableau ci-après :
 
-1. Branches de la subdivision d'arme de la gendarmerie départementale.
+1. - Branches de la subdivision d'arme de la gendarmerie départementale
 
 BRANCHES
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission titulaire
+Titulaire
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission suppléant
+Suppléant
 
 |
 
@@ -108,21 +108,21 @@ Deux officiers supérieurs de la branche considérée, à défaut, désignés pa
 
 |
 
-2. Branches de la subdivision d'arme de la gendarmerie mobile.
+2. - Branches de la subdivision d'arme de la gendarmerie mobile
 
 BRANCHES
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission titulaire
+Titulaire
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission suppléant
+Suppléant
 
 |
 
@@ -166,21 +166,21 @@ Le chef du chœur de l'armée française ou le chef du chœur de l'armée franç
 
 |
 
-3. Branches communes aux deux subdivisions d'arme.
+3. - Branches communes aux deux subdivisions d'arme
 
 BRANCHES
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission titulaire
+Titulaire
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission suppléant
+Suppléant
 
 |
 
@@ -188,7 +188,7 @@ MEMBRES
 
 |
 
-Personnel servant outre-mer, en assistance militaire technique, en prévôté.
+Personnel servant outre-mer, en assistance militaire technique
 
 |
 
@@ -272,6 +272,8 @@ Un officier supérieur du pôle judiciaire de la gendarmerie nationale.
 
 Un officier supérieur de la direction de la coopération internationale.
 
+Un officier du commandement de la gendarmerie prévôtale.
+
 Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
 
 |
@@ -338,25 +340,25 @@ Le commandant en second du groupe d'intervention de la gendarmerie nationale.
 
 |
 
-Les chefs d'états-majors, les chefs des forces et les chefs des bureaux.
+Les chefs d'états-majors, les chefs des forces, le chef de détachement.
 
 |
 
-4. Spécialités.
+4. - Spécialités
 
-SPÉCIALITÉS
-
-|
-
-PRÉSIDENCE
-
-de la commission titulaire
+BRANCHES
 
 |
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission suppléant
+Titulaire
+
+|
+
+PRÉSIDENCE DE LA COMMISSION
+
+Suppléant
 
 |
 
