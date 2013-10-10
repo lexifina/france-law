@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-LISTE DES PAYS TIERS ET DE PARTIES DE PAYS TIERS EN PROVENANCE DESQUELS LES IMPORTATIONS D'ANIMAUX VIVANTS ET CERTAINS DE LEURS PRODUITS VISÉS À L'ARTICLE L. 236-1 DU CODE RURAL SONT AUTORISÉES
+LISTE DES PAYS TIERS ET DE PARTIES DE PAYS TIERS EN PROVENANCE DESQUELS LES IMPORTATIONS D'ANIMAUX VIVANTS ET CERTAINS DE LEURS PRODUITS VISÉS À L'ARTICLE L. 236-1 DU CODE RURAL ET DE LA PÊCHE MARITIME SONT AUTORISÉES
 
 ANIMAUX
 
@@ -8,19 +8,23 @@ ANIMAUX
 
 DESTINATION
 
-des animaux (1)
+des animaux
+
+(1)
 
 |
 
 PAYS TIERS OU PARTIES DE PAYS TIERS
 
-en provenance desquels l'importation est autorisée
+en provenance duquel l'importation est autorisée
 
 |
 
-MODÈLE DE CERTIFICAT SANITAIRE
+MODÈLE DE CERTIFICAT
 
-ou de document d'accompagnement
+sanitaire ou de document
+
+d'accompagnement
 
 (annexe)
 
@@ -66,7 +70,7 @@ b, c
 
 |
 
-Pays tiers ou parties de pays tiers figurant dans l'annexe II, partie 1, de la décision 79 / 542 / CEE (destinations b et c) et le Vietnam, le Niger, le Pérou, les Philippines, la Barbade, Saint-Kitts-et-Nevis (destination b).
+Pays tiers ou parties de pays tiers figurant dans l'annexe II, partie 1, du règlement (UE) n° 206/2010 (destinations b et c) et le Vietnam, le Niger, le Pérou, les Philippines, la Barbade, Saint-Kitts-et-Nevis, le Cambodge (destination b).
 
 |
 
@@ -82,7 +86,7 @@ d
 
 |
 
-Pays tiers ou parties de pays tiers figurant dans l'annexe 11, partie 1, de la décision 79 / 542 / CEE.
+Pays tiers ou parties de pays tiers figurant dans l'annexe II, partie 1, du règlement (UE) n° 206/2010.
 
 |
 
@@ -128,11 +132,11 @@ c, d
 
 |
 
-Pays tiers ou parties de pays tiers figurant dans l'annexe II, partie 1, de la décision 79 / 542 / CEE.
+Pays tiers ou parties de pays tiers pour lesquels l'annotation " RUM " est présente en colonne 4 de l'annexe I, partie 1, du règlement (UE) n° 206/2010.
 
 |
 
-9
+Modèle " RUM " tel que présenté en annexe I, partie 2, du règlement (UE) n° 206/2010.
 
 |
 
@@ -144,15 +148,15 @@ b, c, d
 
 |
 
-Pays tiers ou parties de pays tiers pour lesquels l'annotation " SUI " est présente en colonne 4 de la l'annexe II, partie 1, de la décision 79 / 542 / CEE.
+Pays tiers ou parties de pays tiers pour lesquels l'annotation " SUI " est présente en colonne 4 de l'annexe I, partie 1, du règlement (UE) n° 206/2010.
 
 |
 
-Modèle " SUI " tel que présenté en annexe I, partie 2, de la décision 79 / 542 / CEE.
+Modèle " SUI " tel que présenté en annexe I, partie 2, du règlement (UE) n° 206/2010.
 
 |
 
-Tous les artiodactyles non domestiques, à l'exception des suidés, des tayassuidés et des camélidés
+Tous les artiodactyles non domestiques, à l'exception des suidés, des tayassuidés et des camélidés.
 
 |
 
@@ -160,11 +164,11 @@ b, c, d
 
 |
 
-Pays tiers ou parties de pays tiers pour lesquels l'annotation " RUM " est présente en colonne 4 de la l'annexe II, partie 1, de la décision 79 / 542 / CEE.
+Pays tiers ou parties de pays tiers pour lesquels l'annotation " RUM " est présente en colonne 4 de l'annexe I, partie 1, du règlement (UE) n° 206/2010.
 
 |
 
-Modèle " RUM " tel que présenté en annexe 1, partie 2, de la décision 79 / 542 / CEE.
+Modèle " RUM " tel que présenté en annexe I, partie 2, du règlement (UE) n° 206/2010.
 
 |
 
@@ -176,11 +180,13 @@ b, c, d
 
 |
 
-Pays tiers ou parties de pays tiers pour lesquels l'annotation " RUM " est présente en colonne 4 de la l'annexe II, partie 1, de la décision 79 / 542 / CEE.
+Pays tiers ou parties de pays tiers pour lesquels l'annotation " RUM " est présente en colonne 4 de l'annexe I, partie 1 du règlement (UE) n° 206/2010.
 
 |
 
-Modèle " RUM " tel que présenté en annexe 1, partie 2, de la décision 79 / 542 / CEE
+Modèle " RUM " tel que présenté en annexe I, partie 2, du règlement (UE) n° 206/2010.
+
+|
 
 |
 
@@ -190,7 +196,7 @@ Tous les pays tiers.
 
 |
 
-Modèle " RUM " complété du modèle " CAM " tel que présenté en annexe I, partie 2, de la décision 79 / 542 / CEE.
+Modèle " RUM " complété du modèle " CAM " tel que présenté en annexe I partie 2 du règlement (UE) n° 206/2010.
 
 |
 
@@ -298,11 +304,7 @@ Lagomorphes (Lepus europaeus, Oryctolagus cuniculus).
 
 |
 
-Animaux
-
-destinés
-
-à des lâchers
+Animaux destinés à des lâchers
 
 |
 
@@ -322,7 +324,7 @@ b
 
 |
 
-Pays tiers et parties de pays tiers figurant dans l'annexe de la décision 2006 / 696 / CE.
+Pays tiers et parties de pays tiers figurant dans l'annexe du règlement (CE) n° 798/2008.
 
 |
 
@@ -334,13 +336,7 @@ Oiseaux.
 
 |
 
-c, d
-
-et concours,
-
-expositions,
-
-compétitions
+c, d et concours, expositions, compétitions
 
 |
 
@@ -392,19 +388,19 @@ f
 
 |
 
-(1) Poissons d'ornement d'espèces sensibles à une ou plusieurs maladies répertoriées à l'annexe IV de la directive 2006 / 88 / CE : pays tiers autorisés conformément à l'annexe III du règlement (CE) n° 1251 / 2008 ;
+(1) Poissons d'ornement d'espèces sensibles à une ou plusieurs maladies répertoriées à l'annexe IV de la directive 2006/88/ CE : pays tiers autorisés conformément à l'annexe III du règlement (CE) n° 1251/2008 ;
 
-(2) Poissons d'ornement d'espèces sensibles à aucune des maladies répertoriées à l'annexe IV de la directive 2006 / 88 / CE : pays tiers membre de l'Organisation mondiale de la santé animale (OIE) ;
+(2) Poissons d'ornement d'espèces sensibles à aucune des maladies répertoriées à l'annexe IV de la directive 2006/88/ CE : pays tiers membre de l'Organisation mondiale de la santé animale (OIE) ;
 
 (3) Crustacés d'ornement : pays tiers membre de l'Organisation mondiale de la santé animale (OIE).
 
 |
 
-Modèle tel que présenté à l'annexe IV, partie B, du règlement (CE) n° 1251 / 2008.
+Modèle tel que présenté à l'annexe IV, partie B, du règlement (CE) n° 1251/2008.
 
 |
 
-Oiseaux de compagnie (sauf les volailles visées par les directives 90 / 539 / CEE et 92 / 65 / CEE).
+Oiseaux de compagnie (sauf les volailles visées par les directives 2009/158/ CE et 92/65/ CEE).
 
 |
 
@@ -424,7 +420,7 @@ Tous les pays tiers.
 
 a) Animaux destinés à l'élevage ou à l'abattage ;
 
-b) Animaux destinés à des établissements d'expérimentation animale, des établissements d'élevage spécialisés, des établissements fournisseurs (tels que définis par l'article R. 214-88 du code rural) ;
+b) Animaux destinés à des établissements d'expérimentation animale, des établissements d'élevage spécialisés, des établissements fournisseurs (tels que définis par l'article R. 214-88 du code rural et de la pêche maritime) ;
 
 c) Etablissements de présentation au public à caractère fixe ;
 

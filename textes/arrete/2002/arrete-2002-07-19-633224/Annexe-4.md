@@ -24,7 +24,7 @@ c) Sont nés dans l'établissement d'origine et y sont restés depuis leur naiss
 
 d) Sont originaires et proviennent d'un établissement dans lequel aucun cas de tuberculose et de rage n'a été constaté au cours des deux dernières années ;
 
-e) Ont été placés, préalablement à leur exportation, dans une station de quarantaine conformément aux dispositions du code zoosanitaire international de l'Office international des épizooties pour une durée d'au moins 40 jours (date d'entrée en quarantaine le ..., date de sortie de la quarantaine le ..., dans laquelle, durant cette période :
+e) Ont été placés, préalablement à leur exportation, dans une station de quarantaine conformément aux dispositions du code zoosanitaire international de l'Office international des épizooties pour une durée d'au moins 40 jours en milieu protégé des arthropodes (date d'entrée en quarantaine le :............, date de sortie de la quarantaine le :.............) dans laquelle, durant cette période :
 
 - tous les animaux ont été inspectés quotidiennement pour rechercher tout signe éventuel de maladie et être soumis, si nécessaire, à un examen clinique ;
 
@@ -38,9 +38,7 @@ g) Ont été soumis, avec résultat négatif, à deux épreuves de dépistage de
 
 h) Ont été soumis à une épreuve diagnostique, avec résultat négatif, pour la recherche des entérobactéries pathogènes. Cette disposition ne s'applique pas aux microcèbes (Microcebus sp.), chirogales (Cheirogalus sp.), allocèbes (Allocebus sp.), galagos (Galagos sp.), tarsiers spectrals (Tarsius spectrum), ouistitis pygmées (Cebuella pygmea) et loris grêle (Nyctebus tardigradus) destinés à des établissements de présentation au public à caractère fixe qui ont été soumis à un traitement antibiotique pendant la quarantaine ;
 
-i) Ont été soumis, pour les macaques (Macaca spp.)
-
-à une épreuve de dépistage sérologique avec résultat négatif de l'herpès virose B, réalisé le ....
+i) Ont été soumis, pour les macaques (Macaca spp.)............ à une épreuve de dépistage sérologique avec résultat négatif de l'herpès virose B, réalisé au plus tard dans les 10 jours précédant l'expédition le (3).
 
 Cette disposition ne s'applique pas aux macaques à longue queue ou macaques crabiers (Macaca fascicularis) originaires et en provenance de l'île Maurice ;
 
