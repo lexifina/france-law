@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130607123
+
+- Question : [SEQ130607123](seq130607123.md) — Location de longue durée par les collectivités locales
+
+## Réponse
+
+*Décentralisation, JO du 2013-10-10, page 2967*
+
+Le fonds de compensation pour la TVA (FCTVA) assure aux collectivités territoriales et à leurs groupements la compensation, à un taux forfaitaire, de la TVA qu'ils acquittent sur leurs dépenses d'investissement. L'article L. 1615-2 du code général des collectivités territoriales (CGCT) réserve le bénéfice du FCTVA aux seules dépenses réelles d'investissement. À cet égard, la circulaire interministérielle n° NOR/INT/B/02/00059C du 26 février 2002, relative aux règles d'imputation des dépenses du secteur public local présente les critères de distinction entre les dépenses d'investissement et les dépenses de fonctionnement. Cette distinction résulte de l'application tant des principes du code civil relatifs à la consistance du bien et à sa durabilité (articles 528 et 529) que des principes du plan comptable général auxquels les instructions budgétaires et comptables applicables au secteur public local doivent se conformer. Ainsi, les dépenses qui ont pour résultat l'entrée dans le patrimoine de la collectivité d'un nouvel élément d'une certaine consistance, destiné à y rester durablement, sont considérées comme des dépenses d'investissement. Tel n'est pas le cas en revanche des dépenses afférentes à la location de longue durée de véhicules. En effet, ces dépenses ne se traduisent pas par l'intégration d'un nouvel élément dans le patrimoine de la collectivité territoriale. La dépense correspondante, qui est inscrite en section de fonctionnement, ne peut, dans ces conditions, ouvrir droit au bénéfice du fonds. Il n'est pas envisagé de modifier cette règle. Une telle mesure aurait, en effet, un coût pour le budget de l'État incompatible avec l'impératif de redressement des comptes publics.
