@@ -234,12 +234,68 @@ Opérateur, bovins, manipulations et soins, mise à mort, complément sans étou
 
 Opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement
 
-Opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
+Opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement
+
+|
 
 1er août 2013
 
 |
 
 31 juillet 2018
+
+|
+
+Zoopôle Développement, ISPAÏA, Zoopôle Les Croix, 2, rue Jean-Rostand, BP 7,22440 Ploufragan |
+
+RPA et opérateur, bovins/ équidés, manipulations et soins, mise à mort, complément sans étourdissement
+
+RPA et opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement
+
+RPA et opérateur, porcins, manipulations et soins, mise à mort
+
+|
+
+30 septembre 2013
+
+|
+
+29 septembre 2018
+
+|
+
+SECURITEAM, 12, rue Nationale, 41150 Rilly-sur-Loire
+
+|
+
+RPA et opérateur, bovins/ équidés, manipulations et soins, mise à mort, complément sans étourdissement
+
+RPA et opérateur, ovins/ caprins, manipulations et soins, mise à mort, complément sans étourdissement
+
+RPA et opérateur, porcins, manipulations et soins, mise à mort
+
+|
+
+30 septembre 2013
+
+|
+
+29 septembre 2018
+
+|
+
+Avipole Formation, Zoopôle Les Croix, rue Camille-Guérin, 22400 Ploufragan
+
+|
+
+RPA et opérateur, lagomorphes/ rongeurs, manipulations et soins, mise à mort, complément sans étourdissement
+
+|
+
+30 septembre 2013
+
+|
+
+29 septembre 2018
 
 |
