@@ -1,0 +1,170 @@
+# Délibération n° 2013-283 du 10 octobre 2013 portant avis sur un projet de décret en Conseil d'Etat relatif à la création par l'Agence française de lutte contre le dopage d'un traitement de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs (demande d'avis n° 1705261)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2013-283
+- Date : 2013-10-10
+- Publication : 2014-01-07
+- NOR : SPOV1327142
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000028435482
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative d'une demande d'avis sur un projet de décret en Conseil d'Etat autorisant la création, par l'Agence française de lutte contre le dopage, d'un traitement automatisé de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs ;
+
+Vu la Convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code du sport, notamment ses articles L. 232-5 et suivants ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment son article 26-II ;
+
+Vu la loi n° 2012-348 du 12 mars 2012 tendant à faciliter l'organisation des manifestations sportives et culturelles ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu la décision de la Commission européenne du 20 décembre 2001 (2002/2/CE) constatant, conformément à la directive 95/46/Ce du Parlement européen et du Conseil, le niveau de protection adéquat des données à caractère personnel assuré par la loi canadienne sur la protection des renseignements personnels et les documents électroniques ;
+
+Après avoir entendu Monsieur Dominique RICHARD, commissaire, en son rapport, et M. Jean-Alexandre SILVY, commissaire du Gouvernement, en ses observations,
+
+Émet l'avis suivant :
+
+La Commission nationale de l'informatique et des libertés a été saisie pour avis par le ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative d'un projet de décret en Conseil d'État relatif à la création, par l'Agence française de lutte contre le dopage (AFLD), d'un traitement automatisé de données à caractère personnel pour la mise en œuvre du profil biologique des sportifs.
+
+Les caractéristiques de ce traitement seront précisées aux dispositions des articles R. 241-1 à R. 241-9 du code du sport.
+
+Le traitement projeté a notamment pour objet la prévention, la recherche, la constatation et la poursuite des infractions à la règlementation antidopage et porte sur des données relatives à la santé des personnes concernées. Conformément aux dispositions de l'article 26-II de la loi du 6 janvier 1978 modifiée, il doit dès lors être autorisé par décret en Conseil d'État, pris après avis motivé et publié de la Commission.
+
+Sur la finalité du traitement :
+
+Le profil biologique des sportifs a été introduit aux articles L. 232-12-1 et L. 232-22-1 du code du sport, par la loi n° 2012-348 du 12 mars 2012 tendant à faciliter l'organisation des manifestations sportives et culturelles.
+
+Il s'agit d'un dispositif complémentaire à la détection traditionnelle du dopage qui permet, conformément aux recommandations de l'Agence mondiale antidopage, de détecter indirectement le dopage à partir de ses effets sur l'organisme, à savoir des variations anormales de paramètres biologiques déterminés, et plus seulement à partir de la présence de substances interdites dans le corps humain.
+
+Dans ce contexte, le projet de décret soumis à la Commission prévoit que l'AFLD est autorisée à créer un traitement automatisé de données à caractère personnel visant à faciliter l'établissement du profil biologique des sportifs mentionnés à l'article L. 232-15 et à orienter les contrôles antidopage les concernant .
+
+Il y est précisé que ce traitement regroupe les données biologiques mises en évidence par les analyses consécutives aux prélèvements biologiques diligentés par l'AFLD aux fins de :
+
+- rassembler des informations biologiques sur les sportifs entrant dans le champ d'application de l'article L. 232-15 du code du sport ;
+
+- détecter le dopage à partir de ses effets sur l'organisme et le réprimer dans les conditions fixées par l'article L. 232-22-1 du code du sport ;
+
+- favoriser la mise en œuvre de contrôles relatifs à la lutte contre le dopage ;
+
+- dissuader les sportifs concernés de recourir à des substances ou méthodes prohibées ;
+
+- prévenir les risques d'atteinte à la santé des intéressés.
+
+Au regard des attributions légales de l'AFLD, telles que prévues par l'article L. 232-5 du code du sport, la Commission considère que ces finalités sont déterminées, explicites et légitimes.
+
+Elle estime, par ailleurs, que le traitement créé par l'AFLD est justifié par la poursuite d'un intérêt public, à savoir garantir la santé publique et l'intégrité des compétitions sportives.
+
+Sur la nature des données traitées :
+
+Le traitement soumis à l'examen de la Commission concerne les seuls sportifs, visés à l'article L. 232-15 du code du sport, assujettis au profil biologique, c'est à dire les sportifs :
+
+- inscrits sur la liste des sportifs de haut-niveau ;
+
+- inscrits sur la liste des sportifs espoirs ;
+
+- ayant été inscrits sur une de ces deux listes au moins un an durant les trois dernières années ;
+
+- professionnels licenciés des fédérations agréées ou ayant été professionnels au moins une année durant les trois dernières années ;
+
+- ayant fait l'objet d'une sanction disciplinaire pour infraction à la législation contre le dopage lors des trois dernières années.
+
+La Commission relève ainsi qu'un grand nombre de personnes sont potentiellement concernées par le profil biologique des sportifs, notamment des mineurs dès lors que la liste des sportifs espoirs comprend des enfants âgés d'au moins douze ans. Elle estime qu'un tel traitement doit donc être entouré de garanties de nature à assurer un haut niveau de protection des données traitées.
+
+Les données collectées sur le compte de ces sportifs sont relatives à :
+
+- leur identification (nom ; prénom ; date et lieu de naissance ; sexe) ;
+
+- leur activité sportive (sport pratiqué ; le cas échéant, nom de la fédération sportive nationale ; le cas échéant, mention des stages effectués en altitude ou du recours à un dispositif de simulation des effets de l'altitude au cours des trois derniers mois) ;
+
+- leur santé (traitement médical en cours ou récent ; données hématologiques mesurées ou calculées dans les échantillons de sang ; données mesurées ou calculées dans les échantillons d'urine).
+
+La Commission considère que ces données sont adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées.
+
+Le projet de décret examiné par la Commission précise que les données du traitement, lorsqu'elles ne sont pas issues de prélèvements diligentés par l'AFLD, peuvent lui être communiquées par l'Agence mondiale antidopage, à partir du système d'administration et de gestion antidopage hébergé sur une plateforme internet sécurisée au Canada . Il précise que les données peuvent également être communiquées à l'AFLD par une fédération sportive internationale ayant passé, à cet effet, une convention avec l'AFLD, à la condition que le lieu d'hébergement des données traitées se trouve dans un État assurant un niveau de protection suffisant de la vie privée et des libertés et droits fondamentaux des personnes à l'égard du traitement dont ces données font l'objet ou peuvent faire l'objet .
+
+Ces modalités d'alimentation du traitement n'appellent pas d'observation de la Commission.
+
+Sur la durée de conservation des données :
+
+Le futur article R. 232-41-8 du code du sport prévoit que les données précédemment listées sont supprimées à l'issue d'un délai de huit ans.
+
+La Commission relève que cette durée de conservation est conforme au délai de prescription de l'action disciplinaire en matière de lutte contre le dopage, tel que prévu par l'article L. 232-24-1 du code du sport. Elle rappelle que cette durée ne prive pas le responsable de traitement de la possibilité, lorsqu'une procédure de sanction sera engagée, de conserver les données nécessaires jusqu'au terme définitif de la procédure.
+
+Elle considère, dès lors, que les données du présent traitement sont conservées pour un temps qui n'excède pas la durée nécessaire à l'accomplissement des finalités poursuivies par l'AFLD.
+
+Sur les destinataires des données :
+
+Le projet de décret soumis à la Commission prévoit :
+
+- que seuls les agents du département des contrôles de l'AFLD sont habilités à enregistrer ou modifier les données du traitement relatives à l'identification des sportifs concernés, leurs activités sportives et leurs traitements médicaux en cours ou récents ;
+
+- que seuls les agents du département des analyses de l'AFLD sont habilités à enregistrer ou modifier les données hématologiques mesurées ou calculées dans les échantillons de sang, d'une part, et les données mesurées ou calculées dans les échantillons d'urine, d'autre part ;
+
+- que le chef du service médical de l'AFLD, ainsi que les agents placés sous son autorité, peuvent enregistrer ou modifier l'intégralité des données du traitement.
+
+La Commission rappelle que l'accès aux données relatives à la santé doit être limité aux seules personnes auxquelles s'impose le respect du secret médical.
+
+Le projet de décret prévoit également que peuvent être destinataires des données du traitement :
+
+- l'Agence mondiale antidopage ;
+
+- une fédération sportive internationale, sous réserve de la conclusion d'une convention avec l'AFLD et à condition que le lieu d'hébergement des données se trouve dans un Etat assurant un niveau de protection suffisant de la vie privée et des libertés et des droits fondamentaux des personnes à l'égard du traitement dont ces données font l'objet ou peuvent faire l'objet.
+
+Au regard de l'article L. 232-1-I du code du sport, qui prévoit que l'AFLD coopère avec l'Agence mondiale antidopage et les fédérations sportives internationales, d'une part, et de l'article L. 232-13-2° du même code, qui prévoit que des contrôles peuvent être diligentés par l'AFLD à la demande de l'Agence mondiale antidopage ou des fédérations sportives internationales, d'autre part, la Commission considère que ces destinataires présentent un intérêt légitime à accéder aux données du présent traitement.
+
+À ce titre, la Commission prend acte que ces transferts visent à mutualiser les données pour éviter qu'un sportif fasse l'objet de prélèvements sanguins excessifs, d'une part, ou à orienter les contrôles pour les sportifs appartenant à un groupe cible d'une fédération internationale, ou pour les sportifs professionnels appelés à participer à une compétition internationale en France, d'autre part.
+
+La Commission relève que la formulation envisagée du futur article R. 232-41-7 du code du sport interdira tout transfert vers un État n'assurant pas un niveau de protection suffisant de la vie privée et des libertés et des droits fondamentaux des personnes à l'égard du traitement de leurs données, y compris si les caractéristiques du traitement garantissent un niveau de protection suffisant de la vie privée et des libertés et des droits fondamentaux, notamment en raison de ses caractéristiques propres, des mesures de sécurité, de l'existence de clauses contractuelles ou encore de règles internes. Elle prend acte que le ministère ne souhaite pas faire application des dispositions, prévues à l'avant-dernier alinéa de l'article 69 de la loi du 6 janvier 1978 modifiée, qui permettent de tels transferts.
+
+Enfin, la Commission prend acte que les transferts de données seront nécessairement encadrés par des conventions signées entre l'AFLD et chaque organisme destinataire.
+
+A ce titre, elle précise que ces conventions devront notamment préciser la finalité poursuivie à l'occasion des transmissions, l'impossibilité d'utiliser les données transmises pour une finalité incompatible avec cette dernière, la limitation de l'accès aux données au seul personnel habilité du destinataire, une durée de conservation maximale des données ne pouvant excéder la finalité poursuivie et, enfin, l'obligation faite au destinataire de mettre en place des mesures techniques permettant de garantir la sécurité des données.
+
+Sur l'information et les droits des personnes :
+
+Les sportifs concernés seront informés du traitement automatisé de leurs données personnelles, conformément à l'article 32 de la loi du 6 janvier 1978 modifiée, par la remise d'un document annexé au procès verbal dressé lors d'un prélèvement urinaire ou sanguin réalisé dans le cadre de leur passeport biologique.
+
+Ce mode d'information n'appelle pas d'observation de la Commission.
+
+Le projet de décret dispose, par ailleurs, que les droits d'accès et de rectification, prévus par les articles 39 et 40 de la loi du 6 janvier 1978 modifiée, s'exercent directement auprès du chef du service médical de l'AFLD suppléé, le cas échéant, par le responsable de l'unité de gestion du profil biologique des sportifs.
+
+Il prévoit, à ce titre, que l'AFLD dispose d'un délai de deux mois pour donner suite aux demandes des intéressés, conformément à l'article 94 du décret n° 2005-1309 du 20 octobre 2005 modifié. La Commission rappelle que ce délai, dont l'AFLD souhaite disposer pour déjouer les manœuvres des sportifs qui envisagent de modifier leur comportement afin de présenter des paramètres biologiques différents lors d'un contrôle ultérieur, est un délai maximal.
+
+Enfin, le projet de décret soumis à la Commission écarte expressément l'application du droit d'opposition, conformément au dernier alinéa de l'article 38 de la loi du 6 janvier 1978 modifiée.
+
+Ces dispositions concernant les droits des personnes n'appellent pas d'observation de la Commission.
+
+Sur la sécurité des données et la traçabilité des actions :
+
+Les modalités d'authentification des utilisateurs, à savoir des mots de passe de huit caractères valables quatre-vingt-dix jours et comprenant au moins trois types de caractères, sont conformes aux recommandations de la Commission. Ces modalités concernent tant l'accès au réseau interne de l'AFLD que l'accès au traitement de l'Agence mondiale antidopage.
+
+Des profils d'habilitation définissent les fonctions ou types d'informations accessibles à un utilisateur.
+
+Les étapes de développement et de maintenance du traitement font l'objet de mesures de sécurité visant à garantir la confidentialité des données.
+
+Des mesures de sécurité physiques sont mises en place pour garantir la sécurité physique des serveurs.
+
+L'accès au portail de l'Agence mondiale antidopage est sécurisé avec le protocole HTTPS, ce qui garantit la confidentialité et l'intégrité des données échangées.
+
+Les données stockées dans le serveur de l'Agence mondiale antidopage sont chiffrées avec un protocole garantissant la confidentialité des données.
+
+La consultation du portail de l'Agence mondiale antidopage pouvant être réalisée depuis n'importe quel terminal, dès lors que l'utilisateur dispose des bons identifiants, la Commission recommande la mise en place d'une restriction par identification de l'adresse IP, afin de renforcer le contrôle de l'accès au traitement de l'Agence mondiale antidopage.
+
+Les accès en consultation et en écriture au traitement de l'Agence mondiale antidopage sont journalisés, ce qui assure la traçabilité des opérations effectuées.
+
+Le fait que seul un agent de l'AFLD soit en mesure d'effectuer des extractions de données a été avancé, par le ministère, à titre de justification de l'absence d'un mécanisme de journalisation permettant à l'AFLD d'assurer la traçabilité de ces opérations. La Commission recommande néanmoins que soit mis en œuvre un journal des extractions de données.
+
+Sous réserve des précédentes observations, les mesures de sécurité décrites par le responsable de traitement sont conformes à l'exigence de sécurité prévue par l'article 34 de la loi du 6 janvier 1978 modifiée.
+
+La Commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques
+
+La Présidente
+
+Isabelle FALQUE-PIERROTIN
