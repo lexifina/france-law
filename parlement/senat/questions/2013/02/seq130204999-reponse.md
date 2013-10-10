@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204999
+
+- Question : [SEQ130204999](seq130204999.md) — Loi de décentralisation et coopération transfrontalière
+
+## Réponse
+
+*Décentralisation, JO du 2013-10-10, page 2967*
+
+Les collectivités territoriales françaises et leurs groupements s'engagent de plus en plus dans des actions de coopération décentralisée ou transfrontalière avec leurs homologues étrangères, notamment des États membres de l'Union européenne (UE) ou du Conseil de l'Europe. Encourageant la coopération décentralisée, le droit français, au travers des articles L. 1115-1 et suivants du code général des collectivités territoriales, prévoit à cet égard plusieurs dispositifs. Un nombre croissant de régions, de départements, de communes et de structures intercommunales sont, sur le fondement de ces dispositions, engagés dans des projets de coopération témoignant ainsi d'une grande implication en ce domaine. Soutenue par l'UE et le Conseil de l'Europe, la coopération transfrontalière peut s'appuyer sur des outils juridiques destinés à faciliter la mise en œuvre de projets impliquant, dans le respect de leurs compétences, des collectivités situées de part et d'autre des frontières. Au niveau de l'UE, le règlement n° 1082/2006 institue le groupement européen de coopération territoriale (GECT). Sur la trentaine de GECT créés à ce jour, onze impliquent des collectivités françaises et huit ont leur siège en France. La ratification par la France du 3e protocole à la convention-cadre de Madrid, élaboré dans le cadre du Conseil de l'Europe, permettra de mettre en œuvre le groupement eurorégional de coopération (GEC), pour associer des collectivités des États membres de l'UE avec des collectivités issues d'États membres du Conseil de l'Europe. Ainsi, des dispositifs distincts des accords de coopération entre États offrent déjà aux communes et aux intercommunalités un support pour le développement d'actions à caractère transfrontalier.
