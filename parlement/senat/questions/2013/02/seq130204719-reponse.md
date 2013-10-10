@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204719
+
+- Question : [SEQ130204719](seq130204719.md) — Syndicats mixtes informatiques
+
+## Réponse
+
+*Décentralisation, JO du 2013-10-10, page 2966*
+
+Il existe dans le code général des collectivités territoriales (CGCT) plusieurs dispositions permettant aux communes et aux établissements publics de coopération intercommunale (EPCI) de soutenir le développement et la promotion de l'informatique. Ainsi, pour concilier une offre de service public de qualité et l'objectif de rationalisation de leurs dépenses, les communes peuvent choisir de se regrouper au sein d'un syndicat intercommunal auquel elles ont confié une compétence technologie de l'information et de la communication par exemple (article L. 5212-1 et suivants du CGCT). Elles peuvent également s'associer à des EPCI et d'autres personnes morales de droit public au sein de syndicats mixtes (article L. 5711-1 et suivants du CGCT). Ces structures peuvent organiser une couverture opérationnelle du territoire notamment par la mise en commun de moyens humains, techniques ou encore financiers. La loi du 16 décembre 2010 a ouvert aux communes la possibilité, en dehors des compétences transférées, d'une mutualisation des services informatiques au sein des EPCI à fiscalité propre. En effet, les dispositions de l'article L. 5211-4-2 du code prévoient la mise en place de services communs pour ceux relevant des fonctions supports, au nombre desquels figurent les services informatiques. Dans ce cadre, à la suite d'une convention passée entre l'EPCI et une ou plusieurs de ses communes membres, celui-ci assure la gestion du service commun. En conclusion, le CGCT offre différents supports aux communes pour qu'elles bénéficient d'outils performants, appropriés à leurs besoins et à ceux des citoyens, en matière informatique.
