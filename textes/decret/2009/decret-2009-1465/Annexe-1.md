@@ -80,7 +80,7 @@ Ou au moins cinq scènes se déroulent en France
 
 |
 
-Critère n° 2 : au moins deux décors emblématiques de la France, c'est-à-dire deux lieux déterminés et reconnaissables représentatifs de la France, constituent le décor principal d'au moins deux scènes
+Critère n° 2 : au moins deux décors emblématiques de la France, c'est-à-dire deux lieux déterminés et reconnaissables représentatifs de la France, constituent le décor principal d'au moins une scène chacun
 
 |
 
@@ -100,7 +100,7 @@ Critère n° 2 : au moins deux décors emblématiques de la France, c'est-à-dir
 
 |
 
-Critère n° 3 : au moins un personnage principal est français, issu d'un pays francophone ou d'un pays européen
+Critère n° 3 : au moins un personnage principal est français, issu d'un pays francophone ou d'un pays européen ou de nationalité indéterminée
 
 |
 
@@ -120,7 +120,7 @@ Critère n° 4 :
 
 |
 
-Au moins trois personnages secondaires sont français, issus d'un pays francophone ou d'un pays européen
+Au moins trois personnages secondaires sont français, issus d'un pays francophone ou d'un pays européen ou de nationalité indéterminée
 
 |
 
@@ -132,7 +132,7 @@ Au moins trois personnages secondaires sont français, issus d'un pays francopho
 
 |
 
-Ou au moins deux personnages secondaires sont français, issus d'un pays francophone ou d'un pays européen
+Ou au moins deux personnages secondaires sont français, issus d'un pays francophone ou d'un pays européen ou de nationalité indéterminée
 
 |
 
@@ -142,7 +142,7 @@ Ou au moins deux personnages secondaires sont français, issus d'un pays francop
 
 |
 
-Ou un personnage secondaire est français, issu d'un pays francophone ou d'un pays européen
+Ou un personnage secondaire est français, issu d'un pays francophone ou d'un pays européen ou de nationalité indéterminée
 
 |
 
@@ -320,7 +320,7 @@ Critère n° 14 :
 
 |
 
-Au moins trois chefs de poste (chef opérateur, chef décorateur, ingénieur du son, chef costumier, chef monteur, premier assistant réalisateur, directeur de production, régisseur général)
+Au moins trois chefs de poste parmi la liste suivante : chef opérateur, stéréographe, chef décorateur, ingénieur du son, chef costumier, chef coiffeur, coordinateur des cascades, chef monteur, chef mixeur, premier assistant réalisateur, directeur de production, directeur de post-production, régisseur général, superviseur des effets visuels numériques (pour les scènes tournées en France)
 
 |
 

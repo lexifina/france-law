@@ -90,7 +90,7 @@ Critère n° 2 : au moins un personnage principal est français, issu d'un pays 
 
 |
 
-Critère n° 3 : le sujet est destiné ou adapté à un public jeune
+Critère n° 3 : le sujet est adapté à un public jeune ou adolescent
 
 |
 
@@ -188,7 +188,7 @@ Critère n° 8 : au moins un des compositeurs de la musique
 
 |
 
-Critère n° 9 : au moins un des créateurs de personnages et/ou des décors
+Critère n° 9 : au moins un des créateurs artistiques de personnages et/ou des décors
 
 |
 
@@ -224,7 +224,7 @@ Critère n° 11 : au moins un des directeurs de production et/ou des producteurs
 
 |
 
-Critère n° 12 : au moins un des directeurs artistiques (animation ou effets visuels) et/ou des chefs opérateurs
+Critère n° 12 : au moins un des directeurs artistiques (animation ou effets visuels) et/ou des chefs opérateurs et/ou des stéréographes
 
 |
 
@@ -236,7 +236,7 @@ Critère n° 12 : au moins un des directeurs artistiques (animation ou effets vi
 
 |
 
-Critère n° 13 : Au moins un des superviseurs généraux et/ou premier assistant et/ou des superviseurs des effets visuels
+Critère n° 13 : au moins une personne assurant une fonction globale de supervision (notamment : superviseur général, premier assistant, superviseur des effets visuels)
 
 |
 
@@ -256,7 +256,7 @@ Critère n° 14 :
 
 |
 
-Au moins 50 % des superviseurs d'animation et/ou des chefs animateurs et/ou des superviseurs techniques et/ou des chefs modeleurs et/ou des responsables texture et/ou des responsables éclairage
+Au moins 50 % des personnes assurant une fonction intermédiaire de supervision (notamment : superviseur d'animation, chef animateur, superviseur technique, chef modeleur, responsable texture, responsable éclairage) ; ou
 
 |
 
@@ -268,7 +268,7 @@ Au moins 50 % des superviseurs d'animation et/ou des chefs animateurs et/ou des 
 
 |
 
-Ou entre 25 % et 50 % des superviseurs d'animation et/ou des chefs animateurs et/ou des superviseurs techniques et/ou des chefs modeleurs et/ou des responsables texture et/ou des responsables éclairage
+Entre 25 % et 50 % des personnes assurant une fonction intermédiaire de supervision (notamment : superviseur d'animation, chef animateur, superviseur technique, chef modeleur, responsable texture, responsable éclairage)
 
 |
 
