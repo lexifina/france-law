@@ -166,10 +166,6 @@ Précisions
 
 |
 
-PRE-REQUIS : Pour pouvoir prétendre au classement en hôtel de tourisme, un hôtel doit compter 6 chambres au minimum
-
-|
-
 CHAPITRE 1 : EQUIPEMENTS
 
 |
