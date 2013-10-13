@@ -262,6 +262,8 @@ ISOMACO, 13-17 rue Saint-Germain, 93230 Romainville : de 1969 à 1984 ;
 
 Isotherma, 79, rue de la Gare, 78370 Plaisir : de 1965 à 1979 ;
 
+KELLER BARTOLAC, 1, impasse Réaumur, 78200 Mantes-la-Jolie : de 1972 à 1985 ;
+
 Le Joint français, 84,116, rue Salvador-Allende, 95870 Bezons : de 1907 à 1995 ;
 
 3-M France, parc Barrachin, 95250 Beauchamp : de 1971 à 1975 ;
@@ -274,7 +276,7 @@ La Bakélite française : de 1932 à 1985 ;
 
 Perstorp : de 1985 à 1998 ;
 
-Précicable, 151, rue Michel-Carré, BP 10,95102 Argenteuil Cedex : de sa création à 1985 ;
+4PRECICABLE/ TREFICABLE PIRELLI/ CABLES PIRELLI, 151 et 138, rue Michel-Carré, BP 10,95102 Argenteuil Cedex : de sa création à 1985 ;
 
 Raschig SAS : depuis 1998 ;
 
@@ -690,6 +692,8 @@ BP Chemicals, BP 6,13117 Lavera, de 1970 à 1977 ;
 
 CABOT France SA puis CABOT France SAS, BP 39, CD 21, CS 30039, route départementale 21,13130 Berre-l'Etang/13131 Berre-l'Etang Cedex : de 1959 à 1996 ;
 
+Cellulose de Sète 13151 Tarascon Cedex : de 1951 à 1952, puis, Cellulose du Rhône, 13151 Tarascon Cedex : de 1952 à 1981, puis CDRA (Cellulose du Rhône, et d'Aquitaine) BP 8,13151 Tarascon Cedex : de 1981 à 1995, puis CELLURHONE BP 8,13151 Tarascon Cedex : de 1995 à 2000, puis TEMBEC TARASCON SA 13156 Tarascon Cedex : de 2000 à 2001 ;
+
 Chassimetal SA, Item SA, Item Centre SA, Ceric Thermic, 2208, route de Grasse, 06600 Antibes, lieudit Font de Cine, chemin de Saint-Bernard, 06220 Vallauris, de 1953 à 1996 ;
 
 Chaud et Froid, Les Pennes, Mirabeau, 13170 La Gavotte : de 1970 à 1986 ;
@@ -737,6 +741,8 @@ SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 1
 SARL Plisson, Quartier du Trébon, route de Tarascon, 13200 Arles : de 1987 à 1996 ;
 
 SAS SAIT Centre d'exploitation de Château-Arnoux, ZA des Blâches Gombert, 04160 Château-Arnoux-Saint-Auban : de 1981 à 1996 ;
+
+SATI-Gilles LIZZUL, puis SATI-Louis LIZZUL, puis SATI 8, boulevard des Romarins, 13400 Aubagne : de 1968 à 1969, de 1969 à 1992, de 1992 à 2002 ;
 
 Société des anciens établissements A.-Devries, ZI les Paluds, 13400 Aubagne : de 1958 à 1976 ;
 
@@ -814,7 +820,7 @@ Loire Fonte Industrie (LFI, ex-Fonderie Jurine), 97, rue de la République, 4250
 
 Pavailler, puis Pavailler BP, puis APV Pavailler Equipement, puis Pavailler Equipement, 555, rue Benoît-Frachon, 26800 Porte-lès-Valence : de 1950 à 1996 ;
 
-PRODUITS CHIMIQUES UGINE KUHLMANN puis AIDCHEM puis ELF ATOCHEM (usine de Brignoud), 14, avenue Robert-Huant, 38190 Brignoud : de 1951 à 1996 ;
+PRODUITS CHIMIQUES UGINE KUHLMANN puis ATOCHEM puis ELF ATOCHEM (usine de Brignoud), 14, avenue Robert-Huant, 38190 Brignoud : de 1951 à 1996 ;
 
 Prost, puis Prost Lafarge groupe CEC, puis Lafarge réfractaire, puis Piral SA, zone industrielle, 07210 Alissas, de 1969 à 1980 ;
 
@@ -834,7 +840,7 @@ SNIG/ SITUB, ZI Faveyrolle, 19, avenue Paul-Sabatier, 26700 Pierrelatte : de 198
 
 Société d'électrochimie de Jarrie et de Thaon, puis Société d'électrochimie, d'électrométallurgie des aciéries électriques d'Ugine (SECEMAEU), puis Pechiney Ugine Kuhlmann, puis Elf Atochem, Usine de Jarrie, route nationale 85, BP 1,38560 Jarrie : De 1916 à 1996 ;
 
-Société Le Chlore Liquide/ PROGIL/ Rhône PROGIL/ Rhône Poulenc SA, puis CHLORALP, rue Lavoisier, 38800 Pont-de-Claix : de 1916 à 1996, de 1997 à 2001 ;
+SOCIÉTÉ LE CHLORE LIQUIDE/ PROGIL/ RHONE PROGIL/ RHÔNE POULENC SA, puis CHLORALP, rue Lavoisier, 38800 PONT-DE-CLAIX, de 1916 à 1996 : de 1997 à 2001, et de de 2002 à 2005 ;
 
 Société de Paris et du Rhône, de 1915 à 1986, puis EEM, de 1986 à 1987, puis Valéo EEM, de 1987 à 1989,36, avenue Jean-Mermoz, 69355 Lyon ;
 
