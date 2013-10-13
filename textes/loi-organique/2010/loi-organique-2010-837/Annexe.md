@@ -258,6 +258,14 @@ Président
 
 |
 
+Haute Autorité pour la transparence de la vie publique
+
+|
+
+Président
+
+|
+
 Haute Autorité de santé
 
 |
