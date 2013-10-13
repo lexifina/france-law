@@ -268,6 +268,12 @@ Commission compétente en matière de santé publique
 
 |
 
+Président de la Haute Autorité pour la transparence de la vie publique
+
+|
+
+Commission permanente compétente en matière de lois constitutionnelles |
+
 Président de l'Institut national de la recherche agronomique
 
 |
