@@ -1,0 +1,9 @@
+# Paris : acte V5 M — relatif à la formation des ASEM.
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2013-10-14
+- Nature : VNR
+- Objet : relatif à la formation des ASEM.
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
