@@ -1,0 +1,9 @@
+# Réponse à la question n° 31361
+
+- Question : [31361](31361.md) — Question n° 31361 — détaillants; perspectives
+
+## Réponse
+
+*JO du 2013-10-15*
+
+Le Gouvernement est conscient que les professionnels du secteur ne sont pas toujours en mesure de présenter en temps réel le bon de commande qui, aux termes de l'article L. 441-3-1 du code de commerce, doit accompagner le transport des fruits et légumes frais. C'est pourquoi il s'est montré favorable aux amendements au projet de loi consommation visant à laisser aux acheteurs de ces produits un délai de quarante-huit heures pour fournir le bon de commande qui n'aurait pas été présenté aux services de contrôle lors du transport de la marchandise ou à défaut, un message certifiant qu'ils ont bien commandé ces produits et précisant leur prix. Cette solution est apparue préférable à celle consistant à exiger, en lieu et place du bon de commande, la présentation d'un bon de livraison ou d'une facture car ces documents, aussi précis soient-ils, sont établis par le seul fournisseur et ne permettent donc pas de s'assurer qu'il y a bien eu accord sur le prix au moment où a été passée la commande. Le Gouvernement est également conscient que la prohibition des rabais posée par l'article L. 441-2-2 dudit code peut être source de difficultés pour les opérateurs de la filière fruits et légumes car elle ne leur permet pas de pratiquer (et d'obtenir) des réfactions de prix en cas de non-conformité, qualitative ou quantitative, du produit livré à la commande. Aussi prévoit-il d'introduire dans le projet de loi consommation une disposition permettant aux acheteurs de bénéficier de telles réfactions tarifaires si un accord interprofessionnel, conclu conformément à l'article L. 632-1 du code rural et de la pêche maritime, en a précisé les conditions.
