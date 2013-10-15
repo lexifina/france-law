@@ -1,0 +1,9 @@
+# Réponse à la question n° 24273
+
+- Question : [24273](24273.md) — Question n° 24273 — formation; hôpitaux
+
+## Réponse
+
+*JO du 2013-10-15*
+
+Sécuriser l'utilisation des médicaments, en particulier dans les établissements de santé, constitue une priorité de santé publique. La prise en charge médicamenteuse, qui recouvre notamment les étapes de prescription, de dispensation et d'administration, est un processus comprenant de nombreuses étapes et impliquant de nombreux acteurs. Une synergie des interventions, l'activation de leviers normatifs ou opérationnels, de même que le partage d'une culture de sécurité sont autant de clés pour l'amélioration de la qualité de la prise en charge. La réglementation (arrêté du 6 avril 2011 et circulaire N° DGOS/PF2/2012/72 du 14 février 2012) oblige les établissements à mettre en place un système de management de la qualité. Ceux-ci sont ainsi tenus de définir un plan de formation pluriannuel du personnel, y compris pour les nouveaux arrivants ou lors de la mise en place d'une nouvelle procédure ou mode opératoire. Au-delà des dispositions réglementaires, l'accompagnement des établissements de santé sur ce sujet s'est développé au moyen notamment de financements dédiés. Un financement exceptionnel a ainsi été alloué en 2012, via la loi de financement de la sécurité sociale, pour l'organisation de démarches de retour d'expérience dans les établissements de santé. Ce financement est renouvelé en 2013, pour la mise à disposition d'outils (guides d'accompagnement) et de formations, via notamment l'association nationale pour la formation permanente des personnels hospitaliers (ANFH), l'école des hautes études en santé publique (EHESP) ou organisées par les agences régionales de santé (ARS) ou les observatoires du médicament, des dispositifs médicaux et des innovations thérapeutiques (OMEDIT). La poursuite de ces efforts constitue une priorité.
