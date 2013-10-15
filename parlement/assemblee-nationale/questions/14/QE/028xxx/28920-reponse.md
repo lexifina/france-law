@@ -1,0 +1,9 @@
+# Réponse à la question n° 28920
+
+- Question : [28920](28920.md) — Question n° 28920 — financement
+
+## Réponse
+
+*JO du 2013-10-15*
+
+Les familles imposables à l'impôt sur le revenu bénéficient d'un calcul de l'impôt tenant compte du nombre d'enfants à charge. Cette modalité de calcul appelée « quotient familial » consiste à diviser le revenu imposable d'un foyer fiscal en un nombre de parts, déterminé par sa configuration familiale. La mesure annoncée par le Gouvernement vise à abaisser le plafond de l'avantage fiscal obtenu grâce au « quotient familial » (de 2 000 € à 1 500 € par demi-part) mais ne change pas le calcul du quotient familial lui-même, afin de limiter l'avantage fiscal procuré par ce mécanisme aux familles les plus aisées. Cependant le quotient familial retenu dans le calcul du coût des cantines scolaires diffère de celui retenu pour le calcul de l'impôt sur le revenu. En effet, au sens de la caisse d'allocations familiales (CAF), le « quotient familial » désigne un agrégat qui entre dans le calcul de certaines aides sociales et que de nombreuses collectivités territoriales utilisent pour déterminer les apports financiers demandés aux familles dans le cadre de certaines prestations (les cantines scolaires notamment, mais aussi les crèches). Ce « quotient familial » établi par la CAF dépend des ressources et de la composition de la famille. Il s'obtient à partir des ressources annuelles imposables de l'année civile de référence et d'un nombre de parts qui reflète la taille du foyer ou du ménage. L'augmentation de l'impôt demandé à certaines familles dans le cadre de la rénovation de la politique familiale ne tend aucunement à modifier le niveau de leurs revenus imposables mais seulement à limiter l'avantage fiscal procuré par le quotient familial. Ainsi, la réduction du plafond du « quotient familial » au sens de l'impôt sur le revenu est sans incidence sur les tarifs des cantines scolaires.
