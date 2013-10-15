@@ -1,0 +1,8 @@
+# Rosny-sous-Bois : délibération 5 — DEMANDE D'AUTORISATION DE DEMOLIR UNE PROPRIETE COMMUNALE SISE 93 ter AVENUE DE GAULLE
+
+- Collectivité : Rosny-sous-Bois
+- SIREN : 219300647
+- Code INSEE : 93064
+- Date : 2013-10-15
+- Objet : DEMANDE D'AUTORISATION DE DEMOLIR UNE PROPRIETE COMMUNALE SISE 93 ter AVENUE DE GAULLE
+- Jeu de données : https://www.data.gouv.fr/datasets/5ba3983f634f41312a65602e
