@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130606972
+
+- Question : [SEQ130606972](seq130606972.md) — Peines prononcées contre les agresseurs du RER D
+
+## Réponse
+
+*Justice, JO du 2013-10-17, page 3031*
+
+Il n'appartient pas à la garde des sceaux, en application du principe constitutionnel de séparation des pouvoirs, de formuler des appréciations sur les décisions de justice prises en toute indépendance par les magistrats. La circulaire de politique pénale de la garde des sceaux du 19 septembre 2012 précise que les sanctions requises doivent être justes et adaptées et que toute décision doit être individualisée. Dès lors, les décisions sont prises en considération des éléments de fait, du contexte et de la personnalité des mis en cause. Dans le cas d'espèce évoqué, les juges du fond ont rendu leur décision en faisant une appréciation souveraine de ces éléments. Par ailleurs, la loi n° 2013-669 du 25 juillet 2013 relative aux attributions du garde des sceaux et des magistrats du ministère public en matière de politique pénale et de mise en œuvre de l'action publique, en son article premier, interdit au ministre de la justice d'adresser aux parquets des instructions dans les affaires individuelles. Cette loi consacre un engagement du président de la République, mis en œuvre par la garde des sceaux dès sa circulaire de politique pénale précitée, afin de mettre fin à toute suspicion d'intervention inappropriée du ministre de la justice ou d'un autre membre de l'exécutif dans l'exercice de l'action publique. Dès lors, l'opportunité de relever appel des jugements rendus a été appréciée en toute indépendance par le parquet en fonction des éléments dont il disposait. Dans l'affaire visée, le procureur de la République l'a fait pour le majeur qui a été relaxé, les onze autres mis en cause étant tous mineurs.
