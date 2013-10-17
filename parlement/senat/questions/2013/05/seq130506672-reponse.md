@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506672
+
+- Question : [SEQ130506672](seq130506672.md) — Construction menaçant la voie publique
+
+## Réponse
+
+*Intérieur, JO du 2013-10-17, page 3023*
+
+Le cas de figure évoqué relève de la police des bâtiments menaçant ruine, laquelle ressort de la compétence du maire et est régie par les articles L. 511-1 à L. 511-6 du code de la construction et de l'habitation. En cas de péril ordinaire, l'intervention du juge n'intervient qu'après que plusieurs étapes procédurales ont été accomplies. Il revient d'abord au maire de prescrire au propriétaire du bâtiment concerné les mesures nécessaires de réparation ou de démolition dès lors que ce bâtiment n'offre pas les garanties de solidité nécessaires au maintien de la sécurité publique (article L. 511-1). Sur le rapport d'un homme de l'art, le maire constate la réalisation des travaux prescrits ainsi que leur date d'achèvement et prononce la mainlevée de l'arrêté de péril. Si le propriétaire n'exécute pas ces prescriptions dans le délai fixé par le maire, ce dernier le met en demeure de les exécuter dans un délai qui ne peut être inférieur à un mois. À défaut de réalisation des travaux dans ce délai, le maire, par décision motivée, peut faire procéder d'office à leur exécution. Il peut également faire procéder à la démolition prescrite, sur ordonnance du juge judiciaire statuant en la forme des référés, rendue à sa demande (article L. 511-2). En cas de péril imminent pour la sécurité publique, le maire, après avertissement adressé au propriétaire, demande au tribunal administratif dans le ressort duquel se trouve le bâtiment concerné, la nomination d'un expert. Si le rapport de l'expert conclut à l'existence d'un péril grave et imminent, le maire ordonne les mesures provisoires nécessaires pour garantir la sécurité publique. Dans le cas où ces mesures n'auraient pas été exécutées dans le délai imparti, le maire les fait exécuter d'office.
