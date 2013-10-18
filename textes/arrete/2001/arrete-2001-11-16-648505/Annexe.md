@@ -30,7 +30,9 @@ Secrétaire général du Gouvernement
 
 |
 
-Directeur général de l'administration et de la fonction publique, délégué interministériel à la réforme de l'Etat
+Directeur général de l'administration et de la fonction publique,
+
+délégué interministériel à la réforme de l'Etat
 
 |
 
@@ -144,7 +146,9 @@ Chef de service, directeur de l'académie du renseignement |
 
 |
 
-Chef de service, adjoint au délégué à la modernisation de la gestion publique et des structures de l'Etat,
+Chef de service, adjoint au délégué à la modernisation de la gestion publique
+
+et des structures de l'Etat,
 
 |
 
@@ -180,7 +184,11 @@ Sous-directeur à la direction des services administratifs et financiers
 
 |
 
-Sous-directeur de l'information et de la légistique, des carrières et des rémunérations et sous-directeur des politiques interministérielles à la direction de l'administration et de la fonction publique
+Sous-directeur de l'information et de la légistique, des carrières et des rémunérations
+
+et sous-directeur des politiques interministérielles à la direction de l'administration
+
+et de la fonction publique
 
 |
 
@@ -194,13 +202,21 @@ Sous-directeur de l'information et de la légistique, des carrières et des rém
 
 Sous-directeur à la direction de l'information légale et administrative |
 
-2
+1
 
 |
 
 110
 
 |
+
+Expert de haut niveau auprès du directeur de l'information légale
+
+et administrative chargé de l'innovation, du développement et de la stratégie |
+
+1 |
+
+90 |
 
 Secrétaire général de la direction de l'information légale et administrative |
 
@@ -374,7 +390,9 @@ de points par emploi
 
 |
 
-Chef de service, chargé de la prospective, des études de l'évaluation et de l'action internationale |
+Chef de service, chargé de la prospective, des études de l'évaluation
+
+et de l'action internationale |
 
 1
 
