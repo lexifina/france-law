@@ -1,144 +1,100 @@
 # Article Annexe 3
 
-FONCTIONNEMENT ET TARIFS EN MODE DE MISE A DISPOSITION DU SYSTEME ELECTRIQUE
+RÉMUNÉRATION PROPORTIONNELLE À LA PUISSANCE GARANTIE APPLICABLE AUX INSTALLATIONS DONT LA DATE DE DEMANDE DE CONTRAT EST POSTÉRIEURE AU 19 OCTOBRE 2013
 
-En application de l'article 8, si le prix annuel du gaz dépasse le prix-plafond calculé pour une fourniture exclusivement en hiver, le producteur peut décider de mettre son installation à la disposition du système électrique. La décision de fourniture de l'énergie est alors prise par l'acheteur en fonction des besoins du système électrique.
+1° L'acheteur verse à la fin de chaque mois d'hiver M, pour la mise à disposition par le producteur de la puissance électrique garantie stipulée dans le contrat, une prime fixe. Le montant de cette prime fixe est calculé comme ci-après. Les modalités de versement sont précisées au 6°.
 
-Le producteur et l'acheteur signent alors un avenant au contrat d'achat, qui précise les éléments suivants :
+La prime fixe annuelle PF est égale à :
 
-- période de mise à disposition : au minimum un mois ;
-
-- période d'appel possible : au minimum 24 h ;
-
-- préavis d'appel : au minimum 15 h.
-
-En dehors des périodes d'appel de la période de mise à disposition, le producteur a la faculté de laisser son installation en service, et de fournir ainsi à l'acheteur l'énergie produite à un tarif moindre, essentiellement pour des périodes d'essais.
-
-Pour l'application de la présente annexe, la définition du prix annuel du gaz est la suivante :
-
-Prg = ((dfh1 x pgh1 + dfh2x pgh2 + ... + dfhnx pghn) + (dfe x prix d'été du gaz)) / (dfh1 + dfh2 + ...+ dfhn +
-
-dfe)
-
-où dfhi est la durée d'application du prix du gaz pghi, entre le 1er novembre et la date de mise à disposition et dfe est la durée de fourniture en été.
-
-Les tarifs applicables à partir de la date de mise à disposition de l'installation, exprimés en c€/kWh hors TVA, comportent :
-
-- une prime fixe fonction de la tension de raccordement de l'installation et du respect de la puissance électrique garantie en hiver par le producteur. Cette prime est calculée conformément au 1° de la présente annexe.
-
-- une rémunération de l'énergie électrique active fournie prévue au 2° de la présente annexe.
-
-1° PRIME FIXE
-
-Chaque premier démarrage effectif de l'installation en réponse à un appel de l'acheteur donne lieu à un versement fixe CD, sur la base des montants exprimés au 3° ci-dessous.
-
-L'acheteur verse à la fin de chaque mois d'hiver, pour la mise à disposition par le producteur de la puissance électrique garantie stipulée dans le contrat, une prime fixe PFM dont le montant est calculé comme ci-après :
-
-PFM = PGH x (TB x F(DM) + AG) x N/5
+PF = PGH × CE × { TB × F (DM) + AG × Ndispo + CD × Ndem }.
 
 Formule dans laquelle :
 
-- PGH est la puissance électrique garantie par le producteur en hiver, figurant dans le contrat ;
+PGH est la puissance électrique garantie par le producteur en hiver, figurant dans le contrat ;
 
-- TB est le taux de base annuel de la prime fixe, dont la valeur en €/kW hors TVA figure au 3° de la
+TB est le taux de base annuel de la prime fixe défini au 2° de la présente annexe ;
 
-présente annexe ;
+CE est le coefficient à l'efficacité énergétique de la prime fixe, dont la valeur est définie au 5° de la présente annexe ;
 
-- AG est le montant annuel des frais fixes liés à la fourniture en gaz naturel, dont la valeur figure au 3° de la présente annexe ;
+AG est le montant annuel des frais fixes liés à la fourniture en gaz naturel, dont la valeur figure au 4° de la présente annexe ;
 
-- N est le nombre de mois d'hiver où l'installation est mise à disposition du système électrique ;
+Ndispo est le nombre de mois d'hiver où l'installation est mise à disposition du système électrique ;
 
-- DM est la disponibilité moyenne calculée selon les modalités ci-dessous;
+Ndem est un nombre de démarrages défini comme suit :
 
-- F(DM) est le coefficient suivant :
+- lorsque l'installation fonctionne en mode continu semaine pleine , Ndem est égal à zéro ;
 
-si DM < 0,90
+- lorsque l'installation fonctionne en mode continu jours ouvrés , Ndem est égal au nombre de démarrages prévus pendant la période d'hiver résultant de l'application de ce mode de fonctionnement. Ce nombre est défini avant chaque période d'hiver en considérant les premiers démarrages des lundis et des lendemains de jours fériés suivis d'un jour ouvré ;
 
-|
+- lorsque l'installation est dans le mode mise à disposition du système électrique , Ndem est égal au nombre de premiers démarrages effectifs de l'installation en réponse à un appel de l'acheteur ;
 
-F(DM) = 0,95 - ( 0,90 - DM ) x 1,5
+CD est le versement fixe correspondant aux démarrages définis ci-dessus. Sa valeur figure au 4° de la présente annexe ;
 
-|
+F (DM) est le coefficient suivant :
 
-avec F(DM) ≥ 0
-
-|
-
-si 0,90 ≤ DM < 0,95
+Si DM < 0,90
 
 |
 
-F(DM) = 1 - ( 0,95 - DM )
+F (DM) = 0,90 - (0,90 - DM) × 3
+
+|
+
+Avec F (DM) ≥ 0
+
+|
+
+Si 0,90 ≤ DM < 0,95
+
+|
+
+F (DM) = 1 - (0,95 - DM) × 2
 
 |
 
 |
 
-si DM = 0,95
+Si DM = 0,95
 
 |
 
-F(DM) = 1
+F (DM) = 1
 
 |
 
 |
 
-si DM > 0,95
+Si DM > 0,95
 
 |
 
-F(DM) = 1 + ( DM - 0,95 ) x 0,5
+F (DM) = 1 + (DM - 0,95) × 0,5
 
 |
 
-avec F(DM)≤ 1,025
+Avec F (DM) ≤ 1,025
 
 |
 
-La disponibilité effective (DE) de l'installation est calculée pendant les périodes d'appel selon les modalités prévues au 1° de l'annexe 1. L'énergie produite par l'installation de cogénération en dehors des périodes d'appel n'est pas comptabilisée dans le calcul de la disponibilité effective.
+Avec F (DM) = 0 pour DM = 60 % et F (DM) = 0,6 pour DM = 80 % :
 
-Dans le cas où l'installation utilise des turbines, le producteur peut opter pour une correction de la disponibilité effective en fonction de la température extérieure moyenne constatée sur les périodes d'appel, selon les modalités ci-après. Si la température extérieure Tm, calculée en moyenne sur les périodes d'appel, dépasse 5°C, la disponibilité effective DE est corrigée en appliquant le coefficient multiplicatif suivant :
+- DM est la disponibilité moyenne calculée selon les modalités du 3° ci-dessous.
 
-KTm = 100 / ( - 0,67 x Tm + 103,35 )
+Cette prime fixe annuelle ne peut être négative.
 
-La disponibilité moyenne (DM) est calculée en pondérant la disponibilité effective DE, éventuellement corrigée selon les dispositions ci-dessus, par la disponibilité de référence (0,95) appliquée sur une période d'appel de référence (Hr), selon la formule suivante :
+2° Valeurs du taux de base annuel
 
-DM = (DE x H + 0.95 x (Hr -H)) / Hr si H ≤ Hr
-
-DM = DE si H > Hr
-
-Formules dans lesquelles :
-
-- H est le nombre d'heures correspondant aux périodes d'appel ;
-
-- Hr=(N/5 x Ho) - Hi
-
-- Hi est le nombre d'heures d'indisponibilité programmée de l'installation, plafonné à 300 h ;
-
-- Ho = 1440 heures ;
-
-- N est le nombre de mois où l'installation est mise à disposition du système électrique.
-
-2° REMUNERATION DE L'ENERGIE ELECTRIQUE ACTIVE FOURNIE
-
-L'énergie électrique active fournie est facturée à l'acheteur sur la base des montants définis au 3° de la présente annexe.
-
-Ces tarifs sont exprimés en c€/kWh hors TVA et sont la somme de quatre composantes : une rémunération fonction de la puissance électrique garantie et de la tension de raccordement, pendant les périodes d'appel ; une rémunération fonction du prix du gaz pendant les périodes d'appels ; une prime fonction de l'économie d'énergie primaire pendant les périodes d'appels ; une rémunération hors des périodes d'appel.
-
-3° VALEURS DES TARIFS
-
-Taux de base annuel de la prime fixe TB (€/kW)
+TAUX DE BASE ANNUEL DE LA PRIME FIXE TB (€/ kW)
 
 |
 
 HTA et BT
 
-(moyenne/basse tensions)
+(moyenne et basse tensions)
 
 |
 
-144,94 - 1,71 x (0,001 x PGH - 5) avec PGH exprimé en kW
+144,94 - 1,71 × (0,001 × PGH - 5) avec PGH exprimé en kW
 
 (avec 136,39 ≤ TB ≤ 153,49)
 
@@ -150,7 +106,7 @@ HTB
 
 |
 
-144,94 - 1,71 x (0,001 x PGH - 5)
+144,94 - 1,71 × (0,001 × PGH - 5)
 
 (avec 132,97 ≤ TB ≤ 136,39)
 
@@ -164,15 +120,39 @@ HTB
 
 |
 
-Versement fixe à chaque démarrage CD
+Ces valeurs sont indexées en application des articles 4 et 9.
 
-(c€/kW de PGH)
+3° Disponibilité
+
+La disponibilité effective en hiver (DE) est définie comme le rapport de l'énergie effectivement livrée pendant les périodes d'appel sous une puissance électrique instantanée inférieure ou égale à 1,075 fois la puissance électrique garantie PGH, sur l'énergie qu'aurait livrée l'installation si elle avait fonctionné sous la puissance électrique garantie en permanence pendant les périodes d'appel.
+
+L'énergie produite par l'installation de cogénération en dehors des périodes d'appel n'est pas comptabilisée dans le calcul de la disponibilité effective.
+
+Pour les installations dans le mode continu semaine pleine ou le mode continu jours ouvrés , la disponibilité moyenne DM est égale à la disponibilité effective DE.
+
+1. Cas particulier pour le mode
+
+mise à disposition du système électrique
+
+Pour une installation dans le mode mise à disposition du système électrique sur un mois donné de l'hiver tarifaire, la disponibilité moyenne DM (M) sur ce mois est égale soit à la disponibilité effective DE si au moins un appel a été réalisé, soit à la disponibilité de référence (0,95). DM (M) ne peut en outre pas être inférieur à 60 % pour un mois où l'installation est dans le mode mise à disposition du système électrique .
+
+Dans tous les cas, la disponibilité moyenne DM sur l'hiver correspond à la moyenne des disponibilités mensuelles.
+
+4° Versements fixes
+
+VERSEMENT FIXE CD
+
+(démarrage)
+
+(c €/ kW de PGH)
 
 |
 
-Montant représentatif des frais fixes liés à la
+MONTANT REPRÉSENTATIF DES FRAIS FIXES
 
-fourniture en gaz naturel AG (€/kW de PGH)
+liés à la fourniture en gaz naturel
+
+AG (€/ kW de PGH)
 
 |
 
@@ -180,104 +160,50 @@ fourniture en gaz naturel AG (€/kW de PGH)
 
 |
 
-9,15
+1,83
 
 |
 
-Rémunération de l'énergie électrique active fournie (c€/kWh) pendant les périodes d'appel
+5° Valeur du coefficient à l'efficacité énergétique de la prime fixe
+
+COEFFICIENT À L'EFFICACITÉ ÉNERGÉTIQUE DE LA PRIME FIXE CE
 
 |
 
-Rémunération proportionnelle RP, versée uniquement pour l'énergie livrée
-
-sous une puissance instantanée inférieure ou égale à PGH (0 sinon)
+Si Ep = 10 %
 
 |
 
-Rémunération
-
-du gaz
+CE = 0,9
 
 |
 
-Prime à l'efficacité
-
-énergétique
+Si Ep = 16 %
 
 |
 
-HTA/BT
-
-(moyenne et
-
-basse tension)
+CE = 1
 
 |
 
-0,58 - 0,015 x (0,001 x PGH - 5) avec PGH exprimé en kW avec 0,51≤ RP≤ 0,65
+Si Ep = 40 %
 
 |
 
-tarif du gaz
-
-(hiver/été) en
-
-c€/kWh PCI,
-
-divisé par 0,54
+CE = 1,05
 
 |
 
-8 x (Ep - 0,05)
+Dans ce tableau, l'économie d'énergie primaire, Ep est définie par la formule figurant au a de l'article 2 de l'arrêté du 3 juillet susvisé.
 
-plafonné à
+Pour le calcul de CE, lorsque Ep est compris entre deux valeurs du tableau, la valeur de CE est obtenue par interpolation linéaire des deux valeurs de CE encadrantes.
 
-180 k€/an
+6° Modalité de versement
 
-|
+La prime est versée mensuellement selon les modalités suivantes :
 
-HTB
+- la prime fixe mensuelle PFM, mois de mars excepté, est égale à : PFM = PGH × TBM × 0,95 ;
 
-(haute tension)
+- la prime fixe du mois de mars PFMmars est égale à : PFMmars = PF - 4 × (PGH × TBM × 0,95).
 
-|
-
-0,58 - 0,015 x (0,001 x PGH - 5) avec PGH exprimé en kW
-
-avec 0,48 ≤ RP ≤ 0,51
-
-|
-
-225 kV
-
-|
-
-0,31
-
-|
-
-Dans ce tableau, le tarif du gaz est le tarif saisonnier grand transport applicable à un industriel. En cas de disparition de ce tarif ou de déconnexion entre ce tarif et les prix effectivement pratiqués, un nouveau paramètre d'indexation du prix du gaz sera défini par arrêté du ministre chargé de l'électricité.
-
-Dans ce tableau, l'économie d'énergie primaire Ep est définie par la formule figurant au a) de l'article 2 de l'arrêté du 3 juillet susvisé.
-
-Dans le cas où, pendant la durée de la mise à disposition, l'acheteur n'appelle pas l'installation d'une manière suffisamment significative pour permettre le calcul de Ep, celui-ci sera pris égal à la valeur constatée l'année précédente. Si l'installation ne dispose d'aucun historique, les deux parties se rapprocheront pour adapter la règle existante.
-
-Rémunération de l'énergie électrique active fournie (c€/kWh) hors des périodes d'appel
-
-|
-
-heures pleines
-
-|
-
-heures creuses
-
-|
-
-2,16
-
-|
-
-1,45
-
-|
+Formules dans lesquelles TBM est le taux de base de la prime fixe mensuelle, égal au cinquième du taux de base annuel TB défini ci-dessus.
