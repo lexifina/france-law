@@ -1810,6 +1810,24 @@ e) Le câble peut être brut ou peint en noir
 
 |
 
+49 |
+
+Etablissement MCL 59136 Wavrin |
+
+|
+
+Diamètre du lacet = 3 mm |
+
+781 |
+
+a) Patte anti retour
+
+b), c), d) Bagues métalliques serties
+
+e) Le collet dispose d'un double émerillon près de la butée d'ouverture
+
+|
+
 4
 
 |
@@ -2621,6 +2639,90 @@ Longueur piège : 20 cm.
 |
 
 Piège rond à déclenchement par une palette.
+
+|
+
+|
+
+18 |
+
+Piège à lacet de cou
+
+|
+
+Etablissement MCL 59136 Wavrin
+
+|
+
+Piège "Collarum"
+
+|
+
+Dimension du dispositif métallique déclenché :
+
+30 × 25 cm
+
+Diamètre du collet : 8 mm
+
+|
+
+827
+
+|
+
+Ce piège est formé de trois parties : un dispositif métallique armé d'un bras à deux branches, un collet avec arrêtoir muni d'un amortisseur près de l'émerillon et un ressort permettant d'enserrer le lacet autour du cou.
+
+|
+
+|
+
+19 |
+
+Piège à lacet de patte
+
+|
+
+Claude Roques, 27, Les Martels, 81240 Saint-Amans-Soult |
+
+Piège "Maroq"
+
+|
+
+Dimension du piège tendu : 23 × 15 cm
+
+Diamètre de la palette : 5 cm
+
+|
+
+828 |
+
+Piège à déclenchement par une palette projetant le lacet par un bras
+
+|
+
+|
+
+20 |
+
+Piège à lacet de patte
+
+|
+
+André Maruejouls, La Grange Réauté, 35235 Thorigné-Fouillard
+
+|
+
+Piège "Maruejouls" |
+
+Dimension du piège tendu : 27 × 8,5 cm
+
+Dimension de la palette : 6,5 × 7 cm
+
+|
+
+829 |
+
+Piège rectangulaire à déclenchement par une palette projetant le lacet par un bras-ressort
 
 |
 

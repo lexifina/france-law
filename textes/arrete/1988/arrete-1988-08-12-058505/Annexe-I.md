@@ -532,6 +532,68 @@ Conforme au descriptif adressé au ministère chargé de la chasse
 
 |
 
+15
+
+|
+
+Piège "livre de messe" type "tapette"
+
+|
+
+Etablissement MCL 59136 Wavrin
+
+|
+
+Piège "TRM"
+
+|
+
+Piège fermé :
+
+Longueur 27 cm
+
+Largeur 17 cm
+
+Hauteur 5 cm
+
+Piège ouvert :
+
+Hauteur 10 cm
+
+|
+
+917
+
+|
+
+Conforme au descriptif adressé au ministère chargé de la chasse
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1° Dans les marais et jusqu'à 200 m des cours d'eau, des étangs ou des marais uniquement avec appât végétal, pour le piégeage des rats musqués ;
+
+2° A plus de 200 m des cours d'eau, des étangs ou des marais :
+
+- en gueule de terrier et dans les bottes de paille et de foin ;
+
+- au bois, dans une enceinte ménageant une ou des ouvertures d'une largeur inférieure ou égale à 15 cm ;
+
+- dans une boîte ménageant une ou des ouvertures inférieures ou égales à 11 x 11 cm.
+
+|
+
+|
+
 |
 
 |
