@@ -986,7 +986,11 @@ A
 
 |
 
+A. Quelle que soit la capacité
+
 |
+
+6
 
 |
 
@@ -998,7 +1002,11 @@ B. - Emploi ou stockage
 
 |
 
+B. La quantité totale susceptible d'être présente dans l'installation étant :
+
 |
+
+2
 
 |
 
@@ -1010,7 +1018,11 @@ B. - Emploi ou stockage
 
 |
 
+1. Supérieure ou égale à 50 t
+
 |
+
+2
 
 |
 
@@ -1052,7 +1064,11 @@ D
 
 |
 
+2. Supérieure ou égale à 10 t
+
 |
+
+2
 
 |
 
@@ -1094,7 +1110,11 @@ D
 
 |
 
+3. Supérieure ou égale à 2 t
+
 |
+
+2
 
 |
 
@@ -1119,6 +1139,16 @@ b) Supérieure ou égale à 200 kg, mais inférieure à 2 t
 |
 
 D
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -1408,7 +1438,7 @@ a) supérieure ou égale à 200 t
 
 |
 
-b) supérieure à 1, 5 t, mais inférieure à 200 t
+b) supérieure à 1,5 t, mais inférieure à 200 t
 
 |
 
@@ -1420,7 +1450,7 @@ A
 
 |
 
-b) supérieure à 1, 5 t, mais inférieure à 200 t
+b) supérieure à 1,5 t, mais inférieure à 200 t
 
 |
 
@@ -1428,7 +1458,7 @@ b) supérieure à 1, 5 t, mais inférieure à 200 t
 
 |
 
-c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1, 5 t
+c) supérieure ou égale à 150 kg, mais inférieure ou égale à 1,5 t
 
 |
 
@@ -2046,7 +2076,9 @@ AS
 
 |
 
-a) supérieure ou égale à 100 kg |
+a) supérieure ou égale à 100 kg
+
+|
 
 10
 
@@ -2212,7 +2244,9 @@ AS
 
 |
 
-a) supérieure ou égale à 1 t |
+a) supérieure ou égale à 1 t
+
+|
 
 10
 
@@ -2266,7 +2300,9 @@ AS
 
 |
 
-a) supérieure ou égale à 2 t |
+a) supérieure ou égale à 2 t
+
+|
 
 10
 
@@ -2320,7 +2356,9 @@ AS
 
 |
 
-a) supérieure ou égale à 20 t |
+a) supérieure ou égale à 20 t
+
+|
 
 10
 
@@ -2374,7 +2412,9 @@ AS
 
 |
 
-a) supérieure ou égale à 50 t |
+a) supérieure ou égale à 50 t
+
+|
 
 10
 
@@ -2424,7 +2464,9 @@ AS |
 
 6 |
 
-a) supérieure ou égale à 100 t |
+a) supérieure ou égale à 100 t
+
+|
 
 10
 
@@ -2704,7 +2746,9 @@ A
 
 |
 
-b) supérieure ou égale à 20 kg, mais inférieure à 100 kg |
+b) supérieure ou égale à 20 kg, mais inférieure à 100 kg
+
+|
 
 6
 
@@ -2750,7 +2794,9 @@ AS
 
 |
 
-a) supérieure ou égale à 150 kg |
+a) supérieure ou égale à 150 kg
+
+|
 
 10
 
@@ -2818,7 +2864,9 @@ AS
 
 |
 
-a) supérieure ou égale à 1 t |
+a) supérieure ou égale à 1 t
+
+|
 
 10
 
@@ -2884,7 +2932,9 @@ AS
 
 |
 
-a) supérieure ou égale à 1 t |
+a) supérieure ou égale à 1 t
+
+|
 
 10
 
@@ -2902,7 +2952,9 @@ A
 
 |
 
-b) supérieure ou égale à 200 kg, mais inférieure à 1 t |
+b) supérieure ou égale à 200 kg, mais inférieure à 1 t
+
+|
 
 6
 
@@ -2950,7 +3002,9 @@ AS
 
 |
 
-a) supérieure ou égale à 2 t |
+a) supérieure ou égale à 2 t
+
+|
 
 10
 
@@ -3014,7 +3068,9 @@ AS
 
 |
 
-a) supérieure ou égale à 20 t |
+a) supérieure ou égale à 20 t
+
+|
 
 10
 
@@ -3032,7 +3088,9 @@ A
 
 |
 
-b) supérieure ou égale à 10 t, mais inférieure à 20 t |
+b) supérieure ou égale à 10 t, mais inférieure à 20 t
+
+|
 
 6
 
@@ -3078,7 +3136,9 @@ AS
 
 |
 
-a) supérieure ou égale à 50 t |
+a) supérieure ou égale à 50 t
+
+|
 
 10
 
@@ -3096,7 +3156,9 @@ A
 
 |
 
-b) supérieure ou égale à 5 t, mais inférieure à 50 t |
+b) supérieure ou égale à 5 t, mais inférieure à 50 t
+
+|
 
 6
 
@@ -3892,13 +3954,9 @@ La quantité de liquides organohalogénés susceptible d'être présente dans l'
 
 |
 
-A
+A |
 
-|
-
-1
-
-|
+1 |
 
 a) supérieure ou égale à 25 000 l
 
@@ -4114,7 +4172,7 @@ Le volume des équipements susceptibles de contenir des fluides étant :
 
 |
 
-1. La quantité totale de fluide susceptible d'être présente dans l'installation étant supérieure à 8 000 l
+1. Le volume des équipements susceptibles de contenir des fluides étant supérieur à 8 000 l
 
 |
 
@@ -4204,11 +4262,11 @@ D
 
 |
 
-3. Quelle que soit la capacité
+3. Non soumis à la taxe.
 
 |
 
-1
+-
 
 |
 
@@ -4324,7 +4382,9 @@ AS
 
 |
 
-a) supérieure ou égale à 200 t |
+a) supérieure ou égale à 200 t
+
+|
 
 10
 
@@ -4366,7 +4426,9 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
-a) Supérieure ou égale à 200 t |
+a) Supérieure ou égale à 200 t
+
+|
 
 AS
 
@@ -4376,7 +4438,9 @@ AS
 
 |
 
-a) supérieure ou égale à 200 t |
+a) supérieure ou égale à 200 t
+
+|
 
 6
 

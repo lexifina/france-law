@@ -410,7 +410,7 @@ Règles de classement :
 
 |
 
-1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au titre de la présente nomenclature dès lors qu'elles sont mises en œuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à autorisation au titre d'une autre rubrique de la nomenclature.
+1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au titre de la présente nomenclature dès lors qu'elles sont mises en oeuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à autorisation au titre d'une autre rubrique de la nomenclature.
 
 |
 
@@ -1340,7 +1340,7 @@ Couvoirs
 
 |
 
-Capacité logeable d'eau moins 100 000 oeufs
+Capacité logeable d'eau moins 100 000 œufs
 
 |
 
@@ -2064,8 +2064,6 @@ A
 
 |
 
-1. La capacité de production étant :
-
 |
 
 |
@@ -2078,11 +2076,7 @@ B. - Autres installations que celles visées au A, la quantité de produits entr
 
 |
 
-a) supérieure à 250 t/j
-
 |
-
-3
 
 |
 
@@ -2110,11 +2104,7 @@ D
 
 |
 
-b) supérieure à 10 t/j, mais inférieure ou égale à 250 t/j
-
 |
-
-1
 
 |
 
@@ -2366,7 +2356,7 @@ Production par distillation d'alcools de bouche d'origine agricole
 
 La capacité de production exprimée en équivalent alcool pur étant :
 
-1. Supérieure à 1 300 hl/ j
+1. Supérieure à 1 300 hl/j
 
 |
 
@@ -2386,7 +2376,7 @@ A
 
 |
 
-2. Supérieure à 30 hl/ j et inférieure ou égale à 1 300 hl/ j
+2. Supérieure à 30 hl/j et inférieure ou égale à 1 300 hl/j
 
 |
 
@@ -2400,7 +2390,7 @@ E
 
 |
 
-3. Supérieure à 0,5 hl/ j et inférieure ou égale à 30 hl/ j
+3. Supérieure à 0,5 hl/j et inférieure ou égale à 30 hl/j
 
 |
 
@@ -2414,7 +2404,7 @@ D
 
 |
 
-Nota. - Pour les installations de distillation discontinue, le seuil, prévu aux points 2 et 3 ci-dessus, de 30 hl/ j de capacité de production d'alcool pur est remplacé par un seuil de 50 hl de capacité totale de charge des alambics.
+Nota. - Pour les installations de distillation discontinue, le seuil, prévu aux points 2 et 3 ci-dessus, de 30 hl/j de capacité de production d'alcool pur est remplacé par un seuil de 50 hl de capacité totale de charge des alambics.
 
 |
 
@@ -2470,7 +2460,7 @@ B. Autres installations que celles visées au A, la capacité de production éta
 
 |
 
-1. Supérieure à 20 000 hl/ an
+1. Supérieure à 20 000 hl/an
 
 |
 
@@ -2480,15 +2470,11 @@ E
 
 |
 
-1. La capacité de l'installation étant supérieure à 50 000 hl/an
+|
 
 |
 
-1
-
-|
-
-2. Supérieure à 500 hl/ an, mais inférieure ou égale à 20 000 hl/ an
+2. Supérieure à 500 hl/an, mais inférieure ou égale à 20 000 hl/an
 
 |
 
@@ -2676,7 +2662,7 @@ AS
 
 |
 
-2. supérieure ou égale à 500 m ³
+2. supérieure ou égale à 500 m³
 
 |
 
@@ -2688,7 +2674,7 @@ A
 
 |
 
-2. supérieure ou égale à 500 m ³
+2. supérieure ou égale à 500 m³
 
 |
 
@@ -2696,7 +2682,7 @@ A
 
 |
 
-3. supérieure ou égale à 50 m ³
+3. supérieure ou égale à 50 m³
 
 |
 
@@ -2812,7 +2798,7 @@ D
 
 |
 
-Fermentation acétique en milieu liquide (mise en oeuvre d'un procédé de)
+Fermentation acétique en milieu liquide (mise en œuvre d'un procédé de)
 
 |
 
@@ -3556,7 +3542,7 @@ D
 
 |
 
-Installations de mise en oeuvre de produits de préservation du bois et matériaux dérivés
+Installations de mise en œuvre de produits de préservation du bois et matériaux dérivés
 
 |
 

@@ -74,7 +74,7 @@ A
 
 |
 
-a) supérieure à 5 MW
+a) Supérieure à 5 MW
 
 |
 
@@ -92,7 +92,7 @@ E
 
 |
 
-b) supérieure à 500 kW, mais inférieure ou égale à 5 MW
+b) Supérieure à 550 kW, mais inférieure ou égale à 5 MW
 
 |
 
@@ -136,9 +136,7 @@ La puissance installée des installations, étant :
 
 |
 
-a) Supérieure à 350 kW
-
-|
+a) Supérieure à 350 kW |
 
 E
 
@@ -254,7 +252,7 @@ E
 
 |
 
-3. Supérieure à 5 000 m², mais inférieure ou égale à 10 000 m².
+3. Supérieure à 5 000 m², mais inférieure ou égale à 10 000 m²
 
 |
 
@@ -268,6 +266,8 @@ D
 
 |
 
+2518
+
 |
 
 Installation de production de béton prêt à l'emploi équipée d'un dispositif d'alimentation en liants hydrauliques mécanisé, à l'exclusion des installations visées par la rubrique 2522. La capacité de malaxage étant :
@@ -279,10 +279,6 @@ Installation de production de béton prêt à l'emploi équipée d'un dispositif
 |
 
 |
-
-|
-
-2518
 
 |
 
@@ -454,7 +450,9 @@ D
 
 |
 
-Installation de fabrication de produits en béton par procédé mécanique. La puissance installée du matériel de malaxage et de vibration, étant :
+Installation de fabrication de produits en béton par procédé mécanique. La
+
+puissance installée du matériel de malaxage et de vibration, étant :
 
 |
 
@@ -522,7 +520,7 @@ A
 
 |
 
-La capacité de production étant supérieure à 20 t/ j
+La capacité de production étant supérieure à 20 t/j
 
 |
 
@@ -1510,7 +1508,7 @@ Revêtement métallique ou traitement (nettoyage, décapage, conversion, polissa
 
 |
 
-1. Lorsqu'il y a mise en oeuvre de cadmium
+1. Lorsqu'il y a mise en œuvre de cadmium
 
 |
 
@@ -1530,7 +1528,7 @@ A
 
 |
 
-2. Procédés utilisant des liquides (sans mise en oeuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 |
 
@@ -1974,7 +1972,7 @@ Colorants et pigments organiques, minéraux et naturels (fabrication industriell
 
 |
 
-1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en œuvre dans un procédé d'une autre installation
+1. Fabrication industrielle de produits destinés à la mise sur le marché ou à la mise en oeuvre dans un procédé d'une autre installation
 
 |
 
@@ -2468,7 +2466,7 @@ D
 
 |
 
-2. Utilisation d'organismes génétiquement modifiés de classe de confinement 2,3,4
+2. Utilisation d'organismes génétiquement modifiés de classe de confinement 2, 3, 4
 
 |
 
@@ -2854,7 +2852,7 @@ A
 
 |
 
-Installation de transit, regroupement ou tri de métaux ou de déchets de métaux non dangereux, d'alliage de métaux ou de déchets d'alliage de métaux non dangereux, à l'exclusion des activités et installations visées aux rubriques 2710,2711 et 2712.
+Installation de transit, regroupement ou tri de métaux ou de déchets de métaux non dangereux, d'alliage de métaux ou de déchets d'alliage de métaux non dangereux, à l'exclusion des activités et installations visées aux rubriques 2710, 2711 et 2712.
 
 |
 
@@ -3054,33 +3052,7 @@ Installation de transit, regroupement ou tri de déchets contenant des substance
 
 |
 
-La quantité susceptible d'être présente étant :
-
 |
-
-|
-
-|
-
-|
-
-1. Supérieure ou égale à 50 t
-
-|
-
-10
-
-|
-
-|
-
-|
-
-2. Inférieure à 50 t
-
-|
-
-3
 
 |
 
@@ -3113,6 +3085,42 @@ A
 |
 
 |
+
+|
+
+|
+
+|
+
+|
+
+La quantité susceptible d'être présente étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure ou égale à 50 t |
+
+10
+
+|
+
+|
+
+|
+
+|
+
+2. Inférieure à 50 t |
+
+3
 
 |
 
@@ -3192,9 +3200,7 @@ DC
 
 |
 
-a) Supérieure ou égale à 50 t
-
-|
+a) Supérieure ou égale à 50 t |
 
 6
 
@@ -3220,9 +3226,7 @@ b) Supérieure ou égale à 1 t et inférieure à 50 t
 
 |
 
-2. Non soumis à la taxe
-
-|
+2. Non soumis à la taxe |
 
 -
 
@@ -3476,25 +3480,13 @@ Installation de stockage de déchets autre que celles mentionnées à la rubriqu
 
 |
 
+Quels que soient les déchets stockés :
+
 |
 
 |
 
 1. Installation de stockage de déchets dangereux ;
-
-|
-
-A
-
-|
-
-2
-
-|
-
-|
-
-|
 
 2. Installation de stockage de déchets non dangereux.
 
@@ -3502,23 +3494,17 @@ A
 
 A
 
+A
+
 |
+
+2
 
 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-1. La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant supérieure ou égale à 25 000 t
+a) La capacité journalière autorisée étant supérieure ou égale à 10 t/j ou la capacité totale de l'installation étant supérieure ou égale à 25 000 t
 
 |
 
@@ -3532,7 +3518,7 @@ A
 
 |
 
-2. La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25 000 t
+b) La capacité journalière autorisée étant inférieure à 10 t/j et la capacité totale de l'installation étant inférieure à 25 000 t
 
 |
 
@@ -3704,7 +3690,9 @@ Installations de compostage de déchets non dangereux ou de matière végétale,
 
 |
 
-|
+1. Non soumis à la taxe |
+
+-
 
 |
 
@@ -3760,7 +3748,11 @@ D
 
 |
 
+2. Non soumis à la taxe
+
 |
+
+-
 
 |
 
@@ -3806,31 +3798,7 @@ A
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
-
-1. Non soumis à la taxe
-
-|
-
--
-
-|
-
-|
-
-|
-
-|
-
-2. La quantité de matières et déchets traités étant :
+3. La quantité de matières et déchets traités étant :
 
 |
 
@@ -3969,6 +3937,46 @@ A
 |
 
 |
+
+|
+
+|
+
+|
+
+|
+
+La quantité de déchets traités étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure ou égale à 50 t/j
+
+|
+
+6
+
+|
+
+|
+
+|
+
+|
+
+b) Inférieure à 50 t/j
+
+|
+
+3
 
 |
 
@@ -4192,7 +4200,11 @@ La quantité équivalente totale de matière active (**) susceptible d'être pr�
 
 |
 
+1. Non soumis à la taxe
+
 |
+
+-
 
 |
 
@@ -4264,13 +4276,13 @@ La quantité équivalente totale de matière active (**) susceptible d'être pr�
 
 |
 
-|
+2. Installation de transit, regroupement ou tri de déchets de produits explosifs, la quantité équivalente totale de matière active susceptible d'être présente dans l'installation étant :
 
 |
 
-a) Supérieure à 10 t
-
 |
+
+a) Supérieure à 10 t |
 
 AS
 
@@ -4280,7 +4292,11 @@ AS
 
 |
 
+a) Supérieure à 10 t
+
 |
+
+6
 
 |
 
@@ -4296,7 +4312,11 @@ A
 
 |
 
+b) Supérieure à 100 kg mais inférieure ou égale à 10 t
+
 |
+
+2
 
 |
 
@@ -4304,13 +4324,15 @@ c) Inférieure ou égale à 100 kg
 
 |
 
-DC
+DC |
 
 |
 
-|
+c) Non soumis à la taxe
 
 |
+
+-
 
 |
 
@@ -4323,6 +4345,10 @@ La quantité équivalente totale de matière active (**) susceptible d'être pr�
 |
 
 |
+
+3. Autre installation de traitement de déchets de produits explosifs (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2)
+
+La quantité équivalente totale de matière active susceptible d'être présente dans l'installation étant :
 
 |
 
@@ -4340,7 +4366,11 @@ AS
 
 |
 
+a) Supérieure à 10 t
+
 |
+
+10
 
 |
 
@@ -4348,15 +4378,15 @@ b) Inférieure ou égale à 10 t
 
 |
 
-A
+A |
+
+3 |
+
+b) Inférieure ou égale à 10 t
 
 |
 
-3
-
-|
-
-|
+6
 
 |
 
@@ -4369,6 +4399,36 @@ Quantité équivalente totale = A + B + C/3+ D/5 + E + F
 A représentant la quantité relative aux déchets classés en division de risque 1.1, aux déchets n'étant pas en emballages fermés conformes aux dispositions réglementaires en matière de transport ainsi qu'aux déchets refusés lors de la procédure d'acceptation en classe 1.
 
 B, C, D, E, F représentant respectivement les quantités relatives aux déchets classés en division de risque 1.2, 1.3, 1.4, 1.5 et 1.6 lorsque ceux-ci sont en emballages fermés conformes aux dispositions réglementaires en matière de transport.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -4462,7 +4522,7 @@ A. Lorsque l'installation consomme exclusivement, seuls ou en mélange, du gaz n
 
 |
 
-A. La puissance thermique maximale de l'installation (quantité maximale de combustible exprimée en PCI susceptible d'être consommée par seconde), étant :
+A. La puissance thermique nominale de l'installation (fixée et garantie par le constructeur, exprimée en PCI et susceptible d'être consommée en marche continue), étant :
 
 |
 
@@ -4480,7 +4540,7 @@ A
 
 |
 
-1. supérieure à 1 000 MW
+a) Supérieure à 1 000 MW
 
 |
 
@@ -4494,7 +4554,7 @@ A
 
 |
 
-supérieure ou égale à 50 MW, mais inférieure à 1 000 MW
+b) Supérieure ou égale à 50 MW mais inférieure à 1 000 MW
 
 |
 
@@ -4508,7 +4568,7 @@ supérieure ou égale à 50 MW, mais inférieure à 1 000 MW
 
 |
 
-supérieure ou égale à 20 MW, mais inférieure à 50 MW
+c) Supérieure ou égale à 20 MW mais inférieure à 50 MW
 
 |
 
@@ -4538,7 +4598,7 @@ B. Lorsque les produits consommés seuls ou en mélange sont différents de ceux
 
 |
 
-B. La puissance thermique maximale de l'installation (quantité maximale de combustible exprimée en PCI susceptible d'être consommée par seconde), étant :
+B. La puissance thermique nominale de l'installation (fixée et garantie par le constructeur, exprimée en PCI et susceptible d'être consommée en marche continue), étant :
 
 |
 
@@ -4556,11 +4616,55 @@ A
 
 |
 
-a) supérieure à 1 000 MW
+a) Supérieure à 1 000 MW
 
 |
 
 10
+
+|
+
+|
+
+|
+
+|
+
+b) Supérieure ou égale à 50 MW mais inférieure à 1 000 MW
+
+|
+
+4
+
+|
+
+|
+
+E
+
+|
+
+|
+
+c) Supérieure ou égale à 20 MW mais inférieure à 50 MW
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+d) Supérieure à 0,1 MW mais inférieure à 20 MW lorsque le combustible utilisé n'est pas de la biomasse telle que définie au b (ii) ou au b (iii) ou au b (v) de la définition de biomasse, ou du biogaz autre que celui visé en 2910-C, ou un produit autre que biomasse issu de déchets au sens de l'article L. 541-4-3 du code de l'environnement
+
+|
+
+1
 
 |
 
@@ -4572,11 +4676,7 @@ a) supérieure à 1 000 MW
 
 |
 
-b) supérieure ou égale à 50 MW mais inférieure à 1 000 MW
-
 |
-
-4
 
 |
 
@@ -4584,17 +4684,11 @@ a) En cas d'utilisation de biomasse telle que définie au b (ii) ou au b (iii) o
 
 |
 
-E
-
 |
 
 |
 
-c) supérieure ou égale à 4 MW mais inférieure à 50 MW
-
 |
-
-1
 
 |
 
@@ -4802,7 +4896,7 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
 
 |
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 o C) est :
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25o C) est :
 
 |
 
@@ -4856,7 +4950,7 @@ D
 
 |
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25o C) est supérieure à 250 l.
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25 o C) est supérieure à 250 l.
 
 |
 
@@ -4906,7 +5000,7 @@ Refroidissement par dispersion d'eau dans un flux d'air (installations de)
 
 |
 
-1. Lorsque l'installation n'est pas du type "circuit primaire fermé" :
+1. Lorsque l'installation n'est pas du type circuit primaire fermé :
 
 |
 
@@ -4952,7 +5046,7 @@ D
 
 |
 
-2. Lorsque l'installation est du type "circuit primaire fermé"
+2. Lorsque l'installation est du type circuit primaire fermé
 
 |
 
@@ -4966,7 +5060,7 @@ D
 
 |
 
-Nota : Une installation est de type "circuit primaire fermé" lorsque l'eau dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs thermiques.
+Nota : Une installation est de type circuit primaire fermé lorsque l'eau dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs thermiques.
 
 |
 
@@ -5236,7 +5330,7 @@ DC
 
 |
 
-2. Lorsque l'application est faite par tout procédé autre que le "trempé" (pulvérisation, enduction). Si la quantité maximale de produits susceptible d'être mise en oeuvre est :
+2. Lorsque l'application est faite par tout procédé autre que le "trempé" (pulvérisation, enduction). Si la quantité maximale de produits susceptible d'être mise en œuvre est :
 
 |
 
@@ -5244,7 +5338,7 @@ DC
 
 |
 
-2. La quantité maximale de produits susceptible d'être mise en oeuvre est :
+2. La quantité maximale de produits susceptible d'être mise en œuvre est :
 
 |
 
@@ -5312,7 +5406,7 @@ DC
 
 |
 
-3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est :
+3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est :
 
 |
 
@@ -5486,7 +5580,11 @@ A
 
 |
 
+Quelle que soit la capacité
+
 |
+
+3
 
 |
 
@@ -5506,19 +5604,11 @@ AS
 
 |
 
-|
+Quelle que soit la capacité
 
 |
 
-|
-
-|
-
-|
-
-|
-
-|
+3
 
 |
 
@@ -5642,13 +5732,9 @@ Raffinage de pétrole et de gaz
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -5662,13 +5748,9 @@ Production de coke
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -5694,13 +5776,9 @@ a) Charbon
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -5730,13 +5808,9 @@ Grillage ou frittage de minerai métallique, y compris de minerai sulfuré
 
 |
 
-A
+A |
 
-|
-
-3
-
-|
+3 |
 
 |
 
@@ -6414,9 +6488,9 @@ A
 
 - reconditionnement avant de soumettre les déchets à l'une des autres activités énumérées aux rubriques 3510 et 3520
 
-- récupération/ régénération des solvants
+- récupération/régénération des solvants
 
-- recyclage/ récupération de matières inorganiques autres que des métaux ou des composés métalliques
+- recyclage/récupération de matières inorganiques autres que des métaux ou des composés métalliques
 
 - régénération d'acides ou de bases
 
@@ -6772,7 +6846,11 @@ Traitement et transformation, à l'exclusion du seul conditionnement des matièr
 
 |
 
+Quelle que soit la capacité
+
 |
+
+3
 
 |
 
@@ -6852,7 +6930,19 @@ où "A" est la proportion de matière animale (en pourcentage de poids) dans la 
 
 Nota 1. - L'emballage n'est pas compris dans le poids final du produit.
 
-Nota 2.-La présente rubrique ne s'applique pas si la matière première est seulement du lait.
+Nota 2. - La présente rubrique ne s'applique pas si la matière première est seulement du lait.
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
