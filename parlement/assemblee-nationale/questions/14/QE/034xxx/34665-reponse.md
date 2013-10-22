@@ -1,0 +1,9 @@
+# Réponse à la question n° 34665
+
+- Question : [34665](34665.md) — Question n° 34665 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-10-22*
+
+Le Conseil national de la montagne (CNM) est un organisme consultatif créé par l'article 6 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne. Il est présidé par le Premier ministre. Il comprend notamment des représentants des assemblées permanentes des établissements publics consulaires, des organisations nationales représentant le milieu montagnard et de chacun des comités de massif créés par l'article 7 de la présente loi. Le Parlement est représenté par cinq députés et cinq sénateurs dont trois désignés par la commission chargée des affaires économiques au sein de leur assemblée respective. Le Conseil national de la montagne définit les objectifs et précise les actions qu'il juge souhaitables pour le développement, l'aménagement et la protection de la montagne. Il a notamment pour objet de faciliter, par ses avis et ses propositions, la coordination des actions publiques dans les zones de montagne. Il est consulté sur les priorités d'intervention et les conditions générales d'attribution des aides accordées aux zones de montagne par le fonds national d'aménagement et de développement du territoire. Le décret n° 95-1006 du 6 septembre 1995 prévoit, en son article 2, que le secrétariat du Conseil national de la montagne, de la commission permanente et des groupes de travail est assuré par le délégué interministériel à l'aménagement du territoire et à l'action régionale. Le CNM se réunit à l'initiative du Premier ministre. Il s'est réuni, au cours de l'année 2012, à une reprise, en date du 31 janvier 2012. Le CNM ne bénéficie d'aucun budget propre, ni de mise à disposition de fonctionnaires, les tâches de secrétariat étant exercées par la DATAR dans le cadre de sa mission générale.
