@@ -1,0 +1,9 @@
+# Réponse à la question n° 17895
+
+- Question : [17895](17895.md) — Question n° 17895 — fiscalité; réglementation; conséquences
+
+## Réponse
+
+*JO du 2013-10-22*
+
+Les entreprises solidaires sont notamment constituées sous la forme d'associations et ont pour objet de faciliter l'accès et le maintien dans l'emploi de personnes qui rencontrent des difficultés particulières d'insertion professionnelle. Le régime fiscal qui est applicable aux associations doit être déterminé au regard des dispositions combinées des articles 206-1, 1447 et 261-7-1° b du code général des impôts (CGI), précisées par la doctrine administrative (cf. base documentaire BOFIP : BOI-IS-CHAMP-10-50-10). Ainsi, une association exerce notamment une activité lucrative au sens de l'article 206-1 du CGI qui la rend passible des impôts commerciaux lorsque sa gestion n'est pas désintéressée, ou lorsqu'elle concurrence des entreprises selon des conditions d'exercice similaires au regard du produit proposé, du public bénéficiaire, du prix pratiqué et des opérations de communication réalisées. Est également considérée comme exerçant une activité lucrative une association qui entretient des relations privilégiées avec des organismes du secteur lucratif qui en retirent un avantage concurrentiel. En conséquence, le régime fiscal applicable à ces organismes dépend de l'analyse au cas par cas de la situation de chaque structure, au regard notamment de la nature des prestations et des conditions dans lesquelles elles les réalisent. Par ailleurs, une mission parlementaire, pilotée par les députés MM. Yves Blein, Jérôme Guedj, Laurent Grandguillaume et Régis Juanico, appuyée par l'IGF et l'IGAS, est chargée d'examiner la fiscalité du secteur non lucratif dans son ensemble pour identifier et le cas échéant proposer des solutions aux éventuelles distorsions fiscales pouvant empêcher son développement. Ses conclusions sont attendues pour cet automne 2013.
