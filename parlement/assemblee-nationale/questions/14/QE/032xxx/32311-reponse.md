@@ -1,0 +1,9 @@
+# Réponse à la question n° 32311
+
+- Question : [32311](32311.md) — Question n° 32311 — revendications
+
+## Réponse
+
+*JO du 2013-10-22*
+
+Le Gouvernement reste très attentif à la situation des buralistes dans le contexte de la hausse des prix du tabac qui est pleinement justifiée par des motifs de santé publique visant à réduire la prévalence tabagique dans notre pays. A la faveur d'une rencontre avec le président de la confédération des buralistes le 10 juillet 2013, le ministre délégué chargé du budget a souligné le rôle important des débitants de tabac, premier réseau de commerces de proximité, en matière d'aménagement du territoire et de services de proximité. Il a également indiqué que les propositions concernant les aides à l'activité en faveur des buralistes formulées dans le rapport « Queyranne » relatif à la modernisation des aides publiques aux entreprises, ne constituaient qu'une piste de réflexion, et qu'aucune décision ne serait prise concernant les aides du 3e contrat d'avenir sans concertation approfondie avec la profession. La question de la pérennité des débits situés en zone rurale ou frontalière, trouve une part de sa réponse dans le contrat d'avenir en faveur des buralistes signé le 23 septembre 2011. En effet, le 3e contrat d'avenir prévoit une augmentation annuelle de la rémunération nette liée à la vente de tabac. Ainsi, cette dernière passera de 6,5 % à 6,9 % du chiffre d'affaires tabac sur la durée du contrat, pour les produits autres que les cigares et cigarillos dont le taux net est de 7 %. Par ailleurs, les diverses aides à l'activité ou à la reconversion ont été reconduites, en privilégiant notamment les débitants les plus en difficulté. De plus, ce contrat consacre le rôle important des buralistes, qui constituent le premier réseau de commerces de proximité, dans l'aménagement du territoire, notamment en zone rurale, par la mise en place d'une prime de service public de proximité d'un montant maximal de 1 500 €.
