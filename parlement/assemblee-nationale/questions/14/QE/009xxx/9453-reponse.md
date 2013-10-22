@@ -1,0 +1,9 @@
+# Réponse à la question n° 9453
+
+- Question : [9453](9453.md) — Question n° 9453 — moyens; fonctionnement
+
+## Réponse
+
+*JO du 2013-10-22*
+
+La Commission Nationale de l'Informatique et des Libertés est composée de dix-sept membres. En application de l'article 13 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, complété du décret n° 2011-1118 du 19 septembre 2011 modifiant le décret n° 99-487 du 11 juin 1999 relatif aux indemnités susceptibles d'être allouées aux membres de la Commission nationale de l'informatique et des libertés et aux personnes qui lui prêtent leur concours, le président de la commission reçoit un traitement égal à celui afférent à la seconde des deux catégories supérieures des emplois de l'Etat classés hors échelle, lorsqu'il se consacre exclusivement à ses fonctions. S'y ajoute une indemnité de fonctions annuelle brute de 55 000 euros fixée par un arrêté du 19 septembre 2011. Le montant des indemnités versées aux seize membres de la CNIL est fixé par l'arrêté du 7 avril 2011 modifiant l'arrêté du 11 juin 1999 fixant le taux des indemnités susceptibles d'être allouées au président et aux membres de la Commission nationale de l'informatique et des libertés. Ils perçoivent une indemnité forfaitaire fixée à 250 euros bruts par séance plénière et par séance de la formation restreinte et à 100 euros bruts par séance de travail. Le nombre maximum annuel de séances de travail ouvrant droit à indemnité est fixé à trente. Par ailleurs, le montant brut de l'indemnité mensuelle perçue par le président de la formation restreinte et le vice-président délégué est fixé à 600 euros et à 300 euros pour l'autre vice-président. De plus, le montant brut de l'indemnité forfaitaire prévue à l'article 4 du décret n° 99-487 du 11 juin 1999 est fixé à 250 euros par demi-journée et à 250 euros par séance de travail.
