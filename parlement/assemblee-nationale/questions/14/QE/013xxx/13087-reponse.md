@@ -1,0 +1,9 @@
+# Réponse à la question n° 13087
+
+- Question : [13087](13087.md) — Question n° 13087 — rapport; propositions
+
+## Réponse
+
+*JO du 2013-10-22*
+
+Le pacte national pour la croissance, la compétitivité et l'emploi avait décidé l'organisation d'assises de l'entrepreneuriat, chargées de formuler des propositions, notamment pour réaliser l'objectif de « doubler le nombre de créations d'entreprises de croissance d'ici à 5 ans ». Le nombre d'entreprises de croissance est en effet insuffisant en France, puisque seulement 3,6 % des entreprises créées en 2006 ont créé 6 emplois ou plus dans leurs trois premières années. C'est pourquoi une attention particulière a été portée à ce sujet par les groupes de travail chargés de préparer les assises de l'entrepreneuriat, auxquels ont participé notamment des chefs d'entreprise et les réseaux d'accompagnement des chefs d'entreprise. Parmi les quarante-quatre propositions remises le 29 avril 2013 au Président de la République lors des assises de l'entrepreneuriat réunies au Palais de l'Elysée, le Président de la République a notamment retenu les mesures suivantes, destinées à mieux reconnaître la prise de risque de l'investissement au service de l'emploi : - la réforme du régime des plus-values mobilières dans le sens de la simplification et de l'attractivité ; - la volonté de voir dynamisé le segment boursier dédié aux petites et moyennes entreprises (PME) et aux établissements de taille intermédiaire (ETI) ; - la réforme du plan d'épargne en actions avec la revalorisation de son plafond à 150 000 € et la possibilité d'y investir en plus 75 000 € dans les PME et ETI ; - la mise en place d'un cadre juridique de développement de la finance participative (« crowdfunding ») en France. Ces mesures sont en cours d'élaboration, et seront complétées par un ensemble de décisions destinées à soutenir l'entrepreneuriat en France à l'automne 2013.
