@@ -1,0 +1,9 @@
+# Réponse à la question n° 33936
+
+- Question : [33936](33936.md) — Question n° 33936 — souscripteurs; garantie; réglementation
+
+## Réponse
+
+*JO du 2013-10-22*
+
+La co-souscription ou adhésion conjointe est l'adhésion de plusieurs personnes à un contrat d'assurance-vie, chacune étant à la fois co-adhérent et co-assuré. Toutes les opérations sur le contrat nécessitent alors la signature de chacun des co-adhérents. Dans ce mode de souscription, il n'existe donc qu'un seul contrat ouvrant aux co-souscripteurs des droits représentés au bilan de l'assureur par une provision unique. Le fonctionnement du fonds de garantie des assurances de personne, en vertu des articles L. 423-2 et L. 423-3 du code des assurances est le suivant : lorsque l'autorité de contrôle prudentiel juge qu'une entreprise d'assurance n'est plus en mesure de faire face à ses engagements, elle décide, après une procédure d'appel d'offres, de transférer le portefeuille de contrats à une entreprise cessionnaire. Eu égard aux difficultés rencontrées par la cédante et à son incapacité de couvrir ses engagements, cette reprise s'accompagne d'une reconstitution des provisions par le fonds de garantie directement auprès du cessionnaire. L'article R. 423-7 du code des assurances précise les limites dans lesquelles les provisions représentatives des droits sont reconstituées par le fonds de garantie. Il précise en particulier que la limite s'entend pour l'ensemble des contrats détenus par un même assuré, souscripteur ou bénéficiaire de l'entreprise défaillante. Ainsi, même si les droits sont représentés par une provision unique, la réglementation du fonds de garantie des assurances de personne indique que la limite doit s'entendre pour chaque assuré, souscripteur ou bénéficiaire. Or chacun des souscripteurs étant pleinement reconnu en cas de co-adhésion (la double signature en est la preuve par exemple), la garantie de 70 000 € devrait donc s'appliquer pour chaque co-souscripteur.
