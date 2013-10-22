@@ -1,0 +1,9 @@
+# Réponse à la question n° 3605
+
+- Question : [3605](3605.md) — Question n° 3605 — taxe sur la consommation finale d'électricité; révision
+
+## Réponse
+
+*JO du 2013-10-22*
+
+La loi du 7 décembre 2010 portant nouvelle organisation du marché de l'électricité, dite « loi NOME », a institué une taxe communale sur la consommation finale d'électricité. En application de l'article L. 5212-24 du code général des collectivités territoriales, pour les communes dont la population est inférieure à 2 000 habitants, la perception de cette taxe se fait de plein droit au profit du syndicat intercommunal ou du département exerçant la compétence d'autorité organisatrice de la distribution publique d'électricité. La loi du 7 décembre avait néanmoins prévu un système transitoire pour l'année 2011 afin de permettre à l'ensemble des collectivités territoriales qui percevaient l'ancienne taxe communale sur l'électricité de continuer à percevoir le produit de la nouvelle taxe communale. Une disposition de la loi du 28 décembre 2011 de finances rectificative pour 2011 a prévu une dérogation supplémentaire pour l'année 2012 afin de permettre aux communes de moins de 2 000 habitants de bénéficier du produit de la taxe en l'absence de délibération du syndicat intercommunal ou du département avant le 1er octobre 2011 ou lorsque cette délibération a été rapportée avant le 31 décembre 2011. Dans le cadre de l'examen du projet de loi de finances pour 2013, un amendement visant à proroger le dispositif dérogatoire existant d'une année supplémentaire a été déposé. Cet amendement a été adopté avec l'avis favorable du Gouvernement. Le ministre délégué au budget a néanmoins précisé à cette occasion qu'il était nécessaire que ces collectivités territoriales se mettent en conformité avec la loi, qu'il n'est pas envisagé de modifier.
