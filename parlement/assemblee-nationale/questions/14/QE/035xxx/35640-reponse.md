@@ -1,0 +1,9 @@
+# Réponse à la question n° 35640
+
+- Question : [35640](35640.md) — Question n° 35640 — cigarettes; vente par Internet
+
+## Réponse
+
+*JO du 2013-10-22*
+
+La lutte contre la contrebande et la contrefaçon de tabac demeure une priorité fixée par le Gouvernement à la direction générale des douanes et droits indirects. Le plan d'action douanier destiné à renforcer la lutte contre la contrebande a donc été reconduit en 2013. Il prévoit notamment le développement de la coopération internationale, en particulier dans les zones frontalières, ainsi que la poursuite des saisies dans le fret express et postal liées aux achats par internet. Depuis 2010, les services douaniers saisissent en moyenne 400 tonnes de tabac par an. Parallèlement, pour restreindre les achats transfrontaliers qui affectent le réseau des buralistes, le Gouvernement s'attache à rechercher, dans une perspective de plus long terme, les voies d'une convergence des prix au sein de l'Union européenne, car la seule harmonisation fiscale déjà engagée laisse subsister des écarts de prix significatifs. Par ailleurs, dans le cadre du 3e contrat d'avenir en faveur des buralistes, une prime de service public de proximité d'un montant maximal de 1 500 €, favorisant la diversification des activités, a été versée pour la première fois en mars 2013. S'agissant des questions de sécurité, le plafond de l'aide à la sécurité des débits de tabac a été porté à 15 000 € par décret n° 2012-1448 du 24 décembre 2012. Cette aide est accordée afin de permettre le financement d'une étude de sécurité du débit, ou encore l'acquisition et l'installation de matériels de sécurité passive. Enfin, concernant la question des paquets dits « génériques », la prochaine étape à promouvoir auprès des autorités communautaires est, à ce stade, la généralisation des avertissements sanitaires sur les emballages des produits du tabac, avant toute évolution du cadre juridique communautaire vers le paquet générique.
