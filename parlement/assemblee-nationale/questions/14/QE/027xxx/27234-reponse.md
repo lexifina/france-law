@@ -1,0 +1,9 @@
+# Réponse à la question n° 27234
+
+- Question : [27234](27234.md) — Question n° 27234 — usage à titre gratuit; réglementation
+
+## Réponse
+
+*JO du 2013-10-22*
+
+La mise à disposition ou la location de locaux communaux en vue de l'organisation de réunions politiques de candidats à une élection politique ne relève pas du domaine des autorisations d'occupation du domaine public. Dès lors les dispositions de l'article L.2125-1 du code général de la propriété des personnes publiques ne sont pas applicables à cette situation. En effet, les mairies ont la faculté de mettre à disposition d'un parti politique des locaux selon les conditions habituelles de mise à disposition des propriétés communales, qu'il s'agisse de lieux servant habituellement de bureaux de vote ou de tout autre local communal. Aux termes de l'article L. 2144-3 du code général des collectivités territoriales (CGCT) « des locaux communaux peuvent être utilisés par les associations, syndicats ou partis politiques qui en font la demande. Le maire détermine les conditions dans lesquelles ces locaux peuvent être utilisés, compte tenu des nécessités de l'administration des propriétés communales, du fonctionnement des services et du maintien de l'ordre public. Le conseil municipal fixe, en tant que de besoin, la contribution due à raison de cette utilisation. » Il est à noter que les communes n'ont pas l'obligation de mettre à disposition des candidats des salles pour leurs réunions publiques. Le prêt de salles publiques pour la tenue de réunions est cependant possible, même à titre gratuit, sans que cela ne contrevienne aux règles de financement des campagnes électorales et en particulier à l'article L. 52-8 du code électoral (CC 13 février 1998, AN Val d'Oise). Les collectivités concernées doivent cependant s'astreindre à respecter strictement le principe d'égalité entre les candidats en offrant à chacun les mêmes possibilités aux mêmes conditions.
