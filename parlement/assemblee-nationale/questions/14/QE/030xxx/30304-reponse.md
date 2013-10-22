@@ -1,0 +1,9 @@
+# Réponse à la question n° 30304
+
+- Question : [30304](30304.md) — Question n° 30304 — Conseil économique, social et environnemental; rapport; propositions
+
+## Réponse
+
+*JO du 2013-10-22*
+
+Les salariés administrateurs contribuent à enrichir le travail du conseil d'administration par leur connaissance des réalités de l'entreprise et représentent un atout pour la gouvernance des entreprises françaises. C'est pourquoi le pacte national pour la croissance, la compétitivité et l'emploi (en vertu de la décision 4 « produire ensemble »), prévoit un renforcement du dialogue social par la reconnaissance de la responsabilité des salariés dans les prises de décision en leur donnant des voix délibératives au sein des conseils d'administration et de surveillance. Afin de renforcer la représentation des salariés dans les conseils d'administration, la loi du 14 juin 2013, conformément à l'accord national interprofessionnel (ANI) du 11 janvier 2013, prévoit la participation de représentants des salariés, avec voix délibérative, aux conseils d'administration (ou de surveillance) des grandes entreprises. Les sociétés concernées sont celles dont les effectifs totaux sont au moins égaux à 10 000 salariés dans le monde ou à 5 000 en France. Le nombre de représentants des salariés sera au moins égal à deux dans les entreprises qui comportent plus de douze administrateurs et à un dans les autres cas. Cette mesure permettra une meilleure prise en compte du point de vue des salariés sur la stratégie de leur entreprise. Par ailleurs, la loi du 14 juin 2013 relative à la sécurisation de l'emploi permet l'octroi aux administrateurs élus par les salariés ou désignés, d'un crédit d'heures pour exercer utilement leur mandat, d'une formation adaptée à l'exercice de leur mandat et d'une protection contre le licenciement qui devra être autorisé par l'inspecteur du travail.
