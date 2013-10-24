@@ -2612,6 +2612,24 @@ Autres formes
 
 |
 
+Esoméprazole
+
+|
+
+Voie orale
+
+|
+
+|
+
+0,020
+
+|
+
+280
+
+|
+
 Estradiol (dihydrofolliculine) estrone (folliculine) et leurs esters
 
 |
