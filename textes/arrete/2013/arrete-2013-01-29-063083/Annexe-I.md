@@ -4,39 +4,27 @@
 
 |
 
-QUOTA 2013
+QUOTA
 
-en mer Méditerranée
-
-|
-
-QUOTA 2013
-
-en océan Atlantique
-
-à l'est de la longitude 45° Ouest
+2013 en mer méditerranée
 
 |
 
-OP DU SUD |
+QUOTA
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge "
-
-|
-
-48,68 (*)
+2013 en Océan Atlantique à l'est de la longitude 45° ouest
 
 |
 
-0
+OP DU SUD
 
 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge "
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
 |
 
-5,40 (*)
+48,18*
 
 |
 
@@ -44,11 +32,23 @@ Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge "
 
 |
 
-Total OP DU SUD
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
 
 |
 
-54,08
+7,12*
+
+|
+
+0
+
+|
+
+TOTAL OP DU SUD
+
+|
+
+55,30
 
 |
 
@@ -60,9 +60,11 @@ OP COPEMART
 
 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
-5,18 (*)
+|
+
+5,35*
 
 |
 
@@ -70,11 +72,11 @@ Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
 
 |
 
-Total COPEMART
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
 
 |
 
-5,18
+0,2*
 
 |
 
@@ -82,11 +84,23 @@ Total COPEMART
 
 |
 
-OP PRO. QUA. PORT
+TOTAL COPEMART
 
 |
 
-Senneurs titulaires d'une AEP " thon rouge " :
+5,55
+
+|
+
+0
+
+|
+
+OP PRO.QUA.PORT
+
+|
+
+Senneurs titulaires d'une AEP thon rouge :
 
 |
 
@@ -94,7 +108,9 @@ Senneurs titulaires d'une AEP " thon rouge " :
 
 |
 
-Chrisderic II : immatriculé 863686 |
+CHRISDERIC II : immatriculé 863686
+
+|
 
 58
 
@@ -104,7 +120,7 @@ Chrisderic II : immatriculé 863686 |
 
 |
 
-Ville d'Agde IV : immatriculé 924880
+VILLE D'AGDE IV : immatriculé 924880
 
 |
 
@@ -116,9 +132,11 @@ Ville d'Agde IV : immatriculé 924880
 
 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
-43,48 (*)
+|
+
+44,58*
 
 |
 
@@ -126,11 +144,11 @@ Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
 
 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge "
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
 
 |
 
-4,18 (*)
+4,42*
 
 |
 
@@ -138,9 +156,11 @@ Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge "
 
 |
 
-Total PRO. QUA. PORT |
+TOTAL PRO.QUA.PORT
 
-163,66
+|
+
+165,00
 
 |
 
@@ -152,7 +172,7 @@ OP SATHOAN
 
 |
 
-Senneurs titulaires d'une AEP " thon rouge " :
+Senneurs titulaires d'une AEP thon rouge :
 
 |
 
@@ -160,17 +180,7 @@ Senneurs titulaires d'une AEP " thon rouge " :
 
 |
 
-Jean Marie Christian 3 : immatriculé 781462 |
-
-150
-
-|
-
-0
-
-|
-
-Jean Marie Christian 4 : immatriculé 819527
+JEAN MARIE CHRISTIAN 3 : immatriculé 781462
 
 |
 
@@ -182,7 +192,19 @@ Jean Marie Christian 4 : immatriculé 819527
 
 |
 
-Janvier Giordano : immatriculé 819571
+JEAN MARIE CHRISTIAN 4 : immatriculé 819527
+
+|
+
+150
+
+|
+
+0
+
+|
+
+JANVIER GIORDANO : immatriculé 819571
 
 |
 
@@ -194,7 +216,7 @@ Janvier Giordano : immatriculé 819571
 
 |
 
-Sainte Sophie François 2 : immatriculé 859076
+ST SOPHIE FRANCOIS 2 : immatriculé 859076
 
 |
 
@@ -206,7 +228,7 @@ Sainte Sophie François 2 : immatriculé 859076
 
 |
 
-Jean Marie Christian 6 : immatriculé 900265
+JEAN MARIE CHRISTIAN 6 : immatriculé 900265
 
 |
 
@@ -218,7 +240,7 @@ Jean Marie Christian 6 : immatriculé 900265
 
 |
 
-Jean Marie Christian 7 : immatriculé 900270
+JEAN MARIE CHRISTIAN 7 : immatriculé 900270
 
 |
 
@@ -230,7 +252,7 @@ Jean Marie Christian 7 : immatriculé 900270
 
 |
 
-Sainte Sophie François 3 : immatriculé 923752
+ST SOPHIE FRANCOIS 3 : immatriculé 923752
 
 |
 
@@ -242,7 +264,7 @@ Sainte Sophie François 3 : immatriculé 923752
 
 |
 
-Janvier Louis Raphael : immatriculé 925310
+JANVIER LOUIS RAPHAEL : immatriculé 925310
 
 |
 
@@ -254,23 +276,11 @@ Janvier Louis Raphael : immatriculé 925310
 
 |
 
-Palangriers hauturiers titulaires d'une AEP " thon rouge "
+Palangriers hauturiers titulaires d'une AEP thon rouge
 
 |
 
-22,10
-
-|
-
-0
-
-|
-
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge "
-
-|
-
-76,88 (*)
+22,71
 
 |
 
@@ -278,11 +288,35 @@ Palangriers " petits métiers " titulaires d'une AEP " thon rouge "
 
 |
 
-Total SATHOAN
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
 |
 
-1 239,98
+73,59*
+
+|
+
+0
+
+|
+
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
+
+|
+
+5,00*
+
+|
+
+0
+
+|
+
+TOTAL SATHOAN
+
+|
+
+1 242,30
 
 |
 
@@ -294,7 +328,7 @@ Groupement de navires STM
 
 |
 
-Senneurs titulaires d'une AEP " thon rouge " :
+Senneurs titulaires d'une AEP thon rouge :
 
 |
 
@@ -302,7 +336,9 @@ Senneurs titulaires d'une AEP " thon rouge " :
 
 |
 
-Juanico Lucien Rafael : immatriculé 308341 |
+JUANICO LUCIEN RAFAEL : immatriculé 308341
+
+|
 
 114
 
@@ -312,7 +348,9 @@ Juanico Lucien Rafael : immatriculé 308341 |
 
 |
 
-Salvador Pierre Joseph : immatriculé 914222 |
+SALVADOR PIERRE JOSEPH : immatriculé 914222
+
+|
 
 198
 
@@ -322,7 +360,9 @@ Salvador Pierre Joseph : immatriculé 914222 |
 
 |
 
-Gerald Jean III : immatriculé 916344 |
+GERALD JEAN III : immatriculé 916344
+
+|
 
 61
 
@@ -332,7 +372,9 @@ Gerald Jean III : immatriculé 916344 |
 
 |
 
-Gerald Jean IV : immatriculé 916469 |
+GERALD JEAN IV : immatriculé 916469
+
+|
 
 61
 
@@ -342,7 +384,7 @@ Gerald Jean IV : immatriculé 916469 |
 
 |
 
-Total STM
+TOTAL STM
 
 |
 
@@ -358,19 +400,11 @@ Groupement de navires Golfe du Lion (SPMLR)
 
 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge "
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
 |
 
-2,62 (*) |
-
-0
-
-|
-
-Total SPMLR |
-
-2,62
+4,23*
 
 |
 
@@ -378,35 +412,57 @@ Total SPMLR |
 
 |
 
-Navires n'adhérant pas à une organisation de producteurs (hors OP)
+TOTAL SPMLR
 
 |
 
-Senneurs titulaires d'une AEP " thon rouge " : |
+4,23
 
 |
-
-|
-
-Anne Antoine II : immatriculé 819572
-
-|
-
-78 |
-
-0 |
-
-Gérard Luc IV : immatriculé 900236
-
-|
-
-118 |
 
 0
 
 |
 
-Eric Marin : immatriculé 924860
+Navires non adhérant à une organisation de producteurs
+
+(hors OP)
+
+|
+
+Senneurs titulaires d'une AEP thon rouge :
+
+|
+
+|
+
+|
+
+ANNE ANTOINE II : immatriculé 819572
+
+|
+
+78
+
+|
+
+0
+
+|
+
+GERARD LUC IV : immatriculé 900236
+
+|
+
+118
+
+|
+
+0
+
+|
+
+ERIC MARIN : immatriculé 924860
 
 |
 
@@ -418,108 +474,202 @@ Eric Marin : immatriculé 924860
 
 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
 |
 
 |
 
-et immatriculés dans un quartier maritime des Alpes-Maritimes |
+|
 
-3,86 (*) |
+et immatriculés dans un quartier maritime des Alpes maritimes
 
-0 |
+|
 
-et immatriculés dans un quartier maritime des Bouches-du-Rhône |
+4,84*
 
-22,00 (*) |
-
-0 |
-
-et immatriculés dans un quartier maritime de la Corse |
-
-4,60 (*) |
-
-0 |
-
-et immatriculés dans un quartier maritime de l'Hérault |
-
-8,10 (*) |
-
-0 |
-
-et immatriculés dans un quartier maritime des Pyrénées-Orientales |
-
-0 (*) |
-
-0 |
-
-et immatriculés dans un quartier maritime du Var |
-
-0,76 (*) |
+|
 
 0
 
 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge " : |
+et immatriculés dans un quartier maritime des Bouches du Rhône
+
+|
+
+23,46*
+
+|
+
+0
+
+|
+
+et immatriculés dans un quartier maritime de la Corse
+
+|
+
+5,21*
+
+|
+
+0
+
+|
+
+et immatriculés dans un quartier maritime de l'Hérault
+
+|
+
+8,47*
+
+|
+
+0
+
+|
+
+et immatriculés dans un quartier maritime des Pyrénées orientales
+
+|
+
+0
+
+|
+
+0
+
+|
+
+et immatriculés dans un quartier maritime du Var
+
+|
+
+1,00*
+
+|
+
+0
+
+|
+
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge :
 
 |
 
 |
 
-et immatriculés dans un quartier maritime des Alpes-Maritimes |
+|
 
-0 |
+et immatriculés dans un quartier maritime des Alpes maritimes
 
-0 |
+|
 
-et immatriculés dans un quartier maritime des Bouches-du-Rhône |
+0
 
-1,36 (*) |
+|
 
-0 |
+0
 
-et immatriculés dans un quartier maritime de la Corse |
+|
 
-0 |
+et immatriculés dans un quartier maritime des Bouches du Rhône
 
-0 |
+|
 
-et immatriculés dans un quartier maritime de l'Hérault |
+1,72*
 
-0 |
+|
 
-0 |
+0
 
-et immatriculés dans un quartier maritime des Pyrénées-Orientales |
+|
 
-0 |
+et immatriculés dans un quartier maritime de la Corse
 
-0 |
+|
 
-et immatriculés dans un quartier maritime du Var |
+0
 
-0,8 (*) |
+|
 
-0 |
+0
 
-Total HORS OP |
+|
 
-295,48 |
+et immatriculés dans un quartier maritime de l'Hérault
 
-0 |
+|
 
-Navires pêchant au chalut pélagique au titre des prises accessoires telles que définies par la réglementation en vigueur |
+0
 
-4 |
+|
 
-0 |
+0
 
-Total |
+|
 
-2 199 |
+et immatriculés dans un quartier maritime des Pyrénées orientales
 
-0 |
+|
 
-(*) Dont 21 % maximum est composé de thon rouge pesant entre 8 kg et 30 kg. |
+0
+
+|
+
+0
+
+|
+
+et immatriculés dans un quartier maritime du Var
+
+|
+
+0,92*
+
+|
+
+0
+
+|
+
+TOTAL HORS OP
+
+|
+
+299,62
+
+|
+
+0
+
+|
+
+Navires pêchant au chalut au titre des prises accessoires telles que définies par la réglementation en vigueur
+
+|
+
+4
+
+|
+
+0
+
+|
+
+TOTAL
+
+|
+
+2 210
+
+|
+
+0
+
+|
+
+(*) Dont 20,7 % maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
+
+|

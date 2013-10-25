@@ -1,38 +1,22 @@
 # Article Annexe III
 
-(Quotas en tonnes)
+(Quotas)
 
 |
 
-QUOTA EN OCÉAN ATLANTIQUE À L'EST
+QUOTA EN OCEAN ATLANTIQUE
 
-de la longitude 45° Ouest et Méditerranée
-
-Période 1 : du 15 juillet au 30 août 2013
-
-(80 % du quota)
+à l'Est de la longitude 45° ouest et en Méditerranée
 
 |
 
-QUOTA EN OCÉAN ATLANTIQUE À L'EST
+Fédération française des pêcheurs en mer (FFPM),
 
-de la longitude 45° Ouest et Méditerranée
-
-Période 2 : du 16 au 30 septembre 2013
-
-(20 % du quota)
+Dont navires professionnels charters de pêche
 
 |
 
-Fédération française des pêcheurs en mer (FFPM)
-
-|
-
-7,2
-
-|
-
-1,8
+5 900 kg
 
 |
 
@@ -40,23 +24,7 @@ Fédération nationale des pêcheurs plaisanciers et sportifs de France (FNPPSF)
 
 |
 
-7,2
-
-|
-
-1,8
-
-|
-
-Navires professionnels charters de pêche
-
-|
-
-2,4
-
-|
-
-0,6
+7 500 kg
 
 |
 
@@ -64,42 +32,24 @@ Fédération française d'études et de sports sous-marins (FFESSM)
 
 |
 
-1,6
+100 kg
 
 |
 
-0,4
+Pêcheurs sportifs et de loisir non adhérents
+
+à l'une des fédérations de pêcheurs de loisir précitée
 
 |
 
-Pêcheurs sportifs et de loisir n'adhérents pas à l'une des fédérations de pêcheurs de loisir précitée
+500 kg
 
 |
 
-1,6
+TOTAL
 
 |
 
-0,4
-
-|
-
-Sous-total
-
-|
-
-20 tonnes (période 1)
-
-|
-
-5 tonnes (période 2)
-
-|
-
-|
-
-|
-
-Total (périodes 1 et 2) : 25 tonnes
+14 000 kg
 
 |

@@ -4,13 +4,15 @@
 
 |
 
-QUOTA EN OCÉAN ATLANTIQUE
+QUOTA EN OCEAN ATLANTIQUE
 
-à l'est de la longitude 45° Ouest |
+à l'Est de la longitude 45° ouest
+
+|
 
 QUOTA
 
-en mer Méditerranée |
+en Mer Méditerranée
 
 |
 
@@ -18,13 +20,13 @@ Pour la pêche au chalut
 
 |
 
-Pour la pêche
+Pour la pêche à la ligne et à la canne
 
-à la ligne et à la canne |
+|
 
-Pour la pêche
+Pour la pêche à la palangre
 
-à la palangre |
+|
 
 Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord)
 
@@ -66,7 +68,7 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
-Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
+Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse Normandie (OPBN)
 
 |
 
@@ -150,7 +152,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-29
+24
 
 |
 
@@ -158,7 +160,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-24
+29
 
 |
 
@@ -186,7 +188,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière
 
 |
 
@@ -210,15 +212,11 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs d'Aquitaine
 
 |
 
-34
+41
 
 |
 
-86
-
-|
-
-0
+79
 
 |
 
@@ -226,7 +224,11 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs d'Aquitaine
 
 |
 
-Navires n'adhérant pas à une organisation de producteurs
+0
+
+|
+
+Navires non adhérant à une organisation de producteurs
 
 |
 
@@ -246,19 +248,19 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
-Total
+TOTAL
 
 |
 
-136
+138
 
 |
 
-87
+80
 
 |
 
-24
+29
 
 |
 
