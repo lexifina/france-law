@@ -1,488 +1,390 @@
 # Article Annexe III
 
-CLASSE DE TERMINALE - SÉRIES L ET ES
+Adaptation Nouvelle-Calédonie
 
-Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna
+Classe de terminale - Séries ES et L
 
-Nouvelle-Calédonie
+Histoire
 
-HISTOIRE - Regards historiques sur le monde actuel
+Regards historiques sur le monde actuel
 
-|
+PROGRAMME NATIONAL :
 
-Programme national :
-
-parties/thèmes
+Parties / Thèmes
 
 |
 
-Adaptation
+ADAPTATION
 
 |
 
-Thème 1 - Le rapport des sociétés à leur passé (9-10 h)
-
-Le patrimoine : lecture historique
-
-Une étude au choix parmi les trois suivantes :
-
-- Le centre historique de Rome.
-
-- La vieille ville de Jérusalem.
-
-- Le centre historique de Paris.
+Thème 1 introductif - Le rapport des sociétés à leur passé (4-5 heures)
 
 Les mémoires : lecture historique
 
 Une étude au choix parmi les deux suivantes :
 
-- L'historien et les mémoires de la Seconde Guerre mondiale en France.
+- L'historien et les mémoires de la Seconde Guerre mondiale en France
 
-- L'historien et les mémoires de la guerre d'Algérie.
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+- L'historien et les mémoires de la guerre d'Algérie
 
 |
 
-Thème 2 - Idéologies, opinions et croyances en Europe et aux États-Unis de la fin du XIXème siècle à nos jours (15-17 h)
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+|
+
+Thème 2 - Idéologies et opinions en Europe de la fin du XIXe siècle à nos jours (12-14 heures)
 
 Socialisme et mouvement ouvrier
 
-- Socialisme, communisme et syndicalisme en Allemagne depuis 1875.
+Socialisme, communisme et syndicalisme en Allemagne depuis 1875
 
 Médias et opinion publique
 
-- Médias et opinion publique dans les grandes crises politiques en France depuis l'affaire Dreyfus.
-
-Religion et société
-
-- Religion et société aux États-Unis depuis les années 1890.
+Médias et opinion publique dans les grandes crises politiques en France depuis l'affaire Dreyfus
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- On pourra prendre appui sur les répercussions de ces crises dans les médias et l'opinion publique en Nouvelle-Calédonie.
+On peut prendre appui sur les répercussions de ces crises dans les médias et l'opinion publique en Nouvelle-Calédonie.
 
 |
 
-Thème 3 - Puissances et tensions dans le monde de la fin de la Première Guerre mondiale à nos jours (17-18 h)
+Thème 3 - Puissances et tensions dans le monde de la fin de la Première Guerre mondiale à nos jours (21 - 22 heures)
 
 Les chemins de la puissance
 
-- Les États-Unis et le monde depuis les 14 points du Président Wilson (1918).
+- Les États-Unis et le monde depuis les 14 points du Président Wilson (1918)
 
-- La Chine et le monde depuis le mouvement du 4 mai 1919 .
+- La Chine et le monde depuis 1949
 
 Un foyer de conflits
 
-- Le Proche et le Moyen-Orient, un foyer de conflits depuis la fin de la Première Guerre mondiale.
+Le Proche et le Moyen-Orient, un foyer de conflits depuis la fin de la Première Guerre mondiale
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- On insistera sur les États-Unis et l'espace Pacifique depuis 1918.
-
-- On insistera sur la Chine et l'espace Pacifique depuis 1919.
+On insiste sur les Etats-Unis et l'espace Pacifique depuis 1945. On insiste sur la Chine et l'espace Pacifique depuis 1949.
 
 |
 
-Thème 4 - Les échelles de gouvernement dans le monde de la fin de la Seconde Guerre mondiale à nos jours (16-17 h)
+Thème 4 - Les échelles de gouvernement dans le monde de la fin de la Seconde Guerre mondiale à nos jours (20-21 heures)
 
 L'échelle de l'État-nation
 
-- Gouverner la France depuis 1946 : État, gouvernement et administration. Héritages et évolutions.
+Gouverner la France depuis 1946 : État, gouvernement et administration. Héritages et évolutions.
 
 L'échelle continentale
 
-- Le projet d'une Europe politique depuis le congrès de La Haye (1948).
+Le projet d'une Europe politique depuis le congrès de La Haye (1948)
 
 L'échelle mondiale
 
-- La gouvernance économique mondiale depuis 1944.
+La gouvernance économique mondiale depuis 1944
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- On étudiera le gouvernement et l'administration de la Nouvelle-Calédonie depuis les lendemains de la Seconde Guerre mondiale.
-
-|
-
-.
-
-GÉOGRAPHIE - Mondialisation et dynamiques géographiques des territoires
+On étudie le gouvernement et l'administration de la Nouvelle-Calédonie depuis les lendemains de la Seconde Guerre mondiale.
 
 |
 
-Programme national : parties/thèmes
+Géographie
+
+Mondialisation et dynamiques géographiques des territoires
+
+PROGRAMME NATIONAL :
+
+Parties
+
+Thèmes
 
 |
 
-Adaptation
+ADAPTATION
 
 |
 
-Thème 1 introductif - Clés de lectures d'un monde complexe (10-11 h)
+Thème 1 introductif - Clés de lectures d'un monde complexe (5-6 heures)
 
 Des cartes pour comprendre le monde
 
-Des cartes pour comprendre la Russie
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
-
-|
-
-Thème 2 - Les dynamiques de la mondialisation (18-20 h)
+Thème 2 - Les dynamiques de la mondialisation (20 -22 heures)
 
 La mondialisation en fonctionnement
 
 - Un produit mondialisé (étude de cas).
 
-- Processus et acteurs de la mondialisation.
+- Processus, acteurs, débats
 
-- Mobilités, flux et réseaux.
+- Mobilités, flux et réseaux
 
 Les territoires dans la mondialisation
 
-- Une ville mondiale (étude de cas).
+- Une ville mondiale (étude de cas)
 
-- Pôles et espaces majeurs de la mondialisation ; territoires et sociétés en marge de la mondialisation.
+- Des territoires inégalement intégrés dans la mondialisation
 
-- Les espaces maritimes : approche géostratégique.
-
-La mondialisation en débat
-
-- États, frontières et mondialisation.
-
-- Débats et contestations.
+- Les espaces maritimes : approche géostratégiques
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
-
-- On insistera sur l'espace Pacifique.
+On insiste sur l'espace Pacifique.
 
 |
 
-Thème 3 - Dynamiques géographiques de grandes aires continentales
-
-(29-31 h)
+Thème 3 - Dynamiques géographiques de grandes aires continentales (32 -34 heures)
 
 L'Amérique : puissance du Nord, affirmation du Sud
 
-- Le bassin caraïbe : interface américaine, interface mondiale (étude de cas).
+- Le continent américain : entre tensions et intégrations régionales
 
-- Le continent américain : entre tensions et intégrations régionales.
-
-- États-Unis-Brésil : rôle mondial, dynamiques territoriales.
+- États-Unis-Brésil : rôle mondial, dynamiques territoriales
 
 L'Afrique : les défis du développement
 
-- Le Sahara : ressources, conflits (étude de cas).
+- Le Sahara : ressources, conflits (étude de cas)
 
-- Le continent africain face au développement et à la mondialisation.
-
-- L'Afrique du Sud : un pays émergent.
+- Le continent africain face au développement et à la mondialisation
 
 L'Asie du Sud et de l'Est : les enjeux de la croissance
 
-- Mumbai : modernité, inégalités (étude de cas).
+- Mumbai : modernité, inégalités (étude de cas)
 
-- L'Asie du Sud et de l'Est : les défis de la population et de la croissance.
+- L'Asie du Sud et de l'Est : les défis de la population et de la croissance
 
-- Japon-Chine : concurrences régionales, ambitions mondiales.
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+- Japon-Chine : concurrences régionales, ambitions mondiales
 
 |
 
-Polynésie française
-
-HISTOIRE - Regards historiques sur le monde actuel
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-Programme national :
+Adaptation Polynésie française
 
-parties/thèmes
+Classe de terminale - Séries ES et L
+
+Histoire
+
+Regards historiques sur le monde actuel
+
+PROGRAMME NATIONAL
 
 |
 
-Adaptation
+ADAPTATION
 
 |
 
-Thème 1 - Le rapport des sociétés à leur passé
-
-(9-10 h)
-
-Le patrimoine : lecture historique
-
-Une étude au choix parmi les trois suivantes :
-
-- Le centre historique de Rome ;
-
-- La vieille ville de Jérusalem ;
-
-- Le centre historique de Paris.
+Thème 1 introductif - Le rapport des sociétés à leur passé (4-5 heures)
 
 Les mémoires : lecture historique
 
 Une étude au choix parmi les deux suivantes :
 
-- L'historien et les mémoires de la Seconde
+- L'historien et les mémoires de la Seconde guerre mondiale en France
 
-Guerre mondiale en France ;
-
-- L'historien et les mémoires de la guerre
-
-d'Algérie.
+- L'historien et les mémoires de la guerre d'Algérie
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou
-
-pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
-Thème 2 - Idéologies, opinions et croyances en
-
-Europe et aux États-Unis de la fin du XIXème
-
-siècle à nos jours (15-17 h)
+Thème 2 - Idéologies et opinions en Europe de la fin du XIXe siècle à nos jours (12-14 heures)
 
 Socialisme et mouvement ouvrier
 
-- Socialisme, communisme et syndicalisme en
-
-Allemagne depuis 1875.
+Socialisme, communisme et syndicalisme en Allemagne depuis 1875
 
 Médias et opinion publique
 
-- Médias et opinion publique dans les grandes
-
-crises politiques en France depuis l'affaire
-
-Dreyfus.
-
-Religion et société
-
-- Religion et société aux États-Unis depuis les
-
-années 1890.
+Médias et opinion publique dans les grandes crises politiques en France depuis l'affaire Dreyfus
 
 |
 
-- On pourra prendre appui sur les répercussions de ces crises dans les médias et l'opinion publique en Polynésie française.
+On peut prendre appui sur les répercussions de ces crises dans les médias et l'opinion publique en Polynésie française.
 
 |
 
-Thème 3 - Puissances et tensions dans le
-
-monde de la fin de la Première Guerre
-
-mondiale à nos jours (17-18 h)
+Thème 3 - Puissances et tensions dans le monde de la fin de la Première Guerre mondiale à nos jours (21 - 22 heures)
 
 Les chemins de la puissance
 
-- Les États-Unis et le monde depuis les 14
+- Les États-Unis et le monde depuis les 14 points du Président Wilson (1918)
 
-points du Président Wilson (1918).
-
-- La Chine et le monde depuis le mouvement
-
-du 4 mai 1919 .
+- La Chine et le monde depuis 1949
 
 Un foyer de conflits
 
-Le Proche et le Moyen-Orient, un foyer de
-
-conflits depuis la fin de la Première Guerre
-
-mondiale.
+Le Proche et le Moyen-Orient, un foyer de conflits depuis la fin de la Première Guerre mondiale
 
 |
 
-- On insistera sur les États-Unis et l'espace Pacifique depuis 1918.
+On insiste sur les Etats-Unis et l'espace Pacifique depuis 1945.
 
-- On insistera sur la Chine et l'espace Pacifique depuis 1919.
+On insiste sur la Chine et l'espace Pacifique depuis 1949.
 
 |
 
-Thème 4 - Les échelles de gouvernement dans
+Thème 4 - Les échelles de gouvernement dans le monde de la fin de la Seconde Guerre mondiale à nos jours (20-21 heures) L'échelle de l'État-nation
 
-le monde de la fin de la Seconde Guerre
-
-mondiale à nos jours (16-17 h)
-
-L'échelle de l'État-nation
-
-- Gouverner la France depuis 1946 : État,
-
-gouvernement et administration. Héritages et
-
-évolutions.
+Gouverner la France depuis 1946 : État, gouvernement et administration. Héritages et évolutions.
 
 L'échelle continentale
 
-- Le projet d'une Europe politique depuis le
-
-congrès de La Haye (1948).
+Le projet d'une Europe politique depuis le congrès de La Haye (1948)
 
 L'échelle mondiale
 
-- La gouvernance économique mondiale depuis
-
-1944.
+La gouvernance économique mondiale depuis 1944
 
 |
 
-- On étudiera le gouvernement et l'administration de la Polynésie française depuis les lendemains de la Seconde Guerre mondiale.
+On étudie le gouvernement et l'administration de la Polynésie française depuis les lendemains de la Seconde Guerre mondiale.
 
 |
 
-.
+Géographie
 
-GÉOGRAPHIE - Mondialisation et dynamiques géographiques des territoires
+Mondialisation et dynamiques géographiques des territoires
 
-|
-
-Programme national : parties/thèmes
+PROGRAMME NATIONAL
 
 |
 
-Adaptation
+ADAPTATION
 
 |
 
-Thème 1 introductif - Clés de lectures d'un monde complexe (10-11 h)
+Thème 1 introductif - Clés de lectures d'un monde complexe (5-6 heures)
 
 Des cartes pour comprendre le monde
 
-Des cartes pour comprendre la Russie
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
-
-|
-
-Thème 2 - Les dynamiques de la mondialisation (18-20 h)
+Thème 2 - Les dynamiques de la mondialisation (20 -22 heures)
 
 La mondialisation en fonctionnement
 
-- Un produit mondialisé (étude de cas).
+- Un produit mondialisé (étude de cas)
 
-- Processus et acteurs de la mondialisation.
-
-- Mobilités, flux et réseaux.
+- Processus, acteurs, débats - Mobilités, flux et réseaux
 
 Les territoires dans la mondialisation
 
-- Une ville mondiale (étude de cas).
+- Une ville mondiale (étude de cas)
 
-- Pôles et espaces majeurs de la mondialisation ; territoires et sociétés
+- Des territoires inégalement intégrés dans la mondialisation
 
-en marge de la mondialisation.
-
-- Les espaces maritimes : approche géostratégique.
-
-La mondialisation en débat
-
-- États, frontières et mondialisation
-
-- Débats et contestations.
+- Les espaces maritimes : approche géostratégiques
 
 |
 
-- On insistera sur l'espace Pacifique.
+On insiste sur l'espace Pacifique.
 
 |
 
+Thème 3 - Dynamiques géographiques de grandes aires continentales (32 -34 heures)
+
+L'Amérique : puissance du Nord, affirmation du Sud
+
+- Le continent américain : entre tensions et intégrations régionales
+
+- États-Unis-Brésil : rôle mondial, dynamiques territoriales
+
+L'Afrique : les défis du développement
+
+- Le Sahara : ressources, conflits (étude de cas)
+
+- Le continent africain face au développement et à la mondialisation
+
+L'Asie du Sud et de l'Est : les enjeux de la croissance
+
+- Mumbai : modernité, inégalités (étude de cas)
+
+- L'Asie du Sud et de l'Est : les défis de la population et de la croissance
+
+- Japon-Chine : concurrences régionales, ambitions mondiales
+
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-Wallis-et-Futuna
+Adaptation Wallis-et-Futuna
 
-HISTOIRE - Regards historiques sur le monde actuel
+Classe terminale - Séries ES et L
 
-|
+Histoire
 
-Programme national :
+Regards historiques sur le monde actuel
 
-parties/thèmes
-
-|
-
-Adaptation
+PROGRAMME NATIONAL :
 
 |
 
-Thème 1 - Le rapport des sociétés à leur passé (9-10 h)
+ADAPTATION
 
-Le patrimoine : lecture historique
+|
 
-- Une étude au choix parmi les trois suivantes :
-
-. Le centre historique de Rome.
-
-. La vieille ville de Jérusalem.
-
-. Le centre historique de Paris.
+Thème 1 introductif - Le rapport des sociétés à leur passé (4-5 heures)
 
 Les mémoires : lecture historique
 
 Une étude au choix parmi les deux suivantes :
 
-. L'historien et les mémoires de la Seconde Guerre mondiale en France.
+- L'historien et les mémoires de la Seconde guerre mondiale en France
 
-. L'historien et les mémoires de la guerre d'Algérie.
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+- L'historien et les mémoires de la guerre d'Algérie
 
 |
 
-Thème 2 - Idéologies, opinions et croyances en Europe et aux États-Unis de la fin du XIXème siècle à nos jours (15-17 h)
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+|
+
+Thème 2 - Idéologies et
+
+opinions en Europe de la fin du XIXe siècle à nos jours (12-14 heures)
 
 Socialisme et mouvement ouvrier
 
-Socialisme, communisme et syndicalisme en Allemagne depuis 1875.
+Socialisme, communisme et syndicalisme en Allemagne depuis 1875
 
-Médias et opinion publique
-
-- Médias et opinion publique dans les grandes crises politiques en France depuis l'affaire Dreyfus.
-
-Religion et société
-
-- Religion et société aux États-Unis depuis les années 1890.
+Médias et opinion publique Médias et opinion publique dans les grandes crises politiques en France depuis l'affaire Dreyfus
 
 |
 
-- On pourra prendre appui sur les répercussions de ces crises dans les médias et l'opinion publique à Wallis-et-Futuna.
+On peut prendre appui sur les répercussions de ces crises dans les médias et l'opinion publique à Wallis-et-Futuna
 
 |
 
-Thème 3 - Puissances et tensions dans le monde de la fin de la Première Guerre mondiale à nos jours (17-18 h)
+Thème 3 - Puissances et tensions dans le monde de la fin de la Première Guerre mondiale à nos jours (21 - 22 heures)
 
 Les chemins de la puissance
 
-- Les États-Unis et le monde depuis les 14 points du Président Wilson (1918).
+- Les États-Unis et le monde depuis les 14 points du Président Wilson (1918)
 
-- La Chine et le monde depuis le mouvement du 4 mai 1919 .
+- La Chine et le monde depuis 1949
 
 Un foyer de conflits
 
@@ -490,116 +392,110 @@ Le Proche et le Moyen-Orient, un foyer de conflits depuis la fin de la Première
 
 |
 
-- On insistera sur les États-Unis et l'espace Pacifique depuis 1918.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- On insistera sur la Chine et l'espace Pacifique depuis 1918.
+On insiste sur les États-Unis et l'espace Pacifique depuis 1945
+
+On insiste sur la Chine et l'espace Pacifique depuis 1949
 
 |
 
-Thème 4 - Les échelles de gouvernement dans le monde de la fin de la Seconde Guerre mondiale à nos jours (16-17 h)
+Thème 4 - Les échelles de gouvernement dans le monde de la fin de la Seconde Guerre mondiale à nos jours (20-21 heures)
 
 L'échelle de l'État-nation
 
-- Gouverner la France depuis 1946 : État, gouvernement et administration. Héritages et évolutions.
+Gouverner la France depuis 1946 : État, gouvernement et administration. Héritages et évolutions.
 
 L'échelle continentale
 
-- Le projet d'une Europe politique depuis le congrès de La Haye (1948).
+Le projet d'une Europe politique depuis le congrès de La Haye (1948)
 
 L'échelle mondiale
 
-- La gouvernance économique mondiale depuis 1944.
+La gouvernance économique mondiale depuis 1944
 
 |
 
-- On étudiera le gouvernement et l'administration de Wallis-et-Futuna depuis les lendemains de la Seconde Guerre mondiale.
+On étudie le gouvernement et l'administration de Wallis-et-Futuna depuis les lendemains de la Seconde Guerre mondiale
 
 |
 
-.
+Géographie
 
-GÉOGRAPHIE - Mondialisation et dynamiques géographiques des territoires
+Mondialisation et dynamiques géographiques des territoires
 
-|
-
-Programme national : parties/thèmes
+PROGRAMME NATIONAL :
 
 |
 
-Adaptation
+ADAPTATION
 
 |
 
-Thème 1 introductif - Clés de lectures d'un monde complexe (10-11 h)
+Thème 1 introductif - Clés de lectures d'un monde complexe (5-6 heures)
 
 Des cartes pour comprendre le monde
 
-Des cartes pour comprendre la Russie
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
-
-|
-
-Thème 2 - Les dynamiques de la mondialisation (18-20 h)
+Thème 2 - Les dynamiques de la mondialisation (20 -22 heures)
 
 La mondialisation en fonctionnement
 
-- Un produit mondialisé (étude de cas).
+- Un produit mondialisé (étude de cas)
 
-- Processus et acteurs de la mondialisation.
+- Processus, acteurs, débats
 
-- Mobilités, flux et réseaux.
+- Mobilités, flux et réseaux
 
 Les territoires dans la mondialisation
 
-- Une ville mondiale (étude de cas).
+- Une ville mondiale (étude de cas)
 
-- Pôles et espaces majeurs de la mondialisation ; territoires et sociétés en marge de la mondialisation.
+- Des territoires inégalement intégrés à la mondialisation
 
-- Les espaces maritimes : approche géostratégique.
+- Les espaces maritimes :
 
-La mondialisation en débat
-
-- États, frontières et mondialisation.
-
-- Débats et contestations.
+approche géostratégiques
 
 |
 
-On insistera sur l'espace Pacifique.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+
+On insiste sur l'espace Pacifique.
 
 |
 
-Thème 3 - Dynamiques géographiques de grandes aires continentales (29-31 h)
+Thème 3 - Dynamiques géographiques de grandes aires continentales (32 -34 heures)
 
 L'Amérique : puissance du Nord, affirmation du Sud
 
-- Le bassin caraïbe : interface américaine, interface mondiale (étude de cas).
+- Le continent américain : entre tensions et intégrations régionales
 
-- Le continent américain : entre tensions et intégrations régionales.
-
-- États-Unis-Brésil : rôle mondial, dynamiques territoriales.
+- États-Unis-Brésil : rôle mondial, dynamiques territoriales
 
 L'Afrique : les défis du développement
 
-- Le Sahara : ressources, conflits (étude de cas).
+- Le Sahara : ressources, conflits (étude de cas)
 
-- Le continent africain face au développement et à la mondialisation.
-
-- L'Afrique du Sud : un pays émergent.
+- Le continent africain face au développement et à la mondialisation
 
 L'Asie du Sud et de l'Est : les enjeux de la croissance
 
-- Mumbai : modernité, inégalités (étude de cas).
+- Mumbai : modernité, inégalités (étude de cas)
 
-- L'Asie du Sud et de l'Est : les défis de la population et de la croissance.
+- L'Asie du Sud et de l'Est : les défis de la population et de la croissance
 
-- Japon-Chine : concurrences régionales, ambitions mondiales.
+- Japon-Chine : concurrences régionales, ambitions mondiales
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans
+
+l'environnement régional.
 
 |
