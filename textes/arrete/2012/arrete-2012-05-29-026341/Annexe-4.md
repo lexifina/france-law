@@ -1,64 +1,48 @@
 # Article Annexe 4
 
-CLASSE DE TROISIÈME
+Adaptation Nouvelle-Calédonie
 
-Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna
+Classe de troisième
 
-CLASSE DE TROISIÈME - Nouvelle-Calédonie
+HISTOIRE
 
-HISTOIRE - - Le monde depuis 1914
-
-|
-
-Programme national : parties/thèmes
+Le monde depuis 1914
 
 |
 
-Adaptation
+Programme national
 
 |
 
-I - Un siècle de transformations scientifiques, technologiques,
-
-économiques et sociales (15 %)
-
-Thème 1 - Les grandes innovations scientifiques et
-
-technologiques
-
-Thème 2 - L'évolution du système de production et ses
-
-conséquences sociales
+Contextualisation
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
+Introduction - Un siècle de transformation scientifiques et technologiques
 
-historiques locaux ou pris dans l'environnement régional.
+(environ 5 % du temps consacré à l'histoire)
 
-|
-
-II - Guerres mondiales et régimes totalitaires (1914-1945)
-
-(25 %)
-
-Thème 1 - La Première Guerre mondiale : vers une guerre
-
-totale (1914-1918)
-
-Thème 2 - Les régimes totalitaires dans les années 1930
-
-Thème 3 - La Seconde Guerre mondiale, une guerre
-
-d'anéantissement (1939-1945)
+Thème 1 : les grandes innovations scientifiques et technologiques
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-historiques locaux ou pris dans l'environnement régional.
+|
 
-- On fait référence à l'implication de la Nouvelle-Calédonie dans la Première Guerre mondiale.
+I - Guerres mondiales et régimes totalitaires (1914-45) (environ 30% du temps consacré à l'histoire)
+
+Thème 1 : la Première Guerre mondiale : vers une guerre totale (1914-1918)
+
+Thème 2 : les régimes totalitaires dans les années 1930
+
+Thème 3 : la Seconde Guerre mondiale, une guerre d'anéantissement (1939-1945)
+
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+On fait référence à l'implication de la Nouvelle-Calédonie dans la Première Guerre mondiale.
 
 On fait référence à l'implication de la Nouvelle-Calédonie dans la Seconde Guerre mondiale.
 
@@ -66,171 +50,131 @@ On insiste sur la guerre du Pacifique.
 
 |
 
-III - Une géopolitique mondiale (depuis 1945) (25 %)
+II - Une géopolitique mondiale (depuis 1945) (environ 30 % du temps consacré à l'histoire)
 
-Thème 1 - La guerre froide
+Thème 1 : la Guerre froide
 
-Thème 2 - Des colonies aux États nouvellement indépendants
+Thème 2 : des colonies aux États nouvellement indépendants
 
-Thème 3 - La construction européenne jusqu'au début des
-
-années 2000
-
-Thème 4 - Le monde depuis le début des années 1990
+Thème 3 : géopolitique du monde actuel
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-historiques locaux ou pris dans l'environnement régional.
+On n'oublie pas que la décolonisation a également touché l'Océanie.
 
-- On n'oublie pas que la décolonisation a également touché l'Océanie.
-
-- On évoque l'émergence de la zone Pacifique comme espace économique et stratégique.
+On évoque l'émergence de l a zone Pacifique comme espace économique et stratégique.
 
 |
 
-IV - La vie politique en France (35 %)
+III - Vie politique et société en France (environ 35 % du temps consacré à l'histoire)
 
-Thème 1 - La République de l'Entre-deux-guerres : victorieuse et fragilisée.
+Thème 1 : la République de l'entre-deux guerres : victorieuse et fragilisée
 
-Thème 2 - Effondrement et refondation républicaine (1940-1946)
+- Les années 1930 : la République en crise et le Front
 
-Thème 3 - De Gaulle et le nouveau système républicain (1958-1969)
+populaire
 
-Thème 4 - La Vème République à l'épreuve de la durée
+Thème 2 : effondrement et refondation républicaine (1940-46)
 
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
-
-historiques locaux ou pris dans l'environnement régional.
-
-Ce thème prend en compte l'évolution politique et institutionnelle de la Nouvelle-Calédonie dans le
-
-cadre de la Vème République.
-
-- On évoque ici la société coloniale en Nouvelle-Calédonie et ses spécificités.
-
-- On rappelle que le choix entre collaboration et Résistance a touché aussi la Nouvelle-Calédonie.
-
-- On évoquera l'évolution statutaire de la Nouvelle-Calédonie dans cette période.
-
-- On évoquera l'évolution statutaire de la Nouvelle-Calédonie dans cette période.
+Thème 3 : la République à l'épreuve de la durée
 
 |
 
-GÉOGRAPHIE - La France et l'Europe dans le monde d'aujourd'hui
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+Ce thème prend en compte l'évolution politique et institutionnelle de la Nouvelle-Calédonie dans le cadre de la Ve République.
+
+On évoque ici la société coloniale en Nouvelle-Calédonie et ses spécificités.
+
+On rappelle que le choix entre collaboration et résistance a touché aussi la Nouvelle-Calédonie.
+
+On évoque l'évolution statutaire de la Nouvelle-Calédonie dans cette période. On aborde l'évolution de la société néo-calédonienne dans cette période.
 
 |
 
-Programme national : parties/thèmes
+.
+
+GEOGRAPHIE
+
+La France et l'Europe dans le monde d'aujourd'hui
 
 |
 
-Adaptation
+Programme national
 
 |
 
-I - Habiter la France (30 %)
-
-Thème 1 - De la ville à l'espace rural, un territoire sous influence
-
-urbaine
-
-Thème 2 - La région
-
-Pour les élèves dont le lycée se situe dans un territoire ultramarin
-
-français n'ayant pas le statut de région, l'étude porte sur ce
-
-territoire.
-
-Thème 3 - Le territoire national et sa population
+Contextualisation
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des
+I - Habiter la France (environ 30 % du temps consacré à la géographie)
 
-exemples géographiques locaux ou pris dans l'environnement régional.
+Thème 1 : un territoire sous influence urbaine.
 
-- On donnera toute sa place à l'étude du territoire de la Nouvelle-Calédonie.
+Démarches :
+
+- Une étude de cas : une grande question d'aménagement urbain choisi dans une aire urbaine de la Région où est situé l'établissement.
+
+Thème 2 : la Région où est situé l'établissement
 
 |
 
-II - Aménagement et développement du territoire français (35 %)
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
-Thème 1 - Les espaces productifs
+On donne toute sa place à l'étude du territoire de la Nouvelle-Calédonie.
 
-- un espace de production à dominante industrielle ou
+Pour les élèves dont le collège est situé dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur ce territoire.
 
-énergétique ;
+|
+
+II - Aménagement et développement du territoire français (environ 35 % du temps consacré à la géographie)
+
+Thème 1 : les espaces productifs
+
+- un espace de production à dominante industrielle ou énergétique ;
 
 - un espace de production à dominante agricole ;
 
 - un espace touristique ou de loisirs, ou un centre d'affaire.
 
-Thème 2 - L'organisation du territoire français
+Thème 2 : l'organisation du territoire français
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
-exemples géographiques locaux ou pris dans l'environnement régional.
-
-- On évoquera ici un exemple d'espace de production pris en Nouvelle-Calédonie (par exemple dans
-
-le cadre de la filière du nickel).
+On évoque ici un exemple d'espace de production pris en Nouvelle-Calédonie (par exemple dans le cadre de la filière du nickel )
 
 |
 
-III - La France et l'Union européenne (20 %)
+III - Le rôle mondial de la France et de l'union européenne
 
-Thème 1 - L'Union européenne, une union d'États
+Thème 1 : l'Union européenne, une union d'États
 
-Thème 2 - La France intégrée dans l'Union européenne :
-
-- les réseaux de transports ;
-
-- l'environnement.
+Thème 2 : la France et l'Union européenne : influence mondiale, puissance incomplète
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
-exemples géographiques locaux ou pris dans l'environnement régional.
+On n'oublie pas d'évoquer ici les liens entre l'Union européenne et les territoires ultramarins français comme la Nouvelle-Calédonie.
 
-- On n'oubliera pas d'évoquer ici les liens entre l'Union européenne et les territoires ultramarins
-
-français comme la Nouvelle-Calédonie.
+On donne toute sa place à la France ultramarine dans ce thème.
 
 |
 
-IV - Le rôle mondial de la France et de l'Union européenne (15 %)
+Adaptation Polynésie française
 
-Thème 1 - La France, une influence mondiale
+Classe de troisième
 
-Thème 2 - Réalités et limites de la puissance de l'Union
-
-européenne
+HISTOIRE
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des
-
-exemples géographiques locaux ou pris dans l'environnement régional.
-
-- On donnera toute sa place à la France ultramarine dans ce thème.
-
-|
-
-CLASSE DE TROISIÈME - Polynésie française
-
-HISTOIRE - Le monde depuis 1914
-
-|
-
-Programme national : parties/thèmes
+Programme national
 
 |
 
@@ -238,428 +182,298 @@ Adaptation
 
 |
 
-I - Un siècle de transformations scientifiques, technologiques,
+Introduction - Un siècle de transformation scientifiques et technologiques (5 %)
 
-économiques et sociales (15 %)
-
-Thème 1 - Les grandes innovations scientifiques et technologiques
-
-Thème 2 - L'évolution du système de production et ses
-
-conséquences sociales
+Thème 1 : les grandes innovations scientifiques et technologiques
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des
-
-exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
-II - Guerres mondiales et régimes totalitaires (1914-1945) (25 %)
+I - Guerres mondiales et régimes totalitaires (1914-45) (environ 30 % du temps consacré à l'histoire)
 
-Thème 1 - La Première Guerre mondiale : vers une guerre totale
+Thème 1 : la Première Guerre mondiale : vers une guerre totale (1914-1918)
 
-(1914-1918)
+Thème 2 : les régimes totalitaires dans les années 1930
 
-Thème 2 - Les régimes totalitaires dans les années 1930
-
-Thème 3 - La Seconde Guerre mondiale, une guerre
-
-d'anéantissement (1939-1945)
+Thème 3 : la Seconde Guerre mondiale, une guerre d'anéantissement (1939-1945)
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-exemples historiques locaux ou pris dans l'environnement régional.
+On fait référence à l'implication des ÉFO dans la Première Guerre mondiale.
 
-- On fait référence à l'implication des EFO dans la Première Guerre mondiale.
-
-- On fait référence à l'implication des EFO dans la Seconde Guerre mondiale.
-
-- On insiste sur la guerre du Pacifique.
+On fait référence à l'implication des ÉFO dans la Seconde Guerre mondiale. On insiste sur la guerre du Pacifique.
 
 |
 
-III - Une géopolitique mondiale (depuis 1945) (25 %)
+II - Une géopolitique mondiale (depuis 1945) (environ 30 % du temps consacré à l'histoire)
 
-Thème 1 - La guerre froide
+Thème 1 : la guerre froide
 
-Thème 2 - Des colonies aux États nouvellement indépendants
+Thème 2 : des colonies aux États nouvellement indépendants
 
-Thème 3 - La construction européenne jusqu'au début des années
-
-2000
-
-Thème 4 - Le monde depuis le début des années 1990
+Thème 3 : géopolitique du monde actuel
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-exemples historiques locaux ou pris dans l'environnement régional.
+On évoque l'importance de la force nucléaire et le développement des expérimentations dans le Pacifique.
 
-On évoque l'importance de la force nucléaire et le développement des expérimentations dans le
+On n'oublie pas que la décolonisation a également touché l'Océanie.
 
-Pacifique.
-
-- On n'oublie pas que la décolonisation a également touché l'Océanie.
-
-- On évoque l'émergence de la zone Pacifique comme espace économique et stratégique.
+On évoque l'émergence de la zone Pacifique comme espace économique et stratégique.
 
 |
 
-IV - La vie politique en France (35 %)
+III - Vie politique et société en France (environ 35 % du temps consacré à l'histoire)
 
-Thème 1 - La République de l'entre-deux-guerres : victorieuse et
+Thème 1 : La République de l'entre-deux guerres : victorieuse et fragilisée
 
-fragilisée.
+- Les années 1930 : la République en crise et le Front populaire
 
-Thème 2 - Effondrement et refondation républicaine (1940-1946)
+Thème 2 : effondrement et refondation républicaine (1940-46)
 
-Thème 3 - De Gaulle et le nouveau système républicain (1958-
-
-1969)
-
-Thème 4 - La Vème République à l'épreuve de la durée
+Thème 3 - La République à l'épreuve de la durée
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-exemples historiques locaux ou pris dans l'environnement régional.
+Ce thème prend en compte l'évolution politique et institutionnelle de la Polynésie française dans le cadre de la Ve République.
 
-Ce thème prend en compte l'évolution politique et institutionnelle de la Polynésie française dans le
+On évoque ici la société coloniale des ÉFO et ses spécificités.
 
-cadre de la Vème République.
+On rappelle que le choix entre collaboration et résistance a touché aussi les ÉFO.
 
-- On évoque ici la société coloniale des ÉFO et ses spécificités.
-
-- On rappelle que le choix entre collaboration et Résistance a touché aussi les EFO.
-
-- On évoquera l'évolution statutaire de la Polynésie française dans cette période.
-
-- On évoquera l'évolution statutaire de la Polynésie française dans cette période.
+On évoque l'évolution statutaire de la Polynésie française dans cette période. On aborde l'évolution de la société polynésienne dans cette période.
 
 |
 
-GÉOGRAPHIE - La France et l'Europe dans le monde d'aujourd'hui
+.
+
+GEOGRAPHIE
 
 |
 
-Programme national : parties/thèmes
+Programme national
 
 |
 
-Adaptation
+Contextualisation
 
 |
 
-I - Habiter la France (30 %)
+I - Habiter la France (environ 30 % du temps consacré à la géographie)
 
-Thème 1 - De la ville à l'espace rural, un
+Thème 1 : un territoire sous influence urbaine
 
-territoire sous influence urbaine
+- Les aires urbaines
 
-Thème 2 - La région
+- Le territoire national et sa population
 
-Pour les élèves dont le lycée se situe dans un
-
-territoire ultramarin français n'ayant pas le
-
-statut de région, l'étude porte sur ce territoire.
-
-Thème 3 - Le territoire national et sa population
+Thème 2 : la Région
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
-locaux ou pris dans l'environnement régional.
+On donne toute sa place à l'étude du territoire de la Polynésie française
 
-On donnera toute sa place à l'étude du territoire de la Polynésie française.
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques
-
-locaux ou pris dans l'environnement régional.
-
-On donnera toute sa place à l'étude du territoire de la Polynésie française.
+Pour les élèves dont le collège se situe dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur ce territoire.
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques
+II - Aménagement et développement du territoire français (environ 35 % du temps consacré à la géographie)
 
-locaux ou pris dans l'environnement régional.
+Thème 1 : les espaces productifs
 
-On évoquera ici un exemple d'espace touristique ou de loisirs pris en Polynésie française.
-
-|
-
-III - La France et l'Union européenne (20 %)
-
-Thème 1 - L'Union européenne, une union
-
-d'États
-
-Thème 2 - La France intégrée dans l'Union
-
-européenne :
-
-- les réseaux de transports
-
-- l'environnement
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques
-
-locaux ou pris dans l'environnement régional.
-
-- On n'oubliera pas d'évoquer ici les liens entre l'Union européenne et les territoires ultramarins français comme la
-
-Polynésie française.
-
-|
-
-IV - Le rôle mondial de la France et de l'Union
-
-européenne (15 %)
-
-Thème 1 - La France, une influence mondiale
-
-Thème 2 - Réalités et limites de la puissance
-
-de l'Union européenne
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques
-
-locaux ou pris dans l'environnement régional.
-
-- On donnera toute sa place à la France ultramarine dans ce thème.
-
-|
-
-CLASSE DE TROISIÈME - Wallis-et-Futuna
-
-HISTOIRE - - Le monde depuis 1914
-
-|
-
-Programme national : parties/thèmes
-
-|
-
-Adaptation
-
-|
-
-I - Un siècle de transformations scientifiques,
-
-technologiques, économiques et sociales (15 %)
-
-Thème 1 - Les grandes innovations scientifiques et
-
-technologiques
-
-Thème 2 - L'évolution du système de production et ses
-
-conséquences sociales
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
-
-historiques locaux ou pris dans l'environnement régional.
-
-|
-
-II - Guerres mondiales et régimes totalitaires (1914-1945)
-
-(25 %)
-
-Thème 1 - La Première Guerre mondiale : vers une
-
-guerre totale (1914-1918)
-
-Thème 2 - Les régimes totalitaires dans les années 1930
-
-Thème 3 - La Seconde Guerre mondiale, une guerre
-
-d'anéantissement (1939-1945)
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
-
-historiques locaux ou pris dans l'environnement régional.
-
-- On fait référence à l'implication de Wallis-et-Futuna dans la Première Guerre mondiale.
-
-- On fait référence à l'implication de Wallis-et-Futuna dans la Seconde Guerre mondiale.
-
-- On insiste sur la guerre du Pacifique.
-
-|
-
-III - Une géopolitique mondiale (depuis 1945) (25 %)
-
-Thème 1 - La guerre froide
-
-Thème 2 - Des colonies aux États nouvellement
-
-indépendants
-
-Thème 3 - La construction européenne jusqu'au début
-
-des années 2000
-
-Thème 4 - Le monde depuis le début des années 1990
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
-
-historiques locaux ou pris dans l'environnement régional.
-
-- On n'oublie pas que la décolonisation a également touché l'Océanie.
-
-- On évoque l'émergence de la zone Pacifique comme espace économique et stratégique.
-
-|
-
-IV - La vie politique en France (35 %)
-
-Thème 1 - La République de l'entre-deux-guerres :
-
-victorieuse et fragilisée.
-
-Thème 2 - Effondrement et refondation républicaine
-
-(1940-1946)
-
-Thème 3 - De Gaulle et le nouveau système républicain
-
-(1958-1969)
-
-Thème 4 - La Vème République à l'épreuve de la durée
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
-
-historiques locaux ou pris dans l'environnement régional.
-
-Ce thème prend en compte l'évolution politique et institutionnelle de Wallis-et-Futuna dans le cadre de la
-
-Vème République.
-
-- On évoque ici la société coloniale à Wallis-et-Futuna et ses spécificités.
-
-- On évoquera l'évolution statutaire de Wallis-et-Futuna dans cette période.
-
-- On évoquera l'évolution statutaire de Wallis-et-Futuna dans cette période.
-
-|
-
-GÉOGRAPHIE - La France et l'Europe dans le monde d'aujourd'hui
-
-|
-
-Programme national : parties/thèmes
-
-|
-
-Adaptation
-
-|
-
-I - Habiter la France (30 %)
-
-Thème 1 - De la ville à l'espace rural, un territoire sous
-
-influence urbaine
-
-Thème 2 - La région
-
-Thème 3 - Le territoire national et sa population
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
-
-géographiques locaux ou pris dans l'environnement régional.
-
-- On donnera toute sa place à l'étude du territoire de Wallis-et-Futuna.
-
-|
-
-II - Aménagement et développement du territoire français
-
-(35 %)
-
-Thème 1 - Les espaces productifs
-
-- un espace de production à dominante industrielle ou
-
-énergétique ;
+- un espace de production à dominante industrielle ou énergétique ;
 
 - un espace de production à dominante agricole ;
 
-- un espace touristique ou de loisirs, ou un centre
+- un espace touristique ou de loisirs, ou un centre d'affaire.
 
-d'affaire.
-
-Thème 2 - L'organisation du territoire français
+Thème 2 : l'organisation du territoire français
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
-géographiques locaux ou pris dans l'environnement régional.
+On évoque ici un exemple d'espace touristique ou de loisirs pris en Polynésie française.
 
 |
 
-III - La France et l'Union européenne (20 %)
+III - Le rôle mondial de la France et de l'union européenne
 
 Thème 1 - L'Union européenne, une union d'États
 
-Thème 2 - La France intégrée dans l'Union européenne :
-
-- les réseaux de transports
-
-- l'environnement
+Thème 2 - La France et l'Union européenne : influence mondiale, puissance incomplète
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
-géographiques locaux ou pris dans l'environnement régional.
-
-- On n'oubliera pas d'évoquer ici les liens entre l'Union européenne et les territoires ultramarins français.
+On donne toute sa place à la France ultramarine dans ce thème.
 
 |
 
-IV - Le rôle mondial de la France et de l'Union
+Adaptation Wallis-et-Futuna
 
-européenne (15 %)
+Classe de troisième
 
-Thème 1 - La France, une influence mondiale
-
-Thème 2 - Réalités et limites de la puissance de l'Union
-
-européenne
+HISTOIRE
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples
+Programme national
 
-géographiques locaux ou pris dans l'environnement régional.
+|
 
-- On donnera toute sa place à la France ultramarine dans ce thème.
+Adaptation
+
+|
+
+Introduction - Un siècle de transformation scientifiques et technologiques
+
+(environ 5 % du temps consacré à l'histoire)
+
+Thème 1 : les grandes innovations scientifiques et technologiques
+
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+|
+
+I - Guerres mondiales et régimes totalitaires (1914-45) (environ 30 % du temps consacré à l'histoire)
+
+Thème 1 : la Première Guerre mondiale : vers une guerre totale (1914-1918)
+
+Thème 2 : les régimes totalitaires dans les années 1930
+
+Thème 3 : la Seconde Guerre mondiale, une guerre d'anéantissement (1939 - 1945)
+
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+On fait référence à l'implication de Wallis-et-Futuna dans la Première Guerre mondiale.
+
+On fait référence à l'implication de Wallis-et-Futuna dans la Seconde Guerre mondiale.
+
+On insiste sur la guerre du Pacifique.
+
+|
+
+II- Une géopolitique mondiale (depuis 1945) (environ 30 % du temps consacré à l'histoire)
+
+Thème 1 : la Guerre froide
+
+Thème 2 : des colonies aux États nouvellement indépendants
+
+Thème 3 : géopolitique du monde actuel
+
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+On n'oublie pas que la décolonisation a également touché l'Océanie.
+
+On évoque l'émergence de la zone Pacifique comme espace économique et stratégique.
+
+|
+
+III - Vie politique et société en France (environ 35 % du temps consacré à l'histoire)
+
+Thème 1 : la République de l'entre-deux guerres : victorieuse et fragilisée
+
+Thème 2 : effondrement et
+
+refondation républicaine (1940-46)
+
+Thème 3 : la République à l'épreuve de la durée
+
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+Ce thème prend en compte l'évolution politique et institutionnelle de Wallis-et-Futuna dans le cadre de la Ve République.
+
+On évoque ici la société coloniale à Wallis-et-Futuna et ses spécificités.
+
+On évoque l'évolution statutaire de Wallis-et-Futuna dans cette période.
+
+On évoque l'évolution statutaire de Wallis-et-Futuna dans cette période.
+
+On aborde l'évolution de la société wallisienne et futunienne dans cette période
+
+|
+
+.
+
+GEOGRAPHIE
+
+|
+
+Programme national
+
+|
+
+Contextualisation
+
+|
+
+I - Habiter la France (environ 30 % du temps consacré à la géographie)
+
+Thème 1 : un territoire sous influence urbaine
+
+Thème 2 : la Région où est situé l'établissement
+
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+
+On donne toute sa place à l'étude du territoire de Wallis-et-Futuna
+
+Pour les élèves dont le collège se situe dans un territoire ultramarin français n'ayant pas le statut de région, l'étude porte sur ce territoire.
+
+|
+
+II - Aménagement et développement du territoire français (environ 35 % du temps consacré à la géographie)
+
+Thème 1 : les espaces productifs
+
+- un espace de production à dominante industrielle ou énergétique ;
+
+- un espace de production à dominante agricole ;
+
+- un espace touristique ou de loisirs, ou un centre d'affaire.
+
+Thème 2 : L'organisation du territoire français
+
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+
+|
+
+III - Le rôle mondial de la France et de l'union européenne
+
+Thème 1 - L'Union européenne, une union d'États
+
+Thème 2 - La France et l'Union européenne : influence mondiale, puissance incomplète
+
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+
+On n'oublie pas d'évoquer ici les liens entre l'Union européenne et les territoires ultramarins français.
+
+On donne toute sa place à la France ultramarine dans ce thème.
 
 |
