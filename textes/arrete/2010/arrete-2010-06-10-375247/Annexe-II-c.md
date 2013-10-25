@@ -731,3 +731,7 @@ Arrêté du 17 juin 2003 fixant les unités générales du certificat d'aptitude
 Arrêté du 10 février 2009 fixant le programme d'enseignement des langues vivantes étrangères pour les classes préparatoires au certificat d'aptitude professionnelle et pour les classes préparatoires au baccalauréat professionnel.
 
 L'épreuve comporte un entretien se rapportant soit à un document étudié au cours de la formation (texte ou image), soit à un document lié à l'activité et/ou à l'expérience du candidat.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 10 octobre 2013, la définition de l'unité UP3 "réalisation d'activités spécifiques" figurant en annexe II c est remplacée par la définition de l'unité UP3 figurant en annexe du présent arrêté. L'arrêté et son annexe seront consultables en ligne au Bulletin officiel du ministère de l'éducation nationale en date du 14 novembre 2013 sur le site http://www.education.gouv.fr/ et à l'adresse suivante : http://www.cndp.fr/outils-doc
