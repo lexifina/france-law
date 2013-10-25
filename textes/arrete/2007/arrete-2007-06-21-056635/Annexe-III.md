@@ -104,7 +104,7 @@ Ponctuelle pratique et orale
 
 |
 
-1 h 40 maxi
+2 h maxi
 
 |
 
@@ -112,7 +112,7 @@ Ponctuelle pratique et orale
 
 |
 
-1 h 40 maxi
+2 h maxi
 
 |
 
