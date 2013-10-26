@@ -136,6 +136,20 @@ Sous-directeur des marchés et de la comptabilité
 
 |
 
+Direction des pêches maritimes et de l'aquaculture
+
+|
+
+Sous-directeur des ressources halieutiques
+
+|
+
+Direction des pêches maritimes et de l'aquaculture
+
+|
+
+Sous-directeur de l'aquaculture et de l'économie des pêches |
+
 Délégation à la sécurité et à la circulation routière
 
 |

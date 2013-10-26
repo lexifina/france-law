@@ -36,6 +36,14 @@ Chef de service chargé des questions sociales
 
 |
 
+Direction des pêches maritimes et de l'aquaculture
+
+|
+
+Chef de service, adjoint au directeur des pêches maritimes et de l'aquaculture
+
+|
+
 Centre de prestations et d'ingénierie informatiques
 
 |
@@ -220,7 +228,7 @@ Direction générale de l'énergie et du climat
 
 |
 
-Sous-directeur du climat et de la qualité de l'air
+Sous-directeur de l'efficacité énergétique et de la qualité de l'air
 
 |
 
