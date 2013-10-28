@@ -1,6 +1,6 @@
 # Article Annexe 3
 
-AU IV DE L'ARTICLE 3
+AU V DE L'ARTICLE 3
 
 1° Pour les calanques de l'île de Riou :
 
@@ -68,6 +68,10 @@ Point D : le point de coordonnée de longitude 05° 37 15'' (Est) et de latitude
 
 Point E : le point de coordonnée de longitude 05° 37 08'' (Est) et de latitude 43° 09 26'' (Nord) ;
 
-Point F : le point de coordonnée de longitude 05° 37 04'' (Est) et de latitude 43° 09 00'' (Nord) ;
+Point F : le point de coordonnée de longitude 05° 37 04'' (Est) et de latitude 43° 09 28'' (Nord) ;
 
 Point G : le point de coordonnée de longitude 05° 36 58'' (Est) et de latitude 43° 09 30'' (Nord).
+
+NOTA :
+
+Les relevés cadastraux et les annexes modifiées par le décret n° 2013-961 du 25 octobre 2013 peuvent être consultés au ministère de l'écologie, du développement durable et de l'énergie, à la préfecture des Bouches-du-Rhône, à la préfecture du Var, au siège de l'établissement public du parc, sur son site internet ainsi que dans les mairies des communes de Marseille, Cassis, La Ciotat, Carnoux-en-Provence, Ceyreste, La Penne-sur-Huveaune et Roquefort-la-Bédoule. (Coordonnées longitudes et latitudes en degrés, minutes, secondes sur ellipsoïde WGS 84.)
