@@ -1,0 +1,9 @@
+# Réponse à la question n° 36466
+
+- Question : [36466](36466.md) — Question n° 36466 — rapport; propositions
+
+## Réponse
+
+*JO du 2013-10-29*
+
+La direction générale de l'aviation civile (DGAC), autorité compétente en matière de sûreté de l'aviation civile au sens du règlement (CE) n° 300/2008 sur délégation du ministre délégué, chargé des transports, de la mer et de la pêche, est très attentive au rapport coût/efficacité et donc à l'efficience des mesures de sûreté. L'essentiel du cadre réglementaire dans ce domaine étant d'origine internationale, la DGAC s'exprime et agit tant au niveau de l'organisation de l'aviation civile internationale que de l'Union européenne pour limiter l'addition systématique de nouvelles mesures et l'inflation des coûts qui en résultent. A titre d'illustration, elle a obtenu en novembre 2012 de la Commission européenne que la nouvelle réglementation européenne sur l'emport des liquides à bord applicable à compter du 31 janvier 2014 prévoie, pour les petits et moyens aéroports, la possibilité d'opter pour une procédure de contrôle simplifiée reposant sur des équipements moins nombreux et moins coûteux. Par ailleurs, la DGAC s'est dotée d'une capacité autonome d'analyse du risque, résultant du croisement des menaces et des vulnérabilités relatives au transport aérien, afin de pouvoir adapter au plus juste les mesures de sûreté au niveau du risque réellement constaté, et ce, pour les cas où la réglementation européenne autorise une appréciation nationale dans les moyens mis en oeuvre. Enfin une étude de parangonnage des meilleures pratiques appliquées au niveau européen en matière de sûreté devrait être confiée au conseil général de l'environnement et du développement durable : le contenu précis de la lettre de mission correspondante est en cours de discussion.
