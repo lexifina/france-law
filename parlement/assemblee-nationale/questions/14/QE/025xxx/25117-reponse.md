@@ -1,0 +1,9 @@
+# Réponse à la question n° 25117
+
+- Question : [25117](25117.md) — Question n° 25117 — maladies vectorielles; lutte et prévention
+
+## Réponse
+
+*JO du 2013-10-29*
+
+Un nouveau virus grippal aviaire, de type H7N9, est à l'origine d'infections humaines sévères observées en Chine depuis le mois de mars. L'épidémie s'est étendue à plusieurs provinces chinoises contiguës. Un cas a été observé à Taiwan ; il s'agit d'un cas importé, pour lequel l'infection a été contractée dans une des provinces atteintes. Si la sévérité des cas et la létalité importante peuvent inquiéter, il n'est pas démontré de transmission interhumaine soutenue à ce jour. Ainsi aucun cas secondaire n'a jusqu'alors été observé parmi les contacts des cas. Les virologues ont relevé des caractéristiques génétiques de pouvoir d'adaptation à l'homme et donc un potentiel pandémique. La menace est donc sérieuse même en l'absence actuelle de transmission interhumaine. Le ministère des affaires sociales et de la santé est en lien avec les instances sanitaires européennes et l'organisation mondiale de la santé. Il suit de près les évolutions épidémiologiques ainsi que les investigations internationales entreprises pour l'identification précise des sources et modes de contamination. Le centre national de référence de la grippe est en capacité d'assurer le diagnostic biologique. Des indications ont été transmises aux professionnels de santé et aux agences régionales de santé en vue de les préparer à la gestion d'un éventuel cas importé en territoire français. Des conseils sont délivrés aux voyageurs en provenance ou à destination de la Chine. Aucune restriction de voyage n'est justifiée à ce jour ni la mise en place de contrôles aux points d'entrée sur le territoire national. Ces mesures seront adaptées en fonction de l'évolution des connaissances et de l'épidémiologie.
