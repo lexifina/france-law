@@ -1,0 +1,9 @@
+# Réponse à la question n° 33587
+
+- Question : [33587](33587.md) — Question n° 33587 — peines; disparités
+
+## Réponse
+
+*JO du 2013-10-29*
+
+Il n'appartient pas à la garde des sceaux, en application du principe constitutionnel de séparation des pouvoirs, de formuler des appréciations sur les décisions de justice prises en toute indépendance, au regard des circonstances de l'espèce et de la personnalité des mis en cause. La circulaire de politique pénale de la garde des sceaux du 19 septembre 2012 précise que les sanctions requises doivent être justes et adaptées et que toute décision doit être individualisée. Dès lors, les décisions sont prises en considération des éléments de fait, du contexte et de la personnalité des mis en cause. Dans le cas d'espèce évoqué, les juges du fond ont rendu leur décision en faisant une appréciation souveraine de ces éléments en fondant leur condamnation sur les chefs d'entrave à la circulation, non dispersion, fourniture d'une fausse identité, refus de se soumettre aux opérations de relevés signalétiques et rébellion. Le mis en cause n'a donc pas été inquiété par la justice en raison de sa participation à une manifestation, ce qui constitue dans notre démocratie un droit constitutionnellement garanti, mais pour avoir été déclaré coupable d'infractions aux lois. L'intéressé était en outre un réitérant, puisqu'il avait fait l'objet d'une première interpellation dans le cadre de la manifestation du 25 mai 2013 à Paris et avait, à l'issue d'une audience de comparution immédiate du 28 mai 2013, été relaxé pour non dispersion et condamné à 200 € pour entrave à la circulation et fourniture d'une fausse identité. Il convient enfin de préciser que les voies de recours offertes par la loi ont été exercées et ont conduit en appel à une condamnation à une peine d'amende dont une partie avec sursis.
