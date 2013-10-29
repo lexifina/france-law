@@ -1,0 +1,9 @@
+# Réponse à la question n° 22371
+
+- Question : [22371](22371.md) — Question n° 22371 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2013-10-29*
+
+Même si notre pays dispose aujourd'hui d'une couverture vaccinale de qualité, comme l'atteste la vaccination des nourrissons qui dépasse le seuil de 97 % pour la primo-vaccination, la politique vaccinale reste une grande priorité de santé publique pour le Gouvernement, notamment pour réduire les disparités selon le type de vaccins mais aussi les disparités territoriales. La politique pour améliorer la couverture vaccinale sera un axe essentiel de la nouvelle stratégie de santé voulue par le Gouvernement, stratégie fondée sur une notion essentielle : le parcours. Il s'agit de simplifier, de faciliter le parcours vaccinal des français. Une première mesure a déjà été mise en oeuvre en 2013 avec la simplification et la clarification du calendrier vaccinal. Cette simplification permet de diminuer le nombre d'injections pour une efficacité équivalente. Cette simplification doit concourir à une meilleure adhésion aux schémas vaccinaux. Les agences régionales de santé sont des établissements publics administratifs qui bénéficient d'une autonomie pour s'organiser en termes de déclinaison du programme national d'amélioration de la politique vaccinale 2012-2017. Des échanges réguliers interviennent entre la direction générale de la santé et les ARS autour de cette déclinaison en termes de partage d'expériences et d'appui aux difficultés rencontrées. L'organisation de la semaine européenne de la vaccination est l'occasion pour les agences régionales de santé (ARS), en lien avec l'institut national de prévention et d'éducation pour la santé, de développer des actions de communication et de sensibilisation à la prévention vaccinale.
