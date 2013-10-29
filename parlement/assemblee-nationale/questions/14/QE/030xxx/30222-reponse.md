@@ -1,0 +1,9 @@
+# Réponse à la question n° 30222
+
+- Question : [30222](30222.md) — Question n° 30222 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2013-10-29*
+
+Dans son rapport public thématique de mai 2013 intitulé « Gérer les enseignants autrement », la Cour des comptes préconise d'identifier dans le cadre de la valorisation des ressources humaines, au sein de l'équipe pédagogique, des fonctions de coordination et d'appui assurées par un membre de l'équipe pédagogique partiellement déchargé et d'inscrire ces fonctions dans le parcours professionnel des enseignants. Les problématiques abordées par la Cour des comptes dans son rapport thématique rejoignent l'ambition du Gouvernement visant à une mobilisation optimale des ressources humaines. Concernant les personnels enseignants, depuis la loi n° 89-486 du 20 juillet 1989 d'orientation sur l'éducation, l'article L. 912-1 reconnaît que les missions des enseignants ne se limitent pas à la réalisation d'heures d'enseignement mais sont centrées sur la réussite des élèves. La loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République conforte cette conception, notamment en renforçant la coordination pédagogique, et amène le ministère de l'éducation nationale à souhaiter mieux reconnaître et promouvoir l'exercice effectif des missions de coordination et d'appui des enseignants. Cette question, qui ne peut être déconnectée de la problématique plus générale de l'évolution du métier enseignant, s'inscrit pleinement dans le cadre de l'agenda social ministériel prévoyant l'engagement à l'automne 2013 de discussions portant sur une redéfinition du métier d'enseignant, par un examen d'ensemble des missions et des conditions d'exercice du métier, notamment en termes d'obligations de service, ainsi que des parcours de carrières des personnels enseignants.
