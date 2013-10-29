@@ -1,0 +1,9 @@
+# Réponse à la question n° 30890
+
+- Question : [30890](30890.md) — Question n° 30890 — gaz de schiste; exploration et exploitation
+
+## Réponse
+
+*JO du 2013-10-29*
+
+La loi n° 2011-835 du 13 juillet 2011 a interdit l'exploration et l'exploitation des mines d'hydrocarbures liquides ou gazeux par des forages suivis d'opérations de fracturation hydraulique de la roche. En conséquence, aucun permis, qu'il soit de recherche ou d'exploitation d'hydrocarbures liquides et gazeux, ayant recours à cette technique ne peut être délivré sur le territoire français. De même, aucun forage ayant recours à cette technique ne peut être autorisé par les représentants de l'Etat dans le département. Le 11 octobre dernier, le Conseil Constitutionnel a confirmé la conformité de cette loi à la Constitution. Il n'y a donc aucune incertitude juridique quant à l'interdiction prévue par la loi. Le ministre de l'écologie, du développement durable et de l'énergie, a fermement rappelé que tout permis exclusif de recherches d'hydrocarbures liquides et gazeux doit respecter la loi du 13 juillet 2011 et ne peut viser que la recherche d'hydrocarbures conventionnels sans usage de la fracturation hydraulique. Des instructions ont été adressées aux services déconcentrés de l'État en charge de la police des mines en septembre 2012 pour procéder aux vérifications nécessaires lors des autorisations de travaux et de leur contrôle durant leur réalisation, afin de s'assurer, à chaque étape, du strict respect de la loi. Les préfets d'Ile-de-France les ont mises en oeuvre et certains d'entre eux ont été conduits à interdire des programmes de forage. En ce qui concerne la réforme du code minier, le projet de texte prend largement en compte la consultation du public. Il est en cours de finalisation et sera présenté au législateur au début de l'année 2014.
