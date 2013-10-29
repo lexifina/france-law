@@ -1,0 +1,9 @@
+# Réponse à la question n° 7419
+
+- Question : [7419](7419.md) — Question n° 7419 — respect
+
+## Réponse
+
+*JO du 2013-10-29*
+
+La participation du citoyen à la détermination de ses conditions de travail et le droit de grève sont, en effet, des droits reconnus par la constitution de la Ve République. Pour autant, et au risque sinon de sanctions, ces derniers doivent être exercés dans le cadre des lois qui les règlementent. Ces dernières années, de nombreux concitoyens se sont engagés dans des mouvements sociaux et des activités syndicales et revendicatives notamment pour répondre aux difficultés auxquelles ils sont confrontés dans les domaines du travail et de l'emploi. Dans l'immense majorité des situations, ces mouvements et actions revendicatives ont été réalisées dans le strict cadre de la loi et n'ont donné lieu à aucune procédure judiciaire. Dans quelques cas, des procédures judiciaires ont pu être engagées. Les décisions rendues par les tribunaux dans ces situations relèvent de l'appréciation souveraine des juges dans le strict respect des droits de la défense et du principe du contradictoire. Le Gouvernement se doit de les respecter. Une proposition de loi a été déposée le 28 novembre 2012, par plusieurs sénateurs visant à amnistier les faits commis à l'occasion de mouvements sociaux et d'activités syndicales revendicatives ainsi qu'à l'amnistie des sanctions disciplinaires. Cette proposition de loi, qui prévoit l'amnistie des délits et sanctions pour des faits commis lors de mouvements sociaux ou d'activités sociales syndicales revendicatives entre le 1er janvier 2007 et le 1er février 2013 a été adoptée en première lecture, avec modification le 27 février 2013. A ce jour, cette proposition de loi a fait l'objet d'une motion de renvoi en commission adoptée par l'assemblée nationale le 16 mai 2013.
