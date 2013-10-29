@@ -1,0 +1,9 @@
+# Réponse à la question n° 37005
+
+- Question : [37005](37005.md) — Question n° 37005 — lutte et prévention
+
+## Réponse
+
+*JO du 2013-10-29*
+
+La borréliose de Lyme est une maladie infectieuse, identifiée en 1975 qui fait l'objet depuis plusieurs années d'une surveillance chez l'homme comme chez l'animal (les chiens et les tiques) afin de mieux définir son importance quantitative, sa localisation précise et ses facteurs de risque. Cette surveillance a permis de mettre en évidence l'expansion géographique progressive de l'aire de transmission en France. Cette maladie peut être contractée sur tout le territoire (à l'exception de la haute montagne et du littoral méditerranéen, milieux peu favorables à la survie des tiques). Il existe des zones géographiques où l'incidence est localement beaucoup plus élevée, par exemple en Alsace (200 cas pour 100 000 habitants par an), en Corrèze, ou dans la Meuse. La symptomatologie, le diagnostic et le traitement de la maladie de Lyme sont bien documentés en cas de morsure récente et de symptômes nets et objectifs. Une conférence de consensus de la société de pathologie infectieuse de langue française en a précisé les points principaux en 2006, et ses recommandations sont accessibles par tout médecin. Les actions de formation continue, notamment impulsées localement par les unions régionales des médecins libéraux (URML), sont adaptées aux spécificités régionales de la pathologie rencontrée. En cas de morsure ancienne et devant des symptômes non spécifiques, les attitudes diagnostiques et thérapeutiques ainsi que les aspects nosologiques méritent d'être reprécisés. Ainsi, la ministre des affaires sociales et de la santé a récemment saisi le haut conseil de la santé publique (HCSP) pour qu'il actualise l'état des connaissances sur l'épidémiologie, les techniques diagnostiques et les orientations de traitement de cette affection ainsi que les axes de recherche éventuels.
