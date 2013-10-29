@@ -1,0 +1,9 @@
+# Réponse à la question n° 31880
+
+- Question : [31880](31880.md) — Question n° 31880 — peines; disparités
+
+## Réponse
+
+*JO du 2013-10-29*
+
+Il n'appartient pas à la garde des sceaux, en application du principe constitutionnel de séparation des pouvoirs, de formuler des appréciations sur les décisions de justice prises en toute indépendance, au regard des circonstances de l'espèce et de la personnalité des mis en cause. Le procureur de la République a par ailleurs toute latitude pour faire appel s'il estime qu'en regard des faits et de la personnalité des auteurs les peines ne sont pas adaptées. Dans l'affaire dite du RER de Grigny, il l'a fait pour le majeur qui a été relaxé, les onze autres mis en cause étant tous mineurs. De la même manière, la condamnation de la personne ayant participé à une manifestation contre la loi ouvrant le droit au mariage à tous les couples est une décision de justice prononcée par un tribunal indépendant à la demande d'un procureur, qui agit librement pour faire appliquer la loi. Il convient toutefois de préciser que le mis en cause n'a pas été inquiété par la justice en raison de sa participation à une manifestation, ce qui constitue dans notre démocratie un droit constitutionnellement garanti, mais pour avoir été déclaré coupable de rébellion, fourniture d'identité imaginaire et refus de se soumettre aux opérations de relevés signalétiques. L'intéressé était en outre un réitérant, puisqu'il avait fait l'objet d'une première interpellation dans le cadre de la manifestation du 25 mai 2013 à Paris et avait, à l'issue d'une audience de comparution immédiate du 28 mai 2013, été relaxé pour non dispersion et condamné à 200 € pour entrave à la circulation et fourniture d'une fausse identité. La seconde condamnation à une peine de 4 mois d'emprisonnement dont 2 mois fermes assortis d'un mandat de dépôt a fait l'objet d'un appel ayant débouché sur la révision de la condamnation en une peine d'amende.
