@@ -1,0 +1,9 @@
+# Réponse à la question n° 8793
+
+- Question : [8793](8793.md) — Question n° 8793 — tarification sociale; création
+
+## Réponse
+
+*JO du 2013-10-29*
+
+Un label « Tarif social de l'internet » a été mis en place en septembre 2011. Les conditions d'éligibilité à ce label sont définies par un cahier des charges élaboré en concertation avec les opérateurs de communications électroniques. Pour obtenir la labellisation d'une offre sociale de l'internet par le Gouvernement, un opérateur doit ainsi satisfaire à certains critères : l'offre d'un montant maximal de 23 euros est dédiée a minima aux allocataires du revenu de solidarité active (dit « socle ») et doit comporter outre l'accès à internet, la possibilité de passer en illimité des appels vers les téléphones fixes sur le territoire national. Ce label permet aux personnes rencontrant des difficultés en raison de leur niveau de revenu d'identifier des offres sans engagement de durée, ni frais d'activation ou de résiliation. Un opérateur s'est d'ores et déjà engagé à fournir cette offre sociale. L'absence de dispositions législatives ne fait donc aujourd'hui pas obstacle à la création de nouvelles offres sociales de l'internet. En tout état de cause, le tarif social de l'accès à Internet ne saurait à lui seul résoudre la question de la fracture numérique, qui exclut aujourd'hui une part de nos concitoyens de la révolution des usages par le numérique. C'est pourquoi la feuille de route numérique, adoptée par le Premier ministre le 28 février dernier, prévoit un certain nombre d'action pour rapprocher certaines catégories de population du numérique, à travers notamment les espaces publics numériques (EPN). Pour aller au-delà, le Gouvernement a saisi le conseil national du numérique, qui va prochainement faire ses recommandations sur le sujet majeur de l'exclusion numérique.
