@@ -1,0 +1,9 @@
+# Réponse à la question n° 38477
+
+- Question : [38477](38477.md) — Question n° 38477 — animaux de compagnie; éleveurs
+
+## Réponse
+
+*JO du 2013-10-29*
+
+Les ventes d'animaux domestiques bénéficient actuellement du taux réduit de 7 % de la taxe sur la valeur ajoutée. Or, la directive communautaire sur la TVA ne prévoit pas l'application d'un taux réduit de TVA aux produits agricoles en tant que tels, à l'exception de certains produits spécifiques : livraisons de plantes vivantes et autres produits de la floriculture, y compris les bulbes, les racines et produits similaires, les fleurs coupées et les feuillages pour ornement, ainsi qu'aux livraisons de bois de chauffage. Mis à part ces produits, les opérations relatives aux produits agricoles ne sont susceptibles de bénéficier d'un taux réduit de TVA que s'il s'agit de denrées alimentaires destinées à la consommation humaine ou animale, d'animaux vivants, graines, plantes et ingrédients normalement destinés à être utilisés dans la préparation des denrées alimentaires, de produits normalement utilisés pour compléter ou remplacer des denrées alimentaires et d'intrants agricoles. La Commission européenne considère que l'application du taux réduit de TVA aux « produits agricoles » en général, sans tenir compte de leur usage, est contraire à la directive TVA. Elle estime que les opérations de vente d'animaux domestiques tels que chiens et chats n'entrent clairement pas dans le champ des taux réduits de TVA autorisés par la directive TVA. Une procédure d'infraction contre la France a été engagée et celle-ci doit se mettre en conformité avec la directive, sous peine de lourdes sanctions financières. Toutefois la France porte une demande de délai d'adaptation pour permettre à la filière d'anticiper ce changement dans des conditions satisfaisantes.
