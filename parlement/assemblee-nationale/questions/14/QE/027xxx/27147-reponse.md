@@ -1,0 +1,9 @@
+# Réponse à la question n° 27147
+
+- Question : [27147](27147.md) — Question n° 27147 — pêcheurs en eau douce; revendications; Aquitaine
+
+## Réponse
+
+*JO du 2013-10-29*
+
+La dégradation des milieux naturels (entraves à la libre circulation des poissons, qualité des eaux, etc.) et la pêche sont les principaux facteurs responsables de la diminution de la population d'anguille, observée depuis les années 1980. Pour y remédier, des mesures ont été mises en place au niveau européen par le règlement n° 1100/2007 du 18 septembre 2007. En application de ce règlement, un plan national de gestion de l'anguille a été élaboré. Il a été approuvé par la Commission européenne le 15 février 2010. Les modifications réglementaires nécessaires à la mise en oeuvre des mesures du plan relatives à la pêche ont été apportées. Le plan de gestion français de l'anguille a fixé des objectifs de réduction de la mortalité par pêche de 60 % en 2015. Tant que cet objectif n'est pas atteint, des mesures supplémentaires de réduction de l'effort de pêche devront être mises en oeuvre. Chaque année, la définition des quotas de pêche fait l'objet d'une procédure définie dans le plan de gestion français de l'anguille, avec un comité scientifique et un comité socio-économique, ainsi que des consultations officielles et la participation du public.
