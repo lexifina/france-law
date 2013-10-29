@@ -1,0 +1,9 @@
+# Réponse à la question n° 20817
+
+- Question : [20817](20817.md) — Question n° 20817 — instances consultatives; membres
+
+## Réponse
+
+*JO du 2013-10-29*
+
+L'arrêté du 24 janvier 2013 portant nomination des membres du Comité national « trames verte et bleue » a été pris en application de l'article D. 371-3 du code de l'environnement. La composition du Comité est fixée par ce texte, qui prévoit cinq collèges de dix membres chacun, composé de représentants d'élus, de l'État et de ses établissements publics, d'organismes socioprofessionnels, de propriétaires et d'usagers de la nature, d'associations, d'organismes ou de fondations oeuvrant pour la préservation de la biodiversité et de gestionnaires d'espaces naturels ainsi que de scientifiques, représentants d'organismes de recherche, d'études ou d'appui aux politiques publiques et de personnalités qualifiées. Chasse, pêche, nature et traditions (CPNT) est un parti politique et le Comité national « trames verte et bleue » ne compte pas de membre siégeant en cette qualité. Les élus membres du premier collège sont des parlementaires proposés par leurs assemblées respectives et des représentants d'associations d'élus. Un membre de CPNT ne peut non plus être nommé au sein du troisième collège au titre des « représentants d'associations, d'organismes et fondations visés à l'article L. 141-3 », qui sont agréés selon une procédure propre. Il est à noter que les chasseurs et autres usagers de la nature sont représentés au sein du troisième collège du Comité national « trames verte et bleue » par le président de la Fédération nationale des chasseurs, ainsi que par le président de la Fédération nationale de la pêche et de la protection du milieu aquatique. Il n'est donc pas aujourd'hui envisagé de changer la composition du Comité national « trames verte et bleue ».
