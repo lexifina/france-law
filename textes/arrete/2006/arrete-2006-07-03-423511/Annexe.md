@@ -38,7 +38,9 @@ EURO
 
 |
 
-AFRIQUE DU SUD pour la période allant du 15 mai au 31 juillet |
+AFRIQUE DU SUD pour la période allant du 15 mai au 31 juillet
+
+|
 
 EURO
 
@@ -52,11 +54,11 @@ ALBANIE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-147
+180
 
 |
 
@@ -116,7 +118,7 @@ DOLLAR US
 
 |
 
-260
+208
 
 |
 
@@ -128,7 +130,7 @@ DOLLAR US
 
 |
 
-288
+230
 
 |
 
@@ -324,15 +326,25 @@ EURO
 
 |
 
+BIRMANIE |
+
+DOLLAR US
+
+|
+
+250
+
+|
+
 BOLIVIE
 
 |
 
-EURO
+DOLLAR US
 
 |
 
-70
+135
 
 |
 
@@ -364,11 +376,11 @@ BRESIL
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-148
+216
 
 |
 
@@ -488,7 +500,7 @@ FRANC CFA
 
 |
 
-58 200
+80 000
 
 |
 
@@ -500,7 +512,7 @@ DOLLAR US
 
 |
 
-150
+217
 
 |
 
@@ -516,7 +528,9 @@ YUAN CHINOIS (CNY)
 
 |
 
-Ville de Shanghai pour la période allant du 1er mai au 31 octobre 2010 |
+Ville de Shanghai pour la période allant du 1er mai au 31 octobre 2010
+
+|
 
 YUAN CHINOIS (CNY)
 
@@ -726,7 +740,7 @@ DOLLAR US
 
 |
 
-134
+201
 
 |
 
@@ -890,7 +904,7 @@ FRANC CFA
 
 |
 
-79 040
+100 000
 
 |
 
@@ -962,7 +976,7 @@ DOLLAR US
 
 |
 
-181
+199
 
 |
 
@@ -982,11 +996,11 @@ GUINEE
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-160
+170
 
 |
 
@@ -1150,11 +1164,11 @@ ISRAEL
 
 |
 
-DOLLAR US
+EURO
 
 |
 
-222
+230
 
 |
 
@@ -1190,7 +1204,17 @@ YEN
 
 |
 
-34 000
+25 500
+
+|
+
+Ville de TOKYO |
+
+YEN
+
+|
+
+30 000
 
 |
 
@@ -1274,7 +1298,7 @@ DOLLAR US
 
 |
 
-88
+150
 
 |
 
@@ -1318,7 +1342,7 @@ LIBERIA
 
 |
 
-DOLLAR LIBERIEN
+DOLLAR US
 
 |
 
@@ -1334,7 +1358,7 @@ DINAR LIBYEN
 
 |
 
-125
+280
 
 |
 
@@ -1494,15 +1518,15 @@ DOLLAR US
 
 |
 
-MAURICE
+MAURICE (île)
 
 |
 
-ROUPIE ILE MAURICE
+ROUPIE MAURICIENNE
 
 |
 
-3 684
+5 500
 
 |
 
@@ -1910,7 +1934,7 @@ DOLLAR US
 
 |
 
-127
+277
 
 |
 
@@ -1923,6 +1947,16 @@ DOLLAR US
 |
 
 144
+
+|
+
+SAINT-CHRISTOPHE-ET-NIEVES |
+
+DOLLAR US
+
+|
+
+202
 
 |
 
@@ -2103,6 +2137,18 @@ DOLLAR US
 |
 
 175
+
+|
+
+Sud SOUDAN
+
+|
+
+DOLLAR US
+
+|
+
+306
 
 |
 
@@ -2438,6 +2484,6 @@ DOLLAR US
 
 |
 
-118,50
+180
 
 |
