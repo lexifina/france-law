@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204546
+
+- Question : [SEQ130204546](seq130204546.md) — Évènements dramatiques intervenus dans les établissements de l'AP-HP Sainte-Périne et Port-Royal
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-10-31, page 3146*
+
+À la suite des événements intervenus à l'hôpital Sainte-Perrine et à la réception de signalements à l'agence régionale de santé (ARS) d'Île-de-France de la part d'usagers et de leurs familles, une mission d'inspection a été mise en place au sein de l'établissement afin de recueillir les éléments qui permettront d'apprécier les conditions de prise en charge des patients et de s'assurer de la sécurité des personnes âgées dépendantes au sein de cet établissement. L'enquête judiciaire en cours et celle menée par l'ARS diront si un défaut d'organisation est à l'origine de ces drames. S'agissant du drame qui s'est produit à la maternité de l'hôpital Cochin, il a été immédiatement demandé à l'Assistance publique-Hôpitaux de Paris que soit diligentée une enquête permettant aux parents et à l'administration de bénéficier de réponses précises sur les conditions dans lesquelles cet événement s'est déroulé. La mission d'enquête a rencontré la famille, les membres de la gouvernance du groupe hospitalier ainsi que les équipes du pôle périnatalogie de la maternité de Port Royal. Ses conclusions ont été rendues à la ministre des affaires sociales et de la santé le 19 mars 2013, desquelles il ressort qu'aucun lien ne peut être établi entre la mort in utero d'un bébé et les conditions de la prise en charge de sa mère à la maternité de Port-Royal. Par ailleurs, l'enquête judiciaire suit son cours. Enfin, au-delà de ces cas tragiques, et s'agissant des transformations du système de santé, la stratégie nationale de santé menée par la ministre des affaires sociales et de la santé a pour ambition de mobiliser les acteurs afin d'améliorer les prises en charges et la qualité des soins.
