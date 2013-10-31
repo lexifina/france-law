@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130807885
+
+- Question : [SEQ130807885](seq130807885.md) — Vente de médicaments en grande surface
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-10-31, page 3145*
+
+La législation française sur les médicaments prévoit que la dispensation au détail de ceux-ci ne peut se faire que dans les pharmacies d'officine définies à l'article L. 5125-1 du code de la santé publique. Ce monopole pharmaceutique est lié à la spécificité du médicament, dont une mauvaise utilisation peut s'avérer préjudiciable au patient. C'est pourquoi la dispensation du médicament, dont les modalités sont clairement définies à l'article R. 4235-48 du code de la santé publique, à savoir l'analyse pharmaceutique de l'ordonnance médicale si elle existe, la préparation éventuelle des doses à administrer, la mise à disposition des informations et les conseils nécessaires au bon usage du médicament ainsi qu'un devoir particulier de conseil lorsqu'il s'agit de délivrer un médicament qui ne requiert pas une prescription médicale ne peut être réalisée que par un pharmacien d'officine, titulaire ou adjoint, ou par un préparateur en pharmacie sous la responsabilité et le contrôle effectif d'un pharmacien. L'automédication au sens large ainsi que le libre accès des patients à certains médicaments, dits de « médication officinale », instauré par le décret n° 2008-641 du 30 juin 2008, ne font pas obstacle à ces dispositions. Bien au contraire, ils renforcent l'importance du conseil donné au patient par le pharmacien. La réponse du ministère des affaires sociales et de la santé publiée au Journal Officiel du Sénat du 8 novembre 2012 est maintenue. En effet, le Gouvernement n'envisage pas de sortir du cadre législatif et réglementaire actuel de la dispensation des médicaments, dans l'intérêt de la santé publique, de la qualité des soins et de la dispensation ainsi que de la sécurité des patients.
