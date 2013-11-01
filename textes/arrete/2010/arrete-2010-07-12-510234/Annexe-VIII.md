@@ -78,11 +78,11 @@ Montant brut mensuel de l'indemnité de sujétions particulières allouée :
 
 |
 
-― aux internes et résidents pour les 1er, 2e, 3e et 4e semestres
+― aux internes et résidents de 1re et 2e année
 
 |
 
-371, 23
+430
 
 |
 
@@ -90,9 +90,7 @@ Montant brut mensuel de l'indemnité de sujétions particulières allouée :
 
 |
 
-371, 23
-
-|
+430 |
 
 II. ― Emoluments forfaitaires alloués aux étudiants faisant fonction d'interne (montant brut annuel)
 
