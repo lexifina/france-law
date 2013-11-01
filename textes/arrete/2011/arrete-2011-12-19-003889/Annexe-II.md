@@ -1,14 +1,16 @@
 # Article Annexe II
 
-NORMES D'EXCRÉTION D'AZOTE PAR ESPÈCE ANIMALE POUR LA MISE EN ŒUVRE DU 5 DE L'ANNEXE I DU PRÉSENT ARRÊTÉ
+Normes de production d'azote épandable par espèce animale
+
+pour la mise en œuvre du 5 de l'annexe I du présent arrêté
 
 Rappel :
 
 L'azote épandable est défini comme étant l'azote excrété par un animal d'élevage en bâtiment et à la pâture duquel est soustrait l'azote volatilisé lors de la présence de l'animal en bâtiment et lors du stockage des effluents. L'azote volatilisé à la pâture n'est pas soustrait de l'azote excrété (jurisprudence de la Cour de justice de l'Union européenne concernant la mise en œuvre de la directive 91/676/CEE dite directive nitrates ).
 
-A. ― Production d'azote épandable
+A. - Production d'azote épandable par les herbivores,
 
-par les herbivores, hors vaches laitières
+hors vaches laitières
 
 ANIMAUX
 
@@ -22,7 +24,7 @@ Herbivores
 
 |
 
-(kg d'azote/animal présent/an)
+(Kg d'azote/animal présent/an)
 
 |
 
@@ -30,7 +32,7 @@ Vache nourrice, sans son veau
 
 |
 
-67
+68
 
 |
 
@@ -38,7 +40,7 @@ Femelle > 2 ans
 
 |
 
-53
+54
 
 |
 
@@ -46,7 +48,7 @@ Mâle > 2 ans
 
 |
 
-72
+73
 
 |
 
@@ -54,7 +56,7 @@ Femelle 1 - 2 ans, croissance
 
 |
 
-42
+42,5
 
 |
 
@@ -62,7 +64,7 @@ Mâle 1 - 2 ans, croissance
 
 |
 
-42
+42,5
 
 |
 
@@ -70,7 +72,7 @@ Bovin 1 - 2 ans, engraissement
 
 |
 
-40
+40,5
 
 |
 
@@ -78,7 +80,7 @@ Vache de réforme
 
 |
 
-40
+40,5
 
 |
 
@@ -252,7 +254,7 @@ Poulain 1 - 2 ans (lourd)
 
 |
 
-(kg d'azote/animal produit)
+(Kg d'azote/place)
 
 |
 
@@ -261,6 +263,12 @@ Place veau de boucherie
 |
 
 6,3
+
+|
+
+|
+
+(Kg d'azote/animal produit)
 
 |
 
@@ -286,13 +294,7 @@ B. ― Production d'azote épandable par les vaches laitières
 
 L'azote épandable des vaches laitières varie significativement selon le temps passé à l'extérieur des bâtiments et notamment à la pâture (volatilisation non soustraite de l'azote excrété et régime alimentaire riche en azote) et selon le niveau de production laitière.
 
-La production laitière est obtenue à partir de la quantité annuelle de lait livrée, y compris en vente directe, divisée par le nombre de vaches laitières présentes dans l'année puis multipliée par le coefficient 0,92 afin de prendre en compte les périodes de tarissement.
-
-Le temps passé à l'extérieur des bâtiments somme :
-
-― le nombre de mois pendant lesquels les animaux sont dehors en continu (jours et nuits). La traite n'est pas décomptée.
-
-― le temps cumulé (exprimé en mois) passé à l'extérieur des bâtiments pendant les périodes où les animaux passent une partie du temps en bâtiments et une autre dehors. La traite est décomptée.
+La production laitière en kg est obtenue à partir de la quantité annuelle de lait livrée, y compris en vente directe, exprimée en litres, divisée par le nombre de vaches laitières présentes dans l'année puis divisée par le coefficient 0,92 afin de prendre en compte la différence entre lait produit et lait livré et la conversion des litres en kg.
 
 Production d'azote épandable par les vaches laitières
 
@@ -372,7 +374,7 @@ PRODUCTION LAITIÈRE
 
 |
 
-(*) Pour la période du 1er septembre 2012 au 31 août 2013, une valeur de 95 kg d'azote/an/vache s'applique aux élevages ayant plus de 75 % de surface en herbe dans la surface fourragère principale.
+(*) Pour la période du 1er septembre 2013 au 31 août 2014, une valeur de 95 kgN d'azote/ an/ vache s'applique aux élevages ayant plus de 75 % de surface en herbe dans la surface fourragère principale.
 
 |
 
