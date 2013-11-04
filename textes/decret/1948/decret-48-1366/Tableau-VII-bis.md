@@ -1,6 +1,8 @@
 # Article Tableau VII bis
 
-Indemnité allouée pour tenir compte de l'exécution des travaux de nature exceptionnelle
+INDEMNITÉ ALLOUÉE POUR TENIR COMPTE DE L'EXÉCUTION
+
+DES TRAVAUX DE NATURE EXCEPTIONNELLE
 
 Indemnité de sujétions spéciales de police
 
@@ -54,15 +56,23 @@ Chefs d'escadron de gendarmerie
 
 |
 
-Officiers subalternes de gendarmerie
+Officiers subalternes de gendarmerie autres que les élèves admis en formation initiale ou complémentaire à l'Ecole des officiers de la gendarmerie nationale
 
 |
 
-25
+25 (1)
 
 |
 
-Militaires non officiers de gendarmerie
+Elèves admis en formation initiale ou complémentaire à l'Ecole des officiers de la gendarmerie nationale
+
+|
+
+10
+
+|
+
+Militaires non officiers de gendarmerie autres que les élèves gendarmes
 
 |
 
@@ -70,12 +80,20 @@ Militaires non officiers de gendarmerie
 
 |
 
-Observations :
+Elèves gendarmes
 
-1° L'indemnité de sujétions spéciales de police est réservée aux seuls militaires des corps d'officiers et de sous-officiers de gendarmerie de carrière ou engagés, en position d'activité. Toutefois, cette indemnité continue d'être versée lorsque les intéressés ont été placés, à la suite d'une blessure reçue au cours d'une opération de police, dans l'une des positions de congés liées à l'état de santé prévues par le statut général des militaires.
+|
 
-2° En aucun cas le montant de l'indemnité ne pourra être inférieur à celui alloué à un militaire de gendarmerie bénéficiaire de l'indice de solde réel 281 (majoré).
+12
 
-3° 26 % pour les officiers subalternes de gendarmerie rémunérés sur la base d'un indice inférieur ou égal à l'indice brut 585.
+|
+
+(1) 26 % pour ceux rémunérés sur la base d'un indice inférieur ou égal à l'indice brut 585.
+
+|
+
+Observation :
+
+L'indemnité de sujétions spéciales de police est réservée aux seuls militaires des corps d'officiers et de sous-officiers de gendarmerie de carrière ou engagés, en position d'activité. Toutefois, cette indemnité continue d'être versée lorsque les intéressés ont été placés, à la suite d'une blessure reçue au cours d'une opération de police, dans l'une des positions de congés liées à l'état de santé prévues par le statut général des militaires.
 
 |
