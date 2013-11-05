@@ -1,0 +1,9 @@
+# Réponse à la question n° 28764
+
+- Question : [28764](28764.md) — Question n° 28764 — prolifération; lutte et prévention
+
+## Réponse
+
+*JO du 2013-11-05*
+
+Le rapport établi par Messieurs Etienne Lefebvre et Alain Monnier intitulé « évaluation du protocole technique d'intervention sur les spécimens de loups » fait suite à une commande des ministres en charge de l'écologie et de l'agriculture, dans le cadre de l'évaluation du plan d'action national loup pour la période 2008-2012. L'objectif était d'appréhender les différentes dimensions de la politique d'intervention sur les spécimens de loups par dérogation à la protection stricte de l'espèce (perception par l'ensemble des acteurs concernés, et en particulier par le monde agricole ; aspects juridiques, techniques, organisationnels, etc.), afin d'être en mesure de formuler des propositions tenant compte des marges de manoeuvre disponibles, dans l'optique de l'élaboration du plan d'action 2013-2017. Une mission conjointe du Conseil général de l'environnement et du développement durable (CGEDD) et du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux (CGAAER) a ainsi été sollicitée. Elle s'est appuyée sur une large consultation de plusieurs mois des élus, des administrations, des experts scientifiques et techniques ainsi que des organisations socioprofessionnelles et associatives concernés. Le plan 2013-2017 tient compte du rapport établi à l'issue de cette mission, et y fait de multiples références, notamment dans sa partie I. A et II. D. Ainsi le nouvel outil proposé par ce plan, et dénommé tir de défense « renforcée », qui vise à « accentuer fortement la pression humaine » sur l'espèce, en permettant l'intervention simultanée de plusieurs tireurs pour la défense d'un troupeau, tout en conservant le lien étroit et direct avec le troupeau exposé au risque de prédation, est directement inspiré de l'une des propositions du rapport.
