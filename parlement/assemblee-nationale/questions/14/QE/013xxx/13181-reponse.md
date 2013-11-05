@@ -1,0 +1,9 @@
+# Réponse à la question n° 13181
+
+- Question : [13181](13181.md) — Question n° 13181 — perspectives
+
+## Réponse
+
+*JO du 2013-11-05*
+
+Dans le contexte exceptionnel de crise financière et économique impactant fortement les entrants sur le marché du travail, en particulier les jeunes et plus encore ceux sans qualification, l'insertion professionnelle des jeunes est une priorité du Gouvernement. Les dispositifs dits de « deuxième chance » sont destinés aux jeunes gens âgés de 16 à 26 ans, sans diplôme ni qualification professionnelle, éloignés de l'emploi. Ils intègrent un volet formation devant compenser le déficit de connaissances de base. En font partie, les écoles de la deuxième chance (E2C) et l'établissement public d'insertion de la défense (EPIDe), dit dispositif « défense deuxième chance ». Les E2C proposent un parcours de formation individualisé à durée variable et à l'action pédagogique souple et innovante : acquisition (ou remise à niveau) de connaissances dans les matières fondamentales, formation en alternance, développement de compétences sociales et civiques. 13 000 jeunes ont été accueillis en 2012, soit une progression de près de 14 % par rapport à 2011. Le réseau compte, à fin 2012, 107 sites dans 18 régions, 46 départements et 4 collectivités d'outre-mer. L'EPIDe est un établissement public administratif placé sous la triple tutelle des ministres chargé de la défense, de l'emploi et de la ville. Les jeunes accueillis dans ce dispositif sont âgés de 18 à 25 ans. Ils bénéficient d'un statut particulier et signent un contrat de volontariat pour l'insertion. Leur accompagnement et leur formation s'effectuent dans l'un des 20 centres dits « défense deuxième chance » (CD2C) gérés par l'EPIDe. 3000 jeunes sont accueillis tous les ans et suivent un parcours de 8 mois pouvant être prolongé. En 2013, le ministère de l'emploi a maintenu son soutien financier à l'EPIDe.
