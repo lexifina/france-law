@@ -1,0 +1,9 @@
+# Réponse à la question n° 37128
+
+- Question : [37128](37128.md) — Question n° 37128 — conditions d'attribution
+
+## Réponse
+
+*JO du 2013-11-05*
+
+La règle générale, fixée par l'article R. 224 du code des pensions militaires d'invalidité et des victimes de la guerre (CPMIVG), pour obtenir la carte du combattant est d'avoir servi pendant 90 jours dans une unité qualifiée de combattante par le ministre de la défense, à moins qu'une circonstance exceptionnelle n'ait interrompu le combat (évacuation pour blessure reçue ou maladie contractée en unité combattante, blessure assimilée à une blessure de guerre quelle que soit la nature de l'unité, capture et détention par l'adversaire). Cette règle fondamentale est applicable à tous les conflits auxquels la France a participé. Ainsi, s'agissant des opérations effectuées en Afrique du Nord, l'article R. 224 D du CPMIVG prévoit expressément qu'ont vocation à la qualité de combattant les militaires et les civils de nationalité française ayant participé à ces opérations entre le 1er janvier 1952 et le 2 juillet 1962 et ayant servi pendant 90 jours en unité combattante. Il n'y a donc aucune inégalité de traitement entre les combattants de toutes les générations du feu. A ces critères traditionnels de droit commun s'est ajoutée, au titre des services en Afrique du Nord, la durée de présence, considérée comme équivalente aux actions de feu et de combat. Cette condition a trouvé sa justification du fait de l'exposition des combattants aux risques diffus dus à l'insécurité provoquée par les méthodes de guérilla spécifiques et par la nature des combats menés en Afrique du Nord. C'est ainsi que les dispositions de l'article 123 de la loi de finances pour 2004 permettent, depuis le 1er juillet 2004, de reconnaître la qualité de combattant aux militaires dès lors qu'ils totalisent 4 mois de présence sur les territoires concernés, sans obligation d'avoir appartenu à une unité combattante.
