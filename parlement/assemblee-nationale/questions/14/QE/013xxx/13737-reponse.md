@@ -1,0 +1,9 @@
+# Réponse à la question n° 13737
+
+- Question : [13737](13737.md) — Question n° 13737 — décrocheurs; statistiques
+
+## Réponse
+
+*JO du 2013-11-05*
+
+La lutte contre le décrochage scolaire est un enjeu majeur pour la cohésion et l'équité du système éducatif. Le ministre de l'éducation nationale a annoncé la mise en place d'une politique renforcée de lutte contre le décrochage scolaire qui se décline par des actions de prévention au sein des établissements scolaires et la mise en place des réseaux Formation Qualification Emploi (FOQUALE), présentée dans la circulaire n° 2013-035 du 29 mars 2013, aux côtés des 360 plates-formes d'appui et de suivi des décrocheurs. Ces réseaux regroupent les acteurs présents sur un territoire afin de coordonner et de développer l'offre de solutions proposées aux décrocheurs (clauses sociales, Onisep, service civique...). Le décrochage est un phénomène qui, le plus souvent, intervient dès la fin de la scolarité obligatoire et concerne majoritairement les garçons et les élèves dans les filières de la voie professionnelle. La répartition de l'origine scolaire des jeunes décrocheurs repérés dans le cadre du SIEI (Système interministériel d'échange d'informations sur les décrocheurs) à l'occasion du dernier recensement réalisé entre octobre et novembre 2012 est la suivante : 17,1 % sont issus du collège, 28,2 % de lycées d'enseignement général et technologique, 49 % du second cycle professionnel ; 5,8 % viennent généralement de classes d'accueil ou d'enseignement spécialisé. Quant à l'origine sociale, elle ne fait pas l'objet de l'échange d'information autorisée par la CNIL. La lutte contre les inégalités notamment sociales est une des priorités du ministre afin que chaque élève puisse avoir les mêmes chances de réussite. Le ministère de l'éducation nationale s'est fixé pour objectif d'offrir une solution de retour en formation à 20 000 jeunes d'ici la fin de l'année 2013.
