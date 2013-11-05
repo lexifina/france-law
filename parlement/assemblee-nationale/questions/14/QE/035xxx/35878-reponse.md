@@ -1,0 +1,9 @@
+# Réponse à la question n° 35878
+
+- Question : [35878](35878.md) — Question n° 35878 — OGM; expérimentations; perspectives
+
+## Réponse
+
+*JO du 2013-11-05*
+
+La parution de l'étude du Professeur Gilles-Eric Seralini a suscité un intense débat dans notre pays. Passé l'émotion induite et entretenue par une campagne médiatique inhabituelle dans les milieux scientifiques, la parole est revenue aux chercheurs des établissements publics sollicités comme experts par l'agence nationale de sécurité sanitaire, de l'alimentation, de l'environnement et du travail (Anses) ou mobilisés au sein du conseil scientifique du haut conseil des biotechnologies (HCB). Après une analyse minutieuse de la publication, le HCB a ainsi pointé des « interprétations spéculatives », des « lacunes et faiblesses méthodologiques rédhibitoires » et une « présentation des résultats parcellaire et imprécise ». L'Anses a de son côté relevé des « faiblesses d'ordre statistique et explicatives ». La remise en question des conclusions de l'article sur le maïs NK603, traité ou non au glyphosate, par les deux instances mobilisées par les pouvoirs publics ne clôt pas pour autant le débat. La transgénèse est une technique utilisée communément dans les laboratoires de recherche. Outil de la sélection végétale parmi un large éventail d'autres techniques complémentaires, elle est également nécessaire dans la recherche médicale et vétérinaire et en recherche fondamentale. Avec un encadrement réglementaire très strict, en milieu confiné, la recherche publique met quotidiennement en oeuvre cette technique pour la production de connaissances fondamentales ou appliquées reconnues par des publications internationales, mais également sources de transfert technologique. L'agitation médiatique autour de l'article du Professeur Séralini retombée, il convient de créer les conditions d'un débat serein en s'appuyant sur les acteurs compétents de la recherche publique.
