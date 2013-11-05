@@ -1,0 +1,9 @@
+# Réponse à la question n° 32573
+
+- Question : [32573](32573.md) — Question n° 32573 — arrêt de travail; réglementation
+
+## Réponse
+
+*JO du 2013-11-05*
+
+En vertu de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, les fonctionnaires territoriaux, en cas de congé de maladie, perçoivent leur traitement pendant trois mois puis un demi-traitement (article 57, 2° , 3° et 4° ). Les agents non titulaires bénéficient également de mesures en ce sens (décret n° 88-145 du 15 février 1988, titre III). Pour se prémunir contre ce risque les agents peuvent, en l'état actuel du droit, souscrire une protection sociale complémentaire de « prévoyance » et l'employeur peut apporter une aide dans le cadre du décret n° 2011-1474 du 8 novembre 2011. Cependant, plus de la moitié des agents ne sont pas couverts. Le Gouvernement est attentif à cette situation de précarité des agents territoriaux passant à demi-traitement. Le conseil supérieur de la fonction publique territoriale envisage également de se saisir de cette question. Un rapport d'évaluation relatif à la mise en oeuvre du décret du 8 novembre 2011 doit être établi pour novembre 2015, conformément à l'article 35 de ce décret. Il portera notamment sur les effets sociaux du décret, en termes de meilleur accès des agents à la protection sociale complémentaire. La situation des agents territoriaux à demi-traitement et la comparaison avec celle des agents des autres fonctions publiques seront donc particulièrement examinées dans ce cadre. En toute hypothèse, la participation de l'employeur étant facultative dans les trois versants de la fonction publique en vertu de la loi (article 22 bis de la loi n° 83-634 du 13 juillet 1983), une évolution à ce sujet nécessiterait également une norme législative.
