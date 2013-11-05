@@ -1,0 +1,9 @@
+# Réponse à la question n° 33878
+
+- Question : [33878](33878.md) — Question n° 33878 — programme européen d'aide aux plus démunis; perspectives
+
+## Réponse
+
+*JO du 2013-11-05*
+
+A l'issue d'une réunion le 27 juin dernier, les présidents du parlement européen, du conseil européen et de la Commission européenne ont trouvé un accord sur le cadre financier pluriannuel pour la période 2014-2020, et plus particulièrement sur le montant de l'aide accordée aux plus démunis qui sera dotée d'une enveloppe de 2,5 milliards d'euros. Les Etats qui y participent pourront ajouter, s'ils le souhaitent, un montant d'un milliard d'euros. Ce résultat est le fruit notamment de la forte mobilisation des autorités françaises, qui n'ont cessé de rappeler, comme l'avait fait encore le Président de la République devant le parlement européen le 5 février 2013, que « le budget doit soutenir les Européens les plus fragiles, et les plus exposés à la crise ». Sur la base de cet accord donné par l'ensemble des chefs d'Etat ou de gouvernement, il convient maintenant d'avancer dans la négociation de la proposition de règlement concernant l'établissement du Fonds européen d'aide aux plus démunis, qui constituera, une fois adopté, la base juridique nécessaire à la mise en oeuvre des actions de solidarité et de lutte contre la pauvreté et l'exclusion sociale. Cette négociation est difficile, plusieurs Etats membres continuant à contester, au nom de la subsidiarité, l'idée d'une aide attribuée aux plus démunis. Toutefois, les autorités françaises ont oeuvré afin de pouvoir appliquer au plus vite ce nouveau dispositif d'aide aux plus démunis pour les sept années à venir. La négociation est désormais bien avancée, tant au conseil qu'au parlement européen, ce qui devrait permettre de mettre en oeuvre le FEAD dès début 2014, sans nécessiter de dispositif transitoire.
