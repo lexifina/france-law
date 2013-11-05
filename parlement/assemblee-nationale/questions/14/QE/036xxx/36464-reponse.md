@@ -1,0 +1,9 @@
+# Réponse à la question n° 36464
+
+- Question : [36464](36464.md) — Question n° 36464 — rapport; propositions
+
+## Réponse
+
+*JO du 2013-11-05*
+
+Le Gouvernement est conscient des difficultés qui ont pu affecter de façon importante les compagnies traditionnelles depuis l'émergence des compagnies à bas coût, et du renforcement de la concurrence générée par la croissance de nouvelles compagnies aériennes. Si cette augmentation de l'offre aérienne a permis de démocratiser le transport aérien, le Gouvernement a déjà pris un certain nombre de mesures visant, dans le strict respect du libre jeu de la concurrence, à alléger les charges pesant sur les compagnies aériennes pour les rendre plus compétitives et plus efficaces sur les marchés sur lesquels la concurrence est vive. Une première étape a été franchie avec la baisse de la taxe d'aéroport pour les passagers en correspondance à un niveau s'accordant avec les coûts supportés par les gestionnaires d'aéroports. Une deuxième étape a été passée avec la baisse du taux de la taxe sur les nuisances aériennes jusqu'au niveau strictement nécessaire pour assurer le financement des opérations d'isolation des bâtiments sans accumulation de trésorerie. Aujourd'hui, le Gouvernement poursuit activement ses travaux sur les mesures permettant, dans le strict respect d'une juste rémunération des gestionnaires d'aéroports, de modérer l'évolution du coût de touché des compagnies aériennes sur les aéroports. Enfin, le Gouvernement participe directement avec la Commission européenne au processus de révision des lignes directrices sur les aides d'État aux aéroports et aux compagnies aériennes, afin d'appréhender au mieux le périmètre des mesures de soutien autorisées. Ces actions permettront de prendre en compte efficacement les recommandations du Commissariat général à la stratégie et à la prospective.
