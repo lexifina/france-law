@@ -1,0 +1,9 @@
+# Réponse à la question n° 22114
+
+- Question : [22114](22114.md) — Question n° 22114 — insonorisation; riverains d'aéroports
+
+## Réponse
+
+*JO du 2013-11-05*
+
+L'aide à l'insonorisation des riverains des grands aéroports parisiens nécessite une gestion rigoureuse et organisée, et les aéroports de la région parisienne se caractérisent à cet égard par un très grand nombre de demandes à traiter. Les exploitants des aérodromes concernés se sont vu confier la responsabilité de cette aide en raison de leur capacité administrative, de leur implantation et de leur connaissance des territoires. Il n'y a de plus aucun conflit d'intérêt, dès lors que l'aéroport trouve au contraire un intérêt à ce que les riverains bénéficient d'une aide à l'insonorisation, et que le financement de l'aide est assuré au moyen d'une taxe affectée dont le montant est fixé par l'État et dont le produit est acquitté par les compagnies aériennes. Le fait qu'Aéroports de Paris ait été amené à refuser des demandes au motif que les bâtiments étaient situés en dehors du périmètre d'éligibilité, alors même que la commission consultative d'aide aux riverains (CCAR) avait émis un avis favorable, ne constitue pas une anomalie mais au contraire relève du rôle normal du gestionnaire. De surcroît, deux décisions de justice ont démontré que l'avis consultatif favorable de la CCAR ne suffisait pas à garantir le caractère légal de la décision. Il n'y a donc aucune raison de changer le système actuel de gestion de l'aide à l'insonorisation des riverains des aéroports. Enfin, il ne serait en aucun cas possible de transférer cette gestion à l'Autorité de contrôle des nuisances aéroportuaires (ACNUSA). En effet, cette autorité indépendante n'a pas vocation à exercer directement des missions régaliennes, et le fait de gérer directement l'aide à l'insonorisation serait incompatible avec sa mission de donner un avis sur la manière dont l'aide à l'insonorisation est gérée.
