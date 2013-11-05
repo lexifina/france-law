@@ -1,0 +1,9 @@
+# Réponse à la question n° 23669
+
+- Question : [23669](23669.md) — Question n° 23669 — exercice de la profession; contrôles
+
+## Réponse
+
+*JO du 2013-11-05*
+
+La désignation du liquidateur peut intervenir dans le cadre d'une liquidation judiciaire lorsque le débiteur est en état de cessation des paiements et que son redressement est manifestement impossible, ou dans le cadre d'une dissolution anticipée de la société à la demande d'un associé pour justes motifs en application de l'article 1844-7 5° du code civil. Dans les deux hypothèses, le liquidateur doit être diligent, exercer sa mission dans le respect du débiteur, tout en veillant au respect des droits des créanciers. Il est soumis au contrôle du tribunal. Lorsque ce liquidateur est un mandataire judiciaire inscrit sur la liste prévue à l'article L. 812-2 du code de commerce, il est, en outre, soumis aux obligations professionnelles et déontologiques de sa profession. Il est soumis au contrôle du procureur général et des magistrats inspecteurs mentionnés à l'article R. 811-40 du code de commerce. Le Conseil national des administrateurs judiciaires et des mandataires judiciaires exerce également une mission de contrôle et est chargé de veiller au respect de leurs obligations par les mandataires de justice. La garde des Sceaux ne méconnait pas cependant le besoin d'améliorer le fonctionnement de la justice commerciale et de la faire évoluer pour faire face à de nouveaux enjeux, dans un contexte de crise économique. Dans cette perspective elle a installé, le 5 mars 2013, des groupes de travail qui ont achevé leurs travaux et dont les conclusions ont été étudiées par le ministère de la justice. Abréger les procédures de liquidation et améliorer le contrôle de ces mandataires sont des objectifs qui ont été retenus et qui sont intégrés aux réformes en cours. Cette réforme fera l'objet d'un projet de loi qui sera débattu par le parlement et de dispositions réglementaires.
