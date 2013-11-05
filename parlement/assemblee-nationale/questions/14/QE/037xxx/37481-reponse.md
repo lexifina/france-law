@@ -1,0 +1,9 @@
+# Réponse à la question n° 37481
+
+- Question : [37481](37481.md) — Question n° 37481 — remboursement partiel; champ d'application
+
+## Réponse
+
+*JO du 2013-11-05*
+
+Depuis 2004, un dispositif de remboursement partiel de taxe intérieure de consommation (TIC) sur le gazole et le fioul lourd et de taxe intérieure de consommation sur le gaz naturel (TICGN), a été mis en place au profit des chefs d'exploitations ou d'entreprises agricoles afin d'alléger la facture énergétique des entreprises agricoles confrontées à la volatilité des prix de l'énergie. L'article 61 de la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative a reconduit le dispositif pour les consommations de produits réalisées en 2012. Le montant du remboursement s'élèvera à : 5 € par hectolitre pour le gazole non routier utilisé par les engins agricoles, à 1,665 € par 100 kilogrammes nets pour les quantités de fioul lourd et à 1,071 par millier de kilowattheure pour le gaz naturel. Cette mesure représente un coût très important pour la collectivité (de l'ordre de 130 M€) et un geste fort consenti par le Gouvernement envers le monde agricole. Depuis la fin de l'année 2011, l'usage du fioul domestique comme carburant pour les engins agricoles a été interdit par le droit communautaire au profit du gazole non routier (GNR). Le GNR bénéficie désormais de la procédure de remboursement partiel de taxe intérieure de consommation sur les produits énergétiques (TICPE). Le fioul domestique qui reste éventuellement utilisé à des usages autres que la carburation (par exemple pour le chauffage des serres ou le séchage des céréales) a été exclu de la procédure de remboursement. Ce combustible bénéficie toutefois encore d'un taux réduit de TICPE très bas, fixé à 5,66 € par hectolitre.
