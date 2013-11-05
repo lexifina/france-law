@@ -1,0 +1,9 @@
+# Réponse à la question n° 33549
+
+- Question : [33549](33549.md) — Question n° 33549 — prêt locatif social; montants octroyés; statistiques
+
+## Réponse
+
+*JO du 2013-11-05*
+
+Depuis 2011, les établissements de crédit ayant signé une convention annuelle avec la Caisse des dépôts et consignations (CDC) peuvent distribuer les prêts locatifs sociaux (PLS) dans la limite d'une enveloppe unique de refinancement auprès de la CDC, fixée en 2013 à 2,58 milliards d'euros. Cette procédure de distribution se substitue au mécanisme dit de l'« adjudication », consistant à répartir ab initio une enveloppe de prêts entre les établissements de crédit distributeurs. Dans ce cadre, le taux des prêts aux organismes de logements sociaux, ainsi que le taux maximum des prêts aux autres emprunteurs, est le même quel que soit l'établissement de crédit qui le propose. Le taux du prêt est compris entre 2,36 % et 2,66 %, pour un taux du livret A à 1,25 % (taux en vigueur à compter du 1er août 2013). La CDC dispose par ailleurs d'une enveloppe de prêts distincte de celle des établissements de crédit, qu'elle peut accorder dans les mêmes conditions que les autres établissements, aux seules personnes morales. Cette enveloppe, fixée en 2013 à 1,72 milliard d'euros, représente 40 % de l'enveloppe globale de 4,3 milliards d'euros dédiée aux PLS pour 2013. Ces enveloppes ne font l'objet d'aucune territorialisation. Le montant des enveloppes réservées aux établissements de crédit et à la Caisse des dépôts et consignations couvre en effet l'ensemble des besoins en financement des PLS pour l'année 2013 et pour la France entière, en cohérence avec les objectifs de production de logements sociaux. Par ailleurs, le décret n° 2010-48 du 13 janvier 2010 relatif à la durée maximale des prêts locatifs sociaux a allongé la durée maximale des prêts locatifs sociaux de 30 ans à 40 ans. La fraction du prêt qui finance la partie foncière des logements peut être portée à 50 ans.
