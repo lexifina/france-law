@@ -1,0 +1,9 @@
+# Réponse à la question n° 21208
+
+- Question : [21208](21208.md) — Question n° 21208 — prestation de compensation du handicap; montant; dépenses de transport; réglementation
+
+## Réponse
+
+*JO du 2013-11-05*
+
+La prestation de compensation du handicap (PCH), créée par la loi du 11 février 2005 et mise en place depuis le 1er janvier 2006, vise à compenser les conséquences du handicap par une prise en charge individualisée des besoins exprimés par les personnes handicapées. Elle constitue un moyen de prise en charge notamment des frais relatifs aux déplacements réguliers, fréquents ou correspondant à un départ annuel en congés. Cette prestation peut être affectée à la prise en charge des surcoûts liés au transport. La couverture de ces frais correspond à 75 % du coût ou 0,5 € par kilomètre, dans la limite de 5 000 €. Une majoration de ce montant maximum est possible dès lors qu'il s'agit d'un trajet entre le domicile et le lieu de travail. La limite est alors fixée à 12 000 € sous conditions. Toutefois, la PCH ne prend pas en charge les frais de transport des proches tels que les parents, si l'enfant ou la personne handicapée ne participe pas physiquement au déplacement dans le véhicule. Le Gouvernement est conscient que des attentes subsistent concernant la compensation de certains surcoûts dus au handicap ou la prise en compte de besoins proches, notamment en matière de prise en charge de frais de transports. Néanmoins, la prestation de compensation a permis d'améliorer considérablement la couverture des besoins : les montants versés correspondent en moyenne au double de l'ancienne allocation compensatrice pour tierce personne (ACTP). Il est par ailleurs indispensable que les évolutions possibles de la PCH soient traitées de façon globale, cohérente et en tenant compte des contraintes des finances publiques.
