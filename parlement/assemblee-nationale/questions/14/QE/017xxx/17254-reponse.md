@@ -1,0 +1,9 @@
+# Réponse à la question n° 17254
+
+- Question : [17254](17254.md) — Question n° 17254 — financement; charges scolaires; répartition intercommunale; réglementation
+
+## Réponse
+
+*JO du 2013-11-05*
+
+La loi n° 2009-1302 du 28 octobre 2009, dite « loi Carle », tendant à garantir la parité de financement entre les écoles élémentaires publiques et privées sous contrat d'association lorsqu'elles accueillent des élèves scolarisés hors de leur commune de résidence a été adoptée pour mettre fin à l'état d'insécurité juridique auquel se trouvaient confrontées les communes, et en particulier les communes rurales. En effet, ces collectivités ne parvenaient pas à mesurer l'étendue précise de leurs obligations en la matière issues de l'article 89 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales. La « loi Carle » a donc abrogé l'article 89 de la loi de 2004 et a institué un dispositif similaire à celui applicable aux écoles publiques, en conformité avec les dispositions de l'article L. 442-5 du code de l'éducation qui prévoit que « les dépenses de fonctionnement des classes sous contrat sont prises en charge dans les mêmes conditions que celles des classes correspondantes de l'enseignement public ». Il y a lieu de souligner qu'entre la rentrée de 2009 et celle de 2012, l'effectif d'élèves des établissements privés du premier degré a baissé de 0,53%, passant de 876 045 à 871 409 élèves, alors que celui des écoles primaires publiques a augmenté de 0,34%, passant de 5 751 700 à 5 771 200 élèves. Il ne semble donc pas que l'application de la loi Carle ait provoqué un flux d'élèves des écoles publiques vers l'enseignement privé. Toutefois, la loi d'orientation et de programmation pour la refondation de l'école de la République prévoit qu'un bilan du dispositif doit être présenté par le Gouvernement au Parlement avant la fin de l'année 2014.
