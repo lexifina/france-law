@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130707352
+
+- Question : [SEQ130707352](seq130707352.md) — Accès des petites et moyennes entreprises aux marchés publics et projet de loi pour l'égalité entre les femmes et les hommes
+
+## Réponse
+
+*Droits des femmes, JO du 2013-11-07, page 3233*
+
+L'article 3 modifie l'ordonnance du 6 juin 2005 afin de prendre en compte, parmi les cas d'interdiction de soumissionner aux marchés publics, les personnes qui ont été condamnées pour des motifs liés à la discrimination et le non-respect des dispositions prévues par le code du travail en matière d'égalité professionnelle entre les femmes et les hommes. Cette réforme concerne l'ensemble de la commande publique, que les personnes soient ou non soumises au code des marchés publics. Elle sera une innovation essentielle pour que les entreprises qui sont candidates à la commande publique soient véritablement exemplaires en matière d'égalité. Concrètement, le Gouvernement a veillé à préserver de la souplesse dans la mise en œuvre de cette obligation. L'entreprise pourra jusqu'au dernier moment se mettre en règle et ouvrir des négociations sur l'égalité. Cette obligation a également été pensée avec le souci de la simplicité pour les entreprises : elle se matérialisera par l'ajout, dans les pièces constitutives du dossier de candidature à un marché public, d'une déclaration sur l'honneur qui atteste du respect de la législation en matière d'égalité professionnelle. Par ailleurs, des actions d'explication et d'accompagnement de la mesure seront assurées, notamment en diffusant un guide spécialisé. Cet effort est complémentaire de celui fait d'ores et déjà en matière d'accompagnement des entreprises pour promouvoir les bonnes pratiques en matière d'égalité professionnelle et conseiller les entreprises dans la mise en place de leur démarche d'égalité professionnelle.
