@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901882
+
+- Question : [SEQ120901882](seq120901882.md) — Préoccupations des chefs d'entreprise de La Réunion
+
+## Réponse
+
+*Redressement productif, JO du 2013-11-07, page 3247*
+
+Les difficultés rencontrées par les entreprises de l'île de La Réunion font l'objet d'une mobilisation constante des services de l'État, au travers de la médiation du crédit, des interventions de bpifrance, de la Siagi, dans le cadre de leur partenariat avec l'agence française de développement (AFD). Le commissaire au développement endogène, sous l'autorité du ministre de l'outre-mer, a pour mission d'aider les entreprises de La Réunion à se développer. La médiation du crédit peut être saisie par toute entreprise faisant face à des refus de financement pour une activité professionnelle, et en particulier face à des besoins de trésorerie. Elle est chargée de rétablir le dialogue entre elle et son financeur (banques, assureur crédit, éventuellement investisseur en fonds propres). La Siagi délivre une garantie de 20 % du crédit bancaire, l'AFD apportant un complément de garantie jusqu'à 50 % portant la quotité garantie à un maximum de 70 %, ce qui permettra l'octroi de crédits de trésorerie. Toutes les entreprises artisanales, quel que soit leur stade de développement, création, croissance ou transmission sont éligibles au dispositif. Depuis 2011, treize dossiers de financement d'entreprises artisanales, pour un volume de prêts sollicités de 2,4 M€, ont été instruits et huit garanties accordées pour un volume de 1,2 M€ de crédits sollicités. Enfin, les produits dits « mezzanines » de bpifrance, qui facilitent le financement des investissements immatériels des entreprises et de leurs besoins en fonds de roulement induits avec un différé de remboursement, sans garantie ni caution personnelle, sont désormais distribués outre-mer par l'AFD et permettent de financer, aux côtés des banques, l'investissement et le développement des entreprises.
