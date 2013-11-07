@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901867
+
+- Question : [SEQ120901867](seq120901867.md) — Application de la réforme du nouvel espace statutaire aux rédacteurs de la fonction publique territoriale
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2013-11-07, page 3248*
+
+Le décret n° 2010-329 du 22 mars 2010 portant dispositions statutaires communes à divers cadres d'emplois de fonctionnaires de la catégorie B de la fonction publique territoriale a constitué la première étape de la réforme de la catégorie B de la fonction publique territoriale, appelée « nouvel espace statutaire ». Le décret n° 2010-330 du 22 mars 2010 fixe l'échelonnement indiciaire applicable aux membres des cadres d'emplois régis par le décret n° 2010-329 du 22 mars 2010 précité. Ces décrets ont fixé le cadre statutaire général mais nécessitent des décrets de mise en œuvre pour chaque cadre d'emplois qui a vocation à intégrer ce cadre. Concernant les rédacteurs, le décret n° 2012-924 du 30 juillet 2012 portant statut particulier du cadre d'emplois des rédacteurs territoriaux est entré en vigueur le 1er août 2012. Tous les cadres d'emplois ne bénéficient pas de la même date d'entrée en vigueur de la réforme car les procédures d'élaboration des différents décrets sont autonomes les unes des autres et obéissent à un calendrier général pluriannuel de mise en œuvre. La réforme améliore de manière significative la rémunération des intéressés. Tous les cadres d'emplois en bénéficieront mais à des dates différentes. Le principe général du droit de la non-rétroactivité des règlements (arrêt du Conseil d'État du 25 juin 1948, journal L'Aurore) s'oppose à ce que les agents bénéficient du nouvel indice plus favorable à une date antérieure à celle de l'entrée en vigueur du décret les intégrant dans le nouvel espace statutaire.
