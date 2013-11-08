@@ -1,0 +1,29 @@
+# Réponse à la question SEQ13110153C
+
+- Question : [SEQ13110153C](seq13110153c.md) — La montagne : aménagement du territoire, problématiques foncières, développement économique
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2013-11-08, page 11136*
+
+Mme Cécile Duflot, ministre de l'égalité des territoires et du logement. Monsieur le sénateur Jarlier, vous avez raison, les territoires de montagne subissent des contraintes fortes et, vous l'avez compris, à l'occasion de nombreux débats ici même, ma vision de l'égalité des territoires repose sur une prise en compte différenciée de ces contraintes, car l'égalité n'est pas l'uniformité, c'est une évidence. Tel est l'esprit de la stratégie que j'entends développer, esprit qui a également inspiré la création du commissariat général à l'égalité des territoires. Tel était également l'esprit qui a inspiré les auteurs de la loi Montagne, que vous avez évoquée et dont nous allons bientôt fêter le trentième anniversaire. J'ai par ailleurs pleinement conscience des contraintes particulières qui pèsent sur les territoires de montagne et sur leur développement. À l'occasion de la discussion du projet de loi pour l'accès au logement et un urbanisme rénové, le projet de loi ALUR, nous avons intégré un certain nombre de ces problématiques dans la loi pour l'adapter le plus possible aux réalités et aux besoins des territoires de montagne.
+
+Le Gouvernement a bien compris l'enjeu que représentent, dans leur globalité, les territoires de montagne et un effort de péréquation important a été consenti en 2013 en faveur des territoires les plus fragiles. Je tiens notamment à souligner la disposition qui a permis de comptabiliser, pour les zones montagnardes, le double du kilométrage de routes à leur charge pour déterminer leurs dotations et tenir ainsi compte des difficultés d'entretien de ces infrastructures. En ce qui concerne le très haut débit, la spécificité des territoires ruraux et de montagne est aussi prise en compte.
+
+Nous travaillons également à de nouvelles dispositions législatives, dans le cadre du titre « Promouvoir l'égalité et la solidarité des territoires » du projet de loi de mobilisation des régions pour la croissance et l'emploi et de promotion de l'égalité des territoires, mais une remise en cause de la loi Montagne n'est aujourd'hui pas prévue, dans ce qu'elle avait d'essentiel pour ces territoires, c'est-à-dire la consécration de leur spécificité. En revanche, je le répète, dans le cadre du projet de loi ALUR, un certain nombre de ces préoccupations sont prises en compte.
+
+Par ailleurs, j'aimerais évoquer un autre sujet essentiel, à savoir l'accès aux services au public. Je peux vous indiquer, monsieur le sénateur, que je souhaite que l'État puisse participer de façon pérenne, d'ici à 2017, à un réseau de mille points d'accès aux services publics, les maisons de services au public. Une expérimentation est née au sein du réseau « Plus de services au public ». Ce réseau sera fondé sur l'initiative locale, ce qui permet, là encore, une adaptation maximale à la typologie des territoires. En montagne, des opérateurs que l'on ne trouve peut-être pas sur d'autres territoires auront toute leur place dans ces maisons de services au public.
+
+Nous pouvons aussi travailler ensemble, si nécessaire, à d'autres dispositions qui pourraient être incluses dans le projet de loi et seraient de nature à répondre à d'autres enjeux des territoires ruraux, de manière générale, et de la montagne, en particulier. J'ai ainsi indiqué que je souhaitais, en ce qui concerne le schéma départemental d'accès aux services, pouvoir travailler avec les conseils généraux qui seraient volontaires, avant même l'adoption de cette loi, dans un cadre expérimental, qui permettrait de nourrir le travail législatif. J'espère que des départements de montagne pourront se joindre à cette démarche.
+
+Par ailleurs, je suis très attentive, vous le savez, aux travaux du Conseil national de la montagne et je ne verrais que des avantages à ce que des réflexions puissent se développer au sein de cette instance en vue de la préparation du titre « Égalité des territoires ». Je peux ainsi vous indiquer, monsieur le sénateur, que la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale, la DATAR, est à votre disposition pour travailler à ces propositions.
+
+M. le président. La parole est à M. Pierre Jarlier, pour la réplique.
+
+M. Pierre Jarlier. Madame la ministre, je vous remercie de vos propos. Les montagnards seront sensibles au fait que vous reconnaissiez que le mot « égalité » ne signifie pas « uniformité ».
+
+Dans le même ordre d'idées, je crois que, face à des situations inégales, il faut savoir apporter des solutions différenciées. Tel était le but de la loi Montagne qui mérite sans doute d'être revisitée, mais dont le fondement doit être maintenu, comme vous l'avez dit. Nous avons donc de longs débats en perspective. Avec la discussion du projet de loi ALUR, un certain nombre d'avancées ont déjà été opérées. Beaucoup reste à faire, parce qu'il ne faut pas sanctuariser les territoires ruraux, notamment en montagne.
+
+S'agissant des dotations, des avancées ont également été obtenues dans le projet de loi de finances pour 2014, mais nous devrons mieux prendre en compte, dans le calcul de la dotation globale de fonctionnement, les charges territoriales auxquelles les collectivités locales doivent faire face. Une réflexion est en cours sur ce sujet, le Gouvernement s'y est engagé devant le congrès des élus de la montagne. Nous espérons donc que ces charges seront mieux prises en compte à l'avenir.
+
+En ce qui concerne les services publics, je constate avec satisfaction que vous avez la volonté de mailler le territoire avec des maisons de services au public. Tout reste à faire et les territoires ruraux éprouvent une véritable inquiétude à ce sujet.
