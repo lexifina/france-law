@@ -1,6 +1,8 @@
 # Article Annexe III
 
-BAC PROFESSIONNEL - CLASSE DE TERMINALE - Nouvelle-Calédonie
+Adaptation Nouvelle-Calédonie
+
+Classes de terminale - baccalauréat professionnel
 
 HISTOIRE
 
@@ -8,7 +10,9 @@ HISTOIRE
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
@@ -24,55 +28,55 @@ Adaptation
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
-2. L'idée d'Europe au XXème siècle
+2. L'idée d'Europe au XXe siècle
 
-- Le plan Schuman
+- Le plan Schumann
 
-- Kohl, Mitterrand et l'Europe
+- Kohl - Mitterrand et l'Europe
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 3. La décolonisation et la construction de nouveaux États : Inde, Algérie
 
-- Gandhi et la non-violence
-
-- La Toussaint 1954
+- Gandhi et la non-violence - La Toussaint 1954
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 4. Le monde depuis le tournant des années 1990
 
-- La chute du Mur de Berlin
-
-- Le 11 septembre 2001
+- La chute du Mur de Berlin - Le 11 septembre 2001
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 .
 
-GÉOGRAPHIE
+GEOGRAPHIE
 
 |
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au
+
+moins)
 
 |
 
@@ -80,69 +84,75 @@ Adaptation
 
 |
 
-1. La France dans l'UE et dans le monde
+1. Acteurs, flux, réseaux de la mondialisation
 
-- Paris, ville mondiale
+- Les migrations internationales
 
-- L'outre-mer et la puissance française
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+- Le circuit mondial d'un produit
 
 |
 
-2. Acteurs et enjeux de l'aménagement des territoires français
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
-- Le Conservatoire du littoral
-
-- Un aménagement dans une communauté de communes
+On évoque les migrations dans l'espace océanien.
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+2. Mondialisation et diversité culturelle
+
+- Le cinéma en Asie
+
+- Géographie des goûts alimentaires
 
 |
 
-3. Les transformations de l'espace productif et décisionnel
-
-- Une métropole
-
-- La région de l'établissement
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+3. Pôles et aires de puissance
 
-- Étude d'un espace productif et décisionnel en Nouvelle-Calédonie
-
-|
-
-4. Les mobilités de population
-
-- La France en été
-
-- Les migrations entre la métropole et l'outre-mer
+- La Chine littorale - La Californie
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-5. L'Union européenne et ses territoires
+4. Les dynamiques des périphéries
 
-- Les frontières de l'Union européenne
+- Un PMA au choix
 
-- Un grand projet européen : Ariane
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+- Un pays émergent au choix
 
 |
 
-BAC PROFESSIONNEL - CLASSE DE TERMINALE - Polynésie française
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+
+Si elle est choisie, la situation peut porter sur un PMA océanien.
+
+|
+
+.
+
+ÉDUCATION CIVIQUE
+
+|
+
+A. Thème obligatoire
+
+La Constitution de la Ve République et l'exercice des pouvoirs
+
+|
+
+Le thème A prend en compte l'évolution politique et institutionnelle de la Polynésie française.
+
+|
+
+Adaptation Polynésie française
+
+Classes de terminale - baccalauréat professionnel
 
 HISTOIRE
 
@@ -150,7 +160,9 @@ HISTOIRE
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
@@ -166,55 +178,53 @@ Adaptation
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
-2. L'idée d'Europe au XXème siècle
+2. L'idée d'Europe au XXe siècle
 
-- Le plan Schuman
+- Le plan Schumann
 
-- Kohl, Mitterrand et l'Europe
+- Kohl - Mitterrand et l'Europe
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 3. La décolonisation et la construction de nouveaux États : Inde, Algérie
 
-- Gandhi et la non-violence
-
-- La Toussaint 1954
+- Gandhi et la non-violence - La Toussaint 1954
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 4. Le monde depuis le tournant des années 1990
 
-- La chute du Mur de Berlin
-
-- Le 11 septembre 2001
+- La chute du Mur de Berlin - Le 11 septembre 2001
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 .
 
-GÉOGRAPHIE
+GEOGRAPHIE
 
 |
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
@@ -222,11 +232,25 @@ Adaptation
 
 |
 
-1. La France dans l'UE et dans le monde
+1. Acteurs, flux, réseaux de la mondialisation
 
-- Paris, ville mondiale
+- Les migrations internationales
 
-- L'outre-mer et la puissance française
+- Le circuit mondial d'un produit
+
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+
+On évoquera les migrations dans l'espace océanien.
+
+|
+
+2. Mondialisation et diversité culturelle
+
+- Le cinéma en Asie
+
+- Géographie des goûts alimentaires
 
 |
 
@@ -234,11 +258,9 @@ Chaque fois que cela est possible et justifié par les programmes, on prendra ap
 
 |
 
-2. Acteurs et enjeux de l'aménagement des territoires français
+3. Pôles et aires de puissance
 
-- Le Conservatoire du littoral
-
-- Un aménagement dans une communauté de communes
+- La Chine littorale - La Californie
 
 |
 
@@ -246,45 +268,39 @@ Chaque fois que cela est possible et justifié par les programmes, on prendra ap
 
 |
 
-3. Les transformations de l'espace productif et décisionnel
+4. Les dynamiques des périphéries
 
-- Une métropole
+- Un PMA au choix
 
-- La région de l'établissement
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
-
-- Étude d'un espace productif et décisionnel en Polynésie française
-
-|
-
-4. Les mobilités de population
-
-- La France en été
-
-- Les migrations entre la métropole et l'outre-mer
+- Un pays émergent au choix
 
 |
 
 Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
-|
-
-5. L'Union européenne et ses territoires
-
-- Les frontières de l'Union européenne
-
-- Un grand projet européen : Ariane
+Si elle est choisie, la situation peut porter sur un PMA océanien.
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+.
+
+ÉDUCATION CIVIQUE
 
 |
 
-BAC PROFESSIONNEL - CLASSE DE TERMINALE - Wallis-et-Futuna
+A. Thème obligatoire
+
+La Constitution de la Ve République et l'exercice des pouvoirs
+
+|
+
+Le thème A prend en compte l'évolution politique et institutionnelle de Wallis-et-Futuna.
+
+|
+
+Adaptation Wallis-et-Futuna
+
+Classes de terminale - baccalauréat professionnel
 
 HISTOIRE
 
@@ -292,7 +308,9 @@ HISTOIRE
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
@@ -308,59 +326,57 @@ Adaptation
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
-2. L'idée d'Europe au XXème siècle
+2. L'idée d'Europe au XXe siècle
 
-- Le plan Schuman
+- Le plan Schumann
 
-- Kohl, Mitterrand et l'Europe
+- Kohl - Mitterrand et l'Europe
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 3. La décolonisation et la construction de nouveaux États : Inde, Algérie
 
-- Gandhi et la non-violence
-
-- La Toussaint 1954
+- Gandhi et la non-violence - La Toussaint 1954
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 4. Le monde depuis le tournant des années 1990
 
-- La chute du Mur de Berlin
-
-- Le 11 septembre 2001
+- La chute du Mur de Berlin - Le 11 septembre 2001
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 .
 
-GÉOGRAPHIE
+GEOGRAPHIE
 
 |
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
-Adaptation
+Contextualisation
 
 |
 
@@ -372,7 +388,7 @@ Adaptation
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
@@ -384,44 +400,32 @@ Chaque fois que cela est possible et justifié par les programmes, on prendra ap
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
 3. Les transformations de l'espace productif et décisionnel
 
-- Une métropole
+- L'espace productif d'une métropole
 
-- La région de l'établissement
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
-
-- Étude d'un espace productif et décisionnel à Wallis-et-Futuna
+- L'espace productif dans lequel est situé l'établissement
 
 |
 
-4. Les mobilités de population
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
-- La France en été
-
-- Les migrations entre la métropole et l'outre-mer
+Étude d'un espace productif et décisionnel à Wallis-et-Futuna
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
-
-|
-
-5. L'Union européenne et ses territoires
+4. L'Union européenne et ses territoires
 
 - Les frontières de l'Union européenne
 
-- Un grand projet européen : Ariane
+- Un grand projet européen
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |

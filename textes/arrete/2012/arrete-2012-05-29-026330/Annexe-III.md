@@ -1,16 +1,22 @@
 # Article Annexe III
 
-CLASSE DE TERMINALE - BAC PROFESSIONNEL
+Les dispositions de l'annexe 3 de l'arrêté du 29 mai 2012 sont remplacées par les dispositions de l'annexe 2 de l'arrêté du 2 octobre 2013.
 
-Drom
+Adaptation DROM
 
-HISTOIRE - Le monde au XXème siècle et au début du XXème siècle
+Classes de terminale - baccalauréat professionnel
+
+Histoire -
 
 |
 
-Programme national :
+Le monde au XXe siècle et au début du XXIe siècle
 
-sujets d'études/situations
+|
+
+Programme national
+
+Sujets d'études - Situations
 
 |
 
@@ -22,35 +28,35 @@ Adaptation
 
 |
 
-- Pour la Guyane, la Guadeloupe et la Martinique, l'accent peut être mis sur les relations des États-Unis avec
+Pour la Guyane, la Guadeloupe et la Martinique, l'accent peut être mis sur les relations des États-Unis avec l'espace caraïbe.
 
-l'espace caraïbe.
-
-- Pour la Réunion, l'accent peut être mis sur les relations des États-Unis et de l'Afrique australe.
+Pour la Réunion, l'accent peut être mis sur les relations des États-Unis et de l'Afrique australe.
 
 |
 
-3. La décolonisation et la construction de nouveaux États :
-
-Inde, Algérie
+3. La décolonisation et la construction de nouveaux États : Inde, Algérie
 
 |
 
-Ce sujet d'étude peut être l'occasion d'évoquer la décolonisation dans l'espace caribéen ou dans l'océan
+Ce sujet d'étude peut être l'occasion d'évoquer la décolonisation dans l'espace caribéen ou dans
 
-indien.
+l'océan indien.
 
 |
 
 .
 
-GÉOGRAPHIE - La France dans l'Union européenne
+Géographie
 
 |
 
-Programme national :
+La France dans l'Union européenne
 
-sujets d'études/situations
+|
+
+Programme national
+
+Sujets d'études - Situations
 
 |
 
@@ -58,9 +64,7 @@ Adaptation
 
 |
 
-2. Acteurs et enjeux de l'aménagement des territoires
-
-français
+2. Acteurs et enjeux de l'aménagement des territoires français
 
 - Le Conservatoire du littoral
 
@@ -68,6 +72,6 @@ français
 
 |
 
-On peut choisir des exemples d'aménagement des territoires dans les Drom.
+On peut choisir des exemples d'aménagement des territoires dans les DROM.
 
 |

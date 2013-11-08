@@ -1,6 +1,8 @@
 # Article Annexe II
 
-BAC PROFESSIONNEL - CLASSE DE PREMIÈRE - Nouvelle-Calédonie
+Adaptation Nouvelle-Calédonie
+
+Classes de première - baccalauréat professionnel
 
 HISTOIRE
 
@@ -8,7 +10,9 @@ HISTOIRE
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
@@ -18,17 +22,15 @@ Adaptation
 
 1. Être ouvrier en France (1830-1975)
 
-- 1892, la grève de Carmaux et Jean Jaurès
+- 1892, la grève de Carmaux et J. Jaurès
 
-- 1936 : les occupations d'usine
-
-- Être ouvrier à... (exemple dans une ville industrielle)
+- Être ouvrier à ... (exemple dans une ville industrielle)
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- Si elle est choisie, la situation peut porter sur l'expérience des ouvriers du nickel en Nouvelle-Calédonie.
+Si elle est choisie, la situation peut porter sur l'expérience des ouvriers du nickel en Nouvelle-Calédonie
 
 |
 
@@ -36,17 +38,13 @@ Chaque fois que cela est possible et justifié par les programmes, on prendra ap
 
 - Louise Weiss et le vote des femmes dans l'entre-deux-guerres
 
-- La scolarisation des filles
-
 - Simone Veil et le débat sur l'IVG
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- Si elle est choisie, la situation prend aussi en compte le contexte calédonien.
-
-- Si elle est choisie, la situation prend en compte les particularités du contexte calédonien dans le débat, puis la mise en place de la loi (la légalisation de l'IVG n'est obtenue en Nouvelle-Calédonie qu'en 2001).
+Si elle est choisie, la situation prend en compte les particularités du contexte calédonien dans le débat, puis la mise en place de la loi. (La légalisation de l'IVG n'est obtenue en Nouvelle-Calédonie qu'en 2001).
 
 |
 
@@ -56,123 +54,99 @@ Chaque fois que cela est possible et justifié par les programmes, on prendra ap
 
 - Briand et la loi de la séparation des Églises et de l'État
 
-- La construction d'un lieu de culte après 1905
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+On met en avant les spécificités du fait religieux en Nouvelle-Calédonie.
+
+Si elle est choisie, la situation prend en compte les spécificités de la Nouvelle-Calédonie.
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
-
-- On mettra en avant les spécificités du fait religieux en Nouvelle-Calédonie.
-
-- Si elle est choisie, la situation prend en compte les spécificités de la Nouvelle-Calédonie.
-
-|
-
-4. De l'État français à la IVème République (1940-1946)
+4. De l'État français à la IVe République (1940-1946)
 
 - La rafle du Vel d'Hiv
 
 - Jean Moulin et l'unification de la Résistance
 
-- Le programme du Conseil national de la Résistance
-
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
-
-|
-
-5. La Vème République, une République d'un nouveau type ?
-
-- De Gaulle et la première élection présidentielle au suffrage universel
-
-- Mai 1968 - La cohabitation
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
-
-- Ce sujet d'étude prend en compte l'évolution politique et institutionnelle de la Nouvelle-Calédonie dans le cadre de la Vème République.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 .
 
-GÉOGRAPHIE
+GEOGRAPHIE
 
 |
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
-Adaptation
+Contextualisation
 
 |
 
-1. Acteurs, flux, réseaux de la mondialisation
+1. La France dans l'UE et dans le monde
 
-- Les migrations internationales
+- Paris, ville mondiale
 
-- Le circuit mondial d'un produit
-
-- L'action internationale d'une ONG
+- L'Outre-mer et la puissance française
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
-
-- On évoquera les migrations dans l'espace océanien.
-
-- On pourra prendre l'exemple du nickel.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-2. Mondialisation et diversité culturelle
+2. Acteurs et enjeux de l'aménagement des territoires français
 
-- Le cinéma en Asie
+- Le Conservatoire du littoral
 
-- Géographie des goûts alimentaires
-
-- Géographie des langues en Europe
+- Un aménagement dans une communauté de communes
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-3. Pôles et aires de puissance
+3. Les transformations de l'espace productif et décisionnel
 
-- La mégalopole japonaise
+- L'espace productif d'une métropole
 
-- La Chine littorale
-
-- La Californie
+- L'espace productif dans lequel est situé l'établissement
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+
+Étude d'un espace productif et décisionnel en Nouvelle Calédonie
 
 |
 
-4. Les dynamiques des périphéries
+4. L'Union européenne et ses territoires
 
-- Un PMA au choix
+- Les frontières de l'Union européenne
 
-- Un pays émergent au choix
-
-- L'Amérique latine
+- Un grand projet européen
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-BAC PROFESSIONNEL - CLASSE DE PREMIÈRE - Polynésie française
+Adaptation Polynésie française
+
+Classes de première - baccalauréat professionnel
 
 HISTOIRE
 
@@ -180,7 +154,9 @@ HISTOIRE
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
@@ -190,17 +166,15 @@ Adaptation
 
 1. Être ouvrier en France (1830-1975)
 
-- 1892, la grève de Carmaux et Jean Jaurès
+- 1892, la grève de Carmaux et J. Jaurès
 
-- 1936 : les occupations d'usine
-
-- Être ouvrier à... (exemple dans une ville industrielle)
+- Être ouvrier à ... (exemple dans une ville industrielle)
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- Si elle est choisie, la situation peut porter sur l'expérience des ouvriers de Makatea.
+Si elle est choisie, la situation peut porter sur l'expérience des ouvriers de Makatea.
 
 |
 
@@ -208,17 +182,13 @@ Chaque fois que cela est possible et justifié par les programmes, on prendra ap
 
 - Louise Weiss et le vote des femmes dans l'entre-deux-guerres
 
-- La scolarisation des filles
-
 - Simone Veil et le débat sur l'IVG
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- Si elle est choisie, la situation prend aussi en compte le contexte polynésien.
-
-- Si elle est choisie, la situation prend en compte les particularités du contexte polynésien dans le débat, puis la mise en place de la loi.
+Si elle est choisie, la situation prend en compte les particularités du contexte polynésien dans le débat, puis la mise en place de la loi.
 
 La légalisation de l'IVG n'est obtenue en Polynésie française qu'en 2001.
 
@@ -230,127 +200,101 @@ La légalisation de l'IVG n'est obtenue en Polynésie française qu'en 2001.
 
 - Briand et la loi de la séparation des Églises et de l'État
 
-- La construction d'un lieu de culte après 1905
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+On met en avant les spécificités du fait religieux en Polynésie française.
+
+Si elle est choisie, la situation prend en compte les spécificités de l'application des ÉFO.
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
-
-- On mettra en avant les spécificités du fait religieux en Polynésie française.
-
-- Si elle est choisie, la situation prend en compte les spécificités de l'application des ÉFO.
-
-|
-
-4. De l'État français à la IVème République (1940-1946)
+4. De l'État français à la IVe République (1940-1946)
 
 - La rafle du Vel d'Hiv
 
 - Jean Moulin et l'unification de la Résistance
 
-- Le programme du Conseil national de la Résistance
-
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- Si elle est choisie, la situation prend en compte les aspirations politiques des membres du Bataillon du Pacifique à leur retour.
-
-|
-
-5. La Vème République, une République d'un nouveau type ?
-
-- De Gaulle et la première élection présidentielle au suffrage universel
-
-- Mai 1968
-
-- La cohabitation
-
-|
-
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
-
-- Ce sujet d'étude prend en compte l'évolution politique et institutionnelle de la Polynésie française dans le cadre de la Vème République.
+Si elle est choisie, la situation prend en compte les aspirations politiques des membres du Bataillon du Pacifique à leur retour.
 
 |
 
 .
 
-GÉOGRAPHIE
+GEOGRAPHIE
 
 |
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
-Adaptation
+Contextualisation
 
 |
 
-1. Acteurs, flux, réseaux de la mondialisation
+1. La France dans l'UE et dans le monde
 
-- Les migrations internationales
+- Paris, ville mondiale
 
-- Le circuit mondial d'un produit
-
-- L'action internationale d'une ONG
+- L'outre-mer et la puissance française
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
-
-- On évoquera les migrations dans l'espace océanien.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-2. Mondialisation et diversité culturelle
+2. Acteurs et enjeux de l'aménagement des territoires français
 
-- Le cinéma en Asie
+- Le Conservatoire du littoral
 
-- Géographie des goûts alimentaires
-
-- Géographie des langues en Europe
+- Un aménagement dans une communauté de communes
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-3. Pôles et aires de puissance
+3. Les transformations de l'espace productif et décisionnel
 
-- La mégalopole japonaise
+- L'espace productif d'une métropole
 
-- La Chine littorale
-
-- La Californie
+- L'espace productif dans lequel est situé l'établissement
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+
+Étude d'un espace productif et décisionnel en Polynésie française.
 
 |
 
-4. Les dynamiques des périphéries
+4. L'Union européenne et ses territoires
 
-- Un PMA au choix
+- Les frontières de l'Union européenne
 
-- Un pays émergent au choix
-
-- L'Amérique latine
+- Un grand projet européen
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
-
-- Si elle est choisie, la situation peut porter sur un PMA océanien.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-BAC PROFESSIONNEL - CLASSE DE PREMIÈRE - Wallis-et-Futuna
+Adaptation Wallis-et-Futuna
+
+Classes de première - baccalauréat professionnel
 
 HISTOIRE
 
@@ -358,7 +302,9 @@ HISTOIRE
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
@@ -368,17 +314,15 @@ Adaptation
 
 1. Être ouvrier en France (1830-1975)
 
-- 1892, la grève de Carmaux et Jean Jaurès
+- 1892, la grève de Carmaux et J. Jaurès
 
-- 1936, les occupations d'usine
-
-- Être ouvrier à... (exemple dans une ville industrielle)
+- Être ouvrier à ... (exemple dans une ville industrielle)
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- Si elle est choisie, la situation peut porter sur l'expérience des ouvriers du nickel en Nouvelle-Calédonie.
+Si elle est choisie, la situation peut porter sur l'expérience des ouvriers du nickel en Nouvelle-Calédonie
 
 |
 
@@ -386,17 +330,13 @@ Chaque fois que cela est possible et justifié par les programmes, on prendra ap
 
 - Louise Weiss et le vote des femmes dans l'entre-deux-guerres
 
-- La scolarisation des filles
-
 - Simone Veil et le débat sur l'IVG
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
-- Si elle est choisie, la situation prend aussi en compte le contexte wallisien-et-futunien
-
-- Si elle est choisie, la situation prend en compte les particularités du contexte wallisien-et-futunien dans le débat, puis la mise en place de la loi.
+- Si elle est choisie, la situation prend en compte les particularités du contexte wallisien et futunien dans le débat, puis la mise en place de la loi.
 
 La légalisation de l'IVG n'est obtenue à Wallis-et-Futuna qu'en 2001.
 
@@ -408,116 +348,90 @@ La légalisation de l'IVG n'est obtenue à Wallis-et-Futuna qu'en 2001.
 
 - Briand et la loi de la séparation des Églises et de l'État
 
-- La construction d'un lieu de culte après 1905
+|
+
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
+
+On met en avant les spécificités du fait religieux à Wallis et Futuna.
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
-
-- On mettra en avant les spécificités du fait religieux à Wallis-et-Futuna.
-
-- Si elle est choisie, la situation prend en compte les spécificités de l'application de Wallis-et-Futuna.
-
-|
-
-4. De l'État français à la IVème République (1940-1946)
+4. De l'État français à la IVe République (1940-1946)
 
 - La rafle du Vel d'Hiv
 
 - Jean Moulin et l'unification de la Résistance
 
-- Le programme du Conseil national de la Résistance
-
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples historiques locaux ou pris dans l'environnement régional.
-
-|
-
-5. La Vème République, une République d'un nouveau type ?
-
-- De Gaulle et la première élection présidentielle au suffrage universel
-
-- Mai 1968
-
-- La cohabitation
-
-|
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples historiques locaux ou pris dans l'environnement régional.
 
 |
 
 .
 
-GÉOGRAPHIE
+GEOGRAPHIE
 
 |
 
 Programme national :
 
-sujets d'étude/situations (une au moins)
+Sujets d'étude
+
+Situations (une au moins)
 
 |
 
-Adaptation
+Contextualisation
 
 |
 
-1. Acteurs, flux, réseaux de la mondialisation
+1. La France dans l'UE et dans le monde
 
-- Les migrations internationales
+- Paris, ville mondiale
 
-- Le circuit mondial d'un produit
-
-- L'action internationale d'une ONG
+- L'outre-mer et la puissance française
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
-
-- On évoquera les migrations dans l'espace océanien.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-2. Mondialisation et diversité culturelle
+2. Acteurs et enjeux de l'aménagement des territoires français
 
-- Le cinéma en Asie
+- Le Conservatoire du littoral
 
-- Géographie des goûts alimentaires
-
-- Géographie des langues en Europe
+- Un aménagement dans une communauté de communes
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |
 
-3. Pôles et aires de puissance
+3. Les transformations de l'espace productif et décisionnel
 
-- La mégalopole japonaise
+- L'espace productif d'une métropole
 
-- La Chine littorale
-
-- La Californie
+- L'espace productif dans lequel est situé l'établissement
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
+
+Étude d'un espace productif et décisionnel à Wallis-et-Futuna
 
 |
 
-4. Les dynamiques des périphéries
+4. L'Union européenne et ses territoires
 
-- Un PMA au choix
+- Les frontières de l'Union européenne
 
-- Un pays émergent au choix
-
-- L'Amérique latine
+- Un grand projet européen
 
 |
 
-Chaque fois que cela est possible et justifié par les programmes, on prendra appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
-
-- Si elle est choisie, la situation peut porter sur un PMA océanien.
+Chaque fois que cela est possible et justifié par les programmes, on prend appui sur des exemples géographiques locaux ou pris dans l'environnement régional.
 
 |

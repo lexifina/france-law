@@ -1,16 +1,22 @@
 # Article Annexe II
 
-CLASSE DE PREMIÈRE - BAC PROFESSIONNEL
+Adaptation DROM
 
-Drom
+Classes de première - baccalauréat professionnel
 
-HISTOIRE - État et société en France de 1830 à nos jours
+HISTOIRE
 
 |
 
-Programme national :
+État et société en France de 1830 à nos jours
 
-sujets d'études/situations
+|
+
+Programme national
+
+Sujets d'études -
+
+Situations
 
 |
 
@@ -20,43 +26,41 @@ Adaptation
 
 1. Être ouvrier en France (1830-1975)
 
-- Être ouvrier à... (exemple dans une ville industrielle).
+- Être ouvrier à...(exemple dans une ville industrielle).
 
 |
 
-Cette situation peut être étudiée à travers l'exemple des Drom.
+Cette situation peut être étudiée à travers l'exemple des DROM.
 
 |
 
 3. La République et le fait religieux depuis 1880
 
-Les lois laïques des années 1880.
-
-La construction d'un culte après 1905.
+- Les lois laïques des années 1880.
 
 |
 
-Ces situations sont abordées en intégrant les spécificités des Drom.
+Cette situation est abordée en intégrant les spécificités des DROM
 
 |
 
-4. De l'État français à la IVème République (1940-1946).
+4. De l'État français à la IVe République (1940 - 1946).
 
 |
 
-Ce sujet d'étude intègre les spécificités des Drom durant la période envisagée.
+Ce sujet d'étude intègre les spécificités des DROM durant la période envisagée
 
 |
 
 .
 
-GÉOGRAPHIE - Des territoires dans la mondialisation
+Des territoires dans la mondialisation
 
 |
 
-Programme national :
+Programme national
 
-sujets d'études/situations
+Sujets d'étude - Situations
 
 |
 
@@ -70,11 +74,9 @@ Adaptation
 
 - Le circuit mondial d'un produit
 
-- L'action internationale d'une ONG
-
 |
 
-Les Drom sont intégrés dans le processus de mondialisation et peuvent illustrer des phénomènes de migrations internationales, le circuit mondial d'un produit ou l'action internationale d'une ONG.
+Les DROM sont intégrés dans le processus de mondialisation et peuvent illustrer des phénomènes de migrations internationales, le circuit mondial d'un produit ou l'action internationale d'une ONG.
 
 |
 
@@ -82,6 +84,6 @@ Les Drom sont intégrés dans le processus de mondialisation et peuvent illustre
 
 |
 
-Ce sujet d'étude intègre les spécificités des Drom.
+Ce sujet d'étude intègre les spécificités des DROM .
 
 |
