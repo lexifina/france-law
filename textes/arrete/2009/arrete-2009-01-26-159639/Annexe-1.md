@@ -52,6 +52,12 @@ Secrétaire général de la commission interministérielle de la politique immob
 
 |
 
+Chargé de mission coopération internationale au cabinet du secrétaire général du Gouvernement |
+
+1
+
+|
+
 Cabinet du Premier ministre
 
 |
