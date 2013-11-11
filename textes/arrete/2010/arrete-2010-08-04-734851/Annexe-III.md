@@ -4,21 +4,21 @@ SOUS-OFFICIERS DE GENDARMERIE
 
 La commission d'avancement mentionnée à l'article 4 se compose des officiers désignés dans le tableau ci-après :
 
-1. - Branches de la subdivision d'arme de la gendarmerie départementale
+1. Branches de la subdivision d'arme de la gendarmerie départementale.
 
 BRANCHES
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-Titulaire
+de la commission titulaire
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-Suppléant
+de la commission suppléant
 
 |
 
@@ -108,41 +108,25 @@ Deux officiers supérieurs de la branche considérée, à défaut, désignés pa
 
 |
 
-2. - Branches de la subdivision d'arme de la gendarmerie mobile
+2. Branches de la subdivision d'arme de la gendarmerie mobile.
 
 BRANCHES
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-Titulaire
+de la commission titulaire
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-Suppléant
+de la commission suppléant
 
 |
 
 MEMBRES
-
-|
-
-Ensemble des formations de gendarmerie mobile placées sous l'autorité du commandant de chaque région de gendarmerie située au siège de la zone de défense et de sécurité.
-
-|
-
-Le commandant en second de la région de gendarmerie située au siège de la zone de défense et de sécurité.
-
-|
-
-L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
-
-|
-
-Les commandants de groupement ou les commandants de groupement par suppléance.
 
 |
 
@@ -160,27 +144,25 @@ L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-ma
 
 Les commandants de régiment ou les commandants de régiment par suppléance.
 
-Le chef des orchestres ou le chef des orchestres par suppléance.
-
-Le chef du chœur de l'armée française ou le chef du chœur de l'armée française par suppléance.
+L'administrateur-régisseur des formations musicales de la garde républicaine.
 
 |
 
-3. - Branches communes aux deux subdivisions d'arme
+3. Branches communes aux deux subdivisions d'arme.
 
 BRANCHES
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-Titulaire
+de la commission titulaire
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-Suppléant
+de la commission suppléant
 
 |
 
@@ -268,11 +250,9 @@ Un officier du grade de colonel de la branche considérée, à défaut, désign�
 
 Un officier supérieur du centre technique de la gendarmerie nationale.
 
-Un officier supérieur du pôle judiciaire de la gendarmerie nationale.
-
 Un officier supérieur de la direction de la coopération internationale.
 
-Un officier du commandement de la gendarmerie prévôtale.
+Un officier supérieur du commandement de la gendarmerie prévôtale.
 
 Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
 
@@ -324,7 +304,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
-Un officier supérieur par formation concernée désigné par le directeur des personnels militaires de la gendarmerie nationale.
+Un officier supérieur de la gendarmerie nationale par formation concernée désigné par le directeur des personnels militaires de la gendarmerie nationale.
 
 |
 
@@ -340,25 +320,45 @@ Le commandant en second du groupe d'intervention de la gendarmerie nationale.
 
 |
 
-Les chefs d'états-majors, les chefs des forces, le chef de détachement.
+Les chefs d'états-majors, les chefs des forces et le chef de détachement.
 
 |
 
-4. - Spécialités
+Personnel servant au sein du pôle judiciaire de la gendarmerie nationale.
+
+|
+
+Le commandant du pôle judiciaire de la gendarmerie nationale.
+
+|
+
+Le commandant en second du pôle judiciaire de la gendarmerie nationale.
+
+|
+
+Le directeur de l'institut de recherche criminelle de la gendarmerie nationale ou le directeur adjoint de l'institut de recherche criminelle de la gendarmerie nationale par suppléance.
+
+Le chef du service technique de recherches judiciaires ou l'adjoint au chef du service technique de recherches judiciaires par suppléance.
+
+Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale.
+
+|
+
+4. Spécialités.
 
 BRANCHES
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-Titulaire
+de la commission titulaire
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-Suppléant
+de la commission suppléant
 
 |
 
