@@ -1,0 +1,9 @@
+# Réponse à la question n° 34818
+
+- Question : [34818](34818.md) — Question n° 34818 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-11-12*
+
+Le conseil scientifique du Laboratoire de recherche des monuments historiques (LRMH) a été institué par arrêté du 16 janvier 1987, modifié par plusieurs arrêtés en 1996, 2000 et 2001. Le LRMH est un service à compétence nationale du ministère chargé de la culture, rattaché à la direction générale des patrimoines. L'arrêté du 4 janvier 2000 précise que le LRMH est doté d'un conseil scientifique présidé par le directeur général des patrimoines et que sa composition est fixée par arrêté du ministre chargé de la culture. Il examine les questions relatives aux objectifs généraux des recherches conduites par le laboratoire, à leur méthodologie, ainsi qu'à la publication et à la diffusion de leurs résultats. Il évalue les programmes et les résultats de recherche des différentes équipes du laboratoire mentionnées à l'article 2 de cet arrêté du 4 janvier 2000. Il formule toute proposition en matière de coopération avec d'autres instances scientifiques ou industrielles. Il peut de plus être consulté sur toute question d'ordre scientifique. Le président peut inviter aux réunions toute personne dont l'audition lui paraît utile. Le conseil scientifique du LRMH est composé de 22 membres : 12 membres de droit, 8 personnalités qualifiées et 2 représentants du personnel élus par leurs pairs. La durée du mandat des membres est de 4 ans renouvelables. Il a été renouvelé cette année. Il se réunit une fois par an. Son budget comporte le remboursement des frais de déplacement des personnalités qualifiées, notamment des personnalités étrangères, ainsi que la reprographie de documents de bilan scientifique et de bilan d'activité. Il s'élève à environ 1 000 € par an imputés sur les crédits de fonctionnement du laboratoire.
