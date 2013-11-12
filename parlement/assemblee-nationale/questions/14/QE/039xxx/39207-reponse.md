@@ -1,0 +1,9 @@
+# Réponse à la question n° 39207
+
+- Question : [39207](39207.md) — Question n° 39207 — Français établis hors de France
+
+## Réponse
+
+*JO du 2013-11-12*
+
+Depuis 2009, des dispositions spécifiques applicables aux députés élus par les Français établis hors de France sont prévus afin d'authentifier la population des personnes inscrites au registre des Français établis hors de France (ordonnance 2009-936 du 29 juillet 2009, article L 330-1 du code électoral). L'authentification détermine le plafond des dépenses électorales. La population des Français établis hors de France est authentifiée par décret chaque année au 1er janvier et dans chacune des onze circonscriptions électorales à partir des données issues du registre des Français établis hors de France réglementé par le décret n° 2003-1377 du 31 décembre 2003. Tout Français ayant sa résidence habituelle dans une circonscription consulaire, telle que prévue par la convention de Vienne de 1963 sur les relations consulaires, peut s'inscrire au registre des Français établis hors de France. L'inscription est valable au maximum cinq ans. Celle du conjoint ou des enfants mineurs de nationalité française peut être demandée, pour chacun d'eux, en même temps ou séparément. Le demandeur doit alors justifier de sa nationalité, de son identité et de sa résidence dans la circonscription, généralement par l'autorisation de séjour obtenue auprès des autorités locales. L'inscription sur les listes électorales consulaires est indépendante de l'inscription au registre des Français établis hors de France même si les justificatifs demandés sont en partie identiques et si les démarches d'inscription sont généralement effectuées conjointement. Dans le cadre de l'élection des députés par les Français établis hors de France, le décret n° 2013-161 du 22 février 2013 a authentifié, au 1er janvier 2013, la population concernée à 1 611 054 personnes réparties entre 11 circonscriptions.
