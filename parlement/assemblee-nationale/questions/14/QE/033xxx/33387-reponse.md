@@ -1,0 +1,9 @@
+# Réponse à la question n° 33387
+
+- Question : [33387](33387.md) — Question n° 33387 — organisation territoriale; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2013-11-12*
+
+Le Gouvernement partage l'orientation de la Cour des comptes dans son rapport relatif à l'organisation territoriale de l'Etat visant à simplifier la gestion financière et comptable des services déconcentrés et à faciliter la connaissance territoriale des interventions de l'Etat. Le comité interministériel pour la modernisation de l'action publique du 17 juillet 2013 a donc décidé, ainsi que le recommande la Cour des comptes, de diminuer le nombre de budgets opérationnels de programme (BOP) gérés par les services déconcentrés. Le ministre chargé du budget formulera des propositions de simplification de la cartographie des programmes, des BOP et des unités opérationnelles (UO) avant la fin novembre 2013. En revanche, le Gouvernement a décidé de ne pas créer un programme « conduite des politiques territoriales de l'Etat ». La priorité est en effet d'améliorer l'articulation entre les administrations centrales, responsables de la conception et du pilotage des politiques publiques, et l'administration territoriale chargée de leur mise en oeuvre, ce qui implique une inflexion sensible de la conduite du dialogue de gestion et une nouvelle étape de déconcentration des responsabilités et des moyens. Le comité interministériel précité a donc décidé, d'une part, que les préfets de région seront désignés responsables des BOP gérés par les services placés sous leur autorité et d'autre part, d'expérimenter l'association des préfets de région à la préparation en amont des dialogues de gestion, dès le mois de juillet, c'est-à-dire au moment où la répartition des emplois et des moyens entre administration centrale et services déconcentrés peut encore évoluer.
