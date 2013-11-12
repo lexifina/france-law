@@ -1,0 +1,9 @@
+# Réponse à la question n° 37532
+
+- Question : [37532](37532.md) — Question n° 37532 — détecteurs de métaux; utilisation; réglementation
+
+## Réponse
+
+*JO du 2013-11-12*
+
+Le Conseil national de la recherche archéologique (CNRA) a remis au précédent ministre de la culture et de la communication, en février 2011, un rapport intitulé « Détecteurs de métaux et pillage : le patrimoine archéologique national en danger ». Il est consultable en ligne à l'adresse : http ://www. culturecommunication. gouv. fr/index. php/Disciplines-et-secteurs/Archeologie/Qu-est-ce-que-l-archeologie/CNRA. La ministre invite l'ensemble de ses concitoyens à prendre connaissance du bilan et des orientations que ce rapport présente. Pour faire face à la multiplication des atteintes portées au patrimoine archéologique, le CNRA a formulé une série de propositions visant à renforcer le cadre juridique relatif à l'utilisation des détecteurs de métaux. Certaines de ces préconisations, notamment en matière de sanction pénale, s'inscriront dans le projet de loi relatif au patrimoine que la ministre de la culture et de la communication soumettra prochainement à l'examen du parlement. Il convient également de souligner que, d'ores et déjà, des rapprochements très efficaces sont intervenus entre les différents services ministériels concernés par la protection du patrimoine archéologique (services patrimoniaux, gendarmerie, douanes, justice), afin d'améliorer la qualification des infractions constatées et d'engager les procédures nécessaires aux sanctions qu'elles appellent. Parallèlement à ce travail difficile, la direction générale des patrimoines intensifie les actions de sensibilisation du public à la fragilité du patrimoine archéologique, relayées en régions par les services déconcentrés du ministère de la culture et de la communication et en partenariat avec les établissements publics, les collectivités territoriales et le milieu associatif.
