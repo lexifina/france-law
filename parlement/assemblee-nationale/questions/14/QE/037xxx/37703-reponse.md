@@ -1,0 +1,9 @@
+# Réponse à la question n° 37703
+
+- Question : [37703](37703.md) — Question n° 37703 — constructions agricoles; perspectives
+
+## Réponse
+
+*JO du 2013-11-12*
+
+Les serres de production et les autres bâtiments agricoles sont constitutifs de surface de plancher dans la mesure où ils sont clos et couverts, en application des dispositions de l'article R. 112-2 du code de l'urbanisme issues du décret n° 2011-2054 du 29 décembre 2011 entré en vigueur le 1er mars 2012. Avant le 1er mars 2012, les serres de production et les locaux d'exploitations agricoles étaient certes d'ores et déjà considérés comme constitutifs de surface de plancher. Toutefois, ces surfaces de plancher n'étaient pas comptabilisées dans le calcul de la surface hors oeuvre nette (SHON), pour des motifs fiscaux et non au regard de considérations relevant de l'application du droit des sols. Ainsi, n'étant pas constitutives de SHON, les surfaces concernées n'entraient pas dans l'assiette de la taxe locale d'équipement. Depuis le 1er mars 2012, la taxe locale d'équipement a été remplacée par la taxe d'aménagement. Les serres de production et les locaux d'exploitations agricoles sont exonérés du paiement de cette taxe, en application des articles L. 331-7 et L. 331-8 du code de l'urbanisme. Concernant l'application du coefficient d'occupation des sols (COS), les effets de la réforme intervenue le 1er mars 2012 peuvent être pris en considération par le biais d'une évolution du document d'urbanisme. La fixation d'un COS ne figure pas en effet parmi les règles devant obligatoirement figurer dans les documents d'urbanisme. Il est donc possible de supprimer le COS applicable dans la zone où sont situés les bâtiments agricoles. Cette suppression peut être circonscrite aux constructions destinées à l'exploitation agricole.
