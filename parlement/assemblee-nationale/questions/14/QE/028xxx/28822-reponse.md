@@ -1,0 +1,9 @@
+# Réponse à la question n° 28822
+
+- Question : [28822](28822.md) — Question n° 28822 — vacances; réglementation
+
+## Réponse
+
+*JO du 2013-11-12*
+
+Les conditions d'organisation d'une élection partielle dans les communes de 3 500 habitants et plus sont fixées à l'article L. 270 du code électoral. La loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires et modifiant le code électoral a abaissé ce seuil à 1 000 habitants à partir du prochain renouvellement général des conseils municipaux en mars 2014. Aux termes de l'article L. 270 susvisé, il n'est prévu l'organisation d'une élection partielle que dans deux cas, d'une part lorsqu'il y a lieu de procéder à l'élection du maire et que le conseil municipal est incomplet, d'autre part lorsque le conseil municipal a perdu le tiers de ses membres et qu'il ne peut plus être fait appel au suivant de liste. Dans l'année qui précède le renouvellement général des conseils municipaux, plus de la moitié des sièges doivent être vacants pour qu'une élection partielle soit organisée dans ces communes. En cas d'élection partielle organisée sur l'un de ces fondements, le renouvellement du conseil municipal est nécessairement intégral. En dehors des cas expressément visés à l'article L. 270, rien n'impose d'organiser une élection partielle. La possibilité offerte aux préfets d'organiser une élection partielle alors même qu'elle n'aurait aucun caractère obligatoire reste très exceptionnelle, limitée en tout état de cause aux seules élections partielles complémentaires dans les communes de moins de 3 500 habitants. Cette faculté n'est pas envisageable en cas de renouvellement intégral d'un conseil municipal dans la mesure où elle conduirait à remettre en cause, sans fondement législatif, des mandats régulièrement acquis.
