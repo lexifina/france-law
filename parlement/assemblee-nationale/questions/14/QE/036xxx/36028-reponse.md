@@ -1,0 +1,9 @@
+# Réponse à la question n° 36028
+
+- Question : [36028](36028.md) — Question n° 36028 — plan de modernisation des bâtiments d'élevage; aides de l'État
+
+## Réponse
+
+*JO du 2013-11-12*
+
+Le plan de modernisation des bâtiments d'élevage (PMBE) est une aide aux investissements relevant du programme de développement rural hexagonal 2007-2013. Il repose sur un cadre national à partir duquel le préfet de région définit et fixe les priorités locales d'intervention. Le préfet s'appuie sur la stratégie régionale en faveur de l'élevage pour définir les objectifs du dispositif au regard des besoins structurels et territoriaux qui ont été identifiés. L'arrêté interministériel relatif au PMBE du 18 août 2009 prévoit, en application de la réglementation communautaire et du décret 99-1060 du 16 décembre 1999 relatif aux subventions de l'État pour des projets d'investissement, le dépôt par le demandeur d'un dossier de demande d'aide, accompagné notamment des devis des travaux envisagés. Pour des raisons budgétaires et également afin de mieux répondre à la demande des instances communautaires de vérifier que l'aide ne constitue pas un effet d'aubaine, l'une de ses conditions d'attribution est de ne pas avoir commencé les investissements avant la décision d'octroi de l'aide. Or, le décret précité indique que le commencement d'exécution est réputé constitué par le premier acte juridique passé pour la réalisation du projet, ce qui est le cas d'un devis signé. Toutefois, si la demande d'aide doit être accompagnée des devis, il n'est pas requis que ceux-ci soient signés. Cette disposition n'entrave donc pas l'évaluation par l'éleveur du coût des travaux qu'il envisage de réaliser. Par ailleurs, l'arrêté du préfet de région lui permet de connaître les modalités et taux d'intervention de l'aide de l'État qui peut lui être octroyée au titre du PMBE.
