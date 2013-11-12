@@ -1,0 +1,9 @@
+# Réponse à la question n° 33852
+
+- Question : [33852](33852.md) — Question n° 33852 — revendications
+
+## Réponse
+
+*JO du 2013-11-12*
+
+Depuis la réforme du permis de construire et des autorisations d'urbanisme entrée en vigueur le 1er octobre 2007, les pièces exigées lors du dépôt d'un permis de construire figurent de manière exhaustive dans le bordereau de pièces à joindre à la demande. En outre, une demande de pièces manquantes ne peut être opposée que dans le premier mois suivant le dépôt du dossier en mairie. En cas de nécessité de consulter, pour avis, les services déconcentrés chargés de l'agriculture, sur le caractère de nécessité agricole de la construction envisagée, le pétitionnaire est averti dans le mois qui suit le dépôt de son dossier que le délai d'instruction du permis de construire est prorogé de deux mois, conformément à l'article R. 423-25 du code de l'urbanisme. La consultation des services déconcentrés chargés de l'agriculture est effectuée pour des constructions nécessaires à l'exploitation agricole qui peuvent être autorisées, à titre dérogatoire, dans les parties non encore urbanisées des communes soumises au règlement national d'urbanisme, dans les secteurs non constructibles des communes dotées d'une carte communale ou dans les zones agricoles, naturelles ou forestières des communes couvertes par un plan local d'urbanisme. Toutefois, afin de faciliter l'instruction de son dossier et éviter un refus de permis de construire, le pétitionnaire peut fournir, le cas échéant, tous les renseignements supplémentaires concernant le lien de nécessité de la construction par rapport à la vocation agricole de la zone qui peuvent justifier sa demande. Le texte actuel garantit le nombre de pièces exigées, ainsi que les délais d'instruction. Aucune modification de la législation n'est envisagée.
