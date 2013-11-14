@@ -130,6 +130,20 @@ MEMBRES
 
 |
 
+Ensemble des formations de gendarmerie mobile placées sous l'autorité du commandant de chaque région de gendarmerie située au siège de la zone de défense et de sécurité.
+
+|
+
+Le commandant en second de la région de gendarmerie située au siège de la zone de défense et de sécurité. |
+
+L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
+
+|
+
+Les commandants de groupement ou les commandants de groupement par suppléance.
+
+|
+
 Garde républicaine.
 
 |
@@ -144,7 +158,7 @@ L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-ma
 
 Les commandants de régiment ou les commandants de régiment par suppléance.
 
-L'administrateur-régisseur des formations musicales de la garde républicaine.
+L'administrateur, régisseur des formations musicales de la garde républicaine.
 
 |
 
