@@ -10,7 +10,7 @@ aérien (1)
 
 |
 
-PAYS D'ORIGINE
+PAYS d'origine
 
 |
 
@@ -28,7 +28,7 @@ interdits
 
 |
 
-TYPE APPAREIL
+TYPE D'APPAREIL
 
 |
 
@@ -96,7 +96,7 @@ KZR
 
 |
 
-Tout aéronef, sauf : les aéronefs appartenant à la flotte de B767 tel que mentionné sur le CTA, les aéronefs appartenant à la flotte de B757, les aéronefs appartenant à la flotte de A319/A320/A321 tel que mentionné sur le CTA, les aéronefs appartenant à la flotte de Fokker 50 tel que mentionné sur le CTA
+Tout aéronef, sauf les aéronefs appartenant à la flotte de B767 tel que mentionné sur le CTA, les aéronefs appartenant à la flotte de B757, les aéronefs appartenant à la flotte de A319/A320/A321 tel que mentionné sur le CTA, les aéronefs appartenant à la flotte de Fokker 50 tel que mentionné sur le CTA
 
 |
 
@@ -170,7 +170,7 @@ KMD
 
 |
 
-Tout aéronef, sauf celui immatriculé D 6-CAM (851336)
+Tout aéronef, sauf celui immatriculé D6-CAM (851336)
 
 |
 
@@ -246,7 +246,7 @@ Tout aéronef sauf ceux immatriculés TR-AAG et ZS-AFG
 
 |
 
-Tout aéronef sauf 1 aéronef de type Challenger CL 601 et 1 aéronef de type HS-125-800
+Tout aéronef sauf 1 aéronef de type Challenger CL601 et 1 aéronef de type HS-125-800
 
 |
 
@@ -274,14 +274,14 @@ Tout aéronef sauf 5 aéronefs de type Boeing B777 et 4 aéronefs de type Boeing
 
 |
 
-(1) Les transporteurs aériens figurant à l'annexe B pourraient être autorisés à exercer des droits de trafic en affrétant un aéronef avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, à condition que les normes de sécurité applicables soient respectées.
+(1) Les transporteurs aériens figurant à l'annexe B pourraient être autorisés à exercer des droits de trafic en affrétant un appareil avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, à condition que les normes de sécurité applicables soient respectées.
 
-(2) Afrijet n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
+(2) Afrijet n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour son niveau actuel d'activités dans l'Union européenne.
 
-(3) Pour ses activités actuelles dans l'Union européenne, Air Astana n'est autorisé à utiliser que les types d'aéronefs spécifiquement mentionnés ci-dessus, pour autant primo qu'ils soient immatriculés à Aruba et secundo que toutes les modifications apportées au CTA soient soumises en temps utile à la Commission et à Eurocontrol.
+(3) Pour son niveau actuel d'activités dans l'Union européenne, Air Astana n'est autorisé à utiliser que les types d'appareils spécifiquement mentionnés ci-dessus, pour autant 1) qu'ils soient immatriculés à Aruba et 2) que toutes les modifications apportées au CTA soient soumises en temps utile à la Commission et à Eurocontrol.
 
-(4) Gabon Airlines n'est autorisé à utiliser que les aéronefs spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
+(4) Gabon Airlines n'est autorisé à utiliser que les appareils spécifiquement mentionnés pour ses activités actuelles dans l'Union européenne.
 
-(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne en utilisant les aéronefs spécifiques, dans les conditions fixées au considérant (69) du règlement (UE) n° 590/2010, JOUE n° L 170 du 6 juillet 2010, p. 15.
+(5) Iran Air est autorisé à exercer ses activités à destination de l'Union européenne, en utilisant les appareils spécifiques, dans les conditions fixées au considérant 69 du règlement (UE) n° 590/2010, JOUE n° L 170 du 6 juillet 2010, p. 15.
 
 |
