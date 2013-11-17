@@ -6,11 +6,7 @@ II.-La taxe est assise sur le montant, hors taxe sur la valeur ajoutée, des som
 
 III.-L'exigibilité de la taxe est constituée par le versement des sommes mentionnées au II.
 
-IV.-1. La taxe est calculée en appliquant un taux de 3 % à la fraction du montant des versements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service de télévision, qui excède 11 millions d'euros.
-
-Toutefois, à compter de 2010 et jusqu'à la mise en œuvre de la disposition mentionnée à la deuxième phrase du premier alinéa du VI de l'article 53 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, ce taux est fixé à 0,5 %.
-
-Pour les services de télévision autres que ceux diffusés par voie hertzienne terrestre en mode analogique, le taux est fixé à 0,25 % en 2010 et en 2011.
+IV.-1. La taxe est calculée en appliquant un taux de 0,5 % à la fraction du montant des versements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service de télévision, qui excède 11 millions d'euros.
 
 2. (alinéa abrogé)
 
@@ -19,7 +15,3 @@ Pour les services de télévision autres que ceux diffusés par voie hertzienne 
 V.-Les redevables procèdent à la liquidation de la taxe due au titre de l'année civile précédente lors du dépôt de la déclaration mentionnée au 1 de l'article 287 du mois de mars ou du premier trimestre de l'année civile.
 
 VI.-La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
-
-NOTA :
-
-Modifications effectuées en conséquence des articles 9 [2°] et 11 [4°] de l'ordonnance n° 2009-901 du 24 juillet 2009.

@@ -4,11 +4,9 @@ EMPLOI OU FONCTION
 
 |
 
-COMMISSION PERMANENTE
+COMMISSION PERMANENTE COMPÉTENTE AU SEIN
 
-COMPÉTENTE AU SEIN
-
-DE CHAQUE ASSEMBLÉE
+de chaque assemblée
 
 |
 
@@ -244,14 +242,6 @@ Commission compétente en matière de finances publiques
 
 |
 
-Président de France Télévisions
-
-|
-
-Commission compétente en matière d'affaires culturelles
-
-|
-
 Président du Haut conseil des biotechnologies
 
 |
@@ -272,7 +262,15 @@ Président de la Haute Autorité pour la transparence de la vie publique
 
 |
 
-Commission permanente compétente en matière de lois constitutionnelles |
+Commission permanente compétente en matière de lois constitutionnelles
+
+|
+
+Président de l'Institut national de l'audiovisuel
+
+|
+
+Commission compétente en matière d'activités culturelles |
 
 Président de l'Institut national de la recherche agronomique
 
@@ -330,7 +328,9 @@ Commission compétente en matière d'agriculture
 
 |
 
-Directeur général de la société anonyme BPI-Groupe |
+Directeur général de la société anonyme BPI-Groupe
+
+|
 
 Commission compétente en matière d'activités financières
 
@@ -341,14 +341,6 @@ Président du conseil d'administration de La Poste
 |
 
 Commission compétente en matière de postes et communications
-
-|
-
-Président de Radio France
-
-|
-
-Commission compétente en matière d'affaires culturelles
 
 |
 
@@ -365,14 +357,6 @@ Président du conseil d'administration de Réseau ferré de France
 |
 
 Commission compétente en matière de transports
-
-|
-
-Président de la société en charge de l'audiovisuel extérieur de la France
-
-|
-
-Commission compétente en matière d'affaires culturelles
 
 |
 
@@ -394,6 +378,4 @@ Commission compétente en matière de transports
 
 NOTA :
 
-Les mentions de la Commission nationale de déontologie de la sécurité, du Défenseur des enfants, de la Haute Autorité de lutte contre les discriminations et pour l'égalité et du Médiateur de la République figurant en annexe à la loi n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution sont supprimées au 31 mars 2011 conformément au I de l'article 44 de la loi organique n° 2011-333 du 29 mars 2011.
-
-Toutefois les mots " de la Commission nationale de déontologie de la sécurité, du Défenseur des enfants, de la Haute Autorité de lutte contre les discriminations et pour l'égalité et " sont supprimés conformément à l'article 20 de la loi n° 2011-334 du 29 mars 2011 à la date prévue au premier alinéa du II dudit article (1er mai 2011).
+Les modifications apportées à cette annexe par la loi n° 2013-1028 du 15 novembre 2013 relative à l’indépendance de l’audiovisuel public sont inapplicables du fait de la décision n° 2013-677 DC du 14 novembre 2013 par laquelle le Conseil constitutionnel a déclaré contraire à la Constitution la disposition de la loi organique relative à l'indépendance de l'audiovisuel public qui ajoutait la présidence de l'Institut national de l'audiovisuel à la liste des emplois pour lesquels le pouvoir de nomination par le Président de la République est soumis à la procédure prévue au cinquième alinéa de l'article 13 de la Constitution.
