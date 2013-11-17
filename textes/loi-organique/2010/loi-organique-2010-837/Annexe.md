@@ -242,14 +242,6 @@ Président-directeur général
 
 |
 
-France Télévisions
-
-|
-
-Président
-
-|
-
 Haut conseil des biotechnologies
 
 |
@@ -346,14 +338,6 @@ Président du conseil d'administration
 
 |
 
-Radio France
-
-|
-
-Président
-
-|
-
 Régie autonome des transports parisiens
 
 |
@@ -367,14 +351,6 @@ Réseau ferré de France
 |
 
 Président du conseil d'administration
-
-|
-
-Société en charge de l'audiovisuel extérieur de la France
-
-|
-
-Président
 
 |
 
