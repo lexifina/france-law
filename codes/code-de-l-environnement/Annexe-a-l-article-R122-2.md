@@ -16,11 +16,11 @@ PROJETS
 
 soumis à la procédure
 
-de "cas par cas"
+de " cas par cas "
 
 en application de l'annexe III
 
-de la directive 85/337/CE
+de la directive 85/337/ CE
 
 |
 
@@ -502,7 +502,7 @@ b) Stations d'épuration situées dans la bande littorale de cent mètres prévu
 
 |
 
-a) Dragage et/ou rejet y afférent en milieu marin soumis à autorisation au titre de l'article R. 214-1 du code de l'environnement.
+a) Dragage et/ ou rejet y afférent en milieu marin soumis à autorisation au titre de l'article R. 214-1 du code de l'environnement.
 
 |
 
@@ -1008,13 +1008,13 @@ a) Défrichements portant sur une superficie totale, même fragmentée, égale o
 
 |
 
-a) Défrichements soumis à autorisation au titre de l'article L. 311-2 du code forestier et portant sur une superficie totale, même fragmentée, inférieure à 25 hectares.
+a) Défrichements soumis à autorisation au titre de l'article L. 341-3 du code forestieret portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare et inférieure à 25 hectares.
 
 |
 
 |
 
-b) Défrichements ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux en application de l'article R. 363-3 du code forestier.
+b) Dérogations à l'interdiction générale de défrichement mentionnée à l'article L. 374-1 du code forestier ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux.
 
 |
 
