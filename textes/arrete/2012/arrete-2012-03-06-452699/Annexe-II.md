@@ -18,7 +18,7 @@ Ain
 
 |
 
-Prévessin (SPAF Prévessin), Bellegarde (SPAF Bellegarde)
+Prévessin (SPAF Prévessin)
 
 |
 
@@ -138,7 +138,7 @@ Nord
 
 |
 
-Lille (SPAF Lille), Dunkerque (SPAF Dunkerque port), Valenciennes (SPAF Valenciennes)
+Lille (SPAF Lille), Dunkerque (SPAF Dunkerque port)
 
 |
 
