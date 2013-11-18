@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — POURVOI EN CASSATION PRES LE CONSEIL D'ÉTAT A L'ENCONTRE DE LA DÉCISION n°13MA01240 DE LA COUR ADMINISTRATIVE D'APPEL DE MARSEILLE DU17 OCTOBRE 2013 - AUTORISATION DONNÉE A MONSIEUR LE PREMIER ADJOINT D'ESTER EN JUSTICE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2013-11-18
+- Séance : Conseil Municipal 1CA
+- Objet : POURVOI EN CASSATION PRES LE CONSEIL D'ÉTAT A L'ENCONTRE DE LA DÉCISION n°13MA01240 DE LA COUR ADMINISTRATIVE D'APPEL DE MARSEILLE DU17 OCTOBRE 2013 - AUTORISATION DONNÉE A MONSIEUR LE PREMIER ADJOINT D'ESTER EN JUSTICE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-5274-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
