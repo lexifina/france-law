@@ -138,6 +138,8 @@ B. ― Carrière
 
 16° Cessation de fonctions.
 
+17° Opérations extérieures.
+
 C. ― Sanctions
 
 1° Sanctions disciplinaires.
