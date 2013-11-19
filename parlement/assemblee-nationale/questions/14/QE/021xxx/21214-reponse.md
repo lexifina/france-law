@@ -1,0 +1,9 @@
+# Réponse à la question n° 21214
+
+- Question : [21214](21214.md) — Question n° 21214 — maisons départementales des personnes handicapées; fonctionnement
+
+## Réponse
+
+*JO du 2013-11-19*
+
+Au vu des difficultés que peut parfois susciter l'actuel statut des Maisons Départementales des Personnes Handicapées (MDPH), groupements d'intérêt public (GIP) associant l'Etat, les conseil généraux et les associations de personnes handicapées, il a été envisagé dans le cadre de la préparation de l'acte III de la décentralisation, d'en confier la seule responsabilité aux conseils généraux. Les associations représentatives des personnes handicapées ont fait part de leurs craintes de voir la participation des usagers remise en cause par ce changement de statut, malgré le maintien en l'état des commissions des droits et de l'autonomie des personnes handicapées (CDAPH), lesquelles prennent les décisions relatives aux droits et au parcours des personnes. Plusieurs mesures permettaient par ailleurs de garantir les fondements de la loi du 11 février 2005, telles que la revitalisation des conseils départementaux consultatifs des personnes handicapées (CDCPH) ou la création d'un comité des usagers au sein de chaque MDPH. Les fortes réserves exprimées par les associations de personnes handicapées ainsi que les difficultés juridiques et financières soulevées par la décentralisation des MDPH ont conduit le gouvernement à conserver pour ces dernières le statut de GIP. Des réflexions sur l'amélioration du mode de fonctionnement des MDPH ont été initiées dans le cadre de la préparation de la loi d'adaptation de la société au vieillissement, en vue notamment d'atteindre une plus grande équité territoriale, de développer un système d'information interconnecté et de mettre à la disposition des MDPH des outils d'aide à la décision.
