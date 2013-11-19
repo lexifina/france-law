@@ -1,0 +1,9 @@
+# Réponse à la question n° 37651
+
+- Question : [37651](37651.md) — Question n° 37651 — Annecy; étude de capacité
+
+## Réponse
+
+*JO du 2013-11-19*
+
+En application du règlement (CE) n° 95/93 du Conseil et par arrêté du 30 juillet 2013, l'aéroport d'Annecy-Meythet a été désigné comme aéroport à facilitation d'horaires pendant les week-ends allant de mi-décembre à mi-avril, à compter de la saison aéronautique d'hiver 2013/2014. En tant qu'aéroport à facilitation d'horaires, Annecy-Meythet bénéficie dorénavant d'un système d'ajustements volontaires des horaires de la part des transporteurs aériens qui le desservent. Le règlement (CE) n° 95/93 ne prévoit pas, pour le cadre coopératif et non contraignant de la facilitation d'horaires, l'obligation d'une étude de la capacité préalable. L'article 3 du règlement européen susvisé ne prévoit celle-ci que dans les cas d'aéroports coordonnés pour lesquels tout atterrissage ou décollage nécessite l'obtention préalable du créneau horaire correspondant. L'État peut néanmoins décider d'une étude approfondie de la capacité dans un aéroport à facilitation d'horaires, notamment en cas de demande du gestionnaire d'aéroport, des transporteurs aériens desservant l'aéroport concerné ou de la Commission européenne, lorsque apparaissent des difficultés pour réaliser les vols programmés par les différents transporteurs. Dans le cas précis de l'aéroport d'Annecy-Meythet, une telle demande n'a pas été formalisée auprès de l'État et, en tout état de cause, il est préférable d'attendre la fin de la saison aéronautique d'hiver 2013/14 au minimum pour établir un bilan de la facilitation d'horaires sur cet aéroport. Ce bilan offrira une base solide pour mener une étude approfondie de la capacité de l'aéroport et permettra également d'apprécier une éventuelle évolution du statut de l'aéroport au regard du règlement (CE) n° 95/93.
