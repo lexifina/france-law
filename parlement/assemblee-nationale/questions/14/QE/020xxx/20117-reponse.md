@@ -1,0 +1,9 @@
+# Réponse à la question n° 20117
+
+- Question : [20117](20117.md) — Question n° 20117 — centrales nucléaires; sécurité; doctrine nationale
+
+## Réponse
+
+*JO du 2013-11-19*
+
+En novembre 2012, l'ASN a transmis au Gouvernement les éléments constituant la doctrine nationale de gestion de la phase post-accidentelle d'un accident nucléaire, notamment de la phase de sortie de la situation d'urgence, mais aussi des phases à court et moyen terme. Ces éléments sont issus de la réflexion du comité directeur pour établir une doctrine de gestion de la phase post-accidentelle d'un accident nucléaire ou d'une situation d'urgence radiologique (CODIRPA), associant de nombreuses parties prenantes. Les résultats de ces travaux, et plus particulièrement les éléments liés à la sortie de phase d'urgence, seront intégrés pour partie dans la planification du dispositif ORSEC et plus particulièrement dans les plans particuliers d'intervention (PPI) afin de permettre, en cas d'accident, une bonne anticipation des mesures à prendre pour protéger la population des dépôts dus à un rejet radioactif. Le ministre de l'écologie, du développement durable et de l'énergie considère que ces éléments de doctrine marquent une première étape qui doit être approfondie et poursuivie. La poursuite de la réflexion doit continuer à bénéficier du maintien d'une structure pluraliste qui accompagnerait, entre autre, la déclinaison des éléments de doctrine proposés par le CODIRPA au niveau local, le transfert et le retour auprès des élus, des associations, des acteurs économiques, des professionnels de santé et des citoyens. Il est d'ores et déjà envisagé que ces nouveaux travaux soient traités autour d'une assemblée plénière en y associant de nouvelles parties prenantes, notamment les élus et les associations. Un groupe de travail, co-piloté par des associations, devrait être créé sur le sujet du transfert des éléments de doctrines au niveau des territoires.
