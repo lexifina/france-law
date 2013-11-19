@@ -1,0 +1,9 @@
+# Réponse à la question n° 39597
+
+- Question : [39597](39597.md) — Question n° 39597 — situation politique
+
+## Réponse
+
+*JO du 2013-11-19*
+
+Depuis la prise du pouvoir par la coalition rebelle Séléka le 24 mars, la situation en République centrafricaine est très dégradée, particulièrement sur les plans sécuritaire et humanitaire. Dès le début de la crise, la France a condamné le recours à la force et a appelé les combattants à cesser leurs actions et à se conformer aux engagements pris à Libreville le 11 janvier 2013 en s'abstenant de toute violence, notamment envers les populations civiles. Elle a appelé au respect des droits de l'Homme et averti les auteurs de violations qu'ils auraient à rendre des comptes. Dans ce contexte, la France a soumis au vote du Conseil de Sécurité la résolution 2121, adoptée le 10 octobre 2013 à l'unanimité. Cette résolution est une première étape dans le soutien de la communauté internationale à l'action de l'Union africaine et des pays de la région face à la crise qui déchire le pays et menace la stabilité régionale. Elle appuie le processus politique, renforce la mission civile des Nations unies sur place et demande au Secrétaire général un rapport sur des options de soutien international à la MISCA, force de l'Union africaine reposant sur un socle de contingents provenant d'Afrique centrale. Dès réception du rapport du Secrétaire général, prévue autour du 10 novembre, la France entreprendra la négociation d'une deuxième résolution. Placée sous le chapitre VII de la Charte des Nations unies, celle-ci devra donner un mandat robuste à la MISCA et préciser les conditions de soutien international à la force afin d'ouvrir la perspective d'une opération de maintien de la paix. Elle donnera également un mandat aux forces françaises, en appui à la MISCA.
