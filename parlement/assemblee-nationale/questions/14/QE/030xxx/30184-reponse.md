@@ -1,0 +1,9 @@
+# Réponse à la question n° 30184
+
+- Question : [30184](30184.md) — Question n° 30184 — conseillers; candidatures; réglementation
+
+## Réponse
+
+*JO du 2013-11-19*
+
+L'article L. 255-4 du code électoral, issu de l'article 25 de la loi n° 2013-403 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral, prévoit qu'une déclaration de candidature est obligatoire pour les élections municipales de toutes les communes, étendant ainsi une mesure qui s'imposait déjà dans les communes de 3 500 habitants et plus. Ce principe, introduit en première lecture par l'Assemblée nationale, a fait consensus auprès du Parlement puisqu'il a été adopté en deuxième lecture par le Sénat et conservé dans les lectures suivantes par l'Assemblée nationale. Un tel dispositif évitera désormais à des personnes d'être élues contre leur gré et permettra aux électeurs de connaître précisément les citoyens qui sont prêts à consacrer une partie de leur temps à la gestion des affaires municipales. Ce changement important pour les candidats des communes de moins de 1 000 habitants doit être accompagné par des actions de communication fortes et adaptées afin de les informer de cette nouvelle obligation et d'assurer que celle-ci ne fera pas obstacle à leur engagement. Le ministère de l'intérieur, conscient de cette nécessité, prépare actuellement, en lien avec le Service d'information du Gouvernement, les modalités d'une communication spécifique auprès de ces candidats. Par ailleurs, le Mémento à l'usage des candidats dans les communes de moins de 1 000 habitants, qui sera diffusé avant la fin de l'année 2013, mettra également l'accent sur cette obligation en explicitant dans le détail les modalités de la déclaration de candidature.
