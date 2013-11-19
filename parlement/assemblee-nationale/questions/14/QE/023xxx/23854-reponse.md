@@ -1,0 +1,9 @@
+# Réponse à la question n° 23854
+
+- Question : [23854](23854.md) — Question n° 23854 — étalement urbain; réglementation
+
+## Réponse
+
+*JO du 2013-11-19*
+
+La loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement a effectivement modifié les dispositions relatives à la constructibilité limitée tout en mettant en place un dispositif transitoire permettant aux communes ayant engagé une procédure d'élaboration ou de révision de leur plan local d'urbanisme (PLU) et ayant arrêté leur projet de plan avant les six mois suivant la publication de la loi précitée, de conserver le cadre juridique en vigueur antérieurement avant cette loi. L'application des dispositions antérieures ne vaut toutefois que pour les règles de procédure en cours, le périmètre d'approbation du document et le contenu du PLU. Une fois le PLU approuvé ou révisé selon les dispositions antérieures, il est soumis aux dispositions de la loi du 12 juillet 2010, hors dispositions relatives à son périmètre et à son contenu. L'article L. 122-2 du code de l'urbanisme, dont la rédaction a été modifiée en dernier lieu par l'ordonnance n° 2012-787 du 31 mai 2012, ne correspond pas à l'une de ces exceptions. Il n'est pas une disposition relative au périmètre ou au contenu du PLU mais à l'urbanisation en l'absence de schéma de cohérence territoriale (SCOT) et doit être appliqué y compris aux communes ayant opté pour le dispositif transitoire mentionné ci-dessus. En l'occurrence, s'agissant du champ d'application de l'article L. 122-2 précité, il convient de considérer que les communes comprises à l'intérieur de la zone bâtie continue des agglomérations de plus de 15 000 habitants sont bien soumises à la règle de constructibilité limitée, étant rappelé que l'objet de l'article précité est d'inciter les collectivités territoriales à se doter d'un SCOT.
