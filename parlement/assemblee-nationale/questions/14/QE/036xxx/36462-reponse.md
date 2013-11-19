@@ -1,0 +1,9 @@
+# Réponse à la question n° 36462
+
+- Question : [36462](36462.md) — Question n° 36462 — pots d'accueil gratuits; réglementation
+
+## Réponse
+
+*JO du 2013-11-19*
+
+L'article L. 3322-9 du code de la santé publique interdit la vente de boissons alcooliques à titre principal contre une somme forfaitaire ou leur offre gratuite et à volonté dans un but commercial. Dans ce dernier cas, l'article L. 3322-9 précise que c'est l'offre dans un but commercial qui est visée, afin d'exclure du champ de l'interdiction tout ce qui pourrait relever de la sphère privée ou familiale. De même, l'organisation de « pots » de travail ou d'une réception par une collectivité locale, par exemple, n'est pas concernée par l'interdiction - ce qui n'exonère toutefois pas l'organisateur du respect des autres dispositions relatives à l'encadrement de l'offre d'alcool. Rien ne s'oppose également à l'offre à titre gratuit et dans un but commercial d'une quantité très limitée d'alcool. Ainsi, un restaurateur peut, s'il le souhaite, offrir à un client un verre d'apéritif ou de digestif, par exemple. De même, un service de voiturage peut mettre à disposition de ses clients une coupe de champagne, mais pas du champagne à volonté. Les « pots » d'accueil organisés par les offices de tourisme dans les stations balnéaires et de montagne lors des périodes de congés répondent à ce dernier cas de figure. Ils consistent à offrir à chaque client un verre unique en guise de bienvenue. Une telle offre n'entre donc pas dans le champ d'interdiction de l'article L. 3322-9 du code de la santé publique. Il en irait différemment si, sous couvert d'un « pot » d'accueil, les clients se voyaient proposer de l'alcool à volonté, auquel cas la sanction encourue serait, aux termes de l'article L. 3351-6-2 du code de la santé publique, une amende de 7 500 € - peine pouvant être portée à 15 000 € d'amende et un an d'emprisonnement en cas de récidive.
