@@ -1,0 +1,9 @@
+# Réponse à la question n° 36758
+
+- Question : [36758](36758.md) — Question n° 36758 — obligation d'affichage; perspectives
+
+## Réponse
+
+*JO du 2013-11-19*
+
+En l'état actuel du droit, en particulier des articles L. 2121-24, L. 2121-25, L. 2122-29, L. 2131-1, L. 3131-1, L. 4141-1, R. 2121-10 et R. 2121-11 du code général des collectivités territoriales, l'affichage et la publication des actes pris par les autorités locales interviennent sous format papier. Les collectivités territoriales peuvent prévoir un affichage numérique, par exemple par l'installation de bornes ou de panneaux électroniques à leur siège, et effectuer une mise en ligne de leurs actes sur leur site internet. Néanmoins, ces modalités ne peuvent remplacer l'affichage ou la publication sous format papier. La proposition de loi n° 1134 relative à la simplification du fonctionnement des collectivités territoriales, actuellement en deuxième lecture à l'Assemblée nationale, prévoit des mesures de dématérialisation de la publication des actes et des recueils administratifs (articles 5 et 6). Toutefois, concernant les actes pris par les autorités locales et transmis au représentant de l'Etat, cette proposition de loi n'envisage pas une substitution intégrale par le format électronique. La dématérialisation est envisagée comme une modalité complémentaire, et non pas alternative, s'agissant des règles de publicité des actes des autorités locales. En effet, bien que, de plus en plus, les administrés soient initiés aux nouvelles technologies de l'information et de la communication, tous ne disposent pas ou ne maîtrisent pas nécessairement les outils leur permettant de consulter ou d'accéder plus facilement à une publication électronique que papier. De plus, certaines collectivités, notamment celles de taille modeste, ne disposent pas des équipements nécessaires à un tel mode de publicité.
