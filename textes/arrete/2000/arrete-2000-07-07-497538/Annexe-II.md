@@ -564,7 +564,7 @@ Innovation, réalisation, aménagement composites :
 
 - 1 B, rue de l'Industrie, 56100 Lorient : depuis 1998.
 
-IRCN, impasse Lafayette, depuis 1997, puis METAL ACTION, 4, impasse Lafayette, 29850 Gouesnou, depuis 2004.
+IRCN impasse Lafayette, depuis 1997 puis METAL ACTION 4, impasse Lafayette, 29850 Gouesnou, de 2004 à 2012.
 
 Ismer SARL :
 
@@ -1151,6 +1151,8 @@ Forges et chantiers de la Méditerranée/ACHDBAN (atelier chantier du Havre Dubi
 - 76600 Le Havre : de 1946 à 1999.
 
 Fouré Lagadec, 76600 Le Havre : depuis 1922 à 1993.
+
+Fouré Lagagec, site de Lillebonne ZI de la Darse, 76170 Lillebonne De 1970 à 1993.
 
 GAD SAD (Glacière d'alimentation dieppoise - Société des ateliers Dechamps)/GAD SA/SO.NO.GAD (Société nouvelle du groupement d'ateliers dieppois), cour de Dakar, et 2 bis, rue d'Ecosse, 76200 Dieppe : depuis 1975
 
