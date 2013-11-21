@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130606703
+
+- Question : [SEQ130606703](seq130606703.md) — Mention du pseudonyme sur les passeports
+
+## Réponse
+
+*Intérieur, JO du 2013-11-21, page 3389*
+
+Aux termes de l'article 1er de la loi du 6 fructidor an II, aucun citoyen ne peut porter de nom ni de prénom(s) autres que ceux exprimés dans son acte de naissance. Le pseudonyme qui ne fait l'objet d'aucune réglementation particulière en France « est un nom de fantaisie librement choisi par une personne pour masquer au public sa personnalité véritable dans l'exercice d'une activité particulière » (Cour de Cassation, Chambre civile 1 du 23 février 1965), notamment dans le domaine artistique. Le pseudonyme peut être porté sur la carte nationale d'identité si sa notoriété est confirmée par un usage constant et ininterrompu et s'il est dénué de toute équivoque. À cet égard, la production d'un acte de notoriété ou d'une attestation de l'organisme professionnel auquel appartient le demandeur n'entraîne aucune obligation pour le préfet de délivrer le titre sollicité. Si l'inscription d'un pseudonyme sur une carte nationale d'identité sécurisée est possible, il n'en est pas de même pour le passeport biométrique. En effet, pour faciliter le passage aux frontières des usagers du transport aérien, les passeports font l'objet d'une normalisation selon des spécifications préconisées par l'Organisation de l'aviation civile internationale (OACI). Afin de mieux lutter contre les fraudes à l'identité, la France a fait le choix de ne porter sur le passeport que les seules mentions considérées comme obligatoires par l'OACI et qui correspondent à l'état civil de son titulaire. Ainsi, les énonciations particulières telles que les titres nobiliaires, les surnoms, les sobriquets et les pseudonymes ne sont plus inscrits, à ce jour, sur le passeport biométrique.
