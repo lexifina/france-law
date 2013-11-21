@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506494
+
+- Question : [SEQ130506494](seq130506494.md) — Déchets à radioactivité naturelle renforcée
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2013-11-21, page 3369*
+
+La réglementation interdit, en principe, l'élimination de déchets radioactifs dans les installations de stockage de déchets dangereux, non dangereux et inertes. L'application de ces dispositions aux déchets dits à radioactivité naturelle renforcée a été précisée par la circulaire du 25 juillet 2006. Ces déchets ne sont qualifiés de radioactifs que s'ils contiennent des substances dont l'activité ou la concentration ne peut être négligée du point de vue de la radioprotection. Les déchets à radioactivité naturelle renforcée sont des déchets produits par la transformation de matières premières contenant naturellement des radionucléides mais utilisées pour d'autres raisons que leurs propriétés radioactives. Les déchets à radioactivité naturelle renforcée peuvent être admis dans une installation de stockage de déchets non dangereux lorsqu'ils respectent les conditions d'acceptation prescrites dans l'arrêté préfectoral de l'installation. Une étude d'acceptabilité doit également examiner les conséquences sur le long terme, pour l'environnement, de l'élimination de ces déchets, et montrer qu'ils peuvent être négligés du point de vue de la radioprotection, tant pour le personnel de l'installation que pour la population avoisinante. Les travaux de révision de l'arrêté ministériel relatif aux installations de stockage de déchets non dangereux se poursuivent. Celui-ci prévoit de clarifier les conditions d'admission des déchets à radioactivité naturelle renforcée en installation de stockage de déchets non dangereux, et d'imposer des contrôles spécifiques supplémentaires aux exploitants des installations qui en reçoivent.
