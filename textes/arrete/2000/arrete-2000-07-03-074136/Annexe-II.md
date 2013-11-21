@@ -10,9 +10,7 @@ Babcock Sacom, 11, rue de Berne, 68110 Illzach : de 1929 à 1996 ;
 
 Isolations Th. debus SA., 9, rue de Picardie, 67116 Reichstett : de 1971 à 1987 ;-3, rue principale, 67300 Schiltigheim : de 1960 à 1987 ;
 
-SNIFI/ EFI, BP 43,68490 Ottmarsheim, de 1973 à 1983 ;
-
-SNIFI/ EFI, ZI Hombourg, 68490 Hombourg, de 1983 à 1994 ;
+SNIFI/ EFI, BP 43,68490 Ottmarsheim, de 1973 à 1983 ; SNIFI/ EFI, ZI Hombourg, 68490 Hombourg, de 1983 à 1994 ;
 
 SNIG/ SITUB, 2, route du Wahlweg, 68310 Wittelsheim : de 1978 à 1996 ;
 
@@ -58,15 +56,11 @@ SNIFI/ EFI, Agence Abidos, 64170 Lacq, de 1968 à 1975 ;
 
 Société d'étude de la propulsion par réaction (SEPR), Les Cinq-Chemins, 33187 Le Haillan Cedex, de 1964 à 1969 ;
 
-Société européenne de produits réfractaires, rue Beausoleil, BP 2,47500 Monsempron, Libos, de 1973 à 1975 ;
+Société générale de produits réfractaires, rue Beausoleil, BP 2,47500 Monsempron, Libos, de 1960 à 1973 ; Société européenne de produits réfractaires, rue Beausoleil, BP 2,47500 Monsempron, Libos, de 1973 à 1975 ;
 
 Société européenne de propulsion par réaction (SEP), Les Cinq-Chemins, 33187 Le Haillan Cedex, de 1964 à 1992 ;
 
-Société générale de produits réfractaires, rue Beausoleil, BP 2,47500 Monsempron, Libos, de 1960 à 1973 ;
-
-SNPE, avenue de Gay-Lussac, 33167 Saint-Médard-en-Jalles, de 1972 à 1992 ;
-
-SNPE/ société CELERG, 33167 Saint-Médard-en-Jalles, de 1993 à 1997.
+SNPE, avenue de Gay-Lussac, 33167 Saint-Médard-en-Jalles, de 1972 à 1992 ; SNPE/ société CELERG, 33167 Saint-Médard-en-Jalles, de 1993 à 1997 ;
 
 Wanner Isofi/ Technis, rond-point de Mourenx, BP 14,64170 Lacq : de 1997 à 1999.
 
@@ -79,6 +73,8 @@ Carborundum France/ SEPR/ SGPR Etablissement d'Ambert, ZI, 63600 Ambert : de 196
 Compagnie des signaux de l'entreprise électrique (CSEE), caserne Dombrowski, 15, avenue Archon-Desperouses, 63200 Riom, de 1950 à 1991, puis CSEE Défense et CS MECATRONIC, caserne Dombrowski, 15, avenue Archon-Desperouses, 63200 Riom, de 1991 à 1994 ;
 
 Compagnie des signaux de l'entreprise électrique (CSEE), rue de l'Ambème, 63200 Riom, de 1977 à 1991, puis CS MECATRONIC, rue de l'Ambème, 63200 Riom, de 1991 à 1997, et CS Défense, rue de l'Ambème, 63200 Riom, de 1994 à 1997 ;
+
+Elecro-Métallurgie d'Auvergne, Usine des Ancizes, BP 1,63770 Les Ancizes : de 1917 à 1926, AUBERT et DUVAL-Aciérie des Ancizes : De 1926 à 1984 ; Aciéries AUBERT et DUVAL : de 1984 à 1986 ; AUBERT et DUVAL-Aciérie des Ancizes : De 1986 à 1992 ;
 
 SA Centre Protection, usine de la Mathurette, 20, rue des dagneaux, BP 183,63203 Riom : de 1955 à 1988 ;
 
@@ -352,9 +348,9 @@ Arjo Wiggins, 88380 Arches, depuis sa création jusqu'en 1992.
 
 Bruno Bettlol, 82, Grand-Rue, 54240 Joeuf : de 1960 à 1965.
 
-Entreprise Bettlol : 79, rue Pasteur, 54310 Homécourt : de 1966 à 1995.
+CDF Chimie/ Atochem, usine de Carling, Saint-Avold, BP 65001,57501 Saint-Avold Cedex : de 1952 à 1980 ;
 
-CDF Chimie/ Atochem, usine de Carling, Saint-Avold, BP 65001,57501 Saint-Avold Cedex : de 1952 à 1980.
+Entreprise Bettlol : 79, rue Pasteur, 54310 Homécourt : de 1966 à 1995 ;
 
 Etablissements Dubois et Cie ; 67, rue Keller, 54004 Nancy Cedex : de 1964 à 1979 ;
 
@@ -408,11 +404,9 @@ Entreprise Vanpeene Albert, rue Rolls, 62231 Sangatte, de 1979 à 1994.
 
 Etablissements G. Meigneux, NRJ Meigneux SA (nouvelles réalisations Jean-Meigneux), 4, rue Gérhard-Hansen, 62200 Boulogne-sur-Mer, de 1958 à 1994 ;
 
-ITN (Isolation thermique du Nord), rue du Magasin-Général, 59140 Dunkerque : de 1960 à 1988.
+Feutres d'amiante, feutres et amiantes du Nord, 59570 Bavay : de 1940 à 1980 ;
 
 Finalens (société industrielle et financière de Lens), usine de Douvrin, route de Lens, Douvrin, 62138 Haisnes : de 1932 à 1975 ;
-
-Feutres d'amiante, feutres et amiantes du Nord, 59570 Bavay : de 1940 à 1980 ;
 
 Fonderie franco-belge, 2, rue Orphée-Variscotte, 59660 Merville : de 1926 à 1995 ;
 
@@ -421,6 +415,8 @@ Forgeval, 29 chemin des alliés, 59300 Valenciennes : jusqu'en 2000 ;
 Fourmaintraux et Delassus : rue de la Belle-Croix, 62240 Desvres, de 1969 à 1981 ;
 
 Fourmaintraux et Delassus : rue Désiré-Copin, 59750 Feignies, de 1969 à 1981 ;
+
+ITN (Isolation thermique du Nord), rue du Magasin-Général, 59140 Dunkerque : de 1960 à 1988.
 
 Khol, 367, avenue de Saint-Exupéry, 62100 Calais : de 1966 à 1991 ;
 
@@ -456,15 +452,15 @@ société 3M France, Route de Sancourt, 59554 Tilloy-lès-Cambrai : de 1975 à 1
 
 Société dunkerquoise de matériaux et enrobés (SDME), avenue de la Gironde, 59640 Petite-Synthe Dunkerque : de 1974 à 1993 ;
 
-Société lilloise de matériaux enrobés (SLME), Port fluvial, 59211 Santes : de 1966 à 1988 ;
+Société lilloise de matériaux enrobés (SLME), Port fluvial, 59211 Santes : de 1966 à 1988.
 
 Basse-Normandie
 
 CEGEDUR puis TREFIMETAUX : 37 et 39, rue Georges-Landry, 14160 Dives-sur-Mer, de 1946 à 1989 ;
 
-Moulinex/ Socam/ Socamec, 2, rue de l'Industrie, 14123 Cormelles-le-Royal, de 1964 à 1988 ;
-
 le Moulin Légume/ Moulinex/ Mecanor, 25, avenue Jean-Mantelet, 61000 Alençon, de 1969 à 1986 ;
+
+Moulinex/ Socam/ Socamec, 2, rue de l'Industrie, 14123 Cormelles-le-Royal, de 1964 à 1988 ;
 
 Moulinex société Marbo, ZI Le Bois Launay, BP 19,61700 Domfront, de 1973 à 1988 ;
 
@@ -524,6 +520,8 @@ Plurisol SA, 1, rue de l'Avenir, 76124 Le Grand-Quevilly : de 1962 à 1999, parc
 
 Realisol, 6, rue du Quesnot, ZA, BP 39,76410 saint-aubin-lès-Elbeuf : de 1990 à 1996 ;
 
+Roclaine, rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : de 1973 à 1981 ;
+
 SA Normande de l'amiante manufacture, 72, rue de Louviers, Saint-Pierre-lès-Elbeuf, 76320 Caudebec-lès-Elbeuf : de 1945 à 1980.
 
 Sitaf, avenue du général-Leclerc, 76530 grand-Couronne : de sa création à 1998 ;
@@ -532,15 +530,7 @@ SITUB, BP 123,76430 Tancarville : de 1960 à 1996 ;
 
 Société Capel/ Cape/ Cape contracts/ Socap, ZI La Métairie, 76170 Lillebonne : de 1965 à 1990 ; BP 15,76330 Notre-Dame-de-Gravenchon : de 1967 à 1994.
 
-Roclaine, rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : de 1973 à 1981 ;
-
-SNIFI/ EFI, 3, rue Marc-Seguin, 76100 Rouen : de 1968 à 1994 ;
-
-SNIFI/ EFI, 17, avenue de Grammont, 76000 Rouen, de 1947 à 1968 ;
-
-SNIFI/ EFI, chemin de la Darse, BP 32,76330 Notre-Dame-de-Gravenchon, de 1969 à 1994 ;
-
-SNIFI/ EFI, ZI, BP 5042,76071 Le Havre, de 1973 à 1994 ;
+SNIFI/ EFI, 17, avenue de Grammont, 76000 Rouen, de 1947 à 1968 ; SNIFI/ EFI, 3, rue Marc-Seguin, 76100 Rouen : de 1968 à 1994 ; SNIFI/ EFI, chemin de la Darse, BP 32,76330 Notre-Dame-de-Gravenchon, de 1969 à 1994 ; SNIFI/ EFI, ZI, BP 5042,76071 Le Havre, de 1973 à 1994 ;
 
 SA AKIS, ZI, 76220 Gournay-en-Bray : de 1977 à 1983 ;
 
@@ -626,7 +616,7 @@ Etablissements DBA/ Bendix/ Honeywelle/ Allied Signal, centre de distribution d'
 
 Etablissements DBA/ Bendix/ Honeywelle/ Allied Signal, Tille, 60000 Beauvais : de 1981 à 1987 ;
 
-Frendo/ Fren J./ Fren Brex SA/ Roulunds Codan, Z. I. d'Angean, 60240 Chaumont-en-Vexin : de 1975 à 1997.
+Frendo/ Fren J./ Fren Brex SA/ Roulunds Codan, Z. I. d'Angean, 60240 Chaumont-en-Vexin : de 1975 à 1997 ;
 
 Hazemeyer, 285, rue de Guise, 02100 Saint-Quentin : de 1948 à 1981 ;
 
@@ -672,9 +662,9 @@ Etablissements Doizon, 79290 Bouille-Loretz : de 1944 à 1990 ;
 
 Fast puis Alta, 90 rue des Lacs, BP 14,79290 Argenton-l'Eglise : de 1990 à 1997 ;
 
-Poujoulat SA, BP 01, Saint-Symphorien, 79270 Frontenay-Rohan-Rohan, de 1963 à 1995 ;
-
 Guillemin puis Idéal Guillemin, 90 rue des Lacs, BP 14,79290 Argenton-l'Eglise : de 1947 à 1990 ;
+
+Poujoulat SA, BP 01, Saint-Symphorien, 79270 Frontenay-Rohan-Rohan, de 1963 à 1995 ;
 
 Société Cogem/ SA Eno/ SN Eno, 88, rue de Bellune, 79025 Niort Cedex 9 : de 1967 à 1982 ;
 
