@@ -730,11 +730,11 @@ dans une flotte de transport de personnes
 
 1. Secteur d'application :
 
-Transport collectif de personnes (autobus et/ou autocars) dont la partie pneumatique est gérée de façon externalisée et globale (solution prix au kilomètre ou prix par carte grise).
+Transport collectif de personnes (autobus et/ ou autocars) dont la partie pneumatique est gérée de façon externalisée et globale (solution prix au kilomètre ou prix par carte grise).
 
 2. Dénomination :
 
-Gestion externalisée et globale du poste pneumatique sur une flotte d'autobus et/ou autocars consistant en quatre opérations cumulatives : réglage des géométries, contrôle des pressions, recreusage et suivi des usures.
+Gestion externalisée et globale du poste pneumatique sur une flotte d'autobus et/ ou autocars consistant en quatre opérations cumulatives : réglage des géométries, contrôle des pressions, recreusage et suivi des usures.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -742,13 +742,13 @@ Dans le cas d'une gestion externalisée du poste pneumatique, le demandeur fourn
 
 - le contrat ou l'avenant au contrat commercial entre le prestataire et le gestionnaire de la flotte de véhicules, dans lequel le fournisseur de pneumatiques s'engage à ce qu'au minimum :
 
-1. 65 % des pneus quittant l'entreprise pour rechapage ou valorisation soient recreusés ;
+1.65 % des pneus quittant l'entreprise pour rechapage ou valorisation soient recreusés.
 
-2. les pneus des véhicules soient vérifiés en pression trois fois par an au minimum (sur vérification ou remplacement du pneu) ;
+2. Les pneus des véhicules soient vérifiés en pression trois fois par an au minimum (sur vérification ou remplacement du pneu).
 
-3. 70 % des pneus neufs introduits dans la flotte (hors dommages accidentels) soient acceptés au rechapage ;
+3.70 % des pneus neufs introduits dans la flotte (hors dommages accidentels) soient acceptés au rechapage.
 
-4. l'ensemble des véhicules sous contrat subit au moins une fois par an une opération (permutation et/ou retournement sur jante) ;
+4. L'ensemble des véhicules sous contrat subit au moins une fois par an une opération (permutation et/ ou retournement sur jante) ;
 
 - un document justifiant du nombre et du type de véhicules en contrat, à part ou pouvant être inclus dans le contrat commercial.
 
@@ -762,13 +762,13 @@ CATÉGORIE |
 
 MONTANT
 
-en kWh cumac/ensemble |
+(en kWh cumac/ autobus) |
 
 |
 
-NOMBRE D'ENSEMBLES
+NOMBRE D'AUTOBUS
 
-articulés en gestion externalisée |
+en gestion externalisée |
 
 Autobus |
 
@@ -786,11 +786,11 @@ CATÉGORIE |
 
 MONTANT
 
-en kWh cumac/porteur |
+(en kWh cumac/ autocar) |
 
 |
 
-NOMBRE DE PORTEURS
+NOMBRE D'AUTOCARS
 
 en gestion externalisée |
 
@@ -799,6 +799,204 @@ Autocars |
 1 035
 
 |
+
+x |
+
+N
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-SE-10
+
+Gestion optimisée du poste pneumatique
+
+dans une flotte de poids lourds
+
+1. Secteur d'application :
+
+Transport routier de marchandises (TRM) professionnel dont la partiepneumatique est gérée de façon optimisée et globale (prix par carte grise ou forfait mensuel).
+
+2. Dénomination :
+
+Gestion optimisée et globale du poste pneumatique sur une flotte de véhicules poids lourds (ensembles articulés et porteurs de plus de 7,5 tonnes jusqu'à 44 tonnes) consistant en quatre opérations cumulatives : réglage des géométries, contrôle des pressions, recreusage et suivi des usures.
+
+3. Conditions pour la délivrance de certificats :
+
+Dans le cas d'une gestion optimisée du poste pneumatique, le demandeur fournit :
+
+- le contrat tripartite ou avenant au contrat commercial entre le manufacturier, le prestataire et le transporteur, dans lequel le prestataire et le transporteur s'engagent à ce qu'au minimum :
+
+- 50 % des pneus quittant l'entreprise pour rechapage ou valorisation soient recreusés ;
+
+- les véhicules soient vérifiés en pression 3 fois par an au minimum (sur vérification ou remplacement du pneu) ;
+
+- l'ensemble des véhicules sous contrat subissent au moins une opération (permutation et/ ou retournement sur jante) ;
+
+- le document justifiant du nombre de véhicules par type (cartes grises) en contrat, à part ou pouvant être inclus dans le contrat commercial.
+
+Cette opération n'est ni cumulable avec la fiche d'opération TRA-SE-05 "Recreusage d'un pneumatique", ni avec la fiche d'opération TRA-SE-08 "Gestion externalisée du poste pneumatique d'une flotte poids lourds" pour les immatriculations désignées par le contrat tripartite.
+
+4. Durée de vie conventionnelle : 1 an.
+
+5. Montant des certificats en kWh cumac :
+
+CATÉGORIE |
+
+MONTANT EN KWH CUMAC/ ENSEMBLE |
+
+|
+
+NOMBRE D'ENSEMBLES ARTICULÉS
+
+en gestion optimisée |
+
+Ensemble articulé |
+
+5 092 |
+
+x
+
+|
+
+N
+
+|
+
+CATÉGORIE |
+
+MONTANT EN KWH CUMAC/ PORTEUR |
+
+|
+
+NOMBRE DE PORTEURS
+
+en gestion optimisée |
+
+Porteur |
+
+2 063 |
+
+x |
+
+N
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-SE-11
+
+Gestion optimisée du poste pneumatique
+
+dans une flotte de transport de personnes
+
+1. Secteur d'application :
+
+Transport collectif de personnes (autobus et/ ou autocars) dont la partie pneumatique est gérée de façon optimisée et globale (prix par carte grise ou forfait mensuel).
+
+2. Dénomination :
+
+Gestion optimisée et globale du poste pneumatique sur une flotte d'autobus et/ ou autocars engendrant des économies de fonctionnalité et consistant en quatre opérations cumulatives : réglage des géométries, contrôle des pressions, recreusage et suivi des usures.
+
+3. Conditions pour la délivrance de certificats :
+
+Dans le cas d'une gestion optimisée du poste pneumatique, le demandeur fournit :
+
+- le contrat tripartite ou avenant au contrat commercial entre le manufacturier, le prestataire et le transporteur, dans lequel le prestataire et le transporteur s'engagent à ce qu'au minimum :
+
+- 50 % des pneus quittant l'entreprise pour rechapage ou valorisation soient recreusés ;
+
+- les véhicules soient vérifiés en pression 3 fois par an au minimum (sur vérification ou remplacement du pneu) ;
+
+- l'ensemble des véhicules sous contrat subissent au moins une opération (permutation et/ ou retournement sur jante) ;
+
+- le document justifiant du nombre de véhicules par type (cartes grises) en contrat, à part ou pouvant être inclus dans le contrat commercial.
+
+Cette opération n'est cumulable ni avec la fiche d'opération TRA-SE-05 "recreusage d'un pneumatique", ni avec la fiche d'opération TRA-SE-09 "Gestion externalisée du poste pneumatique dans une flotte de transports de personnes" pour les immatriculations désignées par le contrat tripartite.
+
+4. Durée de vie conventionnelle : 1 an.
+
+5. Montant des certificats en kWh cumac :
+
+CATÉGORIE |
+
+MONTANT EN KWH CUMAC/ AUTOBUS |
+
+|
+
+NOMBRE D'AUTOBUS EN GESTION OPTIMISÉE |
+
+Autobus |
+
+786 |
+
+x
+
+|
+
+N
+
+|
+
+CATÉGORIE |
+
+MONTANT EN KWH CUMAC/ AUTOCAR |
+
+|
+
+NOMBRE D'AUTOCARS EN GESTION OPTIMISÉE |
+
+Autocar |
+
+839 |
+
+x
+
+|
+
+N
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° TRA-SE-12
+
+Abonnement à un service d'autopartage
+
+1. Secteur d'application :
+
+Transport de personnes.
+
+2. Dénomination :
+
+Abonnement annuel ou renouvellement d'un abonnement annuel à une service d'autopartage.
+
+3. Conditions pour la délivrance de certificats :
+
+Le demandeur présente à l'appui de sa demande le relevé des abonnements ou renouvellements au service d'autopartage.
+
+Le service d'autopartage est en boucle fermée.
+
+Un seul abonnement ou renouvellement par personne peut être valorisé sur la durée de vie de l'opération.
+
+4. Durée de vie conventionnelle : 5 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT EN KWH CUMAC
+
+pour un abonnement annuel à un service d'autopartage |
+
+|
+
+NOMBRE D'ABONNEMENTS ANNUELS
+
+à un service d'autopartage |
+
+5 030 |
 
 x |
 

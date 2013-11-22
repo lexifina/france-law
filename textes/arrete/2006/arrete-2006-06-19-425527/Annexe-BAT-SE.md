@@ -110,25 +110,39 @@ Réalisation d'opérations d'économies d'énergie dans le périmètre de la cer
 
 3. Conditions pour la délivrance de certificats :
 
-La demande de certificats d'économies d'énergie porte sur des opérations standardisées ou spécifiques réalisées sur le périmètre concerné et achevées moins d'un an avant la date de cette demande. Pour ces opérations, la délivrance des certificats s'effectue sous la réserve du respect de la réglementation en vigueur, et notamment des conditions de délivrance fixées par les fiches standardisées correspondantes. La liste des opérations concernées par cette demande est jointe au dossier.
+La demande de certificats d'économies d'énergie porte sur des opérations standardisées ou spécifiques réalisées sur le périmètre de la certification concernée et achevées moins d'un an avant la date de cette demande. Pour ces opérations, la délivrance des certificats s'effectue sous la réserve du respect de la réglementation en vigueur, notamment des conditions de délivrance fixées par les fiches standardisées correspondantes.
 
-La demande précise, en outre, que les preuves requises pour chaque opération standardisée mise en œuvre sont tenues à la disposition de l'administration.
+La demande de certificats comporte :
 
-L'organisme de certification doit être accrédité selon la norme ISO 17 021 par le Comité français d'accréditation (COFRAC) ou par tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de l'European co-operation for Accreditation for (EA), coordination européenne des organismes d'accréditation.
+1. La liste des opérations concernées ;
+
+2. Le certificat de niveau 1 ou de niveau 2 en cours de validité délivré par l'organisme de certification au nom du bénéficiaire des opérations pour le site géographique concerné ; il comporte :
+
+- l'identité précise de l'entreprise titulaire du certificat ;
+
+- l'adresse postale précise du site certifié ;
+
+- le fait que l'ensemble des activités du site est couvert par la certification ;
+
+- la période de validité du certificat ;
+
+3. Une attestation du demandeur et du bénéficiaire indiquant que les opérations pour lesquelles une demande est déposée dans le cadre de la présente fiche n'ont pas déjà fait et ne feront pas l'objet d'une autre demande de certificats ;
+
+4. Pour chacune des opérations d'économies d'énergie standardisées et spécifiques concernées par la demande, l'ensemble des documents prévus par l'arrêté du 29 décembre 2010 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et la composition d'une demande d'agrément d'un plan d'actions d'économies d'énergie.
+
+L'organisme de certification qui a délivré le certificat de niveau 1 ou de niveau 2 doit être accrédité selon la norme NF EN ISO/ CEI 17021 ou toute version ultérieure, pour la certification de système de management de l'énergie selon la norme NF EN ISO 50 001 par le Comité français d'accréditation (COFRAC) ou par tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation for (EA), coordination européenne des organismes d'accréditation.
 
 Les CEE sont délivrés selon :
 
-- le niveau 1 exclusivement ; ou
+- le niveau 1 exclusivement pour les opérations engagées jusqu'au 30 juin 2014 uniquement ; ou
 
 - le niveau 2 exclusivement.
 
-La date d'engagement d'une opération d'économies d'énergie peut être antérieure à la date de certification d'une étape.
-
-Le demandeur atteste que les opérations pour lesquelles un dossier de demande est déposé dans le cadre de cette fiche n'ont pas déjà fait l'objet d'une autre demande de certificats.
+La date d'engagement d'une opération d'économie d'énergie peut-être antérieure à la date de certification d'une étape.
 
 Certification de niveau 1 :
 
-La demande comporte un certificat en cours de validité de l'organisme de certification attestant que l'étape de "management de l'énergie" a été réalisée pour le site concerné. Cette étape comprend les sous-étapes suivantes issues de la norme NF EN ISO 50 001 :
+La demande comporte un certificat en cours de validité de l'organisme de certification attestant que l'étape de management de l'énergie a été réalisée pour le site concerné. Cette étape comprend les sous-étapes suivantes issues de la norme NF EN ISO 50 001 :
 
 - un domaine d'application et un périmètre (paragraphe 4.1 b) ;
 
@@ -144,21 +158,25 @@ La demande comporte un certificat en cours de validité de l'organisme de certif
 
 - la formalisation d'un plan d'actions (paragraphe 4.4.6).
 
+Le niveau 1 sera supprimé à compter du 1er juillet 2014.
+
 Certification de niveau 2 :
 
-La demande comporte un certificat ISO 50 001 en cours de validité de l'organisme de certification pour le site concerné.
+La demande de certificats comporte un certificat ISO 50 001 en cours de validité de l'organisme de certification pour le périmètre concerné.
 
-4. Durée de vie conventionnelle : sans objet.
+4. Durée de vie conventionnelle :
+
+Sans objet.
 
 5. Montant de certificats en kWh cumac :
 
-Σ (montant de CEE opérations standardisées ou spécifiques) × (1 + B)
+∑ (montant de CEE opérations standardisées ou spécifiques) × (1 + B)
 
-Avec B, coefficient de bonification, égal à :
+Avec B, la bonification égale à :
 
-- "0,5" pour des certificats délivrés dans le cadre du niveau 1 ;
+0,5 pour des certificats délivrés dans le cadre du niveau 1 ;
 
-- "1" pour des certificats délivrés dans le cadre du niveau 2 si les opérations n'ont pas déjà été bonifiées dans le cadre du niveau 1.
+1 pour des certificats délivrés dans le cadre du niveau 2 si les opérations n'ont pas déjà été bonifiées dans le cadre du niveau 1.
 
 Certificats d'économies d'énergie
 
@@ -225,7 +243,3 @@ H3 |
 |
 
 |
-
-NOTA :
-
-Le Conseil d'Etat a annulé par décision n° 371413 du 14 novembre 2014 (n° ECLI:FR:CESJS:2014:371413.20141114) l'arrêté du 4 juin 2013 modifiant les fiches n° BAR-SE-04 et n° BAT-SE-03

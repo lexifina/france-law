@@ -1618,13 +1618,13 @@ Les lampes ou luminaires LED mis en place respectent les critères suivants :
 
 - flux minimum sortant : ≥ 320 lumens ;
 
-- efficacité lumineuse : ≥ 45 lumens/W.
+- efficacité lumineuse : ≥ 45 lumens/ W.
 
 4. Durée de vie conventionnelle :
 
-7 ans pour les lampes ou luminaires d'une durée de vie ≥ 20 000 heures.
+7 ans pour les lampes ou luminaires d'une durée de vie supérieure ou égale à 20 000 heures ;
 
-15 ans pour les lampes ou luminaires d'une durée de vie ≥ 40 000 heures.
+15 ans pour les lampes ou luminaires d'une durée de vie supérieure ou égale à 40 000 heures.
 
 5. Montant de certificats en kWh cumac :
 
@@ -1644,7 +1644,7 @@ SI DÉTECTION
 
 de présence
 
-ou variation
+OU variation
 
 de lumière |
 
@@ -1652,7 +1652,7 @@ SI DÉTECTION
 
 de présence
 
-ou variation
+ET variation
 
 de lumière |
 
@@ -1714,7 +1714,7 @@ Mise en place d'un luminaire à LED de type downlight, avec ou sans dispositif d
 
 3. Conditions pour la délivrance de certificats :
 
-Les luminaires à LED mis en place doivent respecter les critères suivants :
+Les luminaires à LED mis en place respectent les critères suivants :
 
 - indice de rendu des couleurs (IRC ou Ra) : ≥ 80 ;
 
@@ -1724,21 +1724,21 @@ Les luminaires à LED mis en place doivent respecter les critères suivants :
 
 - flux lumineux sortant du luminaire : ≥ 900 lumens ;
 
-- efficacité lumineuse : ≥ 50 lumens/W.
+- efficacité lumineuse : ≥ 50 lumens/ W.
 
 4. Durée de vie conventionnelle :
 
-6 ans pour lampes d'une durée de vie ≥ 20 000 heures.
+6 ans pour lampes d'une durée de vie supérieure ou égale à 20 000 heures ;
 
-11 ans pour lampes d'une durée de vie ≥ 40 000 heures.
+11 ans pour lampes d'une durée de vie supérieure ou égale à 40 000 heures.
 
 5. Montant de certificats en kWh cumac :
 
 DURÉE DE VIE
 
-du luminaire
+du luminaire à LED
 
-à LED (heures) |
+(heures) |
 
 SANS GESTION
 
@@ -1748,7 +1748,7 @@ SI DÉTECTION
 
 de présence
 
-ou variation
+OU variation
 
 de lumière |
 
@@ -1756,15 +1756,13 @@ SI DÉTECTION
 
 de présence
 
-ou variation
+ET variation
 
 de lumière |
 
 |
 
-NOMBRE
-
-de luminaires
+NOMBRE DE LUMINAIRES
 
 installés |
 
@@ -1795,3 +1793,933 @@ N
 |
 
 |
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-28
+
+Logiciel de réduction
+
+des consommations des ordinateurs
+
+1. Secteur d'application :
+
+Bâtiments tertiaires : parc informatique à usage professionnel.
+
+2. Dénomination :
+
+Mise en place d'un logiciel de pilotage énergétique permettant la réduction des consommations électriques d'un ordinateur (fixe ou portable) appartenant à un parc informatique professionnel.
+
+3. Conditions pour la délivrance de certificats :
+
+Le logiciel de pilotage énergétique effectue une optimisation de la consommation d'électricité par le paramétrage détaillé et le pilotage fin des modes de fonctionnement (type de veille, temporisation, adaptation dynamique de la fréquence du processeur, etc.) lors des phases d'utilisation. Il évalue la consommation des ordinateurs au moyen d'une base de données de profils de consommation.
+
+Le logiciel propose de manière optionnelle une fonctionnalité de sensibilisation aux impacts de la consommation énergétique de l'ordinateur et aux économies faites via le logiciel au moyen d'un compteur virtuel de consommation d'électricité (par exemple, affichage de la puissance instantanée en W, de la consommation sur une période donnée en kWh).
+
+La direction des services informatiques (DSI) gérant le parc concerné atteste de la mise en place et du pilotage du logiciel de réduction des consommations, et que l'utilisateur de l'ordinateur ne peut pas impacter le bon fonctionnement du logiciel.
+
+La mise en place d'un logiciel ne peut être valorisée qu'une seule fois durant la durée de vie conventionnelle de l'opération.
+
+4. Durée de vie conventionnelle : 4 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT KWH CUMAC/ POSTE |
+
+|
+
+NOMBRE DE POSTE ÉQUIPÉS |
+
+380
+
+|
+
+x |
+
+N
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-29
+
+Lanterneaux d'éclairage zénithal
+
+1. Secteur d'application :
+
+Bâtiments tertiaires existants de surface totale chauffée inférieureà 10 000 m ².
+
+2. Dénomination :
+
+Mise en place de lanterneaux d'éclairage zénithal.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place de :
+
+- lanterneaux ponctuels marqués CE suivant la norme européenne EN 1873 ;
+
+- ou de lanterneaux continus marqués CE suivant la norme européenne EN 14963.
+
+Ces lanterneaux possèdent des performances thermiques Urc (coefficient de conductance thermique) attestées par le marquage CE suivant EN 1873 ou EN 14963 :
+
+- pour les lanterneaux d'éclairage seul, Urc est inférieur ou égal à 2 W/ m ². K ;
+
+- pour les lanterneaux ouvrants et les lanterneaux continus, Urc estinférieur ou égal à 2,5 W/ m ². K.
+
+Leur remplissage est opalescent avec un taux de transmission lumineuse minimale de 45 %, suivant les mêmes normes.
+
+Mise en œuvre d'un pilotage de l'éclairage électrique en fonction des apports de lumière naturelle.
+
+Mise en œuvre réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT EN KWH CUMAC
+
+(par m ²) |
+
+|
+
+SECTEUR
+
+d'activité |
+
+FACTEUR
+
+correctif |
+
+|
+
+ZONE
+
+climatique |
+
+FACTEUR
+
+correctif |
+
+|
+
+|
+
+|
+
+|
+
+Commerce |
+
+1 |
+
+|
+
+H1
+
+|
+
+0,85
+
+|
+
+|
+
+|
+
+10 800
+
+|
+
+x
+
+|
+
+Enseignement |
+
+0,4
+
+|
+
+x
+
+|
+
+H2
+
+|
+
+1
+
+|
+
+x |
+
+S
+
+|
+
+|
+
+|
+
+Autres secteurs |
+
+0,4
+
+|
+
+|
+
+H3
+
+|
+
+1,5
+
+|
+
+|
+
+|
+
+S = surface géométrique lumière en m ² (projection horizontale de la plus petite section de passage de la lumière naturelle).
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-30
+
+Système de condensation frigorifique
+
+à haute efficacité
+
+1. Secteur d'application :
+
+Bâtiments tertiaires : locaux du secteur tertiaire existants ou neufs réservés à une utilisation professionnelle.
+
+2. Dénomination :
+
+Mise en place d'un système de condensation à haute efficacité (1) sur une installation frigorifique neuve ou existante. Par système de condensation, on entend condenseur plus tour , ou condenseur seul , ou tour seule si celle-ci alimente un condenseur frigorifique à eau.
+
+Est également éligible la mise en place d'un groupe frigorifique complet dans lequel le condenseur est à haute efficacité.
+
+3. Conditions pour la délivrance de certificats :
+
+Deux catégories de systèmes de condensation sont éligibles :
+
+1° Les systèmes de condensation par rapport à l'atmosphère :
+
+A air sec :
+
+A. Les condenseurs à air sec (adiabatiques ou non) ;
+
+B. Les condenseurs à eau plus aéroréfrigérant à air sec (adiabatiques ou non).
+
+A air humide :
+
+C. Les condenseurs évaporatifs (hybrides ou non) ;
+
+D. Les condenseurs à eau plus tour ouverte (hybride ou non) ;
+
+E. Les condenseurs à eau plus tour fermée (hybride ou non).
+
+2° Les condenseurs à eau seuls (sur nappes, rivières ou autres) :
+
+L'écart de températures Δ T est défini comme suit :
+
+- pour les systèmes de condensation par rapport à l'atmosphère :
+
+- A et B : Δ T = Température de condensation du fluide frigorigène (2) - Température d'air sec ;
+
+- C, D et E : Δ T = Température de condensation du fluide frigorigène - Température d'air au bulbe humide ;
+
+- pour les condenseurs à eau seuls :
+
+- Δ T = Température de condensation du fluide frigorigène - Température de l'eau en entrée du condenseur.
+
+La valeur Δ T (3) est attestée par l'installateur.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Montant de certificats en kWh cumac = α × P × β × γ
+
+α : coefficient multiplicateur lié à l'écart entre la température de condensation du fluide frigorigène et la température de l'air ou de l'ea. u
+
+β : coefficient multiplicateur lié à la température d'évaporation du fluide frigorigène selon les niveaux de froid utilisés dans l'installation.
+
+γ : coefficient multiplicateur lié au temps de fonctionnement de l'installation
+
+1. Cas des systèmes de condensations par rapport à l'atmosphère :
+
+Δ T
+
+sur air sec
+
+(K) (4) |
+
+Δ T
+
+sur air humide
+
+(K) (5) |
+
+α
+
+|
+
+|
+
+PUISSANCE
+
+électrique
+
+compresseur
+
+(kW) (6) |
+
+|
+
+NIVEAU
+
+d'évaporation |
+
+β
+
+|
+
+|
+
+FONCTIONNEMENT
+
+de l'installation
+
+(7)
+
+|
+
+γ
+
+|
+
+12 |
+
+22
+
+|
+
+1 200 |
+
+|
+
+|
+
+|
+
+Très basses températures
+
+(de - 56° C à - 26° C) ;
+
+température d'évaporation
+
+moyenne = - 38° C
+
+|
+
+0,5
+
+|
+
+|
+
+1 × 8 (5 j/7) |
+
+1
+
+|
+
+11
+
+|
+
+21
+
+|
+
+1 600 |
+
+x |
+
+P |
+
+x
+
+|
+
+Basses températures
+
+(de - 25° C à - 6° C) ;
+
+températured'évaporation
+
+moyenne = - 15° C |
+
+0,7
+
+|
+
+x
+
+|
+
+2 × 8 (5 j/7) |
+
+2,1 |
+
+10 |
+
+20
+
+|
+
+2 000 |
+
+|
+
+|
+
+|
+
+Froid positif
+
+(de - 5° C à 5° C) ;
+
+température d'évaporation
+
+moyenne = 0° C |
+
+1
+
+|
+
+|
+
+2 × 8 (6 j/7) |
+
+2,5 |
+
+9
+
+|
+
+19
+
+|
+
+2 500 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2 × 8 (7 j/7) |
+
+2,9 |
+
+8 |
+
+18
+
+|
+
+3 000 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 × 8 (5 j/7) |
+
+3,1 |
+
+7
+
+|
+
+17
+
+|
+
+3 500 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 × 8 (6 j/7) |
+
+3,8 |
+
+6
+
+|
+
+16
+
+|
+
+4 000 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 × 8 (7 j/7) |
+
+4,2 |
+
+5
+
+|
+
+15
+
+|
+
+4 600 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+14
+
+|
+
+5 200 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3
+
+|
+
+13
+
+|
+
+5 800 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+12
+
+|
+
+6 500 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+11
+
+|
+
+7 200 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+0 |
+
+10
+
+|
+
+7 900 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2. Cas des condenseurs à eau "seuls" :
+
+Δ T SUR EAU
+
+en entrée
+
+condenseur
+
+(K) |
+
+α
+
+|
+
+|
+
+PUISSANCE
+
+électrique
+
+compresseur
+
+(kW) (6) |
+
+|
+
+NIVEAU
+
+d'évaporation |
+
+β
+
+|
+
+|
+
+FONCTIONNEMENT
+
+de l'installation
+
+(7)
+
+|
+
+γ
+
+|
+
+8
+
+|
+
+1 000
+
+|
+
+|
+
+|
+
+|
+
+Très basses températures
+
+(de - 56° C à - 26° C) ;
+
+température d'évaporation
+
+moyenne = - 38° C |
+
+0,5
+
+|
+
+|
+
+1 × 8 (5 j/7) |
+
+1 |
+
+7
+
+|
+
+1 500
+
+|
+
+x
+
+|
+
+P |
+
+x
+
+|
+
+Basses températures
+
+(de - 25° C à - 6° C) ;
+
+température d'évaporation
+
+moyenne = - 15° C
+
+|
+
+0,7
+
+|
+
+x |
+
+2 × 8 (5 j/7) |
+
+2,1
+
+|
+
+6
+
+|
+
+2 100
+
+|
+
+|
+
+|
+
+|
+
+Froid positif
+
+(de - 5° C à 5° C) ;
+
+température d'évaporation
+
+moyenne = 0° C
+
+|
+
+1
+
+|
+
+|
+
+2 × 8 (6 j/7) |
+
+2,5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2 × 8 (7 j/7) |
+
+2,9
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 × 8 (5 j/7) |
+
+3,1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 × 8 (6 j/7) |
+
+3,8
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 × 8 (7 j/7) |
+
+4,2
+
+|
+
+(1) Un condenseur à haute efficacité est un échangeur présentant un faible écart de température Δ T. Δ T est défini dans le paragraphe "3. Conditions pour la délivrance des certificats" de la présente fiche. Abaisser le Δ T permet d'abaisser la consommation du groupe frigorifique.
+
+(2) Dans le cas des fluides frigorigènes à glissement, la température de condensation est prise au point de rosée.
+
+(3) Pour un système de condensation ayant un Δ T ne figurant pas dansle tableau ci-dessus, retenir la valeur de Δ T supérieure.
+
+(4) Le Δ T sur air sec est utilisé pour les condenseurs à air sec, soit les systèmes A et B.
+
+(5) Le Δ T sur air humide est utilisé pour les condenseurs C, D et E.
+
+(6) La puissance électrique à retenir est celle figurant sur la plaque signalétique du compresseur ou, à défaut, la puissance électrique absorbée indiquée sur la fiche technique au régime nominal.
+
+(7) Les régimes horaires mentionnés dans le tableau correspondent aufonctionnement du groupe frigorifique et non pas au régime de travail du personnel. Si une durée de fonctionnement ne figure pas dans le tableau, il convient de retenir la valeur de la plus faible associée à la durée de fonctionnement la plus proche.

@@ -3058,47 +3058,59 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-24
 
-Chauffe-eau solaire individuel (France d'outre-mer)
+Chauffe-eau solaire individuel
+
+(France d'outre-mer)
 
 1. Secteur d'application :
 
-Maisons individuelles existantes en France d'outre-mer ou projets de construction de maisons individuelles en France d'outre-mer neuves et de parties nouvelles de maisons individuelles existantes, qui font l'objet d'une demande de permis de construire ou d'une déclaration préalable déposées avant le 1er mai 2010.
+Maisons individuelles existantes ou projets de construction de maisons individuelles et de parties nouvelles de maisons individuelles, en France d'outre-mer.
+
+Logements au sein de bâtiments résidentiels existants ou en projet de construction en R + 2 maximum en France d'outre-mer et pour lesquels la surface de capteurs totale mise en œuvre ne dépasse pas 40 m ².
 
 2. Dénomination :
 
-Mise en place d'un chauffe-eau solaire individuel (CESI).
+Mise en place de chauffe-eau solaires de type individuel (CESI).
 
 3. Conditions pour la délivrance de certificats :
 
-Les appareils possèdent des caractéristiques de performances validées :
+Pour les opérations engagées jusqu'au 30 juin 2014, les appareils ont une certification CSTBat ou des caractéristiques de performances et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
-- soit par la marque de certification : CSTBat ;
+La certification porte :
 
-- soit par la marque de certification : Solarkeymark ;
+- sur la globalité du système pour les appareils à thermosiphon ;
 
-- soit par la marque de certification : NF CESI ;
+- sur les capteurs pour les appareils à circulation forcée.
 
-- soit par des caractéristiques de performances et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+Pour les opérations engagées à partir du 1er juillet 2014, les appareils ont une certification CSTBat mention DOM ou des caractéristiques de performances et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
-Mise en place réalisée par un professionnel.
+Ces équivalences mentionnent notamment les tests relatifs :
 
-L'installateur doit, à la date de réalisation de l'opération :
+- à la résistance à l'arrachement ;
 
-- être titulaire de l'appellation QUALISOL ;
+- à la corrosion ;
 
-- ou signataire de la charte Soleyeko ;
+- au vieillissement.
 
-- ou disposer d'une qualification ou certification professionnelle dans le domaine des CESI ;
+Mise en place réalisée par un professionnel qui doit être, à la date de la réalisation de l'opération :
 
-- ou disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
+- titulaire de l'appellation Qualisol ; ou
 
-4. Durée de vie conventionnelle : 12 ans.
+- signataire de la charte Soleyeko ; ou
+
+- disposant d'une qualification ou certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
+
+4. Durée de vie conventionnelle : 15 ans.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT
+ZONE
 
-(en kWh cumac/m² de capteurs posés)
+géographique |
+
+MONTANT EN KWH CUMAC/ M ²
+
+de capteur posé
 
 |
 
@@ -3106,27 +3118,67 @@ MONTANT
 
 SURFACE DE CAPTEURS POSÉS
 
-(m²)
+(m ²)
+
+|
+
+Logement
+
+existant |
+
+Logement
+
+neuf
 
 |
 
 |
 
-×
+Guyane |
+
+5 200 |
+
+5 200 |
 
 |
 
 |
 
-6 300
+Réunion, Mayotte |
+
+5 200 |
+
+2 600 |
+
+x
+
+|
+
+S |
+
+Martinique, Guadeloupe |
+
+6 400 |
+
+3 200 |
 
 |
 
 |
 
-S
+Collectivités d'outre-mer (COM) (*) |
+
+6 400 |
+
+6 400
 
 |
+
+|
+
+|
+
+(*) Uniquement les COM éligibles au dispositif des CEE.
 
 Certificats d'économies d'énergie
 
@@ -5024,43 +5076,181 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-35
 
-Chauffe-eau solaire en logement collectif (DOM)
+Chauffe-eau solaire en logement collectif
 
-1. Secteur d'application
+(France d'outre-mer)
 
-Bâtiments résidentiels existants ou projets de construction de bâtiments résidentiels neufs et de parties nouvelles de bâtiments résidentiels existants, qui font l'objet d'une demande de permis de construire ou d'une déclaration préalable déposées avant le 1er mai 2010.
+1. Secteur d'application :
 
-2. Dénomination
+Bâtiment résidentiel existant ou projets de construction de bâtiments résidentiels neufs et de parties nouvelles de bâtiments résidentiels existants, en France d'outre-mer.
 
-Mise en place d'un chauffe-eau solaire individuel (CESI) dans les DOM.
+2. Dénomination :
 
-3. Conditions pour la délivrance de certificats
+Mise en place d'une installation solaire collective de production d'eau chaude sanitaire en France d'outre-mer.
 
-Les appareils ont une certification CSTBat ou Solarkeymark ou des caractéristiques de performance et de qualité équivalentes basées sur les normes NF EN 12975 ou NF EN 12976 et établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+3. Conditions pour la délivrance de certificats :
 
-Le dimensionnement de l'installation est réalisé par un bureau d'études.
+Pour les opérations engagées jusqu'au 30 juin 2014, les capteurs ont une certification CSTBat ou des caractéristiques de performances et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
-Mise en place réalisée par un professionnel signataire de la charte Qualisol ou de la charte SOLEYEKO ou tout dispositif présentant des spécifications techniques équivalentes.
+Pour les opérations engagées à partir du 1er juillet 2014, les capteurs ont une certification CSTBat mention DOM ou des caractéristiques de performances et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
-4. Durée de vie conventionnelle
+Ces équivalences mentionnent notamment les tests relatifs :
 
-12 ans.
+- à la résistance à l'arrachement ;
 
-5. Montant de certificats en kWh cumac
+- à la corrosion ;
 
-Montant en kWh cumac par m² de surface
+- au vieillissement.
 
-de capteurs posés |
+Le taux de couverture solaire T est compris entre 50 et 80 %.
+
+Exigences concernant le dimensionnement de l'installation :
+
+SURFACE DE CAPTEURS INSTALLÉS |
+
+TYPE D'ÉTUDE EXIGÉE |
+
+0 m ² < S ≤ 25 m ² |
+
+Etude TRANSOL, SOLO ou équivalent réalisée par le professionnel |
+
+S > 25 m ² |
+
+Dimensionnement réalisé par un bureau d'études |
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 18 ans.
+
+5. Montant de certificats en kWh cumac :
+
+1. Logement existant :
+
+ZONE GÉOGRAPHIQUE |
+
+MONTANT (EN KWH CUMAC/ m ²
+
+de capteur posé)
 
 |
 
-Surface de capteurs posés en m² |
+|
 
-6500 |
+SURFACE
 
-X |
+de capteurs posés
+
+(m ²) |
+
+Guyane |
+
+9 200 |
+
+|
+
+|
+
+Réunion, Mayotte |
+
+7 900 |
+
+x |
 
 S |
+
+Martinique, Guadeloupe et collectivités
+
+d'outre-mer (COM) (*)
+
+|
+
+8 600 |
+
+|
+
+|
+
+2. Logement neuf :
+
+ZONE GÉOGRAPHIQUE |
+
+MONTANT (EN KWH CUMAC/ m ²
+
+de capteur posé) |
+
+|
+
+SURFACE
+
+de capteurs
+
+posés (m ²) |
+
+|
+
+COEFFICIENT
+
+correcteur |
+
+COM (*) |
+
+8 600 |
+
+|
+
+|
+
+|
+
+1
+
+|
+
+Guyane |
+
+9 200 |
+
+|
+
+|
+
+|
+
+1
+
+|
+
+Réunion, Mayotte |
+
+7 900 |
+
+x
+
+|
+
+S |
+
+x
+
+|
+
+1-1/ (2T) |
+
+Martinique, Guadeloupe |
+
+8 600 |
+
+|
+
+|
+
+|
+
+|
+
+T (%) est le taux de couverture par l'énergie solaire de l'installation.
+
+(*) Uniquement pour les COM éligibles au dispositif des CEE.
 
 Certificats d'économies d'énergie
 
@@ -5246,9 +5436,9 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-37
 
-Raccordement d'un bâtiment résidentiel à un réseau de chaleur alimenté
+Raccordement d'un bâtiment résidentiel à un réseau de chaleur
 
-par des énergies renouvelables ou de récupération
+alimenté par des énergies renouvelables ou de récupération
 
 1. Secteur d'application :
 
@@ -5256,49 +5446,47 @@ Appartements existants.
 
 2. Dénomination :
 
-Raccordement d'un bâtiment résidentiel à un réseau de chaleur alimenté par des énergies renouvelables ou de récupération.
+Raccordement d'un appartement existant à un réseau de chaleur alimenté par des énergies renouvelables ou de récupération.
 
 3. Conditions pour la délivrance de certificats :
 
-Descriptif du réseau de chaleur à fournir : moyens de production et énergies utilisées sur les trois dernières années (en précisant les éléments spécifiques aux énergies renouvelables ou de récupération).
+Descriptif du réseau de chaleur à fournir : moyens de production et énergies utilisées (en précisant les éléments spécifiques aux énergies renouvelables ou de récupération).
 
 Mise en place réalisée par un professionnel.
 
-Application de cette opération non cumulable avec l'application de l'opération standardisée RES-CH-01 Production de chaleur renouvelable ou de récupération en réseau (France métropolitaine) .
+Application de cette opération non cumulable avec l'application de l'opération standardisée RES-CH-01 Production de chaleur renouvelable en réseau ou de récupération (France métropolitaine) .
 
 4. Durée de vie conventionnelle : 20 ans.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT UNITAIRE POUR UN APPARTEMENT
+MONTANT UNITAIRE
 
-(en kWh cumac)
-
-|
+(en kWh cumac/ m ²)
 
 |
 
 |
 
-|
+NOMBRE
 
-NOMBRE D'APPARTEMENTS
-
-|
-
-Zone climatique
+d'appartements |
 
 |
+
+|
+
+Zone
+
+climatique |
+
+Chauffage |
 
 Chauffage
 
-|
+et eau chaude
 
-Chauffage et ECS
-
-|
-
-|
+sanitaire |
 
 |
 
@@ -5310,27 +5498,15 @@ H1
 
 |
 
-220 000
+220 000 |
+
+280 000 |
 
 |
 
-280 000
-
 |
 
-×
-
 |
-
-T
-
-|
-
-×
-
-|
-
-N
 
 |
 
@@ -5338,17 +5514,19 @@ H2
 
 |
 
-180 000
+180 000 |
+
+230 000 |
+
+x
 
 |
 
-230 000
+N |
 
-|
+x |
 
-|
-
-|
+T
 
 |
 
@@ -5356,13 +5534,9 @@ H3
 
 |
 
-120 000
+120 000 |
 
-|
-
-150 000
-
-|
+150 000 |
 
 |
 
@@ -5370,9 +5544,9 @@ H3
 
 |
 
-Avec T = part des besoins couverts par les énergies renouvelables ou de récupération, au sein du réseau de chaleur (et non du bâtiment), avant ce nouveau raccordement.
+|
 
-La valeur de T figurant ci-dessus est à considérer dans sa version décimale (donc 0,4 si T = 40 %).
+T (%) = part des besoins annuels du réseau couverts par les énergies renouvelables ou de récupération au sein du réseau de chaleur après ce nouveau raccordement. Il est fourni par le gestionnaire du réseau et est calculé selon l'arrêté du 22 décembre 2012 relatif au classement des réseaux de chaleur et de froid.
 
 Certificats d'économies d'énergie
 
@@ -5660,63 +5834,73 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-41
 
-Climatiseur de classe A (France d'outre-mer)
+Climatiseur performant (France d'outre-mer)
 
 1. Secteur d'application :
 
-Bâtiments résidentiels existants en France d'outre-mer.
+Bâtiments résidentiel : maisons individuelles et appartements existants en France d'outre-mer.
 
 2. Dénomination :
 
-Remplacement d'un climatiseur existant par un climatiseur fixe de classe A, individuel (monosplit) ou regroupé (multisplit), pour des applications dont les besoins en climatisation sont inférieurs ou égaux à 9 000 BTU/h froid par pièce.
+Remplacement d'un climatiseur existant par un climatiseur fixe de classe A à A + + +.
 
 3. Conditions pour la délivrance de certificats :
 
-L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+Le climatiseur installé est de classe A à A + + +, selon la classification définie dans le règlement délégué (UE) n° 626/2011 de la Commission européenne du 4 mai 2011, individuel (monosplit) ou regroupé (multisplit), pour des applications dont les besoins en climatisation sont inférieurs ou égaux à 9 000 BTU/ h (2,64 kW) froid par pièce.
 
-Mise en place par un professionnel.
+L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Une attestation de dépose de l'ancien climatiseur doit être fournie par le professionnel.
+
+Mise en place réalisée par un professionnel.
+
+La mise en place doit être postérieure au 1er janvier 2013.
 
 4. Durée de vie conventionnelle : 9 ans.
 
 5. Montant de certificats en kWh cumac :
 
-PUISSANCE DE L'APPAREIL
+PUISSANCE
 
-en BTU/h
+de l'appareil (BTU/ h) |
 
-|
+CLASSE A
 
-4,5 > COP ≥ 3,2
+5,1 ≤ SEER (1) < 5,6 |
 
-|
+CLASSE A +
 
-COP ≥ 4,5
+5,6 ≤ SEER < 6,1 |
 
-|
+CLASSE A + +
 
-7 000
+6,1 ≤ SEER < 8,5 |
 
-|
+CLASSE A + + +
 
-6 200
+SEER ≥ 8,5 |
 
-|
-
-15 000
-
-|
-
-9 000
-
-|
-
-7 400
-
-|
+7 000 |
 
 17 000 |
+
+19 000 |
+
+20 000 |
+
+25 000 |
+
+9 000 |
+
+20 000 |
+
+22 000 |
+
+24 000 |
+
+29 000 |
+
+(1) Seasonal Energy Efficiency Ratio (rendement énergétique saisonnier).
 
 Certificats d'économies d'énergie
 
@@ -6380,47 +6564,91 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-47
 
-Systèmes hydro-économes (DOM)
+Systèmes hydroéconomes (France d'outre-mer)
 
-1. Secteur d'application
+1. Secteur d'application :
 
-Bâtiments résidentiels existants dans les départements d'outre-mer.
+Bâtiments résidentiels existants en France d'outre-mer.
 
-2. Dénomination
+2. Dénomination :
 
-Mise en place d'une pomme de douche hydro-économe (débit réduit) en remplacement d'un matériel classique ou mise en place de régulateurs de jets sur le robinet de l'évier ou du lavabo.
+Mise en place d'une pomme de douche hydroéconome (débit réduit) ou mise en place de régulateurs de jet sur le robinet de l'évier ou du lavabo.
 
-3. Conditions pour la délivrance de certificats
+3. Conditions pour la délivrance de certificats :
 
-Les équipements sont conformes à la marque NF douche pour robinetterie ou NF régulateurs de jet. Ils sont répertoriés dans la classe de débit Z des normes EN NF 1112 (douches : 7,2 à 12 litres/minute) et EN NF 246 (régulateurs de jets : 7,5 à 9 litres/minute).
+Le matériel choisi doit être répertorié dans les classes de débit suivantes :
 
-4. Durée de vie conventionnelle
+Pour les douches :
 
-6 ans.
+- classe Z (7,2 à 12 litres/ minute) de la norme EN NF 1112 ; ou
 
-5. Montant de certificats en kWh cumac
+- classe ZZ (1,5 à 7,2 litres/ minute) de la norme EN NF 1112.
+
+Pour les les lavabos ou éviers :
+
+- aérateurs non régulés de classe Z (7,5 à 9 litres/ minute) de la norme EN NF 246 ; ou
+
+- aérateurs autorégulés de débit inférieur à 7,5 litres/ minute de la norme américaine NSF A112. 18. 1M/ NSF 61 et ayant obtenu le label EPA watersense pour les débits inférieurs à 5,67 litres/ minute.
+
+4. Durée de vie conventionnelle : 6 ans.
+
+5. Montant de certificats en kWh cumac :
+
+DOUCHES |
 
 |
 
-Douche |
+NOMBRE DE SYSTÈMES MIS EN PLACE |
 
-Evier |
+Classe Z |
 
-Lavabo |
+Classe ZZ |
 
-Montant en kWh
+x |
 
-cumac par materiel
+N
 
-installé |
+|
 
-1000
+740 |
+
+1 230 |
+
+|
+
+|
+
+LAVABOS OU ÉVIERS |
+
+|
+
+NOMBRE DE SYSTÈMES MIS EN PLACE |
+
+Aérateurs non régulés
+
+classe Z |
+
+Aérateurs
+
+autorégulés |
+
+x
+
+|
+
+N
 
 |
 
 200 |
 
-200 |
+370
+
+|
+
+|
+
+|
 
 Certificats d'économies d'énergie
 
@@ -6468,7 +6696,7 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-TH-49
 
-Système hydro-économe (France métropolitaine)
+Systèmes hydroéconomes (France métropolitaine)
 
 1. Secteur d'application :
 
@@ -6476,45 +6704,81 @@ Bâtiments résidentiels existants en métropole.
 
 2. Dénomination :
 
-Mise en place d'une pomme de douche hydro-économe (débit réduit) ou mise en place de régulateurs de jet sur le robinet de l'évier ou du lavabo.
+Mise en place d'une pomme de douche hydroéconome (débit réduit) ou mise en place de régulateurs de jet sur le robinet de l'évier ou du lavabo.
 
 3. Conditions pour la délivrance de certificats :
 
-Le matériel est conforme aux normes NF de robinetterie sanitaire : norme NF EN 246 pour les régulateurs de jets et norme NF EN 1112 pour les douches pour robinetterie sanitaire.
-
 Le matériel choisi doit être répertorié dans les classes de débit suivantes :
 
-- Z (7,5 à 9 litres/minute) de la norme EN NF 246 pour les régulateurs de jets ;
+Pour les douches :
 
-- Z (7,2 à 12 litres/minute) de la norme EN NF 1112 pour les douches.
+- classe Z (7,2 à 12 litres/ minute) de la norme EN NF 1112 ; ou
+
+- classe ZZ (1,5 à 7,2 litres/ minute) de la norme EN NF 1112.
+
+Pour les lavabos ou éviers :
+
+- aérateurs non régulés de classe Z (7,5 à 9 litres/ minute) de la norme EN NF 246, ; ou
+
+- aérateurs autorégulés de débit inférieur à 7,5 litres/ minute de la norme américaine NSF A112. 18. 1M/ NSF 61 et ayant obtenu le label EPA watersense pour les débits inférieurs à 5,67 litres/ minute.
 
 4. Durée de vie conventionnelle : 6 ans.
 
 5. Montant de certificats en kWh cumac :
 
-|
-
-DOUCHE
+DOUCHES |
 
 |
 
-LAVABO
+NOMBRE DE SYSTÈMES MIS EN PLACE |
+
+Classe Z |
+
+Classe ZZ |
+
+x
 
 |
 
-ÉVIER
+N
 
 |
 
-MONTANT EN kWh CUMAC PAR MATÉRIEL INSTALLÉ
+2 000 |
+
+3 300 |
 
 |
 
-2 000
+|
+
+LAVABOS OU ÉVIERS |
 
 |
 
-530
+NOMBRE DE SYSTÈMES MIS EN PLACE |
+
+Aérateurs non régulés
+
+classe Z |
+
+Aérateurs autorégulés |
+
+x
+
+|
+
+N
+
+|
+
+530 |
+
+1 000
+
+|
+
+|
 
 |
 
@@ -7605,6 +7869,48 @@ kWh CUMAC PAR CHAUFFE-BAIN |
 NOMBRE DE CHAUFFE-BAIN |
 
 15 500 |
+
+x
+
+|
+
+N |
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-57
+
+Chauffe-eau thermodynamique collectif
+
+sur air extrait à accumulation
+
+1. Secteur d'application :
+
+Bâtiments résidentiels : appartements existants.
+
+2. Dénomination :
+
+Installation d'un chauffe-eau thermodynamique collectif sur air extrait à accumulation.
+
+3. Conditions pour la délivrance de certificats :
+
+Le coefficient de performance (COPdhw), mesuré selon la norme EN 161 47, est égal ou supérieur à 2,5.
+
+Les profils de puisage à considérer sont les profils adaptés à des volumes de stockage supérieurs à 400 litres, suivant le règlement n° 814/2013 de mise en application de la directive 2009/125/ CE du 21 octobre 2009 établissant un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 16 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT EN KWH CUMAC |
+
+|
+
+NOMBRE D'APPARTEMENTS |
+
+16 800 |
 
 x
 

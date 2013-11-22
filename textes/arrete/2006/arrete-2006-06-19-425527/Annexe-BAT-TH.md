@@ -1208,9 +1208,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT UNITAIRE EN kWh CUMAC/m²
-
-|
+MONTANT UNITAIRE EN kWh CUMAC/m² |
 
 |
 
@@ -1392,9 +1390,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT UNITAIRE EN kWh CUMAC/m²
-
-|
+MONTANT UNITAIRE EN kWh CUMAC/m² |
 
 |
 
@@ -1762,9 +1758,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT UNITAIRE EN kWh CUMAC/m²
-
-|
+MONTANT UNITAIRE EN kWh CUMAC/m² |
 
 |
 
@@ -2220,17 +2214,15 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-08
 
-Programmateur d'intermittence sur une chaudière existante
-
-pour un chauffage collectif
+Programmateur d'intermittence pour un chauffage central
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m ².
 
 2. Dénomination :
 
-Mise en place d'un programmateur d'intermittence à heures fixes sur un circuit de chauffage existant pour un système de chauffage collectif.
+Mise en place d'un programmateur d'intermittence à heures fixes sur un circuit de chauffage existant pour un système de chauffage central existant.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -2240,7 +2232,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT UNITAIRE EN kWh CUMAC PAR M²
+MONTANT UNITAIRE (EN kWh CUMAC PAR M²)
 
 |
 
@@ -2404,17 +2396,17 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-08-GT
 
-Programmateur d'intermittence sur une chaudière existante
+Programmateur d'intermittence pour un chauffage central
 
-pour un chauffage collectif dans un bâtiment de grande taille
+dans un bâtiment de grande taille
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m ² et 10 000 m ².
 
 2. Dénomination :
 
-Mise en place d'un programmateur d'intermittence à heures fixes sur un circuit de chauffage existant pour un système de chauffage collectif.
+Mise en place d'un programmateur d'intermittence à heures fixes sur un circuit de chauffage existant pour un système de chauffage central existant.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -2424,7 +2416,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT UNITAIRE EN kWh CUMAC PAR M²
+MONTANT UNITAIRE (EN kWh CUMAC PAR M²)
 
 |
 
@@ -2588,15 +2580,15 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-09
 
-Optimiseur de relance pour un chauffage collectif
+Optimiseur de relance pour un chauffage central
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m ².
 
 2. Dénomination :
 
-Mise en place, sur un circuit de chauffage existant, d'un optimiseur de relance équipé d'un programmateur d'intermittence avec autoadaptation des horaires de changement de phase de chauffage pour un système de chauffage collectif.
+Mise en place, sur un circuit de chauffage existant, d'un optimiseur de relance équipé d'un programmateur d'intermittence avec autoadaptation des horaires de changement de phase de chauffage pour un système de chauffage central existant.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -2606,7 +2598,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT UNITAIRE EN kWh CUMAC PAR M²
+MONTANT UNITAIRE (EN kWh CUMAC PAR M²)
 
 |
 
@@ -2764,17 +2756,17 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-09-GT
 
-Optimiseur de relance pour un chauffage collectif
+Optimiseur de relance pour un chauffage central
 
 dans un bâtiment de grande taille
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
+Bâtiments tertiaires : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
 
 2. Dénomination :
 
-Mise en place, sur un circuit de chauffage existant, d'un optimiseur de relance équipé d'un programmateur d'intermittence avec autoadaptation des horaires de changement de phase de chauffage pour un système de chauffage collectif.
+Mise en place, sur un circuit de chauffage existant, d'un optimiseur de relance équipé d'un programmateur d'intermittence avec autoadaptation des horaires de changement de phase de chauffage pour un système de chauffage central existant.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -2784,9 +2776,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT UNITAIRE EN kWh CUMAC PAR M²
-
-|
+MONTANT UNITAIRE (EN kWh CUMAC PAR M²) |
 
 |
 
@@ -4544,63 +4534,47 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-15
 
-Climatiseur de classe A (France d'outre-mer)
+Climatiseur performant (France d'outre-mer)
 
 1. Secteur d'application :
 
-Bâtiments tertiaires existants ou neufs de surface totale climatisée inférieure ou égale à 10 000 m², en France d'outre-mer.
+Bâtiments tertiaires : locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale inférieure ou égale à 10 000 m ², en France d'outre-mer.
 
 2. Dénomination :
 
-Mise en place d'un climatiseur fixe de classe A, individuel (monosplit) ou regroupé (multisplit), pour des applications dont les besoins en climatisation sont inférieurs à 50 kW froid.
+Remplacement d'un climatiseur existant par un climatiseur fixe de classe A à A + + +.
 
 3. Conditions pour la délivrance de certificats :
 
-L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+Le climatiseur est de classe A à A + + +, selon la classification définie dans le règlement délégué (UE) n° 626/2011 de la Commission européenne du 4 mai 2011. Ce climatiseur est individuel (monosplit) ou regroupé (multisplit), pour des applications dont les besoins en climatisation sont inférieurs à 50 kW froid.
 
-Mise en place par un professionnel.
+L'appareil a une certification Eurovent ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+Une attestation de dépose de l'ancien climatiseur doit être fournie par le professionnel.
+
+La mise en place doit être postérieure au 1er janvier 2013.
 
 4. Durée de vie conventionnelle : 9 ans.
 
 5. Montant de certificats en kWh cumac :
 
-SECTEUR D'ACTIVITÉ
+Secteur d'activité |
 
-|
-
-3,2 < EER (1) < 4,5
-
-|
-
-4,5 ≤ EER
-
-|
+MONTANT (EN kWH CUMAC) |
 
 |
 
 PUISSANCE
 
-de l'appareil (BTU/h)
-
-|
+de l'appareil (BTU/ h) |
 
 FACTEUR
 
-correctif
+correctif |
 
-|
-
-Bureaux
-
-|
-
-6 900
-
-|
-
-13 000
-
-|
+Classe d'efficacité énergétique de l'appareil |
 
 |
 
@@ -4612,19 +4586,29 @@ Bureaux
 
 |
 
-Enseignement
+A
 
-|
+5,1 ≤ SEER
 
-4 600
+< 5,6 |
 
-|
+A +
 
-8 300
+5,6 ≤ SEER
 
-|
+< 6,1 |
 
-×
+A + +
+
+6,1 ≤ SEER
+
+< 8,5 |
+
+A + + +
+
+SEER
+
+≥ 8,5 |
 
 |
 
@@ -4636,17 +4620,25 @@ Enseignement
 
 |
 
-Commerces
+Bureaux |
+
+12 900
 
 |
 
-11 000
+13 800
 
 |
 
-20 000
+14 500
 
 |
+
+16 800
+
+|
+
+x
 
 |
 
@@ -4658,15 +4650,21 @@ Commerces
 
 |
 
-Hôtellerie
+Enseignement |
+
+8 600
 
 |
 
-11 000
+9 200
 
 |
 
-20 000
+9 700
+
+|
+
+11 200
 
 |
 
@@ -4680,15 +4678,21 @@ Hôtellerie
 
 |
 
-Autres secteurs
+Commerce |
+
+20 700
 
 |
 
-4 600
+22 100
 
 |
 
-8 300
+23 300
+
+|
+
+27 000
 
 |
 
@@ -4702,9 +4706,21 @@ Autres secteurs
 
 |
 
-|
+Hôtels |
+
+20 800
 
 |
+
+22 300
+
+|
+
+23 500
+
+|
+
+27 200
 
 |
 
@@ -4718,9 +4734,21 @@ Autres secteurs
 
 |
 
-|
+Autres secteurs |
+
+8 800
 
 |
+
+9 400
+
+|
+
+9 900
+
+|
+
+11 400
 
 |
 
@@ -4738,19 +4766,13 @@ Autres secteurs
 
 |
 
-|
-
-|
-
 28 000
 
 |
 
-2,33
+2,33 |
 
-|
-
-(1) Energy efficiency ratio.
+SEER = Seasonal Energy Efficiency Ratio (rendement énergétique saisonnier).
 
 Certificats d'économies d'énergie
 
@@ -5552,47 +5574,117 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-21
 
-Chauffe-eau solaire (France d'outre-mer)
+Chauffe-eau solaire individuel (France d'outre-mer)
 
 1. Secteur d'application :
 
-Bâtiments tertiaires existants ou neufs de surface totale climatisée inférieure ou égale à 10 000 m², en France d'outre-mer.
+Bâtiments tertiaires existants ou neufs de surface totale inférieure ou égale à 10 000 m ², en France d'outre-mer.
 
 2. Dénomination :
 
-Mise en place d'un chauffe-eau solaire de type individuel (CESI).
+Mise en place de chauffe-eau solaires de type individuel (CESI) en France d'outre-mer.
 
 3. Conditions pour la délivrance de certificats :
 
-Les appareils ont des caractéristiques de performances validées :
+Pour les opérations engagées jusqu'au 30 juin 2014, les appareils ont une certification CSTBat ou des caractéristiques de performances et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
-- soit par la marque de certification : CSTBat ;
+La certification porte :
 
-- soit par la marque de certification : Solarkeymark ;
+- sur la globalité du système pour les appareils à thermosiphon ;
 
-- soit par la marque de certification : NFCESI ;
+- sur les capteurs pour les appareils à circulation forcée.
 
-- soit par des caractéristiques de performances et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+Le taux de couverture solaire T doit être supérieur à 50 %.
 
-Le dimensionnement de l'installation est réalisé par un bureau d'études.
+Pour les opérations engagées à partir du 1er juillet 2014, les appareils ont une certification CSTBat mention DOM ou des caractéristiques de performances et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Ces équivalences mentionnent notamment les tests relatifs :
+
+- à la résistance à l'arrachement ;
+
+- à la corrosion ;
+
+- au vieillissement.
+
+Exigences concernant le dimensionnement des installations individuelles :
+
+SURFACE DE CAPTEURS INSTALLÉS |
+
+TYPE D'ÉTUDE EXIGÉE |
+
+2 m² < S ≤ 8 m² |
+
+Etude TRANSOL, SOLO ou équivalent réalisée par le professionnel |
 
 Mise en place réalisée, à la date de la réalisation de l'opération, par un professionnel :
 
-- titulaire de l'appellation Qualisol ;
+- titulaire de l'appellation Qualisol ; ou
 
-- ou signataire de la charte Soleyeko ;
+- signataire de la charte Soleyeko ; ou
 
-- ou disposer d'une qualification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
+- disposant d'une qualification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
 
-4. Durée de vie conventionnelle : 12 ans.
+4. Durée de vie conventionnelle : 15 ans.
 
 5. Montant de certificats en kWh cumac :
 
-SECTEUR D'ACTIVITÉ |
+Secteur d'activité |
 
-MONTANT EN kWh CUMAC/m²
+MONTANT UNITAIRE
 
-de capteurs posés
+(en kWh cumac/ m ²)
+
+|
+
+|
+
+Bâtiment
+
+existant |
+
+Bâtiment neuf |
+
+|
+
+|
+
+Réunion
+
+et Mayotte |
+
+Guyane |
+
+Martinique, Guadeloupe
+
+et collectivités
+
+d'outre-
+
+mer (COM) (*) |
+
+|
+
+Guadeloupe |
+
+Autres |
+
+|
+
+|
+
+Hôtellerie, restauration
+
+|
+
+4 200
+
+|
+
+4 900
+
+|
+
+4 500
 
 |
 
@@ -5600,9 +5692,31 @@ de capteurs posés
 
 |
 
-Hôtellerie, hébergement |
+|
 
-4 300
+|
+
+|
+
+|
+
+Santé
+
+|
+
+6 900
+
+|
+
+8 100
+
+|
+
+7 500
+
+|
+
+x
 
 |
 
@@ -5610,45 +5724,135 @@ Hôtellerie, hébergement |
 
 |
 
-Santé, prisons |
-
-7 300 |
-
 |
 
+x
+
 |
-
-Enseignement |
-
-3 600 |
-
-× |
 
 S |
 
-Bureaux |
+Enseignement
 
-4 700 |
+|
+
+3 500
+
+|
+
+4 000
+
+|
+
+3 800
 
 |
 
 |
 
-Commerces |
+|
 
-6 200 |
+|
 
 |
 
 |
 
-Autres secteurs |
+|
 
-3 600 |
+Bureaux
+
+|
+
+4 500
+
+|
+
+5 300
+
+|
+
+4 900
 
 |
 
 |
+
+1
+
+|
+
+(1-1/ (2T))
+
+|
+
+1
+
+|
+
+|
+
+|
+
+Commerces
+
+|
+
+5 800
+
+|
+
+6 900
+
+|
+
+6 400
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres secteurs
+
+|
+
+3 500
+
+|
+
+4 000
+
+|
+
+3 800
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+T (%) est le taux de couverture par l'énergie solaire de l'installation.
+
+(*) Uniquement pour les COM éligibles au dispositif des CEE.
 
 Certificats d'économies d'énergie
 
@@ -5750,7 +5954,7 @@ Ventilation mécanique modulée proportionnelle
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants, réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieur à 5 000 m ².
 
 2. Dénomination :
 
@@ -5758,7 +5962,7 @@ Mise en place d'une ventilation mécanique modulée proportionnelle (simple flux
 
 3. Conditions pour la délivrance de certificats :
 
-Le système de ventilation bénéficie d'un avis technique en cours de validité du CSTB ou dispose de caractéristiques de performance et de qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+Le système de ventilation bénéficie d'un avis technique en cours de validité du CSTB ou dispose de caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
@@ -5768,9 +5972,7 @@ Le système proportionnel asservit le débit de ventilation en fonction du nombr
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT
-
-en kWh cumac/m²
+MONTANT (EN kWH CUMAC PAR M ²)
 
 |
 
@@ -5894,10 +6096,6 @@ H3
 
 Autres locaux
 
-(notamment locaux
-
-sportifs)
-
 |
 
 0,2
@@ -5918,7 +6116,7 @@ dans un bâtiment de grande taille
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m ² et 10 000 m ².
 
 2. Dénomination :
 
@@ -5926,7 +6124,7 @@ Mise en place d'une ventilation mécanique modulée proportionnelle (simple flux
 
 3. Conditions pour la délivrance de certificats :
 
-Le système de ventilation bénéficie d'un avis technique en cours de validité du CSTB ou dispose de caractéristiques de performance et de qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+Le système de ventilation bénéficie d'un avis technique en cours de validité du CSTB ou dispose de caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
@@ -5936,7 +6134,7 @@ Le système proportionnel asservit le débit de ventilation en fonction du nombr
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT EN kWh CUMAC PAR M²
+MONTANT (EN kWh CUMAC PAR M²)
 
 |
 
@@ -5958,9 +6156,9 @@ correctif
 
 |
 
-SURFACE
+SURFACE VENTILÉE
 
-ventilée (m²)
+(m²)
 
 |
 
@@ -6062,7 +6260,7 @@ Ventilation mécanique modulée à détection de présence
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m ².
 
 2. Dénomination :
 
@@ -6070,7 +6268,7 @@ Mise en place d'une ventilation mécanique modulée à détection de présence (
 
 3. Conditions pour la délivrance de certificats :
 
-Le système de ventilation bénéficie d'un avis technique en cours de validité du CSTB ou dispose de caractéristiques de performance et de qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+Le système de ventilation bénéficie d'un avis technique en cours de validité du CSTB ou dispose de caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
@@ -6078,9 +6276,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT
-
-en kWh cumac/m²
+MONTANT (EN kWH CUMAC PAR M ²)
 
 |
 
@@ -6098,9 +6294,9 @@ correctif
 
 |
 
-SURFACE
+SURFACE VENTILÉE
 
-ventilée (m²) |
+(m ²) |
 
 Zone climatique
 
@@ -6144,7 +6340,7 @@ H1
 
 |
 
-Salles d'un volume
+Salles de volume
 
 supérieur à 250 m³
 
@@ -6172,7 +6368,7 @@ Enseignement
 
 |
 
-0,4
+0,3
 
 |
 
@@ -6194,10 +6390,6 @@ H3
 
 Autres locaux
 
-(notamment locaux
-
-sportifs)
-
 |
 
 0,2
@@ -6218,7 +6410,7 @@ dans un bâtiment de grande taille
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
+Locaux du secteur tertiaire existants réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m ² et 10 000 m ².
 
 2. Dénomination :
 
@@ -6226,7 +6418,7 @@ Mise en place d'une ventilation mécanique modulée à détection de présence (
 
 3. Conditions pour la délivrance de certificats :
 
-Le système de ventilation bénéficie d'un avis technique en cours de validité du CSTB ou dispose de caractéristiques de performance et de qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de l'European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+Le système de ventilation bénéficie d'un avis technique en cours de validité du CSTB ou dispose de caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
@@ -6234,9 +6426,7 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT
-
-en kWh cumac/m²
+MONTANT (EN kWH CUMAC PAR M ²)
 
 |
 
@@ -6258,9 +6448,11 @@ correctif
 
 |
 
-SURFACE
+SURFACE VENTILÉE
 
-ventilée (m²) |
+(m ²)
+
+|
 
 Zone climatique |
 
@@ -6320,7 +6512,7 @@ H2
 
 Enseignement |
 
-0,4 |
+0,3 |
 
 |
 
@@ -6644,7 +6836,7 @@ Ventilation mécanique contrôlée double flux avec échangeur
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants, réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m².
+Locaux du secteur tertiaire existants, réservés à une utilisation professionnelle, de surface totale chauffée inférieure à 5 000 m ².
 
 2. Dénomination :
 
@@ -6652,17 +6844,15 @@ Mise en place d'une ventilation mécanique contrôlée double flux avec échange
 
 3. Conditions pour la délivrance de certificats :
 
-Mise en place réalisée par un professionnel.
+Une attestation indiquant une efficacité d'échange de 65 %, calculée selon la norme NF E 51763, et une consommation maximale par ventilateur (filtres et échangeurs inclus) de 0,35 W/ (m ³/ h) est fournie par l'installateur.
 
-Une attestation indiquant une efficacité d'échange de 65 %, calculée selon la norme NF EN 51763, et une consommation maximale par ventilateur (filtres et échangeurs inclus) de 0,35 W/(m3/h) est fournie par l'installateur.
+Mise en place réalisée par un professionnel.
 
 4. Durée de vie conventionnelle : 16 ans.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT
-
-en kWh cumac/m²
+MONTANT (EN kWH CUMAC PAR M ²)
 
 |
 
@@ -6680,9 +6870,9 @@ correctif
 
 |
 
-SURFACE
+SURFACE VENTILÉE
 
-ventilée (m²) |
+(m ²) |
 
 Zone climatique
 
@@ -6726,7 +6916,7 @@ H1
 
 |
 
-Salles d'un volume
+Salles de volume
 
 supérieur à 250 m³
 
@@ -6754,7 +6944,7 @@ Enseignement
 
 |
 
-0,4
+0,3
 
 |
 
@@ -6786,10 +6976,6 @@ Restauration |
 
 Autres locaux
 
-(notamment locaux
-
-sportifs)
-
 |
 
 0,2
@@ -6804,13 +6990,13 @@ Certificats d'économies d'énergie
 
 Opération n° BAT-TH-26-GT
 
-Ventilation mécanique contrôlée double flux avec échangeur
+Ventilation mécanique contrôlée double flux
 
-dans un bâtiment de grande taille
+avec échangeur dans un bâtiment de grande taille
 
 1. Secteur d'application :
 
-Locaux du secteur tertiaire existants, réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m² et 10 000 m².
+Locaux du secteur tertiaire existants, réservés à une utilisation professionnelle, de surface totale chauffée comprise entre 5 000 m ² et 10 000 m ².
 
 2. Dénomination :
 
@@ -6820,15 +7006,13 @@ Mise en place d'une ventilation mécanique contrôlée double flux avec échange
 
 Mise en place réalisée par un professionnel.
 
-Une attestation indiquant une efficacité d'échange de 65 %, calculée selon la norme NF EN 51763, et une consommation maximale par ventilateur (filtres et échangeurs inclus) de 0,35 W/(m³/h) est fournie par l'installateur.
+Une attestation indiquant une efficacité d'échange de 65 %, calculée selon la norme NF E 51763, et une consommation maximale par ventilateur (filtres et échangeurs inclus) de 0,35 W/ (m ³/ h) est fournie par l'installateur.
 
 4. Durée de vie conventionnelle : 16 ans.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT
-
-en kWh cumac/m²
+MONTANT (EN kWH CUMAC PAR M ²)
 
 |
 
@@ -6846,9 +7030,9 @@ correctif
 
 |
 
-SURFACE
+SURFACE VENTILÉE
 
-ventilée (m²) |
+(m ²) |
 
 Zone climatique |
 
@@ -6908,7 +7092,7 @@ H2
 
 Enseignement |
 
-0,4 |
+0,3 |
 
 |
 
@@ -6966,11 +7150,11 @@ Raccordement d'un bâtiment tertiaire existant à un réseau de chaleur aliment�
 
 3. Conditions pour la délivrance de certificats :
 
-Descriptif du réseau de chaleur à fournir : moyens de production et énergies utilisées sur les 3 dernières années, en précisant les éléments spécifiques aux énergies renouvelables ou de récupération.
+Descriptif du réseau de chaleur à fournir : moyens de production et énergies utilisées (en précisant les éléments spécifiques aux énergies renouvelables ou de récupération).
 
 Mise en place réalisée par un professionnel.
 
-Application de cette opération non cumulable simultanément avec l'application de l'opération standardisée RES-CH-01 (production de chaleur renouvelable ou de récupération en réseau (France métropolitaine)).
+Application de cette opération non cumulable avec l'application de l'opération standardisée RES-CH-01 Production de chaleur renouvelable en réseau ou de récupération (France métropolitaine) .
 
 4. Durée de vie conventionnelle : 20 ans.
 
@@ -7000,7 +7184,7 @@ d'activité |
 
 FACTEUR
 
-correctif |
+d'occupation |
 
 |
 
@@ -7160,7 +7344,7 @@ Autres secteurs |
 
 |
 
-T (%) = part des besoins annuels du réseau couverts par les énergies renouvelables ou de récupération après ce nouveau raccordement.
+T (%) = part des besoins annuels du réseau couverts par les énergies renouvelables ou de récupération au sein du réseau de chaleur après ce nouveau raccordement. Il est fourni par le gestionnaire du réseau et est calculé selon l'arrêté du 22 décembre 2012 relatif au classement des réseaux de chaleur et de froid.
 
 Certificats d'économies d'énergie
 
@@ -8478,9 +8662,7 @@ Initiale (°C) |
 
 |
 
-CTcd Ini
-
-|
+CTcd Ini |
 
 1,00 |
 
@@ -8598,9 +8780,7 @@ Initiale (°C) |
 
 |
 
-CTcd Ini
-
-|
+CTcd Ini |
 
 1,00 |
 
@@ -8982,21 +9162,15 @@ Mise en place réalisée par un professionnel.
 
 Récupération pour valorisation en eau chaude sanitaire (ECS) |
 
-22 500 x Pcompresseur(s)
-
-|
+22 500 x Pcompresseur(s) |
 
 Récupération pour valorisation en chauffage |
 
-55 100 x Pcompresseur(s)
-
-|
+55 100 x Pcompresseur(s) |
 
 Récupération pour valorisation en ECS et en chauffage |
 
-63 900 x Pcompresseur(s)
-
-|
+63 900 x Pcompresseur(s) |
 
 Pcompresseur(s) est la puissance électrique indiquée sur la plaque du ou des compresseurs en kWél ou dans les données techniques du fabricant.
 
@@ -9066,9 +9240,7 @@ d'activité
 
 0 ≤ S <
 
-5 000 m2
-
-|
+5 000 m2 |
 
 5 000 m2 ≤ S
 
@@ -10365,3 +10537,1185 @@ Oui, pour le chauffage des locaux ou l'ECS |
 |
 
 |
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-47
+
+Système hydro-économe
+
+(France métropolitaine)
+
+1. Secteur d'application :
+
+Bâtiments tertiaires en métropole.
+
+2. Dénomination :
+
+Mise en place de pommes de douche hydro-économes (débit réduit) ou mise en place de régulateurs de jets sur tout ou partie des points de puisage de type lavabo et douche.
+
+3. Conditions pour la délivrance de certificats :
+
+Le matériel choisi est répertorié dans les classes de débit suivantes :
+
+Pour les douches :
+
+- classe Z (7,2 à 12 litres/ minute) de la norme EN NF 1112 ; ou
+
+- classe ZZ (1,5 à 7,2 litres/ minute) de la norme EN NF 1112.
+
+Pour les lavabos/ éviers :
+
+- aérateurs non régulés de classe Z (7,5 à 9 litres/ minute) de la norme EN NF 246 ; ou
+
+- aérateurs autorégulés de débit inférieur à 7,5 litres/ minute de la norme américaine NSF A112. 18. 1M/ NSF 61 et ayant obtenu le label EPA watersense pour les débits inférieurs à 5,67 litres/ minute.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 6 ans.
+
+5. Montant de certificats en kWh cumac :
+
+DOUCHES |
+
+|
+
+SECTEUR D'ACTIVITÉ |
+
+|
+
+NOMBRE DE SYSTÈMES
+
+mis en place |
+
+Classe Z |
+
+1 850
+
+|
+
+|
+
+Santé |
+
+0,7 |
+
+|
+
+|
+
+|
+
+|
+
+x
+
+|
+
+Hôtellerie, restauration |
+
+1 |
+
+x
+
+|
+
+N
+
+|
+
+Classe ZZ |
+
+3 100
+
+|
+
+|
+
+Etablissements sportifs |
+
+2,7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres secteurs |
+
+0,7
+
+|
+
+|
+
+|
+
+ÉVIERS OU LAVABOS |
+
+|
+
+SECTEUR D'ACTIVITÉ |
+
+FACTEUR CORRECTIF |
+
+|
+
+NOMBRE DE SYSTÈMES
+
+mis en place
+
+|
+
+Aérateurs non régulés classe Z |
+
+510
+
+|
+
+|
+
+Bureaux |
+
+1,9 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Enseignement |
+
+2,8
+
+|
+
+|
+
+|
+
+|
+
+|
+
+x
+
+|
+
+Commerces |
+
+2,5
+
+|
+
+X
+
+|
+
+N |
+
+|
+
+|
+
+|
+
+Hôtellerie, restauration |
+
+0,7
+
+|
+
+|
+
+|
+
+Aérateurs auto-régulés |
+
+950 |
+
+|
+
+Santé |
+
+1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Etablissements sportifs |
+
+2,7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres secteurs |
+
+0,7
+
+|
+
+|
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-48
+
+Système hydro-économe
+
+(France d'outre-mer)
+
+1. Secteur d'application :
+
+Bâtiments tertiaires en France d'outre-mer.
+
+2. Dénomination :
+
+Mise en place de pommes de douche hydro-économes (débit réduit) ou mise en place de régulateurs de jets sur tout ou partie des points de puisage de type lavabo/ évier et douche.
+
+3. Conditions pour la délivrance de certificats :
+
+Le matériel choisi doit être répertorié dans les classes de débit suivantes :
+
+Pour les douches :
+
+- classe Z (7,2 à 12 litres/ minute) de la norme EN NF 1112 ; ou
+
+- classe ZZ (1,5 à 7,2 litres/ minute) de la norme EN NF 1112.
+
+Pour les lavabos/ éviers :
+
+- aérateurs non régulés de classe Z (7,5 à 9 litres/ minute) de la norme EN NF 246 ; ou
+
+- aérateurs auto-régulés de débit inférieur à 7,5 litres/ minute de la norme américaine NSF A112. 18. 1M/ NSF 61 et ayant obtenu le label "EPA watersense" pour les débits inférieurs à 5,67 litres/ minute.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 6 ans.
+
+5. Montant de certificats en kWh cumac :
+
+DOUCHES |
+
+|
+
+SECTEUR D'ACTIVITÉ
+
+|
+
+|
+
+|
+
+NOMBRE DE SYSTÈMES
+
+mis en place |
+
+Classe Z |
+
+650 |
+
+|
+
+Santé |
+
+0,7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+x
+
+|
+
+Hôtellerie, restauration |
+
+1 |
+
+x
+
+|
+
+N
+
+|
+
+Classe ZZ |
+
+1 100
+
+|
+
+|
+
+Etablissements sportifs |
+
+2,7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres secteurs |
+
+0,7
+
+|
+
+|
+
+|
+
+ÉVIERS OU LAVABOS |
+
+|
+
+SECTEUR D'ACTIVITÉ
+
+|
+
+FACTEUR CORRECTIF |
+
+|
+
+NOMBRE DE SYSTÈMES
+
+mis en place |
+
+Aérateurs non régulés classe Z |
+
+200
+
+|
+
+|
+
+Bureaux |
+
+1,9
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Enseignement |
+
+2,8 |
+
+|
+
+|
+
+|
+
+|
+
+x
+
+|
+
+Commerces |
+
+2,5 |
+
+x
+
+|
+
+N |
+
+|
+
+|
+
+|
+
+Hôtellerie, restauration |
+
+0,7 |
+
+|
+
+|
+
+Aérateurs auto-régulés |
+
+350
+
+|
+
+|
+
+Santé |
+
+1 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Etablissements sportifs |
+
+2,7 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres secteurs |
+
+0,7 |
+
+|
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-49
+
+Unité de chauffage au gaz en toiture
+
+à haute efficacité énergétique
+
+1. Secteur d'application :
+
+Bâtiments tertiaires : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
+
+2. Dénomination :
+
+Mise en place d'une unité de chauffage en toiture (Roof Top) à haute efficacité énergétique alimentée par un brûleur gaz.
+
+3. Conditions pour la délivrance de certificats :
+
+Le roof top doit pouvoir condenser. En conséquence, il est équipé :
+
+- soit d'un brûleur modulant permettant la condensation des fumées à puissance intermédiaire ;
+
+- soit d'un deuxième échangeur permettant la condensation des fumées à Pmax.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 21 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT EN KWH
+
+cumac/ kW
+
+par puissance installée |
+
+|
+
+PUISSANCE
+
+en kW |
+
+|
+
+ZONE CLIMATIQUE |
+
+FACTEUR
+
+correctif |
+
+|
+
+SECTEUR
+
+d'activité |
+
+FACTEUR
+
+correctif |
+
+2 850
+
+|
+
+x
+
+|
+
+P
+
+|
+
+|
+
+H1
+
+|
+
+1,1 |
+
+|
+
+Commerces |
+
+1
+
+|
+
+|
+
+H2
+
+|
+
+0,9 |
+
+x
+
+|
+
+Autres secteurs |
+
+0,7 |
+
+|
+
+H3
+
+|
+
+0,6 |
+
+|
+
+|
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-50
+
+Raccordement d'un bâtiment tertiaire
+
+à un réseau de froid
+
+1. Secteur d'application :
+
+Bâtiments tertiaires existants.
+
+2. Dénomination :
+
+Raccordement d'un bâtiment tertiaire à un réseau de froid.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 25 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Montant en kWh cumac = [α - (β/ COPré)] × Fc × P
+
+Avec :
+
+SECTEUR D'ACTIVITÉ |
+
+α
+
+|
+
+β
+
+|
+
+|
+
+ZONE CLIMATIQUE |
+
+FACTEUR CLIMATIQUE (Fc) |
+
+Data centers |
+
+44 038 |
+
+105 250 |
+
+|
+
+|
+
+|
+
+Musées
+
+|
+
+33 542 |
+
+80 166 |
+
+|
+
+H1 et H2 |
+
+1
+
+|
+
+Santé |
+
+44 038 |
+
+105 250 |
+
+x
+
+|
+
+|
+
+|
+
+Commerces |
+
+19 083 |
+
+45 608 |
+
+|
+
+|
+
+|
+
+Bureaux |
+
+10 275 |
+
+24 558 |
+
+|
+
+|
+
+|
+
+Hôtellerie, restauration |
+
+17 615 |
+
+42 100 |
+
+|
+
+H3
+
+|
+
+2
+
+|
+
+Autres secteurs |
+
+8 367 |
+
+19 998 |
+
+|
+
+|
+
+|
+
+Où COPré du réseau de froid est la valeur du COP est attestée par l'enquête annuelle du Syndicat national du chauffage urbain (SNCU) et P est la puissance souscrite par l'abonné en kW.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-51
+
+Raccordement d'un bâtiment tertiaire à un réseau de froid alimenté par des énergies renouvelables marines (France d'outre-mer)
+
+1. Secteur d'application :
+
+Bâtiments tertiaires en France d'outre-mer.
+
+2. Dénomination :
+
+Raccordement d'un bâtiment tertiaire à un réseau de froid alimenté par des énergies renouvelables marines.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT UNITAIRE
+
+en KWH cumac/ m ² |
+
+|
+
+SURFACE
+
+climatisée
+
+(m ²)
+
+|
+
+|
+
+SECTEUR D'ACTIVITÉ |
+
+FACTEUR
+
+d'occupation |
+
+|
+
+MULTISPLIT |
+
+|
+
+|
+
+|
+
+Avec (**) |
+
+Sans |
+
+La Réunion |
+
+800 |
+
+|
+
+|
+
+|
+
+Enseignement |
+
+0,7
+
+|
+
+|
+
+|
+
+|
+
+Martinique, Guadeloupe et
+
+collectivités d'outre-mer (*) |
+
+900 |
+
+x
+
+|
+
+S |
+
+x
+
+|
+
+Commerces |
+
+1,3 |
+
+x
+
+|
+
+3 |
+
+1
+
+|
+
+Guyane |
+
+1 000
+
+|
+
+|
+
+|
+
+|
+
+Santé, hébergement |
+
+1,6 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Bureau |
+
+1 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres secteurs |
+
+0,7 |
+
+|
+
+|
+
+|
+
+(*) Uniquement pour les collectivités d'outre-mer éligibles au dispositif des CEE.
+
+(**) Dans le cas où le local était climatisé par un système multisplit avant d'être raccordé, les gains sont multipliés par un facteur 3.
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-TH-52
+
+Chauffe-eau solaire collectif
+
+(France d'outre-mer)
+
+1. Secteur d'application :
+
+Bâtiments tertiaires existants ou neufs de surface totale inférieureou égale à 10 000 m ², en France d'outre-mer.
+
+2. Dénomination :
+
+Mise en place d'une installation solaire collective de production d'eau chaude sanitaire en France d'outre-mer.
+
+3. Conditions pour la délivrance de certificats :
+
+Pour les opérations engagées jusqu'au 30 juin 2014, les capteurs ont une certification CSTBat ou des caractéristiques de performances et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Pour les opérations engagées à partir du 1er juillet 2014, les capteurs auront une certification CSTBat mention DOM ou des caractéristiques de performances et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+Ces équivalences mentionneront notamment les tests relatifs :
+
+- la résistance à l'arrachement ;
+
+- à la corrosion ;
+
+- au vieillissement.
+
+Exigences concernant le dimensionnement de l'installation :
+
+SURFACE DE CAPTEURS
+
+installés |
+
+TYPE D'ÉTUDE EXIGÉE À JOINDRE
+
+à la demande
+
+|
+
+8 m ² ≤ S ≤ 25 m ² |
+
+Etude TRANSOL, SOLO ou équivalente réalisée par le professionnel |
+
+S > 25 m ² |
+
+Dimensionnement réalisé par un bureau d'études |
+
+Mise en place réalisée par un professionnel.
+
+Le taux de couverture par l'énergie solaire de l'installation est compris entre 50 % et 80 % inclus.
+
+4. Durée de vie conventionnelle : 18 ans.
+
+5. Montant de certificats en kWh cumac :
+
+SECTEUR
+
+d'activité
+
+|
+
+MONTANT UNITAIRE EN KWH CUMAC/ M ² |
+
+|
+
+BÂTIMENT
+
+existant |
+
+BÂTIMENT NEUF |
+
+|
+
+SURFACE DE
+
+capteurs posés
+
+(m ²)
+
+|
+
+Réunion
+
+Mayotte |
+
+Guyane |
+
+Martinique
+
+Guadeloupe
+
+et collectivités
+
+d'outre-mer (*) |
+
+|
+
+Guadeloupe |
+
+Autres (*) |
+
+|
+
+Hôtellerie/ restauration |
+
+4 700 |
+
+5 500 |
+
+5 200 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Santé |
+
+7 900 |
+
+9 200
+
+|
+
+8 600 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Enseignement |
+
+3 900
+
+|
+
+4 600 |
+
+4 300 |
+
+x |
+
+1 |
+
+(1-1/ [2T]) |
+
+1 |
+
+x
+
+|
+
+S
+
+|
+
+Bureaux |
+
+5 100
+
+|
+
+6 000 |
+
+5 600 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Commerces |
+
+6 700
+
+|
+
+8 500
+
+|
+
+7 300 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Autres secteurs |
+
+3 900
+
+|
+
+4 600
+
+|
+
+4 300 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Avec T (%) = taux de couverture par l'énergie solaire de l'installation.
+
+(*) Uniquement pour les collectivités d'outre-mer éligibles au dispositif des CEE.

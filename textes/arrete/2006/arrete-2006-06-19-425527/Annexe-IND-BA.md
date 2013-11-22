@@ -42,15 +42,51 @@ Installation d'un luminaire sodium ou iodure avec ballast électronique sur un d
 
 Sans objet.
 
-4. Durée de vie conventionnelle :
-
-15 ans.
+4. Durée de vie conventionnelle : 15 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+MODE DE FONCTIONNEMENT DU SITE |
 
-n° 156 du 07/07/2006 texte numéro 28
+PUISSANCE P DU LUMINAIRE |
+
+P ≤ 70 W |
+
+70 < P < 250 W |
+
+P ≥ 250 W |
+
+1 × 8 |
+
+1 700 |
+
+3 300 |
+
+5 300 |
+
+2 × 8 |
+
+3 200 |
+
+6 200 |
+
+9 800 |
+
+3 × 8 avec arrêt le week-end |
+
+3 900 |
+
+7 600 |
+
+12 000 |
+
+3 × 8 sans arrêt le week-end |
+
+5 300 |
+
+10 000 |
+
+17 000 |
 
 Certificats d'économies d'énergie
 
@@ -458,7 +494,7 @@ Certificats d'économies d'énergie
 
 Opération n° IND-BA-11
 
-Luminaire avec ballast efficace avec ou sans système
+Luminaire avec ballast performant avec ou sans système
 
 de gestion sur un dispositif d'éclairage
 
@@ -468,21 +504,23 @@ Industrie.
 
 2. Dénomination :
 
-Installation d'un luminaire avec ballast associé ou non à un dispositif de contrôle utilisant la détection de présence ou/et la variation automatique de la puissance du luminaire en fonction des apports naturels de lumière.
+Installation d'un luminaire avec ballast performant associé ou non à un dispositif de contrôle utilisant la détection de présence et/ ou la variation automatique de la puissance du luminaire en fonction des apports naturels de lumière.
 
 3. Conditions pour la délivrance de certificats :
 
-Le ballast a un indice d'efficacité énergétique au sens de la directive 2009/125/CE du Parlement européen et du Conseil du 21 octobre 2009 établissant un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie :
+Le ballast a un indice d'efficacité énergétique au sens du règlement 245/2009 du 18 mars 2009 mettant en œuvre la directive 2005/32/ CE du Parlement européen et du Conseil en ce qui concerne les exigences en matière d'écoconception :
 
-― A1 ou A1 bat pour les luminaires équipés d'un système de variation ;
+- A1 ou A1 bat pour les luminaires équipés d'un système de variation ;
 
-― A2 ou A2 bat pour les luminaires qui ne sont pas équipés d'un système de variation.
+- A2 ou A2 bat pour les luminaires qui ne sont pas équipés d'un système de variation.
 
-La puissance de l'installation correspond à la somme des puissances des nouveaux luminaires.
+La fiche s'applique uniquement aux luminaires avec lampe à décharge.
 
 4. Durée de vie conventionnelle : 15 ans.
 
 5. Montant de certificats en kWh cumac :
+
+La puissance de l'installation correspond à la somme des puissances des nouveaux luminaires.
 
 MODE DE FONCTIONNEMENT DU SITE |
 
@@ -516,7 +554,11 @@ de l'installation
 
 |
 
-Luminaire avec ballast électronique |
+Luminaire dépourvu de système de variation
+
+automatique et de détecteur de présence
+
+|
 
 4 370
 
@@ -538,11 +580,9 @@ Luminaire avec ballast électronique |
 
 |
 
-Ballast électronique et variation automatique
+Luminaire pourvu de système de variation
 
-ou détecteur de présence
-
-|
+automatique ou de détecteur de présence |
 
 11 240
 
@@ -564,9 +604,9 @@ ou détecteur de présence
 
 P |
 
-Ballast électronique et variation automatique
+Luminaire pourvu de système de variation
 
-et détecteur de présence |
+automatique et de détecteur de présence |
 
 14 050
 
@@ -587,3 +627,269 @@ et détecteur de présence |
 |
 
 |
+
+Certificats d'économies d'énergie
+
+Opération n° IND-BA-12
+
+Système de récupération de chaleur
+
+sur une tour aéro-réfrigérante
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Mise en place d'un système de récupération de chaleur en amont d'une tour aéro-réfrigérante (TAR) pour le chauffage ou le préchauffage d'eau chaude sanitaire, de fluides de process, d'eau de chauffage ou d'air.
+
+3. Conditions pour la délivrance de certificats :
+
+Les systèmes de refroidissement industriel concernés par cette fichesont les suivants :
+
+- TAR humide en circuit fermé ou ouvert (aussi appelée tour de refroidissement) ;
+
+- TAR sèche en circuit fermé ou ouvert (aussi appelée aérocondenseurou dry-cooler) ;
+
+- TAR hybride (humide/ sèche) en circuit fermé ou ouvert.
+
+La puissance thermique évacuable à la tour Qtar (kW) doit être inférieure ou égale à 7 MW, en particulier les TAR des centrales de production d'électricité sont exclues du domaine d'application de la fiche.
+
+La puissance thermique évacuable est fournie par une note de calcul ou par la documentation technique du constructeur.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+|
+
+|
+
+RÉGIME DE FONCTIONNEMENT
+
+de l'installation
+
+(1) |
+
+|
+
+TYPE D'UTILISATION
+
+(2) |
+
+|
+
+|
+
+|
+
+|
+
+1 × 8 |
+
+0,25
+
+|
+
+|
+
+Process |
+
+0,95
+
+|
+
+|
+
+|
+
+Qtar (kW) |
+
+x |
+
+2 × 8 avec arrêt le week-end |
+
+0,49
+
+|
+
+x
+
+|
+
+Confort |
+
+0,5
+
+|
+
+x
+
+|
+
+38 885
+
+|
+
+|
+
+|
+
+2 × 8 sans arrêt le week-end
+
+|
+
+0,67 |
+
+|
+
+Mixte |
+
+0,85
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 × 8 avec arrêt le week-end
+
+|
+
+0,74
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3 × 8 sans arrêt le week-end
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Qtar est la puissance thermique évacuable de la tour aéro-réfrigérante en kW.
+
+(1) Les régimes horaires mentionnés dans le tableau ci-dessus correspondent au fonctionnement de l'installation de refroidissement et non pas au régime de travail du personnel.
+
+(2) Le type d'utilisation correspond à celui de la chaleur valorisée récupérée sur la tour aéroréfrigérante.
+
+Certificats d'économies d'énergie
+
+Opération n° IND-BA-13
+
+Lanterneaux d'éclairage zénithal
+
+1. Secteur d'application :
+
+Bâtiments industriels existants.
+
+2. Dénomination :
+
+Mise en place de lanterneaux d'éclairage zénithal.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise en place de :
+
+- lanterneaux ponctuels marqués CE suivant la norme européenne EN 1873 ;
+
+- ou de lanterneaux continus marqués CE suivant la norme européenne EN 14963.
+
+Ces lanterneaux possèdent des performances thermiques Urc (coefficient de conductance thermique) attestées par le marquage CE suivant EN 1873 ou EN 14963 :
+
+- pour les lanterneaux d'éclairage seul, Urc est inférieur ou égal à 2 W/ m ². K ;
+
+- pour les lanterneaux ouvrants et les lanterneaux continus, Urc estinférieur ou égal à 2,5 W/ m ². K.
+
+Leur remplissage est opalescent avec un taux de transmission lumineuse minimale de 45 %, suivant les mêmes normes.
+
+Mise en œuvre d'un pilotage de l'éclairage électrique en fonction des apports de lumière naturelle.
+
+Mise en œuvre réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT EN KWH CUMAC PAR M ² |
+
+|
+
+ZONE CLIMATIQUE |
+
+|
+
+|
+
+4 310
+
+|
+
+x
+
+|
+
+H1
+
+|
+
+0,85 |
+
+x
+
+|
+
+S
+
+|
+
+H2
+
+|
+
+1
+
+|
+
+H3
+
+|
+
+1,5
+
+|
+
+S = surface géométrique lumière en m ² (projection horizontale de la plus petite section de passage de la lumière naturelle).

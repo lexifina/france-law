@@ -1515,3 +1515,515 @@ Avec :
 DN : diamètre nominal de la tuyauterie aller.
 
 NE : non existant.
+
+Certificats d'économies d'énergie
+
+Opération n° RES-CH-07
+
+Isolation de points singuliers d'un réseau de chaleur
+
+1. Secteur d'application :
+
+Réseaux de chaleur et sous stations d'échanges existants.
+
+2. Dénomination :
+
+Installation d'un matelas isolant pour l'isolation de points singuliers (robinets, vannes, filtres, brides, etc.) existants sur les réseaux de fluides caloporteurs (sur le circuit primaire ou secondaire du réseau).
+
+3. Conditions pour la délivrance de certificats :
+
+La résistance thermique du matelas est supérieure ou égale à :
+
+1 m ². K/ W, si DN (diamètre nominal en mm de la tuyauterie sur laquelle figure le point singulier) ≤ 50 mm ;
+
+1,2 m ². K/ W, si 65 mm ≤ DN ≤ 125 mm ;
+
+1,5 m ². K/ W, si 150 mm ≤ DN ≤ 350 mm ;
+
+2 m ². K/ W, si DN > 350 mm.
+
+Mise en place réalisée par un professionnel.
+
+La valeur de la résistance thermique est attestée par le professionnel.
+
+Le matelas est souple et démontable.
+
+Doivent être fournis pour chaque demande :
+
+- la référence du matériel et du constructeur ;
+
+- le type de réseau concerné ;
+
+- la localisation de l'ouvrage concerné (sous-station, chambre de vanne, segment de canalisation) sous forme d'une adresse ou nom de canalisation ;
+
+- le nombre de points singuliers isolés et les diamètres associés.
+
+Un même ouvrage ne peut pas faire l'objet d'une demande de CEE de ce type plus d'une fois pendant la durée de vie conventionnelle de l'action.
+
+4. Durée de vie conventionnelle : 5 ans.
+
+5. Montant de certificats en kWh cumac :
+
+NOMBRE
+
+de points
+
+singuliers
+
+isolés |
+
+|
+
+DURÉE
+
+annuelle
+
+d'utilisation
+
+du réseau |
+
+FACTEUR
+
+d'utilisation |
+
+|
+
+MONTANT UNITAIRE EN KWH CUMAC/ POINT SINGULIER |
+
+|
+
+|
+
+12 mois |
+
+1 |
+
+|
+
+DN (*) |
+
+Vapeur (V) |
+
+ES (HP) |
+
+EAU (BP) |
+
+Retour/ circuit
+
+secondaire (R) |
+
+|
+
+|
+
+11 mois |
+
+0,92
+
+|
+
+|
+
+20
+
+|
+
+18 200 |
+
+11 100 |
+
+5 400 |
+
+3 500 |
+
+|
+
+|
+
+10 mois |
+
+0,83
+
+|
+
+|
+
+25
+
+|
+
+21 600 |
+
+13 100 |
+
+6 400 |
+
+4 200 |
+
+|
+
+|
+
+9 mois |
+
+0,75
+
+|
+
+|
+
+32
+
+|
+
+28 900 |
+
+17 500 |
+
+8 600 |
+
+5 600 |
+
+|
+
+|
+
+8 mois |
+
+0,67
+
+|
+
+|
+
+40
+
+|
+
+35 800 |
+
+21 700 |
+
+10 600 |
+
+6 900 |
+
+|
+
+|
+
+7 mois |
+
+0,58
+
+|
+
+|
+
+50
+
+|
+
+41 900 |
+
+25 300 |
+
+12 300 |
+
+8 000 |
+
+|
+
+|
+
+6 mois |
+
+0,5
+
+|
+
+|
+
+65
+
+|
+
+50 700 |
+
+30 500 |
+
+14 800 |
+
+9 700 |
+
+N
+
+|
+
+x
+
+|
+
+|
+
+|
+
+x
+
+|
+
+80
+
+|
+
+61 900 |
+
+37 200 |
+
+18 000 |
+
+11 800 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+100
+
+|
+
+82 200 |
+
+49 400 |
+
+23 900 |
+
+15 600 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+125
+
+|
+
+100 200 |
+
+60 000 |
+
+29 000 |
+
+19 000 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+150
+
+|
+
+137 100 |
+
+82 100 |
+
+39 600 |
+
+25 900 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+175
+
+|
+
+183 000 |
+
+109 300 |
+
+52 800 |
+
+34 400 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+200
+
+|
+
+232 200 |
+
+138 600 |
+
+66 900 |
+
+43 600 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+250
+
+|
+
+269 100 |
+
+160 300 |
+
+77 200 |
+
+50 400 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+300
+
+|
+
+350 300 |
+
+208 500 |
+
+100 300 |
+
+65 400 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+350
+
+|
+
+382 500 |
+
+227 300 |
+
+109 300 |
+
+71 300 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+400
+
+|
+
+475 000 |
+
+282 000 |
+
+135 500 |
+
+88 400 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+450
+
+|
+
+543 700 |
+
+322 500 |
+
+154 800 |
+
+101 000 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+500
+
+|
+
+622 000 |
+
+368 700 |
+
+176 900 |
+
+115 400 |
+
+(*) DN est le diamètre nominal en mm de la tuyauterie sur laquelle figure le point singulier.

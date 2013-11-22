@@ -68,19 +68,11 @@ Energie de chauffage
 
 |
 
-|
-
-|
-
 Electricité
 
 |
 
 Combustible
-
-|
-
-|
 
 |
 
@@ -1820,7 +1812,7 @@ Autres secteurs
 
 |
 
-Certificats d'économies d'énergie
+Certificats d''économies d'énergie
 
 Opération n° BAT-EN-06
 
@@ -1828,11 +1820,11 @@ Isolation de combles ou de toitures (France d'outre-mer)
 
 1. Secteur d'application :
 
-Bâtiments tertiaires existants ou neufs, réservés à une utilisation professionnelle, de surface totale chauffée inférieure ou égale à 10 000 m², en France d'outre-mer.
+Bâtiments tertiaires existants ou neufs, réservés à une utilisation professionnelle, de surface totale climatisée inférieure ou égale à 10 000 m², en France d'outre-mer.
 
 2. Dénomination :
 
-Mise en place d'une isolation thermique de résistance thermique R ≥ 1,2 m².K/W en comble ou en toiture.
+Mise en place d'une isolation thermique de résistance thermique R ≥ 1,2 m ². K/ W en comble ou en toiture.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -1840,11 +1832,11 @@ Les isolants ont des caractéristiques de performances validées :
 
 - soit par la marque de certification de produit ACERMI ;
 
-- soit par un avis technique valide du CSTB avec suivi CTAT (Comité technique de l'avis technique) ;
+- soit par un avis technique valide du CSTB avec suivi CTAT (comité technique de l'avis technique) ;
 
 - soit par un document technique d'application (DTA) valide du CSTB avec suivi CTAT ;
 
-- soit par un organisme dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+- soit par organisme dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
@@ -1854,15 +1846,15 @@ Mise en place réalisée par un professionnel.
 
 SECTEUR D'ACTIVITÉ |
 
-MONTANT EN kWh CUMAC/M²
+MONTANT (EN kWh CUMAC/M²
 
-d'isolant posé |
+d'isolant posé) |
 
 |
 
 SURFACE D'ISOLANT POSÉ
 
-m² |
+(m²) |
 
 Bureaux et enseignement
 
@@ -1880,7 +1872,7 @@ Commerces |
 
 |
 
-Tertiaire d'hébergement |
+Hébergement |
 
 3 000
 
@@ -2308,11 +2300,11 @@ Isolation des murs (France d'outre-mer)
 
 1. Secteur d'application :
 
-Bâtiments tertiaires existants ou neufs, réservés à une utilisation professionnelle, de surface totale chauffée inférieure ou égale à 10 000 m², en France d'outre-mer.
+Bâtiments tertiaires existants ou neufs, réservés à une utilisation professionnelle, de surface totale climatisée inférieure ou égale à 10 000 m ², en France d'outre-mer.
 
 2. Dénomination :
 
-Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 1,2 m².K/W.
+Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 1,2 m ². K/ W.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -2320,11 +2312,11 @@ Les isolants ont des caractéristiques de performances validées :
 
 - soit par la marque de certification de produit ACERMI ;
 
-- soit par un avis technique valide du CSTB avec suivi CTAT (Comité technique de l'avis technique) ;
+- soit par un avis technique valide du CSTB avec suivi CTAT (comité technique de l'avis technique) ;
 
 - soit par un document technique d'application (DTA) valide du CSTB avec suivi CTAT ;
 
-- soit par un organisme dans l'Espace économique européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+- soit par organisme dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
@@ -2334,17 +2326,17 @@ Mise en place réalisée par un professionnel.
 
 SECTEUR D'ACTIVITÉ |
 
-MONTANT EN kWh CUMAC/
+MONTANT (EN kWH CUMAC/ M ²
 
-m² d'isolant
-
-|
+d'isolant posé)
 
 |
 
-SURFACE D'ISOLANT
+|
 
-posé en m² |
+SURFACE D'ISOLANT POSÉ
+
+(m ²) |
 
 Bureaux, enseignement et commerces |
 
@@ -2354,7 +2346,7 @@ X |
 
 S |
 
-Tertiaire d'hébergement |
+Hébergement |
 
 1 600
 

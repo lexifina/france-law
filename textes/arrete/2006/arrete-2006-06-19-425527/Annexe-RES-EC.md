@@ -8,67 +8,107 @@ Système de régulation de tension en éclairage extérieur
 
 1. Secteur d'application :
 
-Systèmes d'éclairage de l'espace extérieur : voiries et abords, parcs, etc., gérés par les collectivités territoriales, à l'exclusion de la signalisation lumineuse tricolore (feux de circulation) et des illuminations festives temporaires.
+Eclairage public existant, autoroutier, routier, urbain, dit fonctionnel , permettant simultanément tous les types de circulation (motorisée ou piétonne).
 
-Cette mesure s'applique également aux espaces extérieurs privés (lotissements, parcs, parkings...) dont les régimes de fonctionnement sont comparables aux régimes des parcs des collectivités locales.
+Eclairage existant d'ambiances urbaines : rues, avenues, parcs, allées, voies piétonnes.
+
+Eclairage extérieur privé existant : voiries, parkings, parcs, etc.
+
+Cette opération ne concerne ni l'illumination de mise en valeur des sites ni l'éclairage de terrain de sport.
 
 2. Dénomination :
 
-Mise en place d'un système de régulation de tension de puissance sur luminaire(s) d'éclairage extérieur.
-
-Sont éligibles à cette action les régulateurs de tension, les ballasts électroniques ou les variateurs de puissance qui assurent la fonction régulation de tension par une électronique de puissance adaptée.
-
-Les technologies utilisées pourront être des systèmes centralisés (régulateur sur le départ au niveau de l'armoire d'alimentation) ou décentralisés (régulateur lampe par lampe).
+Mise en place d'un système de régulation de tension sur luminaire (s) d'éclairage extérieur.
 
 3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Sont éligibles à cette action les régulateurs de tension, les ballasts électroniques ou les variateurs de puissance qui assurent la fonction régulation de tension, sur tout luminaire dont la source lumineuse est une lampe à décharge.
 
-4. Durée de vie conventionnelle :
+Mise en place réalisée par un professionnel.
 
-12 ans.
+4. Durée de vie conventionnelle : 12 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+MONTANT UNITAIRE
 
-n° 156 du 07/07/2006 texte numéro 28
+(en kWh cumac/ W) |
 
-(1) La puissance installée sera calculée sur la base de la somme des puissances nominales des lampes et des auxiliaires associés.
+|
+
+PUISSANCE INSTALLÉE
+
+(en W) (1) |
+
+2
+
+|
+
+x
+
+|
+
+P
+
+|
+
+(1) La puissance installée est calculée sur la base de la somme des puissances nominales des lampes et des auxiliaires associés.
 
 Certificats d'économies d'énergie
 
 Opération n° RES-EC-02
 
-Système de maîtrise de la puissance réactive en éclairage extérieur
+Système de maîtrise de la puissance réactive
+
+en éclairage extérieur
 
 1. Secteur d'application :
 
-Systèmes d'éclairage de l'espace extérieur : voiries et abords, parcs, etc., gérés par les collectivités territoriales, à l'exclusion de la signalisation lumineuse tricolore (feux de circulation) et des illuminations festives temporaires.
+Eclairage public existant, autoroutier, routier, urbain, dit fonctionnel , permettant simultanément tous les types de circulation (motorisée ou piétonne).
 
-Cette mesure s'applique également aux espaces extérieurs privés (lotissements, parcs, parkings...) dont les régimes de fonctionnement sont comparables aux régimes des parcs des collectivités locales.
+Eclairage existant d'ambiances urbaines : rues, avenues, parcs, allées, voies piétonnes.
+
+Eclairage extérieur privé existant : voiries, parkings, parcs, etc.
+
+Cette opération ne concerne ni l'illumination de mise en valeur des sites, ni l'éclairage des terrains de sport.
 
 2. Dénomination :
 
-Mise en place d'un système en vue de maîtriser la puissance réactive (ou le cos w) sur luminaire(s) d'éclairage extérieur.
-
-Sont éligibles à cette action les ballasts électroniques ou les systèmes de variation électronique de puissance dont la technologie donne accès à cette fonction.
+Mise en place d'un système en vue de maîtriser la puissance réactive (ou le cos) sur luminaire (s) d'éclairage extérieur.
 
 3. Conditions pour la délivrance de certificats :
 
-Sans objet.
+Sont éligibles à cette action les régulateurs de tension, les ballasts électroniques ou les variateurs de puissance qui assurent la fonction régulation de puissance réactive, sur tout luminaire dont la source lumineuse est une lampe à décharge.
 
-4. Durée de vie conventionnelle :
+Mise en place réalisée par un professionnel.
 
-12 ans.
+4. Durée de vie conventionnelle : 12 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+MONTANT UNITAIRE
 
-n° 156 du 07/07/2006 texte numéro 28
+(en kWh cumac/ W) |
 
-(1) La puissance installée sera calculée sur la base de la somme des puissances nominales des lampes et des auxiliaires associés.
+|
+
+PUISSANCE INSTALLÉE
+
+(en W) (1) |
+
+1,6
+
+|
+
+x
+
+|
+
+P
+
+|
+
+(1) La puissance installée est calculée sur la base de la somme des puissances nominales des lampes et des auxiliaires associés.
 
 Certificats d'économies d'énergie
 
@@ -78,35 +118,49 @@ Système de variation de puissance en éclairage extérieur
 
 1. Secteur d'application :
 
-Systèmes d'éclairage de l'espace extérieur : voiries et abords, parcs, etc., gérés par les collectivités territoriales, à l'exclusion de la signalisation lumineuse tricolore (feux de circulation), des illuminations festives temporaires et des sources lumineuses à vapeur de mercure.
+Eclairage public existant, autoroutier, routier, urbain, dit fonctionnel , permettant simultanément tous les types de circulation (motorisée ou piétonne).
 
-Cette mesure s'applique également aux espaces extérieurs privés (lotissements, parcs, parkings...) dont les régimes de fonctionnement sont comparables aux régimes des parcs des collectivités locales.
+Eclairage existant d'ambiances urbaines : rues, avenues, parcs, allées, voies piétonnes.
+
+Eclairage extérieur privé existant : voiries, parkings, parcs, etc.
+
+Cette opération ne concerne ni l ` illumination de mise en valeur des sites ni l'éclairage des terrains de sport.
 
 2. Dénomination :
 
-Mise en place d'un système de variation de puissance sur luminaire(s) d'éclairage public.
-
-Sont éligibles à cette action les ballasts électroniques permettant une gradation et certains systèmes qui assurent cette fonction par une électronique de puissance adaptée.
-
-Les technologies utilisées pourront être des systèmes centralisés (variateur sur le départ au niveau de l'armoire d'alimentation) ou décentralisés (variateur lampe par lampe).
+Mise en place d'un système de variation de puissance sur luminaire (s) d'éclairage extérieur.
 
 3. Conditions pour la délivrance de certificats :
 
-On veillera à ne pas promouvoir de variateurs de puissance sur des installations équipées de luminaires anciens dont les performances photométriques ne satisfont pas à des critères d'efficacité énergétique acceptables.
+Sont éligibles à cette action les équipements permettant la gradation.
 
-Les niveaux d'éclairement ou de luminance obtenus après variation doivent rester compatibles avec les exigences de visibilité prescrites dans la norme EN 13201-2 et traduites sous forme de performances photométriques par classe et usage de voie.
+Mise en place réalisée par un professionnel.
 
-4. Durée de vie conventionnelle :
-
-12 ans.
+4. Durée de vie conventionnelle : 12 ans.
 
 5. Montant de certificats en kWh cumac :
 
-Vous pouvez consulter le tableau dans le JO
+MONTANT UNITAIRE
 
-n° 156 du 07/07/2006 texte numéro 28
+(en kWh cumac/ W) |
 
-(1) La puissance installée sera calculée sur la base de la somme des puissances nominales des lampes et des auxiliaires associés.
+|
+
+PUISSANCE INSTALLÉE
+
+(en W) (1) |
+
+8 |
+
+x
+
+|
+
+P
+
+|
+
+(1) La puissance installée est calculée sur la base de la somme des puissances nominales des lampes et des auxiliaires associés.
 
 Certificats d'économies d'énergie
 

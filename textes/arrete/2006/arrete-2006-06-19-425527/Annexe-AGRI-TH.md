@@ -36,13 +36,17 @@ Opération n° AGRI-TH-02
 
 Ballon de stockage d'eau chaude
 
+pour le chauffage des serres
+
 1. Secteur d'application :
 
-Agriculture : serres maraîchères et horticoles.
+Agriculture : serres maraîchères et horticoles neuves ou existantes.
 
 2. Dénomination :
 
-Mise en place d'un ballon de stockage d'eau chaude.
+Mise en place d'un ballon de stockage d'eau chaude pour le
+
+chauffage des serres.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -52,19 +56,11 @@ Mise en place réalisée par un professionnel.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT EN kWh CUMAC
-
-par m² de serre chauffé
+MONTANT EN KWH CUMAC PAR M ² DE SERRE CHAUFFÉ |
 
 |
 
-|
-
-SURFACE DE SERRE CHAUFFÉE
-
-(m²)
-
-|
+SURFACE DE SERRE CHAUFFÉE (M ²) |
 
 170 |
 
@@ -236,11 +232,11 @@ Chaufferie biomasse
 
 1. Secteur d'application :
 
-Serres maraîchères et horticoles, neuves ou existantes.
+Agriculture : serres maraîchères et horticoles neuves ou existantes.
 
 2. Dénomination :
 
-Mise en place d'une chaufferie valorisant de la biomasse comme combustible pour des besoins de chauffage des cultures sous serres.
+Mise en place d'une chaufferie valorisant de la biomasse comme combustible ou mise en place sur une chaudière d'un brûleur biomasse pour des besoins de chauffage des cultures sous serres.
 
 3. Conditions pour la délivrance de certificats :
 
@@ -258,7 +254,7 @@ Opération n° AGRI-TH-07
 
 Pompe à chaleur de type eau/ eau
 
-ou air/ eau pour élevage porcin
+ou air/ eau pour l'élevage porcin
 
 1. Secteur d'application :
 
@@ -270,17 +266,17 @@ Mise en place d'une pompe à chaleur (PAC) de type eau/ eau ou air/ eau pour le 
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient de performance (COP) égal ou supérieur à 3 mesuré conformément aux conditions de performance nominales de la norme NF EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur de 55° C.
+Coefficient de performance (COP) égal ou supérieur à 3 mesuré conformément aux conditions de performance nominales de la norme NF EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur de 35° C.
 
-La pompe à chaleur a une certification NF PAC ou un label EHPA ou l'Ecolabel européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de l'European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+La pompe à chaleur a une certification NF PAC ou un label EHPA ou l'Eco-Label européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
 L'installateur doit, à la date de la réalisation de l'opération :
 
-- être titulaire de l'appellation QUALIPAC ; ou
+- être titulaire de l'appellation QUALIPAC ;
 
-- disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ou géothermiques ; ou
+- ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ou géothermiques ; ou
 
 - disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
 
@@ -298,17 +294,13 @@ Le bénéficiaire atteste sur l'honneur du nombre de places chauffées en matern
 
 |
 
-ZONE CLIMATIQUE
-
-|
+ZONE CLIMATIQUE |
 
 |
 
 COP DE LA PAC
 
-installée
-
-|
+installée |
 
 Nombre de places de maternité chauffées par la PAC
 
@@ -326,7 +318,9 @@ Nombre de places de maternité chauffées par la PAC
 
 |
 
-1,1 (H1)
+H1 |
+
+1,1
 
 |
 
@@ -354,7 +348,9 @@ Nombre de places de post-sevrage chauffées par la PAC
 
 |
 
-0,9 (H2)
+H2 |
+
+0,9
 
 |
 
@@ -376,7 +372,9 @@ Nombre de places de post-sevrage chauffées par la PAC
 
 |
 
-0,6 (H3)
+H3 |
+
+0,6
 
 |
 
@@ -396,9 +394,9 @@ Certificats d'économies d'énergie
 
 Opération n° AGRI-TH-08
 
-Pompe à chaleur de type eau/ eau ou air/ eau
+Pompe à chaleur de type eau/ eau
 
-pour le chauffage de serres horticoles
+ou air/ eau pour le chauffage de serres horticoles
 
 1. Secteur d'application :
 
@@ -410,9 +408,9 @@ Mise en place d'une pompe à chaleur (PAC) de type eau/ eau ou air/ eau pour le 
 
 3. Conditions pour la délivrance de certificats :
 
-Coefficient de performance (COP) égal ou supérieur à 3 mesuré conformément aux conditions de performance nominales de la norme NF EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur égale ou supérieure à 55° C.
+Coefficient de performance (COP) égal ou supérieur à 3 mesuré conformément aux conditions de performance nominales de la norme NF EN 14511-2 pour une température à la sortie de l'échangeur thermique intérieur égale ou supérieure à 35° C.
 
-La pompe à chaleur a une certification NF PAC ou un label EHPA ou l'Ecolabel européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de l'European cooperation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+La pompe à chaleur a une certification NF PAC ou un label EHPA ou l'éco-label européen ou des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
 
 Mise en place réalisée par un professionnel.
 
@@ -420,21 +418,21 @@ L'installateur doit, à la date de la réalisation de l'opération :
 
 - être titulaire de l'appellation QUALIPAC ;
 
-- ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ou géothermiques ;
+- ou disposer d'une qualification ou certification professionnelle dans le domaine des pompes à chaleur aérothermiques ou géothermiques ; ou
 
-- ou disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
+- disposer d'une qualification ou d'une certification professionnelle équivalente délivrée par tout organisme respectant les conditions de délivrance définies par la norme NF X50-091.
 
-Attestation par le bénéficiaire des travaux de la surface en mètres carrés chauffée par la pompe à chaleur.
+Attestation par le bénéficiaire des travaux de la surface en m ² chauffée par la pompe à chaleur.
 
 4. Durée de vie conventionnelle : 16 ans.
 
 5. Montant de certificats en kWh cumac :
 
-MONTANT kWh CUMAC
+MONTANT (kWh CUMAC
 
 par mètre carré
 
-de surface chauffée |
+de surface chauffée) |
 
 |
 
@@ -733,3 +731,301 @@ Serres horticoles |
 15 |
 
 |
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-13
+
+Echangeur-récupérateur de chaleur air/ air
+
+dans un bâtiment d'élevage de volailles
+
+1. Secteur d'application :
+
+Agriculture : bâtiments d'élevage de volailles neufs ou existants.
+
+2. Dénomination :
+
+Installation d'un ou plusieurs échangeurs-récupérateurs de chaleur air/ air, pour récupérer la chaleur de l'air sortant des bâtiments d'élevage de volailles chauffés et préchauffer l'air neuf entrant.
+
+3. Conditions pour la délivrance de certificats :
+
+Dimensionnement minimum préconisé du débit d'air des installations (débit d'air entrant de chaque appareil × nombre d'appareils) :
+
+- en production de volailles de chair sans parcours : 8 m ³/ h par m ² de bâtiment ;
+
+- pour toutes les autres productions : 2,5 m ³/ h par m ² de bâtiment.
+
+Installation réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT EN KWH CUMAC/ M ² DE BÂTIMENT ÉQUIPÉ |
+
+|
+
+SURFACE DE BÂTIMENT ÉQUIPÉ (m ²) |
+
+230
+
+|
+
+x
+
+|
+
+S
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-14
+
+Chauffe-eau solaire dans un bâtiment d'élevage pour une surface totale de panneaux inférieure à 20 m ² (France métropolitaine)
+
+1. Secteur d'application :
+
+Agriculture : bâtiments d'élevage neufs ou existants en France métropolitaine.
+
+2. Dénomination :
+
+Installation d'un chauffe-eau solaire dans un bâtiment d'élevage pour le chauffage de l'eau utilisée sur l'exploitation agricole (nettoyage de l'installation de traite, vaisselle de traite, alimentation des veaux, etc.).
+
+3. Conditions pour la délivrance de certificats :
+
+La surface totale des panneaux solaires installés est inférieure à 20 m ².
+
+Les équipements possèdent des caractéristiques de performances validées :
+
+- soit par la marque de certification CSTBat ;
+
+- soit par la marque de certification Solarkeymark ;
+
+- soit par des caractéristiques de performance et de qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+La mise en place est réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+ZONE CLIMATIQUE |
+
+MONTANT EN KWH CUMAC/
+
+capteur installé |
+
+|
+
+NOMBRE DE CAPTEURS INSTALLÉS |
+
+H1
+
+|
+
+6 400
+
+|
+
+|
+
+|
+
+H2
+
+|
+
+7 600
+
+|
+
+x |
+
+N
+
+|
+
+H3
+
+|
+
+10 200
+
+|
+
+|
+
+|
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-15
+
+Chauffe-eau solaire dans un bâtiment d'élevage pour une surface totale de panneaux supérieure ou égale à 20 m ² (France métropolitaine)
+
+1. Secteur d'application :
+
+Agriculture : bâtiments d'élevage neufs ou existants en France métropolitaine.
+
+2. Dénomination :
+
+Installation d'un chauffe-eau solaire dans un bâtiment d'élevage pour le chauffage de l'eau utilisée sur l'exploitation agricole (nettoyage de l'installation de traite, vaisselle de traite, alimentation des veaux, etc.).
+
+3. Conditions pour la délivrance de certificats :
+
+La surface totale des panneaux solaires installés est supérieure ou égale à 20 m ².
+
+Les équipements possèdent des caractéristiques de performances validées :
+
+- soit par la marque de certification CSTBat ;
+
+- soit par la marque de certification Solarkeymark ;
+
+- soit par des caractéristiques de performance et de qualité équivalentes basées sur les normes EN 12975 ou EN 12976 et établies par un organisme établi dans l'Espace économique européen et accrédité selon les normes NF EN ISO/ CEI 17025 et NF EN 45011 par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de European co-operation for Accreditation (EA), coordination européenne des organismes d'accréditation.
+
+La mise en place est réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+14,134 × PES (kWh/ an)
+
+PES est la production d'énergie solaire annuelle.
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-16
+
+Raccordement d'un bâtiment agricole à un réseau de chaleur
+
+alimenté par des énergies renouvelables ou de récupération
+
+1. Secteur d'application :
+
+Agriculture : bâtiments d'élevage ou serres, neufs ou existants.
+
+2. Dénomination :
+
+Raccordement d'un bâtiment d'élevage ou d'une serre, neuf ou existant, à une source d'énergie pour les besoins de chauffage de ce bâtiment.
+
+3. Conditions pour la délivrance de certificats :
+
+La source d'énergie mentionnée au point 2 doit être :
+
+- soit un process industriel ou agricole : l'énergie fournie est de récupération (en l'occurrence, cette chaleur n'aurait pas été valorisée sans ce débouché) ;
+
+- soit un réseau de chaleur alimenté par des énergies renouvelables ou de récupération.
+
+La quantité d'énergie nette renouvelable ou de récupération fournie au bâtiment (Pth en kWh/ an) est évaluée par une étude de faisabilité selon le cahier des charges défini par l'ADEME.
+
+En cas de raccordement à un réseau de chaleur, sont à fournir par le gestionnaire du réseau :
+
+- les moyens de production et énergies utilisés pour le réseau, en précisant les éléments spécifiques aux énergies renouvelables ou de récupération (avant et après raccordement) ;
+
+- la part des besoins annuels du réseau couverts par les énergies renouvelables ou de récupération, après le raccordement ; cette part est calculée selon l'arrêté du 22 décembre 2010 relatif au classement des réseaux de chaleur et de froid.
+
+Mise en place réalisée par un professionnel.
+
+Application de cette opération non cumulable avec l'application des opérations standardisées AGRI-TH-06 "Chaufferie biomasse", AGRI-TH-11 "Chaufferie biomasse pour le chauffage des bâtiments d'élevage de porcs" et RES-CH-01 "Production de chaleur renouvelable en réseau ou de récupération (France métropolitaine)".
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+Pth (kWh/ an) × 14,134
+
+Le Pth correspond à l'énergie thermique nette renouvelable ou de récupération fournie annuellement au bâtiment raccordé.
+
+Certificats d'économies d'énergie
+
+Opération n° AGR-TH-17
+
+Déshumidificateur thermodynamique pour serres
+
+1. Secteur d'application :
+
+Agriculture : serres maraîchères neuves ou existantes.
+
+2. Dénomination :
+
+Mise en place d'un déshumidificateur thermodynamique pour gérer l'hygrométrie dans les serres maraîchères.
+
+3. Conditions pour la délivrance de certificats :
+
+Le COP (Coefficient de Performance) du déshumidificateur est supérieur ou égal à 1,5. La valeur du COP est fournie par le fabricant.
+
+L'installation est réalisée par un professionnel.
+
+4. Durée de vie conventionnelle : 15 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT DU GAIN EN KWH CUMAC
+
+(par m ²)
+
+|
+
+|
+
+SURFACE DE SERRE ÉQUIPÉE
+
+(m ²) |
+
+380 |
+
+x
+
+|
+
+S |
+
+Certificats d'économies d'énergie
+
+Opération n° AGRI-TH-18
+
+Double tube de chauffage pour serres
+
+1. Secteur d'application :
+
+Agriculture : serres maraîchères neuves ou existantes.
+
+2. Dénomination :
+
+Mise en place d'un réseau d'au moins deux tubes de chauffage "basse température" par rangée de cultures.
+
+3. Conditions pour la délivrance de certificats :
+
+Les tubes sont métalliques.
+
+Au moins deux tubes sont présents au niveau de la rangée de culture.
+
+L'installation est réalisée par un professionnel. L'installateur atteste que l'installation de chauffage est à basse température.
+
+4. Durée de vie conventionnelle : 20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+MONTANT DU GAIN EN KWH CUMAC
+
+(par m ²)
+
+|
+
+|
+
+SURFACE DE SERRE ÉQUIPÉE
+
+(m ²) |
+
+420 |
+
+x
+
+|
+
+S |
