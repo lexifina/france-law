@@ -1,6 +1,6 @@
 # Article Annexe V
 
-DISPOSITIONS PARTICULIÈRES AUX JUS DE FRUITS OBTENUS À PARTIR D'UN CONCENTRÉ
+VALEURS BRIX MINIMALES POUR LE JUS DE FRUITS RECONSTITUÉ ET LA PURÉE DE FRUITS RECONSTITUÉE
 
 NOM COMMUN DU FRUIT
 
@@ -12,17 +12,13 @@ NOM BOTANIQUE
 
 VALEURS BRIX MINIMALES
 
-pour le jus de fruits reconstitué
-
-et la purée de fruits reconstituée
-
 |
 
 Pomme (*)
 
 |
 
-Malus domestica Borkh
+Malus domestica Borkh.
 
 |
 
@@ -46,7 +42,7 @@ Banane (**)
 
 |
 
-Musa sp.
+Musa x paradisiaca L. (à l'exclusion des bananes plantains)
 
 |
 
@@ -62,7 +58,7 @@ Ribes nigrum L.
 
 |
 
-11,6
+11,0
 
 |
 
@@ -84,7 +80,7 @@ Pamplemousse (*)
 
 |
 
-Citrus x paradise Macfad.
+Citrus x paradisi Macfad.
 
 |
 
@@ -100,7 +96,7 @@ Psidium guajava L.
 
 |
 
-9,5
+8,5
 
 |
 
@@ -108,7 +104,7 @@ Citron (*)
 
 |
 
-Citrus limon (L.) Burm.f
+Citrus limon (L.) Burm. f.
 
 |
 
@@ -124,7 +120,7 @@ Mangifera indica L.
 
 |
 
-15,0
+13,5
 
 |
 
@@ -140,7 +136,7 @@ Citrus sinensis (L.) Osbeck
 
 |
 
-Fruit de la passion (*)
+Fruit de la Passion (*)
 
 |
 
@@ -148,7 +144,7 @@ Passiflora edulis Sims
 
 |
 
-13,5
+12,0
 
 |
 
@@ -224,6 +220,18 @@ Fragaria x ananassa Duch.
 
 |
 
+Tomate (*)
+
+|
+
+Lycopersicon esculentum Mill.
+
+|
+
+5,0
+
+|
+
 Mandarine (*)
 
 |
@@ -236,10 +244,12 @@ Citrus reticulata Blanco
 
 |
 
-Si un jus à base de concentré est obtenu à partir d'un fruit ne figurant pas dans la liste ci-dessus, la valeur Brix minimale du jus reconstitué est égale à la valeur Brix du jus extrait à partir du fruit utilisé pour produire le concentré.
-
 Pour les produits marqués d'un astérisque (*), qui sont produits en tant que jus, une densité relative minimale est déterminée par rapport à une eau à 20/20 °C.
 
 Pour les produits marqués de deux astérisques (**), qui sont produits en tant que purées, seule une valeur Brix minimale non corrigée (sans correction de l'acidité) est déterminée.
 
-Pour ce qui est du cassis, de la goyave, de la mangue et du fruit de la passion, les valeurs Brix minimales ne s'appliquent qu'au jus de fruits reconstitué et à la purée de fruits reconstituée qui sont produits à l'intérieur de l'Union.
+|
+
+NOTA :
+
+Décret n° 2013-1049 du 21 novembre 2013 article 2 : Les produits mis sur le marché de l'Union européenne ou étiquetés avant la date d'entrée en vigueur du présent décret et qui sont conformes aux dispositions du décret du 1er septembre 2003 susvisé dans sa rédaction antérieure à la même date peuvent être commercialisés jusqu'au 28 avril 2015.

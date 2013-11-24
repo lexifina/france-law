@@ -1,6 +1,6 @@
 # Article Annexe IV
 
-DISPOSITIONS PARTICULIÈRES AUX NECTARS DE FRUITS
+DISPOSITIONS PARTICULIÈRES RELATIVES AUX NECTARS DE FRUITS
 
 NECTARS DE FRUITS
 
@@ -12,7 +12,9 @@ TENEUR MINIMALE
 
 en jus et/ou purée
 
-(en % du volume du produit fini)
+(en % du volume
+
+du produit fini)
 
 |
 
@@ -22,7 +24,7 @@ I. - Fruits à jus acide non consommable en l'état
 
 |
 
-Fruits de la passion
+Fruits de la Passion
 
 |
 
@@ -118,7 +120,7 @@ Cynorhodons
 
 |
 
-Cerises aigres (griottes)
+Cerises acides (griottes)
 
 |
 
@@ -214,7 +216,9 @@ Autres fruits appartenant à cette catégorie
 
 |
 
-II. - Fruits pauvres en acide, ou avec beaucoup de pulpe, ou très aromatisés, avec jus non consommable en l'état
+II. - Fruits pauvres en acide ou avec beaucoup de pulpe ou très aromatisés,
+
+dont le jus n'est pas consommable en l'état
 
 |
 
@@ -260,7 +264,7 @@ Litchis
 
 |
 
-Azeroles
+Azeroles (nèfles de Naples)
 
 |
 
@@ -284,7 +288,7 @@ Cœur de bœuf ou cachiman
 
 |
 
-Cherimoles
+Chérimoles
 
 |
 
@@ -378,6 +382,14 @@ Ananas
 
 |
 
+Tomates
+
+|
+
+50
+
+|
+
 Autres fruits appartenant à cette catégorie
 
 |
@@ -385,3 +397,7 @@ Autres fruits appartenant à cette catégorie
 50
 
 |
+
+NOTA :
+
+Décret n° 2013-1049 du 21 novembre 2013 article 2 : Les produits mis sur le marché de l'Union européenne ou étiquetés avant la date d'entrée en vigueur du présent décret et qui sont conformes aux dispositions du décret du 1er septembre 2003 susvisé dans sa rédaction antérieure à la même date peuvent être commercialisés jusqu'au 28 avril 2015.
