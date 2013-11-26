@@ -1,0 +1,9 @@
+# Réponse à la question n° 31457
+
+- Question : [31457](31457.md) — Question n° 31457 — huile de palme; mentions
+
+## Réponse
+
+*JO du 2013-11-26*
+
+La réglementation actuelle concernant l'étiquetage alimentaire, énoncée aux articles R. 112-1 à R. 112-31 du code de la consommation, prévoit que, pour certaines catégories d'ingrédients, l'indication de la catégorie peut remplacer celle du nom spécifique. C'est le cas des huiles raffinées autres que celles d'olive : ainsi, il est possible d'indiquer sur l'étiquette le terme « huile » en le complétant, selon le cas, par les mots « végétale » ou « animale ». L'indication de l'huile de palme en tant que telle reste bien évidemment possible mais n'est pas obligatoire. A compter du 13 décembre 2014, date à partir de laquelle le règlement n° 1169/2011 concernant l'information des consommateurs sur les denrées alimentaires sera appliqué de manière obligatoire, l'indication de la présence de l'huile de palme dans un produit sera requise. Les huiles raffinées d'origine végétale pourront être regroupées dans la liste des ingrédients sous la désignation « huiles végétales », immédiatement suivies de l'énumération des origines végétales spécifiques. Ainsi, la présence de l'huile de palme dans une denrée alimentaire sera immanquablement connue du consommateur. En ce qui concerne les produits cosmétiques, le nom de chaque ingrédient doit figurer sur leur étiquetage en vertu de l'article 19 du règlement (CE) n° 1223/2009 du 30 novembre 2009 relatif aux produits cosmétiques, et de l'article R. 5131-4 du code de la santé publique. Chaque ingrédient y est indiqué selon une dénomination commune ou, à défaut, une dénomination figurant dans une nomenclature généralement admise. L'huile de palme apparait sous la dénomination « palm oil » et ses dérivés sous des dénominations qui incluent ces termes.
