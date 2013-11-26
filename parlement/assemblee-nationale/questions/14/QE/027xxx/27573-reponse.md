@@ -1,0 +1,9 @@
+# Réponse à la question n° 27573
+
+- Question : [27573](27573.md) — Question n° 27573 — crédit-bail immobilier
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Le a sexies-0 bis du I de l'article 219 du code général des impôts (CGI) dispose que le régime des plus et moins-values à long terme cesse de s'appliquer à la plus ou moins-value provenant des cessions de titres de sociétés à prépondérance immobilière non cotées réalisées à compter du 26 septembre 2007. Sont considérées comme des sociétés à prépondérance immobilière les sociétés dont l'actif est, à la date de la cession de ces titres ou a été à la clôture du dernier exercice précédant cette cession, constitué pour plus de 50 % de sa valeur réelle par des immeubles, des droits portant sur des immeubles, des droits afférents à un contrat de crédit-bail conclu dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier ou par des titres d'autres sociétés à prépondérance immobilière. Pour l'application de ces dispositions, ne sont pas pris en considération les immeubles ou les droits mentionnés à la phrase précédente lorsque ces biens ou droits sont affectés par l'entreprise à sa propre exploitation industrielle, commerciale ou agricole ou à l'exercice d'une profession non commerciale. Il est souligné que la loi ne précise pas que les droits afférents à des contrats de crédit-bail qui doivent être pris en compte pour l'appréciation de la prépondérance immobilière sont les seuls droits inscrits à l'actif du bilan comptable. Par conséquent, il convient de retenir, pour l'application du a sexies-0 bis du I de l'article 219 du CGI, tous les droits résultant, pour l'entreprise crédit-preneuse, d'un contrat de crédit-bail, y compris lorsque ces droits n'ont pas fait l'objet d'une acquisition auprès d'un tiers et ne figurent donc pas parmi l'actif immobilisé.
