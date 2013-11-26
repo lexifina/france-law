@@ -1,0 +1,9 @@
+# Réponse à la question n° 14787
+
+- Question : [14787](14787.md) — Question n° 14787 — vélodrome d'hiver
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Les arrestations massives des 16 et 17 juillet 1942, dites rafle du Vel d'hiv, s'inscrivent, en France, au coeur même du processus de mise en oeuvre du génocide des juifs d'Europe. Elles ressortissent pleinement en ce sens de l'enseignement de l'histoire de la Seconde Guerre mondiale donné à chaque niveau du cursus scolaire, de l'école élémentaire au lycée. Parfois nommément évoquées, comme par exemple dans le programme d'histoire de la classe de première de la voie professionnelle, leur enseignement s'ancre également dans les programmes d'histoire lorsque ceux-ci introduisent, selon les âges et les niveaux, une réflexion plus approfondie sur le régime de Vichy et les choix qui ont conduit à la collaboration ou à la résistance. Par ailleurs, en 2011, le ministère de l'éducation nationale a apporté tout son soutien à la création, par le Mémorial de la Shoah, d'un site internet intitulé « Enseigner l'histoire de la Shoah ». Ce site est destiné aux enseignants de l'école élémentaire, du collège et du lycée. S'appuyant sur les programmes scolaires, il met à la disposition des équipes pédagogiques de nombreuses ressources, directement utilisables en classe, relatives à l'histoire de la Shoah et à son enseignement. Chaque année depuis 2003, enfin, la Journée de la mémoire des génocides et de la prévention des crimes contre l'humanité (27 janvier), est l'occasion pour la communauté éducative d'engager une réflexion sur la Shoah et les génocides, et de rappeler les valeurs humanistes qui fondent notre démocratie. Le ministère de l'éducation nationale incite, par une note de service, l'ensemble des équipes pédagogiques à se mobiliser pour mener des actions éducatives locales sur ce sujet.
