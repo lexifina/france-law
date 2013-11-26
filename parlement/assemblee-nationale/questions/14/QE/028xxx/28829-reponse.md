@@ -1,0 +1,9 @@
+# Réponse à la question n° 28829
+
+- Question : [28829](28829.md) — Question n° 28829 — durée de garantie; allongement; conséquences
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Le projet de loi sur la consommation en cours de discussion devant le Parlement prévoit notamment de renforcer l'efficacité des droits reconnus au consommateur dans le domaine de la garantie des produits, sans pour autant nuire à l'activité économique et à l'emploi. Il s'agit tout d'abord d'améliorer l'information précontractuelle sur la garantie légale de conformité prévue par le code de la consommation et sur la garantie des défauts de la chose vendue définie dans le code civil. En effet, il a été observé qu'un certain nombre de professionnels ne délivraient pas, ou insuffisamment, d'informations sur ces garanties légales dont bénéficient les consommateurs avant l'achat d'un bien. Il s'agit ensuite de faciliter la mise en oeuvre de la garantie légale de conformité. Il est apparu à l'issue des débats approfondis intervenus lors de la discussion sur le projet de loi sur la consommation, que cet objectif pouvait être atteint en alignant la durée de la présomption d'antériorité du défaut de conformité sur la durée actuelle de la garantie légale de conformité, qui est de deux ans. Cette durée n'excède pas celle de la garantie légale de conformité prévue par la directive n° 1999/44/CE sur certains aspects de la vente et des garanties des biens de consommation, ce qui limite les risques de distorsions de traitement en fonction du lieu d'implantation des entreprises. Elle n'excède pas par ailleurs la durée actuelle de la garantie commerciale consentie par la plupart des professionnels eux-mêmes pour un grand nombre d'appareils électroménagers. Une telle mesure est en tout état de cause de nature à bénéficier directement aux entreprises en renforçant la confiance des consommateurs dans les produits qu'elles leur proposent.
