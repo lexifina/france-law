@@ -1,0 +1,9 @@
+# Réponse à la question n° 38724
+
+- Question : [38724](38724.md) — Question n° 38724 — instances paritaires; étudiants élus; compatibilité; examens
+
+## Réponse
+
+*JO du 2013-11-26*
+
+En respect du principe de l'autonomie administrative et pédagogique des universités, il appartient aux responsables des établissements de fixer les dates des réunions des conseils universitaires comme celles des séances d'examens. Il paraît matériellement impossible, afin d'assurer une non-coïncidence absolue entre ces dates, d'interdire l'organisation, le même jour, des séances d'examens et des réunions des conseils universitaires pour permettre aux étudiants élus d'y assister. Si, pour des raisons liées à l'organisation des cours et aux contraintes afférentes aux études poursuivies, un examen ne peut être organisé qu'un jour déterminé, l'administration n'est pas tenue de modifier cette date. Il convient d'ajouter qu'une session spéciale d'examen ne saurait être organisée pour un nombre limité de candidats car l'égalité de l'ensemble des candidats devant l'examen et le respect de l'anonymat des copies, lorsque la réglementation l'a prévu, ne pourraient alors être assurés. Toutefois, afin de permettre aux élus étudiants d'exercer leurs mandats dans les meilleures conditions, l'article L 719-1 du code de l'éducation dans sa rédaction issue de la loi n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche prévoit, pour les élections des représentants des étudiants, l'élection, pour chaque représentant, d'un suppléant dans les mêmes conditions que le titulaire. Ce suppléant ne siège qu'en l'absence du titulaire. Par ailleurs, il va de soi que la convocation à la séance d'un conseil universitaire permet à l'étudiant élu de ce conseil de justifier son absence à une séance de cours ou de travaux dirigés obligatoires.
