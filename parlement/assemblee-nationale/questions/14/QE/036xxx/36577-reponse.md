@@ -1,0 +1,9 @@
+# Réponse à la question n° 36577
+
+- Question : [36577](36577.md) — Question n° 36577 — Conseil supérieur des programmes; composition
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Le ministre de l'éducation nationale a souhaité la création d'un Conseil supérieur des programmes afin de répondre à la demande forte de transparence du processus d'élaboration des programmes d'enseignement et au besoin de cohérence entre les contenus dispensés, les évaluations et la formation des enseignants. Dans cette perspective, cette instance doit offrir les garanties scientifiques nécessaires pour formuler ses avis et propositions mais il importe également qu'elle soit ouverte à la représentation nationale et sociale. C'est pourquoi la loi dispose que le conseil supérieur des programmes sera composé, à parité entre les hommes et les femmes, de dix personnalités qualifiées, de trois députés et trois sénateurs, ainsi que de deux représentants du Conseil économique, social et environnemental (CESE). Les personnalités qualifiées seront nommées par le ministre de l'éducation nationale pour leur excellence dans leur domaine et/ou leur connaissance du système éducatif. Leur nombre étant limité à dix, aucune d'entre elles n'a vocation à représenter un champ disciplinaire, mais bien de nourrir un débat collégial de haut niveau. Il n'est donc pas envisagé que des membres des associations de professeurs spécialistes y soient nommés. En revanche, pour nourrir ce même débat, le décret du 24 juillet 2013 relatif au Conseil supérieur des programmes prévoit, d'une part, que ce dernier pourra mettre en place des groupes d'experts, et, d'autre part, qu'il devra établir une charte des programmes précisant notamment leur processus d'élaboration et les modalités de consultation des enseignants et des usagers. Ceci constitue une double garantie d'une consultation des spécialistes de terrain, en amont puis pendant la rédaction des projets de programmes.
