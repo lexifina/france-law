@@ -1,0 +1,9 @@
+# Réponse à la question n° 28812
+
+- Question : [28812](28812.md) — Question n° 28812 — revendications; subvention sécurité
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Ayant fait l'objet d'une appréciation très positive dans le cadre des travaux préparatoires au 3e contrat d'avenir, le dispositif d'aide à la sécurité au bénéfice des débitants de tabac a été renforcé. Ainsi, le décret n° 2012-1448 et l'arrêté du 24 décembre 2012 ont porté le plafond de cette aide à 15 000 € par période triennale, contre 10 000 € précédemment, et ont étendu la liste des matériels éligibles aux diffuseurs de brouillard. Cette aide est accordée, soit pour financer une étude de sécurité du local commercial où le débit de tabac est exploité, soit pour acquérir et installer des matériels destinés à sécuriser le local où le débit est exploité d'une part, ou la réserve où le tabac est stocké, d'autre part. Conformément à l'article 1er du décret susmentionné, les matériels de sécurité sont financés à hauteur de 80 % de leur coût hors taxes et l'étude préalable à la sécurité à hauteur de 50 % de son coût hors de taxe. Dès lors qu'une étude préalable est réalisée ou que le buraliste produit une attestation de son assureur confirmant que les matériels de sécurité envisagés répondent aux exigences réglementaires, le débitant reçoit un versement de 40 % de l'aide (hors coût de l'étude) dès la réception des devis, soit avant l'accomplissement des travaux. Le paiement du solde est effectué à la production des factures. Conformément à l'article 2 I de l'arrêté du 24 décembre 2012, le débitant dispose d'un délai maximal d'un an à compter de la décision attributive de l'aide pour produire ces documents. Pour mémoire, en 2012, plus de 3 600 buralistes (13 %) ont bénéficié de cette subvention pour un montant total de 11,5 M€.
