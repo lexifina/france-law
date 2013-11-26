@@ -1,0 +1,9 @@
+# Réponse à la question n° 22358
+
+- Question : [22358](22358.md) — Question n° 22358 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Même si notre pays dispose aujourd'hui d'une couverture vaccinale de qualité, comme l'atteste la vaccination des nourrissons qui dépasse le seuil de 97 % pour la primo-vaccination, la politique vaccinale reste une grande priorité de santé publique pour le gouvernement, notamment pour réduire les disparités selon le type de vaccins mais aussi les disparités territoriales. La politique pour améliorer la couverture vaccinale sera un axe essentiel de la nouvelle stratégie de santé voulue par le gouvernement, stratégie fondée sur la notion de parcours. Une première mesure a déjà été mise en oeuvre en 2013 avec la simplification et la clarification du calendrier vaccinal. Cette simplification permet de diminuer le nombre d'injections pour une efficacité équivalente. Cette simplification doit concourir à une meilleure adhésion aux schémas vaccinaux. La loi de santé publique de 2004 a fixé comme objectif d'atteindre ou de maintenir (selon les maladies) un taux de couverture vaccinale d'au moins 95 % aux âges appropriés à un horizon quinquennal. L'obtention et le maintien d'une bonne couverture constituent des éléments clés pour contrôler et éliminer les maladies infectieuses à prévention vaccinale. Un objectif de couverture vaccinale de 95 % est impératif dans le cas de la rougeole compte tenu de la très haute contagiosité de cette maladie. Plus largement, l'impact sanitaire d'une couverture vaccinale est à la fois lié au pouvoir infectiogène de l'agent en cause et à l'efficacité du vaccin en termes de protection. Une nouvelle loi de santé publique est en cours d'élaboration pour 2014, comme annoncée par le Président de la République. Les enjeux majeurs liés à la vaccination des populations y seront priorisés et ciblés en fonction des constats actuels.
