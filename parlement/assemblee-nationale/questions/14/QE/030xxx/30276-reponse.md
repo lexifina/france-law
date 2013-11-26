@@ -1,0 +1,9 @@
+# Réponse à la question n° 30276
+
+- Question : [30276](30276.md) — Question n° 30276 — sciences de la vie et de la terre
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Le programme de sciences des séries ES et L en application depuis la rentrée 2011 s'inscrit dans la continuité des programmes du collège. Il complète les connaissances biologiques des élèves, notamment autour de la question des principes de reproduction sexuée, et prolonge l'éducation à la sexualité abordée dans les programmes depuis la classe de quatrième. Le thème « féminin/masculin » étudie le déterminisme génétique du sexe et la manière dont on passe, au cours du développement, du sexe génotypique au sexe phénotypique. Cette dimension du développement est un phénomène purement biologique. Cette approche ne suffit cependant pas à expliquer totalement ce que l'on est en tant qu'homme ou femme. De fait, le phénotype féminin ou masculin résulte, comme tous les aspects de notre phénotype, de l'interaction entre le déterminisme génétique et endocrinien d'une part, de l'histoire personnelle ainsi que de l'influence du milieu d'autre part. Il convient donc de situer le phénomène biologique dans un ensemble plus vaste qui n'est pas à étudier. Aucune « théorie du genre » n'est inscrite dans le texte du programme et la référence au genre dans certains manuels scolaires relève de la responsabilité des éditeurs. En effet, ceux-ci ont entière liberté et responsabilité en ce qui concerne la conception, le choix des auteurs, la rédaction et l'illustration des manuels qu'ils proposent. Les enseignants choisissent le manuel qui leur semble le plus adapté pour enseigner. La conformité aux programmes, la rigueur scientifique et la pertinence des choix éditoriaux en matière pédagogique mais aussi citoyenne sont des critères qui retiennent l'attention des équipes de professeurs.
