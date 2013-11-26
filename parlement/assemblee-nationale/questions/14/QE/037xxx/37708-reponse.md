@@ -1,0 +1,9 @@
+# Réponse à la question n° 37708
+
+- Question : [37708](37708.md) — Question n° 37708 — circulation à contresens; lutte et prévention
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Les actions prioritaires auxquelles travaille le ministère délégué, chargé des transports, de la mer et de la pêche, en concertation avec le ministère de l'intérieur (direction de la sécurité et de la circulation routière, DSCR), visent à réduire l'occurrence et la gravité des prises à contresens sur les autoroutes et les routes à chaussées séparées du réseau routier national. Pour empêcher la prise à contresens des autoroutes et routes à chaussées séparées, les mesures mises en oeuvre visent à améliorer la lisibilité et la visibilité de la signalisation verticale de direction et de police, d'une part, et de la géométrie des points de choix, d'autre part. Ainsi un programme d'inspection des points de choix a été engagé dès 2008 et des aménagements sur la géométrie des Îlots et des séparateurs ont été réalisés sur de nombreux sites, notamment les bretelles d'autoroute. Un bilan des inspections et des aménagements réalisés est en cours et permettra d'avoir, début 2014, une vision globale de l'avancement de cette action qui concerne près de 20 000 sites. Une réflexion concernant la conception des aires de repos et de services est également en cours d'achèvement, de manière à éviter les prises à contresens. Cette évolution de la conception des aires de repos sera mise en oeuvre en 2014. Un bilan des expérimentations des différents dispositifs de détection des prises à contresens testés par les gestionnaires routiers et les experts techniques permettra d'identifier les dispositifs fiables et efficaces. Enfin, les services du ministère travaillent également à la définition de messages d'information à délivrer aux usagers qui roulent dans le bon sens, lorsqu'un véhicule à contresens est détecté.
