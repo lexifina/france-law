@@ -1,0 +1,9 @@
+# Réponse à la question n° 36311
+
+- Question : [36311](36311.md) — Question n° 36311 — recherche; territoire national
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Lors de la réunion du comité des métaux stratégiques du 16 octobre 2012, le ministre du redressement productif, ministre chargé des mines, a fixé à la France l'ambition de redevenir une terre de mines. En octroyant le premier permis exclusif de recherches minières en France métropolitaine depuis plus de vingt ans le 17 juin 2013, il a confirmé la volonté du Gouvernement de rénover la politique minière française et de stimuler un secteur d'activité source importante d'investissements, d'activités et d'emplois. Il convient par ailleurs de noter que, dans le cadre des missions de service public du bureau de recherches géologiques et minières (BRGM) et d'une convention relative aux ressources minérales, plusieurs actions sont aujourd'hui menées pour valoriser notre patrimoine en ressources minérales. Ces actions, engagées depuis 2012 et pour partie axées sur les métaux stratégiques, permettront de mettre à jour les connaissances sur les ressources minérales de notre sous-sol. Il s'agit de valoriser les connaissances du patrimoine national en matière de géologie, géophysique et géochimie sur les gisements miniers français, et de prioriser des cibles déjà identifiées par l'inventaire national (1975-1992), en réinterprétant les données qui avaient été acquises. De nouvelles cibles seront en outre caractérisées avec les données acquises depuis 1992. Ces travaux, qui respecteront les objectifs fixés dans le cadre de la réforme du code minier en cours, contribueront à identifier sur notre territoire les ressources minérales nécessaires à l'approvisionnement de l'industrie française et européenne, permettant d'améliorer l'attractivité de notre territoire en matière d'exploration et d'exploitation de substances minérales, tout particulièrement de métaux stratégiques.
