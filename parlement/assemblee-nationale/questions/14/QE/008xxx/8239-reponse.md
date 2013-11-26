@@ -1,0 +1,9 @@
+# Réponse à la question n° 8239
+
+- Question : [8239](8239.md) — Question n° 8239 — bicyclettes; usage; développement; propositions
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Le Gouvernement a réaffirmé son engagement en faveur du vélo en installant, le 3 juin dernier, sous l'autorité du ministre délégué, chargé des transports, de la mer et de la pêche, un comité de pilotage interministériel appelé à définir les objectifs et les mesures à prendre pour développer la marche et le vélo. Ce comité de pilotage qui doit proposer un plan d'action vélo avant la fin de l'année 2013, a confié à plusieurs sous-groupes de travail le soin d'étudier les mesures permettant de développer ces modes de déplacements alternatifs aux véhicules motorisés, dont les avantages en termes d'environnement, de santé, d'économie et de vie sociale sont évidents. En effet, le vélo est également un mode de déplacement respectueux de l'environnement, économique, facteur d'autonomie personnelle, offrant des vertus pédagogiques, notamment en termes de rapport aux autres. De plus, il contribue à l'aménagement du territoire et au développement local par son potentiel touristique et de pratique de loisirs. De manière générale, il convient donc de multiplier les angles de communication sur les bénéfices du vélo tout en accordant une place de choix aux bénéfices individuels sur la santé de chacun. Une telle communication est déjà mise en oeuvre à travers les nombreuses initiatives déployées par les acteurs du vélo pour favoriser la prise en compte de ce mode de déplacement au quotidien et notamment par des actions de communication menées par l'Institut national de prévention et d'éducation à la santé (INPES) dans le cadre du Programme national nutrition santé piloté par le ministère chargé de la santé. Enfin, les effets positifs pour la santé de la pratique régulière du vélo devraient avoir toute leur place dans la loi de santé publique attendue courant 2014.
