@@ -1,0 +1,9 @@
+# Réponse à la question n° 18717
+
+- Question : [18717](18717.md) — Question n° 18717 — conseil d'administration
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Les jetons de présence constituent, aux termes de l'article 117 bis du code général des impôts, des revenus passibles de l'impôt sur le revenu dans la catégorie des revenus de capitaux mobiliers et sont à inclure dans les revenus du bénéficiaire pour leur montant brut perçu. Le reversement par les administrateurs salariés de sommes équivalentes au montant des jetons de présence qu'ils ont perçus constitue un acte personnel de disposition du revenu. Les jetons de présence sont donc normalement imposables au nom des administrateurs concernés. Cependant, la doctrine administrative (BOI-RPPM-RCM-20-10-20-10-20120912) admet que les jetons de présence versés par des sociétés privatisées à des représentants élus du personnel salarié siégeant au sein de leur conseil d'administration ou de surveillance et abandonnés à l'organisation syndicale à laquelle ils sont affiliés ne soient pas soumis à l'impôt au nom des représentants lorsque les conditions suivantes sont remplies : l'abandon porte sur l'intégralité des jetons de présence ; cet abandon est consenti dès la prise de fonctions de l'intéressé et pour toute la durée de son mandat ; la rémunération concernée est versée directement par la société à l'organisation syndicale au profit duquel l'abandon est consenti. Cette dérogation concerne les seuls représentants élus du personnel salarié et n'est en revanche pas applicable aux représentants des actionnaires salariés, voire anciens salariés, qui choisiraient de reverser leurs jetons de présence à leur association d'actionnaires salariés ou d'anciens salariés. La doctrine administrative précitée, qui s'applique aux sociétés privatisées, est étendue aux sociétés qui accueillent au sein de leur conseil d'administration ou de surveillance des représentants des salariés siégeant es qualités.
