@@ -1,0 +1,9 @@
+# Réponse à la question n° 1189
+
+- Question : [1189](1189.md) — Question n° 1189 — hébergement d'urgence; propositions
+
+## Réponse
+
+*JO du 2013-11-26*
+
+Le Gouvernement fait de la conduite d'une politique volontariste et efficace en faveur du logement et de l'hébergement des personnes sans abri et mal logées, une priorité. Cette politique intégrée de l'accueil, de l'hébergement et de l'accès au logement est fondée sur les principes d'égalité de traitement, d'inconditionnalité de l'accueil et de continuité de la prise en charge. Cette volonté du Gouvernement se traduit à travers le plan quinquennal de lutte contre la pauvreté et pour l'inclusion sociale adopté par le comité interministériel de lutte contre l'exclusion, le 21 janvier 2013. Le plan quinquennal arrête un certain nombre de mesures en matière d'hébergement et de logement pour l'année 2013, qui est une année de mobilisation particulière devant conduire à une transformation durable et en profondeur de la politique d'hébergement et d'accès au logement. Dans le cadre de ce plan, il a été décidé d'étudier à moyen terme la possibilité de proposer un statut unique pour les structures d'hébergement et pour l'accompagnement afin de mettre un terme à l'empilement des dispositifs et à la segmentation. Le projet de loi ALUR, adopté en première lecture à l'Assemblée nationale et au Sénat, a inscrit dans son article additionnel après article 12 la production d'un rapport du Gouvernement au parlement qui en présentera les conditions et modalités de mise en oeuvre. Cette réflexion sera conduite en lien avec celle engagée sur l'évolution du droit de l'autorisation dans le domaine social et médico-social dans l'objectif de mieux assurer l'adaptation de l'offre aux besoins des territoires et la prise en charge de l'usager dans une logique de parcours, tout en tenant compte de la diversité des missions, des opérateurs et des autorités compétentes.
