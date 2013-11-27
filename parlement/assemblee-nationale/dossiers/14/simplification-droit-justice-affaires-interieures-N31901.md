@@ -1,0 +1,84 @@
+# Justice : modernisation et simplification du droit et des procédures
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N31901
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/simplification_droit_justice_affaires_interieures
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-175.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-11-27 : 1er dépôt d'une initiative. (PRJLSNR5S219B0175)
+  - 2013-11-27 : Etude d'impact (ETDISNR5S219B0175)
+  - 2013-11-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-11-27 : Renvoi en commission au fond
+      - 2013-12-11 : Nomination de rapporteur
+      - 2014-01-15 : Dépôt de rapport (RAPPSNR5S219B0288)
+  - Discussion en séance publique
+    - 2014-01-21 : Discussion en séance publique
+    - 2014-01-23 : Discussion en séance publique
+    - 2014-01-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-01-24 : Dépôt d'une initiative en navette (PRJLANR5L14B1729)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-01-24 : Renvoi en commission au fond
+      - 2014-01-22 : Nomination de rapporteur
+      - 2014-02-04 : Réunion de commission
+      - 2014-02-19 : Réunion de commission
+      - 2014-04-15 : Réunion de commission
+      - 2014-02-19 : Dépôt de rapport (RAPPANR5L14B1808, PRJLANR5L14BTC1808)
+  - Discussion en séance publique
+    - 2014-04-15 : Discussion en séance publique
+    - 2014-04-16 : Discussion en séance publique
+    - 2014-04-16 : Décision
+- deuxième lecture
+  - 2014-04-17 : Dépôt d'une initiative en navette (PRJLSNR5S219B0478)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-04-17 : Renvoi en commission au fond
+- Commission Mixte Paritaire
+  - 2014-04-17 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-05-13 : Nomination de rapporteur
+    - 2014-05-13 : Dépôt du rapport d'une CMP (RAPPANR5L14B1933)
+    - 2014-05-13 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0529)
+  - 2014-05-14 : Décision de la CMP
+- Nouvelle Lecture
+  - 2014-05-14 : Dépôt d'une initiative en navette (PRJLANR5L14B1952)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-05-14 : Renvoi en commission au fond
+      - 2014-09-17 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-09-17 : Dépôt de rapport (RAPPANR5L14B2200, PRJLANR5L14BTC2200)
+  - Discussion en séance publique
+    - 2014-10-30 : Discussion en séance publique
+    - 2014-10-30 : Décision
+- Nouvelle Lecture
+  - 2014-10-31 : Dépôt d'une initiative en navette (PRJLSNR5S239B0076)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-10-31 : Renvoi en commission au fond
+      - 2015-01-14 : Dépôt de rapport (RAPPSNR5S239B0215)
+  - Discussion en séance publique
+    - 2015-01-22 : Discussion en séance publique
+    - 2015-01-22 : Décision
+- Lecture définitive
+  - 2015-01-22 : Dépôt d'une initiative en navette (PRJLANR5L14B2523)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-01-22 : Renvoi en commission au fond
+      - 2015-01-28 : Dépôt de rapport (RAPPANR5L14B2525)
+  - Discussion en séance publique
+    - 2015-01-28 : Discussion en séance publique
+    - 2015-01-28 : Discussion en séance publique
+    - 2015-01-28 : Décision
+- Conseil constitutionnel
+  - 2015-01-29 : Saisine du conseil constitutionnel
+  - 2015-02-12 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2015-02-16 : Promulgation d'une loi
