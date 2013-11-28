@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008367
+
+- Question : [SEQ131008367](seq131008367.md) — Dispositif d'abattement fiscal des nouvelles entreprises de pêche artisanales
+
+## Réponse
+
+*Économie et finances, JO du 2013-11-28, page 3440*
+
+L'article 44 nonies du code général des impôts (CGI) issu de l'article 26 de la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche maritime et les cultures marines, prévoyait, sous conditions, un abattement temporaire de 50 % sur les bénéfices imposables réalisés pendant les 60 premiers mois d'activité par les artisans-pêcheurs soumis à un régime réel d'imposition et les pêcheurs associés des sociétés de pêche artisanale relevant du régime fiscal des sociétés de personnes, lorsque ceux-ci s'établissaient pour la première fois entre le 1er janvier 1997 et le 31 décembre 2003. Ce dispositif a été prorogé par l'article 51 de la loi de finances rectificative pour 2003 (n° 2003-1312 du 30 décembre 2003) pour les contribuables qui se sont installés pour la première fois avant le 31 décembre 2010. Depuis, ce régime dérogatoire n'a pas été reconduit. Ce dispositif n'apparaît en effet pas pleinement adapté à la situation des jeunes pêcheurs en première installation dont le bénéfice est réduit. C'est la raison pour laquelle le rapport du comité d'évaluation des dépenses fiscales et des niches sociales de juin 2011 a considéré cette mesure comme peu efficiente. Par ailleurs, ce secteur d'activité bénéficie de différentes aides non fiscales, par nature mieux adaptées aux besoins de financement d'entreprises de pêche nouvelle, par le biais notamment du fonds européen pour la pêche (fonds européen pour les affaires maritimes et la pêche à compter de 2014), telle par exemple l'aide à l'installation des jeunes pêcheurs. Pour l'ensemble de ces raisons, il n'est envisagé ni de rétablir cette dépense fiscale ni de créer un nouveau dispositif.
