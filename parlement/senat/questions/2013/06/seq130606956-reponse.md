@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130606956
+
+- Question : [SEQ130606956](seq130606956.md) — Sécurité sanitaire des salariés gérant des conteneurs
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2013-11-28, page 3445*
+
+Les opérations de fumigation des conteneurs destinées à éliminer les germes et les insectes susceptibles de se répandre dans l'environnement sont effectivement une source d'inquiétude pour les agents de manutention exposés aux risques d'inhalation. C'est aussi une préoccupation majeure des pouvoirs publics. Le Gouvernement a pris connaissance avec intérêt du rapport d'information de la mission commune d'information sur les pesticides du Sénat rendu en octobre 2012. Il a engagé une réflexion interministérielle visant à déterminer les modes d'action à mettre en place en vue, notamment, de renforcer les contrôles des conteneurs, de définir une stratégie de prévention adéquate sur la base des études qui doivent être menées pour mieux appréhender le type de risques auxquels peuvent être soumis les personnels concernés et d'améliorer la formation des agents de contrôle. Il est aussi prévu qu'une étude des actions mises en œuvre en Belgique et aux Pays-Bas en matière de traçabilité des expositions aux pesticides soit menée. Dans la mesure où les conteneurs sont souvent traités en amont de la chaîne logistique et ouverts lors des livraisons finales en dehors des ports, une démarche préventive intégrant l'ensemble du voyage « de porte-à-porte » qu'effectue le conteneur paraît devoir constituer un axe de cette réflexion dont le pilotage relève du ministère chargé de la santé s'agissant d'appliquer les dispositions du code de la santé publique relatives à la surveillance sanitaire des moyens de transport et de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
