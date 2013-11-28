@@ -1,0 +1,102 @@
+# Délibération n° 2013-368 du 28 novembre 2013 portant avis sur un projet d’arrêté autorisant les traitements de données à caractère personnel dénommés « Outils de suivi de l’activité » (OSA) au sein des centres de coopération policière et douanière (demande d’avis n° 13036148)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2013-368
+- Date : 2013-11-28
+- Publication : 2024-03-30
+- NOR : CNIX1407106X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000049341659
+
+La Commission nationale de l’informatique et des libertés,
+
+Saisie par le ministère de l’intérieur d’une demande d’avis concernant un projet d’arrêté autorisant les traitements de données à caractère personnel dénommés Outils de suivi de l’activité ;
+
+Vu la convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel ;
+
+Vu la convention d’application de l’accord de Schengen du 14 juin 1985 entre les gouvernements des Etats de l’union économique Benelux, de la République fédérale d’Allemagne et de la République française relative à la suppression graduelle des contrôles aux frontières communes, notamment ses articles 39 (5°) et 126 à 140 ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code de la sécurité intérieure, notamment son article L. 235-1 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés, notamment son article 26-1 (2°) et IV ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ;
+
+Après avoir entendu Mme Dominique CASTERA, commissaire, en son rapport et M. Jean-Alexandre SILVY, commissaire du Gouvernement, en ses observations,
+
+Emet l’avis suivant :
+
+La commission a été saisie par le ministère de l’intérieur d’une demande d’avis sur un projet d’arrêté autorisant les traitements de données à caractère personnel dénommés Outils de suivi de l’activité (OSA).
+
+Dans la mesure où ces traitements, mis en œuvre dans chacun des quatre centres de coopération policière et douanière (CCPD) situés sur le territoire français (Modane, Le Perthus, Melles et Hendaye), ont notamment pour objet la prévention, la recherche et la constatation d’infractions pénales, il y a lieu de faire application des dispositions de l’article 26-I (2°) de la loi du 6 janvier 1978 modifiée. Les traitements OSA doivent dès lors être autorisés par arrêté ministériel pris après avis de la commission.
+
+En outre, et conformément aux dispositions de l’article 26-IV de la loi du 6 janvier 1978, le projet d’arrêté a vocation à constituer un acte réglementaire unique, auquel devront se référer les engagements de conformité adressés par les responsables de tels traitements à la Commission.
+
+Sur les finalités
+
+Les traitements OSA, identiques dans tous les CCPD, ont pour finalité, d’une part, d’assurer le suivi et la gestion de l’activité du centre en matière d’échange d’informations dans le cadre de la coopération transfrontalière (requêtes adressées et réponses apportées par le CCPD) et, d’autre part, de garantir la traçabilité des informations transmises.
+
+Les CCPD sont des organes bilatéraux d’appui à la coopération transfrontalière directe qui réunissent, dans une même structure, des agents des services chargés de la sécurité dans la zone frontalière des Etats partenaires. Au sein de ces structures, la France est représentée par la police nationale (police aux frontières, police judiciaire, sécurité publique), la gendarmerie nationale et les douanes.
+
+Ces centres ont pour missions d’appuyer la coordination d’opérations transfrontalières et de participer à l’observation et à la poursuite transfrontalière. Ils sont également chargés de l’échange d’informations dans les domaines de la lutte contre l’immigration irrégulière, la délinquance transfrontalière, les trafics illicites, les faux documents, et en matière de prévention contre les menaces à l’ordre public. De tels échanges d’informations, à destination des Etats membres de l’espace Schengen, sont expressément prévus par les dispositions de l’article L. 235-1 du code de la sécurité intérieure.
+
+Ces échanges d’informations nécessitent la mise en œuvre d’un outil de gestion et de suivi des demandes dont les agents français des centres peuvent être saisis et de l’instruction de celles-ci. Chaque traitement OSA doit ainsi répertorier toutes les requêtes adressées au CCPD ainsi que les réponses apportées.
+
+La commission relève dès lors qu’il ne s’agit en aucun cas de créer de nouvelles bases de données policières recueillies par les CCPD, mais uniquement de mettre à la disposition de ces derniers un outil de suivi des échanges d’informations qui ont lieu par l’intermédiaire de ces centres.
+
+La commission considère que ces finalités sont déterminées, explicites et légitimes, conformément à l’article 6 (2°) de la loi du 6 janvier 1978 modifiée.
+
+Sur la nature des données
+
+Le projet d’arrêté prévoit deux catégories de données à caractère personnel enregistrées dans les traitements OSA.
+
+D’une part, il s’agit des données relatives aux demandes de coopérations (service et agent demandeur, date, heure et motif de la demande, objet de la demande, mention des fichiers éventuellement consultés, réponse apportée et renvois internes vers d’autres demandes dans la base de données). Ces renvois correspondent à des liens entre plusieurs fiches au sein des OSA (par exemple, lorsque l’immatriculation d’un véhicule ou d’une personne a déjà fait l’objet d’une requête dans le traitement, un message à l’écran le signale à l’agent). A cet égard, le ministère a confirmé que cette fonction ne permet pas de faire le lien avec les traitements mis en œuvre par d’autres CCPD ni avec d’autres traitements mis en œuvre au niveau national.
+
+D’autre part, il s’agit des données relatives aux personnes ou objets faisant l’objet d’une demande de coopération (identité de la personne ― nom, prénom, alias, pseudonyme, filiation ― date et lieu de naissance, nationalité, adresses, numéros de téléphone, situation administrative de la personne, du véhicule, d’une plaque d’immatriculation, de l’objet ou du document).
+
+La commission prend acte que les traitements OSA ne contiennent pas de donnée sensible au sens de l’article 8 de la loi du 6 janvier 1978 modifiée. Elle relève également qu’en aucun cas ces traitements ne comportent le contenu des fichiers consultés ou des recherches effectuées.
+
+La commission estime dès lors que ces données sont adéquates, pertinentes et non excessives au regard de la finalité des traitements.
+
+Sur la durée de conservation
+
+L’article 3 du projet d’arrêté prévoit que les données collectées sont conservées au maximum deux ans à compter de la date d’enregistrement de la demande.
+
+La commission considère que cette durée de conservation n’excède pas la durée de conservation nécessaire aux finalités de ces traitements.
+
+Sur les destinataires
+
+L’article 4 prévoit en tant qu’accédants directs aux traitements les seuls agents de la police nationale et des douanes ainsi que les militaires de la gendarmerie nationale, relevant de la partie française du CCPD concerné.
+
+La commission prend acte que, à sa demande, le ministère de l’intérieur a modifié le projet d’arrêté afin d’intégrer la mention selon laquelle ces accédants doivent être individuellement désignés et spécifiquement habilités.
+
+Le même article prévoit que les autres destinataires des données enregistrées dans les traitements OSA sont, d’une part, les personnels étrangers, relevant du pays partenaire, affectés dans les CCPD concernés, et, d’autre part, les agents de la police nationale, de la gendarmerie nationale et des douanes autres que ceux affectés dans les CCPD et les fonctionnaires de préfectures (bureau des immatriculations, bureau des permis de conduire, bureau des étrangers).
+
+Elle considère que les finalités des traitements OSA justifient que l’ensemble de ces destinataires puissent y avoir accès dans le cadre de leurs missions, notamment afin de permettre aux agents nationaux de procéder aux recherches rendues nécessaires par les demandes de coopération.
+
+Sur les droits des personnes
+
+L’article 6 du projet d’arrêté prévoit que, conformément aux articles 32-VI et 38 de la loi du 6 janvier 1978 modifiée, le droit d’information et le droit d’opposition ne s’appliquent pas à ces traitements.
+
+Les droits d’accès et de rectification s’exercent, conformément aux articles 39 et 40 de la même loi, directement auprès du directeur central de la police aux frontières.
+
+Toutefois, la commission relève que l’exercice de ces droits est limité par l’absence de droit d’information.
+
+Sur les sécurités
+
+Le contrôle d’accès est opéré par l’utilisation d’un identifiant et d’un mot de passe dont la complexité est conforme aux recommandations de la commission. A cet égard, elle rappelle que les mots de passe doivent comporter un minimum de huit caractères, être composés de trois types de caractères parmi les minuscules, majuscules, chiffres et caractères spéciaux. Le mot de passe doit être modifié par l’utilisateur dès sa première connexion, puis régulièrement sur une période ne dépassant pas une année. Enfin, les mots de passe ne doivent pas être conservés en clair dans une base de données ou un fichier et la commission recommande de conserver le résultat de la fonction de hachage HMAC à clé secrète sur le mot de passe.
+
+Par ailleurs, la commission relève qu’après vingt minutes d’inactivité les comptes sont automatiquement verrouillés et il sera nécessaire pour l’agent de renseigner son mot de passe pour rouvrir son compte.
+
+Concernant la traçabilité des opérations effectuées, la commission prend acte que tous les accès ainsi que toutes les opérations effectuées par les utilisateurs de l’application sont journalisés. Elle relève que cette obligation est expressément prévue à l’article 5 du projet d’arrêté.
+
+Les traitements mis en œuvre par les différents CCPD (centres de coopération policière et douanière) ne sont pas reliés entre eux. Ainsi, la commission prend acte que les données sont conservées sur un serveur local à chaque centre et que les bases de données ne sont pas reliées entre elles. De plus, les traitements ne sont pas reliés à internet.
+
+S’agissant des transmissions de données vers les personnels étrangers affectés au CCPD, travaillant dans la même salle que les agents français, celles-ci sont opérés au format papier ou par courriel à partir de la messagerie sécurisée du ministère de l’intérieur ou de celui chargé des douanes. Les données peuvent être transférées par fax lorsque les destinataires sont les services français du ministère de l’intérieur.
+
+La présidente,
+
+I. Falque-Pierrotin
