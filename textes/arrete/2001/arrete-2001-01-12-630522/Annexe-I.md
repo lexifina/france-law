@@ -1,32 +1,34 @@
 # Article Annexe I
 
-SUBSTANCES, PRODUITS
+Section I : Contaminants inorganiques et composés azotes
+
+SUBSTANCES
+
+indésirables
 
 |
 
-PRODUITS DESTINES AUX ALIMENTS POUR ANIMAUX
+PRODUITS DESTINES AUX ALIMENTS
+
+pour animaux
 
 |
 
 TENEUR MAXIMALE
 
-en mg/kg (ppm) d'aliments pour animaux d'une teneur en humidité de 12%
+en mg/kg (ppm) d’aliments
+
+pour animaux d’une teneur
+
+en humidité de 12%
 
 |
 
-A. - Substances (ions ou produits)
+1. Arsenic [1]
 
 |
 
-|
-
-|
-
-1. Arsenic (1-1).
-
-|
-
-Matières premières des aliments pour animaux, avec les exceptions suivantes :
+Matières premières des aliments pour animaux,
 
 |
 
@@ -34,7 +36,13 @@ Matières premières des aliments pour animaux, avec les exceptions suivantes :
 
 |
 
-- farines d'herbes, de luzerne déshydratée et de trèfle déshydraté ainsi que pulpe séchée de betteraves sucrières et pulpe séchée, mélassée de betteraves sucrières
+avec les exceptions suivantes:
+
+|
+
+|
+
+—farines d’herbes, de luzerne déshydratée et de trèfle déshydraté ainsi que pulpe séchée de betteraves sucrières et pulpe séchée, mélasse de betteraves sucrières,
 
 |
 
@@ -42,15 +50,15 @@ Matières premières des aliments pour animaux, avec les exceptions suivantes :
 
 |
 
-- tourteaux de pression de palmiste
+—tourteaux de pression de palmiste,
 
 |
 
-4 (1-2)
+4 [2]
 
 |
 
-- phosphates et algues marines calcaires
+—phosphates et algues marines calcaires,
 
 |
 
@@ -58,7 +66,7 @@ Matières premières des aliments pour animaux, avec les exceptions suivantes :
 
 |
 
-- carbonate de calcium
+—carbonate de calcium,
 
 |
 
@@ -66,7 +74,7 @@ Matières premières des aliments pour animaux, avec les exceptions suivantes :
 
 |
 
-- oxyde de magnésium
+—oxyde de magnésium et carbonate de magnésium,
 
 |
 
@@ -74,63 +82,61 @@ Matières premières des aliments pour animaux, avec les exceptions suivantes :
 
 |
 
-- aliments pour animaux provenant de la transformation de poisson ou d'autres animaux marins, poisson compris
+—poissons et autres animaux aquatiques et leurs produits dérivés,
 
 |
 
-25 (1-2)
+25 [2]
 
 |
 
-- farine d'algues marines et matières premières des aliments pour animaux dérivées d'algues marines
+—farine d’algues marines et matières premières des aliments pour animaux dérivées d’algues marines.
 
 |
 
-40 (1-2)
+40 [2]
 
 |
 
-Particules de fer employées comme traceur |
+Particules de fer employées comme traceur.
+
+|
 
 50
 
 |
 
-Additifs appartenant au groupe fonctionnel des composés d'oligo-éléments, avec les exceptions suivantes : |
+Additifs appartenant au groupe fonctionnel des composés d’oligo-éléments,
+
+|
 
 30
 
 |
 
-- sulfate de cuivre pentahydraté et carbonate de cuivre |
+avec les exceptions suivantes:
+
+|
+
+|
+
+—sulfate de cuivre pentahydraté et carbonate de cuivre,
+
+|
 
 50
 
 |
 
-- oxyde de zinc, oxyde de manganèse et oxyde de cuivre |
+—oxyde de zinc, oxyde de manganèse et oxyde de cuivre.
+
+|
 
 100
 
 |
 
-Aliments complets, avec l'exception suivante :
-
-|
-
-2
-
-|
-
-- aliments complets pour poissons et animaux à fourrure
-
-|
-
-10 (1-2)
-
-|
-
-Aliments complémentaires, avec l'exception suivante :
+Aliments complémentaires,
 
 |
 
@@ -138,7 +144,13 @@ Aliments complémentaires, avec l'exception suivante :
 
 |
 
-- aliments minéraux
+avec l’exception suivante:
+
+|
+
+|
+
+—aliments minéraux.
 
 |
 
@@ -146,11 +158,63 @@ Aliments complémentaires, avec l'exception suivante :
 
 |
 
-2. Plomb (a).
+Aliments complets,
 
 |
 
-Matières premières des aliments pour animaux, à l'exception :
+2
+
+|
+
+avec l’exception suivante:
+
+|
+
+|
+
+—aliments complets pour poissons et animaux à fourrure.
+
+|
+
+10 [2]
+
+|
+
+2. Cadmium
+
+|
+
+Matières premières des aliments pour animaux d’origine végétale.
+
+|
+
+1
+
+|
+
+Matières premières des aliments pour animaux d’origine animale.
+
+|
+
+2
+
+|
+
+Matières premières des aliments pour animaux d’origine minérale,
+
+|
+
+2
+
+|
+
+avec l’exception suivante:
+
+|
+
+|
+
+— phosphates.
 
 |
 
@@ -158,7 +222,21 @@ Matières premières des aliments pour animaux, à l'exception :
 
 |
 
-- des fourrages verts (b) ;
+Additifs appartenant au groupe fonctionnel des composés d’oligo-éléments,
+
+|
+
+10
+
+|
+
+avec l’exception suivante:
+
+|
+
+|
+
+—oxyde de cuivre, oxyde manganeux, oxyde de zinc et sulfate manganeux monohydrate.
 
 |
 
@@ -166,7 +244,15 @@ Matières premières des aliments pour animaux, à l'exception :
 
 |
 
-- des phosphates et des algues marines calcaires ;
+Additifs appartenant au groupe fonctionnel des agents liants et antimottants.
+
+|
+
+2
+
+|
+
+Pré mélanges [6]
 
 |
 
@@ -174,15 +260,27 @@ Matières premières des aliments pour animaux, à l'exception :
 
 |
 
-- du carbonate de calcium ;
+Aliments complémentaires,
 
 |
 
-20
+0,5
 
 |
 
-- des levures.
+avec les exceptions suivantes:
+
+|
+
+|
+
+—aliments minéraux,
+
+|
+
+|
+
+–contenant < 7 % de phosphore [8],
 
 |
 
@@ -190,7 +288,163 @@ Matières premières des aliments pour animaux, à l'exception :
 
 |
 
-Additifs appartenant au groupe fonctionnel des composés d'oligoéléments, à l'exception de :
+–contenant ≥ 7 % de phosphore [8]
+
+|
+
+0,75 pour 1 % de phosphore [8] avec un maximum de 7,5
+
+|
+
+—aliments complémentaires pour animaux familiers.
+
+|
+
+2
+
+|
+
+Aliments complets,
+
+|
+
+0,5
+
+|
+
+avec les exceptions suivantes:
+
+|
+
+|
+
+—aliments complets pour bovins (veaux exceptés), ovins (agneaux exceptés), caprins (chevreaux exceptés) et poissons;
+
+|
+
+1
+
+|
+
+—aliments complets pour animaux familiers.
+
+|
+
+2
+
+|
+
+3. Fluor [7]
+
+|
+
+Matières premières des aliments pour animaux,
+
+|
+
+150
+
+|
+
+avec les exceptions suivantes:
+
+|
+
+|
+
+—matières premières des aliments pour animaux d’origine animale, à l’exception des crustacés marins tels que le krill,
+
+|
+
+500
+
+|
+
+—crustacés marins tels que le krill,
+
+|
+
+3000
+
+|
+
+— phosphates,
+
+|
+
+2000
+
+|
+
+—carbonate de calcium,
+
+|
+
+350
+
+|
+
+—oxyde de magnésium,
+
+|
+
+600
+
+|
+
+—algues marines calcaires.
+
+|
+
+1000
+
+|
+
+Vermiculite (E 561).
+
+|
+
+3000
+
+|
+
+Aliments complémentaires:
+
+|
+
+|
+
+—contenant ≤ 4 % de phosphore [8],
+
+|
+
+500
+
+|
+
+—contenant > 4 % de phosphore [8].
+
+|
+
+125 pour 1 % de phosphore [8]
+
+|
+
+Aliments complets,
+
+|
+
+150
+
+|
+
+avec les exceptions suivantes:
+
+|
+
+|
+
+—aliments complets pour porcs,
 
 |
 
@@ -198,23 +452,29 @@ Additifs appartenant au groupe fonctionnel des composés d'oligoéléments, à l
 
 |
 
-- l'oxyde de zinc ;
+—aliments complets pour volaille (poussins exceptés) et poissons,
 
 |
 
-400
+350
 
 |
 
-- l'oxyde manganeux, du carbonate de fer, du carbonate de cuivre.
+—aliments complets pour poussins,
 
 |
 
-200
+250
 
 |
 
-Additifs appartenant aux groupes fonctionnels des agents liants et des antimottants, à l'exception de :
+—aliments complets pour bovins, ovins et caprins,
+
+|
+
+|
+
+– en lactation,
 
 |
 
@@ -222,23 +482,19 @@ Additifs appartenant aux groupes fonctionnels des agents liants et des antimotta
 
 |
 
-- clinoptilolite d'origine volcanique.
+– autres.
 
 |
 
-60
+50
 
 |
 
-Prémélanges.
+4. Plomb
 
 |
 
-200
-
-|
-
-Aliments complémentaires, à l'exception des :
+Matières premières des aliments pour animaux,
 
 |
 
@@ -246,7 +502,119 @@ Aliments complémentaires, à l'exception des :
 
 |
 
-- aliments minéraux.
+avec les exceptions suivantes:
+
+|
+
+|
+
+— fourrages [3],
+
+|
+
+30
+
+|
+
+—phosphates et algues marines calcaires,
+
+|
+
+15
+
+|
+
+—carbonate de calcium,
+
+|
+
+20
+
+|
+
+—levures.
+
+|
+
+5
+
+|
+
+Additifs appartenant au groupe fonctionnel des composés d’oligo-éléments,
+
+|
+
+100
+
+|
+
+avec les exceptions suivantes:
+
+|
+
+|
+
+—oxyde de zinc,
+
+|
+
+400
+
+|
+
+—oxyde manganeux, carbonate de fer, carbonate de cuivre.
+
+|
+
+200
+
+|
+
+Additifs appartenant au groupe fonctionnel des agents liants et antimottants,
+
+|
+
+30
+
+|
+
+avec l’exception suivante:
+
+|
+
+|
+
+—clinoptilolite d’origine volcanique.
+
+|
+
+60
+
+|
+
+Prémélanges [6].
+
+|
+
+200
+
+|
+
+Aliments complémentaires,
+
+|
+
+10
+
+|
+
+avec l’exception suivante:
+
+|
+
+|
+
+—aliments minéraux.
 
 |
 
@@ -262,163 +630,11 @@ Aliments complets.
 
 |
 
-3. Fluor (c).
+5. Mercure [4]
 
 |
 
-Matières premières des aliments pour animaux, à l'exception :
-
-|
-
-150
-
-|
-
-- des aliments d'origine animale, à l'exception des crustacés marins tels que le krill ;
-
-|
-
-500
-
-|
-
-- des crustacés marins tels que le krill ;
-
-|
-
-3 000
-
-|
-
-- des phosphates ;
-
-|
-
-2 000
-
-|
-
-- du carbonate de calcium ;
-
-|
-
-350
-
-|
-
-- de l'oxyde de magnésium ;
-
-|
-
-600
-
-|
-
-- des algues marines calcaires.
-
-|
-
-1 000
-
-|
-
-Vermiculite (E 561).
-
-|
-
-3 000
-
-|
-
-Aliments complémentaires :
-
-|
-
-|
-
-- contenant ≤ 4 % de phosphore ;
-
-|
-
-500
-
-|
-
-- contenant > 4 % de phosphore.
-
-|
-
-125 pour 1 % de phosphore
-
-|
-
-Aliments complets, à l'exception des :
-
-|
-
-150
-
-|
-
-- aliments complets pour bovins, ovins et caprins :
-
-|
-
-|
-
-- en lactation ;
-
-|
-
-30
-
-|
-
-- autres ;
-
-|
-
-50
-
-|
-
-- aliments complets pour porcs ;
-
-|
-
-100
-
-|
-
-- aliments complets pour volaille ;
-
-|
-
-350
-
-|
-
-- aliments complets pour poussins ;
-
-|
-
-250
-
-|
-
-- aliments complets pour poissons.
-
-|
-
-350
-
-|
-
-4. Mercure (m).
-
-|
-
-Matières premières des aliments pour animaux
+Matières premières des aliments pour animaux,
 
 |
 
@@ -426,13 +642,13 @@ Matières premières des aliments pour animaux
 
 |
 
-A l'exception de :
+avec les exceptions suivantes:
 
 |
 
 |
 
-- aliments provenant de poissons ou de la transformation de poissons ou d'autres animaux marins
+—poissons et autres animaux aquatiques et leurs produits dérivés,
 
 |
 
@@ -440,7 +656,7 @@ A l'exception de :
 
 |
 
-- carbonate de calcium
+—carbonate de calcium.
 
 |
 
@@ -448,7 +664,7 @@ A l'exception de :
 
 |
 
-Aliments composés (complémentaires et complets)
+Aliments composés pour animaux,
 
 |
 
@@ -456,21 +672,13 @@ Aliments composés (complémentaires et complets)
 
 |
 
-A l'exception de :
+avec les exceptions suivantes:
 
 |
 
 |
 
-- aliments minéraux
-
-|
-
-0,2
-
-|
-
-- aliments composés pour poissons
+—aliments minéraux,
 
 |
 
@@ -478,7 +686,15 @@ A l'exception de :
 
 |
 
-- aliments composés pour chiens, chats et animaux à fourrure
+—aliments composés pour poissons,
+
+|
+
+0,2
+
+|
+
+—aliments composés pour chiens, chats et animaux à fourrure.
 
 |
 
@@ -486,123 +702,11 @@ A l'exception de :
 
 |
 
-5. Nitrites.
+6. Nitrite [5]
 
 |
 
-Matières premières des aliments pour animaux
-
-|
-
-15 (exprimé en nitrite de sodium)
-
-|
-
-A l'exception de :
-
-|
-
-|
-
-- farine de poisson
-
-|
-
-30 (exprimé en nitrite de sodium)
-
-|
-
-- fourrage ensilé
-
-|
-
--
-
-|
-
-Aliments complets
-
-|
-
-15 (exprimé en nitrite de sodium)
-
-|
-
-A l'exception de :
-
-|
-
-|
-
-- aliments complets pour chiens et chats d'une teneur en humidité supérieure à 20 %
-
-|
-
--
-
-|
-
-6. Cadmium (d).
-
-|
-
-Matières premières des aliments pour animaux d'origine végétale.
-
-|
-
-1
-
-|
-
-Matières premières des aliments pour animaux d'origine animale.
-
-|
-
-2
-
-|
-
-Matières premières des aliments pour animaux d'origine minérale, à l'exception des :
-
-|
-
-2
-
-|
-
-- phosphates.
-
-|
-
-10
-
-|
-
-Additifs appartenant au groupe d'oligoéléments, à l'exception :
-
-|
-
-10
-
-|
-
-- de l'oxyde de cuivre, de l'oxyde manganeux, de l'oxyde de zinc et du sulfate manganeux monohydrate.
-
-|
-
-30
-
-|
-
-Additifs appartenant aux groupes fonctionnels des agents liants et des antimottants.
-
-|
-
-2
-
-|
-
-Prémélanges.
+Matières premières des aliments pour animaux,
 
 |
 
@@ -610,81 +714,153 @@ Prémélanges.
 
 |
 
-Aliments minéraux :
+avec les exceptions suivantes:
 
 |
 
 |
 
-- contenant < 7 % de phosphore ;
+—farine de poisson,
 
 |
 
-5
+30
 
 |
 
-- contenant ≥ 7 % de phosphore.
+—fourrage ensilé,
 
 |
 
-0,75 pour 1 % de phosphore, avec un maximum de 7,5
+—
 
 |
 
-Aliments complémentaires pour animaux familiers ;
+—produits et sous-produits de betteraves sucrières, de cannes à sucre et de la production d’amidon.
 
 |
 
-2
+—
 
 |
 
-Autres aliments complémentaires.
+Aliments complets,
 
 |
 
-0,5
+15
 
 |
 
-Aliments complets pour bovins, ovins et caprins et aliments pour poissons, à l'exception :
-
-|
-
-1
-
-|
-
-- des aliments complets pour animaux familiers.
-
-|
-
-2
-
-|
-
-- des aliments complets pour veaux, agneaux et chevreaux et autres aliments complets.
-
-|
-
-0,5
-
-|
-
-B. - Produits
+avec l’exception suivante:
 
 |
 
 |
 
-|
-
-1. Aflatoxine B 1.
+—aliments complets pour chiens et chats d’une teneur en humidité supérieure à 20 %.
 
 |
 
-Toutes les matières premières des aliments pour animaux
+—
+
+|
+
+7. Mélamine [9]
+
+|
+
+Aliments pour animaux,
+
+|
+
+2,5
+
+|
+
+à l’exception des additifs suivants:
+
+|
+
+|
+
+—acide guanidinoacétique (GAA),
+
+|
+
+—
+
+|
+
+—urée,
+
+|
+
+—
+
+|
+
+—biuret.
+
+|
+
+—
+
+|
+
+|
+
+|
+
+[1] Les teneurs maximales se rapportent à l'arsenic total.
+
+[2] À la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (Hizikia fusiforme).
+
+[3] Les fourrages comprennent les produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.
+
+[4] Les teneurs maximales se rapportent aux teneurs totales en mercure.
+
+[5] Les teneurs maximales sont exprimées en nitrite de sodium.
+
+[6] La teneur maximale fixée pour les pré mélanges tient compte des additifs présentant la teneur en plomb et en cadmium la plus élevée, et non de la sensibilité des différentes espèces animales au plomb et au cadmium. Pour protéger la santé publique et la santé animale et comme le prévoit l'article 16 du règlement (CE) no 1831/2003 du Parlement européen et du Conseil du 22 septembre 2003 relatif aux additifs destinés à l'alimentation des animaux (JO L 268 du 18.10.2003, p. 29), il incombe au producteur de pré mélanges d'assurer non seulement leur conformité aux teneurs maximales pour les pré mélanges, mais aussi la conformité de leur mode d'emploi aux teneurs maximales pour les aliments complémentaires et complets.
+
+[7] Les teneurs maximales renvoient à une détermination analytique du fluor, l'extraction s'effectuant avec de l'acide chlorhydrique 1 N pendant vingt minutes à la température ambiante. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+
+[8] Le pourcentage de phosphore se rapporte à un aliment pour animaux d'une teneur en humidité de 12 %
+
+[9] La teneur maximale se rapporte uniquement à la mélamine. La prise en compte, dans la teneur maximale, des composés de structure analogue (acide cyanurique, ammeline et ammelide) sera examinée à un stade ultérieur.
+
+|
+
+Section II : Mycotoxines
+
+SUBSTANCES
+
+indésirables
+
+|
+
+PRODUITS DESTINES AUX ALIMENTS
+
+pour animaux
+
+|
+
+TENEUR MAXIMALE
+
+en mg/kg (ppm) d’aliments
+
+pour animaux d’une teneur
+
+en humidité de 12%
+
+|
+
+1. Aflatoxine B1
+
+|
+
+Matières premières des aliments pour animaux.
 
 |
 
@@ -692,23 +868,7 @@ Toutes les matières premières des aliments pour animaux
 
 |
 
-Aliments complets pour bovins, ovins et caprins, à l'exception de :
-
-|
-
-0,02
-
-|
-
-- aliments complets pour bétail laitier
-
-|
-
-0,005
-
-|
-
-- aliments complets pour veaux, agneaux et chevreaux
+Aliments complémentaires et complets,
 
 |
 
@@ -716,39 +876,13 @@ Aliments complets pour bovins, ovins et caprins, à l'exception de :
 
 |
 
-Aliments complets pour porcs et volailles (à l'exception des jeunes animaux)
+avec les exceptions suivantes:
 
 |
 
-0,02
-
 |
 
-Autres aliments complets
-
-|
-
-0,01
-
-|
-
-Aliments complémentaires pour bovins, ovins et caprins (à l'exception des aliments complémentaires pour bétail laitier, veaux, agneaux et chevreaux)
-
-|
-
-0,02
-
-|
-
-Aliments complémentaires pour porc et volailles (à l'exception des jeunes animaux)
-
-|
-
-0,02
-
-|
-
-Autres aliments complémentaires
+—aliments composés pour bétail laitier et veaux, brebis laitières et agneaux, chèvres laitières et chevreaux, porcelets et jeunes volailles,
 
 |
 
@@ -756,63 +890,55 @@ Autres aliments complémentaires
 
 |
 
-2. Acide cyanhydrique.
+—aliments composés pour bovins (bétail laitier et veaux exceptés), ovins (brebis laitières et agneaux exceptés), caprins (chèvres laitières et chevreaux exceptés), porcs (porcelets exceptés) et volaille (jeunes animaux exceptés).
 
 |
 
-Matières premières pour aliments des animaux, à l'exception de :
+0,02
 
 |
 
-50
+2. Ergot du seigle (Claviceps purpurea)
 
 |
 
-- graines de lin
+Matières premières des aliments pour animaux et aliments composés pour animaux contenant des céréales non moulues.
 
 |
 
-250
+1000
 
 |
 
-- tourteaux de lin
+Section III : Toxines endogènes des plantes
+
+SUBSTANCES
+
+indésirables
 
 |
 
-350
+PRODUITS DESTINES AUX ALIMENTS
+
+pour animaux
 
 |
 
-- produits de manioc et tourteaux d'amandes
+TENEUR MAXIMALE
+
+en mg/kg (ppm) d’aliments
+
+pour animaux d’une teneur
+
+en humidité de 12%
 
 |
 
-100
+1. Gossypol libre
 
 |
 
-Aliments complets, à l'exception de :
-
-|
-
-50
-
-|
-
-- aliments complets pour poussins
-
-|
-
-10
-
-|
-
-3. Gossypol libre.
-
-|
-
-Matières premières des aliments pour animaux
+Matières premières des aliments pour animaux,
 
 |
 
@@ -820,29 +946,29 @@ Matières premières des aliments pour animaux
 
 |
 
-A l'exception de :
+avec les exceptions suivantes:
 
 |
 
 |
 
-- graines de coton
+—graines de coton,
 
 |
 
-5 000
+5000
 
 |
 
-- tourteaux de graines de coton et farine de graines de coton
+—tourteaux de graines de coton et farine de graines de coton.
 
 |
 
-1 200
+1200
 
 |
 
-Aliments complets
+Aliments complets,
 
 |
 
@@ -850,13 +976,13 @@ Aliments complets
 
 |
 
-A l'exception de :
+avec les exceptions suivantes:
 
 |
 
 |
 
-- aliments complets pour bovins adultes
+—aliments complets pour bovins (veaux exceptés),
 
 |
 
@@ -864,7 +990,7 @@ A l'exception de :
 
 |
 
-- aliments complets pour ovins (à l'exception des agneaux) et caprins (à l'exception des chevreaux)
+—aliments complets pour ovins (agneaux exceptés) et caprins (chevreaux exceptés),
 
 |
 
@@ -872,7 +998,11 @@ A l'exception de :
 
 |
 
-- aliments complets pour volailles (à l'exception des volailles pondeuses) et veaux
+1. Gossipol libre
+
+|
+
+—aliments complets pour volailles (poules pondeuses exceptées) et veaux,
 
 |
 
@@ -880,7 +1010,7 @@ A l'exception de :
 
 |
 
-- aliments complets pour lapins, agneaux, chevreaux et porcs (à l'exception des porcelets)
+—aliments complets pour lapins, agneaux, chevreaux et porcs (porcelets exceptés).
 
 |
 
@@ -888,37 +1018,41 @@ A l'exception de :
 
 |
 
-4. Théobromine.
+2. Acide cyanhydrique
 
 |
 
-Aliments complets, avec les exceptions suivantes :
+Matières premières des aliments pour animaux,
 
 |
-
-300
-
-|
-
-- aliments complets pour porcs
-
-|
-
-200
-
-|
-
-- aliments complets pour chiens, lapins, chevaux et animaux à fourrure |
 
 50
 
 |
 
-5. Essence volatile de moutarde.
+avec les exceptions suivantes:
 
 |
 
-Matières premières pour aliments des animaux, à l'exception de :
+|
+
+—graines de lin,
+
+|
+
+250
+
+|
+
+—tourteaux de lin,
+
+|
+
+350
+
+|
+
+—produits de manioc et tourteaux d’amandes.
 
 |
 
@@ -926,89 +1060,21 @@ Matières premières pour aliments des animaux, à l'exception de :
 
 |
 
-- tourteaux de colza
+Aliments complets,
 
 |
 
-4 000 (exprimé en isothiocyanate d'allyle)
+50
 
 |
 
-Aliments complets, à l'exception de :
+avec l’exception suivante:
 
 |
 
-150 (exprimé en isothiocyanate d'allyle)
-
 |
 
-- aliments complets pour bovins, ovins et caprins (à l'exception des jeunes animaux)
-
-|
-
-1 000 (exprimé en isothiocyanate d'allyle)
-
-|
-
-- aliments complets pour porcs là l'exception des porcelets) et volailles
-
-|
-
-500 (exprimé en isothiocyanate d'allyle)
-
-|
-
-6. Vinylthiooxazolidone (vinyle-oxazolidine thione).
-
-|
-
-Aliments complets pour volailles, à l'exception de :
-
-|
-
-1 000
-
-|
-
-- aliments complets pour volaille de ponte
-
-|
-
-500
-
-|
-
-7. Ergot du seigle (Claviceps purpurea).
-
-|
-
-Tous les aliments contenant des céréales non moulues
-
-|
-
-1 000
-
-|
-
-8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble autres que : Datura spp.
-
-|
-
-Tous les aliments
-
-|
-
-3 000
-
-1 000
-
-|
-
-9. Graines et coques de Ricinus communis L., Croton tiglium L. et Abrus precatorius L. et les dérivés de leur transformation (1), isolément ou ensemble.
-
-|
-
-Tous les aliments
+—aliments complets pour jeunes poulets (< 6 semaines).
 
 |
 
@@ -1016,11 +1082,73 @@ Tous les aliments
 
 |
 
-10. Crotalaria spp.
+3. Théobromine
 
 |
 
-Tous les aliments
+Aliments complets,
+
+|
+
+300
+
+|
+
+avec les exceptions suivantes:
+
+|
+
+|
+
+—aliments complets pour porcs,
+
+|
+
+200
+
+|
+
+—aliments complets pour chiens, lapins, chevaux et animaux à fourrure.
+
+|
+
+50
+
+|
+
+4.Vinylthiooxazolidone
+
+(5-vinyloxazolidine-2-thione)
+
+|
+
+Aliments complets pour volailles
+
+|
+
+1000
+
+|
+
+avec l’exception suivante :
+
+|
+
+|
+
+—aliments complets pour volailles de ponte.
+
+|
+
+500
+
+|
+
+5. Essence volatile de moutarde [10]
+
+|
+
+Matières premières des aliments pour animaux,
 
 |
 
@@ -1028,43 +1156,121 @@ Tous les aliments
 
 |
 
-11. Aldrine (j).
+avec l’exception suivante:
 
 |
 
-Tous les aliments, à l'exception :
+|
+
+— tourteaux de colza.
 
 |
 
-0,01 (k)
+4000
 
 |
 
-12. Dieldrine.
+Aliments complets,
 
 |
 
-- des matières grasses et huiles ;
+150
 
 |
 
-0,1 (k)
+avec les exceptions suivantes:
 
 |
 
-- des aliments pour poissons.
+|
+
+—aliments complets pour bovins (veaux exceptés), ovins (agneaux exceptés) et caprins (chevreaux exceptés),
 
 |
 
-0,02 (k)
+1000
 
 |
 
-13. Camphéchlore (toxaphène) - somme des congénères indicateurs CHB 26, 50 et 62 (e).
+—aliments complets pour porcs (porcelets exceptés) et volailles.
 
 |
 
-- Poissons, autres animaux aquatiques, leurs produits et leurs sous-produits, à l'exception de l'huile de poisson.
+500
+
+|
+
+[10] Les teneurs maximales sont exprimées en isothiocyanate d'allyle.
+
+|
+
+Section IV : Composés organochlorés (dioxines et pcb exceptés)
+
+SUBSTANCES
+
+indésirables
+
+|
+
+PRODUITS DESTINES AUX ALIMENTS
+
+pour animaux
+
+|
+
+TENEUR MAXIMALE
+
+en mg/kg (ppm) d’aliments
+
+pour animaux d’une teneur
+
+en humidité de 12%
+
+|
+
+1. Aldrine [11]
+
+|
+
+Matières premières des aliments pour animaux et aliments composés pour animaux,
+
+|
+
+0,01 [12]
+
+|
+
+2. Dieldrine [11]
+
+|
+
+avec les exceptions suivantes:
+
+|
+
+|
+
+—matières grasses et huiles,
+
+|
+
+0,1 [12]
+
+|
+
+—aliments composés pour poissons.
+
+|
+
+0,02 [12]
+
+|
+
+3. Camphéchlore (toxaphène) — somme des congénères indicateurs CHB 26, 50 et 62 [13]
+
+|
+
+Poissons et autres animaux aquatiques et leurs produits dérivés,
 
 |
 
@@ -1072,7 +1278,13 @@ Tous les aliments, à l'exception :
 
 |
 
-- Huile de poisson.
+avec l’exception suivante :
+
+|
+
+|
+
+—huile de poisson.
 
 |
 
@@ -1080,7 +1292,7 @@ Tous les aliments, à l'exception :
 
 |
 
-- Aliments pour poissons.
+Aliments complets pour poissons.
 
 |
 
@@ -1088,11 +1300,11 @@ Tous les aliments, à l'exception :
 
 |
 
-14. Chlordane (somme des isomères cis et trans et de l'oxychlordane, calculée sous forme de chlordane).
+4. Chlordane (somme des isomères cis et trans de l’oxychlordane, calculée sous forme de chlordane)
 
 |
 
-Tous les aliments, à l'exception :
+Matières premières des aliments pour animaux et aliments composés pour animaux
 
 |
 
@@ -1100,7 +1312,13 @@ Tous les aliments, à l'exception :
 
 |
 
-- des matières grasses et huiles.
+avec l’exception suivante :
+
+|
+
+|
+
+—matières grasses et huiles.
 
 |
 
@@ -1108,11 +1326,11 @@ Tous les aliments, à l'exception :
 
 |
 
-15. DDT (somme des isomères de DDT, DDD [ou TDE] et DDE, calculée sous forme de DDT).
+5. DDT [somme des isomères de DDT, DDD (ou TDE) et DDE, calculée sous forme de DDT]
 
 |
 
-Tous les aliments à l'exception :
+Matières premières des aliments pour animaux et aliments composés pour animaux,
 
 |
 
@@ -1120,7 +1338,13 @@ Tous les aliments à l'exception :
 
 |
 
-- des matières grasses et des huiles.
+avec l’exception suivante :
+
+|
+
+|
+
+—matières grasses et huiles.
 
 |
 
@@ -1128,11 +1352,11 @@ Tous les aliments à l'exception :
 
 |
 
-16. Endosulfan (somme des isomères alpha et bêta et de l'endosulfansulfate, calculée sous forme d'endosulfan).
+6. Endosulfan (somme des isomères alpha et bêta et de l’endosulfansulfate, calculée sous forme d’endosulfan)
 
 |
 
-Tous les aliments, à l'exception :
+Matières premières des aliments pour animaux et aliments composés pour animaux,
 
 |
 
@@ -1140,7 +1364,13 @@ Tous les aliments, à l'exception :
 
 |
 
-- du maïs et des produits dérivés de sa transformation ;
+avec les exceptions suivantes :
+
+|
+
+|
+
+—maïs et produits dérivés de sa transformation,
 
 |
 
@@ -1148,7 +1378,7 @@ Tous les aliments, à l'exception :
 
 |
 
-- des graines oléagineuses et des produits dérivés de leur transformation, à l'exception de l'huile végétale brute ;
+—graines oléagineuses et produits dérivés de leur transformation (huile végétale brute exceptée),
 
 |
 
@@ -1156,15 +1386,15 @@ Tous les aliments, à l'exception :
 
 |
 
-- de l'huile végétale brute ;
+—huile végétale brute,
 
 |
 
-1,0
+1
 
 |
 
-- des aliments complets pour poissons.
+—aliments complets pour poissons.
 
 |
 
@@ -1172,11 +1402,11 @@ Tous les aliments, à l'exception :
 
 |
 
-17. Endrine (somme de l'endrine et de la delta-cétoendrine, calculée sous forme d'endrine).
+7. Endrine (somme de l’endrine et de la delta-cétoendrine, calculée sous forme d’endrine)
 
 |
 
-Tous les aliments, à l'exception :
+Matières premières des aliments pour animaux et aliments composés pour animaux,
 
 |
 
@@ -1184,7 +1414,13 @@ Tous les aliments, à l'exception :
 
 |
 
-- des matières grasses et des huiles.
+avec l’exception suivante :
+
+|
+
+|
+
+—matières grasses et huiles.
 
 |
 
@@ -1192,31 +1428,11 @@ Tous les aliments, à l'exception :
 
 |
 
-18. Heptachlore (somme de l'heptachlore et de l'époxyde d'heptachlore, calculée sous forme d'heptachlore).
+8. Heptachlore (somme de l’heptachlore et de l’époxyde d’heptachlore, calculée sous forme d’heptachlore)
 
 |
 
-Tous les aliments, à l'exception :
-
-|
-
-0,01
-
-|
-
-- des matières grasses et des huiles.
-
-|
-
-0,2
-
-|
-
-19. Hexachlorobenzène (HCB).
-
-|
-
-Tous les aliments, à l'exception :
+Matières premières des aliments pour animaux et aliments composés pour animaux,
 
 |
 
@@ -1224,7 +1440,13 @@ Tous les aliments, à l'exception :
 
 |
 
-- des matières grasses et des huiles.
+avec l’exception suivante :
+
+|
+
+|
+
+—matières grasses et huiles.
 
 |
 
@@ -1232,7 +1454,33 @@ Tous les aliments, à l'exception :
 
 |
 
-20. Hexachlorocyclohexane (HCH).
+9.Hexa chlorobenzène (HCB)
+
+|
+
+Matières premières des aliments pour animaux et aliments composés pour animaux,
+
+|
+
+0,01
+
+|
+
+avec l’exception suivante :
+
+|
+
+|
+
+—matières grasses et huiles.
+
+|
+
+0,2
+
+|
+
+10. Hexachlorocyclohexane (HCH)
 
 |
 
@@ -1240,11 +1488,11 @@ Tous les aliments, à l'exception :
 
 |
 
-20.1. Isomères alpha.
+—Isomères alpha
 
 |
 
-Tous les aliments, à l'exception :
+Matières premières des aliments pour animaux et aliments composés pour animaux,
 
 |
 
@@ -1252,7 +1500,13 @@ Tous les aliments, à l'exception :
 
 |
 
-- des matières grasses et des huiles.
+avec l’exception suivante :
+
+|
+
+|
+
+—matières grasses et huiles.
 
 |
 
@@ -1260,11 +1514,11 @@ Tous les aliments, à l'exception :
 
 |
 
-20.2. Isomères bêta.
+—Isomères bêta
 
 |
 
-Toutes les matières premières des aliments pour animaux, à l'exception :
+Matières premières des aliments pour animaux,
 
 |
 
@@ -1272,7 +1526,13 @@ Toutes les matières premières des aliments pour animaux, à l'exception :
 
 |
 
-- des matières grasses et des huiles.
+avec l’exception suivante :
+
+|
+
+|
+
+—matières grasses et huiles.
 
 |
 
@@ -1280,7 +1540,7 @@ Toutes les matières premières des aliments pour animaux, à l'exception :
 
 |
 
-Tous les aliments composés, à l'exception :
+Aliments composés pour animaux,
 
 |
 
@@ -1288,7 +1548,13 @@ Tous les aliments composés, à l'exception :
 
 |
 
-- des aliments composés pour le bétail laitier.
+avec l’exception suivante :
+
+|
+
+|
+
+—aliments composés pour bétail laitier.
 
 |
 
@@ -1296,11 +1562,11 @@ Tous les aliments composés, à l'exception :
 
 |
 
-20.3. Isomères gamma.
+—Isomères gamma
 
 |
 
-Tous les aliments, à l'exception :
+Matières premières des aliments pour animaux et aliments composés pour animaux,
 
 |
 
@@ -1308,517 +1574,63 @@ Tous les aliments, à l'exception :
 
 |
 
-- des matières grasses et des huiles.
+avec l’exception suivante :
 
 |
 
-2,0
-
-|
-
-21. Dioxines [somme des dibenzoparadioxines polychlorées (PCDD) et des dibenzofuranes polychlorés (PCDF), exprimée en équivalents toxiques de l'Organisation mondiale de la santé (OMS), en utilisant les TEF-OMS (facteurs d'équivalence toxique, 1997) (f)].
-
-|
-
-a) Matières premières d'origine végétale pour aliments des animaux, à l'exception des huiles végétales et de leurs sous-produits.
-
-|
-
-0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-b) Huiles végétales et leurs sous-produits.
-
-|
-
-0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-c) Matières premières d'origine minérale pour aliments des animaux.
-
-|
-
-1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-d) Matières grasses animales, y compris les matières grasses du lait et de l'œuf.
-
-|
-
-2,0 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-e) Autres produits d'animaux terrestres, y compris le lait et les produits laitiers et les œufs et les ovoproduits.
-
-|
-
-0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-f) Huile de poisson.
-
-|
-
-6,0 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-g) Poissons, autres animaux aquatiques, leurs produits et leurs sous-produits, à l'exception de l'huile de poisson et des hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses (i).
-
-|
-
-1,25 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-h) Hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses.
-
-|
-
-2,25 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-i) Argiles kaolinitiques, sulfate de calcium dihydraté, vermiculite, natrolitephonolite, aluminates de calcium synthétiques et clinoptilolite d'origine sédimentaire appartenant au groupe fonctionnel des liants et des antiagglomérants.
-
-|
-
-0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-j) Additifs appartenant au groupe fonctionnel des composés d'oligoéléments.
-
-|
-
-1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-k) Prémélanges.
-
-|
-
-1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-l) Aliments composés pour animaux, à l'exception des aliments destinés aux animaux à fourrure, aux animaux familiers et aux poissons.
-
-|
-
-0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-m) Aliments pour poissons. Aliments pour animaux familiers.
-
-|
-
-2,25 ng OMS-PCDD/F-TEQ/kg (g) (h).
-
-|
-
-21 bis. Somme des dioxines et des PCB de type dioxine [somme des dibenzoparadioxines polychlorées (PCDD), des dibenzofuranes polychlorés (PCDF) et des polychlorobiphényles (PCB), exprimée en équivalents toxiques de l'Organisation mondiale de la santé (OMS), en utilisant les TEF-OMS (facteurs d'équivalence toxique, 1997) (f)].
-
-|
-
-a) Matières premières d'origine végétale pour aliments des animaux, à l'exception des huiles végétales et de leurs sous-produits.
-
-|
-
-1,25 ng OMS-PCDD/F-PCB-TEQ/kg (g)
-
-|
-
-b) Huiles végétales et leurs sous-produits.
-
-|
-
-1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
-
-|
-
-c) Matières premières d'origine minérale pour aliments des animaux.
-
-|
-
-1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
-
-|
-
-d) Matières grasses animales, y compris les matières grasses du lait et de l'œuf.
-
-|
-
-3,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).
-
-|
-
-e) Autres produits d'animaux terrestres, y compris le lait et les produits laitiers et les œufs et les ovoproduits.
-
-|
-
-1,25 ng OMS-PCDD/F-PCB-TEQ/kg (g).
-
-|
-
-f) Huile de poisson.
-
-|
-
-24,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).
-
-|
-
-g) Poissons, autres animaux aquatiques, leurs produits et leurs sous-produits, à l'exception de l'huile de poisson et des hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses (i).
-
-|
-
-4,5 ng OMS-PCDD/F-PCB-TEQ/kg (g)
-
-|
-
-h) Hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses.
-
-|
-
-11,0 ng OMS-PCDD/F-PCB-TEQ/kg (g)
-
-|
-
-i) Additifs appartenant au groupe fonctionnel des liants et des anti-agglomérants.
-
-|
-
-1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
-
-|
-
-j) Additifs appartenant au groupe fonctionnel des composés d'oligoéléments.
-
-|
-
-1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
-
-|
-
-k) Prémélanges.
-
-|
-
-1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
-
-|
-
-l) Aliments composés pour animaux, à l'exception des aliments destinés aux animaux à fourrure, aux animaux familiers et aux poissons.
-
-|
-
-1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).
-
-|
-
-m) Aliments pour poissons, aliments pour animaux familiers.
-
-|
-
-7,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).
-
-|
-
-C. - Impuretés botaniques
-
-|
-
-|
-
-|
-
-3. Faîne non décortiquée -Fagus silvatica (L.).
-
-|
-
-Tous les aliments
-
-|
-
-Les graines et fruits et dérivés de leur transformation des espèces végétales ci-contre ne peuvent se trouver dans les aliments des animaux qu'en quantité indécelable.
-
-|
-
-6. Purgère -Jatropha curcas L.
-
-|
-
-8. Moutarde indienne - Brassica juncea (L.) Czern. et Coss. spp, integrifolia (West.) Thell.
-
-|
-
-9. Moutarde de Sarepte - Brassica juncea (L.) Czern. et Coss. spp. Juncea.
-
-|
-
-10. Moutarde chinoise - Brassica juncea (L.) Czern. et Coss. Spp. Juncea var. lutea Batalin.
-
-|
-
-11. Moutarde noire - Brassica nigra (L.) Koch.
-
-|
-
-12. Moutarde d'Abyssinie (d'Ethiopie) - Brassica carinate A. Braun.
-
-|
-
-D. - Coccidiostatiques et histomonostatiques des aliments pour animaux non cibles
-
-|
-
-|
-
-|
-
-1. Lasalocide sodium
-
-|
-
-Matières premières des aliments des animaux
-
-|
-
-1,25
-
-|
-
-Aliments composés pour :
-
-|
-
-|
-
-- chiens, veaux, lapins, équidés, animaux laitiers, oiseaux pondeurs, dindes (> 12 semaines) et poulettes destinées à la ponte (> 16 semaines)
-
-|
-
-1,25
-
-|
-
-- poulets d'engraissement, poulettes destinées à la ponte (< 16 semaines) et dindes (< 12 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de lasalocide sodium est interdite (aliments de retrait)
-
-|
-
-1,25
-
-|
-
-- autres espèces animales
-
-|
-
-3,75
-
-|
-
-Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de lasalocide sodium n'est pas autorisée
-
-|
-
-(**)
-
-|
-
-2. Narasin
-
-|
-
-Matières premières des aliments des animaux
-
-|
-
-0,7
-
-|
-
-Aliments composés pour :
-
-|
-
-|
-
-- dindes, lapins, équidés, oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
-
-|
-
-0, 7
-
 |
 
-- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de narasine est interdite (aliments de retrait)
+—matières grasses et huiles.
 
 |
 
-0,7
+2
 
 |
 
-- autres espèces animales
+[11] Isolément ou ensemble, exprimée en dieldrine.
 
-|
-
-2,1
-
-|
-
-Prémélanges entrant dans la composition d'aliments dans lesquels l'utilisation de narasin n'est pas autorisée
-
-|
-
-(**)
-
-|
-
-3. Salinomycine sodium
-
-|
-
-Matières premières des aliments des animaux
-
-|
-
-0,7
-
-|
-
-Aliment composé pour :
-
-|
-
-|
-
-- équidés, dindes, oiseaux pondeurs et poulettes destinées à la ponte (> 12 semaines)
-
-|
-
-0,7
-
-|
-
-- poulets d'engraissement, poulettes destinées à la ponte (< 12 semaines) et lapins d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de salinomycine sodium est interdite (aliments de retrait)
-
-|
-
-0, 7
-
-|
-
-- autres espèces animales
-
-|
-
-2, 1
-
-|
-
-Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de salinomycine sodium n'est pas autorisée
-
-|
-
-(**)
-
-|
-
-4. Monensin sodium
-
-|
-
-Matières premières des aliments des animaux
-
-|
-
-1,25
-
-|
-
-Aliments composés pour :
-
-|
-
-|
-
-- équidés, chiens, petits ruminants (ovins et caprins), canards, bovins, bétail laitier, oiseaux pondeurs, poulettes destinées à la ponte (> 16 semaines) et dindes (> 16 semaines)
-
-|
-
-1,25
+[12] Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.
 
-|
-
-- poulets d'engraissement, poulettes destinées à la ponte (< 16 semaines) et dindes (< 16 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de monensine sodium est interdite (aliments de retrait)
-
-|
-
-1,25
-
-|
-
-- autres espèces animales
-
-|
-
-3,75
+[13] Système de numérotation selon Parlar, avec préfixe "CHB" ou "Parlar n°":
 
-|
-
-Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de monensin sodium n'est pas autorisée
-
-|
-
-(**)
+- CHB 26: 2-endo,3-exo,5-endo,-6-exo,-8,8,10,10-octochlorobornane,
 
-|
+- CHB 50: 2-endo,3-exo,5-endo,-6-exo,-8,8,9,10,10-nonachlorobornane,
 
-5. Semduramicine sodium
+- CHB 62: 2,2,5,5,8,9,9,10,10-nonachlorobornane.
 
 |
 
-Matières premières des aliments pour animaux
+Section V : Dioxines et PCB
 
-|
+SUBSTANCES
 
-0,25
+indésirables
 
 |
 
-Aliments composés pour :
+PRODUITS DESTINES AUX ALIMENTS
 
-|
+pour animaux
 
 |
 
-- oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
+TENEUR MAXIMALE
 
-|
+en mg/kg (ppm) [14]
 
-0,25
-
-|
+pour animaux d’une teneur
 
-- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de semduramicine sodium est interdite (aliments de retrait)
+en humidité de 12%
 
 |
 
-0,25
+1. Dioxines [somme des dibenzo-para-dioxines polychlorées (PCDD) et des dibenzofuranes polychlorés (PCDF), exprimée en équivalents toxiques de l’Organisation mondiale de la santé (OMS), en utilisant les TEF-OMS (facteurs d’équivalence toxique, 2005) [17]
 
 |
 
-- autres espèces animales
+Matières premières des aliments pour animaux d’origine végétale avec l’exception suivante :
 
 |
 
@@ -1826,249 +1638,29 @@ Aliments composés pour :
 
 |
 
-Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de semduramicine sodium n'est pas autorisée
+—huiles végétales et leurs sous-produits.
 
 |
 
-(**)
+0,75
 
 |
 
-6. Maduramicine ammonium alpha
+Matières premières des aliments pour animaux d’origine minérale
 
 |
 
-Matières premières des aliments pour animaux
+0,75
 
 |
 
-0,05
-
-|
-
-Aliments composés pour :
+Matières premières des aliments pour animaux d’origine animale:
 
 |
 
 |
 
-- équidés, lapins, dindes (> 16 semaines), oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
-
-|
-
-0,05
-
-|
-
-- poulets d'engraissement et dindes (< 16 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de maduramicine ammonium alpha est interdite (aliments de retrait)
-
-|
-
-0,05
-
-|
-
-- autres espèces animales
-
-|
-
-0,15
-
-|
-
-Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de maduramicine ammonium alpha n'est pas autorisée
-
-|
-
-(**)
-
-|
-
-7. Chlorhydrate de robénidine
-
-|
-
-Matières premières des aliments pour animaux
-
-|
-
-0,7
-
-|
-
-Aliments composés pour :
-
-|
-
-|
-
-- oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
-
-|
-
-0,7
-
-|
-
-- poulets d'engraissement, lapins d'engraissement, lapins reproducteurs et dindes pendant la période précédant l'abattage durant laquelle l'utilisation de chlorhydrate de robénidine est interdite (aliments de retrait)
-
-|
-
-0,7
-
-|
-
-- autres espèces animales
-
-|
-
-2,1
-
-|
-
-Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de chlorhydrate de robénidine n'est pas autorisée
-
-|
-
-(**)
-
-|
-
-8. Décoquinate
-
-|
-
-Matières premières des aliments pour animaux
-
-|
-
-0,4
-
-|
-
-Aliments composés pour :
-
-|
-
-|
-
-- oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
-
-|
-
-0,4
-
-|
-
-- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de décoquinate est interdite (aliments de retrait)
-
-|
-
-0,4
-
-|
-
-- autres espèces animales
-
-|
-
-1,2
-
-|
-
-Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de décoquinate n'est pas autorisée
-
-|
-
-(**)
-
-|
-
-9. Bromhydrate d'halofuginone
-
-|
-
-Matières premières des aliments pour animaux
-
-|
-
-0,03
-
-|
-
-Aliments composés pour :
-
-|
-
-|
-
-- oiseaux pondeurs, poulettes destinées à la ponte (> 16 semaines) et dindes (> 12 semaines)
-
-|
-
-0,03
-
-|
-
-- poulets d'engraissement et dindes (< 12 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de bromhydrate d'halofuginone est interdite (aliments de retrait)
-
-|
-
-0,03
-
-|
-
-- autres espèces animales autres que les poulettes destinées à la ponte (< 16 semaines)
-
-|
-
-0,09
-
-|
-
-Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de bromhydrate d'halofuginone n'est pas autorisée
-
-|
-
-(**)
-
-|
-
-10. Nicarbazine
-
-|
-
-Matières premières des aliments pour animaux
-
-|
-
-0,5
-
-|
-
-Aliments composés pour :
-
-|
-
-|
-
-- équidés, oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines)
-
-|
-
-0,5
-
-|
-
-- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de nicarbazine (associée à la narasine) est interdite (aliments de retrait)
-
-|
-
-0,5
-
-|
-
-- autres espèces animales
+—matières grasses animales, y compris les matières grasses du lait et de l’œuf,
 
 |
 
@@ -2076,107 +1668,365 @@ Aliments composés pour :
 
 |
 
-Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de nicarbazine (associée à la narasine) n'est pas autorisée
+—autres produits d’animaux terrestres, y compris le lait et les produits laitiers et les œufs et les ovo produits,
 
 |
 
-(**)
+0,75
 
 |
 
-11. Diclazuril
+—huile de poisson,
 
 |
 
-Matières premières des aliments pour animaux
+5,0
 
 |
 
-0,01
+—poissons et autres animaux aquatiques et leurs produits dérivés, à l’exception de l’huile de poisson et des hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses [15],
 
 |
 
-Aliments composés pour :
+1,25
+
+|
+
+—protéines de poisson hydrolysées contenant plus de 20 % de matières grasses.
+
+|
+
+1,75
+
+|
+
+Argiles kaolinitiques, vermiculite, natrolite-phonolite, aluminates de calcium synthétiques et clinoptilolite d'origine sédimentaire (additifs appartenant au groupe fonctionnel des agents liants et antimottants.)
+
+|
+
+0.75
+
+|
+
+Additifs appartenant au groupe fonctionnel des composés d’oligo-éléments.
+
+|
+
+1,0
+
+|
+
+Pré mélanges.
+
+|
+
+1,0
+
+|
+
+Aliments composés pour animaux,
+
+|
+
+0,75
+
+|
+
+avec les exceptions suivantes:
 
 |
 
 |
 
-- oiseaux pondeurs, poulettes destinées à la ponte (> 16 semaines) et dindes d'engraissement (> 12 semaines)
+—aliments destinés aux animaux familiers et aux poissons,
 
 |
 
-0,01
+1,75
 
 |
 
-- lapins d'engraissement et lapins reproducteurs pendant la période précédant l'abattage durant laquelle l'utilisation de diclazuril est interdite (aliments de retrait)
+—aliments destinés aux animaux à fourrure.
 
 |
 
-0,01
+—
 
 |
 
-- autres espèces animales autres que les poulettes destinées à la ponte (< 16 semaines), les poulets d'engraissement et les dindes d'engraissement (< 12 semaines)
+2. Somme des dioxines et des PCB de type dioxine [somme des dibenzo-para-dioxines polychlorées (PCDD), des dibenzofuranes polychlorés (PCDF) et des polychlorobiphényles (PCB), exprimée en équivalents toxiques de l’Organisation mondiale de la santé (OMS), en utilisant les TEF-OMS (facteurs d’équivalence toxique, 2005) [17]
 
 |
 
-0,03
+Matières premières des aliments pour animaux d’origine végétale,
 
 |
 
-Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de diclazuril n'est pas autorisée.
+1,25
 
 |
 
-(**)
+avec l’exception suivante :
 
 |
 
-(1) Dans la mesure où ils sont décelables par microscopie analytique.
+|
 
-(1-1) Les teneurs maximales se rapportent à l'arsenic total. Les teneurs maximales renvoient à une détermination analytique de l'arsenic, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+—huiles végétales et leurs sous-produits.
 
-(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (Hizikia fusiforme).
+|
 
-(2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
+1,5
 
-(3) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis à ce seuil maximal : le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à un seuil maximum de 4,0 ng OMS-PCDD/F-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire et leur utilisation est interdite dans l'alimentation des animaux dont la chair ou les produits sont destinés à la consommation humaine.
+|
 
-(a) Les teneurs maximales renvoient à une détermination analytique du plomb, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+Matières premières des aliments pour animaux d’origine minérale.
 
-(b) Les fourrages verts comprennent les produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.
+|
 
-(c) Les teneurs maximales renvoient à une détermination analytique du fluor, l'extraction s'effectuant avec de l'acide chlorhydrique 1N pendant vingt minutes à la température ambiante. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+1,0
 
-(d) Les teneurs maximales renvoient à une détermination analytique du cadmium, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+|
 
-(e) Système de numérotation selon Parlar, avec préfixe CHB ou Parlar n°
+Matières premières des aliments pour animaux d’origine animale :
 
-- CHB 26 : 2-endo,3-exo,5-endo, 6-exo, 8,8,10,10-octochlorobornane
+|
 
-- CHB 50 : 2-endo,3-exo,5-endo, 6-exo, 8,8,9,10,10-nonachlorobornane
+|
 
-- CHB 62 : 2,2,5,5,8,9,9,10,10-nonachlorobornane.
+—matières grasses animales, y compris les matières grasses du lait et de l’œuf,
 
-(f) TEF-OMS pour l'évaluation des risques pour les êtres humains, fondés sur les conclusions de la réunion de l'OMS tenue à Stockholm (Suède), du 15 au 18 juin 1997 [Van den Berg et al. (1998) Toxic Equivalency Factors (TEFs) for PCBs, PCDDs, PCDFs for Humans and for Wildlife. Environmental Health Perspectives, 106(12), 775].
+|
 
-(g) Concentrations supérieures : les concentrations supérieures sont calculées sur la base de l'hypothèse que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
+2,0
 
-(h) La teneur maximale distincte pour les dioxines (PCDD/F) reste applicable pendant une période limitée. Les produits destinés aux aliments pour animaux mentionnés au point 21 doivent satisfaire, pendant cette période, tant aux teneurs maximales fixées pour les dioxines qu'à celles établies pour la somme des dioxines et des PCB de type dioxine.
+|
 
-(i) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis aux teneurs maximales, tandis que le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à des teneurs maximales de 4,0 ng OMS-PCDD/F-TEQ/kg et de 8,0 ng OMS-PCDD/F-PCB-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.
+—autres produits d’animaux terrestres, y compris le lait et les produits laitiers et les œufs et les ovo produits
 
-(j) Isolément ou ensemble, exprimée en dieldrine.
+|
 
-(k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.
+1,25
 
-(m) Les teneurs maximales se rapportent aux teneurs totales en mercure. Les teneurs maximales renvoient à une détermination analytique du mercure, l'extraction s'effectuant dans de l'acide nitrique (5 % p/ p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
+|
 
-(*) Sans préjudice des niveaux autorisés dans le cadre du règlement (CE) n° 1831/2003 du Parlement européen et du Conseil du 22 septembre 2003 relatif aux additifs destinés à l'alimentation des animaux.
+—huile de poisson,
 
-(**) Le niveau maximal de la substance dans le prémélange correspond à une concentration qui ne doit pas conduire à un niveau supérieur à 50 % de la valeur maximale établie pour l'aliment lorsque les consignes d'utilisation du prémélange sont respectées.
+|
+
+20
+
+|
+
+—poissons et autres animaux aquatiques et leurs produits dérivés, à l’exception de l’huile de poisson et des protéines de poisson hydrolysées contenant plus de 20 % de matières grasses [15],
+
+|
+
+4,0
+
+|
+
+—protéines de poisson hydrolysées contenant plus de 20 % de matières grasses.
+
+|
+
+9
+
+|
+
+Argiles kaolinitiques, vermiculite, natrolite-phonolite, aluminates de calcium synthétiques et clinoptilolite d’origine sédimentaire (additifs appartenant au groupe fonctionnel des agents liants et antimottants).
+
+|
+
+1,5
+
+|
+
+Additifs appartenant au groupe fonctionnel des composés d’oligo-éléments.
+
+|
+
+1,5
+
+|
+
+Pré mélanges.
+
+|
+
+1,5
+
+|
+
+Aliments composés pour animaux,
+
+|
+
+1,5
+
+|
+
+avec les exceptions suivantes :
+
+|
+
+|
+
+—aliments destinés aux animaux familiers et aux poissons,
+
+|
+
+5,5
+
+|
+
+—aliments destinés aux animaux à fourrure.
+
+|
+
+—
+
+|
+
+3.PCBs pas de type dioxine [somme des PCB 28, PCB 52, PCB 101, PCB 138, PCB 153 et PCB 180 (ICES-6) [14]
+
+|
+
+Matières premières des aliments pour animaux d’origine végétale,
+
+|
+
+10
+
+|
+
+Matières premières des aliments pour animaux d’origine minérale.
+
+|
+
+10
+
+|
+
+Matières premières des aliments pour animaux d’origine animale :
+
+|
+
+|
+
+—matières grasses animales, y compris les matières grasses du lait et de l’œuf,
+
+|
+
+10
+
+|
+
+—autres produits d’animaux terrestres, y compris le lait et les produits laitiers et les œufs et les ovo produits,
+
+|
+
+10
+
+|
+
+—huile de poisson,
+
+|
+
+175
+
+|
+
+—poissons et autres animaux aquatiques et leurs produits dérivés, à l’exception de l’huile de poisson et des protéines de poisson hydrolysées contenant plus de 20 % de matières grasses [16],
+
+|
+
+30
+
+|
+
+—protéines de poisson hydrolysées contenant plus de 20 % de matières grasses.
+
+|
+
+50
+
+|
+
+Argiles kaolinitiques, vermiculite, natrolite-phonolite, aluminates de calcium synthétiques et clinoptilolite d’origine sédimentaire (additifs appartenant au groupe fonctionnel des agents liants et antimottants).
+
+|
+
+10
+
+|
+
+Additifs appartenant au groupe fonctionnel des composés d’oligo-éléments.
+
+|
+
+10
+
+|
+
+Pré mélanges.
+
+|
+
+10
+
+|
+
+Aliments composés pour animaux,
+
+|
+
+10
+
+|
+
+avec les exceptions suivantes:
+
+|
+
+|
+
+—aliments destinés aux animaux familiers et aux poissons,
+
+|
+
+40
+
+|
+
+—aliments destinés aux animaux à fourrure
+
+|
+
+—
+
+|
+
+[14] Les concentrations supérieures sont calculées sur la base de l'hypothèse que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
+
+[15] Le poisson frais et les autres animaux aquatiques fournis et utilisés directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure ne sont pas soumis aux teneurs maximales, tandis que le poisson frais est soumis à des teneurs maximales de 3,5 ng OMS-PCDD/F-TEQ/kg et de 6.5 ng OMS-PCDD/F-PCB-TEQ/kg et le foie de poisson à une teneur maximale de 20,0 ng OMS-PCDD/F-PCB-TEQ/kg quand ils sont utilisés pour l'alimentation directe des animaux domestiques et des animaux de zoo et de cirque ou comme matières premières pour la production d'aliments pour animaux domestiques. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux domestiques, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.
+
+[16] Le poisson frais et les autres animaux aquatiques fournis et utilisés directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure ne sont pas soumis aux teneurs maximales, tandis que le poisson frais est soumis à des teneurs maximales de 75 µg/kg et le foie de poisson à une teneur maximale de 200 µg/kg quand ils sont utilisés pour l'alimentation directe des animaux domestiques et des animaux de zoo et de cirque ou comme matières premières pour la production d'aliments pour animaux domestiques. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux domestiques, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.
+
+[17] Tableau des TEF (= facteurs d'équivalence toxique) pour les dioxines, furanes et PCB de type dioxine:
+
+TEF de l'OMS pour l'évaluation des risques pour les êtres humains, fondés sur les conclusions de la réunion des experts du programme international sur la sécurité des substances chimiques (PISSC) de l'Organisation mondiale de la santé (OMS) qui s'est tenue en juin 2005 à Genève [Martin van den Berg et al., The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds, Toxicological Sciences 93(2), p. 223 à 241 (2006)]
+
+|
+
+.
+
+CONGÉNÈRE
+
+|
+
+VALEUR DU TEF
 
 |
 
@@ -2188,7 +2038,25 @@ VALEUR DU TEF
 
 |
 
-Dibenzo-p-dioxines (PCDD)
+Dibenzo-para-dioxines (PCDDs) et Dibenzo-para-furans (PCDFs)
+
+|
+
+|
+
+PCB de type dioxine
+
+PCB non-ortho + PCB mono-ortho
+
+PCB non-ortho
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -2202,6 +2070,14 @@ Dibenzo-p-dioxines (PCDD)
 
 |
 
+PCB 77
+
+|
+
+0,0001
+
+|
+
 1,2,3,7,8-PeCDD
 
 |
@@ -2210,7 +2086,23 @@ Dibenzo-p-dioxines (PCDD)
 
 |
 
+PCB 81
+
+|
+
+0,0003
+
+|
+
 1,2,3,4,7,8-HxCDD
+
+|
+
+0,1
+
+|
+
+PCB 126
 
 |
 
@@ -2226,6 +2118,14 @@ Dibenzo-p-dioxines (PCDD)
 
 |
 
+PCB 169
+
+|
+
+0,03
+
+|
+
 1,2,3,7,8,9-HxCDD
 
 |
@@ -2234,151 +2134,11 @@ Dibenzo-p-dioxines (PCDD)
 
 |
 
+|
+
+|
+
 1,2,3,4,6,7,8-HpCDD
-
-|
-
-0,01
-
-|
-
-OCDD
-
-|
-
-0,0001
-
-|
-
-Dibenzofuranes (PCDF)
-
-|
-
-|
-
-2,3,7,8-TCDF
-
-|
-
-0,1
-
-|
-
-1,2,3,7,8-PeCDF
-
-|
-
-0,05
-
-|
-
-2,3,4,7,8-PeCDF
-
-|
-
-0,5
-
-|
-
-1,2,3,4,7,8-HxCDF
-
-|
-
-0,1
-
-|
-
-1,2,3,6,7,8-HxCDF
-
-|
-
-0,1
-
-|
-
-1,2,3,7,8,9-HxCDF
-
-|
-
-0,1
-
-|
-
-2,3,4,6,7,8-HxCDF
-
-|
-
-0,1
-
-|
-
-1,2,3,4,6,7,8-HpCDF
-
-|
-
-0,01
-
-|
-
-1,2,3,4,7,8,9-HpCDF
-
-|
-
-0,01
-
-|
-
-OCDF
-
-|
-
-0,0001
-
-|
-
-PCB de type dioxine PCBs
-
-|
-
-|
-
-PCB non-ortho + PCB mono-ortho
-
-|
-
-|
-
-PCB non-ortho
-
-|
-
-|
-
-PCB 77
-
-|
-
-0,0001
-
-|
-
-PCB 81
-
-|
-
-0,0001
-
-|
-
-PCB 126
-
-|
-
-0,1
-
-|
-
-PCB 169
 
 |
 
@@ -2392,11 +2152,25 @@ PCB mono-ortho
 
 |
 
+OCDD
+
+|
+
+0,0003
+
+|
+
 PCB 105
 
 |
 
-0,0001
+0,00003
+
+|
+
+Dibenzofuranes (PCDF)
+
+|
 
 |
 
@@ -2404,7 +2178,15 @@ PCB 114
 
 |
 
-0,0005
+0,00003
+
+|
+
+2,3,7,8-TCDF
+
+|
+
+0,1
 
 |
 
@@ -2412,7 +2194,15 @@ PCB 118
 
 |
 
-0,0001
+0,00003
+
+|
+
+1,2,3,7,8-PeCDF
+
+|
+
+0,03
 
 |
 
@@ -2420,7 +2210,15 @@ PCB 123
 
 |
 
-0,0001
+0,00003
+
+|
+
+2,3,4,7,8-PeCDF
+
+|
+
+0,3
 
 |
 
@@ -2428,7 +2226,15 @@ PCB 156
 
 |
 
-0,0005
+0,00003
+
+|
+
+1,2,3,4,7,8-HxCDF
+
+|
+
+0,1
 
 |
 
@@ -2436,7 +2242,15 @@ PCB 157
 
 |
 
-0,0005
+0,00003
+
+|
+
+1,2,3,6,7,8-HxCDF
+
+|
+
+0,1
 
 |
 
@@ -2444,7 +2258,15 @@ PCB 167
 
 |
 
-0,00001
+0,00003
+
+|
+
+1,2,3,7,8,9-HxCDF
+
+|
+
+0,1
 
 |
 
@@ -2452,10 +2274,778 @@ PCB 189
 
 |
 
-0,0001
+0,00003
+
+|
+
+2,3,4,6,7,8-HxCDF
+
+|
+
+0,1
+
+|
+
+|
+
+|
+
+1,2,3,4,6,7,8-HpCDF
+
+|
+
+0,01
+
+|
+
+|
+
+|
+
+1,2,3,4,7,8,9-HpCDF
+
+|
+
+0,01
+
+|
+
+|
+
+|
+
+OCDF
+
+|
+
+0,0003
+
+|
+
+|
 
 |
 
 Abréviations utilisées : T = tetra ; Pe = penta ; Hx = hexa ; Hp = hepta ; O = octa ; CDD = chlorodibenzodioxine ; CDF = chlorodibenzofurane ; CB = chlorobiphényle.
 
 |
+
+Section VI : Impuretés botaniques nuisibles
+
+SUBSTANCES
+
+indésirables
+
+|
+
+PRODUITS DESTINES AUX ALIMENTS
+
+pour animaux
+
+|
+
+TENEUR MAXIMALE
+
+en mg/kg (ppm) d’aliments
+
+pour animaux d’une teneur
+
+en humidité de 12%
+
+|
+
+1. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble, dont:
+
+|
+
+Matières premières des aliments pour animaux et aliments composés pour animaux.
+
+|
+
+3000
+
+|
+
+—Datura sp.
+
+|
+
+|
+
+1000
+
+|
+
+2.Crotalaria spp.
+
+|
+
+Matières premières des aliments pour animaux et aliments composés pour animaux.
+
+|
+
+100
+
+|
+
+3. Graines et coques de Ricinus communis L., Croton tiglium L. et Abrus precatorius L. et les dérivés de leur transformation [18], isolément ou ensemble
+
+|
+
+Matières premières des aliments pour animaux et aliments composés pour animaux.
+
+|
+
+10 [19]
+
+|
+
+4.Faîne non décortiquée – Fagus silvatica L.
+
+|
+
+Matières premières des aliments pour animaux et aliments composés pour animaux.
+
+|
+
+Les graines et les fruits des espèces végétales ci-contre et les dérivés de leur transformation ne peuvent se trouver dans les aliments qu’en quantité indécelable
+
+|
+
+5.Purgère – Jatropha curcas L.
+
+|
+
+|
+
+|
+
+6.Moutarde indienne – Brassica juncea (L.) Czern. et Coss. ssp. Integrifolia (West.) Thell.
+
+|
+
+7.Moutarde de Sarepte – Brassica juncea (L.) Czern. et Coss. ssp. juncea.
+
+|
+
+8. Moutarde chinoise – Brassica juncea (L.) Czern. et Coss. ssp. juncea var. lutea Batalin
+
+|
+
+9.Moutarde noire – Brassica nigra (L.) Koch
+
+|
+
+10.Moutarde d’Abyssinie (d’Éthiopie) – Brassica carinata A. Braun
+
+|
+
+11. Graines d’Ambrosia spp.
+
+|
+
+Matières premières des aliments pour animaux,
+
+|
+
+50
+
+|
+
+|
+
+avec l’exception suivante :
+
+|
+
+|
+
+—millet (grains de Panicum miliaceum L.) et sorgho (grains de Sorghum bicolor (L) Moench s.l.) non utilisés pour l’alimentation directe des animaux.
+
+|
+
+200
+
+|
+
+Aliments composés pour animaux contenant des grains ou graines non moulus.
+
+|
+
+50
+
+|
+
+[18] Dans la mesure où ils sont décelables par microscopie analytique.
+
+19] Comprend aussi les fragments de coques.
+
+|
+
+Section VII : Additifs autorisés dans l’alimentation animale qui font l’objet d’un transfert inévitable vers des aliments pour animaux non ciblés
+
+SUBSTANCES
+
+indésirables
+
+|
+
+PRODUITS DESTINES AUX ALIMENTS
+
+pour animaux [20]
+
+|
+
+TENEUR MAXIMALE
+
+en mg/kg (ppm) d’aliments
+
+pour animaux d’une teneur
+
+en humidité de 12%
+
+|
+
+1. Décoquinate
+
+|
+
+Matières premières des aliments pour animaux.
+
+|
+
+0,4
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines),
+
+|
+
+0,4
+
+|
+
+— poulets d’engraissement pendant la période précédant l’abattage durant laquelle l’utilisation de décoquinate est interdite (aliments de retrait),
+
+|
+
+0,4
+
+|
+
+— autres espèces animales.
+
+|
+
+1,2
+
+|
+
+Pré mélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de salinomycine sodium n’est pas autorisée.
+
+|
+
+[21]
+
+|
+
+2. Diclazuril
+
+|
+
+Matières premières des aliments pour animaux.
+
+|
+
+0,01
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— oiseaux pondeurs, poulettes destinées à la ponte (> 16 semaines) et dindes d’engraissement (> 12 semaines),
+
+|
+
+0,01
+
+|
+
+— lapins d’engraissement et lapins reproducteurs pendant la période précédant l’abattage durant laquelle l’utilisation de diclazuril est interdite (aliments de retrait),
+
+|
+
+0,01
+
+|
+
+— autres espèces animales autres que les poulettes destinées à la ponte (< 16 semaines), les poulets d’engraissement et les dindes d’engraissement (< 12 semaines).
+
+|
+
+0,03
+
+|
+
+Pré mélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de diclazuril n’est pas autorisée.
+
+|
+
+[21]
+
+|
+
+3. Bromhydrate d’halofuginone
+
+|
+
+Matières premières des aliments pour animaux.
+
+|
+
+0,03
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— oiseaux pondeurs, poulettes destinées à la ponte et dindes (> 12 semaines),
+
+|
+
+0,03
+
+|
+
+— poulets d’engraissement et dindes
+
+(< 12 semaines) pendant la période précédant l’abattage durant laquelle l’utilisation de bromhydrate d’halofuginone est interdite (aliments de retrait)
+
+|
+
+0,03
+
+|
+
+— autres espèces animales.
+
+|
+
+0,09
+
+|
+
+Pré mélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de bromhydrate d’halofuginone n’est pas autorisée
+
+|
+
+[21]
+
+|
+
+4. Lasalocide sodium
+
+|
+
+Matières premières des aliments pour animaux.
+
+|
+
+1,25
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— chiens, veaux, lapins, équidés, animaux laitiers, oiseaux pondeurs, dindes (> 16 semaines) et poulettes destinées à la ponte (> 16 semaines),
+
+|
+
+1,25
+
+|
+
+— poulets d’engraissement, poulettes destinées à la ponte (< 16 semaines) et dindes (< 16 semaines) pendant la période précédant l’abattage durant laquelle l’utilisation de lasalocide sodium est interdite (aliments de retrait),
+
+|
+
+1,25
+
+|
+
+— autres espèces animales.
+
+|
+
+3,75
+
+|
+
+Pré mélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de salinomycine sodium n’est pas autorisée.
+
+|
+
+[21]
+
+|
+
+5. Maduramicine ammonium alpha
+
+|
+
+Matières premières des aliments pour animaux.
+
+|
+
+0,05
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— équidés, lapins, dindes (> 16 semaines), oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines),
+
+|
+
+0,05
+
+|
+
+— poulets d’engraissement et dindes (< 16 semaines) pendant la période précédant l’abattage durant laquelle l’utilisation de maduramicine ammonium alpha est interdite (aliments de retrait),
+
+|
+
+0,05
+
+|
+
+— autres espèces animales.
+
+|
+
+0,15
+
+|
+
+Pré mélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de maduramicine ammonium alpha n’est pas autorisée.
+
+|
+
+[21]
+
+|
+
+6. Monensine sodium
+
+|
+
+Matières premières des aliments pour animaux
+
+|
+
+1,25
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— équidés, chiens, petits ruminants (ovins et caprins), canards, bovins, bétail laitier, oiseaux pondeurs, poulettes destinées à la ponte (> 16 semaines) et dindes (> 16 semaines),
+
+|
+
+1,25
+
+|
+
+— poulets d’engraissement, poulettes destinées à la ponte (< 16 semaines) et dindes (< 16 semaines) pendant la période précédant l’abattage durant laquelle l’utilisation de monensine sodium est interdite (aliments de retrait)
+
+|
+
+1,25
+
+|
+
+— autres espèces animales.
+
+|
+
+3,75
+
+|
+
+Pré mélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de monensine sodium n’est pas autorisée.
+
+|
+
+[21]
+
+|
+
+7. Narasine
+
+|
+
+Matières premières des aliments pour animaux.
+
+|
+
+0,7
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— dindes, lapins, équidés, oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines),
+
+|
+
+0,7
+
+|
+
+— autres espèces animales.
+
+|
+
+2,1
+
+|
+
+Pré mélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de narasine n’est pas autorisée.
+
+|
+
+[21]
+
+|
+
+8. Nicarbazine
+
+|
+
+Matières premières des aliments pour animaux.
+
+|
+
+1,25
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— équidés, oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines),
+
+|
+
+1,25
+
+|
+
+— autres espèces animales.
+
+|
+
+3,75
+
+|
+
+Prémélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de nicarbazine (seule ou associée à la narasine) n’est pas autorisée.
+
+|
+
+[21]
+
+|
+
+9.Chlorhydrate de robénidine
+
+|
+
+Matières premières des aliments pour animaux.
+
+|
+
+0,7
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines),
+
+|
+
+0,7
+
+|
+
+— poulets d’engraissement, lapins d’engraissement, lapins reproducteurs et dindes pendant la période précédant l’abattage durant laquelle l’utilisation de chlorhydrate de robénidine est interdite (aliments de retrait)
+
+|
+
+0,7
+
+|
+
+— autres espèces animales.
+
+|
+
+2,1
+
+|
+
+Pré mélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de chlorhydrate de robénidine n’est pas autorisée.
+
+|
+
+[21]
+
+|
+
+10. Salinomycine sodium
+
+|
+
+Matières premières des aliments pour animaux.
+
+|
+
+0,7
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— équidés, dindes, oiseaux pondeurs et poulettes destinées à la ponte (> 12 semaines),
+
+|
+
+0,7
+
+|
+
+— poulets d’engraissement, poulettes destinées à la ponte (< 12 semaines) et lapins d’engraissement pendant la période précédant l’abattage durant laquelle l’utilisation de salinomycine sodium est interdite (aliments de retrait)
+
+|
+
+0,7
+
+|
+
+— autres espèces animales.
+
+|
+
+2,1
+
+|
+
+Pré mélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de salinomycine sodium n’est pas autorisée.
+
+|
+
+[21]
+
+|
+
+11. Semduramicine sodium
+
+|
+
+Matières premières des aliments pour animaux.
+
+|
+
+0,25
+
+|
+
+Aliments composés pour :
+
+|
+
+|
+
+— oiseaux pondeurs et poulettes destinées à la ponte (> 16 semaines),
+
+|
+
+0,25
+
+|
+
+— poulets d’engraissement pendant la période précédant l’abattage durant laquelle l’utilisation de semduramicine sodium est interdite (aliments de retrait)
+
+|
+
+0,25
+
+|
+
+— autres espèces animales.
+
+|
+
+0,75
+
+|
+
+Pré mélanges entrant dans la composition d’aliments pour animaux dans lesquels l’utilisation de semduramicine sodium n’est pas autorisée.
+
+|
+
+[21]
+
+|
+
+[20] Sans préjudice des niveaux autorisés dans le cadre du règlement (CE) n° 1831/2003 du Parlement européen et du Conseil (JO L 268 du 18.10.2003, p. 29).
+
+[21] Le niveau maximal de la substance dans le pré mélange correspond à une concentration qui ne doit pas conduire à un niveau supérieur à 50 % de la valeur maximale établie pour l’aliment lorsque les consignes d’utilisation du pré mélange sont respectées.
+
+|
+
+.
