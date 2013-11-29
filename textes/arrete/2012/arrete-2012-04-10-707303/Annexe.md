@@ -364,18 +364,6 @@ Paray-le-Monial
 
 |
 
-Clinique La Roseraie
-
-|
-
-Paray-le-Monial
-
-|
-
-71
-
-|
-
 Centre hospitalier de Montceau-les-Mines
 
 |
