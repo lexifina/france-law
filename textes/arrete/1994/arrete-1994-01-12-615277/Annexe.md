@@ -198,6 +198,38 @@ A compter du 1er avril 1991 et jusqu'à cessation des hostilités
 
 |
 
+République du Kenya, République de Somalie, République du Yémen, Sultanat d'Oman et République de Djibouti
+
+|
+
+Dans le cadre de l'opération Atalanta sur les territoires de la République du Kenya, de la République de Somalie, de la République du Yémen, du Sultanat d'Oman et de la République de Djibouti et leurs eaux avoisinantes ainsi que sur les eaux de la mer Rouge
+
+|
+
+8 décembre 2008
+
+|
+
+7 décembre 2010
+
+|
+
+République du Kenya, République de Somalie, République du Yémen, Sultanat d'Oman, République de Djibouti, République de Tanzanie, République du Mozambique et de Madagascar
+
+|
+
+Dans le cadre de l'opération Atalanta sur les territoires de la République du Kenya, de la République de Somalie, de la République du Yémen, du Sultanat d'Oman, de la République de Djibouti, de la République de Tanzanie, de la République du Mozambique, de Madagascar et leurs eaux avoisinantes (limitées à l'est par le méridien Est 065°, au nord par le parallèle Nord 022° 30 et au sud par le parallèle Sud 015°) ainsi que les eaux de la mer Rouge limitées à la zone sud d'une ligne reliant la frontière Erythrée-Soudan à la frontière Yémen-Arabie saoudite
+
+|
+
+8 décembre 2010
+
+|
+
+7 décembre 2013
+
+|
+
 Kosovo
 
 |
@@ -211,6 +243,18 @@ Dans le cadre de l'opération menée au titre de la mission des Nations unies au
 |
 
 9 juin 2009
+
+|
+
+Dans le cadre de l'opération Trident sur le territoire du Kosovo
+
+|
+
+1er janvier 2012
+
+|
+
+31 décembre 2013
 
 |
 
@@ -236,7 +280,7 @@ Opérations Daman (FINUL) et Baliste
 
 |
 
-31 août 2012
+31 août 2014
 
 |
 
@@ -253,6 +297,22 @@ Dans le cadre de l'opération MINUL (Mission des Nations unies au Liberia) sur l
 |
 
 30 avril 2013
+
+|
+
+Grande Jamahiriya arabe libyenne populaire et socialiste
+
+|
+
+Dans le cadre de l'opération Harmattan sur le territoire de la Grande Jamahiriya arabe libyenne populaire et socialiste, pays et eaux avoisinants
+
+|
+
+18 mars 2011
+
+|
+
+31 octobre 2011
 
 |
 
@@ -396,7 +456,7 @@ Dans le cadre de l'opération EUFOR Tchad/ RCA sur le territoire du Tchad, de la
 
 |
 
-28 janvier 2009
+28 janvier 2008
 
 |
 
@@ -472,7 +532,7 @@ Dans le cadre de la mission de l'Union africaine de Somalie (African Mission in 
 
 |
 
-22 septembre 2012
+22 septembre 2014
 
 |
 
@@ -484,7 +544,7 @@ Tchad et pays avoisinants
 
 |
 
-31 décembre 2011
+31 décembre 2013
 
 |
 
@@ -522,11 +582,23 @@ Dans le cadre de l'opération EUFOR Tchad/ RCA sur le territoire du Tchad, de la
 
 |
 
-28 janvier 2009
+28 janvier 2008
 
 |
 
 27 janvier 2010
+
+|
+
+Dans le cadre de l'opération Epervier sur les territoires du Tchad et des pays avoisinants
+
+|
+
+1er janvier 2010
+
+|
+
+31 décembre 2013
 
 |
 
@@ -576,7 +648,7 @@ Opération Trident
 
 |
 
-1er janvier 1995
+1er janvier 2010
 
 |
 
