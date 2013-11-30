@@ -2,9 +2,55 @@
 
 4. Equipements de navigation
 
-Notes concernant le point Equipements de navigation.
+Notes concernant le point 4 : Equipements de navigation.
 
-Colonne 5 : lorsqu'il est fait référence aux séries EN 61162 ou CEI 61162, la spécification de l'article prévu est prise en compte pour déterminer quelle est la norme applicable de la série EN 61162 ou de la série CEI 61162.
+Colonne 5 : OMI CSM/Circulaire
+
+La série CEI 61162 porte sur les normes de référence pour les matériels et systèmes de navigation et de radiocommunication maritimes. Interfaces numériques :
+
+(a) CEI 61162-1 éd. 4.0 (2010-11) - Partie 1 : Emetteur unique et récepteurs multiples.
+
+(b) CEI 61162-2 éd. 1.0 (1998-09) - Partie 2 : Emetteur unique et récepteurs multiples, transfert rapide de données.
+
+(c) CEI 61162-3 éd. 1.1 compilation avec amendement 1 (2010-11) - Partie 3 : Réseau par liaison de données série d'instruments.
+
+- CEI 61162-3 éd. 1.0 (2008-05) - Partie 3 : Réseau par liaison de données série d'instruments.
+
+- CEI 61162-3-amendement1 éd. 1.0 (2010-06) Amendement 1 - Partie 3 : Réseau par liaison de données série d'instruments.
+
+(d) CEI 61162-400 éd. 1.0 (2001-11) - Partie 400 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Introduction et principes généraux.
+
+- CEI 61162-401 éd. 1.0 (2001-11) - Partie 401 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Couche d'application.
+
+- CEI 61162-402 éd. 1.0 (2005-09) - Partie 402 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Documentation et exigences d'essai.
+
+- CEI 61162-410 éd. 1.0 (2001-11) - Partie 410 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Exigences de la couche transport et couche transport de base.
+
+- CEI 61162-420 éd. 1.0 (2001-11) - Partie 420 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Exigences standard de la couche utilisateur et standard utilisateurs de base.
+
+- CEI 61162-450 éd. 1.0 (2011-06) - Partie 450 : Emetteurs multiples et récepteurs multiples - Interconnexion Ethernet.
+
+La série EN 61162 porte sur les normes de référence pour les matériels et systèmes de navigation et de radiocommunication maritimes. Interfaces numériques :
+
+(e) EN 61162-1 (2011) - Partie 1 : Emetteur unique et récepteurs multiples.
+
+(f) EN 61162-2 (1998) - Partie 2 : Emetteur unique et récepteurs multiples, transfert rapide de données.
+
+(g) EN 61162-3 (2008) - Partie 3 : Réseau par liaison de données série d'instruments.
+
+- EN 61162-3-am1 (2010) Amendement 1 - Partie 3 : Réseau par liaison de données série d'instruments.
+
+(h) EN 61162-400 (2002) - Partie 400 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Introduction et principes généraux.
+
+- EN 61162-401 (2002) - Partie 401 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Couche d'application.
+
+- EN 61162-402 (2005) - Partie 402 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Documentation et exigences d'essai
+
+- EN 61162-410 (2002) - Partie 410 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués- Exigences de la couche transport et couche transport de base.
+
+- EN 61162-420 (2002) - Partie 420 : Emetteurs multiples et récepteurs multiples - Interconnexion des systèmes embarqués - Exigences standard de la couche utilisateur et standard utilisateurs de base.
+
+- EN 61162-450 (2011) - Partie 450 : Emetteurs multiples et récepteurs multiples - Interconnexion Ethernet.
 
 ARTICLE N°
 
@@ -16,7 +62,7 @@ NOM DE L'ARTICLE
 
 RÈGLE SOLAS 74
 
-qui requiert
+modifiée qui requiert
 
 une "approbation
 
@@ -24,9 +70,13 @@ de type"
 
 |
 
-RÈGLES SOLAS 74 APPLICABLES
+RÈGLES SOLAS 74
 
-et résolutions et circulaires
+telles que modifiées
+
+applicables et résolutions
+
+et circulaires
 
 applicables de l'OMI
 
@@ -74,7 +124,11 @@ A.1/4.1
 
 |
 
-Compas magnétique
+Compas magnétique :
+
+a) classe A pour les navires ;
+
+b) classe B pour les embarcations de sauvetage et les canots de secours.
 
 |
 
@@ -84,9 +138,9 @@ Règ. V/18
 
 Règ. V/19
 
-Rés. OMI A.382(X)
+Résolution OMI A.382(X)
 
-Rés. OMI A.694(17)
+Résolution OMI A.694(17)
 
 |
 
@@ -94,15 +148,15 @@ ISO 1069 (1973)
 
 ISO 25862 (2009)
 
-EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+EN 60945 (2002), y compris CEI 60945 corrigendum 1 (2008)
 
-ou
+Ou
 
 ISO 1069 (1973)
 
 ISO 25862 (2009)
 
-CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+CEI 60945 (2002), y compris CEI 60945 corrigendum 1 (2008)
 
 |
 
@@ -130,37 +184,33 @@ Règ. V/19
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-ou (recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution OMI A.694 (17)
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 13
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.116(73)
+Résolution MSC 116(73), de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-série EN 61162
+série EN 61162 ;
 
 ISO 22090-2 (2004), y compris corrigendum 2005
 
-EN 62288 (2008).
+EN 62288 (2008)
 
 Ou
 
@@ -198,23 +248,23 @@ Règ. V/18
 
 Règ. V/19
 
-Rés. OMI A.424(XI)
+Résolution A.424(XI) de l'OMI
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
 EN ISO 8728 (1998)
 
-EN 60945 (2002), y compris corrigendum 1 (2008) à lA CEI 60945
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 ISO 8728 (1997)
 
@@ -272,29 +322,25 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.224 (VII)
+Résolution A.224 (VII) de l'OMI
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 13
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-Rés. OMI MSC.74(69), annexe 4
+Résolution MSC 74(69) de l'OMI, annexe 4
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -302,11 +348,11 @@ EN ISO 9875 (2001), y compris rectificatif technique 1 :2006 de l'ISO
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-série EN 61162.
+série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 ISO 9875 (2000), y compris rectificatif technique 1 :2006 de l'ISO
 
@@ -340,29 +386,25 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI A.824(19)
+Résolution A.824(19) de l'OMI
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 13
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 13
 
-Rés. OMI MSC.96(72)
+Résolution MSC 96(72) de l'OMI
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -372,9 +414,9 @@ EN 61023 (2007)
 
 série EN 61162
 
-EN 62288 (2008).
+EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -410,8 +452,6 @@ Transféré aux annexes A.1/4.20, A.1/4.21 et A.1/4.22
 
 A.1/4.9
 
-(voir la note b de la présente annexe A.1)
-
 |
 
 Indicateur de taux de giration
@@ -422,27 +462,23 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.526(13)
+Résolution A.526(13) de l'OMI
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 13
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -454,7 +490,7 @@ ISO 20672 (2007)
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -488,12 +524,6 @@ Intentionnellement blanc
 
 |
 
-|
-
-|
-
-|
-
 A.1/4.11
 
 |
@@ -506,27 +536,23 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI A.818 (19)
+Résolution A.818 (19) de l'OMI
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 13
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -534,11 +560,11 @@ EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 EN 61075 (1993)
 
-série EN 61162.
+série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -572,27 +598,23 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI A.818 (19)
+Résolution A.818 (19) de l'OMI
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 13
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -604,9 +626,11 @@ série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
-CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945-CEI 61075 (1991)
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+
+CEI 61075 (1991)
 
 série CEI 61162
 
@@ -636,12 +660,6 @@ Intentionnellement blanc
 
 |
 
-|
-
-|
-
-|
-
 A.1/4.14
 
 |
@@ -654,27 +672,23 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994)
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994)
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000)
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000)
 
-Rés. OMI MSC.112(73)
+Résolution MSC 112(73) de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -682,11 +696,11 @@ EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 EN 61108-1 (2003)
 
-série EN 61162.
+série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -720,27 +734,23 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 13
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.113(73)
+Résolution MSC 113(73) de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC.191(79) de l'OMI
 
 |
 
@@ -752,7 +762,7 @@ série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -788,13 +798,13 @@ Règ. V/18
 
 Règ. V/19
 
-Rés. OMI A.342(IX)
+Résolution A.342(IX) de l'OMI
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.64(67), annexe 3
+Résolution MSC 64(67), annexe 3, de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -802,11 +812,11 @@ ISO 11674 (2006)
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-série EN 61162
+série EN 61162.
 
-EN 62288 (2008)
+EN 62288 (2008).
 
-ou
+Ou
 
 ISO 11674 (2006)
 
@@ -836,7 +846,7 @@ Appareils de hissage du pilote
 
 |
 
-Transféré à l'annexe A.1/4.40
+Transféré à l'annexe A.1/1.40
 
 |
 
@@ -856,11 +866,9 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 13
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-Rés. OMI MSC.97(73)
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
@@ -868,21 +876,17 @@ Règ. III/6
 
 Règ. IV/7
 
-Rés. OMI A.530(13)
+Résolution A.530(13) de l'OMI
 
-Rés. OMI A.802(19)
+Résolution A.802(19) de l'OMI
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 8 14
 
-(recueil HSC de 1994) 8, 14
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 8 14
 
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 8, 14
-
--UIT-R M.628-3 (11/93)
+UIT-R M.628-3 (11/93)
 
 |
 
@@ -890,7 +894,7 @@ EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 EN 61097-1 (2007)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -922,8 +926,6 @@ Transféré à l'annexe A.1/4.37
 
 A.1/4.20
 
-(voir la note b de la présente annexe A.1)
-
 |
 
 Indicateur d'angle de barre
@@ -934,47 +936,39 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-série EN 61162
+série EN 61162.
 
 ISO 20673 (2007)
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 série CEI 61162
 
-ISO 20673 (2007)
+-ISO 20673 (2007)
 
 CEI 62288 Ed.1.0(2008)
 
@@ -992,8 +986,6 @@ G
 
 A.1/4.21
 
-(voir la note b de la présente annexe A.1)
-
 |
 
 Indicateur de vitesse de rotation
@@ -1004,41 +996,33 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-série EN 61162
+série EN 61162.
 
 ISO 22554 (2007)
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1062,8 +1046,6 @@ G
 
 A.1/4.22
 
-(voir la note b de la présente annexe A.1)
-
 |
 
 Indicateur de pas d'hélice
@@ -1074,29 +1056,21 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -1108,7 +1082,7 @@ ISO 22555 (2007)
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1142,27 +1116,19 @@ Règ. III/4
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. III/34
 
-Rés. OMI MSC.48(66)-(recueil LSA) IV, V
+Résolution MSC 48(66) de l'OMI-(Recueil LSA) IV, V
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 8 13
 
-(recueil HSC de 1994) 8, 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 8, 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 8 13
 
 |
 
@@ -1254,31 +1220,23 @@ Règ. V/20
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/20
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI A.861(20)
+Résolution A.861(20) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -1290,7 +1248,7 @@ EN 61996-1 (2008)
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1324,31 +1282,27 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13,
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 13
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
-Rés. OMI MSC.232(82)
+Résolution MSC 232(82) de l'OMI
 
-OMI SN.1/circ. 266.
+Circulaire SN.1/Circulaire 266 de l'OMI
 
-(La sauvegarde ECDIS et le RCDS sont applicables uniquement lorsque l'ECDIS est doté de cette fonctionnalité. Le certificat du module B doit indiquer si ces options ont fait l'objet d'essais.)
+[La sauvegarde ECDIS et le RCDS sont applicables uniquement lorsque l'ECDIS est doté de cette fonctionnalité. Le certificat du module B doit indiquer si ces options ont fait l'objet d'essais.]
 
 |
 
@@ -1360,7 +1314,7 @@ EN 61174 (2008)
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1392,29 +1346,21 @@ Gyrocompas pour engins à grande vitesse
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI A.821(19)
+Résolution A.821(19) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -1426,7 +1372,7 @@ série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 ISO 16328 (2001)
 
@@ -1460,35 +1406,27 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 74(69) de l'OMI
 
-Rés. OMI MSC.74(69)
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
+Résolution MSC 191(79) de l'OMI
 
-(recueil HSC de 2000) 13
+UIT-R M. 1371-4(2010)
 
-Rés. OMI MSC.191(79)
-
-UIT-R M. 1371-4(2010).
-
-Note : la norme UIT-R M. 1371-4(2010) ne s'applique que dans le respect des dispositions de la rés. OMI MSC.74(69)
+Remarque : la norme UIT-R M. 1371-4(2010) ne s'applique que dans le respect des dispositions de la résolution MSC 74(69) de l'OMI
 
 |
 
@@ -1500,7 +1438,7 @@ EN 61993-2 (2001)
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1528,7 +1466,7 @@ A.1/4.33
 
 Système de contrôle de poursuite
 
-(en fonction lorsque la vitesse du navire se sIUTe entre l'allure de manœuvre minimale et 30 nœuds)
+(en fonction lorsque la vitesse du navire se situe entre l'allure de manœuvre minimale et 30 nœuds)
 
 |
 
@@ -1538,11 +1476,11 @@ Règ. V/18
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.74(69)
+Résolution MSC 74(69) de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -1554,7 +1492,7 @@ EN 62065 (2002)
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1590,15 +1528,15 @@ Règ. V/18
 
 Règ. V/19.
 
-Rés. OMI A.278 (VIII)
+Résolution A.278 (VIII) de l'OMI
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI A.823(19)
+Résolution A.823(19) de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
-Rés. OMI MSC.192(79)
+Résolution MSC 192(79) de l'OMI
 
 UIT-R M. 1177-3(06/03)
 
@@ -1612,7 +1550,7 @@ EN 62288 (2008)
 
 EN 62388 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1648,13 +1586,13 @@ Règ. V/18
 
 Règ. V/19
 
-Rés. OMI A.278 (VIII)
+Résolution A.278 (VIII) de l'OMI
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
-Rés. OMI MSC.192(79)
+Résolution MSC 192(79) de l'OMI
 
 UIT-R M. 1177-3(06/03)
 
@@ -1668,7 +1606,7 @@ EN 62288 (2008)
 
 EN 62388 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1704,13 +1642,13 @@ Règ. V/18
 
 Règ. V/19
 
-Rés. OMI A.278 (VIII)
+Résolution A.278 (VIII) de l'OMI
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
-Rés. OMI MSC.192(79)
+Résolution MSC 192(79) de l'OMI
 
 UIT-R M. 1177-3(06/03)
 
@@ -1724,7 +1662,7 @@ EN 62288 (2008)
 
 EN 62388 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1750,37 +1688,29 @@ A.1/4.37
 
 |
 
-Equipement radar pour applications d'engins à grande vitesse (CAT 1H, CAT 2H et CAT 3H)
+Equipement radar pour applications d'engins à grande vitesse (CAT 1H et CAT 2H)
 
 |
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
-Rés. OMI A.278 (VIII)
+Résolution A.278 (VIII) de l'OMI
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
+Résolution MSC 191(79) de l'OMI
 
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.191(79)
-
-Rés. OMI MSC.192(79)
+Résolution MSC 192(79) de l'OMI
 
 UIT-R M. 1177-3(06/03)
 
@@ -1794,7 +1724,7 @@ EN 62288 (2008)
 
 EN 62388 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1822,43 +1752,35 @@ A.1/4.38
 
 Equipement radar approuvé avec une option cartographique, à savoir :
 
-a) CAT 1 avec option cartographique ;
+a) CAT 1C
 
-b) CAT 2 avec option cartographique ;
+b) CAT 2C
 
-c) CAT 1 pour engins à grande vitesse avec option cartographique ;
+c) CAT 1HC pour HSC
 
-d) CAT 2 pour engins à grande vitesse avec option cartographique.
+d) CAT 2HC pour HSC
 
 |
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
-Rés. OMI A.278 (VIII)
+Résolution A.278 (VIII) de l'OMI
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
+Résolution MSC 191(79) de l'OMI
 
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.191(79)
-
-Rés. OMI MSC.192(79)
+Résolution MSC 192(79) de l'OMI
 
 UIT-R M. 1177-3(06/03)
 
@@ -1872,7 +1794,7 @@ EN 62288 (2008)
 
 EN 62388 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -1898,7 +1820,7 @@ A.1/4.39
 
 |
 
-Réflecteur radar type passif
+Réflecteur radar - type passif
 
 |
 
@@ -1906,27 +1828,19 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.164(78)
+Résolution MSC 164(78) de l'OMI
 
 |
 
@@ -1934,11 +1848,11 @@ ISO 8729-1 (2010)
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-ou
+Ou
 
 ISO 8729-1 (2010)
 
-CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+CEI 60945 (2002), y compris CEI 60945 corrigendum 1 (2008)
 
 |
 
@@ -1962,29 +1876,21 @@ Système de contrôle de route pour engins à grande vitesse
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI A.822(19)
+Résolution A.822(19) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -1996,7 +1902,7 @@ série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 ISO 16329 (2003)
 
@@ -2022,7 +1928,7 @@ A.1/4.41
 
 |
 
-Dispositif de contrôle de route à transmission (THD) de type GNSS
+Dispositif de contrôle de route à transmission (THD), de type GNSS
 
 |
 
@@ -2030,35 +1936,27 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
+Résolution MSC.116(73), de l'OMI
 
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.116(73)
-
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
-ISO 22090-3 (2004), y compris corrigendum 1 (2005) à l'ISO
+ISO 22090-3 (2004), y compris corrigendum 1 (2005)
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -2066,7 +1964,7 @@ série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 ISO 22090-3 (2004), y compris corrigendum 1 (2005)
 
@@ -2098,37 +1996,29 @@ Projecteur pour engins à grande vitesse
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 ISO 17884 (2004)
 
-EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+EN 60945 (2002), y compris CEI 60945 corrigendum 1 (2008)
 
-ou
+Ou
 
 ISO 17884 (2004)
 
-CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+CEI 60945 (2002), y compris CEI 60945 corrigendum 1 (2008)
 
 |
 
@@ -2152,39 +2042,31 @@ Equipement de vision nocturne pour engins à grande vitesse
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
-Rés. OMI A.694(17)
+Résolution A.694(17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 94(72) de l'OMI
 
-Rés. OMI MSC.94(72)
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 ISO 16273 (2003)
 
-EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+EN 60945 (2002), y compris CEI 60945 corrigendum 1 (2008)
 
-ou
+Ou
 
 ISO 16273 (2003)
 
-CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+CEI 60945 (2002), y compris CEI 60945 corrigendum 1 (2008)
 
 |
 
@@ -2198,7 +2080,7 @@ G
 
 |
 
-A.1/4.44
+A.1/ 4.44
 
 |
 
@@ -2210,29 +2092,21 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.114(73)
+Résolution MSC 114(73) de l'OMI
 
 |
 
@@ -2242,7 +2116,7 @@ CEI 61108-4 (2004)
 
 série EN 61162
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -2262,9 +2136,7 @@ G
 
 |
 
-A.1/4.45
-
-(voir la note b de la présente annexe A.1)
+A.1/ 4.45
 
 |
 
@@ -2276,17 +2148,11 @@ Article supprimé car pris en charge par l'annexe A.1/4.38
 
 |
 
-|
-
-|
-
-|
-
 A.1/4.46
 
 |
 
-Dispositif de contrôle de route à transmission (THD) de type gyroscopique
+Dispositif de contrôle de route à transmission (THD), de type gyroscopique
 
 |
 
@@ -2294,35 +2160,27 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
+Résolution MSC.116(73), de l'OMI
 
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.116(73)
-
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
-ISO 22090-1 (2002), y compris corrigendum 1 (2005)
+ISO 22090-1 (2002), y compris corr.1 (2005)
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -2330,9 +2188,9 @@ série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
-ISO 22090-1 (2002), y compris corrigendum 1 (2005)
+ISO 22090-1 (2002), y compris corr.1 (2005)
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -2366,11 +2224,11 @@ Règ. V/20
 
 Règ. V/20
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.163(78)
+Résolution MSC 163(78) de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -2382,7 +2240,7 @@ EN 61996-2 (2008)
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -2404,37 +2262,15 @@ G
 
 |
 
-A.1./4.48
+A.1/4.48
 
 |
 
-Appareil de hissage du pilote
+Appareils de hissage du pilote
 
 |
 
-Règ. V/23
-
-|
-
-Règ. V/23
-
-Rés. OMI A.889 (21)
-
-OMI MSC/circ.773
-
-|
-
-Rés. OMI A.889(21),
-
-ISO 799 (2004)
-
-|
-
-B + D
-
-B + E
-
-B + F
+Intentionnellement blanc (puisque la Résolution MSC 308(88) de l'OMI, qui entre en vigueur le 1er juillet 2012, stipule : "Les appareils de hissage du pilote mécaniques ne doivent pas être utilisés")
 
 |
 
@@ -2454,13 +2290,13 @@ Règ. X/3
 
 Règ. V/23
 
-Rés. OMI A.889(21)
+Résolution A.889(21) de l'OMI
 
-OMI MSC/circ. 773.
+Circulaire MSC/Circulaire 773 de l'OMI
 
 |
 
-Rés. OMI A.889(21)
+Résolution A.889(21) de l'OMI
 
 ISO 799 (2004)
 
@@ -2476,9 +2312,7 @@ G
 
 |
 
-A.1/4.50
-
-(voir la note b de la présente annexe A.1)
+A.1/ 4.50
 
 |
 
@@ -2490,33 +2324,25 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
+Résolution MSC 112(73) de l'OMI
 
-(recueil HSC de 2000) 13
+Résolution MSC 114(73) de l'OMI
 
-Rés. OMI MSC.112(73)
-
-Rés. OMI MSC.114(73)
-
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -2530,7 +2356,7 @@ série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -2556,8 +2382,6 @@ G
 
 A.1/4.51
 
-(voir la note b de la présente annexe A.1)
-
 |
 
 Equipement DGLONASS
@@ -2568,33 +2392,25 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
+Résolution MSC 113(73) de l'OMI
 
-(recueil HSC de 2000) 13
+Résolution MSC 114(73) de l'OMI
 
-Rés. OMI MSC.113(73)
-
-Rés. OMI MSC.114(73)
-
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -2608,7 +2424,7 @@ série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -2634,7 +2450,7 @@ G
 
 A.1/4.52
 
-(voir la note c) de la présente annexe A.1)
+voir la note b de la présente annexe A.1
 
 |
 
@@ -2646,29 +2462,21 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994)
 
-(recueil HSC de 1994)
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000)
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000)
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994)
 
-(recueil HSC de 1994)
+Résolution MSC 95(72) de l'OMI
 
-Rés. OMI MSC.95(72)
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000)
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000)
 
 |
 
@@ -2676,7 +2484,7 @@ EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 ISO 25861 (2007)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -2694,7 +2502,7 @@ B + F
 
 A.1/4.53
 
-Ex-A.2/4.17
+Voir la note c de la présente annexe A.1
 
 |
 
@@ -2706,27 +2514,21 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
+Résolution MSC 164(78) de l'OMI
 
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.164(78)
+UIT-R M.1176 (10/95)
 
 |
 
@@ -2734,7 +2536,7 @@ ISO 8729-2 (2009)
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-ou
+Ou
 
 ISO 8729-2 (2009)
 
@@ -2754,7 +2556,7 @@ G
 
 A.1/4.54
 
-Ex-A.2/4.31
+Voir la note c de la présente annexe A.1
 
 |
 
@@ -2774,7 +2576,7 @@ ISO 25862 (2009)
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-ou
+Ou
 
 ISO 25862 (2009)
 
@@ -2794,7 +2596,7 @@ G
 
 A.1/4.55
 
-Ex-A.2/4.36
+Voir la note c de la présente annexe A.1
 
 |
 
@@ -2812,13 +2614,13 @@ Règ. III/6
 
 Règ. IV/7
 
-Rés. OMI MSC.246(83)
+Résolution MSC 246(83) de l'OMI
 
-Rés. OMI MSC.247(83)
+Résolution MSC 247(83) de l'OMI
 
-Rés. OMI MSC.256(84)
+Résolution MSC 256(84) de l'OMI
 
-UIT-R M. 1371-4(2010)
+UIT-R M.1371-4(2010)
 
 |
 
@@ -2826,15 +2628,15 @@ EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 EN 61097-14 (2010)
 
-série EN 61162
+série EN 61162.
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 CEI 61097-14 (2010)
 
-série CEI 61162
+série IEC 61162
 
 |
 
@@ -2850,7 +2652,7 @@ G
 
 A.1/4.56
 
-Ex-A.2/4.35
+Voir la note c de la présente annexe A.1
 
 |
 
@@ -2862,33 +2664,25 @@ Règ. V/18
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
-
-Rés. OMI MSC.97(73)-
-
-(recueil HSC de 2000) 13
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 13
 
 |
 
 Règ. V/19
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI A.813(19)
+Résolution A.813(19) de l'OMI
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(Recueil HSC de 1994) 13
 
-(recueil HSC de 1994) 13
+Résolution MSC 97(73) de l'OMI-(Recueil HSC de 2000) 13
 
-Rés. OMI MSC.97(73)-
+Résolution MSC 191(79) de l'OMI
 
-(recueil HSC de 2000) 13
-
-Rés. OMI MSC.191(79)
-
-Rés. OMI MSC.233(82)
+Résolution MSC 233(82) de l'OMI
 
 |
 
@@ -2900,7 +2694,7 @@ série EN 61162
 
 EN 62288 (2008)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
@@ -2924,7 +2718,7 @@ G
 
 A.1/4.57
 
-Ex-A.2/4.32
+Voir la note c de la présente annexe A.1
 
 |
 
@@ -2936,11 +2730,11 @@ Règ. V/18
 
 |
 
-Rés. OMI A.694 (17)
+Résolution A.694 (17) de l'OMI
 
-Rés. OMI MSC.128(75)
+Résolution MSC 128(75) de l'OMI
 
-Rés. OMI MSC.191(79)
+Résolution MSC 191(79) de l'OMI
 
 |
 
@@ -2952,7 +2746,7 @@ EN 62288 (2008)
 
 CEI 62616 (2010)
 
-ou
+Ou
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 

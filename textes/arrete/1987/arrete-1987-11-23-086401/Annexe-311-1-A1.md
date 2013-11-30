@@ -40,19 +40,21 @@ NOM DE L'ARTICLE
 
 RÈGLE SOLAS 74
 
-qui requiert
+modifiée qui requiert
 
-une approbation
+une "approbation
 
-de type
+de type"
 
 |
 
-RÈGLES SOLAS 74 APPLICABLES
+RÈGLES SOLAS 74
 
-et résolutions et circulaires
+telles que modifiées
 
-applicables de l'OMI
+applicables et résolutions
+
+et circulaires applicables de l'OMI
 
 |
 
@@ -112,15 +114,15 @@ Règ. III/7
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, II
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, II
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70).
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -138,11 +140,11 @@ A.1/1.2
 
 Feux de localisation pour engins de sauvetage :
 
-a) Pour engins de sauvetage et canots de secours ;
+a) pour engins de sauvetage et canots de secours ;
 
-b) Pour bouées de sauvetage ;
+b) pour bouées de sauvetage ;
 
-c) Pour brassières de sauvetage.
+c) pour brassières de sauvetage.
 
 |
 
@@ -162,15 +164,15 @@ Règ. III/32
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) II, IV
+Résolution MSC 48(66) de l'OMI-(recueil LSA) II, IV
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -200,15 +202,15 @@ Règ. III/7
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, II
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, II
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -240,19 +242,19 @@ Règ. III/22
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, II
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, II
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution CSM 97(73) de l'OMI-(recueil HSC de 2000) 8
 
-OMI MSC/circ.922
+Circulaire MSC/Circulaire 922 de l'OMI
 
-OMI MSC.1/circ.1304.
+Circulaire MSC.1/Circulaire 1304 de l'OMI
 
 |
 
-Rés.OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -268,7 +270,7 @@ A.1/1.5
 
 |
 
-Combinaisons d'immersion et de sauvetage non répertoriées comme brassières de sauvetage : isolées ou non isolées
+Combinaisons d'immersion et combinaisons de protection contre les éléments non répertoriées comme brassières de sauvetage : isolées ou non isolées.
 
 |
 
@@ -286,17 +288,17 @@ Règ. III/32
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, II
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, II
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 8
 
-OMI MSC/circ. 1046.
+Circulaire MSC/Circulaire 1046 de l'OMI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -312,7 +314,7 @@ A.1/1.6
 
 |
 
-Combinaisons d'immersion et de sauvetage répertoriées comme brassières de sauvetage : isolées ou non isolées
+Combinaisons d'immersion et combinaisons de protection contre les éléments répertoriées comme brassières de sauvetage isolées ou non isolées.
 
 |
 
@@ -330,17 +332,17 @@ Règ. III/32
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, II
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, II
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 8
 
-OMI MSC/circ. 1046
+Circulaire MSC/Circulaire 1046 de l'OMI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -372,17 +374,17 @@ Règ. III/32
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. MI MSC.48(66)-(recueil LSA) I, II
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, II
 
-Rés.OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 8
 
-OMI MSC/circ. 1046
+Circulaire MSC/Circulaire 1046 de l'OMI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -412,15 +414,15 @@ Règ. III/6
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés.OMI MSC.48(66)-(recueil LSA) I, III
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, III
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés.OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -448,15 +450,15 @@ Règ. X/3
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, III
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, III
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8.
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -472,7 +474,7 @@ A.1/1.10
 
 |
 
-Signaux fumigènes flottants (pyrotechnie).
+Signaux fumigènes flottants (pyrotechnie)
 
 |
 
@@ -484,11 +486,11 @@ Règ. X/3
 
 Règ. III/34
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, III.
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, III
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -518,15 +520,15 @@ Règ. III/18
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, VII
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, VII
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -562,17 +564,17 @@ Règ. III/31
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, IV
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, IV
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 8
 
-OMI MSC/circ. 811
+Circulaire MSC/Circulaire 811 de l'OMI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -606,19 +608,19 @@ Règ. III/31
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, IV
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, IV
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 8
 
-OMI MSC/circ. 811
+Circulaire MSC/Circulaire 811 de l'OMI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
-OMI MSC/circ. 1006
+Circulaire MSC/Circulaire 1006 de l'OMI
 
 |
 
@@ -648,19 +650,19 @@ Règ. III/26
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, IV
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, IV
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 8
 
-OMI MSC/circ. 809
+Circulaire MSC/Circulaire 809 de l'OMI
 
-OMI MSC/circ. 811
+Circulaire MSC/Circulaire 811 de l'OMI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -690,19 +692,19 @@ Règ. III/26
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, IV
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, IV
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 8
 
-OMI MSC/circ. 809
+Circulaire MSC/Circulaire 809 de l'OMI
 
-OMI MSC/circ. 811
+Circulaire MSC/Circulaire 811 de l'OMI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -734,17 +736,17 @@ Règ. III/26
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, IV
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, IV
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution OMI CSM.97(73)-(recueil HSC de 2000) 8
 
-OMI MSC/circ. 811
+Circulaire MSC/Circulaire 811 de l'OMI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -762,6 +764,16 @@ A.1/1.17
 
 Embarcations de sauvetage
 
+a) Embarcation de sauvetage sous bossoirs :
+
+- partiellement fermées
+
+- complètement fermées ;
+
+b) Embarcations de sauvetage avec mise à l'eau en chute libre :
+
+- complètement fermées.
+
 |
 
 Règ. III/4
@@ -776,17 +788,17 @@ Règ. III/31
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, IV
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, IV
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
-OMI MSC/circ. 1006
+Circulaire MSC/Circulaire 1006 de l'OMI
 
 |
 
@@ -802,7 +814,7 @@ A.1/1.18
 
 |
 
-Canots de secours rigides.
+Canots de secours rigides
 
 |
 
@@ -818,17 +830,17 @@ Règ. III/31
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, V
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, V
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
-OMI MSC/circ. 1006
+Circulaire MSC/Circulaire 1006 de l'OMI
 
 |
 
@@ -860,15 +872,15 @@ Règ. III/31
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, V
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, V
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 ISO 15372 (2000)
 
@@ -886,7 +898,13 @@ A.1/1.20
 
 |
 
-Canots de secours rapides
+Canots de secours rapides :
+
+a) gonflés ;
+
+b) rigides ;
+
+c) rigides-gonflés.
 
 |
 
@@ -898,17 +916,17 @@ Règ. III/26
 
 Règ. III/34
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, V
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, V
 
-OMI MSC/circ. 1016
+Circulaire MSC/Circulaire 1016 de l'OMI
 
-OMI MSC/circ. 1094
+Circulaire MSC/Circulaire 1094 de l'OMI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
-OMI MSC/circ. 1006
+Circulaire MSC/Circulaire 1006 de l'OMI
 
 ISO 15372 (2000)
 
@@ -942,15 +960,15 @@ Règ. III/33
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, VI
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, VI
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -998,15 +1016,15 @@ Règ. III/33
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, VI
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, VI
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -1040,15 +1058,15 @@ Règ. III/16
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, VI
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, VI
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -1078,11 +1096,11 @@ Règ. III/26
 
 Règ. III/34
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, VI
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, VI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -1102,11 +1120,9 @@ A.1/1.26
 
 Dispositifs de largage :
 
-a) Des embarcations de sauvetage et des canots de secours ;
+a) des embarcations de sauvetage et des canots de secours ;
 
-b) Des radeaux de sauvetage
-
-mis à l'eau par un ou plusieurs garants.
+b) des radeaux de sauvetage (mis à l'eau par un ou plusieurs garants).
 
 |
 
@@ -1120,15 +1136,15 @@ Règ. III/16
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, IV, VI
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, IV, VI
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -1144,7 +1160,7 @@ A.1/1.27
 
 |
 
-Dispositifs d`évacuation en mer MES
+Dispositifs d`évacuation en mer M.E.S.
 
 |
 
@@ -1160,15 +1176,15 @@ Règ. III/26
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, VI
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, VI
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -1184,7 +1200,7 @@ A.1/1.28
 
 |
 
-Moyens de secours MOR
+Moyens de secours
 
 |
 
@@ -1196,13 +1212,13 @@ Règ. III/26
 
 Règ. III/34
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, VI
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, VI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
-OMI MSC/circ. 810
+Circulaire MSC/Circulaire 810 de l'OMI
 
 |
 
@@ -1213,8 +1229,6 @@ B + F
 |
 
 A.1/1.29
-
-(voir la note b de la présente annexe A.1)
 
 |
 
@@ -1234,17 +1248,17 @@ Règ. III/11
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994)
+Résolution OMI CSM.36(63)-(recueil HSC de 1994)
 
-Rés. OMI MSC.48(66)-(recueil LSA)
+Résolution OMI CSM.48(66)-(recueil LSA)
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000)
+Résolution OMI CSM.97(73)-(recueil HSC de 2000)
 
-OMI MSC.1/circ. 1285
+Circulaire MSC.1/Circulaire 1285 de l'OMI
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 ISO 5489 (2008)
 
@@ -1260,7 +1274,7 @@ A.1/1.30
 
 |
 
-Matériaux rétroréfléchissants.
+Matériaux rétroréfléchissants
 
 |
 
@@ -1272,15 +1286,15 @@ Règ. X/3
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI A.658(16)
+Résolution OMI A.658(16)
 
 |
 
@@ -1320,7 +1334,9 @@ A.1/1.33
 
 |
 
-Réflecteur radar pour embarcations de sauvetage et canots de secours (passif)
+Réflecteur radar pour embarcations de sauvetage et canots de secours
+
+(passif)
 
 |
 
@@ -1332,13 +1348,13 @@ Règ. X/3
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, IV, V
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, IV, V
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 8
 
-Rés. OMI MSC.164(78)
+Résolution MSC 164(78) de l'OMI
 
 |
 
@@ -1346,19 +1362,19 @@ EN ISO 8729 (1998)
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-ou,
+Ou
 
-EN ISO 8729(1998)
+EN ISO 8729 (1998)
 
 CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-ou
+Ou
 
-ISO 8729-1 (2010),
+ISO 8729-1 (2010)
 
-EN 60945 (2002), y compris corrigendum 1 (2008)à la CEI 60945
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-ou
+Ou
 
 ISO 8729-1 (2010)
 
@@ -1414,11 +1430,11 @@ Règ. X/3
 
 Règ. III/34
 
-Rés. OMI MSC.48(66)-(recueil LSA) IV, V.
+Résolution MSC 48(66) de l'OMI-(recueil LSA) IV, V
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -1434,7 +1450,7 @@ A.1/1.37
 
 |
 
-Moteur de propulsion de canot de secours. Moteur hors-bord
+Moteur de propulsion de canot de secours, moteur hors-bord
 
 |
 
@@ -1446,11 +1462,11 @@ Règ. X/3
 
 Règ. III/34
 
-Rés. OMI MSC.48(66)-(recueil LSA) V
+Résolution MSC 48(66) de l'OMI-(recueil LSA) V
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -1478,15 +1494,15 @@ Règ. X/3
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, IV, V
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, IV, V
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -1512,17 +1528,17 @@ Règ. X/3
 
 |
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8, annexe 10
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8, annexe 10
 
-Rés. OMI MSC.48(66)-(recueil LSA) I
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8, annexe 11
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 8, annexe 11
 
 |
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) annexe 10
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) annexe 10
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000), annexe 11
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000), annexe 11
 
 |
 
@@ -1548,7 +1564,17 @@ A.1/1.41
 
 |
 
-Treuils pour engins de sauvetage et canots de secours
+Treuils pour engins de sauvetage et canots de secours :
+
+a) embarcation de sauvetage sous bossoirs ;
+
+b) embarcations de sauvetage avec mise à l'eau en chute libre ;
+
+c) radeaux de sauvetage ;
+
+d) canots de secours ;
+
+e) canots de secours rapides.
 
 |
 
@@ -1568,15 +1594,15 @@ Règ. III/24
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, VI
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, VI
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
 |
 
@@ -1604,7 +1630,7 @@ Transféré à l'annexe A.1/4.49
 
 A.1/1.43
 
-(voir la note c de la présente annexe A.1)
+Voir la note b) de la présente annexe A.1
 
 |
 
@@ -1624,17 +1650,17 @@ Règ. III/31
 
 Règ. III/34
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, V
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, V
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 8
 
 |
 
-Rés. OMI MSC.81(70)
+Résolution MSC 81(70) de l'OMI
 
-OMI MSC/circ. 1006
+Circulaire MSC/Circulaire 1006 de l'OMI
 
 ISO 15372 (2000)
 
@@ -1658,9 +1684,9 @@ NOM DE L'ARTICLE
 
 |
 
-RÈGLE SOLAS 74
+RÈGLE MARPOL 73/78
 
-qui requiert
+modifiée qui requiert
 
 une "approbation
 
@@ -1668,9 +1694,13 @@ de type"
 
 |
 
-RÈGLES SOLAS 74 APPLICABLES
+RÈGLES MARPOL 73/78
 
-et résolutions et circulaires
+telles que modifiées
+
+applicables et résolutions
+
+et circulaires
 
 applicables de l'OMI
 
@@ -1728,13 +1758,13 @@ Annexe I, Règ. 14
 
 Annexe I, Règ. 14
 
-OMI MEPC.1/circ. 643
+Circulaire MEPC.1/Circulaire 643 de l'OMI
 
 |
 
-Rés. OMI MEPC.107 (49)
+Résolution MEPC.107(49) de l'OMI
 
-OMI MEPC.1/circ. 643
+Circulaire MEPC.1/Circulaire 643 de l'OMI
 
 |
 
@@ -1762,7 +1792,7 @@ Annexe I, Règ. 32
 
 |
 
-Rés. OMI MEPC.5(XIII)
+Résolution OMI MEPC.5(XIII)
 
 |
 
@@ -1788,13 +1818,13 @@ Annexe I, Règ. 14
 
 Annexe I, Règ. 14
 
-OMI MEPC.1/circ. 643
+Circulaire MEPC.1/Circulaire 643 de l'OMI
 
 |
 
-Rés. OMI MEPC.107 (49)
+Résolution MEPC.107(49) de l'OMI
 
-OMI MEPC.1/circ. 643
+Circulaire MEPC.1/Circulaire 643 de l'OMI
 
 |
 
@@ -1834,7 +1864,7 @@ Annexe I, Règ. 31
 
 |
 
-Rés. OMI MEPC.108(49)
+Résolution MEPC.108(49) de l'OMI
 
 |
 
@@ -1862,7 +1892,7 @@ Annexe IV, Règ. 9
 
 |
 
-Rés. OMI MEPC.159(55)
+Résolution MEPC.159(55) de l'OMI
 
 |
 
@@ -1890,7 +1920,7 @@ Annexe VI, Règ. 16
 
 |
 
-Rés.OMI MEPC.76(40)
+Résolution MEPC.76(40) de l'OMI
 
 |
 
@@ -1906,35 +1936,33 @@ G
 
 A.1/2.8
 
-(voir la note b de la présente annexe A.1)
+|
+
+Analyseurs de Nox à bord utilisant la méthode de mesure directe et de contrôle du code technique NOx, 2008, (NOx Technical Code)
 
 |
 
-Dispositifs de contrôle et d'enregistrement à bord pour le NOx
+Résolution OMI MEPC.176(58)-(annexe VI révisée de la convention MARPOL, Règ. 13).
 
 |
 
-Annexe VI, Règ. 13
+Résolution OMI MEPC.176(58)-(annexe VI révisée de la convention MARPOL, Règ. 13)
 
-Code technique NOx, 2008
+Résolution MEPC.177(58) de l'OMI-(Code technique NOx, 2008)
 
-Rés. OMI MEPC.177(58)
-
-|
-
-Annexe VI, Règ. 13
-
-Code technique NOx, 2008
-
-Rés. OMI MEPC.177(58)
-
-OMI MEPC.1/circ. 638
+Circulaire MEPC.1/Circulaire 638 de l'OMI
 
 |
 
-Code technique NOx, 2008
+Résolution MEPC.177(58) de l'OMI-(Code technique NOx, 2008)
 
-Rés. OMI MEPC.177(58)
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945.
+
+Ou
+
+Résolution MEPC.177(58) de l'OMI-(Code technique NOx, 2008)
+
+CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
 |
 
@@ -1950,39 +1978,19 @@ G
 
 A.1/2.9
 
-(voir la note b de la présente annexe A.1)
+|
+
+Equipement utilisant d'autres méthodes technologiques pour limiter les émissions de SOx
 
 |
 
-Autres méthodes technologiques pour limiter les émissions de SOx
-
-|
-
-Annexe VI, Règ. 4
-
-|
-
-Annexe VI, Règ. 4
-
-|
-
-Rés. OMI MEPC.184(59)
-
-|
-
-B + D
-
-B + E
-
-B + F
-
-G
+Transféré à l'annexe A.2/2.4
 
 |
 
 A.1/2.10
 
-Ex-A.2/2.2
+Voir la note c de la présente annexe A.1
 
 |
 
@@ -1990,15 +1998,21 @@ Systèmes de nettoyage embarqués des gaz d'échappement
 
 |
 
-Annexe VI, Règ. 4
+Résolution MEPC.176(58) de l'OMI-(annexe VI révisée
+
+de la convention MARPOL,
+
+Règ. 4).
+
+Résolution MEPC.184(59) de l'OMI
 
 |
 
-Annexe VI, Règ. 4
+Résolution MEPC.176(58) de l'OMI-(annexe VI révisée de la convention MARPOL, Règ. 4)
 
 |
 
-Rés. OMI MEPC.184(59)
+Résolution MEPC.184(59) de l'OMI
 
 |
 
@@ -2024,7 +2038,7 @@ NOM DE L'ARTICLE
 
 RÈGLE SOLAS 74
 
-qui requiert
+modifiée qui requiert
 
 une "approbation
 
@@ -2032,9 +2046,13 @@ de type"
 
 |
 
-RÈGLES SOLAS 74 APPLICABLES
+RÈGLES SOLAS 74
 
-et résolutions et circulaires
+telles que modifiées
+
+applicables et résolutions
+
+et circulaires
 
 applicables de l'OMI
 
@@ -2098,17 +2116,15 @@ Règ. II-2/4
 
 Règ. II-2/6
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP), annexe 1, partie 2 et partie 6, ou annexe 2
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
-OMI MSC/circ. 1102
-
-OMI MSC/circ. 1120
+Circulaire MSC/Circulaire 1102 de l'OMI
 
 |
 
@@ -2132,9 +2148,7 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 4
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 4
 
 |
 
@@ -2148,17 +2162,17 @@ Règ. II-2/19
 
 Règ. II-2/20
 
-Rés. OMI A.951(23)
+Résolution A.951(23) de l'OMI
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 4
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 4
 
-OMI MSC/circ. 1239
+Circulaire MSC/Circulaire 1239 de l'OMI
 
-OMI MSC/circ. 1275
+Circulaire MSC/Circulaire 1275 de l'OMI
 
 |
 
@@ -2192,33 +2206,23 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
 Vêtements de protection pour sapeurs-pompiers :
 
 EN 469 (2005), y compris A1 (2006) et AC (2006)
-
-Vêtements de protection pour sapeurs-pompiers, vêtements réfléchissants pour opérations spéciales de lutte contre l'incendie :
-
-EN 1486 (2007).
-
-Vêtements de protection pour sapeurs-pompiers, vêtements de protection ayant une surface extérieure réfléchissante :
-
-ISO 15538 (2001)
 
 |
 
@@ -2227,6 +2231,18 @@ B + D
 B + E
 
 B + F
+
+|
+
+Vêtements de protection pour sapeurs-pompiers - Vêtements réfléchissants pour opérations spéciales de lutte contre l'incendie :
+
+EN 1486 (2007).
+
+|
+
+Vêtements de protection pour sapeurs-pompiers - Vêtements de protection ayant une surface extérieure réfléchissante :
+
+ISO 15538 (2001)
 
 |
 
@@ -2242,19 +2258,17 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
@@ -2282,19 +2296,17 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
@@ -2322,19 +2334,17 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
@@ -2356,7 +2366,7 @@ A.1/3.7
 
 Appareil respiratoire autonome à air comprimé
 
-Notes : dans les accidents impliquant des marchandises dangereuses, un masque à pression positive est requis.
+Remarque : dans les accidents impliquant des marchandises dangereuses, un masque à pression positive est requis
 
 |
 
@@ -2364,25 +2374,33 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3.
+
+Et lorsque l'appareil doit être utilisé en cas d'accident impliquant la cargaison :
+
+Résolution MSC 4(48) de l'OMI-(recueil IBC), 14
+
+Résolution MSC 5(48) de l'OMI-(recueil FSS) 14
 
 |
 
 EN 136 (1998), y compris AC (2003)
 
 EN 137 (2006)
+
+Et lorsque l'appareil doit être utilisé en cas d'accident impliquant la cargaison :
+
+ISO 23269-3 (2011)
 
 |
 
@@ -2402,17 +2420,15 @@ Appareil respiratoire à adduction d'air comprimé
 
 |
 
-Règ. X/3
+Règ. X/3.
 
-Rés. OMI MSC.36(63)-
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-(recueil HSC de 1994) 7
-
-Notes : cet équipement concerne uniquement les engins à grande vitesse construits selon les prescriptions du recueil HSC de 1994
+Remarque : cet équipement concerne uniquement les engins à grande vitesse construits selon les prescriptions du recueil HSC de 1994
 
 |
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
 |
 
@@ -2420,7 +2436,7 @@ EN 14593-1 (2005)
 
 EN 14593-2 (2005), y compris AC (2005)
 
-EN 14594 (2005)
+EN 14594 (2005), y compris AC (2005)
 
 |
 
@@ -2438,7 +2454,7 @@ A.1/3.9
 
 Composants de dispositifs automatiques d'extinction par eau diffusée pour les compartiments de logement, les locaux de service et les postes de sécurité équivalents à ceux visés dans la règle SOLAS 74 II-2/12 (uniquement diffuseurs et essais de fonctionnement)
 
-(cet article comprend les diffuseurs pour dispositifs automatiques fixes d'extinction par eau diffusée pour engins à grande vitesse [HSC])
+[Cet article comprend les diffuseurs pour dispositifs automatiques fixes d'extinction par eau diffusée pour engins à grande vitesse (HSC)]
 
 |
 
@@ -2448,9 +2464,7 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 8
+Résolution OMI CSM.98(73)-(recueil FSS) 8
 
 |
 
@@ -2460,19 +2474,19 @@ Règ. II-2/9
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.44(65)
+Résolution MSC 44(65) de l'OMI
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 8
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 8
 
-OMI MSC/circ. 912
+Circulaire MSC/Circulaire 912 de l'OMI
 
 |
 
-Rés. OMI A.800(19)
+Résolution A.800(19) de l'OMI
 
 |
 
@@ -2486,8 +2500,6 @@ B + F
 
 A.1/3.10
 
-(voir la note b de la présente annexe A.1)
-
 |
 
 Diffuseurs pour dispositifs fixes d'extinction d'incendie par projection d'eau sous pression destinés aux locaux de machines et aux chambres des pompes à cargaison
@@ -2498,27 +2510,23 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 7
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 7
 
 |
 
 Règ. II-2/10
 
-Règ. X/3
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 7
-
-OMI MSC.1/circ. 1313
+Circulaire MSC.1/Circulaire 1313 de l'OMI
 
 |
 
-OMI MSC/circ. 1165, appendice A
+Circulaire MSC/Circulaire 1165 de l'OMI, appendice A
 
 |
 
@@ -2536,9 +2544,9 @@ A.1/3.11
 
 Cloisonnements de types "A" et "B", intégrité au feu :
 
-a) Cloisonnements de type "A" ;
+a) cloisonnements de type "A" ;
 
-b) Cloisonnements de type "B".
+b) cloisonnements de type "B".
 
 |
 
@@ -2556,7 +2564,9 @@ Règ. II-2/9, et
 
 Type "A" :
 
-Règ. II-2/3.2.
+Règ. II-2/3.2
+
+Circulaire MSC/Circulaire 1005 (pour les constructions légères)
 
 Type "B" :
 
@@ -2564,9 +2574,7 @@ Règ. II-2/3.4
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP), annexe 1, partie 3, et annexe 2
-
-OMI MSC/circ. 1120
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -2602,11 +2610,13 @@ EN 12874 (2001)
 
 ISO 15364 (2007)
 
-OMI MSC/circ. 677
+Circulaire MSC/Circulaire 677 de l'OMI
 
 |
 
-Dispositif autre que des vannes :
+Dispositif autre
+
+que des vannes :
 
 B + D
 
@@ -2640,15 +2650,13 @@ Règ. II-2/5
 
 Règ. II-2/9
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 1
-
-OMI MSC/circ. 1120
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -2678,11 +2686,13 @@ A.1/3.15
 
 Matériaux autres que l'acier pour tuyaux amenant des hydrocarbures ou des liquides combustibles :
 
-a) Tuyautages et accessoires ;
+a) tuyautages et accessoires ;
 
-b) Robinetterie ;
+b) robinetterie ;
 
-c) Assemblages de conduites souples.
+c)assemblages de conduites souples ;
+
+d) tuyaux métalliques avec joints élastiques ou élastomères.
 
 |
 
@@ -2694,19 +2704,33 @@ Règ. X/3
 
 Règ. II-2/4
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7, 10
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7, 10
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7, 10
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7, 10
 
-OMI MSC/circ. 1120
+Circulaire MSC/Circulaire 1120 de l'OMI
 
 |
 
-Rés.OMI A.753(18)
+Tuyaux et raccords :
 
-ISO 15540 (2001).
+Résolution OMI A.753(18)
 
-ISO 15541 (2001)
+Robinetterie :
+
+ISO 10497 (2010)
+
+Assemblages de conduites souples :
+
+EN ISO 15540 (2001)
+
+EN ISO 15541 (2001)
+
+Tuyaux métalliques avec joints élastiques ou élastomères
+
+ISO 19921 (2005)
+
+ISO 19922 (2005)
 
 |
 
@@ -2734,13 +2758,9 @@ Règ. II-2/9
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 3
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010).
 
-OMI MSC/circ. 1120
-
-OMI MSC.1/circ. 1273
-
-OMI MSC.1/circ. 1319
+Circulaire MSC.1/Circulaire 1319 de l'OMI
 
 |
 
@@ -2758,8 +2778,6 @@ A.1/3.17
 
 Eléments de systèmes de commande de portes coupe-feu
 
-Notes : si les termes : "éléments du système" apparaissent dans la colonne 2, cela peut signifier qu'un seul élément, un groupe d'éléments ou tout le système doivent être testés afin de vérifier s'ils répondent aux exigences internationales
-
 |
 
 Règ. II-2/9
@@ -2770,11 +2788,11 @@ Règ. X/3
 
 Règ. II-2/9
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 4
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -2792,17 +2810,17 @@ A.1/3.18
 
 Matériaux de surface et revêtements de sol à faible pouvoir propagateur de flamme :
 
-a) Placage décoratif ;
+a) placage décoratif ;
 
-b) Systèmes de peinture ;
+b) systèmes de peinture ;
 
-c) Revêtements de sol ;
+c) revêtements de sol ;
 
-d) Coquilles isolantes ;
+d) coquilles isolantes ;
 
-e) Adhésifs utilisés dans la construction des cloisonnements des types "A", "B" et "C" ;
+e) adhésifs utilisés dans la construction des cloisonnements des types "A", "B" et "C" ;
 
-f) Gaines combustibles.
+f) gaines combustibles.
 
 |
 
@@ -2826,21 +2844,15 @@ Règ. II-2/6
 
 Règ. II-2/9
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
-OMI MSC/circ. 1120
+Circulaire MSC/Circulaire 1120 de l'OMI
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP), annexe 1, partie 2, et partie 5, ou annexe 2
-
-OMI MSC/circ. 1120
-
-ISO 1716 (2002).
-
-Notes : lorsque le matériel de surface ne doit pas avoir un pouvoir calorifique supérieur à une certaine valeur, la mesure doit être effectuée conformément à la norme ISO 1716
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -2872,17 +2884,15 @@ Règ. II-2/3
 
 Règ. II-2/9
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 7
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
-OMI MSC/circ. 1102
-
-OMI MSC/circ. 1120
+Circulaire MSC/Circulaire 1102 de l'OMI
 
 |
 
@@ -2918,17 +2928,15 @@ Règ. II-2/5
 
 Règ. II-2/9
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 8
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
-OMI MSC/circ. 1102
-
-OMI MSC/circ. 1120
+Circulaire MSC/Circulaire 1102 de l'OMI
 
 |
 
@@ -2950,7 +2958,7 @@ Articles de literie
 
 Règ. II-2/3
 
-Règ. II-2/9
+Règ. II-2/9,
 
 Règ. X/3.
 
@@ -2964,17 +2972,15 @@ Règ. II-2/3
 
 Règ. II-2/9
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 9
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
-OMI MSC/circ. 1102
-
-OMI MSC/circ. 1120
+Circulaire MSC/Circulaire 1102 de l'OMI
 
 |
 
@@ -3002,9 +3008,7 @@ Règ. II-2/9
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 3
-
-OMI MSC/circ. 1120
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3036,7 +3040,7 @@ Gaines de câble électrique traversant des cloisonnements de type "A"
 
 |
 
-Transféré à l'annexe A.1/3.26
+Transféré à l'annexe A.1/3.26 (a)
 
 |
 
@@ -3054,15 +3058,11 @@ Règ. II-2/9
 
 Règ. II-2/9
 
-OMI MSC/circ. 1120
+Circulaire MSC/Circulaire 1120 de l'OMI
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 3
-
-OMI MSC/circ. 1120
-
-OMI MSC.1/circ. 1203
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3080,25 +3080,23 @@ A.1/3.26
 
 Ouvertures pratiquées dans les cloisonnements de type "A" pour le passage de :
 
-a) Gaines de câbles électriques ;
+a) gaines de câbles électriques ;
 
-b) Tuyaux, conduits, puits, etc.
-
-|
-
-Règ. II-2/9
+b) tuyaux, conduits, puits, etc.
 
 |
 
 Règ. II-2/9
 
-OMI MSC.1/circ. 1276
+|
+
+Règ. II-2/9
+
+Circulaire MSC.1/Circulaire 1276 de l'OMI
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 3
-
-OMI MSC/circ. 1120
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3116,13 +3114,9 @@ A.1/3.27
 
 Ouvertures pratiquées dans les cloisonnements de type "B" pour :
 
-a) Gaines de câbles électriques ;
+a) gaines de câbles électriques
 
-b) Tuyaux, conduits, puits, etc.
-
-|
-
-Règ. II-2/9
+b) tuyaux, conduits, puits, etc.
 
 |
 
@@ -3130,9 +3124,11 @@ Règ. II-2/9
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 3
+Règ. II-2/9
 
-OMI MSC/circ. 1120
+|
+
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3150,7 +3146,7 @@ A.1/3.28
 
 Dispositifs automatiques d'extinction par eau diffusée (limités aux têtes de diffusion)
 
-(cet article comprend les diffuseurs pour dispositifs automatiques fixes d'extinction par eau diffusée pour engins à grande vitesse [HSC])
+[Cet article comprend les diffuseurs pour dispositifs automatiques fixes d'extinction par eau diffusée pour engins à grande vitesse (HSC)]
 
 |
 
@@ -3166,23 +3162,23 @@ Règ. II-2/7
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.44(65)
+Résolution MSC 44(65) de l'OMI
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 8
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 8
 
-OMI MSC/circ. 912
+Circulaire MSC/Circulaire 912 de l'OMI
 
 |
 
-ISO 6182-1 (2004).
+ISO 6182-1 (2004)
 
 Ou
 
-EN 12259-1 (1999) y compris A1 (2001), A2 (2004) et A3 (2006)
+EN 12259-1 (1999), y compris A1 (2001), A2 (2004) et A3 (2006)
 
 |
 
@@ -3210,9 +3206,9 @@ Règ. X/3
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
@@ -3246,41 +3242,41 @@ Règ. II-2/4
 
 Règ. VI/3
 
-Rés. OMI MSC.98(73)-(recueil FSS) 15
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 15
 
 |
 
-EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
+EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945 ou CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-CEI 60092-504 (2001)
+CEI 60092-504 (2001), y compris corrigendum 1 (2011) à la CEI 60092-504
 
 CEI 60533 (1999)
 
 et, selon le cas, soit :
 
-a) Catégorie 1 (zone de sécurité) :
+a) Catégorie 1 : (zone de sécurité) :
 
-EN 50104 (2002), y compris A1 (2004) (Oxygène)
+EN 50104 (2010)
 
 EN 60079-29-1 (2007) ;
 
-b) Catégorie 2 (atmosphères gazeuses explosibles) :
+b) Catégorie 2 : (atmosphères gazeuses explosibles) :
 
-EN 50104 (2002), y compris A1 (2004) (Oxygène)
+EN 50104 (2010)
 
 EN 60079-29-1 (2007)
 
-CEI 60079-0 (2007)
+EN 60079-0 (2009)
 
-CEI 60079-1 (2007), y compris corrigendum 1 (2008) à la CEI 60079-1
+EN 60079-1 (2007), y compris corrigendum 1 (2008) à la CEI 60079-1
 
-CEI 60079-10-1 (2008)
+EN 60079-10-1 (2009)
 
-CEI 60079-11 (2006)
+EN 60079-11 (2007)
 
-CEI 60079-15 (2010)
+EN 60079-15 (2010)
 
-CEI 60079-26 (2006)
+EN 60079-26 (2007)
 
 |
 
@@ -3308,7 +3304,7 @@ A.1/3.32
 
 |
 
-Matériaux antifeu (sauf mobilier) pour engins à grande vitesse
+Matériaux anti-feu (sauf mobilier) pour engins à grande vitesse
 
 |
 
@@ -3316,13 +3312,13 @@ Règ. X/3
 
 |
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 10
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3338,7 +3334,7 @@ A.1/3.33
 
 |
 
-Matériaux antifeu pour mobilier d'engins à grande vitesse
+Matériaux anti-feu pour mobilier d'engins à grande vitesse
 
 |
 
@@ -3346,15 +3342,15 @@ Règ. X/3
 
 |
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-OMI MSC/circ. 1102
+Circulaire MSC/Circulaire 1102 de l'OMI
 
 |
 
-Rés. OMI MSC 61(67)-(recueil FTP) annexe 1, partie 1, partie 8 et partie 10
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3370,7 +3366,7 @@ A.1/3.34
 
 |
 
-Cloisonnements antifeu pour engins à grande vitesse
+Cloisonnements anti-feu pour engins à grande vitesse
 
 |
 
@@ -3378,13 +3374,13 @@ Règ. X/3
 
 |
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 11
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3408,13 +3404,13 @@ Règ. X/3
 
 |
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 11
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3438,15 +3434,15 @@ Règ. X/3
 
 |
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-OMI MSC/circ. 1102
+Circulaire MSC/Circulaire 1102 de l'OMI
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 11
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3462,11 +3458,11 @@ A.1/3.37
 
 |
 
-Ouvertures pratiquées dans les cloisonnements antifeu pour engins à grande vitesse pour le passage de :
+Ouvertures pratiquées dans les cloisonnements anti-feu pour engins à grande vitesse pour le passage de :
 
-a) Ggaines de câbles électriques ;
+a) gaines de câbles électriques ;
 
-b) Tuyaux, conduits, puits, etc.
+b) tuyaux, conduits, puits, etc.
 
 |
 
@@ -3474,13 +3470,13 @@ Règ. X/3
 
 |
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 11
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3504,25 +3500,23 @@ Règ. III/4
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 4
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 4
 
 |
 
 Règ. III/34
 
-Rés. OMI A.951(23)
+Résolution OMI A.951(23)
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 8
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 8
 
-Rés. OMI MSC.48(66)-(recueil LSA) I, IV, V
+Résolution MSC 48(66) de l'OMI-(recueil LSA) I, IV, V
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 8
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000)
 
-Rés. OMI MSC.98(73)-(recueil FSS) 4
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 4
 
-OMI MSC.1/circ. 1313
+Circulaire MSC.1/Circulaire 1313 de l'OMI
 
 |
 
@@ -3560,17 +3554,17 @@ Règ. X/3
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 7
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 7
 
-OMI MSC.1/circ. 1313
+Circulaire MSC.1/Circulaire 1313 de l'OMI
 
 |
 
-OMI MSC/circ. 1165
+Circulaire MSC/Circulaire 1165 de l'OMI
 
 |
 
@@ -3592,19 +3586,19 @@ Systèmes d'éclairage à faible hauteur (composants)
 
 Règ. II-2/13
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 11
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 11
 
 |
 
 Règ. II-2/13
 
-Rés. OMI MSC.98(73)-(recueil FSS) 11
+Résolution A.752(18) de l'OMI
+
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 11
 
 |
 
-Rés. OMI A.752(18)
+Résolution A.752(18) de l'OMI
 
 ou
 
@@ -3634,13 +3628,25 @@ Règ. II-2/13
 
 Règ. II-2/13
 
-Rés. OMI MSC.98(73)-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
-OMI MSC/circ. 849
+Circulaire MSC/Circulaire 849 de l'OMI
 
 |
 
-ISO 23269-1 (2008) et aussi :
+ISO 23269-1 (2008), et aussi :
+
+Pour appareil autonome : appareil respiratoire à air comprimé en circuit ouvert avec masque complet ou embout buccal pour évacuation
+
+EN 402 (2003)
+
+Pour appareils autonomes : appareils respiratoires à air comprimé en circuit ouvert avec cagoule pour l'évacuation
+
+EN 1146 (2005)
+
+Pour appareil autonome : appareil respiratoire à air comprimé en circuit fermé
+
+EN 13794 (2002)
 
 |
 
@@ -3649,20 +3655,6 @@ B + D
 B + E
 
 B + F
-
-|
-
-Pour appareil autonome : appareil respiratoire à air comprimé en circuit ouvert avec masque complet ou embout buccal pour évacuation
-
-EN 402(2003)
-
-Pour appareils autonomes : appareils respiratoires à air comprimé en circuit ouvert avec cagoule pour l'évacuation
-
-EN 1146(2005)
-
-Pour appareil autonome : appareil respiratoire à air comprimé en circuit fermé.
-
-EN 13794(2002)
 
 |
 
@@ -3680,25 +3672,25 @@ Règ. II-2/4
 
 Règ. II-2/4
 
-Rés. OMI A.567(14)
+Résolution A.567(14) de l'OMI
 
-Rés. OMI MSC.98(73)-(recueil FSS) 15
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 15
 
-OMI MSC/circ. 353
+Circulaire MSC/Circulaire 353 de l'OMI
 
-OMI MSC/circ. 387
+Circulaire MSC/Circulaire 387 de l'OMI
 
-OMI MSC/circ. 485
+Circulaire MSC/Circulaire 485 de l'OMI
 
-OMI MSC/circ. 450/rév.1
+Circulaire MSC/Circulaire 450/rév.1 de l'OMI
 
-OMI MSC/circ. 731
+Circulaire MSC/Circulaire 731 de l'OMI
 
-OMI MSC/circ. 1120
+Circulaire MSC/Circulaire 1120 de l'OMI
 
 |
 
-OMI MSC/circ. 353
+Circulaire MSC/Circulaire 353 de l'OMI
 
 |
 
@@ -3716,7 +3708,7 @@ A.1/3.43
 
 |
 
-Diffuseurs pour systèmes d'extinction (manuels ou automatiques) pour matériel de frIUTre
+Diffuseurs pour systèmes d'extinction (manuels ou automatiques) pour matériel de friture
 
 |
 
@@ -3732,9 +3724,7 @@ Règ. II-2/1
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
-
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
@@ -3754,7 +3744,7 @@ A.1/3.44
 
 |
 
-Equipement de pompier - câble de secours
+Equipement de pompier, câble de secours
 
 |
 
@@ -3762,25 +3752,23 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 3
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
 |
 
-Rés. OMI MSC.61(67)-(recueil FTP) annexe 1, partie 1
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 3
 
-Rés. OMI MSC.98(73)-(recueil FSS) 3
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
 
 |
 
@@ -3804,33 +3792,31 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 5
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 5
 
 |
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 5
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 5
 
-OMI MSC/circ. 848
+Circulaire MSC/Circulaire 848 de l'OMI
 
-OMI MSC.1/circ. 1313
+Circulaire MSC.1/Circulaire 1313 de l'OMI
 
-OMI MSC.1/circ. 1316
+Circulaire MSC.1/Circulaire 1316 de l'OMI
 
-OMI MSC.1/circ. 1317
+Circulaire MSC.1/Circulaire 1317 de l'OMI
 
 |
 
-OMI MSC/circ. 848
+Circulaire MSC/Circulaire 848 de l'OMI
 
-OMI MSC.1/circ. 1317
+Circulaire MSC.1/Circulaire 1317 de l'OMI
 
 |
 
@@ -3854,27 +3840,25 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 5
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 5
 
 |
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 5
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 5
 
-OMI MSC.1/circ. 1270
+Circulaire MSC.1/Circulaire 1270 de l'OMI
 
-OMI MSC.1/circ. 1313
+Circulaire MSC.1/Circulaire 1313 de l'OMI
 
 |
 
-OMI MSC.1/circ. 1270
+Circulaire MSC.1/Circulaire 1270 de l'OMI, y compris corrigendum 1
 
 |
 
@@ -3892,7 +3876,7 @@ A.1/3.47
 
 Concentré pour dispositifs fixes d'extinction à mousse à haut foisonnement pour locaux de machines et chambres des pompes à cargaison
 
-Notes : les dispositifs fixes d'extinction d'incendie à mousse à haut foisonnement (y compris les dispositifs qui utilisent l'air intérieur de leurs locaux pour remplir la fonction qui leur est assignée) pour les locaux de machines et les chambres des pompes à cargaison doivent être testés avec le concentré approuvé et être jugés satisfaisants par l'administration.
+Remarque : les dispositifs fixes d'extinction d'incendie à mousse à haut foisonnement (y compris les dispositifs qui utilisent l'air intérieur de leurs locaux pour remplir la fonction qui leur est assignée) pour les locaux de machines et les chambres des pompes à cargaison doivent être testés avec le concentré approuvé et être jugés satisfaisants par l'administration
 
 |
 
@@ -3902,11 +3886,11 @@ Règ. II-2/10
 
 Règ. II-2/10
 
-Rés. OMI MSC.98(73)-(recueil FSS) 6
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 6
 
 |
 
-OMI MSC/circ. 670
+Circulaire MSC/Circulaire 670 de l'OMI
 
 |
 
@@ -3922,9 +3906,7 @@ A.1/3.48
 
 |
 
-Composants de dispositifs fixes d'extinction d'incendie par eau à action directe destinés à être utilisés dans les locaux de machines de type "A"
-
-(diffuseurs et essais de fonctionnement)
+Composants de dispositifs fixes d'extinction d'incendie par eau à action directe destinés à être utilisés dans les locaux de machines de type A (diffuseurs et essais de fonctionnement)
 
 |
 
@@ -3936,15 +3918,13 @@ Règ. X/3
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-OMI MSC/circ. 913
-
-OMI MSC.1/circ. 1276
+Circulaire MSC.1/Circulaire 1387 de l'OMI
 
 |
 
@@ -3958,8 +3938,6 @@ B + F
 
 A.1/3.49
 
-(voir la note b de la présente annexe A.1)
-
 |
 
 Diffuseurs pour dispositifs fixes d'extinction d'incendie par eau destinés aux espaces rouliers et aux locaux de catégorie spéciale équivalents à ceux visés dans la résolution A.123(V)
@@ -3972,27 +3950,21 @@ Règ. II-2/20
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 7
-
 |
 
 Règ. II-2/19
 
 Règ. II-2/20
 
-Rés. OMI A.123(V)
+Résolution A.123(V) de l'OMI
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
-
-Rés. OMI MSC.98(73)-(recueil FSS) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-OMI MSC.1/circ. 1272
+Circulaire MSC.1/Circulaire 1272 de l'OMI
 
 |
 
@@ -4028,47 +4000,27 @@ Règ. II-2/7
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-
-
-(recueil FSS) 9
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 9
 
 |
 
 Règ. II-2/7
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 9
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 9
 
-OMI MSC.1/circ. 1242
+Circulaire MSC.1/Circulaire 1242 de l'OMI
 
-OMI MSC.1/circ. 1313
-
-|
-
-Equipement de contrôle et de signalisation. Installations électriques à bord des navires : EN 54-2 (1997) y compris AC(1999) et A1(2006).
-
-Equipement d'alimentation électrique : EN 54-4 (1997) y compris AC(1999), A1(2002) et A2(2006). Détecteurs de chaleur, détecteurs ponctuels :
-
-EN 54-5 (2000) y compris A1(2002).
+Circulaire MSC.1/Circulaire 1313 de l'OMI
 
 |
 
-|
+Equipement de contrôle et de signalisation. Installations électriques à bord des navires :
 
-Détecteurs de fumée, détecteurs ponctuels fonctionnant suivant le principe de la diffusion de la lumière, de la transmission de la lumière ou de l'ionisation : EN 54-7 (2000), y compris A1(2002) et A2(2006)
-
-Détecteurs de flamme, détecteurs ponctuels : EN 54-10 (2002), y compris A1(2005).
-
-Avertisseurs d'incendie à commande manuelle : EN 54-11 (2001), y compris A1(2005).
-
-et, selon le cas, installations électriques et électroniques à bord des navires :
-
-CEI 60092-504 (2001)
-
-CEI 60533 (1999)
+EN 54-2 (1997) y compris AC(1999) et A1(2006).
 
 |
 
@@ -4077,6 +4029,62 @@ B + D
 B + E
 
 B + F
+
+|
+
+Equipement d'alimentation électrique :
+
+EN 54-4 (1997) y compris AC(1999), A1(2002) et A2(2006).
+
+|
+
+Détecteurs de chaleur - Détecteurs ponctuels :
+
+EN 54-5 (2000) y compris A1(2002).
+
+|
+
+Détecteurs de fumée - Détecteurs ponctuels fonctionnant suivant le principe de la diffusion de la lumière, de la transmission de la lumière ou de l'ionisation :
+
+EN 54-7 (2000) y compris A1(2002) et A2(2006).
+
+|
+
+Détecteurs de flamme - Détecteurs ponctuels :
+
+EN 54-10 (2002) y compris A1(2005).
+
+|
+
+Avertisseurs d'incendie à commande manuelle :
+
+EN 54-11 (2001) y compris A1(2005).
+
+|
+
+Isolateurs de court-circuit
+
+EN 54-17 (2007), y compris AC (2007).
+
+|
+
+Dispositifs d'entrée/sortie
+
+EN 54-18 (2005), y compris AC (2007).
+
+|
+
+Câbles :
+
+EN 60332-1-1 (2004).
+
+|
+
+Et, selon le cas, installations électriques et électroniques à bord des navires :
+
+CEI 60092-504 (2001), y compris corrigendum 1 (2011) à la CEI 60092-504
+
+CEI 60533 (1999)
 
 |
 
@@ -4100,15 +4108,15 @@ Règ. II-2/10
 
 Règ. X/3
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
 EN 1866-1 (2007)
 
-ou
+Ou
 
 ISO 11601 (2008)
 
@@ -4134,27 +4142,27 @@ Règ. II-2/7
 
 Règ. X/3
 
-Rés. OMI MSC.98(73)-(recueil FSS) 9
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 9
 
 |
 
 Règ. II-2/7
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(recueil HSC de 2000) 7
 
-Rés. OMI MSC.98(73)-(recueil FSS) 9
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 9
 
-OMI MSC.1/circ. 1313
+Circulaire MSC.1/Circulaire 1313 de l'OMI
 
 |
 
 Dispositifs sonores
 
-EN 54-3 (2001), y compris A1(2002) et A2(2006)
+EN 54-3 (2001) y compris A1(2002) et A2(2006)
 
-CEI 60092-504 (2001)
+CEI 60092-504 (2001), y compris corrigendum 1 (2011) à la CEI 60092-504
 
 CEI 60533 (1999)
 
@@ -4186,25 +4194,27 @@ Règ. II-2/4
 
 Règ. VI/3
 
-Rés. OMI MSC.98(73)-(recueil FSS) 15
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 15
 
 |
 
 EN 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945 ou CEI 60945 (2002), y compris corrigendum 1 (2008) à la CEI 60945
 
-CEI 60092-504 (2001)
+CEI 60092-504 (2001), y compris corrigendum 1 (2011) à la CEI 60092-504
 
 CEI 60533 (1999)
 
 et, selon le cas, soit :
 
-a) Catégorie 4 (zone de sécurité) :
+a) Catégorie 4 : (zone de sécurité) :
 
-EN 50104 (2002), y compris A1 2004 (Oxygène) ;
+EN 50104 (2010) ;
 
-b) Catégorie 3 (atmosphères gazeuses explosibles)
+b) Catégorie 3 : (atmosphères gazeuses explosibles).
 
-EN 50104 (2002), y compris A1 2004 (Oxygène)
+EN 50104 (2010)
+
+EN 60079-0 (2009)
 
 EN 60079-29-1 (2007)
 
@@ -4219,8 +4229,6 @@ B + F
 |
 
 A.1/3.55
-
-(voir la note b de la présente annexe A.1)
 
 |
 
@@ -4238,17 +4246,23 @@ Règ. X/3
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
-Lances à main destinées aux services d'incendie diffuseurs mixtes PN16
+Lances à main destinées aux services d'incendie, diffuseurs mixtes PN16 :
 
 EN 15182-1 (2007), y compris A1 (2009)
 
-EN 15182-2 (2007), y compris A1(2009)
+EN 15182-2 (2007) y compris A1(2009)
+
+Lances à main destinées aux services d'incendie : lances à jet plein et/ou une diffusion à angle fixe PN 16
+
+EN 15182-1 (2007), y compris A1 (2009)
+
+EN 15182-3 (2007) y compris A1(2009)
 
 |
 
@@ -4260,27 +4274,7 @@ B + F
 
 |
 
-|
-
-|
-
-|
-
-|
-
-Lances à main destinées aux services d'incendie : lances à jet plein et/ou une diffusion à angle fixe PN 16
-
-EN 15182-1 (2007), y compris A1 (2009)
-
-EN 15182-3 (2007) y compris A1 (2009)
-
-|
-
-|
-
 A.1/3.56
-
-(voir la note b de la présente annexe A.1)
 
 |
 
@@ -4296,9 +4290,9 @@ Règ. X/3
 
 Règ. II-2/10
 
-Rés. OMI MSC.36(63)-(recueil HSC de 1994) 7
+Résolution MSC 36(63) de l'OMI-(recueil HSC de 1994) 7
 
-Rés. OMI MSC.97(73)-(recueil HSC de 2000) 7
+Résolution MSC 97(73) de l'OMI-(code HSC de 2000) 7
 
 |
 
@@ -4316,11 +4310,9 @@ B + F
 
 A.1/3.57
 
-(voir la note b de la présente annexe A.1)
-
 |
 
-Composants de dispositifs d'extinction d'incendie à mousse à foisonnement moyen - diffuseurs à mousse fixes pour pétroliers
+Composants de dispositifs d'extinction de l'incendie à mousse à foisonnement moyen, diffuseurs à mousse fixes pour pétroliers
 
 |
 
@@ -4328,21 +4320,21 @@ Règ. II-2/10
 
 |
 
-Règ. II-2/10.81
+Règ. II-2/10.8.1
 
-Rés. OMI MSC.98(73)-(recueil FSS) 14
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 14
 
-OMI MSC.1/circ. 1239
+Circulaire MSC.1/Circulaire 1239 de l'OMI
 
-OMI MSC.1/circ. 1276
-
-|
-
-OMI MSC/circ. 798
+Circulaire MSC.1/Circulaire 1276 de l'OMI
 
 |
 
-+ D
+Circulaire MSC/Circulaire 798 de l'OMI
+
+|
+
+B + D
 
 B + E
 
@@ -4352,31 +4344,29 @@ B + F
 
 A.1/3.58
 
-(voir la note b de la présente annexe A.1)
-
 |
 
-Composants de dispositifs fixes d'extinction d'incendie à mousse à bas foisonnement pour les locaux de machines et la protection de ponts de pétroliers
-
-|
-
-Règ. II-2/10
+Composants de dispositifs fixes d'extinction de l'incendie à mousse à bas foisonnement pour les locaux de machines et la protection de ponts de pétroliers
 
 |
 
 Règ. II-2/10
 
-Rés. OMI MSC.98(73)-(recueil FSS) 6, 14
+|
 
-OMI MSC.1/circ. 1239
+Règ. II-2/10
 
-OMI MSC.1/circ. 1276
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 6, 14
 
-OMI MSC.1/circ. 1313
+Circulaire MSC.1/Circulaire 1239 de l'OMI
+
+Circulaire MSC.1/Circulaire 1276 de l'OMI
+
+Circulaire MSC.1/Circulaire 1313 de l'OMI
 
 |
 
-OMI MSC.1/circ. 1312
+Circulaire MSC.1/Circulaire 1312 de l'OMI
 
 |
 
@@ -4390,8 +4380,6 @@ B + F
 
 A.1/3.59
 
-(voir la note b de la présente annexe A.1)
-
 |
 
 Mousse à foisonnement pour dispositifs fixes d'extinction d'incendie pour les chimiquiers
@@ -4400,17 +4388,17 @@ Mousse à foisonnement pour dispositifs fixes d'extinction d'incendie pour les c
 
 Règ. II-2/1
 
-Rés. OMI MSC.4(48)-(recueil IBC)
+Résolution MSC 4(48) de l'OMI-(recueil IBC)
 
 |
 
-Rés. OMI MSC.4(48)-(recueil IBC)
+Résolution MSC 4(48) de l'OMI-(recueil IBC)
 
-OMI MSC/circ. 553
+Circulaire MSC/Circulaire 553 de l'OMI
 
 |
 
-OMI MSC.1/circ. 1312
+Circulaire MSC.1/Circulaire 1312 de l'OMI
 
 |
 
@@ -4424,8 +4412,6 @@ B + F
 
 A.1/3.60
 
-(voir la note b de la présente annexe A.1)
-
 |
 
 Diffuseurs pour dispositifs fixes d'extinction d'incendie par projection d'eau sous pression destinés aux balcons de cabine
@@ -4438,13 +4424,13 @@ Règ. II-2/10
 
 Règ. II-2/10
 
-Rés. OMI MSC.98(73)-(recueil FSS) 7
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 7
 
-OMI MSC.1/circ. 1313,
+Circulaire MSC.1/Circulaire 1313 de l'OMI
 
 |
 
-OMI MSC.1/circ. 1268
+Circulaire MSC.1/Circulaire 1268 de l'OMI
 
 |
 
@@ -4458,13 +4444,11 @@ B + F
 
 A.1/3.61
 
-(voir la note b de la présente annexe A.1)
-
 |
 
 Dispositifs à mousse à haut foisonnement à air intérieur pour la protection des locaux de machines et chambres des pompes à cargaison
 
-Notes : les dispositifs à mousse à haut foisonnement à air intérieur pour la protection des locaux de machines et les chambres des pompes à cargaison doivent être testés avec le concentré approuvé et être jugés satisfaisants par l'administration.
+Remarque : les dispositifs à mousse à haut foisonnement à air intérieur pour la protection des locaux de machines et les chambres des pompes à cargaison doivent être testés avec le concentré approuvé et être jugés satisfaisants par l'administration
 
 |
 
@@ -4476,7 +4460,7 @@ Règ. II-2/10
 
 |
 
-OMI MSC.1/circ. 1271
+Circulaire MSC.1/Circulaire 1271 de l'OMI
 
 |
 
@@ -4490,7 +4474,7 @@ B + F
 
 A.1/3.62
 
-Ex-A.2/3.32
+Voir la note c) de la présente annexe A.1
 
 |
 
@@ -4508,7 +4492,7 @@ Recueil international de règles relatives à la construction et à l'équipemen
 
 |
 
-OMI MSC.1/circ. 1315.
+Circulaire MSC.1/Circulaire 1315 de l'OMI
 
 |
 
@@ -4517,5 +4501,171 @@ B + D
 B + E
 
 B + F
+
+|
+
+A.1/3.63
+
+Ex. A.2/3.15
+
+|
+
+Composants de dispositifs de détection de la fumée par prélèvement d'échantillons d'air
+
+|
+
+Règ. II-2/7
+
+Règ. II-2/19
+
+Règ. II-2/20
+
+|
+
+Règ. II-2/7
+
+Règ. II-2/19
+
+Règ. II-2/20
+
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 10
+
+|
+
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 10
+
+et pour :
+
+Equipement de contrôle et de signalisation. Installations électriques à bord des navires :
+
+EN 54-2 (1997) y compris AC(1999) et A1(2006).
+
+|
+
+B + D
+
+B + E
+
+B + F
+
+|
+
+Equipement d'alimentation électrique :
+
+EN 54-4 (1997) y compris AC(1999), A1(2002) et A2(2006).
+
+|
+
+Détecteurs de fumée par aspiration :
+
+EN 54-20 (2006), y compris AC (2008).
+
+|
+
+Et, selon le cas, installations électriques et électroniques à bord des navires :
+
+CEI 60092-504 (2001), y compris corrigendum 1 (2011) à la CEI 60092-504
+
+CEI 60533 (1999)
+
+Et, selon le cas, pour les atmosphères explosibles :
+
+EN 60079-0 (2009)
+
+|
+
+A.1/3.64
+
+Ex. A.2/3.25
+
+|
+
+Cloisonnements de type "C"
+
+|
+
+Règ. II-2/3
+
+|
+
+Règ. II-2/3
+
+|
+
+Résolution MSC 307(88) de l'OMI-(recueil FTP 2010)
+
+|
+
+B + D
+
+B + E
+
+B + F
+
+|
+
+A.1/3.65
+
+(nouvel article)
+
+|
+
+Equipement fixe de détection d'hydrocarbures gazeux
+
+|
+
+Règ. II-2/4
+
+|
+
+Règ. II-2/4
+
+Résolution MSC 98(73) de l'OMI-(recueil FSS) 16
+
+Circulaire MSC.1/Circulaire 1370 de l'OMI
+
+|
+
+Circulaire MSC.1/Circulaire 1370 de l'OMI
+
+EN 60079-29-1 (2007)
+
+CEI 60092-504 (2001), y compris corrigendum 1 (2011) à la CEI 60092-504
+
+CEI 60533 (1999)
+
+EN/CEI 60945 (2002), y compris CEI 60945 corrigendum 1 (2008)
+
+|
+
+B + D
+
+B + E
+
+B + F
+
+|
+
+A.1/3.66
+
+(nouvel article)
+
+|
+
+Systèmes d'aide à l'évacuation qui pourraient remplacer les systèmes d'éclairage à faible hauteur
+
+|
+
+Règ. II-2/13
+
+|
+
+Règ. II-2/13
+
+Circulaire MSC.1/Circulaire 1168 de l'OMI
+
+|
+
+Circulaire MSC.1/Circulaire 1168 de l'OMI
 
 |
