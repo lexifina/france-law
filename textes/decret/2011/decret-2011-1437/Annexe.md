@@ -1,5 +1,5 @@
 # Article Annexe
 
-Le cahier des charges de l'appellation d'origine contrôlée "Grignan-les-Adhémar" est publié au Bulletin officiel du ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire et peut être consulté à l'adresse suivante :
+Le cahier des charges de l'appellation d'origine contrôlée Grignan-les-Adhémar est publié, dans sa rédaction issue de la modification du décret n° 2013-1078, au Bulletin officiel du ministère de l'agriculture, de l'agroalimentaire et de la forêt et peut être consulté à l'adresse suivante :
 
-http://agriculture.gouv.fr/bulletinofficiel.
+http://agriculture.gouv.fr/bulletin-officiel.
