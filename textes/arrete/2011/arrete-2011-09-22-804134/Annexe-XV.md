@@ -2,6 +2,8 @@
 
 DISPOSITIF DE PRÉVENTION BUCCO-DENTAIRE
 
+Disposition de prévention bucco-dentaire pour les enfants et les adolescents
+
 Conformément aux dispositions du titre 2 sur la prévention bucco-dentaire, les modalités de participation des médecins stomatologistes au dispositif sont définies dans les conditions suivantes.
 
 Article 1er
@@ -50,9 +52,7 @@ Article 2.2
 
 Les soins consécutifs à l'examen de prévention
 
-Entrent dans le champ du dispositif les seuls actes correspondant à des soins conservateurs, chirurgicaux et des actes radiographiques, cotés respectivement par les lettres-clés SCM, KC, Z de la NGAP.
-
-Les traitements orthodontiques et prothétiques sont exclus de ce dispositif.
+Entrent dans le champ du dispositif les seuls actes correspondant à des soins conservateurs, chirurgicaux et des actes radiographiques, conformément à la liste fixée en annexe XXXI de la convention nationale.
 
 Article 2.3
 
@@ -76,7 +76,7 @@ Le courrier d'invitation peut être adressé en son nom propre si l'adolescent e
 
 Les soins de prévention bucco-dentaire peuvent être réalisés en accès spécifique. Pour bénéficier des avantages du dispositif, l'enfant ou l'adolescent consulte le médecin stomatologiste de son choix, ou du choix de ses parents, dans les six mois qui suivent la date d'anniversaire. Il présente alors au praticien l'imprimé de prise en charge, pré-identifié à son nom pour bénéficier de l'examen de prévention sans avance de frais.
 
-Après la réalisation de cet examen, le médecin stomatologiste complète la partie supérieure de l'imprimé de prise en charge et l'adresse à l'organisme d'affiliation de l'assuré pour pouvoir être réglé du montant de l'examen réalisé. La partie inférieure "renseignements médicaux " est à conserver par le médecin stomatologiste dans le dossier du patient. Pour ce qui concerne les enfants de 6 et 12 ans, ces renseignements sont également portés par le médecin stomatologiste dans le carnet de santé.
+Après la réalisation de cet examen, le médecin stomatologiste complète la partie supérieure de l'imprimé de prise en charge et l'adresse à l'organisme d'affiliation de l'assuré pour pouvoir être réglé du montant de l'examen réalisé. La partie inférieure"renseignements médicaux"est à conserver par le médecin stomatologiste dans le dossier du patient. Pour ce qui concerne les enfants de 6 et 12 ans, ces renseignements sont également portés par le médecin stomatologiste dans le carnet de santé.
 
 Pour bénéficier d'une prise en charge à 100 %, le programme de soins établi, le cas échéant, lors de l'examen, doit être commencé dans les trois mois qui suivent cet examen et s'achever dans les six mois suivant la date de début des soins.
 
@@ -102,7 +102,7 @@ Le médecin stomatologiste s'engage à :
 
 ― participer à l'évaluation du dispositif en :
 
-― conservant dans le dossier médical du patient les "renseignements médicaux" relatifs à l'examen de prévention et au programme de soins éventuels ;
+― conservant dans le dossier médical du patient les"renseignements médicaux"relatifs à l'examen de prévention et au programme de soins éventuels ;
 
 ― transmettant ces renseignements au service médical à sa demande ;
 
@@ -181,3 +181,77 @@ Article 5.3
 La formalisation de l'évaluation
 
 La méthode utilisée et les critères retenus pour l'évaluation dans ses trois composantes seront déterminés, en conformité avec le dispositif prévu pour les chirurgiens-dentistes.
+
+Prévention bucco-dentaire à destination des femmes enceintes
+
+Article 1er
+
+Les parties concernées
+
+1.1. Les bénéficiaires.
+
+Le dispositif de prévention s'adresse aux femmes enceintes à partir du quatrième mois de grossesse, ayants droit ou assurées sociales, remplissant les conditions d'ouverture des droits aux prestations de l'assurance maladie et maternité.
+
+1.2. Les médecins.
+
+Les médecins relevant des dispositions de la convention nationale des médecins libéraux participent à cette action de prévention.
+
+Article 2
+
+Contenu du dispositif
+
+Les femmes enceintes bénéficient d'un examen de prévention pris en charge à 100 % avec dispense d'avance de frais, à compter du quatrième mois de grossesse, jusqu'à douze jours après l'accouchement.
+
+2.1. Le contenu de l'examen de prévention.
+
+L'examen comprend obligatoirement :
+
+- une anamnèse ;
+
+- un examen bucco-dentaire ;
+
+- des éléments d'éducation sanitaire : sensibilisation de la future mère à la santé bucco-dentaire (hygiène orale, etc.), hygiène alimentaire, information sur l'étiologie et la prévention de la carie de la petite enfance (mesures d'hygiène nécessaires dès l'éruption des premières dents de l'enfant).
+
+Ces informations et conseils d'éducation sanitaire sont délivrés oralement par le médecin, lors de la consultation de prévention, et peuvent se matérialiser par la remise d'une plaquette synthétisant ces conseils.
+
+L'examen est complété, si nécessaire, par :
+
+- des radiographies intrabuccales ;
+
+- l'établissement d'un programme de soins.
+
+Dans le cas où il n'y a qu'un acte à réaliser, celui-ci peut être exécuté au cours de la même séance que l'examen de prévention. Il ne peut y avoir au cours d'une même séance facturation d'une consultation et d'un examen de prévention.
+
+2.2. Les tarifs d'honoraires de l'examen de prévention.
+
+Cet examen est valorisé à 30 €. Il est complété si nécessaire par des radiographies intrabuccales quelle que soit la technique utilisée.
+
+Dans ce cas, la rémunération forfaitaire de l'examen et des radiographies est la suivante :
+
+- examen avec réalisation d'un ou deux clichés : 42 euros ;
+
+- examen avec réalisation de trois ou quatre clichés : 54 euros.
+
+L'examen et les radiographies qui y sont associées le cas échéant sont facturés à tarifs opposables.
+
+Article 3
+
+Mise en œuvre du dispositif
+
+A compter de la réception de la déclaration de grossesse de l'assurée ou de l'ayant droit, la caisse d'assurance maladie dont elle relève lui envoie l'imprimé unique de prise en charge préidentifié accompagné d'une invitation à participer à cet examen de prévention.
+
+Pour bénéficier des avantages du dispositif, la femme enceinte doit consulter le médecin de son choix à compter de son quatrième mois de grossesse et ce, jusqu'à douze jours après l'accouchement. Elle présente alors au praticien l'imprimé de prise en charge préidentifié à son nom pour bénéficier de l'examen de prévention sans avance de frais.
+
+La facture de l'examen doit être télétransmise. En cas d'impossibilité, le médecin complète la partie supérieure de l'imprimé de prise en charge et l'adresse à l'organisme d'affiliation de l'assurée pour pouvoir être réglé du montant de l'examen réalisé. La partie inférieure"Renseignements médicaux" est à conserver par le médecin dans le dossier de la patiente.
+
+Article 4
+
+Evaluation et suivi du dispositif
+
+Les parties signataires considèrent qu'une évaluation de ce dispositif doit être réalisée.
+
+L'ensemble des acteurs étant amené à participer à cette évaluation, les médecins s'engagent en conséquence à répondre le plus efficacement possible à toute sollicitation des caisses ou des tiers habilités afin de faciliter cette démarche. En contrepartie, les caisses d'assurance maladie conviennent de mettre à disposition des instances conventionnelles concernées les éléments analytiques d'évaluation du dispositif de prévention.
+
+Les partenaires conventionnels conviennent à ce titre d'étudier l'application et le suivi du dispositif dans le cadre des instances conventionnelles.
+
+Un bilan annuel sera réalisé dans le cadre de la Commission paritaire nationale définie à l'article 70 de la présente convention.

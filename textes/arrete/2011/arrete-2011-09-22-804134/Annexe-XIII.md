@@ -11,3 +11,5 @@ Le paiement de cette rémunération spécifique au médecin s'effectue à trimes
 Le médecin traitant bénéficie de la même rémunération spécifique pour le suivi de ses patients qui ne relèvent plus d'une ALD mais qui se trouvent dans une situation clinique répondant aux dispositions de l'article L. 322-3 (10°) du code de la sécurité sociale. Cette rémunération est versée une fois par an.
 
 A compter du 1er juillet 2013, le médecin traitant reçoit une rémunération spécifique (forfait médecin traitant) pour le suivi de ses patients ne bénéficiant pas d'une exonération du ticket modérateur conformément aux dispositions de l'article 12.4.5. Le montant de cette rémunération spécifique forfaitaire annuelle (FMT) par patient est de 5 euros.
+
+Afin de ne pas pénaliser le médecin nouvellement installé, ce forfait médecin traitant (FMT) est versé, au titre de la première année d'installation en libéral, pour chacun des patients l'ayant choisi comme médecin traitant.

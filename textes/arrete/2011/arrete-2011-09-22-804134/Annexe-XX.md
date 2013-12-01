@@ -30,15 +30,13 @@ Article 2
 
 Taux de participation des caisses aux cotisations sociales pour les médecins affiliés au régime du RSI
 
-pour les médecins affiliés au régime du RSI
-
 |
 
 TAUX DE PARTICIPATION |
 
 Assurance maladie, maternité, décès |
 
-0,6 % dans la limite du plafond de sécurité sociale et de 5,9 % dans la limite de 5 fois le plafond de sécurité sociale |
+6,50 % |
 
 Allocations familiales |
 
