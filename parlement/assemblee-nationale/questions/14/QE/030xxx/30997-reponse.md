@@ -1,0 +1,9 @@
+# Réponse à la question n° 30997
+
+- Question : [30997](30997.md) — Question n° 30997 — diplomates et agents consulaires; résidence principale; prise en compte
+
+## Réponse
+
+*JO du 2013-12-03*
+
+Par dérogation au principe selon lequel la valeur vénale des immeubles dont le propriétaire a l'usage est réputée égale à leur valeur libre de toute occupation, l'article 17 de la loi n° 98-1266 du 30 décembre 1998 de finances pour 1999 a instauré, en matière d'impôt de solidarité sur la fortune (ISF), un abattement de 20 % sur la valeur vénale de l'immeuble occupé, au 1er janvier de l'année d'imposition, à titre de résidence principale par son propriétaire. Afin de tenir compte de l'augmentation des prix de l'immobilier, le montant de cet abattement a été porté à 30 % par la loi n° 2007-1223 du 21 août 2007 en faveur du travail, de l'emploi et du pouvoir d'achat (TEPA). Le paragraphe 120 du BOI-PAT-ISF-30-50-10-20120912 précise d'une part, qu'il convient de considérer comme résidence principale l'immeuble ou la partie d'immeuble qui constitue la résidence habituelle et effective du redevable et d'autre part, que la notion de résidence principale doit s'entendre du logement dans lequel le redevable réside effectivement et de manière habituelle pendant la majeure partie de l'année. L'application de cet abattement à l'immeuble détenu par un agent diplomatique et consulaire de carrière en mission à l'étranger ne constituant pas sa résidence habituelle et effective pendant la majeure partie de l'année serait de nature à rompre l'égalité devant l'impôt, dès lors qu'elle ne se fonde sur aucun élément objectif démontrant la pertinence d'un traitement fiscal différencié pour une catégorie de personnes. Par ailleurs, une exonération qui serait faite en faveur d'une catégorie de personnes ne manquerait pas de susciter de nombreuses demandes reconventionnelles émanant d'autres redevables.
