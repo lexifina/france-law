@@ -1,0 +1,9 @@
+# Réponse à la question n° 19427
+
+- Question : [19427](19427.md) — Question n° 19427 — enseignement privé; application
+
+## Réponse
+
+*JO du 2013-12-03*
+
+Le code de l'éducation confère aux directeurs d'école privée sous contrat une certaine liberté dans l'organisation du temps scolaire (voir les dispositions combinées des articles L. 521 1, L. 442 20, R. 442 35 et R. 442 39). Ainsi, les écoles privées sous contrat sont tenues de respecter la durée de l'année scolaire sur trente six semaines, réparties en cinq périodes de travail et quatre périodes de vacances ainsi que les programmes et les règles appliquées dans l'enseignement public en matière d'horaires, c'est-à-dire les quotités horaires de chaque matière. En revanche, elles demeurent libres soit de mettre en oeuvre le décret n° 2013-77 du 24 janvier 2013 qui fixe la semaine à neuf demi-journées dans les écoles publiques, soit d'organiser différemment la semaine de cours. L'article 67 de la loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République instaure un fonds en faveur des communes et des établissements publics de coopération intercommunale lorsque la compétence scolaire leur a été transférée « afin de contribuer au développement d'une offre d'activités périscolaires au bénéfice des élèves des écoles maternelles et élémentaires publiques ou privées sous contrat dont les enseignements sont répartis sur neuf demi-journées ». Par ailleurs, l'article 2 du décret n° 2013-705 du 2 août 2013 portant application de cet article 67 a précisé que, pour être éligibles aux aides du fonds d'amorçage, les écoles maternelles et élémentaires privées sous contrat doivent organiser les enseignements dans toutes leurs classes sous contrat dans des conditions comparables à celles existant dans les écoles publiques éligibles.
