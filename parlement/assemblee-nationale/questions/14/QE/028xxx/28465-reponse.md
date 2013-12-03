@@ -1,0 +1,9 @@
+# Réponse à la question n° 28465
+
+- Question : [28465](28465.md) — Question n° 28465 — autorisations d'emploi; statistiques
+
+## Réponse
+
+*JO du 2013-12-03*
+
+Dans un souci de cohérence avec la réponse apportée à la question n° 1135 du 17 juillet 2012, les effectifs décrits dans la présente réponse correspondent à l'action 1 du programme 129 « Coordination du travail gouvernemental » qui recouvre le domaine de compétence propre au Premier ministre. Dans le projet de loi de finances pour 2013, les effectifs inscrits sur cette action s'élevaient à 650 emplois en équivalent temps plein travaillé (ETPT), auxquels ont été ajoutés 137 ETPT à la suite du transfert de la direction interministérielle pour la modernisation de l'action publique vers le programme 129 dans le cadre du vote de la loi de finances initiale. Ainsi, le plafond d'emploi pour l'année 2013 est de 787 ETPT. Dans le projet de loi de finances pour 2014, ce plafond est porté à 789 ETPT suite aux évolutions suivantes : la poursuite de la montée en puissance du service à compétence nationale en charge du réseau interministériel de l'Etat, représentant + 19 ETPT ; le transfert de - 12 ETPT depuis le secrétariat général pour la modernisation de l'action publique vers le budget annexe de la direction de l'information légale et administrative dans le cadre du transfert du site internet « Mon service public » ; le transfert de + 11 ETPT depuis le programme 218 « Gestion des finances publiques et des ressources humaines » au titre de la délégation interministérielle à l'intelligence économique ; le transfert de + 6 ETPT depuis le programme 216 « Conduite et pilotage des politiques de l'intérieur » au titre du Haut Conseil à l'intégration ; le transfert de - 1 ETPT de l'action 01 vers l'action 10 du programme 129 ; un effet du schéma d'emplois de - 12 ETPT ; une correction technique de - 9 ETPT sur l'action 01.
