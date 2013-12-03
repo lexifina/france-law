@@ -1,0 +1,9 @@
+# Réponse à la question n° 43015
+
+- Question : [43015](43015.md) — Question n° 43015 — médicaments; délivrance; perspectives
+
+## Réponse
+
+*JO du 2013-12-03*
+
+Le ministre de l'agriculture, de l'agroalimentaire et de la forêt et la ministre des affaires sociales et de la santé ont reçu le 4 novembre dernier les représentants du conseil supérieur de l'ordre des vétérinaires et les organisations techniques et syndicales vétérinaires. Cette réunion a permis de poser les bases d'un engagement de la profession vétérinaire pour réduire le recours aux antibiotiques critiques dont il faut prioritairement préserver l'efficacité pour l'homme, en médecine vétérinaire. Le plan Écoantibio a d'ores et déjà permis de réduire significativement le recours aux antibiotiques en médecine vétérinaire. Cependant, les efforts doivent être poursuivis pour les antibiotiques critiques, dont la consommation a fortement augmenté dans certaines filières. Il a été convenu de remplacer la mesure sur le découplage initialement prévue par plusieurs dispositions qui seront introduites dans le projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt : inscription dans la loi d'un objectif chiffré de réduction de la consommation d'antibiotiques critiques, mise en place de vétérinaires référents, encadrement renforcé des prescriptions par des recommandations de bonne pratique, élaborées sous l'égide de l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses). Un groupe de travail associant les vétérinaires, le ministère en charge des affaires sociales et le ministère en charge de l'agriculture, étudie les modalités de mise en oeuvre des engagements de la profession qui traduiront un véritable contrat d'objectif entre les organisations vétérinaires et le Gouvernement dans une mobilisation commune dans la lutte contre l'antibiorésistance.
