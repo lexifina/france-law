@@ -1,0 +1,9 @@
+# Réponse à la question n° 21012
+
+- Question : [21012](21012.md) — Question n° 21012 — débits de boisson; réglementation
+
+## Réponse
+
+*JO du 2013-12-03*
+
+Aux termes de l'article 504 du code général des impôts (CGI), il est interdit aux débitants de boissons de dissimuler les boissons dans leurs maisons ou ailleurs et à tous propriétaires ou principaux locataires de laisser entrer chez eux des boissons appartenant aux débitants, sans qu'il y ait bail par acte authentique pour les caves, celliers, magasins et autres lieux où sont placées lesdites boissons. En cas de manquement à ce dispositif, l'administration des douanes et droits indirects, en charge de l'application de la réglementation relative aux contributions indirectes, a la possibilité de demander en justice l'application des sanctions fiscales définies à l'article 1791 du CGI. A ce titre, les infractions aux dispositions de l'article 504 du CGI sont punies d'une amende de 15 € à 750 €, d'une pénalité dont le montant est compris entre une et trois fois celui des taxes, redevances, soultes et autres impositions fraudées ou compromises sans préjudice de la confiscation des objets, produits ou marchandises saisis (en l'occurrence les boissons irrégulièrement entreposées), ainsi que de la confiscation des biens et avoirs qui sont le produit direct de l'infraction. Dans ce cadre, la pénalité proportionnelle prévue à l'article 1791 du CGI est applicable quand bien même la fiscalité exigible sur laquelle ladite pénalité est assise a été supportée par les produits irrégulièrement entreposés. En tout état de cause, en cas de constatation de manquement aux dispositions de l'article 504 du CGI par les services de l'administration des douanes et droits indirects, les sanctions actuellement prévues par le code général des impôts semblent d'ores et déjà suffisamment dissuasives et ne nécessitent pas d'être renforcées.
