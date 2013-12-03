@@ -1,0 +1,9 @@
+# Réponse à la question n° 30368
+
+- Question : [30368](30368.md) — Question n° 30368 — hausse; mise en oeuvre
+
+## Réponse
+
+*JO du 2013-12-03*
+
+La hausse de la fiscalité sur les tabacs manufacturés et de leurs prix sont deux choses différentes, bien que souvent associées. Si l'augmentation de la fiscalité relève d'une initiative gouvernementale, celle du prix des tabacs provient des fabricants qui décident, ou non, de répercuter le montant du relèvement des taxes sur les prix de vente pour préserver leurs marges. L'évolution de la fiscalité sur les tabacs manufacturés au 1er juillet 2013, est reprise à l'article 23 de la loi n° 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale pour 2013. Les articles 575 et 575 A du code général des impôts (CGI), où sont traduites les évolutions fiscales susmentionnées, font apparaître une évolution du taux normal du droit de consommation pour les tabacs fine coupe destinés à rouler les cigarettes (62 % à compter du 1er juillet 2013, contre 60 % précédemment) et les cigarettes (64,7 % au 1er juillet 2013, contre 64,25 % précédemment). Le taux spécifique sur cette dernière catégorie fiscale de tabacs manufacturés a également évolué à cette date (15 % contre 12,5 % précédemment). Cette progressivité, qui inclut également l'évolution des minimums de perception, effective au 1er janvier 2013, conformément au même article 23 de la loi n° 2012-1404 du 17 décembre 2013, doit être examinée au regard de la politique de santé publique volontariste de l'Etat concernant la lutte contre le tabagisme. Il doit être noté toutefois que, par construction, la hausse du minimum de perception n'a d'effet contraignant que sur les prix les plus bas du marché. C'est dans ces conditions que l'augmentation des prix de vente au détail des tabacs manufacturés intervenue le 15 juillet 2013 a été homologuée par le ministre du budget conformément à l'article 284 de l'annexe II du CGI.
