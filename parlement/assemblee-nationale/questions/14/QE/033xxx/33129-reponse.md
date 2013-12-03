@@ -1,0 +1,9 @@
+# Réponse à la question n° 33129
+
+- Question : [33129](33129.md) — Question n° 33129 — revendications
+
+## Réponse
+
+*JO du 2013-12-03*
+
+Le décret n° 2010-720 du 28 juin 2010, qui organise l'exercice du monopole de la vente au détail des tabacs manufacturés, définit deux catégories de débits de tabacs : les débits de tabac spéciaux, implantés sur le domaine public, et les débits de tabac ordinaires qui constituent l'essentiel des débits de tabac en France. Ces derniers sont qualifiés de « permanents » lorsqu'ils sont ouverts toute l'année, et de « saisonniers », lorsqu'ils ont pour fonction de vendre des tabacs manufacturés dans les lieux d'affluence touristique, telles que les stations balnéaires ou de montagne. Les débits saisonniers permettent ainsi de répondre aux fluctuations démographiques saisonnières. Ces points de vente ne peuvent être ouverts que durant la période d'affluence touristique pour une période annuelle comprise entre trois mois et huit mois si le point de vente est ouvert en deux périodes séparées, ou six mois en cas d'ouverture du comptoir de vente en une seule période. Par conséquent, la population DGF, qui recense le nombre de personnes résidant de manière permanente dans une commune et qui comptabilise le nombre de places de caravanes et de résidences secondaires, ne peut valablement constituer le critère de référence pour l'implantation d'un débit permanent. En revanche, cette donnée démographique peut constituer une aide à la prise de décision concernant l'implantation d'un débit de tabac saisonnier par les services douaniers. C'est pourquoi, afin de sauvegarder l'équilibre du réseau et de répondre au mieux à la demande de tabac, les services douaniers sont prioritairement attentifs au recensement effectué par l'institut national de la statistique et des études économiques.
