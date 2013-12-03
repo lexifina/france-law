@@ -1,0 +1,55 @@
+# Questions sociales et santé : exposition aux ondes électromagnétiques
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N31977
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/transparence_exposition_ondes_electromagnetiques
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl13-310.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-12-11 : 1er dépôt d'une initiative. (PIONANR5L14B1635)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-12-11 : Renvoi en commission au fond
+      - 2013-12-18 : Nomination de rapporteur
+      - 2014-01-08 : Réunion de commission
+      - 2014-01-23 : Réunion de commission
+      - 2014-01-08 : Dépôt de rapport (RAPPANR5L14B1677, PIONANR5L14BTC1677)
+    - Travaux d'une commission saisie pour avis
+      - 2013-12-12 : Saisine pour avis d'une commission
+      - 2013-12-03 : Nomination de rapporteur
+      - 2014-01-07 : Réunion de commission
+      - 2014-01-08 : Dépôt de rapport (AVISANR5L14B1676)
+  - Discussion en séance publique
+    - 2014-01-23 : Discussion en séance publique
+    - 2014-01-23 : Discussion en séance publique
+    - 2014-01-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-01-23 : Dépôt d'une initiative en navette (PIONSNR5S219B0310)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-01-23 : Renvoi en commission au fond
+      - 2014-05-14 : Nomination de rapporteur
+      - 2014-06-10 : Dépôt de rapport (RAPPSNR5S219B0594)
+    - Travaux d'une commission saisie pour avis
+      - 2014-05-27 : Saisine pour avis d'une commission
+      - 2014-05-27 : Nomination de rapporteur
+      - 2014-06-10 : Dépôt de rapport (AVISSNR5S219B0592)
+  - Discussion en séance publique
+    - 2014-06-17 : Discussion en séance publique
+    - 2014-06-26 : Discussion en séance publique
+    - 2014-06-26 : Décision
+- deuxième lecture
+  - 2014-06-26 : Dépôt d'une initiative en navette (PIONANR5L14B2065)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-26 : Renvoi en commission au fond
+      - 2015-01-20 : Réunion de commission
+      - 2015-01-20 : Dépôt de rapport (RAPPANR5L14B2502, PIONANR5L14BTC2502)
+  - Discussion en séance publique
+    - 2015-01-29 : Discussion en séance publique
+    - 2015-01-29 : Décision
+- Promulgation de la loi
+  - 2015-02-09 : Promulgation d'une loi
