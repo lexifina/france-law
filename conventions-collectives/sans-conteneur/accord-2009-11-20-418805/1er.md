@@ -1,11 +1,13 @@
 # Article 1er
 
-Les OPCA de la branche (AGEFOMAT et OPCAM) sont tenus de verser au FPSPP chaque année une contribution égale à un pourcentage des obligations légales visées aux articles L. 6331-2 et L. 6331-9, alinéa 1er, du code du travail concernant la participation des entreprises au financement de la formation professionnelle au titre de la professionnalisation et du plan de formation.
+Les partenaires sociaux demandent à Agefos PME, désigné en qualité d'OPCA pour la branche, en vertu de l'accord de branche du 21 juin 2011, de s'acquitter des sommes visées aux 1° et 2° de l'article L. 6332-19 du code du travail, en prélevant le pourcentage fixé annuellement par arrêté ministériel de la façon suivante.
 
-Ce pourcentage est fixé chaque année par le conseil national de la formation professionnelle tout au long de la vie (CNFPTLV).
+1.1. Entreprises de moins de 10 salariés : 100 % au titre de la professionnalisation, par prélèvement intégral sur les sommes collectées à ce titre par Agefos PME pour la branche sur les entreprises de moins de 10 salariés relevant du champ de la convention collective nationale SDLM.
 
-Pour la première année de mise en place de cette contribution, les partenaires sociaux demandent aux OPCA de s'acquitter de cette obligation en prélevant le pourcentage arrêté par le CNFPTLV de façon uniforme sur le montant des fonds correspondant aux obligations légales de participation des entreprises au financement de la formation professionnelle au titre de la professionnalisation et du plan de formation.
+1.2. Entreprises de 10 à 19 salariés : 100 % au titre de la professionnalisation, par prélèvement intégral sur les sommes collectées à ce titre par Agefos PME pour la branche sur les entreprises de 10 à 19 salariés relevant du champ de la convention collective nationale SDLM.
 
-Les partenaires sociaux décideront de reconduire ou non les présentes dispositions en fonction de l'utilisation des fonds de la formation professionnelle dans la branche et du pourcentage fixé annuellement par le CNFPTLV.
+1.3. Entreprises de 20 salariés et plus : 100 % au titre de la professionnalisation, par prélèvement intégral sur les sommes collectées à ce titre par Agefos PME pour la branche sur les entreprises de 20 salariés et plus relevant du champ de la convention collective nationale SDLM.
 
-A défaut d'un nouvel accord, les présentes dispositions s'appliquent aussi longtemps que cette obligation existe.
+Les partenaires sociaux décideront de reconduire ou non les présentes dispositions en fonction de l'utilisation des fonds de la formation professionnelle dans la branche et du pourcentage fixé annuellement par arrêté ministériel.
+
+Les présentes dispositions commencent à recevoir application avec la collecte 2014 calculée sur la masse salariale 2013. Elles sont conclues pour une durée indéterminée.
