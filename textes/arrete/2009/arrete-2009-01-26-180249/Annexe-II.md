@@ -2,11 +2,11 @@
 
 Exigences dépendant des conditions climatiques
 
-PROPRIÉTÉ
+PROPRIÉTÉS
 
 |
 
-UNITÉS
+UNITÉ
 
 |
 
@@ -22,13 +22,13 @@ Classe D/D1
 
 |
 
-Pression de vapeur, PV.
+Pression de vapeur, PV
 
 |
 
-kPa, min
+kPa, min.
 
-kPa, max
+kPa, max.
 
 |
 
@@ -44,55 +44,55 @@ kPa, max
 
 |
 
-Pourcentage évaporé à 70 °C, E70.
+Pourcentage évaporé à 70 °C, E70
 
 |
 
-% (V/V), min
+% (V/V), min.
 
-% (V/V), max
-
-|
-
-20,0
-
-48,0
+% (V/V), max.
 
 |
 
 22,0
 
-50,0 (*)
+50,0
 
 |
 
-Pourcentage évaporé à 100 °C, E100.
+24,0
+
+52,0
 
 |
 
-% (V/V), min
+Pourcentage évaporé à 100 °C, E100
 
-% (V/V), max
+|
+
+% (V/V), min.
+
+% (V/V), max.
 
 |
 
 46,0
 
-71,0
+72,0
 
 |
 
 46,0
 
-71,0 (*)
+72,0
 
 |
 
-Pourcentage évaporé à 150 °C, E150.
+Pourcentage évaporé à 150 °C, E150
 
 |
 
-% (V/V), min
+% (V/V), min.
 
 |
 
@@ -104,15 +104,11 @@ Pourcentage évaporé à 150 °C, E150.
 
 |
 
-Point final de distillation, PF.
+Point final de distillation, PF
 
 |
 
-°C, max
-
-|
-
-210
+°C, max.
 
 |
 
@@ -120,11 +116,15 @@ Point final de distillation, PF.
 
 |
 
-Résidu de distillation.
+210
 
 |
 
-% (V/V), max
+Résidu de distillation
+
+|
+
+% (V/V), max.
 
 |
 
@@ -133,9 +133,5 @@ Résidu de distillation.
 |
 
 2
-
-|
-
-(*) Valeurs provisoires.
 
 |
