@@ -299,3 +299,43 @@ RPA et opérateur, lagomorphes/ rongeurs, manipulations et soins, mise à mort, 
 29 septembre 2018
 
 |
+
+RG Consulting France, La Martinais, 22130 Corseul |
+
+RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement
+
+RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise mort, complément sans étourdissement |
+
+15 novembre 2013
+
+|
+
+14 novembre 2018 |
+
+AFORVIA, BP 20, 72401 La Ferté-Bernard Cedex |
+
+Opérateur, bovins/équidés, manipulations et soins, mise à mort, complément sans étourdissement
+
+Opérateur, ovins/caprins, manipulations et soins, mise à mort, complément sans étourdissement
+
+Opérateur, porcins, manipulations et soins, mise à mort |
+
+15 novembre 2013
+
+|
+
+14 novembre 2018
+
+|
+
+SOCSA Agroalimentaire, 11, rue d'Ariane, 31240 L'Union |
+
+RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
+
+15 novembre 2013
+
+|
+
+14 novembre 2018
+
+|
