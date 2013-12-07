@@ -104,7 +104,7 @@ Adjoint au chef du groupement d'hélicoptères.
 
 |
 
-Adjoint administratif du chef de la base avions de la sécurité civile.
+Chef de la base avions de la sécurité civile.
 
 |
 
@@ -181,18 +181,6 @@ Adjoint au chef du bureau de la synthèse budgétaire.
 |
 
 Adjoint au chef du bureau de la synthèse, du patrimoine et de la stratégie.
-
-|
-
-30
-
-|
-
-Délégation aux affaires internationales et européennes.
-
-|
-
-Coordonnateur de la délégation aux affaires internationales et européennes.
 
 |
 
@@ -354,7 +342,7 @@ Chef de cabinet du directeur des ressources et des compétences de la police nat
 
 |
 
-Chef de la mission CHORUS de la police nationale.
+Chef de la mission d'appui, de synthèse et de coordination.
 
 |
 

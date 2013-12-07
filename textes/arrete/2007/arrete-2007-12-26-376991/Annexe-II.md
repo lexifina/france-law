@@ -144,7 +144,7 @@ Nombre de points NBI
 
 |
 
-3
+2
 
 |
 
@@ -240,7 +240,7 @@ Nombre de points NBI
 
 |
 
-3
+2
 
 |
 
@@ -444,7 +444,7 @@ Nombre de points NBI
 
 |
 
-6
+5
 
 |
 
@@ -792,7 +792,7 @@ Nombre de points NBI
 
 |
 
-10
+9
 
 |
 
@@ -1064,7 +1064,7 @@ Nombre de points NBI
 
 |
 
-1
+2
 
 |
 
@@ -1112,7 +1112,7 @@ Nombre de points NBI
 
 |
 
-7
+6
 
 |
 
@@ -1220,11 +1220,19 @@ Nombre de points NBI
 
 |
 
-2
+3
 
 |
 
 30
+
+|
+
+|
+
+1 |
+
+20
 
 |
 
@@ -1256,7 +1264,7 @@ Nombre de points NBI
 
 |
 
-3
+2
 
 |
 
@@ -1280,7 +1288,7 @@ Nombre de points NBI
 
 |
 
-3
+2
 
 |
 
@@ -1388,7 +1396,7 @@ Nombre de points NBI
 
 |
 
-5
+4
 
 |
 
@@ -1424,7 +1432,7 @@ Nombre de points NBI
 
 |
 
-4
+5
 
 |
 
@@ -1436,7 +1444,7 @@ Nombre de points NBI
 
 |
 
-3
+4
 
 |
 
@@ -1477,6 +1485,14 @@ Nombre de points NBI
 |
 
 20
+
+|
+
+987 Polynésie française |
+
+1 |
+
+30
 
 |
 
