@@ -1,0 +1,9 @@
+# Réponse à la question n° 42177
+
+- Question : [42177](42177.md) — Question n° 42177 — politique générale; orientations
+
+## Réponse
+
+*JO du 2013-12-10*
+
+Conformément aux engagements pris par le Président de la République, la totalité des forces françaises directement impliquées dans les combats en Afghanistan a quitté ce pays depuis la fin de l'année 2012. S'agissant de la reconnaissance internationale de l'Etat palestinien, le vote de la France le 29 novembre 2012 à l'Assemblée générale des Nations unies en faveur d'un rehaussement du statut de la Palestine au statut d'Etat non membre était cohérent avec notre engagement de longue date en faveur de la création d'un Etat palestinien souverain, viable et démocratique. Ce choix était également dicté par la raison et la lucidité : la France considére que l'aspiration du peuple palestinien à un Etat est légitime, tout comme celle d'Israël à la sécurité. Concernant le processus de paix israélo-palestinien, il importe aujourd'hui que la reprise des négociations entre les parties, à laquelle la France apporte tout son soutien, puisse aboutir dans les neuf mois impartis à un accord mettant fin au conflit à travers la création d'un Etat palestinien vivant en paix et en sécurité aux côtés d'Israël. La visite du Président de la République en Israël et dans les Territoires palestiniens du 17 au 19 novembre a été l'occasion pour la France d'encourager les parties à tout mettre en oeuvre pour que les discussions se déroulent dans un climat de confiance et de dialogue afin de parvenir le plus rapidement possible à un règlement final permettant la coexistence de deux Etats internationalement reconnus. Elle a également permis de réitérer le plein appui de la France au développement des Territoires palestiniens et à la consolidation des institutions du futur Etat.
