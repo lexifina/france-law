@@ -1,0 +1,9 @@
+# Réponse à la question n° 23122
+
+- Question : [23122](23122.md) — Question n° 23122 — liste des prestataires; développement
+
+## Réponse
+
+*JO du 2013-12-10*
+
+Les conditions de conventionnement des prestataires de services pouvant accepter les chèques-vacances en paiement de leurs prestations sont fixées par les dispositions du code du tourisme visées aux articles L .411-2, L. 411-3, R. 411-1, R. 411-2 et R. 411-3. A ce titre, les prestataires de services agréés, en signant une convention avec l'agence nationale pour les chèques-vacances (ANCV), prennent un engagement en ce qui concerne les prix et la qualité de leurs services. De même, ils doivent justifier qu'ils exercent leur activité conformément à la réglementation qui leur est applicable et présenter des garanties de moralité et de solvabilité. Ce cadre législatif et réglementaire constitue une garantie pour les bénéficiaires de chèque-vacances. Ce dispositif est accepté par 170 000 professionnels du tourisme et des loisirs. Pour autant, l'agence a recherché les moyens de simplifier la procédure de conventionnement en remplaçant tous les justificatifs demandés auparavant par une simple attestation sur l'honneur. De plus, afin de faciliter les démarches des professionnels du tourisme et des loisirs, l'ANCV a mis en place depuis quelques années un processus de demande de conventionnement sur internet. Ainsi, à réception du dossier papier, l'ANCV effectue les contrôles nécessaires et affecte un numéro de client au demandeur s'il remplit les conditions fixées par la loi. Ces mesures ont permis de gagner 5 jours sur le délai moyen de conventionnement (13 jours en 2009 - 8 jours à fin 2012). L'ANCV continue ses réflexions sur la modernisation de ses outils et mettra en place en 2014 la signature électronique qui facilitera encore le conventionnement en supprimant l'envoi de tout dossier papier. Cette évolution permettra de réduire encore le délai de conventionnement.
