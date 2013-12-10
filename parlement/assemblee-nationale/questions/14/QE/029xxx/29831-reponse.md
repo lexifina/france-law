@@ -1,0 +1,9 @@
+# Réponse à la question n° 29831
+
+- Question : [29831](29831.md) — Question n° 29831 — statut; revendications
+
+## Réponse
+
+*JO du 2013-12-10*
+
+La loi du 27 juin 2005 relative aux assistants maternels et aux assistants familiaux a eu pour principal objectif d'améliorer la professionnalisation des assistants familiaux en réformant les conditions de formation, de travail et de rémunération de cette profession. Ainsi concernant les conditions de rémunération, la loi a revalorisé le salaire des assistants familiaux, introduit le principe d'une partie fixe dans le salaire (fonction globale d'accueil), indépendante du nombre d'enfants accueillis, et calculé la fixation d'indemnités pour chaque journée d'accueil commencée. Une partie du salaire de l'assistant familial restant dépendante du nombre d'enfants confiés ; celui-ci peut effectivement présenter des fluctuations. En outre, en cas d'urgence, la suspension de l'agrément peut être décidée par le président du conseil général (article L. 421-6 du code de l'action sociale et des familles), notamment s'il existe une suspicion de maltraitance ou de danger grave et imminent pour la santé ou la sécurité des enfants accueillis. Durant cette période de suspension d'agrément, qui ne peut excéder quatre mois, l'assistant familial perçoit une indemnité compensatrice dont le montant ne peut être inférieur par mois à cinquante fois le salaire horaire minimum de croissance. Le ministère des affaires sociales et de la santé a pris connaissance des préoccupations des associations d'assistants familiaux et de leur demande visant, en cas de retrait des enfants confiés, à ce que soit maintenue la rémunération de l'assistant familial jusqu'à l'aboutissement de l'enquête judiciaire. L'impact d'une telle mesure doit être évalué avant d'envisager toute modification du dispositif. Une réflexion va donc être menée sur le sujet en lien avec les conseils généraux, principaux employeurs des assistants familiaux.
