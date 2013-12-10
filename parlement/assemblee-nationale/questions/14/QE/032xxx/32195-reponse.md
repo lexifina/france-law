@@ -1,0 +1,9 @@
+# Réponse à la question n° 32195
+
+- Question : [32195](32195.md) — Question n° 32195 — réglementation
+
+## Réponse
+
+*JO du 2013-12-10*
+
+L'article L. 122-11 du code de l'urbanisme désigne l'autorité compétente pour approuver le schéma de cohérence territoriale (SCoT) à l'issue de l'enquête publique. Les dispositions de l'article L. 122-11-1 du code de l'urbanisme, anciennement codifiées à l'article L. 122-11, prévoient que le préfet peut s'opposer à l'entrée en vigueur du schéma lorsque les dispositions du SCoT ne sont pas compatibles avec les directives territoriales d'aménagement ou avec les prescriptions particulières de massif, ou en leur absence avec les dispositions particulières aux zones de montagne et au littoral, ou compromettent gravement les principes énoncés aux articles L. 110 et L. 121-1 du code de l'urbanisme, sont contraires à un projet d'intérêt général, autorisent une consommation excessive de l'espace, ou ne prennent pas suffisamment en compte les enjeux relatifs à la préservation ou à la remise en bon état des continuités écologiques. Dans ce cas, dans le délai de deux mois, le préfet doit notifier à l'établissement public gérant le SCoT les modifications qu'il convient d'apporter au schéma. Le SCoT sera exécutoire dès publication et transmission au préfet de la délibération apportant les modifications demandées. Ces dispositions n'ont pas d'incidences directes sur les autorisations d'urbanisme, les dispositions du SCoT n'étant pas, mises à part quelques exceptions, opposables aux autorisations d'urbanisme. De plus, un schéma non exécutoire ne peut être opposé à une décision individuelle et n'a pas à être visé dans cette dernière. L'article A424-2 du code de l'urbanisme dispose en outre que l'arrêté accordant l'autorisation d'urbanisme doit viser « les textes législatifs et réglementaires dont il est fait application ».
