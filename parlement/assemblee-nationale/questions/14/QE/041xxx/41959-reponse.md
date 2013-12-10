@@ -1,0 +1,9 @@
+# Réponse à la question n° 41959
+
+- Question : [41959](41959.md) — Question n° 41959 — simplification; revendications
+
+## Réponse
+
+*JO du 2013-12-10*
+
+Les entreprises agricoles peuvent, en fonction de la nature et de l'importance de leur activité, être soumises à la réglementation des installations classées et font à ce titre l'objet d'une décision administrative sous la forme d'arrêtés préfectoraux d'autorisation, d'enregistrement ou d'un récépissé de déclaration. Les décisions de l'autorité administrative en installations classées peuvent faire l'objet de recours de pleine juridiction (ou plein contentieux). Le juge administratif peut annuler ou valider un acte administratif mais également le modifier voire lui en substituer un nouveau. Il statue alors en fonction du droit en vigueur à la date de sa propre décision. Le recours peut être déposé par l'exploitant dans un délai de deux mois à compter de la notification de l'arrêté préfectoral ou de la décision. Les tiers, personnes physiques ou morales, les communes intéressées ou leurs groupements, en raison des inconvénients ou des dangers que l'installation présente au regard des intérêts protégés par la loi, peuvent également déposer un recours dans un délai d'un an à compter de la publication ou de l'affichage de la décision, délai qui peut être prolongé de 6 mois après la mise en service de l'installation. Le Gouvernement étudie différentes mesures de simplification des instructions ICPE (installations classées pour la protection de l'environnement) en expérimentant la mise en place d'un permis environnemental unique et d'un certificat de projet dans le contexte des États généraux de la modernisation du droit de l'environnement. La réduction du délai de recours des tiers est prise en compte dans cette expérimentation.
