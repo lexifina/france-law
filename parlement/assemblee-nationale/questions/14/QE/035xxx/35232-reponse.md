@@ -1,0 +1,9 @@
+# Réponse à la question n° 35232
+
+- Question : [35232](35232.md) — Question n° 35232 — agriculture; perpsectives
+
+## Réponse
+
+*JO du 2013-12-10*
+
+La législation sur l'eau repose notamment sur la notion de cours d'eau. La définition d'un cours d'eau s'est construite de façon pragmatique sur la base de la jurisprudence, adaptée depuis plusieurs siècles à la diversité des situations que l'on peut rencontrer. La qualification de cours d'eau donnée par la jurisprudence repose essentiellement sur les deux critères suivants : - la présence et la permanence d'un lit naturel à l'origine ; - la permanence d'un débit suffisant une majeure partie de l'année apprécié au cas par cas par le juge en fonction des données climatiques et hydrologiques locales et à partir de présomptions au nombre desquelles par exemple l'indication du « cours d'eau » sur une carte IGN ou la mention de sa dénomination sur le cadastre. Cette définition jurisprudentielle ne fait pas obstacle, dans les limites de la loi, à ce que certaines obligations imposées aux exploitants agricoles s'appliquent en référence à des cours d'eau dont la définition ou la désignation a été précisée. C'est ainsi que les obligations d'implantation et de maintien de bandes végétalisées permanentes au titre des programmes d'actions nitrates s'appliquent le long des cours d'eau et sections de cours d'eau définis conformément au I de l'article D. 615-46 du code rural et de la pêche maritime et des plans d'eau de plus de dix hectares, c'est à dire aux cours d'eau visés dans le cadre des bonnes conditions agricoles et environnementales. L'objectivation des cours d'eau concernés par des obligations environnementales applicables aux activités agricoles doit être réalisée par l'autorité administrative compétente à un niveau territorial adapté, en concertation avec les différents acteurs, de manière à garantir la sécurité juridique des exploitants et à assurer la protection des milieux.
