@@ -1,0 +1,9 @@
+# Réponse à la question n° 33831
+
+- Question : [33831](33831.md) — Question n° 33831 — importations; objets de collection
+
+## Réponse
+
+*JO du 2013-12-10*
+
+Conformément aux dispositions de la directive n° 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée (TVA), les États membres peuvent appliquer des taux réduits de TVA aux livraisons de biens et aux prestations de services figurant à l'annexe III de cette même directive. À compter du 1er janvier 2014, il est prévu que la structure des taux de TVA soit réaménagée, selon les dispositions de l'article 68 de la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012. La modification des taux de TVA permettra de financer partiellement le crédit d'impôt pour la croissance, la compétitivité et l'emploi (CICE). Conformément à l'engagement pris par le Gouvernement, il appartient au Parlement de se prononcer, à l'occasion de la discussion du projet de loi de finances pour 2014, sur l'évolution éventuelle du périmètre des différents taux de TVA. La réflexion doit naturellement tenir compte du gain tiré par les entreprises de chaque secteur au titre du CICE. Par ailleurs, il est nécessaire que le rendement global du réaménagement des taux soit préservé. Dans ce contexte, la ministre de la culture et de la communication, qui était préoccupée par l'impact prévisible sur l'économie du marché de l'art de la future augmentation du taux de la TVA à l'importation sur les objets d'art de 7 % à 10 % au 1er janvier 2014, se réjouit de l'adoption en première lecture du projet de loi de finances pour 2014 par l'Assemblée nationale, lors de la séance du 18 octobre 2013, d'un amendement permettant de ramener le taux actuel de 7 % à 5,5 % et espère que le Sénat confirmera cette évolution très attendue par les professionnels.
