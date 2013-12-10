@@ -1,0 +1,9 @@
+# Réponse à la question n° 35086
+
+- Question : [35086](35086.md) — Question n° 35086 — perspectives
+
+## Réponse
+
+*JO du 2013-12-10*
+
+La ministre des sports, de la jeunesse, de l'éducation populaire et de la vie associative, a décidé la création d'un groupe de travail « pour un modèle durable du football français » le 16 juillet dernier, dont la présidence a été confiée au député et ancien ministre Jean Glavany. Ce groupe réunit pour la première fois toutes les parties-prenantes françaises et européennes concernées par le modèle économique et social du football. Il doit permettre de faire émerger des propositions opérationnelles visant à garantir la viabilité à long terme de ce secteur d'activité important pour la vie économique et sociale de notre pays. Face au constat des faiblesses du modèle actuel, marqué par la fragilité financière, les dérives de la masse salariale, la dépendance aux ressources issues de la valorisation des droits télévisuels, les travaux de la commission « pour un modèle durable du football français » doivent mettre en exergue les facteurs susceptibles de garantir un développement harmonieux du football. Il s'agit aussi de conforter les atouts traditionnels du football français tels que l'expertise des centres de formation, et de valoriser les investissements publics consentis ces dernières années dans la modernisation des stades. La commission s'attachera plus particulièrement à mettre en exergue les modalités de développement à construire à partir d'un parc d'équipement modernisé. La commission formulera aussi des propositions pour refaire du football un facteur d'éducation pour la jeunesse et de promotion des valeurs citoyennes pour l'ensemble de la société. Le groupe de travail clôturera ses travaux au début de l'année 2014 et les propositions émises dans ce cadre contribueront au projet de loi de modernisation du sport que présentera la ministre chargée des sports en 2014.
