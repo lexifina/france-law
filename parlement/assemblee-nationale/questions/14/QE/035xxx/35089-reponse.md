@@ -1,0 +1,9 @@
+# Réponse à la question n° 35089
+
+- Question : [35089](35089.md) — Question n° 35089 — financement; dépenses; limitation
+
+## Réponse
+
+*JO du 2013-12-10*
+
+La question de l'application du dispositif du fair-play financier à l'ensemble des clubs de ligue 1 et de ligue 2 a été soulevée dans le rapport d'information n° 1215 sur le fair-play financier européen et son application au modèle économique des clubs de football professionnel français publié le 3 juillet 2013. Les dispositions du fair-play financier mises en oeuvre par l'UEFA ne concernent que les clubs participant à ses compétitions européennes. Il est à noter toutefois que ces règles n'ont pas vocation à tarir le nombre des transferts ni les flux financiers associés, mais à exercer un effet de discipline sur l'ensemble du championnat européen. Le but du fair-play financier que nous partageons est l'exigence relative à l'équilibre financier, qui est de maintenir le coût des salaires et des indemnités de transfert à un niveau viable, et de limiter les effets inflationnistes s'exerçant sur le football interclubs européen en général. Il convient de s'interroger sur certains déséquilibres qui touchent le secteur du football professionnel en France. L'inflation salariale dans certains clubs de football professionnel, la nécessaire maîtrise des déficits, l'opacité de certains transferts, la trop forte dépendance aux droits de retransmission des compétitions sportives incitent à poser un certain nombre de questions. C'est pour favoriser l'émergence d'un nouveau modèle économique que la ministre chargée des sports a mis en place un groupe de travail « pour un modèle durable du football français », présidé par M. le député Jean Glavany. Les propositions qui seront émises dans le cadre des travaux de cette commission sur l'avenir du football contribueront aux travaux d'élaboration de la loi de modernisation du sport dont l'examen parlementaire devrait intervenir courant 2014.
