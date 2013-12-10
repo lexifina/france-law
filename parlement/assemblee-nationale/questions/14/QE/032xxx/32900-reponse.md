@@ -1,0 +1,9 @@
+# Réponse à la question n° 32900
+
+- Question : [32900](32900.md) — Question n° 32900 — réglementation; politiques communautaires
+
+## Réponse
+
+*JO du 2013-12-10*
+
+L'assujettissement aux régimes de sécurité sociale des personnes exerçant une activité en France n'a pas été remis en cause par la Cour de justice de l'Union européenne. Les assurances comprises dans un régime légal et obligatoire de sécurité sociale sont expressément exclues du champ des directives CEE 92/49 et CEE 92/96 sur l'assurance. La Cour de justice a confirmé à plusieurs reprises que le droit communautaire ne porte pas atteinte à la compétence qu'ont les Etats membres pour aménager leurs systèmes de sécurité sociale et ainsi à leur faculté d'instituer des régimes légaux obligatoires de sécurité sociale. Examinant la situation de régimes français de sécurité sociale, la Cour a confirmé dans son arrêt Garcia (affaire C-238/94) la non-application de la directive 92/49/CEE à ces derniers. L'arrêt Podesta ne portait pas sur les directives « assurances » mais sur l'application ou non de l'égalité de traitement entre les sexes à un régime français de retraite complémentaire obligatoire en répartition. La mise en libre concurrence de l'assurance maladie ne concerne donc que l'assurance complémentaire et facultative. Il est donc du devoir de chacun de rappeler que notre système de sécurité sociale est non seulement conforme à la réglementation européenne mais encore qu'il constitue la meilleure garantie d'une protection sociale de haut niveau, solidaire et durable pour tous. La France a fait le choix d'une sécurité sociale solidaire protégeant l'ensemble de la population. La contrepartie des droits reconnus à tous les résidents en France est l'obligation pour tous de cotiser à ce socle commun de protection sociale.
