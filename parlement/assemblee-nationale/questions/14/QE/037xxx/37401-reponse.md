@@ -1,0 +1,9 @@
+# Réponse à la question n° 37401
+
+- Question : [37401](37401.md) — Question n° 37401 — juges; expertises médicales; prise en compte
+
+## Réponse
+
+*JO du 2013-12-10*
+
+En matière de divorce, l'article 259 du code civil pose un principe de liberté de preuve. Il appartient au juge, dans le cadre de son pouvoir souverain d'appréciation, d'évaluer la force probante des éléments qui lui sont soumis. S'agissant de la fixation de la résidence des enfants, l'article 373-2-11 du code civil fixe cependant un certain nombre de critères que le juge doit prendre en compte, parmi lesquels figurent, notamment, la pratique ou les accords antérieurs des parents, les sentiments exprimés par l'enfant, l'aptitude de chacun des parents à assumer ses devoirs et à respecter les droits de l'autre, ou encore les pressions ou violences physiques ou psychologiques exercées par un parent sur l'autre. Le juge peut, par ailleurs, s'il souhaite disposer d'éléments complémentaires, recueillir des renseignements sur la situation de la famille et les conditions dans lesquelles vivent et sont élevés les enfants en ordonnant une mesure d'enquête sociale conformément à l'article 373-2-12 du code civil. Les parties peuvent à cet égard contester ces enquêtes sociales en demandant des contre-enquêtes. La liste de l'article 373-2-11, précité, n'est en outre pas limitative et n'empêche pas le juge de se fonder sur d'autres éléments, comme les déclarations déposées au registre des mains courantes ou tous autres éléments fournis par les parties. Le dispositif actuel permet donc de s'assurer de la conformité de la décision à l'intérêt supérieur de l'enfant en assurant un équilibre satisfaisant entre, d'une part, le principe de liberté de preuve qui permet à chacun d'apporter les éléments qu'il souhaite et, d'autre part, l'appréciation souveraine du juge après prise en compte des critères déterminés par la loi.
