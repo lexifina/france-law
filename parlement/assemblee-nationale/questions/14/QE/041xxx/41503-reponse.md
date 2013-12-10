@@ -1,0 +1,9 @@
+# Réponse à la question n° 41503
+
+- Question : [41503](41503.md) — Question n° 41503 — adoption internationale; République démocratique du Congo; perspectives
+
+## Réponse
+
+*JO du 2013-12-10*
+
+Dans le cas particulier de la République Démocratique du Congo (RDC), les dossiers d'adoption étaient jusqu'à une période récente directement examinés dans le cadre d'une commission mixte qui siège à Kinshasa avec la participation de représentants de l'ambassade de France. Afin de renforcer le contrôle des procédures et s'assurer notamment du caractère éclairé du consentement à l'adoption donné par les parents biologiques, les autorités locales ont institué une commission interministérielle nationale, pilotée par le ministère du Genre, de la Femme et de l'Enfant (MGFE), qui examine désormais les dossiers d'adoption pour l'ensemble des pays d'accueil concernés. En conséquence, la commission mixte franco-congolaise ne peut statuer que dans un deuxième temps. La dernière réunion de la commission mixte d'adoption internationale franco-congolaise s'est réunie le 18 septembre 2013. A cette occasion, un certain nombre de dossiers en souffrance ont pu être validés, ouvrant la possibilité pour les autorités consulaires françaises de délivrer les visas de long séjour pour adoption aux enfants concernés. Pour ce qui concerne plus précisément la suspension de la délivrance des autorisations de sortie du territoire congolais en vigueur depuis le 25 septembre dernier, les démarches entreprises auprès des autorités locales compétentes ont permis de confirmer que cette suspension ne s'applique pas aux dossiers validés en commission interministérielle nationale antérieurement à cette date. Les requêtes validées le 18 septembre par la commission mixte franco-congolaise devraient donc pouvoir aller à leur terme normalement. Les contacts se poursuivent avec les autorités congolaises dans l'objectif d'une levée globale de la suspension.
