@@ -1,0 +1,9 @@
+# Réponse à la question n° 40979
+
+- Question : [40979](40979.md) — Question n° 40979 — élections des conseillers et délégués consulaires
+
+## Réponse
+
+*JO du 2013-12-10*
+
+La loi du 22 juillet 2013 relative à la représentation des Français établis hors de France appelle, d'ici la fin de l'année, quatre décrets d'application et trois arrêtés, actuellement en cours de préparation : - un décret en Conseil d'Etat relatif à l'organisation et au statut des conseils consulaires et de l'AFE ; - un décret simple complétant le décret précédent ; - un décret en Conseil d'Etat après consultation de la CNIL relatif aux élections des conseillers consulaires, des délégués consulaires et des conseillers à l'Assemblée des Français de l'étranger ; - un décret relatif à l'élection des sénateurs. - un arrêté relatif à la mise en oeuvre du traitement automatisé de données à caractère personnel prévu à l'article R. 176-3 du code électoral pour l'élection des conseillers consulaires et délégués consulaires ; - un arrêté fixant les chefs-lieux de circonscription des conseillers consulaires ; - un arrêté fixant les chefs-lieux de circonscription des conseillers de l'Assemblée des Français de l'Etranger. Dans l'attente de la finalisation de ces textes, les chefs de postes ont reçu le 31 octobre dernier toutes les instructions nécessaires leur permettant de lancer la préparation des élections, notamment sur le maillage des bureaux de vote, l'élaboration du budget prévisionnel et le travail sur la liste électorale consulaire. La date de ce scrutin, fixée au 24 mai 2014 sur le continent américain et au 25 mai 2014 dans le reste du monde, leur a également été notifiée. La direction des Français à l'étranger et de l'administration consulaire du ministère des affaires étrangères reste à la disposition des chefs de poste pour toute information sur ce sujet.
