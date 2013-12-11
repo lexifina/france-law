@@ -1,0 +1,222 @@
+# Délibération n° 2013-405 du 19 décembre 2013 portant avis sur un projet de décret portant création d'un traitement de données à caractère personnel relatif à la gestion nationale des personnes détenues en établissement pénitentiaire dénommé GENESIS (demande d'avis n° 13032517)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2013-405
+- Date : 2013-12-11
+- Publication : 2014-06-06
+- NOR : CNIX1412476
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000029048039
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministre de la justice d'une demande d'avis concernant un projet de décret en Conseil d'Etat portant création d'un traitement de données à caractère personnel relatif à la gestion nationale des personnes détenues en établissement pénitentiaire dénommé GENESIS ;
+
+Vu la convention n° 108 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu le code de procédure pénale ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment ses articles 26-II et 27-I (1°) ;
+
+Vu la loi n° 2009-1436 du 24 novembre 2009 pénitentiaire ;
+
+Vu le décret n° 87-604 du 31 juillet 1987 relatif à l'habilitation des personnes auxquelles peuvent être confiées certaines fonctions dans les établissements pénitentiaires et complétant l'article R. 79 du code de procédure pénale ;
+
+Vu le décret n° 2005-1309 du 20 octobre 2005 modifié pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
+
+Vu le décret n° 2011-817 du 6 juillet 2011 portant création d'un traitement de données à caractère personnel relatif à la gestion informatisée des détenus en établissement (GIDE) ;
+
+Vu le décret n° 2013-368 du 30 avril 2013 relatif aux règlements intérieurs types des établissements pénitentiaires ;
+
+Vu l'arrêté du 20 février 2003 modifiant l'arrêté du 28 octobre 1996 portant création d'un fichier national automatisé des personnes incarcérées ;
+
+Vu l'arrêté du 9 juillet 2008 fixant l'organisation en bureaux de la direction de l'administration pénitentiaire ;
+
+Vu la délibération n° 2011-021 du 20 janvier 2011 portant avis sur un projet de décret en Conseil d'Etat portant création d'un traitement de données à caractère personnel relatif à la gestion des personnes écrouées dénommé gestion informatisée des détenus en établissement (GIDE) ;
+
+Après avoir entendu Mme Claire DAVAL, commissaire, en son rapport, et M. Jean-Alexandre SILVY, commissaire du Gouvernement, en ses observations,
+
+Emet l'avis suivant :
+
+La commission a été saisie par le ministre de la justice d'une demande d'avis concernant un projet de décret en Conseil d'Etat portant création d'un traitement de données à caractère personnel relatif à la gestion nationale des personnes détenue en établissement pénitentiaire (GENESIS).
+
+Ce traitement doit permettre la gestion de l'exécution des décisions prononcées par les autorités judiciaires et relatives aux personnes sous écrou. Il contient notamment des données relevant de l'article 8 de la loi du 6 janvier 1978 modifiée. Sa mise en œuvre doit dès lors être autorisée par décret en Conseil d'Etat pris après avis motivé et publié de la commission, conformément aux dispositions de l'article 26-II de la loi du 6 janvier 1978 modifiée.
+
+En outre, le numéro d'inscription des personnes au répertoire national d'identification des personnes physiques (NIR) sera collecté, notamment à des fins de gestion de la situation sociale du détenu, justifiant l'application de l'article 27-I (1°) de cette même loi.
+
+Le traitement GENESIS est appelé à remplacer le traitement Gestion informatisée des détenus en établissement (GIDE), autorisé par le décret du 6 juillet 2011 pris après avis motivé et publié de la commission. La commission s'est en effet prononcée à deux reprises sur le traitement GIDE et a, dans sa délibération du 2 janvier 2011 susvisée, formulé plusieurs réserves, notamment concernant le cahier électronique de liaison (CEL), les grilles d'évaluation ainsi que les mesures de sécurité et de traçabilité.
+
+A cet égard, la Commission relève que le nouveau traitement GENESIS permettra de remplacer un outil devenu obsolète sur les plans technique et fonctionnel, et de prendre également en compte certaines des remarques de la CNIL et du Conseil d'Etat.
+
+L'application comprend quatre grands domaines fonctionnels (greffe, comptabilité, détention, suivi individuel) ainsi que des domaines techniques. Le livret du détenu permet aux différents acteurs d'avoir une visualisation exhaustive des informations propres aux détenus, accessibles suivant les profils d'habilitations.
+
+Le projet de décret prévoit de modifier le décret du 6 juillet 2011 afin de reporter la date de suppression de GIDE au 31 décembre 2017, pour permettre un déploiement progressif de l'application GENESIS.
+
+A titre liminaire, la commission relève que ce traitement a pour finalité la gestion des personnes détenues en établissement pénitentiaire, aussi bien concernant l'exécution des décisions pénales et le maintien de la sécurité publique que la réinsertion sociale des personnes détenues et la prévention de la récidive. Elle estime dès lors que si ces objectifs sont de nature à justifier la diversité des données collectées ainsi que le nombre élevé et la diversité des destinataires, des mesures juridiques et techniques doivent nécessairement être mises en œuvre pour assurer la protection des données à caractère personnel enregistrées dans le traitement GENESIS.
+
+En outre, il apparaît clairement que ce dossier, outre les nouveautés qu'il comporte, permet une régularisation de pratiques existantes mais qui n'apparaissaient pas dans le décret du 6 juillet 2011.
+
+Sur les finalités du traitement
+
+Il est assigné plusieurs finalités au traitement GENESIS :
+
+- la mise à exécution par le greffe pénitentiaire des décisions judiciaires ordonnant une incarcération et la gestion des formalités d'écrou ;
+
+- la prise en charge des personnes détenues ayant pour finalité la mise en œuvre du parcours de détention, la prévention des comportements à risques, la tenue de la commission pluridisciplinaire unique de l'établissement pénitentiaire ainsi que la gestion des requêtes, des observations, des audiences, des rendez-vous, des visites et du courrier des personnes détenues ;
+
+- la gestion du compte nominatif des personnes détenues ;
+
+- la gestion de l'effectif, des procédures disciplinaires, des fouilles, de l'isolement des consignes et des régimes de détention ;
+
+- la gestion de l'individualisation de la peine et de la réinsertion des personnes placées sous main de justice dans le cadre des missions de prévention et de lutte contre la récidive par les agents du service pénitentiaire d'insertion et de probation et du service de la protection judiciaire de la jeunesse ;
+
+- la mise en œuvre des activités de réinsertion dans les domaines socioculturel et sportif, du travail, de l'enseignement et de la formation professionnelle ;
+
+- la détermination du lieu d'affectation des personnes détenues .
+
+Tout comme le traitement GIDE, GENESIS permettra en outre la gestion des contentieux entre l'administration pénitentiaire et les personnes placées sous main de justice ou leurs ayants droit.
+
+D'une manière générale, les finalités assignées au traitement GENESIS sont donc similaires à celles assignées à GIDE. La commission relève néanmoins certaines évolutions.
+
+En premier lieu, le projet de décret initialement soumis à la commission était muet sur une éventuelle finalité de renseignement pénitentiaire, mission que l'administration pénitentiaire assure au niveau local, régional (département de la sécurité et de la détention) et central (bureau du renseignement pénitentiaire, dit EMS3 ).
+
+En effet, les personnels de la sous-direction de l'état-major de sécurité (EMS) de la direction de l'administration pénitentiaire (DAP), et plus particulièrement du bureau précité, accèdent directement aux données enregistrées dans GENESIS, Or, ce bureau, en application de l'arrêté du 9 juillet 2008 susvisé, est chargé de recueillir et d'analyser l'ensemble des informations utiles à la sécurité des établissements et des services pénitentiaires. Il organise la collecte de ces renseignements auprès des services déconcentrés et procède à leur exploitation à des fins opérationnelles. Il assure la liaison avec les services centraux de la police et de la gendarmerie .
+
+La commission observe que l'accès à ces données permettra à l'administration pénitentiaire, et notamment à ce bureau, de recueillir des informations permettant la prévention des actes susceptibles de porter atteinte à la sécurité publique et à la sécurité des établissements et des services pénitentiaires, mais aussi d'assurer la surveillance des personnes détenues, des groupes ou organisations et phénomènes précurseurs de menaces. Par conséquent, elle prend acte de l'engagement du ministère de la justice de modifier le projet de décret afin de mentionner expressément cette finalité.
+
+En deuxième lieu, les missions de gestion par les agents des services pénitentiaires d'insertion et de probation (SPIP) et de la protection judiciaire de la jeunesse (PJJ) sont rédigées de manière plus large que dans le décret du 6 juillet 2011 susvisé. La commission estime que cette nouvelle rédaction permettra de mieux prendre en compte les missions réelles des SPIP et de la PJJ, recentrées sur la prévention de la récidive.
+
+En troisième lieu, la nouvelle finalité de détermination du lieu d'affectation des personnes détenues correspond en substance à la finalité assignée au fichier national des détenus (FND), que GENESIS remplacera à terme. La commission souhaite être tenue informée de cette évolution.
+
+Par ailleurs, il est prévu que GENESIS ait pour objet l'exploitation des informations recueillies à des fins de recherche statistique.
+
+Enfin, est exclu des finalités assignées au traitement GENESIS le suivi des personnes placées en rétention de sûreté à la fin de leur peine.
+
+La commission estime, sous ces réserves, que les finalités assignées à GENESIS sont déterminées, explicites et légitimes.
+
+Sur la nature des données traitées
+
+A titre liminaire, la commission relève que le projet de décret fait apparaître de manière plus claire que dans le décret du 6 juillet 2011 les personnes dont les données pourront être collectées (personnes détenues, magistrats, avocats, intervenants en détention, personnes à prévenir en cas d'incident, personnes ayant obtenu un permis de visite, personnels accédant directement aux données).
+
+Elle prend acte que le traitement GENESIS pourra comporter des données sensibles au sens de l'article 8 de la loi du 6 janvier 1978 modifiée. Ces données ne pourront en aucun cas être systématiquement renseignées, mais uniquement si elles sont nécessaires aux finalités poursuivies, et notamment afin d'éviter d'affecter dans la même cellule des détenus qui sont en conflit direct. A cet égard, elle relève qu'aucune liste préétablie des origines géographiques ou ethniques, lesquelles font l'objet d'une saisie libre, ne sera mise en œuvre.
+
+D'une manière générale, les données collectées sont proches de celles déjà prévues par le décret du 6 juillet 2011 susvisé. Elles sont relatives à la personne détenue, à sa prise en charge pluridisciplinaire, aux risques de suicide (aussi bien pour les personnes majeures que mineures), à la dangerosité et à la vulnérabilité de la personne, aux décisions du chef d'établissement, à la détention de la personne détenue et à la gestion de son compte nominatif.
+
+De nouvelles données sont néanmoins prévues dans le projet de décret par rapport au décret du 6 juillet 2011. Il s'agit soit de simples précisions par rapport audit décret, soit de données permettant de prendre en compte de nouvelles dispositions législatives ou réglementaires (le lieu d'assignation à résidence ou l'indication, par oui ou par non, de l'inscription au FIJAIS-V par exemple). A titre général, la commission estime que ces données ne posent pas de difficulté particulière.
+
+Elle tient néanmoins à revenir sur certaines catégories de données qui avaient déjà appelé son attention dans sa précédente délibération.
+
+La commission relève tout d'abord que les différents types de grilles (évaluation du potentiel suicidaire, évaluation de la dangerosité et de la vulnérabilité) utilisées dans GENESIS sont identiques à celles élaborées pour GIDE. Ces grilles sont remplies, lors de l'arrivée en détention, sous la forme de oui/non/NSP et peuvent être mises à jour à tout moment. Les données de ces grilles enregistrées dans GIDE seront automatiquement reprises dans GENESIS.
+
+Concernant certaines rubriques de la grille d'évaluation du potentiel suicidaire, la commission ne peut que réitérer les réserves formulées dans sa délibération du 20 janvier 2011 concernant la formulation des rubriques semble manifestement délirant , semble en état de choc psychologique , semble dépressif , paraît anxieux-triste-agressif .
+
+Elle relève que, tout comme dans GIDE, ces grilles seront complétées par les consignes et signalements (CS), qui détermineront le régime, les modalités et les conditions du séjour en détention, mais permettront également de répondre à l'exigence de sécurité publique en prévenant les risques d'agression ou d'évasion.
+
+Par ailleurs, il sera possible, dans GENESIS, de formuler des observations dans des zones de champ libre de l'application, tout comme cela était le cas dans GIDE. La commission est consciente que ces observations peuvent être nécessaires au métier des personnels pénitentiaires et qu'elles permettent d'assurer la liaison permanente entre les agents de surveillance eux-mêmes et leur hiérarchie afin de déterminer le comportement à adopter face à un nouvel évènement. Toutefois, ces observations seront accessibles à la plupart des destinataires, exception faite des membres de la commission d'application des peines (CAP), des magistrats des juridictions et de certains magistrats de l'administration centrale (direction des affaires criminelles et des grâces et service des affaires européennes et internationales).
+
+Par conséquent, si la commission ne remet pas en cause l'utilité de ces observations, elle rappelle que les données traitées doivent être pertinentes, adéquates et non excessives au regard de la finalité poursuivie et qu'un contrôle strict doit donc être assuré à ce titre par le ministère de la justice.
+
+Sur la durée de conservation des données
+
+La commission relève que le projet de décret est plus détaillé que l'article 7 du décret du 6 juillet 2011. Toutefois, les durées et modalités de conservation prévues dans le projet de décret sont identiques à celles mises en œuvre dans GIDE.
+
+Les données seront en effet conservées deux ans à compter de la date de la levée d'écrou. A l'issue de cette durée, les données seront conservées huit ans en base inactive, dont les accès seront réservés aux personnels habilités de la DAP et des directions interrégionales des services pénitentiaires (DISP), plus particulièrement pour les services du contentieux et de l'état-major de sécurité.
+
+Tout comme dans GIDE, concernant les libérés conditionnels dont la durée du suivi est supérieure à vingt-quatre mois, les données sont conservées en base active un mois après la date de fin du suivi.
+
+Enfin, et conformément à la finalité de gestion des contentieux prévue par le projet de décret, tout dossier contentieux mettant en cause la responsabilité de l'administration pénitentiaire a pour effet la suspension des délais de conservation, jusqu'à l'extinction des voies de recours, y compris pour les informations et données à caractère personnel concernant les codétenus ayant partagé la cellule dans le mois du fait générant le contentieux.
+
+La commission estime, tout comme elle l'avait fait en 2011, que les données relatives aux visiteurs, aux personnes à prévenir en cas d'incident, aux personnes mises en examen et ayant fait l'objet d'une ordonnance de non-lieu, ainsi que les données correspondant à un moment précis de la détention de la personne détenue (notamment les observations et les grilles d'évaluation), devraient être versées dans la base inactive dès la levée définitive de l'écrou de la personne concernée. Ces données seraient en effet toujours accessibles, mais à des personnels restreints, notamment à des fins de gestion des recours contentieux des détenus ou de leurs ayants droit ou pour les besoins des enquêtes de police.
+
+Sous ces réserves, la commission estime que les durées de conservation prévues par le projet de décret sont conformes aux dispositions de l'article 6 (5°) de la loi du 6 janvier 1978 modifiée.
+
+Sur les destinataires des données
+
+Le projet de décret liste les destinataires des données enregistrées dans le traitement, en distinguant les personnels bénéficiant d'un accès direct aux données des personnels à qui ces informations pourront être communiquées. Si ces destinataires peuvent apparaître nombreux et divers, il convient de relever que, pour la plupart, ils figurent dans le décret du 6 juillet 2011, d'une part, et correspondent aux différents intervenants en prison ou dans le processus de mise à exécution d'une décision judiciaire, d'autre part.
+
+La commission considère toutefois que le nombre et la diversité des destinataires du traitement imposent la mise en œuvre de mesures adaptées de nature à garantir des accès restreints aux seules données strictement nécessaires à l'accomplissement de leurs missions.
+
+La commission prend acte que le décret prévoit que les personnels accèdent aux données strictement nécessaires à l'exercice de leurs attributions (...), à raison de leurs fonctions ou pour les besoins du service . De la même manière, le projet de décret prévoit que les destinataires peuvent recevoir communication de données dans le cadre de leurs attributions, dans la limite du besoin d'en connaître .
+
+Sur les personnels accédant directement aux données
+
+A cet égard, le ministère de la justice a prévu plusieurs mesures : d'une part, les modalités d'habilitation des personnels n'appartenant pas au ministère et qui pourront directement avoir accès aux données enregistrées dans GENESIS sont prévues par le décret n° 87-604 du 31 juillet 1987 susvisé.
+
+D'autre part, le ministère a mis en place seize profils métiers , selon un référentiel national unique, ainsi que des sous profils permettant de ne donner accès aux personnels qu'aux seules données enregistrées dans le livret du détenu et qui sont strictement nécessaires à l'exercice de leurs missions.
+
+Enfin, le ministère a mis en place une carte agent , c'est-à-dire un support physique sécurisé et individuel. L'authentification forte par certificat personnel, activée par un code PIN que seul le porteur connaît, permet de réduire fortement le risque d'usurpation d'identité.
+
+La commission relève que de nouveaux personnels accédant directement aux données ont été ajoutés : les autorités judiciaires et agents des greffes, les membres de la commission de l'application des peines (CAP), les personnels en charge de la régie des comptes nominatifs, les personnels des groupements privés en charge de la gestion d'activité, le directeur des affaires criminelles et des grâces (DACG) et le chef du service des affaires européennes et internationales.
+
+Les missions de la plupart de ces catégories de personnels n'ont pas évolué depuis le décret du 6 juillet 2011 et aucune justification particulière n'a été apportée sur ce point par le ministère. La commission en conclut dès lors qu'il s'agit de régulariser l'accès de ces personnels au traitement et relève que cela tend à augmenter considérablement le nombre de personnels ayant accès aux données enregistrées dans GENESIS. Elle prend néanmoins acte que l'accès du DACG s'inscrit dans le cadre de la finalité de détermination du lieu d'affectation des personnes détenues , assignée au FND qui sera à terme remplacé par GENESIS. Par ailleurs, elle relève que le ministère envisage, en raison des modifications des missions confiées au service des affaires européennes et internationales, de supprimer des destinataires le chef de ce service.
+
+En outre, s'agissant de l'accès aux données par les personnels habilités de la direction de l'administration pénitentiaire (DAP) et des directions interrégionales des services pénitentiaires (DISP), des membres de la commission pluridisciplinaire unique (CPU) et des membres de la commission de l'application des peines (CAP), la commission considère que le projet de décret devrait préciser davantage le cadre de ces accès, particulièrement concernant les personnels de la DAP et des DISP.
+
+Par ailleurs, la commission relève que les personnels de surveillance auront accès à plus de données que ce qui est actuellement prévu dans GIDE. Elle prend acte de la justification apportée par le ministère, à savoir que ces agents sont chargés de la détention et qu'il est donc légitime qu'ils aient accès aux données relatives à la détention et aux activités, dans la mesure où ces dernières engendrent des déplacements que le personnel doit pouvoir surveiller.
+
+De même, les agents de l'éducation nationale ont accès, dans GENESIS, aux mêmes données que dans GIDE, à une exception : ils pourront désormais accéder aux requêtes, qui regroupent l'ensemble des thèmes qui concernent la détention. La commission prend acte que le responsable de l'éducation nationale (RLE) n'est néanmoins destinataire que des requêtes concernant son domaine de compétence.
+
+Enfin, l'accès des agents des SPIP et de la PJJ est élargi, conformément à l'évolution récente de leurs missions.
+
+S'agissant de l'accès par les personnels des groupements privés, auxquels peuvent être délégués le fonctionnement courant d'un établissement pénitentiaire ou la gestion des activités proposées aux personnes détenues dans des domaines variés, ils ne sont destinataires que des données les concernant, suivant leur domaine de compétence. En outre, leurs observations sont validées par un cadre de l'administration. La commission considère ce dispositif comme satisfaisant.
+
+Sur les personnels auxquels les informations peuvent être communiquées
+
+La plupart des destinataires figurant dans le projet de décret sont similaires à ceux prévus dans le décret du 6 juillet 2011 et sont destinataires des mêmes catégories de données. Ces destinataires n'appellent donc pas d'observations supplémentaires de la part de la commission.
+
+Il est néanmoins prévu que de nouveaux destinataires aient communication de certaines données enregistrées dans GENESIS. Il s'agit des avocats, pour les procédures contradictoires, des assesseurs, pour les informations relatives aux procédures disciplinaires, des agents du Pôle emploi (ainsi que des missions locales pour les jeunes majeurs de moins de vingt-six ans), dans le cadre du retour à l'emploi des personnes détenues, de la Banque de France, pour la tenue du livret et des comptes bancaires de la personne détenue ainsi que le paiement des créances, des hôpitaux de rattachement, dans le cadre de la distribution de médicaments et des organismes de formation.
+
+Ces nouveaux destinataires n'appellent, d'une manière générale, pas d'observation particulière de la part de la commission. En effet, il s'agit de prendre en compte certains enseignements tirés de l'utilisation de GIDE, des dispositions issues des décrets d'application de la loi pénitentiaire ou enfin certains oublis dans le décret du 6 juillet 2011.
+
+Enfin, si dans le cadre de la finalité de renseignement pénitentiaire des données devaient être échangées avec des services de renseignements spécialisés, la commission estime que ces personnels devraient apparaître au titre des destinataires.
+
+Sur l'information des personnes
+
+Le droit d'information pour les personnes détenues sera assuré par voie d'affichage de même que pour les agents, personnels habilités, intervenants en détention et visiteurs de prison.
+
+L'information des magistrats se fera par voie d'affichage au sein des juridictions tandis que, pour les personnes à prévenir en cas d'incident, l'information sers délivrée lors de la prise de contact par les SPIP avec les proches des personnes détenues.
+
+La commission estime que ces modalités d'information sont conformes am exigences de l'article 32 de la loi du 6 janvier 1978 modifiée.
+
+Tout comme elle l'avait fait pour GIDE, la commission considère néanmoins que les observations qui sont amenées à figurer dans GENESIS devraient faire l'objet de modalités d'information particulières auprès de la personne détenue. Cette information pourrait en particulier figurer dans le livret du détenu, remis à la personne lors de son admission dans l'établissement pénitentiaire en application de l'article 23 de la loi du 24 novembre 2009 susvisée.
+
+Sur les droits d'accès, de rectification et d'opposition des personnes
+
+Les modalités d'exercice des droits d'accès et de rectification sont identiques à celles prévues dans le décret du 6 juillet 2011.
+
+Ainsi, le droit d'accès s'exerce de manière directe, sauf pour les dates prévues des transferts et extractions, les prescriptions d'origine judiciaire ou pénitentiaire relatives à la prise en charge et au régime de détention de la personne détenue, la désignation des locaux de l'établissement et la description des mouvements des personnes détenues.
+
+Si l'application des dispositions des articles 41 et 42 de la loi du 6 janvier 1978 modifiée à ces données ne pose aucun problème de principe, la commission réitère néanmoins les réserves qu'elle a formulées dans sa délibération du 20 janvier 2011, concernant l'imprécision de certaines données relevant du droit d'accès indirect, telles que description des mouvements des personnes détenues et prescriptions d'origine judiciaire ou pénitentiaire relatives à la prise en charge et au régime de détention de la personne détenue . Au titre de cette dernière catégorie figurent en effet, par exemple, les observations rédigées dans les champs libres prévus dans l'application GENESIS.
+
+A cet égard, la commission appelle en outre l'attention du ministère sur la pratique actuelle de l'administration pénitentiaire, qui consiste à ne jamais communiquer les observations à la personne concernée, ce qui semble contraire au principe de divisibilité des données applicable en la matière. Par conséquent, elle rappelle que les informations dont la communication ne remettrait pas en cause les finalités assignées au traitement ou la sécurité publique doivent être communiquées à la personne exerçant son droit d'accès.
+
+Le droit d'opposition ne s'applique pas au traitement projeté, ce qui n'appelle pas d'observation de la part de la commission.
+
+Sur la sécurité des données et la traçabilité des actions
+
+D'une manière générale, la commission relève que les mesures mises en œuvre par le ministère de la justice permettent d'apporter un haut niveau de sécurité.
+
+Ainsi, il a mis en place, contrairement à GIDE, une architecture centralisée qui permet une mise à jour des données en temps réel et une sécurité homogène de ces dernières. Les mesures d'hébergement présentées sont de nature à assurer une haute disponibilité des données.
+
+Par ailleurs, la commission relève que, conformément à ce qu'elle avait demandé dans sa délibération du 20 janvier 2011, les mesures de traçabilité ont été améliorées. En effet, et contrairement à GIDE, le futur article R. 57-9-26 du code de procédure pénale tel que prévu dans le projet de décret dispose que toutes les actions (consultation, saisie, suppression) sur le système d'information seront tracées, les traces étant conservées trois ans.
+
+Une authentification forte (carte avec certificat délivré par l'ANTS) est prévue pour l'ensemble des utilisateurs.
+
+Le traitement GENESIS sera mis en relation avec d'autres traitements, dépendant pour certains du ministère de la justice (système de référence justice, application des peines, probation et insertion, fichier national des détenus, GIDE/CEL, annuaire LDAP), du ministère de la santé, via un serveur d'échange interministériel, ou de la Banque de France. La commission relève que ces transmissions de données vers différents destinataires présentent toutes des mesures de sécurité permettant d'assurer la confidentialité des données échangées (soit par l'utilisation du réseau ministériel RPVJ, soit par l'utilisation de protocoles sécurisés comme HTTPS ou SFTP).
+
+En outre, GENESIS sera doté d'un requêteur , outil permettant de consulter de façon intelligible les données à des fins opérationnelles. La commission prend acte que seuls les personnels internes à la direction de l'administration pénitentiaire pourront utiliser cet outil et que certaines données sont exclues du requêteur (le NIR, ainsi que toutes les données issues des champs invitant l'utilisateur à une saisie libre). Enfin, le requêteur permet la traçabilité de l'identité du requêteur ainsi que des objets requêtés pour une durée de trois ans.
+
+La commission relève qu'il n'y a pas de maintenance distante de prévue ; en outre, la politique de sauvegarde est satisfaisante au regard de l'article 34 de la loi du 6 janvier 1978 modifiée.
+
+La commission appelle néanmoins l'attention du ministère de la justice sur la nécessité d'encadrer strictement les prestataires en charge de la maintenance et de l'exploitation et précise qu'une réévaluation des risques suite au passage sur le RIE (réseau interministériel d'Etat) serait à envisager.
+
+Sous réserve des précédentes observations, les mesures de sécurité décrites par le responsable de traitement sont conformes à l'exigence de sécurité prévue par l'article 34 de la loi du 6 janvier 1978 modifiée.
+
+La commission rappelle toutefois que cette obligation nécessite la mise à jour des mesures de sécurité au regard de la réévaluation régulière des risques.
+
+La présidente,
+
+I. Falque-Pierrotin
