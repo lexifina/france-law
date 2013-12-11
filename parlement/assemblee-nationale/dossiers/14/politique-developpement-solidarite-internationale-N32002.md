@@ -1,0 +1,66 @@
+# Affaires étrangères : politique de développement et de solidarité internationale
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N32002
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/politique_developpement_solidarite_internationale
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-357.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2013-12-11 : 1er dépôt d'une initiative. (PRJLANR5L14B1627)
+  - 2013-12-11 : Etude d'impact (ETDIANR5L14B1627)
+  - 2014-01-29 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2013-12-11 : Renvoi en commission au fond
+      - 2014-01-08 : Nomination de rapporteur
+      - 2014-01-08 : Réunion de commission
+      - 2014-02-04 : Réunion de commission
+      - 2014-02-10 : Réunion de commission
+      - 2014-02-05 : Dépôt de rapport (RAPPANR5L14B1762, PRJLANR5L14BTC1762)
+    - Travaux d'une commission saisie pour avis
+      - 2014-01-15 : Saisine pour avis d'une commission
+      - 2014-01-21 : Nomination de rapporteur
+      - 2014-01-29 : Réunion de commission
+      - 2014-01-29 : Dépôt de rapport (AVISANR5L14B1734)
+    - Travaux d'une commission saisie pour avis
+      - 2014-01-16 : Saisine pour avis d'une commission
+      - 2014-01-22 : Nomination de rapporteur
+      - 2014-01-22 : Réunion de commission
+      - 2014-01-22 : Dépôt de rapport (AVISANR5L14B1719)
+  - Discussion en séance publique
+    - 2014-02-10 : Discussion en séance publique
+    - 2014-02-10 : Discussion en séance publique
+    - 2014-02-10 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-02-12 : Dépôt d'une initiative en navette (PRJLSNR5S219B0357)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-02-12 : Renvoi en commission au fond
+      - 2014-02-18 : Nomination de rapporteur
+      - 2014-04-30 : Dépôt de rapport (RAPPSNR5S219B0490)
+    - Travaux d'une commission saisie pour avis
+      - 2014-04-16 : Saisine pour avis d'une commission
+      - 2014-04-16 : Nomination de rapporteur
+      - 2014-05-20 : Dépôt de rapport (AVISSNR5S219B0540)
+  - Discussion en séance publique
+    - 2014-05-26 : Discussion en séance publique
+    - 2014-05-26 : Décision
+- Commission Mixte Paritaire
+  - 2014-05-27 : Dépôt d'un projet de loi (PRJLANR5L14B1970)
+  - 2014-05-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-06-04 : Nomination de rapporteur
+    - 2014-06-04 : Dépôt du rapport d'une CMP (RAPPANR5L14B2005)
+    - 2014-06-04 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0584)
+  - Discussion en séance publique
+    - 2014-06-19 : Discussion en séance publique
+    - 2014-06-19 : Décision
+  - Discussion en séance publique
+    - 2014-06-23 : Discussion en séance publique
+    - 2014-06-23 : Décision
+  - 2014-06-05 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-07-07 : Promulgation d'une loi
