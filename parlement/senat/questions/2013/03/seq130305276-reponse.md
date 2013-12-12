@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305276
+
+- Question : [SEQ130305276](seq130305276.md) — Concertation sur la restauration
+
+## Réponse
+
+*Artisanat, commerce et tourisme, JO du 2013-12-12, page 3572*
+
+La ministre de l'artisanat, du commerce et du tourisme a réuni, le 25 mars 2013, le premier comité de filière pour la restauration avec les représentants des professionnels du secteur et des organisations syndicales des salariés, des représentants des réseaux consulaires, de la formation professionnelle, des producteurs, des métiers de bouche et des arts de la table. À l'issue des travaux du comité de filière, la ministre a défini, le 24 juin 2013, dix priorités pour la restauration en lien avec les professionnels et les partenaires sociaux. C'est dans ce cadre, afin de répondre aux attentes des consommateurs et de promouvoir la qualité dans la restauration, que la valorisation du « Fait maison » et la modernisation du titre de maître-restaurateur ont été retenues. La ministre porte ces mesures dans le projet de loi sur la consommation et l'une et l'autre ont été adoptées par l'Assemblée nationale et le Sénat en première lecture. La seconde lecture du texte aura lieu à l'Assemblée nationale le 9 décembre 2013. Ces mesures permettront de valoriser les métiers de la restauration tout en donnant une réelle information au consommateur sur les conditions de transformation des plats qui lui sont servis. À terme, elle aura également des effets bénéfiques sur l'emploi car elle est génératrice de besoins de main-d'œuvre qualifiée. Pour compléter cet accompagnement du secteur, la ministre travaille également avec les professionnels à l'amélioration des conditions de travail, à la poursuite du dialogue social et au développement de la formation notamment à travers l'établissement d'une convention de lutte contre le travail illégal et le développement du permis de former.
