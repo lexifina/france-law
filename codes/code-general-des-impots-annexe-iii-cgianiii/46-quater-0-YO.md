@@ -1,12 +1,14 @@
 # Article 46 quater-0 YO
 
-I.-Les artistes-interprètes mentionnés au b du 1 et au b du 2 de l'article 46 quater-0 YM comprennent :
+I. – Les artistes-interprètes et les artistes de complément mentionnés au b du 1 et au b du 2 de l'article 46 quater-0 YM comprennent :
 
 a. Les acteurs assurant les rôles principaux et les rôles secondaires des œuvres appartenant au genre de la fiction ainsi que les artistes-interprètes assurant le commentaire ou la postsynchronisation des œuvres appartenant au genre du documentaire et au genre de l'animation. Pour les œuvres appartenant au genre de la fiction, sont considérés comme rôles principaux les rôles pour lesquels la présence à l'écran des artistes-interprètes est requise pour la moitié au moins des scènes de l'œuvre et comme rôles secondaires les rôles d'au moins quatre cachets ;
 
 b. Les artistes musiciens engagés pour l'enregistrement sonore de leur interprétation ou exécution d'œuvres musicales destinées à être incorporées aux œuvres cinématographiques ou audiovisuelles ;
 
-II.-Les personnels mentionnés au c du 1 et au c du 2 de l'article 46 quater-0 YM comprennent :
+c. Les artistes du spectacle considérés comme artistes de complément par les usages professionnels, notamment par les conventions et accords collectifs de la production cinématographique ou audiovisuelle, ainsi que les artistes-interprètes assurant des rôles de moins de quatre cachets.
+
+II. – Les personnels mentionnés au c du 1 et au c du 2 de l'article 46 quater-0 YM comprennent :
 
 1° Pour les œuvres cinématographiques ou audiovisuelles de fiction et les œuvres cinématographiques ou audiovisuelles documentaires :
 
