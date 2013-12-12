@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506522
+
+- Question : [SEQ130506522](seq130506522.md) — Interprétation de la loi littoral
+
+## Réponse
+
+*Égalité des territoires et logement, JO du 2013-12-12, page 3577*
+
+La loi « Littoral » est une loi d'équilibre destinée à traiter les usages souvent conflictuels du littoral, qu'il s'agisse des espaces terrestres, maritimes ou lacustres, soumis à une forte pression sociale et économique. Dans le respect de cet équilibre, elle organise les conditions dans lesquelles l'aménagement des communes peut être mis en place. Cependant, cette organisation doit nécessairement être précisée à l'échelle des territoires et traduites dans les documents d'urbanisme comme le prévoit l'article L. 146-4 du code de l'urbanisme. La circulaire du 14 mars 2006 sur la loi « Littoral » apporte des précisions sur ces notions. Toutefois, il ne peut être envisagé de définir précisément au niveau national les notions « d'espaces proches du rivage », de « coupures d'urbanisation » et de « hameaux nouveaux intégrés à l'environnement » sans tenir compte des spécificités locales. Ainsi, il revient aux élus du littoral de préciser ces notions, en fonction du contexte local, dans les documents d'urbanisme. Cette traduction à l'échelle des schémas de cohérence territoriale qui sera ensuite précisée à l'échelle des plans locaux d'urbanisme est la garantie majeure pour la sécurité juridique des documents d'urbanisme et des autorisations de construire. Il n'en reste pas moins que le Gouvernement est conscient des difficultés d'interprétation des différentes notions de la loi « Littoral » liées notamment à des évolutions jurisprudentielles et aux risques contentieux qu'elles engendrent parfois. C'est pourquoi les services du ministère de l'égalité des territoires et du logement travaillent actuellement à un nouveau projet de circulaire relatif à l'application de la loi « Littoral ».
