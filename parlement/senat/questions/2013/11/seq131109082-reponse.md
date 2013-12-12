@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109082
+
+- Question : [SEQ131109082](seq131109082.md) — Emploi des travailleurs handicapés au ministère
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2013-12-12, page 3588*
+
+Le taux d'emploi de travailleurs en situation de handicap mesuré dans l'ensemble des périmètres du ministère de l'égalité des territoires et du logement (METL) et du ministère de l'écologie, du développement durable et de l'énergie (MEDDE), s'élève à 6,70 % en 2012, en progression de 0,22 point par rapport à l'année précédente. Afin de favoriser le maintien dans l'emploi des travailleurs reconnus handicapés, les ministères disposent de plusieurs outils : un conventionnement pluriannuel avec le fonds pour l'insertion des personnes handicapées dans la fonction publique (FIPHFP) ; un plan quadriennal ministériel pour le recrutement, l'insertion, le reclassement et le maintien dans l'emploi des travailleurs handicapés, signé pour la période 2013-2016. Ce plan prévoit, notamment, la mise en place de dispositifs associant les différents acteurs susceptibles d'intervenir pour faciliter le maintien dans l'emploi des travailleurs handicapés (les responsables des ressources humaines, les médecins de prévention, les assistantes sociales, les chargés de formation...) ; les assistants et conseillers de prévention des services des METL/MEDDE interviennent au quotidien pour aménager les postes des travailleurs handicapés de ces ministères. Le développement du lien social et de la solidarité au profit de toutes les composantes de notre société fait partie intégrante de la feuille de route des METL et MEDDE. L'État doit être exemplaire sur ce point et le ministre délégué chargé des transports, de la mer et de la pêche est donc particulièrement sensible au développement de l'insertion professionnelle des travailleurs en situation de handicap.
