@@ -1,8 +1,6 @@
 # Article Annexe 4
 
-LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION
-
-ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS AIS
+LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS AIS
 
 |
 
@@ -86,11 +84,11 @@ JRC Japon
 
 |
 
-GH2E
+FLUVIAL ELEC
 
 |
 
-3, rue Sophie-Germain, 75014 Paris
+4, quai Fernand-Saguet, 94700 Maisons-Alfort
 
 |
 
@@ -102,11 +100,27 @@ OceanSat
 
 |
 
+G2HE
+
+|
+
+3, rue Sophie-Germain, 75014 Paris
+
+|
+
+OceanSat
+
+|
+
+7
+
+|
+
 MAP Marine
 
 |
 
-1, quai de la Grande-Bigue, bât. B, 13002 Marseille
+1, quai de la Grande-Bigue, bâtiment B, 13002 Marseille
 
 |
 
@@ -114,7 +128,7 @@ Nauticast, Furuno, Transas, Comnav
 
 |
 
-7
+8
 
 |
 
@@ -130,7 +144,7 @@ Furuno, OceanSat
 
 |
 
-8
+9
 
 |
 
@@ -142,11 +156,11 @@ SIECMI
 
 |
 
-Saab R 4 IAIS, CNS VDL 6000, SRT Comnav Voyager X3
+Saab R. 4 IAIS, CNS VDL. 6000, SRT Comnav Voyager X3
 
 |
 
-9
+10
 
 |
 
@@ -162,7 +176,7 @@ ICOM
 
 |
 
-10
+11
 
 |
 
@@ -174,7 +188,23 @@ Quartier de la Chaume, CD 45, pont de l'Etoile, 13360 Roquevaire
 
 |
 
-SAM Electronics, Saab R 4 IAIS
+SAM Electronics, Saab R. 4 IAIS
+
+|
+
+12
+
+|
+
+BARILLEC SAS
+
+|
+
+ZI du Moros, 29990 Concarneau
+
+|
+
+OceanSat
 
 |
 
