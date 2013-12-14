@@ -82,7 +82,7 @@ Officiers de port adjoints.
 
 |
 
-Officier de port adjoint de classe normale dont l'indice brut de rémunération est au plus égal à 380.
+Lieutenant de port de seconde classe dont l'indice brut de rémunération est au plus égal à 380.
 
 |
 

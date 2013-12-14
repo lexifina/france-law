@@ -294,7 +294,7 @@ Officiers de port adjoints.
 
 |
 
-Lieutenant de port de classe fonctionnelle.
+Lieutenant de port de première classe.
 
 |
 
@@ -302,7 +302,7 @@ Lieutenant de port de classe fonctionnelle.
 
 |
 
-Lieutenant de port de classe normale à compter du 2e échelon.
+Lieutenant de port de seconde classe à compter du 2e échelon.
 
 |
 

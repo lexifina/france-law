@@ -700,7 +700,7 @@ Technicien territorial principal de 2e classe.
 
 |
 
-Lieutenant de port de classe fonctionnelle.
+Lieutenant de port de première classe.
 
 |
 
@@ -708,7 +708,7 @@ Technicien territorial principal de 2e classe.
 
 |
 
-Lieutenant de port de classe normale.
+Lieutenant de port de seconde classe.
 
 |
 
@@ -908,7 +908,7 @@ Assistant territorial socio-éducatif.
 
 |
 
-nfirmier de classe supérieure relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat |
+Infirmier de classe supérieure relevant du décret n° 94-1020 du 23 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des infirmières et infirmiers des services médicaux des administrations de l'Etat |
 
 Infirmier territorial de classe supérieure.
 
