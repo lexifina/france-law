@@ -1,0 +1,9 @@
+# Paris : acte A2 M — relatif au secteur Pigalle - Frochot - Fontaine (9e).
+
+- Collectivité : Paris
+- SIREN : 217500016
+- Code INSEE : 75056
+- Date : 2013-12-16
+- Nature : A
+- Objet : relatif au secteur Pigalle - Frochot - Fontaine (9e).
+- Jeu de données : https://www.data.gouv.fr/datasets/53699b2ea3a729239d20568d
