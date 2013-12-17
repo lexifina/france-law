@@ -1,0 +1,9 @@
+# Réponse à la question n° 16188
+
+- Question : [16188](16188.md) — Question n° 16188 — paiement des pensions; versement; calendrier
+
+## Réponse
+
+*JO du 2013-12-17*
+
+S'agissant des pensions de retraite complémentaire, l'article 10 de la loi n° 2010-1330 portant réforme des retraites dispose qu' « à compter du 1er janvier 2013, tout assuré pensionné d'un régime de retraite de base ou complémentaire versant des prestations par trimestre à échoir peut demander à percevoir sa pension selon une périodicité mensuelle. Cette option ne peut lui être refusée. Une fois exercée, l'option est irrévocable. L'assuré est informé de cette possibilité dans des conditions définies par décret. ». Les régimes association générale des institutions de retraite des cadres (AGIRC) et association des régimes de retraites complémentaires (ARRCO), qui versent des pensions trimestrielles à terme à échoir, sont allés plus loin en prévoyant la mensualisation obligatoire pour tous, à compter du 1er janvier 2014. Pour les demandes de perception de la retraite complémentaire à échéance mensuelle depuis le 1er janvier 2013, les instances AGIRC-ARRCO peuvent, au cas par cas, étudier des solutions avec les affiliés concernés afin d'anticiper la mise en oeuvre de la mensualisation prévue en 2014. S'agissant de l'avancement de la date de versement des pensions de retraite de base, une telle mesure présenterait des impacts importants sur la trésorerie des régimes, et donc sur le coût de l'emprunt pour la sécurité sociale dans un contexte financier et bancaire délicat. Il est donc nécessaire d'appréhender les coûts et les risques d'un tel changement pour la sécurité sociale, les institutions bancaires et les entreprises, si un décalage du versement des pensions, mais aussi des cotisations, devait être envisagé, en regard des avantages escomptés dont l'évaluation et l'impact réel sur les retraités doivent également être précisés.
