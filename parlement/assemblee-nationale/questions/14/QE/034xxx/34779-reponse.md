@@ -1,0 +1,9 @@
+# Réponse à la question n° 34779
+
+- Question : [34779](34779.md) — Question n° 34779 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Le conseil d'orientation des finances publiques, créé par le décret n° 2006-515 du 5 mai 2006 relatif à la conférence nationale des finances publiques et portant création du conseil d'orientation des finances publiques, avait pour mission de décrire et d'analyser la situation des finances publiques, d'apprécier les conditions requises pour en assurer la soutenabilité, de formuler le cas échéant des recommandations ou des propositions visant à en restaurer la soutenabilité, et de préparer et d'organiser les travaux de la conférence nationale des finances publiques. A ce titre, le conseil devait remettre chaque année un rapport sur les finances publiques après l'adoption des projets de lois de finances et de financement de la sécurité sociale qui sont rendus publics avant la tenue des conférences. Le coût administratif (fonctionnement et mises à disposition) de ces deux instances est nul depuis 2010. En effet, depuis 2010, il a été fait le choix de ne pas recourir à ces deux instances, mais de plutôt privilégier les conférences à thèmes (comme par exemple lors des conférences sur le déficit public) ou plus récemment les séminaires gouvernementaux (le plus récent étant celui sur la modernisation de l'action publique). Le conseil d'orientation des finances publiques et la conférence nationale des finances publiques sont au nombre des instances consultatives dont la suppression a été décidée en application des conclusions du comité interministériel pour la modernisation de l'action publique. Cette suppression est intervenue alors qu'était créé le Haut conseil des finances publiques (décret n° 2013-144 du 18 février 2013 relatif à la constitution initiale du Haut conseil des finances publiques) qui reprendra l'exercice des missions de la conférence et du conseil.
