@@ -1,0 +1,9 @@
+# Réponse à la question n° 40130
+
+- Question : [40130](40130.md) — Question n° 40130 — développement; réglementation
+
+## Réponse
+
+*JO du 2013-12-17*
+
+L'ordonnance n° 2013-889 du 3 octobre 2013 relative au développement de la construction de logement ouvre des possibilités de dérogations aux règles du plan local d'urbanisme ou du document en tenant lieu. Ces dérogations pourront être accordées par l'autorité compétente pour délivrer le permis de construire pour des projets créateurs de logements dans les zones urbanisées des agglomérations ou villes souffrant d'un déséquilibre entre l'offre et la demande de logements. Dans le cadre des possibilités ouvertes par cette ordonnance, l'autorité compétente peut, lorsqu'elle délivre le permis de construire pour un projet de logements situé à moins de 500 mètres d'une gare ou d'une station de transport en commun guidé ou en site propre, adapter les obligations en matière d'aires de stationnement en prenant en compte les conditions réelles de desserte et d'accessibilité aux zones d'emplois et aux équipements, les caractéristiques du tissu urbain existant, les possibilités de stationnement dans le quartier et les besoins générés par le projet lui-même. Il s'agit donc d'une appréciation au cas par cas à partir d'un faisceau de critères qui doivent être adaptés localement en fonction du contexte et permettre de motiver la décision qui sera prise. Une circulaire d'application de cette ordonnance est en cours de rédaction. Elle permettra d'apporter des précisions supplémentaires pour en faciliter la mise en oeuvre et permettre que les possibilités ouvertes par cette ordonnance, qui fait partie des actions relevant du plan d'investissement pour le logement présenté le 21 mars 2013 par le Président de la République, soient largement utilisées et contribuent à dynamiser la construction de logements.
