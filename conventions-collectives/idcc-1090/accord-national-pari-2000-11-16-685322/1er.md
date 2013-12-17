@@ -1,7 +1,5 @@
 # Article 1er
 
-Il a été créé en 1956 une association à but non lucratif régie par la loi du 1er juillet 1901, dénommée CEASACM et ayant pour objet :
+Entre les organisations patronales et syndicales représentatives visées à l'article 4, il a été créé un centre d'études des services de l'automobile (CESA), association paritaire à but non lucratif régie par la loi du 1er juillet 1901, pour la promotion et le développement du dialogue paritaire au niveau de la branche.
 
-- d'une part, d'assurer la liaison entre les organisations syndicales représentatives dans l'industrie, le commerce, l'artisanat et des professions connexes de l'automobile, du cycle et du motocycle pour l'étude des problèmes relatifs aux questions sociales les intéressant ;
-
-- d'autre part, d'étudier, de promouvoir, de mettre en application ou de gérer tout système de garanties sociales individuelles ou collectives au profit de ses membres.
+Cette association, membre du groupe de protection sociale IRP AUTO et ci-après dénommée " l'Association ", prend la dénomination suivante : " IRP AUTO CESA ".
