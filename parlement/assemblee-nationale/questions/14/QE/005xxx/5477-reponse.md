@@ -1,0 +1,9 @@
+# Réponse à la question n° 5477
+
+- Question : [5477](5477.md) — Question n° 5477 — Cour des comptes; rapport 2012; conclusions
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Le Gouvernement partage la recommandation de la cour des comptes sur le renforcement du fonds d'intervention régional (FIR). Le montant du FIR a ainsi plus que doublé de 2012 à 2013, passant de 1,3 Md€ à 3,1 Md€ et accroissant d'autant les marges de manoeuvres des agences régionales de santé (ARS). Cela a été obtenu par l'intégration des aides à la contractualisation destinées à favoriser la performance et les restructurations hospitalières, de certaines missions d'intérêt général dont l'objectif est de favoriser une approche transversale des prises en charge, de crédits en faveur de l'amélioration des parcours des personnes âgées, comprenant notamment une enveloppe spécifique destinée au financement des expérimentation de parcours de santé des personnes âgées en risque de perte d'autonomie (PAERPA) ainsi que de crédits de la caisse nationale de solidarité pour l'autonomie (CNSA) pour l'accompagnement des personnes âgées et des personnes en situation de handicap (financement des maisons pour l'autonomie et l'intégration des malades d'Alzheimer et des groupes d'entraide mutuelle). Cette augmentation significative témoigne de l'intérêt que le Gouvernement reconnaît à cet instrument créé par la loi de financement de la sécurité sociale pour 2012, qui donne la possibilité aux ARS de recourir à la fongibilité des crédits et de financer les actions portées par l'ensemble des acteurs du système de santé (permanence des soins, prévention, éducation thérapeutique, etc.. ) pour mettre en oeuvre leur projet régional de santé (PRS). On notera que le FIR fait désormais l'objet d'un sous-objectif spécifique de l'objectif national de dépenses d'assurance maladie (ONDAM), en application d'une disposition du projet de loi de financement de la sécurité sociale pour 2014.
