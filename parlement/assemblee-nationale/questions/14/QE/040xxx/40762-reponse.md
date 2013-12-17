@@ -1,0 +1,9 @@
+# Réponse à la question n° 40762
+
+- Question : [40762](40762.md) — Question n° 40762 — rénovation; Roland-Garros; aides de l'État
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Les championnats internationaux de tennis, organisés chaque année au stade Roland-Garros font partie du patrimoine sportif français. La Fédération française de tennis (FFT), soucieuse de maintenir ce tournoi parmi les quatre grands tournois du monde, a élaboré un projet de modernisation de l'infrastructure adopté par son assemblée générale en 2011. Par arrêté du 28 décembre 2011, publié au Journal officiel de la République française du 24 avril 2012, ce projet a été inscrit sur la liste des enceintes sportives déclarées d'intérêt général. Pour autant, cette inscription ne signifie pas que l'Etat y apportera une subvention comme cela a été précisé à la FFT par le ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative. La réforme des critères d'intervention du CNDS, adoptée à l'unanimité par ses administrateurs le 19 novembre dernier, a confirmé l'orientation d'un retour aux missions d'origine de l'établissement, à savoir le sport pour tous. Dans ce cadre, les équipements majoritairement dédiés aux sportifs professionnels ne seront plus soutenus. En revanche, dans le cadre de l'enveloppe nationale équipements, un nombre limité de projets portés par les fédérations sportives pour la formation de leurs sportifs pourront être accompagnés. Le centre national d'entraînement de Roland-Garros pourra dans ce cadre être soumis à l'examen du conseil d'administration du CNDS en 2014. Enfin, pour accompagner le bouclage de ce projet essentiel à l'avenir du tennis français et au rayonnement international de la nation, la Ministre chargée des sports a mis la FFT en contact avec la Banque publique d'investissement (BPI) pour réexaminer les conditions d'un éventuel soutien de sa part.
