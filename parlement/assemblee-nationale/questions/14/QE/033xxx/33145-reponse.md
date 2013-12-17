@@ -1,0 +1,9 @@
+# Réponse à la question n° 33145
+
+- Question : [33145](33145.md) — Question n° 33145 — fibres et produits textiles
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Le 27 septembre 2011, un règlement communautaire (UE) n° 1007/2011 « relatif aux dénominations des fibres textiles et à l'étiquetage et au marquage correspondants des produits textiles au regard de leur composition en fibres » a été adopté par le Parlement européen et le Conseil. Ce règlement s'inscrit dans la continuité des textes antérieurs et se substitue à plusieurs directives, transposées en droit national notamment par le décret n° 73-357 du 14 mars 1973. Afin d'assurer l'exécution en France de ce règlement, d'application directe, le décret n° 2012-1235 du 6 novembre 2012, relatif aux fibres et produits textiles, a été pris en application des articles L. 214-1 à L. 214-3 du code de la consommation. Celui-ci a identifié les dispositions du règlement n° 1007/2011 qui constituent des mesures d'exécution de l'article L. 214-1 du code de la consommation. Ce décret permet de sanctionner pénalement les infractions aux dispositions du règlement précité par des contraventions de 3e classe, comme cela était déjà le cas avec le décret du 14 mars 1973. Ces infractions peuvent être recherchées et constatées, notamment par les agents de la concurrence, de la consommation et de la répression des fraudes, en vertu de l'article L. 215-1 du code de la consommation. Une enquête d'envergure nationale a été lancée par la direction générale de la concurrence, de la consommation et de la répression des fraudes au cours des 1er et 2e trimestres de l'année 2013, concernant la loyauté, la sécurité et l'étiquetage des produits textiles, et a conduit au contrôle de 1 102 établissements distincts. Toutefois les résultats de cette enquête, en cours d'exploitation, ne permettent pas à ce jour de dresser un bilan détaillé des anomalies constatées.
