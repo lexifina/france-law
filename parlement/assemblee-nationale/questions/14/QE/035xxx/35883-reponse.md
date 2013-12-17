@@ -1,0 +1,9 @@
+# Réponse à la question n° 35883
+
+- Question : [35883](35883.md) — Question n° 35883 — orientations
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Afin de prendre en compte les incertitudes qui entourent les évolutions projetées en matière de retraite, le Gouvernement prévoit, dans le cadre du projet de loi garantissant l'avenir et la justice du système de retraite en cours de discussion au Parlement, la mise en place d'un mécanisme de pilotage du système de retraite qui permette de garantir que les objectifs assignés au système de retraite seront respectés dans la durée, qu'il s'agisse d'objectifs financiers ou des objectifs de solidarité et d'équité. Le Comité de suivi des retraites assumera ainsi une triple mission de surveillance financière, d'observatoire des inégalités en matière de retraite et de suivi des dispositifs mis en place pour les corriger. A ce titre, le Comité surveillera notamment le taux de remplacement assuré par les pensions, le niveau relatif de pension des femmes, mais aussi par exemple le déploiement du compte de prévention de la pénibilité qu'il est proposé d'instaurer dans le projet de loi. Le comité aura également pour rôle d'analyser plus spécifiquement la situation comparée des hommes et des femmes au regard de l'assurance vieillesse, en tenant compte des différences de montants de pension, de la durée d'assurance respective et de l'impact des avantages familiaux de vieillesse sur les écarts de pensions. Le dispositif de pilotage constitue donc une innovation majeure, permettant de s'assurer du respect des objectifs assignés par la loi à l'assurance vieillesse, qu'il s'agisse des objectifs de pérennité financière, sur lesquels repose la confiance des jeunes générations dans la retraite par répartition, ou des objectifs d'équité, fondateurs du pacte social auquel nos concitoyens sont fortement attachés.
