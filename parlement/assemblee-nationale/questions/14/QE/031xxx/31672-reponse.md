@@ -1,0 +1,9 @@
+# Réponse à la question n° 31672
+
+- Question : [31672](31672.md) — Question n° 31672 — normes; formalités administratives; simplification
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Initialement prévus pour préserver les petites entreprises d'exigences trop lourdes pour leur taille, les seuils peuvent devenir des facteurs dissuasifs contrecarrant leur croissance. Le Gouvernement est particulièrement attentif à la situation des entreprises et en particulier de celles en croissance, créatrices d'emplois. Pour améliorer leur compétitivité, il a initié, dans le cadre de la modernisation de l'action publique, un vaste programme de simplification comprenant plus de 200 mesures, présenté lors du 3e comité interministériel pour la modernisation de l'action publique (CIMAP) le 17 juillet dernier. Parmi ces mesures, figurent des décisions concernant le droit du travail et notamment un allègement des contraintes consécutives au franchissement du seuil de 50 salariés. Désormais l'entreprise disposera d'un délai d'un an pour satisfaire à l'ensemble des obligations de transmission d'information au comité d'entreprise après sa constitution. Dans le domaine des seuils, les entreprises attendent une simplification des critères qui les définissent, comme par exemple, la date de prise en compte de l'effectif qui peut être une date donnée, une période donnée ou une moyenne sur une période donnée. L'hétérogénéité des terminologies utilisées pour constater le franchissement des seuils « moins de, à partir de, supérieur ou égal à » est aussi un élément de complexité pour l'entreprise. Ainsi, dès le premier CIMAP du 18 décembre 2012, il a été décidé d'améliorer la lisibilité et la cohérence des franchissements de seuils de nombre de salariés pour l'application de la législation fiscale et sociale (décision 13).
