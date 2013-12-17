@@ -1,0 +1,9 @@
+# Réponse à la question n° 32694
+
+- Question : [32694](32694.md) — Question n° 32694 — pièces d'identité; présentation; réglementation
+
+## Réponse
+
+*JO du 2013-12-17*
+
+L'article L. 131-15 du code monétaire et financier dispose que « toute personne qui remet un chèque en paiement doit justifier de son identité au moyen d'un document officiel portant sa photographie ». L'acceptation d'un chèque doit ainsi être subordonnée à une justification d'identité sur la base d'un document officiel, correspondant à la définition de la pièce d'identité. En s'abstenant de le faire, le commerçant engage sa responsabilité à l'égard du titulaire du compte dont le chéquier a été dérobé, le cas échéant. Certains commerçants demandent, souvent pour des sommes importantes, la production de deux pièces d'identité et non d'une seule, afin de rendre plus difficile la tâche des contrefacteurs. En effet, rien n'interdit, dans le cadre des relations contractuelles, d'exiger des garanties particulières supplémentaires afin de sécuriser davantage les paiements, sous réserve que les clients puissent connaître préalablement à toute transaction de telles conditions de paiement. Ainsi, la SNCF demande à ses clients qui règlent par chèque un paiement d'une valeur supérieure à 150 € de présenter deux pièces d'identité conformément aux informations affichées dans les points de vente de l'entreprise. Dans ces conditions, le premier document à présenter correspond aux pièces justificatives d'identité classiques : carte nationale d'identité, passeport, permis de conduire, titre de séjour, etc. Pour la seconde pièce, la SNCF exige qu'il s'agisse d'un document en cours de validité et comportant la photographie du titulaire. A titre d'exemple, l'entreprise accepte une carte professionnelle, une carte d'étudiant, un abonnement de transports, une licence sportive, etc.
