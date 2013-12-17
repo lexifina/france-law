@@ -1,0 +1,9 @@
+# Réponse à la question n° 39835
+
+- Question : [39835](39835.md) — Question n° 39835 — réforme; perspectives
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Le projet de loi accès au logement et à un urbanisme rénové (ALUR) entend promouvoir le PLUI sans porter atteinte aux communes. Aujourd'hui, force est de constater que la réalité du fonctionnement et de l'organisation des territoires fait de l'intercommunalité l'échelle la plus pertinente pour coordonner les politiques d'urbanisme, d'habitat et de déplacements. Pour affronter les questions d'étalement urbain, de préservation de la biodiversité, d'économie des ressources, le niveau communal n'est plus le mieux approprié. Les enjeux actuels exigent que ces questions soient prises en compte sur un territoire plus vaste. L'intercommunalité, territoire large, cohérent et équilibré, est l'échelle qui permet une mutualisation des moyens et des compétences et exprime la solidarité entre les territoires. Par ailleurs, lors de l'élaboration du plan local d'urbanisme (PLU) communautaire, les communes sont étroitement associées au processus. Le projet de loi ALUR en cours de discussion apporte de nouvelles garanties quant à la co-construction du document et la collaboration entre élus communautaires et communaux. Il offre également la possibilité à une minorité de blocage de s'opposer au transfert de la compétence PLU à la communauté si les conseils municipaux le jugent pertinent. De plus, le transfert de la compétence PLU aux communautés d'agglomération et aux communautés de communes ne s'accompagne pas du transfert de la compétence de la délivrance des autorisations d'urbanisme. Les maires doivent pouvoir connaître et maîtriser les constructions et aménagements sur le territoire communal. Ils conservent donc le pouvoir de délivrer les permis de construire et ainsi de contrôler la mise en oeuvre du PLU, même intercommunal.
