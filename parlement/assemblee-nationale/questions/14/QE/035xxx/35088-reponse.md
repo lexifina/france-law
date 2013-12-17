@@ -1,0 +1,9 @@
+# Réponse à la question n° 35088
+
+- Question : [35088](35088.md) — Question n° 35088 — financement; dépenses; limitation
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Comme vous le soulignez, la question du statut juridique des sociétés sportives a fait l'objet d'une proposition de recommandation dans le rapport d'information sur le fair-play financier européen et son application au modèle économique des clubs de football français déposé le 3 juillet 2013 par la commission des affaires culturelles et de l'éducation de l'assemblée nationale. La loi n° 2012-158 du 1er février 2012, visant à renforcer l'éthique du sport et les droits des sportifs, a modifié l'article L. 122-2 du code du sport relatif au statut des sociétés sportives en élargissant la possibilité pour ces dernières de relever du statut de droit commun des sociétés commerciales, comme les sociétés anonymes ou les sociétés par actions simplifiée. Il est à noter que la plupart des clubs ont conservé le statut de société anonyme à objet sportif (SAOS) et de société anonyme sportive professionnelle (SASP). Il est également important de rappeler que cette possibilité de recourir à ces statuts de droit commun n'est pas dérogatoire aux impératifs du code du sport relatifs, par exemple, à l'existence d'une convention entre la société et l'association support, la possession d'un numéro d'affiliation par l'association support, l'interdiction de la multipropriété des clubs au sein d'une même discipline, ou encore l'action du contrôle de gestion. Il apparaît important de réfléchir, dans la perspective de la prochaine loi de modernisation du sport, à la capacité d'action des contrôles de gestion à appréhender l'ensemble des montages financiers relatifs aux transferts et aux rémunérations, notamment dans le cas de société sportive constituée en régime de droit commun.
