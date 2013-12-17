@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONTRAT DE DELEGATION DE SERVICE PUBLIC POUR LA GESTION DES CRECHES, CENTRES DE LOISIRS ET AUTRES STRUCTURES PETITE ENFANCE DE LA VILLE D'AIX-EN-PROVENCE - PARTICIPATION FINANCIERE 2014.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2013-12-17
+- Séance : Conseil Municipal 1CA
+- Objet : CONTRAT DE DELEGATION DE SERVICE PUBLIC POUR LA GESTION DES CRECHES, CENTRES DE LOISIRS ET AUTRES STRUCTURES PETITE ENFANCE DE LA VILLE D'AIX-EN-PROVENCE - PARTICIPATION FINANCIERE 2014.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-5447-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
