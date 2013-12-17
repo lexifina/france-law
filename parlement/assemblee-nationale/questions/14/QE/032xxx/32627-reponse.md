@@ -1,0 +1,9 @@
+# Réponse à la question n° 32627
+
+- Question : [32627](32627.md) — Question n° 32627 — calendrier national; aménagement
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Les télédéclarants bénéficient d'un délai supplémentaire par rapport aux déclarants « papier », qui a pour objet de promouvoir la déclaration en ligne mais aussi d'étaler la charge des serveurs informatiques et garantir ainsi la qualité de service aux usagers. Afin de prendre en compte le cas des contribuables qui déclarent dans les derniers jours qui précèdent la date limite, la population des résidents a été partagée depuis les débuts de la télédéclaration en trois zones, avec des dates limites de dépôt distinctes (3, 7 et 11 juin en 2013). Cette répartition est réalisée depuis 2010 en fonction du numéro de département (n° 01 à 19, n° 20 à 49, puis n° 50 et suivants). Grâce à ces mesures, en 2013 comme les années précédentes, la déclaration en ligne est restée accessible tout au long de la période, y compris lors des pics d'affluence des usagers. Par ailleurs, cette année, le service de télédéclaration a été ouvert une semaine plus tôt - du 19 avril au 3 juin 2013 pour la première zone - laissant ainsi plus de six semaines aux contribuables pour déclarer en ligne. Cette durée apparaît suffisante pour que tous les contribuables qui télédéclarent accomplissent leurs obligations dans les délais. Outre le délai supplémentaire, ils bénéficient en effet de fonctionnalités telles que des calculs automatiques, des zones supplémentaires pré remplies et un affichage des pages profilé en fonction de leur situation permettant ainsi de déclarer plus rapidement et en toute sécurité. Cette organisation, qui est la garantie d'un service de qualité, a largement fait ses preuves et est désormais bien comprise par les contribuables. Il n'est donc pas envisagé à ce stade de la modifier.
