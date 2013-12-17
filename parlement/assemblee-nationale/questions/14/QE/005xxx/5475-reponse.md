@@ -1,0 +1,9 @@
+# Réponse à la question n° 5475
+
+- Question : [5475](5475.md) — Question n° 5475 — Cour des comptes; rapport 2012; conclusions
+
+## Réponse
+
+*JO du 2013-12-17*
+
+La Cour des comptes, dans sa recommandation 27, « simplifier la gestion des ressources humaines des agences régionales de santé (ARS) », préconise l'examen des modalités de mutations internes des fonctionnaires au sein d'une même ARS. L'affectation d'un fonctionnaire titulaire en ARS se déroule selon une même procédure applicable dans tous les services, d'administration centrale ou des services territoriaux, du ministère des affaires sociales et de la santé. Notamment, chaque fois que la mutation d'un agent emporte un changement de résidence administrative, la commission administrative paritaire (CAP) compétente pour le corps auquel appartient cet agent doit être consultée (article 60 de la loi n° 84-16 du 11 janvier 1984, portant dispositions statutaires relatives à la fonction publique de l'Etat). Si la loi n'a donné aucune définition précise de la résidence administrative, le Conseil d'Etat considère qu'il s'agit de la commune dans laquelle s'exercent les fonctions de l'agent (CE, 05/03/2001 Delpech). Pour les ARS, mais également pour tous les services territoriaux qui ont vocation à avoir une action régionale (comme les Directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (Direccte) ou les directions régionales de la jeunesse, des sports et de la cohésion sociale (DRJSCS)), cela signifie que la mutation d'un agent d'un département à l'autre d'une même région doit obtenir au préalable l'avis de la CAP compétente pour son corps. Le même article 60 de la loi du 11 janvier 1984 prévoit la possibilité d'une consultation de la CAP a posteriori, « dans le cas où il s'agit de remplir une vacance d'emploi compromettant le fonctionnement du service et à laquelle il n'est pas possible de pourvoir par un autre moyen, même provisoirement ».
