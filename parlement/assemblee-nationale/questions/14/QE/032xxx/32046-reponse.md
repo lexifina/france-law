@@ -1,0 +1,9 @@
+# Réponse à la question n° 32046
+
+- Question : [32046](32046.md) — Question n° 32046 — pensions; perspectives
+
+## Réponse
+
+*JO du 2013-12-17*
+
+La majoration de pension de 10 % pour les parents de trois enfants et plus accordée à chacun des deux parents trouve son origine dans la politique d'encouragement à la natalité. Toutefois, le caractère proportionnel de ces majorations les rend plus importantes pour les pensions élevées, et contribuent donc à accroître les écarts de pension, notamment entre hommes et femmes. La commission pour l'avenir des retraites présidée par Yannick Moreau s'est, dans son rapport, penchée sur la question et a examiné différents scénarios d'évolution ou de refonte des droits familiaux. Elle a notamment souligné combien les droits familiaux de retraite pouvaient, tout en améliorant sensiblement les pensions des femmes, créer des situations d'iniquité entre assurés et entre régimes. Toutefois, ce même rapport a souligné qu'il convenait d'approfondir les effets des différents scénarios de réforme, afin de ne pas risquer, par une redistribution trop rapide, de réduire brutalement les droits de certains assurés. En considérant que la question était à la fois centrale (les différents avantages représentent près de 15 Mds d'euros par an) et inaboutie, le rapport présenté par Madame Moreau proposait donc de poursuivre les travaux afin de réaliser une réforme ambitieuse mais progressive. Le projet de loi garantissant l'avenir et la justice du système de retraites propose donc de définir les contours d'une prochaine réforme à la lumière d'un rapport dédié qui sera remis dans les six mois au Parlement après la promulgation de la loi. Ce rapport devra formuler des propositions chiffrées, aux impacts précisément évalués, tout en veillant à ne pas changer les règles du jeu pour les assurés proches de la retraite.
