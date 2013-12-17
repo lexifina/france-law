@@ -1,0 +1,9 @@
+# Réponse à la question n° 8152
+
+- Question : [8152](8152.md) — Question n° 8152 — éducation du patient; rapport; propositions
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Le décret n° 2010-904 du 2 août 2010 relatif aux conditions d'autorisation des programmes d'éducation thérapeutique du patient dans son article R. 1161-3 donne la possibilité à un représentant dûment mandaté d'une association de patients agréée au titre de l'article L. 1114-1 de coordonner ce type de programme. Pour les programmes qui seraient coordonnés par un médecin ou un autre professionnel de santé, l'arrêté du 2 août 2010 relatif au cahier des charges des programmes d'éducation qui fixe la composition du dossier de demande de leur autorisation prévoit les items suivants à renseigner obligatoirement : le programme a-t-il été co-construit avec une association de patients agréée au titre de l'article L. 1114-1 du code de la santé publique ? Si oui, avec quelle association ? Cette association participera-t-elle au déroulement du programme ? Certaines agences régionales de santé en ont fait un critère prioritaire pour délivrer une autorisation. Par ailleurs, dans le cadre du plan pour l'amélioration de la qualité de vie des personnes atteintes de maladies chroniques 2007-2011, la direction générale de la santé a lancé, en 2010, un appel à projets dédié aux associations de malades et relatif aux conditions et modalités d'intervention des patients dans les programmes d'éducation thérapeutique du patient. Son évaluation externe, réalisée en 2012, atteste d'effets positifs induits par l'implication des patients et insiste sur des phases clés, tels le recrutement des patients intervenants, leur formation basée sur des compétences communes aux pathologies chroniques ou encore l'existence préalable d'un partenariat entre l'association et les professionnels de santé.
