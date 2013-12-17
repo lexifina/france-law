@@ -1,0 +1,9 @@
+# Réponse à la question n° 39851
+
+- Question : [39851](39851.md) — Question n° 39851 — rapport parlementaire; préconisations
+
+## Réponse
+
+*JO du 2013-12-17*
+
+La présidente et le rapporteur de la mission d'information sur la filière viande en France et en Europe, ont établi en juillet 2013 un rapport assorti de quarante propositions. Les propositions 14 et suivantes du rapport concernent la conciliation entre les normes environnementales et sanitaires et la compétitivité des entreprises. Elles préconisent de simplifier, voire d'abandonner, certaines normes. Conformément aux instructions du Premier ministre, toute norme nationale ayant un impact sur les entreprises est soumise à étude d'impact. Par ailleurs, le ministère de l'agriculture, de l'agroalimentaire et de la forêt est très attentif à la suppression des points de complexité inutiles qui lui sont signalés. Une feuille de route annuelle décrit ces travaux de simplification au nombre desquels figurent des mesures de simplification juridique. Il a en outre engagé la conception d'un outil de recensement des normes réglementaires (arrêtés ministériels) et infra-réglementaires (instructions) qui sera opérationnel au premier semestre 2014. Un site internet permettra à tout public de consulter ces normes classées par thèmes ou selon les plans des codes rural et de la pêche maritime et forestier. Les normes en vigueur seront distinguées des autres. Il sera possible ainsi d'objectiver la complexité et d'engager les travaux de simplification adaptés. En ce qui concerne les installations classées pour la protection de l'environnement, le Gouvernement étudie différentes mesures de simplification des instructions en expérimentant la mise en place d'un permis environnemental unique et d'un certificat de projet dans le contexte des États généraux de la modernisation du droit de l'environnement.
