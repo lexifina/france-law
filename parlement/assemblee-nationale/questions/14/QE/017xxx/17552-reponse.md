@@ -1,0 +1,9 @@
+# Réponse à la question n° 17552
+
+- Question : [17552](17552.md) — Question n° 17552 — salariés totalisant le plafond d'annuité avant l'âge légal; retraite anticipée
+
+## Réponse
+
+*JO du 2013-12-17*
+
+Le décret n° 2012-847 du 2 juillet 2012 relatif à l'âge d'ouverture du droit à pension de vieillesse prévoit l'ouverture du droit à la retraite anticipée à soixante ans pour les assurés justifiant de la durée d'assurance cotisée requise pour leur génération et ayant commencé à travailler avant vingt ans. Ceci revient à réduire de deux ans la condition de durée d'assurance exigée, par la suppression de la majoration de huit trimestres précédemment en vigueur. De plus, la condition de début d'activité a été étendue aux assurés ayant commencé avant 20 ans et pas seulement avant 18 ans. Enfin, le nombre de trimestres « réputés cotisés » est élargi : le nouveau dispositif ajoute aux quatre trimestres de service national et quatre trimestres de maladie, maternité, accidents du travail, précédemment retenus, deux trimestres de périodes de chômage indemnisé et deux trimestres supplémentaires liés à la maternité. Les assurés concernés par ce dispositif doivent demander une attestation de départ en retraite anticipée à l'assurance retraite, pièce nécessaire à l'instruction de leur demande qui ne peut pas être délivrée plus de six mois avant la date de départ en retraite anticipée. La production d'une attestation de retraite anticipée positive par la caisse nationale d'assurance vieillesse (CNAV) implique que l'assuré, qui a fait cette demande d'attestation, réunit les conditions pour partir en retraite anticipée. La pension n'est alors donc pas affectée par une décote puisque celle-ci ne s'applique que si l'assuré ne justifie pas de la durée d'assurance nécessaire pour bénéficier du taux plein, ce qui n'est absolument pas le cas dans le cadre d'une liquidation d'une retraite anticipée au titre de la carrière longue.
