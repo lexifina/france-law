@@ -2,124 +2,124 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel : technicien (ne) supérieur (e) gestionnaire exploitant (e) de ressources informatiques.
+Intitulé : technicien (ne) supérieur (e) gestionnaire exploitant (e) de ressources informatiques.
 
 Niveau : III.
 
-Code NSF : 326 u (informatique, traitement de l'information, réseaux transmission).
+Code NSF : 326 u.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) supérieur (e) gestionnaire exploitant (e) de ressources informatiques a pour mission de mettre en exploitation, suivre, sécuriser, optimiser et faire évoluer les ressources (infrastructures réseaux, serveurs et systèmes d'exploitation, bases de données, applications transverses et applications métier, etc.) nécessaires à la production attendue du système d'information de l'entreprise.
+Le (la) technicien (ne) supérieur (e) gestionnaire exploitant (e) de ressources informatiques (TSGERI) a pour mission d'assurer le bon fonctionnement du système informatique au niveau de service attendu par l'entreprise. Il (elle) est force de proposition et contribue aux évolutions du système informatique en s'appuyant sur ses compétences techniques et sa connaissance du métier de l'entreprise.
 
-Il (elle) exerce sa mission dans le respect des méthodes, normes, standards du marché, des contrats passés avec les fournisseurs et des contrats de services conclus avec les utilisateurs.
+Il (elle) installe, met en exploitation et supervise le fonctionnement des ressources informatiques (postes de travail, serveurs, systèmes, réseaux, bases de données, applications).
 
-Il (elle) met en place et assure le bon fonctionnement des éléments du système informatique, et participe à leur optimisation.
+Il (elle) organise et suit le déroulement des travaux de la production informatique.
 
-Il (elle) est chargé (e) de réaliser les opérations d'exploitation des ressources matérielles et logicielles dans le respect de la qualité de service et des règles de sécurité.
+Afin de fournir aux utilisateurs le service attendu, il (elle) maintient le système informatique en conditions opérationnelles, il (elle) diagnostique, résout ou fait remonter les incidents en sollicitant si nécessaire des intervenants internes ou externes.
 
-Il (elle) est disponible pour assister les utilisateurs à la mise en œuvre de leurs applications et des ressources nécessaires à leur bon fonctionnement.
+Il (elle) intègre de nouvelles ressources en prenant les mesures nécessaires au maintien de la disponibilité, de la continuité et de la qualité de service.
 
-Dans le cadre des évolutions courantes du système informatique (changement de version de logiciel, évolution des matériels ou des procédures, etc.), il (elle) prend les mesures nécessaires au maintien de la qualité de service.
+Suite à une demande d'un utilisateur, ou dans le cadre d'une intervention planifiée, il (elle) réalise ou pilote des opérations de maintenance, et contrôle la conformité des interventions.
 
-Le (la) technicien (ne) supérieur (e) gestionnaire exploitant (e) de ressources informatiques est très impliqué (e) dans la production cœur de métier » de l'entreprise.
+Il (elle) est disponible pour assurer l'assistance, le conseil, ou des formations courtes sur des outils informatiques auprès des utilisateurs.
 
-Pour garantir le bon fonctionnement et l'interopérabilité entre les applications métier, les bases de données et les systèmes informatiques, il (elle) s'appuie sur un double faisceau de compétences :
+Il (elle) applique la politique de sécurité informatique de l'entreprise et assure les sauvegardes et l'archivage des données.
 
-- les compétences d'ordre technique qui lui confèrent sa capacité opérationnelle ;
+Il (elle) effectue une veille technologique et préconise aux décideurs des choix techniques. Il (elle) propose des solutions pour faire évoluer le système informatique en prenant en compte les processus métiers, et participe à la mise en œuvre de ces évolutions en s'inscrivant dans une démarche projet.
 
-- la connaissance métier » du domaine fonctionnel de l'entreprise.
+Il (elle) exerce ses missions dans le respect des méthodes, des normes et standards du marché, des règles de sécurité, et des contrats de service.
 
-C'est un (e) exploitant (e) polyvalent (e) très au fait des évolutions technologiques grâce à une veille appropriée.
+Il (elle) peut être employé (e) dans une PME/ PMI, une grande entreprise, un service public, ou en SSII.
 
-Il (elle) assure ou participe aux études préalables visant à élaborer des solutions adaptées à l'organisation de l'entreprise, en tenant compte des contraintes techniques et financières du projet. Il (elle) a une délégation importante en termes de choix de solutions techniques et de suivi de contrats avec les fournisseurs et prestataires.
+Il (elle) peut être amené à travailler les jours non ouvrés, avec des possibilités d'astreintes ou de travail en horaires décalés ainsi qu'à se déplacer sur différents sites.
 
-Il (elle) occupe une fonction d'interface privilégiée avec les clients (internes ou externes), les décideurs (maîtrise d'ouvrage), ainsi que les partenaires externes (prestataires et fournisseurs).
+Dans les petites structures et les PME/ PMI, ses missions peuvent couvrir l'ensemble des phases de l'exploitation et de la production informatique. Il (elle) présente un profil polyvalent et s'appuie, s'il y a lieu, sur des prestataires. Il (elle) peut occuper la fonction de responsable d'exploitation ou de production informatique.
 
-Ce travail nécessite l'utilisation de la langue anglaise.L'exploitation des documents constructeurs, des notes d'application techniques, des aides en ligne, des sites consultés sur internet, ou le recours aux supports techniques se fait le plus souvent en anglais.
+Dans les grandes entreprises, il (elle) est encadré (e) par un responsable d'exploitation ou de production informatique.
 
-Capacités attestées et descriptif
+Il (elle) est l'interlocuteur privilégié des clients (internes ou externes), des décideurs (maîtrise d'ouvrage), ainsi que des partenaires externes, prestataires et fournisseurs.
 
-des composantes de la certification
+L'utilisation de l'anglais est nécessaire pour comprendre des documentations techniques et échanger avec des correspondants étrangers.
 
-1. Assurer l'administration et l'exploitation courantes
+Capacités attestées et descriptif des composantes de la certification
 
-d'un serveur, d'un réseau et des postes de travail connectés
+1. Exploiter et administrer les postes de travail, les serveurs et les réseaux
 
-Configurer et maintenir les postes de travail connectés, et optimiser leurs performances.
+Installer et configurer un poste de travail
 
-Configurer et maintenir les serveurs informatiques, et optimiser leurs performances.
+Installer et configurer un serveur
 
-Exploiter et sécuriser les réseaux locaux de l'entreprise.
+Exploiter et gérer le réseau local
 
-Exploiter et sécuriser les infrastructures de télécommunications du système informatique.
+Exploiter et gérer les infrastructures de télécommunications
 
-Assister et conseiller les utilisateurs.
+Assister, conseiller et former les utilisateurs
 
-Utiliser l'anglais dans son activité professionnelle en informatique.
+Utiliser l'anglais dans son activité professionnelle en informatique
 
-2. Exploiter et mettre en exploitation les ressources
+2. Exploiter et administrer les services fournis par la production informatique
 
-d'un système informatique
+Mettre en œuvre et exploiter les applications collaboratives
 
-Suivre et optimiser les performances des applications collaboratives (groupware).
+Mettre en œuvre et exploiter une base de données et manipuler les données
 
-Suivre et optimiser les performances des bases de données.
+Mettre en œuvre et exploiter une application métier
 
-Suivre et optimiser les performances des applications métier du système informatique.
+Mettre en œuvre la protection du système d'information
 
-Mettre en exploitation une ressource informatique.
+Administrer et maintenir en conditions opérationnelles les services fournis par la production informatique
 
-Gérer la sécurité physique et logique d'accès aux ressources.
+3. Proposer et intégrer des solutions pour l'évolution du système informatique
 
-Administrer la production informatique.
+Gérer un projet simple en informatique
 
-Rétablir la production dans les conditions habituelles suite à un incident d'exploitation.
+Evaluer et proposer une ressource informatique répondant à des besoins nouveaux
 
-Former aux nouveaux outils informatiques les utilisateurs et le personnel informatique.
+Réaliser l'intégration d'une ressource informatique
 
-3. Proposer aux décideurs des solutions techniquement et financièrement valides lors des évolutions du système informatique
+Participer à l'amélioration de la qualité de service et contribuer à la continuité informatique
 
-Evaluer de nouvelles ressources informatiques et participer à leurs choix.
+Assurer la veille technologique en prenant en compte l'environnement métier
 
-Proposer des solutions pour améliorer l'exploitation courante des ressources informatiques.
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
-Préparer les contrats de services avec les directions utilisatrices de l'informatique.
+Tous les secteurs d'activités sont concernés par ce métier qui peut s'exercer dans toute structure utilisatrice : entreprise, service public, collectivité territoriale, ou en SSII.
 
-Participer à l'élaboration des budgets du service informatique.
+Les types d'emplois accessibles sont les suivants :
 
-Evaluer les contraintes de la production informatique qui doivent être prises en compte par les nouveaux projets.
+Technicien d'exploitation ;
 
-Rechercher et analyser les changements dans l'entreprise, les évolutions technologiques et les modifications du cadre juridique en informatique.
+Pilote d'exploitation ;
 
-Secteurs d'activités ou types d'emploi accessibles
+Analyste d'exploitation ;
 
-par le détenteur du titre
+Administrateur système et réseau.
 
-Le (la) technicien (ne) supérieur (e) gestionnaire exploitant (e) de ressources informatiques peut être employé dans une PME / PMI, dans une unité décentralisée d'une grande entreprise ou d'une administration, ou en SSII.
+Codes ROME :
 
-Ce métier s'exerce dans des contextes variables en fonction du type d'infrastructure technique, de la taille de l'entreprise et de la nature des applications métier mises en œuvre.
+M1801-Administration de systèmes d'information ;
 
-Au sein d'une PME / PMI, le (la) technicien (ne) supérieur (e) gestionnaire exploitant (e) de ressources informatiques se voit confier des missions qui peuvent couvrir l'ensemble des phases de l'exploitation et de la production informatique. Il (elle) peut intervenir sur un projet, ou sur plusieurs projets simultanément, selon leur durée ou leur complexité.
-
-Code ROME :
-
-32311-Informaticien (ne) d'exploitation.
+M1810-Production et exploitation de systèmes d'information.
 
 Réglementation de l'activité :
 
-Néant.
-
-Cette certification est accessible à compter du 18 décembre 2008.
+Néant
 
 Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
+Liens avec d'autres certifications :
+
+Néant
+
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6, R. 335-13 et R. 338-2 ;
 
-Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
+Arrêté du 9 mars 2006 modifié relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi ;
+
+Arrêté du 8 décembre 2008 modifié relatif au règlement général des sessions de validation conduisant au titre professionnel du ministère chargé de l'emploi.
+
+La réglementation applicable à ce titre professionnel est mise en œuvre à compter du 18 décembre 2013.
