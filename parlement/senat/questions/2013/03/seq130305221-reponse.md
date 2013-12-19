@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305221
+
+- Question : [SEQ130305221](seq130305221.md) — Situation des buralistes
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2013-12-19, page 3638*
+
+Les 27 500 buralistes représentent un important commerce de proximité, réparti sur tout le territoire. Aujourd'hui, leur principale activité est représentée par la vente des produits du tabac. La situation des buralistes vient de faire l'objet de constats circonstanciés de la Cour des Comptes. Comme le recommande la Cour des comptes, il est nécessaire de travailler, avec la profession, à une évolution des modalités de sa rémunération et à une diversification de ses activités. À l'occasion de la journée mondiale sans tabac, des mesures pour lutter contre le tabagisme en France ont été annoncées par le Gouvernement. Le tabac est la première cause de mortalité en France et est responsable de 73 000 décès chaque année. La stratégie annoncée par la ministre des affaires sociales et de la santé portera en priorité sur les jeunes et les femmes et repose sur un ensemble de mesures : un logo pour alerter les femmes enceintes sur les paquets de cigarettes, une mesure d'aide au sevrage dans le projet de loi de financement de la sécurité sociale de 2014, une extension des lieux ouverts sans tabac par mobilisation de collectivités locales volontaires et de la restauration et de l'hôtellerie, une campagne de communication de l'institut national de prévention et d'éducation pour la santé (INPES) pour 2013. S'agissant de la cigarette électronique, la ministre a annoncé l'interdiction de la publicité et de la vente aux mineurs de même que la mise à l'étude, sous réserve de sa faisabilité juridique, de l'interdiction de vapoter dans les lieux où il est interdit de fumer. Enfin, la hausse de la fiscalité sur le tabac de 5 % s'applique depuis le 1er juillet 2013, comme prévu dans la loi de financement de la sécurité sociale.
