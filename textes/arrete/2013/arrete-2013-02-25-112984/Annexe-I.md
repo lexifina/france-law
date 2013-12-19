@@ -116,8 +116,30 @@ L'autorisation mentionne les espèces pêchées par le couple navire-armateur ti
 
 |
 
+Points 3 et suivants de la recommandation 13/02 de la Commission des thons de l'océan Indien
+
+|
+
+La pêche des thons et espèces apparentées (***) en zones statistiques de la FAO 51 et 57 et les mers adjacentes situées au nord de la convergence Antarctique est soumise à la détention d'une autorisation de pêche ORGP "Thons et espèces apparentées en zone CTOI".
+
+|
+
+Dix jours ouvrés avant la date d'entrée dans la zone CTOI.
+
+|
+
+Sont éligibles les navires battant pavillon français ayant accès aux espèces visées par la recommandation dans la zone CTOI.
+
+|
+
+L'autorisation mentionne les engins utilisés par le couple navire-armateur titulaire de l'autorisation.
+
+|
+
 (*) Une prise active d'espadon en mer Méditerranée s'entend pour toute marée où les captures d'espadon représentent plus de 5 % en poids des captures totales du navire.
 
 (**) Longueur maxillaire inférieure-fourche.
+
+(***) Albacore (Thunnus albacares), listao ou bonite à ventre rayé (Katsuwonus pelamis), patudo ou thon obèse (Thunnus obesus), germon (Thunnus alalunga), thon rouge du sud (Thunnus maccoyii), thon mignon (Thunnus tonggo), thonine orientale (Euthynnus affinis), auxide (Auxis thazard), Bonitou (Auxis rochei), thazard rayé (Scomberomorus commersoni), thazard ponctué (Scomberomorus guttatus), makaire bleu (Makaira nigricans), makaire noir (Makaira indica), marlin rayé (Tetrapturus audax), voilier de l'Indo-Pacifique (Istiophorus platypterus), espadon (Xiphias gladius).
 
 |
