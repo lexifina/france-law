@@ -2178,15 +2178,15 @@ I. - Officiers supérieurs
 
 |
 
-1 (a)
+1
 
 |
 
-1 (a)
+1
 
 |
 
-3 (a)
+3
 
 |
 
@@ -2452,7 +2452,7 @@ A défaut total ou partiel de volontaires au niveau de l'une ou de plusieurs des
 
 (**) Autres catégories : tirage au sort au niveau national.
 
-(a) Ce poste doit être attribué en priorité à un officier du corps technique et administratif de la gendarmerie.
+(a) Supprimé.
 
 (b) A défaut, sous-officier supérieur CSTAGN.
 
