@@ -3226,6 +3226,16 @@ Emplois spécifiques
 
 |
 
+Coordonnateur pour la sécurité auprès des préfets de Haute-Corse et de Corse-du-Sud |
+
+1
+
+|
+
+120
+
+|
+
 Sous-préfet secrétaire général de la zone de défense et de sécurité Sud
 
 |
