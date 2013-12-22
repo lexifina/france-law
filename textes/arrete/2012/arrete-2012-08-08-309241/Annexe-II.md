@@ -82,7 +82,7 @@ La sécurité des casernes.
 
 Les missions de maintien de l'ordre et de défense de l'unité.
 
-L'intervention professionnelle.
+La défense et l'autoprotection.
 
 Les systèmes d'information et de communication en usage dans les unités de gendarmerie départementale et de gendarmerie mobile.
 
