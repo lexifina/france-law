@@ -1,0 +1,9 @@
+# Réponse à la question n° 38816
+
+- Question : [38816](38816.md) — Question n° 38816 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2013-12-24*
+
+La loi de finances initiale pour 2013 a étendu le régime du crédit d'impôt recherche (CIR) à certaines dépenses d'innovation en faveur des petites et moyennes entreprises (PME). Ce nouveau dispositif permet aux PME au sens du droit communautaire de prendre en compte dans l'assiette de leur CIR certaines dépenses d'innovation relatives à la réalisation d'opérations de conception de prototypes ou d'installations pilotes de nouveaux produits. Ces dépenses entrent dans la base du CIR dans la limite de 400 000 € par an et le taux applicable est de 20%. Le dispositif du CIR s'inscrivant dans un système déclaratif classique (dépenses de l'année N déclarées en N+1), les premières déclarations comportant des dépenses d'innovation seront déposées en 2014 pour les dépenses engagées en 2013. L'instruction fiscale clarifiant les dépenses éligibles a été publiée par l'administration fiscale sur le site BOFIP-impôts (bulletin officiel des finances publiques-impôts) le 9 octobre 2013. En parallèle, le ministère de l'économie et des finances, le ministère du budget et le ministère de l'enseignement supérieur et de la recherche travaillent à la rédaction et modification des différents imprimés nécessaires à la mise en oeuvre de cet élargissement notamment dans le cadre du contrôle et des procédures de rescrit et d'agrément. Le MESR pourra inclure le traitement des premières déclarations relatives au crédit d'impôt innovation dans sa publication des chiffres du CIR déclaré au titre de l'année 2013. Cette publication annuelle sera ainsi enrichie d'une section spécifique qui permettra d'observer les demandes des entreprises et de préciser le profil des déclarantes.
