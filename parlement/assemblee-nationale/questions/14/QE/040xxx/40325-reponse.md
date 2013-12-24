@@ -1,0 +1,9 @@
+# Réponse à la question n° 40325
+
+- Question : [40325](40325.md) — Question n° 40325 — commerce; réglementation
+
+## Réponse
+
+*JO du 2013-12-24*
+
+La loi de modernisation de l'économie (LME) du 4 août 2008 a effectivement introduit un outil supplémentaire pour le règlement du plan local d'urbanisme (PLU) à l'article L. 123-1-5-7° bis du code de l'urbanisme permettant d'« identifier et délimiter les quartiers, îlots, voies dans lesquels doit être préservée ou développée la diversité commerciale, notamment à travers les commerces de détail et de proximité, et définir, le cas échéant, les prescriptions de nature à assurer cet objectif ». Les PLU peuvent par exemple autoriser les nouvelles constructions sous condition que leurs rez-de-chaussée soient destinés à une activité commerciale ou interdire les changements de destination des locaux commerciaux, ou établir des plafonds de surface. Ces restrictions d'implantation doivent être fondées sur des motifs d'urbanisme et non de concurrence, être strictement circonscrites géographiquement et ne pas être générales et absolues. Le projet de loi pour l'accès au logement et un urbanisme rénové, qui sera prochainement examiné en seconde lecture par le Parlement, prévoit dans son article 73 « qu'un décret en Conseil d'État fixe la liste des destinations des constructions que les règles édictées par les plans locaux d'urbanisme et les schémas de cohérence territoriales peuvent prendre en compte. Cette liste permet notamment de distinguer les locaux destinés à des bureaux, ceux destinés à des commerces et ceux destinés à des activités de services où s'effectue l'accueil d'une clientèle ». Cette disposition, introduite par amendement, rejoint la volonté du Gouvernement, qui souhaite réexaminer la rédaction de l'article R. 123-9 du code de l'urbanisme listant les différentes destinations que peuvent réglementer les PLU pour améliorer la prise en compte des problématiques commerciales.
