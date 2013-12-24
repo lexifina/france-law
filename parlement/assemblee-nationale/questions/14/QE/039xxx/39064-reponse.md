@@ -1,0 +1,9 @@
+# Réponse à la question n° 39064
+
+- Question : [39064](39064.md) — Question n° 39064 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2013-12-24*
+
+Dans son rapport du 24 juillet 2013, portant sur les relations entre l'État et les sociétés concessionnaires d'autoroutes, la Cour des comptes recommande d'élaborer une doctrine relative au champ des opérations compensables de définir avec plus de précision le bon état du patrimoine, et de préciser les attentes du concédant relatives aux biens de retour et aux biens de reprise. Les premiers contrats de concession autoroutiers ont été signés à la fin des années 1950, et s'achèvent entre 2027 et 2033, selon les sociétés. Ces contrats ont permis de financer durant plusieurs décennies la conception, la construction et l'exploitation de l'ensemble du réseau concédé français, sans peser sur le contribuable national. A une quinzaine d'année de la fin des contrats, l'État s'organise, en effet, pour être en mesure de revenir, à terme, en possession d'infrastructures performantes et dans un bon état de fonctionnement. C'est pourquoi, le ministère chargé des transports, de la mer et de la pêche reprend pleinement à son compte les recommandations de la Cour visant à établir une définition précise du bon état du patrimoine, et à préciser les attentes de l'État concédant vis-à-vis des biens de retour et des biens de reprise. S'agissant des opérations compensables, l'État applique le droit en vigueur, essentiellement jurisprudentiel, relatif à la mutabilité des délégations de service public. Ne sont compensées que les investissements complémentaires exigés de manière unilatérale par le concédant, et qui ne font pas partie des obligations normales du concessionnaires dans le cadre de son contrat. Le champ des opérations compensables est ajusté périodiquement, en fonction des évolutions des technologies, mais aussi de la réglementation nationale et communautaire.
