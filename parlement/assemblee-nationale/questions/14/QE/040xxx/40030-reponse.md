@@ -1,0 +1,9 @@
+# Réponse à la question n° 40030
+
+- Question : [40030](40030.md) — Question n° 40030 — convention d'objectifs; mise en application
+
+## Réponse
+
+*JO du 2013-12-24*
+
+La convention d'objectifs pour les quartiers prioritaires de la politique de la ville 2013-2015 du 7 octobre 2013 dispose que le ministère chargé de l'éducation nationale affectera au moins 25 % des postes créés pour le dispositif « plus de maîtres que de classes » aux écoles en zone urbaine sensible (ZUS). Pour la rentrée 2013, une enquête menée par la direction de l'évaluation, de la prospective et de la performance montre qu'au moins 35 % des postes dédiés à ce dispositif relèvent d'écoles situées en zones urbaines sensibles. Les mesures de la rentrée 2013, notamment celles allouées pour le dispositif « plus de maîtres que de classes », correspondent aux moyens supplémentaires permis par l'apport d'enseignement des étudiants reçus à la session anticipée des concours pour la rentrée 2014 en préfiguration de la réforme de la formation initiale. Ces étudiants, en sus de la formation délivrée par les nouvelles écoles supérieures du professorat et de l'éducation, peuvent en effet, suivre un stage en responsabilité dans les écoles. Leur participation permet d'affecter, à due concurrence, des moyens d'enseignement à la lutte contre la difficulté scolaire. Il ne s'agit pas des moyens supplémentaires programmés à hauteur de 7 000 ETP par la loi du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République, moyens d'enseignement qui ne seront pas affectés avant la rentrée 2015 compte tenu de la priorité donnée en 2013 et 2014 à la réforme de la formation initiale. Ce n'est qu'à cette échéance qu'un bilan pourra être fait des engagements du ministère de l'éducation nationale au regard de cette convention d'objectifs 2013-2015.
