@@ -1,0 +1,9 @@
+# Réponse à la question n° 39062
+
+- Question : [39062](39062.md) — Question n° 39062 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2013-12-24*
+
+Dans son rapport publié le 24 juillet dernier, la Cour des comptes propose de réaliser systématiquement une contre-expertise, formalisée et documentée, de tous les coûts prévisionnels des investissements ainsi que le bilan des contrats de plan précédent (bilan financier dit de « l'article 7-5 » et des surcoûts éventuels), le bilan des surcoûts d'exploitation et des coûts de renouvellement. A chaque ouverture de négociation d'un contrat de plan, l'État fait systématiquement le bilan du contrat précédent au titre d'un certain nombre d'articles du contrat de concession, notamment l'article 7-5, qui prévoient des pénalités de retard ou de non-exécution des obligations du concessionnaire. Ce bilan fait très régulièrement apparaitre un débit de la société concessionnaire envers l'État, qui est intégré dans l'équilibre du contrat suivant. Toutefois, les contrats de concession sont aux risques et périls du concessionnaire, ce qui implique que l'État n'ouvre aucune négociation, a posteriori, si les trafics ou les coûts de travaux diffèrent des prévisions. Si l'État maintient bien ses connaissances à jour de manière à optimiser ses positions de négociation pour l'avenir, il refuse d'établir un bilan contradictoire sur ces paramètres, car ce serait courir le risque de reconnaître qu'en cas de surcoût ou de trafic moins élevé que prévu, le concessionnaire serait légitime à être indemnisé par l'État. S'agissant des coûts, les services de l'État, avec l'appui du réseau scientifique et technique du ministre chargé des transports, constituent une expertise unique qui s'enrichit des bilans des opérations routières réalisées. Les services de l'État s'attacheront à reprendre la recommandation de la Cour des comptes par une meilleure formalisation des expertises de ses services sur les autoroutes.
