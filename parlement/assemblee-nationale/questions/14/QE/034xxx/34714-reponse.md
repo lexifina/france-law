@@ -1,0 +1,9 @@
+# Réponse à la question n° 34714
+
+- Question : [34714](34714.md) — Question n° 34714 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2013-12-24*
+
+Dans le cadre de la réflexion qui a conduit à la création d'une première année commune aux études de santé, il est apparu souhaitable de mettre en place une commission pédagogique nationale des études de santé composée de quatre sous-commissions spécialisées concernant les études médicales, odontologiques, pharmaceutiques et de maïeutique, instance permettant de poursuivre cette réflexion partagée. Cette commission a été créée par le décret n° 2010-762 du 7 juillet 2010 et comprend 42 membres. En formation plénière, la commission pédagogique nationale des études de santé est chargée d'émettre des avis et de faire des propositions relatives aux questions communes aux études médicales, pharmaceutiques, odontologiques et de maïeutique, d'analyser et de favoriser la diffusion des expériences pédagogiques les plus intéressantes. Elle assure également le suivi de la mise en place de la réforme instaurant la première année commune aux études de santé (PACES) et des mesures réglementaires nécessaires pour assurer l'intégration des études de santé dans l'espace européen de l'enseignement supérieur. Les sous-commissions spécialisées sont, quant à elles, chargées d'émettre des avis et de faire des propositions relatives aux questions pédagogiques spécifiques concernant respectivement les études médicales, pharmaceutiques, odontologiques et de maïeutique. Elles préparent notamment l'élaboration et la révision régulière des maquettes de formation conduisant aux diplômes entrant dans leur champ de compétences respectif. La commission et ses sous-commissions se sont réunies une vingtaine de fois sur l'année 2013, entraînant des frais à hauteur de 30 000 euros.
