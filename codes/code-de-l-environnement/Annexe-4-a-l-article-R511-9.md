@@ -1242,7 +1242,7 @@ DC
 
 |
 
-Métaux et alliages (travail mécanique des)
+Travail mécanique des métaux et alliages
 
 |
 
@@ -1254,19 +1254,7 @@ Métaux et alliages (travail mécanique des)
 
 |
 
-La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure à 500 kW
+A. Installations dont les activités sont classées au titre des rubriques 3230-a ou 3230-b
 
 |
 
@@ -1274,23 +1262,35 @@ A
 
 |
 
-2
-
-|
-
-1. La puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant supérieure à 500 kW
-
-|
-
 3
 
 |
 
-2. supérieure à 50 kW, mais inférieure ou égale à 500 kW
+|
 
 |
 
-D
+B. Autres installations que celles visées au A, la puissance installée de l'ensemble des machines fixes concourant au fonctionnement de l'installation étant :
+
+1. Supérieure à 1 000 kW
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+2. Supérieure à 150 kW, mais inférieure ou égale à 1 000 kW
+
+|
+
+DC
 
 |
 
@@ -1304,11 +1304,11 @@ D
 
 |
 
-Métaux et alliages (trempe, recuit ou revenu)
+Production industrielle par trempe, recuit ou revenu de métaux et alliages
 
 |
 
-D
+DC
 
 |
 
@@ -1322,31 +1322,11 @@ D
 
 |
 
-Bains de sels fondus (chauffage et traitements industriels par l'intermédiaire de)
-
-|
-
-|
-
-|
-
-|
-
-|
+Chauffage et traitement industriels par l'intermédiaire de bains de sels fondus.
 
 Le volume des bains étant :
 
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieur à 500 l
+1. Supérieur à 500 l
 
 |
 
@@ -1362,11 +1342,61 @@ A
 
 |
 
-2. supérieur à 100 l, mais inférieur ou égal à 500 l
+2. Supérieur à 100 l, mais inférieur ou égal à 500 l
 
 |
 
 DC
+
+|
+
+|
+
+|
+
+|
+
+2563
+
+|
+
+Nettoyage-dégraissage de surface quelconque, par des procédés utilisant des liquides à base aqueuse ou hydrosolubles à l'exclusion des activités de nettoyage-dégraissage associées à du traitement de surface.
+
+La quantité de produit mise en œuvre dans le procédé étant :
+
+1. Supérieure à 7 500 l
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2. Supérieure à 500 l, mais inférieure ou égale à 7 500
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -1380,7 +1410,7 @@ DC
 
 |
 
-Nettoyage, dégraissage, décapage de surfaces (métaux, matières plastiques, etc.) par des procédés utilisant des liquides organohalogénés ou des solvants organiques (1).
+Nettoyage, dégraissage, décapage de surfaces quelconques par des procédés utilisant des liquides organohalogénés ou des solvants organiques.
 
 |
 
@@ -1392,7 +1422,7 @@ Nettoyage, dégraissage, décapage de surfaces (métaux, matières plastiques, e
 
 |
 
-Le volume des cuves de traitement étant :
+A. Pour les liquides organohalogénés ou des solvants organiques volatils (1), le volume équivalent des cuves de traitement étant :
 
 |
 
@@ -1400,13 +1430,11 @@ Le volume des cuves de traitement étant :
 
 |
 
-1. Le volume des cuves de traitement étant :
-
 |
 
 |
 
-1. supérieur à 1 500 l
+1. Supérieur à 1 500 l
 
 |
 
@@ -1418,29 +1446,11 @@ A
 
 |
 
-a) supérieur à 25 000 l
-
-|
-
-4
-
 |
 
 |
 
-|
-
-|
-
-b) supérieur à 5 000 l, mais inférieur ou égal à 25 000 l
-
-|
-
-1
-
-|
-
-2. supérieur à 200 l, mais inférieur ou égal à 1 500 l
+2. Supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
 |
 
@@ -1454,7 +1464,7 @@ DC
 
 |
 
-3. supérieur à 20 l, mais inférieur ou égal à 200 l lorsque des solvants à phrase de risque R 45, R 46, R 49, R 60, R 61 ou des solvants halogénés étiquetés R 40 sont utilisés dans une machine non fermée (2)
+3. Supérieur à 20 l, mais inférieur ou égal à 200 l lorsque des solvants de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60, R61 ou des solvants halogénés de mention de danger H341 ou étiquetés R40 sont utilisés dans une machine non fermée (2)
 
 |
 
@@ -1468,7 +1478,19 @@ DC
 
 |
 
-(1) Solvant organique : tout composé organique volatil (composé organique ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières), utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur.
+B. Pour des solvants non visés en A ou pour des procédés utilisés sous-vide (3), le volume des cuves étant supérieur à 200 l
+
+|
+
+DC |
+
+|
+
+|
+
+|
+
+(1) Solvant organique volatil : tout composé organique volatil (composé organique ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières), utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur.
 
 |
 
@@ -1492,11 +1514,23 @@ DC
 
 |
 
+(3) Un procédé est considéré comme sous-vide si, en fonctionnement normal, un vide complet est effectué avant toute ouverture de la machine et s'il n'y a aucune manipulation manuelle des produits y compris pendant les opérations de remplissage et d'élimination.
+
+|
+
+|
+
+|
+
+|
+
+|
+
 2565
 
 |
 
-Revêtement métallique ou traitement (nettoyage, décapage, conversion, polissage, attaque chimique, vibro-abrasion, etc.) de surfaces (métaux, matières plastiques, semi-conducteurs, etc.) par voie électrolytique ou chimique, à l'exclusion du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564.
+Revêtement métallique ou traitement (nettoyage, décapage, conversion dont phosphatation, polissage, attaque chimique, vibro-abrasion, etc.) de surfaces quelconques par voie électrolytique ou chimique, à l'exclusion du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564 et du nettoyage-dégraissage visé par la rubrique 2563.
 
 |
 
@@ -1508,7 +1542,21 @@ Revêtement métallique ou traitement (nettoyage, décapage, conversion, polissa
 
 |
 
-1. Lorsqu'il y a mise en œuvre de cadmium
+1. Lorsqu'il y a mise en œuvre :
+
+|
+
+|
+
+|
+
+1. Quelle que soit la capacité |
+
+4
+
+|
+
+a) De cadmium
 
 |
 
@@ -1520,15 +1568,27 @@ A
 
 |
 
-1. Quelle que soit la capacité
+|
 
 |
 
-4
+b) De cyanures, le volume des cuves étant supérieur à 200 l
 
 |
 
-2. Procédés utilisant des liquides (sans mise en œuvre de cadmium, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
+A
+
+|
+
+1
+
+|
+
+|
+
+|
+
+2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de cyanures, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant :
 
 |
 
@@ -1542,7 +1602,7 @@ A
 
 |
 
-a) supérieur à 1 500 l
+a) Supérieur à 1 500 l
 
 |
 
@@ -1576,7 +1636,7 @@ supérieur à 5 000 l, mais inférieur ou égal à 25 000 l
 
 |
 
-b) supérieur à 200 l, mais inférieur ou égal à 1 500 l
+b) Supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
 |
 
@@ -1590,7 +1650,7 @@ DC
 
 |
 
-3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium
+3. Traitement en phase gazeuse ou autres traitements sans mise en œuvre de cadmium ou de cyanures
 
 |
 
@@ -1622,23 +1682,63 @@ DC
 
 |
 
-Métaux (décapage ou nettoyage des) par traitement thermique
+Nettoyage, décapage des métaux par traitement thermique :
 
 |
 
-A
+|
 
 |
 
-1
+|
 
 |
 
-Quelle que soit la capacité
+1. La capacité volumique du four étant :
 
 |
 
-1
+|
+
+|
+
+|
+
+|
+
+a) Supérieure à 2 000 l
+
+|
+
+A |
+
+1 |
+
+|
+
+|
+
+b) Supérieure à 500 l, mais inférieure ou égale à 2 000 l
+
+|
+
+DC |
+
+|
+
+|
+
+|
+
+2. En absence de four, la puissance étant supérieure ou égale à 3 000 W
+
+|
+
+A |
+
+1 |
+
+|
 
 |
 
@@ -1646,15 +1746,83 @@ Quelle que soit la capacité
 
 |
 
-Métaux (galvanisation, étamage de) ou revêtement métallique d'un matériau quelconque par immersion ou par pulvérisation de métal fondu
+Galvanisation, étamage de métaux ou revêtement métallique d'un matériau quelconque par un procédé autre que chimique ou électrolytique.
 
 |
 
-A
+|
 
 |
 
-1
+|
+
+|
+
+1. Procédés par immersion dans métal fondu, le volume des cuves étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieur à 1 000 l
+
+|
+
+A |
+
+1 |
+
+|
+
+|
+
+b) Supérieur à 100 l, mais inférieur ou égal à 1 000 l
+
+|
+
+DC |
+
+|
+
+|
+
+|
+
+2. Procédés par projection de composés métalliques, la quantité de composés métalliques consommée étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Supérieure à 200 kg/ jour
+
+|
+
+A |
+
+1 |
+
+|
+
+|
+
+b) Supérieure à 20 kg/ jour mais inférieure ou égale à 200 kg/ jour
+
+|
+
+DC |
 
 |
 
@@ -4988,7 +5156,7 @@ A
 
 |
 
-Refroidissement par dispersion d'eau dans un flux d'air (installations de)
+Refroidissement évaporatif par dispersion d'eau dans un flux d'air généré par ventilation mécanique ou naturelle (installations de) :
 
 |
 
@@ -5000,7 +5168,11 @@ Refroidissement par dispersion d'eau dans un flux d'air (installations de)
 
 |
 
-1. Lorsque l'installation n'est pas du type circuit primaire fermé :
+a) La puissance thermique évacuée maximale étant supérieure ou égale à 3 000 kW
+
+|
+
+E
 
 |
 
@@ -5010,59 +5182,11 @@ Refroidissement par dispersion d'eau dans un flux d'air (installations de)
 
 |
 
-|
-
-a) la puissance thermique évacuée maximale étant supérieure ou égale à 2 000 kW
+b) La puissance thermique évacuée maximale étant inférieure à 3 000 kW
 
 |
 
-A
-
-|
-
-3
-
-|
-
-1. La puissance thermique évacuée maximale étant supérieure ou égale à 2 000 kW
-
-|
-
-1
-
-|
-
-b) la puissance thermique évacuée maximale étant inférieure à 2 000 kW
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-2. Lorsque l'installation est du type circuit primaire fermé
-
-|
-
-D
-
-|
-
-|
-
-|
-
-|
-
-Nota : Une installation est de type circuit primaire fermé lorsque l'eau dispersée dans l'air refroidit un fluide au travers d'un ou plusieurs échangeurs thermiques étanches situés à l'intérieur de la tour de refroidissement ou accolés à celle-ci ; tout contact direct est rendu impossible entre l'eau dispersée dans la tour et le fluide traversant le ou les échangeurs thermiques.
-
-|
+DC
 
 |
 
