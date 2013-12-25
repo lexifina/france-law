@@ -1,0 +1,475 @@
+# Article KALIARTI000028680173
+
+Régime frais de santé
+
+Ensemble du personnel
+
+Garanties aménagées. - Base
+
+Nature des soins |
+
+Montant des prestations |
+
+Hospitalisation (médicale, chirurgicale et psychiatrique) |
+
+|
+
+Frais de séjour |
+
+|
+
+Secteur conventionné |
+
+100 % FR |
+
+Secteur non conventionné |
+
+90 % frais réels limité à 400 % de la BR |
+
+Honoraires |
+
+|
+
+Secteur conventionné |
+
+100 % frais réels limité à 400 % BR |
+
+Secteur non conventionné |
+
+90 % frais réels limité à 400 % BR |
+
+Forfait journalier hospitalier |
+
+100 % FR |
+
+Chambre particulière (y compris maternité) |
+
+3 % PMSS par jour |
+
+Frais d'accompagnement (enfant de moins de 16 ans) |
+
+40 € par jour, maximum 60 jours par an |
+
+Frais médicaux courants |
+
+|
+
+Consultations, visites généralistes, conventionnées ou non conventionnées |
+
+200 % BR |
+
+Consultations, visites spécialistes, conventionnées ou non conventionnées |
+
+200 % BR |
+
+Auxiliaires médicaux |
+
+200 % BR |
+
+Analyses |
+
+200 % BR |
+
+Actes d'imagerie, actes de radiologie et d'électroradiologie conventionnés |
+
+200 % BR |
+
+Actes d'imagerie, actes de radiologie et d'électroradiologie non conventionnés |
+
+200 % BR |
+
+Actes de spécialité, actes techniques médicaux conventionnés ou non conventionnés |
+
+200 % BR |
+
+Densitométrie osseuse |
+
+75 € par an et par bénéficiaire |
+
+Sevrage tabagique (bénéficiaires : 16 ans et plus) |
+
+50 % frais réels, maximum 100 € au total |
+
+Ostéopathie, chiropractie, acupuncture |
+
+40 € par séance (maximum 3 séances par an) |
+
+Diététicien enfants de moins de 12 ans |
+
+100 % frais réels, maximum 30 € par consultation
+
+maximum 2 séances par an |
+
+Pharmacie |
+
+|
+
+Pharmacie |
+
+TM |
+
+Vaccins non pris en charge par la sécurité sociale/ MSA mais prescrits |
+
+100 % FR |
+
+Vaccins non pris en charge par la sécurité sociale/ MSA et non prescrits |
+
+6 % PMSS |
+
+Transport |
+
+|
+
+Transport des malades |
+
+100 % FR |
+
+Maternité. - Adoption |
+
+|
+
+Naissance simple |
+
+20 % PMSS |
+
+Naissance multiple |
+
+40 % PMSS |
+
+Frais d'optique (limitation à une paire de lunettes tous les 2 ans pour les adultes, sauf évolution de la dioptrie) |
+
+|
+
+Verres |
+
+|
+
+Verres unifocaux : la paire |
+
+Voir grille optique |
+
+Verres multifocaux : la paire |
+
+Voir grille optique |
+
+Monture |
+
+5 % PMSS |
+
+Lentilles prises en charge par la sécurité sociale/ MSA, refusées ou jetables |
+
+10 % PMSS par an et par bénéficiaire |
+
+Chirurgie réfractive |
+
+305 € par œil, par an et par bénéficiaire |
+
+Frais dentaires (plafond à 100 % PMSS par an) |
+
+|
+
+Soins dentaires |
+
+200 % BR |
+
+Prothèses dentaires remboursées par la sécurité sociale/ MSA |
+
+420 % BR |
+
+Prothèses dentaires non prises en charge par la sécurité sociale/ MSA |
+
+400 % BR reconstituée |
+
+Orthodontie remboursée par la sécurité sociale/ MSA |
+
+300 % BR |
+
+Orthodontie non remboursée par la sécurité sociale/ MSA (début de traitement avant 26 ans) |
+
+300 % BR dans la limite de 580,50 € par semestre
+
+(maximum 4 semestres consécutifs) |
+
+Implantologie (maximum 3 implants par an) |
+
+|
+
+Pose de l'implant |
+
+645 € |
+
+Faux moignon implantaire |
+
+215 € |
+
+Couronne |
+
+537,50 € |
+
+Parodontologie refusée par la MSA |
+
+|
+
+Curetage : surfaçage |
+
+144,60 € par séance (maximum 2 séances par an
+
+et par bénéficiaire) |
+
+Greffe gingivale |
+
+430 € (maximum une greffe par an et par bénéficiaire) |
+
+Allongement coronaire |
+
+72,30 € par intervention (4 interventions maximum
+
+par an et par bénéficiaire) |
+
+Lambeau |
+
+215 € (maximum 4 interventions par an
+
+et par bénéficiaire) |
+
+Pilier de bridge sur dent saine |
+
+537,50 € |
+
+Appareillage |
+
+|
+
+Prothèses auditives |
+
+200 % BR + 50 % PMSS par an |
+
+Gros et petit appareillages |
+
+300 % BR |
+
+Autres prothèses acceptées par la sécurité sociale/ MSA |
+
+300 % BR |
+
+Orthopédie |
+
+300 % BR |
+
+Fournitures médicales, pansements |
+
+100 % FR |
+
+Cure thermale (21 jours maximum) |
+
+|
+
+Cure thermale acceptée par la sécurité sociale/ MSA (transport et hébergement) |
+
+25 % PMSS dans la limite des frais restant à charge |
+
+Allocation obsèques |
+
+|
+
+Assuré, conjoint, concubin, pacsé, enfant |
+
+100 % PMSS limité aux frais réels pour les enfants
+
+de moins de 12 ans |
+
+Grille optique
+
+Frais d'optique (limitation à une paire de lunettes
+
+tous les 2 ans pour les adultes, sauf évolution de la dioptrie) |
+
+Type de verre |
+
+Puissance sphère |
+
+Cylindre |
+
+Garantie par verre |
+
+|
+
+|
+
+|
+
+Adulte |
+
+Enfant |
+
+Unifocaux - classe 1 |
+
+0 à 2 |
+
+< 2 |
+
+5 % PMSS |
+
+4 % PMSS |
+
+|
+
+2,25 à 4 |
+
+|
+
+|
+
+|
+
+Unifocaux - classe 2 |
+
+0 à 4 |
+
+> 2 |
+
+5 % PMSS |
+
+4 % PMSS |
+
+|
+
+4,25 à 6 |
+
+< 2 |
+
+|
+
+|
+
+Unifocaux - classe 3 |
+
+4,25 à 6 |
+
+> 2 |
+
+7 % PMSS |
+
+6 % PMSS |
+
+|
+
+6,25 à 8 |
+
+< 2 |
+
+|
+
+|
+
+Unifocaux - classe 4 |
+
+6,25 à 8 |
+
+> 2 |
+
+7 % PMSS |
+
+6 % PMSS |
+
+|
+
+> 8 |
+
+Tous |
+
+|
+
+|
+
+Multifocaux - classe 1 |
+
+0 à 2 |
+
+< 2 |
+
+9 % PMSS |
+
+8 % PMSS |
+
+|
+
+2,25 à 4 |
+
+|
+
+|
+
+|
+
+Multifocaux - classe 2 |
+
+0 à 4 |
+
+> 2 |
+
+9 % PMSS |
+
+8 % PMSS |
+
+|
+
+4,25 à 6 |
+
+< 2 |
+
+|
+
+|
+
+Multifocaux - classe 3 |
+
+4,25 à 6 |
+
+> 2 |
+
+10 % PMSS |
+
+10 % PMSS |
+
+|
+
+6,25 à 8 |
+
+< 2 |
+
+|
+
+|
+
+Multifocaux - classe 4 |
+
+6,25 à 8 |
+
+> 2 |
+
+12 % PMSS |
+
+10 % PMSS |
+
+|
+
+> 8 |
+
+Tous |
+
+|
+
+|
+
+Monture |
+
+5 % PMSS |
+
+Lentilles prises en charge par la sécurité sociale, refusées ou jetables |
+
+10 % PMSS par an et par bénéficiaire |
+
+Chirurgie réfractive |
+
+305 € par œil, par an et par bénéficiaire |
