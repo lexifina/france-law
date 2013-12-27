@@ -36,13 +36,9 @@ Chef de service chargé des questions sociales
 
 |
 
-Direction des pêches maritimes et de l'aquaculture
+Direction des pêches maritimes et de l'aquaculture |
 
-|
-
-Chef de service, adjoint au directeur des pêches maritimes et de l'aquaculture
-
-|
+Chef de service, adjoint au directeur des pêches maritimes et de l'aquaculture |
 
 Centre de prestations et d'ingénierie informatiques
 
@@ -276,7 +272,7 @@ Direction générale de l'aménagement, du logement et de la nature
 
 |
 
-Sous-directeur du financement du logement
+Sous-directeur du financement et de l'économie du logement et de l'aménagement
 
 |
 
@@ -292,7 +288,7 @@ Direction générale de l'aménagement, du logement et de la nature
 
 |
 
-Sous-directeur de l'action territoriale et de la législation de l'eau et des matières premières
+Sous-directeur de l'action territoriale et de la législation de l'eau
 
 |
 

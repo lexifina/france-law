@@ -150,30 +150,6 @@ Direction des pêches maritimes et de l'aquaculture
 
 Sous-directeur de l'aquaculture et de l'économie des pêches |
 
-Délégation à la sécurité et à la circulation routière
-
-|
-
-Sous-directeur de l'éducation routière
-
-|
-
-Délégation à la sécurité et à la circulation routière
-
-|
-
-Sous-directeur des actions transversales et des ressources
-
-|
-
-Délégation à la sécurité et à la circulation routière
-
-|
-
-Sous-directeur de l'action interministérielle
-
-|
-
 Commissariat général au développement durable/direction de la recherche et de l'innovation
 
 |

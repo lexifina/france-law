@@ -44,14 +44,6 @@ Chef de service, délégué à l'action foncière et immobilière
 
 |
 
-Délégation à la sécurité et à la circulation routière
-
-|
-
-Chef de service, adjoint au délégué à la sécurité et à la circulation routière
-
-|
-
 Secrétariat général/services des affaires financières
 
 |
