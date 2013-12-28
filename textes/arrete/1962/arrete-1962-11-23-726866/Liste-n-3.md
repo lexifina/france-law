@@ -598,14 +598,6 @@ Aude |
 
 L'aérodrome ne peut être utilisé par un pilote que s'il a effectué une reconnaissance préalable du site avec un instructeur utilisateur du terrain. |
 
-Nuits-Saint-Georges |
-
-Côte-d'Or |
-
-Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.
-
-Utilisable par les hélicoptères et les aéronefs ultralégers motorisés dans des conditions définies par le directeur de la sécurité de l'aviation civile Nord-Est. |
-
 Peyresourde-Balestas |
 
 Hautes-Pyrénées |
@@ -955,5 +947,3 @@ Yvetot - Baons-le-Comte |
 Seine-Maritime |
 
 Les conditions d'utilisations sont validées par les services de la direction de la sécurité de l'aviation civile Ouest et portées à la connaissance des navigateurs aériens par insertion dans les publications aéronautiques appropriées. |
-
-aux Antilles).
