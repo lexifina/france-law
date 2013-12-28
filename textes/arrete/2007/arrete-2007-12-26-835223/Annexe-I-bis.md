@@ -4,9 +4,7 @@ Raison sociale et adresse du fournisseur : ............................ Mois de 
 
 Numéro d'agrément du fournisseur : ..............................................................................
 
-Déclaration des quantités de tabacs manufacturés
-
-livrés aux débitants de Corse
+Déclaration des quantités de tabacs manufacturés livrés aux débitants de Corse
 
 I.-Détail des opérations relatives aux livraisons de tabac :
 
@@ -50,7 +48,7 @@ Remise brute due aux débitants au titre des cigares et cigarillos (10,588 %)
 
 |
 
-Remise brute due aux débitants au titre des autres produits du tabac (11,520 %)
+Remise brute due aux débitants au titre des autres produits du tabac (11,653 %)
 
 |
 
@@ -74,7 +72,7 @@ Remise nette due aux débitants au titre des cigares et cigarillos (8,236 %)
 
 |
 
-Remise nette due aux débitants au titre des autres produits du tabac (8,93 %)
+Remise nette due aux débitants au titre des autres produits du tabac (9,07 %)
 
 |
 
@@ -156,7 +154,9 @@ Dont cotisation au RAVGDT (0,213 %)
 
 (1) Il s'agit des livraisons "brutes" après des corrections des livraisons mais non diminuées des reprises.
 
-Exemple : livraisons initiales d'une valeur TTC (prix homologué) de 100 € ; corrections des livraisons d'une valeur de 20 € ; reprise de produits d'une valeur de 50 € ; la valeur qui devra être reportée est de 80 € (valeur livraisons initiales-corrections des livraisons).
+Exemple : livraisons initiales d'une valeur TTC (prix homologué) de 100 € ; corrections des livraisons d'une valeur de 20 € ; reprise de produits d'une valeur de 50 €.
+
+La valeur qui devra être reportée est de 80 € (valeur livraisons initiales-corrections des livraisons).
 
 |
 
