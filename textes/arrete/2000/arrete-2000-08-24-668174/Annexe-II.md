@@ -30,6 +30,16 @@ Fondamentaux 1 : relatifs à l'institution :
 
 ― les règles relatives à la déontologie policière ;
 
+― les caractéristiques du facteur humain en intervention ;
+
+― les causes, mécanismes et conséquences du stress ;
+
+― les stratégies relationnelles adaptées ;
+
+― les dynamiques de groupes dans le cadre des relations professionnelles et des relations avec la population ;
+
+― réagir face aux détresses ; .
+
 ― les fondements démocratiques ;
 
 ― les différents syndicats.
