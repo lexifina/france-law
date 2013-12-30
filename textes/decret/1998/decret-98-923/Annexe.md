@@ -1,144 +1,114 @@
 # Article Annexe
 
-CANTONS CONSTITUANT LA ZONE D'INTERVENTION DE L'ÉTABLISSEMENT PUBLIC FONCIER DE L'OUEST RHÔNE-ALPES DANS LES DÉPARTEMENTS DE L'ARDÈCHE, DE LA DRÔME, DE L'ISÈRE ET DU RHÔNE
+CANTONS CONSTITUANT LA ZONE D'INTERVENTION DE L'ÉTABLISSEMENT PUBLIC FONCIER DE L'OUEST RHÔNE-ALPES DANS LES DÉPARTEMENTS DE L'ISÈRE ET DU RHÔNE
 
 Cantons
 
-1° Département de l'Ardèche
+1° Département de l'Isère :
 
-Annonay Nord.
+Beaurepaire.
 
-Annonay Sud.
+Bourgoin-Jallieu-Nord.
 
-Satillieu.
+Bourgoin-Jallieu-Sud.
 
-Serrières.
-
-Tournon.
-
-2° Département de la Drôme
-
-Bourg-de-Péage.
-
-Le Grand-Serre, à l'exception des communes de :
-
-Hauterives.
-
-Lapeyrouse-Mornay.
-
-Le Grand-Serre.
-
-Tersanne.
-
-Romans-sur-Isère 1.
-
-Romans-sur-Isère 2.
-
-Saint-Donat-sur-l'Herbasse.
-
-Saint-Vallier-sur-Rhône.
-
-Tain-l'Hermitage.
-
-3° Département de l'Isère
-
-Bourgoin-Jallieu Nord.
-
-Bourgoin-Jallieu Sud.
-
-Crémieu, à l'exception des communes de :
-
-Annoisin-Chatelans.
-
-Chamagnieu.
-
-Chozeau.
+La Côte-Saint-André.
 
 Crémieu.
 
-Dizimieu.
+Le Grand-Lemps, à l'exception des communes de :
 
-Frontonas.
+Apprieu.
 
-Hières-sur-Amby.
+Bévenais.
 
-La Blame-les-Grottes.
+Bizonnes.
 
-Leyrieu.
+Burcin.
 
-Moras.
+Châbons.
 
-Optevoz.
+Colombe.
 
-Panossas.
+Eydoche.
 
-Parmilieu.
+Flachères.
 
-Saint-Baudille-de-la-Tour.
+Grand-Lemps (Le).
 
-Saint-Romain-de-Jalionas.
-
-Siccieu-Saint-Julien-et-Carisieu.
-
-Soleymieu.
-
-Tignieu-Jameyzieu.
-
-Vernas.
-
-Vertrieu.
-
-Veyssilieu.
-
-Villemoirieu.
+Saint-Didier-de-Bizonnes.
 
 Heyrieux.
 
 L'Isle-d'Abeau.
 
-La Tour-du-Pin, à l'exception des communes de :
+Morestel.
 
-Cessieu.
+Pont-de-Beauvoisin.
 
-Dolomieu.
+Pont-de-Chéruy.
 
-Faverges-de-la-Tour.
+Roussillon.
 
-La Chapelle-de-la-Tour.
+Roybon.
+
+Saint-Etienne-de-Saint-Geoirs.
+
+Saint-Jean-de-Bournay.
 
 La Tour-du-Pin.
 
-Montagnieu.
+Tullins, à l'exception des communes de :
 
-Rochetoirin.
+Cras.
 
-Saint-Clair-de-la-Tour.
+Montaud.
 
-Saint-Didier-de-la-Tour.
+Morette.
 
-Saint-Jean-de-Soudain.
+Poliénas.
 
-Saint-Victor-de-Cessieu.
+Quincieu.
 
-Sainte-Blandine.
+Rivière (La).
 
-Torchefelon.
+Saint-Quentin-sur-Isère.
+
+Tullins.
+
+Vatilieu.
 
 La Verpillière.
 
-Vienne Nord.
+Vienne-Nord.
 
-Vienne Sud.
+Vienne-Sud.
 
-4° Département du Rhône
+Virieu, à l'exception des communes de :
+
+Bilieu.
+
+Charavines.
+
+Oyeu.
+
+Pin (Le).
+
+2° Département du Rhône :
+
+Amplepuis.
 
 Anse.
 
-Amplepuis.
+L'Arbresle, à l'exception de la commune de :
+
+Tour-de-Salvagny (La).
 
 Beaujeu.
 
 Belleville.
+
+Bois-d'Oingt.
 
 Condrieu.
 
@@ -154,15 +124,9 @@ Gleizé.
 
 Lamure-sur-Azergues.
 
-L'Arbresle, à l'exception de la commune de :
-
-La Tour-de-Salvagny.
-
-Le Bois-d'Oingt.
-
 Limonest, à l'exception des communes de :
 
-Collonges-au-Mont-d'Or.
+- Collonges-au-Mont-d'Or.
 
 Limonest.
 
@@ -172,9 +136,9 @@ Saint-Didier-au-Mont-d'Or.
 
 Meyzieu, à l'exception des communes de :
 
-Jonage.
+- Jonage.
 
-Meyzieu.
+- Meyzieu.
 
 Monsols.
 
@@ -224,7 +188,7 @@ Saint-Symphorien-sur-Coise.
 
 Tarare.
 
-Thizy.
+Thizy-les-Bourgs.
 
 Vaugneray, à l'exception des communes de :
 
