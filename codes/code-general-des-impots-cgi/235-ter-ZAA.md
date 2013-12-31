@@ -2,7 +2,7 @@
 
 I.-Les redevables de l'impôt sur les sociétés réalisant un chiffre d'affaires supérieur à 250 millions d'euros sont assujettis à une contribution exceptionnelle égale à une fraction de cet impôt calculé sur leurs résultats imposables, aux taux mentionnés à l'article 219, des exercices clos à compter du 31 décembre 2011 et jusqu'au 30 décembre 2015.
 
-Cette contribution est égale à 5 % de l'impôt sur les sociétés dû, déterminé avant imputation des réductions et crédits d'impôt et des créances fiscales de toute nature.
+Cette contribution est égale à 10,7 % de l'impôt sur les sociétés dû, déterminé avant imputation des réductions et crédits d'impôt et des créances fiscales de toute nature.
 
 Pour les redevables qui sont placés sous le régime prévu à l'article 223 A, la contribution est due par la société mère. Elle est assise sur l'impôt sur les sociétés afférent au résultat d'ensemble et à la plus-value nette d'ensemble définis aux articles 223 B, 223 B bis et 223 D, déterminé avant imputation des réductions et crédits d'impôt et des créances fiscales de toute nature.
 
@@ -14,4 +14,4 @@ III.-La contribution est établie, contrôlée et recouvrée comme l'impôt sur 
 
 NOTA :
 
-Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 12 II : Ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2012 .
+Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 16 II : Ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2013.
