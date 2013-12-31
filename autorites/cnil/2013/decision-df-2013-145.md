@@ -1,0 +1,9 @@
+# Décision DF-2013-145 autorisant la société SP DEFENSE à transférer des données à caractère personnel vers l’Inde et le Mexique aux fins d’hébergement et de centralisation de la base de données relative au recrutement (demande d’autorisation n°1644731)
+
+- Nature : Decision
+- Type : Autorisation de transfert
+- Numéro : DF-2013-145
+- Date : 2013-12-31
+- Publication : 2013-03-16
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000027166327
