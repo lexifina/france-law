@@ -1,6 +1,8 @@
-# Article Annexe I
+# Article Annexe 1
 
-MONTANT DES AVANCES DE TRÉSORERIE 2013 ET PLAFOND ANNUEL DE DÉPENSES
+MONTANT DES AVANCES DE TRÉSORERIE 2014
+
+ET PLAFOND ANNUEL DE DÉPENSES
 
 TYPE D'AVANCE
 
@@ -30,9 +32,7 @@ de trésorerie
 
 PLAFOND
 
-de dépenses
-
-autorisées
+de dépenses autorisées
 
 (en euros)
 
@@ -43,8 +43,6 @@ Activité des forces
 |
 
 Mission sécurité
-
-|
 
 |
 
@@ -68,31 +66,15 @@ Hors titre 2
 
 |
 
-14 820 000
+15 575 000
 
 |
 
-59 280 000
+62 300 000
 
 |
 
-|
-
-Mission sécurité civile
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Intervention des services opérationnels
+Sécurité civile
 
 |
 
@@ -112,8 +94,6 @@ Hors titre 2
 
 |
 
-|
-
 Total ATAF
 
 |
@@ -122,11 +102,11 @@ Total ATAF
 
 |
 
-16 060 000
+16 815 000
 
 |
 
-64 240 000
+67 260 000
 
 |
 
@@ -134,9 +114,9 @@ Solde
 
 |
 
-Mission anciens combattants, mémoire et liens avec la nation
+Mission anciens combattants,
 
-|
+mémoire et liens avec la nation
 
 |
 
@@ -160,19 +140,15 @@ Liens entre la nation et son armée
 
 |
 
-2 290 000
+2 000 000
 
 |
 
-1 912 142
-
-|
+1 626 076
 
 |
 
 Mission défense
-
-|
 
 |
 
@@ -196,13 +172,11 @@ Environnement et prospective de la politique de défense
 
 |
 
-5 030 000
+4 600 000
 
 |
 
-4 190 708
-
-|
+3 874 675
 
 |
 
@@ -218,13 +192,11 @@ Equipement des forces
 
 |
 
-10 760 000
+10 700 000
 
 |
 
-8 965 658
-
-|
+8 877 317
 
 |
 
@@ -240,13 +212,11 @@ Préparation et emploi des forces
 
 |
 
-86 000 000
+87 700 000
 
 |
 
-71 663 158
-
-|
+73 087 238
 
 |
 
@@ -262,19 +232,15 @@ Soutien de la politique de défense
 
 |
 
-10 110 000
+9 700 000
 
 |
 
-8 424 417
-
-|
+8 103 135
 
 |
 
 Mission action extérieure de l'Etat
-
-|
 
 |
 
@@ -298,19 +264,15 @@ Action de la France en Europe et dans le monde
 
 |
 
-39 890 000
+41 400 000
 
 |
 
-33 242 883
-
-|
+34 530 414
 
 |
 
 Mission sécurité
-
-|
 
 |
 
@@ -334,31 +296,15 @@ Gendarmerie nationale
 
 |
 
-4 356 000 000
+4 377 600 000
 
 |
 
-3 630 000 000
+3 648 000 000
 
 |
 
-|
-
-Mission sécurité civile
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Intervention des services opérationnels
+Sécurité civile
 
 |
 
@@ -370,21 +316,17 @@ Intervention des services opérationnels
 
 |
 
-60 000
+100 000
 
 |
 
-53 458
+54 460
 
 |
 
-|
+Mission écologie, développement
 
-Mission écologie
-
-|
-
-|
+et mobilité durables
 
 |
 
@@ -394,7 +336,9 @@ Mission écologie
 
 |
 
-Conduite et pilotage des politiques de l'écologie, de l'énergie, du développement durable et de la mer
+|
+
+Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables
 
 |
 
@@ -406,19 +350,15 @@ Conduite et pilotage des politiques de l'écologie, de l'énergie, du développe
 
 |
 
-1 130 000
+1 100 000
 
 |
 
-945 517
-
-|
+912 800
 
 |
 
 Mission justice
-
-|
 
 |
 
@@ -442,21 +382,17 @@ Justice judiciaire
 
 |
 
-440 000
+400 000
 
 |
 
-366 117
-
-|
+367 883
 
 |
 
 Mission administration générale
 
 et territoriale de l'Etat
-
-|
 
 |
 
@@ -480,19 +416,17 @@ Conduite et pilotage des politiques de l'intérieur
 
 |
 
-190 000
+3 000 000
 
 |
 
-154 342
+2 484 007
 
 |
 
-|
+Mission gestion des finances publiques
 
-Mission gestion des finances publiques et des ressources humaines
-
-|
+et des ressources humaines
 
 |
 
@@ -520,9 +454,7 @@ Stratégie des finances publiques et modernisation de l'Etat
 
 |
 
-81 600
-
-|
+81 995
 
 |
 
@@ -532,12 +464,14 @@ Total ATS
 
 |
 
-|
-
-4 512 000 000
+2
 
 |
 
-3 760 000 000
+4 538 400 000
+
+|
+
+3 782 000 000
 
 |
