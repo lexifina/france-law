@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent avenant est applicable sur l'ensemble du territoire à l'exception des départements d'outre-mer, aux salariés non cadres et employeurs des exploitations et entreprises agricoles ayant une activité définie aux 1° (à l'exception des centres équestres, entraîneurs de chevaux de courses, champs de courses et des parcs zoologiques), 2° (à l'exception des entreprises du paysage), 3° (à l'exception de l'office national des forêts) et 4° (à l'exception de la conchyliculture) de l'article L. 722-1 du code rural et de la pêche maritime, ainsi qu'aux coopératives d'utilisation de matériel agricole.
