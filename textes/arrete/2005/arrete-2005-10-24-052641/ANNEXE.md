@@ -54,157 +54,291 @@ f) Décisions et avis contentieux relevant d'un domaine donné :
 
 Liste des rubriques :
 
-1 Accès aux documents administratifs.
+1 Actes, régime des actes (procédures d'élaboration, application dans le temps, régime).
 
-2 Actes législatifs et administratifs.
+2 Agriculture, pêche.
 
-3 Affichage et publicité.
+02-01 Agriculture, élevage.
 
-4 Agriculture.
+02-02 Remembrement rural.
 
-5 Aide sociale.
+02-03 Pêche (maritime et en eau douce).
 
-6 Alsace-Moselle.
+02-04 Divers agriculture, pêche.
 
-7 Aménagement du territoire et planification.
+3 Budget, comptabilité publique.
 
-8 Amnistie, grâce et réhabilitation.
+4 Collectivités territoriales, territoires.
 
-9 Armées et défense.
+04-01 Communes.
 
-10 Arts et lettres.
+04-02 Etablissements publics de coopération intercommunale (EPCI).
 
-11 Associations et fondations.
+04-03 Départements.
 
-12 Associations syndicales.
+04-04 Régions.
 
-13 Assurance et prévoyance.
+04-05 Outre-mer.
 
-14 Bois et forêts.
+04-06 Alsace, Moselle.
 
-15 Capitaux, monnaie, banques.
+04-07 Paris, Ile-de-France.
 
-16 Chasse.
+04-08 Divers collectivités territoriales, territoires.
 
-17 Collectivités territoriales.
+5 Culture, médias, patrimoine.
 
-18 Commerce, industrie, concurrence et consommation.
+05-01 Arts et lettres.
 
-19 Communautés européennes et Union européenne.
+05-02 Presse.
 
-20 Communes.
+05-03 Radio, télévision.
 
-21 Compétences des juridictions administratives et des juridictions judiciaires.
+05-05 Patrimoine, monuments, sites historiques.
 
-22 Compétences au sein de la juridiction administrative.
+05-06 Cinéma, spectacles.
 
-23 Comptabilité publique et budget.
+05-07 Divers culture, médias, patrimoine.
 
-24 Contributions et taxes.
+6 Défense, armées.
 
-25 Convention européenne des droits de l'homme.
+06-01 Personnel, militaires, organisation.
 
-26 Cultes.
+06-02 Pensions militaires.
 
-27 Décorations et insignes.
+06-03 Anciens combattants.
 
-28 Domaine.
+06-04 Divers défense, armées.
 
-29 Dons et legs.
+7 Droit international, droit européen.
 
-30 Eaux.
+07-01 Traités internationaux, règles non écrites.
 
-31 Elections et référendum.
+07-02 Droit de l'Union européenne.
 
-32 Energie.
+07-03 Droit de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales.
 
-33 Enseignement et recherche.
+07-04 Divers droit international, droit européen.
 
-34 Enseignement privé.
+8 Droit public économique, régulation.
 
-35 Enseignement supérieur et grandes écoles.
+08-01 Assurance et prévoyance, mutualité.
 
-36 Etablissements publics et GIP.
+08-02 Capitaux, monnaie, banque.
 
-37 Etrangers.
+08-03 Commerce, industrie, concurrence, aides publiques.
 
-38 Expropriation pour cause d'utilité publique.
+08-04 Consommation.
 
-39 Famille.
+08-05 Equipement commercial.
 
-40 Fonctionnaires et agents publics.
+08-06 Divers droit public économique, régulation.
 
-41 Juridictions, magistrats et auxiliaires de justice.
+9 Droits et libertés fondamentaux.
 
-42 Libertés publiques.
+09-01 Constitution, question prioritaire de constitutionalité (QPC).
 
-43 Logement.
+09-02 Cultes.
 
-44 Marchés et contrats.
+09-03 Accès aux documents administratifs.
 
-45 Mines et carrières.
+09-04 Informatique et libertés.
 
-46 Monuments et sites.
+09-05 Divers droits et libertés fondamentaux.
 
-47 Mutualité et coopération.
+10 Education, recherche.
 
-48 Nationalisations et entreprises nationalisées.
+10-01 Enseignement public, questions générales.
 
-49 Nationalité (et autres questions relatives à l'état des personnes).
+10-02 Enseignement privé.
 
-50 Nature et environnement.
+10-03 Enseignement supérieur et grandes écoles, recherche.
 
-51 Outre-mer.
+10-04 Enseignants.
 
-52 Pêche en eau douce.
+10-05 Divers éducation, recherche.
 
-53 Pêche maritime.
+11 Elections, référendum.
 
-54 Pensions.
+12 Etrangers.
 
-55 Police administrative.
+12-01 Entrée.
 
-56 Ports.
+12-02 Séjour et éloignement.
 
-57 Postes et communications électroniques.
+12-03 Asile et apatrides.
 
-58 Pouvoirs publics et autorités administratives indépendantes.
+12-04 Divers étrangers.
 
-59 Presse.
+13 Fiscalité : contributions et taxes.
 
-60 Procédure.
+13-01 Impôt sur le revenu/ impôt sur les sociétés.
 
-61 Professions, charges et offices.
+13-02 Taxe sur la valeur ajoutée (TVA).
 
-62 Radiodiffusion et télévision.
+13-03 Taxes locales.
 
-63 Remembrement foncier agricole.
+13-04 Autres contributions.
 
-64 Responsabilité de la puissance publique.
+13-05 Recouvrement.
 
-65 Santé publique.
+13-06 Divers fiscalité : contributions et taxes.
 
-66 Santé publique. - Etablissements privés d'hospitalisation.
+14 Fonction publique, agents publics, pensions.
 
-67 Santé publique. - Organisation et fonctionnement des hôpitaux
+14-01 Fonctionnaires et agents de l'Etat.
 
-68 Sécurité sociale.
+14-02 Fonctionnaires et agents territoriaux.
 
-69 Spectacles, sports et jeux.
+14-03 Fonction publique hospitalière.
 
-70 Transports.
+14-04 Pensions de retraite.
 
-71 Travail et emploi.
+14-05 Divers fonction publique, agents publics, pensions.
 
-72 Travaux publics.
+15 Juridictions administratives et contentieux administratif.
 
-73 Urbanisme et aménagement du territoire.
+15-01 Répartition des compétences entre les juridictions administratives et judiciaires.
 
-74 Victimes civiles de guerre.
+15-02 Procédure devant la juridiction administrative.
 
-75 Ville de Paris et région Ile-de-France.
+15-03 Divers juridictions administratives et contentieux administratif.
 
-76 Voirie.
+16 Justice, professions réglementées, questions liées au droit civil.
+
+16-01 Juridictions, magistrats et auxiliaires de justice.
+
+16-02 Nationalité, état des personnes.
+
+16-03 Professions juridiques, charges et offices.
+
+16-04 Prisons, détenus.
+
+16-05 Divers justice, professions réglementées, questions liées au droit civil.
+
+17 Logement.
+
+17-01 Aides au logement.
+
+17-02 Droit au logement opposable (DALO).
+
+17-03 Divers logement.
+
+18 Marchés et contrats.
+
+19 Nature et environnement.
+
+19-01 Eaux.
+
+19-02 Bois et forêts.
+
+19-03 Chasse.
+
+19-04 Installations classées, mines et carrières.
+
+19-05 Affichage et publicité.
+
+19-06 Divers nature et environnement.
+
+20 Police.
+
+20-01 Police générale.
+
+20-01-01 Permis de conduire et circulation.
+
+20-02 Polices spéciales.
+
+20-02-01 Immeubles menaçant ruine.
+
+20-03 Refus de concours de la force publique.
+
+20-04 Divers police.
+
+21 Propriétés publiques, domaine.
+
+21-01 Contravention de grande voirie.
+
+21-02 Divers propriétés publiques, domaine.
+
+22 Réseaux, énergies, transports, moyens de communication, équipements.
+
+22-01 Energies.
+
+22-02 Télécommunications.
+
+22-03 Transports.
+
+22-04 Voirie, routes.
+
+22-05 Divers réseaux, énergie, transports, moyens de communication, équipements.
+
+23 Responsabilité.
+
+23-01 Responsabilité hospitalière.
+
+23-02 Divers responsabilité.
+
+24 Santé, santé publique.
+
+24-01 Bioéthique.
+
+24-02 Professions de santé.
+
+24-03 Etablissements de santé (publics et privés).
+
+24-04 Divers santé, santé publique.
+
+25 Social.
+
+25-01 Revenu de solidarité active (RSA).
+
+25-02 Sécurité sociale.
+
+25-03 Divers social.
+
+26 Sports et jeux.
+
+26-01 Sports.
+
+26-02 Jeux.
+
+26-03 Divers sports et jeux.
+
+27 Travail et emploi.
+
+27-01 Salariés protégés.
+
+27-02 Emploi.
+
+27-03 Formation professionnelle.
+
+27-04 Divers travail et emploi.
+
+28 Urbanisme, aménagement du territoire et travaux publics.
+
+28-01 Urbanisme, aménagement du territoire.
+
+28-02 Droit de préemption.
+
+28-03 Expropriation.
+
+28-04 Travaux publics.
+
+28-05 Divers urbanisme, aménagement du territoire et travaux publics.
+
+29 Vie publique.
+
+29-01 Autorités administratives indépendantes.
+
+29-02 Etablissements publics et groupements d'intérêt public (GIP).
+
+29-03 Syndicats, partenaires sociaux.
+
+29-04 Associations et fondations.
+
+29-05 Décorations et insignes.
+
+29-06 Divers vie publique.
 
 Tarification :
 
