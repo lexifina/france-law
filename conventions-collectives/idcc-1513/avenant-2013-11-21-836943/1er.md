@@ -1,0 +1,13 @@
+# Article 1er
+
+L'article 13.3 de la convention collective est ainsi modifié :
+
+« Article 13.3
+
+Bénéficiaires
+
+Les salariés non cadres ne relevant pas des articles 4 et 4 bis de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 (AGIRC) bénéficient des garanties du régime de prévoyance, sous réserve d'une ancienneté de 3 mois dans l'entreprise.
+
+Les salariés cadres relevant des articles 4 et 4 bis de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 (AGIRC) bénéficient des mêmes garanties du régime de prévoyance, sous réserve d'une ancienneté de 3 mois dans l'entreprise.
+
+Toutefois, les cadres relevant des articles 4 et 4 bis de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947 déjà garantis par ailleurs, notamment au titre de l'article 7 de cette convention, peuvent ne pas être affiliés au présent régime dès lors qu'ils bénéficient d'un niveau d'indemnisation strictement supérieur apprécié garantie par garantie. »
