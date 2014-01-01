@@ -1,5 +1,7 @@
 # Article Annexe
 
+.
+
 DÉSIGNATION DE L'EMPLOI
 
 |
@@ -18,9 +20,15 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS
+NOMBRE
+
+de points
 
 par emploi
+
+|
+
+TOTAL
 
 |
 
@@ -36,13 +44,13 @@ B
 
 |
 
-- dans 30 départements au titre de la politique de la ville (1)
+|
+
+-dans 30 départements au titre de la politique de la ville (1)
 
 |
 
-|
-
-10
+7
 
 |
 
@@ -50,13 +58,15 @@ B
 
 |
 
-- dans les autres départements
+210
 
 |
 
+-dans les autres départements
+
 |
 
-28
+23
 
 |
 
@@ -64,7 +74,11 @@ B
 
 |
 
-Contrôle hors section d'inspection, spécialisé dans la répression du travail clandestin et des trafics de main-d'œuvre :
+575
+
+|
+
+Contrôle hors section d'inspection, spécialisé dans la répression du travail clandestin et des trafics de main d'œuvre
 
 |
 
@@ -72,17 +86,7 @@ B
 
 |
 
-|
-
-|
-
-- dans 30 départements au titre de la politique de la ville (1)
-
-|
-
-|
-
-40
+80
 
 |
 
@@ -90,21 +94,11 @@ B
 
 |
 
-- dans les autres départements
+1920
 
 |
 
-|
-
-18
-
-|
-
-19
-
-|
-
-Responsable du secrétariat particulier des directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, des directeurs d'unité territoriale, des directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et de la direction de la cohésion sociale, du travail, de l'emploi et de la population - Saint-Pierre-et-Miquelon
+Responsable du secrétariat particulier des directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, des directeurs d'unité territoriale, des directions des entreprises, de la concurrence, de la consommation, du travail et de l'emploi
 
 |
 
@@ -112,11 +106,15 @@ B ou C
 
 |
 
-123
+122
 
 |
 
 14
+
+|
+
+1708
 
 |
 
@@ -132,9 +130,9 @@ B
 
 |
 
-- dans 30 départements au titre de la politique de la ville (1)
-
 |
+
+-dans 30 départements au titre de la politique de la ville (1)
 
 |
 
@@ -146,17 +144,23 @@ B
 
 |
 
-- dans les autres départements
+20
 
 |
 
+-dans les autres départements
+
 |
 
-3
+2
 
 |
 
 15
+
+|
+
+30
 
 |
 
@@ -168,11 +172,15 @@ B
 
 |
 
-118
+114
 
 |
 
 18
+
+|
+
+2052
 
 |
 
@@ -184,11 +192,15 @@ B
 
 |
 
-25
+23
 
 |
 
 18
+
+|
+
+414
 
 |
 
@@ -208,6 +220,10 @@ B
 
 |
 
+1220
+
+|
+
 Contrôle sur place, au sein des groupes régionaux de contrôle, d'organismes dont le produit comptable annuel est égal ou supérieur à 153 000 euros ou d'entreprises concourant au développement de la formation continue et dont l'effectif moyen annuel est égal ou supérieur à 500 salariés
 
 |
@@ -221,6 +237,10 @@ B
 |
 
 25
+
+|
+
+1375
 
 |
 
@@ -240,6 +260,10 @@ B
 
 |
 
+200
+
+|
+
 Régisseur d'avances et de recettes
 
 |
@@ -256,7 +280,11 @@ A ou B
 
 |
 
-Responsable du contrôle de la main-d'œuvre étrangère
+525
+
+|
+
+Responsable du contrôle de la main d'œuvre étrangère
 
 |
 
@@ -269,6 +297,10 @@ B
 |
 
 19
+
+|
+
+1672
 
 |
 
@@ -288,6 +320,10 @@ B ou C
 
 |
 
+540
+
+|
+
 Responsable d'un service régional de gestion administrative et de paie dont l'effectif moyen est égal ou supérieur à 1 500 agents
 
 |
@@ -304,6 +340,10 @@ A ou B
 
 |
 
+20
+
+|
+
 Adjoint au responsable d'un service régional de gestion administrative et de paie dont l'effectif moyen est égal ou supérieur à 1 500 agents
 
 |
@@ -312,7 +352,7 @@ A ou B
 
 |
 
-2
+0
 
 |
 
@@ -320,6 +360,26 @@ A ou B
 
 |
 
-(1) Alpes-Maritimes, Bouches-du-Rhône, Drôme, Haute-Garonne, Gironde, Hérault, Isère, Loire-Atlantique, Loiret, Marne, Meurthe-et-Moselle, Moselle, Nord, Oise, Pas-de-Calais, Bas-Rhin, Haut-Rhin, Rhône, Seine-Maritime, Seine-et-Marne, Yvelines, Tarn, Var, Vaucluse, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise et La Réunion.
+0
+
+|
+
+Total
+
+|
+
+|
+
+636
+
+|
+
+|
+
+12 481
+
+|
+
+(1) Alpes-Maritimes, Bouches-du-Rhône, Drôme, Haute-Garonne, Gironde, Hérault, Isère, Loire-Atlantique, Loiret, Marne, Meurthe-et-Moselle, Moselle, Nord, Oise, Pas-de-Calais, Bas-Rhin, Haut-Rhin, Rhône, Seine-Maritime, Seine-et-Marne, Yvelines, Tarn, Var, Vaucluse, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise et Réunion.
 
 |

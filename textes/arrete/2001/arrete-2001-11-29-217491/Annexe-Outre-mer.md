@@ -1,6 +1,6 @@
 # Article Annexe Outre mer
 
-Direction départementale de l'équipement de la Martinique
+Direction de l'environnement, de l'aménagement et du logement de la Martinique
 
 FONCTIONS EXERCEES
 
@@ -24,7 +24,7 @@ par emploi
 
 |
 
-Chargé de mission "politique de la ville" et animateur du réseau des différents acteurs de la politique de la ville et des dispositifs interministériels
+Chef de l'unité aménagement et renouvellement urbain
 
 |
 
@@ -36,11 +36,11 @@ A
 
 |
 
-50 points
+50
 
 |
 
-Adjoint au chargé de mission politique de la ville, chargé du suivi des relations avec les associations
+Chargé d'études aménagement et renouvellement urbain
 
 |
 
@@ -52,11 +52,11 @@ B
 
 |
 
-30 points
+30
 
 |
 
-Secrétariat accueil du public et des associations et montage des dossiers de subventions
+Assistant de l'unité aménagement et renouvellement urbain
 
 |
 
@@ -68,7 +68,7 @@ C
 
 |
 
-20 points
+20
 
 |
 

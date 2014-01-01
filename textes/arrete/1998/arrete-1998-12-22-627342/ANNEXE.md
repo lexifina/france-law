@@ -59,3 +59,9 @@ La participation de la caisse aux frais de transport est calculée sur la base d
 - ou de plusieurs affections caractérisées entraînant un état pathologique invalidant.
 
 3° Prise en charge du ticket modérateur au bénéfice des personnes, pendant leurs séjours temporaires en France, atteintes d'une affection visée au 3° de l'article L. 322-3 du code de la sécurité sociale ou d'une affection visée au 2° du présent article pour les frais non signalés comme étant en rapport avec l'une de ces affections.
+
+4° Prise en charge de la cotisation d'assurance volontaire vieillesse pour les périodes pendant lesquelles l'assuré qui ne remplit plus les conditions pour continuer de cotiser à ce risque, bénéficie d'indemnités journalières au titre de la maladie, de la maternité, de l'accident du travail ou des maladies professionnelles, ou perçoit une pension d'invalidité ou une rente d'accident du travail ou de maladie professionnelle d'un taux au moins égal à 66,66 %. Sont considérés comme ne remplissant plus les conditions pour continuer à cotiser, les salariés dont le contrat de travail a été rompu ou dont l'expatriation a pris fin.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 26 juin 2015, les dispositions du présent arrêté sont applicables au titre des périodes débutant à compter du 1er janvier 2014.

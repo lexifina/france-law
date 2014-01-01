@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Prescriptions générales et faisant l'objet du contrôle périodique applicable aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1111
+Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1111
 
 1. Dispositions générales
 
@@ -16,7 +16,7 @@ L'installation est soumise à des contrôles périodiques par des organismes agr
 
 Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme : "objet du contrôle", éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
 
-Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ".
+Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : "le non-respect de ce point relève d'une non-conformité majeure".
 
 L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
@@ -66,7 +66,7 @@ L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais
 
 1.6. Changement d'exploitant
 
-Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représentant en fait la déclaration au préfet dans le mois qui suit la prise en charge de l'exploitation. Cette déclaration mentionne, s'il s'agit d'une personne physique, les noms, prénoms et domicile du nouvel exploitant et, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire de la déclaration.
+Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représentant en fait la déclaration au préfet dans le mois qui suit la prise en charge de l'exploitation. Cette déclaration d mentionne, s'il s'agit d'une personne physique, les nom, prénoms et domicile du nouvel exploitant et, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire de la déclaration.
 
 1.7. Cessation d'activité
 
@@ -200,13 +200,13 @@ Objet du contrôle :
 
 2.5. Accessibilité
 
-L'installation est accessible pour permettre l'intervention des services d'incendie et de secours. Elle est desservie, sur au moins une face, par une voie engins ou par une voie échelles si le plancher haut de cette installation est à une hauteur supérieure à 8 mètres par rapport à cette voie.
+L'installation est accessible pour permettre l'intervention des services d'incendie et de secours. Elle est desservie, sur au moins une face, par une voie "engins" ou par une voie "échelles" si le plancher haut de cette installation est à une hauteur supérieure à 8 mètres par rapport à cette voie.
 
 En cas de local fermé, une des façades est équipée d'ouvrant permettant le passage de sauveteurs équipés.
 
 Objet du contrôle :
 
-- présence d'une voie engins ou d'une voie échelles gardée libre (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence d'une voie "engins" ou d'une voie "échelles" gardée libre (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - en cas de local fermé, présence d'ouvrant sur une des façades (le non-respect de ce point relève d'une non-conformité majeure).
 
@@ -216,7 +216,7 @@ Sans préjudice des dispositions du code du travail, les locaux sont convenablem
 
 2.7. Installations électriques
 
-Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application du décret n° 88-1056 du 14 novembre1988 relatif à la réglementation du travail ou par l'application des articles de la quatrième partie du code du travail.
+Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application du décret n° 88-1056 du 14 novembre relatif à la réglementation du travail ou par l'application des articles de la quatrième partie du code du travail.
 
 2.8. Mise à la terre des équipements
 
@@ -228,7 +228,7 @@ Le sol des aires de stockage ou de manipulation des produits dangereux pour l'ho
 
 Objet du contrôle :
 
-- présence d'un seuil surélevé ou autre dispositif équivalent en rétention pour les locaux et aires de stockage ou de manipulation des produits (le non-respect de ce point relève d'une nonconformité majeure).
+- présence d'un seuil surélevé ou autre dispositif équivalent en rétention pour les locaux et aires de stockage ou de manipulation des produits (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.10. Cuvettes de rétention
 
@@ -274,7 +274,7 @@ Les récipients contenant des gaz ou gaz liquéfiés sont placés dans des locau
 
 Les générateurs d'aérosols contenant des produits très toxiques peuvent être stockés avec d'autres produits visés par les rubriques 1130/1131, 1150. L'aire de stockage est entièrement ceinturée par un grillage ou par un mur.
 
-Dans tous les cas, les substances ou préparations inflammables au sens de l'arrêté ministériel du 20 avril 1994 ou au règlement CLP n° 1272/2008 du 16 décembre 2008 modifié sont situées sur une aire ou dans une cellule spécifique répondant aux caractéristiques du point 2.4.
+Dans tous les cas, les substances ou préparations inflammables au sens de l'arrêté ministériel du 20 avril 1994 ou au règlement CLP no 1272/2008 du 16 décembre 2008 modifié sont situées sur une aire ou dans une cellule spécifique répondant aux caractéristiques du point 2.4.
 
 Pour assurer une bonne ventilation, un espace libre est d'au moins un mètre entre le stockage des substances ou préparations très toxiques et le plafond.
 
@@ -302,11 +302,11 @@ Objet du contrôle :
 
 - présence d'un dispositif interdisant l'accès à l'établissement à toute personne étrangère à l'installation.
 
-3.3. Connaissance des produits - Etiquetage
+3.3. Connaissance des produits. - Etiquetage
 
 L'exploitant dispose des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité.
 
-Les solides, liquides, gaz ou gaz liquéfiés très toxiques sont contenus dans des emballages ou récipients conformes à la réglementation en vigueur en France. Les emballages portent en caractères très lisibles le nom des produits et les symboles de danger conformément, notamment à l'arrêté ministériel du 20 avril 1994 relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances et préparations chimiques dangereuses ou au règlement CLP n° 1272/2008 du 16 décembre 2008 modifié relatif à la classification, l'emballage et l'étiquetage des substances et mélanges.
+Les solides, liquides, gaz ou gaz liquéfiés très toxiques sont contenus dans des emballages ou récipients conformes à la réglementation en vigueur en France. Les emballages portent en caractères très lisibles le nom des produits et les symboles de danger conformément, notamment à l'arrêté ministériel du 20 avril 1994 relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances et préparations chimiques dangereuses ou au règlement CLP no 1272/2008 du 16 décembre 2008 modifié relatif à la classification, l'emballage et l'étiquetage des substances et mélanges.
 
 Objet du contrôle :
 
@@ -380,19 +380,19 @@ Objet du contrôle :
 
 - présence et implantation d'au moins un appareil d'incendie (bouches, poteaux...) ou présence d'un volume d'eau supérieur à 5 mètres cubes par tonne de produits stockés (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence et implantation d'au moins un extincteur (le non-respect de ce point relève d'une nonconformité majeure) ;
+- présence et implantation d'au moins un extincteur (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - présence d'une réserve de sable meuble et sec supérieure à 100 litres ;
 
 - présence d'un moyen d'alerte des services d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence d'un système interne d'alerte incendie (le non-respect de ce point relève d'une nonconformité majeure) ;
+- présence d'un système interne d'alerte incendie (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - présentation d'un justificatif de contrôle annuel des équipements (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.3. Localisation des risques
 
-L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en oeuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
+L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
 
 L'exploitant détermine pour chacune de ces parties de l'installation la nature du risque (incendie, atmosphères explosives ou émanations toxiques, etc.). Ce risque est signalé.
 
@@ -404,13 +404,13 @@ Objet du contrôle :
 
 4.4. Matériel électrique de sécurité
 
-Dans les parties de l'installation visées au point 4.3 atmosphères explosives , les installations électriques sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation. Elles sont entièrement constituées de matériels utilisables dans les atmosphères explosives. Cependant, dans les parties de l'installation où les atmosphères explosives peuvent apparaître de manière épisodique avec une faible fréquence et une courte durée, les installations électriques peuvent être constituées de matériel électrique de bonne qualité industrielle qui, en service normal, n'engendrent ni arc ni étincelle, ni surface chaude susceptible de provoquer une explosion.
+Dans les parties de l'installation visées au point 4.3 "atmosphères explosives", les installations électriques sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation. Elles sont entièrement constituées de matériels utilisables dans les atmosphères explosives. Cependant, dans les parties de l'installation où les atmosphères explosives peuvent apparaître de manière épisodique avec une faible fréquence et une courte durée, les installations électriques peuvent être constituées de matériel électrique de bonne qualité industrielle qui, en service normal, n'engendrent ni arc ni étincelle, ni surface chaude susceptible de provoquer une explosion.
 
 Les tuyauteries ne sont pas une cause possible d'inflammation et sont convenablement protégées contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
 
 4.5. Interdiction des feux
 
-Dans les parties de l'installation, visées au point 4.3, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un permis de feu . Cette interdiction est affichée en caractères apparents.
+Dans les parties de l'installation, visées au point 4.3, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction est affichée en caractères apparents.
 
 Dans les parties de l'installation visées au point 2.4, des méthodes indirectes et sûres telles que le chauffage à eau chaude, à la vapeur ou à air chaud dont la source est située en dehors de l'aire de stockage, de manipulation ou d'emploi sont utilisées. L'utilisation de convecteurs électriques, de poêles, de réchauds ou d'appareils de chauffage à flamme nues est à proscrire.
 
@@ -418,11 +418,11 @@ Objet du contrôle :
 
 - affichage de l'interdiction.
 
-4.6. " Permis de travail " et/ou " permis de feu " dans les parties de l'installation visées au point 4.3
+4.6. "Permis de travail" "et/ou "permis de feu" dans les parties de l'installation visées au point 4.3
 
-Dans les parties de l'installation visées au point 4.3, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits, etc.) ne sont effectués qu'après délivrance d'un " permis de travail " et éventuellement d'un " permis de feu " et en respectant les règles d'une consigne particulière.
+Dans les parties de l'installation visées au point 4.3, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits, etc.) ne sont effectués qu'après délivrance d'un "permis de travail" et éventuellement d'un "permis de feu" et en respectant les règles d'une consigne particulière.
 
-Le " permis de travail " et éventuellement le " permis de feu " et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il a nommément désignée. Lorsque les travaux sont effectués par une entreprise extérieure, le " permis de travail " et éventuellement le " permis de feu " et la consigne particulière relative à la sécurité de l'installation, sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils ont nommément désignées.
+Le "permis de travail" et éventuellement le "permis de feu" et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il a nommément désignée. Lorsque les travaux sont effectués par une entreprise extérieure, le "permis de travail" et éventuellement le "permis de feu" et la consigne particulière relative à la sécurité de l'installation, sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils ont nommément désignées.
 
 Après la fin des travaux et avant la reprise de l'activité, une vérification des installations est effectuée par l'exploitant ou son représentant.
 
@@ -432,9 +432,9 @@ Sans préjudice des dispositions du code du travail, des consignes précisant le
 
 Ces consignes indiquent notamment :
 
-- l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 4.3 " incendie " et " atmosphères explosives " ;
+- l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 4.3 "incendie" et "atmosphères explosives" ;
 
-- l'obligation du "permis de travail" pour les parties de l'installation visées au point 4.3 ;
+- l'obligation du " permis de travail " pour les parties de l'installation visées au point 4.3 ;
 
 - les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
 
@@ -592,13 +592,11 @@ Les effluents gazeux respectent les valeurs limites définies ci-après, exprim�
 
 - les gaz rejetés à l'atmosphère contiennent moins de 150 mg/Nm3 de composés organiques volatils si le débit massique horaire dépasse 2 kg/h.
 
-6.2.2. Prescriptions complémentaires pour les gaz ou gaz liquéfiés très toxiques
-
-Toutes dispositions sont prises pour limiter au minimum le rejet à l'air libre des gaz ou gaz liquéfiés très toxiques, excepté dans le cas des purges en cours des opérations de branchement/débranchement des récipients.
+6.2.2. Prescriptions complémentaires pour les gaz ou gaz liquéfiés très toxiques Toutes dispositions sont prises pour limiter au minimum le rejet à l'air libre des gaz ou gaz liquéfiés très toxiques, excepté dans le cas des purges en cours des opérations de branchement/débranchement des récipients.
 
 7. Déchets
 
-7.1. Récupération - Recyclage - Élimination
+7.1. Récupération. - Recyclage. - Élimination
 
 Toutes dispositions sont prises pour limiter les quantités de déchets produits, notamment en effectuant toutes les opérations de valorisation possibles.
 
@@ -638,9 +636,9 @@ Le brûlage des déchets à l'air libre est interdit.
 
 Au sens du présent arrêté, on appelle :
 
-" émergence " : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation)
+- "émergence" : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
 
-" zones à émergence réglementée " :
+- "zones à émergence réglementée" :
 
 - l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) ;
 
@@ -714,11 +712,11 @@ Dans le cas où le bruit particulier de l'établissement est à tonalité marqu�
 
 Lorsque plusieurs installations classées, soumises à déclaration au titre de rubriques différentes, sont situées au sein d'un même établissement, le niveau de bruit global émis par ces installations respecte les valeurs limites ci-dessus.
 
-8.2. Véhicules - Engins de chantier
+8.2. Véhicules. - Engins de chantier
 
 Les véhicules de transport, les matériels de manutention et les engins de chantier utilisés à l'intérieur de l'installation sont conformes aux dispositions en vigueur en matière de limitation de leurs émissions sonores. En particulier, les engins de chantier sont conformes à un type homologué.
 
-L'usage de tous appareils de communication par voie acoustique (sirènes, avertisseurs, haut parleurs, etc.), gênant pour le voisinage, est interdit, sauf si leur emploi est exceptionnel et réservé à la prévention et au signalement d'incidents graves ou d'accidents.
+L'usage de tous appareils de communication par voie acoustique (sirènes, avertisseurs, haut-parleurs, etc.), gênant pour le voisinage, est interdit, sauf si leur emploi est exceptionnel et réservé à la prévention et au signalement d'incidents graves ou d'accidents.
 
 8.3. Vibrations
 

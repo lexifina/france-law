@@ -344,7 +344,7 @@ A
 
 |
 
-Direction départementale de l'équipement de l'Isère
+Direction départementale des territoires de l'Isère
 
 FONCTIONS EXERCEES
 
@@ -368,7 +368,7 @@ par emploi
 
 |
 
-Référent pour le contrat de ville de l'agglomération grenobloise
+Chef du service logement et construction
 
 |
 
@@ -380,11 +380,11 @@ A
 
 |
 
-30 points
+30
 
 |
 
-Délégué de l'Etat
+Référent pour le contrat ville de l'agglomération grenobloise-Bureau rénovation urbaine-Service logement et construction
 
 |
 
@@ -392,15 +392,63 @@ A
 
 |
 
-4
+1
 
 |
 
-30 points
+30
 
 |
 
-Gestionnaire au sein du service interministériel d'actions pour le logement des personnes en difficulté
+Chef du bureau politique de l'habitat-Service logement et construction
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30
+
+|
+
+Chef du bureau logement public-Service logement et construction
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30
+
+|
+
+Référent parc privé et plans de sauvegarde-Bureau logement privé/ ANAH-Service logement et construction
+
+|
+
+A
+
+|
+
+1
+
+|
+
+30
+
+|
+
+Instructreur dossier politique de la ville-Bureau rénovation urbaine-Service logement et construction
 
 |
 
@@ -412,11 +460,11 @@ B
 
 |
 
-30 points
+30
 
 |
 
-Instructeur de dossiers relatifs à l'élaboration des contrats de ville
+Instructeur du suivi et de la contractualisation avec les organismes HLM-Bureau rénovation urbaine-Service logement et construction
 
 |
 
@@ -424,15 +472,15 @@ B
 
 |
 
-2
+1
 
 |
 
-30 points
+30
 
 |
 
-Chargé de la préparation et du suivi des dossiers de financement
+Instructeur dossier politique de la ville-Bureau logement public-Service logement et construction
 
 |
 
@@ -444,7 +492,47 @@ C
 
 |
 
-30 points
+30
+
+|
+
+Direction départementale de la cohésion sociale de l'Isère
+
+FONCTIONS EXERCEES
+
+|
+
+NIVEAU
+
+de qualification de l'emploi
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE DE POINTS (IM)
+
+par emploi
+
+|
+
+Chargé de mission-gestion du contingent préfectoral de la métropole grenobloise-Bureau d'accès au logement des personnes défavorisées-Pôle hébergement et logement social
+
+|
+
+B
+
+|
+
+1
+
+|
+
+30
 
 |
 
