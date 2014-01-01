@@ -310,14 +310,6 @@ Chef du département de la coordination des établissements.
 
 |
 
-Chef du bureau de l'habillement.
-
-|
-
-30
-
-|
-
 Chef du bureau de la gestion et de la formation des personnels.
 
 |
@@ -676,18 +668,28 @@ Chef du bureau du personnel civil. |
 
 |
 
-Délégation à la sécurité et à la circulation routières. |
+Délégation à la sécurité et à la circulation routières.
+
+|
 
 Chef du bureau du permis de conduire.
 
 |
 
-30
+30 |
+
+Chef du service du fichier national des permis de conduire.
 
 |
 
-Chef du service du fichier national des permis de conduire. |
+50 |
 
-50
+Service de l'achat, des équipements et de la logistique de la sécurité intérieure.
+
+|
+
+Chef du bureau de la maintenance des équipements. |
+
+30
 
 |
