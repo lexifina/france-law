@@ -6,7 +6,7 @@ Redevance de production
 
 |
 
-k0 = (1 - 4 %)
+k0 = (1 - 4 %)*(1 - 2 %)
 
 |
 
@@ -14,7 +14,7 @@ Redevance de gestion de navigabilité
 
 |
 
-K1 = (1 - 4 %) × Th
+k1 = (1 - 4 %)*(1 - 2 %) × Th
 
 |
 
@@ -22,7 +22,7 @@ Redevance de maintenance
 
 |
 
-k2 = (1 - 4 %) × Th
+k2 = (1 - 4 %)*(1 - 2 %) × Th
 
 |
 
@@ -30,7 +30,7 @@ Redevance d'organisme de formation de personnel de maintenance
 
 |
 
-k3 = 0,5 × (1 - 4 %) × Th
+k3 = 0,5 × (1 - 4 %)*(1 - 2 %) × Th
 
 |
 
@@ -74,7 +74,7 @@ Redevance d'aptitude au vol
 
 |
 
-K10 = (1 - 4 %) × Th
+k10 = (1 - 4 %)*(1 - 2 %) × Th
 
 |
 
@@ -82,7 +82,7 @@ Dans le tableau ci-dessus, le montant de Th est fixé au V ci-dessous.
 
 II. - Le plafond du montant de la redevance d'exploitant d'aéronef mentionné à l'article 5 du présent arrêté est fixé à 6 150 000 €.
 
-III. - La valeur du coefficient N mentionné à l'article 12 est fixée à (1 - 4 %) × 8,81.
+III. - La valeur du coefficient N mentionné à l'article 12 est fixée à (1 - 4 %)*(1 - 2 %) × 8,81.
 
 IV. - Le tarif des frais d'édition des documents mentionnés à l'article 12 du présent arrêté est fixé, par édition d'un document, à 50 €.
 
