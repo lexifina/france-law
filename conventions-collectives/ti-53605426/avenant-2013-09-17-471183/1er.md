@@ -1,0 +1,61 @@
+# Article 1er
+
+L' article 3 est remplacé par les dispositions suivantes :
+
+« Article 3
+
+Salariés bénéficiaires
+
+Les dispositions du présent accord s'appliquent aux salariés non cadres ayant 6 mois d'ancienneté dans l'entreprise et relevant du champ d'application du présent accord, à l'exclusion :
+
+– des cadres ressortissant à la convention collective nationale du 2 avril 1952 et relevant de la caisse de retraite complémentaire cadres en application des décisions de l'AGIRC et bénéficiant à ce titre du régime de prévoyance défini dans la convention précitée ;
+
+– des VRP ressortissant à d'autres dispositions conventionnelles obligatoires ;
+
+– des salariés non cadres définis ci-dessus ressortissant à un accord d'entreprise dans les conditions fixées à l'article 13 de l'accord.
+
+Toutefois, les salariés nouvellement embauchés dans une entreprise relevant du champ d'application de l'accord et ayant acquis préalablement l'ancienneté requise dans une autre entreprise relevant du champ d'application de l'accord peuvent bénéficier des garanties dès lors que leur embauche intervient au plus tard dans les 4 mois suivant la fin de leur contrat de travail précédent.
+
+Dans ce cadre, les salariés doivent en faire la demande écrite formelle au nouvel employeur.
+
+Article 3.1
+
+Affiliation
+
+A compter de la date d'effet du présent accord, les entreprises doivent affilier les salariés bénéficiaires visés au présent article auprès de l'organisme assureur suivant l'article 4 de l'accord, par la signature d'un bulletin d'affiliation.
+
+Pour les dispositions du présent accord, la condition d'ancienneté est réputée acquise au premier jour du mois civil au cours duquel le salarié acquiert 6 mois d'ancienneté.
+
+Conformément aux dispositions légales, une notice d'information, délivrée par l'organisme assureur à l'employeur, sera remise par ce dernier à chaque salarié de l'entreprise afin de lui faire connaître les caractéristiques du régime.
+
+Article 3.2
+
+Dispenses d'affiliation
+
+Ont par ailleurs la possibilité de solliciter une dispense d'affiliation afin de ne pas souscrire au présent régime les salariés se trouvant dans un des cas ci-dessous :
+
+– les salariés bénéficiant d'une assurance frais de santé en qualité d'ayant droit de leur conjoint, concubin ou partenaire d'un Pacs, en application d'un accord collectif obligatoire pour lui, peuvent demander à être exclus de l'assurance complémentaire frais de santé prévue au présent accord, dès lors qu'ils apportent un document attestant chaque année cette couverture obligatoire pour un niveau au moins équivalent.
+
+Cette exclusion prend fin en cas de modification de la qualité d'ayant droit, en cas de non-renouvellement annuel de l'attestation, de diminution des prestations à un niveau inférieur à celui fixé dans le présent accord, de cessation du régime obligatoire ou à la demande du salarié. En cas d'exclusion, les cotisations correspondantes ne sont dues ni par le salarié ni par l'employeur ;
+
+– les bénéficiaires de la CMU-C ainsi que de l'aide à l'acquisition d'une complémentaire santé visée à l'article L. 863-1 du code de la sécurité sociale ;
+
+– les salariés bénéficiant d'une couverture obligatoire du fait d'une autre activité exercée simultanément peuvent également demander à être exclus de la présente assurance complémentaire ;
+
+– les salariés à temps partiel ayant 6 mois d'ancienneté et plus dès lors que leur cotisation complémentaire santé est égale ou supérieure à 10 % de leur rémunération ;
+
+– les salariés en contrat à durée déterminée, y compris les apprentis, ayant 6 mois d'ancienneté et moins de 12 mois d'ancienneté.
+
+La demande d'exclusion doit être faite par écrit à l'employeur au plus tard avant la fin du premier mois qui suit celui de l'obtention de la condition d'ancienneté de 6 mois d'ancienneté.
+
+Au jour de l'entrée en vigueur du présent avenant, les salariés à temps partiel ou en contrat à durée déterminée ayant entre 6 mois et 12 mois d'ancienneté doivent faire leur demande d'exclusion par écrit adressée à l'employeur avant la fin du premier mois d'application de l'avenant.
+
+En cas d'augmentation de la rémunération du salarié à temps partiel, notamment du fait de l'augmentation de sa durée de travail, si la cotisation représente moins de 10 % de celle-ci de façon pérenne, le salarié devra alors obligatoirement cotiser à l'assurance complémentaire santé.
+
+Pour les salariés à employeurs multiples relevant du champ d'application du présent accord, le salarié et un seul de ses employeurs cotisent auprès de l'organisme désigné. Il s'agira de l'employeur chez lequel le salarié acquiert en premier la condition d'ancienneté requise pour bénéficier du régime, sauf accord entre les employeurs et le salarié.
+
+La mise en œuvre d'un de ces cas de dispense ne peut avoir lieu que sur demande expresse de la part du salarié concerné, qui devra produire chaque année les justificatifs permettant de vérifier les conditions de la dispense.
+
+Si le salarié ne remplit plus les conditions de dispense d'affiliation, il doit en informer l'employeur et il devra alors obligatoirement cotiser à l'assurance complémentaire santé à compter du mois civil suivant.
+
+Dans les cas d'exclusion ou de dispense précités, les cotisations correspondantes ne sont dues ni par le salarié ni par l'employeur. »
