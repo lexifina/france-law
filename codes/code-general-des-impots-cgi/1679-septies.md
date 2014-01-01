@@ -12,10 +12,14 @@ Les redevables peuvent, sous leur responsabilité, réduire le montant de leurs 
 
 Pour l'application des exonérations ou des abattements de cotisations sur la valeur ajoutée des entreprises prévus à l'article 1586 nonies, les entreprises sont autorisées à limiter le paiement des acomptes de leur cotisation sur la valeur ajoutée des entreprises dans la proportion entre :
 
--d'une part, le montant total correspondant aux exonérations et abattements de cotisations foncières des entreprises au titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I et des articles 1465 à 1466 F ;
+-d'une part, le montant total correspondant aux exonérations et abattements de cotisations foncières des entreprises au titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I, de l'article 1464 L et des articles 1465 à 1466 F ;
 
 -et, d'autre part, le montant visé au septième alinéa majoré du montant total des cotisations foncières des entreprises dû au titre de l'année précédente.
 
 Un décret précise les conditions d'application des sixième à huitième alinéas.
 
 L'année suivant celle de l'imposition, le redevable doit procéder à la liquidation définitive de la cotisation sur la valeur ajoutée des entreprises sur une déclaration à souscrire au plus tard le deuxième jour ouvré suivant le 1er mai. Cette dernière est accompagnée, le cas échéant, du versement du solde correspondant. Si la liquidation définitive fait apparaître que les acomptes versés sont supérieurs à la cotisation effectivement due, l'excédent, déduction faite des autres impôts directs dus par le redevable, est restitué dans les soixante jours suivant le deuxième jour ouvré suivant le 1er mai.
+
+NOTA :
+
+Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, art. 25 III : Ces dispositions s'appliquent à compter des impositions établies au titre de 2015.
