@@ -6,7 +6,9 @@ CATÉGORIE DE MÉNAGES
 
 |
 
-PARIS ET COMMUNES LIMITROPHES
+PARIS
+
+et communes limitrophes
 
 (en euros)
 
@@ -14,7 +16,9 @@ PARIS ET COMMUNES LIMITROPHES
 
 ÎLE-DE-FRANCE
 
-hors Paris et communes limitrophes
+hors Paris
+
+et communes limitrophes
 
 (en euros)
 
@@ -30,15 +34,15 @@ AUTRES RÉGIONS
 
 |
 
-12 549
+12 662
 
 |
 
-12 549
+12 662
 
 |
 
-10 908
+11 006
 
 |
 
@@ -46,15 +50,15 @@ AUTRES RÉGIONS
 
 |
 
-20 459
+20 643
 
 |
 
-20 459
+20 643
 
 |
 
-15 894
+16 037
 
 |
 
@@ -62,15 +66,15 @@ AUTRES RÉGIONS
 
 |
 
-26 818
+27 059
 
 |
 
-24 591
+24 812
 
 |
 
-19 111
+19 283
 
 |
 
@@ -78,15 +82,15 @@ AUTRES RÉGIONS
 
 |
 
-29 354
+29 618
 
 |
 
-27 002
+27 245
 
 |
 
-21 266
+21 457
 
 |
 
@@ -94,15 +98,15 @@ AUTRES RÉGIONS
 
 |
 
-34 919
+35 233
 
 |
 
-31 967
+32 255
 
 |
 
-24 881
+25 105
 
 |
 
@@ -110,15 +114,15 @@ AUTRES RÉGIONS
 
 |
 
-39 296
+39 650
 
 |
 
-35 971
+36 295
 
 |
 
-28 040
+28 292
 
 |
 
@@ -126,14 +130,14 @@ Par personne supplémentaire
 
 |
 
-4 378
+4 417
 
 |
 
-4 007
+4 043
 
 |
 
-3 127
+3 155
 
 |
