@@ -100,7 +100,9 @@ b) Supérieure à 550 kW, mais inférieure ou égale à 5 MW
 
 |
 
-c) Supérieure à 40 kW, mais inférieure ou égale à 200 kW |
+c) Supérieure à 40 kW, mais inférieure ou égale à 200 kW
+
+|
 
 D
 
@@ -1326,6 +1328,16 @@ Chauffage et traitement industriels par l'intermédiaire de bains de sels fondus
 
 Le volume des bains étant :
 
+|
+
+|
+
+|
+
+|
+
+|
+
 1. Supérieur à 500 l
 
 |
@@ -1364,13 +1376,23 @@ Nettoyage-dégraissage de surface quelconque, par des procédés utilisant des l
 
 La quantité de produit mise en œuvre dans le procédé étant :
 
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 1. Supérieure à 7 500 l
 
 |
 
-E
-
-|
+E |
 
 |
 
@@ -1385,18 +1407,6 @@ E
 |
 
 DC
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1482,7 +1492,9 @@ B. Pour des solvants non visés en A ou pour des procédés utilisés sous-vide 
 
 |
 
-DC |
+DC
+
+|
 
 |
 
@@ -1546,11 +1558,17 @@ Revêtement métallique ou traitement (nettoyage, décapage, conversion dont pho
 
 |
 
-|
+A
 
 |
 
-1. Quelle que soit la capacité |
+1
+
+|
+
+1. Quelle que soit la capacité
+
+|
 
 4
 
@@ -1576,11 +1594,7 @@ b) De cyanures, le volume des cuves étant supérieur à 200 l
 
 |
 
-A
-
 |
-
-1
 
 |
 
@@ -1614,9 +1628,7 @@ A
 
 |
 
-a) supérieur à 25 000 l
-
-|
+a) supérieur à 25 000 l |
 
 4
 
@@ -1640,9 +1652,7 @@ b) Supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
 |
 
-DC
-
-|
+DC |
 
 |
 
@@ -1722,7 +1732,9 @@ b) Supérieure à 500 l, mais inférieure ou égale à 2 000 l
 
 |
 
-DC |
+DC
+
+|
 
 |
 
@@ -1734,9 +1746,13 @@ DC |
 
 |
 
-A |
+A
 
-1 |
+|
+
+1
+
+|
 
 |
 
@@ -1822,7 +1838,9 @@ b) Supérieure à 20 kg/ jour mais inférieure ou égale à 200 kg/ jour
 
 |
 
-DC |
+DC
+
+|
 
 |
 
@@ -2272,7 +2290,7 @@ b) supérieure à 5 t/j, mais inférieure ou égale à 20 t/j
 
 |
 
-Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (transformation de)
+Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (transformation de) :
 
 |
 
@@ -2284,7 +2302,7 @@ Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhés
 
 |
 
-1. Par des procédés exigeant des conditions particulières de température ou de pression (extrusion, injection, moulage, segmentation à chaud, densification, etc.), la quantité de matière susceptible d'être traitée étant :
+1. Par des procédés exigeant des conditions particulières de température ou de pression (extrusion, injection, moulage, segmentation à chaud, vulcanisation, etc.), la quantité de matière susceptible d'être traitée étant :
 
 |
 
@@ -2296,7 +2314,7 @@ Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhés
 
 |
 
-a) Supérieure ou égale à 10 t/j
+a) Supérieure ou égale à 70 t/ j
 
 |
 
@@ -2316,7 +2334,21 @@ A
 
 |
 
-b) Supérieure ou égale à 1 t/j, mais inférieure à 10 t/j
+b) Supérieure ou égale à 10 t/ j mais inférieure à 70 t/ j
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+c) Supérieure ou égale à 1 t/ j, mais inférieure à 10 t/ j
 
 |
 
@@ -2342,15 +2374,13 @@ D
 
 |
 
-a) Supérieure ou égale à 20 t/j
+a) Supérieure ou égale à 20 t/ j
 
 |
 
-A
+E
 
 |
-
-1
 
 |
 
@@ -2362,7 +2392,7 @@ A
 
 |
 
-b) Supérieure ou égale à 2 t/j, mais inférieure à 20 t/j
+b) Supérieure ou égale à 2 t/ j, mais inférieure à 20 t/ j
 
 |
 
@@ -3858,7 +3888,9 @@ Installations de compostage de déchets non dangereux ou de matière végétale,
 
 |
 
-1. Non soumis à la taxe |
+1. Non soumis à la taxe
+
+|
 
 -
 
@@ -4339,6 +4371,124 @@ b) Supérieure ou égale à 10 t/j et inférieure à 50 t/j
 |
 
 -
+
+|
+
+2792
+
+|
+
+1. Installations de transit, tri, regroupement de déchets contenant des PCB/PCT à une concentration supérieure à 50 ppm :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est supérieure ou égale à 200 t
+
+|
+
+AS
+
+|
+
+4
+
+|
+
+|
+
+|
+
+b) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est supérieure ou égale à 2 t et inférieure à 200 t
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+c) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est inférieure à 2 t
+
+|
+
+DC
+
+|
+
+|
+
+|
+
+|
+
+2. Installations de traitement, y compris les installations de décontamination, des déchets contenant des PCB/PCT à une concentration supérieure à 50 ppm, hors installations mobiles de décontamination :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est supérieure ou égale à 200 t
+
+|
+
+AS
+
+|
+
+4
+
+|
+
+|
+
+|
+
+b) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est inférieure à 200 t
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+Nota. - La concentration en PCB/PCT s'exprime en PCB totaux.
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -7289,6 +7439,8 @@ A
 (2) Rayon d'affichage en kilomètres.
 
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322 sont supprimées. Se référer à la place aux rubriques 2770 et 2771.
+
+Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
 
 NOTA :
 

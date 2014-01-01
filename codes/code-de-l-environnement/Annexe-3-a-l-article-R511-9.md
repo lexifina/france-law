@@ -982,7 +982,7 @@ D
 
 |
 
-Porcs (établissements d'élevage, vente, transit, etc., de) en stabulation ou en plein air :
+Porcs (activité d'élevage, vente, transit, etc.) en stabulation ou en plein air, à l'exclusion d'activités spécifiques visées à d'autres rubriques :
 
 |
 
@@ -994,7 +994,7 @@ Porcs (établissements d'élevage, vente, transit, etc., de) en stabulation ou e
 
 |
 
-1. Plus de 450 animaux-équivalents
+1. Installations dont les activités sont classées au titre de la rubrique 3660
 
 |
 
@@ -1010,7 +1010,33 @@ A
 
 |
 
-2. De 50 à 450 animaux-équivalents
+2. Autres installations que celles visées au 1 et détenant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+a) Plus de 450 animaux-équivalents
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+b) De 50 à 450 animaux-équivalents
 
 |
 
@@ -1024,13 +1050,11 @@ D
 
 |
 
-Nota :
+Nota. - Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en élevage de multiplication ou sélection comptent pour un animal-équivalent.
 
--Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en élevage de multiplication ou sélection comptent pour un animal-équivalent,
+Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles utilisés pour la reproduction) comptent pour trois animaux-équivalents.
 
--Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles utilisés pour la reproduction) comptent pour trois animaux-équivalents,
-
--Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement ou sélection comptent pour 0, 2 animal-équivalent.
+Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement ou sélection comptent pour 0,2 animal-équivalent.
 
 |
 
@@ -4425,6 +4449,8 @@ DC
 -
 
 |
+
+Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2102 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
 
 NOTA :
 
