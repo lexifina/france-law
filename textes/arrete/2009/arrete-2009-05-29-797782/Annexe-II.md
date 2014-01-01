@@ -4,13 +4,13 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT FERROVIAIRE DE MARCHANDISES DAN
 
 1. Dispositions générales
 
-1. 1. La présente annexe est composée :
+1.1. La présente annexe est composée :
 
 - de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le Règlement concernant le transport international ferroviaire des marchandises dangereuses (RID). Ce règlement, y compris les amendements en vigueur au 1er janvier 2013, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30, 3006 Berne, Suisse ;
 
 - des dispositions particulières qui complètent notamment l'annexe du RID et en précisent les modalités d'application aux transports nationaux ou internationaux ferroviaires de marchandises dangereuses effectués en France.
 
-1. 2. Les dispositions particulières sont réparties dans les paragraphes 2 à 3 de la présente annexe II comme suit :
+1.2. Les dispositions particulières sont réparties dans les paragraphes 2 à 3 de la présente annexe II comme suit :
 
 Dispositions particulières applicables à tous les transports ferroviaires de marchandises dangereuses (paragraphe 2).
 
@@ -158,13 +158,29 @@ Le chargement et le déchargement des matières dangereuses transportées en cit
 
 2.2.3.4. Pour les opérations et pour les marchandises autorisées par les paragraphes précédents, le gestionnaire de l'infrastructure peut interdire le chargement ou le déchargement de marchandises dangereuses en gare dans certaines zones, le cas échéant en fonction des marchandises dangereuses considérées.
 
-2.3. Transport et stationnement.
+2.3. Transport et séjour temporaire.
 
-2.3.1. Limitation du temps de stationnement.
+Tel que défini par le RID, le transport est le changement de lieu des marchandises dangereuses, y compris les arrêts nécessités par l'exploitation. Il englobe également le séjour temporaire intermédiaire aux fins de changement de mode ou de moyen de transport (transbordement), à condition que le document de transport sur lequel figurent le lieu d'envoi et le lieu de réception soit présenté sur demande. En revanche, le garage de wagons vides non nettoyés n'est pas inclus dans la définition du transport et doit faire l'objet de dispositions spécifiques mentionnées au 2.3.1.2.
 
-2.3.1.1. Les wagons chargés, contenant des marchandises dangereuses, ne peuvent être utilisés aux fins de stockage en dehors des chantiers ou des installations classées pour la protection de l'environnement et des installations nucléaires de base. Ils ne doivent stationner en dehors de ces installations que le temps prévu par les règles établies et diffusées aux transporteurs ferroviaires par le gestionnaire de l'infra-structure et par les prescriptions du présent arrêté, pour les opérations d'expéditions, d'acheminement et de livraison.
+2.3.1. Limitation du séjour temporaire.
 
-2.3.1.2. Les wagons-citernes et les wagons pour vrac vides non nettoyés, exceptés ceux ayant transporté des matières de la classe 7, peuvent être admis en garage prolongé sur les voies ferrées, en des lieux autorisés par le gestionnaire de l'infrastructure et selon des consignes particulières établies par le transporteur ferroviaire en concertation avec le gestionnaire de l'infrastructure.
+2.3.1.1. Les wagons chargés contenant des marchandises dangereuses ne peuvent être utilisés aux fins de stockage en dehors des chantiers ou des installations classées pour la protection de l'environnement et des installations nucléaires de base.
+
+Ils ne doivent séjourner en dehors de ces installations que sur les voies ferrées autorisées par le gestionnaire d'infrastructure, selon les règles établies par celui-ci et diffusées aux transporteurs ferroviaires, et par les prescriptions du présent arrêté, pour les opérations d'expéditions, d'acheminement et de livraison. Le séjour temporaire doit respecter le plan de transport et répondre aux prescriptions du présent arrêté.
+
+En exploitation normale, si le séjour temporaire excède quarante-huit heures, les vérifications prévues au 1.4.2.2.1 c sont réalisées toutes les vingt-quatre heures, après un délai de quarante-huit heures. Ces opérations sont enregistrées par le transporteur afin d'en assurer la traçabilité.
+
+Dans le cas d'exploitation dégradée ou d'un incident générant une modification du séjour temporaire prévu au plan de transport, le transporteur en informe l'expéditeur, le destinataire et le gestionnaire d'infrastructure, en vue de définir avec ce dernier les dispositions à prendre.
+
+Le séjour temporaire ne couvre pas le cas des marchandises en attente de livraison du fait du non-respect de l'obligation fixée au destinataire au 1.4.2.3.1 du RID.
+
+La mise en attente de livraison de ces wagons peut être autorisée, sous réserve d'une demande motivée présentée au moins vingt-quatre heures à l'avance par le destinataire au transporteur.
+
+Celui-ci en informe le gestionnaire d'infrastructure et sollicite une dérogation dans les conditions du 5 de l'article 23. Cette dérogation est accordée, sous réserve du respect des conditions de sécurité définies au cas par cas, en concertation avec le gestionnaire de l'infrastructure et le transporteur.
+
+Le séjour temporaire ne couvre pas le cas du garage de wagons vides non nettoyés, qui ne peut s'effectuer que selon les modalités du 2.3.1.2.
+
+2.3.1.2. Les wagons-citernes et les wagons pour vrac vides non nettoyés, exceptés ceux ayant transporté des matières de la classe 7, peuvent être admis en garage sur des voies appropriées et désignées, en des lieux autorisés par le gestionnaire de l'infrastructure et selon des dispositions particulières fixées contractuellement entre le gestionnaire de l'infrastructure et le détenteur de wagon ou son mandataire.
 
 2.3.1.3. Le stationnement des unités de transport intermodal (UTI), au sol ou chargées sur un véhicule ou un bateau dans les centres de transbordement ne doit pas excéder 48 heures. Toutefois, cette durée peut être prolongée dans le cas d'événements extérieurs au centre survenant du fait :
 
@@ -176,7 +192,11 @@ Le chargement et le déchargement des matières dangereuses transportées en cit
 
 Dans les centres de transbordement spécialement affectés aux colis de la classe 7, le stationnement des UTI peut également être prolongé dans le cas de contraintes imposées par le contrôle et la formation ou l'éclatement du convoi ferroviaire.
 
-2.3.2. (supprimé)
+2.3.2. Les dispositions concernant la sûreté sont prises en application du 1.10 du RID et de l'article 8 du présent arrêté.
+
+Les plans de sûreté doivent prévoir les dispositions appropriées pour les séjours temporaires de wagons chargés de marchandises dangereuses à haut risque lorsque leur durée dépasse vingt-quatre heures, notamment pour ce qui concerne le choix des voies.
+
+Lorsque le séjour temporaire a lieu en dehors d'un site répondant aux exigences du 1.10.1.3, les wagons chargés de marchandises dangereuses à haut risque doivent faire l'objet d'une surveillance toutes les vingt-quatre heures par le transporteur.
 
 2.3.3. Mesures à prendre en cas d'incidents et accidents.
 
@@ -186,7 +206,7 @@ Lorsque l'état d'un chargement de matières dangereuses n'offre plus, pour un m
 
 Si la constatation est faite en cours d'acheminement, le wagon est arrêté à l'endroit le plus approprié conformément aux documents prévus par les articles 10 et 13 du décret n° 2006-1279 précité. Le transporteur informe le gestionnaire de l'infrastructure de la nature de l'événement et lui communique les renseignements sur les matières transportées figurant dans le document de transport. Le cas échéant, les mesures prévues dans le plan d'urgence interne de la gare de triage prévu au 2.3.4 de la présente annexe II sont mises en œuvre sans délai.
 
-Selon la nature de l'événement signalé (accident ou incident), notamment explosion, incendie, fuite ou menace de fuite suite à un choc, perte ou vol de matières ou objets dangereux survenant en cours de transport, le gestionnaire de l'infrastructure prévient ou fait prévenir, sans délai, les services d'incendie et de secours et la brigade de gendarmerie ou le service de police le plus proche du lieu de l'événement, cet avis devant indiquer :
+En cas d'accident ou d'événement, notamment explosion, incendie, fuite ou menace de fuite suite à un choc, perte ou vol de matières ou objets dangereux survenant en cours de transport, le gestionnaire de l'infrastructure prévient ou fait prévenir, sans délai, dans les conditions arrêtées au plan d'intervention et de sécurité (PIS) de l'infrastructure prévu par l'arrêté du 12 août 2008 pris en application de l'article 13 du décret n° 2006-1279 du 19 octobre 2006 et relatif aux plans d'intervention et de sécurité sur le réseau ferré national, les services d'incendie et de secours et la brigade de gendarmerie ou le service de police le plus proche du lieu de l'événement, cet avis devant indiquer :
 
 - le lieu ou la nature de l'événement ;
 
@@ -200,7 +220,7 @@ Selon la nature de l'événement signalé (accident ou incident), notamment expl
 
 2.3.4.1. Conformément au 1.11 et au 1.4.3.6, le gestionnaire de l'infrastructure établit sous sa responsabilité un plan d'urgence interne pour une gare de triage traitant de marchandises dangereuses.
 
-2.3.4.2. Le plan d'urgence interne est élaboré et révisé en liaison avec les autorités chargées des secours et, pour la classe 7, avec l'autorité compétente en matière de transport. Le comité d'hygiène, de sécurité et des conditions de travail de l'exploitant du triage est consulté sur le plan.
+2.3.4.2. Le plan d'urgence interne est élaboré et révisé en liaison avec les autorités chargées des secours et, pour la classe 7, avec l'autorité compétente en matière de transport. Le comité d'hygiène, de sécurité et des conditions de travail de l'exploitant du triage est informé sur le plan.
 
 2.3.4.3. Le plan doit être testé régulièrement. Les exercices donnent lieu à un rapport écrit communiqué aux autorités chargées des secours et tenu à disposition des agents de l'administration habilités à constater les infractions en matière de transport de marchandises dangereuses.
 
@@ -236,7 +256,7 @@ Outre les prescriptions du 7.5.3.1, les wagons contenant des matières ou objets
 
 2.5.3. Séjour temporaire dans les gares de départ et d'arrivée.
 
-Les wagons renfermant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1) ou 1.5 sont isolés et placés sur des voies choisies parmi celles qui sont le plus éloignées des voies principales ou de stationnement des trains de voyageurs, des voies de circulation de machines de manœuvres et du bâtiment à voyageurs. Ces wagons sont immobilisés et protégés selon les prescriptions de sécurité du gestionnaire de l'infrastructure.
+Les wagons renfermant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1) ou 1.5 sont isolés et placés sur des voies choisies parmi celles qui sont le plus éloignées des voies principales ou de stationnement des trains de voyageurs, des voies de circulation de machines de manœuvres et du bâtiment à voyageurs. Ces wagons sont immobilisés et protégés par le transporteur ferroviaire ou la personne titulaire de la convention d'exploitation mentionnée à l'article 23 du décret n° 2006-1279 du 19 octobre 2006 modifié relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, selon les paramètres techniques de l'infrastructure indiqués dans la documentation d'exploitation.
 
 Les wagons munis d'une plaque étiquette n° 1, 1.5 ou 1.6 ne sont pas placés sur des voies contiguës ou au voisinage des wagons munis d'une plaque étiquette des n°s 2.1, 3, 4.1, 4.2, 4.3, 5.1 ou 5.2.
 
@@ -293,9 +313,3 @@ Nonobstant le 5.3.1.5, seuls les wagons de messagerie chargés de plus de trois 
 - pour les classes autres que la classe 2 : la plaque-étiquette correspondant à la classe ;
 
 - pour la classe 2 : des plaques-étiquettes correspondant à toutes les étiquettes figurant sur les colis de cette classe.
-
-NOTA :
-
-Arrêté du 12 décembre 2012 article 27 : Les présentes dispositions entrent en vigueur le 1er janvier 2013
-
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2013.

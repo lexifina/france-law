@@ -450,7 +450,7 @@ La mention suivante doit figurer sur le document de transport : Transport effect
 
 3.6. Certificats d'agrément des véhicules admis à circuler en France en dérogation à certaines dispositions de l'annexe B de l'ADR.
 
-Les véhicules immatriculés en France qui, en application soit des 3.3.2 ou 3.5 de la présente annexe I, soit des articles 22, 23 ou 25, sont admis pour l'exécution de transports intérieurs à la France en dérogation à certaines dispositions des annexes A et B mais qui sont néanmoins soumis à un agrément se voient délivrer un certificat d'agrément national barré d'une diagonale de couleur jaune.
+Les véhicules immatriculés en France qui, en application soit du 3.5 de la présente annexe I, soit des articles 22, 23 ou 25, sont admis pour l'exécution de transports intérieurs à la France en dérogation à certaines dispositions des annexes A et B mais qui sont néanmoins soumis à un agrément se voient délivrer un certificat d'agrément national barré d'une diagonale de couleur jaune.
 
 Toutes les règles définies par le présent arrêté et applicables aux certificats d'agrément ADR sont également applicables aux documents nationaux mentionnés ci-dessus, notamment en ce qui concerne les conditions dans lesquelles ils sont délivrés ou renouvelés et leur présence parmi les documents de bord.
 
@@ -545,6 +545,8 @@ Spécialisation classe 7
 8 séances, comprenant au moins 4 séances d'enseignement théorique, et des exercices pratiques
 
 |
+
+.
 
 4.4.2. Formations restreintes de spécialisation citernes.
 
@@ -711,9 +713,3 @@ Lorsqu'une ou plusieurs infractions ont été constatées en matière de transpo
 sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et de la mer.
 
 Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.
-
-NOTA :
-
-Arrêté du 12 décembre 2012 article 27 : Les présentes dispositions entrent en vigueur le 1er janvier 2013
-
-Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, à l'exception des dispositions des 4.5.1, 4.5.2 et 4.6 de l'annexe I, peuvent continuer d'être appliquées jusqu'au 30 juin 2013
