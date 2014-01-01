@@ -1,0 +1,267 @@
+# Article 1er
+
+Sont couverts, selon les conditions du régime conventionnel, tous les actes et frais de soins ayant fait l'objet d'un remboursement et d'un décompte individuel de la sécurité sociale, relevant des postes de garanties détaillées ci-dessous.
+
+Les exclusions et les limitations de garanties ne s'appliquent pas lorsqu'elles ont pour effet d'empêcher les prises en charge minimales prévues à l'article R. 871-2 du code de la sécurité sociale.
+
+Postes |
+
+Prestations
+
+y compris les prestations
+
+versées par la sécurité sociale |
+
+Hospitalisation médicale, chirurgicale et maternité |
+
+Frais de séjour, salle d'opération |
+
+250 % de la base de remboursement |
+
+Actes de chirurgie (ADC) |
+
+250 % de la base de remboursement |
+
+Actes d'anesthésie (ADA) |
+
+250 % de la base de remboursement |
+
+Autres honoraires |
+
+250 % de la base de remboursement |
+
+Chambre particulière en secteur conventionné |
+
+90 € par jour |
+
+Forfait hospitalier engagé |
+
+100 % des frais réels
+
+dans la limite de la législation en vigueur |
+
+Frais d'accompagnement d'enfant à charge de moins
+
+de 16 ans (sur présentation d'un justificatif) |
+
+30 € par jour |
+
+Transport (remboursé par la sécurité sociale) |
+
+100 % de la base de remboursement |
+
+Fécondation in vitro |
+
+Crédit annuel de 450 € |
+
+Actes médicaux |
+
+Généralistes |
+
+250 % de la base de remboursement |
+
+Spécialistes |
+
+250 % de la base de remboursement |
+
+Actes de chirurgie (ADC) |
+
+225 % de la base de remboursement |
+
+Actes techniques médicaux (ATM) |
+
+225 % de la base de remboursement |
+
+Actes d'obstétrique (ACO) |
+
+225 % de la base de remboursement |
+
+Actes d'imagerie médicale (ADI) |
+
+150 % de la base de remboursement |
+
+Actes d'échographie (ADE) |
+
+150 % de la base de remboursement |
+
+Auxiliaires médicaux |
+
+110 % de la base de remboursement |
+
+Analyses |
+
+110 % de la base de remboursement |
+
+Pharmacie (remboursée par la sécurité sociale) |
+
+Vignettes blanche, bleue et orange |
+
+100 % de la base de remboursement |
+
+Dentaire |
+
+Soins dentaires (à l'exception des inlays et onlays) |
+
+100 % de la base de remboursement |
+
+Inlays et onlays |
+
+450 % de la base de remboursement |
+
+Prothèses dentaires remboursées par la sécurité sociale |
+
+450 % de la base de remboursement |
+
+Inlay-core et inlay-core à clavettes |
+
+330 % de la base de remboursement |
+
+Prothèses dentaires non remboursées par la sécurité sociale |
+
+380 % de la base de remboursement |
+
+Pose chirurgicale de l'implant |
+
+Forfait de 1 000 € par implant (limité à 3 implants par an)
+
+(maximum 3 000 € par an) |
+
+Orthodontie acceptée par la sécurité sociale |
+
+300 % de la base de remboursement |
+
+Orthodontie refusée par la sécurité sociale |
+
+300 % de la base de remboursement |
+
+Parodontologie |
+
+Crédit de 300 € par année civile |
+
+Prothèses non dentaires (acceptées par la sécurité sociale) |
+
+Prothèses auditives |
+
+Remboursement par la sécurité sociale + crédit de 1 400 € par année civile |
+
+Orthopédie et autres prothèses |
+
+Remboursement par la sécurité sociale
+
++ crédit de 800 € par année civile |
+
+Optique (*) (limitée à un équipement par an et par bénéficiaire) |
+
+Monture |
+
+Remboursement par la sécurité sociale
+
++ 130 € |
+
+Verres unifocaux simples |
+
+Remboursement par la sécurité sociale
+
++ 90 € par verre |
+
+Verres unifocaux complexes |
+
+Remboursement par la sécurité sociale
+
++ 150 € par verre |
+
+Verres multifocaux ou progressifs simples |
+
+Remboursement par la sécurité sociale
+
++ 220 € par verre |
+
+Verres multifocaux ou progressifs complexes |
+
+Remboursement par la sécurité sociale
+
++ 290 € par verre |
+
+Lentilles acceptées par la sécurité sociale |
+
+Remboursement par la sécurité sociale
+
++ crédit de 200 € par année civile |
+
+Lentilles refusées par la sécurité sociale (y compris lentilles jetables) |
+
+Remboursement par la sécurité sociale
+
++ crédit de 200 € par année civile |
+
+Chirurgie réfractive |
+
+Crédit de 800 € par année civile |
+
+Cure thermale (remboursée par la sécurité sociale) |
+
+Honoraires et frais de traitement |
+
+100 % de la base de remboursement |
+
+Frais de voyage et d'hébergement |
+
+350 € limité à une intervention
+
+par année civile |
+
+Maternité |
+
+Naissance d'un enfant déclaré |
+
+500 € |
+
+Prévention (conformément aux dispositions
+
+du décret n° 2005-1226 du 29 septembre 2005) (**) |
+
+100 % de la base de remboursement |
+
+Pack bien-être |
+
+Acupuncture, chiropractie, ostéopathie, diététique, psychologie, sevrage tabagique prescrit, vaccin contre la grippe, vaccins prescrits non remboursés, moyens contraceptifs prescrits |
+
+Crédit annuel de 150 € |
+
+Assistance hospitalisation et ambulatoire |
+
+|
+
+Garanties détaillées dans la notice d'information spécifique prise en application du protocole existant entre AG2R Prévoyance et l'assisteur. |
+
+En secteur non conventionné, les tarifs sont reconstitués sur la base du tarif de convention ou prix unitaire selon la nomenclature sécurité sociale des actes.
+
+(*) Détail poste optique :
+
+– verres unifocaux simples : LPP 22 61874,22 42457,22 00393,22 70413,22 03240,22 87916,22 59966,22 26412 ;
+
+– verres unifocaux complexes : LPP 22 43540,22 97441,22 43304,22 91088,22 73854,22 48320,22 83953,22 19381,22 38941,22 68385,
+
+22 45036,22 06800,22 82793,22 63459,22 80660,22 65330,22 35776,22 95896,22 84527,22 54868,22 12976,22 52668,22 88519,22 99523 ;
+
+– verres multifocaux simples : 22 59245,22 64045,22 40671,22 82221,22 90396,22 91183,22 27038,22 99180 ;
+
+– verres multifocaux complexes : 22 38792,22 02452,22 34239,22 59660,22 45384,22 95198,22 02239,22 52042.
+
+(**) Détail des actes de prévention suite au décret n° 2005-1226 du 29 septembre 2005 et de ses arrêtés subséquents :
+
+– scellement prophylactique des puits, sillons et fissures (SC8), sous réserve que l'acte soit effectué sur les première et deuxième molaires
+
+permanentes, qu'il n'intervienne qu'une fois par dent et qu'il soit réalisé en cas de risque carieux et avant le quatorzième anniversaire ;
+
+– détartrage annuel complet sus et sous-gingival effectué en deux séances maximum (SC12) ;
+
+– bilan du langage oral et/ ou bilan d'aptitudes à l'acquisition du langage écrit (AMO24), à condition qu'il s'agisse d'un premier bilan réalisé chez un enfant de moins de 14 ans ;
+
+– dépistage de l'hépatite B (codes NABM 4713,4714,0323,0351) ;
+
+– dépistage une fois tous les 5 ans des troubles de l'audition chez les personnes âgées de plus de 50 ans pour un des actes suivants : audiométrie tonale ou vocale (CDQP010), audiométrie tonale avec tympanométrie (CDQP015), audiométrie vocale dans le bruit (CDQP011), audiométrie tonale et vocale (CDQP012), audiométrie tonale et vocale avec tympanométrie (CDQP002) ;
+
+– acte d'ostéodensitométrie remboursable par l'assurance maladie obligatoire ; sans préjudice des conditions d'inscription de l'acte sur la liste mentionnée à l'article L. 162-1-7, la prise en charge au titre du présent arrêté est limitée aux femmes de plus de 50 ans, une fois tous les 6 ans ;
+
+– vaccinations suivantes, seules ou combinées : diphtérie, tétanos et poliomyélite et ce quel que soit l'âge, coqueluche avant 14 ans, hépatite B avant 14 ans, BCG avant 6 ans, rubéole pour les adolescentes qui n'ont pas été vaccinées et pour les femmes non immunisées désirant un enfant, haemophilus influenzae B, vaccination contre les infections invasives à pneumocoques pour les enfants de moins de 18 mois. |
