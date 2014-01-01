@@ -100,14 +100,6 @@ Sciences médicales I.
 
 |
 
-Sciences médicales II.
-
-|
-
-Sciences médicales III.
-
-|
-
 Caen
 
 |
