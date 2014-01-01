@@ -24,27 +24,23 @@ Une cotisation est retenue sur le traitement nominal, les allocations spéciales
 
 Le taux de la cotisation mentionnée au précédent alinéa est fixé à :
 
-a) 7,85 % jusqu'au 31 décembre 2012 ;
+a) 8,54 % pour l'année 2014 ;
 
-b) 8,12 % pour l'année 2013 ;
+b) 8,81 % pour l'année 2015 ;
 
-c) 8,39 % pour l'année 2014 ;
+c) 9,18 % pour l'année 2016 ;
 
-d) 8,66 % pour l'année 2015 ;
+d) 9,50 % pour l'année 2017 ;
 
-e) 9,03 % pour l'année 2016 ;
+e) 9,82 % pour l'année 2018 ;
 
-f) 9,35 % pour l'année 2017 ;
+f) 10,14 % pour l'année 2019 ;
 
-g) 9,67 % pour l'année 2018 ;
+g) 10,41 % pour l'année 2020 ;
 
-h) 9,99 % pour l'année 2019 ;
+h) 10,68 % pour l'année 2021 ;
 
-i) 10,26 % pour l'année 2020 ;
-
-j) 10,53 % pour l'année 2021 ;
-
-k) 10,80 % à compter de l'année 2022.
+i) 10,95 % à compter de l'année 2022.
 
 Article 4
 
@@ -392,7 +388,7 @@ Pour l'application du troisième alinéa du présent article aux agents apparten
 
 Article 33
 
-Lorsque la durée d'assurance définie à l'article 15 est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa de l'article 31 et que l'agent a atteint l'âge mentionné au troisième alinéa de l'article 26, un coefficient de majoration calculé sur la base de 1, 25 % par trimestre supplémentaire s'applique au montant de la pension liquidée en application des articles 30 et 31.
+Lorsque la durée d'assurance définie à l'article 15 est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa de l'article 31 et que l'agent a atteint l'âge mentionné au troisième alinéa de l'article 26, un coefficient de majoration calculé sur la base de 1,25 % par trimestre supplémentaire s'applique au montant de la pension liquidée en application des articles 30 et 31.
 
 Le nombre de trimestres supplémentaires pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance effectués après le 1er avril 2007, au-delà de l'âge mentionné au troisième alinéa de l'article 26 et en sus du nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa de l'article 31.
 
@@ -408,7 +404,7 @@ Si le nombre de trimestres de durée d'assurance, telle que définie à l'articl
 
 a) Lorsque la pension rémunère au moins quarante années de services effectifs, à un montant correspondant à la rémunération cotisable associée à la valeur au 1er avril 2007 de l'indice 182 ;
 
-b) Lorsque la pension rémunère quinze années de services effectifs, à 57, 5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2, 5 points par année supplémentaire de services effectifs de quinze à trente ans et de 0, 5 point par année de services effectifs de trente à quarante ans ;
+b) Lorsque la pension rémunère quinze années de services effectifs, à 57,5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2,5 points par année supplémentaire de services effectifs de quinze à trente ans et de 0,5 point par année de services effectifs de trente à quarante ans ;
 
 c) Lorsque la pension liquidée au motif d'invalidité rémunère moins de quinze années de services effectifs, à un quinzième du montant défini à l'alinéa précédent pour cette durée de quinze ans, par année de services effectifs ;
 
