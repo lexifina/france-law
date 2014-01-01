@@ -1,24 +1,36 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 1330 (STOCKAGE DE NITRATE D'AMMONIUM)
+Prescriptions générales et faisant l'objet du contrôle périodique applicables aux installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 1330
 
 Dans la présente annexe, on entend par :
 
-Nitrate d'ammonium : l'ensemble des produits de la rubrique n° 1330.
+- nitrate d'ammonium : l'ensemble des produits de la rubrique n° 1330 ;
 
-Nitrate d'ammonium technique (NAT) : tous les produits définis au point 1 de la rubrique n° 1330.
+- nitrate d'ammonium technique (NAT) : tous les produits définis au point 1 de la rubrique n° 1330 ;
 
-Nitrate d'ammonium en solution chaude (NASC) : tous les produits définis au point 2 de la rubrique n° 1330.
+- nitrate d'ammonium en solution chaude (NASC) : tous les produits définis au point 2 de la rubrique n° 1330 ;
 
-Stockage : toute zone où est entreposé du nitrate d'ammonium.
+- stockage : toute zone où est entreposé du nitrate d'ammonium ;
 
-Local de stockage : zone située dans un bâtiment couvert et fermé comprenant le stockage de nitrate d'ammonium, l'ensemble des équipements fixes nécessaires à leur manutention et les allées de circulation.
+- local de stockage : zone située dans un bâtiment couvert et fermé comprenant le stockage de nitrate d'ammonium, l'ensemble des équipements fixes nécessaires à leur manutention et les allées de circulation.
 
 1. Dispositions générales
 
-1.1. Conformité de l'installation à la déclaration
+1.1. Conformité de l'installation
+
+1.1.1. Conformité de l'installation à la déclaration
 
 L'installation est implantée, réalisée et exploitée conformément aux plans et autres documents joints à la déclaration, sous réserve du respect des prescriptions ci-dessous.
+
+1.1.2. Contrôle périodique
+
+L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions repérées dans la présente annexe par le terme : " objet du contrôle," éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
+
+Les prescriptions dont le non-respect constitue une non-conformité majeure entraînant l'information du préfet dans les conditions prévues à l'article R. 512-59-1 sont repérées dans la présente annexe par la mention : " le non-respect de ce point relève d'une non-conformité majeure ".
+
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en oeuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en oeuvre sont formalisées et conservées dans le dossier susmentionné.
 
 1.2. Modifications
 
@@ -26,7 +38,7 @@ Toute modification apportée par le déclarant à l'installation, à son mode d'
 
 1.3. Contenu de la déclaration
 
-La déclaration précise les mesures prises relatives aux conditions d'utilisation, d'épuration et d'évacuation des eaux résiduaires et des émanations de toutes natures ainsi que d'élimination des déchets et résidus en vue de respecter les dispositions du présent arrêté.
+La déclaration précise les mesures prises relatives aux conditions d'utilisation, d'épuration et d'évacuation des eaux résiduaires et des émanations de toute nature ainsi que d'élimination des déchets et résidus en vue de respecter les dispositions du présent arrêté.
 
 1.4. Dossier installation classée
 
@@ -50,6 +62,18 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées et de l'organisme de contrôles périodiques.
 
+Objet du contrôle :
+
+- présentation du dossier de déclaration ;
+
+- présentation du récépissé de la déclaration et des prescriptions générales ;
+
+- présentation des arrêtés préfectoraux relatifs à l'installation, lorsqu'il y en a ;
+
+- vérification de la quantité totale maximale au regard de la quantité totale déclarée ;
+
+- vérification que la quantité totale présente dans l'installation le jour du contrôle est inférieure au palier supérieur du régime déclaratif tel que défini à l'annexe de l'article R. 511-9 du code de l'environnement (le non-respect de ce point relève d'une non-conformité majeure).
+
 1.5. Déclaration d'accident ou de pollution accidentelle
 
 L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais à l'inspection des installations classées les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article L. 511-1 du code de l'environnement.
@@ -62,17 +86,9 @@ Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représe
 
 1.7. Cessation d'activité
 
-Lorsqu'une installation classée est mise à l'arrêt définitif, l'exploitant notifie au préfet la date de cet arrêt au moins trois mois avant celui-ci. La notification de l'exploitant indique notamment les mesures de mise en sécurité du site et de remise en état prévues ou réalisées.
+Lorsqu'une installation classée est mise à l'arrêt définitif, l'exploitant notifie au préfet la date de cet arrêt au moins un mois avant celui-ci. La notification de l'exploitant indique notamment les mesures de mise en sécurité du site et de remise en état prévues ou réalisées.
 
-1.8. Contrôles périodiques
-
-L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
-
-Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions rappelées en annexe IV, éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
-
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Lorsque le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
-
-2. Implantation, aménagement
+2. Implantation - Aménagement
 
 2.1. Règles d'implantation
 
@@ -84,7 +100,11 @@ L'exploitant prend les dispositions nécessaires pour satisfaire à l'esthétiqu
 
 2.3. Aménagement
 
-Les stockages comportent un seul niveau. Ils ne sont ni en sous-sol, ni en étage.
+Les stockages comportent un seul niveau. Ils ne sont ni en sous-sol ni en étage.
+
+Objet du contrôle :
+
+- vérification que les stockages comportent un seul niveau, situé ni en sous-sol ni en étage (le non-respect de ce point relève d'une non-conformité majeure).
 
 2.4. Comportement au feu des bâtiments
 
@@ -96,7 +116,7 @@ Les éléments de construction du bâtiment abritant l'installation sont de clas
 
 Les locaux dans lesquels le nitrate d'ammonium est stocké présentent les caractéristiques de résistance au feu minimales suivantes :
 
-- murs séparatifs, parois des cases et murs mitoyens à une autre zone de bâtiment : REI 120 ;
+-murs séparatifs, parois des cases et murs mitoyens à une autre zone de bâtiment : REI 120 ;
 
 - portes et fermetures EI 120.
 
@@ -126,7 +146,7 @@ Tous les dispositifs installés après le 31 décembre 2006, date de la fin de l
 
 - fiabilité : classe RE 300 (300 cycles de mise en sécurité) ;
 
-- la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/m²) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/m²) pour des altitudes supérieures à 400 mètres et inférieures ou égales à 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
+- la classification de la surcharge neige à l'ouverture est SL 250 (25 daN/m2) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/m2) pour des altitudes supérieures à 400 mètres et inférieures ou égales à 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
 
 - classe de température ambiante T0 (0 °C) ;
 
@@ -164,21 +184,15 @@ Cette voie engins respecte les caractéristiques suivantes :
 
 En cas d'impossibilité de mise en place d'une voie engin permettant la circulation sur l'intégralité du périmètre du stockage et si tout ou partie de la voie est en impasse, les 40 derniers mètres de la partie de la voie en impasse sont d'une largeur utile minimale de 7 mètres et une aire de retournement de 10 mètres de diamètre est prévue à son extrémité.
 
-2.5.3. Déplacement des engins de secours
-
-à l'intérieur de l'établissement
+2.5.3. Déplacement des engins de secours à l'intérieur de l'établissement
 
 Pour permettre le croisement des engins de secours, tout tronçon de voie engins de plus de 100 mètres linéaires dispose d'au moins deux aires dites de croisement, judicieusement positionnées, dont les caractéristiques sont :
 
 - largeur utile minimale de 3 mètres en plus de la voie engin ;
 
-- longueur minimale de 10 mètres,
+- longueur minimale de 10 mètres, présentant a minima les mêmes qualités de pente, de force portante et de hauteur libre que la voie engins.
 
-présentant a minima les mêmes qualités de pente, de force portante et de hauteur libre que la voie engins .
-
-2.5.4. Mise en station des échelles en vue d'appuyer
-
-un dispositif hydraulique en cas de stockage couvert
+2.5.4. Mise en station des échelles en vue d'appuyer un dispositif hydraulique en cas de stockage couvert
 
 Pour tout stockage en bâtiment de hauteur supérieure à 15 mètres, au moins une façade est desservie par au moins une voie échelle permettant la circulation et la mise en station des échelles aériennes.
 
@@ -188,25 +202,25 @@ Depuis cette voie, une échelle accédant à au moins toute la hauteur du bâtim
 
 - dans les virages de rayon intérieur inférieur à 50 mètres, un rayon intérieur R minimal de 11 mètres est maintenu et une surlargeur de S = 15/R mètres est ajoutée ;
 
-- aucun obstacle aérien ne doit gêner la manœuvre de ces échelles à la verticale de l'ensemble de la voie ;
+- aucun obstacle aérien ne doit gêner la manoeuvre de ces échelles à la verticale de l'ensemble de la voie ;
 
-- la distance par rapport à la façade est de 1 mètre minimum et 8 mètres maximum pour un stationnement parallèle au bâtiment et inférieure à 1 mètre pour un stationnement perpendiculaire au bâtiment ;
+- la distance par rapport à la façade est de un mètre minimum et 8 mètres maximum pour un stationnement parallèle au bâtiment et inférieure à un mètre pour un stationnement perpendiculaire au bâtiment ;
 
-- la voie résiste à la force portante calculée pour un véhicule de 160 kN avec un maximum de 90 kN par essieu, ceux-ci étant distants de 3,6 mètres au maximum et présente une résistance au poinçonnement minimale de 80 N/cm².
+- la voie résiste à la force portante calculée pour un véhicule de 160 kN avec un maximum de 90 kN par essieu, ceux-ci étant distants de 3,6 mètres au maximum, et présente une résistance au poinçonnement minimale de 80 N/cm2.
 
-2.5.5. Mise en place des échelles en vue d'accès
-
-aux planchers en cas de stockage couvert
+2.5.5. Mise en place des échelles en vue d'accès aux planchers en cas de stockage couvert
 
 Par ailleurs, pour tout stockage couvert de plusieurs niveaux possédant au moins un plancher situé à une hauteur supérieure à 8 mètres par rapport au niveau d'accès des secours, sur au moins deux façades, une voie échelle permet d'accéder à des ouvertures.
 
 Cette voie échelle respecte les caractéristiques décrites à l'article 2.5.4.
 
-Ces ouvertures permettent au moins un accès par étage pour chacune des façades disposant de voie échelle et présentent une hauteur minimale de 1,8 mètre et une largeur minimale de 0,9 mètre. Les panneaux d'obturation ou les châssis composant ces accès doivent s'ouvrir et demeurer toujours accessibles de l'extérieur et de l'intérieur. Ils doivent être aisément repérables de l'extérieur par les services de secours.
+Ces ouvertures permettent au moins un accès par étage pour chacune des façades disposant de voie échelle et présentent une hauteur minimale de 1,8 mètre et une largeur minimale de 0,9 mètre.
+
+Les panneaux d'obturation ou les châssis composant ces accès doivent s'ouvrir et demeurer toujours accessibles de l'extérieur et de l'intérieur. Ils doivent être aisément repérables de l'extérieur par les services de secours.
 
 2.5.6. Etablissement du dispositif hydraulique depuis les engins
 
-A partir de chaque voie engins ou échelle sont prévus :
+A partir de chaque voie engins ou échelles sont prévus :
 
 - pour un stockage couvert, un accès à toutes les issues du bâtiment par un chemin stabilisé de 1,40 mètre de large au minimum ;
 
@@ -230,7 +244,9 @@ Tous les appareils comportant des masses électriques ainsi que les charpentes m
 
 2.9. Rétention des aires et locaux de travail
 
-Le sol des aires et des locaux de stockage ou de manipulation du nitrate d'ammonium est étanche et équipé de façon à pouvoir recueillir les eaux de lavage et les matières répandues accidentellement. Pour cela, un seuil surélevé par rapport au niveau du sol ou tout dispositif équivalent les sépare du milieu naturel, de l'extérieur ou d'autres aires ou locaux non conçus et destinés à cette fin. Les matières recueillies sont de préférence récupérées et recyclées ou, en cas d'impossibilité, traitées conformément au point 5.5 et à la partie 7.
+Le sol des aires et des locaux de stockage ou de manipulation du nitrate d'ammonium est étanche et équipé de façon à pouvoir recueillir les eaux de lavage et les matières répandues accidentellement.
+
+Pour cela, un seuil surélevé par rapport au niveau du sol ou tout dispositif équivalent les sépare du milieu naturel, de l'extérieur ou d'autres aires ou locaux non conçus et destinés à cette fin. Les matières recueillies sont de préférence récupérées et recyclées ou, en cas d'impossibilité, traitées conformément au point 5.5 et à la partie 7.
 
 2.10. Cuvettes de rétention
 
@@ -242,7 +258,9 @@ Tout stockage de produits liquides susceptibles de créer une pollution de l'eau
 
 La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour son dispositif d'obturation qui est maintenu fermé.
 
-Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres. La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résister à l'action physique et chimique des fluides.
+Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables (à l'exception des lubrifiants) avec un minimum de 800 litres si cette capacité excède 800 litres.
+
+La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résister à l'action physique et chimique des fluides.
 
 Des réservoirs ou récipients contenant des produits susceptibles de réagir dangereusement ensemble ne sont pas associés à la même cuvette de rétention.
 
@@ -254,13 +272,19 @@ Les produits récupérés en cas d'accident ne peuvent être rejetés que dans d
 
 L'installation est équipée de systèmes appropriés de récupération des écoulements de nitrate d'ammonium (entraînement par les eaux de pluie, nettoyage des zones de stockage, extinction en cas d'accident par exemple), visant à prévenir les risques de pollution pour les milieux environnants.
 
-Des dispositifs clairement signalés, facilement accessibles et manœuvrables permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site les eaux d'extinction d'un sinistre notamment. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
+Des dispositifs clairement signalés, facilement accessibles et manoeuvrables permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site les eaux d'extinction d'un sinistre notamment. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
 
 Les eaux recueillies ne peuvent être rejetées qu'après démonstration de leur compatibilité avec l'environnement. Dans le cas contraire, elles font l'objet de traitements appropriés.
 
-2.12. Aménagement et organisation
+Objet du contrôle :
 
-des stockages et locaux d'emploi
+- vérification de la présence signalée des dispositifs d'isolement du réseau de collecte ;
+
+- vérification de leur accessibilité ;
+
+- vérification de la présence de la consigne ;
+
+2.12. Aménagement et organisation des stockages et locaux d'emploi
 
 2.12.1. Généralités
 
@@ -272,9 +296,7 @@ Les installations de stockage sont exploitées et entretenues de manière à év
 
 - toute agression mécanique ou thermique du nitrate d'ammonium ;
 
-- toute accumulation de NAT en dehors des tas ou des îlots.
-
-En cas de présence d'alarme sonore et/ou visuelle, son déclenchement permet d'informer immédiatement les opérateurs.
+- toute accumulation de NAT en dehors des tas ou des îlots. En cas de présence d'alarme sonore et/ou visuelle, son déclenchement permet d'informer immédiatement les opérateurs.
 
 2.12.2. Descriptif des installations
 
@@ -282,13 +304,15 @@ L'exploitant tient à disposition de l'inspection des installations classées un
 
 2.12.3. Sols des installations
 
-Le sol de toutes les zones de stockage ne présente pas de cavités (puisards, fentes, rigoles par exemple).
-
-Il est de classe A1fl selon la norme NF EN 13 501-1.
+Le sol de toutes les zones de stockage ne présente pas de cavités (puisards, fentes, rigoles par exemple). Il est de classe A1fl selon la norme NF EN 13 501-1.
 
 Les zones de stockage ou de manipulation présentent une pente orientée vers une zone où l'écoulement du nitrate d'ammonium n'est pas susceptible d'augmenter le risque.
 
-3. Exploitation, entretien
+Objet du contrôle :
+
+- vérification que le sol des zones de stockage est de classe A1fl selon la norme NF EN 13 501-1 (le non-respect de ce point relève d'une non-conformité majeure).
+
+3. Exploitation - Entretien
 
 3.1. Surveillance de l'exploitation
 
@@ -300,11 +324,11 @@ Les personnes étrangères à l'établissement n'ont pas d'accès libre aux inst
 
 En dehors des horaires de travail, l'établissement est fermé par tout moyen.
 
-3.3. Connaissance des produits, étiquetage
+3.3. Connaissance des produits - Etiquetage
 
 Sans préjudice des dispositions du code du travail, l'exploitant dispose des documents lui permettant de connaître la nature et les risques des produits dangereux présents dans l'installation, en particulier les fiches de données de sécurité.
 
-Les récipients portent en caractères très lisibles le nom des produits et, s'il y a lieu, les symboles de danger conformément à la réglementation relative à l'étiquetage des substances et préparations chimiques dangereuses.
+Les récipients portent en caractères très lisibles le nom des produits et, s'il y a lieu, les symboles de danger, conformément à la réglementation relative à l'étiquetage des substances et préparations chimiques dangereuses.
 
 3.4. Propreté
 
@@ -326,15 +350,27 @@ Les réservoirs de stockage du NASC sont régulièrement nettoyés suivant des p
 
 Avant remise en chauffe après vidange d'une capacité, celle-ci est inspectée et un nettoyage effectué si nécessaire.
 
+Objet du contrôle :
+
+- vérification de la présence du registre renseigné (le non-respect de ce point relève d'une nonconformité majeure).
+
 3.5. Etat des stocks du nitrate d'ammonium
 
 L'exploitant tient à jour un état indiquant la nature et la quantité des produits détenus, auquel est annexé un plan général des stockages.
 
 Ces documents sont tenus en permanence, de manière accessible, à la disposition de l'inspection des installations classées, de l'organisme de contrôles périodiques et des services d'incendie et de secours, même en cas de situation dégradée (accident, absence d'alimentation électrique par exemple).
 
+Objet du contrôle :
+
+- vérification de la présence de l'état des stocks (le non-respect de ce point relève d'une nonconformité majeure).
+
 3.6. Vérification périodique des installations électriques
 
 Toutes les installations électriques sont entretenues en bon état et sont contrôlées, après leur installation ou leur modification, par une personne compétente. La périodicité, l'objet et l'étendue des vérifications des installations électriques ainsi que le contenu des rapports relatifs auxdites vérifications sont fixés selon la réglementation en vigueur.
+
+Objet du contrôle :
+
+- vérification de la présence des rapports de vérification (le non-respect de ce point relève d'une non-conformité majeure).
 
 3.7. Consignes d'exploitation
 
@@ -352,9 +388,7 @@ Ces consignes prévoient notamment :
 
 3.8. Matières interdites et incompatibles
 
-Les stockages ne contiennent aucun entreposage de matières combustibles ou incompatibles.
-
-Sont notamment interdits à l'intérieur du local de stockage et des zones de stockage ainsi qu'à moins de 10 mètres de tout stockage de nitrate d'ammonium :
+Les stockages ne contiennent aucun entreposage de matières combustibles ou incompatibles. Sont notamment interdits à l'intérieur du local de stockage et des zones de stockage ainsi qu'à moins de 10 mètres de tout stockage de nitrate d'ammonium :
 
 - les explosifs ;
 
@@ -370,9 +404,11 @@ Sont notamment interdits à l'intérieur du local de stockage et des zones de st
 
 Des précautions sont prises pour qu'aucun déversement de liquides inflammables ou de substances combustibles (liquides ou solides accidentellement fondus) ne puisse atteindre le nitrate d'ammonium manipulé ou stocké sur le site.
 
-Dans le cas où, malgré ces précautions, des fractions de NAT notamment seraient accidentellement contaminées par des substances combustibles ou incompatibles, les fractions de produits ainsi contaminées ne sont pas remises ou laissées sur les tas de nitrate d'ammonium.
+Dans le cas où, malgré ces précautions, des fractions de NAT notamment seraient accidentellement contaminées par des substances combustibles ou incompatibles, les fractions de produits ainsi contaminées ne sont pas remises ou laissées sur les tas de nitrate d'ammonium. Elles sont aussitôt traitées conformément aux dispositions du point 7.7.
 
-Elles sont aussitôt traitées conformément aux dispositions du point 7.7.
+Objet du contrôle :
+
+- vérification de l'absence de matières combustibles ou incompatibles (le non-respect de ce point relève d'une non-conformité majeure).
 
 3.9. Chargement et déchargement
 
@@ -386,7 +422,7 @@ Le chargement ou le déchargement de nitrate d'ammonium en solution chaude est e
 
 - l'adéquation entre les équipements de transfert du véhicule (flexible, raccord par exemple) et ceux de l'installation de dépotage/empotage est vérifié ;
 
-- la nature, la quantité des produits et leur conformité aux spécifications techniques que requiert leur mise en œuvre, quand celles-ci conditionnent la sécurité, sont contrôlées ;
+- la nature, la quantité des produits et leur conformité aux spécifications techniques que requiert leur mise en oeuvre, quand celles-ci conditionnent la sécurité, sont contrôlées ;
 
 - une consigne définit les modalités d'arrêt rapide du transfert en cas de dysfonctionnement, rupture d'un flexible ou canalisation de dépotage et d'épandage accidentel. Un dispositif d'arrêt d'urgence facilement accessible doit permettre à l'opérateur d'interrompre rapidement le transfert en cas d'incident tel qu'un écoulement accidentel ;
 
@@ -402,11 +438,19 @@ Avant tout chargement d'un véhicule, l'exploitant vérifie la propreté de la c
 
 Le transport des produits à l'intérieur de l'établissement est effectué avec les précautions nécessaires pour éviter le renversement accidentel des emballages.
 
+Objet du contrôle :
+
+- vérification de la présence d'une consigne ;
+
+- vérification de la présence de l'arrêt d'urgence (le non-respect de ce point relève d'une nonconformité majeure) ;
+
+- vérification de la présence de la signalétique (le non-respect de ce point relève d'une nonconformité majeure).
+
 4. Risques
 
 4.1. Localisation des risques
 
-L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur les intérêts visés à l'article L. 511-1 du code de l'environnement.
+L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en oeuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur les intérêts visés à l'article L. 511-1 du code de l'environnement.
 
 L'exploitant détermine pour chacune de ces parties de l'installation la nature du danger (incendie, explosion ou émanation toxique). Ce danger est signalé.
 
@@ -416,23 +460,35 @@ L'exploitant dispose d'un plan général des ateliers et des stockages indiquant
 
 4.3. Moyens de lutte contre l'incendie
 
-L'installation est équipée de moyens de lutte contre l'incendie appropriés aux risques notamment :
+L'installation est équipée de moyens de lutte contre l'incendie appropriés aux risques, notamment :
 
 - d'un moyen permettant d'alerter les services d'incendie et de secours ;
 
 - de plans des locaux facilitant l'intervention des services d'incendie et de secours avec une description des dangers pour chaque local ;
 
-- d'un ou plusieurs appareils d'incendie (bouches, poteaux par exemple) implantés de telle sorte que tout point de la limite du dépôt se trouve à moins de 100 mètres d'un appareil. Ce réseau d'eau, public ou privé, permet de fournir en toutes circonstances un débit minimal de 60 mètres cubes/heure pendant deux heures. A défaut, une réserve d'eau destinée à l'extinction est accessible en toutes circonstances et à une distance du dépôt permettant l'intervention des services départementaux d'incendie et de secours. Cette distance est fixée après avis des services départementaux d'incendie et de secours ;
+- d'un ou plusieurs appareils d'incendie (bouches, poteaux par exemple) implantés de telle sorte que tout point de la limite du dépôt se trouve à moins de 100 mètres d'un appareil. Ce réseau d'eau, public ou privé, permet de fournir en toutes circonstances un débit minimal de 60 mètres cubes/heure pendant deux heures. À défaut, une réserve d'eau destinée à l'extinction est accessible en toutes circonstances et à une distance du dépôt permettant l'intervention des services départementaux d'incendie et de secours. Cette distance est fixée après avis des services départementaux d'incendie et de secours ;
 
 - d'extincteurs répartis à l'intérieur du stockage lorsqu'il est couvert, sur les aires extérieures et dans les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles. Les agents d'extinction sont appropriés aux risques à combattre et compatibles avec les matières stockées.
 
-Les installations de protection contre l'incendie sont correctement entretenues et maintenues en bon état de marche. Elles font l'objet de vérifications périodiques (a minima une fois par an) dont le suivi est consigné dans un registre tenu à la disposition de l'inspection des installations classées.
+Les installations de protection contre l'incendie sont correctement entretenues et maintenues en bon état de marche.
+
+Elles font l'objet de vérifications périodiques (a minima une fois par an) dont le suivi est consigné dans un registre tenu à la disposition de l'inspection des installations classées.
 
 Les moyens de lutte contre l'incendie sont capables de fonctionner efficacement quelle que soit la température du dépôt, et notamment en période de gel.
 
+Objet du contrôle :
+
+- vérification de la présence d'un moyen permettant d'alerter les services d'incendie et de secours.
+
+- vérification de la présence de plans des locaux ;
+
+- vérification de la présence d'extincteurs répartis à l'intérieur du stockage lorsqu'il est couvert, sur les aires extérieures et dans les lieux présentant des risques spécifiques, à proximité des dégagements, bien visibles et facilement accessibles (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- vérification de la présence du registre de suivi (le non-respect de ce point relève d'une nonconformité majeure).
+
 4.4. Matériel électrique de sécurité
 
-Dans les parties de l'installation visées au point 4.1 et susceptibles d'être à l'origine d'une explosion, les équipements et appareils électriques, mécaniques, hydrauliques et pneumatiques, présents dans les installations sont conformes aux dispositions réglementaires en vigueur.
+Dans les parties de l'installation visées au point 4.1 et susceptibles d'être à l'origine d'une explosion, les équipements et appareils électriques, mécaniques, hydrauliques et pneumatiques présents dans les installations sont conformes aux dispositions réglementaires en vigueur.
 
 4.5. Interdiction des feux
 
@@ -440,9 +496,7 @@ Dans les parties de l'installation visées au point 4.1 présentant des risques 
 
 Dans les parties de l'installation visées au point 4.1, des méthodes indirectes et sûres telles que le chauffage à eau chaude, à la vapeur, ou à air chaud dont la source se situera en dehors de l'aire de stockage, de manipulation ou d'emploi sont utilisées. L'utilisation de convecteurs électriques, de poêles, de réchauds ou d'appareils de chauffage à flamme nue est à proscrire.
 
-4.6. Permis d'intervention, permis de feu
-
-dans les parties de l'installation visées au point 4.1
+4.6. Permis d'intervention, permis de feu dans les parties de l'installation visées au point 4.1
 
 Dans les parties de l'installation visées au point 4.1, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (notamment emploi d'une flamme ou d'une source chaude, purge des circuits) ne peuvent être effectués qu'après délivrance d'un permis d'intervention et éventuellement d'un permis de feu et en respectant les règles d'une consigne particulière.
 
@@ -456,7 +510,7 @@ Sans préjudice des dispositions du code du travail, des consignes de sécurité
 
 Ces consignes indiquent notamment :
 
-- les fiches de données de sécurité des substances ou préparations mises en œuvre ou stockées et leurs risques spécifiques ;
+- les fiches de données de sécurité des substances ou préparations mises en oeuvre ou stockées et leurs risques spécifiques ;
 
 - l'interdiction d'apporter du feu sous une forme quelconque, notamment l'interdiction de fumer, dans les parties de l'installation visées au point 4.1 et présentant des risques d'incendie ou d'explosion ;
 
@@ -472,11 +526,29 @@ Ces consignes indiquent notamment :
 
 - les modalités d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours notamment ;
 
-- les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
+- les modalités de mise en oeuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
 
 - l'obligation d'informer l'inspection des installations classées en cas d'accident.
 
-Le personnel reçoit une formation portant sur les risques présentés par l'installation, ainsi que sur les moyens mis en œuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins une fois par an.
+Le personnel reçoit une formation portant sur les risques présentés par l'installation, ainsi que sur les moyens mis en oeuvre pour les éviter. Il connaît les procédures à suivre en cas d'urgence et procède à des exercices d'entraînement au moins une fois par an.
+
+Objet du contrôle :
+
+- vérification de la présence des fiches de données de sécurité des substances ou préparations mises en oeuvre ou stockées et leurs risques spécifiques ;
+
+- vérification de la présence de l'interdiction d'apporter du feu sous une forme quelconque ;
+
+- vérification de la présence des modalités d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
+
+- vérification de la présence de consignes relatives aux mesures à prendre en cas de fuite ;
+
+- vérification de la présence de consignes relatives aux précautions à prendre pour l'emploi et le stockage de produits incompatibles ;
+
+- vérification de la présence de consignes relatives aux moyens d'extinction à utiliser en cas d'incendie ;
+
+- vérification de la présence de consignes relatives aux modalités d'alerte ;
+
+- vérification des modalités de mise en oeuvre des dispositifs d'isolement du réseau de collecte.
 
 4.8. Appareils mécaniques de manutention
 
@@ -490,9 +562,7 @@ Les engins de manutention sont totalement nettoyés avant et après entretien ou
 
 Les bandes transporteuses sont en matériau difficilement propagateur de la flamme selon la réglementation en vigueur.
 
-Les bandes transporteuses sont remplacées, lors de leur changement, par des bandes en matériau difficilement propagateur de la flamme selon les référentiels en vigueur.
-
-Les bandes transporteuses sont équipées de contrôleurs de rotation, de contrôleurs de déport de bandes et de contrôleurs de surintensité des moteurs.
+Les bandes transporteuses sont remplacées, lors de leur changement, par des bandes en matériau difficilement propagateur de la flamme selon les référentiels en vigueur. Les bandes transporteuses sont équipées de contrôleurs de rotation, de contrôleurs de déport de bandes et de contrôleurs de surintensité des moteurs.
 
 Si le moteur de la bande transporteuse se situe au-dessus du stockage, une distance minimum de 1 mètre avec le nitrate d'ammonium est respectée.
 
@@ -506,15 +576,21 @@ Les tas et îlots de NAT sont disposés de manière à limiter la quantité de p
 
 La hauteur maximale de stockage n'excède pas 3 mètres.
 
-Les stockages conditionnés sont effectués par îlots.
-
-Chaque îlot regroupe au maximum 50 tonnes de nitrate d'ammonium technique.
-
-Les îlots sont séparés des murs extérieurs et les uns des autres par des passages libres d'au moins 2 mètres de largeur ou par un mur REI 120.
+Les stockages conditionnés sont effectués par îlots. Chaque îlot regroupe au maximum 50 tonnes de nitrate d'ammonium technique. Les îlots sont séparés des murs extérieurs et les uns des autres par des passages libres d'au moins 2 mètres de largeur ou par un mur REI 120.
 
 Si la séparation est effectuée par des murs, ces derniers dépassent de 1 mètre au moins la hauteur maximale du stockage et empêchent toute vue directe entre des produits stockés de part et d'autre des murs de séparation.
 
 Le NAT ne peut être conditionné que dans des emballages conformes à la réglementation relative au transport de matières dangereuses.
+
+Objet du contrôle :
+
+- vérification de la taille maximale de l'îlot (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- vérification de la présence des passages libres entre les îlots (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- vérification de la hauteur maximale du stockage (le non-respect de ce point relève d'une nonconformité majeure) ;
+
+- vérification que les emballages sont conformes à la réglementation relative au transport de matières dangereuses (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.9.1.b. Nitrate d'ammonium technique stocké en vrac
 
@@ -526,13 +602,25 @@ La taille maximale des tas est limitée à 50 tonnes.
 
 Les tas sont séparés des murs extérieurs et les uns des autres par des passages libres d'au moins 2 mètres de largeur.
 
-Une distance minimale de 1 mètre est conservée entre le haut du tas et la bande transporteuse lorsqu'il y en a une.
+Une distance minimale de un mètre est conservée entre le haut du tas et la bande transporteuse lorsqu'il y en a une.
+
+Objet du contrôle :
+
+- vérification de la présence des passages libres entre les îlots (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- vérification de la hauteur maximale du stockage (le non-respect de ce point relève d'une nonconformité majeure) ;
+
+- vérification de la taille maximale des tas (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.9.2. Nitrate d'ammonium en solution chaude de (NASC)
 
 4.9.2.a. Affichage
 
 Toutes les capacités contenant du NASC doivent porter en caractères lisibles la mention du contenu présent ainsi que la capacité maximale du réservoir. Cette dernière est affichée en tonnes.
+
+Objet du contrôle :
+
+- vérification de la présence de l'affichage sur les capacités (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.9.2.b. Conception
 
@@ -546,13 +634,17 @@ La capacité de rétention ne peut être vidée que par pompage et en aucun cas 
 
 La capacité de rétention est maintenue en permanence vide, en bon état de propreté et est exempte notamment de matières organiques.
 
+Objet du contrôle :
+
+- vérification de l'absence de produit dans la rétention (le non-respect de ce point relève d'une non-conformité majeure).
+
 4.9.2.d. Equipements de sécurité
 
 Toutes les capacités munies d'un système de chauffage contenant du NASC sont équipées de sondes de température.
 
 La température du NASC dans les installations de stockage munies d'un système de chauffage est mesurée en continu et enregistrée. Les valeurs mesurées et enregistrées peuvent être contrôlées à tout moment par l'inspection des installations classées.
 
-Les capacités contenant du NASC à plus de 80 % et réchauffées disposent d'au moins deux sondes de température par capacité, une utilisée pour le système de régulation indépendante et d'une autre utilisée pour la sécurité.
+Les capacités contenant du NASC à plus de 80 % et réchauffées disposent d'au moins deux sondes de température par capacité, l'une utilisée pour le système de régulation indépendante et l'autre utilisée pour la sécurité.
 
 Ces sondes sont équipées de seuils d'alarme sonore et visuelle (seuil température haute) et de sécurité (seuil température très haute). Une procédure d'exploitation définit les actions à engager en cas d'atteinte des seuils.
 
@@ -580,9 +672,21 @@ Le fluide caloporteur utilisé pour réchauffer le NASC est compatible avec celu
 
 Les installations de stockage de NASC sont équipées d'évents dimensionnés pour l'évacuation des gaz et des vapeurs produits lors de la décomposition du NASC et de l'injection d'eau.
 
+Objet du contrôle :
+
+- vérification de l'enregistrement des mesures de températures effectué sur chaque capacité munie d'un système de réchauffage (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- vérification de la présence des alarmes sonores et visuelles des sondes des capacités munies d'un système de réchauffage (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- vérification de la présence du résultat des tests de fonctionnement, des contrôles des différents dispositifs de sécurité et de la liste des contrôles à effectuer avec leurs périodicités (le nonrespect de ce point relève d'une non-conformité majeure).
+
 4.9.2.e. Jaugeage
 
 Un dispositif permet de visualiser en permanence la quantité de NASC présente dans le réservoir.
+
+Objet du contrôle :
+
+- vérification de la présence du dispositif de jaugeage (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.10. Détection automatique
 
@@ -595,6 +699,12 @@ La transmission de l'alarme se fait y compris hors des heures d'exploitation.
 Ces systèmes sont maintenus en bon état de fonctionnement. Ils sont conformes aux référentiels en vigueur, vérifiés et testés aussi régulièrement que nécessaire.
 
 Les comptes rendus des vérifications et tests sont tenus à disposition de l'inspection des installations classées et de l'organisme de contrôles périodiques.
+
+Objet du contrôle :
+
+- vérification de la présence du système de détection automatique (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- vérification de la présence du résultat des tests et vérifications réalisés (le non-respect de ce point relève d'une non-conformité majeure).
 
 5. Eau
 
@@ -618,37 +728,25 @@ Sans préjudice de l'autorisation de déversement dans le réseau public (art. L
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
-- pH (NFT 90 008) : 6,5-8,5 (9,5 en cas de neutralisation alcaline) ;
+- pH (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 6,5-8,5 (9,5 en cas de neutralisation alcaline) ;
 
-- température < 30 °C ;
+- température < 30 °C.
 
-b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/j de MEST ou 15 kg/j de DBO
+b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/j de MEST ou 15 kg/j de DBO5 ou 45 kg/j de DCO :
 
-5
+- matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 600 mg/l ;
 
-ou 45 kg/j de DCO :
+- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 2 000 mg/l (1) ;
 
-- matières en suspension (NF EN 872) : 600 mg/l ;
-
-- DCO (NFT 90 101) : 2 000 mg/l (1) ;
-
-- DBO
-
-5
-
-(NF EN 1899) : 800 mg/l ;
+- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 800 mg/l ;
 
 c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissement collectif dépourvu de station d'épuration) :
 
-- matières en suspension (NF EN 872) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà, 150 mg/l dans le cas d'une épuration par lagunage ;
+- matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà, 150 mg/l dans le cas d'une épuration par lagunage ;
 
-- DCO (NFT 90 101) : la concentration ne dépasse pas 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
+- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
 
-- DBO
-
-5
-
-(NF EN 1899) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
+- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
 
 Dans tous les cas, les rejets sont compatibles avec la qualité ou les objectifs de qualité des cours d'eau ;
 
@@ -664,73 +762,87 @@ Ces valeurs limites sont respectées en moyenne quotidienne. Aucune valeur insta
 
 (1) Cette valeur limite n'est pas applicable lorsque l'autorisation de déversement dans le réseau public prévoit une valeur supérieure.
 
-5. 6. Interdiction des rejets en nappe
+5.6. Interdiction des rejets en nappe
 
 Le rejet direct ou indirect même après épuration d'eaux résiduaires dans une nappe souterraine est interdit.
 
-5. 7. Prévention des pollutions accidentelles
+5.7. Prévention des pollutions accidentelles
 
-Des dispositions sont prises pour qu'il ne puisse pas y avoir en cas d'accident (notamment rupture de récipient ou cuvette) déversement de nitrate d'ammonium dans les égouts publics ou le milieu naturel.L'évacuation des effluents recueillis selon les dispositions du point 2. 11 se fait soit dans les conditions prévues au point 5. 5 ci-dessus, soit comme des déchets dans les conditions prévues à la partie 7 ci-après.
+Des dispositions sont prises pour qu'il ne puisse pas y avoir en cas d'accident (notamment rupture de récipient ou cuvette) déversement de nitrate d'ammonium dans les égouts publics ou le milieu naturel.
 
-Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
+L'évacuation des effluents recueillis selon les dispositions du point 2.11. se fait soit dans les conditions prévues au point 5.5 ci-dessus, soit comme des déchets dans les conditions prévues à la partie 7 ci-après.
 
-5. 8. Epandage
+Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés afin de maintenir sur le site l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en oeuvre de ces dispositifs.
+
+5.8. Epandage
 
 L'épandage des déchets, effluents et sous-produits est interdit.
 
-5. 9. (*)
+5.9. (*)
 
 6. (*)
 
 7. Déchets
 
-7. 1. Récupération, recyclage, élimination
+7.1. Récupération - Recyclage - Elimination
 
 L'exploitant élimine ou fait éliminer les déchets produits dans des conditions propres à garantir les intérêts visés à l'article L. 511-1 du code de l'environnement. Il s'assure que les installations utilisées pour cette élimination sont régulièrement autorisées à cet effet.
 
-7. 2. Contrôles des circuits
+7.2. Contrôles des circuits
 
 L'exploitant est tenu aux obligations de registre, de déclaration d'élimination de déchets et de bordereau de suivi dans les conditions fixées par la réglementation.
 
-7. 3. Stockage des déchets
+7.3. Stockage des déchets
 
 Les déchets produits par l'installation sont stockés dans des conditions prévenant les risques de pollution (notamment la prévention des envols, des ruissellements, des infiltrations dans le sol et des odeurs).
 
 La quantité de déchets stockés sur le site ne dépasse pas la capacité mensuelle produite ou, en cas de traitement externe, un lot normal d'expédition vers l'installation d'élimination.
 
-7. 4. Déchets non dangereux
+7.4. Déchets non dangereux
 
 Les déchets non dangereux (par exemple bois, papier, verre, textile, plastique, caoutchouc) et non souillés par des produits toxiques ou polluants peuvent être récupérés, valorisés ou éliminés dans des installations autorisées.
 
-Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la valorisation par réemploi, recyclage ou toute autre action visant à obtenir des matériaux utilisables ou de l'énergie. Cette disposition n'est pas applicable aux détenteurs de déchets d'emballage qui en produisent un volume hebdomadaire inférieur à 1 100 litres et qui les remettent au service de collecte et de traitement des communes.
+Les seuls modes d'élimination autorisés pour les déchets d'emballage sont la valorisation par réemploi, recyclage ou toute autre action visant à obtenir des matériaux utilisables ou de l'énergie.
 
-7. 5. Déchets dangereux
+Cette disposition n'est pas applicable aux détenteurs de déchets d'emballage qui en produisent un volume hebdomadaire inférieur à 1 100 litres et qui les remettent au service de collecte et de traitement des communes.
 
-Les déchets dangereux sont éliminés dans des installations réglementées à cet effet au titre du code de l'environnement, dans des conditions propres à assurer la protection de l'environnement. Un registre des déchets dangereux produits comprenant a minima la nature, le tonnage et la filière d'élimination est tenu à jour.L'exploitant émet un bordereau de suivi dès qu'il remet ces déchets à un tiers et est en mesure d'en justifier l'élimination. Les documents justificatifs sont conservés 5 ans.
+7.5. Déchets dangereux
 
-7. 6. Brûlage
+Les déchets dangereux sont éliminés dans des installations réglementées à cet effet au titre du code de l'environnement, dans des conditions propres à assurer la protection de l'environnement.
+
+Un registre des déchets dangereux produits comprenant a minima la nature, le tonnage et la filière d'élimination est tenu à jour.
+
+L'exploitant émet un bordereau de suivi dès qu'il remet ces déchets à un tiers et est en mesure d'en justifier l'élimination. Les documents justificatifs sont conservés 5 ans.
+
+7.6. Brûlage
 
 Le brûlage des déchets à l'air libre est interdit.
 
-7. 7. Gestion des produits générés par le nitrate d'ammonium
+7.7. Gestion des produits générés par le nitrate d'ammonium
 
 Une procédure particulière permet la gestion immédiate de ces produits au sein de l'établissement.
 
-Cette procédure de gestion décrit notamment les actions de neutralisation et d'élimination qui doivent être menées sur ces produits, les méthodes d'inertage prévues, les moyens permettant leur mise en œuvre, les conditions de sécurité associées, le devenir des produits obtenus après neutralisation notamment.
+Cette procédure de gestion décrit notamment les actions de neutralisation et d'élimination qui doivent être menées sur ces produits, les méthodes d'inertage prévues, les moyens permettant leur mise en oeuvre, les conditions de sécurité associées, le devenir des produits obtenus après neutralisation notamment.
 
 Elle prend en compte tous les produits à base de nitrate d'ammonium contaminés ou souillés, les fines, les mottes et les balayures notamment.
 
 L'exploitant fait disparaître le risque associé de ces produits en assurant le jour même leur inertage par des matières appropriées.
 
+Objet du contrôle :
+
+- vérification de la présence de la procédure ;
+
+- vérification de l'absence de balayures, de déchets et de produits non conformes.
+
 8. Bruit et vibrations
 
-8. 1. Valeurs limites de bruit
+8.1. Valeurs limites de bruit
 
 Au sens du présent arrêté, on appelle :
 
-- émergence : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
+"émergence" : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
 
-- zones à émergence réglementée :
+"zones à émergence réglementée" :
 
 - l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) ;
 
@@ -804,15 +916,15 @@ Dans le cas où le bruit particulier de l'établissement est à tonalité marqu�
 
 Lorsque plusieurs installations classées, soumises à déclaration au titre de rubriques différentes, sont situées au sein d'un même établissement, le niveau de bruit global émis par ces installations respecte les valeurs limites ci-dessus.
 
-8. 2. Véhicules, engins de chantier
+8.2. Véhicules - Engins de chantier
 
 Les véhicules de transport, les matériels de manutention et les engins de chantier utilisés à l'intérieur de l'installation sont conformes aux dispositions en vigueur en matière de limitation de leurs émissions sonores. En particulier, les engins de chantier sont conformes à un type homologué.
 
 L'usage de tous appareils de communication par voie acoustique (par exemple sirènes, avertisseurs, haut-parleurs), gênant pour le voisinage, est interdit, sauf si leur emploi est exceptionnel et réservé à la prévention et au signalement d'incidents graves ou d'accidents.
 
-8. 3. (*)
+8.3. (*)
 
-8. 4. Surveillance par l'exploitant des émissions sonores
+8.4. Surveillance par l'exploitant des émissions sonores
 
 L'exploitant met en place une surveillance des émissions sonores de l'installation permettant d'estimer la valeur de l'émergence générée dans les zones à émergence réglementée. Les mesures sont effectuées selon la méthode définie en annexe de l'arrêté du 23 janvier 1997 susvisé. Ces mesures sont effectuées dans des conditions représentatives du fonctionnement de l'installation sur une durée d'une demi-heure au moins.
 
@@ -820,10 +932,10 @@ Une mesure du niveau de bruit et de l'émergence est effectuée au moins tous le
 
 9. Remise en état en fin d'exploitation
 
-Outre les dispositions prévues au point 1. 7, l'exploitant remet en état le site de sorte qu'il ne s'y manifeste plus aucun danger. En particulier :
+Outre les dispositions prévues au point 1.7, l'exploitant remet en état le site de sorte qu'il ne s'y manifeste plus aucun danger. En particulier :
 
 - tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
 
-- les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidées, nettoyées, dégazées et le cas échéant décontaminées. Elles sont si possible enlevées, sinon et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
+- les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
 
-(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1330, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+[*] Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1330, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

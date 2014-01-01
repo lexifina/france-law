@@ -20,7 +20,7 @@ au Journal officiel
 
 |
 
-1. Dispositions générales (sauf 1.8).
+1. Dispositions générales (sauf 1.1.2).
 
 2.1. Règles d'implantation : uniquement le troisième alinéa du C (écran).
 
