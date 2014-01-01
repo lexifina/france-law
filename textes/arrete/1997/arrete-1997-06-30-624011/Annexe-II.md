@@ -4,11 +4,25 @@ Dispositions applicables aux installations existantes
 
 Les dispositions sont applicables aux installations existantes selon le calendrier suivant :
 
-Au 1er OCTOBRE 1997
+Au 1er octobre 1997
+
+|
+
+Au 1er octobre 2000
+
+|
+
+Au 1er octobre 2001
+
+|
+
+Au 30 juin 2008
+
+|
 
 1. Dispositions générales
 
-3. Exploitation-entretien
+3. Exploitation - entretien
 
 4. Risques
 
@@ -20,9 +34,9 @@ Au 1er OCTOBRE 1997
 
 9. Remise en état
 
-AU 1er OCTOBRE 2000
+|
 
-2. Implantation, aménagement (sauf 2.3.)
+2. Implantation - aménagement (sauf 2.3.)
 
 5.1. Prélèvement d'eau
 
@@ -36,16 +50,18 @@ AU 1er OCTOBRE 2000
 
 5.7. Prévention des pollutions accidentelles
 
-5.10. Dispositions particulières
+5.10 Dispositions particulières
 
-6. Air-odeurs
+6. Air - odeurs
 
 8. Bruit et vibrations
 
-AU 1er OCTOBRE 2001
+|
 
-5.9. Eau-mesure périodique
+5.9. Eau - mesure périodique
 
-Au 30 juin 2008
+|
 
-1. 8. Contrôles périodiques.
+1.1.2. Contrôles périodiques
+
+|
