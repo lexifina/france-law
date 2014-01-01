@@ -1,6 +1,6 @@
 # Article 21 bis
 
-Il est institué un régime minimum obligatoire de prévoyance au plan national généralisé à l'ensemble du personnel ouvriers, employés, techniciens et agents de maîtrise, ingénieurs et cadres exerçant une activité salariée dans les entreprises entrant dans le champ d'application de la convention collective nationale des téléphériques et engins de remontées mécaniques et inscrits à l'effectif le jour de la mise en oeuvre du régime de prévoyance.
+Il est institué un régime minimum obligatoire de prévoyance au plan national généralisé à l'ensemble du personnel exerçant une activité salariée dans les entreprises entrant dans le champ d'application de la convention collective nationale des remontées mécaniques et domaines skiables et inscrits à l'effectif le jour de la mise en œuvre du régime de prévoyance.
 
 La notion de salarié s'entend pour tous les bénéficiaires d'un contrat de travail à durée déterminée ou indéterminée, à temps complet ou à temps partiel, et quelle que soit leur ancienneté.
 
@@ -30,9 +30,9 @@ En l'absence de bénéficiaire désigné et dans l'ordre suivant :
 
 I. 3. Montant du capital
 
-Quelle que soit la situation de famille et la cause du décès :
+Salarié célibataire, veuf, divorcé sans enfant à charge, quelle que soit la cause du décès : 100 % du salaire de référence, tel qu'il est défini au paragraphe V.
 
-100 % du salaire de référence, tel qu'il est défini au paragraphe V.
+Salarié avec enfant à charge ou salarié marié avec ou sans enfant à charge, quelle que soit la cause du décès : 125 % du salaire de référence, tel qu'il est défini au paragraphe V.
 
 I. 4. Invalidité absolue et définitive
 
@@ -124,9 +124,15 @@ Les prestations du régime servies par l'OCIRP (rente de conjoint et rente éduc
 
 VII.-Cotisations
 
-Le taux global de cotisation est réparti comme suit :
+Ensemble des salariés affiliés à l'AGIRC
+
+(En pourcentage.)
 
 Garantie |
+
+Taux de cotisation |
+
+|
 
 TA |
 
@@ -134,53 +140,95 @@ TB |
 
 TC |
 
-Décès |
+Décès (assuré par le GNP)
 
-0,13 % |
+Rente éducation ou rente de conjoint (assuré par l'OCIRP) |
 
-0,13 % |
+0,24 |
 
-0,13 % |
+0,24 |
 
-Rente éducation ou rente de conjoint |
-
-0,11 % |
-
-0,11 % |
-
-|
+0,13 |
 
 Cotisation totale |
 
-0,24 % |
+0,24 |
 
-0,24 % |
+0,24 |
 
-0,13 % |
+0,13 |
 
-Les taux de cotisation mentionnés ci-dessus sont répartis à hauteur de 50 % à la charge de l'employeur et 50 % à la charge du salarié.
+Ensemble des salariés non affiliés à l'AGIRC
 
-VIII. ― Maintien des garanties aux salariés
+(En pourcentage.)
 
-Le maintien des garanties du régime de prévoyance conventionnel bénéficie aux salariés après la rupture de leur contrat de travail (sauf si la rupture dudit contrat résulte d'une faute lourde), dans les conditions ci-après :
+Garantie |
 
-― être pris en charge par l'assurance chômage et percevoir à ce titre des allocations pour perte d'emploi ;
+Taux de cotisation |
 
-― justifier de cette prise en charge auprès de son dernier employeur en lui adressant le justificatif, c'est-à-dire la notification de prise en charge établie par le régime d'assurance chômage ;
+|
 
-― ne pas avoir renoncé expressément à cette garantie dans les 10 jours suivant la date de cessation de son contrat de travail.
+TA |
 
-Ce maintien des garanties s'applique aux ruptures de contrat de travail, telles que définies précédemment, intervenues à compter du 1er juillet 2009.
+TB |
 
-Quelle que soit la durée du contrat de travail, les garanties du régime de prévoyance conventionnel sont maintenues pour une durée maximale de 12 mois, sous réserve que le salarié justifie de son indemnisation par le régime d'assurance chômage.
+Décès, incapacité, invalidité
 
-La présente garantie cesse dès que le chômeur retrouve un emploi ou dès qu'il ne peut plus justifier de son statut de demandeur d'emploi indemnisé par le régime obligatoire d'assurance chômage. En tout état de cause, il doit en informer son ancien employeur lorsque ces événements interviennent au cours de la période de maintien des garanties de prévoyance du régime conventionnel.
+Rente éducation ou rente de conjoint |
 
-Pour les salariés saisonniers, le maintien des garanties du régime est automatique et gratuit pendant une période maximale de 12 mois après le terme du contrat saisonnier dans la branche professionnelle, sauf perte du bénéfice de la reconduction ou de la priorité de réembauchage pour faute lourde.
+0,75 |
 
-Le salaire de référence servant de base au calcul des prestations du régime de prévoyance conventionnel est égal au total des rémunérations brutes perçues par le salarié durant son (ou ses) contrat (s) de travail. La période de référence à prendre en compte est celle des 12 mois précédant la date de rupture du contrat de travail, et ce dans la (ou les) entreprise (s) de la branche professionnelle.
+0,75 |
 
-Sont exclues des salaires de référence susmentionnés les sommes liées à la rupture du contrat de travail (indemnités de licenciement, indemnités compensatrices de congés payés et toutes autres sommes versées à titre exceptionnel).
+Cotisation totale |
+
+0,75 |
+
+0,75 |
+
+Les taux de cotisation mentionnés ci-dessus sont répartis à hauteur de 50 % à la charge de l'employeur et de 50 % à la charge du salarié.
+
+VIII.-Maintien des garanties après la rupture du contrat de travail
+
+A.-Portabilité des garanties incapacité et invalidité
+
+Les garanties d'incapacité temporaire, invalidité et incapacité permanente sont maintenues au bénéfice des salariés dont la rupture du contrat de travail, non consécutive à une faute lourde, ouvre droit à une indemnisation par l'assurance chômage. Ce maintien est appliqué dans les conditions prévues par l'article L. 911-8 du code de la sécurité sociale. Les conditions du maintien suivront les évolutions qui pourraient être apportées par une nouvelle réglementation en la matière.
+
+Une notice d'information sera fournie par l'organisme assureur et remise aux salariés par l'employeur expliquant les conditions d'application de la portabilité.
+
+Lorsque son contrat de travail est rompu dans les conditions définies dans l'article L. 911-8 précité, l'ancien salarié bénéficie du maintien de la couverture dans les mêmes conditions que pour les salariés en activité. En cas de modification ou de révision des garanties des salariés en activité, les garanties des anciens salariés bénéficiant du maintien de garanties sont modifiées ou révisées dans les mêmes conditions.
+
+L'employeur a l'obligation d'informer le salarié licencié de la portabilité des garanties de prévoyance dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail.
+
+Par dérogation à la date prévue à l'article L. 911-8 du code de la sécurité sociale, le dispositif de maintien des garanties incapacité de travail et invalidité s'applique aux ruptures de contrat de travail intervenues à compter du 1er janvier 2014. Les garanties prennent effet au lendemain de la date de cessation du contrat de travail sous réserve d'avoir été régulièrement déclaré à l'organisme assureur par l'employeur.
+
+La suspension des allocations du régime obligatoire d'assurance chômage, pour cause de maladie ou pour tout autre motif, n'a pas d'incidence sur la durée du maintien des garanties qui n'est pas prolongée d'autant.
+
+Le financement de ce dispositif fait l'objet d'un système de mutualisation intégré aux cotisations des salariés actifs (part patronale et part salariale) permettant aux anciens salariés de bénéficier de ce dispositif sans paiement de cotisations.
+
+B.-Portabilité des garanties décès
+
+Le maintien des garanties décès au titre de la portabilité est applicable à l'ensemble des salariés sans condition d'ancienneté et sans considération du mode de cessation du contrat de travail.
+
+Les garanties maintenues sont celles en vigueur dans l'entreprise. En cas de modification ou de révision des garanties des salariés en activité, les garanties des anciens salariés bénéficiant du maintien de garanties sont modifiées ou révisées dans les mêmes conditions.
+
+Le dispositif de maintien des garanties s'applique aux ruptures de contrat de travail intervenues à compter du 1er janvier 2014. Les garanties prennent effet au lendemain de la date de cessation du contrat de travail sous réserve d'avoir été régulièrement déclaré à l'organisme assureur par l'employeur.
+
+Les garanties sont maintenues pour une durée de 12 mois, sans considération de l'ancienneté dans l'entreprise, quelle que soit de la durée du contrat de travail.
+
+En tout état de cause, le maintien des garanties cesse :
+
+-en cas de décès du bénéficiaire ;
+
+-au plus tard 12 mois après la date de la cessation du contrat de travail ayant ouvert les droits à portabilité.
+
+La suspension des allocations du régime obligatoire d'assurance chômage, pour cause de maladie ou pour tout autre motif, n'a pas d'incidence sur la durée du maintien des garanties qui n'est pas prolongée d'autant.
+
+Pour la détermination du salaire de référence (1) sont exclues les sommes liées à la rupture ou à la fin du contrat de travail (indemnité de licenciement, indemnités compensatrices de congés payés, primes de précarité et toutes autres sommes versées à titre exceptionnel).
+
+La période prise en compte pour le calcul du salaire de référence est celle précédant la date de rupture ou de fin du contrat de travail.
+
+Le financement de ce dispositif fait l'objet d'un système de mutualisation intégré aux cotisations des salariés actifs (part patronale et part salariale) permettant aux anciens salariés de bénéficier de ce dispositif sans paiement de cotisations.
 
 IX.-Gestion du régime conventionnel
 
@@ -219,3 +267,93 @@ En cas de résiliation ou de non-renouvellement de la désignation de l'un ou de
 -les prestations de rente en cours de service seront maintenues à leur niveau atteint à la date de la résiliation ou du non-renouvellement de la désignation ;
 
 -en application de l'article L. 912-3 du code de la sécurité sociale, les partenaires sociaux, en avenant avec l'OCIRP, assureur des garanties de rente, organisent la poursuite de la revalorisation des prestations de rente en cours de service sur les bases suivantes : les prestations de rente continueront à être revalorisées par l'OCIRP suivant les mêmes valeurs énoncées à l'article VI du présent article.
+
+XII.-Garanties incapacité temporaire-invalidité.-Assureur GNP
+
+XII. 1. Bénéficiaires
+
+Les bénéficiaires des garanties incapacité temporaire-invalidité sont l'ensemble des salariés non affiliés à l'AGIRC.
+
+XII. 1.1. Incapacité temporaire
+
+Définition de la garantie
+
+En cas d'arrêt de travail pris en charge par la sécurité sociale et consécutif à une maladie ou un accident, quelle qu'en soit l'origine, l'organisme assureur verse des indemnités journalières complémentaires à celles servies par cet organisme.
+
+XII. 1.2. Point de départ de la prestation
+
+La garantie incapacité temporaire de travail intervient après application d'une franchise fixe et continue de 120 jours pour chaque arrêt de travail pour les salariés, et ce sans condition d'ancienneté.
+
+XII. 1.3. Montant des prestations
+
+Le montant des indemnités journalières complémentaires correspond à la différence entre 80 % du salaire brut de référence et le montant des indemnités journalières brutes servies par la sécurité sociale cumulées à l'éventuel salaire brut à temps partiel.
+
+En tout état de cause, les prestations versées au titre du régime de prévoyance cumulées à celles versées par la sécurité sociale et l'éventuel salaire à temps partiel ne peuvent conduire le salarié à percevoir plus que le salaire net après prélèvement des cotisations sociales qu'il aurait perçu s'il avait continué de travailler.
+
+Pour les anciens salariés bénéficiant du maintien des garanties de prévoyance après la rupture du contrat de travail, les indemnités journalières servies par l'organisme assureur cumulées aux indemnités journalières de sécurité sociale sont limitées au montant des allocations pour perte d'emploi que perçoit l'intéressé.
+
+XII. 1.4. Cessation du versement des prestations
+
+Les prestations cessent d'être versées :
+
+-lorsque le salarié ne perçoit plus les indemnités journalières de sécurité sociale ;
+
+-dès la reprise du travail ;
+
+-au 1 095e jour d'indemnisation ;
+
+-et, au plus tard, à la date de liquidation de la pension de vieillesse (hormis le cas des salariés en situation de cumul emploi-retraite).
+
+XII. 2. Invalidité
+
+XII. 2.1. Définition de la garantie
+
+Lorsque le salarié est classé par la sécurité sociale dans l'une des catégories d'invalides définies à l'article L. 341-4 (2) du code de la sécurité sociale, ou lorsque l'invalidité résulte d'un accident du travail ou d'une maladie professionnelle entraînant un taux d'incapacité permanente partielle (IPP taux compris supérieur ou égal à 33 %), il est versé au salarié une rente complémentaire à celle servie par la sécurité sociale.
+
+XII. 2.2. Point de départ de la prestation
+
+La prestation est versée dès la notification au salarié par la sécurité sociale soit de son classement dans l'une des catégories d'invalidité mentionnées à l'article L. 341-4 du code de la sécurité sociale, soit d'un taux d'incapacité permanente partielle. Cette notification doit intervenir avant la fin de la période de maintien des garanties de prévoyance pour les anciens salariés bénéficiant de la portabilité des droits et/ ou de la cessation de leurs droits au maintien des garanties dans les cas prévus au paragraphe VIII de l'article 21 bis de la présente convention collective.
+
+XII. 2.3. Montant de la prestation
+
+Invalidité de 2e, 3e catégorie ou incapacité permanente supérieure ou égale à 66 % :
+
+Le salarié classé par la sécurité sociale en invalidité de 2e ou de 3e catégorie ou bien bénéficiant d'une rente versée par la sécurité sociale au titre d'un accident du travail ou maladie professionnelle ayant entraîné un taux d'incapacité d'au moins 66 % reçoit une rente complémentaire. Le montant de cette dernière correspond à la différence comprise entre 75 % du salaire brut de référence et le montant des prestations brutes servies par la sécurité sociale, cumulé à l'éventuel salaire brut à temps partiel.
+
+Pour les anciens salariés bénéficiant du maintien des garanties de prévoyance au titre de la portabilité des droits, le cumul de la rente de sécurité sociale et de la rente complémentaire versée par l'organisme assureur est limité au montant des allocations pour perte d'emploi que perçoit l'intéressé.
+
+Invalidité de 1re catégorie ou incapacité permanente et partielle comprise entre 33 et 66 % :
+
+Le salarié classé par la sécurité sociale en invalidité de 1re catégorie ou bénéficiant d'une rente pour accident du travail ou maladie professionnelle ayant entraîné un taux d'incapacité compris entre 33 % et inférieure à 66 % reçoit une rente complémentaire à celle servie par la sécurité sociale. Le montant de cette rente correspond à la différence entre 45 % du salaire brut de référence et le montant des prestations brutes servies par la sécurité sociale, cumulé à l'éventuel salaire brut à temps partiel.
+
+Pour les anciens salariés bénéficiant du maintien des garanties de prévoyance au titre de la portabilité des droits, le cumul de la rente de sécurité sociale et de la rente complémentaire versée par l'organisme assureur est limité au montant des allocations pour perte d'emploi que perçoit l'intéressé.
+
+XII. 2.4. Cessation du versement de la prestation
+
+La rente complémentaire cesse d'être versée :
+
+-lorsque le salarié ne perçoit plus la rente de sécurité sociale ;
+
+-lors de la substitution de la rente de sécurité sociale au titre de l'invalidité par une pension de vieillesse pour inaptitude au travail ;
+
+-et, au plus tard, à la date de liquidation de la pension de vieillesse de l'intéressé.
+
+En tout état de cause, la rente versée par l'organisme assureur du régime de prévoyance cumulée à celle servie par la sécurité sociale et l'éventuel salaire à temps partiel ne peuvent conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité.
+
+XII. 2.5. Salaire de référence des garanties incapacité temporaire, invalidité, incapacité permanente
+
+Pour le personnel permanent, le salaire de référence servant de base au calcul de la prestation est égal au salaire brut tranches A, B perçu au cours des 12 mois précédant l'arrêt de travail, le décès ou l'événement ayant donné lieu à l'invalidité absolue et définitive.
+
+Pour le personnel saisonnier, le salaire de référence servant de base au calcul de la prestation est égal au total des rémunérations brutes perçues par le salarié durant son (ou ses) contrat (s) de travail. La période de référence à prendre en compte est celle des 12 mois précédant l'arrêt de travail, le décès ou l'événement ayant donné lieu à l'invalidité absolue et définitive, et ce dans la (ou les) entreprise (s) de la branche professionnelle.
+
+Pour les bénéficiaires du maintien des garanties au titre de la portabilité, le salaire brut servant de base au calcul des prestations est celui du mois précédant la rupture du contrat de travail, à l'exception de toutes sommes versées en raison de la rupture dudit contrat (indemnités de licenciement, de congés payés, de préavis...) et dans les mêmes conditions que ci-dessus. Par ailleurs, le montant des prestations versées par l'organisme assureur cumulées à celles versées par la sécurité sociale sera plafonné au montant des allocations pour perte d'emploi que perçoit l'intéressé.
+
+(1) Voir article V. 1 relatif au salaire de référence de la garantie décès.
+
+(2) En vue de la détermination du montant de la pension, les invalides sont classés comme suit :
+
+1° Invalides capables d'exercer une activité rémunérée ;
+
+2° Invalides absolument incapables d'exercer une profession quelconque ;
+
+3° Invalides qui, étant absolument incapables d'exercer une profession, sont, en outre, dans l'obligation d'avoir recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie.
