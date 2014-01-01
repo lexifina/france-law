@@ -326,7 +326,7 @@ Règles de stationnement
 
 7.02 Stationnement interdit.
 
-7.03 Ancrage.
+7.03 Ancrage et utilisation de pieux ou de poteaux d'ancrage.
 
 7.04 Amarrage.
 
@@ -444,4 +444,4 @@ Annexe 10 : Modèle de carnet de contrôle des huiles usées.
 
 NOTA :
 
-Conformément à la décision CM-I-10-2.3.2-1-1 du 8 juin 2010, l'amendement entre en vigueur au 1er décembre 2011. Les prescriptions encore valables au 1er décembre 2011 seront abrogées à cette date.
+Conformément à la décision CM-I-12-4.1-3-1 du 19 juin 2012, l'amendement entre en vigueur le 1er janvier 2014.
