@@ -1,6 +1,6 @@
 # Article 1681 septies
 
-1 Par dérogation aux dispositions de l'article 1681 quinquies et du 1 de l'article 1681 sexies, l'impôt sur les sociétés ainsi que les impositions recouvrées dans les mêmes conditions, l'imposition forfaitaire annuelle et la cotisation foncière des entreprises et ses taxes additionnelles ainsi que la taxe sur les salaires sont acquittés par télérèglement, par les contribuables qui sont définis aux deuxième à dixième alinéas du I de l'article 1649 quater B quater ;
+1 Par dérogation aux dispositions de l'article 1681 quinquies et du 1 de l'article 1681 sexies, l'impôt sur les sociétés ainsi que les impositions recouvrées dans les mêmes conditions, la cotisation foncière des entreprises et ses taxes additionnelles ainsi que la taxe sur les salaires sont acquittés par télérèglement, par les contribuables qui sont définis aux deuxième à dixième alinéas du I de l'article 1649 quater B quater ;
 
 2 Le paiement par télérèglement, des taxes foncières sur les propriétés bâties et non bâties et de leurs taxes additionnelles et annexes est également obligatoire pour les contribuables qui ont opté pour le paiement de ces taxes auprès du service chargé des grandes entreprises au sein de l'administration fiscale dans des conditions fixées par décret.
 
@@ -11,3 +11,7 @@
 5. Les entreprises soumises à l'impôt sur les sociétés, qu'elles en soient redevables ou non, acquittent la taxe sur les salaires mentionnée à l'article 231 par télérèglement.
 
 6. Les paiements mentionnés aux 2 et 3 de l'article 1681 sexies peuvent également être effectués par télérèglement.
+
+NOTA :
+
+Conformément à l'article 20 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 l'entrée en vigueur des dispositions du I et du II de l'article 14 de la loi n° 2008-1425 du 27 décembre 2008 prévoyant la suppression des termes "l'imposition forfaitaire annuelle et" à compter du 1er janvier 2011 a été reportée au 1er janvier 2014.
