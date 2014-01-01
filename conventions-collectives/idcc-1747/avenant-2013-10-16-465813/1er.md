@@ -1,0 +1,27 @@
+# Article 1er
+
+Les parties conviennent de substituer à l'article 134 de la convention collective des activités industrielles de boulangerie-pâtisserie l'article suivant :
+
+« Article 134
+
+Portabilité des droits
+
+Sont bénéficiaires du régime les anciens salariés des entreprises dont la rupture du contrat de travail ouvre droit au régime d'indemnisation de l'assurance chômage.
+
+Ils bénéficient du maintien des garanties du régime de remboursement frais de santé dès le lendemain de la fin de leur contrat de travail.
+
+La durée de la portabilité est égale à la durée du dernier contrat de travail, appréciée en mois entiers, dans la limite de 12 mois.
+
+Le maintien des garanties est obligatoire.
+
+Le bénéfice du régime cessera dans les hypothèses suivantes :
+
+– en cas de reprise d'une activité professionnelle et de cessation concomitante du bénéfice du régime d'assurance chômage. Dans une telle hypothèse, il appartiendra au salarié concerné de transmettre à l'entreprise ou à l'assureur le justificatif de cessation du régime d'assurance chômage ;
+
+– en cas de décès.
+
+Le financement du maintien de ces garanties est assuré dans le cadre de la mutualisation du régime.
+
+Les bénéficiaires de la portabilité des droits pourront, à l'issue de la période de portabilité, bénéficier d'un maintien de garanties de la couverture de remboursement de frais de santé dans les conditions de l'article 4 de la loi Evin et des dispositions du contrat d'assurance.
+
+Dans ce cas, le délai de 6 mois prévu à l'article 133 pour pouvoir effectuer une demande de maintien des garanties est reporté au terme de la période de portabilité, laquelle peut atteindre 12 mois. »
