@@ -32,7 +32,7 @@ La délégation à l'action foncière et immobilière (DAFI) (rattachée au BVS 
 
 L'institut de formation de l'environnement (rattaché au BVS du SG).
 
-Le service d'études sur les transports, les routes et leurs aménagements (SETRA).
+Le centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (SETRA).
 
 Le centre d'études des tunnels (CETU).
 
@@ -44,7 +44,7 @@ Le secrétariat général au tunnel sous la Manche (rattaché au BVS de la DGITM
 
 L'armement des phares et balises (APB) (**).
 
-Le centre d'études techniques maritimes et fluviales (CETMEF).
+Le centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CETMEF).
 
 Le centre d'études sur les réseaux, le transport, l'urbanisme et la construction (CERTU).
 

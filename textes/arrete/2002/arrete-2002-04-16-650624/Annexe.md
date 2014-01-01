@@ -1,6 +1,6 @@
 # Article Annexe
 
-A. - Fonctions exercées en administration centrale
+A.-Fonctions exercées en administration centrale
 
 1° Vice-président du Conseil général de l'environnement et du développement durable :
 
@@ -344,9 +344,9 @@ NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-a) Secrétariat général |
+a) Secrétariat généralChef |
 
-Chef de service, adjoint du directeur des ressources humaines
+de service, adjoint du directeur des ressources humaines
 
 |
 
@@ -482,9 +482,9 @@ Chef du service de l'économie, de l'évaluation et de l'intégration du dévelo
 
 |
 
-c) Direction générale de l'énergie et du climat |
+c) Direction générale de l'énergie et du climatChef |
 
-Chef du service du climat et de l'efficacité énergétique
+du service du climat et de l'efficacité énergétique
 
 |
 
@@ -524,9 +524,9 @@ Chef du service de l'administration générale et de la stratégie
 
 |
 
-e) Direction générale de l'aviation civile |
+e) Direction générale de l'aviation civileChef |
 
-Chef du service du secrétariat général
+du service du secrétariat général
 
 |
 
@@ -566,9 +566,9 @@ Chef du service des affaires générales et de la performance
 
 |
 
-g) Direction générale de la prévention des risques |
+g) Direction générale de la prévention des risquesChef |
 
-Chef de service, adjoint au directeur général de la prévention des risques
+de service, adjoint au directeur général de la prévention des risques
 
 |
 
@@ -616,9 +616,9 @@ Chef du service des risques naturels et hydrauliques
 
 |
 
-h) Délégation à la circulation et à la sécurité routières |
+h) Délégation à la circulation et à la sécurité routièresAdjoint |
 
-Adjoint au délégué, chef de service
+au délégué, chef de service
 
 |
 
@@ -644,9 +644,9 @@ NOMBRE DE POINTS PAR EMPLOI
 
 |
 
-a) Secrétariat général |
+a) Secrétariat généralSous |
 
-Sous-directeur du pilotage, de la performance et de la synthèse
+-directeur du pilotage, de la performance et de la synthèse
 
 |
 
@@ -946,9 +946,9 @@ Sous-directeur des affaires juridiques de l'énergie et des transports
 
 |
 
-b) Commissariat général au développement durable |
+b) Commissariat général au développement durableSous |
 
-Sous-directeur de l'innovation
+-directeur de l'innovation
 
 |
 
@@ -1178,9 +1178,9 @@ Sous-directeur des affaires générales et de la synthèse
 
 |
 
-d) Direction générale des infrastructures, des transports et de la mer |
+d) Direction générale des infrastructures, des transports et de la merSous |
 
-Sous-directeur de la gestion du réseau autoroutier concédé
+-directeur de la gestion du réseau autoroutier concédé
 
 |
 
@@ -1520,9 +1520,9 @@ Sous-directeur des systèmes d'information et de la modernisation
 
 |
 
-f) Direction générale de l'aménagement, du logement et de la nature |
+f) Direction générale de l'aménagement, du logement et de la natureSous |
 
-Sous-directeur du financement du logement
+-directeur du financement du logement
 
 |
 
@@ -1690,9 +1690,9 @@ Secrétaire permanent du Plan urbanisme construction architecture
 
 |
 
-g) Direction générale de la prévention des risques |
+g) Direction générale de la prévention des risquesSous |
 
-Sous-directeur des risques accidentels
+-directeur des risques accidentels
 
 |
 
@@ -1716,9 +1716,9 @@ Sous-directeur des risques chroniques et du pilotage
 
 |
 
-h) Délégation à la circulation et à la sécurité routières |
+h) Délégation à la circulation et à la sécurité routièresSous |
 
-Sous-directeur de l'action interministérielle
+-directeur de l'action interministérielle
 
 |
 
@@ -2028,7 +2028,7 @@ Chef du service de navigation délégué de la Seine
 
 |
 
-5° Directeur de centre d'études techniques de l'équipement :
+5° Directeur de centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement :
 
 DÉSIGNATION DE L'EMPLOI
 
@@ -2046,7 +2046,7 @@ de points par emploi
 
 |
 
-Directeur de centre d'études techniques de l'équipement : Lyon, Méditerranée, Sud-Ouest
+Directeur de centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement : Lyon, Méditerranée, Sud-Ouest
 
 |
 
@@ -2058,7 +2058,7 @@ Directeur de centre d'études techniques de l'équipement : Lyon, Méditerranée
 
 |
 
-Directeur de centre d'études techniques de l'équipement : Est, Nord-Picardie, Normandie-Centre, Ouest
+Directeur de centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement : Est, Nord-Picardie, Normandie-Centre, Ouest
 
 |
 
@@ -2250,7 +2250,7 @@ Directeur interdépartemental des routes : Nord, Nord-Ouest, Centre-Ouest, Atlan
 
 |
 
-C - Fonctions exercées dans un service à compétence nationale ou dans un service technique central
+C-Fonctions exercées dans un service à compétence nationale ou dans un service technique central
 
 Directeur ou délégué ou chef de service ou chef de centre :
 
@@ -2284,9 +2284,9 @@ Directeur
 
 |
 
-b) Service technique des remontées mécaniques et des transports guidés |
+b) Service technique des remontées mécaniques et des transports guidésChef |
 
-Chef du service
+du service
 
 |
 
@@ -2298,9 +2298,9 @@ Chef du service
 
 |
 
-c) Centre d'études techniques maritimes et fluviales |
+c) Centre d'études techniques maritimes et fluvialesChef |
 
-Chef du centre
+du centre
 
 |
 
@@ -2312,9 +2312,7 @@ Chef du centre
 
 |
 
-d) Service d'études sur les transports, les routes et leurs aménagements |
-
-Directeur
+d) Service d'études sur les transports, les routes et leurs aménagementsDirecteur |
 
 |
 
@@ -2326,9 +2324,7 @@ Directeur
 
 |
 
-e) Centre d'études des tunnels |
-
-Directeur
+e) Centre d'études des tunnelsDirecteur |
 
 |
 
@@ -2340,9 +2336,9 @@ Directeur
 
 |
 
-f) Délégation à l'action foncière et immobilière |
+f) Délégation à l'action foncière et immobilièreDélégué |
 
-Délégué à l'action foncière et immobilière
+à l'action foncière et immobilière
 
 |
 
