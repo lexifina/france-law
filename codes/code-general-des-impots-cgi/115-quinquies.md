@@ -14,10 +14,12 @@ Il en est de même dans la mesure où elle justifie que les bénéficiaires de c
 
 3 Les dispositions du 1 ne s'appliquent pas lorsque la société étrangère remplit les conditions suivantes :
 
-a) Avoir son siège de direction effective dans un Etat membre de la Communauté européenne ;
+a) Avoir son siège de direction effective dans un Etat membre de l'Union européenne ;
 
-b) Y être passible de l'impôt sur les sociétés, sans possibilité d'option et sans en être exonérée (2).
+b) Y être passible de l'impôt sur les sociétés, sans possibilité d'option et sans en être exonérée et sans bénéficier d'une exonération spécifique sur les bénéfices mentionnés au 1.
 
 (1) Voir Annexe II, art. 380 à 382.
 
-(2) Ces dispositions sont applicables aux bénéfices réalisés au titre des exercices clos à compter du 31 décembre 1997.
+NOTA :
+
+Loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, article 33 (II-A) : Ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2013.

@@ -6,12 +6,10 @@ Le crédit d'impôt est égal à 66 % des cotisations versées prises dans la li
 
 Le crédit d'impôt ne s'applique pas aux bénéficiaires de traitements et salaires admis à justifier du montant de leurs frais réels.
 
-Le bénéfice du crédit d'impôt est subordonné à la condition que soit joint à la déclaration des revenus un reçu du syndicat mentionnant le montant et la date du versement. A défaut, le crédit d'impôt est refusé sans proposition de rectification préalable.
-
 L'excédent éventuel de crédit d'impôt est remboursé.
 
-Par dérogation au quatrième alinéa, les contribuables qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649 quater B ter, sont dispensés de joindre à cette déclaration les reçus délivrés par les syndicats. Le crédit d'impôt accordé est remis en cause lorsque ces contribuables ne peuvent pas justifier du versement des cotisations par la présentation des reçus mentionnés au quatrième alinéa du présent article.
+Le versement des cotisations ouvre droit au bénéfice du crédit d'impôt, sous réserve que le contribuable soit en mesure de présenter, à la demande de l'administration fiscale, le reçu du syndicat mentionnant le montant et la date du versement.
 
 NOTA :
 
-Loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, article 23 II : Ces dispositions sont applicables à compter de l'imposition des revenus perçus en 2012.
+Conformément à l'article 17 III de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les dispositions de l'article 199 quater C, dans leur rédaction issue de la présente loi, s'appliquent à compter de l'imposition des revenus de 2013.

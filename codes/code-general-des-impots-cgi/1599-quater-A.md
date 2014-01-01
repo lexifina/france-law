@@ -1,10 +1,10 @@
 # Article 1599 quater A
 
-I.-L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique au matériel roulant utilisé sur le réseau ferré national pour des opérations de transport de voyageurs.
+I. - L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique au matériel roulant utilisé sur le réseau ferré national pour des opérations de transport de voyageurs.
 
-II.-L'imposition forfaitaire est due chaque année par l'entreprise de transport ferroviaire qui dispose, pour les besoins de son activité professionnelle au 1er janvier de l'année d'imposition, de matériel roulant ayant été utilisé l'année précédente sur le réseau ferré national pour des opérations de transport de voyageurs.
+II. - L'imposition forfaitaire est due chaque année par l'entreprise de transport ferroviaire qui dispose, pour les besoins de son activité professionnelle au 1er janvier de l'année d'imposition, de matériel roulant ayant été utilisé l'année précédente sur le réseau ferré national pour des opérations de transport de voyageurs.
 
-III.-Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son utilisation selon le barème suivant :
+III. - Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son utilisation selon le barème suivant :
 
 (en euros)
 
@@ -114,10 +114,18 @@ Ne sont pas retenus pour le calcul de l'imposition les matériels roulants desti
 
 Lorsque du matériel roulant est destiné à être utilisé à la fois sur le réseau ferré national et sur les lignes de transport en commun de voyageurs mentionnées aux articles L. 2142-1 et L. 2142-2 du code des transports, ce matériel est retenu pour le calcul de l'imposition s'il est destiné à être utilisé principalement sur le réseau ferré national.
 
-IV.-Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, le nombre de matériels roulants par catégorie.
+III bis. - Sans préjudice des dispositions du III :
+
+1° L'imposition forfaitaire n'est pas due par les entreprises de transport ferroviaire qui ont parcouru l'année précédant celle de l'imposition moins de 300 000 kilomètres sur le réseau ferré national pour des opérations de transport de voyageurs ;
+
+2° Pour les entreprises de transport ferroviaire qui ont parcouru l'année précédant celle de l'imposition entre 300 000 et 1 700 000 kilomètres sur le réseau ferré national pour des opérations de transport de voyageurs, le montant de l'imposition forfaitaire est égal au montant mentionné au III multiplié par un coefficient égal à : (nombre de kilomètres parcourus sur le réseau ferré national - 300 000)/1 400 000.
+
+IV. - Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, le nombre de matériels roulants par catégorie et le nombre de kilomètres parcourus l'année précédant celle de l'imposition sur le réseau ferré national pour des opérations de transport de voyageurs.
+
+La déclaration précise les matériels roulants, par catégorie, utilisés dans le cadre de services de voyageurs commandés par les autorités régionales.
 
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation foncière des entreprises.
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 37-VI B (4°) b de la loi n° 2012-1510 du 29 décembre 2012.
+Conformément à l'article 70-III de la loi n° 2013-1279 du 29 décembre 2013, ces dispositions s'appliquent à compter des impositions dues au titre de 2014.

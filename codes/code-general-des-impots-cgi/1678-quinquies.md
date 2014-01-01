@@ -4,8 +4,4 @@ I. – La taxe d'apprentissage est recouvrée selon les modalités ainsi que sou
 
 II. – L'employeur peut imputer sur le montant du versement de la taxe d'apprentissage, le montant des dépenses effectivement faites et à raison desquelles il déclare être exonéré.
 
-III. – Le versement de la taxe d'apprentissage prévu à l'article 228 bis est effectué auprès du comptable public compétent, accompagné du bordereau établi selon un modèle fixé par l'administration, et déposé au plus tard le 30 avril de l'année qui suit celle du versement des rémunérations.
-
-NOTA :
-
-Loi n° 2007-1787 du 20 décembre 2007, article 12 V : Les I à IV sont applicables à raison des rémunérations versées à compter du 1er janvier 2007.
+III. – Le versement de la taxe d'apprentissage prévu à l'article 1599 ter I est effectué auprès du comptable public compétent, accompagné du bordereau établi selon un modèle fixé par l'administration, et déposé au plus tard le 30 avril de l'année qui suit celle du versement des rémunérations.
