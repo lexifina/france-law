@@ -28,9 +28,9 @@ L'exclusion des terrains et participations prévue à la dernière phrase du pre
 
 Les sommes prélevées ou déduites en vertu du premier alinéa sont limitées à :
 
--40 % pour la généralité des publications et 65 % pour les quotidiens du bénéfice de l'exercice 1980,
+– 40 % pour la généralité des publications et 65 % pour les quotidiens du bénéfice de l'exercice 1980,
 
--30 % pour la généralité des publications et 60 % pour les quotidiens du bénéfice des exercices 1981 à 1996.
+– 30 % pour la généralité des publications et 60 % pour les quotidiens du bénéfice des exercices 1981 à 1996.
 
 1 bis B. Pour l'application des 1 bis, 1 bis A et 1 bis A bis, sont assimilées à des quotidiens, les publications à diffusion départementale ou régionale consacrées principalement à l'information politique et générale, paraissant au moins une fois par semaine et dont le prix de vente n'excède pas de 75 % celui de la majorité des quotidiens. Un arrêté du ministre de l'économie et des finances fixe les conditions de cette assimilation (1).
 
@@ -50,7 +50,7 @@ Les réclamations et les recours contentieux relatifs aux décisions d'inscripti
 
 1 ter. Les éléments d'actif acquis au moyen des bénéfices ou des provisions mentionnés au présent article sont amortis pour un montant égal à la fraction du prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou provisions.
 
-Sans préjudice de l'application des dispositions du seizième alinéa du 5° du 1 de l'article 39, les provisions non utilisées conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux bénéfices soumis à l'impôt au titre de ladite année.
+Sans préjudice de l'application des dispositions du quinzième alinéa du 5° du 1 de l'article 39, les provisions non utilisées conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux bénéfices soumis à l'impôt au titre de ladite année.
 
 2. Les entreprises de presse attributaires de biens de presse, bénéficiant d'un des contrats prévus à l'article 9 de la loi n° 54-782 du 2 août 1954 ou remises en possession de leurs biens en vertu d'une dation en payement des indemnités dues à raison du transfert, qui emploient des journalistes ou salariés non journalistes ayant perdu leur emploi à la suite de la suspension d'entreprises de presse prononcée dans le cadre d'application de l'ordonnance du 30 septembre 1944, et qui ne se trouvent pas dans l'un des cas prévus aux 1° et 2° de l'article 20 de la loi du 2 août 1954 précitée, sont autorisées à déduire de leur bénéfice net, pour l'établissement de l'impôt, les provisions constituées par elles en vue du paiement des indemnités calculées en tenant compte de l'ancienneté acquise par ces journalistes et salariés au service de l'ancienne entreprise, qu'elles doivent verser en cas de licenciement de ces derniers.
 
