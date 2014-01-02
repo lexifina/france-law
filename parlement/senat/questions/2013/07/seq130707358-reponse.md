@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130707358
+
+- Question : [SEQ130707358](seq130707358.md) — Assujettissement à la taxe d'enlèvement et d'élimination des ordures ménagères d'un hôpital associatif à but non lucratif ne recourant pas aux services de ramassage de la commune
+
+## Réponse
+
+*Budget, JO du 2014-01-02, page 24*
+
+Conformément aux dispositions du I de l'article 1521 du code général des impôts (CGI), la taxe d'enlèvement des ordures ménagères (TEOM) porte sur toutes les propriétés soumises à la taxe foncière sur les propriétés bâties (TFPB) ou qui en sont temporairement exonérées, et est établie sur la même base que cette dernière. En tant qu'organismes privés, les hôpitaux associatifs à but non lucratif sont passibles de la TFPB dans les conditions de droit commun pour les bâtiments dont ils sont propriétaires. Par conséquent, les hôpitaux associatifs à but non lucratif sont imposables à la TEOM. Cependant, en application du 1 du III de l'article 1521 du CGI, les conseils municipaux déterminent annuellement les cas où les locaux à usage industriel ou commercial peuvent être exonérés de la TEOM. Les établissements de santé privés et les établissements de santé privés d'intérêt collectif, imposables à la TEOM, peuvent bénéficier, dès lors que leurs locaux sont à usage commercial, de cette disposition. Par ailleurs, la TEOM revêt non le caractère d'une redevance pour service rendu mais celui d'une imposition. Le fait qu'un local ne produise que peu ou pas de déchets est donc sans incidence sur son assujettissement dès lors que le service existe dans la commune. En tout état de cause, les communes qui souhaitent que leurs habitants rémunèrent précisément le service assuré peuvent toujours instituer la redevance d'enlèvement des ordures ménagères (REOM), qui permet de demander aux seuls utilisateurs une cotisation correspondant à l'importance et à la valeur du service effectivement rendu à l'usager par la collectivité.
