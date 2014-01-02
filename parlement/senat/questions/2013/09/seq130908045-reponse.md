@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130908045
+
+- Question : [SEQ130908045](seq130908045.md) — Élevage intensif en France
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2014-01-02, page 15*
+
+Élever des animaux (bovins, volailles, moutons, porcs, poissons...) à des fins alimentaires est une nécessité. Cet élevage doit toutefois se faire dans des conditions compatibles avec le bien-être animal et la protection de l'environnement. Ainsi, la réglementation européenne fixe des exigences strictes en matière de bien-être animal, tenant compte des dernières connaissances scientifiques, de l'expérience pratique et des progrès accomplis dans les enceintes internationales. En France, cette mise aux normes a concerné en particulier : la filière volailles, pour les poulets de chair et les poules pondeuses ; la filière porcine avec l'interdiction d'utiliser des stalles individuelles et l'augmentation de l'espace disponible pour les cochettes et truies en gestation. Concernant la préservation de l'environnement, le projet agro-écologique pour la France, annoncé le 18 décembre 2012 lors de la conférence nationale « produisons autrement », a pour objectif d'amplifier une modification durable des pratiques agricoles en visant une double performance économique et environnementale. L'élevage est pleinement concerné par ce projet, qui s'inscrit dans la durée et sera favorisé non seulement par une mobilisation des aides de la politique agricole commune (PAC), en particulier au titre du second pilier relatif au développement rural, mais également par des dispositions nationales venant soutenir les efforts des agriculteurs. Les groupements d'intérêts économiques et environnementaux (GIEE, prévus dans la future loi d'avenir) ainsi que les mesures agro environnementales « systèmes » dans la future PAC en seront des dispositifs clés.
