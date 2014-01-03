@@ -1,0 +1,69 @@
+# Transports : activités privées de protection des navires
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N32156
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/activites_privees_protection_navires
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-489.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-01-03 : 1er dépôt d'une initiative. (PRJLANR5L14B1674)
+  - 2014-01-03 : Etude d'impact (ETDIANR5L14B1674)
+  - 2014-04-18 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-01-03 : Renvoi en commission au fond
+      - 2014-01-15 : Nomination de rapporteur
+      - 2014-04-08 : Réunion de commission
+      - 2014-04-29 : Réunion de commission
+      - 2014-04-09 : Dépôt de rapport (RAPPANR5L14B1861, PRJLANR5L14BTC1861)
+    - Travaux d'une commission saisie pour avis
+      - 2014-01-07 : Saisine pour avis d'une commission
+      - 2014-01-22 : Nomination de rapporteur
+      - 2014-01-22 : Réunion de commission
+      - 2014-04-08 : Réunion de commission
+      - 2014-04-08 : Dépôt de rapport (AVISANR5L14B1860)
+    - Travaux d'une commission saisie pour avis
+      - 2014-02-05 : Saisine pour avis d'une commission
+      - 2014-02-04 : Nomination de rapporteur
+      - 2014-02-26 : Réunion de commission
+      - 2014-02-26 : Dépôt de rapport (AVISANR5L14B1833)
+  - Discussion en séance publique
+    - 2014-04-29 : Discussion en séance publique
+    - 2014-04-29 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-04-30 : Dépôt d'une initiative en navette (PRJLSNR5S219B0489)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-04-30 : Renvoi en commission au fond
+      - 2014-04-30 : Nomination de rapporteur
+      - 2014-05-13 : Dépôt de rapport (RAPPSNR5S219B0523)
+    - Travaux d'une commission saisie pour avis
+      - 2014-04-30 : Saisine pour avis d'une commission
+      - 2014-04-30 : Nomination de rapporteur
+      - 2014-05-13 : Dépôt de rapport (AVISSNR5S219B0522)
+    - Travaux d'une commission saisie pour avis
+      - 2014-05-13 : Saisine pour avis d'une commission
+      - 2014-05-13 : Nomination de rapporteur
+      - 2014-05-13 : Dépôt de rapport (AVISSNR5S219B0526)
+  - Discussion en séance publique
+    - 2014-05-15 : Discussion en séance publique
+    - 2014-05-15 : Décision
+- Commission Mixte Paritaire
+  - 2014-05-16 : Dépôt d'un projet de loi (PRJLANR5L14B1953)
+  - 2014-05-16 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-05-21 : Nomination de rapporteur
+    - 2014-05-21 : Dépôt du rapport d'une CMP (RAPPANR5L14B1960)
+    - 2014-05-21 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0551)
+  - Discussion en séance publique
+    - 2014-06-03 : Discussion en séance publique
+    - 2014-06-03 : Décision
+  - Discussion en séance publique
+    - 2014-06-19 : Discussion en séance publique
+    - 2014-06-19 : Décision
+  - 2014-05-22 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-07-01 : Promulgation d'une loi
