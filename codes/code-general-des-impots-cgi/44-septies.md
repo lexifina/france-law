@@ -46,7 +46,7 @@ III.-1. Le bénéfice de l'exonération est subordonné à l'agrément du minist
 
 3. Pour les petites et moyennes entreprises créées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2013 dans les zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1628/2006 de la Commission du 24 octobre 2006 précité.
 
-4. Le bénéfice exonéré des entreprises en application des 1, 2 et 3 ne peut dépasser 42 000 000 €.
+4. Le bénéfice exonéré des entreprises en application des 1,2 et 3 ne peut dépasser 42 000 000 €.
 
 Par ailleurs, lorsque les coûts éligibles sont égaux ou supérieurs à 25 000 000 €, le bénéfice exonéré ne peut dépasser 50 % des limites déterminées en application des 2 et 3.
 
@@ -54,7 +54,7 @@ IV.-Pour l'application du III, est considérée comme moyenne entreprise une soc
 
 a. Elle emploie moins de 250 salariés et, soit a réalisé un chiffre d'affaires annuel inférieur à 40 millions d'euros au cours de l'exercice, soit a un total de bilan inférieur à 27 millions d'euros. A compter du 1er janvier 2005, les seuils de chiffre d'affaires et de total du bilan sont respectivement portés à 50 millions d'euros et 43 millions d'euros ;
 
-b. Son capital ou ses droits de vote ne sont pas détenus à hauteur de 25 % ou plus par une entreprise ou par plusieurs entreprises ne répondant pas aux conditions du a, de manière continue au cours de l'exercice. Pour la détermination de ce pourcentage, les participations de sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs des fonds professionnels de capital investissement, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Cette condition s'apprécie de manière continue au cours de l'exercice.
+b. Son capital ou ses droits de vote ne sont pas détenus à hauteur de 25 % ou plus par une entreprise ou par plusieurs entreprises ne répondant pas aux conditions du a, de manière continue au cours de l'exercice. Pour la détermination de ce pourcentage, les participations de sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles d'investissement à risque ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre la société en cause et ces dernières sociétés ou ces fonds. Cette condition s'apprécie de manière continue au cours de l'exercice.
 
 V.-Pour l'application du III, est considérée comme petite entreprise la société qui répond cumulativement aux conditions suivantes :
 
