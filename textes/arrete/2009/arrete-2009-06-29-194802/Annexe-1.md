@@ -1,164 +1,30 @@
 # Article Annexe
 
+Annexe
+
 GRILLE DE NOTATION SCOLARITE DES ELEVES GARDIENS DE LA PAIX
 
-à compter de l'incorporation de la 221e promotion
-
-|
+répartition des évaluations à compter de l'incorporation de la 229ème promotion
 
 EVALUATIONS
 
 |
 
-Séquence A
+TOTAL
+
+des points
 
 |
 
-Séquence B
+COMPORTEMENT
 
 |
 
-Séquence C
+Tout au long de la scolarité
 
 |
 
-TOTAUX
-
-|
-
-Contrôle
-
-|
-
-Total points
-
-|
-
-Alternance
-
-|
-
-Contrôle
-
-|
-
-Total points
-
-|
-
-5 premières semaines
-
-|
-
-5 dernières semaines
-
-|
-
-pts
-
-|
-
-total pts
-
-|
-
-COMPORTEMENTS
-
-|
-
-Comportement personnel
-
-|
-
-A
-
-|
-
-20
-
-|
-
-|
-
-c
-
-|
-
-30
-
-|
-
-50
-
-|
-
-50
-
-|
-
-CONNAISSANCES
-
-ET
-
-SAVOIR-FAIRE
-
-PROFESSIONNELS
-
-|
-
-Contrôles nationaux
-
-|
-
-Connaissances générales et juridiques
-
-|
-
-280
-
-|
-
-|
-
-|
-
-400
-
-|
-
-810
-
-|
-
-|
-
-|
-
-procedure
-
-|
-
-120
-
-|
-
-Contrôles
-
-école
-
-|
-
-9e semaine
-
-|
-
-Matière géné
-
-|
-
-30
-
-|
+Exemplarité
 
 |
 
@@ -166,19 +32,47 @@ Matière géné
 
 |
 
-Armement 1
+Investissement personnel
 
 |
 
-10
+35
 
 |
 
-14e semaine
+Travail en équipe
 
 |
 
-Matière géné
+35
+
+|
+
+Total : 170 Pts
+
+|
+
+CONNAISSANCES ET SAVOIR FAIRE TECHNIQUES
+
+|
+
+10° semaine environ
+
+|
+
+Évaluation écrite sur les fondamentaux
+
+|
+
+Total : 80 Pts
+
+|
+
+13° semaine environ
+
+|
+
+Habilitation SIG Sauer
 
 |
 
@@ -186,19 +80,11 @@ Matière géné
 
 |
 
-20e semaine
+14° et 15° semaine
 
 |
 
-lnformatique
-
-|
-
-30
-
-|
-
-D.Q.P. *
+Développement de la condition physique opérationnelle
 
 |
 
@@ -206,83 +92,11 @@ Cardio police
 
 |
 
-Cardio-police 1
-
-|
-
 10
 
 |
 
-Cardio-police 3
-
-|
-
-10
-
-|
-
-30
-
-|
-
-Cardio-police 2
-
-|
-
-10
-
-|
-
-Parcours professionnel
-
-|
-
-Parcours 1
-
-|
-
-10
-
-|
-
-Parcours 3
-
-|
-
-10
-
-|
-
-30
-
-|
-
-Parcours 2
-
-|
-
-10
-
-|
-
-Sprint professionnelnnnel
-
-|
-
-Sprint 1
-
-|
-
-10
-
-|
-
-Sprint 2
-
-|
-
-10
+Parcours pro
 
 |
 
@@ -290,55 +104,7 @@ Sprint 2
 
 |
 
-T.D.I. **
-
-|
-
-TDI 1
-
-|
-
-20
-
-|
-
-TDI 3
-
-|
-
-20
-
-|
-
-60
-
-|
-
-TDI 2
-
-|
-
-20
-
-|
-
-Armement
-
-|
-
-Armement 2
-
-|
-
-20
-
-|
-
-Armement 3
-
-|
-
-30
+T.D.I. (techniques de défense en intervention)
 
 |
 
@@ -346,114 +112,178 @@ Armement 3
 
 |
 
+Armement
+
+|
+
+20
+
+|
+
+17° semaine environ
+
+|
+
+Habilitation bâtons de police
+
+|
+
+20
+
+|
+
+21° semaine environ
+
+|
+
 Tir
 
 |
 
-Tir 1
-
-|
-
-30
-
-|
-
-Tir 3
-
-|
-
-30
-
-|
-
-120
-
-|
-
-Tir 2
-
-|
-
-30
-
-|
-
-Tir 4
-
-|
-
-30
-
-|
-
-COMPETENCE
-
-|
-
-Alternance
+60
 
 |
 
 |
 
-120
+Total : 210 Pts
 
 |
 
-150
+26° semaine environ
+
+|
+
+EVALUATION INFORMATIQUE
+
+|
+
+Total : 50 Pts
+
+|
+
+CONTROLE NATIONAL DOMAINE GENERAL
+
+|
+
+Total : 250 Pts
+
+|
+
+27° et 28° semaine environ
+
+|
+
+Développement de la condition physique opérationnelle
+
+|
+
+Cardio police
+
+|
+
+10
+
+|
+
+Parcours pro
+
+|
+
+10
+
+|
+
+Sprint pro
+
+|
+
+10
+
+|
+
+T.D.I (avec mises en situation bâtons de police )
+
+|
+
+60
+
+|
+
+Armement
+
+|
+
+20
+
+|
+
+Tir
+
+|
+
+80
 
 |
 
 |
 
-270
+Total : 190 Pts
 
 |
 
-570
+COMPETENCES PROFESSIONNELLES
 
 |
 
-Simulation
+16° semaine environ
 
 |
 
-|
-
-Simulation
+SIMULATION EVALUATION SUR LE CONTROLE D'IDENTITE
 
 |
 
-300
+Total 80 Pts
 
 |
 
-300
+21° semaine environ
 
 |
 
-|
-
-Total Séquences
+SIMULATION EVALUATION SUR LES VIOLENCES INTRA FAMILIALES
 
 |
 
-570
+Total 80 Pts
 
 |
 
-270
+30° semaine
 
 |
 
-590
+SIMULATION EVALUATION NATIONALE
 
 |
 
-1430
+Total 200 Pts
 
 |
 
-* D.Q.P. : développement des qualités physiques
+31° semaine
 
-** T.D.I. : technique de défense en intervention
+|
+
+CONTROLE NATIONAL DOMAINE JUDICIAIRE
+
+|
+
+Total : 120 Pts
+
+|
+
+TOTAL GENERAL SCOLARITE : 1430 Pts
+
+|
