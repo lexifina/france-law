@@ -1,0 +1,9 @@
+# Réponse à la question n° 45317
+
+- Question : [45317](45317.md) — Question n° 45317 — biens mobiliers; récolement
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Le ministère de l'agriculture, de l'agroalimentaire et de la forêt a mis en place dès 2005, une gestion informatisée des oeuvres pour lesquelles il en est le dépositaire. Cette application informatique comporte une fiche descriptive accompagnée d'un cliché numérique de chaque objet répertorié indiquant son numéro d'inventaire et sa localisation. En sa qualité de dépositaire, le ministère s'engage à veiller à ce que l'oeuvre qui lui est ainsi confiée bénéficie des meilleures conditions d'utilisation et de conservation. Seule la restauration de l'objet déposé, lorsqu'elle est rendue nécessaire, est à sa charge financière. En 2004, une note de service interne relative à la gestion des objets et oeuvres d'art en dépôt au ministère de l'agriculture, est venue préciser les règles qui s'appliquent en la matière, à tous les détenteurs de mobilier, d'objets et oeuvres d'art appartenant à l'État. Par ailleurs, des instructions ont également été données aux services de logistiques et de maintenance des bâtiments afin que les objets et oeuvres d'art en dépôt ne subissent aucun traitement ou ne soient déplacés sans autorisation. Des récolements effectués régulièrement avec le concours des services du mobilier national permettent la mise à jour des objets et mobiliers en dépôt au ministère en charge de l'agriculture. Les oeuvres et mobiliers qui ne sont plus utilisés par les détenteurs sont reversés au fur et à mesure au mobilier national. Enfin, conformément aux recommandations de la circulaire du 3 juin 2004 du Premier ministre, le ministère de l'agriculture procède, en cas de vol ou de disparition d'objets déposés, à un dépôt de plainte immédiat auprès du commissariat de police et en informe le mobilier national.
