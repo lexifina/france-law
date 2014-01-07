@@ -1,0 +1,9 @@
+# Réponse à la question n° 12919
+
+- Question : [12919](12919.md) — Question n° 12919 — groupes musicaux; incitation à la violence et à la haine; poursuites judiciaires
+
+## Réponse
+
+*JO du 2014-01-07*
+
+La liberté d'expression est une liberté fondamentale reconnue par l'article 11 de la Déclaration des droits de l'homme et du citoyen du 26 août 1789, l'article 10 de la Convention européenne des droits de l'homme du 4 novembre 1950 ou encore l'article 11 de la Charte des droits fondamentaux de l'Union Européenne. Cette liberté est toutefois relative puisqu'elle peut être sanctionnée dans ses abus. Les limites posées par le législateur doivent être proportionnées et nécessaires dans une société démocratique. Comme toute forme d'expression publique, les chansons de rap sont régies par la loi du 29 juillet 1881 sur la liberté de la presse qui prévoit notamment des règles particulières de prescription. Ainsi, il est de jurisprudence constante que le délai de prescription de trois mois - porté à un an en matière d'infractions à caractère raciste ou de provocation au terrorisme - court à compter de la première diffusion des propos litigieux et ne se prolonge pas aussi longtemps que les textes demeurent accessibles. Par ailleurs, en présence d'oeuvres de fiction se réclamant d'un genre artistique, l'élément moral de l'infraction peut être délicat à caractériser. Pour autant, au-delà de ces difficultés, les magistrats du ministère public s'attachent à apporter des réponses adaptées aux propos qui dépasseraient le cadre de l'expression artistique et relèveraient des qualifications de diffamation, injure, provocation à la haine, à la violence ou à la discrimination à raison de l'appartenance à une nation. Plusieurs procédures judiciaires ont d'ailleurs été diligentées à la suite de la diffusion de chansons dont le contenu était susceptible de tomber sous le coup d'une qualification pénale.
