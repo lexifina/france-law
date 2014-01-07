@@ -1,0 +1,9 @@
+# Réponse à la question n° 33497
+
+- Question : [33497](33497.md) — Question n° 33497 — champ d'application; terrains de golf
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Aux termes du 5° de l'article 1381 du code général des impôts, les terrains non cultivés employés à un usage commercial ou industriel sont soumis à la taxe foncière sur les propriétés bâties (TFPB). Il en est ainsi de tous les terrains de jeu ou de sport exploités commercialement, y compris les terrains de golf (CE, 29 janvier 1931, n° 8446). À l'inverse, les terrains non cultivés et non employés à un usage commercial ou industriel sont soumis à la taxe foncière sur les propriétés non bâties (TFPNB). Par suite, les terrains aménagés pour le golf et exclusivement réservés à cet usage relèvent de la TFPNB si leur exploitation n'est pas commerciale. La distinction entre les golfs exploités commercialement et les autres est opérée en fonction de critères objectifs tenant à leurs conditions d'exploitation. S'agissant des pistes de ski, la doctrine précise que les terrains d'assise des pistes de ski ne constituent pas, en tant que tels, des propriétés bâties passibles de TFPB. Les terrains d'assises des pistes de ski sont, selon le cas, passibles de la TFPB ou de la TFPNB. Au surplus, les terrains de golf et les pistes de ski ne présentent pas les mêmes caractéristiques. Les terrains d'assises des pistes de ski conservent dans leur ensemble leur état primitif et ne sont pas tous affectés au ski avec un caractère suffisant de permanence. A l'inverse, les parcours de golf sont affectés de façon durable et permanente au golf et ne sont pas disponibles pour d'autres usages. Pour autant, le Gouvernement, sensible à la spécificité des terrains de golf au regard de la taxe foncière, est ouvert à réfléchir à une évolution dans le cadre de la discussion des lois de finances.
