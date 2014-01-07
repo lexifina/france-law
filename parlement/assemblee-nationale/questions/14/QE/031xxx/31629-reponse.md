@@ -1,0 +1,9 @@
+# Réponse à la question n° 31629
+
+- Question : [31629](31629.md) — Question n° 31629 — Cour des comptes; rapport; conslusions
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Dans son rapport consacré à la gestion des personnels enseignants, la Cour des Comptes a dressé un constat de la gestion des ressources humaines jusqu'en 2012 et a présenté un ensemble de pistes de réformes qui servent à alimenter les travaux engagés sur le sujet qui est central pour le ministère de l'éducation nationale. L'affectation des enseignants ne représente qu'un des aspects de la gestion des ressources humaines de l'éducation nationale et s'inscrit dans un ensemble plus vaste de travaux et de réflexions sur la mise en place d'une gestion plus qualitative des personnels enseignants qui s'articule autour du métier, de la mission et de la carrière. Pour ce qui concerne plus particulièrement les affectations, le ministère a recours à un système de classement des demandes qui tient compte notamment des priorités légales de mutation prévues par l'article 60 de la loi n° 84-16 du 11 janvier 1984 au profit des personnels handicapés, de ceux qui sont séparés professionnellement de leur conjoint ou qui exercent dans des quartiers urbains difficiles. Pour le prochain mouvement 2014, le ministère a renforcé les mesures en faveur du handicap et du rapprochement de conjoints afin de garantir les chances de mutation des agents concernés dès lors que les académies ou les départements demandés sont en capacité de les accueillir. Le nombre d'enseignants dans l'académie de Rennes et ses départements, comme pour toutes les autres académies et départements, ne dépend cependant pas des règles d'affectation des agents mais des moyens budgétaires qui leur sont alloués en fonction des critères du système d'allocation des emplois qui tient compte de leurs caractéristiques géographiques et sociales.
