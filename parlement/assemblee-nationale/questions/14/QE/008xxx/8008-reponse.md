@@ -1,0 +1,9 @@
+# Réponse à la question n° 8008
+
+- Question : [8008](8008.md) — Question n° 8008 — agences d'État; rapport; propositions
+
+## Réponse
+
+*JO du 2014-01-07*
+
+En 2012, près de 60 % de l'ensemble des opérateurs dispose d'un contrat de performance, contre 40 % en 2011. Ce taux s'élève à près de 82 % si l'on ne tient compte que des opérateurs « principaux », contre 75 % en 2011. Les retours d'expérience ont montré que, lors de la négociation des premiers contrats de performance, le nombre d'objectifs et d'indicateurs de performance retenu avait pu être excessif. Un certain nombre d'outils, tels que la circulaire du Premier ministre du 26 mars 2010 relative au pilotage stratégique des opérateurs de l'État et un guide d'auto-évaluation paru en mars 2011, ont déjà permis de mieux cibler ces indicateurs. En complément, un guide de préparation des contrats de performance et des lettres de mission est actuellement en cours d'élaboration. La recommandation d'un nombre limité d'objectifs et d'indicateurs fera l'objet d'un rappel dans les éléments méthodologiques. Les objectifs sélectionnés doivent permettre d'évaluer la mise en oeuvre des axes stratégiques retenus. Ils doivent rester en nombre limité pour assurer la lisibilité globale des priorités. A chaque objectif doit être rattaché un (ou plusieurs) indicateur(s) chiffré(s). En outre, le chantier n° 1 du groupe de travail interministériel « opérateurs » mis en place dans le cadre de la modernisation de l'action publique et relatif à la professionnalisation de la tutelle et à l'amélioration de la gouvernance, traite spécifiquement de la question de la modulation du pilotage des organismes en fonction des enjeux et de l'amélioration des outils de pilotage (fiches méthodologiques prévues sur les contrats de performance, les lettres de mission, les lettres d'objectifs...).
