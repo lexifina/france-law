@@ -1,0 +1,9 @@
+# Réponse à la question n° 22097
+
+- Question : [22097](22097.md) — Question n° 22097 — statistiques
+
+## Réponse
+
+*JO du 2014-01-07*
+
+En 2010, 30 227 condamnations étaient éligibles au prononcé d'une peine minimale. Sur ce nombre, 11 344 peines minimales (ou « peines planchers ») ont effectivement été prononcées soit un taux de 37,5 %. Depuis 2008, le taux se situe autour de 40 % avec une légère tendance à la baisse. S'agissant des condamnations criminelles de majeurs, le taux de peines minimales est très élevé, à 84,7 % en 2010. Concernant les mineurs, toutes condamnations criminelles et correctionnelles confondues, le taux de prononcé de peines minimales est de 38,5 % en 2008 et 2009 à 32 % en 2010 et 30 % en 2011. L'ensemble de ces données a été publié sous la forme d'un infostat justice n° 118 en octobre 2012 disponible sur le site internet du ministère. Le détail de ces données par juridiction n'est pas publié car une comparaison pertinente suppose de disposer en parallèle d'une analyse des différences sur la structure de la délinquance des différents ressorts. Conformément à l'engagement du Président de la République, la garde des sceaux proposera au Parlement l'abrogation des peines plancher, qui sont non seulement contraires au principe de l'individualisation des peines mais qui ne sont en outre pas pertinentes contre la récidive : une telle mesure figure alors dans le projet de loi de prévention de la récidive et d'individualisation de la peine qui a été présenté en Conseil des ministres le 9 octobre 2013. En attendant ce vote, la circulaire d'action publique à l'intention des parquets, diffusée le 19 septembre 2012, annule l'obligation précédemment faite aux parquets de faire un appel systématique des jugements ne faisant pas application des peines plancher et demande de privilégier une approche individualisée des situations en examinant avec attention la situation personnelle, sociale et économique de chaque prévenu.
