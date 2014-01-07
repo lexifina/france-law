@@ -1,0 +1,9 @@
+# Réponse à la question n° 43530
+
+- Question : [43530](43530.md) — Question n° 43530 — rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Lutter contre la fraude fiscale est une priorité du Gouvernement. L'enjeu est le respect du principe d'égalité des citoyens devant les charges publiques, le consentement à l'impôt, le maintien d'une concurrence loyale entre les entreprises et l'assainissement des finances publiques. Créer un délit d'incitation à la fraude fiscale comportant notamment la répression du démarchage et de la publicité pour des dispositifs d'évasion fiscale pourrait avoir un rôle préventif envers ceux qui incitent à la fraude fiscale en commercialisant et promouvant des schémas abusifs. Cependant, les montages d'optimisation fiscale dont certains professionnels font la publicité ne peuvent pas, dans la plupart des cas, être considérés a priori comme frauduleux. Cette démonstration nécessite d'analyser l'opération réellement mise en place. Aussi, l'incitation à la fraude fiscale non suivie d'effet reste un concept flou et théorique. Cela étant, la législation en vigueur permet d'ores et déjà de sanctionner les professionnels du droit ou du chiffre ou toute autre personne qui aident des contribuables à frauder le fisc, soit au titre de la complicité de fraude fiscale soit pour blanchiment de fraude fiscale. Ces personnes encourent de ce fait de lourdes sanctions pénales pouvant aller jusqu'à sept ans d'emprisonnement et 2 000 000 € d'amende pénale au titre de la complicité d'une fraude fiscale aggravée et en cas de blanchiment aggravé de fraude fiscale, ce qui est généralement le cas s'agissant d'actes commis par des professionnels, dix ans d'emprisonnement et une amende pénale de 750 000 € pouvant atteindre la moitié de la valeur des fonds sur lesquels ont porté les opérations de blanchiment.
