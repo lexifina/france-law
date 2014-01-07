@@ -1,0 +1,9 @@
+# Réponse à la question n° 35843
+
+- Question : [35843](35843.md) — Question n° 35843 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Le comité national de lutte contre la fraude (CNLF) n'est pas un organisme mais un comité ministériel qui réunit, sous la présidence du Premier ministre, les ministres concernés, des parlementaires et les responsables administratifs de la lutte contre la fraude aux finances publiques. Son budget se limite aux dépenses ponctuelles d'organisation de ses réunions, soit moins de 1 000 € par réunion. Il ne dispose d'aucun effectif permanent. Conformément au décret du 18 avril 2008 relatif à la coordination de la lutte contre les fraudes et créant une délégation nationale à la lutte contre la fraude (DNLF), le secrétariat du CNLF est assuré par la DNLF. La DNLF a pour mission le pilotage de la coordination des administrations et des organismes publics en charge, chacun dans son domaine, de la lutte contre la fraude fiscale et sociale. L'objectif de la DNLF, laquelle ne doit en aucun cas se substituer ou s'ajouter aux services opérationnels de lutte contre la fraude, est de professionnaliser les démarches d'échanges entre organismes, d'assurer l'absence de déperdition d'informations entre entités, de mettre en évidence les mesures à prendre pour combler les lacunes juridiques ou les failles opérationnelles des dispositifs antifraude. Pour exercer ces missions, le plus souvent à caractère transversal, la DNLF, structure resserrée d'impulsion et de coordination, est constituée d'une douzaine de cadres de haut niveau au profil antifraude diversifié. Elle pilote les comités opérationnels départementaux antifraude (CODAF). L'importance de la lutte contre la fraude et de la coordination des actions antifraude justifie pleinement le maintien du CNLF qui, au contraire de grever les finances publiques, a pour objectif de les renforcer.
