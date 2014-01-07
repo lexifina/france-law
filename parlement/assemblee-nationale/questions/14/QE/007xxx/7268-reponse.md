@@ -1,0 +1,9 @@
+# Réponse à la question n° 7268
+
+- Question : [7268](7268.md) — Question n° 7268 — agences d'État; rapport; propositions
+
+## Réponse
+
+*JO du 2014-01-07*
+
+La circulaire du Premier ministre du 26 mars 2010, relative au pilotage stratégique des opérateurs de l'État préconise le renforcement stratégique de la tutelle, en demandant aux tutelles de définir précisément les objectifs et indicateurs assignés à leurs opérateurs et en organisant au sein de chaque ministère une fonction de synthèse et de coordination dédiée aux opérateurs, mais également en généralisant les instruments de pilotage stratégique, tels que le contrat de performance, la lettre de mission, et la mise en place de rendez-vous stratégiques réunissant à un haut niveau de représentation les ministères de tutelle et les dirigeants d'opérateurs afin de dégager les priorités de l'organisme. Par ailleurs, l'information du conseil d'administration a été améliorée grâce à la présentation plus systématique d'un rapport annuel articulé avec le document de performance prévu dans la circulaire relative au cadre budgétaire et comptable des opérateurs et des établissements publics nationaux. La généralisation des réglements intérieurs de fonctionnement du conseil d'administration permet de renforcer son rôle en matière de suivi des risques et des performances. Pour les opérateurs dont la situation le justifie ou qui en font la demande, la création de comités complémentaires est parfois proposée, par exemple en matière d'investissement à enjeux. Ces comités émanant du conseil d'administration rapportent régulièrement sur le résultat de leurs travaux et les enjeux essentiels à porter à la connaissance de l'organe délibérant. Enfin, le sujet du rôle de l'organe délibérant et de la professionnalisation des administrateurs est actuellement traité par le groupe de travail interministériel « opérateurs » institué dans le cadre de la modernisation de l'action publique.
