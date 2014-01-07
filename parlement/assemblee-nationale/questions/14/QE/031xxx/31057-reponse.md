@@ -1,0 +1,9 @@
+# Réponse à la question n° 31057
+
+- Question : [31057](31057.md) — Question n° 31057 — dépenses pour 2013; réduction
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Le projet de loi de finances 2014 comporte des économies sur le budget de fonctionnement au titre de la poursuite des efforts engagés par le ministère de l'éducation nationale depuis plusieurs années en matière de maîtrise des dépenses publiques. Ainsi, le budget de fonctionnement et d'intervention (hors mesures nouvelles) du ministère diminue de 1,6 %, soit 64 M€, ce qui constitue un véritable effort de maîtrise compte tenu du dynamisme naturel de certaines dépenses sous l'effet notamment de l'inflation (bourses, loyers...). Les efforts engagés depuis 2007 en matière de maîtrise des dépenses de fonctionnement sont prolongés : le fonctionnement courant baisse de 3 % en 2014, soit une diminution de 26 % depuis 2007. Ces efforts sont rendus possibles par des actions déployées tant dans les services centraux que dans les services académiques : diminution du volume d'achats grâce à la standardisation et la mutualisation des commandes ; rationalisation du parc immobilier administratif : les surfaces utilisées ont diminué de 12 % de 2008 à 2013 et le nombre d'implantations des services du MEN (rectorats, DSDEN, circonscriptions d'IEN, CIO) a quant à lui diminué de 17% ; réduction des surfaces louées qui a permis de contenir la dépense locative à 3,5 % entre 2007 et 2012 alors même que le coût moyen du m2 loué augmentait de 24 % pendant la même période. Les opérateurs contribuent également à l'effort en s'appuyant sur deux leviers : la poursuite de la rationalisation des ressources humaines : le plafond d'emplois global des opérateurs diminue de 32 ETP, soit une économie de 1,3 M€ ; la réduction des frais de structure à hauteur de 4 % en 2014, soit 1,4 M€.
