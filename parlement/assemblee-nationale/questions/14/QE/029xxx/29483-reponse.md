@@ -1,0 +1,9 @@
+# Réponse à la question n° 29483
+
+- Question : [29483](29483.md) — Question n° 29483 — missions de l'enseignement
+
+## Réponse
+
+*JO du 2014-01-07*
+
+L'article L. 111-2 du code de l'éducation dispose que la formation scolaire, à laquelle tout enfant a droit et qui concourt à son éducation, complète l'action de sa famille. Il dispose également que l'Etat garantit le respect de la personnalité de l'enfant et de l'action éducative des familles. Par ailleurs, à l'article L. 131-2 du même code, il est mentionné que l'instruction obligatoire peut être donnée soit dans les établissements ou écoles publics ou privés, soit dans les familles par les parents, ou l'un d'entre eux, ou toute personne de leur choix. Les parents disposent par conséquent d'une entière liberté dans l'éducation de leurs enfants, cette éducation devant leur permettre de développer leur personnalité, leur sens moral et leur esprit critique, d'élever leur niveau de formation initiale et continue, de s'insérer dans la vie sociale et professionnelle, de partager les valeurs de la République et d'exercer leur citoyenneté. Le ministre de l'éducation nationale, lors de l'examen du projet de loi d'orientation et de programmation pour la refondation de l'école de la République, a rappelé que « le concept de genre », introduit dans nombre de textes internationaux et reconnu comme une notion commune, ne s'apparentait pas à la théorie du genre, désignée sous le terme de gender dans la présente question et qui renvoie à la négation de différences de l'ordre des identités physiologiques et biologiques. Il n'a jamais été question, d'imposer l'enseignement d'une quelconque théorie du genre à l'école. En revanche, l'égalité entre les filles et les garçons et la lutte contre toutes les formes de discrimination, y compris celles fondées sur l'orientation sexuelle, font partie des priorités du ministère et l'objet d'actions spécifiques.
