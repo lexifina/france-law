@@ -1,0 +1,9 @@
+# Réponse à la question n° 39227
+
+- Question : [39227](39227.md) — Question n° 39227 — revendications
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Le dispositif des certificats d'économies d'énergie constitue un levier majeur d'incitation et de financement des investissements d'efficacité énergétique des ménages, des collectivités territoriales et des entreprises, et constitue un dispositif efficace pour agir dans les secteurs diffus. Des arrêtés définissent des opérations standardisées d'économies d'énergie pour les actions les plus fréquemment réalisées. Des fiches sont associées à ces opérations et déterminent un forfait d'économies d'énergie correspondant. Ces fiches sont élaborées par les groupes de travail sectoriels de l'Association technique énergie environnement (ATEE) en concertation avec l'ensemble des professionnels des secteurs concernés et en lien avec l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME). La fiche AGRI-TH-07 concernant l'installation de pompes à chaleur pour élevage porcin, publiée dans l'arrêté du 14 décembre 2011 définissant les opérations standardisées d'économies d'énergie, comporte suite à ce processus une erreur en mentionnant comme condition de délivrance un coefficient de performance (COP) égal ou supérieur à 3, mesuré pour une température à la sortie de l'échangeur de 55 C : Or, il apparaît que de tels équipements ne sont pas disponibles sur le marché. L'ATEE a donc proposé de réviser cette fiche pour corriger cette exigence dans le cadre d'un nouvel arrêté, en cours de préparation. Par ailleurs, à titre exceptionnel, afin de corriger les effets de cette erreur de retranscription, le ministre de l'écologie, du développement durable et de l'énergie a demandé à ses services d'évaluer tous les dossiers des opérations menées depuis le 15 janvier 2012, date de publication de l'arrêté du 14 décembre 2011, selon les modalités de la fiche corrigée.
