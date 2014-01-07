@@ -1,0 +1,9 @@
+# Réponse à la question n° 28966
+
+- Question : [28966](28966.md) — Question n° 28966 — carrière
+
+## Réponse
+
+*JO du 2014-01-07*
+
+La carrière des professeurs certifiés, régis statutairement par le décret n° 72-581 du 4 juillet 1972, est structurée en deux classes, à raison d'une classe normale dotée de onze échelons culminant à l'indice brut 801 et d'une hors classe comportant sept échelons, l'indice terminal se situant à l'indice brut 966. Le protocole sur les mesures catégorielles signé le 30 mai 2013 avec trois organisations syndicales (UNSA, SGEN-CFDT et SNALC), qui retient la valorisation des parcours professionnels des personnels de l'éducation nationale au titre des axes de travail identifiés comme prioritaires, a acté le principe d'un examen des conditions suivant lesquelles les corps des personnels enseignants pourraient être dotés de grades d'avancement, au sens de l'article 58 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, ayant vocation à être accessibles sur la base de considérations liées aux parcours professionnels antérieurs des agents, au titre des réponses à apporter à l'allongement de la durée des carrières résultant des réformes des retraites successives. Au demeurant et ainsi que le protocole le précise, cette réflexion sur la mise en place au bénéfice des corps enseignants de grades à accès fonctionnel (GRAF), qui ne peut être déconnectée de la problématique plus générale de l'évolution du métier enseignant, s'inscrit pleinement dans le cadre de l'agenda social ministériel prévoyant l'engagement à l'automne 2013 de discussions portant sur une redéfinition du métier d'enseignant, par un examen d'ensemble des missions et des conditions d'exercice du métier, notamment en termes d'obligations de service, ainsi que des parcours de carrières des personnels enseignants.
