@@ -1,0 +1,9 @@
+# Réponse à la question n° 40253
+
+- Question : [40253](40253.md) — Question n° 40253 — mobile; perspectives
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Les offres des opérateurs se sont diversifiées depuis le début de l'année 2010. Les offres sans engagement se sont généralisées : la quasi-totalité des opérateurs mobiles proposent une version sans engagement pour chacune de leurs offres avec engagement et la plupart proposent des offres à bas prix via une souscription sur l'internet. En outre, l'arrivée début 2012 d'un quatrième opérateur de réseau mobile a permis une baisse tarifaire conséquente. Cette évolution a été soulignée par le rapport d'information de la commission des affaires économiques de l'Assemblée nationale sur le marché des communications électroniques du 6 février 2013, qui a estimé que les prix du marché français sont parmi les plus bas d'Europe. Cette appréciation est convergente avec une étude réalisée fin 2012 par un cabinet de conseil indépendant pour la fédération française des télécoms (FFT), selon laquelle les prix des services fixes et mobiles sur le marché français sont parmi les plus bas constatés dans les grands pays européens et aux États-Unis. Concernant les offres à bas prix non-illimitées pour les appels vocaux, il a été relevé sur le marché français une offre proposant un service « voix » pour 0,03 € la minute, avec messages textuels (SMS) illimités, soit un niveau de tarif nettement en deçà de la moyenne européenne. Le bon fonctionnement de la concurrence est nécessaire afin que les consommateurs continuent à bénéficier de tarifs attractifs. Aussi les pouvoirs publics demeurent vigilants quant au respect par les opérateurs des règles de concurrence, et ne manqueraient pas de prendre des mesures appropriées dans l'hypothèse où d'éventuels manquements à ces règles seraient détectés.
