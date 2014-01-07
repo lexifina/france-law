@@ -1,0 +1,9 @@
+# Réponse à la question n° 43583
+
+- Question : [43583](43583.md) — Question n° 43583 — instances consultatives; maintien; pertinence
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Instituée par la loi en 1992, la commission nationale de la coopération décentralisée (CNCD) a pour mission de tenir un état de la coopération décentralisée et de formuler toute proposition de nature à renforcer celle-ci. Son activité ne s'est jamais démentie depuis. Bien qu'une seule séance plénéire ait eu lieu en 2012, de nombreuses activités, des « chantiers » et groupes de travail constitués sous l'égide de la CNCD, plusieurs publications, dont un guide « intercommunalités et coopération décentralisée », sont là pour témoigner de son utilité, comme d'ailleurs la tenue de deux réunions plénières en 2013, en présence de plusieurs ministres. La mise en place d'un comité économique et d'une commission permanente vont permettre à la CNCD de jouer encore davantage son rôle de mise en présence des associations d'élus et des administrations de l'Etat, assurant ainsi une cohérence accrue de l'action extérieure des collectivités territoriales avec les objectifs de notre diplomatie dans plus de 140 pays, et cela dans le respect du principe de libre administration qui est le trait caractéristique de notre système de décentralisation. En effet, loin d'envisager la suppression de cette instance paritaire de concertation et de pilotage, le Gouvernement a choisi de suivre les recommandations du rapport de M. André Laignel déposé en janvier 2013 après des auditions très approfondies des associations représentatives de collectivités territoriales, qui ont marqué leur attachement sans réserve à l'existence d'une telle commission, souhaitant qu'elle puisse couvrir l'ensemble des secteurs de l'action extérieure des collectivités territoriales et de leurs groupements, notion que retient le projet de loi d'orientation et de programmation sur le développement.
