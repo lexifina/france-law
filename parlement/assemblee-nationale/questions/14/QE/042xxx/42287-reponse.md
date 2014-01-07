@@ -1,0 +1,9 @@
+# Réponse à la question n° 42287
+
+- Question : [42287](42287.md) — Question n° 42287 — exercice 2014; dépenses; réduction
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Le budget 2014 du ministère de l'agriculture, de l'agroalimentaire et de la forêt (MAAF) s'inscrit dans le cadre budgétaire global défini par le Premier ministre en début d'année 2013, dans un contexte de redressement des comptes publics nécessitant un effort partagé. Il conjugue l'ambition d'une politique agricole forte et l'exigence de la maîtrise des finances publiques. La contribution du MAAF au redressement du pays dans la justice se traduit en effet par une baisse du budget total, à périmètre constant, de 2,6 % en crédits de paiements (CP) par rapport à 2013. Hors charge des retraites, cette baisse est, à périmètre constant, de 3,2 % en CP en 2014 par rapport aux crédits votés en 2013. De manière concrète, des économies sont notamment prévues grâce au transfert du financement de la prime nationale supplémentaire à la vache allaitante sur le budget communautaire, grâce à l'augmentation des taux de cofinancement de l'Union européenne sur les dispositifs de dotations aux jeunes agriculteurs ainsi que sur l'indemnité compensatoire au titre des handicaps naturels, suite aux bons résultats des négociations sur les perspectives financières de l'Union européenne et la nouvelle PAC mais aussi dans le domaine de la gestion des maladies animales et la protection des animaux. Des efforts importants sont également réalisés sur les budgets de fonctionnement, tant celui du ministère (en baisse de 5,8 %) que ceux des opérateurs sous tutelle. Malgré le contexte budgétaire contraint, le ministre chargé de l'agriculture s'attache à ce que l'intérêt des agriculteurs, des filières agroalimentaires et des citoyens reste au coeur de l'action publique portée par le ministère dont il a la charge.
