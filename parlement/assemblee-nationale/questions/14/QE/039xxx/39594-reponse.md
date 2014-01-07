@@ -1,0 +1,9 @@
+# Réponse à la question n° 39594
+
+- Question : [39594](39594.md) — Question n° 39594 — situation politique
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Ce problème concerne aussi bien les entreprises françaises, dont les transactions vers ou depuis l'Iran sont difficiles même lorsqu'elles présentent toutes les garanties de transparence, que les particuliers dans leurs opérations bancaires courantes, qu'ils soient Français non résidents ou Franco-Iraniens. Cette situation est d'autant plus regrettable que le code monétaire et financier, dans son article L312-1, a été amendé en mai 2011 pour donner aux Français résidant hors de France les mêmes droits à l'ouverture d'un compte bancaire que les personnes domiciliées en France. Le code monétaire et financier, dans sa partie réglementaire, détaille en outre les services bancaires découlant du droit au compte, qui ne peuvent être restreints en deçà de ce que prévoit explicitement la réglementation. L'origine du problème n'est donc pas juridique. C'est de l'application effective du droit qu'il s'agit. Il apparaît que certains établissements bancaires appliquent, outre les décisions de sanction décidées par le conseil de l'Union européenne (et qui par exemple ne prévoient pas de notification pour des transferts individuels de moins de 10.000 €), des décisions prises par d'autres pays, ou l'interprétation de ces décisions, et des positions prises par d'autres entités économiques (actionnaires étrangers d'entreprises françaises par exemple). En l'état du droit, la solution passe d'abord par une demande des particuliers à faire appliquer les conventions de compte qui les lient à leur banque, et au besoin à saisir les services centraux de leur banque pour faire appliquer ces contrats et le droit au compte bancaire. Il apparaît également utile de saisir la fédération bancaire française, en rappelant si besoin que les banques ont à l'égard de leurs clients des obligations contractuelles et réglementaires.
