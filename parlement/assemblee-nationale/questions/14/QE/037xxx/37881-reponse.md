@@ -1,0 +1,9 @@
+# Réponse à la question n° 37881
+
+- Question : [37881](37881.md) — Question n° 37881 — conseillers pédagogiques de circonscription
+
+## Réponse
+
+*JO du 2014-01-07*
+
+L'indemnité de suivi et d'accompagnement des élèves a été instituée par le décret n° 2013-790 du 30 août 2013. Elle est allouée aux personnels enseignants du premier degré exerçant dans les écoles maternelles ou élémentaires. Son taux annuel est fixé à 400 euros. L'article 2 du décret dispose que l'attribution de l'indemnité est liée à l'exercice effectif des fonctions enseignantes et de direction y ouvrant droit en particulier au suivi individuel et à l'évaluation pédagogique des élèves. La note de service n° 96-107 du 18 avril 1996 définit les fonctions et missions actuelles du conseiller pédagogique de circonscription. Enseignants maîtres formateurs et nommés par le recteur auprès de l'inspecteur de l'éducation nationale, ils assurent, sous la responsabilité de ces derniers, des missions d'ordre essentiellement pédagogiques auprès des personnels enseignants du premier degré en leur apportant aide et conseil notamment lors de leur entrée dans le métier. Le conseiller pédagogique ne remplit donc pas les conditions fixées par le décret du 30 août 2013 pour bénéficier de l'indemnité de suivi et d'accompagnement des élèves. Le conseiller pédagogique bénéficie, aux termes de ses missions, d'une nouvelle bonification indiciaire de 27 points soit 1500 euros par an. Dans le cadre des réflexions actuellement menées sur l'évolution du métier d'enseignant, un groupe de travail est spécialement consacré aux conseillers pédagogiques. Il réexaminera notamment le positionnement et les missions des conseillers pédagogiques de circonscription, les modalités de reconnaissance de leur investissement au plan financier et les perspectives de carrière qui leur sont ouvertes.
