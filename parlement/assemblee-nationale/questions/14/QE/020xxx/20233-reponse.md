@@ -1,0 +1,9 @@
+# Réponse à la question n° 20233
+
+- Question : [20233](20233.md) — Question n° 20233 — agents non titulaires étrangers; titularisation; modalités
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Le Gouvernement a entendu restaurer le sens de l'accès à la nationalité française par décision de l'autorité publique, tant comme aboutissement d'un parcours d'intégration réussi que comme facteur de renforcement pour la Nation. A législation et réglementation constantes, la circulaire INTK1207286C du 16 octobre 2012, complétée par la circulaire INTK1300298C du 21 juin 2013, a ajusté les critères d'examen des demandes d'acquisition de la nationalité française à la réalité de certaines évolutions sociales, collectives et individuelles. Ainsi, s'agissant de l'insertion professionnelle, qui constitue un facteur essentiel de l'intégration du demandeur à la communauté nationale, autant que le succès de ses démarches, sont vérifiées la cohérence et la persévérance qu'il manifeste sur ce point au regard de l'ensemble de son parcours. La volonté du postulant de s'insérer professionnellement sera dès lors établie sans difficulté s'il justifie, par exemple, de contrats à durée déterminée signés avec une collectivité territoriale, sans qu'il soit nécessaire que celle-ci établisse une promesse d'embauche de longue durée, voire un engagement de titularisation, en cas de naturalisation de l'intéressé. Ceci rappelé, il pourra néanmoins être utile qu'un postulant à la nationalité française fasse parvenir aux services préfectoraux chargés de l'instruction de sa demande une éventuelle promesse d'embauche venant ainsi conforter une insertion professionnelle déjà en bonne voie de réalisation. Si cette promesse d'embauche permet d'étayer les autres éléments attestant de la dynamique du parcours professionnel du demandeur, elle ne saurait toutefois préjuger en elle-même de l'appréciation de l'autorité préfectorale quant à l'insertion professionnelle d'un postulant à la naturalisation.
