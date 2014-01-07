@@ -1,0 +1,9 @@
+# Réponse à la question n° 34195
+
+- Question : [34195](34195.md) — Question n° 34195 — réglementation; perspectives
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Les affectations des lauréats des concours enseignants font chaque année l'objet d'un examen attentif, afin d'accompagner au mieux la prise de fonctions des futurs enseignants stagiaires. Dans ce cadre, les affectations sont prononcées au regard des capacités d'accueil définies au sein de chaque académie, les demandes étant classées en fonction d'éléments de barème, toutefois indicatif, servant à départager les candidats et à répartir nationalement la ressource enseignante. Conformément aux dispositions de l'article 60 du titre II du statut général des fonctionnaires, une bonification est allouée au titre du rapprochement de conjoints, afin de permettre aux lauréats de se rapprocher de leur conjoint fixé professionnellement dans un département ; la bonification est conditionnée à la demande en premier voeu de l'académie de résidence professionnelle du conjoint. A la rentrée 2013 a été créée une bonification dite de rapprochement de la résidence de l'enfant (situation des lauréats célibataires avec enfants, séparés ou divorcés) pour faciliter l'alternance de résidence, l'exercice du droit de visite ou l'amélioration des conditions de vie de l'enfant. La prise en compte des enfants intervient donc soit dans le cadre du rapprochement de conjoints, soit dans le cadre du rapprochement de la résidence de l'enfant : en effet c'est la situation familiale ou sociale qui est ici regardée et qui confère une bonification. Le ministre de l'éducation nationale souligne que, dans la plupart des cas, les lauréats sont mutés dans leurs voeux. Cependant chaque demande de révision fait l'objet d'un examen individualisé et bienveillant, à l'issue duquel les futurs fonctionnaires stagiaires reçoivent une réponse personnalisée et adaptée aux possibilités existant dans les académies sollicitées.
