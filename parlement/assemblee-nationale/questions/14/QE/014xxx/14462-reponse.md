@@ -1,0 +1,9 @@
+# Réponse à la question n° 14462
+
+- Question : [14462](14462.md) — Question n° 14462 — baux d'habitation; résiliation; obligations du locataire
+
+## Réponse
+
+*JO du 2014-01-07*
+
+En vertu de l'article 1686 du code général des impôts (CGI), les propriétaires peuvent être tenus d'acquitter la taxe d'habitation due par les locataires qui ont déménagé. Cette solidarité s'inscrit dans les prescriptions de l'article 1408 du CGI, qui définit comme personne imposable à la taxe d'habitation toute personne qui, à quelque titre que ce soit, a la disposition ou la jouissance des locaux imposables. Si le propriétaire n'a pas la jouissance effective du local, il en dispose en vertu de son droit de propriété. Néanmoins, le régime de responsabilité introduit par l'article 1686 du CGI n'est pas absolu et se trouve limité en pratique à des cas précis de risques avérés pour le Trésor public de ne pas recouvrer. En outre, le propriétaire peut solliciter une décharge gracieuse de responsabilité fiscale s'il a été victime de circonstances imprévisibles ou bénéficier d'une exonération en apportant la preuve de sa bonne foi (sur ce point : réponse ministérielle publiée au Journal officiel du 7 juin 2005, page 5858, à la question n° 57572). Par ailleurs, le propriétaire peut se prémunir de ce risque en tenant compte de cette responsabilité fiscale dans le cadre du cautionnement exigé du locataire, dans la limite des prescriptions légales édictées en matière de cautionnement locatif. En outre, il est admis que la responsabilité du loueur en meublé ne peut être engagée lorsque la taxe d'habitation est mise en recouvrement après le départ du locataire (BOFiP BOI-REC-SOLID-20-40-20120912, paragraphe 130). Cette tolérance administrative est de nature à préserver la responsabilité des propriétaires dans le cadre des locations meublées consenties aux étudiants en application du second alinéa de l'article L. 632-1 du code de la construction et de l'habitation.
