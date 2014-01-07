@@ -1,0 +1,9 @@
+# Réponse à la question n° 40095
+
+- Question : [40095](40095.md) — Question n° 40095 — loyers; ressources; plafonds
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Depuis le 12 septembre 2012, la direction générale des finances publiques (DGFiP) met en oeuvre de nouvelles modalités de diffusion des commentaires administratifs des dispositions fiscales. Depuis cette date, l'administration met à la disposition des usagers une base documentaire, accessible en ligne sur internet, sur le site impots. gouv. fr, regroupant la totalité des commentaires administratifs des dispositions fiscales en vigueur. Cette base, dénommée « Bulletin officiel des finances publiques - Impôts (BOFIP) », se substitue au « Bulletin officiel des impôts ». Les nouveaux commentaires ne sont donc plus diffusés sous forme d'instructions autonomes mais sont directement intégrés dans la base consolidée. En ce qui concerne l'actualisation annuelle au titre de l'année 2013 des plafonds de loyer et de ressources des locataires pour les différents dispositifs d'incitation fiscale à l'investissement immobilier locatif, celle-ci a été effectuée le 20 février 2013 par une publication au Bulletin officiel des finances publiques - Impôts. Plus précisément, s'agissant du dispositif « Scellier », prévu à l'article 199 septvicies du code général des impôts, l'actualisation des plafonds de loyer et de ressources applicables pour l'année 2013 a été intégrée le 20 février 2013 aux BOI-IR-RICI-230-20-20130220 et BOI-IR-RICI-230-40-10-20130220 publiés au BOFIP. Pour sa part, l'actualisation des plafonds applicables pour les baux conclus en 2014 dans le cadre du dispositif « Scellier » sera publiée au BOFIP en début d'année 2014, cette publication étant signalée aux usagers par une fiche d'actualité. Ces précisions sont de nature à répondre aux interrogations de l'auteur de la question.
