@@ -1,0 +1,9 @@
+# Réponse à la question n° 41736
+
+- Question : [41736](41736.md) — Question n° 41736 — terroristes; nationalité française; déchéance
+
+## Réponse
+
+*JO du 2014-01-07*
+
+La participation de citoyens français ou de résidants sur le territoire français à des actions violentes à l'étranger, dans le cadre de mouvements terroristes, fait l'objet d'une vigilance particulière de l'ensemble des membres de la communauté française de la lutte anti-terroriste, notamment des juridictions. Ces dernières disposent aujourd'hui d'un arsenal juridique complet, renforcé en dernier lieu par la loi du 21 décembre 2012 qui a étendu l'application de la loi pénale française aux actes de terrorisme de nature délictuelle commis à l'étranger, dès lors qu'ils l'ont été par des ressortissants français ou des personnes résidant habituellement sur notre sol. L'article 113-13 du code pénal créé par cette loi permet désormais de poursuivre et de condamner ces personnes lorsqu'elles se rendent à l'étranger pour commettre des faits de nature terroriste, notamment pour participer à des luttes armées ou à des camps d'entraînement terroristes, alors même qu'aucun acte n'a été commis sur le territoire français. Cette nouvelle disposition est d'ores-et-déjà régulièrement utilisée par la section anti-terroriste du parquet de Paris pour ouvrir et mener des enquêtes judiciaires sur le fondement de l'association de malfaiteurs à des fins terroristes prévue par l'article 421-2-1 du code pénal, notamment à l'égard de Français à leur retour de Syrie. L'appréciation de la nature humanitaire ou terroriste des motivations ayant conduit un ressortissant français à séjourner en Syrie relève de l'appréciation souveraine par les juridictions des éléments de preuve recueillis au cours de l'enquête. Dans ce contexte, aucune modification législative n'apparaît nécessaire ni souhaitable.
