@@ -1,0 +1,9 @@
+# Réponse à la question n° 34905
+
+- Question : [34905](34905.md) — Question n° 34905 — convention fiscale; travailleurs frontaliers; imposition
+
+## Réponse
+
+*JO du 2014-01-07*
+
+La France est liée par un accord avec la Suisse depuis le 11 avril 1983 prévoyant les modalités d'imposition des rémunérations des travailleurs frontaliers. Il précise notamment que les rémunérations perçues par les travailleurs frontaliers sont imposables dans l'État dans lequel ils sont résidents, et non dans l'État dans celui où ils exercent leur activité. Par ailleurs l'article 3 dudit accord définit le travailleur frontalier franco-suisse comme « toute personne résidente d'un État qui exerce une activité salariée dans l'autre État chez un employeur établi dans cet autre État et qui retourne, en règle générale, chaque jour dans l'État dont elle est le résident » sans préciser de condition relative au temps de trajet. Conscients des pratiques rapportées par l'auteur de la question, dès 2012, les services ont pris contact avec l'administration fédérale des contributions suisse afin de la sensibiliser aux difficultés rencontrées par les résidents français du fait de sa nouvelle interprétation du régime frontalier prévu par l'accord de 1983. Des discussions avec les autorités compétentes suisses sont actuellement en cours afin de préciser les modalités d'application de cet accord. Dans l'attente du règlement de ce dossier par les autorités compétentes des deux pays et dans les cas où le canton de Vaud opposerait la prescription du délai de réclamation aux demandes de résidents de France, ces derniers sont invités à solliciter auprès de l'administration fiscale l'ouverture d'une procédure amiable entre autorités compétentes françaises et suisses, afin que celles-ci soient mises en mesure de se rapprocher pour régler les cas individuels de doubles impositions pouvant résulter de cette situation.
