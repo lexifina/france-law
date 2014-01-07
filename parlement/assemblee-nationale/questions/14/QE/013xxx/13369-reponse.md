@@ -1,0 +1,9 @@
+# Réponse à la question n° 13369
+
+- Question : [13369](13369.md) — Question n° 13369 — suspension; absentéisme scolaire; rapport; publication
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Le ministre de l'éducation nationale a saisi le 14 juin 2012 le doyen de l'inspection générale de l'éducation nationale aux fins d'évaluer l'impact de la loi n° 2010-1127 du 28 septembre 2010 visant à lutter contre l'absentéisme scolaire. C'est dans le cadre de la préparation de la loi d'orientation et de programmation pour la refondation de l'école de la République et dans un délai restreint que, suite aux enquêtes qu'elle a conduites sur le terrain pour mesurer l'impact de la loi du 28 septembre 2010 précitée, l'inspection générale a fait connaître ses préconisations au ministre. Cette étude n'a pas été formalisée sous la forme d'un rapport et n'a donc pas fait l'objet d'une publication. L'Ecole doit trouver des solutions adaptées et mesurées pour lutter contre l'absentéisme scolaire, dans le cadre des nouvelles conditions fixées par la loi n° 2013-108 du 31 janvier 2013 abrogeant les dispositions législatives relatives à la suspension des allocations familiales et au contrat de responsabilité parentale. Pour ce faire, l'accent devra être mis sur l'accompagnement des familles. Il s'agit d'améliorer le dialogue entre les parents d'élèves et l'ensemble de la communauté éducative, dans une approche de coéducation, et de renforcer la réactivité de tous les services dans la mise en oeuvre des mesures de soutien aux parents ainsi que des mesures éducatives et pédagogiques. En cas de persistance du défaut d'assiduité, un personnel d'éducation référent sera désigné par le directeur d'école ou le chef d'établissement pour suivre les mesures mises en oeuvre au sein de l'établissement d'enseignement au bénéfice de l'élève concerné.
