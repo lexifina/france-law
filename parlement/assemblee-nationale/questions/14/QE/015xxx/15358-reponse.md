@@ -1,0 +1,9 @@
+# Réponse à la question n° 15358
+
+- Question : [15358](15358.md) — Question n° 15358 — rapport; propositions
+
+## Réponse
+
+*JO du 2014-01-07*
+
+De nombreux dispositifs existent en faveur du développement de la participation citoyenne. La loi d'orientation pour l'aménagement et le développement durable du territoire du 25 juin 1999 organise ainsi dans son article 26 le principe d'un partenariat entre élus, représentants des milieux économiques, sociaux, culturels et associatifs en rendant obligatoire la création d'un conseil de développement, organisé librement, au sein de chaque agglomération. Cette assemblée participative peut être consultée « pour toute question relative à l'agglomération, notamment sur l'aménagement et le développement de celle-ci ». En outre, la loi du 27 février 2002 relative à la démocratie de proximité, et dont les dispositions sont codifiées à l'article L. 2143-1 du code général des collectivités territoriales, rend obligatoire la création de conseils de quartier dans les communes de plus de 80 000 habitants. Ces conseils peuvent être associés par le maire à l'élaboration et la mise en oeuvre des actions intéressant le quartier. Enfin, le référendum décisionnel local, qui s'ajoute aux consultations communales plus anciennes, a été créé par la révision constitutionnelle du 23 mars 2003, et ses modalités ont été précisées par la loi organique du 1er août 2003. Cette réforme importante consacre, en outre, le droit de pétition accordé aux électeurs d'une collectivité locale pour demander l'inscription à l'ordre du jour de l'assemblée délibérante d'une question relevant de sa compétence. La loi prévoit ainsi divers instruments en faveur de la participation citoyenne, ne rendant pas à ce stade nécessaire l'obligation d'adoption d'une charte spécifique par les collectivités territoriales.
