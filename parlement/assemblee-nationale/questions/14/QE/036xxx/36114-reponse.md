@@ -1,0 +1,9 @@
+# Réponse à la question n° 36114
+
+- Question : [36114](36114.md) — Question n° 36114 — refondation de l'école; prise en compte
+
+## Réponse
+
+*JO du 2014-01-07*
+
+La loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République accorde une place particulièrement centrale, dans nombre de ses articles, non seulement à l'élève mais aussi à l'enfant. Cette attention doit être remarquée car elle ne figurait pas en tant que telle dans la précédente loi. C'est ainsi que l'article L. 111-1 du code de l'éducation qui affirme les principes de l'éducation a été modifié pour ajouter que « tous les enfants partagent la capacité d'apprendre et de progresser » et que « l'inclusion scolaire » concerne tous les enfants « sans aucune distinction ». De même, l'article L. 321-2 est complété de la manière suivante : « la formation dispensée dans les classes enfantines et les écoles maternelles favorise l'éveil de la personnalité des enfants [...] » ; cette formation « est adaptée aux besoins des élèves en situation de handicap pour permettre leur scolarisation ». La notion de protection est également réaffirmée dans les modifications apportées aux articles L. 541-1 et L. 121-4 qui concernent le suivi de la santé des élèves et l'éducation à la santé. La loi du 8 juillet 2013 rappelle donc bien de manière très précise les principes et les actions qui président à la convention internationale relative aux droits de l'enfant notamment l'accès à l'éducation, à la protection, à la non discrimination, à la santé, etc. Enfin, la coordination des politiques éducatives, familiales, sociales et de santé en faveur des enfants et des adolescents est organisée au sein d'instances interministérielles qui se réunissent régulièrement selon les problématiques à traiter.
