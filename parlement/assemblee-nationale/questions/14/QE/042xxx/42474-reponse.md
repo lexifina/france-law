@@ -1,0 +1,9 @@
+# Réponse à la question n° 42474
+
+- Question : [42474](42474.md) — Question n° 42474 — emploi et activité; plan de départs volontaires; impacts
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Aéroports de Paris (ADP) a annoncé la mise en oeuvre d'un plan de départs volontaires qui concernerait un maximum de 370 postes à l'horizon du printemps 2014. L'objectif poursuivi d'amélioration de l'équilibre d'exploitation d'ADP se traduit par cette phase de maitrise de sa masse salariale pour la période 2011-2015 couverte par le deuxième contrat de régulation économique (CRE 2) conclu avec l'État. ADP avait envisagé une réduction de ses effectifs de 10 % sur 2010-2015. Toutefois, compte tenu des derniers résultats, la réduction envisagée est désormais de 7 %. L'amélioration de l'équilibre d'exploitation aura pour conséquence à terme d'offrir aux compagnies aériennes un service d'exploitation plus performant permettant un allègement des charges de ces compagnies. Le Gouvernement est très attaché au fait que cette évolution ne soit pas une politique de réduction massive d'effectifs mais bien une stratégie de long terme qui permettra de maintenir la dynamique des aéroports parisiens et de leurs effets positifs en termes économique et social pour les territoires voisins. Ainsi, ADP a annoncé en parallèle un plan pluriannuel de recrutement dans les filières accueil (120 collaborateurs) et les métiers techniques et de maintenance (60 collaborateurs). Ce plan doit contribuer à soutenir les efforts actuels de l'exploitant pour améliorer sa qualité de service, autre élément central du CRE 2011-2015, et de première importance pour l'image des aéroports franciliens. Le Gouvernement reste attentif à ce que la combinaison de ces deux actions ait pour résultat de renforcer l'attractivité et la compétitivité d'Aéroports de Paris qui est un enjeu majeur pour les compagnies aériennes et les bassins d'emplois concernés.
