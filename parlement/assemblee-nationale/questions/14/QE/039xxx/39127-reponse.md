@@ -1,0 +1,9 @@
+# Réponse à la question n° 39127
+
+- Question : [39127](39127.md) — Question n° 39127 — bonus-malus; barème
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Le développement des véhicules décarbonés est une priorité du Gouvernement et le dispositif de bonus-malus automobile est un outil efficace d'amélioration de la performance environnementale de la filière automobile, comme le montre la baisse significative des émissions moyennes de CO2 des véhicules neufs depuis sa mise en oeuvre. La prolongation de ce dispositif a été confirmée pour l'année 2014, assortie d'une adaptation des barèmes de bonus et de malus. Outre la nécessité d'adapter régulièrement ces barèmes aux évolutions du marché, le Gouvernement a entendu garantir l'équilibrage budgétaire du dispositif. En effet, en l'absence de modification, les estimations pour 2014 laissaient craindre un déficit de 340 M€. Les recettes de malus sont en augmentation de 90 M€ via une revalorisation des tranches et un abaissement du seuil d'entrée applicables au 1er janvier 2014. Le nouveau barème de bonus, applicable au 1er novembre 2013, diminue les dépenses prévisionnelles de 250 M€ grâce à un recentrage sur les véhicules présentant les meilleures performances environnementales. Les bonus accordés aux véhicules thermiques ont été diminués de 72 % pour les véhicules émettant de 61 à 90 g de CO2/km et supprimés au-delà. Le Gouvernement a néanmoins entendu conserver un bonus d'un montant significatif en faveur des véhicules électriques, l'aide correspondant à 27 % du coût d'acquisition du véhicule (contre 30 % selon l'ancien barème), soit un montant maximum de 6 300 €. Au-delà du bonus-malus automobile, la priorité accordée par le Gouvernement à la mobilité électrique se matérialise par le soutien à l'innovation dans le cadre des investissements d'avenir et le développement des infrastructures de recharge.
