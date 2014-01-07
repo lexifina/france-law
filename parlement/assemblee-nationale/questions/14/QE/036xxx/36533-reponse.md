@@ -1,0 +1,9 @@
+# Réponse à la question n° 36533
+
+- Question : [36533](36533.md) — Question n° 36533 — contrats aidés; formations; financement
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Les dispositifs de contrats aidés poursuivent un objectif de qualification. A ce titre, une formation facilitant leur insertion professionnelle vers un emploi durable à l'issue du contrat sera proposée à l'ensemble des bénéficiaires. La mise en place d'actions de formation répond également à une amélioration de la qualité du service rendu par ces emplois, notamment dans le cadre de l'accompagnement des élèves en situation de handicap. Les besoins de formation ont été évalués à 80 heures pour l'ensemble des personnels au titre de l'adaptation à l'emploi et de l'insertion professionnelle. S'agissant des personnels chargés de l'accompagnement des enfants porteurs de handicap, le besoin de formation a été évalué à 220 heures dont 120 heures pour l'adaptation à l'emploi et 100 heures visant l'insertion professionnelle. En matière de formation, la circulaire du 19 juin 2013 du ministère de l'éducation nationale, adressée aux recteurs d'académie, rappelle notamment les obligations des employeurs à l'égard des bénéficiaires de ces contrats d'EVS. L'obligation de formalisation des actions de formation dans la demande d'aide est désormais rappelée systématiquement par Pôle emploi aux employeurs. Cette circulaire détaille également les dispositions prises pour la formalisation des actions de formation : - la désignation d'un tuteur préalablement à la signature de la demande d'aide ; - l'inscription d'actions de formation professionnelle et de validation des acquis de l'expérience dans la demande d'aide ; - la formalisation des actions de formation et de validation des acquis de l'expérience professionnelle ; - pendant l'exécution du contrat : la traçabilité des actions de formation et de validation des acquis de l'expérience professionnelle ; - l'attestation d'expérience professionnelle.
