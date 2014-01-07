@@ -1,0 +1,9 @@
+# Réponse à la question n° 33281
+
+- Question : [33281](33281.md) — Question n° 33281 — effectif de la profession
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Les résultats de la session normale pour 2013 confirment que certaines disciplines rencontrent, depuis quelques années déjà, des difficultés de recrutement. Le Gouvernement, sans attendre les résultats de cette session qui ont été connus en juin 2013, a pris des mesures concrètes visant à renverser cette tendance déflationniste et à redonner envie à des candidats de se présenter à des concours que le triple effet de l'allongement des études résultant de la mastérisation, de la réduction drastique des emplois, et de l'abandon de la formation initiale semblait rendre inaccessibles. La création de 18 000 emplois d'avenir professeur, dont 10 000 pour la seule année 2013, la création sur la durée du quinquennat de 54 000 emplois dans les premier et second degrés d'enseignement, l'instauration des écoles supérieures du professorat et de l'éducation (ESPE), l'organisation d'une session exceptionnelle de concours permettant d'assurer le recrutement sous contrat de personnels enseignants alternant formation et mise en situation, sont des illustrations concrètes de ce renversement de tendance qui ouvre de nouvelles perspectives à notre système éducatif. Les postes non pourvus aux concours ayant eu lieu en 2013, notamment dans les disciplines répérées depuis plusieurs années comme étant en difficulté de recrutement, ont bien évidemment été pris en compte par les concours de la session 2014 dont les registres d'inscription étaient ouverts du 10 septembre au 22 octobre 2013. De plus, la reconnaissance de l'investissement des enseignants au service du système éducatif s'appuie sur un ensemble de mesures prévues par le protocole du 30 mai 2013.
