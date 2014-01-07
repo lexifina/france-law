@@ -1,0 +1,9 @@
+# Réponse à la question n° 31459
+
+- Question : [31459](31459.md) — Question n° 31459 — garantie légale; durée
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Le projet de loi relatif à la consommation, actuellement en discussion au Parlement, ne prévoit pas d'allonger la durée de la garantie légale de conformité (GLC) des biens de consommation fixée à deux ans, à compter de la délivrance du bien, par l'article L. 211-12 du code de la consommation. Par contre, son article 7 fait passer de six mois à un an, à compter de la délivrance du bien, la période durant laquelle le défaut est présumé exister. Cette présomption d'antériorité du défaut de conformité permet une prise en charge quasi-automatique des produits par le professionnel au titre de la garantie légale, en opérant un renversement de la charge de la preuve pendant toute la durée de la présomption à compter de la délivrance du bien. Ainsi, lorsqu'un bien n'est pas conforme au contrat au sens de l'article L. 211-5 du code de la consommation, cette extension de la période durant laquelle une présomption d'antériorité des défauts est établie a pour effet de dispenser le consommateur d'avoir à rapporter la preuve de l'existence d'un défaut de conformité pendant les douze mois suivant la délivrance du bien, alors qu'aujourd'hui ce délai n'est que de six mois. Il s'agit donc là, d'ores et déjà, d'une amélioration substantielle pour la mise en oeuvre effective des droits des consommateurs au titre de la garantie légale de conformité. Par ailleurs, la discussion parlementaire a enrichi ce point puisque le Sénat a porté cette présomption d'antériorité du défaut à 24 mois, soit un alignement de cette dernière sur la durée de la GLC. Cette modification représente une avancée substantielle dans la protection des consommateurs qui demande à être confirmée dans la suite de la discussion du projet de loi devant le Parlement.
