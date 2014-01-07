@@ -1,0 +1,9 @@
+# Réponse à la question n° 36848
+
+- Question : [36848](36848.md) — Question n° 36848 — organisation territoriale; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Les services déconcentrés de la direction générale des douanes et droits indirects (DGDDI) sont organisés en 12 directions interrégionales elles-mêmes composées de 46 directions régionales, dont 4 garde-côtes, selon un schéma défini par le décret n° 2007-1665 du 26 novembre 2007. Dans une large proportion, le découpage géographique des directions régionales emprunte celui des régions de droit commun (Auvergne, Basse-Normandie, Bretagne, Centre, Corse, Midi-Pyrénées, Picardie, ...). Une quinzaine de circonscriptions douanières échappe cependant à cette logique afin d'apporter une réponse douanière adaptée à des spécificités locales d'ordre économique (sites portuaires et aéroportuaires d'importance internationale comme ceux du Havre, de Marseille, d'Orly et de Roissy), stratégique (tunnel sous la Manche rattaché à la direction de Dunkerque), fonctionnel (directions garde-côtes) ou géographique (directions frontalières de Bayonne, de Chambéry, du Léman, de Nice, de Perpignan...). Il convient également d'ajouter le cas particulier de la région parisienne qui, compte tenu de son potentiel économique et démographique, est organisée en directions spécifiques (Paris-Est et Paris-Ouest). Ce dispositif fait actuellement l'objet, au sein de la DGDDI, d'une réflexion qui participe de la démarche engagée, à la demande du ministre de l'économie et des finances, de la ministre du commerce extérieur et du ministre délégué chargé du budget, d'élaboration d'un projet stratégique à horizon 2018. L'organisation territoriale des services douaniers continuera à tenir compte des spécificités des missions douanières, de l'analyse des besoins des usagers et des contraintes budgétaires. Elle pourra évoluer au cours des années à venir.
