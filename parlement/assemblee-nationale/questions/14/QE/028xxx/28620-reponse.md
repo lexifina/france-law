@@ -1,0 +1,9 @@
+# Réponse à la question n° 28620
+
+- Question : [28620](28620.md) — Question n° 28620 — habitudes alimentaires; éducation
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Depuis de nombreuses années, le ministère de l'éducation nationale participe à la prévention et à la promotion de la santé en assurant aux élèves, tout au long de leur scolarité une éducation à la santé, en articulation avec les enseignements, adaptée à la fois à leurs attentes et à leurs besoins ainsi qu'aux enjeux de santé publique. Cette politique de santé en faveur des élèves accorde une place importante à l'éducation nutritionnelle. Sa mise en place a nécessité un réel travail partenarial avec les différents départements ministériels concernés, notamment le ministère chargé de la santé au sein du Programme National Nutrition Santé (PNNS) et celui chargé de l'agriculture au sein du Programme National de l'Alimentation (PNA). Une formation à l'éducation sensorielle est proposée aux enseignants du premier degré depuis janvier 2011. Le projet développe « les classes du goût » et permet aux enseignants d'aborder l'éducation au goût à travers toutes les disciplines. Par ailleurs, le ministère de l'agriculture, de l'agroalimentaire et de la forêt et le ministère de l'éducation nationale ont souhaité s'associer pour proposer aux collectivités locales une action d'éducation alimentaire centrée sur l'accessibilité aux fruits et légumes. Cette éducation repose sur une distribution hebdomadaire de fruits dans le cadre scolaire accompagnée d'actions pédagogiques. Mise en place à titre expérimental en 2008 pour les enfants du primaire, l'opération « un fruit pour la récré » a été couronnée de succès. Elle a ensuite été pérennisée grâce au programme européen de distribution de fruits et légumes dans les écoles, voté le 18 décembre 2008 au Conseil de l'Union européenne puis étendue progressivement aux collèges et aux lycées.
