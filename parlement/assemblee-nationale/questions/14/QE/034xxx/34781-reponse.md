@@ -1,0 +1,9 @@
+# Réponse à la question n° 34781
+
+- Question : [34781](34781.md) — Question n° 34781 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2014-01-07*
+
+Ainsi que le prévoit l'article D. 511-59 du code de l'éducation, le Conseil national de la vie lycéenne peut être consulté par le ministre chargé de l'éducation nationale sur les questions relatives à la vie matérielle, sociale, culturelle et sportive et au travail scolaire dans les lycées publics et dans les établissements régionaux d'enseignement adapté. Il est tenu informé des grandes orientations de la politique éducative dans les lycées. Présidé par le ministre, il comprend trente trois membres, dont trente issus des comités académiques de la vie lycéenne et trois du Conseil supérieur de l'éducation. Il disposait au titre de l'année 2012 d'un budget de fonctionnement de 4500 euros. Aucun fonctionnaire n'est mis à disposition de cette instance dont l'organisation des deux réunions annuelles est confiée au délégué national à la vie lycéenne en sus de ses autres activités. Il a été reconduit pour cinq ans par le décret n° 2009-627 du 6 juin 2009 relatif à certaines commissions administratives à caractère consultatif relevant du ministère de l'éducation nationale. A l'issue d'un important travail d'analyse sur l'ensemble des instances consultatives rattachées au ministre de l'éducation nationale conduit par mon département ministériel, il a été conclu au maintien du Conseil national de la vie lycéenne, eu égard à son importance dans la relation avec la communauté éducative, et au rôle de premier plan qu'il devra jouer pour la mise en oeuvre de « l'Acte 2 de la vie lycéenne ». Il s'agit d'un projet conduit cette année scolaire visant à ouvrir de nouveaux moyens d'action aux lycéens. Le Conseil national de la vie lycéenne témoigne ainsi du processus démocratique de représentation des lycéens au sein de l'institution scolaire.
