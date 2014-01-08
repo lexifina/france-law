@@ -1,0 +1,73 @@
+# Travail : formation professionnelle, emploi et démocratie sociale
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N32397
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/formation_professionnelle_emploi_democratie_sociale
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-349.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-01-22 : 1er dépôt d'une initiative. (PRJLANR5L14B1721)
+  - 2014-01-22 : Etude d'impact (ETDIANR5L14B1721)
+  - 2014-01-22 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-01-22 : Renvoi en commission au fond
+      - 2014-01-08 : Nomination de rapporteur
+      - 2014-01-29 : Réunion de commission
+      - 2014-01-29 : Réunion de commission
+      - 2014-01-29 : Réunion de commission
+      - 2014-02-05 : Réunion de commission
+      - 2014-02-06 : Réunion de commission
+      - 2014-02-06 : Réunion de commission
+      - 2014-01-30 : Dépôt de rapport (RAPPANR5L14B1754, PRJLANR5L14BTC1754)
+    - Travaux d'une commission saisie pour avis
+      - 2014-01-22 : Saisine pour avis d'une commission
+      - 2014-01-15 : Nomination de rapporteur
+      - 2014-01-28 : Réunion de commission
+      - 2014-01-28 : Dépôt de rapport (AVISANR5L14B1733)
+  - Discussion en séance publique
+    - 2014-02-05 : Discussion en séance publique
+    - 2014-02-05 : Discussion en séance publique
+    - 2014-02-06 : Discussion en séance publique
+    - 2014-02-06 : Discussion en séance publique
+    - 2014-02-06 : Discussion en séance publique
+    - 2014-02-07 : Discussion en séance publique
+    - 2014-02-07 : Discussion en séance publique
+    - 2014-02-07 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-02-10 : Dépôt d'une initiative en navette (PRJLSNR5S219B0349)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-02-10 : Renvoi en commission au fond
+      - 2014-01-14 : Nomination de rapporteur
+      - 2014-02-12 : Dépôt de rapport (RAPPSNR5S219B0359)
+    - Travaux d'une commission saisie pour avis
+      - 2014-01-29 : Saisine pour avis d'une commission
+      - 2014-01-29 : Nomination de rapporteur
+      - 2014-02-11 : Dépôt de rapport (AVISSNR5S219B0350)
+  - Discussion en séance publique
+    - 2014-02-18 : Discussion en séance publique
+    - 2014-02-19 : Discussion en séance publique
+    - 2014-02-20 : Discussion en séance publique
+    - 2014-02-20 : Décision
+- Commission Mixte Paritaire
+  - 2014-02-21 : Dépôt d'un projet de loi (PRJLANR5L14B1811)
+  - 2014-02-21 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-02-24 : Nomination de rapporteur
+    - 2014-02-24 : Dépôt du rapport d'une CMP (RAPPANR5L14B1813)
+    - 2014-02-24 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0394)
+  - Discussion en séance publique
+    - 2014-02-26 : Discussion en séance publique
+    - 2014-02-26 : Décision
+  - Discussion en séance publique
+    - 2014-02-27 : Discussion en séance publique
+    - 2014-02-27 : Décision
+  - 2014-02-25 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-03-05 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2016-03-09 : Rapport sur l'application des lois (RINFANR5L14B3558)
