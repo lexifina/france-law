@@ -1,0 +1,35 @@
+# Réponse à la question SEQ13100604S
+
+- Question : [SEQ13100604S](seq13100604s.md) — Élèves en situation de handicap dans le réseau de l'enseignement français à l'étranger
+
+## Réponse
+
+*Français de l'étranger, JO du 2014-01-08, page 26*
+
+Mme Claudine Lepage. La loi du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République a apporté des avancées historiques pour les élèves en situation de handicap, puisqu'elle prévoit que le service public de l'éducation « veille à l'inclusion scolaire de tous les enfants, sans aucune distinction ». Les moyens mis en œuvre pour garantir cette inclusion sont considérables. Notre assemblée avait déjà montré, dans un rapport du mois de juillet 2012 évaluant l'application de la loi de 2005 sur le handicap, les avancées notables réalisées dans le domaine de l'éducation. La hausse de 3,4 % du budget consacré au handicap dans la loi de finances pour 2014 est également un signe fort d'une politique volontariste dans ce domaine. Je me félicite que la prise en change du handicap dans l'enseignement français à l'étranger ait également été améliorée. Pour la majorité des 2 159 élèves en situation de handicap scolarisés dans le réseau, les effets de cette scolarisation sont positifs, grâce aux nombreux dispositifs gérés par l'Agence pour l'enseignement français à l'étranger, l'AEFE ; je pense notamment au projet personnalisé de scolarisation, mis en place à la rentrée 2012. La circulaire du 27 décembre 2011 définit les modalités d'organisation des examens et concours pour les Français de l'étranger présentant un handicap, alors que la circulaire de 2006 n'évoquait que le territoire national. L'AEFE a également recruté à la rentrée 2012 une adjointe au chef du service pédagogique spécialiste du handicap, ainsi que davantage d'inspecteurs « adaptation scolaire et scolarisation des élèves handicapés ».
+
+Néanmoins, des problèmes subsistent. Par exemple, l'information des familles est imparfaite. L'aide à la prise en charge par un auxiliaire de vie scolaire, un AVS, est insuffisante, puisqu'elle ne concerne que les familles boursières. Les AVS sont recrutés et rémunérés par les familles. Leur formation et leur professionnalisation doivent être améliorées. L'absence de services de soins adaptés, notamment du point de vue de la langue, est une difficulté persistante, de même que le manque de personnels agréés pour élaborer des diagnostics médicaux permettant d'obtenir des aménagements d'examens. La formation des enseignants sur la question du handicap n'est pas assez poussée.
+
+Il est d'autant plus nécessaire de s'assurer qu'aucun enfant handicapé ne puisse être exclu de fait des établissements d'enseignement français à l'étranger qu'il n'existe parfois aucune alternative dans le système local. C'est pourquoi, madame la ministre, je vous remercie d'ores et déjà de m'indiquer quelles mesures le Gouvernement va encore mettre en œuvre afin de poursuivre dans la voie d'une meilleure prise en charge du handicap dans l'enseignement français à l'étranger.
+
+M. le président. La parole est à Mme la ministre déléguée.
+
+Mme Hélène Conway-Mouret, ministre déléguée auprès du ministre des affaires étrangères, chargée des Français de l'étranger. Madame Lepage, vous m'interrogez sur l'accompagnement des élèves en situation de handicap dans les établissements d'enseignement français à l'étranger. Je vous en remercie.
+
+Je souhaite tout d'abord vous assurer que je tiens à ce que ces enfants soient accueillis au sein de notre réseau dans les meilleures conditions possibles. C'est pourquoi le plan d'actions que nous avons élaboré en faveur de l'enseignement français à l'étranger précise clairement l'objectif de faire profiter pleinement nos jeunes compatriotes, comme leurs camarades étrangers, des dispositions relatives à l'inclusion, en particulier celles qui concernent l'accompagnement des élèves en difficulté ou en situation de handicap, de la loi d'orientation et de programmation pour la refondation de l'école de la République. Cette dimension faisait partie du plan d'orientation stratégique de l'AEFE ; elle sera renforcée dans le nouveau plan qui sera mis en place dans les prochains mois.
+
+Notre réseau est un réseau d'excellence, et non un réseau élitiste. Il doit continuer à œuvrer pour la réussite de tous les enfants. Au 16 décembre 2013, selon les données recueillies par l'AEFE auprès des 254 établissements du réseau, le nombre d'élèves en situation de handicap accueillis était un peu plus élevé que celui que vous avez cité, puisqu'il atteignait 3 048. Du fait de la dispersion des élèves concernés, il n'est pas possible de créer dans les établissements d'enseignement français à l'étranger des structures telles que les classes pour l'inclusion scolaire, les CLIS, pour le primaire, ou les unités localisées pour l'inclusion scolaire, les ULIS, pour le secondaire.
+
+Afin d'améliorer l'accueil de ces élèves, l'AEFE a mis en place, depuis la rentrée 2012, un document intitulé « projet personnalisé de scolarisation » dans tous les établissements du réseau. Il permet une harmonisation des pratiques et un meilleur suivi de l'élève en cas de changement d'établissement dans le réseau. En outre, ce document peut être utilisé en France par les maisons départementales des personnes handicapées.
+
+Une centaine d'AVS apportent leur concours aux élèves ; 76 % d'entre eux interviennent à temps partiel. Les familles françaises peuvent obtenir, sur critères sociaux, une aide au financement d'un AVS via le service de l'aide à la scolarité de l'AEFE. Par ailleurs, comme vous l'avez rappelé, l'Agence a recruté à la rentrée 2012 une adjointe au chef du service pédagogique spécialiste du handicap, qui anime notamment des stages de formation sur l'accueil des élèves à besoins éducatifs particuliers et des élèves souffrant de troubles des apprentissages, de dyslexie, par exemple.
+
+Enfin, pour répondre à vos inquiétudes au sujet de la formation, je vous annonce que dix-huit stages spécialisés de trois jours ont été prévus par les plans régionaux de formation pour l'année 2013-2014.
+
+M. le président. La parole est à Mme Claudine Lepage.
+
+Mme Claudine Lepage. Madame la ministre, je vous remercie de vos propos et des informations que vous m'avez données. S'agissant du manque d'information des familles, l'AEFE pourrait peut-être élaborer un vade-mecum destiné à la fois aux établissements et aux familles. Il me semble d'ailleurs qu'il en a été question lors du dernier conseil d'administration de l'AEFE.
+
+Le problème de la formation des AVS est particulièrement important. Comme je l'ai souligné, dans certains pays, ce sont les familles qui recrutent directement les AVS. Par conséquent, les AVS ne sont pas toujours des personnes formées à l'accompagnement des enfants en situation de handicap.
+
+Cependant, je suis bien consciente que les établissements situés à l'étranger ne peuvent pas offrir exactement les mêmes services que les établissements situés en France, et je sais que l'AEFE fait tout son possible depuis quelques années pour accueillir tous les enfants.
