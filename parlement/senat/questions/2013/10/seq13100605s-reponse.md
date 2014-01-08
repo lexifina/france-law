@@ -1,0 +1,45 @@
+# Réponse à la question SEQ13100605S
+
+- Question : [SEQ13100605S](seq13100605s.md) — Financement des maisons de l'emploi et de la formation
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2014-01-08, page 24*
+
+M. Jean-Marie Bockel. Monsieur le ministre, je souhaite attirer votre attention sur la situation actuelle et à venir des maisons de l'emploi et de la formation. Comme vous le savez, ces structures, créées en 2005, sont placées sous la responsabilité des collectivités territoriales et sont financées en grande partie par l'État. Elles développent, avec l'ensemble de leurs partenaires, publics et privés, des diagnostics et construisent des plans d'actions au plus près des attentes et des besoins du marché de l'emploi, du territoire sur lequel elles sont installées.
+
+Véritable outil territorial de proximité, à la fois réactif et adaptable, ces maisons de l'emploi sont vraiment au cœur des réalités locales et des mutations économiques territoriales. Lorsqu'elles fonctionnent pleinement - c'est le cas d'une majorité d'entre elles -, elles limitent la dégradation des situations rencontrées sur leur bassin d'emploi, en gérant territorialement les ressources humaines, en favorisant la mobilité tant géographique que professionnelle et en travaillant activement, en amont, à la réduction des freins à l'embauche.
+
+Dans un contexte de crise économique et de chômage persistant, ces maisons représentent, sans conteste, des acteurs primordiaux qui peuvent apporter une vraie valeur ajoutée aux politiques nationales en faveur de l'emploi. Elles ont déjà fait leurs preuves.
+
+Par ailleurs, alors que, depuis leur création, les crédits alloués à leur fonctionnement ont été réduits, elles ont su évoluer jour après jour, notamment en mettant en œuvre le deuxième cahier des charges publié en 2008, en s'adaptant constamment aux forces et faiblesses de leur territoire et en essayant d'optimiser leurs actions.
+
+Aujourd'hui, compte tenu des réductions drastiques de crédits confirmées par le Gouvernement - les autorisations d'engagement sont divisées par deux, puisqu'elles passent de 54 millions d'euros à 26 millions d'euros, ce qui représente tout de même une baisse considérable - et de l'incertitude concernant la programmation des fonds sociaux européens pour la période 2014-2020, les maisons de l'emploi sont inquiètes.
+
+Il est impensable de remettre en cause la continuité du travail de qualité qui a été entrepris jusqu'à maintenant, en particulier par les structures qui ont créé un véritable dialogue territorial avec les acteurs économiques et les branches professionnelles. Ces structures complètent les agences de Pôle Emploi sans leur faire concurrence ni créer de doublon ; les unes et les autres fonctionnent de manière très complémentaire. Il est donc important de soutenir et d'encourager les maisons de l'emploi, à travers un nouveau cahier des charges qui ne restreigne pas de façon excessive leur champ d'intervention.
+
+Outre la mise en place annoncée d'une enveloppe supplémentaire de 10 millions d'euros destinée à des projets relatifs à la gestion prévisionnelle de l'emploi et des compétences, la GPEC, territoriale, je souhaite connaître les mesures précises que le Gouvernement envisage afin de maintenir le niveau de financement de ces organismes - il s'agit de leur permettre de perdurer, de ne pas disparaître - et de prendre en compte la situation spécifique de chaque maison de l'emploi pour que toutes puissent pleinement participer, au-delà de l'année prochaine, à la rénovation du service public de l'emploi et à la réussite des politiques de l'emploi de demain.
+
+M. le président. La parole est à M. le ministre délégué.
+
+M. Frédéric Cuvillier, ministre délégué auprès du ministre de l'écologie, du développement durable et de l'énergie, chargé des transports, de la mer et de la pêche. Monsieur le sénateur, vous avez bien voulu attirer l'attention de mon collègue Michel Sapin, dont je vous prie d'excuser l'absence, sur le financement des maisons de l'emploi.
+
+La priorité donnée par le Gouvernement à l'emploi et à la lutte contre le chômage est confirmée par la croissance des crédits qui y sont consacrés : ceux-ci augmentent d'environ 7 % par rapport à 2013. Toutefois, cette priorité ne nous exonère pas d'un questionnement sur le périmètre d'intervention de l'État. La loi de finances pour 2014 prévoit ainsi une diminution des crédits affectés aux maisons de l'emploi et confirme le recentrage des missions financées par l'État, que le ministre du travail, de l'emploi, de la formation professionnelle et du dialogue social a souhaité mettre en œuvre à partir de 2014.
+
+L'ensemble des rapports récents soulignent en effet le manque de clarté des missions confiées aux maisons de l'emploi, qui apparaissent très hétérogènes selon les implantations. Le rôle de ces structures doit être clarifié. Comme Michel Sapin l'a expliqué, la diminution par deux des crédits - les autorisations d'engagement passent de 54 millions d'euros en 2013 à 26 millions d'euros en 2014 - ne signifie pas une diminution uniforme pour toutes les maisons de l'emploi.
+
+La principale plus-value apportée par ces dernières aux acteurs du service public de l'emploi, aux partenaires sociaux et aux collectivités, est la GPEC à l'échelon territorial. Les parlementaires ont donc souhaité, avec l'accord du Gouvernement, compléter les crédits affectés aux maisons de l'emploi par une enveloppe supplémentaire de 10 millions d'euros destinée à des projets relatifs à la GPEC territoriale élaborés par les maisons de l'emploi dans chaque région.
+
+Dès 2014, les maisons de l'emploi devront par conséquent concentrer leur activité subventionnée par l'État sur des actions ciblées, en veillant à leur qualité et à l'absence de concurrence avec d'autres acteurs intervenant sur le même territoire. Les actions ciblées relèveront des champs suivants : la participation à l'anticipation et à l'accompagnement des mutations économiques et la contribution au développement de l'emploi local. Cette évolution de l'activité des maisons de l'emploi se traduira par une révision de l'arrêté du 21 décembre 2009 portant cahier des charges des maisons de l'emploi. Les crédits de l'État seront affectés aux maisons de l'emploi à partir d'une méthodologie commune basée sur des critères objectifs. Sur cette base, l'allocation des crédits de l'État au titre du fonctionnement des structures sera différenciée selon la plus-value de chacune d'entre elles.
+
+Par ailleurs, le ministre du travail a demandé aux préfets de travailler avec les collectivités locales responsables de ces structures à la recherche de mutualisations et de regroupements de structures sur des bassins d'emploi. Ce dialogue concernera également l'évolution des structures et l'accompagnement des personnels, qui pourraient, en fonction des décisions locales, être amenés à rechercher des perspectives professionnelles auprès d'autres partenaires, tels que Pôle Emploi, les missions locales ou les cités des métiers.
+
+M. le président. La parole est à M. Jean-Marie Bockel.
+
+M. Jean-Marie Bockel. Monsieur le ministre, votre réponse comporte des éléments intéressants, mais il faut éviter de jeter le bébé avec l'eau du bain.
+
+Pour le dire sans langue de bois, lors de la montée en puissance des maisons de l'emploi - en tant qu'élu local, je l'ai suivie de près -, il a fallu que l'on se batte contre l'administration et contre le sentiment selon lequel seul un service public centralisé pouvait gérer les problématiques d'emploi. Nous avons su développer les maisons de l'emploi, souvent à partir d'expériences préexistantes ; les maisons de l'emploi qui fonctionnent ne sont pas apparues en 2005 sur des territoires inexplorés. Nous avons vraiment obtenu des résultats, avec davantage d'adaptabilité et de réactivité, même si sont apparues des tensions avec Pôle Emploi, qui montait également en puissance, pour des raisons tout à fait compréhensibles.
+
+Si l'on n'y prend garde, on va recentraliser, comme trop souvent, et y compris en ce moment, dans notre pays. Il y aura toujours de bons esprits, dans les administrations centrales, pour pointer un certain nombre d'échecs - ils existent - afin de pousser à la recentralisation. La rareté de l'argent public peut aussi y inciter. Cependant, on perd du même coup la capacité de prendre des décisions au plus près des réalités, d'être réactif, de s'adapter à des terrains économiques très divers. C'est dommage.
+
+Monsieur le ministre, ce qu'il y a de positif dans votre réponse, c'est l'idée qu'il faut analyser la diversité des situations - les réussites comme les échecs - et apporter une réponse financière en fonction des résultats, a fortiori dans un contexte de marges de manœuvre très faibles. On peut certes faire disparaître sans le dire les maisons de l'emploi - la vie continuera -, mais ce serait vraiment dommage. Je pense qu'il faut au contraire aider les maisons de l'emploi à évoluer, afin qu'elles trouvent leur place à côté du service public tout en agissant peut-être plus près du terrain.
