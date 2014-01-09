@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008438
+
+- Question : [SEQ131008438](seq131008438.md) — Étiquetage d'origine des plats préparés à base de viande
+
+## Réponse
+
+*Économie sociale et solidaire et consommation, JO du 2014-01-09, page 95*
+
+L'article 26.2 b du règlement n° 1169/2011 sur l'information des consommateurs sur les denrées alimentaires (dit INCO) prévoit que l'indication du pays d'origine ou du lieu de provenance est obligatoire pour les viandes fraiches, réfrigérées ou congelées des espèces porcine, ovine ou caprine et de volailles. La règle est d'ores et déjà actée dans le règlement « INCO ». En application du huitième alinéa de l'article 26 du même règlement, la Commission a adopté récemment un acte d'exécution fixant les modalités d'application de ce principe. Les modalités d'indication de l'origine de ces espèces de viande font l'objet de discussions dans le groupe de travail consacré à la mise en œuvre du règlement « INCO » depuis septembre 2013. Les négociations n'ont pas encore abouti, mais l'acte d'exécution entrera en vigueur le 1er avril 2015. De plus, l'article 26.3 du règlement n° 1169/2011 prévoit que lorsque le pays d'origine ou le lieu de provenance de la denrée alimentaire est indiqué et qu'il n'est pas celui de son ingrédient primaire, le pays d'origine ou le lieu de provenance de l'ingrédient primaire en question est également indiqué, ou le pays d'origine ou le lieu de provenance de l'ingrédient primaire est indiqué comme étant autre que celui de la denrée alimentaire. Comme dans le cas précédent, un acte d'exécution, a été adopté. Enfin, la Commission a présenté le rapport prévu au titre de l'article 26.6 du règlement « INCO » sur l'indication obligatoire du pays d'origine ou du lieu de provenance pour la viande utilisée en tant qu'ingrédient, au Parlement européen et au Conseil. Il est actuellement en cours d'élaboration.
