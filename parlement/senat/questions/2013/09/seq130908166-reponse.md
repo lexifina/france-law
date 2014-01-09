@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130908166
+
+- Question : [SEQ130908166](seq130908166.md) — Enseignement de la construction européenne dans les programmes d'histoire du secondaire
+
+## Réponse
+
+*Éducation nationale, JO du 2014-01-09, page 104*
+
+Le ministre de l'éducation nationale a souhaité que des aménagements soient apportés au programme d'histoire-géographie des classes de troisième du collège ainsi qu'à celui des classes de terminales des séries Economique et sociale (ES) et Littéraire (L) afin que les professeurs puissent préparer dans de bonnes conditions les élèves à l'examen et à la poursuite d'études, et surtout que ces derniers s'approprient mieux les notions et concepts clés des programmes, en en mesurant mieux le sens et la portée. En classe de troisième, il s'est agi de supprimer les développements analytiques inadaptés à l'âge et au niveau des élèves et de mieux lier entre eux les thèmes abordés. C'est ainsi que la construction européenne ne fait plus l'objet d'un thème isolé mais est réinscrite dans le fil chronologique de la seconde moitié du XXe siècle, le contexte historique de la guerre froide permettant de souligner les principes qui présidèrent à la naissance de l'Union européenne tandis que dans un second temps l'on éclaire le caractère inédit de cette construction dans un monde aujourd'hui multipolaire. L'Europe est un objet d'enseignement à multiples facettes : historique, géographique, artistique, linguistique, politique économique... Chacune d'elles renvoie à des programmes d'enseignement différents qui se complètent pour donner aux élèves une formation cohérente et contribuer ainsi à leur compréhension d'un espace dont ils sont les héritiers et les futurs acteurs. Dans sa saisine du 4 octobre 2013 au Conseil supérieur des programmes, le ministre a d'ailleurs rappelé cette priorité.
