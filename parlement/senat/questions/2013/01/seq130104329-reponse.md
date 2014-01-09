@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130104329
+
+- Question : [SEQ130104329](seq130104329.md) — Accompagnement du déploiement du numérique à l'école
+
+## Réponse
+
+*Éducation nationale, JO du 2014-01-09, page 98*
+
+La convention signée le 18 janvier 2013 entre le ministère de l'éducation nationale et la Caisse des dépôts, est le renouvellement d'un partenariat relatif au développement du numérique dans l'éducation. Cette nouvelle convention réactualise la précédente et la réoriente vers les nouveaux objectifs du ministère de l'éducation nationale. Par leurs actions combinées, le ministère et la Caisse des dépôts souhaitent notamment contribuer à la connexion en très haut débit de toutes les écoles et de tous les établissements, accompagner les collectivités dans leur réflexion relative à la politique d'équipements et de services numériques pour l'école, identifier des collèges numériques pilotes démonstrateurs des technologies numériques éducatives innovantes et promouvoir l'usage des environnements numériques de travail (ENT). Pour cela, les deux partenaires s'engagent à promouvoir la prise en compte des besoins spécifiques de l'éducation dans toutes les instances auxquelles ils participent, et, plus particulièrement dans le cadre des 32 sociétés de réseaux d'initiative publique (RIP) dont la Caisse des dépôts est actionnaire, à analyser la bonne prise en compte du raccordement des écoles et des établissements scolaires. Contrairement au plan « école numérique rurale », qui était une opération d'équipement des écoles sous le seul pilotage du ministère de l'éducation nationale, cette convention n'a pas pour objectif d'équiper quelques écoles ou établissements, mais doit permettre d'aider les collectivités à opérer les choix les mieux adaptés aux spécificités de l'enseignement scolaire.
