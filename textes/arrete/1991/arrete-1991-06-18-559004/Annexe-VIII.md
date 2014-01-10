@@ -204,14 +204,26 @@ FONCTIONS COMPLEMENTAIRES
 
 |
 
-VEHICULES CONCERNES
+VÉHICULES CONCERNES
 
 |
 
-G. - Contrôle de l'installation gaz carburant sur véhicule
+G. CONTRÔLE DE L'INSTALLATION GAZ CARBURANT SUR VÉHICULE
 
 |
 
-Tout véhicule dont le certificat d'immatriculation mentionne une des énergies suivantes : EG, GP, PE, FG, EN, GN, NE, FN
+Tout véhicule dont le certificat d'immatriculation mentionne une des énergies suivantes EG, ER, EQ, GP, PE, PH, FG, EN, EM, EP, GN, NE, NH, FN, GF, GM, GQ
 
 |
+
+J. CONTRÔLE DES ÉQUIPEMENTS D'UN VÉHICULE ÉLECTRIQUE OU HYBRIDE
+
+|
+
+Tout véhicule électrique ou hybride
+
+|
+
+NOTA :
+
+Arrêté du 15 janvier 2013, article 37 : Les présentes dispositions sont applicables au 10 janvier 2014.

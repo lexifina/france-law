@@ -6,7 +6,7 @@ X.X.X. Point de contrôle
 
 |
 
-Contre-visite (oui / non)
+Contre-visite (oui/non)
 
 |
 
@@ -22,45 +22,25 @@ A. VEHICULES DE DEPANNAGE A MOTEUR
 
 |
 
-A. 1. IDENTIFICATION, DOCUMENTATION
+A.1. IDENTIFICATION, DOCUMENTATION
 
 |
 
 |
 
-A. 1. 1. certificat d'immatriculation
+A.1.1. certificat d'immatriculation
 
 |
 
 |
 
-A. 1. 1. 1. DIVERS
+A.1.1.1. DIVERS
 
 |
 
 |
 
-A. 1. 1. 1. 1. Non concordance du genre et / ou de la carrosserie
-
-|
-
-N
-
-|
-
-A. 1. 2. CARTE BLANCHE
-
-|
-
-|
-
-A. 1. 2. 1. SPECIFICATION
-
-|
-
-|
-
-A. 1. 2. 1. 1. Non-concordance avec le certificat d'immatriculation ou avec les autres documents prévus à l'article 9 (AM 18 juin 1991 modifié)
+A.1.1.1.1. Non concordance du genre et / ou de la carrosserie
 
 |
 
@@ -68,39 +48,19 @@ N
 
 |
 
-A. 1. 2. 2. DIVERS
+A.1.2. CARTE BLANCHE
 
 |
 
 |
 
-A. 1. 2. 2. 1. Absence
-
-|
-
-N
-
-|
-
-A. 2. ECLAIRAGE, SIGNALISATION
+A.1.2.1. SPECIFICATION
 
 |
 
 |
 
-A. 2. 1. FEUX DE FLECHE
-
-|
-
-|
-
-A. 2. 1. 1. ETAT
-
-|
-
-|
-
-A. 2. 1. 1. 1. Détérioration
+A.1.2.1.1. Non-concordance avec le certificat d'immatriculation ou avec les autres documents prévus à l'article 9 (AM 18 juin 1991 modifié)
 
 |
 
@@ -108,7 +68,13 @@ N
 
 |
 
-A. 2. 1. 1. 2. Couleur de signalisation modifiée
+A.1.2.2. DIVERS
+
+|
+
+|
+
+A.1.2.2.1. Absence
 
 |
 
@@ -116,13 +82,25 @@ N
 
 |
 
-A. 2. 1. 2. FONCTIONNEMENT
+A.2. ECLAIRAGE, SIGNALISATION
 
 |
 
 |
 
-A. 2. 1. 2. 1. Anomalie de fonctionnement
+A.2.1. FEUX DE FLECHE
+
+|
+
+|
+
+A.2.1.1. ETAT
+
+|
+
+|
+
+A.2.1.1.1. Détérioration
 
 |
 
@@ -130,13 +108,35 @@ N
 
 |
 
-A. 2. 1. 3. DIVERS
+A.2.1.1.2. Couleur de signalisation modifiée
+
+|
+
+N
+
+|
+
+A.2.1.2. FONCTIONNEMENT
 
 |
 
 |
 
-A. 2. 1. 3. 1. Absence d'au moins un
+A.2.1.2.1. Anomalie de fonctionnement
+
+|
+
+N
+
+|
+
+A.2.1.3. DIVERS
+
+|
+
+|
+
+A.2.1.3.1. Absence d'au moins un
 
 |
 
@@ -150,21 +150,13 @@ A. 2. 2. FEU SPECIAL
 
 |
 
-A. 2. 2. 1. ETAT
+A.2. 2. 1. ETAT
 
 |
 
 |
 
-A. 2. 2. 1. 1. Détérioration
-
-|
-
-N
-
-|
-
-A. 2. 2. 1. 2. Couleur de signalisation modifiée
+A.2. 2. 1. 1. Détérioration
 
 |
 
@@ -172,13 +164,7 @@ N
 
 |
 
-A. 2. 2. 2. FONCTIONNEMENT
-
-|
-
-|
-
-A. 2. 2. 2. 1. Anomalie de fonctionnement
+A.2. 2. 1. 2. Couleur de signalisation modifiée
 
 |
 
@@ -186,33 +172,13 @@ N
 
 |
 
-A. 2. 2. 3. DIVERS
+A.2. 2. 2. FONCTIONNEMENT
 
 |
 
 |
 
-A. 2. 2. 3. 1. Absence
-
-|
-
-N
-
-|
-
-A. 2. 3. ECLAIRAGE, SIGNALISATION REMORQUAGE
-
-|
-
-|
-
-A. 2. 3. 1. ETAT
-
-|
-
-|
-
-A. 2. 3. 1. 1. Détérioration
+A.2. 2. 2. 1. Anomalie de fonctionnement
 
 |
 
@@ -220,7 +186,13 @@ N
 
 |
 
-A. 2. 3. 1. 2. Couleur de signalisation modifiée
+A.2. 2. 3. DIVERS
+
+|
+
+|
+
+A.2. 2. 3. 1. Absence
 
 |
 
@@ -228,27 +200,19 @@ N
 
 |
 
-A. 2. 3. 2. FONCTIONNEMENT
+A.2. 3. ECLAIRAGE, SIGNALISATION REMORQUAGE
 
 |
 
 |
 
-A. 2. 3. 2. 1. Anomalie de fonctionnement
-
-|
-
-N
-
-|
-
-A. 2. 3. 3. DIVERS
+A.2. 3. 1. ETAT
 
 |
 
 |
 
-A. 2. 3. 3. 1. Absence d'au moins un
+A.2. 3. 1. 1. Détérioration
 
 |
 
@@ -256,19 +220,7 @@ N
 
 |
 
-A. 2. 4. PLAQUE DE REMORQUAGE
-
-|
-
-|
-
-A. 2. 4. 1. ETAT
-
-|
-
-|
-
-A. 2. 4. 1. 1. Détérioration
+A.2. 3. 1. 2. Couleur de signalisation modifiée
 
 |
 
@@ -276,21 +228,13 @@ N
 
 |
 
-A. 2. 4. 2. DIVERS
+A.2. 3. 2. FONCTIONNEMENT
 
 |
 
 |
 
-A. 2. 4. 2. 1. Absence
-
-|
-
-N
-
-|
-
-A. 2. 4. 2. 2. Dimensions inadaptées
+A.2. 3. 2. 1. Anomalie de fonctionnement
 
 |
 
@@ -298,25 +242,13 @@ N
 
 |
 
-A. 3. EQUIPEMENTS
+A.2. 3. 3. DIVERS
 
 |
 
 |
 
-A. 3. 1. CONES
-
-|
-
-|
-
-A. 3. 1. 1. DIVERS
-
-|
-
-|
-
-A. 3. 1. 1. 1. Absence d'au moins un
+A.2. 3. 3. 1. Absence d'au moins un
 
 |
 
@@ -324,39 +256,19 @@ N
 
 |
 
-A. 3. 2. PRODUIT ABSORBANT
+A.2. 4. PLAQUE DE REMORQUAGE
 
 |
 
 |
 
-A. 3. 2. 1. DIVERS
+A.2. 4. 1. ETAT
 
 |
 
 |
 
-A. 3. 2. 1. 1. Absence
-
-|
-
-N
-
-|
-
-A. 3. 3. BALAI
-
-|
-
-|
-
-A. 3. 3. 1. DIVERS
-
-|
-
-|
-
-A. 3. 3. 1. 1. Absence
+A.2. 4. 1. 1. Détérioration
 
 |
 
@@ -364,19 +276,13 @@ N
 
 |
 
-A. 3. 4. PELLE
+A.2. 4. 2. DIVERS
 
 |
 
 |
 
-A. 3. 4. 1. DIVERS
-
-|
-
-|
-
-A. 3. 4. 1. 1. Absence
+A.2. 4. 2. 1. Absence
 
 |
 
@@ -384,19 +290,7 @@ N
 
 |
 
-A. 3. 5. GILET FLUORESCENT
-
-|
-
-|
-
-A. 3. 5. 1. DIVERS
-
-|
-
-|
-
-A. 3. 5. 1. 1. Absence ou mauvais état d'au moins un
+A.2. 4. 2. 2. Dimensions inadaptées
 
 |
 
@@ -404,19 +298,125 @@ N
 
 |
 
-A. 3. 6. EXTINCTEUR SPECIFIQUE
+A.3. EQUIPEMENTS
 
 |
 
 |
 
-A. 3. 6. 1. DIVERS
+A.3. 1. CONES
 
 |
 
 |
 
-A. 3. 6. 1. 1. Absence ou péremption d'au moins un
+A.3. 1. 1. DIVERS
+
+|
+
+|
+
+A.3. 1. 1. 1. Absence d'au moins un
+
+|
+
+N
+
+|
+
+A.3. 2. PRODUIT ABSORBANT
+
+|
+
+|
+
+A.3. 2. 1. DIVERS
+
+|
+
+|
+
+A.3. 2. 1. 1. Absence
+
+|
+
+N
+
+|
+
+A.3. 3. BALAI
+
+|
+
+|
+
+A.3. 3. 1. DIVERS
+
+|
+
+|
+
+A.3. 3. 1. 1. Absence
+
+|
+
+N
+
+|
+
+A.3. 4. PELLE
+
+|
+
+|
+
+A.3. 4. 1. DIVERS
+
+|
+
+|
+
+A.3. 4. 1. 1. Absence
+
+|
+
+N
+
+|
+
+A.3. 5. GILET FLUORESCENT
+
+|
+
+|
+
+A.3. 5. 1. DIVERS
+
+|
+
+|
+
+A.3. 5. 1. 1. Absence ou mauvais état d'au moins un
+
+|
+
+N
+
+|
+
+A.3. 6. EXTINCTEUR SPECIFIQUE
+
+|
+
+|
+
+A.3. 6. 1. DIVERS
+
+|
+
+|
+
+A.3. 6. 1. 1. Absence ou péremption d'au moins un
 
 |
 
@@ -430,33 +430,25 @@ B. VEHICULES DE TRANSPORT SANITAIRE
 
 |
 
-B. 1. ECLAIRAGE, SIGNALISATION
+B.1. ECLAIRAGE, SIGNALISATION
 
 |
 
 |
 
-B. 1. 1. FEU SPECIAL
+B.1. 1. FEU SPECIAL
 
 |
 
 |
 
-B. 1. 1. 1. ETAT
+B.1. 1. 1. ETAT
 
 |
 
 |
 
-B. 1. 1. 1. 1. Détérioration
-
-|
-
-N
-
-|
-
-B. 1. 1. 1. 2. Couleur de signalisation modifiée
+B.1. 1. 1. 1. Détérioration
 
 |
 
@@ -464,13 +456,7 @@ N
 
 |
 
-B. 1. 1. 2. FONCTIONNEMENT
-
-|
-
-|
-
-B. 1. 1. 2. 1. Anomalie de fonctionnement
+B.1. 1. 1. 2. Couleur de signalisation modifiée
 
 |
 
@@ -478,21 +464,13 @@ N
 
 |
 
-B. 1. 1. 3. DIVERS
+B.1. 1. 2. FONCTIONNEMENT
 
 |
 
 |
 
-B. 1. 1. 3. 1. Absence
-
-|
-
-N
-
-|
-
-B. 1. 1. 3. 2. Absence de la mention " Feu spécial bleu, catégorie B " sur la certificat d'immatriculation
+B.1. 1. 2. 1. Anomalie de fonctionnement
 
 |
 
@@ -500,19 +478,13 @@ N
 
 |
 
-B. 1. 2. AVERTISSEUR SONORE SPECIALISE
+B.1. 1. 3. DIVERS
 
 |
 
 |
 
-B. 1. 2. 1. FONCTIONNEMENT
-
-|
-
-|
-
-B. 1. 2. 1. 1. Anomalie de fonctionnement
+B.1. 1. 3. 1. Absence
 
 |
 
@@ -520,13 +492,41 @@ N
 
 |
 
-B. 1. 2. 2. DIVERS
+B.1. 1. 3. 2. Absence de la mention " Feu spécial bleu, catégorie B " sur le certificat d'immatriculation
+
+|
+
+N
+
+|
+
+B.1. 2. AVERTISSEUR SONORE SPECIALISE
 
 |
 
 |
 
-B. 1. 2. 2. 1. Présence non autorisée
+B.1. 2. 1. FONCTIONNEMENT
+
+|
+
+|
+
+B.1. 2. 1. 1. Anomalie de fonctionnement
+
+|
+
+N
+
+|
+
+B.1. 2. 2. DIVERS
+
+|
+
+|
+
+B.1. 2. 2. 1. Présence non autorisée
 
 |
 
@@ -540,45 +540,25 @@ C. VEHICULES ECOLE
 
 |
 
-C. 1. IDENTIFICATION, DOCUMENTATION
+C.1. IDENTIFICATION, DOCUMENTATION
 
 |
 
 |
 
-C. 1. 1. certificat d'immatriculation
+C.1. 1. certificat d'immatriculation
 
 |
 
 |
 
-C. 1. 1. 1. DIVERS
+C.1. 1. 1. DIVERS
 
 |
 
 |
 
-C. 1. 1. 1. 1. Absence de mention
-
-|
-
-N
-
-|
-
-C. 1. 2. CARTE ORANGE
-
-|
-
-|
-
-C. 1. 2. 1. SPECIFICATION
-
-|
-
-|
-
-C. 1. 2. 1. 1. Non-concordance avec le certificat d'immatriculation ou avec les autres documents prévus à l'article 9 (AM 18 juin 1991 modifié)
+C.1. 1. 1. 1. Absence de mention
 
 |
 
@@ -586,39 +566,19 @@ N
 
 |
 
-C. 1. 2. 2. DIVERS
+C.1. 2. CARTE ORANGE
 
 |
 
 |
 
-C. 1. 2. 2. 1. Absence
-
-|
-
-N
-
-|
-
-C. 2. ECLAIRAGE, SIGNALISATION
+C.1. 2. 1. SPECIFICATION
 
 |
 
 |
 
-C. 2. 1. PANNEAUX SIGNALETIQUES
-
-|
-
-|
-
-C. 2. 1. 1. ETAT
-
-|
-
-|
-
-C. 2. 1. 1. 1. Détérioration (AV, AR, C)
+C.1. 2. 1. 1. Non-concordance avec le certificat d'immatriculation ou avec les autres documents prévus à l'article 9 (AM 18 juin 1991 modifié)
 
 |
 
@@ -626,7 +586,47 @@ N
 
 |
 
-C. 2. 1. 1. 2. Partie saillante (AV, AR, C)
+C.1. 2. 2. DIVERS
+
+|
+
+|
+
+C.1. 2. 2. 1. Absence
+
+|
+
+N
+
+|
+
+C.2. ECLAIRAGE, SIGNALISATION
+
+|
+
+|
+
+C.2. 1. PANNEAUX SIGNALETIQUES
+
+|
+
+|
+
+C.2. 1. 1. ETAT
+
+|
+
+|
+
+C.2. 1. 1. 1. Détérioration (AV, AR, C)
+
+|
+
+N
+
+|
+
+C.2. 1. 1. 2. Partie saillante (AV, AR, C)
 
 |
 
@@ -634,21 +634,13 @@ O
 
 |
 
-C. 2. 1. 2. FIXATION
+C.2. 1. 2. FIXATION
 
 |
 
 |
 
-C. 2. 1. 2. 1. Mauvais positionnement (AV, AR, C)
-
-|
-
-N
-
-|
-
-C. 2. 1. 2. 2. Mauvaise fixation (AV, AR, C)
+C.2. 1. 2. 1. Mauvais positionnement (AV, AR, C)
 
 |
 
@@ -656,13 +648,7 @@ N
 
 |
 
-C. 2. 1. 3. DIVERS
-
-|
-
-|
-
-C. 2. 1. 3. 1. Absence (AV, AR, C)
+C.2. 1. 2. 2. Mauvaise fixation (AV, AR, C)
 
 |
 
@@ -670,7 +656,13 @@ N
 
 |
 
-C. 2. 1. 3. 2. Dimensions inadaptées (AV, AR, C)
+C.2. 1. 3. DIVERS
+
+|
+
+|
+
+C.2. 1. 3. 1. Absence (AV, AR, C)
 
 |
 
@@ -678,7 +670,7 @@ N
 
 |
 
-C. 2. 1. 3. 3. Mention non conforme (AV, AR, C)
+C.2. 1. 3. 2. Dimensions inadaptées (AV, AR, C)
 
 |
 
@@ -686,25 +678,7 @@ N
 
 |
 
-C. 3. COMMANDES OU EQUIPEMENTS EN DOUBLE
-
-|
-
-|
-
-C. 3. 1. AVERTISSEUR SONORE
-
-|
-
-|
-
-C. 3. 1. 1. ETAT
-
-|
-
-|
-
-C. 3. 1. 1. 1. Détérioration
+C.2. 1. 3. 3. Mention non conforme (AV, AR, C)
 
 |
 
@@ -712,47 +686,25 @@ N
 
 |
 
-C. 3. 1. 2. FONCTIONNEMENT
+C.3. COMMANDES OU EQUIPEMENTS EN DOUBLE
 
 |
 
 |
 
-C. 3. 1. 2. 1. Anomalie de fonctionnement
-
-|
-
-N
-
-|
-
-C. 3. 1. 3. DIVERS
+C.3. 1. AVERTISSEUR SONORE
 
 |
 
 |
 
-C. 3. 1. 3. 1. Absence de commande
-
-|
-
-N
-
-|
-
-C. 3. 2. FEUX
+C.3. 1. 1. ETAT
 
 |
 
 |
 
-C. 3. 2. 1. ETAT
-
-|
-
-|
-
-C. 3. 2. 1. 1. Détérioration
+C.3. 1. 1. 1. Détérioration
 
 |
 
@@ -760,27 +712,13 @@ N
 
 |
 
-C. 3. 2. 2. FONCTIONNEMENT
+C.3. 1. 2. FONCTIONNEMENT
 
 |
 
 |
 
-C. 3. 2. 2. 1. Anomalie de fonctionnement
-
-|
-
-N
-
-|
-
-C. 3. 2. 3. DIVERS
-
-|
-
-|
-
-C. 3. 2. 3. 1. Absence de commande
+C.3. 1. 2. 1. Anomalie de fonctionnement
 
 |
 
@@ -788,19 +726,13 @@ N
 
 |
 
-C. 3. 3. INDICATEURS DE DIRECTION
+C.3. 1. 3. DIVERS
 
 |
 
 |
 
-C. 3. 3. 1. ETAT
-
-|
-
-|
-
-C. 3. 3. 1. 1. Détérioration
+C.3. 1. 3. 1. Absence de commande
 
 |
 
@@ -808,27 +740,19 @@ N
 
 |
 
-C. 3. 3. 2. FONCTIONNEMENT
+C.3. 2. FEUX
 
 |
 
 |
 
-C. 3. 3. 2. 1. Anomalie de fonctionnement
-
-|
-
-N
-
-|
-
-C. 3. 3. 3. DIVERS
+C.3. 2. 1. ETAT
 
 |
 
 |
 
-C. 3. 3. 3. 1. Absence de commande
+C.3. 2. 1. 1. Détérioration
 
 |
 
@@ -836,19 +760,13 @@ N
 
 |
 
-C. 3. 4. FREIN DE SERVICE
+C.3. 2. 2. FONCTIONNEMENT
 
 |
 
 |
 
-C. 3. 4. 1. ETAT
-
-|
-
-|
-
-C. 3. 4. 1. 1. Détérioration mineure
+C.3. 2. 2. 1. Anomalie de fonctionnement
 
 |
 
@@ -856,7 +774,89 @@ N
 
 |
 
-C. 3. 4. 1. 2. Détérioration importante
+C.3. 2. 3. DIVERS
+
+|
+
+|
+
+C.3. 2. 3. 1. Absence de commande
+
+|
+
+N
+
+|
+
+C.3. 3. INDICATEURS DE DIRECTION
+
+|
+
+|
+
+C.3. 3. 1. ETAT
+
+|
+
+|
+
+C.3. 3. 1. 1. Détérioration
+
+|
+
+N
+
+|
+
+C.3. 3. 2. FONCTIONNEMENT
+
+|
+
+|
+
+C.3. 3. 2. 1. Anomalie de fonctionnement
+
+|
+
+N
+
+|
+
+C.3. 3. 3. DIVERS
+
+|
+
+|
+
+C.3. 3. 3. 1. Absence de commande
+
+|
+
+N
+
+|
+
+C.3. 4. FREIN DE SERVICE
+
+|
+
+|
+
+C.3. 4. 1. ETAT
+
+|
+
+|
+
+C.3. 4. 1. 1. Détérioration mineure
+
+|
+
+N
+
+|
+
+C.3. 4. 1. 2. Détérioration importante
 
 |
 
@@ -864,13 +864,13 @@ O
 
 |
 
-C. 3. 4. 2. SPECIFICATION
+C.3. 4. 2. SPECIFICATION
 
 |
 
 |
 
-C. 3. 4. 2. 1. Course importante
+C.3. 4. 2. 1. Course importante
 
 |
 
@@ -878,13 +878,13 @@ N
 
 |
 
-C. 3. 4. 3. FONCTIONNEMENT
+C.3. 4. 3. FONCTIONNEMENT
 
 |
 
 |
 
-C. 3. 4. 3. 1. Anomalie importante de fonctionnement
+C.3. 4. 3. 1. Anomalie importante de fonctionnement
 
 |
 
@@ -892,7 +892,7 @@ O
 
 |
 
-C. 3. 4. 3. 2. Efficacité globale insuffisante
+C.3. 4. 3. 2. Efficacité globale insuffisante
 
 |
 
@@ -900,47 +900,13 @@ O
 
 |
 
-C. 3. 4. 4. DIVERS
+C.3. 4. 4. DIVERS
 
 |
 
 |
 
-C. 3. 4. 4. 1. Absence
-
-|
-
-O
-
-|
-
-C. 3. 5. ACCELERATEUR NEUTRALISABLE
-
-|
-
-|
-
-C. 3. 5. 1. FONCTIONNEMENT
-
-|
-
-|
-
-C. 3. 5. 1. 1. Anomalie de fonctionnement
-
-|
-
-N
-
-|
-
-C. 3. 5. 2. DIVERS
-
-|
-
-|
-
-C. 3. 5. 2. 1. Absence
+C.3. 4. 4. 1. Absence
 
 |
 
@@ -948,19 +914,19 @@ O
 
 |
 
-C. 3. 6. COMMANDE DE DEBRAYAGE
+C.3. 5. ACCELERATEUR NEUTRALISABLE
 
 |
 
 |
 
-C. 3. 6. 1. FONCTIONNEMENT
+C.3. 5. 1. FONCTIONNEMENT
 
 |
 
 |
 
-C. 3. 6. 1. 1. Anomalie de fonctionnement
+C.3. 5. 1. 1. Anomalie de fonctionnement
 
 |
 
@@ -968,13 +934,13 @@ N
 
 |
 
-C. 3. 6. 2. DIVERS
+C.3. 5. 2. DIVERS
 
 |
 
 |
 
-C. 3. 6. 2. 1. Absence
+C.3. 5. 2. 1. Absence
 
 |
 
@@ -982,33 +948,19 @@ O
 
 |
 
-C. 3. 7. RETROVISEUR INTERIEUR COMPLEMENTAIRE
+C.3. 6. COMMANDE DE DEBRAYAGE
 
 |
 
 |
 
-C. 3. 7. 1. ETAT
+C.3. 6. 1. FONCTIONNEMENT
 
 |
 
 |
 
-C. 3. 7. 1. 1. Mauvais état
-
-|
-
-N
-
-|
-
-C. 3. 7. 2. FIXATION
-
-|
-
-|
-
-C. 3. 7. 2. 1. Mauvaise fixation
+C.3. 6. 1. 1. Anomalie de fonctionnement
 
 |
 
@@ -1016,13 +968,13 @@ N
 
 |
 
-C. 3. 7. 3. DIVERS
+C.3. 6. 2. DIVERS
 
 |
 
 |
 
-C. 3. 7. 3. 1. Absence
+C.3. 6. 2. 1. Absence
 
 |
 
@@ -1030,33 +982,19 @@ O
 
 |
 
-C. 3. 8. DISPOSITIF DE RETROVISION EXTERIEUR DROIT COMPLEMENTAIRE
+C.3. 7. RETROVISEUR INTERIEUR COMPLEMENTAIRE
 
 |
 
 |
 
-C. 3. 8. 1. ETAT
+C.3. 7. 1. ETAT
 
 |
 
 |
 
-C. 3. 8. 1. 1. Mauvais état
-
-|
-
-N
-
-|
-
-C. 3. 8. 2. FIXATION
-
-|
-
-|
-
-C. 3. 8. 2. 1. Mauvaise fixation
+C.3. 7. 1. 1. Mauvais état
 
 |
 
@@ -1064,13 +1002,75 @@ N
 
 |
 
-C. 3. 8. 3. DIVERS
+C.3. 7. 2. FIXATION
 
 |
 
 |
 
-C. 3. 8. 3. 1. Absence
+C.3. 7. 2. 1. Mauvaise fixation
+
+|
+
+N
+
+|
+
+C.3. 7. 3. DIVERS
+
+|
+
+|
+
+C.3. 7. 3. 1. Absence
+
+|
+
+O
+
+|
+
+C.3. 8. DISPOSITIF DE RETROVISION EXTERIEUR DROIT COMPLEMENTAIRE
+
+|
+
+|
+
+C.3. 8. 1. ETAT
+
+|
+
+|
+
+C.3. 8. 1. 1. Mauvais état
+
+|
+
+N
+
+|
+
+C.3. 8. 2. FIXATION
+
+|
+
+|
+
+C.3. 8. 2. 1. Mauvaise fixation
+
+|
+
+N
+
+|
+
+C.3. 8. 3. DIVERS
+
+|
+
+|
+
+C.3. 8. 3. 1. Absence
 
 |
 
@@ -1084,63 +1084,25 @@ D. TAXIS ET VEHICULES DE REMISE
 
 |
 
-D. 1. IDENTIFICATION
+D.1. IDENTIFICATION
 
 |
 
 |
 
-D. 1. 1. VIGNETTE (véhicules de tourisme avec chauffeur)
+D.1. 1. VIGNETTE (véhicules de tourisme avec chauffeur)
 
 |
 
 |
 
-D. 1. 1. 1. SPECIFICATION
+D.1. 1. 1. SPECIFICATION
 
 |
 
 |
 
-D. 1. 1. 1. 1. Absence du numéro d'immatriculation de l'entreprise
-
-|
-
-N
-
-|
-
-D. 1. 1. 2. DIVERS
-
-|
-
-|
-
-D. 1. 1. 2. 1. Absence
-
-|
-
-|
-
-D. 2. ECLAIRAGE, SIGNALISATION (TAXIS)
-
-|
-
-|
-
-D. 2. 1. SIGNALISATION LUMINEUSE " TAXI "
-
-|
-
-|
-
-D. 2. 1. 1. ETAT
-
-|
-
-|
-
-D. 2. 1. 1. 1. Détérioration
+D.1. 1. 1. 1. Absence du numéro d'immatriculation de l'entreprise
 
 |
 
@@ -1148,47 +1110,37 @@ N
 
 |
 
-D. 2. 1. 2. FONCTIONNEMENT
+D.1. 1. 2. DIVERS
 
 |
 
 |
 
-D. 2. 1. 2. 1. Anomalie de fonctionnement
-
-|
-
-N
-
-|
-
-D. 2. 1. 3. DIVERS
+D.1. 1. 2. 1. Absence
 
 |
 
 |
 
-D. 2. 1. 3. 1. Absence
-
-|
-
-N
-
-|
-
-D. 2. 2. PLAQUE SCELLEE, DISTINCTIVE
+D.2. ECLAIRAGE, SIGNALISATION (TAXIS)
 
 |
 
 |
 
-D. 2. 2. 1. ETAT
+D.2. 1. SIGNALISATION LUMINEUSE " TAXI "
 
 |
 
 |
 
-D. 2. 2. 1. 1. Détérioration
+D.2. 1. 1. ETAT
+
+|
+
+|
+
+D.2. 1. 1. 1. Détérioration
 
 |
 
@@ -1196,27 +1148,13 @@ N
 
 |
 
-D. 2. 2. 2. SPECIFICATION
+D.2. 1. 2. FONCTIONNEMENT
 
 |
 
 |
 
-D. 2. 2. 2. 1. Non-concordance avec les documents, les spécifications
-
-|
-
-N
-
-|
-
-D. 2. 2. 3. DIVERS
-
-|
-
-|
-
-D. 2. 2. 3. 1. Absence
+D.2. 1. 2. 1. Anomalie de fonctionnement
 
 |
 
@@ -1224,25 +1162,87 @@ N
 
 |
 
-D. 3. EQUIPEMENTS
+D.2. 1. 3. DIVERS
 
 |
 
 |
 
-D. 3. 1. TAXIMETRE
+D.2. 1. 3. 1. Absence
+
+|
+
+N
+
+|
+
+D.2. 2. PLAQUE SCELLEE, DISTINCTIVE
 
 |
 
 |
 
-D. 3. 1. 1. DIVERS
+D.2. 2. 1. ETAT
 
 |
 
 |
 
-D. 3. 1. 1. 1. Absence
+D.2. 2. 1. 1. Détérioration
+
+|
+
+N
+
+|
+
+D.2. 2. 2. SPECIFICATION
+
+|
+
+|
+
+D.2. 2. 2. 1. Non-concordance avec les documents, les spécifications
+
+|
+
+N
+
+|
+
+D.2. 2. 3. DIVERS
+
+|
+
+|
+
+D.2. 2. 3. 1. Absence
+
+|
+
+N
+
+|
+
+D.3. EQUIPEMENTS
+
+|
+
+|
+
+D.3. 1. TAXIMETRE
+
+|
+
+|
+
+D.3. 1. 1. DIVERS
+
+|
+
+|
+
+D.3. 1. 1. 1. Absence
 
 |
 
@@ -1250,7 +1250,7 @@ O
 
 |
 
-D. 3. 1. 1. 2. Absence de scellement
+D.3. 1. 1. 2. Absence de scellement
 
 |
 
@@ -1258,7 +1258,7 @@ O
 
 |
 
-D. 3. 1. 1. 3. Date de validité dépassée
+D.3. 1. 1. 3. Date de validité dépassée
 
 |
 
@@ -1657,3 +1657,405 @@ G. 3. 1. 2. 2. Fixations défaillantes
 O
 
 |
+
+.
+
+J. CONTRÔLE DES ÉQUIPEMENTS D'UN VÉHICULE ÉLECTRIQUE OU HYBRIDE
+
+|
+
+|
+
+J.1. COFFRE À BATTERIE(S) DE TRACTION (Y COMPRIS BATTERIES)
+
+|
+
+|
+
+J.1.1. COFFRE(S) À BATTERIE(S) DE TRACTION
+
+|
+
+|
+
+J.1.1.1. ÉTAT
+
+|
+
+|
+
+J.1.1.1.1. Détérioration du coffre (AV. AR. C)
+
+|
+
+N
+
+|
+
+J.1.1.1.2. Détérioration importante du coffre (AV. AR. C)
+
+|
+
+O
+
+|
+
+J.1.1.2. FIXATION
+
+|
+
+|
+
+J.1.1.2.1. Mauvaise fixation (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+O
+
+|
+
+J.1.2. BATTERIE(S) DE TRACTION
+
+|
+
+|
+
+J.1.2.1. ÉTANCHÉITÉ
+
+|
+
+|
+
+J.1.2.1.1. Défaut d'étanchéité (AV. AR. C)
+
+|
+
+O
+
+|
+
+J.1.3. ORIFICE(S) D'AÉRATION DU COFFRE À BATTERIE(S) DE TRACTION
+
+|
+
+|
+
+J.1.3.1. ÉTAT
+
+|
+
+|
+
+J.1.3.1.1. Obstrué(s) (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+N
+
+|
+
+J.2. CIRCUITS ÉLECTRIQUES HAUTE TENSION, AUTRES QUE SERVITUDES
+
+|
+
+|
+
+J.2.1. CÂBLAGES ET CONNECTEURS HAUTE TENSION
+
+|
+
+|
+
+J.2.1.1. ÉTAT
+
+|
+
+|
+
+J.2.1.1.1. Détérioration (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+N
+
+|
+
+J.2.1.1.2. Détérioration importante (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+O
+
+|
+
+J.2.1.2. FIXATION
+
+|
+
+|
+
+J.2.1.2.1. Mauvaise fixation (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+N
+
+|
+
+J.2.1.2.2. Fixation défaillante (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+O
+
+|
+
+J.2.2. TRESSES DE MASSE, Y COMPRIS LEURS FIXATIONS
+
+|
+
+|
+
+J.2.2.1. ÉTAT
+
+|
+
+|
+
+J.2.2.1.1. Détérioration (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+N
+
+|
+
+J.2.2.1.2. Détérioration importante (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+O
+
+|
+
+J.2.3. CONTINUITÉ DE MASSE
+
+|
+
+|
+
+J.2.3.1. SPÉCIFICATIONS
+
+|
+
+|
+
+J.2.3.1.1. Non-conforme
+
+|
+
+O
+
+|
+
+J.2.3.1.2. Essai non réalisé
+
+|
+
+N
+
+|
+
+J.3. ÉQUIPEMENTS ÉLECTRIQUES OU ÉLECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION
+
+|
+
+|
+
+J.3.1. ÉQUIPEMENTS ÉLECTRIQUES ET ÉLECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION
+
+|
+
+|
+
+J.3.1.1. ÉTAT
+
+|
+
+|
+
+J.3.1.1.1. Détérioration (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+N
+
+|
+
+J.3.1.1.2. Détérioration importante (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+O
+
+|
+
+J.3.1.2. FIXATION
+
+|
+
+|
+
+J.3.1.2.1. Fixation défaillante (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+O
+
+|
+
+J.3.1.3. ÉTANCHÉITÉ
+
+|
+
+|
+
+J.3.1.3.1. Défaut d'étanchéité (AV. AR. C)
+
+|
+
+O
+
+|
+
+J.4. DISPOSITIFS DE SÉCURITÉ
+
+|
+
+|
+
+J.4.1. DISPOSITIF ANTIDÉMARRAGE (câble de charge connecté)
+
+|
+
+|
+
+J.4.1.1. FONCTIONNEMENT
+
+|
+
+|
+
+J.4.1.1.1. Non-fonctionnement
+
+|
+
+N
+
+|
+
+J.5. SYSTÈME DE CHARGE
+
+|
+
+|
+
+J.5.1. PROTECTION DE LA PRISE SUR VÉHICULE
+
+|
+
+|
+
+J.5.1.1. ÉTAT
+
+|
+
+|
+
+J.5.1.1.1. Détérioration (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+N
+
+|
+
+J.5.1.2. SPÉCIFICATION
+
+|
+
+|
+
+J.5.1.2.1. Absence pour prise extérieure (AVG. AVD. ARG. ARD. AV. AR. C.)
+
+|
+
+O
+
+|
+
+J.5.2. PRISE(S) SUR VÉHICULE
+
+|
+
+|
+
+J.5.2.1. ÉTAT
+
+|
+
+|
+
+J.5.2.1.1. Détérioration
+
+|
+
+N
+
+|
+
+J.5.2.1.2. Détérioration importante
+
+|
+
+O
+
+|
+
+J.5.3. CÂBLE DE CHARGE
+
+|
+
+|
+
+J.5.3.1. ÉTAT
+
+|
+
+|
+
+J.5.3.1.1. Détérioration
+
+|
+
+N
+
+|
+
+J.5.3.2. SPÉCIFICATION
+
+|
+
+|
+
+J.5.3.2.1. Essai non réalisé
+
+|
+
+N
+
+|
+
+NOTA :
+
+Arrêté du 15 janvier 2013 article 37 : Les présentes dispositions sont applicables au 10 janvier 2014.
