@@ -5594,6 +5594,640 @@ M
 
 |
 
+14. CONTRÔLES COMPLÉMENTAIRES DES VÉHICULES ÉLECTRIQUES OU HYBRIDES
+
+|
+
+|
+
+|
+
+|
+
+14.1. COFFRE À BATTERIE(S) DE TRACTION (Y COMPRIS BATTERIES)
+
+|
+
+|
+
+|
+
+|
+
+14.1.1. COFFRE(S) À BATTERIE(S) DE TRACTION
+
+|
+
+|
+
+|
+
+|
+
+14.1.1.1. ÉTAT
+
+|
+
+|
+
+|
+
+|
+
+14.1.1.1.1. Détérioration notable |
+
+236
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.1.1.1.2. Détérioration |
+
+236
+
+|
+
+O
+
+|
+
+M
+
+|
+
+14.1.1.3. FIXATION
+
+|
+
+|
+
+|
+
+|
+
+14.1.1.3.1. Défaut notable de fixation |
+
+236
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.1.2. BATTERIE(S) DE TRACTION
+
+|
+
+|
+
+|
+
+|
+
+14.1.2.1. ÉTAT
+
+|
+
+|
+
+|
+
+|
+
+14.1.2.1.1. Détérioration notable
+
+|
+
+236
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.1.3. ORIFICE(S) D'AÉRATION DU COFFRE À BATTERIE(S) DE TRACTION
+
+|
+
+|
+
+|
+
+|
+
+14.1.3.4. DIVERS
+
+|
+
+|
+
+|
+
+|
+
+14.1.3.4.1. Obstrué(s) |
+
+236
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.2. CIRCUITS ÉLECTRIQUES HAUTE TENSION, AUTRES QUE SERVITUDES
+
+|
+
+|
+
+|
+
+|
+
+14.2.1. CABLAGES ET CONNECTEURS HAUTE TENSION
+
+|
+
+|
+
+|
+
+|
+
+14.2.1.1. ÉTAT
+
+|
+
+|
+
+|
+
+|
+
+14.2.1.1.1. Détérioration notable |
+
+236
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.2.1.1.2. Détérioration |
+
+236
+
+|
+
+O
+
+|
+
+M
+
+|
+
+14.2.1.3. FIXATION
+
+|
+
+|
+
+|
+
+|
+
+14.2.1.3.1. Défaut notable de fixation |
+
+236
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.2.1.3.2. Défaut de fixation |
+
+236
+
+|
+
+O
+
+|
+
+M
+
+|
+
+14.2.2. TRESSES DE MASSE, Y COMPRIS LEURS FIXATIONS
+
+|
+
+|
+
+|
+
+|
+
+14.2.2.1. ÉTAT
+
+|
+
+|
+
+|
+
+|
+
+14.2.2.1.1. Détérioration notable |
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.2.2.1.2. Détérioration |
+
+|
+
+O
+
+|
+
+M
+
+|
+
+14.2.3. CONTINUITÉ DE MASSE
+
+|
+
+|
+
+|
+
+|
+
+14.2.3.4. DIVERS
+
+|
+
+|
+
+|
+
+|
+
+14.2.3.4.1. Non conforme |
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.2.3.4.2. Essai non réalisé |
+
+|
+
+C
+
+|
+
+M
+
+|
+
+14.3. ÉQUIPEMENTS ÉLECTRIQUES OU ÉLECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION
+
+|
+
+|
+
+|
+
+|
+
+14.3.1. ÉQUIPEMENTS ÉLECTRIQUES ET ÉLECTRONIQUES DIVERS SUR CIRCUIT HAUTE TENSION
+
+|
+
+|
+
+|
+
+|
+
+14.3.1.1. ÉTAT
+
+|
+
+|
+
+|
+
+|
+
+14.3.1.1.1. Détérioration notable |
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.3.1.1.2. Détérioration |
+
+|
+
+O
+
+|
+
+M
+
+|
+
+14.3.1.3. FIXATION
+
+|
+
+|
+
+|
+
+|
+
+14.3.1.3.1. Défaut notable de fixation |
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.4. DISPOSITIFS DE SÉCURITÉ
+
+|
+
+|
+
+|
+
+|
+
+14.4.1. DISPOSITIF ANTI-DÉMARRAGE (câble de charge connecté)
+
+|
+
+|
+
+|
+
+|
+
+14.4.1.2. FONCTIONNEMENT
+
+|
+
+|
+
+|
+
+|
+
+14.4.1.2.1. Non fonctionnement |
+
+|
+
+O
+
+|
+
+M
+
+|
+
+14.5. SYSTÈME DE CHARGE
+
+|
+
+|
+
+|
+
+|
+
+14.5.1. PROTECTION DE LA PRISE SUR VÉHICULE
+
+|
+
+|
+
+|
+
+|
+
+14.5.1.1. ÉTAT
+
+|
+
+|
+
+|
+
+|
+
+14.5.1.1.1. Détérioration |
+
+3
+
+|
+
+O
+
+|
+
+M
+
+|
+
+14.5.1.4. DIVERS
+
+|
+
+|
+
+|
+
+|
+
+14.5.1.4.1. Absence pour prise extérieure |
+
+3
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.5.2. PRISE(S) SUR VÉHICULE
+
+|
+
+|
+
+|
+
+|
+
+14.5.2.1. ÉTAT
+
+|
+
+|
+
+|
+
+|
+
+14.5.2.1.1. Détérioration notable |
+
+3
+
+|
+
+S
+
+|
+
+M
+
+|
+
+14.5.2.1.2. Détérioration |
+
+3
+
+|
+
+O
+
+|
+
+M
+
+|
+
+14.5.3. CÂBLE DE CHARGE
+
+|
+
+|
+
+|
+
+|
+
+14.5.3.1.ÉTAT
+
+|
+
+|
+
+|
+
+|
+
+14.5.3.1.1. Détérioration |
+
+|
+
+O
+
+|
+
+M
+
+|
+
+14.5.3.4. DIVERS
+
+|
+
+|
+
+|
+
+|
+
+14.5.3.4.1. Essai non réalisé |
+
+|
+
+C
+
+|
+
+M
+
+|
+
 15. CONTROLES COMPLEMENTAIRES MARCHANDISES DANGEREUSES
 
 |
@@ -9146,7 +9780,7 @@ ESSAIS SUR PISTE
 
 |
 
-Véhicules de la catégorie M1.
+Véhicules de la catégorie M1
 
 |
 
@@ -9354,7 +9988,7 @@ ESSAIS SUR PISTE
 
 |
 
-Véhicules de la catégorie M1.
+Véhicules de la catégorie M1
 
 |
 
@@ -9531,6 +10165,16 @@ Les valeurs limites sont définies dans l'arrêté de 5 juillet 1994 susvisé.
 Véhicules-écoles
 
 Tout véhicule-école pour lequel une contre-visite a été prescrite au titre de l'un des points de contrôle de la fonction 1. Freinage ou du point de contrôle 13. 3. 2. Double commande au pied fait l'objet, lors de la contre-visite, des contrôles prescrits par les points de contrôle de la fonction 1. Freinage et par le point de contrôle 13. 3. 2. Double commande au pied .
+
+Véhicules électriques ou hybrides
+
+a) Continuité de masse pour les véhicules rechargeables.
+
+La valeur de résistance n'excède pas 100 ohms.
+
+b) Dispositif anti-démarrage (câble de charge connecté).
+
+Le fonctionnement du dispositif est contrôlé sur les véhicules mis en circulation à compter du 10 janvier 2014.
 
 APPENDICE 2
 
@@ -10905,3 +11549,7 @@ Les véhicules, mis en circulation jusqu'au 30 avril 1957, ne sont pas soumis au
 3 Véhicules de genre TRR présentés seuls au contrôle
 
 Dans le cas où un véhicule de genre TRR est présenté seul au contrôle technique, le commentaire suivant est porté sur le procès-verbal : "sellette non vérifiée".
+
+NOTA :
+
+Arrêté du 15 janvier 2013 article 37 : Les présentes dispositions sont applicables au 10 janvier 2014.
