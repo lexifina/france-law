@@ -46,6 +46,20 @@ Véhicules de transport en commun de personnes
 
 Véhicules de transport de marchandises dangereuses
 
+C. Catégories de véhicules soumis à réglementation complémentaire.
+
+FONCTIONS COMPLÉMENTAIRES
+
+|
+
+VÉHICULES CONCERNÉS
+
+|
+
+FONCTION 14. CONTRÔLE DES ÉQUIPEMENTS D'UN VÉHICULE ÉLECTRIQUE OU HYBRIDE |
+
+TOUT VÉHICULE ÉLECTRIQUE OU HYBRIDE |
+
 D. Périodicité et validité des visas
 
 TYPE DE CONTRÔLE
@@ -199,3 +213,7 @@ Tout type de visite technique périodique ou contre-visite.
 Date de la visite technique périodique ou de la contre-visite.
 
 |
+
+NOTA :
+
+Arrêté du 15 janvier 2013 article 37 : Les présentes dispositions sont applicables au 10 janvier 2014.
