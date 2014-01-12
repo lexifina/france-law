@@ -1,44 +1,24 @@
 # Article Annexe 1
 
-QUOTAS D'EFFORT DE PÊCHE OCTROYÉS AUX NAVIRES DE PÊCHE BATTANT PAVILLON FRANÇAIS DANS LA ZONE CIEM VII a AU TITRE DU RÈGLEMENT R (E) N° 1342/2008
+QUOTAS D'EFFORT DE PÊCHE OCTROYÉS AUX NAVIRES DE PÊCHE BATTANT PAVILLON FRANÇAIS DANS LA ZONE CIEM VII a AU TITRE DU RÈGLEMENT R (CE) N° 1342/2008
 
-En kilowatts x jours (de présence dans la zone indiquée ci-dessus)
-
-|
-
-CHALUTS DE FOND,
-
-SENNES DANOISES
-
-et engins traînants similaires,
-
-à l'exception
-
-des chaluts à perche, d'un maillage supérieur ou égal à 100 mm (TR1)
+En kilowatts × jours (de présence dans la zone indiquée ci-dessus)
 
 |
 
-CHALUTS DE FOND,
-
-SENNES DANOISES
-
-et engins traînants similaires,
-
-à l'exception des
-
-chaluts à perche, d'un maillage supérieur ou égal à 70 mm et inférieur à 100 mm (TR2)
+Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 100 mm (TR1)
 
 |
 
-FILETS MAILLANTS
-
-et filets emmêlants, à l'exception des trémails (GN)
+Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 70 mm et inférieur à 100 mm (TR2)
 
 |
 
-Navires adhérant à l'organisation
+Filets maillants et filets emmêlants, à l'exception des trémails (GN)
 
-de producteurs Les Pêcheurs de Bretagne
+|
+
+Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
@@ -50,13 +30,11 @@ de producteurs Les Pêcheurs de Bretagne
 
 |
 
-―
+-
 
 |
 
-Navires adhérant à l'organisation
-
-de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM NORD)
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM NORD)
 
 |
 
@@ -64,17 +42,15 @@ de producteurs Fonds régional d'organisation du marché du poisson du Nord-Norm
 
 |
 
-―
+-
 
 |
 
-―
+471
 
 |
 
-Navires adhérant à l'organisation
-
-de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest)
+Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest)
 
 |
 
@@ -82,17 +58,15 @@ de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-Navires adhérant à l'organisation
-
-de producteurs Vendée
+Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
@@ -100,123 +74,123 @@ de producteurs Vendée
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-Navires adhérant à l'organisation
-
-de producteurs Coopérative maritime étaploise (CME)
+Navires adhérant à l'organisation de producteurs Coopérative maritime étaploise (CME)
 
 |
 
-|
-
-―
+-
 
 |
 
-―
+-
 
 |
 
-Navires adhérant à l'organisation
-
-de producteurs marins-pêcheurs de Basse-Normandie (OPBN)
+-
 
 |
 
-|
-
-―
+Navires adhérant à l'Organisation de producteurs marins pêcheurs de Basse-Normandie (OPBN)
 
 |
 
-―
+-
 
 |
 
-Navires adhérant à l'organisation
-
-de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
+-
 
 |
 
-|
-
-―
+-
 
 |
 
-―
+Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN)
 
 |
 
-Navires adhérant à l'organisation
-
-de producteurs Organisation de producteurs de La Cotinière
+-
 
 |
 
-|
-
-―
+-
 
 |
 
-―
+-
 
 |
 
-Navires adhérant à l'organisation
-
-de producteurs des pêcheurs d'Aquitaine
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
 
 |
 
-|
-
-―
+-
 
 |
 
-―
+-
 
 |
 
-Navires adhérant à l'organisation
-
-de producteurs Coopérative Bretagne-Nord (COBRENORD)
+-
 
 |
 
-|
-
-―
+Navires adhérant à l'organisation de producteurs des pêcheurs d'Aquitaine
 
 |
 
-―
+-
 
 |
 
-Navires n'adhérant pas à une organisation
-
-de producteurs
+-
 
 |
 
-|
-
-―
+-
 
 |
 
-471
+Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (COBRENORD)
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Navires n'adhérant pas à une organisation de producteurs
+
+|
+
+-
+
+|
+
+-
+
+|
+
+-
 
 |
 
@@ -228,11 +202,11 @@ Réserve nationale
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
