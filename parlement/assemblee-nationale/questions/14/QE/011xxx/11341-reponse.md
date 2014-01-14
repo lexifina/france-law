@@ -1,0 +1,9 @@
+# Réponse à la question n° 11341
+
+- Question : [11341](11341.md) — Question n° 11341 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2014-01-14*
+
+Le comité interministériel de la modernisation de l'action publique du 18 décembre 2012 a acté de la suppression d'un certain nombre d'instances de concertation. C'est dans ce cadre que le décret n° 2013-420 du 23 mai 2013, en son article 56, porte suppression du conseil stratégique du commerce de proximité. Le conseil stratégique du commerce de proximité avait été créé par l'article 100 de la loi de modernisation de l'économie du 4 août 2008. Composé de parlementaires nommés par les présidents des deux assemblées, de maires nommés par le ministre en charge du commerce et de personnalités qualifiées : universitaires, responsables d'associations, président de chambre de commerce et d'industrie, représentants des consommateurs, représentants de l'Etat, il était présidé par M. Gérard Cornu, sénateur d'Eure et Loir. Cette instance ne s'est réunie qu'une seule fois, en juin 2010, à l'invitation du ministre en charge du commerce. A cette occasion, ses membres ont pris connaissance des travaux de la commission d'orientation du commerce de proximité. Le secrétariat du conseil stratégique était assuré par le chef du bureau des activités artisanales et commerciales de la direction générale de la compétitivité, de l'industrie et des services. Aucune charge financière ne pèse sur le budget de l'Etat au titre du fonctionnement de ce conseil. La création d'une commission de concertation du commerce, est actuellement envisagée, telle que présentée dans le cadre du Plan d'action en faveur du commerce et des commerçants présenté en conseil des ministres en août 2013. Cette instance aurait pour mission d'éclairer et de conseiller les pouvoirs publics sur la situation du commerce en France.
