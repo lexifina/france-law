@@ -1,0 +1,9 @@
+# Réponse à la question n° 4320
+
+- Question : [4320](4320.md) — Question n° 4320 — bicyclettes; usage; développement; propositions
+
+## Réponse
+
+*JO du 2014-01-14*
+
+Le Gouvernement a réaffirmé son engagement en faveur du vélo en installant, le 3 juin dernier, sous l'autorité du ministre délégué, chargé des transports, de la mer et de la pêche un comité de pilotage interministériel, appelé à définir les objectifs et les mesures à prendre pour développer les « mobilités actives », et tout particulièrement la marche et le vélo. Ce comité de pilotage qui doit proposer un plan d'action vélo avant la fin de l'année 2013, a confié à plusieurs sous-groupes de travail le soin d'étudier les mesures permettant de développer ces modes de déplacements alternatifs aux véhicules motorisés, dont les avantages en termes d'environnement, de santé, d'économie et de vie sociale sont évidents. Parmi les mesures envisagées, le programme « cycle to work » existant en Grande-Bretagne a fait l'objet d'une première évaluation parmi d'autres mesures possibles d'encouragement de la pratique du vélo pour les déplacements domicile travail. Le système anglais consiste à permettre aux entreprises volontaires de pré-financer l'achat d'un vélo pour leurs employés en s'appuyant sur des sociétés de services assurant le lien entre les professionnels de la vente du vélo et les entreprises. Les employés choisissent un vélo dans un magasin partenaire, l'entreprise le paye, et les employés l'acquièrent en 12 mensualités déduites de leurs salaires, à un prix concurrentiel dans la mesure où les frais d'achat correspondants sont exonérés d'impôts et de cotisations sociales. Ce système qui apparaît susceptible d'entraîner un effet d'aubaine dans la mesure où rien n'impose à l'employé de se servir du vélo ainsi acquis pour ses déplacements quotidiens n'a pas été retenu, à ce stade, dans les orientations du plan national d'actions en faveur des modes actifs en préparation.
