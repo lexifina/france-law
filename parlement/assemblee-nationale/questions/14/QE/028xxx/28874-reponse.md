@@ -1,0 +1,9 @@
+# Réponse à la question n° 28874
+
+- Question : [28874](28874.md) — Question n° 28874 — peines-planchers; perspectives
+
+## Réponse
+
+*JO du 2014-01-14*
+
+La circulaire de politique pénale de la Garde des Sceaux du 19 septembre 2012 a rappelé que, si le traitement de la récidive doit s'accompagner d'une indispensable fermeté, il ne doit pas pour autant s'abstraire du principe d'individualisation de la réponse pénale tant à l'occasion de l'engagement des poursuites et de l'audience que lors de la mise en oeuvre de la peine. S'agissant des peines-plancher, en l'état actuel du droit, les parquets sont invités à tenir compte dans leurs choix de poursuites et dans leurs réquisitions de la situation personnelle, sociale et économique de chaque prévenu, conformément aux dispositions de l'article 132-18-1 du code pénal. Le caractère juste et adapté de la peine prononcée est de nature à prévenir le risque de récidive tout en favorisant la compréhension de la sanction ainsi qu'une meilleure réinsertion du condamné. Plus généralement, les peines-plancher ont généré 4000 années supplémentaires d'emprisonnement par an depuis 2007 et corrélativement, la durée moyenne de détention a cru de 8,2 à 11,3 mois. Par ailleurs, pour éviter leur application, les tribunaux prononcent plusieurs milliers de peines de sursis avec mise à l'épreuve (SME) qui ne sont pas nécessairement adaptées et ajoutent à l'encombrement des services pénitentiaires d'insertion et de probation (SPIP). La Garde des Sceaux rappelle que dans le cadre du projet de loi visant à prévenir la récidive et à renforcer l'individualisation des peines, si les peines-planchers sont abrogées, le doublement de la peine encourue en cas de récidive légale (RL) reste en vigueur et les juges peuvent donc se prononcer avec toute la sévérité qu'ils estiment nécessaire.
