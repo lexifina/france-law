@@ -1,0 +1,9 @@
+# Réponse à la question n° 15562
+
+- Question : [15562](15562.md) — Question n° 15562 — recours à un avocat; cour de cassation
+
+## Réponse
+
+*JO du 2014-01-14*
+
+La représentation obligatoire en matière prud'homale devant la Cour de cassation a été introduite par le décret 2004-836 du 20 août 2004 portant modification de la procédure civile, mesure qui est entrée en vigueur pour les pourvois formés à l'encontre des décisions rendues à compter du 1er janvier 2005. Avant cette date, alors que moins de 1 % des pourvois formés devant la chambre sociale de la Haute juridiction faisaient l'objet d'une procédure avec représentation obligatoire, dans près de 80 % des cas, les mémoires étaient en réalité d'ores et déjà déposés pour les parties par l'entremise d'un avocat aux Conseils. Par ailleurs, s'il est vrai que le nombre des recours introduits devant la chambre sociale a connu une inflexion importante entre 2005 et 2008, une tendance inverse peut être observée depuis 2009, le nombre de saisines en 2011 étant pratiquement équivalent à celui de 2006. Dans ce contexte, il apparaît que l'intervention systématique de l'avocat aux Conseils n'a pas manqué de produire son plein effet positif pour les demandeurs car, si le nombre de rejets de pourvois est resté stable depuis 2005 (32 % des décisions rendues), le nombre de non-admission des pourvois a quant à lui été pratiquement divisé par 3 (16 % en 2011), la part des cassations passant corrélativement de 23 à 52 %. Ainsi, l'introduction de la représentation obligatoire par avocat aux Conseils devant la Cour de cassation en matière prudhomale, n'a non seulement pas eu pour effet de limiter les pourvois engagés par les salariés, mais a, en revanche, accru leurs chances de voir examiner leur affaire. Au vu de ces éléments, il n'est pas envisagé de revenir sur le principe de la représentation obligatoire devant la Cour de cassation en matière prud'homale.
