@@ -1,0 +1,9 @@
+# Réponse à la question n° 15353
+
+- Question : [15353](15353.md) — Question n° 15353 — missions; compétences; propositions
+
+## Réponse
+
+*JO du 2014-01-14*
+
+Pour assurer sa mission de formation des cadres supérieurs des collectivités territoriales, le centre national de la fonction publique territoriale (CNFPT) a mis en place une structure, l'institut national des études territoriales (INET), qui accueille les publics sous statut d'élèves, notamment les administrateurs territoriaux, et des cadres territoriaux en formation statutaire obligatoire et en formation tout au long de la vie. Au cours de leur scolarité à l'INET, les élèves administrateurs territoriaux suivent des enseignements communs avec les élèves de l'école nationale d'administration (ENA). Comme le prévoit l'article 6-1 du décret du 30 décembre 1987 portant statut particulier du cadre d'emplois des administrateurs territoriaux, une convention entre le CNFPT et l'ENA fixe les conditions d'organisation pédagogique, financière ainsi que les modalités d'évaluation de la partie des sessions théoriques communes aux élèves administrateurs territoriaux et aux élèves de l'école nationale d'administration. C'est ainsi que les élèves participent au module « Territoires », co-élaboré par l'ENA et l'INET, orienté vers l'administration territoriale et les collectivités territoriales. Les élèves de ces deux écoles travaillent ensemble pendant toute la durée du module au cours duquel ils partagent les mêmes enseignements. Cette coopération a vocation à être encore renforcée notamment en examinant comment des stages communs peuvent être mis en place. Il appartient au CNFPT de mettre en oeuvre les dispositifs nécessaires pour conforter la position de l'INET dans la formation spécifique dispensée aux futurs cadres supérieurs de la fonction publique territoriale tout en s'ouvrant aux autres fonctions publiques.
