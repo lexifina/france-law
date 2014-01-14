@@ -1,0 +1,9 @@
+# Réponse à la question n° 16025
+
+- Question : [16025](16025.md) — Question n° 16025 — réglementation
+
+## Réponse
+
+*JO du 2014-01-14*
+
+Le droit fiscal de l'urbanisme présente par nature un caractère déclaratif. Le juge administratif assimile la demande de permis de construire à une déclaration d'un fait générateur d'un impôt. Les éléments d'assiette ainsi déclarés pour le calcul de la taxe d'aménagement peuvent être remis en cause par l'administration, notamment la qualification de résidence principale, dans l'hypothèse où les constructions autorisées ont en réalité la destination de résidence secondaire. Elle dispose pour cela d'une possibilité de contrôle a posteriori dans le cadre du droit de reprise qui s'exerce jusqu'au 31 décembre de la troisième année qui suit, selon les cas, celle de la délivrance de l'autorisation de construire ou d'aménager, celle de la décision de non opposition ou celle à laquelle l'autorisation est réputée avoir été accordée (article L. 331-21 du code de l'urbanisme). L'administration ne peut toutefois modifier ainsi les bases d'assiette déclarées par le constructeur qu'en mettant en oeuvre la procédure de rectification contradictoire prévue par les articles L. 55 et suivants du livre des procédures fiscales. Cette procédure permet au constructeur de faire valoir pleinement le bien-fondé des éléments d'assiette qu'il a déclarés. Même en cas de construction sans autorisation, la procédure de taxation d'office accorde au contrevenant un délai de trente jours pour formuler ses observations, notamment pour préciser si la construction projetée est destinée à l'habitation principale ou secondaire, avant notification du principal des taxes et des pénalités. La définition de la résidence principale doit s'entendre au sens large. Elle peut ainsi être celle du constructeur, du futur propriétaire ou celle du futur locataire.
