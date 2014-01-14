@@ -1,0 +1,53 @@
+# Travail : développement, encadrement des stages et statut des stagiaires
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N32257
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/developpement_encadrement_stages
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl13-396.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-01-14 : 1er dépôt d'une initiative. (PIONANR5L14B1701)
+  - 2014-01-29 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-01-14 : Renvoi en commission au fond
+      - 2014-01-21 : Nomination de rapporteur
+      - 2014-02-12 : Réunion de commission
+      - 2014-02-19 : Réunion de commission
+      - 2014-02-12 : Dépôt de rapport (RAPPANR5L14B1792, PIONANR5L14BTC1792)
+  - Discussion en séance publique
+    - 2014-02-19 : Discussion en séance publique
+    - 2014-02-24 : Discussion en séance publique
+    - 2014-02-24 : Discussion en séance publique
+    - 2014-02-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-02-25 : Dépôt d'une initiative en navette (PIONSNR5S219B0396)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-02-25 : Renvoi en commission au fond
+      - 2014-02-26 : Nomination de rapporteur
+      - 2014-04-16 : Dépôt de rapport (RAPPSNR5S219B0458)
+  - Discussion en séance publique
+    - 2014-04-29 : Discussion en séance publique
+    - 2014-05-06 : Discussion en séance publique
+    - 2014-05-14 : Discussion en séance publique
+    - 2014-05-14 : Décision
+- Commission Mixte Paritaire
+  - 2014-05-15 : Dépôt d'un projet de loi (PIONANR5L14B1950)
+  - 2014-05-16 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-06-03 : Nomination de rapporteur
+    - 2014-06-03 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0572)
+    - 2014-06-04 : Dépôt du rapport d'une CMP (RAPPANR5L14B1996)
+  - Discussion en séance publique
+    - 2014-06-12 : Discussion en séance publique
+    - 2014-06-12 : Décision
+  - Discussion en séance publique
+    - 2014-06-26 : Discussion en séance publique
+    - 2014-06-26 : Décision
+  - 2014-06-04 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-07-10 : Promulgation d'une loi
