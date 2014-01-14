@@ -1,0 +1,9 @@
+# Réponse à la question n° 41297
+
+- Question : [41297](41297.md) — Question n° 41297 — redevance; perspectives
+
+## Réponse
+
+*JO du 2014-01-14*
+
+L'article 16 de la loi n° 2011-1843 du 8 décembre 2011 sur les certificats d'obtention végétale (COV) prévoit l'intervention de deux décrets en Conseil d'État. Le premier décret vise à étendre éventuellement la liste des espèces pour lesquelles les agriculteurs ont le droit d'utiliser sur leur propre exploitation, sans l'autorisation de l'obtenteur, à des fins de reproduction ou de multiplication, le produit de la récolte qu'ils ont obtenu par la mise en culture d'une variété protégée, ce qu'on appelle les « semences de ferme ». Ce projet de décret est en cours d'élaboration par les services du ministère de l'agriculture, de l'agroalimentaire et de la forêt (MAAF) en concertation avec l'ensemble des parties prenantes intéressées. Le second décret définit l'indemnité due par l'agriculteur qui utilise des semences de ferme à l'obtenteur dans les cas où aucun contrat entre agriculteur et obtenteur ou aucun accord interprofessionnel n'a été conclu (nouveaux articles L. 623-24-1 à L. 623-24-5 du code de la propriété intellectuelle). Cependant, le MAAF souhaite laisser préalablement la place à la discussion interprofessionnelle, pour la mise en place d'accords respectant les intérêts de l'ensemble des acteurs. Deux ingénieurs généraux ont été mandatés pour faciliter la conclusion rapide de tels accords. Un premier accord interprofessionnel a été signé dans le domaine des céréales à paille par l'ensemble des membres de la section « céréales à paille et protéagineux » du groupement national interprofessionnel des semences et des plans (GNIS) le 14 juin 2013 et l'arrêté d'homologation a été publié le 28 juin 2013. Les discussions se poursuivent actuellement dans les autres secteurs.
