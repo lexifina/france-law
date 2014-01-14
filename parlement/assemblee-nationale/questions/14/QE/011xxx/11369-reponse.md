@@ -1,0 +1,9 @@
+# Réponse à la question n° 11369
+
+- Question : [11369](11369.md) — Question n° 11369 — prostitution; lutte et prévention; Gard
+
+## Réponse
+
+*JO du 2014-01-14*
+
+Les Juridictions interrégionales Spécialisées ont naturellement vocation à se saisir de ces nouvelles formes de criminalité transfrontalière que constituent les réseaux de proxénétisme. La compétence de ces juridictions en matière de lutte contre le proxénétisme relève de l'application du 5° et 6° de l'article 706-73 du code de procédure pénale qui visent les « crimes et délits aggravés de traite des êtres humains prévus par les articles 225-4-2 à 225-4-7 du code pénal » et les « crimes et délits aggravés de proxénétisme prévus par les articles 225-7 à 225-12 du code pénal ». Les mentions précitées de l'article 706-73 du code de procédure pénale permettent de recourir aux techniques spéciales d'enquête (surveillances, infiltrations, sonorisations et fixations d'images de certains lieux ou véhicules, saisies conservatoires et écoutes téléphoniques). Ainsi, depuis 2007, environ cent cinquante condamnations par an sont prononcées du chef de proxénétisme. Il convient de souligner que les peines prononcées par les tribunaux dans le cadre de ces procédures sont importantes, comportant souvent des peines d'emprisonnement égales ou supérieures à cinq ans. Il apparaît ainsi que l'implication des magistrats et services d'enquête dans la lutte contre ce phénomène criminel est d'ores et déjà importante. Par ailleurs, la proposition de loi renforçant la lutte contre le système prostitutionnel, adoptée en première lecture par l'Assemblée nationale le 4 décembre 2013, contient un volet de mesures visant à renforcer les moyens d'enquête et de poursuite contre la traite des êtres humains et le proxénétisme. Elle préconise également des actions de coopération internationale et européenne pour lutter plus efficacement contre ce phénomène.
