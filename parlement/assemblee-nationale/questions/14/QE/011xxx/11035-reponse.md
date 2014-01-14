@@ -1,0 +1,9 @@
+# Réponse à la question n° 11035
+
+- Question : [11035](11035.md) — Question n° 11035 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2014-01-14*
+
+La commission interministérielle des dépôts d'hydrocarbures (CIDH) a été créée par le décret n° 95-477 du 27 avril 1995 afin d'étudier les problématiques relatives aux conditions d'établissement, d'impact sur la sécurité des approvisionnements et de protection d'installations pétrolières. Elle donne également un avis sur les conditions de réalisation des stocks stratégiques pétroliers. Placée auprès du ministre chargé de l'énergie, la CIDH est composée de 10 membres permanents représentant des directeurs des administrations concernées. Les membres de la CIDH se réunissent, en moyenne, une fois par an. La CIDH est réunie sur convocation de la direction générale de l'énergie et du climat (DGEC) dans le cadre de : - l'approbation du plan de localisation des stocks stratégiques placés sous l'autorité du Comité professionnel des stocks stratégiques pétroliers (CPSSP) (article 7 du décret n° 93-132 du 29 janvier 1993) ; - l'autorisation, l'acquisition ou la construction d'une usine exercée de raffinage ou l'arrêt définitif d'une ou plusieurs installations comprises dans une usine exercée de raffinage (article L. 641-2 du code de l'énergie) ; - procédures d'agrément des installations dans lesquelles sont logés des produits pétroliers stratégiques (article 5 du décret n° 93-131 du 29 janvier 1993) ; - l'instruction des travaux mixtes à l'échelon central (article 10 du décret du 4 août 1955) et l'autorisation de stockages souterrains d'hydrocarbures (article 16 du décret du 23 avril 1985) ; - l'infraction à la législation sur les stocks stratégiques mentionnée à l'article L. 142-14 du code de l'énergie. La CIDH ne requiert pas de coûts de fonctionnement, son secrétariat étant assuré par la DGEC.
