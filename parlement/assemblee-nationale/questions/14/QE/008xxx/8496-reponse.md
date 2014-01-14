@@ -1,0 +1,9 @@
+# Réponse à la question n° 8496
+
+- Question : [8496](8496.md) — Question n° 8496 — certification; réglementation
+
+## Réponse
+
+*JO du 2014-01-14*
+
+Chaque individu passe en moyenne 80 % de son temps au sein d'un bâtiment. Aussi convient-il d'accorder la plus haute vigilance aux conditions de vie et de confort en son sein, notamment en termes de sécurité et de santé. La mise en oeuvre des réglementations portant sur les conditions de sécurité sanitaires ou environnementales du logement nécessitent de faire appel à des personnels qualifiés en réponse aux exigences sociétales en matière de sécurité et de confort du logement. L'évolution des réglementations liées à l'amiante, et par suite, des conditions de certification des entreprises pour les travaux de désamiantage, a rendu nécessaire le reclassement de certaines entreprises en cohérence avec les nouvelles conditions de certification. En effet, les travaux portant sur de l'amiante friable ou non friable étaient auparavant couverts par deux niveaux de certification différents. Ces deux niveaux sont désormais intégrés dans une unique certification présentant de nouvelles exigences. Des travaux ont été menés avec le ministère en charge du travail afin d'établir les priorités nécessaires en lien avec ce reclassement. De par le caractère risqué des activités de désamiantage, les demandes de certification requièrent un examen minutieux, complété par un audit de l'entreprise. Par ailleurs, l'entreprise doit avoir suivi l'ensemble des formations nécessaires à la garantie de la sécurité et la santé des travailleurs, qui reste une priorité. Le ministère de l'égalité des territoires et du logement travaille toutefois en étroite coopération avec les organismes de certification afin d'optimiser les délais. Cette approche participe de la nécessité d'accompagner la montée en compétence des professionnels du bâtiment pour répondre aux enjeux.
