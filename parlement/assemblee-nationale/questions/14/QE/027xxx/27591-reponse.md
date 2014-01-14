@@ -1,0 +1,9 @@
+# Réponse à la question n° 27591
+
+- Question : [27591](27591.md) — Question n° 27591 — conditions d'accès
+
+## Réponse
+
+*JO du 2014-01-14*
+
+Les Français de l'étranger peuvent bénéficier de l'aide juridictionnelle lorsque le litige se déroule sur le territoire français en application de l'article 3 de la loi du 10 juillet 1991 relative à l'aide juridique. Si le litige a lieu en dehors du territoire français et dans un Etat membre de l'Union européenne, les Français de l'étranger peuvent avoir accès au dispositif d'aide juridique de cet autre Etat en matière civile et commerciale en application de la directive du 27 janvier 2003 visant à améliorer l'accès à la justice dans les affaires transfrontalières par l'établissement de règles minimales communes relatives à l'aide judiciaire accordée dans le cadre de telles affaires. Sur le plan pénal, si aucun texte similaire ne garantit un accès des Français de l'étranger aux dispositifs d'aide juridique des Etats membres de l'Union européenne, les droits nationaux offrent parfois une protection à leurs résidents, non nationaux. En outre, les services de la chancellerie oeuvrent, avec la Commission européenne, à l'élaboration d'un instrument juridique communautaire permettant une harmonisation de l'aide judiciaire au sein de l'Union européenne en matière pénale, ce qui bénéficierait aux Français de l'étranger. En dehors de l'Union européenne, la France a conclu un grand nombre de conventions bilatérales et multilatérales qui permettent aux Français de l'étranger de bénéficier du système d'aide juridique d'Etats tiers. En l'absence d'une telle convention, les Français de l'étranger doivent se tourner vers le droit de l'Etat du for. Ainsi, la protection juridique des Français de l'étranger s'étend au fil des réformes, évolution qui fait avancer l'Etat de droit et à laquelle les travaux de la chancellerie s'associent constamment.
