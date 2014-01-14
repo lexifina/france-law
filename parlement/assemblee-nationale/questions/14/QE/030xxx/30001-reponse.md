@@ -1,0 +1,9 @@
+# Réponse à la question n° 30001
+
+- Question : [30001](30001.md) — Question n° 30001 — plantations; simplification
+
+## Réponse
+
+*JO du 2014-01-14*
+
+Les règles relatives aux plantations situées en limite de propriété définies par les articles 670 à 673 du code civil s'inscrivent dans le cadre des dispositions relatives aux servitudes de mitoyenneté entre deux fonds. L'article 671 du code civil définit la distance des plantations situées en limite séparative de propriété de manière supplétive, en l'absence d'usages locaux. Dans ce cas, les plantations dont la hauteur dépasse deux mètres doivent être implantées à deux mètres de la ligne séparative des fonds et à la distance d'un demi-mètre pour les autres. Toutefois, en cas de trouble de voisinage causé au fonds voisin, le juge faisant application de la théorie prétorienne des troubles de voisinage, peut contraindre le propriétaire des plantations à procéder à leur élagage, quelle que soit la distance de plantation. La jurisprudence détermine dans le cadre de son pouvoir souverain d'appréciation et en fonction des cas d'espèce les obligations qui doivent être imposées au propriétaire. Cette appréciation au cas par cas permet d'appliquer de manière fine et souple des règles destinées avant tout à créer les conditions d'un bon voisinage entre propriétaires de fonds jointifs et d'atteindre un équilibre entre les droits et les obligations de chacun des propriétaires riverains. L'article R. * 116-2 du code de la voirie routière, qui prévoit notamment une contravention de 5e classe à l'encontre de ceux qui, « en l'absence d'autorisation, auront établi ou laissé croître des arbres ou haies à moins de deux mètres de la limite du domaine public routier », a un tout autre objet puisqu'il est relatif à la police de la conservation du domaine public routier. Les règles ainsi édictées ont chacune une finalité spécifique et constituent dans un même domaine un dispositif juridique complet et cohérent.
