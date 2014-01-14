@@ -1,0 +1,9 @@
+# Réponse à la question n° 5941
+
+- Question : [5941](5941.md) — Question n° 5941 — agences d'État; rapport; propositions
+
+## Réponse
+
+*JO du 2014-01-14*
+
+Sur le principe, ce type d'agences peut, en effet, poser des difficultés en matière de finances publiques, notamment sur le plan du pilotage global des engagements. Cependant, l'application des nouvelles règles de comptabilité publique issues du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique unifie le pilotage budgétaire de l'État et des organismes concernés. La plupart de ces agences dites « transparentes » sont bénéficiaires de taxes affectées. La loi de finances initiale pour 2013 a étendu le plafonnement des taxes affectées et diminué certains plafonds. Cette disposition s'inscrit dans un mouvement de fond de meilleur encadrement des taxes affectées organisé par les articles 11 et 20 du projet de loi de programmation des finances publiques 2012-2017. Ces deux articles prévoient d'une part, que le plafonnement des taxes affectées doit s'étendre et par la diminution des plafonds de certaines taxes, générer des économies significatives d'ici 2015 et, d'autre part, que l'ensemble des taxes affectées doivent faire l'objet d'une évaluation avant le 30 juin 2013 qui portera sur le rendement, la pertinence de l'affectation de ces impositions et l'opportunité de réintégrer la ressource correspondante au sein du budget de l'État. Cette évaluation réalisée par le conseil des prélèvements obligatoires et transmise au Parlement à l'été 2013, sert de base aux décisions qui sont prises quant aux taxes affectées à des agences de l'État, notamment en termes de plafonnement et de rebudgétisation. Au-delà, une approche au cas par cas est nécessaire, dans le cadre de l'évaluation des politiques publiques ou des audits d'organismes, car ces agences sont rarement intégralement transparentes.
