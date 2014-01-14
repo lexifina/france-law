@@ -1,0 +1,9 @@
+# Réponse à la question n° 30732
+
+- Question : [30732](30732.md) — Question n° 30732 — RD n° 9; aménagement; environnement; conséquences
+
+## Réponse
+
+*JO du 2014-01-14*
+
+Le dédoublement de la RD 9 est un projet porté par le Conseil général des Bouches-du-Rhône, qui en est le maître d'ouvrage. Les services de l'État veillent tout particulièrement, sous l'autorité du préfet, au respect des procédures et à la prise en compte des enjeux environnementaux. Ils y sont attentifs dès lors qu'ils sont saisis du dossier et de son instruction au titre des procédures applicables. En ce qui concerne la RD 9, une analyse comparative des avantages et des inconvénients des huit variantes initiales a été menée. À l'issue de cette seconde concertation publique, deux se sont détachées : l'une plus au nord, l'autre qui porte le nom de Réaltor. Après les différentes phases de concertation, le Conseil général des Bouches-du-Rhône a choisi la variante sud, car c'est le projet le moins impactant d'un point de vue environnemental. Le projet est bien identifié, les enjeux environnementaux du territoire concerné sont pris en compte, et les mesures envisagées pour supprimer et réduire les impacts sont appropriées au contexte et auxdits enjeux. La mise en place d'un système d'assainissement performant permettra notamment de sécuriser la réserve d'eau de l'agglomération marseillaise. La gestion des écoulements superficiels et le redimensionnement d'un certain nombre d'ouvrages réduiront également le risque d'inondations, de destruction de la faune piscicole et de mise en péril de l'équilibre et de la richesse de l'écosystème. Contrairement à la variante nord, la solution proposée préserve quasiment l'intégralité du vaste ensemble naturel de l'Arbois. Une étude a précisément conclu à l'absence d'incidence significative sur le site Natura 2 000. C'est la raison pour laquelle le préfet a signé une déclaration d'utilité publique au profit de la variante sud.
