@@ -1,0 +1,9 @@
+# Réponse à la question n° 32256
+
+- Question : [32256](32256.md) — Question n° 32256 — cinémas d'art et essai; perspectives
+
+## Réponse
+
+*JO du 2014-01-14*
+
+La densité et la diversité du parc de salles de cinéma en France est éminemment liée à la grande variété des statuts de leurs exploitants : privés, associatifs ou publics. Et si une très large part des exploitations cinématographiques est de statut public, qu'il s'agisse d'une exploitation en régie directe, en délégation de service public..., c'est le signe à la fois d'un engagement et d'un attachement forts de l'ensemble des collectivités territoriales, quel qu'en soit l'échelon, à l'activité cinématographique, gage de diversité culturelle, de lien social et de valeur ajoutée économique. Le public ne peut que se féliciter de cette forte implication des pouvoirs publics grâce à laquelle aucun citoyen en France ne se trouve éloigné d'un lieu de projection cinématographique et ce, y compris dans les zones rurales. Mais il n'en demeure pas moins que ces établissements de spectacles cinématographiques et leurs salariés sont soumis aux différents lois et règlements en vigueur, qu'il s'agisse du code des collectivités territoriales, du code du cinéma et de l'image animée ou, naturellement, du code du travail. Il n'appartient pas au Gouvernement d'interférer dans d'éventuels conflits opposant des salariés de ces structures à leurs employeurs mais, le cas échéant, aux tribunaux compétents. Cependant, si de telles situations conduisaient à porter préjudice à la qualité de la programmation cinématographique ou à celle de l'animation culturelle et de l'accueil du public, le ministère de la culture et de la communication, via le Centre national du cinéma et de l'image animée, en tiendrait compte, notamment dans le cadre du classement des salles art et essai.
