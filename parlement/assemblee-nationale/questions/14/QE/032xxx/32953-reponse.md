@@ -1,0 +1,9 @@
+# Réponse à la question n° 32953
+
+- Question : [32953](32953.md) — Question n° 32953 — opérations de promotion; mise en place
+
+## Réponse
+
+*JO du 2014-01-14*
+
+La perspective du prochain renouvellement des institutions européennes constitue un véritable enjeu démocratique, plus encore dans un contexte marqué par des interrogations dans l'opinion publique sur le projet européen. Dans la perspective des élections européennes de 2014, un effort significatif sera ainsi réalisé en matière de communication. Il inclura notamment la diffusion de spots télévisés, l'organisation de débats rassemblant la société civile et le grand public et une campagne web plus spécifiquement ciblée à l'endroit des jeunes et des primo-votants. Ces initiatives seront naturellement conduites dans le plein respect des impératifs réglementaires et des obligations de réserve en matière de communication pré-électorale. De même, cette communication active, devra garantir la neutralité de l'information et respecter la libre détermination des citoyens. La communication sur les questions européennes s'appuie sur une coordination éprouvée et nourrie entre le Ministère des affaires étrangères et les représentations en France de la Commission et du Parlement européen. Depuis 2008, un partenariat de gestion a permis de mettre en place une stratégie commune de financement des actions institutionnelles et de la société civile tout en rationnalisant les dépenses engagées. Il devrait prendre une forme nouvelle dans les prochains mois pour s'adapter aux moyens que la Commission sera en mesure de lui accorder dans le cadre de la nouvelle programmation financière 2014-2020. Une contribution de l'Assemblée nationale à cet effort de communication quelle que soit sa forme constituerait également un signal fort de mobilisation des pouvoirs publics dans leur ensemble.
