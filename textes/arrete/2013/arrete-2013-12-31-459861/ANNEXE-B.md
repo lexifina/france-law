@@ -1,0 +1,211 @@
+# Article ANNEXE B
+
+ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE
+
+DÉPARTEMENT DE RÉSIDENCE
+
+du centre de services partagés
+
+|
+
+COMPTABLE PRINCIPAL ASSIGNATAIRE
+
+|
+
+Les premier président et procureur général de la cour d'appel d'Aix-en-Provence
+
+|
+
+Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et
+
+du département des Bouches-du-Rhône
+
+|
+
+Le responsable de la plate-forme interrégionale d'Aix-en-Provence
+
+|
+
+Les premier président et procureur général de la cour d'appel de Dijon
+
+|
+
+Direction régionale des finances publiques de Bourgogne et du département de la Côte-d'Or
+
+|
+
+Les premier président et procureur général de la cour d'appel d'Orléans
+
+|
+
+Le responsable de la plate-forme interrégionale de Dijon
+
+|
+
+Les premier président et procureur général de la cour d'appel de Toulouse
+
+|
+
+Direction régionale des finances publiques de Midi-Pyrénées et du
+
+département de la Haute-Garonne
+
+|
+
+Les premier président et procureur général de la cour d'appel de Montpellier
+
+|
+
+Le responsable de la plate-forme interrégionale de Toulouse
+
+|
+
+Les premier président et procureur général de la cour d'appel de Bordeaux
+
+|
+
+Direction départementale des finances publiques des Pyrénées-Atlantiques
+
+|
+
+Les premier président et procureur général de la cour d'appel de Poitiers
+
+|
+
+Le responsable de la plate-forme interrégionale de Bordeaux
+
+|
+
+Les premier président et procureur général de la cour d'appel de Rennes
+
+|
+
+Direction régionale des finances publiques de Bretagne et du département
+
+d'Ille-et-Vilaine
+
+|
+
+Les premier président et procureur général de la cour d'appel de Caen
+
+|
+
+Le responsable de la plate-forme interrégionale de Rennes
+
+|
+
+Les premier président et procureur général de la cour d'appel de Nancy
+
+|
+
+Direction départementale des finances publiques de Meurthe-et-Moselle
+
+|
+
+Les premier président et procureur général de la cour d'appel de Metz
+
+|
+
+Les premier président et procureur général de la cour d'appel de Colmar
+
+|
+
+Le responsable de la plate-forme interrégionale de Nancy
+
+|
+
+Les premier président et procureur général de la cour d'appel de Douai
+
+|
+
+Direction régionale des finances publiques de Nord - Pas-de-Calais et du
+
+département du Nord
+
+|
+
+Les premier président et procureur général de la cour d'appel d'Amiens
+
+|
+
+Le responsable de la plate-forme interrégionale de Lille
+
+|
+
+Les premier président et procureur général de la cour d'appel de Lyon
+
+|
+
+Direction départementale des finances publiques de la Savoie
+
+|
+
+Les premier président et procureur général de la cour d'appel de Grenoble
+
+|
+
+Le responsable de la plate-forme interrégionale de Lyon
+
+|
+
+Les premier président et procureur général de la cour d'appel de Versailles
+
+|
+
+Direction départementale des finances publiques des Yvelines
+
+|
+
+Les premier président et procureur général de la cour d'appel de Paris
+
+|
+
+Direction départementale des finances publiques des Hauts-de-Seine
+
+|
+
+Le responsable de la plate-forme interrégionale d'Ile-de-France
+
+(Savigny-sur-Orge)
+
+|
+
+Direction départementale des finances publiques de l'Essonne
+
+|
+
+Le directeur de l'établissement pénitentiaire de Ducos (Martinique)
+
+|
+
+Direction régionale des finances publiques de la Martinique
+
+|
+
+Le directeur de l'établissement pénitentiaire du Port (La Réunion)
+
+|
+
+Direction régionale des finances publiques de La Réunion
+
+|
+
+Le directeur de l'établissement pénitentiaire de Nouméa
+
+(Nouvelle-Calédonie)
+
+|
+
+Direction des finances publiques de Nouvelle-Calédonie
+
+|
+
+Les premier président et procureur général de la cour d'appel de Papeete
+
+(Polynésie française)
+
+|
+
+Trésorerie générale de la Polynésie française
+
+|
