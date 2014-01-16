@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008427
+
+- Question : [SEQ131008427](seq131008427.md) — Inégalité de traitement dans l'avancement des adjoints administratifs de première classe et des adjoints techniques de première classe
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2014-01-16, page 183*
+
+Avant d'engager une profonde réforme de la fonction publique sur la base du rapport remis par M. Bernard Pêcheur, conseiller d'État, le Gouvernement a considéré qu'il convenait d'engager, sans attendre, une revalorisation des corps et cadres d'emplois de catégorie C des trois versants de la fonction publique. À cet effet, il a engagé au cours de l'année 2013, en concertation avec les organisations syndicales, des travaux pour une revalorisation de la carrière des fonctionnaires de catégorie C. C'est ainsi que, depuis le mois de juillet 2013, les grilles de rémunération de l'ensemble des agents de catégorie C, quelle que soit la filière des métiers dont ils relèvent, peuvent accéder de manière linéaire au 8è échelon des grades dotés de l'échelle 6 de rémunération (indice brut 499, majoré 430). De plus, il est prévu que cette grille indiciaire soit réformée en deux temps : au 1er février 2014, la durée de certains échelons va être revue, notamment en échelle 3, et l'échelonnement indiciaire sera revalorisé et au 1er janvier 2015, l'ensemble des échelons seront augmentés de 5 points d'indices majorés. Au cours de ces mêmes travaux, le Gouvernement a également proposé d'harmoniser les modalités d'avancement de grade de la catégorie C afin d'effacer les différences existantes entre les règles d'avancement de grade applicables aux fonctionnaires de la filière technique et celles applicables aux autres fonctionnaires de catégorie C. Ces modifications interviendront au cours du premier semestre 2014 pour prendre effet lors des avancements prononcés au titre de l'année 2015.
