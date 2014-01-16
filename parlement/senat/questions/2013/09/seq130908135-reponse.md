@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130908135
+
+- Question : [SEQ130908135](seq130908135.md) — Responsabilité financière des établissements de soins de suite et réadaptation pour les frais de transports de patients
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2014-01-16, page 149*
+
+La circulaire du 27 juin 2013 ne modifie pas les principes de la réglementation relative à la prise en charge des frais de transports sanitaires. Elle clarifie les règles de financement des transports sanitaires et en synthétise le contenu. La prise en charge des transports liés aux reconvocations de patients appartient bien à l'établissement d'origine, c'est-à-dire celui qui est rémunéré pour la prise en charge du patient, que ce soit dans le cadre de prestations inter-établissements ou pour des examens post-opératoires. Par exception à cette règle, les transports liés aux séances de chimiothérapie, radiothérapie et dialyse sont facturés directement à l'assurance-maladie. Cette circulaire fera l'objet d'une évaluation dans le cadre d'une réflexion sur un financement de parcours de soins, responsabilisant de manière équilibrée l'ensemble des acteurs de la chaine de soins, y compris les transporteurs sanitaires.
