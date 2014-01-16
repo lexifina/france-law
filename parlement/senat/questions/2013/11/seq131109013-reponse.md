@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109013
+
+- Question : [SEQ131109013](seq131109013.md) — Opacité concernant l'accord entre l'Union européenne et le Canada
+
+## Réponse
+
+*Affaires étrangères, JO du 2014-01-16, page 146*
+
+L'accord politique conclu entre le président de la Commission José Barroso et le Premier ministre canadien Stephen Harper le 18 octobre n'est pas synonyme d'entrée en vigueur très prochaine du CETA (Comprehensive Economic and Trade Agreement). Des discussions se poursuivent au niveau technique, sur des sujets tels que les règles d'origine des produits, les investissements, ou encore la place du développement durable au sein de l'accord. La France reste pleinement mobilisée afin de garantir que l'accord final comprenne les dispositions les plus favorables à ses intérêts et à ceux de l'Union européenne. Comme tout au long de la négociation du CETA, la France s'attache également à demander régulièrement à la Commission la diffusion des textes de travail, afin d'être à jour des derniers développements et d'être en mesure de réagir aux conséquences qu'ils pourraient entraîner pour notre pays. En outre, une fois finalisé au niveau technique, le CETA devra passer plusieurs étapes institutionnelles. L'accord devra être revu du point de vue juridique, traduit dans les 23 langues officielles de l'UE, voté par les États membres réunis au sein du Conseil de l'UE, puis soumis au Parlement européen pour approbation et à la représentation nationale de chaque État membre pour ratification. S'agissant d'un accord dit « mixte », les députés et sénateurs français auront à se prononcer sur toutes les stipulations du CETA, et en particulier sur celles ayant une incidence dans les domaines de compétence nationale. Tous les détails du texte pourront ainsi être examinés par la représentation nationale.
