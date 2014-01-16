@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008548
+
+- Question : [SEQ131008548](seq131008548.md) — Demande d'extension des droits à la carte du combattant
+
+## Réponse
+
+*Anciens combattants, JO du 2014-01-16, page 152*
+
+Aux termes des articles L. 253 bis et R. 224 D du code des pensions militaires d'invalidité et des victimes de la guerre (CPMIVG), ont vocation à la qualité de combattant les militaires et les civils de nationalité française ayant participé à la guerre d'Algérie entre le 31 octobre 1954 et le 2 juillet 1962, date d'indépendance de l'Algérie et ayant servi pendant 90 jours en unité combattante ou pris part à 9 actions de feu ou de combat collectives, ou à 5 actions de feu ou de combat individuelles. Sont toutefois exonérés de ces conditions les militaires qui ont été évacués pour blessure reçue ou maladie contractée en unité combattante, ainsi que ceux qui ont reçu une blessure assimilée à une blessure de guerre. En outre, les dispositions de l'article 123 de la loi de finances pour 2004 permettent, depuis le 1er juillet 2004, de reconnaître la qualité de combattant aux militaires dès lors qu'ils totalisent 4 mois de présence sur les territoires concernés, sans obligation d'avoir appartenu à une unité combattante. La question d'une extension éventuelle des droits à la carte du combattant au-delà du 2 juillet 1962 a été évoquée lors des débats parlementaires portant sur le projet de loi de finances pour 2013. À cette occasion, le ministre délégué auprès du ministre de la défense, chargé des anciens combattants, a indiqué qu'il était favorable à cette extension pour les militaires justifiant d'un séjour de quatre mois en Algérie incluant la date du 2 juillet 1962, ce qui impose que leur séjour ait commencé antérieurement à cette date. Cette mesure inscrite à l'article 109 de la loi de finances pour 2014 concrétise l'engagement du ministre délégué visant à assurer une équité de traitement entre les combattants d'Afrique du Nord.
