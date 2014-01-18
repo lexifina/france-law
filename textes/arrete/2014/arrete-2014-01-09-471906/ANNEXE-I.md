@@ -1,6 +1,4 @@
-# Article LEGIARTI000022403364
-
-A N N E X E
+# Article ANNEXE I
 
 PROGRAMME DES MATIÈRES DU CONCOURS
 
@@ -10,7 +8,7 @@ PREMIÈRE PARTIE
 
 LE NAVIRE
 
-I. ― Connaissances générales :
+I. - Connaissances générales :
 
 ― types de navires ;
 
@@ -18,7 +16,7 @@ I. ― Connaissances générales :
 
 ― termes et unités de mesures utilisés.
 
-II. ― Manœuvre du navire :
+II. - Manœuvre du navire :
 
 ― la navigation et manœuvre du navire dans les chenaux d'accès et dans les ports. Forces agissant sur le navire en route ou à quai, effet des fonds et berges, croisement et dépassement. Evolutions des grands navires en eau peu profonde ou eaux restreintes ;
 
@@ -28,7 +26,7 @@ II. ― Manœuvre du navire :
 
 ― les équipements de navigation des navires.
 
-III. ― Théorie du navire et calculs de chargement :
+III. - Théorie du navire et calculs de chargement :
 
 ― définitions des dimensions, états et variables du navire, diverses situations de chargement du navire ;
 
@@ -40,7 +38,7 @@ III. ― Théorie du navire et calculs de chargement :
 
 ― échouement/échouage : réaction de fond, stabilité (point de contact, poussée), manœuvre de déséchouement.
 
-IV. ― Sécurité et sûreté du navire :
+IV. - Sécurité et sûreté du navire :
 
 ― principes généraux de construction du navire en vue de la sécurité à bord ;
 
@@ -52,7 +50,7 @@ IV. ― Sécurité et sûreté du navire :
 
 ― mesures de sécurité relatives au :
 
-― chargement-déchargements de navires vraquiers ;
+― chargement-déchargement de navires vraquiers ;
 
 ― transport et à la manutention de matières dangereuses ;
 
@@ -72,7 +70,7 @@ DEUXIÈME PARTIE
 
 LE PORT
 
-I. ― Océanographie, météorologie et navigation (notions générales) :
+I. - Océanographie, météorologie et navigation (notions générales) :
 
 ― accès des ports, chenaux et canaux ou rivières maritimes, rades ;
 
@@ -82,7 +80,7 @@ I. ― Océanographie, météorologie et navigation (notions générales) :
 
 ― équipements d'aide à l'organisation des mouvements de navires, STM, radar portuaire, AIS...
 
-II. ― Ouvrages des ports :
+II. - Ouvrages des ports :
 
 ― rôle et description générale des :
 
@@ -96,7 +94,7 @@ II. ― Ouvrages des ports :
 
 ― la sécurité des quais et ouvrages (notions sur les chargements admissibles, les efforts d'accostage et d'amarrage).
 
-III. ― Outillage des ports :
+III. - Outillage des ports :
 
 ― les types d'engins de manutention et leur usage ;
 
@@ -104,7 +102,7 @@ III. ― Outillage des ports :
 
 ― hangars, magasins, entrepôts spécialisés, silos, parcs de stockage.
 
-IV. ― Sécurité et environnement dans les ports :
+IV. - Sécurité et environnement dans les ports :
 
 ― rôle et responsabilité des autorités participant à la prévention et la lutte contre les sinistres dans les ports ;
 
@@ -120,7 +118,7 @@ TROISIÈME PARTIE
 
 DROIT
 
-I. ― Notions générales de droit administratif :
+I. - Notions générales de droit administratif :
 
 ― l'organisation administrative française (Etat et collectivités territoriales) ;
 
@@ -130,7 +128,7 @@ I. ― Notions générales de droit administratif :
 
 ― le domaine public maritime.
 
-II. ― Notions générales de droit privé :
+II. - Notions générales de droit privé :
 
 ― l'organisation judiciaire (civile, pénale, commerciale, prud'homale) ;
 
@@ -138,9 +136,9 @@ II. ― Notions générales de droit privé :
 
 ― le droit pénal et la procédure pénale.
 
-III. ― Notions de droit maritime :
+III. - Notions de droit maritime :
 
-― statut des navires et autres bâtiments de mer :
+― statut des navires et autres bâtiments de mer ;
 
 ― capitaine :
 
@@ -166,7 +164,7 @@ III. ― Notions de droit maritime :
 
 ― épaves maritimes, navires et engins abandonnés.
 
-IV. ― Police des ports maritimes :
+IV. - Police des ports maritimes :
 
 ― code des ports maritimes (notamment le livre III et règlement général de la police des ports) ;
 
@@ -182,4 +180,4 @@ IV. ― Police des ports maritimes :
 
 ― zone d'accès restreint (ZAR) ;
 
-― organisation des ports maritimes français (code des ports livre Ier).
+― organisation des ports maritimes français (code des ports, livre Ier).
