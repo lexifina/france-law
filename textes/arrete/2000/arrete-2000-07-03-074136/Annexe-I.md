@@ -4,13 +4,7 @@ Liste des établissements ayant fabriqué des matériaux contenant de l'amiante 
 
 Alsace
 
-Wanner/Wanner Isofi Isolation :
-
-- 24, rue des Merles, 68100 Mulhouse : de 1966 à 1997 ;
-
-- rue Adolphe-Wurtz, 67000 Strasbourg : de 1962 à 1983 ;
-
-- 10, rue de l'Electricité, 67800 Hoenheim : de 1983 à 1997.
+Wanner/Wanner Isofi Isolation : 24, rue des Merles, 68100 Mulhouse : de 1966 à 1997 ; rue Adolphe-Wurtz, 67000 Strasbourg : de 1962 à 1983 ; 10, rue de l'Electricité, 67800 Hoenheim : de 1983 à 1997.
 
 Aquitaine
 
@@ -22,9 +16,7 @@ Tissot SA, 33720 Podensac : de 1966 à 1996 ;
 
 TTL Nordifa SA/Nordifa/Nordifa SA, 3, rue F.-Garnier, 33000 Bordeaux ; puis 270, chemin de Suzon, 33400 Talence : de 1985 à 1995 ;
 
-Wanner/Wanner Isofi, 2, rue Blanqui, 33000 Bordeaux : de 1967 à 1997 ;
-
-Wanner/Wanner Isofi, 1, rue Marcel-Dassault, 33600 Pessac-Alouette : de 1967 à 1997.
+Wanner/Wanner Isofi, 2, rue Blanqui, 33000 Bordeaux : de 1967 à 1997 ; Wanner/Wanner Isofi, 1, rue Marcel-Dassault, 33600 Pessac-Alouette : de 1967 à 1997.
 
 Auvergne
 
@@ -96,9 +88,7 @@ Société Calfri Calorif Fric/Calfri Isolation/SOFI, 13-17, rue Helder, 75009 Pa
 
 Comptoir des minéraux et matières premières (CMMP), 93600 Aulnay-sous-Bois : de 1938 à 1973 ;
 
-Eternit, 78510 Triel : de 1922 à 1997 ;
-
-Eternit, 78540 Vernouillet : de 1922 à 1997 ;
+Eternit, 78510 Triel : de 1922 à 1997 ; Eternit, 78540 Vernouillet : de 1922 à 1997 ;
 
 Everitube, usine de Dammarie-les-Lys, 77190 Dammarie-les-Lys : de 1960 à 1996 ;
 
@@ -155,6 +145,8 @@ Aubertin SA, 10, rue des Métiers, 57790 Yutz : de 1982 à 1991 ;
 Ateliers Henri Lardet, puis lardet Babcock, puis Babcock entreprise, puis CNIM : 7, rue du Fort, BP 29, 88191 Golbey Cedex : de 1929 à 1996 ;
 
 Buflon, ZI Sud, rue des Aviots, BP 61, 88152 Thaon-les-Vosges Cedex : de 1960 à 1986 ;
+
+Compagnie des Cristalleries de Baccarat, Rue des Cristalleries, 54120 Baccarat De 1949 à 1995, puis Manufactures de Baccarat De 1995 à 1996
 
 EDC/Société Ed. Durand et Cie, 7, route de Pont-à-Mousson, 54518 Thiaucourt-Regniéville : de 1935 à 1995 ;
 
@@ -342,23 +334,23 @@ Technisol, route du Jaï, 13220 Châteauneuf-lès-Martigues : de 1959 à 1984 ;
 
 Travisol/SUDISOLEC, 535, chemin du Chaland, BP 189, 13774 Fos-sur-Mer, de 1964 à 1996 ;
 
-Wanner/Wanner Isofi/Wanner Industrie, route de Roquevaire, 13400 Aubagne : de 1933 à 1977 ; - boulevard Henri-Wallon, BP 170, 13130 Berre-l'Etang : de 1933 à 1977 ; - 31, boulevard Magallon, 13015 Marseille, de 1967 à 1993 ; - 1207, avenue du Camp-de-Menthe, 13091 Aix-en-Provence, de 1994 à 1997 ; - 721, route d'Avignon, 84700 Sorgues : de 1987 à 1997.
+Wanner/Wanner Isofi/Wanner Industrie, route de Roquevaire, 13400 Aubagne : de 1933 à 1977 ; - boulevard Henri-Wallon, BP 170, 13130 Berre-l'Etang : de 1933 à 1977 ; 31, boulevard Magallon, 13015 Marseille, de 1967 à 1993 ; - 1207, avenue du Camp-de-Menthe, 13091 Aix-en-Provence, de 1994 à 1997 ; 721, route d'Avignon, 84700 Sorgues : de 1987 à 1997.
 
 Rhône-Alpes
 
-Curty Compagnie/Cefilac SA/Société Curty/Société Curty Payen/Federal Mogul/Sealing Systems, 93-103, avenue Lacassagne, 69003 Lyon ; - 25, rue Aristide-Briand, 69800 Saint-Priest : de 1916 à 1994.
+Curty Compagnie/Cefilac SA/Société Curty/Société Curty Payen/Federal Mogul/Sealing Systems, 93-103, avenue Lacassagne, 69003 Lyon ; 25, rue Aristide-Briand, 69800 Saint-Priest : de 1916 à 1994 ;
 
 Dalami, BP 25, Le Cappa, 26140 Saint-Rambert-d'Albon : de 1961 à 1978, puis Sud Isol/Sommer Revêtements, France SA, BP 25, Le Cappa, 26140 Saint-Rambert-d'Albon : de 1978 à 1986 ;
 
 Entreprise Lopez, 26140 Andancette : de 1978 à 1997.
-
-Etablissements Peduzzi, 4, rue Denis-Papin, 69100 Villeurbanne : de 1970 à 1977 ;
 
 Etablissements Gascheaux, 26800 Porte-lès-Valence : de 1964 à 1970 ;
 
 Etablissements Gonet, 12, avenue Jean-Moulin, 69270 Saint-Laurent-de-Mure : de 1970 à 1977 ;
 
 Etablissements Nimal, 26140 Alban : de 1972 à 1990 ;
+
+Etablissements Peduzzi, 4, rue Denis-Papin, 69100 Villeurbanne : de 1970 à 1977 ;
 
 Etablissements Roche, 07100 Davezieux : de 1965 à 1970 ;
 
