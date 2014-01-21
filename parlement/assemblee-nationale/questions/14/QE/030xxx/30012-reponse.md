@@ -1,0 +1,9 @@
+# Réponse à la question n° 30012
+
+- Question : [30012](30012.md) — Question n° 30012 — fonctionnement; moyens
+
+## Réponse
+
+*JO du 2014-01-21*
+
+L'attention du ministre en charge de l'agriculture a été appelée sur l'éventuelle fermeture du site de l'institut national de l'origine et de la qualité (INAO) situé à Poligny. Ce projet s'inscrit dans un schéma général de modernisation de l'institut, portant sur la révision des procédures de travail, le développement de missions nouvelles et l'organisation et le fonctionnement des services, dans l'approfondissement des réformes intervenues depuis, tant au niveau français qu'au niveau européen. Les orientations de ce schéma ont été fixées conjointement par les pouvoirs publics et les professionnels en décembre 2012. Concernant les services territoriaux de l'INAO, les objectifs sont d'améliorer et de rééquilibrer le maillage territorial, de constituer des équipes de travail pluridisciplinaires sur un nombre de sites plus resserré mais dotées d'effectifs permettant de répondre à la diversité des besoins de compétences et d'expertises qui sont attendues aujourd'hui. Il est, en effet, important que puisse continuer à être apportée une garantie de service pour les professionnels des filières sur l'ensemble du territoire et pour chacun des signes de qualité pour lequel l'INAO a compétence. Le regroupement des agents concernés du site de Poligny sur le site de Dijon est apparu nécessaire pour répondre à cet objectif. Des présences régulières pourront être organisées à Poligny, consacrées à l'appui aux projets des AOC de Franche-Comté. Ce nouveau schéma de fonctionnement de l'institut ne se traduira pas par des mutations obligatoires pour les agents concernés, et des propositions de postes seront faites à ceux qui ne voudront pas rejoindre leur nouvelle affectation.
