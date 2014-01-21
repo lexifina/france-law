@@ -1,0 +1,9 @@
+# Réponse à la question n° 44270
+
+- Question : [44270](44270.md) — Question n° 44270 — filière professionnelle; développement
+
+## Réponse
+
+*JO du 2014-01-21*
+
+La meilleure réussite des étudiants, et par là leur chance d'aboutir à une insertion professionnelle réussie, est au coeur des préoccupations du gouvernement. Plusieurs dispositifs portés par la loi du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche participent directement à cet objectif. Il s'agit tout d'abord de mieux articuler l'enseignement scolaire et l'enseignement supérieur. Cette articulation passe par la continuité des contenus d'enseignement, par la spécialisation progressive des études de licence, permettant à l'étudiant de mûrir son projet personnel et professionnel. Elle passe aussi par le rapprochement des lycées des universités par la voie conventionnelle, sur des actions variées d'information, d'orientation, de partage d'enseignement ou de reconnaissance mutuelle des parcours de formation. Il s'agit ensuite de parfaire les politiques d'orientation et de permettre l'accès des publics moins préparés à l'enseignement supérieur, bacheliers technologiques et professionnels notamment, vers les diplômes universitaires de technologie (DUT) et les brevets de technicien supérieur (BTS), formations leur assurant les meilleures chances de réussite. Pour ce qui concerne les propositions du Centre d'analyse stratégique, il convient de rappeler le travail mené par le ministère de l'enseignement supérieur et de la recherche concernant la réduction considérable du nombre d'intitulés de diplômés de licence, de licence professionnelle et de master. Enfin, la mise en oeuvre de la spécialisation progressive en licence aura également pour objectif de rapprocher licences et licences professionnelles en adossant systématiquement ces dernières aux premières.
