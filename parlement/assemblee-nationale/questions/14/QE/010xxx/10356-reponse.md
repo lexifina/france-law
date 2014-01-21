@@ -1,0 +1,9 @@
+# Réponse à la question n° 10356
+
+- Question : [10356](10356.md) — Question n° 10356 — aides de l'État
+
+## Réponse
+
+*JO du 2014-01-21*
+
+Le comité professionnel de la distribution de carburant (CPDC) a pour mission principale de soutenir directement les stations-services indépendantes par des aides appropriées. Ces aides, qui visent à la modernisation des stations-services et à leur adaptation à l'évolution du marché, sont de trois types : aides à l'environnement (sécurité des biens et des personnes), aides au développement (modernisation et diversification des activités), aides sociales (en cas de fermeture). Le comité a également pour objectif le maintien d'une desserte équilibrée sur l'ensemble du territoire national. Ces exploitants sont donc invités à se rapprocher du comité et à déposer des dossiers de demande d'aides, étant précisé que l'implantation au sein des territoires ruraux est un des critères déterminant pour l'attribution des aides. En 2011, plus de 70 % des aides ont été allouées aux stations en zones rurales et plus de 30 % ont été consacrées au soutien des sites de maillage (absence de concurrence dans un rayon de 1 km, un seul concurrent maximum dans un rayon de 10 km). Le Gouvernement examine actuellement la possibilité de plus orienter les moyens du comité professionnel de la distribution de carburants (CPDC) au profit du soutien à la mutation du réseau des stations-services en milieu rural, ce qui permettra de maintenir un bon niveau de maillage sur le territoire Enfin, une étude actuellement diligentée par la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale a notamment pour objet d'identifier et de caractériser les stations-clés en termes de maillage du territoire ainsi que d'identifier les territoires vulnérables en matière d'accès au carburant qui devraient bénéficier prioritairement des aides du comité.
