@@ -1,0 +1,9 @@
+# Réponse à la question n° 24689
+
+- Question : [24689](24689.md) — Question n° 24689 — énergie éolienne; énergie photovoltaïque; bilan
+
+## Réponse
+
+*JO du 2014-01-21*
+
+La plateforme Myrte, mission hydrogène renouvelable pour l'intégration au réseau électrique, a été inaugurée le 9 janvier 2012. Cette plate-forme unique au monde, située à Vignola en Corse, regroupe l'université de Corse, Hélion et le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) et est soutenue par la collectivité territoriale de Corse, l'État et l'Europe. D'un coût de 21 millions d'euros, la plate-forme Myrte a pour objectif de développer un système de gestion et de stabilisation du réseau électrique couplant une production d'un parc photovoltaïque et un stockage d'énergie sous forme d'hydrogène. Le système est composé d'un parc photovoltaïque de 560 kilowatt-crête (kWc), d'un système hydrogène intégré dans un bâtiment (électrolyseur, contrôle commande et pile à combustible de 100 kilowatt - kW - puis 200 kW) et d'un stockage d'hydrogène et d'oxygène pour une autonomie du système de 17,5 heures (1,75 mégawatt-heure - MWh - puis 3,5 MWh stockés). Le rendement électrique global de ce système de stockage d'énergie via l'hydrogène est de l'ordre de 35 à 45 %, et pourra être amélioré dans une application de cogénération via la valorisation de la chaleur produite par l'électrolyseur et la pile à combustible. Après une année d'essais de performance, la plateforme opère depuis mai 2013 en mode automatique répondant de manière très satisfaisante aux contraintes et aux sollicitations de l'opérateur de réseau EDF SEI. Au-delà de la validation technologique de cette architecture énergétique, il s'agit aujourd'hui pour Hélion de préparer l'industrialisation afin de réduire les coûts de cette technologie, et de définir de nouveaux modèles d'affaires adaptés aux marchés visés par ce type de solutions.
