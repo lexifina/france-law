@@ -1,0 +1,9 @@
+# Réponse à la question n° 23181
+
+- Question : [23181](23181.md) — Question n° 23181 — prolifération; lutte et prévention
+
+## Réponse
+
+*JO du 2014-01-21*
+
+Le cormoran est protégé au titre du régime général de protection de toutes les espèces d'oiseaux visées à l'article 1er de la directive 79/409 relative à la conservation des oiseaux sauvages. Conformément au code de l'environnement, il est toutefois possible de déroger à l'interdiction de destruction des spécimens, notamment pour prévenir des dommages importants aux piscicultures. Ces dérogations peuvent, en effet, être accordées par les préfets des départements dans lesquels ont été constatés des dégâts sur les piscicultures ou les eaux libres, dans le respect des conditions générales énoncées par un arrêté ministériel du 26 novembre 2010. Les quotas départementaux dans les limites desquelles celles-ci peuvent être octroyées tiennent compte de l'évolution constatée de la population de cormorans. Leur volume a doublé au cours de la dernière décennie, et les dérogations accordées dans ce cadre constituent un levier essentiel pour concilier la pérennité de l'espèce, la protection des intérêts économiques et celle du milieu aquatique. Pour limiter la sédentarisation des cormorans à proximité des piscicultures, des facilités d'intervention sur les sites de reproduction ont par ailleurs été accordées, en complément des tirs autorisés pour l'élimination des adultes. Dans les zones où la contribution de la pisciculture extensive à l'entretien des milieux est reconnue, un allongement de la période de tir pour l'élimination des cormorans adultes est autorisé, afin de limiter l'installation des nicheurs. Enfin la possibilité d'autoriser par arrêté motivé des opérations de destruction de nids et d'oeufs de cormorans à proximité des piscicultures est également ouverte, après consultation locale des partenaires concernés.
