@@ -1,0 +1,9 @@
+# Réponse à la question n° 40856
+
+- Question : [40856](40856.md) — Question n° 40856 — conflit d'usage; rapport; propositions
+
+## Réponse
+
+*JO du 2014-01-21*
+
+Le rapport de la Cour des comptes du 16 octobre 2013 a porté sur les terres agricoles et les conflits d'usage. L'enjeu de la préservation des terres agricoles constitue une priorité importante du ministère en charge de l'agriculture. Les besoins en matière d'infrastructures, de logement et de développement économique exercent une pression importante sur les surfaces agricoles et notamment sur les terres les plus fertiles. Le développement des territoires doit se faire de manière équilibrée et harmonieuse. Il ne s'agit pas d'opposer les différents usages mais de les concilier en prenant en compte les différents enjeux : sociaux, économiques et environnementaux. Plusieurs mesures ont été mises en place afin de sensibiliser les différents acteurs sur cet enjeu lié à la préservation des terres agricoles. Le ministre en charge de l'agriculture prévoit, dans le cadre du projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt, de renforcer certaines de ces mesures : - la compétence de l'observatoire national de la consommation des surfaces sera élargie aux espaces naturels, forestiers et à vocation ou à usage agricole ; - un observatoire régional des espaces naturels, agricoles et forestiers apportera son appui aux collectivités territoriales pour l'analyse de la consommation des dits espaces ; - les prérogatives de la commission départementale de consommation de ces espaces seront renforcées ; - le rôle des sociétés d'aménagement foncier et d'établissement rural sera également renforcé ; - la prise en compte des enjeux agricoles sera améliorée dans les documents d'urbanisme. Ainsi, les observations de la Cour des comptes ont été prises en compte dans le cadre de la construction du projet de loi dont l'examen est actuellement en cours au Parlement.
