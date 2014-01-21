@@ -1,0 +1,9 @@
+# Réponse à la question n° 42346
+
+- Question : [42346](42346.md) — Question n° 42346 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2014-01-21*
+
+Les dispositifs d'évaluation, de contrôle et de mise en cohérence des aides à la presse ont été renforcés à l'occasion du décret n° 2012-484 du 13 avril 2012. A l'occasion de la réforme annoncée le 10 juillet dernier qui doit entrer en vigueur début 2014, de nouvelles avancées seront enregistrées. S'agissant du contrôle, les conventions-cadres liant l'État et les principaux bénéficiaires avec l'administration seront étendues et généralisées. Des rendez-vous périodiques d'avancement des conventions seront organisés. En outre, sur la base d'une méthodologie de contrôle par sondage, il pourra être fait appel, en plus des moyens propres de l'administration, à des experts extérieurs pour exercer des missions de contrôle. La possibilité de procéder à des évaluations des dispositifs d'aide existe d'ores et déjà : le ministère de la culture et de la communication y a recouru en 2013, s'agissant de l'aide au portage. La conférence annuelle des éditeurs, présidée par la ministre de la culture et de la communication, est renforcée dans son rôle d'instance de pilotage des aides à la presse. Son travail pourra s'appuyer sur la transparence accrue des aides attribuées et l'évaluation que toutes les parties prenantes pourront de ce fait contribuer à apporter. S'agissant, enfin, de la mise en cohérence des dispositifs d'aide, outre le rôle de la conférence des éditeurs, il convient de souligner la mise en place d'une mission sur la distribution de la presse. Cette mission aura, entre autres, pour rôle de faire le bilan des aides à la distribution, d'en proposer l'évolution et, le cas échéant, le rapprochement, afin de donner plus d'efficacité et de cohérence à la distribution de la presse dans ses trois modes (postage, portage et vente au numéro).
