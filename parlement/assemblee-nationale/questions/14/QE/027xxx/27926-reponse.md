@@ -1,0 +1,9 @@
+# Réponse à la question n° 27926
+
+- Question : [27926](27926.md) — Question n° 27926 — zone de carrière; réglementation
+
+## Réponse
+
+*JO du 2014-01-21*
+
+Le décret n° 2012-290 du 29 février 2012 prévoit que, dans les zones agricoles et les zones naturelles et forestières des plans locaux d'urbanisme, peuvent seules être autorisées les constructions et installations nécessaires à l'exploitation agricole et forestière, ou nécessaires à des équipements collectifs ou à des services publics, dès lors qu'elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou forestière et qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages (R. 123-7 et R. 123-8 du code de l'urbanisme). Certaines juridictions ont donc pu décider qu'une carrière ne pouvait pas être implantée en zone agricole (CAA Lyon, 18 octobre 2011, n° 09LYO 1538). Les dispositions générales des articles R. 123-7 et R. 123-8 ne font toutefois pas obstacle à l'application du c) de l'article R. 123-11 de ce même code, introduit par le décret n° 2001-260 du 27 mars 2001, qui précise que les documents graphiques du règlement font apparaître, s'il y a lieu, les secteurs protégés en raison de la richesse du sol et du sous-sol, dans lesquels les constructions et installations nécessaires à la mise en valeur de ces ressources naturelles, et donc les carrières, sont autorisées. Ce principe s'applique quand bien même la disposition spéciale serait antérieure à la disposition générale (Cour de cassation, 28 janvier 1992, n° 90-13706 ; Cour administrative d'appel de Lyon, 2e chambre, 30 septembre 1993, n° 91LY00619). La commune ou l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme peut, par conséquent, mettre en oeuvre cet article afin d'identifier un secteur d'une zone agricole ou d'une zone naturelle et forestière pour y autoriser la réalisation d'une carrière.
