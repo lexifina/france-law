@@ -1,0 +1,9 @@
+# Réponse à la question n° 42529
+
+- Question : [42529](42529.md) — Question n° 42529 — prolongement; tracé
+
+## Réponse
+
+*JO du 2014-01-21*
+
+Le projet de prolongement de la Francilienne (A104) au nord-ouest de l'Île-de-France vise à répondre aux enjeux d'aménagement, de structuration et de développement économique que connaît ce territoire, ainsi qu'aux problèmes de congestion constatés régulièrement sur la RN 184 et les axes desservant les nombreuses zones d'activité du secteur (dont les usines Peugeot de Poissy). Ce projet a fait l'objet d'un débat public en 2006. à l'issue de ce débat, le ministre chargé des transports avait confirmé, l'opportunité du projet de prolongement en retenant le tracé dit « vert ». Les études préalables à l'enquête publique de déclaration d'utilité publique, menées depuis, ont conduit à de nombreuses adaptations techniques du projet afin d'optimiser son intégration dans les secteurs traversés et d'en améliorer l'acceptabilité locale. Le coût du projet est dans ce contexte dorénavant évalué à plus de 3 milliards d'euros. Aujourd'hui, force est de constater que le projet demeure malgré tout controversé, notamment dans le choix de son tracé. Si un certain consensus semble se dégager dans le département du Val-d'Oise, des divergences importantes subsistent dans celui des Yvelines. Par ailleurs, au-delà de la question du tracé, la question du financement reste posée. Dans son rapport du 27 juin 2013, la commission « Mobilité 21 » préconise de classer le projet de prolongement de l'A104 en secondes priorités, quel que soit le scénario financier considéré et, compte-tenu du caractère controversé du projet, recommande de poursuivre la concertation. L'État partage cette analyse et entend poursuivre les études et la concertation afin de clarifier les caractéristiques et les modalités de réalisation de ce projet.
