@@ -1,0 +1,52 @@
+# Justice : droit à l'information dans le cadre des procédures pénales
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N32497
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/droit_information_procedures_penales
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-303.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-01-22 : 1er dépôt d'une initiative. (PRJLSNR5S219B0303)
+  - 2014-01-22 : Etude d'impact (ETDISNR5S219B0303)
+  - 2014-01-22 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-01-22 : Renvoi en commission au fond
+      - 2014-01-22 : Nomination de rapporteur
+      - 2014-02-19 : Dépôt de rapport (RAPPSNR5S219B0380)
+  - Discussion en séance publique
+    - 2014-02-24 : Discussion en séance publique
+    - 2014-02-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-02-25 : Dépôt d'une initiative en navette (PRJLANR5L14B1814)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-02-25 : Renvoi en commission au fond
+      - 2014-04-09 : Nomination de rapporteur
+      - 2014-04-09 : Réunion de commission
+      - 2014-04-16 : Réunion de commission
+      - 2014-04-29 : Réunion de commission
+      - 2014-05-05 : Réunion de commission
+      - 2014-04-29 : Dépôt de rapport (RAPPANR5L14B1895, PRJLANR5L14BTC1895)
+  - Discussion en séance publique
+    - 2014-05-05 : Discussion en séance publique
+    - 2014-05-05 : Décision
+- Commission Mixte Paritaire
+  - 2014-05-06 : Dépôt d'un projet de loi (PRJLSNR5S219B0503)
+  - 2014-05-06 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-05-13 : Nomination de rapporteur
+    - 2014-05-13 : Dépôt du rapport d'une CMP (RAPPANR5L14B1934)
+    - 2014-05-13 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0527)
+  - Discussion en séance publique
+    - 2014-05-15 : Discussion en séance publique
+    - 2014-05-15 : Décision
+  - Discussion en séance publique
+    - 2014-05-15 : Discussion en séance publique
+    - 2014-05-15 : Décision
+  - 2014-05-14 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-05-27 : Promulgation d'une loi
