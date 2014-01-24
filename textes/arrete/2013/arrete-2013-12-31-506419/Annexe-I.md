@@ -10,34 +10,18 @@ NOMBRE DE POSTES
 
 |
 
-Groupe 1
+Groupe 1 |
 
-|
+644 |
 
-1589
+Groupe 2 |
 
-|
+1 490 |
 
-Groupe 2
+Groupe 3 |
 
-|
+1 069 |
 
-1 547
+Groupe 4 |
 
-|
-
-Groupe 3
-
-|
-
-1 077
-
-|
-
-Groupe 4
-
-|
-
-1873
-
-|
+822 |

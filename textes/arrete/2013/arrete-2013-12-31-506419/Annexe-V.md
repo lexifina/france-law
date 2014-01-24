@@ -1,0 +1,1339 @@
+# Article Annexe V
+
+LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 4e CATÉGORIE
+
+DIR
+
+|
+
+RÉFÉRENCE
+
+|
+
+FAMILLE
+
+|
+
+LIBELLÉ
+
+|
+
+01 |
+
+001014 |
+
+Trésorerie mixte
+
+|
+
+GEX
+
+|
+
+06 |
+
+006035 |
+
+SIE
+
+|
+
+GRASSE
+
+|
+
+11 |
+
+011055 |
+
+SIE
+
+|
+
+CARCASSONNE
+
+|
+
+13 |
+
+013035 |
+
+SIE
+
+|
+
+MARSEILLE 7e, 9e et 10e
+
+|
+
+13 |
+
+013036 |
+
+SIE
+
+|
+
+MARSEILLE 11e et 12e
+
+|
+
+13 |
+
+013041 |
+
+SIE
+
+|
+
+MARIGNANE
+
+|
+
+13 |
+
+013120 |
+
+SIP
+
+|
+
+AIX-EN-PROVENCE SUD
+
+|
+
+14 |
+
+014016 |
+
+SIE
+
+|
+
+CAEN NORD
+
+|
+
+19 |
+
+019038 |
+
+SIE
+
+|
+
+BRIVE-LA-GAILLARDE
+
+|
+
+2A |
+
+02A016 |
+
+SIE
+
+|
+
+AJACCIO
+
+|
+
+2B |
+
+02B024 |
+
+SIE
+
+|
+
+BASTIA
+
+|
+
+21 |
+
+021023 |
+
+SIE
+
+|
+
+DIJON SUD
+
+|
+
+22 |
+
+022090 |
+
+Trésorerie spécialisée
+
+|
+
+CÔTES-D'ARMOR
+
+|
+
+25 |
+
+025052 |
+
+SIE
+
+|
+
+BESANÇON OUEST
+
+|
+
+25 |
+
+025013 |
+
+SIP
+
+|
+
+BESANÇON OUEST
+
+|
+
+28 |
+
+028036 |
+
+Trésorerie spécialisée
+
+|
+
+DREUX MUNICIPALE
+
+|
+
+30 |
+
+030055 |
+
+SIE
+
+|
+
+ALÈS
+
+|
+
+30 |
+
+030058 |
+
+SIE
+
+|
+
+NÎMES EST
+
+|
+
+30 |
+
+030059 |
+
+SIE
+
+|
+
+NÎMES SUD
+
+|
+
+31 |
+
+031066 |
+
+SIE
+
+|
+
+TOULOUSE NORD
+
+|
+
+31 |
+
+031070 |
+
+SIE
+
+|
+
+TOULOUSE SUD-OUEST
+
+|
+
+31 |
+
+031073 |
+
+SIE
+
+|
+
+BALMA
+
+|
+
+33 |
+
+033027 |
+
+SIE
+
+|
+
+BORDEAUX AVAL
+
+|
+
+33 |
+
+033032 |
+
+SIE
+
+|
+
+BORDEAUX CENTRE
+
+|
+
+33 |
+
+033044 |
+
+SIE
+
+|
+
+MÉRIGNAC
+
+|
+
+33 |
+
+033085 |
+
+SIP
+
+|
+
+ARCACHON
+
+|
+
+33 |
+
+033087 |
+
+SIP
+
+|
+
+MÉRIGNAC
+
+|
+
+33 |
+
+033077 |
+
+Trésorerie spécialisée
+
+|
+
+LIBOURNE MUNICIPALE
+
+|
+
+34 |
+
+034017 |
+
+Trésorerie spécialisée
+
+|
+
+MAUGUIO
+
+|
+
+34 |
+
+034010 |
+
+Trésorerie mixte
+
+|
+
+FRONTIGNAN
+
+|
+
+35 |
+
+035090 |
+
+Trésorerie spécialisée
+
+|
+
+ILLE-ET-VILAINE
+
+|
+
+35 |
+
+035007 |
+
+Trésorerie mixte
+
+|
+
+CHARTRES-DE-BRETAGNE
+
+|
+
+38 |
+
+038062 |
+
+SIE
+
+|
+
+GRENOBLE-CHARTREUSE
+
+|
+
+38 |
+
+038065 |
+
+SIE
+
+|
+
+GRENOBLE-GRESIVAUDAN
+
+|
+
+38 |
+
+038069 |
+
+SIE
+
+|
+
+VIENNE
+
+|
+
+42 |
+
+042039 |
+
+SIE
+
+|
+
+SAINT-ÉTIENNE SUD
+
+|
+
+42 |
+
+042040 |
+
+SIE
+
+|
+
+SAINT-ÉTIENNE NORD
+
+|
+
+44 |
+
+044050 |
+
+SIE
+
+|
+
+SAINT-NAZAIRE SUD-EST
+
+|
+
+45 |
+
+045020 |
+
+Trésorerie spécialisée
+
+|
+
+ORLÉANS CENTRES HOSPITALIERS
+
+|
+
+47 |
+
+047037 |
+
+SIE
+
+|
+
+AGEN
+
+|
+
+56 |
+
+056043 |
+
+SIE
+
+|
+
+LORIENT NORD
+
+|
+
+57 |
+
+057024 |
+
+SIE
+
+|
+
+METZ CENTRE
+
+|
+
+57 |
+
+057121 |
+
+SIP-SIE
+
+|
+
+SAINT-AVOLD
+
+|
+
+59 |
+
+059061 |
+
+SIE
+
+|
+
+LILLE-SECLIN
+
+|
+
+60 |
+
+060061 |
+
+SIE
+
+|
+
+BEAUVAIS
+
+|
+
+64 |
+
+064051 |
+
+SIE
+
+|
+
+BAYONNE
+
+|
+
+64 |
+
+064036 |
+
+Trésorerie spécialisée
+
+|
+
+BAYONNE MUNICIPALE
+
+|
+
+65 |
+
+065036 |
+
+SIE
+
+|
+
+TARBES
+
+|
+
+66 |
+
+066034 |
+
+SIE
+
+|
+
+PERPIGNAN TÊT
+
+|
+
+66 |
+
+066029 |
+
+Trésorerie spécialisée
+
+|
+
+PERPIGNAN HLM
+
+|
+
+67 |
+
+067073 |
+
+SIE
+
+|
+
+STRASBOURG OUEST
+
+|
+
+68 |
+
+068037 |
+
+SIE
+
+|
+
+MULHOUSE PLAINE
+
+|
+
+68 |
+
+068102 |
+
+SIP
+
+|
+
+MULHOUSE VILLE
+
+|
+
+69 |
+
+069020 |
+
+SIE
+
+|
+
+LYON PRESQU'ÎLE
+
+|
+
+69 |
+
+069064 |
+
+SIE
+
+|
+
+LYON 7e ARRONDISSEMENT
+
+|
+
+69 |
+
+069068 |
+
+SIE
+
+|
+
+LYON BRON
+
+|
+
+69 |
+
+069070 |
+
+SIE
+
+|
+
+LYON VILLEURBANNE
+
+|
+
+69 |
+
+069075 |
+
+SIE
+
+|
+
+GIVORS
+
+|
+
+71 |
+
+071068 |
+
+SIE
+
+|
+
+MÂCON
+
+|
+
+73 |
+
+073003 |
+
+SIP-SIE
+
+|
+
+AIX-LES-BAINS
+
+|
+
+74 |
+
+074036 |
+
+SIE
+
+|
+
+ANNECY
+
+|
+
+74 |
+
+074037 |
+
+SIE
+
+|
+
+ANNECY-LE-VIEUX
+
+|
+
+74 |
+
+074041 |
+
+SIE
+
+|
+
+THONON-LES-BAINS
+
+|
+
+75 |
+
+075705 |
+
+SIE
+
+|
+
+PARIS 18e CLIGNANCOURT
+
+|
+
+75 |
+
+075711 |
+
+SIE
+
+|
+
+PARIS 16e AUTEUIL
+
+|
+
+75 |
+
+075043 |
+
+SIP
+
+|
+
+PARIS 20e PÈRE-LACHAISE
+
+|
+
+76 |
+
+076043 |
+
+SIE
+
+|
+
+ROUEN VILLE
+
+|
+
+76 |
+
+076046 |
+
+SIE
+
+|
+
+ROUEN EST
+
+|
+
+76 |
+
+076047 |
+
+SIE
+
+|
+
+ROUEN OUEST
+
+|
+
+76 |
+
+076091 |
+
+SIP
+
+|
+
+ROUEN OUEST
+
+|
+
+78 |
+
+078114 |
+
+SIP
+
+|
+
+POISSY
+
+|
+
+78 |
+
+078072 |
+
+SIP
+
+|
+
+SAINT-GERMAIN-EN-LAYE EST
+
+|
+
+78 |
+
+078073 |
+
+SIP
+
+|
+
+SAINT-GERMAIN-EN-LAYE SUD
+
+|
+
+80 |
+
+080021 |
+
+SIE
+
+|
+
+AMIENS SUD-OUEST
+
+|
+
+80 |
+
+080004 |
+
+SIP
+
+|
+
+AMIENS NORD-EST
+
+|
+
+80 |
+
+080058 |
+
+Trésorerie spécialisée
+
+|
+
+ABBEVILLE
+
+|
+
+81 |
+
+081013 |
+
+SIE
+
+|
+
+ALBI
+
+|
+
+81 |
+
+081016 |
+
+SIE
+
+|
+
+CASTRES
+
+|
+
+83 |
+
+083036 |
+
+SIE
+
+|
+
+SAINT-TROPEZ
+
+|
+
+83 |
+
+083038 |
+
+SIE
+
+|
+
+TOULON NORD-EST
+
+|
+
+83 |
+
+083122 |
+
+SIP
+
+|
+
+FRÉJUS
+
+|
+
+84 |
+
+084035 |
+
+SIE
+
+|
+
+AVIGNON EST
+
+|
+
+85 |
+
+085041 |
+
+SIE
+
+|
+
+CHALLANS
+
+|
+
+85 |
+
+085001 |
+
+SIP
+
+|
+
+LA ROCHE-SUR-YON
+
+|
+
+85 |
+
+085009 |
+
+Trésorerie mixte
+
+|
+
+MONTAIGU-ROCHESERVIÈRE
+
+|
+
+88 |
+
+088067 |
+
+SIE
+
+|
+
+ÉPINAL
+
+|
+
+92 |
+
+092052 |
+
+SIE
+
+|
+
+COLOMBES
+
+|
+
+92 |
+
+092053 |
+
+SIE
+
+|
+
+COURBEVOIE
+
+|
+
+92 |
+
+092057 |
+
+SIE
+
+|
+
+NANTERRE-I
+
+|
+
+92 |
+
+092058 |
+
+SIE
+
+|
+
+NANTERRE-II
+
+|
+
+92 |
+
+092061 |
+
+SIE
+
+|
+
+BOULOGNE-BILLANCOURT NORD
+
+|
+
+92 |
+
+092065 |
+
+SIE
+
+|
+
+SCEAUX
+
+|
+
+92 |
+
+092044 |
+
+SIP
+
+|
+
+SAINT-CLOUD
+
+|
+
+92 |
+
+092105 |
+
+Trésorerie mixte
+
+|
+
+CLAMART
+
+|
+
+93 |
+
+093046 |
+
+SIE
+
+|
+
+BOBIGNY
+
+|
+
+93 |
+
+093056 |
+
+SIE
+
+|
+
+SAINT-DENIS VILLE
+
+|
+
+93 |
+
+093058 |
+
+SIE
+
+|
+
+SAINT-OUEN
+
+|
+
+93 |
+
+093019 |
+
+SIP
+
+|
+
+PANTIN
+
+|
+
+93 |
+
+093039 |
+
+Trésorerie spécialisée
+
+|
+
+SEINE-SAINT-DENIS AMENDES
+
+|
+
+94 |
+
+094052 |
+
+SIE
+
+|
+
+CHAMPIGNY-SUR-MARNE
+
+|
+
+94 |
+
+094003 |
+
+Trésorerie spécialisée
+
+|
+
+CACHAN
+
+|
+
+95 |
+
+095045 |
+
+SIE
+
+|
+
+CERGY-PONTOISE EST
+
+|
+
+95 |
+
+095047 |
+
+SIE
+
+|
+
+GARGES-LÈS-GONESSE EST
+
+|
+
+95 |
+
+095049 |
+
+SIE
+
+|
+
+GARGES-LÈS-GONESSE CENTRE
+
+|
+
+95 |
+
+― |
+
+SIP
+
+|
+
+SAINT-LEU-LA-FORÊT
+
+|
+
+971 |
+
+101026 |
+
+SIE
+
+|
+
+BASSE-TERRE NORD - LAMENTIN
+
+|
+
+972 |
+
+103018 |
+
+SIE
+
+|
+
+FORT-DE-FRANCE EXTÉRIEUR
+
+|
+
+972 |
+
+103013 |
+
+SIP-SIE
+
+|
+
+TRINITÉ
+
+|
+
+972 |
+
+103014 |
+
+SIP-SIE
+
+|
+
+LE MARIN
+
+|
+
+974 |
+
+104020 |
+
+SIE
+
+|
+
+SAINT-DENIS DE LA RÉUNION OUEST
+
+|

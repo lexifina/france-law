@@ -1,0 +1,1729 @@
+# Article Annexe VI
+
+LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 5e CATÉGORIE
+
+DIR
+
+|
+
+RÉFÉRENCE
+
+|
+
+FAMILLE
+
+|
+
+LIBELLÉ
+
+|
+
+01 |
+
+001048 |
+
+SIP-SIE |
+
+BELLEGARDE-SUR-VALSERINE
+
+|
+
+01 |
+
+001050 |
+
+SIP-SIE |
+
+OYONNAX
+
+|
+
+02 |
+
+002077 |
+
+SIE |
+
+LAON
+
+|
+
+03 |
+
+003039 |
+
+SIE |
+
+VICHY
+
+|
+
+03 |
+
+003040 |
+
+SIE |
+
+MOULINS
+
+|
+
+05 |
+
+005026 |
+
+SIE |
+
+GAP
+
+|
+
+06 |
+
+006032 |
+
+SIE |
+
+VALBONNE
+
+|
+
+06 |
+
+006034 |
+
+SIE |
+
+CANNES EXTÉRIEUR
+
+|
+
+06 |
+
+006036 |
+
+SIE |
+
+MENTON
+
+|
+
+06 |
+
+006037 |
+
+SIE |
+
+NICE OUEST
+
+|
+
+07 |
+
+007005 |
+
+SIP-SIE |
+
+AUBENAS
+
+|
+
+08 |
+
+008053 |
+
+SIE |
+
+CHARLEVILLE-MÉZIÈRES
+
+|
+
+10 |
+
+010043 |
+
+SIE |
+
+TROYES AGGLOMÉRATION
+
+|
+
+10 |
+
+010044 |
+
+SIE |
+
+TROYES EXTÉRIEUR
+
+|
+
+12 |
+
+012053 |
+
+SIE |
+
+RODEZ
+
+|
+
+13 |
+
+013028 |
+
+SIE |
+
+AUBAGNE
+
+|
+
+13 |
+
+013031 |
+
+SIE |
+
+MARSEILLE 1er ARRONDISSEMENT
+
+|
+
+13 |
+
+013037 |
+
+SIE |
+
+MARSEILLE 8e
+
+|
+
+13 |
+
+013044 |
+
+SIE |
+
+TARASCON
+
+|
+
+13 |
+
+013118 |
+
+SIP |
+
+SALON-DE-PROVENCE
+
+|
+
+13 |
+
+013027 |
+
+SIP-SIE |
+
+LA CIOTAT
+
+|
+
+16 |
+
+016051 |
+
+SIE |
+
+ANGOULÊME VILLE
+
+|
+
+17 |
+
+017052 |
+
+SIE |
+
+LA ROCHELLE OUEST
+
+|
+
+17 |
+
+017053 |
+
+SIE |
+
+ROYAN
+
+|
+
+18 |
+
+018048 |
+
+SIE |
+
+BOURGES SUD
+
+|
+
+21 |
+
+021007 |
+
+SIE |
+
+BEAUNE
+
+|
+
+22 |
+
+022054 |
+
+SIE |
+
+DINAN
+
+|
+
+22 |
+
+022059 |
+
+SIE |
+
+SAINT-BRIEUC EST
+
+|
+
+24 |
+
+024063 |
+
+SIE |
+
+BERGERAC
+
+|
+
+25 |
+
+025053 |
+
+SIE |
+
+BESANÇON EST
+
+|
+
+25 |
+
+025059 |
+
+SIP |
+
+MONTBÉLIARD
+
+|
+
+26 |
+
+026014 |
+
+SIE |
+
+MONTÉLIMAR
+
+|
+
+26 |
+
+026021 |
+
+SIE |
+
+ROMANS-SUR-ISÈRE
+
+|
+
+26 |
+
+026047 |
+
+SIE |
+
+VALENCE SUD
+
+|
+
+26 |
+
+026048 |
+
+SIE |
+
+VALENCE NORD
+
+|
+
+28 |
+
+028006 |
+
+SIE |
+
+DREUX
+
+|
+
+29 |
+
+029046 |
+
+SIE |
+
+MORLAIX
+
+|
+
+29 |
+
+029047 |
+
+SIE |
+
+QUIMPER OUEST
+
+|
+
+29 |
+
+029048 |
+
+SIE |
+
+QUIMPER EST
+
+|
+
+30 |
+
+030057 |
+
+SIE |
+
+NÎMES OUEST
+
+|
+
+31 |
+
+031022 |
+
+SIE |
+
+SAINT-GAUDENS
+
+|
+
+31 |
+
+031025 |
+
+SIE |
+
+TOULOUSE CENTRE
+
+|
+
+31 |
+
+031067 |
+
+SIE |
+
+TOULOUSE NORD-OUEST
+
+|
+
+31 |
+
+031068 |
+
+SIE |
+
+TOULOUSE OUEST
+
+|
+
+31 |
+
+031094 |
+
+SIE |
+
+MURET
+
+|
+
+32 |
+
+032039 |
+
+SIE |
+
+AUCH
+
+|
+
+33 |
+
+033019 |
+
+SIE |
+
+BORDEAUX NORD-EST
+
+|
+
+33 |
+
+033033 |
+
+SIE |
+
+BORDEAUX BOUSCAT
+
+|
+
+34 |
+
+034050 |
+
+SIE |
+
+BITERROIS
+
+|
+
+34 |
+
+034053 |
+
+SIE |
+
+MONTPELLIER NORD-OUEST
+
+|
+
+34 |
+
+034056 |
+
+SIE |
+
+SÈTE
+
+|
+
+34 |
+
+034058 |
+
+SIE |
+
+MONTPELLIER-I
+
+|
+
+34 |
+
+034062 |
+
+SIP |
+
+MONTPELLIER NORD-OUEST
+
+|
+
+34 |
+
+034041 |
+
+SIP-SIE |
+
+PÉZENAS
+
+|
+
+35 |
+
+035059 |
+
+SIE |
+
+RENNES NORD
+
+|
+
+35 |
+
+035061 |
+
+SIE |
+
+RENNES SUD
+
+|
+
+35 |
+
+035006 |
+
+Trésorerie mixte |
+
+RENNES BANLIEUE EST
+
+|
+
+36 |
+
+036034 |
+
+SIE |
+
+CHÂTEAUROUX
+
+|
+
+37 |
+
+037035 |
+
+SIE |
+
+TOURS OUEST
+
+|
+
+38 |
+
+038059 |
+
+SIE |
+
+BOURGOIN-JALLIEU
+
+|
+
+38 |
+
+038107 |
+
+Trésorerie mixte |
+
+ROUSSILLONNAIS
+
+|
+
+39 |
+
+039046 |
+
+SIE |
+
+LONS-LE-SAUNIER
+
+|
+
+40 |
+
+040034 |
+
+SIE |
+
+DAX NORD-OUEST
+
+|
+
+40 |
+
+040035 |
+
+SIE |
+
+DAX SUD-EST
+
+|
+
+40 |
+
+040036 |
+
+SIE |
+
+MONT-DE-MARSAN
+
+|
+
+42 |
+
+042036 |
+
+SIE |
+
+MONTBRISON
+
+|
+
+44 |
+
+044045 |
+
+SIE |
+
+NANTES NORD-OUEST
+
+|
+
+44 |
+
+044046 |
+
+SIE |
+
+NANTES OUEST
+
+|
+
+44 |
+
+044047 |
+
+SIE |
+
+NANTES SUD
+
+|
+
+44 |
+
+044048 |
+
+SIE |
+
+NANTES SUD-OUEST
+
+|
+
+44 |
+
+044051 |
+
+SIE |
+
+SAINT-NAZAIRE NORD-OUEST
+
+|
+
+44 |
+
+044040 |
+
+SIP-SIE |
+
+CHÂTEAUBRIANT
+
+|
+
+45 |
+
+045048 |
+
+SIE |
+
+MONTARGIS
+
+|
+
+45 |
+
+045050 |
+
+SIE |
+
+ORLÉANS EST
+
+|
+
+49 |
+
+049015 |
+
+SIE |
+
+ANGERS NORD
+
+|
+
+51 |
+
+051043 |
+
+SIE |
+
+ÉPERNAY
+
+|
+
+51 |
+
+051045 |
+
+SIE |
+
+REIMS NORD
+
+|
+
+54 |
+
+054052 |
+
+SIE |
+
+NANCY SUD-EST
+
+|
+
+56 |
+
+056042 |
+
+SIE |
+
+AURAY
+
+|
+
+57 |
+
+057074 |
+
+SIE |
+
+SARREGUEMINES
+
+|
+
+57 |
+
+057075 |
+
+SIE |
+
+THIONVILLE
+
+|
+
+58 |
+
+058037 |
+
+SIE |
+
+NEVERS
+
+|
+
+59 |
+
+059051 |
+
+SIE |
+
+LILLE NORD
+
+|
+
+59 |
+
+059063 |
+
+SIE |
+
+ROUBAIX SUD
+
+|
+
+59 |
+
+059075 |
+
+SIE |
+
+VALENCIENNES VAL DE SCARPE
+
+|
+
+59 |
+
+059015 |
+
+PRS |
+
+NORD
+
+|
+
+60 |
+
+060065 |
+
+SIE |
+
+CREIL
+
+|
+
+60 |
+
+060066 |
+
+SIE |
+
+SENLIS
+
+|
+
+62 |
+
+062015 |
+
+SIE |
+
+BÉTHUNE
+
+|
+
+62 |
+
+062016 |
+
+SIE |
+
+BOULOGNE-SUR-MER
+
+|
+
+62 |
+
+062022 |
+
+SIE |
+
+CALAIS
+
+|
+
+62 |
+
+062023 |
+
+SIE |
+
+LENS
+
+|
+
+62 |
+
+062067 |
+
+SIP-SIE |
+
+HÉNIN-BEAUMONT
+
+|
+
+63 |
+
+063068 |
+
+SIE |
+
+CLERMONT-FERRAND NORD-OUEST
+
+|
+
+64 |
+
+064053 |
+
+SIE |
+
+BIARRITZ
+
+|
+
+64 |
+
+064057 |
+
+SIE |
+
+PAU SUD
+
+|
+
+66 |
+
+066033 |
+
+SIE |
+
+PERPIGNAN AGLY
+
+|
+
+66 |
+
+066035 |
+
+SIE |
+
+PERPIGNAN REART
+
+|
+
+67 |
+
+067052 |
+
+SIE |
+
+MOLSHEIM
+
+|
+
+67 |
+
+067074 |
+
+SIE |
+
+STRASBOURG EST
+
+|
+
+67 |
+
+067077 |
+
+SIE |
+
+ILLKIRCH
+
+|
+
+67 |
+
+067047 |
+
+SIP-SIE |
+
+SÉLESTAT
+
+|
+
+67 |
+
+067117 |
+
+SIP-SIE |
+
+SAVERNE
+
+|
+
+69 |
+
+069017 |
+
+SIE |
+
+LYON 5e ARRONDISSEMENT
+
+|
+
+69 |
+
+069063 |
+
+SIE |
+
+LYON 6e ARRONDISSEMENT
+
+|
+
+69 |
+
+069069 |
+
+SIE |
+
+LYON OUEST
+
+|
+
+69 |
+
+069072 |
+
+SIE |
+
+LYON NORD
+
+|
+
+69 |
+
+069034 |
+
+SIP |
+
+VILLEURBANNE
+
+|
+
+72 |
+
+072058 |
+
+SIE |
+
+LE MANS NORD
+
+|
+
+73 |
+
+073049 |
+
+SIP-SIE |
+
+ALBERTVILLE
+
+|
+
+74 |
+
+074038 |
+
+SIE |
+
+ANNEMASSE
+
+|
+
+74 |
+
+074040 |
+
+SIE |
+
+SALLANCHES
+
+|
+
+74 |
+
+074043 |
+
+SIP |
+
+THONON-LES-BAINS
+
+|
+
+75 |
+
+075055 |
+
+SIE |
+
+PARIS 4e
+
+|
+
+75 |
+
+075073 |
+
+SIE |
+
+PARIS 11e SAINTE-MARGUERITE
+
+|
+
+75 |
+
+075082 |
+
+SIE |
+
+PARIS 12e QUINZE-VINGTS
+
+|
+
+75 |
+
+075083 |
+
+SIE |
+
+PARIS 12e PICPUS
+
+|
+
+75 |
+
+075084 |
+
+SIE |
+
+PARIS 19e BUTTES-CHAUMONT
+
+|
+
+75 |
+
+075087 |
+
+SIE |
+
+PARIS 20e PÈRE-LACHAISE
+
+|
+
+75 |
+
+075710 |
+
+SIE |
+
+PARIS 15e NECKER
+
+|
+
+75 |
+
+075713 |
+
+SIE |
+
+PARIS 16e MUETTE
+
+|
+
+75 |
+
+075715 |
+
+SIE |
+
+PARIS 5e
+
+|
+
+75 |
+
+075718 |
+
+SIE |
+
+PARIS 13e LA GARE
+
+|
+
+75 |
+
+075720 |
+
+SIE |
+
+PARIS 14e MONTPARNASSE
+
+|
+
+75 |
+
+075721 |
+
+SIE |
+
+PARIS 14e ALÉSIA
+
+|
+
+76 |
+
+076033 |
+
+SIE |
+
+LE HAVRE OCÉANE
+
+|
+
+77 |
+
+077048 |
+
+SIE |
+
+MEAUX EST
+
+|
+
+77 |
+
+077050 |
+
+SIE |
+
+MELUN EXTÉRIEUR
+
+|
+
+77 |
+
+077054 |
+
+SIE |
+
+ROISSY-EN-BRIE
+
+|
+
+77 |
+
+077055 |
+
+SIE |
+
+NOISIEL - MARNE-LA-VALLÉE
+
+|
+
+77 |
+
+077057 |
+
+SIE |
+
+CHELLES
+
+|
+
+78 |
+
+078046 |
+
+SIP |
+
+SAINT-QUENTIN-EN-YVELINES EST
+
+|
+
+78 |
+
+078048 |
+
+PRS |
+
+YVELINES
+
+|
+
+79 |
+
+079048 |
+
+SIE |
+
+NIORT
+
+|
+
+80 |
+
+080017 |
+
+SIE |
+
+AMIENS NORD-EST
+
+|
+
+83 |
+
+083031 |
+
+SIE |
+
+BRIGNOLES
+
+|
+
+83 |
+
+083034 |
+
+SIE |
+
+FRÉJUS
+
+|
+
+83 |
+
+083035 |
+
+SIE |
+
+HYÈRES
+
+|
+
+85 |
+
+085045 |
+
+SIE |
+
+LA ROCHE-SUR-YON NORD
+
+|
+
+85 |
+
+085047 |
+
+SIE |
+
+LES SABLES-D'OLONNE
+
+|
+
+86 |
+
+086048 |
+
+SIE |
+
+POITIERS SUD
+
+|
+
+87 |
+
+087040 |
+
+SIE |
+
+LIMOGES EXTÉRIEUR
+
+|
+
+87 |
+
+087041 |
+
+SIE |
+
+LIMOGES VILLE
+
+|
+
+89 |
+
+089020 |
+
+SIE |
+
+AUXERRE
+
+|
+
+89 |
+
+089026 |
+
+SIE |
+
+SENS
+
+|
+
+91 |
+
+091039 |
+
+SIE |
+
+ARPAJON
+
+|
+
+91 |
+
+091045 |
+
+SIE |
+
+MASSY SUD
+
+|
+
+91 |
+
+091048 |
+
+SIE |
+
+YERRES
+
+|
+
+91 |
+
+091049 |
+
+SIE |
+
+ÉVRY
+
+|
+
+92 |
+
+092060 |
+
+SIE |
+
+SURESNES
+
+|
+
+92 |
+
+092064 |
+
+SIE |
+
+MONTROUGE
+
+|
+
+92 |
+
+092067 |
+
+SIE |
+
+SÈVRES
+
+|
+
+92 |
+
+092049 |
+
+SIP |
+
+BOULOGNE-BILLANCOURT NORD
+
+|
+
+93 |
+
+093044 |
+
+SIE |
+
+LE BLANC-MESNIL
+
+|
+
+93 |
+
+093047 |
+
+SIE |
+
+LIVRY-GARGAN
+
+|
+
+93 |
+
+093048 |
+
+SIE |
+
+MONTREUIL EST
+
+|
+
+93 |
+
+093051 |
+
+SIE |
+
+MONTREUIL OUEST
+
+|
+
+93 |
+
+093052 |
+
+SIE |
+
+NEUILLY-SUR-MARNE
+
+|
+
+93 |
+
+093054 |
+
+SIE |
+
+PANTIN
+
+|
+
+93 |
+
+093055 |
+
+SIE |
+
+LE RAINCY
+
+|
+
+94 |
+
+094045 |
+
+SIE |
+
+L'HAY¨-LES-ROSES
+
+|
+
+94 |
+
+094040 |
+
+PRS |
+
+VAL-DE-MARNE
+
+|
+
+95 |
+
+095042 |
+
+SIE |
+
+ERMONT EST
+
+|
+
+95 |
+
+095044 |
+
+SIE |
+
+CERGY-PONTOISE OUEST
+
+|
+
+95 |
+
+095055 |
+
+SIE |
+
+ARGENTEUIL VILLE
+
+|
+
+971 |
+
+101023 |
+
+SIE |
+
+GRANDE-TERRE SUD - POINTE-À-PITRE
+
+|
+
+971 |
+
+101021 |
+
+SIP |
+
+GRANDE-TERRE NORD
+
+|
+
+974 |
+
+104016 |
+
+SIP-SIE |
+
+SAINT-BENOÎT
+
+|
+
+974 |
+
+104021 |
+
+SIE |
+
+SAINT-DENIS DE LA RÉUNION EST
+
+|
+
+B31 |
+
+903003 |
+
+SIE |
+
+RECETTE DES NON-RÉSIDENTS
+
+|
+
+B31 |
+
+903002 |
+
+SIE |
+
+ENTREPRISES ÉTRANGERES
+
+|

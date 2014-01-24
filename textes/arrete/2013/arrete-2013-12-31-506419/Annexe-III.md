@@ -18,6 +18,16 @@ LIBELLÉ
 
 |
 
+01 |
+
+001016 |
+
+SIE |
+
+BOURG-EN-BRESSE
+
+|
+
 03 |
 
 003008 |
@@ -45,6 +55,46 @@ NICE COLLINES
 Trésorerie spécialisée |
 
 NICE MUNICIPALE
+
+|
+
+11 |
+
+011049 |
+
+Trésorerie spécialisée |
+
+NARBONNE AGGLOMÉRATION
+
+|
+
+13 |
+
+013030 |
+
+SIE |
+
+MARSEILLE 2e, 15e ET 16e
+
+|
+
+13 |
+
+013039 |
+
+SIE |
+
+AIX-EN-PROVENCE NORD
+
+|
+
+13 |
+
+013043 |
+
+SIE |
+
+SALON-DE-PROVENCE
 
 |
 
@@ -120,16 +170,6 @@ GRAND BESANÇON
 
 28 |
 
-028013 |
-
-Trésorerie mixte |
-
-CHARTRES BANLIEUE
-
-|
-
-28 |
-
 028014 |
 
 Trésorerie spécialisée |
@@ -185,16 +225,6 @@ TOULOUSE CHU
 Trésorerie spécialisée |
 
 HAUTE-GARONNE
-
-|
-
-33 |
-
-033017 |
-
-Trésorerie spécialisée |
-
-BORDEAUX MUNICIPALE
 
 |
 
@@ -260,6 +290,16 @@ RENNES OUEST
 
 35 |
 
+035058 |
+
+SIE |
+
+RENNES EST
+
+|
+
+35 |
+
 035031 |
 
 Trésorerie spécialisée |
@@ -275,6 +315,16 @@ RENNES MUNICIPALE
 Trésorerie spécialisée |
 
 CHÂTEAUROUX MUNICIPALE
+
+|
+
+38 |
+
+038063 |
+
+SIE |
+
+GRENOBLE OISANS-DRAC
 
 |
 
@@ -308,13 +358,13 @@ LONS MUNICIPALE ET AMENDES
 
 |
 
-42 |
+40 |
 
-042210 |
+040039 |
 
-Trésorerie spécialisée |
+SIP |
 
-ROANNE MUNICIPALE
+DAX
 
 |
 
@@ -355,6 +405,26 @@ ANGERS MUNICIPALE
 Trésorerie spécialisée |
 
 VANNES MUNICIPALE
+
+|
+
+59 |
+
+059060 |
+
+SIE |
+
+GRAND LILLE EST
+
+|
+
+59 |
+
+059062 |
+
+SIE |
+
+ROUBAIX NORD
 
 |
 
@@ -420,11 +490,31 @@ STRASBOURG OUEST
 
 67 |
 
+067058 |
+
+Trésorerie spécialisée |
+
+STRASBOURG MUNICIPALE ET COMMUNAUTÉ URBAINE
+
+|
+
+67 |
+
 067060 |
 
 Trésorerie spécialisée |
 
 STRASBOURG HÔPITAUX UNIVERSITAIRES
+
+|
+
+68 |
+
+068038 |
+
+SIE |
+
+MULHOUSE VILLE
 
 |
 
@@ -434,27 +524,17 @@ STRASBOURG HÔPITAUX UNIVERSITAIRES
 
 SIP |
 
-LYON 3e
+LYON 3e ARRONDISSEMENT
 
 |
 
 69 |
 
-069019 |
+069067 |
 
-Trésorerie spécialisée |
+SIE |
 
-LYON MUNICIPALE
-
-|
-
-69 |
-
-069022 |
-
-Trésorerie spécialisée |
-
-LYON HOSPICES CIVILS
+LYON EST
 
 |
 
@@ -475,6 +555,16 @@ GRAND LYON
 Trésorerie spécialisée |
 
 RHÔNE-ALPES
+
+|
+
+74 |
+
+074045 |
+
+SIP-SIE |
+
+SEYNOD
 
 |
 
@@ -530,31 +620,41 @@ PARIS 16e LA MUETTE
 
 75 |
 
-075088 |
+075059 |
 
 SIE |
 
-PARIS 8e CHAMPS-ÉLYSÉES
+PARIS 10e SUD
 
 |
 
 75 |
 
-075092 |
+075091 |
 
 SIE |
 
-PARIS 8e MADELEINE
+PARIS 8e EUROPE-ROME
 
 |
 
 75 |
 
-075712 |
+075093 |
 
 SIE |
 
-PARIS 16e CHAILLOT
+PARIS 8e ROULE-ARTOIS
+
+|
+
+75 |
+
+075050 |
+
+PRS |
+
+PARIS SUD-OUEST
 
 |
 
@@ -568,13 +668,13 @@ PARIS AMENDES 2e DIVISION
 
 |
 
-75 |
+78 |
 
-075050 |
+078064 |
 
-PRS |
+SIP |
 
-PARIS SUD-OUEST
+SAINT-GERMAIN-EN-LAYE NORD
 
 |
 
@@ -594,7 +694,17 @@ OPIEVOY-HLM
 
 Trésorerie spécialisée |
 
-ALBI-VILLE ET PÉRIPHÉRIE
+ALBI VILLE ET PÉRIPHÉRIE
+
+|
+
+85 |
+
+085037 |
+
+Trésorerie mixte |
+
+SAINT-GILLES-CROIX-DE-VIE
 
 |
 
@@ -620,21 +730,11 @@ NEUILLY
 
 92 |
 
-092059 |
+092041 |
 
-SIE |
+Trésorerie spécialisée |
 
-NEUILLY
-
-|
-
-92 |
-
-092063 |
-
-SIE |
-
-ISSY-LES-MOULINEAUX
+OPDH DES HAUTS-DE-SEINE
 
 |
 
@@ -754,6 +854,6 @@ B31 |
 
 SIP |
 
-NON RÉSIDENTS
+NON-RÉSIDENTS
 
 |
