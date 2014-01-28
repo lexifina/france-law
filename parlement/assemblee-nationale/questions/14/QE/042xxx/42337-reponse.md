@@ -1,0 +1,9 @@
+# Réponse à la question n° 42337
+
+- Question : [42337](42337.md) — Question n° 42337 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2014-01-28*
+
+Le bon équilibre entre les différents modes de diffusion de la presse (portage, postage et vente au numéro) doit être décidé par chaque éditeur pour ce qui le concerne, et par l'ensemble des éditeurs pour optimiser de façon cohérente pour l'ensemble de la filière le fonctionnement des trois réseaux de diffusion. L'État a, depuis 2008, accompagné de façon plus intensive le développement du portage, pour permettre de consolider et de développer les abonnements et donc la situation économique de la presse d'information politique et générale. Le bilan mené à la demande de l'État fin 2012 et début 2013 a toutefois souligné la nécessité de faire évoluer l'aide au portage, afin de rendre celle-ci plus incitative au développement géographique du portage et à sa mutualisation. Comme le souligne la Cour des comptes, la poursuite de la transition du postage vers le portage est une piste intéressante pour certaines familles de presse. Le Gouvernement souhaite expertiser plus avant les impacts d'un tel développement, au plan logistique et son impact en matière d'aides publiques. Aussi, une mission tripartite inspection générale des finances - inspection générale des affaires culturelles - conseil général de l'industrie, de l'énergie et des technologies, a été annoncée pour étudier les perspectives de la distribution de la presse papier à moyen terme. Sur la base d'un bilan de l'existant et d'une concertation avec les différentes parties prenantes, cette mission devra proposer un cadre pour la mise en cohérence des différents canaux de diffusion de la presse - portage, postage, vente au numéro -, dans la perspective de la fin des accords État-presse-La Poste fin 2015. Elle suggèrera des pistes d'évolution du soutien de l'État.
