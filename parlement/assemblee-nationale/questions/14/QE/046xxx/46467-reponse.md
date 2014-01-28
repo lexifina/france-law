@@ -1,0 +1,9 @@
+# Réponse à la question n° 46467
+
+- Question : [46467](46467.md) — Question n° 46467 — non-salariés agricoles; Alsace-Moselle
+
+## Réponse
+
+*JO du 2014-01-28*
+
+La loi du 9 novembre 2010 portant réforme des retraites a instauré un droit à retraite anticipée au titre de la pénibilité pour les personnes salariées du régime général ainsi que pour les personnes salariées et non-salariées des régimes agricoles souffrant d'une incapacité physique permanente au moins égale à 20 % ou, sous certaines conditions, à 10 % reconnue au titre d'un accident du travail ou d'une maladie professionnelle. Ce dispositif, applicable depuis le 1er juillet 2011, permet à l'assuré de prendre sa retraite dès l'âge de soixante ans et de liquider sa pension à taux plein quel que soit le nombre de trimestres validés. Le financement de la mesure est assuré par la branche accidents du travail et maladies professionnelles du régime général et des régimes salarié et non-salarié agricoles, au moyen d'une majoration de cotisation. Les personnes salariées et non-salariées des professions agricoles des départements du Haut-Rhin, du Bas-Rhin et de la Moselle relèvent d'un régime particulier d'assurance contre les accidents du travail et les maladies professionnelles, organisé par le code local des assurances sociales du 19 juillet 1911. Cependant, la loi du 9 novembre 2010 ne contient pas de dispositions prévoyant que ce régime local supporte la charge des départs en retraite anticipée au titre de la pénibilité. Le législateur n'a toutefois pas entendu exclure les ressortissants des départements du Haut-Rhin, du Bas-Rhin et de la Moselle du bénéfice de la retraite anticipée au titre de la pénibilité. C'est pourquoi, les pouvoirs publics ont engagé une réflexion pour prendre les mesures d'adaptation qui permettraient de faire bénéficier l'ensemble des assurés sociaux de ce dispositif.
