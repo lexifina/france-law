@@ -1,0 +1,9 @@
+# Réponse à la question n° 42861
+
+- Question : [42861](42861.md) — Question n° 42861 — droit d'accès et de rectification; mise en oeuvre
+
+## Réponse
+
+*JO du 2014-01-28*
+
+En application de la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés dite « loi informatique et libertés », les citoyens peuvent faire valoir auprès des administrations et services dépendant du ministre délégué auprès de la ministre de l'égalité des territoires et du logement, chargé de la ville, leur droit d'accès et de rectification des données incluses dans des fichiers les concernant. Le nombre important de services qui assurent ces traitements de donnés à caractère personnel auprès desquels les personnes concernées peuvent exercer ce droit ne permet de disposer ni d'informations centralisées ni de données statistiques suffisamment fiables et ce, malgré les sondages menés lors des années antérieures. Les personnes concernées déposent, en effet, de telles demandes d'accès et/ou de rectification des données directement auprès du service chargé du droit d'accès désigné, conformément à la législation en vigueur, pour chaque fichier auquel recourt un service central ou déconcentré et dont les coordonnées, indiquées dans la déclaration déposée auprès de la Commission nationale de l'informatique et des libertés (CNIL), sont précisées dans la mention portée, conformément aux dispositions de l'article 38 de la loi du 6 janvier 1978, à la connaissance de toute personne intéressée. Il convient en outre, de souligner qu'un tel recensement n'existe pas nécessairement au sein de chaque service chargé du droit d'accès pour un fichier donné dès lors qu'il ne relève d'aucune des obligations incombant aux responsables de traitements mentionnées à la section 1 du chapitre V de la loi informatique et libertés.
