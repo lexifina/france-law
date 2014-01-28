@@ -1,0 +1,9 @@
+# Réponse à la question n° 13645
+
+- Question : [13645](13645.md) — Question n° 13645 — réglementation
+
+## Réponse
+
+*JO du 2014-01-28*
+
+La loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 prévoit, à son article 22, que le solde du dépôt de garantie restant dû au locataire doit être restitué dans un délai maximal de deux mois à compter de la restitution des clés par le locataire. Alors que ce délai est justifié au regard des éventuelles réparations à effectuer dans le logement et des justificatifs à produire, ce n'est pas le cas lorsqu'aucune dégradation n'est constatée. Afin de mettre en cohérence les délais de restitution au regard de l'objet du dépôt de garantie tout en préservant l'intérêt des parties au contrat, le projet de loi pour l'accès au logement et un urbanisme rénové (ALUR), voté en première lecture le 17 septembre 2013 par l'Assemblée nationale et le 28 octobre 2013 par le Sénat, prévoit de modifier la loi du 6 juillet 1989 susvisée en adaptant ces délais aux situations rencontrées par les parties. Ainsi, dans l'hypothèse d'un état des lieux de sortie conforme à l'état des lieux d'entrée, le projet de loi ALUR prévoit la restitution du solde du dépôt de garantie dans un délai d'un mois. En revanche, pour les logements situés dans un immeuble collectif, une provision correspondant à 20 % du dépôt de garantie peut être conservée dans l'attente de l'arrêté des comptes permettant la régularisation des charges locatives. En complément, il est également prévu de sanctionner la restitution tardive du dépôt de garantie par l'application d'une pénalité légale égale à 10 % du loyer mensuel en principal par mois de retard. Cette pénalité se substitue au taux d'intérêt légal de droit commun actuellement applicable et peu incitatif.
