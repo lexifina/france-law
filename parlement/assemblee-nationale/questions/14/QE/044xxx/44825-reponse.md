@@ -1,0 +1,9 @@
+# Réponse à la question n° 44825
+
+- Question : [44825](44825.md) — Question n° 44825 — laïcité; perspectives
+
+## Réponse
+
+*JO du 2014-01-28*
+
+L'article 1er de la constitution de 1958 dispose que « la France est une république laïque » et qu'elle « respecte toutes les croyances ». L'article L4121-2 du code de la défense dispose également que « les opinions ou croyances, notamment philosophiques, religieuses ou politiques sont libres ». Si, par nature, l'Etat et donc les fonctionnaires et les militaires doivent respecter le principe de neutralité, il n'est pas exclu toutefois, dans les conditions prévues par la loi, la prise en compte de la pratique religieuse au sein des forces armées, des hôpitaux et en milieu carcéral comme en atteste le financement de services d'aumônerie permettant l'exercice de la liberté religieuse (art 2 de la loi du 9 décembre 1905). Comme tout citoyen, ils peuvent ainsi assister à des cérémonies religieuses, en uniforme ou non, de leur propre chef en dehors du service, ou pendant celui-ci quand les circonstances l'imposent (tâches de représentation, obsèques religieuses de soldats morts au combat...) ou encore quand ces cérémonies relèvent de la tradition. Comme il est d'usage dans les forces armées à l'occasion des fêtes patronales, une cérémonie est organisée à l'occasion de la célébration de la fête de Sainte Geneviève, patronne de la gendarmerie nationale. Cette activité de tradition participe à la cohésion de l'institution. Ces cérémonies, qui peuvent comprendre un office religieux, se déroulent dans le respect de la liberté de conscience de chacun. La participation à l'office religieux ne revêt aucun caractère obligatoire et n'y assistent que les seuls personnels volontaires. Ce principe étant ainsi posé, les cérémonies organisées à cette occasion ne dérogent pas aux principes républicains.
