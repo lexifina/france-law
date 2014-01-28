@@ -1,0 +1,9 @@
+# Réponse à la question n° 13901
+
+- Question : [13901](13901.md) — Question n° 13901 — ascenseurs; conduites d'eau; mise aux normes; délais
+
+## Réponse
+
+*JO du 2014-01-28*
+
+En ce qui concerne les travaux de sécurité des ascenseurs, la ministre de l'égalité des territoires et du logement a décidé par décret du 23 juillet 2013 de reporter d'un an, soit au 3 juillet 2014, la date limite de réalisation des travaux de la 2e phase afin de permettre aux propriétaires d'effectuer les travaux nécessaires. De plus, il a été observé un glissement du coût des travaux et du nombre d'ascenseurs finalement concernés par l'installation du dispositif de précision d'arrêt. Par conséquent, la ministre a décidé parce même décret de limiter l'obligation de mise en oeuvre du dispositif de précision d'arrêt aux seuls ascenseurs installés dans des établissements recevant du public (ERP). La ministre de l'égalité des territoires et du logement a également annoncé la constitution d'un groupe de travail, piloté par les services du ministère, chargé de réexaminer la pertinence de poursuivre la mise en oeuvre de ce dispositif dans les ascenseurs installés en dehors des ERP, et le cas échéant, de proposer des solutions moins onéreuses. Ces mesures illustrent le « choc de simplification » annoncé le 21 mars 2013 par le Président de la République dans le cadre du plan d'investissement pour le logement, qui vise à éliminer les réglementations présentant le rapport coût/efficacité le moins probant. En ce qui concerne le taux de plomb maximum autorisé, il s'agit d'une disposition de la directive européenne 98/83 du 3 novembre 1998 transposée dans le code de la santé publique : le taux de plomb dans les réseaux doit être inférieur à 25 µg/L jusqu'au 25/12/2013 puis, passé cette date, être inférieur à 10 µg/L. Les obligations posées par la réglementation relative à la teneur en plomb imposent l'atteinte d'un résultat, mais ne posent à ce stade aucune obligation de moyen.
