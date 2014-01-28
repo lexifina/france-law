@@ -1,0 +1,9 @@
+# Réponse à la question n° 41137
+
+- Question : [41137](41137.md) — Question n° 41137 — villes historiques; réforme; préservation
+
+## Réponse
+
+*JO du 2014-01-28*
+
+La sauvegarde et la mise en valeur du patrimoine urbain et paysager constituent une politique essentielle de l'attractivité du territoire français et la qualité du cadre de vie. C'est pourquoi, tout en poursuivant l'objectif d'une optimisation de la législation du patrimoine urbain et paysager, le Gouvernement souhaite maintenir, parallèlement à la réorganisation des régimes de protection notamment des espaces, des mesures incitatives et d'aide à la restauration immobilière. Tel sera le cas des travaux conduits en « cité historique », dans la mesure où ce nouveau dispositif intégrera l'ensemble des secteurs sauvegardés et des zones de protection du patrimoine architectural, urbain et paysager (ZPPAUP) et des aires de mise en valeur de l'architecture et du patrimoine (AVAP) existants. Ces instruments de protection bénéficient en effet, depuis 1977 pour les secteurs sauvegardés et depuis 1995 pour les ZPPAUP - mesure étendue aux AVAP - d'un régime fiscal de faveur permettant une déduction puis, à compter de 2009, d'une réduction d'impôts au titre des opérations de restauration immobilière. Ce régime fiscal comporte, de fait, depuis 1995, une différenciation des taux d'imputation des dépenses entre secteur sauvegardé et AVAP. Il n'est pas envisagé, dans le cadre de la mise en oeuvre de la loi relative aux patrimoines, de modifier l'économie générale de ce régime, mais, simplement, de l'aménager afin d'assurer une continuité, nécessaire pour les investisseurs privés, de la politique de gestion des espaces protégés et des mesures incitatives qu'elle doit comprendre. Il reviendra aux travaux préparatoires au prochain projet de loi de finances de retenir, en accord avec le ministère des finances, la définition au code général des impôts de dispositions optimales à cet effet.
