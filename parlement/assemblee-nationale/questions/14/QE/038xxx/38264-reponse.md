@@ -1,0 +1,9 @@
+# Réponse à la question n° 38264
+
+- Question : [38264](38264.md) — Question n° 38264 — exonérations; zones d'aménagement concerté
+
+## Réponse
+
+*JO du 2014-01-28*
+
+L'objet d'une ZAC est de faire réaliser les équipements publics nécessaires à l'accueil de nouvelles constructions par l'aménageur (CE Section 28 juillet 1993, req. no 124099, « Commune de Chamonix-Mont-Blanc »). Ce dernier en répercute le coût aux constructeurs dans le prix des terrains qu'il leur cède. Le programme des équipements publics à réaliser constitue une pièce obligatoire du dossier de réalisation de la zone d'aménagement concerté (ZAC). L'exonération de taxe d'aménagement des constructeurs en ZAC est subordonnée à la prise en charge par l'aménageur d'un minimum d'équipements publics définis à l'article R. 331-6 du code de l'urbanisme. La liste de ces équipements publics peut être complétée par délibération du conseil municipal (article L. 331-7-5° du code de l'urbanisme). Dès lors que ce minimum d'équipements publics est pris en charge par l'aménageur, l'exonération de la Taxe d'aménagement (TA) est de droit, même si d'autres équipements publics réalisés dans la ZAC ne sont pas pris en charge par l'aménageur. Cependant, en l'absence de délibération rendant obligatoire la prise en charge par l'aménageur de certains équipements publics supplémentaires, la collectivité peut aussi imposer, par le biais du programme des équipements publics, la réalisation d'équipements publics répondant aux besoins des futurs usagers ou habitants de la ZAC. Ces équipements publics ne doivent pas être confondus avec les équipements propres, internes aux unités foncières supportant des opérations de lotissement ou de construction dans le périmètre de la ZAC et dont la définition est rappelée à l'article L. 332-15 du code de l'urbanisme.
