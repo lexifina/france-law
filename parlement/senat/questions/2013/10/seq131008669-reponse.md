@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008669
+
+- Question : [SEQ131008669](seq131008669.md) — Concept des petites cités de caractère
+
+## Réponse
+
+*Culture et communication, JO du 2014-01-30, page 272*
+
+Initié en 1975, le concept des « Petites cités de caractère » est porté depuis 1976 par une association et couvre à ce jour vingt-deux communes bretonnes. Le conseil régional de Bretagne apporte son soutien financier aux actions du réseau. L'association a en outre déposé, en 1998, la marque « Petite cité de caractère » à l'Institut national de la propriété industrielle. Depuis, le réseau des « Petites cités de caractère » s'est développé au niveau régional (Pays de la Loire, Poitou-Charentes, Champagne-Ardenne, Franche-Comté) et au niveau départemental (Alpes-de-Haute-Provence et Var, notamment). Enfin, une association nationale des petites cités de caractère s'est constituée en 2009, à la suite des Assises nationales des Petites cités de caractères, placées sous le haut patronage du ministère en charge du tourisme. Le réseau des « Petites cités de caractère » tient donc son origine d'initiatives régionales, parfois départementales, et il ne paraît pas pertinent que l'État se substitue aux conseils régionaux et conseils généraux, qui sont les instigateurs et les partenaires principaux de ce réseau. Le ministère de la culture et de la communication a mis en place son propre label « Ville et Pays d'art et d'histoire », dont l'attribution est soumise à l'engagement par les collectivités de mettre en place des actions de médiation portant sur le patrimoine, l'architecture et le paysage. La multiplication des labels portant sur un même sujet (« Ville et Pays d'art et d'histoire » et « Petite cité de caractère ») aurait pour effet de rendre peu lisible la politique de labellisation du ministère de la culture et de la communication au détriment, in fine, des collectivités labellisées.
