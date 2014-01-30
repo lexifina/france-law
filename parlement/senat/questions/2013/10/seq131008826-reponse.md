@@ -1,0 +1,43 @@
+# Réponse à la question SEQ131008826
+
+- Question : [SEQ131008826](seq131008826.md) — Modes de scrutin pour les élections municipales et concours de l'État aux candidats
+
+## Réponse
+
+*Intérieur, JO du 2014-01-30, page 278*
+
+Le remboursement des frais liés à l'impression et à l'affichage des documents de propagande (bulletins de vote, circulaires et affiches) lors des prochaines élections municipales s'effectue aux termes des articles L. 242 (modifié par l'article 24 de la loi n° 2013-403 du 17 mai 2013) et L. 243 du code électoral. Sont à la charge de l'État, pour les candidats ayant obtenu au moins 5 % des suffrages exprimés à l'un des deux tours de scrutin, dans une commune de 1 000 habitants et plus, le coût du papier, l'impression des bulletins de vote, affiches et circulaires, ainsi que les frais d'affichage. Ce remboursement s'effectue sous réserve du respect des articles R. 27, R. 29 et R. 30 du code électoral. Pour les candidats ne bénéficiant pas du concours de la commission de propagande pour la mise sous pli de leurs documents de propagande (dans les communes inférieures à 2 500 habitants), le contrôle du respect des dispositions des articles R. 27, R. 29 et R. 30 du code électoral, préalable au remboursement des frais liés à la propagande, sera effectué au moyen de pièces justificatives qui sont précisées dans le mémento à l'attention des candidats dans les communes de 1 000 habitants et plus. La prise en charge par l'État de la mise sous pli et de l'envoi aux électeurs des documents de propagande (bulletins de vote et circulaires) s'effectue aux termes de l'article L. 241 du code électoral qui énonce que « des commissions, dont la composition et le fonctionnement sont fixés par décret, sont chargées, pour les communes de 2 500 habitants et plus, d'assurer l'envoi et la distribution des documents de propagande électorale ». Contrairement au seuil définissant le mode de scrutin, la loi n° 2013-403 du 17 mai 2013 n'a pas modifié le seuil de 2 500 habitants au-delà duquel l'envoi et la distribution des documents de propagande électorale sont assurés par les commissions de propagande. Par conséquent, pour les communes entre 1 000 et 2 499 habitants, l'envoi et la distribution des documents de propagande ne seront pas assurés par la commission de propagande. Les listes qui souhaitent adresser aux électeurs une circulaire et/ou un bulletin de vote doivent assurer leur distribution par leurs propres moyens. Il appartient également à ces listes de déposer leurs bulletins de vote auprès du maire au plus tard à midi la veille du scrutin (art. R. 55 du code électoral) ou dans les bureaux de vote le jour de l'élection (art. L. 58 du code électoral). L'établissement d'un compte de campagne s'impose aux candidats dans les communes de 9 000 habitants et plus compte tenu du plafonnement des dépenses électorales dans ces communes. En conséquence, les candidats tête de liste dans les communes de 9 000 habitants et plus doivent : - déclarer un mandataire financier lors de leur déclaration de candidature ; - établir un compte de campagne qui devra, si le candidat obtient au moins 1 % des suffrages exprimés, être déposé à la commission nationale des comptes de campagne et des financements politiques (CNCCFP) au plus tard avant 18 heures le dixième vendredi suivant le premier tour de scrutin, soit avant 18 heures le vendredi 30 mai 2014. Le montant du remboursement forfaitaire versé par l'Etat, dans la limite de 47,5 % du plafond de dépenses de la circonscription (article L. 52-11-1 du code électoral), ne peut excéder l'un des trois montants suivants : - le montant des dépenses électorales arrêté par la CNCCFP, après soustraction et réformation, s'il y a lieu, des dépenses électorales non remboursables ; - le montant de l'apport personnel du candidat, diminué des réformations éventuellement opérées en dépenses et du solde du compte provenant de son apport personnel, - le montant maximal prévu par l'article L. 52-11-1 du code électoral, ce montant étant égal à 47,5 % du montant du plafond des dépenses électorales. Le tableau ci-dessous récapitule pour chaque strate de communes l'éligibilité de celles-ci en matière de : - remboursement de la propagande électorale ; - recours à la commission de propagande pour la mise sous pli et l'envoi de la propagande à la charge de l'Etat ; - établissement d'un compte de campagne et remboursement des dépenses de campagne. Elections municipales.REMBOURSEMENT DU COÛT
+
+du papier, des frais d'impression
+
+et d'affichage des documents
+
+de propagande : bulletins de vote,
+
+circulaires et affiches (articles L.242
+
+et L.243 du code électoral)PRISE EN CHARGE PAR L'ÉTAT
+
+de la mise sous pli et de l'envoi
+
+de la propagande électorale
+
+aux électeurs : bulletins de vote
+
+et circulaires (article L.241 du code électoral)ÉTABLISSEMENT D'UN COMPTE
+
+de campagne de remboursement
+
+forfaitaire des dépenses
+
+de campagne (articles L.52-4
+
+et L.52-12 du code électoral)
+
+Communes de moins de 1000 habitants
+
+Communes de 1 000 à 2 499 habitantsX
+
+Communes de 2 500 habitants et plusXX
+
+Communes de 9 000 habitants et plusXXX
