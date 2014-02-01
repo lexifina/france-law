@@ -52,7 +52,9 @@ Secrétaire général de la commission interministérielle de la politique immob
 
 |
 
-Chargé de mission coopération internationale au cabinet du secrétaire général du Gouvernement |
+Chargé de mission coopération internationale au cabinet du secrétaire général du Gouvernement
+
+|
 
 1
 
@@ -82,7 +84,7 @@ Chef du bureau des achats ministériels
 
 |
 
-Chef du bureau de la gestion administrative et de la paie des personnels
+Chef du bureau du budget
 
 |
 
@@ -122,7 +124,7 @@ Responsable du département de la qualité et du contrôle interne
 
 |
 
-Responsable du département des centres documentaires
+Responsable du département de l'information régalienne et économique
 
 |
 

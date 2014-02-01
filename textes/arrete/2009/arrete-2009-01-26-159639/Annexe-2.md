@@ -40,7 +40,7 @@ Chef du bureau des achats ministériels
 
 |
 
-Chef du bureau de la gestion administrative et de la paie des personnels
+Chef du bureau du budget
 
 |
 
