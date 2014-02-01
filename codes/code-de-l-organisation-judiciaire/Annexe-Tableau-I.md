@@ -8,33 +8,19 @@ Premier président de la Cour de cassation
 
 et procureur général près ladite cour
 
-AUDIENCE
+AUDIENCE |
 
-|
+ROBE |
 
-ROBE
+SIMARRE |
 
-|
+ÉPITOGE |
 
-SIMARRE
+CEINTURE |
 
-|
+TOQUE |
 
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Ordinaire.
 
@@ -96,33 +82,19 @@ Présidents de chambre de la Cour de cassation
 
 et premiers avocats généraux près ladite cour
 
-AUDIENCE
+AUDIENCE |
 
-|
+ROBE |
 
-ROBE
+SIMARRE |
 
-|
+ÉPITOGE |
 
-SIMARRE
+CEINTURE |
 
-|
+TOQUE |
 
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Ordinaire.
 
@@ -184,33 +156,19 @@ Conseillers de la Cour de cassation
 
 et avocats généraux près ladite cour
 
-AUDIENCE
+AUDIENCE |
 
-|
+ROBE |
 
-ROBE
+SIMARRE |
 
-|
+ÉPITOGE |
 
-SIMARRE
+CEINTURE |
 
-|
+TOQUE |
 
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Ordinaire.
 
@@ -272,33 +230,19 @@ Conseillers référendaires de la Cour de cassation
 
 et avocats généraux référendaires près ladite cour
 
-AUDIENCE
+AUDIENCE |
 
-|
+ROBE |
 
-ROBE
+SIMARRE |
 
-|
+ÉPITOGE |
 
-SIMARRE
+CEINTURE |
 
-|
+TOQUE |
 
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Ordinaire.
 
@@ -362,33 +306,19 @@ Premiers présidents des cours d'appel
 
 et procureurs généraux près lesdites cours
 
-AUDIENCE
+AUDIENCE |
 
-|
+ROBE |
 
-ROBE
+SIMARRE |
 
-|
+ÉPITOGE |
 
-SIMARRE
+CEINTURE |
 
-|
+TOQUE |
 
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Ordinaire.
 
@@ -450,33 +380,19 @@ Présidents de chambre des cours d'appel
 
 et avocats généraux près lesdites cours
 
-AUDIENCE
+AUDIENCE |
 
-|
+ROBE |
 
-ROBE
+SIMARRE |
 
-|
+ÉPITOGE |
 
-SIMARRE
+CEINTURE |
 
-|
+TOQUE |
 
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Audience ordinaire.
 
@@ -538,33 +454,19 @@ Conseillers des cours d'appel
 
 et substituts généraux près lesdites cours
 
-AUDIENCE
+AUDIENCE |
 
-|
+ROBE |
 
-ROBE
+SIMARRE |
 
-|
+ÉPITOGE |
 
-SIMARRE
+CEINTURE |
 
-|
+TOQUE |
 
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Ordinaire.
 
@@ -626,37 +528,21 @@ TRIBUNAUX DE GRANDE INSTANCE
 
 ET TRIBUNAUX D'INSTANCE
 
-Présidents des tribunaux de grande instance
+Présidents des tribunaux de grande instance, procureurs de la République près lesdits tribunaux et procureur de la République financier près le tribunal de grande instance de Paris
 
-et procureurs de la République près lesdits tribunaux
+AUDIENCE |
 
-AUDIENCE
+ROBE |
 
-|
+SIMARRE |
 
-ROBE
+ÉPITOGE |
 
-|
+CEINTURE |
 
-SIMARRE
+TOQUE |
 
-|
-
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Ordinaire.
 
@@ -690,7 +576,7 @@ Solennelle (et cérémonies publiques).
 
 |
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris et le procureur de la République près cette juridiction : rouge, à grandes manches.
+Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : rouge, à grandes manches.
 
 |
 
@@ -702,11 +588,11 @@ Comme ci-dessus.
 
 |
 
-De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.
+De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.
 
 |
 
-Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris et le procureur de la République près cette juridiction : de velours noir, avec quatre galons d'or.
+Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or.
 
 |
 
@@ -718,33 +604,19 @@ Premiers vice-présidents, vice-présidents et juges des tribunaux de grande ins
 
 procureurs de République adjoints, vice-procureurs et substituts près lesdits tribunaux
 
-AUDIENCE
+AUDIENCE |
 
-|
+ROBE |
 
-ROBE
+SIMARRE |
 
-|
+ÉPITOGE |
 
-SIMARRE
+CEINTURE |
 
-|
+TOQUE |
 
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Ordinaire.
 
@@ -808,33 +680,19 @@ Présidents des tribunaux supérieurs d'appel
 
 et procureurs de la République près lesdits tribunaux
 
-AUDIENCE
+AUDIENCE |
 
-|
+ROBE |
 
-ROBE
+SIMARRE |
 
-|
+ÉPITOGE |
 
-SIMARRE
+CEINTURE |
 
-|
+TOQUE |
 
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Ordinaire.
 
@@ -896,33 +754,19 @@ Vice-présidents et juges des tribunaux supérieurs d'appel
 
 et substituts près lesdits tribunaux
 
-AUDIENCE
+AUDIENCE |
 
-|
+ROBE |
 
-ROBE
+SIMARRE |
 
-|
+ÉPITOGE |
 
-SIMARRE
+CEINTURE |
 
-|
+TOQUE |
 
-ÉPITOGE
-
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Ordinaire.
 
@@ -982,29 +826,17 @@ Comme ci-dessus.
 
 Auditeurs de justice
 
-ROBE
+AUDIENCE |
 
-|
+SIMARRE |
 
-SIMARRE
+ÉPITOGE |
 
-|
+CEINTURE |
 
-ÉPITOGE
+TOQUE |
 
-|
-
-CEINTURE
-
-|
-
-TOQUE
-
-|
-
-CRAVATE
-
-|
+CRAVATE |
 
 Noire, à grandes manches.
 
@@ -1034,25 +866,15 @@ Juridictions de proximité
 
 Juges de proximité
 
-MÉDAILLE
+AUDIENCE |
 
-|
+BRONZE |
 
-BRONZE
+AVERS |
 
-|
+ATTACHE |
 
-AVERS
-
-|
-
-ATTACHE
-
-|
-
-RUBAN
-
-|
+RUBAN |
 
 D'un module de 65 mm, suspendue à un ruban, en sautoir, au moyen d'une attache.
 
@@ -1076,17 +898,11 @@ Largeur de 75 mm, de couleur bleu ciel, partagé en son milieu dans le sens vert
 
 Greffiers en chef et greffiers
 
-JURIDICTION
+AUDIENCE |
 
-|
+GRADE |
 
-GRADE
-
-|
-
-COSTUME
-
-|
+COSTUME |
 
 Cour de cassation.
 
