@@ -102,9 +102,9 @@ b) La SGFGAS contrôle a priori l'éligibilité des éco-prêts à taux zéro d�
 
 c) La SGFGAS effectue le suivi des crédits d'impôt dus aux établissements de crédit ;
 
-d) La SGFGAS détermine les taux de crédit d'impôt dus au titre des éco-prêts à taux zéro, conformément aux dispositions légales et réglementaires.
+d) La SGFGAS détermine les taux de crédit d'impôt dus au titre des éco-prêts à taux zéro, conformément aux dispositions légales et réglementaires ;
 
-e) La SGFGAS contrôle a posteriori l'éligibilité des éco-prêts à taux zéro qui lui sont déclarés par les établissements de crédit ; les modalités d'exercice des contrôles sur pièces ou sur place sont définies à l'annexe 2 de la convention passée entre la SGFGAS et les établissements de crédit. Les sanctions éventuelles dont peuvent faire l'objet les établissements de crédit sont régies par la convention conclue entre chacun d'entre eux et l'Etat.
+e) La SGFGAS contrôle a posteriori l'éligibilité des éco-prêts à taux zéro qui lui sont déclarés par les établissements de crédit ; les modalités d'exercice des contrôles sur pièces ou sur place sont définies à l'annexe 2 de la convention passée entre la SGFGAS et les établissements de crédit. Les sanctions éventuelles dont peuvent faire l'objet les établissements de crédit sont régies par la convention conclue entre chacun d'entre eux et l'Etat ;
 
 Le programme annuel de contrôle est arrêté par le directeur général de la SGFGAS après consultation des commissaires du Gouvernement. Il est soumis à l'approbation du directeur général du Trésor. Ce dernier peut demander à la SGFGAS d'effectuer en cours d'année des contrôles ne figurant pas sur le programme annuel.
 
@@ -112,7 +112,9 @@ La SGFGAS alloue les moyens nécessaires à la réalisation de ces contrôles.
 
 Le programme de contrôle et les rapports de contrôle sont confidentiels. Ils ne peuvent être communiqués, outre l'établissement de crédit concerné et le cas échéant l'organe central du réseau auquel il appartient, qu'au directeur général du Trésor et au directeur de l'habitat, de l'urbanisme et des paysages qui peuvent en autoriser conjointement une diffusion plus large.
 
-f) La SGFGAS transmet à l'Etat les informations comptables et statistiques sur les crédits d'impôt dus aux établissements de crédit, dans les conditions prévues à l'annexe 1.
+f) La SGFGAS transmet à l'Etat les informations comptables et statistiques sur les crédits d'impôt dus aux établissements de crédit, dans les conditions prévues à l'annexe 1 ;
+
+g) Dans des conditions fixées par mandat, la SGFGAS assiste l'Etat dans le recouvrement des avantages indûment perçus par des emprunteurs tels que mentionnés à l'article R*. 319-14 du code de la construction et de l'habitation.
 
 Article 4
 
@@ -176,7 +178,7 @@ Article 10
 
 Durée. - Résiliation.-Modifications
 
-La présente convention est valable jusqu'au 31 décembre 2013.
+La présente convention est valable jusqu'au 30 juin 2014.
 
 Elle peut être modifiée sur simple demande de l'Etat à condition que cette modification n'emporte pas de rupture de l'équilibre financier de la convention. La modification demandée est exécutoire de plein droit passé un délai de quatre mois ; la SGFGAS a la possibilité de dénoncer la convention dans le même délai.
 

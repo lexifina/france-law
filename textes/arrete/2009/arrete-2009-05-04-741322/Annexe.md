@@ -58,7 +58,7 @@ Le droit au crédit d'impôt est subordonné à la déclaration du premier verse
 
 Le crédit d'impôt est imputé sur l'impôt dû par l'établissement de crédit, au titre de l'impôt sur les sociétés, une première fois à hauteur d'un cinquième au titre de l'exercice au cours duquel l'avance remboursable ne portant pas intérêt a fait l'objet d'un premier déblocage, et par fractions égales les quatre exercices suivants.L'assiette du calcul de ce premier crédit d'impôt est le montant du prêt octroyé par l'établissement de crédit tel que déclaré au a ci-avant.
 
-Un second calcul du crédit d'impôt est ensuite réalisé sur l'assiette du total des versements (y compris, le cas échéant, les ajustements à la baisse) effectués par l'établissement de crédit au plus tard trois mois avant la date visée au c du II de l'article R. 319-14 du code de la construction et de l'habitation et déclarés dans les conditions visées au b ci-avant.S'il y a lieu, la régularisation est également imputée par cinquièmes sur les mêmes années d'imputation que le crédit d'impôt calculé lors du premier versement ; les fractions ne pouvant plus être imputées sont reportées sur le prochain exercice restant à imputer. Si, malgré relance de la société de gestion visée à l'article L. 312-1 du code de la construction et de l'habitation, l'établissement ne s'est pas acquitté de cette dernière obligation déclarative, cet organisme procède à l'annulation du crédit d'impôt.
+Un second calcul du crédit d'impôt est ensuite réalisé sur l'assiette du total des versements (y compris, le cas échéant, les ajustements à la baisse) effectués par l'établissement de crédit au plus tard trois mois avant la date visée au c du II de l'article R. 319-14 du code de la construction et de l'habitation et déclarés dans les conditions visées au c. ci-avant. S'il y a lieu, la régularisation est également imputée par cinquièmes sur les mêmes années d'imputation que le crédit d'impôt calculé lors du premier versement ; les fractions ne pouvant plus être imputées sont reportées sur le prochain exercice restant à imputer. Si, malgré relance de la société de gestion visée à l'article L. 312-1 du code de la construction et de l'habitation, l'établissement ne s'est pas acquitté de cette dernière obligation déclarative, cet organisme procède à l'annulation du crédit d'impôt.
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou les groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C du code général des impôts ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156 du même code.
 
@@ -108,7 +108,7 @@ Les évolutions de la réglementation applicable à l'éco-prêt à taux zéro n
 
 Article 10
 
-La présente convention est valable jusqu'au 31 décembre 2013.
+La présente convention est valable jusqu'au 30 juin 2014.
 
 Fait à..., en trois (3) exemplaires originaux, le.
 
