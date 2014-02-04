@@ -1,18 +1,16 @@
 # Article Annexe I
 
-Typologies d'ovins pour lesquelles les opérateurs du réseau visés à l'article 2 du présent arrêté doivent communiquer les informations
+TYPOLOGIES D'OVINS POUR LESQUELLES LES OPÉRATEURS DU RÉSEAU
+
+VISÉS À L'ARTICLE 2 DU PRÉSENT ARRÊTÉ DOIVENT COMMUNIQUER LES INFORMATIONS
 
 Agneaux
 
 |
 
-RELEVES DE PRIX
+RELEVÉS DE PRIX |
 
-|
-
-Moins de 16kg
-
-|
+13 à 16 kg |
 
 16 à 19 kg
 
@@ -22,25 +20,17 @@ Moins de 16kg
 
 |
 
-plus de 22 kg
+Plus de 22 kg |
 
-|
+Etat d'engraissement |
 
-Etat d'engraissement
-
-|
-
-Conformation
-
-|
+Conformation |
 
 Prix moyen
 
 |
 
-Effectif
-
-|
+Effectif |
 
 Poids fiscal moyen
 
@@ -54,29 +44,23 @@ Effectif
 
 |
 
+Poids fiscal moyen |
+
+Prix moyen
+
+|
+
+Effectif
+
+|
+
 Poids fiscal moyen
 
 |
 
-Prix moyen
+Prix moyen |
 
-|
-
-Effectif
-
-|
-
-Poids fiscal total
-
-|
-
-Prix moyen
-
-|
-
-Effectif
-
-|
+Effectif |
 
 Poids fiscal moyen
 
@@ -350,33 +334,19 @@ Brebis
 
 |
 
-RELEVES DE PRIX
+RELEVÉS DE PRIX |
 
-|
+Moins de 30 kg |
 
-moins de 30 kg
+Plus de 30 kg |
 
-|
+Etat d'engraissement |
 
-plus de 30 kg
+Conformation |
 
-|
+Prix moyen |
 
-Etat d'engraissement
-
-|
-
-Conformation
-
-|
-
-Prix moyen
-
-|
-
-Effectif
-
-|
+Effectif |
 
 Poids fiscal moyen
 

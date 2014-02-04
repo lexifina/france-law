@@ -1,20 +1,20 @@
 # Article Annexe III
 
-Grilles de cotation ovines
-
 GRILLES DE COTATION OVINES
 
 Cotations nationales et régionales des agneaux de boucherie
 
-Semaine n°…. du …. Au….
+Semaine n° du au
 
-Prix entrée abattoir (HT) exprimé en euro/kg de carcasse (cinquième quartier inclus), frais de transport inclus
+Prix "entrée abattoir" (HT) exprimé en euro/ kg de carcasse (cinquième quartier inclus), frais de transport inclus
+
+|
+
+COTATIONS RÉGIONALES
 
 |
 
-COTATIONS REGIONALES
-
-|
+COTATIONS NATIONALES
 
 |
 
@@ -26,7 +26,7 @@ Bassin Sud
 
 |
 
-Etat d’engraissement
+Etat d'engraissement
 
 |
 
@@ -34,7 +34,7 @@ Conformation
 
 |
 
-Moins de 16 kg
+13 à 16 kg
 
 |
 
@@ -50,7 +50,7 @@ Plus de 22 kg
 
 |
 
-Moins de 16 kg
+13 à 16 kg
 
 |
 
@@ -66,7 +66,19 @@ Plus de 22 kg
 
 |
 
-Moins de 16 kg
+13 à 16 kg
+
+|
+
+16 à 19 kg
+
+|
+
+19 à 22 kg
+
+|
+
+Plus de 22 kg
 
 |
 
@@ -75,6 +87,12 @@ Moins de 16 kg
 |
 
 U
+
+|
+
+|
+
+|
 
 |
 
@@ -118,7 +136,19 @@ R
 
 |
 
+|
+
+|
+
+|
+
 O
+
+|
+
+|
+
+|
 
 |
 
@@ -166,6 +196,12 @@ U
 
 |
 
+|
+
+|
+
+|
+
 R
 
 |
@@ -188,7 +224,19 @@ R
 
 |
 
+|
+
+|
+
+|
+
 O
+
+|
+
+|
+
+|
 
 |
 
@@ -236,7 +284,19 @@ U
 
 |
 
+|
+
+|
+
+|
+
 R
+
+|
+
+|
+
+|
 
 |
 
@@ -280,15 +340,23 @@ O
 
 |
 
-Cotations nationales et régionales des brebis de boucherie
-
-Semaine n°…. du …. Au….
-
-Prix entrée abattoir (HT) exprimé en euro/kg de carcasse (cinquième quartier inclus), frais de transport inclus
+|
 
 |
 
-COTATIONS REGIONALES
+|
+
+.
+
+Cotations nationales et régionales des brebis de boucherie
+
+Semaine n° du au
+
+Prix "entrée abattoir" (HT) exprimé en euro/ kg de carcasse (cinquième quartier inclus), frais de transport inclus
+
+|
+
+COTATIONS RÉGIONALES
 
 |
 
@@ -491,3 +559,5 @@ O
 |
 
 |
+
+.
