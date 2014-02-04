@@ -1,0 +1,9 @@
+# Réponse à la question n° 26225
+
+- Question : [26225](26225.md) — Question n° 26225 — dons; développement
+
+## Réponse
+
+*JO du 2014-02-04*
+
+Le décret n° 2012-1035 du 7 septembre 2012 relatif au prélèvement et à la greffe d'organes a notamment introduit dans le code de la santé publique des dispositions relatives aux dons croisés d'organes autorisés par la loi n° 2011-814 du 7 juillet 2011 relative à la bioéthique. L'ouverture au don croisé s'intègre dans la démarche globale de promotion du « donneur vivant ». Pour les équipes hospitalières, la mise en place du don croisé se traduira essentiellement par une modification organisationnelle. Pour l'agence de la biomédecine, l'ouverture au don croisé implique dès maintenant une modification significative du registre de suivi des patients en attente de greffe nécessitant des développements informatiques de l'outil de gestion pour y introduire et traiter les informations relatives aux donneurs potentiels. La mise en place de ce dispositif a nécessité la conclusion de conventions entre l'agence et les principaux établissements volontaires impliqués. Le dispositif ne sera pleinement opérationnel que lorsque le nombre de couples donneurs / receveurs aura atteint un niveau « significatif ». Le nombre de donneurs complémentaires induits par cette nouvelle disposition est estimé entre 5 et 10 paires par centre dès la première année. S'agissant des règles médicales de mise en oeuvre des appariements des paires, l'agence de la biomédecine, avec l'aide des professionnels en a fixé les termes, les contraintes et les limites. Ce sont ces critères d'appariement et de combinaisons des paires qui servent de base au paramétrage de l'outil informatique spécifique - qui est en cours de finalisation par l'agence - pour gérer les appariements. C'est également la plateforme nationale de répartition des greffons qui prend en charge l'organisation et la supervision des opérations de transfert des greffons.
