@@ -1,0 +1,9 @@
+# Réponse à la question n° 23039
+
+- Question : [23039](23039.md) — Question n° 23039 — implants mammaires; évaluation
+
+## Réponse
+
+*JO du 2014-02-04*
+
+La révision de la législation communautaire en matière de dispositifs médicaux est en cours de négociation au conseil de l'Union européenne et au parlement européen depuis le dernier trimestre 2012. Au-delà de la proposition de règlement de la commission européenne visant au renforcement de la désignation et de la surveillance des organismes notifiés, la mise sur le marché des dispositifs médicaux implantables de classe III, les plus à risque, devrait être davantage sécurisée. La phase de pré-commercialisation devrait être renforcée pour ces dispositifs médicaux, en particulier en matière d'évaluation clinique. En effet, il est apparu que l'une des principales faiblesses actuelles de l'évaluation de la conformité des dispositifs médicaux provient de l'évaluation clinique de ces derniers, et plus particulièrement des investigations cliniques. Cette faiblesse est liée non seulement à l'insuffisance des exigences imposées aux fabricants par la législation actuelle mais aussi à la faiblesse de l'expertise clinique au sein des organismes notifiés. C'est en ce sens qu'il apparait nécessaire que les dispositifs médicaux implantables de classe III, les plus à risque, fassent l'objet d'une évaluation systématique, préalable et indépendante par un groupe européen d'experts, en complément de l'examen réalisé par l'organisme notifié qui a été choisi par le fabricant. Ce mécanisme de contrôle au niveau européen doit porter non seulement sur la performance du dispositif médical mais aussi sur le rapport bénéfices/risques pour les patients, qui est un élément essentiel pour renforcer la sécurité. C'est ce mécanisme de renforcement que la France soutient.
