@@ -1,0 +1,9 @@
+# Réponse à la question n° 27021
+
+- Question : [27021](27021.md) — Question n° 27021 — indemnités forfaitaires; perspectives
+
+## Réponse
+
+*JO du 2014-02-04*
+
+A l'inverse de la garde en caserne où le sapeur-pompier volontaire est prêt à intervenir immédiatement, l'astreinte permet le maintien à domicile ou dans le secteur prévu par le règlement intérieur, dans l'attente d'un départ en intervention ou vers le centre d'incendie dans le délai fixé par le règlement opérationnel du corps départemental des sapeurs-pompiers. L'indemnisation de l'astreinte est calculée à partir de l'indemnité horaire de base au taux maximum de 9 %. La contrainte est définie localement en fonction des critères locaux (forte sollicitation, délais d'intervention, etc.) et de la couverture arrêtée par le Schéma départemental d'analyse et des couvertures des risques (SDACR). Par ailleurs, il convient de souligner que l'astreinte à domicile présente l'intérêt d'une sollicitation raisonnable du sapeur-pompier volontaire, permettant ainsi, à ce dernier, d'être disponible pour porter secours tout en préservant un équilibre entre sa vie active, familiale et sociale. Ainsi, il n'est pas prévu, à ce stade, de revaloriser le montant alloué pour les astreintes à domicile des sapeurs-pompiers volontaires. En revanche, le décret n° 2013-873 du 27 septembre 2013 relatif à certaines indemnités des sapeurs-pompiers volontaires et l'arrêté du 27 septembre 2013 fixant le taux de l'indemnité horaire de base des sapeurs-pompiers volontaires, publiés conjointement au Journal officiel du 29 septembre 2013, instaurent une première revalorisation de 1 % de l'indemnité horaire de base des SPV, suivie d'une nouvelle augmentation, de 1 % également, le 1er janvier 2014. Ces mesures vont dans le sens d'une meilleure reconnaissance de l'activité du sapeur-pompier, laquelle ne constitue pas un travail mais relève d'un engagement citoyen.
