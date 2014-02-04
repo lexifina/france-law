@@ -1,0 +1,9 @@
+# Réponse à la question n° 32143
+
+- Question : [32143](32143.md) — Question n° 32143 — opérations d'extraction; coût
+
+## Réponse
+
+*JO du 2014-02-04*
+
+L'ensemble des militaires des unités de gendarmerie départementale et de gendarmerie mobile et des effectifs de police des directions départementales de la sécurité publique peuvent être amenés à réaliser des opérations d'extraction de détenus. Nonobstant la reprise de la mission des extractions et transfèrements judiciaires par l'administration pénitentiaire sur 7 régions et 3 départements d'Ile-de-France (78,92 et 95), la gendarmerie et la police nationales consacrent toujours un volume missionnel conséquent aux transfèrements judiciaires. En 2012 par exemple, la police nationale a consacré 220 051 heures fonctionnaires aux missions d'extraction de détenus ou de prévenus depuis leur lieu de détention vers une juridiction, soit une baisse de près 15,74 % d'heures fonctionnaires consacrées à cette mission par rapport à 2011 (261 181 heures fonctionnaires en 2011). Cette difficulté est encore accentuée par la hausse importante du volume des « détenus particulièrement signalés (DPS) » pris en compte (+ 10%), et qui se révèle plus consommateurs en ETP (Au moins 4 militaires ou 4 policiers sont généralement consacrés à un DPS contre 2 pour un détenu plus classique. Ce dispositif peut également être encore renforcé en fonction de la personnalité du détenu et des risques de troubles graves à l'ordre public (présence d'un groupement d'intervention de la police nationale etc.). Les discussions entre le ministère de l'Intérieur et le ministère de la Justice se poursuivent afin d'assurer la prise en compte complète de la mission par l'administration pénitentiaire et ainsi mettre fin au moratoire toujours en cours concernant le transfert de la mission de l'Intérieur vers la Justice.
