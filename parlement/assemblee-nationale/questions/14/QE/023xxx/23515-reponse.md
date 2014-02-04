@@ -1,0 +1,9 @@
+# Réponse à la question n° 23515
+
+- Question : [23515](23515.md) — Question n° 23515 — insertion professionnelle
+
+## Réponse
+
+*JO du 2014-02-04*
+
+L'ensemble des outils et mesures favorisant l'emploi des personnes en situation de handicap est fondé sur le principe général suivant « autant de mesures de droit commun que possible et autant de mesures, spécifique que nécessaire ». Les personnes handicapées aveugles et malvoyantes comme toutes les personnes en situation de handicap ont naturellement accès à tous les dispositifs de droit commun en faveur du développement de l'emploi des personnes handicapées qui comportent dans certains cas des dérogations en termes d'âge. C'est notamment le cas des emplois d'avenir dont les personnes handicapées peuvent bénéficier jusqu'à l'âge de 30 ans (contre moins de 26 ans pour les personnes valides), et des contrats de génération. En ce qui concerne les mesures spécifiques visant à améliorer le taux d'emploi des personnes aveugles ou malvoyantes, les aménagements de poste de travail en termes de matériels, d'aides techniques et de formations spécialisées à l'utilisation de ces matériels reposant majoritairement sur des outils informatiques (tels que synthèse vocale, télé-agrandisseurs etc....) sont financés par l' AGEFIPH pour les entreprises de 20 salariés et plus soumises à l'obligation d'emploi des personnes handicapées ( loi du 10 juillet 1987 modifiée par la loi n° 2005-102 du 11 février 2005 relative à l'égalité des droit et des chances, la participation et la citoyenneté des personnes handicapées) . Pour les personnes handicapées relevant de la fonction publique, les aménagements de postes de travail sont financés en totalité par le fonds interministériel pour l'emploi des personnes handicapées dans la fonction publique (FIPHFP).
