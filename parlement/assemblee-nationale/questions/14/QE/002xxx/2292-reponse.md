@@ -1,0 +1,9 @@
+# Réponse à la question n° 2292
+
+- Question : [2292](2292.md) — Question n° 2292 — prise en charge; financement
+
+## Réponse
+
+*JO du 2014-02-04*
+
+La prise en charge des personnes âgées atteintes d'une maladie d'Alzheimer ou d'une maladie apparentée est un sujet de préoccupation fort pour le Gouvernement. Selon les études épidémiologiques, extrapolées à l'ensemble de la population, plus de 800 000 personnes seraient touchées par la maladie d'Alzheimer ou une maladie apparentée en France et parmi elles, plus de 550 000 sont suivies médicalement. La maladie d'Alzheimer a été inscrite dans la liste des affections de longue durée (ALD 15 : « maladie d'Alzheimer et autres démences ») par le décret n° 2004-1049 du 4 octobre 2004 relatif à la liste des affections comportant un traitement prolongé et une thérapeutique coûteuse. Cette reconnaissance a permis, comme vous le soulignez, une prise en charge à 100 % des soins médicaux et paramédicaux dont les personnes ont besoin. Pour ce qui concerne les actes médicaux-sociaux, les personnes âgées pour lesquelles une dépendance est reconnue peuvent bénéficier de l'allocation personnalisée à l'autonomie (APA). Selon l'article L. 232-2 du code de l'action sociale et des familles (CASF), l'APA doit en effet leur permettre d'accéder à une prise en charge adaptée à leurs besoins. Les problèmes posés par le reste à charge très élevé en maisons de retraite seront traités dans le cadre de la loi d'orientation et de programmation pour l'adaptation de la société au vieillissement. Conformément à l'engagement du Président de la République et du Premier ministre, il s'agira d'une réforme globale couvrant tous les champs de l'avancée en âge. Elle comportera trois grands volets : - « anticipation et prévention de la perte d'autonomie » ; - « adaptation de la société au vieillissement » ; - « accompagnement de la perte d'autonomie ».
