@@ -1,0 +1,9 @@
+# Réponse à la question n° 40410
+
+- Question : [40410](40410.md) — Question n° 40410 — sièges; répartition
+
+## Réponse
+
+*JO du 2014-02-04*
+
+L'article L. 5211-6-1 du code général des collectivités territoriales (CGCT) prévoit les modalités de détermination du nombre de sièges composant l'organe délibérant des établissements publics de coopération intercommunale à fiscalité propre et leur répartition entre les communes membres. L'article R. 5211-1-1 du CGCT précise que « pour la répartition des sièges au sein de l'organe délibérant, le chiffre de la population auquel il convient de se référer est celui de la population municipale authentifiée l'année précédant celle du renouvellement général des conseils municipaux des communes membres conformément au VII de l'article L. 5211-6-1 ». Le chiffre de la population municipale est également celui auquel il convient de se référer pour les élections municipales conformément à l'article R. 2151-3 du CGCT et R. 25-1 du code électoral. La répartition des sièges doit donc être impérativement cohérente avec la population municipale de chaque commune. L'application de tout autre critère, tel que la population de dotation globale de fonctionnement (DGF), le surclassement démographique touristique, le potentiel de richesse ou le poids fiscal ne saurait être admis dès lors qu'il remettrait en cause la primauté du critère démographique. En effet, de telles clés de répartition soulèveraient des questions quant à leur constitutionnalité au regard du respect du principe d'égalité des citoyens devant le suffrage (Conseil constitutionnel, 26 janvier 1995, n° 94-368 DC). Les conseillers communautaires étant élus, à compter du prochain renouvellement général des conseils municipaux, au suffrage universel direct en application de l'article L. 5211-6 du CGCT, cette élection ne peut plus s'accorder avec des critères qui prévaudraient sur le critère démographique utilisé en droit électoral.
