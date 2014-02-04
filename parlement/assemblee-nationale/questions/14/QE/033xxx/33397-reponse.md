@@ -1,0 +1,9 @@
+# Réponse à la question n° 33397
+
+- Question : [33397](33397.md) — Question n° 33397 — procédures; rapport; propositions
+
+## Réponse
+
+*JO du 2014-02-04*
+
+Depuis 2008, la France connait une très forte augmentation de la demande d'asile (plus de 70 % entre 2008 et 2012). Cette situation, qui vient peser sur les services et les autorités chargées de l'accueil et de l'examen des demandes d'asile, entraîne l'allongement des délais d'accès à la procédure et des délais d'instruction des demandes et des recours par l'Office français de protection des réfugiés et apatrides (OFPRA) et la Cour nationale du droit d'asile (CNDA) en dépit des mesures qui ont été prises renforçant leurs moyens. Dans ce contexte, une profonde réforme du dispositif français de l'asile s'impose pour que la France puisse continuer de faire vivre cette exigence d'asile qui puise sa source dans son histoire, ses engagements internationaux et ses obligations communautaires. Une concertation nationale sur l'asile a été lancée le 15 juillet dernier. Ce comité de concertation était présidé par deux parlementaires, Madame Valérie Létard, sénatrice et Monsieur Jean-Louis Touraine, député, et il associait l'ensemble des acteurs de l'asile en France : l'Office français de protection des réfugiés et apatrides (OFPRA), la Cour nationale du droit d'asile (CNDA), l'Office français de l'immigration et de l'intégration (OFII), la direction générale des étrangers de France (DGEF), des élus et des Préfets, le Haut Commissariat des Nations unies pour les Réfugiés (HCR), des associations et des représentants de la société. L'ensemble des sujets concernant l'asile ont été abordés dans ce cadre, et notamment les directives européennes sur l'asile adoptées en juin 2013 que la France doit transposer. Les parlementaires ont remis leurs propositions au ministre de l'intérieur le 28 novembre dernier. Leur rapport fait actuellement l'objet d'une consultation des groupes parlementaires.
