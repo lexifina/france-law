@@ -1,0 +1,9 @@
+# Réponse à la question n° 29217
+
+- Question : [29217](29217.md) — Question n° 29217 — lutte et prévention; campagnes de sensibilisation
+
+## Réponse
+
+*JO du 2014-02-04*
+
+La ministre des affaires sociales et de la santé tient à rappeler sa détermination sans faille à lutter contre le tabac qui est, avec 73 000 morts par an, la première cause de mortalité évitable en France. Un jeune sur trois fume régulièrement à 17 ans. A ce titre, la direction générale de la santé (DGS) soutient les associations de lutte contre le tabac. Elle contribue au financement de plusieurs projets à destination de populations spécifiques, notamment les femmes, les femmes enceintes et les jeunes. L'association droit des non-fumeurs (DNF), créée en 1973 et reconnue d'utilité publique par arrêté du 9 janvier 1990 par le préfet du Haut-Rhin : - mène des actions en justice pour faire respecter l'interdiction de fumer dans les lieux à usage collectif et la réglementation relative à la publicité ; - contribue, grâce au développement d'un réseau d'associations régionales et aux différents partenariats noués en France et au niveau international, au contrôle du tabac ; elle est notamment membre de l'Alliance contre le tabac ; - participe à la prévention du tabagisme en informant et en sensibilisant les particuliers et les entreprises par des outils de communication efficaces (site internet et centre d'expertise en ligne). Elle a bénéficié d'une subvention de 200 000 € en 2012. Elle est liée à la DGS par une convention pluriannuelle d'objectifs couvrant la période 2012-2014, dont les indicateurs de résultat retenus permettent un suivi précis de ses activités. L'association DNF a permis de faire progresser la jurisprudence en matière de tabagisme passif et de publicité indirecte du tabac. Elle s'est également imposée comme un acteur incontournable dans la lutte contre le tabac et la prévention du tabagisme.
