@@ -1,0 +1,9 @@
+# Réponse à la question n° 13572
+
+- Question : [13572](13572.md) — Question n° 13572 — crédits; répartition
+
+## Réponse
+
+*JO du 2014-02-04*
+
+Les mécanismes de gestion du fonds social européen (FSE) sont soumis à une réglementation européenne que chaque état membre doit respecter. Au-delà du rôle du secrétariat général des affaires européennes (SGAE) dans la définition de la position commune française vis-à-vis de Bruxelles, la délégation générale à l'emploi et à la formation professionnelle (DGEFP), en qualité d'autorité de gestion du programme opérationnel national FSE sur la période 2007-2013, est l'interlocutrice de la commission européenne pour ce qui concerne la mise en oeuvre du FSE en France. La délégation générale à l'emploi et à la formation professionnelle (DGEFP) est responsable de la gestion des crédits FSE. Les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) sont chargées de la gestion des crédits FSE déconcentrés, sous l'autorité du préfet de région. Par ailleurs, suite à l'arbitrage du Premier ministre en date du 19 avril 2013, il a été décidé que le futur programme opérationnel national FSE pour la période 2014-2020 bénéficierait de 65 % de l'enveloppe de crédits FSE au titre de l'emploi et de l'inclusion sociale, dont 32,5 % seront réservés à la politique d'inclusion, les régions étant attributaires des 35 % restants dans le cadre de la formation professionnelle et de l'orientation. Dans le cadre de la ventilation des crédits par région qui sera réalisée au niveau national, plusieurs critères seront retenus, notamment le nombre de bénéficiaire du revenu de solidarité active (RSA), afin de prendre en compte les spécificités des territoires. Dans ce cadre, la simplification du fonctionnement du FSE et la prise en compte des territoires en difficulté font l'objet d'une attention particulière de la part des services du ministère chargé de l'emploi.
