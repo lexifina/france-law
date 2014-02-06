@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109318
+
+- Question : [SEQ131109318](seq131109318.md) — Emploi public des jeunes sans qualification
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2014-02-06, page 337*
+
+Le PACTE constitue une voie d'accès à la catégorie C de la fonction publique inscrite depuis 2005 dans les titres II, II et IV du statut général des fonctionnaires de l'État et des collectivités territoriales. Depuis son instauration, les ministères ont su valoriser la vocation sociale de cette voie de recrutement. Pour la mise en œuvre de cette politique, la mobilisation des services de Pôle emploi est assurée depuis l'origine. Sur la période 2010-2012, ce sont 4 485 dossiers qui ont été reçus dans les ministères de l'éducation nationale et de la recherche, de l'économie et des finances, des affaires étrangères et enfin de la défense pour candidater au PACTE, pour 375 postes offerts. Le taux de sélectivité s'est donc élevé à 8,6 %. 82 % des postes offerts ont été pourvus, les 18 % non pourvus reflétant le manque d'adéquation entre le profil du candidat inscrit et la fiche de poste présentée. 88 % des candidats au PACTE ont été titularisés à l'issue du contrat PACTE, 4 % renouvelés (défaillance de l'organisme de formation) 4 % prolongés (congés maternité, paternité ou maladie) et 1 % licenciés, les 5 % restants correspondant à des ruptures de contrats au cours de la période d'essai ou abandon en cours de contrat. Par ailleurs, une concertation sera ouverte au printemps 2014 avec les organisations syndicales et les employeurs publics sur la diversité dans la fonction publique. Elle traitera en particulier des conditions d'accès à la fonction publique des personnes issues des classes populaires et de l'immigration aussi que de l'implication de la fonction publique dans l'insertion des femmes sur le marché du travail avec le développement de l'apprentissage.
