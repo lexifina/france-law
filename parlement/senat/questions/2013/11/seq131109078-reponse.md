@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109078
+
+- Question : [SEQ131109078](seq131109078.md) — Projet de loi d'avenir pour l'agriculture et mesures de simplification
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2014-02-06, page 323*
+
+La simplification est une préoccupation constante du ministre de l'agriculture, de l'agroalimentaire et de la forêt. Au plan législatif, le Gouvernement propose dans le projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt des mesures de simplification qui visent à renforcer la compétitivité des entreprises et particulièrement celle des entreprises agricoles, agroalimentaires et forestières. La réforme du dispositif à l'installation, la ré-ingénierie du dispositif de contrôle des structures, le renforcement du rôle des sociétés d'aménagement foncier et d'établissement rural et la refonte de la gouvernance des coopératives agricoles en sont quelques exemples. Cependant, la simplification menée au profit des agriculteurs ne se limite pas à des modifications législatives. La mise en place de Telepac et son amélioration constante en est une expression bien connue. La simplification de la certification sanitaire à l'exportation changera le quotidien de celles des entreprises agricoles qui exportent. Par ailleurs, les ministères en charge de l'agriculture et en charge de l'environnement se sont conjointement engagés dans une simplification des procédures liées à la protection de l'environnement et auxquelles sont soumis les agriculteurs. Ainsi le régime d'enregistrement des installations classées pour la protection de l'environnement sera ouvert à certains élevages porcins. Le seuil d'autorisation des projets de méthanisation sera relevé, de même que les seuils d'étude d'impact pour les autorisations de retenues et les prélèvements d'irrigation. Ces mesures font partie de la prochaine édition de la feuille de route de simplification publiée annuellement par le ministère.
