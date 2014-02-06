@@ -820,7 +820,7 @@ Hautes-Alpes |
 
 Réservé aux besoins du centre de réparation et d'entretien MTA Aviation, réservé au vol à voile et aux avions de servitude. |
 
-Sisteron-Thèze |
+Sisteron-Vaumeilh |
 
 Alpes-de-Haute-Provence |
 
