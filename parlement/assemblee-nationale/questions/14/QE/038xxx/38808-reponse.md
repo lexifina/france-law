@@ -1,0 +1,9 @@
+# Réponse à la question n° 38808
+
+- Question : [38808](38808.md) — Question n° 38808 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2014-02-11*
+
+La Cour des comptes préconise de prendre comme indicateur de performance principal du crédit d'impôt recherche (CIR) l'évolution du ratio DIRD/PIB [dépense intérieure de recherche et développement / produit intérieur brut] c'est-à-dire la variation de l'effort de recherche et développement (R&D) réalisé par les entreprises. Toutefois, l'augmentation de l'effort de R&D ne peut faire abstraction de la structure de l'économie française et de son évolution. En effet, l'intensité en R&D n'est pas uniforme dans les différentes branches d'activité, les dépenses de R&D étant beaucoup plus fortes au regard de la valeur ajoutée dans les activités industrielles que dans les services, et même au sein des industries manufacturières. Depuis le début des années 2000, la désindustrialisation a ainsi mécaniquement réduit l'intensité en R&D privée de la France. Une note d'information du ministère de l'enseignement supérieur et de la recherche (MESR) sur ce sujet a montré que l'intensité en R&D privée (DIRD/PIB) serait sensiblement plus faible si l'intensité en R&D n'avait pas fortement augmentée dans les secteurs de haute et moyenne-haute technologie. Réf. : Note d'information statistique 12.01, en ligne sur le site du MESR : http ://www. enseignementsup-recherche. gouv. fr/cid59829/la-recherche-industrielle-francaise-reste-dynamique. html Ces analyses ont incité le MESR à proposer d'ajouter comme indicateur de performance l'évolution du ratio R&D/VA des secteurs marchands qui sont ceux pour lesquels le CIR peut avoir un impact. Un détail sectoriel pourrait éventuellement être fourni. Une actualisation de ces données en cours d'analyse au MESR et les résultats d'une nouvelle étude d'impact pourront servir de base à une réflexion sur les indicateurs de performance pour le CIR.
