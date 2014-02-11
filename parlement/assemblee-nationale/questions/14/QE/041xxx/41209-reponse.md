@@ -1,0 +1,9 @@
+# Réponse à la question n° 41209
+
+- Question : [41209](41209.md) — Question n° 41209 — statut
+
+## Réponse
+
+*JO du 2014-02-11*
+
+La loi n° 2011-851 du 20 juillet 2011 relative à l'engagement des sapeurs-pompiers volontaires et à son cadre juridique, en partie codifiée dans le code de la sécurité intérieure aux articles 723-3 et suivants, a bien fixé le cadre juridique de cet engagement. Suite à la publication de cette loi, 6 décrets d'application ont été publiés fin 2011. Depuis le 1er janvier 2012, 23 nouveaux textes ont complété l'arsenal réglementaire propre aux sapeurs-pompiers volontaires. Ce dispositif est par ailleurs renforcé par la publication du décret n° 2013-412 du 17 mai 2013, qui abroge et remplace le décret n° 99-1039 du 10 décembre 1999, avec trois arrêtés d'application : le premier relatif aux titres et diplômes, le deuxième relatif aux activités et le troisième fixant la liste des responsabilités pouvant être indemnisées. Enfin, un projet d'arrêté relatif aux conditions d'engagement des militaires en tant que sapeurs-pompiers volontaires, complétant le dispositif du décret du 17 mai 2013 précité, est à l'étude entre les services du ministère de l'intérieur et ceux du ministère de la défense. Ainsi, un véritable dispositif législatif et réglementaire, destiné à consolider et pérenniser le volontariat, existe désormais. Il convient de l'utiliser pleinement dans chaque département, en déclinant localement le récent plan d'action pour le volontariat signé par le ministre de l'intérieur et les présidents de l'Assemblée des Départements de France, de l'Association des Maires de France, de la Conférence Nationale des Services d'Incendie et de Secours, du Conseil National des Sapeurs-Pompiers Volontaires et de la Fédération Nationale des Sapeurs-Pompiers de France le 11 octobre 2013.
