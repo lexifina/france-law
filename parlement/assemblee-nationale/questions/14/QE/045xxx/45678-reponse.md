@@ -1,0 +1,9 @@
+# Réponse à la question n° 45678
+
+- Question : [45678](45678.md) — Question n° 45678 — agents handicapés; adaptation au poste
+
+## Réponse
+
+*JO du 2014-02-11*
+
+La direction générale des outre-mer (DGOM) est particulièrement sensible au recrutement des travailleurs handicapés en vue de satisfaire aux obligations de recrutement assignées aux administrations publiques par la loi n° 2005-102 du 11 février 2005 afin de respecter l'engagement de principe en faveur de l'égalité et de l'accès de tous les citoyens aux emplois publics. La dernière déclaration annuelle au FIPHPF (Fonds pour l'insertion des personnes handicapées de la fonction publique) de 2012 indique que le taux de bénéficiaires à la DGOM atteint 8,06 %, 2 points au dessus du seuil d'emploi de 6 % et concerne l'ensemble des catégories statutaires A+, B et C. Par ailleurs, dans le cadre du plan administration exemplaire (PAE), la DGOM a souhaité participer à la politique d'insertion des personnes handicapées dans le monde du travail en faisant appel aux établissements et services d'aides par le travail (ESAT) pour organiser ses réceptions. Ainsi, à trois reprises en 2013, des personnes handicapées faisant parti des établissements « Les fourneaux de Marthe et Matthieu » ou « La table de Cana » ont pu travailler au sein de notre structure. Enfin, il importe de souligner que la mise en oeuvre de l'intégration des personnes handicapées passe par l'aménagement de nos locaux. En 2011, des travaux ont été engagés : une rampe entre deux paliers a été installée au 1er étage pour faciliter l'accès aux personnes en fauteuil roulant et les sanitaires du rez-de-chaussée ont été mis aux normes. La direction participe à l'effort de recrutement ministériel de travailleurs handicapés et à leur adaptation au sein des locaux en respectant ainsi les principes républicains de diversité, de parité et d'égalité au sein de ses effectifs.
