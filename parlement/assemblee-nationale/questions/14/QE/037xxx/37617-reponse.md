@@ -1,0 +1,9 @@
+# Réponse à la question n° 37617
+
+- Question : [37617](37617.md) — Question n° 37617 — cumul de fonctions; réglementation
+
+## Réponse
+
+*JO du 2014-02-11*
+
+L'article L. 723-3 du code de la sécurité intérieure dispose que toute personne, qu'elle soit ou non en activité et quelle que soit son activité professionnelle, peut devenir sapeur-pompier volontaire, sous réserve de satisfaire aux conditions d'engagement. Aujourd'hui, les sapeurs-pompiers volontaires (SPV) également sapeurs-pompiers professionnels représentent 6,1 % de l'ensemble des sapeurs-pompiers volontaires et 31,6 % des sapeurs-pompiers professionnels (SPP). Leur utilité est donc confirmée et apporte une plus value dans l'encadrement des SPV mais également dans le domaine de la formation ou du renfort opérationnel dans les zones rurales . Cette double appartenance (SPP-SPV) s'inscrit toutefois dans le respect des textes en vigueur. Il convient en effet que le SPP, lorsqu'il s'engage comme SPV, puisse être dans une situation clarifiée. Son activité de SPV doit donc être bien dissociée de l'exercice du métier de SPP. Plusieurs services départementaux d'incendie et de secours (SDIS) ont ainsi défini quelques règles applicables en la matière (pas d'affectation en qualité de SPV dans le même centre où il exerce en tant que SPP, pas de garde postée, etc.. . ). Ainsi, être SPV pour un SPP relève donc bien de sa seule volonté. Il revient au SDIS d'en préciser les règles. Le décret n° 2013-412 du 17 mai 2013 relatif aux sapeurs-pompiers volontaires énonce clairement cette possibilité et prévoit plusieurs mesures d'accompagnement (l'avancement concomitant par exemple). Enfin, le conseil national des sapeurs-pompiers volontaires a émis une recommandation sur la liberté de choix qu'impose cette double appartenance, qui sera relayée prochainement par une instruction explicitant les modalités d'application du décret du 17 mai 2013 précité.
