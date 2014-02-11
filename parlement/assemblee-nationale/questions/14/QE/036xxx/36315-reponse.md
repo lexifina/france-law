@@ -1,0 +1,9 @@
+# Réponse à la question n° 36315
+
+- Question : [36315](36315.md) — Question n° 36315 — réductions d'impôt; matériel minier; Guyane
+
+## Réponse
+
+*JO du 2014-02-11*
+
+A l'automne 2012, les services de l'Etat, dont la douane, ont été alertés par une société de Guyane du projet d'importation d'une de ses concurrentes de 20 pelles mécaniques de marque HITACHI : selon les informations transmises, les machines ne respectaient pas les réglementations techniques en vigueur au niveau communautaire. Suite à cette dénonciation, les services douaniers sont intervenus afin de vérifier la conformité des machines lors de leur importation et ont décidé, après contrôle, d'accorder la mainlevée pour les raisons suivantes : - Les pelles mécaniques entrent dans le champ de deux réglementations concernant la sécurité des produits (protection de l'utilisateur) que la douane a la capacité juridique de contrôler. Or les pelles étaient conformes à ces textes (après mise en conformité par l'importateur avant le dépôt de la déclaration en douane pour mise à la consommation). - Les machines en question sont également concernées par une réglementation visant à protéger l'environnement (émissions polluantes) dont les services douaniers ne peuvent pas contrôler l'application. En effet, la réglementation ne prévoit pas de prohibition à l'importation. Dans cette affaire, les services douaniers ont contrôlé la conformité des pelles mécaniques importées aux réglementations relatives à la sécurité des machines et aux émissions sonores, ainsi qu'ils en ont la mission et la capacité juridique. Aujourd'hui toutefois, une enquête judiciaire est en cours s'agissant du volet relatif à la réglementation concernant les émissions polluantes suite à un dépôt de plainte par la société ayant dénoncé les faits. A ce titre, les pelles mécaniques ont été saisies et sont sous scellés judiciaires, elles n'ont donc pas été mises sur le marché.
