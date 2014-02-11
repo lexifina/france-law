@@ -1,0 +1,9 @@
+# Réponse à la question n° 35039
+
+- Question : [35039](35039.md) — Question n° 35039 — délinquance; lutte et prévention
+
+## Réponse
+
+*JO du 2014-02-11*
+
+Comme indiqué dans le rapport au Parlement relatif à la politique de prévention de la délinquance en 2012, le plan national de prévention de la délinquance et d'aide aux victimes (2010-2012), prévoyait dans sa mesure 25 de faire élaborer par chaque conseil local de sécurité et de prévention de la délinquance une « stratégie territoriale de sécurité et de prévention de la délinquance ». Dans le cadre de la mise en oeuvre du plan national, cette approche, plus souple que celle des contrats locaux de sécurité, a rencontré un certain écho malgré son caractère informel et a connu un développement non négligeable : près de 400 stratégies ont été recensées parmi lesquelles certaines sont intercommunales. La stratégie nationale de prévention de la délinquance adoptée par le Gouvernement pour la période 2013-2017 et qui a fait l'objet d'une circulaire du Premier ministre le 4 juillet 2013, prévoit que les plans locaux de prévention de la délinquance (contrat local de sécurité ou stratégie territoriale de sécurité et de prévention) intègrent dans le courant de l'année 2014 les nouvelles orientations prioritaires qui s'articulent autour de trois programmes : - programme d'actions à l'intention des jeunes exposés à la délinquance, - programme d'actions pour améliorer la prévention des violences faites aux femmes, des violences intrafamiliales, et l'aide aux victimes, - programme d'actions pour améliorer la tranquillité publique. Le Fonds interministériel de prévention de la délinquance (FIPD) constitue le principal levier financier de l'Etat pour la mise en oeuvre de ces programmes d'actions. Il sera doté en 2014 de 54,6 M€ et en 2015 de 52,9 M€.
