@@ -1,0 +1,9 @@
+# Réponse à la question n° 39674
+
+- Question : [39674](39674.md) — Question n° 39674 — bonification pour enfants; forfaitisation
+
+## Réponse
+
+*JO du 2014-02-11*
+
+Les majorations de pension pour les parents de trois enfants et plus accordées à chacun des deux parents sont favorables aux pensions les plus élevées, en ce qu'elles sont proportionnelles à la pension (et donc plus importantes pour les pensions élevées), et contribuent donc à accroître les écarts de pension entre hommes et femmes. La commission pour l'avenir des retraites présidée par Madame Yannick Moreau s'est, dans son rapport, penchée sur la question et a examiné différents scénarios d'évolution ou de refonte des droits familiaux. Elle a notamment souligné combien les droits familiaux de retraite pouvaient, tout en améliorant sensiblement les pensions des femmes, créer des situations d'inéquité entre assurés et entre régimes. Toutefois, ce même rapport a souligné qu'il convenait d'approfondir les effets des différents scénarios de réforme, afin de ne pas risquer, par une redistribution trop rapide, de réduire brutalement les droits de certains assurés. En considérant que la question était à la fois centrale (les différents droits familiaux de retraite représentent près de 15 Mds d'euros par an) et inaboutie, le rapport présentée par Madame Moreau proposait donc de poursuivre les travaux afin de réaliser une réforme ambitieuse mais progressive. La loi garantissant l'avenir et la justice du système de retraites propose donc de définir les contours d'une prochaine réforme à la lumière d'un rapport dédié qui sera remis au Parlement dans les six mois après la promulgation de la loi. Ce rapport devra formuler des propositions chiffrées, aux impacts précisément évalués, tout en veillant à ne pas changer les règles du jeu pour les assurés proches de la retraite.
