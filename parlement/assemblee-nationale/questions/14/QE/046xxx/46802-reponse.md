@@ -1,0 +1,9 @@
+# Réponse à la question n° 46802
+
+- Question : [46802](46802.md) — Question n° 46802 — vétérinaires
+
+## Réponse
+
+*JO du 2014-02-11*
+
+Par les arrêtés du 4 avril 2013 et du 27 novembre 2013 relatifs aux programmes de première et seconde année de la classe préparatoire scientifique « biologie, chimie, physique et sciences de la terre » (BCPST) d'une part, et par arrêté du 25 juin 2013 relatif au concours commun d'accès dans les écoles nationales vétérinaires, d'autre part, les ministres chargés de l'enseignement supérieur, de l'éducation nationale et de l'agriculture viennent de rénover le dispositif d'accès aux écoles nationales vétérinaires. Effectivement, les étudiants, qui échoueront au concours 2014 et qui tenteraient une seconde fois celui-ci, travailleront un nouveau programme pour le concours 2015. S'agissant de la rénovation des programmes des classes préparatoires aux grandes écoles (CPGE), cette mission relève de la compétence des ministres de l'enseignement supérieur et de l'éducation nationale. Cependant, le ministre chargé de l'agriculture considère qu'il n'y a pas de rupture d'égalité entre les candidats dès lors qu'un délai de plus d'un an a été prévu entre la publication des arrêtés et les dates des concours et que la préparation directe du concours s'effectue principalement durant la seconde année de classes préparatoires BCPST. Cet avis est confirmé par un arrêt du 3 octobre 2011 du Conseil d'État, qui a considéré d'une part, que la première année de classes préparatoires aux grandes écoles est centrée sur l'acquisition de méthodes de travail et d'une culture générale et que la seconde année correspond à la préparation directe des concours et d'autre part, qu'un délai d'un an est raisonnable entre la publication des arrêtés et les dates des concours pour permettre de s'adapter aux modifications.
