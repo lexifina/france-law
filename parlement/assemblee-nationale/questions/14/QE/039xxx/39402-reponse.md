@@ -1,0 +1,9 @@
+# Réponse à la question n° 39402
+
+- Question : [39402](39402.md) — Question n° 39402 — résultats et gestion budgétaire; rapport; conclusions
+
+## Réponse
+
+*JO du 2014-02-11*
+
+La Cour estime que l'État procède au titre des remboursements et dégrèvements d'impôts locaux à une dépense budgétaire au profit des collectivités territoriales financées à partir des recettes du budget général, et que faire apparaître un montant de recettes nettes de l'intégralité des remboursements et dégrèvements revient à minorer simultanément les recettes et dépenses nettes du budget général. Cette analyse n'est pas partagée, pour plusieurs raisons : - Dans le tableau d'équilibre, les remboursements et dégrèvements d'impôts locaux sont, comme les prélèvements sur recettes, déduits des recettes brutes, l'effort global en faveur des collectivités territoriales étant rassemblé, dans un souci de cohérence de la présentation, en moindres recettes ; - Ce choix de présentation dans les tableaux d'équilibre n'exclut pas, par ailleurs, l'inclusion de prélèvements sur recettes dans la norme de dépenses, ces prélèvements, dont la mise en oeuvre participe de la stratégie de maîtrise des finances publiques, restant sous certaines conditions pilotables ; - L'ensemble de l'effort financier en faveur des collectivités territoriales est par ailleurs présenté dans le document budgétaire « Effort financier en faveur des collectivités territoriales » ; - Enfin, tous les remboursements et dégrèvements d'impôts locaux ne sauraient être assimilés à des dépenses réalisées au profit des collectivités locales ; les restitutions d'excédents d'acompte de CVAE, qui résultent directement de la mécanique de la contribution et qui sont in fine à la charge des administrations territoriales, ne sont notamment pas assimilables à de tels transferts.
