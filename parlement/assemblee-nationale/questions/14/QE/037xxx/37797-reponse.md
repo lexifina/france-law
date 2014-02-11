@@ -1,0 +1,9 @@
+# Réponse à la question n° 37797
+
+- Question : [37797](37797.md) — Question n° 37797 — sapeurs-pompiers volontaires; assurance
+
+## Réponse
+
+*JO du 2014-02-11*
+
+La loi n° 91-1389 du 31 décembre 1991 modifiée relative à la protection sociale des sapeurs-pompiers volontaires en cas d'accident survenu ou de maladie contractée en service a été instaurée afin d'apporter une protection sociale comparable à celle des sapeurs-pompiers professionnels. Le régime de protection sociale des sapeurs-pompiers volontaires s'applique à tous les sapeurs-pompiers volontaires, quelle que soit leur qualité, fonctionnaire ou non fonctionnaire. Une particularité prévue à l'article 19 de la loi du 31 décembre 1991 offre la possibilité aux sapeurs-pompiers volontaires fonctionnaires, titulaires ou stagiaires ou militaires de bénéficier des dispositions statutaires qui les régissent. L'objectif de ces dispositions est de protéger au mieux les intérêts des sapeurs-pompiers volontaires, notamment lorsqu'ils ont subi un accident en lien avec leurs activités de sapeur-pompier volontaire. Le ministre de l'Intérieur a signé le 11 octobre dernier, lors du congrès national des sapeurs-pompiers à Chambéry, avec les présidents de l'Assemblée des Départements de France, de l'Association des maires de France, de la Conférence Nationale des Services d'Incendie et de Secours, du Conseil National des sapeurs-Pompiers Volontaires et de la Fédération nationale des Sapeurs-Pompiers de France, un plan d'actions pour les sapeurs-pompiers volontaires. La mesure n° 6 prévoit la généralisation, par le biais d'une modification de la loi du 31 décembre 1991, de la prise en charge de la protection sociale par les services départementaux d'incendie et de secours (SDIS), l'objectif étant d'encourager l'engagement de sapeurs-pompiers volontaires par les collectivités territoriales.
