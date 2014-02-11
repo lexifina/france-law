@@ -1,0 +1,9 @@
+# Réponse à la question n° 45778
+
+- Question : [45778](45778.md) — Question n° 45778 — traitement des dossiers; délais; Nord-Picardie
+
+## Réponse
+
+*JO du 2014-02-11*
+
+La caisse d'assurance retraite et de la santé au travail (CARSAT) Nord-Picardie enregistre depuis un an une augmentation importante des demandes de retraite. Cette surcharge de travail est d'abord liée à la réforme des retraites de 2010 : en décalant le départ à la retraite des assurés nés en 1952, la loi de 2010 a conduit à des phénomènes de report d'activité des caisses de retraite de 2012 vers 2013. S'y est ajouté un surcroît exceptionnel de travail lié à la mise en oeuvre du décret de juillet 2012, décret qui a élargi le droit à la retraite à 60 ans pour les assurés ayant eu une longue carrière. Cette mise en oeuvre rapide d'un engagement du Président de la République répondait à une forte attente des assurés. Cette situation exceptionnelle a conduit à une augmentation du délai moyen de traitement des dossiers qui a pu entrainer des retards pour certains assurés. Malgré cet accroissement d'activité, les équipes de la CARSAT sont entièrement mobilisées pour donner satisfaction aux assurés, mettre en paiement leurs droits et répondre aux différentes sollicitations dans les meilleurs délais. La caisse nationale d'assurance vieillesse (CNAV) s'est engagée à prendre des dispositions exceptionnelles afin que toutes les demandes avec arrérages échus soient examinées en priorité. Les mesures prises par la CARSAT, avec l'appui de la CNAV, ont produit leurs effets. La situation est aujourd'hui en voie de résolution. La situation difficile qu'a traversée la CARSAT Nord-Picardie illustre la nécessité d'équilibrer au mieux la charge de travail et les ressources au sein du réseau de la branche retraite. La nouvelle convention d'objectifs et de gestion « 2014-2017 » entre l'Etat et la CNAV, dont la négociation est en cours, devra permettre d'améliorer l'efficience du réseau des CARSAT.
