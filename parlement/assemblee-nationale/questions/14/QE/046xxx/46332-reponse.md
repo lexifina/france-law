@@ -1,0 +1,9 @@
+# Réponse à la question n° 46332
+
+- Question : [46332](46332.md) — Question n° 46332 — instances consultatives; multiplicité
+
+## Réponse
+
+*JO du 2014-02-11*
+
+Quatre instances consultatives sont placées auprès du Ministre des outre-mer. La Commission nationale d'évaluation des politiques de l'Etat outre-mer (CNEPEOM), dont la majorité des membres sont des parlementaires, a été créée par la loi pour le développement économique des outre-mer (LODEOM) et a été installée le 13 avril 2011. Elle travaille activement à son programme d'évaluation qui fera l'objet d'un rapport biennal 2013-2014. Ce rapport devrait être transmis au Parlement en octobre 2014. Le Comité de suivi du fonds de continuité territoriale sera supprimé début 2014 dans le cadre de la Modernisation de l'action publique (MAP). Le suivi du fonds de continuité territoriale et l'évaluation des dispositifs concernés s'effectuent désormais par des réunions régulières entre l'agence de l'outre-mer pour la mobilité (LADOM), le ministère des outre-mer et les autres ministères concernés. Le Conseil du service militaire adapté a été créé le 12 juillet 2011. Les membres du Conseil du SMA exercent leur fonction à titre gratuit, aucun budget spécifique n'est donc dédié au fonctionnement de cette instance. Cependant, des indemnités correspondant aux frais de déplacement peuvent être versées aux membres. Ces dépenses sont supportées par le BOP 138/SMA. Ce conseil ne fait l'objet d'aucun projet de suppression ou de fusion. Le Comité pour la mémoire et l'histoire de l'esclavage a été institué en 2004. Le Comité national pour la mémoire et l'histoire de l'esclavage, dont le secrétariat général est situé au ministère des Outre-mer, a un rôle de conseil auprès du Gouvernement et, en 2014, mettra l'accent sur les patrimoines et conduira une réflexion sur les formes de réparations de l'esclavage en France et dans le monde. Il n'a pas vocation à être supprimé ou fusionné.
