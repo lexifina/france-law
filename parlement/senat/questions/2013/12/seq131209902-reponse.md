@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209902
+
+- Question : [SEQ131209902](seq131209902.md) — Dysfonctionnements répétés des services de communication de Matignon
+
+## Réponse
+
+*Premier ministre, JO du 2014-02-13, page 395*
+
+Le compte twitter @Matignon est géré par le pôle stratégie, médias et communication au sein du cabinet du Premier ministre. Ce compte relaie l'agenda officiel du Premier ministre, les informations diffusées en temps réel sur ses déplacements, et un grand nombre de ses rendez-vous et activités. Les deux « tweets » évoqués sont le résultat d'une mauvaise manipulation. Ils ont immédiatement été retirés, et ne s'inscrivent bien évidemment pas dans l'activité que ce compte a vocation à relayer. S'agissant des relevés de conclusions évoqués par l'honorable parlementaire, sujet dont on perçoit difficilement le lien avec le précédent, ils sont le résultat d'une concertation conduite dans le cadre de la refondation de la politique de l'intégration, par cinq groupes de travail thématiques. Pilotés par des personnalités qualifiées, missionnées par cinq binômes de ministres, et composés d'acteurs de terrain de la politique d'intégration, ces groupes ont remis leurs conclusions, qui ont été mises en ligne, comme il est d'usage pour un travail réunissant près de 200 personnes. Comme pour tout rapport, il s'agit de contributions qui n'engagent pas le Gouvernement, mais qui ont vocation à s'intégrer à la réflexion préalable à la refondation d'une politique dont le précédent Gouvernement avait atteint les fondements. S'agissant des effectifs du cabinet du Premier ministre rattachés au pôle stratégie, médias et communication, ils sont consultables sur le site internet gouvernement. fr. Conformément aux obligations légales incombant à tout employeur, public ou privé, les rémunérations de ces personnels ne peuvent être rendues publiques.
