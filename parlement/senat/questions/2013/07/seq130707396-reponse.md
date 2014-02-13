@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130707396
+
+- Question : [SEQ130707396](seq130707396.md) — Différence de traitement entre candidat libre et auto-école pour le permis de conduire
+
+## Réponse
+
+*Intérieur, JO du 2014-02-13, page 412*
+
+L'attribution des places d'examens pour l'épreuve pratique de la catégorie B est définie par une méthode nationale qui permet d'octroyer aux établissements d'enseignement de la conduite et de la sécurité routière un certain nombre de places en fonction de leur activité durant les 12 derniers mois, à savoir le nombre de candidats présentés pour la première fois à cette épreuve. Par ailleurs, cette méthode d'attribution est complétée d'un système d'entraide national, appelé « réserve nationale ». Ce dernier permet aux départements d'une région de venir en aide à un département devant affronter plusieurs impondérables sur une courte période. Parallèlement, la gestion des places d'examen réservées aux candidats qui se présentent aux épreuves du permis de conduire sans avoir suivi leur formation dans un établissement d'enseignement de la conduite et de la sécurité routière est gérée par les bureaux éducation routière placés en direction départementale interministérielle ou en préfecture. Pour ce public, il est recommandé aux délégués à l'éducation routière de lui réserver chaque mois dans la mesure du possible, un certain nombre de places d'examen et de lui appliquer le délai moyen constaté entre deux présentations dans leur département afin d'établir une égalité de traitement entre les candidats aux examens B du permis de conduire. Le nombre de places réservées mensuellement pour les candidats « individuels » est donc variable selon le département et la période. Il fait l'objet d'une concertation au sein des comités locaux de suivi des places d'examen.
