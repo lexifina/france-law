@@ -30,7 +30,7 @@ Commission Centre-Nord
 
 |
 
-Centre, Ile-de-France, Nord - Pas-de-Calais, Picardie
+Centre, Ile-de-France, Nord-Pas-de-Calais, Picardie
 
 |
 
@@ -90,10 +90,8 @@ Commission de l'outre-mer
 
 |
 
-Guadeloupe, Guyane, Martinique, Réunion
+Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin
 
 |
 
-Fort-de-France
-
-|
+Fort-de-France |
