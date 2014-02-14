@@ -1,34 +1,24 @@
 # Article Annexe
 
-I. - LISTE DES ORGANISMES DE SÉLECTION AGRÉÉS POUR LES RUMINANTS ET PÉRIODE DE VALIDITÉ DE CES AGRÉMENTS
+I. - LISTE DES ORGANISMES DE SÉLECTION AGRÉÉS POUR LES RUMINANTS
+
+(FIN DE VALIDITÉ DE CES AGRÉMENTS : 30 JUIN 2014)
 
 I-1. Espèce bovine
 
-NOM DE L'ORGANISME
+NOM DE L'ORGANISME |
 
-|
+FORME JURIDIQUE |
 
-FORME JURIDIQUE
-
-|
-
-ADRESSE
-
-|
+ADRESSE |
 
 NOM
 
-de la (des) race (s)pour la (es) quelle (s)
+de la (des) race (s)
 
-il est agréé
+pour la (es) quelle (s)
 
-|
-
-DATE DE FIN
-
-de validité de l'agrément
-
-|
+il est agréé |
 
 Charolais France
 
@@ -43,10 +33,6 @@ Groupement d'intérêt économique (GIE)
 |
 
 Charolaise
-
-|
-
-30 juin 2014
 
 |
 
@@ -66,10 +52,6 @@ Gasconne
 
 |
 
-30 juin 2014
-
-|
-
 Organisme de sélection de la race montbéliarde
 
 |
@@ -83,10 +65,6 @@ Association (loi 1901)
 |
 
 Montbéliarde
-
-|
-
-30 juin 2014
 
 |
 
@@ -106,10 +84,6 @@ Vosgienne
 
 |
 
-30 juin 2014
-
-|
-
 Organisme de sélection des races bovines locales à petits effectifs
 
 |
@@ -118,7 +92,7 @@ Association (loi 1901)
 
 |
 
-Institut de l'élevage, maison nationale des éleveurs, 149, rue de Bercy, 75595 Paris Cedex 12
+Institut de l'élevage, Maison nationale des éleveurs, 149, rue de Bercy, 75595 Paris Cedex 12
 
 |
 
@@ -152,10 +126,6 @@ Corse
 
 |
 
-30 juin 2014
-
-|
-
 Institut de l'élevage
 
 |
@@ -164,7 +134,7 @@ Association (loi 1901)
 
 |
 
-Institut de l'élevage, maison nationale des éleveurs, 149, rue de Bercy, 75595 Paris Cedex 12
+Institut de l'élevage, Maison nationale des éleveurs, 149, rue de Bercy, 75595 Paris Cedex 12
 
 |
 
@@ -173,10 +143,6 @@ Autres races à effectif limité :
 Aurochs-reconstitué
 
 Hereford
-
-|
-
-30 juin 2014
 
 |
 
@@ -200,10 +166,6 @@ Pie rouge
 
 |
 
-30 juin 2014
-
-|
-
 Groupe salers évolution
 
 |
@@ -217,10 +179,6 @@ La maison de la Salers, domaine du Fau, 15140 Saint-Bonnet-de-Salers
 |
 
 Salers
-
-|
-
-30 juin 2014
 
 |
 
@@ -240,10 +198,6 @@ Aubrac
 
 |
 
-30 juin 2014
-
-|
-
 France blonde d'Aquitaine sélection
 
 |
@@ -257,10 +211,6 @@ Maison de l'agriculture, 271, rue de Péchabout, BP 45,47002 Agen Cedex
 |
 
 Blonde d'Aquitaine
-
-|
-
-30 juin 2014
 
 |
 
@@ -280,10 +230,6 @@ Limousine
 
 |
 
-30 juin 2014
-
-|
-
 Excellence bazadaise
 
 |
@@ -297,10 +243,6 @@ La Jardiasse Est, 33430 Bazas
 |
 
 Bazadaise
-
-|
-
-30 juin 2014
 
 |
 
@@ -320,10 +262,6 @@ Bleue du Nord
 
 |
 
-30 juin 2014
-
-|
-
 Union rouge flamande
 
 |
@@ -337,10 +275,6 @@ Maison de l'élevage du Nord, 140, boulevard de la Liberté, 59013 Lille Cedex
 |
 
 Rouge flamande
-
-|
-
-30 juin 2014
 
 |
 
@@ -360,10 +294,6 @@ Brahman
 
 |
 
-30 juin 2014
-
-|
-
 Sélection créole
 
 |
@@ -377,10 +307,6 @@ Chambre d'agriculture de Guadeloupe, rond-point de Destrellan, 97122 Baie-Mahaul
 |
 
 Créole
-
-|
-
-30 juin 2014
 
 |
 
@@ -400,10 +326,6 @@ Parthenaise
 
 |
 
-30 juin 2014
-
-|
-
 Association des éleveurs français de taureaux de combat
 
 |
@@ -420,10 +342,6 @@ Race de combat
 
 |
 
-30 juin 2014
-
-|
-
 Livre généalogique de la raço di biòu
 
 |
@@ -436,15 +354,11 @@ Mas du pont de Rousty, 13200 Arles
 
 |
 
-Raço di Biòu
+Raço di biòu
 
 |
 
-30 juin 2014
-
-|
-
-OS blanc bleu (Organisme de sélection de la race bovine blanc bleu)
+OS blanc bleu (organisme de sélection de la race bovine blanc bleu)
 
 |
 
@@ -457,10 +371,6 @@ Association (loi 1901)
 |
 
 Blanc bleu
-
-|
-
-30 juin 2014
 
 |
 
@@ -482,10 +392,6 @@ Jersiaise
 
 |
 
-30 juin 2014
-
-|
-
 Simmental France
 
 |
@@ -502,11 +408,7 @@ Simmental française
 
 |
 
-30 juin 2014
-
-|
-
-Union bretonne pie noir
+Union bretonne pie noire
 
 |
 
@@ -519,10 +421,6 @@ Association (loi 1901)
 |
 
 Bretonne pie noire
-
-|
-
-30 juin 2014
 
 |
 
@@ -542,10 +440,6 @@ Normande
 
 |
 
-30 juin 2014
-
-|
-
 Domaine rouge des prés
 
 |
@@ -562,10 +456,6 @@ Rouge des prés
 
 |
 
-30 juin 2014
-
-|
-
 Unité nationale pour la race bovine tarentaise
 
 |
@@ -579,10 +469,6 @@ Association (loi 1901)
 |
 
 Tarentaise
-
-|
-
-30 juin 2014
 
 |
 
@@ -606,35 +492,21 @@ Villard-de-Lans
 
 |
 
-30 juin 2014
-
-|
-
 I-2. Espèce ovine
 
-NOM DE L'ORGANISME
+NOM DE L'ORGANISME |
 
-|
+FORME JURIDIQUE |
 
-FORME JURIDIQUE
-
-|
-
-ADRESSE
-
-|
+ADRESSE |
 
 NOM
 
-de la (des) race (s)pour la (es) quelle (s)il est agréé
+de la (des) race (s)
 
-|
+pour la (es) quelle (s)
 
-DATE DE FIN
-
-de validité de l'agrément
-
-|
+il est agréé |
 
 Géode
 
@@ -644,9 +516,7 @@ Coopérative agricole
 
 |
 
-1, avenue de Chauvigny, BP 70104,
-
-86501 Montmorillon Cedex
+1, avenue de Chauvigny, BP 70104,86501 Montmorillon Cedex
 
 |
 
@@ -676,10 +546,6 @@ Suffolk
 
 |
 
-30 juin 2014
-
-|
-
 Unité pour la race lacaune
 
 |
@@ -696,9 +562,7 @@ Lacaune lait
 
 Lacaune viande
 
-Caussenarde
-
-des garrigues
+Caussenarde des Garrigues
 
 Raïole
 
@@ -706,17 +570,11 @@ Rouge du Roussillon
 
 |
 
-30 juin 2014
-
-|
-
 Ovilot
 
 |
 
-Coopérative agricole
-
-CAPEL
+Coopérative agricole CAPEL
 
 |
 
@@ -728,13 +586,9 @@ Causses du Lot
 
 |
 
-30 juin 2014
+Races ovines des massifs - sélection
 
-|
-
-Races ovines des massifs - Sélection
-
-(ROM - Sélection)
+(ROM - sélection)
 
 |
 
@@ -748,7 +602,7 @@ Route de Thiers, Marmilhat, 63370 Lempdes
 
 Bizet
 
-Blanc du Massif Central
+Blanc du Massif central
 
 Grivette
 
@@ -759,10 +613,6 @@ Noir du Velay
 Rava
 
 Southdown
-
-|
-
-30 juin 2014
 
 |
 
@@ -779,10 +629,6 @@ Route de Dompière, Les Etablières, 85000 La Roche-sur-Yon
 |
 
 Mouton vendéen
-
-|
-
-30 juin 2014
 
 |
 
@@ -806,10 +652,6 @@ Manech rousse
 
 |
 
-30 juin 2014
-
-|
-
 Organisation de sélection ovine Nord
 
 |
@@ -828,11 +670,7 @@ Texel
 
 |
 
-30 juin 2014
-
-|
-
-Organisme de sélection de la race ovine du mouton charolais
+Organisme de sélection de la race ovine du mouton Charollais
 
 |
 
@@ -844,11 +682,7 @@ Association (loi 1901)
 
 |
 
-Mouton charolais
-
-|
-
-30 juin 2014
+Charollais
 
 |
 
@@ -868,10 +702,6 @@ Romane
 
 |
 
-30 juin 2014
-
-|
-
 Unité nationale de sélection et de promotion des races avranchin, cotentin et roussin
 
 |
@@ -888,15 +718,11 @@ Avranchin
 
 Cotentin
 
-Roussin de la Hague
+Roussin de La Hague
 
 |
 
-30 juin 2014
-
-|
-
-Union pour la sélection de l'ovin Martinik (USOM)
+Union pour la sélection de l'ovin martinik (USOM)
 
 |
 
@@ -909,10 +735,6 @@ Habitation Bonne Mère, 97224 Ducos
 |
 
 Martinik
-
-|
-
-30 juin 2014
 
 |
 
@@ -936,10 +758,6 @@ Mourérous
 
 |
 
-30 juin 2014
-
-|
-
 Association mouton boulonnais
 
 |
@@ -956,10 +774,6 @@ Boulonnaise
 
 |
 
-30 juin 2014
-
-|
-
 Organisme de sélection de la race ovine corse
 
 |
@@ -973,10 +787,6 @@ Domaine de Casabianda, 20270 Aléria
 |
 
 Corse (race ovine corse)
-
-|
-
-30 juin 2014
 
 |
 
@@ -1002,11 +812,7 @@ Lourdaise
 
 Montagne noire
 
-. Tarasconnaise
-
-|
-
-30 juin 2014
+Tarasconnaise
 
 |
 
@@ -1026,11 +832,7 @@ Thônes et Marthod
 
 |
 
-30 juin 2014
-
-|
-
-Centre d'enseignement zootechnique, Bergerie Nationale de Rambouillet
+Centre d'enseignement zootechnique, Bergerie nationale de Rambouillet
 
 |
 
@@ -1046,10 +848,6 @@ Mérinos de Rambouillet
 
 |
 
-30 juin 2014
-
-|
-
 Organisation de sélection ovine Ouest-Maine
 
 |
@@ -1058,7 +856,7 @@ Association (loi 1901)
 
 |
 
-Chambre d'Agriculture, 15, rue Jean-Gémillon-Grémillon, 72013 Le Mans
+Chambre d'Agriculture, 15, rue Jean-Gémillon, 72013 Le Mans
 
 |
 
@@ -1066,23 +864,13 @@ Bleu du Maine
 
 |
 
-30 juin 2014
-
-|
-
 I-3. Espèce caprine
 
-NOM DE L'ORGANISME
+NOM DE L'ORGANISME |
 
-|
+FORME JURIDIQUE |
 
-FORME JURIDIQUE
-
-|
-
-ADRESSE
-
-|
+ADRESSE |
 
 NOM
 
@@ -1090,15 +878,7 @@ de la (des) race (s)
 
 pour la (es) quelle (s)
 
-il est agréé
-
-|
-
-DATE DE FIN
-
-de validité de l'agrément
-
-|
+il est agréé |
 
 Capgènes
 
@@ -1114,9 +894,11 @@ Coopérative agricole
 
 Alpine
 
-Angora des fossés
+Angora
 
-du Massif central
+Des fossés
+
+Du Massif central
 
 Corse
 
@@ -1132,35 +914,21 @@ Saanen
 
 |
 
-30 juin 2014
+II. - LISTE DES ORGANISMES DE SÉLECTION AGRÉÉS POUR L'ESPÈCE PORCINE
 
-|
+(FIN DE VALIDITÉ DE CES AGRÉMENTS : 30 JUIN 2014)
 
-II. - LISTE DES ORGANISMES DE SÉLECTION AGRÉÉS POUR L'ESPÈCE PORCINE ET PÉRIODE DE VALIDITÉ DE CES AGRÉMENTS
+NOM de l'organisme |
 
-Date de fin de validité : 30 juin 2014
+FORME JURIDIQUE |
 
-NOM DE L'ORGANISME
+ADRESSE |
 
-|
-
-FORME JURIDIQUE
-
-|
-
-ADRESSE
-
-|
-
-FONCTION AGRÉÉE
-
-|
+FONCTION AGRÉÉE |
 
 TYPES GÉNÉTIQUES
 
-concernés
-
-|
+concernés |
 
 ADN (Alliance de diffusion des nuclei)
 
@@ -1170,9 +938,7 @@ Société par actions simplifiée
 
 |
 
-Rue Maurice-de-Trésiguidy, 29190 Pleyben
-
-|
+Rue Maurice-de-Trésiguidy, 29190 Pleyben |
 
 Tenue de livre généalogique
 
@@ -1181,8 +947,6 @@ Tenue de livre généalogique
 Duochan
 
 Duroc ADN
-
-Euroc
 
 |
 
@@ -1242,7 +1006,7 @@ Titan
 
 |
 
-France Hybrides
+Hypor France
 
 |
 
@@ -1250,7 +1014,7 @@ Société par actions simplifiée
 
 |
 
-Domaine du Grand Puits, 45110 Châteauneuf-sur-Loire
+1, rue Jean-Rostand, 22440 Ploufragan
 
 |
 
@@ -1258,13 +1022,9 @@ Tenue de livre généalogique
 
 |
 
-FH012
+Lignée 12
 
-FH016
-
-FH019
-
-FH025
+Hypor Maxter
 
 Lignée C
 
@@ -1274,23 +1034,13 @@ Magnus
 
 |
 
-Tenue de registre zootechnique
+Tenue de livre généalogique
 
 |
 
-Galaxy 300
+Libra,
 
-Galaxy 480
-
-Galaxy 900
-
-Hypor CD
-
-Maxter 304
-
-Maxter 16
-
-Maxter 19
+Maxya
 
 |
 
@@ -1312,7 +1062,7 @@ Tenue de livre généalogique
 
 DRB
 
-DRC
+Duroc Gène +
 
 Musclor
 
@@ -1329,6 +1079,8 @@ Alfa +
 Défi +
 
 DRX
+
+GP LD x Du ou Duna,
 
 Piétrain x Musclor
 
@@ -1449,10 +1201,6 @@ Durance
 Nucleus
 
 Nushan 33
-
-Porcneuf
-
-Porcneuf 81
 
 Rocland
 
