@@ -2,11 +2,11 @@
 
 ADMINISTRATION CENTRALE ET POSTES TERRITORIAUX
 
-NIVEAUX D'ÉQUIVALENCES AUX CATÉGORIES
+EMPLOIS
 
 |
 
-EMPLOIS
+NIVEAUX D'ÉQUIVALENCES AUX CATÉGORIES
 
 |
 
@@ -22,29 +22,33 @@ CDG
 
 |
 
+Chef IDSC.
+
+Adjoint au chef IDSC.
+
+Chef de la MRI.
+
+Membre d'un cabinet ministériel.
+
+|
+
 1re catégorie.
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-Chef IDSC.
+Chef du COGIC.
 
-Adjoint-chef IDSC.
-
-Chef de la MRI.
-
-Adjoint au sous-directeur à la DDSC.
+Chef d'un service à compétence nationale.
 
 Chef d'état-major de zone.
-
-Chef de bureau du métier de sapeur-pompier, de la formation et des équipements.
 
 |
 
@@ -52,35 +56,61 @@ Chef de bureau du métier de sapeur-pompier, de la formation et des équipements
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
+
+Adjoint au sous-directeur en administration centrale.
+
+Chef de bureau en administration centrale.
 
 IDSC.
 
-Chef de bureau à la DDSC.
+Conseiller social à la DGSCGC.
+
+Chef de la cellule communication/ porte-parole.
+
+Adjoint au chef du COGIC.
 
 |
 
-3e , 4e et 5e catégories.
+1re, 2e et 3e catégories.
 
 |
 
-―
+1re, 2e et 3e catégories.
 
 |
 
-―
+|
+
+Expert technique international (selon la définition des postes prévue à l'arrêté du 7 juin 2012
+
+portant classement des postes d'experts techniques internationaux par groupe et indemnité
+
+de résidence à l'étranger).
+
+Chef de projet à l'international.
+
+|
+
+1re, 2e et 3e catégories.
+
+|
+
+1re, 2e et 3e catégories.
+
+|
 
 |
 
 Directeur de la protection civile de la Polynésie française.
 
-Directeur de la protection civile de la Nouvelle-Calédonie.
+Adjoint au chef d'état-major de zone.
 
 |
 
@@ -88,31 +118,39 @@ Directeur de la protection civile de la Nouvelle-Calédonie.
 
 |
 
-2e, 3e, 4e et 5e catégories.
+-
 
 |
 
-―
+-
 
 |
 
-Adjoint au chef d'état-major de zone.
-
-Chef du projet ANTARES ».
+Chef de projet en administration centrale.
 
 Chargé de mission.
 
-Chef du COGIC.
-
-Conseiller social auprès du DDSC.
-
-Chef de la cellule communication.
-
-Adjoint au chef de bureau à la DDSC.
+Adjoint au chef de bureau en administration centrale.
 
 |
 
-―
+4e et 5e catégories.
+
+|
+
+2e, 3e et 4e catégories.
+
+|
+
+-
+
+|
+
+Officier de sécurité civile auprès du haut commissaire de la Nouvelle-Calédonie.
+
+|
+
+-
 
 |
 
@@ -120,31 +158,23 @@ Adjoint au chef de bureau à la DDSC.
 
 |
 
-Chef de groupement.
-
 |
 
-Directeur adjoint de la protection civile de la Polynésie française.
-
-Directeur adjoint de la protection civile de la Nouvelle-Calédonie.
-
-Adjoint au chef du COGIC.
-
-Chef de bureau en état-major de zone.
+Chef de bureau en état-major de zone ou dans un service déconcentré.
 
 Chargé de mission technique.
 
 Directeur du SIS de Saint-Pierre et Miquelon.
 
-Chef de section à la DDSC.
+Chef de section en administration centrale.
 
 |
 
-―
+-
 
 |
 
-―
+3e, 4e et 5e catégories.
 
 |
 
@@ -152,19 +182,31 @@ Chef de groupement.
 
 |
 
-Adjoint au chef du bureau prévention, enquêtes et accidents.
-
 Autres officiers d'état-major de zone.
+
+Autres officiers du COGIC.
+
+|
+
+-
+
+|
+
+-
+
+|
+
+Chef de groupement.
 
 |
 
 ÉCOLE NATIONALE SUPÉRIEURE DES OFFICIERS DE SAPEURS-POMPIERS
 
-NIVEAUX D'ÉQUIVALENCES AUX CATÉGORIES
+EMPLOIS
 
 |
 
-EMPLOIS
+NIVEAUX D'ÉQUIVALENCES AUX CATÉGORIES
 
 |
 
@@ -180,19 +222,23 @@ CDG
 
 |
 
+Directeur.
+
+|
+
 1re catégorie.
 
 |
 
-―
+-
 
 |
 
-―
+-
 
 |
 
-Directeur.
+Directeur adjoint.
 
 |
 
@@ -204,11 +250,11 @@ Directeur.
 
 |
 
-―
+-
 
 |
 
-Directeur adjoint.
+Directeur de département.
 
 |
 
@@ -220,23 +266,7 @@ Directeur adjoint.
 
 |
 
-―
-
-|
-
-Directeur de département.
-
-|
-
-―
-
-|
-
-4e et 5e catégories.
-
-|
-
-―
+-
 
 |
 
@@ -244,7 +274,7 @@ Chargé de mission.
 
 |
 
-―
+-
 
 |
 
@@ -252,7 +282,7 @@ Chargé de mission.
 
 |
 
-Chef de groupement.
+-
 
 |
 
@@ -260,11 +290,11 @@ Adjoint au directeur de département.
 
 |
 
-―
+-
 
 |
 
-―
+4e et 5e catégories.
 
 |
 
@@ -273,5 +303,71 @@ Chef de groupement.
 |
 
 Chef de division.
+
+|
+
+-
+
+|
+
+|
+
+Chef de groupement.
+
+|
+
+AUTRES ÉTABLISSEMENTS PUBLICS DE L'ÉTAT
+
+EMPLOIS
+
+|
+
+NIVEAUX D'ÉQUIVALENCES AUX CATÉGORIES
+
+|
+
+DDSIS
+
+|
+
+DDASIS
+
+|
+
+CDG
+
+|
+
+Chef de projet à l'international.
+
+|
+
+1re, 2e et 3e catégories.
+
+|
+
+1re, 2e et 3e catégories.
+
+|
+
+-
+
+|
+
+Inspecteur auprès de l'autorité de sûreté nucléaire.
+
+Poste à l'INHESJ, l'IHEDN.
+
+|
+
+3e catégorie.
+
+|
+
+2e, 3e, 4e et 5e catégories.
+
+|
+
+-
 
 |
