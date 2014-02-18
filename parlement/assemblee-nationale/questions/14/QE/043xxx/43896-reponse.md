@@ -1,0 +1,9 @@
+# Réponse à la question n° 43896
+
+- Question : [43896](43896.md) — Question n° 43896 — flotte de commerce française; rapport; recommandations
+
+## Réponse
+
+*JO du 2014-02-18*
+
+L'anticipation et l'accompagnement de la transposition des normes internationales et européennes par des études d'impact de compétitivité est une recommandation déjà suivie en raison de l'obligation d'accompagner les lois de ratification d'une étude d'impact. L'association aux études d'impact des fédérations professionnelles et des organisations syndicales permet une meilleure appréhension de la dimension socio-économique des mesures adoptées aux niveaux international et européen. Le ministère de l'écologie, du développement durable et de l'énergie entreprend régulièrement des études pour appuyer les instructions et les démarches au niveau européen et international. Dans le domaine environnemental, les professionnels sont régulièrement associés aux travaux, ils sont consultés ou informés des conclusions des études. Dans le domaine social, les textes donnent également lieu à des concertations en amont avec les organisations syndicales et les armateurs. Les normes techniques internationales et communautaires font l'objet d'études d'impact en amont, au niveau des instances européennes et à l'Organisation maritime internationale (OMI). Les textes normatifs assurant la transposition sont également l'objet de consultations. Cette méthode est également adoptée au niveau européen pour la mise en oeuvre de l'annexe VI de la convention MARPOL (marine pollution) à travers la directive 2012/33 par exemple avec la création d'un forum permanent abordant l'ensemble des aspects relatifs à l'application de nouvelles normes environnementales, y compris celui de la compétitivité (forum européen sur le transport maritime durable ouvert le 27 novembre 2013).
