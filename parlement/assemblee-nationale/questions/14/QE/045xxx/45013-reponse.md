@@ -1,0 +1,9 @@
+# Réponse à la question n° 45013
+
+- Question : [45013](45013.md) — Question n° 45013 — flotte de commerce française; rapport; recommandations
+
+## Réponse
+
+*JO du 2014-02-18*
+
+Le décret n° 2006-142 du 10 février 2006 a créé le guichet unique. Ce dernier agit en partenariat avec la recette des douanes de Marseille-transports afin d'être l'interlocuteur unique et privilégié de l'usager pour toutes ses formalités d'immatriculation et de francisation du navire au sein du registre, dans un souci de qualité et de rapidité du service offert. Après 4 ans d'existence, il est apparu nécessaire de modifier le décret précité, pour permettre un meilleur fonctionnement du guichet unique et le développement du Registre international français (RIF). En effet, les interlocuteurs du guichet unique sont les services centraux, notamment pour toute question de droit relative à l'immatriculation, à la francisation et aux garanties hypothécaires. De plus, pour assurer son expansion, le RIF est appelé à mettre en oeuvre un plan de communication spécifique qui suppose sa présence dans des salons internationaux et pour lesquels les moyens budgétaires dévolus à la direction départementale des territoires et de la mer (DDTM) des Bouches-du-Rhône n'étaient pas à l'échelle des enjeux liés à la création du guichet unique. En conséquence, le développement du RIF passerait par le rattachement du guichet unique à l'administration centrale. Ce mouvement est mis à profit pour simplifier les règles de fonctionnement du guichet unique, notamment en matière de délégation de signature. Afin de fonctionner de manière optimale, le guichet unique devrait pouvoir bénéficier, à terme, des délégations nécessaires à l'instruction des procédures d'entrée ou de sortie de flotte, sur les plans sociaux, administratif et de la sécurité des navires. C'est dans cette trajectoire que s'inscrit résolument l'action des différents départements concernés.
