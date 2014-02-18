@@ -1,0 +1,9 @@
+# Réponse à la question n° 40976
+
+- Question : [40976](40976.md) — Question n° 40976 — candidatures; dépôt; réglementation
+
+## Réponse
+
+*JO du 2014-02-18*
+
+L'article L. 273-9 du code électoral, issu de l'article 33 de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral, prévoit que la liste des candidats aux sièges de conseiller communautaire comporte un nombre de candidats égal au nombre de sièges à pourvoir, augmenté d'un candidat supplémentaire si ce nombre est inférieur à cinq et de deux si ce nombre est supérieur ou égal à cinq. Le nombre de conseillers communautaires à élire correspond au nombre de conseillers communautaires titulaires de la commune, tel qu'il a été fixé par arrêté préfectoral pris avant le 31 octobre 2013 pour chaque établissement public de coopération intercommunale (EPCI) à fiscalité propre. C'est pourquoi lorsqu'une commune a un seul siège de conseiller communautaire à pourvoir, la liste des candidats au conseil communautaire doit, en application de l'article L.273-9, comporter deux noms (l'éventuel titulaire et le candidat supplémentaire) et ceci que la commune dispose ou non d'un conseiller communautaire suppléant. L'article L. 5211-6 du CGCT prévoit un suppléant uniquement pour les communes membres d'une communauté de communes ou d'une communauté d'agglomération, quelle que soit leur taille, qui n'ont qu'un seul conseiller communautaire. Le rôle du suppléant est d'assister aux réunions du conseil communautaire à la place du conseiller titulaire en cas d'empêchement temporaire de ce dernier. Le suppléant étant institué par la loi (article L. 5211-6 précité), il n'est pas nécessaire que les statuts de la communauté de communes ou de la communauté d'agglomération le prévoient explicitement.
