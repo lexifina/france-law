@@ -1,0 +1,9 @@
+# Réponse à la question n° 45009
+
+- Question : [45009](45009.md) — Question n° 45009 — flotte de commerce française; rapport; recommandations
+
+## Réponse
+
+*JO du 2014-02-18*
+
+La mise en place d'une statistique décisionnelle, permettant de traiter les informations susceptibles d'orienter les politiques de soutien à la compétitivité du transport maritime, est une préoccupation que partage le ministre délégué chargé des transports, de la mer et de la pêche. Les services de la direction des affaires maritimes sont en charge de collecter les données concernant l'état de la flotte de commerce sous pavillon français (décret n° 2008-680 du 9 juillet 2008). Lors des éditions statistiques de janvier et de juillet 2013, les données intéressant les flottes ont été enrichies avec l'intégration des flottes de services maritimes au sein de la flotte de commerce française pour tenir compte des évolutions et des dynamiques de certains secteurs à fort potentiel de croissance. Les données relatives à l'emploi feront l'objet d'une nouvelle publication dans les prochaines éditions et pourront être associées aux différents segments de flotte. Une réflexion est engagée sur l'intégration de la valeur ajoutée dans les statistiques par segment de flotte et en fonction des emplois de marins français/communautaires/extra-communautaires. Une démarche sera engagée auprès de l'institut national de la statistique et des études économiques (INSEE) pour expertiser les instruments statistiques et les outils informatiques susceptibles de suivre régulièrement l'ensemble de ces données orientées vers les questions socio-économiques. Par ailleurs, il faut rappeler que la production de certaines données liées à l'emploi relève des partenaires sociaux avec qui les services du ministère des transports, de la mer et de la pêche collaborent.
