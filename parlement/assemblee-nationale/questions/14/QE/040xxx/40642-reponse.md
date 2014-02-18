@@ -1,0 +1,9 @@
+# Réponse à la question n° 40642
+
+- Question : [40642](40642.md) — Question n° 40642 — récidive; perspectives
+
+## Réponse
+
+*JO du 2014-02-18*
+
+Dans le prolongement d'un rapport de l'inspection générale des services judiciaires relatif à l'exécution des condamnations à des peines d'emprisonnement ferme rendu en mars 2009 et mettant en exergue un nombre très important de condamnations exécutoires à une peine d'emprisonnement ferme en attente d'exécution en France, un plan national d'apurement des stocks a été initié début 2011 conduisant à une évaluation statistique mensuelle de l'évolution du stock de ces peines. Le stock total pour la France entière de peines privatives de liberté comprenant une partie d'emprisonnement ferme en attente d'exécution s'élevait à la fin du mois de décembre 2010 à 92 800 peines. Or, malgré le plan d'apurement, ce stock a progressé jusqu'au mois de décembre 2011 pour atteindre 99 200 peines à fin de l'année 2011. Durant l'année 2012 ce stock a diminué sur les trois premiers trimestres pour finalement remonter et retrouver en fin d'année sensiblement le même niveau qu'en 2011 (99 600) (source : Ministère de la justice/SG/SDSE). Il convient cependant de souligner que ces chiffres ne signifient nullement que 99 600 peines d'emprisonnement restent inexécutées. Le stock de peines fermes en attente d'exécution ne doit pas être considéré comme un volume inerte de peines jamais exécutées mais s'analyser comme un flux. Le processus d'aménagement et de la mise à exécution des peines obéit au contraire à un processus temporel avec des délais de traitement induits de sorte que toutes les peines exécutées ont eu vocation à intégrer à un instant donné ce stock. Ainsi, au cours de l'année 2012, l'ensemble des juridictions a prononcé 129 300 peines exécutoires d'emprisonnement ferme et en a exécuté 128 900, soit un taux de couverture des entrées par les sorties proche de 100%.
