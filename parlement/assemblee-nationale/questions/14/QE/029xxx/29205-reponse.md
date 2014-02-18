@@ -1,0 +1,9 @@
+# Réponse à la question n° 29205
+
+- Question : [29205](29205.md) — Question n° 29205 — propositions; rapport
+
+## Réponse
+
+*JO du 2014-02-18*
+
+L'Ecole nationale de la magistrature traite largement de la psychiatrie en raison du lien important entre celle-ci et de nombreux domaines de l'activité judiciaire, tant en matière civile qu'en matière pénale. Ce sujet est donc abordé non seulement lors de la formation initiale des auditeurs de justice mais également dans le cadre de la formation continue des magistrats tout au long de leur carrière. Lors de leur formation initiale, les auditeurs de justice sont sensibilisés aux notions de base de la psychiatrie puis formés à toutes les intersections existant avec le domaine judiciaire : pathologies surreprésentées au sein de la population carcérale, question de l'expertise, de la dangerosité, des addictions, des soins pénalement ordonnés... Sur le plan pratique, les futurs substituts du procureur, juges de l'application des peines et juges d'instance chargés des mesures de tutelles se rendent une journée sur le site de l'Unité pour Malades Difficiles (UMD) de Cadillac (Gironde) afin d'être sensibilisés à la prise en charge des pathologies psychiatriques les plus lourdes. Les magistrats déjà en poste bénéficient, quant à eux, de huit actions de formation continue nationale en lien direct avec la psychiatrie, de très nombreuses actions de formation continue déconcentrée en région et d'une formation en ligne innovante mis en place en juillet 2011 sur les soins psychiatriques sans consentement, qui a permis de former plus de 700 personnes. Ces sessions sont complétées par des stages pratiques permettant aux magistrats de se rendre dans des unités psychiatriques, notamment le stage collectif de cinq jours à l'Assistance Publique-Hôpitaux de Paris dont une demi-journée est consacrée à la psychiatrie d'urgence et le stage individuel de quatre jours en service de psychiatrie au CHU de Nice.
