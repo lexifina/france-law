@@ -1,0 +1,9 @@
+# Réponse à la question n° 41133
+
+- Question : [41133](41133.md) — Question n° 41133 — réponses; perspectives
+
+## Réponse
+
+*JO du 2014-02-18*
+
+Les informations dont la question fait état ne correspondent pas à la réalité. En effet, du 19 juin 2012 au 20 septembre 2013 et selon les chiffres extraits des sites Internet de l'Assemblée et du Sénat, ont été publiées au Journal officiel 1 363 questions écrites attribuées au ministère du budget (1 129 provenant de l'Assemblée nationale et 234 provenant du Sénat). Sur la même période et pour le même ministère, 651 réponses ont été publiées au Journal officiel, (534 à l'Assemblée et 117 au Sénat), soit un taux de 47,8 %. Le ministère du budget ne se satisfait pas de ce chiffre, qui peut cependant utilement être remis en perspective. Ainsi, à titre d'exemple, s'agissant des questions du Sénat (la même comparaison n'étant pas réalisable à partir des données du site de l'Assemblée nationale), du début de la législature au début de cette année (soit du 19 juin 2012 au 2 janvier 2014), 183 réponses ont été publiées, soit une activité comparable à la même période sur la législature antérieure (171 réponses du 19 juin 2007 au 2 janvier 2009). Il est souligné que cette activité équivalente est obtenue dans un contexte de maîtrise des dépenses, y compris de personnel, bien plus important qu'auparavant. Enfin, il est rappelé qu'une part importante des questions écrites destinées au ministère du budget porte sur la matière fiscale. Comme l'indique le site de l'Assemblée nationale « Les réponses aux questions n'ont en principe aucune valeur juridique et ne lient pas l'administration sauf en matière fiscale où elles sont considérées comme exprimant l'interprétation administrative des textes. » Il n'est donc pas anormal que le Gouvernement mette un soin particulier, requérant parfois davantage de temps que d'autres matières, aux réponses à ces questions.
