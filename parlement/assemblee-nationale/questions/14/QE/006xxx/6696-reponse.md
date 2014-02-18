@@ -1,0 +1,9 @@
+# Réponse à la question n° 6696
+
+- Question : [6696](6696.md) — Question n° 6696 — amiante; victimes; indemnisation
+
+## Réponse
+
+*JO du 2014-02-18*
+
+Prenant toute la mesure des souffrances des victimes de l'exposition à l'amiante, la garde des Sceaux partage la légitime préoccupation des victimes de voir les procédures judiciaires engagées en ce domaine traitées avec toute l'efficacité et la célérité requises. D'importants moyens sont mis en oeuvre pour aboutir au traitement des plaintes déposées par les victimes de l'amiante. Depuis septembre 2012, le Pôle de santé publique de Paris a vu augmenter ses moyens. Initialement trois, les magistrats instructeurs sont désormais au nombre de cinq. Ils sont assistés dans leur travail de trois médecins de santé publique et depuis septembre 2012, d'une inspectrice du travail. Ces assistants spécialisés apportent un savoir, des connaissances techniques et des expériences professionnelles particulièrement riches qui permettent une analyse efficace et transversale de ces dossiers. Le pôle de santé publique est intégré aux effectifs du tribunal de grande instance de Paris et, à ce titre, les magistrats instructeurs qui y sont affectés le sont par désignation de la présidence de la juridiction. La localisation globale pour l'année 2014 des emplois de magistrats instructeurs du tribunal de grande instance de Paris sera déterminée notamment compte-tenu des dialogues de gestion qui se sont déroulé le 6 novembre dernier avec les chefs de la cour d'appel de Paris, lesquels ont eu à cette occasion le loisir de proposer, au vu des données d'activité, une répartition des postes la plus adaptée et la plus à même de favoriser la performance des juridictions. En tout état de cause, le premier président de la cour d'appel de Paris dispose de magistrats placés qu'il lui est loisible de déléguer au sein des juridictions du ressort afin de pallier toute absence ou de faire face à tout surcroît d'activité.
