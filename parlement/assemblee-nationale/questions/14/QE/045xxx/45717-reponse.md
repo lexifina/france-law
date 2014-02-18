@@ -1,0 +1,9 @@
+# Réponse à la question n° 45717
+
+- Question : [45717](45717.md) — Question n° 45717 — textes d'application; publication
+
+## Réponse
+
+*JO du 2014-02-18*
+
+Trente deux lois appelant 291 mesures d'application relevant des attributions du ministère de l'écologie, du développement durable et de l'énergie (MEDDE) et du ministre chargé des transports, de la mer et de la pêche ont été promulguées au cours de la XIIIe législature. 260 de ces mesures d'application ont été prises au 31 décembre 2013, soit un taux d'application des lois de 89,34 %. Dix lois demeurent en attente de mesures d'application, il s'agit de : - la loi n° 2009-1291 du 26 octobre 2009 relative au transfert aux départements des parcs de l'équipement et à l'évolution de la situation des ouvriers des parcs et ateliers ; - la loi n° 2009-1503 du 8 décembre 2009 relative à l'organisation et à la régulation des transports ferroviaires et portant diverses dispositions relatives aux transports ; - la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement ; - la loi n° 2010-1488 du 7 décembre 2010 portant nouvelle organisation du marché de l'électricité ; - la loi n° 2012-77 du 24 janvier 2012 relative à Voies navigables de France ; - la loi n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'État et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports ; - la loi n° 2009- 594 du 27 mai 2009 pour le développement économique des outre-mer ; - la loi n° 2010-1487 du 7 décembre 2010 relative au département de Mayotte ; - la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 ; - la loi n° 2012-387 du 22 mars 2012 relative à la simplification du droit et à l'allègement des démarches administratives. Au titre de la XIVe législature, seule la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012 appelle encore une mesure d'application.
