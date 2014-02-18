@@ -1,0 +1,9 @@
+# Réponse à la question n° 40977
+
+- Question : [40977](40977.md) — Question n° 40977 — candidatures; dépôt; réglementation
+
+## Réponse
+
+*JO du 2014-02-18*
+
+L'article 33 de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral prévoit que le premier quart de la liste des candidats aux sièges de conseiller communautaire doit correspondre, de la même manière et dans le même ordre, aux candidats au conseil municipal en tête de liste. Le terme « tête de liste » désigne la ou les personnes figurant aux premiers rangs d'une liste. Cette règle du quart a pour but de présenter les mêmes candidats dans les premières positions sur les listes au conseil municipal et au conseil communautaire. Il vise notamment à assurer que le premier candidat de chaque liste pour les élections municipales et pour les élections communautaires soit nécessairement une seule et même personne. Le quart constitue un plafond : lorsque le calcul du quart n'aboutit pas à un nombre entier, l'arrondi s'effectue par conséquent à l'entier inférieur. A titre d'exemple, pour huit sièges de conseillers communautaires à pourvoir, la liste des candidats contiendra dix noms et le quart d'entre eux correspondra à deux sièges (10/4 = 2,5, arrondi à 2). Les deux premiers candidats de la liste des conseillers communautaires seront donc obligatoirement les deux premiers candidats de la liste des conseillers municipaux, présentés dans le même ordre. Toutefois, lorsque le calcul du quart aboutit à un nombre inférieur à un, ce nombre est arrondi à un afin d'assurer l'identité du premier des listes municipales et communautaires. Ainsi dans le cas où il y a deux conseillers communautaires à élire et donc une liste de trois candidats au conseil communautaire, la tête de la liste communautaire est la personne en tête de la liste municipale (3/4 = 0,75, arrondi à 1).
