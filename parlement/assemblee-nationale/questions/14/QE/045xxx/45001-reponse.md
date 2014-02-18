@@ -1,0 +1,9 @@
+# Réponse à la question n° 45001
+
+- Question : [45001](45001.md) — Question n° 45001 — flotte de commerce française; rapport; recommandations
+
+## Réponse
+
+*JO du 2014-02-18*
+
+La nécessité pour les jeunes officiers d'appréhender le mieux possible l'environnement international dans lequel le transport maritime est aujourd'hui un objectif partagé. D'ailleurs, fort de ce constat, la formation à l'école nationale supérieure maritime (ENSM) impose de plus en plus la composante « langue anglaise » dans les enseignements. C'est une des priorités de l'école en matière pédagogique. Un certain nombre d'élèves embarque déjà sur des navires battant pavillon étranger. Il est nécessaire en revanche de voir si cette mesure se doit d'être obligatoire ou non dans le cursus compte tenu notamment des difficultés rencontrées parfois par l'ENSM pour faire en sorte que chaque élève dispose de l'ensemble de ses stages obligatoires validés. C'est une question qui sera expertisée par l'ENSM dans un objectif d'opérationnalité du cursus de formation. La question de la monovalence ou de la polyvalence est une question récurrente qui alimente depuis plus de vingt ans des débats entre les partisans et opposants des différents systèmes. La proposition faite dans le rapport permet de ne discriminer ni l'une ni l'autre tout en offrant le meilleur choix aux élèves. L'objectif visé doit permettre d'offrir aux officiers français la possibilité d'être le plus opérationnels possible et d'être reconnus à un haut niveau de compétences au regard des standards internationaux et communautaires. C'est dans cette perspective partagée que l'ENSM réfléchit actuellement au développement d'un panel de formations élargies telles que la formation de chefs de quart internationaux ou de différents masters (énergie-propulsion marine ; offshore ; management).
