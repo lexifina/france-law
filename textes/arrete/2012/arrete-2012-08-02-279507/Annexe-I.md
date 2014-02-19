@@ -262,22 +262,6 @@ Arrêté du 24 avril 2012
 
 |
 
-Conseil de modération et de prévention (prévention de l'alcoolisme)
-
-|
-
-DGS
-
-MC2
-
-|
-
-Loi n° 2006-11 du 5 janvier 2006 d'orientation agricole (art. 69)
-
-Décret n° 2006-159 du 14 février 2006
-
-|
-
 Conseil national du syndrome immunodéficitaire acquis
 
 |
