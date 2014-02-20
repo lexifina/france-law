@@ -339,3 +339,21 @@ RPA et opérateur, volailles, manipulations et soins, mise à mort, complément 
 14 novembre 2018
 
 |
+
+ALIQUA
+
+3, chemin du Paradis
+
+27220 La Boissière |
+
+RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement.
+
+RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise à mort, complément sans étourdissement. |
+
+27 janvier 2014
+
+|
+
+26 janvier 2019
+
+|
