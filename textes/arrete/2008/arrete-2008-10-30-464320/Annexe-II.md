@@ -1,8 +1,6 @@
 # Article Annexe II
 
-CHEFS DES SERVICES DES SYSTÈMES D'INFORMATION
-
-ET DE COMMUNICATION ACCÉDANT À L'INDICE BRUT 1015
+Chefs des services des systèmes d'information et de communication accédant à l'indice brut 1015
 
 Préfectures
 
@@ -47,42 +45,6 @@ de l'Essonne
 |
 
 Chef du SDSIC
-
-|
-
-40
-
-|
-
-Service régional des systèmes d'information et de communication (SRSIC)
-
-LOCALISATION
-
-|
-
-FONCTIONS
-
-|
-
-POINTS NBI
-
-|
-
-78 |
-
-SRSIC de la zone de défense de Paris
-
-|
-
-Chef du SRSIC
-
-|
-
-40
-
-|
-
-Adjoint au chef du SRSIC
 
 |
 
@@ -184,15 +146,11 @@ Adjoint au chef du SZSIC
 
 |
 
-Services de l'administration centrale
+Services de l'administration centrale et dans la zone de défense et de sécurité de Paris
 
-LOCALISATION
+LOCALISATION |
 
-|
-
-FONCTIONS
-
-|
+FONCTIONS |
 
 POINTS NBI
 
@@ -202,11 +160,21 @@ POINTS NBI
 
 |
 
-Direction des systèmes d'information et de communication
+Direction des systèmes d'information et de communication.
 
 |
 
-Adjoint au sous-directeur de la supervision et de la production (SDSP) |
+Adjoint au sous-directeur de la supervision et de la production (SDSP).
+
+|
+
+40
+
+|
+
+Adjoint au sous-directeur des applications (SDA).
+
+|
 
 40
 
@@ -216,11 +184,19 @@ Adjoint au sous-directeur de la supervision et de la production (SDSP) |
 
 |
 
-Préfecture de police
+Direction opérationnelle des services techniques et logistiques.
 
 |
 
-Chef du département radiocommunications opérationnelles
+Chef de la mission gouvernance SIC.
+
+|
+
+40
+
+|
+
+Chef du département infrastructures opérationnelles.
 
 |
 
