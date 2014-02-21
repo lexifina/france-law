@@ -182,7 +182,7 @@ COMPTABLE PRINCIPAL ASSIGNATAIRE
 
 |
 
-PARIS/YVELINES (zone de défense) secrétariat général pour l'administration de la police
+PARIS/YVELINES (zone de défense) secrétariat général pour l'administration de la police de Paris
 
 |
 
@@ -208,9 +208,7 @@ des services deconcentrés des finances publiques
 
 |
 
-Le responsable de la plate-forme interrégionale d'Ile-de-France
-
-(Savigny-sur-Orge)
+Le responsable de la plate-forme interrégionale d'Ile-de-France (Savigny-sur-Orge)
 
 |
 

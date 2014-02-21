@@ -138,7 +138,7 @@ NORD
 
 |
 
-Direction régionale des finances publiques de Nord - Pas-de-Calais et du département du Nord
+Direction régionale des finances publiques de Nord-Pas-de-Calais et du département du Nord
 
 |
 
@@ -262,7 +262,7 @@ POLYNÉSIE FRANÇAISE
 
 |
 
-Trésorerie générale de la Polynésie française
+Direction des finances publiques de la Polynésie française
 
 |
 

@@ -102,9 +102,7 @@ HAUTE-NORMANDIE
 
 |
 
-Direction régionale des finances publiques de Haute-Normandie et du département
-
-de la Seine-Maritime
+Direction régionale des finances publiques de Haute-Normandie et du département de la Seine-Maritime
 
 |
 
@@ -148,11 +146,11 @@ Direction régionale des finances publiques de Midi-Pyrénées et du départemen
 
 |
 
-NORD - PAS-DE-CALAIS
+NORD-PAS-DE-CALAIS
 
 |
 
-Direction régionale des finances publiques de Nord - Pas-de-Calais et du département du Nord
+Direction régionale des finances publiques de Nord-Pas-de-Calais et du département du Nord
 
 |
 
@@ -160,9 +158,7 @@ PAYS DE LA LOIRE
 
 |
 
-Direction régionale des finances publiques des Pays de la Loire et du département
-
-de la Loire-Atlantique
+Direction régionale des finances publiques des Pays de la Loire et du département de la Loire-Atlantique
 
 |
 
@@ -186,9 +182,7 @@ PROVENCE-ALPES-CÔTE D'AZUR
 
 |
 
-Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du département
-
-des Bouches-du-Rhône
+Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -244,7 +238,7 @@ POLYNÉSIE FRANÇAISE
 
 |
 
-Trésorerie générale de la Polynésie française
+Direction des finances publiques de la Polynésie française
 
 |
 

@@ -16,9 +16,7 @@ Les premier président et procureur général de la cour d'appel d'Aix-en-Proven
 
 |
 
-Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et
-
-du département des Bouches-du-Rhône
+Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -118,7 +116,7 @@ Les premier président et procureur général de la cour d'appel de Douai
 
 |
 
-Direction régionale des finances publiques de Nord - Pas-de-Calais et du
+Direction régionale des finances publiques de Nord-Pas-de-Calais et du
 
 département du Nord
 
@@ -164,13 +162,19 @@ Direction départementale des finances publiques des Hauts-de-Seine
 
 |
 
-Le responsable de la plate-forme interrégionale d'Ile-de-France
-
-(Savigny-sur-Orge)
+Le responsable de la plate-forme interrégionale d'Ile-de-France (Savigny-sur-Orge)
 
 |
 
 Direction départementale des finances publiques de l'Essonne
+
+|
+
+Le directeur interrégional des services pénitentiaires situé à Paris
+
+|
+
+Le directeur interrégional de la protection judiciaire de la jeunesse situé à Paris
 
 |
 
@@ -200,12 +204,10 @@ Direction des finances publiques de Nouvelle-Calédonie
 
 |
 
-Les premier président et procureur général de la cour d'appel de Papeete
-
-(Polynésie française)
+Les premier président et procureur général de la cour d'appel de Papeete (Polynésie française)
 
 |
 
-Trésorerie générale de la Polynésie française
+Direction des finances publiques de la Polynésie française
 
 |

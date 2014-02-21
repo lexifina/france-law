@@ -60,9 +60,7 @@ CÔTE-D'OR
 
 |
 
-Direction régionale des finances publiques de Bourgogne et du département
-
-de la Côte-d'Or
+Direction régionale des finances publiques de Bourgogne et du département de la Côte-d'Or
 
 |
 
@@ -210,9 +208,11 @@ HAUTE-GARONNE
 
 |
 
-Direction régionale des finances publiques de Midi-Pyrénées et du département
+Direction régionale des finances publiques de Midi-Pyrénées et du département de la Haute-Garonne
 
-de la Haute-Garonne
+|
+
+LOT
 
 |
 
@@ -286,47 +286,19 @@ et des secrétariats généraux pour l'administration de la police (SGAP)
 
 DÉPARTEMENT DE RÉSIDENCE
 
-du centre de services partagés
+du centre de services partagés |
 
-du 1er janvier 2014 au 28 février 2014
+COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
-|
-
-DÉPARTEMENT DE RÉSIDENCE
-
-du centre de services partagés
-
-à compter du 1er mars 2014
+BOUCHES-DU-RHÔNE (zone de défense) gendarmerie nationale
 
 |
 
-COMPTABLE PRINCIPAL ASSIGNATAIRE
+Direction régionale des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
 
 |
 
-BOUCHES-DU-RHÔNE (zone de défense)
-
-gendarmerie nationale
-
-|
-
-BOUCHE-DU-RHÔNE, secrétariat général pour
-
-l'administration du ministère de l'intérieur
-
-|
-
-Direction régionale des finances publiques
-
-de Provence-Alpes-Côte d'Azur
-
-et du département des Bouches-du-Rhône
-
-|
-
-BOUCHES-DU-RHÔNE (zone de défense) secrétariat
-
-général pour l'administration de la police
+BOUCHES-DU-RHÔNE (zone de défense) secrétariat général pour l'administration de la police
 
 |
 
@@ -334,21 +306,11 @@ GIRONDE (zone de défense) gendarmerie nationale
 
 |
 
-GIRONDE, secrétariat général pour l'administration
-
-du ministère de l'intérieur
+Direction régionale des finances publiques d'Aquitaine et du département de la Gironde
 
 |
 
-Direction régionale des finances publiques d'Aquitaine
-
-et du département de la Gironde
-
-|
-
-GIRONDE (zone de défense) secrétariat général
-
-pour l'administration de la police
+GIRONDE (zone de défense) secrétariat général pour l'administration de la police
 
 |
 
@@ -356,21 +318,11 @@ ILLE-ET-VILAINE (zone de défense) gendarmerie nationale
 
 |
 
-ILLE-ET-VILAINE, secrétariat général pour l'administration
-
-du ministère de l'intérieur
+Direction régionale des finances publiques de Bretagne et du département d'Ille-et-Vilaine
 
 |
 
-Direction régionale des finances publiques de Bretagne
-
-et du département d'Ille-et-Vilaine
-
-|
-
-ILLE-ET-VILAINE (zone de défense) secrétariat général
-
-pour l'administration de la police
+ILLE-ET-VILAINE (zone de défense) secrétariat général pour l'administration de la police
 
 |
 
@@ -378,21 +330,11 @@ MOSELLE (zone de défense) gendarmerie nationale
 
 |
 
-MOSELLE, secrétariat général pour l'administration
-
-du ministère de l'intérieur
+Direction régionale des finances publiques de Lorraine et du département de la Moselle
 
 |
 
-Direction régionale des finances publiques de Lorraine et du département
-
-de la Moselle
-
-|
-
-MOSELLE (zone de défense) secrétariat général
-
-pour l'administration de la police)
+MOSELLE (zone de défense) secrétariat général pour l'administration de la police
 
 |
 
@@ -400,21 +342,11 @@ NORD (zone de défense) gendarmerie nationale
 
 |
 
-NORD, secrétariat général pour l'administration
-
-du ministère de l'intérieur
+Direction régionale des finances publiques de Nord - Pas-de-Calais et du département du Nord
 
 |
 
-Direction régionale des finances publiques de Nord - Pas-de-Calais
-
-et du département du Nord
-
-|
-
-NORD (zone de défense) secrétariat général
-
-pour l'administration de la police)
+NORD (zone de défense) secrétariat général pour l'administration de la police
 
 |
 
@@ -422,21 +354,11 @@ RHÔNE (zone de défense) gendarmerie nationale
 
 |
 
-RHÔNE, secrétariat général pour l'administration
-
-du ministère de l'intérieur
+Direction régionale des finances publiques de Rhône-Alpes et du département du Rhône
 
 |
 
-Direction régionale des finances publiques de Rhône-Alpes
-
-et du département du Rhône
-
-|
-
-RHÔNE (zone de défense) secrétariat général
-
-pour l'administration de la police)
+RHÔNE (zone de défense) secrétariat général pour l'administration de la police
 
 |
 
@@ -444,24 +366,10 @@ VAL-DE-MARNE (zone de défense) gendarmerie nationale
 
 |
 
-VAL-DE-MARNE (zone de défense) gendarmerie nationale
+Direction régionale des finances publiques d'Ile-de-France et du département de Paris
 
 |
 
-Direction régionale des finances publiques d'Ile-de-France
-
-et du département de Paris
-
-|
-
-PARIS (zone de défense), secrétariat général
-
-pour l'administration de la police
-
-|
-
-PARIS (zone de défense), secrétariat général
-
-pour l'administration de la police
+PARIS/YVELINES (zone de défense) secrétariat général pour l'administration de la police de Paris
 
 |

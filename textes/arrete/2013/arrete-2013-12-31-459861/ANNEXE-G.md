@@ -58,9 +58,7 @@ RHÔNE (CSP national, sauf IDF)
 
 |
 
-Directeur régional des finances publiques de Nord - Pas-de-Calais
-
-et du département du Nord
+Directeur régional des finances publiques de Nord-Pas-de-Calais et du département du Nord
 
 |
 
@@ -72,9 +70,7 @@ RHÔNE (CSP national, sauf IDF)
 
 |
 
-Directeur régional des finances publiques de Haute-Normandie
-
-et du département de la Seine-Maritime
+Directeur régional des finances publiques de Haute-Normandie et du département de la Seine-Maritime
 
 |
 
@@ -142,9 +138,7 @@ RHÔNE (CSP national, sauf IDF)
 
 |
 
-Directeur régional des finances publiques du Languedoc-Roussillon
-
-et du département de l'Hérault
+Directeur régional des finances publiques du Languedoc-Roussillon et du département de l'Hérault
 
 |
 
@@ -170,9 +164,7 @@ RHÔNE (CSP national, sauf IDF)
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur
-
-et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -298,9 +290,7 @@ CORSE-DU-SUD
 
 |
 
-Directeur régional des finances publiques de Corse
-
-et du département de la Corse-du-Sud
+Directeur régional des finances publiques de Corse et du département de la Corse-du-Sud
 
 |
 
@@ -354,7 +344,7 @@ POLYNÉSIE FRANÇAISE
 
 |
 
-Trésorerie générale de la Polynésie française
+Direction des finances publiques de la Polynésie française
 
 |
 
@@ -412,9 +402,7 @@ Contrôleur budgétaire et comptable ministériel auprès des ministères
 
 |
 
-Directeur des résidents à l'étranger et des services généraux en qualité de comptable public principal
-
-de l'Etat à l'initiative de la liquidation de dépenses sans ordonnancement avant règlement
+Directeur des résidents à l'étranger et des services généraux en qualité de comptable public principal de l'Etat à l'initiative de la liquidation de dépenses sans ordonnancement avant règlement
 
 |
 
