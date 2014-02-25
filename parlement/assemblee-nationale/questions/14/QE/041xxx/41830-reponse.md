@@ -1,0 +1,9 @@
+# Réponse à la question n° 41830
+
+- Question : [41830](41830.md) — Question n° 41830 — montant; calcul
+
+## Réponse
+
+*JO du 2014-02-25*
+
+L'attribution et le service des pensions de réversion prenant effet à partir du 1er juillet 2004 sont soumis à une condition de ressources. Les ressources de l'intéressé ou du ménage ne doivent pas dépasser le plafond de ressources. Le plafond « ménage » s'applique aux couples mariés, aux partenaires pacsés et aux concubins. Les ressources retenues sont celles des 3 mois civils qui précèdent la date d'effet de la pension de réversion. Si les ressources dépassent le plafond autorisé, les ressources prises en considération sont celles des 12 mois civils qui précèdent la date d'effet. Si la date d'effet est fixée le 1er jour du mois qui suit le dépôt de la demande, les ressources peuvent être examinées sur la période des 3 mois ou 12 mois qui précèdent cette demande. En cas de changement de la situation familiale au cours de la période de référence, les ressources à considérer sont celles comprises entre la date du changement de situation et la date d'effet (ou la date de demande) de la pension de réversion. Ces ressources sont ensuite transposées sur la période de référence entière, en considérant tous les mois de 30 jours. Enfin, les pensions de réversion sont révisées à chaque évènement porté à la connaissance de la caisse de retraite, notamment par l'assuré lui-même ou à l'occasion de l'attribution d'un autre avantage (droit personnel le plus souvent). Toutefois, la pension de réversion n'est plus révisable : - soit 3 mois après la date d'effet du dernier avantage viager attribué ; - soit à compter du 1er jour du mois qui suit l'âge légal de l'ouverture des droits à la retraite du demandeur, s'il ne peut pas bénéficier d'autres avantages viagers.
