@@ -1,0 +1,9 @@
+# Réponse à la question n° 10757
+
+- Question : [10757](10757.md) — Question n° 10757 — statistiques
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Dans le contexte de la réorganisation des compétences ministérielles, les emplois relevant, en loi de finances pour 2012, du plafond d'emplois du ministre de l'écologie, du développement durable, des transports et du logement (MEDDTL), soit 59 566 équivalent temps plein travaillé (ETPT), ont été répartis entre le ministère de l'égalité des territoires et du logement et celui du ministère de l'écologie, du développement durable et de l'énergie à hauteur, respectivement, de 14 676 ETPT et de 44 890 ETPT. Les plafonds d'emplois du MEDDTL étaient de 61 885 ETPT en loi de finances initiale pour 2011 et de 66 224 ETPT en loi de finances initiale pour 2010. Hors opérateurs et hors effectifs mis à disposition des collectivités dans le cadre des lois de décentralisation (loi du 13 août 2004 et loi du 26 octobre 2009), le nombre d'agents décomptant en gestion sur ces plafonds au 31 décembre 2011, s'élevait à 55 656, dont 3 135 agents contractuels. Au 31 décembre 2010, il s'élevait à 62 074 agents dont 3 262 personnels contractuels. L'écart entre les situations au 31 décembre 2010 et au 31 décembre 2011 s'explique, notamment, par la seconde vague de transfert des agents des parcs (décentralisation), à hauteur de plus de 3 600 emplois, par les mesures de périmètre et de transferts de la loi de finances initiale pour 2011 à hauteur de 400 emplois environ, par le schéma d'emplois réalisé en 2011, soit environ 1 300 emplois, ainsi que par la prise en compte, en 2010, dans les chiffres indiqués ci-dessus, des agents des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, portés en gestion 2010 sur le programme 217 et repris en paye par les ministères chargés respectivement de l'économie et de l'industrie, en cours de gestion 2011.
