@@ -1,0 +1,9 @@
+# Réponse à la question n° 49270
+
+- Question : [49270](49270.md) — Question n° 49270 — revendications
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Les pensions de réversion se caractérisent par une forte hétérogénéité entre régimes. La comparaison des situations est d'autant plus compliquée que les règles des régimes de base et des régimes complémentaires sont très différentes. La réversion constitue un enjeu particulièrement conséquent : au 31 décembre 2011, 4,2 millions d'assurés (des femmes pour 90 % d'entre eux) bénéficiaient d'une pension de réversion d'un régime de base ou complémentaire. Ces pensions représentent une dépense annuelle tous régimes de plus de 30 milliards d'euros. La commission pour l'avenir des retraites présidée par Madame Yannick Moreau a estimé que le sujet de la réversion constituait un sujet trop spécifique pour être développé dans son rapport. Elle a toutefois souligné les principales pistes de réflexion qui pourraient guider une réflexion dédiée au sujet : il s'agit en particulier des différences de règles entre les régimes, de l'intégration de l'ensemble des revenus du couple dans une approche qui allierait à la fois maintien du niveau de vie et solidarité, de la prise en compte de la variété des unions et des séparations ou encore de la question de l'assurance veuvage. Au regard de ces pistes de travail, la loi du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites prévoit que le Gouvernement remettra au Parlement un rapport consacré aux avantages conjugaux de retraite, dans un délai d'un an après la promulgation de la loi. Ce rapport étudiera notamment les possibilités de faire évoluer les règles relatives aux pensions de réversion dans le sens d'une meilleure prise en compte du niveau de vie des conjoints survivants et d'une harmonisation des règles entre les régimes.
