@@ -1,0 +1,9 @@
+# Réponse à la question n° 18398
+
+- Question : [18398](18398.md) — Question n° 18398 — transfèrement; effets personnels; transport
+
+## Réponse
+
+*JO du 2014-02-25*
+
+De nombreuses mesures sont mises en oeuvre à ce jour afin d'éviter toute disparition ou dégradation des effets personnels des personnes détenues à l'occasion d'un transfert, étant précisé que le nombre de transferts assurés par l'administration pénitentiaire est très important. En cas de transfèrement, l'acheminement des biens des personnes détenues est à la charge de l'administration pénitentiaire, sous réserve de poids ou de volumes trop importants. Avant le départ, un inventaire précis est réalisé et signé contradictoirement, selon une procédure formalisée et informatisée. Lors de l'arrivée dans l'établissement d'accueil, à nouveau, un inventaire est généralement établi selon la même procédure. Des agents dédiés, formés en conséquence, sont affectés à ces tâches. Afin de faciliter l'acheminement des effets personnels de la personne détenue, une harmonisation des dimensions des cartons destinés au transfèrement a été opérée, permettant ainsi d'optimiser le chargement des soutes des véhicules collectif de transfert. Ces cartons, numérotés par ordre de priorité déterminé par la personne détenue, sont acheminés en fonction de la place disponible dans les véhicules. Les cartons excédentaires sont envoyés dès le lendemain. Si malgré toutes ces précautions des effets personnels d'une personne détenue venaient à être perdus ou détériorés à l'occasion d'un transfert, une procédure d'indemnisation peut être initiée à la demande de la personne concernée. Dans ces conditions, bien que la création d'un service spécialisé ne soit pas envisagée en l'état, une attention particulière a été portée sur cette question, et des circuits opérationnels ont été mis en place dans le sens d'une nette amélioration de l'acheminement des effets personnels des personnes détenues.
