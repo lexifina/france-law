@@ -1,0 +1,9 @@
+# Réponse à la question n° 49060
+
+- Question : [49060](49060.md) — Question n° 49060 — abeilles; surmortalité; lutte et prévention
+
+## Réponse
+
+*JO du 2014-02-25*
+
+En 2013, un chantier a été ouvert sur la révision de l'arrêté du 28 novembre 2003 relatif aux conditions d'utilisation des insecticides et acaricides à usage agricole, afin de mieux protéger les abeilles et autres insectes pollinisateurs, conformément à l'action 2.3 du plan de développement durable de l'apiculture lancé par le ministre en février 2013. L'objectif de la révision de l'arrêté est de lever le manque de précision de l'arrêté actuel, en particulier sur les termes « en dehors de la présence des abeilles » et d'envisager comment la restriction des plages horaires pour l'épandage des produits concernés peut être mise en place. L'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses) a été saisie pour donner un éclairage scientifique sur les éléments techniques mis en avant par les représentants agricoles et apicoles, en l'absence de consensus et ce, dans le respect des exigences relatives à l'évaluation. A l'issue de l'avis de l'Anses, un projet d'arrêté interministériel sera présenté à la consultation du public et notifié à la Commission européenne dans le cadre de la procédure d'information prévue par la directive 98/34/CE. Par ailleurs, l'autorité européenne de sécurité des aliments a proposé, en juin 2013, un cadre révisé de l'évaluation du risque des produits phytopharmaceutiques qui prend en compte de manière plus étendue le risque pour les abeilles domestiques et certains pollinisateurs sauvages, au-delà du seul risque aigu par voie orale pour les abeilles domestiques (exposition alimentaire), prévu par les principes uniformes du règlement européen (CE) 1107/2009.
