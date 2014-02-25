@@ -1,0 +1,9 @@
+# Réponse à la question n° 42755
+
+- Question : [42755](42755.md) — Question n° 42755 — taux d'emploi dans la fonction publique; bilan
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Le taux d'emploi de travailleurs en situation de handicap mesuré dans l'ensemble du périmètre du ministère de l'égalité des territoires et du logement (METL) et du ministère de l'écologie, du développement durable et de l'énergie (MEDDE) s'élève à 6,70 % en 2012, en progression de 0,22 point par rapport à l'année précédente. Ces progrès ont été obtenus d'une part, par le biais d'actions de sensibilisation menées depuis plusieurs années en direction de l'encadrement et des agents et, d'autre part, par une démarche de fiabilisation des données de notre recensement. Afin de favoriser le maintien dans l'emploi des travailleurs reconnus handicapés, le METL dispose de plusieurs outils : - un conventionnement pluriannuel avec le Fonds pour l'insertion des personnes handicapées dans la fonction publique (FIPHFP) ; - un plan quadriennal ministériel pour le recrutement, l'insertion, le reclassement et le maintien dans l'emploi des travailleurs handicapés, signé pour la période 2013-2016. Ce plan prévoit, notamment, la mise en place de dispositifs associant les différents acteurs susceptibles d'intervenir pour faciliter le maintien dans l'emploi des travailleurs handicapés (responsables des ressources humaines, médecins de prévention, assistantes sociales, chargés de formation...) ; - les assistants et les conseillers de prévention des services du ministère interviennent au quotidien pour aménager les postes des travailleurs handicapés. Le développement du lien social et de la solidarité au profit de toutes les composantes de notre société fait partie intégrante de la feuille de route du METL. L'État doit être exemplaire sur ce point et le ministère est donc particulièrement sensible au développement de l'insertion professionnelle des travailleurs en situation de handicap.
