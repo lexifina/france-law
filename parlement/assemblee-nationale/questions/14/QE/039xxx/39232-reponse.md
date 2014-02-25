@@ -1,0 +1,9 @@
+# Réponse à la question n° 39232
+
+- Question : [39232](39232.md) — Question n° 39232 — modalités
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Les emplois d'avenir sont conçus pour répondre aux difficultés rencontrées par les jeunes de 16 à 25 ans peu ou pas qualifiés dans un contexte de chômage élevé. Ils se différencient des formes précédentes de contrats aidés. Les emplois d'avenir ne peuvent être assimilés aux emplois jeunes car ils mettent en oeuvre un ciblage strict sur les jeunes les moins qualifiés et les plus en difficulté sur le marché du travail. Ils se distinguent également par un accompagnement personnalisé des jeunes et portent sur un objectif fort de formation, et de qualification. De plus, les emplois d'avenir sont d'une durée plus importante et à temps plein pour permettre la mise en oeuvre de parcours d'insertion et de qualification. Un projet de décret actuellement en cours d'examen par le Conseil d'Etat a pour objet d'introduire des modifications réglementaires dans le dispositif des emplois d'avenir et plus particulièrement d'assouplir le critère de durée de recherche d'emploi afin de retenir des jeunes en grande difficulté qui n'y satisfont pas formellement. Le projet de décret permettra d'admettre dans le dispositif des emplois d'avenir les jeunes de niveau V dont la durée de recherche d'emploi est inférieure à 6 mois pendant les 12 derniers mois et les jeunes de niveau IV et III dont la durée de recherche d'emploi est inférieure à 12 mois pendant les 18 derniers mois. Par ailleurs, l'article R.5134-161 du code du travail ainsi que l'article R.322-52 du même code applicables à Mayotte sont modifiés afin d'ouvrir la possibilité pour les prescripteurs (missions locales et Cap Emploi) d'appliquer souplement le critère de durée de recherche d'emploi lorsque les jeunes concernés rencontrent des difficultés d'insertion professionnelle et sociale particulièrement importantes.
