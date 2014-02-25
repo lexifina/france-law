@@ -1,0 +1,9 @@
+# Réponse à la question n° 18979
+
+- Question : [18979](18979.md) — Question n° 18979 — salariés totalisant le plafond d'annuité avant l'âge légal; retraite anticipée
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Les versements pour la retraite au titre de périodes d'études supérieures et d'années d'activité incomplètes ne sont plus pris en compte pour l'appréciation du droit à retraite anticipée pour les assurés ayant effectué une longue carrière notamment. Les trimestres rachetés continuent toutefois à être pris en compte pour les autres paramètres de calcul de la pension. Ces dispositions sont applicables aux versements ayant fait l'objet d'une demande déposée à compter du 13 octobre 2008 et pris en compte pour l'ouverture du droit de pensions d'assurance vieillesse prenant effet à compter du 1er janvier 2009 (loi n° 2008-1330 du 17 décembre 2008 portant financement de la sécurité sociale pour 2009). L'élargissement du dispositif de retraite anticipée pour carrière longue, prévu par le décret n° 2012-847 du 2 Juillet 2012 relatif à l'âge d'ouverture du droit à pension de vieillesse, a toutefois nettement amélioré la prise en compte des aléas de carrière des assurés, tout en maintenant un lien étroit entre retraite anticipée et longue activité de l'assuré. La loi n° 2014-40 du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites prévoit d'élargir à nouveau le nombre de trimestres « réputés cotisés » afin de prendre en compte deux trimestres supplémentaires de chômage, deux trimestres acquis au titre du versement de la pension d'invalidité et tous les trimestres acquis au titre de la maternité. Cette mesure réglementaire d'application de la loi devrait faciliter l'accès à la retraite anticipée pour longue carrière à des assurés qui, bien qu'ayant commencé leur activité jeune, ont connu des aléas de carrières.
