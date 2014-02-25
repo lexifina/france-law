@@ -1,0 +1,9 @@
+# Réponse à la question n° 39572
+
+- Question : [39572](39572.md) — Question n° 39572 — Comité consultatif national d'éthique; composition
+
+## Réponse
+
+*JO du 2014-02-25*
+
+La composition du comité national consultatif d'éthique pour les sciences de la vie et de la santé (CCNE) est précisée à l'article L.1412-2 du code de la santé publique. Outre son président nommé pour deux ans par le Président de la République, le comité comprend trente neuf membres répartis en trois collèges. Le premier collège est composé de cinq personnalités appartenant aux principales familles philosophiques et spirituelles, désignées par le Président de la République. Il convient de noter que l'article L 1412-2 ne pose pas d'exigence d'une appartenance au clergé pour les représentants des grands courants spirituels. Le deuxième collège est composé de dix neuf personnalités qualifiées choisies en raison de leur compétence et de leur intérêt pour les problèmes d'éthique et le troisième collège est composé de quinze personnalités appartenant au secteur de la recherche. Les membres de ces deux derniers collèges sont désignés pour les uns, par différentes autorités (Conseil d'Etat, Cour de Cassation), par le Parlement ainsi que par les différents ministres dont le champ de compétences est particulièrement concerné par les questions dont le CCNE a à traiter (en particulier les ministres chargés des affaires sociales, du travail, de la santé, de la famille ou de la recherche). Pour les autres, ils sont désignés par les instances et grands organismes de recherche (l'Académie de médecine, l'Institut national de la santé et de la recherche médicale (INSERM) ou le Centre national de la recherche scientifique (CNRS), des présidents d'universités...). Le comité est renouvelé par moitié tous les deux ans, les membres du CCNE étant nommés pour quatre ans. Leur mandat n'est renouvelable qu'une seule fois consécutivement. .
