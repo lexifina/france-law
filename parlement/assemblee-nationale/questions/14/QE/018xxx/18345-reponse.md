@@ -1,0 +1,9 @@
+# Réponse à la question n° 18345
+
+- Question : [18345](18345.md) — Question n° 18345 — handicapés; aptitude médicale; réglementation
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Le contrôle médical de l'aptitude à la conduite est obligatoire pour les personnes atteintes d'un handicap ou ayant déclaré, lors de leur inscription à l'examen du permis de conduire, être atteintes d'une affection médicale incompatible avec l'obtention ou le maintien du permis de conduire ou pouvant donner lieu à la délivrance d'un permis de conduire de durée limitée, répertoriée par l'arrêté du 21 décembre 2005 modifié. Il l'est également lors de la prorogation des catégories de permis C1, C, C1E, CE, D1, D, D1E, DE et des catégories A et B à usage professionnel (taxi, ambulances, ...), ainsi qu'après la suspension d'une durée supérieure à un mois, l'annulation ou l'invalidation du permis de conduire. Il a pour objectif de protéger les usagers de la route des dangers inhérents à la conduite qui constitue une activité physique et intellectuelle exigeante. Il s'agit d'une médecine d'aptitude et non de soins. Le médecin prononce à cet effet un avis d'aptitude, d'aptitude temporaire ou assorti de restrictions d'usage, d'inaptitude. L'avis d'aptitude prononcé par le médecin devient définitif juridiquement lors de la notification de la décision préfectorale de délivrance du permis. Dès lors les candidats ne peuvent être en possession que d'un avis médical non définitif. Toutefois, l'aptitude peut être, quant à elle, définitive. Aussi rien n'empêche les médecins d'indiquer que la pathologie n'est plus évolutive. C'est pourquoi, il est envisagé de modifier la réglementation afin que la durée de validité du formulaire « avis médical » fixée à deux ans ne soit pas opposable à l'usager dès lors que l'avis médical rendu constate que la pathologie n'est plus évolutive.
