@@ -1,0 +1,9 @@
+# Réponse à la question n° 41842
+
+- Question : [41842](41842.md) — Question n° 41842 — perturbateurs endocriniens; orientations
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Au cours du premier trimestre 2013, un groupe de travail piloté par la direction générale de la santé du ministère des affaires sociales et de la santé et la direction générale de la prévention des risques du ministère de l'écologie, du développement durable et de l'énergie, et réunissant les parties prenantes (des parlementaires, des personnalités qualifiées et représentants des organismes de recherche et d'expertise, des représentants d'associations de protection de l'environnement et de consommateurs, de représentants des organisations professionnelles, les services du ministère du travail, de l'emploi et de la formation professionnelle, du ministère de l'enseignement supérieur et de la recherche, du ministère de l'agriculture, de l'agroalimentaire et de la forêt, du ministère du redressement productif, du ministère de l'économie et des finances) a élaboré des propositions pour une stratégie nationale sur les perturbateurs endocriniens. Ce document a été mis en consultation publique du 19 août au 20 septembre 2013. Cette consultation publique a permis de recueillir en un mois 1522 commentaires. Ainsi, cette forte participation montre l'intérêt de la population et l'ensemble des parties prenantes pour cette problématique. La Stratégie nationale sera arrêtée par le Gouvernement au premier trimestre 2014. Celle-ci comprendra des objectifs stratégiques et des propositions détaillées autour de quatre axes : recherche, expertise, encadrement réglementaire et information. Dans le même temps, la Commission européenne poursuit ses réflexions sur le sujet et a annoncé qu'elle publierait en 2014 une stratégie européenne révisée à laquelle la France se propose contribuera activement.
