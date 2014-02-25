@@ -1,0 +1,9 @@
+# Réponse à la question n° 41181
+
+- Question : [41181](41181.md) — Question n° 41181 — règles de partage; conjoints divorcés
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Le Gouvernement est très attentif à la situation des conjoints survivants. L'ouverture du droit à réversion demeure liée à une condition de mariage, l'existence d'une situation de concubinage n'étant pas susceptible d'être prise en compte à cet égard. Introduire une telle possibilité dans l'ouverture du droit à pension de réversion impliquerait la mise en place d'un dispositif spécifique en termes de contrôle et nécessiterait de déterminer les moyens de financement de la charge financière pouvant en résulter pour les régimes concernés. En effet, la situation de concubinage est purement déclarative et ne peut être appréciée qu'à la date à laquelle les intéressés sollicitent sa prise en compte. La Commission pour l'avenir des retraites présidée par Madame Yannick Moreau a estimé que le sujet de la réversion était trop complexe et particulièrement sensible pour être examiné dans son rapport. Elle a toutefois souligné les principales questions qui pourront guider la réflexion : différences des règles entre les régimes ; intégration de l'ensemble des revenus du couple dans une approche qui allie à la fois maintien du niveau de vie et solidarité ; prise en compte de la variété des unions et des séparations ; question de l'assurance veuvage ou orphelin. C'est pourquoi la loi n° 2014-40 du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites prévoit la remise, par le Gouvernement au Parlement, d'un rapport dédié dans un délai d'un an après la promulgation de la loi. Il étudiera les possibilités de faire évoluer les règles relatives aux pensions de réversion dans le sens d'une meilleure prise en compte du niveau de vie des conjoints survivants et d'une harmonisation des règles entre les régimes.
