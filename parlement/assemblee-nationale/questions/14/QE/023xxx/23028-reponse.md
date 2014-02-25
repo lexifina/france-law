@@ -1,0 +1,9 @@
+# Réponse à la question n° 23028
+
+- Question : [23028](23028.md) — Question n° 23028 — vaccination; professionnels de santé
+
+## Réponse
+
+*JO du 2014-02-25*
+
+La vaccination des professionnels de santé est un élément de la stratégie vaccinale contre la grippe saisonnière. Les professionnels de santé ont en effet plus de risques de contracter la grippe de par leur exposition professionnelle et ils constituent un vecteur de transmission aux patients à risque de complication dont ils s'occupent. La vaccination contre la grippe saisonnière est recommandée aux professionnels de santé par le calendrier vaccinal publié par le ministère des affaires sociales et de la santé après avis du haut conseil de la santé publique. Des mesures sont mises en oeuvre en vue de faciliter leur accès à la vaccination. Ainsi, depuis 2010, les professionnels de santé du secteur libéral sont encouragés à se faire vacciner par un courrier individuel de l'assurance maladie et la délivrance gratuite du vaccin. Sont concernés les médecins généralistes, les infirmiers, les sages-femmes, les pédiatres, les masseurs kinésithérapeutes et les pharmaciens. La vaccination des professionnels de santé salariés relève de la responsabilité de leur employeur. Compte-tenu des faibles taux actuels de vaccination de ces professionnels, le lancement de la campagne annuelle de vaccination est mis à profit pour mobiliser les établissements de santé et les établissements médicosociaux. Ils reçoivent des informations sur l'actualité des recommandations officielles et sont incités à organiser des séances de vaccination pour leur personnel. Malgré ces incitations, les taux de couverture vaccinale restent faibles et se sont même infléchis après l'épisode de la pandémie grippale H1N1. Des réflexions sont en cours afin de cerner et lever les obstacles à la vaccination des professionnels de santé.
