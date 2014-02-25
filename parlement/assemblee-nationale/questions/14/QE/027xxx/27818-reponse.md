@@ -1,0 +1,9 @@
+# Réponse à la question n° 27818
+
+- Question : [27818](27818.md) — Question n° 27818 — débridage des moteurs; lutte et prévention
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Le projet de règlement relatif au contrôle technique périodique des véhicules à moteur et de leurs remorques, adopté par la Commission européenne le 13 juillet 2012, a fait l'objet d'une orientation générale en Conseil des Ministres du 20 décembre 2012, et est actuellement examiné par le Parlement européen. La première version du texte prévoyait effectivement l'extension des contrôles aux deux et trois roues motorisés ainsi qu'une fréquence annuelle de contrôle pour les véhicules légers de plus de 6 ans, tout en excluant de son champ les véhicules de plus de 30 ans présentant un intérêt historique. Les échanges sont en cours. De nombreuses évolutions ont été proposées, notamment pour une meilleure prise en compte du principe de subsidiarité dans ce domaine. Dernièrement, les parlementaires européens ont fait connaître leur souhait de voir les motocyclettes soumises à un contrôle technique. Toutefois, le processus institutionnel d'adoption du texte dans lequel cet amendement a été voté n'est pas achevé. Par ailleurs, l'art R. 317-23-1 du code de la route prévoit de sanctionner l'usage d'un cyclomoteur débridé par une contravention de 4e classe. L'immobilisation, la mise en fourrière et la confiscation du véhicule peuvent également être prescrites. A l'heure actuelle, pour apporter la preuve du débridage, à savoir de la transformation, de la modification ou de l'ajout de pièces spéciales visant à augmenter sa vitesse, il est nécessaire d'effectuer une expertise du véhicule et de comparer des éléments incriminés avec ceux référencés sur le cyclomoteur d'origine. Afin de lutter plus efficacement contre cette pratique dangereuse, les pouvoirs publics cherchent à mettre en place des outils permettant d'effectuer des contrôles plus facilement.
