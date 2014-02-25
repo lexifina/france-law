@@ -1,0 +1,9 @@
+# Réponse à la question n° 40866
+
+- Question : [40866](40866.md) — Question n° 40866 — Grand Paris; réglementation; financement
+
+## Réponse
+
+*JO du 2014-02-25*
+
+La taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et les locaux de stockage (TSBCE) ainsi que la redevance pour création de bureaux perçues dans la région Ile-de- France ont été profondément modifiées par la loi n° 2010-1656 du 29 décembre 2010 dans le cadre du financement du Grand Paris. Il s'agissait en effet d'assurer à la puissance publique les moyens d'investissement pour le Grand Paris à la mesure des enjeux et des projets à l'étude. L'actualisation des tarifs, conjuguée à une modification des zonages et de nouvelles modalités d'application, a eu pour conséquence des augmentations de ces deux taxes sur un certain nombre de territoires. Afin d'atténuer l'impact de ces nouvelles dispositions, un mécanisme de lissage de l'augmentation de la redevance pour création de bureaux a été institué et permet d'atteindre progressivement les nouveaux tarifs, par paliers successifs, en évitant les effets de seuil trop importants. Si cette mesure a eu pour avantage de débloquer un certain nombre d'opérations, les élus ont fait part de leur souhait, lors du débat parlementaire, qu'un groupe de travail soit constitué pour réfléchir à la manière de mieux répartir cette taxe sur l'ensemble de l'Ile-de-France. Le rapport de ce groupe de travail a été remis à l'été 2012. Sur la base de ce rapport, une réflexion, s'inscrivant dans le cadre plus large du développement du Grand Paris, sera prochainement engagée sur ces sujets. Cette réflexion prendra en compte, non seulement les objectifs de développement équilibré des territoires franciliens, mais aussi le niveau de recettes fiscales affectées directement à la région Ile-de-France pour le financement des réseaux de transport de la région.
