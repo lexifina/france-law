@@ -1,0 +1,9 @@
+# Réponse à la question n° 44053
+
+- Question : [44053](44053.md) — Question n° 44053 — répertoire statistique; perspectives
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Ce traitement automatisé des données s'inscrit dans une démarche d'ouverture des données publiques qui, dans le domaine des véhicules routiers, s'exerce de deux façons différentes : - pour ce qui concerne les données individuelles, c'est le fichier du ministère de l'intérieur (Système d'information décisionnel du système d'immatriculation des véhicules - SID-SIV) qui remplit cette fonction. Ces données ont fait l'objet d'observations dans le cadre du rapport Trojette sur l'ouverture des données publiques ; - pour ce qui concerne les données statistiques, qu'elles soient détaillées ou agrégées, c'est le répertoire statistique des véhicules routiers (RSVéRo) qui remplit cette fonction. L'ensemble des résultats statistiques est mis à disposition gratuitement sur le site internet du ministère de l'écologie, du développement durable et de l'énergie (MEDDE) service de l'observation et des statistiques (SOeS) : www. statistiques. developpement-durable. gouv. fr} et en bonne partie rediffusé sur le site data. gouv. fr, le site de l'Institut national de la statistique et des études économiques (Insee) ou encore sur les sites des directions régionales de l'environnement, de l'aménagement et du logement, selon les périodicités suivantes : - mensuellement (résultats agrégés des immatriculations de véhicules neufs par genre de véhicule en nombre et émissions conventionnelles de C02) ; - trimestriellement (résultats agrégés des immatriculations neuves ou d'occasion par genre de véhicule) ; - annuellement (données détaillées par commune, département, région des immatriculations de véhicules neufs, d'occasion et du parc ; en nombre et des émissions de C02 -pour les immatriculations de véhicules neufs).
