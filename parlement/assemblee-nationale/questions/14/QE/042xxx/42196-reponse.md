@@ -1,0 +1,9 @@
+# Réponse à la question n° 42196
+
+- Question : [42196](42196.md) — Question n° 42196 — développement
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Les contrats en alternance ont fait abondamment la preuve de leur pertinence à tous les niveaux de formation, y compris dans l'enseignement supérieur. C'est le cas du contrat de professionnalisation, qui sera préservé suite à l'accord national interprofessionnel relatif à la formation professionnelle que les partenaires sociaux ont conclu le 14 décembre 2013, et qui trouvera un prolongement législatif au printemps prochain. C'est le cas aussi du contrat d'apprentissage et c'est pourquoi le pacte national pour la croissance, la compétitivité et l'emploi a fixé l'objectif de faire progresser le nombre d'apprentis de 435 000 aujourd'hui à 500 000 en 2017. Dans cette perspective, une réforme de l'apprentissage a été engagée, qui s'est appuyée sur une très large concertation de tous ses acteurs. Cette réforme se traduit d'ores et déjà pour partie dans le projet de loi de finances rectificative adopté le 18 décembre, qui fusionne la taxe d'apprentissage et la contribution au développement de l'apprentissage, et réorganise le mode de répartition de la nouvelle taxe issue de cette fusion en la fléchant davantage vers l'apprentissage lui-même et en assurant un développement équilibré de l'apprentissage à tous les niveaux de formation. Dans l'enseignement supérieur, hors des contrats en alternance eux-mêmes, la pratique des stages en entreprise est fréquente et nécessitait d'être repensée. Dans ce but, le Gouvernement soutient la proposition de loi déposée par Madame Chaynesse Khirouni, qui poursuit plusieurs objectifs : elle renforcera la dimension pédagogique des stages, encadrera le recours excessif aux stages constaté dans certains secteurs, protégera les jeunes des abus lorsque des stages se substituent à l'emploi, et améliorera le statut des stagiaires.
