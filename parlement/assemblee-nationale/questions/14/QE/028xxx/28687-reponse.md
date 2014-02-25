@@ -1,0 +1,9 @@
+# Réponse à la question n° 28687
+
+- Question : [28687](28687.md) — Question n° 28687 — autorisation de stationnement; revendications
+
+## Réponse
+
+*JO du 2014-02-25*
+
+L'article 36 du projet de loi de modernisation de l'action publique territoriale et d'affirmation des métropoles prévoit un transfert de plein droit de la compétence de délivrance des autorisations de stationnement de taxi (ADS) des maires aux présidents des établissement publics de coopération intercommunale (EPCI) à fiscalité propre compétents en matière de voirie. Cette mesure vise à assurer une meilleure régulation du nombre d'autorisations de stationnement créées, en fonction de l'offre et de la demande de transport, à l'échelle d'un territoire économiquement plus pertinent que le cadre d'une seule commune, notamment en zone rurale. A l'occasion d'une concertation qui s'est tenue le 23 mai dernier au ministère de l'intérieur, les organisations professionnelles de taxi ont mis en exergue la nécessité de maintenir exclusivement la notion de commune unique de rattachement des ADS nouvellement créées, afin de ne pas rompre les équilibres économiques existants au sein d'un territoire. Sensible aux arguments d'équilibres économiques et de simplification du dispositif avancés par les représentants de la profession, le Gouvernement a présenté un amendement rétablissant le principe de la zone de stationnement communale pour les autorisations délivrées par le président de l'EPCI. Ce rétablissement du principe de la zone de stationnement communale a été voté par l'Assemblée nationale en première lecture. Après le vote définitif de la loi, cette disposition sera complétée par des mesures réglementaires d'application qui viendront préciser les modalités de sa mise en oeuvre en particulier s'agissant de la gestion des listes d'attente et des ADS. Ces mesures feront l'objet, avant leur adoption, d'un nouvel échange avec les représentants de la profession de taxi.
