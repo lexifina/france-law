@@ -1,0 +1,9 @@
+# Réponse à la question n° 22365
+
+- Question : [22365](22365.md) — Question n° 22365 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Même si notre pays dispose aujourd'hui d'une couverture vaccinale de qualité, comme l'atteste la vaccination des nourrissons qui dépasse le seuil de 97 % pour la primo-vaccination, la politique vaccinale reste une grande priorité de santé publique pour le gouvernement, notamment pour réduire les disparités selon le type de vaccins mais aussi les disparités territoriales. La prise en charge à 100 % de certains vaccins afin d'améliorer la couverture vaccinale des populations cibles a été mise en oeuvre pour la rougeole et la grippe. Pour la rougeole, le dispositif adopté vise le rattrapage des personnes qui n'ont pas bénéficié des deux doses de vaccin nécessaires, afin de contrôler la circulation du virus de la rougeole. Depuis la mise en place de ces mesures et des campagnes de communication sur la rougeole, la couverture vaccinale a fortement augmenté. Pour la grippe, la couverture vaccinale reste insuffisante chez les personnes éligibles, malgré la prise en charge à 100 % offerte. Ces éléments montrent que la gratuité n'est pas à elle seule un facteur d'adhésion. La politique pour améliorer la couverture vaccinale sera un axe essentiel de la nouvelle stratégie de santé voulue par le gouvernement, stratégie fondée sur une notion essentielle : le parcours. Il s'agit de simplifier, de faciliter le parcours vaccinal des français. Une première mesure a déjà été mise en oeuvre en 2013 avec la simplification et la clarification du calendrier vaccinal. Cette simplification permet de diminuer le nombre d'injections pour une efficacité équivalente. Cette simplification doit concourir à une meilleure adhésion aux schémas vaccinaux.
