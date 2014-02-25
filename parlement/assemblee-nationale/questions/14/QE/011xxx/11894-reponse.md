@@ -1,0 +1,9 @@
+# Réponse à la question n° 11894
+
+- Question : [11894](11894.md) — Question n° 11894 — taux bonifié; perspectives
+
+## Réponse
+
+*JO du 2014-02-25*
+
+L'article 13 du projet de loi de finances pour 2013 avait pour objet de renforcer la taxe générale sur les activités polluantes (TGAP) sur les polluants atmosphériques, conformément aux engagements pris par le Gouvernement pour l'amélioration de la qualité de l'air. Dans ses différentes composantes, la TGAP a pour objet d'inciter à des comportements moins dommageables à l'environnement. Elle vise donc principalement, s'agissant des déchets, à réduire les quantités de déchets produites, à les réutiliser et à les valoriser avant de les éliminer. La TGAP actuelle prévoit déjà un certain nombre de modulations conditionnées à la performance environnementale des installations de stockage et d'incinération ou aux conditions d'acheminement des déchets. Ce barème doit néanmoins faire l'objet d'actualisations, afin de tenir compte des évolutions technologiques et de l'atteinte des objectifs généraux de la politique des déchets. Le ministère de l'écologie, du développement durable et de l'énergie est attaché à ce que les évolutions de la TGAP s'inscrivent en cohérence avec les autres composantes, notamment locales, de la fiscalité des déchets et avec le déploiement des mécanismes de responsabilité élargie du producteur. Consécutivement aux travaux du Conseil national des déchets sur le renouvellement des objectifs de la politique de prévention et de gestion des déchets et à la suite de la table ronde « économie circulaire » de la Conférence environnementale pour 2013, le Comité pour la fiscalité écologique expertise actuellement les évolutions possibles de la fiscalité des déchets, et notamment de la TGAP. Ses travaux et avis déboucheront, le cas échéant, sur des aménagements dans le cadre du projet de loi de finances pour 2015.
