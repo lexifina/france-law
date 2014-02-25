@@ -1,0 +1,9 @@
+# Réponse à la question n° 13791
+
+- Question : [13791](13791.md) — Question n° 13791 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Le 6 décembre 2012, le Président de la République a nommé M. Nicolas HULOT, président de la Fondation pour la nature et l'homme, envoyé spécial du Président de la République pour la préservation de la nature. Sa mission consistera à promouvoir la protection de la nature sur la scène internationale. M. HULOT est ainsi chargé de sensibiliser, d'informer et de mobiliser la communauté internationale sur la crise écologique mondiale et les moyens pour y faire face, de dialoguer avec l'ensemble des parties prenantes (entreprises, associations, collectivités locales, syndicats, etc.) afin que leurs avis enrichissent les débats. Il contribue à promouvoir et à réaffirmer les idées et les valeurs défendues par la France en matière de développement durable et de protection environnementale. Par cette nomination, le Président de la République et le Gouvernement ont réaffirmé leur engagement pour la transition écologique et énergétique de la France et mis l'accent sur une diplomatie environnementale renforcée et ouverte à la société civile. Cette mobilisation se traduit, également, par la volonté de la France d'accueillir en 2015 la conférence des Nations-unies pour le changement climatique, à la préparation de laquelle l'envoyé spécial du Président de la République contribuera. Cette mission est remplie de manière bénévole. L'envoyé spécial, qui ne touche donc aucune rémunération du ministère de l'écologie, du développement durable et de l'énergie, est rattaché à la Présidence de la République et il bénéficie, afin de traiter le sujet de manière transversale, de l'appui des ministères compétents. Il peut également compter sur la collaboration des ambassadeurs climat et environnement du ministère des affaires étrangères.
