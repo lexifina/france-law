@@ -1,0 +1,9 @@
+# Réponse à la question n° 25694
+
+- Question : [25694](25694.md) — Question n° 25694 — insertion par l'activité économique; rapport; propositions
+
+## Réponse
+
+*JO du 2014-02-25*
+
+Le développement des clauses d'insertion et la place des structures d'insertion par l'activité économique dans la réponse aux marchés publics comprenant ces clauses font pleinement partie des objectifs poursuivis par le gouvernement en matière d'insertion dans l'emploi des personnes qui en sont les plus éloignées. La promotion des clauses d'insertion dans les marchés publics de l'Etat et des collectivités locales constitue un enjeu important pour développer l'offre d'insertion et professionnaliser notamment les structures d'insertion par l'activité économique (SIAE). Le code des marchés publics permet actuellement d'inclure dans les marchés publics des clauses sociales d'insertion. Pour favoriser leur utilisation, les ministères comme les établissements publics peuvent s'appuyer sur des facilitateurs des clauses d'insertion. La délégation générale à l'emploi et à la formation professionnelle (DGEFP) a pour objectif d'appuyer les SIAE pour accroitre leur accès à la commande publique. Ainsi, au sein des services de l'Etat, 86 référents ont été nommés par les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE) et leurs unités territoriales qui ont pour mission de construire et de mettre en oeuvre des plans d'actions territoriaux. En outre, dans sa lettre de mission adressée en avril 2013 à l'ensemble des membres du conseil national de l'insertion par l'activité économique (CNIAE) renouvelé, Mme Christiane de DEMONTES, sa nouvelle Présidente a annoncé la constitution d'un groupe de travail sur le financement de l'IAE qui comprend en particulier les sujets suivants : les leviers de développement de modes de financements non budgétaires (FSE, clauses sociales, financements privés...).
