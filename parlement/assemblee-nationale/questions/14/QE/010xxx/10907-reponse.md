@@ -1,0 +1,9 @@
+# Réponse à la question n° 10907
+
+- Question : [10907](10907.md) — Question n° 10907 — formation professionnelle; bénéficiaires; statistiques
+
+## Réponse
+
+*JO du 2014-02-25*
+
+La politique de formation que l'administration met en oeuvre tient compte des priorités définies au niveau interministériel et de celles explicitées dans le document d'orientation à moyen terme de formation (DOMTF). Prévu à l'article 31 du décret n° 2007-1470 du 15 octobre 2007 relatif à la formation professionnelle tout au long de la vie des fonctionnaires de l'État, ce document constitue le cadre stratégique. Il intègre également les besoins locaux, exprimés par les agents dans le cadre, notamment, de l'entretien annuel de formation. Chaque direction, service ou établissement public doit élaborer un plan local de formation qui se conforme aux objectifs énoncés dans le DOMTF. Ce plan local de formation intègre les orientations du DOMTF et, le cas échéant, du plan régional de formation. Il doit également prévoir la possibilité de suivre une formation inscrite à un plan de formation d'autres services du ministère de l'écologie, du développement durable et de l'énergie (MEDDE), voire d'un autre ministère, ou d'une autre fonction publique, afin de favoriser la mise en oeuvre des projets professionnels des agents et accompagner les mobilités. La plupart des services sont dotés d'un plan de formation. À ce titre, pour l'année 2011, 31 176 agents ont été formés, soit 59 % de l'effectif total du ministère alors chargé du développement durable (54 768 agents). De plus, le nombre de journées stagiaires reçues s'est élevé à 186 972, soit une baisse de 7,9 % par rapport à l'année 2010. Ces données portent sur la formation professionnelle ainsi que sur la formation statutaire, hors formation initiale. Enfin, le nombre moyen de jours de formation professionnelle et statutaire, dont initiale, suivis par agent en poste en 2011 au ministère était de 6,51 jours.
