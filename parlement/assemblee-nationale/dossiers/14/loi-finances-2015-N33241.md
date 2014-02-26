@@ -1,0 +1,298 @@
+# Budget : loi de finances 2015
+
+- Procédure : Projet de loi de finances de l'année
+- Législature : 14
+- Identifiant : DLR5L14N33241
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/loi_finances_2015
+- Sénat : http://www.senat.fr/dossier-legislatif/pjlf2015.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-10-01 : 1er dépôt d'une initiative. (PRJLANR5L14B2234)
+  - 2014-10-01 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-10-01 : Renvoi en commission au fond
+      - 2014-04-23 : Nomination de rapporteur
+      - 2014-06-11 : Nomination de rapporteur budgétaire
+      - 2014-07-02 : Nomination de rapporteur budgétaire
+      - 2014-10-01 : Nomination de rapporteur budgétaire
+      - 2014-06-11 : Réunion de commission
+      - 2014-07-02 : Réunion de commission
+      - 2014-10-01 : Réunion de commission
+      - 2014-10-08 : Réunion de commission
+      - 2014-10-08 : Réunion de commission
+      - 2014-10-20 : Réunion de commission
+      - 2014-10-20 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-22 : Réunion de commission
+      - 2014-10-22 : Réunion de commission
+      - 2014-10-22 : Réunion de commission
+      - 2014-10-22 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-24 : Réunion de commission
+      - 2014-10-24 : Réunion de commission
+      - 2014-10-27 : Réunion de commission
+      - 2014-10-27 : Réunion de commission
+      - 2014-10-27 : Réunion de commission
+      - 2014-10-27 : Réunion de commission
+      - 2014-10-28 : Réunion de commission
+      - 2014-10-28 : Réunion de commission
+      - 2014-10-28 : Réunion de commission
+      - 2014-10-28 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-31 : Réunion de commission
+      - 2014-10-31 : Réunion de commission
+      - 2014-11-03 : Réunion de commission
+      - 2014-11-03 : Réunion de commission
+      - 2014-11-03 : Réunion de commission
+      - 2014-11-03 : Réunion de commission
+      - 2014-11-04 : Réunion de commission
+      - 2014-11-04 : Réunion de commission
+      - 2014-11-04 : Réunion de commission
+      - 2014-11-04 : Réunion de commission
+      - 2014-11-05 : Réunion de commission
+      - 2014-11-05 : Réunion de commission
+      - 2014-11-05 : Réunion de commission
+      - 2014-11-05 : Réunion de commission
+      - 2014-11-06 : Réunion de commission
+      - 2014-11-06 : Réunion de commission
+      - 2014-11-07 : Réunion de commission
+      - 2014-11-07 : Réunion de commission
+      - 2014-11-07 : Réunion de commission
+      - 2014-11-13 : Réunion de commission
+      - 2014-10-09 : Dépôt de rapport (RAPPANR5L14B2260)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-13 : Saisine pour avis d'une commission
+      - 2014-06-18 : Nomination de rapporteur budgétaire
+      - 2014-10-08 : Nomination de rapporteur budgétaire
+      - 2014-06-18 : Réunion de commission
+      - 2014-10-08 : Réunion de commission
+      - 2014-10-28 : Réunion de commission
+      - 2014-10-28 : Réunion de commission
+      - 2014-10-28 : Réunion de commission
+      - 2014-10-28 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-11-03 : Réunion de commission
+      - 2014-11-03 : Réunion de commission
+      - 2014-10-09 : Dépôt de rapport (AVISANR5L14B2264)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-13 : Saisine pour avis d'une commission
+      - 2014-06-04 : Nomination de rapporteur budgétaire
+      - 2014-06-04 : Réunion de commission
+      - 2014-10-15 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-22 : Réunion de commission
+      - 2014-10-22 : Réunion de commission
+      - 2014-10-22 : Réunion de commission
+      - 2014-10-22 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-28 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-31 : Réunion de commission
+      - 2014-10-31 : Réunion de commission
+      - 2014-10-09 : Dépôt de rapport (AVISANR5L14B2261)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-13 : Saisine pour avis d'une commission
+      - 2014-06-25 : Nomination de rapporteur budgétaire
+      - 2014-06-25 : Réunion de commission
+      - 2014-10-01 : Réunion de commission
+      - 2014-10-07 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-31 : Réunion de commission
+      - 2014-10-31 : Réunion de commission
+      - 2014-11-04 : Réunion de commission
+      - 2014-11-04 : Réunion de commission
+      - 2014-11-06 : Réunion de commission
+      - 2014-11-06 : Réunion de commission
+      - 2014-10-09 : Dépôt de rapport (AVISANR5L14B2262)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-13 : Saisine pour avis d'une commission
+      - 2014-06-10 : Nomination de rapporteur budgétaire
+      - 2014-06-10 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-21 : Réunion de commission
+      - 2014-10-22 : Réunion de commission
+      - 2014-10-22 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-11-05 : Réunion de commission
+      - 2014-11-05 : Réunion de commission
+      - 2014-11-06 : Réunion de commission
+      - 2014-11-06 : Réunion de commission
+      - 2014-10-09 : Dépôt de rapport (AVISANR5L14B2263)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-13 : Saisine pour avis d'une commission
+      - 2014-02-26 : Nomination de rapporteur budgétaire
+      - 2014-10-20 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-27 : Réunion de commission
+      - 2014-10-09 : Dépôt de rapport (AVISANR5L14B2265)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-13 : Saisine pour avis d'une commission
+      - 2014-06-26 : Nomination de rapporteur budgétaire
+      - 2014-06-26 : Réunion de commission
+      - 2014-10-23 : Réunion de commission
+      - 2014-10-27 : Réunion de commission
+      - 2014-10-27 : Réunion de commission
+      - 2014-10-29 : Réunion de commission
+      - 2014-10-09 : Dépôt de rapport (AVISANR5L14B2267)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-13 : Saisine pour avis d'une commission
+      - 2014-07-02 : Nomination de rapporteur budgétaire
+      - 2014-10-15 : Nomination de rapporteur budgétaire
+      - 2014-07-02 : Réunion de commission
+      - 2014-10-15 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-30 : Réunion de commission
+      - 2014-10-31 : Réunion de commission
+      - 2014-10-31 : Réunion de commission
+      - 2014-11-06 : Réunion de commission
+      - 2014-11-06 : Réunion de commission
+      - 2014-10-09 : Dépôt de rapport (AVISANR5L14B2266)
+  - Discussion en séance publique
+    - 2014-10-14 : Discussion en séance publique
+    - 2014-10-14 : Discussion en séance publique
+    - 2014-10-15 : Discussion en séance publique
+    - 2014-10-15 : Discussion en séance publique
+    - 2014-10-16 : Discussion en séance publique
+    - 2014-10-16 : Discussion en séance publique
+    - 2014-10-16 : Discussion en séance publique
+    - 2014-10-17 : Discussion en séance publique
+    - 2014-10-17 : Discussion en séance publique
+    - 2014-10-17 : Discussion en séance publique
+    - 2014-10-20 : Discussion en séance publique
+    - 2014-10-20 : Discussion en séance publique
+    - 2014-10-21 : Discussion en séance publique
+    - 2014-10-28 : Discussion en séance publique
+    - 2014-10-28 : Discussion en séance publique
+    - 2014-10-29 : Discussion en séance publique
+    - 2014-10-29 : Discussion en séance publique
+    - 2014-10-30 : Discussion en séance publique
+    - 2014-10-30 : Discussion en séance publique
+    - 2014-11-03 : Discussion en séance publique
+    - 2014-11-03 : Discussion en séance publique
+    - 2014-11-04 : Discussion en séance publique
+    - 2014-11-04 : Discussion en séance publique
+    - 2014-11-05 : Discussion en séance publique
+    - 2014-11-05 : Discussion en séance publique
+    - 2014-11-06 : Discussion en séance publique
+    - 2014-11-06 : Discussion en séance publique
+    - 2014-11-07 : Discussion en séance publique
+    - 2014-11-12 : Discussion en séance publique
+    - 2014-11-12 : Discussion en séance publique
+    - 2014-11-13 : Discussion en séance publique
+    - 2014-11-13 : Discussion en séance publique
+    - 2014-11-13 : Discussion en séance publique
+    - 2014-11-14 : Discussion en séance publique
+    - 2014-11-14 : Discussion en séance publique
+    - 2014-11-18 : Discussion en séance publique
+    - 2014-11-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-11-20 : Dépôt d'une initiative en navette (PRJLSNR5S239B0107)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-11-20 : Renvoi en commission au fond
+      - 2014-10-09 : Nomination de rapporteur
+      - 2014-11-20 : Dépôt de rapport (RAPPSNR5S239B0108)
+  - Discussion en séance publique
+    - 2014-11-20 : Discussion en séance publique
+    - 2014-11-21 : Discussion en séance publique
+    - 2014-11-22 : Discussion en séance publique
+    - 2014-11-24 : Discussion en séance publique
+    - 2014-11-25 : Discussion en séance publique
+    - 2014-11-26 : Discussion en séance publique
+    - 2014-11-28 : Discussion en séance publique
+    - 2014-11-29 : Discussion en séance publique
+    - 2014-12-01 : Discussion en séance publique
+    - 2014-12-02 : Discussion en séance publique
+    - 2014-12-03 : Discussion en séance publique
+    - 2014-12-04 : Discussion en séance publique
+    - 2014-12-05 : Discussion en séance publique
+    - 2014-12-06 : Discussion en séance publique
+    - 2014-12-08 : Discussion en séance publique
+    - 2014-12-09 : Discussion en séance publique
+    - 2014-12-09 : Décision
+- Commission Mixte Paritaire
+  - 2014-12-09 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-12-11 : Nomination de rapporteur
+    - 2014-12-11 : Dépôt du rapport d'une CMP (RAPPANR5L14B2446)
+    - 2014-12-11 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0179)
+  - 2014-12-11 : Décision de la CMP
+- Nouvelle Lecture
+  - 2014-12-09 : Dépôt d'une initiative en navette (PRJLANR5L14B2438)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-09 : Renvoi en commission au fond
+      - 2014-12-11 : Réunion de commission
+      - 2014-12-12 : Réunion de commission
+      - 2014-12-11 : Dépôt de rapport (RAPPANR5L14B2450)
+  - Discussion en séance publique
+    - 2014-12-12 : Discussion en séance publique
+    - 2014-12-12 : Discussion en séance publique
+    - 2014-12-16 : Discussion en séance publique
+    - 2014-12-16 : Décision
+- Nouvelle Lecture
+  - 2014-12-16 : Dépôt d'une initiative en navette (PRJLSNR5S239B0190)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-16 : Renvoi en commission au fond
+      - 2014-12-17 : Dépôt de rapport (RAPPSNR5S239B0194)
+  - Discussion en séance publique
+    - 2014-12-17 : Discussion en séance publique
+    - 2014-12-17 : Décision
+- Lecture définitive
+  - 2014-12-17 : Dépôt d'une initiative en navette (PRJLANR5L14B2480)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-17 : Renvoi en commission au fond
+      - 2014-12-18 : Réunion de commission
+      - 2014-12-18 : Dépôt de rapport (RAPPANR5L14B2484)
+  - Discussion en séance publique
+    - 2014-12-18 : Discussion en séance publique
+    - 2014-12-18 : Décision
+- Conseil constitutionnel
+  - 2014-12-19 : Saisine du conseil constitutionnel
+  - 2014-12-19 : Saisine du conseil constitutionnel
+  - 2014-12-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-12-29 : Promulgation d'une loi
