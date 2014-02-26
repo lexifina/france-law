@@ -1,8 +1,6 @@
 # Article Annexe
 
-CONTINGENTS (*) DE PUISSANCE ET DE JAUGE EN FONCTION
-
-DES RÉGIONS ET DES CATÉGORIES DE PME
+CONTINGENTS (*) DE PUISSANCE ET DE JAUGE EN FONCTION DES RÉGIONS ET DES CATÉGORIES DE PME
 
 Tableau 1
 
@@ -20,21 +18,15 @@ PUISSANCE kW
 
 |
 
-UMS'S
-
-|
+UMS'S |
 
 Moins de 25 m :
 
 |
 
-87,54
+142,90 |
 
-|
-
-1 010
-
-|
+1 495 |
 
 0
 
@@ -49,6 +41,22 @@ Dont Aquitaine
 |
 
 273
+
+|
+
+0
+
+|
+
+Dont Basse-Normandie
+
+|
+
+55,36
+
+|
+
+485
 
 |
 
@@ -160,13 +168,9 @@ Moins de 25 m :
 
 |
 
-382,53
+436,97 |
 
-|
-
-4 268
-
-|
+4 688 |
 
 0
 
@@ -192,11 +196,9 @@ Dont Basse-Normandie
 
 |
 
-73,99
+128,43 |
 
-|
-
-761
+1 136
 
 |
 
@@ -260,7 +262,7 @@ Dont PACA
 
 |
 
-438
+483
 
 |
 
