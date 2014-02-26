@@ -1,0 +1,61 @@
+# Collectivités territoriales: accessibilité des lieux, des transports et de la voirie pour les handicapés
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33116
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/accessibilite_batiments_transports_voirie_handicapes
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-447.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-04-09 : 1er dépôt d'une initiative. (PRJLSNR5S219B0447)
+  - 2014-04-09 : Etude d'impact (ETDISNR5S219B0447)
+  - 2014-04-09 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-04-09 : Renvoi en commission au fond
+      - 2014-02-26 : Nomination de rapporteur
+      - 2014-04-16 : Dépôt de rapport (RAPPSNR5S219B0460)
+    - Travaux d'une commission saisie pour avis
+      - 2014-04-16 : Saisine pour avis d'une commission
+      - 2014-04-16 : Nomination de rapporteur
+      - 2014-04-16 : Dépôt de rapport (AVISSNR5S219B0464)
+  - Discussion en séance publique
+    - 2014-04-28 : Discussion en séance publique
+    - 2014-04-28 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-04-29 : Dépôt d'une initiative en navette (PRJLANR5L14B1896)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-04-29 : Renvoi en commission au fond
+      - 2014-04-17 : Nomination de rapporteur
+      - 2014-04-17 : Réunion de commission
+      - 2014-05-28 : Réunion de commission
+      - 2014-06-10 : Réunion de commission
+      - 2014-05-28 : Dépôt de rapport (RAPPANR5L14B1985, PRJLANR5L14BTC1985)
+    - Travaux d'une commission saisie pour avis
+      - 2014-05-05 : Saisine pour avis d'une commission
+      - 2014-05-13 : Nomination de rapporteur
+      - 2014-05-21 : Réunion de commission
+      - 2014-05-21 : Dépôt de rapport (AVISANR5L14B1959)
+  - Discussion en séance publique
+    - 2014-06-10 : Discussion en séance publique
+    - 2014-06-11 : Discussion en séance publique
+    - 2014-06-11 : Décision
+- Commission Mixte Paritaire
+  - 2014-06-12 : Dépôt d'un projet de loi (PRJLSNR5S219B0619)
+  - 2014-06-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-06-17 : Nomination de rapporteur
+    - 2014-06-17 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0631)
+    - 2014-06-18 : Dépôt du rapport d'une CMP (RAPPANR5L14B2041)
+  - Discussion en séance publique
+    - 2014-06-24 : Discussion en séance publique
+    - 2014-06-24 : Décision
+  - Discussion en séance publique
+    - 2014-06-26 : Discussion en séance publique
+    - 2014-06-26 : Décision
+  - 2014-06-18 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-07-10 : Promulgation d'une loi
