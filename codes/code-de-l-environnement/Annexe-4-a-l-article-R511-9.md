@@ -1538,6 +1538,16 @@ DC
 
 |
 
+|
+
+|
+
+|
+
+|
+
+|
+
 2565
 
 |
@@ -1558,11 +1568,7 @@ Revêtement métallique ou traitement (nettoyage, décapage, conversion dont pho
 
 |
 
-A
-
 |
-
-1
 
 |
 
@@ -1586,7 +1592,11 @@ A
 
 |
 
+1.a. Lorsqu'il y a mise en œuvre de cadmium
+
 |
+
+1
 
 |
 
@@ -1594,11 +1604,19 @@ b) De cyanures, le volume des cuves étant supérieur à 200 l
 
 |
 
-|
+A
 
 |
 
+1
+
 |
+
+1.b. Lorsqu'il y a mise en œuvre de cyanures, le volume des cuves étant supérieur à 200 l
+
+|
+
+1
 
 |
 
@@ -1628,7 +1646,9 @@ A
 
 |
 
-a) supérieur à 25 000 l |
+a) supérieur à 25 000 l
+
+|
 
 4
 
@@ -1652,7 +1672,9 @@ b) Supérieur à 200 l, mais inférieur ou égal à 1 500 l
 
 |
 
-DC |
+DC
+
+|
 
 |
 
@@ -1712,7 +1734,9 @@ Nettoyage, décapage des métaux par traitement thermique :
 
 |
 
-|
+1. La capacité volumique du four étant supérieure à 2 000 l |
+
+1
 
 |
 
@@ -1754,7 +1778,11 @@ A
 
 |
 
+2. Quelle que soit la capacité
+
 |
+
+1
 
 |
 
@@ -6138,7 +6166,11 @@ A
 
 |
 
+a. Quelle que soit la capacité
+
 |
+
+3
 
 |
 
@@ -6154,7 +6186,11 @@ A
 
 |
 
+b. Quelle que soit la capacité
+
 |
+
+3
 
 |
 
