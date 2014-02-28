@@ -4140,7 +4140,7 @@ BLUE PAPER
 
 |
 
-BLUE PAPER
+Fabrication de papier et de carton
 
 |
 
@@ -4148,35 +4148,25 @@ BLUE PAPER
 
 |
 
-78 937
+00
 
 |
 
-77 525
+0
 
 |
 
-76 098
+0 |
 
-|
+0 |
 
-74 657
+0 |
 
-|
+0 |
 
-73 201
+0 |
 
-|
-
-71 727
-
-|
-
-70 248
-
-|
-
-602 725
+80 332
 
 |
 
@@ -4472,13 +4462,11 @@ FR000000000000854
 
 |
 
-DALKIA France
+COGELYO NORD EST
 
 |
 
-DALKIA Ottmarsheim
-
-|
+COGELYO NORD EST |
 
 0
 
@@ -5396,35 +5384,29 @@ IMERYS TC BLAJAN
 
 |
 
-6 073
+30 037
 
 |
 
-5 965
+2 983
 
 |
 
-5 855
+2 928
 
 |
 
-5 744
+2 872 |
+
+2 816 |
+
+2 759
 
 |
 
-5 632
+2 703 |
 
-|
-
-5 518
-
-|
-
-5 405
-
-|
-
-46 372
+26 278
 
 |
 
@@ -6792,31 +6774,31 @@ SRTN Chaufferie de BEAULIEU ROUBAIX
 
 |
 
-3 010
+0
 
 |
 
-2 635
+0
 
 |
 
-2 271
+0
 
 |
 
-1 919
+0
 
 |
 
-1 579
+0
 
 |
 
-1 251
+0
 
 |
 
-20 531
+7866
 
 |
 
@@ -7592,13 +7574,11 @@ FR000000000000955
 
 |
 
-Arcelor Mittal Atlantique et Lorraine
+ArcelorMittal Atlantique et Lorraine - Site de Mardyck
 
 |
 
-Arcelor Mittal Atlantique et Lorraine - site de Mardyck
-
-|
+ArcelorMittal Atlantique et Lorraine - Site de Mardyck |
 
 72 955
 
@@ -7640,11 +7620,9 @@ FR000000000000956
 
 |
 
-Arcelor Mittal Atlantique et Lorraine
+ArcelorMittal Atlantique et Lorraine - Site de Dunkerque |
 
-|
-
-Arcelor Mittal Atlantique et Lorraine Dunkerque
+ArcelorMittal Atlantique et Lorraine - Site de Dunkerque
 
 |
 
@@ -11048,13 +11026,11 @@ FR000000000001058
 
 |
 
-ARC INTERNATIONAL COOKWARE SAS
+International Cookware
 
 |
 
-ARC INTERNATIONAL COOKWARE
-
-|
+International Cookware SAS |
 
 12 347
 
@@ -11252,35 +11228,33 @@ STORENGY Stockage souterrain de Céré-la-Ronde
 
 |
 
-4 602
+2 441
 
 |
 
-4 075
+2 162
 
 |
 
-3 567
+1 892
 
 |
 
-3 072
+1 629 |
+
+1 376
 
 |
 
-2 594
+1 131
 
 |
 
-2 131
+895
 
 |
 
-1 686
-
-|
-
-26 869
+16 668
 
 |
 
@@ -11734,35 +11708,31 @@ SOCOS
 
 |
 
-33 743
+16 872
 
 |
 
-29 893
+14 947
 
 |
 
-26 165
+13 083 |
+
+11 277
 
 |
 
-22 554
+9 530 |
+
+7 839
 
 |
 
-19 059
+6 209
 
 |
 
-15 677
-
-|
-
-12 418
-
-|
-
-197 215
+117 463
 
 |
 
