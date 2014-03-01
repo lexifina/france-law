@@ -1,3 +1,0 @@
-# Article 1er
-
-Dans la profession du travail temporaire, le personnel d'encadrement est constitué par les salariés de niveau 5 et plus qui, même s'ils n'exercent pas de commandement, ont une formation correspondante constatée ou non par un diplôme ; les salariés des mêmes niveaux qui, ayant acquis une formation technique, administrative, juridique, commerciale ou financière, exercent un commandement ; ou des agents de maîtrise, définis comme étant des agents ayant une délégation de commandement de l'employeur, encadrant effectivement et en permanence du personnel de niveau équivalent ou inférieur tant sur le plan hiérarchique que technique.
