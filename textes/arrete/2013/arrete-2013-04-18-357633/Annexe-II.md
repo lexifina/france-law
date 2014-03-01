@@ -1,12 +1,12 @@
 # Article Annexe II
 
-ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION
+Assignations comptables particulières des dépenses de rémunération
 
-DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
+des personnels de l'état (Ministères civils)
 
 A.-Ministère des affaires étrangères
 
-CATÉGORIE DE PERSONNELS
+CATÉGORIE DE PERSONNEL
 
 |
 
@@ -24,9 +24,9 @@ Trésorier-payeur général pour l'étranger
 
 |
 
-B.-Ministère de la culture et de la communication
+B. ― Ministère de la culture et de la communication
 
-CATÉGORIE DE PERSONNELS
+CATÉGORIE DE PERSONNEL
 
 |
 
@@ -52,9 +52,9 @@ Directeur régional des finances publiques d'Ile-de-France et du département de
 
 |
 
-C.-Ministère de l'agriculture, de l'agroalimentaire et de la forêt
+C. ― Ministère de l'agriculture, de l'agroalimentaire et de la forêt
 
-CATÉGORIE DE PERSONNELS
+CATÉGORIE DE PERSONNEL
 
 |
 
@@ -96,7 +96,7 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-D.-Services déconcentrés du ministère de l'éducation nationale
+D. ― Services déconcentrés du ministère de l'éducation nationale
 
 et du ministère de l'enseignement supérieur et de la recherche
 
@@ -118,13 +118,11 @@ Directeur départemental des finances publiques de la Seine-Saint-Denis
 
 |
 
-Paris (enseignement du 1er et du 2e degré)
+Paris (enseignement du 1er et du 2nd degré)
 
 |
 
-|
-
-E.-Ministère de l'économie et des finances
+E. ― Ministère de l'économie et des finances
 
 SERVICE
 
@@ -144,15 +142,87 @@ Direction nationale de recherches et d'enquêtes douanières
 
 |
 
-Directeur départemental des finances publiques de la Seine-Saint-Denis
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er mai 2014
 
 |
 
-Direction interrégionale des douanes et droits indirects d'Ile-de-France
+Direction nationale de la statistique et du commerce extérieur
 
 |
 
-Directeur départemental des finances publiques de la Seine-Saint-Denis
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er mars 2014
+
+|
+
+Direction interrégionale des douanes et droits indirects d'Antilles-Guyane
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er octobre 2014
+
+|
+
+Direction interrégionale des douanes et droits indirects de Dijon
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er octobre 2014
+
+|
+
+Direction interrégionale des douanes et droits indirects de La Réunion
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er octobre 2014
+
+|
+
+Direction interrégionale des douanes et droits indirects de Lille
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er octobre 2014
+
+|
+
+Direction interrégionale des douanes et droits indirects de Lyon
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er mai 2014
+
+|
+
+Direction interrégionale des douanes et droits indirects de Marseille
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er octobre 2014
+
+|
+
+Direction interrégionale des douanes et droits indirects de Metz
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er octobre 2014
+
+|
+
+Direction interrégionale des douanes et droits indirects de Montpellier
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er octobre 2014
+
+|
+
+Direction interrégionale des douanes et droits indirects de Paris
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er mai 2014
 
 |
 
@@ -160,19 +230,51 @@ Direction interrégionale des douanes et droits indirects de Roissy Aéroports
 
 |
 
-Directeur départemental des finances publiques de la Seine-Saint-Denis
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er mai 2014
 
 |
 
-Centre informatique douanier d'Osny
+Centre informatique des douanes d'Osny
 
 |
 
-Directeur départemental des finances publiques de la Seine-Saint-Denis
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er mai 2014
+
+|
+
+Ecole nationale des brigades des douanes de La Rochelle
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er octobre 2014
+
+|
+
+Ecole nationale des douanes de Rouen
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er octobre 2014
+
+|
+
+Ecole nationale des douanes de Tourcoing
+
+|
+
+Directeur régional des finances publiques d'Aquitaine et du département de la Gironde à compter du 1er octobre 2014
 
 |
 
 Services spécialisés de la direction générale des finances publiques
+
+|
+
+Service
+
+|
+
+Comptable public assignataire de la paye sans ordonnancement préalable
 
 |
 
@@ -232,6 +334,14 @@ Directeur régional des finances publiques d'Ile-de-France et du département de
 
 |
 
+Direction impôts services (Pantin, Lille, Nancy, Rouen)
+
+|
+
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
+
+|
+
 Direction des résidents à l'étranger et des services généraux (Noisy-le-Grand)
 
 |
@@ -248,15 +358,19 @@ Directeur régional des finances publiques d'Ile-de-France et du département de
 
 |
 
-Direction générale de la concurrence, de la consommation et de la répression des fraudes
+Direction générale de la concurrence de la consommation et de la répression des fraudes
 
 |
 
-Services déconcentrés de métropole et des départements d'outre-mer hors Mayotte |
+Services déconcentrés de métropole et des départements d'outre-mer hors Mayotte
 
-Directeur départemental des finances publiques des Hauts-de-Seine |
+|
 
-Service commun des laboratoires des ministères économiques et financiers
+Directeur départemental des finances publiques des Hauts-de-Seine
+
+|
+
+Service commun des laboratoires des ministères économique et financier
 
 |
 
@@ -268,17 +382,25 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-Personnels issus de la direction générale des douanes et droits indirects |
+Personnels issus de la direction générale des douanes et droits indirects
 
-Directeur départemental des finances publiques des Hauts-de-Seine |
+|
 
-F.-Ministère de l'intérieur
+Directeur départemental des finances publiques des Hauts-de-Seine
 
-SERVICE OU CATÉGORIE DE PERSONNELS |
+|
+
+F. ― Ministère de l'intérieur
+
+SERVICE OU CATÉGORIE DE PERSONNEL
+
+|
 
 COMPTABLE PUBLIC ASSIGNATAIRE DE LA PAYE
 
-sans ordonnancement préalable |
+sans ordonnancement préalable
+
+|
 
 Bureau des cultes du Bas-Rhin et du Haut-Rhin
 
@@ -316,7 +438,7 @@ Préfecture des Alpes-Maritimes
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -348,7 +470,7 @@ Préfecture de l'Aude
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -400,7 +522,7 @@ Directeur régional des finances publiques de Bretagne et du département d'Ille
 
 |
 
-Préfecture de la Corrèze
+Préfecture de Corrèze
 
 |
 
@@ -412,15 +534,15 @@ Préfecture de la Corse-du-Sud
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte Azur et du département des Bouches-du-Rhône
 
 |
 
-Préfecture de la Haute-Corse
+Préfecture de Haute-Corse
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -476,7 +598,7 @@ Préfecture du Gard
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -500,7 +622,7 @@ Préfecture de l'Hérault
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -536,7 +658,7 @@ Directeur départemental des finances publiques de l'Isère
 
 |
 
-Préfecture de la Haute-Loire
+Préfecture de Haute-Loire
 
 |
 
@@ -544,7 +666,7 @@ Directeur départemental des finances publiques de l'Isère
 
 |
 
-Préfecture de la Loire-Atlantique
+Préfecture de Loire-Atlantique
 
 |
 
@@ -572,7 +694,7 @@ Préfecture de Lozère
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -660,7 +782,7 @@ Préfecture des Pyrénées-Orientales
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte Azur et du département des Bouches-du-Rhône
 
 |
 
@@ -688,7 +810,7 @@ Directeur départemental des finances publiques de l'Isère
 
 |
 
-Préfecture de la Haute-Saône
+Préfecture de Haute-Saône
 
 |
 
@@ -696,7 +818,7 @@ Directeur régional des finances publiques de Lorraine et du département de la 
 
 |
 
-Préfecture de la Saône-et-Loire
+Préfecture de Saône-et-Loire
 
 |
 
@@ -712,7 +834,7 @@ Directeur régional des finances publiques de Bretagne et du département d'Ille
 
 |
 
-Préfecture de la Seine-Maritime
+Préfecture de Seine-Maritime
 
 |
 
@@ -756,11 +878,11 @@ Préfecture du Var
 
 |
 
-Directeur régional des finances publiques de Provence-Alpes-Côte d'Azur et du département des Bouches-du-Rhône
+Directeur régional des finances publiques de Provence-Alpes-Côte Azur et du département des Bouches-du-Rhône
 
 |
 
-Préfecture de la Vendée
+Préfecture de Vendée
 
 |
 
@@ -792,7 +914,7 @@ Directeur régional des finances publiques de Lorraine et du département de la 
 
 |
 
-Préfecture du Territoire de Belfort
+Préfecture du territoire de Belfort
 
 |
 
@@ -808,6 +930,22 @@ Directeur départemental des finances publiques de l'Isère
 
 |
 
+Secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris ― Personnels en poste dans les départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne
+
+|
+
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris à compter du 1er janvier 2014
+
+|
+
+Secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris ― Personnels en poste dans les départements de Seine-et-Marne, des Yvelines, de l'Essonne et du Val-d'Oise
+
+|
+
+Directeur départemental des finances publiques des Yvelines à compter du 1er janvier 2014
+
+|
+
 Chefs de district en poste dans les Terres australes et antarctiques françaises (archipel de Crozet, archipel des Kerguelen, îles Saint-Paul et Amsterdam, Terre Adélie, îles Eparses)
 
 |
@@ -816,55 +954,15 @@ Directeur régional des finances publiques de La Réunion
 
 |
 
-Personnels de la sécurité routière rémunérés dans le cadre de la délégation de gestion avec le ministère de l'écologie, du développement durable et de l'énergie
+Personnels de la sécurité routière
 
 |
 
-Cf. annexe I
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris à compter du 1er mai 2014
 
 |
 
-G.-Services du Premier ministre.-Juridictions administratives et financières
-
-SERVICE OU CATÉGORIE DE PERSONNELS |
-
-COMPTABLE PUBLIC ASSIGNATAIRE DE LA PAYE
-
-sans ordonnancement préalable |
-
-Magistrats des tribunaux administratifs et cours administratives d'appel
-
-|
-
-Directeur régional des finances publiques d'Ile-de-France et du département de Paris
-
-|
-
-Personnels des juridictions administratives rémunérés dans le cadre de la délégation de gestion entre le Conseil d'Etat et le ministère chargé de l'intérieur (Alpes-Maritimes, Bouches-du-Rhône, Calvados, Haute-Corse, Côte-d'Or, Gironde, Ille-et-Vilaine, Indre-et-Loire, Marne, Meurthe-et-Moselle, Nord, Pyrénées-Atlantiques, Bas-Rhin, Rhône, Somme, Var)
-
-|
-
-Directeur régional des finances publiques d'Ile-de-France et du département de Paris
-
-|
-
-Personnels des juridictions administratives rémunérés dans le cadre de la délégation de gestion entre le Conseil d'Etat et le ministère chargé de l'intérieur (Doubs, Haute-Garonne, Hérault, Gard, Loire-Atlantique, Loiret, Puy-de-Dôme, Seine-Maritime, Haute-Vienne)
-
-|
-
-Directeur régional des finances publiques d'Ile-de-France et du département de Paris à compter du 1er janvier 2013
-
-|
-
-Chambres régionales des comptes
-
-|
-
-Directeur régional des finances publiques d'Ile-de-France et du département de Paris
-
-|
-
-H.-Ministère de l'écologie, du développement durable et de l'énergie et ministère de l'égalité des territoires et du logement
+G. ― Services du Premier ministre. ― Juridictions administratives et financières
 
 SERVICE OU CATÉGORIE DE PERSONNEL
 
@@ -876,23 +974,53 @@ sans ordonnancement préalable
 
 |
 
-Direction régionale et interdépartementale de l'hébergement et du logement en région d'Ile-de-France
+Magistrats des tribunaux administratifs et cours administratives d'appel
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
 
 |
 
-Direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France
+Personnels administratifs des juridictions administratives (Alpes-Maritimes, Bouches-du-Rhône, Calvados, Haute-Corse, Côte-d'Or, Doubs, Gard, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Indre-et-Loire, Loire-Atlantique, Loiret, Marne, Meurthe-et-Moselle, Nord, Puy-de-Dôme Pyrénées-Atlantiques, Bas-Rhin, Rhône, Seine-Maritime, Somme, Var, Haute-Vienne)
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
 
 |
 
-Direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France
+Personnels des juridictions administratives rémunérés dans le cadre de la délégation de gestion entre le Conseil d'Etat et le ministère chargé de l'intérieur (Seine-et-Marne, Yvelines, Seine-Saint-Denis, Val-d'Oise, Guadeloupe, Martinique, Guyane, La Réunion)
+
+|
+
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris à compter du 1er juillet 2014
+
+|
+
+Chambres régionales des comptes
+
+|
+
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
+
+|
+
+H. ― Ministère de l'écologie, du développement durable et de l'énergie
+
+et ministère de l'égalité des territoires et du logement
+
+SERVICE OU CATÉGORIE DE PERSONNEL
+
+|
+
+COMPTABLE PUBLIC ASSIGNATAIRE DE LA PAYE sans ordonnancement préalable
+
+|
+
+Directions régionales et interdépartementales de l'équipement et de l'aménagement, de l'environnement et de l'énergie,
+
+de l'hébergement et du logement d'Ile-de-France
 
 |
 
@@ -948,7 +1076,7 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par l'arrêté du 2 août 2010 (personnels en poste à l'administration centrale)
+Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par arrêté du 2 août 2010 (personnels en poste à l'administration centrale)
 
 |
 
@@ -956,7 +1084,7 @@ Directeur départemental des finances publiques des Hauts-de-Seine
 
 |
 
-Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par l'arrêté du 2 août 2010 (personnels en poste dans les services déconcentrés)
+Ingénieurs des ponts, des eaux et des forêts relevant du centre interministériel de gestion créé par arrêté du 2 août 2010 (personnels en poste dans les services déconcentrés)
 
 |
 
@@ -972,14 +1100,6 @@ Directeur régional des finances publiques de Rhône-Alpes et du département du
 
 |
 
-Service d'études techniques des routes et autoroutes de Sourdun (Seine-et-Marne)
-
-|
-
-Directeur départemental des finances publiques des Hauts-de-Seine
-
-|
-
 Personnels de catégorie A en poste dans les départements d'outre-mer
 
 |
@@ -988,7 +1108,7 @@ Directeur régional des finances publiques d'Ile-de-France et du département de
 
 |
 
-Personnels de catégories B et C en poste dans les départements d'outre-mer
+Personnels de catégorie B et C en poste dans les départements d'outre-mer
 
 |
 
@@ -996,7 +1116,7 @@ Directeur régional des finances publiques de Basse-Normandie et du département
 
 |
 
-Personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique. - Assistants de service social, infirmiers d'Etat, lieutenants de port, adjoints techniques d'Etat, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors "Berkani")
+Personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique. ― Assistants de service social, infirmiers d'Etat, lieutenants de port, adjoints techniques d'Etat, experts techniques de l'équipement, syndics des gens de mer, agent des services techniques et personnels non titulaires (hors Berkani )
 
 |
 
@@ -1004,7 +1124,7 @@ Alsace
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+Directeur départemental des finances publiques du Val-de-Marne
 
 |
 
@@ -1012,7 +1132,7 @@ Aquitaine
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er février 2014
 
 |
 
@@ -1020,7 +1140,7 @@ Auvergne
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er octobre 2013
+Directeur départemental des finances publiques du Val-de-Marne
 
 |
 
@@ -1028,7 +1148,7 @@ Basse-Normandie
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+Directeur départemental des finances publiques du Val-de-Marne
 
 |
 
@@ -1036,7 +1156,7 @@ Bourgogne
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er février 2014
 
 |
 
@@ -1044,7 +1164,7 @@ Bretagne
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er octobre 2013
+Directeur départemental des finances publiques du Val-de-Marne
 
 |
 
@@ -1052,7 +1172,7 @@ Centre
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er mars 2014
 
 |
 
@@ -1060,7 +1180,7 @@ Champagne-Ardenne
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er février 2014
 
 |
 
@@ -1068,7 +1188,7 @@ Corse
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er mars 2014
 
 |
 
@@ -1076,7 +1196,7 @@ Franche-Comté
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er février 2014
 
 |
 
@@ -1084,7 +1204,7 @@ Haute-Normandie
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er octobre 2013
+Directeur départemental des finances publiques du Val-de-Marne
 
 |
 
@@ -1092,7 +1212,7 @@ Ile-de-France
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er avril 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er avril 2014
 
 |
 
@@ -1100,7 +1220,7 @@ Languedoc-Roussillon
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er mars 2014
 
 |
 
@@ -1108,7 +1228,7 @@ Limousin
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+Directeur départemental des finances publiques du Val-de-Marne
 
 |
 
@@ -1116,7 +1236,7 @@ Lorraine
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er octobre 2013
+Directeur départemental des finances publiques du Val-de-Marne
 
 |
 
@@ -1124,7 +1244,7 @@ Midi-Pyrénées
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er février 2014
 
 |
 
@@ -1132,7 +1252,7 @@ Nord-Pas-de-Calais
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er mars 2014
 
 |
 
@@ -1140,7 +1260,7 @@ Pays de la Loire
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er avril 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er avril 2014
 
 |
 
@@ -1148,7 +1268,7 @@ Picardie
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er mars 2014
 
 |
 
@@ -1156,15 +1276,15 @@ Poitou-Charentes
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+Directeur départemental des finances publiques du Val-de-Marne
 
 |
 
-Provence-Alpes-Côte d'Azur
+Provence-Alpes-Côte Azur
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er février 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er février 2014
 
 |
 
@@ -1172,7 +1292,7 @@ Rhône-Alpes hors Ecole nationale des travaux publics de l'Etat de Vaulx-en-Veli
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er mars 2014
+Directeur départemental des finances publiques du Val-de-Marne à compter du 1er mars 2014
 
 |
 
@@ -1180,113 +1300,391 @@ Ecole nationale des travaux publics de l'Etat de Vaulx-en-Velin
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+Directeur départemental des finances publiques du Val-de-Marne
 
 |
 
-Personnels nouvellement affectés à compter du 1er juin 2013
+I.-Ministère des affaires sociales et de la santé
+
+DIRECTION RÉGIONALE DE LA JEUNESSE, DES SPORTS
+
+et de la cohésion sociale
 
 |
 
-Directeur départemental des finances publiques du Val-de-Marne, à compter du 1er juin 2013
+COMPTABLE PUBLIC ASSIGNATAIRE DE LA PAYE
+
+sans ordonnancement préalable
 
 |
 
-Personnels en poste dans les structures du réseau scientifique constitutives du Centre d'études et d'expertise
-
-sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA)
+Alsace
 
 |
 
-Centre d'études techniques de l'équipement de l'Est
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er mars 2014
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er juillet 2013
+Aquitaine
 
 |
 
-Centre d'études techniques de l'équipement d'Ile-de-France
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er octobre 2013
+Auvergne
 
 |
 
-Centre d'études techniques de l'équipement de Méditerranée
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er novembre 2013
+Basse-Normandie
 
 |
 
-Centre d'études techniques de l'équipement Nord-Picardie
+Directeur régional des finances publiques de Basse-Normandie et du département du Calvados
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er novembre 2013
+Bourgogne
 
 |
 
-Centre d'études techniques de l'équipement Normandie-Centre
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er juillet 2013
+Bretagne
 
 |
 
-Centre d'études techniques de l'équipement de l'Ouest
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er novembre 2013
+Centre
 
 |
 
-Centre d'études techniques de l'équipement du Sud-Ouest
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er octobre 2013
+Champagne-Ardenne
 
 |
 
-Centre d'études techniques maritimes et fluviales
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er novembre 2013
+Corse
 
 |
 
-Service d'études techniques des routes et autoroutes
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er octobre 2013
+Franche-Comté
 
 |
 
-Ingénieurs des ponts, des eaux et forêts
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er octobre 2013
+Haute-Normandie
 
 |
 
-Personnels nouvellement affectés à compter du 1er juillet 2013
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
 
 |
 
-Directeur régional des finances publiques de Rhône-Alpes et du département du Rhône, à compter du 1er juillet 2013
+Ile-de-France
 
 |
 
-.
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
+
+|
+
+Languedoc-Roussillon
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Limousin
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Lorraine
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Midi-Pyrénées
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Nord-Pas-de-Calais
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Pays de la Loire
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Picardie
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Poitou-Charentes
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Provence-Alpes-Côte d'Azur
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Rhône-Alpes
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+J. ― Ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social
+
+DIRECTION RÉGIONALE DES ENTREPRISES,
+
+de la concurrence, de la consommation,
+
+du travail et de l'emploi
+
+|
+
+COMPTABLE PUBLIC ASSIGNATAIRE DE LA PAYE
+
+sans ordonnancement préalable
+
+|
+
+Alsace
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er mars 2014
+
+|
+
+Aquitaine
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Auvergne
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Basse-Normandie
+
+|
+
+Directeur régional des finances publiques de Basse-Normandie et du département du Calvados
+
+|
+
+Bourgogne
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Bretagne
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Centre
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Champagne-Ardenne
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Corse
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Franche-Comté
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Haute-Normandie
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Ile-de-France
+
+|
+
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
+
+|
+
+Languedoc-Roussillon
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Limousin
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Lorraine
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Midi-Pyrénées
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Nord-Pas-de-Calais
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Pays de la Loire
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Picardie
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
+
+|
+
+Poitou-Charentes
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Provence-Alpes-Côte d'Azur
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
+
+Rhône-Alpes
+
+|
+
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er octobre 2014
+
+|
 
 NOTA :
 

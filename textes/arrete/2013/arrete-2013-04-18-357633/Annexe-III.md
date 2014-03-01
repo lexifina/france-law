@@ -1,20 +1,24 @@
 # Article Annexe III
 
-ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION
+Assignations comptables particulières des dépenses de rémunération des personnels de l'état
 
-DES PERSONNELS DE L'ÉTAT (MINISTÈRE DE LA DÉFENSE)
+(Ministère de la défense)
 
-CATÉGORIE DE PERSONNELS |
-
-DÉPARTEMENT D'AFFECTATION |
-
-COMPTABLE PUBLIC ASSIGNATAIRE
-
-de la paye sans ordonnancement préalable |
+CATÉGORIE DE PERSONNEL
 
 |
 
-Personnel civil mis à disposition de la Fondation France libre, de la Mutuelle civile de la défense, de la Mutuelle nationale militaire, de la présidence de la République, des services du Premier ministre et du Cercle national des armées
+DÉPARTEMENT D'AFFECTATION
+
+|
+
+COMPTABLE PUBLIC ASSIGNATAIRE
+
+de la paye sans ordonnancement préalable
+
+|
+
+Personnel civil mis à disposition de la Fondation de la France libre, de la Mutuelle civile de la défense, de la Mutuelle nationale militaire, de la Présidence de la République, des services du Premier ministre et du Cercle national des armées
 
 |
 
@@ -26,7 +30,7 @@ Directeur régional des finances publiques d'Aquitaine et du département de la 
 
 |
 
-Personnels civils mis à disposition de la Mutuelle nationale de la marine
+Personnels civils mis à disposition de la Mutuelle nationale de la Marine
 
 |
 
@@ -74,11 +78,23 @@ Directeur régional des finances publiques d'Aquitaine et du département de la 
 
 |
 
+Personnel civil de la direction de la sécurité aéronautique de l'Etat
+
+|
+
+Tous départements
+
+|
+
+Directeur régional des finances publiques d'Ile-de-France et du département de Paris
+
+|
+
 Personnel civil des organismes extérieurs relevant du service de l'accompagnement professionnel et des pensions de la direction des ressources humaines du ministère de la défense
 
 |
 
-Ain, Aisne, Allier, Alpes-de-Haute-Provence, Alpes-Maritimes, Ardèche, Ardennes, Ariège, Aube, Aude, Bouches-du-Rhône, Calvados, Charente, Charente-Maritime, Cher, Corrèze, Corse, Côte-d'Or, Côtes-d'Armor, Creuse, Doubs, Drôme, Eure, Eure-et-Loir, Finistère, Gard, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Indre, Indre-et-Loire, Isère, Jura, Landes, Loir-et-Cher, Loire, Haute-Loire, Loire-Atlantique, Loiret, Lot, Lot-et-Garonne, Maine-et-Loire, Manche, Marne, Haute-Marne, Mayenne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nièvre, Nord, Oise, Orne, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Bas-Rhin, Haut-Rhin, Rhône, Haute-Saône, Saône-et-Loire, Sarthe, Savoie, Haute-Savoie, Paris, Seine-Maritime, Yvelines, Deux-Sèvres, Somme, Tarn, Tarn-et-Garonne, Var, Vaucluse, Vendée, Vienne, Haute-Vienne, Vosges, Yonne, Territoire de Belfort, Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne
+Ain, Aisne, Allier, Alpes-de-Haute-Provence, Alpes-Maritimes, Ardèche, Ardennes, Ariège, Aube, Aude, Bouches-du-Rhône, Calvados, Charente, Charente-Maritime, Cher, Corrèze, Corse, Côte-d'Or, Côtes-d'Armor, Creuse, Doubs, Drôme, Eure, Eure-et-Loir, Finistère, Gard, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Indre, Indre-et-Loire, Isère, Jura, Landes, Loir-et-Cher, Loire, Haute-Loire, Loire-Atlantique, Loiret, Lot, Lot-et-Garonne, Maine-et-Loire, Manche, Marne, Haute-Marne, Mayenne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nièvre, Nord, Oise, Orne, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Bas-Rhin, Haut-Rhin, Rhône, Haute-Saône, Saône-et-Loire, Sarthe, Savoie, Haute-Savoie, Paris, Seine-Maritime, Yvelines, Deux-Sèvres, Somme, Tarn, Tarn-et-Garonne, Var, Vaucluse, Vendée, Vienne, Haute-Vienne, Vosges, Yonne, territoire de Belfort, Hauts-de-Seine, la Seine-Saint-Denis et Val-de-Marne
 
 |
 
@@ -126,7 +142,7 @@ Personnel civil des organismes extérieurs relevant de l'agence de reconversion 
 
 |
 
-Ain, Ardennes, Ariège, Aude, Bouches-du-Rhône, Charente, Cher, Corrèze, Côte-d'Or, Doubs, Drôme, Gard, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Indre-et-Loire, Isère, Loire-Atlantique, Loiret, Lot-et-Garonne, Maine-et-Loire, Manche, Marne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nord, Puy-de-Dôme, Pyrénées-Atlantiques, Bas-Rhin, Haut-Rhin, Rhône, Sarthe, Savoie, Haute-Savoie, Paris, Yvelines, Somme, Tarn, Tarn-et-Garonne, Var, Vaucluse, Vienne, Haute-Vienne, Vosges, Territoire de Belfort et Essonne
+Ain, Ardennes, Ariège, Aude, Bouches-du-Rhône, Charente, Cher, Corrèze, Côte-d'Or, Doubs, Drôme, Gard, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Indre-et-Loire, Isère, Loire-Atlantique, Loiret, Lot-et-Garonne, Maine-et-Loire, Manche, Marne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nord, Puy-de-Dôme, Pyrénées-Atlantiques, Bas-Rhin, Haut-Rhin, Rhône, Sarthe, Savoie, Haute-Savoie, Paris, Yvelines, Somme, Tarn, Tarn-et-Garonne, Var, Vaucluse, Vienne, Haute-Vienne, Vosges, territoire de Belfort et Essonne
 
 |
 
@@ -138,7 +154,7 @@ Personnel civil des organismes extérieurs relevant de l'agence de reconversion 
 
 |
 
-Bouches-du-Rhône, Charente, Charente-Maritime, Côte-d'Or, Eure, Finistère, Haute-Garonne, Gironde, Indre-et-Loire, Landes, Loiret, Haute-Marne, Meurthe-et-Moselle, Morbihan, Moselle, Nord, Oise, Rhône, Paris, Var, Vaucluse et Essonne
+Bouches-du-Rhône, Charente, Charente-Maritime, Côte-d'Or, Eure, Finistère, Haute-Garonne, Gironde, Indre-et-Loire, Landes, Loiret, Haute-Marne, Meurthe-et-Moselle, Morbihan, Moselle, Nord, Oise, Rhône, Paris, Var, Vaucluse et Essonne.
 
 |
 
@@ -162,7 +178,7 @@ Personnel civil des organismes extérieurs du service d'infrastructure de la dé
 
 |
 
-Ain, Bouches-du-Rhône, Charente, Charente-Maritime, Cher, Côte-d'Or, Eure, Finistère, Gironde, Ille-et-Vilaine, Indre-et-Loire, Isère, Landes, Loir-et-Cher, Loiret, Manche, Haute-Marne, Meurthe-et-Moselle, Morbihan, Moselle, Oise, Bas-Rhin, Haute-Saône, Paris, Yvelines, Var, Vaucluse, Essonne, et Val-d'Oise
+Ain, Bouches-du-Rhône, Charente, Charente-Maritime, Cher, Côte-d'Or, Eure, Finistère, Gironde, Ille-et-Vilaine, Indre-et-Loire, Isère, Landes, Loir-et-Cher, Loiret, Manche, Haute-Marne, Meurthe-et-Moselle, Morbihan, Moselle, Oise, Bas-Rhin, Haute-Saône, Paris, Yvelines, Var, Vaucluse, Essonne, et Val-d'Oise.
 
 |
 
@@ -186,7 +202,7 @@ Personnel civil des organismes extérieurs de la direction de la mémoire, du pa
 
 |
 
-Finistère, Gironde, Morbihan, Moselle et Var
+Finistère, Gironde, Morbihan, Moselle et Var.
 
 |
 
@@ -222,7 +238,7 @@ Personnel civil des organismes extérieurs de l'état-major des armées
 
 |
 
-Bouches-du-Rhône, Côte-d'Or, Côtes-d'Armor, Dordogne, Doubs, Gironde, Ille-et-Vilaine, Indre, Indre-et-Loire, Isère, Loire-Atlantique, Marne, Moselle, Nord, Oise, Puy-de-Dôme, Pyrénées-Atlantiques, Rhône, Paris, Seine-Maritime, Yvelines, Var, Vienne et Hauts-de-Seine
+Bouches-du-Rhône, Côte-d'Or, Côtes-d'Armor, Dordogne, Doubs, Gironde, Ille-et-Vilaine, Indre, Indre-et-Loire, Isère, Loire-Atlantique, Marne, Moselle, Nord, Oise, Puy-de-Dôme, Pyrénées-Atlantiques, Rhône, Paris, Seine-Maritime, Yvelines, Var, Vienne et Hauts-de-Seine.
 
 |
 
@@ -234,7 +250,7 @@ Personnel civil des organismes extérieurs de l'état-major des armées
 
 |
 
-Alpes-Maritimes, Bouches-du-Rhône, Finistère, Gironde, Oise, Bas-Rhin, Paris, Yvelines, Var et Hauts-de-Seine
+Alpes-Maritimes, Bouches-du-Rhône, Finistère, Gironde, Oise, Bas-Rhin, Paris, Yvelines, Var et Hauts-de-Seine.
 
 |
 
@@ -246,7 +262,7 @@ Personnel civil des organismes extérieurs du centre de pilotage et de conduite 
 
 |
 
-Ain, Aisne, Allier, Alpes-de-Haute-Provence, Ardennes, Ariège, Aube, Aude, Bouches-du-Rhône, Charente, Charente-Maritime, Cher, Corrèze, Corse, Côte-d'Or, Creuse, Dordogne, Doubs, Drôme, Eure, Eure-et-Loir, Gard, Haute-Garonne, Gironde, Ille-et-Vilaine, Indre, Indre-et-Loire, Isère, Landes, Loir-et-Cher, Loire, Loire-Atlantique, Loiret, Lot, Lot-et-Garonne, Maine-et-Loire, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nièvre, Nord, Oise, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Bas-Rhin, Haut-Rhin, Rhône, Saône-et-Loire, Sarthe, Savoie, Haute-Savoie, Paris, Seine-et-Marne, Yvelines, Deux-Sèvres, Tarn, Tarn-et-Garonne, Var, Vaucluse, Vendée, Vienne, Haute-Vienne, Vosges, Yonne, Territoire de Belfort, Essonne, Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne
+Ain, Aisne, Allier, Alpes-de-Haute-Provence, Ardennes, Ariège, Aube, Aude, Bouches-du-Rhône, Charente, Charente-Maritime, Cher, Corrèze, Corse, Côte d'Or, Creuse, Dordogne, Doubs, Drôme, Eure, Eure-et-Loir, Gard, Haute-Garonne, Gironde, Ille-et-Vilaine, Indre, Indre-et-Loire, Isère, Landes, Loir-et-Cher, Loire, Loire-Atlantique, Loiret, Lot, Lot-et-Garonne, Maine-et-Loire, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nièvre, Nord, Oise, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Bas-Rhin, Haut-Rhin, Rhône, Saône-et-Loire, Sarthe, Savoie, Haute-Savoie, Paris, Seine-et-Marne, Yvelines, Deux-Sèvres, Tarn, Tarn-et-Garonne, Var, Vaucluse, Vendée, Vienne, Haute-Vienne, Vosges, Yonne, territoire de Belfort, Essonne, Hauts-de-Seine, la Seine-Saint-Denis et Val-de-Marne
 
 |
 
@@ -294,7 +310,7 @@ Personnel civil des organismes extérieurs du service du commissariat des armée
 
 |
 
-Aube, Bouches-du-Rhône, Dordogne, Haute-Garonne, Gironde, Ille-et-Vilaine, Loire, Maine-et-Loire, Marne, Meurthe-et-Moselle, Morbihan, Moselle, Nord, Rhône, Paris, Seine-Maritime, Yvelines, Var, Haute-Vienne, Essonne et Val-de-Marne
+Aube, Bouches-du-Rhône, Dordogne, Haute-Garonne, Gironde, Ille-et-Vilaine, Loire, Maine-et-Loire, Marne, Meurthe-et-Moselle, Morbihan, Moselle, Nord, Rhône, Paris, Seine-Maritime, Yvelines, Var, Haute-Vienne, Essonne et Val-de-Marne.
 
 |
 
@@ -306,7 +322,7 @@ Personnel civil des organismes extérieurs du service du commissariat des armée
 
 |
 
-Charente, Drôme, Finistère, Gironde, Ille-et-Vilaine, Indre-et-Loire, Landes, Loiret, Moselle, Nord, Paris, Yvelines, Var et Essonne
+Charente, Drôme, Finistère, Gironde, Ille-et-Vilaine, Indre-et-Loire, Landes, Loiret, Moselle, Nord, Paris, Yvelines, Var et Essonne.
 
 |
 
@@ -318,7 +334,7 @@ Personnel civil des organismes extérieurs de la direction interarmées des rés
 
 |
 
-Ain, Allier, Ariège, Aube, Aude, Bouches-du-Rhône, Charente, Charente-Maritime, Cher, Corrèze, Corse, Côte-d'Or, Creuse, Dordogne, Doubs, Drôme, Eure, Gard, Haute-Garonne, Gironde, Ille-et-Vilaine, Indre, Indre-et-Loire, Isère, Landes, Loire, Loiret, Maine-et-Loire, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nord, Oise, Puy-de-Dôme, Pyrénées-Atlantiques, Bas-Rhin, Haut-Rhin, Rhône, Saône-et-Loire, Savoie, Haute-Savoie, Paris, Yvelines, Deux-Sèvres, Var, Vaucluse, Vienne, Territoire de Belfort, Essonne, Hauts-de-Seine et Val-de-Marne
+Ain, Allier, Ariège, Aube, Aude, Bouches-du-Rhône, Charente, Charente-Maritime, Cher, Corrèze, Corse, Côte-d'Or, Creuse, Dordogne, Doubs, Drôme, Eure, Gard, Haute-Garonne, Gironde, Ille-et-Vilaine, Indre, Indre-et-Loire, Isère, Landes, Loire, Loiret, Maine-et-Loire, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nord, Oise, Puy-de-Dôme, Pyrénées-Atlantiques, Bas-Rhin, Haut-Rhin, Rhône, Saône-et-Loire, Savoie, Haute-Savoie, Paris, Yvelines, Deux-Sèvres, Var, Vaucluse, Vienne, territoire de Belfort, Essonne, Hauts-de-Seine et Val de Marne.
 
 |
 
@@ -330,7 +346,7 @@ Personnel civil des organismes extérieurs de la direction interarmées des rés
 
 |
 
-Aude, Bouches-du-Rhône, Charente, Charente-Maritime, Cher, Corse, Côte-d'Or, Eure, Eure-et-Loir, Gard, Gironde, Finistère, Ille-et-Vilaine, Indre, Indre-et-Loire, Loir-et-Cher, Loiret, Manche, Marne, Meurthe-et-Moselle, Moselle, Oise, Bas-Rhin, Rhône, Haute-Saône, Paris, Yvelines, Var, Vaucluse, Essonne et Val-de-Marne
+Aude, Bouches-du-Rhône, Charente, Charente-Maritime, Cher, Corse, Côte-d'Or, Eure, Eure-et-Loir, Gard, Gironde, Finistère, Ille-et-Vilaine, Indre, Indre-et-Loire, Loir-et-Cher, Loiret, Manche, Marne, Meurthe-et-Moselle, Moselle, Oise, Bas-Rhin, Rhône, Haute-Saône, Paris, Yvelines, Var, Vaucluse, Essonne et Val-de-Marne.
 
 |
 
@@ -354,7 +370,7 @@ Personnel civil des organismes extérieurs de l'armée de terre
 
 |
 
-Cantal, Landes, Oise, Haut-Rhin, Paris, Seine-et-Marne, Yvelines et Var
+Cantal, Landes, Oise, Haut-Rhin, Paris, Seine-et-Marne, Yvelines et Var.
 
 |
 
@@ -366,7 +382,7 @@ Personnel civil des organismes extérieurs de l'armée de l'air
 
 |
 
-Tous départements
+Tous départements.
 
 |
 
@@ -378,7 +394,7 @@ Personnel civil des organismes extérieurs de la marine
 
 |
 
-Tous départements
+Tous départements.
 
 |
 
@@ -390,7 +406,7 @@ Personnel civil des organismes extérieurs relevant du service des essences des 
 
 |
 
-Tous départements
+Tous départements.
 
 |
 
@@ -402,7 +418,7 @@ Personnel civil des organismes extérieurs relevant du service de santé des arm
 
 |
 
-Aisne, Alpes de Haute-Provence, Ardennes, Ariège, Bouches-du-Rhône, Calvados, Charente, Cher, Corrèze, Côte-d'Or, Doubs, Drôme, Eure-et-Loir, Gard, Haute-Garonne, Gironde, Ille-et-Vilaine, Isère, Loiret, Lot-et-Garonne, Maine-et-Loire, Manche, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Nord, Oise, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Bas-Rhin, Haut-Rhin, Rhône, Saône-et-Loire, Sarthe, Haute-Savoie, Paris, Yvelines, Deux-Sèvres, Tarn-et-Garonne, Var, Vaucluse, Vendée, Vienne, Haute-Vienne, Territoire de Belfort, Essonne, Hauts-de-Seine et Val-de-Marne
+Aisne, Alpes-de-Haute-Provence, Ardennes, Ariège, Bouches-du-Rhône, Calvados, Charente, Cher, Corrèze, Côte-d'Or, Doubs, Drôme, Eure-et-Loir, Gard, Haute-Garonne, Gironde, Ille-et-Vilaine, Isère, Loiret, Lot-et-Garonne, Maine-et-Loire, Manche, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Nord, Oise, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Bas-Rhin, Haut-Rhin, Rhône, Saône-et-Loire, Sarthe, Haute-Savoie, Paris, Yvelines, Deux-Sèvres, Tarn-et-Garonne, Var, Vaucluse, Vendée, Vienne, Haute-Vienne, territoire de Belfort, Essonne, Hauts-de-Seine et Val-de-Marne.
 
 |
 
@@ -414,7 +430,7 @@ Personnel civil des organismes extérieurs relevant du service de santé des arm
 
 |
 
-Ain, Bouches-du-Rhône, Calvados, Charente, Charente-Maritime, Cher, Côte-d'Or, Eure, Eure-et-Loir, Finistère, Gironde, Ille-et-Vilaine, Indre, Indre-et-Loire, Loire-Atlantique, Loiret, Maine-et-Loire, Manche, Marne, Haute-Marne, Meurthe-et-Moselle, Morbihan, Oise, Haut-Rhin, Haute-Saône, Paris, Yvelines et Var
+Ain, Bouches-du-Rhône, Calvados, Charente, Charente-Maritime, Cher, Côte-d'Or, Eure, Eure-et-Loir, Finistère, Gironde, Ille-et-Vilaine, Indre, Indre-et-Loire, Loire-Atlantique, Loiret, Maine-et-Loire, Manche, Marne, Haute-Marne, Meurthe-et-Moselle, Morbihan, Oise, Haut-Rhin, Haute-Saône, Paris, Yvelines et Var.
 
 |
 
@@ -426,7 +442,7 @@ Personnel civil des organismes extérieurs relevant du service industriel de l'a
 
 |
 
-Gironde, Meurthe-et-Moselle, Moselle, Puy-de-Dôme et Var
+Gironde, Meurthe-et-Moselle, Moselle, Puy-de-Dôme et Var.
 
 |
 
@@ -438,7 +454,7 @@ Personnel civil des organismes extérieurs relevant du service industriel de l'a
 
 |
 
-Finistère et Morbihan
+Ain, Finistère et Morbihan.
 
 |
 
@@ -450,7 +466,7 @@ Personnel civil des organismes extérieurs relevant de la structure intégrée d
 
 |
 
-Tous départements
+Tous départements.
 
 |
 
@@ -462,7 +478,7 @@ Personnel civil du ministère de la défense mis à disposition d'organismes ext
 
 |
 
-Tous départements
+Tous départements.
 
 |
 
@@ -474,7 +490,7 @@ Personnel civil des organismes extérieurs du service historique de la défense
 
 |
 
-Indre, Pyrénées-Atlantiques et Val-de-Marne
+Indre, Pyrénées-Atlantiques et Val-de-Marne.
 
 |
 
@@ -486,7 +502,7 @@ Personnel civil des organismes extérieurs du service historique de la défense
 
 |
 
-Charente-Maritime, Finistère, Manche, Morbihan, Paris, Var et Val-de-Marne
+Charente-Maritime, Finistère, Manche, Morbihan, Paris, Var et Val-de-Marne.
 
 |
 
@@ -494,11 +510,11 @@ Directeur régional des finances publiques de Bretagne et du département d'Ille
 
 |
 
-Personnel civil des organismes extérieurs de la direction générale de l'armement
+Personnel civil des centres de prestation de proximité
 
 |
 
-Bouches-du-Rhône, Landes
+Bouches-du-Rhône, Ille-et-Vilaine et Landes
 
 |
 
@@ -522,7 +538,7 @@ Officiers généraux de 2e section rappelés à l'activité sous forme de vacati
 
 |
 
-Tous départements
+Tous départements.
 
 |
 
@@ -534,7 +550,7 @@ Personnel civil et militaire nommé sur un emploi fonctionnel civil
 
 |
 
-Tous départements
+Tous départements.
 
 |
 
@@ -565,3 +581,5 @@ La Réunion
 Directeur régional des finances publiques de La Réunion
 
 |
+
+.
