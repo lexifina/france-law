@@ -1,14 +1,12 @@
 # Article Annexe 2
 
-LISTE DES FORFAITS DE L'INSUFFISANCE RÉNALE CHRONIQUE À DOMICILE OU EN AUTODIALYSE
+LISTE DES FORFAITS DE L'INSUFFISANCE RÉNALE CHRONIQUE À DOMICILE,
 
-CODE
+EN UNITÉ DE DIALYSE MÉDICALISÉE OU EN AUTODIALYSE
 
-|
+CODE |
 
-FORFAIT
-
-|
+FORFAIT |
 
 D11
 
@@ -87,5 +85,13 @@ D23
 |
 
 Forfait de dialyse péritonéale continue ambulatoire pour une hospitalisation d'une durée comprise entre 3 et 6 jours
+
+|
+
+D24
+
+|
+
+Forfait d'entraînement à l'hémodialyse en unité de dialyse médicalisée
 
 |

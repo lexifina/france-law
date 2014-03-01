@@ -1,10 +1,18 @@
 # Article Annexe 1 (suite 1)
 
-LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
+LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOUR" (suite)
 
-02M10T |
+GHS |
+
+GHM |
+
+LIBELLÉ DU GHM |
 
 536
+
+|
+
+02M10T
 
 |
 
@@ -12,13 +20,15 @@ Symptômes et autres recours aux soins de la CMD 02, très courte durée
 
 |
 
-02M10Z |
+535
 
-535 |
+|
 
-Symptômes et autres recours aux soins de la CMD 02 |
+02M10Z
 
-03C051
+|
+
+Symptômes et autres recours aux soins de la CMD 02
 
 |
 
@@ -26,11 +36,11 @@ Symptômes et autres recours aux soins de la CMD 02 |
 
 |
 
-Réparations de fissures labiale et palatine, niveau 1
+03C051
 
 |
 
-03C052
+Réparations de fissures labiale et palatine, niveau 1
 
 |
 
@@ -38,11 +48,11 @@ Réparations de fissures labiale et palatine, niveau 1
 
 |
 
-Réparations de fissures labiale et palatine, niveau 2
+03C052
 
 |
 
-03C053
+Réparations de fissures labiale et palatine, niveau 2
 
 |
 
@@ -50,11 +60,11 @@ Réparations de fissures labiale et palatine, niveau 2
 
 |
 
-Réparations de fissures labiale et palatine, niveau 3
+03C053
 
 |
 
-03C054
+Réparations de fissures labiale et palatine, niveau 3
 
 |
 
@@ -62,11 +72,11 @@ Réparations de fissures labiale et palatine, niveau 3
 
 |
 
-Réparations de fissures labiale et palatine, niveau 4
+03C054
 
 |
 
-03C05T
+Réparations de fissures labiale et palatine, niveau 4
 
 |
 
@@ -74,11 +84,11 @@ Réparations de fissures labiale et palatine, niveau 4
 
 |
 
-Réparations de fissures labiale et palatine, très courte durée
+03C05T
 
 |
 
-03C061
+Réparations de fissures labiale et palatine, très courte durée
 
 |
 
@@ -86,11 +96,11 @@ Réparations de fissures labiale et palatine, très courte durée
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 1
+03C061
 
 |
 
-03C062
+Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -98,11 +108,11 @@ Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 2
+03C062
 
 |
 
-03C063
+Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -110,11 +120,11 @@ Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 3
+03C063
 
 |
 
-03C064
+Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -122,11 +132,11 @@ Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 4
+03C064
 
 |
 
-03C06J
+Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -134,11 +144,11 @@ Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, en ambulatoire
+03C06J
 
 |
 
-03C071
+Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, en ambulatoire
 
 |
 
@@ -146,11 +156,11 @@ Interventions sur les sinus et l'apophyse mastoïde, âge inférieur à 18 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 1
+03C071
 
 |
 
-03C072
+Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -158,11 +168,11 @@ Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 2
+03C072
 
 |
 
-03C073
+Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -170,11 +180,11 @@ Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 3
+03C073
 
 |
 
-03C074
+Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -182,11 +192,11 @@ Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 4
+03C074
 
 |
 
-03C07J
+Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -194,11 +204,11 @@ Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, 
 
 |
 
-Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, en ambulatoire
+03C07J
 
 |
 
-03C091
+Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, en ambulatoire
 
 |
 
@@ -206,11 +216,11 @@ Interventions sur les sinus et l'apophyse mastoïde, âge supérieur à 17 ans, 
 
 |
 
-Rhinoplasties, niveau 1
+03C091
 
 |
 
-03C092
+Rhinoplasties, niveau 1
 
 |
 
@@ -218,11 +228,11 @@ Rhinoplasties, niveau 1
 
 |
 
-Rhinoplasties, niveau 2
+03C092
 
 |
 
-03C093
+Rhinoplasties, niveau 2
 
 |
 
@@ -230,11 +240,11 @@ Rhinoplasties, niveau 2
 
 |
 
-Rhinoplasties, niveau 3
+03C093
 
 |
 
-03C094
+Rhinoplasties, niveau 3
 
 |
 
@@ -242,11 +252,11 @@ Rhinoplasties, niveau 3
 
 |
 
-Rhinoplasties, niveau 4
+03C094
 
 |
 
-03C09J
+Rhinoplasties, niveau 4
 
 |
 
@@ -254,11 +264,11 @@ Rhinoplasties, niveau 4
 
 |
 
-Rhinoplasties, en ambulatoire
+03C09J
 
 |
 
-03C101
+Rhinoplasties, en ambulatoire
 
 |
 
@@ -266,11 +276,11 @@ Rhinoplasties, en ambulatoire
 
 |
 
-Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1
+03C101
 
 |
 
-03C102
+Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -278,11 +288,11 @@ Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, ni
 
 |
 
-Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2
+03C102
 
 |
 
-03C103
+Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -290,11 +300,11 @@ Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, ni
 
 |
 
-Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3
+03C103
 
 |
 
-03C104
+Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -302,11 +312,11 @@ Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, ni
 
 |
 
-Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4
+03C104
 
 |
 
-03C111
+Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -314,11 +324,11 @@ Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, ni
 
 |
 
-Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1
+03C111
 
 |
 
-03C112
+Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -326,11 +336,11 @@ Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, ni
 
 |
 
-Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2
+03C112
 
 |
 
-03C113
+Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -338,11 +348,11 @@ Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, ni
 
 |
 
-Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3
+03C113
 
 |
 
-03C114
+Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -350,11 +360,11 @@ Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, ni
 
 |
 
-Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4
+03C114
 
 |
 
-03C121
+Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -362,11 +372,11 @@ Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, ni
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1
+03C121
 
 |
 
-03C122
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -374,11 +384,11 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2
+03C122
 
 |
 
-03C123
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -386,11 +396,11 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3
+03C123
 
 |
 
-03C124
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -398,11 +408,11 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4
+03C124
 
 |
 
-03C131
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -410,11 +420,11 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1
+03C131
 
 |
 
-03C132
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -422,11 +432,11 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2
+03C132
 
 |
 
-03C133
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -434,11 +444,11 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3
+03C133
 
 |
 
-03C134
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -446,11 +456,11 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4
+03C134
 
 |
 
-03C141
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -458,11 +468,11 @@ Interventions sur les amygdales et les végétations adénoïdes autres que les 
 
 |
 
-Drains transtympaniques, âge inférieur à 18 ans, niveau 1
+03C141
 
 |
 
-03C142
+Drains transtympaniques, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -470,11 +480,11 @@ Drains transtympaniques, âge inférieur à 18 ans, niveau 1
 
 |
 
-Drains transtympaniques, âge inférieur à 18 ans, niveau 2
+03C142
 
 |
 
-03C143
+Drains transtympaniques, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -482,11 +492,11 @@ Drains transtympaniques, âge inférieur à 18 ans, niveau 2
 
 |
 
-Drains transtympaniques, âge inférieur à 18 ans, niveau 3
+03C143
 
 |
 
-03C144
+Drains transtympaniques, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -494,11 +504,11 @@ Drains transtympaniques, âge inférieur à 18 ans, niveau 3
 
 |
 
-Drains transtympaniques, âge inférieur à 18 ans, niveau 4
+03C144
 
 |
 
-03C14J
+Drains transtympaniques, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -506,11 +516,11 @@ Drains transtympaniques, âge inférieur à 18 ans, niveau 4
 
 |
 
-Drains transtympaniques, âge inférieur à 18 ans, en ambulatoire
+03C14J
 
 |
 
-03C151
+Drains transtympaniques, âge inférieur à 18 ans, en ambulatoire
 
 |
 
@@ -518,11 +528,11 @@ Drains transtympaniques, âge inférieur à 18 ans, en ambulatoire
 
 |
 
-Drains transtympaniques, âge supérieur à 17 ans, niveau 1
+03C151
 
 |
 
-03C152
+Drains transtympaniques, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -530,11 +540,11 @@ Drains transtympaniques, âge supérieur à 17 ans, niveau 1
 
 |
 
-Drains transtympaniques, âge supérieur à 17 ans, niveau 2
+03C152
 
 |
 
-03C153
+Drains transtympaniques, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -542,11 +552,11 @@ Drains transtympaniques, âge supérieur à 17 ans, niveau 2
 
 |
 
-Drains transtympaniques, âge supérieur à 17 ans, niveau 3
+03C153
 
 |
 
-03C154
+Drains transtympaniques, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -554,11 +564,11 @@ Drains transtympaniques, âge supérieur à 17 ans, niveau 3
 
 |
 
-Drains transtympaniques, âge supérieur à 17 ans, niveau 4
+03C154
 
 |
 
-03C15J
+Drains transtympaniques, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -566,11 +576,11 @@ Drains transtympaniques, âge supérieur à 17 ans, niveau 4
 
 |
 
-Drains transtympaniques, âge supérieur à 17 ans, en ambulatoire
+03C15J
 
 |
 
-03C161
+Drains transtympaniques, âge supérieur à 17 ans, en ambulatoire
 
 |
 
@@ -578,11 +588,11 @@ Drains transtympaniques, âge supérieur à 17 ans, en ambulatoire
 
 |
 
-Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 1
+03C161
 
 |
 
-03C162
+Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 1
 
 |
 
@@ -590,11 +600,11 @@ Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou
 
 |
 
-Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 2
+03C162
 
 |
 
-03C163
+Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 2
 
 |
 
@@ -602,11 +612,11 @@ Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou
 
 |
 
-Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 3
+03C163
 
 |
 
-03C164
+Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 3
 
 |
 
@@ -614,11 +624,11 @@ Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou
 
 |
 
-Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 4
+03C164
 
 |
 
-03C16J
+Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, niveau 4
 
 |
 
@@ -626,11 +636,11 @@ Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou
 
 |
 
-Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, en ambulatoire
+03C16J
 
 |
 
-03C171
+Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou le cou, en ambulatoire
 
 |
 
@@ -638,11 +648,11 @@ Autres interventions chirurgicales portant sur les oreilles, le nez, la gorge ou
 
 |
 
-Interventions sur la bouche, niveau 1
+03C171
 
 |
 
-03C172
+Interventions sur la bouche, niveau 1
 
 |
 
@@ -650,11 +660,11 @@ Interventions sur la bouche, niveau 1
 
 |
 
-Interventions sur la bouche, niveau 2
+03C172
 
 |
 
-03C173
+Interventions sur la bouche, niveau 2
 
 |
 
@@ -662,11 +672,11 @@ Interventions sur la bouche, niveau 2
 
 |
 
-Interventions sur la bouche, niveau 3
+03C173
 
 |
 
-03C174
+Interventions sur la bouche, niveau 3
 
 |
 
@@ -674,11 +684,11 @@ Interventions sur la bouche, niveau 3
 
 |
 
-Interventions sur la bouche, niveau 4
+03C174
 
 |
 
-03C17J
+Interventions sur la bouche, niveau 4
 
 |
 
@@ -686,11 +696,11 @@ Interventions sur la bouche, niveau 4
 
 |
 
-Interventions sur la bouche, en ambulatoire
+03C17J
 
 |
 
-03C181
+Interventions sur la bouche, en ambulatoire
 
 |
 
@@ -698,11 +708,11 @@ Interventions sur la bouche, en ambulatoire
 
 |
 
-Pose d'implants cochléaires, niveau 1
+03C181
 
 |
 
-03C182
+Pose d'implants cochléaires, niveau 1
 
 |
 
@@ -710,11 +720,11 @@ Pose d'implants cochléaires, niveau 1
 
 |
 
-Pose d'implants cochléaires, niveau 2
+03C182
 
 |
 
-03C183
+Pose d'implants cochléaires, niveau 2
 
 |
 
@@ -722,11 +732,11 @@ Pose d'implants cochléaires, niveau 2
 
 |
 
-Pose d'implants cochléaires, niveau 3
+03C183
 
 |
 
-03C184
+Pose d'implants cochléaires, niveau 3
 
 |
 
@@ -734,11 +744,11 @@ Pose d'implants cochléaires, niveau 3
 
 |
 
-Pose d'implants cochléaires, niveau 4
+03C184
 
 |
 
-03C191
+Pose d'implants cochléaires, niveau 4
 
 |
 
@@ -746,11 +756,11 @@ Pose d'implants cochléaires, niveau 4
 
 |
 
-Ostéotomies de la face, niveau 1
+03C191
 
 |
 
-03C192
+Ostéotomies de la face, niveau 1
 
 |
 
@@ -758,11 +768,11 @@ Ostéotomies de la face, niveau 1
 
 |
 
-Ostéotomies de la face, niveau 2
+03C192
 
 |
 
-03C193
+Ostéotomies de la face, niveau 2
 
 |
 
@@ -770,11 +780,11 @@ Ostéotomies de la face, niveau 2
 
 |
 
-Ostéotomies de la face, niveau 3
+03C193
 
 |
 
-03C194
+Ostéotomies de la face, niveau 3
 
 |
 
@@ -782,11 +792,11 @@ Ostéotomies de la face, niveau 3
 
 |
 
-Ostéotomies de la face, niveau 4
+03C194
 
 |
 
-03C19J
+Ostéotomies de la face, niveau 4
 
 |
 
@@ -794,11 +804,11 @@ Ostéotomies de la face, niveau 4
 
 |
 
-Ostéotomies de la face, en ambulatoire
+03C19J
 
 |
 
-03C201
+Ostéotomies de la face, en ambulatoire
 
 |
 
@@ -806,11 +816,11 @@ Ostéotomies de la face, en ambulatoire
 
 |
 
-Interventions de reconstruction de l'oreille moyenne, niveau 1
+03C201
 
 |
 
-03C202
+Interventions de reconstruction de l'oreille moyenne, niveau 1
 
 |
 
@@ -818,11 +828,11 @@ Interventions de reconstruction de l'oreille moyenne, niveau 1
 
 |
 
-Interventions de reconstruction de l'oreille moyenne, niveau 2
+03C202
 
 |
 
-03C203
+Interventions de reconstruction de l'oreille moyenne, niveau 2
 
 |
 
@@ -830,11 +840,11 @@ Interventions de reconstruction de l'oreille moyenne, niveau 2
 
 |
 
-Interventions de reconstruction de l'oreille moyenne, niveau 3
+03C203
 
 |
 
-03C204
+Interventions de reconstruction de l'oreille moyenne, niveau 3
 
 |
 
@@ -842,11 +852,11 @@ Interventions de reconstruction de l'oreille moyenne, niveau 3
 
 |
 
-Interventions de reconstruction de l'oreille moyenne, niveau 4
+03C204
 
 |
 
-03C20J
+Interventions de reconstruction de l'oreille moyenne, niveau 4
 
 |
 
@@ -854,11 +864,11 @@ Interventions de reconstruction de l'oreille moyenne, niveau 4
 
 |
 
-Interventions de reconstruction de l'oreille moyenne, en ambulatoire
+03C20J
 
 |
 
-03C211
+Interventions de reconstruction de l'oreille moyenne, en ambulatoire
 
 |
 
@@ -866,11 +876,11 @@ Interventions de reconstruction de l'oreille moyenne, en ambulatoire
 
 |
 
-Interventions pour oreilles décollées, niveau 1
+03C211
 
 |
 
-03C212
+Interventions pour oreilles décollées, niveau 1
 
 |
 
@@ -878,11 +888,11 @@ Interventions pour oreilles décollées, niveau 1
 
 |
 
-Interventions pour oreilles décollées, niveau 2
+03C212
 
 |
 
-03C213
+Interventions pour oreilles décollées, niveau 2
 
 |
 
@@ -890,11 +900,11 @@ Interventions pour oreilles décollées, niveau 2
 
 |
 
-Interventions pour oreilles décollées, niveau 3
+03C213
 
 |
 
-03C214
+Interventions pour oreilles décollées, niveau 3
 
 |
 
@@ -902,11 +912,11 @@ Interventions pour oreilles décollées, niveau 3
 
 |
 
-Interventions pour oreilles décollées, niveau 4
+03C214
 
 |
 
-03C21J
+Interventions pour oreilles décollées, niveau 4
 
 |
 
@@ -914,11 +924,11 @@ Interventions pour oreilles décollées, niveau 4
 
 |
 
-Interventions pour oreilles décollées, en ambulatoire
+03C21J
 
 |
 
-03C241
+Interventions pour oreilles décollées, en ambulatoire
 
 |
 
@@ -926,11 +936,11 @@ Interventions pour oreilles décollées, en ambulatoire
 
 |
 
-Interventions sur les glandes salivaires, niveau 1
+03C241
 
 |
 
-03C242
+Interventions sur les glandes salivaires, niveau 1
 
 |
 
@@ -938,11 +948,11 @@ Interventions sur les glandes salivaires, niveau 1
 
 |
 
-Interventions sur les glandes salivaires, niveau 2
+03C242
 
 |
 
-03C243
+Interventions sur les glandes salivaires, niveau 2
 
 |
 
@@ -950,11 +960,11 @@ Interventions sur les glandes salivaires, niveau 2
 
 |
 
-Interventions sur les glandes salivaires, niveau 3
+03C243
 
 |
 
-03C244
+Interventions sur les glandes salivaires, niveau 3
 
 |
 
@@ -962,11 +972,11 @@ Interventions sur les glandes salivaires, niveau 3
 
 |
 
-Interventions sur les glandes salivaires, niveau 4
+03C244
 
 |
 
-03C24J
+Interventions sur les glandes salivaires, niveau 4
 
 |
 
@@ -974,11 +984,11 @@ Interventions sur les glandes salivaires, niveau 4
 
 |
 
-Interventions sur les glandes salivaires, en ambulatoire
+03C24J
 
 |
 
-03C251
+Interventions sur les glandes salivaires, en ambulatoire
 
 |
 
@@ -986,11 +996,11 @@ Interventions sur les glandes salivaires, en ambulatoire
 
 |
 
-Interventions majeures sur la tête et le cou, niveau 1
+03C251
 
 |
 
-03C252
+Interventions majeures sur la tête et le cou, niveau 1
 
 |
 
@@ -998,11 +1008,11 @@ Interventions majeures sur la tête et le cou, niveau 1
 
 |
 
-Interventions majeures sur la tête et le cou, niveau 2
+03C252
 
 |
 
-03C253
+Interventions majeures sur la tête et le cou, niveau 2
 
 |
 
@@ -1010,11 +1020,11 @@ Interventions majeures sur la tête et le cou, niveau 2
 
 |
 
-Interventions majeures sur la tête et le cou, niveau 3
+03C253
 
 |
 
-03C254
+Interventions majeures sur la tête et le cou, niveau 3
 
 |
 
@@ -1022,11 +1032,11 @@ Interventions majeures sur la tête et le cou, niveau 3
 
 |
 
-Interventions majeures sur la tête et le cou, niveau 4
+03C254
 
 |
 
-03C261
+Interventions majeures sur la tête et le cou, niveau 4
 
 |
 
@@ -1034,11 +1044,11 @@ Interventions majeures sur la tête et le cou, niveau 4
 
 |
 
-Autres interventions sur la tête et le cou, niveau 1
+03C261
 
 |
 
-03C262
+Autres interventions sur la tête et le cou, niveau 1
 
 |
 
@@ -1046,11 +1056,11 @@ Autres interventions sur la tête et le cou, niveau 1
 
 |
 
-Autres interventions sur la tête et le cou, niveau 2
+03C262
 
 |
 
-03C263
+Autres interventions sur la tête et le cou, niveau 2
 
 |
 
@@ -1058,11 +1068,11 @@ Autres interventions sur la tête et le cou, niveau 2
 
 |
 
-Autres interventions sur la tête et le cou, niveau 3
+03C263
 
 |
 
-03C264
+Autres interventions sur la tête et le cou, niveau 3
 
 |
 
@@ -1070,11 +1080,11 @@ Autres interventions sur la tête et le cou, niveau 3
 
 |
 
-Autres interventions sur la tête et le cou, niveau 4
+03C264
 
 |
 
-03C27J
+Autres interventions sur la tête et le cou, niveau 4
 
 |
 
@@ -1082,11 +1092,11 @@ Autres interventions sur la tête et le cou, niveau 4
 
 |
 
-Interventions sur les amygdales, en ambulatoire
+03C27J
 
 |
 
-03C28J
+Interventions sur les amygdales, en ambulatoire
 
 |
 
@@ -1094,11 +1104,11 @@ Interventions sur les amygdales, en ambulatoire
 
 |
 
-Interventions sur les végétations adénoïdes, en ambulatoire
+03C28J
 
 |
 
-03C291
+Interventions sur les végétations adénoïdes, en ambulatoire
 
 |
 
@@ -1106,11 +1116,11 @@ Interventions sur les végétations adénoïdes, en ambulatoire
 
 |
 
-Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, niveau 1
+03C291
 
 |
 
-03C292
+Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, niveau 1
 
 |
 
@@ -1118,11 +1128,11 @@ Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, ni
 
 |
 
-Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, niveau 2
+03C292
 
 |
 
-03C293
+Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, niveau 2
 
 |
 
@@ -1130,11 +1140,11 @@ Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, ni
 
 |
 
-Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, niveau 3
+03C293
 
 |
 
-03C294
+Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, niveau 3
 
 |
 
@@ -1142,11 +1152,11 @@ Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, ni
 
 |
 
-Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, niveau 4
+03C294
 
 |
 
-03C29J
+Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, niveau 4
 
 |
 
@@ -1154,11 +1164,11 @@ Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, ni
 
 |
 
-Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, en ambulatoire
+03C29J
 
 |
 
-03C301
+Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, en ambulatoire
 
 |
 
@@ -1166,11 +1176,11 @@ Autres interventions sur l'oreille, le nez ou la gorge pour tumeurs malignes, en
 
 |
 
-Interventions sur l'oreille externe, niveau 1
+03C301
 
 |
 
-03C302
+Interventions sur l'oreille externe, niveau 1
 
 |
 
@@ -1178,11 +1188,11 @@ Interventions sur l'oreille externe, niveau 1
 
 |
 
-Interventions sur l'oreille externe, niveau 2
+03C302
 
 |
 
-03C303
+Interventions sur l'oreille externe, niveau 2
 
 |
 
@@ -1190,11 +1200,11 @@ Interventions sur l'oreille externe, niveau 2
 
 |
 
-Interventions sur l'oreille externe, niveau 3
+03C303
 
 |
 
-03C304
+Interventions sur l'oreille externe, niveau 3
 
 |
 
@@ -1202,11 +1212,11 @@ Interventions sur l'oreille externe, niveau 3
 
 |
 
-Interventions sur l'oreille externe, niveau 4
+03C304
 
 |
 
-03C30J
+Interventions sur l'oreille externe, niveau 4
 
 |
 
@@ -1214,11 +1224,11 @@ Interventions sur l'oreille externe, niveau 4
 
 |
 
-Interventions sur l'oreille externe, en ambulatoire
+03C30J
 
 |
 
-03K021
+Interventions sur l'oreille externe, en ambulatoire
 
 |
 
@@ -1226,11 +1236,11 @@ Interventions sur l'oreille externe, en ambulatoire
 
 |
 
-Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 1
+03K021
 
 |
 
-03K022
+Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 1
 
 |
 
@@ -1238,11 +1248,11 @@ Affections de la bouche et des dents avec certaines extractions, réparations et
 
 |
 
-Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 2
+03K022
 
 |
 
-03K023
+Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 2
 
 |
 
@@ -1250,11 +1260,11 @@ Affections de la bouche et des dents avec certaines extractions, réparations et
 
 |
 
-Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 3
+03K023
 
 |
 
-03K024
+Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 3
 
 |
 
@@ -1262,11 +1272,11 @@ Affections de la bouche et des dents avec certaines extractions, réparations et
 
 |
 
-Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 4
+03K024
 
 |
 
-03K02J
+Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, niveau 4
 
 |
 
@@ -1274,11 +1284,11 @@ Affections de la bouche et des dents avec certaines extractions, réparations et
 
 |
 
-Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, en ambulatoire
+03K02J
 
 |
 
-03K03J
+Affections de la bouche et des dents avec certaines extractions, réparations et prothèses dentaires, en ambulatoire
 
 |
 
@@ -1286,11 +1296,11 @@ Affections de la bouche et des dents avec certaines extractions, réparations et
 
 |
 
-Séjours comprenant une endoscopie oto-rhino-laryngologique, en ambulatoire
+03K03J
 
 |
 
-03K04J
+Séjours comprenant une endoscopie oto-rhino-laryngologique, en ambulatoire
 
 |
 
@@ -1298,11 +1308,11 @@ Séjours comprenant une endoscopie oto-rhino-laryngologique, en ambulatoire
 
 |
 
-Séjours comprenant certains actes non opératoires de la CMD 03, en ambulatoire
+03K04J
 
 |
 
-03M021
+Séjours comprenant certains actes non opératoires de la CMD 03, en ambulatoire
 
 |
 
@@ -1310,11 +1320,11 @@ Séjours comprenant certains actes non opératoires de la CMD 03, en ambulatoire
 
 |
 
-Traumatismes et déformations du nez, niveau 1
+03M021
 
 |
 
-03M022
+Traumatismes et déformations du nez, niveau 1
 
 |
 
@@ -1322,11 +1332,11 @@ Traumatismes et déformations du nez, niveau 1
 
 |
 
-Traumatismes et déformations du nez, niveau 2
+03M022
 
 |
 
-03M023
+Traumatismes et déformations du nez, niveau 2
 
 |
 
@@ -1334,11 +1344,11 @@ Traumatismes et déformations du nez, niveau 2
 
 |
 
-Traumatismes et déformations du nez, niveau 3
+03M023
 
 |
 
-03M024
+Traumatismes et déformations du nez, niveau 3
 
 |
 
@@ -1346,11 +1356,11 @@ Traumatismes et déformations du nez, niveau 3
 
 |
 
-Traumatismes et déformations du nez, niveau 4
+03M024
 
 |
 
-03M02T
+Traumatismes et déformations du nez, niveau 4
 
 |
 
@@ -1358,11 +1368,11 @@ Traumatismes et déformations du nez, niveau 4
 
 |
 
-Traumatismes et déformations du nez, très courte durée
+03M02T
 
 |
 
-03M031
+Traumatismes et déformations du nez, très courte durée
 
 |
 
@@ -1370,11 +1380,11 @@ Traumatismes et déformations du nez, très courte durée
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 1
+03M031
 
 |
 
-03M032
+Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -1382,11 +1392,11 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge inf
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 2
+03M032
 
 |
 
-03M033
+Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -1394,11 +1404,11 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge inf
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 3
+03M033
 
 |
 
-03M034
+Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -1406,11 +1416,11 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge inf
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 4
+03M034
 
 |
 
-03M03T
+Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -1418,11 +1428,11 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge inf
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, très courte durée
+03M03T
 
 |
 
-03M041
+Otites moyennes et autres infections des voies aériennes supérieures, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -1430,11 +1440,11 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge inf
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 1
+03M041
 
 |
 
-03M042
+Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -1442,11 +1452,11 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge sup
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 2
+03M042
 
 |
 
-03M043
+Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -1454,11 +1464,11 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge sup
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 3
+03M043
 
 |
 
-03M044
+Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -1466,11 +1476,11 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge sup
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 4
+03M044
 
 |
 
-03M04T
+Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -1478,11 +1488,11 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge sup
 
 |
 
-Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, très courte durée
+03M04T
 
 |
 
-03M051
+Otites moyennes et autres infections des voies aériennes supérieures, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -1490,11 +1500,11 @@ Otites moyennes et autres infections des voies aériennes supérieures, âge sup
 
 |
 
-Troubles de l'équilibre, niveau 1
+03M051
 
 |
 
-03M052
+Troubles de l'équilibre, niveau 1
 
 |
 
@@ -1502,11 +1512,11 @@ Troubles de l'équilibre, niveau 1
 
 |
 
-Troubles de l'équilibre, niveau 2
+03M052
 
 |
 
-03M053
+Troubles de l'équilibre, niveau 2
 
 |
 
@@ -1514,11 +1524,11 @@ Troubles de l'équilibre, niveau 2
 
 |
 
-Troubles de l'équilibre, niveau 3
+03M053
 
 |
 
-03M054
+Troubles de l'équilibre, niveau 3
 
 |
 
@@ -1526,11 +1536,11 @@ Troubles de l'équilibre, niveau 3
 
 |
 
-Troubles de l'équilibre, niveau 4
+03M054
 
 |
 
-03M05T
+Troubles de l'équilibre, niveau 4
 
 |
 
@@ -1538,11 +1548,11 @@ Troubles de l'équilibre, niveau 4
 
 |
 
-Troubles de l'équilibre, très courte durée
+03M05T
 
 |
 
-03M061
+Troubles de l'équilibre, très courte durée
 
 |
 
@@ -1550,11 +1560,11 @@ Troubles de l'équilibre, très courte durée
 
 |
 
-Epistaxis, niveau 1
+03M061
 
 |
 
-03M062
+Epistaxis, niveau 1
 
 |
 
@@ -1562,11 +1572,11 @@ Epistaxis, niveau 1
 
 |
 
-Epistaxis, niveau 2
+03M062
 
 |
 
-03M063
+Epistaxis, niveau 2
 
 |
 
@@ -1574,11 +1584,11 @@ Epistaxis, niveau 2
 
 |
 
-Epistaxis, niveau 3
+03M063
 
 |
 
-03M064
+Epistaxis, niveau 3
 
 |
 
@@ -1586,11 +1596,11 @@ Epistaxis, niveau 3
 
 |
 
-Epistaxis, niveau 4
+03M064
 
 |
 
-03M06T
+Epistaxis, niveau 4
 
 |
 
@@ -1598,11 +1608,11 @@ Epistaxis, niveau 4
 
 |
 
-Epistaxis, très courte durée
+03M06T
 
 |
 
-03M071
+Epistaxis, très courte durée
 
 |
 
@@ -1610,11 +1620,11 @@ Epistaxis, très courte durée
 
 |
 
-Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 1
+03M071
 
 |
 
-03M072
+Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 1
 
 |
 
@@ -1622,11 +1632,11 @@ Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 1
 
 |
 
-Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 2
+03M072
 
 |
 
-03M073
+Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 2
 
 |
 
@@ -1634,11 +1644,11 @@ Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 2
 
 |
 
-Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 3
+03M073
 
 |
 
-03M074
+Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 3
 
 |
 
@@ -1646,11 +1656,11 @@ Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 3
 
 |
 
-Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 4
+03M074
 
 |
 
-03M07T
+Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 4
 
 |
 
@@ -1658,11 +1668,11 @@ Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, niveau 4
 
 |
 
-Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, très courte durée
+03M07T
 
 |
 
-03M081
+Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, très courte durée
 
 |
 
@@ -1670,11 +1680,11 @@ Tumeurs malignes des oreilles, du nez, de la gorge ou de la bouche, très courte
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 1
+03M081
 
 |
 
-03M082
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -1682,11 +1692,11 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 2
+03M082
 
 |
 
-03M083
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -1694,11 +1704,11 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 3
+03M083
 
 |
 
-03M084
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -1706,11 +1716,11 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 4
+03M084
 
 |
 
-03M08T
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -1718,11 +1728,11 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, très courte durée
+03M08T
 
 |
 
-03M091
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -1730,11 +1740,11 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 1
+03M091
 
 |
 
-03M092
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -1742,11 +1752,11 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 2
+03M092
 
 |
 
-03M093
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -1754,11 +1764,11 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 3
+03M093
 
 |
 
-03M094
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -1766,11 +1776,11 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 4
+03M094
 
 |
 
-03M09T
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -1778,11 +1788,11 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, très courte durée
+03M09T
 
 |
 
-03M101
+Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -1790,11 +1800,11 @@ Autres diagnostics portant sur les oreilles, le nez, la gorge ou la bouche, âge
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 1
+03M101
 
 |
 
-03M102
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -1802,11 +1812,11 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 2
+03M102
 
 |
 
-03M103
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -1814,11 +1824,11 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 3
+03M103
 
 |
 
-03M104
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -1826,11 +1836,11 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 4
+03M104
 
 |
 
-03M10T
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -1838,11 +1848,11 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, très courte durée
+03M10T
 
 |
 
-03M111
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -1850,11 +1860,11 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 1
+03M111
 
 |
 
-03M112
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -1862,11 +1872,11 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 2
+03M112
 
 |
 
-03M113
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -1874,11 +1884,11 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 3
+03M113
 
 |
 
-03M114
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -1886,11 +1896,11 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 4
+03M114
 
 |
 
-03M11T
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -1898,11 +1908,11 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, très courte durée
+03M11T
 
 |
 
-03M121
+Affections de la bouche et des dents sans certaines extractions, réparations ou prothèses dentaires, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -1910,11 +1920,11 @@ Affections de la bouche et des dents sans certaines extractions, réparations ou
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 1
+03M121
 
 |
 
-03M122
+Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -1922,11 +1932,11 @@ Infections aiguës sévères des voies aériennes supérieures, âge inférieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 2
+03M122
 
 |
 
-03M123
+Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -1934,11 +1944,11 @@ Infections aiguës sévères des voies aériennes supérieures, âge inférieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 3
+03M123
 
 |
 
-03M124
+Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -1946,11 +1956,11 @@ Infections aiguës sévères des voies aériennes supérieures, âge inférieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 4
+03M124
 
 |
 
-03M131
+Infections aiguës sévères des voies aériennes supérieures, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -1958,11 +1968,11 @@ Infections aiguës sévères des voies aériennes supérieures, âge inférieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 1
+03M131
 
 |
 
-03M132
+Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -1970,11 +1980,11 @@ Infections aiguës sévères des voies aériennes supérieures, âge supérieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 2
+03M132
 
 |
 
-03M133
+Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -1982,11 +1992,11 @@ Infections aiguës sévères des voies aériennes supérieures, âge supérieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 3
+03M133
 
 |
 
-03M134
+Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -1994,11 +2004,11 @@ Infections aiguës sévères des voies aériennes supérieures, âge supérieur 
 
 |
 
-Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 4
+03M134
 
 |
 
-03M14Z
+Infections aiguës sévères des voies aériennes supérieures, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2006,11 +2016,11 @@ Infections aiguës sévères des voies aériennes supérieures, âge supérieur 
 
 |
 
-Explorations et surveillance pour affections ORL
+03M14Z
 
 |
 
-03M15T
+Explorations et surveillance pour affections ORL
 
 |
 
@@ -2018,11 +2028,11 @@ Explorations et surveillance pour affections ORL
 
 |
 
-Symptômes et autres recours aux soins de la CMD 03, très courte durée
+03M15T
 
 |
 
-03M15Z
+Symptômes et autres recours aux soins de la CMD 03, très courte durée
 
 |
 
@@ -2030,11 +2040,11 @@ Symptômes et autres recours aux soins de la CMD 03, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 03
+03M15Z
 
 |
 
-04C021
+Symptômes et autres recours aux soins de la CMD 03
 
 |
 
@@ -2042,11 +2052,11 @@ Symptômes et autres recours aux soins de la CMD 03
 
 |
 
-Interventions majeures sur le thorax, niveau 1
+04C021
 
 |
 
-04C022
+Interventions majeures sur le thorax, niveau 1
 
 |
 
@@ -2054,11 +2064,11 @@ Interventions majeures sur le thorax, niveau 1
 
 |
 
-Interventions majeures sur le thorax, niveau 2
+04C022
 
 |
 
-04C023
+Interventions majeures sur le thorax, niveau 2
 
 |
 
@@ -2066,11 +2076,11 @@ Interventions majeures sur le thorax, niveau 2
 
 |
 
-Interventions majeures sur le thorax, niveau 3
+04C023
 
 |
 
-04C024
+Interventions majeures sur le thorax, niveau 3
 
 |
 
@@ -2078,11 +2088,11 @@ Interventions majeures sur le thorax, niveau 3
 
 |
 
-Interventions majeures sur le thorax, niveau 4
+04C024
 
 |
 
-04C031
+Interventions majeures sur le thorax, niveau 4
 
 |
 
@@ -2090,11 +2100,11 @@ Interventions majeures sur le thorax, niveau 4
 
 |
 
-Autres interventions chirurgicales sur le système respiratoire, niveau 1
+04C031
 
 |
 
-04C032
+Autres interventions chirurgicales sur le système respiratoire, niveau 1
 
 |
 
@@ -2102,11 +2112,11 @@ Autres interventions chirurgicales sur le système respiratoire, niveau 1
 
 |
 
-Autres interventions chirurgicales sur le système respiratoire, niveau 2
+04C032
 
 |
 
-04C033
+Autres interventions chirurgicales sur le système respiratoire, niveau 2
 
 |
 
@@ -2114,11 +2124,11 @@ Autres interventions chirurgicales sur le système respiratoire, niveau 2
 
 |
 
-Autres interventions chirurgicales sur le système respiratoire, niveau 3
+04C033
 
 |
 
-04C034
+Autres interventions chirurgicales sur le système respiratoire, niveau 3
 
 |
 
@@ -2126,11 +2136,11 @@ Autres interventions chirurgicales sur le système respiratoire, niveau 3
 
 |
 
-Autres interventions chirurgicales sur le système respiratoire, niveau 4
+04C034
 
 |
 
-04C041
+Autres interventions chirurgicales sur le système respiratoire, niveau 4
 
 |
 
@@ -2138,11 +2148,11 @@ Autres interventions chirurgicales sur le système respiratoire, niveau 4
 
 |
 
-Interventions sous thoracoscopie, niveau 1
+04C041
 
 |
 
-04C042
+Interventions sous thoracoscopie, niveau 1
 
 |
 
@@ -2150,11 +2160,11 @@ Interventions sous thoracoscopie, niveau 1
 
 |
 
-Interventions sous thoracoscopie, niveau 2
+04C042
 
 |
 
-04C043
+Interventions sous thoracoscopie, niveau 2
 
 |
 
@@ -2162,11 +2172,11 @@ Interventions sous thoracoscopie, niveau 2
 
 |
 
-Interventions sous thoracoscopie, niveau 3
+04C043
 
 |
 
-04C044
+Interventions sous thoracoscopie, niveau 3
 
 |
 
@@ -2174,11 +2184,11 @@ Interventions sous thoracoscopie, niveau 3
 
 |
 
-Interventions sous thoracoscopie, niveau 4
+04C044
 
 |
 
-04K02J
+Interventions sous thoracoscopie, niveau 4
 
 |
 
@@ -2186,11 +2196,11 @@ Interventions sous thoracoscopie, niveau 4
 
 |
 
-Séjours comprenant une endoscopie bronchique, en ambulatoire
+04K02J
 
 |
 
-04M021
+Séjours comprenant une endoscopie bronchique, en ambulatoire
 
 |
 
@@ -2198,11 +2208,11 @@ Séjours comprenant une endoscopie bronchique, en ambulatoire
 
 |
 
-Bronchites et asthme, âge inférieur à 18 ans, niveau 1
+04M021
 
 |
 
-04M022
+Bronchites et asthme, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -2210,11 +2220,11 @@ Bronchites et asthme, âge inférieur à 18 ans, niveau 1
 
 |
 
-Bronchites et asthme, âge inférieur à 18 ans, niveau 2
+04M022
 
 |
 
-04M023
+Bronchites et asthme, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -2222,11 +2232,11 @@ Bronchites et asthme, âge inférieur à 18 ans, niveau 2
 
 |
 
-Bronchites et asthme, âge inférieur à 18 ans, niveau 3
+04M023
 
 |
 
-04M024
+Bronchites et asthme, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -2234,11 +2244,11 @@ Bronchites et asthme, âge inférieur à 18 ans, niveau 3
 
 |
 
-Bronchites et asthme, âge inférieur à 18 ans, niveau 4
+04M024
 
 |
 
-04M02T
+Bronchites et asthme, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -2246,11 +2256,11 @@ Bronchites et asthme, âge inférieur à 18 ans, niveau 4
 
 |
 
-Bronchites et asthme, âge inférieur à 18 ans, très courte durée
+04M02T
 
 |
 
-04M031
+Bronchites et asthme, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -2258,11 +2268,11 @@ Bronchites et asthme, âge inférieur à 18 ans, très courte durée
 
 |
 
-Bronchites et asthme, âge supérieur à 17 ans, niveau 1
+04M031
 
 |
 
-04M032
+Bronchites et asthme, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2270,11 +2280,11 @@ Bronchites et asthme, âge supérieur à 17 ans, niveau 1
 
 |
 
-Bronchites et asthme, âge supérieur à 17 ans, niveau 2
+04M032
 
 |
 
-04M033
+Bronchites et asthme, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2282,11 +2292,11 @@ Bronchites et asthme, âge supérieur à 17 ans, niveau 2
 
 |
 
-Bronchites et asthme, âge supérieur à 17 ans, niveau 3
+04M033
 
 |
 
-04M034
+Bronchites et asthme, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2294,11 +2304,11 @@ Bronchites et asthme, âge supérieur à 17 ans, niveau 3
 
 |
 
-Bronchites et asthme, âge supérieur à 17 ans, niveau 4
+04M034
 
 |
 
-04M03T
+Bronchites et asthme, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2306,11 +2316,11 @@ Bronchites et asthme, âge supérieur à 17 ans, niveau 4
 
 |
 
-Bronchites et asthme, âge supérieur à 17 ans, très courte durée
+04M03T
 
 |
 
-04M041
+Bronchites et asthme, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -2318,11 +2328,11 @@ Bronchites et asthme, âge supérieur à 17 ans, très courte durée
 
 |
 
-Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 1
+04M041
 
 |
 
-04M042
+Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -2330,11 +2340,11 @@ Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 1
 
 |
 
-Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 2
+04M042
 
 |
 
-04M043
+Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -2342,11 +2352,11 @@ Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 2
 
 |
 
-Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 3
+04M043
 
 |
 
-04M044
+Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -2354,11 +2364,11 @@ Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 3
 
 |
 
-Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 4
+04M044
 
 |
 
-04M051
+Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -2366,11 +2376,11 @@ Pneumonies et pleurésies banales, âge inférieur à 18 ans, niveau 4
 
 |
 
-Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 1
+04M051
 
 |
 
-04M052
+Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2378,11 +2388,11 @@ Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 1
 
 |
 
-Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 2
+04M052
 
 |
 
-04M053
+Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2390,11 +2400,11 @@ Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 2
 
 |
 
-Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 3
+04M053
 
 |
 
-04M054
+Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2402,11 +2412,11 @@ Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 3
 
 |
 
-Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 4
+04M054
 
 |
 
-04M05T
+Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2414,11 +2424,11 @@ Pneumonies et pleurésies banales, âge supérieur à 17 ans, niveau 4
 
 |
 
-Transferts et autres séjours pour pneumonies et pleurésies banales, âge supérieur à 17 ans
+04M05T
 
 |
 
-04M061
+Transferts et autres séjours pour pneumonies et pleurésies banales, âge supérieur à 17 ans
 
 |
 
@@ -2426,11 +2436,11 @@ Transferts et autres séjours pour pneumonies et pleurésies banales, âge supé
 
 |
 
-Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 1
+04M061
 
 |
 
-04M062
+Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -2438,11 +2448,11 @@ Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 1
 
 |
 
-Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 2
+04M062
 
 |
 
-04M063
+Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -2450,11 +2460,11 @@ Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 2
 
 |
 
-Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 3
+04M063
 
 |
 
-04M064
+Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -2462,11 +2472,11 @@ Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 3
 
 |
 
-Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 4
+04M064
 
 |
 
-04M06T
+Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -2474,11 +2484,11 @@ Infections et inflammations respiratoires, âge inférieur à 18 ans, niveau 4
 
 |
 
-Transferts et autres séjours courts pour infections et inflammations respiratoires, âge inférieur à 18 ans
+04M06T
 
 |
 
-04M071
+Transferts et autres séjours courts pour infections et inflammations respiratoires, âge inférieur à 18 ans
 
 |
 
@@ -2486,11 +2496,11 @@ Transferts et autres séjours courts pour infections et inflammations respiratoi
 
 |
 
-Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 1
+04M071
 
 |
 
-04M072
+Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2498,11 +2508,11 @@ Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 1
 
 |
 
-Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 2
+04M072
 
 |
 
-04M073
+Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2510,11 +2520,11 @@ Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 2
 
 |
 
-Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 3
+04M073
 
 |
 
-04M074
+Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2522,11 +2532,11 @@ Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 3
 
 |
 
-Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 4
+04M074
 
 |
 
-04M07T
+Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2534,11 +2544,11 @@ Infections et inflammations respiratoires, âge supérieur à 17 ans, niveau 4
 
 |
 
-Transferts et autres séjours courts pour infections et inflammations respiratoires, âge supérieur à 17 ans
+04M07T
 
 |
 
-04M081
+Transferts et autres séjours courts pour infections et inflammations respiratoires, âge supérieur à 17 ans
 
 |
 
@@ -2546,11 +2556,11 @@ Transferts et autres séjours courts pour infections et inflammations respiratoi
 
 |
 
-Bronchopneumopathies chroniques, niveau 1
+04M081
 
 |
 
-04M082
+Bronchopneumopathies chroniques, niveau 1
 
 |
 
@@ -2558,11 +2568,11 @@ Bronchopneumopathies chroniques, niveau 1
 
 |
 
-Bronchopneumopathies chroniques, niveau 2
+04M082
 
 |
 
-04M083
+Bronchopneumopathies chroniques, niveau 2
 
 |
 
@@ -2570,11 +2580,11 @@ Bronchopneumopathies chroniques, niveau 2
 
 |
 
-Bronchopneumopathies chroniques, niveau 3
+04M083
 
 |
 
-04M084
+Bronchopneumopathies chroniques, niveau 3
 
 |
 
@@ -2582,11 +2592,11 @@ Bronchopneumopathies chroniques, niveau 3
 
 |
 
-Bronchopneumopathies chroniques, niveau 4
+04M084
 
 |
 
-04M08T
+Bronchopneumopathies chroniques, niveau 4
 
 |
 
@@ -2594,11 +2604,11 @@ Bronchopneumopathies chroniques, niveau 4
 
 |
 
-Bronchopneumopathies chroniques, très courte durée
+04M08T
 
 |
 
-04M091
+Bronchopneumopathies chroniques, très courte durée
 
 |
 
@@ -2606,11 +2616,11 @@ Bronchopneumopathies chroniques, très courte durée
 
 |
 
-Tumeurs de l'appareil respiratoire, niveau 1
+04M091
 
 |
 
-04M092
+Tumeurs de l'appareil respiratoire, niveau 1
 
 |
 
@@ -2618,11 +2628,11 @@ Tumeurs de l'appareil respiratoire, niveau 1
 
 |
 
-Tumeurs de l'appareil respiratoire, niveau 2
+04M092
 
 |
 
-04M093
+Tumeurs de l'appareil respiratoire, niveau 2
 
 |
 
@@ -2630,11 +2640,11 @@ Tumeurs de l'appareil respiratoire, niveau 2
 
 |
 
-Tumeurs de l'appareil respiratoire, niveau 3
+04M093
 
 |
 
-04M094
+Tumeurs de l'appareil respiratoire, niveau 3
 
 |
 
@@ -2642,11 +2652,11 @@ Tumeurs de l'appareil respiratoire, niveau 3
 
 |
 
-Tumeurs de l'appareil respiratoire, niveau 4
+04M094
 
 |
 
-04M09T
+Tumeurs de l'appareil respiratoire, niveau 4
 
 |
 
@@ -2654,11 +2664,11 @@ Tumeurs de l'appareil respiratoire, niveau 4
 
 |
 
-Tumeurs de l'appareil respiratoire, très courte durée
+04M09T
 
 |
 
-04M101
+Tumeurs de l'appareil respiratoire, très courte durée
 
 |
 
@@ -2666,11 +2676,11 @@ Tumeurs de l'appareil respiratoire, très courte durée
 
 |
 
-Embolies pulmonaires, niveau 1
+04M101
 
 |
 
-04M102
+Embolies pulmonaires, niveau 1
 
 |
 
@@ -2678,11 +2688,11 @@ Embolies pulmonaires, niveau 1
 
 |
 
-Embolies pulmonaires, niveau 2
+04M102
 
 |
 
-04M103
+Embolies pulmonaires, niveau 2
 
 |
 
@@ -2690,11 +2700,11 @@ Embolies pulmonaires, niveau 2
 
 |
 
-Embolies pulmonaires, niveau 3
+04M103
 
 |
 
-04M104
+Embolies pulmonaires, niveau 3
 
 |
 
@@ -2702,11 +2712,11 @@ Embolies pulmonaires, niveau 3
 
 |
 
-Embolies pulmonaires, niveau 4
+04M104
 
 |
 
-04M10T
+Embolies pulmonaires, niveau 4
 
 |
 
@@ -2714,11 +2724,11 @@ Embolies pulmonaires, niveau 4
 
 |
 
-Embolies pulmonaires, très courte durée
+04M10T
 
 |
 
-04M111
+Embolies pulmonaires, très courte durée
 
 |
 
@@ -2726,11 +2736,11 @@ Embolies pulmonaires, très courte durée
 
 |
 
-Signes et symptômes respiratoires, niveau 1
+04M111
 
 |
 
-04M112
+Signes et symptômes respiratoires, niveau 1
 
 |
 
@@ -2738,11 +2748,11 @@ Signes et symptômes respiratoires, niveau 1
 
 |
 
-Signes et symptômes respiratoires, niveau 2
+04M112
 
 |
 
-04M113
+Signes et symptômes respiratoires, niveau 2
 
 |
 
@@ -2750,11 +2760,11 @@ Signes et symptômes respiratoires, niveau 2
 
 |
 
-Signes et symptômes respiratoires, niveau 3
+04M113
 
 |
 
-04M114
+Signes et symptômes respiratoires, niveau 3
 
 |
 
@@ -2762,11 +2772,11 @@ Signes et symptômes respiratoires, niveau 3
 
 |
 
-Signes et symptômes respiratoires, niveau 4
+04M114
 
 |
 
-04M121
+Signes et symptômes respiratoires, niveau 4
 
 |
 
@@ -2774,11 +2784,11 @@ Signes et symptômes respiratoires, niveau 4
 
 |
 
-Pneumothorax, niveau 1
+04M121
 
 |
 
-04M122
+Pneumothorax, niveau 1
 
 |
 
@@ -2786,11 +2796,11 @@ Pneumothorax, niveau 1
 
 |
 
-Pneumothorax, niveau 2
+04M122
 
 |
 
-04M123
+Pneumothorax, niveau 2
 
 |
 
@@ -2798,11 +2808,11 @@ Pneumothorax, niveau 2
 
 |
 
-Pneumothorax, niveau 3
+04M123
 
 |
 
-04M124
+Pneumothorax, niveau 3
 
 |
 
@@ -2810,11 +2820,11 @@ Pneumothorax, niveau 3
 
 |
 
-Pneumothorax, niveau 4
+04M124
 
 |
 
-04M12T
+Pneumothorax, niveau 4
 
 |
 
@@ -2822,11 +2832,11 @@ Pneumothorax, niveau 4
 
 |
 
-Pneumothorax, très courte durée
+04M12T
 
 |
 
-04M131
+Pneumothorax, très courte durée
 
 |
 
@@ -2834,11 +2844,11 @@ Pneumothorax, très courte durée
 
 |
 
-Œdème pulmonaire et détresse respiratoire, niveau 1
+04M131
 
 |
 
-04M132
+Œdème pulmonaire et détresse respiratoire, niveau 1
 
 |
 
@@ -2846,11 +2856,11 @@ Pneumothorax, très courte durée
 
 |
 
-Œdème pulmonaire et détresse respiratoire, niveau 2
+04M132
 
 |
 
-04M133
+Œdème pulmonaire et détresse respiratoire, niveau 2
 
 |
 
@@ -2858,11 +2868,11 @@ Pneumothorax, très courte durée
 
 |
 
-Œdème pulmonaire et détresse respiratoire, niveau 3
+04M133
 
 |
 
-04M134
+Œdème pulmonaire et détresse respiratoire, niveau 3
 
 |
 
@@ -2870,11 +2880,11 @@ Pneumothorax, très courte durée
 
 |
 
-Œdème pulmonaire et détresse respiratoire, niveau 4
+04M134
 
 |
 
-04M13T
+Œdème pulmonaire et détresse respiratoire, niveau 4
 
 |
 
@@ -2882,11 +2892,11 @@ Pneumothorax, très courte durée
 
 |
 
-Œdème pulmonaire et détresse respiratoire, très courte durée
+04M13T
 
 |
 
-04M141
+Œdème pulmonaire et détresse respiratoire, très courte durée
 
 |
 
@@ -2894,11 +2904,11 @@ Pneumothorax, très courte durée
 
 |
 
-Maladies pulmonaires interstitielles, niveau 1
+04M141
 
 |
 
-04M142
+Maladies pulmonaires interstitielles, niveau 1
 
 |
 
@@ -2906,11 +2916,11 @@ Maladies pulmonaires interstitielles, niveau 1
 
 |
 
-Maladies pulmonaires interstitielles, niveau 2
+04M142
 
 |
 
-04M143
+Maladies pulmonaires interstitielles, niveau 2
 
 |
 
@@ -2918,11 +2928,11 @@ Maladies pulmonaires interstitielles, niveau 2
 
 |
 
-Maladies pulmonaires interstitielles, niveau 3
+04M143
 
 |
 
-04M144
+Maladies pulmonaires interstitielles, niveau 3
 
 |
 
@@ -2930,11 +2940,11 @@ Maladies pulmonaires interstitielles, niveau 3
 
 |
 
-Maladies pulmonaires interstitielles, niveau 4
+04M144
 
 |
 
-04M14T
+Maladies pulmonaires interstitielles, niveau 4
 
 |
 
@@ -2942,11 +2952,11 @@ Maladies pulmonaires interstitielles, niveau 4
 
 |
 
-Maladies pulmonaires interstitielles, très courte durée
+04M14T
 
 |
 
-04M151
+Maladies pulmonaires interstitielles, très courte durée
 
 |
 
@@ -2954,11 +2964,11 @@ Maladies pulmonaires interstitielles, très courte durée
 
 |
 
-Autres diagnostics portant sur le système respiratoire, niveau 1
+04M151
 
 |
 
-04M152
+Autres diagnostics portant sur le système respiratoire, niveau 1
 
 |
 
@@ -2966,11 +2976,11 @@ Autres diagnostics portant sur le système respiratoire, niveau 1
 
 |
 
-Autres diagnostics portant sur le système respiratoire, niveau 2
+04M152
 
 |
 
-04M153
+Autres diagnostics portant sur le système respiratoire, niveau 2
 
 |
 
@@ -2978,11 +2988,11 @@ Autres diagnostics portant sur le système respiratoire, niveau 2
 
 |
 
-Autres diagnostics portant sur le système respiratoire, niveau 3
+04M153
 
 |
 
-04M154
+Autres diagnostics portant sur le système respiratoire, niveau 3
 
 |
 
@@ -2990,11 +3000,11 @@ Autres diagnostics portant sur le système respiratoire, niveau 3
 
 |
 
-Autres diagnostics portant sur le système respiratoire, niveau 4
+04M154
 
 |
 
-04M15T
+Autres diagnostics portant sur le système respiratoire, niveau 4
 
 |
 
@@ -3002,11 +3012,11 @@ Autres diagnostics portant sur le système respiratoire, niveau 4
 
 |
 
-Autres diagnostics portant sur le système respiratoire, très courte durée
+04M15T
 
 |
 
-04M161
+Autres diagnostics portant sur le système respiratoire, très courte durée
 
 |
 
@@ -3014,11 +3024,11 @@ Autres diagnostics portant sur le système respiratoire, très courte durée
 
 |
 
-Traumatismes thoraciques, niveau 1
+04M161
 
 |
 
-04M162
+Traumatismes thoraciques, niveau 1
 
 |
 
@@ -3026,11 +3036,11 @@ Traumatismes thoraciques, niveau 1
 
 |
 
-Traumatismes thoraciques, niveau 2
+04M162
 
 |
 
-04M163
+Traumatismes thoraciques, niveau 2
 
 |
 
@@ -3038,11 +3048,11 @@ Traumatismes thoraciques, niveau 2
 
 |
 
-Traumatismes thoraciques, niveau 3
+04M163
 
 |
 
-04M164
+Traumatismes thoraciques, niveau 3
 
 |
 
@@ -3050,11 +3060,11 @@ Traumatismes thoraciques, niveau 3
 
 |
 
-Traumatismes thoraciques, niveau 4
+04M164
 
 |
 
-04M16T
+Traumatismes thoraciques, niveau 4
 
 |
 
@@ -3062,11 +3072,11 @@ Traumatismes thoraciques, niveau 4
 
 |
 
-Traumatismes thoraciques, très courte durée
+04M16T
 
 |
 
-04M171
+Traumatismes thoraciques, très courte durée
 
 |
 
@@ -3074,11 +3084,11 @@ Traumatismes thoraciques, très courte durée
 
 |
 
-Epanchements pleuraux, niveau 1
+04M171
 
 |
 
-04M172
+Epanchements pleuraux, niveau 1
 
 |
 
@@ -3086,11 +3096,11 @@ Epanchements pleuraux, niveau 1
 
 |
 
-Epanchements pleuraux, niveau 2
+04M172
 
 |
 
-04M173
+Epanchements pleuraux, niveau 2
 
 |
 
@@ -3098,11 +3108,11 @@ Epanchements pleuraux, niveau 2
 
 |
 
-Epanchements pleuraux, niveau 3
+04M173
 
 |
 
-04M174
+Epanchements pleuraux, niveau 3
 
 |
 
@@ -3110,11 +3120,11 @@ Epanchements pleuraux, niveau 3
 
 |
 
-Epanchements pleuraux, niveau 4
+04M174
 
 |
 
-04M17T
+Epanchements pleuraux, niveau 4
 
 |
 
@@ -3122,11 +3132,11 @@ Epanchements pleuraux, niveau 4
 
 |
 
-Epanchements pleuraux, très courte durée
+04M17T
 
 |
 
-04M181
+Epanchements pleuraux, très courte durée
 
 |
 
@@ -3134,11 +3144,11 @@ Epanchements pleuraux, très courte durée
 
 |
 
-Bronchiolites, niveau 1
+04M181
 
 |
 
-04M182
+Bronchiolites, niveau 1
 
 |
 
@@ -3146,11 +3156,11 @@ Bronchiolites, niveau 1
 
 |
 
-Bronchiolites, niveau 2
+04M182
 
 |
 
-04M183
+Bronchiolites, niveau 2
 
 |
 
@@ -3158,11 +3168,11 @@ Bronchiolites, niveau 2
 
 |
 
-Bronchiolites, niveau 3
+04M183
 
 |
 
-04M184
+Bronchiolites, niveau 3
 
 |
 
@@ -3170,11 +3180,11 @@ Bronchiolites, niveau 3
 
 |
 
-Bronchiolites, niveau 4
+04M184
 
 |
 
-04M18T
+Bronchiolites, niveau 4
 
 |
 
@@ -3182,11 +3192,11 @@ Bronchiolites, niveau 4
 
 |
 
-Bronchiolites, très courte durée
+04M18T
 
 |
 
-04M191
+Bronchiolites, très courte durée
 
 |
 
@@ -3194,11 +3204,11 @@ Bronchiolites, très courte durée
 
 |
 
-Tuberculoses, niveau 1
+04M191
 
 |
 
-04M192
+Tuberculoses, niveau 1
 
 |
 
@@ -3206,11 +3216,11 @@ Tuberculoses, niveau 1
 
 |
 
-Tuberculoses, niveau 2
+04M192
 
 |
 
-04M193
+Tuberculoses, niveau 2
 
 |
 
@@ -3218,11 +3228,11 @@ Tuberculoses, niveau 2
 
 |
 
-Tuberculoses, niveau 3
+04M193
 
 |
 
-04M194
+Tuberculoses, niveau 3
 
 |
 
@@ -3230,11 +3240,11 @@ Tuberculoses, niveau 3
 
 |
 
-Tuberculoses, niveau 4
+04M194
 
 |
 
-04M19T
+Tuberculoses, niveau 4
 
 |
 
@@ -3242,11 +3252,11 @@ Tuberculoses, niveau 4
 
 |
 
-Tuberculoses, très courte durée
+04M19T
 
 |
 
-04M201
+Tuberculoses, très courte durée
 
 |
 
@@ -3254,11 +3264,11 @@ Tuberculoses, très courte durée
 
 |
 
-Bronchopneumopathies chroniques surinfectées, niveau 1
+04M201
 
 |
 
-04M202
+Bronchopneumopathies chroniques surinfectées, niveau 1
 
 |
 
@@ -3266,11 +3276,11 @@ Bronchopneumopathies chroniques surinfectées, niveau 1
 
 |
 
-Bronchopneumopathies chroniques surinfectées, niveau 2
+04M202
 
 |
 
-04M203
+Bronchopneumopathies chroniques surinfectées, niveau 2
 
 |
 
@@ -3278,11 +3288,11 @@ Bronchopneumopathies chroniques surinfectées, niveau 2
 
 |
 
-Bronchopneumopathies chroniques surinfectées, niveau 3
+04M203
 
 |
 
-04M204
+Bronchopneumopathies chroniques surinfectées, niveau 3
 
 |
 
@@ -3290,11 +3300,11 @@ Bronchopneumopathies chroniques surinfectées, niveau 3
 
 |
 
-Bronchopneumopathies chroniques surinfectées, niveau 4
+04M204
 
 |
 
-04M20T
+Bronchopneumopathies chroniques surinfectées, niveau 4
 
 |
 
@@ -3302,11 +3312,11 @@ Bronchopneumopathies chroniques surinfectées, niveau 4
 
 |
 
-Bronchopneumopathies chroniques surinfectées, très courte durée
+04M20T
 
 |
 
-04M211
+Bronchopneumopathies chroniques surinfectées, très courte durée
 
 |
 
@@ -3314,11 +3324,11 @@ Bronchopneumopathies chroniques surinfectées, très courte durée
 
 |
 
-Suivis de greffe pulmonaire, niveau 1
+04M211
 
 |
 
-04M212
+Suivis de greffe pulmonaire, niveau 1
 
 |
 
@@ -3326,11 +3336,11 @@ Suivis de greffe pulmonaire, niveau 1
 
 |
 
-Suivis de greffe pulmonaire, niveau 2
+04M212
 
 |
 
-04M213
+Suivis de greffe pulmonaire, niveau 2
 
 |
 
@@ -3338,11 +3348,11 @@ Suivis de greffe pulmonaire, niveau 2
 
 |
 
-Suivis de greffe pulmonaire, niveau 3
+04M213
 
 |
 
-04M214
+Suivis de greffe pulmonaire, niveau 3
 
 |
 
@@ -3350,11 +3360,11 @@ Suivis de greffe pulmonaire, niveau 3
 
 |
 
-Suivis de greffe pulmonaire, niveau 4
+04M214
 
 |
 
-04M22Z
+Suivis de greffe pulmonaire, niveau 4
 
 |
 
@@ -3362,11 +3372,11 @@ Suivis de greffe pulmonaire, niveau 4
 
 |
 
-Explorations et surveillance pour affections de l'appareil respiratoire
+04M22Z
 
 |
 
-04M23T
+Explorations et surveillance pour affections de l'appareil respiratoire
 
 |
 
@@ -3374,11 +3384,11 @@ Explorations et surveillance pour affections de l'appareil respiratoire
 
 |
 
-Autres symptômes et recours aux soins de la CMD 04, très courte durée
+04M23T
 
 |
 
-04M23Z
+Autres symptômes et recours aux soins de la CMD 04, très courte durée
 
 |
 
@@ -3386,11 +3396,11 @@ Autres symptômes et recours aux soins de la CMD 04, très courte durée
 
 |
 
-Autres symptômes et recours aux soins de la CMD 04
+04M23Z
 
 |
 
-04M24E
+Autres symptômes et recours aux soins de la CMD 04
 
 |
 
@@ -3398,11 +3408,11 @@ Autres symptômes et recours aux soins de la CMD 04
 
 |
 
-Affections de la CMD 04 avec décès : séjours de moins de 2 jours
+04M24E
 
 |
 
-04M251
+Affections de la CMD 04 avec décès : séjours de moins de 2 jours
 
 |
 
@@ -3410,11 +3420,11 @@ Affections de la CMD 04 avec décès : séjours de moins de 2 jours
 
 |
 
-Grippes, niveau 1
+04M251
 
 |
 
-04M252
+Grippes, niveau 1
 
 |
 
@@ -3422,11 +3432,11 @@ Grippes, niveau 1
 
 |
 
-Grippes, niveau 2
+04M252
 
 |
 
-04M253
+Grippes, niveau 2
 
 |
 
@@ -3434,11 +3444,11 @@ Grippes, niveau 2
 
 |
 
-Grippes, niveau 3
+04M253
 
 |
 
-04M254
+Grippes, niveau 3
 
 |
 
@@ -3446,11 +3456,11 @@ Grippes, niveau 3
 
 |
 
-Grippes, niveau 4
+04M254
 
 |
 
-04M25T
+Grippes, niveau 4
 
 |
 
@@ -3458,11 +3468,11 @@ Grippes, niveau 4
 
 |
 
-Grippes, très courte durée
+04M25T
 
 |
 
-04M261
+Grippes, très courte durée
 
 |
 
@@ -3470,11 +3480,11 @@ Grippes, très courte durée
 
 |
 
-Fibroses kystiques avec manifestations pulmonaires, niveau 1
+04M261
 
 |
 
-04M262
+Fibroses kystiques avec manifestations pulmonaires, niveau 1
 
 |
 
@@ -3482,11 +3492,11 @@ Fibroses kystiques avec manifestations pulmonaires, niveau 1
 
 |
 
-Fibroses kystiques avec manifestations pulmonaires, niveau 2
+04M262
 
 |
 
-04M263
+Fibroses kystiques avec manifestations pulmonaires, niveau 2
 
 |
 
@@ -3494,11 +3504,11 @@ Fibroses kystiques avec manifestations pulmonaires, niveau 2
 
 |
 
-Fibroses kystiques avec manifestations pulmonaires, niveau 3
+04M263
 
 |
 
-04M264
+Fibroses kystiques avec manifestations pulmonaires, niveau 3
 
 |
 
@@ -3506,15 +3516,19 @@ Fibroses kystiques avec manifestations pulmonaires, niveau 3
 
 |
 
+04M264
+
+|
+
 Fibroses kystiques avec manifestations pulmonaires, niveau 4
 
 |
 
-04M26T
+1236
 
 |
 
-1236
+04M26T
 
 |
 

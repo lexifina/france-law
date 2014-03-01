@@ -1,8 +1,22 @@
 # Article Annexe 1 (suite 6)
 
-LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
+LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOUR" (suite)
+
+GHS |
+
+GHM |
+
+LIBELLÉ DU GHM |
+
+7258
+
+|
 
 20Z021
+
+|
+
+Toxicomanies non éthyliques avec dépendance, niveau 1
 
 |
 
@@ -10,15 +24,7 @@ LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
 
 |
 
-Toxicomanies non éthyliques avec dépendance, niveau 1
-
-|
-
-7258
-
-|
-
-Toxicomanies non éthyliques avec dépendance, niveau 1
+7259
 
 |
 
@@ -26,31 +32,11 @@ Toxicomanies non éthyliques avec dépendance, niveau 1
 
 |
 
+Toxicomanies non éthyliques avec dépendance, niveau 2
+
+|
+
 7286
-
-|
-
-Toxicomanies non éthyliques avec dépendance, niveau 2
-
-|
-
-7259
-
-|
-
-Toxicomanies non éthyliques avec dépendance, niveau 2
-
-|
-
-20Z023
-
-|
-
-7287
-
-|
-
-Toxicomanies non éthyliques avec dépendance, niveau 3
 
 |
 
@@ -58,19 +44,15 @@ Toxicomanies non éthyliques avec dépendance, niveau 3
 
 |
 
+20Z023
+
+|
+
 Toxicomanies non éthyliques avec dépendance, niveau 3
 
 |
 
-20Z024
-
-|
-
-7288
-
-|
-
-Toxicomanies non éthyliques avec dépendance, niveau 4
+7287
 
 |
 
@@ -78,11 +60,15 @@ Toxicomanies non éthyliques avec dépendance, niveau 4
 
 |
 
+20Z024
+
+|
+
 Toxicomanies non éthyliques avec dépendance, niveau 4
 
 |
 
-20Z02T
+7288
 
 |
 
@@ -90,11 +76,11 @@ Toxicomanies non éthyliques avec dépendance, niveau 4
 
 |
 
-Toxicomanies non éthyliques avec dépendance, très courte durée
+20Z02T
 
 |
 
-20Z031
+Toxicomanies non éthyliques avec dépendance, très courte durée
 
 |
 
@@ -102,11 +88,11 @@ Toxicomanies non éthyliques avec dépendance, très courte durée
 
 |
 
-Abus de drogues non éthyliques sans dépendance, niveau 1
+20Z031
 
 |
 
-20Z032
+Abus de drogues non éthyliques sans dépendance, niveau 1
 
 |
 
@@ -114,11 +100,11 @@ Abus de drogues non éthyliques sans dépendance, niveau 1
 
 |
 
-Abus de drogues non éthyliques sans dépendance, niveau 2
+20Z032
 
 |
 
-20Z033
+Abus de drogues non éthyliques sans dépendance, niveau 2
 
 |
 
@@ -126,11 +112,11 @@ Abus de drogues non éthyliques sans dépendance, niveau 2
 
 |
 
-Abus de drogues non éthyliques sans dépendance, niveau 3
+20Z033
 
 |
 
-20Z034
+Abus de drogues non éthyliques sans dépendance, niveau 3
 
 |
 
@@ -138,19 +124,11 @@ Abus de drogues non éthyliques sans dépendance, niveau 3
 
 |
 
+20Z034
+
+|
+
 Abus de drogues non éthyliques sans dépendance, niveau 4
-
-|
-
-20Z041
-
-|
-
-7281
-
-|
-
-Ethylisme avec dépendance, niveau 1
 
 |
 
@@ -158,19 +136,15 @@ Ethylisme avec dépendance, niveau 1
 
 |
 
+20Z041
+
+|
+
 Ethylisme avec dépendance, niveau 1
 
 |
 
-20Z042
-
-|
-
-7282
-
-|
-
-Ethylisme avec dépendance, niveau 2
+7281
 
 |
 
@@ -178,19 +152,15 @@ Ethylisme avec dépendance, niveau 2
 
 |
 
+20Z042
+
+|
+
 Ethylisme avec dépendance, niveau 2
 
 |
 
-20Z043
-
-|
-
-7283
-
-|
-
-Ethylisme avec dépendance, niveau 3
+7282
 
 |
 
@@ -198,19 +168,15 @@ Ethylisme avec dépendance, niveau 3
 
 |
 
+20Z043
+
+|
+
 Ethylisme avec dépendance, niveau 3
 
 |
 
-20Z044
-
-|
-
-7284
-
-|
-
-Ethylisme avec dépendance, niveau 4
+7283
 
 |
 
@@ -218,11 +184,15 @@ Ethylisme avec dépendance, niveau 4
 
 |
 
+20Z044
+
+|
+
 Ethylisme avec dépendance, niveau 4
 
 |
 
-20Z04T
+7284
 
 |
 
@@ -230,11 +200,11 @@ Ethylisme avec dépendance, niveau 4
 
 |
 
-Ethylisme avec dépendance, très courte durée
+20Z04T
 
 |
 
-20Z051
+Ethylisme avec dépendance, très courte durée
 
 |
 
@@ -242,11 +212,11 @@ Ethylisme avec dépendance, très courte durée
 
 |
 
-Ethylisme aigu, niveau 1
+20Z051
 
 |
 
-20Z052
+Ethylisme aigu, niveau 1
 
 |
 
@@ -254,11 +224,11 @@ Ethylisme aigu, niveau 1
 
 |
 
-Ethylisme aigu, niveau 2
+20Z052
 
 |
 
-20Z053
+Ethylisme aigu, niveau 2
 
 |
 
@@ -266,11 +236,11 @@ Ethylisme aigu, niveau 2
 
 |
 
-Ethylisme aigu, niveau 3
+20Z053
 
 |
 
-20Z054
+Ethylisme aigu, niveau 3
 
 |
 
@@ -278,11 +248,11 @@ Ethylisme aigu, niveau 3
 
 |
 
-Ethylisme aigu, niveau 4
+20Z054
 
 |
 
-20Z061
+Ethylisme aigu, niveau 4
 
 |
 
@@ -290,11 +260,11 @@ Ethylisme aigu, niveau 4
 
 |
 
-Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 1
+20Z061
 
 |
 
-20Z062
+Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 1
 
 |
 
@@ -302,11 +272,11 @@ Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 
 
 |
 
-Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 2
+20Z062
 
 |
 
-20Z063
+Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 2
 
 |
 
@@ -314,11 +284,11 @@ Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 
 
 |
 
-Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 3
+20Z063
 
 |
 
-20Z064
+Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 3
 
 |
 
@@ -326,11 +296,11 @@ Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 
 
 |
 
-Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 4
+20Z064
 
 |
 
-20Z06T
+Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 4
 
 |
 
@@ -338,11 +308,11 @@ Troubles mentaux organiques induits par l'alcool ou d'autres substances, niveau 
 
 |
 
-Troubles mentaux organiques induits par l'alcool ou d'autres substances, très courte durée
+20Z06T
 
 |
 
-21C041
+Troubles mentaux organiques induits par l'alcool ou d'autres substances, très courte durée
 
 |
 
@@ -350,11 +320,11 @@ Troubles mentaux organiques induits par l'alcool ou d'autres substances, très c
 
 |
 
-Interventions sur la main ou le poignet à la suite de blessures, niveau 1
+21C041
 
 |
 
-21C042
+Interventions sur la main ou le poignet à la suite de blessures, niveau 1
 
 |
 
@@ -362,11 +332,11 @@ Interventions sur la main ou le poignet à la suite de blessures, niveau 1
 
 |
 
-Interventions sur la main ou le poignet à la suite de blessures, niveau 2
+21C042
 
 |
 
-21C043
+Interventions sur la main ou le poignet à la suite de blessures, niveau 2
 
 |
 
@@ -374,11 +344,11 @@ Interventions sur la main ou le poignet à la suite de blessures, niveau 2
 
 |
 
-Interventions sur la main ou le poignet à la suite de blessures, niveau 3
+21C043
 
 |
 
-21C044
+Interventions sur la main ou le poignet à la suite de blessures, niveau 3
 
 |
 
@@ -386,11 +356,11 @@ Interventions sur la main ou le poignet à la suite de blessures, niveau 3
 
 |
 
-Interventions sur la main ou le poignet à la suite de blessures, niveau 4
+21C044
 
 |
 
-21C04J
+Interventions sur la main ou le poignet à la suite de blessures, niveau 4
 
 |
 
@@ -398,11 +368,11 @@ Interventions sur la main ou le poignet à la suite de blessures, niveau 4
 
 |
 
-Interventions sur la main ou le poignet à la suite de blessures, en ambulatoire
+21C04J
 
 |
 
-21C051
+Interventions sur la main ou le poignet à la suite de blessures, en ambulatoire
 
 |
 
@@ -410,11 +380,11 @@ Interventions sur la main ou le poignet à la suite de blessures, en ambulatoire
 
 |
 
-Autres interventions pour blessures ou complications d'acte, niveau 1
+21C051
 
 |
 
-21C052
+Autres interventions pour blessures ou complications d'acte, niveau 1
 
 |
 
@@ -422,11 +392,11 @@ Autres interventions pour blessures ou complications d'acte, niveau 1
 
 |
 
-Autres interventions pour blessures ou complications d'acte, niveau 2
+21C052
 
 |
 
-21C053
+Autres interventions pour blessures ou complications d'acte, niveau 2
 
 |
 
@@ -434,11 +404,11 @@ Autres interventions pour blessures ou complications d'acte, niveau 2
 
 |
 
-Autres interventions pour blessures ou complications d'acte, niveau 3
+21C053
 
 |
 
-21C054
+Autres interventions pour blessures ou complications d'acte, niveau 3
 
 |
 
@@ -446,11 +416,11 @@ Autres interventions pour blessures ou complications d'acte, niveau 3
 
 |
 
-Autres interventions pour blessures ou complications d'acte, niveau 4
+21C054
 
 |
 
-21C05J
+Autres interventions pour blessures ou complications d'acte, niveau 4
 
 |
 
@@ -458,11 +428,11 @@ Autres interventions pour blessures ou complications d'acte, niveau 4
 
 |
 
-Autres interventions pour blessures ou complications d'acte, en ambulatoire
+21C05J
 
 |
 
-21C061
+Autres interventions pour blessures ou complications d'acte, en ambulatoire
 
 |
 
@@ -470,11 +440,11 @@ Autres interventions pour blessures ou complications d'acte, en ambulatoire
 
 |
 
-Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 1
+21C061
 
 |
 
-21C062
+Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 1
 
 |
 
@@ -482,11 +452,11 @@ Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niv
 
 |
 
-Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 2
+21C062
 
 |
 
-21C063
+Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 2
 
 |
 
@@ -494,11 +464,11 @@ Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niv
 
 |
 
-Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 3
+21C063
 
 |
 
-21C064
+Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 3
 
 |
 
@@ -506,11 +476,11 @@ Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niv
 
 |
 
-Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 4
+21C064
 
 |
 
-21C06J
+Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niveau 4
 
 |
 
@@ -518,11 +488,11 @@ Greffes de peau ou parages de plaies pour lésions autres que des brûlures, niv
 
 |
 
-Greffes de peau ou parages de plaies pour lésions autres que des brûlures, en ambulatoire
+21C06J
 
 |
 
-21K02J
+Greffes de peau ou parages de plaies pour lésions autres que des brûlures, en ambulatoire
 
 |
 
@@ -530,11 +500,11 @@ Greffes de peau ou parages de plaies pour lésions autres que des brûlures, en 
 
 |
 
-Traumatismes, allergies et empoisonnements sans acte opératoire, avec anesthésie, en ambulatoire
+21K02J
 
 |
 
-21M021
+Traumatismes, allergies et empoisonnements sans acte opératoire, avec anesthésie, en ambulatoire
 
 |
 
@@ -542,11 +512,11 @@ Traumatismes, allergies et empoisonnements sans acte opératoire, avec anesthés
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 1
+21M021
 
 |
 
-21M022
+Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -554,11 +524,11 @@ Effets toxiques des médicaments et substances biologiques, âge inférieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 2
+21M022
 
 |
 
-21M023
+Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -566,11 +536,11 @@ Effets toxiques des médicaments et substances biologiques, âge inférieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 3
+21M023
 
 |
 
-21M024
+Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -578,11 +548,11 @@ Effets toxiques des médicaments et substances biologiques, âge inférieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 4
+21M024
 
 |
 
-21M02T
+Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -590,11 +560,11 @@ Effets toxiques des médicaments et substances biologiques, âge inférieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, très courte durée
+21M02T
 
 |
 
-21M041
+Effets toxiques des médicaments et substances biologiques, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -602,11 +572,11 @@ Effets toxiques des médicaments et substances biologiques, âge inférieur à 1
 
 |
 
-Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 1
+21M041
 
 |
 
-21M042
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -614,11 +584,11 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 2
+21M042
 
 |
 
-21M043
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -626,11 +596,11 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 3
+21M043
 
 |
 
-21M044
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -638,11 +608,11 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 4
+21M044
 
 |
 
-21M04T
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -650,11 +620,11 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, très courte durée
+21M04T
 
 |
 
-21M051
+Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -662,11 +632,11 @@ Réactions allergiques non classées ailleurs, âge inférieur à 18 ans, très 
 
 |
 
-Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 1
+21M051
 
 |
 
-21M052
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -674,11 +644,11 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 2
+21M052
 
 |
 
-21M053
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -686,11 +656,11 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 3
+21M053
 
 |
 
-21M054
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -698,11 +668,11 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 4
+21M054
 
 |
 
-21M05T
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -710,11 +680,11 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, niveau
 
 |
 
-Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, très courte durée
+21M05T
 
 |
 
-21M061
+Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -722,11 +692,11 @@ Réactions allergiques non classées ailleurs, âge supérieur à 17 ans, très 
 
 |
 
-Traumatismes imprécis, âge inférieur à 18 ans, niveau 1
+21M061
 
 |
 
-21M062
+Traumatismes imprécis, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -734,11 +704,11 @@ Traumatismes imprécis, âge inférieur à 18 ans, niveau 1
 
 |
 
-Traumatismes imprécis, âge inférieur à 18 ans, niveau 2
+21M062
 
 |
 
-21M063
+Traumatismes imprécis, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -746,11 +716,11 @@ Traumatismes imprécis, âge inférieur à 18 ans, niveau 2
 
 |
 
-Traumatismes imprécis, âge inférieur à 18 ans, niveau 3
+21M063
 
 |
 
-21M064
+Traumatismes imprécis, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -758,11 +728,11 @@ Traumatismes imprécis, âge inférieur à 18 ans, niveau 3
 
 |
 
-Traumatismes imprécis, âge inférieur à 18 ans, niveau 4
+21M064
 
 |
 
-21M071
+Traumatismes imprécis, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -770,11 +740,11 @@ Traumatismes imprécis, âge inférieur à 18 ans, niveau 4
 
 |
 
-Traumatismes imprécis, âge supérieur à 17 ans, niveau 1
+21M071
 
 |
 
-21M072
+Traumatismes imprécis, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -782,11 +752,11 @@ Traumatismes imprécis, âge supérieur à 17 ans, niveau 1
 
 |
 
-Traumatismes imprécis, âge supérieur à 17 ans, niveau 2
+21M072
 
 |
 
-21M073
+Traumatismes imprécis, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -794,11 +764,11 @@ Traumatismes imprécis, âge supérieur à 17 ans, niveau 2
 
 |
 
-Traumatismes imprécis, âge supérieur à 17 ans, niveau 3
+21M073
 
 |
 
-21M074
+Traumatismes imprécis, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -806,11 +776,11 @@ Traumatismes imprécis, âge supérieur à 17 ans, niveau 3
 
 |
 
-Traumatismes imprécis, âge supérieur à 17 ans, niveau 4
+21M074
 
 |
 
-21M07T
+Traumatismes imprécis, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -818,11 +788,11 @@ Traumatismes imprécis, âge supérieur à 17 ans, niveau 4
 
 |
 
-Traumatismes imprécis, âge supérieur à 17 ans, très courte durée
+21M07T
 
 |
 
-21M101
+Traumatismes imprécis, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -830,11 +800,11 @@ Traumatismes imprécis, âge supérieur à 17 ans, très courte durée
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 1
+21M101
 
 |
 
-21M102
+Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -842,11 +812,11 @@ Effets toxiques des médicaments et substances biologiques, âge supérieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 2
+21M102
 
 |
 
-21M103
+Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -854,11 +824,11 @@ Effets toxiques des médicaments et substances biologiques, âge supérieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 3
+21M103
 
 |
 
-21M104
+Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -866,11 +836,11 @@ Effets toxiques des médicaments et substances biologiques, âge supérieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 4
+21M104
 
 |
 
-21M10T
+Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -878,11 +848,11 @@ Effets toxiques des médicaments et substances biologiques, âge supérieur à 1
 
 |
 
-Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, très courte durée
+21M10T
 
 |
 
-21M111
+Effets toxiques des médicaments et substances biologiques, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -890,11 +860,11 @@ Effets toxiques des médicaments et substances biologiques, âge supérieur à 1
 
 |
 
-Effets toxiques des autres substances chimiques, niveau 1
+21M111
 
 |
 
-21M112
+Effets toxiques des autres substances chimiques, niveau 1
 
 |
 
@@ -902,11 +872,11 @@ Effets toxiques des autres substances chimiques, niveau 1
 
 |
 
-Effets toxiques des autres substances chimiques, niveau 2
+21M112
 
 |
 
-21M113
+Effets toxiques des autres substances chimiques, niveau 2
 
 |
 
@@ -914,11 +884,11 @@ Effets toxiques des autres substances chimiques, niveau 2
 
 |
 
-Effets toxiques des autres substances chimiques, niveau 3
+21M113
 
 |
 
-21M114
+Effets toxiques des autres substances chimiques, niveau 3
 
 |
 
@@ -926,11 +896,11 @@ Effets toxiques des autres substances chimiques, niveau 3
 
 |
 
-Effets toxiques des autres substances chimiques, niveau 4
+21M114
 
 |
 
-21M11T
+Effets toxiques des autres substances chimiques, niveau 4
 
 |
 
@@ -938,11 +908,11 @@ Effets toxiques des autres substances chimiques, niveau 4
 
 |
 
-Effets toxiques des autres substances chimiques, très courte durée
+21M11T
 
 |
 
-21M121
+Effets toxiques des autres substances chimiques, très courte durée
 
 |
 
@@ -950,11 +920,11 @@ Effets toxiques des autres substances chimiques, très courte durée
 
 |
 
-Autres effets toxiques, niveau 1
+21M121
 
 |
 
-21M122
+Autres effets toxiques, niveau 1
 
 |
 
@@ -962,11 +932,11 @@ Autres effets toxiques, niveau 1
 
 |
 
-Autres effets toxiques, niveau 2
+21M122
 
 |
 
-21M123
+Autres effets toxiques, niveau 2
 
 |
 
@@ -974,11 +944,11 @@ Autres effets toxiques, niveau 2
 
 |
 
-Autres effets toxiques, niveau 3
+21M123
 
 |
 
-21M124
+Autres effets toxiques, niveau 3
 
 |
 
@@ -986,11 +956,11 @@ Autres effets toxiques, niveau 3
 
 |
 
-Autres effets toxiques, niveau 4
+21M124
 
 |
 
-21M131
+Autres effets toxiques, niveau 4
 
 |
 
@@ -998,11 +968,11 @@ Autres effets toxiques, niveau 4
 
 |
 
-Maltraitance, niveau 1
+21M131
 
 |
 
-21M132
+Maltraitance, niveau 1
 
 |
 
@@ -1010,11 +980,11 @@ Maltraitance, niveau 1
 
 |
 
-Maltraitance, niveau 2
+21M132
 
 |
 
-21M133
+Maltraitance, niveau 2
 
 |
 
@@ -1022,11 +992,11 @@ Maltraitance, niveau 2
 
 |
 
-Maltraitance, niveau 3
+21M133
 
 |
 
-21M134
+Maltraitance, niveau 3
 
 |
 
@@ -1034,11 +1004,11 @@ Maltraitance, niveau 3
 
 |
 
-Maltraitance, niveau 4
+21M134
 
 |
 
-21M141
+Maltraitance, niveau 4
 
 |
 
@@ -1046,11 +1016,11 @@ Maltraitance, niveau 4
 
 |
 
-Autres traumatismes et effets nocifs autres que les intoxications, niveau 1
+21M141
 
 |
 
-21M142
+Autres traumatismes et effets nocifs autres que les intoxications, niveau 1
 
 |
 
@@ -1058,11 +1028,11 @@ Autres traumatismes et effets nocifs autres que les intoxications, niveau 1
 
 |
 
-Autres traumatismes et effets nocifs autres que les intoxications, niveau 2
+21M142
 
 |
 
-21M143
+Autres traumatismes et effets nocifs autres que les intoxications, niveau 2
 
 |
 
@@ -1070,11 +1040,11 @@ Autres traumatismes et effets nocifs autres que les intoxications, niveau 2
 
 |
 
-Autres traumatismes et effets nocifs autres que les intoxications, niveau 3
+21M143
 
 |
 
-21M144
+Autres traumatismes et effets nocifs autres que les intoxications, niveau 3
 
 |
 
@@ -1082,11 +1052,11 @@ Autres traumatismes et effets nocifs autres que les intoxications, niveau 3
 
 |
 
-Autres traumatismes et effets nocifs autres que les intoxications, niveau 4
+21M144
 
 |
 
-21M14T
+Autres traumatismes et effets nocifs autres que les intoxications, niveau 4
 
 |
 
@@ -1094,11 +1064,11 @@ Autres traumatismes et effets nocifs autres que les intoxications, niveau 4
 
 |
 
-Autres traumatismes et effets nocifs autres que les intoxications, très courte durée
+21M14T
 
 |
 
-21M151
+Autres traumatismes et effets nocifs autres que les intoxications, très courte durée
 
 |
 
@@ -1106,11 +1076,11 @@ Autres traumatismes et effets nocifs autres que les intoxications, très courte 
 
 |
 
-Rejets de greffe, niveau 1
+21M151
 
 |
 
-21M152
+Rejets de greffe, niveau 1
 
 |
 
@@ -1118,11 +1088,11 @@ Rejets de greffe, niveau 1
 
 |
 
-Rejets de greffe, niveau 2
+21M152
 
 |
 
-21M153
+Rejets de greffe, niveau 2
 
 |
 
@@ -1130,11 +1100,11 @@ Rejets de greffe, niveau 2
 
 |
 
-Rejets de greffe, niveau 3
+21M153
 
 |
 
-21M154
+Rejets de greffe, niveau 3
 
 |
 
@@ -1142,11 +1112,11 @@ Rejets de greffe, niveau 3
 
 |
 
-Rejets de greffe, niveau 4
+21M154
 
 |
 
-21M15T
+Rejets de greffe, niveau 4
 
 |
 
@@ -1154,11 +1124,11 @@ Rejets de greffe, niveau 4
 
 |
 
-Rejets de greffe, très courte durée
+21M15T
 
 |
 
-21M161
+Rejets de greffe, très courte durée
 
 |
 
@@ -1166,11 +1136,11 @@ Rejets de greffe, très courte durée
 
 |
 
-Autres complications iatrogéniques non classées ailleurs, niveau 1
+21M161
 
 |
 
-21M162
+Autres complications iatrogéniques non classées ailleurs, niveau 1
 
 |
 
@@ -1178,11 +1148,11 @@ Autres complications iatrogéniques non classées ailleurs, niveau 1
 
 |
 
-Autres complications iatrogéniques non classées ailleurs, niveau 2
+21M162
 
 |
 
-21M163
+Autres complications iatrogéniques non classées ailleurs, niveau 2
 
 |
 
@@ -1190,11 +1160,11 @@ Autres complications iatrogéniques non classées ailleurs, niveau 2
 
 |
 
-Autres complications iatrogéniques non classées ailleurs, niveau 3
+21M163
 
 |
 
-21M164
+Autres complications iatrogéniques non classées ailleurs, niveau 3
 
 |
 
@@ -1202,11 +1172,11 @@ Autres complications iatrogéniques non classées ailleurs, niveau 3
 
 |
 
-Autres complications iatrogéniques non classées ailleurs, niveau 4
+21M164
 
 |
 
-21M16T
+Autres complications iatrogéniques non classées ailleurs, niveau 4
 
 |
 
@@ -1214,11 +1184,11 @@ Autres complications iatrogéniques non classées ailleurs, niveau 4
 
 |
 
-Autres complications iatrogéniques non classées ailleurs, très courte durée
+21M16T
 
 |
 
-22C021
+Autres complications iatrogéniques non classées ailleurs, très courte durée
 
 |
 
@@ -1226,11 +1196,11 @@ Autres complications iatrogéniques non classées ailleurs, très courte durée
 
 |
 
-Brûlures non étendues avec greffe cutanée, niveau 1
+22C021
 
 |
 
-22C022
+Brûlures non étendues avec greffe cutanée, niveau 1
 
 |
 
@@ -1238,11 +1208,11 @@ Brûlures non étendues avec greffe cutanée, niveau 1
 
 |
 
-Brûlures non étendues avec greffe cutanée, niveau 2
+22C022
 
 |
 
-22C023
+Brûlures non étendues avec greffe cutanée, niveau 2
 
 |
 
@@ -1250,11 +1220,11 @@ Brûlures non étendues avec greffe cutanée, niveau 2
 
 |
 
-Brûlures non étendues avec greffe cutanée, niveau 3
+22C023
 
 |
 
-22C024
+Brûlures non étendues avec greffe cutanée, niveau 3
 
 |
 
@@ -1262,11 +1232,11 @@ Brûlures non étendues avec greffe cutanée, niveau 3
 
 |
 
-Brûlures non étendues avec greffe cutanée, niveau 4
+22C024
 
 |
 
-22C02J
+Brûlures non étendues avec greffe cutanée, niveau 4
 
 |
 
@@ -1274,11 +1244,11 @@ Brûlures non étendues avec greffe cutanée, niveau 4
 
 |
 
-Brûlures non étendues avec greffe cutanée, en ambulatoire
+22C02J
 
 |
 
-22C031
+Brûlures non étendues avec greffe cutanée, en ambulatoire
 
 |
 
@@ -1286,11 +1256,11 @@ Brûlures non étendues avec greffe cutanée, en ambulatoire
 
 |
 
-Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 1
+22C031
 
 |
 
-22C032
+Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 1
 
 |
 
@@ -1298,11 +1268,11 @@ Brûlures non étendues avec parages de plaie ou autres interventions chirurgica
 
 |
 
-Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 2
+22C032
 
 |
 
-22C033
+Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 2
 
 |
 
@@ -1310,11 +1280,11 @@ Brûlures non étendues avec parages de plaie ou autres interventions chirurgica
 
 |
 
-Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 3
+22C033
 
 |
 
-22C034
+Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 3
 
 |
 
@@ -1322,11 +1292,11 @@ Brûlures non étendues avec parages de plaie ou autres interventions chirurgica
 
 |
 
-Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 4
+22C034
 
 |
 
-22K02J
+Brûlures non étendues avec parages de plaie ou autres interventions chirurgicales, niveau 4
 
 |
 
@@ -1334,11 +1304,11 @@ Brûlures non étendues avec parages de plaie ou autres interventions chirurgica
 
 |
 
-Brûlures sans acte opératoire, avec anesthésie, en ambulatoire
+22K02J
 
 |
 
-22M021
+Brûlures sans acte opératoire, avec anesthésie, en ambulatoire
 
 |
 
@@ -1346,11 +1316,11 @@ Brûlures sans acte opératoire, avec anesthésie, en ambulatoire
 
 |
 
-Brûlures et gelures non étendues sans intervention chirurgicale, niveau 1
+22M021
 
 |
 
-22M022
+Brûlures et gelures non étendues sans intervention chirurgicale, niveau 1
 
 |
 
@@ -1358,11 +1328,11 @@ Brûlures et gelures non étendues sans intervention chirurgicale, niveau 1
 
 |
 
-Brûlures et gelures non étendues sans intervention chirurgicale, niveau 2
+22M022
 
 |
 
-22M023
+Brûlures et gelures non étendues sans intervention chirurgicale, niveau 2
 
 |
 
@@ -1370,11 +1340,11 @@ Brûlures et gelures non étendues sans intervention chirurgicale, niveau 2
 
 |
 
-Brûlures et gelures non étendues sans intervention chirurgicale, niveau 3
+22M023
 
 |
 
-22M024
+Brûlures et gelures non étendues sans intervention chirurgicale, niveau 3
 
 |
 
@@ -1382,11 +1352,11 @@ Brûlures et gelures non étendues sans intervention chirurgicale, niveau 3
 
 |
 
-Brûlures et gelures non étendues sans intervention chirurgicale, niveau 4
+22M024
 
 |
 
-22M02T
+Brûlures et gelures non étendues sans intervention chirurgicale, niveau 4
 
 |
 
@@ -1394,11 +1364,11 @@ Brûlures et gelures non étendues sans intervention chirurgicale, niveau 4
 
 |
 
-Brûlures et gelures non étendues sans intervention chirurgicale, très courte durée
+22M02T
 
 |
 
-22Z021
+Brûlures et gelures non étendues sans intervention chirurgicale, très courte durée
 
 |
 
@@ -1406,11 +1376,11 @@ Brûlures et gelures non étendues sans intervention chirurgicale, très courte 
 
 |
 
-Brûlures étendues, niveau 1
+22Z021
 
 |
 
-22Z022
+Brûlures étendues, niveau 1
 
 |
 
@@ -1418,11 +1388,11 @@ Brûlures étendues, niveau 1
 
 |
 
-Brûlures étendues, niveau 2
+22Z022
 
 |
 
-22Z023
+Brûlures étendues, niveau 2
 
 |
 
@@ -1430,11 +1400,11 @@ Brûlures étendues, niveau 2
 
 |
 
-Brûlures étendues, niveau 3
+22Z023
 
 |
 
-22Z024
+Brûlures étendues, niveau 3
 
 |
 
@@ -1442,11 +1412,11 @@ Brûlures étendues, niveau 3
 
 |
 
-Brûlures étendues, niveau 4
+22Z024
 
 |
 
-22Z03Z
+Brûlures étendues, niveau 4
 
 |
 
@@ -1454,11 +1424,11 @@ Brûlures étendues, niveau 4
 
 |
 
-Brûlures avec transfert vers un autre établissement MCO : séjours de moins de 2 jours
+22Z03Z
 
 |
 
-23C021
+Brûlures avec transfert vers un autre établissement MCO : séjours de moins de 2 jours
 
 |
 
@@ -1466,11 +1436,11 @@ Brûlures avec transfert vers un autre établissement MCO : séjours de moins de
 
 |
 
-Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 1
+23C021
 
 |
 
-23C022
+Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 1
 
 |
 
@@ -1478,11 +1448,11 @@ Interventions chirurgicales avec autres motifs de recours aux services de santé
 
 |
 
-Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 2
+23C022
 
 |
 
-23C023
+Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 2
 
 |
 
@@ -1490,11 +1460,11 @@ Interventions chirurgicales avec autres motifs de recours aux services de santé
 
 |
 
-Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 3
+23C023
 
 |
 
-23C024
+Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 3
 
 |
 
@@ -1502,11 +1472,11 @@ Interventions chirurgicales avec autres motifs de recours aux services de santé
 
 |
 
-Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 4
+23C024
 
 |
 
-23C02J
+Interventions chirurgicales avec autres motifs de recours aux services de santé, niveau 4
 
 |
 
@@ -1514,11 +1484,11 @@ Interventions chirurgicales avec autres motifs de recours aux services de santé
 
 |
 
-Interventions chirurgicales avec autres motifs de recours aux services de santé, en ambulatoire
+23C02J
 
 |
 
-23K02Z
+Interventions chirurgicales avec autres motifs de recours aux services de santé, en ambulatoire
 
 |
 
@@ -1526,11 +1496,11 @@ Interventions chirurgicales avec autres motifs de recours aux services de santé
 
 |
 
-Explorations nocturnes et apparentées : séjours de moins de 2 jours
+23K02Z
 
 |
 
-23K03J
+Explorations nocturnes et apparentées : séjours de moins de 2 jours
 
 |
 
@@ -1538,11 +1508,11 @@ Explorations nocturnes et apparentées : séjours de moins de 2 jours
 
 |
 
-Motifs de recours de la CMD 23 sans acte opératoire, avec anesthésie, en ambulatoire
+23K03J
 
 |
 
-23M02T
+Motifs de recours de la CMD 23 sans acte opératoire, avec anesthésie, en ambulatoire
 
 |
 
@@ -1550,11 +1520,11 @@ Motifs de recours de la CMD 23 sans acte opératoire, avec anesthésie, en ambul
 
 |
 
-Rééducation, très courte durée
+23M02T
 
 |
 
-23M02Z
+Rééducation, très courte durée
 
 |
 
@@ -1562,11 +1532,11 @@ Rééducation, très courte durée
 
 |
 
-Rééducation
+23M02Z
 
 |
 
-23M061
+Rééducation
 
 |
 
@@ -1574,11 +1544,11 @@ Rééducation
 
 |
 
-Autres facteurs influant sur l'état de santé, niveau 1
+23M061
 
 |
 
-23M062
+Autres facteurs influant sur l'état de santé, niveau 1
 
 |
 
@@ -1586,11 +1556,11 @@ Autres facteurs influant sur l'état de santé, niveau 1
 
 |
 
-Autres facteurs influant sur l'état de santé, niveau 2
+23M062
 
 |
 
-23M063
+Autres facteurs influant sur l'état de santé, niveau 2
 
 |
 
@@ -1598,11 +1568,11 @@ Autres facteurs influant sur l'état de santé, niveau 2
 
 |
 
-Autres facteurs influant sur l'état de santé, niveau 3
+23M063
 
 |
 
-23M064
+Autres facteurs influant sur l'état de santé, niveau 3
 
 |
 
@@ -1610,11 +1580,11 @@ Autres facteurs influant sur l'état de santé, niveau 3
 
 |
 
-Autres facteurs influant sur l'état de santé, niveau 4
+23M064
 
 |
 
-23M06T
+Autres facteurs influant sur l'état de santé, niveau 4
 
 |
 
@@ -1622,11 +1592,11 @@ Autres facteurs influant sur l'état de santé, niveau 4
 
 |
 
-Autres facteurs influant sur l'état de santé, très courte durée
+23M06T
 
 |
 
-23M07J
+Autres facteurs influant sur l'état de santé, très courte durée
 
 |
 
@@ -1634,11 +1604,11 @@ Autres facteurs influant sur l'état de santé, très courte durée
 
 |
 
-Autres motifs de recours pour infection à VIH, en ambulatoire
+23M07J
 
 |
 
-23M08J
+Autres motifs de recours pour infection à VIH, en ambulatoire
 
 |
 
@@ -1646,11 +1616,11 @@ Autres motifs de recours pour infection à VIH, en ambulatoire
 
 |
 
-Autres motifs de recours chez un patient diabétique, en ambulatoire
+23M08J
 
 |
 
-23M091
+Autres motifs de recours chez un patient diabétique, en ambulatoire
 
 |
 
@@ -1658,11 +1628,11 @@ Autres motifs de recours chez un patient diabétique, en ambulatoire
 
 |
 
-Chimiothérapie pour affections non tumorales, niveau 1
+23M091
 
 |
 
-23M092
+Chimiothérapie pour affections non tumorales, niveau 1
 
 |
 
@@ -1670,11 +1640,11 @@ Chimiothérapie pour affections non tumorales, niveau 1
 
 |
 
-Chimiothérapie pour affections non tumorales, niveau 2
+23M092
 
 |
 
-23M093
+Chimiothérapie pour affections non tumorales, niveau 2
 
 |
 
@@ -1682,11 +1652,11 @@ Chimiothérapie pour affections non tumorales, niveau 2
 
 |
 
-Chimiothérapie pour affections non tumorales, niveau 3
+23M093
 
 |
 
-23M094
+Chimiothérapie pour affections non tumorales, niveau 3
 
 |
 
@@ -1694,11 +1664,11 @@ Chimiothérapie pour affections non tumorales, niveau 3
 
 |
 
-Chimiothérapie pour affections non tumorales, niveau 4
+23M094
 
 |
 
-23M101
+Chimiothérapie pour affections non tumorales, niveau 4
 
 |
 
@@ -1706,11 +1676,11 @@ Chimiothérapie pour affections non tumorales, niveau 4
 
 |
 
-Soins de contrôle chirurgicaux, niveau 1
+23M101
 
 |
 
-23M102
+Soins de contrôle chirurgicaux, niveau 1
 
 |
 
@@ -1718,11 +1688,11 @@ Soins de contrôle chirurgicaux, niveau 1
 
 |
 
-Soins de contrôle chirurgicaux, niveau 2
+23M102
 
 |
 
-23M103
+Soins de contrôle chirurgicaux, niveau 2
 
 |
 
@@ -1730,11 +1700,11 @@ Soins de contrôle chirurgicaux, niveau 2
 
 |
 
-Soins de contrôle chirurgicaux, niveau 3
+23M103
 
 |
 
-23M104
+Soins de contrôle chirurgicaux, niveau 3
 
 |
 
@@ -1742,11 +1712,11 @@ Soins de contrôle chirurgicaux, niveau 3
 
 |
 
-Soins de contrôle chirurgicaux, niveau 4
+23M104
 
 |
 
-23M10T
+Soins de contrôle chirurgicaux, niveau 4
 
 |
 
@@ -1754,11 +1724,11 @@ Soins de contrôle chirurgicaux, niveau 4
 
 |
 
-Soins de contrôle chirurgicaux, très courte durée
+23M10T
 
 |
 
-23M111
+Soins de contrôle chirurgicaux, très courte durée
 
 |
 
@@ -1766,11 +1736,11 @@ Soins de contrôle chirurgicaux, très courte durée
 
 |
 
-Autres motifs concernant majoritairement la petite enfance, niveau 1
+23M111
 
 |
 
-23M112
+Autres motifs concernant majoritairement la petite enfance, niveau 1
 
 |
 
@@ -1778,11 +1748,11 @@ Autres motifs concernant majoritairement la petite enfance, niveau 1
 
 |
 
-Autres motifs concernant majoritairement la petite enfance, niveau 2
+23M112
 
 |
 
-23M113
+Autres motifs concernant majoritairement la petite enfance, niveau 2
 
 |
 
@@ -1790,11 +1760,11 @@ Autres motifs concernant majoritairement la petite enfance, niveau 2
 
 |
 
-Autres motifs concernant majoritairement la petite enfance, niveau 3
+23M113
 
 |
 
-23M114
+Autres motifs concernant majoritairement la petite enfance, niveau 3
 
 |
 
@@ -1802,11 +1772,11 @@ Autres motifs concernant majoritairement la petite enfance, niveau 3
 
 |
 
-Autres motifs concernant majoritairement la petite enfance, niveau 4
+23M114
 
 |
 
-23M11T
+Autres motifs concernant majoritairement la petite enfance, niveau 4
 
 |
 
@@ -1814,23 +1784,11 @@ Autres motifs concernant majoritairement la petite enfance, niveau 4
 
 |
 
+23M11T
+
+|
+
 Autres motifs concernant majoritairement la petite enfance, très courte durée
-
-|
-
-23M13Z
-
-|
-
-7983
-
-|
-
-Désensibilisations nécessitant une hospitalisation
-
-|
-
-23M14Z
 
 |
 
@@ -1838,11 +1796,11 @@ Désensibilisations nécessitant une hospitalisation
 
 |
 
-Traitements prophylactiques
+23M14Z
 
 |
 
-23M15Z
+Traitements prophylactiques
 
 |
 
@@ -1850,11 +1808,11 @@ Traitements prophylactiques
 
 |
 
-Actes non effectués en raison d'une contre-indication
+23M15Z
 
 |
 
-23M16T
+Actes non effectués en raison d'une contre-indication
 
 |
 
@@ -1862,11 +1820,11 @@ Actes non effectués en raison d'une contre-indication
 
 |
 
-Convalescences et autres motifs sociaux, très courte durée
+23M16T
 
 |
 
-23M16Z
+Convalescences et autres motifs sociaux, très courte durée
 
 |
 
@@ -1874,23 +1832,11 @@ Convalescences et autres motifs sociaux, très courte durée
 
 |
 
+23M16Z
+
+|
+
 Convalescences et autres motifs sociaux
-
-|
-
-23M18Z
-
-|
-
-7987
-
-|
-
-Tests allergologiques nécessitant une hospitalisation
-
-|
-
-23M19Z
 
 |
 
@@ -1898,11 +1844,11 @@ Tests allergologiques nécessitant une hospitalisation
 
 |
 
-Explorations et surveillance pour autres motifs de recours aux soins
+23M19Z
 
 |
 
-23M20T
+Explorations et surveillance pour autres motifs de recours aux soins
 
 |
 
@@ -1910,11 +1856,11 @@ Explorations et surveillance pour autres motifs de recours aux soins
 
 |
 
-Autres symptômes et motifs de recours aux soins de la CMD 23, très courte durée
+23M20T
 
 |
 
-23M20Z
+Autres symptômes et motifs de recours aux soins de la CMD 23, très courte durée
 
 |
 
@@ -1922,11 +1868,35 @@ Autres symptômes et motifs de recours aux soins de la CMD 23, très courte dur�
 
 |
 
+23M20Z
+
+|
+
 Autres symptômes et motifs de recours aux soins de la CMD 23
 
 |
 
-23Z02T
+7997
+
+|
+
+23M21T
+
+|
+
+Désensibilisations et tests allergologiques nécessitant une hospitalisation, très courte durée
+
+|
+
+7998
+
+|
+
+23M21Z
+
+|
+
+Désensibilisations et tests allergologiques nécessitant une hospitalisation
 
 |
 
@@ -1934,27 +1904,11 @@ Autres symptômes et motifs de recours aux soins de la CMD 23
 
 |
 
+23Z02T
+
+|
+
 Soins palliatifs, avec ou sans acte, très courte durée
-
-|
-
-23Z02Z
-
-|
-
-7993
-
-|
-
-Soins palliatifs, avec ou sans acte
-
-|
-
-7994
-
-|
-
-Soins palliatifs, avec ou sans acte
 
 |
 
@@ -1962,23 +1916,19 @@ Soins palliatifs, avec ou sans acte
 
 |
 
+23Z02Z
+
+|
+
 Soins palliatifs, avec ou sans acte
 
 |
 
-23Z03Z
+7993
 
 |
 
-9999
-
-|
-
-Interventions de confort et autres interventions non prises en charge par l'assurance maladie obligatoire
-
-|
-
-25C021
+7994
 
 |
 
@@ -1986,11 +1936,11 @@ Interventions de confort et autres interventions non prises en charge par l'assu
 
 |
 
-Interventions pour maladie due au VIH, niveau 1
+25C021
 
 |
 
-25C022
+Interventions pour maladie due au VIH, niveau 1
 
 |
 
@@ -1998,11 +1948,11 @@ Interventions pour maladie due au VIH, niveau 1
 
 |
 
-Interventions pour maladie due au VIH, niveau 2
+25C022
 
 |
 
-25C023
+Interventions pour maladie due au VIH, niveau 2
 
 |
 
@@ -2010,11 +1960,11 @@ Interventions pour maladie due au VIH, niveau 2
 
 |
 
-Interventions pour maladie due au VIH, niveau 3
+25C023
 
 |
 
-25C024
+Interventions pour maladie due au VIH, niveau 3
 
 |
 
@@ -2022,11 +1972,11 @@ Interventions pour maladie due au VIH, niveau 3
 
 |
 
-Interventions pour maladie due au VIH, niveau 4
+25C024
 
 |
 
-25M02A
+Interventions pour maladie due au VIH, niveau 4
 
 |
 
@@ -2034,11 +1984,11 @@ Interventions pour maladie due au VIH, niveau 4
 
 |
 
-Autres maladies dues au VIH
+25M02A
 
 |
 
-25M02B
+Autres maladies dues au VIH
 
 |
 
@@ -2046,11 +1996,11 @@ Autres maladies dues au VIH
 
 |
 
-Maladies dues au VIH, avec une seule complication infectieuse
+25M02B
 
 |
 
-25M02C
+Maladies dues au VIH, avec une seule complication infectieuse
 
 |
 
@@ -2058,11 +2008,11 @@ Maladies dues au VIH, avec une seule complication infectieuse
 
 |
 
-Maladies dues au VIH, avec plusieurs complications infectieuses
+25M02C
 
 |
 
-25M02T
+Maladies dues au VIH, avec plusieurs complications infectieuses
 
 |
 
@@ -2070,11 +2020,11 @@ Maladies dues au VIH, avec plusieurs complications infectieuses
 
 |
 
-Autres maladies dues au VIH, très courte durée
+25M02T
 
 |
 
-25Z02E
+Autres maladies dues au VIH, très courte durée
 
 |
 
@@ -2082,11 +2032,11 @@ Autres maladies dues au VIH, très courte durée
 
 |
 
-Maladies dues au VIH, avec décès
+25Z02E
 
 |
 
-25Z031
+Maladies dues au VIH, avec décès
 
 |
 
@@ -2094,11 +2044,11 @@ Maladies dues au VIH, avec décès
 
 |
 
-Maladies dues au VIH, âge inférieur à 13 ans, niveau 1
+25Z031
 
 |
 
-25Z032
+Maladies dues au VIH, âge inférieur à 13 ans, niveau 1
 
 |
 
@@ -2106,11 +2056,11 @@ Maladies dues au VIH, âge inférieur à 13 ans, niveau 1
 
 |
 
-Maladies dues au VIH, âge inférieur à 13 ans, niveau 2
+25Z032
 
 |
 
-25Z033
+Maladies dues au VIH, âge inférieur à 13 ans, niveau 2
 
 |
 
@@ -2118,11 +2068,11 @@ Maladies dues au VIH, âge inférieur à 13 ans, niveau 2
 
 |
 
-Maladies dues au VIH, âge inférieur à 13 ans, niveau 3
+25Z033
 
 |
 
-25Z034
+Maladies dues au VIH, âge inférieur à 13 ans, niveau 3
 
 |
 
@@ -2130,11 +2080,11 @@ Maladies dues au VIH, âge inférieur à 13 ans, niveau 3
 
 |
 
-Maladies dues au VIH, âge inférieur à 13 ans, niveau 4
+25Z034
 
 |
 
-26C021
+Maladies dues au VIH, âge inférieur à 13 ans, niveau 4
 
 |
 
@@ -2142,11 +2092,11 @@ Maladies dues au VIH, âge inférieur à 13 ans, niveau 4
 
 |
 
-Interventions pour traumatismes multiples graves, niveau 1
+26C021
 
 |
 
-26C022
+Interventions pour traumatismes multiples graves, niveau 1
 
 |
 
@@ -2154,11 +2104,11 @@ Interventions pour traumatismes multiples graves, niveau 1
 
 |
 
-Interventions pour traumatismes multiples graves, niveau 2
+26C022
 
 |
 
-26C023
+Interventions pour traumatismes multiples graves, niveau 2
 
 |
 
@@ -2166,11 +2116,11 @@ Interventions pour traumatismes multiples graves, niveau 2
 
 |
 
-Interventions pour traumatismes multiples graves, niveau 3
+26C023
 
 |
 
-26C024
+Interventions pour traumatismes multiples graves, niveau 3
 
 |
 
@@ -2178,11 +2128,11 @@ Interventions pour traumatismes multiples graves, niveau 3
 
 |
 
-Interventions pour traumatismes multiples graves, niveau 4
+26C024
 
 |
 
-26M021
+Interventions pour traumatismes multiples graves, niveau 4
 
 |
 
@@ -2190,11 +2140,11 @@ Interventions pour traumatismes multiples graves, niveau 4
 
 |
 
-Traumatismes multiples graves, niveau 1
+26M021
 
 |
 
-26M022
+Traumatismes multiples graves, niveau 1
 
 |
 
@@ -2202,11 +2152,11 @@ Traumatismes multiples graves, niveau 1
 
 |
 
-Traumatismes multiples graves, niveau 2
+26M022
 
 |
 
-26M023
+Traumatismes multiples graves, niveau 2
 
 |
 
@@ -2214,11 +2164,11 @@ Traumatismes multiples graves, niveau 2
 
 |
 
-Traumatismes multiples graves, niveau 3
+26M023
 
 |
 
-26M024
+Traumatismes multiples graves, niveau 3
 
 |
 
@@ -2226,11 +2176,11 @@ Traumatismes multiples graves, niveau 3
 
 |
 
-Traumatismes multiples graves, niveau 4
+26M024
 
 |
 
-27C021
+Traumatismes multiples graves, niveau 4
 
 |
 
@@ -2238,11 +2188,11 @@ Traumatismes multiples graves, niveau 4
 
 |
 
-Transplantations hépatiques, niveau 1
+27C021
 
 |
 
-27C022
+Transplantations hépatiques, niveau 1
 
 |
 
@@ -2250,11 +2200,11 @@ Transplantations hépatiques, niveau 1
 
 |
 
-Transplantations hépatiques, niveau 2
+27C022
 
 |
 
-27C023
+Transplantations hépatiques, niveau 2
 
 |
 
@@ -2262,11 +2212,11 @@ Transplantations hépatiques, niveau 2
 
 |
 
-Transplantations hépatiques, niveau 3
+27C023
 
 |
 
-27C024
+Transplantations hépatiques, niveau 3
 
 |
 
@@ -2274,11 +2224,11 @@ Transplantations hépatiques, niveau 3
 
 |
 
-Transplantations hépatiques, niveau 4
+27C024
 
 |
 
-27C031
+Transplantations hépatiques, niveau 4
 
 |
 
@@ -2286,11 +2236,11 @@ Transplantations hépatiques, niveau 4
 
 |
 
-Transplantations pancréatiques, niveau 1
+27C031
 
 |
 
-27C032
+Transplantations pancréatiques, niveau 1
 
 |
 
@@ -2298,11 +2248,11 @@ Transplantations pancréatiques, niveau 1
 
 |
 
-Transplantations pancréatiques, niveau 2
+27C032
 
 |
 
-27C033
+Transplantations pancréatiques, niveau 2
 
 |
 
@@ -2310,11 +2260,11 @@ Transplantations pancréatiques, niveau 2
 
 |
 
-Transplantations pancréatiques, niveau 3
+27C033
 
 |
 
-27C034
+Transplantations pancréatiques, niveau 3
 
 |
 
@@ -2322,19 +2272,11 @@ Transplantations pancréatiques, niveau 3
 
 |
 
+27C034
+
+|
+
 Transplantations pancréatiques, niveau 4
-
-|
-
-27C041
-
-|
-
-8930
-
-|
-
-Transplantations pulmonaires, niveau 1
 
 |
 
@@ -2342,19 +2284,15 @@ Transplantations pulmonaires, niveau 1
 
 |
 
+27C041
+
+|
+
 Transplantations pulmonaires, niveau 1
 
 |
 
-27C042
-
-|
-
-8931
-
-|
-
-Transplantations pulmonaires, niveau 2
+8930
 
 |
 
@@ -2362,19 +2300,15 @@ Transplantations pulmonaires, niveau 2
 
 |
 
+27C042
+
+|
+
 Transplantations pulmonaires, niveau 2
 
 |
 
-27C043
-
-|
-
-8932
-
-|
-
-Transplantations pulmonaires, niveau 3
+8931
 
 |
 
@@ -2382,19 +2316,15 @@ Transplantations pulmonaires, niveau 3
 
 |
 
+27C043
+
+|
+
 Transplantations pulmonaires, niveau 3
 
 |
 
-27C044
-
-|
-
-8933
-
-|
-
-Transplantations pulmonaires, niveau 4
+8932
 
 |
 
@@ -2402,19 +2332,15 @@ Transplantations pulmonaires, niveau 4
 
 |
 
+27C044
+
+|
+
 Transplantations pulmonaires, niveau 4
 
 |
 
-27C051
-
-|
-
-8934
-
-|
-
-Transplantations cardiaques, niveau 1
+8933
 
 |
 
@@ -2422,19 +2348,15 @@ Transplantations cardiaques, niveau 1
 
 |
 
+27C051
+
+|
+
 Transplantations cardiaques, niveau 1
 
 |
 
-27C052
-
-|
-
-8935
-
-|
-
-Transplantations cardiaques, niveau 2
+8934
 
 |
 
@@ -2442,19 +2364,15 @@ Transplantations cardiaques, niveau 2
 
 |
 
+27C052
+
+|
+
 Transplantations cardiaques, niveau 2
 
 |
 
-27C053
-
-|
-
-8936
-
-|
-
-Transplantations cardiaques, niveau 3
+8935
 
 |
 
@@ -2462,19 +2380,15 @@ Transplantations cardiaques, niveau 3
 
 |
 
+27C053
+
+|
+
 Transplantations cardiaques, niveau 3
 
 |
 
-27C054
-
-|
-
-8937
-
-|
-
-Transplantations cardiaques, niveau 4
+8936
 
 |
 
@@ -2482,11 +2396,15 @@ Transplantations cardiaques, niveau 4
 
 |
 
+27C054
+
+|
+
 Transplantations cardiaques, niveau 4
 
 |
 
-27C061
+8937
 
 |
 
@@ -2494,11 +2412,11 @@ Transplantations cardiaques, niveau 4
 
 |
 
-Transplantations rénales, niveau 1
+27C061
 
 |
 
-27C062
+Transplantations rénales, niveau 1
 
 |
 
@@ -2506,11 +2424,11 @@ Transplantations rénales, niveau 1
 
 |
 
-Transplantations rénales, niveau 2
+27C062
 
 |
 
-27C063
+Transplantations rénales, niveau 2
 
 |
 
@@ -2518,11 +2436,11 @@ Transplantations rénales, niveau 2
 
 |
 
-Transplantations rénales, niveau 3
+27C063
 
 |
 
-27C064
+Transplantations rénales, niveau 3
 
 |
 
@@ -2530,11 +2448,11 @@ Transplantations rénales, niveau 3
 
 |
 
-Transplantations rénales, niveau 4
+27C064
 
 |
 
-27C071
+Transplantations rénales, niveau 4
 
 |
 
@@ -2542,11 +2460,11 @@ Transplantations rénales, niveau 4
 
 |
 
-Autres transplantations, niveau 1
+27C071
 
 |
 
-27C072
+Autres transplantations, niveau 1
 
 |
 
@@ -2554,11 +2472,11 @@ Autres transplantations, niveau 1
 
 |
 
-Autres transplantations, niveau 2
+27C072
 
 |
 
-27C073
+Autres transplantations, niveau 2
 
 |
 
@@ -2566,11 +2484,11 @@ Autres transplantations, niveau 2
 
 |
 
-Autres transplantations, niveau 3
+27C073
 
 |
 
-27C074
+Autres transplantations, niveau 3
 
 |
 
@@ -2578,11 +2496,11 @@ Autres transplantations, niveau 3
 
 |
 
-Autres transplantations, niveau 4
+27C074
 
 |
 
-27Z021
+Autres transplantations, niveau 4
 
 |
 
@@ -2590,11 +2508,11 @@ Autres transplantations, niveau 4
 
 |
 
-Allogreffes de cellules souches hématopoïétiques, niveau 1
+27Z021
 
 |
 
-27Z022
+Allogreffes de cellules souches hématopoïétiques, niveau 1
 
 |
 
@@ -2602,11 +2520,11 @@ Allogreffes de cellules souches hématopoïétiques, niveau 1
 
 |
 
-Allogreffes de cellules souches hématopoïétiques, niveau 2
+27Z022
 
 |
 
-27Z023
+Allogreffes de cellules souches hématopoïétiques, niveau 2
 
 |
 
@@ -2614,11 +2532,11 @@ Allogreffes de cellules souches hématopoïétiques, niveau 2
 
 |
 
-Allogreffes de cellules souches hématopoïétiques, niveau 3
+27Z023
 
 |
 
-27Z024
+Allogreffes de cellules souches hématopoïétiques, niveau 3
 
 |
 
@@ -2626,11 +2544,11 @@ Allogreffes de cellules souches hématopoïétiques, niveau 3
 
 |
 
-Allogreffes de cellules souches hématopoïétiques, niveau 4
+27Z024
 
 |
 
-27Z03Z
+Allogreffes de cellules souches hématopoïétiques, niveau 4
 
 |
 
@@ -2638,11 +2556,11 @@ Allogreffes de cellules souches hématopoïétiques, niveau 4
 
 |
 
-Autogreffes de cellules souches hématopoïétiques
+27Z03Z
 
 |
 
-27Z04J
+Autogreffes de cellules souches hématopoïétiques
 
 |
 
@@ -2650,11 +2568,11 @@ Autogreffes de cellules souches hématopoïétiques
 
 |
 
-Greffes de cellules souches hématopoïétiques, en ambulatoire
+27Z04J
 
 |
 
-28Z01Z
+Greffes de cellules souches hématopoïétiques, en ambulatoire
 
 |
 
@@ -2662,11 +2580,11 @@ Greffes de cellules souches hématopoïétiques, en ambulatoire
 
 |
 
-Entraînements à la dialyse péritonéale automatisée, en séances
+28Z01Z
 
 |
 
-28Z02Z
+Entraînements à la dialyse péritonéale automatisée, en séances
 
 |
 
@@ -2674,11 +2592,11 @@ Entraînements à la dialyse péritonéale automatisée, en séances
 
 |
 
-Entraînements à la dialyse péritonéale continue ambulatoire, en séances
+28Z02Z
 
 |
 
-28Z03Z
+Entraînements à la dialyse péritonéale continue ambulatoire, en séances
 
 |
 
@@ -2686,19 +2604,11 @@ Entraînements à la dialyse péritonéale continue ambulatoire, en séances
 
 |
 
+28Z03Z
+
+|
+
 Entraînements à l'hémodialyse, en séances
-
-|
-
-28Z04Z
-
-|
-
-9617
-
-|
-
-Hémodialyse, en séances
 
 |
 
@@ -2706,11 +2616,15 @@ Hémodialyse, en séances
 
 |
 
+28Z04Z
+
+|
+
 Hémodialyse, en séances
 
 |
 
-28Z07Z
+9617
 
 |
 
@@ -2718,11 +2632,11 @@ Hémodialyse, en séances
 
 |
 
-Chimiothérapie pour tumeur, en séances
+28Z07Z
 
 |
 
-28Z10Z
+Chimiothérapie pour tumeur, en séances
 
 |
 
@@ -2730,23 +2644,19 @@ Chimiothérapie pour tumeur, en séances
 
 |
 
+28Z10Z
+
+|
+
 Curiethérapie, en séances
 
 |
 
+9610
+
+|
+
 28Z11Z
-
-|
-
-9621
-
-|
-
-Techniques spéciales d'irradiation externe, en séances
-
-|
-
-9620
 
 |
 
@@ -2758,15 +2668,11 @@ Techniques spéciales d'irradiation externe, en séances
 
 |
 
-Techniques spéciales d'irradiation externe, en séances
+9620
 
 |
 
-9610
-
-|
-
-Techniques spéciales d'irradiation externe, en séances
+9621
 
 |
 
@@ -2774,7 +2680,7 @@ Techniques spéciales d'irradiation externe, en séances
 
 |
 
-Techniques spéciales d'irradiation externe, en séances
+9613
 
 |
 
@@ -2782,15 +2688,7 @@ Techniques spéciales d'irradiation externe, en séances
 
 |
 
-9613
-
-|
-
 Transfusions, en séances
-
-|
-
-28Z15Z
 
 |
 
@@ -2798,11 +2696,11 @@ Transfusions, en séances
 
 |
 
-Oxygénothérapie hyperbare, en séances
+28Z15Z
 
 |
 
-28Z16Z
+Oxygénothérapie hyperbare, en séances
 
 |
 
@@ -2810,11 +2708,11 @@ Oxygénothérapie hyperbare, en séances
 
 |
 
-Aphérèses sanguines, en séances
+28Z16Z
 
 |
 
-28Z17Z
+Aphérèses sanguines, en séances
 
 |
 
@@ -2822,15 +2720,19 @@ Aphérèses sanguines, en séances
 
 |
 
+28Z17Z
+
+|
+
 Chimiothérapie pour affection non tumorale, en séances
 
 |
 
-28Z18Z
+9622
 
 |
 
-9622
+28Z18Z
 
 |
 
@@ -2842,15 +2744,11 @@ Radiothérapie conformationnelle avec modulation d'intensité, en séances
 
 |
 
-Radiothérapie conformationnelle avec modulation d'intensité, en séances
+9626
 
 |
 
 28Z19Z
-
-|
-
-9626
 
 |
 
@@ -2862,7 +2760,7 @@ Préparations à une irradiation externe par RCMI ou techniques spéciales
 
 |
 
-Préparations à une irradiation externe par RCMI ou techniques spéciales
+9628
 
 |
 
@@ -2870,15 +2768,7 @@ Préparations à une irradiation externe par RCMI ou techniques spéciales
 
 |
 
-9628
-
-|
-
 Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec HDV
-
-|
-
-28Z21Z
 
 |
 
@@ -2886,11 +2776,11 @@ Préparations à une irradiation externe avec dosimétrie tridimensionnelle avec
 
 |
 
-Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans HDV
+28Z21Z
 
 |
 
-28Z22Z
+Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans HDV
 
 |
 
@@ -2898,11 +2788,11 @@ Préparations à une irradiation externe avec dosimétrie tridimensionnelle sans
 
 |
 
-Autres préparations à une irradiation externe
+28Z22Z
 
 |
 
-28Z23Z
+Autres préparations à une irradiation externe
 
 |
 
@@ -2910,11 +2800,11 @@ Autres préparations à une irradiation externe
 
 |
 
-Techniques complexes d'irradiation externe avec repositionnement, en séances
+28Z23Z
 
 |
 
-28Z24Z
+Techniques complexes d'irradiation externe avec repositionnement, en séances
 
 |
 
@@ -2922,15 +2812,19 @@ Techniques complexes d'irradiation externe avec repositionnement, en séances
 
 |
 
+28Z24Z
+
+|
+
 Techniques complexes d'irradiation externe sans repositionnement, en séances
 
 |
 
-28Z25Z
+9633
 
 |
 
-9633
+28Z25Z
 
 |
 

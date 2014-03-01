@@ -2,21 +2,13 @@
 
 Liste 1 : diagnostics et actes associés autorisant la facturation d'un supplément de surveillance continue
 
-CODE CIM-10
+CODES CIM-10 |
 
-|
+LIBELLÉS CIM-10 |
 
-LIBELLÉS CIM-10
+CODES ACTES CCAM |
 
-|
-
-CODES ACTES CCAM
-
-|
-
-LIBELLÉS CCAM
-
-|
+LIBELLÉS CCAM |
 
 D61. 0
 
@@ -386,7 +378,7 @@ F10. 4
 
 |
 
-Troubles mentaux et du comportement liés à l'utilisation d'alcool : syndrome de sevrage avec delirium
+Troubles mentaux et du comportement liés à l'utilisation d'alcool : syndrome de sevrage avec délirium
 
 |
 
@@ -638,7 +630,7 @@ G04. 2
 
 |
 
-Méningo-encéphalite et méningomyélite bactériennes, non classées aiileurs
+Méningo-encéphalite et méningomyélite bactériennes, non classées ailleurs
 
 |
 
@@ -806,7 +798,7 @@ G70. 2
 
 |
 
-Myasthénie congénitale et au cours du développement
+Myasthénie congénitale au cours du développement
 
 |
 
@@ -830,7 +822,7 @@ G73. 1
 
 |
 
-Syndrome de Lambert-Eaton
+Syndrome de Lambert-Eaton (C00-D48Æ)
 
 |
 
@@ -842,7 +834,7 @@ G73. 2
 
 |
 
-Autres syndromes myasthéniques au cours de maladies tumorales
+Autres syndromes myasthéniques au cours de maladies tumorales (C00-D48Æ)
 
 |
 
@@ -1310,7 +1302,7 @@ I33. 0
 
 |
 
-Endocardite infectieuse aiguë et subaiguë
+Endocardite infectieuse (aiguë et subaiguë)
 
 |
 
@@ -1639,6 +1631,150 @@ J96. 0
 |
 
 Insuffisance respiratoire aiguë
+
+|
+
+GLLD017
+
+|
+
+Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures
+
+|
+
+J96. 00
+
+|
+
+Insuffisance respiratoire aiguë de type I [hypoxique]
+
+|
+
+GLLD003
+
+|
+
+Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures
+
+|
+
+J96. 00
+
+|
+
+Insuffisance respiratoire aiguë de type I [hypoxique]
+
+|
+
+GLLD015
+
+|
+
+Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60 %, par 24 heures
+
+|
+
+J96. 00
+
+|
+
+Insuffisance respiratoire aiguë de type I [hypoxique]
+
+|
+
+GLLD017
+
+|
+
+Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures
+
+|
+
+J96. 01
+
+|
+
+Insuffisance respiratoire aiguë de type II [hypercapnique]
+
+|
+
+GLLD003
+
+|
+
+Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures
+
+|
+
+J96. 01
+
+|
+
+Insuffisance respiratoire aiguë de type II [hypercapnique]
+
+|
+
+GLLD015
+
+|
+
+Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60 %, par 24 heures
+
+|
+
+J96. 01
+
+|
+
+Insuffisance respiratoire aiguë de type II [hypercapnique]
+
+|
+
+GLLD017
+
+|
+
+Oxygénothérapie avec surveillance continue de l'oxymétrie, en dehors de la ventilation mécanique, par 24 heures
+
+|
+
+J96. 09
+
+|
+
+Insuffisance respiratoire aiguë, type non précisé
+
+|
+
+GLLD003
+
+|
+
+Ventilation spontanée au masque facial, par canule nasale ou par sonde nasopharyngée, sans aide inspiratoire, avec pression expiratoire positive [VS-PEP] [Continuous positive airway pressure] [CPAP], par 24 heures
+
+|
+
+J96. 09
+
+|
+
+Insuffisance respiratoire aiguë, type non précisé
+
+|
+
+GLLD015
+
+|
+
+Ventilation mécanique intratrachéale avec pression expiratoire positive [PEP] inférieure ou égale à 6 et FiO2 inférieure ou égale à 60 %, par 24 heures
+
+|
+
+J96. 09
+
+|
+
+Insuffisance respiratoire aiguë, type non précisé
 
 |
 
@@ -2182,7 +2318,7 @@ K51. 8
 
 |
 
-Autres rectocolites hémorragiques
+Autres recto-colites hémorragiques
 
 |
 
@@ -2198,7 +2334,7 @@ K51. 8
 
 |
 
-Autres rectocolites hémorragiques
+Autres recto-colites hémorragiques
 
 |
 
@@ -2214,7 +2350,7 @@ K51. 8
 
 |
 
-Autres rectocolites hémorragiques
+Autres recto-colites hémorragiques
 
 |
 
@@ -2230,7 +2366,7 @@ K51. 9
 
 |
 
-Rectocolite hémorragique, sans précision
+Recto-colite hémorragique, sans précision
 
 |
 
@@ -2246,7 +2382,7 @@ K51. 9
 
 |
 
-Rectocolite hémorragique, sans précision
+Recto-colite hémorragique, sans précision
 
 |
 
@@ -2262,7 +2398,7 @@ K51. 9
 
 |
 
-Rectocolite hémorragique, sans précision
+Recto-colite hémorragique, sans précision
 
 |
 
@@ -2302,7 +2438,7 @@ K85. 2
 
 |
 
-Pancréatite aiguë alcoolique
+Pancréatite aiguë d'origine alcoolique
 
 |
 
@@ -2358,7 +2494,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
+Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine
 
 |
 
@@ -2366,7 +2502,7 @@ K92. 1
 
 |
 
-Mélæna
+Melæna
 
 |
 
@@ -2374,7 +2510,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
+Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine
 
 |
 
@@ -2390,7 +2526,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
+Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine
 
 |
 
@@ -2410,7 +2546,7 @@ L. 51.29
 
 |
 
-Epidermolyse nécrosante suraiguë [Lyell] avec décollement inférieur à 30 % (de la surface du corps) ou sans précision
+Epidermolyse nécrosante suraiguë [Lyell] avec décollement inférieur à 30 % (de la surface du corps) et sans précison
 
 |
 
@@ -2658,7 +2794,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
+Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine
 
 |
 
@@ -2674,7 +2810,7 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
+Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine
 
 |
 
@@ -2682,7 +2818,7 @@ O72. 2
 
 |
 
-hémorragie du post-partum, tardive et secondaire
+Hémorragie du post-partum, tardive et secondaire
 
 |
 
@@ -2690,11 +2826,11 @@ FELF011
 
 |
 
-Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine
+Transfusion de concentré de globules rouges d'un volume inférieur à une demi-masse sanguine
 
 |
 
-R. 40.20
+R40. 20
 
 |
 
@@ -2706,7 +2842,7 @@ Etat végétatif chronique
 
 |
 
-R. 40.28
+R40. 28
 
 |
 
@@ -2718,7 +2854,7 @@ Coma, autre et sans précision
 
 |
 
-R. 57.0
+R57. 0
 
 |
 
@@ -2734,7 +2870,7 @@ Injection intraveineuse continue de dobutamine ou de dopamine à débit inférie
 
 |
 
-R. 57.1
+R57. 1
 
 |
 
@@ -2746,11 +2882,11 @@ ENLF001
 
 |
 
-Pose de dispositif intraartériel de surveillance de la pression intraartérielle
+Pose de dispositif intra-artériel de surveillance de la pression intra-artérielle
 
 |
 
-R. 57.1
+R57. 1
 
 |
 
@@ -2766,7 +2902,7 @@ Pose d'un cathéter veineux central, par voie transcutanée
 
 |
 
-R. 57.1
+R57. 1
 
 |
 
@@ -2782,7 +2918,7 @@ Perfusion intraveineuse de produit de remplissage à un débit supérieur à 50 
 
 |
 
-R. 57.2
+R57. 2
 
 |
 
@@ -2794,7 +2930,7 @@ Choc septique
 
 |
 
-R. 57.8
+R57. 8
 
 |
 
@@ -2810,7 +2946,7 @@ Injection intraveineuse continue de dobutamine ou de dopamine à débit inférie
 
 |
 
-R. 65.1
+R65. 1
 
 |
 
@@ -2822,7 +2958,7 @@ Syndrome de réponse inflammatoire systémique d'origine infectieuse avec défai
 
 |
 
-R. 65.3
+R65. 3
 
 |
 
@@ -2898,7 +3034,7 @@ S06. 50
 
 |
 
-Hémorragie sousdurale traumatique, sans plaie intracrânienne
+Hémorragie sous-durale traumatique, sans plaie intracrânienne
 
 |
 
@@ -2910,7 +3046,7 @@ S06. 60
 
 |
 
-Hémorragie sousarachnoïdienne traumatique, sans plaie intracrânienne
+Hémorragie sous-arachnoïdienne traumatique, sans plaie intracrânienne
 
 |
 
@@ -3418,7 +3554,7 @@ HSLD002
 
 |
 
-Alimentation entérale par sonde avec apport > 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
+Surveillance tonométrique continue du pH intramuqueux gastrique ou colique et/ ou du gradient gastroartériel ou coloartériel de la PCO2, par 24 heures
 
 |
 
@@ -3438,7 +3574,7 @@ T32. 1
 
 |
 
-Corrosions couvrant entre 10 % et moins de 20 % de la surface du corps
+Corrosions couvrant entre 10 et moins de 20 % de la surface du corps
 
 |
 
@@ -3454,7 +3590,7 @@ T32. 1
 
 |
 
-Corrosions couvrant entre 10 % et moins de 20 % de la surface du corps
+Corrosions couvrant entre 10 et moins de 20 % de la surface du corps
 
 |
 
@@ -3462,7 +3598,7 @@ HSLD002
 
 |
 
-Alimentation entérale par sonde avec apport > 35 kilocalories par kilogramme par jour [kcal/ kg/ jour], par 24 heures
+Surveillance tonométrique continue du pH intramuqueux gastrique ou colique et/ ou du gradient gastroartériel ou coloartériel de la PCO2, par 24 heures
 
 |
 
@@ -3470,7 +3606,7 @@ T32. 2
 
 |
 
-Corrosions couvrant entre 20 % et moins de 30 % de la surface du corps
+Corrosions couvrant entre 20 et moins de 30 % de la surface du corps
 
 |
 
@@ -3550,7 +3686,7 @@ DEQP007
 
 |
 
-Surveillance continue de l'électrocardiogramme par oscilloscopie et/ ou télésurveillance, avec surveillance continue de la pression intraartérielle et/ ou de la saturation artérielle en oxygène par méthodes non effractives, par 24 heures
+Surveillance continue de l'électrocardiogramme par oscilloscopie et/ ou télésurveillance, avec surveillance continue de la pression intra-artérielle et/ ou de la saturation artérielle en oxygène par méthodes non effractives, par 24 heures
 
 |
 

@@ -1,12 +1,18 @@
 # Article Annexe 1 (suite 3)
 
-LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
+LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOUR" (suite)
 
-06M211
+GHS |
+
+GHM |
+
+LIBELLÉ DU GHM |
+
+2202
 
 |
 
-2202
+06M211
 
 |
 
@@ -14,11 +20,11 @@ Autres affections digestives concernant majoritairement la petite enfance, nivea
 
 |
 
-06M212
+2203
 
 |
 
-2203
+06M212
 
 |
 
@@ -26,11 +32,11 @@ Autres affections digestives concernant majoritairement la petite enfance, nivea
 
 |
 
-06M213
+2204
 
 |
 
-2204
+06M213
 
 |
 
@@ -38,11 +44,11 @@ Autres affections digestives concernant majoritairement la petite enfance, nivea
 
 |
 
-06M214
+2205
 
 |
 
-2205
+06M214
 
 |
 
@@ -50,11 +56,11 @@ Autres affections digestives concernant majoritairement la petite enfance, nivea
 
 |
 
-07C061
+2319
 
 |
 
-2319
+07C061
 
 |
 
@@ -62,11 +68,11 @@ Interventions diagnostiques sur le système hépato-biliaire et pancréatique po
 
 |
 
-07C062
+2320
 
 |
 
-2320
+07C062
 
 |
 
@@ -74,11 +80,11 @@ Interventions diagnostiques sur le système hépato-biliaire et pancréatique po
 
 |
 
-07C063
+2321
 
 |
 
-2321
+07C063
 
 |
 
@@ -86,11 +92,11 @@ Interventions diagnostiques sur le système hépato-biliaire et pancréatique po
 
 |
 
-07C064
+2322
 
 |
 
-2322
+07C064
 
 |
 
@@ -98,11 +104,11 @@ Interventions diagnostiques sur le système hépato-biliaire et pancréatique po
 
 |
 
-07C071
+2323
 
 |
 
-2323
+07C071
 
 |
 
@@ -110,11 +116,11 @@ Interventions diagnostiques sur le système hépato-biliaire et pancréatique po
 
 |
 
-07C072
+2324
 
 |
 
-2324
+07C072
 
 |
 
@@ -122,11 +128,11 @@ Interventions diagnostiques sur le système hépato-biliaire et pancréatique po
 
 |
 
-07C073
+2325
 
 |
 
-2325
+07C073
 
 |
 
@@ -134,11 +140,11 @@ Interventions diagnostiques sur le système hépato-biliaire et pancréatique po
 
 |
 
-07C074
+2326
 
 |
 
-2326
+07C074
 
 |
 
@@ -146,11 +152,11 @@ Interventions diagnostiques sur le système hépato-biliaire et pancréatique po
 
 |
 
-07C081
+2327
 
 |
 
-2327
+07C081
 
 |
 
@@ -158,11 +164,11 @@ Autres interventions sur le système hépato-biliaire et pancréatique, niveau 1
 
 |
 
-07C082
+2328
 
 |
 
-2328
+07C082
 
 |
 
@@ -170,11 +176,11 @@ Autres interventions sur le système hépato-biliaire et pancréatique, niveau 2
 
 |
 
-07C083
+2329
 
 |
 
-2329
+07C083
 
 |
 
@@ -182,11 +188,11 @@ Autres interventions sur le système hépato-biliaire et pancréatique, niveau 3
 
 |
 
-07C084
+2330
 
 |
 
-2330
+07C084
 
 |
 
@@ -194,11 +200,11 @@ Autres interventions sur le système hépato-biliaire et pancréatique, niveau 4
 
 |
 
-07C091
+2331
 
 |
 
-2331
+07C091
 
 |
 
@@ -206,11 +212,11 @@ Interventions sur le foie, le pancréas et les veines porte ou cave pour tumeurs
 
 |
 
-07C092
+2332
 
 |
 
-2332
+07C092
 
 |
 
@@ -218,11 +224,11 @@ Interventions sur le foie, le pancréas et les veines porte ou cave pour tumeurs
 
 |
 
-07C093
+2333
 
 |
 
-2333
+07C093
 
 |
 
@@ -230,11 +236,11 @@ Interventions sur le foie, le pancréas et les veines porte ou cave pour tumeurs
 
 |
 
-07C094
+2334
 
 |
 
-2334
+07C094
 
 |
 
@@ -242,11 +248,11 @@ Interventions sur le foie, le pancréas et les veines porte ou cave pour tumeurs
 
 |
 
-07C101
+2335
 
 |
 
-2335
+07C101
 
 |
 
@@ -254,11 +260,11 @@ Interventions sur le foie, le pancréas et les veines porte ou cave pour affecti
 
 |
 
-07C102
+2336
 
 |
 
-2336
+07C102
 
 |
 
@@ -266,11 +272,11 @@ Interventions sur le foie, le pancréas et les veines porte ou cave pour affecti
 
 |
 
-07C103
+2337
 
 |
 
-2337
+07C103
 
 |
 
@@ -278,11 +284,11 @@ Interventions sur le foie, le pancréas et les veines porte ou cave pour affecti
 
 |
 
-07C104
+2338
 
 |
 
-2338
+07C104
 
 |
 
@@ -290,11 +296,11 @@ Interventions sur le foie, le pancréas et les veines porte ou cave pour affecti
 
 |
 
-07C111
+2339
 
 |
 
-2339
+07C111
 
 |
 
@@ -302,11 +308,11 @@ Dérivations biliaires, niveau 1
 
 |
 
-07C112
+2340
 
 |
 
-2340
+07C112
 
 |
 
@@ -314,11 +320,11 @@ Dérivations biliaires, niveau 2
 
 |
 
-07C113
+2341
 
 |
 
-2341
+07C113
 
 |
 
@@ -326,11 +332,11 @@ Dérivations biliaires, niveau 3
 
 |
 
-07C114
+2342
 
 |
 
-2342
+07C114
 
 |
 
@@ -338,11 +344,11 @@ Dérivations biliaires, niveau 4
 
 |
 
-07C121
+2343
 
 |
 
-2343
+07C121
 
 |
 
@@ -350,11 +356,11 @@ Autres interventions sur les voies biliaires sauf cholécystectomies isolées, n
 
 |
 
-07C122
+2344
 
 |
 
-2344
+07C122
 
 |
 
@@ -362,11 +368,11 @@ Autres interventions sur les voies biliaires sauf cholécystectomies isolées, n
 
 |
 
-07C123
+2345
 
 |
 
-2345
+07C123
 
 |
 
@@ -374,11 +380,11 @@ Autres interventions sur les voies biliaires sauf cholécystectomies isolées, n
 
 |
 
-07C124
+2346
 
 |
 
-2346
+07C124
 
 |
 
@@ -386,11 +392,11 @@ Autres interventions sur les voies biliaires sauf cholécystectomies isolées, n
 
 |
 
-07C131
+2347
 
 |
 
-2347
+07C131
 
 |
 
@@ -398,11 +404,11 @@ Cholécystectomies sans exploration de la voie biliaire principale pour affectio
 
 |
 
-07C132
+2348
 
 |
 
-2348
+07C132
 
 |
 
@@ -410,11 +416,11 @@ Cholécystectomies sans exploration de la voie biliaire principale pour affectio
 
 |
 
-07C133
+2349
 
 |
 
-2349
+07C133
 
 |
 
@@ -422,11 +428,11 @@ Cholécystectomies sans exploration de la voie biliaire principale pour affectio
 
 |
 
-07C134
+2350
 
 |
 
-2350
+07C134
 
 |
 
@@ -434,11 +440,11 @@ Cholécystectomies sans exploration de la voie biliaire principale pour affectio
 
 |
 
-07C141
+2351
 
 |
 
-2351
+07C141
 
 |
 
@@ -446,11 +452,11 @@ Cholécystectomies sans exploration de la voie biliaire principale à l'exceptio
 
 |
 
-07C142
+2352
 
 |
 
-2352
+07C142
 
 |
 
@@ -458,11 +464,11 @@ Cholécystectomies sans exploration de la voie biliaire principale à l'exceptio
 
 |
 
-07C143
+2353
 
 |
 
-2353
+07C143
 
 |
 
@@ -470,11 +476,11 @@ Cholécystectomies sans exploration de la voie biliaire principale à l'exceptio
 
 |
 
-07C144
+2354
 
 |
 
-2354
+07C144
 
 |
 
@@ -482,11 +488,11 @@ Cholécystectomies sans exploration de la voie biliaire principale à l'exceptio
 
 |
 
-07C14J
+2355
 
 |
 
-2355
+07C14J
 
 |
 
@@ -494,11 +500,11 @@ Cholécystectomies sans exploration de la voie biliaire principale à l'exceptio
 
 |
 
-07K02Z
+2511
 
 |
 
-2511
+07K02Z
 
 |
 
@@ -506,11 +512,11 @@ Endoscopies biliaires thérapeutiques et anesthésie : séjours de moins de 2 jo
 
 |
 
-07K04J
+2512
 
 |
 
-2512
+07K04J
 
 |
 
@@ -518,11 +524,11 @@ Endoscopie biliaire diagnostique et anesthésie, en ambulatoire
 
 |
 
-07K05J
+2513
 
 |
 
-2513
+07K05J
 
 |
 
@@ -530,7 +536,51 @@ Séjours comprenant une endoscopie biliaire thérapeutique ou diagnostique sans 
 
 |
 
-07M021
+2570
+
+|
+
+07K061
+
+|
+
+Actes thérapeutiques par voie vasculaire pour des affections malignes du système hépatobiliaire, niveau 1
+
+|
+
+2571
+
+|
+
+07K062
+
+|
+
+Actes thérapeutiques par voie vasculaire pour des affections malignes du système hépatobiliaire, niveau 2
+
+|
+
+2572
+
+|
+
+07K063
+
+|
+
+Actes thérapeutiques par voie vasculaire pour des affections malignes du système hépatobiliaire, niveau 3
+
+|
+
+2573
+
+|
+
+07K064
+
+|
+
+Actes thérapeutiques par voie vasculaire pour des affections malignes du système hépatobiliaire, niveau 4
 
 |
 
@@ -538,11 +588,11 @@ Séjours comprenant une endoscopie biliaire thérapeutique ou diagnostique sans 
 
 |
 
-Affections des voies biliaires, niveau 1
+07M021
 
 |
 
-07M022
+Affections des voies biliaires, niveau 1
 
 |
 
@@ -550,11 +600,11 @@ Affections des voies biliaires, niveau 1
 
 |
 
-Affections des voies biliaires, niveau 2
+07M022
 
 |
 
-07M023
+Affections des voies biliaires, niveau 2
 
 |
 
@@ -562,11 +612,11 @@ Affections des voies biliaires, niveau 2
 
 |
 
-Affections des voies biliaires, niveau 3
+07M023
 
 |
 
-07M024
+Affections des voies biliaires, niveau 3
 
 |
 
@@ -574,11 +624,11 @@ Affections des voies biliaires, niveau 3
 
 |
 
-Affections des voies biliaires, niveau 4
+07M024
 
 |
 
-07M02T
+Affections des voies biliaires, niveau 4
 
 |
 
@@ -586,11 +636,11 @@ Affections des voies biliaires, niveau 4
 
 |
 
-Affections des voies biliaires, très courte durée
+07M02T
 
 |
 
-07M041
+Affections des voies biliaires, très courte durée
 
 |
 
@@ -598,11 +648,11 @@ Affections des voies biliaires, très courte durée
 
 |
 
-Autres affections hépatiques, niveau 1
+07M041
 
 |
 
-07M042
+Autres affections hépatiques, niveau 1
 
 |
 
@@ -610,11 +660,11 @@ Autres affections hépatiques, niveau 1
 
 |
 
-Autres affections hépatiques, niveau 2
+07M042
 
 |
 
-07M043
+Autres affections hépatiques, niveau 2
 
 |
 
@@ -622,11 +672,11 @@ Autres affections hépatiques, niveau 2
 
 |
 
-Autres affections hépatiques, niveau 3
+07M043
 
 |
 
-07M044
+Autres affections hépatiques, niveau 3
 
 |
 
@@ -634,11 +684,11 @@ Autres affections hépatiques, niveau 3
 
 |
 
-Autres affections hépatiques, niveau 4
+07M044
 
 |
 
-07M04T
+Autres affections hépatiques, niveau 4
 
 |
 
@@ -646,11 +696,11 @@ Autres affections hépatiques, niveau 4
 
 |
 
-Autres affections hépatiques, très courte durée
+07M04T
 
 |
 
-07M061
+Autres affections hépatiques, très courte durée
 
 |
 
@@ -658,11 +708,11 @@ Autres affections hépatiques, très courte durée
 
 |
 
-Affections malignes du système hépato-biliaire ou du pancréas, niveau 1
+07M061
 
 |
 
-07M062
+Affections malignes du système hépato-biliaire ou du pancréas, niveau 1
 
 |
 
@@ -670,11 +720,11 @@ Affections malignes du système hépato-biliaire ou du pancréas, niveau 1
 
 |
 
-Affections malignes du système hépato-biliaire ou du pancréas, niveau 2
+07M062
 
 |
 
-07M063
+Affections malignes du système hépato-biliaire ou du pancréas, niveau 2
 
 |
 
@@ -682,11 +732,11 @@ Affections malignes du système hépato-biliaire ou du pancréas, niveau 2
 
 |
 
-Affections malignes du système hépato-biliaire ou du pancréas, niveau 3
+07M063
 
 |
 
-07M064
+Affections malignes du système hépato-biliaire ou du pancréas, niveau 3
 
 |
 
@@ -694,11 +744,11 @@ Affections malignes du système hépato-biliaire ou du pancréas, niveau 3
 
 |
 
-Affections malignes du système hépato-biliaire ou du pancréas, niveau 4
+07M064
 
 |
 
-07M06T
+Affections malignes du système hépato-biliaire ou du pancréas, niveau 4
 
 |
 
@@ -706,11 +756,11 @@ Affections malignes du système hépato-biliaire ou du pancréas, niveau 4
 
 |
 
-Affections malignes du système hépato-biliaire ou du pancréas, très courte durée
+07M06T
 
 |
 
-07M071
+Affections malignes du système hépato-biliaire ou du pancréas, très courte durée
 
 |
 
@@ -718,11 +768,11 @@ Affections malignes du système hépato-biliaire ou du pancréas, très courte d
 
 |
 
-Cirrhoses alcooliques, niveau 1
+07M071
 
 |
 
-07M072
+Cirrhoses alcooliques, niveau 1
 
 |
 
@@ -730,11 +780,11 @@ Cirrhoses alcooliques, niveau 1
 
 |
 
-Cirrhoses alcooliques, niveau 2
+07M072
 
 |
 
-07M073
+Cirrhoses alcooliques, niveau 2
 
 |
 
@@ -742,11 +792,11 @@ Cirrhoses alcooliques, niveau 2
 
 |
 
-Cirrhoses alcooliques, niveau 3
+07M073
 
 |
 
-07M074
+Cirrhoses alcooliques, niveau 3
 
 |
 
@@ -754,11 +804,11 @@ Cirrhoses alcooliques, niveau 3
 
 |
 
-Cirrhoses alcooliques, niveau 4
+07M074
 
 |
 
-07M07T
+Cirrhoses alcooliques, niveau 4
 
 |
 
@@ -766,11 +816,11 @@ Cirrhoses alcooliques, niveau 4
 
 |
 
-Cirrhoses alcooliques, très courte durée
+07M07T
 
 |
 
-07M081
+Cirrhoses alcooliques, très courte durée
 
 |
 
@@ -778,11 +828,11 @@ Cirrhoses alcooliques, très courte durée
 
 |
 
-Autres cirrhoses et fibrose hépatique, niveau 1
+07M081
 
 |
 
-07M082
+Autres cirrhoses et fibrose hépatique, niveau 1
 
 |
 
@@ -790,11 +840,11 @@ Autres cirrhoses et fibrose hépatique, niveau 1
 
 |
 
-Autres cirrhoses et fibrose hépatique, niveau 2
+07M082
 
 |
 
-07M083
+Autres cirrhoses et fibrose hépatique, niveau 2
 
 |
 
@@ -802,11 +852,11 @@ Autres cirrhoses et fibrose hépatique, niveau 2
 
 |
 
-Autres cirrhoses et fibrose hépatique, niveau 3
+07M083
 
 |
 
-07M084
+Autres cirrhoses et fibrose hépatique, niveau 3
 
 |
 
@@ -814,11 +864,11 @@ Autres cirrhoses et fibrose hépatique, niveau 3
 
 |
 
-Autres cirrhoses et fibrose hépatique, niveau 4
+07M084
 
 |
 
-07M08T
+Autres cirrhoses et fibrose hépatique, niveau 4
 
 |
 
@@ -826,11 +876,11 @@ Autres cirrhoses et fibrose hépatique, niveau 4
 
 |
 
-Autres cirrhoses et fibrose hépatique, très courte durée
+07M08T
 
 |
 
-07M091
+Autres cirrhoses et fibrose hépatique, très courte durée
 
 |
 
@@ -838,11 +888,11 @@ Autres cirrhoses et fibrose hépatique, très courte durée
 
 |
 
-Hépatites chroniques, niveau 1
+07M091
 
 |
 
-07M092
+Hépatites chroniques, niveau 1
 
 |
 
@@ -850,11 +900,11 @@ Hépatites chroniques, niveau 1
 
 |
 
-Hépatites chroniques, niveau 2
+07M092
 
 |
 
-07M093
+Hépatites chroniques, niveau 2
 
 |
 
@@ -862,11 +912,11 @@ Hépatites chroniques, niveau 2
 
 |
 
-Hépatites chroniques, niveau 3
+07M093
 
 |
 
-07M094
+Hépatites chroniques, niveau 3
 
 |
 
@@ -874,11 +924,11 @@ Hépatites chroniques, niveau 3
 
 |
 
-Hépatites chroniques, niveau 4
+07M094
 
 |
 
-07M09T
+Hépatites chroniques, niveau 4
 
 |
 
@@ -886,11 +936,11 @@ Hépatites chroniques, niveau 4
 
 |
 
-Hépatites chroniques, très courte durée
+07M09T
 
 |
 
-07M101
+Hépatites chroniques, très courte durée
 
 |
 
@@ -898,11 +948,11 @@ Hépatites chroniques, très courte durée
 
 |
 
-Pancréatites aiguës, niveau 1
+07M101
 
 |
 
-07M102
+Pancréatites aiguës, niveau 1
 
 |
 
@@ -910,11 +960,11 @@ Pancréatites aiguës, niveau 1
 
 |
 
-Pancréatites aiguës, niveau 2
+07M102
 
 |
 
-07M103
+Pancréatites aiguës, niveau 2
 
 |
 
@@ -922,11 +972,11 @@ Pancréatites aiguës, niveau 2
 
 |
 
-Pancréatites aiguës, niveau 3
+07M103
 
 |
 
-07M104
+Pancréatites aiguës, niveau 3
 
 |
 
@@ -934,11 +984,11 @@ Pancréatites aiguës, niveau 3
 
 |
 
-Pancréatites aiguës, niveau 4
+07M104
 
 |
 
-07M10T
+Pancréatites aiguës, niveau 4
 
 |
 
@@ -946,11 +996,11 @@ Pancréatites aiguës, niveau 4
 
 |
 
-Pancréatites aiguës, très courte durée
+07M10T
 
 |
 
-07M111
+Pancréatites aiguës, très courte durée
 
 |
 
@@ -958,11 +1008,11 @@ Pancréatites aiguës, très courte durée
 
 |
 
-Autres affections non malignes du pancréas, niveau 1
+07M111
 
 |
 
-07M112
+Autres affections non malignes du pancréas, niveau 1
 
 |
 
@@ -970,11 +1020,11 @@ Autres affections non malignes du pancréas, niveau 1
 
 |
 
-Autres affections non malignes du pancréas, niveau 2
+07M112
 
 |
 
-07M113
+Autres affections non malignes du pancréas, niveau 2
 
 |
 
@@ -982,11 +1032,11 @@ Autres affections non malignes du pancréas, niveau 2
 
 |
 
-Autres affections non malignes du pancréas, niveau 3
+07M113
 
 |
 
-07M114
+Autres affections non malignes du pancréas, niveau 3
 
 |
 
@@ -994,11 +1044,11 @@ Autres affections non malignes du pancréas, niveau 3
 
 |
 
-Autres affections non malignes du pancréas, niveau 4
+07M114
 
 |
 
-07M11T
+Autres affections non malignes du pancréas, niveau 4
 
 |
 
@@ -1006,11 +1056,11 @@ Autres affections non malignes du pancréas, niveau 4
 
 |
 
-Autres affections non malignes du pancréas, très courte durée
+07M11T
 
 |
 
-07M121
+Autres affections non malignes du pancréas, très courte durée
 
 |
 
@@ -1018,11 +1068,11 @@ Autres affections non malignes du pancréas, très courte durée
 
 |
 
-Suivis de greffe de foie et de pancréas, niveau 1
+07M121
 
 |
 
-07M122
+Suivis de greffe de foie et de pancréas, niveau 1
 
 |
 
@@ -1030,11 +1080,11 @@ Suivis de greffe de foie et de pancréas, niveau 1
 
 |
 
-Suivis de greffe de foie et de pancréas, niveau 2
+07M122
 
 |
 
-07M123
+Suivis de greffe de foie et de pancréas, niveau 2
 
 |
 
@@ -1042,11 +1092,11 @@ Suivis de greffe de foie et de pancréas, niveau 2
 
 |
 
-Suivis de greffe de foie et de pancréas, niveau 3
+07M123
 
 |
 
-07M124
+Suivis de greffe de foie et de pancréas, niveau 3
 
 |
 
@@ -1054,11 +1104,11 @@ Suivis de greffe de foie et de pancréas, niveau 3
 
 |
 
-Suivis de greffe de foie et de pancréas, niveau 4
+07M124
 
 |
 
-07M13Z
+Suivis de greffe de foie et de pancréas, niveau 4
 
 |
 
@@ -1066,11 +1116,11 @@ Suivis de greffe de foie et de pancréas, niveau 4
 
 |
 
-Explorations et surveillance des affections du système hépatobiliaire et du pancréas
+07M13Z
 
 |
 
-07M14T
+Explorations et surveillance des affections du système hépatobiliaire et du pancréas
 
 |
 
@@ -1078,11 +1128,11 @@ Explorations et surveillance des affections du système hépatobiliaire et du pa
 
 |
 
-Symptômes et autres recours aux soins de la CMD 07, très courte durée
+07M14T
 
 |
 
-07M14Z
+Symptômes et autres recours aux soins de la CMD 07, très courte durée
 
 |
 
@@ -1090,11 +1140,11 @@ Symptômes et autres recours aux soins de la CMD 07, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 07
+07M14Z
 
 |
 
-07M151
+Symptômes et autres recours aux soins de la CMD 07
 
 |
 
@@ -1102,11 +1152,11 @@ Symptômes et autres recours aux soins de la CMD 07
 
 |
 
-Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 1
+07M151
 
 |
 
-07M152
+Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 1
 
 |
 
@@ -1114,11 +1164,11 @@ Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrho
 
 |
 
-Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 2
+07M152
 
 |
 
-07M153
+Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 2
 
 |
 
@@ -1126,11 +1176,11 @@ Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrho
 
 |
 
-Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 3
+07M153
 
 |
 
-07M154
+Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 3
 
 |
 
@@ -1138,11 +1188,11 @@ Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrho
 
 |
 
-Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 4
+07M154
 
 |
 
-07M15T
+Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, niveau 4
 
 |
 
@@ -1150,11 +1200,11 @@ Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrho
 
 |
 
-Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, très courte durée
+07M15T
 
 |
 
-07M161
+Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrhoses et des hépatites alcooliques, très courte durée
 
 |
 
@@ -1162,11 +1212,11 @@ Affections hépatiques sévères à l'exception des tumeurs malignes, des cirrho
 
 |
 
-Ictères du nouveau-né, niveau 1
+07M161
 
 |
 
-07M162
+Ictères du nouveau-né, niveau 1
 
 |
 
@@ -1174,11 +1224,11 @@ Ictères du nouveau-né, niveau 1
 
 |
 
-Ictères du nouveau-né, niveau 2
+07M162
 
 |
 
-07M163
+Ictères du nouveau-né, niveau 2
 
 |
 
@@ -1186,11 +1236,11 @@ Ictères du nouveau-né, niveau 2
 
 |
 
-Ictères du nouveau-né, niveau 3
+07M163
 
 |
 
-07M164
+Ictères du nouveau-né, niveau 3
 
 |
 
@@ -1198,11 +1248,11 @@ Ictères du nouveau-né, niveau 3
 
 |
 
-Ictères du nouveau-né, niveau 4
+07M164
 
 |
 
-08C021
+Ictères du nouveau-né, niveau 4
 
 |
 
@@ -1210,11 +1260,11 @@ Ictères du nouveau-né, niveau 4
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 1
+08C021
 
 |
 
-08C022
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 1
 
 |
 
@@ -1222,11 +1272,11 @@ Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 1
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 2
+08C022
 
 |
 
-08C023
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 2
 
 |
 
@@ -1234,11 +1284,11 @@ Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 2
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 3
+08C023
 
 |
 
-08C024
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 3
 
 |
 
@@ -1246,11 +1296,11 @@ Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 3
 
 |
 
-Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 4
+08C024
 
 |
 
-08C041
+Interventions majeures multiples sur les genoux et/ou les hanches, niveau 4
 
 |
 
@@ -1258,11 +1308,11 @@ Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 4
 
 |
 
-Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 1
+08C041
 
 |
 
-08C042
+Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -1270,11 +1320,11 @@ Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 1
 
 |
 
-Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 2
+08C042
 
 |
 
-08C043
+Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -1282,11 +1332,11 @@ Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 2
 
 |
 
-Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 3
+08C043
 
 |
 
-08C044
+Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -1294,11 +1344,11 @@ Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 3
 
 |
 
-Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 4
+08C044
 
 |
 
-08C061
+Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -1306,11 +1356,11 @@ Interventions sur la hanche et le fémur, âge inférieur à 18 ans, niveau 4
 
 |
 
-Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 1
+08C061
 
 |
 
-08C062
+Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 1
 
 |
 
@@ -1318,11 +1368,11 @@ Amputations pour affections de l'appareil musculosquelettique et du tissu conjon
 
 |
 
-Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 2
+08C062
 
 |
 
-08C063
+Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 2
 
 |
 
@@ -1330,11 +1380,11 @@ Amputations pour affections de l'appareil musculosquelettique et du tissu conjon
 
 |
 
-Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 3
+08C063
 
 |
 
-08C064
+Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 3
 
 |
 
@@ -1342,11 +1392,11 @@ Amputations pour affections de l'appareil musculosquelettique et du tissu conjon
 
 |
 
-Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 4
+08C064
 
 |
 
-08C121
+Amputations pour affections de l'appareil musculosquelettique et du tissu conjonctif, niveau 4
 
 |
 
@@ -1354,11 +1404,11 @@ Amputations pour affections de l'appareil musculosquelettique et du tissu conjon
 
 |
 
-Biopsies ostéoarticulaires, niveau 1
+08C121
 
 |
 
-08C122
+Biopsies ostéoarticulaires, niveau 1
 
 |
 
@@ -1366,11 +1416,11 @@ Biopsies ostéoarticulaires, niveau 1
 
 |
 
-Biopsies ostéoarticulaires, niveau 2
+08C122
 
 |
 
-08C123
+Biopsies ostéoarticulaires, niveau 2
 
 |
 
@@ -1378,11 +1428,11 @@ Biopsies ostéoarticulaires, niveau 2
 
 |
 
-Biopsies ostéoarticulaires, niveau 3
+08C123
 
 |
 
-08C124
+Biopsies ostéoarticulaires, niveau 3
 
 |
 
@@ -1390,11 +1440,11 @@ Biopsies ostéoarticulaires, niveau 3
 
 |
 
-Biopsies ostéoarticulaires, niveau 4
+08C124
 
 |
 
-08C12J
+Biopsies ostéoarticulaires, niveau 4
 
 |
 
@@ -1402,11 +1452,11 @@ Biopsies ostéoarticulaires, niveau 4
 
 |
 
-Biopsies ostéoarticulaires, en ambulatoire
+08C12J
 
 |
 
-08C131
+Biopsies ostéoarticulaires, en ambulatoire
 
 |
 
@@ -1414,11 +1464,11 @@ Biopsies ostéoarticulaires, en ambulatoire
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 1
+08C131
 
 |
 
-08C132
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 1
 
 |
 
@@ -1426,11 +1476,11 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 2
+08C132
 
 |
 
-08C133
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 2
 
 |
 
@@ -1438,11 +1488,11 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 3
+08C133
 
 |
 
-08C134
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 3
 
 |
 
@@ -1450,11 +1500,11 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 4
+08C134
 
 |
 
-08C13J
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 4
 
 |
 
@@ -1462,11 +1512,11 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, en ambulatoire
+08C13J
 
 |
 
-08C141
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, en ambulatoire
 
 |
 
@@ -1474,11 +1524,11 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 1
+08C141
 
 |
 
-08C142
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 1
 
 |
 
@@ -1486,11 +1536,11 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 2
+08C142
 
 |
 
-08C143
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 2
 
 |
 
@@ -1498,11 +1548,11 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 3
+08C143
 
 |
 
-08C144
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 3
 
 |
 
@@ -1510,11 +1560,11 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 4
+08C144
 
 |
 
-08C14J
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 4
 
 |
 
@@ -1522,11 +1572,11 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, en ambulatoire
+08C14J
 
 |
 
-08C201
+Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, en ambulatoire
 
 |
 
@@ -1534,11 +1584,11 @@ Résections osseuses localisées et/ ou ablation de matériel de fixation intern
 
 |
 
-Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 1
+08C201
 
 |
 
-08C202
+Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 1
 
 |
 
@@ -1546,11 +1596,11 @@ Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjo
 
 |
 
-Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 2
+08C202
 
 |
 
-08C203
+Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 2
 
 |
 
@@ -1558,11 +1608,11 @@ Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjo
 
 |
 
-Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 3
+08C203
 
 |
 
-08C204
+Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 3
 
 |
 
@@ -1570,11 +1620,11 @@ Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjo
 
 |
 
-Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 4
+08C204
 
 |
 
-08C20J
+Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, niveau 4
 
 |
 
@@ -1582,11 +1632,11 @@ Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjo
 
 |
 
-Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, en ambulatoire
+08C20J
 
 |
 
-08C211
+Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjonctif, en ambulatoire
 
 |
 
@@ -1594,11 +1644,11 @@ Greffes de peau pour maladie de l'appareil musculosquelettique ou du tissu conjo
 
 |
 
-Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 1
+08C211
 
 |
 
-08C212
+Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 1
 
 |
 
@@ -1606,11 +1656,11 @@ Autres interventions portant sur l'appareil musculosquelettique et le tissu conj
 
 |
 
-Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 2
+08C212
 
 |
 
-08C213
+Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 2
 
 |
 
@@ -1618,11 +1668,11 @@ Autres interventions portant sur l'appareil musculosquelettique et le tissu conj
 
 |
 
-Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 3
+08C213
 
 |
 
-08C214
+Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 3
 
 |
 
@@ -1630,11 +1680,11 @@ Autres interventions portant sur l'appareil musculosquelettique et le tissu conj
 
 |
 
-Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 4
+08C214
 
 |
 
-08C21J
+Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, niveau 4
 
 |
 
@@ -1642,11 +1692,11 @@ Autres interventions portant sur l'appareil musculosquelettique et le tissu conj
 
 |
 
-Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, en ambulatoire
+08C21J
 
 |
 
-08C221
+Autres interventions portant sur l'appareil musculosquelettique et le tissu conjonctif, en ambulatoire
 
 |
 
@@ -1654,11 +1704,11 @@ Autres interventions portant sur l'appareil musculosquelettique et le tissu conj
 
 |
 
-Interventions pour reprise de prothèses articulaires, niveau 1
+08C221
 
 |
 
-08C222
+Interventions pour reprise de prothèses articulaires, niveau 1
 
 |
 
@@ -1666,11 +1716,11 @@ Interventions pour reprise de prothèses articulaires, niveau 1
 
 |
 
-Interventions pour reprise de prothèses articulaires, niveau 2
+08C222
 
 |
 
-08C223
+Interventions pour reprise de prothèses articulaires, niveau 2
 
 |
 
@@ -1678,11 +1728,11 @@ Interventions pour reprise de prothèses articulaires, niveau 2
 
 |
 
-Interventions pour reprise de prothèses articulaires, niveau 3
+08C223
 
 |
 
-08C224
+Interventions pour reprise de prothèses articulaires, niveau 3
 
 |
 
@@ -1690,11 +1740,11 @@ Interventions pour reprise de prothèses articulaires, niveau 3
 
 |
 
-Interventions pour reprise de prothèses articulaires, niveau 4
+08C224
 
 |
 
-08C241
+Interventions pour reprise de prothèses articulaires, niveau 4
 
 |
 
@@ -1702,11 +1752,11 @@ Interventions pour reprise de prothèses articulaires, niveau 4
 
 |
 
-Prothèses de genou, niveau 1
+08C241
 
 |
 
-08C242
+Prothèses de genou, niveau 1
 
 |
 
@@ -1714,11 +1764,11 @@ Prothèses de genou, niveau 1
 
 |
 
-Prothèses de genou, niveau 2
+08C242
 
 |
 
-08C243
+Prothèses de genou, niveau 2
 
 |
 
@@ -1726,11 +1776,11 @@ Prothèses de genou, niveau 2
 
 |
 
-Prothèses de genou, niveau 3
+08C243
 
 |
 
-08C244
+Prothèses de genou, niveau 3
 
 |
 
@@ -1738,11 +1788,11 @@ Prothèses de genou, niveau 3
 
 |
 
-Prothèses de genou, niveau 4
+08C244
 
 |
 
-08C251
+Prothèses de genou, niveau 4
 
 |
 
@@ -1750,11 +1800,11 @@ Prothèses de genou, niveau 4
 
 |
 
-Prothèses d'épaule, niveau 1
+08C251
 
 |
 
-08C252
+Prothèses d'épaule, niveau 1
 
 |
 
@@ -1762,11 +1812,11 @@ Prothèses d'épaule, niveau 1
 
 |
 
-Prothèses d'épaule, niveau 2
+08C252
 
 |
 
-08C253
+Prothèses d'épaule, niveau 2
 
 |
 
@@ -1774,11 +1824,11 @@ Prothèses d'épaule, niveau 2
 
 |
 
-Prothèses d'épaule, niveau 3
+08C253
 
 |
 
-08C254
+Prothèses d'épaule, niveau 3
 
 |
 
@@ -1786,11 +1836,11 @@ Prothèses d'épaule, niveau 3
 
 |
 
-Prothèses d'épaule, niveau 4
+08C254
 
 |
 
-08C271
+Prothèses d'épaule, niveau 4
 
 |
 
@@ -1798,11 +1848,11 @@ Prothèses d'épaule, niveau 4
 
 |
 
-Autres interventions sur le rachis, niveau 1
+08C271
 
 |
 
-08C272
+Autres interventions sur le rachis, niveau 1
 
 |
 
@@ -1810,11 +1860,11 @@ Autres interventions sur le rachis, niveau 1
 
 |
 
-Autres interventions sur le rachis, niveau 2
+08C272
 
 |
 
-08C273
+Autres interventions sur le rachis, niveau 2
 
 |
 
@@ -1822,11 +1872,11 @@ Autres interventions sur le rachis, niveau 2
 
 |
 
-Autres interventions sur le rachis, niveau 3
+08C273
 
 |
 
-08C274
+Autres interventions sur le rachis, niveau 3
 
 |
 
@@ -1834,11 +1884,11 @@ Autres interventions sur le rachis, niveau 3
 
 |
 
-Autres interventions sur le rachis, niveau 4
+08C274
 
 |
 
-08C281
+Autres interventions sur le rachis, niveau 4
 
 |
 
@@ -1846,11 +1896,11 @@ Autres interventions sur le rachis, niveau 4
 
 |
 
-Interventions maxillofaciales, niveau 1
+08C281
 
 |
 
-08C282
+Interventions maxillofaciales, niveau 1
 
 |
 
@@ -1858,11 +1908,11 @@ Interventions maxillofaciales, niveau 1
 
 |
 
-Interventions maxillofaciales, niveau 2
+08C282
 
 |
 
-08C283
+Interventions maxillofaciales, niveau 2
 
 |
 
@@ -1870,11 +1920,11 @@ Interventions maxillofaciales, niveau 2
 
 |
 
-Interventions maxillofaciales, niveau 3
+08C283
 
 |
 
-08C284
+Interventions maxillofaciales, niveau 3
 
 |
 
@@ -1882,11 +1932,11 @@ Interventions maxillofaciales, niveau 3
 
 |
 
-Interventions maxillofaciales, niveau 4
+08C284
 
 |
 
-08C28J
+Interventions maxillofaciales, niveau 4
 
 |
 
@@ -1894,11 +1944,11 @@ Interventions maxillofaciales, niveau 4
 
 |
 
-Interventions maxillofaciales, en ambulatoire
+08C28J
 
 |
 
-08C291
+Interventions maxillofaciales, en ambulatoire
 
 |
 
@@ -1906,11 +1956,11 @@ Interventions maxillofaciales, en ambulatoire
 
 |
 
-Interventions sur le tissu mou pour tumeurs malignes, niveau 1
+08C291
 
 |
 
-08C292
+Interventions sur le tissu mou pour tumeurs malignes, niveau 1
 
 |
 
@@ -1918,11 +1968,11 @@ Interventions sur le tissu mou pour tumeurs malignes, niveau 1
 
 |
 
-Interventions sur le tissu mou pour tumeurs malignes, niveau 2
+08C292
 
 |
 
-08C293
+Interventions sur le tissu mou pour tumeurs malignes, niveau 2
 
 |
 
@@ -1930,11 +1980,11 @@ Interventions sur le tissu mou pour tumeurs malignes, niveau 2
 
 |
 
-Interventions sur le tissu mou pour tumeurs malignes, niveau 3
+08C293
 
 |
 
-08C294
+Interventions sur le tissu mou pour tumeurs malignes, niveau 3
 
 |
 
@@ -1942,11 +1992,11 @@ Interventions sur le tissu mou pour tumeurs malignes, niveau 3
 
 |
 
-Interventions sur le tissu mou pour tumeurs malignes, niveau 4
+08C294
 
 |
 
-08C29J
+Interventions sur le tissu mou pour tumeurs malignes, niveau 4
 
 |
 
@@ -1954,11 +2004,11 @@ Interventions sur le tissu mou pour tumeurs malignes, niveau 4
 
 |
 
-Interventions sur le tissu mou pour tumeurs malignes, en ambulatoire
+08C29J
 
 |
 
-08C311
+Interventions sur le tissu mou pour tumeurs malignes, en ambulatoire
 
 |
 
@@ -1966,11 +2016,11 @@ Interventions sur le tissu mou pour tumeurs malignes, en ambulatoire
 
 |
 
-Interventions sur la jambe, âge inférieur à 18 ans, niveau 1
+08C311
 
 |
 
-08C312
+Interventions sur la jambe, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -1978,11 +2028,11 @@ Interventions sur la jambe, âge inférieur à 18 ans, niveau 1
 
 |
 
-Interventions sur la jambe, âge inférieur à 18 ans, niveau 2
+08C312
 
 |
 
-08C313
+Interventions sur la jambe, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -1990,11 +2040,11 @@ Interventions sur la jambe, âge inférieur à 18 ans, niveau 2
 
 |
 
-Interventions sur la jambe, âge inférieur à 18 ans, niveau 3
+08C313
 
 |
 
-08C314
+Interventions sur la jambe, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -2002,11 +2052,11 @@ Interventions sur la jambe, âge inférieur à 18 ans, niveau 3
 
 |
 
-Interventions sur la jambe, âge inférieur à 18 ans, niveau 4
+08C314
 
 |
 
-08C321
+Interventions sur la jambe, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -2014,11 +2064,11 @@ Interventions sur la jambe, âge inférieur à 18 ans, niveau 4
 
 |
 
-Interventions sur la jambe, âge supérieur à 17 ans, niveau 1
+08C321
 
 |
 
-08C322
+Interventions sur la jambe, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2026,11 +2076,11 @@ Interventions sur la jambe, âge supérieur à 17 ans, niveau 1
 
 |
 
-Interventions sur la jambe, âge supérieur à 17 ans, niveau 2
+08C322
 
 |
 
-08C323
+Interventions sur la jambe, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2038,11 +2088,11 @@ Interventions sur la jambe, âge supérieur à 17 ans, niveau 2
 
 |
 
-Interventions sur la jambe, âge supérieur à 17 ans, niveau 3
+08C323
 
 |
 
-08C324
+Interventions sur la jambe, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2050,11 +2100,11 @@ Interventions sur la jambe, âge supérieur à 17 ans, niveau 3
 
 |
 
-Interventions sur la jambe, âge supérieur à 17 ans, niveau 4
+08C324
 
 |
 
-08C32J
+Interventions sur la jambe, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2062,11 +2112,11 @@ Interventions sur la jambe, âge supérieur à 17 ans, niveau 4
 
 |
 
-Interventions sur la jambe, âge supérieur à 17 ans, en ambulatoire
+08C32J
 
 |
 
-08C331
+Interventions sur la jambe, âge supérieur à 17 ans, en ambulatoire
 
 |
 
@@ -2074,11 +2124,11 @@ Interventions sur la jambe, âge supérieur à 17 ans, en ambulatoire
 
 |
 
-Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 1
+08C331
 
 |
 
-08C332
+Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 1
 
 |
 
@@ -2086,11 +2136,11 @@ Interventions sur la cheville et l'arrière-pied à l'exception des fractures, n
 
 |
 
-Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 2
+08C332
 
 |
 
-08C333
+Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 2
 
 |
 
@@ -2098,11 +2148,11 @@ Interventions sur la cheville et l'arrière-pied à l'exception des fractures, n
 
 |
 
-Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 3
+08C333
 
 |
 
-08C334
+Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 3
 
 |
 
@@ -2110,11 +2160,11 @@ Interventions sur la cheville et l'arrière-pied à l'exception des fractures, n
 
 |
 
-Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 4
+08C334
 
 |
 
-08C341
+Interventions sur la cheville et l'arrière-pied à l'exception des fractures, niveau 4
 
 |
 
@@ -2122,11 +2172,11 @@ Interventions sur la cheville et l'arrière-pied à l'exception des fractures, n
 
 |
 
-Interventions sur les ligaments croisés sous arthroscopie, niveau 1
+08C341
 
 |
 
-08C342
+Interventions sur les ligaments croisés sous arthroscopie, niveau 1
 
 |
 
@@ -2134,11 +2184,11 @@ Interventions sur les ligaments croisés sous arthroscopie, niveau 1
 
 |
 
-Interventions sur les ligaments croisés sous arthroscopie, niveau 2
+08C342
 
 |
 
-08C343
+Interventions sur les ligaments croisés sous arthroscopie, niveau 2
 
 |
 
@@ -2146,11 +2196,11 @@ Interventions sur les ligaments croisés sous arthroscopie, niveau 2
 
 |
 
-Interventions sur les ligaments croisés sous arthroscopie, niveau 3
+08C343
 
 |
 
-08C344
+Interventions sur les ligaments croisés sous arthroscopie, niveau 3
 
 |
 
@@ -2158,11 +2208,11 @@ Interventions sur les ligaments croisés sous arthroscopie, niveau 3
 
 |
 
-Interventions sur les ligaments croisés sous arthroscopie, niveau 4
+08C344
 
 |
 
-08C351
+Interventions sur les ligaments croisés sous arthroscopie, niveau 4
 
 |
 
@@ -2170,11 +2220,11 @@ Interventions sur les ligaments croisés sous arthroscopie, niveau 4
 
 |
 
-Interventions sur le bras, coude et épaule, niveau 1
+08C351
 
 |
 
-08C352
+Interventions sur le bras, coude et épaule, niveau 1
 
 |
 
@@ -2182,11 +2232,11 @@ Interventions sur le bras, coude et épaule, niveau 1
 
 |
 
-Interventions sur le bras, coude et épaule, niveau 2
+08C352
 
 |
 
-08C353
+Interventions sur le bras, coude et épaule, niveau 2
 
 |
 
@@ -2194,11 +2244,11 @@ Interventions sur le bras, coude et épaule, niveau 2
 
 |
 
-Interventions sur le bras, coude et épaule, niveau 3
+08C353
 
 |
 
-08C354
+Interventions sur le bras, coude et épaule, niveau 3
 
 |
 
@@ -2206,11 +2256,11 @@ Interventions sur le bras, coude et épaule, niveau 3
 
 |
 
-Interventions sur le bras, coude et épaule, niveau 4
+08C354
 
 |
 
-08C35J
+Interventions sur le bras, coude et épaule, niveau 4
 
 |
 
@@ -2218,11 +2268,11 @@ Interventions sur le bras, coude et épaule, niveau 4
 
 |
 
-Interventions sur le bras, coude et épaule, en ambulatoire
+08C35J
 
 |
 
-08C361
+Interventions sur le bras, coude et épaule, en ambulatoire
 
 |
 
@@ -2230,11 +2280,11 @@ Interventions sur le bras, coude et épaule, en ambulatoire
 
 |
 
-Interventions sur le pied, âge inférieur à 18 ans, niveau 1
+08C361
 
 |
 
-08C362
+Interventions sur le pied, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -2242,11 +2292,11 @@ Interventions sur le pied, âge inférieur à 18 ans, niveau 1
 
 |
 
-Interventions sur le pied, âge inférieur à 18 ans, niveau 2
+08C362
 
 |
 
-08C363
+Interventions sur le pied, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -2254,11 +2304,11 @@ Interventions sur le pied, âge inférieur à 18 ans, niveau 2
 
 |
 
-Interventions sur le pied, âge inférieur à 18 ans, niveau 3
+08C363
 
 |
 
-08C364
+Interventions sur le pied, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -2266,11 +2316,11 @@ Interventions sur le pied, âge inférieur à 18 ans, niveau 3
 
 |
 
-Interventions sur le pied, âge inférieur à 18 ans, niveau 4
+08C364
 
 |
 
-08C36J
+Interventions sur le pied, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -2278,11 +2328,11 @@ Interventions sur le pied, âge inférieur à 18 ans, niveau 4
 
 |
 
-Interventions sur le pied, âge inférieur à 18 ans, en ambulatoire
+08C36J
 
 |
 
-08C371
+Interventions sur le pied, âge inférieur à 18 ans, en ambulatoire
 
 |
 
@@ -2290,11 +2340,11 @@ Interventions sur le pied, âge inférieur à 18 ans, en ambulatoire
 
 |
 
-Interventions sur le pied, âge supérieur à 17 ans, niveau 1
+08C371
 
 |
 
-08C372
+Interventions sur le pied, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2302,11 +2352,11 @@ Interventions sur le pied, âge supérieur à 17 ans, niveau 1
 
 |
 
-Interventions sur le pied, âge supérieur à 17 ans, niveau 2
+08C372
 
 |
 
-08C373
+Interventions sur le pied, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2314,11 +2364,11 @@ Interventions sur le pied, âge supérieur à 17 ans, niveau 2
 
 |
 
-Interventions sur le pied, âge supérieur à 17 ans, niveau 3
+08C373
 
 |
 
-08C374
+Interventions sur le pied, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2326,11 +2376,11 @@ Interventions sur le pied, âge supérieur à 17 ans, niveau 3
 
 |
 
-Interventions sur le pied, âge supérieur à 17 ans, niveau 4
+08C374
 
 |
 
-08C37J
+Interventions sur le pied, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2338,11 +2388,11 @@ Interventions sur le pied, âge supérieur à 17 ans, niveau 4
 
 |
 
-Interventions sur le pied, âge supérieur à 17 ans, en ambulatoire
+08C37J
 
 |
 
-08C381
+Interventions sur le pied, âge supérieur à 17 ans, en ambulatoire
 
 |
 
@@ -2350,11 +2400,11 @@ Interventions sur le pied, âge supérieur à 17 ans, en ambulatoire
 
 |
 
-Autres arthroscopies du genou, niveau 1
+08C381
 
 |
 
-08C382
+Autres arthroscopies du genou, niveau 1
 
 |
 
@@ -2362,11 +2412,11 @@ Autres arthroscopies du genou, niveau 1
 
 |
 
-Autres arthroscopies du genou, niveau 2
+08C382
 
 |
 
-08C383
+Autres arthroscopies du genou, niveau 2
 
 |
 
@@ -2374,11 +2424,11 @@ Autres arthroscopies du genou, niveau 2
 
 |
 
-Autres arthroscopies du genou, niveau 3
+08C383
 
 |
 
-08C384
+Autres arthroscopies du genou, niveau 3
 
 |
 
@@ -2386,11 +2436,11 @@ Autres arthroscopies du genou, niveau 3
 
 |
 
-Autres arthroscopies du genou, niveau 4
+08C384
 
 |
 
-08C38J
+Autres arthroscopies du genou, niveau 4
 
 |
 
@@ -2398,11 +2448,11 @@ Autres arthroscopies du genou, niveau 4
 
 |
 
-Autres arthroscopies du genou, en ambulatoire
+08C38J
 
 |
 
-08C391
+Autres arthroscopies du genou, en ambulatoire
 
 |
 
@@ -2410,11 +2460,11 @@ Autres arthroscopies du genou, en ambulatoire
 
 |
 
-Interventions sur l'avant-bras, niveau 1
+08C391
 
 |
 
-08C392
+Interventions sur l'avant-bras, niveau 1
 
 |
 
@@ -2422,11 +2472,11 @@ Interventions sur l'avant-bras, niveau 1
 
 |
 
-Interventions sur l'avant-bras, niveau 2
+08C392
 
 |
 
-08C393
+Interventions sur l'avant-bras, niveau 2
 
 |
 
@@ -2434,11 +2484,11 @@ Interventions sur l'avant-bras, niveau 2
 
 |
 
-Interventions sur l'avant-bras, niveau 3
+08C393
 
 |
 
-08C394
+Interventions sur l'avant-bras, niveau 3
 
 |
 
@@ -2446,11 +2496,11 @@ Interventions sur l'avant-bras, niveau 3
 
 |
 
-Interventions sur l'avant-bras, niveau 4
+08C394
 
 |
 
-08C39J
+Interventions sur l'avant-bras, niveau 4
 
 |
 
@@ -2458,11 +2508,11 @@ Interventions sur l'avant-bras, niveau 4
 
 |
 
-Interventions sur l'avant-bras, en ambulatoire
+08C39J
 
 |
 
-08C401
+Interventions sur l'avant-bras, en ambulatoire
 
 |
 
@@ -2470,11 +2520,11 @@ Interventions sur l'avant-bras, en ambulatoire
 
 |
 
-Arthroscopies d'autres localisations, niveau 1
+08C401
 
 |
 
-08C402
+Arthroscopies d'autres localisations, niveau 1
 
 |
 
@@ -2482,11 +2532,11 @@ Arthroscopies d'autres localisations, niveau 1
 
 |
 
-Arthroscopies d'autres localisations, niveau 2
+08C402
 
 |
 
-08C403
+Arthroscopies d'autres localisations, niveau 2
 
 |
 
@@ -2494,11 +2544,11 @@ Arthroscopies d'autres localisations, niveau 2
 
 |
 
-Arthroscopies d'autres localisations, niveau 3
+08C403
 
 |
 
-08C404
+Arthroscopies d'autres localisations, niveau 3
 
 |
 
@@ -2506,11 +2556,11 @@ Arthroscopies d'autres localisations, niveau 3
 
 |
 
-Arthroscopies d'autres localisations, niveau 4
+08C404
 
 |
 
-08C40J
+Arthroscopies d'autres localisations, niveau 4
 
 |
 
@@ -2518,11 +2568,11 @@ Arthroscopies d'autres localisations, niveau 4
 
 |
 
-Arthroscopies d'autres localisations, en ambulatoire
+08C40J
 
 |
 
-08C421
+Arthroscopies d'autres localisations, en ambulatoire
 
 |
 
@@ -2530,11 +2580,11 @@ Arthroscopies d'autres localisations, en ambulatoire
 
 |
 
-Interventions non mineures sur les tissus mous, niveau 1
+08C421
 
 |
 
-08C422
+Interventions non mineures sur les tissus mous, niveau 1
 
 |
 
@@ -2542,11 +2592,11 @@ Interventions non mineures sur les tissus mous, niveau 1
 
 |
 
-Interventions non mineures sur les tissus mous, niveau 2
+08C422
 
 |
 
-08C423
+Interventions non mineures sur les tissus mous, niveau 2
 
 |
 
@@ -2554,11 +2604,11 @@ Interventions non mineures sur les tissus mous, niveau 2
 
 |
 
-Interventions non mineures sur les tissus mous, niveau 3
+08C423
 
 |
 
-08C424
+Interventions non mineures sur les tissus mous, niveau 3
 
 |
 
@@ -2566,11 +2616,11 @@ Interventions non mineures sur les tissus mous, niveau 3
 
 |
 
-Interventions non mineures sur les tissus mous, niveau 4
+08C424
 
 |
 
-08C42J
+Interventions non mineures sur les tissus mous, niveau 4
 
 |
 
@@ -2578,11 +2628,11 @@ Interventions non mineures sur les tissus mous, niveau 4
 
 |
 
-Interventions non mineures sur les tissus mous, en ambulatoire
+08C42J
 
 |
 
-08C431
+Interventions non mineures sur les tissus mous, en ambulatoire
 
 |
 
@@ -2590,11 +2640,11 @@ Interventions non mineures sur les tissus mous, en ambulatoire
 
 |
 
-Interventions non mineures sur la main, niveau 1
+08C431
 
 |
 
-08C432
+Interventions non mineures sur la main, niveau 1
 
 |
 
@@ -2602,11 +2652,11 @@ Interventions non mineures sur la main, niveau 1
 
 |
 
-Interventions non mineures sur la main, niveau 2
+08C432
 
 |
 
-08C433
+Interventions non mineures sur la main, niveau 2
 
 |
 
@@ -2614,11 +2664,11 @@ Interventions non mineures sur la main, niveau 2
 
 |
 
-Interventions non mineures sur la main, niveau 3
+08C433
 
 |
 
-08C434
+Interventions non mineures sur la main, niveau 3
 
 |
 
@@ -2626,11 +2676,11 @@ Interventions non mineures sur la main, niveau 3
 
 |
 
-Interventions non mineures sur la main, niveau 4
+08C434
 
 |
 
-08C43J
+Interventions non mineures sur la main, niveau 4
 
 |
 
@@ -2638,11 +2688,11 @@ Interventions non mineures sur la main, niveau 4
 
 |
 
-Interventions non mineures sur la main, en ambulatoire
+08C43J
 
 |
 
-08C441
+Interventions non mineures sur la main, en ambulatoire
 
 |
 
@@ -2650,11 +2700,11 @@ Interventions non mineures sur la main, en ambulatoire
 
 |
 
-Autres interventions sur la main, niveau 1
+08C441
 
 |
 
-08C442
+Autres interventions sur la main, niveau 1
 
 |
 
@@ -2662,11 +2712,11 @@ Autres interventions sur la main, niveau 1
 
 |
 
-Autres interventions sur la main, niveau 2
+08C442
 
 |
 
-08C443
+Autres interventions sur la main, niveau 2
 
 |
 
@@ -2674,11 +2724,11 @@ Autres interventions sur la main, niveau 2
 
 |
 
-Autres interventions sur la main, niveau 3
+08C443
 
 |
 
-08C444
+Autres interventions sur la main, niveau 3
 
 |
 
@@ -2686,11 +2736,11 @@ Autres interventions sur la main, niveau 3
 
 |
 
-Autres interventions sur la main, niveau 4
+08C444
 
 |
 
-08C44J
+Autres interventions sur la main, niveau 4
 
 |
 
@@ -2698,11 +2748,11 @@ Autres interventions sur la main, niveau 4
 
 |
 
-Autres interventions sur la main, en ambulatoire
+08C44J
 
 |
 
-08C451
+Autres interventions sur la main, en ambulatoire
 
 |
 
@@ -2710,11 +2760,11 @@ Autres interventions sur la main, en ambulatoire
 
 |
 
-Ménisectomie sous arthroscopie, niveau 1
+08C451
 
 |
 
-08C452
+Ménisectomie sous arthroscopie, niveau 1
 
 |
 
@@ -2722,11 +2772,11 @@ Ménisectomie sous arthroscopie, niveau 1
 
 |
 
-Ménisectomie sous arthroscopie, niveau 2
+08C452
 
 |
 
-08C453
+Ménisectomie sous arthroscopie, niveau 2
 
 |
 
@@ -2734,11 +2784,11 @@ Ménisectomie sous arthroscopie, niveau 2
 
 |
 
-Ménisectomie sous arthroscopie, niveau 3
+08C453
 
 |
 
-08C454
+Ménisectomie sous arthroscopie, niveau 3
 
 |
 
@@ -2746,11 +2796,11 @@ Ménisectomie sous arthroscopie, niveau 3
 
 |
 
-Ménisectomie sous arthroscopie, niveau 4
+08C454
 
 |
 
-08C45J
+Ménisectomie sous arthroscopie, niveau 4
 
 |
 
@@ -2758,11 +2808,11 @@ Ménisectomie sous arthroscopie, niveau 4
 
 |
 
-Ménisectomie sous arthroscopie, en ambulatoire
+08C45J
 
 |
 
-08C461
+Ménisectomie sous arthroscopie, en ambulatoire
 
 |
 
@@ -2770,11 +2820,11 @@ Ménisectomie sous arthroscopie, en ambulatoire
 
 |
 
-Autres interventions sur les tissus mous, niveau 1
+08C461
 
 |
 
-08C462
+Autres interventions sur les tissus mous, niveau 1
 
 |
 
@@ -2782,11 +2832,11 @@ Autres interventions sur les tissus mous, niveau 1
 
 |
 
-Autres interventions sur les tissus mous, niveau 2
+08C462
 
 |
 
-08C463
+Autres interventions sur les tissus mous, niveau 2
 
 |
 
@@ -2794,11 +2844,11 @@ Autres interventions sur les tissus mous, niveau 2
 
 |
 
-Autres interventions sur les tissus mous, niveau 3
+08C463
 
 |
 
-08C464
+Autres interventions sur les tissus mous, niveau 3
 
 |
 
@@ -2806,11 +2856,11 @@ Autres interventions sur les tissus mous, niveau 3
 
 |
 
-Autres interventions sur les tissus mous, niveau 4
+08C464
 
 |
 
-08C46J
+Autres interventions sur les tissus mous, niveau 4
 
 |
 
@@ -2818,11 +2868,11 @@ Autres interventions sur les tissus mous, niveau 4
 
 |
 
-Autres interventions sur les tissus mous, en ambulatoire
+08C46J
 
 |
 
-08C471
+Autres interventions sur les tissus mous, en ambulatoire
 
 |
 
@@ -2830,11 +2880,11 @@ Autres interventions sur les tissus mous, en ambulatoire
 
 |
 
-Prothèses de hanche pour traumatismes récents, niveau 1
+08C471
 
 |
 
-08C472
+Prothèses de hanche pour traumatismes récents, niveau 1
 
 |
 
@@ -2842,11 +2892,11 @@ Prothèses de hanche pour traumatismes récents, niveau 1
 
 |
 
-Prothèses de hanche pour traumatismes récents, niveau 2
+08C472
 
 |
 
-08C473
+Prothèses de hanche pour traumatismes récents, niveau 2
 
 |
 
@@ -2854,11 +2904,11 @@ Prothèses de hanche pour traumatismes récents, niveau 2
 
 |
 
-Prothèses de hanche pour traumatismes récents, niveau 3
+08C473
 
 |
 
-08C474
+Prothèses de hanche pour traumatismes récents, niveau 3
 
 |
 
@@ -2866,11 +2916,11 @@ Prothèses de hanche pour traumatismes récents, niveau 3
 
 |
 
-Prothèses de hanche pour traumatismes récents, niveau 4
+08C474
 
 |
 
-08C481
+Prothèses de hanche pour traumatismes récents, niveau 4
 
 |
 
@@ -2878,11 +2928,11 @@ Prothèses de hanche pour traumatismes récents, niveau 4
 
 |
 
-Prothèses de hanche pour des affections autres que des traumatismes récents, niveau 1
+08C481
 
 |
 
-08C482
+Prothèses de hanche pour des affections autres que des traumatismes récents, niveau 1
 
 |
 
@@ -2890,11 +2940,11 @@ Prothèses de hanche pour des affections autres que des traumatismes récents, n
 
 |
 
-Prothèses de hanche pour des affections autres que des traumatismes récents, niveau 2
+08C482
 
 |
 
-08C483
+Prothèses de hanche pour des affections autres que des traumatismes récents, niveau 2
 
 |
 
@@ -2902,11 +2952,11 @@ Prothèses de hanche pour des affections autres que des traumatismes récents, n
 
 |
 
-Prothèses de hanche pour des affections autres que des traumatismes récents, niveau 3
+08C483
 
 |
 
-08C484
+Prothèses de hanche pour des affections autres que des traumatismes récents, niveau 3
 
 |
 
@@ -2914,11 +2964,11 @@ Prothèses de hanche pour des affections autres que des traumatismes récents, n
 
 |
 
-Prothèses de hanche pour des affections autres que des traumatismes récents, niveau 4
+08C484
 
 |
 
-08C491
+Prothèses de hanche pour des affections autres que des traumatismes récents, niveau 4
 
 |
 
@@ -2926,11 +2976,11 @@ Prothèses de hanche pour des affections autres que des traumatismes récents, n
 
 |
 
-Interventions sur la hanche et le fémur pour traumatismes récents, âge supérieur à 17 ans, niveau 1
+08C491
 
 |
 
-08C492
+Interventions sur la hanche et le fémur pour traumatismes récents, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2938,11 +2988,11 @@ Interventions sur la hanche et le fémur pour traumatismes récents, âge supér
 
 |
 
-Interventions sur la hanche et le fémur pour traumatismes récents, âge supérieur à 17 ans, niveau 2
+08C492
 
 |
 
-08C493
+Interventions sur la hanche et le fémur pour traumatismes récents, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2950,11 +3000,11 @@ Interventions sur la hanche et le fémur pour traumatismes récents, âge supér
 
 |
 
-Interventions sur la hanche et le fémur pour traumatismes récents, âge supérieur à 17 ans, niveau 3
+08C493
 
 |
 
-08C494
+Interventions sur la hanche et le fémur pour traumatismes récents, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2962,11 +3012,11 @@ Interventions sur la hanche et le fémur pour traumatismes récents, âge supér
 
 |
 
-Interventions sur la hanche et le fémur pour traumatismes récents, âge supérieur à 17 ans, niveau 4
+08C494
 
 |
 
-08C501
+Interventions sur la hanche et le fémur pour traumatismes récents, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2974,11 +3024,11 @@ Interventions sur la hanche et le fémur pour traumatismes récents, âge supér
 
 |
 
-Interventions sur la hanche et le fémur sauf traumatismes récents, âge supérieur à 17 ans, niveau 1
+08C501
 
 |
 
-08C502
+Interventions sur la hanche et le fémur sauf traumatismes récents, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2986,11 +3036,11 @@ Interventions sur la hanche et le fémur sauf traumatismes récents, âge supér
 
 |
 
-Interventions sur la hanche et le fémur sauf traumatismes récents, âge supérieur à 17 ans, niveau 2
+08C502
 
 |
 
-08C503
+Interventions sur la hanche et le fémur sauf traumatismes récents, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2998,11 +3048,11 @@ Interventions sur la hanche et le fémur sauf traumatismes récents, âge supér
 
 |
 
-Interventions sur la hanche et le fémur sauf traumatismes récents, âge supérieur à 17 ans, niveau 3
+08C503
 
 |
 
-08C504
+Interventions sur la hanche et le fémur sauf traumatismes récents, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -3010,11 +3060,11 @@ Interventions sur la hanche et le fémur sauf traumatismes récents, âge supér
 
 |
 
-Interventions sur la hanche et le fémur sauf traumatismes récents, âge supérieur à 17 ans, niveau 4
+08C504
 
 |
 
-08C511
+Interventions sur la hanche et le fémur sauf traumatismes récents, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3022,11 +3072,11 @@ Interventions sur la hanche et le fémur sauf traumatismes récents, âge supér
 
 |
 
-Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, niveau 1
+08C511
 
 |
 
-08C512
+Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, niveau 1
 
 |
 
@@ -3034,11 +3084,11 @@ Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, nive
 
 |
 
-Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, niveau 2
+08C512
 
 |
 
-08C513
+Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, niveau 2
 
 |
 
@@ -3046,11 +3096,11 @@ Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, nive
 
 |
 
-Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, niveau 3
+08C513
 
 |
 
-08C514
+Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, niveau 3
 
 |
 
@@ -3058,11 +3108,11 @@ Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, nive
 
 |
 
-Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, niveau 4
+08C514
 
 |
 
-08C521
+Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, niveau 4
 
 |
 
@@ -3070,11 +3120,11 @@ Interventions majeures sur le rachis pour fractures, cyphoses et scolioses, nive
 
 |
 
-Autres interventions majeures sur le rachis, niveau 1
+08C521
 
 |
 
-08C522
+Autres interventions majeures sur le rachis, niveau 1
 
 |
 
@@ -3082,11 +3132,11 @@ Autres interventions majeures sur le rachis, niveau 1
 
 |
 
-Autres interventions majeures sur le rachis, niveau 2
+08C522
 
 |
 
-08C523
+Autres interventions majeures sur le rachis, niveau 2
 
 |
 
@@ -3094,11 +3144,11 @@ Autres interventions majeures sur le rachis, niveau 2
 
 |
 
-Autres interventions majeures sur le rachis, niveau 3
+08C523
 
 |
 
-08C524
+Autres interventions majeures sur le rachis, niveau 3
 
 |
 
@@ -3106,11 +3156,11 @@ Autres interventions majeures sur le rachis, niveau 3
 
 |
 
-Autres interventions majeures sur le rachis, niveau 4
+08C524
 
 |
 
-08C531
+Autres interventions majeures sur le rachis, niveau 4
 
 |
 
@@ -3118,11 +3168,11 @@ Autres interventions majeures sur le rachis, niveau 4
 
 |
 
-Interventions sur le genou pour traumatismes, niveau 1
+08C531
 
 |
 
-08C532
+Interventions sur le genou pour traumatismes, niveau 1
 
 |
 
@@ -3130,11 +3180,11 @@ Interventions sur le genou pour traumatismes, niveau 1
 
 |
 
-Interventions sur le genou pour traumatismes, niveau 2
+08C532
 
 |
 
-08C533
+Interventions sur le genou pour traumatismes, niveau 2
 
 |
 
@@ -3142,11 +3192,11 @@ Interventions sur le genou pour traumatismes, niveau 2
 
 |
 
-Interventions sur le genou pour traumatismes, niveau 3
+08C533
 
 |
 
-08C534
+Interventions sur le genou pour traumatismes, niveau 3
 
 |
 
@@ -3154,11 +3204,11 @@ Interventions sur le genou pour traumatismes, niveau 3
 
 |
 
-Interventions sur le genou pour traumatismes, niveau 4
+08C534
 
 |
 
-08C541
+Interventions sur le genou pour traumatismes, niveau 4
 
 |
 
@@ -3166,11 +3216,11 @@ Interventions sur le genou pour traumatismes, niveau 4
 
 |
 
-Interventions sur le genou pour des affections autres que traumatiques, niveau 1
+08C541
 
 |
 
-08C542
+Interventions sur le genou pour des affections autres que traumatiques, niveau 1
 
 |
 
@@ -3178,11 +3228,11 @@ Interventions sur le genou pour des affections autres que traumatiques, niveau 1
 
 |
 
-Interventions sur le genou pour des affections autres que traumatiques, niveau 2
+08C542
 
 |
 
-08C543
+Interventions sur le genou pour des affections autres que traumatiques, niveau 2
 
 |
 
@@ -3190,11 +3240,11 @@ Interventions sur le genou pour des affections autres que traumatiques, niveau 2
 
 |
 
-Interventions sur le genou pour des affections autres que traumatiques, niveau 3
+08C543
 
 |
 
-08C544
+Interventions sur le genou pour des affections autres que traumatiques, niveau 3
 
 |
 
@@ -3202,11 +3252,11 @@ Interventions sur le genou pour des affections autres que traumatiques, niveau 3
 
 |
 
-Interventions sur le genou pour des affections autres que traumatiques, niveau 4
+08C544
 
 |
 
-08C54J
+Interventions sur le genou pour des affections autres que traumatiques, niveau 4
 
 |
 
@@ -3214,11 +3264,11 @@ Interventions sur le genou pour des affections autres que traumatiques, niveau 4
 
 |
 
-Interventions sur le genou pour des affections autres que traumatiques, en ambulatoire
+08C54J
 
 |
 
-08C551
+Interventions sur le genou pour des affections autres que traumatiques, en ambulatoire
 
 |
 
@@ -3226,11 +3276,11 @@ Interventions sur le genou pour des affections autres que traumatiques, en ambul
 
 |
 
-Interventions sur la cheville et l'arrière-pied pour fractures, niveau 1
+08C551
 
 |
 
-08C552
+Interventions sur la cheville et l'arrière-pied pour fractures, niveau 1
 
 |
 
@@ -3238,11 +3288,11 @@ Interventions sur la cheville et l'arrière-pied pour fractures, niveau 1
 
 |
 
-Interventions sur la cheville et l'arrière-pied pour fractures, niveau 2
+08C552
 
 |
 
-08C553
+Interventions sur la cheville et l'arrière-pied pour fractures, niveau 2
 
 |
 
@@ -3250,11 +3300,11 @@ Interventions sur la cheville et l'arrière-pied pour fractures, niveau 2
 
 |
 
-Interventions sur la cheville et l'arrière-pied pour fractures, niveau 3
+08C553
 
 |
 
-08C554
+Interventions sur la cheville et l'arrière-pied pour fractures, niveau 3
 
 |
 
@@ -3262,11 +3312,11 @@ Interventions sur la cheville et l'arrière-pied pour fractures, niveau 3
 
 |
 
-Interventions sur la cheville et l'arrière-pied pour fractures, niveau 4
+08C554
 
 |
 
-08C561
+Interventions sur la cheville et l'arrière-pied pour fractures, niveau 4
 
 |
 
@@ -3274,9 +3324,11 @@ Interventions sur la cheville et l'arrière-pied pour fractures, niveau 4
 
 |
 
-Interventions pour infections ostéoarticulaires, niveau 1
+08C561
 
 |
+
+Interventions pour infections ostéoarticulaires, niveau 1
 
 |
 
@@ -3284,11 +3336,7 @@ Interventions pour infections ostéoarticulaires, niveau 1
 
 |
 
-Interventions pour infections ostéoarticulaires, niveau 1
-
 |
-
-08C562
 
 |
 
@@ -3296,9 +3344,11 @@ Interventions pour infections ostéoarticulaires, niveau 1
 
 |
 
-Interventions pour infections ostéoarticulaires, niveau 2
+08C562
 
 |
+
+Interventions pour infections ostéoarticulaires, niveau 2
 
 |
 
@@ -3306,11 +3356,7 @@ Interventions pour infections ostéoarticulaires, niveau 2
 
 |
 
-Interventions pour infections ostéoarticulaires, niveau 2
-
 |
-
-08C563
 
 |
 
@@ -3318,9 +3364,11 @@ Interventions pour infections ostéoarticulaires, niveau 2
 
 |
 
-Interventions pour infections ostéoarticulaires, niveau 3
+08C563
 
 |
+
+Interventions pour infections ostéoarticulaires, niveau 3
 
 |
 
@@ -3328,11 +3376,7 @@ Interventions pour infections ostéoarticulaires, niveau 3
 
 |
 
-Interventions pour infections ostéoarticulaires, niveau 3
-
 |
-
-08C564
 
 |
 
@@ -3340,9 +3384,11 @@ Interventions pour infections ostéoarticulaires, niveau 3
 
 |
 
-Interventions pour infections ostéoarticulaires, niveau 4
+08C564
 
 |
+
+Interventions pour infections ostéoarticulaires, niveau 4
 
 |
 
@@ -3350,11 +3396,7 @@ Interventions pour infections ostéoarticulaires, niveau 4
 
 |
 
-Interventions pour infections ostéoarticulaires, niveau 4
-
 |
-
-08C571
 
 |
 
@@ -3362,11 +3404,11 @@ Interventions pour infections ostéoarticulaires, niveau 4
 
 |
 
-Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 1
+08C571
 
 |
 
-08C572
+Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 1
 
 |
 
@@ -3374,11 +3416,11 @@ Libérations articulaires du membre inférieur à l'exception de la hanche et du
 
 |
 
-Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 2
+08C572
 
 |
 
-08C573
+Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 2
 
 |
 
@@ -3386,11 +3428,11 @@ Libérations articulaires du membre inférieur à l'exception de la hanche et du
 
 |
 
-Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 3
+08C573
 
 |
 
-08C574
+Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 3
 
 |
 
@@ -3398,11 +3440,11 @@ Libérations articulaires du membre inférieur à l'exception de la hanche et du
 
 |
 
-Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 4
+08C574
 
 |
 
-08C57J
+Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, niveau 4
 
 |
 
@@ -3410,11 +3452,11 @@ Libérations articulaires du membre inférieur à l'exception de la hanche et du
 
 |
 
-Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, en ambulatoire
+08C57J
 
 |
 
-08C581
+Libérations articulaires du membre inférieur à l'exception de la hanche et du pied, en ambulatoire
 
 |
 
@@ -3422,11 +3464,11 @@ Libérations articulaires du membre inférieur à l'exception de la hanche et du
 
 |
 
-Arthroscopies de l'épaule, niveau 1
+08C581
 
 |
 
-08C582
+Arthroscopies de l'épaule, niveau 1
 
 |
 
@@ -3434,11 +3476,11 @@ Arthroscopies de l'épaule, niveau 1
 
 |
 
-Arthroscopies de l'épaule, niveau 2
+08C582
 
 |
 
-08C583
+Arthroscopies de l'épaule, niveau 2
 
 |
 
@@ -3446,11 +3488,11 @@ Arthroscopies de l'épaule, niveau 2
 
 |
 
-Arthroscopies de l'épaule, niveau 3
+08C583
 
 |
 
-08C584
+Arthroscopies de l'épaule, niveau 3
 
 |
 
@@ -3458,11 +3500,11 @@ Arthroscopies de l'épaule, niveau 3
 
 |
 
-Arthroscopies de l'épaule, niveau 4
+08C584
 
 |
 
-08C58J
+Arthroscopies de l'épaule, niveau 4
 
 |
 
@@ -3470,11 +3512,11 @@ Arthroscopies de l'épaule, niveau 4
 
 |
 
-Arthroscopies de l'épaule, en ambulatoire
+08C58J
 
 |
 
-08C591
+Arthroscopies de l'épaule, en ambulatoire
 
 |
 
@@ -3482,11 +3524,11 @@ Arthroscopies de l'épaule, en ambulatoire
 
 |
 
-Ténosynovectomies du poignet, niveau 1
+08C591
 
 |
 
-08C592
+Ténosynovectomies du poignet, niveau 1
 
 |
 
@@ -3494,11 +3536,11 @@ Ténosynovectomies du poignet, niveau 1
 
 |
 
-Ténosynovectomies du poignet, niveau 2
+08C592
 
 |
 
-08C593
+Ténosynovectomies du poignet, niveau 2
 
 |
 
@@ -3506,11 +3548,11 @@ Ténosynovectomies du poignet, niveau 2
 
 |
 
-Ténosynovectomies du poignet, niveau 3
+08C593
 
 |
 
-08C594
+Ténosynovectomies du poignet, niveau 3
 
 |
 
@@ -3518,11 +3560,11 @@ Ténosynovectomies du poignet, niveau 3
 
 |
 
-Ténosynovectomies du poignet, niveau 4
+08C594
 
 |
 
-08C59J
+Ténosynovectomies du poignet, niveau 4
 
 |
 
@@ -3530,11 +3572,11 @@ Ténosynovectomies du poignet, niveau 4
 
 |
 
-Ténosynovectomies du poignet, en ambulatoire
+08C59J
 
 |
 
-08C601
+Ténosynovectomies du poignet, en ambulatoire
 
 |
 
@@ -3542,11 +3584,11 @@ Ténosynovectomies du poignet, en ambulatoire
 
 |
 
-Interventions sur le poignet autres que les ténosynovectomies, niveau 1
+08C601
 
 |
 
-08C602
+Interventions sur le poignet autres que les ténosynovectomies, niveau 1
 
 |
 
@@ -3554,11 +3596,11 @@ Interventions sur le poignet autres que les ténosynovectomies, niveau 1
 
 |
 
-Interventions sur le poignet autres que les ténosynovectomies, niveau 2
+08C602
 
 |
 
-08C603
+Interventions sur le poignet autres que les ténosynovectomies, niveau 2
 
 |
 
@@ -3566,11 +3608,11 @@ Interventions sur le poignet autres que les ténosynovectomies, niveau 2
 
 |
 
-Interventions sur le poignet autres que les ténosynovectomies, niveau 3
+08C603
 
 |
 
-08C604
+Interventions sur le poignet autres que les ténosynovectomies, niveau 3
 
 |
 
@@ -3578,11 +3620,11 @@ Interventions sur le poignet autres que les ténosynovectomies, niveau 3
 
 |
 
-Interventions sur le poignet autres que les ténosynovectomies, niveau 4
+08C604
 
 |
 
-08C60J
+Interventions sur le poignet autres que les ténosynovectomies, niveau 4
 
 |
 
@@ -3590,11 +3632,11 @@ Interventions sur le poignet autres que les ténosynovectomies, niveau 4
 
 |
 
-Interventions sur le poignet autres que les ténosynovectomies, en ambulatoire
+08C60J
 
 |
 
-08K02J
+Interventions sur le poignet autres que les ténosynovectomies, en ambulatoire
 
 |
 
@@ -3602,11 +3644,11 @@ Interventions sur le poignet autres que les ténosynovectomies, en ambulatoire
 
 |
 
-Affections de l'appareil musculosquelettique sans acte opératoire de la CMD 08, avec anesthésie, en ambulatoire
+08K02J
 
 |
 
-08K031
+Affections de l'appareil musculosquelettique sans acte opératoire de la CMD 08, avec anesthésie, en ambulatoire
 
 |
 
@@ -3614,11 +3656,11 @@ Affections de l'appareil musculosquelettique sans acte opératoire de la CMD 08,
 
 |
 
-Tractions continues et réductions progressives : autres que hanche et fémur, niveau 1
+08K031
 
 |
 
-08K032
+Tractions continues et réductions progressives : autres que hanche et fémur, niveau 1
 
 |
 
@@ -3626,11 +3668,11 @@ Tractions continues et réductions progressives : autres que hanche et fémur, n
 
 |
 
-Tractions continues et réductions progressives : autres que hanche et fémur, niveau 2
+08K032
 
 |
 
-08K033
+Tractions continues et réductions progressives : autres que hanche et fémur, niveau 2
 
 |
 
@@ -3638,11 +3680,11 @@ Tractions continues et réductions progressives : autres que hanche et fémur, n
 
 |
 
-Tractions continues et réductions progressives : autres que hanche et fémur, niveau 3
+08K033
 
 |
 
-08K034
+Tractions continues et réductions progressives : autres que hanche et fémur, niveau 3
 
 |
 
@@ -3650,11 +3692,11 @@ Tractions continues et réductions progressives : autres que hanche et fémur, n
 
 |
 
-Tractions continues et réductions progressives : autres que hanche et fémur, niveau 4
+08K034
 
 |
 
-08K041
+Tractions continues et réductions progressives : autres que hanche et fémur, niveau 4
 
 |
 
@@ -3662,11 +3704,11 @@ Tractions continues et réductions progressives : autres que hanche et fémur, n
 
 |
 
-Tractions continues et réductions progressives : hanche et fémur, niveau 1
+08K041
 
 |
 
-08K042
+Tractions continues et réductions progressives : hanche et fémur, niveau 1
 
 |
 
@@ -3674,11 +3716,11 @@ Tractions continues et réductions progressives : hanche et fémur, niveau 1
 
 |
 
-Tractions continues et réductions progressives : hanche et fémur, niveau 2
+08K042
 
 |
 
-08K043
+Tractions continues et réductions progressives : hanche et fémur, niveau 2
 
 |
 
@@ -3686,11 +3728,11 @@ Tractions continues et réductions progressives : hanche et fémur, niveau 2
 
 |
 
-Tractions continues et réductions progressives : hanche et fémur, niveau 3
+08K043
 
 |
 
-08K044
+Tractions continues et réductions progressives : hanche et fémur, niveau 3
 
 |
 
@@ -3698,11 +3740,11 @@ Tractions continues et réductions progressives : hanche et fémur, niveau 3
 
 |
 
-Tractions continues et réductions progressives : hanche et fémur, niveau 4
+08K044
 
 |
 
-08M041
+Tractions continues et réductions progressives : hanche et fémur, niveau 4
 
 |
 
@@ -3710,11 +3752,11 @@ Tractions continues et réductions progressives : hanche et fémur, niveau 4
 
 |
 
-Fractures de la hanche et du bassin, niveau 1
+08M041
 
 |
 
-08M042
+Fractures de la hanche et du bassin, niveau 1
 
 |
 
@@ -3722,11 +3764,11 @@ Fractures de la hanche et du bassin, niveau 1
 
 |
 
-Fractures de la hanche et du bassin, niveau 2
+08M042
 
 |
 
-08M043
+Fractures de la hanche et du bassin, niveau 2
 
 |
 
@@ -3734,11 +3776,11 @@ Fractures de la hanche et du bassin, niveau 2
 
 |
 
-Fractures de la hanche et du bassin, niveau 3
+08M043
 
 |
 
-08M044
+Fractures de la hanche et du bassin, niveau 3
 
 |
 
@@ -3746,11 +3788,11 @@ Fractures de la hanche et du bassin, niveau 3
 
 |
 
-Fractures de la hanche et du bassin, niveau 4
+08M044
 
 |
 
-08M04T
+Fractures de la hanche et du bassin, niveau 4
 
 |
 
@@ -3758,11 +3800,11 @@ Fractures de la hanche et du bassin, niveau 4
 
 |
 
-Transferts et autres séjours courts pour fractures de la hanche et du bassin
+08M04T
 
 |
 
-08M051
+Transferts et autres séjours courts pour fractures de la hanche et du bassin
 
 |
 
@@ -3770,11 +3812,11 @@ Transferts et autres séjours courts pour fractures de la hanche et du bassin
 
 |
 
-Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur, niveau 1
+08M051
 
 |
 
-08M052
+Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur, niveau 1
 
 |
 
@@ -3782,11 +3824,11 @@ Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fému
 
 |
 
-Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur, niveau 2
+08M052
 
 |
 
-08M053
+Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur, niveau 2
 
 |
 
@@ -3794,11 +3836,11 @@ Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fému
 
 |
 
-Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur, niveau 3
+08M053
 
 |
 
-08M054
+Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur, niveau 3
 
 |
 
@@ -3806,11 +3848,11 @@ Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fému
 
 |
 
-Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur, niveau 4
+08M054
 
 |
 
-08M05T
+Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur, niveau 4
 
 |
 
@@ -3818,11 +3860,11 @@ Fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fému
 
 |
 
-Transferts et autres séjours pour fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur
+08M05T
 
 |
 
-08M061
+Transferts et autres séjours pour fractures de la diaphyse, de l'épiphyse ou d'une partie non précisée du fémur
 
 |
 
@@ -3830,11 +3872,11 @@ Transferts et autres séjours pour fractures de la diaphyse, de l'épiphyse ou d
 
 |
 
-Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans, niveau 1
+08M061
 
 |
 
-08M062
+Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -3842,11 +3884,11 @@ Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 1
 
 |
 
-Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans, niveau 2
+08M062
 
 |
 
-08M063
+Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -3854,11 +3896,11 @@ Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 1
 
 |
 
-Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans, niveau 3
+08M063
 
 |
 
-08M064
+Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -3866,11 +3908,11 @@ Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 1
 
 |
 
-Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans, niveau 4
+08M064
 
 |
 
-08M06T
+Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -3878,11 +3920,11 @@ Fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 1
 
 |
 
-Transferts et autres séjours courts pour fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans
+08M06T
 
 |
 
-08M071
+Transferts et autres séjours courts pour fractures, entorses, luxations et dislocations de la jambe, âge inférieur à 18 ans
 
 |
 
@@ -3890,11 +3932,11 @@ Transferts et autres séjours courts pour fractures, entorses, luxations et disl
 
 |
 
-Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans, niveau 1
+08M071
 
 |
 
-08M072
+Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -3902,11 +3944,11 @@ Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 1
 
 |
 
-Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans, niveau 2
+08M072
 
 |
 
-08M073
+Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -3914,11 +3956,11 @@ Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 1
 
 |
 
-Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans, niveau 3
+08M073
 
 |
 
-08M074
+Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -3926,11 +3968,11 @@ Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 1
 
 |
 
-Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans, niveau 4
+08M074
 
 |
 
-08M07T
+Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3938,11 +3980,11 @@ Fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 1
 
 |
 
-Transferts et autres séjours courts pour fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans
+08M07T
 
 |
 
-08M081
+Transferts et autres séjours courts pour fractures, entorses, luxations et dislocations de la jambe, âge supérieur à 17 ans
 
 |
 
@@ -3950,11 +3992,11 @@ Transferts et autres séjours courts pour fractures, entorses, luxations et disl
 
 |
 
-Entorses et luxations de la hanche et du bassin, niveau 1
+08M081
 
 |
 
-08M082
+Entorses et luxations de la hanche et du bassin, niveau 1
 
 |
 
@@ -3962,11 +4004,11 @@ Entorses et luxations de la hanche et du bassin, niveau 1
 
 |
 
-Entorses et luxations de la hanche et du bassin, niveau 2
+08M082
 
 |
 
-08M083
+Entorses et luxations de la hanche et du bassin, niveau 2
 
 |
 
@@ -3974,11 +4016,11 @@ Entorses et luxations de la hanche et du bassin, niveau 2
 
 |
 
-Entorses et luxations de la hanche et du bassin, niveau 3
+08M083
 
 |
 
-08M084
+Entorses et luxations de la hanche et du bassin, niveau 3
 
 |
 
@@ -3986,11 +4028,11 @@ Entorses et luxations de la hanche et du bassin, niveau 3
 
 |
 
-Entorses et luxations de la hanche et du bassin, niveau 4
+08M084
 
 |
 
-08M08T
+Entorses et luxations de la hanche et du bassin, niveau 4
 
 |
 
@@ -3998,11 +4040,11 @@ Entorses et luxations de la hanche et du bassin, niveau 4
 
 |
 
-Transferts et autres séjours courts pour entorses et luxations de la hanche et du bassin
+08M08T
 
 |
 
-08M091
+Transferts et autres séjours courts pour entorses et luxations de la hanche et du bassin
 
 |
 
@@ -4010,11 +4052,11 @@ Transferts et autres séjours courts pour entorses et luxations de la hanche et 
 
 |
 
-Arthropathies non spécifiques, niveau 1
+08M091
 
 |
 
-08M092
+Arthropathies non spécifiques, niveau 1
 
 |
 
@@ -4022,11 +4064,11 @@ Arthropathies non spécifiques, niveau 1
 
 |
 
-Arthropathies non spécifiques, niveau 2
+08M092
 
 |
 
-08M093
+Arthropathies non spécifiques, niveau 2
 
 |
 
@@ -4034,11 +4076,11 @@ Arthropathies non spécifiques, niveau 2
 
 |
 
-Arthropathies non spécifiques, niveau 3
+08M093
 
 |
 
-08M094
+Arthropathies non spécifiques, niveau 3
 
 |
 
@@ -4046,11 +4088,11 @@ Arthropathies non spécifiques, niveau 3
 
 |
 
-Arthropathies non spécifiques, niveau 4
+08M094
 
 |
 
-08M09T
+Arthropathies non spécifiques, niveau 4
 
 |
 
@@ -4058,11 +4100,11 @@ Arthropathies non spécifiques, niveau 4
 
 |
 
-Arthropathies non spécifiques, très courte durée
+08M09T
 
 |
 
-08M101
+Arthropathies non spécifiques, très courte durée
 
 |
 
@@ -4070,11 +4112,11 @@ Arthropathies non spécifiques, très courte durée
 
 |
 
-Maladies osseuses et arthropathies spécifiques, niveau 1
+08M101
 
 |
 
-08M102
+Maladies osseuses et arthropathies spécifiques, niveau 1
 
 |
 
@@ -4082,11 +4124,11 @@ Maladies osseuses et arthropathies spécifiques, niveau 1
 
 |
 
-Maladies osseuses et arthropathies spécifiques, niveau 2
+08M102
 
 |
 
-08M103
+Maladies osseuses et arthropathies spécifiques, niveau 2
 
 |
 
@@ -4094,11 +4136,11 @@ Maladies osseuses et arthropathies spécifiques, niveau 2
 
 |
 
-Maladies osseuses et arthropathies spécifiques, niveau 3
+08M103
 
 |
 
-08M104
+Maladies osseuses et arthropathies spécifiques, niveau 3
 
 |
 
@@ -4106,11 +4148,11 @@ Maladies osseuses et arthropathies spécifiques, niveau 3
 
 |
 
-Maladies osseuses et arthropathies spécifiques, niveau 4
+08M104
 
 |
 
-08M10T
+Maladies osseuses et arthropathies spécifiques, niveau 4
 
 |
 
@@ -4118,11 +4160,11 @@ Maladies osseuses et arthropathies spécifiques, niveau 4
 
 |
 
-Maladies osseuses et arthropathies spécifiques, très courte durée
+08M10T
 
 |
 
-08M141
+Maladies osseuses et arthropathies spécifiques, très courte durée
 
 |
 
@@ -4130,11 +4172,11 @@ Maladies osseuses et arthropathies spécifiques, très courte durée
 
 |
 
-Affections du tissu conjonctif, niveau 1
+08M141
 
 |
 
-08M142
+Affections du tissu conjonctif, niveau 1
 
 |
 
@@ -4142,11 +4184,11 @@ Affections du tissu conjonctif, niveau 1
 
 |
 
-Affections du tissu conjonctif, niveau 2
+08M142
 
 |
 
-08M143
+Affections du tissu conjonctif, niveau 2
 
 |
 
@@ -4154,11 +4196,11 @@ Affections du tissu conjonctif, niveau 2
 
 |
 
-Affections du tissu conjonctif, niveau 3
+08M143
 
 |
 
-08M144
+Affections du tissu conjonctif, niveau 3
 
 |
 
@@ -4166,11 +4208,11 @@ Affections du tissu conjonctif, niveau 3
 
 |
 
-Affections du tissu conjonctif, niveau 4
+08M144
 
 |
 
-08M14T
+Affections du tissu conjonctif, niveau 4
 
 |
 
@@ -4178,11 +4220,11 @@ Affections du tissu conjonctif, niveau 4
 
 |
 
-Affections du tissu conjonctif, très courte durée
+08M14T
 
 |
 
-08M151
+Affections du tissu conjonctif, très courte durée
 
 |
 
@@ -4190,11 +4232,11 @@ Affections du tissu conjonctif, très courte durée
 
 |
 
-Tendinites, myosites et bursites, niveau 1
+08M151
 
 |
 
-08M152
+Tendinites, myosites et bursites, niveau 1
 
 |
 
@@ -4202,11 +4244,11 @@ Tendinites, myosites et bursites, niveau 1
 
 |
 
-Tendinites, myosites et bursites, niveau 2
+08M152
 
 |
 
-08M153
+Tendinites, myosites et bursites, niveau 2
 
 |
 
@@ -4214,11 +4256,11 @@ Tendinites, myosites et bursites, niveau 2
 
 |
 
-Tendinites, myosites et bursites, niveau 3
+08M153
 
 |
 
-08M154
+Tendinites, myosites et bursites, niveau 3
 
 |
 
@@ -4226,11 +4268,11 @@ Tendinites, myosites et bursites, niveau 3
 
 |
 
-Tendinites, myosites et bursites, niveau 4
+08M154
 
 |
 
-08M15T
+Tendinites, myosites et bursites, niveau 4
 
 |
 
@@ -4238,11 +4280,11 @@ Tendinites, myosites et bursites, niveau 4
 
 |
 
-Tendinites, myosites et bursites, très courte durée
+08M15T
 
 |
 
-08M181
+Tendinites, myosites et bursites, très courte durée
 
 |
 
@@ -4250,11 +4292,11 @@ Tendinites, myosites et bursites, très courte durée
 
 |
 
-Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 1
+08M181
 
 |
 
-08M182
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 1
 
 |
 
@@ -4262,11 +4304,11 @@ Suites de traitement après une affection de l'appareil musculosquelettique ou d
 
 |
 
-Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 2
+08M182
 
 |
 
-08M183
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 2
 
 |
 
@@ -4274,11 +4316,11 @@ Suites de traitement après une affection de l'appareil musculosquelettique ou d
 
 |
 
-Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 3
+08M183
 
 |
 
-08M184
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 3
 
 |
 
@@ -4286,11 +4328,11 @@ Suites de traitement après une affection de l'appareil musculosquelettique ou d
 
 |
 
-Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 4
+08M184
 
 |
 
-08M18T
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, niveau 4
 
 |
 
@@ -4298,11 +4340,11 @@ Suites de traitement après une affection de l'appareil musculosquelettique ou d
 
 |
 
-Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, très courte durée
+08M18T
 
 |
 
-08M191
+Suites de traitement après une affection de l'appareil musculosquelettique ou du tissu conjonctif, très courte durée
 
 |
 
@@ -4310,11 +4352,11 @@ Suites de traitement après une affection de l'appareil musculosquelettique ou d
 
 |
 
-Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 1
+08M191
 
 |
 
-08M192
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 1
 
 |
 
@@ -4322,11 +4364,11 @@ Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niv
 
 |
 
-Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 2
+08M192
 
 |
 
-08M193
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 2
 
 |
 
@@ -4334,11 +4376,11 @@ Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niv
 
 |
 
-Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 3
+08M193
 
 |
 
-08M194
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 3
 
 |
 
@@ -4346,11 +4388,11 @@ Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niv
 
 |
 
-Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 4
+08M194
 
 |
 
-08M19T
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niveau 4
 
 |
 
@@ -4358,11 +4400,11 @@ Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, niv
 
 |
 
-Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, très courte durée
+08M19T
 
 |
 
-08M201
+Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, très courte durée
 
 |
 
@@ -4370,11 +4412,11 @@ Autres pathologies de l'appareil musculosquelettique et du tissu conjonctif, tr�
 
 |
 
-Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 1
+08M201
 
 |
 
-08M202
+Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -4382,11 +4424,11 @@ Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge 
 
 |
 
-Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 2
+08M202
 
 |
 
-08M203
+Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -4394,11 +4436,11 @@ Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge 
 
 |
 
-Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 3
+08M203
 
 |
 
-08M204
+Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -4406,11 +4448,11 @@ Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge 
 
 |
 
-Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 4
+08M204
 
 |
 
-08M211
+Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -4418,11 +4460,11 @@ Fractures, entorses, luxations et dislocations du bras et de l'avant-bras, âge 
 
 |
 
-Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 1
+08M211
 
 |
 
-08M212
+Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -4430,11 +4472,11 @@ Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur 
 
 |
 
-Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 2
+08M212
 
 |
 
-08M213
+Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -4442,11 +4484,11 @@ Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur 
 
 |
 
-Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 3
+08M213
 
 |
 
-08M214
+Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -4454,11 +4496,11 @@ Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur 
 
 |
 
-Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 4
+08M214
 
 |
 
-08M221
+Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -4466,11 +4508,11 @@ Entorses, luxations et dislocations du bras et de l'avant-bras, âge supérieur 
 
 |
 
-Fractures, entorses, luxations et dislocations de la main, niveau 1
+08M221
 
 |
 
-08M222
+Fractures, entorses, luxations et dislocations de la main, niveau 1
 
 |
 
@@ -4478,11 +4520,11 @@ Fractures, entorses, luxations et dislocations de la main, niveau 1
 
 |
 
-Fractures, entorses, luxations et dislocations de la main, niveau 2
+08M222
 
 |
 
-08M223
+Fractures, entorses, luxations et dislocations de la main, niveau 2
 
 |
 
@@ -4490,11 +4532,11 @@ Fractures, entorses, luxations et dislocations de la main, niveau 2
 
 |
 
-Fractures, entorses, luxations et dislocations de la main, niveau 3
+08M223
 
 |
 
-08M224
+Fractures, entorses, luxations et dislocations de la main, niveau 3
 
 |
 
@@ -4502,11 +4544,11 @@ Fractures, entorses, luxations et dislocations de la main, niveau 3
 
 |
 
-Fractures, entorses, luxations et dislocations de la main, niveau 4
+08M224
 
 |
 
-08M231
+Fractures, entorses, luxations et dislocations de la main, niveau 4
 
 |
 
@@ -4514,11 +4556,11 @@ Fractures, entorses, luxations et dislocations de la main, niveau 4
 
 |
 
-Fractures, entorses, luxations et dislocations du pied, niveau 1
+08M231
 
 |
 
-08M232
+Fractures, entorses, luxations et dislocations du pied, niveau 1
 
 |
 
@@ -4526,11 +4568,11 @@ Fractures, entorses, luxations et dislocations du pied, niveau 1
 
 |
 
-Fractures, entorses, luxations et dislocations du pied, niveau 2
+08M232
 
 |
 
-08M233
+Fractures, entorses, luxations et dislocations du pied, niveau 2
 
 |
 
@@ -4538,11 +4580,11 @@ Fractures, entorses, luxations et dislocations du pied, niveau 2
 
 |
 
-Fractures, entorses, luxations et dislocations du pied, niveau 3
+08M233
 
 |
 
-08M234
+Fractures, entorses, luxations et dislocations du pied, niveau 3
 
 |
 
@@ -4550,11 +4592,11 @@ Fractures, entorses, luxations et dislocations du pied, niveau 3
 
 |
 
-Fractures, entorses, luxations et dislocations du pied, niveau 4
+08M234
 
 |
 
-08M241
+Fractures, entorses, luxations et dislocations du pied, niveau 4
 
 |
 
@@ -4562,11 +4604,11 @@ Fractures, entorses, luxations et dislocations du pied, niveau 4
 
 |
 
-Tumeurs malignes primitives des os, niveau 1
+08M241
 
 |
 
-08M242
+Tumeurs malignes primitives des os, niveau 1
 
 |
 
@@ -4574,11 +4616,11 @@ Tumeurs malignes primitives des os, niveau 1
 
 |
 
-Tumeurs malignes primitives des os, niveau 2
+08M242
 
 |
 
-08M243
+Tumeurs malignes primitives des os, niveau 2
 
 |
 
@@ -4586,11 +4628,11 @@ Tumeurs malignes primitives des os, niveau 2
 
 |
 
-Tumeurs malignes primitives des os, niveau 3
+08M243
 
 |
 
-08M244
+Tumeurs malignes primitives des os, niveau 3
 
 |
 
@@ -4598,11 +4640,11 @@ Tumeurs malignes primitives des os, niveau 3
 
 |
 
-Tumeurs malignes primitives des os, niveau 4
+08M244
 
 |
 
-08M24T
+Tumeurs malignes primitives des os, niveau 4
 
 |
 
@@ -4610,11 +4652,11 @@ Tumeurs malignes primitives des os, niveau 4
 
 |
 
-Tumeurs malignes primitives des os, très courte durée
+08M24T
 
 |
 
-08M251
+Tumeurs malignes primitives des os, très courte durée
 
 |
 
@@ -4622,11 +4664,11 @@ Tumeurs malignes primitives des os, très courte durée
 
 |
 
-Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 1
+08M251
 
 |
 
-08M252
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 1
 
 |
 
@@ -4634,11 +4676,11 @@ Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelett
 
 |
 
-Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 2
+08M252
 
 |
 
-08M253
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 2
 
 |
 
@@ -4646,11 +4688,11 @@ Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelett
 
 |
 
-Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 3
+08M253
 
 |
 
-08M254
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 3
 
 |
 
@@ -4658,11 +4700,11 @@ Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelett
 
 |
 
-Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 4
+08M254
 
 |
 
-08M25T
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, niveau 4
 
 |
 
@@ -4670,11 +4712,11 @@ Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelett
 
 |
 
-Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, très courte durée
+08M25T
 
 |
 
-08M261
+Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelettique et du tissu conjonctif, très courte durée
 
 |
 
@@ -4682,11 +4724,11 @@ Fractures pathologiques et autres tumeurs malignes de l'appareil musculosquelett
 
 |
 
-Fractures du rachis, niveau 1
+08M261
 
 |
 
-08M262
+Fractures du rachis, niveau 1
 
 |
 
@@ -4694,11 +4736,11 @@ Fractures du rachis, niveau 1
 
 |
 
-Fractures du rachis, niveau 2
+08M262
 
 |
 
-08M263
+Fractures du rachis, niveau 2
 
 |
 
@@ -4706,11 +4748,11 @@ Fractures du rachis, niveau 2
 
 |
 
-Fractures du rachis, niveau 3
+08M263
 
 |
 
-08M264
+Fractures du rachis, niveau 3
 
 |
 
@@ -4718,11 +4760,11 @@ Fractures du rachis, niveau 3
 
 |
 
-Fractures du rachis, niveau 4
+08M264
 
 |
 
-08M271
+Fractures du rachis, niveau 4
 
 |
 
@@ -4730,11 +4772,11 @@ Fractures du rachis, niveau 4
 
 |
 
-Sciatiques et autres radiculopathies, niveau 1
+08M271
 
 |
 
-08M272
+Sciatiques et autres radiculopathies, niveau 1
 
 |
 
@@ -4742,11 +4784,11 @@ Sciatiques et autres radiculopathies, niveau 1
 
 |
 
-Sciatiques et autres radiculopathies, niveau 2
+08M272
 
 |
 
-08M273
+Sciatiques et autres radiculopathies, niveau 2
 
 |
 
@@ -4754,11 +4796,11 @@ Sciatiques et autres radiculopathies, niveau 2
 
 |
 
-Sciatiques et autres radiculopathies, niveau 3
+08M273
 
 |
 
-08M274
+Sciatiques et autres radiculopathies, niveau 3
 
 |
 
@@ -4766,11 +4808,11 @@ Sciatiques et autres radiculopathies, niveau 3
 
 |
 
-Sciatiques et autres radiculopathies, niveau 4
+08M274
 
 |
 
-08M27T
+Sciatiques et autres radiculopathies, niveau 4
 
 |
 
@@ -4778,11 +4820,11 @@ Sciatiques et autres radiculopathies, niveau 4
 
 |
 
-Sciatiques et autres radiculopathies, très courte durée
+08M27T
 
 |
 
-08M281
+Sciatiques et autres radiculopathies, très courte durée
 
 |
 
@@ -4790,11 +4832,11 @@ Sciatiques et autres radiculopathies, très courte durée
 
 |
 
-Autres rachialgies, niveau 1
+08M281
 
 |
 
-08M282
+Autres rachialgies, niveau 1
 
 |
 
@@ -4802,11 +4844,11 @@ Autres rachialgies, niveau 1
 
 |
 
-Autres rachialgies, niveau 2
+08M282
 
 |
 
-08M283
+Autres rachialgies, niveau 2
 
 |
 
@@ -4814,11 +4856,11 @@ Autres rachialgies, niveau 2
 
 |
 
-Autres rachialgies, niveau 3
+08M283
 
 |
 
-08M284
+Autres rachialgies, niveau 3
 
 |
 
@@ -4826,11 +4868,11 @@ Autres rachialgies, niveau 3
 
 |
 
-Autres rachialgies, niveau 4
+08M284
 
 |
 
-08M28T
+Autres rachialgies, niveau 4
 
 |
 
@@ -4838,11 +4880,11 @@ Autres rachialgies, niveau 4
 
 |
 
-Autres rachialgies, très courte durée
+08M28T
 
 |
 
-08M291
+Autres rachialgies, très courte durée
 
 |
 
@@ -4850,11 +4892,11 @@ Autres rachialgies, très courte durée
 
 |
 
-Autres pathologies rachidiennes relevant d'un traitement médical, niveau 1
+08M291
 
 |
 
-08M292
+Autres pathologies rachidiennes relevant d'un traitement médical, niveau 1
 
 |
 
@@ -4862,11 +4904,11 @@ Autres pathologies rachidiennes relevant d'un traitement médical, niveau 1
 
 |
 
-Autres pathologies rachidiennes relevant d'un traitement médical, niveau 2
+08M292
 
 |
 
-08M293
+Autres pathologies rachidiennes relevant d'un traitement médical, niveau 2
 
 |
 
@@ -4874,11 +4916,11 @@ Autres pathologies rachidiennes relevant d'un traitement médical, niveau 2
 
 |
 
-Autres pathologies rachidiennes relevant d'un traitement médical, niveau 3
+08M293
 
 |
 
-08M294
+Autres pathologies rachidiennes relevant d'un traitement médical, niveau 3
 
 |
 
@@ -4886,11 +4928,11 @@ Autres pathologies rachidiennes relevant d'un traitement médical, niveau 3
 
 |
 
-Autres pathologies rachidiennes relevant d'un traitement médical, niveau 4
+08M294
 
 |
 
-08M29T
+Autres pathologies rachidiennes relevant d'un traitement médical, niveau 4
 
 |
 
@@ -4898,11 +4940,11 @@ Autres pathologies rachidiennes relevant d'un traitement médical, niveau 4
 
 |
 
-Autres pathologies rachidiennes relevant d'un traitement médical, très courte durée
+08M29T
 
 |
 
-08M301
+Autres pathologies rachidiennes relevant d'un traitement médical, très courte durée
 
 |
 
@@ -4910,11 +4952,11 @@ Autres pathologies rachidiennes relevant d'un traitement médical, très courte 
 
 |
 
-Rhumatismes et raideurs articulaires, niveau 1
+08M301
 
 |
 
-08M302
+Rhumatismes et raideurs articulaires, niveau 1
 
 |
 
@@ -4922,11 +4964,11 @@ Rhumatismes et raideurs articulaires, niveau 1
 
 |
 
-Rhumatismes et raideurs articulaires, niveau 2
+08M302
 
 |
 
-08M303
+Rhumatismes et raideurs articulaires, niveau 2
 
 |
 
@@ -4934,11 +4976,11 @@ Rhumatismes et raideurs articulaires, niveau 2
 
 |
 
-Rhumatismes et raideurs articulaires, niveau 3
+08M303
 
 |
 
-08M304
+Rhumatismes et raideurs articulaires, niveau 3
 
 |
 
@@ -4946,11 +4988,11 @@ Rhumatismes et raideurs articulaires, niveau 3
 
 |
 
-Rhumatismes et raideurs articulaires, niveau 4
+08M304
 
 |
 
-08M30T
+Rhumatismes et raideurs articulaires, niveau 4
 
 |
 
@@ -4958,11 +5000,11 @@ Rhumatismes et raideurs articulaires, niveau 4
 
 |
 
-Rhumatismes et raideurs articulaires, très courte durée
+08M30T
 
 |
 
-08M311
+Rhumatismes et raideurs articulaires, très courte durée
 
 |
 
@@ -4970,11 +5012,11 @@ Rhumatismes et raideurs articulaires, très courte durée
 
 |
 
-Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 1
+08M311
 
 |
 
-08M312
+Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 1
 
 |
 
@@ -4982,11 +5024,11 @@ Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 
 
 |
 
-Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 2
+08M312
 
 |
 
-08M313
+Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 2
 
 |
 
@@ -4994,11 +5036,11 @@ Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 
 
 |
 
-Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 3
+08M313
 
 |
 
-08M314
+Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 3
 
 |
 
@@ -5006,11 +5048,11 @@ Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 
 
 |
 
-Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 4
+08M314
 
 |
 
-08M31T
+Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 4
 
 |
 
@@ -5018,11 +5060,11 @@ Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, niveau 
 
 |
 
-Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, très courte durée
+08M31T
 
 |
 
-08M321
+Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, très courte durée
 
 |
 
@@ -5030,11 +5072,11 @@ Ostéomyélites aiguës (y compris vertébrales) et arthrites septiques, très c
 
 |
 
-Ostéomyélites chroniques, niveau 1
+08M321
 
 |
 
-08M322
+Ostéomyélites chroniques, niveau 1
 
 |
 
@@ -5042,11 +5084,11 @@ Ostéomyélites chroniques, niveau 1
 
 |
 
-Ostéomyélites chroniques, niveau 2
+08M322
 
 |
 
-08M323
+Ostéomyélites chroniques, niveau 2
 
 |
 
@@ -5054,11 +5096,11 @@ Ostéomyélites chroniques, niveau 2
 
 |
 
-Ostéomyélites chroniques, niveau 3
+08M323
 
 |
 
-08M324
+Ostéomyélites chroniques, niveau 3
 
 |
 
@@ -5066,11 +5108,11 @@ Ostéomyélites chroniques, niveau 3
 
 |
 
-Ostéomyélites chroniques, niveau 4
+08M324
 
 |
 
-08M32T
+Ostéomyélites chroniques, niveau 4
 
 |
 
@@ -5078,11 +5120,11 @@ Ostéomyélites chroniques, niveau 4
 
 |
 
-Ostéomyélites chroniques, très courte durée
+08M32T
 
 |
 
-08M331
+Ostéomyélites chroniques, très courte durée
 
 |
 
@@ -5090,11 +5132,11 @@ Ostéomyélites chroniques, très courte durée
 
 |
 
-Ablation de matériel sans acte classant, niveau 1
+08M331
 
 |
 
-08M332
+Ablation de matériel sans acte classant, niveau 1
 
 |
 
@@ -5102,11 +5144,11 @@ Ablation de matériel sans acte classant, niveau 1
 
 |
 
-Ablation de matériel sans acte classant, niveau 2
+08M332
 
 |
 
-08M333
+Ablation de matériel sans acte classant, niveau 2
 
 |
 
@@ -5114,11 +5156,11 @@ Ablation de matériel sans acte classant, niveau 2
 
 |
 
-Ablation de matériel sans acte classant, niveau 3
+08M333
 
 |
 
-08M334
+Ablation de matériel sans acte classant, niveau 3
 
 |
 
@@ -5126,11 +5168,11 @@ Ablation de matériel sans acte classant, niveau 3
 
 |
 
-Ablation de matériel sans acte classant, niveau 4
+08M334
 
 |
 
-08M33T
+Ablation de matériel sans acte classant, niveau 4
 
 |
 
@@ -5138,11 +5180,11 @@ Ablation de matériel sans acte classant, niveau 4
 
 |
 
-Ablation de matériel sans acte classant, très courte durée
+08M33T
 
 |
 
-08M341
+Ablation de matériel sans acte classant, très courte durée
 
 |
 
@@ -5150,11 +5192,11 @@ Ablation de matériel sans acte classant, très courte durée
 
 |
 
-Algoneurodystrophie, niveau 1
+08M341
 
 |
 
-08M342
+Algoneurodystrophie, niveau 1
 
 |
 
@@ -5162,11 +5204,11 @@ Algoneurodystrophie, niveau 1
 
 |
 
-Algoneurodystrophie, niveau 2
+08M342
 
 |
 
-08M343
+Algoneurodystrophie, niveau 2
 
 |
 
@@ -5174,11 +5216,11 @@ Algoneurodystrophie, niveau 2
 
 |
 
-Algoneurodystrophie, niveau 3
+08M343
 
 |
 
-08M344
+Algoneurodystrophie, niveau 3
 
 |
 
@@ -5186,11 +5228,11 @@ Algoneurodystrophie, niveau 3
 
 |
 
-Algoneurodystrophie, niveau 4
+08M344
 
 |
 
-08M34T
+Algoneurodystrophie, niveau 4
 
 |
 
@@ -5198,11 +5240,11 @@ Algoneurodystrophie, niveau 4
 
 |
 
-Algoneurodystrophie, très courte durée
+08M34T
 
 |
 
-08M35Z
+Algoneurodystrophie, très courte durée
 
 |
 
@@ -5210,11 +5252,11 @@ Algoneurodystrophie, très courte durée
 
 |
 
-Explorations et surveillance de l'appareil musculosquelettique et du tissu conjonctif
+08M35Z
 
 |
 
-08M36T
+Explorations et surveillance de l'appareil musculosquelettique et du tissu conjonctif
 
 |
 
@@ -5222,11 +5264,11 @@ Explorations et surveillance de l'appareil musculosquelettique et du tissu conjo
 
 |
 
-Symptômes et autres recours aux soins de la CMD 08, très courte durée
+08M36T
 
 |
 
-08M36Z
+Symptômes et autres recours aux soins de la CMD 08, très courte durée
 
 |
 
@@ -5234,11 +5276,11 @@ Symptômes et autres recours aux soins de la CMD 08, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 08
+08M36Z
 
 |
 
-08M371
+Symptômes et autres recours aux soins de la CMD 08
 
 |
 
@@ -5246,11 +5288,11 @@ Symptômes et autres recours aux soins de la CMD 08
 
 |
 
-Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 1
+08M371
 
 |
 
-08M372
+Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -5258,11 +5300,11 @@ Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 1
 
 |
 
-Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 2
+08M372
 
 |
 
-08M373
+Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -5270,11 +5312,11 @@ Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 2
 
 |
 
-Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 3
+08M373
 
 |
 
-08M374
+Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -5282,11 +5324,11 @@ Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 3
 
 |
 
-Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 4
+08M374
 
 |
 
-08M37T
+Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -5294,11 +5336,11 @@ Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, niveau 4
 
 |
 
-Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, très courte durée
+08M37T
 
 |
 
-08M381
+Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -5306,11 +5348,11 @@ Fractures du bras et de l'avant-bras, âge supérieur à 17 ans, très courte du
 
 |
 
-Entorses et luxations du rachis, niveau 1
+08M381
 
 |
 
-08M382
+Entorses et luxations du rachis, niveau 1
 
 |
 
@@ -5318,11 +5360,11 @@ Entorses et luxations du rachis, niveau 1
 
 |
 
-Entorses et luxations du rachis, niveau 2
+08M382
 
 |
 
-08M383
+Entorses et luxations du rachis, niveau 2
 
 |
 
@@ -5330,11 +5372,11 @@ Entorses et luxations du rachis, niveau 2
 
 |
 
-Entorses et luxations du rachis, niveau 3
+08M383
 
 |
 
-08M384
+Entorses et luxations du rachis, niveau 3
 
 |
 
@@ -5342,15 +5384,19 @@ Entorses et luxations du rachis, niveau 3
 
 |
 
+08M384
+
+|
+
 Entorses et luxations du rachis, niveau 4
 
 |
 
-08M38T
+3174
 
 |
 
-3174
+08M38T
 
 |
 

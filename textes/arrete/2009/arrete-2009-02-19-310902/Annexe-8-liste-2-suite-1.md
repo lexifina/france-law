@@ -2,6 +2,10 @@
 
 Liste 2 : actes autorisant la facturation d'un supplément de surveillance continue (suite)
 
+CODE CCAM |
+
+LIBELLÉ CCAM |
+
 EAAF002
 
 |
@@ -174,7 +178,7 @@ EASF005
 
 |
 
-Embolisation d'une fistule artérioveineuse durale cranioencéphalique multipédiculaire, par voie artérielle et par voie veineuse transcutanées
+Embolisation d'une fistule artérioveineuse durale cranio-encéphalique multipédiculaire, par voie artérielle et par voie veineuse transcutanées
 
 |
 
@@ -230,7 +234,7 @@ EASF015
 
 |
 
-Embolisation d'une fistule artérioveineuse durale cranioencéphalique multipédiculaire, par voie artérielle ou veineuse transcutanée
+Embolisation d'une fistule artérioveineuse durale cranio-encéphalique multipédiculaire, par voie artérielle ou veineuse transcutanée
 
 |
 
@@ -982,7 +986,7 @@ EQGA003
 
 |
 
-Ablation d'un dispositif d'assistance circulatoire interne ou externe, en dehors d'un dispositif de contrepulsion diastolique intraaortique, par thoracotomie sans CEC
+Ablation d'un dispositif d'assistance circulatoire interne ou externe, en dehors d'un dispositif de contrepulsion diastolique intra-aortique, par thoracotomie sans CEC
 
 |
 
@@ -990,7 +994,7 @@ EQGA004
 
 |
 
-Ablation d'un dispositif d'assistance circulatoire interne ou externe, en dehors d'un dispositif de contrepulsion diastolique intraaortique, par thoracotomie avec CEC
+Ablation d'un dispositif d'assistance circulatoire interne ou externe, en dehors d'un dispositif de contrepulsion diastolique intra-aortique, par thoracotomie avec CEC
 
 |
 
@@ -1118,7 +1122,7 @@ EQMP001
 
 |
 
-Suppléance hémodynamique par dispositif de contrepulsion diastolique intraaortique, par 24 heures
+Suppléance hémodynamique par dispositif de contrepulsion diastolique intra-aortique, par 24 heures
 
 |
 
@@ -1142,7 +1146,7 @@ EQQH005
 
 |
 
-Mesure et enregistrement des pressions du cœur droit, de l'artère pulmonaire et du cœur gauche, avec injection de produit de contraste, par voie veineuse transcutanée et par voie artérielle transcutanée ou cathétérisme du foramen ovale, avant l'âge de 24
+Mesure et enregistrement des pressions du cœur droit, de l'artère pulmonaire et du cœur gauche, avec injection de produit de contraste, par voie veineuse transcutanée et par voie artérielle transcutanée ou cathétérisme du foramen ovale, avant l'âge de 24 ans
 
 |
 
@@ -1174,7 +1178,7 @@ EQQP014
 
 |
 
-Surveillance continue des pressions du cœur droit avec mesure du débit cardiaque ou de la fraction d'éjection du ventricule droit, avec surveillance continue de la pression intraartérielle par méthode effractive, par 24 heures
+Surveillance continue des pressions du cœur droit avec mesure du débit cardiaque ou de la fraction d'éjection du ventricule droit, avec surveillance continue de la pression intra-artérielle par méthode effractive, par 24 heures
 
 |
 
@@ -1326,7 +1330,7 @@ FELF004
 
 |
 
-Transfusion de concentré de globules rouges d'un volume supérieur à une demimasse sanguine chez l'adulte ou à 40 millilitres par kilogramme [ml/ kg] chez le nouveau-né en moins de 24 heures
+Transfusion de concentré de globules rouges d'un volume supérieur à une demi-masse sanguine chez l'adulte ou à 40 millilitres par kilogramme [ml/ kg] chez le nouveau-né, en moins de 24 heures
 
 |
 
@@ -2510,7 +2514,7 @@ HDFA019
 
 |
 
-Oropharyngectomie par mandibulotomie
+Oropharyngectomie, par mandibulotomie
 
 |
 
@@ -2518,7 +2522,7 @@ HDGA001
 
 |
 
-Ablation de corps étranger pharyngoœsophagien, par cervicotomie
+Ablation de corps étranger pharyngo-œsophagien, par cervicotomie
 
 |
 

@@ -1,12 +1,18 @@
 # Article Annexe 1 (suite 5)
 
-LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOURS" (suite)
+LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOUR" (suite)
 
-3C031
+GHS |
+
+GHM |
+
+LIBELLÉ DU GHM |
+
+4922
 
 |
 
-4922
+13C031
 
 |
 
@@ -14,11 +20,11 @@ Hystérectomies, niveau 1
 
 |
 
-13C032
+4923
 
 |
 
-4923
+13C032
 
 |
 
@@ -26,11 +32,11 @@ Hystérectomies, niveau 2
 
 |
 
-13C033
+4924
 
 |
 
-4924
+13C033
 
 |
 
@@ -38,11 +44,11 @@ Hystérectomies, niveau 3
 
 |
 
-13C034
+4925
 
 |
 
-4925
+13C034
 
 |
 
@@ -50,11 +56,11 @@ Hystérectomies, niveau 4
 
 |
 
-13C041
+4926
 
 |
 
-4926
+13C041
 
 |
 
@@ -62,11 +68,11 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 1
 
 |
 
-13C042
+4927
 
 |
 
-4927
+13C042
 
 |
 
@@ -74,11 +80,11 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 2
 
 |
 
-13C043
+4928
 
 |
 
-4928
+13C043
 
 |
 
@@ -86,11 +92,11 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 3
 
 |
 
-13C044
+4929
 
 |
 
-4929
+13C044
 
 |
 
@@ -98,11 +104,11 @@ Interventions réparatrices sur l'appareil génital féminin, niveau 4
 
 |
 
-13C04J
+4988
 
 |
 
-4988
+13C04J
 
 |
 
@@ -110,19 +116,15 @@ Interventions réparatrices sur l'appareil génital féminin, en ambulatoire
 
 |
 
-13C051
-
-|
-
 4930
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 1
+13C051
 
 |
 
-13C052
+Interventions sur le système utéro-annexiel pour tumeurs malignes, niveau 1
 
 |
 
@@ -130,11 +132,11 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 1
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 2
+13C052
 
 |
 
-13C053
+Interventions sur le système utéro-annexiel pour tumeurs malignes, niveau 2
 
 |
 
@@ -142,11 +144,11 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 2
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 3
+13C053
 
 |
 
-13C054
+Interventions sur le système utéro-annexiel pour tumeurs malignes, niveau 3
 
 |
 
@@ -154,11 +156,11 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 3
 
 |
 
-Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 4
+13C054
 
 |
 
-13C061
+Interventions sur le système utéro-annexiel pour tumeurs malignes, niveau 4
 
 |
 
@@ -166,11 +168,11 @@ Interventions sur le système utéroannexiel pour tumeurs malignes, niveau 4
 
 |
 
-Interruptions tubaires, niveau 1
+13C061
 
 |
 
-13C062
+Interruptions tubaires, niveau 1
 
 |
 
@@ -178,11 +180,11 @@ Interruptions tubaires, niveau 1
 
 |
 
-Interruptions tubaires, niveau 2
+13C062
 
 |
 
-13C063
+Interruptions tubaires, niveau 2
 
 |
 
@@ -190,11 +192,11 @@ Interruptions tubaires, niveau 2
 
 |
 
-Interruptions tubaires, niveau 3
+13C063
 
 |
 
-13C064
+Interruptions tubaires, niveau 3
 
 |
 
@@ -202,11 +204,11 @@ Interruptions tubaires, niveau 3
 
 |
 
-Interruptions tubaires, niveau 4
+13C064
 
 |
 
-13C06J
+Interruptions tubaires, niveau 4
 
 |
 
@@ -214,11 +216,11 @@ Interruptions tubaires, niveau 4
 
 |
 
-Interruptions tubaires, en ambulatoire
+13C06J
 
 |
 
-13C071
+Interruptions tubaires, en ambulatoire
 
 |
 
@@ -226,11 +228,11 @@ Interruptions tubaires, en ambulatoire
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 1
+13C071
 
 |
 
-13C072
+Interventions sur le système utéro-annexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 1
 
 |
 
@@ -238,11 +240,11 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 2
+13C072
 
 |
 
-13C073
+Interventions sur le système utéro-annexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 2
 
 |
 
@@ -250,11 +252,11 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 3
+13C073
 
 |
 
-13C074
+Interventions sur le système utéro-annexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 3
 
 |
 
@@ -262,11 +264,11 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 4
+13C074
 
 |
 
-13C07J
+Interventions sur le système utéro-annexiel pour des affections non malignes, autres que les interruptions tubaires, niveau 4
 
 |
 
@@ -274,11 +276,11 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur le système utéroannexiel pour des affections non malignes, autres que les interruptions tubaires, en ambulatoire
+13C07J
 
 |
 
-13C081
+Interventions sur le système utéro-annexiel pour des affections non malignes, autres que les interruptions tubaires, en ambulatoire
 
 |
 
@@ -286,11 +288,11 @@ Interventions sur le système utéroannexiel pour des affections non malignes, a
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 1
+13C081
 
 |
 
-13C082
+Interventions sur la vulve, le vagin ou le col utérin, niveau 1
 
 |
 
@@ -298,11 +300,11 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 1
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 2
+13C082
 
 |
 
-13C083
+Interventions sur la vulve, le vagin ou le col utérin, niveau 2
 
 |
 
@@ -310,11 +312,11 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 2
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 3
+13C083
 
 |
 
-13C084
+Interventions sur la vulve, le vagin ou le col utérin, niveau 3
 
 |
 
@@ -322,11 +324,11 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 3
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, niveau 4
+13C084
 
 |
 
-13C08J
+Interventions sur la vulve, le vagin ou le col utérin, niveau 4
 
 |
 
@@ -334,11 +336,11 @@ Interventions sur la vulve, le vagin ou le col utérin, niveau 4
 
 |
 
-Interventions sur la vulve, le vagin ou le col utérin, en ambulatoire
+13C08J
 
 |
 
-13C091
+Interventions sur la vulve, le vagin ou le col utérin, en ambulatoire
 
 |
 
@@ -346,11 +348,11 @@ Interventions sur la vulve, le vagin ou le col utérin, en ambulatoire
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 1
+13C091
 
 |
 
-13C092
+Laparoscopies ou cœlioscopies diagnostiques, niveau 1
 
 |
 
@@ -358,11 +360,11 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 1
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 2
+13C092
 
 |
 
-13C093
+Laparoscopies ou cœlioscopies diagnostiques, niveau 2
 
 |
 
@@ -370,11 +372,11 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 2
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 3
+13C093
 
 |
 
-13C094
+Laparoscopies ou cœlioscopies diagnostiques, niveau 3
 
 |
 
@@ -382,11 +384,11 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 3
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, niveau 4
+13C094
 
 |
 
-13C09T
+Laparoscopies ou cœlioscopies diagnostiques, niveau 4
 
 |
 
@@ -394,11 +396,11 @@ Laparoscopies ou cœlioscopies diagnostiques, niveau 4
 
 |
 
-Laparoscopies ou cœlioscopies diagnostiques, très courte durée
+13C09T
 
 |
 
-13C101
+Laparoscopies ou cœlioscopies diagnostiques, très courte durée
 
 |
 
@@ -406,11 +408,11 @@ Laparoscopies ou cœlioscopies diagnostiques, très courte durée
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 1
+13C101
 
 |
 
-13C102
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 1
 
 |
 
@@ -418,11 +420,11 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 1
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 2
+13C102
 
 |
 
-13C103
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 2
 
 |
 
@@ -430,11 +432,11 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 2
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 3
+13C103
 
 |
 
-13C104
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 3
 
 |
 
@@ -442,11 +444,11 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 3
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 4
+13C104
 
 |
 
-13C10T
+Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 4
 
 |
 
@@ -454,11 +456,11 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, niveau 4
 
 |
 
-Ligatures tubaires par laparoscopie ou cœlioscopie, très courte durée
+13C10T
 
 |
 
-13C111
+Ligatures tubaires par laparoscopie ou cœlioscopie, très courte durée
 
 |
 
@@ -466,11 +468,11 @@ Ligatures tubaires par laparoscopie ou cœlioscopie, très courte durée
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 1
+13C111
 
 |
 
-13C112
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 1
 
 |
 
@@ -478,11 +480,11 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 1
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 2
+13C112
 
 |
 
-13C113
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 2
 
 |
 
@@ -490,11 +492,11 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 2
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 3
+13C113
 
 |
 
-13C114
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 3
 
 |
 
@@ -502,11 +504,11 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 3
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, niveau 4
+13C114
 
 |
 
-13C11J
+Dilatations et curetages, conisations pour tumeurs malignes, niveau 4
 
 |
 
@@ -514,11 +516,11 @@ Dilatations et curetages, conisations pour tumeurs malignes, niveau 4
 
 |
 
-Dilatations et curetages, conisations pour tumeurs malignes, en ambulatoire
+13C11J
 
 |
 
-13C121
+Dilatations et curetages, conisations pour tumeurs malignes, en ambulatoire
 
 |
 
@@ -526,11 +528,11 @@ Dilatations et curetages, conisations pour tumeurs malignes, en ambulatoire
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 1
+13C121
 
 |
 
-13C122
+Dilatations et curetages, conisations pour affections non malignes, niveau 1
 
 |
 
@@ -538,11 +540,11 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 1
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 2
+13C122
 
 |
 
-13C123
+Dilatations et curetages, conisations pour affections non malignes, niveau 2
 
 |
 
@@ -550,11 +552,11 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 2
 
 |
 
-Dilatations et curetages, conisations pour affections non malignes, niveau 3
+13C123
 
 |
 
-13C124
+Dilatations et curetages, conisations pour affections non malignes, niveau 3
 
 |
 
@@ -562,21 +564,11 @@ Dilatations et curetages, conisations pour affections non malignes, niveau 3
 
 |
 
+13C124
+
+|
+
 Dilatations et curetages, conisations pour affections non malignes, niveau 4
-
-|
-
-13C12J
-
-|
-
-4987
-
-|
-
-Dilatations et curetages, conisations pour affections non malignes, en ambulatoire
-
-|
 
 |
 
@@ -584,11 +576,15 @@ Dilatations et curetages, conisations pour affections non malignes, en ambulatoi
 
 |
 
+13C12J
+
+|
+
 Dilatations et curetages, conisations pour affections non malignes, en ambulatoire
 
 |
 
-13C131
+4987
 
 |
 
@@ -596,11 +592,11 @@ Dilatations et curetages, conisations pour affections non malignes, en ambulatoi
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 1
+13C131
 
 |
 
-13C132
+Autres interventions sur l'appareil génital féminin, niveau 1
 
 |
 
@@ -608,11 +604,11 @@ Autres interventions sur l'appareil génital féminin, niveau 1
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 2
+13C132
 
 |
 
-13C133
+Autres interventions sur l'appareil génital féminin, niveau 2
 
 |
 
@@ -620,11 +616,11 @@ Autres interventions sur l'appareil génital féminin, niveau 2
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 3
+13C133
 
 |
 
-13C134
+Autres interventions sur l'appareil génital féminin, niveau 3
 
 |
 
@@ -632,11 +628,11 @@ Autres interventions sur l'appareil génital féminin, niveau 3
 
 |
 
-Autres interventions sur l'appareil génital féminin, niveau 4
+13C134
 
 |
 
-13C13T
+Autres interventions sur l'appareil génital féminin, niveau 4
 
 |
 
@@ -644,11 +640,11 @@ Autres interventions sur l'appareil génital féminin, niveau 4
 
 |
 
-Autres interventions sur l'appareil génital féminin, très courte durée
+13C13T
 
 |
 
-13C141
+Autres interventions sur l'appareil génital féminin, très courte durée
 
 |
 
@@ -656,11 +652,11 @@ Autres interventions sur l'appareil génital féminin, très courte durée
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 1
+13C141
 
 |
 
-13C142
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 1
 
 |
 
@@ -668,11 +664,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 2
+13C142
 
 |
 
-13C143
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 2
 
 |
 
@@ -680,11 +676,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 3
+13C143
 
 |
 
-13C144
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 3
 
 |
 
@@ -692,11 +688,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 4
+13C144
 
 |
 
-13C151
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeurs malignes, niveau 4
 
 |
 
@@ -704,11 +700,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour tumeur
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 1
+13C151
 
 |
 
-13C152
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 1
 
 |
 
@@ -716,11 +712,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 2
+13C152
 
 |
 
-13C153
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 2
 
 |
 
@@ -728,11 +724,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
-Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 3
+13C153
 
 |
 
-13C154
+Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 3
 
 |
 
@@ -740,21 +736,11 @@ Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affect
 
 |
 
+13C154
+
+|
+
 Exentérations pelviennes, hystérectomies élargies ou vulvectomies pour affections non malignes, niveau 4
-
-|
-
-13C16J
-
-|
-
-4989
-
-|
-
-Prélèvements d'ovocytes, en ambulatoire
-
-|
 
 |
 
@@ -762,11 +748,15 @@ Prélèvements d'ovocytes, en ambulatoire
 
 |
 
+13C16J
+
+|
+
 Prélèvements d'ovocytes, en ambulatoire
 
 |
 
-13C171
+4989
 
 |
 
@@ -774,11 +764,11 @@ Prélèvements d'ovocytes, en ambulatoire
 
 |
 
-Cervicocystopexie, niveau 1
+13C171
 
 |
 
-13C172
+Cervicocystopexie, niveau 1
 
 |
 
@@ -786,11 +776,11 @@ Cervicocystopexie, niveau 1
 
 |
 
-Cervicocystopexie, niveau 2
+13C172
 
 |
 
-13C173
+Cervicocystopexie, niveau 2
 
 |
 
@@ -798,11 +788,11 @@ Cervicocystopexie, niveau 2
 
 |
 
-Cervicocystopexie, niveau 3
+13C173
 
 |
 
-13C174
+Cervicocystopexie, niveau 3
 
 |
 
@@ -810,11 +800,11 @@ Cervicocystopexie, niveau 3
 
 |
 
-Cervicocystopexie, niveau 4
+13C174
 
 |
 
-13C181
+Cervicocystopexie, niveau 4
 
 |
 
@@ -822,11 +812,11 @@ Cervicocystopexie, niveau 4
 
 |
 
-Myomectomies de l'utérus, niveau 1
+13C181
 
 |
 
-13C182
+Myomectomies de l'utérus, niveau 1
 
 |
 
@@ -834,11 +824,11 @@ Myomectomies de l'utérus, niveau 1
 
 |
 
-Myomectomies de l'utérus, niveau 2
+13C182
 
 |
 
-13C183
+Myomectomies de l'utérus, niveau 2
 
 |
 
@@ -846,11 +836,11 @@ Myomectomies de l'utérus, niveau 2
 
 |
 
-Myomectomies de l'utérus, niveau 3
+13C183
 
 |
 
-13C184
+Myomectomies de l'utérus, niveau 3
 
 |
 
@@ -858,11 +848,11 @@ Myomectomies de l'utérus, niveau 3
 
 |
 
-Myomectomies de l'utérus, niveau 4
+13C184
 
 |
 
-13C191
+Myomectomies de l'utérus, niveau 4
 
 |
 
@@ -870,11 +860,11 @@ Myomectomies de l'utérus, niveau 4
 
 |
 
-Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 1
+13C191
 
 |
 
-13C192
+Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 1
 
 |
 
@@ -882,11 +872,11 @@ Interventions pour stérilité ou motifs de soins liés à la reproduction, nive
 
 |
 
-Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 2
+13C192
 
 |
 
-13C193
+Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 2
 
 |
 
@@ -894,11 +884,11 @@ Interventions pour stérilité ou motifs de soins liés à la reproduction, nive
 
 |
 
-Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 3
+13C193
 
 |
 
-13C194
+Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 3
 
 |
 
@@ -906,11 +896,11 @@ Interventions pour stérilité ou motifs de soins liés à la reproduction, nive
 
 |
 
-Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 4
+13C194
 
 |
 
-13C19J
+Interventions pour stérilité ou motifs de soins liés à la reproduction, niveau 4
 
 |
 
@@ -918,11 +908,11 @@ Interventions pour stérilité ou motifs de soins liés à la reproduction, nive
 
 |
 
-Interventions pour stérilité ou motifs de soins liés à la reproduction, en ambulatoire
+13C19J
 
 |
 
-13C201
+Interventions pour stérilité ou motifs de soins liés à la reproduction, en ambulatoire
 
 |
 
@@ -930,11 +920,11 @@ Interventions pour stérilité ou motifs de soins liés à la reproduction, en a
 
 |
 
-Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 1
+13C201
 
 |
 
-13C202
+Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 1
 
 |
 
@@ -942,11 +932,11 @@ Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niv
 
 |
 
-Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 2
+13C202
 
 |
 
-13C203
+Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 2
 
 |
 
@@ -954,11 +944,11 @@ Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niv
 
 |
 
-Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 3
+13C203
 
 |
 
-13C204
+Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 3
 
 |
 
@@ -966,11 +956,11 @@ Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niv
 
 |
 
-Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 4
+13C204
 
 |
 
-13C20J
+Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niveau 4
 
 |
 
@@ -978,11 +968,11 @@ Exérèses ou destructions de lésions du col de l'utérus sauf conisations, niv
 
 |
 
-Exérèses ou destructions de lésions du col de l'utérus sauf conisations, en ambulatoire
+13C20J
 
 |
 
-13K02Z
+Exérèses ou destructions de lésions du col de l'utérus sauf conisations, en ambulatoire
 
 |
 
@@ -990,11 +980,11 @@ Exérèses ou destructions de lésions du col de l'utérus sauf conisations, en 
 
 |
 
-Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
+13K02Z
 
 |
 
-13K03Z
+Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
 
 |
 
@@ -1002,11 +992,11 @@ Endoscopies génito-urinaires thérapeutiques et anesthésie : séjours de la CM
 
 |
 
-Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours
+13K03Z
 
 |
 
-13K04Z
+Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique sans anesthésie : séjours de moins de 2 jours
 
 |
 
@@ -1014,11 +1004,11 @@ Séjours de la CMD 13 comprenant une endoscopie génito-urinaire thérapeutique 
 
 |
 
-Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
+13K04Z
 
 |
 
-13K05Z
+Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 13 et de moins de 2 jours
 
 |
 
@@ -1026,11 +1016,11 @@ Endoscopies génito-urinaires diagnostiques et anesthésie : séjours de la CMD 
 
 |
 
-Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CMD 13 et de moins de 2 jours
+13K05Z
 
 |
 
-13K06J
+Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CMD 13 et de moins de 2 jours
 
 |
 
@@ -1038,11 +1028,11 @@ Endoscopies génito-urinaires diagnostiques sans anesthésie : séjours de la CM
 
 |
 
-Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, avec anesthésie, en ambulatoire
+13K06J
 
 |
 
-13M031
+Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, avec anesthésie, en ambulatoire
 
 |
 
@@ -1050,11 +1040,11 @@ Affections de l'appareil génital féminin sans acte opératoire de la CMD 13, a
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 1
+13M031
 
 |
 
-13M032
+Tumeurs malignes de l'appareil génital féminin, niveau 1
 
 |
 
@@ -1062,11 +1052,11 @@ Tumeurs malignes de l'appareil génital féminin, niveau 1
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 2
+13M032
 
 |
 
-13M033
+Tumeurs malignes de l'appareil génital féminin, niveau 2
 
 |
 
@@ -1074,11 +1064,11 @@ Tumeurs malignes de l'appareil génital féminin, niveau 2
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 3
+13M033
 
 |
 
-13M034
+Tumeurs malignes de l'appareil génital féminin, niveau 3
 
 |
 
@@ -1086,11 +1076,11 @@ Tumeurs malignes de l'appareil génital féminin, niveau 3
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, niveau 4
+13M034
 
 |
 
-13M03T
+Tumeurs malignes de l'appareil génital féminin, niveau 4
 
 |
 
@@ -1098,11 +1088,11 @@ Tumeurs malignes de l'appareil génital féminin, niveau 4
 
 |
 
-Tumeurs malignes de l'appareil génital féminin, très courte durée
+13M03T
 
 |
 
-13M041
+Tumeurs malignes de l'appareil génital féminin, très courte durée
 
 |
 
@@ -1110,11 +1100,11 @@ Tumeurs malignes de l'appareil génital féminin, très courte durée
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 1
+13M041
 
 |
 
-13M042
+Autres affections de l'appareil génital féminin, niveau 1
 
 |
 
@@ -1122,11 +1112,11 @@ Autres affections de l'appareil génital féminin, niveau 1
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 2
+13M042
 
 |
 
-13M043
+Autres affections de l'appareil génital féminin, niveau 2
 
 |
 
@@ -1134,11 +1124,11 @@ Autres affections de l'appareil génital féminin, niveau 2
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 3
+13M043
 
 |
 
-13M044
+Autres affections de l'appareil génital féminin, niveau 3
 
 |
 
@@ -1146,11 +1136,11 @@ Autres affections de l'appareil génital féminin, niveau 3
 
 |
 
-Autres affections de l'appareil génital féminin, niveau 4
+13M044
 
 |
 
-13M04T
+Autres affections de l'appareil génital féminin, niveau 4
 
 |
 
@@ -1158,11 +1148,11 @@ Autres affections de l'appareil génital féminin, niveau 4
 
 |
 
-Autres affections de l'appareil génital féminin, très courte durée
+13M04T
 
 |
 
-13M051
+Autres affections de l'appareil génital féminin, très courte durée
 
 |
 
@@ -1170,11 +1160,11 @@ Autres affections de l'appareil génital féminin, très courte durée
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 1
+13M051
 
 |
 
-13M052
+Infections de l'utérus et de ses annexes, niveau 1
 
 |
 
@@ -1182,11 +1172,11 @@ Infections de l'utérus et de ses annexes, niveau 1
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 2
+13M052
 
 |
 
-13M053
+Infections de l'utérus et de ses annexes, niveau 2
 
 |
 
@@ -1194,11 +1184,11 @@ Infections de l'utérus et de ses annexes, niveau 2
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 3
+13M053
 
 |
 
-13M054
+Infections de l'utérus et de ses annexes, niveau 3
 
 |
 
@@ -1206,11 +1196,11 @@ Infections de l'utérus et de ses annexes, niveau 3
 
 |
 
-Infections de l'utérus et de ses annexes, niveau 4
+13M054
 
 |
 
-13M061
+Infections de l'utérus et de ses annexes, niveau 4
 
 |
 
@@ -1218,11 +1208,11 @@ Infections de l'utérus et de ses annexes, niveau 4
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 1
+13M061
 
 |
 
-13M062
+Autres infections de l'appareil génital féminin, niveau 1
 
 |
 
@@ -1230,11 +1220,11 @@ Autres infections de l'appareil génital féminin, niveau 1
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 2
+13M062
 
 |
 
-13M063
+Autres infections de l'appareil génital féminin, niveau 2
 
 |
 
@@ -1242,11 +1232,11 @@ Autres infections de l'appareil génital féminin, niveau 2
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 3
+13M063
 
 |
 
-13M064
+Autres infections de l'appareil génital féminin, niveau 3
 
 |
 
@@ -1254,11 +1244,11 @@ Autres infections de l'appareil génital féminin, niveau 3
 
 |
 
-Autres infections de l'appareil génital féminin, niveau 4
+13M064
 
 |
 
-13M06T
+Autres infections de l'appareil génital féminin, niveau 4
 
 |
 
@@ -1266,11 +1256,11 @@ Autres infections de l'appareil génital féminin, niveau 4
 
 |
 
-Autres infections de l'appareil génital féminin, très courte durée
+13M06T
 
 |
 
-13M071
+Autres infections de l'appareil génital féminin, très courte durée
 
 |
 
@@ -1278,11 +1268,11 @@ Autres infections de l'appareil génital féminin, très courte durée
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 1
+13M071
 
 |
 
-13M072
+Autres tumeurs de l'appareil génital féminin, niveau 1
 
 |
 
@@ -1290,11 +1280,11 @@ Autres tumeurs de l'appareil génital féminin, niveau 1
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 2
+13M072
 
 |
 
-13M073
+Autres tumeurs de l'appareil génital féminin, niveau 2
 
 |
 
@@ -1302,11 +1292,11 @@ Autres tumeurs de l'appareil génital féminin, niveau 2
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 3
+13M073
 
 |
 
-13M074
+Autres tumeurs de l'appareil génital féminin, niveau 3
 
 |
 
@@ -1314,11 +1304,11 @@ Autres tumeurs de l'appareil génital féminin, niveau 3
 
 |
 
-Autres tumeurs de l'appareil génital féminin, niveau 4
+13M074
 
 |
 
-13M081
+Autres tumeurs de l'appareil génital féminin, niveau 4
 
 |
 
@@ -1326,11 +1316,11 @@ Autres tumeurs de l'appareil génital féminin, niveau 4
 
 |
 
-Assistance médicale à la procréation, niveau 1
+13M081
 
 |
 
-13M082
+Assistance médicale à la procréation, niveau 1
 
 |
 
@@ -1338,11 +1328,11 @@ Assistance médicale à la procréation, niveau 1
 
 |
 
-Assistance médicale à la procréation, niveau 2
+13M082
 
 |
 
-13M083
+Assistance médicale à la procréation, niveau 2
 
 |
 
@@ -1350,11 +1340,11 @@ Assistance médicale à la procréation, niveau 2
 
 |
 
-Assistance médicale à la procréation, niveau 3
+13M083
 
 |
 
-13M084
+Assistance médicale à la procréation, niveau 3
 
 |
 
@@ -1362,11 +1352,11 @@ Assistance médicale à la procréation, niveau 3
 
 |
 
-Assistance médicale à la procréation, niveau 4
+13M084
 
 |
 
-13M09Z
+Assistance médicale à la procréation, niveau 4
 
 |
 
@@ -1374,11 +1364,11 @@ Assistance médicale à la procréation, niveau 4
 
 |
 
-Explorations et surveillance gynécologiques
+13M09Z
 
 |
 
-13M10Z
+Explorations et surveillance gynécologiques
 
 |
 
@@ -1386,11 +1376,11 @@ Explorations et surveillance gynécologiques
 
 |
 
-Autres symptômes et recours aux soins de la CMD 13
+13M10Z
 
 |
 
-14C03A
+Autres symptômes et recours aux soins de la CMD 13
 
 |
 
@@ -1398,11 +1388,11 @@ Autres symptômes et recours aux soins de la CMD 13
 
 |
 
-Accouchements uniques par voie basse avec autres interventions, sans complication significative
+14C03A
 
 |
 
-14C03B
+Accouchements uniques par voie basse avec autres interventions, sans complication significative
 
 |
 
@@ -1410,11 +1400,11 @@ Accouchements uniques par voie basse avec autres interventions, sans complicatio
 
 |
 
-Accouchements uniques par voie basse avec autres interventions, avec autres complications
+14C03B
 
 |
 
-14C03C
+Accouchements uniques par voie basse avec autres interventions, avec autres complications
 
 |
 
@@ -1422,11 +1412,11 @@ Accouchements uniques par voie basse avec autres interventions, avec autres comp
 
 |
 
-Accouchements uniques par voie basse avec autres interventions, avec complications majeures
+14C03C
 
 |
 
-14C03D
+Accouchements uniques par voie basse avec autres interventions, avec complications majeures
 
 |
 
@@ -1434,11 +1424,11 @@ Accouchements uniques par voie basse avec autres interventions, avec complicatio
 
 |
 
-Accouchements uniques par voie basse avec autres interventions, avec complications sévères
+14C03D
 
 |
 
-14C04T
+Accouchements uniques par voie basse avec autres interventions, avec complications sévères
 
 |
 
@@ -1446,11 +1436,11 @@ Accouchements uniques par voie basse avec autres interventions, avec complicatio
 
 |
 
-Affections du post-partum ou du post abortum avec intervention chirurgicale, très courte durée
+14C04T
 
 |
 
-14C04Z
+Affections du post-partum ou du post abortum avec intervention chirurgicale, très courte durée
 
 |
 
@@ -1458,11 +1448,11 @@ Affections du post-partum ou du post abortum avec intervention chirurgicale, tr�
 
 |
 
-Affections du post-partum ou du post abortum avec intervention chirurgicale
+14C04Z
 
 |
 
-14C05J
+Affections du post-partum ou du post abortum avec intervention chirurgicale
 
 |
 
@@ -1470,11 +1460,11 @@ Affections du post-partum ou du post abortum avec intervention chirurgicale
 
 |
 
-Avortements avec aspiration ou curetage ou hystérotomie, en ambulatoire
+14C05J
 
 |
 
-14C05Z
+Avortements avec aspiration ou curetage ou hystérotomie, en ambulatoire
 
 |
 
@@ -1482,11 +1472,11 @@ Avortements avec aspiration ou curetage ou hystérotomie, en ambulatoire
 
 |
 
-Avortements avec aspiration ou curetage ou hystérotomie
+14C05Z
 
 |
 
-14C06A
+Avortements avec aspiration ou curetage ou hystérotomie
 
 |
 
@@ -1494,11 +1484,11 @@ Avortements avec aspiration ou curetage ou hystérotomie
 
 |
 
-Césariennes avec naissance d'un mort-né, sans complication significative
+14C06A
 
 |
 
-14C06B
+Césariennes avec naissance d'un mort-né, sans complication significative
 
 |
 
@@ -1506,11 +1496,11 @@ Césariennes avec naissance d'un mort-né, sans complication significative
 
 |
 
-Césariennes avec naissance d'un mort-né, avec autres complications
+14C06B
 
 |
 
-14C06C
+Césariennes avec naissance d'un mort-né, avec autres complications
 
 |
 
@@ -1518,11 +1508,11 @@ Césariennes avec naissance d'un mort-né, avec autres complications
 
 |
 
-Césariennes avec naissance d'un mort-né, avec complications majeures
+14C06C
 
 |
 
-14C06D
+Césariennes avec naissance d'un mort-né, avec complications majeures
 
 |
 
@@ -1530,11 +1520,11 @@ Césariennes avec naissance d'un mort-né, avec complications majeures
 
 |
 
-Césariennes avec naissance d'un mort-né, avec complications sévères
+14C06D
 
 |
 
-14C07A
+Césariennes avec naissance d'un mort-né, avec complications sévères
 
 |
 
@@ -1542,11 +1532,11 @@ Césariennes avec naissance d'un mort-né, avec complications sévères
 
 |
 
-Césariennes pour grossesse multiple, sans complication significative
+14C07A
 
 |
 
-14C07B
+Césariennes pour grossesse multiple, sans complication significative
 
 |
 
@@ -1554,11 +1544,11 @@ Césariennes pour grossesse multiple, sans complication significative
 
 |
 
-Césariennes pour grossesse multiple, avec autres complications
+14C07B
 
 |
 
-14C07C
+Césariennes pour grossesse multiple, avec autres complications
 
 |
 
@@ -1566,11 +1556,11 @@ Césariennes pour grossesse multiple, avec autres complications
 
 |
 
-Césariennes pour grossesse multiple, avec complications majeures
+14C07C
 
 |
 
-14C07D
+Césariennes pour grossesse multiple, avec complications majeures
 
 |
 
@@ -1578,11 +1568,11 @@ Césariennes pour grossesse multiple, avec complications majeures
 
 |
 
-Césariennes pour grossesse multiple, avec complications sévères
+14C07D
 
 |
 
-14C08A
+Césariennes pour grossesse multiple, avec complications sévères
 
 |
 
@@ -1590,11 +1580,11 @@ Césariennes pour grossesse multiple, avec complications sévères
 
 |
 
-Césariennes pour grossesse unique, sans complication significative
+14C08A
 
 |
 
-14C08B
+Césariennes pour grossesse unique, sans complication significative
 
 |
 
@@ -1602,11 +1592,11 @@ Césariennes pour grossesse unique, sans complication significative
 
 |
 
-Césariennes pour grossesse unique, avec autres complications
+14C08B
 
 |
 
-14C08C
+Césariennes pour grossesse unique, avec autres complications
 
 |
 
@@ -1614,11 +1604,11 @@ Césariennes pour grossesse unique, avec autres complications
 
 |
 
-Césariennes pour grossesse unique, avec complications majeures
+14C08C
 
 |
 
-14C08D
+Césariennes pour grossesse unique, avec complications majeures
 
 |
 
@@ -1626,11 +1616,11 @@ Césariennes pour grossesse unique, avec complications majeures
 
 |
 
-Césariennes pour grossesse unique, avec complications sévères
+14C08D
 
 |
 
-14C09A
+Césariennes pour grossesse unique, avec complications sévères
 
 |
 
@@ -1638,11 +1628,11 @@ Césariennes pour grossesse unique, avec complications sévères
 
 |
 
-Grossesses ectopiques avec intervention chirurgicale, sans complication significative
+14C09A
 
 |
 
-14C09B
+Grossesses ectopiques avec intervention chirurgicale, sans complication significative
 
 |
 
@@ -1650,11 +1640,11 @@ Grossesses ectopiques avec intervention chirurgicale, sans complication signific
 
 |
 
-Grossesses ectopiques avec intervention chirurgicale, avec complications
+14C09B
 
 |
 
-14C10T
+Grossesses ectopiques avec intervention chirurgicale, avec complications
 
 |
 
@@ -1662,11 +1652,11 @@ Grossesses ectopiques avec intervention chirurgicale, avec complications
 
 |
 
-Affections de l'ante partum avec intervention chirurgicale, très courte durée
+14C10T
 
 |
 
-14C10Z
+Affections de l'antepartum avec intervention chirurgicale, très courte durée
 
 |
 
@@ -1674,11 +1664,11 @@ Affections de l'ante partum avec intervention chirurgicale, très courte durée
 
 |
 
-Affections de l'ante partum avec intervention chirurgicale
+14C10Z
 
 |
 
-14M02A
+Affections de l'antepartum avec intervention chirurgicale
 
 |
 
@@ -1686,11 +1676,11 @@ Affections de l'ante partum avec intervention chirurgicale
 
 |
 
-Affections médicales du post-partum ou du post abortum, sans complication significative
+14M02A
 
 |
 
-14M02B
+Affections médicales du post-partum ou du post-abortum, sans complication significative
 
 |
 
@@ -1698,11 +1688,11 @@ Affections médicales du post-partum ou du post abortum, sans complication signi
 
 |
 
-Affections médicales du post-partum ou du post abortum, avec complications
+14M02B
 
 |
 
-14M02T
+Affections médicales du post-partum ou du post-abortum, avec complications
 
 |
 
@@ -1710,11 +1700,11 @@ Affections médicales du post-partum ou du post abortum, avec complications
 
 |
 
-Affections médicales du post-partum ou du post abortum, très courte durée
+14M02T
 
 |
 
-14M03A
+Affections médicales du post-partum ou du post-abortum, très courte durée
 
 |
 
@@ -1722,11 +1712,11 @@ Affections médicales du post-partum ou du post abortum, très courte durée
 
 |
 
-Affections de l'ante partum sans intervention chirurgicale, sans complication significative
+14M03A
 
 |
 
-14M03B
+Affections de l'antepartum sans intervention chirurgicale, sans complication significative
 
 |
 
@@ -1734,11 +1724,11 @@ Affections de l'ante partum sans intervention chirurgicale, sans complication si
 
 |
 
-Affections de l'ante partum sans intervention chirurgicale, avec autres complications
+14M03B
 
 |
 
-14M03C
+Affections de l'antepartum sans intervention chirurgicale, avec autres complications
 
 |
 
@@ -1746,11 +1736,11 @@ Affections de l'ante partum sans intervention chirurgicale, avec autres complica
 
 |
 
-Affections de l'ante partum sans intervention chirurgicale, avec complications majeures
+14M03C
 
 |
 
-14M03D
+Affections de l'antepartum sans intervention chirurgicale, avec complications majeures
 
 |
 
@@ -1758,11 +1748,11 @@ Affections de l'ante partum sans intervention chirurgicale, avec complications m
 
 |
 
-Affections de l'ante partum sans intervention chirurgicale, avec complications sévères
+14M03D
 
 |
 
-14M03T
+Affections de l'antepartum sans intervention chirurgicale, avec complications sévères
 
 |
 
@@ -1770,11 +1760,11 @@ Affections de l'ante partum sans intervention chirurgicale, avec complications s
 
 |
 
-Affections de l'ante partum sans intervention chirurgicale, très courte durée
+14M03T
 
 |
 
-14Z04T
+Affections de l'antepartum sans intervention chirurgicale, très courte durée
 
 |
 
@@ -1782,11 +1772,11 @@ Affections de l'ante partum sans intervention chirurgicale, très courte durée
 
 |
 
-Avortements sans aspiration, ni curetage, ni hystérotomie, très courte durée
+14Z04T
 
 |
 
-14Z04Z
+Avortements sans aspiration, ni curetage, ni hystérotomie, très courte durée
 
 |
 
@@ -1794,11 +1784,11 @@ Avortements sans aspiration, ni curetage, ni hystérotomie, très courte durée
 
 |
 
-Avortements sans aspiration, ni curetage, ni hystérotomie
+14Z04Z
 
 |
 
-14Z06T
+Avortements sans aspiration, ni curetage, ni hystérotomie
 
 |
 
@@ -1806,11 +1796,11 @@ Avortements sans aspiration, ni curetage, ni hystérotomie
 
 |
 
-Menaces d'avortement, très courte durée
+14Z06T
 
 |
 
-14Z06Z
+Menaces d'avortement, très courte durée
 
 |
 
@@ -1818,23 +1808,11 @@ Menaces d'avortement, très courte durée
 
 |
 
+14Z06Z
+
+|
+
 Menaces d'avortement
-
-|
-
-14Z08Z
-
-|
-
-9999
-
-|
-
-Interruptions volontaires de grossesse : séjours de moins de 3 jours
-
-|
-
-14Z09Z
 
 |
 
@@ -1842,11 +1820,11 @@ Interruptions volontaires de grossesse : séjours de moins de 3 jours
 
 |
 
-Accouchements hors de l'établissement
+14Z09Z
 
 |
 
-14Z10A
+Accouchements hors de l'établissement
 
 |
 
@@ -1854,11 +1832,11 @@ Accouchements hors de l'établissement
 
 |
 
-Accouchements par voie basse avec naissance d'un mort-né, sans complication significative
+14Z10A
 
 |
 
-14Z10B
+Accouchements par voie basse avec naissance d'un mort-né, sans complication significative
 
 |
 
@@ -1866,11 +1844,11 @@ Accouchements par voie basse avec naissance d'un mort-né, sans complication sig
 
 |
 
-Accouchements voie basse avec naissance d'un mort-né, avec complications
+14Z10B
 
 |
 
-14Z10T
+Accouchements voie basse avec naissance d'un mort-né, avec complications
 
 |
 
@@ -1878,11 +1856,11 @@ Accouchements voie basse avec naissance d'un mort-né, avec complications
 
 |
 
-Accouchements par voie basse avec naissance d'un mort-né, très courte durée
+14Z10T
 
 |
 
-14Z11A
+Accouchements par voie basse avec naissance d'un mort-né, très courte durée
 
 |
 
@@ -1890,11 +1868,11 @@ Accouchements par voie basse avec naissance d'un mort-né, très courte durée
 
 |
 
-Accouchements multiples par voie basse chez une primipare, sans complication significative
+14Z11A
 
 |
 
-14Z11B
+Accouchements multiples par voie basse chez une primipare, sans complication significative
 
 |
 
@@ -1902,11 +1880,11 @@ Accouchements multiples par voie basse chez une primipare, sans complication sig
 
 |
 
-Accouchements multiples par voie basse chez une primipare, avec complications
+14Z11B
 
 |
 
-14Z12A
+Accouchements multiples par voie basse chez une primipare, avec complications
 
 |
 
@@ -1914,11 +1892,11 @@ Accouchements multiples par voie basse chez une primipare, avec complications
 
 |
 
-Accouchements multiples par voie basse chez une multipare, sans complication significative
+14Z12A
 
 |
 
-14Z12B
+Accouchements multiples par voie basse chez une multipare, sans complication significative
 
 |
 
@@ -1926,11 +1904,11 @@ Accouchements multiples par voie basse chez une multipare, sans complication sig
 
 |
 
-Accouchements multiples par voie basse chez une multipare, avec complications
+14Z12B
 
 |
 
-14Z13A
+Accouchements multiples par voie basse chez une multipare, avec complications
 
 |
 
@@ -1938,11 +1916,11 @@ Accouchements multiples par voie basse chez une multipare, avec complications
 
 |
 
-Accouchements uniques par voie basse chez une primipare, sans complication significative
+14Z13A
 
 |
 
-14Z13B
+Accouchements uniques par voie basse chez une primipare, sans complication significative
 
 |
 
@@ -1950,11 +1928,11 @@ Accouchements uniques par voie basse chez une primipare, sans complication signi
 
 |
 
-Accouchements uniques par voie basse chez une primipare, avec autres complications
+14Z13B
 
 |
 
-14Z13C
+Accouchements uniques par voie basse chez une primipare, avec autres complications
 
 |
 
@@ -1962,11 +1940,11 @@ Accouchements uniques par voie basse chez une primipare, avec autres complicatio
 
 |
 
-Accouchements uniques par voie basse chez une primipare, avec complications majeures
+14Z13C
 
 |
 
-14Z13D
+Accouchements uniques par voie basse chez une primipare, avec complications majeures
 
 |
 
@@ -1974,11 +1952,11 @@ Accouchements uniques par voie basse chez une primipare, avec complications maje
 
 |
 
-Accouchements uniques par voie basse chez une primipare, avec complications sévères
+14Z13D
 
 |
 
-14Z13T
+Accouchements uniques par voie basse chez une primipare, avec complications sévères
 
 |
 
@@ -1986,11 +1964,11 @@ Accouchements uniques par voie basse chez une primipare, avec complications sév
 
 |
 
-Accouchements uniques par voie basse chez une primipare, très courte durée
+14Z13T
 
 |
 
-14Z14A
+Accouchements uniques par voie basse chez une primipare, très courte durée
 
 |
 
@@ -1998,11 +1976,11 @@ Accouchements uniques par voie basse chez une primipare, très courte durée
 
 |
 
-Accouchements uniques par voie basse chez une multipare, sans complication significative
+14Z14A
 
 |
 
-14Z14B
+Accouchements uniques par voie basse chez une multipare, sans complication significative
 
 |
 
@@ -2010,11 +1988,11 @@ Accouchements uniques par voie basse chez une multipare, sans complication signi
 
 |
 
-Accouchements uniques par voie basse chez une multipare, avec autres complications
+14Z14B
 
 |
 
-14Z14C
+Accouchements uniques par voie basse chez une multipare, avec autres complications
 
 |
 
@@ -2022,11 +2000,11 @@ Accouchements uniques par voie basse chez une multipare, avec autres complicatio
 
 |
 
-Accouchements uniques par voie basse chez une multipare, avec complications majeures
+14Z14C
 
 |
 
-14Z14D
+Accouchements uniques par voie basse chez une multipare, avec complications majeures
 
 |
 
@@ -2034,11 +2012,11 @@ Accouchements uniques par voie basse chez une multipare, avec complications maje
 
 |
 
-Accouchements uniques par voie basse chez une multipare, avec complications sévères
+14Z14D
 
 |
 
-14Z14T
+Accouchements uniques par voie basse chez une multipare, avec complications sévères
 
 |
 
@@ -2046,11 +2024,11 @@ Accouchements uniques par voie basse chez une multipare, avec complications sév
 
 |
 
-Accouchements uniques par voie basse chez une multipare, très courte durée
+14Z14T
 
 |
 
-14Z15Z
+Accouchements uniques par voie basse chez une multipare, très courte durée
 
 |
 
@@ -2058,11 +2036,11 @@ Accouchements uniques par voie basse chez une multipare, très courte durée
 
 |
 
-Grossesses ectopiques sans intervention chirurgicale
+14Z15Z
 
 |
 
-14Z16T
+Grossesses ectopiques sans intervention chirurgicale
 
 |
 
@@ -2070,11 +2048,11 @@ Grossesses ectopiques sans intervention chirurgicale
 
 |
 
-Faux travail et menaces d'accouchements prématurés, très courte durée
+14Z16T
 
 |
 
-14Z16Z
+Faux travail et menaces d'accouchements prématurés, très courte durée
 
 |
 
@@ -2082,11 +2060,11 @@ Faux travail et menaces d'accouchements prématurés, très courte durée
 
 |
 
-Faux travail et menaces d'accouchements prématurés
+14Z16Z
 
 |
 
-15C02A
+Faux travail et menaces d'accouchements prématurés
 
 |
 
@@ -2094,11 +2072,11 @@ Faux travail et menaces d'accouchements prématurés
 
 |
 
-Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, sans complication significative
+15C02A
 
 |
 
-15C02B
+Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, sans complication significative
 
 |
 
@@ -2106,11 +2084,11 @@ Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, san
 
 |
 
-Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, avec complications
+15C02B
 
 |
 
-15C03A
+Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, avec complications
 
 |
 
@@ -2118,11 +2096,11 @@ Interventions majeures sur l'appareil digestif, groupes nouveau-nés 1 à 7, ave
 
 |
 
-Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, sans complication significative
+15C03A
 
 |
 
-15C03B
+Interventions majeures sur l'appareil cardio-vasculaire, groupes nouveau-nés 1 à 7, sans complication significative
 
 |
 
@@ -2130,11 +2108,11 @@ Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 �
 
 |
 
-Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 à 7, avec complications
+15C03B
 
 |
 
-15C04A
+Interventions majeures sur l'appareil cardio-vasculaire, groupes nouveau-nés 1 à 7, avec complications
 
 |
 
@@ -2142,11 +2120,11 @@ Interventions majeures sur l'appareil cardiovasculaire, groupes nouveau-nés 1 �
 
 |
 
-Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, sans complication significative
+15C04A
 
 |
 
-15C04B
+Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, sans complication significative
 
 |
 
@@ -2154,11 +2132,11 @@ Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, sans complicati
 
 |
 
-Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, avec complications
+15C04B
 
 |
 
-15C05A
+Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, avec complications
 
 |
 
@@ -2166,11 +2144,11 @@ Autres interventions chirurgicales, groupes nouveau-nés 1 à 7, avec complicati
 
 |
 
-Interventions chirurgicales, groupes nouveau-nés 8 à 9, sans complication significative
+15C05A
 
 |
 
-15C05B
+Interventions chirurgicales, groupes nouveau-nés 8 à 9, sans complication significative
 
 |
 
@@ -2178,11 +2156,11 @@ Interventions chirurgicales, groupes nouveau-nés 8 à 9, sans complication sign
 
 |
 
-Interventions chirurgicales, groupes nouveau-nés 8 à 9, avec complications
+15C05B
 
 |
 
-15C06A
+Interventions chirurgicales, groupes nouveau-nés 8 à 9, avec complications
 
 |
 
@@ -2190,11 +2168,11 @@ Interventions chirurgicales, groupes nouveau-nés 8 à 9, avec complications
 
 |
 
-Interventions chirurgicales, groupe nouveau-nés 10, sans complication significative
+15C06A
 
 |
 
-15C06B
+Interventions chirurgicales, groupe nouveau-nés 10, sans complication significative
 
 |
 
@@ -2202,11 +2180,11 @@ Interventions chirurgicales, groupe nouveau-nés 10, sans complication significa
 
 |
 
-Interventions chirurgicales, groupe nouveau-nés 10, avec complications
+15C06B
 
 |
 
-15M02Z
+Interventions chirurgicales, groupe nouveau-nés 10, avec complications
 
 |
 
@@ -2214,11 +2192,11 @@ Interventions chirurgicales, groupe nouveau-nés 10, avec complications
 
 |
 
-Transferts précoces de nouveau-nés vers un autre établissement MCO
+15M02Z
 
 |
 
-15M03E
+Transferts précoces de nouveau-nés vers un autre établissement MCO
 
 |
 
@@ -2226,11 +2204,11 @@ Transferts précoces de nouveau-nés vers un autre établissement MCO
 
 |
 
-Décès précoces de nouveau-nés
+15M03E
 
 |
 
-15M04E
+Décès précoces de nouveau-nés
 
 |
 
@@ -2238,11 +2216,11 @@ Décès précoces de nouveau-nés
 
 |
 
-Décès tardifs de nouveau-nés
+15M04E
 
 |
 
-15M05A
+Décès tardifs de nouveau-nés
 
 |
 
@@ -2250,11 +2228,11 @@ Décès tardifs de nouveau-nés
 
 |
 
-Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), sans problème significatif
+15M05A
 
 |
 
-15M05B
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), sans problème significatif
 
 |
 
@@ -2262,11 +2240,11 @@ Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec autre problème significatif
+15M05B
 
 |
 
-15M05C
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec autre problème significatif
 
 |
 
@@ -2274,11 +2252,11 @@ Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème sévère
+15M05C
 
 |
 
-15M05D
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème sévère
 
 |
 
@@ -2286,11 +2264,11 @@ Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème majeur
+15M05D
 
 |
 
-15M06A
+Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouveau-nés 1), avec problème majeur
 
 |
 
@@ -2298,11 +2276,11 @@ Nouveau-nés de 3 300 g et âge gestationnel de 40 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), sans problème significatif
+15M06A
 
 |
 
-15M06B
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), sans problème significatif
 
 |
 
@@ -2310,11 +2288,11 @@ Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec autre problème significatif
+15M06B
 
 |
 
-15M06C
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec autre problème significatif
 
 |
 
@@ -2322,11 +2300,11 @@ Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème sévère
+15M06C
 
 |
 
-15M06D
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème sévère
 
 |
 
@@ -2334,11 +2312,11 @@ Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème majeur
+15M06D
 
 |
 
-15M07A
+Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouveau-nés 2), avec problème majeur
 
 |
 
@@ -2346,11 +2324,11 @@ Nouveau-nés de 2 400 g et âge gestationnel de 38 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), sans problème significatif
+15M07A
 
 |
 
-15M07B
+Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), sans problème significatif
 
 |
 
@@ -2358,11 +2336,11 @@ Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec autre problème significatif
+15M07B
 
 |
 
-15M07C
+Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec autre problème significatif
 
 |
 
@@ -2370,11 +2348,11 @@ Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec problème majeur ou sévère
+15M07C
 
 |
 
-15M08A
+Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 3), avec problème majeur ou sévère
 
 |
 
@@ -2382,11 +2360,11 @@ Nouveau-nés de 2 200 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), sans problème significatif
+15M08A
 
 |
 
-15M08B
+Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), sans problème significatif
 
 |
 
@@ -2394,11 +2372,11 @@ Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec autre problème significatif
+15M08B
 
 |
 
-15M08C
+Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec autre problème significatif
 
 |
 
@@ -2406,11 +2384,11 @@ Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec problème majeur ou sévère
+15M08C
 
 |
 
-15M09A
+Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouveau-nés 4), avec problème majeur ou sévère
 
 |
 
@@ -2418,11 +2396,11 @@ Nouveau-nés de 2 000 g et âge gestationnel de 37 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), sans problème significatif
+15M09A
 
 |
 
-15M09B
+Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), sans problème significatif
 
 |
 
@@ -2430,11 +2408,11 @@ Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec autre problème significatif
+15M09B
 
 |
 
-15M09C
+Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec autre problème significatif
 
 |
 
@@ -2442,11 +2420,11 @@ Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec problème majeur ou sévère
+15M09C
 
 |
 
-15M10A
+Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouveau-nés 5), avec problème majeur ou sévère
 
 |
 
@@ -2454,11 +2432,11 @@ Nouveau-nés de 1 800 g et âge gestationnel de 36 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), sans problème significatif
+15M10A
 
 |
 
-15M10B
+Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), sans problème significatif
 
 |
 
@@ -2466,11 +2444,11 @@ Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec autre problème significatif
+15M10B
 
 |
 
-15M10C
+Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec autre problème significatif
 
 |
 
@@ -2478,11 +2456,11 @@ Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec problème majeur ou sévère
+15M10C
 
 |
 
-15M11A
+Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouveau-nés 6), avec problème majeur ou sévère
 
 |
 
@@ -2490,11 +2468,11 @@ Nouveau-nés de 1 700 g et âge gestationnel de 35 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), sans problème significatif
+15M11A
 
 |
 
-15M11B
+Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), sans problème significatif
 
 |
 
@@ -2502,11 +2480,11 @@ Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec autre problème significatif
+15M11B
 
 |
 
-15M11C
+Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec autre problème significatif
 
 |
 
@@ -2514,11 +2492,11 @@ Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec problème majeur ou sévère
+15M11C
 
 |
 
-15M12A
+Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouveau-nés 7), avec problème majeur ou sévère
 
 |
 
@@ -2526,11 +2504,11 @@ Nouveau-nés de 1 500 g et âge gestationnel de 33 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), sans problème significatif
+15M12A
 
 |
 
-15M12B
+Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), sans problème significatif
 
 |
 
@@ -2538,11 +2516,11 @@ Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), avec problème significatif
+15M12B
 
 |
 
-15M13A
+Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouveau-nés 8), avec problème significatif
 
 |
 
@@ -2550,11 +2528,11 @@ Nouveau-nés de 1 300 g et âge gestationnel de 32 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), sans problème significatif
+15M13A
 
 |
 
-15M13B
+Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), sans problème significatif
 
 |
 
@@ -2562,11 +2540,11 @@ Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), avec problème significatif
+15M13B
 
 |
 
-15M14A
+Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouveau-nés 9), avec problème significatif
 
 |
 
@@ -2574,11 +2552,11 @@ Nouveau-nés de 1 100 g et âge gestationnel de 30 SA et assimilés (groupe nouv
 
 |
 
-Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), sans problème significatif
+15M14A
 
 |
 
-15M14B
+Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), sans problème significatif
 
 |
 
@@ -2586,23 +2564,11 @@ Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau
 
 |
 
+15M14B
+
+|
+
 Nouveau-nés de 800 g et âge gestationnel de 28SA et assimilés (groupe nouveau-nés 10), avec problème significatif
-
-|
-
-15Z10E
-
-|
-
-9999
-
-|
-
-Mort-nés
-
-|
-
-16C021
 
 |
 
@@ -2610,11 +2576,11 @@ Mort-nés
 
 |
 
-Interventions sur la rate, niveau 1
+16C021
 
 |
 
-16C022
+Interventions sur la rate, niveau 1
 
 |
 
@@ -2622,11 +2588,11 @@ Interventions sur la rate, niveau 1
 
 |
 
-Interventions sur la rate, niveau 2
+16C022
 
 |
 
-16C023
+Interventions sur la rate, niveau 2
 
 |
 
@@ -2634,11 +2600,11 @@ Interventions sur la rate, niveau 2
 
 |
 
-Interventions sur la rate, niveau 3
+16C023
 
 |
 
-16C024
+Interventions sur la rate, niveau 3
 
 |
 
@@ -2646,11 +2612,11 @@ Interventions sur la rate, niveau 3
 
 |
 
-Interventions sur la rate, niveau 4
+16C024
 
 |
 
-16C031
+Interventions sur la rate, niveau 4
 
 |
 
@@ -2658,11 +2624,11 @@ Interventions sur la rate, niveau 4
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 1
+16C031
 
 |
 
-16C032
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 1
 
 |
 
@@ -2670,11 +2636,11 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 2
+16C032
 
 |
 
-16C033
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 2
 
 |
 
@@ -2682,11 +2648,11 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 3
+16C033
 
 |
 
-16C034
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 3
 
 |
 
@@ -2694,11 +2660,11 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 4
+16C034
 
 |
 
-16C03J
+Autres interventions pour affections du sang et des organes hématopoïétiques, niveau 4
 
 |
 
@@ -2706,11 +2672,11 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Autres interventions pour affections du sang et des organes hématopoïétiques, en ambulatoire
+16C03J
 
 |
 
-16M061
+Autres interventions pour affections du sang et des organes hématopoïétiques, en ambulatoire
 
 |
 
@@ -2718,11 +2684,11 @@ Autres interventions pour affections du sang et des organes hématopoïétiques,
 
 |
 
-Affections de la rate, niveau 1
+16M061
 
 |
 
-16M062
+Affections de la rate, niveau 1
 
 |
 
@@ -2730,11 +2696,11 @@ Affections de la rate, niveau 1
 
 |
 
-Affections de la rate, niveau 2
+16M062
 
 |
 
-16M063
+Affections de la rate, niveau 2
 
 |
 
@@ -2742,11 +2708,11 @@ Affections de la rate, niveau 2
 
 |
 
-Affections de la rate, niveau 3
+16M063
 
 |
 
-16M064
+Affections de la rate, niveau 3
 
 |
 
@@ -2754,11 +2720,11 @@ Affections de la rate, niveau 3
 
 |
 
-Affections de la rate, niveau 4
+16M064
 
 |
 
-16M06T
+Affections de la rate, niveau 4
 
 |
 
@@ -2766,11 +2732,11 @@ Affections de la rate, niveau 4
 
 |
 
-Affections de la rate, très courte durée
+16M06T
 
 |
 
-16M071
+Affections de la rate, très courte durée
 
 |
 
@@ -2778,11 +2744,11 @@ Affections de la rate, très courte durée
 
 |
 
-Donneurs de moelle, niveau 1
+16M071
 
 |
 
-16M072
+Donneurs de moelle, niveau 1
 
 |
 
@@ -2790,11 +2756,11 @@ Donneurs de moelle, niveau 1
 
 |
 
-Donneurs de moelle, niveau 2
+16M072
 
 |
 
-16M073
+Donneurs de moelle, niveau 2
 
 |
 
@@ -2802,11 +2768,11 @@ Donneurs de moelle, niveau 2
 
 |
 
-Donneurs de moelle, niveau 3
+16M073
 
 |
 
-16M074
+Donneurs de moelle, niveau 3
 
 |
 
@@ -2814,11 +2780,11 @@ Donneurs de moelle, niveau 3
 
 |
 
-Donneurs de moelle, niveau 4
+16M074
 
 |
 
-16M081
+Donneurs de moelle, niveau 4
 
 |
 
@@ -2826,11 +2792,11 @@ Donneurs de moelle, niveau 4
 
 |
 
-Déficits immunitaires, niveau 1
+16M081
 
 |
 
-16M082
+Déficits immunitaires, niveau 1
 
 |
 
@@ -2838,11 +2804,11 @@ Déficits immunitaires, niveau 1
 
 |
 
-Déficits immunitaires, niveau 2
+16M082
 
 |
 
-16M083
+Déficits immunitaires, niveau 2
 
 |
 
@@ -2850,11 +2816,11 @@ Déficits immunitaires, niveau 2
 
 |
 
-Déficits immunitaires, niveau 3
+16M083
 
 |
 
-16M084
+Déficits immunitaires, niveau 3
 
 |
 
@@ -2862,11 +2828,11 @@ Déficits immunitaires, niveau 3
 
 |
 
-Déficits immunitaires, niveau 4
+16M084
 
 |
 
-16M091
+Déficits immunitaires, niveau 4
 
 |
 
@@ -2874,11 +2840,11 @@ Déficits immunitaires, niveau 4
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 1
+16M091
 
 |
 
-16M092
+Autres affections du système réticuloendothélial ou immunitaire, niveau 1
 
 |
 
@@ -2886,11 +2852,11 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 1
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 2
+16M092
 
 |
 
-16M093
+Autres affections du système réticuloendothélial ou immunitaire, niveau 2
 
 |
 
@@ -2898,11 +2864,11 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 2
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 3
+16M093
 
 |
 
-16M094
+Autres affections du système réticuloendothélial ou immunitaire, niveau 3
 
 |
 
@@ -2910,11 +2876,11 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 3
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, niveau 4
+16M094
 
 |
 
-16M09T
+Autres affections du système réticuloendothélial ou immunitaire, niveau 4
 
 |
 
@@ -2922,11 +2888,11 @@ Autres affections du système réticuloendothélial ou immunitaire, niveau 4
 
 |
 
-Autres affections du système réticuloendothélial ou immunitaire, très courte durée
+16M09T
 
 |
 
-16M101
+Autres affections du système réticuloendothélial ou immunitaire, très courte durée
 
 |
 
@@ -2934,11 +2900,11 @@ Autres affections du système réticuloendothélial ou immunitaire, très courte
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1
+16M101
 
 |
 
-16M102
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -2946,11 +2912,11 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2
+16M102
 
 |
 
-16M103
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -2958,11 +2924,11 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3
+16M103
 
 |
 
-16M104
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -2970,11 +2936,11 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4
+16M104
 
 |
 
-16M10T
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -2982,11 +2948,11 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée
+16M10T
 
 |
 
-16M111
+Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -2994,11 +2960,11 @@ Troubles sévères de la lignée érythrocytaire, âge supérieur à 17 ans, tr�
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1
+16M111
 
 |
 
-16M112
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -3006,11 +2972,11 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2
+16M112
 
 |
 
-16M113
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -3018,11 +2984,11 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3
+16M113
 
 |
 
-16M114
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -3030,11 +2996,11 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4
+16M114
 
 |
 
-16M11T
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -3042,11 +3008,11 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée
+16M11T
 
 |
 
-16M121
+Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -3054,11 +3020,11 @@ Autres troubles de la lignée érythrocytaire, âge supérieur à 17 ans, très 
 
 |
 
-Purpuras, niveau 1
+16M121
 
 |
 
-16M122
+Purpuras, niveau 1
 
 |
 
@@ -3066,11 +3032,11 @@ Purpuras, niveau 1
 
 |
 
-Purpuras, niveau 2
+16M122
 
 |
 
-16M123
+Purpuras, niveau 2
 
 |
 
@@ -3078,11 +3044,11 @@ Purpuras, niveau 2
 
 |
 
-Purpuras, niveau 3
+16M123
 
 |
 
-16M124
+Purpuras, niveau 3
 
 |
 
@@ -3090,11 +3056,11 @@ Purpuras, niveau 3
 
 |
 
-Purpuras, niveau 4
+16M124
 
 |
 
-16M12T
+Purpuras, niveau 4
 
 |
 
@@ -3102,11 +3068,11 @@ Purpuras, niveau 4
 
 |
 
-Purpuras, très courte durée
+16M12T
 
 |
 
-16M131
+Purpuras, très courte durée
 
 |
 
@@ -3114,11 +3080,11 @@ Purpuras, très courte durée
 
 |
 
-Autres troubles de la coagulation, niveau 1
+16M131
 
 |
 
-16M132
+Autres troubles de la coagulation, niveau 1
 
 |
 
@@ -3126,11 +3092,11 @@ Autres troubles de la coagulation, niveau 1
 
 |
 
-Autres troubles de la coagulation, niveau 2
+16M132
 
 |
 
-16M133
+Autres troubles de la coagulation, niveau 2
 
 |
 
@@ -3138,11 +3104,11 @@ Autres troubles de la coagulation, niveau 2
 
 |
 
-Autres troubles de la coagulation, niveau 3
+16M133
 
 |
 
-16M134
+Autres troubles de la coagulation, niveau 3
 
 |
 
@@ -3150,11 +3116,11 @@ Autres troubles de la coagulation, niveau 3
 
 |
 
-Autres troubles de la coagulation, niveau 4
+16M134
 
 |
 
-16M13T
+Autres troubles de la coagulation, niveau 4
 
 |
 
@@ -3162,11 +3128,11 @@ Autres troubles de la coagulation, niveau 4
 
 |
 
-Autres troubles de la coagulation, très courte durée
+16M13T
 
 |
 
-16M14Z
+Autres troubles de la coagulation, très courte durée
 
 |
 
@@ -3174,11 +3140,11 @@ Autres troubles de la coagulation, très courte durée
 
 |
 
-Explorations et surveillance pour affections du sang et des organes hématopoïétiques
+16M14Z
 
 |
 
-16M15T
+Explorations et surveillance pour affections du sang et des organes hématopoïétiques
 
 |
 
@@ -3186,11 +3152,11 @@ Explorations et surveillance pour affections du sang et des organes hématopoï�
 
 |
 
-Symptômes et autres recours aux soins de la CMD 16, très courte durée
+16M15T
 
 |
 
-16M15Z
+Symptômes et autres recours aux soins de la CMD 16, très courte durée
 
 |
 
@@ -3198,11 +3164,11 @@ Symptômes et autres recours aux soins de la CMD 16, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 16
+16M15Z
 
 |
 
-16M161
+Symptômes et autres recours aux soins de la CMD 16
 
 |
 
@@ -3210,11 +3176,11 @@ Symptômes et autres recours aux soins de la CMD 16
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1
+16M161
 
 |
 
-16M162
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -3222,11 +3188,11 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2
+16M162
 
 |
 
-16M163
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -3234,11 +3200,11 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3
+16M163
 
 |
 
-16M164
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -3246,11 +3212,11 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4
+16M164
 
 |
 
-16M16T
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -3258,11 +3224,11 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, niv
 
 |
 
-Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée
+16M16T
 
 |
 
-16M171
+Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -3270,11 +3236,11 @@ Troubles sévères de la lignée érythrocytaire, âge inférieur à 18 ans, tr�
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1
+16M171
 
 |
 
-16M172
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -3282,11 +3248,11 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2
+16M172
 
 |
 
-16M173
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -3294,11 +3260,11 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3
+16M173
 
 |
 
-16M174
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -3306,11 +3272,11 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4
+16M174
 
 |
 
-16M17T
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -3318,11 +3284,11 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, niveau
 
 |
 
-Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée
+16M17T
 
 |
 
-16M181
+Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -3330,11 +3296,11 @@ Autres troubles de la lignée érythrocytaire, âge inférieur à 18 ans, très 
 
 |
 
-Autres affections hématologiques concernant majoritairement la petite enfance, niveau 1
+16M181
 
 |
 
-16M182
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 1
 
 |
 
@@ -3342,11 +3308,11 @@ Autres affections hématologiques concernant majoritairement la petite enfance, 
 
 |
 
-Autres affections hématologiques concernant majoritairement la petite enfance, niveau 2
+16M182
 
 |
 
-16M183
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 2
 
 |
 
@@ -3354,11 +3320,11 @@ Autres affections hématologiques concernant majoritairement la petite enfance, 
 
 |
 
-Autres affections hématologiques concernant majoritairement la petite enfance, niveau 3
+16M183
 
 |
 
-16M184
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 3
 
 |
 
@@ -3366,11 +3332,11 @@ Autres affections hématologiques concernant majoritairement la petite enfance, 
 
 |
 
-Autres affections hématologiques concernant majoritairement la petite enfance, niveau 4
+16M184
 
 |
 
-17C021
+Autres affections hématologiques concernant majoritairement la petite enfance, niveau 4
 
 |
 
@@ -3378,11 +3344,11 @@ Autres affections hématologiques concernant majoritairement la petite enfance, 
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 1
+17C021
 
 |
 
-17C022
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 1
 
 |
 
@@ -3390,11 +3356,11 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 1
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 2
+17C022
 
 |
 
-17C023
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 2
 
 |
 
@@ -3402,11 +3368,11 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 2
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 3
+17C023
 
 |
 
-17C024
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 3
 
 |
 
@@ -3414,11 +3380,11 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 3
 
 |
 
-Interventions majeures au cours de lymphomes ou de leucémies, niveau 4
+17C024
 
 |
 
-17C031
+Interventions majeures au cours de lymphomes ou de leucémies, niveau 4
 
 |
 
@@ -3426,11 +3392,11 @@ Interventions majeures au cours de lymphomes ou de leucémies, niveau 4
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 1
+17C031
 
 |
 
-17C032
+Autres interventions au cours de lymphomes ou de leucémies, niveau 1
 
 |
 
@@ -3438,11 +3404,11 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 1
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 2
+17C032
 
 |
 
-17C033
+Autres interventions au cours de lymphomes ou de leucémies, niveau 2
 
 |
 
@@ -3450,11 +3416,11 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 2
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 3
+17C033
 
 |
 
-17C034
+Autres interventions au cours de lymphomes ou de leucémies, niveau 3
 
 |
 
@@ -3462,11 +3428,11 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 3
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, niveau 4
+17C034
 
 |
 
-17C03J
+Autres interventions au cours de lymphomes ou de leucémies, niveau 4
 
 |
 
@@ -3474,11 +3440,11 @@ Autres interventions au cours de lymphomes ou de leucémies, niveau 4
 
 |
 
-Autres interventions au cours de lymphomes ou de leucémies, en ambulatoire
+17C03J
 
 |
 
-17C041
+Autres interventions au cours de lymphomes ou de leucémies, en ambulatoire
 
 |
 
@@ -3486,11 +3452,11 @@ Autres interventions au cours de lymphomes ou de leucémies, en ambulatoire
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 1
+17C041
 
 |
 
-17C042
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 1
 
 |
 
@@ -3498,11 +3464,11 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 2
+17C042
 
 |
 
-17C043
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 2
 
 |
 
@@ -3510,11 +3476,11 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 3
+17C043
 
 |
 
-17C044
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 3
 
 |
 
@@ -3522,11 +3488,11 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 4
+17C044
 
 |
 
-17C051
+Interventions majeures pour affections myéloprolifératives ou tumeurs de siège imprécis ou diffus, niveau 4
 
 |
 
@@ -3534,11 +3500,11 @@ Interventions majeures pour affections myéloprolifératives ou tumeurs de sièg
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 1
+17C051
 
 |
 
-17C052
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 1
 
 |
 
@@ -3546,11 +3512,11 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 2
+17C052
 
 |
 
-17C053
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 2
 
 |
 
@@ -3558,11 +3524,11 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 3
+17C053
 
 |
 
-17C054
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 3
 
 |
 
@@ -3570,11 +3536,11 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
-Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 4
+17C054
 
 |
 
-17C05J
+Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, niveau 4
 
 |
 
@@ -3582,19 +3548,11 @@ Autres interventions au cours d'affections myéloprolifératives ou de tumeurs d
 
 |
 
+17C05J
+
+|
+
 Autres interventions au cours d'affections myéloprolifératives ou de tumeurs de siège imprécis ou diffus, en ambulatoire
-
-|
-
-17K041
-
-|
-
-6523
-
-|
-
-Autres irradiations, niveau 1
 
 |
 
@@ -3602,15 +3560,15 @@ Autres irradiations, niveau 1
 
 |
 
-Autres irradiations, niveau 1
-
-|
-
-6525
+17K041
 
 |
 
 Autres irradiations, niveau 1
+
+|
+
+6523
 
 |
 
@@ -3618,11 +3576,7 @@ Autres irradiations, niveau 1
 
 |
 
-Autres irradiations, niveau 1
-
-|
-
-17K042
+6525
 
 |
 
@@ -3630,11 +3584,11 @@ Autres irradiations, niveau 1
 
 |
 
-Autres irradiations, niveau 2
+17K042
 
 |
 
-17K043
+Autres irradiations, niveau 2
 
 |
 
@@ -3642,11 +3596,11 @@ Autres irradiations, niveau 2
 
 |
 
-Autres irradiations, niveau 3
+17K043
 
 |
 
-17K044
+Autres irradiations, niveau 3
 
 |
 
@@ -3654,11 +3608,11 @@ Autres irradiations, niveau 3
 
 |
 
-Autres irradiations, niveau 4
+17K044
 
 |
 
-17K051
+Autres irradiations, niveau 4
 
 |
 
@@ -3666,11 +3620,11 @@ Autres irradiations, niveau 4
 
 |
 
-Curiethérapies de la prostate, niveau 1
+17K051
 
 |
 
-17K052
+Curiethérapies de la prostate, niveau 1
 
 |
 
@@ -3678,11 +3632,11 @@ Curiethérapies de la prostate, niveau 1
 
 |
 
-Curiethérapies de la prostate, niveau 2
+17K052
 
 |
 
-17K053
+Curiethérapies de la prostate, niveau 2
 
 |
 
@@ -3690,11 +3644,11 @@ Curiethérapies de la prostate, niveau 2
 
 |
 
-Curiethérapies de la prostate, niveau 3
+17K053
 
 |
 
-17K054
+Curiethérapies de la prostate, niveau 3
 
 |
 
@@ -3702,11 +3656,11 @@ Curiethérapies de la prostate, niveau 3
 
 |
 
-Curiethérapies de la prostate, niveau 4
+17K054
 
 |
 
-17K061
+Curiethérapies de la prostate, niveau 4
 
 |
 
@@ -3714,11 +3668,11 @@ Curiethérapies de la prostate, niveau 4
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 1
+17K061
 
 |
 
-17K062
+Autres curiethérapies et irradiations internes, niveau 1
 
 |
 
@@ -3726,11 +3680,11 @@ Autres curiethérapies et irradiations internes, niveau 1
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 2
+17K062
 
 |
 
-17K063
+Autres curiethérapies et irradiations internes, niveau 2
 
 |
 
@@ -3738,11 +3692,11 @@ Autres curiethérapies et irradiations internes, niveau 2
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 3
+17K063
 
 |
 
-17K064
+Autres curiethérapies et irradiations internes, niveau 3
 
 |
 
@@ -3750,11 +3704,11 @@ Autres curiethérapies et irradiations internes, niveau 3
 
 |
 
-Autres curiethérapies et irradiations internes, niveau 4
+17K064
 
 |
 
-17K07J
+Autres curiethérapies et irradiations internes, niveau 4
 
 |
 
@@ -3762,11 +3716,11 @@ Autres curiethérapies et irradiations internes, niveau 4
 
 |
 
-Affections myéloprolifératives et tumeurs de siège imprécis sans acte opératoire, avec anesthésie, en ambulatoire
+17K07J
 
 |
 
-17M051
+Affections myéloprolifératives et tumeurs de siège imprécis sans acte opératoire, avec anesthésie, en ambulatoire
 
 |
 
@@ -3774,11 +3728,11 @@ Affections myéloprolifératives et tumeurs de siège imprécis sans acte opéra
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 1
+17M051
 
 |
 
-17M052
+Chimiothérapie pour leucémie aiguë, niveau 1
 
 |
 
@@ -3786,11 +3740,11 @@ Chimiothérapie pour leucémie aiguë, niveau 1
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 2
+17M052
 
 |
 
-17M053
+Chimiothérapie pour leucémie aiguë, niveau 2
 
 |
 
@@ -3798,11 +3752,11 @@ Chimiothérapie pour leucémie aiguë, niveau 2
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 3
+17M053
 
 |
 
-17M054
+Chimiothérapie pour leucémie aiguë, niveau 3
 
 |
 
@@ -3810,11 +3764,11 @@ Chimiothérapie pour leucémie aiguë, niveau 3
 
 |
 
-Chimiothérapie pour leucémie aiguë, niveau 4
+17M054
 
 |
 
-17M061
+Chimiothérapie pour leucémie aiguë, niveau 4
 
 |
 
@@ -3822,11 +3776,11 @@ Chimiothérapie pour leucémie aiguë, niveau 4
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 1
+17M061
 
 |
 
-17M062
+Chimiothérapie pour autre tumeur, niveau 1
 
 |
 
@@ -3834,11 +3788,11 @@ Chimiothérapie pour autre tumeur, niveau 1
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 2
+17M062
 
 |
 
-17M063
+Chimiothérapie pour autre tumeur, niveau 2
 
 |
 
@@ -3846,11 +3800,11 @@ Chimiothérapie pour autre tumeur, niveau 2
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 3
+17M063
 
 |
 
-17M064
+Chimiothérapie pour autre tumeur, niveau 3
 
 |
 
@@ -3858,11 +3812,11 @@ Chimiothérapie pour autre tumeur, niveau 3
 
 |
 
-Chimiothérapie pour autre tumeur, niveau 4
+17M064
 
 |
 
-17M06T
+Chimiothérapie pour autre tumeur, niveau 4
 
 |
 
@@ -3870,11 +3824,11 @@ Chimiothérapie pour autre tumeur, niveau 4
 
 |
 
-Chimiothérapie pour autre tumeur, très courte durée
+17M06T
 
 |
 
-17M071
+Chimiothérapie pour autre tumeur, très courte durée
 
 |
 
@@ -3882,11 +3836,11 @@ Chimiothérapie pour autre tumeur, très courte durée
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 1
+17M071
 
 |
 
-17M072
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 1
 
 |
 
@@ -3894,11 +3848,11 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 2
+17M072
 
 |
 
-17M073
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 2
 
 |
 
@@ -3906,11 +3860,11 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 3
+17M073
 
 |
 
-17M074
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 3
 
 |
 
@@ -3918,11 +3872,11 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 4
+17M074
 
 |
 
-17M07T
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, niveau 4
 
 |
 
@@ -3930,11 +3884,11 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, très courte durée
+17M07T
 
 |
 
-17M081
+Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus, très courte durée
 
 |
 
@@ -3942,11 +3896,11 @@ Autres affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 1
+17M081
 
 |
 
-17M082
+Leucémies aiguës, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -3954,11 +3908,11 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 1
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 2
+17M082
 
 |
 
-17M083
+Leucémies aiguës, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -3966,11 +3920,11 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 2
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 3
+17M083
 
 |
 
-17M084
+Leucémies aiguës, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -3978,11 +3932,11 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 3
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, niveau 4
+17M084
 
 |
 
-17M08T
+Leucémies aiguës, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -3990,11 +3944,11 @@ Leucémies aiguës, âge inférieur à 18 ans, niveau 4
 
 |
 
-Leucémies aiguës, âge inférieur à 18 ans, très courte durée
+17M08T
 
 |
 
-17M091
+Leucémies aiguës, âge inférieur à 18 ans, très courte durée
 
 |
 
@@ -4002,11 +3956,11 @@ Leucémies aiguës, âge inférieur à 18 ans, très courte durée
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 1
+17M091
 
 |
 
-17M092
+Leucémies aiguës, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -4014,11 +3968,11 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 1
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 2
+17M092
 
 |
 
-17M093
+Leucémies aiguës, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -4026,11 +3980,11 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 2
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 3
+17M093
 
 |
 
-17M094
+Leucémies aiguës, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -4038,11 +3992,11 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 3
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, niveau 4
+17M094
 
 |
 
-17M09T
+Leucémies aiguës, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -4050,11 +4004,11 @@ Leucémies aiguës, âge supérieur à 17 ans, niveau 4
 
 |
 
-Leucémies aiguës, âge supérieur à 17 ans, très courte durée
+17M09T
 
 |
 
-17M111
+Leucémies aiguës, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -4062,11 +4016,11 @@ Leucémies aiguës, âge supérieur à 17 ans, très courte durée
 
 |
 
-Autres leucémies, niveau 1
+17M111
 
 |
 
-17M112
+Autres leucémies, niveau 1
 
 |
 
@@ -4074,11 +4028,11 @@ Autres leucémies, niveau 1
 
 |
 
-Autres leucémies, niveau 2
+17M112
 
 |
 
-17M113
+Autres leucémies, niveau 2
 
 |
 
@@ -4086,11 +4040,11 @@ Autres leucémies, niveau 2
 
 |
 
-Autres leucémies, niveau 3
+17M113
 
 |
 
-17M114
+Autres leucémies, niveau 3
 
 |
 
@@ -4098,11 +4052,11 @@ Autres leucémies, niveau 3
 
 |
 
-Autres leucémies, niveau 4
+17M114
 
 |
 
-17M11T
+Autres leucémies, niveau 4
 
 |
 
@@ -4110,11 +4064,11 @@ Autres leucémies, niveau 4
 
 |
 
-Autres leucémies, très courte durée
+17M11T
 
 |
 
-17M121
+Autres leucémies, très courte durée
 
 |
 
@@ -4122,11 +4076,11 @@ Autres leucémies, très courte durée
 
 |
 
-Lymphomes et autres affections malignes hématopoiètiques, niveau 1
+17M121
 
 |
 
-17M122
+Lymphomes et autres affections malignes hématopoïétiques, niveau 1
 
 |
 
@@ -4134,11 +4088,11 @@ Lymphomes et autres affections malignes hématopoiètiques, niveau 1
 
 |
 
-Lymphomes et autres affections malignes hématopoiètiques, niveau 2
+17M122
 
 |
 
-17M123
+Lymphomes et autres affections malignes hématopoïétiques, niveau 2
 
 |
 
@@ -4146,11 +4100,11 @@ Lymphomes et autres affections malignes hématopoiètiques, niveau 2
 
 |
 
-Lymphomes et autres affections malignes hématopoiètiques, niveau 3
+17M123
 
 |
 
-17M124
+Lymphomes et autres affections malignes hématopoïétiques, niveau 3
 
 |
 
@@ -4158,11 +4112,11 @@ Lymphomes et autres affections malignes hématopoiètiques, niveau 3
 
 |
 
-Lymphomes et autres affections malignes hématopoiètiques, niveau 4
+17M124
 
 |
 
-17M12T
+Lymphomes et autres affections malignes hématopoïétiques, niveau 4
 
 |
 
@@ -4170,11 +4124,11 @@ Lymphomes et autres affections malignes hématopoiètiques, niveau 4
 
 |
 
-Lymphomes et autres affections malignes hématopoiètiques, très courte durée
+17M12T
 
 |
 
-17M131
+Lymphomes et autres affections malignes hématopoïétiques, très courte durée
 
 |
 
@@ -4182,11 +4136,11 @@ Lymphomes et autres affections malignes hématopoiètiques, très courte durée
 
 |
 
-Polyglobulies, niveau 1
+17M131
 
 |
 
-17M132
+Polyglobulies, niveau 1
 
 |
 
@@ -4194,11 +4148,11 @@ Polyglobulies, niveau 1
 
 |
 
-Polyglobulies, niveau 2
+17M132
 
 |
 
-17M133
+Polyglobulies, niveau 2
 
 |
 
@@ -4206,11 +4160,11 @@ Polyglobulies, niveau 2
 
 |
 
-Polyglobulies, niveau 3
+17M133
 
 |
 
-17M134
+Polyglobulies, niveau 3
 
 |
 
@@ -4218,11 +4172,11 @@ Polyglobulies, niveau 3
 
 |
 
-Polyglobulies, niveau 4
+17M134
 
 |
 
-17M13T
+Polyglobulies, niveau 4
 
 |
 
@@ -4230,11 +4184,11 @@ Polyglobulies, niveau 4
 
 |
 
-Polyglobulies, très courte durée
+17M13T
 
 |
 
-17M14Z
+Polyglobulies, très courte durée
 
 |
 
@@ -4242,11 +4196,11 @@ Polyglobulies, très courte durée
 
 |
 
-Explorations et surveillance pour affections myéloprolifératives et tumeurs de siège imprécis ou diffus
+17M14Z
 
 |
 
-18C021
+Explorations et surveillance pour affections myéloprolifératives et tumeurs de siège imprécis ou diffus
 
 |
 
@@ -4254,11 +4208,11 @@ Explorations et surveillance pour affections myéloprolifératives et tumeurs de
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 1
+18C021
 
 |
 
-18C022
+Interventions pour maladies infectieuses ou parasitaires, niveau 1
 
 |
 
@@ -4266,11 +4220,11 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 1
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 2
+18C022
 
 |
 
-18C023
+Interventions pour maladies infectieuses ou parasitaires, niveau 2
 
 |
 
@@ -4278,11 +4232,11 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 2
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 3
+18C023
 
 |
 
-18C024
+Interventions pour maladies infectieuses ou parasitaires, niveau 3
 
 |
 
@@ -4290,11 +4244,11 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 3
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, niveau 4
+18C024
 
 |
 
-18C02J
+Interventions pour maladies infectieuses ou parasitaires, niveau 4
 
 |
 
@@ -4302,11 +4256,11 @@ Interventions pour maladies infectieuses ou parasitaires, niveau 4
 
 |
 
-Interventions pour maladies infectieuses ou parasitaires, en ambulatoire
+18C02J
 
 |
 
-18M021
+Interventions pour maladies infectieuses ou parasitaires, en ambulatoire
 
 |
 
@@ -4314,11 +4268,11 @@ Interventions pour maladies infectieuses ou parasitaires, en ambulatoire
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 1
+18M021
 
 |
 
-18M022
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 1
 
 |
 
@@ -4326,11 +4280,11 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 2
+18M022
 
 |
 
-18M023
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 2
 
 |
 
@@ -4338,11 +4292,11 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 3
+18M023
 
 |
 
-18M024
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 3
 
 |
 
@@ -4350,11 +4304,11 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 4
+18M024
 
 |
 
-18M031
+Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans, niveau 4
 
 |
 
@@ -4362,11 +4316,11 @@ Maladies virales et fièvres d'étiologie indéterminée, âge inférieur 18 ans
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 1
+18M031
 
 |
 
-18M032
+Maladies virales, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -4374,11 +4328,11 @@ Maladies virales, âge supérieur à 17 ans, niveau 1
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 2
+18M032
 
 |
 
-18M033
+Maladies virales, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -4386,11 +4340,11 @@ Maladies virales, âge supérieur à 17 ans, niveau 2
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 3
+18M033
 
 |
 
-18M034
+Maladies virales, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -4398,11 +4352,11 @@ Maladies virales, âge supérieur à 17 ans, niveau 3
 
 |
 
-Maladies virales, âge supérieur à 17 ans, niveau 4
+18M034
 
 |
 
-18M03T
+Maladies virales, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -4410,11 +4364,11 @@ Maladies virales, âge supérieur à 17 ans, niveau 4
 
 |
 
-Maladies virales, âge supérieur à 17 ans, très courte durée
+18M03T
 
 |
 
-18M041
+Maladies virales, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -4422,11 +4376,11 @@ Maladies virales, âge supérieur à 17 ans, très courte durée
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 1
+18M041
 
 |
 
-18M042
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -4434,11 +4388,11 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 1
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 2
+18M042
 
 |
 
-18M043
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -4446,11 +4400,11 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 2
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 3
+18M043
 
 |
 
-18M044
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -4458,11 +4412,11 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 3
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 4
+18M044
 
 |
 
-18M04T
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -4470,11 +4424,11 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, niveau 4
 
 |
 
-Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, très courte durée
+18M04T
 
 |
 
-18M061
+Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -4482,11 +4436,11 @@ Fièvres d'étiologie indéterminée, âge supérieur à 17 ans, très courte du
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 1
+18M061
 
 |
 
-18M062
+Septicémies, âge inférieur à 18 ans, niveau 1
 
 |
 
@@ -4494,11 +4448,11 @@ Septicémies, âge inférieur à 18 ans, niveau 1
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 2
+18M062
 
 |
 
-18M063
+Septicémies, âge inférieur à 18 ans, niveau 2
 
 |
 
@@ -4506,11 +4460,11 @@ Septicémies, âge inférieur à 18 ans, niveau 2
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 3
+18M063
 
 |
 
-18M064
+Septicémies, âge inférieur à 18 ans, niveau 3
 
 |
 
@@ -4518,11 +4472,11 @@ Septicémies, âge inférieur à 18 ans, niveau 3
 
 |
 
-Septicémies, âge inférieur à 18 ans, niveau 4
+18M064
 
 |
 
-18M071
+Septicémies, âge inférieur à 18 ans, niveau 4
 
 |
 
@@ -4530,11 +4484,11 @@ Septicémies, âge inférieur à 18 ans, niveau 4
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 1
+18M071
 
 |
 
-18M072
+Septicémies, âge supérieur à 17 ans, niveau 1
 
 |
 
@@ -4542,11 +4496,11 @@ Septicémies, âge supérieur à 17 ans, niveau 1
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 2
+18M072
 
 |
 
-18M073
+Septicémies, âge supérieur à 17 ans, niveau 2
 
 |
 
@@ -4554,11 +4508,11 @@ Septicémies, âge supérieur à 17 ans, niveau 2
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 3
+18M073
 
 |
 
-18M074
+Septicémies, âge supérieur à 17 ans, niveau 3
 
 |
 
@@ -4566,11 +4520,11 @@ Septicémies, âge supérieur à 17 ans, niveau 3
 
 |
 
-Septicémies, âge supérieur à 17 ans, niveau 4
+18M074
 
 |
 
-18M07T
+Septicémies, âge supérieur à 17 ans, niveau 4
 
 |
 
@@ -4578,11 +4532,11 @@ Septicémies, âge supérieur à 17 ans, niveau 4
 
 |
 
-Septicémies, âge supérieur à 17 ans, très courte durée
+18M07T
 
 |
 
-18M091
+Septicémies, âge supérieur à 17 ans, très courte durée
 
 |
 
@@ -4590,11 +4544,11 @@ Septicémies, âge supérieur à 17 ans, très courte durée
 
 |
 
-Paludisme, niveau 1
+18M091
 
 |
 
-18M092
+Paludisme, niveau 1
 
 |
 
@@ -4602,11 +4556,11 @@ Paludisme, niveau 1
 
 |
 
-Paludisme, niveau 2
+18M092
 
 |
 
-18M093
+Paludisme, niveau 2
 
 |
 
@@ -4614,11 +4568,11 @@ Paludisme, niveau 2
 
 |
 
-Paludisme, niveau 3
+18M093
 
 |
 
-18M094
+Paludisme, niveau 3
 
 |
 
@@ -4626,11 +4580,11 @@ Paludisme, niveau 3
 
 |
 
-Paludisme, niveau 4
+18M094
 
 |
 
-18M09T
+Paludisme, niveau 4
 
 |
 
@@ -4638,11 +4592,11 @@ Paludisme, niveau 4
 
 |
 
-Paludisme, très courte durée
+18M09T
 
 |
 
-18M101
+Paludisme, très courte durée
 
 |
 
@@ -4650,11 +4604,11 @@ Paludisme, très courte durée
 
 |
 
-Maladies infectieuses sévères, niveau 1
+18M101
 
 |
 
-18M102
+Maladies infectieuses sévères, niveau 1
 
 |
 
@@ -4662,11 +4616,11 @@ Maladies infectieuses sévères, niveau 1
 
 |
 
-Maladies infectieuses sévères, niveau 2
+18M102
 
 |
 
-18M103
+Maladies infectieuses sévères, niveau 2
 
 |
 
@@ -4674,11 +4628,11 @@ Maladies infectieuses sévères, niveau 2
 
 |
 
-Maladies infectieuses sévères, niveau 3
+18M103
 
 |
 
-18M104
+Maladies infectieuses sévères, niveau 3
 
 |
 
@@ -4686,11 +4640,11 @@ Maladies infectieuses sévères, niveau 3
 
 |
 
-Maladies infectieuses sévères, niveau 4
+18M104
 
 |
 
-18M10T
+Maladies infectieuses sévères, niveau 4
 
 |
 
@@ -4698,11 +4652,11 @@ Maladies infectieuses sévères, niveau 4
 
 |
 
-Maladies infectieuses sévères, très courte durée
+18M10T
 
 |
 
-18M111
+Maladies infectieuses sévères, très courte durée
 
 |
 
@@ -4710,11 +4664,11 @@ Maladies infectieuses sévères, très courte durée
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 1
+18M111
 
 |
 
-18M112
+Autres maladies infectieuses ou parasitaires, niveau 1
 
 |
 
@@ -4722,11 +4676,11 @@ Autres maladies infectieuses ou parasitaires, niveau 1
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 2
+18M112
 
 |
 
-18M113
+Autres maladies infectieuses ou parasitaires, niveau 2
 
 |
 
@@ -4734,11 +4688,11 @@ Autres maladies infectieuses ou parasitaires, niveau 2
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 3
+18M113
 
 |
 
-18M114
+Autres maladies infectieuses ou parasitaires, niveau 3
 
 |
 
@@ -4746,11 +4700,11 @@ Autres maladies infectieuses ou parasitaires, niveau 3
 
 |
 
-Autres maladies infectieuses ou parasitaires, niveau 4
+18M114
 
 |
 
-18M11T
+Autres maladies infectieuses ou parasitaires, niveau 4
 
 |
 
@@ -4758,11 +4712,11 @@ Autres maladies infectieuses ou parasitaires, niveau 4
 
 |
 
-Autres maladies infectieuses ou parasitaires, très courte durée
+18M11T
 
 |
 
-18M12Z
+Autres maladies infectieuses ou parasitaires, très courte durée
 
 |
 
@@ -4770,11 +4724,11 @@ Autres maladies infectieuses ou parasitaires, très courte durée
 
 |
 
-Explorations et surveillance pour maladies infectieuses ou parasitaires
+18M12Z
 
 |
 
-18M13E
+Explorations et surveillance pour maladies infectieuses ou parasitaires
 
 |
 
@@ -4782,11 +4736,11 @@ Explorations et surveillance pour maladies infectieuses ou parasitaires
 
 |
 
-Affections de la CMD 18 avec décès : séjours de moins de 2 jours
+18M13E
 
 |
 
-18M14T
+Affections de la CMD 18 avec décès : séjours de moins de 2 jours
 
 |
 
@@ -4794,11 +4748,11 @@ Affections de la CMD 18 avec décès : séjours de moins de 2 jours
 
 |
 
-Symptômes et autres recours aux soins de la CMD 18, très courte durée
+18M14T
 
 |
 
-18M14Z
+Symptômes et autres recours aux soins de la CMD 18, très courte durée
 
 |
 
@@ -4806,11 +4760,11 @@ Symptômes et autres recours aux soins de la CMD 18, très courte durée
 
 |
 
-Symptômes et autres recours aux soins de la CMD 18
+18M14Z
 
 |
 
-18M151
+Symptômes et autres recours aux soins de la CMD 18
 
 |
 
@@ -4818,11 +4772,11 @@ Symptômes et autres recours aux soins de la CMD 18
 
 |
 
-Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 1
+18M151
 
 |
 
-18M152
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 1
 
 |
 
@@ -4830,11 +4784,11 @@ Autres maladies infectieuses concernant majoritairement la petite enfance, nivea
 
 |
 
-Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 2
+18M152
 
 |
 
-18M153
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 2
 
 |
 
@@ -4842,11 +4796,11 @@ Autres maladies infectieuses concernant majoritairement la petite enfance, nivea
 
 |
 
-Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 3
+18M153
 
 |
 
-18M154
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 3
 
 |
 
@@ -4854,11 +4808,11 @@ Autres maladies infectieuses concernant majoritairement la petite enfance, nivea
 
 |
 
-Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 4
+18M154
 
 |
 
-19C021
+Autres maladies infectieuses concernant majoritairement la petite enfance, niveau 4
 
 |
 
@@ -4866,11 +4820,11 @@ Autres maladies infectieuses concernant majoritairement la petite enfance, nivea
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 1
+19C021
 
 |
 
-19C022
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 1
 
 |
 
@@ -4878,11 +4832,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 2
+19C022
 
 |
 
-19C023
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 2
 
 |
 
@@ -4890,11 +4844,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 3
+19C023
 
 |
 
-19C024
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 3
 
 |
 
@@ -4902,11 +4856,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 4
+19C024
 
 |
 
-19M021
+Interventions chirurgicales avec un diagnostic principal de maladie mentale, niveau 4
 
 |
 
@@ -4914,11 +4868,11 @@ Interventions chirurgicales avec un diagnostic principal de maladie mentale, niv
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 1
+19M021
 
 |
 
-19M022
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 1
 
 |
 
@@ -4926,11 +4880,11 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 1
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 2
+19M022
 
 |
 
-19M023
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 2
 
 |
 
@@ -4938,11 +4892,11 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 2
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 3
+19M023
 
 |
 
-19M024
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 3
 
 |
 
@@ -4950,11 +4904,11 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 3
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 4
+19M024
 
 |
 
-19M02T
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 4
 
 |
 
@@ -4962,11 +4916,11 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, niveau 4
 
 |
 
-Troubles aigus de l'adaptation et du fonctionnement psychosocial, très courte durée
+19M02T
 
 |
 
-19M061
+Troubles aigus de l'adaptation et du fonctionnement psychosocial, très courte durée
 
 |
 
@@ -4974,11 +4928,11 @@ Troubles aigus de l'adaptation et du fonctionnement psychosocial, très courte d
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 1
+19M061
 
 |
 
-19M062
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 1
 
 |
 
@@ -4986,11 +4940,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 2
+19M062
 
 |
 
-19M063
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 2
 
 |
 
@@ -4998,11 +4952,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 3
+19M063
 
 |
 
-19M064
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 3
 
 |
 
@@ -5010,11 +4964,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 4
+19M064
 
 |
 
-19M06T
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, niveau 4
 
 |
 
@@ -5022,11 +4976,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, très courte durée
+19M06T
 
 |
 
-19M071
+Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 ans, très courte durée
 
 |
 
@@ -5034,11 +4988,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge supérieur à 79 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 1
+19M071
 
 |
 
-19M072
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 1
 
 |
 
@@ -5046,11 +5000,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 2
+19M072
 
 |
 
-19M073
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 2
 
 |
 
@@ -5058,11 +5012,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 3
+19M073
 
 |
 
-19M074
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 3
 
 |
 
@@ -5070,11 +5024,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 4
+19M074
 
 |
 
-19M07T
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, niveau 4
 
 |
 
@@ -5082,11 +5036,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, très courte durée
+19M07T
 
 |
 
-19M101
+Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 ans, très courte durée
 
 |
 
@@ -5094,11 +5048,11 @@ Troubles mentaux d'origine organique et retards mentaux, âge inférieur à 80 a
 
 |
 
-Névroses autres que les névroses dépressives, niveau 1
+19M101
 
 |
 
-19M102
+Névroses autres que les névroses dépressives, niveau 1
 
 |
 
@@ -5106,11 +5060,11 @@ Névroses autres que les névroses dépressives, niveau 1
 
 |
 
-Névroses autres que les névroses dépressives, niveau 2
+19M102
 
 |
 
-19M103
+Névroses autres que les névroses dépressives, niveau 2
 
 |
 
@@ -5118,11 +5072,11 @@ Névroses autres que les névroses dépressives, niveau 2
 
 |
 
-Névroses autres que les névroses dépressives, niveau 3
+19M103
 
 |
 
-19M104
+Névroses autres que les névroses dépressives, niveau 3
 
 |
 
@@ -5130,11 +5084,11 @@ Névroses autres que les névroses dépressives, niveau 3
 
 |
 
-Névroses autres que les névroses dépressives, niveau 4
+19M104
 
 |
 
-19M10T
+Névroses autres que les névroses dépressives, niveau 4
 
 |
 
@@ -5142,11 +5096,11 @@ Névroses autres que les névroses dépressives, niveau 4
 
 |
 
-Névroses autres que les névroses dépressives, très courte durée
+19M10T
 
 |
 
-19M111
+Névroses autres que les névroses dépressives, très courte durée
 
 |
 
@@ -5154,11 +5108,11 @@ Névroses autres que les névroses dépressives, très courte durée
 
 |
 
-Névroses dépressives, niveau 1
+19M111
 
 |
 
-19M112
+Névroses dépressives, niveau 1
 
 |
 
@@ -5166,11 +5120,11 @@ Névroses dépressives, niveau 1
 
 |
 
-Névroses dépressives, niveau 2
+19M112
 
 |
 
-19M113
+Névroses dépressives, niveau 2
 
 |
 
@@ -5178,11 +5132,11 @@ Névroses dépressives, niveau 2
 
 |
 
-Névroses dépressives, niveau 3
+19M113
 
 |
 
-19M114
+Névroses dépressives, niveau 3
 
 |
 
@@ -5190,11 +5144,11 @@ Névroses dépressives, niveau 3
 
 |
 
-Névroses dépressives, niveau 4
+19M114
 
 |
 
-19M11T
+Névroses dépressives, niveau 4
 
 |
 
@@ -5202,11 +5156,11 @@ Névroses dépressives, niveau 4
 
 |
 
-Névroses dépressives, très courte durée
+19M11T
 
 |
 
-19M121
+Névroses dépressives, très courte durée
 
 |
 
@@ -5214,11 +5168,11 @@ Névroses dépressives, très courte durée
 
 |
 
-Anorexie mentale et boulimie, niveau 1
+19M121
 
 |
 
-19M122
+Anorexie mentale et boulimie, niveau 1
 
 |
 
@@ -5226,11 +5180,11 @@ Anorexie mentale et boulimie, niveau 1
 
 |
 
-Anorexie mentale et boulimie, niveau 2
+19M122
 
 |
 
-19M123
+Anorexie mentale et boulimie, niveau 2
 
 |
 
@@ -5238,11 +5192,11 @@ Anorexie mentale et boulimie, niveau 2
 
 |
 
-Anorexie mentale et boulimie, niveau 3
+19M123
 
 |
 
-19M124
+Anorexie mentale et boulimie, niveau 3
 
 |
 
@@ -5250,11 +5204,11 @@ Anorexie mentale et boulimie, niveau 3
 
 |
 
-Anorexie mentale et boulimie, niveau 4
+19M124
 
 |
 
-19M12T
+Anorexie mentale et boulimie, niveau 4
 
 |
 
@@ -5262,11 +5216,11 @@ Anorexie mentale et boulimie, niveau 4
 
 |
 
-Anorexie mentale et boulimie, très courte durée
+19M12T
 
 |
 
-19M131
+Anorexie mentale et boulimie, très courte durée
 
 |
 
@@ -5274,11 +5228,11 @@ Anorexie mentale et boulimie, très courte durée
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 1
+19M131
 
 |
 
-19M132
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 1
 
 |
 
@@ -5286,11 +5240,11 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 2
+19M132
 
 |
 
-19M133
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 2
 
 |
 
@@ -5298,11 +5252,11 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 3
+19M133
 
 |
 
-19M134
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 3
 
 |
 
@@ -5310,11 +5264,11 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 4
+19M134
 
 |
 
-19M13T
+Autres troubles de la personnalité et du comportement avec réactions impulsives, niveau 4
 
 |
 
@@ -5322,11 +5276,11 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Autres troubles de la personnalité et du comportement avec réactions impulsives, très courte durée
+19M13T
 
 |
 
-19M141
+Autres troubles de la personnalité et du comportement avec réactions impulsives, très courte durée
 
 |
 
@@ -5334,11 +5288,11 @@ Autres troubles de la personnalité et du comportement avec réactions impulsive
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 1
+19M141
 
 |
 
-19M142
+Troubles bipolaires et syndromes dépressifs sévères, niveau 1
 
 |
 
@@ -5346,11 +5300,11 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 1
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 2
+19M142
 
 |
 
-19M143
+Troubles bipolaires et syndromes dépressifs sévères, niveau 2
 
 |
 
@@ -5358,11 +5312,11 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 2
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 3
+19M143
 
 |
 
-19M144
+Troubles bipolaires et syndromes dépressifs sévères, niveau 3
 
 |
 
@@ -5370,11 +5324,11 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 3
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, niveau 4
+19M144
 
 |
 
-19M14T
+Troubles bipolaires et syndromes dépressifs sévères, niveau 4
 
 |
 
@@ -5382,11 +5336,11 @@ Troubles bipolaires et syndromes dépressifs sévères, niveau 4
 
 |
 
-Troubles bipolaires et syndromes dépressifs sévères, très courte durée
+19M14T
 
 |
 
-19M151
+Troubles bipolaires et syndromes dépressifs sévères, très courte durée
 
 |
 
@@ -5394,11 +5348,11 @@ Troubles bipolaires et syndromes dépressifs sévères, très courte durée
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 1
+19M151
 
 |
 
-19M152
+Autres psychoses, âge supérieur à 79 ans, niveau 1
 
 |
 
@@ -5406,11 +5360,11 @@ Autres psychoses, âge supérieur à 79 ans, niveau 1
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 2
+19M152
 
 |
 
-19M153
+Autres psychoses, âge supérieur à 79 ans, niveau 2
 
 |
 
@@ -5418,11 +5372,11 @@ Autres psychoses, âge supérieur à 79 ans, niveau 2
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 3
+19M153
 
 |
 
-19M154
+Autres psychoses, âge supérieur à 79 ans, niveau 3
 
 |
 
@@ -5430,11 +5384,11 @@ Autres psychoses, âge supérieur à 79 ans, niveau 3
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, niveau 4
+19M154
 
 |
 
-19M15T
+Autres psychoses, âge supérieur à 79 ans, niveau 4
 
 |
 
@@ -5442,11 +5396,11 @@ Autres psychoses, âge supérieur à 79 ans, niveau 4
 
 |
 
-Autres psychoses, âge supérieur à 79 ans, très courte durée
+19M15T
 
 |
 
-19M161
+Autres psychoses, âge supérieur à 79 ans, très courte durée
 
 |
 
@@ -5454,11 +5408,11 @@ Autres psychoses, âge supérieur à 79 ans, très courte durée
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 1
+19M161
 
 |
 
-19M162
+Autres psychoses, âge inférieur à 80 ans, niveau 1
 
 |
 
@@ -5466,11 +5420,11 @@ Autres psychoses, âge inférieur à 80 ans, niveau 1
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 2
+19M162
 
 |
 
-19M163
+Autres psychoses, âge inférieur à 80 ans, niveau 2
 
 |
 
@@ -5478,11 +5432,11 @@ Autres psychoses, âge inférieur à 80 ans, niveau 2
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 3
+19M163
 
 |
 
-19M164
+Autres psychoses, âge inférieur à 80 ans, niveau 3
 
 |
 
@@ -5490,11 +5444,11 @@ Autres psychoses, âge inférieur à 80 ans, niveau 3
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, niveau 4
+19M164
 
 |
 
-19M16T
+Autres psychoses, âge inférieur à 80 ans, niveau 4
 
 |
 
@@ -5502,11 +5456,11 @@ Autres psychoses, âge inférieur à 80 ans, niveau 4
 
 |
 
-Autres psychoses, âge inférieur à 80 ans, très courte durée
+19M16T
 
 |
 
-19M171
+Autres psychoses, âge inférieur à 80 ans, très courte durée
 
 |
 
@@ -5514,11 +5468,11 @@ Autres psychoses, âge inférieur à 80 ans, très courte durée
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 1
+19M171
 
 |
 
-19M172
+Maladies et troubles du développement psychologiques de l'enfance, niveau 1
 
 |
 
@@ -5526,11 +5480,11 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 1
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 2
+19M172
 
 |
 
-19M173
+Maladies et troubles du développement psychologiques de l'enfance, niveau 2
 
 |
 
@@ -5538,11 +5492,11 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 2
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 3
+19M173
 
 |
 
-19M174
+Maladies et troubles du développement psychologiques de l'enfance, niveau 3
 
 |
 
@@ -5550,11 +5504,11 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 3
 
 |
 
-Maladies et troubles du développement psychologiques de l'enfance, niveau 4
+19M174
 
 |
 
-19M181
+Maladies et troubles du développement psychologiques de l'enfance, niveau 4
 
 |
 
@@ -5562,11 +5516,11 @@ Maladies et troubles du développement psychologiques de l'enfance, niveau 4
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 1
+19M181
 
 |
 
-19M182
+Autres maladies et troubles mentaux de l'enfance, niveau 1
 
 |
 
@@ -5574,11 +5528,11 @@ Autres maladies et troubles mentaux de l'enfance, niveau 1
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 2
+19M182
 
 |
 
-19M183
+Autres maladies et troubles mentaux de l'enfance, niveau 2
 
 |
 
@@ -5586,11 +5540,11 @@ Autres maladies et troubles mentaux de l'enfance, niveau 2
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 3
+19M183
 
 |
 
-19M184
+Autres maladies et troubles mentaux de l'enfance, niveau 3
 
 |
 
@@ -5598,11 +5552,11 @@ Autres maladies et troubles mentaux de l'enfance, niveau 3
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, niveau 4
+19M184
 
 |
 
-19M18T
+Autres maladies et troubles mentaux de l'enfance, niveau 4
 
 |
 
@@ -5610,11 +5564,11 @@ Autres maladies et troubles mentaux de l'enfance, niveau 4
 
 |
 
-Autres maladies et troubles mentaux de l'enfance, très courte durée
+19M18T
 
 |
 
-19M191
+Autres maladies et troubles mentaux de l'enfance, très courte durée
 
 |
 
@@ -5622,11 +5576,11 @@ Autres maladies et troubles mentaux de l'enfance, très courte durée
 
 |
 
-Troubles de l'humeur, niveau 1
+19M191
 
 |
 
-19M192
+Troubles de l'humeur, niveau 1
 
 |
 
@@ -5634,11 +5588,11 @@ Troubles de l'humeur, niveau 1
 
 |
 
-Troubles de l'humeur, niveau 2
+19M192
 
 |
 
-19M193
+Troubles de l'humeur, niveau 2
 
 |
 
@@ -5646,11 +5600,11 @@ Troubles de l'humeur, niveau 2
 
 |
 
-Troubles de l'humeur, niveau 3
+19M193
 
 |
 
-19M194
+Troubles de l'humeur, niveau 3
 
 |
 
@@ -5658,11 +5612,11 @@ Troubles de l'humeur, niveau 3
 
 |
 
-Troubles de l'humeur, niveau 4
+19M194
 
 |
 
-19M19T
+Troubles de l'humeur, niveau 4
 
 |
 
@@ -5670,11 +5624,11 @@ Troubles de l'humeur, niveau 4
 
 |
 
-Troubles de l'humeur, très courte durée
+19M19T
 
 |
 
-19M201
+Troubles de l'humeur, très courte durée
 
 |
 
@@ -5682,11 +5636,11 @@ Troubles de l'humeur, très courte durée
 
 |
 
-Autres troubles mentaux, niveau 1
+19M201
 
 |
 
-19M202
+Autres troubles mentaux, niveau 1
 
 |
 
@@ -5694,11 +5648,11 @@ Autres troubles mentaux, niveau 1
 
 |
 
-Autres troubles mentaux, niveau 2
+19M202
 
 |
 
-19M203
+Autres troubles mentaux, niveau 2
 
 |
 
@@ -5706,11 +5660,11 @@ Autres troubles mentaux, niveau 2
 
 |
 
-Autres troubles mentaux, niveau 3
+19M203
 
 |
 
-19M204
+Autres troubles mentaux, niveau 3
 
 |
 
@@ -5718,11 +5672,11 @@ Autres troubles mentaux, niveau 3
 
 |
 
-Autres troubles mentaux, niveau 4
+19M204
 
 |
 
-19M20T
+Autres troubles mentaux, niveau 4
 
 |
 
@@ -5730,11 +5684,11 @@ Autres troubles mentaux, niveau 4
 
 |
 
-Autres troubles mentaux, très courte durée
+19M20T
 
 |
 
-19M21Z
+Autres troubles mentaux, très courte durée
 
 |
 
@@ -5742,11 +5696,11 @@ Autres troubles mentaux, très courte durée
 
 |
 
-Explorations et surveillance pour maladies et troubles mentaux
+19M21Z
 
 |
 
-19M22T
+Explorations et surveillance pour maladies et troubles mentaux
 
 |
 
@@ -5754,15 +5708,19 @@ Explorations et surveillance pour maladies et troubles mentaux
 
 |
 
+19M22T
+
+|
+
 Symptômes et autres recours aux soins de la CMD 19, très courte durée
 
 |
 
-19M22Z
+7134
 
 |
 
-7134
+19M22Z
 
 |
 

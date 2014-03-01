@@ -1,8 +1,10 @@
 # Article Annexe 8 liste 3
 
-Liste 3 : diagnostics et actes associés autorisant la facturation d'un supplément de surveillance continue pour les enfants de moins de 18 ans
+Liste 3 : diagnostics et actes associés autorisant la facturation
 
-CODE CIM-10 |
+d'un supplément de surveillance continue pour les enfants de moins de 18 ans
+
+CODES CIM-10 |
 
 LIBELLÉS CIM-10 |
 
@@ -74,7 +76,7 @@ B01. 0
 
 |
 
-Méningite varicelleuse
+Méningite varicelleuse (G02. 0*)
 
 |
 
@@ -86,7 +88,7 @@ B01. 1
 
 |
 
-Encéphalopathie varicelleuse
+Encéphalite varicelleuse (G05. 1*)
 
 |
 
@@ -98,7 +100,7 @@ B01. 2
 
 |
 
-Pneumopathie varicelleuse
+Pneumopathie varicelleuse (J17. 1*)
 
 |
 
@@ -486,7 +488,7 @@ F10. 03
 
 |
 
-Troubles mentaux et du comportement dus à une intoxication aiguë par l'alcool, avec délirium
+Troubles mentaux et du comportement dus à une intoxication aiguë par l'alcool, avec delirium
 
 |
 
@@ -902,6 +904,54 @@ Ventilation barométrique ou volumétrique non effractive au masque facial penda
 
 |
 
+J96. 00
+
+|
+
+Insuffisance respiratoire aiguë de type I [hypoxique]
+
+|
+
+GLLD019
+
+|
+
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aiguë
+
+|
+
+J96. 01
+
+|
+
+Insuffisance respiratoire aiguë de type II [hypercapnique]
+
+|
+
+GLLD019
+
+|
+
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aiguë
+
+|
+
+J96. 09
+
+|
+
+Insuffisance respiratoire aiguë, type non précisé
+
+|
+
+GLLD019
+
+|
+
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aiguë
+
+|
+
 J98. 60
 
 |
@@ -1062,7 +1112,7 @@ K56. 5
 
 |
 
-Adhérences de l'intestin [brides], avec occlusion
+Adhérences de l'intestin (brides), avec occlusion
 
 |
 
@@ -1230,7 +1280,7 @@ Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme 
 
 |
 
-L. 03.2
+L03. 2
 
 |
 
@@ -1242,7 +1292,7 @@ Phlegmon de la face
 
 |
 
-L. 51.1
+L51. 1
 
 |
 
@@ -1294,7 +1344,7 @@ Q39. 1
 
 |
 
-Atrésie de l'oesophage avec fistule trachéo-oesophagienne
+Atrésie de l'œsophage avec fistule trachéo-œsophagienne
 
 |
 
@@ -1362,7 +1412,7 @@ Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme 
 
 |
 
-R. 04.0
+R04. 0
 
 |
 
@@ -1378,7 +1428,7 @@ Tamponnement nasal antérieur et postérieur
 
 |
 
-R. 04.0
+R04. 0
 
 |
 
@@ -1394,7 +1444,7 @@ Hémostase intranasale par injection unilatérale ou bilatérale transmuqueuse d
 
 |
 
-R. 04.0
+R04. 0
 
 |
 
@@ -1410,7 +1460,7 @@ Hémostase intranasale par cautérisation ou électrocoagulation, par endoscopie
 
 |
 
-R. 04.2
+R04. 2
 
 |
 
@@ -1422,7 +1472,7 @@ Hémoptysie
 
 |
 
-R. 09.2
+R09. 2
 
 |
 
@@ -1434,7 +1484,7 @@ Arrêt respiratoire
 
 |
 
-R. 10.0
+R10. 0
 
 |
 
@@ -1446,7 +1496,7 @@ Syndrome abdominal aigu
 
 |
 
-R. 40.10
+R40. 10
 
 |
 
@@ -1458,7 +1508,7 @@ Etat paucirelationnel
 
 |
 
-R. 40.18
+R40. 18
 
 |
 
@@ -1470,7 +1520,7 @@ Stupeur, autre et sans précision
 
 |
 
-R. 52.10
+R52. 10
 
 |
 
@@ -1482,7 +1532,7 @@ Douleur neuropathique
 
 |
 
-R. 52.18
+R52. 18
 
 |
 
@@ -1494,7 +1544,7 @@ Douleurs chroniques irréductibles, autres et non précisées
 
 |
 
-R. 55
+R 55
 
 |
 
@@ -1506,7 +1556,7 @@ Syncope et collapsus (sauf choc)
 
 |
 
-R. 56.0
+R56. 0
 
 |
 
@@ -1518,7 +1568,7 @@ Convulsions fébriles
 
 |
 
-R. 56.8
+R56. 8
 
 |
 
@@ -1530,7 +1580,7 @@ Convulsions, autres et non précisées
 
 |
 
-R. 57.1
+R57. 1
 
 |
 
@@ -1542,7 +1592,7 @@ Choc hypovolémique
 
 |
 
-R. 57.8
+R57. 8
 
 |
 
@@ -1554,7 +1604,7 @@ Autres chocs
 
 |
 
-R. 65.2
+R65. 2
 
 |
 
@@ -1566,7 +1616,7 @@ Syndrome de réponse inflammatoire systémique d'origine non infectieuse sans d�
 
 |
 
-R. 65.9
+R65. 9
 
 |
 
@@ -1774,7 +1824,7 @@ S36. 20
 
 |
 
-Lésion traumatique du pancréas, sans plaie pénétrante de la cavité abdominale
+Lésion traumatique du pancréas, sans plaie intra-abdominale
 
 |
 
@@ -1786,7 +1836,7 @@ S36. 21
 
 |
 
-Lésion traumatique du pancréas, avec plaie pénétrante de la cavité abdominale
+Lésion traumatique du pancréas, avec plaie intra-abdominale
 
 |
 
@@ -1810,7 +1860,7 @@ S36. 30
 
 |
 
-Lésion traumatique de l'estomac, sans plaie pénétrante de la cavité abdominale
+Lésion traumatique de l'estomac, sans plaie intra-abdominale
 
 |
 
@@ -1822,7 +1872,7 @@ S36. 31
 
 |
 
-Lésion traumatique de l'estomac, avec plaie pénétrante de la cavité abdominale
+Lésion traumatique de l'estomac, avec plaie intra-abdominale
 
 |
 
@@ -1846,7 +1896,7 @@ S36. 40
 
 |
 
-Lésion traumatique de l'intestin grêle, sans plaie pénétrante de la cavité abdominale
+Lésion traumatique de l'intestin grêle, sans plaie intra-abdominale
 
 |
 
@@ -1858,7 +1908,7 @@ S36. 41
 
 |
 
-Lésion traumatique de l'intestin grêle, avec plaie pénétrante de la cavité abdominale
+Lésion traumatique de l'intestin grêle, avec plaie intra-abdominale
 
 |
 
@@ -1882,7 +1932,7 @@ S36. 50
 
 |
 
-Lésion traumatique du côlon, sans plaie pénétrante de la cavité abdominale
+Lésion traumatique du côlon, sans plaie intra-abdominale
 
 |
 
@@ -1894,7 +1944,7 @@ S36. 51
 
 |
 
-Lésion traumatique du côlon, avec plaie pénétrante de la cavité abdominale
+Lésion traumatique du côlon, avec plaie intra-abdominale
 
 |
 
@@ -1918,7 +1968,7 @@ S36. 60
 
 |
 
-Lésion traumatique du rectum, sans plaie pénétrante de la cavité abdominale
+Lésion traumatique du rectum, sans plaie intra-abdominale
 
 |
 
@@ -1930,7 +1980,7 @@ S36. 61
 
 |
 
-Lésion traumatique du rectum, avec plaie pénétrante de la cavité abdominale
+Lésion traumatique du rectum, avec plaie intra-abdominale
 
 |
 
@@ -1954,7 +2004,7 @@ S37. 00
 
 |
 
-Lésion traumatique du rein, sans plaie pénétrante de la cavité pelvienne
+Lésion traumatique du rein, sans plaie intra-abdominale
 
 |
 
@@ -1966,7 +2016,7 @@ S37. 01
 
 |
 
-Lésion traumatique du rein, avec plaie pénétrante de la cavité pelvienne
+Lésion traumatique du rein, avec plaie intra-abdominale
 
 |
 
@@ -2002,7 +2052,7 @@ T40. 3
 
 |
 
-[Intoxications par] Méthadone
+Intoxication par méthadone
 
 |
 
@@ -2014,7 +2064,7 @@ T40. 5
 
 |
 
-[Intoxications par] Cocaïne
+Intoxication par cocaïne
 
 |
 
@@ -2026,7 +2076,7 @@ T40. 6
 
 |
 
-[Intoxications par] Narcotiques autres et sans précision
+Intoxication par narcotiques, autres et sans précision
 
 |
 
@@ -2038,7 +2088,7 @@ T43. 0
 
 |
 
-[Intoxications par] Antidépresseurs tricycliques et tétracycliques
+Intoxication par antidépresseurs tricycliques et tétracycliques
 
 |
 
@@ -2050,7 +2100,7 @@ T43. 1
 
 |
 
-[Intoxications par] Antidépresseurs inhibiteurs de la mono-amine-oxydase
+Intoxication par antidépresseurs inhibiteurs de la mono-amine-oxydase
 
 |
 
@@ -2062,7 +2112,7 @@ T43. 2
 
 |
 
-[Intoxications par] Antidépresseurs, autres et non précisés
+Intoxication par antidépresseurs, autres et non précisés
 
 |
 
@@ -2074,7 +2124,7 @@ T46. 0
 
 |
 
-[Intoxications par] Glucosides cardiotoniques et médicaments d'action similaire
+Intoxication par glucosides cardiotoniques et médicaments d'action similaire
 
 |
 
@@ -2086,7 +2136,7 @@ T46. 4
 
 |
 
-[Intoxications par] Inhibiteurs de l'enzyme de conversion
+Intoxication par inhibiteurs de l'enzyme de conversion
 
 |
 
@@ -2098,7 +2148,7 @@ T46. 5
 
 |
 
-[Intoxications par] Autres antihypertenseurs, non classés ailleurs
+Intoxication par autres antihypertenseurs, non classés ailleurs
 
 |
 
@@ -2110,7 +2160,7 @@ T46. 9
 
 |
 
-[Intoxications par] Substances agissant essentiellement sur le système cardiovasculaire, autres et sans précision
+Intoxication par substances agissant essentiellement sur le système cardio-vasculaire, autres et sans précision
 
 |
 
@@ -2118,7 +2168,7 @@ T46. 9
 
 |
 
-T68. + 0
+T68 + 0
 
 |
 
@@ -2303,6 +2353,8 @@ Z99. 2 + 8
 |
 
 Dépendance envers une dialyse rénale, autre
+
+|
 
 |
 

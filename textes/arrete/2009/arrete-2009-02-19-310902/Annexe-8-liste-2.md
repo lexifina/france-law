@@ -2,13 +2,9 @@
 
 Liste 2 : actes autorisant la facturation d'un supplément de surveillance continue
 
-CODE CCAM
+CODE CCAM |
 
-|
-
-LIBELLÉ CCAM
-
-|
+LIBELLÉ CCAM |
 
 AAFA001
 
@@ -174,7 +170,7 @@ ABFA001
 
 |
 
-Exérèse et/ ou fermeture de méningoencéphalocèle de la base du crâne, sans rapprochement orbitaire
+Exérèse et/ ou fermeture de méningœncéphalocèle de la base du crâne, sans rapprochement orbitaire
 
 |
 
@@ -190,7 +186,7 @@ ABFA004
 
 |
 
-Exérèse et/ ou fermeture de méningoencéphalocèle de la base du crâne, avec rapprochement orbitaire
+Exérèse et/ ou fermeture de méningœncéphalocèle de la base du crâne, avec rapprochement orbitaire
 
 |
 
@@ -462,7 +458,7 @@ ACFA010
 
 |
 
-Exérèse de tumeur de l'angle pontocérébelleux et/ ou du méat acoustique interne [conduit auditif interne], par abord infraoccipital rétrosigmoïdien
+Exérèse de tumeur de l'angle pontocérébelleux et/ ou du méat acoustique interne [conduit auditif interne], par abord infra-occipital rétrosigmoïdien
 
 |
 
@@ -630,7 +626,7 @@ ADPA013
 
 |
 
-Section de nerf crânien, par abord infraoccipital rétrosigmoïdien
+Section de nerf crânien, par abord infra-occipital rétrosigmoïdien
 
 |
 
@@ -846,7 +842,7 @@ DAAF002
 
 |
 
-Dilatation intraluminale de la voie d'éjection infraaortique, par voie artérielle transcutanée
+Dilatation intraluminale de la voie d'éjection infra-aortique, par voie artérielle transcutanée
 
 |
 
@@ -902,7 +898,7 @@ DAFA006
 
 |
 
-Résection d'un bourrelet musculaire infraaortique pour cardiomyopathie obstructive, par thoracotomie avec CEC
+Résection d'un bourrelet musculaire infra-aortique pour cardiomyopathie obstructive, par thoracotomie avec CEC
 
 |
 
@@ -934,7 +930,7 @@ DAFA010
 
 |
 
-Résection d'une sténose congénitale infraorificielle de l'aorte, par thoracotomie avec CEC
+Résection d'une sténose congénitale infra-orificielle de l'aorte, par thoracotomie avec CEC
 
 |
 
@@ -982,7 +978,7 @@ DAMA005
 
 |
 
-Correction d'une malformation sténosante intraatriale droite ou gauche congénitale, par thoracotomie avec CEC
+Correction d'une malformation sténosante intra-atriale droite ou gauche congénitale, par thoracotomie avec CEC
 
 |
 
@@ -1142,7 +1138,7 @@ DASF002
 
 |
 
-Fermeture d'une déhiscence d'une prothèse de cloisonnement intraatrial, par voie vasculaire transcutanée
+Fermeture d'une déhiscence d'une prothèse de cloisonnement intra-atrial, par voie vasculaire transcutanée
 
 |
 
@@ -1350,7 +1346,7 @@ DBLA003
 
 |
 
-Pose d'un tube valvé entre le ventricule gauche et l'aorte [tube apicoaortique], par thoraco-phréno-laparotomie avec CEC
+Pose d'un tube valvé entre le ventricule gauche et l'aorte [tube apico-aortique], par thoraco-phréno-laparotomie avec CEC
 
 |
 
@@ -2318,7 +2314,7 @@ DGAA003
 
 |
 
-Angioplastie d'élargissement de l'aorte thoracique horizontale avec réimplantation des troncs supraaortiques, par thoracotomie avec CEC
+Angioplastie d'élargissement de l'aorte thoracique horizontale avec réimplantation des troncs supra-aortiques, par thoracotomie avec CEC
 
 |
 
@@ -2342,7 +2338,7 @@ DGAA006
 
 |
 
-Angioplastie d'élargissement de l'aorte thoracique horizontale sans réimplantation des troncs supraaortiques, par thoracotomie avec CEC
+Angioplastie d'élargissement de l'aorte thoracique horizontale sans réimplantation des troncs supra-aortiques, par thoracotomie avec CEC
 
 |
 
@@ -2462,7 +2458,7 @@ DGCA011
 
 |
 
-Pontages multiples entre l'aorte et les troncs supraaortiques, par thoracotomie avec CEC
+Pontages multiples entre l'aorte et les troncs supra-aortiques, par thoracotomie avec CEC
 
 |
 
@@ -2470,7 +2466,7 @@ DGCA012
 
 |
 
-Pontage aortoaortique infrarénal par laparotomie, avec clampage suprarénal
+Pontage aorto-aortique infrarénal par laparotomie, avec clampage suprarénal
 
 |
 
@@ -2478,7 +2474,7 @@ DGCA013
 
 |
 
-Pontages multiples entre l'aorte et les troncs supraaortiques, par thoracotomie sans CEC
+Pontages multiples entre l'aorte et les troncs supra-aortiques, par thoracotomie sans CEC
 
 |
 
@@ -2630,7 +2626,7 @@ DGFA002
 
 |
 
-Thromboendartériectomie de l'aorte thoracique horizontale et des troncs supraaortiques, par thoracotomie avec CEC
+Thromboendartériectomie de l'aorte thoracique horizontale et des troncs supra-aortiques, par thoracotomie avec CEC
 
 |
 
@@ -2718,7 +2714,7 @@ DGGA001
 
 |
 
-Ablation d'un dispositif de contrepulsion diastolique intraaortique, par thoracotomie
+Ablation d'un dispositif de contrepulsion diastolique intra-aortique, par thoracotomie
 
 |
 
@@ -2726,7 +2722,7 @@ DGGA004
 
 |
 
-Ablation d'un dispositif de contrepulsion diastolique intraaortique avec rétablissement de la continuité artérielle, par abord artériel périphérique
+Ablation d'un dispositif de contrepulsion diastolique intra-aortique avec rétablissement de la continuité artérielle, par abord artériel périphérique
 
 |
 
@@ -2958,7 +2954,7 @@ DGLA002
 
 |
 
-Pose d'un ballon de contrepulsion diastolique intraaortique, par abord artériel périphérique
+Pose d'un ballon de contrepulsion diastolique intra-aortique, par abord artériel périphérique
 
 |
 
@@ -2974,7 +2970,7 @@ DGLF006
 
 |
 
-Pose d'un ballon de contrepulsion diastolique intraaortique, par voie artérielle transcutanée
+Pose d'un ballon de contrepulsion diastolique intra-aortique, par voie artérielle transcutanée
 
 |
 
@@ -3006,7 +3002,7 @@ DGMA009
 
 |
 
-Plastie d'une sténose supraorificielle de l'aorte, par thoracotomie avec CEC
+Plastie d'une sténose supra-orificielle de l'aorte, par thoracotomie avec CEC
 
 |
 
@@ -3070,7 +3066,7 @@ DGPA017
 
 |
 
-Mise à plat d'un anévrisme aortique infrarénal non rompu avec remplacement prothétique aortoaortique infrarénal, par laparotomie avec clampage suprarénal
+Mise à plat d'un anévrisme aortique infrarénal non rompu avec remplacement prothétique aorto-aortique infrarénal, par laparotomie avec clampage suprarénal
 
 |
 
@@ -3110,7 +3106,7 @@ DGSA004
 
 |
 
-Fermeture de fistule aortodigestive ou iliodigestive avec pontage aortoaortique abdominal, par laparotomie
+Fermeture de fistule aortodigestive ou iliodigestive avec pontage aorto-aortique abdominal, par laparotomie
 
 |
 
@@ -3254,7 +3250,7 @@ DKMD001
 
 |
 
-Ressuscitation cardiorespiratoire avec intubation trachéale, en dehors d'un bloc médicotechnique
+Ressuscitation cardio-respiratoire avec intubation trachéale, en dehors d'un bloc médico-technique
 
 |
 
@@ -3262,7 +3258,7 @@ DKMD002
 
 |
 
-Ressuscitation cardiorespiratoire avec intubation trachéale, dans un bloc médicotechnique
+Ressuscitation cardio-respiratoire avec intubation trachéale, dans un bloc médico-technique
 
 |
 

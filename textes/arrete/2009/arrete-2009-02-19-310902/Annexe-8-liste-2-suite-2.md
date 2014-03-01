@@ -2,6 +2,10 @@
 
 Liste 2 : actes autorisant la facturation d'un supplément de surveillance continue (suite)
 
+CODE CCAM |
+
+LIBELLÉ CCAM |
+
 JAEA002
 
 |
@@ -54,7 +58,7 @@ JAFA011
 
 |
 
-Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie et contrôle intraatrial cardiaque, par thoraco-phréno-laparotomie
+Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie et contrôle intra-atrial cardiaque, par thoraco-phréno-laparotomie
 
 |
 
@@ -1622,7 +1626,7 @@ MZFA010
 
 |
 
-Désarticulation scapulohumérale [Désarticulation de l'épaule]
+Désarticulation scapulohumérale [désarticulation de l'épaule]
 
 |
 
@@ -1902,7 +1906,7 @@ ZCJA005
 
 |
 
-Evacuation de collection intraabdominale, par thoracotomie
+Evacuation de collection intra-abdominale, par thoracotomie
 
 |
 
