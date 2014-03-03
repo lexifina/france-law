@@ -76,7 +76,9 @@ Alpes-Maritimes
 
 |
 
-DDTM de la Loire-Atlantique |
+DDTM de la Loire-Atlantique
+
+|
 
 Loire-Atlantique
 
@@ -84,7 +86,9 @@ Vendée
 
 |
 
-DDT de Vaucluse |
+DDT de Vaucluse
+
+|
 
 Vaucluse
 
@@ -94,10 +98,24 @@ Hautes-Alpes
 
 |
 
-DDT de Seine-et-Marne |
+DDT de Seine-et-Marne
+
+|
 
 Seine-et-Marne
 
 Essonne
+
+|
+
+DDT de la Creuse
+
+|
+
+Creuse
+
+Corrèze
+
+Haute-Vienne
 
 |
