@@ -1,0 +1,9 @@
+# Réponse à la question n° 14676
+
+- Question : [14676](14676.md) — Question n° 14676 — périodes d'enneigement; zones de montagne; réglementation
+
+## Réponse
+
+*JO du 2014-03-04*
+
+La réglementation actuelle prévoit déjà l'utilisation des pneus neige sur certaines voies, lorsque la situation locale l'exige. Ainsi l'article 5 de l'arrêté du 24 novembre 1967 modifié relatif à la signalisation des routes et autoroutes prévoit que le panneau B26, implanté pour signifier l'endroit à partir duquel s'applique l'obligation d'utilisation des chaînes à neige sur au moins deux roues motrices, peut être complété par un panonceau « pneus neige admis ». Cet arrêté prévoit également que les conditions de praticabilité d'une route peuvent être signalées par un panneau d'information (panneau C14) qui, lorsque les pneus neige sont admis, porte l'inscription « pneus neige admis » à côté du panneau B26. Ce panneau C14, mis en place à bon escient au regard des conditions météorologiques mais aussi de son lieu d'implantation (demi-tour rendu possible ou évitement de la section signalée selon la configuration du réseau concerné), constitue une obligation raisonnable et justement proportionnée aux impératifs de sécurité routière. Dans l'Union européenne, quelques pays, l'Estonie, la Suède, la Finlande et l'Allemagne, imposent l'équipement en pneus neige pour tous les véhicules en période hivernale. Les conditions climatiques très variées que l'on rencontre dans notre pays ne justifient pas d'instaurer une obligation générale d'équipement en pneus neige pour tous les véhicules circulant sur nos routes. Il s'agit en outre d'un équipement relativement coûteux, nécessitant un montage et un démontage spécifique par un professionnel, qu'il n'est pas utile d'imposer à tous nos concitoyens au regard des faibles bénéfices escomptés en matière de sécurité routière.
