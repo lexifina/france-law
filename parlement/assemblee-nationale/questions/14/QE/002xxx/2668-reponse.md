@@ -1,0 +1,9 @@
+# Réponse à la question n° 2668
+
+- Question : [2668](2668.md) — Question n° 2668 — chiffons; activités d'effilochage
+
+## Réponse
+
+*JO du 2014-03-04*
+
+Une substance issue d'un processus de production dont le but premier n'est pas la production de cette substance peut être considérée comme un sous-produit, et non comme un déchet, uniquement si l'ensemble des conditions établies par l'article L. 541-4-2 du code de l'environnement sont remplies : - l'utilisation ultérieure de la substance ou de l'objet est certaine ; - la substance ou l'objet peut être utilisé directement sans traitement supplémentaire autre que les pratiques industrielles courantes ; - la substance ou l'objet est produit en faisant partie intégrante d'un processus de production ; - la substance ou l'objet répond à toutes les prescriptions relatives aux produits, à l'environnement et à la protection de la santé prévues pour l'utilisation ultérieure ; - la substance ou l'objet n'aura pas d'incidences globales nocives pour l'environnement ou la santé humaine. Concernant les chiffons souillés ou des textiles collectés dans une borne d'apport volontaire, leur effilochage est une étape préparatoire à la valorisation matière, couramment utilisée pour la gestion des déchets de textiles dont les propriétaires ont eu l'intention manifeste de se défaire. Ces textiles répondent bien à la définition de déchets posée à l'article L. 541-1-1 du code de l'environnement et leur effilochage relève donc bien d'une opération de traitement de déchets. En revanche, si les chutes de production de textiles correspondent aux critères du statut de sous-produits, leur effilochage n'a alors pas à être considéré comme une opération de traitement de déchets. Au-delà de 5 000 mètres cubes de matière stockée, leur entreposage relève néanmoins de la rubrique n° 1510 (entreposage couvert) de la nomenclature relative aux installations classées pour la protection de l'environnement (ICPE).
