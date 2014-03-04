@@ -1,0 +1,9 @@
+# Réponse à la question n° 10531
+
+- Question : [10531](10531.md) — Question n° 10531 — perspectives
+
+## Réponse
+
+*JO du 2014-03-04*
+
+Dans le cadre du chantier sur la modernisation de l'action publique, le Gouvernement s'est engagé, sur le champ de la scolarisation des élèves handicapés, à mettre à la disposition des maisons départementales des personnes handicapées (MDPH) des outils nationaux pour une évaluation des besoins individuels des personnes harmonisée sur l'ensemble du territoire. Ce chantier permettra de répondre notamment aux préoccupations soulevées par Mesdames les sénatrices Campion et Debré dans leur rapport d'information de juillet 2012, rendu au nom de la commission sénatoriale pour le contrôle de l'application des lois sur l'application de la loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées sur le faible nombre de projets personnalisés de scolarisation rédigés par les MDPH. A l'issue des travaux, qui ont débuté en septembre 2013, un texte réglementaire sur le projet personnalisé de scolarisation (PPS) est en préparation. Il permettra de préciser la forme du PPS ainsi que le degré de précision attendu d'un tel document et les mentions devant y figurer obligatoirement. Par ailleurs, et afin de favoriser l'appropriation du GEVA-sco, outil déjà mis à la disposition des équipes pédagogiques et des MDPH pour permettre un meilleur recueil des informations et ainsi favoriser une évaluation au plus près des besoins de l'enfant, l'accompagnement réalisé par la caisse nationale de solidarité pour l'autonomie auprès des MDPH se poursuivra. Un texte, imposant le GEVA-sco comme document unique d'analyse des besoins de scolarisation, est également envisagé. Ces travaux permettront enfin de mettre en place un outil d'aide pour les décisions relatives à la scolarisation, à destination des services académiques et des MDPH, sous forme d'arbre de décisions.
