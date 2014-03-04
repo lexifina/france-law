@@ -1,0 +1,9 @@
+# Réponse à la question n° 20661
+
+- Question : [20661](20661.md) — Question n° 20661 — comités techniques paritaires; réglementation
+
+## Réponse
+
+*JO du 2014-03-04*
+
+Les comités techniques paritaires, devenus comités techniques depuis la loi n° 2010-751 du 5 juillet 2010 relative à la rénovation du dialogue social et comportant diverses dispositions relatives à la fonction publique, sont consultés pour avis sur les questions relatives à l'organisation et au fonctionnement des services, aux évolutions des administrations ayant un impact sur les personnels, aux grandes orientations relatives aux effectifs, emplois et compétences, relatives à la politique indemnitaire, aux questions relatives à la formation, à l'insertion et à la promotion de l'égalité professionnelle, sur les aides à la protection sociale complémentaire et aux sujets d'ordre général intéressant l'hygiène, la sécurité et les conditions de travail ainsi qu'en dispose l'article 33 de la loi n° 84-53 du 26 janvier 1984 portant disposition statutaires relatives à la fonction publique territoriale. L'article 25 du décret n° 85-565 du 30 mai 1985 relatif aux comités techniques paritaires des collectivités territoriales et de leurs établissements publics dispose en son dernier alinéa que « le président du comité technique paritaire peut convoquer des experts à la demande de l'administration ou à la demande des représentants du personnel. Les experts n'ont pas voix délibérative. Ils ne peuvent assister, à l'exclusion du vote, qu'à la partie des débats relative aux questions pour lesquelles leur présence a été demandée ». Ces experts ne sont pas obligatoirement des experts judiciaires. Les experts que peuvent convoquer les comités techniques sont des personnes qualifiées dans un domaine qui concerne une question soumise à avis du comité technique.
