@@ -1,0 +1,9 @@
+# Réponse à la question n° 38244
+
+- Question : [38244](38244.md) — Question n° 38244 — montant; revalorisation
+
+## Réponse
+
+*JO du 2014-03-04*
+
+Les personnes en situation de handicap sont confrontées à des risques accrus de pauvreté, notamment au regard de leurs difficultés d'accès à l'emploi et des dépenses directement liées au handicap. Elles sont de surcroît davantage exposées à l'isolement et à des difficultés particulières d'accès aux droits. Conscient de ces difficultés, le Premier ministre a annoncé lors du comité interministériel du handicap du 25 septembre 2013, qu'il confierait à partir de janvier 2014 une mission M. François CHEREQUE. Cette mission portera sur le suivi et l'évaluation du plan de lutte contre la pauvreté et pour l'inclusion sociale, notamment du point de vue des difficultés financières des personnes handicapées. Elle devra identifier les freins spécifiques à leur accès aux droits sociaux. Le groupe de travail qu'il animera réunira des associations du secteur du handicap et de la lutte contre l'exclusion ainsi que des personnes handicapées, elles mêmes en situation de précarité. Les conclusions de ce groupe de travail devraient être présentées à la prochaine conférence nationale du handicap. A noter que les problématiques propres aux personnes en situation de handicap avaient été intégrées de manière transversale dans les réflexions des différents ateliers de travail réunis dans le cadre de la préparation du plan contre la pauvreté et pour l'inclusion sociale en fin d'année 2012. Le plan, adopté en janvier 2013, comprend notamment une mesure visant à généraliser de nouvelles pratiques d'évaluation de l'employabilité des personnes handicapées, qui permettront de faciliter leur insertion professionnelle. L'effort du Gouvernement pour lutter contre la pauvreté des personnes handicapées porte aussi sur leurs ressources. L'allocation aux adultes handicapés (AAH) a ainsi été revalorisée le 1er septembre 2013.
