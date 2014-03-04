@@ -1,0 +1,9 @@
+# Réponse à la question n° 23972
+
+- Question : [23972](23972.md) — Question n° 23972 — entretien d'un cours d'eau
+
+## Réponse
+
+*JO du 2014-03-04*
+
+L'entretien d'un cours d'eau relève de la responsabilité légale du propriétaire riverain de ce cours d'eau. Cet entretien réalisé par le propriétaire riverain n'est pas soumis à déclaration ou autorisation au titre de la police de l'eau, y compris s'il y a retrait éventuel de matériaux, pourvu que le profil de la rivière ne soit pas modifié. Cet entretien doit en outre contribuer au maintien ou à l'atteinte du bon état écologique du cours d'eau et être effectué selon des méthodes respectueuses des milieux aquatiques, et limitativement énoncées aux articles L. 215-14 et R. 215-2 du code de l'environnement. Il est donc préférable en général de laisser les sédiments dans le lit mineur à chaque fois que c'est possible et d'éviter d'y intervenir avec des engins. Le curage avec retrait de sédiments, en particulier des petits cours d'eau, n'est pas une méthode d'entretien durable, ni adéquate dans la plupart des cas, surtout s'il est effectué avec un engin aussi traumatisant pour les milieux qu'une pelle hydraulique. Ce type de curage est donc effectivement peu souhaitable et soumis à autorisation. En effet, il conduit le plus souvent à une dégradation forte de l'écosystème. Cette procédure d'autorisation n'a pas vocation à être systématiquement suivie d'un refus, si les précautions visant à préserver le bon fonctionnement du cours d'eau sont prises. Toutefois, afin d'atténuer les difficultés que peuvent localement susciter ces opérations, notamment lorsque la distinction entre les fossés et les petits cours d'eau n'est pas clairement opérée, un groupe de travail à l'initiative du ministre de l'écologie, du développement durable et de l'énergie a été décidé. Réunissant services du ministère de l'écologie, préfets et magistrats, il associera dans un second temps la profession agricole.
