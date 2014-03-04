@@ -1,0 +1,9 @@
+# Réponse à la question n° 47915
+
+- Question : [47915](47915.md) — Question n° 47915 — logements; réhabilitation; Satory; moyens budgétaires
+
+## Réponse
+
+*JO du 2014-03-04*
+
+Le ministère de l'intérieur a la volonté de voir aboutir le projet de réhabilitation des logements, particulièrement vétustes, des gendarmes du quartier Delpal sur le camp de Satory. En première analyse, le responsable du programme 152 privilégie un montage de type partenariat public-privé (PPP) sous maîtrise d'oeuvre étatique. En janvier 2014, la direction de l'évaluation de la performance, et des affaires financières et immobilières du ministère de l'intérieur a saisi le service constructeur de la préfecture de police de Paris aux fins de conduire une étude générale portant d'une part, sur la faisabilité technique, juridique et financière du montage de type PPP de valorisation et d'autre part, sur l'exploration de solutions alternatives comme le BEA de valorisation, le crédit-bail ou la cession-bail, la dation en paiement pour la réalisation de travaux. En outre, il est demandé d'affiner le bilan économique des scénarios envisagés (réhabilitation ou reconstruction) et d'estimer les perspectives de valorisation issues de la location ou de l'accession à la propriété des logements ou autres actifs réalisés sur le foncier disponible. Les études seront menées sur le périmètre des quartiers Delpal, Serment de Koufra et également Fesch (sous la main du ministère de la défense). Une enveloppe de 150 000 € au titre de la gestion 2014 a été réservée pour ces études dont les résultats pourraient être connus dès la fin de l'année en cours. La gendarmerie sera alors en mesure de privilégier une des hypothèses étudiées. En fonction du montant du projet retenu et des ressources budgétaires allouées à l'immobilier de la gendarmerie dans les prochaines années, un calendrier de financement pourra alors être déterminé.
