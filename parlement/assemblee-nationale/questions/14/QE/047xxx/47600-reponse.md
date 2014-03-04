@@ -1,0 +1,9 @@
+# Réponse à la question n° 47600
+
+- Question : [47600](47600.md) — Question n° 47600 — Service historique de la défense; site internet; dysfonctionnements
+
+## Réponse
+
+*JO du 2014-03-04*
+
+Le site internet du service historique de la défense (SHD) contribue de manière essentielle à la réalisation des missions de cet organisme, dans la mesure où il permet d'offrir en ligne l'inventaire des ressources documentaires et patrimoniales conservées, de gérer les relations avec les différents publics (notamment les chercheurs et les lecteurs), ainsi que de communiquer sur les missions et les métiers du service. Cet outil a connu au cours des derniers mois des dysfonctionnements majeurs liés à des problèmes de sécurité résultant de l'obsolescence de sa pile logicielle. Victime de plusieurs actes de piratage, son hébergement et sa maintenance, jusqu'alors externalisés, ont été transférés en janvier 2013 à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense (DIRISI). Compte tenu de la situation, le site internet du SHD a dû être temporairement fermé à l'été 2013. Après avoir réalisé les interventions techniques jugées prioritaires, la DIRISI a procédé à la réouverture du site le 11 octobre dernier et poursuit actuellement ses efforts en vue de le stabiliser, notamment en termes de sécurité, et d'améliorer la qualité du service rendu aux usagers. Le SHD et la DIRISI ont par ailleurs entrepris d'importants travaux de refonte de ce site qui devraient aboutir en 2015. Enfin, il est précisé que les archives numérisées de la Première Guerre mondiale (Morts pour la France, journaux de marche des unités) sont mises en ligne sur le site « Mémoire des Hommes » de la direction de la mémoire, du patrimoine et des archives, qui a vocation à abriter la totalité des archives numérisées du ministère de la défense.
