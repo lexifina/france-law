@@ -1,0 +1,9 @@
+# Réponse à la question n° 39327
+
+- Question : [39327](39327.md) — Question n° 39327 — formation; perspectives
+
+## Réponse
+
+*JO du 2014-03-04*
+
+Les modalités d'affectation en qualité de fonctionnaire stagiaire des lauréats des concours du second degré sont déterminées dans une note de service annuelle, en l'occurrence la note n° 2013-061 du 17 avril 2013 pour la rentrée 2013. S'agissant des reports de stage, il convient de préciser que les motifs réglementaires sont prévus par le décret n° 94-874 du 7 octobre 1994. L'administration peut toutefois examiner des demandes de report pour un motif autre que ceux fixés par le décret, limitativement cités dans la note de service susmentionnée, dans la limite toutefois des nécessités du service. En effet, la finalité recherchée est l'équilibre entre la maximisation des rendements des concours et l'accompagnement des parcours individuels. Dans ce cadre, priorité est donnée, pour l'obtention d'un report, aux doctorants inscrits dans un établissement public de l'enseignement supérieur, néanmoins chaque situation fait l'objet d'un examen attentif. S'agissant des lauréats nommés doctorants contractuels, les modalités liées au recrutement (par une université française ou un établissement public de l'enseignement supérieur français) sont corrélées aux modalités d'évaluation de l'année de stage et in fine de la titularisation : la procédure à suivre devant être la même quel que soit le corps d'appartenance du stagiaire et quel que soit son lieu d'affectation, peut s'appliquer au sein des établissements français et demeure sous l'autorité hiérarchique du recteur, en sa qualité de chancelier des universités. En revanche cette harmonisation ne pourrait être garantie si le stagiaire doctorant contractuel pouvait effectuer son séjour dans l'université de son choix, ce qui remettrait en cause le principe d'équité de traitement des situations.
