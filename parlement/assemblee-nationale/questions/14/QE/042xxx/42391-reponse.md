@@ -1,0 +1,9 @@
+# Réponse à la question n° 42391
+
+- Question : [42391](42391.md) — Question n° 42391 — sapeurs-pompiers professionnels
+
+## Réponse
+
+*JO du 2014-03-04*
+
+Le décret n° 2012-847 du 2 juillet 2012 relatif à l'âge d'ouverture du droit à pension de vieillesse est applicable aux fonctionnaires territoriaux qu'ils relèvent de la catégorie dite « sédentaire » ou de celle dite « active », dont font partie les sapeurs-pompiers professionnels (SPP). La catégorie « active » n'est donc pas écartée du dispositif de départ anticipé à la retraite au titre des carrières longues. Toutefois, les conditions d'âge d'ouverture des droits à la retraite anticipée, qui restent fixées à 60 ans, sont moins favorables que celles actuellement prévues pour les fonctionnaires appartenant à la catégorie dite « active ». En pratique, l'âge légal de départ au titre de la catégorie « active » est toujours inférieur à celui d'un départ au titre des carrières longues. Les fonctionnaires relevant de la catégorie dite « active » remplissent donc les conditions pour bénéficier d'un départ à leur âge légal avant de remplir les conditions pour un départ dans le cadre du dispositif « carrières longues ». Si, dans le cadre du dispositif « carrières longues », la durée d'assurance cotisée doit être identique pour les agents relevant de la catégorie dite « active » et pour ceux de la catégorie dite « sédentaire », en revanche, dans le cadre d'un départ normal, pour une même génération, un SPP peut bénéficier d'une retraite à taux plein en ayant cotisé à cette caisse nationale de retraite des agents des collectivités locales (CNRACL) moins longtemps qu'un fonctionnaire de la catégorie sédentaire. Tout cela en raison de la règle qui détermine le nombre de trimestres pour atteindre un taux plein associé à la bonification accordée aux SPP.
