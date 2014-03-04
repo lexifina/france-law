@@ -1,0 +1,9 @@
+# Réponse à la question n° 10411
+
+- Question : [10411](10411.md) — Question n° 10411 — création; Champagne et Bourgogne; perspectives
+
+## Réponse
+
+*JO du 2014-03-04*
+
+Les atouts patrimoniaux relevés par les experts scientifiques dans l'aire d'étude du projet de Parc national « de forêt feuillue de plaine » sur le territoire entre « Champagne et Bourgogne » justifient l'opportunité d'un classement en parc national. L'espace qui sera classé en coeur devra à la fois comprendre des éléments de richesse patrimoniale sur les plans naturel et culturel, mais également être fonctionnel pour la partie naturelle de ce patrimoine. Le Groupement d'intérêt public (GIP) constitué en 2010 a pour tâche de mener la concertation avec les représentants de l'État et de ses services, des communes ainsi que des acteurs territoriaux (associations, habitants, etc.). Leur mission est de définir l'importance du coeur du parc, qui représente l'espace spécifique dédié à la protection de patrimoines naturels, culturels ou paysagers. L'élaboration d'un projet de parc national est un chantier qui nécessite une concertation très large et une appropriation forte par le territoire. Le périmètre du GIP est formé par les 109 communes adhérentes : 60 en Côte-d'Or, 49 en Haute-Marne. Il comprend également 8 communes non adhérentes, mais dont le territoire est inclus dans le périmètre global (Barjon, Busseaut, Buxerolles, Montmoyen et Prusly-sur-Ource, en Côte-d'Or Vesvres-sous-Chalancey, Villiers-les-Aprey, Villiers-sur-Suize, en Haute Marne). Le 20 juin 2013, le GIP a validé un socle du projet qui définit une ligne directrice claire à laquelle chacun pourra se référer. Cette feuille de route, disponible sur le site http ://www. forets-champagnebourgogne. fr, regroupe l'ensemble des engagements pris par le GIP, les arguments sur lesquels repose le classement en parc national et les méthodes qui seront mises en oeuvre pour construire la zone d'étude du coeur et la charte.
