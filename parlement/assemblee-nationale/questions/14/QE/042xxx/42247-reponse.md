@@ -1,0 +1,9 @@
+# Réponse à la question n° 42247
+
+- Question : [42247](42247.md) — Question n° 42247 — zones économiques exclusives; extension; perspectives
+
+## Réponse
+
+*JO du 2014-03-04*
+
+La France a participé activement à la prise de dispositions relatives aux objectifs de la Convention sur la diversité biologique (CDB) et poursuit actuellement cette démarche. En effet, dès 2002, lors du sommet du développement durable de Johannesburg, l'État français a approuvé l'objectif fixé par la communauté internationale de réduire la perte de la biodiversité à l'horizon 2010. Cette volonté s'est concrétisée en 2004 par l'adoption d'une stratégie nationale pour la biodiversité (SNB) fixant un cadre pour la mise en oeuvre en France des recommandations de la CDB et dont les premiers plans d'actions furent lancés l'année suivante. En 2009, le Gouvernement français a adopté la programmation 2009-2010 des plans d'actions sectoriels de la stratégie et ce, conformément à l'engagement pris, à l'issue du Grenelle de l'environnement, de renforcer la stratégie nationale pour la biodiversité. En 2011, la France a adopté une nouvelle SNB pour le cycle 2011-2020. En 2014, le Gouvernement remettra un rapport national permettant de répondre aux nouvelles exigences de la CDB. Pour cela, elle s'appuiera en grande partie sur la loi-cadre « biodiversité ». Cette loi en cours d'élaboration doit notamment permettre un accès aux ressources génétiques et un partage juste et équitable des avantages liés à leur utilisation (APA). Elle comprendra des dispositions comme la lutte contre le « biopiratage », la reconnaissance de l'État comme fournisseur de la ressource génétique, la mise en place d'un champ couvrant les ressources génétiques sauvages et excluant ainsi les espèces domestiques et cultivées et les pathogènes humains, ou encore la prise en compte des savoirs-traditionnels dans le respect des objectifs de la CDB.
