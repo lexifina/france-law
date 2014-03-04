@@ -1,0 +1,9 @@
+# Réponse à la question n° 41965
+
+- Question : [41965](41965.md) — Question n° 41965 — réforme; perspectives
+
+## Réponse
+
+*JO du 2014-03-04*
+
+La négociation de la nouvelle politique agricole commune (PAC) s'est achevée au mois de juin 2013 par un accord entre les États membres, le Parlement européen et la Commission européenne. Dans le cadre de son intervention à Cournon, le 2 octobre 2013, le Président de la République a donné les orientations de la mise en oeuvre française de la nouvelle PAC. Par la convergence des droits à paiement de base (DPB), la surprime sur les 52 premiers hectares ou encore le recouplage des aides, il a clairement souhaité rééquilibrer les aides en faveur du secteur animal qui traverse de grandes difficultés. Pour autant, il ne s'agit pas de réduire trop fortement les soutiens au secteur des grandes cultures. Ainsi, la réduction des DPB liée à l'application de la convergence sera limitée à 30 % de pertes individuelles au maximum et les aides actuelles couplées aux protéagineux seront maintenues. En effet, tous les choix de mise en oeuvre sont faits avec le souci de ne déstabiliser aucune filière de production. A l'issue de plusieurs groupes de travail, constitués afin de recueillir l'avis de la profession agricole concernant les modalités d'attribution des aides rendues possibles par la nouvelle PAC, le conseil supérieur de coordination et d'orientation de l'économie agricole et agroalimentaire s'est prononcé le 17 décembre 2013 sur l'ensemble du dispositif des aides directes aux agriculteurs, qui sera opérationnel en 2015. Le nouvel équilibre obtenu est au service des filières agricoles compétitives et durables, créatrices de valeur ajoutée et d'emploi, partout sur le territoire national, préservant le revenu de tous les agriculteurs et assurant le développement de la transformation et de la valorisation.
