@@ -1,0 +1,9 @@
+# Réponse à la question n° 28963
+
+- Question : [28963](28963.md) — Question n° 28963 — capacités d'accueil; pérennité
+
+## Réponse
+
+*JO du 2014-03-04*
+
+La majorité précédente a, entre 2007 et 2012, supprimé près de 80 000 postes dans l'éducation nationale. L'école française s'en trouve dans une situation particulièrement dégradée. Le Président de la République a souhaité faire de la jeunesse la grande priorité de son quinquennat, le coeur de sa stratégie pour le redressement de la France. Il a fixé au ministère de l'éducation nationale un objectif : faire réussir tous les élèves. Aucune étude n'atteste de l'augmentation du nombre des élèves présentant des troubles des comportements et de la conduite et entrant en SEGPA. Ces troubles, qui peuvent constituer un handicap au titre de l'article L. 114 du code de l'action sociale et des familles, peuvent entraîner, sur la demande des familles, la mise en place par la commission des droits et de l'autonomie des personnes handicapées (MDPH) d'un projet personnalisé de scolarisation (PPS) comportant une orientation dans un établissement médico-social de type ITEP ou dans un établissement scolaire, y compris en SEGPA, lorsque la commission considère que cette orientation est la plus souhaitable pour l'élève. Les décisions de la CDAPH s'imposent aux services de l'éducation nationale qui ne peuvent en aucune manière y déroger. Pour les élèves en difficulté scolaire mais ne relevant pas d'une situation de handicap, la décision d'orientation en SEGPA relève du directeur académique des services de l'éducation nationale sur avis de la commission départementale d'orientation vers les enseignements adaptés du second degré. Enfin les établissements médico-sociaux dédiés à la prise en charge des jeunes présentant des troubles des comportements et de la conduite et leur nombre insuffisant ne relèvent pas du ministère de l'éducation nationale mais du ministère des affaires sociales et de la santé.
