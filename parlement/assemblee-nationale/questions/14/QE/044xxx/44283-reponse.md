@@ -1,0 +1,9 @@
+# Réponse à la question n° 44283
+
+- Question : [44283](44283.md) — Question n° 44283 — CNTE; composition
+
+## Réponse
+
+*JO du 2014-03-04*
+
+Le Gouvernement a décidé, à l'issue de la conférence environnementale de septembre 2012, de rénover la gouvernance environnementale en créant un Conseil national de la transition écologique (CNTE), en remplacement du Comité national du développement durable et du Grenelle de l'environnement (CNDDGE), afin de renforcer le dialogue social et environnemental qui constitue l'un des principaux acquis du « grenelle de l'environnement ». La composition en six collèges du CNTE, s'inspirant de celle du CNDDGE en l'améliorant, permet la représentation équilibrée des parties prenantes à la transition écologique : élus, organisations syndicales, organisations d'employeurs, associations de protection de l'environnement, autres associations, parlementaires. L'article L. 133-2 du code de l'environnement, créé par la loi du 27 décembre 2012, précise que « le Conseil national de la transition écologique est consulté sur les projets de loi concernant, à titre principal l'environnement et l'énergie ». Le CNTE sera amené à ce titre à rendre un avis sur le projet de loi de programmation de la transition énergétique. En vue de préparer l'élaboration de cet avis, une Commission spécialisée a ainsi été mise en place, sur proposition du ministre de l'écologie, du développement durable et de l'énergie. Le Gouvernement a organisé un débat national qui a duré huit mois et au sein duquel l'ensemble des acteurs concernés ont pu échanger leurs points de vue, construire des points de convergence comme de divergence. En confiant la présidence de cette Commission spécialisée à Mme Laurence Tubiana, garante du débat national, le ministre de l'écologie, du développement durable et de l'énergie, a marqué l'importance qu'il attachait à cette méthode et à ses apports.
