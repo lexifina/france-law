@@ -1,0 +1,9 @@
+# Réponse à la question n° 29228
+
+- Question : [29228](29228.md) — Question n° 29228 — éthylotests; généralisation; modalités
+
+## Réponse
+
+*JO du 2014-03-04*
+
+L'Etat et ses partenaires oeuvrent depuis de nombreuses années pour combattre la conduite sous l'emprise d'alcool. Un arsenal répressif conséquent a été mis en place. Cependant, si le nombre de tués sur les routes dans un accident pour lequel au moins un des conducteurs présente un taux positif a diminué au même rythme que l'ensemble de la mortalité routière, la proportion de ces tués reste globalement la même depuis plusieurs années, autour de 30 % de la mortalité routière globale. Au cours de l'été 2013 la sécurité routière a lancé une grande campagne de communication sur les dangers de l'alcool au volant orientée en particulier sur les jeunes conducteurs. Cette campagne, appuyée sur une vidéo largement diffusée sur internet et les réseaux sociaux a permis d'aller directement à la rencontre des conducteurs sur leurs lieux de vacances. A l'occasion des fêtes de fin d'année 2013, une nouvelle campagne a été lancée. Cette campagne vise à provoquer une prise de conscience, pour faire de l'alcool au volant un sujet de responsabilité collective. Le film publicitaire « Le choix » interroge directement les consciences et incite à l'action : face à celui qui a perdu sa faculté de discernement à cause de l'alcool, il n'y a pas d'autre choix que d'agir à sa place. De même, lors de l'apprentissage à la conduite, les futurs jeunes conducteurs sont maintenant sensibilisés aux risques et aux dangers auxquels ils s'exposent avec la consommation d'alcool et de stupéfiants. Par ailleurs au sein du Conseil National de la Sécurité Routière (CNSR), une commission travaille spécifiquement pour faire émerger des nouvelles propositions de mesures afin de renforcer encore la prévention sur les risques.
