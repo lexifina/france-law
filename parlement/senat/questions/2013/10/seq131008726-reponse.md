@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008726
+
+- Question : [SEQ131008726](seq131008726.md) — Date du raccordement au réseau public de collecte des eaux usées
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-03-06, page 611*
+
+Selon les termes de l'article L. 1331-7 du code de santé publique, les propriétaires des immeubles devant se raccorder au réseau d'assainissement collectif des eaux usées en vertu de l'article L. 1331-1 de ce code peuvent être soumis au versement d'une participation pour le financement de l'assainissement collectif (PFAC). Cette participation, d'un montant maximal de 80 % du coût de fourniture et de pose de l'installation, est déterminée par délibération de l'organe délibérant compétent (commune, établissement public de coopération intercommunale, syndicat mixte) en matière d'assainissement et exigible à compter de la date du raccordement au réseau public d'assainissement. Le 1er juillet 2012, la PFAC a remplacé la participation pour raccordement à l'égout (PRE) et ne concerne que les constructions neuves, les constructions déjà existantes mais générant des eaux usées supplémentaires et les réaménagements d'immeubles produisant également des eaux usées supplémentaires. La PFAC ne pourra pas être exigée dans trois cas de figure : lorsque le raccordement a été effectué avant cette date, lorsque le pétitionnaire d'un permis de construire a déposé sa demande avant le 1er juillet 2012 et qu'il est déjà assujetti à la PRE et enfin, lorsqu'il s'agit de dossiers déjà soumis à la taxe d'aménagement majorée pour des raisons d'assainissement. Les services techniques en charge l'assainissement de la collectivité compétente en la matière disposent normalement de toutes les informations permettant de déterminer la date du raccordement de l'habitation au réseau public de collecte des eaux usées.
