@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130104321
+
+- Question : [SEQ130104321](seq130104321.md) — Montant des indemnités des présidents d'établissements publics de coopération intercommunale
+
+## Réponse
+
+*Décentralisation, JO du 2014-03-06, page 604*
+
+Afin de compenser les sujétions et les responsabilités résultant de leurs charges publiques, les présidents et vice-présidents d'établissements publics de coopération intercommunale (EPCI) bénéficient d'un certain nombre de garanties et d'indemnisations. Conformément aux dispositions de l'article L. 5211-12 du code général des collectivités territoriales, les conseils et comités des établissements publics de coopération intercommunale peuvent allouer des indemnités de fonction aux présidents et vice-présidents. Le montant total des indemnités attribuées aux membres de ces EPCI ne doit pas dépasser l'enveloppe indemnitaire globale constituée par l'addition des indemnités maximales de fonctions de président et des vice-présidents. De manière dérogatoire, l'indemnité de fonction accordée à un vice-président peut dépasser le montant de l'indemnité maximale prévue à condition toutefois d'une part, que celle-ci ne dépasse pas le montant de l'indemnité maximale susceptible d'être allouée au président et, d'autre part, que l'enveloppe indemnitaire globale ne soit pas dépassée. Le Gouvernement n'envisage pas de faire évoluer la réglementation afin qu'au sein de l'enveloppe indemnitaire globale le surplus indemnitaire soit reversé au président de l'EPCI concerné, de telle sorte que le montant de ces indemnités maximales de fonction soit dépassé. En effet, en matière de régime indemnitaire, les présidents de ces EPCI bénéficient déjà d'un régime indemnitaire correspondant à la réalité de leurs responsabilités et de leurs fonctions et équilibré par rapport à celui des maires.
