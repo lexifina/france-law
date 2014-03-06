@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109501
+
+- Question : [SEQ131109501](seq131109501.md) — Plan de sauvegarde de l'emploi du groupe HJ Heinz France SAS
+
+## Réponse
+
+*Redressement productif, JO du 2014-03-06, page 637*
+
+La société Heinz, groupe américain, développe ses activités dans 3 secteurs qui sont par ordre d'importance : le ketchup et les sauces, les haricots cuisinés et l'alimentation infantile. Début 2013, Heinz a été rachetée par le fonds d'investissement Berkshire Hathaway dirigé par l'américain Warren Buffet et le fonds brésilien 3G Capital, actionnaire de Burger King. Quelques mois plus tard (novembre 2013), le groupe annonçait la fermeture de trois usines sur le continent américain, entraînant la suppression de 1 350 emplois. L'Europe représente 30 % de son marché. La société y possède plusieurs sites industriels dans 11 pays, avec une production majoritaire aux Pays-Bas. Son implantation en France est récente (2008) avec le rachat de l'entreprise Bénédicta et le site industriel de Seclin (Nord). La société Heinz emploie, en France, 218 salariés dont 140 travaillent à l'usine de Seclin et 78 dans les services administratifs de La Défense. Le 7 octobre 2013, la société Heinz France SAS a notifié un projet de licenciements pour motif économique, concernant 18 suppressions de postes réparties comme suit : 11 sur le site de La Défense et 7 pour l'usine de Seclin. Les services de l'État en régions se sont investis dans ce dossier et ont rencontré à plusieurs reprises la direction du groupe et les syndicats. Les mesures sociales du plan de sauvegarde de l'emploi (PSE) ont ainsi pu être améliorées. Au final, le nombre de licenciements figurant au PSE homologué le 7 janvier 2014 a été ramené à 17. Les services de l'État continuent à être mobilisés et attentifs sur l'évolution de ces deux sites.
