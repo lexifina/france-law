@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008860
+
+- Question : [SEQ131008860](seq131008860.md) — Postes ouverts au certificat d'aptitude au professorat de l'enseignement du second degré d'occitan-langue d'oc
+
+## Réponse
+
+*Éducation nationale, JO du 2014-03-06, page 622*
+
+Les langues et cultures régionales constituent un élément de la richesse du patrimoine culturel et linguistique national, dont la préservation et la transmission font l'objet de toute l'attention des services du ministère de l'éducation nationale qui, au travers de ses actions, s'emploie à améliorer les conditions de leur enseignement et de leur diffusion. L'ouverture pour la session exceptionnelle 2014 des concours, de quatre postes en occitan-langue d'oc dans la section langues régionales du CAPES, complétée par l'ouverture de quatre postes pour la session 2014 rénovée, en témoigne. Le recrutement des enseignants du second degré s'effectue dans le cadre de concours nationaux, dont les volumes sont déterminés annuellement dans le respect des emplois votés en loi de finances et tiennent comptent de plusieurs paramètres tels que le nombre des départs en retraite et les prévisions d'effectifs d'élèves. La situation de la discipline occitan-langue d'oc laisse apparaître un sureffectif important (en octobre 2013, 11 équivalents temps plein soit 8 % de la ressource affectée dans cette discipline). Par ailleurs, un seul départ définitif d'enseignant est prévu d'ici la rentrée 2015. Ainsi, une augmentation du nombre de postes proposés au CAPES conduirait à creuser le déséquilibre entre besoins et ressource enseignante. L'analyse des besoins d'enseignement en occitan-langue d'oc, permettant de déterminer le nombre de postes à proposer aux concours de recrutement, fera l'objet d'un examen attentif lors de la préparation de la session 2015 des concours du second degré public.
