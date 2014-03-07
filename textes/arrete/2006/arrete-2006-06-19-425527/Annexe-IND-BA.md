@@ -634,7 +634,7 @@ Opération n° IND-BA-12
 
 Système de récupération de chaleur
 
-sur une tour aéro-réfrigérante
+sur une tour aéroréfrigérante
 
 1. Secteur d'application :
 
@@ -642,21 +642,25 @@ Industrie.
 
 2. Dénomination :
 
-Mise en place d'un système de récupération de chaleur en amont d'une tour aéro-réfrigérante (TAR) pour le chauffage ou le préchauffage d'eau chaude sanitaire, de fluides de process, d'eau de chauffage ou d'air.
+Mise en place d'un système de récupération de chaleur en amont d'une tour aéroréfrigérante (TAR) pour le chauffage ou le préchauffage d'eau chaude sanitaire, de fluides de process, d'eau de chauffage ou d'air.
 
 3. Conditions pour la délivrance de certificats :
 
-Les systèmes de refroidissement industriel concernés par cette fichesont les suivants :
+Les systèmes de refroidissement industriel concernés par cette fiche sont les suivants :
 
 - TAR humide en circuit fermé ou ouvert (aussi appelée tour de refroidissement) ;
 
-- TAR sèche en circuit fermé ou ouvert (aussi appelée aérocondenseurou dry-cooler) ;
+- TAR sèche en circuit fermé ou ouvert (aussi appelée aérocondenseur ou dry-cooler) ;
 
 - TAR hybride (humide/ sèche) en circuit fermé ou ouvert.
 
-La puissance thermique évacuable à la tour Qtar (kW) doit être inférieure ou égale à 7 MW, en particulier les TAR des centrales de production d'électricité sont exclues du domaine d'application de la fiche.
+La puissance thermique évacuable à la tour doit être inférieure ou égale à 7 MW ; en particulier, les TAR des centrales de production d'électricité sont exclues du domaine d'application.
 
-La puissance thermique évacuable est fournie par une note de calcul ou par la documentation technique du constructeur.
+La puissance thermique évacuable Qtar (kW) est fournie par une note de calcul ou par la documentation technique du constructeur.
+
+La puissance thermique récupérée Qrecup (kW) est fournie par une étude thermique de besoin d'énergie et de dimensionnement de l'échangeur, réalisée par un bureau d'étude ou un professionnel.
+
+Le professionnel atteste que Qrecup < 0, 7*Qtar.
 
 Mise en place réalisée par un professionnel.
 
@@ -670,15 +674,11 @@ Mise en place réalisée par un professionnel.
 
 RÉGIME DE FONCTIONNEMENT
 
-de l'installation
-
-(1) |
+de l'installation (1) |
 
 |
 
-TYPE D'UTILISATION
-
-(2) |
+TYPE D'UTILISATION (2) |
 
 |
 
@@ -706,7 +706,7 @@ Process |
 
 |
 
-Qtar (kW) |
+Qrecup (kW) |
 
 x |
 
@@ -730,7 +730,7 @@ x
 
 |
 
-38 885
+48 606
 
 |
 
@@ -800,9 +800,9 @@ Mixte |
 
 |
 
-Qtar est la puissance thermique évacuable de la tour aéro-réfrigérante en kW.
+Qrecup est la puissance thermique récupérée en kW.
 
-(1) Les régimes horaires mentionnés dans le tableau ci-dessus correspondent au fonctionnement de l'installation de refroidissement et non pas au régime de travail du personnel.
+(1) Les régimes horaires mentionnés dans le tableau ci-dessus correspondent au fonctionnement de l'installation de récupération de chaleur et non pas au régime de travail du personnel.
 
 (2) Le type d'utilisation correspond à celui de la chaleur valorisée récupérée sur la tour aéroréfrigérante.
 
