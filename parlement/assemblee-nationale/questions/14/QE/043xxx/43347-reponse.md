@@ -1,0 +1,9 @@
+# Réponse à la question n° 43347
+
+- Question : [43347](43347.md) — Question n° 43347 — réglementation
+
+## Réponse
+
+*JO du 2014-03-11*
+
+L'article L. 273-9 du code électoral créé par la loi n° 2013-403 du 17 mai 2013 fixe les principes d'établissement de la liste des candidats au conseil communautaire à partir de celle des conseillers municipaux. Le principe général est de partir de la liste des conseillers municipaux tout en permettant ne pas retenir certaines personnes de cette liste, sous réserve de certaines contraintes. Ainsi il est prévu, afin de s'assurer que les conseillers communautaires élus soient nécessairement des conseillers municipaux, que tous les candidats aux sièges de conseiller communautaire doivent figurer au sein des trois premiers cinquièmes de la liste des candidats au conseil municipal. Toutefois, la loi tient compte de la possibilité que le nombre de candidats sur la liste communautaire corresponde à un chiffre supérieur ou égal aux trois cinquièmes de l'effectif municipal en précisant au II de l'article L. 273-9 précité que « Lorsque le nombre de sièges de conseiller communautaire à pourvoir, augmenté en application du 1° du I, excède les trois cinquièmes du nombre de sièges de conseiller municipal à pourvoir, la liste des candidats aux sièges de conseiller communautaire reprend l'ordre de présentation de la liste des candidats au conseil municipal ». Le mémento publié par le ministère de l'intérieur ne fait par conséquent que rappeler cette règle législative en l'illustrant de l'exemple suivant : dans le cas d'un conseil municipal de 19 membres avec 10 conseillers communautaires à élire, la liste des candidats au conseil communautaire comprendra 12 noms, ce qui excède les 3/5e (soit 11). Cette liste devra par conséquent être composée des 12 premiers candidats de la liste municipale.
