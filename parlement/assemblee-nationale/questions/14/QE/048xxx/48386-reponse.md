@@ -1,0 +1,9 @@
+# Réponse à la question n° 48386
+
+- Question : [48386](48386.md) — Question n° 48386 — lutte et prévention
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Le Premier ministre a attribué le label Grande cause nationale 2014 à l'engagement associatif le 14 février dernier. Cette candidature est portée par le « Mouvement associatif », (anciennement Conférence permanente des coordinations associatives, CPCA), qui fédère plus de 600 000 associations réunies autour d'une vingtaine d'organisations thématiques. Ce label permettra au « Mouvement associatif » d'engager une vaste campagne de sensibilisation dans les médias nationaux publics autour de l'engagement associatif afin de valoriser et promouvoir le rôle des associations et de l'engagement bénévole dans notre société. Par cette décision, le Premier ministre a ainsi souhaité soutenir les 16 millions de bénévoles associatifs, auxquels s'ajoutent 1,8 millions de salariés d'une association, engagés dans tous les domaines, dont celui de la santé. Le Premier ministre souligne néanmoins la qualité du dossier de candidature qui était porté par les acteurs associatifs de la lutte contre le diabète, fédérés par la Fédération Française des Diabétiques dans le collectif « Tous contre le diabète ». Le collectif a relevé à juste titre la nécessité d'apporter des réponses concrètes à cette épidémie et à ses complications qui frappent plusieurs millions de personnes, mais restent mal connues de la plupart des Français. Face à cette situation, le Premier ministre réaffirme l'importance d'intégrer pleinement la lutte contre le diabète à la Stratégie nationale de santé afin de renforcer l'information sur le diabète, la prévention et l'accompagnement des personnes concernées.
