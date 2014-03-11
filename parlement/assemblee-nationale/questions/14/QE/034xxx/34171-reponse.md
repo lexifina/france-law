@@ -1,0 +1,9 @@
+# Réponse à la question n° 34171
+
+- Question : [34171](34171.md) — Question n° 34171 — jeunes diplômés; entretien d'embauche; préparation
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Il n'existe pas de préparation spécifique des élèves de lycée d'enseignement général et technologique à la « méthodologie de la candidature à l'emploi » car la finalité des formations qui y sont dispensées n'est pas l'insertion professionnelle immédiate mais la poursuite d'études supérieures. Toutefois, les compétences requises dans le cadre de la recherche d'emploi recoupent des compétences plus générales développées par l'enseignement en lycée. Le travail sur l'expression écrite et orale est largement pris en compte dans le cadre des programmes des différentes disciplines. S'agissant du français, les objectifs du programme visent entre autres à développer chez l'élève : - la maîtrise de la langue pour s'exprimer, à l'écrit comme à l'oral, de manière claire, rigoureuse et convaincante, afin d'argumenter, d'échanger ses idées et de transmettre ses émotions ; - une attitude autonome et responsable, notamment en matière de recherche d'information et de documentation. Les séances d'accompagnement personnalisé, qui concernent tous les lycéens de la classe de seconde à la classe de terminale, sont un autre moment pédagogique permettant de travailler la capacité d'argumentation, l'expression et la communication écrites et orales et la conduite de projets collectifs. Par ailleurs, ces séances comprennent un « volet aide à l'orientation » destiné à aider les élèves à construire leur parcours d'orientation et de formation. En classes de première et de terminale des séries générales et technologiques, des activités de projet comme les travaux personnels encadrés ou les « projets technologiques » développent chez les élèves des qualités susceptibles d'être réinvesties dans la vie professionnelle ultérieure.
