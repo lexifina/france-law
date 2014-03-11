@@ -1,0 +1,9 @@
+# Réponse à la question n° 40836
+
+- Question : [40836](40836.md) — Question n° 40836 — décisions judiciaires; exécution
+
+## Réponse
+
+*JO du 2014-03-11*
+
+A l'expiration du délai fixé par le juge répressif pour procéder à la démolition d'une construction illégale, l'article L. 480-9 du code de l'urbanisme donne la possibilité au maire ou au fonctionnaire compétent de « faire procéder d'office à tous travaux nécessaires à l'exécution de la décision de justice aux frais et risques du bénéficiaire des travaux irréguliers ou de l'utilisation irrégulière du sol ». Le maire ou le fonctionnaire compétent agit alors au nom de l'État (CAA de Paris, 31 décembre 2001, n° 98PA02712 ; voir également, pour une décision ordonnant l'interruption des travaux préalablement à tout jugement : CE, 16 novembre 1992, ville de Paris, n° 96016) et il appartient à l'État, non à la commune, d'avancer le coût des travaux nécessaires à l'exécution de la décision de justice ordonnant la démolition. Pour obtenir le remboursement des frais avancés pour cette démolition, l'État émettra un titre de recettes (voir en ce sens, ministère de l'équipement, circulaire n° 91-07 du 8 mars 1991). L'autorité compétente pour procéder à la démolition d'office n'est pas dispensée du respect des règles de publicité et de mise en concurrence prévues par le code des marchés publics. Toutefois, si le montant estimé du marché est inférieur à 15 000 euros HT, il est possible de se dispenser de publicité et de mise en concurrence préalables, en application du III de l'article 28 du code des marchés publics. Au-delà de 15 000 euros et au-dessous des seuils définis à l'article 26 du code des marchés public, le recours à la procédure adaptée prévue à l'article 28 du code des marchés publics, plus souple et plus rapide, est autorisé.
