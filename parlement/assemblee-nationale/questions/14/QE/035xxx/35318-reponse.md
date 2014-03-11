@@ -1,0 +1,9 @@
+# Réponse à la question n° 35318
+
+- Question : [35318](35318.md) — Question n° 35318 — réglementation
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Les collectivités territoriales disposent d'une liberté de choix du mode de gestion des services publics pour lesquels elles sont compétentes. Comme le rappelle le Conseil d'Etat dans sa décision commune d'Aix-en-Provence du 6 avril 2007, « elles peuvent (...) décider de confier sa gestion à un tiers », dans le cadre d'une délégation de service public, ou « d'en assurer directement la gestion (...) en régie simple ou (...) dans le cadre d'une régie à laquelle elles ont conféré une autonomie financière et, le cas échéant, une personnalité juridique propre ». Dans le cadre d'une régie, qu'elle soit ou non dotée de la personnalité morale, la collectivité de rattachement doit être regardée comme gérant directement le service public et la création d'une régie n'implique en aucun cas dessaisissement de la responsabilité de gestion de la collectivité, comme cela peut être le cas lorsque celle-ci transfère sa compétence à un établissement public de coopération intercommunale. La régie même personnalisée constitue donc une structure de gestion de la collectivité de rattachement sur laquelle elle exerce un contrôle comparable à celui qu'elle exerce sur ses propres services. Dès lors, la nature d'une régie fait obstacle à ce qu'elle décide d'avoir recours à une délégation de service public, dans la mesure où elle n'est pas considérée comme responsable du service public en question. En revanche, les dispositions des articles R. 2221-23 et R. 2221-24 du code général des collectivités territoriales permettent à une régie dotée de la personnalité morale et de l'autonomie financière de passer des marchés publics pour l'obtention de prestations comme la réalisation de travaux ou encore la fourniture de services.
