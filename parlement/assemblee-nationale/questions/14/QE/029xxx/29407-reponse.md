@@ -1,0 +1,9 @@
+# Réponse à la question n° 29407
+
+- Question : [29407](29407.md) — Question n° 29407 — emballages; consigne; mise en place
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Au titre des articles R. 543-63 et R. 543-65 du code de l'environnement, les producteurs, les importateurs ou les personnes responsables de la première mise sur le marché de produits générateurs de déchets d'emballages ménagers ont l'obligation de prendre en charge l'élimination de ces déchets, soit par la contribution à un organisme agréé, soit par la création d'un dispositif de consignation propre. Dans le cas où les metteurs sur le marché préfèrent pourvoir à la gestion des déchets résultant de l'abandon des emballages qu'ils utilisent, l'article R. 543-63 du code de l'environnement prévoit qu'ils doivent soit établir un dispositif de consignation de leurs emballages, soit organiser, pour le dépôt de ces emballages, des emplacements spéciaux. Une grande majorité des producteurs ont choisi de contribuer à un organisme agréé (Eco-Emballages ou Adelphe), la mise en place d'un dispositif de consignation représentant une contrainte organisationnelle et financière lourde. Les dispositifs de consigne sont généralement mis en place soit à des fins de réutilisation des emballages, soit pour en assurer le retour systématique et, ainsi obtenir un meilleur taux de recyclage de ces déchets. La consigne en vue d'une réutilisation des emballages est bien adaptée aux circuits de distribution courts, tels ceux de la restauration. En revanche, le bilan écologique est moins favorable quand les transports sont importants. Enfin, dans certains cas, la mise en place de réglementations liées à l'instauration d'une consigne peut constituer une entrave au bon fonctionnement du marché unique, comme l'a jugé la Cour de justice des communautés européennes. Pour toutes ces raisons, l'établissement d'une consigne obligatoire par la voie réglementaire paraît aujourd'hui fragile et peu opportune.
