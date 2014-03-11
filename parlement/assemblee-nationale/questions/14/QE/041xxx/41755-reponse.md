@@ -1,0 +1,9 @@
+# Réponse à la question n° 41755
+
+- Question : [41755](41755.md) — Question n° 41755 — revendications
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Le décret n° 2011-444 du 21 avril 2011 portant statut particulier du cadre d'emplois des chefs de service de police municipale prévoit à ses articles 3 et 4 que les recrutements des chefs de police municipale sont opérés par voie de concours sur épreuves selon trois modalités : le concours externe ouvert aux candidats titulaires du baccalauréat, ou d'un diplôme homologué au niveau IV, ou d'une qualification reconnue comme équivalente dans les conditions fixées par le décret n° 2007-196 du 13 février, le concours interne et le troisième concours. Par ailleurs, l'article 13 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires précise que « Tous les corps et cadres d'emplois sont accessibles aux fonctionnaires civils régis par le présent titre par la voie du détachement suivi, le cas échéant, d'une intégration, ou par la voie de l'intégration directe, nonobstant l'absence de disposition ou toute disposition contraire prévue par leurs statuts particuliers. [...] et l'article 13 ter de la même loi que "Tous les corps et cadres d'emplois sont accessibles aux militaires régis par le statut général des militaires par la voie du détachement suivi, le cas échéant, d'une intégration, dans les conditions prévues à l'article 13 bis, précisées par décret en Conseil d'Etat". Compte-tenu de la combinaison des articles L. 1111-1 du code général des collectivités territoriales qui indique que "Les communes, les départements et les régions s'administrent librement" et L. 2122-18 du même code qui stipule que "Le maire est seul chargé de l'administration" et qu'à ce titre il est seul compétent pour nommer aux emplois communaux, il n'est pas possible d'imposer aux maires de privilégier un mode de recrutement par rapport à un autre.
