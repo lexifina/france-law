@@ -1,0 +1,9 @@
+# Réponse à la question n° 49798
+
+- Question : [49798](49798.md) — Question n° 49798 — manèges avec poneys; réglementation
+
+## Réponse
+
+*JO du 2014-03-11*
+
+La France s'est dotée, depuis l'année 1976, d'un dispositif législatif et réglementaire important en matière de protection animale, qui est réexaminé et modifié régulièrement, en fonction de l'évolution des connaissances scientifiques et des textes communautaires. Le code rural et de la pêche maritime (CRPM) considère l'animal comme un être sensible et interdit l'exercice de mauvais traitements envers les animaux domestiques ou sauvages, apprivoisés ou tenus en captivité. Le propriétaire d'un animal doit le placer dans des conditions compatibles avec ses impératifs biologiques. Les articles R. 654-1 et 521-1 du code pénal définissent respectivement les sanctions applicables aux auteurs de mauvais traitements, sévices graves ou actes de cruauté envers les animaux, réprimés par des peines pouvant aller jusqu'à 30 500 € d'amende et deux ans de prison. Le contrôle de l'application des textes relatifs à la santé et à la protection animales est assuré notamment par les directions départementales de la protection des populations qui exercent des missions d'inspection sur l'ensemble des activités liées aux animaux, qu'ils soient de compagnie ou d'élevage. Des procès-verbaux sont régulièrement dressés en cas de constatation d'infractions. Le rôle des associations de protection des animaux est par ailleurs particulièrement important car elles peuvent se porter parties civiles pour toute affaire de mauvais traitements envers les animaux. L'article R. 214-85 du CRPM relatif à l'utilisation des animaux dans les spectacles publics et les jeux permet au préfet d'interdire la participation des poneys à ces manèges lorsque ceux-ci peuvent donner lieu à des mauvais traitements.
