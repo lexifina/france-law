@@ -1,0 +1,9 @@
+# Réponse à la question n° 32841
+
+- Question : [32841](32841.md) — Question n° 32841 — revalorisation
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Dans notre système de retraite, les droits à pension sont normalement acquis en contrepartie de cotisations prélevées sur le revenu d'activité et leur montant est largement fonction de l'effort contributif de l'assuré. Le rapport des niveaux de vie moyens entre retraités et actifs affiche en France une quasi parité, avec un taux supérieur à 95 % en 2010. La pauvreté est ainsi en baisse parmi les retraités et plus faible que dans l'ensemble de la population, sous l'effet conjugué de l'amélioration des carrières et des mécanismes de revalorisation des pensions qui participent au maintien d'un haut niveau de remplacement des revenus d'activité par les pensions. L'allocation de solidarité aux personnes âgées (ASPA) est un avantage non contributif accordé, sur demande, aux personnes âgées qui remplissent certaines conditions. Le plafond mensuel de ressources pour bénéficier de l'ASPA ainsi que son montant mensuel maximal s'élèvent, au 1er avril 2013, à 787,26 € par mois pour une personne seule et à 1 222,27 € pour un couple. L'ASPA est donc attribuée comme une allocation différentielle dans la limite du plafond de ressources précité. Le Gouvernement est très attaché à améliorer la situation des retraités modestes. C'est pourquoi l'ASPA sera revalorisée à deux reprises en 2014, le 1er avril et le 1er octobre, et l'aide à la complémentaire santé, destinée aux retraités ayant un revenu inférieur au seuil de pauvreté, sera portée de 500 à 550 euros. Ces deux mesures améliorent donc à la fois le pouvoir d'achat des personnes âgées et leur accès aux soins et traduisent l'engagement du Gouvernement à porter une attention accrue aux publics les plus vulnérables.
