@@ -1,0 +1,9 @@
+# Réponse à la question n° 44003
+
+- Question : [44003](44003.md) — Question n° 44003 — crus; appellation
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Le Gouvernement est très vigilant sur la protection des appellations d'origine, des indications géographiques, des mentions traditionnelles, qui ont été développées, collectivement, et sont liées à l'histoire du vin. La cession et l'usage de marques ou de dénominations commerciales comportant un nom patronymique sont régies par le code de la propriété intellectuelle et le code de la consommation. Le code de la propriété intellectuelle prévoit que le patronyme peut être enregistré à titre de marque, et par conséquent faire l'objet d'une exploitation commerciale. Dès lors, le contrat de cession d'une entreprise et notamment d'une exploitation vitivinicole, peut prévoir que l'acquéreur utilise le patronyme du vendeur. Ce peut être le cas par exemple, dans le cas d'une reprise du domaine par un membre de la même famille, mais ne portant pas le nom du cédant. C'est également le cas de la cession d'une exploitation à une personne sans lien familial avec le vendeur, mais qui reprendrait la marque associée au patronyme du précédent propriétaire, qui fait partie des actifs immatériels attachés à la société cédée. De la même manière, un patronyme peut être utilisé dans une dénomination commerciale, et faire l'objet de cessions. Ces cessions doivent respecter les règles générales de protection du consommateur, et ne pas laisser entendre, par des pratiques autres que celle de l'utilisation du nom, au consommateur que la personne dont le patronyme est utilisé participe, d'une manière ou d'une autre, à la production des vins de cette exploitation. L'appréciation du caractère trompeur ou confusionnel de l'utilisation d'un nom dans ces conditions ne peut se faire qu'au cas par cas, et par une analyse approfondie, menée par le juge.
