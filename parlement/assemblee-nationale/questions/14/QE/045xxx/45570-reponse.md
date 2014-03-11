@@ -1,0 +1,9 @@
+# Réponse à la question n° 45570
+
+- Question : [45570](45570.md) — Question n° 45570 — construction; bilan
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Au niveau national, 136 209 logements locatifs sociaux (LLS) ont été financés en 2013, dont 117 065 en métropole hors Agence nationale pour la rénovation urbaine (ANRU), 12 097 en zone ANRU et 7 047 dans les départements d'outre-mer. En France métropolitaine la hausse du nombre de logements sociaux financés est de 14 % en comparaison avec le bilan de fin de gestion de l'année 2012. Sur les 117 065 LLS concernés, dont 88 % d'entre eux en construction neuve (soit une progression de 2 % par rapport au taux de fin 2012), on dénombre 84 522 logements financés en PLUS ou PLAI. Parmi ces LLS, sont ainsi comptabilisés 25 % de PLAI (contre 23 % en 2012), 47 % de PLUS et 28 % de PLS. La répartition de ces 117 065 LLS financés en France est la suivante : - 87 171 logements sont destinés aux ménages ordinaires, soit 74 % du nombre total de LLS ; - 10 428 logements pour les personnes âgées, soit 9 % du nombre total de LLS ; - 9 673 logements sont quant à eux dédiés aux autres publics en résidence sociale, foyers de travailleurs migrants inclus, soit 8 % du nombre total de LLS ; - 7 754 logements étudiants, soit 7 % du nombre total de LLS ; - 2 039 logements pour personnes handicapées, soit 2 % du nombre total de LLS. Concernant l'ANRU, est constatée une baisse de 12,5 % du nombre de logements financés : 12 097 en 2013 contre 13 809 LLS en 2012, cohérente avec le rythme d'achèvement du programme national. Cet accroissement du financement annuel des LLS, nécessaire au soutien de la construction de logements sociaux en France, a été en grande partie permis par les organismes HLM, puisque ces derniers en ont été responsables à 89,1 % (contre 87,6 % en 2012).
