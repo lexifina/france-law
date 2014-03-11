@@ -1,0 +1,9 @@
+# Réponse à la question n° 49570
+
+- Question : [49570](49570.md) — Question n° 49570 — conseil stratégique; composition
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Le décret n° 2013-943 du 21 octobre 2013 relatif au conseil stratégique de la recherche prévoyait effectivement dans son article 3 que, le conseil stratégique de la recherche comprend de seize à vingt-quatre membres, répartis à nombre égal d'hommes et de femmes de la façon suivante : - treize à vingt et une personnalités qualifiées représentant la recherche, l'économie et l'innovation, dont deux au moins exerçant ou ayant exercé leur activité hors de France ; - un membre du bureau de l'association des régions de France, désigné par son président ; - un député et un sénateur désignés par l'office parlementaire d'évaluation des choix scientifiques et technologiques. Le nombre de personnalités prévu à l'alinéa 1 de l'article 3 a été porté de « treize à vingt-trois » par le décret n° 2014-74 du 29 janvier 2014, augmentant ainsi le nombre maximum de membres du conseil stratégique de la recherche de vingt-quatre à vingt-six personnes. En effet, en renforçant le nombre de personnalités qualifiées de haut niveau représentant les grands secteurs de la recherche et du monde économique, la ministre de l'enseignement supérieur et de la recherche a voulu s'assurer que le conseil stratégique de la recherche dispose des meilleures conditions pour mener à bien ses missions. Compte tenu des premières personnalités qualifiées pressenties ainsi que des désignations effectuées par l'association des régions de France et par l'office parlementaire des choix scientifiques et technologiques, il a été nécessaire de faire passer le nombre de membres du conseil stratégique de la recherche à son nombre maximum afin que soient rigoureusement respectées la règle de la parité prévue dans le décret.
