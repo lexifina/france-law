@@ -1,0 +1,9 @@
+# Réponse à la question n° 30805
+
+- Question : [30805](30805.md) — Question n° 30805 — gibier d'eau; moratoires
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Lors de la réunion du Conseil national de la chasse et de la faune sauvage (CNCFS) du 6 juin 2013 a été examiné un projet d'arrêté visant à reconduire le moratoire sur la chasse pour deux espèces : la barge à queue noire et le courlis cendré (hors domaine public maritime pour cette seconde espèce). La barge à queue noire est en mauvais état de conservation à l'échelle européenne. Un plan de gestion international a été adopté au titre de l'Accord international sur les oiseaux d'eau d'Afrique et d'Eurasie (AEWA) en 2008 pour une durée de 10 ans, qui préconise un moratoire de la chasse de la barge à queue noire dans les États concernés par l'Accord, dont la France. Les autres pays européens ont ainsi progressivement supprimé la chasse de cette espèce. La France met en oeuvre cette disposition depuis 2008. En ce qui concerne le courlis cendré, cette espèce est classée dans la catégorie des espèces « quasi menacées » de la liste rouge de l'Union internationale pour la conservation de la nature (UICN), pour lesquelles une action internationale est appropriée. À l'inverse, pour ce qui concerne l'eider à duvet, il n'y a pas de grands enjeux en termes de conservation des populations pour cette espèce peu présente en France et qui fait l'objet de prélèvements infimes. Le moratoire sur la chasse de cette espèce a déjà été suspendu en 2012 et ne sera pas rétabli. Aucun moratoire n'a été mis en place sur la chasse du vanneau huppé. La date d'ouverture de sa chasse est fixée à la date d'ouverture générale. La poursuite des moratoires sur la chasse de la barge à queue noire et du courlis cendré s'accompagnera d'études et de suivi pour permettre une évaluation de l'effet des moratoires.
