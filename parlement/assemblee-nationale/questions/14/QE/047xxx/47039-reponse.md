@@ -1,0 +1,9 @@
+# Réponse à la question n° 47039
+
+- Question : [47039](47039.md) — Question n° 47039 — nécessiteux; concessions funéraires; réglementation
+
+## Réponse
+
+*JO du 2014-03-11*
+
+En application de l'article L. 2223-13 du code général des collectivités territoriales, les communes ont la faculté de concéder des sépultures dans leurs cimetières « aux personnes qui désirent y fonder leur sépulture et celles de leurs enfants ou successeurs, en y inhumant cercueils ou urnes ». L'octroi de ces concessions relève de la compétence des conseils municipaux qui, conformément à l'article L. 2122-22 du code précité, choisissent fréquemment de déléguer cette compétence au maire. Une concession funéraire est délivrée par arrêté municipal. Le juge administratif a précisé que ces arrêtés ont valeur de contrat administratif liant la collectivité concédante à une ou plusieurs personnes physiques. Dès lors, il n'est pas envisageable pour une association - et plus largement pour une personne morale - d'être désignée en qualité de titulaire d'une concession funéraire. Conformément à l'article L. 2223-27 du même code, les funérailles des personnes dépourvues de ressources suffisantes sont prises en charge par les communes. Les inhumations sont réalisées en terrain commun, pour une durée égale au délai de rotation fixé dans le règlement intérieur du cimetière, qui ne peut être inférieur à cinq années. Il est également possible de faire procéder à une crémation en l'absence d'opposition attestée ou connue du défunt ou, a fortiori, lorsque ce dernier en avait exprimé la volonté. Ce dispositif permet d'assurer dans des conditions satisfaisantes la prise en charge des personnes décédées sans héritiers, sans domicile fixe ou dans toute autre situation ne leur permettant pas d'assurer elles-mêmes l'organisation et le financement de leurs obsèques. En conséquence, le Gouvernement n'envisage pas de modifier la réglementation funéraire sur cette question.
