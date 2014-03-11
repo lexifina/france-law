@@ -1,0 +1,9 @@
+# Réponse à la question n° 11329
+
+- Question : [11329](11329.md) — Question n° 11329 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2014-03-11*
+
+L'article L. 1211-4 du code général des collectivités territoriales (CGCT) dispose que « le comité des finances locales (CFL) a pour mission de fournir au Gouvernement et au Parlement les analyses nécessaires à l'élaboration des dispositions du projet de loi de finances intéressant les collectivités locales ». « Il établit chaque année, sur la base des comptes administratifs, un rapport sur la situation financière des collectivités locales ». « Dans un cadre pluriannuel, il a la charge de la réalisation d'études sur les facteurs d'évolution de la dépense locale. Les résultats de ces études font l'objet d'un rapport au Gouvernement ». « Les missions mentionnées au présent article peuvent être exercées par une formation spécialisée du comité, dénommée observatoire des finances locales et comportant des représentants de toutes ses composantes. Les membres sont désignés par le président du comité ». Le budget s'est établi en 2012 à 58 237,81 €. Il comprend des dépenses de fonctionnement pour 12 083,97 € (production de 2 400 rapports sur la situation financière des collectivités locales) et la rémunération d'un poste de contractuel pour 46 153,84 €. Le rapport annuel constitue une publication de référence pour l'analyse des relations financières entre l'Etat et les collectivités territoriales. Il permet d'informer utilement les élus locaux et de nourrir les échanges entre l'Etat et les représentants des collectivités territoriales, notamment dans le cadre du CFL. Il est l'un des rares rapports de ce type qui traduise l'analyse de l'ensemble des élus locaux représentés au CFL sur l'évolution des finances locales. Cette analyse est indispensable dans le contexte actuel.
