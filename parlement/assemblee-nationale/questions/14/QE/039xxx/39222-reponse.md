@@ -1,0 +1,9 @@
+# Réponse à la question n° 39222
+
+- Question : [39222](39222.md) — Question n° 39222 — inscription; réglementation
+
+## Réponse
+
+*JO du 2014-03-11*
+
+En application de l'article L. 11 du code électoral, il convient pour être inscrit sur la liste électorale d'une commune de justifier d'une attache suffisante avec celle-ci. Celle-ci peut résulter soit d'un domicile ou d'une résidence depuis six mois dans la commune, soit de la qualité de contribuable depuis au moins cinq ans. La réalité du domicile ou de la résidence peut être apportée par tous moyens propres à emporter la conviction de la commission administrative chargée de la révision des listes électorales. Les personnes résidant sur un bateau ont la possibilité de s'inscrire sur la liste électorale de la commune où elles ont leur point d'ancrage. Outre les justificatifs habituels attestant de leur identité et de leur nationalité, elles peuvent joindre à leur demande tout document, facture, quittance ou avis d'imposition, libellé à leur nom et indiquant le lieu du point d'ancrage. Un contrat de poste d'accostage, ou d'amodiation, peut être considéré comme un justificatif attestant de leur attache avec la commune. Cependant, ce document doit emporter la conviction de la commission administrative qui est seule souveraine, sous le contrôle du juge d'instance, pour apprécier si ce type de contrat peut être considéré comme un justificatif suffisant. Les personnes résidant sur un bateau ne peuvent en revanche bénéficier des dispositions de l'article L. 15 du code électoral que si cette résidence résulte de leur activité professionnelle, tels les mariniers et les membres de leur famille. Ces derniers doivent non seulement justifier de leur identité, de leur nationalité, mais également de leur activité de marinier (contrat de travail, bulletins de salaires, attestation de l'employeur) et de leur inscription dans une région de rattachement.
