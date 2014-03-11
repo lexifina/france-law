@@ -1,0 +1,9 @@
+# Réponse à la question n° 30414
+
+- Question : [30414](30414.md) — Question n° 30414 — soutien de l'État; propositions
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Pour pallier le déficit quantitatif ou qualitatif constaté en matière d'habitat dans certaines zones tendues du territoire, un plan d'investissement pour le logement a été présenté par le Président de la République le 21 mars 2013. Outre des propositions pour soutenir le secteur économique du bâtiment, fort pourvoyeur d'emplois non délocalisables, et pour favoriser la rénovation énergétique du parc existant, de par les enjeux écologiques, sociaux et économiques qui y sont liés, une grande partie des mesures envisagées dans ce plan est destinée à relancer la construction de nouveaux logements. En effet, un premier volet de ce plan a pour objet de lever les freins à l'aboutissement de projets de construction de logements, par exemple en raccourcissant les délais de procédure des grosses opérations, en luttant contre les recours malveillants, en favorisant la densité en zone tendue, en favorisant le développement du logement intermédiaire, segment de marché qui concentre une forte demande aujourd'hui. Un second ensemble de mesures du plan d'investissement pour le logement a vocation à relancer la réalisation de nouveaux projets de construction, notamment au travers de la mobilisation de financements exceptionnels et de dispositions fiscales en faveur de la production de logements sociaux, de la modification du régime d'imposition des plus-values immobilières, de la simplification des normes et des règles pour limiter les coûts de construction. Le plan d'investissement pour le logement, qui est mis en oeuvre progressivement au travers d'ordonnances et de la loi de finances pour 2014, traduit ainsi une orientation très marquée en faveur de la construction de logements.
