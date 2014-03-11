@@ -1,0 +1,9 @@
+# Réponse à la question n° 41751
+
+- Question : [41751](41751.md) — Question n° 41751 — tests de grossesse; internet et grande distribution; réglementation
+
+## Réponse
+
+*JO du 2014-03-11*
+
+Cet amendement adopté avec l'avis favorable du Gouvernement propose de déspécialiser la vente des autotests de grossesse et d'ovulation. La ministre des affaires sociales et la de santé s'est montrée favorable à cette disposition pour trois raisons. Tout d'abord, il ne remet pas en cause les exigences de sécurité du produit. La réglementation communautaire les a dotés d'un régime juridique parfaitement défini. Pour être commercialisés, les tests de grossesse doivent obtenir une certification attestant leurs performances et leur conformité aux exigences de sécurité posées par la réglementation européenne. La vente dans les grandes surfaces ne se traduit pas par une dégradation des exigences de qualité et de sécurité applicables à ces produits. Par ailleurs, la personne qui le souhaite conserve tout à fait la possibilité de les acheter en pharmacie. Ensuite, la mesure permet de faciliter l'accès aux tests, en proposant des points de vente supplémentaires et des amplitudes horaires différentes. Une offre plus étendue permettra d'inciter les jeunes femmes à s'informer de leur état au plus tôt et à adopter ainsi dans les meilleurs délais toute décision ou tout comportement adapté. Enfin, cette mesure tient compte du souci d'anonymat des jeunes filles et des femmes en leur permettant, si elles le souhaitent, de procéder à cet achat plus anonymement. La vente dans des établissements de grande distribution permet cette discrétion sans remettre en cause la sécurité des produits et des femmes qui les utiliseront. La ministre des affaires sociales et de la santé tient à rappeler combien, pour les femmes, le droit à disposer librement de son corps est primordial. Il est la première pierre posée dans le combat pour l'égalité face à la sexualité.
