@@ -1,0 +1,9 @@
+# Réponse à la question n° 36921
+
+- Question : [36921](36921.md) — Question n° 36921 — étudiants
+
+## Réponse
+
+*JO du 2014-03-11*
+
+La caution locative étudiante (CLE) est lancée à titre expérimental pour des baux souscrits jusqu'au 31 décembre 2013. Sont attendus environ 1000 bénéficiaires pour cette première campagne. Le dispositif peut d'ores et déjà bénéficier à tous les étudiants : - disposant de revenus mais ne pouvant présenter de caution familiale, amicale ou bancaire ; - cherchant à se loger dans les académies où le marché immobilier est tendu : Lille, Paris, Créteil, Versailles, Lyon, Grenoble, Aix-Marseille, Nice ; - âgés de moins de 28 ans au 1er septembre de l'année de signature du bail ; - âgés de plus de 28 ans au 1er septembre de l'année de signature du bail sous réserve d'être post doctorants de nationalité étrangère, (doctorat obtenu depuis moins de 6 ans, occupant un poste de chercheur non titulaire au sein d'une unité ou laboratoire de recherche dans le cadre d'un contrat à durée déterminée). Pendant cette période expérimentale, les dossiers remplissant ces conditions seront traités par ordre d'arrivée. La garantie est personnelle. Si le logement est loué en colocation, chaque colocataire doit faire une demande de garantie et satisfaire à ces conditions. La demande de CLE s'effectue directement depuis le site Lokaviz dépendant du réseau des oeuvres universitaires. Les logements qui pourront en bénéficier devront respecter les critères du logement décent et être proposés à des loyers abordables. Le financement du fonds de garantie est assuré par les cotisations des étudiants bénéficiaires et les apports des partenaires, soit 600k€ (à part égale entre Etat et caisse des dépôts et consignations (CDC)) qui constituent le fonds de garantie initiale. L'extension du dispositif est envisagée dès l'année 2014 à tout le territoire.
