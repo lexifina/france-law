@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203658
+
+- Question : [SEQ121203658](seq121203658.md) — Renforcement des contrôles des personnels des entreprises de sécurité privée
+
+## Réponse
+
+*Intérieur, JO du 2014-03-13, page 708*
+
+Le livre VI du code de la sécurité intérieure règlementant les activités privées de sécurité prévoit notamment la réalisation d'enquêtes administratives pour la délivrance de plusieurs autorisations : l'agrément du dirigeant, gérant ou associé d'une entreprise de sécurité privée ou d'une agence de recherches privées, l'autorisation préalable ou provisoire pour les personnes en formation dans la sécurité privée et la carte professionnelle pour les agents exerçant des activités privées de sécurité ou des activités de recherches privées. Le livre VI du code de la sécurité intérieure fait actuellement l'objet d'une réflexion afin de prendre en compte l'apparition de nouveaux métiers, les évolutions de la structuration du secteur et la spécialisation de certaines activités. Il s'agit d'assurer un équilibre entre la nécessité de professionnaliser et de clarifier le statut juridique de ces activités et celle de respecter la liberté de travailler et d'entreprendre. En raison de l'accès des personnes travaillant dans les entreprises de sécurité privées aux informations sensibles en lien avec la sécurité, il n'est pas exclu que certaines fonctions supplémentaires fassent, à l'avenir, l'objet d'un contrôle de moralité. Cependant, afin de concilier garantie des libertés individuelles et impératifs de sécurité, si la professionnalisation du secteur de la sécurité privée apparaît un objectif prioritaire, elle ne doit raisonnablement pas conduire à la multiplication des procédures d'autorisations d'accès à certaines professions. Il est important de ne prévoir de telles enquêtes que lorsqu'elles sont strictement nécessaires.
