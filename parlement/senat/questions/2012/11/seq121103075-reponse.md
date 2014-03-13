@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121103075
+
+- Question : [SEQ121103075](seq121103075.md) — Codification : refonte du code électoral
+
+## Réponse
+
+*Intérieur, JO du 2014-03-13, page 707*
+
+Le processus de refonte des textes électoraux, entamé depuis plusieurs années et mené à bien par le ministère de l'intérieur en étroite collaboration avec la commission supérieure de codification, comporte une particularité qui conditionne l'adoption d'un nouveau code électoral. En effet, une loi organique spécifique est nécessaire pour codifier la part importante des textes électoraux de nature organique (en volume, approximativement un cinquième de l'ensemble). Pour autant, ce constat ne justifie pas le dépôt d'un projet de loi ordinaire comportant toutes les autres dispositions législatives : celles-ci pourraient en effet être codifiées à droit constant par voie d'ordonnance. Il paraît donc préférable de procéder en deux étapes, la première habilitant le Gouvernement à opérer une première codification par voie d'ordonnance prise en application de l'article 38 de la Constitution. Celle-ci entrerait en vigueur en même temps que la seconde étape, constituée par l'adoption du dispositif organique et la ratification de l'ordonnance. C'est sur le principe de cette démarche que s'est prononcée favorablement la Commission supérieure de codification par son avis du 21 juin 2011, non sans méconnaître les difficultés d'un tel calendrier. La treizième législature s'est achevée sans que ce programme puisse se concrétiser. Dans son rapport d'activité de l'année 2011, la Commission n'en a pas moins souligné la nécessité d'aboutir à cette refonte des textes électoraux. Il s'agit désormais de rendre compatible cet objectif avec l'ordre du jour des assemblées pour convenir, en accord avec ces dernières, du support législatif qui autoriserait la première étape de ce processus.
