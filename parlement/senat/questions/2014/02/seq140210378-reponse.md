@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210378
+
+- Question : [SEQ140210378](seq140210378.md) — Renégociation des contrats d'exploitation d'uranium d'Areva au Niger
+
+## Réponse
+
+*Affaires étrangères, JO du 2014-03-13, page 693*
+
+Les discussions entre le groupe Areva et les autorités nigériennes pour le renouvellement des conventions d'exploitation des deux mines Cominak et Somair se poursuivent. Les deux parties sont à la recherche d'un accord qui devra prendre en compte les demandes légitimes du Niger, qui a besoin de ressources fiscales pour financer son développement - essentiel pour la stabilité du Sahel -, tout en étant compatible avec la viabilité économique de l'exploitation des mines. Dans cette perspective, un audit des coûts de production a été réalisé à la demande des deux parties. Les discussions progressent sur cette base. Elles relèvent de la responsabilité de l'entreprise et des autorités nigériennes. Les autorités françaises ne prennent pas part aux discussions. Elles en suivent néanmoins le progrès et en souhaitent l'aboutissement le plus rapidement possible. Par ailleurs, la France entretient avec le Niger un partenariat solide, qui s'est illustré par la mise en place d'un dialogue stratégique franco-nigérien, dont la première session s'est tenue le 3 mai 2013, à Paris. Le Niger figure, en outre, parmi les pays prioritaires du dispositif français d'aide au développement, comme en atteste la signature du document cadre de partenariat (2013 - 2016), entre le ministre des affaires étrangères et son homologue du Niger, le 25 novembre 2013 à Paris. Ce document, qui fixe les priorités de la coopération civile française dans les années à venir, correspond à un effort financier de plus de deux cents millions d'euros en faveur du Niger, sur une période de quatre ans. Cet engagement exceptionnel témoigne de l'attachement de la France au développement économique et à la stabilité du Niger.
