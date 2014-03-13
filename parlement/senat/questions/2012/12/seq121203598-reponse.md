@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203598
+
+- Question : [SEQ121203598](seq121203598.md) — Déplacement des jardins du souvenir
+
+## Réponse
+
+*Intérieur, JO du 2014-03-13, page 708*
+
+La translation des cimetières est encadrée par les articles L. 2223-6 à L. 2223-8 et R. 2223-10 du code général des collectivités territoriales qui prévoient notamment l'interdiction de faire usage du cimetière fermé pendant cinq ans et la possibilité de ne l'aliéner qu'après dix années à compter de la dernière inhumation. En l'absence de renvoi, ces articles ne sont cependant pas applicables à la translation des sites cinéraires. S'agissant de la translation des sites cinéraires, le décret n° 2011-121 du 28 janvier 2011 relatif aux opérations funéraires a introduit un nouvel article R. 2223-23-1 dans le code précité. Il prévoit qu'en cas de translation du site cinéraire, les titulaires des emplacements sont en droit d'obtenir, dans le nouveau site cinéraire, un emplacement répondant à des caractéristiques identiques. Cet article a transposé aux sites cinéraires les principes applicables aux concessions en cas de translation de cimetière posés par l'article R. 2223-10 du code précité. Dans ce cadre, et en l'absence d'autres dispositions spécifiques, la commune peut décider de la manière dont elle va procéder à la translation des sites cinéraires d'un cimetière à un autre ou au déplacement d'un tel site au sein du même cimetière sous réserve qu'il n'y ait pas d'atteinte à l'ordre public et que les dispositions de l'article 16-1-1 du code civil prévoyant que « les restes des personnes décédées, y compris les cendres de celles dont le corps a donné lieu à crémation, doivent être traités avec respect, dignité et décence » soient respectées. Au vu des dispositions précitées, il n'est pas envisagé de modifier la réglementation en vigueur en ajoutant une contrainte supplémentaire qui pèsera sur les communes.
