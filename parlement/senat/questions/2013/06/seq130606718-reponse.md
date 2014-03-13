@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130606718
+
+- Question : [SEQ130606718](seq130606718.md) — Conditions de retrait de délégation à un adjoint
+
+## Réponse
+
+*Intérieur, JO du 2014-03-13, page 712*
+
+Le maire a toute liberté pour décider de déléguer ses fonctions. L'article L. 2122-18 du code général des collectivités territoriales reconnaît cependant aux adjoints un droit de priorité par rapport aux autres membres du conseil municipal. Le maire peut donc déléguer une partie de ses fonctions aux adjoints et « en l'absence ou en cas d'empêchement des adjoints ou dès lors que ceux-ci sont tous titulaires d'une délégation, à des membres du conseil municipal ». En outre, le dernier alinéa de l'article précité, dispose que le conseil municipal doit se prononcer sur le maintien ou non dans ses fonctions d'un adjoint dépourvu de délégation. Aux termes de ces dispositions, le Conseil d'État estime donc dans son avis n° 031537 du 14 novembre 2012, que si le conseil municipal se prononce contre le maintien dans ses fonctions de l'adjoint en question, les délégations attribuées aux conseillers municipaux peuvent être maintenues. En revanche, si le conseil municipal se prononce pour le maintien, « le maire est tenu de retirer sans délai les délégations attribuées à des conseillers municipaux, sauf à conférer à l'adjoint une nouvelle délégation », auquel cas le juge administratif constatera la méconnaissance du droit de priorité des adjoints. Aucune modification du code général des collectivités territoriales n'est envisagée qui pourrait remettre en cause l'interprétation du Conseil d'État, qui précise à la fois le pouvoir du conseil municipal pour se prononcer sur le maintien dans ses fonctions d'un adjoint au maire lorsque le maire lui retire ses délégations et le droit de priorité des adjoints dans les délégations données par le maire.
