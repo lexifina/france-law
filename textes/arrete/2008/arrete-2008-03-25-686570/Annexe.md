@@ -146,7 +146,7 @@ Adjoint au chef de bureau en administration centrale.
 
 |
 
-Officier de sécurité civile auprès du haut commissaire de la Nouvelle-Calédonie.
+Officier faisant fonction de chef d'état-major de zone en Nouvelle-Calédonie
 
 |
 
@@ -159,6 +159,8 @@ Officier de sécurité civile auprès du haut commissaire de la Nouvelle-Calédo
 |
 
 |
+
+Directeur adjoint de la protection civile de la Polynésie française
 
 Chef de bureau en état-major de zone ou dans un service déconcentré.
 
