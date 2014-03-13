@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130204814
+
+- Question : [SEQ130204814](seq130204814.md) — Caractéristiques de l'espace de dispersion des cendres des défunts et modalités de gestion de celui-ci
+
+## Réponse
+
+*Intérieur, JO du 2014-03-13, page 710*
+
+La loi n° 2008-1350 relative à la législation funéraire, promulguée le 19 décembre 2008, a conféré aux cendres issues de la crémation du corps d'une personne décédée un statut et une protection comparables à ceux accordés à un corps inhumé. S'agissant de la dispersion des cendres, celle-ci peut, en vertu de l'article L. 2223-18-2 du code général des collectivités territoriales, avoir lieu dans un espace aménagé à cet effet d'un cimetière ou d'un site cinéraire ou en pleine nature, sauf sur les voies publiques. En vertu de l'article 16-1-1 du code civil, les cendres doivent être traitées avec « respect, dignité et décence ». Le code général des collectivités territoriales ne définit pas les caractéristiques de l'espace de dispersion afin que chaque commune puisse librement déterminer la manière dont elle souhaite l'aménager et le gérer. Le maire étant tenu d'assurer le maintien de l'ordre et de la décence dans les cimetières en application de l'article L. 2213-9 du code général des collectivités territoriales, il doit prendre toutes les mesures nécessaires permettant de la garantir. Dans le cadre de ses pouvoirs de police, il peut prévoir dans le règlement du cimetière des dispositions sur les modalités de la dispersion des cendres, la surveillance de cette opération par un agent du cimetière et les mesures visant à assurer le bon entretien des espaces considérés. Au vu des dispositions précitées et dans le respect des engagements du Gouvernement à lutter contre la prolifération des normes, il n'est pas envisagé de modifier la réglementation en vigueur à l'égard des communes.
