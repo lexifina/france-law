@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209639
+
+- Question : [SEQ131209639](seq131209639.md) — Cotisation foncière des entreprises
+
+## Réponse
+
+*Économie et finances, JO du 2014-03-13, page 699*
+
+L'article L. 135 B du livre des procédures fiscales définit les dérogations à la règle du secret professionnel et les informations qui peuvent être transmises aux collectivités locales et à leurs groupements dotés d'une fiscalité propre. Le chiffre d'affaires des redevables est absent de cette liste. Toutefois, pour répondre au besoin accru des collectivités locales en matière d'information financière et fiscale, la direction générale des finances publiques (DGFiP) entretient une concertation régulière et étroite avec les principales associations d'élus locaux sur la nature et les modalités de transmission des informations de nature fiscale aux collectivités locales. Des réunions de concertation avec ces associations sont organisées deux fois par an, pour échanger notamment sur les moyens d'améliorer l'information des élus locaux en matière fiscale. Ainsi, dès le mois de novembre 2013, les services de la DGFiP ont transmis aux collectivités locales une première estimation par tranche de chiffres d'affaires du nombre de contribuables entrant dans le champ d'application de la base minimum à partir des données du fichier de taxation de la cotisation foncière des entreprises de 2013. Au cours du mois de janvier 2014, le nombre d'établissements soumis à la base minimum par tranche de chiffres d'affaires apparaîtra désormais sur les états récapitulatifs des bases prévisionnelles n° 1081 CFE-A de 2014 qui seront transmis aux collectivités locales, par tranches de chiffres d'affaires prévues dans le projet de loi de finances pour 2014. L'amélioration de l'information des collectivités locales dans le respect des limites réglementaires est donc par principe une priorité confirmée des services fiscaux.
