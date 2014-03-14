@@ -2630,7 +2630,7 @@ Activité > seuil 2
 
 |
 
-Tarifs des forfaits techniques des IRM au 1er juillet 2014 (2)
+Tarifs des forfaits techniques des IRM au 1er janvier 2014 (2)
 
 CLASSE D'APPAREILS selon la PUISSANCE de l'aimant (en tesla)
 
@@ -2958,7 +2958,7 @@ Activité > seuil 2
 
 |
 
-Tarifs des forfaits techniques des IRM au 1er juillet 2015 (2)
+Tarifs des forfaits techniques des IRM au 1er janvier 2015 (2)
 
 CLASSE D'APPAREILS selon la PUISSANCE de l'aimant (en tesla)
 
