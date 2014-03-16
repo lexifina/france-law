@@ -4,7 +4,7 @@ Modalités d'évaluation et d'obtention des compétences restant à acquérir po
 
 Les compétences restant à acquérir sont :
 
-- le module n° 1 du capitaine 200 prévu par l'arrêté du 25 avril 2005 susvisé, d'une durée de 93 heures ;
+- le module n° 1 du capitaine 200 prévu par l'arrêté du 25 avril 2005 susvisé, d'une durée de 95 heures ;
 
 - le cours de " Description entretien du navire - stabilité " du module n° 2 du capitaine 200 prévu par l'arrêté du 25 avril 2005 susvisé, d'une durée de 24 heures ;
 
@@ -20,6 +20,6 @@ Le module n°2 est réputé acquis après avoir obtenu une note moyenne au moins
 
 Le module n°3 est réputé acquis après avoir obtenu une note moyenne au moins égale à 10 sur 20 à l'épreuve pratique d' " électricité .
 
-Les épreuves des modules n° 2 et 3 ci-dessus citées sont organisées par les autorités mentionnées à l'article 21 du décret du 25 mai 1999 susvisé.
+Les épreuves des modules n°2 et 3 ci-dessus citées sont organisées par les autorités mentionnées à l'article 21 du décret du 25 mai 1999 susvisé.
 
 Pour être autorisés à se présenter à ces épreuves, les candidats doivent avoir suivi la formation correspondante.
