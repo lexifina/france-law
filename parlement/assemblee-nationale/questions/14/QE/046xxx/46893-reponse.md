@@ -1,0 +1,9 @@
+# Réponse à la question n° 46893
+
+- Question : [46893](46893.md) — Question n° 46893 — dettes fiscales; remise; organes de presse; modalités
+
+## Réponse
+
+*JO du 2014-03-18*
+
+La Société Nouvelle du Journal l'Humanité (SNJH) bénéficiait depuis 2009 d'un prêt du fonds pour le développement économique et social (FDES) d'un montant de 4,1 M€, à la suite du réaménagement de prêts FDES précédemment octroyés en 2001 et 2002. Dans le contexte général de difficultés structurelles du secteur de la presse auquel le député fait référence, le quotidien l'Humanité présente en effet des résultats financiers très dégradés alors même qu'il ne possède plus d'actif depuis la vente, fin 2009, de son siège historique. Dans ces conditions, et après s'être assuré que l'ensemble des leviers existants pour viabiliser le paiement de cette créance avaient bien été épuisés avant d'en arriver à l'abandon de créance, le Gouvernement a préféré effacer cette dernière, compte tenu de l'importance de la voix et de l'histoire de l'Humanité dans le paysage médiatique national. Comme d'autres titres, l'Humanité concourt de façon singulière au pluralisme de la presse écrite nationale. En réponse à la question plus générale du député, la ministre de la culture et de la communication tient à souligner que la politique du Gouvernement en matière de préservation de la diversité d'opinion de la presse ne relève d'aucune considération partisane. C'est un point sur lequel il existe une grande continuité au sein des différents gouvernements qui, quelle que soit leur majorité, ont eu le souci de veiller au pluralisme dans l'ensemble de ses composantes. Le pluralisme des médias, et notamment de la presse écrite, est en effet un objectif de rang constitutionnel, comme ont pu le souligner les jurisprudences du Conseil constitutionnel et du Conseil d'État.
