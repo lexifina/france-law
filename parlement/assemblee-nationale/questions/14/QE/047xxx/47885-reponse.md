@@ -1,0 +1,9 @@
+# Réponse à la question n° 47885
+
+- Question : [47885](47885.md) — Question n° 47885 — licences dites suspendues; suppression; perspectives
+
+## Réponse
+
+*JO du 2014-03-18*
+
+Dans le cadre de l'harmonisation des cursus d'enseignement supérieur européens, le maintien d'une troisième année de licence (L3) dite « suspendue » n'apparaît pas possible. Le cadre légal du LMD (licence master doctorat) impose en effet soit de proposer une licence complète, sur six semestres, avec un recrutement des étudiants dès la 1re année de licence (L1), soit un parcours L3 au sein d'une licence complète plus large. C'est pourquoi, depuis plusieurs années, les licences dites « suspendues » sont progressivement remplacées par des parcours intégrés au sein de licences « complètes ». De telles évolutions s'inscrivent d'ailleurs pleinement dans le principe de spécialisation progressive fixé par la loi n° 2013 - 660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche, et détaillé dans l'arrêté du 22 janvier 2014 fixant le cadre national des formations conduisant à la délivrance des diplômes nationaux de licence, de licence professionnelle et de master. Les étudiants peuvent ainsi construire leur parcours de formation au fur et à mesure de la maturation de leur projet personnel et professionnel, et choisir, à différents stades de leur cursus de licence, entre plusieurs parcours-types. En outre, la constitution d'une nomenclature des mentions de diplômes, fixée, pour la licence, par arrêté du 22 janvier 2014, qui permet une plus grande lisibilité de l'offre de formation supérieure, amène les universités à revoir leur offre de formation et les articulations entre parcours-types. L'évolution des licences « suspendues » s'inscrit donc dans cette réflexion globale menée par les universités.
