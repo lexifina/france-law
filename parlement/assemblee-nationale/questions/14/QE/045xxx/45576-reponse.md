@@ -1,0 +1,9 @@
+# Réponse à la question n° 45576
+
+- Question : [45576](45576.md) — Question n° 45576 — conditions d'attribution
+
+## Réponse
+
+*JO du 2014-03-18*
+
+Les articles L. 351-2-1 du code de la construction et de l'habitation, L. 831-1 et L. 542-2 du code de la sécurité sociale disposent que les aides personnelles au logement ne sont pas attribuées « aux personnes qui sont locataires d'un logement appartenant à l'un de leurs ascendants ou descendants, ou ceux de leur conjoint ou concubin ou de toute personne liée à elles par un contrat conclu en application de l'article 515-1 du code civil ». Ces dispositions législatives traduisent la volonté d'attribuer les aides personnelles au logement en priorité aux personnes et aux ménages les plus modestes qui ne peuvent bénéficier d'une aide familiale par le biais de la mise à disposition d'un logement. Par ailleurs, l'article 87 de la loi de financement de la sécurité sociale pour 2014 a réaffirmé cette position et prévoit depuis le 1er janvier 2014 que les aides personnelles au logement ne sont pas dues aux personnes qui sont locataires d'un logement dont elles-mêmes, leurs conjoints, concubins ou toute personne liée à elles par un pacte civil de solidarité, ou l'un de leurs ascendants ou descendants, jouissent d'une part de la propriété ou de l'usufruit de ce logement, personnellement ou par l'intermédiaire de parts sociales de sociétés, quels que soient leurs formes et leurs objets. Par dérogation, cette aide peut être versée si l'ensemble des parts de propriété et d'usufruit du logement ainsi détenues est inférieur à des seuils fixés par décret. Ces seuils ne peuvent excéder 20 %. Cet article vise à écarter la perception des aides au logement dès lors que le logement est la propriété directe ou indirecte de l'allocataire ou de sa famille. Le Gouvernement n'envisage pas de remettre en cause ce dispositif.
