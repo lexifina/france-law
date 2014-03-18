@@ -8,4 +8,4 @@ Cette allocation peut être versée en une ou plusieurs fois. Ses modalités d'a
 
 En cas de départ en cours d'année, quel qu'en soit le motif, le salarié reçoit la fraction de prime qui lui est acquise à la date de cessation d'effet du contrat.
 
-Cette allocation annuelle est égale à 100 % du salaire minimum garanti de la catégorie de l'intéressé tel qu'il est défini au paragraphe b de l'article 6 de l'accord de mensualisation du 22 juin 1979.
+Cette allocation annuelle est égale à 100 % du salaire de base correspondant au coefficient du salarié dans la grille des salaires de l'entreprise.
