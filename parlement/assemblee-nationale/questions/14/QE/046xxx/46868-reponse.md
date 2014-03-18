@@ -1,0 +1,9 @@
+# Réponse à la question n° 46868
+
+- Question : [46868](46868.md) — Question n° 46868 — financement; réglementation
+
+## Réponse
+
+*JO du 2014-03-18*
+
+Les entreprises adaptées sont des structures dont l'effectif de production comprend au moins 80 % de travailleurs handicapés, financées par l'État d'une part, au moyen d'une aide au poste dont le montant unitaire correspond à 80 % du smic brut et, d'autre part, par une subvention d'accompagnement. Les financements de l'État en faveur de ces structures, inscrits dans le projet de loi de finances pour 2014, s'élèvent à 330 M€ ; ils sont apportés sous forme d'aide au poste à hauteur de 290 M€ et d'une subvention d'accompagnement à hauteur de 40 M€. Ces moyens permettent de financer 21 535 postes de travailleurs handicapés dans les entreprises adaptées. Il convient de rappeler que ces moyens ont très fortement progressé sur les dernières années : en 2011, les moyens alloués par l'État aux entreprises adaptées s'élevaient à 293 M€ (256 M€ d'aide au poste et 37 M€ de subvention d'accompagnement) ; ils permettaient de financer 19 535 postes de travailleurs handicapés. Aussi, entre 2011 et 2014, 2 000 postes supplémentaires auront été créés et les moyens alloués par l'État aux entreprises adaptées auront progressé de près de 13 %, progression particulièrement importante alors que les dépenses de l'Etat ont été, sur la même période, gelées en valeur. En outre, le projet de loi de finances pour 2014 ne réduit nullement les moyens alloués par l'État à ces structures mais les maintient à un niveau équivalent à ceux ouverts en loi de finances pour 2013 : cette stabilité des moyens, dans un contexte de réduction sans précédent des dépenses publiques, et notamment des dépenses d'intervention de l'Etat, témoigne de l'importance que revêt pour le Gouvernement la politique en faveur de l'emploi des personnes handicapées.
