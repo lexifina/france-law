@@ -1,0 +1,9 @@
+# Réponse à la question n° 35344
+
+- Question : [35344](35344.md) — Question n° 35344 — comptes; réglementation
+
+## Réponse
+
+*JO du 2014-03-18*
+
+Jusqu'à présent, il y avait effectivement un risque que les fonds relatifs à des copropriétaires partis et restés en souffrance dans la comptabilité des syndics de copropriété n'apparaissent plus, au bout d'un certain temps, dans les écritures des comptes des syndics de copropriété. Ce risque devrait toutefois disparaître grâce à l'obligation d'ouvrir dans chaque copropriété un compte séparé au nom du syndicat des copropriétaires, mesure prévue dans le projet de loi d'accès au logement et un urbanisme rénové définitivement adopté par l'Assemblée nationale et le Sénat. Désormais, tout syndicat de copropriétaires aura un accès au compte de sa copropriété et pourra en suivre l'évolution exacte. Ce compte séparé obligatoire permettra ainsi de remédier au risque soulevé de voir disparaître dans la comptabilité du syndic de copropriété des fonds restés en souffrance du fait du départ ou de la disparition de certains copropriétaires et ainsi, permettre au syndicat des copropriétaires de disposer de ces derniers au terme du délai prescriptif. Il en sera de même en cas de dérogation à cette obligation d'ouverture de compte séparé pour les copropriétés comportant au plus quinze lots. En effet, dans ce cas, le compte unique devra faire apparaître dans les écritures de l'établissement bancaire un sous-compte individualisant comptablement les versements et prélèvements afférents au syndicat. Le syndic effectuera sur ce sous-compte, sans délai, les versements des sommes et valeurs appartenant au syndicat et y reportera les dépenses effectuées pour son compte. Il transmettra au président du conseil syndical une copie des relevés périodiques bancaires du sous-compte, dès réception de ceux ci.
