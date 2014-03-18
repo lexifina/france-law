@@ -1,0 +1,7 @@
+# Article 1er
+
+La branche des commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet, qui compte environ 20 000 salariés, connaît une évolution de ses activités, dans un contexte très concurrentiel, notamment marqué par une demande importante de services associés aux activités de vente. Les entreprises de la branche présentent des besoins en matière de développement des compétences de leurs salariés dans le domaine de la vente itinérante et de l'administration des ventes, tant dans le cadre de parcours d'intégration à ces métiers que dans le cadre de parcours de professionnalisation ou d'évolution professionnelle des salariés en poste.
+
+Considérant que les métiers des commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet nécessitent la maîtrise de compétences spécifiques aux entreprises du secteur et qu'il n'existe pas de certification professionnelle correspondante, la branche souhaite procéder à la création de certificats de qualification professionnelle (CQP).
+
+Conformément aux recommandations figurant dans le paragraphe 3.2 de l'accord national interprofessionnel du 7 janvier 2009 sur le développement de la formation tout au long de la vie professionnelle, la professionnalisation et la sécurisation des parcours professionnels, les CQP des commerces de gros de l'habillement, de la mercerie, de la chaussure et du jouet s'inscrivent en complémentarité avec les certifications professionnelles existantes.
