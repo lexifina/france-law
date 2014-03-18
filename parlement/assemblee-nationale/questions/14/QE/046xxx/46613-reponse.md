@@ -1,0 +1,9 @@
+# Réponse à la question n° 46613
+
+- Question : [46613](46613.md) — Question n° 46613 — statut; reconnaissance
+
+## Réponse
+
+*JO du 2014-03-18*
+
+Le bénévolat de nos concitoyens est une formidable richesse, et il est important de le reconnaître. L'élaboration d'un statut des bénévoles a fait l'objet de différents travaux avec des représentants du monde associatif, en particulier dans le cadre des conférences nationales de la vie associative. Il en ressort cependant que ce projet semble en contradiction avec la nature même du bénévolat qui est un don de temps librement consenti et gratuit. En outre, la grande diversité des formes que revêt le bénévolat rend difficile la définition d'un tel statut et s'oppose à toute forme de rétribution, directe ou indirecte. La promotion de l'engagement bénévole et la reconnaissance de l'importance de cet engagement ne se résument cependant pas à la question d'un éventuel statut du bénévole. Le Premier Ministre a souhaité faire de l'engagement associatif la Grande cause nationale 2014. Dans ce cadre, le gouvernement souhaite améliorer les conditions d'engagement bénévole des jeunes, des actifs et des seniors. Un autre levier de cette reconnaissance de l'engagement bénévole est la validation des acquis de l'expérience (VAE). En novembre dernier, le Haut conseil à la vie associative (HCVA) a rendu un avis relatif à la VAE. Il préconise un renforcement de l'information aux associations et aux bénévoles avec le soutien des acteurs publics, des outils et un accompagnement renforcé en appui à leur démarche (aide aux formations des accompagnateurs, support méthodologique pour les candidats, accompagnement au cours de la VAE, améliorations relatives à la soutenance). La reconnaissance de la VAE associative dans les parcours scolaires et universitaires et dans l'entreprise sera améliorée.
