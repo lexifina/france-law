@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209645
+
+- Question : [SEQ131209645](seq131209645.md) — Élaboration des plans locaux d'urbanisme au sein des conseils de territoires de la métropole Aix-Marseille Provence
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2014-03-20, page 786*
+
+L'article 42 de la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles, adopté par l'Assemblée nationale le 19 décembre 2013, précise les conditions d'exercice de la compétence en matière de plan local d'urbanisme (PLU), sur le périmètre de la métropole Aix-Marseille-Provence. Afin d'assurer à l'échelle la plus pertinente une meilleure cohérence dans le traitement des problématiques de l'aménagement de l'espace et de leurs impacts sur l'environnement dans cette partie du département des Bouches-du-Rhône correspondant au périmètre actuel de cinq établissements publics de coopération intercommunale (EPCI) à fiscalité propre et d'un syndicat d'agglomération nouvelle, il est effectivement apparu nécessaire de confier à un nouvel EPCI plus intégré, la métropole Aix-Marseille-Provence, l'approbation des plans locaux d'urbanisme élaborés en son sein par les conseil de territoires. Le processus restera suffisamment souple pour prendre en compte les réalités et les diversités communales. Les dispositifs prévus par le code de l'urbanisme, tels que les plans de secteurs et les modalités d'élaboration et de concertation entre communes et intercommunalité, seront applicables afin de tenir compte des spécificités propres aux territoires communaux concernés. De surcroît, cela ne modifiera en aucune manière la compétence des maires en matière de délivrance des autorisations d'urbanisme. Il leur appartiendra, dans le respect du droit, de délivrer les autorisations d'urbanisme sur la base du PLU approuvé par la métropole Aix-Marseille-Provence.
