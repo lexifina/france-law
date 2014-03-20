@@ -214,6 +214,8 @@ L'entreprise s'engage à :
 
 ― rédiger une attestation de stage décrivant les missions effectuées.
 
+L'entreprise d'accueil s'engage également à fournir au stagiaire les conditions de vie, de logement et de nourriture à bord, identiques à celles fournies à ses salariés.
+
 5.3. Le lycée professionnel maritime vis-à-vis de l'élève
 
 Le lycée professionnel maritime s'engage à :

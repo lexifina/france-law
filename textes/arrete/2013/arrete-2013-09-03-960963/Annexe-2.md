@@ -208,6 +208,8 @@ L'entreprise s'engage à :
 
 - rédiger une attestation de stage décrivant les missions effectuées.
 
+L'entreprise d'accueil s'engage également à fournir au stagiaire les conditions de vie, de logement et de nourriture à bord, identiques à celles fournies à ses salariés.
+
 5.3. Le lycée professionnel maritime vis-à-vis de l'élève
 
 Le lycée professionnel maritime s'engage à :
@@ -234,15 +236,9 @@ Le chef de l'établissement d'enseignement peut mettre fin au stage à tout mome
 
 Article 6
 
-Durée du travail, travail de nuit et repos
+Durée du travail et repos.
 
-La durée du temps de travail accompli par l'élève fait l'objet de récapitulatifs quotidien et hebdomadaire sous la responsabilité de l'entreprise d'accueil et ne peut dépasser les limites suivantes :
-
-- durée quotidienne maximale de temps de travail : sept heures ;
-
-- durée hebdomadaire maximale de temps de travail : trente-cinq heures.
-
-L'élève bénéficie d'un repos hebdomadaire de quarante-huit heures consécutives, tant à la mer qu'au port, comprenant, si possible, le dimanche.
+La durée du temps de travail accompli par l'élève est conforme à la réglementation en vigueur et fait l'objet de récapitulatifs quotidiens et hebdomadaires sous la responsabilité de l'entreprise d'accueil.
 
 Article 7
 

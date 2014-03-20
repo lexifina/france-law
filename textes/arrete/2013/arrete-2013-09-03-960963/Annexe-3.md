@@ -114,9 +114,7 @@ Lorsque l'élève est stagiaire d'un armement de nationalité française : si un
 
 Article 1er
 
-Finalité, objet et contenu de la formation
-
-en milieu professionnel
+Finalité, objet et contenu de la formation en milieu professionnel
 
 La présente convention règle les rapports entre les signataires en vue de l'organisation et du déroulement de périodes de formation en milieu professionnel au bénéfice de l'élève du lycée professionnel maritime ou de l'organisme de formation dans une entreprise d'accueil.
 
@@ -199,6 +197,8 @@ L'entreprise s'engage à :
 - le former à la sécurité à bord ;
 
 - rédiger une attestation de stage décrivant les missions effectuées.
+
+L'entreprise d'accueil s'engage également à fournir au stagiaire les conditions de vie, de logement et de nourriture à bord, identiques à celles fournies à ses salariés.
 
 5.3. Le lycée professionnel maritime vis-à-vis de l'élève
 
