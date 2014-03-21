@@ -1,0 +1,1697 @@
+# Article 1er
+
+Cet avenant a vocation à modifier les articles 1er des annexes II et III désormais regroupées sous la seule appellation « annexe II ».
+
+Deuxième partie
+
+Classification des emplois et dispositions spécifiques à certaines catégories de personnel
+
+« Annexe II
+
+Dispositions spécifiques aux emplois des personnels d'immeubles et de maintenance
+
+1. Classification
+
+Tout en tenant compte de la diversité des structures, des organisations et des stratégies au sein des entreprises sociales pour l'habitat, les concepteurs du système ont souhaité dépasser le cadre classique d'un simple accord de classification. L'ambition partagée a été de mettre au point un véritable instrument de gestion des ressources humaines en termes de recrutement, de formation et de rémunération, susceptible de valoriser les compétences nécessaires pour assurer les fonctions confiées aux personnels d'immeubles et de maintenance.
+
+Dans cette perspective, ils se sont fixé les principes d'élaboration suivants :
+
+– les emplois repères constituent une résultante de l'analyse des situations de travail (les emplois réels) et non un choix de départ ;
+
+– les situations de travail correspondent à l'agrégation d'activités (cf. 1.1.1) qui sont elles-mêmes hiérarchisées au moyen de critères adaptés aux réalités de travail et compréhensibles par tous :
+
+– technicité : ce critère permet de mesurer le niveau requis de savoir et de savoir-faire de nature technique ;
+
+– relationnel : sa prise en compte a vocation à mesurer le degré de difficulté rencontré dans l'exercice des relations professionnelles nécessitées par l'activité ;
+
+– autonomie : son appréciation définit la latitude pour décider et agir caractérisant l'activité ;
+
+– contribution : son importance dépend des dimensions économiques et sociales de l'activité, notamment au travers de la polyvalence ;
+
+– l'objectif est de rechercher des passerelles avec la classification des personnels administratifs de la branche (avenant du 27 novembre 2007) ;
+
+– la classification permet de reconnaître les acquis de la formation professionnelle ;
+
+– il s'agit de faciliter la reconnaissance des emplois au niveau de l'entreprise en tenant compte de la diversité des pratiques ;
+
+– la classification crée une correspondance entre la situation de travail, l'emploi repère et la rémunération minimale garantie.
+
+1.1. Présentation du dispositif de classification
+
+1.1.1. Activités
+
+Les activités exercées par les personnels d'immeubles et de maintenance (cf. liste des activités figurant au 1.3.) ont été regroupées en six domaines, présentant un ensemble structuré de 32 activités, elles-mêmes constituées d'un ensemble de tâches non exhaustif et dont la description peut être précisée de manière plus fine au niveau de chaque entreprise :
+
+– entretien courant du patrimoine ;
+
+– participation à la maintenance et à la gestion technique du patrimoine ;
+
+– gestion locative/ commerciale ;
+
+– gestion sociale ;
+
+– animation des personnels ;
+
+– maintenance du patrimoine.
+
+1.1.2. Méthode d'évaluation des activités
+
+Par souci d'objectivité et de simplicité, chacune des activités a été valorisée en utilisant une grille d'analyse critérielle permettant une cotation de 1 à 5 au titre de la technicité, également de 1 à 5 pour l'exigence relationnelle et, enfin, de 1 à 4 en matière d'autonomie.
+
+Pour sa part, la contribution liée, par définition, à une situation de travail donnée et non à telle ou telle activité ne peut être mesurée que lors de la description des situations de travail. Elle permet une cotation de 1 à 4 (cf. méthode d'évaluation actualisée sur le critère “ contribution ” figurant au 1.4.4).
+
+1.1.3. Table de cotation conventionnelle
+
+Cette table reproduit le résultat de cette évaluation pour chacune des activités valorisée globalement par simple addition des valeurs obtenues au titre de chacun des critères.
+
+La table de cotation est reproduite au point 1.5.
+
+1.1.4. Grille de classification des emplois repères
+
+La grille de classification établie pour les emplois d'immeubles et de maintenance comprend cinq niveaux de qualification hiérarchisés en fonction des degrés croissants d'exigence en technicité, en relationnel, en autonomie et en contribution. Chaque niveau regroupe les situations de travail proches qui sont rattachées à un emploi repère. Chacun de ces cinq niveaux correspond à une rémunération minimale garantie.
+
+Chaque employeur se devra de confier des tâches et responsabilités correspondant à la description faite des postes. Cette description ne saurait toutefois être exhaustive et pourrait être complétée par l'employeur sans que les missions et responsabilités s'éloignent de la description donnée.
+
+1.2. Modalités d'application
+
+1.2.1. Principes généraux
+
+Pour effectuer le classement des emplois réellement tenus par les salariés dans les différents niveaux et déterminer ainsi la qualification appropriée, il convient de :
+
+– s'attacher à l'emploi occupé et aux fonctions exercées, en aucun cas au titulaire : ce sont les activités effectuées de manière régulière et permanente qui déterminent l'affectation de l'emploi repère d'assimilation ;
+
+– ne pas retenir systématiquement et a priori le titre attribué au salarié ou généralement utilisé vis-à-vis des tiers avant la mise en place de la présente qualification, mais d'analyser l'emploi occupé et d'en conclure la qualification en tenant compte des fonctions réellement et concrètement exercées ;
+
+– ne pas prendre en compte la rémunération actuelle pour déterminer le niveau de classement.
+
+1.2.2. Etapes
+
+Les étapes de travail qui suivent doivent être réalisées par la fonction ressources humaines en mode participatif et paritaire en associant les délégués syndicaux. Lorsqu'il n'y a pas de délégué syndical dans l'entreprise, le travail doit être réalisé en associant les représentants du personnel présents.
+
+1. Dresser pour chaque emploi la liste des activités qui le constituent (cf. fiches d'emploi d'entreprise et liste des activités figurant au 1.3). La reconnaissance d'une activité est subordonnée à la nécessité d'accomplir tout ou partie des tâches constituant l'activité. C'est à l'encadrant qu'il revient de déterminer les activités réalisées par chaque salarié en concertation avec celui-ci. En tout état de cause, la validation des descriptifs par les salariés concernés est recommandée.
+
+2. Se reporter à la cotation de chacune de ces activités (cf. table de cotation des activités actualisée au 1.5) pour retenir la valeur d'activité la plus élevée pour chaque situation de travail.
+
+3. Achever la cotation de la situation de travail en y ajoutant la valeur correspondant à l'importance de la contribution (cf. méthode d'évaluation actualisée sur le critère “ contribution ” figurant au 1.4.4).
+
+4. Classer les salariés au niveau de leur situation de travail en fonction des regroupements suivants et en leur affectant l'emploi repère correspondant (NB. – les salariés qui bénéficiaient d'une cotation 12, affectés au coefficient GHQ, conservent le bénéfice de ce coefficient, nonobstant les nouvelles correspondances entre cotations et coefficients).
+
+Cotation de la
+
+situation
+
+de travail |
+
+Coefficient |
+
+Emploi repère
+
+d'assimilation des anciennes annexes II et III |
+
+Type de fonction
+
+des personnels administratifs (annexe I) |
+
+4 à 6 |
+
+EE |
+
+OE |
+
+Employé d'immeuble d'exécution, ouvrier d'exécution |
+
+Chargé d'activité opérationnelle |
+
+7 à 9 |
+
+EQ |
+
+OQ1 |
+
+Employé d'immeuble qualifié, ouvrier qualifié 1 |
+
+|
+
+10 à 12 |
+
+GQ
+
+AQ |
+
+OQ2 |
+
+Gardien ou agent d'immeuble qualifié, ouvrier qualifié 2 |
+
+Chargé d'activité technique |
+
+13 à 15 |
+
+GHQ |
+
+OHQ |
+
+Gestionnaire ou gardien d'immeuble hautement qualifié, ouvrier hautement qualifié |
+
+Chargé d'activité qualifiée |
+
+16 à 18 |
+
+GS |
+
+CE |
+
+Gestionnaire ou gardien d'immeuble superviseur, chef d'équipe |
+
+Responsable d'activité opérationnelle |
+
+Dans ce tableau, la colonne du type de fonction des personnels administratifs (annexe I) n'induit ni équivalence ni parité en statut ou en salaire avec les emplois de l'annexe II. Il préfigure uniquement un projet d'harmonisation à venir. Dans l'immédiat, il donne des orientations au profit des entreprises qui souhaiteraient s'engager dans un processus de grille unique.
+
+5. Vérifier le respect du minimum conventionnel de rémunération défini ci-après (cf. 1.6) et opérer les ajustements éventuellement nécessaires sans toutefois diminuer d'aucune manière le montant global du salaire perçu jusqu'alors. Le statut d'agent de maîtrise est accordé dès lors que le niveau 4 est atteint dans le critère technicité ou le critère relationnel et que l'évaluation globale est supérieure ou égale à 13.
+
+6. La détermination du temps de travail ou de présence nécessaire pour tenir l'emploi ainsi que la prise en compte de la charge de travail, des sujétions et des contraintes qu'il représente relèvent de la relation contractuelle au niveau de chaque entreprise.
+
+L'ensemble des situations de travail (personnels d'immeubles et personnels de maintenance) devra être examiné dans un délai maximum de 18 mois à compter de la signature du présent avenant. L'accord entrera donc en vigueur au plus tard le 1er juillet 2015.
+
+1.2.3. Suivi et recours
+
+L'employeur doit informer chaque salarié de son nouveau classement par écrit au moins 1 mois avant l'entrée en vigueur de celui-ci.
+
+En cas de contestation individuelle de ce nouveau classement, au cours de cette même période et s'il estime que la concordance ne lui a pas été correctement appliquée, le salarié pourra demander à l'employeur un examen, dans un délai de 2 mois à compter de la connaissance de la contestation, de sa situation au sein d'une commission d'interprétation créée dans l'entreprise (à laquelle participent obligatoirement les délégués syndicaux ou, à défaut, lorsqu'il n'y a pas de délégué syndical dans l'entreprise, les représentants du personnel présents ou, à défaut, un tiers, appartenant à l'entreprise, choisi par le salarié) en apportant ses arguments par écrit.
+
+Au titre d'une aide à la décision au profit des membres de la commission, les critères d'évaluation peuvent être utilisés au regard de l'emploi réellement tenu.
+
+La commission produit un procès-verbal rendant compte des échanges.
+
+Dans un délai de 1 mois à compter de la rédaction du procès-verbal, l'employeur devra faire connaître sa décision argumentée au salarié.
+
+Les représentants du personnel et les délégués syndicaux seront informés de l'avancement des différentes étapes et des difficultés éventuelles rencontrées, tant pour s'adapter aux particularités de l'entreprise que pour positionner chacun des salariés.
+
+En cas de difficulté méthodologique liée à l'application du dispositif, non résolue par les moyens et formes arrêtées au niveau de l'entreprise, la commission paritaire nationale pourra être saisie du litige par l'intermédiaire de l'un de ses membres titulaires, dans le cadre et les conditions prévus à l'article 8 de la première partie.
+
+La commission paritaire nationale adressera conjointement à l'entreprise et aux délégués syndicaux de l'entreprise (lorsqu'ils sont désignés ou, à défaut, aux représentants du personnel) un questionnaire destiné à vérifier l'application de la méthode conventionnelle au sein de l'entreprise. Une attestation nationale mentionnant la conformité ou non des consignes du présent avenant sera établie et transmise auprès de l'entreprise, laquelle aura 3 mois pour rendre compte au secrétariat de la commission nationale des suites données.
+
+1.3. Activités des personnels d'immeubles et de maintenance
+
+Code |
+
+Domaines (gras), activités (majuscules) et tâches (minuscules) |
+
+1 |
+
+Entretien courant du patrimoine |
+
+11 |
+
+Nettoyage des parties communes et abords immédiats |
+
+|
+
+Balayer, laver les escaliers, vitres, halls, allées, ascenseurs, caves et locaux techniques |
+
+|
+
+Nettoyer et désinfecter les locaux |
+
+|
+
+Dépoussiérer les tableaux d'affichage, les boîtes à lettres, les globes, les gaines techniques et l'encadrement des portes, les paillassons communs, les rampes, les placards des compteurs, etc. |
+
+12 |
+
+Entretien des espaces extérieurs |
+
+|
+
+Enlever les graffitis, les affiches sur les éléments de façade accessibles et les portes |
+
+|
+
+Effectuer les travaux usuels de jardinage et d'entretien paysager (tonte, taille de haies, arrosage, désherbage, remplacement de végétaux...) |
+
+|
+
+Maintenir en état de propreté les aires de jeux |
+
+|
+
+Faire enlever les encombrants et les épaves (procédures) |
+
+|
+
+Assurer les traitements saisonniers (salage, sablage en cas de besoin...) |
+
+|
+
+Enlever les feuilles mortes, les papiers, les sacs plastique, etc. |
+
+|
+
+Assurer le nettoyage des caniveaux, des grilles d'écoulement des eaux |
+
+|
+
+Nettoyer les parkings |
+
+13 |
+
+Traitement des ordures ménagères |
+
+|
+
+Sortir les sacs d'ordures ménagères ou les conteneurs |
+
+|
+
+Laver les conteneurs et les locaux vide-ordures |
+
+|
+
+Nettoyer les vide-ordures, organiser le stockage de déchets |
+
+|
+
+Participer à une opération de tri sélectif ou à une campagne de sensibilisation “ propreté ” |
+
+|
+
+Assurer les petits dégorgements des conduits de vide-ordures et compléter le cas échéant les interventions des entreprises spécialisées en désinfection, désinsectisation, dératisation ou autres traitements découlant des obligations réglementaires |
+
+14 |
+
+Entretien courant |
+
+|
+
+Intervenir sur les équipements d'installation électrique (changer une ampoule, un tube lumineux ou un fusible...) |
+
+|
+
+Graisser, réparer ou changer des serrures, régler les grooms, remplacer une poignée ou une paumelle de porte... |
+
+15 |
+
+Contribution à la première maintenance des installations des parties communes |
+
+|
+
+Remplacer un interrupteur, un élément de revêtement de sol, reboucher des trous, effectuer un raccord de peinture ou d'enduit, remplacer une vitre |
+
+16 |
+
+Gestion des moyens |
+
+|
+
+Assurer l'entretien courant de son matériel et des outils, gérer ses commandes et son stock de produits, en liaison avec les services spécialisés de l'organisme et dans le cadre d'un budget défini |
+
+2 |
+
+Participation à la maintenance et à la gestion technique du patrimoine |
+
+21 |
+
+Activités de surveillance |
+
+|
+
+Assurer une surveillance technique des installations (minuterie, chaufferie, VMC, gaines techniques, ascenseurs...) par des rondes ou par des visites régulières |
+
+|
+
+Alerter en cas de panne et intervenir directement, selon les règlements en vigueur dans la société, pour résoudre les dysfonctionnements (débouchage des vide-ordures, déblocage des vannes, par exemple) |
+
+|
+
+Contribuer au maintien de la sécurité des immeubles :
+
+–   veiller au libre accès des circulations et passages des véhicules prioritaires
+
+–   effectuer des visites périodiques du patrimoine pour déceler les dysfonctionnements, en rendre compte
+
+–
+
+vérifier le bon fonctionnement et/ ou la présence des dispositifs de sécurité incendie (détecteurs de fumée, plan d'évacuation, éclairage de secours, etc.)
+
+–
+
+s'assurer de la présence des extincteurs, de leur bon état de fonctionnement ainsi que de celui des portes pare-feu
+
+–   tenir à jour ses carnets de contrôle |
+
+|
+
+Informer de l'existence d'un sinistre ou d'une réparation à faire, en assurer le suivi de gestion (établissement de déclarations de sinistre, recueil des informations auprès du locataire, par exemple), signaler les anomalies et les dégradations, les difficultés liées aux conditions de réalisation du nettoyage (verre cassé, seringues, produits toxiques, etc.) |
+
+|
+
+Assurer en direct les relevés périodiques de compteurs des parties communes (eau, électricité, chauffage, etc.) |
+
+22 |
+
+Suivi de travaux |
+
+|
+
+Assurer le suivi des décisions prises et des travaux à entreprendre ou entrepris, en relation avec les différents interlocuteurs (locataires, copropriétaires, experts, entreprises, collectivités locales …) |
+
+23 |
+
+Participation à la gestion des travaux, suivi de la réalisation |
+
+|
+
+Commander de menus travaux aux entreprises, surveiller et contrôler leurs interventions (réalité et délais du service assuré, fournitures, contrôle du temps passé), dans le respect des marchés conclus ou dans le cadre des interventions sur sinistres, assurer les relations avec les locataires et les entreprises pour permettre le bon déroulement des interventions |
+
+|
+
+Participer aux opérations de réception des travaux neufs ou d'amélioration |
+
+24 |
+
+Gestion des réclamations techniques |
+
+|
+
+Comprendre la réclamation du locataire en la reformulant avec exactitude, en vérifier le bien-fondé, l'enregistrer selon les modalités en usage (main courante, carnet, feuilles de relevés, ordres de service, demandes de réparation...) |
+
+|
+
+Préciser les modes de traitement, déterminer la responsabilité (travaux imputables au locataire ou au bailleur), effectuer le traitement en direct ou transmettre au service compétent (au sein de la société HLM ou à un prestataire extérieur) |
+
+|
+
+Suivre et contrôler la suite donnée à la demande du locataire |
+
+25 |
+
+Sensibilisation au développement durable |
+
+|
+
+Assurer un rôle d'interface entre les locataires et les collectivités ou les associations qui œuvrent dans le domaine du développement durable, dans le cadre des enjeux énergétiques et environnementaux
+
+Participer à l'organisation et assurer l'information relative aux principes et comportements en matière de développement durable (au quotidien ou régulièrement dans le cadre d'opérations ponctuelles), en association avec les locataires ou les enfants de locataires le cas échéant (économies d'énergie, comportements responsables à adopter, culture environnementale …) |
+
+3 |
+
+Gestion locative/ commerciale |
+
+31 |
+
+Accueil commercial |
+
+|
+
+Renseigner et orienter les candidats locataires qui se présentent spontanément à la loge ou à l'espace d'accueil et fournir les informations qui concernent notamment :
+
+–   la consultation du compte des locataires pour répondre à leurs questions (exemple : APL)
+
+–   les droits et obligations ayant trait au règlement intérieur, au contrat de location
+
+–
+
+les différents documents et courriers adressés aux locataires par la société à propos de la régularisation des charges, des antennes collectives, de l'enlèvement des encombrants, etc.
+
+–   la vie sociale du quartier, des renseignements plus généraux sur les infrastructures et les commerces
+
+–   les travaux prévus dans le cadre d'opérations de réhabilitation
+
+–
+
+la distribution d'avis d'échéance, l'annonce de hausse de loyer ou l'explication de la régularisation des charges |
+
+32 |
+
+Communication avec les locataires |
+
+|
+
+Gérer les mouvements des locataires, entrées et sorties :
+
+–
+
+faire visiter le logement vacant au candidat en lui donnant des informations sur les équipements de l'appartement, les infrastructures du quartier, les services de proximité
+
+–   vérifier le bien-fondé des réclamations des locataires et en rendre compte au service compétent
+
+–   tenir un registre informatif |
+
+|
+
+Participer au recouvrement des loyers : distribuer les avis d'échéance dans les groupes d'immeubles, promouvoir le prélèvement automatique |
+
+|
+
+Veiller au respect et à l'application du règlement intérieur, notamment en prévenant les dégradations des immeubles et des parties communes par sa présence physique |
+
+33 |
+
+Application des clauses du contrat |
+
+|
+
+Gérer l'état des lieux loués lors des mouvements des locataires, entrées et sorties :
+
+– réaliser en totalité “ l'état des lieux entrant ” (logement, garage, commerce)
+
+– établir le pré-état des lieux du locataire sortant (visite-conseil) et prévoir éventuellement des travaux
+
+– réaliser en totalité “ l'état des lieux sortant ”, chiffrage compris ou non
+
+– remettre les clés au locataire entrant |
+
+|
+
+Participer au recouvrement des loyers :
+
+–
+
+encaisser les loyers pendant une période déterminée du mois en effectuant une première vérification des montants payés au regard, le cas échéant, des différents systèmes de paiement (TIP, code-barres, etc.) puis en procédant à l'enregistrement des paiements ainsi qu'à la distribution des quittances (saisie de l'information)
+
+–   préparer et réaliser des transferts de fonds
+
+–
+
+effectuer les premières relances, à partir d'un listing ou de l'interrogation des comptes locataires, permettant ainsi une intervention future dans le cadre du précontentieux
+
+–   recueillir les premières informations pour comprendre les causes de l'impayé |
+
+|
+
+Veiller au respect et à l'application du règlement intérieur en intervenant auprès des locataires pour leur rappeler leurs obligations contractuelles |
+
+34 |
+
+Prise en charge des logements vacants |
+
+|
+
+Surveiller les logements vacants pour prévenir les dégradations ou repérer les occupations illégales et proposer des solutions dans le cas de logements difficiles à louer |
+
+35 |
+
+Accompagnement commercial |
+
+|
+
+Participer à la commercialisation des logements et/ ou parkings (secteurs détendus essentiellement) en sollicitant les différents acteurs locaux (voisinage, commerçants, partenaires, collecteurs, entreprises …) et en évoquant les caractéristiques du logement, de la résidence, du quartier, de l'environnement … |
+
+36 |
+
+Participation à la gestion de copropriété |
+
+|
+
+Participer aux réunions et assemblées générales en apportant les éclairages nécessaires |
+
+|
+
+Mettre en œuvre une diversité de modes opératoires et outils dans le cas de résidences en copropriété en multi-appartenance (occupants, bailleurs, syndics, collectivités …) |
+
+37 |
+
+Gestion administrative |
+
+|
+
+Renseigner les documents relatifs aux réclamations techniques, coordonner les différents éléments relatifs aux demandes et à l'exécution des travaux, renseigner les documents de liaison avec le bailleur (carnet de doléances ou de sécurité, fiche de signalement en cas de conflit de voisinage, de dégradation ou de problèmes liés aux incivilités ou à la sécurité, suivi des entreprises sous contrat …), y compris, éventuellement, dépôt de plainte au commissariat |
+
+4 |
+
+Gestion sociale |
+
+41 |
+
+Contribution à l'analyse des situations sociales |
+
+|
+
+Emettre un avis sur la nature, l'adaptation ou l'état du logement lors des rotations, échanges ou mutations, voire lors des affectations des logements |
+
+|
+
+Assurer une intervention de premier niveau avec médiation en cas de conflit de voisinage (rappel du règlement intérieur, entretiens avec le ou les plaignants, le fauteur de troubles...), rendre compte oralement ou par écrit aux services concernés |
+
+|
+
+Faire remonter l'information sur les situations des locataires à l'occasion des enquêtes (présence de colocataires, squats...) |
+
+|
+
+Participer au traitement des impayés des ménages en difficulté, à la recherche sommaire des causes de l'impayé et à la transmission des données sociales aux personnels sociaux du bailleur ou aux travailleurs sociaux compétents |
+
+42 |
+
+Assistance aux locataires |
+
+|
+
+Assister les locataires dans la constitution de leur dossier d'APL (vérification du dossier complet) |
+
+|
+
+Conseiller les locataires dans les démarches administratives spécifiques auprès des services compétents (CAF, SDAPL, FSL …) |
+
+|
+
+Orienter des locataires en difficulté vers les dispositifs d'aide avec, si nécessaire, l'appui des personnels spécialisés de l'organisme (conseillers sociaux) ou des travailleurs sociaux |
+
+43 |
+
+Accompagnement lien social |
+
+|
+
+Accompagner les personnes dans leurs démarches courantes de la vie (aide à la compréhension) et porter une attention particulière à l'égard des résidents/ familles les plus fragiles (physiquement, psychologiquement, financièrement) ou face à des situations à risque, établir et maintenir une relation de confiance et de compréhension, notamment avec les personnes isolées, malades, âgées ou en situation de handicap |
+
+|
+
+Faciliter les mises en relation entre les résidents et les personnes ressources compétentes (prestataires, aide scolaire, contacts établissements scolaires/ étudiants ou de personnes âgées …), orienter les locataires vers les acteurs concernés ou compétents en cas de difficultés (voisins ou personnes à l'origine du trouble, médiateurs, conciliateurs …) |
+
+|
+
+Organiser les événements ou festivités (fête des voisins, repas de quartier, soirées étudiantes …) dans l'esprit du mieux-vivre ensemble ou pour pacifier les relations |
+
+44 |
+
+Conciliation sociale |
+
+|
+
+Dans le cadre de la tranquillité et afin d'assurer la jouissance paisible des locataires, prévenir les situations de trouble, initier et assurer une médiation de conciliation lors des situations qui vont au-delà des conflits de voisinage, arbitrer seul relativement à ces situations sur la base des règles à appliquer, avant le recours à l'intervention de tiers spécialisés (personnels ou personnes qualifiées, médiateurs …) |
+
+45 |
+
+Contribution au développement social des quartiers |
+
+|
+
+Recueillir des informations sur la vie sociale dans le quartier :
+
+– observer les évolutions des comportements des publics fragiles et très fragiles
+
+– se mettre à leur écoute pour les conseiller et les orienter vers des structures de quartier
+
+– recueillir les attentes et les besoins exprimés par les habitants en matière de service de proximité |
+
+|
+
+Susciter et soutenir les initiatives ou les projets personnels des locataires et des jeunes :
+
+– les faire connaître
+
+– en faciliter la réalisation
+
+– le cas échéant, y participer directement
+
+Impulser des actions d'amélioration du cadre de vie, de sa propre initiative ou dans le cadre d'un dispositif propre à la société (exemples : décoration, propreté des halls, fleurissement, musique ou autres activités négociées avec les habitants, etc.) |
+
+|
+
+Participer à la recherche et au développement des contacts avec les partenaires locaux de la société HLM :
+
+–   les informer des problèmes rencontrés
+
+–
+
+participer avec eux à la recherche et au développement des solutions les plus adaptées : animations sportives, mise à disposition de locaux, responsabilisation des locataires par entrée, etc. |
+
+5 |
+
+Animation des personnels |
+
+51 |
+
+Tutorat auprès de nouveaux arrivants |
+
+|
+
+Assurer en binôme une assistance pédagogique auprès de nouveaux arrivants ou stagiaires pour l'apprentissage des missions : organisation du planning d'apprentissage, acquisition des procédures et modes opératoires à appliquer, évaluation des acquis … |
+
+52 |
+
+Supervision technique de personnels |
+
+|
+
+Répercuter les consignes de la hiérarchie auprès du personnel et en contrôler le respect |
+
+|
+
+Surveiller la bonne application des procédures de gestion déléguées aux personnels rattachés |
+
+|
+
+Rendre compte des réalisations, des problèmes importants et des contacts des personnels rattachés avec les partenaires |
+
+53 |
+
+Contribution à l'animation de personnels |
+
+|
+
+Etablir la répartition du travail |
+
+|
+
+Participer à l'appréciation des personnels |
+
+|
+
+Faciliter l'intégration, la formation et le transfert des savoir-faire auprès des nouveaux salariés |
+
+6 |
+
+Maintenance du patrimoine |
+
+61 |
+
+Entretien technique courant |
+
+|
+
+Réaliser les opérations ou traitements de maintenance selon les instructions (assainissement, désinfection, nettoyage haute pression …) |
+
+62 |
+
+Travaux et interventions techniques |
+
+|
+
+Appliquer les directives générales ou effectuer les missions confiées dans une ou plusieurs spécialités techniques |
+
+|
+
+Vérifier la bonne exécution technique des travaux réalisés par les entreprises extérieures |
+
+63 |
+
+Dépannages techniques |
+
+|
+
+Analyser le problème technique générateur du dysfonctionnement et produire le diagnostic afin de traiter les urgences ou les difficultés particulières qui se posent dans une ou plusieurs spécialités techniques au contact des différents interlocuteurs et réaliser le dépannage dans une ou plusieurs spécialités techniques |
+
+|
+
+Evaluer les besoins prévisionnels en matériels et matériaux, passer les commandes directement auprès des fournisseurs dans le cadre des dépannages |
+
+64 |
+
+Travaux, dépannages techniques complexes |
+
+|
+
+Interpréter les plans ou les schémas techniques et porter un regard d'expert en vue de traiter les difficultés les plus délicates ou les dysfonctionnements dans une ou plusieurs spécialités techniques au contact des différents interlocuteurs |
+
+65 |
+
+Gestion des moyens d'une entité |
+
+|
+
+Effectuer les commandes en matériels et matériaux, les réceptionner, organiser, répondre aux demandes en les priorisant, assurer les livraisons le cas échéant, suivre les stocks en les optimisant |
+
+66 |
+
+Entretien des espaces verts |
+
+|
+
+Effectuer les travaux qualifiés d'entretien paysager (semis, plantations, traitements phytosanitaires, élagage, abattage …) en établissant tous les diagnostics relatifs aux végétaux et les recommandations pour assurer leur pérennité |
+
+|
+
+Réaliser les aménagements de terrain (requalification de site), les terrassements, l'entretien de la voirie (enrobé, petite maçonnerie, marquage au sol …) |
+
+Précisions
+
+Toutes ces activités doivent s'inscrire dans le respect du droit des personnes afin de ne pas être susceptibles de tomber sous le coup de poursuites pénales (telles que discriminations, atteintes à l'intimité de la vie privée, violation du secret professionnel, etc.) que les autorités judiciaires pourraient engager au préjudice des entreprises responsables de leurs salariés.
+
+Toutes les activités nécessitent le respect des consignes de sécurité et certaines d'entre elles requièrent une habilitation (interventions électriques, gaz, traitements phytosanitaires …). La reconnaissance d'une activité est subordonnée à la nécessité d'accomplir une ou plusieurs tâches (chacune des lignes distinctes du tableau) constituant l'activité, à l'exception des exemples figurant à titre illustratif entre parenthèses.
+
+Lorsqu'une activité réalisée n'existe pas dans le présent répertoire, le salarié doit être évalué dans le cadre des personnels administratifs (exemples : démarche commerciale, encadrement hiérarchique avec entretien annuel d'évaluation), nonobstant les dispositions relatives au logement de fonction qui nécessiteraient des aménagements, à élaborer au sein des entreprises.
+
+Le nombre d'activités, de domaines, l'intensité de l'intervention du salarié doivent être en cohérence avec la stature du ou des groupes dont il a la charge.
+
+Définitions
+
+Spécialités techniques   : électricité, plomberie, chauffage, menuiserie, maçonnerie, peinture et/ ou plâtrerie et/ ou revêtement mural, sol et/ ou carrelage, gestion de moyens, espaces verts (jardinier et/ ou paysagiste).
+
+Expert : détenteur de la plus haute qualification dans une spécialité technique.
+
+Pour faciliter la mise en place de ces modifications, une table de concordance entre les anciens et les nouveaux codes des activités figure au point 1.7.
+
+1.4. Méthode d'évaluation des emplois des personnels d'immeubles et de maintenance des entreprises sociales pour l'habitat
+
+Quatre critères sont retenus :
+
+– technicité ;
+
+– relationnel ;
+
+– autonomie ;
+
+– contribution.
+
+1.4.1. Critère technicité
+
+Caractéristiques générales
+
+Le critère “ technicité ” ou “ exigence professionnelle ” évalue l'ensemble des connaissances (pratiques, techniques, générales) qu'exige la tenue satisfaisante de l'activité.
+
+On repère le “ niveau de technicité ” par assimilation globale de l'ensemble des connaissances requises par l'activité en référence aux niveaux de formation de l'Education nationale, sans que cette voie constitue pour autant la seule manière d'acquérir ces connaissances.
+
+NB. – La possession d'un diplôme professionnel par le titulaire de l'emploi ne saurait donc préjuger du degré de technicité des activités constitutives de l'emploi. Les activités décrites ne correspondent jamais à des situations de débutants, et l'expérience et l'adaptation nécessaires sont donc incluses dans le niveau des connaissances requises. De même que les programmes de l'Education nationale sont actualisés pour tenir compte, par exemple, des évolutions technologiques, le titulaire peut être amené à actualiser ses connaissances sans que le degré de technicité de l'emploi en soit pour autant modifié.
+
+Grille d'évaluation
+
+Niveau |
+
+Description du niveau de connaissances
+
+Mise en œuvre dans la technique |
+
+Référence
+
+Education nationale |
+
+1 |
+
+Une mise au courant et/ ou une courte formation sur le lieu de travail est suffisante |
+
+Niveau VI |
+
+2 |
+
+L'emploi requiert la connaissance d'un ensemble d'activités acquises par l'expérience antérieure, accompagnée éventuellement de formations complémentaires sur le lieu de travail |
+
+Niveau V bis |
+
+3 |
+
+L'emploi requiert des connaissances professionnelles acquises au cours de formations sanctionnées par un CAP |
+
+Niveau V |
+
+4 |
+
+L'emploi requiert, outre les connaissances techniques du niveau précédent, de bonnes connaissances générales correspondant à un cycle long de l'enseignement secondaire |
+
+|
+
+5 |
+
+L'emploi requiert des connaissances techniques accompagnées des connaissances générales approfondies propres à faciliter la prise de décision |
+
+Niveau IV
+
+bac professionnel, bac |
+
+1.4.2. Critère relationnel
+
+Caractéristiques générales
+
+De même qu'il est nécessaire d'acquérir un ensemble de connaissances générales et techniques plus ou moins étendues pour réaliser normalement une activité, il est le plus souvent indispensable de savoir lier ou entretenir des relations professionnelles avec son environnement.
+
+On entend par “ relations professionnelles ” toutes relations dont le contenu et l'objet sont relatifs aux activités professionnelles.
+
+L'évaluation du savoir-faire relationnel consiste alors à repérer le degré de difficulté rencontré dans l'exercice des relations nécessitées par la réalisation des activités.
+
+Deux remarques préalables s'imposent :
+
+– le degré de relationnel n'est pas influencé par la nature du contenu de la communication ;
+
+– le critère relationnel à évaluer est celui exigé pour remplir les différentes tâches de l'activité. Il n'est pas lié aux capacités relationnelles du titulaire de l'emploi.
+
+Le niveau retenu est le niveau maximum atteint dans l'un des quatre sous-critères.
+
+Grille d'évaluation
+
+Niveau |
+
+Echanges |
+
+Communication |
+
+Négociation |
+
+Animation |
+
+1 |
+
+E1 : échanges d'informations élémentaires et convivialité |
+
+|
+
+|
+
+|
+
+2 |
+
+E2 : échanges nécessaires pour la réalisation des tâches |
+
+|
+
+|
+
+|
+
+3 |
+
+E3   : échanges nécessitant une prise en compte de la compréhension de l'interlocuteur : explications, démonstrations, etc. |
+
+C3   : l'emploi nécessite une adaptation de la communication à la diversité des interlocuteurs et à la variété des messages |
+
+N3   : l'emploi nécessite des ajustements ponctuels entre personnes et/ ou groupes de personnes assimilables à des négociations informelles |
+
+A3   : l'emploi implique une activité de parrainage ou de tutorat |
+
+4 |
+
+|
+
+C4   : l'emploi nécessite de pouvoir influer sur le point de vue, les idées, le comportement d'autrui |
+
+N4   : l'emploi nécessite la recherche et la conclusion de compromis formalisés par la négociation |
+
+A4   : l'emploi implique la supervision technique de personnels |
+
+5 |
+
+|
+
+|
+
+|
+
+A5   : l'emploi implique l'animation d'une équipe de personnels de façon durable |
+
+1.4.3. Critère autonomie
+
+Caractéristiques générales
+
+Ce critère apprécie la latitude de décider et d'agir qui caractérise l'activité compte tenu du mode de fonctionnement de l'organisation.
+
+Dans la méthode, cette latitude dépend de trois principaux facteurs :
+
+– la nature des instructions ou directives ;
+
+– la nature et l'organisation des contrôles ainsi que la proximité et la permanence d'une assistance ;
+
+– l'initiative de réalisation requise, c'est-à-dire la marge de liberté dans l'agencement des moyens et l'adaptation des solutions.
+
+Elle porte sur :
+
+– les modes opératoires et les procédures ;
+
+– les moyens (outillages, matières, personnel) ;
+
+– les délais d'exécution,
+
+et s'exerce :
+
+– par des interventions correctrices, des adaptations, voire le choix de nouvelles solutions à élaborer ;
+
+– en régulant les activités dans le temps ;
+
+– en apportant des améliorations au système ;
+
+– en définissant des objectifs et en contrôlant leur atteinte.
+
+Le niveau retenu est le niveau maximum atteint dans l'un des trois sous-critères.
+
+Grille d'évaluation 1
+
+Niveau |
+
+Nature des instructions |
+
+1 |
+
+Toutes les activités sont définies oralement ou font l'objet d'instructions détaillées |
+
+2 |
+
+Les activités sont analogues pour l'essentiel au niveau précédent, mais certaines ne font pas l'objet d'instructions détaillées conduisant à des solutions expressément décrites |
+
+3 |
+
+Les activités ne sont pas distribuées au fur et à mesure mais sont à mener en fonction des événements aléatoires ou à insérer dans des programmes |
+
+4 |
+
+Les objectifs à atteindre dans le respect des règles de gestion sont clairement définis par le niveau supérieur |
+
+Grille d'évaluation 2
+
+Niveau |
+
+Initiative de réalisation requise |
+
+1 |
+
+Appliquer en l'état un nombre limité de solutions standard |
+
+2 |
+
+Rechercher, par analogie avec des situations antérieures, les solutions standard à appliquer en l'état |
+
+3 |
+
+Adapter les solutions connues aux problèmes rencontrés |
+
+4 |
+
+Adapter des solutions connues à des problèmes nouveaux |
+
+Grille d'évaluation 3
+
+Niveau |
+
+Nature des contrôles |
+
+1 |
+
+L'activité est contrôlée par une supervision proche |
+
+2 |
+
+L'activité est, la plupart du temps, rapidement contrôlable, notamment à la demande de l'intéressé |
+
+3 |
+
+L'activité est contrôlable par une supervision non systématique |
+
+4 |
+
+L'activité est contrôlée a posteriori. L'assistance est possible mais doit être sollicitée. Elle peut n'être ni proche ni directe |
+
+1.4.4. Critère contribution
+
+Caractéristiques générales
+
+Ce critère exprime le degré de contribution de chaque situation professionnelle à l'activité globale de l'entreprise.
+
+Il convient de prendre en compte les dimensions économiques et sociales de l'emploi, tant dans la nature du champ sur lequel cet emploi est en mesure d'influer que dans l'impact (direct ou indirect) : c'est repérer et reconnaître la diversité des spécialités techniques ou des domaines d'activité couverts par l'emploi.
+
+L'intervention dans des spécialités ou des domaines différents contribue à traiter efficacement les besoins tant économiques que sociaux, dans une logique de proximité et de réactivité.
+
+La reconnaissance d'un domaine d'activité est subordonnée à l'exercice de tout ou partie des activités du domaine.
+
+Grille d'évaluation
+
+Niveau |
+
+Description de la contribution |
+
+1 |
+
+Compétences multiples dans un ou deux domaines d'activité |
+
+2 |
+
+Activités dans trois domaines ou mise en œuvre (1) d'une spécialité technique (2) dans la maintenance du patrimoine |
+
+3 |
+
+Activités dans quatre domaines ou mise en œuvre d'une spécialité technique dans la maintenance du patrimoine avec des compétences complémentaires dans une ou plusieurs autres spécialités |
+
+4 |
+
+Mise en œuvre de deux spécialités techniques dans la maintenance du patrimoine |
+
+(1) Mise en œuvre : application de connaissances et de savoir-faire dans le cadre des activités confiées.
+
+(2) Spécialités techniques : électricité, plomberie, chauffage, menuiserie, maçonnerie, peinture et/ ou plâtrerie et/ ou revêtement mural, sol et/ ou carrelage, gestion de moyens, espaces verts (jardinier et/ ou paysagiste). |
+
+1.5. Table de cotation des activités
+
+Code |
+
+Activités constitutives des emplois de personnels
+
+d'immeubles et de maintenance regroupées par domaine |
+
+Cotation des activités |
+
+|
+
+|
+
+Tech. |
+
+Rel. |
+
+Auto. |
+
+Sous-total |
+
+1 |
+
+Entretien courant du patrimoine |
+
+11 |
+
+Nettoyage des parties communes et abords immédiats |
+
+1 |
+
+1 |
+
+1 |
+
+3 |
+
+12 |
+
+Entretien des espaces extérieurs |
+
+2 |
+
+1 |
+
+2 |
+
+5 |
+
+13 |
+
+Traitement des ordures ménagères |
+
+1 |
+
+1 |
+
+2 |
+
+4 |
+
+14 |
+
+Entretien courant |
+
+1 |
+
+1 |
+
+2 |
+
+4 |
+
+15 |
+
+Contribution à la première maintenance des installations des parties communes |
+
+2 |
+
+1 |
+
+2 |
+
+5 |
+
+16 |
+
+Gestion des moyens |
+
+3 |
+
+2 |
+
+2 |
+
+7 |
+
+2 |
+
+Participation à la maintenance et à la gestion technique du patrimoine |
+
+21 |
+
+Activités de surveillance |
+
+2 |
+
+2 |
+
+2 |
+
+6 |
+
+22 |
+
+Suivi de travaux |
+
+2 |
+
+3 |
+
+2 |
+
+7 |
+
+23 |
+
+Participation à la gestion des travaux, suivi de la réalisation |
+
+2 |
+
+3 |
+
+2 |
+
+7 |
+
+24 |
+
+Gestion des réclamations techniques |
+
+3 |
+
+3 |
+
+3 |
+
+9 |
+
+25 |
+
+Sensibilisation au développement durable |
+
+2 |
+
+4 |
+
+2 |
+
+8 |
+
+3 |
+
+Gestion locative/ commerciale |
+
+31 |
+
+Accueil commercial |
+
+2 |
+
+2 |
+
+2 |
+
+6 |
+
+32 |
+
+Communication avec les locataires |
+
+2 |
+
+2 |
+
+2 |
+
+6 |
+
+33 |
+
+Application des clauses du contrat |
+
+3 |
+
+3 |
+
+3 |
+
+9 |
+
+34 |
+
+Prise en charge des logements vacants |
+
+2 |
+
+2 |
+
+4 |
+
+8 |
+
+35 |
+
+Accompagnement commercial |
+
+3 |
+
+4 |
+
+2 |
+
+9 |
+
+36 |
+
+Participation à la gestion de copropriété |
+
+3 |
+
+3 |
+
+3 |
+
+9 |
+
+37 |
+
+Gestion administrative |
+
+3 |
+
+2 |
+
+2 |
+
+7 |
+
+4 |
+
+Gestion sociale |
+
+41 |
+
+Contribution à l'analyse des situations sociales |
+
+3 |
+
+4 |
+
+3 |
+
+10 |
+
+42 |
+
+Assistance aux locataires |
+
+4 |
+
+3 |
+
+3 |
+
+10 |
+
+43 |
+
+Accompagnement lien social |
+
+3 |
+
+3 |
+
+3 |
+
+9 |
+
+44 |
+
+Conciliation sociale |
+
+4 |
+
+4 |
+
+3 |
+
+11 |
+
+45 |
+
+Contribution au développement social des quartiers |
+
+5 |
+
+4 |
+
+4 |
+
+13 |
+
+5 |
+
+Animation des personnels |
+
+51 |
+
+Tutorat auprès de nouveaux arrivants |
+
+4 |
+
+3 |
+
+3 |
+
+10 |
+
+52 |
+
+Supervision technique de personnels |
+
+4 |
+
+4 |
+
+4 |
+
+12 |
+
+53 |
+
+Contribution à l'animation de personnels |
+
+5 |
+
+5 |
+
+4 |
+
+14 |
+
+6 |
+
+Maintenance du patrimoine |
+
+61 |
+
+Entretien technique courant |
+
+2 |
+
+2 |
+
+3 |
+
+7 |
+
+62 |
+
+Travaux et interventions techniques |
+
+3 |
+
+3 |
+
+3 |
+
+9 |
+
+63 |
+
+Dépannages techniques |
+
+4 |
+
+3 |
+
+4 |
+
+11 |
+
+64 |
+
+Travaux, dépannages techniques complexes |
+
+5 |
+
+3 |
+
+4 |
+
+12 |
+
+65 |
+
+Gestion des moyens d'une entité |
+
+3 |
+
+3 |
+
+3 |
+
+9 |
+
+66 |
+
+Entretien des espaces verts |
+
+4 |
+
+2 |
+
+2 |
+
+8 |
+
+Au sous-total qui figure dans ce tableau s'ajoute le niveau de contribution (cf. étape 3 du paragraphe 1.2.2) calculé sur la base du tableau relatif au critère “ contribution ” (1.4.4).
+
+1.6. Activités des personnels d'immeubles et de maintenance : table de concordance des codes des activités 2000-2013
+
+La nouvelle codification est simplifiée : le chiffre de la dizaine correspond au domaine (1 à 6), et le chiffre de l'unité correspond à l'activité.
+
+Ancien code |
+
+Nouveau code |
+
+Domaine (gras) et activités |
+
+1000 |
+
+1 |
+
+Entretien courant du patrimoine |
+
+1010 |
+
+11 |
+
+Nettoyage des parties communes et abords immédiats |
+
+1020 |
+
+12 |
+
+Entretien des espaces extérieurs |
+
+1030 |
+
+13 |
+
+Traitement des ordures ménagères |
+
+1040 |
+
+14 |
+
+Entretien courant |
+
+1050 |
+
+15 |
+
+Contribution à la première maintenance des installations des parties communes |
+
+1060 |
+
+16 |
+
+Gestion des moyens |
+
+2000 |
+
+2 |
+
+Participation à la maintenance et à la gestion technique du patrimoine |
+
+2070 |
+
+21 |
+
+Activités de surveillance |
+
+|
+
+22 |
+
+Suivi de travaux |
+
+2080 |
+
+23 |
+
+Participation à la gestion des travaux, suivi de la réalisation |
+
+2090 |
+
+24 |
+
+Gestion des réclamations techniques |
+
+|
+
+25 |
+
+Sensibilisation au développement durable |
+
+3000 |
+
+3 |
+
+Gestion locative, commerciale |
+
+3100 |
+
+31 |
+
+Accueil commercial |
+
+3110 |
+
+32 |
+
+Communication avec les locataires |
+
+3120 |
+
+33 |
+
+Application des clauses du contrat |
+
+3130 |
+
+34 |
+
+Prise en charge des logements vacants |
+
+|
+
+35 |
+
+Accompagnement commercial |
+
+|
+
+36 |
+
+Participation à la gestion de copropriété |
+
+|
+
+37 |
+
+Gestion administrative |
+
+4000 |
+
+4 |
+
+Gestion sociale |
+
+4150 |
+
+41 |
+
+Contribution à l'analyse des situations sociales |
+
+4160 |
+
+41 |
+
+Assistance aux locataires |
+
+|
+
+42 |
+
+Accompagnement lien social |
+
+|
+
+43 |
+
+Conciliation sociale |
+
+4170 |
+
+44 |
+
+Contribution au développement social des quartiers |
+
+5000 |
+
+5 |
+
+Animation des personnels |
+
+|
+
+51 |
+
+Tutorat auprès de nouveaux arrivants |
+
+5180 |
+
+52 |
+
+Supervision technique de personnels |
+
+5190 |
+
+53 |
+
+Contribution à l'animation de personnels |
+
+|
+
+6 |
+
+Maintenance du patrimoine |
+
+|
+
+61 |
+
+Entretien technique courant |
+
+|
+
+62 |
+
+Travaux et interventions techniques |
+
+|
+
+63 |
+
+Dépannages techniques |
+
+|
+
+64 |
+
+Travaux, dépannages techniques complexes |
+
+|
+
+65 |
+
+Gestion des moyens d'une entité |
+
+|
+
+66 |
+
+Entretien des espaces verts |
