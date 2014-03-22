@@ -916,7 +916,7 @@ Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. |
 
 Teneur techniquement inévitable. |
 
-Arabinofuranosidase d'Aspergillus niger ARF-1.
+Arabinofuranosidase d'une souche non génétiquement modifiée d'Aspergillus niger (ARF-1)
 
 |
 
@@ -924,7 +924,7 @@ Enzymes.
 
 |
 
-Panification (à l'exception du pain de tradition française) et panification spéciale.
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie et pâtisserie.
 
 |
 
@@ -932,7 +932,7 @@ Hydrolyse des arabinoxylanes, L-arabinanes et arabinogalactanes dans les céréa
 
 |
 
-Dose techniquement inévitable.
+Teneur techniquement inévitable.
 
 |
 
@@ -1970,7 +1970,7 @@ Hydrolyse des liaisons alpha-1-4 des chaînes d'amidon et d'oligosaccharides. |
 
 Teneur techniquement inévitable. |
 
-Exo-amylase maltogène (ou 4-D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (DS 63113) contenant un gène de Geobacillus stearothermophilus. |
+Exo-α-amylase maltogène (ou 4-D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (DS 67348) contenant un gène de Geobacillus stearothermophilus. |
 
 Enzymes. |
 

@@ -2124,28 +2124,6 @@ Hypochlorite de sodium.
 
 |
 
-Divers.
-
-|
-
-Fruits et légumes et champignons destinés à la mise en conserve et à la congélation et fruits, légumes et champignons crus prêts à l'emploi (dits de quatrième gamme).
-
-|
-
-Concentration en chlore libre du bain de chloration : 80 ppm au maximum.
-
-Rinçage obligatoire.
-
-|
-
-Teneur en résidus organochlorés : inférieure à 100 microgrammes par kilogramme (exprimée sous la forme d'organo-halogénés adsorbables AOX).
-
-|
-
-Hypochlorite de sodium.
-
-|
-
 Agents décolorants.
 
 |
