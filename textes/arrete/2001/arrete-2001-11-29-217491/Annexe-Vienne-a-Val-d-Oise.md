@@ -362,15 +362,19 @@ B
 
 |
 
-Direction départementale de l'équipement des Hauts-de-Seine
+Direction régionale et interdépartementale de l'hébergement
 
-FONCTIONS EXERCEES
+et du logement en Ile-de-France
+
+FONCTIONS EXERCÉES
 
 |
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -380,85 +384,15 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS (IM)
-
-par emploi
-
-|
-
-Délégué de l'Etat pour le grand projet de ville, chargé de mission territorial
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chargé de mission habitat
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chargé de mission politique de la ville
-
-|
-
-B
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Direction départementale de l'équipement de la Seine-Saint-Denis
-
-FONCTIONS EXERCEES
-
-|
-
-NIVEAU
-
-de qualification de l'emploi
-
-|
-
 NOMBRE
 
-d'emplois
-
-|
-
-NOMBRE DE POINTS (IM)
+de points (IM)
 
 par emploi
 
 |
 
-Chargé de mission politique de la ville
+Adjoint (e) chef du service habitat et rénovation urbaine - unité territoriale de Paris
 
 |
 
@@ -470,27 +404,11 @@ A
 
 |
 
-50 points
+50
 
 |
 
-Chargé du suivi des organismes constructeurs au service habitat
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chef de la subdivision logement des plus démunis
+Responsable de la mission droit au logement opposable - unité territoriale de Paris
 
 |
 
@@ -502,107 +420,11 @@ A
 
 |
 
-20 points
+23
 
 |
 
-Chargé de mission diagnostics territoriaux au groupe études et programmation
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chargé de mission études habitat et application de la loi solidarité et renouvellement urbains
-
-|
-
-A
-
-|
-
-4
-
-|
-
-20 points
-
-|
-
-Chef de l'atelier d'urbanisme
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chargé d'études de l'atelier d'urbanisme
-
-|
-
-A
-
-|
-
-3
-
-|
-
-20 points
-
-|
-
-Chef de la subdivision développement de l'offre nouvelle
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chef de subdivision des arrondissements territoriaux
-
-|
-
-A
-
-|
-
-6
-
-|
-
-20 points
-
-|
-
-Assistant du chargé de mission politique de la ville
+Chef du bureau lutte contre le saturnisme - unité territoriale de Paris
 
 |
 
@@ -614,43 +436,11 @@ B
 
 |
 
-30 points
+30
 
 |
 
-Gestionnaire de subventions liées à la politique de la ville
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Chef de la subdivision amélioration de l'habitat
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Assistant amélioration de l'habitat au service de l'habitat
+Chargé (e) de projet rénovation urbaine - unité territoriale de Paris
 
 |
 
@@ -662,27 +452,11 @@ B
 
 |
 
-10 points
+20
 
 |
 
-Chargé de projet à la subdivision pour le logement des plus démunis
-
-|
-
-B
-
-|
-
-2
-
-|
-
-10 points
-
-|
-
-Chargé de mission pour le logement des plus démunis
+Instructeur habitat privé - unité territoriale de Paris
 
 |
 
@@ -690,31 +464,15 @@ B
 
 |
 
-2
-
-|
-
-10 points
-
-|
-
-Comptable subventions politique de la ville
-
-|
-
-C
-
-|
-
 1
 
 |
 
-20 points
+30
 
 |
 
-Responsable du pôle politique de la ville et ingénierie du renouvellement urbain
+Chef du bureau intervention dans le parc privé - unité territoriale des Hauts-de-Seine
 
 |
 
@@ -726,27 +484,11 @@ A
 
 |
 
-50 points
+23
 
 |
 
-Chargé d'études politique de la ville et renouvellement urbain au service habitat et renouvellement urbain
-
-|
-
-A
-
-|
-
-4
-
-|
-
-20 points
-
-|
-
-Responsable du pôle logement social
+Chef du bureau rénovation urbaine - unité territoriale des Hauts-de-Seine
 
 |
 
@@ -758,27 +500,11 @@ A
 
 |
 
-20 points
+23
 
 |
 
-Adjoint au responsable du pôle logement social
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Responsable du pôle interventions en habitat privé
+Adjoint (e) au chef de bureau rénovation urbaine - unité territoriale des Hauts-de-Seine
 
 |
 
@@ -790,187 +516,11 @@ A
 
 |
 
-20 points
+23
 
 |
 
-Responsable de la cellule éradication de l'habitat indigne
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Responsable du pôle logement des démunis et prévention des expulsions
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Responsable du pôle droit au logement opposable
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chargé de mission gens du voyage et résorption de l'habitat précaire
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chargé de projet mise en œuvre des conventions ANRU
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Chargé de mission au pôle études et politiques urbaines au groupe d'analyse et de développement durable des territoires
-
-|
-
-A
-
-|
-
-2
-
-|
-
-20 points
-
-|
-
-Responsable du pôle planification urbaine et aménagement
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Responsable du pôle d'information géographique et statistique des territoires
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Responsable de la subdivision foncière opérationnelle
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Responsable d'équipe projet bâtiment pour l'ingénierie des projets ANRU
-
-|
-
-A
-
-|
-
-1
-
-|
-
-20 points
-
-|
-
-Instructeur politique de la ville et renouvellement urbain au service habitat et renouvellement urbain
-
-|
-
-B
-
-|
-
-2
-
-|
-
-30 points
-
-|
-
-Instructeur financement, logement social, référent ANRU
+Chargé (e) d'opération habitat indigne - unité territoriale des Hauts-de-Seine
 
 |
 
@@ -982,11 +532,11 @@ B
 
 |
 
-30 points
+20
 
 |
 
-Instructeur financement du logement social au service habitat et renouvellement urbain
+Chargé (e) de projet rénovation urbaine - unité territoriale des Hauts-de-Seine
 
 |
 
@@ -998,31 +548,15 @@ B
 
 |
 
-10 points
+20
 
 |
 
-Chargé d'opération éradication de l'habitat indigne
+Chargé (e) de mission Plan départemental d'action pour le logement des personnes défavorisées (PDALPD) - unité territoriale de la Seine-Saint-Denis
 
 |
 
-B
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
-Instructeur d'opération éradication de l'habitat indigne
-
-|
-
-B
+A
 
 |
 
@@ -1030,15 +564,15 @@ B
 
 |
 
-10 points
+23
 
 |
 
-Responsable de la commission départementale des aides personnalisées au logement
+Chargé (e) de la cellule éradication de l'habitat indigne - unité territoriale de la Seine-Saint-Denis
 
 |
 
-B
+A
 
 |
 
@@ -1046,11 +580,123 @@ B
 
 |
 
-10 points
+23
 
 |
 
-Suivi administratif des opérations éradication de l'habitat indigne
+Chef du bureau Interventions dans l'habitat privé - unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chef du bureau du logement social - unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chef du bureau rénovation urbaine - unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Chargé (e) de projet rénovation urbaine - unité territoriale de la Seine-Saint-Denis
+
+|
+
+A
+
+|
+
+5
+
+|
+
+23
+
+|
+
+Chargé (e) d'opérations habitat indigne - unité territoriale de la Seine-Saint-Denis
+
+|
+
+B
+
+|
+
+3
+
+|
+
+20
+
+|
+
+Instructeur du financement du logement social - unité territoriale de la Seine-Saint-Denis
+
+|
+
+B
+
+|
+
+2
+
+|
+
+30
+
+|
+
+Instructeur du financement rénovation urbaine - unité territoriale de la Seine-Saint-Denis
+
+|
+
+B
+
+|
+
+4
+
+|
+
+20
+
+|
+
+Instructeur habitat indigne - unité territoriale de la Seine-Saint-Denis
 
 |
 
@@ -1062,7 +708,71 @@ C
 
 |
 
-20 points
+10
+
+|
+
+Chef du bureau financement du parc social et de son renouvellement - unité territoriale du Val-de-Marne
+
+|
+
+A
+
+|
+
+1
+
+|
+
+23
+
+|
+
+Chargé (e) de projet rénovation urbaine - unité territoriale du Val-de-Marne
+
+|
+
+A
+
+|
+
+2
+
+|
+
+23
+
+|
+
+Adjoint (e) au chef du bureau financement du parc social et de son renouvellement - unité territoriale du Val-de-Marne
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20
+
+|
+
+Chargé (e) d'opérations habitat indigne - unité territoriale du Val-de-Marne
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20
 
 |
 
@@ -1225,3 +935,5 @@ NOTA :
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
 Arrêté du 12 décembre 2012 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er novembre 2011 pour le département du Territoire de Belfort.
+
+Arrêté du 12 mars 2014 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er juillet 2010 pour la préfecture de la région Ile-de-France de la préfecture de Paris.
