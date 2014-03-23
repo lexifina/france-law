@@ -64,11 +64,11 @@ Article 1er : Objet de la concession
 
 La concession, à laquelle s'applique le présent cahier des charges, a pour objet :
 
-- l'exploitation des ouvrages hydrauliques et de la centrale génératrice destinée à l'utilisation de la chute brute d'environ 14 m pour un débit de 1 400 m ³ / s, entre la cote amont 244, 26 m + NN, sur le cours d'eau Rhin, fleuve franco-allemand, dont la partie française fait partie du domaine public fluvial et la cote de restitution 230, 30 m + NN dans le grand canal d'Alsace à l'entrée du bief d'Ottmarsheim. Cette centrale est appelée ci-après centrale de Kembs ;
+― l'exploitation des ouvrages hydrauliques et de la centrale génératrice destinée à l'utilisation de la chute brute d'environ 14 m pour un débit de 1 400 m ³ / s, entre la cote amont 244, 26 m + NN, sur le cours d'eau Rhin, fleuve franco-allemand, dont la partie française fait partie du domaine public fluvial et la cote de restitution 230, 30 m + NN dans le grand canal d'Alsace à l'entrée du bief d'Ottmarsheim. Cette centrale est appelée ci-après centrale de Kembs ;
 
-- l'exploitation des ouvrages hydrauliques et de la centrale génératrice existante destinée à l'utilisation de la chute brute d'environ 12 m pour un débit de 1 400 m ³ / s dans le Rhin, entre la cote amont 244, 26 m + NN, sur le Rhin, et la cote de restitution 232, 85 m + NN à l'aval immédiat du barrage dans le cours d'eau Rhin. Cette centrale est appelée ci-après centrale de restitution A ;
+― l'exploitation des ouvrages hydrauliques et de la centrale génératrice existante destinée à l'utilisation de la chute brute d'environ 12 m pour un débit de 1 400 m ³ / s dans le Rhin, entre la cote amont 244, 26 m + NN, sur le Rhin, et la cote de restitution 232, 85 m + NN à l'aval immédiat du barrage dans le cours d'eau Rhin. Cette centrale est appelée ci-après centrale de restitution A ;
 
-- l'établissement et l'exploitation de la centrale génératrice complémentaire destinée à l'utilisation de la chute brute d'environ 12 mètres pour un débit de 1 400 m ³ / s dans le Rhin, entre la cote amont 244, 26 m + NN, sur le grand canal d'Alsace et la cote de restitution 232, 85 m + NN à l'aval immédiat du barrage dans le cours d'eau Rhin. Cette centrale est appelée ci-après centrale de restitution B.
+― l'établissement et l'exploitation de la centrale génératrice complémentaire destinée à l'utilisation de la chute brute d'environ 12 mètres pour un débit de 1 400 m ³ / s dans le Rhin, entre la cote amont 244, 26 m + NN, sur le grand canal d'Alsace et la cote de restitution 232, 85 m + NN à l'aval immédiat du barrage dans le cours d'eau Rhin. Cette centrale est appelée ci-après centrale de restitution B.
 
 Pour les dispositions suivantes, l'ensemble centrale de restitution A + centrale de restitution B sera appelé les centrales de restitution.
 
@@ -224,7 +224,9 @@ Total
 
 (*) Puissance maximale brute.
 
-(**) Puissance normale disponible. |
+(**) Puissance normale disponible.
+
+|
 
 Ainsi, la puissance maximale brute de la chute concédée (total des centrales) est évaluée à 157 714 kilowatts, ce qui correspond, compte tenu du rendement normal des appareils d'utilisation, du débit moyen turbinable et des pertes de charge, à une puissance normale disponible de 83 650 kilowatts (ces valeurs sont celles du début de la concession).
 
@@ -234,9 +236,9 @@ En outre, sont concernées comme riveraines de la retenue ou du tronçon de cour
 
 Sont aussi concernées :
 
-- la ville de Bâle en Suisse (retenue) ;
+― la ville de Bâle en Suisse (retenue) ;
 
-- dix communes allemandes, riveraines du Vieux Rhin court-circuité, et qui sont de l'amont vers l'aval : Weil am Rhein (aussi concernée par la retenue), Eimeldingen, Efringen-Kirchen, Bad-Bellingen, Schliengen, Auggen, Neuenburg am Rhein, Eschbach, Hartheim et Breisach am Rhein.
+― dix communes allemandes, riveraines du Vieux Rhin court-circuité, et qui sont de l'amont vers l'aval : Weil am Rhein (aussi concernée par la retenue), Eimeldingen, Efringen-Kirchen, Bad-Bellingen, Schliengen, Auggen, Neuenburg am Rhein, Eschbach, Hartheim et Breisach am Rhein.
 
 Article 2 : Objet de l'entreprise
 
@@ -276,9 +278,9 @@ IV.-Les dépendances immobilières d'un aménagement qui n'ont jamais été affe
 
 Lorsqu'une dépendance immobilière acquise au nom de l'Etat n'a jamais été affectée à l'objet de la concession, sa distraction s'effectue, pour le compte du concessionnaire, selon les modalités financières suivantes :
 
-- en cas de rétrocession de l'immeuble à son ancien propriétaire ou ses ayants droit à titre universel en application de l'article L. 12-6 du code de l'expropriation, le montant du prix de vente est versé au concessionnaire déduction faite des amortissements éventuellement comptabilisés à la date de cession ;
+― en cas de rétrocession de l'immeuble à son ancien propriétaire ou ses ayants droit à titre universel en application de l'article L. 12-6 du code de l'expropriation, le montant du prix de vente est versé au concessionnaire déduction faite des amortissements éventuellement comptabilisés à la date de cession ;
 
-- si l'ancien propriétaire ou ses ayants droit à titre universel renoncent à la mise en œuvre de ce droit de rétrocession ou s'il n'y a pas lieu à exercice de ce droit, le concessionnaire doit racheter l'immeuble à l'Etat à sa valeur vénale à la date de distraction, sous déduction du coût d'acquisition diminué des amortissements éventuellement pratiqués par le concessionnaire à cette même date.
+― si l'ancien propriétaire ou ses ayants droit à titre universel renoncent à la mise en œuvre de ce droit de rétrocession ou s'il n'y a pas lieu à exercice de ce droit, le concessionnaire doit racheter l'immeuble à l'Etat à sa valeur vénale à la date de distraction, sous déduction du coût d'acquisition diminué des amortissements éventuellement pratiqués par le concessionnaire à cette même date.
 
 V.-Hormis le cas de superposition d'ouvrages publics, le concessionnaire ne pourra autoriser un tiers à occuper ou utiliser une dépendance de la concession que de façon précaire et révocable, en vertu d'une convention écrite, approuvée et visée par le préfet préalablement à son entrée en vigueur.
 
@@ -338,17 +340,17 @@ II.-Chantiers sur les ouvrages existants et construction de la centrale de resti
 
 Les obligations du maître d'œuvre comprendront notamment :
 
-- la vérification de la cohérence générale de la conception du projet et la vérification de son dimensionnement général et de son adaptation aux caractéristiques physiques du site ;
+― la vérification de la cohérence générale de la conception du projet et la vérification de son dimensionnement général et de son adaptation aux caractéristiques physiques du site ;
 
-- la vérification de la conformité du projet d'exécution aux règles de l'art ;
+― la vérification de la conformité du projet d'exécution aux règles de l'art ;
 
-- la direction des travaux ;
+― la direction des travaux ;
 
-- la surveillance des travaux et de leur conformité au projet d'exécution ;
+― la surveillance des travaux et de leur conformité au projet d'exécution ;
 
-- les essais et réception des matériaux, des parties constitutives de l'ouvrage et de l'ouvrage lui-même ;
+― les essais et réception des matériaux, des parties constitutives de l'ouvrage et de l'ouvrage lui-même ;
 
-- la tenue d'un carnet de chantier relatant les incidents survenus en cours de chantier.
+― la tenue d'un carnet de chantier relatant les incidents survenus en cours de chantier.
 
 III.-Protection de l'environnement durant le chantier (dispositions concernant la centrale de restitution B et la passe à poissons).
 
@@ -366,9 +368,9 @@ Article 10 : Délais d'exécution et mise en service des ouvrages
 
 Conformément aux dispositions réglementaires en la matière, les ouvrages existants à la date de la demande de concession ont fait l'objet :
 
-- d'un récolement des travaux, effectué par les soins du service chargé du contrôle, en date du 6 avril 1934 ;
+― d'un récolement des travaux, effectué par les soins du service chargé du contrôle, en date du 6 avril 1934 ;
 
-- d'un arrêté préfectoral de mise en service en date du 27 juillet 1934.
+― d'un arrêté préfectoral de mise en service en date du 27 juillet 1934.
 
 Les projets d'exécution des ouvrages complémentaires nécessaires pour l'aménagement de la force hydraulique et la production d'énergie électrique devront être présentés au préfet dans le délai de vingt-quatre mois à dater de la publication de l'acte de concession.
 
@@ -464,31 +466,31 @@ Le barrage sera équipé d'un dispositif de franchissement des poissons, associ�
 
 Ouvrages de franchissement des poissons à hauteur du barrage :
 
-- la centrale de restitution B sera équipée de dispositifs de franchissement pour les poissons, qui permettent le contournement du barrage. Une passe à poissons à bassins successifs intégrée à l'ouvrage disposera d'un débit d'attrait complémentaire au débit transitant dans ses bassins. La passe sera équipée d'un local de comptage ;
+― la centrale de restitution B sera équipée de dispositifs de franchissement pour les poissons, qui permettent le contournement du barrage. Une passe à poissons à bassins successifs intégrée à l'ouvrage disposera d'un débit d'attrait complémentaire au débit transitant dans ses bassins. La passe sera équipée d'un local de comptage ;
 
-- la prise d'eau de la centrale de restitution B sera équipée d'un dispositif de dévalaison pour les anguilles fonctionnant de la manière suivante : une ou plusieurs prises d'eau à hauteur du radier rejoignent la chambre de raccordement située en rive gauche de la centrale par l'intermédiaire d'un conduit intégré aux bajoyers de la prise d'eau. Un canal assurera la liaison avec le point de départ du bras renaturé ;
+― la prise d'eau de la centrale de restitution B sera équipée d'un dispositif de dévalaison pour les anguilles fonctionnant de la manière suivante : une ou plusieurs prises d'eau à hauteur du radier rejoignent la chambre de raccordement située en rive gauche de la centrale par l'intermédiaire d'un conduit intégré aux bajoyers de la prise d'eau. Un canal assurera la liaison avec le point de départ du bras renaturé ;
 
-- la prise d'eau de la centrale de restitution B sera équipée d'un dispositif de dévalaison pour les salmonidés fonctionnant de la manière suivante : une ou plusieurs prises d'eau au-dessus des grilles d'entonnement rejoignent la même chambre de raccordement située en rive gauche de la centrale par l'intermédiaire d'une ou plusieurs galeries situées dans le béton de masse de la prise d'eau sous le dégrilleur. Le canal destiné également aux anguilles assure la liaison avec le départ du bras renaturé.
+― la prise d'eau de la centrale de restitution B sera équipée d'un dispositif de dévalaison pour les salmonidés fonctionnant de la manière suivante : une ou plusieurs prises d'eau au-dessus des grilles d'entonnement rejoignent la même chambre de raccordement située en rive gauche de la centrale par l'intermédiaire d'une ou plusieurs galeries situées dans le béton de masse de la prise d'eau sous le dégrilleur. Le canal destiné également aux anguilles assure la liaison avec le départ du bras renaturé.
 
 Prise d'eau pour le bras renaturé de l'île du Rhin :
 
-- une prise, destinée à alimenter en eau le bras renaturé de l'île de Kembs, sera située au niveau de la prise d'eau de la centrale de restitution B juste avant les groupes. Son débit assurera, avec les dispositifs de dévalaison, un débit total de 7 m ³ / s dans le bras renaturé.
+― une prise, destinée à alimenter en eau le bras renaturé de l'île de Kembs, sera située au niveau de la prise d'eau de la centrale de restitution B juste avant les groupes. Son débit assurera, avec les dispositifs de dévalaison, un débit total de 7 m ³ / s dans le bras renaturé.
 
 Liaison entre le grand canal d'Alsace et le canal de drainage en rive gauche, à l'aval de la centrale de Kembs :
 
-- la remontée des poissons du grand canal d'Alsace vers le canal de drainage en rive gauche du grand canal à l'aval de la centrale de Kembs sera assurée par un dispositif à bassins successifs, et / ou à seuils successifs. Le raccordement au grand canal d'Alsace sera situé à environ 250 m à l'aval de la centrale de Kembs.
+― la remontée des poissons du grand canal d'Alsace vers le canal de drainage en rive gauche du grand canal à l'aval de la centrale de Kembs sera assurée par un dispositif à bassins successifs, et / ou à seuils successifs. Le raccordement au grand canal d'Alsace sera situé à environ 250 m à l'aval de la centrale de Kembs.
 
 Contrôle du débit réservé :
 
-- pour chaque période et chaque situation, le débit restitué au Vieux Rhin est la somme des débits arrivant au Vieux Rhin :
+― pour chaque période et chaque situation, le débit restitué au Vieux Rhin est la somme des débits arrivant au Vieux Rhin :
 
-- par les vannes du barrage ;
+― par les vannes du barrage ;
 
-- par l'ensemble des groupes de production d'énergie du barrage ;
+― par l'ensemble des groupes de production d'énergie du barrage ;
 
-- par les organes de montaison et dévalaison des poissons au niveau des groupes du barrage ;
+― par les organes de montaison et dévalaison des poissons au niveau des groupes du barrage ;
 
-- par le bras d'eau renaturé au travers de l'île de Kembs.
+― par le bras d'eau renaturé au travers de l'île de Kembs.
 
 Pour le contrôle des débits délivrés au Vieux Rhin, des dispositifs seront installés au niveau de chaque lieu de délivrement d'une partie du débit réservé. Ces dispositifs seront décrits dans le règlement d'eau.
 
@@ -528,13 +530,13 @@ A partir de la centrale, le barrage est accessible par une voie privée EDF.
 
 Elles sont composées de deux sas accolés de longueurs utiles quasi identiques (183 m pour le sas Ouest et 190 m pour le sas Est) et de même largeur (25 m). Leur profondeur est de 20, 5 m. Leur conception est similaire :
 
-- bajoyers (murs latéraux) en béton ;
+― bajoyers (murs latéraux) en béton ;
 
-- fond en radier bétonné de 1, 00 m à 2, 00 m d'épaisseur ;
+― fond en radier bétonné de 1, 00 m à 2, 00 m d'épaisseur ;
 
-- prolongement du fond étanche jusqu'à 400 m environ à l'amont de l'écluse (fond bétonné de 30 cm d'épaisseur recouvert de gravier) ;
+― prolongement du fond étanche jusqu'à 400 m environ à l'amont de l'écluse (fond bétonné de 30 cm d'épaisseur recouvert de gravier) ;
 
-- portes levantes manœuvrées à partir de portiques béton en superstructure, à l'exception de la porte amont du sas Est, qui est une porte abaissante.
+― portes levantes manœuvrées à partir de portiques béton en superstructure, à l'exception de la porte amont du sas Est, qui est une porte abaissante.
 
 Le poste de commande de l'écluse se trouve entre les portiques aval, à quelques mètres au-dessus du sol.
 
@@ -556,9 +558,9 @@ Par ailleurs, le concessionnaire mettra en œuvre un processus d'érosion maîtr
 
 Ce processus consiste à :
 
-- créer des brèches dans la digue de Tulla et laisser éroder les matériaux alluvionnaires de l'île du Rhin, sans mettre en péril les zones des ouvrages ou autres activités humaines ;
+― créer des brèches dans la digue de Tulla et laisser éroder les matériaux alluvionnaires de l'île du Rhin, sans mettre en péril les zones des ouvrages ou autres activités humaines ;
 
-- par endroits, faciliter par l'érosion des crues du Rhin, la remise en eau d'annexes latérales au Vieux Rhin au pied de la digue de Tulla.
+― par endroits, faciliter par l'érosion des crues du Rhin, la remise en eau d'annexes latérales au Vieux Rhin au pied de la digue de Tulla.
 
 L'érosion maîtrisée sera réalisée sur un linéaire de 13 km au total à l'aval du barrage de Kembs, en plusieurs tronçons. Elle sera mise en œuvre par itérations successives, sur une période d'environ vingt ans.
 
@@ -584,25 +586,25 @@ Par la suite est institué le principe d'une clause de rendez-vous. Ce rendez-vo
 
 Le paragraphe III-3 suivant définit pour cette clause de rendez-vous :
 
-- sa finalité ;
+― sa finalité ;
 
-- les critères conditionnant l'augmentation de débits à envisager ;
+― les critères conditionnant l'augmentation de débits à envisager ;
 
-- un encadrement quantifié de l'augmentation de débits possibles ;
+― un encadrement quantifié de l'augmentation de débits possibles ;
 
-- la date où ce rendez-vous pourra être mis en œuvre.
+― la date où ce rendez-vous pourra être mis en œuvre.
 
 III-2. Débits dans le Vieux Rhin pour la première période.
 
 Pour chaque saison et chaque situation, le débit restitué dans le Vieux Rhin est la somme des débits arrivant au Vieux Rhin :
 
-- par les vannes du barrage ;
+― par les vannes du barrage ;
 
-- par l'ensemble des groupes de production d'énergie du barrage (centrales de restitution A et B) ;
+― par l'ensemble des groupes de production d'énergie du barrage (centrales de restitution A et B) ;
 
-- par les organes de montaison et dévalaison des poissons au niveau des groupes du barrage ;
+― par les organes de montaison et dévalaison des poissons au niveau des groupes du barrage ;
 
-- par le bras d'eau renaturé au travers de l'île de Kembs.
+― par le bras d'eau renaturé au travers de l'île de Kembs.
 
 Lorsque le débit du Rhin est supérieur à la somme de 1 400 m ³ / s et du débit prévu dans le Vieux Rhin, le complément de débit est restitué au Vieux Rhin par les groupes de production d'énergie du barrage et / ou par les vannes du barrage.
 
@@ -616,13 +618,13 @@ Le reste de l'année, le débit est caractérisé par un débit plancher, déliv
 
 Le débit est donc le résultat du calcul suivant :
 
-Débit dans le Rhin = débit plancher + facteur de variation × (débit réel entrant - débit pivot), le tout plafonné à la valeur débit plafond :
+Débit dans le Rhin = débit plancher + facteur de variation × (débit réel entrant ― débit pivot), le tout plafonné à la valeur débit plafond :
 
-- en avril et mai, le débit varie de 54 à 80 m ³ / s, la variation étant de 0, 2 fois la différence entre le débit entrant et le débit pivot fixé à 1 000 m ³ / s ;
+― en avril et mai, le débit varie de 54 à 80 m ³ / s, la variation étant de 0, 2 fois la différence entre le débit entrant et le débit pivot fixé à 1 000 m ³ / s ;
 
-- en juin juillet et août, le débit varie de 95 à 150 m ³ / s, la variation étant de 0, 2 fois la différence entre le débit entrant et le débit pivot fixé à 1 200 m ³ / s ;
+― en juin juillet et août, le débit varie de 95 à 150 m ³ / s, la variation étant de 0, 2 fois la différence entre le débit entrant et le débit pivot fixé à 1 200 m ³ / s ;
 
-- en septembre et octobre, le débit varie de 54 à 80 m ³ / s, la variation étant de 0, 2 fois la différence entre le débit entrant et le débit pivot fixé à 1 000 m ³ / s.
+― en septembre et octobre, le débit varie de 54 à 80 m ³ / s, la variation étant de 0, 2 fois la différence entre le débit entrant et le débit pivot fixé à 1 000 m ³ / s.
 
 b) Tableau récapitulatif des valeurs de débit restitué au Vieux Rhin :
 
@@ -718,7 +720,9 @@ Septembre-octobre
 
 |
 
-1 000 |
+1 000
+
+|
 
 c) Corrections des valeurs de débits pour les transitions entre printemps et été et entre été et automne.
 
@@ -762,13 +766,13 @@ c) Cadrage quantitatif.
 
 Si une augmentation du débit réservé est décidée lors du rendez-vous, elle sera définie comme suit :
 
-- les principes de modulation sont ceux définis à l'article 17, § III. 2 ;
+― les principes de modulation sont ceux définis à l'article 17, § III. 2 ;
 
-- le débit hivernal maximum est de 80 m ³ / s ;
+― le débit hivernal maximum est de 80 m ³ / s ;
 
-- le débit plafond estival est au plus trois fois le débit hivernal ;
+― le débit plafond estival est au plus trois fois le débit hivernal ;
 
-- le débit moyen annuel maximum est de 152 m ³ / s.
+― le débit moyen annuel maximum est de 152 m ³ / s.
 
 d) Date de la clause de rendez-vous.
 
@@ -802,9 +806,9 @@ En ce qui concerne la dévalaison des anguilles, pour contribuer aux avancées i
 
 Dans ce cadre, les contributions du concessionnaire porteront sur :
 
-- la mise à disposition et l'évaluation des résultats quantitatifs et qualitatifs de l'installation de protection des poissons prévue sur la nouvelle centrale de restitution ;
+― la mise à disposition et l'évaluation des résultats quantitatifs et qualitatifs de l'installation de protection des poissons prévue sur la nouvelle centrale de restitution ;
 
-- une participation à la mise en œuvre de dispositifs tests accompagnés d'expérimentations sur quelques années. Le concessionnaire réserve une somme de 300 000 euros pour contribuer à la réalisation de ces dispositifs.
+― une participation à la mise en œuvre de dispositifs tests accompagnés d'expérimentations sur quelques années. Le concessionnaire réserve une somme de 300 000 euros pour contribuer à la réalisation de ces dispositifs.
 
 Chapitre IV : Exploitation de l'aménagement
 
@@ -816,11 +820,11 @@ Article 20 : Exploitation et surveillance des ouvrages hydrauliques
 
 I.-Dossier des ouvrages hydrauliques et registre de surveillance. Pour les ouvrages hydrauliques de l'aménagement de Kembs, le concessionnaire tiendra à jour un dossier qui contiendra :
 
-- tous les documents relatifs à l'ouvrage, permettant d'avoir une connaissance la plus complète possible de leurs configurations exactes, de leurs fondations, de leurs ouvrages annexes, et de leur environnement hydrologique, géomorphologique et géologique, ainsi que de leur exploitation depuis leur mise en service ;
+― tous les documents relatifs à l'ouvrage, permettant d'avoir une connaissance la plus complète possible de leurs configurations exactes, de leurs fondations, de leurs ouvrages annexes, et de leur environnement hydrologique, géomorphologique et géologique, ainsi que de leur exploitation depuis leur mise en service ;
 
-- une description de l'organisation mise en place pour assurer l'exploitation et la surveillance des ouvrages en toutes circonstances ;
+― une description de l'organisation mise en place pour assurer l'exploitation et la surveillance des ouvrages en toutes circonstances ;
 
-- des consignes écrites dans lesquelles seront fixées les instructions de surveillance des ouvrages en toutes circonstances, ainsi que celles concernant leur exploitation en période de crue ; ces consignes préciseront le contenu des visites techniques approfondies mentionnées au II ainsi que, le cas échéant, des rapports de surveillance et d'auscultation transmis périodiquement au service chargé du contrôle ; ces consignes seront notamment reprises dans le règlement d'eau prévu à l'article 21 du présent cahier des charges.
+― des consignes écrites dans lesquelles seront fixées les instructions de surveillance des ouvrages en toutes circonstances, ainsi que celles concernant leur exploitation en période de crue ; ces consignes préciseront le contenu des visites techniques approfondies mentionnées au II ainsi que, le cas échéant, des rapports de surveillance et d'auscultation transmis périodiquement au service chargé du contrôle ; ces consignes seront notamment reprises dans le règlement d'eau prévu à l'article 21 du présent cahier des charges.
 
 Le concessionnaire tiendra également à jour un registre sur lequel seront inscrits les principaux renseignements relatifs aux travaux, à l'exploitation, à la surveillance, à l'entretien des ouvrages et à leurs dispositifs d'auscultation, aux conditions météorologiques et hydrologiques et à l'environnement des ouvrages.
 
@@ -846,25 +850,25 @@ Dans le respect des dispositions du présent cahier des charges, le règlement d
 
 Le règlement d'eau fixera, en tant que de besoin, les conditions techniques relatives aux dispositions d'exploitation normale des ouvrages hydrauliques dans toutes les hypothèses connues et prévisibles, et relatives notamment :
 
-- à la sécurité et à la protection des tiers ;
+― à la sécurité et à la protection des tiers ;
 
-- à la suppression des embâcles ;
+― à la suppression des embâcles ;
 
-- à l'exploitation en période de crue ;
+― à l'exploitation en période de crue ;
 
-- à la participation à l'opération manœuvres exceptionnelles des usines du Rhin ;
+― à la participation à l'opération manœuvres exceptionnelles des usines du Rhin ;
 
-- à la mesure spéciale d'adoucissement des gradients de variation de débit dans le Vieux Rhin ;
+― à la mesure spéciale d'adoucissement des gradients de variation de débit dans le Vieux Rhin ;
 
-- aux dispositifs et modalités de délivrance du débit réservé ;
+― aux dispositifs et modalités de délivrance du débit réservé ;
 
-- au débit pour la navigation et le CNPE de Fessenheim ;
+― au débit pour la navigation et le CNPE de Fessenheim ;
 
-- au dégrillage ;
+― au dégrillage ;
 
-- aux modalités de curage de la retenue et du grand canal d'Alsace ;
+― aux modalités de curage de la retenue et du grand canal d'Alsace ;
 
-- au suivi environnemental des mesures envisagées dans le cadre de la concession.
+― au suivi environnemental des mesures envisagées dans le cadre de la concession.
 
 Conformément à l'article 10 (III) de la loi du 3 janvier 1992 modifiée sur l'eau et à l'article 26 du décret du 13 octobre 1994 précité, le règlement d'eau fixe les moyens de surveillance et, le cas échéant, les moyens d'analyse, de mesure et de contrôle des effets de l'ouvrage sur l'eau et le milieu aquatique.
 
@@ -878,9 +882,9 @@ I.-Objectifs du suivi :
 
 Les objectifs du suivi écologique sont :
 
-- de mesurer l'effet des modifications d'exploitation et des mesures d'accompagnement prises sur les écosystèmes rhénans, et notamment de vérifier l'atteinte des objectifs écologiques associés à la future concession ; ces objectifs, détaillés dans le règlement d'eau, ont trait au rétablissement d'une certaine dynamique alluviale, à l'amélioration des habitats de certaines espèces (invertébrés, batraciens, oiseaux), à la restauration des conditions de vie de certaines espèces de poissons et au rétablissement de réseaux de biotopes pour les mammifères (loutre et castor) ;
+― de mesurer l'effet des modifications d'exploitation et des mesures d'accompagnement prises sur les écosystèmes rhénans, et notamment de vérifier l'atteinte des objectifs écologiques associés à la future concession ; ces objectifs, détaillés dans le règlement d'eau, ont trait au rétablissement d'une certaine dynamique alluviale, à l'amélioration des habitats de certaines espèces (invertébrés, batraciens, oiseaux), à la restauration des conditions de vie de certaines espèces de poissons et au rétablissement de réseaux de biotopes pour les mammifères (loutre et castor) ;
 
-- dans l'hypothèse où de nouveaux projets indépendants de la concession seraient élaborés, d'apporter des éléments d'information quant à l'éventuelle nécessité de nouveaux besoins en terme de débit dans le Vieux Rhin ou de mode de gestion du Vieux Rhin.
+― dans l'hypothèse où de nouveaux projets indépendants de la concession seraient élaborés, d'apporter des éléments d'information quant à l'éventuelle nécessité de nouveaux besoins en terme de débit dans le Vieux Rhin ou de mode de gestion du Vieux Rhin.
 
 II.-Indicateurs et objectifs :
 
@@ -888,7 +892,7 @@ Les paramètres indicateurs de l'évolution de l'écosystème, et lorsque cela e
 
 III.-Planification et mise en œuvre du suivi :
 
-La première phase du suivi, à réaliser dans l'année suivant l'obtention du titre, consistera en l'établissement d'un état initial - l'état zéro - tenant lieu de référence pour les phases ultérieures.
+La première phase du suivi, à réaliser dans l'année suivant l'obtention du titre, consistera en l'établissement d'un état initial ― l'état zéro ― tenant lieu de référence pour les phases ultérieures.
 
 Compte tenu des délais de mise en œuvre des projets liés à la future concession, le suivi environnemental proprement dit débutera trois ans après le début de la concession.
 
@@ -1012,11 +1016,11 @@ Article 37 : Réserves en eau
 
 I.-Principes et bénéficiaires : sont considérés comme réserves en eau, les prélèvements effectués, sans indemnisation du concessionnaire, à partir des ouvrages concédés entre le remous de la retenue et la restitution ou à partir de la nappe accompagnant le cours d'eau concerné. Les réserves en eau que le concessionnaire laissera gratuitement, quel que soit l'état des eaux, dans le département du Haut-Rhin sont définis comme suit :
 
-- le décret du 9 septembre 1956 concédant la chute d'Ottmarsheim prévoit que l'ensemble des prélèvements sur les deux biefs de Kembs et Ottmarsheim correspond à 14 m ³ / s pour la navigation et 8 à 26 m ³ / s pour l'agriculture ;
+― le décret du 9 septembre 1956 concédant la chute d'Ottmarsheim prévoit que l'ensemble des prélèvements sur les deux biefs de Kembs et Ottmarsheim correspond à 14 m ³ / s pour la navigation et 8 à 26 m ³ / s pour l'agriculture ;
 
-- les prélèvements pour la navigation ont été portés à 21 m ³ / s par une convention EDF / VNF du 9 avril 1991 ;
+― les prélèvements pour la navigation ont été portés à 21 m ³ / s par une convention EDF / VNF du 9 avril 1991 ;
 
-- la convention du 27 avril 2006 entre EDF, le département du Haut-Rhin et Voies navigables de France précise les modalités d'exploitation et de maintenance de la prise d'eau de Kembs et du canal de Huningue.
+― la convention du 27 avril 2006 entre EDF, le département du Haut-Rhin et Voies navigables de France précise les modalités d'exploitation et de maintenance de la prise d'eau de Kembs et du canal de Huningue.
 
 En conséquence, les prélèvements à partir des biefs de Kembs et Ottmarsheim sont de 21 m ³ / s pour la navigation et 8 à 26 m ³ / s pour l'agriculture.
 
@@ -1044,13 +1048,13 @@ En application des dispositions des articles 1399, 1473, 1474 et 1475 du code g�
 
 Département du Haut-Rhin :
 
-- commune de Huningue : 11, 5 % ;
+― commune de Huningue : 11, 5 % ;
 
-- commune de Village-Neuf : 26, 8 % ;
+― commune de Village-Neuf : 26, 8 % ;
 
-- commune de Rosenau : 46, 85 % ;
+― commune de Rosenau : 46, 85 % ;
 
-- commune de Kembs : 14, 85 %.
+― commune de Kembs : 14, 85 %.
 
 Ces pourcentages pourront être révisés par le préfet, sur proposition du service chargé du contrôle, au moment de la mise en service de tous les ouvrages dans la mesure où les éléments servant de base à la répartition apparaîtront différents de ceux figurant au projet soumis à l'enquête.
 
@@ -1076,9 +1080,9 @@ Elle sera déterminée par la formule suivante :
 
 Dans laquelle :
 
-- RN représente la recette normative actualisée de la chute, calculée comme la somme capitalisée au taux de 8 % à euros constants des recettes annuelles fictives sur la durée de la concession obtenues en appliquant le tarif d'achat aux producteurs autonomes au productible annuel de la chute hydroélectrique ;
+― RN représente la recette normative actualisée de la chute, calculée comme la somme capitalisée au taux de 8 % à euros constants des recettes annuelles fictives sur la durée de la concession obtenues en appliquant le tarif d'achat aux producteurs autonomes au productible annuel de la chute hydroélectrique ;
 
-- DN représente la dépense normative actualisée de la chute, calculée comme la somme capitalisée au taux de 8 % à euros constants des dépenses annuelles d'exploitation de la chute hydroélectrique sur la durée de la concession en prenant en compte une augmentation annuelle normative des coûts de 2 % pour tenir compte du vieillissement de la chute et de la croissance des coûts d'entretien.
+― DN représente la dépense normative actualisée de la chute, calculée comme la somme capitalisée au taux de 8 % à euros constants des dépenses annuelles d'exploitation de la chute hydroélectrique sur la durée de la concession en prenant en compte une augmentation annuelle normative des coûts de 2 % pour tenir compte du vieillissement de la chute et de la croissance des coûts d'entretien.
 
 La redevance due à l'Etat est payable d'avance au plus tard le 1er avril de chaque année ; elle sera révisée conformément à l'article L. 33 du code du domaine de l'Etat.
 
@@ -1090,9 +1094,9 @@ R = (7,51 n / 10 000) x (EL / 101,1) x (1 / 6,55957) Euros
 
 Dans laquelle :
 
-- n représente, diminué d'une part de la consommation des services auxiliaires de l'aménagement hydroélectrique et des fournitures d'énergie faites au titre de l'énergie réservée et, d'autre part, des restitutions en nature correspondant aux droits à l'usage de l'eau exercés, le nombre de kilowattheures produits pendant l'année précédant celle de l'établissement de la redevance décompté aux bornes des générateurs accouplés aux moteurs hydrauliques ou en tous autres points des circuits de force de la centrale et ramené dans ce cas aux bornes des générateurs par application de la formule agréée par le service chargé du contrôle ;
+― n représente, diminué d'une part de la consommation des services auxiliaires de l'aménagement hydroélectrique et des fournitures d'énergie faites au titre de l'énergie réservée et, d'autre part, des restitutions en nature correspondant aux droits à l'usage de l'eau exercés, le nombre de kilowattheures produits pendant l'année précédant celle de l'établissement de la redevance décompté aux bornes des générateurs accouplés aux moteurs hydrauliques ou en tous autres points des circuits de force de la centrale et ramené dans ce cas aux bornes des générateurs par application de la formule agréée par le service chargé du contrôle ;
 
-- EL représente la valeur de l'indice électricité haute et très haute tension en janvier de l'année considérée (publié par l'INSEE).
+― EL représente la valeur de l'indice électricité haute et très haute tension en janvier de l'année considérée (publié par l'INSEE).
 
 Les appareils destinés à l'enregistrement des quantités d'énergie seront fournis et entretenus par le concessionnaire, agréés et vérifiés par le service chargé du contrôle. Ils seront soumis à la surveillance des agents du service chargé du contrôle qui auront le droit de procéder à toute époque aux vérifications qu'ils jugeront nécessaires, d'exiger les réparations et, le cas échéant, le remplacement des appareils défectueux.
 
@@ -1180,9 +1184,9 @@ IV.-Responsabilité : le concessionnaire demeurera seul responsable des conséqu
 
 Le point de départ de la garantie décennale mise à la charge des constructeurs est fixée :
 
-- si le concessionnaire réalise lui-même les travaux, à la date de prise de possession sans réserve par l'Etat des ouvrages qui aura lieu à l'expiration de la concession ;
+― si le concessionnaire réalise lui-même les travaux, à la date de prise de possession sans réserve par l'Etat des ouvrages qui aura lieu à l'expiration de la concession ;
 
-- si le concessionnaire fait exécuter les travaux par un entrepreneur, la garantie commencera à courir au profit du concessionnaire, à la date de réception sans réserve des ouvrages qui aura lieu lors du récolement des travaux en présence du service chargé du contrôle ; la garantie sera transférée au profit du concédant, pour la période restant à courir, lors de la prise de possession par l'Etat des ouvrages qui aura lieu à l'expiration de la concession.
+― si le concessionnaire fait exécuter les travaux par un entrepreneur, la garantie commencera à courir au profit du concessionnaire, à la date de réception sans réserve des ouvrages qui aura lieu lors du récolement des travaux en présence du service chargé du contrôle ; la garantie sera transférée au profit du concédant, pour la période restant à courir, lors de la prise de possession par l'Etat des ouvrages qui aura lieu à l'expiration de la concession.
 
 Article 54 : Dossier de fin de concession
 
@@ -1292,15 +1296,15 @@ Tout litige portant sur l'application des présentes dispositions sera porté de
 
 III.-Dispositions particulières :
 
-- rachat imposé par le concessionnaire : si, pour satisfaire des besoins ou intérêts non hydroélectriques ou extérieurs à la présente concession, les pouvoirs publics imposent au concessionnaire soit une modification de la consistance initiale des ouvrages, soit des obligations ou sujétions entraînant une réduction permanente de la puissance normale disponible initiale, le concessionnaire pourra exiger de l'Etat qu'il lui rachète la concession. Si cette réduction intervient avant la fin de la 15e année qui suivra la date de mise en service des ouvrages de la concession, ce rachat sera possible si la réduction de puissance atteint 20 % ; au-delà de ce délai, cette réduction devra dépasser 50 %. Ce rachat se fera par remboursement par l'Etat, sous forme d'annuités égales, d'une partie des dépenses faites pour l'établissement des ouvrages dépendant de la concession y compris les éventuels ouvrages nouveaux ou complémentaires exécutés en période d'exploitation subsistant au moment du rachat et faisant retour obligatoire et gratuit à l'Etat.
+― rachat imposé par le concessionnaire : si, pour satisfaire des besoins ou intérêts non hydroélectriques ou extérieurs à la présente concession, les pouvoirs publics imposent au concessionnaire soit une modification de la consistance initiale des ouvrages, soit des obligations ou sujétions entraînant une réduction permanente de la puissance normale disponible initiale, le concessionnaire pourra exiger de l'Etat qu'il lui rachète la concession. Si cette réduction intervient avant la fin de la 15e année qui suivra la date de mise en service des ouvrages de la concession, ce rachat sera possible si la réduction de puissance atteint 20 % ; au-delà de ce délai, cette réduction devra dépasser 50 %. Ce rachat se fera par remboursement par l'Etat, sous forme d'annuités égales, d'une partie des dépenses faites pour l'établissement des ouvrages dépendant de la concession y compris les éventuels ouvrages nouveaux ou complémentaires exécutés en période d'exploitation subsistant au moment du rachat et faisant retour obligatoire et gratuit à l'Etat.
 
 Cette part sera calculée par la formule : D' = D (T - t / T)
 
-- où D représente la dépense réellement faite et dûment justifiée des ouvrages subsistants ;
+― où D représente la dépense réellement faite et dûment justifiée des ouvrages subsistants ;
 
-- où D'représente la somme à payer au concessionnaire à l'époque t, comptée en années depuis la date d'octroi de la présente concession ;
+― où D'représente la somme à payer au concessionnaire à l'époque t, comptée en années depuis la date d'octroi de la présente concession ;
 
-- où T représente la durée complète, comptée en années, de la concession.
+― où T représente la durée complète, comptée en années, de la concession.
 
 Le prix de rachat ci-dessus est exclusif de toute autre indemnité.
 
@@ -1378,4 +1382,4 @@ Jean-Louis Borloo
 
 NOTA :
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées les 23 et 30 mars 2014 à l'occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article 71, l'article dans sa version modifiée par le décret du 18 octobre 2013 s'applique à compter du prochain renouvellement général des conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
