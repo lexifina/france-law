@@ -1,18 +1,16 @@
 # Article Annexe tableau n° 2
 
-DESIGNATION DES SECTEURS
+DÉSIGNATION
 
-|
+des secteurs |
 
-ARRONDISSEMENT
+ARRONDISSEMENTS
 
-constituant les secteurs
+constituant
 
-|
+les secteurs |
 
-NOMBRE DE SIEGES
-
-|
+NOMBRE de sièges |
 
 1er secteur
 
@@ -22,7 +20,7 @@ NOMBRE DE SIEGES
 
 |
 
-3
+1
 
 |
 
@@ -34,7 +32,7 @@ NOMBRE DE SIEGES
 
 |
 
-3
+2
 
 |
 
@@ -58,7 +56,7 @@ NOMBRE DE SIEGES
 
 |
 
-3
+2
 
 |
 
@@ -94,7 +92,7 @@ NOMBRE DE SIEGES
 
 |
 
-5
+4
 
 |
 
@@ -130,7 +128,7 @@ NOMBRE DE SIEGES
 
 |
 
-6
+7
 
 |
 
@@ -190,7 +188,7 @@ NOMBRE DE SIEGES
 
 |
 
-17
+18
 
 |
 
@@ -214,7 +212,7 @@ NOMBRE DE SIEGES
 
 |
 
-13
+12
 
 |
 
@@ -226,7 +224,7 @@ NOMBRE DE SIEGES
 
 |
 
-14
+15
 
 |
 
@@ -238,7 +236,7 @@ NOMBRE DE SIEGES
 
 |
 
-12
+14
 
 |
 
@@ -250,7 +248,7 @@ NOMBRE DE SIEGES
 
 |
 
-13
+14
 
 |
 
@@ -266,4 +264,4 @@ Total
 
 NOTA :
 
-Décision n° 2013-667 DC du 16 mai 2013, article 3 : Le tableau n° 2 annexé au code électoral (Tableau des secteurs pour l'élection des membres du conseil de Paris) est déclaré contraire à la Constitution.
+Cet article a été modifié par la loi n° 2013-713 du 5 août 2013 fixant le nombre et la répartition des sièges de conseiller de Paris. Conformément à son article 3, l'article dans sa version modifiée par la loi du 5 août 2013 s'applique à compter du prochain renouvellement général des conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
