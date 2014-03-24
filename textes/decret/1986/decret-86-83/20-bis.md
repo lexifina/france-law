@@ -2,7 +2,7 @@
 
 I. - L'agent non titulaire bénéficie, sur sa demande, d'un congé de présence parentale. Ce congé est non rémunéré.
 
-Ce congé est ouvert au père et à la mère lorsque la maladie, l'accident ou le handicap d'un enfant à charge présente une particulière gravité rendant indispensables une présence soutenue auprès de lui et des soins contraignants.
+Ce congé est accordé de droit à l'agent lorsque la maladie, l'accident ou le handicap d'un enfant à charge présente une particulière gravité rendant indispensables une présence soutenue auprès de lui et des soins contraignants.
 
 La demande de bénéfice du droit à congé de présence parentale est formulée par écrit au moins quinze jours avant le début du congé. Elle est accompagnée d'un certificat médical qui atteste de la gravité de la maladie, de l'accident ou du handicap et de la nécessité de la présence soutenue d'un parent et de soins contraignants, en précisant la durée pendant laquelle s'impose cette nécessité. En cas d'urgence liée à l'état de santé de l'enfant, le congé débute à la date de la demande ; l'agent non titulaire transmet sous quinze jours le certificat médical requis.
 
@@ -16,7 +16,7 @@ Si la durée de bénéfice du droit au congé de présence parentale consenti à
 
 En cas de nouvelle pathologie affectant l'enfant, de même qu'en cas de rechute ou de récidive de la pathologie initialement traitée, un nouveau droit à congé est ouvert à l'issue de la période de trente-six mois.
 
-Pour la détermination des avantages liés à l'ancienneté, les jours de congé de présence parentale sont assimilés à des jours d'activité à temps plein. Pendant ces périodes, l'agent n'acquiert pas de droits à pension.
+Pendant les périodes de congé de présence parentale, l'agent n'acquiert pas de droits à pension.
 
 II. - L'agent bénéficiaire du droit à congé communique par écrit à l'autorité dont il relève le calendrier mensuel de ses journées de congé de présence parentale, au plus tard quinze jours avant le début de chaque mois.
 

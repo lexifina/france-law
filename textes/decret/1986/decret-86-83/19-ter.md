@@ -4,7 +4,7 @@ I.-L'agent non titulaire en activité a droit à un congé de solidarité famili
 
 Ce congé non rémunéré est accordé sur demande écrite de l'agent, pour une durée maximale de trois mois, renouvelable une fois.
 
-La durée de ce congé est prise en compte pour la détermination des avantages liés à l'ancienneté. Elle ne peut être imputée sur la durée du congé annuel.
+La durée de ce congé ne peut être imputée sur la durée du congé annuel.
 
 II.-L'agent peut demander le bénéfice du congé de solidarité familiale :
 
@@ -16,4 +16,4 @@ II.-L'agent peut demander le bénéfice du congé de solidarité familiale :
 
 III.-Le congé de solidarité familiale prend fin soit à l'expiration des périodes mentionnées au II, soit dans les trois jours qui suivent le décès de la personne accompagnée, soit à la demande de l'agent.
 
-IV.-L'allocation journalière d'accompagnement d'une personne en fin de vie prévue aux articles L. 168-1 à L. 168-7 du code de la sécurité sociale peut être versée à l'agent.
+IV.-L'allocation journalière d'accompagnement d'une personne en fin de vie prévue aux articles L. 168-1 à L. 168-7 du code de la sécurité sociale est versée à l'agent.
