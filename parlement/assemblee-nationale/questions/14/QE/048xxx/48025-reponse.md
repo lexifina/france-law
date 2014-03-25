@@ -1,0 +1,9 @@
+# Réponse à la question n° 48025
+
+- Question : [48025](48025.md) — Question n° 48025 — piraterie maritime; lutte et prévention
+
+## Réponse
+
+*JO du 2014-03-25*
+
+Les principales menaces asymétriques auxquelles sont exposées les forces navales occidentales sont liées à l'emploi d'armes classiques de niveau technologique faible ou moyen, d'armements non conventionnels de circonstance ou de véhicules civils détournés de leur usage habituel, utilisés comme projectiles. La stratégie mise en oeuvre pour lutter contre ces menaces recouvre différentes phases tactiques : détection, élaboration de l'information (incluant la classification et l'identification) et conduite de l'action. Les bâtiments et aéronefs de la marine nationale disposent de capacités spécifiques dans chacun de ces domaines. S'agissant plus précisément de l'identification des menaces asymétriques, celle-ci repose essentiellement sur les moyens optroniques, qui permettent de discerner, de jour comme de nuit, des éléments mobiles dans un environnement proche. Dès les premiers déploiements opérés dans le cadre de la mission Atalante en 2009, les matériels d'identification équipant les frégates françaises ont ainsi été rénovés, en vue de renforcer leurs capacités de veille nocturne. Les dernières mises à niveau des systèmes optroniques des navires de la flotte seront engagées au cours de l'année 2014. De même, les capteurs des avions de patrouille maritime Atlantique 2 feront l'objet d'une modernisation lors de la prochaine campagne de rénovation de ces appareils. Enfin, il est précisé que pour répondre à l'évolution des menaces asymétriques, le ministère de la défense mène diverses études tendant à améliorer les capacités d'autodéfense des navires en les dotant des technologies les plus récentes et les mieux adaptées.
