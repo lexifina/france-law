@@ -1,0 +1,9 @@
+# Réponse à la question n° 20534
+
+- Question : [20534](20534.md) — Question n° 20534 — sites d'informations juridiques; pratiques abusives
+
+## Réponse
+
+*JO du 2014-03-25*
+
+Le ministère de la justice est pleinement conscient du danger que représente, pour les usagers du droit, la prolifération de sites internet proposant divers conseils, au mépris de la réglementation prévue au sein du titre II de la loi n° 71-1130 du 31 décembre 1971, portant réforme de certaines professions judiciaires et juridiques. En application de l'article 54 de cette loi, nul ne peut, à titre habituel et rémunéré, donner des consultations juridiques et rédiger des actes sous seing privé pour autrui s'il n'est titulaire d'une licence en droit, ou s'il ne justifie d'une compétence juridique appropriée, et s'il n'y est autorisé au titre des articles suivants dans les limites qu'ils prévoient. La profession d'avocat, soucieuse de protéger ses membres contre la concurrence déloyale réalisée par ces « braconniers du droit », a elle-même engagé une réflexion relative au renforcement des sanctions pénales applicables en cas d'exercice illégal du droit ou de la profession d'avocat. Ainsi, la Chancellerie a été saisie d'une proposition élaborée par le Conseil national des barreaux tendant à voir aligner les sanctions de l'exercice illégal du droit et de la profession d'avocat sur celle de l'usurpation du titre d'avocat. Sur cette base, un travail a été mené en étroite collaboration avec la profession d'avocat dans le but de renforcer la sécurité juridique due aux usagers du droit. Ce travail a conduit le gouvernement à déposer un amendement à la loi relative à la consommation, votée définitivement le 14 février 2014. Cet amendement, qui constitue désormais un délit l'exercice illégal du droit, a été adopté. Il figure désormais à l'article 64 de cette loi.
