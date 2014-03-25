@@ -1,0 +1,9 @@
+# Réponse à la question n° 34203
+
+- Question : [34203](34203.md) — Question n° 34203 — concours; modalités
+
+## Réponse
+
+*JO du 2014-03-25*
+
+Les résultats de la session normale pour 2013 confirment que certaines disciplines rencontrent, depuis quelques années déjà, des difficultés de recrutement. Le Gouvernement a pris des mesures concrètes visant à renverser cette tendance et à redonner envie à des candidats de se présenter à des concours que la réduction importante du nombre des emplois et l'abandon de la formation initiale semblaient rendre inaccessibles. La création de 18 000 emplois d'avenir professeur, dont 10 000 pour la seule année 2013, la création de 54 000 emplois dans les premier et second degrés d'enseignement, la création des écoles supérieures du professorat et de l'éducation (ESPE), l'organisation d'une session exceptionnelle de concours permettant d'assurer le recrutement sous contrat de personnels enseignants alternant formation et mise en situation, sont des illustrations concrètes de ce renversement de tendance qui ouvre de nouvelles perspectives à notre système éducatif et à ceux qui souhaitent venir y enseigner. A contrario, le seul fait que l'ensemble des postes n'aient pas été pourvus lors de la session, par décision souveraine des jurys concernés, montre bien qu'il n'y a pas eu ajustement à la baisse des exigences d'admissibilité et d'admission, et que les niveaux atteints par les candidats étaient conformes à ce qui était attendu. Les postes non pourvus aux concours ayant eu lieu en 2013, notamment dans les disciplines repérées depuis plusieurs années comme en difficulté de recrutement, ont été pris en compte par les calibrages des concours de la session 2014, dont les registres d'inscriptions étaient ouverts du 10 septembre au 22 octobre 2013 et qui se déroulera au printemps.
