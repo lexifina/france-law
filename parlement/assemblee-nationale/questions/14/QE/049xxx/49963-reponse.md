@@ -1,0 +1,9 @@
+# Réponse à la question n° 49963
+
+- Question : [49963](49963.md) — Question n° 49963 — gestion des milieux naturels; réglementation
+
+## Réponse
+
+*JO du 2014-03-25*
+
+La gestion durable et multifonctionnelle de l'écosystème forestier s'appréhende nécessairement dans sa globalité en prenant en compte l'ensemble des éléments qui le composent et les différents objectifs assignés à la forêt. La question de l'équilibre sylvo-cynégétique est déterminante pour l'avenir de l'activité sylvicole et sera donc un élément fort du programme national de la forêt et du bois ainsi que des programmes régionaux (PRFB). Le but de ces documents est d'orienter la politique forestière en déterminant des objectifs économiques, environnementaux et sociaux auxquels devront concourir toutes les composantes de la forêt. Il n'est donc pas question de subordonner un enjeu par rapport à un autre mais au contraire de les articuler de façon coordonnée au service de l'intérêt général. Le projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt, en cours d'examen au Parlement, introduit à son article 29 la compatibilité des orientations régionales de gestion de la faune sauvage et de ses habitats prévues à l'article L. 414-8 du code de l'environnement et celle des schémas départementaux de gestion cynégétique prévus à l'article L 425-1 du même code, avec le PRFB. Cette disposition vise à permettre la mise en place d'une véritable concertation entre forestiers et chasseurs et une collaboration efficace sur le terrain, afin d'assurer le maintien et la restauration de l'équilibre sylvo-cynégétique dans les territoires et à contribuer à la cohérence de l'action publique en garantissant la compatibilité de ces différents documents cadres. Le projet de loi est actuellement examiné par le Parlement qui pourra, s'il le juge utile, faire évoluer cette disposition.
