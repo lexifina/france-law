@@ -1,0 +1,9 @@
+# Réponse à la question n° 35050
+
+- Question : [35050](35050.md) — Question n° 35050 — délinquance; lutte et prévention
+
+## Réponse
+
+*JO du 2014-03-25*
+
+La loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République traduit l'engagement du ministère de l'éducation nationale de répondre au phénomène de la violence à l'école. La mission chargée de la prévention et de la lutte contre les violences en milieu scolaire, installée en novembre 2012, élabore des outils et des actions ciblés pour lutter contre les discriminations et les violences à tous les niveaux d'enseignement. Le ministère de l'éducation nationale est membre du Comité interministériel de prévention de la délinquance et, dans ce cadre, participe à la mise en oeuvre de la stratégie de prévention de la délinquance. Depuis le protocole d'accord du 4 octobre 2004, une action interministérielle concertée entre le ministère de l'éducation nationale et le ministère de l'intérieur permet d'apporter des réponses concrètes aux problématiques de violence en milieu scolaire. Ainsi des « correspondants sécurité de l'école » (policiers ou gendarmes) sont désignés pour tous les établissements scolaires. Interlocuteurs habituels des chefs d'établissement, ils interviennent : - dans le cadre d'actions de prévention ; - en situation de crise ; - dans le cadre des comités d'éducation à la santé et à la citoyenneté (CESC) pour établir un dialogue avec les jeunes et les informer sur la loi. Le rôle des « correspondants sécurité de l'école » est en outre crucial pour suivre les modalités d'échanges d'information sur des domaines sensibles. Leurs missions de prévention et de sécurisation sont réaffirmées dans la circulaire n° 2009-137 du 23 septembre 2009 et dans la circulaire n° 2010-25 du 15 février 2010.
