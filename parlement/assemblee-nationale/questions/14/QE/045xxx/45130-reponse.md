@@ -1,0 +1,9 @@
+# Réponse à la question n° 45130
+
+- Question : [45130](45130.md) — Question n° 45130 — réglementation; perspectives
+
+## Réponse
+
+*JO du 2014-03-25*
+
+Créés par la loi du 3 janvier 1977 sur l'architecture, les conseils d'architecture, d'urbanisme et de l'environnement (CAUE) ont pour objet de veiller au respect de l'intérêt public de l'architecture, d'en diffuser la connaissance et de promouvoir la qualité des constructions et du cadre de vie. Leurs statuts-types ont été fixés par décret n° 78-172 du 9 février 1978. L'examen aujourd'hui des statuts-types fait apparaître des dispositions qui ne sont pas appliquées ou plus applicables, du fait de modifications du corpus législatif et réglementaire applicable aux CAUE. Ainsi, l'article 2 des statuts-types n'a pas été modifié pour prendre en compte les modifications apportées à la loi du 3 janvier 1977 sur l'architecture et les dispositions des articles 7 et 15 ne correspondent plus à l'organisation institutionnelle et administrative actuelle. Créés avant la décentralisation, les CAUE ont su préserver leur originalité et leur spécificité. Il convient toutefois aujourd'hui de réfléchir à la meilleure manière de les inscrire dans le paysage institutionnel rénové par les lois sur la décentralisation et sur l'urbanisme, en garantissant leur autonomie, la stabilité de leurs ressources et la pérennité de leurs missions. La ministre de la culture et de la communication est très attentive à la place des conseils d'architecture, d'urbanisme et de l'environnement (CAUE). Elle a donc souhaité que soit lancée une réflexion sur la question de l'évolution du statut et du positionnement des CAUE, notamment dans le cadre du projet de loi sur les patrimoines culturels et des réflexions relatives à la coopération entre l'État et les collectivités territoriales. C'est à l'issue de cette réflexion que pourra être engagée une réforme du décret portant statuts-types.
