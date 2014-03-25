@@ -1,0 +1,9 @@
+# Réponse à la question n° 3121
+
+- Question : [3121](3121.md) — Question n° 3121 — recouvrement; dysfonctionnements; travailleurs indépendants
+
+## Réponse
+
+*JO du 2014-03-25*
+
+Afin de tenir compte des difficultés de trésorerie auxquelles ils peuvent être amenés, la loi de financement de la sécurité sociale (LFSS) pour 2012 (art. 37) a mis en place deux dispositifs permettant aux travailleurs indépendants d'adapter le niveau et le calendrier de leurs prélèvements sociaux au regard de leur profil de trésorerie de l'année en cours. D'une part, ils bénéficient d'un dispositif d'ajustement des cotisations provisionnelles de l'année en cours. A ce titre, ils peuvent demander que ces cotisations provisionnelles, normalement calculées à partir du revenu de l'avant-dernière année, soient déterminées sur la base du revenu de la dernière année écoulée ou du revenu estimé de l'année en cours. Les travailleurs indépendants disposent également de la possibilité, s'ils anticipent une modification importante de leurs revenus, de demander une révision de ces cotisations provisionnelles. D'autre part, les travailleurs indépendants qui déclarent leurs revenus par la voie dématérialisée peuvent demander la régularisation anticipée des cotisations de la dernière année d'activité écoulée et ainsi choisir de ne pas attendre la fin de l'année en cours pour soit bénéficier d'un remboursement, soit payer le solde des cotisations. La LFSS pour 2014 (art. 26) généralise et systématise, à compter de 2015, ces dispositifs d'ajustement des cotisations provisionnelles de l'année en cours sur la base du revenu de la dernière année écoulée et de régularisation anticipée des cotisations de la dernière année écoulée dès connaissance du revenu de cette année. Le dispositif de calcul des cotisations provisionnelles de l'année en cours sur la base du revenu estimé pour cette année reste, lui, facultatif.
