@@ -1,0 +1,9 @@
+# Réponse à la question n° 22721
+
+- Question : [22721](22721.md) — Question n° 22721 — aménagement; conséquences
+
+## Réponse
+
+*JO du 2014-03-25*
+
+L'article 67 de la loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République a institué un fonds en faveur des communes et, lorsque les dépenses de fonctionnement des écoles leur ont été transférées, des établissements publics de coopération intercommunale, destiné à faire bénéficier les élèves des écoles publiques ou privées organisant les enseignements sur neuf demi-journées par semaine d'une offre d'activités périscolaires enrichies. Cet article de loi précise que « les aides sont versées aux communes ; à charge pour ces dernières de reverser, le cas échéant, la part calculée au titre des élèves scolarisés dans les écoles privées sous contrat aux organismes de gestion de ces écoles privées ». Il y a lieu de souligner que la loi permet, si la commune le demande, un versement direct de l'aide aux organismes de gestion de ces écoles. Les circuits financiers ainsi ouverts concernent des aides d'Etat et ne contreviennent en rien aux dispositions législatives régissant les obligations financières des communes vis-à-vis des écoles privées sous contrat présentes sur leur territoire. Le Gouvernement a considéré que la réforme des rythmes scolaires dans le première degré devait concerner le plus grand nombre d'élèves possible, qu'ils soient scolarisés dans les écoles publiques ou dans les écoles privées sous contrat. Même si ces dernières n'ont pas obligation d'appliquer les dispositions des articles D. 521-10 et D. 521-11 du code de l'éducation, lorsqu'elles font ce choix, les élèves qu'elles scolarisent doivent pouvoir bénéficier des incitations financières mises en place. Le législateur a confirmé cette position.
