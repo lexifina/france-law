@@ -1,0 +1,9 @@
+# Réponse à la question n° 2749
+
+- Question : [2749](2749.md) — Question n° 2749 — textes d'application; publication
+
+## Réponse
+
+*JO du 2014-03-25*
+
+La loi n° 2012-409 du 27 mars 2012 de programmation relative à l'exécution des peines prévoyait deux décrets d'application. Le premier, résultant de l'article 9 de la loi, avait pour objet de préciser les modalités de mise en oeuvre des dispositions prévoyant la création d'un contrat d'engagement relatif à la prise en charge psychiatrique des personnes placées sous main de justice pouvant être passé par des internes en médecine, leur donnant droit à une allocation mensuelle jusqu'à la fin de leurs études en contrepartie de leur engagement à suivre, pendant ou à l'issue de leurs études, une formation en sciences criminelles, en psychiatrie légale ou criminelle, en psychologie légale ou criminelle, relative à l'expertise judiciaire ou à la prévention de la récidive, et à leur engagement d'exercer ensuite la fonction d'expert judiciaire dans des ressorts judiciaires caractérisés par un nombre insuffisant de psychiatres experts. Le bien-fondé de ces dispositions avait toutefois été contesté par de nombreux parlementaires lors de leur adoption, au regard notamment des importantes difficultés d'application qu'elles soulevaient, liées en particulier au fait qu'on ne peut imposer à l'autorité judiciaire d'inscrire certaines personnes sur des listes d'experts. Par ailleurs, leur financement n'avait pas été prévu par la précédente majorité. C'est la raison pour laquelle le Gouvernement n'a pu prendre ce décret d'application. S'agissant de l'article 10 de la loi qui a pour effet d'introduire une dérogation à la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et de modifier des dispositions du code de la santé publique, le suivi et la mise en oeuvre de cette disposition relèvent de la compétence des ministères de la santé et de la fonction publique.
