@@ -1,0 +1,9 @@
+# Réponse à la question n° 41156
+
+- Question : [41156](41156.md) — Question n° 41156 — TVA; revendications
+
+## Réponse
+
+*JO du 2014-03-25*
+
+La hausse du taux TVA de 7 % à 10 % s'applique aux ventes des agences de presse, au titre de l'article 68 de la loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012. Pour autant, le Gouvernement est très attentif à la situation souvent délicate des agences de presse dans notre pays. Un taux de TVA réduit de 10 % continue d'ailleurs de constituer, par lui-même, une mesure pertinente et significative de soutien transversal au secteur, de même que sa pleine exonération de contribution économique territoriale (CET). En outre, le Gouvernement a décidé de maintenir l'éligibilité des agences de presse au soutien du Fonds stratégique pour le développement de la presse (FSDP), dans le cadre de la réforme qui entrera très prochainement en vigueur. Pour mémoire, les agences de presse ont bénéficié, en 2012, de 429 916 € de subventions du FSDP. Au-delà, la prochaine réforme du FSDP comporte un ensemble d'évolutions positives pour les agences de presse. La fusion des actuelles sections du Fonds stratégique permettra de partager entre publications et agences de presse une enveloppe unique. Comme le souhaitaient notamment les agences, les dépenses internes de conception numérique ou de numérisation de contenus seront rendues éligibles au soutien du FSDP. Il s'agit là d'une mesure importante qui aidera les agences et l'ensemble de la presse numérique à ancrer des emplois et l'investissement dans l'innovation technologique en France. Enfin, tous les dossiers de demande de soutien du Fonds stratégique portant sur moins de 50 000 €, y compris les dossiers des agences, seront instruits selon une procédure simplifiée et accélérée, comme c'est d'ores et déjà le cas pour les dossiers de moins de 50 000 € de développements numériques des services de presse en ligne.
