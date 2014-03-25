@@ -1,0 +1,9 @@
+# Réponse à la question n° 36300
+
+- Question : [36300](36300.md) — Question n° 36300 — revendications
+
+## Réponse
+
+*JO du 2014-03-25*
+
+Le contexte économique actuel est marqué par une dégradation du marché des jeux de casinos, particulièrement sensible pour les petits établissements. En effet, si 22 % des casinos sont en situation déficitaire (situation au 31 octobre 2012), cette proportion atteint 40 % au sein des établissements dont le produit brut des jeux est inférieur à 5 M€. Ce constat souligne que la fiscalité applicable au produit des jeux dans les casinos est insuffisamment progressive et n'est pas assez adaptée à leur structure financière. Or les mesures proposées par la profession ne permettent pas de corriger cette situation dès lors qu'elles bénéficieraient essentiellement aux casinos les plus importants. Elles introduisent en outre des éléments de complexité supplémentaire dans le dispositif fiscal spécifique aux jeux de casinos qui se caractérise par la coexistence d'une fiscalité progressive et proportionnelle et d'une multiplicité de prélèvements aux règles d'assiette et de liquidation particulièrement complexes. Afin de clarifier ce régime fiscal et l'adapter à la situation économique du secteur, une réflexion est engagée visant à rendre la fiscalité plus simple et davantage progressive. Par ailleurs, la réglementation des jeux est régulièrement adaptée pour permettre aux casinos de diversifier leur offre de jeux. Ainsi, le Gouvernement vient, par arrêté interministériel du 6 décembre 2013 modifiant l'arrêté du 14 mai 2007 relatif à la réglementation des jeux dans les casinos, de préciser les règles applicables au lucky ladies, au bad beat jackpot, aux tournois de poker, au black jack électronique et de permettre la fermeture des jeux de machines à sous avant celle des jeux de table.
