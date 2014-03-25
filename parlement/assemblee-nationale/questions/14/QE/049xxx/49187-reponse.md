@@ -1,0 +1,9 @@
+# Réponse à la question n° 49187
+
+- Question : [49187](49187.md) — Question n° 49187 — circonscriptions; listes; nombre de candidats
+
+## Réponse
+
+*JO du 2014-03-25*
+
+Les élections européennes se dérouleront en France le dimanche 25 mai 2014. Conformément au texte du Conseil européen approuvé par le Parlement européen, 74 députés européens seront élus dans les circonscriptions françaises à cette occasion, soit une augmentation de deux sièges par rapport à la législature 2009-2014. Les sièges de représentants de la France au Parlement européen sont répartis entre les différentes circonscriptions sur la base des chiffres de la population authentifiés au 1er janvier 2014. Ces chiffres, fournis par l'Insee, sont établis conformément aux dispositions du décret n° 2003-485 du 5 juin 2003 relatif au recensement de la population. Les populations légales sont ainsi calculées chaque année (n-1) en décembre. Les chiffres du dernier recensement ont été authentifiés par le décret n° 2013-1289 du 27 décembre 2013 pour la métropole et par le décret n° 2014-39 du 17 janvier 2014 pour les Français établis hors de France. C'est sur cette base qu'a été calculée la répartition des sièges entre les différentes circonscriptions qui a fait l'objet d'une communication en Conseil des Ministres le 5 février 2014. Le décret fixant le nombre de sièges et le nombre de candidats par circonscription pour l'élection des représentants au Parlement européen sera publié avant le 20 avril 2014. Sur ce point, la répartition est conforme à la loi n° 2011-575 du 26 mai 2011 relative à l'élection des représentants au Parlement européen qui a étendu le périmètre de la circonscription Ile de France, en y incluant les 1,6 million de Français établis hors de France. La répartition des sièges en vue du scrutin du 7 juin 2009 avait quant à elle été fixée par le décret n° 2009-317 du 20 mars 2009.
