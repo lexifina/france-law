@@ -1,0 +1,9 @@
+# Réponse à la question n° 40845
+
+- Question : [40845](40845.md) — Question n° 40845 — livres numériques; téléchargement; outre-mer
+
+## Réponse
+
+*JO du 2014-03-25*
+
+Des obstacles d'ordre technique ont été identifiés concernant le téléchargement de livres numériques dans les départements et collectivités d'outre-mer. Ils résultent en grande partie de difficultés rencontrées par les libraires numériques métropolitains pour localiser les acheteurs situés outre-mer. En effet, concernant les départements et collectivités d'outre-mer, les adresses IP ne sont pas attribuées par le registre internet régional chargé notamment d'attribuer les adresses IP en Europe, mais par les quatre registres internet régionaux chargés de répartir les adresses IP dans le reste du monde. Les détaillants ne sont ainsi pas nécessairement à même de garantir avec certitude que la vente intervient sur le territoire français, lors même que certains d'entre eux ne commercialisent pas l'ensemble de leurs livres en dehors du territoire national pour des raisons liées notamment à la titularité des droits ou à des difficultés d'ordre technique ou fiscal. La ministre de la culture et de la communication partage naturellement la préoccupation exprimée par le parlementaire : ces difficultés rencontrées par les libraires numériques métropolitains pour localiser les acheteurs ultramarins doivent être résolues de manière à garantir une égalité d'accès aux livres numériques à l'ensemble de nos concitoyens. Cette question sera traitée à l'occasion de la mission menée conjointement par l'inspection générale de l'administration et l'inspection générale des affaires culturelles sur la situation de la librairie et la diffusion du livre dans les départements et collectivités d'outre-mer. Ses conclusions devraient être rendues au printemps 2014.
