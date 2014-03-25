@@ -1,0 +1,9 @@
+# Réponse à la question n° 34205
+
+- Question : [34205](34205.md) — Question n° 34205 — exercice de la profession
+
+## Réponse
+
+*JO du 2014-03-25*
+
+Depuis plusieurs années, les enseignants qui assument la fonction de directeur d'école ne se voient pas effectivement suffisamment reconnus alors même qu'ils sont essentiels au bon fonctionnement des écoles et de la communauté éducative. Afin d'agir sans attendre, le ministre de l'éducation nationale a décidé de créer, pour la rentrée 2013, 15 000 contrats afin d'aider les directeurs d'école dans leurs nombreuses tâches administratives et éducatives. Les nouveaux personnels ainsi recrutés reçoivent une formation adaptée. De plus, les directeurs d'école bénéficient de l'intégralité de l'indemnité de suivi et d'accompagnement des élèves (ISAE), créée pour les professeurs des écoles, et ce, qu'ils soient partiellement déchargés ou non d'enseignement. Cette indemnité s'élève à 400 euros pour l'année scolaire 2013-2014. Le ministre de l'éducation nationale entend toutefois aller plus loin dans la prise en compte des spécificités de la fonction de directeur d'école. Dans le cadre des discussions ouvertes sur les métiers de l'éducation nationale, un groupe de travail chargé de définir leurs missions et de proposer des améliorations de leurs conditions d'exercice a été mis en place. Des décisions ont pu être arrêtées à l'issue de ces échanges. Elles portent, principalement, sur la simplification des tâches, la formation, l'amélioration de certaines décharges de service (décharge de rentrée scolaire, décharge sur le service d'activités pédagogiques complémentaires et décharge sur le temps d'enseignement) et sur la revalorisation de la part complémentaire de l'indemnité de sujétions spéciales. En outre, dans le cadre d'un groupe de travail commun au premier et au second degrés sur les conditions d'accès au « grade à accès fonctionnel » (GRAF), les fonctions de directeur d'école seront prises en compte.
