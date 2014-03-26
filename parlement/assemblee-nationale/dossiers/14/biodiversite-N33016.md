@@ -1,0 +1,149 @@
+# Environnement : reconquête de la biodiversité
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33016
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/biodiversite
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-359.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-03-26 : 1er dépôt d'une initiative. (PRJLANR5L14B1847)
+  - 2014-03-26 : Etude d'impact (ETDIANR5L14B1847)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-03-26 : Renvoi en commission au fond
+      - 2014-04-16 : Nomination de rapporteur
+      - 2014-06-10 : Réunion de commission
+      - 2014-06-24 : Réunion de commission
+      - 2014-06-24 : Réunion de commission
+      - 2014-06-25 : Réunion de commission
+      - 2014-06-25 : Réunion de commission
+      - 2014-06-25 : Réunion de commission
+      - 2014-06-26 : Réunion de commission
+      - 2015-03-16 : Réunion de commission
+      - 2015-03-18 : Réunion de commission
+      - 2014-06-26 : Dépôt de rapport (RAPPANR5L14B2064, PRJLANR5L14BTC2064)
+  - Discussion en séance publique
+    - 2015-03-16 : Discussion en séance publique
+    - 2015-03-16 : Discussion en séance publique
+    - 2015-03-17 : Discussion en séance publique
+    - 2015-03-17 : Discussion en séance publique
+    - 2015-03-18 : Discussion en séance publique
+    - 2015-03-18 : Discussion en séance publique
+    - 2015-03-19 : Discussion en séance publique
+    - 2015-03-19 : Discussion en séance publique
+    - 2015-03-24 : Discussion en séance publique
+    - 2015-03-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-03-25 : Dépôt d'une initiative en navette (PRJLSNR5S239B0359)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-03-25 : Renvoi en commission au fond
+      - 2015-04-08 : Nomination de rapporteur
+      - 2015-07-08 : Dépôt de rapport (RAPPSNR5S239B0607)
+    - Travaux d'une commission saisie pour avis
+      - 2015-04-15 : Saisine pour avis d'une commission
+      - 2015-04-15 : Nomination de rapporteur
+      - 2015-06-24 : Dépôt de rapport (AVISSNR5S239B0549)
+    - Travaux d'une commission saisie pour avis
+      - 2015-05-13 : Saisine pour avis d'une commission
+      - 2015-05-13 : Nomination de rapporteur
+      - 2015-07-01 : Dépôt de rapport (AVISSNR5S239B0581)
+  - Discussion en séance publique
+    - 2016-01-19 : Discussion en séance publique
+    - 2016-01-20 : Discussion en séance publique
+    - 2016-01-21 : Discussion en séance publique
+    - 2016-01-26 : Discussion en séance publique
+    - 2016-01-26 : Décision
+- deuxième lecture
+  - 2016-01-27 : Dépôt d'une initiative en navette (PRJLANR5L14B3442)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-01-27 : Renvoi en commission au fond
+      - 2016-03-01 : Réunion de commission
+      - 2016-03-01 : Réunion de commission
+      - 2016-03-02 : Réunion de commission
+      - 2016-03-02 : Réunion de commission
+      - 2016-03-07 : Réunion de commission
+      - 2016-03-08 : Réunion de commission
+      - 2016-03-08 : Réunion de commission
+      - 2016-03-09 : Réunion de commission
+      - 2016-03-09 : Réunion de commission
+      - 2016-03-15 : Réunion de commission
+      - 2016-03-16 : Réunion de commission
+      - 2016-03-09 : Dépôt de rapport (RAPPANR5L14B3564, PRJLANR5L14BTC3564)
+  - Discussion en séance publique
+    - 2016-03-15 : Discussion en séance publique
+    - 2016-03-15 : Discussion en séance publique
+    - 2016-03-16 : Discussion en séance publique
+    - 2016-03-16 : Discussion en séance publique
+    - 2016-03-17 : Discussion en séance publique
+    - 2016-03-17 : Discussion en séance publique
+    - 2016-03-17 : Discussion en séance publique
+    - 2016-03-17 : Décision
+- deuxième lecture
+  - 2016-03-18 : Dépôt d'une initiative en navette (PRJLSNR5S259B0484)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-03-18 : Renvoi en commission au fond
+      - 2016-05-04 : Dépôt de rapport (RAPPSNR5S259B0577)
+    - Travaux d'une commission saisie pour avis
+      - 2016-03-30 : Saisine pour avis d'une commission
+      - 2016-03-30 : Nomination de rapporteur
+      - 2016-04-29 : Dépôt de rapport (AVISSNR5S259B0569)
+  - Discussion en séance publique
+    - 2016-05-10 : Discussion en séance publique
+    - 2016-05-11 : Discussion en séance publique
+    - 2016-05-12 : Discussion en séance publique
+    - 2016-05-12 : Décision
+- Commission Mixte Paritaire
+  - 2016-05-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-05-25 : Nomination de rapporteur
+    - 2016-05-25 : Dépôt du rapport d'une CMP (RAPPANR5L14B3780)
+    - 2016-05-25 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0640)
+  - 2016-05-25 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-05-13 : Dépôt d'une initiative en navette (PRJLANR5L14B3748)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-05-13 : Renvoi en commission au fond
+      - 2016-06-13 : Réunion de commission
+      - 2016-06-13 : Réunion de commission
+      - 2016-06-21 : Réunion de commission
+      - 2016-06-22 : Réunion de commission
+      - 2016-06-14 : Dépôt de rapport (RAPPANR5L14B3833, PRJLANR5L14BTC3833)
+  - Discussion en séance publique
+    - 2016-06-21 : Discussion en séance publique
+    - 2016-06-21 : Discussion en séance publique
+    - 2016-06-22 : Discussion en séance publique
+    - 2016-06-22 : Discussion en séance publique
+    - 2016-06-23 : Discussion en séance publique
+    - 2016-06-23 : Décision
+- Nouvelle Lecture
+  - 2016-06-24 : Dépôt d'une initiative en navette (PRJLSNR5S259B0723)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-06-24 : Renvoi en commission au fond
+      - 2016-07-06 : Dépôt de rapport (RAPPSNR5S259B0765)
+  - Discussion en séance publique
+    - 2016-07-11 : Discussion en séance publique
+    - 2016-07-11 : Décision
+- Lecture définitive
+  - 2016-07-12 : Dépôt d'une initiative en navette (PRJLANR5L14B3942)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-12 : Renvoi en commission au fond
+      - 2016-07-19 : Réunion de commission
+      - 2016-07-19 : Dépôt de rapport (RAPPANR5L14B3971)
+  - Discussion en séance publique
+    - 2016-07-20 : Discussion en séance publique
+    - 2016-07-20 : Décision
+- Conseil constitutionnel
+  - 2016-07-21 : Saisine du conseil constitutionnel
+  - 2016-07-21 : Saisine du conseil constitutionnel
+  - 2016-08-04 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-08-08 : Promulgation d'une loi
