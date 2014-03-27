@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130908076
+
+- Question : [SEQ130908076](seq130908076.md) — Recouvrement de la dette de Synergie au profit de l'Urssaf des Pays-de-la-Loire
+
+## Réponse
+
+*Budget, JO du 2014-03-27, page 821*
+
+À l'issue de contrôles engagés en 1997, la société Synergie a fait l'objet d'un redressement de cotisations sociales notifié par l'URSSAF de Loire-Atlantique, assorti de majorations et pénalités de retard, au titre des années 1995, 1996 et 1997. D'autres redressements ont suivi au titre des années 1998 et 1999. Ces redressements ont fait l'objet de nombreux recours juridictionnels successifs, la Cour de cassation ayant finalement confirmé le bien-fondé de l'essentiel des montants réclamés au principal par l'URSSAF par un arrêt du 25 avril 2007. En conséquence, fin 2013, la société avait procédé au règlement de l'ensemble des cotisations dues au titre des années 1995 et 1996, mais contestait encore, d'une part, une partie du redressement notifié au titre de l'année 1997 résultant de l'application d'une taxation forfaitaire pour les frais professionnels, ainsi que, d'autre part, la détermination des majorations de retard, qui faisaient encore l'objet d'un pourvoi devant la Cour de cassation. Compte tenu du risque avéré de ne pas obtenir gain de cause, in fine, pour le paiement de ces majorations de retard et afin de mettre un terme à un contentieux long et incertain, l'URSSAF des Pays-de-la-Loire a engagé un règlement amiable et définitif des derniers différends qui l'opposent encore à cette société. Les modalités de ce règlement, qui relèvent en tout état de cause de la seule compétence de l'URSSAF et non du Gouvernement, ont été déterminées afin de préserver les intérêts financiers de la sécurité sociale. En effet, l'intégralité des cotisations dues au principal a été réglée, ainsi qu'une partie des majorations de retard. Seule une partie des créances accessoires est donc abandonnée.
