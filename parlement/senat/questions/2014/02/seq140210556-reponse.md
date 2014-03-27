@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210556
+
+- Question : [SEQ140210556](seq140210556.md) — Avancement de la procédure de classement en forêt de protection du massif de Meudon
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2014-03-27, page 819*
+
+Le classement en forêt de protection constitue actuellement l'outil juridique le plus solide pour la protection des forêts menacées à un titre ou à un autre. Il est régi par le code forestier (articles L. 141-1 et R. 141-1 et suivants). Ce classement crée une servitude nationale d'urbanisme qui est reportée au plan local d'urbanisme. Les motifs de classement, limités à l'origine à la lutte contre l'érosion en montagne et sur les dunes littorales, ont été étendus en 1976 à la valeur écologique des écosystèmes forestiers ainsi qu'au bien-être des populations et aux forêts périurbaines. Après les classements prioritaires de forêts telles que Sénart, Fontainebleau, Fausses-Reposes et enfin Rambouillet en 2009, les autres forêts de l'ouest parisien ont vocation à être protégées en conformité avec la politique régionale de l'État déclinée dans le schéma départemental de la région Île-de-France 1994-2015, et la politique forestière de l'État déclinée dans les orientations régionales forestières. Concernant l'Île-de-France, le classement de la forêt de Meudon est bien inscrit dans la liste des priorités, de même que le massif de l'Arc Boisé du Val-de-Marne, et les forêts de Bondy, de Saint-Germain-en-Laye et de Marly qui présentent également des enjeux de protection majeurs. Un avis favorable de principe sur la mise en œuvre d'une procédure de classement de la forêt de Meudon a bien été donné au préfet des Hauts-de-Seine en 2006. La procédure de classement du massif de l'Arc Boisé du Val-de-Marne, ayant pris du retard, a été relancée fin 2013. De ce fait, le démarrage de la procédure de classement pour la forêt de Meudon pourrait être envisagé en 2015.
