@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209711
+
+- Question : [SEQ131209711](seq131209711.md) — Rémunération des ouvriers d'État
+
+## Réponse
+
+*Défense, JO du 2014-03-27, page 822*
+
+Depuis l'instauration, en 2009, d'un moratoire sur le recrutement des ouvriers de l'État, les ateliers industriels de l'aéronautique (AIA) ont été autorisés à employer des personnels contractuels affectés notamment aux travaux de maintenance aéronautique dans la mesure où il n'existait pas de corps de fonctionnaires susceptibles d'assurer des fonctions similaires. Ces agents ont été dans un premier temps recrutés dans le cadre de contrats à durée déterminée en application de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'État, puis ont pu bénéficier de la transformation de leur contrat de travail en contrat à durée indéterminée consécutivement à l'entrée en vigueur de la loi n° 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique. Dans ce contexte, plus de 70 personnels en fonction au sein des AIA arrivant en 2013 au terme de leur 3e année de contrat ont sollicité un réexamen de leur rémunération, conformément à l'article 1-3 du décret n° 86-83 du 17 janvier 1986 relatif aux dispositions générales applicables aux agents non titulaires de l'État pris pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 précitée. Dès la fin de l'année 2013, la direction des ressources humaines du ministère de la défense a donc engagé les démarches nécessaires pour modifier les clauses des contrats des agents totalisant au moins trois années d'ancienneté de services, afin de leur permettre d'obtenir une revalorisation salariale équivalente à 10 points d'indice majoré.
