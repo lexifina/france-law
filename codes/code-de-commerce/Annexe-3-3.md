@@ -24,9 +24,11 @@ Le droit de la vente de meubles aux enchères publiques :
 
 ― le trafic illicite des œuvres d'art.
 
+La lutte contre le blanchiment des capitaux et le financement du terrorisme.
+
 Réglementation professionnelle :
 
-Statut des sociétés de ventes volontaires de meubles aux enchères publiques et des personnes habilitées à diriger des ventes volontaires ;
+Statut des opérateurs de ventes volontaires de meubles aux enchères publiques et des personnes habilitées à diriger des ventes volontaires ;
 
 Organisation et attributions du conseil des ventes volontaires de meubles aux enchères publiques ;
 
@@ -167,3 +169,23 @@ La pratique :
 Pratiques particulières :
 
 Inventaire, estimation et vente du matériel industriel, commercial et agricole, des stocks des entreprises et des véhicules.
+
+Pratique des ventes en gros.
+
+Langues vivantes
+
+Allemand.
+
+Anglais.
+
+Chinois.
+
+Espagnol.
+
+Italien.
+
+Russe.
+
+NOTA :
+
+Conformément à l'arrêté du 19 mars 2014, art. 18, les dispositions introduites par le 3° dudit article sont applicables à compter du 1er janvier 2015.
