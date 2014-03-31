@@ -1,42 +1,26 @@
 # Article Annexe A
 
-A. - Fonctions exercées à l'administration centrale des ministères chargés de l'éducation nationale et de l'enseignement supérieur et de la recherche
+A.-Désignation des emplois correspondant aux fonctions mentionnées au I de l'article 1er du décret du 26 octobre 2001 susvisé, exercées à l'administration centrale des ministères chargés de l'éducation nationale et de l'enseignement supérieur et de la recherche :
 
-Désignation des emplois correspondant
+1. Secrétaire général
 
-aux fonctions mentionnées au I de l'article 1er du décret du 26 octobre 2001
-
-|
-
-Nombre d'emplois
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-Nombre
+NOMBRE
 
-de points
-
-par emploi
+d'emplois
 
 |
 
-DATE
+NOMBRE
 
-d'effet
-
-|
-
-1. Directeur général et directeur
+de points par emploi
 
 |
 
-|
-
-|
-
-|
-
-Directeur général de l'enseignement scolaire
+Secrétaire général du ministère de l'éducation nationale et du ministère de l'enseignement supérieur et de la recherche
 
 |
 
@@ -48,33 +32,21 @@ Directeur général de l'enseignement scolaire
 
 |
 
-|
+2. Directeur général, directeur et délégué d'administration centrale
 
-Directeur général pour l'enseignement supérieur et l'insertion professionnelle
-
-|
-
-1
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-180
+NOMBRE
+
+d'emplois
 
 |
 
-|
+NOMBRE
 
-Directeur général pour la recherche et l'innovation
-
-|
-
-1
-
-|
-
-180
-
-|
+de points par emploi
 
 |
 
@@ -90,6 +62,40 @@ Directeur général des ressources humaines
 
 |
 
+Directeur général de l'enseignement scolaire
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur général de l'enseignement supérieur et de l'insertion professionnelle
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur général de la recherche et de l'innovation
+
+|
+
+1
+
+|
+
+180
+
 |
 
 Directeur des affaires financières
@@ -101,8 +107,6 @@ Directeur des affaires financières
 |
 
 180
-
-|
 
 |
 
@@ -118,8 +122,6 @@ Directeur des affaires juridiques
 
 |
 
-|
-
 Directeur de l'évaluation, de la prospective et de la performance
 
 |
@@ -132,33 +134,7 @@ Directeur de l'évaluation, de la prospective et de la performance
 
 |
 
-|
-
-Directeur des relations européennes et internationales et de la coopération
-
-|
-
-1
-
-|
-
-140
-
-|
-
-|
-
-2. Secrétaire général
-
-|
-
-|
-
-|
-
-|
-
-Secrétaire général
+Directeur du numérique pour l'éducation
 
 |
 
@@ -167,18 +143,6 @@ Secrétaire général
 |
 
 180
-
-|
-
-|
-
-3. Délégué
-
-|
-
-|
-
-|
 
 |
 
@@ -194,29 +158,23 @@ Délégué à la communication
 
 |
 
-|
+3. Chef du service de l'inspection générale de l'administration de l'éducation nationale
 
-4. Inspections générales
+et de la recherche et doyen de l'inspection générale de l'éducation nationale
 
-|
-
-|
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-|
+NOMBRE
 
-Doyen de l'inspection générale de l'éducation nationale
-
-|
-
-1
+d'emplois
 
 |
 
-140
+NOMBRE
 
-|
+de points par emploi
 
 |
 
@@ -232,19 +190,37 @@ Chef du service de l'inspection générale de l'administration de l'éducation n
 
 |
 
-|
-
-5. Médiateur de l'éducation nationale
+Doyen de l'inspection générale de l'éducation nationale
 
 |
 
-|
+1
 
 |
 
+140
+
 |
 
-Médiateur de l'éducation nationale
+4. Médiateur de l'éducation nationale
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE
+
+de points par emploi
+
+|
+
+Médiateur de l'éducation nationale et de l'enseignement supérieur
 
 |
 
@@ -256,43 +232,33 @@ Médiateur de l'éducation nationale
 
 |
 
-|
+5. Chef de service
 
-6. Chef de service adjoint à un directeur général ou à un directeur ou à un délégué et directeur de l'Ecole supérieure de l'éducation nationale, de l'enseignement supérieur et de la recherche et directeur du pôle de contractualisation et de financement des établissements de formation et de recherche
-
-|
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-|
+NOMBRE
+
+d'emplois
 
 |
 
-Direction générale de l'enseignement scolaire :
+NOMBRE
+
+de points par emploi
 
 |
 
-|
-
-|
-
-|
-
-Chef de service, adjoint au directeur général
-
-|
-
-1
-
-|
-
-120
+Secrétariat général
 
 |
 
 |
 
-Chef du service de l'instruction publique et de l'action pédagogique, adjoint au directeur général
+|
+
+Chef de service, délégué aux relations européennes et internationales et à la coopération
 
 |
 
@@ -304,9 +270,7 @@ Chef du service de l'instruction publique et de l'action pédagogique, adjoint a
 
 |
 
-|
-
-Chef du service du budget, de la performance et des établissements, adjoint au directeur général
+Chef de service, secrétaire général adjoint
 
 |
 
@@ -318,19 +282,7 @@ Chef du service du budget, de la performance et des établissements, adjoint au 
 
 |
 
-|
-
-Direction générale pour l'enseignement supérieur et l'insertion professionnelle :
-
-|
-
-|
-
-|
-
-|
-
-Chef de service, adjoint au directeur général
+Chef de service, chargé de l'action administrative et des moyens
 
 |
 
@@ -342,23 +294,15 @@ Chef de service, adjoint au directeur général
 
 |
 
-|
-
-Directeur du pôle de contractualisation et de financement des établissements de formation et de recherche
-
-|
-
-1
-
-|
-
-120
+Direction générale des ressources humaines
 
 |
 
 |
 
-Chef du service de la stratégie de l'enseignement supérieur et de l'insertion professionnelle
+|
+
+Chef de service, adjoint au directeur général des ressources humaines
 
 |
 
@@ -370,19 +314,7 @@ Chef du service de la stratégie de l'enseignement supérieur et de l'insertion 
 
 |
 
-|
-
-Direction générale pour la recherche et de l'innovation :
-
-|
-
-|
-
-|
-
-|
-
-Chef de service, adjoint au directeur général
+Chef de service, adjoint au directeur général des ressources humaines, directeur de l'Ecole supérieure de l'éducation nationale, de l'enseignement supérieur et de la recherche
 
 |
 
@@ -394,9 +326,7 @@ Chef de service, adjoint au directeur général
 
 |
 
-|
-
-Chef du service de la stratégie de la recherche et de l'innovation
+Chef de service, adjoint au directeur général des ressources humaines, chargé des personnels enseignants de l'enseignement scolaire
 
 |
 
@@ -408,9 +338,7 @@ Chef du service de la stratégie de la recherche et de l'innovation
 
 |
 
-|
-
-Chef du service de la performance, du financement et de la contractualisation avec les organismes de recherche
+Chef de service, adjoint au directeur général des ressources humaines, chargé de l'encadrement
 
 |
 
@@ -422,9 +350,7 @@ Chef du service de la performance, du financement et de la contractualisation av
 
 |
 
-|
-
-Chef du service des entreprises, du transfert de technologie et de l'action régionale
+Chef de service, adjoint au directeur général des ressources humaines, chargé des personnels enseignants de l'enseignement supérieur et de la recherche
 
 |
 
@@ -436,19 +362,7 @@ Chef du service des entreprises, du transfert de technologie et de l'action rég
 
 |
 
-|
-
-Services communs : direction générale pour l'enseignement supérieur et l'insertion professionnelle et direction pour la recherche et l'innovation
-
-|
-
-|
-
-|
-
-|
-
-Chef du service de la coordination stratégique et des territoires
+Chef de service, adjoint au directeur général des ressources humaines, chargé des personnels ingénieurs, administratifs, techniques, sociaux et de santé et des bibliothèques
 
 |
 
@@ -460,23 +374,7 @@ Chef du service de la coordination stratégique et des territoires
 
 |
 
-|
-
-Chef du service des grands projets immobiliers
-
-|
-
-1
-
-|
-
-120
-
-|
-
-|
-
-Secrétariat général :
+Direction générale de l'enseignement scolaire
 
 |
 
@@ -484,9 +382,7 @@ Secrétariat général :
 
 |
 
-|
-
-Chef du service de l'action administrative et de la modernisation
+Chef de service, adjoint au directeur général de l'enseignement scolaire
 
 |
 
@@ -498,9 +394,7 @@ Chef du service de l'action administrative et de la modernisation
 
 |
 
-|
-
-Chef du service des technologies et des systèmes d'information
+Chef du service, adjoint au directeur général de l'enseignement scolaire, chargé de l'instruction publique et de l'action pédagogique
 
 |
 
@@ -512,29 +406,7 @@ Chef du service des technologies et des systèmes d'information
 
 |
 
-|
-
-Direction générale des ressources humaines :
-
-|
-
-|
-
-|
-
-|
-
-Chef du service, adjoint au directeur général des ressources humaines
-
-|
-
-1 |
-
-120 |
-
-9 septembre 2008 |
-
-Chef du service des personnels enseignants de l'enseignement supérieur et de la recherche, adjoint au directeur général
+Chef de service, adjoint au directeur général de l'enseignement scolaire, chargé du budget, de la performance et des établissements
 
 |
 
@@ -546,23 +418,15 @@ Chef du service des personnels enseignants de l'enseignement supérieur et de la
 
 |
 
-|
-
-Chef du service des personnels enseignants de l'enseignement scolaire, adjoint au directeur général
-
-|
-
-1
-
-|
-
-120
+Direction générale de l'enseignement supérieuret de l'insertion professionnelle
 
 |
 
 |
 
-Chef du service des personnels ingénieurs, administratifs, techniques, sociaux et de santé et des bibliothèques, adjoint au directeur général
+|
+
+Chef de service, adjoint au directeur général de l'enseignement supérieur et de l'insertion professionnelle
 
 |
 
@@ -574,9 +438,7 @@ Chef du service des personnels ingénieurs, administratifs, techniques, sociaux 
 
 |
 
-|
-
-Chef du service de l'encadrement, adjoint au directeur général
+Chef de service, chargé de la stratégie de contractualisation, du financement et de l'immobilier
 
 |
 
@@ -588,9 +450,7 @@ Chef du service de l'encadrement, adjoint au directeur général
 
 |
 
-|
-
-Directeur de l'Ecole supérieure de l'éducation nationale, de l'enseignement supérieur et de la recherche
+Chef de service, chargé de la stratégie des formations et de la vie étudiante
 
 |
 
@@ -602,9 +462,7 @@ Directeur de l'Ecole supérieure de l'éducation nationale, de l'enseignement su
 
 |
 
-|
-
-Direction des affaires financières :
+Direction générale de la recherche et de l'innovation
 
 |
 
@@ -612,9 +470,7 @@ Direction des affaires financières :
 
 |
 
-|
-
-Chef de service, adjoint au directeur
+Chef de service, adjoint au directeur général de la recherche et de l'innovation
 
 |
 
@@ -626,9 +482,83 @@ Chef de service, adjoint au directeur
 
 |
 
+Chef du service, chargé de la stratégie de la recherche et de l'innovation
+
 |
 
-Chef du service du pilotage de la gestion des données de carrière pour la retraite
+1
+
+|
+
+120
+
+|
+
+Chef du service, chargé de la performance, du financement et de la contractualisation avec les organismes de recherche
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service, chargé de l'innovation du transfert de technologie et de l'action régionale
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Direction générale de l'enseignement supérieur et de l'insertion professionnelleet direction générale de la recherche et de l'innovation
+
+|
+
+|
+
+|
+
+Chef de service, chargé de la coordination des stratégies de l'enseignement supérieur et de la recherche, service commun à la direction générale de l'enseignement supérieur et de l'insertion professionnelle et à la direction générale de la recherche et de l'innovation
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Direction des affaires financières
+
+|
+
+|
+
+|
+
+Chef de service, adjoint au directeur des affaires financières
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service, chargé des retraites de l'éducation nationale
 
 |
 
@@ -640,9 +570,7 @@ Chef du service du pilotage de la gestion des données de carrière pour la retr
 
 |
 
-|
-
-Direction des affaires juridiques :
+Direction des affaires juridiques
 
 |
 
@@ -650,9 +578,7 @@ Direction des affaires juridiques :
 
 |
 
-|
-
-Chef de service, adjoint au directeur
+Chef de service, adjoint au directeur des affaires juridiques
 
 |
 
@@ -664,9 +590,7 @@ Chef de service, adjoint au directeur
 
 |
 
-|
-
-Direction de l'évaluation, de la prospective et de la performance :
+Direction de l'évaluation, de la prospective et de la performance
 
 |
 
@@ -674,9 +598,7 @@ Direction de l'évaluation, de la prospective et de la performance :
 
 |
 
-|
-
-Chef de service, adjoint au directeur
+Chef de service, adjoint au directeur de l'évaluation, de la prospective et de la performance.
 
 |
 
@@ -688,9 +610,7 @@ Chef de service, adjoint au directeur
 
 |
 
-|
-
-Direction des relations européennes et internationales et de la coopération :
+Direction du numérique pour l'éducation
 
 |
 
@@ -698,9 +618,57 @@ Direction des relations européennes et internationales et de la coopération :
 
 |
 
+Chef de service, adjoint au directeur du numérique pour l'éducation, chargé des technologies et des systèmes d'information
+
 |
 
-Chef de service, adjoint au directeur
+1
+
+|
+
+120
+
+|
+
+Chef de service, adjoint au directeur du numérique pour l'éducation, chargé du développement du numérique éducatif
+
+|
+
+1
+
+|
+
+120
+
+|
+
+6. Sous-directeur
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+NOMBRE
+
+de points par emploi
+
+|
+
+Direction générale des ressources humaines
+
+|
+
+|
+
+|
+
+Sous-directeur du recrutement
 
 |
 
@@ -712,19 +680,7 @@ Chef de service, adjoint au directeur
 
 |
 
-|
-
-Délégation à la communication
-
-|
-
-|
-
-|
-
-|
-
-Adjoint au délégué
+Sous-directeur de la gestion prévisionnelle et des missions de l'encadrement
 
 |
 
@@ -736,11 +692,91 @@ Adjoint au délégué
 
 |
 
-1er janvier 2007
+Sous-directeur de la gestion des carrières des personnels de l'encadrement
 
 |
 
-7. Sous-directeur
+1
+
+|
+
+110
+
+|
+
+Sous-directeur des études de gestion prévisionnelle, statutaires et des affaires communes
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Sous-directeur du pilotage du recrutement et de la gestion des enseignants-chercheurs
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur des études de gestion prévisionnelle et statutaires
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Sous-directeur de la gestion des carrières des personnels enseignants de l'enseignement scolaire
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Sous-directeur des études de gestion prévisionnelle, statutaires et de l'action sanitaire et sociale
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Sous-directeur de la gestion des carrières des personnels ingénieurs, administratifs, techniques, sociaux et de santé, et des bibliothèques
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Direction des affaires financières
 
 |
 
@@ -748,19 +784,205 @@ Adjoint au délégué
 
 |
 
-|
-
-Direction générale de l'enseignement scolaire :
+Sous-directeur de l'expertise statutaire, de la masse salariale, des emplois et des rémunérations
 
 |
 
+1
+
 |
+
+110
+
+|
+
+Sous-directeur du budget de la mission Enseignement scolaire
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Sous-directeur du budget de la mission Recherche et enseignement supérieur
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Sous-directeur de l'enseignement privé
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Direction des affaires juridiques
 
 |
 
 |
 
-Sous-direction du socle commun, de la personnalisation des parcours scolaires et de l'orientation
+|
+
+Sous-directeur des affaires juridiques de l'enseignement scolaire
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur des affaires juridiques de l'enseignement supérieur et de la recherche
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Direction de l'évaluation, de la prospective et de la performance
+
+|
+
+|
+
+|
+
+Sous-directeur des synthèses
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Sous-directeur des évaluations et de la performance scolaire
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Délégation aux relations européennes et internationales et à la coopération
+
+|
+
+|
+
+|
+
+Sous-directeur des relations internationales
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur des affaires européennes et multilatérales
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Service de l'action administrative et des moyens du secrétariat général
+
+|
+
+|
+
+|
+
+Sous-directeur de la gestion des ressources humaines pour l'administration centrale
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Sous-directeur du pilotage et du dialogue de gestion
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Sous-directeur de la logistique de l'administration centrale
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Direction générale de l'enseignement scolaire
+
+|
+
+|
+
+|
+
+Sous-directeur du socle commun, de la personnalisation
+
+des parcours scolaires et de l'orientation
 
 |
 
@@ -772,9 +994,7 @@ Sous-direction du socle commun, de la personnalisation des parcours scolaires et
 
 |
 
-|
-
-Sous-direction des lycées et de la formation professionnelle tout au long de la vie
+Sous-directeur de la gestion des programmes budgétaires
 
 |
 
@@ -786,23 +1006,7 @@ Sous-direction des lycées et de la formation professionnelle tout au long de la
 
 |
 
-|
-
-Sous-direction des programmes d'enseignement, de la formation des enseignants et du développement numérique
-
-|
-
-1
-
-|
-
-100
-
-|
-
-|
-
-Sous-direction de la gestion des programmes budgétaires
+Sous-directeur des lycées et de la formation professionnelle tout au long de la vie
 
 |
 
@@ -814,9 +1018,7 @@ Sous-direction de la gestion des programmes budgétaires
 
 |
 
-|
-
-Sous-direction de la performance et du dialogue avec les académies
+Sous-directeur de la performance et du dialogue avec les académies
 
 |
 
@@ -828,9 +1030,7 @@ Sous-direction de la performance et du dialogue avec les académies
 
 |
 
-|
-
-Sous-direction de la vie scolaire, des établissements et des actions socio-éducatives
+Sous-directeur de la vie scolaire, des établissements et des actions socio-éducatives
 
 |
 
@@ -842,9 +1042,7 @@ Sous-direction de la vie scolaire, des établissements et des actions socio-édu
 
 |
 
-|
-
-Direction générale pour l'enseignement supérieur et l'insertion professionnelle :
+Direction du numérique pour l'éducation
 
 |
 
@@ -852,9 +1050,7 @@ Direction générale pour l'enseignement supérieur et l'insertion professionnel
 
 |
 
-|
-
-- sous-direction de la performance et du financement de l'enseignement supérieur
+Sous-directeur des infrastructures techniques et de l'exploitation
 
 |
 
@@ -866,117 +1062,7 @@ Direction générale pour l'enseignement supérieur et l'insertion professionnel
 
 |
 
-|
-
-- sous-direction de l'égalité des chances et de la vie étudiante
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-- sous-direction de l'analyse de la performance et du dialogue contractuel
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-- sous-direction de l'allocation des moyens et des affaires immobilières
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Secrétariat général :
-
-|
-
-|
-
-|
-
-|
-
-Sous-direction de la gestion des ressources humaines pour l'administration centrale
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Sous-direction du pilotage et du dialogue de gestion
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Sous-direction de la logistique de l'administration centrale
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Sous-direction des infrastructures techniques et de l'exploitation
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Sous-direction des systèmes d'information
+Sous-directeur des technologies et des systèmes d'information
 
 |
 
@@ -988,9 +1074,7 @@ Sous-direction des systèmes d'information
 
 |
 
-|
-
-Direction générale des ressources humaines :
+Direction générale de l'enseignement supérieuret de l'insertion professionnelle
 
 |
 
@@ -998,9 +1082,7 @@ Direction générale des ressources humaines :
 
 |
 
-|
-
-Sous-direction des études de gestion prévisionnelle, statutaires et des affaires communes
+Sous-directeur du financement de l'enseignement supérieur
 
 |
 
@@ -1012,23 +1094,7 @@ Sous-direction des études de gestion prévisionnelle, statutaires et des affair
 
 |
 
-|
-
-Sous-direction du pilotage du recrutement et de la gestion des enseignants-chercheurs
-
-|
-
-1
-
-|
-
-80
-
-|
-
-|
-
-Sous-direction des études de gestion prévisionnelle et statutaires
+Sous-directeur des formations et de l'insertion professionnelle
 
 |
 
@@ -1040,9 +1106,7 @@ Sous-direction des études de gestion prévisionnelle et statutaires
 
 |
 
-|
-
-Sous-direction de la gestion des carrières
+Sous-directeur du dialogue contractuel
 
 |
 
@@ -1054,9 +1118,7 @@ Sous-direction de la gestion des carrières
 
 |
 
-|
-
-Sous-direction des études de gestion prévisionnelle, statutaires et de l'action sanitaire et sociale
+Sous-directeur de l'immobilier
 
 |
 
@@ -1068,9 +1130,7 @@ Sous-direction des études de gestion prévisionnelle, statutaires et de l'actio
 
 |
 
-|
-
-Sous-direction de la gestion des carrières
+Sous-directeur de la vie étudiante
 
 |
 
@@ -1082,23 +1142,15 @@ Sous-direction de la gestion des carrières
 
 |
 
-|
-
-Sous-direction du recrutement
-
-|
-
-1
-
-|
-
-110
+Direction générale de l'enseignement supérieur et de l'insertion professionnelleet direction générale de la recherche et de l'innovation
 
 |
 
 |
 
-Sous-direction de la gestion prévisionnelle et des missions de l'encadrement
+|
+
+Sous-directeur du pilotage stratégique et des territoires, sous-direction commune à la direction générale de la recherche et de l'insertion professionnelle et à la direction générale de la recherche et de l'innovation
 
 |
 
@@ -1110,9 +1162,7 @@ Sous-direction de la gestion prévisionnelle et des missions de l'encadrement
 
 |
 
-|
-
-Sous-direction de la gestion des carrières des personnels d'encadrement
+Sous-directeur des systèmes d'information et des études statistiques, sous-direction commune à la direction générale de la recherche et de l'insertion professionnelle et à la direction générale de la recherche et de l'innovation
 
 |
 
@@ -1121,213 +1171,5 @@ Sous-direction de la gestion des carrières des personnels d'encadrement
 |
 
 110
-
-|
-
-|
-
-Direction des affaires financières :
-
-|
-
-1
-
-|
-
-|
-
-|
-
-Sous-direction du budget de la mission enseignement scolaire
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Sous-direction du budget de la mission recherche et enseignement supérieur
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Sous-direction de l'expertise statutaire, de la masse salariale et du plafond d'emplois
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Sous-direction de l'enseignement privé
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Direction des affaires juridiques :
-
-|
-
-|
-
-|
-
-|
-
-Sous-direction des affaires juridiques de l'enseignement scolaire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-|
-
-Sous-direction des affaires juridiques de l'enseignement supérieur et de la recherche
-
-|
-
-1
-
-|
-
-80
-
-|
-
-|
-
-Direction de l'évaluation, de la prospective et de la performance :
-
-|
-
-|
-
-|
-
-|
-
-Sous-direction des synthèses
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Sous-direction des évaluations et de la performance scolaire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-|
-
-Services communs : direction générale pour l'enseignement supérieur et l'insertion professionnelle et direction pour la recherche et l'innovation
-
-|
-
-|
-
-|
-
-|
-
-Sous-direction des systèmes d'information et des études
-
-|
-
-1
-
-|
-
-110
-
-|
-
-|
-
-Direction des relations européennes et internationales et de la coopération :
-
-|
-
-|
-
-|
-
-|
-
-Sous-direction des relations internationales
-
-|
-
-1
-
-|
-
-80
-
-|
-
-|
-
-Sous-direction des affaires européennes et multilatérales
-
-|
-
-1
-
-|
-
-80
-
-|
 
 |
