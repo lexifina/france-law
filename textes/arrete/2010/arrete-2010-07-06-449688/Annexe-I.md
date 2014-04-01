@@ -6,7 +6,7 @@ A. ― Mode d'emploi du tableau de classement des terrains
 
 de camping ou caravanage en cinq catégories de 1 à 5 étoiles
 
-a) Les critères de classement sont classés en trois chapitres, soit Equipements et aménagements , Services au client et Accessibilité et développement durable .
+a) Les critères de classement sont classés en trois chapitres, soit Equipements et aménagements, Services au client et Accessibilité et développement durable.
 
 b) La colonne Statut du critère se réfère au caractère obligatoire ou à la carte de chaque critère.
 
@@ -16,7 +16,7 @@ Les critères à la carte sont notés d'un O.
 
 Les cases identifiées par NA ne doivent pas être prises en compte pour le critère et la catégorie concernés.
 
-c) A chaque critère correspond un nombre de points apparaissant dans la colonne Points .
+c) A chaque critère correspond un nombre de points apparaissant dans la colonne Points.
 
 Pour être classé dans une catégorie donnée, un terrain de camping ou caravanage doit respecter au minimum un total de points résultant de l'addition de :
 
@@ -25,6 +25,8 @@ Pour être classé dans une catégorie donnée, un terrain de camping ou caravan
 |
 
 CATÉGORIE
+
+|
 
 |
 
@@ -128,13 +130,15 @@ Nombre de points de critères à la carte à atteindre
 
 B. ― Prérequis
 
-Pour pouvoir prétendre au classement, la surface minimum d'un emplacement doit être de 70 m² pour les 1* et 2* et de 80 m² pour les 3*, 4* et 5*, à l'exception des places de l'aire de stationnement pour les autocaravanes à l'entrée du terrain de camping, dont la surface minimum indiquée dans le tableau de classement est de 35 m² quelle que soit la catégorie de classement.
+Pour pouvoir prétendre au classement, la surface minimum d'un emplacement doit être de 70 m ² pour les 1* et 2* et de 80 m ² pour les 3*, 4* et 5*, à l'exception des places de l'aire de stationnement pour les autocaravanes à l'entrée du terrain de camping, dont la surface minimum indiquée dans le tableau de classement est de 35 m ² quelle que soit la catégorie de classement.
+
+Pour pouvoir prétendre au classement, le nombre d'emplacements indiqué dans la demande de classement doit correspondre au nombre d'emplacements autorisés par le permis d'aménager dans la limite de l'augmentation de 10 % autorisée conformément aux articles R. 421-19 (e) du code de l'urbanisme et D. 332-4 du code du tourisme.
 
 C. Tableau de classement
 
 Légende :
 
-X = critère obligatoire - O = critère optionnel - NA = critère non applicable
+X = critère obligatoire-O = critère optionnel-NA = critère non applicable
 
 |
 
@@ -440,7 +444,7 @@ Ordures ménagères
 
 |
 
-Existence d'un système de collecte d'ordures ménagères ou de poubelles réparties en un ou plusieurs point(s) sur le terrain
+Existence d'un système de collecte d'ordures ménagères ou de poubelles réparties en un ou plusieurs point (s) sur le terrain
 
 |
 
@@ -594,7 +598,7 @@ X
 
 |
 
-Il s'agit des places de parking visiteurs et/ou clients, à l'exception de celles qui se trouvent sur les emplacements. Elles doivent se situer dans un rayon de 150 mètres par rapport à un point d'entrée du terrain de camping.
+Il s'agit des places de parking visiteurs et/ ou clients, à l'exception de celles qui se trouvent sur les emplacements. Elles doivent se situer dans un rayon de 150 mètres par rapport à un point d'entrée du terrain de camping.
 
 |
 
@@ -800,7 +804,7 @@ NA
 
 |
 
-Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie "loisirs".
+Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie " loisirs ".
 
 |
 
@@ -840,7 +844,7 @@ X
 
 |
 
-Quand il est obligatoire, ce critère devient optionnel pour es terrains de camping appartenant à la catégorie "loisirs". Dans ce cas il doit y avoir un poste téléphonique de secours sur place et le critère 57 est alors acquis.
+Quand il est obligatoire, ce critère devient optionnel pour es terrains de camping appartenant à la catégorie " loisirs ". Dans ce cas il doit y avoir un poste téléphonique de secours sur place et le critère 57 est alors acquis.
 
 |
 
@@ -944,7 +948,7 @@ O
 
 |
 
-Bonification de 1 point par tranche de 10% d'emplacements équipés supplémentaires, plafonné à 5 points.
+Bonification de 1 point par tranche de 10 % d'emplacements équipés supplémentaires, plafonné à 5 points.
 
 |
 
@@ -1078,9 +1082,9 @@ Qualité paysagère du terrain de camping
 
 architecture du bâtiment d'accueil principal en cohérence avec :
 
-- le type ou style d'architecture dominant de la région
+-le type ou style d'architecture dominant de la région
 
-- le positionnement thématique du terrain de camping
+-le positionnement thématique du terrain de camping
 
 |
 
@@ -1120,11 +1124,11 @@ Si le bâtiment d'accueil principal est en cohérence avec un positionnement th�
 
 |
 
-Architecture d'un ou plusieurs bâtiment(s) collectif(s) supplémentaire(s) en cohérence avec :
+Architecture d'un ou plusieurs bâtiment (s) collectif (s) supplémentaire (s) en cohérence avec :
 
-- le type ou style d'architecture dominant de la région
+-le type ou style d'architecture dominant de la région
 
-- le positionnement thématique du terrain de camping
+-le positionnement thématique du terrain de camping
 
 |
 
@@ -1156,7 +1160,7 @@ O
 
 Bonification de 1 point par bâtiment collectif supplémentaire, plafonnée à 5 points.
 
-Si le(s) bâtiment(s) collectif(s) supplémentaire(s) est (sont) en cohérence avec un positionnement thématique du terrain de camping, alors le thème choisi doit être mis en avant dans la communication.
+Si le (s) bâtiment (s) collectif (s) supplémentaire (s) est (sont) en cohérence avec un positionnement thématique du terrain de camping, alors le thème choisi doit être mis en avant dans la communication.
 
 |
 
@@ -1170,7 +1174,7 @@ Abri de jardin
 
 |
 
-Présence d'un abri de jardin sur 50% des emplacements avec hébergement locatif
+Présence d'un abri de jardin sur 50 % des emplacements avec hébergement locatif
 
 |
 
@@ -1202,7 +1206,7 @@ O
 
 |
 
-Surface maximale de l'abri de jardin : 6 m2 maximum.
+Surface maximale de l'abri de jardin : 6 m 2 maximum.
 
 Le critère est réputé non applicable pour les terrain de camping sans emplacement avec hébergement locatif.
 
@@ -1212,7 +1216,7 @@ Le critère est réputé non applicable pour les terrain de camping sans emplace
 
 |
 
-Présence d'un abri de jardin sur 100% des emplacements avec hébergement locatif
+Présence d'un abri de jardin sur 100 % des emplacements avec hébergement locatif
 
 |
 
@@ -1244,7 +1248,7 @@ O
 
 |
 
-Surface maximale de l'abri de jardin : 6 m2 maximum.
+Surface maximale de l'abri de jardin : 6 m 2 maximum.
 
 Si ce critère est validé, alors le précédent est réputé acquis.
 
@@ -1346,7 +1350,7 @@ En catégorie 1 et 2*, le bureau d'accueil peut-être constitué par une install
 
 |
 
-Bureau d'accueil commun si multi- hébergement
+Bureau d'accueil commun si multi-hébergement
 
 |
 
@@ -1430,7 +1434,7 @@ X
 
 |
 
-Catégorie(s) d'animation(s) encadrée(s) par un animateur (sur l'espace de rencontre et d'animation)
+Catégorie (s) d'animation (s) encadrée (s) par un animateur (sur l'espace de rencontre et d'animation)
 
 |
 
@@ -1514,7 +1518,7 @@ Terrains de jeux et activités
 
 |
 
-Aire de jeu(x) pour enfants
+Aire de jeu (x) pour enfants
 
 |
 
@@ -1554,7 +1558,7 @@ Il s'agit d'un espace dédié pour le jeu des enfants.
 
 |
 
-Aire de jeu(x) pour enfants équipée(en nombre de jeux proposés)
+Aire de jeu (x) pour enfants équipée (en nombre de jeux proposés)
 
 |
 
@@ -1656,7 +1660,7 @@ Bonification de 1 point par jeu proposé sur l'aire de jeux enfants équipée, p
 
 |
 
-Majoration du nombre d'aire(s) de jeux pour enfants équipée(s) supplémentaire(s)
+Majoration du nombre d'aire (s) de jeux pour enfants équipée (s) supplémentaire (s)
 
 |
 
@@ -1696,7 +1700,7 @@ Bonification de 1 point par aire de jeux équipée supplémentaire, plafonné à
 
 |
 
-Terrain d'activité(s) ou point(s) d'eau (hors espace de baignade) proposant au moins la possibilité d'effectuer un type d'activité
+Terrain d'activité (s) ou point (s) d'eau (hors espace de baignade) proposant au moins la possibilité d'effectuer un type d'activité
 
 |
 
@@ -1736,7 +1740,7 @@ Attribution de 1 point par type d'activité, plafonné à 5 points.
 
 |
 
-Terrain d'activité(s) ou point(s) d'eau supplémentaire(s) (hors espace de baignade)
+Terrain d'activité (s) ou point (s) d'eau supplémentaire (s) (hors espace de baignade)
 
 |
 
@@ -2012,7 +2016,7 @@ X
 
 |
 
-Quand le critère est obligatoire, alors il devient optionnel pour les terrains de camping de catégorie "loisirs".
+Quand le critère est obligatoire, alors il devient optionnel pour les terrains de camping de catégorie " loisirs ".
 
 |
 
@@ -2146,7 +2150,7 @@ Si ce critère est validé, le critère 43 est réputé acquis.
 
 |
 
-Présence d'équipement(s) ou d'infrastructure(s) fixe(s) dédié(s) à une activité aquatique ludique
+Présence d'équipement (s) ou d'infrastructure (s) fixe (s) dédié (s) à une activité aquatique ludique
 
 |
 
@@ -2386,7 +2390,7 @@ O
 
 |
 
-Présence d'autre(s) équipement(s) de détente ou de bien-être
+Présence d'autre (s) équipement (s) de détente ou de bien-être
 
 |
 
@@ -2480,7 +2484,7 @@ X
 
 |
 
-Si la technique le permet. Pour les catégories 1, 2 et 3*, si l'espace est équipé d'un système Wifi, alors le critère est réputé acquis.
+Si la technique le permet. Pour les catégories 1,2 et 3*, si l'espace est équipé d'un système Wifi, alors le critère est réputé acquis.
 
 |
 
@@ -2488,7 +2492,7 @@ Si la technique le permet. Pour les catégories 1, 2 et 3*, si l'espace est équ
 
 |
 
-Accès internet aux emplacements : 50% des emplacements
+Accès internet aux emplacements : 50 % des emplacements
 
 |
 
@@ -2742,7 +2746,7 @@ X
 
 |
 
-Quand le critère est obligatoire, il devient optionnel pour les terrains de camping appartenant à la catégorie "loisirs".
+Quand le critère est obligatoire, il devient optionnel pour les terrains de camping appartenant à la catégorie " loisirs ".
 
 |
 
@@ -3032,7 +3036,7 @@ X
 
 Si le terrain de camping est équipé d'un distributeur de boissons alimenté en permanence, alors le critère est réputé acquis.
 
-Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie "loisirs".
+Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie " loisirs ".
 
 |
 
@@ -3132,9 +3136,9 @@ X ou NA
 
 |
 
-30% des lavabos requis peuvent être installés dans une cabine de douche.
+30 % des lavabos requis peuvent être installés dans une cabine de douche.
 
-Au-delà de 75% du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage.
+Au-delà de 75 % du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage.
 
 Pour la catégorie 1*, les lavabos peuvent être remplacés par un appareil collectif (plusieurs robinets avec une vasque commune).
 
@@ -3196,9 +3200,9 @@ X ou O ou NA
 
 |
 
-30% des lavabos requis peuvent être installés dans une cabine de douche.
+30 % des lavabos requis peuvent être installés dans une cabine de douche.
 
-Au-delà de 75% du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage.
+Au-delà de 75 % du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage.
 
 Pour la catégorie 1*, si ce critère est validé, alors le critère précédent est réputé acquis.
 
@@ -3260,9 +3264,9 @@ X ou O
 
 |
 
-30% des lavabos requis peuvent être installés dans une cabine de douche.
+30 % des lavabos requis peuvent être installés dans une cabine de douche.
 
-Au-delà de 75% du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage. Sauf positionnement de l'établissement avéré justifiant le non cloisonnement des cabines. Les points sont alors réputés acquis.
+Au-delà de 75 % du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage. Sauf positionnement de l'établissement avéré justifiant le non cloisonnement des cabines. Les points sont alors réputés acquis.
 
 Pour les catégories 1, 2*, si ce critère est validé, alors les deux critères précédents sont réputés acquis.
 
@@ -3432,7 +3436,7 @@ X ou NA
 
 |
 
-Sauf positionnement de l'établissement avéré justifiant le non cloisonnement des cabines . Les points sont alors réputés acquis.
+Sauf positionnement de l'établissement avéré justifiant le non cloisonnement des cabines. Les points sont alors réputés acquis.
 
 |
 
@@ -3556,7 +3560,7 @@ O
 
 Sauf positionnement de l'établissement avéré justifiant le non cloisonnement des cabines. Les points sont alors réputés acquis.
 
-Pour la catégorie 1*, si ce critère est validé, alors le critère 73 est réputé acquis. Pour les catégories 2, 3, 4 et 5*, si ce critère est validé, alors le précédent est réputé acquis.
+Pour la catégorie 1*, si ce critère est validé, alors le critère 73 est réputé acquis. Pour les catégories 2,3,4 et 5*, si ce critère est validé, alors le précédent est réputé acquis.
 
 |
 
@@ -4016,7 +4020,7 @@ X ou NA
 
 |
 
-Par tranche supplémentaire de 100 emplacements, le nombre de bacs à laver est de 4, 5, 6, 6, 7.
+Par tranche supplémentaire de 100 emplacements, le nombre de bacs à laver est de 4,5,6,6,7.
 
 Une machine à laver la vaisselle remplace deux bacs à laver la vaisselle.
 
@@ -4078,7 +4082,7 @@ X ou O
 
 |
 
-Par tranche supplémentaire de 100 emplacements, le nombre de bacs à laver est de 4, 5, 6, 6, 7.
+Par tranche supplémentaire de 100 emplacements, le nombre de bacs à laver est de 4,5,6,6,7.
 
 Une machine à laver la vaisselle remplace deux bacs à laver la vaisselle.
 
@@ -4142,7 +4146,7 @@ X ou NA
 
 |
 
-Par tranche supplémentaire de 100 emplacements, le nombre de bacs à laver le linge est de 2, 2, 4, 4, 5.
+Par tranche supplémentaire de 100 emplacements, le nombre de bacs à laver le linge est de 2,2,4,4,5.
 
 Une machine à laver le linge remplace deux bacs à laver le linge.
 
@@ -4204,7 +4208,7 @@ X ou O
 
 |
 
-Par tranche supplémentaire, le nombre de bacs à laver le linge est de 2, 2, 4, 4, 5.
+Par tranche supplémentaire, le nombre de bacs à laver le linge est de 2,2,4,4,5.
 
 Une machine à laver le linge remplace deux bacs à laver le linge.
 
@@ -4412,7 +4416,7 @@ X
 
 |
 
-Prises de courant pour autres petits appareils électriques (chauffe-biberons, séchoirs, ....)
+Prises de courant pour autres petits appareils électriques (chauffe-biberons, séchoirs,....)
 
 |
 
@@ -4764,7 +4768,7 @@ O
 
 |
 
-Niveau d'équipements sanitaires requis pour les emplacements "confort caravane" et "grand confort caravane" destinés à accueillir tous types de matériels (si le terrain de camping ne propose pas ce type d'emplacement, l'ensemble des critères présentés ci-après sont non applicables) NB : La catégorie "grand confort caravane" désigne les emplacements desservis en eau, électricité et directement raccordés au système d'assainissement (eaux ménagères et eaux vannes). La catégorie "confort caravane" désigne les emplacements desservis en eau, électricité et uniquement raccordés au réseau d'évacuation des eaux ménagères.
+Niveau d'équipements sanitaires requis pour les emplacements " confort caravane " et " grand confort caravane " destinés à accueillir tous types de matériels (si le terrain de camping ne propose pas ce type d'emplacement, l'ensemble des critères présentés ci-après sont non applicables) NB : La catégorie " grand confort caravane " désigne les emplacements desservis en eau, électricité et directement raccordés au système d'assainissement (eaux ménagères et eaux vannes). La catégorie " confort caravane " désigne les emplacements desservis en eau, électricité et uniquement raccordés au réseau d'évacuation des eaux ménagères.
 
 |
 
@@ -4810,9 +4814,9 @@ X ou NA
 
 |
 
-30% des lavabos requis peuvent-être installés dans une cabine de douche.
+30 % des lavabos requis peuvent-être installés dans une cabine de douche.
 
-Au-delà de 75% du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage.
+Au-delà de 75 % du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage.
 
 Pour la catégorie 1*, les lavabos peuvent être remplacés par un appareil collectif (plusieurs robinets avec une vasque commune).
 
@@ -4874,9 +4878,9 @@ X ou O ou NA
 
 |
 
-30% des lavabos requis peuvent-être installés dans une cabine de douche.
+30 % des lavabos requis peuvent-être installés dans une cabine de douche.
 
-Au-delà de 75% du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage.
+Au-delà de 75 % du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage.
 
 Pour la catégorie 1*, si ce critère est validé, alors le critère précédent est réputé acquis.
 
@@ -4938,9 +4942,9 @@ X ou O
 
 |
 
-30% des lavabos requis peuvent-être installés dans une cabine de douche.
+30 % des lavabos requis peuvent-être installés dans une cabine de douche.
 
-Au-delà de 75% du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage. Sauf positionnement de l'établissement avéré justifiant le non cloisonnement des cabines. Les points sont alors réputés acquis.
+Au-delà de 75 % du nombre requis, deux lavabos peuvent être remplacés par une douche supplémentaire avec robinet de puisage. Sauf positionnement de l'établissement avéré justifiant le non cloisonnement des cabines. Les points sont alors réputés acquis.
 
 Pour les catégories 1, 2*, si ce critère est validé, alors les deux critères précédents sont réputés acquis.
 
@@ -5236,7 +5240,7 @@ Sauf positionnement de l'établissement avéré justifiant le non cloisonnement 
 
 Pour la catégorie 1*, si ce critère est validé, alors le critère 101 est réputé acquis.
 
-Pour les catégories 2, 3, 4 et 5*, si ce critère est validé, alors le précédent est réputé acquis.
+Pour les catégories 2,3,4 et 5*, si ce critère est validé, alors le précédent est réputé acquis.
 
 |
 
@@ -5370,7 +5374,7 @@ Toilettes (par tranche de 100)
 
 |
 
-Toilettes à chasse d'eau ou toilettes sèches (pour les emplacements catégorie "confort caravane")
+Toilettes à chasse d'eau ou toilettes sèches (pour les emplacements catégorie " confort caravane ")
 
 |
 
@@ -5402,7 +5406,7 @@ X
 
 |
 
-Si le terrain de camping ne propose pas d'emplacements catégorie "confort caravane", ce critère est non applicable.
+Si le terrain de camping ne propose pas d'emplacements catégorie " confort caravane ", ce critère est non applicable.
 
 |
 
@@ -5430,7 +5434,7 @@ X
 
 |
 
-Toilettes à chasse d'eau ou toilettes sèches (pour les emplacements catégorie "grand confort caravane")
+Toilettes à chasse d'eau ou toilettes sèches (pour les emplacements catégorie " grand confort caravane ")
 
 |
 
@@ -5462,7 +5466,7 @@ X
 
 |
 
-Si le terrain de camping ne propose pas d'emplacements catégorie "grand confort caravane", ce critère est non applicable.
+Si le terrain de camping ne propose pas d'emplacements catégorie " grand confort caravane ", ce critère est non applicable.
 
 |
 
@@ -5490,7 +5494,7 @@ X
 
 |
 
-Urinoirs (pour les emplacements catégorie "confort caravane")
+Urinoirs (pour les emplacements catégorie " confort caravane ")
 
 |
 
@@ -5526,7 +5530,7 @@ Deux urinoirs peuvent être remplacés par un WC.
 
 Deux urinoirs par tranche de 100 emplacements supplémentaires.
 
-Si le terrain dd camping ne propose pas d'emplacements catégorie "confort caravane", ce critère est non applicable.
+Si le terrain dd camping ne propose pas d'emplacements catégorie " confort caravane ", ce critère est non applicable.
 
 |
 
@@ -5554,7 +5558,7 @@ X
 
 |
 
-Urinoirs (pour les emplacements catégorie "grand confort caravane")
+Urinoirs (pour les emplacements catégorie " grand confort caravane ")
 
 |
 
@@ -5590,7 +5594,7 @@ Deux urinoirs peuvent être remplacés par un WC.
 
 Deux urinoirs par tranche de 100 emplacements supplémentaires.
 
-Si le terrain de camping ne propose pas d'emplacements catégorie "grand confort caravane", ce critère est non applicable.
+Si le terrain de camping ne propose pas d'emplacements catégorie " grand confort caravane ", ce critère est non applicable.
 
 |
 
@@ -6206,7 +6210,7 @@ X
 
 |
 
-Prises de courant pour autres petits appareils électriques (chauffe-biberons, séchoirs, ....)
+Prises de courant pour autres petits appareils électriques (chauffe-biberons, séchoirs,....)
 
 |
 
@@ -6566,17 +6570,17 @@ O
 
 |
 
-Niveau d'équipements sanitaires requis pour les emplacements "confort caravane" et "grand confort caravane" destinés à l'accueil exclusif
+Niveau d'équipements sanitaires requis pour les emplacements " confort caravane " et " grand confort caravane " destinés à l'accueil exclusif
 
-d'hébergements équipés pour se raccorder à tous les branchements (caravanes. résidences mobiles H.L.L.)
+d'hébergements équipés pour se raccorder à tous les branchements (caravanes. résidences mobiles H. L. L.)
 
 (si le terrain de camping ne propose pas ce type d'emplacement, l'ensemble des critères présentés ci-après sont non applicables)
 
 NB : ­
 
-La catégorie ''grand confort caravane" désigne les emplacements desservis en eau, électricité et directement raccordés au système d'assainissement (eaux ménagères et eaux vannes).
+La catégorie''grand confort caravane " désigne les emplacements desservis en eau, électricité et directement raccordés au système d'assainissement (eaux ménagères et eaux vannes).
 
-La catégorie "confort caravane" désigne les emplacements desservis en car, électricité et uniquement raccordés au réseau d'évacuation
+La catégorie " confort caravane " désigne les emplacements desservis en car, électricité et uniquement raccordés au réseau d'évacuation
 
 des eaux ménagères.
 
@@ -6976,7 +6980,7 @@ Sauf positionnement de l'établissement avéré justifiant le non cloisonnement 
 
 Pour la catégorie 1*, si ce critère est validé, alors le critère 130 est réputé acquis.
 
-Pour les catégories 2, 3, 4 et 5*, si ce critère est validé, alors le précédent est réputé acquis.
+Pour les catégories 2,3,4 et 5*, si ce critère est validé, alors le précédent est réputé acquis.
 
 |
 
@@ -7110,7 +7114,7 @@ Toilettes (par tranche de 100)
 
 |
 
-Toilettes à chasse d'eau ou toilettes sèche (pour les emplacements catégorie "confort caravane")
+Toilettes à chasse d'eau ou toilettes sèche (pour les emplacements catégorie " confort caravane ")
 
 |
 
@@ -7142,7 +7146,7 @@ X
 
 |
 
-Si le terrain de camping ne propose pas d'emplacements catégorie "confort caravane", ce critère est non applicable.
+Si le terrain de camping ne propose pas d'emplacements catégorie " confort caravane ", ce critère est non applicable.
 
 |
 
@@ -7170,7 +7174,7 @@ X
 
 |
 
-Toilettes à chasse d'eau ou toilettes sèches (pour les emplacements catégorie "grand confort caravane")
+Toilettes à chasse d'eau ou toilettes sèches (pour les emplacements catégorie " grand confort caravane ")
 
 |
 
@@ -7202,7 +7206,7 @@ X
 
 |
 
-Si le terrain de camping ne propose pas d'emplacements "grand catégorie confort caravane", ce critère est non applicable.
+Si le terrain de camping ne propose pas d'emplacements " grand catégorie confort caravane ", ce critère est non applicable.
 
 |
 
@@ -7230,7 +7234,7 @@ X
 
 |
 
-Urinoirs (pour les emplacements catégorie "confort caravane")
+Urinoirs (pour les emplacements catégorie " confort caravane ")
 
 |
 
@@ -7262,7 +7266,7 @@ X
 
 |
 
-Deux urinoirs peuvent être remplacés par un WC. Deux urinoirs par tranche de 100 emplacements supplémentaires. Si le terrain de camping ne propose pas d'emplacements catégorie "confort caravane", ce critère est non applicable.
+Deux urinoirs peuvent être remplacés par un WC. Deux urinoirs par tranche de 100 emplacements supplémentaires. Si le terrain de camping ne propose pas d'emplacements catégorie " confort caravane ", ce critère est non applicable.
 
 |
 
@@ -7290,7 +7294,7 @@ X
 
 |
 
-Urinoirs (pour les emplacements catégorie "grand confort caravane")
+Urinoirs (pour les emplacements catégorie " grand confort caravane ")
 
 |
 
@@ -7326,7 +7330,7 @@ Deux urinoirs peuvent être remplacés par un WC.
 
 Deux urinoirs par tranche de 100 emplacements supplémentaires.
 
-Si le terrain de camping ne propose pas d'emplacements catégorie "grand confort caravane", ce critère est non applicable.
+Si le terrain de camping ne propose pas d'emplacements catégorie " grand confort caravane ", ce critère est non applicable.
 
 |
 
@@ -8300,7 +8304,7 @@ NA
 
 |
 
-Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie "loisirs".
+Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie " loisirs ".
 
 |
 
@@ -8340,7 +8344,7 @@ NA
 
 |
 
-Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie "loisirs".
+Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie " loisirs ".
 
 Si ce critère est validé, alors le précédent est réputé acquis.
 
@@ -8372,7 +8376,7 @@ X ou O
 
 |
 
-Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie "loisirs".
+Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie " loisirs ".
 
 Si ce critère est validé, alors les deux critères précédents sont réputés acquis.
 
@@ -8572,7 +8576,7 @@ X
 
 |
 
-Pour les terrain de camping appartenant à la catégorie "loisirs" et avec aucun hébergement en location, ce critère est non applicable.
+Pour les terrain de camping appartenant à la catégorie " loisirs " et avec aucun hébergement en location, ce critère est non applicable.
 
 |
 
@@ -8612,7 +8616,7 @@ X
 
 |
 
-Pour les terrains de camping appartenant à la catégorie "loisirs" et avec aucun hébergement en location, ce critère est non applicable.
+Pour les terrains de camping appartenant à la catégorie " loisirs " et avec aucun hébergement en location, ce critère est non applicable.
 
 Si ce critère est validé, alors le précédent est réputé acquis.
 
@@ -8640,7 +8644,7 @@ Les informations sur les horaires et périodes d'ouverture du terrain de camping
 
 |
 
-Pour les terrains de camping appartenant à la catégorie "loisirs" et avec aucun hébergement en location, ce critère est non applicable
+Pour les terrains de camping appartenant à la catégorie " loisirs " et avec aucun hébergement en location, ce critère est non applicable
 
 |
 
@@ -8776,7 +8780,7 @@ X
 
 |
 
-Mise à disposition d'adaptateur(s) électrique(s) à la réception
+Mise à disposition d'adaptateur (s) électrique (s) à la réception
 
 |
 
@@ -8808,7 +8812,7 @@ X
 
 |
 
-Quand il est obligatoire, le critère devient optionnel pour les terrains de campings appartenant à la catégorie "loisirs".
+Quand il est obligatoire, le critère devient optionnel pour les terrains de campings appartenant à la catégorie " loisirs ".
 
 |
 
@@ -8892,7 +8896,7 @@ X
 
 |
 
-Les supports d'information relatifs à l'établissement sont traduits en au moins une langue étrangère - anglais au minimum - (hors signalétique)
+Les supports d'information relatifs à l'établissement sont traduits en au moins une langue étrangère-anglais au minimum-(hors signalétique)
 
 |
 
@@ -8924,7 +8928,7 @@ X
 
 |
 
-Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie "loisirs".
+Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie " loisirs ".
 
 |
 
@@ -9002,7 +9006,7 @@ X
 
 |
 
-Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie "loisirs".
+Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie " loisirs ".
 
 Si ce critère est validé, alors le critère précédent est réputé acquis.
 
@@ -9044,7 +9048,7 @@ X
 
 |
 
-Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie "loisirs".
+Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie " loisirs ".
 
 Si ce critère est validé, alors les deux critères précédents sont réputés acquis.
 
@@ -9072,7 +9076,7 @@ Si le personnel parle une ou plusieurs langues étrangères, le client doit pouv
 
 |
 
-Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie "loisirs".
+Quand il est obligatoire, ce critère devient optionnel pour les terrains de camping appartenant à la catégorie " loisirs ".
 
 |
 
@@ -9084,7 +9088,7 @@ CHAPITRE 3 : ACCESSIBILITES ET DEVELOPPEMENT DURABLE
 
 |
 
-3.1. ACCESSIBILITE AUX PERSONNES IIANDICAPEES ET/OU A MOBILITE REDUITE
+3.1. ACCESSIBILITE AUX PERSONNES IIANDICAPEES ET/ OU A MOBILITE REDUITE
 
 |
 
@@ -9140,7 +9144,7 @@ Ces équipements sanitaires viennent en déduction du nombre général d'équipe
 
 Les emplacements, au-delà de 500, peuvent n'être desservis que par un nombre d'équipements inférieur d'un fiers de ce qui est prescrit.
 
-Lorsque les nonnes 'imposent qu'un seul ensemble d'appareils, ceux-ci cuvent être regroupés en cabines.
+Lorsque les nonnes'imposent qu'un seul ensemble d'appareils, ceux-ci cuvent être regroupés en cabines.
 
 |
 
@@ -9406,7 +9410,7 @@ Information, sensibilisation
 
 |
 
-Informations concernant l'accessibilité sur les supports d'information (guide, web ...)
+Informations concernant l'accessibilité sur les supports d'information (guide, web...)
 
 |
 
@@ -9602,7 +9606,7 @@ O
 
 |
 
-Mise à disposition d'un fauteuil roulant adapté à son environnement (spécial plage, montagne ...) ou tout équipement adapté (piscine, ...)
+Mise à disposition d'un fauteuil roulant adapté à son environnement (spécial plage, montagne...) ou tout équipement adapté (piscine,...)
 
 |
 
@@ -10196,6 +10200,220 @@ L'utilisation régulière de ces produits, signifie une vente ou revente directe
 
 .
 
-Vous pouvez consulter les tableaux dans le JO
+Vous pouvez consulter les tableaux dans le JO n° 156 du 08/07/2010 texte numéro 16
 
-n° 156 du 08/07/2010 texte numéro 16
+D.-Tableau de classement des terrains de camping en catégorie " aire naturelle "
+
+La période d'ouverture de l'aire naturelle est de six mois maximum, consécutifs ou non, afin de préserver la couverture végétale selon la nature des sols.
+
+Les critères sont obligatoires dans leur totalité.
+
+I.-Equipements et aménagements
+
+A.-Généralités
+
+Une seule aire naturelle par unité foncière (îlot d'un seul tenant composé d'une ou plusieurs parcelles appartenant à un même propriétaire ou à la même indivision).
+
+1. Densité d'occupation : nombre maximum d'emplacements à l'hectare : 30.
+
+2. Superficie maximale de l'aire naturelle : 1 hectare.
+
+3. Délimitation des emplacements :
+
+-la superficie minimale de chaque emplacement doit être de 300 m ², si les contraintes environnementales ou topographiques de l'aire naturelle ne permettent pas de respecter la superficie minimale de l'emplacement, il sera toléré exceptionnellement une superficie minimale de l'emplacement de 200 m ² à condition que la superficie moyenne des emplacements soit de 300 m ² ;
+
+-obligation de marquer chaque emplacement par un jalon numéroté et mobile.
+
+4. Déplacement annuel des jalons pour préserver la couverture végétale selon la nature des sols.
+
+5. Interdiction de garage de caravanes et affichage de cette interdiction.
+
+6. Ordures ménagères : ramassage régulier des déchets ménagers, sinon stockage dans un enclos réservé à cet effet.
+
+7. L'accès au camping doit se faire sur un sol stabilisé et propre (éviter poussière et boue).
+
+8. Le parking et les voiries internes doivent être stabilisés et propres.
+
+9. Les emplacements stabilisés ne doivent pas excéder le nombre de 6.
+
+10. Eclairage : un éclairage du bloc sanitaire est obligatoire.
+
+11. Sécurité : un téléphone doit être accessible dans un rayon de 300 mètres autour de l'entrée du camping.
+
+12. Respect des conditions d'implantation prévues par l'article L. 123-1-5.14 du code de l'urbanisme.
+
+13. Respect de la végétation existante et de l'environnement naturel. Dans le cas de plantation de végétaux, il est nécessaire de privilégier les essences locales
+
+B.-Equipements communs
+
+La présence d'une aire de jeux est obligatoire (ex. : terrain de jeu extérieur, allée de boules, balançoire, table de ping-pong...).
+
+C.-Equipements sanitaires en matériaux de qualité
+
+Abris des installations sanitaires dans les bâtiments existants ou aménagés spécialement à cet effet.
+
+Ces abris peuvent être déplaçables et simplement installés pour la période d'ouverture de l'aire naturelle.
+
+NOMBRE D'EMPLACEMENTS
+
+|
+
+1 À 10
+
+|
+
+11 À 25
+
+|
+
+26 À 30
+
+|
+
+Lavabos avec eau chaude, glaces et tablettes
+
+|
+
+2
+
+|
+
+3 (1)
+
+|
+
+4 (1)
+
+|
+
+Douche avec eau chaude (cabines individuelles)
+
+|
+
+1 (1)
+
+|
+
+2 (1)
+
+|
+
+3 (1)
+
+|
+
+Toilettes WC (cabines individuelles)
+
+|
+
+2 (1) (2)
+
+|
+
+3 (1) (2)
+
+|
+
+4 (1) (2)
+
+|
+
+Bac à laver (bac à linge ou vaisselle)
+
+|
+
+2
+
+|
+
+3
+
+|
+
+4
+
+|
+
+Equipements électriques (prise accessible dans bloc sanitaire)
+
+|
+
+1
+
+|
+
+2
+
+|
+
+3
+
+|
+
+Points d'eau potable
+
+|
+
+1
+
+|
+
+2
+
+|
+
+3
+
+|
+
+(1) Concernant les toilettes, les lavabos et les douches, il est obligatoire d'avoir au minimum 1 équipement accessible aux handicapés, inclus dans le nombre indiqué.
+
+(2) Concernant les toilettes, lorsqu'il y a plus d'un WC en place, un seul WC peut être remplacé par deux urinoirs pour les WC complémentaires.
+
+|
+
+D.-Etat et propreté des installations et des équipements
+
+Les installations et équipements doivent être nettoyés régulièrement et entretenus en permanence pendant la durée d'ouverture du terrain.
+
+II.-Services au client
+
+A.-Qualité et fiabilité de l'information client
+
+Existence et utilisation d'un support commercial présentant les tarifs et les horaires d'ouverture.
+
+B.-Traitement de la réservation
+
+La réservation est possible aux horaires d'ouverture du lieu d'accueil.
+
+Existence d'un répondeur téléphonique qui donne la possibilité de laisser un message ou d'entendre un message qui présente la période et les heures d'ouverture de la réception et les autres informations utiles.
+
+C.-Réception et accueil
+
+Bureau d'accueil : la présence d'un lieu d'accueil est obligatoire. Ce lieu n'a pas été réservé exclusivement à l'accueil.
+
+Le client doit avoir à sa disposition des informations sur l'offre touristique locale, en particulier sur les activités liées à la découverte de l'environnement (randonnées, balades...) réalisables à proximité du site.
+
+III.-Accessibilité et développement durable
+
+A.-Accessibilité aux personnes handicapées et/ ou à mobilité réduite
+
+Nombre minimum d'emplacement accessible : 1.
+
+Le chemin pour accéder au bloc sanitaire doit être stabilisé et praticable et doit présenter un contraste visuel et tactile par rapport à son environnement.
+
+Nombre d'équipement sanitaire accessible : 1.
+
+B.-Environnement et développement durable
+
+Préservation de l'environnement naturel.
+
+Application obligatoire de deux critères parmi les suivants :
+
+1. Mise en œuvre d'au moins une mesure de réduction de consommation d'énergie (ex. : ampoule à économie d'énergie).
+
+2. Mise en œuvre d'au moins une mesure de gestion des déchets (ex. : mise en place du tri sélectif).
+
+3. Mise en œuvre d'au moins une mesure de réduction de consommation d'eau (ex. : réducteur de pression).
+
+4. Utilisation régulière d'au moins deux produits issus de la production régionale ou du commerce équitable ou de l'agriculture biologique.
