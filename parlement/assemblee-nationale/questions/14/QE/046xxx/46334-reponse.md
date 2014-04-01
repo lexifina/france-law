@@ -1,0 +1,9 @@
+# Réponse à la question n° 46334
+
+- Question : [46334](46334.md) — Question n° 46334 — instances consultatives; multiplicité
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Dans le domaine de la jeunesse, de l'éducation populaire et de la vie associative, il existe peu d'instances de consultations. Ainsi au niveau national, le conseil national de l'éducation populaire et de la jeunesse, institué par la loi n° 2001-624 du 17 juillet 2001 (article 11) est un organe de consultation dont sont issues deux commissions : l'une consultée sur les demandes d'agrément en qualité de jeunesse et d'éducation populaire formulées par les associations nationales ; l'autre consultée sur les demandes d'habilitation à l'organisation de formations aux brevets d'aptitude aux fonctions d'animateur et de directeur de centres de vacances et de loisirs formulées par des organismes de formation. Au niveau local il existe dans chaque département un conseil départemental de la jeunesse de l'éducation populaire et de la vie associative (CDJSVA) qui donne son avis sur les demandes d'agrément des associations locales et, sur les mesures d'interdiction d'exercer pour les animateurs et directeurs en accueils collectifs de mineurs. Dans le domaine du sport, la création du conseil national du sport, par décret du 4 avril 2013, a permis de regrouper plusieurs commissions administratives existantes : la conférence nationale du sport, la commission nationale du sport de haut niveau et la commission d'examen des règlements fédéraux relatifs aux équipements sportifs. La commission consultative des arts martiaux et des sports de combat a été supprimée. Les informations inscrites dans l'annexe au projet de loi de finances pour 2014 relative aux commissions et instances placées directement auprès du Premier ministre et des ministres, décrivent l'activité des instances maintenues qu'il n'est pas envisagé, à ce jour, de supprimer.
