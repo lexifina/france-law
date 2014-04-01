@@ -1,0 +1,9 @@
+# Réponse à la question n° 27369
+
+- Question : [27369](27369.md) — Question n° 27369 — Conseil d'analyse économique; rapport; propositions
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Le contrat de génération constitue l'un des dispositifs majeurs de la bataille pour l'emploi menée par le Gouvernement. Dans un contexte où la situation de l'emploi est difficile, il a pour objectif de faciliter l'insertion durable des jeunes, de favoriser l'embauche et le maintien dans l'emploi des salariés âgés, et d'assurer la transmission des savoirs et des compétences, essentielle à la compétitivité des entreprises. Le contrat de génération est le fruit d'un accord national interprofessionnel unanime des partenaires sociaux, transposé dans la loi. Le Gouvernement n'a pas souhaité, pas plus que les partenaires sociaux, limiter le contrat de génération aux seuls jeunes payés à moins de 1,6 SMIC. Le contrat de génération est un dispositif souple qui vise tous les jeunes en vue de faciliter l'accès à un emploi stable. Dans un contexte marqué par un très fort renouvellement des générations - d'ici à 2020, 5 millions d'actifs d'aujourd'hui auront pris leur retraite et, parallèlement, 6 millions de jeunes auront fait leur entrée sur le marché du travail - anticiper ce renouvellement est une nécessité économique et sociale pour les entreprises. Le contrat de génération est porteur d'une double ambition, quantitative et qualitative, en matière d'emploi. Il vise en effet à la fois à augmenter le taux d'emploi des jeunes et des seniors et à agir sur la qualité de l'emploi : privilégier les recrutements en contrat à durée indéterminée (CDI) pour les jeunes, qui leur permettent d'accéder à une véritable autonomie, et faciliter le maintien en emploi des salariés seniors jusqu'à leur départ en retraite en aménageant leurs conditions de travail.
