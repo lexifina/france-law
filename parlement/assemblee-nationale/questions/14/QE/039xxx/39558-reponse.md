@@ -1,0 +1,9 @@
+# Réponse à la question n° 39558
+
+- Question : [39558](39558.md) — Question n° 39558 — décret n° 2013-136 du 13 février 2013; mise en oeuvre; bilan
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Par une référence au droit international de la mer, il avait été décidé en 1978 que la limite marquant le point de départ pour la détermination des espaces maritimes, mer territoriale, zone contiguë, zone économique exclusive et plateau continental, à savoir la laisse de basse mer, serait également celle fixant les compétences en mer du représentant de l'État (préfet maritime en métropole et délégué du Gouvernement pour l'action de l'État en mer outre-mer). Par ailleurs, l'article L. 2212-3 du code général des collectivités territoriales prévoit que la police municipale des communes riveraines de la mer s'exerce sur le rivage de la mer jusqu'à la limite des eaux. La limite d'exercice des pouvoirs de police du maire, sur le rivage, est ainsi fixée au niveau atteint par la mer à un instant donné. Toutefois, il n'était pas précisé l'autorité compétente entre la laisse de basse mer et la limite des eaux. Le décret n° 2013-136 du 13 février 2013 a retenu, dans un but d'harmonisation, la limite des eaux comme point de départ de la compétence du représentant de l'État en mer, en lieu et place de la laisse de basse mer. Il a ainsi permis de combler une lacune puisqu'il détermine que l'autorité compétente, entre la limite des eaux et la laisse de basse mer, est le représentant de l'État en mer. Etant donné le caractère récent de cette mesure, il est difficile d'en établir un bilan exhaustif à ce stade. Les étapes régulières d'évaluation et de suivi de la stratégie nationale mer et littoral, prévue par la loi du 12 juillet 2010 portant engagement national pour l'environnement, menées en concertation avec le Conseil national de la mer et des littoraux (CNML), permettront d'établir un bilan de ce dispositif.
