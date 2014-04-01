@@ -1,0 +1,9 @@
+# Réponse à la question n° 46182
+
+- Question : [46182](46182.md) — Question n° 46182 — réforme; perspectives
+
+## Réponse
+
+*JO du 2014-04-01*
+
+L'article 76 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014 réforme le barème de fixation de la base minimum de cotisation foncière des entreprises (CFE). Le nombre de tranches du barème passe ainsi de trois à six, ce qui permet de distinguer, d'une part, trois catégories de redevables parmi ceux réalisant au plus 100 000 € de chiffre d'affaires ou de recettes hors taxes au cours de la période de référence définie à l'article 1467 A du code général des impôts et, d'autre part, deux catégories de redevables parmi ceux réalisant plus de 250 000 € de chiffre d'affaires ou de recettes. Par ailleurs, quelles que soient les décisions prises par les communes et les établissements publics de coopération intercommunale (EPCI) à fiscalité propre, la base minimum des redevables réalisant au plus 100 000 € de chiffre d'affaires ou de recettes ne peut désormais plus excéder les nouveaux plafonds légaux. Ces deux mesures vont permettre une imposition sur la base minimum de CFE plus progressive et davantage proportionnée aux capacités contributives des petites entreprises et des redevables les plus modestes. En revanche, il ne sera pas fait de distinction entre les titulaires de bénéfices non commerciaux (BNC) et les autres redevables : initialement votée par le Parlement, l'application, sur délibération des communes et des EPCI à fiscalité propre, d'un barème spécifique renforçant l'imposition des titulaires de BNC a en effet été censurée par le Conseil constitutionnel dans sa décision n° 2013-685 DC du 29 décembre 2013. Les titulaires de BNC demeureront donc imposés, le cas échéant, à la CFE minimum dans les conditions de droit commun.
