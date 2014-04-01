@@ -1,0 +1,9 @@
+# Réponse à la question n° 49106
+
+- Question : [49106](49106.md) — Question n° 49106 — plafonnement frais bancaires; transposition Wallis et Futuna
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Selon la dernière publication de l'observatoire des tarifs bancaires de l'IEOM en octobre 2013, à Wallis-et-Futuna le montant moyen des commissions d'intervention par opération se situe à 1.300 F CFP (10,89 €) en deçà de la moyenne dans les COM du Pacifique (1.549 F CFP), mais au delà du montant moyen constaté dans l'hexagone de 8,24 € présentant ainsi un surcoût de 32%. L'article 52 de la loi n° 2013-672 du 26 juillet 2013 de séparation et de régulation des activités bancaires impose que les commissions perçues par un établissement de crédit à raison du traitement des irrégularités de fonctionnement d'un compte bancaire soient plafonnées, par mois et par opération, pour les personnes physiques n'agissant pas pour des besoins professionnels (Art. L. 312-1-3 du code monétaire et financier). Les conditions d'application de cet article ont été fixées par le décret n° 2013-931 du 17 octobre 2013 relatif au plafonnement des commissions d'intervention. Ainsi, à compter du 1er janvier 2014, les commissions perçues par les établissements de crédit, mentionnées à la première phrase de l'article L. 312-1-3 du code monétaire et financier ne peuvent dépasser par compte bancaire un montant de 8 euros par opération et de 80 euros par mois (Art. R. 312-4-1 du code monétaire et financier). Un projet d'ordonnance est en cours, et sa publication attendue avant le 1er septembre 2014 permettra au Gouvernement d'étendre avec les adaptations nécessaires, à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna, les dispositions de la loi précitée. Le ministère des outre-mer veillera à ce que les décrets d'application concernant notamment le plafonnement des commissions d'intervention suivent rapidement la publication de cette ordonnance.
