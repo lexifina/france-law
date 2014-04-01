@@ -1,0 +1,9 @@
+# Réponse à la question n° 28221
+
+- Question : [28221](28221.md) — Question n° 28221 — connaissances de base; acquisition
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Emblème de la Nation ancré dans la tradition de la République, La Marseillaise doit être reconnue, comprise et respectée. Son apprentissage raisonné est inclus dans les programmes d'éducation civique et morale dès le premier cycle de l'école élémentaire. Ainsi, l'article L. 321-3 du code de l'éducation, modifié par l'article 45 de la loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République, prévoit-il notamment que « la formation dispensée dans les écoles élémentaires [...] assure conjointement avec la famille l'éducation morale et civique qui comprend, pour permettre l'exercice de la citoyenneté, l'apprentissage des valeurs et symboles de la République et de l'Union européenne, notamment de l'hymne national et de son histoire ». Cet apprentissage se prolonge au collège et au lycée en lien avec l'enseignement de l'histoire, de la musique, de l'histoire des arts et de la littérature. Le dossier numérique « En apprenant La Marseillaise » mis en ligne sur le site de l'académie de Créteil est un exemple des nombreuses actions pédagogiques qui peuvent être menées à l'échelle des établissements ou des différentes circonscriptions. En outre, sur le site pédagogique du ministère Eduscol, un livret - partition téléchargeable est mis à la disposition des enseignants. En complément des enseignements, des actions éducatives sont mises en oeuvre et s'appuient sur des temps forts, tels que les journées de commémoration. Inscrites dans le parcours de citoyenneté, ces journées constituent également des moments privilégiés pour une participation active des élèves et incluent, notamment, l'interprétation de la Marseillaise.
