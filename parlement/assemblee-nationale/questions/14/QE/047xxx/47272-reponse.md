@@ -1,0 +1,9 @@
+# Réponse à la question n° 47272
+
+- Question : [47272](47272.md) — Question n° 47272 — formalités administratives; simplification; propositions
+
+## Réponse
+
+*JO du 2014-04-01*
+
+La politique éco-responsable de dématérialisation des échanges entre la direction générale des finances publiques (DGFiP) et les usagers professionnels est mise en oeuvre très progressivement afin de permettre aux entreprises de se familiariser avec chaque nouvelle obligation et à la DGFiP de les accompagner au mieux dans l'accomplissement de ces nouvelles démarches. En ce sens, et conformément à l'article 43 de la loi de finances rectificative de 2012, la pratique de la consultation des avis dans le compte fiscal est mise en place avec un an de décalage par rapport à celle relative au recours obligatoire aux moyens de paiement dématérialisé de la cotisation foncière des entreprises et l'imposition forfaitaire des entreprises de réseaux (CFE-IFER). En effet, la loi dispose que les entreprises concernées par la mesure sont celles dont l'obligation de payer par un moyen dématérialisé, la CFE-IFER est née « au plus tard l'année précédent l'émission du rôle ». Cette année, la suppression de l'envoi papier des avis d'acompte et d'imposition de CFE-IFER concerne donc uniquement les entreprises devant recourir à un moyen de paiement dématérialisé (prélèvement à l'échéance ou mensuel, télépaiement) en matière de CFE-IFER au 1er octobre 2013. En 2015, toutes les entreprises seront concernées par ce nouveau service de consultation en ligne des avis d'acompte et d'imposition. Par ailleurs, il est rappelé que les entreprises qui ne sont pas informatisées ont à leur disposition des postes informatiques en libre accès à l'accueil des services des impôts des entreprises et peuvent y solliciter l'aide nécessaire pour l'accomplissement de leurs nouvelles obligations en matière de téléprocédures.
