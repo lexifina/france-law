@@ -1,0 +1,9 @@
+# Réponse à la question n° 43791
+
+- Question : [43791](43791.md) — Question n° 43791 — bactéries multirésistantes; études internationales
+
+## Réponse
+
+*JO du 2014-04-01*
+
+L'incertitude diagnostique génère de nombreuses prescriptions inappropriées d'antibiotiques, qui sont la cause principale de leur sur-utilisation. Parmi les actions prévues en 2014 dans le cadre du plan d'alerte sur les antibiotiques, les pouvoirs publics ciblent le développement de l'utilisation des tests rapides d'orientation diagnostique par les professionnels de santé. Ces tests sont en effet susceptibles d'apporter au prescripteur des éléments sur : - l'origine bactérienne ou virale d'une infection, ce qui permet d'éviter les prescriptions inutiles, - l'existence ou non d'une résistance bactérienne, qui permet d'adapter un traitement et de mettre en oeuvre si nécessaire des mesures d'isolement appropriées. L'action n° 3 du plan d'alerte sur les antibiotiques « développer les tests rapides d'orientation diagnostique sur les agents microbiens et généraliser leur utilisation » prévoit d'encourager le développement de tests adaptés à de nouvelles pathologies, d'améliorer leur accessibilité logistique et d'évaluer leur impact sur la baisse des prescriptions inutiles d'antibiotiques. Par ailleurs, la ministre des affaires sociales et de la santé a annoncé, à l'occasion de la journée européenne de sensibilisation au bon usage des antibiotiques du 18 novembre 2013, la nécessité de développer l'utilisation des tests rapides d'orientation diagnostique (TROD) par les professionnels de santé, pour favoriser le bon usage et pour parvenir à une réduction importante des prescriptions inappropriées d'antibiotiques. La recherche sur les nouveaux tests de diagnostic rapide concerne principalement les unités de recherche (INSERM, CNRS) et les entreprises industrielles.
