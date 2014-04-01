@@ -6,7 +6,9 @@ DÉDUCTION
 
 forfaitaire en fonction de l'UC
 
-(en euros TTC/ an) |
+(en euros TTC/ an)
+
+|
 
 PLAGE DE CONSOMMATION
 
@@ -28,23 +30,31 @@ PLAGE DE CONSOMMATION
 
 |
 
-22 |
+23
 
-67 |
+|
 
-94 |
+72
+
+|
+
+123
+
+|
 
 1 < UC < 2
 
 |
 
-29 |
-
-90
+30
 
 |
 
-124
+95
+
+|
+
+153
 
 |
 
@@ -52,13 +62,17 @@ PLAGE DE CONSOMMATION
 
 |
 
-37 |
-
-112
+38
 
 |
 
-156 |
+117
+
+|
+
+185
+
+|
 
 Le taux de la taxe sur la valeur ajoutée s'appliquant à la déduction forfaitaire est le taux normal prévu à l'article 278 du code général des impôts.
 
@@ -78,20 +92,26 @@ VERSEMENT FORFAITAIRE
 
 |
 
-72 |
+100
+
+|
 
 1 < UC < 2
 
 |
 
-95 |
+123
+
+|
 
 2 UC ou +
 
 |
 
-119 |
+147
 
-La déduction mentionnée au II de l'article 6-1 du présent décret est égale à 72 € TTC par logement et par an.
+|
 
-Le taux de la taxe sur la valeur ajoutée s'appliquant à la déduction forfaitaire est le taux normal prévu à l' article 278 du code général des impôts .
+La déduction mentionnée au II de l'article 6-1 du présent décret est égale à 100 € TTC par logement et par an.
+
+Le taux de la taxe sur la valeur ajoutée s'appliquant à la déduction forfaitaire est le taux normal prévu à l' article 278 du code général des impôts.
