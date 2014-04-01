@@ -1,0 +1,9 @@
+# Réponse à la question n° 22366
+
+- Question : [22366](22366.md) — Question n° 22366 — Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Même si notre pays dispose aujourd'hui d'une couverture vaccinale de qualité, comme l'atteste la vaccination des nourrissons qui dépasse le seuil de 97 % pour la primo-vaccination, la politique vaccinale reste une grande priorité de santé publique pour le gouvernement, notamment pour réduire les disparités selon le type de vaccins mais aussi les disparités territoriales. La politique pour améliorer la couverture vaccinale sera un axe essentiel de la nouvelle stratégie de santé voulue par le Gouvernement, stratégie fondée sur une notion essentielle : le parcours. Il s'agit de simplifier, de faciliter le parcours vaccinal des français. Une première mesure a déjà été mise en oeuvre en 2013 avec la simplification et la clarification du calendrier vaccinal. Cette simplification permet de diminuer le nombre d'injections pour une efficacité équivalente. Cette simplification doit concourir à une meilleure adhésion aux schémas vaccinaux. Le calendrier des vaccinations 2013 a également intégré les nouvelles recommandations en matière de vaccination contre les papillomavirus humains, préconisées par le haut conseil de la santé publique. Ces recommandations prévoient l'avancement de l'âge de la vaccination entre 11 et 14 ans plutôt qu'à 14 ans et une modification de l'âge du rattrapage de 15 à 19 ans révolus au lieu de 15 à 23 ans. Par ailleurs et conformément aux avis rendus par les instances scientifiques (commissions d'autorisation de mise sur le marché, haut conseil de la santé publique et haute autorité de santé), la vaccination et le dépistage par frottis cervico-utérin (FCU) ont été intégrés dans la stratégie de prévention globale du cancer du col de l'utérus.
