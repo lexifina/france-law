@@ -1,0 +1,9 @@
+# Réponse à la question n° 48766
+
+- Question : [48766](48766.md) — Question n° 48766 — délégué interministériel; missions; moyens
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Le plan Priorité jeunesse dont les premiers jalons ont été posés lors du comité interministériel du 21 février 2013, s'appuie sur quatre axes fondamentaux : - privilégier le droit commun pour l'accès des jeunes aux droits sociaux ; - favoriser l'autonomie des jeunes et la sécurisation de l'ensemble de leur parcours ; - lutter contre les inégalités et les discriminations ; - encourager la participation des jeunes dans le débat public et rendre effective la co-construction des politiques publiques. Cette nouvelle politique, transversale et partenariale, devra être évaluée et s'inscrire dans la durée. Un second comité interministériel, présidé par le Premier ministre, a eu lieu le 4 mars 2014. La mission du délégué interministériel à la jeunesse (DIJ), créé par le décret n° 2014-18 du 9 janvier 2014, est d'assurer la cohérence du plan Priorité jeunesse en coordonnant la mise en oeuvre et le suivi des actions menées par les différents ministères en faveur de la jeunesse et en y associant l'ensemble des acteurs (collectivités locales, organisations de jeunesse, syndicats, entreprises, chercheurs...). Il est chargé de faire des propositions innovantes en matière de politiques de jeunesse ainsi que de la préparation de chaque comité interministériel. Une évaluation de l'évolution de la situation de la jeunesse en France sera présentée annuellement au comité interministériel jeunesse (CIJ). Pour l'ensemble de ces missions, le délégué peut faire appel aux services relevant des ministres membres du CIJ et dispose, en tant que directeur de la jeunesse, de l'éducation populaire et de la vie associative, des moyens de sa direction et des organismes dont il a la tutelle.
