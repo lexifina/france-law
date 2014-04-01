@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 Champ d'application professionnel
 
@@ -10,7 +10,7 @@ Le présent accord est applicable à l'ensemble des employeurs et des salariés 
 
 – des entreprises de battage, de moissonnage-battage, de motoculture ;
 
-– des entreprises de travaux agricoles, ruraux et forestiers ;
+– des entreprises de travaux agricoles et ruraux ;
 
 – des coopératives de culture en commun et d'utilisation en commun de matériel agricole.
 
