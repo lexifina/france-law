@@ -1,0 +1,9 @@
+# Réponse à la question n° 45421
+
+- Question : [45421](45421.md) — Question n° 45421 — réserve parlementaire; demandes; traitement
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Le ministère de la défense met en oeuvre la procédure de traitement des demandes de subventions dès qu'il est saisi dans le cadre de la « réserve parlementaire ». Ainsi, pour l'exercice 2013, le rapporteur général de la commission des finances, de l'économie générale et du contrôle budgétaire de l'Assemblée nationale a adressé au ministre de la défense, le 21 décembre 2012, un tableau récapitulatif de l'ensemble des opérations relatives à la répartition des crédits alloués à la « réserve parlementaire » pour l'année 2013. Simultanément, les députés souhaitant solliciter une subvention ont été informés de l'ouverture du dépôt des demandes, pour lesquelles il leur appartenait de renseigner et d'adresser au ministère un dossier-type dument renseigné, accompagné de pièces justificatives. Dès réception de ce dossier par le ministère de la défense, débute la phase d'instruction administrative visant à vérifier si le dossier est complet et, le cas échéant, à solliciter son complément avant de l'adresser aux services de liquidation de la dépense au profit de l'association concernée. En 2013, la durée moyenne de l'instruction administrative des dossiers par les services du ministère de la défense a été de dix semaines. Cette durée s'explique par le nombre important de dossiers adressés au ministère, dont environ 90 % ont été transmis incomplets. La durée moyenne de la phase d'exécution de la dépense, pour sa part, a été de cinq semaines. Au bilan, le délai moyen de mise en oeuvre de la procédure conduisant au paiement des subventions octroyées au titre de la « réserve parlementaire » a donc été de quinze semaines en 2013, soit environ trois mois et demi.
