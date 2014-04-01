@@ -1,0 +1,9 @@
+# Réponse à la question n° 40437
+
+- Question : [40437](40437.md) — Question n° 40437 — CREPS; répartition géographique
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Le précédent gouvernement avait procédé, dans le cadre de la révision générale des politiques publiques, à la fermeture de 8 Centres de ressources, d'expertise et de performance sportive (CREPS), dont celui de Basse-Normandie, à Houlgate. Le dispositif prévoyait une cession de patrimoine aux collectivités locales, cession non réalisée à ce jour en Basse-Normandie. Les établissements sont pourtant des outils indispensables à la mise en oeuvre de la politique du ministère des sports, de la jeunesse, de l'éducation populaire et de la vie associative, qu'il s'agisse de sport de haut niveau, du service public de formation ou de l'expertise. C'est la raison pour laquelle il est envisagé dans le cadre de l'acte III de la décentralisation, une réforme des CREPS visant à un transfert aux régions de leur patrimoine à titre gratuit, ainsi que, à l'instar des établissements publics locaux d'enseignement (EPLE), un transfert des personnels techniques et ouvriers. Cette réforme vise à conforter les missions nationales des établissements, tout en renforçant leur ancrage territorial autour d'un projet de territoire partagé entre l'Etat, les collectivités territoriales et le mouvement sportif. Dans ce nouveau contexte, et au regard de l'attachement de la région Basse-Normandie à ce CREPS et aux activités développées inscrites pleinement dans son projet sportif régional, il sera proposé dans le projet de loi de réforme des 17 CREPS restants, de céder à l'euro symbolique le patrimoine du CREPS d'Houlgate à la région. Dans cette attente, il a été proposé à la région de proroger la mise à disposition par l'Etat des installations à l'association de gestion du site.
