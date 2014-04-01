@@ -1,0 +1,9 @@
+# Réponse à la question n° 47338
+
+- Question : [47338](47338.md) — Question n° 47338 — personnels; maîtres ouvriers; pécule; réglementation
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Aux termes de l'article 38 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale et du décret n° 2013-1308 du 27 décembre 2013 pris pour son application, le montant du pécule modulable d'incitation au départ (PMID) susceptible d'être accordé est égal à : - 22, 27 ou 36 mois de solde brute soumise à retenue pour pension pour les sous-officiers de carrière cumulant au moins 20 ans de services ; - 17 mois de solde brute soumise à retenue pour pension pour les militaires engagés ayant plus de 11 ans et moins de 15 ans de services ; - 24 mois de solde brute soumise à retenue pour pension pour les maîtres ouvriers des armées ayant plus de 15 ans de services. A cet égard, il convient de préciser que les maîtres ouvriers des armées sont largement concernés par la mise en oeuvre des opérations de réorganisation décidées au sein du ministère de la défense, notamment au titre de la modernisation et de la rationalisation de la fonction habillement. De plus, dans la mesure où ces personnels réunissent, pour une large part d'entre eux, une importante ancienneté de services, seule la garantie d'un avantage financier significatif en contrepartie de la perte de revenu subie apparaît de nature à les inciter à quitter l'institution avant la fin de leur contrat. C'est au regard de ces différents éléments que le droit au bénéfice du PMID a été ouvert aux maîtres ouvriers des armées et que le montant du pécule pouvant leur être servi a été fixé par le ministère de la défense, en accord avec le ministère chargé du budget et le ministère de la réforme de l'État, de la décentralisation et de la fonction publique.
