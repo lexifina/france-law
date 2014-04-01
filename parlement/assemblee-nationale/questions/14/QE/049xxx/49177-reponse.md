@@ -1,0 +1,9 @@
+# Réponse à la question n° 49177
+
+- Question : [49177](49177.md) — Question n° 49177 — Nexter; site de Toulouse; emploi et activité
+
+## Réponse
+
+*JO du 2014-04-01*
+
+Depuis la fin de l'année 2006, l'organisation du groupe Nexter repose sur un regroupement de ses activités au sein de filiales. Autour de la filiale principale Nexter Systems, maître d'oeuvre des systèmes d'armes, s'articulent ainsi notamment les filiales Nexter Munitions, Nexter Mechanics et Nexter Electronics, respectivement spécialisées dans les activités munitionnaires, le maintien en condition opérationnelle (MCO) des équipements mécaniques et le MCO des équipements électroniques. En 2006, l'objectif fixé par la direction de Nexter consistait à assurer la pérennité des activités de la filiale Nexter Electronics, implantée à Toulouse, sur la base non seulement d'un socle de contrats apportés par le groupe lui-même, mais aussi de la recherche de nouveaux partenaires commerciaux civils ou militaires. Or, Nexter Electronics réalise encore à ce jour l'essentiel de son chiffre d'affaires (plus de 90%) au sein du groupe Nexter. En conséquence, une baisse globale de la charge de travail de cette filiale n'a pu être évitée, se traduisant, en 2013, par la mise en oeuvre d'un plan d'activité partielle. Dans ce contexte, il appartient aux responsables du groupe Nexter d'examiner toutes les solutions propres à garantir la pérennité ou le développement de l'activité de Nexter Electronics et à préserver la centaine d'emplois de la filiale toulousaine. Le ministère de la défense, attaché au maintien de la compétence de l'entreprise en matière d'entretien et de mise à niveau dans le domaine électronique des matériels d'armement terrestre en service dans nos forces, continuera pour sa part à suivre avec la plus grande attention l'évolution de ce dossier.
