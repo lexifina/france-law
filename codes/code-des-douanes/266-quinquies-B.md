@@ -32,11 +32,61 @@ c) Dans un procédé de fabrication de produits minéraux non métalliques, clas
 
 2° Pour les besoins de leur extraction et de leur production ;
 
-3° Pour la consommation des particuliers, y compris sous forme collective ;
+3° (Abrogé) ;
 
 4° Par les entreprises de valorisation de la biomasse dont les achats de combustibles et d'électricité utilisés pour cette valorisation représentent au moins 3 % de leur chiffre d'affaires, sous réserve qu'elles soient soumises au régime des quotas d'émission de gaz à effet de serre prévu aux articles L. 229-5 à L. 229-19 du code de l'environnement ou qu'elles appliquent des accords volontaires de réduction de gaz à effet de serre permettant d'atteindre des objectifs environnementaux équivalents ou d'accroître leur rendement énergétique.
 
-6. La taxe intérieure de consommation est assise sur la quantité d'énergie livrée, exprimée en mégawattheures, après arrondissement au mégawattheure le plus voisin. Le tarif de la taxe est fixé à 1,19 par mégawattheure.
+6. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée. Elle est déterminée conformément au tableau ci-dessous :
+
+|
+
+|
+
+TARIF (EN EUROS)
+
+|
+
+DÉSIGNATION DES PRODUITS
+
+|
+
+UNITÉ DE PERCEPTION
+
+|
+
+2014
+
+|
+
+2015
+
+|
+
+2016
+
+|
+
+2701,2702 et 2704 : houilles, lignites et cokes destinés à être utilisés comme combustibles
+
+|
+
+Mégawattheure
+
+|
+
+2,29
+
+|
+
+4,75
+
+|
+
+7,21
+
+|
+
+Le montant du tarif total est arrondi au mégawattheure le plus voisin.
 
 7.1° Les fournisseurs de houilles, de lignites ou de cokes établis en France sont tenus de se faire enregistrer auprès de l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de leur activité.
 
