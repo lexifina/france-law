@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140310780
+
+- Question : [SEQ140310780](seq140310780.md) — Organisation des élections consulaires
+
+## Réponse
+
+*Français de l'étranger, JO du 2014-04-03, page 884*
+
+Comme le prévoient les articles 20 et 21 du décret 2014-144 du 18 février 2014 relatif aux conseils consulaires, à l'assemblée des Français de l'étranger et à leurs membres, les conseillers consulaires perçoivent une indemnité semestrielle destinée à couvrir forfaitairement les charges liées à l'exercice de leur mandat. Celles-ci incluent les frais de déplacement au sein de la circonscription. Le montant de cette indemnité a été fixé réglementairement à l'échelon de la circonscription d'élection du conseiller consulaire et non à un échelon plus fin. En conséquence, l'ensemble des conseillers consulaires de chaque circonscription percevra la même indemnité. Toutefois, comme précisé à l'article 21 du décret susmentionné, un conseiller consulaire qui, pour se rendre aux réunions convoquées dans le cadre des conseils consulaires, est amené à entreprendre des déplacements dont le coût sur l'année est supérieur à 60 % du montant annuel de l'indemnité qui lui est versée au titre de l'article 20, a droit, sur présentation des pièces justificatives, à un remboursement de frais sur une base forfaitaire. Ce remboursement est égal à la différence entre le coût annuel des déplacements et 60 % du montant annuel de l'indemnité versée au titre de l'article 20. Le coût des déplacements est apprécié sur la base du tarif de transport public de voyageur le moins onéreux et des indemnités journalières de mission à l'étranger en application du décret du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'État.
