@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120700575
+
+- Question : [SEQ120700575](seq120700575.md) — Financement des établissements d'information, de consultation ou de conseil familial par l'Agence nationale pour la cohésion sociale et l'égalité des chances
+
+## Réponse
+
+*Ville, JO du 2014-04-03, page 896*
+
+Le financement des établissements d'information, de consultation ou de conseil familial (EICCF) a fait l'objet d'un engagement de l'État pour trois ans (2009-2011) grâce à un protocole signé entre le ministre chargé des affaires sociales et le mouvement français pour le planning familial (MFPF), le 11 mars 2009. Le MFPF assure la gestion d'environ un tiers des EICCF. Au titre du protocole, l'ensemble des EICCF a reçu en 2009, 2010 et 2011, 2,6 millions d'euros par an ainsi répartis : 2,1 millions d'euros sur le programme 106 « action en faveur des familles vulnérables » et 0,5 million d'euros pour le programme 147 « politique de la ville », dans le cadre d'une subvention versée par l'Agence nationale pour la cohésion sociale et l'égalité des chances (ACSé) pour des actions menées par les EICCF dans les quartiers prioritaires relevant de la politique de la ville. Le Gouvernement a veillé, tout au long du protocole, à ce que la gestion des crédits disponibles soit la plus fluide possible en assurant une coordination importante entre les services du ministère des solidarités et de la cohésion sociale et les services de l'ACSé. En 2010 et 2011, les engagements financiers prévus par le protocole ont été pleinement respectés. Au-delà de cet effort en direction des EICCF, l'État soutient directement l'action du MFPF. En 2012, le protocole n'a pas été reconduit en raison des contraintes budgétaires pesant sur le programme 147 mais 107 000 € ont été mobilisés sur les crédits fongibles de la politique de la ville dans le cadre des contrats urbains de cohésion sociale.
