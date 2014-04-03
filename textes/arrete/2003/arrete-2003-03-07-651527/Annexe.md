@@ -1,24 +1,32 @@
 # Article Annexe
 
+.
+
 DÉSIGNATION DE L'EMPLOI
 
 |
 
 NIVEAU
 
-de responsabilité exercée
+de responsabilité
+
+exercé
 
 |
 
 NOMBRE
 
-de points par emploi
+de points
+
+par emploi
 
 |
 
 NOMBRE
 
-d'emplois concernés
+d'emplois
+
+concernés
 
 |
 
@@ -42,27 +50,11 @@ I. - Administration centrale
 
 |
 
-Agent chargé de la conception de la revue Outre-Mer
+Chargé de communication interne et institutionnelle
 
 |
 
-B
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Agent chargé de l'animation du site Internet
-
-|
-
-B
+A ou B
 
 |
 
@@ -74,7 +66,7 @@ B
 
 |
 
-2. Fonction d'accueil
+2. Secrétariat comportant des contraintes particulières en matière d'horaires
 
 |
 
@@ -84,187 +76,7 @@ B
 
 |
 
-Agent chargé de l'accueil au ministère
-
-|
-
-C
-
-|
-
-10
-
-|
-
-1
-
-|
-
-3. Secrétariat comportant des contraintes particulières en matière d'horaires
-
-|
-
-|
-
-|
-
-|
-
-Secrétaire du directeur des affaires économiques, sociales et culturelles de l'outre-mer
-
-|
-
-C
-
-|
-
-20
-
-|
-
-2
-
-|
-
-Secrétaire du directeur des affaires politiques, administratives et financières de l'outre-mer
-
-|
-
-C
-
-|
-
-20
-
-|
-
-2
-
-|
-
-Secrétaire du sous-directeur des affaires sociales et culturelles
-
-|
-
-C
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Secrétaire du sous-directeur des affaires économiques
-
-|
-
-C
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Secrétaire du sous-directeur des affaires politiques
-
-|
-
-C
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Secrétaire du sous-directeur des affaires administratives et financières
-
-|
-
-C
-
-|
-
-20
-
-|
-
-1
-
-|
-
-4. Responsabilité d'encadrement
-
-|
-
-|
-
-|
-
-|
-
-Responsable du service de l'état-civil
-
-|
-
-B
-
-|
-
-15
-
-|
-
-1
-
-|
-
-Responsable du courrier parlementaire
-
-|
-
-B
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Agent chargé des fonctions d'adjoint au chef du bureau des affaires immobilières et des moyens des services
-
-|
-
-B
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Agent responsable du service intérieur
+Assistant de direction
 
 |
 
@@ -276,27 +88,43 @@ B ou C
 
 |
 
-1
+2
 
 |
 
-Agent responsable du standard
+Assistant de direction
 
 |
 
-B
+B ou C
 
 |
 
-10
+20
 
 |
 
-1
+4
 
 |
 
-Adjoint au chef de la division des affaires générales
+Assistant de direction DG et DGA
+
+|
+
+B ou C
+
+|
+
+20
+
+|
+
+2
+
+|
+
+Secrétaire assistant
 
 |
 
@@ -305,6 +133,48 @@ B ou C
 |
 
 10
+
+|
+
+2
+
+|
+
+3. Responsabilité d'encadrement
+
+|
+
+|
+
+|
+
+|
+
+Adjoint au chef du bureau du cabinet
+
+|
+
+B
+
+|
+
+20
+
+|
+
+1
+
+|
+
+Adjoint au directeur de cabinet
+
+|
+
+A
+
+|
+
+20
 
 |
 
@@ -328,113 +198,7 @@ A
 
 |
 
-Chef du bureau des affaires immobilières et des moyens des services
-
-|
-
-A
-
-|
-
-50
-
-|
-
-1
-
-|
-
-Chef du bureau du personnel de l'administration centrale et de la formation
-
-|
-
-A
-
-|
-
-30
-
-|
-
-1
-
-|
-
-Chef du bureau des affaires financières
-
-|
-
-A
-
-|
-
-30
-
-|
-
-1
-
-|
-
 Responsable de l'action sociale
-
-|
-
-A ou B
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Responsable de la formation
-
-|
-
-A ou B
-
-|
-
-20
-
-|
-
-1
-
-|
-
-Chef du bureau de l'informatique et de la bureautique
-
-|
-
-A
-
-|
-
-20
-
-|
-
-1
-
-|
-
-5. Emploi impliquant une technicité particulière ou une responsabilité particulière
-
-|
-
-|
-
-|
-
-|
-
-Agent responsable de la section des missions au bureau du cabinet
 
 |
 
@@ -442,7 +206,7 @@ B
 
 |
 
-10
+20
 
 |
 
@@ -450,7 +214,99 @@ B
 
 |
 
-Agent responsable de la section courrier, décorations au bureau du cabinet
+Adjoint au chef du bureau des ressources et de la coordination, chef de la section RH - GPEEC
+
+|
+
+A
+
+|
+
+20
+
+|
+
+1
+
+|
+
+Adjoint au chef du département chargé de mission emploi et formation
+
+|
+
+A
+
+|
+
+40
+
+|
+
+1
+
+|
+
+Adjoint au chef du département du droit privé, du droit des activités économiques et sociales
+
+|
+
+A
+
+|
+
+30
+
+|
+
+1
+
+|
+
+Adjoint au chef du département du droit public et des affaires institutionnelles
+
+|
+
+A
+
+|
+
+20
+
+|
+
+1
+
+|
+
+4. Emploi impliquant une technicité particulière
+
+ou une responsabilité particulière
+
+|
+
+|
+
+|
+
+|
+
+Chef suivi section budget déplacements
+
+|
+
+B
+
+|
+
+20
+
+|
+
+1
+
+|
+
+Agent responsable de la section de suivi des textes législatifs et des questions écrites
 
 |
 
@@ -482,7 +338,23 @@ B
 
 |
 
-Agent chargé de la gestion financière des personnels outre-mer
+Gestionnaire de la mission outre-mer
+
+|
+
+B ou C
+
+|
+
+20
+
+|
+
+2
+
+|
+
+Gestionnaire des ressources budgétaires et logistiques
 
 |
 
@@ -498,7 +370,7 @@ B
 
 |
 
-Agent du contrôle financier chargé d'effectuer des centralisations budgétaires et comptables
+Secrétaire assistant
 
 |
 
@@ -514,87 +386,7 @@ C
 
 |
 
-Agent responsable du garage
-
-|
-
-C
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Agent du bureau des collectivités locales chargé des subventions aux collectivités locales
-
-|
-
-C
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Agent du bureau des affaires financières chargé des mouvements de crédits et de l'élaboration des documents budgétaires
-
-|
-
-C
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Agent responsable de la section des pensions et retraites
-
-|
-
-B ou C
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Agent du bureau des affaires financières chargé du FIDOM et de la LBU
-
-|
-
-C
-
-|
-
-10
-
-|
-
-1
-
-|
-
-Agent chargé du contrôle financier responsable de la section des dépenses en capital
+Assistant de gestion au département de la cohésion sociale, de la santé et de l'enseignement
 
 |
 
@@ -610,15 +402,15 @@ B
 
 |
 
-Agent chargé des fonctions d'assistant à la mission défense et sécurité civile
+Chargé de mission sécurité civile
 
 |
 
-C
+A
 
 |
 
-10
+20
 
 |
 
@@ -626,7 +418,7 @@ C
 
 |
 
-Agent chargé des opérations spéciales en matière culturelle
+Gestionnaire ressources humaines
 
 |
 
@@ -642,7 +434,87 @@ B ou C
 
 |
 
-II. Services déconcentrés
+Chef de la section du budget et de la logistique
+
+|
+
+A
+
+|
+
+20
+
+|
+
+1
+
+|
+
+Adjoint au chef du département de la dépense de l'Etat, chef de la section budgétaire
+
+|
+
+A
+
+|
+
+30
+
+|
+
+1
+
+|
+
+Adjoint au chef du département chargé de mission juriste
+
+|
+
+A
+
+|
+
+15
+
+|
+
+1
+
+|
+
+Assistant de gestion défiscalisation
+
+|
+
+C
+
+|
+
+10
+
+|
+
+1
+
+|
+
+Assistant de gestion politique régionale
+
+|
+
+C
+
+|
+
+10
+
+|
+
+1
+
+|
+
+II. - Services déconcentrés
 
 |
 
@@ -758,7 +630,7 @@ A ou B
 
 |
 
-Adjoint technique à la subdivision des îles Tuamotu-Gambier
+Adjoint technique à la subdivision des îles Tuamolu-Gambier
 
 |
 
@@ -774,7 +646,7 @@ A ou B
 
 |
 
-Adjoint technique à la subdivision des îles Sous-le-Vent
+Adjoint au chef de la subdivision des îles Sous-le-Vent
 
 |
 
@@ -790,7 +662,7 @@ A ou B
 
 |
 
-Adjoint technique à la subdivision des îles Marquises
+Adjoint au chef de la subdivision des îles Marquises
 
 |
 
@@ -854,7 +726,7 @@ A
 
 |
 
-Directeur de la réglementation et du contrôle de légalité au haut-commissariat
+Directeur de la réglementation et du contrôle de la légalité au haut-commissariat
 
 |
 
@@ -886,7 +758,7 @@ A
 
 |
 
-Chef de la section des passeports et cartes nationales d'identité au haut-commissariat
+Chef de la section des passeports et des cartes nationales d'identité au haut-commissariat
 
 |
 
@@ -902,13 +774,11 @@ B
 
 |
 
-2. Nouvelle Calédonie
+2. Nouvelle-Calédonie
 
 |
 
 |
-
-20
 
 |
 
@@ -938,7 +808,7 @@ A
 
 |
 
-10
+20
 
 |
 
@@ -946,7 +816,7 @@ A
 
 |
 
-Agent chargé du traitement et de la solde au haut-commissariat
+Agent chargé du traitement de la solde au haut-commissariat
 
 |
 
@@ -954,7 +824,7 @@ C
 
 |
 
-20
+10
 
 |
 
