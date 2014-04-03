@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210295
+
+- Question : [SEQ140210295](seq140210295.md) — Revalorisation des indemnités de fonction des maires des communes de moins de 3 500 habitants
+
+## Réponse
+
+*Réforme de l'État, décentralisation et fonction publique, JO du 2014-04-03, page 887*
+
+Bien que les fonctions électives soient par principe gratuites, les élus municipaux peuvent bénéficier d'indemnités de fonction qui viennent compenser les dépenses et les sujétions qui résultent de l'exercice de leur charge publique. L'exercice d'un mandat électif et en particulier celui de maire génère une responsabilité et une charge d'activité importantes. Aussi, afin de garantir aux maires des plus petites communes le bénéfice de l'indemnité de fonction à laquelle ils peuvent prétendre, l'article L. 2123-20-1 du code général des collectivités territoriales (CGCT) prévoit que, dans les communes de moins de 1 000 habitants, l'indemnité de fonction du maire est fixée au taux maximal, sauf si le conseil municipal en décide autrement. Cette disposition est susceptible d'être renforcée par la proposition de loi, déposée à l'initiative du Sénat, visant à faciliter l'exercice, par les élus locaux, de leur mandat. Il est en effet prévu d'étendre à tous les maires l'attribution automatique d'une indemnité de fonction égale au taux maximum fixé par le CGCT. La possibilité pour le conseil municipal de fixer une indemnité de fonction inférieure ne serait par ailleurs ouverte que pour les communes de plus de 1 000 habitants, ce qui garantit encore davantage, aux maires des communes, dont la population est inférieure à ce seuil, de percevoir leur indemnité au taux maximum. Cette proposition de loi, à laquelle le Gouvernement apporte son soutien, poursuit son examen parlementaire. Le Gouvernement ne souhaite pas intervenir davantage sur le régime indemnitaire des élus locaux, ce qui constituerait une charge financière supplémentaire pour les collectivités territoriales.
