@@ -4,75 +4,75 @@ LISTE DES DIPLÔMES, TITRES ET CERTIFICATS ENREGISTRÉS AU RÉPERTOIRE NATIONAL 
 
 1. Diplômes
 
-Baccalauréat professionnel spécialité conduite et gestion de l'exploitation agricole .
+Baccalauréat professionnel spécialité conduite et gestion de l'exploitation agricole.
 
-Baccalauréat professionnel spécialité conduite et gestion de l'entreprise hippique .
+Baccalauréat professionnel spécialité conduite et gestion de l'entreprise hippique.
 
-Baccalauréat professionnel gestion et conduite d'un élevage canin et félin .
+Baccalauréat professionnel gestion et conduite d'un élevage canin et félin.
 
-Baccalauréat professionnel conduite et gestion d'une entreprise du secteur canin et félin .
+Baccalauréat professionnel conduite et gestion d'une entreprise du secteur canin et félin.
 
-Baccalauréat professionnel spécialité travaux paysagers .
+Baccalauréat professionnel spécialité travaux paysagers.
 
-Baccalauréat professionnel aménagements paysagers .
+Baccalauréat professionnel aménagements paysagers.
 
-Baccalauréat professionnel gestion et conduite des chantiers forestiers .
+Baccalauréat professionnel gestion et conduite des chantiers forestiers.
 
-Baccalauréat professionnel forêt .
+Baccalauréat professionnel forêt.
 
-Baccalauréat professionnel productions aquacoles .
+Baccalauréat professionnel productions aquacoles.
 
-Baccalauréat professionnel productions horticoles .
+Baccalauréat professionnel productions horticoles.
 
-Baccalauréat professionnel spécialité agroéquipement .
+Baccalauréat professionnel spécialité agroéquipement.
 
-Baccalauréat technologique, série sciences et technologies de l'agronomie et de l'environnement .
+Baccalauréat technologique, série sciences et technologies de l'agronomie et de l'environnement.
 
-Baccalauréat technologique, série sciences et technologies de l'agronomie et du vivant .
+Baccalauréat technologique, série sciences et technologies de l'agronomie et du vivant.
 
-Baccalauréat série D' sciences et techniques agronomiques .
+Baccalauréat série D'sciences et techniques agronomiques.
 
 Brevet de technicien agricole.
 
-Brevet professionnel, option responsable d'exploitation agricole .
+Brevet professionnel, option responsable d'exploitation agricole.
 
-Brevet professionnel option responsable d'entreprise hippique .
+Brevet professionnel option responsable d'entreprise hippique.
 
-Brevet professionnel option productions horticoles .
+Brevet professionnel option productions horticoles.
 
-Brevet professionnel option responsable d'atelier de productions horticoles .
+Brevet professionnel option responsable d'atelier de productions horticoles.
 
 Brevet professionnel option aménagements paysagers
 
-Brevet professionnel option travaux paysagers .
+Brevet professionnel option travaux paysagers.
 
-Brevet professionnel option travaux forestiers .
+Brevet professionnel option travaux forestiers.
 
-Brevet professionnel option responsable de chantiers forestiers .
+Brevet professionnel option responsable de chantiers forestiers.
 
-Brevet professionnel option agroéquipements .
+Brevet professionnel option agroéquipements.
 
-Brevet professionnel option agroéquipement, conduite et maintenance des matériels .
+Brevet professionnel option agroéquipement, conduite et maintenance des matériels.
 
-Brevet professionnel option responsable d'exploitation aquacole maritime-continentale .
+Brevet professionnel option responsable d'exploitation aquacole maritime-continentale.
 
 Brevet de technicien supérieur agricole.
 
 Brevet de technicien supérieur agroéquipement délivré par le ministère chargé de l'éducation nationale.
 
-Diplôme universitaire de technologie génie biologique , option agronomie .
+Diplôme universitaire de technologie génie biologique, option agronomie.
 
-Diplôme universitaire de technologie de biologie appliquée, option agronomie .
+Diplôme universitaire de technologie de biologie appliquée, option agronomie.
 
-Diplôme national d'œnologue intégrant le module intitulé : fonctionnement, diagnostic et direction de l'exploitation vitivinicole . (L'obtention de ce module devra faire l'objet soit d'une mention spéciale sur le diplôme lui-même, soit d'une attestation jointe.)
+Diplôme national d'œnologue intégrant le module intitulé : fonctionnement, diagnostic et direction de l'exploitation vitivinicole. (L'obtention de ce module devra faire l'objet soit d'une mention spéciale sur le diplôme lui-même, soit d'une attestation jointe.)
 
 Diplôme de docteur vétérinaire.
 
 Diplôme national d'œnologue délivré à compter de l'année 2009.
 
-Licence professionnelle agriculture et développement durable en milieu tropical et insulaire .
+Licence professionnelle agriculture et développement durable en milieu tropical et insulaire.
 
-Licence professionnelle management et gestion des entreprises de la filière cheval .
+Licence professionnelle management et gestion des entreprises de la filière cheval.
 
 Licence professionnelle management et développement économique de l'entreprise agricole délivrée par l'institut universitaire de l'Aisne.
 
@@ -86,7 +86,7 @@ Licence professionnelle viticulture raisonnée et certification environnementale
 
 Licence professionnelle agriculture raisonnée et certification environnementale délivrée par SupAgro Montpellier.
 
-Master production végétale et industrie agroalimentaire , délivré par l'université Picardie Jules-Verne d'Amiens.
+Master production végétale et industrie agroalimentaire, délivré par l'université Picardie Jules-Verne d'Amiens.
 
 Master en viticulture, œnologie, économie, gestion viti-vinicole délivré par SupAgro Montpellier.
 
@@ -196,6 +196,8 @@ Diplômes d'ingénieur délivrés par :
 
 des certifications professionnelles (RNCP)
 
+Conseiller en droit rural et économie agricole (niveau II), délivré par l'Institut des hautes études de droit rural et d'économie agricole (IHEDREA).
+
 Les titres ou certificats enregistrés au RNCP énumérés ci-dessous :
 
 ANCIENNE DÉNOMINATION
@@ -284,6 +286,6 @@ Chef de cultures sous serre
 
 |
 
-Saint-Ilan/Florilan
+Saint-Ilan/ Florilan
 
 |
