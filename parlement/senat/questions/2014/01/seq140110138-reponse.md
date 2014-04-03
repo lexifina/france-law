@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140110138
+
+- Question : [SEQ140110138](seq140110138.md) — Modalités de délivrance des cartes familles nombreuses par la SNCF
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2014-04-03, page 892*
+
+L'analyse du dispositif de cartes familles nombreuses montre que la situation personnelle des bénéficiaires peut être très variable : couples mariés ou pacsés, parents célibataires, couples de concubins, parents divorcés ayant éventuellement recomposé une famille avec une tierce personne, enfants issus d'une précédente union, enfants issus d'unions différentes, enfants sous tutelle, enfants recueillis ou en cours d'adoption. Les opérations de contrôle des droits des demandeurs, légitimes pour éviter la fraude, sont rendues complexes par cette diversité de situations. De plus, les mêmes documents administratifs ne doivent pas être demandés à tous les requérants, car ils sont inutiles pour établir certaines situations. Pour remédier à cette difficulté, la SNCF a souhaité clarifier les justificatifs à présenter en listant, pour chacun des cas identifiés, les pièces qui lui sont nécessaires pour définir la situation d'une famille et son éligibilité au dispositif familles nombreuses. Ces listes figurent dans les conditions générales de vente de la SNCF et sont présentées de manière plus didactique dans la notice explicative accompagnant la procédure de demande de la carte, qui est disponible sur le site internet de l'entreprise. Le Gouvernement est attaché à ce que toutes les familles qui élèvent trois enfants ou plus puissent bénéficier de la carte familles nombreuses sans discrimination aucune. La modernisation et la simplification de ce dispositif, tout en conservant la finalité première de ce tarif social, constituent l'un de ses axes de travail visant à améliorer la prise en compte des évolutions de la société.
