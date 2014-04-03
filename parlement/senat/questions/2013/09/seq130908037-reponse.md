@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130908037
+
+- Question : [SEQ130908037](seq130908037.md) — Simplification des démarches en matière de certificats d'existence
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2014-04-03, page 848*
+
+L'article 83 de la loi de financement de la sécurité sociale pour 2013 prévoit que les bénéficiaires d'une pension de retraite versée par un organisme français et résidant hors de France doivent fournir une fois par an au plus à leurs caisses de retraite un justificatif d'existence. La suspension du versement de la pension de retraite dans le cas où le bénéficiaire ne justifie pas de son existence ne peut avoir lieu qu'à l'expiration d'un délai minimal d'un mois à compter de la date fixée par la caisse de retraite pour la réception du justificatif. Le décret n° 2013-1156 du 13 décembre 2013 est venu préciser les conditions dans lesquelles les caisses peuvent mutualiser ces certificats d'existence. Cette mutualisation permettra d'alléger les obligations à la charge des assurés résidant hors de France, qui sont aujourd'hui tenus de produire chaque année un certificat d'existence pour chaque régime de retraite auquel ils sont affiliés. Les organismes volontaires, qu'ils gèrent un régime de base ou complémentaire, pourront définir par convention les conditions de la mutualisation : l'un d'entre eux sera chargé, pour le compte des autres, de demander à l'assuré de fournir, une fois par an au maximum, un justificatif d'existence ; la décision de maintien ou de suspension du versement de la pension ou de l'avantage de vieillesse prise, dans le cadre du contrôle de l'existence de l'assuré, par l'organisme chargé de ce contrôle s'imposera aux autres signataires de la convention pour les pensions qu'ils versent, le cas échéant, à cet assuré ; la convention définira également les modalités des échanges d'informations entre ses signataires.
