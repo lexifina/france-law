@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008879
+
+- Question : [SEQ131008879](seq131008879.md) — Perspectives de développement de DCNS
+
+## Réponse
+
+*Défense, JO du 2014-04-03, page 868*
+
+L'État, actionnaire majoritaire de DCNS, est particulièrement attentif à l'évolution des effectifs et au maintien des compétences de cette entreprise. Les données chiffrées communiquées par DCNS font ainsi apparaître, hors filiales du groupe, une croissance de ses effectifs de près de 1,7 % en équivalent temps plein entre fin 2011 et fin 2012, et le même taux d'évolution entre fin 2012 et le 30 juin 2013. En outre, l'entreprise a instauré une politique de gestion prévisionnelle strictement encadrée, dans le but de pérenniser l'ensemble de ses compétences, et notamment les plus critiques d'entre elles. Dans ce contexte, il est précisé que l'évolution du plan de charge de DCNS est, dans une large mesure, influencée par l'étalement calendaire de programmes (sous-marins nucléaires d'attaque Barracuda et frégates multi-missions) prévu dans le cadre de la loi de programmation militaire pour les années 2014 à 2019 (LPM 2014-2019), ainsi que par le caractère moins prévisible des commandes à l'exportation, domaine dans lequel le groupe industriel s'investit activement et avec succès avec le soutien des services compétents de l'État. La recherche d'une nécessaire adéquation entre les capacités de production de l'entreprise et son plan de charge peut engendrer des disparités, tant locales que catégorielles, quant à la situation de l'emploi au sein de ses différents établissements. DCNS ne prévoit pas pour 2014 de plans d'adaptation à l'emploi autres que la prise en compte de départs volontaires et le non remplacement de certains départs à la retraite. Il convient de souligner que jusqu'à présent, DCNS a toujours su pérenniser ses compétences, tout en préservant le volume global de ses effectifs et en évitant de recourir à des suppressions de postes imposées à ses agents.
