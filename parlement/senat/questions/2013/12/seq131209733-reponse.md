@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209733
+
+- Question : [SEQ131209733](seq131209733.md) — Taxe générale sur les activités polluantes
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-04-03, page 876*
+
+Conformément aux dispositions de l'article 266 sexies du code des douanes, toute personne qui, pour les besoins de son activité économique, livre ou utilise pour la première fois des sacs de caisse à usage unique en matière plastique sera en effet soumise à la taxe générale sur les activités polluantes (TGAP). La loi prévoit que cette taxe ne s'applique pas « aux sacs de caisse à usage unique en matière plastique biodégradables constitués, dans des conditions définies par décret, d'un minimum de 40 % de matières végétales en masse ». Un décret d'application est en cours de préparation. Conformément à la loi, il incombe à ce décret d'application de préciser les caractéristiques d'un sac de caisse à usage unique et les conditions de l'exonération. Le ministre de l'écologie, du développement durable et de l'énergie a pleinement conscience des enjeux tant environnementaux qu'économiques du recyclage des matières plastiques, ainsi que des autres aspects évoqués quant aux matériaux de constitution des sacs et à leurs caractéristiques liées à la fin de vie. Ils sont pris en compte dans le projet de décret en préparation. Par ailleurs, des travaux ont été lancés au niveau européen sur le thème de la limitation des sacs plastiques : la Commission a récemment formulé une proposition de directive qui est actuellement en cours de négociation. Conformément aux orientations de la Conférence environnementale de septembre 2013, les autorités françaises défendent un haut niveau d'ambition pour ce texte afin de promouvoir une action résolue et efficace de limitation des sacs plastiques à l'échelle européenne.
