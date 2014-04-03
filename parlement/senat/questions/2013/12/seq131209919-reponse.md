@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209919
+
+- Question : [SEQ131209919](seq131209919.md) — Revalorisation du statut de sage-femme
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2014-04-03, page 854*
+
+Les travaux mis en place depuis fin 2013 par la ministre des affaires sociales et de la santé avec les représentants des sages-femmes ont abouti à des avancées majeures pour la profession. Depuis le début de la mobilisation des sages-femmes, la ministre des affaires sociales et de la santé s'est montrée particulièrement attentive aux attentes des sages-femmes et à la nécessaire cohésion de la communauté hospitalière. La ministre a annoncé un plan d'ensemble le 4 mars 2014 comprenant cinq mesures concrètes qui concourent à la reconnaissance et à la revalorisation de la profession de sage-femme : la création d'un statut médical de sages-femmes des hôpitaux : la ministre s'est engagée à créer ce statut dans la fonction publique hospitalière ; des compétences médicales valorisées : la ministre des affaires sociales et de la santé s'engage à ce que l'ensemble des activités qui relèvent des compétences des sages-femmes fasse l'objet d'une large communication auprès des autres professionnels de santé et du grand public ; des responsabilités nouvelles : lorsque le projet médical prévoit la création d'unités fonctionnelles, la responsabilité pourra en être confiée à une sage-femme, en articulation étroite avec les gynécologues-obstétriciens, les anesthésistes-réanimateurs et les pédiatres ; la formation des sages-femmes renforcée : le statut des étudiants en maïeutique de 4e et 5e année sera amélioré. Leur niveau de rémunération sera aligné sur celui des étudiants en médecine ; la revalorisation des rémunérations : la ministre s'est engagée à ce que la revalorisation des salaires intervienne rapidement et tienne compte du niveau de responsabilité des sages-femmes.
