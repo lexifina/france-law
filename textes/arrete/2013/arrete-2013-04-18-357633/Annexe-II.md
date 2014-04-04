@@ -1346,7 +1346,7 @@ Basse-Normandie
 
 |
 
-Directeur régional des finances publiques de Basse-Normandie et du département du Calvados
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
 
 |
 
@@ -1538,7 +1538,7 @@ Basse-Normandie
 
 |
 
-Directeur régional des finances publiques de Basse-Normandie et du département du Calvados
+Directeur départemental des finances publiques de la Seine-Saint-Denis à compter du 1er juin 2014
 
 |
 
