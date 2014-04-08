@@ -1,0 +1,9 @@
+# Réponse à la question n° 29403
+
+- Question : [29403](29403.md) — Question n° 29403 — lutte et prévention
+
+## Réponse
+
+*JO du 2014-04-08*
+
+Des évènements naturels tels que les crues, mais aussi et surtout, les travaux d'entretien des ouvrages hydrauliques des voies d'eau, peuvent être à l'origine d'une remobilisation de sédiments contaminés, notamment par les polychlorobiphényles (PCB). La question du devenir de ces polluants lors de la remise en suspension est encore mal renseignée. La récente étude du bureau de recherches géologiques et minières (BRGM) menée dans le cadre du programme PCB-Axelera a montré qu'il ne faut pas négliger l'impact environnemental du dragage. En effet, après remise en suspension des sédiments, le BRGM constate que les PCB sont 10 fois plus solubles qu'attendus et ceci pendant quarante jours. Il a également été démontré qu'après 160 jours, le sédiment de surface contient 33 % de plus de PCB que le sédiment initial. Ainsi, ces phénomènes doivent être bien considérés lors de l'estimation des risques éco-systémiques menée avant les opérations d'entretien des cours d'eau. Les premiers résultats des travaux confiés au pôle de compétitivité Axelera concernant les technologies qui permettraient de dépolluer, à terre, les sédiments dragués, bien que prometteurs, ne laissent pas entrevoir à court terme de solutions efficaces et à un coût acceptable, à l'échelle industrielle, sauf la dépollution par désorption thermique. Dans cette attente, il est donc indispensable de continuer à accorder une attention vigilante à l'impact environnemental et sanitaire des opérations de dragage. La réduction à la source de la pollution par suppression progressive des installations qui contiennent des PCB se poursuit en parallèle mais elle est sans effet sur le stock de PCB accumulé dans les sédiments depuis des années voire des décennies.
