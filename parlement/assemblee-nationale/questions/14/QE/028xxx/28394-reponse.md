@@ -1,0 +1,9 @@
+# Réponse à la question n° 28394
+
+- Question : [28394](28394.md) — Question n° 28394 — micro-carrières; perspectives
+
+## Réponse
+
+*JO du 2014-04-08*
+
+L'intérêt porté à l'émergence et au développement de filières économiques courtes se traduit par un regain des techniques de construction vernaculaires avec pour corollaire l'emploi de matériaux traditionnels, disponibles localement comme la lauze de pierre et la lauze de schiste. Un groupe de concertation avec les professionnels du bâtiment et des filières de matériaux de construction biosourcés a été constitué en 2010 à l'initiative du ministère de l'écologie, du développement durable et de l'énergie, afin d'identifier les freins à leur développement puis d'initier un plan d'actions pour surmonter ces obstacles. Le groupe de concertation a identifié les freins à la reconnaissance et la diffusion des produits et techniques locales et patrimoniales, parmi lesquels l'absence de normes encadrant la fabrication et l'utilisation de ces matériaux et la rareté des compétences nécessaires à leur mise en oeuvre. La question liée à la reconnaissance des systèmes dits non-industrialisés, c'est-à-dire des matériaux peu ou pas transformés mis en oeuvre in situ sur chantier, est traitée dans ce cadre. C'est ainsi qu'une des actions vise à définir des modalités d'évaluation et de validation pour la prise en compte du savoir-faire, ceci afin de faciliter la reconnaissance de ces pratiques constructives auprès de la maîtrise d'ouvrage et des assureurs. Dans la continuité de cette démarche, un travail de réflexion sur le développement de filières plus spécifiques (« terre crue » et « pierre sèche ») s'est engagé en 2012 et se poursuivra en 2013. L'ensemble des travaux menés depuis 2010 doit concourir au développement de ces filières, et pourra ainsi contribuer à lever les freins notamment à l'utilisation de lauze de calcaire et de lauze de schiste sur le territoire des Causses et des Cévennes.
