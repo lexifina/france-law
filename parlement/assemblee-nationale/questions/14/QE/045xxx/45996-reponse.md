@@ -1,0 +1,9 @@
+# Réponse à la question n° 45996
+
+- Question : [45996](45996.md) — Question n° 45996 — transfert de compétences; collectivités territoriales
+
+## Réponse
+
+*JO du 2014-04-08*
+
+La ministre de la culture et de la communication a régulièrement rappelé son attachement à la responsabilité conjointe de l'État et des collectivités en faveur de la culture sur les territoires. Les politiques culturelles françaises sont fondées sur un travail d'élaboration partagé de l'ensemble des collectivités avec le ministère. Les chantiers sur lesquels nous engagent la loi de modernisation de l'action publique territoriale et d'affirmation des métropoles s'inscrivent dans cet esprit et visent avant tout à l'amélioration de la coordination des politiques publiques à l'échelle régionale. Aux termes de la nouvelle loi, la culture demeure un champ d'intervention commun dans lequel l'État et les collectivités locales travaillent ensemble de façon complémentaire. La modalité nouvelle de relation entre l'État et les collectivités que constitue la délégation de compétence n'équivaut pas à un transfert de compétences. L'État, dans le cas de la délégation, reste garant de toutes les étapes du processus et conserve à ce titre ses responsabilités en matière culturelle à l'échelle nationale. Toute délégation prendra la forme d'une convention rédigée par le ou la ministre concerné et fixera les modalités d'exercice de cette mission et sa durée. Comme dans toutes relations contractuelles, celles-ci feront l'objet d'un suivi et d'une évaluation. Pour la ministre de la culture et de la communication la priorité est de renforcer le dialogue avec les collectivités territoriales au niveau local. Les dispositions contenues dans la loi relatives aux conférences territoriales de l'action publique ouvrent à ce titre des possibilités nouvelles, qui pourront favoriser la co-responsabilité en matière culturelle et la co construction de projets ambitieux.
