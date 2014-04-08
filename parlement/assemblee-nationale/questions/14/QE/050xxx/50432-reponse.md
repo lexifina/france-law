@@ -1,0 +1,9 @@
+# Réponse à la question n° 50432
+
+- Question : [50432](50432.md) — Question n° 50432 — OGM; réglementation
+
+## Réponse
+
+*JO du 2014-04-08*
+
+Une proposition de loi visant à interdire la mise en culture des maïs génétiquement modifiés a été déposée au Sénat par le sénateur Alain Fauconnier. Cette proposition de loi a été rejetée par le Sénat lors de la séance du 17 février dernier, suite à l'adoption d'une motion d'irrecevabilité. Une proposition de loi identique a été déposée à l'Assemblée nationale et sera examinée le 10 avril 2014. Conformément à l'engagement pris par le Président de la République à l'occasion de la conférence environnementale de 2012, le Gouvernement reste déterminé à prendre les mesures nécessaires pour interdire la mise en culture de semences OGM afin de prévenir les risques environnementaux et économiques pour les autres cultures et l'apiculture. Ainsi, s'agissant du maïs MON810, seul OGM actuellement autorisé à la mise en culture au niveau européen, un nouvel arrêté interdisant la commercialisation, l'utilisation et la culture des semences a été adopté le 14 mars 2014. Dans ce contexte, le Gouvernement est favorable à la proposition de loi, dont l'objectif correspond aux engagements pris par le Gouvernement en matière d'OGM et qui perpétue la politique engagée par le Gouvernement précédent, au-delà des clivages partisans. Par ailleurs, le Gouvernement considère que le dispositif européen actuel relatif à la mise en culture des OGM n'est pas satisfaisant. Les États membres devraient disposer d'un véritable pouvoir de décision concernant la mise en culture d'OGM sur leur territoire en prenant en compte des critères complémentaires à l'évaluation des risques pour la santé et l'environnement. La France a présenté des propositions en ce sens lors du Conseil environnement du 3 mars dernier.
