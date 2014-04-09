@@ -1,0 +1,103 @@
+# Questions sociales et santé : adaptation de la société au vieillissement
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33198
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/adaptation_societe_vieillissement
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-804.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-06-03 : 1er dépôt d'une initiative. (PRJLANR5L14B1994)
+  - 2014-06-03 : Etude d'impact (ETDIANR5L14B1994)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-03 : Renvoi en commission au fond
+      - 2014-04-09 : Nomination de rapporteur
+      - 2014-04-09 : Réunion de commission
+      - 2014-07-08 : Réunion de commission
+      - 2014-07-16 : Réunion de commission
+      - 2014-07-16 : Réunion de commission
+      - 2014-09-09 : Réunion de commission
+      - 2014-09-10 : Réunion de commission
+      - 2014-07-17 : Dépôt de rapport (RAPPANR5L14B2155, PRJLANR5L14BTC2155)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-05 : Saisine pour avis d'une commission
+      - 2014-06-11 : Nomination de rapporteur
+      - 2014-07-09 : Réunion de commission
+      - 2014-07-09 : Dépôt de rapport (AVISANR5L14B2119)
+  - Discussion en séance publique
+    - 2014-09-09 : Discussion en séance publique
+    - 2014-09-09 : Discussion en séance publique
+    - 2014-09-10 : Discussion en séance publique
+    - 2014-09-10 : Discussion en séance publique
+    - 2014-09-11 : Discussion en séance publique
+    - 2014-09-11 : Discussion en séance publique
+    - 2014-09-17 : Discussion en séance publique
+    - 2014-09-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-09-17 : Dépôt d'une initiative en navette (PRJLSNR5S219B0804)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-09-17 : Renvoi en commission au fond
+      - 2014-06-18 : Nomination de rapporteur
+      - 2015-03-04 : Dépôt de rapport (RAPPSNR5S239B0322)
+    - Travaux d'une commission saisie pour avis
+      - 2015-01-28 : Saisine pour avis d'une commission
+      - 2015-01-28 : Nomination de rapporteur
+      - 2015-03-03 : Dépôt de rapport (AVISSNR5S239B0305)
+    - Travaux d'une commission saisie pour avis
+      - 2015-01-28 : Saisine pour avis d'une commission
+      - 2015-01-28 : Nomination de rapporteur
+      - 2015-03-03 : Dépôt de rapport (AVISSNR5S239B0306)
+  - Discussion en séance publique
+    - 2015-03-17 : Discussion en séance publique
+    - 2015-03-18 : Discussion en séance publique
+    - 2015-03-19 : Discussion en séance publique
+    - 2015-03-19 : Décision
+- deuxième lecture
+  - 2015-03-20 : Dépôt d'une initiative en navette (PRJLANR5L14B2674)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-03-20 : Renvoi en commission au fond
+      - 2015-06-24 : Nomination de rapporteur
+      - 2015-06-24 : Réunion de commission
+      - 2015-07-08 : Réunion de commission
+      - 2015-07-15 : Réunion de commission
+      - 2015-07-15 : Réunion de commission
+      - 2015-09-15 : Réunion de commission
+      - 2015-07-16 : Dépôt de rapport (RAPPANR5L14B2988, PRJLANR5L14BTC2988)
+  - Discussion en séance publique
+    - 2015-09-15 : Discussion en séance publique
+    - 2015-09-15 : Discussion en séance publique
+    - 2015-09-16 : Discussion en séance publique
+    - 2015-09-16 : Discussion en séance publique
+    - 2015-09-16 : Décision
+- deuxième lecture
+  - 2015-09-17 : Dépôt d'une initiative en navette (PRJLSNR5S239B0694)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-09-17 : Renvoi en commission au fond
+      - 2015-10-21 : Dépôt de rapport (RAPPSNR5S259B0101)
+  - Discussion en séance publique
+    - 2015-10-28 : Discussion en séance publique
+    - 2015-10-28 : Décision
+- Commission Mixte Paritaire
+  - 2015-10-30 : Dépôt d'un projet de loi (PRJLANR5L14B3186)
+  - 2015-10-30 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-12-02 : Nomination de rapporteur
+    - 2015-12-02 : Dépôt du rapport d'une CMP (RAPPANR5L14B3294)
+    - 2015-12-02 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0210)
+  - Discussion en séance publique
+    - 2015-12-10 : Discussion en séance publique
+    - 2015-12-10 : Décision
+  - Discussion en séance publique
+    - 2015-12-14 : Discussion en séance publique
+    - 2015-12-14 : Décision
+  - 2015-12-02 : Décision de la CMP
+- Promulgation de la loi
+  - 2015-12-28 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2017-12-05 : Rapport sur l'application des lois (RINFANR5L15B0438)
