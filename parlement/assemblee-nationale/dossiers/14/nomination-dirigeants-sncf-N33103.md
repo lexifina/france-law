@@ -1,0 +1,65 @@
+# Transports : nomination des dirigeants de la SNCF
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N33103
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/nomination_dirigeants_SNCF
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl13-651.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-04-10 : 1er dépôt d'une initiative. (PIONANR5L14B1877)
+  - 2014-05-26 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-04-10 : Renvoi en commission au fond
+      - 2014-04-30 : Nomination de rapporteur
+      - 2014-04-30 : Réunion de commission
+      - 2014-06-04 : Réunion de commission
+      - 2014-06-04 : Dépôt de rapport (RAPPANR5L14B1999, PIONANR5L14BTC1999)
+    - Travaux d'une commission saisie pour avis
+      - 2014-04-14 : Saisine pour avis d'une commission
+      - 2014-04-16 : Nomination de rapporteur
+      - 2014-05-27 : Réunion de commission
+      - 2014-05-27 : Réunion de commission
+      - 2014-05-28 : Réunion de commission
+      - 2014-05-28 : Réunion de commission
+      - 2014-05-28 : Dépôt de rapport (AVISANR5L14B1991)
+  - Discussion en séance publique
+    - 2014-06-17 : Discussion en séance publique
+    - 2014-06-17 : Discussion en séance publique
+    - 2014-06-19 : Discussion en séance publique
+    - 2014-06-24 : Discussion en séance publique
+    - 2014-06-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-06-24 : Dépôt d'une initiative en navette (PIONSNR5S219B0651)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-24 : Renvoi en commission au fond
+      - 2014-06-24 : Nomination de rapporteur
+      - 2014-07-02 : Dépôt de rapport (RAPPSNR5S219B0651)
+  - Discussion en séance publique
+    - 2014-07-09 : Discussion en séance publique
+    - 2014-07-10 : Discussion en séance publique
+    - 2014-07-10 : Décision
+- Commission Mixte Paritaire
+  - 2014-07-11 : Dépôt d'un projet de loi (PIONANR5L14B2125)
+  - 2014-07-11 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-07-16 : Nomination de rapporteur
+    - 2014-07-16 : Dépôt du rapport d'une CMP (RAPPANR5L14B2144)
+    - 2014-07-16 : Dépôt du rapport d'une CMP (RAPPSNR5S219B0734)
+  - Discussion en séance publique
+    - 2014-07-21 : Discussion en séance publique
+    - 2014-07-21 : Discussion en séance publique
+    - 2014-07-21 : Décision
+  - Discussion en séance publique
+    - 2014-07-22 : Discussion en séance publique
+    - 2014-07-22 : Décision
+  - 2014-07-17 : Décision de la CMP
+- Conseil constitutionnel
+  - 2014-07-23 : Saisine du conseil constitutionnel
+  - 2014-07-24 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-08-04 : Promulgation d'une loi
