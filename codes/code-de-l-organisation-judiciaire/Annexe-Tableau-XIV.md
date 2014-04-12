@@ -30,8 +30,6 @@ Lot
 
 |
 
-|
-
 Cahors
 
 |
@@ -41,8 +39,6 @@ Ressort du tribunal de grande instance de Cahors.
 |
 
 Lot-et-Garonne
-
-|
 
 |
 
@@ -72,8 +68,6 @@ Alpes-Maritimes
 
 |
 
-|
-
 Grasse
 
 |
@@ -91,8 +85,6 @@ Ressort du tribunal de grande instance de Nice.
 |
 
 Bouches-du-Rhône
-
-|
 
 |
 
@@ -121,8 +113,6 @@ Ressort du tribunal de grande instance de Tarascon.
 |
 
 Var
-
-|
 
 |
 
@@ -176,8 +166,6 @@ Oise
 
 |
 
-|
-
 Beauvais
 
 |
@@ -203,8 +191,6 @@ Ressort du tribunal de grande instance de Senlis.
 |
 
 Somme
-
-|
 
 |
 
@@ -234,8 +220,6 @@ Mayenne
 
 |
 
-|
-
 Laval
 
 |
@@ -245,8 +229,6 @@ Ressort du tribunal de grande instance de Laval.
 |
 
 Sarthe
-
-|
 
 |
 
@@ -298,8 +280,6 @@ Haute-Corse
 
 |
 
-|
-
 Bastia
 
 |
@@ -334,8 +314,6 @@ Haute-Saône
 
 |
 
-|
-
 [Vesoul
 
 |
@@ -348,8 +326,6 @@ Jura
 
 |
 
-|
-
 [Lons-le-Saunier
 
 |
@@ -359,8 +335,6 @@ Ressort du tribunal de grande instance de Lons-le-Saunier. (4)]
 |
 
 Territoire de Belfort
-
-|
 
 |
 
@@ -390,8 +364,6 @@ Dordogne
 
 |
 
-|
-
 Bergerac
 
 |
@@ -409,8 +381,6 @@ Ressort du tribunal de grande instance de Périgueux.
 |
 
 Gironde
-
-|
 
 |
 
@@ -448,8 +418,6 @@ Indre
 
 |
 
-|
-
 Châteauroux
 
 |
@@ -459,8 +427,6 @@ Ressort du tribunal de grande instance de Châteauroux.
 |
 
 Nièvre
-
-|
 
 |
 
@@ -490,8 +456,6 @@ Manche
 
 |
 
-|
-
 Cherbourg-Octeville
 
 |
@@ -512,8 +476,6 @@ Orne
 
 |
 
-|
-
 Alençon
 
 |
@@ -526,9 +488,7 @@ Cour d'appel de Cayenne (Guyane)
 
 |
 
-Cayenne
-
-|
+Cayenne |
 
 Ressort du tribunal de grande instance de Cayenne.
 
@@ -568,8 +528,6 @@ Savoie
 
 |
 
-|
-
 Chambéry
 
 |
@@ -601,8 +559,6 @@ Ressort du tribunal de grande instance de Strasbourg.
 |
 
 Haut-Rhin
-
-|
 
 |
 
@@ -640,8 +596,6 @@ Haute-Marne
 
 |
 
-|
-
 Chaumont
 
 |
@@ -651,8 +605,6 @@ Ressort du tribunal de grande instance de Chaumont.
 |
 
 Saône-et-Loire
-
-|
 
 |
 
@@ -730,8 +682,6 @@ Pas-de-Calais
 
 |
 
-|
-
 Arras
 
 |
@@ -794,8 +744,6 @@ Hautes-Alpes
 
 |
 
-|
-
 Gap
 
 |
@@ -808,13 +756,11 @@ Isère
 
 |
 
-|
-
-[Bourgoin-Jallieu
+Bourgoin-Jallieu
 
 |
 
-Ressort du tribunal de grande instance de Bourgoin-Jallieu. (11)]
+Ressort du tribunal de grande instance de Bourgoin-Jallieu.
 
 |
 
@@ -826,11 +772,11 @@ Ressort du tribunal de grande instance de Grenoble.
 
 |
 
-(Vienne
+Vienne
 
 |
 
-Ressort du tribunal de grande instance de Vienne.[11])
+Ressort du tribunal de grande instance de Vienne.
 
 |
 
@@ -860,8 +806,6 @@ Creuse
 
 |
 
-|
-
 Guéret
 
 |
@@ -871,8 +815,6 @@ Ressort du tribunal de grande instance de Guéret.
 |
 
 Haute-Vienne
-
-|
 
 |
 
@@ -902,8 +844,6 @@ Loire
 
 |
 
-|
-
 Roanne
 
 |
@@ -921,8 +861,6 @@ Ressort du tribunal de grande instance de Saint-Etienne. (4)]
 |
 
 Rhône
-
-|
 
 |
 
@@ -998,8 +936,6 @@ Aveyron
 
 |
 
-|
-
 [Rodez
 
 |
@@ -1009,8 +945,6 @@ Ressort du tribunal de grande instance de Rodez. (4)]
 |
 
 Hérault
-
-|
 
 |
 
@@ -1031,8 +965,6 @@ Ressort du tribunal de grande instance de Montpellier.
 |
 
 Pyrénées-Orientales
-
-|
 
 |
 
@@ -1070,8 +1002,6 @@ Meuse
 
 |
 
-|
-
 Verdun
 
 |
@@ -1081,8 +1011,6 @@ Ressort des tribunaux de grande instance de Bar-le-Duc et Verdun.
 |
 
 Vosges
-
-|
 
 |
 
@@ -1112,8 +1040,6 @@ Gard
 
 |
 
-|
-
 Nîmes
 
 |
@@ -1126,8 +1052,6 @@ Lozère
 
 |
 
-|
-
 Mende
 
 |
@@ -1137,8 +1061,6 @@ Ressort du tribunal de grande instance de Mende.
 |
 
 Vaucluse
-
-|
 
 |
 
@@ -1176,8 +1098,6 @@ Wallis-et-Futuna
 
 |
 
-|
-
 Mata-Utu
 
 |
@@ -1204,8 +1124,6 @@ Loiret
 
 |
 
-|
-
 Montargis
 
 |
@@ -1223,8 +1141,6 @@ Ressort du tribunal de grande instance d'Orléans.
 |
 
 Loir-et-Cher
-
-|
 
 |
 
@@ -1268,8 +1184,6 @@ Paris
 
 |
 
-|
-
 Paris
 
 |
@@ -1279,8 +1193,6 @@ Ressort du tribunal de grande instance de Paris.
 |
 
 Seine-et-Marne
-
-|
 
 |
 
@@ -1304,8 +1216,6 @@ Seine-Saint-Denis
 
 |
 
-|
-
 Bobigny
 
 |
@@ -1318,8 +1228,6 @@ Val-de-Marne
 
 |
 
-|
-
 Créteil
 
 |
@@ -1329,8 +1237,6 @@ Ressort du tribunal de grande instance de Créteil.
 |
 
 Yonne
-
-|
 
 |
 
@@ -1360,8 +1266,6 @@ Landes
 
 |
 
-|
-
 Dax
 
 |
@@ -1379,8 +1283,6 @@ Ressort du tribunal de grande instance de Mont-de-Marsan.
 |
 
 Pyrénées-Atlantiques
-
-|
 
 |
 
@@ -1434,8 +1336,6 @@ Deux-Sèvres
 
 |
 
-|
-
 [Niort
 
 |
@@ -1448,8 +1348,6 @@ Vendée
 
 |
 
-|
-
 La Roche-sur-Yon
 
 |
@@ -1459,8 +1357,6 @@ Ressort des tribunaux de grande instance de La Roche-sur-Yon et Les Sables-d'Olo
 |
 
 Vienne
-
-|
 
 |
 
@@ -1490,8 +1386,6 @@ Aube
 
 |
 
-|
-
 Troyes
 
 |
@@ -1501,8 +1395,6 @@ Ressort du tribunal de grande instance de Troyes.
 |
 
 Marne
-
-|
 
 |
 
@@ -1540,8 +1432,6 @@ Finistère
 
 |
 
-|
-
 [Brest
 
 |
@@ -1559,8 +1449,6 @@ Ressort du tribunal de grande instance de Quimper.
 |
 
 Ille-et-Vilaine
-
-|
 
 |
 
@@ -1584,8 +1472,6 @@ Loire-Atlantique
 
 |
 
-|
-
 Nantes
 
 |
@@ -1603,8 +1489,6 @@ Ressort du tribunal de grande instance de Saint-Nazaire.
 |
 
 Morbihan
-
-|
 
 |
 
@@ -1642,8 +1526,6 @@ Cantal
 
 |
 
-|
-
 Aurillac
 
 |
@@ -1656,8 +1538,6 @@ Haute-Loire
 
 |
 
-|
-
 Le Puy-en-Velay
 
 |
@@ -1667,8 +1547,6 @@ Ressort du tribunal de grande instance du Puy-en-Velay.
 |
 
 Puy-de-Dôme
-
-|
 
 |
 
@@ -1695,8 +1573,6 @@ Ressort du tribunal de grande instance d'Evreux. (4)]
 |
 
 Seine-Maritime
-
-|
 
 |
 
@@ -1750,11 +1626,7 @@ Mayotte
 
 |
 
-|
-
-Mamoudzou
-
-|
+Mamoudzou |
 
 Ressort du tribunal de grande instance de Mamoudzou
 
@@ -1778,8 +1650,6 @@ Haute-Garonne
 
 |
 
-|
-
 [Toulouse
 
 |
@@ -1789,8 +1659,6 @@ Ressort du tribunal de grande instance de Toulouse. (4)]
 |
 
 Tarn
-
-|
 
 |
 
@@ -1811,8 +1679,6 @@ Ressort du tribunal de grande instance de Castres.
 |
 
 Tarn-et-Garonne
-
-|
 
 |
 
@@ -1842,8 +1708,6 @@ Hauts-de-Seine
 
 |
 
-|
-
 Nanterre
 
 |
@@ -1856,8 +1720,6 @@ Val-d'Oise
 
 |
 
-|
-
 Pontoise
 
 |
@@ -1867,8 +1729,6 @@ Ressort du tribunal de grande instance de Pontoise.
 |
 
 Yvelines
-
-|
 
 |
 
@@ -1897,8 +1757,6 @@ Ressort du tribunal de grande instance de Saint-Pierre
 (4) Applicable à compter du 1er janvier 2011.
 
 (6) Applicable à compter du 1er janvier 2011.
-
-(11) Applicable jusqu'au 30 juin 2014.
 
 (12) Applicable à compter du 1er juillet 2014.
 
