@@ -44,7 +44,7 @@ MAPA x 10
 
 |
 
-Centre d'information et de documentation de l'armement
+DGA Intelligence technique et économique
 
 |
 

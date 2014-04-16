@@ -470,7 +470,7 @@ MAPA × 50
 
 |
 
-Directeur du centre d'information et de documentation de l'armement
+Directeur du DGA Intelligence technique et économique
 
 |
 
@@ -604,7 +604,7 @@ Sans limitation
 
 |
 
-(1) L'expression MAPA x s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l' article 26-II du code des marchés publics.
+(1) L'expression MAPA x s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics.
 
 (5) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG.
 
@@ -618,7 +618,7 @@ Sans limitation
 
 A l'exception des commandants des formations administratives et organismes administrés comme tels dont la liste est prévue à l'article 4 de l'arrêté du 29 novembre 2010 portant création et organisation des bases de défense et fixant les attributions des commandants des bases de défense, les commandants des formations soutenues par un groupement de soutien de base de défense ne peuvent passer et signer les marchés publics et accords-cadres mentionnés ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense.
 
-(10) Délégation applicable aux marchés et accords-cadres imputés sur le compte de commerce approvisionnement des armées en produits pétroliers .
+(10) Délégation applicable aux marchés et accords-cadres imputés sur le compte de commerce approvisionnement des armées en produits pétroliers.
 
 (11) Délégation applicable aux marchés et accords-cadres imputés sur le budget défense.
 
