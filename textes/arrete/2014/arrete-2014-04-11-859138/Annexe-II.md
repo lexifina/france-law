@@ -16,8 +16,6 @@ en mer Méditerranée
 
 |
 
-|
-
 Pour la pêche
 
 au chalut

@@ -4,12 +4,6 @@
 
 |
 
-|
-
-|
-
-|
-
 QUOTA 2014
 
 en mer Méditerranée
@@ -20,7 +14,7 @@ QUOTA 2014
 
 en océan Atlantique
 
-à l'est de la longitude 45 ° Ouest
+à l'est de la longitude 45° Ouest
 
 |
 
@@ -28,7 +22,7 @@ OP DU SUD
 
 |
 
-Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
 |
 
@@ -40,7 +34,7 @@ Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
 
 |
 
@@ -68,45 +62,35 @@ OP COPEMART
 
 |
 
-Senneurs titulaires d'une AEP "thon rouge" :
+Senneurs titulaires d'une AEP thon rouge :
 
 |
 
 Chrisderic II
 
-|
-
-immatriculé 863686
-
-|
-
-57
-
-|
-
-0
-
-|
-
-|
-
 Ville d'Agde IV
 
 |
+
+immatriculé 863686
 
 immatriculé 924880
 
 |
 
-57
+58
+
+58
 
 |
 
 0
 
+0
+
 |
 
-Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
 |
 
@@ -118,7 +102,7 @@ Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
 
 |
 
@@ -134,7 +118,7 @@ Total COPEMART
 
 |
 
-131,5
+133,5
 
 |
 
@@ -146,7 +130,7 @@ OP SATHOAN
 
 |
 
-Senneurs titulaires d'une AEP "thon rouge" :
+Senneurs titulaires d'une AEP thon rouge :
 
 |
 
@@ -278,7 +262,7 @@ immatriculé 925310
 
 |
 
-Palangriers hauturiers titulaires d'une AEP "thon rouge"
+Palangriers hauturiers titulaires d'une AEP thon rouge
 
 |
 
@@ -290,7 +274,7 @@ Palangriers hauturiers titulaires d'une AEP "thon rouge"
 
 |
 
-Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
 |
 
@@ -302,7 +286,7 @@ Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
 
 |
 
@@ -330,13 +314,17 @@ Groupement de navires STM
 
 |
 
-Senneurs titulaires d'une AEP "thon rouge" :
+Senneurs titulaires d'une AEP thon rouge :
 
 |
 
 Juanico Lucien Rafael
 
+Cisberlande 5
+
 |
+
+immatriculé 308341
 
 immatriculé 923751
 
@@ -344,23 +332,11 @@ immatriculé 923751
 
 114
 
-|
-
-0
-
-|
-
-Cisberlande 5
-
-|
-
-immatriculé 914222
-
-|
-
 256
 
 |
+
+0
 
 0
 
@@ -414,7 +390,7 @@ Groupement de navires Golfe du Lion (SPMLR)
 
 |
 
-Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
 |
 
@@ -426,7 +402,7 @@ Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
 
 |
 
@@ -454,45 +430,21 @@ Navires n'adhérant pas à une organisation de producteurs (hors OP)
 
 |
 
-Senneurs titulaires d'une AEP "thon rouge" :
+Senneurs titulaires d'une AEP thon rouge :
 
 |
 
 Anne Antoine II
 
-|
-
-immatriculé 819572
-
-|
-
-58
-
-|
-
-0
-
-|
-
 Gérard Luc IV
-
-|
-
-immatriculé 900236
-
-|
-
-118
-
-|
-
-0
-
-|
 
 Eric Marin
 
 |
+
+immatriculé 819572
+
+immatriculé 900236
 
 immatriculé 924860
 
@@ -500,13 +452,21 @@ immatriculé 924860
 
 58
 
+118
+
+58
+
 |
+
+0
+
+0
 
 0
 
 |
 
-Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
+Palangriers petits métiers titulaires d'une AEP thon rouge
 
 |
 
@@ -582,7 +542,7 @@ et immatriculés dans un quartier maritime du Var
 
 |
 
-Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge" :
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge
 
 |
 
@@ -658,7 +618,7 @@ et immatriculés dans un quartier maritime du Var
 
 |
 
-Total HORS OP
+Total hors OP
 
 |
 
@@ -686,7 +646,7 @@ Total
 
 |
 
-2 197
+2 199
 
 |
 
@@ -696,6 +656,6 @@ Total
 
 (*) Dont 19,9 % maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
 
-(**) Dont 17 % maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
+(**) Dont 17,9 % maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
 
 |
