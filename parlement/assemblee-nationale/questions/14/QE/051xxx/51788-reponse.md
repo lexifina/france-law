@@ -1,0 +1,9 @@
+# Réponse à la question n° 51788
+
+- Question : [51788](51788.md) — Question n° 51788 — Union européenne; adhésion
+
+## Réponse
+
+*JO du 2014-04-22*
+
+Le Président de la République a, lors de sa visite d'Etat en Turquie les 27 et 28 janvier 2014, rappelé sa position ainsi que celle du gouvernement quant à l'adhésion de ce pays à l'Union européenne. En acceptant d'ouvrir les négociations d'adhésion le 3 octobre 2005 avec Ankara, l'Union européenne et l'ensemble de ses Etats membres ont pris des engagements qui impliquent que le processus d'adhésion puisse se poursuivre, afin d'inciter le pays candidat à se moderniser et à se rapprocher des standards européens dans de nombreux domaines. C'est dans cet esprit que la France a soutenu une démarche progressive et pragmatique de poursuite des négociations, avec l'ouverture du chapitre 22, qui porte sur la politique régionale. Le Président de la République a également rappelé que, conformément aux principes fixés par le cadre de négociation et endossés par le Conseil européen de décembre 2005, ces négociations constituaient un processus ouvert, dont l'issue ne pouvait être déterminée à l'avance : le principe d'une adhésion devra, une fois que les négociations auront abouti, recevoir l'accord de la Turquie ainsi que de l'ensemble des Etats membres conformément à leurs procédures constitutionnelles respectives. En France, au titre de l'article 88-5 de la Constitution, cet accord pourra être donné par un référendum populaire ou par voie parlementaire (à la majorité qualifiée des deux assemblées réunies en congrès). La décision sur la voie à emprunter devra être prise au moment de la clôture du processus de négociation. Il serait de ce point de vue prématuré d'évoquer dès à présent des éléments de calendrier, dans la mesure où le processus n'en est actuellement pas à un stade suffisamment avancé.
