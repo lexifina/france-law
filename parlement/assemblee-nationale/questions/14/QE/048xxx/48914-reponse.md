@@ -1,0 +1,9 @@
+# Réponse à la question n° 48914
+
+- Question : [48914](48914.md) — Question n° 48914 — armement nucléaire; attitude de la France
+
+## Réponse
+
+*JO du 2014-04-22*
+
+Au plan international, la France travaille étroitement avec les quatre Etats dotés d'armes nucléaires en vue de renforcer la confiance mutuelle et la transparence sur les questions de désarmement et de non-prolifération nucléaires. Ces efforts se poursuivront notamment à Pékin à l'occasion de la Conférence de suivi du TNP par les cinq Etats dotés (P5) en avril 2014, après celles de Paris en 2011, Washington en 2012 et Genève en 2013. Les autorités françaises ont toujours privilégié une approche pragmatique et progressive du désarmement. Cette approche inspire le plan d'action adopté par consensus lors de la Conférence d'examen du TNP en mai 2010, qui donne à la communauté internationale une feuille de route concrète et équilibrée pour les prochaines années, permettant de progresser de manière déterminée sur les trois piliers du Traité (lutte contre la prolifération, désarmement et usages pacifiques du nucléaire). Cette démarche est réaliste et permet de renforcer la sécurité et la stabilité internationales. Il est essentiel de concentrer les efforts sur les mesures pratiques et concrètes permettant de créer, de manière collective, les conditions de nouveaux progrès dans le domaine du désarmement. Dans ce contexte, le gouvernement français, en concertation avec les autres Etats dotés, avait pris la décision de ne pas envoyer de représentant à la Conférence d'Oslo en mars 2013. La conférence de suivi, à Nayarit, étant fondée sur une approche similaire à celle d'Oslo et aboutissant aux mêmes conclusions, il n'y avait pas lieu de prendre une décision différente s'agissant de la participation de la France à cette conférence, les 13 et 14 février 2014.
