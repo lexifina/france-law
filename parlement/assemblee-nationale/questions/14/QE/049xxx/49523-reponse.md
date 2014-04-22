@@ -1,0 +1,9 @@
+# Réponse à la question n° 49523
+
+- Question : [49523](49523.md) — Question n° 49523 — chrétiens; liberté de culte
+
+## Réponse
+
+*JO du 2014-04-22*
+
+La France défend partout dans le monde la liberté de religion ou de conviction, et intervient auprès des Etats concernés, dans le cadre de sa politique de défense des droits de l'Homme, afin qu'ils assurent la protection du libre exercice des cultes par leurs citoyens et éliminent toute forme de discrimination fondée sur la religion ou la conviction. La politique de la France vis-à-vis des chrétiens au Proche et au Moyen-Orient s'inscrit dans cette politique à portée universelle. Elle inclut notamment le respect des droits des personnes appartenant aux minorités religieuses et prend en compte les liens spécifiques hérités de l'Histoire qu'elle entretient avec les communautés chrétiennes d'Orient. La visite du Président de la République au Vatican, le 24 janvier dernier, a permis d'échanger avec le Pape François sur la situation des chrétiens d'Orient et de réaffirmer la mobilisation constante de la France les concernant. La France agit régulièrement pour que le Conseil affaires étrangères de l'Union européenne, comme l'Assemblée générale des Nations unies et le Conseil des droits de l'Homme, condamnent les violences contre les chrétiens. Les chrétiens sont peu présents dans les camps de réfugiés syriens en Turquie. Pour la majorité d'entre eux, le passage en Turquie n'est en effet que provisoire. Pour ceux qui prolongent leur séjour dans ce pays, ils sont souvent hébergés par des membres de leur communauté. C'est le cas notamment des réfugiés syriaques, dont un grand nombre a rejoint la communauté syriaque déjà présente en Turquie, en particulier dans la région de Mardin. La France n'a pas connaissance de discriminations exercées à l'encontre des réfugiés syriens chrétiens, notamment arméniens, en Turquie.
