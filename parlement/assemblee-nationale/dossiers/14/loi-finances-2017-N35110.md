@@ -1,0 +1,277 @@
+# Budget : loi de finances 2017
+
+- Procédure : Projet de loi de finances de l'année
+- Législature : 14
+- Identifiant : DLR5L14N35110
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/loi_finances_2017
+- Sénat : http://www.senat.fr/dossier-legislatif/pjlf2017.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-09-28 : 1er dépôt d'une initiative. (PRJLANR5L14B4061)
+  - 2016-09-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-09-28 : Renvoi en commission au fond
+      - 2014-04-23 : Nomination de rapporteur
+      - 2016-06-22 : Nomination de rapporteur budgétaire
+      - 2016-09-28 : Réunion de commission
+      - 2016-09-28 : Réunion de commission
+      - 2016-10-12 : Réunion de commission
+      - 2016-10-12 : Réunion de commission
+      - 2016-10-12 : Réunion de commission
+      - 2016-10-18 : Réunion de commission
+      - 2016-10-25 : Réunion de commission
+      - 2016-10-25 : Réunion de commission
+      - 2016-10-25 : Réunion de commission
+      - 2016-10-25 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-28 : Réunion de commission
+      - 2016-10-28 : Réunion de commission
+      - 2016-10-28 : Réunion de commission
+      - 2016-10-28 : Réunion de commission
+      - 2016-11-02 : Réunion de commission
+      - 2016-11-02 : Réunion de commission
+      - 2016-11-02 : Réunion de commission
+      - 2016-11-02 : Réunion de commission
+      - 2016-11-02 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-04 : Réunion de commission
+      - 2016-11-04 : Réunion de commission
+      - 2016-11-04 : Réunion de commission
+      - 2016-11-04 : Réunion de commission
+      - 2016-11-07 : Réunion de commission
+      - 2016-11-07 : Réunion de commission
+      - 2016-11-07 : Réunion de commission
+      - 2016-11-07 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-09 : Réunion de commission
+      - 2016-11-09 : Réunion de commission
+      - 2016-11-09 : Réunion de commission
+      - 2016-11-09 : Réunion de commission
+      - 2016-11-10 : Réunion de commission
+      - 2016-11-10 : Réunion de commission
+      - 2016-11-10 : Réunion de commission
+      - 2016-11-10 : Réunion de commission
+      - 2016-11-17 : Réunion de commission
+      - 2016-11-18 : Réunion de commission
+      - 2016-10-13 : Dépôt de rapport (RAPPANR5L14B4125)
+    - Travaux d'une commission saisie pour avis
+      - 2016-07-21 : Saisine pour avis d'une commission
+      - 2016-06-30 : Nomination de rapporteur budgétaire
+      - 2016-06-30 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-07 : Réunion de commission
+      - 2016-11-07 : Réunion de commission
+      - 2016-11-09 : Réunion de commission
+      - 2016-11-09 : Réunion de commission
+      - 2016-10-13 : Dépôt de rapport (AVISANR5L14B4129)
+    - Travaux d'une commission saisie pour avis
+      - 2016-07-21 : Saisine pour avis d'une commission
+      - 2016-06-22 : Nomination de rapporteur budgétaire
+      - 2016-06-22 : Réunion de commission
+      - 2016-10-19 : Réunion de commission
+      - 2016-10-19 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-28 : Réunion de commission
+      - 2016-10-28 : Réunion de commission
+      - 2016-11-02 : Réunion de commission
+      - 2016-11-02 : Réunion de commission
+      - 2016-11-02 : Réunion de commission
+      - 2016-11-07 : Réunion de commission
+      - 2016-11-07 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-10-13 : Dépôt de rapport (AVISANR5L14B4126)
+    - Travaux d'une commission saisie pour avis
+      - 2016-07-21 : Saisine pour avis d'une commission
+      - 2016-06-29 : Nomination de rapporteur budgétaire
+      - 2016-06-29 : Réunion de commission
+      - 2016-10-11 : Réunion de commission
+      - 2016-10-25 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-04 : Réunion de commission
+      - 2016-11-07 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-10-13 : Dépôt de rapport (AVISANR5L14B4127)
+    - Travaux d'une commission saisie pour avis
+      - 2016-07-21 : Saisine pour avis d'une commission
+      - 2016-06-08 : Nomination de rapporteur budgétaire
+      - 2016-10-25 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-11-02 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-07 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-10-13 : Dépôt de rapport (AVISANR5L14B4128)
+    - Travaux d'une commission saisie pour avis
+      - 2016-07-21 : Saisine pour avis d'une commission
+      - 2016-02-17 : Nomination de rapporteur budgétaire
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-28 : Réunion de commission
+      - 2016-10-28 : Réunion de commission
+      - 2016-11-02 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-10-13 : Dépôt de rapport (AVISANR5L14B4130)
+    - Travaux d'une commission saisie pour avis
+      - 2016-07-21 : Saisine pour avis d'une commission
+      - 2016-07-06 : Nomination de rapporteur budgétaire
+      - 2016-07-06 : Réunion de commission
+      - 2016-10-25 : Réunion de commission
+      - 2016-10-25 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-28 : Réunion de commission
+      - 2016-10-28 : Réunion de commission
+      - 2016-11-03 : Réunion de commission
+      - 2016-11-04 : Réunion de commission
+      - 2016-11-04 : Réunion de commission
+      - 2016-11-09 : Réunion de commission
+      - 2016-11-09 : Réunion de commission
+      - 2016-10-13 : Dépôt de rapport (AVISANR5L14B4132)
+    - Travaux d'une commission saisie pour avis
+      - 2016-07-21 : Saisine pour avis d'une commission
+      - 2016-06-29 : Nomination de rapporteur budgétaire
+      - 2016-09-26 : Nomination de rapporteur budgétaire
+      - 2016-10-11 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-26 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-10-27 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-11-08 : Réunion de commission
+      - 2016-10-13 : Dépôt de rapport (AVISANR5L14B4131)
+  - Discussion en séance publique
+    - 2016-10-18 : Discussion en séance publique
+    - 2016-10-18 : Discussion en séance publique
+    - 2016-10-19 : Discussion en séance publique
+    - 2016-10-19 : Discussion en séance publique
+    - 2016-10-20 : Discussion en séance publique
+    - 2016-10-20 : Discussion en séance publique
+    - 2016-10-20 : Discussion en séance publique
+    - 2016-10-21 : Discussion en séance publique
+    - 2016-10-21 : Discussion en séance publique
+    - 2016-10-24 : Discussion en séance publique
+    - 2016-10-24 : Discussion en séance publique
+    - 2016-10-25 : Discussion en séance publique
+    - 2016-11-02 : Discussion en séance publique
+    - 2016-11-03 : Discussion en séance publique
+    - 2016-11-03 : Discussion en séance publique
+    - 2016-11-04 : Discussion en séance publique
+    - 2016-11-04 : Discussion en séance publique
+    - 2016-11-07 : Discussion en séance publique
+    - 2016-11-08 : Discussion en séance publique
+    - 2016-11-08 : Discussion en séance publique
+    - 2016-11-09 : Discussion en séance publique
+    - 2016-11-09 : Discussion en séance publique
+    - 2016-11-10 : Discussion en séance publique
+    - 2016-11-10 : Discussion en séance publique
+    - 2016-11-14 : Discussion en séance publique
+    - 2016-11-15 : Discussion en séance publique
+    - 2016-11-15 : Discussion en séance publique
+    - 2016-11-16 : Discussion en séance publique
+    - 2016-11-16 : Discussion en séance publique
+    - 2016-11-17 : Discussion en séance publique
+    - 2016-11-17 : Discussion en séance publique
+    - 2016-11-17 : Discussion en séance publique
+    - 2016-11-18 : Discussion en séance publique
+    - 2016-11-18 : Discussion en séance publique
+    - 2016-11-22 : Discussion en séance publique
+    - 2016-11-22 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-11-24 : Dépôt d'une initiative en navette (PRJLSNR5S279B0139)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-11-24 : Renvoi en commission au fond
+      - 2014-10-09 : Nomination de rapporteur
+      - 2016-11-24 : Dépôt de rapport (RAPPSNR5S279B0140)
+  - Discussion en séance publique
+    - 2016-11-24 : Discussion en séance publique
+    - 2016-11-29 : Discussion en séance publique
+    - 2016-11-30 : Discussion en séance publique
+    - 2016-11-30 : Décision
+- Commission Mixte Paritaire
+  - 2016-11-30 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-12-13 : Nomination de rapporteur
+    - 2016-12-13 : Dépôt du rapport d'une CMP (RAPPANR5L14B4299)
+    - 2016-12-13 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0212)
+  - 2016-12-13 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-11-30 : Dépôt d'une initiative en navette (PRJLANR5L14B4271)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-11-30 : Renvoi en commission au fond
+      - 2016-12-14 : Réunion de commission
+      - 2016-12-14 : Réunion de commission
+      - 2016-12-15 : Réunion de commission
+      - 2016-12-14 : Dépôt de rapport (RAPPANR5L14B4314)
+  - Discussion en séance publique
+    - 2016-12-15 : Discussion en séance publique
+    - 2016-12-16 : Discussion en séance publique
+    - 2016-12-16 : Discussion en séance publique
+    - 2016-12-16 : Décision
+- Nouvelle Lecture
+  - 2016-12-17 : Dépôt d'une initiative en navette (PRJLSNR5S279B0239)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-17 : Renvoi en commission au fond
+      - 2016-12-19 : Dépôt de rapport (RAPPSNR5S279B0242)
+  - Discussion en séance publique
+    - 2016-12-19 : Discussion en séance publique
+    - 2016-12-19 : Décision
+- Lecture définitive
+  - 2016-12-20 : Dépôt d'une initiative en navette (PRJLANR5L14B4325)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-20 : Renvoi en commission au fond
+      - 2016-12-20 : Réunion de commission
+      - 2016-12-20 : Dépôt de rapport (RAPPANR5L14B4326)
+  - Discussion en séance publique
+    - 2016-12-20 : Discussion en séance publique
+    - 2016-12-20 : Discussion en séance publique
+    - 2016-12-20 : Décision
+- Conseil constitutionnel
+  - 2016-12-22 : Saisine du conseil constitutionnel
+  - 2016-12-22 : Saisine du conseil constitutionnel
+  - 2016-12-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-12-29 : Promulgation d'une loi
