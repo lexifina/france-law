@@ -1,0 +1,101 @@
+# Budget : loi de finances rectificative 2015
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 14
+- Identifiant : DLR5L14N34429
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/collectif_budgetaire_2015
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-227.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-11-13 : 1er dépôt d'une initiative. (PRJLANR5L14B3217)
+  - 2015-11-13 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-11-13 : Renvoi en commission au fond
+      - 2014-04-23 : Nomination de rapporteur
+      - 2015-11-13 : Réunion de commission
+      - 2015-11-25 : Réunion de commission
+      - 2015-11-25 : Réunion de commission
+      - 2015-11-25 : Réunion de commission
+      - 2015-11-30 : Réunion de commission
+      - 2015-11-26 : Dépôt de rapport (RAPPANR5L14B3282)
+    - Travaux d'une commission saisie pour avis
+      - 2015-11-16 : Saisine pour avis d'une commission
+      - 2015-11-24 : Nomination de rapporteur
+      - 2015-11-24 : Réunion de commission
+      - 2015-11-24 : Réunion de commission
+      - 2015-11-24 : Dépôt de rapport (AVISANR5L14B3252)
+    - Travaux d'une commission saisie pour avis
+      - 2015-11-19 : Saisine pour avis d'une commission
+      - 2015-11-18 : Nomination de rapporteur
+      - 2015-11-24 : Réunion de commission
+      - 2015-11-24 : Dépôt de rapport (AVISANR5L14B3247)
+  - Discussion en séance publique
+    - 2015-11-30 : Discussion en séance publique
+    - 2015-11-30 : Discussion en séance publique
+    - 2015-12-01 : Discussion en séance publique
+    - 2015-12-01 : Discussion en séance publique
+    - 2015-12-02 : Discussion en séance publique
+    - 2015-12-02 : Discussion en séance publique
+    - 2015-12-04 : Discussion en séance publique
+    - 2015-12-08 : Discussion en séance publique
+    - 2015-12-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-12-08 : Dépôt d'une initiative en navette (PRJLSNR5S259B0227)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-08 : Renvoi en commission au fond
+      - 2014-10-09 : Nomination de rapporteur
+      - 2015-12-09 : Dépôt de rapport (RAPPSNR5S259B0229)
+    - Travaux d'une commission saisie pour avis
+      - 2015-11-25 : Saisine pour avis d'une commission
+      - 2015-11-25 : Nomination de rapporteur
+      - 2015-12-09 : Dépôt de rapport (AVISSNR5S259B0230)
+  - Discussion en séance publique
+    - 2015-12-10 : Discussion en séance publique
+    - 2015-12-11 : Discussion en séance publique
+    - 2015-12-11 : Décision
+- Commission Mixte Paritaire
+  - 2015-12-12 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-12-14 : Nomination de rapporteur
+    - 2015-12-14 : Dépôt du rapport d'une CMP (RAPPANR5L14B3345)
+    - 2015-12-14 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0253)
+  - 2015-12-14 : Décision de la CMP
+- Nouvelle Lecture
+  - 2015-12-12 : Dépôt d'une initiative en navette (PRJLANR5L14B3344)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-12 : Renvoi en commission au fond
+      - 2015-12-14 : Réunion de commission
+      - 2015-12-14 : Dépôt de rapport (RAPPANR5L14B3347)
+  - Discussion en séance publique
+    - 2015-12-15 : Discussion en séance publique
+    - 2015-12-15 : Discussion en séance publique
+    - 2015-12-15 : Décision
+- Nouvelle Lecture
+  - 2015-12-16 : Dépôt d'une initiative en navette (PRJLSNR5S259B0259)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-16 : Renvoi en commission au fond
+      - 2015-12-16 : Dépôt de rapport (RAPPSNR5S259B0263)
+  - Discussion en séance publique
+    - 2015-12-16 : Discussion en séance publique
+    - 2015-12-16 : Décision
+- Lecture définitive
+  - 2015-12-16 : Dépôt d'une initiative en navette (PRJLANR5L14B3368)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-12-16 : Renvoi en commission au fond
+      - 2015-12-17 : Réunion de commission
+      - 2015-12-17 : Dépôt de rapport (RAPPANR5L14B3370)
+  - Discussion en séance publique
+    - 2015-12-17 : Discussion en séance publique
+    - 2015-12-17 : Décision
+- Conseil constitutionnel
+  - 2015-12-18 : Saisine du conseil constitutionnel
+  - 2015-12-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2015-12-29 : Promulgation d'une loi
