@@ -1,0 +1,83 @@
+# Budget : loi de finances rectificative 2016
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 14
+- Identifiant : DLR5L14N35384
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/collectif_budgetaire_2016
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl16-208.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-11-18 : 1er dépôt d'une initiative. (PRJLANR5L14B4235)
+  - 2016-11-18 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-11-18 : Renvoi en commission au fond
+      - 2014-04-23 : Nomination de rapporteur
+      - 2016-11-30 : Réunion de commission
+      - 2016-11-30 : Réunion de commission
+      - 2016-12-05 : Réunion de commission
+      - 2016-12-01 : Dépôt de rapport (RAPPANR5L14B4272)
+  - Discussion en séance publique
+    - 2016-12-05 : Discussion en séance publique
+    - 2016-12-05 : Discussion en séance publique
+    - 2016-12-06 : Discussion en séance publique
+    - 2016-12-07 : Discussion en séance publique
+    - 2016-12-07 : Discussion en séance publique
+    - 2016-12-07 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-12-08 : Dépôt d'une initiative en navette (PRJLSNR5S279B0208)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-08 : Renvoi en commission au fond
+      - 2014-10-09 : Nomination de rapporteur
+      - 2016-12-13 : Dépôt de rapport (RAPPSNR5S279B0214)
+  - Discussion en séance publique
+    - 2016-12-15 : Discussion en séance publique
+    - 2016-12-16 : Discussion en séance publique
+    - 2016-12-17 : Discussion en séance publique
+    - 2016-12-17 : Décision
+- Commission Mixte Paritaire
+  - 2016-12-18 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-12-19 : Nomination de rapporteur
+    - 2016-12-19 : Dépôt du rapport d'une CMP (RAPPANR5L14B4321)
+    - 2016-12-19 : Dépôt du rapport d'une CMP (RAPPSNR5S279B0240)
+  - 2016-12-19 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-12-18 : Dépôt d'une initiative en navette (PRJLANR5L14B4320)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-18 : Renvoi en commission au fond
+      - 2016-12-20 : Réunion de commission
+      - 2016-12-19 : Dépôt de rapport (RAPPANR5L14B4322)
+  - Discussion en séance publique
+    - 2016-12-20 : Discussion en séance publique
+    - 2016-12-20 : Discussion en séance publique
+    - 2016-12-20 : Décision
+- Nouvelle Lecture
+  - 2016-12-21 : Dépôt d'une initiative en navette (PRJLSNR5S279B0250)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-21 : Renvoi en commission au fond
+      - 2016-12-21 : Dépôt de rapport (RAPPSNR5S279B0251)
+  - Discussion en séance publique
+    - 2016-12-21 : Discussion en séance publique
+    - 2016-12-21 : Décision
+- Lecture définitive
+  - 2016-12-21 : Dépôt d'une initiative en navette (PRJLANR5L14B4349)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-12-21 : Renvoi en commission au fond
+      - 2016-12-22 : Réunion de commission
+      - 2016-12-22 : Dépôt de rapport (RAPPANR5L14B4354)
+  - Discussion en séance publique
+    - 2016-12-22 : Discussion en séance publique
+    - 2016-12-22 : Décision
+- Conseil constitutionnel
+  - 2016-12-22 : Saisine du conseil constitutionnel
+  - 2016-12-22 : Saisine du conseil constitutionnel
+  - 2016-12-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-12-29 : Promulgation d'une loi
