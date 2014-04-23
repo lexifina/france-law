@@ -1,0 +1,92 @@
+# Budget : loi de finances rectificative 2014 (2)
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 14
+- Identifiant : DLR5L14N33568
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/deuxieme_collectif_budgetaire_2014
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-155.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-11-12 : 1er dépôt d'une initiative. (PRJLANR5L14B2353)
+  - 2014-11-12 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-11-12 : Renvoi en commission au fond
+      - 2014-04-23 : Nomination de rapporteur
+      - 2014-11-12 : Réunion de commission
+      - 2014-11-26 : Réunion de commission
+      - 2014-11-26 : Réunion de commission
+      - 2014-12-01 : Réunion de commission
+      - 2014-12-01 : Réunion de commission
+      - 2014-11-27 : Dépôt de rapport (RAPPANR5L14B2408)
+    - Travaux d'une commission saisie pour avis
+      - 2014-11-13 : Saisine pour avis d'une commission
+      - 2014-11-18 : Nomination de rapporteur
+      - 2014-11-25 : Réunion de commission
+  - Discussion en séance publique
+    - 2014-12-01 : Discussion en séance publique
+    - 2014-12-01 : Discussion en séance publique
+    - 2014-12-02 : Discussion en séance publique
+    - 2014-12-02 : Discussion en séance publique
+    - 2014-12-03 : Discussion en séance publique
+    - 2014-12-03 : Discussion en séance publique
+    - 2014-12-05 : Discussion en séance publique
+    - 2014-12-05 : Discussion en séance publique
+    - 2014-12-09 : Discussion en séance publique
+    - 2014-12-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-12-09 : Dépôt d'une initiative en navette (PRJLSNR5S239B0155)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-09 : Renvoi en commission au fond
+      - 2014-10-09 : Nomination de rapporteur
+      - 2014-12-10 : Dépôt de rapport (RAPPSNR5S239B0159)
+  - Discussion en séance publique
+    - 2014-12-11 : Discussion en séance publique
+    - 2014-12-12 : Discussion en séance publique
+    - 2014-12-12 : Décision
+- Commission Mixte Paritaire
+  - 2014-12-15 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-12-15 : Nomination de rapporteur
+    - 2014-12-15 : Dépôt du rapport d'une CMP (RAPPANR5L14B2456)
+    - 2014-12-15 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0187)
+  - 2014-12-15 : Décision de la CMP
+- Nouvelle Lecture
+  - 2014-12-15 : Dépôt d'une initiative en navette (PRJLANR5L14B2455)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-15 : Renvoi en commission au fond
+      - 2014-12-16 : Réunion de commission
+      - 2014-12-15 : Dépôt de rapport (RAPPANR5L14B2460)
+  - Discussion en séance publique
+    - 2014-12-16 : Discussion en séance publique
+    - 2014-12-16 : Discussion en séance publique
+    - 2014-12-16 : Décision
+- Nouvelle Lecture
+  - 2014-12-17 : Dépôt d'une initiative en navette (PRJLSNR5S239B0191)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-17 : Renvoi en commission au fond
+      - 2014-12-17 : Dépôt de rapport (RAPPSNR5S239B0195)
+  - Discussion en séance publique
+    - 2014-12-17 : Discussion en séance publique
+    - 2014-12-17 : Décision
+- Lecture définitive
+  - 2014-12-17 : Dépôt d'une initiative en navette (PRJLANR5L14B2479)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-17 : Renvoi en commission au fond
+      - 2014-12-18 : Réunion de commission
+      - 2014-12-18 : Dépôt de rapport (RAPPANR5L14B2485)
+  - Discussion en séance publique
+    - 2014-12-18 : Discussion en séance publique
+    - 2014-12-18 : Décision
+- Conseil constitutionnel
+  - 2014-12-19 : Saisine du conseil constitutionnel
+  - 2014-12-22 : Saisine du conseil constitutionnel
+  - 2014-12-29 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2014-12-29 : Promulgation d'une loi
