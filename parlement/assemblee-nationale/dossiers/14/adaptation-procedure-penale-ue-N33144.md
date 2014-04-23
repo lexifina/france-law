@@ -1,0 +1,81 @@
+# Justice : adaptation de la procédure pénale au droit de l'UE
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33144
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/adaptation_procedure_penale_UE
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-482.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-04-23 : 1er dépôt d'une initiative. (PRJLSNR5S219B0482)
+  - 2014-04-23 : Etude d'impact (ETDISNR5S219B0482)
+  - 2014-09-24 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-04-23 : Renvoi en commission au fond
+      - 2014-10-15 : Nomination de rapporteur
+      - 2014-10-29 : Dépôt de rapport (RAPPSNR5S239B0061)
+  - Discussion en séance publique
+    - 2014-11-05 : Discussion en séance publique
+    - 2014-11-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-11-06 : Dépôt d'une initiative en navette (PRJLANR5L14B2341)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-11-06 : Renvoi en commission au fond
+      - 2015-01-14 : Nomination de rapporteur
+      - 2015-01-14 : Réunion de commission
+      - 2015-05-13 : Réunion de commission
+      - 2015-06-24 : Réunion de commission
+      - 2015-05-13 : Dépôt de rapport (RAPPANR5L14B2763, PRJLANR5L14BTC2763)
+  - Discussion en séance publique
+    - 2015-06-24 : Discussion en séance publique
+    - 2015-06-24 : Décision
+- deuxième lecture
+  - 2015-06-25 : Dépôt d'une initiative en navette (PRJLSNR5S239B0555)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-25 : Renvoi en commission au fond
+- Commission Mixte Paritaire
+  - 2015-06-25 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-07-02 : Nomination de rapporteur
+    - 2015-07-02 : Dépôt du rapport d'une CMP (RAPPANR5L14B2933)
+    - 2015-07-02 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0593)
+  - 2015-07-02 : Décision de la CMP
+- Nouvelle Lecture
+  - 2015-07-02 : Dépôt d'une initiative en navette (PRJLANR5L14B2937)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-02 : Renvoi en commission au fond
+      - 2015-07-15 : Réunion de commission
+      - 2015-07-17 : Réunion de commission
+      - 2015-07-15 : Dépôt de rapport (RAPPANR5L14B2977, PRJLANR5L14BTC2977)
+  - Discussion en séance publique
+    - 2015-07-17 : Discussion en séance publique
+    - 2015-07-17 : Décision
+- Nouvelle Lecture
+  - 2015-07-17 : Dépôt d'une initiative en navette (PRJLSNR5S239B0643)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-17 : Renvoi en commission au fond
+      - 2015-07-21 : Dépôt de rapport (RAPPSNR5S239B0647)
+  - Discussion en séance publique
+    - 2015-07-23 : Discussion en séance publique
+    - 2015-07-23 : Décision
+- Lecture définitive
+  - 2015-07-23 : Dépôt d'une initiative en navette (PRJLANR5L14B3034)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-23 : Renvoi en commission au fond
+      - 2015-07-23 : Dépôt de rapport (RAPPANR5L14B3035)
+  - Discussion en séance publique
+    - 2015-07-23 : Discussion en séance publique
+    - 2015-07-23 : Décision
+- Conseil constitutionnel
+  - 2015-07-24 : Saisine du conseil constitutionnel
+  - 2015-08-13 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2015-08-17 : Promulgation d'une loi
