@@ -1,8 +1,6 @@
 # Article Annexe II (doc 3)
 
-DIPLÔME PRÉPARATEUR
-
-EN PHARMACIE HOSPITALIÈRE. - DOCUMENT 3
+DIPLÔME PRÉPARATEUR EN PHARMACIE HOSPITALIÈRE. - DOCUMENT 3
 
 Évaluation des périodes pratiques
 
@@ -36,886 +34,1358 @@ Le tuteur opérationnel donne son avis sur les éléments d'évaluation de la p�
 
 L'évaluation du candidat
 
-A la fin de la période pratique, la grille d'évaluation en situation d'observation directe du candidat doit être remplie selon quatre niveaux de réalisation : jamais, parfois, souvent, toujours. La notation totale est la somme de l'ensemble des points.
+A la fin de la période pratique, la grille d'évaluation de la période pratique du candidat doit être remplie selon trois niveaux d'acquisition de compétences : acquis, à consolider, non acquis. Une note est attribuée au candidat en tenant compte de son niveau d'acquisition de compétences.
+
+La grille d'évaluation est connue de l'étudiant avant le début de la période pratique. ;
 
 Diplôme préparateur en pharmacie hospitalière
 
-MODULE 1 :
+UNITÉ DE COMPÉTENCES 1
 
-Compétence : analyser les demandes et les ordonnances au regard des exigences techniques et réglementaires propres aux pharmacies à usage intérieur.
+Compétence : analyser les demandes et les ordonnances au regard des exigences techniques et réglementaires propres aux PUI.
 
-La période pratique se déroule en PUI dans le secteur médicaments, et dans les unités de soins.
+ÉVALUATION DE LA PÉRIODE PRATIQUE
+
+La période pratique se déroule en PUI dans le secteur médicaments et dans les unités de soins.
 
 Durée : 3 semaines.
 
-Evaluation de la période pratique : à partir de l'analyse de plusieurs demandes ou ordonnances, portant notamment sur les médicaments à gestion particulière.
+Evaluation de la période pratique : à partir de l'analyse de cinq prescriptions ou demandes, portant notamment sur les médicaments à statut particulier :
 
-Nom et adresse de l'institut de formation :
+Antibiotiques contrôlés, hors GHS, MDS, stupéfiants, ATU, MEOPA...
 
-Nom du candidat :
+Nom du stagiaire : Prénom :
 
-Prénom du candidat :
-
-Hôpital, structure d'accueil :
+Etablissement de santé :
 
 Service :
 
-Dates :
+Dates : Durée des absences (en heures) :
 
-Durée des absences (heures) :
+Positionnement professionnel
 
-Nom et signature de la personne ayant évalué le candidat :
+Curiosité, faculté à développer ses connaissances théoriques et pratiques |
 
-1. Prise en compte des exigences réglementaires et notamment des règles propres à l'hôpital.
+TI |
 
-Les mentions obligatoires devant figurer sur l'ordonnance sont vérifiées en fonction du statut du médicament |
+I |
 
-0 |
+B |
 
-1 |
+TB |
 
-1 |
+Capacité d'intégration en milieu professionnel |
 
-2 |
+TI |
 
-Les durées de traitement sont vérifiées au regard des durées possibles imposées selon le type de médicament |
+I |
 
-0 |
+B |
 
-1 |
+TB |
 
-2 |
+Respect des règles de fonctionnement interne |
 
-3 |
+TI |
 
-Les règles de délivrance spécifiques à certains médicaments sont prises en compte |
+I |
 
-0 |
+B |
 
-1 |
+TB |
 
-3 |
+TI : très insuffisant.
 
-5 |
+I : insuffisant.
 
-L'adéquation de la prescription avec les exigences de l'AMM et/ou les caractéristiques physiopathologiques du patient et de son historique médicamenteux est vérifiée |
+B : bien.
 
-0 |
+TB : très bien. |
 
-1 |
-
-1 |
-
-2 |
-
-Les urgences sont identifiées et analysées |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-2. Prise en compte des exigences techniques.
-
-L'absence d'incompatibilité et d'interaction est vérifiée |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-Les posologies, les rythmes d'administration, la durée du traitement sont vérifiées |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-La date limite d'utilisation est vérifiée |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-La cohérence entre la demande du produit et la nature des activités du service est vérifiée |
-
-0 |
-
-1 |
-
-1 |
-
-2 |
-
-La cohérence entre la nature du produit, la quantité demandée et le rythme de la délivrance est vérifiée |
-
-0 |
-
-1 |
-
-1 |
-
-2 |
-
-3. Traitement des dysfonctionnements.
-
-Les dysfonctionnements ont été repérés et traités |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-Toute situation nécessitant l'intervention du pharmacien a été repérée |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-Total des points : ..... / 40 Total des points sur 20 :
-
-Diplôme préparateur en pharmacie hospitalière
-
-MODULE 2
-
-Compétence : analyser les prescriptions ou les demandes de dispositifs médicaux.
-
-La période pratique se déroule en PUI : secteur dispositifs médicaux et au sein des plateaux médico-techniques (blocs opératoires, explorations fonctionnelles cardiaques...).
-
-Durée : 3 semaines.
-
-Evaluation de la période pratique : à partir de l'analyse de plusieurs demandes ou prescriptions, portant sur les dispositifs médicaux.
-
-Nom et adresse de l'institut de formation :
-
-Nom du candidat :
-
-Prénom du candidat :
-
-Hôpital, structure d'accueil :
-
-Service :
-
-Dates :
-
-Durée des absences (heures) :
-
-Nom et signature de la personne ayant évalué le candidat :
-
-1. Prise en compte des exigences réglementaires et notamment des règles propres à l'hôpital.
-
-Les mentions obligatoires devant figurer sur la demande sont vérifiées en fonction du type de dispositif |
-
-0 |
-
-1 |
-
-1 |
-
-2 |
-
-L'objet de la demande et l'adéquation de la prescription avec les choix faits par le COMEDIMS sont vérifiés |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-Les règles de délivrance spécifiques à certains dispositifs médicaux sont prises en compte |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-Les urgences sont identifiées et analysées |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-2. Prise en compte des exigences techniques.
+Appréciations au regard de l'évaluation :
 
 |
 
-Toute anomalie est identifiée et analysée |
+NOM |
 
-0 |
+QUALIFICATION |
 
-1 |
+SIGNATURE |
 
-2 |
+Tuteur/évaluateur : |
 
-4 |
+|
 
-La date limite d'utilisation des dispositifs est vérifiée |
+|
 
-0 |
+|
 
-1 |
+Cadre/pharmacien : |
 
-2 |
+|
 
-3 |
+|
 
-L'intégrité de l'emballage et des conditions de stockage sont vérifiées |
+|
 
-0 |
+Nota. - Une seule grille par UC sera à retourner au centre de formation.
 
-1 |
+Cachet du service :
 
-2 |
+Signature du stagiaire :
 
-3 |
+Pour chacun des critères, entourez précisément la compétence de l'élève :
+
+1. Maîtrise la conformité et la recevabilité de la demande selon la réglementation et les procédures internes de la PUI (sur 10 points)
+
+Les mentions obligatoires devant figurer sur la prescription sont vérifiées en fonction du statut du médicament |
+
+A |
+
+AC |
+
+NA |
+
+Les durées de traitement sont contrôlées au regard des durées possibles imposées selon le type de médicament |
+
+A |
+
+AC |
+
+NA |
+
+Les décisions des comités institutionnels (COMEDIMS, CLIN, CLUD, CLAN, CSIRMT...) sont prises en compte |
+
+A |
+
+AC |
+
+NA |
+
+Les documents et outils permettant la recherche d'information sont connus et utilisés |
+
+A |
+
+AC |
+
+NA |
+
+Les règles de délivrance spécifiques à certains médicaments sont prises en compte (ATU, MDS, hors GHS, stupéfiants, essais cliniques) |
+
+A |
+
+AC |
+
+NA |
+
+L'adéquation de la prescription avec les exigences de l'AMM est vérifiée |
+
+A |
+
+AC |
+
+NA |
+
+L'adéquation de la prescription avec les exigences des recommandations scientifiques est vérifiée |
+
+A |
+
+AC |
+
+NA |
+
+Les caractéristiques physiopathologiques du patient et son historique médicamenteux sont vérifiés |
+
+A |
+
+AC |
+
+NA |
+
+Les demandes urgentes des services sont identifiées et prises en compte en priorité |
+
+A |
+
+AC |
+
+NA |
+
+Les recommandations sur le bon usage du médicament sont communiquées |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+2. Respecte les exigences techniques (sur 4 points)
+
+La recherche d'incompatibilités, d'interactions et de redondances est réalisée en lien avec les informations disponibles sur le patient |
+
+A |
+
+AC |
+
+NA |
+
+Les posologies, les rythmes d'administration, la durée du traitement sont vérifiés |
+
+A |
+
+AC |
+
+NA |
+
+L'intégrité du conditionnement et la date limite d'utilisation sont vérifiées |
+
+A |
+
+AC |
+
+NA |
 
 La cohérence entre la demande du produit et la nature des activités du service est vérifiée |
 
-0 |
+A |
 
-1 |
+AC |
 
-2 |
+NA |
 
-3 |
+NA : non acquis.
 
-La cohérence entre la nature du produit, la quantité demandée et le rythme de la délivrance est vérifiée |
+AC : à consolider.
 
-0 |
+A : acquis. |
 
-1 |
+3. Prend en compte la sécurisation du circuit du médicament (sur 6 points)
 
-2 |
+Les étapes qui concourent à la sécurisation du circuit du médicament sont identifiées et tracées |
 
-3 |
+A |
 
-Des recommandations sur l'utilisation des dispositifs sont citées et expliquées |
+AC |
 
-0 |
+NA |
 
-1 |
+Les non-conformités ont été repérées et traitées |
 
-2 |
+A |
 
-3 |
+AC |
 
-3. Traitement des dysfonctionnements.
-
-Les dysfonctionnements ont été repérés et traités |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
+NA |
 
 Toute situation nécessitant l'intervention du pharmacien a été repérée |
 
-0 |
+A |
 
-1 |
+AC |
 
-2 |
+NA |
 
-3 |
+NA : non acquis.
 
-Total des points : ..... / 40 Total des points sur 20 :
+AC : à consolider.
 
-Diplôme Préparateur en pharmacie hospitalière
+A : acquis. |
 
-MODULE 4
+Estimation du niveau d'acquisition en tenant compte des critères acquis et non acquis (note sur 20).
 
-Compétence : organiser, conduire et mettre en oeuvre les préparations magistrales, hospitalières, les opérations de reconstitution et le conditionnement.
+Si note supérieure à 16 ou inférieure à 8, à argumenter :
 
-La période pratique se déroule en PUI : la personne en formation devra réaliser différents types de préparations : magistrales, hospitalières, reconstitution d'anti-cancéreux, nutrition parentérale.
+UNITÉ DE COMPÉTENCES 2
 
-Durée : 3 semaines, dont 2 en reconstitution d'anticancéreux minimum.
+Compétence : analyser les prescriptions ou les demandes de dispositifs médicaux.
 
-Evaluation de la période pratique : à partir de plusieurs préparations réalisées
+ÉVALUATION DE LA PÉRIODE PRATIQUE
 
-Nom et adresse de l'institut de formation :
-
-Nom du candidat :
-
-Prénom du candidat :
-
-Hôpital / Structure d'accueil :
-
-Service :
-
-Dates :
-
-Durée des absences (heures) :
-
-Nom et signature de la personne ayant évalué le candidat :
-
-1. Organisation des opérations de préparation.
-
-Les règles d'hygiène, d'habillage, de déplacement et les modalités gestuelles adaptées à la ZAC sont appliquées |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-L'organisation de l'environnement et la gestion des flux prennent en compte l'hygiène et la sécurité |
-
-0 |
-
-1 |
-
-1 |
-
-2 |
-
-2. Réalisation des opérations de préparation.
-
-La méthode de mesure ou de pesée est choisie en fonction de la nature des matières premières et de la quantité à mesurer |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-Le mode opératoire est suivi |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-Les différents contrôles sur les matières premières et les produits sont réalisés et explicités |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-La conformité de l'équipement et de l'ensemble de l'espace de travail est vérifiée |
-
-0 |
-
-1 |
-
-1 |
-
-2 |
-
-La fiche de fabrication est renseignée et vérifiée |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-La mise en route de l'équipement est réalisée, les réglages sont réalisés et les paramètres de fabrication sont programmés. |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-Les préparations sont correctement étiquetées, enregistrées, orientées et suivies (mise en quarantaine, libération, stockage, livraison dans les services, ...) |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-Les équipements et l'espace de travail sont nettoyés et désinfectés et les déchets sont correctement éliminés |
-
-0 |
-
-1 |
-
-1 |
-
-2 |
-
-3. Contrôles et traitement des écarts.
-
-Toute non-conformité ou anomalie a été identifiée ou anticipée |
-
-0 |
-
-1 |
-
-1 |
-
-2 |
-
-Les opérations de production ont été rectifiées ou les mesures nécessaires ont été prises |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-Total des points : ..... / 40 Total des points sur 20 :
-
-Diplôme préparateur en pharmacie hospitalière
-
-MODULE 5
-
-Compétence : organiser, conduire et mettre en oeuvre les procédés de préparation de médicaments radiopharmaceutiques
-
-La période pratique se déroule au sein de la radiopharmacie de la PUI, d'un service de médecine nucléaire, ou dans un lieu où l'activité de préparation de médicaments radiopharmaceutiques est autorisée.
-
-Durée : 2 semaines.
-
-Evaluation de la période pratique : à partir de différentes préparations et fabrications de médicaments radiopharmaceutiques.
-
-Nom et adresse de l'institut de formation :
-
-Nom du candidat :
-
-Prénom du candidat :
-
-Hôpital / Structure d'accueil :
-
-Service :
-
-Dates :
-
-Durée des absences (heures) :
-
-Nom et signature de la personne ayant évalué le candidat :
-
-1. Réalisation des opérations de préparation de médicaments radiopharmaceutiques.
-
-La tenue est adaptée à la technique et la gestuelle de la ZAC et à l'environnement |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-L'organisation de l'environnement et des flux physiques prend en compte la qualité, l'hygiène et les règles de radioprotection |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-Les différents contrôles sur les matières premières et les produits sont réalisés |
-
-0 |
-
-1 |
-
-1 |
-
-2 |
-
-La conformité de l'équipement et de l'ensemble de l'espace de travail est vérifiée |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-Les documents nécessaires à la préparation sont vérifiés |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-La mise en route de l'équipement est réalisée, les réglages sont réalisés et les paramètres de fabrication sont programmés. |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-Les paramètres de préparation sont vérifiés |
-
-0 |
-
-1 |
-
-1 |
-
-2 |
-
-Le calcul des activités (radioactives) et les opérations de production prennent en compte la prescription, la décroissance radioactive et l'heure d'administration du médicament radiopharmaceutique |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-Les médicaments radiopharmaceutiques préparés sont correctement étiquetés, tracés, et suivis |
-
-0 |
-
-1 |
-
-3 |
-
-5 |
-
-Les déchets sont éliminés selon la décroissance radioactive |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-2. Contrôles et traitement des écarts.
-
-Le contrôle des produits finis est réalisé |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-Les opérations de production ont été rectifiées en fonction du résultat des contrôles. |
-
-0 |
-
-1 |
-
-2 |
-
-3 |
-
-Total des points : ..... / 40 Total des points sur 20 :
-
-Diplôme préparateur en pharmacie hospitalière
-
-MODULE 6
-
-Compétence : organiser, conduire et mettre en oeuvre des procédés de stérilisation des dispositifs médicaux.
-
-La période pratique se déroule en PUI : secteur stérilisation et dans les services en lien avec la stérilisation (équipe opérationnelle d'hygiène, blocs opératoires...)
+La période pratique se déroule en PUI dans le secteur DM et au sein des plateaux médico-techniques (blocs opératoires, explorations fonctionnelles cardiaques...).
 
 Durée : 3 semaines.
 
-Evaluation de la période pratique : à partir de la conduite d'opérations de stérilisation, d'opérations de bionettoyage et des opérations de désinfection.
+Evaluation de la période pratique : à partir de l'analyse de plusieurs prescriptions ou demandes de dispositifs médicaux (2 analyses de DM et 1 analyse de DMI).
 
-Nom et adresse de l'institut de formation :
+Nom du stagiaire : Prénom :
 
-Nom du candidat :
-
-Prénom du candidat :
-
-Hôpital/structure d'accueil :
+Etablissement de santé :
 
 Service :
 
-Dates :
+Dates : Durée des absences (en heures) :
 
-Durée des absences (heures) :
+Positionnement professionnel
 
-Nom et signature de la personne ayant évalué le candidat :
+Curiosité, faculté à développer ses connaissances théoriques et pratiques |
 
-1.- Adaptation de la tenue, la technique et la gestuelle à la zone d'activité et à l'environnement |
+TI |
 
-0 |
+I |
 
-1 |
+B |
 
-2 |
+TB |
 
-3 |
+Capacité d'intégration en milieu professionnel |
 
-2. Réalisation des opérations de stérilisation.
+TI |
 
-Les différents étapes du processus de stérilisation et les résultats attendus sont explicités |
+I |
 
-0 |
+B |
 
-1 |
+TB |
 
-2 |
+Respect des règles de fonctionnement interne |
 
-3 |
+TI |
 
-Le rôle de chaque personne dans l'équipe est explicité, le travail en équipe pluridisciplinaire est efficace |
+I |
 
-0 |
+B |
 
-1 |
+TB |
 
-2 |
+TI : très insuffisant.
 
-3 |
+I : insuffisant.
 
-L'organisation de l'espace de travail, des flux physiques et des activités de l'équipe prend en compte la qualité, l'hygiène et la sécurité |
+B : bien.
 
-0 |
+TB : très bien. |
 
-1 |
+Appréciations au regard de l'évaluation :
 
-2 |
+|
 
-3 |
+NOM |
 
-Les procédures et des modes opératoires sont utilisés |
+QUALIFICATION |
 
-0 |
+SIGNATURE |
 
-1 |
+Tuteur/évaluateur : |
 
-2 |
+|
 
-3 |
+|
+
+|
+
+Cadre/pharmacien : |
+
+|
+
+|
+
+|
+
+Nota. - Une seule grille par UC sera à retourner au centre de formation.
+
+Cachet du service :
+
+Signature du stagiaire :
+
+Pour chacun des critères, entourez précisément la compétence de l'élève :
+
+1. Maîtrise la recevabilité de la demande selon la réglementation et les règles spécifiques aux DM (sur 4 points)
+
+Les mentions obligatoires devant figurer sur la demande sont vérifiées en fonction du type de dispositif |
+
+A |
+
+AC |
+
+NA |
+
+L'objet de la demande et son adéquation avec les choix faits par le COMEDIMS sont vérifiés |
+
+A |
+
+AC |
+
+NA |
+
+Les règles de délivrance spécifiques à certains dispositifs médicaux sont prises en compte |
+
+A |
+
+AC |
+
+NA |
+
+Les urgences sont identifiées et analysées |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+2. Respecte les exigences techniques (sur 10 points)
+
+La date limite d'utilisation des dispositifs est vérifiée |
+
+A |
+
+AC |
+
+NA |
+
+L'intégrité de l'emballage et les conditions de stockage sont vérifiées |
+
+A |
+
+AC |
+
+NA |
+
+La cohérence entre la demande du produit et la nature des activités du service est contrôlée |
+
+A |
+
+AC |
+
+NA |
+
+La cohérence entre la nature du produit, la quantité demandée et le rythme de la délivrance est vérifiée |
+
+A |
+
+AC |
+
+NA |
+
+Des recommandations sur l'utilisation des dispositifs sont citées et expliquées |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+3. Prend en compte la sécurisation du circuit des dispositifs médicaux (sur 6 points)
+
+Les étapes qui concourent à la sécurisation du circuit des DM sont repérées |
+
+A |
+
+AC |
+
+NA |
+
+Les DMI sont identifiés et leur traçabilité est connue |
+
+A |
+
+AC |
+
+NA |
+
+Toute situation nécessitant l'intervention du pharmacien a été repérée |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+Estimation du niveau d'acquisition en tenant compte des critères acquis et non acquis (note sur 20).
+
+Si note supérieure à 16 ou inférieure à 8, à argumenter :
+
+UNITÉ DE COMPÉTENCES 4
+
+Compétence : organiser, conduire et mettre en œuvre les préparations magistrales, hospitalières, les opérations de reconstitution et le conditionnement.
+
+ÉVALUATION DE LA PÉRIODE PRATIQUE
+
+La période pratique se déroule en PUI : la personne en formation devra réaliser différents types de préparations : magistrales, hospitalières, reconstitution d'anticancéreux, nutrition parentérale.
+
+Durée : 3 semaines, dont 2 en reconstitution d'anticancéreux.
+
+Evaluation de la période pratique : à partir de trois préparations réalisées.
+
+Nom du stagiaire : Prénom :
+
+Etablissement de santé :
+
+Service :
+
+Dates : Durée des absences (en heures) :
+
+Positionnement professionnel
+
+Curiosité, faculté à développer ses connaissances théoriques et pratiques |
+
+TI |
+
+I |
+
+B |
+
+TB |
+
+Capacité d'intégration en milieu professionnel |
+
+TI |
+
+I |
+
+B |
+
+TB |
+
+Respect des règles de fonctionnement interne |
+
+TI |
+
+I |
+
+B |
+
+TB |
+
+TI : très insuffisant.
+
+I : insuffisant.
+
+B : bien.
+
+TB : très bien. |
+
+Appréciations au regard de l'évaluation :
+
+|
+
+NOM |
+
+QUALIFICATION |
+
+SIGNATURE |
+
+Tuteur/évaluateur : |
+
+|
+
+|
+
+|
+
+Cadre/pharmacien : |
+
+|
+
+|
+
+|
+
+Nota. - Une seule grille par UC sera à retourner au centre de formation.
+
+Cachet du service :
+
+Signature du stagiaire :
+
+Pour chacun des critères, entourez précisément la compétence de l'élève :
+
+1. Sait organiser les opérations de préparation (sur 4 points)
+
+Les règles d'hygiène, d'habillage, de déplacement et les modalités gestuelles adaptées à chacune des ZAC sont connues et appliquées |
+
+A |
+
+AC |
+
+NA |
+
+Les opérations de nettoyage et de désinfection préalables à la fabrication sont appliquées conformément aux règles de bonnes pratiques hospitalières et aux procédures en vigueur dans le service |
+
+A |
+
+AC |
+
+NA |
+
+Les documents nécessaires à la préparation des médicaments sont connus et consultés |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+2. Maîtrise la réalisation des opérations de préparation (sur 12 points)
+
+La faisabilité de la préparation est vérifiée |
+
+A |
+
+AC |
+
+NA |
+
+La fiche de préparation est renseignée |
+
+A |
+
+AC |
+
+NA |
+
+La méthode de calcul, de mesure ou de pesée est choisie en fonction de la nature des matières premières et de la quantité à utiliser |
+
+A |
+
+AC |
+
+NA |
+
+Les opérations de préparation, reconstitution et/ou conditionnement sont réalisées conformément au mode opératoire |
+
+A |
+
+AC |
+
+NA |
 
 La conformité de l'équipement et de l'ensemble de l'espace de travail est vérifiée |
 
-0 |
+A |
 
-1 |
+AC |
 
-2 |
+NA |
 
-3 |
+La mise en route de l'équipement est réalisée, les réglages sont vérifiés |
 
-Les documents traçant les principales étapes sont renseignés et vérifiés |
+A |
 
-0 |
+AC |
 
-1 |
+NA |
 
-2 |
+Les paramètres de fabrication sont programmés |
 
-4 |
+A |
 
-La mise en route des équipements est réalisée et le choix du cycle est effectué. |
+AC |
 
-0 |
+NA |
 
-1 |
+La fiche de fabrication est validée |
 
-2 |
+A |
 
-4 |
+AC |
 
-Les paramètres et les réglages des équipements sont vérifiés |
+NA |
 
-0 |
+Les préparations sont étiquetées selon la réglementation, enregistrées et tracées (mise en quarantaine, libération, stockage, livraison dans les services...) |
 
-1 |
+A |
 
-2 |
+AC |
 
-3 |
+NA |
 
-Les produits stérilisés sont correctement étiquetés, suivis et orientés |
+Les équipements et l'espace de travail sont nettoyés et désinfectés |
 
-0 |
+A |
 
-1 |
+AC |
 
-2 |
+NA |
 
-4 |
+Les déchets sont correctement éliminés selon la filière |
 
-3. Contrôles et traitement des écarts.
+A |
 
-Les contrôles sur les équipements, les paramètres de stérilisation et les produits stérilisés sont réalisés |
+AC |
 
-0 |
+NA |
 
-1 |
+Les risques spécifiques (chimiques et bactériologiques) de certaines manipulations sont maîrisés |
 
-2 |
+A |
 
-3 |
+AC |
 
-Les résultats des contrôles ont été analysés et les mesures correctrices ont été prises |
+NA |
 
-0 |
+NA : non acquis.
 
-1 |
+AC : à consolider.
 
-2 |
+A : acquis. |
 
-4 |
+3. Contrôle, évalue et traite les écarts (sur 4 points)
 
-Total des points : ..... / 40 Total des points sur 20 :
+Les méthodes de contrôle adaptées aux préparations magistrales et hospitalières sont connues et appliquées |
 
-Diplôme préparateur en pharmacie hospitalière
+A |
 
-MODULE 7
+AC |
 
-Compétence : gérer des flux et des stocks de médicaments et de dispositifs médicaux dans l'environnement institutionnel et réglementaire
+NA |
+
+Toute non-conformité ou anomalie a été identifiée ou anticipée et signalée |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+Estimation du niveau d'acquisition en tenant compte des critères acquis et non acquis (note sur 20).
+
+Si note supérieure à 16 ou inférieure à 8, à argumenter :
+
+UNITÉ DE COMPÉTENCES 5
+
+Compétence : organiser, conduire et mettre en œuvre les procédés de préparation de médicaments radiopharmaceutiques.
+
+ÉVALUATION DE LA PÉRIODE PRATIQUE
+
+La période pratique se déroule au sein de la radiopharmacie de la PUI ou dans un lieu où l'activité de préparation de médicaments radiopharmaceutiques est autorisée.
+
+Durée : 2 semaines.
+
+Evaluation de la période pratique : à partir des observations de la préparation de médicaments radiopharmaceutiques et d'une mise en situation de la réalisation d'une préparation.
+
+Nom du stagiaire : Prénom :
+
+Etablissement de santé :
+
+Service :
+
+Dates : Durée des absences (en heures) :
+
+Positionnement professionnel
+
+Curiosité, faculté à développer ses connaissances théoriques et pratiques |
+
+TI |
+
+I |
+
+B |
+
+TB |
+
+Capacité d'intégration en milieu professionnel |
+
+TI |
+
+I |
+
+B |
+
+TB |
+
+Respect des règles de fonctionnement interne |
+
+TI |
+
+I |
+
+B |
+
+TB |
+
+TI : très insuffisant.
+
+I : insuffisant.
+
+B : bien.
+
+TB : très bien. |
+
+Appréciations au regard de l'évaluation :
+
+|
+
+NOM |
+
+SIGNATURE |
+
+CACHET
+
+du service |
+
+Radiopharmacien évaluateur : |
+
+|
+
+|
+
+|
+
+Nota. - Une seule grille par UC sera à retourner au centre de formation.
+
+Signature du stagiaire :
+
+Pour chacun des critères, entourez précisément la compétence de l'élève :
+
+1. Connaît l'ensemble des étapes de préparation de médicaments radiopharmaceutiques (MRP) (sur 16 points)
+
+L'adaptation de la tenue, de l'équipement et le respect des règles d'hygiène et de radioprotection sont assimilés |
+
+A |
+
+AC |
+
+NA |
+
+Le circuit des MRP (gestion, approvisionnement, réception, traçabilité, préparation, contrôle, conditionnement en seringue et délivrance) et ses spécificités sont explicités |
+
+A |
+
+AC |
+
+NA |
+
+L'application des principes fondamentaux de radioprotection (utilisation de matériels de radioprotection, de détecteurs...) et la gestion d'un incident de contamination sont explicitées |
+
+A |
+
+AC |
+
+NA |
+
+Le fonctionnement du générateur de 99Mo/99mTc est assimilé et son élution est réalisée |
+
+A |
+
+AC |
+
+NA |
+
+La réalisation d'une préparation technétiée est réalisée, de la préparation jusqu'à l'étiquetage, dans le respect des principes d'hygiène et de radioprotection. Les caractéristiques et le rôle des différents constituants sont explicités |
+
+A |
+
+AC |
+
+NA |
+
+Le calcul des activités (radioactives), en tenant compte de la prescription, de la décroissance et de l'heure d'administration du médicament radiopharmaceutique, et l'utilisation de l'activimètre sont maîtrisés |
+
+A |
+
+AC |
+
+NA |
+
+Tous les documents en lien avec la préparation des médicaments radiopharmaceutiques sont connus et consultés (BPP, RCP des produits, documents qualités et registres réglementaires internes au service...) |
+
+A |
+
+AC |
+
+NA |
+
+Les différentes étapes de gestion des déchets produits, y compris des déchets radioactifs (tri, conditionnement, décroissance, élimination, traçabilité), sont réalisées |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+2. Connaît les contrôles et détecte les écarts (sur 4 points)
+
+Les contrôles de qualité d'une préparation radiopharmaceutique sont réalisés |
+
+A |
+
+AC |
+
+NA |
+
+Les anomalies et leur degré de gravité sont détectés, les mesures à prendre sont identifiées et les informations sont transmises |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+Estimation du niveau d'acquisition en tenant compte des critères acquis et non acquis (note sur 20).
+
+Si note supérieure à 16 ou inférieure à 8, à argumenter :
+
+UNITÉ DE COMPÉTENCES 6
+
+Compétence : organiser, conduire et mettre en œuvre des procédés de stérilisation des dispositifs médicaux.
+
+ÉVALUATION DE LA PÉRIODE PRATIQUE
+
+La période pratique se déroule en PUI : secteur stérilisation et dans les services en lien avec la stérilisation (équipe opérationnelle d'hygiène, blocs opératoires...).
+
+Durée : 3 semaines.
+
+Evaluation de la période pratique : à partir de la conduite d'opérations de stérilisation, d'opérations de bionettoyage et des opérations de désinfection (mise en situation d'une opération de lavage, de conditionnement, de chargement d'autoclave).
+
+Nom du stagiaire : Prénom :
+
+Etablissement de santé :
+
+Service :
+
+Dates : Durée des absences (en heures) :
+
+Positionnement professionnel
+
+Curiosité, faculté à développer ses connaissances théoriques et pratiques |
+
+TI |
+
+I |
+
+B |
+
+TB |
+
+Capacité d'intégration en milieu professionnel |
+
+TI |
+
+I |
+
+B |
+
+TB |
+
+Respect des règles de fonctionnement interne |
+
+TI |
+
+I |
+
+B |
+
+TB |
+
+TI : très insuffisant.
+
+I : insuffisant.
+
+B : bien.
+
+TB : très bien. |
+
+Appréciations au regard de l'évaluation :
+
+|
+
+NOM |
+
+QUALIFICATION |
+
+SIGNATURE |
+
+Evaluateur : |
+
+|
+
+|
+
+|
+
+Cadre/pharmacien : |
+
+|
+
+|
+
+|
+
+Nota. - Une seule grille par UC sera à retourner au centre de formation.
+
+Cachet du service :
+
+Signature du stagiaire :
+
+Pour chacun des critères, entourez précisément la compétence de l'élève :
+
+1. Sait adapter sa tenue et sa gestuelle à la zone d'activité et à l'environnement (sur 2 points)
+
+Les règles d'hygiène, l'habillage et le matériel de protection sont utilisés à bon escient |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+2. A assimilé la réalisation des opérations de stérilisation (sur 10 points)
+
+Les objectifs des différentes étapes du processus de stérilisation et des résultats attendus sont connus et assimilés |
+
+A |
+
+AC |
+
+NA |
+
+Les missions et le rôle des personnels qui interviennent en stérilisation sont connus sur chaque poste de travail |
+
+A |
+
+AC |
+
+NA |
+
+L'organisation des zones de travail, le respect des flux physiques et de l'instrumentation sont explicités |
+
+A |
+
+AC |
+
+NA |
+
+La réception, le tri et le lavage de l'instrumentation sont maîtrisés |
+
+A |
+
+AC |
+
+NA |
+
+Les étapes de recomposition et de reconditionnement à partir des supports adaptés sont assimilées |
+
+A |
+
+AC |
+
+NA |
+
+Les tests préalables, la mise en route des équipements et le choix du cycle (laveur-désinfecteur, soudeuse, autoclave) sont connus |
+
+A |
+
+AC |
+
+NA |
+
+Les paramètres des cycles laveur-désinfecteur autoclave sont vérifiés |
+
+A |
+
+AC |
+
+NA |
+
+Les conditions de manipulation, de stockage et de transport des produits stérilisés sont assimilées |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+3. Tient compte du système qualité, contrôle et signale les écarts (sur 8 points)
+
+Le contrôle des procédés mis en œuvre (lavage, conditionnement, stérilisation), la vérification du produit en cours de process (lavage, conditionnement) et le contrôle du produit fini (intégrité de l'emballage, étiquetage) sont effectués |
+
+A |
+
+AC |
+
+NA |
+
+Les procédures et les modes opératoires sont connus et utilisés |
+
+A |
+
+AC |
+
+NA |
+
+La traçabilité des opérations à chaque étape du processus de stérilisation est assimilée et réalisée sur les documents ou outils adaptés |
+
+A |
+
+AC |
+
+NA |
+
+Les non-conformités sont signalées et la mise en place d'actions correctives est explicitée |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+Estimation du niveau d'acquisition en tenant compte des critères acquis et non acquis (note sur 20).
+
+Si note supérieure à 16 ou inférieure à 8, à argumenter :
+
+UNITÉ DE COMPÉTENCES 7
+
+Compétence : gérer des flux et des stocks de médicaments et de dispositifs médicaux dans l'environnement institutionnel et réglementaire.
+
+ÉVALUATION DE LA PÉRIODE PRATIQUE
 
 La période pratique se déroule en PUI.
 
 Durée : 2 semaines.
 
-Evaluation de la période pratique :
+Evaluation de la période pratique : à partir de la réalisation d'opérations de suivi des stocks, d'approvisionnement des unités de soins, de passation de commandes, de gestion des livraisons...
 
-Nom et adresse de l'institut de formation :
+Nom du stagiaire : Prénom :
 
-Nom du candidat :
-
-Prénom du candidat :
-
-Hôpital/structure d'accueil :
+Etablissement de santé :
 
 Service :
 
-Dates :
+Dates : Durée des absences (en heures) :
 
-Durée des absences (heures) :
+Positionnement professionnel
 
-Nom et signature de la personne ayant évalué le candidat :
+Curiosité, faculté à développer ses connaissances théoriques et pratiques |
 
-1. Gestion des flux et des stocks de médicaments et DMS :
+TI |
 
-L'état des stocks est suivi en appliquant les règles d'approvisionnement, de gestion des stocks, de distribution, de comptabilité hospitalière et de suivi budgétaire |
+I |
 
-0 |
+B |
 
-1 |
+TB |
 
-2 |
+Capacité d'intégration en milieu professionnel |
 
-3 |
+TI |
 
-Les quantités à commander et à délivrer sont calculées en fonction des demandes |
+I |
 
-0 |
+B |
 
-1 |
+TB |
 
-2 |
+Respect des règles de fonctionnement interne |
 
-3 |
+TI |
 
-Les différentes produits de santé stockés sont contrôlés selon les conditions particulières de stockage |
+I |
 
-0 |
+B |
 
-1 |
+TB |
 
-1 |
+TI : très insuffisant.
 
-2 |
+I : insuffisant.
 
-Les dates limites d'utilisation et l'intégrité des emballages sont vérifiés |
+B : bien.
 
-0 |
+TB : très bien. |
 
-1 |
+Appréciations au regard de l'évaluation :
 
-2 |
+|
 
-3 |
+NOM |
 
-Les différents produits de santé sont triés, orientés et étiquetés conformément aux règles spécifiques |
+QUALIFICATION |
 
-0 |
+SIGNATURE |
 
-1 |
+Tuteur/évaluateur : |
 
-2 |
+|
 
-3 |
+|
 
-2. Contrôles et traitement des écarts.
+|
 
-Toute non-conformité ou anomalie dans la gestion des flux et des stocks a été identifiée ou anticipée. Les vérifications nécessaires ont été réalisés en cas de non-conformité. |
+Cadre/pharmacien : |
 
-0 |
+|
 
-1 |
+|
 
-2 |
+|
 
-3 |
+Nota. - Une seule grille par UC sera à retourner au centre de formation.
 
-Les mesures correctives nécessaires ont été prises |
+Cachet du service :
 
-0 |
+Signature du stagiaire :
 
-1 |
+Pour chacun des critères, entourez précisément la compétence de l'élève :
 
-2 |
+1. Sait gérer des flux et des stocks de médicaments et DMS (sur 16 points)
 
-3 |
+La gestion des commandes de produits de santé (médicaments, DM) est réalisée selon le code des marchés publics, la réglementation en vigueur et les décisions du COMEDIMS |
 
-Total des points sur 20 :
+A |
+
+AC |
+
+NA |
+
+Les quantités à commander sont calculées en fonction des demandes, des dotations, de l'état des stocks, du taux de rotation et des besoins exceptionnels exprimés |
+
+A |
+
+AC |
+
+NA |
+
+Les règles de la comptabilité hospitalière et du suivi budgétaire sont appliquées |
+
+A |
+
+AC |
+
+NA |
+
+Les opérations de gestion prennent en compte l'aspect pharmaco-économique |
+
+A |
+
+AC |
+
+NA |
+
+Les différents produits de santé sont réceptionnés, contrôlés, orientés, étiquetés et rangés selon les règles de stockage en vigueur |
+
+A |
+
+AC |
+
+NA |
+
+Les dates limites d'utilisation et l'intégrité des emballages sont vérifiées |
+
+A |
+
+AC |
+
+NA |
+
+La gestion des médicaments stupéfiant (ATU, MDS, T2A, antidotes, médicaments thermosensibles, produits essais cliniques, gaz médicaux) est réalisée selon la réglementation |
+
+A |
+
+AC |
+
+NA |
+
+La gestion des retours de médicaments et DM est réalisée ainsi que les inventaires et les périmés |
+
+A |
+
+AC |
+
+NA |
+
+L'outil informatique est utilisé pour la gestion des flux pharmaceutiques et la recherche d'informations |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+2. Contrôle, évalue et traite les écarts (sur 4 points)
+
+Toute non-conformité ou anomalie dans la gestion des flux et des stocks a été identifiée ou anticipée. Les vérifications nécessaires ont été réalisées en cas de non-conformité |
+
+A |
+
+AC |
+
+NA |
+
+Les mesures correctives nécessaires ont été expliquées et prises en compte |
+
+A |
+
+AC |
+
+NA |
+
+NA : non acquis.
+
+AC : à consolider.
+
+A : acquis. |
+
+Estimation du niveau d'acquisition en tenant compte des critères acquis et non acquis (note sur 20).
+
+Si note supérieure à 16 ou inférieure à 8, à argumenter :
