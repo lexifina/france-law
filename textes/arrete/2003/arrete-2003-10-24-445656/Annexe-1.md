@@ -620,6 +620,48 @@ CAT900
 
 |
 
+Gommier bleu |
+
+Eucalyptus globulus Labill
+
+|
+
+EGL700 - région méditerranéenne |
+
+EGL700
+
+|
+
+|
+
+|
+
+EGL800 - Corse |
+
+EGL800 |
+
+Gommier à cidre |
+
+Eucalyptus gunnii Hook.f
+
+|
+
+EGU311 - Grand Ouest |
+
+EGU311
+
+|
+
+|
+
+|
+
+EGU700 - Région méditerranéenne |
+
+EGU700
+
+|
+
 Hétre.
 
 |
@@ -2452,8 +2494,6 @@ NOTA :
 
 A l'article 1er de l'arrêté du 16 novembre 2010 modifiant l'arrêté du 24 octobre 2003, au lieu de "Pinus nigra Arn. ssp nigricans Host" lire "Pinus nigra Arn. ssp clusiana Clem" : la région de provenance "PCL-901, région méditerranéenne" est supprimée".
 
-Arrêté du 16 novembe 2012 : Nota. ― L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt :
-
-http://agriculture.gouv.fr/Presentation-de-la-reglementation.
+Arrêté du 9 avril 2014 : L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt à l'adresse : http://agriculture.gouv.fr/Fournisseurs-especes-et-provenances-forestieres.
 
 Une copie de l'annexe peut également être demandée par courrier adressé à la direction générale des politiques agricole, agroalimentaire et des territoires, service de la forêt, de la ruralité et du cheval, sous-direction de la forêt et du bois, bureau des investissements forestiers, 19, avenue du Maine, 75732 Paris Cedex 15.
