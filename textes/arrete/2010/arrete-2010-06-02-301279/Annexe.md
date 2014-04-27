@@ -72,7 +72,7 @@ Bachiller de humanidades y ciencias sociales.
 
 Baccalauréat série littéraire.
 
-Spécialités (via) : mathématiques, langues et cultures anciennes : latin, langues et cultures anciennes : grec, histoire des arts, langue vivante 1 ou 2 approfondie, langue vivante 3, droit et grands enjeux du monde contemporain.
+Spécialités (via) : mathématiques, langues et cultures de l'Antiquité : latin, langues et cultures de l'Antiquité : grec, histoire des arts, langue vivante 1 ou 2 approfondie, langue vivante 3, droit et grands enjeux du monde contemporain.
 
 |
 
