@@ -2,13 +2,9 @@
 
 INSTALLATIONS PRODUISANT EXCLUSIVEMENT DE L'ÉLECTRICITÉ ET NE RECEVANT AUCUN QUOTA GRATUIT
 
-IDENTIFIANT
+IDENTIFIANT |
 
-|
-
-NOM DE L'EXPLOITANT
-
-|
+NOM DE L'EXPLOITANT |
 
 NOM DE L'INSTALLATION
 
@@ -74,30 +70,6 @@ EDF ― Site de Production Thermique EDF de BLENOD
 
 |
 
-FR000000000000488
-
-|
-
-UEM
-
-|
-
-UEM
-
-|
-
-FR000000000000489
-
-|
-
-Electricité de France
-
-|
-
-EDF Centrale de Richemont
-
-|
-
 FR000000000000522
 
 |
@@ -107,18 +79,6 @@ EDF
 |
 
 Centrale EDF de la Maxe
-
-|
-
-FR000000000000526
-
-|
-
-REGIE MUNICIPALE D'ELECTRICITE DE CREUTZWALD
-
-|
-
-Régie municipale d'électricité Energie et Services
 
 |
 
@@ -203,6 +163,16 @@ Electricité de France
 |
 
 EDF ― CETAC Site Gennevilliers
+
+|
+
+FR000000000000791 |
+
+Electricité de France
+
+|
+
+EDF Centrale d'ARAMON
 
 |
 
@@ -414,13 +384,9 @@ FR000000000001116
 
 |
 
-EDF PEI
+EDF Production électrique insulaire SAS |
 
-|
-
-EDF BELLEFONTAINE
-
-|
+EDF Production électrique insulaire SAS - Etablissement de Bellefontaine |
 
 FR000000000001133
 
@@ -599,5 +565,25 @@ GLOBAL SWITCH
 |
 
 GLOBAL SWITCH
+
+|
+
+FR-new-40000003 |
+
+Electricité de Mayotte
+
+|
+
+EDM Centrale de Badamiers
+
+|
+
+FR-new-40000024 |
+
+Electricité de Mayotte
+
+|
+
+EDM Centrale de Longoni
 
 |
