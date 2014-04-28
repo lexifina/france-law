@@ -632,11 +632,11 @@ FR000000000000021
 
 |
 
-ATEMAX NORD EST
+ATEMAX France
 
 |
 
-ATEMAX NORD EST
+ATEMAX France
 
 |
 
@@ -1112,11 +1112,11 @@ FR000000000000034
 
 |
 
-ArcelorMittal Atlantique & Lorraine
+ArcelorMittal Atlantique et Lorraine - Site de Montataire
 
 |
 
-ArcelorMittal Atlantique & Lorraine MONTATAIRE 60761
+ArcelorMittal Atlantique et Lorraine - Site de Montataire
 
 |
 
@@ -1496,11 +1496,11 @@ FR000000000000047
 
 |
 
-Dalkia France
+VILLE D'AMIENS
 
 |
 
-Chaufferie Opac Nord Le Pigeonnier
+Chaufferie Opac Nord "Le Pigeonnier"
 
 |
 
@@ -2088,31 +2088,31 @@ Creil Energie, chaufferie de la ZUP Les Martinets
 
 |
 
-3 214
+0
 
 |
 
-2 813
+0
 
 |
 
-2 425
+0
 
 |
 
-2 050
+0
 
 |
 
-1 686
+0
 
 |
 
-1 335
+0
 
 |
 
-21 206
+7 683
 
 |
 
@@ -4904,11 +4904,11 @@ FR000000000000139
 
 |
 
-INDUSTEEL France SITE DU CREUSOT
+Industeel France - Site du Creusot
 
 |
 
-INDUSTEEL France - site du CREUSOT (71201)
+Industeel France - Site du Creusot
 
 |
 
@@ -5336,11 +5336,11 @@ FR000000000000151
 
 |
 
-SOCCRAM
+SODIEN
 
 |
 
-SOCCRAM Chaufferie urbaine de CHENOVE
+SODIEN chaufferie urbaine de Chenove
 
 |
 
@@ -5448,31 +5448,31 @@ Lafarge Ciments - usine de Frangey
 
 |
 
-180 915
+0
 
 |
 
-177 587
+0
 
 |
 
-174 222
+0
 
 |
 
-170 825
+0
 
 |
 
-167 385
+0
 
 |
 
-163 933
+0
 
 |
 
-1 406 543
+371 676
 
 |
 
@@ -6260,35 +6260,35 @@ PEUGEOT CITROEN RENNES SNC
 
 |
 
-33 035
+18 773
 
 |
 
-29 261
+16 628
 
 |
 
-25 600
+14 548
 
 |
 
-22 054
+12 533
 
 |
 
-18 621
+10 582
 
 |
 
-15 301
+8 695
 
 |
 
-12 105
+6 879
 
 |
 
-192 890
+125 551
 
 |
 
@@ -7176,31 +7176,31 @@ BILTUBE EUROPE LIMITED
 
 |
 
-6 156
+0
 
 |
 
-6 034
+0
 
 |
 
-5 910
+0
 
 |
 
-5 786
+0
 
 |
 
-5 659
+0
 
 |
 
-5 534
+0
 
 |
 
-47 755
+12 676
 
 |
 
@@ -11720,11 +11720,11 @@ FR000000000000316
 
 |
 
-Gemdoubs
+GEMDOUBS
 
 |
 
-Gemdoubs
+GEMDOUBS à Novillars
 
 |
 
@@ -12104,11 +12104,11 @@ FR000000000000326
 
 |
 
-PARISOT MEUBLES
+PARISOT SAS
 
 |
 
-PARISOT MEUBLES
+PARISOT SAS
 
 |
 

@@ -856,11 +856,9 @@ FR-new-05201765
 
 |
 
-SOLEVAL SUD-OUEST
+SOLEVAL France |
 
-|
-
-SOLEVAL SUD-OUEST
+SOLEVAL FRANCE
 
 |
 
@@ -1496,31 +1494,31 @@ SCA de LAMOUTHE
 
 |
 
-730
+0
 
 |
 
-639
+0
 
 |
 
-550
+0
 
 |
 
-465
+0
 
 |
 
-381
+0
 
 |
 
-302
+0
 
 |
 
-4 812
+1 745
 
 |
 
@@ -2004,7 +2002,7 @@ ISOROY AUXERRE
 
 |
 
-FR-new-05401059
+FR-new-25300038
 
 |
 
@@ -2152,11 +2150,11 @@ FR-new-05401357
 
 |
 
-Valti SAS Montbard
+VALLOUREC BEARING TUBES
 
 |
 
-Valti SAS Montbard
+VALLOUREC BEARING TUBES
 
 |
 
@@ -2872,13 +2870,11 @@ FR-new-05602388
 
 |
 
-ECHANGEUR LYON
+COLAS RHÔNE-ALPES AUVERGNE
 
 |
 
-TSM 25 SCREG SUD-EST
-
-|
+COLAS RHÔNE-ALPES AUVERGNE (POSTE ASTEC) |
 
 1 578
 
@@ -4600,13 +4596,11 @@ FR-new-05900536
 
 |
 
-ARMSTRONG WORLD INDUSTRIES
-
-|
-
 ARMSTRONG BUILDING PRODUCTS SAS
 
 |
+
+ARMSTRONG BUILDING PRODUCTS SAS |
 
 42 769
 
@@ -6328,11 +6322,9 @@ FR-new-06105225
 
 |
 
-Jean-Franck FRAOLINI
+ADISSEO France SAS |
 
-|
-
-ADISSEO
+ADISSEO (Amont méthionine)
 
 |
 
@@ -6568,13 +6560,11 @@ Fr-new-06111198
 
 |
 
-SACER Sud-Est
+COLAS RHÔNE-ALPES AUVERGNE
 
 |
 
-SACER Sud-Est
-
-|
+COLAS RHÔNE-ALPES AUVERGNE (POSTE TSM25) |
 
 1 228
 
@@ -6724,49 +6714,39 @@ Saint-Gobain PAM - usine de Foug
 
 |
 
-23 060
+36 765 |
+
+36 107
 
 |
 
-22 647
+35 443
 
 |
 
-22 231
+34 771
 
 |
 
-21 809
+34 093
 
 |
 
-21 385
+33 407
 
 |
 
-20 954
+32 718 |
 
-|
-
-20 522
-
-|
-
-176 076
-
-|
+266 772 |
 
 FR-new-06200776
 
 |
 
-ARCELOR MITTAL
+ArcelorMittal Construction France - Site de Contrisson 1 |
 
-|
-
-ARCELOR MITTAL
-
-|
+ArcelorMittal Construction France - Site de Contrisson 1 |
 
 12 057
 
@@ -7192,11 +7172,9 @@ FR-new-06207805
 
 |
 
-EUROVIA LORRAINE
+MONDELANGE INDUSTRIES |
 
-|
-
-MONDELANGE
+MONDELANGE INDUSTRIES
 
 |
 
@@ -7240,11 +7218,11 @@ FR-new-06208919
 
 |
 
-SCREG EST
+COLAS EST
 
 |
 
-SCREG EST - poste mobile TSM25XLM-R n° 2
+COLAS EST - Poste mobile TSM25XLM-R n° 2
 
 |
 
@@ -11476,37 +11454,33 @@ Société européenne de véhicules légers du Nord
 
 |
 
-14 619
+26 086
 
 |
 
-12 949
+23 106
 
 |
 
-11 329
+20 216
 
 |
 
-9 760
+17 416
 
 |
 
-8 241
+14 705
 
 |
 
-6 772
+12 084 |
+
+9 560
 
 |
 
-5 358
-
-|
-
-85 364
-
-|
+139 509 |
 
 FR-new-07001067
 
@@ -12280,11 +12254,11 @@ FR-new-10000513
 
 |
 
-France CERAM
+AREA France CERAM
 
 |
 
-CHATEAUROUX CERAMICS
+AREA France CERAM
 
 |
 
@@ -12292,37 +12266,33 @@ CHATEAUROUX CERAMICS
 
 |
 
-12 959
+11 100
 
 |
 
-12 728
+10 901
 
 |
 
-12 492
+10 700
 
 |
 
-12 255
+10 497 |
+
+10 292
 
 |
 
-12 017
+10 085
 
 |
 
-11 774
+9 878
 
 |
 
-11 533
-
-|
-
-98 946
-
-|
+86 641 |
 
 FR-new-10000681
 
@@ -12804,9 +12774,7 @@ CREUSOT FORGE
 
 |
 
-FR-new-25300038
-
-|
+FR-new-05401059 |
 
 COOPERATIVE BOURGOGNE DU SUD
 
@@ -13043,3 +13011,51 @@ SIFDDA BRETAGNE, site de Guer
 50 700
 
 |
+
+FR-new-10010029 |
+
+ICT France |
+
+ICT France |
+
+17 220 |
+
+16 920 |
+
+16 621 |
+
+16 321 |
+
+16 021 |
+
+15 722 |
+
+15 422 |
+
+15 123 |
+
+129 370 |
+
+FR-new-06301486 |
+
+CODEMA |
+
+CODEMA |
+
+10 278 |
+
+9 197 |
+
+8 148 |
+
+7 132 |
+
+6 147 |
+
+5 195 |
+
+4 273 |
+
+3 385 |
+
+53 755 |

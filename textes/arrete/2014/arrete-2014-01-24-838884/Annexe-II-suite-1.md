@@ -4,11 +4,11 @@ IDENTIFIANT
 
 |
 
-NOM DE L'EXPOITANT
+NOM DE L'EXPLOITANT
 
 |
 
-NOM DE L'INSTALLATION
+NOM DE L'INTALLATION
 
 |
 
@@ -1096,13 +1096,11 @@ FR000000000000405
 
 |
 
-SOCIETE D'EXPLOITATION DU CHAUFFAGE URBAIN DE MONTREYNAUD (SECUM)
+STELVIA
 
 |
 
-SECUM-Chaufferie MONTREYNAUD
-
-|
+Chaufferie urbaine du quartier de Montreynaud |
 
 5 471
 
@@ -2920,7 +2918,7 @@ FR000000000000454
 
 |
 
-COFELY GDF SUEZ
+Centrale de cogénération Solvay Energy Services - Site de Solvay Dombasle
 
 |
 
@@ -3316,35 +3314,29 @@ Saint-Gobain PAM usine de Pont-à-Mousson
 
 |
 
-527 605
+904 243
 
 |
 
-518 168
+888 071 |
+
+871 731
 
 |
 
-508 633
+855 215 |
+
+838 539
 
 |
 
-498 998
+821 654
 
 |
 
-489 268
+804 711 |
 
-|
-
-479 416
-
-|
-
-469 530
-
-|
-
-4 028 549
+6 521 095
 
 |
 
@@ -3788,7 +3780,7 @@ COFELY GDF SUEZ
 
 |
 
-COFELY - CHAUFFERIE DU HOLWEG - Forbach
+COFELY -chaufferie du Holweg -Forbach
 
 |
 
@@ -3796,35 +3788,29 @@ COFELY - CHAUFFERIE DU HOLWEG - Forbach
 
 |
 
-15 317
+7 659
 
 |
 
-13 567
+6 784 |
+
+5 935 |
+
+5 113
 
 |
 
-11 870
+4 317
 
 |
 
-10 226
+3 548 |
+
+2 806
 
 |
 
-8 634
-
-|
-
-7 095
-
-|
-
-5 612
-
-|
-
-89 436
+53 277
 
 |
 
@@ -3976,13 +3962,11 @@ FR000000000000485
 
 |
 
-Thierry RENAUDIN
+ArcelorMittal Atlantique et Lorraine - Site de Florange
 
 |
 
-Arcelor Mittal Florange
-
-|
+ArcelorMittal Atlantique et Lorraine - Site de Florange |
 
 569 761
 
@@ -5468,45 +5452,37 @@ TOTAL PETROCHEMICALS France
 
 |
 
-TOTAL PETROCHEMICALS France - usine de Carling Saint-Avold
+TOTAL PETROCHEMICALS France - Usine de Carling Saint-Avold
 
 |
 
-434 000
+450 334
 
 |
 
-426 462
+442
+
+512
 
 |
 
-418 834
+434
+
+598
 
 |
 
-411 128
+426 602 |
 
-|
+418 467 |
 
-403 339
+410 358 |
 
-|
+402 095 |
 
-395 474
+393 804 |
 
-|
-
-387 512
-
-|
-
-379 520
-
-|
-
-3 256 269
-
-|
+3 378 770 |
 
 FR000000000000529
 
@@ -6472,13 +6448,9 @@ FR000000000000555
 
 |
 
-AMAL - site de Basse-Indre
+ArcelorMittal Atlantique et Lorraine - Site de Basse-Indre |
 
-|
-
-ArcelorMittal Atlantique & Lorraine - site de Basse-Indre
-
-|
+ArcelorMittal Atlantique et Lorraine - Site de Basse-Indre |
 
 33 045
 
@@ -8360,31 +8332,21 @@ GEOMETHANE Stockage souterrain de Manosque
 
 |
 
-2 143
+0
 
 |
 
-1 875
+0 |
 
-|
+0 |
 
-1 615
+0 |
 
-|
+0 |
 
-1 364
+0 |
 
-|
-
-1 121
-
-|
-
-887
-
-|
-
-14 129
+5 124
 
 |
 
@@ -9112,13 +9074,9 @@ FR000000000000628
 
 |
 
-Carlos Espina
+ArcelorMittal Méditerranée - Site de Fos-sur-Mer |
 
-|
-
-Arcelor Mittal Fos-sur-Mer
-
-|
+ArcelorMittal Méditerranée - Site de Fos-sur-Mer |
 
 6 855 188
 
@@ -12464,4 +12422,6 @@ CTFE Bâtiment 5400
 
 |
 
-292 257 |
+292 257
+
+|
