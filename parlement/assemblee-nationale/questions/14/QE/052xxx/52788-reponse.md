@@ -1,0 +1,9 @@
+# Réponse à la question n° 52788
+
+- Question : [52788](52788.md) — Question n° 52788 — Transnistrie; situation politique
+
+## Réponse
+
+*JO du 2014-04-29*
+
+La France soutient tous les efforts en faveur d'un règlement politique du conflit, dans le cadre du format « 5+2 » (les deux parties - Moldavie, région de Transnistrie ; trois médiateurs - OSCE, Russie, Ukraine - et deux observateurs - UE et Etats-Unis-) et dans le respect de la souveraineté et de l'intégrité territoriale de la Moldavie. La prochaine session aura lieu en avril. L'Union européenne contribue à la mise en place de mesures de confiance entre les populations des deux rives du Dniestr, en impliquant notamment les étudiants transnistriens dans des programmes d'échange. La France joue, à ce titre, un rôle particulier au travers de son antenne culturelle au sein de l'université de Tiraspol. Dans ce contexte, le sens de l'action de l'Union européenne, à long terme, repose sur le soutien à l'attractivité de la Moldavie. C'est à ce titre que la France soutient et encourage le processus en cours, dans le cadre du partenariat oriental, de signature de l'accord d'association avec l'UE, comprenant la création d'une zone de libre-échange, approfondi et complet, qui doit intervenir d'ici au mois de juin 2014, ainsi qu'en ont décidé les chefs d'Etat et de gouvernement de l'Union européenne lors du Conseil européen des 20 mars dernier. L'association politique et l'intégration économique que l'Union propose à la Moldavie doit marquer un saut qualitatif majeur dans nos relations et aider la Moldavie à consolider sa souveraineté. Le ministre des Affaires étrangères et du Développement international se rendra à Chisinau le 23 avril avec son homologue allemand, M. Steinmeier. Cette visite permettra de faire passer des messages de solidarité et de soutien à ce pays et de témoigner de l'attention que nous portons à sa stabilité et à sa sécurité.
