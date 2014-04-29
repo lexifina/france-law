@@ -1,0 +1,9 @@
+# Réponse à la question n° 50913
+
+- Question : [50913](50913.md) — Question n° 50913 — assurances; perspectives
+
+## Réponse
+
+*JO du 2014-04-29*
+
+Un groupe de travail sur la gestion des risques, associant les organisations professionnelles agricoles et les compagnies d'assurance, a été mis en place à la demande du ministre chargé de l'agriculture au cours de l'été 2013. Au terme de la première session de réunions, en novembre 2013, le ministre a arrêté trois grandes orientations pour la suite des travaux. La première orientation consiste à appréhender la gestion des risques dans une démarche globale incluant le volet de la prévention des risques. La deuxième orientation concerne l'amélioration des contrats d'assurance en termes de contenu et de prix, avec pour objectif le développement d'un socle minimum pour chaque type de filière et d'exploitation. La troisième orientation vise à apporter des réponses techniques pour accompagner le développement de produits d'assurance pour toutes les filières et garantir les conditions de l'équilibre économique nécessaires au développement de l'assurance à plus large échelle dans un contexte réglementaire en évolution. S'agissant de l'amélioration des contrats d'assurance récolte, les grandes lignes d'un projet de contrat socle ont été présentées le 11 février 2014. Ce contrat propose, dans une logique de type « coup dur », un premier niveau de couverture contre les risques climatiques accessible au plus grand nombre d'agriculteurs. Des réunions ont ensuite été organisées avec les représentants des différentes filières, afin de traiter des adaptations à prévoir au regard des spécificités de chacune d'entre elles. Les travaux se poursuivront au cours des prochaines semaines afin de finaliser le contenu du contrat socle. Conformément au calendrier fixé le 18 novembre 2013 par le ministre chargé de l'agriculture, les résultats du groupe de travail devront être présentés à la fin du 1er semestre 2014.
