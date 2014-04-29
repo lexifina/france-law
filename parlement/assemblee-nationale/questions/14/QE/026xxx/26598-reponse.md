@@ -1,0 +1,9 @@
+# Réponse à la question n° 26598
+
+- Question : [26598](26598.md) — Question n° 26598 — recyclage; statistiques
+
+## Réponse
+
+*JO du 2014-04-29*
+
+Le plan déchets 2009-2012 prévoit une augmentation du recyclage matière et organique des déchets ménagers et assimilés afin d'orienter vers ces filières un taux de 35 % de ces déchets en 2012 et 45 % en 2015. Sur l'ensemble des déchets ménagers et assimilés, 31 % étaient orientés vers le recyclage en 2005, 36 % en 2009 et 37 % en 2010. L'objectif global de 35 % de recyclage des déchets ménagers et assimilés est donc déjà atteint et même dépassé. L'objectif de 50 % de recyclage des déchets des ménages d'ici 2020 fixé par la directive n° 2006/12/CE du Parlement européen et du Conseil du 5 avril 2006 relative aux déchets, nécessite d'orienter vers le recyclage environ 4 millions de tonnes de déchets supplémentaires d'ici 2020. Pour favoriser l'atteinte de cet objectif, de nombreuses mesures gouvernementales sont en cours, parmi lesquelles la mise en place de nouvelles filières de responsabilité élargie du producteur (les déchets dangereux, les meubles et les déchets de soins des patients en auto- traitement), l'obligation de trier et valoriser les biodéchets pour tous les gros producteurs, l'harmonisation des consignes de tri et la mise en place d'une tarification incitative du service public des déchets. Ces actions s'inscrivent dans le projet plus large de favoriser une économie circulaire favorisant la réduction à la source, la réutilisation, le recyclage, la valorisation des déchets. Le développement de l'économie circulaire, mis à l'honneur lors de la Conférence environnementale de septembre 2013, représente en effet un gisement important d'activités et d'emplois non délocalisables, comme en témoignent les filières les plus avancées, telle celle des déchets d'équipements électriques et électroniques (DEEE) par exemple, que le Gouvernement entend conforter dans les territoires.
