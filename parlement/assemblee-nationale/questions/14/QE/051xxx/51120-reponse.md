@@ -1,0 +1,9 @@
+# Réponse à la question n° 51120
+
+- Question : [51120](51120.md) — Question n° 51120 — rapport annuel 2014; conclusions
+
+## Réponse
+
+*JO du 2014-04-29*
+
+Une des recommandations de la Cour des Comptes dans son rapport public annuel 2014 vise à un meilleur encadrement des contrôles effectués par les laboratoires. La Cour préconise notamment une obligation de transmission par les laboratoires des résultats non conformes dès lors que ces non conformités présentent un risque pour la santé publique. Il faut tout d'abord distinguer le cas des autocontrôles défavorables dès lors que le produit n'est pas sorti de chez le professionnel ou lorsqu'il s'agit de produits en cours de fabrication ou de test. Il n'y a alors pas de risque avéré pour la santé publique, le produit n'étant pas mis sur le marché, et il revient au professionnel d'intégrer ces informations dans le cadre de son plan de maîtrise sanitaire. Dans les autres cas, l'article L201-7, alinéas 3 et 4, du code rural et de la pêche maritime (CRPM) dispose que « Les vétérinaires et les laboratoires communiquent immédiatement à l'autorité administrative tout résultat d'analyse conduisant à suspecter ou constater la présence d'un danger sanitaire de première catégorie ou la première apparition sur le territoire national d'un danger sanitaire. Les personnes mentionnées au présent article sont également soumises à un devoir d'information sur les dangers sanitaires de deuxième catégorie qui figurent sur une liste établie par l'autorité administrative... » Ainsi, par exemple, plusieurs sérotypes de salmonelles sont concernés par cette obligation. Par ailleurs, dans le cadre de la transposition de la directive zoonoses, la liste des dangers d'intérêt pour la santé publique dont la notification pourrait être rendue obligatoire est en cours d'élaboration.
