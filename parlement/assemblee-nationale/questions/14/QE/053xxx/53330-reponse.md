@@ -1,0 +1,9 @@
+# Réponse à la question n° 53330
+
+- Question : [53330](53330.md) — Question n° 53330 — rapport annuel 2014; conclusions
+
+## Réponse
+
+*JO du 2014-04-29*
+
+Dès le second semestre de l'année 2013, un processus de refonte des programmes pluriannuels d'activité (PPAS) des sociétés d'aménagement foncier et d'établissement rural (SAFER) a été engagé afin d'en faire de véritables outils de pilotage et de suivi de leurs objectifs d'intervention, tant pour les commissaires du Gouvernement que pour les SAFER elles-mêmes. Un bilan des objectifs des programmes établis par les SAFER au titre de la période 2007-2013 a été réalisé au travers d'une évaluation nationale de ces PPAS. Ce processus s'est conclu par un séminaire de restitution organisé en décembre dernier et réunissant l'ensemble des ministères concernés, les commissaires du Gouvernement et les SAFER. Ce travail a également permis d'identifier les éléments de cadrage national des prochains programmes pluriannuels d'activité. Une récente note de service du ministère de l'agriculture, de l'agroalimentaire et de la forêt du 10 février 2014, est venue préciser, en fonction de grands indicateurs nationaux, les modalités d'élaboration, de mise en oeuvre, de validation des programmes pluriannuels d'activité des SAFER pour la période 2015-2021. Ils feront l'objet d'un suivi annuel sous le contrôle renforcé des commissaires du Gouvernement, avec le cas échéant, une révision de ces documents. Les collectivités territoriales sont d'ores et déjà associées à l'élaboration de ces PPAS, notamment en tant qu'administrateurs au sein du conseil d'administration des SAFER. A cet égard, dans le cadre du projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt actuellement en cours d'examen au Parlement, leur présence va être confortée. En effet, il est prévu que le conseil d'administration des SAFER comprendra trois collèges distincts dont un sera particulièrement dédié aux collectivités territoriales.
