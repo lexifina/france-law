@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120701106
+
+- Question : [SEQ120701106](seq120701106.md) — Situation des entreprises du secteur des énergies renouvelables
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-05-01, page 1034*
+
+La transition énergétique appelle un développement fort des énergies renouvelables. Parmi celles-ci, le développement de l'énergie éolienne terrestre et de l'énergie photovoltaïque participe à l'atteinte de nos objectifs et, pour l'éolien particulièrement, à la réindustrialisation de nos territoires. Le développement de l'éolien terrestre contribue à l'atteinte des objectifs européens de production d'énergie renouvelable. Le Gouvernement y est particulièrement attaché. Des mesures de simplification administrative relatives aux éoliennes terrestres ont donc été proposées par le Gouvernement et adoptées par le Parlement dans le cadre de la loi n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses dispositions sur la tarification de l'eau et sur les éoliennes. Les zones de développement de l'éolien (ZDE), la règle dite des « cinq mâts » et toute limite de puissance conditionnant le bénéfice de l'obligation d'achat ont été supprimées. L'obligation d'achat pour l'éolien terrestre est donc désormais accordée sans condition d'implantation, de limite de puissance et de nombre de machines faisant partie du parc. La simplification des procédures se poursuivra avec la mise en place d'une expérimentation de « permis unique » regroupant les régimes d'autorisation s'appliquant aux éoliennes. Par ailleurs, des mesures d'urgence pour la filière photovoltaïque ont été mises en œuvre, tels que la hausse des volumes cible, la revalorisation de 5 % des tarifs d'achat ISB (intégrés simplifié au bâti), le plafonnement de la baisse annuelle des tarifs à 20 % par an.
