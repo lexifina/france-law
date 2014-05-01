@@ -1,6 +1,8 @@
 # Article Annexe
 
-T A B L E A U A N N E X E
+T A B L E A U
+
+A N N E X E
 
 SECRÉTARIATS GÉNÉRAUX POUR L'ADMINISTRATION DE LA POLICE
 
@@ -58,18 +60,6 @@ Sièges : Angers, Bourges, Brest, Caen, Nantes, Oissel et Orléans
 
 |
 
-Zone de défense de Paris
-
-Sièges : Paris (départements de Paris et de la petite couronne de la région d'Ile-de-France) et Versailles (départements de la grande couronne de la région d'Ile-de-France
-
-|
-
-|
-
-Pour Versailles, siège : Melun
-
-|
-
 Zone de défense sud
 
 Siège : Marseille (départements des régions Corse, Languedoc-Roussillon et Provence-Alpes-Côte d'Azur
@@ -109,3 +99,61 @@ Siège : Toulouse
 Sièges : Bayonne, la Rochelle, Limoges, Tarbes
 
 |
+
+.
+
+SECRETARIATS GENERAUX
+
+Pour l'administration de la police
+
+|
+
+SERVICES
+
+administratifs
+
+|
+
+SERVICES
+
+Techniques
+
+|
+
+ANTENNES LOGISTIQUES
+
+|
+
+ANTENNES
+
+techniques
+
+SIC
+
+|
+
+Zone de défense et de sécurité de Paris
+
+Siège : Paris (départements de la région Ile-de-France)
+
+|
+
+Siège : Versailles
+
+|
+
+Siège : Le Chesnay
+
+|
+
+Sièges : Boissy-l'Aillerie, Chevilly-Larue et Créteil
+
+|
+
+Siège : Melun
+
+|
+
+NOTA :
+
+Arrêté du 6 mars 2014 article 6 2° : Dans les autres zones de défense et de sécurité de métropole, les mentions relatives à la compétence territoriale des secrétariats généraux pour l'administration de la police sont abrogées à compter de la date d'entrée en vigueur de l'arrêté mentionné à l'article 3.
