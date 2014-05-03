@@ -294,6 +294,10 @@ Elle peut également recevoir d'autres cours par correspondance avec l'autorisat
 
 La personne détenue supporte les frais qui en découlent, sauf convention particulière entre l'administration pénitentiaire et l'organisme d'enseignement à distance.
 
+Article 17-1
+
+La consultation des personnes détenues sur les activités qui leur sont proposées, prévue à l'article 29 de la loi du 24 novembre 2009 pénitentiaire, est mise en œuvre dans les conditions fixées aux articles R. 57-9-2-1 à R. 57-9-2-5.
+
 Article 18
 
 L'assistance spirituelle
