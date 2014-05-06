@@ -1,0 +1,9 @@
+# Réponse à la question n° 48186
+
+- Question : [48186](48186.md) — Question n° 48186 — réacteur EPR; vente; surcoût; Finlande
+
+## Réponse
+
+*JO du 2014-05-06*
+
+Le Gouvernement et le Parlement finlandais ont décidé en 2002 la construction d'un cinquième réacteur nucléaire afin d'améliorer la sécurité d'approvisionnement en électricité de ce pays sans avoir recours aux énergies fossiles. Le consortium AREVA NP et SIEMENS PG, présentant le réacteur EPR, a été choisi à l'issue d'un appel d'offres par le groupe électricien finlandais TVO, futur exploitant et opérateur du projet. Le coût de réalisation avait été estimé à 3 milliards d'euros pour une durée de 4 années. Le chantier pour la construction de ce réacteur a débuté en 2005 sur le site d'Olkiluoto. Il a connu depuis lors, différents reports de calendrier ainsi qu'une augmentation des coûts. En effet, l'EPR était le premier réacteur de 3e génération produit dans le monde ainsi que le premier réacteur réalisé par AREVA en tant que maître d'oeuvre. En tant que tête de série, il a nécessité de la part de l'ensemble des opérateurs une importante adaptation de leur mode opératoire. 85 % des travaux de construction étaient réalisés au 31 décembre 2013. Toutefois, le consortium et TVO sont actuellement engagés dans des discussions sur l'actualisation du planning de fin de chantier. La date de divergence du réacteur ainsi que le coût final du chantier pourront être précisés une fois ces discussions terminées. Par ailleurs, le consortium a demandé un arbitrage auprès de la Chambre de commerce international au titre des retards et des surcoûts subis dans le cadre de l'exécution du contrat. Il permettra, sauf accord amiable, de déterminer la responsabilité de chaque partie. Le consortium a ainsi émis deux réclamations pour un montant total de 2,7 milliards d'euros alors que TVO a émis une réclamation pour un montant proche de 1,8 milliard d'euros.
