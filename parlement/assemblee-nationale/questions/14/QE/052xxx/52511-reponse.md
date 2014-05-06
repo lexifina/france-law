@@ -1,0 +1,9 @@
+# Réponse à la question n° 52511
+
+- Question : [52511](52511.md) — Question n° 52511 — surfaces d'intérêt écologique; utilisation pesticides et fertilisants
+
+## Réponse
+
+*JO du 2014-05-06*
+
+Les négociations sur la politique agricole commune (PAC) post-2013 sont désormais achevées à l'échelle communautaire. Suite à l'accord politique obtenu entre les institutions européennes le 26 juin 2013, les règlements ont été adoptés par le Conseil et le Parlement européen le 17 décembre 2013. Le règlement relatif aux paiements directs prévoit un nouveau régime de soutien, l'aide au verdissement, qui est attribuée selon le respect de trois critères : diversité des assolements, maintien des prairies permanentes et présence de surfaces d'intérêt écologique (SIE). Concernant ce dernier critère, l'exploitant agricole doit s'assurer à partir de 2015 que les SIE représentent au moins 5 % de sa surface arable. Les SIE présentes hors des terres arables, comme par exemple les SIE sur prairies permanentes, ne sont pas prises en compte pour le respect du critère. L'intégralité des surfaces déclarées en tant que SIE sont contrôlées administrativement sur la base du dossier de demande d'aides déposé par l'agriculteur. Il n'est pas possible dans ce cadre d'imposer des pratiques agronomiques, telles que la non-utilisation de produits phytopharmaceutiques ou d'engrais, car ces pratiques ne pourraient pas être contrôlées administrativement. La version initiale de l'acte délégué pris en application du règlement « paiements directs » prévoyait de limiter l'utilisation des produits phytosanitaires et d'engrais sur les surfaces portant des cultures fixant l'azote, déclarées en tant que SIE. La version finale de l'acte délégué substitue cette limitation liée à des pratiques par l'établissement, par l'État membre, d'une liste de cultures fixant l'azote et contribuant à améliorer la biodiversité. Cette liste reste à définir au titre de la mise en oeuvre nationale.
