@@ -1,0 +1,9 @@
+# Réponse à la question n° 43931
+
+- Question : [43931](43931.md) — Question n° 43931 — fêtes de fin d'année; cadeaux d'usage; réglementation
+
+## Réponse
+
+*JO du 2014-05-06*
+
+Tout cadeau ou bon d'achat offert par le comité d'entreprise ou par un employeur directement à son salarié constitue un élément accessoire de sa rémunération qui doit être assujetti, en tant que tel, aux cotisations et contributions sociales, dans les conditions de droit commun. Toutefois, une tolérance permet, pour l'assujettissement au prélèvement social, de négliger ceux de ces avantages dont le montant annuel est inférieur à 5 % du plafond mensuel de la sécurité sociale, soit 156 € en 2014. Les employeurs ou comités d'entreprise peuvent, dans le cadre de leur politique sociale et en dehors de l'octroi de secours, utiliser des critères leur permettant de réserver ou de moduler les avantages accordés aux salariés dans le cadre des activités sociales et culturelles. Toutefois, ils ne peuvent se référer à des éléments dont l'utilisation constitue une discrimination au sens de l'article L. 225-1 du code pénal. De même, la différence de traitement entre les salariés au regard d'un même avantage doit être fondée sur des raisons objectives et pertinentes, ce qui n'apparaît pas, sous réserve de l'appréciation souveraine des tribunaux, compatible avec des critères en lien avec l'activité professionnelle tels que l'ancienneté ou la présence effective des salariés dans l'entreprise. C'est sur cette base que l'URSSAF réintègre dans l'assiette des cotisations les bons d'achat ou cadeaux attribués en fonction de tels critères. Une circulaire relative au régime social des prestations servies par les comités d'entreprise et les institutions analogues est en préparation. Elle permettra de préciser, au vu notamment de la jurisprudence existante, le régime social de ces avantages et d'apporter une clarification concernant les principes à retenir pour la modulation de leur attribution.
