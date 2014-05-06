@@ -1,0 +1,9 @@
+# Réponse à la question n° 47857
+
+- Question : [47857](47857.md) — Question n° 47857 — énergies vertes; perspectives
+
+## Réponse
+
+*JO du 2014-05-06*
+
+L'Union européenne s'est fixée l'objectif de satisfaire 20 % de sa consommation finale d'énergie par les énergies renouvelables à l'horizon 2020 ; cette ambition se traduit par une cible de 23 % pour la France. Au titre de l'article 22 alinéa 1 de la directive 2009/28/CE relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables, le Gouvernement doit transmettre tous les 2 ans un rapport sur les progrès réalisés dans la promotion et l'utilisation des énergies renouvelables. Le dernier rapport, transmis à la Commission européenne fin 2013, fait apparaître que la part de l'énergie renouvelable dans la consommation finale brute d'énergie française était de 13,7 % en 2012. Pour mémoire, la France avait inscrit dans son plan national d'action un pourcentage cible d'énergie renouvelable dans la consommation finale brute d'énergie de 14 % pour l'année 2012. Une comparaison directe fait apparaître que la France est en retard de - 0,3 % par rapport à sa trajectoire. Toutefois, ce léger retard en 2012 est à comparer au retard plus important enregistré en 2011 (- 0,8 %). La volonté de mettre en oeuvre une transition énergétique seule à même d'atteindre l'objectif contraignant de 23 % en 2020, comme d'apporter des réponses durables à la crise climatique, au renchérissement des ressources pétrolières et au besoin d'un mix électrique sûr et équilibré, constitue l'un des engagements majeurs du Gouvernement. Cette transition doit passer notamment par la réduction de la part du nucléaire dans la production électrique, par le développement des énergies renouvelables et un effort massif sur l'efficacité énergétique. Dans cette optique, la loi de programmation sur la transition énergétique apportera des réponses à ces problématiques.
