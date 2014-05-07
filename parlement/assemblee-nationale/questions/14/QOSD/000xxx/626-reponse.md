@@ -1,0 +1,35 @@
+# Réponse à la question n° 626
+
+- Question : [626](626.md) — Question n° 626 — délivrance; établissements privés
+
+## Réponse
+
+*JO du 2014-05-07*
+
+DISPOSITIF DE DÉLIVRANCE DES DIPLÔMES AUX ÉTUDIANTS INSCRITS DANS LES ÉTABLISSEMENTS D'ENSEIGNEMENT SUPÉRIEUR PRIVÉ
+
+M. le président. La parole est à M. Patrick Hetzel, pour exposer sa question, n° 626, relative au dispositif de délivrance des diplômes aux étudiants inscrits dans les établissements d'enseignement supérieur privé.
+
+M. Patrick Hetzel. Madame la ministre je voudrais vous interroger sur les libertés en matière d'enseignement. En effet, en l'état actuel du droit, la collation des grades et des diplômes est en France un monopole de l'État. Pour autant, la liberté est une valeur essentielle en matière d'enseignement, raison pour laquelle le législateur a instauré la possibilité pour les établissements d'enseignement supérieur privés, dès lors qu'ils concourent à une mission de service public, d'octroyer, via un contrôle de l'État, des diplômes nationaux à leurs étudiants. Pour ce faire, deux dispositifs coexistent dans le code de l'éducation : d'une part, les jurys rectoraux et, d'autre part, les conventionnements entre les établissements d'enseignement supérieur privés et des établissements d'enseignement supérieur publics permettant la diplomation. Dans les deux cas, les étudiants peuvent ainsi disposer d'un diplôme reconnu par l'État français.
+
+Or, il semblerait qu'il soit de plus en plus difficile pour les établissements d'enseignement supérieur privés de pouvoir recourir aux jurys rectoraux. Certains recteurs semblent avoir une vision très restrictive de la mobilisation de ces jurys. Ma question est donc double. Premièrement, je souhaite savoir si vous pouvez rassurer les établissements d'enseignement supérieur privés sur le fait que vous mettrez tout en œuvre pour garantir l'existence de ces jurys rectoraux, condition essentielle de leur liberté. Deuxièmement, j'aimerais savoir quelles sont les instructions que vous donnez à vos services et à vos représentants en région, en l'occurrence les recteurs d'académie chanceliers des universités, afin de garantir la liberté d'enseignement pour les établissements d'enseignement supérieur privés. Vous le savez comme moi, tout frein en matière de diplomation reviendrait à restreindre de facto la liberté d'enseignement et serait contraire à la construction de l'espace européen de l'enseignement supérieur à laquelle la France participe activement.
+
+M. le président. La parole est à Mme la Secrétaire d'État chargée de l'enseignement supérieur et de la recherche.
+
+Mme Geneviève Fioraso, secrétaire d'État chargée de l'enseignement supérieur et de la recherche. Monsieur Patrick Hetzel, la délivrance de diplômes nationaux aux étudiants des établissements d'enseignement supérieur privés est bien prévue par la loi – article L. 613-7 du code de l'éducation. Elle s'organise dans le cadre de conventions de partenariat conclues entre les établissements d'enseignement supérieur privés et les établissements publics à caractère scientifique, culturel et professionnel – les EPSCP. Ces conventions, selon le code de l'éducation, « peuvent, notamment, avoir pour objet de permettre aux étudiants des établissements privés de subir les contrôles nécessaires à l'obtention d'un diplôme national ». Cependant si, au 1er janvier de l'année universitaire en cours, aucun accord n'a pu être signé, le recteur d'académie, chancelier des universités, « arrête les conditions dans lesquelles sont contrôlées les connaissances et aptitudes des étudiants d'établissements d'enseignement supérieur privés qui poursuivent des études conduisant à des diplômes nationaux ». Ces contrôles sont alors assurés par un jury rectoral, sous l'autorité du représentant du ministre chargé de l'enseignement supérieur dans l'académie.
+
+La volonté du Gouvernement est de renforcer les coopérations entre établissements privés et publics. C'était déjà prévu dans une lettre circulaire du 19 mai 2008 adressée par la direction générale pour l'enseignement supérieur et l'insertion professionnelle aux directeurs d'établissements d'enseignement supérieur privés, aux présidents d'université et aux recteurs d'académie. Cette volonté a été réaffirmée par la loi du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche, à l'article L. 718-16 du code de l'éducation.
+
+Lorsque aucun accord n'a pu être établi avec un établissement public et qu'il y a donc recours aux jurys rectoraux, l'établissement privé doit s'adresser directement aux services académiques pour obtenir l'habilitation des formations par l'instance d'évaluation nationale. Il appartient ensuite au recteur d'académie, au vu de cette évaluation, d'organiser les jurys correspondants jusqu'à la prochaine phase contractuelle.
+
+En conséquence, monsieur le député, je puis pleinement vous rassurer : la possibilité pour les établissements d'enseignement supérieur privés de permettre à leurs étudiants d'obtenir des diplômes nationaux n'est pas remise en cause ; elle a même été réaffirmée. Il s'agit, pour les recteurs d'académie, d'appliquer la nouvelle procédure régissant la délivrance des diplômes nationaux, en vertu de la loi du 22 juillet 2013 et du cadre national des formations publié par arrêté du 22 janvier 2014, arrêté qui s'applique à tous les établissements, et de favoriser les conventions de partenariat dans le cadre des politiques de sites. Je veillerai personnellement à ce que ce dispositif soit bel et bien appliqué dans l'ensemble des académies.
+
+M. le président. La parole est à M. Patrick Hetzel.
+
+M. Patrick Hetzel. Madame la secrétaire d'État, vous me rassurez… mais partiellement. En effet, vous indiquez que vous veillerez à ce que les étudiants des établissements d'enseignement supérieur privés puissent obtenir des diplômes reconnus par l'État, ce qui est très important, vous le savez, en termes de libertés, mais vous avez aussi dit que vous privilégiez systématiquement les conventions.
+
+Les remontées du terrain sont aujourd'hui importantes de la part des directeurs d'établissements d'enseignement supérieur privés : depuis quelques mois, il leur devient extrêmement difficile d'échanger avec les services rectoraux, qui leur disent systématiquement qu'ils doivent conclure des conventions. Mais vous savez, et nous avons abordé ce sujet ici même à propos des politiques de sites, qu'il n'est pas toujours simple pour ces établissements de signer des conventions avec l'université voisine parce que bien sûr, dans certains cas, leur politique peut avoir été définie différemment de celle de ladite université. Ils sont attachés au maintien de leur diversité. Celle-ci est une richesse. Or dans vos propos, j'ai surtout senti une volonté d'uniformisation…
+
+Mme Claude Greff. C'est vrai !
+
+M. Patrick Hetzel. …qui, à mon sens, est contraire à la fois à l'esprit de liberté et à la diversité, indubitablement une richesse dont bénéficie aujourd'hui notre enseignement supérieur. J'aimerais donc que votre ministère donne des instructions plus souples à ses services.
