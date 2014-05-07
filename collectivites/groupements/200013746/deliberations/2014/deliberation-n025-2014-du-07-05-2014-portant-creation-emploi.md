@@ -1,0 +1,10 @@
+# Ville de Pirae : délibération — Délibération n°025-2014 du 07-05-2014 - Portant création emploi cabinet à temps non complet
+
+- Collectivité : Ville de Pirae
+- SIREN : 200013746
+- Date : 2014-05-07
+- Objet : Délibération n°025-2014 du 07-05-2014 - Portant création emploi cabinet à temps non complet
+- Pages : 3
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-municipal-annee-2014/20161221-013722/Deliberation_n025-2014_du_07-05-2014_-_Portant_creation_emploi_cabinet_a_temps_non_complet.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5859c9a788ee3824b3609f67
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
