@@ -44,7 +44,7 @@ Directeur des services actifs, directeur central de la police aux frontières
 
 |
 
-Directeur des services actifs, directeur central du renseignement intérieur
+Directeur des services actifs, directeur général de la sécurité intérieure
 
 |
 
@@ -2154,7 +2154,7 @@ Adjoint au sous-directeur de l'ordre public de l'agglomération parisienne à la
 
 |
 
-A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC
+A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC
 
 |
 
@@ -2166,7 +2166,7 @@ A la sous-direction de l'ordre public de l'agglomération parisienne - état-maj
 
 |
 
-A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC
+A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC
 
 |
 
@@ -2178,7 +2178,7 @@ A la sous-direction de l'ordre public de l'agglomération parisienne - état-maj
 
 |
 
-A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC
+A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC
 
 |
 
@@ -2190,7 +2190,7 @@ A la sous-direction de l'ordre public de l'agglomération parisienne - état-maj
 
 |
 
-A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC
+A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC
 
 |
 
