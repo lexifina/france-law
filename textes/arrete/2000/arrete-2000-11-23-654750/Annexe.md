@@ -106,7 +106,7 @@ Directeur d'administration centrale du ministère de l'intérieur
 
 |
 
-7
+8
 
 |
 
@@ -641,6 +641,36 @@ Sous-directeur des affaires sociales de la police nationale
 |
 
 80
+
+|
+
+En charge d'une sous-direction relevant de la direction générale de la sécurité intérieure :
+
+|
+
+|
+
+|
+
+Sous-directeur à la direction technique
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Chef du service de l'administration générale |
+
+1
+
+|
+
+100
 
 |
 
