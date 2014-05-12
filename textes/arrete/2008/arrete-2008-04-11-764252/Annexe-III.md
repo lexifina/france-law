@@ -386,6 +386,10 @@ Monophosphate 5' de guanosine et ses sels de sodium.
 
 Monophosphate 5' d'inosine et ses sels de sodium.
 
+L-arginine et son chlorhydrate (1).
+
+(1) L-arginine et son chlorhydrate sont exclusivement utilisés pour la fabrication des préparations pour nourrissons visées au 3 de l'article 5 et des préparations de suite visées au 3 de l'article 6.
+
 4. Autres substances nutritives
 
 Choline.

@@ -16,15 +16,11 @@ MAXIMUM
 
 250 kJ/100 ml
 
-(60 kcal/100 ml)
-
-|
+(60 kcal/100 ml) |
 
 295 kJ/100 ml
 
-(70 kcal/100 ml)
-
-|
+(70 kcal/100 ml) |
 
 2. Protéines
 
@@ -32,7 +28,7 @@ Teneur en protéines = teneur en azote × 6,25.
 
 Des acides aminés ne peuvent être ajoutés aux préparations pour nourrissons que dans le but d'améliorer la valeur nutritionnelle des protéines et uniquement dans les proportions nécessaires à cet effet.
 
-2.1. Préparations pour nourrissons à base de protéines de lait de vache :
+2.1. Préparations pour nourrissons à base de protéines de lait de vache ou de lait de chèvre :
 
 MINIMUM (1)
 
@@ -44,19 +40,13 @@ MAXIMUM
 
 0,45 g/100 kJ
 
-(1,8 g/100 kcal)
-
-|
+(1,8 g/100 kcal) |
 
 0,7 g/100 kJ
 
-(3 g/100 kcal)
+(3 g/100 kcal) |
 
-|
-
-(1) Les préparations pour nourrissons à base de protéines de lait de vache ayant une teneur en protéines comprise entre le minimum et 0,5 g/100 kJ (2 g/100 kcal) sont conformes aux dispositions du paragraphe 2 de l'article 5.
-
-|
+(1) Les préparations pour nourrissons à base de protéines de lait de vache ou de lait de chèvre ayant une teneur en protéines comprise entre le minimum et 0,5 g/100 kJ (2 g/100 kcal) sont conformes aux dispositions du paragraphe 2 de l'article 5. |
 
 A valeur énergétique égale, la préparation pour nourrissons doit contenir une quantité disponible de chacun des acides aminés indispensables ou indispensables sous certaines conditions au moins égale à celle contenue dans la protéine de référence (lait maternel, tel que défini à l'annexe V).
 
@@ -76,19 +66,13 @@ MAXIMUM
 
 0,45 g/100 kJ
 
-(1,8 g /100 kcal)
-
-|
+(1,8 g /100 kcal) |
 
 0,7 g/100 kJ
 
-(3 g/100 kcal)
+(3 g/100 kcal) |
 
-|
-
-(1) Les préparations pour nourrissons à base d'hydrolysats de protéines ayant une teneur en protéines comprise entre le minimum et 0,56 g/100 kJ (2,25 g/100 kcal) sont conformes aux dispositions paragraphe 3 de l'article 5.
-
-|
+(1) Les préparations pour nourrissons à base d'hydrolysats de protéines ayant une teneur en protéines comprise entre le minimum et 0,56 g/100 kJ (2,25 g/100 kcal) sont conformes aux dispositions paragraphe 3 de l'article 5. |
 
 A valeur énergétique égale, la préparation pour nourrissons doit contenir une quantité disponible de chacun des acides aminés indispensables ou indispensables sous certaines conditions au moins égale à celle contenue dans la protéine de référence (lait maternel, tel que défini à l'annexe V).
 
@@ -98,7 +82,7 @@ Le rapport méthionine/cystine peut être supérieur à 2 sans toutefois dépass
 
 La teneur en L-carnitine doit être au moins égale à 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
-2.3. Préparations pour nourrissons à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache :
+2.3. Préparations pour nourrissons à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache ou de lait de chèvre :
 
 MINIMUM
 
@@ -108,21 +92,13 @@ MAXIMUM
 
 |
 
-0,56 g/100 kJ
+0,56 g/100 kJ |
 
-|
+0,7 g/100 kJ |
 
-0,7 g/100 kJ
+(2,25 g/100 kcal) |
 
-|
-
-(2,25 g/100 kcal)
-
-|
-
-(3 g/100 kcal)
-
-|
+(3 g/100 kcal) |
 
 Seuls les isolats de protéines de soja sont employés pour la fabrication de ces préparations pour nourrissons.
 
@@ -150,15 +126,11 @@ MAXIMUM
 
 1,7 mg/100 kJ
 
-(7 mg/100 kcal)
-
-|
+(7 mg/100 kcal) |
 
 12 mg/100 kJ
 
-(50 mg/100 kcal)
-
-|
+(50 mg/100 kcal) |
 
 5. Lipides
 
@@ -172,15 +144,11 @@ MAXIMUM
 
 1,05 g/100 kJ
 
-(4,4 g/100 kcal)
-
-|
+(4,4 g/100 kcal) |
 
 1,4 g/100 kJ
 
-(6,0 g/100 kcal)
-
-|
+(6,0 g/100 kcal) |
 
 5.1. L'utilisation des substances suivantes est interdite :
 
@@ -198,15 +166,11 @@ MAXIMUM
 
 |
 
-―
-
-|
+― |
 
 isolément ou ensemble :
 
-20 % des matières grasses totales
-
-|
+20 % des matières grasses totales |
 
 5.3. La teneur en isomères trans d'acides gras ne doit pas être supérieure à 3 % de la teneur totale en matières grasses.
 
@@ -224,15 +188,11 @@ MAXIMUM
 
 70 mg/100 kJ
 
-(300 mg/100 kcal)
-
-|
+(300 mg/100 kcal) |
 
 285 mg/100 kJ
 
-(1 200 mg/100 kcal)
-
-|
+(1 200 mg/100 kcal) |
 
 5.6. La teneur en acide alpha-linolénique ne doit pas être inférieure à 12 mg/100 kJ (50 mg/100 kcal).
 
@@ -262,15 +222,11 @@ MAXIMUM
 
 1 mg/100 kJ
 
-(4 mg/100 kcal)
-
-|
+(4 mg/100 kcal) |
 
 10 mg/100 kJ
 
-(40 mg/100 kcal)
-
-|
+(40 mg/100 kcal) |
 
 8. Glucides
 
@@ -284,15 +240,11 @@ MAXIMUM
 
 2,2 g/100 kJ
 
-(9 g/100 kcal)
-
-|
+(9 g/100 kcal) |
 
 3,4 g/100 kJ
 
-(14 g/100 kcal)
-
-|
+(14 g/100 kcal) |
 
 8.1. Seuls les glucides ci-après peuvent être utilisés :
 
@@ -324,15 +276,11 @@ MAXIMUM
 
 1,1 g/100 kJ
 
-(4,5 g/100 kcal)
-
-|
+(4,5 g/100 kcal) |
 
 ―
 
-―
-
-|
+― |
 
 La présente disposition n'est pas applicable aux préparations pour nourrissons dans lesquelles les isolats de protéines de soja représentent plus de 50 % de la teneur totale en protéines.
 
@@ -354,11 +302,11 @@ MAXIMUM
 
 |
 
-―
+― |
 
-|
+2 g/100 ml et 30 %
 
-2 g/100 ml et 30 % de la teneur totale en glucides
+de la teneur totale en glucides
 
 |
 
@@ -370,7 +318,7 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 
 10. Eléments minéraux
 
-10.1. Préparations pour nourrissons à base de protéines de lait de vache ou d'hydrolysats de protéines :
+10.1. Préparations pour nourrissons à base de protéines de lait de vache ou de lait de chèvre ou d'hydrolysats de protéines :
 
 |
 
@@ -382,287 +330,147 @@ POUR 100 kcal
 
 |
 
-|
+Minimum |
 
-Minimum
+Maximum |
 
-|
+Minimum |
 
-Maximum
+Maximum |
 
-|
+Sodium (mg) |
 
-Minimum
+5 |
 
-|
+14 |
 
-Maximum
+20 |
 
-|
+60 |
 
-Sodium (mg)
+Potassium (mg) |
 
-|
+15 |
 
-5
+38 |
 
-|
+60 |
 
-14
+160 |
 
-|
+Chlorure (mg) |
 
-20
+12 |
 
-|
+38 |
 
-60
+50 |
 
-|
+160 |
 
-Potassium (mg)
+Calcium (mg) |
 
-|
+12 |
 
-15
+33 |
 
-|
+50 |
 
-38
+140 |
 
-|
+Phosphore (mg) |
 
-60
+6 |
 
-|
+22 |
 
-160
+25 |
 
-|
+90 |
 
-Chlorure (mg)
+Magnésium (mg) |
 
-|
+1,2 |
 
-12
+3,6 |
 
-|
+5 |
 
-38
+15 |
 
-|
+Fer (mg) |
 
-50
+0,07 |
 
-|
+0,3 |
 
-160
+0,3 |
 
-|
+1,3 |
 
-Calcium (mg)
+Zinc (mg) |
 
-|
+0,12 |
 
-12
+0,36 |
 
-|
+0,5 |
 
-33
+1,5 |
 
-|
+Cuivre (µg) |
 
-50
+8,4 |
 
-|
+25 |
 
-140
+35 |
 
-|
+100 |
 
-Phosphore (mg)
+Iode (µg) |
 
-|
+2,5 |
 
-6
+12 |
 
-|
+10 |
 
-22
+50 |
 
-|
+Sélénium (µg) |
 
-25
+0,25 |
 
-|
+2,2 |
 
-90
+1 |
 
-|
+9 |
 
-Magnésium (mg)
+Manganèse (µg) |
 
-|
+0,25 |
 
-1,2
+25 |
 
-|
+1 |
 
-3,6
+100 |
 
-|
+Fluorure (µg) |
 
-5
+― |
 
-|
+25 |
 
-15
+― |
 
-|
-
-Fer (mg)
-
-|
-
-0,07
-
-|
-
-0,3
-
-|
-
-0,3
-
-|
-
-1,3
-
-|
-
-Zinc (mg)
-
-|
-
-0,12
-
-|
-
-0,36
-
-|
-
-0,5
-
-|
-
-1,5
-
-|
-
-Cuivre (µg)
-
-|
-
-8,4
-
-|
-
-25
-
-|
-
-35
-
-|
-
-100
-
-|
-
-Iode (µg)
-
-|
-
-2,5
-
-|
-
-12
-
-|
-
-10
-
-|
-
-50
-
-|
-
-Sélénium (µg)
-
-|
-
-0,25
-
-|
-
-2,2
-
-|
-
-1
-
-|
-
-9
-
-|
-
-Manganèse (µg)
-
-|
-
-0,25
-
-|
-
-25
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Fluorure (µg)
-
-|
-
-―
-
-|
-
-25
-
-|
-
-―
-
-|
-
-100
-
-|
+100 |
 
 Le rapport calcium/phosphore ne doit pas être inférieur à 1,0 ni supérieur à 2,0.
 
-10.2. Préparations pour nourrissons à base d'isolats de protéines de soja, seules ou mélangées avec des protéines de lait de vache.
+10.2. Préparations pour nourrissons à base d'isolats de protéines de soja, seules ou mélangées avec des protéines de lait de vache ou de lait de chèvre.
 
 Toutes les prescriptions du point 10.1 s'appliquent sauf celles relatives au fer et au phosphore qui sont remplacées par les prescriptions suivantes :
 
@@ -676,63 +484,33 @@ POUR 100 kcal
 
 |
 
-|
+Minimum |
 
-Minimum
+Maximum |
 
-|
+Minimum |
 
-Maximum
+Maximum |
 
-|
+Fer (mg) |
 
-Minimum
+0,12 |
 
-|
+0,5 |
 
-Maximum
+0,45 |
 
-|
+2 |
 
-Fer (mg)
+Phosphore (mg) |
 
-|
+7,5 |
 
-0,12
+25 |
 
-|
+30 |
 
-0,5
-
-|
-
-0,45
-
-|
-
-2
-
-|
-
-Phosphore (mg)
-
-|
-
-7,5
-
-|
-
-25
-
-|
-
-30
-
-|
-
-100
-
-|
+100 |
 
 11. Vitamines
 
@@ -742,18 +520,14 @@ POUR 100 kJ
 
 |
 
+|
+
 POUR 100 kcal
 
 |
 
 |
 
-Minimum
-
-|
-
-Maximum
-
 |
 
 Minimum
@@ -764,265 +538,147 @@ Maximum
 
 |
 
-Vitamine A (µg-ER) (1)
+Minimum
 
 |
 
-14
+Maximum
 
 |
 
-43
+Vitamine A (µg-ER) (1) |
 
-|
+14 |
 
-60
+43 |
 
-|
+60 |
 
-180
+180 |
 
-|
+Vitamine D (µg) (2) |
 
-Vitamine D (µg) (2)
+0,25 |
 
-|
+0,65 |
 
-0,25
+1 |
 
-|
+2,5 |
 
-0,65
+Thiamine (µg) |
 
-|
+14 |
 
-1
+72 |
 
-|
+60 |
 
-2,5
+300 |
 
-|
+Riboflavine (µg) |
 
-Thiamine (µg)
+19 |
 
-|
+95 |
 
-14
+80 |
 
-|
+400 |
 
-72
+Niacine (µg) (3) |
 
-|
+72 |
 
-60
+375 |
 
-|
+300 |
 
-300
+1 500 |
 
-|
+Acide pantothénique (µg) |
 
-Riboflavine (µg)
+95 |
 
-|
+475 |
 
-19
+400 |
 
-|
+2 000 |
 
-95
+Vitamine B6 (µg) |
 
-|
+9 |
 
-80
+42 |
 
-|
+35 |
 
-400
+175 |
 
-|
+Biotine (µg) |
 
-Niacine (µg) (3)
+0,4 |
 
-|
+1,8 |
 
-72
+1,5 |
 
-|
+7,5 |
 
-375
+Acide folique (µg) |
 
-|
+2,5 |
 
-300
+12 |
 
-|
+10 |
 
-1 500
+50 |
 
-|
+Vitamine B12 (µg) |
 
-Acide pantothénique (µg)
+0,025 |
 
-|
+0,12 |
 
-95
+0,1 |
 
-|
+0,5 |
 
-475
+Vitamine C (mg) |
 
-|
+2,5 |
 
-400
+7,5 |
 
-|
+10 |
 
-2 000
+30 |
 
-|
+Vitamine K (µg) |
 
-Vitamine B6 (µg)
+1 |
 
-|
+6 |
 
-9
+4 |
 
-|
+25 |
 
-42
-
-|
-
-35
-
-|
-
-175
-
-|
-
-Biotine (µg)
-
-|
-
-0,4
-
-|
-
-1,8
-
-|
-
-1,5
-
-|
-
-7,5
-
-|
-
-Acide folique (µg)
-
-|
-
-2,5
-
-|
-
-12
-
-|
-
-10
-
-|
-
-50
-
-|
-
-Vitamine B12 (µg)
-
-|
-
-0,025
-
-|
-
-0,12
-
-|
-
-0,1
-
-|
-
-0,5
-
-|
-
-Vitamine C (mg)
-
-|
-
-2,5
-
-|
-
-7,5
-
-|
-
-10
-
-|
-
-30
-
-|
-
-Vitamine K (µg)
-
-|
-
-1
-
-|
-
-6
-
-|
-
-4
-
-|
-
-25
-
-|
-
-Vitamine E (mg α-ET) (4)
-
-|
+Vitamine E (mg α-ET) (4) |
 
 0,5/g d'acides gras polyinsaturés exprimés en acide linoléique corrigé des doubles liaisons (5) mais en aucun cas inférieur à 0,1 mg pour 100 kJ disponibles.
 
 |
 
-1,2
-
-|
+1,2 |
 
 0,5/g d'acides gras polyinsaturés exprimés en acide linoléique corrigé des doubles liaisons (5), mais en aucun cas inférieur à 0,5 mg pour 100 kcal disponibles.
 
 |
 
-5
-
-|
+5 |
 
 (1) ER = tous les équivalents trans rétinol.
 
@@ -1032,9 +688,11 @@ Vitamine E (mg α-ET) (4)
 
 (4) α-ET = d-α-équivalent tocophérol.
 
-(5) 0,5 mg α-ET/1 g acide linoléique (18:2 n - 6) ; 0,75 mg α-ET/1 g acide alpha-linolénique (18:3 n - 3) ; 1,0 mg α-ET/1 g acide arachidonique (20:4 n - 6) ; 1,25 mg α-ET/1 g acide eicosapentaénoïque (20:5 n - 3) ; 1,5 mg α-ET/1 g acide docosahexaénoïque (22:6 n - 3).
+(5) 0,5 mg α-ET/1 g acide linoléique (18:2 n - 6) ; 0,75 mg α-ET/1 g acide alpha-linolénique (18:3 n - 3) ;
 
-|
+1,0 mg α-ET/1 g acide arachidonique (20:4 n - 6) ; 1,25 mg α-ET/1 g acide eicosapentaénoïque (20:5 n - 3) ;
+
+1,5 mg α-ET/1 g acide docosahexaénoïque (22:6 n - 3). |
 
 12. Nucléotides
 
@@ -1043,8 +701,6 @@ Les nucléotides suivants peuvent être ajoutés :
 |
 
 MAXIMUM (1)
-
-|
 
 |
 
@@ -1060,61 +716,41 @@ Monophosphate 5' de cytidine.
 
 |
 
-0,60
+0,60 |
 
-|
-
-2,50
-
-|
+2,50 |
 
 Monophosphate 5' d'uridine.
 
 |
 
-0,42
+0,42 |
 
-|
-
-1,75
-
-|
+1,75 |
 
 Monophosphate 5' d'adénosine.
 
 |
 
-0,36
+0,36 |
 
-|
-
-1,50
-
-|
+1,50 |
 
 Monophosphate 5' de guanosine.
 
 |
 
-0,12
+0,12 |
 
-|
-
-0,50
-
-|
+0,50 |
 
 Monophosphate 5' d'inosine.
 
 |
 
-0,24
+0,24 |
 
-|
-
-1,00
-
-|
+1,00 |
 
 (1) La concentration totale en nucléotides ne doit pas dépasser 1,2 mg/100 kJ (5 mg/100 kcal).
 

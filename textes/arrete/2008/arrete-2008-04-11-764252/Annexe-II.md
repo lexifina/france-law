@@ -32,7 +32,7 @@ Teneur en protéines = teneur en azote × 6,25.
 
 Dans tous les cas, des acides aminés ne peuvent être ajoutés aux préparations de suite que dans le but d'améliorer la valeur nutritionnelle des protéines et uniquement dans les proportions nécessaires à cet effet.
 
-2.1. Préparations de suite à base de protéines de lait de vache :
+2.1. Préparations de suite à base de protéines de lait de vache ou de lait de chèvre :
 
 MINIMUM
 
@@ -60,7 +60,7 @@ Toutefois, pour les calculs, les concentrations de méthionine et de cystine peu
 
 2.2. Préparations de suite à base d'hydrolysats de protéines :
 
-MINIMUM
+MINIMUM (1)
 
 |
 
@@ -68,9 +68,9 @@ MAXIMUM
 
 |
 
-0,56 g/100 kJ
+0,45 g/100 kJ
 
-(2,25 g/100 kcal)
+(1,8 g /100 kcal)
 
 |
 
@@ -80,11 +80,17 @@ MAXIMUM
 
 |
 
+(1) Les préparations de suite à base d'hydrolysats de protéines ayant une teneur en protéines comprise entre le minimum
+
+et 0,56 g/100 kJ (2,25 g/100 kcal) sont conformes aux dispositions du 2 de l'article 6.
+
+|
+
 A valeur énergétique égale, la préparation de suite doit contenir une quantité disponible de chacun des acides aminés indispensables, ou indispensables sous certaines conditions, au moins égale à celle contenue dans la protéine de référence (lait maternel, tel que défini à l'annexe V).
 
 Toutefois, pour les calculs, les concentrations de méthionine et de cystine peuvent être comptées ensemble si le rapport méthionine/cystine n'est pas supérieur à 3, et les concentrations de phénylalanine et de tyrosine peuvent être comptées ensemble si le rapport tyrosine/phénylalanine n'est pas supérieur à 2.
 
-2.3. Préparations de suite à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache :
+2.3. Préparations de suite à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache ou de lait de chèvre :
 
 MINIMUM
 
@@ -288,7 +294,7 @@ D'autres combinaisons et teneurs maximales de fructo-oligosaccharides et de gala
 
 8. Eléments minéraux
 
-8.1. Préparations de suite à base de protéines de lait de vache ou d'hydrolysats de protéines :
+8.1. Préparations de suite à base de protéines de lait de vache ou de lait de chèvre ou d'hydrolysats de protéines :
 
 |
 
@@ -297,8 +303,6 @@ POUR 100 kJ
 |
 
 POUR 100 kcal
-
-|
 
 |
 
@@ -580,7 +584,7 @@ Fluorure (µg)
 
 Le rapport calcium/phosphore dans les préparations de suite ne doit pas être inférieur à 1,0 ni supérieur à 2,0.
 
-8.2. Préparations de suite à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache.
+8.2. Préparations de suite à base d'isolats de protéines de soja, seuls ou mélangés à des protéines de lait de vache ou de lait de chèvre .
 
 Toutes les prescriptions du point 8.1 sont applicables sauf celles relatives au fer et au phosphore qui sont remplacées par les prescriptions suivantes :
 
@@ -594,23 +598,13 @@ POUR 100 kcal
 
 |
 
-|
+Minimum |
 
-Minimum
+Maximum |
 
-|
+Minimum |
 
-Maximum
-
-|
-
-Minimum
-
-|
-
-Maximum
-
-|
+Maximum |
 
 Fer (mg)
 
@@ -660,7 +654,11 @@ POUR 100 kJ
 
 |
 
+|
+
 POUR 100 kcal
+
+|
 
 |
 
@@ -961,8 +959,6 @@ Les nucléotides suivants peuvent être ajoutés :
 |
 
 MAXIMUM (1)
-
-|
 
 |
 
