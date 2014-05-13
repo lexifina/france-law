@@ -1,0 +1,9 @@
+# Réponse à la question n° 38760
+
+- Question : [38760](38760.md) — Question n° 38760 — adoption plénière; réglementation
+
+## Réponse
+
+*JO du 2014-05-13*
+
+La question de l'irrévocabilité de l'adoption plénière et celle du droit de chaque enfant à la connaissance de ses origines personnelles sont deux questions distinctes. Si l'adoption plénière rompt définitivement les liens de filiation de l'enfant avec sa famille d'origine, elle n'a pas vocation à l'empêcher de reconstituer son histoire avant son adoption, et d'accéder à l'identité de ses parents biologiques. Ainsi, l'acte de naissance originaire de l'enfant adopté n'est pas détruit au moment de l'adoption et peut être communiqué par le procureur de la République dans le cadre d'une demande d'accès de l'enfant à ses origines. Il convient toutefois de réserver le cas des enfants adoptés et pupilles de l'Etat issus d'une mère ayant accouché sous X. Dans ce cas, l'enfant né sous X peut formuler sa demande d'accès aux origines auprès du conseil national de l'accès aux origines personnelles, créé par la loi du 22 janvier 2002. Le conseil recherche alors les parents de naissance pour les contacter afin de solliciter leur accord à la transmission de leur identité à l'enfant. En cas de refus du ou des parents de révéler leur identité, seuls les éléments non identifiants sont communiqués à l'enfant. Cette recherche, qui s'inscrit dans une démarche identitaire, est, comme le rappelle l'article L. 147-7 du code de l'action sociale et des familles, sans effet sur l'état civil de l'enfant et sur sa filiation. Ce dispositif qui a été jugé conforme à la Convention de sauvegarde des droits de l'Homme et des libertés fondamentales par la décision Odièvre contre France (CEDH, 13 février 2003, n° 42326/98) permet d'assurer un juste équilibre entre la nécessité d'assurer une protection à la femme souhaitant accoucher dans le secret et les demandes tout aussi légitimes d'accès aux origines.
