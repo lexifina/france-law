@@ -1,0 +1,9 @@
+# Réponse à la question n° 44135
+
+- Question : [44135](44135.md) — Question n° 44135 — rapport; propositions
+
+## Réponse
+
+*JO du 2014-05-13*
+
+La décision n° 15 du 14 décembre 2012 de la Commission prévue à l'article L. 311-5 du code de la propriété intellectuelle a renouvelé les règles applicables à la plupart des supports et appareils d'enregistrement soumis à la rémunération pour copie privée. Cette dernière décision, en vigueur depuis le 1er janvier 2013, constitue en elle-même une avancée de la Commission en termes de transparence et de prise en compte des principes dégagés par le Conseil d'État, notamment au regard de son article 4 qui expose la méthode de calcul des tarifs de la rémunération. En ce qui concerne les nouveaux barèmes de rémunération fixés par la décision n° 15, la hausse des tarifs applicables à certains supports, qui se fonde sur les pratiques de copie privée constatées dans les études d'usages conduites en 2011 par la Commission, reste limitée et compensée par des tarifs moindres sur d'autres équipements. En tout état de cause, un « abattement pour grande capacité » est appliqué depuis plusieurs années par la Commission pour limiter le poids de la rémunération dans le prix de vente d'appareils qui présentent des capacités de stockage de plus en plus importantes. À ce jour, ni la méthode de calcul des tarifs de la décision n° 15, ni la composition de la Commission n'ont été remis en cause par la Haute juridiction administrative. Pour autant, dans la mesure où le dispositif de la rémunération pour copie privée constitue une composante essentielle du droit des auteurs et des titulaires de droits voisins, le Gouvernement veillera à prendre les mesures nécessaires à sa consolidation lorsqu'elles s'imposeront, en concertation avec les différentes parties prenantes.
