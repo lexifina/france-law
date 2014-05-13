@@ -1,0 +1,9 @@
+# Réponse à la question n° 45765
+
+- Question : [45765](45765.md) — Question n° 45765 — dépistage du VIH; réglementation
+
+## Réponse
+
+*JO du 2014-05-13*
+
+Il convient de souligner que le dépistage du VIH n'est plus obligatoire lors du mariage depuis le 1er janvier 2008, l'article 8 de la loi n° 2007-1787 du 20 décembre 2007 ayant abrogé l'examen et le certificat prénuptial. Dans tous les cas, le dépistage du VIH requiert au préalable le recueil du consentement libre et éclairé de la personne concernée en accord avec les dispositions de l'article 16-3 du code civil et de l'article L1111-4 du code de la santé publique. Le fait d'imposer un dépistage sans le consentement de la personne reste contraire au principe du respect de l'intégrité physique du corps humain. Cette possibilité existe dans seulement deux situations encadrées par la loi : - la personne contre laquelle il existe des indices graves ou concordants d'avoir commis un viol, une agression sexuelle ou une atteinte sexuelle (article 706-47-2 du code de procédure pénale) ; - la personne ayant commis sur une personne dépositaire de l'autorité publique ou chargée d'une mission de service public des actes susceptibles d'entrainer une contamination par une maladie virale grave (article 121 de la loi n° 2011-267 du 14 mars 2011 d'orientation et de programmation pour la performance de la sécurité intérieure dite LOPSSI). Dans ces deux cas où la loi le permet, le professionnel de santé qui est requis à cette fin doit néanmoins s'efforcer d'obtenir le consentement de la personne. En l'absence de consentement de ce dernier, le recours au magistrat ou au juge d'instruction s'impose, car ces derniers veillent au respect des conditions de recours à de tels dépistages, en accord avec les dispositions de l'article 8 de la Convention européenne des droits de l'homme.
