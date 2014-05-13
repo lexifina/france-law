@@ -1,0 +1,9 @@
+# Réponse à la question n° 25152
+
+- Question : [25152](25152.md) — Question n° 25152 — contribution; perspectives
+
+## Réponse
+
+*JO du 2014-05-13*
+
+Le référentiel commun SAMU/SDIS fondant les principes et la pratique du secours à personne a été diffusé le 26 juin 2008 à l'ensemble des services publics concernés pour une mise en oeuvre immédiate. Il a fait l'objet d'un arrêté interministériel le 24 avril 2009 qui précise notamment les échéances prévues pour la mise en oeuvre du référentiel et le bilan de son application, mais aussi la composition du comité de suivi du référentiel sur le secours à personne. Le Président de la République a annoncé lors du Congrès de Chambéry de la Fédération Nationale des Sapeurs Pompiers de France, la saisine de l'Inspection générale de l'administration et de l'Inspection générale des affaires sociales afin d'évaluer le référentiel commun SAMU/SDIS. Cette évaluation dont les résultats sont attendus prochainement portera un regard sur l'efficacité du dispositif et les modalités financières de son implication. Elle s'inscrit dans le cadre de la démarche en cours visant à permettre l'accès aux soins urgents en moins de trente minutes comme dans celle de l'évaluation de la politique territoriale des services d'incendie et de secours, décidée par le comité interministériel de modernisation de l'action publique. S'agissant du bénéfice apporté aux victimes par les différents intervenants, ce point figure dans le cadre de la démarche qualité prévue par le référentiel sur le secours à personne et l'aide médicale urgente. Il est indiqué que « l'analyse du service rendu au patient ou à la victime nécessite un travail scientifique commun des services engagés dans les secours et soins d'urgence. Ce travail peut prendre la forme d'études ponctuelles sur un thème de recherche ou être provoqué par des situations particulières ou des observations réalisées par l'un ou l'autre des services ».
