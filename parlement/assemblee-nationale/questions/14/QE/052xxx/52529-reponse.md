@@ -1,0 +1,9 @@
+# Réponse à la question n° 52529
+
+- Question : [52529](52529.md) — Question n° 52529 — création d'un musée
+
+## Réponse
+
+*JO du 2014-05-13*
+
+L'association « le cinéma s'expose », dont le siège se situe à Montreuil, dispose de nombreuses antennes régionales en France. Les différentes directions régionales des affaires culturelles (DRAC) sont ainsi régulièrement sollicitées pour apporter un soutien aux actions de l'association. La DRAC d'Île-de-France a par exemple accompagné la structure entre 2004 et 2007. La ministre de la culture et de la communication est consciente de l'intérêt de préserver l'exceptionnel patrimoine cinématographique détenu par cette association, présidée par Monsieur François Loubeau. Son objet est essentiel à la mémoire cinématographique française. C'est pourquoi le cabinet de la ministre et le Centre national du cinéma et de l'image animée (CNC) ont toujours été en contact étroit avec Monsieur Loubeau. Une rencontre avait été organisée, en mai 2009, avec le cabinet du ministre et Madame Béatrice de Pastre, en charge, au CNC, des dossiers relatifs au patrimoine cinématographique. Lors de cette réunion, plusieurs solutions avaient été suggérées à Monsieur Loubeau pour lui permettre de mieux conserver ses importantes collections (hypothèse de transfert au hangar de Meudon ou au fort du Buc, par exemple) et de les valoriser pleinement, afin que le public puisse profiter de l'impressionnant travail de collecte qu'il accomplit depuis plusieurs années. Il lui a aussi été suggéré de se rapprocher des pôles « images en région », afin de mettre en valeur ses collections grâce à des projets pédagogiques s'articulant avec des actions déjà mises en place localement. Il serait ainsi nécessaire que cette association s'inscrive dans une démarche partenariale qui permettrait d'assurer la conservation et la valorisation des collections qu'elle détient. Un rendez-vous avec le CNC et Monsieur François Loubeau sera organisé prochainement.
