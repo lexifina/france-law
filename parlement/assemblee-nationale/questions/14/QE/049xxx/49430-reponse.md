@@ -1,0 +1,9 @@
+# Réponse à la question n° 49430
+
+- Question : [49430](49430.md) — Question n° 49430 — soins funéraires; interdiction; réglementation
+
+## Réponse
+
+*JO du 2014-05-13*
+
+La réglementation actuelle régissant les pratiques funéraires sur le corps des personnes décédées de certaines maladies infectieuses interdit la pratique des soins de conservation (ou thanatopraxie) sur le corps des personnes atteintes du virus de l'immunodéficience humaine (VIH-sida) ou d'hépatites virales chroniques. Cette interdiction est liée aux risques biologiques (infections transmissibles) auxquels sont exposés les thanatopracteurs lors de la réalisation de ces soins invasifs dans le contexte actuel. Plusieurs rapports récents ont mis en avant les risques sanitaires et environnementaux lorsque ces soins sont effectués dans des lieux non dédiés (domicile des défunts en particulier). Il s'agit des rapports du haut conseil de la santé publique de novembre 2009, complété par celui de décembre 2012, du rapport du Défenseur des Droits relatif à la législation funéraire d'octobre 2012 et du rapport conjoint de l'inspection générale des affaires sociales (IGAS) et de l'inspection générale de l'administration (IGA) de juillet 2013. Afin de diminuer les risques inhérents aux pratiques de thanatopraxie, il apparait nécessaire de renforcer leur encadrement, notamment en les limitant à des lieux dédiés adaptés et en soulignant l'importance du respect des règles d'hygiène universelles. Dès lors que ces mesures seront effectives, l'interdiction des soins de conservation sur les personnes atteintes d'infection à VIH ou d'hépatites virales pourra être levée. Depuis 2013, le ministère chargé de la santé, en lien avec le ministère de l'intérieur, prépare le cadre juridique qui permettra cette évolution des pratiques.
