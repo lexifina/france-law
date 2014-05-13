@@ -1,0 +1,9 @@
+# Réponse à la question n° 37399
+
+- Question : [37399](37399.md) — Question n° 37399 — genre; prise en compte
+
+## Réponse
+
+*JO du 2014-05-13*
+
+A la différence de la situation de la plupart des Etats européens voisins, il n'existe pas en droit français de procédure législative ou règlementaire spécifique permettant la modification de la mention du sexe à l'état civil. Le processus de changement d'état civil des personnes transsexuelles est le fruit d'une construction jurisprudentielle ancienne, fondée sur deux arrêts rendus le 11 décembre 1992 par l'assemblée plénière de la Cour de cassation à la suite de la condamnation de la France par la Cour européenne des droits de l'Homme le 25 mars 1992. Le changement de la mention du sexe est en pratique autorisé sur le fondement de l'article 99 du code civil, relatif à la rectification des actes de l'état civil, lorsque le requérant établit, selon la formulation retenue par la Cour de cassation, « la réalité du syndrome transsexuel [...] ainsi que le caractère irréversible de la transformation de son apparence » (1re chambre civile, 7 juin 2012 et 13 février 2013). Cette construction jurisprudentielle est source d'insécurité juridique et peut s'avérer procéduralement lourde pour les requérants. Elle appelle la définition en droit français d'un cadre procédural spécifique et allégé, qui ne saurait se dispenser du recours à une décision exclusivement judiciaire, l'identité sexuelle étant une composante de l'état des personnes, soumis au principe d'ordre public d'indisponibilité. L'avis rendu par la CNCDH le 27 juin 2013, mais aussi le rapport du commissaire européen aux droits de l'homme d'octobre 2009 ainsi que les différentes propositions de loi déposées sur ce sujet contribuent à la réflexion en cours du gouvernement, un équilibre devant être trouvé entre les impératifs de sécurité juridique et la nécessité d'améliorer le vécu quotidien des personnes transsexuelles.
