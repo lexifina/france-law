@@ -1,0 +1,9 @@
+# Réponse à la question n° 47956
+
+- Question : [47956](47956.md) — Question n° 47956 — démantèlement; navires; chantiers navals
+
+## Réponse
+
+*JO du 2014-05-13*
+
+L'action de l'Etat en matière de démantèlement des navires militaires de surface désarmés s'inscrit dans une politique de développement durable, dans le respect de la convention internationale de Hong-Kong du 15 mai 2009 pour le « recyclage sûr et écologiquement rationnel des navires », ratifiée par la France par la loi n° 2012-1290 du 22 novembre 2012. Dans ce contexte, les dispositions prises par le ministère de la défense, depuis 3 ans, visent à favoriser l'émergence et le maintien de chantiers navals répondant à ses besoins, en proposant successivement des marchés d'une durée et d'un volume suffisamment conséquents pour permettre l'investissement et la performance industrielle nécessaires. S'agissant de l'accès des industriels français à ces marchés, il convient de rappeler que leurs règles de passation relèvent de la réglementation européenne des marchés publics qui impose une mise en concurrence des entreprises de l'Union européenne. Dans ces conditions, ces marchés de démantèlement ne peuvent être réservés aux seuls chantiers navals situés dans l'hexagone. Pour autant, le dynamisme industriel français a permis la création, sur le territoire national, de plusieurs chantiers de déconstruction navale, répondant aux critères de performance technique et économique recherchés par le ministère de la défense. A ce jour, 75 % des marchés d'expertise et de démantèlement attribués par le service de soutien de la flotte (SSF) de la marine nationale ont été ou sont exécutés sur le territoire national, de sorte que cette activité continue d'être confiée, dans une proportion très significative, à des chantiers navals français.
