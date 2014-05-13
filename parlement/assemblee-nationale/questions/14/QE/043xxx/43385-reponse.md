@@ -1,0 +1,9 @@
+# Réponse à la question n° 43385
+
+- Question : [43385](43385.md) — Question n° 43385 — indemnités; perspectives
+
+## Réponse
+
+*JO du 2014-05-13*
+
+L'indemnité de suivi et d'accompagnement des élèves a été instituée par le décret n° 2013-790 du 30 août 2013. L'article 1er du décret dispose que l'indemnité est versée aux personnels enseignants du premier degré exerçant dans les écoles maternelles et élémentaires ou dans les établissements ou services de santé ou médico-sociaux. Les enseignants exerçant en section d'enseignement général et professionnel adapté (SEGPA) ne font pas donc pas partie du champ d'application du décret du 30 août 2013. Ils peuvent bénéficier toutefois des indemnités suivantes : - l'indemnité de fonctions particulières instituée par le décret n° 91-236 du 28 février 1991 lorsqu'ils sont titulaires d'un diplôme spécialisé, d'un montant annuel de 834 euros - l'indemnité spéciale instituée par le décret n° 89-826 du 9 novembre 1989 d'un montant annuel de 1 558 euros - des heures supplémentaires pour les heures de coordination et de synthèse qu'ils assurent, d'un montant annuel de 870 euros pour une heure ou 1 740 euros pour deux heures selon le niveau des classes dans lesquelles ils interviennent. Au plan réglementaire, les rémunérations accessoires auxquelles ils peuvent prétendre s'élèvent donc, selon les cas, de 3 262 € à 4 132 € par an, soit un niveau relativement important si on le compare au niveau de rémunération accessoire des autres catégories d'enseignants du premier degré appelés à prendre en charge des élèves à besoins particuliers. A l'issue de la réflexion ouverte sur la reconnaissance de l'ensemble des missions des enseignants, il est envisagé de refondre le régime indemnitaire des enseignants du premier degré intervenant dans l'enseignement adapté afin de le rendre plus transparent et équitable.
