@@ -1,0 +1,9 @@
+# Réponse à la question n° 30823
+
+- Question : [30823](30823.md) — Question n° 30823 — gardes-champêtres; compétences
+
+## Réponse
+
+*JO du 2014-05-13*
+
+Le ministre de l'Agriculture précise les compétences des gardes champêtres dans le cadre du projet de loi pour l'avenir de l'agriculture de l'alimentation et de la forêt qui a été déposé sur le bureau de l'Assemblée nationale et qui est discuté en séance publique depuis janvier 2014. Dans son article 28, le projet de loi ratifie l'ordonnance du 26 janvier 2012 portant partie législative du code forestier. En outre, dans son article 31, il modifie ainsi l'article 24 du code de procédure pénale : « Outre les compétences mentionnées à l'article 22 du présent code et à l'article L.521-1 du code de la sécurité intérieure, les gardes champêtres recherchent et constatent par procès verbal les délits et contraventions qui portent atteinte aux propriétés situées dans les communes rurales dans les mêmes conditions que celles énoncées en matière d'infractions forestières aux articles L.161-14 à L.161-18 du code forestier ». Cette rédaction définit la notion « de propriété rurale » en faisant référence aux « propriétés situées dans les communes rurales ». Elle fait aussi le lien avec le code de la sécurité intérieure (article L.521-1). Par ailleurs, les gardes champêtres tiennent leurs prérogatives s'agissant de saisir les bestiaux, les véhicules et autres biens, et de les mettre en séquestre, en matière d'infractions forestières, de l'article L.161-18 du nouveau code forestier. En matière d'environnement (chasse, pêche...), l'article L.172-4 du code de l'environnement précise qu'ils exercent leurs missions dans les limites et selon les modalités fixées par le code de procédure pénale, notamment par son article 24. La rédaction de ce projet de loi est donc de nature à répondre aux inquiétudes des gardes champêtres.
