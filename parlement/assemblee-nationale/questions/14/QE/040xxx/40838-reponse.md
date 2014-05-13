@@ -1,0 +1,9 @@
+# Réponse à la question n° 40838
+
+- Question : [40838](40838.md) — Question n° 40838 — recours; réglementation
+
+## Réponse
+
+*JO du 2014-05-13*
+
+L'obtention du permis de construire est soumise aux règles du plan local d'urbanisme (PLU). En l'absence de PLU, le règlement national d'urbanisme s'applique, notamment l'article R. 111-6 du code de l'urbanisme. Lors de la délivrance du permis de construire, l'article 12 concernant les règles de stationnement doit être respecté. Toutefois, l'article L. 123-1-12 du code de l'urbanisme prévoit des modalités alternatives pour la satisfaction des obligations de réalisation de stationnements : obtention d'une concession à long terme dans un parc public de stationnement, acquisition des places de stationnement dans un parc privé, ou en dernier ressort, paiement d'une participation si la commune a délibéré et qu'elle a un projet de parc public de stationnement. Si lors de l'instruction, le demandeur remplit les conditions exigées par le PLU, le permis est délivré. À l'issue des travaux, une déclaration attestant l'achèvement des travaux doit être adressée à l'autorité compétente qui vérifie la conformité de ceux-ci. Si ultérieurement les places de stationnement sont dissociées du logement lors de la location, aucune action ne peut être entreprise. En effet, le propriétaire a le droit de jouir et de disposer de son bien tant qu'il n'en fait pas un usage prohibé par les lois ou par les règlements, (article 544 du code civil). En l'occurrence, la loi laisse le choix au propriétaire-bailleur de louer le garage en annexe du logement ou de manière indépendante à celui-ci. Les règles d'urbanisme ne s'appliquent pas à des rapports contractuels résultant d'un contrat de bail. Par ailleurs, la transformation d'un garage en habitation est soumise à autorisation d'urbanisme, si les travaux envisagés comportent la création d'une surface de plancher supérieure à cinq mètres carrés.
