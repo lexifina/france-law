@@ -1,10 +1,10 @@
 # Article Annexe II
 
-PROGRAMME DE LA FORMATION INITIALE À LA PRÉVENTION DU PÉRIL ANIMALIER
+PROGRAMME DE LA FORMATION INITIALE
 
-Cette formation est dispensée sur une durée totale d'environ 21 heures et s'effectue selon la durée prévue pour chacun de ses modules.
+À LA PRÉVENTION DU PÉRIL ANIMALIER
 
-PARTIE THÉORIQUE (14 heures environ)
+Partie théorique
 
 MODULES
 
@@ -14,127 +14,95 @@ CONTENU
 
 |
 
-DURÉE
-
-moyenne
+Connaissances aéronautiques générales
 
 |
 
-Connaissances aéronautiques générales.
+Structure d'un aérodrome (pistes, axes de circulation, aires de stationnement...)
+
+Balisage de piste, voies de circulation, rampe d'approche
+
+Réglementation de la circulation aérienne (y compris circulation au sol)
+
+Phraséologie aéronautique
+
+Météorologie
+
+Aides radioélectriques
+
+Règles d'exploitation en zone de sûreté à accès réglementé
 
 |
 
-Structure d'un aéroport (pistes, axes de circulation, parking, etc.).
-
-Balisage de piste, taxiway, rampe d'approche.
-
-Réglementation de la circulation aérienne (y compris circulation au sol).
-
-Phraséologie aéronautique.
-
-Météorologie.
-
-Aides radioélectriques.
-
-Règles d'exploitation en zone réservée.
+Connaissance des aéronefs
 
 |
 
-2 heures
+Identification des aéronefs
+
+Structure des aéronefs
+
+Types de moteurs (pistons, turbopropulseurs, réacteurs)
 
 |
 
-Connaissance des aéronefs.
+Objectifs de la prévention du péril animalier
 
 |
 
-Identification des aéronefs.
+Réglementation nationale
 
-Structure des aéronefs.
+Statistiques sur les impacts d'oiseaux et d'autres animaux
 
-Moteurs types (pistons, turbopropulseurs, réacteurs).
+Exemples d'incidents et d'accidents
 
-|
+Vulnérabilité des aéronefs
 
-1h30
-
-|
-
-Objectifs de la prévention du péril animalier.
+Zones critiques des aérodromes
 
 |
 
-Réglementation nationale.
-
-Statistiques sur les impacts d'oiseaux et de mammifères.
-
-Exemples d'incidents et d'accidents.
-
-Vulnérabilité des aéronefs.
-
-Zones critiques des aérodromes.
+Ornithologie et mammalogie
 
 |
 
-1h30
+Morphologie des oiseaux et des autres animaux, organes des sens
+
+Classement des espèces
+
+Adaptation aux milieux, migrations, mouvements locaux, comportements
+
+Espèces impliquées dans les collisions
+
+Espèces protégées : réglementation
 
 |
 
-Ornithologie et mammalogie.
+Environnement
 
 |
 
-Morphologie des oiseaux et des mammifères, organes des sens.
-
-Classement des espèces.
-
-Adaptation aux milieux, migrations, mouvements locaux, comportements.
-
-Espèces impliquées dans les collisions.
-
-Espèces protégées : réglementation.
+Facteurs attractifs et solutions dans les emprises aéroportuaires (eau, herbe, cultures, déchets, zones boisées...)
 
 |
 
-4h30
+Moyens et interventions de lutte animalière
 
 |
 
-Environnement.
+Moyens et techniques d'effarouchement (véhicule, moyens acoustiques fixes et mobiles, pyrotechnie), matériels de chasse, stratégie des interventions, capture des animaux
+
+Consignes locales, coordination avec les organismes concernés
 
 |
 
-Facteurs attractifs et solutions dans les emprises aéroportuaires (eau, herbe, cultures, déchets, zones boisées...).
+Partie pratique
 
-|
+Détection des oiseaux et des autres animaux : parcours d'inspection d'un aérodrome, utilisation de jumelles et de télescopes.
 
-1h30
+Identification d'espèces animales : utilisation de guides, critères (taille, couleur, cris, chants), estimation du nombre d'animaux.
 
-|
-
-Moyens et interventions de lutte animalière.
-
-|
-
-Moyens et techniques d'effarouchement (véhicule, moyens acoustiques fixes et mobiles, pyrotechnie), matériels de chasse, stratégie des interventions, capture des chiens.
-
-Consignes locales, coordination avec les organismes concernés.
-
-|
-
-3 heures
-
-|
-
-PARTIE PRATIQUE (7 heures environ)
-
-Détection des oiseaux et des mammifères : parcours d'inspection d'un aérodrome, utilisation de jumelles et de télescopes.
-
-Identification d'espèces animales : utilisation de guides, critères (taille, couleur, cris, chants), estimation du nombres d'animaux.
-
-Utilisation des différentes techniques d'effarouchement et de prélèvement : cris de détresse, pyrotechnie.
-
-Utilisation des matériels de chasse, consignes de sécurité (utilisation, rangement...).
+Utilisation des différentes techniques d'effarouchement et de prélèvement : cris de détresse, pyrotechnie. Utilisation des matériels de chasse, consignes de sécurité (utilisation, rangement...).
 
 Exercices d'intervention.
 
