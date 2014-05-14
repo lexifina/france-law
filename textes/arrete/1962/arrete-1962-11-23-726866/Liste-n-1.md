@@ -1050,7 +1050,7 @@ Manche |
 
 |
 
-Le Touquet - Paris-Plage |
+Le Touquet - Côte d'Opale |
 
 Pas-de-Calais |
 
