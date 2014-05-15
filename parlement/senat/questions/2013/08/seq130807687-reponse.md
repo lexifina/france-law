@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130807687
+
+- Question : [SEQ130807687](seq130807687.md) — Champ d'application de l'article L. 221-2 du code de la route
+
+## Réponse
+
+*Intérieur, JO du 2014-05-15, page 1139*
+
+La réglementation française et européenne en matière de conduite de véhicules automobiles prévoit que le conducteur doit être en possession d'un permis de conduire, dont la catégorie est définie à l'article R. 221-4 du code de la route. Conformément à ce texte, la catégorie de permis de conduire exigée pour la conduite d'un tracteur, à savoir B, BE, C1, C1E, C ou CE, est définie en fonction du poids total autorisé en charge (PTAC) du véhicule auquel s'ajoute celui de sa remorque éventuelle. Par exception à cette règle, l'article R. 221-20 du code de la route prévoit que le conducteur d'un tracteur agricole ou forestier, attaché à une exploitation agricole, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole, est dispensé de permis de conduire sous réserve d'être âgé d'au moins 16 ans. C'est la seule condition qui s'impose au conducteur. Ainsi dès lors que l'engin agricole est rattaché à une exploitation agricole, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole, son conducteur, dès lors qu'il est âgé de plus de 16 ans, n'a pas besoin d'être titulaire du permis de conduire. En revanche, si l'engin agricole n'est pas rattaché à une exploitation agricole ou forestière, son conducteur doit être titulaire de la catégorie de permis correspondante ou de la seule catégorie B s'il est employé communal ou intercommunal, s'il a cessé son activité agricole ou s'il est affouagiste. Ainsi, un agent d'un groupement de communes peut conduire un tracteur et sa remorque, dès lors qu'il est titulaire de la catégorie correspondante ou de la catégorie B s'il est employé communal ou intercommunal.
