@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130405752
+
+- Question : [SEQ130405752](seq130405752.md) — Abattement fiscal pour durée de détention sur les plus-values de cessions des terrains constructibles
+
+## Réponse
+
+*Logement et égalité des territoires, JO du 2014-05-15, page 1147*
+
+L'article 27 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014 prévoyait notamment la suppression de l'abattement pour durée de détention pour le calcul du montant imposable, tant à l'impôt sur le revenu qu'aux prélèvements sociaux, des plus-values de cession de terrains à bâtir ou de droits s'y rapportant réalisées à compter du 1er mars 2014. Toutefois, dans sa décision n° 2013-685 DC du 29 décembre 2013, le Conseil constitutionnel a censuré ce dispositif. Ainsi, les dispositions de l'article 27 de la loi de finances pour 2014 ne modifient pas le régime fiscal et social des plus-values de cession de terrains à bâtir ou de droits s'y rapportant réalisées depuis le 1er janvier 2014 : ces plus-values continuent à bénéficier, tant pour l'impôt sur le revenu que pour les prélèvements sociaux, de l'abattement pour durée de détention selon les modalités prévues par l'article 150 VC du code général des impôts (CGI) dans sa rédaction antérieure à l'article 27 précité de la loi de finances pour 2014. Ainsi, le montant imposable des plus-values de l'espèce réalisées depuis le 1er janvier 2014 reste calculé, comme pour celles réalisées depuis le 1er février 2012, en appliquant à la plus-value brute, déterminée conformément à l'article 150 V du CGI, un abattement pour durée de détention progressif fixé à 2 % pour chaque année de détention au-delà de la cinquième, puis 4 % pour chaque année de détention au-delà de la dix-septième et enfin 8 % pour chaque année de détention au-delà de la vingt-quatrième, conduisant à l'exonération totale des plus-values à l'issue d'un délai de détention de trente ans.
