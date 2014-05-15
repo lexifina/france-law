@@ -66,27 +66,17 @@ Topographie
 
 |
 
-Epreuve de mise en corrélation du terrain et de la carte à partir d'un point fixe
+Epreuve de mise en corrélation du terrain et de la carte à partir d'un point fixe/ orientation en déplacement
 
 |
 
-Trente minutes
+Soixante minutes
+
+(trente minutes + trente minutes)
 
 |
 
-2,5
-
-|
-
-Epreuve d'orientation en déplacement
-
-|
-
-Trente minutes
-
-|
-
-2,5
+La note obtenue à ces deux évaluations est affectée d'un coefficient 10
 
 |
 
@@ -122,7 +112,7 @@ Maintien de l'ordre
 
 |
 
-Conduite d'une mission du niveau chef de groupe
+Conduite d'une mission du niveau chef de groupe, chef d'élément, adjoint au commandant de peloton
 
 |
 
@@ -142,7 +132,7 @@ Sécurité publique générale
 
 |
 
-Conduite d'une mission du niveau chef de groupe
+Conduite d'une mission du niveau chef de groupe/ patrouille/ patrouille renforcée
 
 |
 
@@ -176,15 +166,13 @@ Trente minutes
 
 Tir au pistolet automatique
 
-et aux armes longues
-
 |
 
 |
 
 |
 
-Tir en situation aux armes de dotation. Les tirs aux armes longues seront réalisés pendant le module 1
+Tir en situation au pistolet automatique
 
 |
 
@@ -192,7 +180,7 @@ Tir en situation aux armes de dotation. Les tirs aux armes longues seront réali
 
 |
 
-5
+3
 
 |
 
@@ -212,7 +200,7 @@ Vingt minutes
 
 |
 
-15
+10
 
 |
 
@@ -224,7 +212,7 @@ Piste
 
 |
 
-5
+4
 
 |
 
@@ -564,15 +552,15 @@ NOTE
 
 |
 
-0
+0,5
 
 |
 
-> 14'00
+Temps > 14'00
 
 |
 
-0
+0,5
 
 |
 
