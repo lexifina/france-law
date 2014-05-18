@@ -1,16 +1,16 @@
-# Article Annexe V à l'article R813-47
+# Article Annexe V à l'article D813-47
 
-Le nombre de postes de formateurs nécessaires par groupe de formation de dix-huit élèves est fixé selon les tableaux ci-dessous :
+Le nombre de postes de formateurs nécessaires par groupe de formation de dix-huit élèves est fixé à compter de l'année civile 2014 conformément au tableau ci-dessous :
 
-Pour l'année scolaire 2010-2011 :
-
-|
-
-RYTHME APPROPRIÉ |
+RYTHME APPROPRIE
 
 |
 
-Par alternance |
+|
+
+Par alternance
+
+|
 
 Par une autre méthode
 
@@ -18,148 +18,46 @@ pédagogique
 
 |
 
-Cycle court : |
+Cycle court : 4e, 3e
 
 |
 
-|
-
-4e, 3e |
-
-1,30 |
-
-1,77 |
-
-CAPA, BEPA |
-
-1,86 |
-
-1,86 |
-
-Cycle long : |
+1,30
 
 |
 
-|
-
-baccalauréat |
-
-1,88 |
-
-Cycle supérieur court : |
+1,77
 
 |
 
-|
-
-BTSA |
-
-1,88 |
-
-Pour l'année scolaire 2011-2012 :
+CAPA, BEPA
 
 |
 
-RYTHME APPROPRIÉ |
+1,95
 
 |
 
-Par alternance |
-
-Par une autre méthode
-
-pédagogique
+1,95
 
 |
 
-Cycle court : |
+Cycle long :
+
+baccalauréat
 
 |
 
-|
-
-4e, 3e |
-
-1,30 |
-
-1,77 |
-
-CAPA, BEPA |
-
-1,89 |
-
-1,89 |
-
-Cycle long : |
+2
 
 |
 
-|
+Cycle supérieur court :
 
-baccalauréat |
-
-1,92 |
-
-Cycle supérieur court : |
+BTSA
 
 |
 
-|
-
-BTSA |
-
-1,92 |
-
-A partir de l'année scolaire 2012-2013 :
+2
 
 |
-
-RYTHME APPROPRIÉ |
-
-|
-
-Par alternance |
-
-Par une autre méthode
-
-pédagogique
-
-|
-
-Cycle court : |
-
-|
-
-|
-
-4e, 3e |
-
-1,30 |
-
-1,77 |
-
-CAPA, BEPA |
-
-1,95 |
-
-1,95 |
-
-Cycle long : |
-
-|
-
-|
-
-baccalauréat |
-
-2,00 |
-
-Cycle supérieur court : |
-
-|
-
-|
-
-BTSA |
-
-2,00 |
