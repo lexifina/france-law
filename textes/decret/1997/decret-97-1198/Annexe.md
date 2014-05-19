@@ -114,7 +114,7 @@ armatures pour béton armé).
 
 Mesure prise par les ministres chargés de l'urbanisme, du logement et des transports et les ministres intéressés
 
-Décret n° 86-664 du 14 mars 1986 déterminant les conditions dans lesquelles les personnes morales visées à l'article 6 (b) de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée peuvent assurer la conduite d'opération
+Décret n° 86-664 du 14 mars 1986 déterminant les conditions dans lesquelles les personnes morales visées à l'article 6 (b) de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée peuvent assurer la conduite d'opération
 
 1
 
@@ -140,11 +140,7 @@ Autorisation donnée à une société anonyme d'habitations à loyer modéré de
 
 |
 
-Article R. 422-1 relatif
-
-aux statuts des SA d'HLM-Clause
-
-type n° 11 annexée.
+Article R. 422-1 relatif aux statuts des SA d'HLM-Clause type n° 11 annexée.
 
 |
 
@@ -542,7 +538,7 @@ Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèm
 
 |
 
-Habilitation des organismes mettant en oeuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification "CE" des sous-systèmes.
+Habilitation des organismes mettant en œuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification "CE" des sous-systèmes.
 
 |
 
@@ -676,7 +672,9 @@ Article R. 118-2-4
 
 |
 
-Agrément des organismes habilités à attester et à vérifier la conformité des équipements routiers. Suspension et annulation de cet agrément.
+Agrément des organismes habilités à attester et à vérifier la conformité
+
+des équipements routiers. Suspension et annulation de cet agrément.
 
 |
 
@@ -846,7 +844,9 @@ Article R. 423-87
 
 |
 
-Décisions concernant une société anonyme de coordination d'organismes d'habitations à loyer modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou à la révocation d'un membre du conseil d'administration, du conseil de surveillance ou du directoire, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitation à loyer modéré, à la suspension du conseil d'administration, du conseil de surveillance ou du directoire, à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier, à la dissolution et à la liquidation de la société, à la nomination d'un liquidateur. Autorisation de procéder à une attribution d'actifs selon les modalités prévues au premier alinéa de l'article L. 422-11.
+Décisions concernant une société anonyme de coordination d'organismes d'habitations à loyer
+
+modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou à la révocation d'un membre du conseil d'administration, du conseil de surveillance ou du directoire, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitation à loyer modéré, à la suspension du conseil d'administration, du conseil de surveillance ou du directoire, à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier, à la dissolution et à la liquidation de la société, à la nomination d'un liquidateur. Autorisation de procéder à une attribution d'actifs selon les modalités prévues au premier alinéa de l'article L. 422-11.
 
 |
 
@@ -966,7 +966,7 @@ Article 10
 
 |
 
-Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991, 95-18 et 95-19 du 19 juin 1995.
+Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18 et 95-19 du 19 juin 1995.
 
 1
 
@@ -1022,7 +1022,9 @@ Art. 7 et 8
 
 |
 
-Autorisation de mise en exploitation, suspension temporaire et retrait d'autorisations.
+Autorisation de mise en exploitation, suspension temporaire et
+
+retrait d'autorisations.
 
 |
 
@@ -1036,7 +1038,11 @@ Règlement (CEE) n° 684-92 du Conseil du 16 mars 1992 établissant des règles 
 
 |
 
-Délivrance des autorisations pour l'exécution de services internationaux (CEE) de transport routier de voyageurs lorsque le service n'est pas limité à un département frontalier et à l'Etat membre limitrophe.
+Délivrance des autorisations pour l'exécution de services internationaux
+
+(CEE) de transport routier de voyageurs lorsque le service n'est pas
+
+limité à un département frontalier et à l'Etat membre limitrophe.
 
 |
 
@@ -1218,7 +1224,11 @@ Décret n° 2003-194 du 7 mars 2003 relatif à l'utilisation du réseau ferré n
 
 Délivrance de la licence d'entreprise ferroviaire ;
 
-Retrait, suspension de la licence d'entreprise ferroviaire et mise en demeure d'une entreprise ferroviaire de régulariser sa situation financière.
+Retrait, suspension de la licence d'entreprise ferroviaire et
+
+mise en demeure d'une entreprise ferroviaire de
+
+régulariser sa situation financière.
 
 |
 
@@ -1230,7 +1240,9 @@ Articles 10 et 12
 
 |
 
-Délivrance du certificat de sécurité pour l'utilisation du réseau ferré national ;
+Délivrance du certificat de sécurité pour l'utilisation du
+
+réseau ferré national ;
 
 Retrait et suspension du certificat de sécurité.
 
@@ -1434,7 +1446,9 @@ Habilitation, retrait et suspension de l'habilitation des sociétés de classifi
 
 |
 
-Articles 42 et 42-1.
+Articles 42 et
+
+42-1.
 
 |
 
@@ -1506,7 +1520,9 @@ Autorisation pour transport déterminé (ATD) pour la liaison entre ports franç
 
 Article 257, 1er alinéa,
 
-et article 258, 2e alinéa.
+et article 258,
+
+2e alinéa.
 
 |
 
@@ -1537,6 +1553,20 @@ Entrées et sorties de flotte de commerce : navires de plus de 200 tonneaux de j
 Article 1er, 1er
 
 et 2e alinéa.
+
+|
+
+Décret n° 2014-497 du 16 mai 2014 relatif à la délégation des certificats d'assurance ou autre garantie financière des navires
+
+1
+
+|
+
+Agrément des organismes ayant délégation pour délivrer au nom de l'Etat français les certificats d'assurance ou autre garantie financière des navires.
+
+|
+
+Article 2
 
 |
 
@@ -1580,7 +1610,9 @@ Délivrance, suspension et retrait de l'agrément national délivré à des orga
 
 |
 
-Articles R. * 412-1 et R. * 412-7.
+Articles R. * 412-1 et
+
+R. * 412-7.
 
 |
 
@@ -2016,7 +2048,7 @@ Article R. 213-4-1
 
 |
 
-Annexe I au décret n° 2005-828 du 20 juillet 2005relatif à la société Aéroports de Paris
+Annexe I au décret n° 2005-828 du 20 juillet 2005 relatif à la société Aéroports de Paris
 
 1
 
@@ -2140,7 +2172,7 @@ Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression 
 
 |
 
-Habilitation d'organismes de contrôle mentionnés aux articles 10, 12, 18 et aux points 3.1.2 et 3.1.3 de l'annexe 1, ainsi que la suspension ou le retrait de cette habilitation.
+Habilitation d'organismes de contrôle mentionnés aux articles 10,12,18 et aux points 3.1.2 et 3.1.3 de l'annexe 1, ainsi que la suspension ou le retrait de cette habilitation.
 
 |
 
@@ -2408,4 +2440,6 @@ Décision demandant le remboursement de tout ou partie d'une subvention versée
 
 |
 
-Article 22 |
+Article 22
+
+|
