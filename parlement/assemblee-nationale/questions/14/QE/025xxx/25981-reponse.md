@@ -1,0 +1,9 @@
+# Réponse à la question n° 25981
+
+- Question : [25981](25981.md) — Question n° 25981 — bus hybrides; motorisation diesel; RATP; achat; conséquences
+
+## Réponse
+
+*JO du 2014-05-20*
+
+Les émissions atmosphériques des véhicules sont réglementées par les normes Euro. Elles fixent des valeurs d'émissions, pour chaque catégorie de véhicules, pour les oxydes d'azote, les hydrocarbures imbrûlés, le monoxyde de carbone ou encore les particules. Ces différentes normes successives et les progrès technologiques ont permis de réduire les émissions de polluants au fil du temps. Ainsi, un autobus de norme EURO 6 diesel (mis en circulation à partir du 1er janvier 2014) émet environ 93 % de particules de moins qu'un autobus EURO 2 diesel (mis en circulation entre le 1er octobre 1996 et le 1er octobre 2001). Le renouvellement du parc de véhicules anciens de la RATP par des véhicules récents permet donc une diminution des émissions du parc d'autobus. En décembre 2013, le Conseil du syndicat des transports d'Île-de-France (STIF) a adopté un plan ambitieux de réduction des polluants émis par les bus et a demandé à la RATP d'engager à compter de 2014 un programme d'acquisition de bus permettant de réduire de 50 % les émissions de particules fines du parc de bus en 2 ans. Pour cela, les principales décisions du Conseil du STIF portent sur l'accélération du programme de remplacement des bus (renouvellement des véhicules anciens, installation de filtres à particules sur les véhicules non équipés), l'orientation des acquisitions de bus pour le coeur de l'agglomération vers un parc électrique, l'optimisation des installations du gaz naturel pour véhicules (GNV), déjà existantes en Île-de-France et le développement de la politique d'expérimentation sur les modes d'avenir. Cette démarche volontaire contribuera à l'amélioration de la qualité de l'air en Île-de-France.
