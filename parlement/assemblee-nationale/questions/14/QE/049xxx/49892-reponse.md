@@ -1,0 +1,9 @@
+# Réponse à la question n° 49892
+
+- Question : [49892](49892.md) — Question n° 49892 — drones de loisir; utilisation
+
+## Réponse
+
+*JO du 2014-05-20*
+
+Les drones étant des aéronefs, ils sont donc soumis aux dispositions du code de l'aviation civile et des textes pris pour son application. Ces textes ont pour objet premier de préserver la sécurité des personnes et des biens survolés, des autres aéronefs, et des usagers. Ils ne traitent pas directement des questions de protection de la vie privée qui restent régies par les dispositions générales applicables dans ce domaine. Certaines de leurs dispositions apportent toutefois un certain nombre de protections et de garanties : en ce qui concerne l'usage professionnel un régime d'autorisation a été créé en 2012 et permet de connaitre les utilisateurs, de leur rappeler les exigences à respecter, et le cas échéant, de sanctionner les contrevenants. Pour les drones utilisés à titre de loisir, ils sont soumis aux dispositions en vigueur depuis longtemps pour les aéromodèles, auxquels ils sont assimilés. Le régime d'autorisation n'est applicable qu'aux plus gros d'entre eux (de masse supérieure à 25 kgs). En revanche même les plus petits sont soumis aux limitations en matière d'espace aérien. Celles-ci interdisent pour ces appareils - sauf autorisation exceptionnelle - le survol des agglomérations ainsi que le survol de tout rassemblement de personnes. Ces limitations doivent aujourd'hui faire l'objet d'une information importante visant notamment à sensibiliser les amateurs, comme les professionnels, au fait que les drones répondent à des règles strictes et n'ont pas vocation à devenir des outils de surveillance privée. L'effort du Gouvernement et des administrations se porte aujourd'hui sur l'importance d'une communication claire sur ces sujets, qui sera accompagnée progressivement par des sanctions appropriées.
