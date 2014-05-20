@@ -1,0 +1,9 @@
+# Réponse à la question n° 46221
+
+- Question : [46221](46221.md) — Question n° 46221 — étudiants
+
+## Réponse
+
+*JO du 2014-05-20*
+
+Le logement est le premier poste de dépenses des étudiants, qui rencontrent par ailleurs d'importantes difficultés dans l'accession au logement, compte tenu de leurs ressources insuffisantes au regard du niveau des loyers. La ministre du logement et de l'égalité des territoires met donc tout en oeuvre pour lutter contre la pénurie de logements accessibles, la hausse des prix, et les obstacles à l'accès au logement des étudiants. Concernant la pénurie de logements accessibles, le Gouvernement s'inscrit pleinement dans l'objectif défini par le Président de la République de produire 40 000 logements dédiés aux étudiants sur la durée du quinquennat. 7 661 logements ont déjà été financés en 2013, dont 3 419 en Île-de-France, 977 en Rhône-Alpes et 778 en Provence-Alpes-Côte-d'Azur, trois régions particulièrement tendues. Le rythme de production devrait bénéficier de deux mesures déjà en vigueur : la mobilisation du foncier public en faveur du logement, et le renforcement des obligations de production de logement social (les logements étudiants étant comptabilisés parmi les logements sociaux). Concernant l'accès au parc privé de droit commun, la loi pour l'accès au logement et un urbanisme rénové (ALUR), publiée au Journal Officiel le 26/03/2014, va permettre d'activer de nouveaux leviers susceptibles d'intéresser les étudiants : encadrement des loyers, limitation des justificatifs exigibles d'un locataire, meilleure protection des locataires de logements meublés, clarification des frais d'agence liés à la mise en location, clarification du régime de la colocation. Les étudiants seront par ailleurs particulièrement concernés par la mise en oeuvre de la garantie universelle des loyers (GUL), qu'ils pourront d'ailleurs cumuler avec une caution personnelle afin de maximiser leur chance d'accéder à un logement privé.
