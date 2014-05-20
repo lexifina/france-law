@@ -1,0 +1,9 @@
+# Réponse à la question n° 51414
+
+- Question : [51414](51414.md) — Question n° 51414 — préservation
+
+## Réponse
+
+*JO du 2014-05-20*
+
+La portée des avis donnés par la commission départementale de la consommation des espaces agricoles, qui devient la commission départementale de préservation des espaces naturels, agricoles et forestiers (CDPENAF) dans le projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt, a fait l'objet de nombreux amendements de parlementaires des deux assemblées en première lecture du projet de loi. Ces amendements répondaient à des objectifs contradictoires, destinés soit à renforcer, soit à réduire l'effet des avis donnés par cette commission. La proposition de disposition consistant à imposer un avis favorable de la commission, en particulier sur les documents d'urbanisme, renforcerait considérablement son pouvoir en métropole. Etant donné la transversalité des objectifs des documents d'urbanisme, tels que mentionnés à l'article L. 121-1 du code de l'urbanisme et dont la préservation des espaces affectés aux activités agricoles est une composante, il importe dans un souci d'équilibre de réserver l'avis conforme de ladite commission aux enjeux les plus forts tels que prévus dans le projet de loi (appellation d'origine protégée). En complément, le projet de loi, qui va prochainement être soumis en seconde lecture à l'Assemblée nationale et au Sénat, propose de renforcer la préservation des terres agricoles en améliorant les documents d'urbanisme pour les rendre davantage protecteurs des espaces agricoles et en élargissant le champ d'intervention et des compétences de l'observatoire national de la consommation des espaces agricoles aux espaces naturels et forestiers. S'agissant de la portée de l'avis de la CDPENAF, celui-ci pourra évoluer en fonction des dispositions qui seront adoptées au cours de la seconde lecture du projet de loi.
