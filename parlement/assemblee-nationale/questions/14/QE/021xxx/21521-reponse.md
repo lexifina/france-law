@@ -1,0 +1,9 @@
+# Réponse à la question n° 21521
+
+- Question : [21521](21521.md) — Question n° 21521 — entrepreneurs forains; revendications
+
+## Réponse
+
+*JO du 2014-05-20*
+
+Tout propriétaire qui souhaite aménager un terrain pour permettre l'installation de caravanes constituant son habitat permanent doit s'assurer que son terrain est situé en zone constructible, en conformité avec les dispositions de l'article L.444-1 du code de l'urbanisme. En application du même article, le projet d'aménagement est soumis, selon la capacité d'accueil du terrain, à un permis d'aménager ou à une déclaration préalable, dans des conditions analogues à celles exigées du propriétaire d'un terrain qui souhaite aménager un camping. En conséquence, le projet relève, soit d'un permis d'aménager si le terrain est destiné à l'accueil de plus six caravanes (article R. 421-19 c) du même code), soit d'une déclaration préalable, dans le cas contraire. Nonobstant ces dispositions, un permis de construire sera requis dès lors que les aménagements et constructions projetés sur le terrain relèvent, par leur ampleur, des dispositions de droit commun prescrivant l'obtention d'un permis de construire. Enfin, l'article 73 du projet de loi pour l'accès au logement et un urbanisme rénové, en cours d'examen au Parlement, devrait faciliter l'installation de caravanes sur un plus grand nombre de terrains. Il prévoit en effet, à titre exceptionnel, la possibilité de délimiter dans les zones agricoles, naturelles ou forestières des plans locaux d'urbanisme des secteurs de taille et de capacité d'accueil limitées, dans lesquels pourront être autorisés des résidences démontables constituant l'habitat permanent de leurs utilisateurs ainsi que des aires d'accueil et des terrains familiaux locatifs destinés à l'habitat des gens du voyage.
