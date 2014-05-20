@@ -1,0 +1,9 @@
+# Réponse à la question n° 50077
+
+- Question : [50077](50077.md) — Question n° 50077 — rapport parlementaire; préconisations
+
+## Réponse
+
+*JO du 2014-05-20*
+
+La France met en oeuvre une politique active de promotion de la langue française dans le monde et soutient les différentes actions de l'Organisation internationale de la Francophonie (OIF) et des opérateurs de la Francophonie en faveur du multilinguisme. S'agissant plus particulièrement de la mise sur pied d'un programme de mobilité étudiante francophone de type Erasmus, la France soutient dans ce domaine la stratégie de financement de mobilités menée par l'Agence universitaire de la Francophonie (AUF), opérateur de la Francophonie. Ces mobilités comptent six catégories : trois pour les étudiants (master, doctorat et stages professionnels), trois pour les enseignants-chercheurs (perfectionnement à la formation-recherche, post-doctorat et missions de coopération scientifique et technique). L'AUF a ainsi versé des allocations à plus de 1 560 étudiants et professeurs pour l'année universitaire 2012-2013. Les régions qui envoient le plus d'étudiants francophones à l'étranger sont l'Asie-Pacifique, l'Europe de l'Ouest et l'Europe centrale. En termes d'accueil, l'Europe de l'Ouest est la région qui attire le plus de mobilités : près de 40%, avec 616 mobilités. De ce nombre, plus de 90 % des allocataires choisissent la France pour étudier. Ceux qui choisissent la France viennent de 63 pays différents, majoritairement d'Asie (Vietnam et Cambodge), du Moyen-Orient (Liban et Égypte) et d'Europe centrale (Roumanie, Bulgarie et Moldavie). La France étant le principal bailleur de fonds de l'AUF (à hauteur de 65 % de son budget en 2014) et représentée au sein de son conseil d'administration, elle veillera à ce que ces programmes de mobilité pour étudiants et enseignants-chercheurs francophones soient développés.
