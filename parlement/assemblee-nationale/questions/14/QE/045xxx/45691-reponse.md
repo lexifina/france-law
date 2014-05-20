@@ -1,0 +1,9 @@
+# Réponse à la question n° 45691
+
+- Question : [45691](45691.md) — Question n° 45691 — textes d'application; publication
+
+## Réponse
+
+*JO du 2014-05-20*
+
+Vingt lois appelant 146 mesures d'application relevant des attributions du ministère du logement et de l'égalité des territoires (MLET) ont été promulguées au cours de la XIIIe législature. 140 de ces mesures d'application ont été prises au 31 décembre 2013, soit un taux d'application des lois de 96 %. Les lois en attente de mesures d'application sont : - la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris, pour laquelle deux mesures sont encore en attente de décrets d'application (sur 10) ; - la loi n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit (1 mesure sur 4) ; - la loi n° 2011-901 du 28 juillet 2011 tendant à améliorer le fonctionnement des maisons départementales des personnes handicapées et portant diverses dispositions relatives à la politique du handicap (un décret) ; - la loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 (deux décrets facultatifs). S'agissant des trois lois promulguées entre le 30 juin 2012 et le 31 décembre 2013, appelant la rédaction de 22 décrets d'application relevant du MLET, il ne reste plus actuellement qu'un seul décret à publier, au titre de la loi de finances pour 2013 n° 2012-1509 du 29 décembre 2012. Ce décret est actuellement en cours d'élaboration. Le taux d'exécution des lois pour le MLET, au titre de la XIVème législature, est actuellement de 95,45 %. S'agissant de la loi pour l'accès au logement et un urbanisme rénové (ALUR) promulguée le 26 mars 2014, 201 mesures d'application sont nécessaires. Le travail de priorisation est en cours afin de permettre une mise en oeuvre concertée, équilibrée et efficace de ces mesures.
