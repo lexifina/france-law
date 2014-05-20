@@ -1,0 +1,9 @@
+# Réponse à la question n° 53320
+
+- Question : [53320](53320.md) — Question n° 53320 — champ d'application
+
+## Réponse
+
+*JO du 2014-05-20*
+
+Donner un prix significatif au carbone est un élément essentiel pour assurer la transition vers une économie compétitive bas carbone et dépend tant des politiques nationales ambitieuses mises en place dans les pays européens que des outils de politique climatique appliqués de façon harmonisée dans l'Union européenne. En France, l'article 32 de la loi de finances pour 2014 introduit au sein de la taxe intérieure de consommation sur les produits énergétiques (TICPE) une composante carbone progressive et proportionnée aux émissions de CO2 des produits énergétiques soumis à la TICPE, selon une valeur de la tonne de CO2 fixée à 7 € en 2014, 14,5 € en 2015 et 22 € en 2016. Sur cette base, la hausse de la taxe sur le charbon sera progressive pour le consommateur d'ici 2016. Cette évolution de notre fiscalité énergétique contribue au verdissement de nos prélèvements obligatoires et contribue à la réduction de notre dépendance au pétrole, à l'amélioration de la balance commerciale du pays, et à la croissance des filières liées à la transition énergétique. S'agissant des gaz à effet de serre autres que le CO2, ils ne sont en effet pas pris en compte dans ce cadre, mais ils pèsent très peu, moins de 2 %, dans le bilan des émissions dues à la combustion des produits énergétiques. Le Gouvernement est par ailleurs vigilant quant à l'impact de l'aménagement de la TICPE sur la situation des ménages modestes. Ainsi, une mission a été confiée au Conseil général de l'environnement et du développement durable, à l'inspection générale des affaires sociales, et à l'inspection générale des finances sur la mise en place d'un dispositif d'aide au paiement des factures d'énergie, qui devrait rendre ses conclusions dans les prochaines semaines.
