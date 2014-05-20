@@ -1,0 +1,9 @@
+# Réponse à la question n° 42394
+
+- Question : [42394](42394.md) — Question n° 42394 — validations de trimestres; réglementation
+
+## Réponse
+
+*JO du 2014-05-20*
+
+Les assurés bénéficiaires d'un congé de formation-reconversion perçoivent une allocation de conversion, non soumise à cotisations de sécurité sociale. Or, dans notre système de retraite qui repose sur le principe de contributivité, les droits à pension sont acquis en contrepartie de cotisations prélevées sur le revenu d'activité et leur montant est largement fonction de l'effort contributif de l'assuré. Afin d'éviter de pénaliser, pour leurs droits à retraite, les salariés qui rencontrent des aléas au cours de leurs carrières, le législateur a souhaité traiter les périodes de congé de formation-conversion comme des périodes de chômage et les assimiler à des périodes d'assurance. Les périodes pendant lesquelles l'assuré a bénéficié de l'allocation de conversion (article R.351-12-4° f du code de la sécurité sociale) sont ainsi comptées comme des périodes d'assurance à raison d'autant de trimestres que ces périodes représentent cinquante jours, dans la limite de quatre trimestres par an. Ces périodes assimilées sont ainsi valorisées par la solidarité nationale dans le calcul de la pension en donnant droit à des trimestres dans la carrière des assurés. Le régime général reçoit à ce titre une contribution du fonds de solidarité vieillesse. Les règles de droit prévoient donc bien que les trimestres du congé de formation-reconversion soient pris en compte. Toutefois, dans le calcul du salaire annuel moyen sur la base duquel est calculée la retraite, seules les périodes ayant donné lieu à cotisations sont prises en compte. C'est pourquoi, il ne peut être reporté de salaire au compte des intéressés, les allocations versées n'étant pas soumises, comme les salaires, aux cotisations de sécurité sociale.
