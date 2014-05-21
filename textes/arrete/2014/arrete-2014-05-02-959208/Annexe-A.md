@@ -1,4 +1,4 @@
-# Article ANNEXE A
+# Article Annexe A
 
 |
 
@@ -48,9 +48,7 @@ MAG
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de l'Afghanistan
-
-responsables de la surveillance réglementaire, notamment :
+Tous les transporteurs aériens certifiés par les autorités de l'Afghanistan responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -128,11 +126,7 @@ SFW
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de l'Angola
-
-chargées de la surveillance réglementaire (à l'exception de TAAG Angola Airlines
-
-qui figure à l'annexe B), notamment :
+Tous les transporteurs aériens certifiés par les autorités de l'Angola chargées de la surveillance règlementaire (à l'exception de TAAG Angola Airlines qui figure à l'annexe B), notamment :
 
 |
 
@@ -206,7 +200,7 @@ Angola
 
 |
 
-Air 26
+Air26
 
 |
 
@@ -338,9 +332,7 @@ SOR
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités du Bénin
-
-responsables de la surveillance réglementaire, notamment :
+Tous les transporteurs aériens certifiés par les autorités du Bénin responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -480,9 +472,7 @@ TNB
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de la République
-
-du Congo responsables de la surveillance réglementaire, notamment :
+Tous les transporteurs aériens certifiés par les autorités de la République du Congo responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -616,9 +606,7 @@ TSG
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de la République
-
-démocratique du Congo (RDC) responsables de la surveillance réglementaire, notamment :
+Tous les transporteurs aériens certifiés par les autorités de la République démocratique du Congo (RDC) responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -884,7 +872,7 @@ République démocratique du Congo (RDC)
 
 |
 
-EXY
+CXR
 
 |
 
@@ -1110,13 +1098,15 @@ République démocratique du Congo (RDC)
 
 |
 
+KGO
+
 |
 
 75
 
 |
 
-Lignes Aériennes Congolaises (LAC)
+Lignes aériennes congolaises (LAC)
 
 |
 
@@ -1346,9 +1336,7 @@ WDA
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de Djibouti
-
-responsables de la surveillance réglementaire, notamment :
+Tous les transporteurs aériens certifiés par les autorités de Djibouti responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -1378,9 +1366,7 @@ DAO
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de la Guinée équatoriale
-
-responsables de la surveillance réglementaire, notamment :
+Tous les transporteurs aériens certifiés par les autorités de la Guinée équatoriale responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -1452,9 +1438,7 @@ Guinée équatoriale
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités d'Erythrée
-
-responsables de la surveillance réglementaire, à savoir :
+Tous les transporteurs aériens certifiés par les autorités d'Erythrée responsables de la surveillance réglementaire, à savoir :
 
 |
 
@@ -1500,11 +1484,7 @@ NAS
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de la République gabonaise
-
-responsables de la surveillance réglementaire (à l'exception de Gabon Airlines,
-
-d'Afrijet et de SN2AG qui figurent à l'annexe B), notamment :
+Tous les transporteurs aériens certifiés par les autorités de la République gabonaise responsables de la surveillance réglementaire (à l'exception de Gabon Airlines, d'Afrijet et de SN2AG qui figurent à l'annexe B), notamment :
 
 |
 
@@ -1630,13 +1610,7 @@ SVG
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités indonésiennes
-
-responsables de la surveillance réglementaire (à l'exception de Garuda Indonesia,
-
-d'Airfast Indonesia, de Mandala Airlines, d'EkspresTransportasiAntarbenua,
-
-d'Indonesia Air Asia), notamment :
+Tous les transporteurs aériens certifiés par les autorités indonésiennes responsables de la surveillance réglementaire (à l'exception de Garuda Indonesia, d'Airfast Indonesia, de Mandala Airlines, d'EkspresTransportasiAntarbenua, d'Indonesia Air Asia), notamment :
 
 |
 
@@ -1700,6 +1674,8 @@ Indonésie
 
 |
 
+LBZ
+
 |
 
 114
@@ -1728,6 +1704,8 @@ Indonésie
 
 |
 
+SQS
+
 |
 
 116
@@ -1741,6 +1719,8 @@ Aviastar Mandiri
 Indonésie
 
 |
+
+VIT
 
 |
 
@@ -1849,6 +1829,8 @@ Eastindo
 Indonésie
 
 |
+
+ESD
 
 |
 
@@ -2060,6 +2042,8 @@ Indonésie
 
 |
 
+MNS
+
 |
 
 138
@@ -2124,7 +2108,7 @@ Indonésie
 
 |
 
-National Utility Helicopter
+Nam Air
 
 |
 
@@ -2138,7 +2122,7 @@ Indonésie
 
 |
 
-Nusantara Air Charter
+National Utility Helicopter
 
 |
 
@@ -2152,7 +2136,7 @@ Indonésie
 
 |
 
-Nusantara Buana Air
+Nusantara Air Charter
 
 |
 
@@ -2160,13 +2144,15 @@ Indonésie
 
 |
 
+SJK
+
 |
 
 145
 
 |
 
-Pacific Royale Airways
+Nusantara Buana Air
 
 |
 
@@ -2180,6 +2166,22 @@ Indonésie
 
 |
 
+Pacific Royale Airways
+
+|
+
+Indonésie
+
+|
+
+PRQ
+
+|
+
+147
+
+|
+
 Pegasus Air Services
 
 |
@@ -2190,7 +2192,7 @@ Indonésie
 
 |
 
-147
+148
 
 |
 
@@ -2206,7 +2208,7 @@ PAS
 
 |
 
-148
+149
 
 |
 
@@ -2220,7 +2222,7 @@ Indonésie
 
 |
 
-149
+150
 
 |
 
@@ -2234,7 +2236,7 @@ Indonésie
 
 |
 
-150
+151
 
 |
 
@@ -2250,7 +2252,7 @@ RIU
 
 |
 
-151
+152
 
 |
 
@@ -2264,7 +2266,7 @@ Indonésie
 
 |
 
-152
+153
 
 |
 
@@ -2278,7 +2280,7 @@ Indonésie
 
 |
 
-153
+154
 
 |
 
@@ -2294,7 +2296,7 @@ SMC
 
 |
 
-154
+155
 
 |
 
@@ -2310,7 +2312,7 @@ SJY
 
 |
 
-155
+156
 
 |
 
@@ -2322,9 +2324,11 @@ Indonésie
 
 |
 
+PNS
+
 |
 
-156
+157
 
 |
 
@@ -2338,7 +2342,7 @@ Indonésie
 
 |
 
-157
+158
 
 |
 
@@ -2350,9 +2354,11 @@ Indonésie
 
 |
 
+TNU
+
 |
 
-158
+159
 
 |
 
@@ -2364,9 +2370,11 @@ Indonésie
 
 |
 
+TWT
+
 |
 
-159
+160
 
 |
 
@@ -2382,7 +2390,7 @@ XAR
 
 |
 
-160
+161
 
 |
 
@@ -2396,7 +2404,7 @@ Indonésie
 
 |
 
-161
+162
 
 |
 
@@ -2412,7 +2420,7 @@ TMG
 
 |
 
-162
+163
 
 |
 
@@ -2428,7 +2436,7 @@ TGN
 
 |
 
-163
+164
 
 |
 
@@ -2442,7 +2450,7 @@ Indonésie
 
 |
 
-164
+165
 
 |
 
@@ -2458,13 +2466,11 @@ WON
 
 |
 
-165
+166
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités du Kazakhstan
-
-responsables de la surveillance réglementaire (à l'exception d'Air Astana), notamment :
+Tous les transporteurs aériens certifiés par les autorités du Kazakhstan responsables de la surveillance réglementaire (à l'exception d'Air Astana), notamment :
 
 |
 
@@ -2474,7 +2480,7 @@ République du Kazakhstan
 
 |
 
-166
+167
 
 |
 
@@ -2490,7 +2496,7 @@ LMY
 
 |
 
-167
+168
 
 |
 
@@ -2506,7 +2512,7 @@ RTR
 
 |
 
-168
+169
 
 |
 
@@ -2522,7 +2528,7 @@ AMA
 
 |
 
-169
+170
 
 |
 
@@ -2538,7 +2544,7 @@ SAP
 
 |
 
-170
+171
 
 |
 
@@ -2554,7 +2560,7 @@ BEK
 
 |
 
-171
+172
 
 |
 
@@ -2570,7 +2576,7 @@ BBS
 
 |
 
-172
+173
 
 |
 
@@ -2586,7 +2592,7 @@ BRY
 
 |
 
-173
+174
 
 |
 
@@ -2602,7 +2608,7 @@ KAZ
 
 |
 
-174
+175
 
 |
 
@@ -2618,7 +2624,7 @@ EWZ
 
 |
 
-175
+176
 
 |
 
@@ -2634,7 +2640,7 @@ EAK
 
 |
 
-176
+177
 
 |
 
@@ -2650,7 +2656,7 @@ FJK
 
 |
 
-177
+178
 
 |
 
@@ -2666,7 +2672,7 @@ TLG
 
 |
 
-178
+179
 
 |
 
@@ -2682,7 +2688,7 @@ MZA
 
 |
 
-179
+180
 
 |
 
@@ -2698,7 +2704,7 @@ SOZ
 
 |
 
-180
+181
 
 |
 
@@ -2714,7 +2720,7 @@ JKZ
 
 |
 
-181
+182
 
 |
 
@@ -2730,7 +2736,7 @@ KEJ
 
 |
 
-182
+183
 
 |
 
@@ -2746,7 +2752,7 @@ KUY
 
 |
 
-183
+184
 
 |
 
@@ -2762,7 +2768,7 @@ KZS
 
 |
 
-184
+185
 
 |
 
@@ -2778,7 +2784,7 @@ LIS
 
 |
 
-185
+186
 
 |
 
@@ -2794,7 +2800,7 @@ PKZ
 
 |
 
-186
+187
 
 |
 
@@ -2810,7 +2816,7 @@ VSV
 
 |
 
-187
+188
 
 |
 
@@ -2826,13 +2832,11 @@ JTU
 
 |
 
-188
+189
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de la République kirghize
-
-responsables de la surveillance réglementaire, notamment :
+Tous les transporteurs aériens certifiés par les autorités de la République kirghize responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -2842,87 +2846,7 @@ République kirghize
 
 |
 
-189
-
-|
-
-Air Manas
-
-|
-
-Kirghizstan
-
-|
-
-MBB
-
-|
-
 190
-
-|
-
-Avia Traffic Company
-
-|
-
-Kirghizstan
-
-|
-
-AVJ
-
-|
-
-191
-
-|
-
-Central Asian Aviation Services (CAAS)
-
-|
-
-Kirghizstan
-
-|
-
-CRS
-
-|
-
-192
-
-|
-
-Click Airways
-
-|
-
-Kirghizstan
-
-|
-
-CGK
-
-|
-
-193
-
-|
-
-Heli Sky
-
-|
-
-Kirghizstan
-
-|
-
-HAC
-
-|
-
-194
 
 |
 
@@ -2938,7 +2862,87 @@ EAA
 
 |
 
+191
+
+|
+
+Air Manas
+
+|
+
+Kirghizstan
+
+|
+
+MBB
+
+|
+
+192
+
+|
+
+Avia Traffic Company
+
+|
+
+Kirghizstan
+
+|
+
+AVJ
+
+|
+
+193
+
+|
+
+Central Asian Aviation Services (CAAS)
+
+|
+
+Kirghizstan
+
+|
+
+CBK
+
+|
+
+194
+
+|
+
+Click Airways
+
+|
+
+Kirghizstan
+
+|
+
+CGK
+
+|
+
 195
+
+|
+
+Heli Sky
+
+|
+
+Kirghizstan
+
+|
+
+HAC
+
+|
+
+196
 
 |
 
@@ -2950,11 +2954,11 @@ Kirghizstan
 
 |
 
-CCC
+KTC
 
 |
 
-196
+197
 
 |
 
@@ -2970,7 +2974,7 @@ KGZ
 
 |
 
-197
+198
 
 |
 
@@ -2986,7 +2990,7 @@ LYN
 
 |
 
-198
+199
 
 |
 
@@ -3002,7 +3006,7 @@ BAM
 
 |
 
-199
+200
 
 |
 
@@ -3014,11 +3018,9 @@ Kirghizstan
 
 |
 
-SGL
-
 |
 
-200
+201
 
 |
 
@@ -3034,7 +3036,7 @@ IND
 
 |
 
-201
+202
 
 |
 
@@ -3050,7 +3052,7 @@ BIS
 
 |
 
-202
+203
 
 |
 
@@ -3066,7 +3068,7 @@ KGK
 
 |
 
-203
+204
 
 |
 
@@ -3082,7 +3084,7 @@ SAB
 
 |
 
-204
+205
 
 |
 
@@ -3098,7 +3100,7 @@ DAM
 
 |
 
-205
+206
 
 |
 
@@ -3114,7 +3116,7 @@ SGK
 
 |
 
-206
+207
 
 |
 
@@ -3130,7 +3132,7 @@ TEZ
 
 |
 
-207
+208
 
 |
 
@@ -3146,29 +3148,25 @@ VAC
 
 |
 
-208
-
-|
-
-Tous les transporteurs aériens certifiés par les autorités du Liberia
-
-chargées de la surveillance réglementaire
-
-|
-
-Liberia
-
-|
-
-|
-
 209
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de la
+Tous les transporteurs aériens certifiés par les autorités du Libéria chargées de la surveillance réglementaire
 
-République du Mozambique responsables de la surveillance réglementaire, notamment :
+|
+
+Libéria
+
+|
+
+|
+
+210
+
+|
+
+Tous les transporteurs aériens certifiés par les autorités de la République du Mozambique responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -3178,7 +3176,7 @@ République du Mozambique
 
 |
 
-210
+211
 
 |
 
@@ -3192,25 +3190,11 @@ Mozambique
 
 |
 
-211
-
-|
-
-Aerovisao de Mozambique
-
-|
-
-Mozambique
-
-|
-
-|
-
 212
 
 |
 
-CFM-Transportes e Traballo Aereo SA
+CFM-Trabalhos e Transportes Aireos Lda
 
 |
 
@@ -3224,7 +3208,7 @@ Mozambique
 
 |
 
-Coastal Aviation
+COA-Coastal Aviation
 
 |
 
@@ -3238,7 +3222,7 @@ Mozambique
 
 |
 
-Cr Aviation
+CPY-Cropsprayers
 
 |
 
@@ -3252,7 +3236,7 @@ Mozambique
 
 |
 
-Emilio Air Charter Lda
+CRA-Cr Aviation Lda
 
 |
 
@@ -3266,7 +3250,7 @@ Mozambique
 
 |
 
-ETA Air Charter
+Emilio Air Charter Lda
 
 |
 
@@ -3280,7 +3264,7 @@ Mozambique
 
 |
 
-Helicopteros Capital
+ETA - Empresa de Transportes Aéreos Lda
 
 |
 
@@ -3294,7 +3278,21 @@ Mozambique
 
 |
 
-Kaya Airlines, Lda
+HCP - Helicopteros Capital Lda
+
+|
+
+Mozambique
+
+|
+
+|
+
+219
+
+|
+
+KAY - Kaya Airlines, Lda
 
 |
 
@@ -3306,11 +3304,11 @@ KYY
 
 |
 
-219
+220
 
 |
 
-Mozambique Airlines (Linhas Aereas de Moçambique LAM, SA)
+LAM - Linhas Aereas de Moçambique SA)
 
 |
 
@@ -3322,33 +3320,19 @@ LAM
 
 |
 
-220
-
-|
-
-Mozambique Expresso, SARL MEX
-
-|
-
-Mozambique
-
-|
-
-MEX
-
-|
-
 221
 
 |
 
-OHI
+MEX ― Moçambique Expresso, SARL MEX
 
 |
 
 Mozambique
 
 |
+
+MXE
 
 |
 
@@ -3356,7 +3340,7 @@ Mozambique
 
 |
 
-Safari Air
+OHI ― Omni Helicopteros International Lda
 
 |
 
@@ -3370,7 +3354,7 @@ Mozambique
 
 |
 
-Solenta Aviation (anciennement CFA ― Mozambique, SA)
+SAF ― Safari Air Lda
 
 |
 
@@ -3384,7 +3368,7 @@ Mozambique
 
 |
 
-TTA Sarl
+SAM ― Solenta Aviation Mozambique, SA
 
 |
 
@@ -3398,7 +3382,7 @@ Mozambique
 
 |
 
-Unique Air Charter
+TTA ― Trabalhos e Transportes Aéreos Lda
 
 |
 
@@ -3406,13 +3390,15 @@ Mozambique
 
 |
 
+TTA
+
 |
 
 226
 
 |
 
-VR Cropsprayers Lda
+Unique Air Charter Lda
 
 |
 
@@ -3426,9 +3412,7 @@ Mozambique
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités du Népal
-
-responsables de la surveillance réglementaire, notamment :
+Tous les transporteurs aériens certifiés par les autorités du Népal responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -3477,6 +3461,8 @@ Buddha Air
 République du Népal
 
 |
+
+BHA
 
 |
 
@@ -3592,6 +3578,8 @@ République du Népal
 
 |
 
+SHA
+
 |
 
 239
@@ -3634,6 +3622,8 @@ République du Népal
 
 |
 
+RMK
+
 |
 
 242
@@ -3662,8 +3652,6 @@ République du Népal
 
 |
 
-MNA
-
 |
 
 244
@@ -3678,13 +3666,15 @@ République du Népal
 
 |
 
+NYT
+
 |
 
 245
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités des Philippines responsables de la surveillance réglementaire (à l'exception de Philippines Airlines), notamment :
+Tous les transporteurs aériens certifiés par les autorités des Philippines responsables de la surveillance réglementaire (à l'exception de Philippines Airlines et Cebu Pacific Air), notamment :
 
 |
 
@@ -3794,6 +3784,8 @@ République des Philippines
 
 |
 
+AAV
+
 |
 
 253
@@ -3828,22 +3820,6 @@ République des Philippines
 
 |
 
-Cebu Pacific Air
-
-|
-
-République des Philippines
-
-|
-
-CEB
-
-|
-
-256
-
-|
-
 CM Aero Services
 
 |
@@ -3854,7 +3830,7 @@ République des Philippines
 
 |
 
-257
+256
 
 |
 
@@ -3868,7 +3844,7 @@ République des Philippines
 
 |
 
-258
+257
 
 |
 
@@ -3882,7 +3858,7 @@ République des Philippines
 
 |
 
-259
+258
 
 |
 
@@ -3896,7 +3872,7 @@ République des Philippines
 
 |
 
-260
+259
 
 |
 
@@ -3908,9 +3884,11 @@ République des Philippines
 
 |
 
+ISN
+
 |
 
-261
+260
 
 |
 
@@ -3926,7 +3904,7 @@ SOY
 
 |
 
-262
+261
 
 |
 
@@ -3938,9 +3916,11 @@ République des Philippines
 
 |
 
+ITI
+
 |
 
-263
+262
 
 |
 
@@ -3954,7 +3934,7 @@ République des Philippines
 
 |
 
-264
+263
 
 |
 
@@ -3968,7 +3948,7 @@ République des Philippines
 
 |
 
-265
+264
 
 |
 
@@ -3980,9 +3960,11 @@ République des Philippines
 
 |
 
+MSJ
+
 |
 
-266
+265
 
 |
 
@@ -3996,7 +3978,7 @@ République des Philippines
 
 |
 
-267
+266
 
 |
 
@@ -4010,7 +3992,7 @@ République des Philippines
 
 |
 
-268
+267
 
 |
 
@@ -4024,7 +4006,7 @@ République des Philippines
 
 |
 
-269
+268
 
 |
 
@@ -4038,7 +4020,7 @@ République des Philippines
 
 |
 
-270
+269
 
 |
 
@@ -4052,7 +4034,7 @@ République des Philippines
 
 |
 
-271
+270
 
 |
 
@@ -4064,9 +4046,11 @@ République des Philippines
 
 |
 
+SRQ
+
 |
 
-272
+271
 
 |
 
@@ -4078,9 +4062,11 @@ République des Philippines
 
 |
 
+SGD
+
 |
 
-273
+272
 
 |
 
@@ -4094,7 +4080,7 @@ République des Philippines
 
 |
 
-274
+273
 
 |
 
@@ -4108,7 +4094,7 @@ République des Philippines
 
 |
 
-275
+274
 
 |
 
@@ -4122,7 +4108,7 @@ République des Philippines
 
 |
 
-276
+275
 
 |
 
@@ -4138,13 +4124,11 @@ EZD
 
 |
 
-277
+276
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités de São Tomé-et-Principe
-
-responsables de la surveillance réglementaire, notamment :
+Tous les transporteurs aériens certifiés par les autorités de São Tomé-et-Principe responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -4154,7 +4138,7 @@ São Tomé-et-Principe
 
 |
 
-278
+277
 
 |
 
@@ -4170,7 +4154,7 @@ ACH
 
 |
 
-279
+278
 
 |
 
@@ -4186,7 +4170,7 @@ BGI
 
 |
 
-280
+279
 
 |
 
@@ -4202,7 +4186,7 @@ EJZ
 
 |
 
-281
+280
 
 |
 
@@ -4216,7 +4200,7 @@ São Tomé-et-Principe
 
 |
 
-282
+281
 
 |
 
@@ -4232,7 +4216,7 @@ GLE
 
 |
 
-283
+282
 
 |
 
@@ -4244,9 +4228,11 @@ São Tomé-et-Principe
 
 |
 
+IOE
+
 |
 
-284
+283
 
 |
 
@@ -4262,7 +4248,7 @@ STP
 
 |
 
-285
+284
 
 |
 
@@ -4278,7 +4264,7 @@ TFK
 
 |
 
-286
+285
 
 |
 
@@ -4290,9 +4276,11 @@ São Tomé-et-Principe
 
 |
 
+TRG
+
 |
 
-287
+286
 
 |
 
@@ -4308,23 +4296,21 @@ TLZ
 
 |
 
+287
+
+|
+
+Tous les transporteurs aériens certifiés par les autorités de Sierra Leone responsables de la surveillance réglementaire, notamment :
+
+|
+
+République de Sierra Léone
+
+|
+
+|
+
 288
-
-|
-
-Tous les transporteurs aériens certifiés par les autorités de Sierra Leone
-
-responsables de la surveillance réglementaire, notamment :
-
-|
-
-République de Sierra Leone
-
-|
-
-|
-
-289
 
 |
 
@@ -4340,7 +4326,7 @@ RUM
 
 |
 
-290
+289
 
 |
 
@@ -4356,7 +4342,7 @@ DTY
 
 |
 
-291
+290
 
 |
 
@@ -4370,7 +4356,7 @@ Sierra Leone
 
 |
 
-292
+291
 
 |
 
@@ -4386,7 +4372,7 @@ ORJ
 
 |
 
-293
+292
 
 |
 
@@ -4402,7 +4388,7 @@ PRR
 
 |
 
-294
+293
 
 |
 
@@ -4418,7 +4404,7 @@ SVT
 
 |
 
-295
+294
 
 |
 
@@ -4432,13 +4418,11 @@ Sierra Leone
 
 |
 
-296
+295
 
 |
 
-Tous les transporteurs aériens certifiés par les autorités du Soudan
-
-responsables de la surveillance réglementaire, notamment :
+Tous les transporteurs aériens certifiés par les autorités du Soudan responsables de la surveillance réglementaire, notamment :
 
 |
 
@@ -4448,7 +4432,7 @@ République du Soudan
 
 |
 
-297
+296
 
 |
 
@@ -4464,7 +4448,7 @@ AAJ
 
 |
 
-298
+297
 
 |
 
@@ -4480,7 +4464,7 @@ MGG
 
 |
 
-299
+298
 
 |
 
@@ -4496,7 +4480,7 @@ BDR
 
 |
 
-300
+299
 
 |
 
@@ -4512,7 +4496,7 @@ BNT
 
 |
 
-301
+300
 
 |
 
@@ -4528,7 +4512,7 @@ BLB
 
 |
 
-302
+301
 
 |
 
@@ -4544,7 +4528,7 @@ DOV
 
 |
 
-303
+302
 
 |
 
@@ -4560,7 +4544,7 @@ DND
 
 |
 
-304
+303
 
 |
 
@@ -4576,7 +4560,7 @@ WHB
 
 |
 
-305
+304
 
 |
 
@@ -4590,7 +4574,7 @@ République du Soudan
 
 |
 
-306
+305
 
 |
 
@@ -4606,7 +4590,7 @@ HJT
 
 |
 
-307
+306
 
 |
 
@@ -4622,7 +4606,7 @@ KTV
 
 |
 
-308
+307
 
 |
 
@@ -4638,7 +4622,7 @@ KUH
 
 |
 
-309
+308
 
 |
 
@@ -4654,7 +4638,7 @@ MSL
 
 |
 
-310
+309
 
 |
 
@@ -4670,7 +4654,7 @@ NYL
 
 |
 
-311
+310
 
 |
 
@@ -4686,7 +4670,7 @@ NOV
 
 |
 
-312
+311
 
 |
 
@@ -4702,7 +4686,7 @@ SUD
 
 |
 
-313
+312
 
 |
 
@@ -4718,7 +4702,7 @@ SNR
 
 |
 
-314
+313
 
 |
 
@@ -4734,37 +4718,7 @@ TRQ
 
 |
 
-315
-
-|
-
-Tous les transporteurs aériens certifiés par les autorités du Swaziland responsables de la surveillance réglementaire, notamment :
-
-|
-
-Royaume de Swaziland
-
-|
-
-|
-
-316
-
-|
-
-Swaziland Airlink
-
-|
-
-Royaume de Swaziland
-
-|
-
-SZL
-
-|
-
-317
+314
 
 |
 
@@ -4778,7 +4732,7 @@ République de Zambie
 
 |
 
-318
+315
 
 |
 

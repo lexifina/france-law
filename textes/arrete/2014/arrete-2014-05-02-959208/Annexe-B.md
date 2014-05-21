@@ -1,4 +1,4 @@
-# Article ANNEXE B
+# Article Annexe B
 
 |
 
@@ -38,7 +38,7 @@ DTA
 
 |
 
-Tout aéronef sauf ceux immatriculés D. 2-TED, D. 2-TEE, D. 2-TEF, D. 2-TEG, D. 2-TEH, D. 2-TBF, D. 2-TBG, D. 2-TBH, D. 2-TBJ
+Tout aéronef sauf ceux immatriculés D2-TED, D2-TEE, D2-TEF, D2-TEG, D2-TEH, D2-TBF, D2-TBG, D2-TBH, D2-TBJ
 
 |
 
@@ -66,7 +66,7 @@ Tout aéronef, sauf les aéronefs appartenant à la flotte de B767 comme indiqu�
 
 |
 
-Tout aéronef sauf les aéronefs de type B767, les aéronefs de type B757, les aéronefs de type A319, 320, 321
+Tout aéronef sauf les aéronefs de type B767, les aéronefs de type B757, les aéronefs de type A319/320/321
 
 |
 
@@ -86,7 +86,7 @@ KMD
 
 |
 
-Tout aéronef, sauf celui immatriculé D. 6-CAM (851336)
+Tout aéronef, sauf celui immatriculé D6-CAM (851336)
 
 |
 
@@ -162,7 +162,7 @@ Tout aéronef sauf ceux immatriculés TR-AAG et ZS-AFG
 
 |
 
-Tout aéronef sauf 1 aéronef de type Challenger CL. 601 et 1 aéronef de type HS-125-800
+Tout aéronef sauf 1 aéronef de type Challenger CL601 et 1 aéronef de type HS-125-800
 
 |
 
@@ -210,7 +210,7 @@ Tout aéronef, sauf ceux immatriculés EP-IBA, EP-IBB, EP-IBC, EP-IBD, EP-IBG, E
 
 |
 
-Tout aéronef sauf 14 aéronefs de type A300, 8 aéronefs de type A310, 1 aéronef de type B737
+Tout aéronef sauf 14 aéronefs de type A 300, 8 aéronefs de type A 410, 1 aéronef de type B 737
 
 |
 
@@ -258,13 +258,13 @@ Tout aéronef, sauf ceux immatriculés 5R-MFH, 5R-MFI, 5R-MFL, 5R-MJE, 5R-MJF, 5
 
 |
 
-Tout aéronef, sauf 3 aéronefs de type B737-300, 2 aéronefs de type ATR. 72-500, 1 aéronef de type ATR. 42-500, 1 aéronef de type ATR. 42-320, 3 aéronefs de type DHC 6-300
+Tout aéronef, sauf 3 aéronefs de type B737-300, 2 aéronefs de type ATR 72-500, 1 aéronef de type ATR 42-500, 1 aéronef de type ATR 42-320, 3 aéronefs de type DHC 6-300
 
 |
 
 (1) Les transporteurs aériens figurant à l'annexe B pourraient être autorisés à exercer des droits de trafic en affrétant un appareil avec équipage appartenant à un transporteur aérien qui ne fait pas l'objet d'une interdiction d'exploitation, à condition que les normes de sécurité applicables soient respectées.
 
-(2) Pour son niveau actuel d'activités dans l'Union, Air Astana n'est autorisé à utiliser que les types d'appareils spécifiquement mentionnés ci-dessus, pour autant qu'ils soient immatriculés à Aruba et que toutes les modifications apportées au CTA soient soumises en temps utile à la Commission et à Eurocontrol.
+(2) Air Astana n'est autorisé à utiliser que les types d'appareils spécifiquement mentionnés ci-dessus, pour autant qu'ils soient immatriculés à Aruba et que toutes les modifications apportées au CTA soient soumises en temps utile à la Commission et à Eurocontrol.
 
 (3) Afrijet n'est autorisé à utiliser que les appareils spécifiquement mentionnés pour son niveau actuel d'activités dans l'Union européenne.
 
