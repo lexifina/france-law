@@ -1,0 +1,172 @@
+# Collectivités territoriales : nouvelle organisation territoriale (NOTRe)
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33249
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/delimitation_regions_organisation_territoriale
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-636.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-06-18 : 1er dépôt d'une initiative. (PRJLSNR5S219B0636)
+  - 2014-06-18 : Etude d'impact (ETDISNR5S219B0636)
+  - 2014-12-05 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-18 : Renvoi en commission au fond
+      - 2014-05-21 : Nomination de rapporteur
+      - 2014-12-10 : Dépôt de rapport (RAPPSNR5S239B0174)
+    - Travaux d'une commission saisie pour avis
+      - 2014-11-04 : Saisine pour avis d'une commission
+      - 2014-11-04 : Nomination de rapporteur
+      - 2014-12-11 : Dépôt de rapport (AVISSNR5S239B0184)
+    - Travaux d'une commission saisie pour avis
+      - 2014-11-05 : Saisine pour avis d'une commission
+      - 2014-11-05 : Nomination de rapporteur
+      - 2014-12-02 : Dépôt de rapport (AVISSNR5S239B0140)
+    - Travaux d'une commission saisie pour avis
+      - 2014-11-05 : Saisine pour avis d'une commission
+      - 2014-11-05 : Nomination de rapporteur
+      - 2014-12-03 : Dépôt de rapport (AVISSNR5S239B0150)
+    - Travaux d'une commission saisie pour avis
+      - 2014-11-05 : Saisine pour avis d'une commission
+      - 2014-11-05 : Nomination de rapporteur
+      - 2014-12-09 : Dépôt de rapport (AVISSNR5S239B0157)
+    - Travaux d'une commission saisie pour avis
+      - 2014-11-05 : Saisine pour avis d'une commission
+      - 2014-11-05 : Nomination de rapporteur
+      - 2014-12-09 : Dépôt de rapport (AVISSNR5S239B0154)
+  - Discussion en séance publique
+    - 2014-12-16 : Discussion en séance publique
+    - 2015-01-13 : Discussion en séance publique
+    - 2015-01-14 : Discussion en séance publique
+    - 2015-01-15 : Discussion en séance publique
+    - 2015-01-16 : Discussion en séance publique
+    - 2015-01-19 : Discussion en séance publique
+    - 2015-01-20 : Discussion en séance publique
+    - 2015-01-21 : Discussion en séance publique
+    - 2015-01-22 : Discussion en séance publique
+    - 2015-01-23 : Discussion en séance publique
+    - 2015-01-27 : Discussion en séance publique
+    - 2015-01-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-01-28 : Dépôt d'une initiative en navette (PRJLANR5L14B2529)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-01-28 : Renvoi en commission au fond
+      - 2014-06-26 : Nomination de rapporteur
+      - 2014-06-26 : Réunion de commission
+      - 2015-02-03 : Réunion de commission
+      - 2015-02-03 : Réunion de commission
+      - 2015-02-03 : Réunion de commission
+      - 2015-02-04 : Réunion de commission
+      - 2015-02-04 : Réunion de commission
+      - 2015-02-04 : Réunion de commission
+      - 2015-02-17 : Réunion de commission
+      - 2015-02-05 : Dépôt de rapport (RAPPANR5L14B2553, PRJLANR5L14BTC2553)
+    - Travaux d'une commission saisie pour avis
+      - 2015-01-08 : Saisine pour avis d'une commission
+      - 2015-01-28 : Nomination de rapporteur
+      - 2015-02-03 : Réunion de commission
+      - 2015-02-03 : Dépôt de rapport (AVISANR5L14B2545)
+    - Travaux d'une commission saisie pour avis
+      - 2015-01-13 : Saisine pour avis d'une commission
+      - 2015-01-21 : Nomination de rapporteur
+      - 2015-01-21 : Réunion de commission
+      - 2015-02-02 : Dépôt de rapport (AVISANR5L14B2542)
+    - Travaux d'une commission saisie pour avis
+      - 2015-01-21 : Saisine pour avis d'une commission
+      - 2015-01-28 : Nomination de rapporteur
+      - 2015-01-28 : Réunion de commission
+      - 2015-02-03 : Réunion de commission
+      - 2015-02-04 : Dépôt de rapport (AVISANR5L14B2549)
+    - Travaux d'une commission saisie pour avis
+      - 2015-01-21 : Saisine pour avis d'une commission
+      - 2015-01-21 : Nomination de rapporteur
+      - 2015-02-03 : Réunion de commission
+      - 2015-02-03 : Réunion de commission
+      - 2015-02-04 : Dépôt de rapport (AVISANR5L14B2546)
+    - Travaux d'une commission saisie pour avis
+      - 2015-01-28 : Saisine pour avis d'une commission
+      - 2015-01-21 : Nomination de rapporteur
+      - 2015-01-21 : Réunion de commission
+      - 2015-02-03 : Réunion de commission
+      - 2015-02-03 : Dépôt de rapport (AVISANR5L14B2544)
+  - Discussion en séance publique
+    - 2015-02-17 : Discussion en séance publique
+    - 2015-02-17 : Discussion en séance publique
+    - 2015-02-18 : Discussion en séance publique
+    - 2015-02-18 : Discussion en séance publique
+    - 2015-02-19 : Discussion en séance publique
+    - 2015-02-19 : Discussion en séance publique
+    - 2015-02-19 : Discussion en séance publique
+    - 2015-02-19 : Discussion en séance publique
+    - 2015-02-20 : Discussion en séance publique
+    - 2015-02-20 : Discussion en séance publique
+    - 2015-02-20 : Discussion en séance publique
+    - 2015-03-02 : Discussion en séance publique
+    - 2015-03-02 : Discussion en séance publique
+    - 2015-03-03 : Discussion en séance publique
+    - 2015-03-03 : Discussion en séance publique
+    - 2015-03-04 : Discussion en séance publique
+    - 2015-03-04 : Discussion en séance publique
+    - 2015-03-05 : Discussion en séance publique
+    - 2015-03-05 : Discussion en séance publique
+    - 2015-03-05 : Discussion en séance publique
+    - 2015-03-10 : Discussion en séance publique
+    - 2015-03-10 : Décision
+- deuxième lecture
+  - 2015-03-11 : Dépôt d'une initiative en navette (PRJLSNR5S239B0336)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-03-11 : Renvoi en commission au fond
+      - 2015-05-13 : Dépôt de rapport (RAPPSNR5S239B0450)
+  - Discussion en séance publique
+    - 2015-05-26 : Discussion en séance publique
+    - 2015-05-27 : Discussion en séance publique
+    - 2015-05-28 : Discussion en séance publique
+    - 2015-05-29 : Discussion en séance publique
+    - 2015-06-01 : Discussion en séance publique
+    - 2015-06-02 : Discussion en séance publique
+    - 2015-06-02 : Décision
+- deuxième lecture
+  - 2015-06-02 : Dépôt d'une initiative en navette (PRJLANR5L14B2830)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-02 : Renvoi en commission au fond
+      - 2015-06-16 : Réunion de commission
+      - 2015-06-16 : Réunion de commission
+      - 2015-06-29 : Réunion de commission
+      - 2015-06-17 : Dépôt de rapport (RAPPANR5L14B2872, PRJLANR5L14BTC2872)
+  - Discussion en séance publique
+    - 2015-06-29 : Discussion en séance publique
+    - 2015-06-29 : Discussion en séance publique
+    - 2015-06-30 : Discussion en séance publique
+    - 2015-06-30 : Discussion en séance publique
+    - 2015-07-01 : Discussion en séance publique
+    - 2015-07-01 : Discussion en séance publique
+    - 2015-07-02 : Discussion en séance publique
+    - 2015-07-02 : Discussion en séance publique
+    - 2015-07-02 : Discussion en séance publique
+    - 2015-07-02 : Décision
+- Commission Mixte Paritaire
+  - 2015-07-03 : Dépôt d'un projet de loi (PRJLSNR5S239B0595)
+  - 2015-07-03 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-07-09 : Nomination de rapporteur
+    - 2015-07-09 : Dépôt du rapport d'une CMP (RAPPANR5L14B2971)
+    - 2015-07-09 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0618)
+  - Discussion en séance publique
+    - 2015-07-16 : Discussion en séance publique
+    - 2015-07-16 : Décision
+  - Discussion en séance publique
+    - 2015-07-16 : Discussion en séance publique
+    - 2015-07-16 : Décision
+  - 2015-07-09 : Décision de la CMP
+- Conseil constitutionnel
+  - 2015-07-22 : Saisine du conseil constitutionnel
+  - 2015-07-22 : Saisine du conseil constitutionnel
+  - 2015-08-06 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2015-08-07 : Promulgation d'une loi
