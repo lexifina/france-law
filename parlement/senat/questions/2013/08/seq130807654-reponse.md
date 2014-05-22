@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130807654
+
+- Question : [SEQ130807654](seq130807654.md) — Lutte contre les déchets marins
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-05-22, page 1198*
+
+Les déchets marins constituent un enjeu environnemental important, qui mobilise différentes composantes de l'action du ministère de l'écologie, du développement durable et de l'énergie. Les effets sur la qualité du milieu et les risques pour la biodiversité de ces déchets marins sont établis. De multiples outils doivent être mobilisés, tant dans la prévention des déchets au niveau terrestre que dans le comportement des personnes en mer et les actions de ramassage et remédiation. S'agissant plus spécifiquement des déchets de sacs plastiques, le Gouvernement a lancé depuis plusieurs années une politique de partenariat avec les enseignes de distribution permettant ces cinq dernières années de faire chuter drastiquement le nombre de sacs de caisse distribués en France. Ainsi, alors que ce nombre s'élevait à plus de 10 milliards d'unités il y a quelques années, ce nombre est désormais inférieur à un milliard d'unités. D'autres actions sont en cours, notamment dans le cadre de négociations sur une directive européenne permettant d'aller plus loin dans les actions vis-à-vis des sacs à usage unique. L'objectif ambitieux du Gouvernement vise l'abandon progressif de ces sacs au profit de sacs réutilisables. Le Gouvernement publiera par ailleurs dans les prochaines semaines un plan national de prévention des déchets, dont l'un des axes sera la prévention des déchets marins. Il donnera le cadre pour des actions plus précises qui se mettront en place dans les années qui viennent en lien avec l'élaboration, portée par la direction de l'eau et de la biodiversité du ministère, des « programmes de mesure » au titre de la directive-cadre sur la stratégie pour le milieu marin.
