@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140411203
+
+- Question : [SEQ140411203](seq140411203.md) — Rémunération des grossistes-répartiteurs vétérinaires
+
+## Réponse
+
+*Agriculture, agroalimentaire et forêt, JO du 2014-05-22, page 1197*
+
+Afin de répondre à l'enjeu de santé publique que constitue la lutte contre les risques d'antibiorésistance, l'article 20 du projet de loi d'avenir de l'agriculture, de l'agroalimentaire et de la forêt contient des dispositions qui définissent un nouveau cadre pour réduire l'usage des antibiotiques et mieux les utiliser. Ces dispositions, qu'elles soient d'ordre commercial, éthique ou médical, doivent être examinées dans leur ensemble, car elles participent toutes à l'objectif de réduction poursuivi. La mesure d'interdiction des prix différenciés selon les catégories d'acteurs de la chaîne du médicament vétérinaire, s'appuie sur le rapport des inspections générales des ministères en charge de la santé, de l'agriculture et des finances relatif à l'encadrement des pratiques commerciales qui recommandait l'extension de cette mesure à tous les acteurs intervenant dans le circuit économique des antibiotiques vétérinaires. Il est ainsi apparu nécessaire de soustraire toutes les ventes d'antibiotiques, qu'elles soient réalisées par l'ayant droit prescripteur ou dispensateur comme par les acteurs de la distribution en gros, à un risque de contournement ou à un potentiel conflit d'intérêt. Si cette mesure peut apparaître pénalisante pour les acteurs de la distribution en gros, elle est néanmoins proportionnée à l'objectif de santé publique. Son caractère limité à une seule famille de médicaments vétérinaires ne saurait porter atteinte à la viabilité économique de ces entreprises qui continueront à exercer une activité incontournable pour la grande majorité des ayants-droit du médicament vétérinaire.
