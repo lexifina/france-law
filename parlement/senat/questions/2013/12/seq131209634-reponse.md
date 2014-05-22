@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209634
+
+- Question : [SEQ131209634](seq131209634.md) — Formaldéhyde
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-05-22, page 1200*
+
+Les décrets n° 2011-1728 du 2 décembre 2011 et n° 2012-14 du 5 janvier 2012 sont relatifs à la surveillance de la qualité de l'air intérieur dans certains établissements recevant du public dont les établissements d'accueil collectif d'enfants de moins de six ans, les établissements d'enseignement ou de formation professionnelle du premier et du second degré et les accueils de loisirs. Doivent ainsi être mesurés le formaldéhyde, substance irritante pour le nez et les voies respiratoires, le benzène, substance cancérigène issue notamment de la combustion, et le dioxyde de carbone (C02), sans effet notable sur la santé, mais représentatif du niveau de confinement des locaux. Pour le formaldéhyde et le benzène, la réglementation indique que les prélèvements et les analyses doivent être réalisés selon les bonnes pratiques en vigueur et précise les normes présumées conformes à ces bonnes pratiques. Ces méthodes internationales sont utilisées depuis de nombreuses années pour les études sur la qualité de l'air intérieur. Elles ont également été testées lors de la campagne pilote menée entre 2009 et 2011 par le ministère chargé de l'écologie dans 310 écoles et crèches. Les méthodes de prélèvement et d'analyse retenues sont ainsi un compromis entre coût, faisabilité et précision des mesures. S'agissant plus particulièrement du formaldéhyde, il n'est pas exigé une mesure en temps réel. En effet, l'analyse est effectuée par désorption chimique, suivie d'une analyse par chromatographie liquide haute performance couplée à un détecteur ultra-violet. Cette méthode d'analyse respecte une limite de quantification inférieure à 0,4 µg/m3 pour une durée de prélèvement de 4,5 jours.
