@@ -38,6 +38,34 @@ ZS82 - ZS94 - ZT 36
 
 |
 
+Allier (03) |
+
+Maison forestière du Bouchant
+
+|
+
+Vitray |
+
+D282, D229 en partie, D231 en partie, D232 en partie dans la limite d'un usage normal du bien
+
+|
+
+Allier (03)
+
+|
+
+Maison forestière le Rond de Morat
+
+|
+
+Isle-et-Bardais
+
+|
+
+E50, E49 en partie dans la limite d'un usage normal du bien
+
+|
+
 Alpes-de-Haute-Provence (4) |
 
 Gîte des Plantiers |
@@ -88,6 +116,18 @@ E23
 
 |
 
+Ardennes (08) |
+
+Maison forestière du Roban
+
+|
+
+Signy-l'Abbaye |
+
+F24, F25, F26 en partie, F27 en partie dans la limite d'un usage normal du bien
+
+|
+
 Aube (10)
 
 |
@@ -104,6 +144,26 @@ D34
 
 |
 
+Aube (10) |
+
+Maison forestière des Cinq Chênes
+
+|
+
+Rumilly-les-Vaudes |
+
+D38, D39 en partie dans la limite d'un usage normal du bien |
+
+Aube (10) |
+
+Maison forestière de la Madeleine |
+
+Arrelles
+
+|
+
+A106 en partie, A107 en partie dans limite de la route forestière |
+
 Calvados (14) |
 
 Maison forestière de la Belle Loge
@@ -113,6 +173,16 @@ Maison forestière de la Belle Loge
 Montfiquet |
 
 A20 en partie dans la limite du jardin attenant, A21 et A22
+
+|
+
+Cher (18) |
+
+Maison forestière Le Pavillon |
+
+Chezal-Benoît |
+
+A72, A73 en partie et A74 en partie dans la limite du parking attenant au local ONF
 
 |
 
@@ -136,6 +206,18 @@ A816 en partie pour permettre un accès à la voie publique, A817, A819, A823 à
 
 |
 
+Hérault (34) |
+
+Maison forestière Grange de Cabrierette
+
+|
+
+Joncels |
+
+F165, F166, F167
+
+|
+
 Ille-et-Vilaine (35)
 
 |
@@ -148,7 +230,7 @@ Saint-Pierre-de-Plesguen
 
 |
 
-E326 - E327
+E326-E327-E1747
 
 |
 
@@ -180,7 +262,7 @@ Isère (38)
 
 |
 
-Maison forestière de l'étoile
+Maison forestière de l'Etoile
 
 |
 
@@ -188,7 +270,7 @@ Roybon
 
 |
 
-B 204
+B204 et B221 en partie pour permettre un usage normal du bien
 
 |
 
@@ -198,7 +280,9 @@ Maison forestière de la Marquise |
 
 Roybon |
 
-F254 et F255 en partie dans la limite d'un usage normal du bien |
+F254 et F255 en partie, F253 en partie dans la limite d'un usage normal du bien
+
+|
 
 Jura (39) |
 
@@ -207,6 +291,18 @@ Ancienne sècherie de La Joux |
 Supt |
 
 C102 |
+
+Jura (39) |
+
+Maison forestière des Epines fleuries
+
+|
+
+Montigny-les-Arsures |
+
+AB57, AB56 en partie dans la limite d'un usage normal du bien
+
+|
 
 Loir-et-Cher (41) |
 
@@ -220,9 +316,9 @@ Loir-et-Cher (41) |
 
 Maison forestière de la Vallée des Grès |
 
-Saint-Sulpice |
+La Colombe |
 
-C237 en partie dans la limite du jardin attenant |
+C237 en partie, C183 dans la continuité de l'enclos de la maison |
 
 Loire-Atlantique (44)
 
@@ -278,7 +374,7 @@ Maison forestière de Chappes |
 
 Les Bordes |
 
-A415 en partie, A416, A417 et A919 dans la limite du jardin attenant et pour intégrer les dépendances |
+A415 en partie, A416, A417, et A919 |
 
 Loiret (45) |
 
@@ -295,6 +391,14 @@ Maison forestière Boudeaux |
 Nesploy |
 
 A19, A20 en partie dans la limite du jardin attenant |
+
+Loiret (45) |
+
+Maison forestière Le Poreux |
+
+Les Bordes |
+
+ZD6, A183, A184, A178 en partie dans la limite d'un usage normal du bien |
 
 Haute-Marne (52)
 
@@ -332,7 +436,7 @@ Haute-Marne (52)
 
 |
 
-Maison forestière des Chardonnières
+Maison forestière des Charbonnières
 
 |
 
@@ -540,7 +644,7 @@ Raveau
 
 |
 
-C591
+C591 ; C53
 
 |
 
@@ -605,6 +709,14 @@ Maison forestière d'Ollencourt |
 Ollencourt |
 
 A8 |
+
+Oise (60) |
+
+Maison forestière du Magasin |
+
+La Neuville en Hez |
+
+B445, B444 en partie dans la limite d'un usage normal du bien |
 
 Orne (61)
 
@@ -685,14 +797,6 @@ Maison forestière de Wirvignes |
 Baincthun |
 
 B326 et B328 en partie dans la limite d'un usage normal du bien |
-
-Hautes-Pyrénées (65) |
-
-Chalet Barèges (Artigalas) |
-
-Sers |
-
-B224 et B223 en partie pour permettre un accès indépendant |
 
 Pyrénées-Orientales (66) |
 
@@ -876,7 +980,21 @@ Maison forestière du Parquet |
 
 Vatteville-la-Rue |
 
-F252 en partie dans la limite du jardin attenant |
+F252 |
+
+Seine-Maritime (76) |
+
+Maison forestière du Grand Canton
+
+|
+
+Houppeville
+
+|
+
+C13, C12 en partie, C11 en partie pour intégrer les dépendances et permettre un accès sécurisé à la voie publique
+
+|
 
 Yvelines (78)
 
@@ -1027,5 +1145,19 @@ Dourdan
 |
 
 A144 et A27
+
+|
+
+Val d'Oise (95) |
+
+Maison forestière de la Pelouse de Nointel
+
+|
+
+Nointel
+
+|
+
+B13, B14, B15, B16, B17 en partie dans le prolongement de l'alignement sud de la parcelle 16
 
 |

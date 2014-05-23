@@ -20,6 +20,28 @@ RÉFÉRENCES CADASTRALES
 
 |
 
+Aisne (02) |
+
+Abbaye de Vauclair |
+
+Bouconville-Vauclair
+
+|
+
+AO34, AO36, AO15, AO16, AO17 |
+
+Cher (18)
+
+|
+
+Maison forestière Le Briou |
+
+Vierzon |
+
+AN2, AN1 en partie, AN3 en partie dans la limite d'un usage normal du bien et notamment pour permettre l'accès aux dépendances
+
+|
+
 Haute-Garonne (31) |
 
 Maison forestière Col du Buret |
@@ -62,6 +84,30 @@ Velaine-en-Haye |
 
 AI15 en partie pour intégrer une sortie de véhicules et A18 en partie pour restitution de surface à la forêt domaniale |
 
+Moselle (57) |
+
+Maison forestière de Bellerstein
+
+|
+
+Eguelshardt
+
+|
+
+Section 4, parcelle 160 |
+
+Bas-Rhin (67) |
+
+Maison forestière de Kempel
+
+|
+
+Haegen |
+
+Section 16, parcelle 9, dans la limite d'un usage normal du bien
+
+|
+
 Vosges (88)
 
 |
@@ -85,3 +131,15 @@ Maison forestière de Verbamont |
 Claudon |
 
 B133 et B216 |
+
+Vosges (88) |
+
+Maison forestière de Gondremer
+
+|
+
+Housseras |
+
+Section B, parcelles 331,332,333,335 dans limite d'un usage normal du bien et notamment pour permettre l'accès aux dépendances
+
+|
