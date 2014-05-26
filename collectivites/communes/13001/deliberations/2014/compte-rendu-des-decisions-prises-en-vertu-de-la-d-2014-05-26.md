@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — COMPTE RENDU DES DECISIONS PRISES EN VERTU DE LA DELEGATION D'ATTRIBUTION DU CONSEIL MUNICIPAL AU MAIRE DANS LES MATIERES ENUMEREES A L'ARTICLE L2122.22 DU CODE GENERAL DES COLLECTIVITES TERRITORIALES
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2014-05-26
+- Séance : Conseil Municipal 1CA
+- Objet : COMPTE RENDU DES DECISIONS PRISES EN VERTU DE LA DELEGATION D'ATTRIBUTION DU CONSEIL MUNICIPAL AU MAIRE DANS LES MATIERES ENUMEREES A L'ARTICLE L2122.22 DU CODE GENERAL DES COLLECTIVITES TERRITORIALES
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-5881-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
