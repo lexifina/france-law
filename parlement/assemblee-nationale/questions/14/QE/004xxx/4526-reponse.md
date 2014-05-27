@@ -1,0 +1,9 @@
+# Réponse à la question n° 4526
+
+- Question : [4526](4526.md) — Question n° 4526 — bassins d'alimentation de captage; perspectives
+
+## Réponse
+
+*JO du 2014-05-27*
+
+L'article 27 de la loi n° 2009-967 du 3 août 2009 relative à la mise en oeuvre du Grenelle de l'environnement a introduit l'engagement de protéger d'ici à 2012, par des plans d'actions mis en oeuvre en association étroite avec les agences de l'eau, les cinq cents captages les plus menacés par les pollutions diffuses, notamment les nitrates et produits phytosanitaires. Les efforts portent donc actuellement sur la définition puis la mise en oeuvre des mesures les plus adaptées pour reconquérir la qualité de la ressource en eau au niveau de ces cinq cents captages. Ces travaux s'inscrivent dans le cadre plus général de la mise en oeuvre de la directive cadre sur l'eau. Au-delà des cinq cents captages, les schémas directeurs d'aménagement et de gestion des eaux (SDAGE) ont identifié près de 2 500 captages prioritaires liés à des pollutions diffuses. Des démarches devront donc être progressivement engagées pour étendre la démarche de reconquête qualitative de la ressource en eau à ces captages. Le rapportage fait fin décembre 2012 à la Commission européenne sur l'état d'avancement des programmes de mesures arrêtés au titre de la directive cadre sur l'eau montre des retards dans la mise en oeuvre des actions pour lutter contre les pollutions diffuses agricoles. L'évaluation de la politique de l'eau menée en 2013 a confirmé la nécessité d'agir de façon volontariste pour préserver et améliorer la qualité de l'eau. Ce sujet a été abordé lors de la Conférence environnementale qui s'est tenue les 20 et 21 septembre 2013. À cette occasion, le Gouvernement s'est engagé à ce que 1 000 captages prioritaires soient identifiés et à ce que des plans d'actions soient élaborés et déployés.
