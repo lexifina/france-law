@@ -1,0 +1,9 @@
+# Réponse à la question n° 51218
+
+- Question : [51218](51218.md) — Question n° 51218 — Office national de la chasse et de la faune sauvage; perspectives
+
+## Réponse
+
+*JO du 2014-05-27*
+
+Le directeur général de l'Office national de la chasse et de la faune sauvage (ONCFS) conduit un projet de réorganisation territoriale de ses services pour tenir compte notamment des recommandations de la Cour des comptes. Le projet suscite des interrogations dans certains départements. Tel est le cas pour ce qui concerne le service interdépartemental de la Haute-Saône et du territoire de Belfort. Le directeur général de l'ONCFS a adressé à Monsieur KITTLER, président de la fédération départementale des chasseurs du Territoire de Belfort, une réponse sur ce sujet le 27 février 2014. Il explique que la baisse significative des effectifs a nécessité de nombreuses suppressions de postes dans les directions, cellules techniques et brigades mobiles d'intervention pour préserver autant que possible les services départementaux. Par ailleurs, cette réorganisation doit tenir compte de la nécessité de revoir une organisation territoriale datant des années 1990 au regard notamment du contrat d'objectifs en cours de mise en oeuvre. Les effectifs du territoire de Belfort ont été mutualisés avec celui de la Haute-Saône et un poste supplémentaire de technicien a été accordé avant même la réforme en cours qui fait l'objet d'un dialogue social entre les agents, les chefs de service, le délégué interrégional et les organisations syndicales présentes localement. C'est à l'issue de cette consultation et d'une réflexion conduite avec tous les acteurs et notamment les organisations syndicales que le Comité technique de l'établissement sera saisi et que le directeur de l'ONCFS décidera de l'organisation de chaque service départemental, dans un souci d'équilibre territorial.
