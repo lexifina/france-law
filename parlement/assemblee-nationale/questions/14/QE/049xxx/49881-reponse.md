@@ -1,0 +1,9 @@
+# Réponse à la question n° 49881
+
+- Question : [49881](49881.md) — Question n° 49881 — prospectus publicitaires; réduction
+
+## Réponse
+
+*JO du 2014-05-27*
+
+La « prévention des déchets » consiste à réduire la quantité ou la nocivité des déchets produits, en intervenant à la fois sur leur mode de production et de consommation. Elle présente un fort enjeu en permettant de réduire les impacts environnementaux et les coûts associés à la gestion des déchets, mais également les impacts environnementaux dus à l'extraction des ressources naturelles, à la production des biens et services, à leur distribution et à leur utilisation. La hiérarchie européenne et française des modes de gestion des déchets place la prévention au sommet des priorités des politiques de gestion des déchets. Le « plan national de prévention des déchets 2014-2020 », qui sera publié prochainement, permet de donner corps à cette ambition et de se projeter dans l'avenir. Il s'inscrit dans la volonté du Gouvernement de mettre en oeuvre une transition vers le modèle d'économie circulaire, mis à l'honneur à l'occasion de la conférence environnementale de septembre 2013. Ce plan prévoit treize axes déclinés en 55 actions, dont une portant sur la réduction des imprimés non adressés à travers la poursuite du dispositif « stop pub ». Ainsi, il est prévu d'assurer la visibilité de la boîte à outils « stop pub » élaborée par l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME), et disponible sur le site « Optigede », de réaffirmer, voire d'élargir, la charte d'engagement conclue dans le plan de 2004, et notamment d'étudier la possibilité de son adaptation aux entreprises, ainsi que de remobiliser les émetteurs et les diffuseurs. Enfin, le plan prévoit des accords locaux entre les collectivités qui promeuvent l'action et les distributeurs locaux, afin d'assurer la formation de leurs personnels et le respect de l'autocollant.
