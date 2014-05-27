@@ -1,0 +1,9 @@
+# Réponse à la question n° 34151
+
+- Question : [34151](34151.md) — Question n° 34151 — parties civiles; frais d'instance; recouvrement
+
+## Réponse
+
+*JO du 2014-05-27*
+
+La garde des sceaux, ministre de la justice, est particulièrement attentive et sensible à la situation des victimes, et notamment les parties civiles dans le procès de la société Poly Implant Prothèse (PIP). Afin de réduire les délais de recouvrement des frais exposés par ces parties civiles pour assister au procès, une dotation de 500 000 euros a été attribuée par l'administration centrale du ministère de la justice à la cour d'appel d'Aix-en-Provence au titre de l'organisation des procès sensibles. Ce montant a été réparti de la manière suivante : 100 000 euros au titre des frais de justice du procès, 230 000 euros au titre du fonctionnement courant dans le cadre du procès et le reliquat de 170 000 euros au titre d'autres dépenses de frais de justice. A ce jour, 177 parties civiles ont déposé un mémoire de frais. Le service centralisateur de la juridiction a procédé au contrôle de chacun de ces mémoires et les a transmis à la régie du tribunal. Par ailleurs, le service administratif de la cour d'appel d'Aix-en-Provence, compétent pour régler les mémoires de frais d'un montant supérieur à 2 000 euros, a reçu du tribunal les premiers mémoires des parties civiles fin septembre. Cependant, les parties requérantes ont été sollicitées pour fournir des informations complémentaires indispensables à l'enregistrement des mémoires dans l'application de gestion financière et comptable Chorus. Le tribunal de grande instance de Marseille et le pôle Chorus du service administratif de la cour d'appel d'Aix-en-Provence ont versé 103 551,08 euros aux parties civiles, les versements effectifs ont été effectués en mars 2014. Tous les moyens et les diligences nécessaires ont été mis en oeuvre pour assurer le bon déroulement de ce procès exceptionnel, et ses suites.
