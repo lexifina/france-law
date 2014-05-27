@@ -1,0 +1,9 @@
+# Réponse à la question n° 7059
+
+- Question : [7059](7059.md) — Question n° 7059 — tarification progressive; modalités
+
+## Réponse
+
+*JO du 2014-05-27*
+
+La loi n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses dispositions sur la tarification de l'eau et sur les éoliennes comportait un titre premier relatif au bonus malus sur les consommations domestiques d'énergie visant notamment à prendre en compte la différenciation des logements collectifs au sein d'un même immeuble d'habitation. Toutefois, le Conseil constitutionnel dans sa décision n° 2013-666 DC en date du 11 avril 2013, a déclaré non conformes à la Constitution les dispositions de l'article 2 composant ce titre premier ainsi que les autres dispositions du même titre qui n'en sont pas séparables, pour méconnaissance du principe d'égalité devant les charges publiques. Il a considéré que dans des immeubles collectifs d'habitation pourvus d'installations communes de chauffage, les dispositions de l'article 2 de la loi ne fixaient pas des conditions de répartition du bonus-malus en rapport avec l'objectif de responsabilisation de chaque consommateur domestique au regard de sa consommation d'énergie de réseau. Il a également estimé que ces dispositions n'assuraient donc pas le respect de l'égalité devant les charges publiques, d'une part, entre les consommateurs qui résident dans ces immeubles collectifs et, d'autre part, avec les consommateurs domestiques demeurant dans un site de consommation résidentiel individuel. Néanmoins, un travail a été lancé auprès de la Commission de régulation de l'énergie (CRE) et de la direction générale de l'énergie et du climat pour relancer des tarifs avantageux pour les consommateurs ayant un comportement vertueux. Si les consommateurs consomment moins au moment où la production d'électricité est la plus polluante, ces tarifs à effacement leur permettront de réaliser des économies.
