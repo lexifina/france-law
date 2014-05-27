@@ -1,0 +1,9 @@
+# Réponse à la question n° 35201
+
+- Question : [35201](35201.md) — Question n° 35201 — zones humides; délimitation; procédure
+
+## Réponse
+
+*JO du 2014-05-27*
+
+Le principe de compatibilité des documents d'urbanisme avec les schémas directeurs d'aménagement et de gestion des eaux (SDAGE) est précisé par la jurisprudence : les documents d'urbanisme ne doivent pas être contraires aux orientations et principes fondamentaux du SDAGE, contribuant ainsi à sa réalisation. Il existe ainsi une marge d'appréciation des orientations du SDAGE. Un document d'urbanisme ne peut ainsi être déclaré illégal que pour défaut de prise en compte des « orientations fondamentales d'une gestion équilibrée de la ressource en eau et des objectifs de qualité et de quantité des eaux » définies par le SDAGE. La circulaire du 18 janvier 2010 précise que la méthode d'identification des zones humides contenues dans l'arrêté du 24 juin 2008 modifié n'est pas nécessairement requise pour les inventaires de zones humides réalisés à des fins notamment de connaissance ou de définition des stratégies d'action. La méthode contenue dans l'arrêté du 24 juin 2008 modifié ne sert que pour rédiger un arrêté de délimitation officielle des zones humides, à l'initiative du préfet, en cas de conflit localisé ou pour justifier la présence ou l'absence de zone humide à un endroit donné, à l'initiative d'un porteur de projet ou de l'administration. La méthode de l'arrêté fait foi pour la présence ou l'absence de zone humide et non pour la validité d'une carte. Cela signifie qu'un document d'urbanisme ne peut donc pas être considéré comme illégal sous le seul prétexte que la délimitation des zones humides qu'il propose ne résulte pas de la mise en oeuvre de l'arrêté du 24 juin 2008. Cette position est bien celle appliquée dans le cadre du contrôle de légalité.
