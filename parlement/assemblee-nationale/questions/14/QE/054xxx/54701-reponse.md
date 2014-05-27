@@ -1,0 +1,9 @@
+# Réponse à la question n° 54701
+
+- Question : [54701](54701.md) — Question n° 54701 — médicaments; délivrance; perspectives
+
+## Réponse
+
+*JO du 2014-05-27*
+
+Afin de répondre à l'enjeu de santé publique que constitue la lutte contre les risques d'antibiorésistance, le ministère de l'agriculture, de l'agroalimentaire et de la forêt a lancé en novembre 2011 le plan EcoAntibio, pour une durée de 5 ans. Le ministre chargé de l'agriculture assure le pilotage et la coordination de ce plan, sachant qu'un pilote a été spécifiquement désigné pour la mise en oeuvre de chacune des 40 actions du plan. Il s'agit d'organisations publiques ou professionnelles. Ces 40 actions concernent tous les acteurs impliqués dans la lutte contre les risques d'antibiorésistance, qu'ils soient issus du monde de l'élevage, de la santé humaine et animale, de l'industrie pharmaceutique, de la recherche et de l'enseignement, ou propriétaires d'animaux de compagnie. En complément des démarches volontaires des filières qui ont déjà permis de réduire de manière significative l'utilisation d'antibiotiques, le Gouvernement a proposé une série de mesures législatives dans le projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt, visant à limiter le recours aux antibiotiques et à promouvoir leurs bonnes pratiques d'emploi, en particulier celles concernant les antibiotiques d'importance critique pour lesquels un objectif de réduction de l'utilisation de 25 % d'ici fin 2016 a été fixé. Le ministère chargé de l'agriculture considère également que la poursuite des échanges entre partenaires au sein de diverses instances sur les questions relatives à l'antibiorésistance est un facteur important de la réussite du plan et il entend poursuivre la concertation avec les organisations professionnelles de vétérinaires au sein d'un comité de santé publique vétérinaire qui sera appelé à se réunir régulièrement.
