@@ -1,0 +1,9 @@
+# Réponse à la question n° 28502
+
+- Question : [28502](28502.md) — Question n° 28502 — EHPAD; tarification
+
+## Réponse
+
+*JO du 2014-05-27*
+
+Les établissements pour personnes âgées dépendantes (EHPAD) peuvent bénéficier de financement de l'assurance maladie sur des périmètres de charges différents selon les options de tarification choisies. Ainsi, les dépenses de médicaments ne sont intégrées dans les budgets des EHPAD que si ces derniers disposent d'une pharmacie à usage intérieur (PUI). Aujourd'hui, moins d'un tiers des EHPAD disposent d'une PUI. Ce sont en majorité des EHPAD rattachés à des établissements de santé en tarif global, c'est-à-dire intégrant les rémunérations des médecins généralistes, auxiliaires médicaux et examens de biologie et d'imagerie, pour lesquels la mutualisation avec la pharmacie hospitalière représente un gain de qualité et d'efficience. L'expérimentation de réintégration des médicaments dans le budget des EHPAD a été menée à son terme, évaluée et a donné lieu à deux rapports de l'inspection générale des affaires sociales. Sur le fondement de cette évaluation, la loi de financement de la sécurité sociale pour 2013 a décidé de ne pas généraliser cette pratique qui n'a pas démontré une gestion plus efficiente de la prescription médicamenteuse en établissement hébergeant des personnes âgées dépendantes (EHPAD), tant sur un plan économique, qu'en termes de bon usage des médicaments et de lutte contre la iatrogénie médicamenteuse. Pour autant, l'intérêt de construire une politique globale du médicament en faveur de personnes âgées, grâce notamment aux travaux menés entre les EHPAD et les pharmaciens référents reste entier. En ce sens, le Gouvernement a souhaité que puisse être concerté un plan d'actions sur la politique du médicament adapté aux besoins des personnes âgées pour relever le défi majeur de santé publique que représente la prescription médicamenteuse pour les personnes âgées.
