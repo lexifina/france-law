@@ -1,0 +1,9 @@
+# Réponse à la question n° 54071
+
+- Question : [54071](54071.md) — Question n° 54071 — changement climatique; rapport; préconisations
+
+## Réponse
+
+*JO du 2014-05-27*
+
+Dans le prolongement de la publication du volume 1 en septembre 2013, le Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) a présenté en mars et avril 2014 les volumes 2 et 3 de son 5e rapport d'évaluation. Le diagnostic résultant de l'évaluation des connaissances les plus avancées dans le domaine des sciences du climat, des impacts du changement climatique, de la vulnérabilité des systèmes naturels et humains, des possibilités d'adaptation et des scénarios socio-économiques compatibles avec la limitation des émissions de gaz à effet de serre (atténuation), est très clair. Les trois volumes du 5e rapport d'évaluation du GIEC confirment et précisent les analyses précédemment publiées, qui ont éclairé la mise en place des politiques climatiques portées par la France depuis la fin des années 1990. Qu'il s'agisse des politiques d'adaptation ou d'atténuation, conduites par le ministère de l'écologie, du développement durable et de l'énergie (MEDDE), la France fait partie des pays les plus avancés au niveau mondial. La loi de programmation de la transition énergétique renforcera encore ces dispositifs. La perspective de la conclusion d'un accord climatique ambitieux lors de la conférence climat Paris 2015 est un motif supplémentaire pour l'exemplarité des services en charge des politiques climatiques. Aussi, le MEDDE assure un important appui technique dans la préparation des prochaines échéances diplomatiques : assemblée générale des Nations-Unies, conférence des parties (CCNUCC) à Lima, conférences intermédiaires à Bonn, conférence Paris Climat 2015 (COP21), etc. Les éléments concrets des propositions françaises dans la perspective de l'accord de 2015 seront définis par le Gouvernement au cours des prochains mois en coordination avec nos partenaires européens.
