@@ -1,0 +1,9 @@
+# Réponse à la question n° 53565
+
+- Question : [53565](53565.md) — Question n° 53565 — énergie; contrat individuel; durée 1 an; bilan
+
+## Réponse
+
+*JO du 2014-05-27*
+
+L'article 25 de la loi n° 2014-344 relative à la consommation prévoit une obligation qui incombe à tous les fournisseurs de proposer une offre de marché avec une durée d'engagement inférieure ou égale à un an parallèlement aux offres de durée plus longue qu'ils pourraient vouloir proposer. Cette obligation ne concerne que les clients concernés par la suppression des tarifs réglementés de vente de gaz ou d'électricité et ne s'impose pas aux fournisseurs pour les clients déjà en offre de marché. Cette disposition a été introduite pour donner le choix aux consommateurs d'un engagement sur une période courte et favoriser une certaine réversibilité des choix dans un contexte où certains clients devront les faire dans des délais contraints. Sa bonne application passe par une communication auprès des consommateurs concernés, pour les informer des obligations incombant en la matière aux fournisseurs et les encourager à effectuer un choix adapté à leurs besoins. Le Gouvernement prévoit, en concertation avec la Commission de régulation de l'énergie (CRE), de diffuser cette information par différents canaux de communication (page d'information dédiée sur les sites des pouvoirs publics, rappel de cette disposition au niveau des courriers d'information de la fin des tarifs réglementés de vente de gaz ou d'électricité, etc.). Parallèlement, l'obligation, à la fois de rendre disponibles deux offres de différentes durées et d'en informer ses clients, sera rappelée aux fournisseurs. Enfin, des contrôles complémentaires pourront être conduits sur le terrain par les services de l'État ou/et de la CRE, afin de vérifier la bonne application de cette disposition.
