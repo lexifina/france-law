@@ -1,0 +1,9 @@
+# Réponse à la question n° 47101
+
+- Question : [47101](47101.md) — Question n° 47101 — réglementation; réforme
+
+## Réponse
+
+*JO du 2014-05-27*
+
+La loi du 12 juillet 2010 a réformé profondément le régime de la publicité, des enseignes et des pré-enseignes, en ses articles 36 à 50. La loi fixe le délai de mise en conformité de ces dispositifs à 2 ans (comme cela était le cas dans l'ancienne réglementation issue de la loi du 29 décembre 1979) mais la loi n° 2012 387 du 22 mars 2012 relative à la simplification du droit et à l'allègement des démarches administratives a modifié ce délai de mise en conformité des publicités, enseignes et pré-enseignes en le portant à 6 ans au lieu des 2 ans initialement prévus. Cependant, ce délai de 6 ans ne se justifie pas pour l'application des nouvelles prescriptions aux publicités et pré-enseignes ni pour la mise en conformité de ces dispositifs avec les prescriptions des nouveaux règlements locaux de publicité. Pour mémoire, ce délai de mise en conformité était déjà de 2 ans dans l'ancienne réglementation issue de la loi du 29 décembre 1979. C'est pourquoi, comme l'a prévu la loi n° 2012-387 du 22 mars 2012, un décret ayant pour objectif de ramener le délai de mise en conformité des publicités et pré-enseignes à 2 ans a été élaboré et publié le 9 juillet 2013 (décret n° 2013-606). L'application des règles existantes en matière de publicité extérieure est un enjeu majeur. Un plan d'accompagnement est actuellement déployé et près de 200 agents ont déjà été formés, sur l'ensemble du territoire, à cette nouvelle réglementation de la publicité extérieure. Ces règles sont fixées afin d'assurer la protection du cadre de vie tout en garantissant le respect de la liberté d'expression, de la liberté du commerce et de l'industrie et le bon exercice de l'activité des opérateurs économiques du secteur de la publicité extérieure et des enseignes.
