@@ -1,0 +1,9 @@
+# Réponse à la question n° 25197
+
+- Question : [25197](25197.md) — Question n° 25197 — applications 3 et 4 G; réglementation
+
+## Réponse
+
+*JO du 2014-05-27*
+
+Le service universel des communications électroniques est défini par le cadre réglementaire européen des communications électroniques et en particulier la directive n° 2002/22/CE du Parlement européen et du Conseil du 7 mars 2002, modifiée par la directive n° 2009/136/CE du 25 novembre 2009 transposée dans le code des postes et des communications électroniques. L'article L. 35-1 du code prévoit ainsi que le service universel des communications électroniques comprend : - un raccordement à un réseau fixe ouvert au public et un service téléphonique de qualité à un prix abordable ; - un service de renseignement et un annuaire d'abonnés, sous forme imprimée et électronique ; - un accès à des cabines publiques ou à d'autres points d'accès au service téléphonique au public ; - des mesures particulières en faveur des utilisateurs handicapés afin d'assurer un accès aux services susmentionnés qui soit équivalent à l'accès dont bénéficient les autres utilisateurs finaux et le caractère abordable de ces services. La Commission européenne est tenue de procéder à une révision régulière du périmètre du service universel des communications électroniques en application de l'article 15 de la directive européenne précitée. Au terme du dernier réexamen en 2010, la Commission a estimé dans sa communication COM (2011)795 en date du 23 novembre 2011 que le marché garantissant à lui seul aux consommateurs un accès abordable à la téléphonie mobile, son inclusion dans le service universel n'était pas nécessaire. En conséquence, le fonctionnement des stations radioélectriques, dans le cadre du déploiement des réseaux de troisième et quatrième génération permettant l'accès à internet à partir d'un téléphone mobile, n'entre pas dans le périmètre du service universel, tel que défini par la Commission européenne.
