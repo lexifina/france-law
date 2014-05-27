@@ -1,0 +1,9 @@
+# Réponse à la question n° 53938
+
+- Question : [53938](53938.md) — Question n° 53938 — collection; patrimoine militaire; perspectives
+
+## Réponse
+
+*JO du 2014-05-27*
+
+Comme le souligne l'honorable parlementaire, l'article L. 311-3 du code de la sécurité intérieure prévoit que les armes historiques et de collection dont le modèle est postérieur au 1er janvier 1900 sont énumérées par un arrêté conjoint des ministres de l'intérieur et de la défense et que les matériels de guerre historiques et de collection relevant de la catégorie A dont le modèle est postérieur au 1er janvier 1946 sont énumérés dans un arrêté du ministre de la défense. A cet égard, l'arrêté du 7 septembre 1995 modifié fixant le régime des armes et des munitions historiques et de collection comprend en annexe 1 une liste, pouvant faire l'objet d'actualisations ou de modifications, d'armes dont le modèle est postérieur au 1er janvier 1900 et qui sont soumises au régime des armes de collection. La rédaction de l'arrêté relatif aux matériels de guerre nécessite quant à elle une plus longue expertise dans la mesure où elle impose de prendre en compte différentes problématiques parmi lesquelles, notamment, celle de la préservation de la sécurité publique. La dangerosité des équipements concernés est à ce titre soigneusement envisagée et examinée, s'agissant de matériels appelés à circuler librement et pouvant être librement détenus. Il convient cependant d'observer que l'absence d'arrêté ne constitue pas un obstacle à l'acquisition par les collectionneurs de matériels de guerre, même non déclassés en matériels de collection au sens du code de la sécurité intérieure. Enfin, il est précisé que les services du ministère de la défense demeurent bien entendu attentifs aux observations et aux suggestions formulées par les collectionneurs dans le cadre des travaux d'élaboration de la liste considérée.
