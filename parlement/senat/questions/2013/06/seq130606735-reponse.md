@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130606735
+
+- Question : [SEQ130606735](seq130606735.md) — Lecture de l'acte de mariage lors de la célébration en mairie
+
+## Réponse
+
+*Justice, JO du 2014-05-29, page 1274*
+
+L'article 75 du code civil prévoit que lors de la célébration du mariage, l'officier de l'état civil procède à la lecture de plusieurs articles du code civil afin de donner une information complète aux futurs conjoints sur leurs droits et devoirs en qualité d'époux, avant de recueillir leur consentement à l'union matrimoniale. L'article 38 du même code prévoit par ailleurs que, d'une façon générale, l'officier de l'état civil doit donner lecture des actes aux parties comparantes avant de recueillir leur signature. La qualité d'officier de l'état civil est conférée, en vertu des articles L. 2122-32 à L. 2122-34 du code général des collectivités territoriales, à un certain nombre de personnes bien déterminées, dont le maire et ses adjoints. L'article R. 2122-10 de ce code permet en outre au maire de déléguer à un ou à plusieurs fonctionnaires titulaires de la commune les fonctions qu'il exerce en tant qu'officier de l'état civil pour la réalisation de certains actes limitativement déterminés tels que l'audition commune ou les entretiens séparés préalables au mariage ou à la transcription de celui-ci, la réception des déclarations de naissance, de décès, d'enfants sans vie, de reconnaissance d'enfants, de déclaration parentale conjointe de changement de nom de l'enfant, ou encore le recueil du consentement de l'enfant de plus de treize ans pour son changement de nom et le recueil du consentement d'un enfant majeur à la modification de son nom en cas de changement de filiation. En revanche, cette liste ne prévoit pas que l'officier de l'état civil, lorsqu'il procède à la célébration du mariage, puisse déléguer la lecture des articles du code civil à un fonctionnaire communal.
