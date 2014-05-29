@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109017
+
+- Question : [SEQ131109017](seq131109017.md) — Huile de palme
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2014-05-29, page 1254*
+
+La réglementation concernant l'étiquetage alimentaire, énoncée aux articles R. 112-1 à R. 112-31 du code de la consommation, prévoit que, pour certaines catégories d'ingrédients, l'indication de la catégorie peut remplacer celle du nom spécifique. C'est le cas des huiles raffinées autres que celles d'olive : ainsi, il est possible d'indiquer sur l'étiquette le terme « huile » qui sera complété, selon le cas, par les mots « végétale » ou « animale ». L'indication de l'huile de palme, en tant que telle, reste bien évidemment possible mais n'est pas obligatoire. À compter du 13 décembre 2014, date à partir de laquelle le règlement n° 1169/2011 concernant l'information des consommateurs sur les denrées alimentaires sera applicable de manière obligatoire, l'indication de la présence de l'huile de palme dans un produit sera requise. Les huiles raffinées d'origine végétale pourront être regroupées dans la liste des ingrédients sous la désignation « huiles végétales », immédiatement suivies de l'énumération des origines végétales spécifiques. Ainsi, la présence de l'huile de palme dans une denrée alimentaire sera immanquablement connue du consommateur. Dans les produits cosmétiques, l'huile de palme ou ses dérivés doivent être mentionnés dans la liste des ingrédients par leur dénomination International Nomenclature of Cosmetic Ingredients (INCI). Ainsi, en cas d'emploi d'huile de palme ou de ses dérivés, les mentions « palm oil » apparaissent, complétées, le cas échéant, par le nom du traitement appliqué à l'huile de palme (« hydrogaenated palm oil », « isomerized palm oil », etc.). En conséquence, la présence d'huile de palme, transformée ou non, dans un produit cosmétique doit être signalée au consommateur lorsqu'il achète ce produit.
