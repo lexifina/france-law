@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008986
+
+- Question : [SEQ131008986](seq131008986.md) — Conditions des remboursements anticipés
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2014-05-29, page 1253*
+
+La loi du 1er juillet 2010 a modifié les règles applicables aux indemnités de remboursement anticipé des crédits à la consommation. Cette loi a remplacé un dispositif où les indemnités de remboursement anticipé étaient totalement interdites pour les emprunts d'un montant inférieur à 21 500 €, mais où ces indemnités n'étaient pas encadrées au-delà de ce seuil, par un nouveau dispositif dans lequel : - les indemnités de remboursement anticipé sont interdites dans ces cas précis, limitativement listés par l'article L. 311-22 du code de la consommation, notamment le crédit renouvelable, les autorisations de découvert et les prêts à taux variable ; - en dehors de ces cas, les indemnités de remboursement ne sont pas interdites mais strictement encadrées, pour tous les crédits ne dépassant pas le seuil de 75 000 €, ce seuil constituant la limite supérieure du champ d'application du crédit à la consommation, définie par l'article L. 311-3 du code de consommation en cohérence avec le droit communautaire. Lors de la définition de ce nouveau dispositif, il a été décidé qu'il ne s'appliquerait qu'aux contrats de crédit conclus postérieurement à l'entrée en vigueur de la loi, ceci afin de ne pas remettre en cause les équilibres contractuels des crédits souscrits antérieurement. Le Gouvernement estime que, s'agissant de la question spécifique de l'application dans le temps de ces nouvelles règles relatives aux indemnités de remboursement anticipé de crédit, les équilibres définis par le dispositif de la loi du 1er juillet 2010 sont satisfaisants. À la lumière de ce constat, il n'envisage pas de proposer une modification de la législation sur ce point précis.
