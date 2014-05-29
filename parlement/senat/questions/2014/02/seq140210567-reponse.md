@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210567
+
+- Question : [SEQ140210567](seq140210567.md) — Disparités dans le financement des instituts d'études politiques
+
+## Réponse
+
+*Enseignement supérieur et recherche, JO du 2014-05-29, page 1268*
+
+La secrétaire d'État chargée de l'enseignement supérieur et de la recherche est pleinement consciente des contraintes et des enjeux liés à la situation financière des établissements de l'enseignement supérieur et particulièrement des instituts d'études politiques (IEP) en région et souhaite rappeler plusieurs faits qui illustrent la priorité accordée à ces établissements : en ces temps de nécessaire maîtrise des finances publiques, la dotation des IEP pour l'année 2014, comme celle de l'ensemble des établissements d'enseignement supérieur, est préservée ; après avoir bénéficié en 2013 de l'attribution de 10 emplois dans le cadre des 1 000 créations de postes par an entre 2013 et 2017 en faveur de la réussite en premiers cycles, les IEP bénéficient en 2014 de l'attribution de 10 nouveaux emplois, en fonction de leur sous-encadrement, dont la répartition leur a été communiquée en début d'année ; s'agissant de la répartition des moyens entre les IEP, la secrétaire d'État chargée de l'enseignement supérieur et de la recherche a engagé en 2014 un processus de concertation et d'échanges avec l'ensemble des directeurs d'IEP, dans la perspective d'une transparence et d'une lisibilité sur l'allocation des moyens. Dans ce cadre, un dialogue constructif a été initié en ce début d'année 2014 entre le ministère et l'ensemble des IEP. Une des pistes envisagées est la mise en œuvre d'un modèle d'allocation des moyens entre IEP en région. Dans le cadre du dialogue qu'il s'applique à poursuivre avec la FNSP (fondation nationale des sciences politiques) en 2014, le ministère veillera particulièrement à la tenue d'un échange s'agissant de la transparence des moyens mis à disposition par la FNSP aux IEP de région.
