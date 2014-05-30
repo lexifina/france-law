@@ -16,16 +16,14 @@ ESPÈCES VISÉES
 
 |
 
-DATE D'INSCRIPTION
+Diarrhée épidémique porcine
 
 |
 
-Néant
+Virus de la diarrhée épidémique porcine
 
 |
 
-|
-
-|
+Suidés domestiques
 
 |
