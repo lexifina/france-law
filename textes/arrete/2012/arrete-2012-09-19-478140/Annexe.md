@@ -357,3 +357,19 @@ RPA et opérateur, lagomorphes/rongeurs, manipulations et soins, mise à mort, c
 26 janvier 2019
 
 |
+
+DUC
+
+Grande Rue
+
+89771 Chailley Cedex
+
+|
+
+Opérateur, volailles-manipulations et soins |
+
+19 mai 2014 |
+
+18 mai 2019
+
+|
