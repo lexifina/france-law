@@ -26,7 +26,7 @@ Automoteur
 
 |
 
-30 525
+30 922
 
 |
 
@@ -34,7 +34,7 @@ Locomotive diesel
 
 |
 
-30 525
+30 922
 
 |
 
@@ -48,7 +48,7 @@ Automotrice
 
 |
 
-23 403
+23 707
 
 |
 
@@ -56,7 +56,7 @@ Locomotive électrique
 
 |
 
-20 350
+20 615
 
 |
 
@@ -64,7 +64,7 @@ Motrice de matériel à grande vitesse
 
 |
 
-35 613
+36 076
 
 |
 
@@ -72,7 +72,7 @@ Automotrice tram-train
 
 |
 
-11 701
+11 853
 
 |
 
@@ -86,7 +86,7 @@ Remorque pour le transport de passagers
 
 |
 
-4 884
+4 947
 
 |
 
@@ -94,7 +94,7 @@ Remorque pour le transport de passagers à grande vitesse
 
 |
 
-10 175
+10 307
 
 |
 
@@ -102,7 +102,7 @@ Remorque tram-train
 
 |
 
-2 442
+2 474
 
 |
 
@@ -128,4 +128,4 @@ Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privi
 
 NOTA :
 
-Conformément à l'article 70-III de la loi n° 2013-1279 du 29 décembre 2013, ces dispositions s'appliquent à compter des impositions dues au titre de 2014.
+Modifications effectuées en conséquence de l'article 37-VI B [4°] de la loi n° 2012-1510 du 29 décembre 2012.

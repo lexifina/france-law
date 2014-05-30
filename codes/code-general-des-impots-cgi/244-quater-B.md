@@ -1,6 +1,6 @@
 # Article 244 quater B
 
-I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies, 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %.
+I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %.
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des dispositions prévues au dernier alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements.
 
@@ -126,4 +126,4 @@ VI. Un décret fixe les conditions d'application du présent article. Il en adap
 
 NOTA :
 
-Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 19 III : Ces dispositions s'appliquent aux crédits d'impôts calculés au titre des dépenses exposées à compter du 1er janvier 2014.
+Décret n° 2014-549 du 26 mai 2014 article 1 : A la première phrase du premier alinéa du I, les références : , 44 decies, 44 undecies sont périmées.

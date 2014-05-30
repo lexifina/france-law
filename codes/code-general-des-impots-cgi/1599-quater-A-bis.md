@@ -28,7 +28,7 @@ Motrice et remorque
 
 |
 
-12 475
+12 637
 
 |
 
@@ -42,7 +42,7 @@ Automotrice et motrice
 
 |
 
-23 403
+23 707
 
 |
 
@@ -50,7 +50,7 @@ Remorque
 
 |
 
-4 884
+4 947
 
 |
 

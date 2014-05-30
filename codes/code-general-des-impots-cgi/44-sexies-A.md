@@ -10,7 +10,7 @@ Les bénéfices réalisés au titre de l'exercice ou période d'imposition bén�
 
 4. La durée totale d'application de l'abattement de 50 % prévu au 1 et au 3 ne peut en aucun cas excéder douze mois.
 
-II.-Le bénéfice exonéré au titre d'un exercice ou d'une période d'imposition est celui déclaré selon les modalités prévues aux articles 50-0, 53 A, 96 à 100, 102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
+II.-Le bénéfice exonéré au titre d'un exercice ou d'une période d'imposition est celui déclaré selon les modalités prévues aux articles 50-0,53 A, 96 à 100,102 ter et 103, diminué des produits bruts ci-après qui restent imposables dans les conditions de droit commun :
 
 a. Les produits des actions ou parts de société, et les résultats de sociétés ou organismes soumis au régime prévu à l'article 8 ;
 
@@ -18,10 +18,10 @@ b. Les produits correspondant aux subventions, libéralités et abandons de cré
 
 c. Les produits de créances et d'opérations financières pour le montant qui excède celui des frais financiers engagés au cours du même exercice ou de la période d'imposition.
 
-III.-Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 septies, 44 octies, 44 decies, 44 quindecies, 244 quater E ou du régime prévu au présent article, la jeune entreprise innovante réalisant des projets de recherche et de développement peut opter pour ce dernier régime, dans les neuf mois suivant celui de son début d'activité, ou dans les neuf premiers mois de l'exercice ou de la période au titre duquel ou de laquelle l'option est exercée. L'option est irrévocable dès lors qu'à la clôture de l'exercice ou de la période au titre duquel ou de laquelle elle a été exercée les conditions fixées à l'article 44 sexies-0 A sont remplies.
+III.-Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 septies, 44 octies, 44 quindecies, 244 quater E ou du régime prévu au présent article, la jeune entreprise innovante réalisant des projets de recherche et de développement peut opter pour ce dernier régime, dans les neuf mois suivant celui de son début d'activité, ou dans les neuf premiers mois de l'exercice ou de la période au titre duquel ou de laquelle l'option est exercée. L'option est irrévocable dès lors qu'à la clôture de l'exercice ou de la période au titre duquel ou de laquelle elle a été exercée les conditions fixées à l'article 44 sexies-0 A sont remplies.
 
 IV.-Le bénéfice de l'exonération prévue au I est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
 NOTA :
 
-Loi n° 2011-1978 du 28 décembre 2011, art. 37-III, ces dispositions sont applicables au calcul de l'impôt sur les revenus ou impôt sur les sociétés pour les exercices ou périodes d'imposition commençant après le 31 décembre 2011.
+Décret n° 2014-549 du 26 mai 2014 article 1 : A la première phrase du III, la référence : , 44 decies est périmée.

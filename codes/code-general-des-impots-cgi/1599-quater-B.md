@@ -46,7 +46,7 @@ Ligne en service d'un répartiteur principal
 
 |
 
-5,06
+5,07
 
 |
 
@@ -82,7 +82,7 @@ Unité de raccordement d'abonnés
 
 |
 
-5 019
+5 026
 
 |
 
@@ -96,7 +96,7 @@ Carte d'abonné
 
 |
 
-54,75
+54,83
 
 |
 
@@ -115,3 +115,7 @@ a) Le nombre de répartiteurs principaux et de lignes en service que chacun comp
 b) Le nombre d'unités de raccordement d'abonnés et de cartes d'abonnés au 1er janvier.
 
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation foncière des entreprises.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010.

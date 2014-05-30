@@ -2,7 +2,7 @@
 
 I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2013, à 16,52 € en zone A bis, 12,27 € dans le reste de la zone A, 9,88 € en zone B 1 et 8,59 € en zone B 2. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2014, à 16,72 € en zone A bis, 12,42 € dans le reste de la zone A, 10,00 € en zone B 1 et 8,69 € en zone B 2. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la formule suivante :
 
@@ -14,37 +14,35 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2013, les plafonds annuels de ressources des locataires sont les suivants :
+a) Pour les baux conclus en 2014, les plafonds annuels de ressources des locataires sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE
 
 |
 
-LIEU DE SITUATION DU LOGEMENT
+LIEU DE LOCATION
 
 |
 
-Zone A bis
+|
+
+Zone A
 
 (en euros)
 
 |
 
-Reste
-
-de la zone A
+Zone B1
 
 (en euros)
 
 |
 
-Zone B 1
-
-(en euros)
+Zone B2
 
 |
 
-Zone B 2
+Zone C
 
 (en euros)
 
@@ -54,19 +52,19 @@ Personne seule
 
 |
 
-36 502
+36 831
 
 |
 
-36 502
+36 831
 
 |
 
-29 751
+30 019
 
 |
 
-26 776
+27 017
 
 |
 
@@ -74,19 +72,19 @@ Couple
 
 |
 
-54 554
+55 045
 
 |
 
-54 554
+55 045
 
 |
 
-39 731
+40 089
 
 |
 
-35 757
+36 079
 
 |
 
@@ -94,19 +92,19 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-71 515
+72 159
 
 |
 
-65 579
+66 169
 
 |
 
-47 780
+48 210
 
 |
 
-43 002
+43 389
 
 |
 
@@ -114,19 +112,19 @@ Personne seule ou couple ayant deux personnes à charge
 
 |
 
-85 384
+86 152
 
 |
 
-78 550
+79 257
 
 |
 
-57 681
+58 200
 
 |
 
-51 913
+52 380
 
 |
 
@@ -134,19 +132,19 @@ Personne seule ou couple ayant trois personnes à charge
 
 |
 
-101 589
+102 503
 
 |
 
-92 989
+93 826
 
 |
 
-67 854
+68 465
 
 |
 
-61 069
+61 619
 
 |
 
@@ -154,19 +152,19 @@ Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-114 315
+115 344
 
 |
 
-104 642
+105 584
 
 |
 
-76 472
+77 160
 
 |
 
-68 824
+69 443
 
 |
 
@@ -174,19 +172,19 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 
 |
 
-+ 12 736
++ 12 851
 
 |
 
-+ 11 659
++ 11 764
 
 |
 
-+ 8 531
++ 8 608
 
 |
 
-+ 7 677
++ 7 746
 
 |
 
@@ -211,3 +209,7 @@ III.-Pour l'application du second alinéa du III de l'article 199 novovicies du 
 4. Les plafonds de loyer réduits sont révisés au 1er janvier de chaque année dans les conditions prévues au premier alinéa du 1 du I.
 
 5. L'arrêté fixant des plafonds de loyer réduits s'applique aux logements dont l'acte authentique d'acquisition est signé ou, s'agissant des logements que le contribuable fait construire, dont la demande de permis de construire est déposée postérieurement à l'entrée en vigueur de l'arrêté.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2012-1532 du 29 décembre 2012.

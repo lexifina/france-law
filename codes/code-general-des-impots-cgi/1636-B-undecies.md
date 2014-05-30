@@ -16,10 +16,10 @@ c) Les premier et second alinéas du 2 peuvent être appliqués simultanément.
 
 4. Par exception au 2, les communautés de communes instituant la taxe d'enlèvement des ordures ménagères dans les conditions prévues au second alinéa du 2° du 1 du VI de l'article 1379-0 bis ne peuvent, la première année, voter que le taux de cette taxe, à l'exclusion de toute modification de ses règles d'établissement. Toutefois, lorsque la transformation est intervenue postérieurement au 15 octobre, les zones de perception en fonction de l'importance du service rendu instituées par le syndicat avant sa transformation en communauté de communes restent applicables l'année qui suit cette transformation.
 
-5. Les communes et les établissements publics de coopération intercommunale ayant institué la part incitative de la taxe d'enlèvement des ordures ménagères conformément à l'article 1522 bis votent le tarif de cette part dans les conditions prévues à l'article 1639 A.
+5. Les communes et les établissements publics de coopération intercommunale ayant institué la part incitative de la taxe d'enlèvement des ordures ménagères conformément à l'article 1522 bis votent les tarifs de cette part dans les conditions prévues à l'article 1639 A.
 
 6. La première année d'application des dispositions de l'article 1522 bis, le produit de la taxe d'enlèvement des ordures ménagères ne peut excéder le produit total de cette taxe tel qu'issu des rôles généraux au titre de l'année précédente.
 
 NOTA :
 
-Loi n° 2011-1977 du 28 décembre 2011, art. 97-II : les alinéas 5 et 6 sont applicables à compter des impositions établies au titre de l'année 2013.
+Modifications effectuées en conséquence de l'article 53-I et II de la loi n° 2013-1279 du 29 décembre 2013.

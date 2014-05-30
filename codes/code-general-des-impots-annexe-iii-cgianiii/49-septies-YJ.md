@@ -12,7 +12,7 @@ Un nombre moyen annuel d'apprentis doit être calculé pour chaque catégorie d'
 
 3° Des apprentis employés par une entreprise portant le label " Entreprise du patrimoine vivant " au sens de l'article 23 de la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises ;
 
-4° Des apprentis dont le contrat d'apprentissage est signé dans les conditions prévues à l'article L. 337-3 du code de l'éducation ;
+4° Dispositions devenues sans objet ;
 
 5° Des apprentis dont le contrat d'apprentissage est signé à l'issue d'un contrat de volontariat pour l'insertion mentionné à l'article L. 130-1 du code du service national.
 
@@ -20,4 +20,6 @@ Chaque nombre moyen annuel d'apprentis calculé au titre d'une année est obtenu
 
 NOTA :
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007 et de l'article 1er du décret n° 2008-244 du 7 mars 2008.
+Modifications effectuées en conséquence de l'article 56-III de la loi n° 2013-595 du 8 juillet 2013.
+
+En conséquence de l'article 27-III et IV de la loi n° 2018-771 du 5 septembre 2018, cet article devient sans objet.

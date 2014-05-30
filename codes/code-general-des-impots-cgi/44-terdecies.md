@@ -4,7 +4,7 @@ I. ― Dans le périmètre des zones de restructuration de la défense mentionn�
 
 Le bénéfice de l'exonération est réservé aux contribuables exerçant une activité industrielle, commerciale ou artisanale au sens de l'article 34 et du 5° du I de l'article 35, à l'exception des activités de crédit-bail mobilier et de location d'immeubles à usage d'habitation, ou agricole au sens de l'article 63, dans les conditions et limites fixées par le présent article. L'exonération s'applique dans les mêmes conditions et limites aux sociétés soumises à l'impôt sur les sociétés exerçant une activité professionnelle non commerciale au sens du 1 de l'article 92.
 
-L'exonération ne s'applique pas aux créations d'activité dans les zones de restructuration de la défense consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années précédant celle du transfert des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies et 44 quindecies, de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour l'industrie et les services ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation.
+L'exonération ne s'applique pas aux créations d'activité dans les zones de restructuration de la défense consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié au titre d'une ou plusieurs des cinq années précédant celle du transfert des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44 quindecies , de la prime d'aménagement du territoire, de la prime d'aménagement du territoire pour l'industrie et les services ou de la prime d'aménagement du territoire pour la recherche, le développement et l'innovation.
 
 L'exonération ne s'applique pas aux contribuables qui créent une activité dans le cadre d'un transfert, d'une concentration ou d'une restructuration d'activités préexistantes exercées dans les zones de restructuration de la défense ou qui reprennent de telles activités, sauf pour la durée restant à courir, si l'activité reprise ou transférée bénéficie ou a bénéficié du régime d'exonération prévu au présent article.
 
@@ -35,3 +35,7 @@ III. ― Lorsque le contribuable mentionné au I est une société membre d'un g
 Lorsqu'il répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies ou 44 quindecies et du régime prévu au présent article, le contribuable peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable.
 
 IV. ― Les obligations déclaratives des personnes et organismes concernés par l'exonération prévue au présent article sont fixées par décret.
+
+NOTA :
+
+Au troisième alinéa du I, les références : , 44 decies, 44 undecies sont périmées.

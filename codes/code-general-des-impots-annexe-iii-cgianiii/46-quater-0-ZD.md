@@ -33,3 +33,7 @@ d) Le cas échéant, la référence de l'agrément collectif délivré par l'Aut
 2 bis. Dans les trois mois de l'acquisition des titres d'une société du groupe ou d'une autre société intermédiaire, l'attestation mentionnée au b bis du 1 produite par la société qui sera qualifiée de société intermédiaire à compter de l'exercice au cours duquel est intervenue cette acquisition.
 
 3. En même temps que la déclaration du résultat d'ensemble de l'exercice au cours duquel le capital de la société mère vient à être détenu à hauteur de 95 % au moins, directement ou indirectement, par une personne morale passible de l'impôt sur les sociétés dans les conditions prévues au premier alinéa du d du 6 de l'article 223 L du code général des impôts, une lettre signée des représentants dûment mandatés de la société mère et de la société détentrice des titres qui indique, de manière précise, la nature, les circonstances et les justifications juridiques, économiques ou sociales de l'opération à l'origine de la détention en cause.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 24-I de la loi n° 2013-672 du 26 juillet 2013.
