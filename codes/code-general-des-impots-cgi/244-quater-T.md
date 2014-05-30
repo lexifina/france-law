@@ -1,6 +1,8 @@
 # Article 244 quater T
 
-I. ― Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 decies, 44 undecies, 44 duodecies, 44 terdecies et 44 quindecies employant habituellement, au sens de l'article L. 1111-2 du code du travail, moins de cinquante salariés et ayant conclu un accord d'intéressement en application du titre Ier du livre III de la troisième partie du même code peuvent bénéficier d'un crédit d'impôt au titre des primes d'intéressement dues en application de cet accord.
+I. ― Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A
+
+44 duodecies, 44 terdecies et 44 quindecies employant habituellement, au sens de l'article L. 1111-2 du code du travail, moins de cinquante salariés et ayant conclu un accord d'intéressement en application du titre Ier du livre III de la troisième partie du même code peuvent bénéficier d'un crédit d'impôt au titre des primes d'intéressement dues en application de cet accord.
 
 I bis. ― Pour les entreprises employant habituellement, au sens de l'article L. 1111-2 du code du travail, moins de deux cent cinquante salariés, le I s'applique aux crédits d'impôt relatifs aux primes d'intéressement dues en application d'accords d'intéressement conclus ou renouvelés à compter du 1er janvier 2011. Pour les entreprises membres d'un groupe mentionné à l'article 223 A du code général des impôts, le nombre de salariés est apprécié en faisant la somme des salariés de chacune des sociétés membres de ce groupe.
 
@@ -18,4 +20,4 @@ Pour l'application du premier alinéa, les sociétés de personnes mentionnées 
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 20 de la loi n° 2011-900 du 29 juillet 2011.
+Décret n° 2014-549 du 26 mai 2014 article 1 : Au I, les références : , 44 decies, 44 undecies sont périmées.

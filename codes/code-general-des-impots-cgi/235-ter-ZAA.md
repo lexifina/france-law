@@ -8,10 +8,10 @@ Pour les redevables qui sont placés sous le régime prévu à l'article 223 A, 
 
 Le chiffre d'affaires mentionné au premier alinéa du présent I s'entend du chiffre d'affaires réalisé par le redevable au cours de l'exercice ou de la période d'imposition, ramené à douze mois le cas échéant, et pour la société mère d'un groupe mentionné à l'article 223 A, de la somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
 
-II.-Les crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies ne sont pas imputables sur la contribution.
+II.-Les crédits d'impôt de toute nature ainsi que la créance visée à l'article 220 quinquies ne sont pas imputables sur la contribution.
 
 III.-La contribution est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et sanctions.
 
 NOTA :
 
-Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 16 II : Ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2013.
+Modifications effectuées en conséquence de l'article 14-I [3°] b et 14-II de la loi n° 2008-1425 du 27 décembre 2008 : Au II de ces articles, les mots : et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies deviennent sans objet.
