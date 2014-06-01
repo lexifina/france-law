@@ -178,6 +178,8 @@ Autre signalisation
 
 3.33 Signalisation d'interdiction de stationnement latéral.
 
+3.34 Signalisation supplémentaire des bateaux utilisés pour la pratique de la plongée subaquatique.
+
 CHAPITRE IV :
 
 Signaux sonores des bâtiments ; radiotéléphonie ; radar
@@ -402,23 +404,21 @@ Protection des eaux et élimination des déchets survenant à bord des bâtiment
 
 Articles
 
-11.01 Définitions.
+11.01 Définitions et application.
 
 11.02 Devoir général de vigilance.
 
-11.03 Interdiction de déversement.
+11.03 Interdiction de déversement et de rejet.
 
-11.04 Collecte et traitement à bord.
+11.04 Collecte et traitement à bord des déchets.
 
 11.05 Carnet de contrôle des huiles usées, dépôt aux stations de réception.
 
 11.06 Obligation de vigilance lors de l'avitaillement.
 
-11.07 (Sans objet).
+11.07 Collecte, dépôt et réception des déchets liés à la cargaison.
 
-11.08 Bateaux déshuileurs.
-
-11.09 Peinture et nettoyage externe des bateaux.
+11.08 Peinture et nettoyage externe des bateaux.
 
 ANNEXES
 
@@ -444,4 +444,16 @@ Annexe 10 : Modèle de carnet de contrôle des huiles usées.
 
 NOTA :
 
-Conformément à la décision CM-I-12-4.1-3-1 du 19 juin 2012, l'amendement entre en vigueur le 1er janvier 2014.
+Conformément à la décision CM-I-13-4.5-8-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
+
+Conformément à la décision CM-I-13-4.5-9-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
+
+Conformément à la décision CM-I-13-4.5-5-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
+
+Conformément à la décision CM-I-13-4.5-10-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
+
+Conformément à la décision CM-I-13-4.5-2-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
+
+Conformément à la décision CM-I-13-4.5-4-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
+
+Conformément à la décision CM-I-13-4.3-1-1 du 13 juin 2013, l'amendement entre en vigueur le 1er juin 2014.
