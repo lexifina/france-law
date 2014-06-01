@@ -324,67 +324,7 @@ K Actes de chirurgie et de spécialité pratiqués par le médecin (prévu à l'
 
 |
 
-KC Actes de chirurgie pratiqués par le médecin (prévu à l'article 2.1 de la NGAP)
-
-|
-
-2,09
-
-|
-
-2,09
-
-|
-
-2,09
-
-|
-
-2,09
-
-|
-
-SCM Soins conservateurs pratiqués par le médecin (prévu à l'article 2.1 de la NGAP)
-
-|
-
-2,41
-
-|
-
-2,41
-
-|
-
-2,41
-
-|
-
-2,41
-
-|
-
 ORT Traitements d'orthopédie dento-faciale pratiqués par le médecin (prévu à l'article 2.1 de la NGAP)
-
-|
-
-2,15
-
-|
-
-2,15
-
-|
-
-2,15
-
-|
-
-2,15
-
-|
-
-PRO Actes de prothèse dentaire pratiqués par le médecin (prévu à l'article 2.1 de la NGAP)
 
 |
 
@@ -1572,67 +1512,7 @@ K (actes de chirurgie et de spécialité pratiqué par le médecin)
 
 |
 
-KC (actes de chirurgie pratiqués par le médecin)
-
-|
-
-2,09
-
-|
-
-2,09
-
-|
-
-2,09
-
-|
-
-2,09
-
-|
-
-SCM Soins conservateurs pratiqués par le médecin (prévue à l'article 2.1 de la NGAP)
-
-|
-
-2,41
-
-|
-
-2,41
-
-|
-
-2,41
-
-|
-
-2,41
-
-|
-
 ORT Traitements d'orthopédie dento-faciale pratiqués par le médecin (prévue à l'article 2.1 de la NGAP)
-
-|
-
-2,15
-
-|
-
-2,15
-
-|
-
-2,15
-
-|
-
-2,15
-
-|
-
-PRO Actes de prothèse dentaire pratiqués par le médecin (prévue à l'article 2.1 de la NGAP)
 
 |
 
