@@ -1,22 +1,28 @@
 # Article Annexe II
 
-QUOTAS D'EFFORT DE PÊCHE OCTROYÉS AUX NAVIRES DE PÊCHE BATTANT PAVILLON FRANÇAIS
+QUOTAS D'EFFORT DE PÊCHE OCTROYÉS AUX NAVIRES DE PÊCHE BATTANT PAVILLON FRANÇAIS DANS LA ZONE CIEM VII A AU TITRE DU RÈGLEMENT R (CE) N° 1342/2008
 
-DANS LA ZONE CIEM VII a AU TITRE DU RÈGLEMENT CE N° 1342/2008 DU DÉCEMBRE 2008
-
-En kilowatts × jours (de présence dans la zone indiquée ci-dessus)
+En kW × jours (de présence dans la zone indiquée ci-dessus)
 
 |
 
-Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 100 mm (TR1)
+CHALUTS DE FOND,
+
+sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 100 mm (TR1)
 
 |
 
-Chaluts de fond, sennes danoises et engins traînants similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 70 mm et inférieur à 100 mm (TR2)
+CHALUTS de FOND,
+
+sennes danoises et engins traînants
+
+similaires, à l'exception des chaluts à perche, d'un maillage supérieur ou égal à 70 mm et inférieur à 100 mm (TR2)
 
 |
 
-Filets maillants et filets emmêlants, à l'exception des trémails (GN)
+FILETS MAILLANTS
+
+et filets emmêlants, à l'exception des trémails (GN)
 
 |
 
@@ -24,15 +30,15 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-12 295
+40 983
 
 |
 
-223
+744
 
 |
 
--
+0
 
 |
 
@@ -40,15 +46,15 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-527
+1 758
 
 |
 
--
+0
 
 |
 
-141
+471
 
 |
 
@@ -56,15 +62,15 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-125
+415
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
@@ -72,15 +78,15 @@ Navires adhérant à l'organisation de producteurs Vendée
 
 |
 
-1 355
+4 516
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
@@ -88,15 +94,15 @@ Navires adhérant à l'organisation de producteurs Coopérative maritime étaplo
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
@@ -104,15 +110,15 @@ Navires adhérant à l'Organisation de producteurs marins pêcheurs de Basse-Nor
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
@@ -120,15 +126,15 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
@@ -136,31 +142,31 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
-Navires adhérant à l'organisation de producteurs des pêcheurs d'Aquitaine
+Navires adhérant à l'organisation de producteurs des Pêcheurs d'Aquitaine
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
@@ -168,15 +174,15 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
@@ -184,15 +190,15 @@ Navires n'adhérant pas à une organisation de producteurs
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
@@ -200,15 +206,15 @@ Réserve nationale
 
 |
 
-156
+521
 
 |
 
--
+0
 
 |
 
--
+0
 
 |
 
@@ -216,14 +222,14 @@ Total
 
 |
 
-14 458
+48 193
 
 |
 
-223
+744
 
 |
 
-141
+471
 
 |
