@@ -1,0 +1,9 @@
+# Réponse à la question n° 53954
+
+- Question : [53954](53954.md) — Question n° 53954 — recyclage; filière professionnelle; soutien
+
+## Réponse
+
+*JO du 2014-06-03*
+
+Compte tenu des enjeux primordiaux liés à la lutte contre les sites illégaux de traitement de véhicules hors d'usage (VHU), tant au plan économique (concurrence déloyale), qu'au plan environnemental (traitement des VHU effectué dans des conditions inacceptables et source de pollutions), une action nationale de grande envergure a été engagée par le ministère de l'écologie, du développement durable et de l'énergie dès 2012. Cette action, fléchée comme prioritaire pour les agents chargés de l'inspection des installations classées, a été élargie aux services de la police et de la gendarmerie nationale. Une circulaire signée du directeur général de la prévention des risques, du directeur général de la police nationale et du directeur général de la gendarmerie nationale, a ainsi été transmise aux services des ministères chargés de l'environnement et de l'intérieur afin de développer une action systématique et commune sur l'ensemble des sites potentiellement illégaux répertoriés. Cette action nationale a été reconduite en 2013 et 2014. Ainsi, en 2013, sur les 480 inspections de sites suspectés d'être illégaux, 309 situations irrégulières ont été constatées et ont donné lieu à 238 arrêtés de mises en demeure, première étape vers la régularisation du site ou vers sa fermeture définitive. Par ailleurs, début 2014, une action nationale « coup de poing » a également été réalisée sur l'ensemble des broyeurs agréés français, l'objectif étant de vérifier la conformité des leurs activités avec le cahier des charges de leur agrément, mais également de vérifier la provenance des VHU et déchets d'équipements électriques et électroniques destinés au broyage pour repérer ainsi des sources d'approvisionnement illégales. Les résultats de cette action nationale seront prochainement communiqués.
