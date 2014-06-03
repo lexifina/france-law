@@ -1,0 +1,9 @@
+# Réponse à la question n° 51010
+
+- Question : [51010](51010.md) — Question n° 51010 — cycles et cyclomoteurs; élimination; recyclage
+
+## Réponse
+
+*JO du 2014-06-03*
+
+Les pneus usagés sont des déchets qui peuvent être valorisés, et être ainsi un élément de la croissance verte et de ses emplois induits, s'ils sont repris par un circuit de collecte adapté, alors qu'ils peuvent, au contraire, devenir une source de pollution et d'atteinte à l'environnement, lorsqu'ils sont jetés dans la nature. Les opérations de gestion des déchets de pneumatiques sont actuellement encadrées par les articles R. 543-137 et suivants du code de l'environnement issus du décret n° 2002-1563 du 24 décembre 2002. Ce décret a permis la mise en place d'une filière de gestion des déchets dite « à responsabilité élargie du producteur ». L'exclusion des pneumatiques de cyclomoteurs devrait être prochainement levée, à l'occasion d'une révision plus large de l'encadrement réglementaire de cette filière, pour laquelle la concertation avec les parties prenantes est d'ores et déjà aboutie et la consultation du public a été réalisée. Cette révision ne devrait en revanche pas intégrer à ce stade de dispositions en matière de gestion des déchets de pneumatiques des cycles. En effet, en premier lieu, ceux-ci peuvent avoir une configuration et composition relativement différentes de ceux des autres types de véhicules couverts par le dispositif, ce qui implique en particulier des modalités de valorisation distinctes. En second lieu, les pneumatiques de cycles sont distribués et collectés par des circuits spécifiques différents de ceux commercialisant les autres types de pneus. Des solutions spécifiques seront donc à rechercher : il conviendra d'étudier cette problématique avec les acteurs concernés en fonction de l'avancement des travaux en la matière.
