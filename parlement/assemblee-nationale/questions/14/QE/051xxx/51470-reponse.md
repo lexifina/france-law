@@ -1,0 +1,9 @@
+# Réponse à la question n° 51470
+
+- Question : [51470](51470.md) — Question n° 51470 — recyclage; réglementation
+
+## Réponse
+
+*JO du 2014-06-03*
+
+Les récentes évolutions de la réglementation relative aux activités de déconstruction et de broyage de véhicules hors d'usage visent, d'une part, l'accroissement de la performance des filières de gestion des véhicules hors d'usage (VHU) du point de vue du recyclage et, d'autre part, l'amélioration des conditions d'exploitation des installations concernées. S'agissant de la filière qui vise les véhicules de catégorie M1 et N1, il s'agit d'une filière de responsabilité élargie des producteurs qui a pour origine la directive européenne du 18 septembre 2 000, transposée par les articles R. 543-153 et suivants du code de l'environnement issus du décret n° 2011-153 du 4 février 2011, eux mêmes complétés par trois arrêtés relatifs aux réseaux de centres VHU agréés mis en place par les producteurs ou groupements de producteurs, aux agréments des exploitants des centres VHU et aux agréments des exploitants des installations de broyage de véhicules hors d'usage et à l'instance d'évaluation de l'équilibre économique de la filière des véhicules hors d'usage. Par ailleurs, en France, les installations qui traitent tous types de véhicules hors d'usage, y compris ceux n'entrant pas dans le champ de la filière réglementée VHU, sont des installations classées pour la protection de l'environnement dès lors qu'elles dépassent le seuil de 100m2 de superficie. De 100m2 à 30 000m2 elles sont ainsi automatiquement soumises à la procédure d'enregistrement et aux prescriptions générales de l'arrêté du 26 novembre 2012 et, à partir de 30 000 m2, ces installations sont soumises à la procédure d'autorisation qui implique des prescriptions environnementales adaptées aux sites.
