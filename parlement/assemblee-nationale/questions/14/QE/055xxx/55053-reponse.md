@@ -1,0 +1,9 @@
+# Réponse à la question n° 55053
+
+- Question : [55053](55053.md) — Question n° 55053 — gaz naturel; exonération; suppression
+
+## Réponse
+
+*JO du 2014-06-03*
+
+Donner un prix significatif au carbone est un élément essentiel pour assurer la transition vers une économie compétitive bas carbone et dépend tant des politiques nationales ambitieuses mises en place dans les pays européens, que des outils de politique climatique appliqués de façon harmonisée dans l'Union européenne. La taxe intérieure de consommation sur le gaz naturel (TICGN), régie par l'article 266 quinquiès du code des douanes, a été aménagée par la loi de finances pour 2014 (art. 32), qui introduit une composante carbone progressive et proportionnée aux émissions de CO2 des produits énergétiques. La valeur de la tonne de carbone a été fixée à 7 euros en 2014, 14,5 euros en 2015 et 22 euros en 2016. De plus, la loi de finances 2014 assujettit désormais les ménages à la TICGN. Le surcoût moyen pour les ménages est de l'ordre de 29 € TTC en 2014 pour un usage cuisson/eau chaude/chauffage, de 5 € TTC pour un usage cuisson/eau chaude et de 1 € TTC pour un usage cuisson. Le Gouvernement, sensible à l'impact sur le pouvoir d'achat des tarifs de l'énergie, a décidé de compenser en 2014 en totalité ce surcoût moyen pour les ménages bénéficiaires du tarif spécial de solidarité (TSS) via une revalorisation de l'aide octroyée. Ainsi, l'arrêté du 21 mars 2014, portant modification de l'annexe au décret n° 2008-778 du 13 août 2008 relatif à la fourniture du gaz naturel au tarif spécial de solidarité, fixe un nouveau barème du TSS neutralisant en moyenne l'impact de cette taxe et applicable depuis le 1er avril 2014. Ce relèvement du niveau de l'aide bénéficiera aux ménages disposant d'un contrat individuel mais aussi à ceux disposant d'un chauffage collectif au gaz, ainsi qu'aux résidences sociales.
