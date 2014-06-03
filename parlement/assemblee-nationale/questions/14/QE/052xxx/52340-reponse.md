@@ -1,0 +1,9 @@
+# Réponse à la question n° 52340
+
+- Question : [52340](52340.md) — Question n° 52340 — octroi de mer; suppression; conséquences
+
+## Réponse
+
+*JO du 2014-06-03*
+
+Conscient de l'importance de l'octroi de mer pour la compétitivité des économies des départements et régions d'outre-mer et les ressources des collectivités territoriales concernées, le Gouvernement a engagé très en amont le chantier du renouvellement de la décision du Conseil de l'Union européenne relative à l'octroi de mer. Le Gouvernement a ainsi, dès février 2013, adressé à la Commission européenne une demande en vue du renouvellement de la décision de 2004 qui expire le 30 juin 2014. Grâce à un travail partenarial approfondi avec les collectivités régionales et les socioprofessionnels, la demande française de renouvellement a été actualisée en tant que de besoin pour répondre aux sollicitations des services de la Commission européenne sur les données de surcoût auxquels font face les productions locales. L'importance du nombre de produits concernés par des différentiels de taxation, pour lesquels une vérification de la proportionnalité est nécessaire, n'a pas permis à la Commission d'achever l'instruction de la demande française dans un délai compatible avec l'adoption d'une nouvelle décision et son entrée en vigueur au 1er juillet 2014. Dans ces circonstances, et pour éviter un vide juridique préjudiciable, le Gouvernement a obtenu de la Commission qu'elle propose une décision prorogeant celle de 2004 jusqu'au 31 décembre 2014. Cette proposition de décision a été adoptée en session plénière du Parlement européen le 16 avril dernier. L'adoption définitive par le Conseil devrait intervenir prochainement. L'instruction de la demande française pour le renouvellement de la décision du Conseil pour la période post-2014 se poursuit en parallèle avec pour objectif d'aboutir à l'adoption d'une nouvelle décision entrant en vigueur au 1er janvier 2015.
