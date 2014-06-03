@@ -1,0 +1,9 @@
+# Réponse à la question n° 19362
+
+- Question : [19362](19362.md) — Question n° 19362 — ouvrages non collectifs; politiques communautaires
+
+## Réponse
+
+*JO du 2014-06-03*
+
+L'arrêté du 7 mars 2012 modifiant l'arrêté du 7 septembre 2009 fixant les prescriptions techniques applicables aux installations d'assainissement non collectif recevant une charge brute de pollution organique inférieure ou égale à 1,2 kg/j de DBO5, entré en vigueur au 1er juillet 2012, prend déjà en compte l'obligation pour les installations d'assainissement non collectif de satisfaire aux exigences fondamentales du règlement (UE) n° 305-2011 du parlement européen et du conseil du 9 mars 2011 établissant les conditions harmonisées de commercialisation pour les produits de construction. En effet, l'arrêté du 7 mars 2012 modifie l'article 5 de l'arrêté du 7 septembre 2009 selon ces termes : « Les installations d'assainissement non collectif qui peuvent être composées de dispositifs de prétraitement et de traitement réalisés in situ ou préfabriqués doivent satisfaire : - le cas échéant, aux exigences essentielles de la directive 89/106/CEE susvisée relative à l'assainissement non collectif, notamment en termes de résistance mécanique, de stabilité, d'hygiène, de santé et d'environnement. A compter du 1er juillet 2013, les dispositifs de prétraitement et de traitement précités dans cet article devront satisfaire aux exigences fondamentales du règlement n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011 établissant les conditions harmonisées de commercialisation pour les produits de construction et abrogeant la directive 89/106/CEE du Conseil ; ». Les équipements utilisés dans les pays de l'Union européenne doivent toujours obtenir un agrément ministériel pour pouvoir être commercialisés en France.
