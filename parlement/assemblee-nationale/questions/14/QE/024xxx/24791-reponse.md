@@ -1,0 +1,9 @@
+# Réponse à la question n° 24791
+
+- Question : [24791](24791.md) — Question n° 24791 — plan Écophyto 2018; mise en oeuvre
+
+## Réponse
+
+*JO du 2014-06-03*
+
+Pour protéger la santé, les ressources naturelles et la biodiversité, il est nécessaire d'accompagner les acteurs du monde agricole et l'ensemble des utilisateurs, vers la suppression de l'utilisation des produits phytosanitaires dans les espaces verts. Les pesticides se retrouvent dans tous les milieux : l'air, l'eau, le sol. Les risques que fait porter l'utilisation des produits phytosanitaires sur la santé humaine et sur la biodiversité sont désormais établis. La réduction de l'utilisation des pesticides constitue donc un enjeu majeur. Dans cet esprit, le ministère de l'écologie, du développement durable et de l'énergie est engagé auprès du ministère de l'agriculture, de l'agroalimentaire et de la fôret autorité nationale compétente, pour la pleine application des dispositions européennes sur ces produits (règlement 1107/2009 relatif à la mise sur le marché des produits phytopharmaceutiques et directive 128/2009 relative à l'utilisation durable des pesticides). Au niveau national, le plan écophyto constitue le cadre d'action visant à réduire l'utilisation des pesticides de synthèse au profit de nouvelles pratiques agronomiques et des méthodes alternatives permettant de diminuer significativement l'exposition des populations et les contaminations des milieux. Le ministre de l'agriculture, de l'agroalimentaire et de la fôret a eu l'occasion de faire part de résultats encourageants dans ce domaine en annonçant une réduction de 5,7 % du recours aux pesticides chimiques en 2013. Le MEDDE soutient les initiatives permettant de progresser plus rapidement et de valoriser les bonnes pratiques et a récemment lancé le label « terre saine » pour les collectivités engagées dans des démarches de réduction ou de remplacement de ces produits.
