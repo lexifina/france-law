@@ -1,0 +1,9 @@
+# Réponse à la question n° 53400
+
+- Question : [53400](53400.md) — Question n° 53400 — auxiliaires; formation
+
+## Réponse
+
+*JO du 2014-06-03*
+
+Les formations préparatoires au métier d'auxiliaire vétérinaire sont multiples. Pour autant, toutes ne sont pas reconnues par la convention collective nationale des cabinets et cliniques vétérinaires du 5 juillet 1995 (brochure n° 3282), étendue par arrêté du 16 janvier 1996, qui s'applique aux employés non vétérinaires des cabinets, tels que les assistants. Les dispositions de cette convention relatives à la classification des emplois et à la définition des tâches sont détaillées dans son avenant n° 48 du 25 octobre 2010. Elles mentionnent en particulier le titre d'auxiliaire spécialisé vétérinaire (ASV) qui se prépare en deux ans. Pour accéder à cette formation, il faut être titulaire d'un baccalauréat ou d'un diplôme de même niveau ou avoir suivi une seconde générale et technologique avec passage accordé en première et posséder une expérience professionnelle de deux ans, quel que soit le secteur d'activité. Ce titre, enregistré au répertoire national des certifications professionnelles (RNCP), est délivré par le groupement d'intérêt public santé animale (GIPSA). Il existe, par ailleurs, des formations par correspondance qui ne préparent pas à des certifications professionnelles enregistrées au RNCP et ne sont pas reconnues dans la convention collective des cabinets vétérinaires. La reconnaissance des qualifications est de la responsabilité des partenaires sociaux signataires de la convention collective. En effet, conformément à l'article R. 2241-9 du code du travail et quel que soit le secteur d'activité, la négociation collective en matière de formation professionnelle porte notamment sur la reconnaissance des qualifications.
