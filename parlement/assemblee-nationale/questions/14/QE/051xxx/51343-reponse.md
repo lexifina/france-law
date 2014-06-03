@@ -1,0 +1,9 @@
+# Réponse à la question n° 51343
+
+- Question : [51343](51343.md) — Question n° 51343 — obtention à l'étranger; validation; réglementation
+
+## Réponse
+
+*JO du 2014-06-03*
+
+La France pratique aujourd'hui l'échange réciproque des permis de conduire avec dix-huit États américains sur cinquante. Le Texas fait partie de ceux-ci, en vertu d'un accord par échange de notes datant du 25 février 2010. Il figure sur la liste des États ou des autorités avec lesquelles la France pratique l'échange des permis de conduire (pour la catégorie B). Cette liste est notamment annexée à la circulaire du 3 août 2012 relative à la mise en oeuvre de l'arrêté du 12 janvier 2012 fixant les conditions de reconnaissance et d'échange des permis de conduire délivrés par les États n'appartenant ni à l'Union européenne ni à l'Espace économique européen. Il n'y a donc en principe aucune difficulté pour que les usagers qui ont obtenu le permis de conduire du Texas au cours d'un long séjour dans cet État sollicitent, à leur retour en France, l'échange de leur titre contre un permis de conduire français.
