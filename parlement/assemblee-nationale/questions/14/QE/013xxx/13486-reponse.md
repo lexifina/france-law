@@ -1,0 +1,9 @@
+# Réponse à la question n° 13486
+
+- Question : [13486](13486.md) — Question n° 13486 — poids total roulant autorisé; réglementation
+
+## Réponse
+
+*JO du 2014-06-03*
+
+La conduite d'un véhicule ou ensemble de véhicules est une activité exigeante en matière de sécurité, pour sa propre personne et envers autrui. Les textes réglementaires nationaux relatifs au permis de conduire et plus particulièrement des catégories à détenir sont issus de la transposition de la directive européenne 2006/126/CE relative au permis de conduire qui définit les conditions requises pour la conduite des ensembles de véhicules. Ainsi, lorsque le véhicule tracteur relève de la catégorie B, plusieurs cas sont à distinguer en fonction du poids total autorisé en charge (PTAC) indiqué par le code F2 sur le certificat d'immatriculation. Dès lors que la remorque tractée présente un PTAC inférieur ou égal à 750 kg, seule la catégorie B du permis de conduire est requise. Pour les remorques présentant un PTAC supérieur à 750 kg sans excéder 3 500 kg, la catégorie du permis de conduire à détenir est fonction de la somme des PTAC (Véhicule tracteur + remorque) : - si la somme des PTAC est inférieure ou égale à 3 500 kg, la seule catégorie B du permis de conduire est requise ; - si la somme des PTAC excède 3 500 kg sans dépasser 4 250 kg, une formation obligatoire de 7 heures, dans un établissement d'enseignement de la conduite automobile et de la sécurité routière agréé, est nécessaire permettant au demandeur de se voir attribuer la mention « 96 » au regard de la catégorie B du permis de conduire validant ainsi la conduite de tels ensembles en toute légalité ; - si la somme des PTAC excède 4 250 kg, la détention de la catégorie BE du permis de conduire est nécessaire. Enfin, la conduite d'un véhicule relevant de la catégorie B tractant une remorque dont le PTAC excède 3 500 kg requiert depuis le 19 janvier 2013 la détention de la catégorie C1E du permis de conduire.
