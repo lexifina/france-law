@@ -1,0 +1,9 @@
+# Réponse à la question n° 8971
+
+- Question : [8971](8971.md) — Question n° 8971 — collecte; organisation
+
+## Réponse
+
+*JO du 2014-06-03*
+
+Les pneus usagés sont des déchets qui peuvent être valorisés, et être ainsi un élément de la croissance verte et de ses emplois induits, s'ils sont repris par un circuit de collecte adapté, alors qu'ils peuvent, au contraire, devenir une source de pollution et d'atteinte à l'environnement, lorsqu'ils sont jetés dans la nature. Les opérations de gestion des déchets de pneumatiques sont actuellement encadrées par les articles R. 543-137 et suivants du code de l'environnement issus du décret n° 2002-1563 du 24 décembre 2002. Ce décret a permis la mise en place d'une filière de gestion des déchets dite « à responsabilité élargie du producteur » qui implique que les producteurs et importateurs de pneumatiques doivent collecter et valoriser l'équivalent en tonnage du nombre de pneumatiques qu'ils mettent sur le marché l'année n-1. À ce jour, certaines collectivités locales permettent l'accueil en déchèterie d'un faible tonnage de déchets de pneumatiques qui n'a pas fait l'objet d'une reprise gratuite par les distributeurs (car non remis au distributeur, ou acheté sur internet sans que le vendeur ne se soit acquitté de ses obligations). C'est pourquoi, en octobre 2008, une charte de « reprise des pneumatiques en déchèterie » a été signée entre Aliapur, principal organisme collectif de la filière, et les associations représentant les collectivités locales (AMORCE, CNR, AMF) dans le but de faire collecter les acteurs locaux par la filière classique. Cette charte qui fixe le cadre et les conditions de la collecte dans les déchèteries permet de répondre aux préoccupations que vous évoquez et de faire pleinement assurer aux producteurs leurs obligations.
