@@ -1,0 +1,9 @@
+# Réponse à la question n° 53567
+
+- Question : [53567](53567.md) — Question n° 53567 — équipements électriques et électroniques; substances dangereuses; bilan
+
+## Réponse
+
+*JO du 2014-06-03*
+
+Les objectifs de la politique environnementale, et plus spécifiquement de la politique des déchets, concourent à la protection des milieux naturels et de la santé par la prévention des déchets dangereux, mais aussi à une croissance économique durable et juste. Les disparités entre les dispositions législatives et administratives adoptées par les États membres concernant la limitation de l'utilisation de substances dangereuses dans les équipements électriques et électroniques (EEE) peuvent créer des entraves aux échanges et fausser la concurrence dans l'Union et peuvent donc avoir une incidence directe sur l'établissement et le fonctionnement du marché intérieur. Il apparaît donc nécessaire de rapprocher les législations des États membres dans ce secteur. C'est l'objet de la directive 2011/65/UE du 8 juin 2011 relative à la limitation de l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques. Celle-ci a été transposée en droit français par le décret n° 2013-988 du 6 novembre 2013. Ce décret renforce les exigences de la réglementation sur les limitations en substances dangereuses en diminuant les seuils d'acceptabilité dans les produits ; il prévoit un élargissement progressif du champ des produits concernés dans les années à venir. Le Gouvernement s'attachera à la mise en oeuvre efficace de ces dispositions afin de contribuer à la protection de la santé humaine et à la valorisation et à l'élimination non polluantes des déchets d'équipements électriques et électroniques, et à tirer un bilan de cette mise en oeuvre après une phase de retour d'expérience suffisante.
