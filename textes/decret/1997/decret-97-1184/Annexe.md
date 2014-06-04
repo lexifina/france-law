@@ -140,7 +140,7 @@ Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité
 
 |
 
-Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives :
+Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9,10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives :
 
 1
 
@@ -174,21 +174,21 @@ Délivrance, suspension et retrait de la qualification de prestataires de servic
 
 |
 
-Second alinéa de l'article 19
+Second alinéa de l'article 19.
 
 |
 
-Décret n° 2011-1467 du 9 novembre 2011 relatif aux importations et aux exportations hors du territoire de l'Union européenne de matériels de guerre, armes et munitions et de matériels assimilés et aux transferts intracommunautaires de produits liés à la défense.
+Titre III du livre III de la deuxième partie réglementaire du code de la défense :
 
 1
 
 |
 
-Décisions relatives aux agréments préalables d'exportation
+Décisions relatives aux licences individuelles et globales d'exportation
 
 |
 
-Article 12
+Article R. 2335-11
 
 |
 
@@ -196,11 +196,11 @@ Article 12
 
 |
 
-Décisions d'autorisation d'exportation de matériels de guerre dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre
+Décisions relatives aux licences individuelles et globales de transfert
 
 |
 
-Article 14
+Article R. 2335-23
 
 |
 
@@ -208,11 +208,11 @@ Article 14
 
 |
 
-Décisions relatives aux agréments préalables de transfert
+Décisions d'autorisation de transit dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre
 
 |
 
-Article 24
+Article R. 2335-43
 
 |
 
@@ -220,35 +220,11 @@ Article 24
 
 |
 
-Décisions d'autorisation de transfert de produits liés à la défense dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre
+Modification, suspension, retrait et abrogation des licences individuelles ou globales d'exportation ou de transfert ainsi que des autorisations de transit de matériels de guerre.
 
 |
 
-Article 27
-
-|
-
-5
-
-|
-
-Décisions d'autorisation de transit dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre
-
-|
-
-Article 46
-
-|
-
-6
-
-|
-
-Modification, suspension, retrait et abrogation des agréments préalables d'exportation, des autorisations d'exportation de matériel de guerre, des agréments préalables de transfert, des autorisations de transfert de produits liés à la défense et des autorisations de transit de matériels de guerre
-
-|
-
-Articles 21, 36 et 48
+Articles R. 2335-15, R. 2335-27 et R. 2335-45
 
 |
 
@@ -329,3 +305,9 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 |
 
 Décisions relatives à l'activité des exploitants primaires de données d'origine spatiale prévues aux articles 23 à 25 de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales.
+
+NOTA :
+
+Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9 janvier 2014.
+
+Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 4 juin 2014.
