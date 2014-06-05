@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140310784
+
+- Question : [SEQ140310784](seq140310784.md) — Chargeur unique pour les téléphones portables
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-06-05, page 1316*
+
+La politique environnementale, et plus spécifiquement la politique relative aux déchets, sont porteuses de bénéfices pour la planète mais aussi pour l'économie et le pouvoir d'achat. L'incompatibilité des chargeurs de téléphones portables et tablettes représente ainsi un problème environnemental, mais aussi un inconvénient pour les utilisateurs européens. À l'heure actuelle, chaque modèle est vendu avec son chargeur spécifique. Un utilisateur désireux de changer d'équipement doit généralement se procurer un nouveau chargeur et se débarrasser de l'ancien, même si ce dernier est encore en état de fonctionnement. Cela engendre une quantité inutile et considérable de déchets équipements électriques et électroniques. En France, la filière des déchets d'équipements électriques et électroniques (DEEE) a d'ores et déjà pris en compte cette problématique prévoyant un doublement de l'éco-contribution pour les fabricants de téléphones mobiles ne proposant pas de chargeur universel. Grâce à un projet législatif adopté par le Parlement européen en mars 2014 et en cours de validation par le Conseil, des chargeurs universels sur les téléphones portables, les GPS et les tablettes devraient être obligatoires d'ici 3 ans. Les consommateurs pourront ainsi acheter un équipement sans chargeur, ce qui devrait, selon toute logique, diminuer le prix d'achat. Ils auront également la possibilité d'acheter des chargeurs indépendants pour un rapport qualité/prix bien supérieur au niveau actuel. Le ministère de l'écologie, du développement durable et de l'énergie veillera à la bonne diffusion et à la bonne application de ces dispositions.
