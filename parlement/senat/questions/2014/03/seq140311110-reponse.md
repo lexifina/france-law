@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140311110
+
+- Question : [SEQ140311110](seq140311110.md) — Autorisation d'urbanisme et absence de permis de démolir
+
+## Réponse
+
+*Logement et égalité des territoires, JO du 2014-06-05, page 1331*
+
+Aux termes de l'article L. 451-1 du code de l'urbanisme, les démolitions nécessaires à une opération de construction peuvent faire l'objet, soit d'une demande de permis de construire portant à la fois sur la démolition et sur la construction, soit de deux demandes distinctes. Dans le premier cas, le permis de construire autorise la démolition. Dans le second cas, l'article R. 431-21 du code de l'urbanisme prévoit que le demandeur doit accompagner la demande de permis de construire d'une justification du dépôt de la demande de permis de démolir. Le principe est en effet que les demandes portant sur des opérations de construction comprenant des démolitions, telles les opérations de démolition partielle et de reconstruction en vue d'une extension, sont certes en principe indissociables, mais peuvent néanmoins être instruites distinctement (CE. 30 décembre 2011, Cne de Saint-Raphaël, req. N° 342 398). En l'occurrence, la demande d'autorisation initiale ne concernant que les travaux d'extension de la construction existante, le permis de construire n'a pas autorisé la démolition. La circonstance que des travaux de démolition aient été entrepris, puis régularisés, au cours de la construction est sans incidence sur la validité du permis de construire. Le permis de construire et le permis de démolir constituent en effet, dans ce cas de figure, deux permis indépendants ayant chacun leur objet. En conséquence, si le permis de construire est toujours en cours de validité, rien n'empêche le bénéficiaire de poursuivre les travaux de construction conformément à l'autorisation donnée.
