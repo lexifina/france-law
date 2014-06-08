@@ -16,15 +16,7 @@ Agence centrale des organismes de sécurité sociale
 
 |
 
-Emplois de catégorie A, B, C et D.
-
-|
-
-Agence centrale des organismes d'intervention dans le secteur agricole
-
-|
-
-Emplois de catégorie A, B, C et D.
+Emplois de catégorie A, B et C.
 
 |
 
@@ -58,7 +50,7 @@ Institution mentionnée à l'article L. 5312-1 du code du travail
 
 |
 
-Emplois de catégorie A, B, C et D.
+Emplois de catégorie A, B et C.
 
 |
 
@@ -82,7 +74,7 @@ Caisse de garantie du logement locatif social
 
 |
 
-Emplois de niveau A requérant une compétence spécifique en matière d'analyse financière.
+Emplois de niveau A requérant une compétence spécifique en matière d'analyse financière
 
 |
 
@@ -90,7 +82,7 @@ Caisse nationale d'assurance maladie des travailleurs salariés
 
 |
 
-Emplois de catégorie A, B, C et D.
+Emplois de catégorie A, B et C.
 
 |
 
@@ -98,7 +90,7 @@ Caisse nationale d'assurance vieillesse des travailleurs salariés
 
 |
 
-Emplois de catégorie A, B, C et D.
+Emplois de catégorie A, B et C.
 
 |
 
@@ -106,7 +98,7 @@ Caisse nationale des allocations familiales
 
 |
 
-Emplois de catégorie A, B, C et D.
+Emplois de catégorie A, B et C.
 
 |
 
@@ -114,7 +106,7 @@ Centre des monuments nationaux
 
 |
 
-Emplois de catégorie A, B, C et D.
+Emplois de catégorie A, B et C.
 
 |
 
@@ -122,7 +114,7 @@ Centre national d'art et de culture Georges-Pompidou
 
 |
 
-Emplois de catégorie A, B, C et D.
+Emplois de catégorie A, B et C.
 
 |
 
@@ -138,7 +130,7 @@ Centres régionaux de la propriété forestière
 
 |
 
-Emplois de catégorie A, B, C et D.
+Emplois de catégorie A, B et C.
 
 |
 
@@ -218,15 +210,7 @@ Ecole polytechnique
 
 |
 
-Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B.
-
-|
-
-Etablissement public de la Bibliothèque nationale de France
-
-|
-
-Emplois des catégories A, B et C des services commerciaux et d'édition, des services de la communication et des services d'organisation des expositions, à l'exception des chefs de service.
+Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B
 
 |
 
@@ -238,27 +222,19 @@ Emplois de catégorie A, B et C.
 
 |
 
-Etablissement public du musée du Louvre
-
-|
-
-Emplois des services de l'auditorium, de l'informatique, des expositions temporaires et de la communication, à l'exception des chefs de service.
-
-|
-
 Etablissement public du musée du quai Branly
 
 |
 
--emplois de catégorie A, B et C dans le domaine du patrimoine et des collections, du développement culturel et des publics ;
+- emplois de catégorie A, B et C dans le domaine du patrimoine et des collections, du développement culturel et des publics ;
 
--emplois de catégorie A dans le domaine de l'enseignement et de la recherche ;
+- emplois de catégorie A dans le domaine de l'enseignement et de la recherche ;
 
--emplois de catégorie A, B et C dans le domaine du mécénat et de la communication ;
+- emplois de catégorie A, B et C dans le domaine du mécénat et de la communication ;
 
--emplois de catégorie A, B et C liés à la gestion du bâtiment, des systèmes d'information, de la sécurité et de la sûreté ;
+- emplois de catégorie A, B et C liés à la gestion du bâtiment, des systèmes d'information, de la sécurité et de la sûreté ;
 
--emplois de catégorie A de juristes experts dans le domaine des achats publics et du droit de la propriété littéraire et artistique.
+- emplois de catégorie A de juristes experts dans le domaine des achats publics et du droit de la propriété littéraire et artistique.
 
 |
 
@@ -270,19 +246,11 @@ Emplois du service des réservations et des visites-conférences, du service de 
 
 |
 
-Fonds de solidarité
-
-|
-
-Emplois de catégories A, B, C et D.
-
-|
-
 Institut national de l'information géographique et forestière
 
 |
 
-Institut national de l'information géographique et forestière : emplois de catégories A, B et C dans le secteur commercial, de la mercatique et de la communication ; emplois de catégories A et B dans le domaine aéronautique ; emplois de catégorie A dans les nouvelles technologies informatiques ; emplois de catégorie A de juriste expert dans le droit des affaires.
+Institut national de l'information géographique et forestière : emplois de catégories A et B dans le secteur commercial, de la mercatique et de la communication ; emplois de catégories A et B dans le domaine aéronautique ; emplois de catégorie A dans les nouvelles technologies informatiques ; emplois de catégorie A de juriste expert dans le droit des affaires.
 
 |
 
@@ -290,19 +258,11 @@ Institut national de la propriété industrielle
 
 |
 
-Emplois des catégories A, B, C et D.
+Emplois des catégories A, B et C.
 
 |
 
-Institut national de l'origine et de la qualité
-
-|
-
-Emplois des catégories A, B, C et D.
-
-|
-
-Institution nationale des invalides.
+Institution nationale des invalides
 
 |
 
@@ -310,43 +270,11 @@ Emplois occupés par les praticiens hospitaliers civils.
 
 |
 
-Laboratoire national de dépistage du dopage
-
-|
-
-Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants.
-
-|
-
-Musée de l'armée
-
-|
-
-Emplois de catégorie A, B, C et D.
-
-|
-
-Musée national de la marine
-
-|
-
-Emplois de catégorie A, B, C et D.
-
-|
-
 Musée Rodin
 
 |
 
-Emplois commerciaux des catégories A, B, C et D.
-
-|
-
-Office de protection contre les rayonnements ionisants
-
-|
-
-Emplois scientifiques et techniques de catégorie A et B.
+Emplois commerciaux des catégories A, B et C.
 
 |
 
@@ -404,7 +332,7 @@ Etablissement de retraite additionnelle de la fonction publique
 
 |
 
-Emplois requérant des compétences spécifiques en matière de gestion et d'analyse financière ainsi que ceux requérant des compétences spécialisées en actuariat.
+emplois requérant des compétences spécifiques en matière de gestion et d'analyse financière ainsi que ceux requérant des compétences spécialisées en actuariat
 
 |
 
