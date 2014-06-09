@@ -6,4 +6,4 @@ CONFORMÉMENT À L'ARTICLE 22 DU DÉCRET N° 2011-1467 DU 9 NOVEMBRE 2011 SUSVIS
 
 Vous pouvez consulter le tableau à l'adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120110&numTexte=8&pageDebut=00414&pageFin=00419
+https://www.legifrance.gouv.fr/download/pdf?id=AlDOBeqbRtx2jTLAe5UNvvyPpUVXDsxSS7PEreByYJg
