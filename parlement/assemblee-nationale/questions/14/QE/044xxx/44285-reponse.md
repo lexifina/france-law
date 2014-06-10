@@ -1,0 +1,9 @@
+# Réponse à la question n° 44285
+
+- Question : [44285](44285.md) — Question n° 44285 — circulaire du 28 novembre 2012; application
+
+## Réponse
+
+*JO du 2014-06-10*
+
+La mise en oeuvre de la circulaire du 28 novembre 2012 relative à l'admission exceptionnelle au séjour des étrangers en situation irrégulière a conduit au dépôt d'un nombre important de dossiers de demandes. Bien que ce volume d'activités, essentiellement concentré sur les trois premiers mois de l'année 2013 ne se constate plus actuellement, il a engendré la création d'un stock élevé de dossiers à examiner qui entraîne un délai de traitement important. Ainsi, s'agissant des statistiques relatives au seul département de Seine-Saint-Denis et pour le premier semestre 2013, 7 279 demandes ont été enregistrées et 4 728 décisions favorables d'admission au séjour ont été prises. Par ailleurs, il convient de souligner la complexité des dossiers d'admission exceptionnelle au séjour pour lesquels un examen attentif est effectué qui nécessite la consultation de services extérieurs s'agissant des demandes fondées sur l'exercice d'une activité salariée. Cette complexité est une autre source d'augmentation des délais de traitement que les services préfectoraux s'efforcent de réduire dans la mesure du possible. Toutefois, l'enregistrement d'une demande conduit à la remise d'un récépissé de demande de titre de séjour, d'une durée de validité de 6 mois renouvelable, qui permet à son titulaire de séjourner légalement dans l'attente de la décision préfectorale, sans que ce document préjuge de l'issue du dossier. Enfin, par une circulaire du 4 janvier 2014, les procédures d'accueil des étrangers en préfecture ont été profondément rénovées. Le titre de séjour plein annuel devrait permettre d'accroître encore les performances des préfectures dans le traitement des dossiers des étrangers.
