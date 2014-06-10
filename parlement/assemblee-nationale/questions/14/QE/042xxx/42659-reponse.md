@@ -1,0 +1,9 @@
+# Réponse à la question n° 42659
+
+- Question : [42659](42659.md) — Question n° 42659 — équipements; petits véhicules protégés; disponibilité
+
+## Réponse
+
+*JO du 2014-06-10*
+
+La procédure du soutien du petit véhicule protégé (PVP) a été définie et mise en oeuvre par la direction générale de l'armement (DGA), puis par la structure intégrée du maintien en condition opérationnelle des matériels terrestres (SIMMT), maîtres d'ouvrage délégués s'agissant de cet équipement. La stratégie retenue par la SIMMT prend la forme d'un soutien du PVP en régie par les moyens de l'État, auquel s'ajoute un contrat de livraison de pièces détachées conclu avec l'industriel. La DGA maintient par ailleurs un marché de maîtrise technique ayant pour objet la surveillance et la résorption des obsolescences et faits techniques majeurs. Compte tenu des défauts de conception caractérisant certaines pièces mécaniques (pédales, bielles de direction, cardans, tuyauterie...) fréquemment constatés, la DGA a été conduite à demander des évolutions de la définition du PVP. A ce jour, une quinzaine de difficultés techniques ont ainsi d'ores et déjà été corrigées ou sont en cours de résolution. Conscient de sa responsabilité, le maître d'oeuvre industriel a pour sa part proposé le principe d'un retour en usine de la totalité des véhicules pour réaménagement. La DGA, la SIMMT et l'industriel examinent en conséquence actuellement les modalités d'une planification de cette opération. En outre, comme mentionné dans la réponse à la question écrite n° 32379, afin de faire face à court terme au besoin en pièces de rechange, et dans l'attente de l'entière prise d'effet des modifications contractuelles apportées dans ce but, des commandes additionnelles, correspondant à un montant total de 6,2 M€, ont été notifiées par la SIMMT à la fin de l'année 2013 dans le cadre d'un plan d'action spécifique. Les dernières livraisons correspondantes devraient intervenir au mois de juin 2014.
