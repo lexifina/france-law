@@ -4,7 +4,17 @@ CORPS ET GRADES
 
 |
 
-TAUX APPLICABLE
+TAUX APPLICABLE PAR ANNÉE
+
+|
+
+|
+
+Année(s)
+
+|
+
+Taux
 
 |
 
@@ -16,7 +26,11 @@ Corps des attachés d'administration hospitalière
 
 |
 
-Attachés principaux
+Attaché principal
+
+|
+
+2014, 2015, 2016
 
 |
 
@@ -28,15 +42,11 @@ Corps des adjoints des cadres hospitaliers
 
 |
 
-Adjoints des cadres hospitaliers de classe supérieure
+Adjoint des cadres hospitaliers de classe supérieure
 
 |
 
-20 %
-
-|
-
-Adjoints des cadres hospitaliers de classe exceptionnelle
+2014
 
 |
 
@@ -44,21 +54,43 @@ Adjoints des cadres hospitaliers de classe exceptionnelle
 
 |
 
-Corps des assistants médico-administratifs
+Adjoint des cadres hospitaliers de classe exceptionnelle
 
 |
 
-Assistants médico-administratifs de classe supérieure |
+2014
+
+|
 
 12 %
 
 |
 
-Assistants médico-administratifs de classe exceptionnelle
+Corps des assistants médico-administratifs
+
+|
+
+Assistant médico-administratif de classe supérieure
+
+|
+
+2014
 
 |
 
 10 %
+
+|
+
+Assistant médico-administratif de classe exceptionnelle
+
+|
+
+2014
+
+|
+
+8 %
 
 |
 
@@ -70,15 +102,11 @@ Adjoint administratif de 1re classe
 
 |
 
+2014, 2015, 2016
+
+|
+
 6 %
-
-|
-
-Echelon spécial du grade d'adjoint administratif principal de 1re classe
-
-|
-
-30 %
 
 |
 
@@ -86,7 +114,11 @@ Adjoint administratif principal de 2e classe
 
 |
 
-6 %
+2014
+
+|
+
+9 %
 
 |
 
@@ -94,7 +126,11 @@ Adjoint administratif principal de 1re classe
 
 |
 
-5 %
+2014
+
+|
+
+9 %
 
 |
 
@@ -106,15 +142,11 @@ Permanencier auxiliaire de régulation médicale chef
 
 |
 
+2014
+
+|
+
 13 %
-
-|
-
-Echelon spécial de grade de permanencier auxiliaire de régulation médicale chef
-
-|
-
-30 %
 
 |
 
@@ -130,11 +162,19 @@ Dessinateur chef de groupe
 
 |
 
+2014, 2015, 2016
+
+|
+
 5 %
 
 |
 
 Dessinateur principal
+
+|
+
+2014, 2015, 2016
 
 |
 
@@ -150,6 +190,10 @@ Conducteur ambulancier de 1re catégorie
 
 |
 
+2014, 2015, 2016
+
+|
+
 6 %
 
 |
@@ -158,7 +202,11 @@ Conducteur ambulancier hors catégorie
 
 |
 
-3 %
+2014, 2015, 2016
+
+|
+
+5 %
 
 |
 
@@ -170,6 +218,10 @@ Ouvrier professionnel
 
 |
 
+2014
+
+|
+
 6 %
 
 |
@@ -178,7 +230,11 @@ Maître ouvrier
 
 |
 
-9 %
+2014
+
+|
+
+10 %
 
 |
 
@@ -186,7 +242,11 @@ Maître ouvrier principal
 
 |
 
-12 %
+2014, 2015, 2016
+
+|
+
+15 %
 
 |
 
@@ -198,7 +258,11 @@ Agent de maîtrise principal
 
 |
 
-4 %
+2014
+
+|
+
+7 %
 
 |
 
@@ -210,11 +274,19 @@ Technicien supérieur hospitalier de 2e classe
 
 |
 
+2014
+
+|
+
 10 %
 
 |
 
 Technicien supérieur hospitalier de 1re classe
+
+|
+
+2014
 
 |
 
@@ -234,6 +306,10 @@ Psychologue hors classe
 
 |
 
+2014
+
+|
+
 12 %
 
 |
@@ -242,9 +318,7 @@ Filière soins
 
 |
 
-Corps des aides-soignants
-
-et des agents des services hospitaliers
+Corps des aides-soignants et des agents des services hospitaliers
 
 |
 
@@ -252,19 +326,21 @@ Aide-soignant de classe supérieure
 
 |
 
+2014, 2015, 2016
+
+|
+
 10 %
 
 |
 
-Echelon spécial du grade d'aide-soignant de classe exceptionnelle
+Aide-soignant de classe exceptionnelle
 
 |
 
-30 %
+2014
 
 |
-
-Aide-soignants de classe exceptionnelle |
 
 15 %
 
@@ -274,21 +350,33 @@ Corps des personnels infirmiers régis par le décret n° 88-1077 du 30 novembre
 
 |
 
-Infirmiers de classe supérieure
+Infirmier de classe supérieure
 
 |
 
-18 % |
+2014, 2015, 2016
+
+|
+
+20 %
+
+|
 
 Corps des infirmiers en soins généraux et spécialisés de la fonction publique hospitalière
 
 |
 
-Infirmiers en soins généraux deuxième grade
+Infirmier en soins généraux deuxième grade
 
 |
 
-11 % |
+2014, 2015, 2016
+
+|
+
+11 %
+
+|
 
 Filière de rééducation
 
@@ -298,7 +386,11 @@ Corps des pédicures
 
 |
 
-Pédicures de classe supérieure
+Pédicure de classe supérieure
+
+|
+
+2014
 
 |
 
@@ -310,27 +402,43 @@ Corps des masseurs-kinésithérapeutes
 
 |
 
-Masseurs-kinésithérapeutes de classe supérieure
+Masseur-kinésithérapeute de classe supérieure
 
 |
 
-12,5 % |
+2014
+
+|
+
+12,5 %
+
+|
 
 Corps des ergothérapeutes
 
 |
 
-Ergothérapeutes de classe supérieure
+Ergothérapeute de classe supérieure
 
 |
 
-17 % |
+2014
+
+|
+
+17 %
+
+|
 
 Corps des psychomotriciens
 
 |
 
-Psychomotriciens de classe supérieure
+Psychomotricien de classe supérieure
+
+|
+
+2014
 
 |
 
@@ -342,31 +450,49 @@ Corps des orthophonistes
 
 |
 
-Orthophonistes de classe supérieure
+Orthophoniste de classe supérieure
 
 |
 
-20 % |
+2014
+
+|
+
+20 %
+
+|
 
 Corps des orthoptistes
 
 |
 
-Orthoptistes de classe supérieure
+Orthoptiste de classe supérieure
 
 |
 
-50 % |
+2014
+
+|
+
+50 %
+
+|
 
 Corps des diététiciens
 
 |
 
-Diététiciens de classe supérieure
+Diététicien de classe supérieure
 
 |
 
-19 % |
+2014
+
+|
+
+19 %
+
+|
 
 Filière médico-technique
 
@@ -376,28 +502,46 @@ Corps des manipulateurs en électroradiologie
 
 |
 
-Manipulateurs en électroradiologie de classe supérieure
+Manipulateur en électroradiologie de classe supérieure
 
 |
 
-15 % |
+2014
+
+|
+
+15 %
+
+|
 
 Corps des techniciens de laboratoire médical
 
 |
 
-Techniciens de laboratoire médical
+Technicien de laboratoire médical
 
 |
 
-15 % |
+2014
+
+|
+
+15 %
+
+|
 
 Corps des préparateurs en pharmacie hospitalière
 
 |
 
-Préparateurs en pharmacie hospitalière
+Préparateur en pharmacie hospitalière
 
 |
 
-27,5 % |
+2014
+
+|
+
+27,5 %
+
+|
