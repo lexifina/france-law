@@ -1,0 +1,9 @@
+# Réponse à la question n° 51046
+
+- Question : [51046](51046.md) — Question n° 51046 — revendications
+
+## Réponse
+
+*JO du 2014-06-17*
+
+Dans le premier degré, les fonctions de psychologue scolaire sont actuellement exercées par des personnels enseignants titulaires qui doivent être détenteurs de diplômes universitaires en psychologie conformes au décret n° 90-255 du 22 mars 1990 modifié fixant la liste des diplômes permettant de faire usage professionnel du titre de psychologue. La réforme du recrutement des enseignants, en situant le concours de recrutement des professeurs des écoles au niveau minimum du master, accroît la potentialité de nommer sur les postes de psychologues scolaires des personnels ayant déjà validé un cursus universitaire en psychologie de 5 ans minimum. Les psychologues scolaires font actuellement partie des réseaux d'aides spécialisées aux élèves en difficulté (RASED) des circonscriptions et, à ce titre, exercent sous l'autorité de l'inspecteur de l'éducation nationale chargé de la circonscription où ils sont affectés. Le rapport annexé à la loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République prévoit que « Les missions et le fonctionnement des RASED évolueront pour concevoir des relations et des complémentarités dans l'ensemble des dispositifs d'aide ». Les missions des psychologues scolaires ont été revisitées lors du groupe de travail sur les personnels des RASED qui s'est tenu dans le cadre des discussions sur les chantiers métiers. Ces missions seront explicitées dans une circulaire en cours d'élaboration après consultation des organisations sociales représentatives. S'agissant du statut des psychologues scolaires, de leur recrutement et de leur déroulement de carrière, un groupe de travail se tiendra à partir du mois de juin et permettra de répondre aux problématiques évoquées.
