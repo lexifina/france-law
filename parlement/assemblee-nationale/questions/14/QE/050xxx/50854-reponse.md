@@ -1,0 +1,9 @@
+# Réponse à la question n° 50854
+
+- Question : [50854](50854.md) — Question n° 50854 — actions culturelles; financement
+
+## Réponse
+
+*JO du 2014-06-17*
+
+Afin d'accompagner la politique et les programmes d'insertion des personnes placées sous main de justice, la direction interrégionale des services pénitentiaires (DISP) de Rennes bénéficiait jusque-là d'une situation unique sur le territoire grâce à la présence de 16 personnels attachés à la mission culturelle, dont 14 sont mis à disposition par la Ligue de l'enseignement, financés par la DISP. Un budget de 607 266 € a été consacré en 2013 par l'administration pénitentiaire au financement des postes de coordonnateurs culturels. Cette situation exceptionnelle a permis la mise en place d'une politique culturelle exigeante, aussi bien d'un point de vue quantitatif que qualitatif, au bénéfice des personnes placées sous main de justice des vingt établissements pénitentiaires concernés. Les contraintes budgétaires ont amené la direction interrégionale de Rennes à revoir le dispositif en engageant une politique de maintien des personnels en poste dans les mêmes conditions qu'auparavant pour les chargés de mission régionaux et avec des réductions du temps d'intervention des coordonnateurs culturels (0,80 ETP). Cet ajustement n'entraîne pas de remise en question des acquis fondamentaux de la politique culturelle très investie menée sur ces trois régions. Comme le précise l'article 27 de la loi pénitentiaire qui exige que toute personne détenue condamnée participe au moins à l'une des activités qui lui est proposée (culture, travail, formation, sport...) dès lors qu'elle a pour finalité sa réinsertion, les activités culturelles en détention continueront d'être développées par les services de l'administration pénitentiaire en lien avec leurs partenaires.
