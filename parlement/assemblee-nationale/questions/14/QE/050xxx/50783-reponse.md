@@ -1,0 +1,9 @@
+# Réponse à la question n° 50783
+
+- Question : [50783](50783.md) — Question n° 50783 — accès à la profession
+
+## Réponse
+
+*JO du 2014-06-17*
+
+Pour devenir huissier de justice, sauf dispenses prévues par le décret n° 75-770, du 14 août 1975, relatif aux conditions d'accès à la profession d'huissier de justice ainsi qu'aux modalités des créations, transferts et suppressions d'offices d'huissier de justice et concernant certains officiers ministériels et auxiliaires de justice, le titulaire d'une maîtrise en droit (désormais « master 1 ») ou d'un diplôme reconnu équivalent doit s'inscrire au registre du stage et effectuer deux années de stage à l'issue desquelles il subit un examen professionnel. Le taux de réussite à cet examen est relativement faible ; de plus, nul ne peut s'y présenter plus de quatre fois. En conséquence, certains stagiaires se détournent de la profession d'huissier de justice alors que celle-ci a supporté le coût de la formation. Les clercs d'huissiers de justice ayant exercé un nombre d'années suffisant sont susceptibles, sous certaines conditions, d'être dispensés de la possession du diplôme et (ou) de stage. La Chancellerie a conscience des difficultés que peut induire la situation actuelle. Différentes pistes de réforme de l'accès à la profession ont été explorées, par le passé, avec la Chambre nationale des huissiers de justice. L'une d'entre elles s'est concrétisée par l'élaboration d'un projet de décret prévoyant, particulièrement, un examen d'accès au stage, c'est-à-dire une sélection en amont, ainsi qu'une modification de l'examen professionnel et de la voie ouverte aux clercs. Cependant, la réforme n'a pu être menée jusqu'à son terme en raison, notamment, de la question de son financement. La réflexion portant sur les conditions d'accès à la profession d'huissier de justice se poursuit afin de permettre une réforme globale de la formation.
