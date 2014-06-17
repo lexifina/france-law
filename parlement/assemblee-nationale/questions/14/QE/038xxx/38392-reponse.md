@@ -1,0 +1,9 @@
+# Réponse à la question n° 38392
+
+- Question : [38392](38392.md) — Question n° 38392 — perspectives
+
+## Réponse
+
+*JO du 2014-06-17*
+
+Le taux de la pension de réversion, fixé à 50 % jusqu'en 1982, a été porté à 52 % à partir de 1983 et à 54 % en 1995. La pension de réversion peut en outre être majorée de 11,1 % pour les retraités les plus modestes, si le bénéficiaire a atteint l'âge d'obtention du taux plein et a fait valoir tous ses droits à retraite personnels et de réversion à l'ensemble des régimes de base et complémentaires, français et étrangers, ainsi que des organisations internationales, des régimes parlementaires et des régimes des fonctionnaires européens. Le montant total des retraites de l'assuré ne doit pas dépasser le plafond de ressources de 852,39 € (valeur mensuelle au 1er avril 2013). En cas de dépassement, la majoration est réduite. La commission pour l'avenir des retraites présidée par Madame Yannick Moreau a estimé que le sujet de la réversion était trop complexe et particulièrement sensible pour être examiné dans le rapport. Elle fixe toutefois les grands principes qui devront guider la future réforme : maintien d'une pension de réversion pour les couples mariés ; rapprochement des règles entre les régimes ; intégration de l'ensemble des revenus du couple dans une approche qui allie à la fois maintien du niveau de vie et solidarité ; prise en compte des autres formes de vie en couple ; création d'une assurance veuvage ou orphelin. La loi n° 2014-40 du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites prévoit de définir les contours d'une prochaine réforme à la lumière d'un rapport dédié qui sera remis dans les 12 mois au Parlement. Celui-ci permettra, notamment, d'étudier les pistes d'évolution pour une meilleure prise en compte du niveau de vie des conjoints survivants et d'harmoniser les règles entre les régimes.
