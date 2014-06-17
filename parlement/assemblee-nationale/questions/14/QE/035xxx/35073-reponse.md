@@ -1,0 +1,9 @@
+# Réponse à la question n° 35073
+
+- Question : [35073](35073.md) — Question n° 35073 — usurpations d'identité; lutte et prévention
+
+## Réponse
+
+*JO du 2014-06-17*
+
+Afin de mieux combattre les usurpations d'identité et la fraude documentaire, un plan a été validé en octobre 2013, traduit en 14 actions complémentaires. Ce plan est en cours de réalisation. L'usurpation d'identité se produit souvent par la tentative de délivrance d'un titre réglementaire en utilisant l'état civil d'une victime. Ainsi, en amont de la délivrance d'un titre, la protection de l'identité contre les usurpations s'opère par la dématérialisation et la transmission sécurisée des actes d'état civil). Cette mesure appelée Comedec, menée sous maitrise d'ouvrage du ministère de la justice, expérimentée depuis juillet 2012, deviendra pleinement opérationnelle en 2014. L'usurpation d'identité peut aussi se produire par l'utilisation d'un titre perdu ou volé, réutilisé par l'usurpateur à la faveur d'une vague ressemblance physique. La protection de l'identité contre l'usurpation s'opère donc aussi à l'aval de la délivrance du titre, par la recherche de l'impossibilité pratique de le réutiliser. 2 actions sont en cours : - l'interconnexion des applications informatiques de production des cartes nationales d'identité et des passeports avec les fichiers judiciaires et de police. Toute tentative d'utilisation d'un titre perdu ou volé à la frontière peut d'ores et déjà être déjouée s'agissant des passeports, à très court terme s'agissant des CNI. - le ministère de l'Intérieur achève la réflexion sur la constitution d'un outil de renseignement de l'existence et du statut des titres en circulation sur le territoire, par simple interrogation de leur numéro d'identification. Ce système, inspiré d'un outil déployé en Belgique, permettra de renseigner les services de police, notamment, lors de contrôles.
