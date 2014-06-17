@@ -1,0 +1,9 @@
+# Réponse à la question n° 40736
+
+- Question : [40736](40736.md) — Question n° 40736 — prise en charge; spondylarthrite
+
+## Réponse
+
+*JO du 2014-06-17*
+
+En décembre 2008, la Haute autorité de santé (HAS) a élaboré des recommandations de bonne pratique professionnelle, diagnostic, prise en charge thérapeutique et suivi des spondylarthrites, destinées aux médecins généralistes comme aux médecins spécialistes, rhumatologues, médecins de médecine physique et réadaptation, ainsi qu'aux masseurs kinésithérapeutes. Les objectifs de ces recommandations sont de mieux identifier les patients atteints de spondylarthrite, afin de raccourcir le délai entre l'apparition des symptômes et leur prise en charge spécifique, d'améliorer la qualité de vie des patients au travers de stratégies de prise en charge, qui précisent la place des différents moyens thérapeutiques et de prévenir ou limiter les complications. La spondylarthrite sévère figure dans la liste des affections de longue durée (ALD) depuis 2008 et le guide de la HAS précise la prise en charge et le parcours de soins du patient admis au titre de l'ALD 27 « spondylarthrite grave ». La société internationale sur la spondylarthrite ankylosante a émis en février 2010 onze recommandations précédées de quatre grands principes généraux pour une prise en charge thérapeutique multidisciplinaire et coordonnée et pour le maintien de la qualité de vie à long terme. Une décision de juillet 2013 du collège de la HAS a réactualisé les actes et prestations pour cette ALD. Ce document cible les professionnels de santé impliqués dans le parcours de soins et précise les traitements pharmacologiques ou autres traitements et le suivi de cette pathologie. Elle indique aussi les dispositifs médicaux et aliments diététiques destinés à des fins médicales spéciales et appareils divers d'aide à la vie (aides techniques, orthèses de série, chaussures thérapeutiques sur mesure ou de série...).
