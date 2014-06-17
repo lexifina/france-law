@@ -1,0 +1,9 @@
+# Réponse à la question n° 37910
+
+- Question : [37910](37910.md) — Question n° 37910 — responsabilité sociale et environnementale; rapport; préconisations
+
+## Réponse
+
+*JO du 2014-06-17*
+
+La Commission européenne dans sa communication du 25 octobre 2011 « Une nouvelle stratégie européenne 2011-2014 pour la RSE (responsabilité sociale et environnementale) » a fixé comme objectif la création de plateformes RSE sectorielles pour des engagements sur la RSE associés à un mécanisme de suivi collectif. Cette action avait pour objectif de mieux faire connaître la RSE et de promouvoir les bonnes pratiques existantes au niveau européen. La Commission européenne a piloté la publication de trois guides sectoriels pour la mise en oeuvre des principes directeurs de l'Organisation des Nations unies sur les droits de l'Homme et les entreprises, en concertation avec l'ensemble des parties prenantes (secteur public, secteur privé, syndicats, ong, monde académique), dans les secteurs des agences de recrutement et de l'emploi, de l'information et des technologies de la communication, du pétrole et du gaz. L'ensemble des actions menées par la Commission est consultable sur le site de la Commission dans la rubrique corporate-social-responsibility. La Commission européenne anime également un groupe de haut niveau qui regroupe les parties prenantes européennes sur la RSE (28 États membres, secteur privé, syndicats, société civile, organisations internationales) pour des échanges réguliers sur les principaux sujets relatifs à la RSE, auxquels participent les ministères français de l'Écologie, des affaires étrangères et de l'Économie. Enfin, la Commission européenne vient de lancer fin avril jusqu'à la mi-août 2014 une consultation publique sur le bilan de sa politique de RSE, définie dans sa communication d'octobre 2011. Le Gouvernement ainsi que la plateforme RSE participeront à cette consultation.
