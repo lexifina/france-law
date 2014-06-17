@@ -1,0 +1,9 @@
+# Réponse à la question n° 43797
+
+- Question : [43797](43797.md) — Question n° 43797 — bactéries multirésistantes; propositions
+
+## Réponse
+
+*JO du 2014-06-17*
+
+Le plan d'alerte sur les antibiotiques prévoit d'organiser le conseil auprès des prescripteurs, avec comme axes les centres de conseil en antibiothérapie, les référents des établissements de santé, et leur articulation au sein de réseaux de conseil en antibiothérapie, comme cela a été annoncé à l'occasion de la conférence de presse de la ministre des affaires sociales et de la santé du 18 novembre 2013. L'obligation concernant la désignation du référent en antibiothérapie est renforcée par le décret n° 2013-841 du 20 septembre 2013 modifiant les dispositions relatives à la commission médicale d'établissement et aux transformations des établissements publics de santé et à la politique du médicament dans les établissements de santé. Ce décret prévoit notamment que le référent organise le conseil thérapeutique et diagnostique dans l'établissement. Une même personne peut assurer cette fonction au sein de plusieurs établissements de santé dans le cadre d'une action de coopération. La mise en place du référent s'accompagne également du développement du conseil en antibiothérapie en direction des médecins de ville comme illustré par des expériences déjà conduites par les centres de conseil Antibiolor et Medqual. Par ailleurs l'instruction DGOS/PF2/2012/286 du 16 juillet 2012 relative au bilan des activités de lutte contre les infections nosocomiales dans les établissements de santé propose une nouvelle version de l'indicateur composite de bon usage des antibiotiques, avec des éléments spécifiques, tels l'existence d'un référent en antibiothérapie, au sein de l'établissement ou partagé entre plusieurs établissements, et l'accès de chaque prescripteur à un conseil diagnostique et thérapeutique en antibiothérapie.
