@@ -1,0 +1,9 @@
+# Réponse à la question n° 55513
+
+- Question : [55513](55513.md) — Question n° 55513 — versement; calendrier
+
+## Réponse
+
+*JO du 2014-06-17*
+
+L'arrêté du 11 août 1986 pris pour l'application du décret n° 86-130 du 28 janvier 1986 (article R. 355-2 du code de la sécurité sociale) qui a institué le paiement mensuel des pensions de retraite du régime général de la sécurité sociale prévoit que ces pensions sont mises en paiement le huitième jour du mois suivant celui au titre duquel elles sont dues. Si l'intérêt d'un versement de ces pensions plus tôt dans le mois, voire avant la date légale d'échéance, apparaît évident pour certains bénéficiaires, il se heurte cependant à des contraintes de trésorerie liées à l'encaissement des cotisations. En effet, le paiement des retraites constitue la plus importante échéance du régime général : il doit effectuer en un seul jour des versements d'environ 9 Mds euros. Cette échéance conduit chaque mois l'agence comptable des organismes de sécurité sociale (ACOSS) à faire face à un fort besoin de financement qui est couvert par des emprunts, en raison du décalage existant entre l'encaissement des cotisations et le paiement des pensions. Un déplacement de la date de paiement en début de mois aurait pour effet d'accroître ce décalage et donc d'augmenter sensiblement le besoin de trésorerie de l'ACOSS, ce qui n'est pas sans conséquence sur le coût de l'emprunt pour la sécurité sociale dans un contexte financier et bancaire délicat. Il est donc nécessaire d'appréhender les coûts et les risques du changement pour la sécurité sociale, les institutions bancaires et les entreprises, si un décalage du versement des pensions, mais aussi des cotisations, devait être envisagé, au regard des avantages escomptés dont l'évaluation et l'impact réel sur les retraités doivent également être précisés.
