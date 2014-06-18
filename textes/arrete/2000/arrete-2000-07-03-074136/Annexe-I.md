@@ -146,7 +146,7 @@ Ateliers Henri Lardet, puis lardet Babcock, puis Babcock entreprise, puis CNIM :
 
 Buflon, ZI Sud, rue des Aviots, BP 61, 88152 Thaon-les-Vosges Cedex : de 1960 à 1986 ;
 
-Compagnie des Cristalleries de Baccarat, Rue des Cristalleries, 54120 Baccarat De 1949 à 1995, puis Manufactures de Baccarat De 1995 à 1996
+Compagnie des Cristalleries de Baccarat, Rue des Cristalleries, 54120 Baccarat : de 1949 à 1995, puis Manufactures de Baccarat : de 1995 à 1996
 
 EDC/Société Ed. Durand et Cie, 7, route de Pont-à-Mousson, 54518 Thiaucourt-Regniéville : de 1935 à 1995 ;
 
@@ -208,9 +208,11 @@ Ferodo/Valeo, établissement de la Martinique, 61790 Saint-Pierre-du-Regard : de
 
 Ferodo/Valeo, la Petite Suisse, 61790 Saint-Pierre-du-Regard : de 1949 à 1994 ;
 
-Ferodo/Valeo/Allied-Signal/Allied-Signal matériaux de friction/ Bendix, établissement de Condé, 14110 Condé-sur-Noireau : de 1960 à 1996 ;
-
 Ferodo/Valeo/Ferlam/Evers-Filature de la Vère, usine Le Platfond, BP 1, 61430 Sainte-Honorine-la-Chardonne : de 1945 à 1996 ;
+
+Ferodo/ Valeo/ Allied-Signal/ Allied-Signal matériaux de friction/ Bendix, établissement de Condé, 14110 Condé-sur-Noireau, de 1960 à 1999
+
+HONEYWELL matériaux de frictions, zone industrielle Est, 14110 Condé-sur-Noireau, de 1999 au 30 juin 2000
 
 M. Regne Félix, 61100 Ségrie-Fontaine : de 1960 à 1977 ;
 
@@ -369,3 +371,7 @@ Valeo, 8, rue Yves-Toudic, 69200 Vénissieux : de 1974 à 1987 ;
 Voisin et Pascal, société Guichard, 38300 Nivolas-Vermelle, de 1971 à 1988 ;
 
 Wanner Isofi, quai Fulchiron, 69500 Lyon : de 1967 à 1973 ; - 42, rue A.-Charial, 69003 Lyon : de 1973 à 1985 ; - 63-65, rue André-Sentuc, 69200 Vénissieux : de 1985 à 1997.
+
+NOTA :
+
+Par un jugement n° 1401575 du 4 juin 2015 du tribunal administratif de Caen, l'arrêté du 4 juin 2014 modifiant la liste des établissements de fabrication, flocage et calorifugeage à l’amiante susceptibles d’ouvrir droit à l’allocation de cessation anticipée d’activité des travailleurs de l’amiante (NOR : ETST1401460A) est annulé.
