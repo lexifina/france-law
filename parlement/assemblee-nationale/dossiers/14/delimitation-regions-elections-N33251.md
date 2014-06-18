@@ -1,0 +1,127 @@
+# Collectivités territoriales : délimitation des régions et calendrier électoral
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33251
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/delimitation_regions_elections
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-635.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-06-18 : 1er dépôt d'une initiative. (PRJLSNR5S219B0635)
+  - 2014-06-18 : Etude d'impact (ETDISNR5S219B0635)
+  - 2014-06-18 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-18 : Renvoi en commission au fond
+      - 2014-06-23 : Nomination de rapporteur
+      - 2014-06-26 : Dépôt de rapport (RAPPSNR5S219B0658)
+  - Discussion en séance publique
+    - 2014-07-03 : Discussion en séance publique
+    - 2014-07-04 : Discussion en séance publique
+    - 2014-07-01 : Motion référendaire
+    - 2014-07-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-07-05 : Dépôt d'une initiative en navette (PRJLANR5L14B2100)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-05 : Renvoi en commission au fond
+      - 2014-06-26 : Nomination de rapporteur
+      - 2014-06-26 : Réunion de commission
+      - 2014-07-08 : Réunion de commission
+      - 2014-07-09 : Réunion de commission
+      - 2014-07-09 : Réunion de commission
+      - 2014-07-15 : Réunion de commission
+      - 2014-07-10 : Dépôt de rapport (RAPPANR5L14B2120, PRJLANR5L14BTC2120)
+    - Travaux d'une commission saisie pour avis
+      - 2014-07-07 : Saisine pour avis d'une commission
+      - 2014-07-01 : Nomination de rapporteur
+      - 2014-07-09 : Dépôt de rapport (AVISANR5L14B2106)
+  - Discussion en séance publique
+    - 2014-07-16 : Discussion en séance publique
+    - 2014-07-16 : Discussion en séance publique
+    - 2014-07-17 : Discussion en séance publique
+    - 2014-07-17 : Discussion en séance publique
+    - 2014-07-17 : Discussion en séance publique
+    - 2014-07-18 : Discussion en séance publique
+    - 2014-07-18 : Discussion en séance publique
+    - 2014-07-23 : Discussion en séance publique
+    - 2014-07-23 : Décision
+- deuxième lecture
+  - 2014-10-08 : Dépôt d'une initiative en navette (PRJLSNR5S239B0006)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-10-08 : Renvoi en commission au fond
+      - 2014-10-09 : Nomination de rapporteur
+      - 2014-10-21 : Dépôt de rapport (RAPPSNR5S239B0042)
+  - Discussion en séance publique
+    - 2014-10-28 : Discussion en séance publique
+    - 2014-10-29 : Discussion en séance publique
+    - 2014-10-30 : Discussion en séance publique
+    - 2014-10-30 : Décision
+- deuxième lecture
+  - 2014-10-31 : Dépôt d'une initiative en navette (PRJLANR5L14B2331)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-10-31 : Renvoi en commission au fond
+      - 2014-11-12 : Réunion de commission
+      - 2014-11-18 : Réunion de commission
+      - 2014-11-12 : Dépôt de rapport (RAPPANR5L14B2358, PRJLANR5L14BTC2358)
+  - Discussion en séance publique
+    - 2014-11-18 : Discussion en séance publique
+    - 2014-11-18 : Discussion en séance publique
+    - 2014-11-19 : Discussion en séance publique
+    - 2014-11-19 : Discussion en séance publique
+    - 2014-11-20 : Discussion en séance publique
+    - 2014-11-20 : Discussion en séance publique
+    - 2014-11-25 : Discussion en séance publique
+    - 2014-11-25 : Décision
+- troisième lecture
+  - 2014-11-26 : Dépôt d'une initiative en navette (PRJLSNR5S239B0125)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-11-26 : Renvoi en commission au fond
+- Commission Mixte Paritaire
+  - 2014-11-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-11-27 : Nomination de rapporteur
+    - 2014-11-27 : Dépôt du rapport d'une CMP (RAPPANR5L14B2410)
+    - 2014-11-27 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0136)
+  - 2014-11-28 : Décision de la CMP
+- Nouvelle Lecture
+  - 2014-11-28 : Dépôt d'une initiative en navette (PRJLANR5L14B2412)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-11-28 : Renvoi en commission au fond
+      - 2014-12-03 : Réunion de commission
+      - 2014-12-08 : Réunion de commission
+      - 2014-12-03 : Dépôt de rapport (RAPPANR5L14B2417, PRJLANR5L14BTC2417)
+  - Discussion en séance publique
+    - 2014-12-08 : Discussion en séance publique
+    - 2014-12-08 : Discussion en séance publique
+    - 2014-12-09 : Discussion en séance publique
+    - 2014-12-09 : Décision
+- Nouvelle Lecture
+  - 2014-12-09 : Dépôt d'une initiative en navette (PRJLSNR5S239B0156)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-09 : Renvoi en commission au fond
+      - 2014-12-10 : Dépôt de rapport (RAPPSNR5S239B0170)
+  - Discussion en séance publique
+    - 2014-12-15 : Discussion en séance publique
+    - 2014-12-15 : Décision
+- Lecture définitive
+  - 2014-12-16 : Dépôt d'une initiative en navette (PRJLANR5L14B2461)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-16 : Renvoi en commission au fond
+      - 2014-12-16 : Dépôt de rapport (RAPPANR5L14B2462)
+  - Discussion en séance publique
+    - 2014-12-17 : Décision
+- Conseil constitutionnel
+  - 2014-12-19 : Saisine du conseil constitutionnel
+  - 2014-12-19 : Saisine du conseil constitutionnel
+  - 2015-01-15 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2015-01-16 : Promulgation d'une loi
