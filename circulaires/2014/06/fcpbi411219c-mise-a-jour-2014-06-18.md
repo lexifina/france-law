@@ -1,0 +1,29 @@
+# Préparation du projet de loi de finances pour 2015 : annexes générales jaunes
+
+- État : en vigueur (publiée)
+- NOR : FCPBI411219C
+- Numéro : 1BLF-14-3204
+- Date de signature : 2014-06-13
+- Mise en ligne : 2014-06-13
+- Auteur : Direction du Budget
+- Signataire : Denis Morin
+- Destinataires : Ministres - Secrétaires d'État - Responsables de la fonction financière ministérielle - Responsables de programme
+- Ministères : FCP
+- Domaines : Budget, fiscalité
+- Catégorie : Directives adressées par le ministre aux services chargés de leur application, sous réserve, le cas échéant, de l'examen particulier des situations individuelles.
+- Mots-clés : Fiscalité, budget de l'état
+- Annexes : 0
+- Identifiant : 38410 (PDF officiel : pdf/2014/06/cir_38410.pdf)
+
+## Résumé
+
+L'article 51_7° de la loi organique relative aux lois de finances (LOLF) prévoit que le Gouvernement joint chaque année au projet de loi de finances des annexes générales destinées à l'information et au contrôle du Parlement, dites annexes «jaunes ». Ces annexes sont
+actuellement au nombre de 25.
+Au regard des commentaires réguliers fornmulés par les commissions des assemblées, il est indispensable d'améliorer la qualité de ces documents, qui ne sauraient constituer une simple reprise d'informations déjà disponibles dans les projets annuels de performances ou dans les documents déjà rendus publics par les administrations.
+
+Toutefois, les données chiffrées contenues dans les «jaunes» doivent être actualisées et cohérentes avec celles contenues dans les projets annuels de performances.
+
+Vous veillerez à prévoir l'insertion de commentaires ou d'analyses lorsqu'ils permettent d'éclairer le contexte de la mise en œuvre et les objectifs des politiques
+publiques. Le ministère principalement concerné par chaque « jaune» devra notamment s'assurer que le document comporte une introduction générale qui mette en perspective les données présentées, rappelle les objectifs de la politique poursuivie et fournisse des précisions méthodologiques le cas échéant.
+
+(Texte non disponible dans les données ouvertes : voir le PDF officiel.)
