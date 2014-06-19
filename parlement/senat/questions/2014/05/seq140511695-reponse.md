@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511695
+
+- Question : [SEQ140511695](seq140511695.md) — Évaluation de la mise en œuvre des plans climat-énergie territoriaux
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-06-19, page 1467*
+
+Les collectivités de plus de 50 000 habitants devaient avoir élaboré, au plus tard le 31 décembre 2012, un plan climat-énergie territorial (PCET) qui définisse des objectifs stratégiques et opérationnels en matière d'atténuation et d'adaptation aux changements climatiques, un programme d'actions et un dispositif de suivi et d'évaluation. Le suivi et l'évaluation des mesures mises en œuvre sont donc parties intégrantes du PCET. L'Agence de l'environnement et de la maîtrise de l'énergie (ADEME), et ses ministères de tutelle ont produit dès 2009 un guide méthodologique pour « construire et mettre en œuvre un plan climat-énergie territorial ». Un chapitre spécifique est consacré à l'évaluation. En outre, en amont de l'adoption des schémas régionaux du climat, de l'air et de l'énergie (SRCAE), les directions régionales de l'environnement, de l'aménagement et du logement (DREAL), ont mis en place un réseau d'acteurs territoriaux (État, région, collectivités, ADEME) afin, notamment, de faciliter l'appropriation des SRCAE. En matière d'évaluation, la première difficulté signalée par les collectivités est celle de l'accès aux données. La loi de programmation sur la transition énergétique pourrait introduire des simplifications substantielles en ce sens. Plus généralement, cette loi pourrait amender le contenu, la gouvernance et la portée des PCET. Une fois ce cadre arrêté, l'ADEME et les services du ministère chargé de l'écologie reprendront le guide méthodologique afin d'accompagner les collectivités territoriales, notamment les petites intercommunalités, pour mener à bien ces évolutions et mettre en œuvre la transition énergétique.
