@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140311094
+
+- Question : [SEQ140311094](seq140311094.md) — Traitement des eaux ménagères
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-06-19, page 1466*
+
+Selon l'article 17 de l'arrêté du 7 mars 2012 modifiant l'arrêté du 7 septembre 2009 fixant les prescriptions techniques applicables aux installations d'assainissement non collectif recevant une charge brute de pollution organique inférieure ou égale à 1,2 kg/j de DBO5 il est indiqué que : « en cas d'utilisation de toilettes sèches, l'immeuble doit être équipé d'une installation conforme au présent arrêté afin de traiter les eaux ménagères. Le dimensionnement de cette installation est adapté au flux estimé des eaux ménagères. » Les eaux ménagères comprennent des charges polluantes. Elles doivent subir un traitement complet de la même façon que les eaux vannes. La réglementation actuelle spécifie que les dispositifs de traitement des eaux ménagères doivent répondre aux mêmes exigences que les dispositifs de traitement de toutes les eaux usées. Toutefois, leur dimensionnement doit être adapté. Il faut être prudent quant à l'utilisation de systèmes d'épuration biologique type micro-station pour les eaux ménagères car celles-ci, plus pauvres en matières organiques, risquent de ne pas être équilibrées pour favoriser un traitement biologique efficace. Le ministère de l'écologie, du développement durable et de l'énergie n'est pas en mesure, à l'heure actuelle, de proposer des règles de dimensionnement spécifiques. Cela mériterait une étude particulière de caractérisation des eaux ménagères. Le MEDDE priorise aujourd'hui ses actions de recherche sur des thèmes qui couvrent une plus grande partie de la population française (caractérisation des eaux usées brutes, suivi in situ des filières d'assainissement non collectif...).
