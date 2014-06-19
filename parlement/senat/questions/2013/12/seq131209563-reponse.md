@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131209563
+
+- Question : [SEQ131209563](seq131209563.md) — Sorties et voyages scolaires au collège et au lycée
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2014-06-19, page 1469*
+
+La circulaire n° 2011-117 du 3 août 2011 rappelle l'ensemble des dispositions applicables à l'organisation de sorties scolaires dans le second degré. Concernant l'organisation du transport, celle-ci précise que « le transport des élèves et des accompagnateurs, en particulier à l'étranger, doit être assuré par un professionnel. En tout état de cause, il n'appartient pas aux enseignants, au regard de leurs obligations statutaires, de conduire des véhicules que ceux-ci soient personnels, de location ou de service ». La réponse à la question écrite de l'Assemblée nationale (XIIIe législature - n° 32856) publiée au Journal officiel du 3 mars 2009 rappelle la réglementation applicable aux transferts temporaires d'établissement pour enfants ou adolescents handicapés (arrêté du 26 mars 2003 NOR : SANA0321132A). Ces dispositions ne s'appliquent pas aux sorties scolaires organisées par des établissements publics locaux d'enseignement. D'autre part, la réponse à la question citée en référence souligne le caractère supplétif du recours à un enseignant pour assurer le transport d'élèves. Elle précise que cette solution ne peut être envisagée que pour les besoins du service de l'enseignement, c'est-à-dire en cas d'absence de personnel qualifié au moment de la sortie ou dans le cas où l'enseignant y est explicitement autorisé par le chef d'établissement, cette tâche ne relevant pas de ses missions. En conséquence, les précisions apportées par la circulaire n° 2011-117 du 3 août 2011 n'entrent pas en contradiction avec les termes de la réponse publiée au Journal officiel du 3 mars 2009.
