@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109241
+
+- Question : [SEQ131109241](seq131109241.md) — Déblais du Grand Paris
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-06-19, page 1463*
+
+La Société du Grand Paris a pris en compte la question de la gestion des déchets dans son étude d'impact, en incluant un schéma directeur d'évacuation des déblais des lignes rouge, bleue et verte du Grand Paris Express. Ce schéma est détaillé dans le dossier d'enquête publique du tronçon Pont-de-Sèvres / Noisy-Champs (ligne rouge / 15 sud) du réseau de transport public du grand paris, le grand paris express. Ce schéma détaille précisément les dispositifs opérationnels de l'évacuation des déblais de la ligne rouge sud entre Pont-de-Sèvres et Noisy-Champs, en précisant, pour chaque tronçon, les modes de transport utilisés et les exutoires ciblés. La problématique des déblais a donc été anticipée par la Société du Grand Paris et un scénario de gestion cohérent établi. De manière complémentaire, l'estimation des gisements de déchets générés par le projet Grand Paris Express a été prise en compte dans les travaux d'élaboration du PREDEC (plan régional de prévention et de gestion des déchets de chantier) d'Île-de-France. La planification des installations de traitement et de stockage, déterminée par le PREDEC, permettra donc bien de couvrir les besoins liés à ce surcroît de déchets. Les orientations retenues par la région Île-de-France dans le PREDEC visent avant tout à favoriser les mesures de prévention, le tri des déchets sur les chantiers, une sensibilisation accrue des acteurs aux questions des déchets et une meilleure valorisation des déchets. Le PREDEC a été adopté en assemblée régionale le 26 septembre 2013 et a été mis en consultation de décembre 2013 à février 2014. Il devrait être arrêté courant 2014 par le conseil régional, avant sa mise en enquête publique.
