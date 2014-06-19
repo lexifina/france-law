@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140310876
+
+- Question : [SEQ140310876](seq140310876.md) — Réductions de crédits des centres d'information sur les droits des femmes et des familles CIDFF
+
+## Réponse
+
+*Droits des femmes, ville, jeunesse et sports, JO du 2014-06-19, page 1450*
+
+Les centres d'informations sur les droits des femmes et des familles (CIDFF), associations loi de 1901 ont pour mission de mettre gratuitement à disposition des familles, et en priorité des femmes, toutes informations utiles tendant à promouvoir les droits à l'égalité entre les femmes et les hommes et à lutter contre les violences conjugales et intrafamiliales. En 2012, le réseau des 112 CIDFF, répartis sur l'ensemble du territoire y compris les départements d'outre-mer - territoires d'outre-mer (DOM-TOM), est constitué de 1 389 lieux d'information dont 380 sont situés dans les quartiers de la politique de la ville. L'action des CIDFF s'avère extrêmement positive : plus de 498 000 personnes ont été reçues et plus de 945 000 demandes d'information ont été traitées. Les CIDFF ont également accueilli, informé et accompagné 51 728 femmes victimes de violences sexistes. Le soutien de l'État en direction du réseau des CIDFF est une des priorités du ministère des droits des femmes. Ainsi dans un contexte de contraintes budgétaires, le Gouvernement a décidé, afin de ne pas fragiliser ces structures, de maintenir le montant des subventions qui leur ont été précédemment allouées. En conséquence, dans la continuité de l'année 2013, les crédits inscrits au PAP 137 relatif à l'égalité entre les femmes et les hommes permettront de soutenir en 2014 les CIDFF à hauteur de 4 180 000 € au titre de leur mission d'information du public et de à 840 000 € au titre de leur mission de bureau d'accompagnement individualisé vers l'emploi. La politique d'intérêt général exercée par les CIDFF en faveur des droits des femmes se trouve donc pleinement confortée.
