@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109040
+
+- Question : [SEQ131109040](seq131109040.md) — Cercueils écologiques
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2014-06-19, page 1443*
+
+Les caractéristiques obligatoires auxquelles doivent satisfaire les cercueils utilisés pour une inhumation ou une crémation sont définies à l'article R. 2213-25 du code général des collectivités territoriales. Les cercueils peuvent ainsi être fabriqués dans un matériau autre que le bois ayant fait l'objet d'un agrément par le ministre chargé de la santé, après avis de l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES). Un matériau complexe de papier a ainsi été agréé par arrêté du 12 mai 1998 portant agrément d'un matériau pour la fabrication de cercueils. Il a cependant été signalé plusieurs cas, où l'emploi de ces cercueils se serait révélé incompatible avec les caractéristiques des crématoriums, du fait notamment de la taille des cendres volantes émises lors de la crémation. En conséquence, afin d'éviter d'endommager leurs installations, certains exploitants de crématoriums sont amenés à refuser ce type de cercueils. Ce choix relève de la gestion de leur équipement et n'apparaît pas contraire à la réglementation funéraire. Afin de pallier ces difficultés, un projet de réglementation en cours de finalisation substitue au régime des agréments, une procédure faisant appel à l'accréditation. Les cercueils, quels que soient les matériaux utilisés pour leur fabrication, devront ainsi respecter des caractéristiques techniques issues pour partie d'une norme spécifique établie par l'association française de normalisation (AFNOR), et leur modèle devra bénéficier d'une déclaration de conformité, délivrée au vu des résultats des essais réalisés par des organismes accrédités. Les cercueils conformes pourront ainsi être utilisés dans le cadre d'une crémation ou d'une inhumation.
