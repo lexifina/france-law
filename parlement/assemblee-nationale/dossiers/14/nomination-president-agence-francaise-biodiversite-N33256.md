@@ -1,0 +1,69 @@
+# Environnement : présidence du conseil d'administration de l'Agence française pour la biodiversité
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 14
+- Identifiant : DLR5L14N33256
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/nomination_president_agence_francaise_biodiversite
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl14-364.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-06-23 : 1er dépôt d'une initiative. (PIONANR5L14B2055)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-23 : Renvoi en commission au fond
+      - 2015-03-04 : Nomination de rapporteur
+      - 2015-03-04 : Réunion de commission
+      - 2015-03-11 : Réunion de commission
+      - 2015-03-17 : Réunion de commission
+      - 2015-03-11 : Dépôt de rapport (RAPPANR5L14B2629, PIONANR5L14BTC2629)
+    - Travaux d'une commission saisie pour avis
+      - 2014-06-24 : Saisine pour avis d'une commission
+      - 2014-07-02 : Nomination de rapporteur
+      - 2014-07-09 : Réunion de commission
+      - 2014-07-09 : Dépôt de rapport (AVISANR5L14B2107)
+  - Discussion en séance publique
+    - 2015-03-16 : Discussion en séance publique
+    - 2015-03-16 : Discussion en séance publique
+    - 2015-03-17 : Discussion en séance publique
+    - 2015-03-17 : Discussion en séance publique
+    - 2015-03-18 : Discussion en séance publique
+    - 2015-03-18 : Discussion en séance publique
+    - 2015-03-19 : Discussion en séance publique
+    - 2015-03-19 : Discussion en séance publique
+    - 2015-03-24 : Discussion en séance publique
+    - 2015-03-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-03-25 : Dépôt d'une initiative en navette (PIONSNR5S239B0364)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-03-25 : Renvoi en commission au fond
+      - 2015-04-08 : Nomination de rapporteur
+      - 2015-07-08 : Dépôt de rapport (RAPPSNR5S239B0364)
+  - Discussion en séance publique
+    - 2016-01-19 : Discussion en séance publique
+    - 2016-01-20 : Discussion en séance publique
+    - 2016-01-21 : Discussion en séance publique
+    - 2016-01-26 : Discussion en séance publique
+    - 2016-01-26 : Décision
+- deuxième lecture
+  - 2016-01-26 : Dépôt d'une initiative en navette (PIONANR5L14B3440)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-01-26 : Renvoi en commission au fond
+      - 2016-07-06 : Réunion de commission
+      - 2016-07-06 : Dépôt de rapport (RAPPANR5L14B3925, PIONANR5L14BTC3925)
+    - Travaux d'une commission saisie pour avis
+      - 2016-02-02 : Saisine pour avis d'une commission
+      - 2016-03-01 : Réunion de commission
+      - 2016-03-01 : Réunion de commission
+      - 2016-03-03 : Dépôt de rapport (AVISANR5L14B3548)
+  - Discussion en séance publique
+    - 2016-07-20 : Discussion en séance publique
+    - 2016-07-20 : Décision
+- Conseil constitutionnel
+  - 2016-07-21 : Saisine du conseil constitutionnel
+  - 2016-08-04 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2016-08-08 : Promulgation d'une loi
