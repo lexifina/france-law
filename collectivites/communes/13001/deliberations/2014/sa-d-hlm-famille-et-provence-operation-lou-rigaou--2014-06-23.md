@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SA D'HLM FAMILLE ET PROVENCE - OPERATION "LOU RIGAOU" : CONSTRUCTION DE 2 LOGEMENTS LOCATIFS SOCIAUX - EMPRUNT PLAI DE 166 960 EUROS A SOUSCRIRE AUPRES DE LA CAISSE DES DEPÔTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 45 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2014-06-23
+- Séance : Conseil Municipal 2CA
+- Objet : SA D'HLM FAMILLE ET PROVENCE - OPERATION "LOU RIGAOU" : CONSTRUCTION DE 2 LOGEMENTS LOCATIFS SOCIAUX - EMPRUNT PLAI DE 166 960 EUROS A SOUSCRIRE AUPRES DE LA CAISSE DES DEPÔTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 45 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-6004-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
