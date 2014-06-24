@@ -1,0 +1,9 @@
+# Réponse à la question n° 53996
+
+- Question : [53996](53996.md) — Question n° 53996 — qualité; plan d'urgence; propositions
+
+## Réponse
+
+*JO du 2014-06-24*
+
+Le Gouvernement est très attentif à la qualité de l'air qui fait l'objet de mesures du projet de loi de programmation pour la transition énergétique. S'agissant de la livraison des marchandises en ville, de nombreuses dispositions permettent déjà de contribuer à une meilleure qualité de l'air en ville. L'installation de plate-formes à l'entrée des villes permet de repenser le système d'acheminement et de distribution des marchandises en milieu urbain pour s'adapter à la demande du client final, mais également des commerçants, des transporteurs, des riverains. De telles réflexions impliquent une volonté des différents acteurs et la mise en place de démarches concertées. Pour accompagner les collectivités dans une démarche visant à améliorer la logistique et les livraisons en milieu urbain, le Gouvernement a préparé, en lien avec les différents acteurs concernés, un cadre national pour des chartes de logistique durable en ville. Incitant à la signature d'engagements volontaires adaptés aux spécificités locales et aux enjeux du développement économique des territoires concernés, ce document illustre la volonté des différents acteurs de travailler ensemble, sur la structuration d'une logistique propre. La signature de ce cadre national devrait intervenir prochainement. En outre, conformément à l'article 41 de la loi du 28 mai 2013 portant diverses dispositions en matière d'infrastructures et de services de transports, le Gouvernement organisera en 2014 une conférence nationale sur la logistique. La préparation de cet événement associe les différents acteurs concernés, afin de dresser un état des lieux partagé et d'identifier les leviers permettant d'améliorer la performance du secteur logistique en tenant compte des enjeux de transition énergétique.
