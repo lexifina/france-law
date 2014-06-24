@@ -1,0 +1,9 @@
+# Réponse à la question n° 56773
+
+- Question : [56773](56773.md) — Question n° 56773 — points de vente; fermeture; perspectives
+
+## Réponse
+
+*JO du 2014-06-24*
+
+Confrontée à une baisse de la fréquentation de certains de ses points de vente, la SNCF est contrainte d'adapter son offre de service. Ce phénomène s'explique en partie par les changements de comportement des voyageurs, qui sont de plus en plus nombreux à utiliser leur ordinateur, leur téléphone mobile ou les bornes en libre service en gare, pour la réservation et l'achat de leurs billets de train. Ainsi, alors que les guichets en gares représentent encore 26 % du volume d'affaires de l'entreprise en termes de ventes de billets de train, les boutiques SNCF ne comptent plus que pour 5 %. Sur la seule année 2013, la SNCF a constaté une baisse de 17 % de l'activité de ses boutiques. Soucieuse de son équilibre financier, la SNCF ne peut maintenir durablement en fonctionnement des services déficitaires et est contrainte, le cas échéant, de fermer des bureaux de vente. Les quelques 200 points de vente SNCF hors gares restent cependant un élément important du service à la clientèle de l'entreprise. La SNCF est précisément en train de rénover et moderniser ces boutiques, sur la base d'un nouveau concept. Six de ces boutiques ont ainsi été inaugurées en 2013 à Montpellier, Tours, Dijon, Villeneuve d'Ascq, Paris XIe et Paris Xe. Ces investissements se poursuivront en 2014 avec, notamment, les boutiques de Roissy-Charles de Gaule, La Défense et Lille. Le Gouvernement est attaché au maintien sur l'ensemble du territoire de services de proximité, mais dans le contexte économique actuel, il est nécessaire d'oeuvrer en faveur d'une meilleure maîtrise des dépenses, qu'il s'agisse de celles de l'État, des collectivités territoriales ou des entreprises publiques.
