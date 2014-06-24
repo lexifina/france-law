@@ -1,0 +1,9 @@
+# Réponse à la question n° 25814
+
+- Question : [25814](25814.md) — Question n° 25814 — urgences médicales; services; coordination
+
+## Réponse
+
+*JO du 2014-06-24*
+
+Les statistiques opérationnelles de 2012 montrent que les sapeurs-pompiers ont effectué 3 143 322 interventions de secours à personne. Les missions, relevant plus particulièrement du domaine partagé avec les autres acteurs de la santé, sont en augmentation de 18%, avec 748 680 interventions pour malaises ou maladies à domicile concernant des urgences vitales, et 580 487 pour malaises sur les voies, lieux publics ou assimilés. La qualité du maillage territorial apporté par les centres de secours des services départementaux d'incendie et de secours (SDIS) permet aux citoyens de bénéficier d'un secours de proximité, pouvant être médicalisé par les médecins sapeurs-pompiers, et participant ainsi à la bonne distribution des secours d'urgence en moins de trente minutes en tout point du territoire. La coordination opérationnelle entre les sapeurs-pompiers, la régulation du Centre 15, les SMUR et les médecins correspondants du SAMU est réglementée depuis 2009 par l'arrêté interministériel du 24 avril relatif à la mise en oeuvre du référentiel sur le secours à personne et l'aide médicale urgente. Cependant, des difficultés sont régulièrement rapportées par les différents acteurs. Comme le Président de la République l'a demandé, une mission d'enquête sur l'application du référentiel a été confiée conjointement aux inspections générales des affaires sanitaires et de l'administration. Les résultats devraient être produits avant la fin du deuxième trimestre 2014. C'est à l'issue de ce rapport que le gouvernement pourra, avec l'ensemble des partenaires du secours à personne, faire évoluer les dispositions pour une meilleure efficience du service rendu.
