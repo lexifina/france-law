@@ -1,0 +1,9 @@
+# Réponse à la question n° 23085
+
+- Question : [23085](23085.md) — Question n° 23085 — affections de longue durée; mentions
+
+## Réponse
+
+*JO du 2014-06-24*
+
+Le Gouvernement est attaché à l'amélioration des conditions d'accès aux soins. Les conditions de prise en charge des soins dans le cadre des affections de longue durée sont particulièrement importantes pour garantir l'accès aux soins de personnes atteintes par ces affections longues et coûteuses. Il est donc prévu d'inscrire la mention « suivi post-ALD » dans la carte Vitale et de faire exploiter cette mention par les logiciels des professionnel de santé, afin d'éviter des difficultés de prise en charge. L'inscription de la mention « suivi post-ALD » dans la carte Vitale et son exploitation par les logiciels des professionnels de santé entrera à vigueur grâce à un addendum au cahier des charges SESAM-Vitale. Ce document spécifie l'intégration de SESAM-Vitale dans le poste de travail du professionnel de santé afin de créer et de transmettre les factures électroniques nécessaires au remboursement des soins par les organismes d'assurance maladie, et comprend en particulier, la description des fonctions de consultation des données de la carte Vitale. Ces spécifications seront ensuite prises en compte dans le poste de travail du professionnel de santé, à un rythme qui dépend des calendriers de déploiement des éditeurs de logiciels. Il faut compter en général un minimum de 18 mois (dont 6 mois pour le processus d'agrément des logiciels) pour constater les premiers déploiements auprès des professionnels de santé. Dans ce cadre, le GIE SESAM-Vitale est chargé des relations avec les industriels et met en oeuvre une démarche de concertation et d'accompagnement avec pour objectif en particulier, de déployer rapidement les produits et services de l'assurance maladie auprès des professionnels de santé.
