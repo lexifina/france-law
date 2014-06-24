@@ -1,0 +1,9 @@
+# Réponse à la question n° 12099
+
+- Question : [12099](12099.md) — Question n° 12099 — périodes d'apprentissage; prise en compte
+
+## Réponse
+
+*JO du 2014-06-24*
+
+Les cotisations de sécurité sociale dues au titre de l'emploi d'un apprenti sont calculées sur une assiette forfaitaire égale à la rémunération versée abattue de 11 points sur laquelle sont appliqués les taux de cotisation de droit commun. Ce dispositif, institué en 1979 avec l'accord des partenaires sociaux qui souhaitaient ainsi favoriser le recours à l'apprentissage, a nécessairement un impact sur la validation des trimestres pour l'ouverture des droits à la retraite des intéressés. Le nombre de trimestres validés inférieur à celui attendu par les apprentis n'est pas la conséquence de la non prise en compte par l'Etat des cotisations sociales. S'agissant en effet de la compensation que l'Etat assure au titre des exonérations pour les apprentis, l'état semestriel transmis deux fois par an au Parlement qui retrace les dettes et les créances réciproques entre l'Etat et la Sécurité sociale mesurées au 31 décembre de chaque année indique que l'Etat a versé à la Sécurité sociale toutes les sommes dues au titre de ces contrats. Par ailleurs, les régimes sociaux enregistrent dans leur comptabilité l'ensemble des sommes dues par l'Etat, quel que soit le rythme de versement effectif de ces dernières. Le fait qu'à une date donnée, une dette ou une créance de l'Etat soit constatée n'a en tout état de cause aucune conséquence sur les droits ouverts en faveur des apprentis. Enfin, si des erreurs humaines et matérielles étaient à l'origine d'une mauvaise prise en compte des trimestres de cotisations pour certains apprentis, les organismes ont pour consigne de les résoudre dès qu'elles leur sont signalées en procédant à la validation des trimestres manquants.
