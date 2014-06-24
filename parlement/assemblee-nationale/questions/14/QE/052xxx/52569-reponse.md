@@ -1,0 +1,9 @@
+# Réponse à la question n° 52569
+
+- Question : [52569](52569.md) — Question n° 52569 — viande; origine; plats préparés
+
+## Réponse
+
+*JO du 2014-06-24*
+
+L'article 26.2 b du règlement n° 1169/2011 sur l'information des consommateurs sur les denrées alimentaires (INCO) prévoit que l'indication du pays d'origine ou du lieu de provenance est obligatoire pour les viandes fraîches, réfrigérées ou congelées des espèces porcine, ovine ou caprine et de volailles. En application du huitième alinéa de l'article 26 du même règlement, la Commission a adopté, le 13 décembre 2013, le règlement d'exécution n° 1337/2013 fixant les modalités d'application de ce principe. Il rend obligatoire, pour la viande préemballée, l'indication des lieux d'élevage et d'abattage des animaux, mais pas le lieu de naissance. Cependant, il prévoit que l'origine d'un pays peut être indiquée quand la bête est née, qu'elle a été élevée et abattue dans un même pays. L'acte d'exécution entrera en vigueur le 1er avril 2015. De plus, la Commission a présenté au Parlement européen et au Conseil le rapport prévu au titre de l'article 26.6 du règlement INCO, sur l'indication obligatoire du pays d'origine ou du lieu de provenance pour la viande utilisée en tant qu'ingrédient. La France a demandé à ce qu'il soit accompagné de propositions de mesures législatives. Enfin, la loi relative à la consommation prévoit de rendre obligatoire, après assentiment de la Commission européenne, l'indication de l'origine des denrées alimentaires et de la viande en tant qu'ingrédient. Afin de sensibiliser la Commission européenne à la nécessité de prévoir une obligation réglementaire, le ministre en charge de la consommation s'est rendu à Bruxelles en septembre 2013 et a notamment rencontré le commissaire européen en charge de la consommation, avec une délégation parlementaire française.
