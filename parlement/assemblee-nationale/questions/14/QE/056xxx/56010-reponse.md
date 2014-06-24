@@ -1,0 +1,9 @@
+# Réponse à la question n° 56010
+
+- Question : [56010](56010.md) — Question n° 56010 — viande porcine; Russie
+
+## Réponse
+
+*JO du 2014-06-24*
+
+A la suite de la notification par la Lituanie de deux cas de sangliers infectés par la peste porcine africaine à proximité de la frontière biélorusse, les autorités sanitaires russes ont décrété un embargo sur la viande de porc en provenance de toute l'Union européenne (UE) le 27 janvier 2014. En février, la Pologne a également notifié deux cas à proximité de la frontière biélorusse. Dès l'annonce de cette mesure injustifiée d'un point de vue sanitaire et très préoccupante pour la filière porcine française, dont la Russie constitue, avec le marché chinois, le principal débouché hors UE avec un chiffre d'affaires de 100 M€ pour 60 000 tonnes par an, les autorités françaises ont multiplié les initiatives auprès des autorités sanitaires russes dans le but de mettre un terme à cet embargo. La France a demandé aux autorités russes de respecter le principe de régionalisation, qui consiste à limiter les restrictions commerciales à la zone géographique effectivement affectée par la maladie, principe clé de l'accord sanitaire et phytosanitaire à l'OMC dont la Fédération de Russie est membre depuis août 2012. Parallèlement, la Commission négocie sans relâche avec les autorités russes pour trouver une solution européenne, en expliquant la situation sanitaire réelle de l'UE et en rappelant à la Russie ses obligations en matière internationale. A ce stade, aucune de ces discussions n'a toutefois permis d'aboutir à une solution négociée acceptable. La Commission européenne envisage aujourd'hui une action en contentieux devant l'Organe de règlement des différends de l'OMC. La priorité du ministre en charge de l'agriculture reste l'obtention d'un compromis rapide avec les autorités russes, afin de débloquer les exportations de viandes porcines françaises.
