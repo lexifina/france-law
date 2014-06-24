@@ -1,0 +1,9 @@
+# Réponse à la question n° 55796
+
+- Question : [55796](55796.md) — Question n° 55796 — population maasai; déplacements forcés; attitude de la France
+
+## Réponse
+
+*JO du 2014-06-24*
+
+Le sujet de la propriété de la terre est un sujet ancien et complexe au Kenya. La nouvelle constitution, adoptée par référendum en août 2010, a introduit des dispositions visant à résoudre les conflits nombreux, et qui ne concernent pas seulement les maasaï et leurs voisins. La National Land Commission prépare actuellement des recommandations au gouvernement kenyan pour la mise en place d'un système d'enregistrement des titres de propriété et mène une étude sur l'utilisation des ressources naturelles. Les résultats n'en sont pas encore connus. Au Kenya, la France soutient des projets visant à protéger les moyens du subsistance et à accroître la résilience des populations pastorales. C'est ainsi qu'en 2013, la France a octroyé une subvention de 250 000 euros à l'ONG française ACTED au nord du pays, près de la frontière de l'Ethiopie et de la Somalie. Elle a soutenu aussi l'adoption, en mars 2014, d'un projet de la Banque mondiale visant à renforcer l'accès des populations pastorales du Kenya aux ressources naturelles et aux marchés, ainsi qu'à améliorer la lutte contre les maladies, la production de fourrage et les systèmes d'alerte précoce. Ce projet est doté de 77 millions de dollars. La France ne conduit pas en revanche de projet bilatéral dans la zone de Navaïsha. La France est consciente des tensions pouvant survenir entre les populations pastorales kenyanes, notamment les populations maasaï, et les autorités, désireuses de mettre en oeuvre leurs priorités en matière de développement, d'investissements ou de protection de l'environnement. La France et ses partenaires européens suivent cette question avec attention et encouragent le dialogue entre les représentants des populations concernées et les autorités kenyanes.
