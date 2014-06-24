@@ -1,0 +1,9 @@
+# Réponse à la question n° 29400
+
+- Question : [29400](29400.md) — Question n° 29400 — mise sous tutelle; procédure
+
+## Réponse
+
+*JO du 2014-06-24*
+
+En application des dispositions de l'article 1231 du code de procédure civile, les décisions instaurant une mesure de tutelle sont notifiées à la diligence du greffe par lettre recommandée avec demande d'avis de réception, sauf si le juge décide que la notification doit être faite par acte d'huissier. Ce texte précise également que la délivrance d'une copie certifiée conforme de cette décision peut aussi être faite par le greffe contre récépissé daté et signé et que ce procédé vaut notification dès lors que les voies de recours et les sanctions encourues pour recours abusifs sont portées à la connaissance de l'intéressé. Par ailleurs, aux termes de l'article 1230 du code de procédure civile, toute décision du juge est notifiée, à la diligence du greffe, au requérant, à la personne chargée de la protection et à tous ceux dont elle modifie les droits ou les obligations résultant de la mesure de protection. En outre, l'article 1230-1 du code de procédure civile, qui prévoit les conditions dans lesquelles les jugements statuant sur une demande d'ouverture d'une mesure de protection sont notifiés à la personne protégée, permet également, lorsque le juge l'estime utile, une notification au conjoint, au partenaire avec lequel la personne protégée a conclu un pacte civil de solidarité ou son concubin à moins que la vie commune ait cessé entre eux, ou à un parent ou à un allié ainsi qu'à une personne entretenant avec le majeur des liens étroits et stables. Ces dispositions sont de nature à permettre de manière effective et adéquate l'information des proches de la personne protégée et des personnes intéressées par l'instauration d'une mesure de protection.
