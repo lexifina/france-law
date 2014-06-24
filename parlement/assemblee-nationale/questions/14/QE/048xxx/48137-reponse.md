@@ -1,0 +1,9 @@
+# Réponse à la question n° 48137
+
+- Question : [48137](48137.md) — Question n° 48137 — stationnement souterrain; tarifs
+
+## Réponse
+
+*JO du 2014-06-24*
+
+L'exploitation de la plupart des parkings automobiles payants est réalisée dans le cadre de contrats de délégation de service public, dans le cadre desquels, aux termes de l'article 38 de la loi n° 93-122 du 29 janvier 1993, la rémunération du délégataire qui se voit confier par une personne morale de droit public la gestion d'un service public « est substantiellement liée au résultat d'exploitation du service ». Les conditions financières de ces délégations sont négociées par les collectivités locales délégantes lors de la sélection du délégataire, qui donne lieu à un appel d'offres. Dans ce contexte, les tarifs qui sont actuellement pratiqués par les exploitants de parkings sont définis sur une base horaire. La loi relative à la consommation du 17 mars 2014 prévoit l'introduction dans le code de la consommation d'une disposition imposant aux exploitants de parcs de stationnement la mise en place pour le 1er juillet 2015 d'une tarification par tranche de quinze minutes au plus, dans la limite de douze heures de stationnement, durée au-delà de laquelle s'appliquent des forfaits avantageux pour le consommateur. Enfin, l'enquête nationale réalisée par les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) dans le secteur des parcs de stationnement aux 3e et 4e trimestres 2013 a permis de constater la bonne application par ces prestataires de service des règles de protection économique des consommateurs (information sur les prix et remise d'une note). Les services de la DGCCRF restent vigilants et s'assureront en temps utiles du respect de cette nouvelle tarification.
