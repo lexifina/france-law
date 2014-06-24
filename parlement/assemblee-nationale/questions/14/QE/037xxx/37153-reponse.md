@@ -1,0 +1,9 @@
+# Réponse à la question n° 37153
+
+- Question : [37153](37153.md) — Question n° 37153 — rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2014-06-24*
+
+La proposition n° 2 du rapport d'information déposé en conclusion des travaux de la mission sur les conditions d'emploi dans les métiers artistiques préconise d'intégrer davantage, dans la politique de financement de la création, des considérations liées à l'emploi, et en particulier d'étudier l'opportunité de révision du contrat type de décentralisation dramatique, afin d'y inclure la faculté, pour les financeurs des centres dramatiques nationaux, de subordonner le montant de leur aide au respect, par ces centres, de leurs obligations en matière de volume d'emploi. L'accord sur les emplois dans les centres dramatiques nationaux prévoit d'ores et déjà des mesures en ce sens. Les préconisations des rapporteurs ont par ailleurs fait l'objet de réflexions en cours dans le cadre du projet de loi relatif à la création artistique. Le projet de loi devrait préciser que la politique de soutien de l'État aux projets artistiques doit répondre à des objectifs d'intérêt général, visant notamment à la formation et au développement des parcours professionnels des artistes, ainsi qu'à la pérennisation de l'activité, de l'emploi et des entreprises dans le secteur. De plus, il est prévu que les modalités du soutien apporté par l'État et, le cas échéant, par les collectivités territoriales ou leurs groupements, aux structures labellisées, comme les centres dramatiques nationaux, ainsi que les modalités de son contrôle et de son évaluation, prennent en compte la situation sociale de la structure. Les textes d'application de la loi préciseront ces objectifs, notamment lors de la rédaction des cahiers des missions et des charges des structures labellisées.
