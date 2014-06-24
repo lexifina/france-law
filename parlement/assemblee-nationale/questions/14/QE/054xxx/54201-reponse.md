@@ -1,0 +1,9 @@
+# Réponse à la question n° 54201
+
+- Question : [54201](54201.md) — Question n° 54201 — mort de moines français à Tibéhirine; enquête
+
+## Réponse
+
+*JO du 2014-06-24*
+
+L'assassinat en mai 1996 des sept moines de Tibéhirine, qui oeuvraient dans la tolérance aux côtés du peuple algérien, a légitimement suscité une très vive émotion. Une information judiciaire a été ouverte au tribunal de grande instance de Paris en 2004 à la suite d'un dépôt de plainte avec constitution de partie civile pour enlèvement, séquestration, assassinat en relation avec une entreprise terroriste. Il est de l'intérêt de tous de connaître la vérité concernant les circonstances de la mort des moines de Tibéhirine. Les investigations sont conduites en concertation avec les autorités algériennes dans le cadre du protocole d'entraide judiciaire du 28 août 1962. Une commission rogatoire internationale a été transmise aux autorités algériennes en 2004 et une seconde en 2011, rédigée par le juge Marc TREVIDIC. Ce dernier a été reçu à Alger en novembre 2013 par les autorités algériennes qui ont accepté le principe d'une visite de terrain. Prévue le 1er mars dernier, celle-ci a été reportée par la partie algérienne en raison de difficultés logistiques. Elle devrait avoir lieu prochainement. La France est très attachée à ce que la lumière soit faite sur cette douloureuse affaire. Celle-ci est évoquée régulièrement par l'ambassade de France à Alger avec les responsables du ministère algérien de la justice. Les autorités françaises, ne manquent pas, à l'occasion des contacts réguliers qu'elles entretiennent avec les autorités algériennes, de rappeler l'importance qu'elles attachent à ce que l'enquête puisse aboutir, comme l'a fait notamment le Président de la République lors de sa visite d'État en Algérie en décembre 2012 ainsi que le Premier Ministre lors du Comité intergouvernemental de haut niveau en décembre 2013.
