@@ -1,0 +1,70 @@
+# Economie : simplification de la vie des entreprises
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33262
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/simplification_vie_entreprises
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-771.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-06-25 : 1er dépôt d'une initiative. (PRJLANR5L14B2060)
+  - 2014-06-25 : Etude d'impact (ETDIANR5L14B2060)
+  - 2014-07-01 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-06-25 : Renvoi en commission au fond
+      - 2014-07-08 : Nomination de rapporteur
+      - 2014-07-08 : Réunion de commission
+      - 2014-07-09 : Réunion de commission
+      - 2014-07-16 : Réunion de commission
+      - 2014-07-22 : Réunion de commission
+      - 2014-07-16 : Dépôt de rapport (RAPPANR5L14B2145, PRJLANR5L14BTC2145)
+  - Discussion en séance publique
+    - 2014-07-22 : Discussion en séance publique
+    - 2014-07-22 : Discussion en séance publique
+    - 2014-07-22 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-07-23 : Dépôt d'une initiative en navette (PRJLSNR5S219B0771)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-23 : Renvoi en commission au fond
+      - 2014-10-14 : Nomination de rapporteur
+      - 2014-10-29 : Dépôt de rapport (RAPPSNR5S239B0059)
+    - Travaux d'une commission saisie pour avis
+      - 2014-10-14 : Saisine pour avis d'une commission
+      - 2014-10-14 : Nomination de rapporteur
+      - 2014-10-28 : Dépôt de rapport (AVISSNR5S239B0053)
+    - Travaux d'une commission saisie pour avis
+      - 2014-10-15 : Saisine pour avis d'une commission
+      - 2014-10-15 : Nomination de rapporteur
+      - 2014-10-21 : Dépôt de rapport (AVISSNR5S239B0041)
+    - Travaux d'une commission saisie pour avis
+      - 2014-10-15 : Saisine pour avis d'une commission
+      - 2014-10-15 : Nomination de rapporteur
+      - 2014-10-28 : Dépôt de rapport (AVISSNR5S239B0051)
+    - Travaux d'une commission saisie pour avis
+      - 2014-10-15 : Saisine pour avis d'une commission
+      - 2014-10-15 : Nomination de rapporteur
+      - 2014-10-28 : Dépôt de rapport (AVISSNR5S239B0052)
+  - Discussion en séance publique
+    - 2014-11-04 : Discussion en séance publique
+    - 2014-11-05 : Discussion en séance publique
+    - 2014-11-05 : Décision
+- Commission Mixte Paritaire
+  - 2014-11-06 : Dépôt d'un projet de loi (PRJLANR5L14B2343)
+  - 2014-11-06 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-11-25 : Nomination de rapporteur
+    - 2014-11-25 : Dépôt du rapport d'une CMP (RAPPANR5L14B2390)
+    - 2014-11-25 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0122)
+  - Discussion en séance publique
+    - 2014-12-15 : Discussion en séance publique
+    - 2014-12-15 : Décision
+  - Discussion en séance publique
+    - 2014-12-18 : Discussion en séance publique
+    - 2014-12-18 : Décision
+  - 2014-11-27 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-12-20 : Promulgation d'une loi
