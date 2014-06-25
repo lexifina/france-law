@@ -1,0 +1,85 @@
+# Article 1er
+
+Le présent avenant modifie les dispositions suivantes de l'article 3 « Garanties », point 4 « Garantie soins de santé », du protocole d'accord des salariés Lads. L'article 3.1 ci-dessous est ajouté :
+
+« Article 3.1
+
+Dispositions particulières concernant le maintien d'une garantie frais de santé
+
+Article 3.1.1
+
+Anciens salariés bénéficiaires de la portabilité
+
+Le présent article définit les modalités d'application du dispositif de portabilité instauré par l'article L. 911-8 du code de la sécurité sociale. En cas de cessation du dernier contrat de travail non consécutive à une faute lourde et ouvrant droit à indemnisation du régime obligatoire d'assurance chômage, le salarié ainsi que ses ayants droits bénéficient du maintien de la garantie frais de santé dans les conditions ci-après.
+
+Le présent dispositif de portabilité s'applique aux cessations de contrat de travail, telles que définies précédemment, qui interviennent à compter du 1er juin 2014.
+
+En cas de modification ou de révision des garanties des salariés en activité, les garanties des assurés bénéficiant du dispositif de portabilité seront modifiées ou révisées dans les mêmes conditions.
+
+Le maintien des garanties prend effet à compter de la date de cessation du contrat de travail. Le maintien de garanties s'applique pour une durée maximale égale à la durée du dernier contrat de travail du salarié dans l'entreprise ou, le cas échéant, des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur.
+
+Cette durée est appréciée en mois, le cas échéant, arrondis au nombre supérieur, dans la limite de 12 mois.
+
+L'employeur signale le maintien de ces garanties dans le certificat de travail et informe l'organisme assureur de la cessation du contrat de travail.
+
+L'ancien salarié justifie auprès de son organisme assureur, à l'ouverture et au cours de la période de maintien des garanties, des conditions prévues dans le présent article et conformément aux dispositions légales et réglementaires.
+
+En tout état de cause, le maintien des garanties cesse :
+
+– lorsque l'ancien salarié reprend un autre emploi ;
+
+– dès que l'ancien salarié ne peut plus justifier auprès de l'organisme assureur de son indemnisation par le régime obligatoire d'assurance chômage ;
+
+– dès que l'ancien salarié ne peut plus justifier auprès de l'employeur de son statut de demandeur d'emploi ;
+
+– à la date d'effet de la liquidation de la pension vieillesse de la sécurité sociale ;
+
+– en cas de décès du salarié.
+
+La suspension des allocations du régime obligatoire d'assurance chômage, pour cause de maladie ou pour tout autre motif, n'a pas d'incidence sur le calcul de la durée du maintien des garanties, qui ne sera pas prolongée d'autant.
+
+Le maintien des garanties au titre de la portabilité du présent régime obligatoire est financé par les cotisations des entreprises et des salariés en activité (part patronale et part salariale).
+
+Le bénéfice du maintien de ces garanties est subordonné à la condition que les droits à couverture complémentaire aient été ouverts chez le dernier employeur.
+
+En cas de changement d'organisme assureur, les bénéficiaires du dispositif de portabilité relevant des présentes stipulations sont affiliés dans les mêmes conditions que les salariés en activité auprès du nouvel organisme assureur.
+
+Article 3.1.2
+
+Anciens salariés bénéficiaires des dispositions de l'article 4 de la loi Evin
+
+Conformément aux dispositions de l'article 4 de la loi n° 89-1009 du 31 décembre 1989, la garantie frais de santé peut être maintenue sans condition de période probatoire ni d'examens ou questionnaires médicaux au profit des personnes suivantes :
+
+– les anciens salariés bénéficiaires d'une rentre d'incapacité ou d'invalidité ;
+
+– les anciens salariés bénéficiaires d'une pension de retraite ;
+
+– les anciens salariés privés d'emploi, bénéficiaires d'un revenu de remplacement ;
+
+– les personnes garanties du chef de l'assuré décédé.
+
+Les intéressés doivent en faire la demande auprès de l'organisme désigné dans les 6 mois suivant la rupture du contrat de travail ou le décès du salarié ou dans les 6 mois suivant la fin de la période de portabilité définie à l'article 3.1.1 précédent.
+
+Le nouveau contrat prévoit que la garantie prend effet au plus tard le lendemain de la demande et les conditions tarifaires de ce maintien.
+
+Article 3.1.3
+
+Conditions de suspension de garanties
+
+Le bénéfice des garanties du présent accord est suspendu de plein droit pour les salariés dont le contrat de travail est suspendu.
+
+Toutefois, les garanties en vigueur sont maintenues au profit des salariés dont le contrat de travail est suspendu pour la période au titre de laquelle ils bénéficient d'un maintien de salaire, total ou partiel, ou d'indemnités journalières ou de rentes d'invalidité ou d'incapacité permanente professionnelle. Dans ce cas, il est précisé que l'employeur maintient sa contribution et continue d'appeler et de verser la cotisation correspondant au régime frais de santé.
+
+Dans le cas où les garanties sont suspendues, la suspension intervient à la date de la cessation de l'activité professionnelle dans l'entreprise adhérente et s'achève dès la reprise effective du travail par l'intéressé au sein de l'effectif assuré, sous réserve que l'organisme désigné en soit informé dans un délai de 3 mois suivant la reprise. A défaut, la garantie ne prendra effet qu'à compter de la réception par l'organisme désigné de la déclaration faite par l'entreprise.
+
+Pendant la période de suspension des garanties, aucune cotisation n'est due au titre du salarié concerné.
+
+Pour autant, les garanties du présent régime peuvent être maintenues à la demande du salarié via l'entreprise adhérente au profit des salariés dont le contrat de travail a été suspendu en dehors des cas mentionnés ci-dessus. Dans ce cas, la garantie sera accordée moyennant le versement de la totalité de la cotisation du régime.
+
+Article 3.1.4
+
+Conditions de cessation des garanties
+
+Les garanties cessent :
+
+– en cas de rupture du contrat de travail du salarié, excepté pour les bénéficiaires de la portabilité visés à l'article 3.1.1 et les bénéficiaires de l'article 4 de la loi Evin visés à l'article 3.1.2. »
