@@ -1,0 +1,39 @@
+# Réponse à la question n° 725
+
+- Question : [725](725.md) — Question n° 725 — évolutions; Gard
+
+## Réponse
+
+*JO du 2014-06-25*
+
+MOYENS DE L'ÉDUCATION NATIONALE DANS LE DÉPARTEMENT DU GARD
+
+M. le président. La parole est à M. Fabrice Verdier, pour exposer sa question, n° 725, relative aux moyens de l'éducation nationale dans le département du Gard.
+
+M. Fabrice Verdier. Dans le premier degré, de 2000 à 2013, les effectifs des écoles publiques du département du Gard sont passés de 58 600 à 65 000 élèves, soit une augmentation de 11 %. Pendant ce temps, les postes n'ont augmenté que de 7 %. L'indicateur « nombre de postes pour cent élèves » est passé de 5,21 à 5,05, ce qui en fait le plus faible de l'académie de Montpellier, dont la moyenne s'établit à 5,19. Le Gard a obtenu 18 postes supplémentaires à la rentrée 2013 ; il aurait dû en obtenir 58 de plus pour avoir un ratio identique à celui de l'Hérault. Dans ces conditions, notre département est contraint d'utiliser la quasi-totalité des postes qu'il obtient chaque année pour des ouvertures de classes, aux dépens de dispositifs qualitatifs – auxiliaires de vie scolaire, remplacements, conseillers pédagogiques, formation continue. Le Gard se classe dans le peloton de queue des départements les moins bien dotés, ce qui contraint les inspecteurs d'académie successifs à modifier les seuils d'ouverture de classe.
+
+Dans le second degré, de 2000 à 2013, les effectifs des collèges n'ont augmenté que de 1,78 %. Mais, sur la même période, les effectifs des collèges privés sous contrat ont augmenté de 11 %. De 2000 à 2013, l'évolution de la dotation globale horaire a été négative : moins 1,14 %. À la rentrée 2014, alors que s'ouvre un nouveau collège, la dotation globale horaire du Gard n'augmente pas. L'inspecteur d'académie est donc contraint de redéployer une partie des moyens des collèges, en modifiant l'indicateur d'encadrement en sixième, qui passera de vingt-neuf en 2013 à trente en 2014. Une dizaine de collèges auront donc des effectifs par classe très élevés à la prochaine rentrée, dont celui de Saint-Génies-de-Malgoires dans ma circonscription, qui perd une classe de sixième et va se retrouver avec plus de trente élèves en sixième. Dans le canton de Saint-Ambroix, territoire très rural, le collège du Martinet voit ses moyens diminuer alors que ses effectifs augmentent. Au-delà de sa mission première d'éducation, ce collège assure également une fonction d'animation territoriale, indispensable au devenir de ce territoire. Le maintien de sa dotation horaire globale est essentiel pour sa survie.
+
+Le département du Gard, vous le savez, concentre de nombreuses difficultés économiques et sociales, avec un taux de chômage de 16 %, et même 18 % pour les femmes, et 53 % de foyers non imposables. Des disparités territoriales très fortes y existent aussi entre territoires ruraux excentrés et territoires urbains agglomérés. Ces éléments chiffrés objectifs m'amènent, monsieur le ministre de l'éducation nationale, à solliciter votre intervention pour que des moyens supplémentaires soient mobilisés à moyen terme afin de garantir les mêmes chances aux enfants gardois qu'aux autres jeunes Français.
+
+M. le président. La parole est à M. le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche.
+
+M. Benoît Hamon, ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche. Monsieur le député, avant de répondre précisément à votre question concernant le département du Gard, je voudrais vous rappeler les objectifs de notre politique. Ils sont connus : il s'agit de refaire de l'école une priorité. Nos objectifs sont également qualitatifs à travers la refonte de l'éducation prioritaire, la priorité donnée au primaire, la réforme des rythmes scolaires, et aujourd'hui des chantiers pédagogiques ouverts sur le sujet de l'évaluation des élèves. Ces priorités s'appuient sur un engagement fort, celui de renforcer la formation initiale des enseignants, qui a absorbé une partie des créations de postes. Nous souhaitons en effet que les enseignants soient mieux formés afin de mieux transmettre leurs connaissances et leurs compétences dans leurs classes. Voilà, brossé à grands traits, le tableau de nos choix politiques.
+
+Chaque année, la carte scolaire, qui est une carte vivante, évolue selon deux critères : d'une part, la démographie scolaire – lorsque le nombre d'élèves augmente, nous essayons de faire en sorte que le nombre d'enseignants augmente aussi – ; d'autre part, les politiques prioritaires qui sont celles du Gouvernement. Aujourd'hui, tant à l'éducation prioritaire qu'au primaire, nous affectons des moyens supplémentaires.
+
+À notre arrivée aux affaires, nous sommes partis d'un déficit de 80 000 enseignants, accumulé sous la période précédente. Il a donc fallu commencer par compenser ce déficit en créant 60 000 postes sur le quinquennat. Ces postes vont tant à la formation initiale des enseignants qu'aux politiques prioritaires, et bien sûr à l'évolution de la démographie scolaire, qui conduit à ce que, dans certains départements, il y ait plus d'enseignants, et dans d'autres, un peu moins.
+
+Quelques éléments maintenant concernant le département du Gard, qui va bénéficier de notre politique volontariste. Dans le premier degré, 42 postes supplémentaires, sur une dotation académique de 130, lui ont été attribués, pour une augmentation attendue des effectifs de 510 élèves. Cette dotation permettra au directeur académique des services de l'éducation nationale et à l'inspecteur d'académie d'affecter des postes à des dispositifs qualitatifs, et non pas seulement à des ouvertures de classe ordinaires procédant de l'évolution de la démographie scolaire.
+
+Je citerai l'ouverture d'une unité localisée pour l'inclusion scolaire à Saint-Ambroix, de deux classes pour l'inclusion scolaire à Langlade et Connaux, la création de deux demi-postes au titre des unités pédagogiques pour les élèves allophones arrivant de Beaucaire et de Saint-Gilles.
+
+Deux postes supplémentaires ont été spécifiquement implantés en maternelle, au Vigan et à Pont-Saint-Esprit, pour l'accueil des enfants de moins de trois ans, afin d'améliorer le taux de scolarisation de ces enfants, dont nous savons qu'il est une clé pour lutter contre les inégalités scolaires et, ensuite, le décrochage scolaire.
+
+Au-delà, une plus grande attention encore sera portée aux publics scolaires les plus fragiles avec la création de trois postes au titre du dispositif « Plus de maîtres que de classes » à Nîmes et six postes dans les écoles relevant des deux réseaux REP +, créés à la rentrée 2014, dans les collèges Diderot et Condorcet de Nîmes.
+
+Les moyens mis à disposition de l'éducation prioritaire au sein des collèges du département seront également renforcés. Ainsi, à la prochaine rentrée, sept postes supplémentaires seront alloués aux deux collèges situés en REP, trois au collège Diderot et quatre au collège Condorcet.
+
+J'espère avoir pu vous rassurer en partie, car je suppose que je ne vous rassurerai jamais pleinement, quant aux moyens attribués au département du Gard. Soyez assuré que mon souci est bien que la communauté éducative dispose des moyens de travailler correctement.
+
+L'effort, bien sûr, est pluriannuel et la montée en puissance progressive. On ne pouvait pas créer d'une année sur l'autre, ex nihilo, 60 000 postes d'enseignants supplémentaires. Mais nous serons attentifs aux demandes de votre département. Il nous faut en effet tenir compte de l'augmentation de la démographie scolaire et faire en sorte que les dispositifs ou les politiques prioritaires du Gouvernement disposent du carburant indispensable à la réforme, c'est-à-dire des effectifs d'adultes nécessaires, afin de répondre aux demandes des parents d'élèves et des élèves.
