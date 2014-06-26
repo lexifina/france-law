@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120801415
+
+- Question : [SEQ120801415](seq120801415.md) — Devenir des personnels des Chambres de commerce et d'industrie dans le cadre de la mise en œuvre de la réforme des réseaux consulaires
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2014-06-26, page 1533*
+
+Le renforcement de l'échelon régional constitue l'axe majeur de la réforme consulaire, la chambre de commerce et d'industrie de région (CCIR) devenant l'unique employeur des agents publics sous statut de toutes les chambres de commerce de son périmètre, dans un souci de rationalisation et de maîtrise des dépenses des chambres. En application de la réforme des réseaux consulaires prévue par la loi n° 2010-1463 du 23 juillet 2010, les agents de droit public sous statut employés par les chambres de commerce et d'industrie territoriales (CCIT) ont été transférés le 1er janvier 2013 aux CCIR auxquelles ces CCIT sont rattachées. Simultanément, ces agents ont été mis à disposition, de droit, dans leurs CCIT d'origine. Ils sont désormais gérés par les CCIR, dans les conditions prévues au code de commerce. Ce transfert s'est opéré sans aucune difficulté, et sans augmentation de la masse salariale, les opérations de mise à disposition de personnel, dès lors qu'elles sont effectuées en vertu d'une application légale et facturées à l'euro, bénéficiant de l'exonération de la taxe sur la valeur ajoutée prévue à l'article 261 B du code général des impôts. Par ailleurs, les rémunérations versées aux enseignants mis à disposition des centres de formation des apprentis et aux personnels enseignants mis à disposition des établissements d'enseignement supérieur visés au livre VII du code de l'éducation, continuent à être exonérées de la taxe sur les salaires, conformément aux dispositions de l'article 231 bis du code général des impôts.
