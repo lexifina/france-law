@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008862
+
+- Question : [SEQ131008862](seq131008862.md) — Multiplication des contrats d'agent contractuel d'enseignement régional
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2014-06-26, page 1549*
+
+Aujourd'hui, il existe des agents contractuels d'enseignement nationaux (ACEN) dans l'enseignement technique agricole. Ces agents occupent des postes d'enseignants ou de conseiller principal d'éducation (CPE) non pourvus par des titulaires pour la durée de l'année scolaire (12 mois sur 12). Ces agents disposent de contrats établis par le service des ressources humaines du ministère de l'agriculture, de l'agroalimentaire et de la forêt (MAAF) et peuvent chaque année postuler sur des emplois de contractuels disponibles dans le cadre de la commission consultative paritaire des contractuels. Par ailleurs, pour des remplacements de courte durée, des contractuels sont embauchés pour assurer le remplacement d'agents indisponibles. Ces agents sont recrutés dans le cadre d'une enveloppe de postes régionale (crédits et ETPT), positionnée à la direction régionale de l'agriculture, de l'agroalimentaire et de la forêt (autorité académique pour l'enseignement technique agricole). Les contrats sont établis par le service des ressources humaines du MAAF pour une durée limitée à l'absence de la personne remplacée. Ces agents n'ont pas accès, du fait de leur faible période d'embauche, au dispositif de reclassement mis en place au sein de la CCP. Ce sont les deux seuls types de contrats mis en œuvre au MAAF. Le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement a demandé à ses services de veiller à ce qu'il n'y ait plus d'agents contractuels régionaux avec une quotité de travail de 10 mois sur 12.
