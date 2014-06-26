@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130606948
+
+- Question : [SEQ130606948](seq130606948.md) — Risques éventuels de contamination lors des examens échographiques endocavitaires
+
+## Réponse
+
+*Affaires sociales et santé, JO du 2014-06-26, page 1524*
+
+La désinfection des sondes d'échographie à usage endocavitaire fait l'objet d'une attention particulière du ministère chargé de la santé depuis de nombreuses années. Les recommandations actuellement en vigueur se fondent sur l'avis du haut conseil de la santé publique (HCSP) d'octobre 2008 relatif à la désinfection des sondes à échographie endocavitaire. Ces recommandations, confortées en 2009 par un rapport de l'académie nationale de médecine (établi suite à une saisine du médiateur de la République), précisent que l'utilisation d'une gaine protégeant une sonde d'échographie endocavitaire, dans le strict respect des recommandations pour la pratique clinique, est une alternative aux procédures de nettoyage et de désinfection intermédiaire. Ces derniers mois, l'attention du ministère des affaires sociales et de la santé a été appelée par la publication d'articles scientifiques évoquant la contamination des sondes d'échographie endovaginales. Ces publications peuvent paraître alarmantes aux yeux du grand public. Cependant, il n'y a pas de nouvelles données épidémiologiques sur le risque de transmission nosocomiale lors de tels examens et il n'est pas décrit de cas avérés de transmission d'agents infectieux chez des patients lors d'échographies endovaginales. Cependant, au vu de l'évolution des nouveaux dispositifs apparus sur le marché, le HCSP a été saisi en juillet 2013 sur l'opportunité d'une évolution des recommandations émises en 2008. Il consulte les sociétés savantes, informe les associations concernées et devrait rendre son avis à la rentrée 2014.
