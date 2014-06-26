@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210291
+
+- Question : [SEQ140210291](seq140210291.md) — Inquiétudes des professionnels de la photographie
+
+## Réponse
+
+*Intérieur, JO du 2014-06-26, page 1559*
+
+Le décret n° 2013-1188 du 18 décembre 2013 relatif à la durée de validité et aux conditions de délivrance et de renouvellement de la carte nationale d'identité, entré en vigueur le 1er janvier 2014, a étendu la durée de validité des cartes nationales d'identité sécurisées (CNIS) de dix à quinze ans. Cette mesure s'inscrit pleinement dans le choc de simplification ; elle vise à alléger les démarches de renouvellement pour les usagers. Elle a été annoncée par le Gouvernement dans le cadre du comité interministériel pour la modernisation de l'action publique (CIMAP) du 17 juillet 2013. L'activité des photographes professionnels bénéficie par ailleurs de deux dispositifs : - l'apposition sur la carte Vitale 2 de la photographie de l'assuré, rendue obligatoire par l'article L. 161-31 du code de la santé publique depuis l'entrée en vigueur de la loi n° 2004-810 du 13 août 2004, constitue une activité supplémentaire pour les photographes professionnels. En effet, la photographie prévue pour la carte Vitale doit répondre aux mêmes normes que celles des cartes d'identité et passeports. Depuis le 1er décembre 2007, les organismes d'assurance maladie ne peuvent délivrer à leurs bénéficiaires que des cartes Vitales dotées d'une photographie et opèrent progressivement le remplacement des cartes Vitales 1 ; - le permis de conduire a une durée de validité de quinze ans depuis le 19 janvier 2013, ce qui ouvrira un nouveau marché. Cela concerne les permis de conduire de catégories A (motos) et B (véhicules légers). Les titres délivrés avant le 19 janvier 2013 seront, quant à eux, progressivement remplacés.
