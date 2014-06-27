@@ -847,3 +847,17 @@ Attribution du label de librairie de référence et du label de librairie indép
 Article 3.
 
 |
+
+Décret n° 2014-677 du 24 juin 2014 relatif à l’aide à l’écriture d’œuvres musicales originales
+
+1
+
+|
+
+Décision d’octroi d’une aide financière individuelle pour l’écriture d’une œuvre musicale.
+
+|
+
+Article 4.
+
+|
