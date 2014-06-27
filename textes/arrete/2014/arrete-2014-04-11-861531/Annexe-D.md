@@ -1,170 +1,132 @@
 # Article Annexe D
 
-Nom du port
+Hareng, maquereau, chinchard
+
+NOM DU PORT
 
 |
 
-Code postal
+CODE POSTAL
 
 |
 
-Jours et heures obligatoires pour le débarquement (heure locale)
+JOURS ET HEURES
+
+obligatoires
+
+pour le débarquement
+
+(heure locale)
 
 |
 
-Délai de notification préalable de débarquement (si différent de 4 heures)
+DÉLAI DE NOTIFICATION
+
+préalable de débarquement
+
+(si différent de 4 heures)
 
 |
 
-Restrictions supplémentaires au débarquement
+RESTRICTIONS SUPPLÉMENTAIRES
+
+au débarquement
 
 |
 
-BOULOGNE-SUR-MER
+BOULOGNE-SUR-MER |
+
+62200 |
 
 |
 
-62200
+2 heures |
 
 |
 
-|
+DIEPPE |
 
-2 heures
-
-|
+76200 |
 
 |
 
-DIEPPE
+2 heures |
 
 |
 
-76200
+FECAMP |
+
+76400 |
 
 |
 
-|
-
-2 heures
+2 heures |
 
 |
 
-|
+CHERBOURG |
 
-FECAMP
-
-|
-
-76400
+50100 |
 
 |
 
-|
-
-2 heures
+2 heures |
 
 |
 
-|
+DOUARNENEZ |
 
-CHERBOURG
-
-|
-
-50100
+29100 |
 
 |
 
-|
-
-2 heures
+2 heures lorsque le navire a opéré uniquement en eaux territoriales pour la marée considérée |
 
 |
 
-|
+LOCTUDY |
 
-DOUARNENEZ
-
-|
-
-29100
+29750 |
 
 |
 
-|
+2 heures lorsque le navire a opéré uniquement en eaux territoriales pour la marée considérée |
 
 |
 
-|
+SAINT-GUENOLE |
 
-LOCTUDY
-
-|
-
-29750
+29760 |
 
 |
 
-|
+2 heures lorsque le navire a opéré uniquement en eaux territoriales pour la marée considérée |
 
 |
 
-|
+CONCARNEAU |
 
-SAINT-GUENOLE
-
-|
-
-29760
+29900 |
 
 |
 
-|
+2 heures lorsque le navire a opéré uniquement en eaux territoriales pour la marée considérée |
 
 |
 
-|
+LORIENT |
 
-CONCARNEAU
+56100 |
 
-|
-
-29900
+Tous les jours de 0 heure à 5 heures et de 8 heures à minuit |
 
 |
 
-|
+L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |
 
-|
+SAINT-JEAN-DE-LUZ |
 
-|
-
-LORIENT
-
-|
-
-56100
-
-|
-
-Tous les jours de 0h à 5h et de 8h à minuit
-
-|
-
-|
-
-L’heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l’heure d’arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l’heure qui suit l’arrivée au port, soit l’heure est fixée par le service de contrôle.
-
-|
-
-SAINT-JEAN-DE-LUZ
-
-|
-
-64500
-
-|
+64500 |
 
 |
 

@@ -1,215 +1,167 @@
 # Article Annexe A
 
-Nom du port
+Cabillaud
 
-|
+NOM DU PORT
 
-Code postal
-
 |
 
-Jours et heures obligatoires pour le débarquement / transbordement (heure locale)
+CODE POSTAL
 
 |
 
-Délai de notification préalable de débarquement (si différent de 4 heures)
+JOURS ET HEURES
 
-|
+obligatoires
 
-Restrictions supplémentaires au débarquement
+pour le débarquement/
 
-|
+transbordement
 
-DUNKERQUE
+(heure locale)
 
 |
 
-59240
+DÉLAI DE NOTIFICATION
 
-|
+préalable de débarquement
 
-|
+(si différent de 4 heures)
 
 |
 
-|
+RESTRICTIONS SUPPLÉMENTAIRES
 
-BOULOGNE-SUR-MER
+au débarquement
 
 |
 
-62200
+DUNKERQUE |
 
-|
-
-|
+59240 |
 
 |
 
 |
 
-DIEPPE
-
 |
-
-76200
 
-|
+BOULOGNE-SUR-MER |
 
-|
+62200 |
 
 |
 
 |
 
-FECAMP
-
 |
 
-76400
-
-|
+DIEPPE |
 
-|
+76200 |
 
 |
 
 |
-
-PORT-EN-BESSIN
 
 |
 
-14520
-
-|
+FECAMP |
 
-|
+76400 |
 
 |
 
 |
 
-CHERBOURG
-
 |
-
-50100
 
-|
+PORT-EN-BESSIN |
 
-|
+14520 |
 
 |
 
 |
 
-ROSCOFF
-
 |
-
-29680
 
-|
+CHERBOURG |
 
-Tous les jours de 6h à 22h
+50100 |
 
 |
 
-8 heures
-
 |
 
 |
-
-BREST
 
-|
+ROSCOFF |
 
-29200
+29680 |
 
-|
+Tous les jours de 6 heures à 22 heures |
 
-Tous les jours de 6h à 22h
+8 heures |
 
 |
 
-8 heures
+BREST |
 
-|
+29200 |
 
-|
+Tous les jours de 6 heures à 22 heures |
 
-DOUARNENEZ
+8 heures |
 
 |
 
-29100
+DOUARNENEZ |
 
-|
-
-|
+29100 |
 
 |
 
 |
 
-LE GUILVINEC
-
 |
-
-29730
 
-|
+LE GUILVINEC |
 
-|
+29730 |
 
 |
 
 |
 
-LOCTUDY
-
 |
 
-29750
-
-|
+LOCTUDY |
 
-|
+29750 |
 
 |
 
 |
-
-CONCARNEAU
 
 |
 
-29900
-
-|
+CONCARNEAU |
 
-|
+29900 |
 
 |
 
 |
 
-LORIENT
-
 |
-
-56100
 
-|
+LORIENT |
 
-Tous les jours de 0h à 5h et de 8h à minuit
+56100 |
 
-|
+Tous les jours de 0 heure à 5 heures et de 8 heures à minuit |
 
 |
 
-L’heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l’heure d’arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l’heure qui suit l’arrivée au port, soit l’heure est fixée par le service de contrôle.
-
-|
+L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |

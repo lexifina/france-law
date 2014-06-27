@@ -1,71 +1,61 @@
 # Article Annexe F
 
-Nom du port
+Sole
+
+NOM DU PORT
 
 |
 
-Code postal
+CODE POSTAL
 
 |
 
-Jours et heures obligatoires
+JOURS ET HEURES
+
+obligatoires
 
 |
 
-Délai de notification préalable de débarquement (si différent de 4 heures)
+DÉLAI DE NOTIFICATION
+
+préalable de débarquement
+
+(si différent de 4 heures)
 
 |
 
-Restrictions supplémentaires au débarquement
+RESTRICTIONS SUPPLÉMENTAIRES
+
+au débarquement
 
 |
 
-ROSCOFF
+ROSCOFF |
 
-|
+29680 |
 
-29680
-
-|
-
-Tous les jours de 6h à 22h
-
-|
-
-|
-
-|
-
-BREST
-
-|
-
-29200
-
-|
-
-Tous les jours de 6h à 22h
+Tous les jours de 6 heures à 22 heures |
 
 |
 
 |
 
-|
+BREST |
 
-LORIENT
+29200 |
 
-|
-
-56100
-
-|
-
-Tous les jours de 0h à 5h et de 8h à minuit
+Tous les jours de 6 heures à 22 heures |
 
 |
 
 |
 
-L’heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l’heure d’arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l’heure qui suit l’arrivée au port, soit l’heure est fixée par le service de contrôle.
+LORIENT |
+
+56100 |
+
+Tous les jours de 0 heure à 5 heures et de 8 heures à minuit |
 
 |
+
+L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |
