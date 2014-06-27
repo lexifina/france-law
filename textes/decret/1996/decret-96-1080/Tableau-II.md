@@ -32,17 +32,41 @@ Recherche des informations.
 
 |
 
-Requête aux fins de recherche des informations auprès du procureur de la République.
+Requête aux fins de recherche des informations
 
 |
 
-Art. 39 de la loi n° 91-650 du 9 juillet 1991.
-
-Art. 54 du décret n° 92-755 du 31 juillet 1992.
+Articles L. 152-1 et L. 152-2 du code des procédures civiles d'exécution
 
 |
 
-14
+10
+
+|
+
+Assignation
+
+|
+
+1 bis
+
+|
+
+Copies des pièces accompagnant
+
+le bordereau annexé
+
+à l'assignation-
+
+Par tranche de 100 feuilles
+
+|
+
+Article 837, dernier alinéa, du CPC
+
+|
+
+10
 
 |
 
@@ -63,6 +87,48 @@ Art. R. 145-10 du code du travail.
 |
 
 14
+
+|
+
+Saisie des
+
+rémunérations.
+
+|
+
+2 bis
+
+|
+
+Notification à l'employeur
+
+d'un acte de saisie
+
+des rémunérations
+
+lorsque le
+
+courrier revient
+
+non réclamé au tribunal
+
+|
+
+Article 670-1 du CPC |
+
+12
+
+|
+
+|
+
+3 ter
+
+|
+
+|
+
+|
 
 |
 
@@ -107,6 +173,40 @@ du 31 juillet 1992.
 |
 
 10
+
+|
+
+Saisie attribution
+
+|
+
+3 ter
+
+|
+
+Dénonciation de la saisine
+
+du juge de l'exécution à
+
+l'huissier de justice en
+
+matière de contestation
+
+de saisie-attribution
+
+|
+
+Article R. 211-11
+
+du code des
+
+procédures
+
+civiles d'exécution
+
+|
+
+7
 
 |
 
@@ -492,11 +592,11 @@ Expulsion.
 
 |
 
-Information au représentant de l'Etat de l'assignation aux fins de constat de résiliation du bail.
+Notification au représentant de l'Etat de l'assignation aux fins de constat de la résiliation
 
 |
 
-Article 24 de la loi n° 89-462 du 6 juillet 1989, modifiée par la loi n° 98-657 du 29 juillet 1998.
+Article 24 de la loi n° 89-462 du 6 juillet 1989 modifiée
 
 |
 
@@ -732,7 +832,7 @@ Art. 43 du décret n° 2006-936 du 27 juillet 2006.
 
 |
 
-FormaIités diverses.
+Formalités diverses.
 
 |
 
@@ -848,7 +948,33 @@ Art. 982 du N.C.P.C.
 
 |
 
-Paiement direct des pensions alimentaires.
+Constats
+
+|
+
+42 bis
+
+|
+
+Lettres de convocation des parties à un état des lieux "locatif" (loi de 1989)
+
+|
+
+Article 3-2 de la loi n° 89-462
+
+du 6 juillet 1989 modifiée
+
+|
+
+7
+
+|
+
+Paiement direct des
+
+pensions
+
+alimentaires.
 
 |
 
@@ -860,9 +986,13 @@ Demande de paiement direct.
 
 |
 
-Art. 6 de la loi n° 73-5 du 2 janvier 1973.
+Art. 6 de la loi n° 73-5 du 2 janvier
 
-Art. 5-1 du décret n° 73-216 du 1er mars 1973.
+1973.
+
+Art. 5-1 du décret n° 73-216 du 1er mars
+
+1973.
 
 |
 

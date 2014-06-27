@@ -1558,6 +1558,48 @@ Non
 
 |
 
+Saisie attribution.
+
+|
+
+50 bis
+
+|
+
+Acte de saisie
+
+attribution en cas
+
+de compte
+
+clôturé ou
+
+de solde négatif
+
+|
+
+Article R. 211-1
+
+du code des
+
+procédures civiles
+
+d'exécution
+
+|
+
+10
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
 Saisie-vente.
 
 |
@@ -3434,15 +3476,67 @@ Constats.
 
 |
 
-Constats "locatifs" (loi de 1989).
+Constats "locatifs" (loi de 1989) biens d'une superficie inférieure à 50 m2
 
 |
 
-Art. 3 de la loi n° 89-462 du 6 juillet 1989 modifiée.
+Art. 3-2 de la loi n° 89-462 du 6 juillet 1989 modifiée.
 
 |
 
 51,5
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+104 bis
+
+|
+
+Constats "locatifs"
+
+(loi de 1989) biens
+
+d'une superficie
+
+de 50 à 150 m2
+
+|
+
+60
+
+|
+
+Non
+
+|
+
+Non
+
+|
+
+104 ter
+
+|
+
+Constats "locatifs"
+
+(loi de 1989) biens
+
+d'une superficie de
+
+plus de 150 m2
+
+|
+
+90
 
 |
 
@@ -3512,34 +3606,6 @@ Oui
 
 |
 
-Actes en provenance de l'étranger.
-
-|
-
-107
-
-|
-
-Saisine de la chambre nationale des huissiers de justice aux fins de signification d'un acte transmis par une autorité étrangère.
-
-|
-
-Art. 688-2 du nouveau code de procédure civile.
-
-|
-
-13
-
-|
-
-Non
-
-|
-
-Non
-
-|
-
 Actes en provenance d'un autre
 
 Etat.
@@ -3560,21 +3626,23 @@ Etat.
 
 |
 
-- règlement (CE)
+Règlement (CE)
 
-n° 1348/2000 du
+n° 1393/2007
 
-Conseil du
+du Parlement
 
-29 mai 2000.
+européen et du
 
-- article 688-2 du
+Conseil du 13 novembre
 
-NCPC.
+2007
+
+article 688-2 du CPC
 
 |
 
-50 € *
+50 € (*)
 
 |
 
@@ -3608,17 +3676,13 @@ autre Etat étranger.
 
 |
 
-- règlement (CE)
+Règlement (CE) n° 1393/2007
 
-n° 1348/2000 du
+du Parlement européen
 
-Conseil du
+et du Conseil du 13 novembre
 
-29 mai 2000.
-
-- article 684 du
-
-NCPC.
+2007 article 684 CPC
 
 |
 
