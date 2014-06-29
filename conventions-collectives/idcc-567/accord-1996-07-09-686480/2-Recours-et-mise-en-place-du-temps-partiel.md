@@ -1,5 +1,0 @@
-# Article 2
-
-Le travail à temps partiel est mis en place à l'initiative du chef d'entreprise ou d'établissement, après consultation du comité d'entreprise ou des délégués du personnel s'ils existent.
-
-Le temps partiel bénéficie également au salarié qui en fait la demande, dans les conditions prévues par la loi.

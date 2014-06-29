@@ -1,5 +1,0 @@
-# Article 7
-
-Les salariés à temps partiel bénéficient des mêmes droits et sont soumis aux mêmes obligations que les salariés à temps plein. Ils doivent pouvoir accéder, au cours de leur carrière dans l'entreprise ou l'établissement, aux mêmes possibilités de formation professionnelle et de promotion professionnelle que les salariés à temps plein.
-
-Le salarié travaillant à temps partiel bénéficie d'une priorité pour l'attribution de tout emploi à temps plein qui viendrait à être créé ou deviendrait vacant, et que sa qualification professionnelle ou acquise lui permettrait d'occuper.
