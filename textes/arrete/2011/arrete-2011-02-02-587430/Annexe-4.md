@@ -1,6 +1,6 @@
 # Article Annexe 4
 
-LISTE DES SOCIÉTÉS INSTALLATRICES HABILITÉES POUR L'INSTALLATION ET LE CONTRÔLE DE FONCTIONNEMENT DES APPAREILS AIS
+LISTE DES SOCIETES INSTALLATRICES HABILITEES POUR L'INSTALLATION ET LE CONTROLE DE FONCTIONNEMENT DES APPAREILS AIS
 
 |
 
@@ -40,7 +40,7 @@ ATEYS
 
 |
 
-35, rue de Valmy, 76600 Le Havre
+35, rue de Valmy, 6600 Le Havre
 
 |
 
@@ -49,150 +49,6 @@ Nauticast, Furuno, Comnav
 |
 
 3
-
-|
-
-Etablissement Max Guerdin et fils
-
-|
-
-13, rue de Clermont, 60200 Compiègne
-
-|
-
-OceanSat
-
-|
-
-4
-
-|
-
-ETNA
-
-|
-
-31, rue des Ponts, 76620 Le Havre
-
-|
-
-JRC Japon
-
-|
-
-5
-
-|
-
-FLUVIAL ELEC
-
-|
-
-4, quai Fernand-Saguet, 94700 Maisons-Alfort
-
-|
-
-OceanSat
-
-|
-
-6
-
-|
-
-G2HE
-
-|
-
-3, rue Sophie-Germain, 75014 Paris
-
-|
-
-OceanSat
-
-|
-
-7
-
-|
-
-MAP Marine
-
-|
-
-1, quai de la Grande-Bigue, bâtiment B, 13002 Marseille
-
-|
-
-Nauticast, Furuno, Transas, Comnav
-
-|
-
-8
-
-|
-
-PROMAT
-
-|
-
-68, boulevard Jules-Durand, 76056 Le Havre
-
-|
-
-Furuno, OceanSat
-
-|
-
-9
-
-|
-
-SIECMI
-
-|
-
-3, quai Est, 29900 Concarneau
-
-|
-
-Saab R. 4 IAIS, CNS VDL. 6000, SRT Comnav Voyager X3
-
-|
-
-10
-
-|
-
-Sud Communication
-
-|
-
-95, rue Rajol, espace Fréjorgues Est, 34130 Mauguio
-
-|
-
-ICOM
-
-|
-
-11
-
-|
-
-THEMYS
-
-|
-
-Quartier de la Chaume, CD 45, pont de l'Etoile, 13360 Roquevaire
-
-|
-
-SAM Electronics, Saab R. 4 IAIS
-
-|
-
-12
 
 |
 
@@ -208,6 +64,164 @@ OceanSat
 
 |
 
-(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin.
+4
 
 |
+
+CLAUDIN SERVICES
+
+|
+
+41, avenue Henri-Barbusse, 69250 Albigny-sur-Saône
+
+|
+
+Orolia type Z 601, Mc Murdo Smartfind M5 Class A/ inland AIS
+
+|
+
+5
+
+|
+
+Etablissement Max Guerdin et fils
+
+|
+
+13, rue de Clermont, 60200 Compiègne
+
+|
+
+OceanSat
+
+|
+
+6
+
+|
+
+ETNA
+
+|
+
+31, rue des Ponts, 76620 Le Havre
+
+|
+
+JRC Japon
+
+|
+
+7
+
+|
+
+FLUVIAL ELEC
+
+|
+
+4, quai Fernand-Saguet, 94700 Maisons-Alfort
+
+|
+
+OceanSat
+
+|
+
+8
+
+|
+
+G2HE
+
+|
+
+3, rue Sophie-Germain, 75014 Paris
+
+|
+
+OceanSat
+
+|
+
+9
+
+|
+
+MAP Marine
+
+|
+
+1, quai de la Grande-Bigue, bât. B, 13002 Marseille
+
+|
+
+Nauticast, Furuno, Transas, Comnav
+
+|
+
+10
+
+|
+
+PROMAT
+
+|
+
+68, boulevard Jules-Durand, 76056 Le Havre
+
+|
+
+Furuno, OceanSat
+
+|
+
+11
+
+|
+
+SIECMI
+
+|
+
+3, quai Est, 29900 Concarneau
+
+|
+
+Saab R4 IAIS, CNS VDL6000, SRT Comnav Voyager X3
+
+|
+
+12
+
+|
+
+Sud Communication
+
+|
+
+95, rue Rajol, espace Fréjorgues Est, 34130 Mauguio
+
+|
+
+ICOM
+
+|
+
+13
+
+|
+
+THEMYS
+
+|
+
+Quartier de la chaume, CD 45, pont de l'Etoile, 13360 Roquevaire
+
+|
+
+SAM Electronics, Saab R4 IAIS
+
+|
+
+(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. |
