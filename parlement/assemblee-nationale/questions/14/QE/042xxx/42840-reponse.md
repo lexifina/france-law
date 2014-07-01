@@ -1,0 +1,9 @@
+# Réponse à la question n° 42840
+
+- Question : [42840](42840.md) — Question n° 42840 — droit d'accès et de rectification; mise en oeuvre
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Le fonctionnement du ministère chargé de l'éducation nationale ainsi que des services et des établissements qui en dépendent requiert la mise en oeuvre de plusieurs centaines de traitements automatisés de données à caractère personnel, relatives tant aux personnels qu'aux usagers du ministère. Dès lors, de très nombreuses demandes d'accès et de rectification concernant les données contenues dans les fichiers du ministère parviennent régulièrement à l'ensemble des services. Une enquête menée fin 2013 auprès des services académiques et centraux du ministère de l'éducation nationale a dénombré 885 demandes d'agents et d'usagers du ministère ayant fait valoir leur droit d'accès et de rectification en application des articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Ces demandes ont donné lieu à 741 suites favorables et 144 suites défavorables. Cependant, ces résultats restent partiels et tendent à démontrer les difficultés à recenser de façon exhaustive et centralisée ce type d'informations. En effet, le traitement des demandes d'accès et de rectification s'exerce à des niveaux divers selon le type de traitement et le ministère n'est pas doté d'outils ou de procédures lui permettant d'effectuer un recensement complet de ces demandes. Toutefois, la direction des affaires juridiques est le correspondant unique de la Commission nationale de l'informatique et des libertés (CNIL) pour toutes les applications à caractère national. A ce titre, elle instruit l'ensemble des plaintes que la commission lui transmet. En 2012, l'unique plainte adressée au ministère de l'éducation nationale a donné lieu à la transmission des informations demandées.
