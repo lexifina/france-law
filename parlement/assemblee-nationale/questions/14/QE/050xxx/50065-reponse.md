@@ -1,0 +1,9 @@
+# Réponse à la question n° 50065
+
+- Question : [50065](50065.md) — Question n° 50065 — rapport parlementaire; préconisations
+
+## Réponse
+
+*JO du 2014-07-01*
+
+La France a une longue tradition d'intervention sur la langue, depuis l'ordonnance de Villers-Cotterêts signée par François 1er en 1539, qui imposa le français à la place du latin pour les actes de justice et d'état civil, jusqu'à l'inscription, en 1992, dans la Constitution française, de l'article 2 qui prévoit que « La langue de la République est le français ». Notre pays s'est construit dans un rapport étroit avec sa langue. C'est un héritage dont nous devons maintenir le dynamisme car il contribue à la cohésion de notre société et au rayonnement de notre pays. Le cadre législatif et règlementaire actuel, dont la loi du 4 août 1994 dite loi Toubon constitue le texte de référence, crée les conditions d'exercice d'un droit au français pour nos concitoyens. Cette loi comporte des dispositions permettant de préserver, dans une certaine mesure, la présence du français dans les communications scientifiques. Nous avons cependant conscience du rôle prépondérant de l'anglais dans la recherche et des risques que comporte cette uniformisation linguistique pour la qualité de la recherche et l'accès du public francophone au savoir. La circulaire du Premier ministre du 25 avril 2013, relative à l'emploi de la langue française, a rappelé la responsabilité particulière de l'Etat dans l'application de ce droit au français. La Délégation générale à la langue française et aux langues de France, service du ministère de la culture et de la communication, est chargée de coordonner cette politique. Le gouvernement, qui veille notamment au respect des dispositions législatives, travaille à doter notre langue de termes permettant de désigner les réalités scientifiques et techniques contemporaines et encourage une politique de traduction permettant de faire circuler les savoirs.
