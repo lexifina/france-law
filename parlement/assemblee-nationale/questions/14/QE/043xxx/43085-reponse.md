@@ -1,0 +1,9 @@
+# Réponse à la question n° 43085
+
+- Question : [43085](43085.md) — Question n° 43085 — fraudes; lutte et prévention
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Le répertoire national commun de la protection sociale (RNCPS) vise à la fois à renforcer la lutte contre la fraude et à simplifier les démarches administratives des assurés. Il est opérationnel depuis le début de l'année 2012. Sa constitution a supposé des travaux d'une ampleur considérable, mobilisant 96 organismes nationaux représentant plus de 1 000 organismes gestionnaires : l'ensemble des caisses des branches maladie, famille et retraite, les organismes de Pôle emploi, les caisses de congés payés, les organismes en charge des régimes de retraite complémentaire obligatoire ainsi que les organismes de la branche recouvrement ont accès au répertoire. La nature des prestations pouvant figurer dans le RNCPS est très diverse - droits maladie, retraites de base et complémentaires, prestations chômage, droits à congés payés. 80 des organismes les plus importants de la protection sociale sont désormais reliés au RNCPS qui contient, d'ores et déjà, plus de 140 millions de rattachements : chaque bénéficiaire a en effet autant de rattachements que d'organismes qui lui servent des prestations. Le dispositif permettant de réaliser des requêtes de consultations en masse du répertoire à partir de plus de 130 cas de signalements a été achevé en 2013. 3 millions de consultations ont été réalisées en 2013. En février 2014, 55 817 agents disposaient d'un droit d'accès au RNCPS. L'accès pour les collectivités territoriales est également opérationnel et celles-ci s'y raccordent progressivement. Concernant le dispositif de gestion des échanges associé au répertoire, la loi de financement de la sécurité sociale pour 2012 a confirmé que les échanges de données sur cette plate-forme peuvent notamment porter sur les montants des prestations en espèces.
