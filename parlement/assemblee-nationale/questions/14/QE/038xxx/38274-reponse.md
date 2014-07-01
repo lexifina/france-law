@@ -1,0 +1,9 @@
+# Réponse à la question n° 38274
+
+- Question : [38274](38274.md) — Question n° 38274 — plainte sans suite; informations
+
+## Réponse
+
+*JO du 2014-07-01*
+
+La loi n° 2004-204 du 9 mars 2004 portant adaptation de la justice aux évolutions de la criminalité a complété le dispositif législatif en renforçant notamment le droit à l'information des victimes. L'article 40-2 alinéa 2 du code de procédure pénale impose au procureur de la République d'aviser les plaignants de la décision de classement sans suite de leur plainte en indiquant les raisons juridiques ou d'opportunité qui la justifient. Le code de procédure pénale ne définissant pas la forme de cet avis, celui-ci peut juridiquement être adressé soit par l'envoi d'un courrier par voie postale soit de manière dématérialisée par l'envoi d'un courriel ou d'un SMS. Dans le cadre de la modernisation de l'action publique, les services du ministère de la justice travaillent actuellement à la mise en oeuvre d'un outil qui permettra à une victime de suivre en ligne certaines étapes du traitement de sa plainte. Dans ce cadre, cette dernière pourra notamment être informée par courriel ou SMS de l'avis de classement sans suite ainsi que du motif du classement. Les droits des victimes se trouvent par ailleurs préservés par le recours hiérarchique qu'elles peuvent exercer pour contester une décision de classement sans suite sur le fondement de l'article 40-3 du code de procédure pénale qui dispose que : « Toute personne ayant dénoncé des faits au procureur de la République peut former un recours auprès du procureur général contre la décision de classement sans suite prise à la suite de cette dénonciation. Le procureur général peut, dans les conditions prévues à l'article 36, enjoindre au procureur de la République d'engager des poursuites. S'il estime le recours infondé, il en informe l'intéressé. ».
