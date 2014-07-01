@@ -1,0 +1,9 @@
+# Réponse à la question n° 23415
+
+- Question : [23415](23415.md) — Question n° 23415 — repas; qualité; réglementation
+
+## Réponse
+
+*JO du 2014-07-01*
+
+La loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales donne aux collectivités territoriales la compétence en matière de restauration scolaire. Cependant, tout en respectant ces compétences, le ministère de l'éducation nationale est particulièrement attentif aux conditions d'accès à cette restauration, qui constitue un facteur essentiel d'égalité des chances. Par arrêt en date du 23 octobre 2009, le juge des référés du Conseil d'État a considéré que le principe selon lequel les enfants dont les deux parents travaillent, ainsi que ceux qui bénéficient de dispositifs particuliers, pourront seuls manger à la cantine tous les jours, tandis que les autres enfants ne pourront être accueillis qu'une fois par semaine, dans la limite des places disponibles, interdit illégalement l'accès au service public de la restauration scolaire à une partie des enfants scolarisés, en retenant au surplus un critère de discrimination sans rapport avec l'objet du service public en cause. C'est pourquoi le ministre de l'éducation nationale et la ministre déléguée chargée de la réussite éducative ont tenu à ce que la circulaire d'orientation et de préparation de la rentrée 2013, publiée au bulletin officiel de l'éducation nationale du 11 avril 2013, précise que « l'accès à la restauration scolaire, quand celle-ci existe, est un droit » et qu' « il ne peut être établi aucune discrimination selon les situations familiales, géographiques ou de revenus ». Cette recommandation forte se situe dans le cadre plus large du soutien à apporter aux parents les plus éloignés de l'institution scolaire et, comme le précise encore la circulaire, dans un « contexte de crise économique qui touche durement de nombreuses familles en situation de grande précarité. ».
