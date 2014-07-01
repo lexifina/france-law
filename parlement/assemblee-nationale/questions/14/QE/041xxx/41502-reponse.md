@@ -1,0 +1,9 @@
+# Réponse à la question n° 41502
+
+- Question : [41502](41502.md) — Question n° 41502 — mineurs isolés; prise en charge
+
+## Réponse
+
+*JO du 2014-07-01*
+
+La mise en oeuvre du dispositif de mise à l'abri, d'évaluation et d'orientation des mineurs isolés étrangers s'est traduite par une réelle solidarité entre les départements, qui ont tous accueilli des mineurs isolés étrangers dans le cadre de la péréquation nationale. Ce point positif est à souligner. Des difficultés existent toutefois, liées à l'ampleur des flux d'arrivée de jeunes étrangers isolés, et des pistes de travail ont été ouvertes sur différents aspects de leur prise en charge et de leur accompagnement. Le protocole signé entre l'Etat et les départements avait prévu une évaluation d'ensemble du dispositif après une année de fonctionnement, soit à partir de juin 2014. Cette évaluation, réalisée conjointement par l'inspection générale des services judiciaires, l'inspection générale des affaires sociales, et l'inspection générale de l'administration a été commandée dès le 6 janvier 2014, pour une note d'étape descriptive rendue le 22 avril dernier, et un rapport final portant préconisations attendu pour le 30 juin prochain, étant entendu que cette évaluation doit aussi porter sur l'ampleur du phénomène et ses causes. Par ailleurs, un comité de suivi du dispositif se réunit régulièrement. Il a pour rôle de s'assurer des conditions de mise en oeuvre du dispositif, de son efficacité au regard des objectifs recherchés de rééquilibrage entre départements, d'identifier les difficultés éventuelles liées à sa mise en oeuvre, d'apprécier les résultats de la régulation des flux d'arrivée des mineurs isolés étrangers au regard de la grille nationale, ainsi que les conditions de l'accueil des jeunes dans les départements de placement définitif. La ministre de la justice reste particulièrement attentive aux écarts de pratiques invalidant les objectifs inscrits dans le protocole national.
