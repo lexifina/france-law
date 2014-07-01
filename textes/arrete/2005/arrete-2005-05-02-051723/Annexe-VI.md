@@ -12,13 +12,13 @@ Chapitre 2 : Chef d'équipe de sécurité incendie
 
 Chapitre 3 : Chef de service de sécurité incendie
 
-3.1 : titulaires du DUT "hygiène et sécurité environnement : option protection des populations-sécurité civile"
+3.1 : titulaires du DUT " hygiène et sécurité environnement : option protection des populations-sécurité civile "
 
 3.2 : titulaires du PRV 2, du Brevet de Prévention, de l'AP2 (attestation de prévention de niveau 2) ou de l'attestation du ministre en charge de la sécurité civile
 
 Chapitre 1 : Agent de sécurité incendie
 
-Ces dispositions concernent les hommes du rang des sapeurs-pompiers professionnels ou volontaires, des pompiers militaires de l'armée de terre, des pompiers militaires de l'armée de l'air ou des marins pompiers de la marine nationale, conformément aux paragraphes 1 et 2 de l'article 4 du présent arrêté.
+Ces dispositions concernent les hommes du rang des sapeurs-pompiers professionnels ou volontaires, des pompiers militaires de l'armée de terre, des pompiers militaires de l'armée de l'air ou des marins pompiers de la marine nationale et des titulaires du brevet national de jeunes sapeurs-pompiers, conformément aux paragraphes 1 et 2 de l'article 4 du présent arrêté.
 
 Module complémentaire permettant l'obtention du diplôme S.S.I.A.P. 1 par équivalence.
 
@@ -54,7 +54,7 @@ Connaître les principes de la réglementation incendie dans les ERP et les IGH
 
 Installations techniques
 
-(Séquences 1, 2, 3, 4 et 5)
+(Séquences 1,2,3,4 et 5)
 
 |
 
@@ -72,7 +72,7 @@ Effectuer l'entretien de base des principaux matériels de sécurité incendie
 
 Rôles et missions des agents de sécurité incendie
 
-(Séquences 1, 3, 4)
+(Séquences 1,3,4)
 
 |
 
@@ -102,7 +102,7 @@ Visites applicatives
 
 Chapitre 2 : Chef d'équipe de sécurité incendie
 
-Ces dispositions concernent les sous-officiers des sapeurs-pompiers professionnels ou volontaires, des pompiers militaires de l'armée de terre, des pompiers militaires de l'armée de l'air ou des marins pompiers de la marine nationale titulaires de l'unité de valeur PRV 1 ou AP 1 ou du certificat de prévention, délivrés par le ministère de l'intérieur, conformément aux paragraphes 1 et 2 de l'article 5 du présent arrêté.
+Ces dispositions concernent les sous-officiers des sapeurs-pompiers professionnels ou volontaires, des pompiers militaires de l'armée de terre, des pompiers militaires de l'armée de l'air ou des marins pompiers de la marine nationale et des titulaires du brevet national de jeunes sapeurs-pompiers titulaires de l'unité de valeur PRV 1 ou AP 1 ou du certificat de prévention, délivrés par le ministère de l'intérieur, conformément aux paragraphes 1 et 2 de l'article 5 du présent arrêté.
 
 Module complémentaire permettant l'obtention du diplôme S.S.I.A.P. 2 par équivalence.
 
@@ -174,9 +174,9 @@ Connaître et mettre en actions les moyens visant à faciliter l'action des sape
 
 Chapitre 3 : Chef de service de sécurité incendie
 
-3.1 : titulaires du DUT "hygiène et sécurité environnement : option protection des populations-sécurité civile"
+3.1 : titulaires du DUT " hygiène et sécurité environnement : option protection des populations-sécurité civile "
 
-Ces dispositions concernent les personnes titulaires du DUT "hygiène et sécurité environnement : option protection des populations-sécurité civile" conformément aux paragraphes 1 et 2 de l'article 6 du présent arrêté.
+Ces dispositions concernent les personnes titulaires du DUT " hygiène et sécurité environnement : option protection des populations-sécurité civile " conformément aux paragraphes 1 et 2 de l'article 6 du présent arrêté.
 
 Module complémentaire permettant l'obtention du diplôme S.S.I.A.P. 3 par équivalence.
 
@@ -230,7 +230,7 @@ Notions de droits civil et pénal
 
 Le budget du service de sécurité
 
-(Séquences 1, 2 et 3)
+(Séquences 1,2 et 3)
 
 |
 
@@ -280,7 +280,7 @@ Trame d'analyse d'un projet de construction, d'aménagement ou de réaménagemen
 
 |
 
-4e Partie:
+4e Partie :
 
 Gestion des risques
 
@@ -320,7 +320,7 @@ Notion en droit civil et droit pénal
 
 Le budget du service sécurité
 
-(Séquences 1, 2 et 3)
+(Séquences 1,2 et 3)
 
 |
 
