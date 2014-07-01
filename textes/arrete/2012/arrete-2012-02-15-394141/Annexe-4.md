@@ -20,4 +20,6 @@ Opérateur de pompe et tapis à béton ;
 
 Conducteur de chariot automoteur de manutention (conducteur porté) ;
 
-Conducteur de machine de forage.
+Conducteur de machine de forage, ou d'autres machines ou engins pour la réalisation de travaux sans tranchée ;
+
+Conducteur de camion aspirateur équipé d'un outil de décompactage.
