@@ -1,4 +1,4 @@
-# Article ANNEXE TABLEAU X
+# Article ANNEXE TABLEAU IX
 
 Attribution de la nouvelle bonification indiciaire à la direction des Monnaies et médailles
 
@@ -35,3 +35,7 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 7. Exercice de fonctions impliquant des responsabilités d'encadrement ou une qualification technique importante dans le domaine de la fabrication des monnaies et médailles.
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2014-826 du 21 juillet 2014, les présentes dispositions entrent en vigueur le 1er juillet 2014, à l'exception des dispositions relatives aux personnels de catégorie A qui seront applicables à compter du 1er septembre 2014.

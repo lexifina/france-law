@@ -1,4 +1,4 @@
-# Article TABLEAU  VII
+# Article TABLEAU  VI
 
 Attribution de la nouvelle bonification indiciaire à l'Institut national de la statistique et des études économiques
 
@@ -99,3 +99,7 @@ Emploi administratif du niveau de la catégorie B.
 (1) L'implantation de ces postes est fixée par arrêté du ministre chargé de l'économie et des finances.
 
 |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 21 juillet 2014, les présentes dispositions entrent en vigueur le 1er juillet 2014, à l'exception des dispositions relatives aux personnels de catégorie A qui seront applicables à compter du 1er septembre 2014.

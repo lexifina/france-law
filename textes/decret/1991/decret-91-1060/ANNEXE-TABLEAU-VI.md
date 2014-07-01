@@ -1,4 +1,4 @@
-# Article ANNEXE TABLEAU VI
+# Article ANNEXE TABLEAU V
 
 Attribution de la nouvelle bonification indiciaire à la direction générale des douanes et droits indirects
 
@@ -203,3 +203,7 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 44. Correspondant régional informatique.
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2014-826 du 21 juillet 2014, les présentes dispositions entrent en vigueur le 1er juillet 2014, à l'exception des dispositions relatives aux personnels de catégorie A qui seront applicables à compter du 1er septembre 2014.

@@ -1,4 +1,4 @@
-# Article ANNEXE TABLEAU VII
+# Article ANNEXE TABLEAU VI
 
 Attribution de la nouvelle bonification indiciaire à l'Institut national de la statistique et des études économiques
 
@@ -29,3 +29,7 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 - dans les directions régionales et les centres nationaux d'exploitation comptant plus de 100 agents : poste de chef de division ou équivalent.
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2014-826 du 21 juillet 2014, les présentes dispositions entrent en vigueur le 1er juillet 2014, à l'exception des dispositions relatives aux personnels de catégorie A qui seront applicables à compter du 1er septembre 2014.

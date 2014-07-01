@@ -1,4 +1,4 @@
-# Article TABLEAU  XI
+# Article TABLEAU  X
 
 Attribution de la nouvelle bonification indiciaire à l'Imprimerie nationale
 
@@ -339,3 +339,7 @@ Emploi technique du niveau de la catégorie C.
 16
 
 |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 21 juillet 2014, les présentes dispositions entrent en vigueur le 1er juillet 2014, à l'exception des dispositions relatives aux personnels de catégorie A qui seront applicables à compter du 1er septembre 2014.

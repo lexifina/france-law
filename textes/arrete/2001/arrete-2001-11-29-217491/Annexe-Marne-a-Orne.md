@@ -1,14 +1,16 @@
 # Article Annexe Marne à Orne
 
-Direction départementale de l'équipement de la Marne
+Direction départementale des territoires de la Marne
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES
 
 |
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -18,25 +20,11 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS (IM)
+NOMBRE
+
+de points (IM)
 
 par emploi
-
-|
-
-Chef de la cellule "politique de la ville"
-
-|
-
-A
-
-|
-
-1
-
-|
-
-30 points
 
 |
 
@@ -56,11 +44,11 @@ A
 
 |
 
-Adjoint au chef du bureau de la politique de la ville
+Responsable de la cellule renouvellement urbain-service habitat et ville durables
 
 |
 
-B
+A
 
 |
 
@@ -72,7 +60,7 @@ B
 
 |
 
-Chargé d'étude politique de la ville
+Adjoint au responsable de la cellule renouvellement urbain, chargé d'études renouvellement urbain-service habitat et ville durables
 
 |
 
@@ -84,11 +72,27 @@ B
 
 |
 
-10 points
+20 points
 
 |
 
-Secrétariat cellule politique de la ville
+Chargé d'études contrats de ville et renouvellement urbain-service habitat et ville durables
+
+|
+
+B
+
+|
+
+1
+
+|
+
+20 points
+
+|
+
+Secrétariat du service habitat et ville durables
 
 |
 

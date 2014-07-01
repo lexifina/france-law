@@ -1,4 +1,4 @@
-# Article TABLEAU  X
+# Article TABLEAU  IX
 
 Attribution de la nouvelle bonification indiciaire à l'établissement public La Monnaie de Paris
 
@@ -245,3 +245,7 @@ Emploi technique du niveau de la catégorie A ou B.
 1er août 1996
 
 |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 21 juillet 2014, les présentes dispositions entrent en vigueur le 1er juillet 2014, à l'exception des dispositions relatives aux personnels de catégorie A qui seront applicables à compter du 1er septembre 2014.

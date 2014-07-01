@@ -14,7 +14,7 @@ Entreprise de recherche et d'activité pétrolières ;
 
 Etablissements publics d'aménagement définis à l'article L. 321-14 du code de l'urbanisme ;
 
-Etablissement public de Paris-Saclay ;
+Etablissement public d'aménagement de Paris-Saclay ;
 
 Institut d'émission d'outre-mer ;
 
@@ -47,3 +47,5 @@ L'Agence foncière et technique de la région parisienne.
 NOTA :
 
 (1) Créée par le décret n° 2005-1021 du 25 août 2005.
+
+Conformément à l'article 25 VI de la loi n° 2014-58 du 27 janvier 2014, ces dispositions entrent en vigueur à compter de la publication du décret modificatif du décret 2010-911 du 3 août 2010 et au plus tard le 1er juillet 2014. A compter de cette date, l'Etablissement public de Paris-Saclay devient l'Etablissement public d'aménagement de Paris-Saclay.

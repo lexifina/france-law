@@ -108,7 +108,7 @@ Les évolutions de la réglementation applicable à l'éco-prêt à taux zéro n
 
 Article 10
 
-La présente convention est valable jusqu'au 30 juin 2014.
+La présente convention est valable jusqu'à la date d'expiration des dispositions de l'article 244 quater U du code général des impôts.
 
 Fait à..., en trois (3) exemplaires originaux, le.
 

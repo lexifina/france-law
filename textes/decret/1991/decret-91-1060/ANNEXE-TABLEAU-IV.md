@@ -1,61 +1,29 @@
 # Article ANNEXE TABLEAU IV
 
-Attribution de la nouvelle bonification indiciaire dans les services déconcentrés du Trésor
+Attribution de la nouvelle bonification indiciaire dans les services déconcentrés de la direction générale des finances publiques
 
 DÉFINITION DE L'EMPLOI
 
-justifiant de l'obtention de la nouvelle bonification indiciaire
+justifiant de l'obtention de la nouvelle bonification indiciaire |
+
+1. Exercice à temps plein de fonctions polyvalentes de renfort comportant de fréquents déplacements géographiques.
 
 |
 
-1. Exercice à temps plein de fonctions polyvalentes en équipe de remplacement comportant de fréquents déplacements géographiques.
+2. Fonctions d'exécution, de nature administrative ou technique qui nécessitent une technicité particulière en raison d'un tissu social particulièrement dense et de forts coefficients de mobilité des usagers du service public. (1) (2)
 
 |
 
-2. Exercice à temps plein de fonctions itinérantes d'enquêteur consistant dans la recherche de renseignements auprès des organismes soumis au droit de communication, en vue de la localisation des redevables.
+3. Fonctions d'encadrement intermédiaire, de nature administrative qui nécessitent une technicité particulière en raison d'un tissu démographique particulièrement dense et de forts coefficients de mobilité des usagers du service public. (1) (2)
 
 |
 
-3. Exercice à temps plein de fonctions itinérantes d'assistant des inspecteurs principaux, directeurs départementaux ou receveurs des finances, dans le cadre de leurs missions de vérification.
+(1) A l'exclusion de ceux pour lesquels est requise la qualification prévue à l'article 1er du décret n° 71-342 du 29 avril 1971 relatif à la situation des fonctionnaires affectés au traitement de l'information, ou exigeant un recrutement par une des voies de sélection prévues aux articles 2 et 3 du même décret.
+
+(2) L'implantation de ces postes est fixée par arrêté du ministre chargé du budget.
 
 |
 
-4. Exercice à temps plein de fonctions itinérantes de contrôle dans le service de la redevance de l'audiovisuel.
+NOTA :
 
-|
-
-5. Exercice à temps plein de fonctions de secrétariat de direction dans une trésorerie générale ou de responsable du cabinet d'un trésorier-payeur général.
-
-|
-
-6. Exercice à temps plein de fonctions d'exécution de poursuites dans le cadre d'une commission dûment délivrée à cet effet par l'autorité préfectorale.
-
-|
-
-7. Fonctions d'exécution, de nature administrative, qui nécessitent une technicité particulière en raison d'un tissu démographique particulièrement dense et de forts coefficients de mobilité des usagers du service public.
-
-|
-
-8. Exercice à temps plein de fonctions itinérantes et polyvalentes d'encadrement et d'animation de l'équipe de remplacement.
-
-|
-
-9. Exercice à temps plein de fonctions itinérantes de vérification effectuées en assistance aux inspecteurs principaux, directeurs départementaux ou receveurs des finances.
-
-|
-
-10. Exercice à temps plein de fonctions itinérantes d'encadrement des contrôles dans le service de la redevance de l'audiovisuel.
-
-|
-
-11. Fonctions d'encadrement intermédiaire, de nature administrative, qui nécessitent une technicité particulière en raison d'un tissu démographique particulièrement dense et de forts coefficients de mobilité des usagers du service public.
-
-|
-
-12. Fonctions itinérantes de support et d'assistance des utilisateurs dans le domaine de la micro-informatique et de la bureautique.
-
-|
-
-13. Fonctions itinérantes comportant des responsabilités particulières en termes d'encadrement, d'animation et de coordination d'une structure de support et d'assistance des utilisateurs dans le domaine de la micro-informatique et de la bureautique.
-
-|
+Conformément à l'article 3 du décret n° 2014-826 du 21 juillet 2014, les présentes dispositions entrent en vigueur le 1er juillet 2014, à l'exception des dispositions relatives aux personnels de catégorie A qui seront applicables à compter du 1er septembre 2014.
