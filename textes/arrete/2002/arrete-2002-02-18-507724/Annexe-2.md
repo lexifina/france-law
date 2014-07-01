@@ -3,3 +3,7 @@
 FICHE D'ÉVALUATION DU STAGE D'ADAPTATION
 
 (formulaire non reproduit)
+
+NOTA :
+
+Arrêté du 13 mai 2013 article 7 : Pour l'accomplissement de l'ensemble des opérations de la session 2014 de l'examen du brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER), le programme national de formation à la conduite fixé par l'arrêté du 23 janvier 1989 demeure le document de référence.
