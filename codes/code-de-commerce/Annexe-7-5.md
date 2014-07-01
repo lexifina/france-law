@@ -366,7 +366,7 @@ Visa, cote et paraphe des livres.
 
 |
 
-Procédures ouvertes après le 1 er janvier 2006 en application du livre VI du code de commerce
+Procédures ouvertes après le 1er janvier 2006 en application du livre VI du code de commerce
 
 |
 
@@ -548,6 +548,18 @@ Personne physique.
 
 |
 
+201 bis
+
+|
+
+Immatriculation principale par création d'une entreprise, personne physique
+
+|
+
+18
+
+|
+
 202
 
 |
@@ -557,6 +569,18 @@ Personne morale : groupements d'intérêt économique, sociétés commerciales, 
 |
 
 44
+
+|
+
+202 bis
+
+|
+
+Immatriculation principale par création de sociétés commerciales
+
+|
+
+22
 
 |
 
@@ -876,7 +900,9 @@ Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
 
 |
 
-Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions au RSAC (8) (art. L. 526-7, L. 526-16 et L. 526-17-II) |
+Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions au RSAC (8) (art. L. 526-7, L. 526-16 et L. 526-17-II)
+
+|
 
 32
 
@@ -886,7 +912,9 @@ Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfe
 
 |
 
-Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine entraînant mentions au RSAC (11) |
+Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine entraînant mentions au RSAC (11)
+
+|
 
 28
 
@@ -896,7 +924,9 @@ Dépôt de la déclaration modificative ou complémentaire de la déclaration d'
 
 |
 
-Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions au RSAC (11) |
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions au RSAC (11)
+
+|
 
 14
 
@@ -934,7 +964,9 @@ E.-Registre des entrepreneurs individuels
 
 250 |
 
-Immatriculation y compris après reprise ou transfert (7) (art. L. 526-7, L. 526-16 et L. 526-17-II) comprenant le dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation |
+Immatriculation y compris après reprise ou transfert (7) (art. L. 526-7, L. 526-16 et L. 526-17-II) comprenant le dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation
+
+|
 
 36 |
 
@@ -948,7 +980,9 @@ Dépôt de la déclaration modificative ou complémentaire de la déclaration d'
 
 252 |
 
-Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions au registre (11) |
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions au registre (11)
+
+|
 
 14 |
 
@@ -964,7 +998,9 @@ Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14)
 
 |
 
-Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) |
+Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17)
+
+|
 
 7
 
