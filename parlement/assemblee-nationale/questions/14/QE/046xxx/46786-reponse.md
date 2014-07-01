@@ -1,0 +1,9 @@
+# Réponse à la question n° 46786
+
+- Question : [46786](46786.md) — Question n° 46786 — conseillers pédagogiques de circonscription
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Les conseillers pédagogiques appartenant au corps des professeurs des écoles ont droit à l'attribution de 27 points de nouvelle bonification indiciaire (NBI) prévus par le décret n° 91-1229 du 6 décembre 1991 et son arrêté d'application. Cette NBI, dont le montant est lié à la valeur du point d'indice de la Fonction Publique, indemnise l'exercice de la responsabilité particulière des conseillers pédagogiques de circonscription ainsi que leur technicité spécifique. La NBI n'a, en revanche, pas vocation à indemniser ces personnels des frais de déplacement engagés à l'occasion de l'exercice de leurs missions, qui sont régis par le décret interministériel n° 2006-781 du 3 juillet 2006. Elle ne saurait donc être revalorisée à ce titre. Les conseillers pédagogiques appartenant au corps des instituteurs ne perçoivent pas la NBI de 27 points mentionnée supra mais bénéficient de 15 points de bonification indiciaire alloués aux titulaires du CAFIPEMF en vertu du décret n° 83-50 du 26 janvier 1983 et des 26 points de bonification indiciaire institués pour les fonctions de conseiller pédagogique par le décret n° 91-112 du 24 janvier 1991. Dans le cadre des discussions sur les métiers de l'éducation nationale, un groupe de travail a été spécifiquement consacré au métier de conseiller pédagogique. Dans le cadre de ces travaux, une clarification de leurs missions, une valorisation de leurs fonctions ainsi qu'une amélioration des perspectives de carrière ont été décidées. Ainsi, une indemnité nouvelle sera créée de façon à ce que la rémunération complémentaire, comprenant la NBI, s'établisse à 2500 euros annuels, soit une augmentation d'environ 1000 euros.
