@@ -1,0 +1,17 @@
+# Article 1er
+
+L'article 1.2 intitulé « Bénéficiaires » est désormais rédigé comme suit :
+
+« Sont bénéficiaires tous les salariés inscrits à l'effectif quelle que soit la nature du contrat de travail, présents au travail, en congé parental, en congé de maternité ou en arrêt de travail pour cause de maladie ou d'accident du travail au jour de l'entrée en vigueur du régime de prévoyance pour les risques réalisés à compter de cette date.
+
+Conformément aux articles 12.3 et suivants de la convention collective, le personnel cadre s'entend, aux termes du présent régime :
+
+1. Comme l'ensemble des salariés experts en automobile qui exercent des fonctions relevant au minimum du niveau IV de l'échelon 3 de la grille de qualification, même s'ils n'assurent pas de fonctions d'encadrement ;
+
+2. Les salariés qui ne sont pas visés par le point 1 et relevant au minimum du niveau IV, échelon 1, ayant acquis une formation technique, administrative, juridique, relationnelle ou financière sanctionnée par un diplôme ou non, exerçant un commandement par délégation de l'employeur ou qui ont en charge le fonctionnement d'un service peuvent prétendre au statut cadre :
+
+–   s'ils bénéficient d'un salaire annuel de base égal ou supérieur au plafond annuel de la sécurité sociale ;
+
+–   s'il y a un accord entre l'employeur et le salarié pour que ce dernier devienne cadre.
+
+Conformément aux articles 12.3 et suivants de la convention collective, le personnel non cadre s'entend, aux termes du présent régime, comme l'ensemble des salariés non visés par l'alinéa précédent. »
