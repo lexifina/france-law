@@ -1,4 +1,4 @@
-# Article Annexe
+# Article Annexe 1
 
 LISTE DES RÉGLEMENTATIONS APPLICABLES
 
@@ -86,9 +86,9 @@ X
 
 |
 
-|
+(X)
 
-X
+|
 
 |
 

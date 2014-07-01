@@ -4,7 +4,7 @@ MODÈLE DE PROCÈS-VERBAL DE CONTRÔLE DE CONFORMITÉ INITIAL
 
 ÉTABLI PAR UN OPÉRATEUR QUALIFIÉ
 
-PROCÈS-VERBAL DE CONTRÔLE DE CONFORMITE INITIAL D'UN VÉHICULE
+PROCÈS-VERBAL DE CONTRÔLE DE CONFORMITÉ INITIAL D'UN VÉHICULE
 
 DATE DU CONTRÔLE :
 
@@ -88,7 +88,7 @@ Poids à vide national (PV) (kg) :
 
 |
 
-Genre national (3) :
+Genre national :
 
 |
 
@@ -96,11 +96,17 @@ Genre national (3) :
 
 |
 
-Carrosserie (désignation nationale) (4) :
+Carrosserie (désignation nationale) (3) :
 
 |
 
-(S 1)
+(P6) |
+
+Puissance administrative (CV)
+
+|
+
+(S1)
 
 |
 
@@ -108,7 +114,7 @@ Nombre de places assises (y compris celle du conducteur) :
 
 |
 
-Voir certificat de conformité du véhicule de base pour les rubriques suivantes (D3), (F1), (J), (K), (P1), (P2), (P3), (P6), (U1), (U2), (V7), (V9)
+Voir certificat de conformité du véhicule de base pour les rubriques suivantes (D3), (F1), (J), (K), (P1), (P2), (P3), (U1), (U2), (V9)
 
 DIMENSIONS Longueur : L = m Largeur : l = m Surface L x l = m2
 
@@ -116,19 +122,19 @@ ENGAGEMENT DU CARROSSIER :
 
 je soussigné, carrossier, certifie :
 
-• disposer d'une qualification en cours de validité au titre de l'article R. 323-25 du code de la route ;
+• disposer d'une qualification en cours de validité au titre de l'article R. 321-15 du code de la route ;
 
 • avoir carrossé le véhicule identifié ci-dessus ;
 
 • que ce véhicule peut être immatriculé sans réception complémentaire compte tenu de ce que :
 
-- le châssis est resté conforme au type décrit dans la notice du constructeur et n'a subi aucune transformation ;
+- le châssis est resté conforme au type décrit dans le certificat de conformité délivré par le constructeur et n'a subi aucune transformation ;
 
 - le véhicule satisfait, dans les conditions prévues par les arrêtés d'application, aux dispositions des articles R. 311-1 à R. 318-8, R. 321-10 et R. 413-13 du code de la route, pour la catégorie du véhicule concerné ;
 
 - le porte-à-faux arrière du véhicule, non compris les ferrures et charnières satisfait aux limites minimale et maximale fixées par le constructeur :
 
-- dans sa notice descriptive (1) ;
+- dans le certificat de conformité (1) ;
 
 - dans l'accord fourni par son service technique (1) ;
 
@@ -138,9 +144,9 @@ et la longueur des ferrures est inférieure à 120 mm.
 
 - la largeur du véhicule n'excède pas celle fixée par le constructeur ;
 
-- le genre J1 n'est pas TCP ;
+- le véhicule ne sera pas immatriculé dans le genre (J1) TCP ou n'est pas un véhicule spécialisé non affecté au transport des marchandises (RESP, SRSP, VASP, sauf VASP-BOM) ;
 
-- le genre J1 n'est pas en double genre et la carrosserie J3 n'est pas en double carrosserie.
+- le véhicule ne sera pas immatriculé sous un double genre (J1) et (ou) une double carrosserie (J3).
 
 Fait à ..............
 
@@ -152,6 +158,4 @@ Signature et cachet du carrossier qualifié
 
 (2) Références communautaires de la directive 1999/37/CE relative aux documents d'immatriculation. Pour les rubriques inchangées, reprendre les données de la réception du véhicule incomplet.
 
-(3) J 1 ne peut être différent de celui prévu sur la notice descriptive et ne doit pas être TCP.
-
-(4) J 3 doit répondre à la nomenclature des carrosseries prévues par le code de la route.
+(3) J3 doit répondre à la nomenclature des carrosseries prévues à l'annexe V de l'arrêté du 9 février 2009 modifié relatif à l'immatriculation des véhicules.
