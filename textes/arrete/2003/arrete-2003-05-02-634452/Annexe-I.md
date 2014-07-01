@@ -270,6 +270,18 @@ modifiée par 2009/108/CE
 
 |
 
+modifiée par 2013/60/UE
+
+|
+
+1er juillet 2014
+
+|
+
+|
+
+|
+
 8. Pneumatiques.
 
 |
@@ -337,6 +349,18 @@ modifiée par 2006/27/CE
 |
 
 53/ECE/ONU
+
+|
+
+modifiée par 2013/60/UE
+
+|
+
+1er juillet 2014
+
+|
+
+|
 
 |
 
