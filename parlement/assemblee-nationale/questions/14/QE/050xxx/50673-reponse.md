@@ -1,0 +1,9 @@
+# Réponse à la question n° 50673
+
+- Question : [50673](50673.md) — Question n° 50673 — ouverture; Lot
+
+## Réponse
+
+*JO du 2014-07-01*
+
+La rectrice de l'académie de Toulouse a souhaité, dans le cadre de l'évolution de la carte des implantations des classes préparatoires aux grandes écoles (CPGE), diversifier l'orientation dans l'enseignement supérieur en proposant des filières d'excellence de proximité. Jusqu'à la rentrée universitaire 2013, seuls quatre départements sur les huit qui composent l'académie de Toulouse, comptaient des classes préparatoires. C'est pourquoi, la rectrice a proposé au ministre chargé de l'enseignement supérieur et de la recherche, trois demandes d'ouverture de classe échelonnées sur trois ans au sein de collectivités territoriales rurales : 1) une classe physique, technologie, sciences de l'ingénieur (PTSI) au lycée Bourdelle à Montauban à compter de la rentrée 2014 : 2) une classe mathématiques, physique, sciences de l'ingénieur (MPSI) au lycée Foch à Rodez en vue de la rentrée 2015 ; 3) une classe économique et commerciale, option économique, au lycée Clément Marot à Cahors en vue de la rentrée 2016. La programmation triennale de ces demandes d'ouverture procède d'une démarche prenant en compte plusieurs facteurs. Il est, en effet, indispensable que chaque établissement ait suffisamment de temps avant la mise en place d'une classe préparatoire, pour mobiliser au mieux les équipes pédagogiques et informer, de façon optimale, les publics concernés. Sans ces procédures en amont, une classe préparatoire nouvellement implantée pourrait connaître un recrutement faible qui mettrait en péril sa viabilité. En conformité avec la programmation souhaitée par la rectrice de l'académie de Toulouse, la demande du lycée Clément Marot sera examinée dans le cadre des travaux préparatoires à la rentrée 2016.
