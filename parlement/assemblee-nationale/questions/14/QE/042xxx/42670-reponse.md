@@ -1,0 +1,9 @@
+# Réponse à la question n° 42670
+
+- Question : [42670](42670.md) — Question n° 42670 — titre exécutoire; procédure
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Le 4° de l'article L. 1617-5 du code général des collectivités territoriales (CGCT) dispose notamment qu'« une ampliation du titre de recettes individuel ou de l'extrait du titre de recettes collectif est adressé au redevable sous pli simple ». Par ailleurs, l'arrêté du 10 juillet 1996 modifié relatif aux factures de distribution de l'eau et de la collecte et de traitement des eaux usées, précise les mentions qui doivent figurer sur les factures émises par les services publics d'eau et d'assainissement à l'encontre de leurs usagers. Ainsi, les documents envoyés par les services publics locaux d'eau et d'assainissement à leurs usagers pour demander le paiement des prestations dont ils ont bénéficié présentent simultanément la qualité d'extrait de titre exécutoire, au sens de l'article L. 1617-5 du CGCT, et la qualité de facture d'eau et d'assainissement, telle que définie par l'arrêté du 10 juillet 1996 précité. Le 6° de l'article L. 1617-5 du CGCT prévoit que les créances des collectivités locales et de leurs établissements publics locaux, et donc les créances des services publics locaux d'eau et d'assainissement qui sont portées par les documents présentant les qualités énoncées précédemment, peuvent, préalablement à leur recouvrement forcé, faire l'objet « d'une phase comminatoire, par laquelle il [le comptable public compétent] demande à un huissier de justice d'obtenir du redevable qu'il s'acquitte auprès de lui du montant de sa dette. Les frais de recouvrement sont versés directement par le redevable à l'huissier de justice. Le montant des frais, qui restent acquis à l'huissier de justice, est calculé selon un taux proportionnel aux sommes recouvrées fixé par un arrêté conjoint du ministre chargé du budget et du ministre de la justice ».
