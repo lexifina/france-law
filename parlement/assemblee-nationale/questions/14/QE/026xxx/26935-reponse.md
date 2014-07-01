@@ -1,0 +1,9 @@
+# Réponse à la question n° 26935
+
+- Question : [26935](26935.md) — Question n° 26935 — mesures de soutien
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Dans un contexte où le taux de chômage, en hausse tendancielle depuis 2008, atteint un niveau historiquement élevé et où l'économie française a perdu 500 000 emplois dans l'industrie depuis une dizaine d'années, le Gouvernement a fait des choix courageux en faveur de la compétitivité, tout en veillant à protéger les plus fragiles des effets de la crise. Le Gouvernement a ainsi fortement renforcé les aides à l'emploi et à l'innovation dans le cadre du pacte national pour la croissance, la compétitivité et l'emploi. Ces aides se concrétisent notamment par la mise en place du crédit d'impôt pour la compétitivité et l'emploi (pour une enveloppe de 20 Mds€), par la création de la Banque publique d'investissement destinée au développement des petites et moyennes entreprises (PME) et par l'amélioration de l'efficacité des pôles de compétitivité. Par ailleurs, la loi de sécurisation de l'emploi, adoptée le 14 mai 2013 et basée sur l'accord national interprofessionnel conclu le 11 janvier, contribuera à améliorer la souplesse offerte aux entreprises, tout en ouvrant de nouveaux droits aux salariés. Ces mesures constituent un pas ambitieux vers une amélioration durable du fonctionnement du marché du travail. Elles ont été d'ailleurs saluées comme tel par l'ensemble des organisations internationales. Enfin, les aides à l'emploi se sont concrétisées par la création des emplois d'avenir qui permet de rapprocher les jeunes peu diplômés du marché du travail. En vigueur au 1er novembre 2012, 100 000 emplois d'avenir ont été créés fin 2013 et 150 000 devraient être créés d'ici fin 2014. Parallèlement, le contrat de génération permettra d'associer l'embauche d'un jeune au maintien d'un senior dans l'entreprise.
