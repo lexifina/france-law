@@ -2,19 +2,21 @@
 
 Bénéficiaires
 
-En cas de décès du salarié, le bénéficiaire du capital est la personne qui avait été désignée par le participant, assuré de la garantie décès. A défaut de désignation expresse ou en cas de décès des bénéficiaires désignés survenu antérieurement à celui du participant, le capital est versé dans l'ordre de préférence suivant :
+En cas de décès du salarié non cadre tel que défini par la classification figurant à l'article 9 de la présente convention collective comme étant le personnel de fabrication, de vente et de services, le bénéficiaire du capital est la personne qui avait été désignée par le participant, assuré de la garantie décès. A défaut de désignation expresse ou en cas de décès des bénéficiaires désignés survenu antérieurement à celui du participant, le capital est versé dans l'ordre de préférence suivant :
 
-- au conjoint non séparé de corps ni divorcé, ou au partenaire de Pacs ou au concubin notoire ;
+– au conjoint non séparé de corps ni divorcé, ou au partenaire de Pacs ou au concubin notoire ;
 
-- aux enfants, vivants ou représentés, du participant par parts égales ;
+– aux enfants, vivants ou représentés, du participant par parts égales ;
 
-- aux ascendants du participant par parts égales ;
+– aux ascendants du participant par parts égales ;
 
-- aux autres personnes à charge au sens fiscal par parts égales ;
+– aux autres personnes à charge au sens fiscal par parts égales ;
 
-- aux autres héritiers du participant par parts égales.
+– aux autres héritiers du participant par parts égales.
 
 En cas d'invalidité permanente et totale du salarié, le bénéficiaire est le salarié lui-même.
+
+Il est rappelé que le personnel cadre tel que défini par la classification figurant à l'article 9 de la présente convention collective comme étant le personnel d'encadrement bénéficie du régime de prévoyance défini à l'article 4 de l'annexe “Statut du personnel d'encadrement” de la présente convention collective, notamment pour les garanties décès et rente éducation.
 
 Prestations
 
@@ -32,7 +34,7 @@ En cas de décès d'un salarié avant son départ à la retraite, le montant du 
 
 Garantie double effet
 
-Si le conjoint décède avant l'âge de 60 ans (1), en même temps ou après le salarié, et laisse un ou plusieurs enfants à charge, il est versé un capital dont le montant est égal à celui versé pour le premier décès.
+Si le conjoint décède en même temps ou après le salarié et laisse un ou plusieurs enfants à charge, il est versé un capital dont le montant est égal à celui versé pour le premier décès.
 
 Toutefois, le capital décès ne peut être inférieur à 9 fois le SMIC mensuel en vigueur au moment du décès.
 
@@ -43,5 +45,3 @@ En cas d'invalidité permanente et totale, il est versé au salarié, sous forme
 Cotisations
 
 Le taux de cotisation de la garantie décès-invalidité permanente et totale est fixé à 0,17 % du salaire brut plafonné à la tranche A. Le taux de cotisation est réparti à raison de 60 % pour la part patronale et 40 % pour la part salariale. Compte tenu du taux actuellement en vigueur de 0,17 % du salaire brut TA, la commission paritaire nationale a décidé que la cotisation patronale serait au taux de 0,10 % et que la cotisation salariale serait au taux de 0,07 %.
-
-(1) Termes exclus de l'extension comme étant contraires aux dispositions de l'article L. 122-45 du code du travail (arrêté du 14 avril 2005, art. 1er).

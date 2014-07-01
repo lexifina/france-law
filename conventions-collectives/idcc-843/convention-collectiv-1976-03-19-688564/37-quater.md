@@ -1,6 +1,6 @@
 # Article 37 quater
 
-En cas de décès du salarié, il est versé au profit de chacun de ses enfants à charge au sens fiscal :
+En cas de décès du salarié non cadre tel que défini par la classification figurant à l'article 9 de la présente convention collective comme étant le personnel de fabrication, de vente et de services, il est versé au profit de chacun de ses enfants à charge au sens fiscal :
 
 - une rente temporaire s'élevant à 6 % du salaire brut jusqu'au 16e anniversaire et à 8 % jusqu'au 18e anniversaire ou 26e anniversaire si l'enfant est étudiant, apprenti, demandeur d'emploi inscrit à l'ANPE et non indemnisé par le régime d'assurance chômage ;
 

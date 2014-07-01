@@ -2,11 +2,7 @@
 
 1. Bénéficiaires et garanties maintenues
 
-En cas de rupture ou de fin du dernier contrat de travail non consécutive à une faute lourde et ouvrant droit à indemnisation du régime obligatoire d'assurance chômage, le salarié bénéficie du maintien des garanties prévues aux articles :
-
-- article 37 ter " Décès et invalidité permanente et totale " ;
-
-- article 37 quater " Rente éducation (OCIRP) " .
+En cas de rupture ou de fin du dernier contrat non consécutive à une faute lourde et ouvrant droit à indemnisation du régime obligatoire d'assurance chômage, le salarié non cadre tel que défini par la classification figurant à l'article 9 de la présente convention collective comme étant le personnel de fabrication, de vente et de services bénéficie du maintien des garanties prévues aux articles 37 ter et 37 quater.
 
 Le maintien de ces garanties s'effectue dans les mêmes conditions que les salariés en activité, sauf dispositions particulières définies ci-après et sous réserve que l'ancien salarié n'ait pas expressément renoncé à l'ensemble des garanties collectives souscrites par son employeur, qu'elles soient prévues par la convention ou par les autres modalités de mise en place des garanties prévoyance et frais de santé définies à l'article L. 911-1 du code de la sécurité sociale.
 
