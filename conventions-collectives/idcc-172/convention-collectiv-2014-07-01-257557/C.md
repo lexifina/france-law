@@ -1,0 +1,5 @@
+# Article C
+
+Les parties signataires conviennent d'effectuer le dépôt du présent accord auprès des services compétents du ministère du travail en confiant les démarches aux fédérations d'employeurs signataires.
+
+Elles conviennent de demander l'extension et confient aux fédérations d'employeurs signataires de faire les démarches nécessaires à l'extension dans les meilleurs délais après signature.
