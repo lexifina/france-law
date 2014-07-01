@@ -1,0 +1,9 @@
+# Réponse à la question n° 50887
+
+- Question : [50887](50887.md) — Question n° 50887 — passages à niveau; lutte et prévention
+
+## Réponse
+
+*JO du 2014-07-01*
+
+En 2007, RFF avait fixé l'objectif d'équiper tous les passages à niveau (PN) inscrits dans le programme de sécurisation du ministère, munis d'une signalisation automatique lumineuse et sonore (SAL) et de moment (produit des trafics routier et ferroviaire) supérieur à 30 000, de feux à diodes pour améliorer la sécurité. L'objectif était de cibler les PN qui présentent le plus de risques. Un module à diodes a donc été développé, puis homologué, pour équiper les PN. Suite à l'accident d'Allinges de juin 2008, la mesure 17 du plan de sécurisation des passages à niveau a proposé d'équiper tous les PN automatiques de feux à diodes à la place des ampoules à filaments. Aujourd'hui, Réseau ferré de France a équipé 1 207 passages à niveau de modules à diodes et, selon les critères définis en 2007, 1 559 autres PN seront équipés prochainement. Le coût d'équipement d'un PN qui comporte 4 feux en modules à diodes est de l'ordre de 10 000 € en raison de contraintes techniques pour modifier l'installation. RFF a décidé en 2009 de confier à la SNCF une étude de mise au point d'une lampe à diodes à forte puissance pour un coût réduit. La mise au point définitive de cette lampe, avec un fabricant, a nécessité des essais sur un site SNCF durant plusieurs mois avant d'aboutir à l'homologation qui interviendra en 2015. Ces lampes d'un coût très réduit par rapport au module à diodes, de l'ordre de 100 € chacune, équiperont progressivement les 8 540 passages à niveau automatiques restants en lieu et place des ampoules à filament dans le cadre de la maintenance préventive courante, car il n'y a pas besoin d'étude, ni de modification de câblage ni d'essais de mise en service.
