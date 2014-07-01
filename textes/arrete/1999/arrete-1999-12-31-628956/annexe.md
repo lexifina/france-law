@@ -4,9 +4,7 @@ LISTE DES DISPOSITIFS MÉDICAUX À USAGE INDIVIDUEL REMBOURSABLES AU TITRE DE LA
 
 Optique
 
-La prise en charge des verres, de la monture et des suppléments est assurée dans la limite d'une attribution maximale par an, sauf pour les enfants de moins de six ans ou en cas d'aphakie, cas dans lesquels la prise en charge peut être assurée à un rythme annuel supérieur.
-
-La liste des équipements pris en charge (montures et verres) ainsi que leur prix limite de vente, le cas échéant en sus des tarifs, sont fixés conformément aux tableaux suivants :
+La prise en charge des verres et de la monture est assurée dans la limite d'une attribution maximale par an, sauf pour les enfants de moins de six ans ou en cas d'aphakie, cas dans lesquels la prise en charge peut être assurée à un rythme annuel supérieur. La liste des équipements pris en charge (montures et verres) ainsi que leur prix limite de vente, le cas échéant en sus des tarifs, sont fixés conformément aux tableaux suivants :
 
 I. - Avant le dix-huitième anniversaire
 
@@ -14,11 +12,21 @@ NOMENCLATURE
 
 |
 
-CODES DE SAISIE
+CODES DE PRESTATIONS
 
 |
 
-CODES TIPS
+CODES LPP
+
+|
+
+MONTANT
+
+maximum pris en charge
+
+en sus du tarif
+
+(en euros)
 
 |
 
@@ -30,27 +38,19 @@ de vente
 
 |
 
-MONTANT
-
-maximum pris
-
-en charge
-
-en sus du tarif
-
-(en euros)
-
-|
-
 Monture
 
 |
 
-LUN
+OME
 
 |
 
-202A01
+2210546
+
+|
+
+-
 
 |
 
@@ -58,19 +58,21 @@ LUN
 
 |
 
+Sphère allant de - 6,00 à + 6,00
+
+|
+
+OV1
+
+|
+
+2261874
+
+2242457
+
+|
+
 -
-
-|
-
-Sphère de - 6 à + 6
-
-|
-
-VER
-
-|
-
-202A00.11
 
 |
 
@@ -78,47 +80,51 @@ VER
 
 |
 
--
+Sphère allant de - 6,25 à - 10,00 ou de + 6,25 à + 10,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-Sphère de - 6,25 à - 10,00 ou de + 6,25 à + 10,00
+OV2
 
 |
 
-VER
+2243540
+
+2243304
+
+2297441
+
+2291088
 
 |
 
-202A00.12
+13,34
 
 |
 
-26,68
+40,02
 
 |
 
--
+Sphère située en dehors de la zone allant de - 10,00 à + 10,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-Sphère située en dehors de la zone - 10,00 à + 10,00
+OV3
 
 |
 
-VER
+2273854
+
+2248320
 
 |
 
-202A00.13
+22,48
 
 |
 
-44,97
-
-|
-
--
+67,45
 
 |
 
@@ -126,11 +132,17 @@ Cylindre inférieur ou égal à + 4,00 et de sphère allant de - 6,00 à + 6,00
 
 |
 
-VER
+OV4
 
 |
 
-202A00.21
+2200393
+
+2270413
+
+|
+
+-
 
 |
 
@@ -138,67 +150,69 @@ VER
 
 |
 
--
+Cylindre inférieur ou égal à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-Cylindre inférieur ou égal à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
+OV5
 
 |
 
-VER
+2283953
+
+2219381
 
 |
 
-202A00.22
+18,14
 
 |
 
-36,28
+54,42
 
 |
 
--
+Cylindre supérieur à + 4,00 et de sphère allant de - 6,00 à + 6,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-Cylindre supérieur à + 4,00 et de sphère allant de - 6,00 à + 6,00
+OV6
 
 |
 
-VER
+2238941
+
+2268385
 
 |
 
-202A00.23
+13,95
 
 |
 
-27,90
+41,85
 
 |
 
--
+Cylindre supérieur à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-Cylindre supérieur à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
+OV7
 
 |
 
-VER
+2245036
+
+2206800
 
 |
 
-202A00.24
+23,25
 
 |
 
-46,50
-
-|
-
--
+69,75
 
 |
 
@@ -206,11 +220,17 @@ Sphère allant de - 4,00 à + 4,00
 
 |
 
-VER
+OV8
 
 |
 
-202A00.31
+2259245
+
+2264045
+
+|
+
+-
 
 |
 
@@ -218,27 +238,25 @@ VER
 
 |
 
--
+Sphère située en dehors de la zone allant de - 4,00 à + 4,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-Sphère située en dehors de la zone allant de - 4,00 à + 4,00
+OV9
 
 |
 
-VER
+2238792
+
+2202452
 
 |
 
-202A00.32
+21,65
 
 |
 
-43,30
-
-|
-
--
+64,95
 
 |
 
@@ -246,11 +264,17 @@ Quelle que soit la puissance du cylindre et pour une sphère allant de - 8,00 à
 
 |
 
-VER
+OVA
 
 |
 
-202A00.41
+2240671
+
+2282221
+
+|
+
+-
 
 |
 
@@ -258,57 +282,53 @@ VER
 
 |
 
--
+Quelle que soit la puissance du cylindre et pour une sphère située en dehors de la zone allant de - 8,00 à + 8,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-Quelle que soit la puissance du cylindre et pour une sphère située en dehors de la zone allant de - 8,00 à + 8,00
+OVB
 
 |
 
-VER
+2234239
+
+2259660
 
 |
 
-202A90.42
+33,31
 
 |
 
-66,62
+99,93
 
 |
 
--
-
-|
-
-II. - A partir du dix-huitième anniversaire
+II. - A compter du dix-huitième anniversaire
 
 NOMENCLATURE
 
 |
 
-CODES
-
-liquidation
+CODES DE PRESTATIONS
 
 |
 
-CODES TIPS
+CODES LPP
 
 |
 
-MONTANT maximum pris
+MONTANT
 
-en charge en sus
+maximum pris en charge
 
-du tarif
+en sus du tarif
 
 (en euros)
 
 |
 
-PRIX LIMITE
+PRIX LIMITES
 
 de vente
 
@@ -324,11 +344,11 @@ OPM
 
 |
 
-202A01
+2223342
 
 |
 
-20,02
+20,03
 
 |
 
@@ -336,7 +356,7 @@ OPM
 
 |
 
-Sphère de - 6 à + 6
+Sphère allant de - 6,00 à + 6,00
 
 |
 
@@ -344,7 +364,9 @@ OP1
 
 |
 
-202A00.11
+2203240
+
+2287916
 
 |
 
@@ -352,47 +374,55 @@ OP1
 
 |
 
-15,85
+15,86
 
 |
 
-Sphère de - 6,25 à - 10,00 ou de + 6,25 à + 10,00
+Sphère allant de - 6,25 à - 10,00 ou de + 6,25 à + 10,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-0P3
+OP3
 
 |
 
-202A00.12
+2282793
+
+2280660
+
+2263459
+
+2265330
 
 |
 
-22,56
+35,90
 
 |
 
-26,68
+40,02
 
 |
 
-Sphère située en dehors de la zone - 10,00 à + 10,00
+Sphère située en dehors de la zone allant de - 10,00 à + 10,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-0P3
+OP3
 
 |
 
-202A00.13
+2235776
+
+2295896
 
 |
 
-19,06
+32,40
 
 |
 
-26,68
+40,02
 
 |
 
@@ -400,11 +430,13 @@ Cylindre inférieur ou égal à + 4,00 et de sphère allant de - 6,00 à + 6,00
 
 |
 
-0P2
+OP2
 
 |
 
-202A00.21
+2259966
+
+2226412
 
 |
 
@@ -416,63 +448,69 @@ Cylindre inférieur ou égal à + 4,00 et de sphère allant de - 6,00 à + 6,00
 
 |
 
-Cylindre inférieur à égal à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
+Cylindre inférieur ou égal à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-0P3
+OP3
 
 |
 
-202A00.22
+2284527
+
+2254868
 
 |
 
-19,82
+33,16
 
 |
 
-26,68
+40,02
 
 |
 
-Cylindre supérieur à + 4,00 et de sphère allant de - 6,00 à + 6,00
+Cylindre supérieur à + 4,00 et de sphère allant de - 6,00 à + 6,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-0P3
+OP3
 
 |
 
-202A00.23
+2212976
+
+2252668
 
 |
 
-20,43
+33,77
 
 |
 
-26,68
+40,02
 
 |
 
-Cylindre supérieur à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00
+Cylindre supérieur à + 4,00 et de sphère située en dehors de la zone allant de - 6,00 à + 6,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-0P3
+OP3
 
 |
 
-202A00.24
+2288519
+
+2299523
 
 |
 
-17,23
+30,57
 
 |
 
-26,68
+40,02
 
 |
 
@@ -480,11 +518,13 @@ Sphère allant de - 4,00 à + 4,00
 
 |
 
-0P4
+OP4
 
 |
 
-202A00.31
+2290396
+
+2291183
 
 |
 
@@ -492,27 +532,29 @@ Sphère allant de - 4,00 à + 4,00
 
 |
 
-47,92
+41,93
 
 |
 
-Sphère située en dehors de la zone allant de - 4,00 à + 4,00
+Sphère située en dehors de la zone allant de - 4,00 à + 4,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-0P4
+OP7
 
 |
 
-202A00.32
+2245384
+
+2295198
 
 |
 
-31,10
+52,06
 
 |
 
-41,92
+62,88
 
 |
 
@@ -520,11 +562,13 @@ Quelle que soit la puissance du cylindre et pour une sphère allant de - 8,00 à
 
 |
 
-0P5
+OP5
 
 |
 
-202A00.41
+2227038
+
+2299180
 
 |
 
@@ -536,22 +580,24 @@ Quelle que soit la puissance du cylindre et pour une sphère allant de - 8,00 à
 
 |
 
-Quelle que soit la puissance du cylindre et pour une sphère allant de - 8,00 à + 8,00
+Quelle que soit la puissance du cylindre et pour une sphère située en dehors de la zone allant de - 8,00 à + 8,00 avec amincissement d'un indice au moins égal à 1,6
 
 |
 
-0P6
+OP6
 
 |
 
-202A00.42
+2202239
+
+2252042
 
 |
 
-32,62
+61,21
 
 |
 
-57,17
+85,75
 
 |
