@@ -1,0 +1,9 @@
+# Réponse à la question n° 36499
+
+- Question : [36499](36499.md) — Question n° 36499 — perspectives
+
+## Réponse
+
+*JO du 2014-07-01*
+
+C'est en toute indépendance que l'Académie nationale de médecine a souhaité créer dans le cadre de sa mission de santé publique, un groupe de travail intitulé « assistance médicale à la procréation et gestation pour autrui ». Ces travaux, comme d'ailleurs ceux d'autres organismes, s'inscrivent dans un contexte de réflexion générale sur ces questions, qui ont cours depuis nombre d'années, tant en France qu'à l'étranger. Ces travaux sont rendus nécessaires par les progrès de la science et les questions éthiques qu'ils engendent. Ils ont ainsi vocation à enrichir le débat public et ne préjugent pas de la position du Gouvernement à l'égard de ces sujets. En particulier, ils ne remettent pas en cause la prohibition des conventions de gestation pour le compte d'autrui, prévue à l'article 16-7 du code civil. A cet égard, l'ouverture éventuelle de l'assistance médicale à la procréation aux couples de femmes constitue, au regard de l'évolution de la société actuelle qu'illustre l'adoption de la loi qui a ouvert le mariage et l'adoption aux couples de personnes de même sexe, une interrogation distincte de celle de la gestation pour autrui. Au regard de la complexité de cette question qui comporte des enjeux éthiques dépassant la demande des couples de personnes de même sexe, le Président de la République a fait le choix de saisir pour avis le comité consultatif national d'éthique pour les sciences de la vie et de la santé (CCNE). Celui-ci devrait engager une réflexion plus large que la seule question de l'ouverture de l'assistance médicale à la procréation aux couples de femmes, afin de tenter d'apporter une réponse aux différents enjeux soulevés par les progrès de la science en la matière. Les conclusions du CCNE constitueront un support essentiel à la réflexion du Gouvernement en la matière.
