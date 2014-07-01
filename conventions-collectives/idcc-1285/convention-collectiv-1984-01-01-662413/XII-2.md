@@ -240,6 +240,8 @@ XII. 2. 1. 9. Prestations
 
 Les remboursements des frais interviennent en complément de ceux effectués par la sécurité sociale et d'éventuels organismes complémentaires et dans la limite des frais réellement engagés.
 
+Le bénéfice des prestations est ouvert aux salariés de plus de 6 mois d'ancienneté dans l'entreprise.
+
 XII. 2. 1. 9. a. Frais médicaux courants effectués dans le cadre du respect du parcours de soins coordonnés
 
 Consultations généralistes, spécialistes, neuropsychiatre du secteur conventionné ou non :
@@ -261,8 +263,6 @@ Détartrage annuel complet sus et sous-gingival effectué en 2 séances maximum 
 Dépistage une fois tous les 5 ans des troubles de l'audition chez les personnes âgées de plus de 50 ans pour un de ces actes : audiométrie tonale ou vocale, audiométrie tonale avec tympanométrie, audiométrie vocale dans le bruit, audiométrie tonale et vocale, audiométrie tonale et vocale avec tympanométrie : 100 % du ticket modérateur.
 
 Ostéodensitométrie remboursable par la sécurité sociale limitée aux femmes de plus de 50 ans, une fois tous les 6 ans : 100 % du ticket modérateur.
-
-Le bénéfice des prestations est ouvert à l'issue d'une période de carence de 12 mois continus d'ancienneté dans l'entreprise.
 
 Ne pourront donner lieu à prise en charge les dépenses suivantes :
 
