@@ -1,0 +1,9 @@
+# Réponse à la question n° 23525
+
+- Question : [23525](23525.md) — Question n° 23525 — loi n° 2005-102 du 11 février 2005; mise en oeuvre; bilan et perspectives
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Le Gouvernement est attentif au respect des droits des travailleurs sociaux, comme à la situation parfois difficile des proches aidants. Il est parfois difficile d'atteindre un point d'équilibre entre ces deux aspects. En créant la prestation de compensation du handicap (PCH) en 2005, le législateur a souhaité que le tarif prenne en considération le coût réel de la rémunération de l'aide à domicile mais sans nécessairement le couvrir intégralement. Ce principe vaut également en cas de décès du bénéficiaire. La convention nationale des salariés du particulier employeur du 24 novembre 1999 prévoit par ailleurs que le contrat ne se poursuit pas automatiquement avec les héritiers. La date du décès fixe alors le point de départ du préavis pour le calcul des indemnités dues au salarié : le dernier salaire, les indemnités de préavis et de licenciement auxquelles le salarié peut prétendre compte tenu de son ancienneté lorsque l'employeur décède, ainsi que l'indemnité de congés payés. Le droit à la PCH cesse à compter du 1er jour du mois qui suit le décès. La période de préavis due au salarié dans le cadre de son licenciement peut être prise en compte pour le calcul de l'élément de la PCH lié à des aides humaines dès lors que cette période de préavis n'excède pas la fin du mois au cours duquel le décès est intervenu. La PCH est systématiquement versée pour un nombre d'heures d'aide correspondant au mois du décès entier, sans vérification de l'effectivité de l'aide apportée pendant le mois en question. Cela signifie qu'une partie de l'aide versée pour ce mois ne correspond pas à des heures réellement effectuées et vient donc financer une partie du préavis et des indemnités dues aux salariés.
