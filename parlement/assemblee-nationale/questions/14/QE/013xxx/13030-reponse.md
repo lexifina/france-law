@@ -1,0 +1,9 @@
+# Réponse à la question n° 13030
+
+- Question : [13030](13030.md) — Question n° 13030 — extraction maritime; émissions de soufre
+
+## Réponse
+
+*JO du 2014-07-01*
+
+La directive 2012/33, adoptée le 21 novembre 2012, transpose en droit européen les nouvelles normes de teneur en soufre des carburants marins adoptées en 2008 par l'Organisation maritime internationale (OMI). Conformément à l'annexe VI de la convention MARPOL (marine pollution) de l'OMI ainsi modifiée et à la directive, les navires opérant dans les zones de contrôle des émissions de soufre (SECA) devront utiliser du carburant marin d'une teneur en soufre maximale de 0,1 % à partir du 1er janvier 2015. La directive 2012/33 ne prévoit pas la possibilité pour les États membres de solliciter une exemption à l'OMI. Elle prévoit seulement, dans son article 4bis paragraphe 1, que la Commission européenne devra tenir compte des éventuelles modifications pouvant intervenir dans l'annexe VI de la convention MARPOL concernant les taux de soufre applicables en SECA, et, le cas échéant proposer de modifier la directive. Par ailleurs, l'annexe VI de la convention MARPOL ne prévoit pas la possibilité pour des États parties de solliciter des exemptions. Seules les règles 3 et 4 prévoient des dispositifs dérogatoires. La règle 3 donne la possibilité à l'État du pavillon d'exempter de l'application des dispositions de l'annexe VI un navire, pour lui permettre d'effectuer des essais aux fins de recherche, pour une durée de 18 mois ou cinq ans. La règle, 4, quant à elle, permet à l'État du pavillon d'autoriser les navires à utiliser des mesures ou méthodes équivalentes, par exemple des épurateurs de fumée, à condition que celles-ci soient au moins aussi efficaces, du point de vue de la réduction des émissions, que l'utilisation de carburant à faible teneur en soufre.
