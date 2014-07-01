@@ -1,0 +1,9 @@
+# Article 1er
+
+L'article 1.1 de l'accord du 18 mars 2011 est modifié comme suit :
+
+« Les bénéficiaires de ces garanties sont les agents en activité, en contrat à durée indéterminée ou déterminée ou en contrat de travail aidé, régis par la convention collective nationale de Pôle emploi et ceux relevant du décret statutaire de 2003, ainsi que les fonctionnaires détachés. Ces garanties s'appliquent quelle que soit la nature du contrat de l'agent, sans condition d'ancienneté.
+
+Selon les dispositions de la loi du 13 août 2004 et dans le cadre du contrat responsable, les agents concernés doivent cotiser au titre des garanties obligatoires instituées par le présent accord. Conformément à l'article R. 242-1-6 du code de la sécurité sociale, les agents sous contrat à durée déterminée peuvent bénéficier, sur leur demande expresse, d'une dispense d'affiliation sous réserve qu'ils justifient être couverts, pour les mêmes risques, par une assurance individuelle. Les agents sous contrat à durée déterminée doivent formuler leur demande de dispense auprès de Pôle emploi à la signature de leur contrat de travail et après qu'ils ont reçu les notices d'information sur les régimes frais de soins de santé et prévoyance. L'affiliation et la dispense sont définitives pour toute la durée de celui-ci. »
+
+Cette modification s'applique à compter du 1er juillet 2014.
