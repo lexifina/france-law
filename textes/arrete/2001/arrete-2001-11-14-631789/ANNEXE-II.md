@@ -8,9 +8,7 @@ de fourrière
 
 |
 
-CATÉGORIES
-
-de véhicules
+CATÉGORIES DE VÉHICULES
 
 |
 
@@ -156,7 +154,7 @@ Voitures particulières
 
 |
 
-115,10
+116,56
 
 |
 
@@ -208,7 +206,7 @@ Voitures particulières
 
 |
 
-6,10
+6,18
 
 |
 
@@ -228,7 +226,9 @@ Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non s
 
 |
 
-Expertise |
+Expertise
+
+|
 
 Véhicules PL 44 t ≥ PTAC > 19 t
 
