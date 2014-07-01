@@ -1,0 +1,9 @@
+# Réponse à la question n° 14087
+
+- Question : [14087](14087.md) — Question n° 14087 — réinsertion; fonctionnement; Brest
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Depuis sa nomination, la garde des sceaux, ministre de la justice, a choisi de mener sa politique pénitentiaire dans une vision de prise en charge globale de la personne, autour de trois axes que sont la rénovation et l'extension du parc pénitentiaire, la réinsertion, et la sécurité. S'agissant plus précisément de ce dernier point, elle a présenté le 3 juin 2013 un plan de sécurisation des établissements sans précédent, portant sur 33 millions d'euros, qui s'appuie sur le déploiement de moyens matériels supplémentaires, une refonte des pratiques professionnelles et une intensification des partenariats. La précédente majorité avait annoncé la neutralisation des miradors de la maison d'arrêt de Brest. Après une nouvelle concertation avec les organisations professionnelles locales, la garde des sceaux a finalement décidé de leur maintien et de leur mise aux normes. Le projet de construction du quartier nouveau concept (QNC), rattaché à la maison d'arrêt de Brest, se poursuit par ailleurs, avec un lancement prévu en 2015 et une mise en service programmée début 2017. Le besoin en emplois, tel qu'il a été déterminé par la direction de l'administration pénitentiaire, est de 34 équivalents temps plein, se répartissant de la façon suivante : 25 surveillants, 3 premiers surveillants, 1 major, 1 officier, 2 conseillers pénitentiaires d'insertion et de probation, 1 technicien et 1 adjoint administratif. Il offrira 90 places unitaires, réparties en 3 unités de 30 places flexibles, et sera réservé aux courtes peines, aux peines aménagées et à la semi-liberté, là encore en cohérence avec la politique pénale menée par ce gouvernement et notamment avec le projet de loi de prévention de la récidive et d'individualisation des peines.
