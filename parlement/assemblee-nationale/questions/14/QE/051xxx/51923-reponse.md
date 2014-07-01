@@ -1,0 +1,9 @@
+# Réponse à la question n° 51923
+
+- Question : [51923](51923.md) — Question n° 51923 — moteurs de recherche; concurrence; respect
+
+## Réponse
+
+*JO du 2014-07-01*
+
+En 2010, la Commission européenne a été saisie par des sociétés plaignantes, dont plusieurs françaises, pour des pratiques de Google sur les marchés de la recherche internet et de la publicité en ligne. La Commission a conclu à l'existence de quatre pratiques commerciales mises en oeuvre par Google pouvant constituer des pratiques d'abus de position dominante. Google a alors proposé un ensemble d'engagements qui ont été soumis aux plaignants et à d'autres acteurs du marché. La commission a considéré que les engagements n'étaient pas suffisants. En février 2014, Google a présenté une seconde proposition modifiée. Dans sa proposition, Google accepte désormais de garantir que lorsqu'elle promeut ses propres services de recherche spécialisés sur sa page web (par exemple pour des produits, des hôtels, des restaurants, etc.), les services de trois concurrents, sélectionnés au moyen d'une méthode objective, apparaissent de manière clairement visible pour les utilisateurs et selon une présentation comparable à celle utilisée pour ses propres services. Ce principe s'appliquera non seulement aux services de recherche spécialisés existants, mais aussi à tout changement de présentation de ces services et aux services futurs. La Commission estime que la proposition de Google est de nature à remédier aux problèmes qu'elle a identifiés. Les plaignants ont maintenant la possibilité de faire connaître leur point de vue à la Commission avant que cette dernière prenne une décision finale. En application du règlement n° 1/2003, la Commission européenne est tenue de consulter les représentants des autorités nationales de concurrence - l'autorité de la concurrence pour la France - avant d'adopter toute décision individuelle en matière d'entente ou d'abus de position dominante.
