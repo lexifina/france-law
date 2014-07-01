@@ -1,0 +1,9 @@
+# Réponse à la question n° 26126
+
+- Question : [26126](26126.md) — Question n° 26126 — nombre; bilan
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Le décret n° 2012-1087 du 27 septembre 2012 modifiant l'annexe 7-2 du livre VII du code de commerce (partie réglementaire) fixant le nombre des juges et le nombre des chambres des tribunaux de commerce a permis d'augmenter les effectifs du tribunal de commerce de Gap, faisant passer le nombre de juges de 9 à 11. Ce décret fait suite à une demande en ce sens du président du tribunal de commerce de Gap transmise à la garde des sceaux par le premier président de la cour d'appel de Grenoble et le procureur général près ladite cour. Les demandes des tribunaux de commerce tendant à l'augmentation de leur effectif ou du nombre des chambres doivent effectivement, après que l'assemblée générale en ait délibéré, être transmises aux chefs de la cour d'appel qui les communiquent, accompagnées de leur avis, à la garde des sceaux. La requête doit indiquer de façon très précise l'augmentation sollicitée, la date du décret ayant modifié en dernier lieu l'effectif ou le nombre de chambres du tribunal de commerce et l'évolution, depuis la date de ce décret, du contentieux dont la juridiction a été saisie. Cette procédure permet ainsi, grâce à l'appréciation des éléments circonstanciés communiqués par les juridictions, d'adapter le nombre de juges et de chambres des tribunaux de commerce à l'évolution réelle de leur activité. La mise en oeuvre de cette procédure ne soulève pas de difficulté particulière. La garde des sceaux est ainsi saisie, tous les ans, de plusieurs demandes de modification de l'annexe 7-2 du livre VII du code de commerce (3, par exemple, en 2012). Ces demandes, lorsqu'elles sont fondées, conduisent à l'ajustement du nombre de juges ou de chambres à l'évolution de l'activité des juridictions concernées par l'adoption d'un décret modifiant l'annexe 7-2 précité.
