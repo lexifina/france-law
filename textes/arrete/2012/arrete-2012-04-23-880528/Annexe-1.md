@@ -612,7 +612,7 @@ L'accompagnateur a préalablement positionné la remorque (ou semi-remorque pour
 
 Pour la catégorie CE, la suspension du véhicule tracteur est maintenue en position "route" et, en présence d'un porteur équipé d'une barre anti-encastrement, celle-ci est en place.
 
-Pour les catégories CE, D1E et DE, les différentes phases, à l'exception de la phase "compatibilité", sont traitées dans l'ordre de numérotation de la fiche de recueil (annexe 7).
+Pour les catégories CE, D1E et DE, les différentes phases sont traitées dans l'ordre de numérotation de la fiche de recueil (annexe 7).
 
 Pour la catégorie C1E, qui ne contient pas la phase de l'interrogation orale, le même principe est appliqué.
 
@@ -694,27 +694,7 @@ Notation 1 : vérification réalisée.
 
 Notation 0 : non réalisée.
 
-5. Compatibilité :
-
-Le candidat vérifie la compatibilité :
-
-- des systèmes d'attelage ;
-
-- des connexions électriques ;
-
-- des connexions pneumatiques ;
-
-- des distances (catégorie CE) ;
-
-- des poids.
-
-Notation 2 : ensemble des éléments de compatibilité correctement restitué.
-
-Notation 1 : un élément oublié ou erroné (sauf poids).
-
-Notation 0 : compatibilité des poids erronée ou oubliée ; plus d'un autre élément erroné ou oublié.
-
-6. Contrôles remorque :
+5. Contrôles remorque :
 
 Etat général de la caisse : le candidat s'assure de l'absence d'anomalie extérieure concernant la caisse ou la bâche de la remorque pour la face avant, les côtés, l'arrière.
 
@@ -740,7 +720,7 @@ Notation 1 : vérification réalisée.
 
 Notation 0 : non réalisée.
 
-7. Mise en marche du moteur :
+6. Mise en marche du moteur :
 
 Le candidat met le moteur en marche. Il annonce les voyants restés allumés et signale immédiatement toute anomalie.
 
@@ -754,7 +734,7 @@ Notation 1 : actions et annonces réalisées.
 
 Notation 0 : une action ou annonce non réalisée.
 
-8. Positionnement du véhicule tracteur :
+7. Positionnement du véhicule tracteur :
 
 Le candidat positionne son véhicule dans l'alignement de la remorque.
 
@@ -767,6 +747,26 @@ CE semi-remorque : le candidat positionne le tracteur dans l'alignement de la se
 Pour toutes les catégories, le candidat veille à conserver une distance suffisante lui permettant de circuler aisément entre la remorque et l'extrémité arrière du tracteur.
 
 Le candidat modifie éventuellement la hauteur de suspension.
+
+8. Compatibilité :
+
+Le candidat vérifie la compatibilité :
+
+- des systèmes d'attelage ;
+
+- des connexions électriques ;
+
+- des connexions pneumatiques ;
+
+- des distances (catégorie CE) ;
+
+- des poids.
+
+Notation 2 : ensemble des éléments de compatibilité correctement restitué.
+
+Notation 1 : un élément oublié ou erroné (sauf poids).
+
+Notation 0 : compatibilité des poids erronée ou oubliée ; plus d'un autre élément erroné ou oublié.
 
 9. Attelage :
 
@@ -1006,7 +1006,7 @@ Pour la catégorie CE semi-remorque :
 
 - le candidat avance à mi-sellette ; ou
 
-- après dégagement de la cheville ouvrière, baisse la suspension pneumatique jusqu'au décollement complet de la sellette d'attelage.
+- après dégagement de la cheville ouvrière, baisse la suspension pneumatique jusqu'au décollement de la sellette d'attelage.
 
 Il s'assure de la stabilité de la semi-remorque.
 
@@ -1032,7 +1032,7 @@ VI-1. - Ordre chronologique des opérations
 
 L'accompagnateur a préalablement positionné la remorque au point A de la fiche de maniabilité. Il a procédé au dételage de l'ensemble et placé le véhicule tracteur et la remorque côte à côte dans les limites de l'aire d'évolution, de manière que les deux plaques de tares puissent être lisibles depuis un même point par le candidat.
 
-Les différentes phases, à l'exception de la phase "compatibilité", sont traitées dans l'ordre de numérotation de la fiche de recueil (annexe 8).
+Les différentes phases sont traitées dans l'ordre de numérotation de la fiche de recueil (annexe 8).
 
 A l'intérieur de chaque phase, le candidat n'est pas tenu de respecter un ordre particulier à l'exception des opérations suivantes :
 
@@ -1202,7 +1202,7 @@ Notation 0 : une ou plusieurs vérifications erronées ou non réalisées.
 
 11. Thème tiré au sort :
 
-Thème 1 : documents de bord, triangle, extincteur :
+Thème 1 : documents de bord, triangle :
 
 Le candidat présente le contenu des porte-documents présents dans le véhicule :
 
