@@ -1,0 +1,9 @@
+# Réponse à la question n° 44192
+
+- Question : [44192](44192.md) — Question n° 44192 — entreprises solidaires; fiscalité
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Les régimes accordant une réduction de l'impôt sur la fortune (ISF) ou de l'impôt sur le revenu (IRPP) aux personnes physiques investissant dans certaines catégories de petites et moyennes entreprises (PME), directement ou à travers des fonds de capital-investissement, sont soumis à la réglementation européenne relative aux aides d'Etat. Ils sont à ce titre soumis au plafond d'investissement par entreprise investie de 2,5 millions d'euros sur douze mois glissants. Cependant, la France a pu faire valoir auprès de la Commission européenne ses arguments en faveur d'un assouplissement des règles s'appliquant aux aides au capital-investissement, dans le cadre du programme de modernisation de la politique de l'Union européenne en matière d'aide d'Etat. Les autorités françaises ont en particulier demandé un assouplissement significatif du plafond d'investissement, - qui constitue en effet une contrainte importante, alors même que l'accès aux financements en fonds propres demeure difficile pour les PME, et en particulier les PME solidaires -, et la fin de son caractère annualisé. La finalisation et l'adoption du nouveau règlement général d'exemption par catégorie (RGEC), qui fixe le plafond, sont prévues pour le mois de juillet 2014. Par ailleurs, il convient de rappeler que le plafond n'est par dérogation pas applicable aux versements au titre de souscriptions au capital d'entreprises solidaires exerçant leur activité dans le secteur du logement social à destination des personnes les plus défavorisées, sous les conditions précisées au VI de l'article 885 0 V bis (pour la réduction ISF) et au VI quinquies de l'article 199 terdecies-0 A (pour la réduction d'impôt sur le revenu) du code général des impôts.
