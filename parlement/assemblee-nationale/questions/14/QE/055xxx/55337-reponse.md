@@ -1,0 +1,9 @@
+# Réponse à la question n° 55337
+
+- Question : [55337](55337.md) — Question n° 55337 — revendications
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Dans le cadre de la politique agricole commune réformée, la revalorisation de l'indemnité compensatoire de handicap naturel (ICHN) de 15 % dès 2014, les aides couplées destinées à la production de protéines végétales et le plan pour la compétitivité et l'adaptation des exploitations, via la modernisation des bâtiments d'élevage, sont les principaux leviers qui doivent permettre à la filière porcine de montagne de conforter la place qui est la sienne dans l'économie locale. Par ailleurs, la réflexion sur le soutien à la filière porc de montagne par l'ICHN a débouché sur la proposition d'adapter les critères d'attribution de cette mesure afin que les producteurs porcins des zones de montagne puissent en bénéficier (prise en compte des surfaces de céréales auto consommées par les porcins, intégration dans l'ICHN des éleveurs spécialisés en porc). De plus, l'ICHN fera l'objet d'une majoration pour les éleveurs de porc, à l'image de la majoration appliquée pour les éleveurs ovins. Cette orientation constitue une façon de prendre en compte la problématique de l'origine de l'alimentation des porcs de montagne, de compenser le surcoût de production qui pénalise la compétitivité de ce secteur de production, et de conforter son rôle dans le maintien des outils d'abattage locaux. Ces éléments ont été intégrés dans le cadre national transmis à la Commission européenne pour approbation, en vue de l'adoption des nouveaux programmes de développement rural pour la période 2014-2020. Enfin, l'État via l'établissement public FranceAgriMer continue à encourager et accompagner financièrement le projet structurant de la filière porcine de montagne, notamment via la promotion collective de la marque « origine montagne ».
