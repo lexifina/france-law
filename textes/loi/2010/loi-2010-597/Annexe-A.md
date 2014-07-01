@@ -1,42 +1,38 @@
 # Article Annexe A
 
-LISTE DES COMMUNES INCLUSES DANS LE PÉRIMÈTRE D'INTERVENTION DE L'ÉTABLISSEMENT PUBLIC DE PARIS-SACLAY
-
-Communes du département de l'Essonne
-
-Ballainvilliers.
+LISTE DES COMMUNES CONSTITUANT LE PÉRIMÈTRE D'INTERVENTION DE L'ÉTABLISSEMENT PUBLIC D'AMÉNAGEMENT DE PARIS-SACLAY
 
 Bièvres.
+
+Buc.
 
 Bures-sur-Yvette.
 
 Champlan.
 
+Châteaufort.
+
 Chilly-Mazarin.
 
-Epinay-sur-Orge.
+Elancourt.
 
 Gif-sur-Yvette.
 
-Gometz-le-Châtel.
+Guyancourt.
 
-Igny.
+Jouy-en-Josas.
 
-Linas.
+La Verrière.
 
-Longjumeau.
+Les Loges-en-Josas.
 
-Longpont-sur-Orge.
+Les Ulis.
 
-Marcoussis.
+Magny-les-Hameaux.
 
 Massy.
 
-Morangis.
-
-Montlhéry.
-
-Nozay.
+Montigny-le-Bretonneux.
 
 Orsay.
 
@@ -46,60 +42,20 @@ Saclay.
 
 Saint-Aubin.
 
-Saulx-les-Chartreux.
+Toussus-le-Noble.
 
-Les Ulis.
+Trappes.
 
 Vauhallan.
 
-Villebon-sur-Yvette.
+Versailles.
 
-La-Ville-du-Bois.
+Villebon-sur-Yvette.
 
 Villejust.
 
 Villiers-le-Bâcle.
 
-Wissous.
+NOTA :
 
-Communes du département des Yvelines
-
-Bois-d'Arcy.
-
-Buc.
-
-Châteaufort.
-
-Le Chesnay.
-
-Elancourt.
-
-Fontenay-le-Fleury.
-
-Guyancourt.
-
-Jouy-en-Josas.
-
-Les-Loges-en-Josas.
-
-Magny-les-Hameaux.
-
-Montigny-le-Bretonneux.
-
-Rocquencourt.
-
-Saint-Cyr-l'Ecole.
-
-Toussus-le-Noble.
-
-Trappes.
-
-Vélizy-Villacoublay.
-
-Versailles.
-
-La Verrière.
-
-Viroflay.
-
-Voisins-le-Bretonneux.
+Conformément à l'article 25 VI de la loi n° 2014-58 du 27 janvier 2014, ces dispositions entrent en vigueur à compter de la publication du décret modificatif du décret 2010-911 du 3 août 2010 et au plus tard le 1er juillet 2014. A compter de cette date, l'Etablissement public de Paris-Saclay devient l'Etablissement public d'aménagement de Paris-Saclay.
