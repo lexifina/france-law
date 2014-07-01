@@ -1,0 +1,9 @@
+# Réponse à la question n° 39310
+
+- Question : [39310](39310.md) — Question n° 39310 — emploi d'avenir professeur; bilan
+
+## Réponse
+
+*JO du 2014-07-01*
+
+La loi n° 2012-1189 du 26 octobre 2012 portant création des emplois d'avenir a créé les emplois d'avenir professeur. Ceux-ci ont pour ambition de faciliter l'insertion professionnelle et la promotion sociale des jeunes dans les métiers du professorat en permettant à des étudiants boursiers d'exercer pendant leurs études des fonctions d'appui éducatif rémunérées dans les écoles et les établissements scolaires, tout en bénéficiant d'une entrée progressive dans le métier. La première campagne de recrutement d'étudiants en emplois d'avenir professeur a été ouverte une fois publié l'ensemble des textes d'application nécessaires à la mise en oeuvre de la loi, soit à partir de février 2013, avec un premier contingent de 4 000 emplois. La deuxième campagne ouverte à la rentrée scolaire 2013 a permis une montée en charge progressive du dispositif avec 6 000 emplois supplémentaires, répartis à raison de 3 000 pour le premier degré et 3 000 pour le second degré, afin d'atteindre un effectif de 10 000 EAP au titre de l'année scolaire 2013-2014. En application de l'article 5 de la loi du 26 octobre 2012, le Gouvernement doit transmettre chaque année deux rapports d'évaluation dressant le bilan de la mise en oeuvre, pour l'un des emplois d'avenir, et pour l'autre des emplois d'avenir professeur. Les services du ministère du travail, de l'emploi, de la formation professionnelle et du dialogue social sont chargés de préparer ces rapports, en liaison avec le ministère de l'éducation nationale pour ce qui concerne les emplois d'avenir professeur. Pour ces derniers, le bilan en cours d'élaboration permettra de présenter l'analyse relative aux vagues successives de recrutement.
