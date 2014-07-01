@@ -1,0 +1,35 @@
+# Article 1er
+
+L'article 13.5 du chapitre XIII est remplacé par les dispositions suivantes :
+
+« Article 13.5
+
+Incapacité temporaire de travail
+
+1. Définition de la garantie
+
+En cas d'incapacité de travail pour cause de maladie, accident, accident du travail, accident de trajet, maladie professionnelle pris en compte par la sécurité sociale, des indemnités journalières complémentaires sont versées dans les conditions définies ci-après :
+
+a) Les indemnités journalières sont versées en relais des obligations de l'employeur fixées à l'article 3.12 du chapitre III de la présente convention collective.
+
+b) Pour les salariés n'ayant pas l'ancienneté requise pour bénéficier des obligations de l'employeur fixées à l'article 3.12 du chapitre III de la présente convention collective les indemnités journalières sont versées à compter du 91e jour d'arrêt de travail continu ou discontinu.
+
+2. Montant de la prestation
+
+Le montant de la prestation est fixé à 68 % du salaire mensuel brut de référence, déduction faite des indemnités versées par la sécurité sociale et de tout autre régime de prévoyance.
+
+En tout état de cause, le cumul des sommes reçues au titre de la sécurité sociale, du régime de prévoyance ainsi que de tout autre revenu (salaire à temps partiel, allocations d'assurance chômage...) ne pourra conduire l'intéressé à percevoir une rémunération nette supérieure à celle qu'il aurait perçue s'il avait poursuivi son activité professionnelle.
+
+3. Durée de service des prestations
+
+Le service des indemnités journalières complémentaires cesse :
+
+– au plus tard au 1095e jour d'incapacité de travail ;
+
+– à la date de cessation de versement des indemnités journalières de la sécurité sociale ;
+
+– au décès du salarié ;
+
+– lors de la notification de classement en invalidité du salarié par la sécurité sociale ;
+
+– à la date d'effet de la liquidation de la pension vieillesse de la sécurité sociale du salarié (sauf pour les salariés cumulant une pension de retraite et un emploi et remplissant les conditions d'ouverture des droits aux prestations en espèces de la sécurité sociale). »
