@@ -1,0 +1,9 @@
+# Réponse à la question n° 50896
+
+- Question : [50896](50896.md) — Question n° 50896 — fret; perspectives
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Conscient des difficultés que connaît ce secteur, le Gouvernement est déterminé à redonner sa juste place au fret ferroviaire, dans le cadre d'une politique de report modal vers les modes de transport les plus respectueux de l'environnement. Les offres de services de transport ferroviaire doivent être en cohérence avec les attentes du marché dans toute sa diversité : le transport massif réalisé en trains complets, l'acheminement de wagons isolés, le transport combiné et les autoroutes ferroviaires. En plus du transport combiné rail-route et des autoroutes ferroviaires, le renforcement du partenariat avec le mode maritime constitue l'un des axes de développement du fret ferroviaire. Le maintien d'une offre de transport pour l'acheminement de wagons isolés, répondant à des besoins d'importants secteurs industriels comme la sidérurgie, l'automobile ou la chimie, est également indispensable. Pour accompagner et faciliter une nouvelle dynamique de développement du fret ferroviaire, le Gouvernement a décidé la mise en place d'une conférence ministérielle périodique réunissant l'ensemble des acteurs de ce secteur. La première réunion de cette conférence, qui s'est déroulée le 18 septembre 2013, a permis de lancer cette démarche de concertation par la mise en oeuvre de cinq groupes de travail, sur des thèmes structurants du fret ferroviaire. Les propositions d'actions concrètes émanant de ces groupes de travail qui ont été restituées lors de la deuxième réunion de la conférence le 12 février 2014 constituent désormais le socle d'un programme visant à redynamiser le transport de marchandises par voie ferrée. Une troisième réunion de la conférence pour le fret ferroviaire pourrait avoir lieu à l'automne 2014 pour réaliser un point d'étape sur la mise en oeuvre de ces actions.
