@@ -1,0 +1,9 @@
+# Réponse à la question n° 51330
+
+- Question : [51330](51330.md) — Question n° 51330 — Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2014-07-01*
+
+Les agents verbalisateurs de la police ou de la gendarmerie nationale, de même que les agents des collectivités territoriales engagées dans la démarche du Procès verbal électronique (PVe) ont émis en moyenne sur l'année 2013 environ dix-huit mille messages d'infractions par jour. L'analyse du suivi de l'activité de verbalisation a permis d'identifier les risques d'erreur lors de la saisie du relevé d' infraction par l'agent verbalisateur. Plusieurs modules ont ainsi été intégrés afin de les réduire, notamment par la sélection de la marque du véhicule au sein d'une liste fermée ou par une géolocalisation facilitant l' identification du lieu d'infraction. La reconnaissance de l'utilisateur au moyen d' une carte certifiée a permis également le renforcement de la sécurisation du dispositif. Préalablement à l'emploi des assistants personnels (PDA) ou équipements électroniques compatibles, chacun des utilisateurs reçoit une formation. L' Agence nationale de traitement automatisé des infractions (ANTAI), établissement public administratif placé sous la tutelle du ministère de l'intérieur, chargé du déploiement du PVe, assure la formation des formateurs internes des services de police et de gendarmerie. D'ores et déjà, les stagiaires des écoles de police et de gendarmerie reçoivent une formation dédiée à l'utilisation de ces outils. De plus, les évolutions du logiciel installé sur les terminaux de verbalisation font l'objet de notes explicatives à destination des chefs de services. Les mises à jour du manuel d'utilisation sont quant à elles régulièrement diffusées par l'ANTAI. Enfin, les prestataires privés des collectivités territoriales assurent la formation des agents de police municipale à l'utilisation des outils de verbalisation mis en oeuvre.
