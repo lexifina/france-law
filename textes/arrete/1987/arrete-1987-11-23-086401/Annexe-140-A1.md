@@ -26,7 +26,9 @@ DNV-GL AS
 
 |
 
-RINA Services s.p.a
+RINA
+
+Services s.p.a
 
 |
 
@@ -54,7 +56,7 @@ Permis de navigation
 
 |
 
-Visites relatives au franc-bord/ Certificat de franc-bord
+Visites relatives au franc-bord/Certificat de franc-bord
 
 |
 
@@ -94,7 +96,7 @@ D
 
 |
 
-Visites relatives à la sécurité de construction/ Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
+Visites relatives à la sécurité de construction/Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
 
 |
 
@@ -134,7 +136,7 @@ D
 
 |
 
-Visites requises pour le certificat de sécurité radioélectrique pour navire de charge/ Certificat de sécurité pour navire de charge
+Visites requises pour le certificat de sécurité radioélectrique pour navire de charge/Certificat de sécurité pour navire de charge
 
 et fiche d'équipement modèle C
 
@@ -156,7 +158,7 @@ H
 
 |
 
-Visites relatives à la sécurité du matériel d'armement/ Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
+Visites relatives à la sécurité du matériel d'armement/Certificat de sécurité pour navire de charge et fiche d'équipement modèle C
 
 |
 
@@ -176,7 +178,7 @@ H
 
 |
 
-Visites relatives à l'aptitude au transport de gaz liquéfiés en vrac/ Certificat international d'aptitude au transport de gaz liquéfié en vrac
+Visites relatives à l'aptitude au transport de gaz liquéfiés en vrac/Certificat international d'aptitude au transport de gaz liquéfié en vrac
 
 |
 
@@ -196,7 +198,7 @@ H
 
 |
 
-Visites relatives à l'aptitude au transport de produits chimiques dangereux en vrac/ Certificat international d'aptitude au transport
+Visites relatives à l'aptitude au transport de produits chimiques dangereux en vrac/Certificat international d'aptitude au transport
 
 de produits chimiques dangereux en vrac
 
@@ -218,7 +220,7 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution par les hydrocarbures/ Certificat international de prévention de la pollution par les hydrocarbures
+Visites relatives à la prévention de la pollution par les hydrocarbures/Certificat international de prévention de la pollution par les hydrocarbures
 
 |
 
@@ -238,9 +240,7 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution par les substances liquides nocives en vrac/ Certificat international de prévention de la pollution
-
-liée au transport de substances liquides nocives en vrac
+Visites relatives à la prévention de la pollution par les substances liquides nocives en vrac/Certificat international de prévention de la pollution liée au transport de substances liquides nocives en vrac
 
 |
 
@@ -260,7 +260,7 @@ H
 
 |
 
-Visites relatives au registre des apparaux de levage/ Approbation du registre
+Visites relatives au registre des apparaux de levage/Approbation du registre
 
 |
 
@@ -280,7 +280,7 @@ H
 
 |
 
-Visites relatives au registre des ordures/ Approbation plan et registre des ordures
+Visites relatives au registre des ordures/Approbation plan et registre des ordures
 
 |
 
@@ -300,7 +300,7 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution de l'atmosphère par les navires/ Certificat international de prévention de la pollution de l'atmosphère
+Visites relatives à la prévention de la pollution de l'atmosphère par les navires/Certificat international de prévention de la pollution de l'atmosphère
 
 |
 
@@ -320,7 +320,7 @@ H
 
 |
 
-Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/ Certificat international du système antisalissure
+Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/Certificat international du système antisalissure
 
 |
 
@@ -340,7 +340,7 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution par les eaux usées/ Certificat international de prévention de la pollution par les eaux usées
+Visites relatives à la prévention de la pollution par les eaux usées/Certificat international de prévention de la pollution par les eaux usées
 
 |
 
@@ -380,9 +380,7 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution
-
-de l'atmosphère par les moteurs
+Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/Certificat international de prévention de la pollution de l'atmosphère par les moteurs
 
 |
 
@@ -422,9 +420,7 @@ H
 
 |
 
-Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/ Document de conformité
-
-prescriptions spéciales applicables aux navires transportant des marchandises dangereuses
+Visite relative à la conformité au transport de marchandises dangereuses (circulaire MSC 1266)/Document de conformité prescriptions spéciales applicables aux navires transportant des marchandises dangereuses
 
 |
 
@@ -444,7 +440,7 @@ H
 
 |
 
-Visite relative à la prévention de la pollution atmosphérique/ Certificat international de rendement énergétique (IEE)
+Visite relative à la prévention de la pollution atmosphérique/Certificat international de rendement énergétique (IEE)
 
 |
 
@@ -482,7 +478,7 @@ Services s.p.a |
 
 |
 
-Visites relatives au Certificat international ou national de franc-bord/ Certificat de franc-bord
+Visites relatives au Certificat international ou national de franc-bord/Certificat de franc-bord
 
 |
 
@@ -522,7 +518,7 @@ D
 
 |
 
-Visites relatives au registre des apparaux de levage/ Approbation du registre
+Visites relatives au registre des apparaux de levage/Approbation du registre
 
 |
 
@@ -542,7 +538,7 @@ H
 
 |
 
-Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/ Certificat international du système antisalissure
+Visites relatives au contrôle des systèmes antisalissure nuisibles sur les navires/Certificat international du système antisalissure
 
 |
 
@@ -562,9 +558,7 @@ H
 
 |
 
-Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/ Certificat international de prévention de la pollution
-
-de l'atmosphère par les moteurs
+Visites relatives à la prévention de la pollution de l'atmosphère par les moteurs/Certificat international de prévention de la pollution de l'atmosphère par les moteurs
 
 |
 
@@ -600,7 +594,7 @@ Services s.p.a |
 
 |
 
-Visites relatives au certificat international de jaugeage des navires/ Certificat international de jaugeage des navires
+Visites relatives au certificat international de jaugeage des navires/Certificat international de jaugeage des navires
 
 |
 
@@ -620,7 +614,7 @@ H
 
 |
 
-Visites relatives au certificat national de jaugeage des navires/ Certificat national de jaugeage des navires
+Visites relatives au certificat national de jaugeage des navires/Certificat national de jaugeage des navires
 
 |
 
@@ -633,5 +627,79 @@ H
 |
 
 H
+
+|
+
+4. Certificats délivrés au nom de l'Etat pour les navires situés à l'étranger dans une zone formellement déconseillée par le ministère des affaires étrangères.
+
+Conformément au paragraphe III de l'article 3-1 du décret n° 84-810 modifié du 30 août 1984, la délivrance du certificat de gestion de la sécurité du navire peut être déléguée par le ministre chargé de la mer à une société de classification habilitée uniquement lorsque la visite du navire est réalisée dans une zone formellement déconseillée par le ministère des affaires étrangères.
+
+Conformément aux articles 3, 4 et 8 du décret n° 2007-937 du 15 mai 2007 relatif à la sûreté des navires, le renouvellement du certificat international de sûreté du navire peut être délégué par le ministre chargé de la mer à une société de classification habilitée au sens de la sûreté uniquement lorsque la visite du navire est réalisée dans une zone formellement déconseillée par le ministère des affaires étrangères.
+
+La carte des zones formellement déconseillées par le ministère des affaires étrangères est disponible sur le lien suivant :
+
+http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/.
+
+H : Habilitation comprenant l'étude, la réalisation des visites à bord et la délivrance, le retrait et la suspension des certificats de gestion de la sécurité, en application des dispositions du décret n° 84-810 modifié du 30 août 1984, ainsi que la réalisation des visites à bord et la délivrance des certificats internationaux de sûreté du navire en application du décret n° 2007-937 du 15 mai 2007.
+
+|
+
+CERTIFICATS/ VISITES
+
+|
+
+BUREAU VERITAS
+
+|
+
+DNV-GL AS
+
+|
+
+RINA
+
+Services
+
+s.p.a
+
+|
+
+1
+
+|
+
+Visites relatives au certificat de gestion de la sécurité du navire/Certificat de gestion de la sécurité
+
+|
+
+H
+
+|
+
+H
+
+|
+
+H
+
+|
+
+2
+
+|
+
+Visites relatives au certificat international de sûreté du navire/Certificat international de sûreté du navire
+
+|
+
+H
+
+|
+
+―
+
+|
+
+―
 
 |
