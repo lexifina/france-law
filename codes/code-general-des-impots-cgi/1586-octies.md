@@ -16,6 +16,8 @@ Un décret précise les conditions d'application du présent 1.
 
 2. En cas de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil, de cession ou de cessation d'entreprise ou de l'exercice d'une profession commerciale, d'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaires, ou de décès du contribuable, les déclarations mentionnées au 1 du présent II et au dernier alinéa de l'article 1679 septies doivent être souscrites dans un délai de soixante jours décompté soit dans les conditions prévues, selon le cas, aux 1 ou 4 de l'article 201 ou au 1 de l'article 202 soit au jour du jugement d'ouverture de la procédure collective.
 
+Par exception, en cas d'ouverture d'une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire lorsqu'il n'est pas mis fin à la poursuite de l'activité, à défaut de pouvoir procéder à la liquidation définitive de la cotisation sur la valeur ajoutée des entreprises due au titre de l'année du jugement d'ouverture de la procédure collective, seule la déclaration mentionnée au dernier alinéa de l'article 1679 septies doit être souscrite dans un délai de soixante jours décompté au jour de ce jugement. Cette déclaration doit mentionner une estimation du montant de la cotisation sur la valeur ajoutée des entreprises due au titre de l'année au cours de laquelle la procédure collective a été ouverte, déterminée en fonction du chiffre d'affaires et de la valeur ajoutée mentionnés dans la dernière déclaration de résultat exigée. Cette obligation déclarative anticipée ne se substitue pas aux obligations déclaratives mentionnées au 1 du II du présent article et au dernier alinéa de l'article 1679 septies.
+
 III. - La valeur ajoutée est imposée dans la commune où le contribuable la produisant dispose de locaux ou emploie des salariés exerçant leur activité plus de trois mois.
 
 Lorsqu'un contribuable dispose de locaux ou emploie des salariés exerçant leur activité plus de trois mois dans plusieurs communes, la valeur ajoutée qu'il produit est imposée dans chacune de ces communes et répartie entre elles au prorata, pour le tiers, des valeurs locatives des immobilisations imposées à la cotisation foncière des entreprises et, pour les deux tiers, de l'effectif qui y est employé, réparti selon les modalités définies au II.
@@ -37,11 +39,3 @@ Pour les contribuables qui n'emploient aucun salarié en France et ne disposent 
 3° Les déclarations mentionnées au 1 du II du présent article et au dernier alinéa de l'article 1679 septies doivent être déposées au lieu de dépôt de la déclaration de résultat.
 
 Pour l'application du présent III, la valeur locative des immobilisations imposables à la cotisation foncière des entreprises s'entend avant application éventuelle de l'abattement prévu à l'avant-dernier alinéa de l'article 1467.
-
-NOTA :
-
-Conformément à l'article 79 I de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, les dispositions de l'article 1586 octies, dans leur rédaction issue de la présente loi, s'appliquent à la cotisation sur la valeur ajoutée des entreprises :
-
-1° Versée par l'Etat aux collectivités territoriales et établissements publics de coopération intercommunale à fiscalité propre à compter du 1er janvier 2014 ;
-
-2° Due par les redevables au titre de 2014 et des années suivantes.
