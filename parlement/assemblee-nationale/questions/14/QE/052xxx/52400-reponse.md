@@ -1,0 +1,9 @@
+# Réponse à la question n° 52400
+
+- Question : [52400](52400.md) — Question n° 52400 — études médicales; deuxième année; conditions d'accès
+
+## Réponse
+
+*JO du 2014-07-01*
+
+L'arrêté du 26 juillet 2010 modifié relatif aux modalités d'admission directe en deuxième année des études médicales, odontologiques, pharmaceutiques ou de sage-femme réserve la possibilité d'intégrer ces formations aux candidats répondant aux conditions de titres et diplômes listés en son article 2. Parmi ces diplômes figure le diplôme de master sans précision du domaine et de la mention, afin de permettre une diversification du profil des candidats se présentant dans le cadre de cette passerelle ; il incombe aux jurys d'apprécier la pertinence des candidatures au regard des dossiers qu'ils examinent. Il n'est pas envisagé à ce jour d'ajouter à la liste prévue par cet arrêté des diplômes paramédicaux conférant de grade de licence. L'arrêté du 26 juillet 2010 relatif au nombre d'étudiants admis à la fin de la première année commune aux études de santé à poursuivre des études médicales, odontologiques, pharmaceutiques ou de sage-femme, prévoit la possibilité pour les titulaires de certains diplômes paramédicaux, justifiant de deux années d'exercice, de bénéficier d'un numerus clausus complémentaire dans le cadre d'un dispositif spécifique mis en place afin de faciliter leur admission en 2e année dans l'une des filières de santé précitées. La secrétaire d'Etat chargée de l'enseignement supérieur et de la recherche et la ministre des affaires sociales et de la santé ont annoncé dans le cadre de la stratégie nationale de santé, une réflexion autour d'une « licence santé ». Cette mission sera confiée à une personnalité qualifiée à qui il appartiendra de faire des propositions qui permettront de mettre en place l'expérimentation prévue par l'article 40 de la loi du 22 juillet 2013 relative à l'enseignement supérieur.
