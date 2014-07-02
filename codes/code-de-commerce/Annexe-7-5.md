@@ -1018,7 +1018,9 @@ Copie des comptes annuels ou du document comptable simplifié ou de la déclarat
 
 |
 
-Extrait du registre des entrepreneurs individuels à responsabilité limitée |
+Extrait du registre des entrepreneurs individuels à responsabilité limitée
+
+|
 
 2
 
@@ -2738,8 +2740,78 @@ Total...
 
 |
 
-NOTA :
+TABLEAU VIII ANNEXÉ À L'ARTICLE R. 743-140
 
-Décret n° 2009-1661 du 28 décembre 2009 art. 11 I. - Les modifications induites par les articles 1er et 4 à 7 sont applicables aux procédures ouvertes à compter de l'entrée en vigueur du présent décret.
+Par exception au principe de la facturation des actes dont le tarif est fixé par le tableau I, les émoluments et les frais de transmission de la procédure de rétablissement professionnel ouverte font l'objet d'une tarification forfaitaire par débiteur.
+
+Cette tarification forfaitaire ne comprend pas les émoluments, les frais et les débours résultant des actions prévues au titre V du livre VI, dont le tarif est fixé par le tableau I, ainsi que les frais de copies d'actes ou de pièces délivrées aux parties.
+
+En cas d'ouverture d'une liquidation judiciaire dans les conditions prévues à l'article L. 645-9, le forfait applicable est celui prévu au tableau VII, déduction faite des sommes dues au titre du droit principal en application du présent tableau.
+
+Tarification forfaitaire applicable à la procédure de rétablissement professionnel
+
+Emoluments du greffe par débiteur et forfait de transmission (hors frais d'huissiers, frais relatifs aux journaux d'annonces légales, BODACC)
+
+NUMÉROS
+
+|
+
+NATURE DES ACTES
+
+|
+
+ÉMOLUMENTS
+
+(taux de base)
+
+|
+
+801
+
+|
+
+Droit principal.
+
+|
+
+300
+
+|
+
+802
+
+|
+
+Droit accessoire par procédure devant le juge commis statuant sur une demande de report ou de délai de paiement en application de l'article L. 645-6.
+
+|
+
+50
+
+|
+
+809
+
+|
+
+Frais de transmission.
+
+|
+
+50
+
+|
+
+819
+
+|
+
+Droit accessoire en cas d'ouverture d'une procédure de liquidation judiciaire en application de l'article L. 645-9.
+
+|
+
+60 |
+
+NOTA :
 
 Le décret du 3 avril 1919 est abrogé et codifié dans la partie réglementaire du code des transports par le décret n° 2013-253 du 25 mars 2013, article 4.
