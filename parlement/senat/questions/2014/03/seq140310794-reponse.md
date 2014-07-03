@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140310794
+
+- Question : [SEQ140310794](seq140310794.md) — Évolution des exonérations de charges sociales accordées aux maisons familiales rurales
+
+## Réponse
+
+*Finances et comptes publics, JO du 2014-07-03, page 1626*
+
+L'exonération de cotisations patronales de sécurité sociale instituée par la loi n° 2005-157 du 23 février 2005 en faveur des associations et des organismes d'intérêt général implantés dans les zones de revitalisation rurale (ZRR) a été créée en 2005 par les articles 15 et 16 de la loi relative au développement des territoires ruraux. Ce dispositif prend en compte les salaires dans la limite de 1,5 fois le salaire minimum (SMIC), sans plafond de rémunération ni de durée. Ce dispositif a été abrogé par l'article 19 de la loi de financement de la sécurité sociale pour 2008 pour les contrats de travail conclus à compter du 1er novembre 2007. Les contrats de travail conclus avant cette date continuent de bénéficier de ce dispositif d'exonération jusqu'à leur terme. L'article 78 du projet de loi de finances pour 2014 limite le champ de l'exonération de cotisations sociales dont bénéficient les contrats encore concernés. En effet, le régime applicable aux organismes déclarés d'intérêt général continue d'être plus favorable que le dispositif déjà avantageux applicable aux ZRR, tant en termes de champ des exonérations, de taille des établissements éligibles que de durée de l'exonération. Si les maisons familiales rurales contribuent, entre autres, à former des jeunes en alternance, ce que le Gouvernement encourage, cette réforme poursuit un double objectif d'importance : d'une part, le redressement des finances publiques, puisqu'elle permet de réaliser une économie de 30 M€, et, d'autre part, la simplification du dispositif, avec l'alignement de son barème sur celui des exonérations de droit commun pour les entreprises créant de l'emploi en ZRR. Ce dernier est lui-même très favorable à la création d'emploi.
