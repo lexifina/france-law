@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131109345
+
+- Question : [SEQ131109345](seq131109345.md) — Classement des zones humides
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-07-03, page 1618*
+
+L'arrêté du 24 juin 2008 modifié par l'arrêté du 1er octobre 2009 et sa circulaire d'accompagnement explicitent les critères de définition et de délimitation des zones humides pour la mise en œuvre des articles L. 214.1 et R. 214-1 du code de l'environnement. Cette délimitation n'a pas vocation à imposer des restrictions quant aux pratiques agricoles sur les secteurs inventoriés mais à encadrer la réalisation d'installations, d'ouvrages de travaux et d'activité (IOTA) « entraînant des prélèvements sur les eaux superficielles ou souterraines, restitués ou non, une modification du niveau ou du mode d'écoulement des eaux, la destruction de frayères, de zones de croissance ou d'alimentation de la faune piscicole ou des déversements, écoulements, rejets ou dépôts directs ou indirects, chroniques ou épisodiques, même non polluants » (article L. 214-1 du code de l'environnement). En ce qui concerne la définition des prairies ou pâturages humides, la Politique agricole commune ne définit que les pâturages permanents (article 2 c du Règlement n° 1120/2009 de la Commission européenne du 20 octobre 2009) et par défaut les pâturages temporaires. Ce règlement, d'application immédiate, ne nécessite pas de décret. Le caractère naturel ou non n'est pas un caractère discriminant et n'a donc pas à faire l'objet d'une définition. La nature des schémas d'aménagement et de gestion des eaux (SAGE), leur mode de construction, la composition des Commissions locales de l'eau qui les élaborent et qui associent l'ensemble des acteurs locaux, permettent de mener de nombreuses actions de pédagogie et la mise en place de règles négociées, notamment à l'occasion de la réalisation des inventaires de zones humides qu'ils mènent.
