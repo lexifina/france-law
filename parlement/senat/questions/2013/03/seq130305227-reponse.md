@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305227
+
+- Question : [SEQ130305227](seq130305227.md) — Recouvrement de la TASCOM
+
+## Réponse
+
+*Finances et comptes publics, JO du 2014-07-03, page 1625*
+
+La réforme de la taxe professionnelle (TP) a généré de nombreux ajustements des ressources des collectivités. En particulier, en vertu du 1.2.4.2 de l'article 77 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010, les communes et établissements publics de coopération intercommunale (EPCI) à fiscalité propre ont bénéficié d'une augmentation de leurs ressources fiscales, par l'affectation de la taxe sur les surfaces commerciales (TASCOM), contre un débasage à due concurrence d'une fraction de leur dotation globale de fonctionnement (DGF) liée à la suppression de la part salaire de la TP, prévue à l'article L. 5211-28-1 du code général des collectivités territoriales (CGCT). Ce débasage est figé à hauteur du montant de la TASCOM perçu par l'État en 2010. Ce transfert de la TASCOM avait pour objet de renforcer l'autonomie financière des collectivités locales. Il en va dès lors de la TASCOM comme des autres recettes fiscales dont elles disposent : ses fluctuations ultérieures, à la hausse comme à la baisse, sont portées au bénéfice ou au détriment de la collectivité concernée. Les communes et établissements publics à fiscalité propre ont d'ailleurs reçu un pouvoir de taux sur la TASCOM, leur permettant d'appliquer au montant de la taxe calculé conformément aux dispositions de l'article 3 de la loi n° 72-657 du 13 juillet 1972, un coefficient multiplicateur allant de 0,8 à 1,2. Le principe de compensations figées à leur montant historique prévu par le législateur est appliqué de façon générale. Il n'est pas possible d'y déroger, en particulier dans un contexte d'effort de redressement des finances publiques auquel les collectivités locales doivent participer au même titre que l'État, ses opérateurs et les administrations de sécurité sociale.
