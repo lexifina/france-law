@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506360
+
+- Question : [SEQ130506360](seq130506360.md) — Contrôle des budgets des collectivités territoriales
+
+## Réponse
+
+*Finances et comptes publics, JO du 2014-07-03, page 1624*
+
+Conformément à l'article 47-2 de la Constitution, les comptes des administrations publiques doivent être réguliers et sincères et donner une image fidèle du résultat de leur gestion, de leur patrimoine et de leur situation financière. La production par les entités publiques d'une information comptable de qualité est donc une préoccupation constante du Gouvernement. Toutefois, l'article 47-2 de la Constitution n'a ni pour objet ni pour effet d'instituer la certification des comptes comme unique mode d'attestation de la fiabilité des comptes publics. En la matière, si une expérimentation apparaît nécessaire pour les plus grandes des entités publiques locales, elle doit reposer sur le volontariat. Pour les autres entités locales, la mise en place, dans le cadre de l'examen de gestion réalisé par les chambres régionales des comptes, d'un examen systématique de la fiabilité des comptes pourrait être envisagée, ainsi que l'a suggéré la Cour des comptes dans son rapport public thématique d'octobre 2013 consacré aux finances publiques locales. Moins exigeant que la certification et réalisé selon un rythme pluriannuel, cet examen de la fiabilité des comptes n'en constituerait pas moins un contrôle général s'appliquant à l'ensemble de la comptabilité et permettant d'en vérifier la régularité et la sincérité. Dans cette perspective et afin d'améliorer la lisibilité et l'intelligibilité des états financiers des collectivités et établissements publics locaux, le comité relatif à la fiabilité des comptes publics locaux vient d'engager une revue de l'ensemble des annexes des documents budgétaires et comptables des collectivités territoriales.
