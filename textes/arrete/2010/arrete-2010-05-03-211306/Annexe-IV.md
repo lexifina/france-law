@@ -76,7 +76,7 @@ Pédagogie après tirage au sort :
 
 |
 
-Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie A limitée ou non limitée ou titulaire depuis moins d'un an du permis de conduire de la catégorie A non limitée.
+Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie A ou titulaire depuis moins d'un an du permis de conduire de la catégorie A.
 
 A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.
 
