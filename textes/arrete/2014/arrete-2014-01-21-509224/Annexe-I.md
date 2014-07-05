@@ -20,13 +20,13 @@ Rentrée des enseignants (*)
 
 |
 
-Vendredi 29 août 2014 |
+lundi 1er septembre 2014 |
 
 Rentrée scolaire des élèves
 
 |
 
-Lundi 1er septembre 2014 |
+mardi 2 septembre 2014 |
 
 Toussaint
 
@@ -34,9 +34,7 @@ Toussaint
 
 Samedi 18 octobre 2014
 
-Lundi 3 novembre 2014
-
-|
+Lundi 3 novembre 2014 |
 
 Noël
 
