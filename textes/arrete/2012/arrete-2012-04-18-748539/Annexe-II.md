@@ -1,16 +1,16 @@
 # Article Annexe II
 
-1. Liste des pays ou des entités administratives dont les titulaires de passeport sont dispensés de visa pour entrer sur le territoire des collectivités de Saint-Barthélemy et de Saint-Martin afin d'y effectuer des séjours dont la durée n'excède pas trois mois par période de six mois sur l'ensemble du territoire défini au premier alinéa de l'article L. 111-2 du code de l'entrée et du séjour des étrangers et du droit d'asile, sauf accord de circulation plus favorable, et limites à cette dispense :
+1. Liste des pays ou des entités administratives dont les titulaires de passeport sont dispensés de visa pour entrer sur le territoire des collectivités de Saint-Barthélemy et/ ou de Saint-Martin afin d'y effectuer des séjours dont la durée n'excède pas trois mois par période de six mois sur l'ensemble du territoire défini au premier alinéa de l'article L. 111-2 du code de l'entrée et du séjour des étrangers et du droit d'asile, sauf accord de circulation plus favorable, et limites à cette dispense :
 
 PAYS
 
-ou entité administrative
+ou entité
+
+administrative
 
 |
 
-LIMITES
-
-à la dispense de visa
+LIMITES À LA DISPENSE DE VISA
 
 |
 
@@ -47,6 +47,14 @@ Andorre
 |
 
 Dispense de visa de court séjour s'étendant à tout type de passeport.
+
+|
+
+Anguilla
+
+|
+
+Pour entrer sur le territoire de Saint-Martin : dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
@@ -138,9 +146,7 @@ Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatiq
 
 |
 
-Bermudes
-
-(passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des Bermudes)
+Bermudes (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des Bermudes)
 
 |
 
@@ -264,7 +270,7 @@ Congo (Brazzaville)
 
 |
 
-Dispense de visa s'appliquant jusqu'au 31 juillet 2013 aux seuls titulaires d'un passeport diplomatique sécurisé.
+Dispense de visa s'appliquant jusqu'au 31 juillet 2015 aux seuls titulaires d'un passeport diplomatique sécurisé.
 
 |
 
@@ -360,6 +366,14 @@ Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique o
 
 |
 
+Géorgie
+
+|
+
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+
+|
+
 Guatemala
 
 |
@@ -380,7 +394,11 @@ Inde
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+Dispense de visa s'appliquant :
+
+- aux titulaires d'un passeport diplomatique ;
+
+- aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -401,6 +419,14 @@ Dispense s'appliquant sauf pour effectuer un séjour d'une durée n'excédant pa
 - une autorisation de travail est exigée par la réglementation française pour exercer cette activité ; et
 
 - le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+
+|
+
+Jordanie
+
+|
+
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
 
 |
 
@@ -452,7 +478,7 @@ Maroc
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
 
 |
 
@@ -480,7 +506,7 @@ Moldavie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou d'un passeport biométrique.
 
 |
 
@@ -492,6 +518,14 @@ Dispense de visa y compris pour des séjours d'une durée excédant trois mois.
 
 |
 
+Mongolie
+
+|
+
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+
+|
+
 Monténégro
 
 |
@@ -500,13 +534,11 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'
 
 |
 
-Montserrat
-
-(passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique de Montserrat)
+Montserrat (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique de Montserrat)
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen et la mention "Montserrat".
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "Montserrat".
 
 |
 
@@ -678,23 +710,19 @@ Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique o
 
 |
 
-Iles Turks et Caicos
-
-(passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des îles Turks et Caicos)
+Iles Turks et Caicos (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des îles Turks et Caicos)
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen et la mention "Turks and Caicos Islands".
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "Turks and Caicos Islands".
 
 |
 
-Iles Vierges britanniques
-
-(passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des îles Vierges britanniques)
+Iles Vierges britanniques (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des îles Vierges britanniques)
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen et la mention "British Virgin Islands".
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "British Virgin Islands".
 
 |
 
@@ -712,7 +740,7 @@ Ukraine
 
 Dispense de visa s'appliquant :
 
-- aux titulaires d'un passeport diplomatique ;
+- aux titulaires d'un passeport diplomatique ou de service biométrique ;
 
 - aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
