@@ -8,9 +8,7 @@ administrative
 
 |
 
-CATÉGORIES CONCERNÉES
-
-par la dispense de visa
+CATÉGORIES CONCERNÉES PAR LA DISPENSE DE VISA
 
 |
 
@@ -20,9 +18,9 @@ Afrique du Sud
 
 Dispense s'appliquant seulement :
 
-aux titulaires d'un passeport diplomatique ou de service ;
+-aux titulaires d'un passeport diplomatique ou de service ;
 
-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -90,11 +88,9 @@ Dispense de visa :
 
 Sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
-- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;
+-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;
 
-- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
-
-Outre les ressortissants australiens, cette dispense de visa s'applique également aux ressortissants de Norfolk (territoire associé à l'Australie), titulaires d'un passeport australien.
+-et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. Outre les ressortissants australiens, cette dispense de visa s'applique également aux ressortissants de Norfolk (territoire associé à l'Australie), titulaires d'un passeport australien.
 
 |
 
@@ -120,9 +116,9 @@ Bahreïn
 
 Dispense de visa s'appliquant seulement :
 
-- aux titulaires d''un passeport diplomatique ou spécial ;
+-aux titulaires d'un passeport diplomatique ou spécial ;
 
-- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -172,9 +168,9 @@ Brésil
 
 Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
-- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;
+-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
-- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -184,9 +180,9 @@ Titulaires d'un passeport britannique dont la nationalité mentionnée sur la pa
 
 Dispense s'appliquant aux seuls titulaires d'un passeport britannique portant, sur la page de données personnelles, à la rubrique nationalité :
 
-- British Nationals (Overseas) ; ou
+-British Nationals (Overseas) ; ou
 
-- British Subject et la mention que le titulaire du passeport bénéficie du droit de résidence au Royaume Uni ( right of abode ).
+-British Subject et la mention que le titulaire du passeport bénéficie du droit de résidence au Royaume Uni (right of abode).
 
 |
 
@@ -218,7 +214,9 @@ Chine
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+Pour les séjours dont la durée n'excède pas trois mois : dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+
+Pour les séjours d'une durée inférieure à quinze jours : dispense de visa pour les ressortissants dont le voyage et le séjour sont organisés par l'intermédiaire d'une agence agréée.
 
 |
 
@@ -258,7 +256,7 @@ Congo (Brazzaville)
 
 |
 
-Dispense de visa s'appliquant jusqu'au 31 juillet 2013 aux seuls titulaires d'un passeport diplomatique sécurisé.
+Dispense de visa s'appliquant jusqu'au 31 juillet 2015 aux seuls titulaires d'un passeport diplomatique sécurisé.
 
 |
 
@@ -268,9 +266,9 @@ Corée du Sud
 
 Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
-- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;
+-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
-- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -312,9 +310,9 @@ Emirats arabes unis
 
 Dispense de visa s'appliquant seulement :
 
-- aux titulaires d'un passeport diplomatique ou spécial ;
+-aux titulaires d'un passeport diplomatique ou spécial ;
 
-- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -332,9 +330,9 @@ Etats-Unis
 
 Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
-- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;
+-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
-- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. Outre les ressortissants américains, cette dispense s'étend également aux ressortissants des îles Samoa américaines et de Guam (territoires bénéficiant du statut de non incorporé des USA) et titulaires d'un passeport américain.
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. Outre les ressortissants américains, cette dispense s'étend également aux ressortissants des îles Samoa américaines et de Guam (territoires bénéficiant du statut de non incorporé des USA) et titulaires d'un passeport américain.
 
 |
 
@@ -343,6 +341,14 @@ Gabon
 |
 
 Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
+
+|
+
+Géorgie
+
+|
+
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
 
 |
 
@@ -366,7 +372,11 @@ Inde
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+Dispense de visa s'appliquant :
+
+-aux titulaires d'un passeport diplomatique.
+
+-aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -378,17 +388,23 @@ Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
-|
-
 Japon
 
 |
 
 Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
-- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;
+-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
-- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+
+|
+
+Jordanie
+
+|
+
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
 
 |
 
@@ -406,9 +422,9 @@ Koweït
 
 Dispense de visa s'appliquant seulement :
 
-- aux titulaires d'un passeport diplomatique ou spécial ;
+-aux titulaires d'un passeport diplomatique ou spécial ;
 
-- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -417,8 +433,6 @@ Kiribati
 |
 
 Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
 
 |
 
@@ -450,7 +464,7 @@ Maroc
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
 
 |
 
@@ -476,9 +490,9 @@ Mexique
 
 Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
-- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;
+-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
-- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -494,7 +508,7 @@ Moldavie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou d'un passeport biométrique.
 
 |
 
@@ -503,6 +517,14 @@ Monaco
 |
 
 Dispense de visa de court séjour s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois.
+
+|
+
+Mongolie
+
+|
+
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
 
 |
 
@@ -518,7 +540,7 @@ Namibie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
 
 |
 
@@ -530,15 +552,11 @@ Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
-|
-
 Nicaragua
 
 |
 
 Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
 
 |
 
@@ -548,9 +566,9 @@ Nouvelle-Zélande
 
 Outre les ressortissants néo-zélandais, la dispense de visa s'étend également aux ressortissants :
 
-- des îles Tokelau (territoire sous souveraineté néo-zélandaise) et Niue (statut de libre association avec la Nouvelle-Zélande), titulaires d'un passeport néo-zélandais ;
+-des îles Tokelau (territoire sous souveraineté néo-zélandaise) et Niue (statut de libre association avec la Nouvelle-Zélande), titulaires d'un passeport néo-zélandais ;
 
-- des îles Cook, titulaires d'un passeport néo-zélandais.
+-des îles Cook, titulaires d'un passeport néo-zélandais.
 
 |
 
@@ -560,9 +578,9 @@ Oman
 
 Dispense de visa s'appliquant seulement :
 
-- aux titulaires d'un passeport diplomatique, spécial ou de service ;
+-aux titulaires d'un passeport diplomatique, spécial ou de service ;
 
-- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -604,9 +622,9 @@ Qatar
 
 Dispense de visa s'appliquant seulement :
 
-- aux titulaires d'un passeport diplomatique ou spécial ;
+-aux titulaires d'un passeport diplomatique ou spécial ;
 
-- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -616,9 +634,9 @@ Russie
 
 Dispense de visa s'appliquant seulement :
 
-- aux titulaires d'un passeport diplomatique ;
+-aux titulaires d'un passeport diplomatique ;
 
-- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -627,8 +645,6 @@ Saint-Christophe-et-Niévès
 |
 
 Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
 
 |
 
@@ -648,8 +664,6 @@ Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
-|
-
 Iles Salomon
 
 |
@@ -666,8 +680,6 @@ Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
-|
-
 Sénégal
 
 |
@@ -680,7 +692,7 @@ Serbie
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique, à l'exclusion des titulaires de passeports serbes délivrés par la direction de coordination serbe (en serbe : Koordinaciona uprava ).
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique, à l'exclusion des titulaires de passeports serbes délivrés par la direction de coordination serbe (en serbe : Koordinaciona uprava).
 
 |
 
@@ -692,17 +704,15 @@ Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
-|
-
 Singapour
 
 |
 
 Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
-- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;
+-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
-- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
@@ -746,17 +756,15 @@ Dispense de visa de court séjour s'étendant à tout type de passeport.
 
 |
 
-|
-
 Ukraine
 
 |
 
 Dispense de visa s'appliquant seulement :
 
-- aux titulaires d'un passeport diplomatique ;
+-aux titulaires d'un passeport diplomatique ou de service biométrique ;
 
-- aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
 |
 
@@ -774,9 +782,9 @@ Venezuela
 
 Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
-- une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;
+-une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
-- et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
 
 |
 
