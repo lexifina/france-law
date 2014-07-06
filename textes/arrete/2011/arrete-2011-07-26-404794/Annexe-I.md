@@ -12,9 +12,7 @@ SITES
 
 |
 
-MODALITÉS
-
-d'ouverture
+MODALITÉS D'OUVERTURE
 
 |
 
@@ -28,15 +26,11 @@ Frontières aériennes
 
 |
 
-|
-
 Aéroport Pôle Caraïbes Raizet Abymes
 
 |
 
 Permanent
-
-|
 
 |
 
@@ -48,11 +42,7 @@ Ouvert selon nécessité
 
 |
 
-|
-
 Frontières maritimes
-
-|
 
 |
 
@@ -66,15 +56,11 @@ Permanent
 
 |
 
-|
-
 Grand-Bourg Marie-Galante
 
 |
 
 Ouvert selon nécessité
-
-|
 
 |
 
@@ -86,15 +72,11 @@ Ouvert selon nécessité
 
 |
 
-|
-
 Pointe Jarry Baie Mahault
 
 |
 
 Ouvert selon nécessité
-
-|
 
 |
 
@@ -106,15 +88,11 @@ Ouvert selon nécessité
 
 |
 
-|
-
 Saint-François
 
 |
 
 Ouvert selon nécessité
-
-|
 
 |
 
@@ -136,8 +114,6 @@ Frontières aériennes
 
 |
 
-|
-
 Rochambeau
 
 |
@@ -146,11 +122,7 @@ Permanent
 
 |
 
-|
-
 Frontières maritimes
-
-|
 
 |
 
@@ -164,15 +136,11 @@ Permanent
 
 |
 
-|
-
 Degrad des Cannes
 
 |
 
 Ouvert selon nécessité
-
-|
 
 |
 
@@ -182,13 +150,19 @@ Frontières terrestres
 
 |
 
-|
-
-Saint-Georges-de-l'Oyapock
+Saint-Georges-de-l'Oyapock-pont
 
 |
 
 Permanent
+
+|
+
+Saint-Georges-de-l'Oyapock-débarcadère
+
+|
+
+6 heures-19 heures
 
 |
 
@@ -212,11 +186,7 @@ Permanent
 
 |
 
-|
-
 Frontières maritimes
-
-|
 
 |
 
@@ -230,15 +200,11 @@ Permanent
 
 |
 
-|
-
 Le Marin
 
 |
 
 Ouvert selon nécessité
-
-|
 
 |
 
@@ -250,15 +216,11 @@ Ouvert selon nécessité
 
 |
 
-|
-
 La Trinité
 
 |
 
 Ouvert selon nécessité
-
-|
 
 |
 
@@ -280,8 +242,6 @@ Frontières aériennes
 
 |
 
-|
-
 Gillot Roland-Garros Sainte-Marie
 
 |
@@ -290,21 +250,15 @@ Permanent
 
 |
 
-|
-
 Pierrefonds Saint-Pierre
 
 |
 
-Permenant
-
-|
+Permanent
 
 |
 
 Frontières maritimes
-
-|
 
 |
 
@@ -328,8 +282,6 @@ Frontières aériennes
 
 |
 
-|
-
 Saint-Pierre pointe blanche
 
 |
@@ -338,11 +290,7 @@ Permanent
 
 |
 
-|
-
 Frontières maritimes
-
-|
 
 |
 
@@ -356,15 +304,11 @@ Permanent
 
 |
 
-|
-
 Miquelon
 
 |
 
-Ouvert selon nécessité
-
-|
+Ouvert selon nécessité |
 
 2. Liste des documents sur lesquels il n'est pas apposé de cachet d'entrée et de sortie :
 
