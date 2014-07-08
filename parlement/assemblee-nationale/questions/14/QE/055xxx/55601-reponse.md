@@ -1,0 +1,9 @@
+# Réponse à la question n° 55601
+
+- Question : [55601](55601.md) — Question n° 55601 — revendications; scieries
+
+## Réponse
+
+*JO du 2014-07-08*
+
+La forêt française se trouve au carrefour d'intérêts divergents qui créent une situation où la ressource en bois est l'objet de conflits d'usage croissants, notamment entre la demande nationale et la demande internationale. La part, en volume, des grumes de sapin et épicéa exportée vers la Chine a beaucoup augmenté depuis 2011, mais cependant le volume global de bois non transformé exporté, représentant de l'ordre de 10 % de la récolte annuelle commercialisée de bois qui est estimée à 35,2 millions de mètres cubes en 2012 n'a pas connu sur la même période d'augmentation significative. Néanmoins, dans une situation conjoncturelle difficile, les scieries françaises sont effectivement confrontées à des difficultés d'approvisionnement, dont les causes sont multiples. L'une d'elle est conjoncturelle : l'hiver pluvieux et sans période de gel s'est traduit par des sols meubles qui ont rendu parfois impossible l'exploitation ou le débardage des bois. Une mission conjointe du conseil général de l'alimentation, de l'agriculture et des espaces ruraux et de l'inspection générale des finances a été lancée, afin d'établir un bilan précis de la situation et d'identifier les mesures à prendre pour remédier aux déséquilibres de nos échanges commerciaux en matière de bois rond, de sciages et de produits transformés. A l'issue de cette mission, et en fonction des conclusions qui seront tirées concernant en particulier les régimes de taxes à l'importation de produits transformés ou à l'exportation de bois brut, compétence exclusive de l'Union européenne, la France appuiera auprès de ses partenaires européens toute mesure qui s'avèrerait nécessaire pour assurer l'approvisionnement des industries de transformation du bois.
