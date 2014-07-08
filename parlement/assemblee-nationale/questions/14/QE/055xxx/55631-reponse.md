@@ -1,0 +1,9 @@
+# Réponse à la question n° 55631
+
+- Question : [55631](55631.md) — Question n° 55631 — programme Detecbio; bilan
+
+## Réponse
+
+*JO du 2014-07-08*
+
+Répondant à un besoin exprimé par les armées, le programme DETECBIO avait pour ambition de parvenir à déceler rapidement une agression biologique, de manière à permettre la mise en oeuvre de contre-mesures médicales et tactiques efficaces et appropriées avant que l'alerte ne soit donnée par l'apparition de symptômes affectant des personnes contaminées. La phase d'élaboration de ce programme a débuté en 2005. Les études menées à ce titre ont permis de lever les risques techniques critiques liés à la satisfaction des objectifs opérationnels et de consolider les éléments financiers se rapportant au lancement de la réalisation des trois systèmes prévus de détection et d'identification d'agents biologiques dans l'environnement. Le montant des crédits de paiement consommés correspondant à l'élaboration du programme s'est élevé à 21,7 M€. La fiche précisant les caractéristiques militaires du programme ayant été approuvée en juin 2011 par l'état-major des armées, le ministre de la défense a décidé de lancer la phase de réalisation dès le mois d'octobre suivant. Alors que le coût total de cette phase avait été évalué à 32,28 M€, seuls 1,9 M€ ont été effectivement consommés jusqu'à la date d'abandon du programme DETECBIO. Ce programme a en effet fait l'objet d'une décision d'arrêt lors des travaux relatifs à la programmation militaire pour les années 2014 à 2019, compte tenu des stricts impératifs budgétaires auxquels notre pays doit actuellement faire face. Les recherches effectuées sur les réactifs d'identification génétique et immunologique ont notamment permis de mettre au point des sondes génétiques pour la détection des agents pathogènes constituant une menace. Les résultats obtenus pourront de plus être valorisés dans le cadre de la conduite d'opérations de défense biologique.
