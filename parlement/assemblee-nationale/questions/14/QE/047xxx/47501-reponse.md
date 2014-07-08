@@ -1,0 +1,9 @@
+# Réponse à la question n° 47501
+
+- Question : [47501](47501.md) — Question n° 47501 — circonscriptions; découpage; réforme; statistiques
+
+## Réponse
+
+*JO du 2014-07-08*
+
+L'article 7 de la loi n° 90-1103 du 11 novembre 1990 prévoit qu'il « ne peut être procédé à aucun redécoupage des circonscriptions électorales dans l'année précédant l'échéance normale de renouvellement des assemblées concernées ». Au 1er mars 2014, l'ensemble des 98 départements concernés par le remodelage cantonal avaient fait l'objet d'un décret portant délimitation des cantons. Par ailleurs, le Gouvernement a déposé le projet de loi relatif à la délimitation des régions, aux élections régionales et départementales, et modifiant le calendrier électoral, dont une disposition prévoit le report des élections départementales au mois de décembre 2015. Ainsi, en tout état de cause, le découpage résultant des décrets parus en février et mars 2014 intervient dans un calendrier compatible avec les délais prévus par la loi du 11 novembre 1990. Ce même texte comporte une disposition réglant le cas de la vacance d'un siège de conseiller départemental lorsque le titulaire et le suppléant sont décédés ou ont démissionnés. Conformément à la loi, les projets de décret avaient chacun été soumis aux conseils généraux concernés, qui ont tous émis un avis, avant d'être examinés par le Conseil d'Etat qui a rendu un avis favorable sur chacun d'eux, sous réserve, dans certains cas, de modifications mineures qui ont toutes été acceptées par le Gouvernement. Par ailleurs, le législateur n'a pas jugé utile d'instaurer une clause de révision automatique du redécoupage cantonal. Toutefois, sur le plus long terme, il appartiendra au Gouvernement, sous le contrôle du juge, d'éviter que ne se développent des écarts démographiques trop importants entre les cantons.
