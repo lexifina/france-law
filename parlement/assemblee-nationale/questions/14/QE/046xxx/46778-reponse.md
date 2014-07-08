@@ -1,0 +1,9 @@
+# Réponse à la question n° 46778
+
+- Question : [46778](46778.md) — Question n° 46778 — langues régionales; occitan
+
+## Réponse
+
+*JO du 2014-07-08*
+
+Les langues et cultures régionales constituent un élément de la richesse du patrimoine culturel et linguistique national, dont la préservation et la transmission font l'objet de toute l'attention des services du ministère qui, au travers de ses actions, s'emploie à améliorer les conditions de leur enseignement et de leur diffusion. L'ouverture pour la session exceptionnelle 2014 de 4 postes en occitan-langue d'oc dans la section langues régionales du CAPES, complétée par l'ouverture de 4 postes pour la session 2014 rénovée, en témoigne. Le recrutement des enseignants du second degré s'effectue dans le cadre de concours nationaux, dont les volumes sont déterminés annuellement dans le respect des emplois votés en loi de finances et tiennent comptent de plusieurs paramètres tels que le nombre des départs en retraite et les prévisions d'effectifs d'élèves. La situation de la discipline occitan-langue d'oc laisse apparaitre un sureffectif important (en octobre 2013, 11 équivalents temps plein soit 8 % de la ressource affectée dans cette discipline). Par ailleurs, un seul départ définitif d'enseignant est prévu d'ici la rentrée 2015. Ainsi, une augmentation du nombre de postes proposés au CAPES conduirait à creuser le déséquilibre entre besoins et ressource enseignante. Sur la période 2004-2014, on constate que le niveau des recrutements se situe au-delà du seul remplacement des départs constatés puisque 48 postes ont été proposés au CAPES externe, alors que 18 départs seulement ont été enregistrés sur la période. L'analyse des besoins d'enseignement en occitan-langue d'oc, permettant de déterminer le nombre de postes ouverts au concours de recrutement, fera l'objet d'un examen attentif lors de la préparation de la session 2015 des concours de l'enseignement public.
