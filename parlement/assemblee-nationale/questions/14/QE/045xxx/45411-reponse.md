@@ -1,0 +1,9 @@
+# Réponse à la question n° 45411
+
+- Question : [45411](45411.md) — Question n° 45411 — réserve parlementaire; demandes; traitement
+
+## Réponse
+
+*JO du 2014-07-08*
+
+Le montant total inscrit en loi de finances initiale 2013 du ministère de l'éducation nationale au titre des subventions attribuées dans le cadre de la réserve parlementaire 2013 sur proposition de la commission des finances de l'Assemblée nationale, s'est élevé à 1 303 048 euros sur les cinq programmes de la mission enseignement scolaire dont 1 147 198 euros ont été payés. Ce montant s'est réparti sur plus de 300 dossiers en 2013. L'écart entre le montant inscrit en LFI et l'exécution s'explique essentiellement par le renoncement de certains bénéficiaires à leurs demandes de subventions. En début d'année civile, l'Assemblée envoie la liste précisant la répartition des enveloppes par député et bénéficiaire. Dans un premier temps, le ministère de l'éducation nationale s'assure de la conformité des dossiers reçus au regard de cette liste. Ils sont par la suite transmis à chacun des responsables de programmes concernés qui examinent les pièces justificatives de chaque dossier. Le délai moyen de traitement d'un dossier des 5 programmes de la mission enseignement scolaire est de 47 jours à compter de la réception du dossier par les services du ministère. Ce délai masque de fortes disparités entre les dossiers (de 6 jours à plusieurs mois) selon leur niveau de complétude, condition préalable à la mise en paiement par le comptable. En effet, malgré le processus mis en place pour la constitution du dossier relatif à la demande de subvention, nombre de dossiers arrivent incomplets dans les services du ministère de l'éducation nationale (RIB, n° de SIRET) et nécessitent des échanges complémentaires entre l'administration et les bénéficiaires.
