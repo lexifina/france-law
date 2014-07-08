@@ -1,0 +1,9 @@
+# Réponse à la question n° 54435
+
+- Question : [54435](54435.md) — Question n° 54435 — autoproduction; réglementation
+
+## Réponse
+
+*JO du 2014-07-08*
+
+La loi tendant à renforcer la lutte contre la contrefaçon a été promulguée au Journal officiel de la République française le 12 mars 2014 (loi n° 2014-315 du 11 mars 2014). Avec l'avis favorable du Gouvernement, l'assemblée nationale avait adopté un amendement rappelant que la pratique de la semence de ferme, telle que définie et encadrée par la loi n° 2011-1843 du 8 décembre 2011 relative aux certificats d'obtention végétale (COV), ne peut être considérée comme de la contrefaçon. Par ailleurs, concernant la possibilité pour les douanes de réaliser des saisies chez les agriculteurs, un amendement a été adopté par l'assemblée nationale, également avec l'accord favorable du Gouvernement, visant à exclure des dispositions sur la retenue (pour atteinte au COV) la pratique de semences de ferme telle qu'autorisée par le code de la propriété intellectuelle. Ces dispositions ont été adoptées « conformes » par le Sénat en deuxième lecture. Pour rappel, la loi du 8 décembre 2011 conforte le dispositif des COV comme élément essentiel de protection intellectuelle des variétés végétales, permettant de protéger l'innovation dans le secteur de la génétique végétale, dans le respect de l'équilibre des droits entre les différents acteurs. Ce dispositif permet en particulier que l'agriculteur qui met en culture une variété protégée puisse utiliser une partie de sa récolte comme semence en vue de la récolte suivante (« semence de ferme »), sans accord préalable de l'obtenteur. Cette possibilité est ouverte pour 21 espèces, conformément au règlement (CE) n° 2100-94. Un projet de décret est en cours de publication pour élargir, sur le territoire national, cette liste à 13 espèces supplémentaires dont le soja.
