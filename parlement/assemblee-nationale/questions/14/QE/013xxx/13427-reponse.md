@@ -1,0 +1,9 @@
+# Réponse à la question n° 13427
+
+- Question : [13427](13427.md) — Question n° 13427 — résidence à l'étranger; justificatifs; réglementation
+
+## Réponse
+
+*JO du 2014-07-08*
+
+Pris en application de l'article 83 de la loi n° 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale pour 2013, le décret n° 2013-1156 du 13 décembre 2013 relatif au contrôle de l'existence des titulaires de pensions et d'avantages de vieillesse résidant hors de France a pour objet de définir les conditions dans lesquelles les régimes de retraite légalement obligatoires peuvent désormais mutualiser la gestion du contrôle de l'existence de leurs assurés résidant hors de France. Cette mutualisation de la gestion des contrôles d'existence permettra d'alléger les obligations à la charge des assurés résidant hors de France. En effet, ces derniers sont aujourd'hui tenus de produire chaque année, voire plusieurs fois par an, un certificat d'existence pour chaque régime de retraite auquel ils sont affiliés. Dans le cadre de la mutualisation, les assurés concernés transmettront une fois par an au maximum, un seul justificatif d'existence. Les organismes de retraite volontaires, qu'ils gèrent un régime de base ou complémentaire, pourront définir par convention les conditions de cette mutualisation. Ainsi, la décision de maintien ou de suspension du versement d'une pension ou d'un avantage de vieillesse prise, dans le cadre du contrôle de l'existence de l'assuré, par l'organisme chargé de ce contrôle s'imposera aux autres signataires de la convention pour les pensions qu'ils versent, le cas échéant, à cet assuré. Le déploiement de cette démarche de simplification, fondée sur la participation volontaire des régimes de retraite, sera facilité par la mise en place d'un nouveau GIP dévolu aux démarches inter-régimes : sa création est prévue à l'article 41 de la loi du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites.
