@@ -1,0 +1,9 @@
+# Réponse à la question n° 56186
+
+- Question : [56186](56186.md) — Question n° 56186 — Saint-Priest-La-Prugne; réaménagement; perspectives; Loire
+
+## Réponse
+
+*JO du 2014-07-08*
+
+L'ancien site minier d'uranium des Bois Noirs, exploité par AREVA, a été le siège d'une extraction de minerai d'uranium entre 1955 et 1980 et d'un traitement de ce minerai dans une usine entre 1960 et 1980. Les résidus de traitement du minerai sont actuellement stockés sous une couverture d'eau dont l'existence est rendue possible par la présence d'une digue classée grand barrage (42 mètres de hauteur). Afin de s'affranchir des problèmes de stabilité à long terme de la digue, AREVA a entrepris un projet de réaménagement de ce site. Le projet d'AREVA consiste à remplacer la couverture radiologique actuelle (lame d'eau) par une couverture solide constituée de stériles miniers disponibles sur le site. Il convient de noter que l'ensemble des sites de stockages de résidus miniers présents sur le territoire dispose de ce type de couverture pour protéger les riverains et l'environnement. Ce projet de réaménagement, relevant de la législation des installations classées pour la protection de l'environnement (ICPE), sera soumis à enquête publique, dans un rayon de 2 km autour du site. Le dossier a été déposé par AREVA le 20 décembre 2012 en préfecture. L'instruction de ce dossier et donc des mesures de protection des populations et de l'environnement, fait l'objet d'une collaboration de l'ensemble des services de l'État, y compris de l'Autorité de sûreté nucléaire (ASN). Compte tenu de la complexité de ce dossier, une tierce expertise du dossier par l'institut de radioprotection et de sûreté nucléaire (IRSN) pourrait être réalisée afin de s'assurer que les mesures de prévention sont bien suffisantes. C'est en possession de l'ensemble de ces éléments qu'il appartiendra au préfet d'autoriser avec prescriptions ou de refuser le projet d'AREVA.
