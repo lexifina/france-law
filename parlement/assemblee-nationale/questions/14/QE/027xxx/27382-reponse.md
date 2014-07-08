@@ -1,0 +1,9 @@
+# Réponse à la question n° 27382
+
+- Question : [27382](27382.md) — Question n° 27382 — stations de transfert d'énergie par pompage; développement
+
+## Réponse
+
+*JO du 2014-07-08*
+
+L'importante capacité de stockage dont elles disposent et les forts niveaux de puissance qu'elles sont capables de mobiliser en quelques minutes font des stations de transfert d'énergie par pompage (STEP) un atout majeur pour la sécurité du réseau électrique face au développement croissant des moyens de production non programmables. Ces aspects en font un outil essentiel de la transition énergétique. En raison du rendement moyen des STEP qui se situe autour de 75 %, il faut consommer environ 30 % plus d'énergie en heures creuses qu'il n'en sera restitué en heures pleines. En soutirant de l'électricité sur le réseau, les STEP génèrent des coûts d'infrastructures. Il est donc légitime que les STEP payent un tarif d'utilisation du réseau de transport d'électricité (TURPE) permettant de couvrir ces coûts. Néanmoins, le principal facteur lié aux problèmes de rentabilité des STEP réside dans les conditions actuelles de marché qui se caractérisent par une faible différence de prix entre les heures de base et celles de pointe, ne permettant pas toujours de couvrir les frais de fonctionnement des STEP. Par ailleurs, l'impact du TURPE n'a qu'une influence de second ordre sur le développement de nouvelles STEP en France. En effet, en raison du coût important de génie civil lié à la réalisation d'un bassin de rétention, l'installation d'une nouvelle STEP ne peut s'envisager que par adossement sur un ouvrage existant, et doit donc être considérée dans le cadre de l'équilibre global d'un contrat de concession hydroélectrique. C'est donc au travers du renouvellement des concessions existantes que pourra être défini un cadre adapté au développement de nouvelles STEP sur le territoire métropolitain.
