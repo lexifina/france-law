@@ -1,0 +1,9 @@
+# Réponse à la question n° 52603
+
+- Question : [52603](52603.md) — Question n° 52603 — commissions de révision; composition; réglementation
+
+## Réponse
+
+*JO du 2014-07-08*
+
+Aux termes de l'article L. 17 du code électoral, les commissions administratives sont composées pour chaque bureau de vote du maire ou de son représentant, d'un délégué de l'administration désigné par le préfet ou le sous-préfet et d'un délégué désigné par le président du tribunal de grande instance. Le code électoral ne prévoit pas en revanche de désignation de suppléants. La circulaire NOR/INTA 1317573C du 25 juillet 2013 relative à la révision et à la tenue des listes électorales et des listes électorales complémentaires rappelle toutefois qu'il est de bonne administration, lorsque cela est possible, de nommer d'éventuels suppléants qui peuvent notamment être les délégués titulaires des autres commissions administratives. On ne peut toutefois ignorer les difficultés rencontrées par les autorités habilitées pour trouver des délégués titulaires et donc a fortiori des suppléants. A défaut de suppléant, un délégué absent peut en tout état de cause être remplacé à tout moment par l'autorité qui l'a désigné. Dans l'hypothèse où aucun remplaçant ne pourrait être désigné à la date prévue pour une réunion de la commission administrative, il est recommandé de reporter dans toute la mesure du possible la tenue de cette réunion à une date ultérieure, étant souligné que, pour être régulière, la révision des listes électorales doit en effet nécessairement procéder des travaux des trois membres de la commission (CE 13 novembre 1998, Commune de Gélaucourt). Même s'il est recommandé de désigner des suppléants, leur absence n'est donc pas un obstacle au déroulement régulier des travaux des commissions administratives.
