@@ -1,0 +1,9 @@
+# Réponse à la question n° 55345
+
+- Question : [55345](55345.md) — Question n° 55345 — développement; objectifs; mise en oeuvre
+
+## Réponse
+
+*JO du 2014-07-08*
+
+Le développement de l'hydroélectricité peut résulter de plusieurs catégories d'opérations, qu'il s'agisse de l'optimisation des ouvrages existants ou de l'équipement de seuils existants (retenues qui existent pour d'autres usages). Pour autant, la majeure partie des 3 TWh supplémentaires qui constituent l'objectif fixé à l'horizon 2020 devront être obtenus par l'équipement de nouveaux sites. Il existe à l'heure actuelle de nombreuses études analysant le potentiel hydroélectrique français, difficiles à concilier car elles ont été réalisées à des dates différentes, sur la base de méthodes souvent hétérogènes et à des échelles géographiques différentes. Un travail de normalisation des méthodes et de convergence du potentiel technique expertisé d'équipement ou de création de nouveaux sites a ainsi été mené par les services de l'État. Ce travail d'identification d'un potentiel technique partagé par l'ensemble des acteurs est désormais achevé et constitue un préalable pour identifier, en cohérence avec les objectifs environnementaux de conservation des milieux aquatiques (hausse des débits réservés, révision des classements des cours d'eau), des zones propices au développement de l'hydroélectricité, sur lesquelles des appels d'offres pourraient alors être organisés. Un travail est mené en parallèle pour définir les modalités de tels appels d'offres, qui doivent être mis en cohérence avec le droit existant (régime de la concession auxquelles sont soumises les installations hydroélectriques dont la puissance est supérieure à 4,5 MW et procédures d'autorisation prévues par le code de l'environnement pour les plus petites installations).
