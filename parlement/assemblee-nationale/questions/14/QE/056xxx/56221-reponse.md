@@ -1,0 +1,9 @@
+# Réponse à la question n° 56221
+
+- Question : [56221](56221.md) — Question n° 56221 — élections législatives; organisation
+
+## Réponse
+
+*JO du 2014-07-08*
+
+L'accord politique guinéen du 3 juillet 2013, co-signé par la France, a permis la tenue des élections législatives en Guinée en septembre 2013 et la formation de la nouvelle Assemblée nationale en janvier 2014. En vue des prochaines échéances électorales, le ministère des affaires étrangères et du développement international a pris l'attache des autorités guinéennes, en coordination avec ses partenaires internationaux à Conakry, afin d'appeler l'attention de celles-ci sur l'importance de mettre en oeuvre, dans les meilleurs délais, l'accord du 3 juillet dans son intégralité. Il a été rappelé à la Guinée les engagements pris, s'agissant de la sélection d'un nouvel opérateur par appel d'offres international, du renforcement des capacités de la commission électorale nationale indépendante, de l'ouverture d'enquêtes judiciaires sur les violences survenues pendant les manifestations et de l'indemnisation des victimes de ces violences. La France a rappelé que la mise en oeuvre de ces engagements était indispensable pour consolider la démocratie et la stabilité, facteurs de développement économique et d'attractivité pour les investissements internationaux. Cette démarche a reçu un bon accueil de la part des autorités locales, qui se sont engagées à prendre les dispositions nécessaires à la mise en oeuvre de l'accord du 3 juillet dans son intégralité. En liaison avec ses partenaires internationaux, et soucieuse de dialoguer avec l'ensemble des forces politiques guinéennes, la France restera donc vigilante et attentive à l'application de cet accord politique, qui est une étape indispensable à la pleine restauration de la démocratie et de l'Etat de droit dans ce pays.
