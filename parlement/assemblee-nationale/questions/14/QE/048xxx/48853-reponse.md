@@ -1,0 +1,9 @@
+# Réponse à la question n° 48853
+
+- Question : [48853](48853.md) — Question n° 48853 — réseau culturel; rapport parlementaire; recommandations
+
+## Réponse
+
+*JO du 2014-07-08*
+
+L'Institut français est l'opérateur pivot de l'action culturelle extérieure, chargé de promouvoir l'offre artistique française et de soutenir la diffusion de la langue française à l'étranger. Dans le cadre de ses missions, il a notamment pour objectif de renforcer ses liens avec les grands opérateurs culturels en vue d'une meilleure connaissance par le réseau de leurs programmations culturelles. S'agissant des remontées d'informations sur les scènes artistiques étrangères, le réseau culturel participe à ce travail en restituant régulièrement des informations sur l'actualité culturelle de leur pays de résidence, en lien avec les chargés de mission de l'Institut français et de la Direction générale de la mondialisation, du développement et des partenariats du MAEDI. Afin d'adapter ce réseau aux réalités contemporaines et de faire face à de nouveaux défis, l'Institut français a inscrit le numérique au coeur de ses moyens d'intervention et a développé de nombreuses plateformes thématiques (IF Cinéma, IFmapp, IFverso, IFmobile, Culturethèque, etc.) qui permettent notamment d'améliorer l'information sur l'offre artistique nationale et au sein du réseau. Les plateformes IFcinéma, IFverso dans le secteur du livre ou encore Culturethèque constituent ainsi des ressources numériques essentielles à la meilleure diffusion de l'offre culturelle française et internationale. La numérisation des infrastructures culturelles à l'étranger accompagne cet effort. Cette offre numérique rencontre un réel succès (forte progression des abonnements, des consultations de sites, des téléchargements d'application) et fait l'objet d'une promotion permanente avec la création en septembre 2013 d'un département spécifique dédié au numérique.
