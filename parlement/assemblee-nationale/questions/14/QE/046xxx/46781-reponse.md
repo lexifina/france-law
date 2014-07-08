@@ -1,0 +1,9 @@
+# Réponse à la question n° 46781
+
+- Question : [46781](46781.md) — Question n° 46781 — statut; revendications
+
+## Réponse
+
+*JO du 2014-07-08*
+
+Les conseillers pédagogiques exercent une mission essentielle d'animation pédagogique générale qui comprend l'accompagnement des équipes pédagogiques, la participation à la formation initiale et continue des professeurs des écoles ainsi que l'accompagnement à la prise de fonction des néo-titulaires. Le conseiller pédagogique est un enseignant généraliste qui a une expertise reconnue sur le plan pédagogique. Compte tenu des compétences pédagogiques attendues, notamment dans le domaine de la formation, il est envisagé de rénover la certification des formateurs en revoyant le Certificat d'Aptitude aux Fonctions d'Instituteur-Professeur des Écoles Maître-Formateur (CAFIPEMF). Cet examen professionnel a vocation à s'inscrire dans un parcours de validation des acquis de l'expérience (VAE) qui pourra également concerner les détenteurs actuels du CAFIPEMF. L'accès des conseillers pédagogiques aux masters de formation de formateurs (mention « pratique et ingénierie de la formation ») sera favorisé. Les conseillers pédagogiques appartenant au corps des professeurs des écoles ont droit actuellement à l'attribution de 27 points de nouvelle bonification indiciaire (NBI), ce qui correspond à une rémunération annuelle accessoire de 1 500 €. Dans le cadre de la redéfinition des missions des conseillers pédagogiques et afin de mieux prendre en compte leur investissement dans l'animation des circonscriptions, leur rémunération accessoire sera revalorisée pour la création d'une indemnité de fonction d'un montant annuel de 1 000 €. Les conseillers pédagogiques pourront par ailleurs bénéficier d'un accès facilité à la hors classe du corps de professeurs des écoles. Enfin, les fonctions de conseiller pédagogique seront prises en compte pour l'accès au nouveau grade d'avancement qui sera créé dans les corps enseignants.
