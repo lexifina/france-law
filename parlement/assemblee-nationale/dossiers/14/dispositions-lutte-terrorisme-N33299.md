@@ -1,0 +1,58 @@
+# Police et sécurité : dispositions relatives à la lutte contre le terrorisme
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33299
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/dispositions_lutte_terrorisme
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-807.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-07-09 : 1er dépôt d'une initiative. (PRJLANR5L14B2110)
+  - 2014-07-09 : Etude d'impact (ETDIANR5L14B2110)
+  - 2014-07-09 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-09 : Renvoi en commission au fond
+      - 2014-07-09 : Nomination de rapporteur
+      - 2014-07-16 : Réunion de commission
+      - 2014-07-22 : Réunion de commission
+      - 2014-07-22 : Réunion de commission
+      - 2014-09-15 : Réunion de commission
+      - 2014-07-22 : Dépôt de rapport (RAPPANR5L14B2173, PRJLANR5L14BTC2173)
+  - Discussion en séance publique
+    - 2014-09-15 : Discussion en séance publique
+    - 2014-09-15 : Discussion en séance publique
+    - 2014-09-16 : Discussion en séance publique
+    - 2014-09-17 : Discussion en séance publique
+    - 2014-09-17 : Discussion en séance publique
+    - 2014-09-18 : Discussion en séance publique
+    - 2014-09-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-09-18 : Dépôt d'une initiative en navette (PRJLSNR5S219B0807)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-09-18 : Renvoi en commission au fond
+      - 2014-07-23 : Nomination de rapporteur
+      - 2014-10-09 : Dépôt de rapport (RAPPSNR5S239B0009)
+  - Discussion en séance publique
+    - 2014-10-15 : Discussion en séance publique
+    - 2014-10-16 : Discussion en séance publique
+    - 2014-10-16 : Décision
+- Commission Mixte Paritaire
+  - 2014-10-17 : Dépôt d'un projet de loi (PRJLANR5L14B2304)
+  - 2014-10-17 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-10-21 : Nomination de rapporteur
+    - 2014-10-21 : Dépôt du rapport d'une CMP (RAPPANR5L14B2308)
+    - 2014-10-21 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0037)
+  - Discussion en séance publique
+    - 2014-10-29 : Discussion en séance publique
+    - 2014-10-29 : Décision
+  - Discussion en séance publique
+    - 2014-11-04 : Discussion en séance publique
+    - 2014-11-04 : Décision
+  - 2014-10-21 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-11-13 : Promulgation d'une loi
