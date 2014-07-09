@@ -996,7 +996,7 @@ par emploi
 
 |
 
-Chef du service habitat, aménagement et développement durable
+Chef du service habitat, construction ville
 
 |
 
@@ -1012,9 +1012,7 @@ A
 
 |
 
-Chef de la cellule ville et renouvellement urbain
-
-|
+Responsable de l'unité ville et renouvellement urbain |
 
 A
 
@@ -1028,7 +1026,7 @@ A
 
 |
 
-Adjoint au chef de la cellule ville et renouvellement urbain
+Adjoint au responsable de l'unité ville et renouvellement urbain
 
 |
 
@@ -1076,7 +1074,7 @@ B
 
 |
 
-Chargé de mission politique de la ville
+Chargé de la commission de conciliation et des gens du voyage
 
 |
 
@@ -1092,9 +1090,7 @@ B
 
 |
 
-Chargé de gestion socialedu logement et du droit au logement opposable
-
-|
+Adjoint au responsable de l'unité lutte contre les exclusions et observation de l'habitat |
 
 B
 
