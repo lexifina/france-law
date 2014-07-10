@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008674
+
+- Question : [SEQ131008674](seq131008674.md) — Conditions de transfert de la propriété des collèges aux conseils généraux
+
+## Réponse
+
+*Finances et comptes publics, JO du 2014-07-10, page 1681*
+
+L'article L. 213-3 du code de l'éducation prévoit les conditions dans lesquelles la propriété des biens immobiliers des collèges appartenant à une commune ou groupement de communes peut être remise gratuitement au département. Ce transfert est en principe soumis à l'accord préalable des deux parties ; à la demande du département, il est toutefois réalisé de droit lorsque celui-ci a antérieurement pris à sa charge des travaux de construction, reconstruction ou extension réalisés sur ces biens. Dans l'un et l'autre cas, ce transfert à titre gratuit ne donne lieu au versement d'aucun droit, taxe, contribution prévue à l'article 879 du code général des impôts (CGI). Concernant la nécessité d'un diagnostic préalable, la circulaire NOR/MCT/B/06/00077/C du 17 novembre 2006 rappelle que : « le transfert des biens ne donne lieu à l'établissement d'aucun diagnostic obligatoire. En effet, en application des articles L. 213-4 et L. 214-8 du code de l'éducation et de l'article L. 1321-2 du code général des collectivités territoriales, issus des lois de décentralisation (loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'État - loi Defferre- et la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 précitée), les départements et régions assument l'ensemble des obligations du propriétaire sur les biens mis à leur disposition pour l'exercice de leurs compétences ». Les débats parlementaires sont particulièrement éclairants sur ce point. Les amendements déposés en vue d'imposer un diagnostic ont été expressément écartés par le législateur. Aucune disposition imposant la réalisation de ces diagnostics n'a été adoptée depuis lors.
