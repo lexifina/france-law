@@ -1,10 +1,14 @@
 # Article Annexe
 
-I. ― Ressort du SGAP de Paris / préfecture de la région d'Ile-de-France, préfecture de Paris
+I. - Ressort du secrétariat général pour l'administration de la préfecture de police/
 
-1. Préfecture de police / direction de la sécurité de proximité de l'agglomération parisienne
+préfecture de la région d'Ile-de-France, préfecture de Paris
 
-A. ― Secteurs d'encadrement prioritaire
+1. Préfecture de police/
+
+direction de la sécurité de proximité de l'agglomération parisienne
+
+A. - Secteurs d'encadrement prioritaire
 
 (pour les directions territoriales de la sécurité de proximité)
 
@@ -12,17 +16,9 @@ DÉPARTEMENTS
 
 |
 
-CIRCONSCRIPTIONS DE SÉCURITÉ
+CIRCONSCRIPTIONS DE SÉCURITÉ DE PROXIMITÉ
 
-de proximité de la préfecture de police
-
-|
-
-92
-
-|
-
-D1 / ASNIERES
+de la préfecture de police
 
 |
 
@@ -30,7 +26,7 @@ D1 / ASNIERES
 
 |
 
-D3 / BOULOGNE-BILLANCOURT
+D1/ASNIERES
 
 |
 
@@ -38,7 +34,7 @@ D3 / BOULOGNE-BILLANCOURT
 
 |
 
-D4 / CHATENAY-MALABRY
+D3/BOULOGNE-BILLANCOURT
 
 |
 
@@ -46,7 +42,7 @@ D4 / CHATENAY-MALABRY
 
 |
 
-D1 / CLICHY
+D4/CHATENAY-MALABRY
 
 |
 
@@ -54,7 +50,7 @@ D1 / CLICHY
 
 |
 
-D1 / COLOMBES
+D1/CLICHY
 
 |
 
@@ -62,7 +58,7 @@ D1 / COLOMBES
 
 |
 
-D1 / GENNEVILLIERS
+D1/COLOMBES
 
 |
 
@@ -70,7 +66,7 @@ D1 / GENNEVILLIERS
 
 |
 
-D3 / ISSY-LES-MOULINEAUX
+D1/GENNEVILLIERS
 
 |
 
@@ -78,7 +74,7 @@ D3 / ISSY-LES-MOULINEAUX
 
 |
 
-D4 / MONTROUGE
+D3/ISSY-LES-MOULINEAUX
 
 |
 
@@ -86,7 +82,7 @@ D4 / MONTROUGE
 
 |
 
-D2 / NANTERRE
+D4/MONTROUGE
 
 |
 
@@ -94,7 +90,7 @@ D2 / NANTERRE
 
 |
 
-D2 / RUEIL-MALMAISON
+D2/NANTERRE
 
 |
 
@@ -102,7 +98,7 @@ D2 / RUEIL-MALMAISON
 
 |
 
-D2 / SURESNES
+D2/RUEIL-MALMAISON
 
 |
 
@@ -110,7 +106,15 @@ D2 / SURESNES
 
 |
 
-D1 / VILLENEUVE-LA-GARENNE
+D2/SURESNES
+
+|
+
+92
+
+|
+
+D1/VILLENEUVE-LA-GARENNE
 
 |
 
@@ -118,7 +122,7 @@ D1 / VILLENEUVE-LA-GARENNE
 
 |
 
-D2 / AUBERVILLIERS
+D2/AUBERVILLIERS
 
 |
 
@@ -126,7 +130,7 @@ D2 / AUBERVILLIERS
 
 |
 
-D3 / AULNAY-SOUS-BOIS
+D3/AULNAY-SOUS-BOIS
 
 |
 
@@ -134,7 +138,7 @@ D3 / AULNAY-SOUS-BOIS
 
 |
 
-D1 / BOBIGNY
+D1/BOBIGNY
 
 |
 
@@ -142,7 +146,7 @@ D1 / BOBIGNY
 
 |
 
-D1 / BONDY
+D1/BONDY
 
 |
 
@@ -150,7 +154,7 @@ D1 / BONDY
 
 |
 
-D1 / DRANCY
+D4/CLICHY-MONTFERMEIL
 
 |
 
@@ -158,7 +162,7 @@ D1 / DRANCY
 
 |
 
-D2 / EPINAY-SUR-SEINE
+D1/DRANCY
 
 |
 
@@ -166,7 +170,7 @@ D2 / EPINAY-SUR-SEINE
 
 |
 
-D4 / GAGNY
+D2/EPINAY-SUR-SEINE
 
 |
 
@@ -174,7 +178,7 @@ D4 / GAGNY
 
 |
 
-D2 / LA COURNEUVE
+D4/GAGNY
 
 |
 
@@ -182,7 +186,7 @@ D2 / LA COURNEUVE
 
 |
 
-D3 / LE BLANC-MESNIL
+D2/LA COURNEUVE
 
 |
 
@@ -190,7 +194,7 @@ D3 / LE BLANC-MESNIL
 
 |
 
-D3 / LE RAINCY
+D3/LE BLANC-MESNIL
 
 |
 
@@ -198,7 +202,7 @@ D3 / LE RAINCY
 
 |
 
-D1 / LES LILAS
+D3/LE RAINCY
 
 |
 
@@ -206,7 +210,7 @@ D1 / LES LILAS
 
 |
 
-D3 / LIVRY-GARGAN
+D1/LES LILAS
 
 |
 
@@ -214,7 +218,7 @@ D3 / LIVRY-GARGAN
 
 |
 
-D4 / MONTREUIL
+D3/LIVRY-GARGAN
 
 |
 
@@ -222,7 +226,7 @@ D4 / MONTREUIL
 
 |
 
-D4 / NEUILLY-SUR-MARNE
+D4/MONTREUIL
 
 |
 
@@ -230,7 +234,7 @@ D4 / NEUILLY-SUR-MARNE
 
 |
 
-D4 / NOISY-LE-GRAND
+D4/NEUILLY-SUR-MARNE
 
 |
 
@@ -238,7 +242,7 @@ D4 / NOISY-LE-GRAND
 
 |
 
-D1 / PANTIN
+D4/NOISY-LE-GRAND
 
 |
 
@@ -246,7 +250,7 @@ D1 / PANTIN
 
 |
 
-D4 / ROSNY-SOUS-BOIS
+D1/PANTIN
 
 |
 
@@ -254,7 +258,7 @@ D4 / ROSNY-SOUS-BOIS
 
 |
 
-D2 / SAINT-DENIS
+D4/ROSNY-SOUS-BOIS
 
 |
 
@@ -262,7 +266,7 @@ D2 / SAINT-DENIS
 
 |
 
-D2 / SAINT-OUEN
+D2/SAINT-DENIS
 
 |
 
@@ -270,7 +274,7 @@ D2 / SAINT-OUEN
 
 |
 
-D2 / STAINS
+D2/SAINT-OUEN
 
 |
 
@@ -278,7 +282,15 @@ D2 / STAINS
 
 |
 
-D3 / VILLEPINTE
+D2/STAINS
+
+|
+
+93
+
+|
+
+D3/VILLEPINTE
 
 |
 
@@ -286,7 +298,7 @@ D3 / VILLEPINTE
 
 |
 
-D4 / CHAMPIGNY
+D4/CHAMPIGNY
 
 |
 
@@ -294,7 +306,7 @@ D4 / CHAMPIGNY
 
 |
 
-D4 / CHENNEVIERES-SUR-MARNE
+D4/CHENNEVIERES-SUR-MARNE
 
 |
 
@@ -302,7 +314,7 @@ D4 / CHENNEVIERES-SUR-MARNE
 
 |
 
-D2 / CHOISY-LE-ROI
+D2/CHOISY-LE-ROI
 
 |
 
@@ -310,7 +322,7 @@ D2 / CHOISY-LE-ROI
 
 |
 
-D1 / CRETEIL
+D1/CRETEIL
 
 |
 
@@ -318,7 +330,7 @@ D1 / CRETEIL
 
 |
 
-D2 / IVRY-SUR-SEINE
+D2/IVRY-SUR-SEINE
 
 |
 
@@ -326,7 +338,7 @@ D2 / IVRY-SUR-SEINE
 
 |
 
-D3 / LE KREMLIN-BICETRE
+D3/LE KREMLIN-BICETRE
 
 |
 
@@ -334,7 +346,7 @@ D3 / LE KREMLIN-BICETRE
 
 |
 
-D3 / L'HAY-LES-ROSES
+D3/L'HAY-LES-ROSES
 
 |
 
@@ -342,7 +354,7 @@ D3 / L'HAY-LES-ROSES
 
 |
 
-D4 / NOGENT-SUR-MARNE
+D4/NOGENT-SUR-MARNE
 
 |
 
@@ -350,7 +362,7 @@ D4 / NOGENT-SUR-MARNE
 
 |
 
-D2 / VILLENEUVE-SAINT-GEORGES
+D2/VILLENEUVE-SAINT-GEORGES
 
 |
 
@@ -358,7 +370,7 @@ D2 / VILLENEUVE-SAINT-GEORGES
 
 |
 
-D4 / VINCENNES
+D4/VINCENNES
 
 |
 
@@ -366,7 +378,7 @@ D4 / VINCENNES
 
 |
 
-D1 / ALFORTVILLE
+D1/ALFORTVILLE
 
 |
 
@@ -374,11 +386,11 @@ D1 / ALFORTVILLE
 
 |
 
-D2 / VITRY-SUR-SEINE
+D2/VITRY-SUR-SEINE
 
 |
 
-B. ― Unités d'encadrement prioritaire
+B. - Unités d'encadrement prioritaire
 
 DÉPARTEMENTS
 
@@ -392,11 +404,19 @@ UNITÉS
 
 |
 
-Unité territoriale 75 de la compagnie de sécurisation de l'agglomération
+Compagnie de sécurisation et d'intervention de Paris
 
 |
 
-75 / 92 / 93 / 94
+93
+
+|
+
+Compagnie de sécurisation et d'intervention de Seine-Saint-Denis
+
+|
+
+75/92/93/94
 
 |
 
@@ -404,7 +424,7 @@ Sous-direction régionale de police des transports
 
 |
 
-2. Préfecture de police / direction de l'ordre public et de la circulation
+2. Préfecture de police/direction de l'ordre public et de la circulation
 
 DÉPARTEMENTS
 
@@ -418,7 +438,7 @@ UNITÉS
 
 |
 
-Compagnies d'intervention des 1er, 2e et 3e districts
+Service du groupement des compagnies d'intervention
 
 |
 
@@ -430,13 +450,13 @@ Compagnies de circulation du service des compagnies centrales de circulation
 
 |
 
-II. ― Ressort du SGAP de Versailles / direction centrale de la sécurité publique
+II. - Ressort du secrétariat général pour l'administration de la préfecture de police/ direction centrale de la sécurité publique
 
 DÉPARTEMENTS
 
 |
 
-CIRCONSCRIPTIONS
+CIRCONSCRIPTIONS DE SÉCURITÉ PUBLIQUE
 
 |
 
@@ -445,14 +465,6 @@ CIRCONSCRIPTIONS
 |
 
 CSP LAGNY-SUR-MARNE
-
-|
-
-77
-
-|
-
-CSP MITRY-MORY
 
 |
 
