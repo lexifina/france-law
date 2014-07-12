@@ -1,5 +1,551 @@
 # Article Annexe
 
+PRÉFECTURE DE PARIS
+
+Emplois bénéficiaires de la nouvelle bonification indiciaire
+
+LIBELLÉ
+
+|
+
+CATÉGORIE
+
+|
+
+FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
+
+|
+
+|
+
+AU TITRE DE LA MODERNISATION
+
+|
+
+|
+
+Chef du service régional de communication interministérielle
+
+|
+
+A
+
+|
+
+Chef de la section modernisation et mutualisation des services de la préfecture et des services de l'Etat
+
+|
+
+A
+
+|
+
+Adjoint au chef du bureau de l'animation des actions de l'Etat
+
+|
+
+A
+
+|
+
+Délégué régional à la formation
+
+|
+
+A
+
+|
+
+Secrétaire des instances paritaires
+
+|
+
+B
+
+|
+
+Gestionnaire courrier-Responsable de la section courrier
+
+|
+
+C
+
+|
+
+Gestionnaire courrier-Adjoint au responsable de la section courrier
+
+|
+
+C
+
+|
+
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
+
+|
+
+|
+
+Adjoint au chef du centre de services partagés régional (CSPR)
+
+|
+
+B
+
+|
+
+Chef du centre de services partagés régional (CSPR)
+
+|
+
+A
+
+|
+
+Chef de section contrôle de légalité de la commande publique
+
+|
+
+A
+
+|
+
+Chef du bureau du BOP régional et de la mutualisation
+
+|
+
+A
+
+|
+
+Chef de bureau de la coordination des politiques publiques
+
+|
+
+A
+
+|
+
+Chargé du pilotage et la gestion des effectifs et de la masse salariale des BOP des préfectures
+
+|
+
+A
+
+|
+
+Chef de la section du contentieux
+
+|
+
+A
+
+|
+
+Chef du bureau des libertés publiques, de la citoyenneté et de la réglementation économique
+
+|
+
+A
+
+|
+
+Adjoint au chef du bureau des marchés et de la logistique, chef de la section marchés publics et achats
+
+|
+
+B
+
+|
+
+Chargé de la réglementation des associations
+
+|
+
+B
+
+|
+
+Gestionnaire BGP2
+
+|
+
+B
+
+|
+
+Adjoint au chef du bureau des affaires financières, immobilières et budgétaires
+
+|
+
+A
+
+|
+
+Chargé du suivi de l'exécution budgétaire du hors T2
+
+|
+
+B
+
+|
+
+Adjointe à la mission régionale achat-SGAR Ile-de-France
+
+|
+
+B
+
+|
+
+Gestionnaire de projets et gestionnaire de recettes
+
+|
+
+B
+
+|
+
+Gestionnaire budgétaire et comptable CHORUS
+
+|
+
+B
+
+|
+
+Gestionnaire chargé de l'exécution des dépenses
+
+|
+
+B
+
+|
+
+Chargé du suivi de l'exécution budgétaire du hors-titre 2
+
+|
+
+C
+
+|
+
+Gestionnaire des marchés publics et des contrats
+
+|
+
+C
+
+|
+
+Gestionnaire paie-Référent paie
+
+|
+
+C
+
+|
+
+Gestionnaire des élections et des affaires générales
+
+|
+
+C
+
+|
+
+Chargé du suivi de l'exécution budgétaire du hors T2-Régisseur de recettes
+
+|
+
+C
+
+|
+
+AU TITTRE DES COMPÉTENCES TECHNIQUES, UTILISATION DE MATÉRIELS ET DOCUMENTATIONS
+
+|
+
+|
+
+Chef du bureau des marchés et de la logistique
+
+|
+
+A
+
+|
+
+Responsable du pôle veille et analyse
+
+|
+
+B
+
+|
+
+Chef de la section garage
+
+|
+
+B
+
+|
+
+Chef de la section logistique
+
+|
+
+B
+
+|
+
+Chargé de la veille et analyse
+
+|
+
+B
+
+|
+
+Intendant
+
+|
+
+C
+
+|
+
+FONCTION D'ACCUEIL EXTERNE OU INTERNE
+
+|
+
+|
+
+Chef du centre de veille et d'analyse
+
+|
+
+A
+
+|
+
+Adjoint au chef du service du protocole, de l'accueil et de la sécurité, chef de la section protocole et accueil
+
+|
+
+B
+
+|
+
+Chef de la section de l'accueil et de la sécurité
+
+|
+
+C
+
+|
+
+Agent d'accueil
+
+|
+
+C
+
+|
+
+Agent d'accueil
+
+|
+
+C
+
+|
+
+Agent d'accueil
+
+|
+
+C
+
+|
+
+FONCTION D'ENCADREMENT, CONTRAINTES ET RESPONSABILITÉS PARTICULIÈRES
+
+|
+
+|
+
+Chef du service de la stratégie et de l'analyse
+
+|
+
+A
+
+|
+
+Chef de bureau des affaires réservées
+
+|
+
+A
+
+|
+
+Adjoint au chef de bureau des ressources humaines
+
+|
+
+A
+
+|
+
+Secrétariat du directeur de la modernisation et de l'administration
+
+|
+
+C
+
+|
+
+Secrétariat et gestion pôle droit des sols
+
+|
+
+C
+
+|
+
+PRÉFECTURE DE POLICE
+
+Emplois bénéficiaires de la nouvelle bonification indiciaire
+
+LIBELLÉ
+
+|
+
+CATÉGORIE
+
+|
+
+FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
+
+|
+
+|
+
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
+
+|
+
+|
+
+Chef du département stratégie au service des affaires immobilières (SAI)
+
+|
+
+A
+
+|
+
+Chef du bureau des ressources et de la modernisation (CABINET)
+
+|
+
+A
+
+|
+
+AU TITRE DES COMPÉTENCES TECHNIQUES
+
+|
+
+|
+
+Chef du département constructions et travaux (SAI)
+
+|
+
+A
+
+|
+
+Secrétaire général, adjoint au chef du service de la mémoire et des affaires culturelles (SMAC)
+
+|
+
+A
+
+|
+
+FONCTION NOTAMMENT D'ENCADREMENT ASSORTIE DE CONTRAINTES PARTICULIÈRES
+
+|
+
+|
+
+EMPLOIS D'ENCADREMENT À CONTRAINTES ET RESPONSABILITÉS PARTICULIÈRES DE LA PRÉFECTURE DE POLICE
+
+|
+
+|
+
+Chef de la mission d'appui et de soutien à la modernisation à la direction de la police générale (DPG)
+
+|
+
+A
+
+|
+
+Chef du 1er bureau de la sous-direction de la citoyenneté et des libertés publiques à la direction de la police générale (DPG)
+
+|
+
+A
+
+|
+
+Chef du bureau de la police sanitaire et de l'environnement à la sous-direction de la protection sanitaire et de l'environnement de la direction des transports et de la protection du public (DTPP)
+
+|
+
+A
+
+|
+
+Chef du bureau des hôtels et foyers à la sous-direction de la sécurité du public de la direction des transports et de la protection du public
+
+|
+
+A
+
+|
+
+Chef du bureau du dialogue social, des affaires statutaires et indemnitaires du service de gestion des personnels de l'administration générale (DRH)
+
+|
+
+A
+
+|
+
+Chef du centre de formation à la direction des ressources humaines (DRH)
+
+|
+
+A
+
+|
+
+Chef du bureau du recrutement (DRH)
+
+|
+
+A
+
+|
+
 CABINET DU MINISTRE
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
@@ -18,7 +564,7 @@ FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
 |
 
-Au titre de la modernisation
+AU TITRE DE LA MODERNISATION
 
 |
 
@@ -40,7 +586,7 @@ B
 
 |
 
-Mise en place du travail collaboratif législatif et réglementaire avec Matignon
+Chargé du suivi des textes législatifs et réglementaires avec Matignon
 
 |
 
@@ -56,7 +602,7 @@ A
 
 |
 
-Au titre des compétences techniques
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
@@ -70,7 +616,7 @@ C
 
 |
 
-Au titre des attributions financières, comptables et juridiques
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
 
 |
 
@@ -92,7 +638,7 @@ A
 
 |
 
-Gestion budgétaire cabinet
+Gestion budgétaire Cabinet
 
 |
 
@@ -100,7 +646,7 @@ B
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIÈRES
+FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES
 
 |
 
@@ -134,6 +680,38 @@ Responsable logistique
 
 |
 
+A
+
+|
+
+Secrétariat de membres de cabinet
+
+|
+
+C
+
+|
+
+Secrétariat de membres de cabinet
+
+|
+
+C
+
+|
+
+Secrétariat de membres de cabinet
+
+|
+
+C
+
+|
+
+Secrétariat de membres de cabinet
+
+|
+
 B
 
 |
@@ -142,43 +720,11 @@ Secrétariat de membres de cabinet
 
 |
 
-C
+B
 
 |
 
-Secrétariat de membres de cabinet
-
-|
-
-C
-
-|
-
-Secrétariat de membres de cabinet
-
-|
-
-C
-
-|
-
-Secrétariat de membres de cabinet
-
-|
-
-C
-
-|
-
-Secrétariat de membres de cabinet
-
-|
-
-C
-
-|
-
-FONCTIONS D'ACCUEIL
+FONCTION D'ACCUEIL
 
 |
 
@@ -212,8 +758,6 @@ INSPECTION GÉNÉRALE DE L'ADMINISTRATION
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
 
-|
-
 LIBELLÉ
 
 |
@@ -228,7 +772,7 @@ FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
 |
 
-Au titre des attributions financières, comptables et juridiques
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
 
 |
 
@@ -242,9 +786,7 @@ B
 
 |
 
-FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIE
-
-DE CONTRAINTES ET DE RESPONSABILITÉ PARTICULIÈRE
+FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES ET DE RESPONSABILITÉS PARTICULIÈRES
 
 |
 
@@ -262,8 +804,6 @@ CABINET DU SECRÉTARIAT GÉNÉRAL
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
 
-|
-
 LIBELLÉ
 
 |
@@ -272,15 +812,43 @@ CATÉGORIE
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIÈRES
+FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES
 
-Emplois de secrétariat
+|
+
+|
+
+EMPLOIS DE SECRÉTARIAT
 
 |
 
 |
 
 Secrétaire du directeur de cabinet et du directeur adjoint
+
+|
+
+B
+
+|
+
+Secrétaire du directeur de cabinet et du directeur adjoint
+
+|
+
+B
+
+|
+
+Secrétaire du secrétaire général
+
+|
+
+B
+
+|
+
+Secrétaire du secrétaire général
 
 |
 
@@ -288,33 +856,13 @@ C
 
 |
 
-Secrétaire du directeur de cabinet et du directeur adjoint
-
-|
-
-B
-
-|
-
-Secrétaire du secrétaire général
-
-|
-
-B
-
-|
-
-Secrétaire du secrétaire général
-
-|
-
-B
-
-|
-
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre des compétences techniques
+|
+
+|
+
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
@@ -334,8 +882,6 @@ SERVICE DU HAUT FONCTIONNAIRE DE DÉFENSE
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
 
-|
-
 LIBELLÉ
 
 |
@@ -346,21 +892,17 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre des compétences techniques
+|
+
+|
+
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
 |
 
-Chef de la section conseil, audit et formation
-
-|
-
-A
-
-|
-
-FONCTIONS ASSORTIE DE CONTRAINTES PARTICULIÈRES
+FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES
 
 |
 
@@ -374,7 +916,7 @@ A
 
 |
 
-Emplois de secrétariat
+EMPLOIS DE SECRÉTARIAT
 
 |
 
@@ -395,14 +937,10 @@ Secrétaire du directeur
 C
 
 |
-
-SECRÉTARIAT GÉNÉRAL
 
 DIRECTION DE LA MODERNISATION ET DE L'ADMINISTRATION TERRITORIALE
 
 Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
 
 LIBELLÉ
 
@@ -414,13 +952,17 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre de la modernisation
+|
+
+|
+
+AU TITRE DE LA MODERNISATION
 
 |
 
 |
 
-Pilotage de la LOLF
+Chef de la section financière et retraite
 
 |
 
@@ -428,7 +970,7 @@ A
 
 |
 
-Chargé de la conception et de la généralisation du contrôle de gestion dans les préfectures
+Chargé de la qualité et des procédures de l'administration territoriale
 
 |
 
@@ -452,7 +994,7 @@ A
 
 |
 
-Au titre des attributions financières, comptables et juridiques
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
 
 |
 
@@ -478,11 +1020,11 @@ Gestionnaire des marchés publics élections
 
 |
 
-B
+A
 
 |
 
-Référent RH - référent budget
+Référent RH-Référent budget
 
 |
 
@@ -498,7 +1040,35 @@ B
 
 |
 
-Responsable de la comptabilité de la direction
+Chargé des statistiques, de la cartographie et de l'analyse démographique et électorale
+
+|
+
+A
+
+|
+
+Adjoint technico-fonctionnel au chef de département "projet et développement des applications"
+
+|
+
+A
+
+|
+
+FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES
+
+|
+
+|
+
+EMPLOIS DE SECRÉTARIAT
+
+|
+
+|
+
+Secrétaire du directeur
 
 |
 
@@ -506,14 +1076,6 @@ B
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIÈRES
-
-Emplois de secrétariat
-
-|
-
-|
-
 Secrétaire du directeur
 
 |
@@ -521,30 +1083,8 @@ Secrétaire du directeur
 C
 
 |
-
-Secrétaire du directeur
-
-|
-
-C
-
-|
-
-Secrétaire du directeur
-
-|
-
-C
-
-|
-
-SECRÉTARIAT GÉNÉRAL
 
 DIRECTION DES RESSOURCES HUMAINES
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
 
 LIBELLÉ
 
@@ -556,7 +1096,11 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre de la modernisation
+|
+
+|
+
+AU TITRE DE LA MODERNISATION
 
 |
 
@@ -570,7 +1114,7 @@ A
 
 |
 
-Chef du pôle concours (SDRF)
+Chef du pôle concours (BRPP/ SDRF)
 
 |
 
@@ -578,15 +1122,23 @@ A
 
 |
 
-Chef de la section formation continue du bureau de la formation (SDRF)
+Chef de la section formation continue (BF/ SDRF)
 
 |
 
-B
+A
 
 |
 
-Au titre des attributions financières, comptables et juridiques
+Chef de la section des ressources documentaires, du multimédia et de la logistique du CNF (BRIA/ SDRF)
+
+|
+
+A
+
+|
+
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
 
 |
 
@@ -600,7 +1152,7 @@ B
 
 |
 
-Chef de la section marchés publics (SDRF)
+Chef de la section des achats et de la gestion financière (BRIA/ SDRF)
 
 |
 
@@ -608,7 +1160,7 @@ B
 
 |
 
-Adjoint au chef du bureau des formations (SDRF)
+Adjoint au chef du bureau des formations (BF/ SDRF)
 
 |
 
@@ -616,23 +1168,7 @@ A
 
 |
 
-Chef de la cellule comptable (SDRF)
-
-|
-
-B
-
-|
-
-Enregistrement des données et suivi du tableau de pilotage de l'activité de la SDRF
-
-|
-
-C
-
-|
-
-Adjoint au chef du bureau du recrutement et de la promotion professionnelle (SDRF)
+Chef de la section prise de poste du bureau des formations (BF/ SDRF)
 
 |
 
@@ -640,7 +1176,15 @@ A
 
 |
 
-Adjoint au chef du bureau des ressources, de l'information et de l'accueil (SDRF)
+Adjoint au chef du bureau du recrutement et de la promotion professionnelle (BRPP/ SDRF)
+
+|
+
+A
+
+|
+
+Adjoint au chef du bureau des ressources, de l'information et de l'accueil (BRIA/ SDRF)
 
 |
 
@@ -672,14 +1216,6 @@ B
 
 |
 
-Chargé d'études juridiques
-
-|
-
-B
-
-|
-
 Adjoint au chef du bureau (BFPP)
 
 |
@@ -688,7 +1224,7 @@ A
 
 |
 
-Chargé d'études juridiques
+Chargé des affaires générales et juridiques au sein de la section primes (BFPP)
 
 |
 
@@ -696,7 +1232,7 @@ B
 
 |
 
-Adjoint au chef de la section primes (BFPP)
+Chargé de l'élaboration et de la mise en œuvre des régimes indemnitaires au sein de la section primes (BFPP)
 
 |
 
@@ -720,7 +1256,7 @@ A
 
 |
 
-Adjoint au chef de la section paie (BFPP)
+Chef du pôle des hauts fonctionnaires (BFPP)
 
 |
 
@@ -728,11 +1264,35 @@ B
 
 |
 
-Gestionnaire de paie (BFPP)
+Chef du pôle des personnels contractuels, techniques et spécialisés (BFPP)
 
 |
 
 C
+
+|
+
+Chef du pôle des personnels administratifs (BFPP)
+
+|
+
+B
+
+|
+
+Chef du pôle des affaires transversales (BFPP)
+
+|
+
+B
+
+|
+
+Chef du pôle de la sécurité routière (BFPP)
+
+|
+
+B
 
 |
 
@@ -752,11 +1312,11 @@ A
 
 |
 
-Adjoint au chef de la section affaires générales (BAGES)
+Chef de pôle statut et affaires juridiques (BAGES)
 
 |
 
-B
+A
 
 |
 
@@ -888,7 +1448,7 @@ A
 
 |
 
-Chef de la section pilotage stratégique (BPA)
+Chef de pôle mobilité centrale (BPA)
 
 |
 
@@ -896,7 +1456,7 @@ A
 
 |
 
-Chef de la section GPRH (BGPRH)
+Adjoint au chef de bureau, chef de la section stratégie RH, gestion qualitative et coordination (BGPRH)
 
 |
 
@@ -904,7 +1464,7 @@ A
 
 |
 
-Adjoint au chef de section GPRH (BGPRH)
+Chef de la section études des effectifs, prévision et synthèse (BGPRH)
 
 |
 
@@ -912,13 +1472,13 @@ A
 
 |
 
-Au titre des compétences techniques
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
 |
 
-Chef de la section promotion professionnelle du BRPP (SDRF)
+Chef de la section promotion professionnelle (BRPP/ SDRF)
 
 |
 
@@ -926,7 +1486,7 @@ A
 
 |
 
-Chef de la section pilotage des ressources (SDRF)
+Chef de la section pilotage des ressources (BF/ SDRF)
 
 |
 
@@ -942,7 +1502,7 @@ B
 
 |
 
-FONCTIONS D'ACCUEIL
+FONCTION D'ACCUEIL
 
 |
 
@@ -964,7 +1524,7 @@ A
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIÈRES
+FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES
 
 |
 
@@ -1018,7 +1578,7 @@ B
 
 |
 
-Emplois de secrétariat
+EMPLOIS DE SECRÉTARIAT
 
 |
 
@@ -1040,11 +1600,11 @@ B
 
 |
 
-Secrétaire du chef de cabinet (DIR)
+Adjoint au chef de cabinet
 
 |
 
-C
+A
 
 |
 
@@ -1056,15 +1616,7 @@ C
 
 |
 
-SECRÉTARIAT GÉNÉRAL
-
-DIRECTION DE L'ÉVALUATION DE LA PERFORMANCE,
-
-DES AFFAIRES FINANCIÈRES ET IMMOBILIÈRES
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
+DIRECTION DE L'ÉVALUATION DE LA PERFORMANCE, DES AFFAIRES FINANCIÈRES ET IMMOBILIÈRES
 
 LIBELLÉ
 
@@ -1076,7 +1628,11 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre de la modernisation
+|
+
+|
+
+AU TITRE DE LA MODERNISATION
 
 |
 
@@ -1114,7 +1670,7 @@ C
 
 |
 
-Au titre des attributions financières, comptables et juridiques
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
 
 |
 
@@ -1136,25 +1692,7 @@ A
 
 |
 
-Adjoint au chef du bureau de la commande publique et de la performance des achats
-
-(BCPPA)
-
-|
-
-A
-
-|
-
-Adjoint au chef du bureau de la synthèse budgétaire (BFIP)
-
-|
-
-A
-
-|
-
-Responsable du pôle "demandes de paiements" au centre des prestations financières (CPFI)
+Chef du pôle "Demandes de paiements" au centre des prestations financières (CPFI)
 
 |
 
@@ -1162,23 +1700,7 @@ B
 
 |
 
-Responsable du pôle "engagements simples" au centre des prestations financières (CPFI)
-
-|
-
-B
-
-|
-
-Responsable du pôle "engagements complexes" au centre des prestations financières (CPFI)
-
-|
-
-B
-
-|
-
-Responsable du pôle "recettes" au centre des prestations financières (CPFI)
+Adjoint au chef du bureau du fonctionnement et de l'investissement des programmes (BFIP)
 
 |
 
@@ -1186,7 +1708,39 @@ A
 
 |
 
-Responsable du pôle "restitutions" au centre des prestations financières (CPFI)
+Adjoint au chef du bureau de la commande publique et de la performance des achats (BCPPA)
+
+|
+
+A
+
+|
+
+Chef du pôle "Engagements juridiques sur marché" au centre des prestations financières (CPFI)
+
+|
+
+A
+
+|
+
+Chef du pôle "Engagements juridiques hors marché" au centre des prestations financières (CPFI)
+
+|
+
+A
+
+|
+
+Chef du pôle "Recettes" au centre des prestations financières (CPFI)
+
+|
+
+B
+
+|
+
+Chef du pôle "Restitutions" au centre des prestations financières (CPFI)
 
 |
 
@@ -1210,7 +1764,7 @@ A
 
 |
 
-Au titre des compétences techniques
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
@@ -1224,9 +1778,13 @@ A
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIÈRES
+FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES
 
-Emplois de secrétariat
+|
+
+|
+
+EMPLOIS DE SECRÉTARIAT
 
 |
 
@@ -1247,14 +1805,8 @@ Assistante de direction
 C
 
 |
-
-SECRÉTARIAT GÉNÉRAL
 
 DIRECTION DES SYSTÈMES D'INFORMATION ET DE COMMUNICATION
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
 
 LIBELLÉ
 
@@ -1266,7 +1818,11 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre de la modernisation
+|
+
+|
+
+AU TITRE DE LA MODERNISATION
 
 |
 
@@ -1280,7 +1836,7 @@ A
 
 |
 
-Chargé du développement des compétences
+Chef de la section effectifs et compétences
 
 |
 
@@ -1288,7 +1844,7 @@ A
 
 |
 
-Chargé du reclassement des agents dans le cadre de la restructuration des services
+Chargé du suivi des effectifs et des compétences, et de l'accueil des stagiaires
 
 |
 
@@ -1296,7 +1852,7 @@ B
 
 |
 
-Pilotage réseau territorial
+Adjoint au chef de la division pilotage budgétaire de MGMSIC
 
 |
 
@@ -1316,7 +1872,7 @@ Chargé de la mise en œuvre des nouvelles procédures budgétaires et financiè
 
 |
 
-C
+B
 
 |
 
@@ -1344,9 +1900,7 @@ B
 
 |
 
-FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES
-
-ET DE RESPONSABILITÉS PARTICULIÈRES
+FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIE DE CONTRAINTES ET DE RESPONSABILITÉS PARTICULIÈRES
 
 |
 
@@ -1432,7 +1986,7 @@ A
 
 |
 
-Emplois de secrétariat
+EMPLOIS DE SECRÉTARIAT
 
 |
 
@@ -1453,14 +2007,8 @@ Assistante de direction
 C
 
 |
-
-SECRÉTARIAT GÉNÉRAL
 
 DÉLÉGATION À L'INFORMATION ET À LA COMMUNICATION
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
 
 LIBELLÉ
 
@@ -1470,9 +2018,13 @@ CATÉGORIE
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIÈRES
+FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES
 
-Emplois de secrétariat
+|
+
+|
+
+EMPLOI DE SECRÉTARIAT
 
 |
 
@@ -1488,7 +2040,11 @@ B
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre des compétences techniques
+|
+
+|
+
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
@@ -1504,10 +2060,6 @@ B
 
 DIRECTION DES LIBERTÉS PUBLIQUES ET DES AFFAIRES JURIDIQUES
 
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
-
 LIBELLÉ
 
 |
@@ -1518,7 +2070,11 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre de la modernisation
+|
+
+|
+
+AU TITRE DE LA MODERNISATION
 
 |
 
@@ -1540,7 +2096,7 @@ B
 
 |
 
-Chargé de mission ressources humaines auprès du directeur de cabinet
+Chargé de mission ressources humaines auprès du chef de cabinet
 
 |
 
@@ -1556,7 +2112,7 @@ B
 
 |
 
-Au titre des compétences techniques
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
@@ -1586,7 +2142,7 @@ C
 
 |
 
-Adjoint au chef du bureau du contentieux des polices administratives
+Chef du bureau du contentieux de la sécurité routière
 
 |
 
@@ -1594,13 +2150,13 @@ A
 
 |
 
-Au titre des attributions financières, comptables et juridiques
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
 
 |
 
 |
 
-Chef de la section greffe
+Chef de la mission greffe
 
 |
 
@@ -1608,7 +2164,7 @@ B
 
 |
 
-Chef de la section comptabilité au bureau du contentieux indemnitaire et des affaires immobilières
+Chef de la section comptabilité au bureau du contentieux indemnitaire et des affaires financières
 
 |
 
@@ -1632,17 +2188,15 @@ A
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIÈRES EMPLOI DE SECRÉTARIAT
+FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES
 
 |
 
 |
 
-Secrétaire du directeur des libertés publiques et des affaires juridiques
+EMPLOIS DE SECRÉTARIAT
 
 |
-
-B
 
 |
 
@@ -1651,6 +2205,14 @@ Secrétaire du directeur des libertés publiques et des affaires juridiques
 |
 
 C
+
+|
+
+Secrétaire du directeur des libertés publiques et des affaires juridiques
+
+|
+
+B
 
 |
 
@@ -1666,10 +2228,6 @@ DIRECTION GÉNÉRALE DE LA POLICE NATIONALE
 
 DIRECTION DES RESSOURCES ET DES COMPÉTENCES DE LA POLICE NATIONALE
 
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
-
 LIBELLÉ
 
 |
@@ -1680,13 +2238,17 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre de la modernisation
+|
+
+|
+
+AU TITRE DE LA MODERNISATION
 
 |
 
 |
 
-Directeur d'application dialogue à la SDFP de la DRCPN
+Directeur d'application dialogue de la DRCPN
 
 |
 
@@ -1702,21 +2264,13 @@ A
 
 |
 
-Au titre des attributions financières, comptables et juridiques
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
 
 |
 
 |
 
-Chef de la mission d'appui, de synthèse et de coordination (SDFP-DRCPN)
-
-|
-
-A
-
-|
-
-Responsable des questions parlementaires au cabinet du DGPN
+Chef du bureau des affaires générales au cabinet du DRCPN
 
 |
 
@@ -1724,7 +2278,15 @@ A
 
 |
 
-Chef de la mission pilotage de la performance et synthèse
+Responsable des questions parlementaires au cabinet du directeur général de la police
+
+|
+
+A
+
+|
+
+Chef de la mission de la synthèse budgétaire et du contrôle de gestion
 
 |
 
@@ -1733,10 +2295,6 @@ A
 |
 
 DIRECTION GÉNÉRALE DES COLLECTIVITÉS LOCALES
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
 
 LIBELLÉ
 
@@ -1748,7 +2306,11 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre de la modernisation
+|
+
+|
+
+AU TITRE DE LA MODERNISATION
 
 |
 
@@ -1770,7 +2332,7 @@ A
 
 |
 
-Référent revenu de solidarité active - interventions des collectivités dans le secteur social
+Référent revenu de solidarité active-interventions des collectivités dans le secteur social
 
 |
 
@@ -1802,7 +2364,7 @@ A
 
 |
 
-Au titre des attributions financières, comptables et juridiques
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
 
 |
 
@@ -1856,7 +2418,7 @@ B
 
 |
 
-Au titre des compétences techniques
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
@@ -1878,7 +2440,7 @@ A
 
 |
 
-Référent gestion dotation générale de décentralisation (DGD)
+Référent gestion dotation générale de décentralisation
 
 |
 
@@ -1888,7 +2450,11 @@ A
 
 FONCTIONS ASSORTIES DE CONTRAINTES ET DE RESPONSABILITÉS PARTICULIÈRES
 
-Emplois de secrétariat
+|
+
+|
+
+EMPLOIS DE SECRÉTARIAT
 
 |
 
@@ -1910,7 +2476,7 @@ B
 
 |
 
-FONCTIONS D'ACCUEIL
+FONCTION D'ACCUEIL
 
 |
 
@@ -1934,10 +2500,6 @@ C
 
 DIRECTION GÉNÉRALE DE LA SÉCURITÉ CIVILE ET DE LA GESTION DES CRISES
 
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
-
 LIBELLÉ
 
 |
@@ -1948,7 +2510,11 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre de la modernisation
+|
+
+|
+
+AU TITRE DE LA MODERNISATION
 
 |
 
@@ -1978,7 +2544,7 @@ B
 
 |
 
-Au titre des compétences techniques
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
@@ -2016,13 +2582,13 @@ B
 
 |
 
-Au titre des attributions financières, comptables et juridiques
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
 
 |
 
 |
 
-Responsable de la division administrative et financière du groupement d'hélicoptères
+Responsable de la division administrative et financière du Groupement d'hélicoptères
 
 |
 
@@ -2054,7 +2620,7 @@ A
 
 |
 
-Adjoint au chef du bureau des statuts et du management, chargé de la définition et mise en œuvre des cadres d'emploi des sapeurs- pompiers territoriaux
+Adjoint au chef du bureau des statuts et du management, chargé de la définition et mise en œuvre des cadres d'emploi des sapeurs-pompiers territoriaux
 
 |
 
@@ -2062,7 +2628,7 @@ A
 
 |
 
-Chef de la section examens et concours des sapeurs-pompiers
+Chef de la section examen et concours des sapeurs-pompiers
 
 |
 
@@ -2078,7 +2644,7 @@ A
 
 |
 
-Chargé du suivi des dossiers de MAD des sapeurs-pompiers au cabinet de la DGSCGC
+Chargé du suivi des dossiers de MAD des sapeurs-pompiers au cabinet du DGSCGC
 
 |
 
@@ -2094,9 +2660,7 @@ A
 
 |
 
-FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES
-
-ET DE RESPONSABILITÉS PARTICULIÈRES
+FONCTION NOTAMMENT D'ENCADREMENT ASSORTIE DE CONTRAINTES ET DE RESPONSABILITÉS PARTICULIÈRES
 
 |
 
@@ -2110,7 +2674,7 @@ A
 
 |
 
-Adjoint au chef du bureau opérations et gestion interministérielle des crises, chargé des questions relatives aux EMIZ de défense et du suivi du COGIC
+Adjoint au chef du bureau des opérations et de la gestion des crises, chargé des questions relatives aux EMIZ et au suivi du COGIC
 
 |
 
@@ -2118,7 +2682,7 @@ A
 
 |
 
-Chef du bureau du cabinet et responsable central de la sécurité des systèmes d'information (RCSSI) pour la direction y compris l'ensemble de ses services délocalisés
+Chef du bureau du cabinet et responsable central de la sécurité des systèmes d'information (RCSSI) pour la direction, y compris l'ensemble de ses services délocalisés
 
 |
 
@@ -2144,10 +2708,6 @@ C
 
 PRÉSIDENCE DE LA RÉPUBLIQUE
 
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
-
 LIBELLÉ
 
 |
@@ -2158,21 +2718,25 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre des compétences techniques
+|
+
+|
+
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
 |
 
-Emploi nécessitant l'utilisation de compétences techniques très particulières - utilisation du prompteur - graphisme - logistique
+Emploi nécessitant l'utilisation de compétences techniques très particulières-utilisation du prompteur-graphisme-logistique
 
 |
 
-C
+B
 
 |
 
-Emploi de chef de projet - conducteur de travaux
+Emploi de chef de projet-Conducteur de travaux
 
 |
 
@@ -2180,7 +2744,7 @@ A
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIÈRES
+FONCTION ASSORTIE DE CONTRAINTES PARTICULIÈRES
 
 |
 
@@ -2194,13 +2758,13 @@ A
 
 |
 
-Emplois de secrétariat
+EMPLOIS DE SECRÉTARIAT
 
 |
 
 |
 
-Secrétaire du secrétaire général adjoint du président de la République
+Emploi de secrétariat de membres du cabinet du Président de la République
 
 |
 
@@ -2209,10 +2773,6 @@ C
 |
 
 MISSION DES ARCHIVES NATIONALES
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
 
 LIBELLÉ
 
@@ -2224,7 +2784,11 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre des compétences techniques
+|
+
+|
+
+AU TITRE DES COMPÉTENCES TECHNIQUES
 
 |
 
@@ -2240,9 +2804,35 @@ A
 
 SECRÉTARIAT GÉNÉRAL DU COMITÉ INTERMINISTÉRIEL DE PRÉVENTION DE LA DÉLINQUANCE
 
-Emplois bénéficiaires de la nouvelle bonification indiciaire
+LIBELLÉ
 
 |
+
+CATÉGORIE
+
+|
+
+FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
+
+|
+
+|
+
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES ET JURIDIQUES
+
+|
+
+|
+
+Chef de cabinet du secrétariat général du comité interministériel de prévention de la délinquance
+
+|
+
+A
+
+|
+
+DÉLÉGATION À LA SÉCURITÉ ET À LA CIRCULATION ROUTIÈRES
 
 LIBELLÉ
 
@@ -2254,43 +2844,17 @@ CATÉGORIE
 
 FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
 
-Au titre des attributions financières et juridiques
+|
+
+|
+
+AU TITRE DE LA MODERNISATION
 
 |
 
 |
 
-Chargé de mission "interministérialité et actions territoriales" au SGCIPD
-
-|
-
-A
-
-|
-
-PRÉFECTURE DE PARIS
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
-
-LIBELLÉ
-
-|
-
-CATÉGORIE
-
-|
-
-FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
-
-Au titre de la modernisation
-
-|
-
-|
-
-Chef du service régional de communication interministérielle
+Suivi du projet titres sécurisés
 
 |
 
@@ -2298,7 +2862,13 @@ A
 
 |
 
-Chef de la section modernisation et mutualisation des services de la préfecture et des services de l'Etat
+AU TITRE DES ATTRIBUTIONS FINANCIÈRES, COMPTABLES ET JURIDIQUES
+
+|
+
+|
+
+Chef de la section permis à points
 
 |
 
@@ -2306,23 +2876,7 @@ A
 
 |
 
-Adjoint au chef du bureau de l'animation des actions de l'Etat
-
-|
-
-A
-
-|
-
-Délégué régional à la formation
-
-|
-
-A
-
-|
-
-Secrétaire des instances paritaires
+Chef de la section de la fiabilisation de la base de données SNPC
 
 |
 
@@ -2330,480 +2884,32 @@ B
 
 |
 
-Gestionnaire courrier - responsable de la section courrier
+AU TITRE DES COMPÉTENCES TECHNIQUES
+
+|
+
+|
+
+Chargé du suivi de l'application informatique système national des permis de conduire
+
+|
+
+B
+
+|
+
+Adjoint au chef du service national des permis de conduire
+
+|
+
+A
+
+|
+
+Responsable du groupe de gestion contrôle sur l'application informatique système national des permis de conduire
 
 |
 
 C
-
-|
-
-Gestionnaire courrier - adjoint au responsable de la section courrier
-
-|
-
-C
-
-|
-
-Au titre des attributions financières, comptables et juridiques
-
-|
-
-|
-
-Adjoint au chef du centre de services partagés régional (CSPR)
-
-|
-
-A
-
-|
-
-Chef du centre de services partagés régional (CSPR)
-
-|
-
-A
-
-|
-
-Chef de section contrôle de légalité de la commande publique
-
-|
-
-A
-
-|
-
-Chef du bureau du BOP régional et de la mutualisation
-
-|
-
-A
-
-|
-
-Chef de bureau de la coordination des politiques publiques
-
-|
-
-A
-
-|
-
-Chargé du pilotage et de la gestion des effectifs et de la masse salariale des BOP des préfectures
-
-|
-
-A
-
-|
-
-Chef de la section du contentieux
-
-|
-
-A
-
-|
-
-Chef du bureau des libertés publiques, de la citoyenneté et de la réglementation économique
-
-|
-
-A
-
-|
-
-Adjoint au chef du bureau des marchés et de la logistique, chef de la section marchés publics et achats
-
-|
-
-B
-
-|
-
-Chargé de la réglementation des associations
-
-|
-
-B
-
-|
-
-Gestionnaire BGP2
-
-|
-
-B
-
-|
-
-Adjoint au chef du bureau du budget et des affaires immobilières
-
-|
-
-B
-
-|
-
-Chargé du suivi de l'exécution budgétaire du hors titre 2
-
-|
-
-B
-
-|
-
-Adjointe à la mission régionale achat - SGAR Ile-de-France
-
-|
-
-B
-
-|
-
-Gestionnaire de projets et gestionnaire de recettes
-
-|
-
-B
-
-|
-
-Gestionnaire budgétaire et comptable "Chorus"
-
-|
-
-B
-
-|
-
-Gestionnaire chargé de l'exécution des dépenses
-
-|
-
-B
-
-|
-
-Chargé du suivi de l'exécution budgétaire du hors titre 2
-
-|
-
-C
-
-|
-
-Gestionnaire des marchés publics et des contrats
-
-|
-
-C
-
-|
-
-Gestionnaire paie - référent paie
-
-|
-
-C
-
-|
-
-Gestionnaire des élections et des affaires générales
-
-|
-
-C
-
-|
-
-Chargé du suivi de l'exécution budgétaire du hors-T2 - régisseur de recette
-
-|
-
-C
-
-|
-
-Au titre des compétences techniques, utilisation de matériels et documentations
-
-|
-
-|
-
-Chef du bureau des marchés et de la logistique
-
-|
-
-A
-
-|
-
-Responsable du pôle veille et analyse
-
-|
-
-B
-
-|
-
-Chef de la section garage
-
-|
-
-B
-
-|
-
-Chef de la section logistique
-
-|
-
-B
-
-|
-
-Chargé de la veille et analyse
-
-|
-
-B
-
-|
-
-Intendant
-
-|
-
-C
-
-|
-
-FONCTIONS D'ACCUEIL EXTERNE OU INTERNE
-
-|
-
-|
-
-Chef du centre de veille et d'analyse
-
-|
-
-A
-
-|
-
-Adjoint au chef du service du protocole, de l'accueil et de la sécurité, chef de la section protocole et accueil
-
-|
-
-B
-
-|
-
-Chef de la section de l'accueil et de la sécurité
-
-|
-
-C
-
-|
-
-Agent d'accueil
-
-|
-
-C
-
-|
-
-Agent d'accueil
-
-|
-
-C
-
-|
-
-Agent d'accueil
-
-|
-
-C
-
-|
-
-FONCTIONS D'ENCADREMENT, CONTRAINTES ET RESPONSABILITÉS PARTICULIÈRES
-
-|
-
-|
-
-Chef du service de la stratégie et de l'analyse
-
-|
-
-A
-
-|
-
-Chef de bureau des affaires réservées
-
-|
-
-A
-
-|
-
-Adjoint au chef de bureau des ressources humaines
-
-|
-
-A
-
-|
-
-Secrétariat du directeur de la modernisation et de l'administration
-
-|
-
-C
-
-|
-
-Secrétariat et gestion pôle droit des sols
-
-|
-
-C
-
-|
-
-PRÉFECTURE DE POLICE
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire
-
-|
-
-LIBELLÉ
-
-|
-
-CATÉGORIE
-
-|
-
-FONCTIONS IMPLIQUANT UNE TECHNICITÉ PARTICULIÈRE
-
-Au titre des attributions financières, comptables et juridiques
-
-|
-
-|
-
-Chef du département stratégie au service des affaires immobilières (SAI)
-
-|
-
-A
-
-|
-
-Chef du bureau des ressources et de la modernisation (CABINET)
-
-|
-
-A
-
-|
-
-Au titre des compétences techniques
-
-|
-
-|
-
-Chef du département constructions et travaux (SAI)
-
-|
-
-A
-
-|
-
-Secrétaire général, adjoint au chef du service de la mémoire et des affaires culturelles (SMAC)
-
-|
-
-A
-
-|
-
-FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES PARTICULIÈRES
-
-Emplois d'encadrement à contraintes et responsabilités
-
-particulières de la préfecture de police
-
-|
-
-|
-
-Chef de la mission d'appui et de soutien à la modernisation à la direction de la police générale (DPG)
-
-|
-
-A
-
-|
-
-Chef du 1er bureau de la sous-direction de la citoyenneté et des libertés publiques à la direction de la police générale (DPG)
-
-|
-
-A
-
-|
-
-Chef du bureau de la police sanitaire et de l'environnement à la sous-direction de la protection sanitaire et de l'environnement de la direction des transports et de la protection du public (DTPP)
-
-|
-
-A
-
-|
-
-Chef du bureau des hôtels et foyers à la sous-direction de la sécurité du public de la direction des transports et de la protection du public
-
-|
-
-A
-
-|
-
-Chef du bureau du dialogue social, des affaires statutaires et indemnitaires du service de gestion des personnels de l'administration générale (DRH)
-
-|
-
-A
-
-|
-
-Chef du centre de formation à la direction des ressources humaines (DRH)
-
-|
-
-A
-
-|
-
-Chef du bureau du recrutement (DRH)
-
-|
-
-A
 
 |
