@@ -2,7 +2,7 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé : titre professionnel de tapissier garnisseur.
+Intitulé : titre professionnel : tapissier garnisseur.
 
 Niveau : V.
 
@@ -10,45 +10,53 @@ Code NSF : 242 v.
 
 Résumé du référentiel d'emploi
 
-Le tapissier garnisseur réalise, répare et entretient des garnitures sur sièges (chaises, fauteuils). Il réalise les travaux de garniture sur fûts (carcasses) neufs ou à rénover, pour du mobilier de style ou contemporain. Il maîtrise les techniques traditionnelles (garnitures en crins) et les techniques modernes (mousses, matériaux de synthèse).
+Le tapissier garnisseur réalise des garnitures de sièges de style ou contemporains, à partir de matériaux naturels : crin animal, crin végétal et de matériaux d'apparition récente comme les mousses et profilés. Il contribue à l'esthétique et au confort des locaux par le biais de sièges qu'il met à disposition de ses clients.
 
-Pour chaque commande, il évalue la faisabilité du projet (coût, délai, matériaux), sélectionne les différents matériaux et outils, prépare la production (calibrage, découpe, couture, piquage), réalise les opérations de garniture et assure les finitions (pose de galons, mise en place de passementerie, etc.).
+A partir de consignes verbales précises éventuellement accompagnées de documents graphiques d'exécution, le tapissier garnisseur prépare les carcasses, réalise les travaux de sanglage, guindage fixe ou suspendu garnissage crin ou mousse et enfin recouvre les sièges pour leur donner l'aspect esthétique attendu par le client.
 
-Le tapissier garnisseur exerce généralement en atelier. Cependant, l'analyse des projets de décoration et la pose des divers éléments peuvent entraîner des déplacements chez les clients. Sa connaissance des principaux styles en ameublement lui permet à l'occasion de conseiller le client. Quelle que soit la taille de l'entreprise, il travaille plutôt seul et très rarement en équipe. Il peut intervenir sur l'ensemble des prestations à réaliser ou uniquement sur une phase précise. Les différentes opérations de fabrication et de réfection peuvent générer des poussières d'origine végétale et animale (cuirs, bois, tissus, laines). Pour les travaux de garniture, une certaine force et une résistance physique dans les membres supérieurs sont nécessaires. Il exécute les travaux courants de sa spécialité, à partir de directives générales et sous contrôle ponctuel du chef d'atelier.
+Le tapissier garnisseur travaille essentiellement dans des TPE-très petites entreprises-artisanales.
 
-Il dispose d'une certaine initiative dans le choix des moyens lui permettant d'exécuter les commandes qui lui sont confiées.
+Il exécute en atelier les opérations de préparation des carcasses, de garniture et de finition ; ces opérations nécessitent d'utiliser des matériels et équipements pneumatiques et électriques en toute sécurité.
 
-Capacités attestées et descriptif
+En atelier les travaux de garniture s'effectuent au tabouret, sur tréteaux ou sur table. Le travail requiert une résistance physique dans les membres supérieurs ainsi qu'une aptitude à la station debout prolongée. Des dispositions matérielles permettent de prévenir les troubles musculo-squelettiques : tables adaptées, élévatrices, presse sur rotule, sièges spécifiques, moyens d'aide à la manutention de charges encombrantes.
 
-des composantes de la certification
+Capacités attestées et descriptif des composantes de la certification
 
-1. Réaliser des travaux courants de garniture traditionnelle
-
-Confectionner une garniture à pelote.
-
-Confectionner une garniture épaisse avec ou sans ressorts.
-
-Confectionner une garniture à cuvette avec coussin.
-
-Confectionner une garniture suspendue.
-
-Confectionner une garniture à tableau (type Jacob).
-
-2. Réaliser des travaux courants de garniture contemporaine
-
-Confectionner une pelote mousse.
+1. Réaliser des travaux courants de garniture contemporaine.
 
 Confectionner une garniture composée en mousse.
-
-Réaliser un coussin mousse.
 
 Confectionner une garniture à bosse en mousse.
 
 Confectionner une garniture capitonnée mousse.
 
+2. Réaliser des travaux courants de garniture traditionnelle
+
+Confectionner une garniture épaisse avec ou sans ressorts.
+
+Confectionner une garniture suspendue.
+
+Confectionner une garniture à cuvette avec coussin.
+
+Secteurs d'activité et types d'emploi accessibles par le détenteur du titre
+
+Les entreprises de tapisserie-décoration ;
+
+Les entreprises de tapisserie en sièges, de sellerie garnissage ;
+
+Les services de certaines administrations et musées nationaux ;
+
+Les collectivités territoriales et musées régionaux ;
+
+Les entreprises de négoce en fournitures pour tapisserie d'ameublement ;
+
+Tapissier ;
+
+Tapissier garnisseur.
+
 Code ROME :
 
-47214 - tapissier(ère)-décorateur(trice) en ameublement.
+B1806-tapisserie-décoration en ameublement
 
 Réglementation de l'activité :
 
