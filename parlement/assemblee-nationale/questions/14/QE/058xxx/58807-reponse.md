@@ -1,0 +1,9 @@
+# Réponse à la question n° 58807
+
+- Question : [58807](58807.md) — Question n° 58807 — déplacement du ministre; bilan
+
+## Réponse
+
+*JO du 2014-07-15*
+
+Le ministre des affaires étrangères et du développement international s'est rendu en Chine du 21 au 24 février, notamment à Pékin et à Tianjin. A Pékin, il a été reçu par le président chinois Xi Jinping et par son homologue Wang Yi. A Tianjin, il a visité la chaîne d'assemblage d'Airbus et est intervenu devant les étudiants de l'Université Nankai. Ses entretiens ont permis de préparer la visite d'Etat que le président Xi Jinping a effectué en France du 25 au 28 mars 2014, temps fort de l'année de célébrations du cinquantième anniversaire de l'établissement des relations diplomatiques entre la France et la République populaire de Chine. Il a souligné les attentes de la France dans la perspective de cette visite. Parmi les nombreux secteurs évoqués, il a notamment insisté sur l'aéronautique, le nucléaire civil et les nouveaux domaines de coopération porteurs de croissance et d'emplois (l'agro-alimentaire, la santé et le développement urbain durable). L'importance de la coopération dans le secteur automobile et les partenariats entre PSA/Dongfeng et Renault/Dongfeng a été soulignée. Des accords et des contrats dans tous ces secteurs ont été signés au mois de mars 2014. S'agissant des questions internationales, les échanges avec le président Xi Jinping et avec le ministre Wang Yi ont porté sur les derniers développements intervenus en Ukraine, l'intérêt de renforcer la concertation sur l'Afrique, l'Iran et la Syrie ainsi que sur la préparation de la conférence Paris Climat 2015. M. Fabius s'est à nouveau rendu en Chine en mai 2014. Il a rencontré à cette occasion son homologue ainsi que le Premier ministre chinois et plusieurs responsables gouvernementaux chinois.
