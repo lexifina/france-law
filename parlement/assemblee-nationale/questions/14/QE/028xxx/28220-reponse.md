@@ -1,0 +1,9 @@
+# Réponse à la question n° 28220
+
+- Question : [28220](28220.md) — Question n° 28220 — connaissances de base; acquisition
+
+## Réponse
+
+*JO du 2014-07-15*
+
+Enseigner et faire partager les valeurs de la République est une des missions qui incombe à l'école. En adoptant, dès la première lecture, l'article 41 de la loi du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'Ecole de la République, le législateur a marqué sa volonté d'instaurer pour tous les élèves, de l'école primaire jusqu'au lycée, un enseignement moral et civique. Cet enseignement vise notamment à amener les élèves à devenir des citoyens responsables et libres, à se forger un sens critique et à adopter un comportement réfléchi. Il a pour objectif de transmettre un socle de valeurs communes : la dignité, la liberté, l'égalité, la solidarité, la laïcité, l'esprit de justice, le respect de la personne, l'égalité entre les femmes et les hommes, la tolérance et l'absence de toute forme de discrimination. Le Conseil supérieur des programmes a été chargé, par saisine du ministre de l'éducation nationale en date du 4 octobre 2013, de proposer un programme d'enseignement moral et civique depuis l'école jusqu'au lycée, pour une mise en oeuvre à compter de la rentrée 2015. Faire partager les valeurs de la République est par ailleurs une compétence commune à tous les professeurs et personnels d'éducation, inscrite dans le référentiel des compétences professionnelles des métiers du professorat et de l'éducation. L'enseignement moral et civique doit pouvoir être assuré par tout enseignant et sera inscrit dans le cadre de la formation initiale et continue. Depuis la rentrée de l'année scolaire 2013-2014, un module de formation à l'enseignement de la laïcité et des valeurs républicaines est dispensé dans les écoles supérieures du professorat et de l'éducation (ESPE).
