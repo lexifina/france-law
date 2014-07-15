@@ -1,0 +1,9 @@
+# Réponse à la question n° 49926
+
+- Question : [49926](49926.md) — Question n° 49926 — calendrier scolaire; impact touristique; concertation
+
+## Réponse
+
+*JO du 2014-07-15*
+
+Un calendrier scolaire national est arrêté par le ministre chargé de l'éducation pour une période de trois années conformément à l'article L. 521-1 du code de l'éducation. Son élaboration répond à des exigences légales et à des principes retenus depuis plusieurs années en concertation avec les partenaires concernés, notamment ceux en charge de la sécurité routière et du tourisme. Ainsi, le calendrier scolaire doit être conforme aux dispositions de l'article L. 521-1 qui prévoient que « l'année scolaire comporte trente-six semaines au moins réparties en cinq périodes de travail, du durée comparable, séparées par quatre périodes de vacance des classes ». S'il tente de concilier de façon optimale une multiplicité de facteurs, ce calendrier a d'abord pour objectif de répondre au mieux aux intérêts des élèves et de leur permettre de bénéficier d'un rythme de travail efficace. C'est pourquoi l'alternance régulière des temps de travail et de vacances prévue par la loi vise, dans la mesure du possible, à se rapprocher du rythme de sept semaines de travail / deux semaines de repos. Il est donc primordial, dans l'intérêt des élèves, de préserver cet équilibre dans le but d'assurer et de concourir à la réussite et à l'épanouissement de tous les élèves. L'élaboration du calendrier scolaire des années 2014-2015, 2015-2016 et 2016-2017 (arrêté du 21 janvier 2014 fixant le calendrier scolaire des années 2014-2015, 2015-2016 et 2016-2017 - Journal officiel du 24 janvier 2014) a fait l'objet d'une large concertation avec les partenaires du ministère de l'éducation nationale. Enfin, le conseil national du tourisme a rendu un avis le 7 novembre 2013 sur les projets de calendrier.
