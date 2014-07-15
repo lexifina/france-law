@@ -1,0 +1,9 @@
+# Réponse à la question n° 57047
+
+- Question : [57047](57047.md) — Question n° 57047 — A 380; ventes; promotion
+
+## Réponse
+
+*JO du 2014-07-15*
+
+Le ministère des affaires étrangères et du développement international accompagne depuis de nombreuses années Airbus dans son développement international. Depuis deux ans, l'accent mis sur la diplomatie économique puis le rattachement du secrétariat d'Etat au commerce extérieur se traduisent par une disponibilité encore plus grande des interlocuteurs d'Airbus, que ce soit au Quai d'Orsay ou dans les ambassades. Les ambassades de France sont pleinement mobilisées pour valoriser l'offre d'Airbus auprès de leurs interlocuteurs, tant au sein des gouvernements que des compagnies aériennes dont l'Etat est souvent l'actionnaire principal. Elles restent en contact permanent avec Airbus pour défendre ses intérêts, notamment lors d'évènements internationaux comme le Dubaï Air Show, qui a vu la conclusion de contrats majeurs pour l'avionneur européen. Le ministre des affaires étrangères et du développement international saisit toutes les occasions pour soutenir, au plus haut niveau, les intérêts d'Airbus, en coordination avec ses partenaires européens. Il a manifesté l'intérêt particulier qu'il portait à Airbus et à la filière aéronautique et spatiale lors de deux évènements majeurs en 2013 : la visite du Salon du Bourget en juin 2013, qui était la première d'un ministre des affaires étrangères et le déplacement du 30 août 2013 à Toulouse pour visiter la chaîne d'Airbus, en compagnie de 70 ambassadeurs français et étrangers. Ces efforts doivent être poursuivis et amplifiés, alors la concurrence est vive avec Boeing sur le secteur des gros porteurs, et que plusieurs pays émergents progressent dans leur ambition de disposer de leur propre industrie aéronautique.
