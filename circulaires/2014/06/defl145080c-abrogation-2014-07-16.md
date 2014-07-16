@@ -1,0 +1,328 @@
+# CIRCULAIRE N° 4417/DEF/DRH-AA/ESOM/EM/BSC relative au recrutement externe de la spécialisation 5730 « infirmier diplômé d’État » - cycle 2015-2018.
+
+- État : abrogée (au 2014-07-16)
+- NOR : DEFL145080C
+- Numéro : 4417
+- Date de signature : 2014-06-11
+- Mise en ligne : 2014-07-04
+- Auteur : Armée de l'air.
+- Signataire : Le directeur adjoint des ressources humaines de l'armée de l'air, Didier DOUCHET.
+- Destinataires : Armée de l'air.
+- Ministères : 4
+- Domaines : Défense
+- Catégorie : Directives adressées par le ministre aux services chargés de leur application, sous réserve, le cas échéant, de l'examen particulier des situations individuelles.
+- Mots-clés : Défense, anciens combattants
+- Publication JO / BO : BOC n° 33 du 4 juillet 2014, texte 20.
+- Remplace : Circulaire n° 21316/DEF/DRH-AA/ESOM/EM/BSC du 28 mai 2013 (BOC N° 27 du 21 juin 2013, texte 15).
+- Annexes : 2
+- Identifiant : 38488 (PDF officiel : pdf/2014/07/cir_38488.pdf)
+
+## Résumé
+
+Circulaire relative au recrutement externe de la spécialisation 5730 « infirmier diplômé d’État » - cycle 2015-2018.
+
+## Texte
+
+BULLETIN OFFICIEL DES ARMÉES
+Édition Chronologique n° 33 du 4 juillet 2014
+PARTIE TEMPORAIRE
+Armée de l'air
+Texte 20
+CIRCULAIRE N° 4417/DEF/DRH-AA/ESOM/EM/BSC
+relative au recrutement externe de la spécialisation 5730 « infirmier diplômé d’État » - cycle 2015-2018.
+Du 11 juin 2014
+
+DIRECTION DES RESSOURCES HUMAINES DE L'ARMÉE DE L'AIR : écoles des sous-officiers et des
+militaires du rang de l'armée de l'air ; bureau « sélections et concours ».
+CIRCULAIRE N° 4417/DEF/DRH-AA/ESOM/EM/BSC relative au recrutement externe de la
+spécialisation 5730 « infirmier diplômé d’État » - cycle 2015-2018.
+Du 11 juin 2014
+NOR D E F L 1 4 5 1 0 8 0 C
+Références :
+Code de la défense - Partie réglementaire, IV - Le personnel militaire.
+Arrêté du 31 juillet 2009 (n.i. BO ; JO n° 181 du 7 août 2009, p. 13203, texte n° 18) modifié.
+Arrêté du 3 mars 2010 (JO n° 66 du 19 mars 2010, texte n° 39 ; signalé au BOC 20/2010 ;
+BOEM 331.1.2) modifié.
+Circulaire n° 2034/DEF/DRH-AA/SDGR/BR du 14 février 2013 (BOC N° 13 du 14 mars
+2013, texte 6 ; BOEM 331.1.2.1).
+Avis de concours du 11 juin 2014 (n.i. BO ; JO n° 140 du 19 juin 2014, texte n° 99).
+Note n° 508249/DEF/DCSSA/RH/GRM/MITHA du 11 avril 2014 (n.i. BO).
+Pièce(s) Jointe(s) :
+Deux annexes.
+Texte abrogé :
+Circulaire n° 21316/DEF/DRH-AA/ESOM/EM/BSC du 28 mai 2013 (BOC N° 27 du 21 juin
+2013, texte 15).
+Référence de publication : BOC n° 33 du 4 juillet 2014, texte 20.
+Préambule.
+Un concours annuel sur épreuves pour une admission en 2015 à l’école du personnel paramédical des armées
+(EPPA) de Toulon est ouvert aux candidats et candidates civils désireux de servir dans l’armée de l’air en
+qualité de sous-officier « infirmier ».
+Cette circulaire annuelle fixe dans ses annexes le rôle des différents organismes responsables dans
+l’organisation des épreuves de sélection, ainsi que le calendrier des travaux à réaliser par ces derniers.
+1. PROGRAMME DU CONCOURS.
+Le programme du concours est défini par l’arrêté du 31 juillet 2009 (A) modifié, relatif au diplôme d'État
+d'infirmier publié au Journal officiel de la République française (www.legifrance.gouv.fr).
+Les épreuves écrites d’admissibilité se dérouleront le mercredi 1er octobre 2014.
+Les épreuves orales d’admission se dérouleront du lundi 1er au vendredi 5 décembre 2014.
+
+2. CODE D'IMPUTATION BUDGÉTAIRE.
+Les frais de déplacement pour le personnel concerné par le recrutement externe d’infirmiers seront imputés
+comme suit :
+- libellé RBOP : EMAA ;
+- code engagement : FD3AD03121 - DRH-AA Déplt ESOM - concours, sélections organisés par les
+ESOM.
+3. ABROGATION.
+La circulaire n° 21316/DEF/DRH-AA/ESOM/EM/BSC du 28 mai 2013 relative au recrutement externe de la
+spécialisation 5730 infirmier diplômé d’État - session 2014 est abrogée.
+Pour le ministre de la défense et par délégation :
+Le commissaire général de 1re classe,
+directeur adjoint des ressources humaines de l'armée de l'air,
+Didier DOUCHET.
+(A) n.i. BO ; JO n° 181 du 7 août 2009, p. 13203, texte 18.
+
+ANNEXE I.
+RÔLE DES DIFFÉRENTS ORGANISMES.
+1. CENTRES D'INFORMATION ET DE RECRUTEMENT DES FORCES ARMÉES.
+Ils sont responsables du recueil des candidatures et de la vérification des conditions à remplir.
+Les dossiers y seront déposés jusqu’au vendredi 11 juillet 2014 terme de rigueur.
+Ils veilleront à obtenir, avant le 1er août 2014, les diplômes (ou relevés de notes) des candidats qui n'en
+auraient pas été titulaires lors du dépôt de dossier.
+2. DÉPARTEMENT ÉVALUATION AIR.
+Les départements évaluation air (DEA) sont chargés :
+- de convoquer les candidats pour la visite d’aptitude médicale initiale dans les antennes d’expertise
+médicale initiale (AEMI) des groupements de recrutement et de sélections (GRS) rattachés, pour la
+métropole, ou dans les centres médicaux interarmées (CMIA) rattachés, hors métropole ;
+- de faire passer les épreuves communes aux candidats jusqu’au jeudi 14 août 2014 terme de rigueur ;
+- de convoquer les candidats aux épreuves d’admissibilité ;
+- d’informer et de convoquer les candidats admissibles à l’épreuve d’admission ;
+- d’adresser les dossiers complets des candidats déclarés admis au centre d’engagement du
+groupement de soutien de la base de défense (GSBdD) de Rochefort [uniquement pour les dossiers
+initiés avant le 3 mars 2014, date de mise en place de la nouvelle procédure « système d’information
+du recrutement » (SIRec) actualisée (pièces constitutives du dossier des candidats insérées dans SIRec
+Air)] ;
+- d’adresser les dossiers médicaux des candidats déclarés admis au centre médical des armées (CMA)
+50.721 de Rochefort.
+3. DIRECTION DES RESSOURCES HUMAINES DE L'ARMÉE DE L'AIR/SOUS-DIRECTION «
+GESTION DES RESSOURCES »/BUREAU « RECRUTEMENT »/SECTION « RECRUTEMENT NON
+OFFICIERS ».
+Au vu des résultats obtenus aux épreuves communes, et après étude des dossiers, la direction des ressources
+humaines de l’armée de l’air/sous-direction « gestion des ressources »/bureau « recrutement »/section
+« recrutement non officiers » (DRH-AA/SDGR/BR/SR non officiers) établit la liste des candidats retenus pour
+passer les épreuves d’admissibilité spécifiques au recrutement externe d’infirmiers.
+Cet organisme fait parvenir cette liste à la direction des ressources humaines de l’armée de l’air/école des
+sous-officiers et des militaires du rang de l’armée de l’air/état-major/bureau « sélections et concours »
+(DRH-AA/ESOM/EM/BSC), accompagnée d’une extraction SIRec sous format excel (voir point 5.), pour le
+vendredi 22 août 2014 terme de rigueur.
+4. BUREAUX FORMATION ET SERVICES ADMINISTRATION DU PERSONNEL DES
+GROUPEMENTS DE SOUTIEN DES BASES DE DÉFENSE.
+Un personnel du bureau formation (BF) ou du service administration du personnel (SAP) du GSBdD situés en
+métropole et désignés centre d’examen, se rendra à l’école du Val de Grâce (EVDG) pour retirer les sujets des
+épreuves d’admissibilité (mise à disposition au bureau concours de l’EVDG les lundi 29 et mardi 30
+septembre 2014 selon un calendrier établi par le bureau concours - 1, place Alphonse Laveran, accès en face
+
+de la rue du Val de Grâce - Paris - rez-de-chaussée du bâtiment des Études, pièce 05).
+Le retour des copies s’effectuera de la même façon, les jeudi 2 et vendredi 3 octobre 2014.
+5. DIRECTION DES RESSOURCES HUMAINES DE L'ARMÉE DE L'AIR/ÉCOLES DES
+SOUS-OFFICIERS ET DES MILITAIRES DU RANG/ÉTAT MAJOR/BUREAU « SÉLECTIONS ET
+CONCOURS ».
+Dès la parution de l’avis de concours, la DRH-AA/ESOM/EM/BSC fait parvenir à la DRH-AA/SDGR/BR/SR
+non officiers un fichier informatique excel recensant les informations nécessaires, pour l’extraction des
+données informatiques SIRec.
+Elle établit la liste des candidats autorisés à concourir et la diffuse sur le site internet de l’école de formation
+des sous-officiers de l’armée de l’air (EFSOAA).
+Elle procède à la désignation des centres de concours.
+Au vu des résultats des épreuves d’admissibilité, la DRH-AA/ESOM/EM/BSC :
+- diffuse la liste des candidats autorisés à l’épreuve d’admission sur le site internet de l’EFSOAA ;
+- envoie à la DRH-AA/SDGR/BR/SR non officiers et à chaque DEA la liste des candidats déclarés
+admissibles ;
+- transmet les relevés de notes aux candidats déclarés non admissibles.
+Au vu de la liste de classement établie par le président du jury à l’issue de l’épreuve d’admission, elle :
+- diffuse sur le site internet de l’EFSOAA la liste des candidats admis en liste principale (LP) et
+inscrits en liste complémentaire (LC) ;
+- adresse un courrier à chaque candidat admis en LP et inscrit en LC ;
+- assure le suivi des appels en LP et procède aux remontées éventuelles de la LC ;
+- transmet les relevés de notes aux candidats déclarés non admis.
+La DRH-AA/ESOM/EM/BSC transmet au centre d’engagement du GSBdD de Rochefort (par voie
+informatique) la liste des candidats admis en LP ou inscrits en LC. Cette liste est nécessaire à l’élaboration des
+actes d’engagement.
+
+ANNEXE II.
+CALENDRIER DES TRAVAUX À EFFECTUER.
+RESPONSABLES.
+ACTIONS.
+DESTINATAIRES.
+DATES
+D'EXÉCUTION.
+1 Centre d'information et de
+recrutement des forces armées
+(CIRFA).
+Constitution des dossiers
+avec mention de la date de
+dépôt.
+DEA (1).
+Dès parution de l’avis
+de concours et jusqu'au
+vendredi 11 juillet
+2014.
+2 DEA.
+Épreuves communes.
+/
+Jusqu’au jeudi 14 août
+2014.
+3 DEA.
+Transmission des fiches
+SIRec.
+DRH-AA/SDGR/BR/SR non
+officiers.
+Jusqu’au mardi 19 août
+2014.
+4 DRH-AA/SDGR/BR/SR non
+officiers.
+Transmission de la liste des
+candidats retenus pour
+présenter les épreuves
+d’admissibilité et du fichier
+informatique excel.
+DRH-AA/ESOM/EM/BSC.
+Jusqu’au vendredi 22
+août 2014.
+5 DRH-AA/ESOM/EM/BSC.
+Diffusion de la liste des
+candidats autorisés à
+concourir.
+Candidats via internet.
+DEA.
+DRH-AA/SDGR/BR/SR non
+officiers
+Semaine 36/2014.
+6 DRH-AA/ESOM/EM/BSC.
+Désignation des centres
+d’examen.
+Bases de défense.
+DEA.
+Semaine 36/2014.
+7 DRH-AA/ESOM/EM/BSC.
+Transmission d’un état
+numérique et nominatif par
+c e n t r e d ’ e x a m e n d e s
+candidats autorisés à
+concourir.
+Formations administratives.
+DEA.
+EVDG/bureau « concours » (BC).
+Semaine 37/2014.
+8 DEA.
+Convocation des candidats
+a u x é p r e u v e s
+d’admissibilité.
+Candidats.
+Semaine 37/2014.
+9 EVDG/BC.
+Envoi des sujets pour
+l’outre-mer.
+Formations administratives hors
+métropole.
+D a t e d é f i n i e p a r
+EVDG.
+10 BF des centres d’examen (sauf
+HM).
+Récupération des sujets à
+l’EVDG.
+/
+Les lundi 29 et mardi
+30 septembre 2014.
+11 Centres d’examen.
+Épreuves d’admissibilité.
+/
+Mercredi 1er octobre
+2014.
+12 Centres d’examen.
+Transmission des copies,
+du procès-verbal et du plan
+de salle :
+- par porteur pour les
+formations administratives
+de métropole ;
+- par chronopost pour les
+formations administratives
+hors métropole.
+EVDG/BC.
+Les jeudi 2 et vendredi
+3 octobre 2014.
+13 EVDG/BC.
+Anonymat des copies et EPPA Toulon.
+Mercredi 8 octobre
+
+transmission.
+2014.
+14 EPPA Toulon.
+Correction des copies et
+transmission des résultats.
+EVDG/BC.
+Du lundi 13 octobre au
+jeudi 13 novembre
+2014.
+15 EVDG/BC.
+Transmission des résultats
+et des fichiers de relevés de
+notes.
+DRH-AA/ESOM/EM/BSC.
+Mi-novembre 2014.
+16 DRH-AA/ESOM/EM/BSC.
+Diffusion de la liste des
+candidats admissibles.
+Candidats via internet.
+DEA.
+DRH-AA/SDGR/BR/SR non
+officiers.
+Dès connaissance.
+17 DEA.
+Convocation des candidats
+à l’épreuve d’admission.
+Candidats.
+Dès connaissance.
+18 EPPA Toulon.
+Épreuve d’admission.
+Candidats.
+D u l u n d i 1 e r a u
+vendredi 5 décembre
+2014.
+19 EPPA Toulon.
+EVDG/BC.
+DCSSA.
+Réunion du jury puis
+c o m m u n i c a t i o n d e s
+résultats.
+DRH-AA/ESOM/EM/BSC.
+Dès connaissance.
+20 DRH-AA/ESOM/EM/BSC.
+Diffusion de la liste des
+candidats admis en LP et
+inscrits en LC.
+Candidats via internet.
+DRH-AA/SDGR/BR/SR non
+officiers.
+DEA.
+Centre d’engagement du GSBdD
+Rochefort.
+Dès connaissance.
+21 DEA.
+Transmission des dossiers
+d e s c a n d i d a t s p o u r
+élaboration des actes
+d’engagement.
+Centre d’engagement du GSBdD
+Rochefort (sauf dossiers nouvelle
+procédure SIRec).
+Dès connaissance.
+22 DEA.
+Dossiers médicaux.
+Centre médical des armées (CMA)
+50.721 Rochefort.
+Dès connaissance.
+23 EFSOAA/EFM.
+Incorporation.
+/
+Janvier 2015.
+(1) Dans le calendrier le terme DEA recouvre l’ensemble des départements évaluation air ainsi que les bureaux formation des
+formations administratives d’outre-mer.
