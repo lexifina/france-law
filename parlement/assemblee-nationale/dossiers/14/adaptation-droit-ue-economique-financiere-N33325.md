@@ -1,0 +1,51 @@
+# Economie : adaptation au droit de l'UE en matière économique et financière
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33325
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/adaptation_droit_UE_economique_financiere
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl13-808.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-07-16 : 1er dépôt d'une initiative. (PRJLANR5L14B2148)
+  - 2014-07-16 : Etude d'impact (ETDIANR5L14B2148)
+  - 2014-07-16 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-16 : Renvoi en commission au fond
+      - 2014-07-22 : Nomination de rapporteur
+      - 2014-09-10 : Réunion de commission
+      - 2014-09-17 : Réunion de commission
+      - 2014-09-10 : Dépôt de rapport (RAPPANR5L14B2192, PRJLANR5L14BTC2192)
+  - Discussion en séance publique
+    - 2014-09-18 : Discussion en séance publique
+    - 2014-09-18 : Discussion en séance publique
+    - 2014-09-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-09-22 : Dépôt d'une initiative en navette (PRJLSNR5S219B0808)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-09-22 : Renvoi en commission au fond
+      - 2014-07-23 : Nomination de rapporteur
+      - 2014-10-09 : Dépôt de rapport (RAPPSNR5S239B0007)
+  - Discussion en séance publique
+    - 2014-10-16 : Discussion en séance publique
+    - 2014-10-16 : Décision
+- Commission Mixte Paritaire
+  - 2014-10-17 : Dépôt d'un projet de loi (PRJLANR5L14B2305)
+  - 2014-10-17 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-12-11 : Nomination de rapporteur
+    - 2014-12-11 : Dépôt du rapport d'une CMP (RAPPANR5L14B2448)
+    - 2014-12-11 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0181)
+  - Discussion en séance publique
+    - 2014-12-16 : Discussion en séance publique
+    - 2014-12-16 : Décision
+  - Discussion en séance publique
+    - 2014-12-17 : Discussion en séance publique
+    - 2014-12-17 : Décision
+  - 2014-12-11 : Décision de la CMP
+- Promulgation de la loi
+  - 2014-12-30 : Promulgation d'une loi
