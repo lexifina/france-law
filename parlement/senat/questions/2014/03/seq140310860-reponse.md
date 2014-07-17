@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140310860
+
+- Question : [SEQ140310860](seq140310860.md) — Majorations familiales pour les enseignants détachés de l'agence pour l'enseignement français à l'étranger ayant un enfant handicapé
+
+## Réponse
+
+*Affaires étrangères, JO du 2014-07-17, page 1707*
+
+Pour pouvoir bénéficier de l'allocation d'éducation de l'enfant handicapé, il faut résider en France ou dans un département d'outre-mer (DOM), ce qui, par définition, n'est pas le cas des personnels exerçant à l'étranger. D'autre part, le décret n° 67-290 du 28 mars 1967 ne s'applique pas aux personnels de l'Agence pour l'enseignement français (AEFE). En effet, l'article 1 de ce même décret précise que « le décret n° 67-290 du 28 mars 1967 fixe les modalités de calcul des émoluments des personnels civils employés par l'État ou les établissements publics à caractère administratif en dépendant et en service à l'étranger à l'exception : des personnels régis par le décret n° 2002-22 du 4 janvier 2002 modifié relatif à la situation administrative et financière des personnels des établissements d'enseignement français à l'étranger ; (...) ». Enfin, les émoluments versés aux personnels visés à l'article 2 (expatriés et résidents) du décret 2002-22 du 4 janvier 2002 sont définis par l'article 4 de ce même décret : « les majorations familiales sont attribuées (...) déduction faite des avantages de même nature dont peut bénéficier l'agent ou son conjoint, (...), concernant l'avantage familial, il est exclusif, au titre des mêmes enfants, de la perception d'avantages de même nature (...) ». En conséquence, l'AEFE ne peut prendre en compte les prestations servies en France par les maisons départementales des personnes handicapées pour fixer les majorations familiales et avantage familial car elles ne sont pas de même nature que les majorations et avantage familial qui sont des éléments de rémunération.
