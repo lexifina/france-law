@@ -10,40 +10,62 @@ Sont admis à l'entrée en formation d'une unité capitalisable complément aire
 
 - De l'attestation relative aux exigences préalables définies à l'annexe III au présent arrêté, pour le support choisi.
 
-II- CERTIFICAT DE SPECIALISATION CONSTITUTIF DE LA SPECIALITE "croisière"
+II.-Certificat de spécialisation constitutif de la spécialité "croisière" :
 
-Sont admis à l'entrée en formation du certificat de spécialisation "croisière", les candidats titulaires de la mention "voile" de la spécialité "activités nautiques" du B.P.J.E.P.S. et de l'attestation des exigences préalables relatives au support. Cette attestation est liée à la pratique personnelle du candidat pour le support "croisière" ; elle est délivrée au cours d'une épreuve technique définie par l'instruction susnommée.
+Sont admis à l'entrée en formation du certificat de spécialisation "croisière" les candidats titulaires de la mention "voile" de la spécialité "activités nautiques" ou de la mention plurivalente support "croisière côtière" ou support "multicoque ou dériveurs" du BPJEPS et de l'attestation des exigences préalables relatives au support. Cette attestation est liée à la pratique personnelle du candidat pour le support "croisière" ; elle est délivrée au cours d'une épreuve technique.
 
-1/ Exigences préalables à l'entrée en formation du certificat de spécialisation "croisière"
+1. Exigences préalables à l'entrée en formation du certificat de spécialisation "croisière" :
 
-Etre capable de :
+A.-Etre titulaire du permis de conduire des bateaux de plaisance mer "côtier" ou "eaux intérieures".
 
-- Vérifier la conformité et le bon état de fonctionnement du bateau, voilier ou engin et l'équipement individuel du pratiquant et/ou de l'équipage, vérifications d'usage avant démarrage, éléments de sécurité.
+B.-Etre capable de :
 
-- Réaliser avec précision un embarquement, départ d'un coffre/ou d'un quai, prise de coffre /ou appontage, au moteur.
+Technique : exploiter les variables du milieu et les caractéristiques du bateau pour optimiser son rendement :
 
-- Réaliser un parcours à la voile imposé incluant des arrêts, différentes allures, des maintiens de trajectoires ou de caps, et des manoeuvres de bases (virement, empannage, manoeuvre de spi, réduction de voilure...). Cette réalisation doit être effectuée à la barre et au poste d'équipier. Décrire, à l'aide d'un schéma, le parcours réalisé en tant que barreur.
+-coordonner les actions barre-écoute-déplacement pour optimiser la vitesse ;
 
-- Réaliser une récupération simulée d'un "homme à la mer" avec arrêt en fin de manoeuvre.
+-adapter constamment les réglages et la conduite en fonction de l'allure et des variations de vent et de mer pour optimiser la vitesse ;
 
-- Se positionner sur une carte (relation carte-paysage) à l'aide de deux techniques différentes de positionnement.
+-coordonner les actions de barre-écoute-déplacement pour optimiser le gain au vent ou le gain sous le vent ;
 
-- Réaliser un calcul de marée.
+-augmenter le gain au vent ou sous le vent pendant les virements ou les empannages en adaptant les manœuvres aux conditions de vent et de mer ;
 
-- Définir une prévision de route à suivre pour rejoindre un point donné, réaliser l'itinéraire.
+-gérer et coordonner l'équipage lors des différentes manœuvres ;
 
-- Tracer la route suivie par le navire sur carte.
+-choisir la trajectoire rapprochant de l'objectif (adonnantes/ refusantes) ;
 
-- Lire d'une carte marine.
+-repérer les zones de vent et courant potentiellement plus ou moins fort ;
 
-- Commander les manoeuvres et organiser la vie à bord d'un équipage d'au moins cinq personnes.
+-maîtriser l'utilisation des différentes techniques de navigation (GPS, estime, relèvements, pilotage ...) de jour comme de nuit.
 
-- Connaître et respecter des règles de barre et de route du RIPAM, de la signalisation maritime de jour comme de nuit.
+Sécurité : évoluer en sécurité sur une durée et dans des périmètres élargis :
 
-- Définir les bases de la météorologie et des courants.
+-remorquer une embarcation (à la voile ou au moteur) ;
 
-- Expliquer les bases du fonctionnement d'un engin à voile.
+-mettre en relation le paysage rencontré avec la carte marine ;
 
-2/ Dispenses et équivalences :
+-définir et critiquer sa route, entretenir une estime ;
 
-Le diplôme de "moniteur fédéral croisière" 2ème degré, délivré par la fédération française de voile, dispense du test technique préalable à l'entrée en formation du certificat de spécialisation "croisière" du B.P.J.E.P.S.
+-maintenir l'état du bateau.
+
+Sens marin-environnement : se responsabiliser vis-à-vis du milieu et des autres pratiquants :
+
+-présenter les informations météo utiles à la définition du programme de navigation ;
+
+-reconnaître les principaux phénomènes susceptibles de faire varier les conditions de vent dans un délai de trois heures ;
+
+-organiser les tâches collectives/ gérer un équipage ;
+
+-naviguer en groupe de pratiquants solidaires ;
+
+-veiller au respect des règles de préservation des espèces naturelles ;
+
+-connaître les principaux éléments du patrimoine maritime, lacustre ou fluvial du site ;
+
+-connaître les métiers liés au milieu.
+
+2. Dispenses et équivalences :
+
+Le diplôme de "moniteur fédéral croisière" 2e degré, délivré par la Fédération française de voile, dispense du test technique préalable à l'entrée en formation du certificat de spécialisation "croisière" du BPJEPS.
+
+Le niveau technique 5 support "habitable", attesté par un cadre habilité de la Fédération française de voile, tel que défini dans le règlement des formations, diplômes et qualifications de la Fédération française de voile, dispense du test technique préalable à l'entrée en formation du certificat de spécialisation "croisière" du BPJEPS.
