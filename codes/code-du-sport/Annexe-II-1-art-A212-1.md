@@ -4006,9 +4006,7 @@ Sous réserve de la présentation de l'attestation de suivi du stage quinquennal
 
 |
 
-CQP animateur de loisirs sportifs , option jeux sportifs et jeux d'opposition .
-
-|
+CQP animateur de loisirs sportifs , option jeux sportifs et jeux d'opposition . |
 
 Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
 
@@ -4234,6 +4232,24 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 
 |
 
+CQP "moniteur de roller skating", option "roller randonnée"
+
+|
+
+Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller in line hockey", "roller acrobatique", "roller randonnée".
+
+Encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus.
+
+|
+
+Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus :
+
+-dans la limite de vingt pratiquants par titulaire du CQP ;
+
+-sur voies ouvertes, sous l'autorité de deux titulaires du CQP, dans le cas où le groupe comprend plus de huit pratiquants.
+
+|
+
 CQP " moniteur d'aviron ".
 
 |
@@ -4248,7 +4264,9 @@ Sur les eaux intérieures ou maritimes en fonction de l'option du permis plaisan
 
 |
 
-CQP " moniteur de rugby à XV ". |
+CQP " moniteur de rugby à XV ".
+
+|
 
 Animation des activités de rugby à XV pour tout public, à des fins de découverte et d'initiation.
 
@@ -4262,7 +4280,9 @@ CQP " initiateur en motocyclisme ".
 
 |
 
-Encadrement du motocyclisme à des fins de découverte et d'initiation, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (moto ou quad). |
+Encadrement du motocyclisme à des fins de découverte et d'initiation, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (moto ou quad).
+
+|
 
 A l'exclusion des voies ouvertes à la circulation publique.
 
@@ -4270,15 +4290,23 @@ A l'exclusion de toute pratique compétitive.
 
 |
 
-CQP " moniteur de squash ". |
-
-Encadrement des activités de squash, jusqu'aux premiers niveaux de compétition inclus. |
+CQP " moniteur de squash ".
 
 |
 
-CQP " animateur de tennis de table " |
+Encadrement des activités de squash, jusqu'aux premiers niveaux de compétition inclus.
 
-Encadrement de séances collectives de tennis de table, de l'initiation jusqu'aux premiers niveaux de compétition inclus. |
+|
+
+|
+
+CQP " animateur de tennis de table "
+
+|
+
+Encadrement de séances collectives de tennis de table, de l'initiation jusqu'aux premiers niveaux de compétition inclus.
+
+|
 
 |
 
@@ -4298,9 +4326,13 @@ Sous réserve de la présentation du carnet de tir en cours de validité.
 
 |
 
-CQP animateur de badminton . |
+CQP animateur de badminton .
 
-Encadrement en autonomie de séances collectives en badminton, de l'initiation jusqu'au premier niveau de compétition. |
+|
+
+Encadrement en autonomie de séances collectives en badminton, de l'initiation jusqu'au premier niveau de compétition.
+
+|
 
 |
 
@@ -4312,11 +4344,17 @@ Encadrement en autonomie des activités de découverte et d'initiation de footba
 
 |
 
-A l'exclusion des championnats nationaux. |
+A l'exclusion des championnats nationaux.
 
-CQP technicien sportif de cheerleading . |
+|
 
-Encadrement en autonomie de séances d'entraînement en cheerleading pour tout public. |
+CQP technicien sportif de cheerleading .
+
+|
+
+Encadrement en autonomie de séances d'entraînement en cheerleading pour tout public.
+
+|
 
 |
 
@@ -4367,6 +4405,32 @@ Encadrement en autonomie de séances d'initiation et de découverte des activit�
 Encadrement en autonomie du hockey sur glace jusqu'aux premiers niveaux de compétition, pour un public de moins de treize ans.
 
 |
+
+|
+
+CQP "animateur d'athlétisme", option "école d'athlé".
+
+|
+
+Encadrement en autonomie de séances collectives et individuelles d'activités de découverte et d'initiation de l'athlétisme, jusqu'au premier niveau de compétition
+
+|
+
+Pour des publics de moins de seize ans.
+
+Dans la limite de vingt pratiquants.
+
+|
+
+CQP "animateur d'athlétisme", option "athlé loisirs".
+
+|
+
+Encadrement en autonomie de séances collectives et individuelles d'activités de découverte, d'initiation et d'entretien pour tout public pratiquant l'athlétisme loisirs, dont la marche nordique.
+
+|
+
+A l'exclusion des pratiques compétitives
 
 |
 
