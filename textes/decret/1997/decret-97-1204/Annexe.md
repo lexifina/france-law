@@ -244,7 +244,9 @@ Articles R. 543-251, R. 543-252 et R. 543-253. |
 
 Approbation et retrait d'approbation des systèmes individuels chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel.
 
-Arrêté conjoint des ministres chargés de l'environnement et de l'industrie. |
+Arrêté conjoint des ministres chargés de l'environnement et de l'industrie.
+
+|
 
 Article R. 543-266
 
@@ -254,7 +256,9 @@ Article R. 543-266
 
 Agrément et retrait d'agrément des organismes chargés de la gestion des déchets de bouteilles de gaz destinées à un usage individuel.
 
-Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales. |
+Arrêté conjoint des ministres chargés de l'environnement, de l'industrie et des collectivités territoriales.
+
+|
 
 Article R. 543-267
 
@@ -479,6 +483,12 @@ Autorisation spéciale de travaux en site classé ou en instance de classement.
 Article R. 341-12
 
 |
+
+|
+
+Commissionnement des agents non publics des réserves naturelles |
+
+Article R. 332-68 |
 
 Livre IV
 
