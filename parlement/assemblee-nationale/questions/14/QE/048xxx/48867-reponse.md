@@ -1,0 +1,9 @@
+# Réponse à la question n° 48867
+
+- Question : [48867](48867.md) — Question n° 48867 — réseau culturel; rapport parlementaire; recommandations
+
+## Réponse
+
+*JO du 2014-07-22*
+
+De par la réduction des crédits du programme « diplomatie culturelle et d'influence » (P185), le ministère des affaires étrangères et du développement international (MAEDI) s'attache à optimiser ses ressources et à promouvoir la recherche de cofinancements, notamment là où les effets de levier sont les plus significatifs (en particulier dans les pays émergents). Le MAEDI appuie et encourage les efforts de ses opérateurs dans leur recherche de financements extra-budgétaires. Pour l'Institut français (40 M€ de budget, 144 agents), le montant total des mécénats (dons et legs) a ainsi progressé de plus de 3,4 M€ entre 2013 et 2014. Cette hausse s'explique notamment par la commémoration du cinquantenaire des relations diplomatiques France-Chine. Une « task force », pilotée par la direction générale de la mondialisation, du développement et des partenariats en liaison avec la direction de l'Union européenne et la représentation permanente auprès de l'Union européenne, et réunissant l'ensemble des services compétents, a été créée pour animer efficacement le réseau sur ces questions et permettre une meilleure captation des fonds européens. S'agissant de la capacité de mobiliser des cofinancements de l'Union européenne, le MAEDI a décidé de renforcer son action à plusieurs niveaux : - les postes seront invités à améliorer leur suivi du travail de programmation des fonds par les délégations de l'UE et à développer des projets répondant mieux aux exigences posées par les financements européens. La formation dans les postes sera soutenue à cette fin ; - un dispositif permettant à l'Institut français d'assurer une veille permanente et d'accroitre son taux de réponse aux appels à propositions dans le domaine culturel sera prochainement mis en place.
