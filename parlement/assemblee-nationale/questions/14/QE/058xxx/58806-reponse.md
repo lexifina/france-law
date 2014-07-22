@@ -1,0 +1,9 @@
+# Réponse à la question n° 58806
+
+- Question : [58806](58806.md) — Question n° 58806 — déplacement du ministre; bilan
+
+## Réponse
+
+*JO du 2014-07-22*
+
+Le ministre des affaires étrangères et du développement international s'est rendu en Chine du 16 au 19 mai où il a été reçu à Pékin par le Premier ministre Li Keqiang et s'est entretenu avec son homologue Wang Yi. Ses interlocuteurs ont confirmé la volonté de renforcer le partenariat stratégique franco-chinois autour de trois piliers : politique, économique et le nouveau pilier sur les échanges humains dont la première session se tiendra prochainement en France. Le ministre des affaires étrangères et du développement international a rappelé le souhait de la France de voir des développements positifs dans les partenariats structurants (le nucléaire, l'aéronautique et le spatial) et de progresser dans les champs de coopération porteurs de croissance, notamment le développement urbain durable. Sur le projet de ville durable de Wuhan, des résultats concrets ont depuis été obtenus avec la signature le 14 juin 2014 à Lille d'une déclaration conjointe. Sur le climat, la France souhaite coopérer étroitement avec la Chine pour la réussite de la conférence Paris-climat 2015 et la partie chinoise a marqué son intérêt sur ce dossier. Le ministre des affaires étrangères et du développement international a rencontré des acteurs du tourisme. Un accord a été signé avec CTrip, principal opérateur de tourisme individuel en Chine, afin de promouvoir la destination France. Sur les actions en faveur des PME/PMI françaises, l'accord signé avec Alibaba, leader de la vente en ligne en Chine, favorisera l'exportation en Chine des produits français. En matière éducative, un accord sur les sections internationales a été signé. Sur les questions internationales, les ministres des affaires étrangères ont notamment échangé sur la situation en Ukraine, en Syrie et en Libye.
