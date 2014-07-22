@@ -1,0 +1,9 @@
+# Réponse à la question n° 47237
+
+- Question : [47237](47237.md) — Question n° 47237 — Avignon; liaison est-ouest; Vaucluse
+
+## Réponse
+
+*JO du 2014-07-22*
+
+Le projet de liaison est-ouest d'Avignon (LEO) a été classé dans les secondes priorités par la Commission « Mobilité 21 », dont le Gouvernement partage l'analyse. Les projets de ce groupe ont vocation à être engagés après 2030, et, à ce titre, le Gouvernement entend que les études et procédures préalables à l'engagement des travaux soient poursuivies afin de permettre leur réalisation dès que les financements nécessaires auront été stabilisés. Il est par ailleurs prévu, comme le recommandait la Commission, présidée par Monsieur Philippe Duron, que les priorités d'investissement identifiées fassent l'objet d'un réexamen tous les cinq ans, les éléments d'évaluation à l'origine du classement dressé par la Commission étant susceptibles d'évoluer dans le temps. Aussi, il n'est nullement dans les intentions du Gouvernement d'abandonner ce projet. Conscient, d'ailleurs, de l'intérêt qui s'attache à la réalisation des tranches 2 et 3 afin d'achever un contournement sud de l'agglomération d'Avignon, le Gouvernement entend poursuivre la réalisation des acquisitions foncières prévues dans le cadre de la déclaration d'utilité publique actuelle afin de préserver, dans les meilleures conditions, la faisabilité de ce projet le moment venu. Les financements nécessaires dans ce cadre ont vocation à être inscrits au volet « Mobilité » du contrat de plan entre l'État et la région PACA pour la période 2014-2020, en cours d'élaboration. Au regard du contexte budgétaire actuel et de l'intérêt essentiellement local de ce projet, l'inscription de ces crédits au contrat de projets État-région (CPER) - et leur mise en place, le moment venu - sera strictement conditionnée à un engagement fort des collectivités concernées, aux côtés de l'État.
