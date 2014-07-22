@@ -1,0 +1,9 @@
+# Réponse à la question n° 49276
+
+- Question : [49276](49276.md) — Question n° 49276 — mobilité; rapport; préconisations
+
+## Réponse
+
+*JO du 2014-07-22*
+
+Le système d'information sur les agents des services publics (SIASP) est produit par l'institut national de la statistique et des études économiques (INSEE) en collaboration, notamment, avec la direction générale de l'administration et de la fonction publique (DGAFP) et couvre l'ensemble des trois versants de la fonction publique depuis les données relatives à 2010. Ce fichier remplace désormais des sources disparates utilisées jusque-là pour le décompte de l'emploi et le suivi des salaires dans la fonction publique. Grâce à la source SIASP, il est désormais possible de suivre sans double compte et de manière homogène l'emploi et les salaires dans les trois versants de la fonction publique. Des données sur la mobilité géographique élaborées à partir de SIASP ont été présentées pour la première fois dans l'édition 2013 du rapport annuel sur l'état de la fonction publique. La mobilité géographique est considérée à ce stade comme un changement de région de fonction ou de département de fonction à l'intérieur d'une même région. Des travaux d'approfondissement sont actuellement en cours pour mieux cerner la mobilité géographique et l'insérer dans un ensemble incluant les changements liés aux statuts et aux situations d'emploi et les changements d'employeurs. En particulier, la mobilité géographique pourrait être étudiée à un niveau différent du département, plus fin et plus significatif au regard des implications personnelles pour chaque agent, c'est-à-dire au niveau de la zone d'emploi. La DGAFP projette de diffuser le résultat de ses travaux dans le rapport annuel sur l'état de la fonction publique ou d'autres publications d'ici la fin de l'année 2014.
