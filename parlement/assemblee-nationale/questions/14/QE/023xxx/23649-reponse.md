@@ -1,0 +1,9 @@
+# Réponse à la question n° 23649
+
+- Question : [23649](23649.md) — Question n° 23649 — fonctionnement; moyens
+
+## Réponse
+
+*JO du 2014-07-22*
+
+Le 16 juillet 2013, la cinquième convention d'objectifs et de gestion (COG) a été signée entre l'Etat et la Cnaf pour une période de cinq ans (2013-2017). Elle indique notamment que la branche Famille accompagnera la mise en oeuvre de la réforme des rythmes éducatifs avec un financement qui empruntera deux voies. Tout d'abord et à titre exceptionnel, la Cnaf versera une participation financière au fonds d'amorçage au titre de l'année 2014. En deuxième lieu et à titre pérenne, la branche Famille participera au financement de la mise en oeuvre de la réforme des rythmes éducatifs par l'intermédiaire de la prestation de service Alsh, selon ses contours actuels, et par l'intermédiaire d'une prestation de service spécifique versée aux accueils de loisirs organisés dans le cadre d'un projet éducatif territorial (PEDT). Cette prestation de service spécifique destinée à participer au financement des heures de temps périscolaire induites par la réforme sera versée en fonction du nombre d'élèves fréquentant les accueils de loisirs, dans la limite de trois heures par semaine et de 36 semaines par an. Cette prestation pourra être versée même si l'accueil est ouvert gratuitement. A ces financements s'ajoute celui du fonds d'amorçage, prévu par l'article 67 de la loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République. Ce fonds a permis de verser à toutes les communes qui mettent en place la réforme des rythmes dans toutes leurs écoles à compter de la rentrée 2013 un montant de 50 euros par élève et par an, auquel s'ajoute un montant de 40 euros pour les communes défavorisées, bénéficiaires de la DSU - ou de la DSR-cibles. Il a été reconduit pour l'année 2014-2015 dans les mêmes conditions. Sa prolongation a été annoncée pour 2015-2016.
