@@ -1,0 +1,9 @@
+# Réponse à la question n° 52873
+
+- Question : [52873](52873.md) — Question n° 52873 — perspectives
+
+## Réponse
+
+*JO du 2014-07-22*
+
+La publiphonie est une des composantes du service universel des communications électroniques dont la charge a été confiée à Orange le 14 février 2012. Conformément aux prescriptions de son cahier des charges, Orange transmet au Gouvernement les valeurs observées de deux indicateurs de qualité de service : - Le taux maximum de publiphones en dérangement plus de 24 heures, qui ne doit pas excéder 0,6 % à l'échelle nationale. Dans la Zone Caraïbes, il est de 1,2 % - Le taux de publiphones détectés comme étant en dérangement plus de 12 heures, qui ne doit pas excéder 3 % à l'échelle nationale. Dans la Zone Caraïbes, il est de 0,9 %. Le taux de dérangement de publiphones excédant 24 h aux Antilles est donc au-dessus du taux admis à l'échelle nationale. Le ministère des outre-mer a signalé ce fait au Secrétariat d'Etat chargé du numérique afin que l'opérateur en charge de la composante « publiphonie » du service universel prenne les mesures nécessaires. En ce qui concerne l'état des cabines elles-mêmes, il relève de la responsabilité de l'opérateur ou de ses éventuels sous-traitants. En tout état de cause, l'état des cabines ne préjuge pas du non fonctionnement du service téléphonique. Le succès de la téléphonie mobile diminue le recours aux cabines publiques. Il reste qu'elles peuvent représenter une alternative en cas de couverture insuffisante. Les obligations de maintien d'au moins une cabine par commune et d'au moins deux cabines pour les communes de plus de mille habitants donnent tout son sens à la nécessaire concertation qui doit s'instaurer entre l'opérateur chargé du service universel et les communes, afin d'en déterminer la localisation la plus utile.
