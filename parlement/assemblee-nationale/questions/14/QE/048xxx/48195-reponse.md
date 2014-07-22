@@ -1,0 +1,9 @@
+# Réponse à la question n° 48195
+
+- Question : [48195](48195.md) — Question n° 48195 — mutations; réglementation
+
+## Réponse
+
+*JO du 2014-07-22*
+
+Le dispositif des affectations prioritaires à valoriser (APV) ne s'applique que pour les opérations de gestion du mouvement des personnels enseignants, d'éducation et d'orientation du second degré public. Il a été mis en place pour inciter les personnels à s'investir dans un établissement où les conditions d'exercice sont difficiles. En contrepartie d'une affectation stable pendant au moins 5 ans qui correspond à la durée d'affectation retenue pour le droit de mutation prioritaire prévu par l'article 60 de la loi n° 84-16 du 11 janvier 1984 modifiée du statut général des fonctionnaires de l'Etat, les agents bénéficient d'une bonification pour favoriser leur demande de mutation. Les titulaires sur zone de remplacement (TZR) bénéficient d'un dispositif particulier dans le cadre de la politique académique de stabilisation sur poste fixe menée dans chaque académie. Ils peuvent ainsi bénéficier de bonifications à l'issue d'une période de stabilité, également fixée à 5 ans, pour favoriser leur demande de mobilité. Dans l'hypothèse où ils souhaitent être stabilisés sur un poste relevant d'une APV, les années effectuées en tant que TZR dans l'établissement sont prises en compte et comptabilisées au même titre que les années effectuées en tant que titulaires du poste. Les TZR qui, quant à eux, effectuent leur service de manière continue dans le même établissement APV pendant une période de 5 ans bénéficient de l'octroi de la bonification comme un titulaire de cet établissement. Dans la mesure où les TZR peuvent demander et obtenir leur stabilisation dans les établissements APV, il n'est pas envisagé de modifier les règles d'octroi des bonifications décrites précédemment.
