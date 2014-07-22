@@ -1,0 +1,9 @@
+# Réponse à la question n° 58113
+
+- Question : [58113](58113.md) — Question n° 58113 — détenus palestiniens; attitude de la France
+
+## Réponse
+
+*JO du 2014-07-22*
+
+La France suit attentivement la situation de l'ensemble des prisonniers palestiniens, en particulier des prisonniers en grève de la faim ayant fait l'objet d'une hospitalisation compte tenu de la dégradation de leur état de santé. A plusieurs reprises, tant à titre national qu'avec ses partenaires européens, elle a rappelé à Israël que les conditions de détention de ces détenus doivent être conformes aux obligations prévues par les conventions internationales. En particulier, la France aborde régulièrement dans ses contacts avec les autorités israéliennes la question de la détention administrative, qui doit rester une mesure d'exception, d'une durée limitée, et s'effectuer dans le respect des garanties fondamentales, notamment des droits de la défense du détenu et du droit à un procès équitable dans un délai raisonnable. Lors de la session du Conseil des droits de l'Homme de mars 2014, la France a rappelé que le droit international, en particulier la Convention de Genève relative à la protection des personnes civiles en temps de guerre, doit s'appliquer aux Territoires palestiniens. Elle a soutenu la résolution 25/28, exprimant son inquiétude devant le recours continu et étendu à la détention administrative. Cette résolution demande l'application intégrale de l'accord conclu en mai 2012 et l'ouverture immédiate d'une enquête indépendante sur tous les cas de décès en détention. La France appelle Israël à libérer tous les prisonniers palestiniens dont la détention n'est pas conforme au droit international. En outre, les autorités françaises suivent avec attention la situation et l'activité de M. Marwan Barghouti, qui continue à jouer un rôle important sur la scène palestinienne, et maintiennent des contacts réguliers avec son épouse, Mme Fadwa Barghouti.
