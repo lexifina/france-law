@@ -1,0 +1,9 @@
+# Réponse à la question n° 58762
+
+- Question : [58762](58762.md) — Question n° 58762 — droit de veto; perspectives
+
+## Réponse
+
+*JO du 2014-07-22*
+
+La paralysie du Conseil de sécurité des Nations unies imposée par un veto dans des situations d'atrocités de masse, comme c'est le cas en Syrie, est inacceptable et contraire à l'esprit de la Charte des Nations unies. Elle entrave la capacité du Conseil à prendre les mesures nécessaires au maintien de la paix et de la sécurité internationales et nuit, ainsi, à la crédibilité et à l'efficacité de la sécurité collective. C'est précisément afin de surmonter cette paralysie que la France a proposé - par la voix du Président de la République, M. François Hollande, devant la 68e Assemblée générale des Nations unies, et de son ministre des affaires étrangères, M. Laurent Fabius - que les membres permanents du Conseil de sécurité s'engagent volontairement à s'abstenir de recourir au veto dans les situations d'atrocités de masse. En effet, pour la France, le veto n'est pas un privilège. Il correspond au compromis trouvé pour que les membres permanents agissent pleinement pour la sécurité collective. Cette prérogative implique des devoirs. A l'inverse, son abus mine les fondements du pacte de 1945 accepté par tous à travers la Charte des Nations unies. La proposition de la France a rencontré un écho positif parmi les membres des Nations unies et la société civile internationale. La France organisera une réunion ministérielle de haut niveau en septembre prochain, en marge de l'Assemblée générale des Nations unies, afin d'amplifier la mobilisation autour de cette proposition et convaincre si possible les autres membres permanents de s'engager dans la perspective du 70e anniversaire des Nations unies en 2015. En tout état de cause, la France ne se résigne pas à l'inaction sur le dossier syrien. Ses nombreuses initiatives en sont l'illustration.
