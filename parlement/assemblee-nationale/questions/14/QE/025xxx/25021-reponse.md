@@ -1,0 +1,9 @@
+# Réponse à la question n° 25021
+
+- Question : [25021](25021.md) — Question n° 25021 — hébergement d'urgence; moyens
+
+## Réponse
+
+*JO du 2014-07-22*
+
+La politique de prise en charge des personnes sans domicile ou rencontrant des difficultés particulières pour accéder au logement ou s'y maintenir vise à améliorer la fluidité de l'hébergement logement, à éviter de maintenir des personnes et familles en marge du droit commun parfois pendant des années, à favoriser leur accès le plus rapide possible au logement, et, in fine à contenir le développement régulier du nombre de places d'hébergement notamment d'urgence. Cette orientation du dispositif vers l'accès prioritaire au logement n'est pas exclusive de la volonté de répondre, tout au long de l'année, à l'urgence. Le Gouvernement, dans le cadre du plan pluriannuel contre la pauvreté et pour l'inclusion sociale, a ainsi accordé des moyens supplémentaires pour répondre à l'urgence sur les territoires. Ce sont ainsi plus de 7 000 places d'hébergement d'urgence qui ont été créées en 2013. Parce que l'hébergement d'urgence ne peut en effet qu'être une solution temporaire en l'absence de solutions plus adaptées à la situation des personnes, il a, parallèlement, accordé des moyens équivalents pour développer l'accès au logement et les solutions de logement accompagné (plus de 7 500 places nouvelles ont ainsi été créées). La lettre ministérielle du 21 novembre 2013 prévoit enfin la possibilité d'ouvrir des places temporaires dont les conditions d'ouverture (situations justifiant l'ouverture, caractéristiques, conditions de fermeture...), font l'objet d'un travail de cadrage entre les administrations et les fédérations associatives. Ces travaux permettront de disposer d'un cadre commun de mise en oeuvre que les préfets pourront utilement mobiliser chaque fois que nécessaire.
