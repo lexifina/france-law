@@ -1,0 +1,9 @@
+# Réponse à la question n° 43411
+
+- Question : [43411](43411.md) — Question n° 43411 — politique européenne de l'immigration; perspectives
+
+## Réponse
+
+*JO du 2014-07-22*
+
+Le Conseil européen de 26 et 27 juin 2014 a défini les orientations stratégiques du futur programme « post-Stockholm » sur l'espace de liberté, de sécurité et de justice. Le programme stratégique de l'Union pour les cinq prochaines années, qui complète les conclusions du Conseil européen, comprend également un volet liberté, sécurité et justice. Ces orientations reflètent les priorités françaises en matière de migrations et permettront de donner des réponses concrètes et plus efficaces aux situations dramatiques survenues ces derniers mois en Méditerranée. Le Conseil européen a ainsi réaffirmé l'objectif d'un fonctionnement plus efficace des outils européens, notamment ceux de Schengen, de même que la mise en place de mesures destinées à s'attaquer aux causes profondes de la migration irrégulière, à la traite des êtres humains et aux activités des passeurs, qui sont responsables des drames récurrents en Méditerranée. Afin de parvenir à des solutions durables, les chefs d'Etat ou de gouvernement ont également souligné l'importance de renforcer la coopération avec les pays d'origine et de transit. Les politiques migratoires doivent ainsi devenir une composante plus importante des politiques extérieures et de développement de l'Union européenne. Les conclusions mentionnent également le renforcement des activités opérationnelles de Frontex et l'activation du nouveau système européen de surveillance des frontières (EUROSUR), le parquet européen ainsi que l'étude d'un système de garde-frontières européens. La présidence italienne du Conseil de l'Union européenne, qui a débuté le 1er juillet, sera évidemment soucieuse de promouvoir de manière vigoureuse ces priorités au cours des prochains mois.
