@@ -1,0 +1,9 @@
+# Réponse à la question n° 57350
+
+- Question : [57350](57350.md) — Question n° 57350 — Orly; nuisances sonores; couvre-feu de coeur de nuit; perspectives
+
+## Réponse
+
+*JO du 2014-07-22*
+
+Le dimanche 20 avril 2014, plusieurs avions ayant décollé de l'aéroport de Paris-Orly ont exceptionnellement survolé la commune de Savigny sur Orge. En effet, en raison de forts effets de cisaillements du vent, dangereux pour les avions, le service de la navigation aérienne de Paris-Orly a décidé d'utiliser pour les décollages, pendant quelques heures, la piste n° 2 orientée nord/sud. Cette décision a été prise afin de permettre l'écoulement du trafic dans des conditions de sécurité satisfaisantes, conformément aux consignes d'exploitation de Paris-Orly qui prévoient l'utilisation de cette piste en cas d'indisponibilité des deux autres ou lorsque la direction ou la force du vent l'impose. Par ailleurs, depuis des années, l'aéroport de Paris-Orly fait l'objet, compte tenu de sa situation particulière dans un environnement très urbanisé, d'un couvre feu et d'un nombre maximal de créneaux horaires. Ce nombre a été fixé par l'arrêté du 6 octobre 1994 à 250 000 sur deux périodes de planification horaire consécutives (été et hiver). Il n'est aucunement dans l'intention du Gouvernement de remettre en cause le couvre feu ou la limitation du nombre de créneaux. Aéroports de Paris (ADP) connaît d'ailleurs la position de l'État et n'a pas demandé, dans le cadre des travaux de rénovation de l'aéroport de Paris-Orly, de modification sur ces deux points. L'aéroport de Paris-Orly doit cependant pouvoir se développer d'un point de vue économique, ce qui bénéficiera à la fois aux entreprises, aux salariés et aux usagers de l'aéroport. La réglementation environnementale a précisément pour objectif de permettre que ces développements ne se fassent pas au détriment des riverains.
