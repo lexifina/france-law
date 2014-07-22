@@ -1,0 +1,9 @@
+# Réponse à la question n° 53267
+
+- Question : [53267](53267.md) — Question n° 53267 — réglementation; bénéficiaires
+
+## Réponse
+
+*JO du 2014-07-22*
+
+Le Gouvernement est conscient des contraintes qui pèsent sur les collectivités territoriales concernant la mise en oeuvre de la réforme des rythmes scolaires, notamment pour les communes rurales. Elles conduisent ces dernières à réexaminer et à adapter la gestion des personnels territoriaux intervenant dans les activités périscolaires. Les collectivités territoriales peuvent ainsi utiliser les possibilités offertes par le statut général, dont celles prévues à l'article 136 de la loi du 26 janvier 1984 qui permettent à une commune de mettre des agents non titulaires à disposition d'un établissement public qui lui est rattaché ou d'un établissement public de coopération intercommunal dont elle est membre. Toutefois, cette position statutaire est réservée aux seuls agents ayant conclu un contrat à durée indéterminée. Dans le cadre de la mise en oeuvre du troisième volet du protocole d'accord du 31 mars 2011, portant sur l'amélioration des droits individuels et collectifs ainsi que des conditions d'emploi des personnels sous contrats dans la fonction publique, une concertation avec les organisations syndicales et les employeurs est en cours pour faire évoluer les textes réglementaires régissant les dispositions générales applicables aux agents contractuels. Une extension des conditions de mise à disposition, afin d'en rendre bénéficiaires certains agents sous contrats à durée déterminée, pourrait faire l'objet d'une étude à l'occasion des réflexions concernant l'évolution du décret n° 88-145 du 15 février 1988 relatif aux agents non titulaires de la fonction publique territoriale. Dans l'hypothèse où une telle orientation serait envisagée, elle impliquerait une modification de la norme législative.
