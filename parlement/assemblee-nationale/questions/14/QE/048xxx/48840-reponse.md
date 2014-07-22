@@ -1,0 +1,9 @@
+# Réponse à la question n° 48840
+
+- Question : [48840](48840.md) — Question n° 48840 — réseau culturel; rapport parlementaire; recommandations
+
+## Réponse
+
+*JO du 2014-07-22*
+
+Le ministère des affaires étrangères et du développement international, grâce à son opérateur culturel l'Institut français (IF), porte une attention particulière à l'utilisation d'outils numériques et à leur impact. Afin d'adapter ce réseau aux réalités contemporaines et de faire face à de nouveaux défis, l'Institut français a inscrit le numérique au coeur de ses moyens d'intervention et a développé de nombreuses plateformes thématiques (IF Cinéma, IFmapp, IFverso, IFmobile, Culturethèque, etc.) qui permettent notamment d'améliorer l'information sur l'offre artistique nationale et au sein du réseau. Les plateformes IFcinéma, IFverso dans le secteur du livre ou encore Culturethèque constituent ainsi des ressources numériques essentielles à la meilleure diffusion de l'offre culturelle française et internationale. La numérisation des infrastructures culturelles à l'étranger accompagne cet effort. Ils sont également des outils d'information et de veille sur l'offre culturelle française et internationale. Cette offre numérique rencontre un réel succès (forte progression des abonnements, des consultations de sites, des téléchargements d'application) et fait l'objet d'une promotion permanente avec la création en septembre 2013 d'un département spécifique dédié au numérique. Une bonne connaissance des scènes artistiques étrangères est un élément essentiel pour la promotion de nos artistes et de la création française à l'étranger. Elle permet de favoriser les co-productions et la diffusion des oeuvres. Dans cette perspective, l'Institut français centralise, en lien avec les services culturels des ambassades, les informations sur les programmations artistiques étrangères, régulièrement actualisées.
