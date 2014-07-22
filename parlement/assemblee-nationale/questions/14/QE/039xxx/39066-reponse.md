@@ -1,0 +1,9 @@
+# Réponse à la question n° 39066
+
+- Question : [39066](39066.md) — Question n° 39066 — Cour des comptes; rapport; recommandations
+
+## Réponse
+
+*JO du 2014-07-22*
+
+Dans son rapport publié le 24 juillet dernier, la Cour des comptes recommande de réaliser une analyse ex post des modèles financiers des contrats de plan et du Paquet vert et d'obtenir des concessionnaires le montant des coûts réalisés des investissements prévus aux contrats de plan et dans le Paquet vert. L'État s'attache à optimiser ses positions de négociation pour l'avenir, notamment par un travail de veille et de comparaison de l'évolution des différents paramètres constitutifs des coûts, qu'il s'agisse des coûts de travaux ou des coûts de financement. Il dispose, pour cela, de plusieurs moyens au-delà de l'exploitation des données publiques, qu'il s'agisse de l'activation de leviers contractuels ou de la mise à profit des connaissances dont il dispose en tant qu'exploitant du réseau autoroutier non concédé. Par ailleurs, l'avancement des travaux d'investissements complémentaires sur autoroutes en service (en particulier les travaux d'élargissement d'une section d'autoroute) fait l'objet d'un suivi trimestriel. Tout retard constaté ou susceptible d'être constaté peut donner lieu à une pénalité financière prévue par les contrats de concession. Un suivi financier est enfin réalisé à échéance quinquennale, sur le fondement de l'article 7.5 des contrats de concession. La plupart des contrats prévoient en effet la possibilité pour le concédant de récupérer une partie du gain de trésorerie généré par un décalage dans le temps des travaux, indépendamment de toute faute de la part du concessionnaire. L'application de l'article 7.5 (retard sans faute du concessionnaire) peut se cumuler avec l'application de l'article 39 (retard avec faute du concessionnaire).
