@@ -1,0 +1,9 @@
+# Réponse à la question n° 55442
+
+- Question : [55442](55442.md) — Question n° 55442 — embargo économique; attitude de la France
+
+## Réponse
+
+*JO du 2014-07-22*
+
+La France a constamment voté en faveur de la résolution présentée à l'Assemblée générale des Nations unies par le gouvernement de la République de Cuba « sur la nécessité de lever le blocus économique, commercial et financier imposé à Cuba ». Cette résolution est présentée chaque année depuis 1991, et a été adoptée pour la dernière fois le 30 octobre 2013 par 188 voix, dont celle de la France. M. Laurent Fabius a publiquement rappelé la ferme opposition de la France à cet embargo le 12 avril dernier, à l'occasion de son déplacement à Cuba - la première visite d'un ministre français des affaires étrangères dans ce pays depuis 31 ans. L'embargo américain à l'égard de Cuba a des effets extra-territoriaux, puisqu'il prétend s'appliquer non seulement à toutes les personnes, physiques et morales, qui résident aux Etats-Unis, mais encore aux entreprises dont le propriétaire réside aux Etats-Unis, qui commercialisent des produits utilisant plus de 10 % de technologies américaines et/ou qui effectuent des transactions en dollars américains. Dans le cadre communautaire, et alors que se sont engagées les négociations entre d'une part l'Union européenne et les Etats-Unis pour un accord de libre-échange, et d'autre part entre l'Union européenne et Cuba pour un accord de dialogue politique et de coopération, la France soutient les efforts de l'Union européenne visant à faire cesser les effets de cet embargo sur les entreprises européennes. Cette solidarité communautaire a permis d'obtenir de l'administration américaine qu'elle suspende l'application du chapitre III de la loi Helms-Burton de 1996, qui considère des sanctions extra-territoriales à l'égard de compagnies relevant juridiquement d'Etats tiers.
