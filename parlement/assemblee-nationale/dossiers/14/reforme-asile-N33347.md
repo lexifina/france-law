@@ -1,0 +1,102 @@
+# Affaires étrangères : réforme du droit d'asile
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33347
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/reforme_asile
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-193.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-07-23 : 1er dépôt d'une initiative. (PRJLANR5L14B2182)
+  - 2014-07-23 : Etude d'impact (ETDIANR5L14B2182)
+  - 2014-09-30 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-07-23 : Renvoi en commission au fond
+      - 2014-09-10 : Nomination de rapporteur
+      - 2014-09-10 : Réunion de commission
+      - 2014-09-17 : Réunion de commission
+      - 2014-11-25 : Réunion de commission
+      - 2014-11-25 : Réunion de commission
+      - 2014-11-26 : Réunion de commission
+      - 2014-12-09 : Réunion de commission
+      - 2014-11-26 : Dépôt de rapport (RAPPANR5L14B2407, PRJLANR5L14BTC2407)
+    - Travaux d'une commission saisie pour avis
+      - 2014-09-12 : Saisine pour avis d'une commission
+      - 2014-10-15 : Nomination de rapporteur
+      - 2014-10-15 : Réunion de commission
+      - 2014-11-12 : Réunion de commission
+      - 2014-11-12 : Réunion de commission
+      - 2014-11-12 : Dépôt de rapport (AVISANR5L14B2357)
+    - Travaux d'une commission saisie pour avis
+      - 2014-09-30 : Saisine pour avis d'une commission
+      - 2014-09-30 : Nomination de rapporteur
+      - 2014-09-30 : Réunion de commission
+      - 2014-11-18 : Réunion de commission
+      - 2014-11-19 : Dépôt de rapport (AVISANR5L14B2366)
+  - Discussion en séance publique
+    - 2014-12-09 : Discussion en séance publique
+    - 2014-12-09 : Discussion en séance publique
+    - 2014-12-10 : Discussion en séance publique
+    - 2014-12-10 : Discussion en séance publique
+    - 2014-12-11 : Discussion en séance publique
+    - 2014-12-11 : Discussion en séance publique
+    - 2014-12-16 : Discussion en séance publique
+    - 2014-12-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-12-17 : Dépôt d'une initiative en navette (PRJLSNR5S239B0193)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-17 : Renvoi en commission au fond
+      - 2015-02-11 : Nomination de rapporteur
+      - 2015-05-05 : Dépôt de rapport (RAPPSNR5S239B0425)
+    - Travaux d'une commission saisie pour avis
+      - 2015-03-04 : Saisine pour avis d'une commission
+      - 2015-03-04 : Nomination de rapporteur
+      - 2015-04-08 : Dépôt de rapport (AVISSNR5S239B0394)
+  - Discussion en séance publique
+    - 2015-05-11 : Discussion en séance publique
+    - 2015-05-18 : Discussion en séance publique
+    - 2015-05-19 : Discussion en séance publique
+    - 2015-05-26 : Discussion en séance publique
+    - 2015-05-26 : Décision
+- Commission Mixte Paritaire
+  - 2015-05-27 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-06-10 : Nomination de rapporteur
+    - 2015-06-10 : Dépôt du rapport d'une CMP (RAPPANR5L14B2861)
+    - 2015-06-10 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0498)
+  - 2015-06-10 : Décision de la CMP
+- Nouvelle Lecture
+  - 2015-05-27 : Dépôt d'une initiative en navette (PRJLANR5L14B2807)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-05-27 : Renvoi en commission au fond
+      - 2015-06-17 : Réunion de commission
+      - 2015-06-25 : Réunion de commission
+      - 2015-06-17 : Dépôt de rapport (RAPPANR5L14B2883, PRJLANR5L14BTC2883)
+  - Discussion en séance publique
+    - 2015-06-25 : Discussion en séance publique
+    - 2015-06-25 : Décision
+- Nouvelle Lecture
+  - 2015-06-26 : Dépôt d'une initiative en navette (PRJLSNR5S239B0566)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-06-26 : Renvoi en commission au fond
+      - 2015-06-30 : Dépôt de rapport (RAPPSNR5S239B0570)
+  - Discussion en séance publique
+    - 2015-07-07 : Discussion en séance publique
+    - 2015-07-07 : Décision
+- Lecture définitive
+  - 2015-07-08 : Dépôt d'une initiative en navette (PRJLANR5L14B2947)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-08 : Renvoi en commission au fond
+      - 2015-07-15 : Dépôt de rapport (RAPPANR5L14B2976)
+  - Discussion en séance publique
+    - 2015-07-15 : Discussion en séance publique
+    - 2015-07-15 : Décision
+- Promulgation de la loi
+  - 2015-07-29 : Promulgation d'une loi
