@@ -1,8 +1,12 @@
 # Article Annexe III
 
-LES ÉPREUVES SPORTIVES D'ADMISSION
+ÉPREUVES SPORTIVES DES CONCOURS PRÉVUS AUX 1O ET 3O DE L'ARTICLE 5 DU DÉCRET SUSVISÉ
 
-Les candidats effectuent les épreuves sportives obligatoirement dans l'ordre suivant :
+Les candidats ayant effectué les épreuves définies ci-après au cours de l'année civile, dans le cadre de l'un des concours d'entrée aux grandes écoles militaires de recrutement d'officiers, peuvent faire valoir un relevé de performances. Ce relevé est à produire avant le début des épreuves sportives du concours considéré.
+
+Au cours d'une même année et à leur demande, les candidats à plusieurs des concours de recrutement d'officiers de la gendarmerie nationale, prévus aux 1° et 3° de l'article 5 du décret susvisé et aux 1° et 4° de l'article 6 du décret n° 2008-946 du 12 septembre 2008 portant statut particulier du corps des officiers de gendarmerie, peuvent effectuer une seule fois les épreuves sportives. Les performances ainsi obtenues sont prises en compte pour les concours précités. La note de sport en résultant dépend du coefficient et de la note éliminatoire fixés pour chaque concours.
+
+Les candidats effectuent les quatre épreuves sportives obligatoirement dans l'ordre suivant :
 
 1° Epreuve de natation ;
 
@@ -10,31 +14,33 @@ Les candidats effectuent les épreuves sportives obligatoirement dans l'ordre su
 
 3° Epreuve de course de demi-fond ;
 
-4° Epreuve de tractions et abdominaux.
+4° Epreuve de tractions et d'abdominaux.
 
-I. ― Epreuve de natation
+I.-Epreuve de natation
 
-Il s'agit de nager en style libre, en piscine, une distance de 50 mètres avec ou sans virage. Le candidat peut, à son choix, plonger, sauter ou être déjà dans l'eau en contact avec le mur au moment où le départ est donné. Les candidats sont en maillot de bain. Les seuls équipements autorisés sont : bonnet de bain, lunettes de natation, pince-nez et bouchons d'oreille. Les concurrents sont répartis par groupes d'importance numérique aussi semblables que possible et d'effectif inférieur ou égal à cinq nageurs.
+Il s'agit de nager en style libre, en piscine, une distance de 50 mètres avec ou sans virage. Le candidat peut, à son choix, plonger, sauter ou être déjà dans l'eau en contact avec le mur au moment où le départ est donné.
 
-II. ― Epreuve de course de vitesse
+Les candidats sont en maillot de bain. Les seuls équipements autorisés sont : bonnet de bain, lunettes de natation, pince-nez et bouchons d'oreille. Les concurrents sont répartis par groupes d'importance numérique aussi semblables que possible.
+
+II.-Epreuve de course de vitesse
 
 Il s'agit d'une course de 50 mètres, effectuée sur une piste et en couloir, le départ pouvant s'effectuer à l'aide de starting-blocks.
 
 Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées. Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblables que possible.
 
-III. ― Epreuve de course de demi-fond
+III.-Epreuve de course de demi-fond
 
-Il s'agit d'une course de 3 000 mètres, effectuée sur une piste d'athlétisme, avec départ en ligne. Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées. Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblables que possible et d'effectif inférieur ou égal à 20.
+Il s'agit d'une course de 3 000 mètres, effectuée sur une piste d'athlétisme, avec départ en ligne. Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées. Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblables que possible et d'effectif inférieur ou égal à 25.
 
-IV. ― Epreuve de tractions et abdominaux
+IV.-Epreuve de tractions et d'abdominaux
 
-La note sur 20 à l'épreuve de tractions et abdominaux est attribuée par l'addition des deux notes sur 10 obtenues à l'épreuve de tractions et à l'épreuve d'abdominaux.
+La note sur 20 à l'épreuve de tractions et d'abdominaux est attribuée par l'addition des deux notes sur 10 obtenues au test de tractions et au test d'abdominaux.
 
-Tractions :
+1° Tractions
 
-Il s'agit d'exercer des flexions simultanées des bras en pronation jusqu'à ce que le menton soit au-dessus de la barre, puis de descendre jusqu'à la position bras tendus (coudes déverrouillés). La position des pouces sur la barre est laissée à l'appréciation du candidat. La distance entre les mains correspond à la largeur des épaules du candidat. Cette épreuve doit être exécutée sans interruption équivalant à un temps de repos.
+Il s'agit d'exercer des flexions simultanées des bras en pronation jusqu'à ce que le menton soit au-dessus de la barre, puis de descendre jusqu'à la position bras tendus (coudes déverrouillés). La position des pouces sur la barre est laissée à l'appréciation du candidat. La distance entre les mains correspond à la largeur des épaules du candidat. Un maximum de tractions doit être exécuté sans limite de temps.
 
-Abdominaux :
+2° Abdominaux
 
 Le candidat est allongé sur le dos, genoux et hanches fléchis à 90°. Les pieds, en appui contre un mur ou sur une chaise, sont tenus par un moniteur d'entraînement physique et sportif ou bloqués contre un espalier.
 
@@ -42,23 +48,17 @@ Les épaules doivent être décollées du sol, les coudes fléchis, les mains su
 
 Au signal, le candidat réalise une flexion du tronc jusqu'au contact des coudes avec les cuisses puis retour à la position de départ, les épaules et la tête ne devant à aucun moment toucher le sol.
 
-La position des mains, des coudes et des bras doit rester inchangée tout au long de l'épreuve (contact permanent des bras avec la poitrine et de la région lombaire avec le sol).
+La position des mains, des coudes et des bras doit rester inchangée tout au long du test (contact permanent des bras avec la poitrine et de la région lombaire avec le sol).
 
-Cette épreuve doit être exécutée sans interruption équivalant à un temps de repos.
+Ce test doit être exécuté sans interruption équivalant à un temps de repos.
 
-V. ― Barème des épreuves sportives
+V.-Barème des épreuves sportives
 
-NOTES
+NOTES |
 
-|
+HOMMES |
 
-HOMMES
-
-|
-
-FEMMES
-
-|
+FEMMES |
 
 |
 
@@ -126,19 +126,15 @@ Natation
 
 |
 
-6''47
+6 " 47
 
 |
 
-10'29''
+10'29 "
 
 |
 
-29''6
-
-|
-
-/
+29 " 6
 
 |
 
@@ -146,15 +142,19 @@ Natation
 
 |
 
-7''61
+/
 
 |
 
-12'58''
+7 " 61
 
 |
 
-36''2
+12'58 "
+
+|
+
+36 " 2
 
 |
 
@@ -170,19 +170,15 @@ Natation
 
 |
 
-6''51
+6 " 51
 
 |
 
-10'41''
+10'41 "
 
 |
 
-30''2
-
-|
-
-/
+30 " 2
 
 |
 
@@ -190,15 +186,19 @@ Natation
 
 |
 
-7''69
+/
 
 |
 
-13'16''
+7 " 69
 
 |
 
-37''2
+13'16 "
+
+|
+
+37 " 2
 
 |
 
@@ -214,19 +214,15 @@ Natation
 
 |
 
-6''56
+6 " 56
 
 |
 
-10'53''
+10'53 "
 
 |
 
-30''8
-
-|
-
-/
+30 " 8
 
 |
 
@@ -234,15 +230,19 @@ Natation
 
 |
 
-7''77
+/
 
 |
 
-13'37''
+7 " 77
 
 |
 
-38''4
+13'37 "
+
+|
+
+38 " 4
 
 |
 
@@ -258,19 +258,15 @@ Natation
 
 |
 
-6''61
+6 " 61
 
 |
 
-11'06''
+11'06 "
 
 |
 
-31''6
-
-|
-
-/
+31 " 6
 
 |
 
@@ -278,15 +274,19 @@ Natation
 
 |
 
-7''86
+/
 
 |
 
-13'59''
+7 " 86
 
 |
 
-39''7
+13'59 "
+
+|
+
+39 " 7
 
 |
 
@@ -302,19 +302,15 @@ Natation
 
 |
 
-6''65
+6 " 65
 
 |
 
-11'21''
+11'21 "
 
 |
 
-32''3
-
-|
-
-/
+32 " 3
 
 |
 
@@ -322,15 +318,19 @@ Natation
 
 |
 
-7''96
+/
 
 |
 
-14'23''
+7 " 96
 
 |
 
-41''1
+14'23 "
+
+|
+
+41 " 1
 
 |
 
@@ -346,19 +346,15 @@ Natation
 
 |
 
-6''70
+6 " 70
 
 |
 
-11'36''
+11'36 "
 
 |
 
-33''1
-
-|
-
-/
+33 " 1
 
 |
 
@@ -366,15 +362,19 @@ Natation
 
 |
 
-8''07
+/
 
 |
 
-14'49''
+8 " 07
 
 |
 
-42''7
+14'49 "
+
+|
+
+42 " 7
 
 |
 
@@ -390,19 +390,15 @@ Natation
 
 |
 
-6''82
+6 " 82
 
 |
 
-11'53''
+11'53 "
 
 |
 
-35''1
-
-|
-
-/
+35 " 1
 
 |
 
@@ -410,15 +406,19 @@ Natation
 
 |
 
-8''18
+/
 
 |
 
-15'17''
+8 " 18
 
 |
 
-44''5
+15'17 "
+
+|
+
+44 " 5
 
 |
 
@@ -434,19 +434,15 @@ Natation
 
 |
 
-6''89
+6 " 89
 
 |
 
-12'10''
+12'10 "
 
 |
 
-36''5
-
-|
-
-/
+36 " 5
 
 |
 
@@ -454,15 +450,19 @@ Natation
 
 |
 
-8''31
+/
 
 |
 
-15'48''
+8 " 31
 
 |
 
-46''5
+15'48 "
+
+|
+
+46 " 5
 
 |
 
@@ -478,19 +478,15 @@ Natation
 
 |
 
-6''97
+6 " 97
 
 |
 
-12'29''
+12'29 "
 
 |
 
-38''0
-
-|
-
-/
+38 " 0
 
 |
 
@@ -498,15 +494,19 @@ Natation
 
 |
 
-8''44
+/
 
 |
 
-16'21''
+8 " 44
 
 |
 
-48''8
+16'21 "
+
+|
+
+48 " 8
 
 |
 
@@ -522,19 +522,15 @@ Natation
 
 |
 
-7''06
+7 " 06
 
 |
 
-12'50''
+12'50 "
 
 |
 
-39''7
-
-|
-
-/
+39 " 7
 
 |
 
@@ -542,15 +538,19 @@ Natation
 
 |
 
-8''58
+/
 
 |
 
-16'58''
+8 " 58
 
 |
 
-51''3
+16'58 "
+
+|
+
+51 " 3
 
 |
 
@@ -566,15 +566,15 @@ Natation
 
 |
 
-7''15
+7 " 15
 
 |
 
-13'12''
+13'12 "
 
 |
 
-41''7
+41 " 7
 
 |
 
@@ -586,15 +586,15 @@ Natation
 
 |
 
-8''73
+8 " 73
 
 |
 
-17'37''
+17'37 "
 
 |
 
-54''1
+54 " 1
 
 |
 
@@ -610,15 +610,15 @@ Natation
 
 |
 
-7''25
+7 " 25
 
 |
 
-13'36''
+13'36 "
 
 |
 
-43''9
+43 " 9
 
 |
 
@@ -628,15 +628,15 @@ Natation
 
 |
 
-8''89
+8 " 89
 
 |
 
-18'19''
+18'19 "
 
 |
 
-57''2
+57 " 2
 
 |
 
@@ -652,15 +652,15 @@ Natation
 
 |
 
-7''36
+7 " 36
 
 |
 
-14'02''
+14'02 "
 
 |
 
-46''4
+46 " 4
 
 |
 
@@ -672,15 +672,15 @@ Natation
 
 |
 
-9''06
+9 " 06
 
 |
 
-19'06''
+19'06 "
 
 |
 
-1'00''8
+1'00 " 8
 
 |
 
@@ -696,15 +696,15 @@ Natation
 
 |
 
-7''47
+7 " 47
 
 |
 
-14'29''
+14'29 "
 
 |
 
-49''1
+49 " 1
 
 |
 
@@ -714,15 +714,15 @@ Natation
 
 |
 
-9''25
+9 " 25
 
 |
 
-19'56''
+19'56 "
 
 |
 
-1'04''7
+1'04 " 7
 
 |
 
@@ -738,15 +738,15 @@ Natation
 
 |
 
-7''60
+7 " 60
 
 |
 
-14'59''
+14'59 "
 
 |
 
-52''3
+52 " 3
 
 |
 
@@ -758,15 +758,15 @@ Natation
 
 |
 
-9''45
+9 " 45
 
 |
 
-20'51''
+20'51 "
 
 |
 
-1'09''1
+1'09 " 1
 
 |
 
@@ -782,15 +782,15 @@ Natation
 
 |
 
-7''70
+7 " 70
 
 |
 
-15'30''
+15'30 "
 
 |
 
-56''0
+56 " 0
 
 |
 
@@ -800,15 +800,15 @@ Natation
 
 |
 
-9''70
+9 " 70
 
 |
 
-21'40''
+21'40 "
 
 |
 
-1'14''0
+1'14 " 0
 
 |
 
@@ -824,15 +824,15 @@ Natation
 
 |
 
-7''88
+7 " 88
 
 |
 
-16'05''
+16'05 "
 
 |
 
-59''8
+59 " 8
 
 |
 
@@ -844,15 +844,15 @@ Natation
 
 |
 
-9''89
+9 " 89
 
 |
 
-22'54''
+22'54 "
 
 |
 
-1'19''6
+1'19 " 6
 
 |
 
@@ -868,15 +868,15 @@ Natation
 
 |
 
-8''03
+8 " 03
 
 |
 
-16'42''
+16'42 "
 
 |
 
-1'04''2
+1'04 " 2
 
 |
 
@@ -886,15 +886,15 @@ Natation
 
 |
 
-10''14
+10 " 14
 
 |
 
-24'04''
+24'04 "
 
 |
 
-1'25''8
+1'25 " 8
 
 |
 
@@ -910,15 +910,15 @@ Natation
 
 |
 
-8''20
+8 " 20
 
 |
 
-17'22''
+17'22 "
 
 |
 
-1'09''3
+1'09 " 3
 
 |
 
@@ -934,11 +934,11 @@ Natation
 
 |
 
-25'19''
+25'19 "
 
 |
 
-1'32''7
+1'32 " 7
 
 |
 
@@ -954,15 +954,15 @@ Natation
 
 |
 
-8''38
+8 " 38
 
 |
 
-18'05''
+18'05 "
 
 |
 
-1'14''9
+1'14 " 9
 
 |
 
@@ -976,14 +976,14 @@ Natation
 
 |
 
-26'42''
+26'42 "
 
 |
 
-1'40''5
+1'40 " 5
 
 |
 
-Nota. - En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro.
+Nota.-En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro.
 
 |

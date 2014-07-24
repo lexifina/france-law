@@ -1,149 +1,981 @@
 # Article Annexe IV
 
-Les épreuves du concours ouvert au titre de l'année 2013 aux candidats titulaires de l'un des diplômes exigés des candidats au concours externe de l'Ecole nationale d'administration (1° de l'article 5 du décret susvisé).
+ÉPREUVES SPORTIVES DES CONCOURS PRÉVUS AUX 2O ET 4O DE L'ARTICLE 5 DU DÉCRET SUSVISÉ
 
-I. ― Epreuves d'admissibilité
+Les candidats effectuent les trois épreuves sportives obligatoirement dans l'ordre suivant :
 
-1. Epreuve de culture générale (durée : quatre heures ; coefficient 20).
+1° Epreuve de natation ;
 
-L'épreuve de culture générale consiste en une dissertation ayant pour but d'apprécier la culture et les connaissances générales des candidats ainsi que leur aptitude à exprimer clairement leur pensée.
+2° Epreuve de course de demi-fond ;
 
-Le sujet porte sur des idées ou des faits dont la connaissance est indispensable à la compréhension du monde contemporain.
+3° Epreuve d'abdominaux et de tractions ou d'appuis faciaux.
 
-2. Epreuve de langue vivante (durée : trois heures ; coefficient 10).
+I. - Epreuve de natation
 
-L'épreuve écrite de langue vivante comprend :
+Il s'agit de nager en style libre, en piscine, une distance de 50 mètres avec ou sans virage. Le candidat peut, à son choix, plonger, sauter ou être déjà dans l'eau en contact avec le mur au moment où le départ est donné.
 
-― une version suivie de questions d'intelligence sur le texte, à traiter dans la langue étrangère choisie ;
+Les candidats sont en maillot de bain. Les seuls équipements autorisés sont : bonnet de bain, lunettes de natation, pince-nez et bouchons d'oreille. Les concurrents sont répartis par groupes d'importance numérique aussi semblables que possible.
 
-― un thème.
+II. - Epreuve de course de demi-fond
 
-Les langues étrangères proposées au choix des candidats sont : l'anglais, l'allemand, l'italien, l'espagnol, le russe et l'arabe moderne.
+Il s'agit d'une course de 3 000 mètres, effectuée sur une piste d'athlétisme, avec départ en ligne. Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées. Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblables que possible et d'effectif inférieur ou égal à 25.
 
-3. Epreuve à option au choix des candidats (durée : quatre heures ; coefficient 30).
+III. - Epreuve d'abdominaux et de tractions ou d'appuis faciaux
 
-3.1. Droit.
+La note sur 20 à l'épreuve est attribuée par l'addition des deux notes sur 10 obtenues au test d'abdominaux et au test de tractions ou d'appuis faciaux.
 
-L'épreuve de droit consiste en une composition portant sur le programme suivant :
+1° Abdominaux
 
-a) Droit constitutionnel et institutions politiques :
+Le candidat est allongé sur le dos, genoux et hanches fléchis à 90°. Les pieds, en appui contre un mur ou sur une chaise, sont tenus par un moniteur d'entraînement physique et sportif ou bloqués contre un espalier.
 
-― notions générales sur les institutions politiques et les libertés publiques ;
+Les épaules doivent être décollées du sol, les coudes fléchis, les mains sur la face avant des épaules, les bras en contact avec la poitrine et le menton placé contre le sternum.
 
-― les institutions politiques françaises actuelles.
+Au signal, le candidat réalise une flexion du tronc jusqu'au contact des coudes avec les cuisses puis retour à la position de départ, les épaules et la tête ne devant à aucun moment toucher le sol.
 
-b) Droit administratif et institutions administratives :
+La position des mains, des coudes et des bras doit rester inchangée tout au long du test (contact permanent des bras avec la poitrine et de la région lombaire avec le sol).
 
-― l'organisation administrative ;
+Ce test doit être exécuté sans interruption équivalant à un temps de repos.
 
-― la justice administrative ;
+2° Tractions ou appuis faciaux
 
-― actes et contrats administratifs ;
+a) Tractions.
 
-― la fonction publique.
+Il s'agit d'exercer des flexions simultanées des bras en pronation jusqu'à ce que le menton soit au-dessus de la barre, puis de descendre jusqu'à la position bras tendus (coudes déverrouillés). La position des pouces sur la barre est laissée à l'appréciation du candidat. La distance entre les mains correspond à la largeur des épaules du candidat. Un maximum de tractions doit être exécuté sans limite de temps.
 
-c) Finances publiques :
+b) Appuis faciaux.
 
-― l'administration des finances ;
+En appui facial, corps tendu, il s'agit de fléchir les bras de telle sorte que la poitrine touche une cale (de 10 centimètres de haut pour les hommes et de 20 centimètres de haut pour les femmes) et de revenir à la position en appui, membres complètement tendus, cela sans interruption.
 
-― le budget de l'Etat (les principes économiques du budget de l'Etat, l'exécution du budget, le contrôle de l'exécution du budget, le Trésor public).
+Seuls les mouvements exécutés correctement (corps rectiligne) sont comptés.
 
-d) Droit européen et de l'Union européenne :
+IV. - Barème des épreuves sportives
 
-― institutions de l'Union européenne et des communautés ;
+NOTES |
 
-― actes communautaires : primauté et applicabilité directe ;
+HOMMES |
 
-― convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales.
+FEMMES |
 
-e) Droit privé :
+|
 
-― les personnes physiques (le nom, le domicile, les actes d'état civil) ;
+Tractions
 
-― l'ordre judiciaire ;
+|
 
-― les personnes morales ;
+Abdominaux
 
-― la propriété, la possession ;
+|
 
-― les obligations (théorie générale, les contrats et les sources extracontractuelles d'obligation).
+Appuis faciaux
 
-3.2. Mathématiques.
+|
 
-L'épreuve de mathématiques consiste en une résolution d'un ou plusieurs problèmes comportant un calcul numérique et portant sur le programme suivant :
+Course
 
-― vocabulaire des ensembles : relations, groupe monogène, anneau Z/nZ n entiers naturels ;
+3 000 m
 
-― nombres réels, nombres complexes : intervalles, parties bornées de R, argument, transformation z a z + b, suites et séries, critères de convergence ;
+|
 
-― algèbre linéaire : espaces vectoriels, matrices, déterminants, réductions des endomorphismes, produit scalaire, résolution de systèmes linéaires, étude de la dimension 3 ;
+Natation
 
-― polynômes et fractions rationnelles sur R ou C : décomposition, division euclidienne (algorithmes), résolution d'équations ;
+50 m
 
-― fonction de la variable réelle : fonctions usuelles, dérivation, étude locale, calcul de primitives, intégrales généralisées, formule de Taylor ;
+|
 
-― calcul différentiel : différentielles, dérivées partielles, recherche d'extréma, résolution d'équations différentielles ;
+Tractions
 
-― séries statistiques : méthode des moindres carrés, corrélation, séries chronologiques.
+|
 
-Pour cette épreuve, l'usage de calculatrices programmables, alphanumériques ou à écran graphique est autorisé à condition que leur fonctionnement soit autonome et qu'il ne soit pas fait usage d'imprimante. La consultation des notices de fonctionnement est interdite.
+Abdominaux
 
-3.3. Sciences économiques.
+|
 
-L'épreuve consiste en une composition théorique ou d'analyse économique portant sur le programme suivant :
+Appuis faciaux
 
-a) Principes généraux d'analyse macroéconomique :
+|
 
-― les grands courants de la pensée économique ;
+Course
 
-― les composantes de l'équilibre macroéconomique ;
+3 000 m
 
-― l'analyse monétaire ;
+|
 
-― l'équilibre macroéconomique général ;
+Natation
 
-― la répartition du revenu national : approches personnelle et fonctionnelle.
+50 m
 
-b) Principes généraux d'analyse microéconomique :
+|
 
-― le producteur ;
+20
 
-― le consommateur ;
+|
 
-― les marchés : de la concurrence au monopole ;
+/
 
-― l'équilibre général et l'optimum.
+|
 
-c) Finances publiques :
+/
 
-― les finances publiques : aspects politiques, économiques et sociaux ;
+|
 
-― le budget de l'Etat (les aspects économiques, l'exécution du budget, le contrôle de l'exécution du budget, le Trésor public).
+/
 
-d) Comptabilité privée :
+|
 
-― les comptes, définition, fonctionnement ;
+10' 29"
 
-― relation des comptes entre eux et classification dans le plan comptable général ;
+|
 
-― le bilan ;
+29" 6
 
-― provisions, amortissements, stocks ;
+|
 
-― les instruments comptables et l'inflation.
+/
 
-II. ― Epreuves d'admission
+|
 
-1. Epreuve d'aptitude générale (coefficient 30)
+/
 
-Cette épreuve vise à mettre en valeur l'aptitude du candidat à l'état d'officier du corps technique et administratif de la gendarmerie nationale au regard de sa personnalité et de sa motivation, ainsi que de sa culture générale, ses facultés d'expression et de raisonnement, sa vivacité d'esprit et son équilibre émotionnel.
+|
 
-Elle comporte :
+/
 
-― un entretien individuel réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
+|
 
-― un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat. Le candidat tire au sort deux sujets sur des thèmes généraux se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde contemporain, dont l'un se rapporte à la sécurité intérieure ou à la défense. Il traite au choix l'un d'entre eux : il bénéficie d'un temps de préparation de vingt minutes. L'entretien débute par un exposé de dix minutes sur le sujet choisi. L'épreuve se poursuit sous la forme d'un dialogue de vingt minutes avec le jury.
+12' 58"
 
-2. Epreuves sportives (la moyenne des notes est affectée du coefficient 10)
+|
 
-Ces épreuves sont définies à l'annexe III du présent arrêté.
+36" 2
+
+|
+
+19
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+10' 41"
+
+|
+
+30" 2
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+13' 16"
+
+|
+
+37" 2
+
+|
+
+18
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+10' 53"
+
+|
+
+30" 8
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+13' 37"
+
+|
+
+38" 4
+
+|
+
+17
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+11' 06"
+
+|
+
+31" 6
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+13' 59"
+
+|
+
+39" 7
+
+|
+
+16
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+11' 21"
+
+|
+
+32" 3
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+14' 23"
+
+|
+
+41" 1
+
+|
+
+15
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+11' 36"
+
+|
+
+33" 1
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+14' 49"
+
+|
+
+42" 7
+
+|
+
+14
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+11' 53"
+
+|
+
+35" 1
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+15' 17"
+
+|
+
+44" 5
+
+|
+
+13
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+12' 10"
+
+|
+
+36" 5
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+15' 48"
+
+|
+
+46" 5
+
+|
+
+12
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+12' 29"
+
+|
+
+38" 0
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+16' 21"
+
+|
+
+48" 8
+
+|
+
+11
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+12' 50"
+
+|
+
+39" 7
+
+|
+
+/
+
+|
+
+/
+
+|
+
+/
+
+|
+
+16' 58"
+
+|
+
+51" 3
+
+|
+
+10
+
+|
+
+12
+
+|
+
+55
+
+|
+
+60
+
+|
+
+13' 12"
+
+|
+
+41" 7
+
+|
+
+5
+
+|
+
+45
+
+|
+
+50
+
+|
+
+17' 37"
+
+|
+
+54" 1
+
+|
+
+9
+
+|
+
+10
+
+|
+
+50
+
+|
+
+56
+
+|
+
+13' 36"
+
+|
+
+43" 9
+
+|
+
+|
+
+40
+
+|
+
+46
+
+|
+
+18' 19"
+
+|
+
+57" 2
+
+|
+
+8
+
+|
+
+9
+
+|
+
+45
+
+|
+
+52
+
+|
+
+14' 02"
+
+|
+
+46" 4
+
+|
+
+4
+
+|
+
+35
+
+|
+
+42
+
+|
+
+19' 06"
+
+|
+
+1' 00" 8
+
+|
+
+7
+
+|
+
+8
+
+|
+
+40
+
+|
+
+48
+
+|
+
+14' 29"
+
+|
+
+49" 1
+
+|
+
+|
+
+30
+
+|
+
+38
+
+|
+
+19' 56"
+
+|
+
+1' 04" 7
+
+|
+
+6
+
+|
+
+7
+
+|
+
+35
+
+|
+
+44
+
+|
+
+14' 59"
+
+|
+
+52" 3
+
+|
+
+3
+
+|
+
+25
+
+|
+
+34
+
+|
+
+20' 51"
+
+|
+
+1' 09" 1
+
+|
+
+5
+
+|
+
+6
+
+|
+
+30
+
+|
+
+40
+
+|
+
+15' 30"
+
+|
+
+56" 0
+
+|
+
+|
+
+20
+
+|
+
+30
+
+|
+
+21' 40"
+
+|
+
+1' 14" 0
+
+|
+
+4
+
+|
+
+5
+
+|
+
+27
+
+|
+
+32
+
+|
+
+16' 05"
+
+|
+
+59" 8
+
+|
+
+2
+
+|
+
+17
+
+|
+
+24
+
+|
+
+22' 54"
+
+|
+
+1' 19" 6
+
+|
+
+3
+
+|
+
+4
+
+|
+
+24
+
+|
+
+24
+
+|
+
+16' 42"
+
+|
+
+1' 04" 2
+
+|
+
+|
+
+15
+
+|
+
+18
+
+|
+
+24' 04"
+
+|
+
+1' 25" 8
+
+|
+
+2
+
+|
+
+3
+
+|
+
+21
+
+|
+
+16
+
+|
+
+17' 22"
+
+|
+
+1' 09" 3
+
+|
+
+1
+
+|
+
+12
+
+|
+
+12
+
+|
+
+25' 19"
+
+|
+
+1' 32" 7
+
+|
+
+1
+
+|
+
+2
+
+|
+
+18
+
+|
+
+10
+
+|
+
+18' 05"
+
+|
+
+1' 14" 9
+
+|
+
+|
+
+9
+
+|
+
+7
+
+|
+
+26' 42"
+
+|
+
+1' 40" 5
+
+|
+
+Nota. - En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro.
+
+|

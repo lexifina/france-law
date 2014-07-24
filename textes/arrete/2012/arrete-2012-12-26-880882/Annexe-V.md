@@ -1,123 +1,507 @@
 # Article Annexe V
 
-Les épreuves du concours ouvert au titre de l'année 2013 aux militaires non-officiers et aux fonctionnaires de catégorie B (2° de l'article 5 du décret susvisé).
+ÉPREUVE SPORTIVE DES CONCOURS PRÉVUS À L'ARTICLE 7 DU DÉCRET SUSVISÉ
 
-I. ― Epreuves d'admissibilité
+Il s'agit d'une course de 3 000 mètres, effectuée sur une piste, avec départ en ligne. Les candidats sont en tenue de sport et les chaussures à pointes sont autorisées. Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblables que possible et d'effectif inférieur ou égal à 25.
 
-1. Epreuve de culture générale (durée : quatre heures ; coefficient 20).
+Barème de l'épreuve sportive
 
-Cette épreuve est destinée à mettre en relief, outre les connaissances et les idées personnelles des candidats, leurs qualités générales de style, de clarté d'esprit, de jugement et de méthode.
+En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure.
 
-Elle consiste à rédiger, avec ou sans l'aide d'une documentation, un devoir sur une question d'intérêt général ou d'actualité.
+NOTES |
 
-Les sujets portent sur des idées ou des faits dont la connaissance est indispensable à la compréhension du monde contemporain.
+HOMMES |
 
-2. Epreuve de synthèse de dossier (durée : quatre heures ; coefficient 20).
+FEMMES |
 
-Cette épreuve vise à déterminer l'aptitude des candidats à faire ressortir les idées essentielles qui sont contenues dans un dossier comprenant entre dix et vingt pages sur un sujet d'ordre général ou professionnel et non pas à exprimer leurs idées personnelles sur le sujet. La synthèse, qui ne doit pas excéder trois pages, doit être construite selon le plan classique d'un exposé et être rédigée entièrement dans un style clair et concis. Seules les grandes parties peuvent éventuellement être précédées d'un titre.
+20
 
-3. Epreuve de droit public (durée : trois heures ; coefficient 10).
+|
 
-Cette épreuve consiste à rédiger, sans l'aide d'une documentation, un devoir portant sur l'une des questions figurant au programme ci-après :
+12' 30
 
-a) L'organisation constitutionnelle et administrative de la France :
+|
 
-― principes et rôle d'une constitution ;
+15' 30
 
-― la souveraineté nationale ;
+|
 
-― la Constitution du 4 octobre 1958 ;
+19,5
 
-― les rapports entre le Parlement et le Gouvernement ;
+|
 
-― décentralisation et déconcentration ;
+12' 35
 
-― l'administration de l'Etat ;
+|
 
-― les collectivités territoriales décentralisées ;
+15' 35
 
-― les différents types de services publics ;
+|
 
-― la responsabilité de l'administration et des fonctionnaires.
+19
 
-b) Les institutions communautaires :
+|
 
-― les institutions européennes : rôle, compétences, pouvoirs ;
+12' 43
 
-― les organes juridictionnels et de contrôle.
+|
 
-c) Les finances publiques :
+15' 43
 
-― notions sur le budget de l'Etat ;
+|
 
-― le principe de la séparation des ordonnateurs et des comptables ;
+18,5
 
-― notions sommaires de comptabilité publique.
+|
 
-II. ― Epreuves d'admission
+12' 51
 
-1. Epreuve d'aptitude générale (coefficient 25).
+|
 
-Cette épreuve vise à mettre en valeur l'aptitude du candidat à l'état d'officier du corps technique et administratif de la gendarmerie nationale au regard de sa personnalité et de sa motivation, ainsi que de sa culture générale, ses facultés d'expression et de raisonnement, sa vivacité d'esprit et son équilibre émotionnel.
+15' 51
 
-Elle comporte :
+|
 
-― un entretien individuel réalisé par un psychologue, destiné à éclairer le président du jury sur l'adaptabilité du candidat à l'emploi. Cet entretien ne nécessite aucune préparation particulière et comprend des tests écrits et un entretien oral ;
+18
 
-― un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat. Après tirage au sort du sujet de l'exposé initial, le candidat bénéficie d'un temps de préparation de vingt minutes. L'entretien débute par un exposé de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde contemporain. Il se poursuit sous la forme d'un dialogue de vingt minutes avec le jury.
+|
 
-2. Epreuve de connaissances professionnelles (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 15).
+13'
 
-Cette épreuve a pour objet de vérifier que le candidat a acquis une connaissance suffisante des textes relatifs aux domaines professionnels majeurs.
+|
 
-Elle consiste en une interrogation comprenant, d'une part, un exposé sur un sujet tiré au sort et, d'autre part, des questions subsidiaires. Après tirage au sort du sujet de l'exposé, le candidat dispose d'un temps de préparation de vingt minutes.
+16'
 
-Les candidats doivent être interrogés sur plusieurs sujets de manière à ce que leurs connaissances d'ensemble soient objectivement évaluées.
+|
 
-Une liste établie par instruction du directeur général de la gendarmerie nationale est diffusée et précise les textes professionnels à connaître ainsi que ceux relatifs à l'organisation générale de la défense.
+17,5
 
-L'exposé et les questions subsidiaires reposent sur le programme ci-après :
+|
 
-a) L'organisation générale de la défense en France :
+13' 10
 
-― le concept français de défense ;
+|
 
-― la politique de dissuasion nucléaire ;
+16' 10
 
-― les grands acteurs (gendarmerie nationale, armée de terre, armée de l'air, marine nationale) ;
+|
 
-― la gendarmerie nationale : son rôle dans la défense opérationnelle du territoire ;
+17
 
-― la défense économique ;
+|
 
-― la défense civile.
+13' 20
 
-b) La connaissance des textes statutaires et réglementaires :
+|
 
-― le statut général des militaires ;
+16' 20
 
-― les positions statutaires des militaires de carrière ;
+|
 
-― le statut particulier des officiers du corps technique et administratif de la gendarmerie nationale ;
+16,5
 
-― la discipline dans les armées.
+|
 
-c) L'organisation et les missions des administrations centrales de la France :
+13' 35
 
-― la présidence de la République et les services du Premier ministre ;
+|
 
-― les ministères ;
+16' 35
 
-― les organismes consultatifs.
+|
 
-3. Epreuve facultative de langue vivante étrangère (durée : cinquante minutes, dont vingt minutes de préparation ; seuls les points au-dessus de 10 sur 20 sont pris en compte, multipliés par 10 et ajoutés au total de points du candidat).
+16
 
-Cette épreuve consiste à traduire dans la langue choisie puis à commenter, en partie ou dans son intégralité, un texte portant sur un sujet d'actualité ou de société tiré de la presse quotidienne ou périodique, à l'exclusion de tout article faisant appel à un vocabulaire technique. Elle peut se poursuivre par un court entretien d'ordre général avec l'examinateur.
+|
 
-Le candidat opte pour l'une des langues suivantes : allemand, anglais, espagnol, italien.
+13' 50
 
-L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au sort du texte support de l'interrogation, le candidat dispose d'un temps de préparation de vingt minutes.
+|
 
-4. Epreuves sportives (la moyenne des notes est affectée du coefficient 10).
+16' 50
 
-Ces épreuves sont définies à l'annexe III du présent arrêté.
+|
+
+15,5
+
+|
+
+14' 05
+
+|
+
+17' 05
+
+|
+
+15
+
+|
+
+14' 20
+
+|
+
+17' 20
+
+|
+
+14,5
+
+|
+
+14' 35
+
+|
+
+17' 35
+
+|
+
+14
+
+|
+
+14' 50
+
+|
+
+17' 50
+
+|
+
+13,5
+
+|
+
+15' 05
+
+|
+
+18' 05
+
+|
+
+13
+
+|
+
+15' 20
+
+|
+
+18' 20
+
+|
+
+12,5
+
+|
+
+15' 35
+
+|
+
+18' 35
+
+|
+
+12
+
+|
+
+15' 50
+
+|
+
+18' 50
+
+|
+
+11,5
+
+|
+
+16' 05
+
+|
+
+19' 05
+
+|
+
+11
+
+|
+
+16' 20
+
+|
+
+19' 20
+
+|
+
+10,5
+
+|
+
+16' 35
+
+|
+
+19' 35
+
+|
+
+10
+
+|
+
+16' 50
+
+|
+
+19' 50
+
+|
+
+9,5
+
+|
+
+17' 05
+
+|
+
+20' 05
+
+|
+
+9
+
+|
+
+17' 20
+
+|
+
+20' 20
+
+|
+
+8,5
+
+|
+
+17' 40
+
+|
+
+20' 40
+
+|
+
+8
+
+|
+
+18' 00
+
+|
+
+21' 00
+
+|
+
+7,5
+
+|
+
+18' 20
+
+|
+
+21' 20
+
+|
+
+7
+
+|
+
+18' 40
+
+|
+
+21' 40
+
+|
+
+6,5
+
+|
+
+19' 00
+
+|
+
+22' 00
+
+|
+
+6
+
+|
+
+19' 20
+
+|
+
+22' 20
+
+|
+
+5,5
+
+|
+
+19' 40
+
+|
+
+22' 40
+
+|
+
+5
+
+|
+
+20' 00
+
+|
+
+23' 00
+
+|
+
+4,5
+
+|
+
+20' 20
+
+|
+
+23' 20
+
+|
+
+4
+
+|
+
+20' 40
+
+|
+
+23' 40
+
+|
+
+3,5
+
+|
+
+21' 00
+
+|
+
+24' 00
+
+|
+
+3
+
+|
+
+21' 20
+
+|
+
+24' 20
+
+|
+
+2,5
+
+|
+
+21' 40
+
+|
+
+24' 40
+
+|
+
+2
+
+|
+
+22' 00
+
+|
+
+25' 00
+
+|
+
+1,5
+
+|
+
+22' 20
+
+|
+
+25' 20
+
+|
+
+1
+
+|
+
+22' 40
+
+|
+
+25' 40
+
+|
+
+0,5
+
+|
+
+23' 00
+
+|
+
+26' 00
+
+|
+
+0
+
+|
+
+> 23' 00
+
+|
+
+> 26' 00
+
+|
