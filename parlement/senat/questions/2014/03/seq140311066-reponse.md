@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140311066
+
+- Question : [SEQ140311066](seq140311066.md) — Attribution d'étiquettes politiques aux listes de candidats aux élections municipales
+
+## Réponse
+
+*Intérieur, JO du 2014-07-24, page 1763*
+
+Le nuançage des candidats aux élections a pour objectif d'apporter à nos concitoyens un éclairage et une information lisible sur les résultats issus des urnes. Comme l'indique la Commission nationale de l'informatique et des libertés dans sa délibération n° 2013-406 du 19 décembre 2013 autorisant le ministère de l'intérieur à mettre en œuvre un dispositif composé de deux traitements automatisés de données à caractère personnel ayant pour finalités la gestion des candidatures ainsi que le suivi des mandats électoraux et des fonctions électives : « cette nuance (...) permet aux pouvoirs publics et aux citoyens de disposer de résultats électoraux faisant apparaître les tendances politiques locales et nationales et de suivre ces tendances dans le temps ». L'attribution se fait ainsi dans un cadre juridique très strict défini par la délibération précitée qui a complété le décret du 30 août 2001. La commission « considère que les données traitées sont adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées ». La nuance doit être distinguée de l'étiquette, qui résulte de la seule déclaration des candidats eux-mêmes, lesquels peuvent se déclarer « sans étiquette ». En outre, les candidats disposent d'un droit d'accès et de rectification de la nuance qui leur est attribuée. Enfin, si la grille des nuances utilisée par l'administration couvre l'ensemble des rattachements aux partis politiques nationaux, elle permet également de prendre en compte les candidats qui se déclarent « sans étiquette ». En effet, elle intègre une nuance « divers » qui a vocation à rassembler tous les candidats ayant un engagement apolitique ou d'intérêt local.
