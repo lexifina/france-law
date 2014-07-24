@@ -572,7 +572,7 @@ Les pilotes non titulaires de la qualification montagne devront se conformer aux
 
 Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
 
-Méribel |
+Méribel- Robert Merloz |
 
 Savoie |
 
