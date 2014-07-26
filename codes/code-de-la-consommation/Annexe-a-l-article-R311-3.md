@@ -58,6 +58,8 @@ Adresse internet (*)
 
 |
 
+.
+
 2. Description des principales caractéristiques du crédit
 
 Le type de crédit
@@ -96,7 +98,7 @@ Vous devrez payer ce qui suit :
 
 [Le montant, le nombre et la fréquence des échéances que l'emprunteur doit verser]
 
-Les intérêts et/ ou les frais seront dus de la façon suivante :
+Les intérêts et/ou les frais seront dus de la façon suivante :
 
 |
 
@@ -114,7 +116,7 @@ Le cas échéant
 
 Le crédit est consenti sous la forme d'un délai de paiement pour un bien ou un service ou il est lié à la fourniture de bien (s) ou de service (s) déterminé (s) :
 
-Nom du bien/ service
+Nom du bien/service
 
 Prix au comptant
 
@@ -166,7 +168,7 @@ Préciser la nature du taux : fixe ou variable (avec l'indice ou le taux de réf
 
 Préciser les périodes, conditions et procédures d'adaptation du taux débiteur ou de chaque taux s'il y a plusieurs taux débiteurs.
 
-Lorsque le taux est révisable, indiquer la période de validité du taux (ou : taux en vigueur au...) et la fréquence de modification du taux (ou l'information selon laquelle le taux sera/ peut être modifié en cours de contrat par décision du prêteur.]
+Lorsque le taux est révisable, indiquer la période de validité du taux (ou : taux en vigueur au..) et la fréquence de modification du taux (ou l'information selon laquelle le taux sera/peut être modifié en cours de contrat par décision du prêteur.]
 
 |
 
@@ -188,17 +190,17 @@ Est-il obligatoire pour l'obtention même du crédit ou conformément aux clause
 
 - un autre service accessoire ?
 
-Si les coûts de ces services ne sont pas connus du prêteur, ils ne sont pas inclus dans le TAEG
+Si les coûts de ces services ne sont pas connus du prêteur, ils ne sont pas inclus dans le TAEG.
 
-Lorsque l'assurance est proposée ou exigée par le prêteur, coût de cette assurance à l'aide d'un exemple chiffré exprimé en euros et par mois
+Lorsque l'assurance est proposée ou exigée par le prêteur, coût de cette assurance exprimé à l'aide d'un exemple chiffré en taux annuel effectif de l'assurance, en montant total dû en euro et par mois sur la base de la cotisation mensuelle la plus élevée.
 
 |
 
-Oui/ non ; [si oui, préciser le type d'assurance, et ajouter la mention suivante :
+Oui/non [si oui, préciser le type d'assurance, et ajouter la mention suivante :
 
 Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix.]
 
-Oui/ non ; [si oui, préciser le type de service accessoire]
+Oui/non [si oui, préciser le type de service accessoire].
 
 |
 
@@ -210,7 +212,7 @@ Montant des frais liés à l'exécution du contrat de crédit
 
 Le cas échéant
 
-Montant des frais de tenue d'un (ou de plusieurs compte (s) si ce (s) compte (s) est (sont) nécessaire (s) pour les opérations de mise à disposition des fonds ou les opérations de paiement des échéances du crédit
+Montant des frais de tenue d'un (ou de plusieurs compte(s) si ce(s) compte(s) est (sont) nécessaire(s) pour les opérations de mise à disposition des fonds ou les opérations de paiement des échéances du crédit
 
 |
 
@@ -254,7 +256,7 @@ Les impayés risquent d'avoir de graves conséquences pour vous et de vous empê
 
 |
 
-Vous devrez payer [... (taux d'intérêt applicable et, le cas échéant, frais d'inexécution)] en cas de défaillance.
+Vous devrez payer [.. (taux d'intérêt applicable et, le cas échéant, frais d'inexécution)] en cas de défaillance.
 
 |
 
@@ -266,15 +268,11 @@ Vous disposez d'un délai de quatorze jours calendaires pour revenir sur votre e
 
 |
 
-Oui
+Oui.
 
 (Le cas échéant)
 
-Lorsque le contrat de crédit est un crédit affecté :
-
-- la rétractation sur le contrat de crédit entre le premier et le septième jour met fin au contrat de vente principal ;
-
-- si vous vous rétractez entre le huitième et le quatorzième jour, vous devez payer le bien ou la prestation de services acquis.
+Lorsque le contrat de crédit est un crédit affecté, la rétractation sur le contrat de crédit entre le premier et le quatorzième jour met fin au contrat de vente ou de prestation de services.
 
 Lorsque, dans le cadre d'un crédit affecté, vous demandez la livraison immédiate du bien ou de la prestation de services, votre droit de rétractation sur le contrat de crédit prend fin le jour de la livraison du bien ou de l'exécution de la prestation de services (sans pouvoir être inférieur à trois jours, ni excéder quatorze jours). Son exercice ne met fin à votre contrat de vente principal que dans les trois premiers jours. Au-delà, vous êtes tenu d'acquérir le bien ou la prestation de services.
 
@@ -324,9 +322,7 @@ Ces informations sont valables du... au...
 
 |
 
-5. Le cas échéant, informations complémentaires en cas de vente à distance
-
-de services financiers au sens de l'article L. 121-20-8 du code de la consommation
+5. Le cas échéant, informations complémentaires en cas de vente à distance de services financiers au sens de l'article L. 121-26 du code de la consommation
 
 a) Informations relatives au prêteur
 
@@ -400,7 +396,7 @@ La législation sur laquelle le prêteur se fonde pour établir des relations av
 
 |
 
-Clause concernant la législation applicable au contrat de crédit et/ ou la juridiction compétente
+Clause concernant la législation applicable au contrat de crédit et/ou la juridiction compétente
 
 |
 
@@ -412,7 +408,7 @@ Régime linguistique
 
 |
 
-Les informations et les conditions contractuelles seront fournies en [langue]. Avec votre accord, nous comptons communiquer en [langue/ langues] pendant la durée du contrat de crédit.
+Les informations et les conditions contractuelles seront fournies en [langue]. Avec votre accord, nous comptons communiquer en [langue/langues] pendant la durée du contrat de crédit.
 
 |
 
@@ -437,3 +433,5 @@ Le cas échéant : lorsque cette mention est indiquée, le prêteur doit remplir
 [Indications entre crochets] : ces explications sont destinées au prêteur et doivent être remplacées par les informations correspondantes.
 
 |
+
+.
