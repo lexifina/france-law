@@ -373,3 +373,19 @@ Opérateur, volailles-manipulations et soins |
 18 mai 2019
 
 |
+
+Marc LE MÉZO, 5, rue du Genévrier, 84000 Avignon
+
+|
+
+Opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement
+
+|
+
+1er août 2014
+
+|
+
+31 juillet 2019
+
+|
