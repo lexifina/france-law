@@ -1,0 +1,9 @@
+# Réponse à la question n° 33434
+
+- Question : [33434](33434.md) — Question n° 33434 — réduction; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Depuis mai 2012, le Gouvernement a engagé une démarche résolue de rétablissement des comptes publics qui permettra le retour à l'équilibre structurel des finances publiques d'ici la fin de la législature. Afin de ne pas fragiliser la croissance, l'effort de rétablissement des comptes publics a principalement porté, en 2012 et en 2013, sur les recettes. A partir de 2014, il portera en revanche quasiment exclusivement sur des économies en dépenses. La loi de finances (LFI) pour 2014 prévoit ainsi un effort structurel des administrations publiques de 0,9 point de PIB, soit 18 Mds€, dont 15 Mds€ d'économies en dépenses, soit 80 % de l'effort. Les dépenses de l'État seront alors en baisse nette de 1,5 Md€, ce qui est sans précédent. Compte tenu de l'évolution tendancielle des dépenses de l'État, l'effort réel d'économie sur ses dépenses s'élève donc à 9 Mds€. Pour réaliser ces économies, le Gouvernement s'appuie sur les différents travaux de la Cour des comptes et des corps d'inspection, ainsi que sur une démarche concertée de modernisation de l'action publique (MAP). A ce titre, quarante-neuf évaluations de politiques publiques (EPP) ont d'ores-et-déjà été lancées, portant sur 20 % de la dépense publique totale, soit près de 200 Mds€, auxquels il faut ajouter près de 50 Mds€ de dépenses fiscales. La LFI 2014 propose ainsi, en cohérence avec les préconisations de la Cour des comptes, d'optimiser les dépenses d'intervention, le cas échéant en les recentrant sur les bénéficiaires et actions prioritaires. Au total, le Gouvernement a donc présenté au Parlement près de 2,6 Mds€ d'économies sur les dépenses d'investissements et les interventions de l'État, au sein du projet de loi de finances pour 2014.
