@@ -1,0 +1,9 @@
+# Réponse à la question n° 5803
+
+- Question : [5803](5803.md) — Question n° 5803 — charte des relations inter-entreprises; mise en oeuvre
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Le ministre de l'économie, du redressement productif et du numérique a souhaité non seulement prolonger la mission de médiation de la sous-traitance mais aussi son élargissement à l'ensemble des relations inter-entreprises ainsi qu'aux marchés publics, pour lesquels une médiation dédiée a été créée. Les principaux motifs de saisine de la médiation sont notamment le respect des délais de paiement, le désengagement brutal de la relation contractuelle, le détournement de la propriété intellectuelle et les conditions contractuelles imposées ou modifiées arbitrairement. C'est pourquoi l'effort de mobilisation des grandes entreprises autour des bonnes pratiques a été intensifié : 372 entreprises ont signé la charte des relations inter-entreprises, s'engageant à respecter de bonnes pratiques d'achat. Outre cet effort de diffusion des bonnes pratiques, la médiation joue un rôle décisif dans l'amélioration des relations entre donneurs d'ordre et sous-traitants. Les dix médiateurs nationaux et les trente médiateurs régionaux basés dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ont traité 850 dossiers sur la dernière année d'exercice, dont 41 % dans l'industrie. Enfin, les comités stratégiques de filières renforcés au sein du conseil national de l'industrie lancent également des actions de médiation au sein des filières et des initiatives partenariales dans les domaines clés pour la croissance des entreprises (innovation, financement, export). De premiers contrats-types ont été signés par certaines branches, notamment dans l'automobile : ils permettent d'apporter une réponse consensuelle sur les points de difficulté identifiés par la branche.
