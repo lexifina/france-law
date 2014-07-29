@@ -1,0 +1,9 @@
+# Réponse à la question n° 53648
+
+- Question : [53648](53648.md) — Question n° 53648 — étudiants étrangers; dispositif d'accueil
+
+## Réponse
+
+*JO du 2014-07-29*
+
+La mise en place d'une politique en faveur de l'accueil et du séjour des étudiants étrangers sur le territoire français constitue une des priorités du Gouvernement afin de renforcer l'attractivité de la France dans la compétition internationale. L'enjeu de la simplification des formalités administratives pour les étudiants a été abordé lors du débat sans vote relatif à l'immigration professionnelle et étudiante qui s'est tenu le 24 avril 2013 au Sénat et le 13 juin 2013 à l'Assemblée nationale, après une concertation préalable avec les partenaires sociaux qui s'est révélée riche et approfondie. D'ores et déjà, une circulaire adressée aux préfets le 10 juin 2013, complété le 30 juillet 2013 demande aux services préfectoraux de mettre en oeuvre systématiquement les dispositions prévoyant la délivrance d'un titre de séjour pluriannuel aux étudiants inscrits dans une formation en vue de l'obtention d'un diplôme au moins équivalent au master. Ces instructions ont été suivies d'effet, puisque le nombre de titres pluriannuels délivrés à des étudiants étrangers est passé de 2 828 en 2010 à 13 000 en 2013. Par ailleurs, il est envisagé dans le cadre d'un projet de loi visant à assurer la sécurisation des parcours d'intégration et à favoriser l'accueil des talents étrangers, de généraliser à l'ensemble des étudiants la délivrance d'un titre de séjour pluriannuel d'une durée correspondant à celle des études envisagées. Ce projet de loi sera présenté au Conseil des ministres à l'été. Enfin, une réflexion est engagée sur les conditions d'accueil des étudiants en préfecture, notamment sur la mise en place de plateformes uniques au sein des établissements d'enseignement supérieur permettant à l'étudiant d'y effectuer l'ensemble de ses démarches.
