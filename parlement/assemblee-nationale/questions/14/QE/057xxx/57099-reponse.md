@@ -1,0 +1,9 @@
+# Réponse à la question n° 57099
+
+- Question : [57099](57099.md) — Question n° 57099 — transports aériens; sécurité; actions de l'État
+
+## Réponse
+
+*JO du 2014-07-29*
+
+La couverture GPS (le global positioning system), étant mondiale, tous les aéronefs équipés de récepteurs GPS peuvent ainsi se localiser dans toutes les phases du vol au-dessus de la Guyane. La couverture radio, quant à elle, n'est totale qu'au-dessus de 300 mètres dans l'ouest guyanais. Pour cette raison, et compte tenu du fait que cette zone est classée « inhospitalière », à l'instar de certaines zones maritimes ou montagneuses de métropole, la quasi-totalité des vols sont effectués au-dessus de cette altitude pour rester en contact avec l'organisme de contrôle de Cayenne. Pour les phases de décollage et d'atterrissage des vols commerciaux, le personnel du Conseil général de la Guyane, exploitant des aérodromes, est positionné sur certaines plages horaires afin d'assurer un niveau adéquat de service de sauvetage et de lutte contre l'incendie des aéronefs. En dehors de ces plages, les usagers ne bénéficient pas de service particulier, comme sur la plupart des aérodromes non contrôlés de métropole. La clôture des plans de vols doit alors se faire avec les moyens disponibles (téléphone, téléphone satellitaire, radio HF). A défaut, une phase d'urgence est déclenchée automatiquement 30 minutes après l'heure estimée d'arrivée afin d'initier les recherches de l'appareil, à partir de la dernière position connue. Pour permettre la localisation rapide d'un appareil en cas d'accident, l'emport d'une radiobalise de détresse de nouvelle génération à déclenchement automatique en cas d'impact avec le sol a été rendu obligatoire depuis le 1er janvier 2009. Pour les aéronefs immatriculés depuis le 1er janvier 2012, les radiobalises de détresse doivent émettre la position GPS, ce qui permet une localisation précise quasi immédiate.
