@@ -1,0 +1,9 @@
+# Réponse à la question n° 42471
+
+- Question : [42471](42471.md) — Question n° 42471 — taxis; revendications
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Depuis le 1er janvier 2014, les taux de taxe sur la valeur ajoutée (TVA) sont modifiés comme suit : le taux normal est fixé à 20 % et le taux réduit de 7 % est porté à 10 %. Cette mesure, nécessaire pour redresser les finances publiques, est juste, car elle préserve le prix des biens de première nécessité. Dans ce cadre, les transports en taxi, y compris médicaux, sont soumis au taux de 10 % depuis le 1er janvier 2014 en application des dispositions du b quater de l'article 279 du code général des impôts (CGI). Le passage au taux de 5,5 % du transport en taxi impliquerait d'abaisser le taux de TVA de l'ensemble des autres prestations de transport pour assurer la conformité de la réforme au droit européen. Le coût budgétaire de cette réforme serait très élevé. En tout état de cause, une telle baisse de taux serait sans impact pour les personnes transportées en taxi lorsque cette prestation est prise en charge par l'assurance maladie. Par ailleurs, il est rappelé que les entreprises de taxis sont fondées à déduire la TVA afférente aux dépenses d'acquisition, de location, de réparation ou d'entretien des véhicules qu'elles utilisent pour transporter leurs clients, le dispositif d'exclusion du droit à déduction prévu par les dispositions du 6° du 2 du IV de l'article 206 de l'annexe II au CGI n'ayant pas vocation à s'appliquer à leur égard. En outre, la facturation du transport médical en taxi est établie, comme le tarif public, à partir du tarif préfectoral des taxis, lequel fait chaque année l'objet d'une revalorisation. Pour 2014, l'arrêté du 23 décembre 2013 a fixé à 3,9 % la majoration maximale du prix de la course de taxi contre 2,6 % pour 2013.
