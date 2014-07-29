@@ -1,0 +1,9 @@
+# Réponse à la question n° 50335
+
+- Question : [50335](50335.md) — Question n° 50335 — usurpations d'identité; lutte et prévention; statistiques
+
+## Réponse
+
+*JO du 2014-07-29*
+
+De 2009 à 2013, la lutte contre la fraude documentaire fait ressortir les statistiques qui suivent (1). S'agissant des titres de séjour d'étranger, le nombre de fraudes recensées est de 1141 en 2009, 1180 en 2010, 992 en 2011, 1264 en 2012 et 1087 en 2013. S'agissant des cartes nationales d'identité, le nombre de fraudes recensées est de 1144 en 2009, 697 en 2010, 804 en 2011, 1030 en 2012 et 861 en 2013. On notera que l'importante variation de cette statistique annuelle est causée par le nombre d'obtentions indues de CNI (obtenir un vrai titre à l'aide d'un dossier administratif falsifié) qui varie de 720 en 2009 à 344 en 2011. S'agissant des passeports, le nombre de fraudes recensées est de 1157 en 2009, 662 en 2010, 723 en 2011, 598 en 2012 et 663 en 2013. La même corrélation avec la variation des obtentions indues que celle établie pour les CNI doit être faite. S'agissant des permis de conduire, le nombre de fraudes recensées est de 279 en 2009, 160 en 2010, 128 en 2011, 212 en 2012 et 188 en 2013. S'agissant des actes de naissance, le nombre de fraudes détectées est de 1667 en 2009, 294 en 2010, 675 en 2011, 544 en 2012 et 1177 en 2013. Les infractions commises sont pour moitié des contrefaçons d'actes. A ces interceptions de titres fraudés, il faut ajouter les détections opérées par les préfectures, qui aboutissent au refus de délivrance de titres. Ici ce sont des tentatives d'obtention qui sont déjouées. En 2013 cela concerne 2156 demandes de titres de séjour d'étranger, 1458 demandes de CNI et 799 demandes de passeport. 1 Statistiques annuelles fournies par la Direction Centrale de la Police Aux Frontières.
