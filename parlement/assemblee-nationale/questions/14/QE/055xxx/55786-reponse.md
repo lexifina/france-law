@@ -1,0 +1,9 @@
+# Réponse à la question n° 55786
+
+- Question : [55786](55786.md) — Question n° 55786 — investissements étrangers; autorisation préalable
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Depuis 2005 et conformément aux traités européens et aux engagements internationaux de la France, les investissements étrangers dans certains secteurs doivent faire l'objet d'une autorisation préalable du ministre chargé de l'économie (article L. 151-3 du code monétaire et financier). La France dispose d'une procédure d'autorisation préalable pour les investissements étrangers touchant les secteurs de la défense nationale et de la sécurité afin de garantir l'ordre public, la sécurité publique et les intérêts de la défense nationale, en application du décret modifié n° 2005-1739 du 30 décembre 2005. Environ une quarantaine de demandes étaient traitées chaque année au titre de cette procédure. Le décret n° 2014-479 du 14 mai 2014 relatif aux investissements étrangers soumis à autorisation préalable actualise le champ des secteurs qui relèvent de la procédure d'autorisation préalable d'investissement pour prendre en compte les activités essentielles à la garantie des intérêts du pays en matière d'ordre public ou de sécurité publique ou de défense nationale dans six secteurs économiques : l'approvisionnement en énergie et en eau, les réseaux et services de transport et de communications électroniques, les établissements, installations et ouvrages d'importance vitale au sens du code de la défense, et le secteur de la santé. Il est difficile de dire le nombre d'opérations d'investissement qui rentreront dans le champ du décret, mais il est prévu au regard des statistiques sectorielles des investissements étrangers en France un doublement du nombre de demandes traitées chaque année au titre de la procédure d'investissement étranger en France.
