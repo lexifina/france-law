@@ -1,0 +1,9 @@
+# Réponse à la question n° 42041
+
+- Question : [42041](42041.md) — Question n° 42041 — représentants communaux; modalités
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Le processus d'achèvement de la carte intercommunale, intervenu en 2012 et 2013, a conduit les établissements publics de coopération intercommunale (EPCI) à fiscalité propre à un exercice étendu de leurs compétences, ce qui s'est traduit par l'introduction du suffrage universel direct des conseillers communautaires dans les communes de 1000 habitants et plus en application de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Selon l'article L. 273-11 du code électoral, tel qu'issu de la loi précitée, les conseillers communautaires des communes de 1000 habitants et plus sont élus au scrutin de liste à deux tours. Ces modalités d'élection permettent une représentation de l'opposition parmi les conseillers communautaires représentant la commune au sein de l'organe délibérant de l'EPCI à fiscalité propre auquel elle appartient. En revanche, pour les communes de moins de 1000 habitants, les conseillers communautaires sont désignés dans l'ordre du tableau, ce qui ne permet pas une représentation systématique de l'opposition. Le législateur n'a pas étendu, par ailleurs, l'élection au suffrage universel direct des représentants des communes dans les autres structures intercommunales notamment dans les syndicats intercommunaux. Les représentants des communes restent désignés par les conseils municipaux au scrutin secret et à la majorité absolue. Ces modalités n'excluent pas la désignation d'un membre de l'opposition, même si elles ne la garantissent pas. En tout état de cause, le Gouvernement n'envisage pas une modification de la désignation des représentants des communes au sein des syndicats de communes.
