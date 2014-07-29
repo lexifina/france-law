@@ -1,0 +1,9 @@
+# Réponse à la question n° 55430
+
+- Question : [55430](55430.md) — Question n° 55430 — délivrance; modalités; Français de l'étranger
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Les ressortissants français résidents, ou de passage, aux États-Unis, peuvent compter sur un réseau de dix consulats, et 55 consuls honoraires, permettant ainsi une large couverture du territoire. En ce qui concerne les passeports, l'ensemble des consulats généraux aux États-Unis, à l'exception de Boston et de la Nouvelle-Orléans, disposent d'une station de recueil des données biométriques ITINERA et peuvent donc, sur une base régulière et compte-tenu de leurs moyens humains et budgétaires, effectuer des tournées consulaires au sein de leur circonscription. Plusieurs centaines de demandes ont ainsi pu être recueillies. En outre, les Français des Etats-Unis ont la possibilité de récupérer leur passeport auprès des consuls honoraires évitant ainsi un déplacement au poste consulaire. En vertu de la réglementation en vigueur et en raison des contraintes propres liées à la biométrie (prise d'empreintes digitales), il n'est pas envisageable de mettre en place une procédure dématérialisée par courrier. En revanche, les procédures de délivrance et de renouvellement des cartes nationales d'identité sécurisées (CNIS) sont d'ores et déjà allégées au maximum dans la mesure où les consuls honoraires sont en mesure de recevoir les formulaires de demande ainsi que de réceptionner les CNIS pour remise aux usagers, qui n'ont ainsi pas à effectuer de déplacement au consulat. Par ailleurs, les passeports biométriques valables dix ans, peuvent être renouvelés auprès de toute mairie en France, ou tout poste diplomatique et consulaire français à l'étranger, disposant du matériel nécessaire, lors des déplacements professionnels ou privés de nos administrés.
