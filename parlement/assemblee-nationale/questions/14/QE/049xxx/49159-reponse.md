@@ -1,0 +1,9 @@
+# Réponse à la question n° 49159
+
+- Question : [49159](49159.md) — Question n° 49159 — dépenses d'investissement; routes forestières; champ d'application
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Le fonds de compensation pour la TVA (FCTVA) assure aux collectivités territoriales et à leurs groupements la compensation, à un taux forfaitaire, de la TVA qu'ils acquittent sur leurs dépenses d'investissement. Pour ouvrir droit au FCTVA, les opérations d'équipement réalisées doivent être intégrées dans le patrimoine de la collectivité et y demeurer de manière durable. Cette condition entraîne, sauf exceptions prévues par la loi, l'inéligibilité des dépenses réalisées pour le compte de tiers ou des travaux portant, notamment, sur les chemins d'exploitation appartenant à des particuliers ou à des associations de propriétaires fonciers. L'alinéa 4 de l'article L. 1615-2 du code général des collectivités territoriales a cependant introduit une dérogation au principe de propriété pour les dépenses effectuées par un bénéficiaire du FCTVA sur des biens ne lui appartenant pas. Deux conditions cumulatives doivent être réunies : les travaux doivent avoir un caractère d'urgence ou d'intérêt général et s'inscrire dans le cadre de la lutte contre les avalanches, glissements de terrains, inondations, incendies et les travaux de défense contre la mer, ou de prévention des incendies de forêts. Ainsi, seules les dépenses d'investissement relatives à la création de pistes de défense des forêts contre l'incendie pour l'accès des secours sont éligibles au fonds. Il n'est pas envisagé de modifier cette règle pour l'élargir à l'ensemble des routes forestières de montagne. Outre l'augmentation du périmètre des nombreuses dérogations actuelles en matière de patrimonialité, qui conduirait à dénaturer la dotation, l'élargissement proposé aurait un coût pour le budget de l'État incompatible avec l'objectif poursuivi par le Gouvernement de redressement des comptes publics.
