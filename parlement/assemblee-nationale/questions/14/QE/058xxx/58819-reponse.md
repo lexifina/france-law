@@ -1,0 +1,9 @@
+# Réponse à la question n° 58819
+
+- Question : [58819](58819.md) — Question n° 58819 — déplacement du ministre; bilan
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Le ministre des affaires étrangères et du développement international s'est rendu les 23 et 24 avril dernier avec son collègue allemand en Moldavie, puis en Géorgie. Le message conjoint franco-allemand de soutien à ces deux pays dans le contexte de la crise en Ukraine et à l'approche de la signature de leurs accords d'association avec l'UE a été très apprécié. Malgré les diverses pressions contraires dont ils font l'objet, ces deux pays sont déterminés à poursuivre leur processus de rapprochement avec l'UE. Il a été rappelé publiquement lors de cette visite que ce processus n'était pas orienté contre la Russie. La signature des accords d'association le 27 juin à Bruxelles est un succès majeur du Partenariat oriental qui doit contribuer à la stabilité et au développement des échanges sur notre continent. A Chisinau, les deux ministres ont été reçus par le Premier ministre de la République de Moldavie, et ont eu des entretiens avec des responsables politiques de la coalition gouvernementale et de l'opposition. Cette visite en Moldavie a été la première d'un ministre des Affaires étrangères français à Chisinau depuis l'indépendance. Il s'agissait également d'adresser un message de soutien au gouvernement moldave qui a initié un programme de réformes sans précédent pour moderniser le pays. Le ministre des affaires étrangères et du développement international a revu le Premier ministre Leanca lors de sa visite à Paris le 16 juin dernier, au cours de laquelle il a été reçu par le Président de la République et par le Premier ministre. La France se réjouit de l'intensification des relations politiques et économiques entre nos deux pays.
