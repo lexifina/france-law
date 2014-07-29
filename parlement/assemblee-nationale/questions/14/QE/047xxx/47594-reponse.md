@@ -1,0 +1,9 @@
+# Réponse à la question n° 47594
+
+- Question : [47594](47594.md) — Question n° 47594 — conditions d'attribution
+
+## Réponse
+
+*JO du 2014-07-29*
+
+L'article R. 441-1 du code de la construction et de l'habitation (CCH) exige le respect de plafonds de ressources pour pouvoir prétendre à l'attribution d'un logement social. Les conditions d'appréciation des ressources des demandeurs de logements sociaux et les éventuelles dérogations sont prévues par l'arrêté du 29 juillet 1987 relatif aux plafonds de ressources des bénéficiaires de la législation sur les habitations à loyer modéré et des nouvelles aides de l'État en secteur locatif. Cet arrêté dispose que les ressources des ménages sont en principe évaluées à partir de l'avis d'imposition N-2. Il existe toutefois une dérogation à cette condition lorsque le demandeur a subi une diminution de ses revenus d'au moins 10 %. Si le ménage requérant a subi une baisse de revenus d'au moins 10 % du fait du chômage et qu'il peut produire des documents attestant cette baisse, les ressources N-1 ou celles des derniers 12 mois pourront être prises en compte pour l'attribution du logement. Par ailleurs, la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (ALUR), a introduit plusieurs simplifications pour les demandeurs de logement social en cours de séparation. Ces personnes peuvent désormais justifier de l'engagement de la procédure de divorce par la transmission de la copie de l'acte de saisine du juge aux affaires familiales dans les conditions prévues au code civil. La loi prévoit également, à titre transitoire et pour une période de cinq ans, qu'elles pourront également justifier de l'engagement de la procédure de divorce par la fourniture d'une attestation d'un organisme de médiation familiale. Ces dispositions permettront ainsi aux services instructeurs d'individualiser leurs ressources dans l'appréciation des ressources prises en compte pour l'accès au logement social.
