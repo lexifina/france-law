@@ -1,0 +1,9 @@
+# Réponse à la question n° 43378
+
+- Question : [43378](43378.md) — Question n° 43378 — aménagement; mise en oeuvre
+
+## Réponse
+
+*JO du 2014-07-29*
+
+L'article 67 de la loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école de la République a institué le fonds d'amorçage pour la mise en oeuvre de la réforme des rythmes scolaires dans le 1er degré, conformément à l'engagement pris par le Président de la République lors du 95e congrès des maires de France le 20 novembre 2012. Cet engagement comportait également une modulation des aides de ce fonds en faveur des communes les plus en difficulté, prévue par cet article 67, puisqu'en sus de la part forfaitaire des aides, les communes bénéficiaires de la dotation de solidarité urbaine « cible », de la dotation de solidarité rurale « cible », les communes des départements d'outre-mer bénéficient d'une part majorée. Ainsi, pour les années scolaires 2013-2014 et 2014-2015, ces communes bénéficieront chaque année d'une aide de 90 € par élève éligible contre 50 € par élève pour les autres communes. Pour l'année scolaire 2014, ce devrait être près de 6 000 communes (un quart des communes disposant d'au moins une école publique) scolarisant 720 000 élèves qui devraient bénéficier de la part majorée. La reconduction intégrale des aides du fonds pour l'année scolaire 2014-2015, inscrite à l'article 125 de la loi de finances initiale pour 2014, a constitué une première réponse aux difficultés exprimées par les communes. Les possibilités d'adaptation des organisations du temps scolaire autorisées par le décret n° 2014-457 du 7 mai 2014 en sont une deuxième. Enfin, afin de garantir la pleine réussite de la réforme, le fonds d'amorçage sera prorogé pour l'année scolaire 2015-2016 pour répondre plus particulièrement aux besoins des communes les plus en difficulté.
