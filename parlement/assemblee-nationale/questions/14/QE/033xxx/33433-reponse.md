@@ -1,0 +1,9 @@
+# Réponse à la question n° 33433
+
+- Question : [33433](33433.md) — Question n° 33433 — réduction; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Depuis mai 2012, le Gouvernement a engagé une démarche résolue de rétablissement des comptes publics qui permettra le retour à l'équilibre structurel des finances publiques d'ici la fin de la législature. Afin de ne pas fragiliser la croissance, l'effort de rétablissement des comptes publics a principalement porté, en 2012 et en 2013, sur les recettes. Depuis 2014, il porte en revanche quasiment exclusivement sur des économies en dépenses. La loi de finances (LFI) pour 2014 prévoit ainsi un effort structurel des administrations publiques de 0,9 point de produit intérieur brut, soit 18 Mds€, dont 15 Mds€ d'économies en dépenses, soit 80 % de l'effort. Les dépenses de l'État seront alors en baisse nette de 1,5 Md€, ce qui est sans précédent. Compte tenu de l'évolution tendancielle des dépenses de l'État, l'effort réel d'économie sur ses dépenses s'élève donc à 9 Mds€. Pour réaliser ces économies, le Gouvernement s'appuie sur les différents travaux de la Cour des comptes et des corps d'inspection, ainsi que sur une démarche concertée de modernisation de l'action publique (MAP). A ce titre, quarante-neuf évaluations de politiques publiques (EPP) ont d'ores et déjà été lancées, portant sur 20 % de la dépense publique totale, soit près de 200 Mds€, auxquels il faut ajouter près de 50 Mds€ de dépenses fiscales. Concernant plus spécifiquement les aides au transport postal, la LFI pour 2014 prévoit une baisse de 100 M€, conséquence notamment du moratoire sur les tarifs postaux, tandis que les budgets alloués aux fédérations sportives sont également en baisse : - 6 % en 2013 et de l'ordre de - 3 % en 2014 ; celle-ci porte principalement sur les fédérations sportives les plus autonomes financièrement et en tenant compte de la proximité des grandes échéances internationales.
