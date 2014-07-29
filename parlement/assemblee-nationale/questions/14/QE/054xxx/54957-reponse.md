@@ -1,0 +1,9 @@
+# Réponse à la question n° 54957
+
+- Question : [54957](54957.md) — Question n° 54957 — formalités administratives; simplification; rapport; préconisations
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Le conseil de la simplification préconise dans son rapport du 14 avril 2014 une mesure n° 17 consistant à supprimer les commissions de conciliation en matière de baux commerciaux. Selon l'article L. 145-35 du code de commerce, les litiges relatifs aux loyers des baux commerciaux renouvelés sont soumis à une commission départementale de conciliation composée de représentants des bailleurs et de locataires en nombre égal et de personnes qualifiées. Cette commission a pour objet de concilier les parties et rend un avis. En cas d'échec de la conciliation, il est toujours possible à l'une ou l'autre des parties de saisir le tribunal. Sur un plan général, le Gouvernement souhaite encourager le recours à des instances de médiation ou de résolution amiable des litiges. Ces solutions permettent des gains en termes financiers et de délais pour les parties en cause et contribuent au désengorgement des tribunaux. C'est pourquoi il n'est pas envisagé de supprimer les commissions de conciliation des baux commerciaux. A cet égard, la loi n° 214-626 du 18 juin 2014 relative à l'artisanat, au commerce et aux très petites entreprises, publiée au Journal officiel de la République française du 19 juin 2014, clarifie le rôle de ces commissions en confirmant le caractère facultatif de leur saisine. Il est donc loisible à chacune des parties d'aller directement devant le tribunal si tel est son choix. De plus, les compétences de ces commissions sont étendues aux litiges relatifs aux loyers révisés, aux charges locatives et aux travaux. Le Gouvernement suivra avec attention l'impact de ces nouvelles attributions sur leur activité et s'attachera à optimiser leur efficacité.
