@@ -1,0 +1,9 @@
+# Réponse à la question n° 37375
+
+- Question : [37375](37375.md) — Question n° 37375 — tuyaux; perspectives
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Des entreprises du secteur de production de tuyaux, raccords et accessoires en fonte ductile se plaignent que des entreprises étrangères ne respecteraient pas ou pas entièrement les normes harmonisées applicables à ces produits, ce qui engendrerait une distorsion de concurrence vis-à-vis des autres intervenants sur ces marchés. Ces entreprises étrangères utiliseraient, en outre, des certificats de conformité de complaisance ou des certificats obtenus en soumettant aux organismes techniques des produits d'une qualité supérieure à ceux de leurs productions courantes. La réalisation de contrôle par sondage sur les chantiers est souvent préconisée afin de pallier les pratiques supposées. La réalisation de contrôles directement sur les chantiers destinés à vérifier la qualité des ouvrages et le respect des règles de construction relève des attributions des agents du ministère de l'écologie, du développement durable et de l'énergie. La compétence des agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) s'exerce auprès des entreprises productrices et distributrices lors des différentes phases de la commercialisation des produits de construction, au moyen d'enquêtes, de contrôles documentaires et le cas échéant, de prélèvements à des fins d'analyses. Les questions relatives aux faux certificats - qui concernent un nombre grandissant de produits de construction et dont sont saisis les services de la Commission européenne, ainsi que les groupements d'organismes d'évaluation technique - et à la conformité des produits aux normes en vigueur, entrent dans le champ de compétence de la DGCCRF et doivent lui être signalées chaque fois que cela s'avère nécessaire.
