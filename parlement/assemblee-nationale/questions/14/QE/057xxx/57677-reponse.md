@@ -1,0 +1,9 @@
+# Réponse à la question n° 57677
+
+- Question : [57677](57677.md) — Question n° 57677 — représentants des assurés; élection; modalités
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Conformément aux dispositions du code rural et de la pêche maritime, la mutualité sociale agricole (MSA) organise tous les cinq ans, des élections destinées à désigner les représentants, au sein des caisses de MSA, de l'ensemble des assurés du régime agricole de protection sociale, depuis l'échelon cantonal jusqu'à l'échelon national. Lors de sa réunion du 22 mars 2012, le conseil central d'administration de la MSA a adopté pour les prochaines élections des 25 000 délégués cantonaux devant se dérouler le 27 janvier 2015, le principe du vote électronique dans l'ensemble du réseau. Le décret n° 2014-578 du 4 juin 2014 a modifié les dispositions du code rural et de la pêche maritime afin d'introduire ce nouveau mode de scrutin. Pour la première fois, l'ensemble des électeurs aura la possibilité de voter par voie électronique, en plus du vote par correspondance sous pli fermé, qui était jusqu'à présent le seul mode de scrutin en vigueur. Le décret susmentionné prévoit, conformément aux recommandations de la commission nationale informatique et libertés, la transmission à tous les électeurs au plus tard quinze jours avant la date du scrutin, d'une notice explicative détaillant les opérations de vote et le fonctionnement général du système de vote par voie électronique. Cette notice doit permettre aux assurés d'effectuer un véritable choix entre les deux modes de scrutin. Par ailleurs, une commission nationale de contrôle sera constituée pour vérifier la régularité du vote sur l'ensemble des opérations de vote traitées, afin de garantir la sécurité, la confidentialité des données transmises et l'intégrité des suffrages exprimés.
