@@ -1,0 +1,9 @@
+# Réponse à la question n° 51029
+
+- Question : [51029](51029.md) — Question n° 51029 — OPECST; rapport; propositions
+
+## Réponse
+
+*JO du 2014-07-29*
+
+La directive 2006/66/CE relative aux piles et accumulateurs ainsi qu'aux déchets de piles et d'accumulateurs impose un recyclage d'au moins 50 % du poids moyen des déchets de piles et d'accumulateurs autres que les piles et accumulateurs de types plomb-acide et nickel-cadmium. Les batteries Lithium-ion de traction utilisées dans les véhicules électriques sont différentes des batteries portables de par leurs dimensions ou leur teneur en métaux, et nécessitent une filière de recyclage adaptée pour une bonne gestion des déchets issus de ces batteries en fin de vie. De telles filières de recyclage existent mais elles ne sont pas optimisées et se traduisent par des coûts de traitement élevés. Depuis le mois de février 2013, deux projets concernant le recyclage des batteries des véhicules électriques sont menés par Récupyl « R-B-LIVE » et par Euro Dieuze industrie « CYCLADE » et sont accompagnés par l'Agence de l'environnement et de la maîtrise de l'énergie dans le cadre du programme économie circulaire des investissements d'avenir. Ces deux projets ont pour objectifs d'optimiser les coûts de la filière de recyclage, de préserver les ressources à travers la récupération de matières premières stratégiques comme notamment le lithium, le cuivre, le nickel ou l'aluminium, de préserver l'environnement en limitant l'émission de polluants et de créer de nouveaux emplois sur le territoire national. Ces projets visent à créer une filière sécurisée et optimisée dédiée au recyclage et à la valorisation des matières des batteries des véhicules électriques en implantant notamment des sites industriels de traitement sur le territoire national.
