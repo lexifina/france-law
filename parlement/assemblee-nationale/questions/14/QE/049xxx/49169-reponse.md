@@ -1,0 +1,9 @@
+# Réponse à la question n° 49169
+
+- Question : [49169](49169.md) — Question n° 49169 — sacs plastiques recyclés; développement; taxation
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Les sacs plastiques à usage unique sont autant de matières premières et d'énergie consommés pour leur production et de risques d'abandons sauvages qui peuvent conduire à la pollution des sols et des océans. Sur les 10 dernières années, l'engagement de la grande distribution pris dans le cadre du plan national de prévention de 2004 a porté ses fruits : le nombre de sacs de caisse non réutilisables utilisés dans les grandes surfaces alimentaires a été divisé par 10 entre 2002 et 2009. Cependant, plus de 17 milliards de sacs plastiques sont encore consommés en France chaque année. Les sacs en plastiques de caisse à usage unique devaient être soumis à une taxe (TGAP), à compter de janvier 2014. Le décret d'application est toutefois toujours en discussion car cette taxe n'est pas satisfaisante en l'état du fait notamment des critères d'exemption prévus par la loi, qui entraînent de fortes difficultés de mise en oeuvre. D'autres solutions (comme par exemple de rendre les sacs payants, mesure couramment pratiquée dans la grande distribution alimentaire et qui a démontré son efficacité) pourraient utilement être mises en place en complément ou en substitution de cette TGAP pour faire changer les comportements et amener les consommateurs à employer des sacs réutilisables, ce qui doit constituer la priorité sur ce sujet, comme le demande le projet de directive européenne en cours de discussion, tout en permettant de relocaliser sur notre territoire une partie de la production des sacs consommés et de s'inscrire dans une logique de croissance verte et d'économie circulaire en promouvant notamment l'incorporation de matières recyclées.
