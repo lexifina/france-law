@@ -1,0 +1,9 @@
+# Réponse à la question n° 59596
+
+- Question : [59596](59596.md) — Question n° 59596 — transactions en dollars; poursuites judiciaires; attitude de la France
+
+## Réponse
+
+*JO du 2014-07-29*
+
+Le gouvernement français a appelé l'attention des autorités américaines, y compris au plus haut niveau de l'Etat, afin que cette question soit réglée de manière équitable avec les cas comparables et d'éviter des sanctions disproportionnées. Si le montant que la banque a accepté de payer atteint un niveau record, sa situation financière devrait lui permettre d'y faire face et d'absorber ce coût sans conséquences pour les clients. La banque conservera en outre sa licence bancaire aux Etats-Unis, ce qui était essentiel vis-à-vis de ses clients internationaux. La suspension des opérations de compensation directe en dollars sera cantonnée à une période de temps limitée à un an et à un périmètre restreint au négoce de matières premières (gaz, pétrole). La portée extraterritoriale très large que l'administration et les juridictions américaines donnent aujourd'hui à leurs sanctions pose par ailleurs une question de fond. Cette évolution souligne le fait que l'euro occupe aujourd'hui une place dans les échanges internationaux qui n'est pas en rapport avec le poids de l'économie européenne, et elle rend plus nécessaire un renforcement du rôle de l'euro au niveau international. Cela pose aussi un problème évident d'asymétrie par rapport aux régimes de sanctions européens dont la justification et la portée sont encadrées plus strictement par le juge européen. C'est l'ensemble de ce débat important que la France et l'Union européenne doivent avoir avec les Etats-Unis dans le cadre du partenariat étroit qui nous unit dans le maintien de la paix et de la sécurité internationale et la lutte contre le terrorisme et la prolifération d'armes de destruction massives.
