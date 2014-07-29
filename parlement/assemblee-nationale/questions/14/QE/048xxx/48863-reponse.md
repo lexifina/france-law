@@ -1,0 +1,9 @@
+# Réponse à la question n° 48863
+
+- Question : [48863](48863.md) — Question n° 48863 — réseau culturel; rapport parlementaire; recommandations
+
+## Réponse
+
+*JO du 2014-07-29*
+
+La formation des agents du réseau culturel français à l'étranger est une des priorités confiées à l'opérateur Institut français, qui propose tout au long de l'année des formations thématiques à Paris ou sur place, afin de professionnaliser le personnel et de mutualiser et homogénéiser les pratiques au sein du réseau. Cette politique de développement des ressources humaines s'inscrit dans une stratégie plus globale visant à renforcer la professionnalisation des agents du réseau culturel français à l'étranger. Dans ce cadre, l'Institut français a été chargé du conseil et de la formation professionnels, notamment des personnels du réseau culturel français à l'étranger dans sa double composante publique (Instituts français) et associative (Alliances françaises). En complément de cette offre, Campus France propose des formations ciblées aux agents du réseau culturel français à l'étranger ayant spécifiquement en charge la promotion des études en France et l'accompagnement des étudiants étrangers. Elles se déroulent à Paris, à l'étranger, en format national ou régional. Le ministère des affaires étrangères et du développement international a souhaité que la programmation annuelle de ces formations et réunions tienne compte des calendriers de formation de chaque institution. Par ailleurs, les collaborations se développent au niveau des actions de formation. Campus France intervient régulièrement lors des formations organisées par l'Institut français (stage des nouveaux partants) ou par le MAEDI (formation des conseillers de coopération et d'action culturelle) sur les thématiques qui relèvent de sa compétence. Enfin, s'agissant des possibilités de rapprochement des catalogues de formation avec Campus France, celles-ci sont actuellement à l'étude.
