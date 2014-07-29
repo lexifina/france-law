@@ -1,0 +1,9 @@
+# Réponse à la question n° 48281
+
+- Question : [48281](48281.md) — Question n° 48281 — paradis fiscaux; liste; inscription; radiation
+
+## Réponse
+
+*JO du 2014-07-29*
+
+La liste des Etats et territoires non coopératifs a été mise à jour en 2013 conformément aux dispositions de l'article 238-0 A du code général des impôts. Ainsi, par arrêté du 21 août 2013, Jersey, les Bermudes et les Iles vierges britanniques ont été ajoutées à cette liste à compter du 1er janvier précédent, au motif que la mise en oeuvre des conventions d'assistance administrative conclues par la France avec ces territoires n'avait pas permis d'obtenir les renseignements nécessaires à l'application de notre législation fiscale. Entre cette publication et la fin de l'année 2013, les Bermudes et Jersey ont tiré les conséquences de cette décision et ont accompli les efforts nécessaires afin d'apporter en nombre et en qualité des réponses concrètes aux demandes de renseignements adressées par la France. En outre, les discussions avec ces deux juridictions ont permis de trouver des solutions satisfaisantes concernant les modalités pratiques de coopération et l'interprétation juridique des accords d'échange de renseignement signés avec chacune d'entre elles. Par ailleurs, Jersey et les Bermudes ont mis en place dans leur législation interne de nouvelles procédures de nature à permettre de traiter plus rapidement les demandes des autorités françaises. Les Bermudes ont ainsi institué des règles encadrant la communication aux tiers d'éléments mentionnés dans la demande d'assistance administrative. Eu égard aux progrès réalisés, la décision de retirer Jersey et les Bermudes de la liste des Etats et territoires non coopératifs a été formalisée par l'arrêté du 17 janvier 2014. Bien entendu, la France reste vigilante quant au maintien des efforts accomplis.
