@@ -1,0 +1,9 @@
+# Réponse à la question n° 57046
+
+- Question : [57046](57046.md) — Question n° 57046 — terres agricoles; exonération; bénéficiaires
+
+## Réponse
+
+*JO du 2014-07-29*
+
+L'impôt foncier est à la charge exclusive du bailleur, en application de l'alinéa 1er de l'article L. 415-3 du code rural et de la pêche maritime. Toutefois, le preneur est tenu de rembourser au bailleur une fraction du montant des taxes sur les propriétés bâties et non bâties. Cette fraction peut être fixée par les parties, à défaut elle est de 20%. A partir de l'imposition 2006, le I de l'article 13 de la loi de finances pour 2006 n° 2005-1719 du 30 décembre 2005 a créé l'article 1394 B bis du code général des impôts permettant l'exonération de 20 % des parts communales et intercommunales de la taxe foncière pour les propriétés non bâties classées en catégories 1 à 6, 8 et 9. Comme le soulignait l'exposé des motifs de cet article, cette mesure « vise à alléger la fiscalité directe locale supportée par le secteur agricole, en instituant une exonération de 20 % de la taxe foncière sur les propriétés non bâties pour les terres agricoles et une diminution parallèle du montant des charges des fermiers ». Depuis 2006, le bailleur rétrocède au preneur l'exonération partielle de 20 % précitée, sous la forme d'une réduction de la fraction de la taxe mise à sa charge par le propriétaire ou d'une réduction du fermage. L'article L. 415-3 du code rural et de la pêche maritime, dans sa rédaction actuelle, fixe les modalités de la rétrocession selon que le pourcentage des taxes foncières mis à la charge du preneur est inférieur, supérieur ou égal à 20 %. L'objectif de ce dispositif étant exclusivement d'alléger la fiscalité supportée par les exploitants agricoles, et non pas celle supportée par les propriétaires bailleurs, il n'est pas envisagé de modifier les bénéficiaires de ce dispositif.
