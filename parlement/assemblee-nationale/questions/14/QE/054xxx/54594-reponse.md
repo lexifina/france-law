@@ -1,0 +1,9 @@
+# Réponse à la question n° 54594
+
+- Question : [54594](54594.md) — Question n° 54594 — études médicales; deuxième année; conditions d'accès
+
+## Réponse
+
+*JO du 2014-07-29*
+
+L'arrêté du 26 juillet 2010 modifié relatif aux modalités d'admission directe en deuxième année des études médicales, odontologiques, pharmaceutiques ou de sage-femme réserve la possibilité d'intégrer ces formations aux candidats répondant aux conditions de titres et diplômes listés en son article 2. L'objectif de ce texte, pris en application du II de l'article L 631-1 du code de l'éducation, est de permettre une diversification du profil des candidats admis à poursuivre des études dans ces quatre filières. L'arrêté prévoit cette possibilité de candidature en vue d'une admission directe en deuxième année, d'une part, pour les titulaires de diplômes de niveau master et, d'autre part, pour les étudiants engagés dans l'une des quatre formations de santé précitées et souhaitant se réorienter dans une filière différente de leur filière d'origine dès lors qu'ils peuvent justifier de la validation de trois années ou de 180 crédits européens dans leur formation initiale. Plutôt que d'ajouter les diplômes paramédicaux et notamment le diplôme d'Etat d'infirmier dans cette liste, le choix a été fait, en accord avec le ministère chargé de la santé, de prévoir à l'attention de leurs titulaires un autre dispositif. L'arrêté du 26 juillet 2010 relatif au nombre d'étudiants admis à la fin de la première année commune aux études de santé à poursuivre des études médicales, odontologiques, pharmaceutiques ou de sage-femme prévoit, en effet, la possibilité pour les titulaires de certains diplômes paramédicaux justifiant de deux années d'exercice, de bénéficier d'un numerus clausus complémentaire dans le cadre d'un dispositif spécifique mis en place afin de faciliter leur admission en 2e année dans l'une des filières de santé précitées.
