@@ -2,7 +2,7 @@
 
 Chefs des services des systèmes d'information et de communication accédant à l'échelon spécial
 
-Services de zone des systèmes d'information et de communication (SZSIC)
+Secrétariats généraux pour l'administration du ministère de l'intérieur (SGAMI)
 
 LOCALISATION
 
@@ -20,23 +20,15 @@ POINTS NBI
 
 |
 
-SZSIC de la zone de défense Nord.
+SGAMI de la zone de défense et de sécurité Nord.
 
 |
 
-Chef du SZSIC.
+Directeur des systèmes d'information et de communication.
 
 |
 
 60
-
-|
-
-|
-
-|
-
-|
 
 |
 

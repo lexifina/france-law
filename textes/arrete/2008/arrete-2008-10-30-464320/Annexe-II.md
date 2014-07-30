@@ -52,7 +52,7 @@ Chef du SDSIC
 
 |
 
-Services de zone des systèmes d'information et de communication (SZSIC)
+Secrétariats généraux pour l'administration du ministère de l'intérieur (SGAMI)
 
 LOCALISATION
 
@@ -70,11 +70,11 @@ POINTS NBI
 
 |
 
-SZSIC de la zone de défense Sud
+SGAMI de la zone de défense et de sécurité Sud
 
 |
 
-Adjoint au chef du SZSIC
+Adjoint au directeur des systèmes d'information et de communication.
 
 |
 
@@ -86,11 +86,11 @@ Adjoint au chef du SZSIC
 
 |
 
-SZSIC de la zone de défense Sud-Ouest
+SGAMI de la zone de défense et de sécurité Sud-Ouest
 
 |
 
-Adjoint au chef du SZSIC
+Adjoint au directeur des systèmes d'information et de communication.
 
 |
 
@@ -102,11 +102,11 @@ Adjoint au chef du SZSIC
 
 |
 
-SZSIC de la zone de défense Ouest
+SGAMI de la zone de défense et de sécurité Ouest
 
 |
 
-Adjoint au chef du SZSIC
+Adjoint au directeur des systèmes d'information et de communication.
 
 |
 
@@ -118,11 +118,11 @@ Adjoint au chef du SZSIC
 
 |
 
-SZSIC de la zone de défense Est
+SGAMI de la zone de défense et de sécurité Est
 
 |
 
-Adjoint au chef du SZSIC
+Adjoint au directeur des systèmes d'information et de communication.
 
 |
 
@@ -134,11 +134,11 @@ Adjoint au chef du SZSIC
 
 |
 
-SZSIC de la zone de défense Sud
+SGAMI de la zone de défense et de sécurité Sud
 
 |
 
-Adjoint au chef du SZSIC
+Adjoint au directeur des systèmes d'information et de communication.
 
 |
 
