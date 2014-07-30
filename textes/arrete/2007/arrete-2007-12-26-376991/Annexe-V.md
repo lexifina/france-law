@@ -56,18 +56,6 @@ Chargé de mission "développement territorial et ingénierie de projet".
 
 |
 
-Préfecture des Bouches-du-Rhône
-
-|
-
-Chargé de mission "grands projets".
-
-|
-
-30
-
-|
-
 Préfecture de la Savoie
 
 |
@@ -92,10 +80,14 @@ Chef du service de l'immigration et de l'intégration.
 
 |
 
-Préfecture d'Ille-et-Vilaine |
+Préfecture d'Ille-et-Vilaine
+
+|
 
 Chargé(e) de mission pour la performance régionale sur le périmètre des préfectures de la région Bretagne.
 
 |
 
-30 |
+30
+
+|

@@ -6,7 +6,9 @@ ET TAUX DE LA NOUVELLE BONIFIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 
 CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DANS LES SERVICES DE LA PRÉFECTURE
 
-de police et du secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris les fonctions suivantes |
+de police et du secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris les fonctions suivantes
+
+|
 
 Directions et services |
 
@@ -268,207 +270,7 @@ Chef de la mission rationalisation des missions support.
 
 50 |
 
-CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE DIRECTEUR,
-
-délégué régional ou de chargé de mission dans les secrétariats généraux d'administration de la police (SGAP) suivants
-
-|
-
-Localisation de l'emploi
-
-|
-
-Nombre d'emplois
-
-|
-
-Nombre de points NBI
-
-|
-
-13
-
-|
-
-SGAP de la zone de défense Sud
-
-|
-
-2
-
-|
-
-60
-
-|
-
-21
-
-|
-
-Délégation régionale de Dijon.
-
-|
-
-1
-
-|
-
-30
-
-|
-
-33
-
-|
-
-SGAP de la zone de défense Sud-Ouest
-
-|
-
-2
-
-|
-
-50
-
-|
-
-31
-
-|
-
-Délégation régionale de Toulouse.
-
-|
-
-1
-
-|
-
-50
-
-|
-
-35
-
-|
-
-SGAP de la zone de défense Ouest.
-
-|
-
-|
-
-|
-
-Directeur des ressources humaines.
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur des affaires financières.
-
-|
-
-1
-
-|
-
-50
-
-|
-
-57
-
-|
-
-SGAP de la zone de défense Est.
-
-|
-
-2
-
-|
-
-50
-
-|
-
-59
-
-|
-
-SGAP de la zone de défense Nord.
-
-|
-
-|
-
-|
-
-Directeur des ressources humaines.
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chargé de mission auprès du préfet délégué
-
-pour la sécurité et la défense.
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Directeur de l'administration générale
-
-et des finances.
-
-|
-
-1
-
-|
-
-60
-
-|
-
-69
-
-|
-
-SGAP de la zone de défense Sud-Est
-
-|
-
-2
-
-|
-
-60
-
-|
+.
 
 CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE CHEF DE SERVICE
 
@@ -616,6 +418,8 @@ Val-d'Oise.
 
 |
 
+.
+
 CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE SECRÉTAIRE GÉNÉRAL
 
 dans la structure de formation de police suivante
@@ -656,9 +460,7 @@ de Clermont-Ferrand.
 
 |
 
-Ecole nationale supérieure de la police.
-
-|
+Ecole nationale supérieure de la police. |
 
 1
 

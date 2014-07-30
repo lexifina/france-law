@@ -168,7 +168,7 @@ Nombre de points NBI
 
 |
 
-9
+10
 
 |
 
@@ -1112,11 +1112,23 @@ Nombre de points NBI
 
 |
 
-6
+5
 
 |
 
 60
+
+|
+
+78 Yvelines
+
+|
+
+1
+
+|
+
+30
 
 |
 

@@ -8,7 +8,9 @@ LOCALISATION DE L'EMPLOI |
 
 Conseillers d'administration de l'intérieur et de l'outre-mer exerçant dans les directions et services d'administration centrale du ministère de l'intérieur et du ministère des outre-mer et dans les établissements publics relevant de la tutelle administrative des mêmes ministres les fonctions suivantes |
 
-Directions et services |
+Directions et services
+
+|
 
 Fonctions |
 
@@ -230,6 +232,14 @@ Adjoint au chef du bureau des personnels techniques et spécialisés.
 
 |
 
+Adjoint au chef du bureau des affaires générales, des études et des statuts.
+
+|
+
+30
+
+|
+
 Chef de la mission projets professionnels.
 
 |
@@ -382,9 +392,7 @@ Chef du bureau des politiques sociales.
 
 |
 
-Délégation générale à l'outre-mer.
-
-|
+Direction générale des outre-mer. |
 
 Chef du bureau des ressources et de la coordination.
 
@@ -402,7 +410,7 @@ Chef de la mission contentieux, légistique et fonction publique.
 
 |
 
-Chef du département de la dépense de l'Etat.
+Chef du bureau de la dépense de l'Etat.
 
 |
 
@@ -459,6 +467,14 @@ Délégation à la sécurité et à la circulation routières.
 |
 
 Chef du bureau du permis de conduire.
+
+|
+
+30
+
+|
+
+Chef du bureau des usagers de la route et de la réglementation des véhicules.
 
 |
 
