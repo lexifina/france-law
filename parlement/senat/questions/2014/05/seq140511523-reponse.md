@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511523
+
+- Question : [SEQ140511523](seq140511523.md) — Article 68 du projet de loi relatif à la biodiversité écartant du débat au Parlement les mesures d'applications en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-07-31, page 1822*
+
+Les travaux préalables à la rédaction de l'article 68 du projet de loi relative à la biodiversité, dont une partie est consacrée à la protection du milieu marin, ont montré la nécessite d'améliorer la lisibilité et d'actualiser les dispositions relatives aux zonages maritimes. Compte tenu d'un projet de loi déjà très riche et s'agissant d'éléments très techniques, il a été choisi de passer par une ordonnance pour ce faire. Ce passage par voie d'ordonnance n'exclut pas cependant le débat public. Bien évidemment cette ordonnance fera l'objet des consultations obligatoires requises et toute adaptation concernant les collectivités d'outre-mer fera l'objet d'une consultation de celles-ci. En amont, une concertation sur le projet de texte sera en outre organisée pour que les dispositions arrêtées correspondent à la réalité de vos territoires. L'ordonnance a pour objectif d'agréger des dispositions législatives éparses relatives aux espaces maritimes et de les compléter, le cas échéant, dans un souci de faciliter le partage de l'usage de ces espaces conformément aux orientations retenues par le comité interministériel de la mer. Ses dispositions auront trait notamment à la définition des espaces maritimes et à l'exercice de la souveraineté. Limitées aux seules compétences de l'État, elles ne pourront en tout état de cause pas porter atteinte aux compétences des collectivités. C'est d'ailleurs pour cette raison que le 5° de l'article 68 de ce projet de loi prévoit la possibilité d'adapter ces dispositions pour leur application outre-mer.
