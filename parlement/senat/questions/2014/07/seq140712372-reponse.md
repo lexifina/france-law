@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140712372
+
+- Question : [SEQ140712372](seq140712372.md) — Relation entre la France et le Maroc
+
+## Réponse
+
+*Affaires étrangères, JO du 2014-07-31, page 1813*
+
+Depuis quelques temps, les relations franco-marocaines connaissent certaines difficultés dues à la conjonction de plusieurs incidents isolés, mais regrettables. Les autorités françaises ont immédiatement mis en lumière les circonstances à l'origine de ces incidents et proposé des arrangements concrets pour prévenir leur répétition, dans le respect des systèmes juridiques français et marocain. Le Gouvernement français est pleinement mobilisé et poursuit un dialogue étroit avec le Gouvernement marocain afin de surmonter au plus vite les tensions actuelles. L'objectif est une reprise du cours normal de la coopération bilatérale, dans le climat de confiance et de respect mutuel qui fonde l'amitié franco-marocaine. Le Maroc a été, est et restera un partenaire essentiel pour la France. Les autorités françaises attachent une grande valeur à la relation d'amitié historique qui existe entre les deux pays. Cette relation comporte des enjeux humains, économiques et sécuritaires d'envergure. S'agissant de l'incident au Val-de-Grâce, le ministre des affaires étrangères et du développement international a écrit à son homologue marocain pour lui exprimer les regrets des autorités françaises. Il est totalement anormal qu'une haute personnalité étrangère venant en France pour des traitements médicaux ne soit pas traitée avec tous les égards dus à son rang. Une enquête a immédiatement été lancée et les mesures de protection qui s'imposaient ont été prises. Le président de la République a dépêché son chef d'état-major particulier auprès de l'hôte marocain afin de l'assurer de la solidarité de la France. Le ministère de la défense a signalé les faits au parquet, la famille a porté plainte et la justice est saisie.
