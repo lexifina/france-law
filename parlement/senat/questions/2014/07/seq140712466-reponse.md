@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140712466
+
+- Question : [SEQ140712466](seq140712466.md) — Adjudication de la chasse
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-07-31, page 1824*
+
+L'article L. 429-2 du code de l'environnement dispose que, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, le droit de chasse est administré par la commune, au nom et pour le compte des propriétaires. L'article L. 429-7 du même code dispose que la chasse sur le ban communal est louée par adjudication publique et que la location a lieu conformément aux conditions d'un règlement, dénommé cahier des charges type, arrêté par le préfet après consultation, entre autres, des organisations représentatives des communes. Il est précisé par exemple dans le cahier des charges type des chasses communales de Moselle actuellement en vigueur, annexé à un arrêté du préfet de ce département en date du 30 août 2005, que les droits de timbres et d'enregistrement, de criée et autres seront payés comptant par le locataire et que les frais de publication, résultant de la publicité par affiches dans les communes avoisinantes et de l'insertion de communiqués dans les journaux locaux, seront partagés par moitié entre la commune et le locataire. Par contre, les frais éventuels liés à l'organisation de la consultation des propriétaires sur la destination du produit de la location de la chasse sont à la charge de la commune. Il ne paraît pas opportun que ces frais soient supportés même partiellement par les propriétaires fonciers, dès lors que le législateur a souhaité confier à la commune un mandat pour administrer le droit de chasse (Cass. civ. 24 mars 2004, n° 02-18.826, cne de Schiltigheim et a. ; Cass. civ. 19 mars 1997, n° 95-10.163, cne de Michelbach-le-Bas), sauf à remettre en cause le principe même de ce mandat.
