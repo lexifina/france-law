@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511457
+
+- Question : [SEQ140511457](seq140511457.md) — Assiette de la contribution sur les frais de scolarité
+
+## Réponse
+
+*Affaires étrangères, JO du 2014-07-31, page 1812*
+
+La participation financière complémentaire (PFC), participation forfaitaire aux frais de fonctionnement du réseau de l'AEFE, s'élève à 6 % des droits de scolarité pour les 156 établissements d'enseignement français à l'étranger conventionnés avec l'Agence. Le calcul de la PFC se fait sur la base du nombre d'élèves déclarés par l'établissement dans l'enquête de rentrée en septembre, quels que soient leurs statuts (élèves boursiers ou non boursiers). Pour la PFC, il n'y a pas de distinction entre les frais de scolarité payés par les parents et ceux pris en charge par les bourses scolaires. Les frais de fonctionnement du réseau sont les mêmes pour un élève boursier ou non boursier. Comptablement, l'aide à la scolarité du programme 151 est une recette de l'établissement scolaire distincte des droits de scolarité versés par les familles. La facture de la PFC est, quant à elle, une charge inscrite au budget de l'établissement, tout comme l'aide à la scolarité qui est inscrite en charge pour un montant identique aux recettes. Par ailleurs, le mécanisme des caisses de solidarité (fonds de compensation et solidarité), qui concerne très peu d'établissements, repose sur des versements volontaires, puisque facultatifs, des familles, d'associations de parents d'élèves ou de sociétés. Cette contribution est redistribuée pour aider ponctuellement les familles à payer tout ou partie d'une sortie ou d'un voyage scolaire, la cantine et plus rarement les droits de scolarité. Il convient de préciser qu'un abattement de 6 % est fait sur la base de calcul de la PFC afin de tenir compte de remises, d'abattements et d'exonérations consentis ou non par l'établissement.
