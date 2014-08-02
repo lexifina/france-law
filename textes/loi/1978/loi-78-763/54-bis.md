@@ -1,5 +1,5 @@
 # Article 54 bis
 
-Les sociétés coopératives ouvrières de production et leurs unions font procéder périodiquement à l'examen analytique de leur situation financière et de leur gestion.
+Les sociétés coopératives de production sont soumises aux articles 25-1 à 25-5 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, dans des conditions fixées par un décret en Conseil d'Etat tenant compte des dérogations et adaptations nécessaires.
 
-Un décret en Conseil d'Etat, pris après avis du conseil supérieur de la coopération, détermine les modalités de mise en oeuvre de la procédure, dite de révision coopérative, définie à l' alinéa précédent, ainsi que les conditions d'agrément garantissant le pluralisme de son exercice et le respect des principes coopératifs.
+Les statuts des sociétés coopératives de production peuvent prévoir que le réviseur mentionné à l'article 25-2 de la même loi procède également à l'examen analytique de la situation financière, de la gestion et des compétences collectives de la société.
