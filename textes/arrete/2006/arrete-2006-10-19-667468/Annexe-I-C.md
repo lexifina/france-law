@@ -1424,13 +1424,13 @@ Enzymes.
 
 |
 
-Brasserie.
-
-Industrie de l'alcool.
+Brasserie. Industrie de l'alcool.
 
 Amidonnerie, production de sirop de glucose.
 
 Panification (à l'exception du pain de tradition française) et panification spéciale.
+
+Biscuiterie, pâtisserie, biscotterie et viennoiserie.
 
 |
 
@@ -1438,7 +1438,7 @@ Hydrolyse de la cellulose
 
 |
 
-Teneur techniquement inévitable.
+Teneur résiduelle techniquement inévitable.
 
 |
 
@@ -2858,6 +2858,16 @@ Hydrolyse des lysophospholipides. |
 
 Dose techniquement inévitable. |
 
+Lysophospholipase issue d'une souche génétiquement modifiée de Trichoderma reesei (RF 7206) porteuse du gène codant une lysophospholipase d'Aspergillus nishimurae. |
+
+Enzymes. |
+
+Production de sirop de glucose |
+
+Hydrolyse des lysophospholipides. |
+
+Teneur résiduelle techniquement inévitable. |
+
 Papaïne de Carica papaya.
 
 |
@@ -3233,6 +3243,16 @@ Jaunes d'œufs destinés à la fabrication de sauces. |
 Hydrolyse de la fonction ester en position 2 des phospholipides pour le traitement des jaunes d'œufs destinés à la fabrication de mayonnaise et d'autres sauces émulsionnées. |
 
 Dose techniquement inévitable. |
+
+Phospholipase A2 d'une souche génétiquement modifiée d'Aspergillus niger PLA 54. |
+
+Enzymes. |
+
+Huiles végétales. |
+
+Hydrolyse des phospholipides en vue de la démucilagination des huiles végétales. |
+
+Teneur résiduelle techniquement inévitable. |
 
 Phospholipase A2 de pancréas de porc.
 
@@ -4385,3 +4405,19 @@ Panification (à l'exception du pain de tradition française) et panification sp
 Hydrolyse des liaisons osidiques des hémicelluloses. |
 
 Teneur techniquement inévitable. |
+
+Xylanase issue d'une souche génétiquement modifiée de Trichoderma reesei (Brew2 # 21) porteuse d'un gène codant une xylanase d'Aspergillus niger. |
+
+Enzymes. |
+
+Brasserie.
+
+Industrie de l'alcool.
+
+Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie, biscotterie et viennoiserie.
+
+|
+
+Hydrolyse des liaisons osidiques des hémicelluloses. |
+
+Teneur résiduelle techniquement inévitable. |

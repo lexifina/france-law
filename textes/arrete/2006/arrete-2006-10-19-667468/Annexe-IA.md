@@ -822,7 +822,7 @@ Production de levures.
 
 |
 
-A la dose maximale de 500 mg/kg.
+A la dose maximale de 500 mg/ kg
 
 |
 
@@ -942,7 +942,7 @@ Beurre de cacao.
 
 |
 
-Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70° C.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
@@ -1002,7 +1002,7 @@ Produits à base de protéines dégraissées et de farines dégraissées.
 
 |
 
-Préparations de produits à base de protéines dégraissées et de farines dégraissées. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Préparations de produits à base de protéines dégraissées et de farines dégraissées.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
@@ -1296,7 +1296,7 @@ Décaféination ou suppression des matières irritantes et amères du café ou d
 
 |
 
-≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg/kg.
+≤ 20 mg/kg dans le café ou le thé. La teneur en n-hexane de ce solvant ne doit pas dépasser 50 mg / kg.
 
 |
 
@@ -1312,7 +1312,7 @@ Graisses et huiles alimentaires (sauf beurre).
 
 |
 
-Fractionnement de graisses et d'huiles.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
+Fractionnement de graisses et d'huiles. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite.
 
 |
 
@@ -1704,6 +1704,46 @@ Dose techniquement inévitable.
 
 |
 
+Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.
+
+|
+
+Agent de décontamination des produits d'origine végétale.
+
+|
+
+Epinards blanchis destinés à la congélation
+
+|
+
+A la dose maximale de 75 mg/l d'acide peracétique d'une solution en équilibre dans les eaux de refroidissement après blanchiment. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable.
+
+|
+
+Teneur résiduelle techniquement inévitable.
+
+|
+
+Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.
+
+|
+
+Divers.
+
+|
+
+Blé avant mouture pour la fabrication de farine destinée à des préparations crues réfrigérées ou congelées n'impliquant pas de cuisson ou une cuisson différée, à l'exclusion du pain de tradition française et du pain de consommation courante.
+
+|
+
+A la dose maximale de 3 l d'une solution à base de 15 % d'acide peracétique et de 23 % de peroxyde d'hydrogène par tonne de blé.
+
+|
+
+Teneur techniquement inévitable.
+
+|
+
 Sulfites.
 
 Anhydride sulfureux.
@@ -1765,25 +1805,5 @@ A la dose strictement nécessaire pour obtenir l'effet recherché.
 |
 
 Dose techniquement inévitable.
-
-|
-
-Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique.
-
-|
-
-Divers.
-
-|
-
-Blé avant mouture pour la fabrication de farine destinée à des préparations crues réfrigérées ou congelées n'impliquant pas de cuisson ou une cuisson différée, à l'exclusion du pain de tradition française et du pain de consommation courante.
-
-|
-
-A la dose maximale de 3 l d'une solution à base de 15 % d'acide peracétique et de 23 % de peroxyde d'hydrogène par tonne de blé.
-
-|
-
-Teneur techniquement inévitable.
 
 |
