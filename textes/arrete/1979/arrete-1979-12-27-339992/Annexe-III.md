@@ -1,22 +1,20 @@
 # Article Annexe III
 
-CARTE DE PILOTE HAUTURIER CERTIFIE
+Carte de pilote hauturier certifié
 
-(Format 9,7 cm x 6,9 cm.)
+(Format 9,7 cm × 6,9 cm)
 
-RECTO
+(Recto)
 
 RÉPUBLIQUE FRANÇAISE
 
-Secrétariat d'Etat auprès du ministre
+Ministère chargé de la mer
 
-des transports, chargé de la mer
+Certificat de pilote hauturier
 
-3, place de Fontenoy, 75007 Paris.
+Deep sea pilot certificate
 
-Certificat de pilote hauturier.
-
-Deep Sea Pilot Certificate N° ..........
+N°
 
 |
 
@@ -24,54 +22,52 @@ Photographie
 
 |
 
-Nom ...........................................................................
+Nom :
 
 Name
 
-|
-
-Nationalité .....................................................................
+Nationalité :
 
 Nationality
 
-|
-
-Date et lieu de naissance .........................................................................
+Date et lieu de naissance :
 
 Date and place of birth
 
-|
-
-Zone de compétence ............................................................................
+Zone de compétence :
 
 Qualification zone
 
 |
 
-VERSO
-
-Ce certificat de pilote hauturier est délivré par le ministre français chargé de la marine marchande en application du décret n° 79-354 du 2 mai 1979 et de l'arrêté du 27 décembre 1979.
-
-This deep sea pilot certificate is issued by the french Ministry in charge of merchant shipping in pursuance of the decree 79-354 of May 2d 1979 and the order of the December 27th 1979.
-
 |
 
-Fait le .................
+(Verso)
 
-Issued on.
+Ce certificat de pilote hauturier est délivré par le ministre français chargé de la mer en application du décret n° 79-354 du 2 mai 1979 et de l'arrêté du 27 décembre 1979.
+
+This deep sea pilot certificate is issued by the french Ministry in charge of the Sea in pursuance of the decree 79-354 of May 2nd 1979 and the order of December 27th 1979.
+
+Fait le
+
+Issued on
 
 |
 
 Signature du titulaire
 
-Holder's signature.
+Holder's signature
 
-Signature de l'autorité.
+|
 
-Signature of the Autority.
+Signature de l'autorité
 
-Cachet.
+Signature of the Authority
 
-Seal.
+|
+
+Cachet
+
+Seal
 
 |
