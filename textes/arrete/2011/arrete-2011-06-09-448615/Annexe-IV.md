@@ -1,36 +1,30 @@
 # Article Annexe IV
 
-Institut national de la statistique et des études économiques
+INSTITUT NATIONAL DE LA STATISTIQUE ET DES ÉTUDES ÉCONOMIQUES
 
-Instance
-
-|
-
-Autorité
-
-de rattachement
+INSTANCE
 
 |
 
-Périmètre
+AUTORITÉ
+
+de rattachement |
+
+PÉRIMÈTRE |
+
+NOMBRE DE SIÈGES
 
 |
 
-Nombre de sièges
+MODE
+
+de désignation |
+
+Titulaires
 
 |
 
-Mode
-
-de désignation
-
-|
-
-titulaires
-
-|
-
-suppléants
+Suppléants
 
 |
 
@@ -38,9 +32,7 @@ Direction générale
 
 |
 
-Comité technique de réseau
-
-(CTR) de l'INSEE
+Comité technique de réseau (CTR) de l'INSEE
 
 |
 
@@ -48,7 +40,7 @@ Directeur général de l'INSEE
 
 |
 
-Services centraux et services déconcentrés de l'INSEE
+Services centraux, services déconcentrés de l'INSEE
 
 |
 
@@ -78,7 +70,7 @@ Directeur général de l'INSEE
 
 |
 
-Services centraux de l'INSEE
+Services centraux de l'INSEE et centre de Metz
 
 |
 
@@ -92,15 +84,39 @@ Services centraux de l'INSEE
 
 Election directe
 
-Scrutin de liste
-
-|
+Scrutin de liste |
 
 Services déconcentrés
 
 |
 
-Comités techniques de service déconcentré des Directions régionales d'Alsace, Auvergne, Bourgogne, Bretagne, Champagne-Ardennes, Corse, Franche-Comté, Languedoc-Roussillon, Limousin, Lorraine, Haute-Normandie, Picardie, Poitou-Charentes, Réunion-Mayotte
+Comité technique de service déconcentré de la direction régionale de Corse
+
+|
+
+Directeur régional
+
+|
+
+Direction régionale
+
+|
+
+4
+
+|
+
+4
+
+|
+
+Election directe
+
+Scrutin de sigle
+
+|
+
+Comité technique de service déconcentré de la direction régionale de La Réunion-Mayotte
 
 |
 
@@ -124,19 +140,17 @@ Election directe
 
 Scrutin de liste
 
-(sauf pour la Corse : scrutin de sigle)
+|
+
+Comité technique de service déconcentré de la direction interrégionale Antilles-Guyane (DIRAG)
 
 |
 
-Comité technique de service déconcentré Directions régionales d'Aquitaine, Centre, Ile-de-France, Midi-Pyrénées, Nord-Pas-de-Calais, Basse-Normandie, Pays de la Loire, Provence-Alpes-Côte d'Azur, Rhône-Alpes, Antilles-Guyane
+Directeur interrégional
 
 |
 
-Directeur régional
-
-|
-
-Direction régionale
+Direction interrégionale
 
 |
 
@@ -151,5 +165,59 @@ Direction régionale
 Election directe
 
 Scrutin de liste
+
+|
+
+Services déconcentrés (suite)
+
+|
+
+Comités techniques de service déconcentré des Directions régionales d'Alsace, Auvergne, Bourgogne, Bretagne, Champagne-Ardennes, Franche-Comté, Languedoc-Roussillon, Limousin, Lorraine, Haute-Normandie, Picardie, Poitou-Charentes, Aquitaine (y compris le centre de formation - CEFIL), Centre (y compris le centre national informatique d'Orléans), Ile-de-France, Midi-Pyrénées, Nord - Pas-de- Calais, Basse-Normandie, Pays de la Loire (y compris le centre national informatique de Nantes), Provence-Alpes-Côte d'Azur, Rhône-Alpes
+
+|
+
+Directeur régional
+
+|
+
+Direction régionale
+
+|
+
+|
+
+|
+
+Election directe
+
+Scrutin de liste
+
+|
+
+Jusqu'à 199 agents
+
+|
+
+|
+
+4
+
+|
+
+4
+
+|
+
+A partir de 200 agents
+
+|
+
+|
+
+6
+
+|
+
+6
 
 |
