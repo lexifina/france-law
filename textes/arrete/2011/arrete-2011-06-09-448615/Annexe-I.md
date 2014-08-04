@@ -1,40 +1,40 @@
 # Article Annexe I
 
-Ministère de l'économie, des finances, et de l'industrie et ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'état
+MINISTÈRE DES FINANCES ET DES COMPTES PUBLICS, MINISTÈRE DE L'ÉCONOMIE, DU REDRESSEMENT PRODUCTIF ET DU NUMÉRIQUE ET MINISTÈRE DE LA DÉCENTRALISATION ET DE LA FONCTION PUBLIQUE
 
-Départements ministériels
-
-|
-
-Instance
+INSTANCE
 
 |
 
-Autorité
+AUTORITÉ
 
 de rattachement
 
 |
 
-Périmètre
+PÉRIMÈTRE
 
 |
 
-Nombre de sièges
+NOMBRE DE SIÈGES
 
 |
 
-Mode
+MODE
 
 de désignation
 
 |
 
-titulaires
+Titulaires
 
 |
 
-suppléants
+Suppléants
+
+|
+
+Départements ministériels
 
 |
 
@@ -42,15 +42,11 @@ Comité technique ministériel unique
 
 |
 
-Ministre de l'économie, des finances et de l'industrie et Ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat
+Ministre des finances et des comptes publics, ministre de l'économie, du redressement productif et du numérique, ministre de la décentralisation et de la fonction publique
 
 |
 
-Ensemble des directions
-
-et services des deux
-
-départements ministériels
+Ensemble des services des trois départements ministériels, à l'exception de la direction générale des collectivités locales ; établissements publics rattachés : Caisse d'amortissement de la dette sociale, Caisse de la dette publique, Etablissement public de financement et de restructuration, fonds d'insertion des personnes handicapées dans la fonction publique, Fonds national de promotion et de communication de l'artisanat
 
 |
 
@@ -68,7 +64,7 @@ Scrutin de liste
 
 |
 
-Administration Centrale
+Administration centrale
 
 |
 
@@ -76,11 +72,11 @@ Comité technique unique d'administration centrale
 
 |
 
-Secrétraire général du Ministère de l'économie, des finances et de l'industrie et du Ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat
+Secrétaire général des ministères économiques et financiers
 
 |
 
-Directions et Services de l'administration centrale des deux départements ministériels
+Directions et services de l'administration centrale des trois départements ministériels, à l'exception de la direction générale des collectivités locales
 
 |
 
@@ -102,13 +98,11 @@ Autres
 
 |
 
-Comité technique spécial de service de la Direction générale du Trésor
+Comité technique spécial de service de la direction générale du Trésor
 
 |
 
-Directeur Général
-
-du Trésor
+Directeur général du Trésor
 
 |
 
@@ -130,11 +124,11 @@ Scrutin de liste
 
 |
 
-Comité technique spécial de sous-direction - Service de l'environnement professionnel du Secrétariat général
+Comité technique spécial de sous-direction-service de l'environnement professionnel du secrétariat général des ministères économiques et financiers
 
 |
 
-Chef du Service de l'environnement professionnel
+Chef du service de l'environnement professionnel
 
 |
 
@@ -150,17 +144,17 @@ Sous-direction du cadre de vie
 
 |
 
-Eloction directe
+Election directe
 
 Scrutin de liste
 
 |
 
-Comité technique spécial de service du Service commun des laboratoires
+Comité technique spécial de service du service commun des laboratoires
 
 |
 
-Chef du Service commun des laboratoires
+Chef du service commun des laboratoires
 
 |
 
@@ -182,7 +176,7 @@ Scrutin de liste
 
 |
 
-Comité technique spécial de service de TRACFIN
+Comité technique spécial de TRACFIN
 
 |
 
@@ -204,6 +198,30 @@ Service TRACFIN
 
 Election directe
 
-Scrutin de sigle
+Scrutin de liste
 
 |
+
+Comité technique spécial de la direction générale de l'administration et de la fonction publique
+
+|
+
+Directeur général de l'administration et de la fonction publique
+
+|
+
+Direction générale de l'administration et de la fonction publique
+
+|
+
+3
+
+|
+
+3
+
+|
+
+Election directe
+
+Scrutin de liste |

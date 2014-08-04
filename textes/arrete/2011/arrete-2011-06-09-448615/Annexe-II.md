@@ -1,36 +1,36 @@
 # Article Annexe II
 
-Direction générale des finances publiques
+DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES
 
-Instance
+INSTANCE
 
 |
 
-Autorité
+AUTORITÉ
 
 de rattachement
 
 |
 
-Périmètre
+PÉRIMÈTRE
 
 |
 
-Nombre de sièges
+NOMBRE DE SIÈGES
 
 |
 
-Mode
+MODE
 
 de désignation
 
 |
 
-titulaires
+Titulaires
 
 |
 
-suppléants
+Suppléants
 
 |
 
@@ -42,11 +42,11 @@ Comité technique de réseau (CTR) de la DGFIP
 
 |
 
-Directeur général des Finances publiques
+Directeur général des finances publiques
 
 |
 
-Services centraux, services déconcentrés et SCN relevant ou rattachés à la DGFIP
+Services centraux, services déconcentrés et services à compétence nationale relevant ou rattachés à la DGFIP
 
 |
 
@@ -70,11 +70,11 @@ Comité technique de service central de réseau (CTSCR) de la DGFIP
 
 |
 
-Directeur général des Finances publiques
+Directeur général des finances publiques
 
 |
 
-Servi ces centraux de la DGFIP
+Services centraux de la DGFIP, directions locales de Saint-Pierre-et-Miquelon, Wallis et Futuna, délégations interrégionales, service à compétence nationale Cap numérique
 
 |
 
@@ -100,11 +100,13 @@ Comités techniques de service déconcentré des directions départementales ou 
 
 |
 
-Directeur départemental ou régional des Finances publiques
+Directeur départemental ou régional des finances publiques
 
 |
 
-Direction départementale ou régionale des Finances publiques
+Directeur départemental ou régional des finances publiques
+
+|
 
 |
 
@@ -112,15 +114,11 @@ Direction départementale ou régionale des Finances publiques
 
 Election directe
 
-Scrutin de liste
+Scrutin de liste (sauf pour le CTSD de la DRFIP de Mayotte : scrutin de sigle)
 
 |
 
-de 50 à 74 agents
-
-|
-
-4
+De 50 à 74 agents
 
 |
 
@@ -128,7 +126,11 @@ de 50 à 74 agents
 
 |
 
-de 75 à 199 agents
+4
+
+|
+
+De 75 à 199 agents
 
 |
 
@@ -140,7 +142,7 @@ de 75 à 199 agents
 
 |
 
-de 200 à 399 agents
+De 200 à 399 agents
 
 |
 
@@ -152,7 +154,7 @@ de 200 à 399 agents
 
 |
 
-de 400 à 599 agents
+De 400 à 599 agents
 
 |
 
@@ -164,7 +166,7 @@ de 400 à 599 agents
 
 |
 
-de 600 à 799 agents
+De 600 à 799 agents
 
 |
 
@@ -176,7 +178,7 @@ de 600 à 799 agents
 
 |
 
-de 800 à 999 agents
+De 800 à 999 agents
 
 |
 
@@ -188,7 +190,7 @@ de 800 à 999 agents
 
 |
 
-à partir de 1 000 agents
+A partir de 1 000 agents
 
 |
 
@@ -200,7 +202,7 @@ de 800 à 999 agents
 
 |
 
-Comités techniques de service déconcentré des Directions spécialisées : Directions de contrôle fiscal, Trésorerie générale de l'Assistance publique - Hôpitaux de Paris, Trésorerie générale pour l'étranger, Direction des créances spéciales du Trésor de la DGFIP
+Comités techniques de service déconcentré des directions spécialisées : direction de contrôle fiscal, direction spécialisée pour l'Assistance publique-hôpitaux de Paris, trésorerie générale pour l'étranger, direction des créances spéciales du Trésor
 
 |
 
@@ -214,125 +216,15 @@ Direction spécialisée
 
 |
 
-Election directe
-
-Scrutin de liste
-
-(sauf pour la Direction des créances spéciales du Trésor : scrutin de sigle)
-
-|
-
-de 50 à 74 agents
-
-|
-
-4
-
-|
-
-4
-
-|
-
-de 75 à 199 agents
-
-|
-
-5
-
-|
-
-5
-
-|
-
-de 200 à 399 agents
-
-|
-
-6
-
-|
-
-6
-
-|
-
-de 400 à 599 agents
-
-|
-
-7
-
-|
-
-7
-
-|
-
-de 600 à 799 agents
-
-|
-
-8
-
-|
-
-8
-
-|
-
-de 800 à 999 agents
-
-|
-
-9
-
-|
-
-9
-
-|
-
-à partir de 1 000 agents
-
-|
-
-10
-
-|
-
-10
-
-|
-
-Comités techniques de service déconcentré des Directions locales Trésorerie générale de Nouvelle Calédonie , Trésorerie générale de la Polynésie française et Trésorerie générale et Direction des Services fiscaux de Mayotte
-
-|
-
-Directeur local des Finances publiques
-
-|
-
-Direction locale des Finances publiques
-
-|
-
 |
 
 Election directe
 
-Scrutin de liste
-
-(sauf pour le comité technique unique de la Trésorerie générale et de la Direction des Services fiscaux de Mayotte : scrutin de sigle)
+Scrutin de liste (sauf pour la direction spécialisée des créances spéciales du Trésor : scrutin de sigle)
 
 |
 
-de 50 à 74 agents
-
-|
-
-4
+De 50 à 74 agents
 
 |
 
@@ -340,7 +232,11 @@ de 50 à 74 agents
 
 |
 
-de 75 à 199 agents
+4
+
+|
+
+De 75 à 199 agents
 
 |
 
@@ -352,7 +248,7 @@ de 75 à 199 agents
 
 |
 
-de 200 à 399 agents
+De 200 à 399 agents
 
 |
 
@@ -364,7 +260,7 @@ de 200 à 399 agents
 
 |
 
-de 400 à 599 agents
+De 400 à 599 agents
 
 |
 
@@ -376,7 +272,7 @@ de 400 à 599 agents
 
 |
 
-de 600 à 799 agents
+De 600 à 799 agents
 
 |
 
@@ -388,7 +284,7 @@ de 600 à 799 agents
 
 |
 
-de 800 à 999 agents
+De 800 à 999 agents
 
 |
 
@@ -400,7 +296,7 @@ de 800 à 999 agents
 
 |
 
-à partir de 1 000 agents
+A partir de 1 000 agents
 
 |
 
@@ -412,15 +308,21 @@ de 800 à 999 agents
 
 |
 
-Comités techniques de service à compétence nationale : Direction impôts service, Direction des grandes entreprises, Direction des vérifications nationales et internationales, Direction nationale d'enquétes fiscales, Direction nationale de vérification des situations fiscales personnelles, Direction des Résidents à l'Etranger et des Services Généraux, Service de la Documentation Nationale du Cadastre, Ecole nationale des finances publiques, Direction nationale d'interventions domaniales, Service des retraites de l'Etat et Directions des Services Informatiques
+Comités techniques de service déconcentré des directions locales : direction locale des finances publiques de la Nouvelle-Calédonie, direction locale des finances publiques de la Polynésie française
 
 |
 
-Chef de service à compétence nationale
+Directeur local
+
+des finances publiques
 
 |
 
-Service à compétence nationale
+Direction locale
+
+des finances publiques
+
+|
 
 |
 
@@ -432,7 +334,7 @@ Scrutin de liste
 
 |
 
-de 50 à 74 agents
+De 50 à 74 agents
 
 |
 
@@ -444,7 +346,7 @@ de 50 à 74 agents
 
 |
 
-de 75 à 199 agents
+De 75 à 199 agents
 
 |
 
@@ -456,7 +358,7 @@ de 75 à 199 agents
 
 |
 
-de 200 à 399 agents
+De 200 à 399 agents
 
 |
 
@@ -468,7 +370,7 @@ de 200 à 399 agents
 
 |
 
-de 400 à 599 agents
+De 400 à 599 agents
 
 |
 
@@ -480,7 +382,7 @@ de 400 à 599 agents
 
 |
 
-de 600 à 799 agents
+De 600 à 799 agents
 
 |
 
@@ -492,7 +394,7 @@ de 600 à 799 agents
 
 |
 
-de 800 à 999 agents
+De 800 à 999 agents
 
 |
 
@@ -504,7 +406,117 @@ de 800 à 999 agents
 
 |
 
-à partir de 1 000 agents
+A partir de 1 000 agents
+
+|
+
+10
+
+|
+
+10
+
+|
+
+Comités techniques de service à compétence nationale : direction impôts service, direction des vérifications nationales et internationales, direction des grandes entreprises, direction nationale d'enquêtes fiscales, direction nationale de vérification des situations fiscales personnelles, direction des résidents à l'étranger et des services généraux, service de la documentation nationale du cadastre, Ecole nationale des finances publiques, direction des services informatiques, direction nationale d'interventions domaniales, service des retraites de l'Etat
+
+|
+
+Chef de service
+
+à compétence nationale
+
+|
+
+Service à compétence
+
+nationale
+
+|
+
+|
+
+|
+
+Election directe
+
+Scrutin de liste
+
+|
+
+De 50 à 74 agents
+
+|
+
+4
+
+|
+
+4
+
+|
+
+De 75 à 199 agents
+
+|
+
+5
+
+|
+
+5
+
+|
+
+De 200 à 399 agents
+
+|
+
+6
+
+|
+
+6
+
+|
+
+De 400 à 599 agents
+
+|
+
+7
+
+|
+
+7
+
+|
+
+De 600 à 799 agents
+
+|
+
+8
+
+|
+
+8
+
+|
+
+De 800 à 999 agents
+
+|
+
+9
+
+|
+
+9
+
+|
+
+A partir de 1 000 agents
 
 |
 
