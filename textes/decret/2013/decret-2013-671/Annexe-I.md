@@ -1,6 +1,6 @@
 # Article Annexe I
 
-LISTE DES AGGLOMÉRATIONS ET ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE À FISCALITÉ PROPRE VISÉS AU DEUXIÈME ALINÉA DE L'ARTICLE L. 302-5 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION NE JUSTIFIANT PAS UN EFFORT DE PRODUCTION SUPPLÉMENTAIRE POUR RÉPONDRE À LA DEMANDE ET AUX CAPACITÉS À SE LOGER DES PERSONNES À REVENUS MODESTES ET DES PERSONNES DÉFAVORISÉES
+Liste des agglomérations et établissements publics de coopération intercommunale à fiscalité propre visés au deuxième alinéa de l'article L. 302-5 du code de la construction et de l'habitation ne justifiant pas un effort de production supplémentaire pour répondre à la demande et aux capacités à se loger des personnes à revenus modestes et des personnes défavorisées
 
 CODE AGGLOMÉRATION
 
@@ -86,7 +86,7 @@ Rouen
 
 |
 
-Douai - Lens
+Douai-Lens
 
 |
 
@@ -159,14 +159,6 @@ Angoulême
 |
 
 Bourges
-
-|
-
-22403
-
-|
-
-Lannion
 
 |
 
@@ -263,14 +255,6 @@ Nîmes
 |
 
 Béziers
-
-|
-
-35701
-
-|
-
-Rennes
 
 |
 
@@ -414,7 +398,15 @@ Lorient
 
 |
 
-Sarrebruck (ALL) - Forbach
+Sarrebruck (ALL)-Forbach (partie française)
+
+|
+
+57601
+
+|
+
+Thionville
 
 |
 
@@ -438,7 +430,7 @@ Nevers
 
 |
 
-Maubeuge
+Maubeuge (partie française)
 
 |
 
@@ -454,7 +446,7 @@ Dunkerque
 
 |
 
-Valenciennes
+Valenciennes (partie française)
 
 |
 
@@ -474,6 +466,22 @@ Compiègne
 
 |
 
+60601
+
+|
+
+Creil
+
+|
+
+62502
+
+|
+
+Arras
+
+|
+
 62503
 
 |
@@ -487,6 +495,14 @@ Boulogne-sur-Mer
 |
 
 Calais
+
+|
+
+63701
+
+|
+
+Clermont-Ferrand
 
 |
 
@@ -570,6 +586,14 @@ Le Havre
 
 |
 
+77501
+
+|
+
+Meaux
+
+|
+
 79501
 
 |
@@ -646,7 +670,7 @@ Epinal
 
 |
 
-Pointe-à-Pitre - Les Abymes
+Pointe-à-Pitre-Les Abymes
 
 |
 
@@ -666,6 +690,22 @@ Saint-André
 
 |
 
+9D601
+
+|
+
+Saint-Pierre
+
+|
+
+9D603
+
+|
+
+Saint-Denis
+
+|
+
 9F501
 
 |
@@ -673,8 +713,6 @@ Saint-André
 Mamoudzou
 
 |
-
-.
 
 SIREN EPCI
 
@@ -688,9 +726,7 @@ NOM DE L'EPCI
 
 |
 
-CA Beaune, Côte et Sud -
-
-Communauté Beaune-Chagny-Nolay
+CA Beaune, Côte et Sud-Communauté Beaune-Chagny-Nolay
 
 |
 
@@ -706,7 +742,7 @@ CA du Grand Dole
 
 |
 
-CC de l'Etampois Sud Essonne
+CC Etampois Sud Essonne (CCESE)
 
 |
 
@@ -718,19 +754,11 @@ CA CAP Excellence
 
 |
 
-200022762
-
-|
-
-CA Valence Agglo-Sud Rhône-Alpes
-
-|
-
 200023281
 
 |
 
-CA Mulhouse Alsace Agglomération
+CA Mulhouse Alsace Agglomération (m2A)
 
 |
 
@@ -738,7 +766,15 @@ CA Mulhouse Alsace Agglomération
 
 |
 
-CA Rouen-Elbeuf-Austreberthe
+CA Rouen-Elbeuf-Austreberthe (CREA)
+
+|
+
+200027068
+
+|
+
+CA du Libournais
 
 |
 
@@ -746,7 +782,7 @@ CA Rouen-Elbeuf-Austreberthe
 
 |
 
-CA Perpignan Méditerranée
+Perpignan Méditerranée Communauté d'Agglomération (PMCA)
 
 |
 
@@ -754,7 +790,7 @@ CA Perpignan Méditerranée
 
 |
 
-CA Blois-Agglopolys
+CA de Blois Agglopolys
 
 |
 
@@ -770,7 +806,7 @@ CA Val de Garonne Agglomération
 
 |
 
-CA de Chartres Métropole
+CA Chartres Métropole
 
 |
 
@@ -779,6 +815,14 @@ CA de Chartres Métropole
 |
 
 CA Seine Amont
+
+|
+
+200033579
+
+|
+
+CU d'Arras
 
 |
 
@@ -814,6 +858,14 @@ CA Bergeracoise
 
 |
 
+200035087
+
+|
+
+CA Rhône Alpilles Durance
+
+|
+
 200035152
 
 |
@@ -834,7 +886,7 @@ CA d'Agen
 
 |
 
-CA Seine-Eure
+CA Seine Eure
 
 |
 
@@ -850,15 +902,7 @@ CA Carcassonne Agglo
 
 |
 
-CA du Roannais
-
-|
-
-200035921
-
-|
-
-CA Cambrai
+Roannais Agglomération
 
 |
 
@@ -866,7 +910,207 @@ CA Cambrai
 
 |
 
-CA de Saintes
+CA DE SAINTES
+
+|
+
+200039022
+
+|
+
+Communauté d'agglomération Vitré Communauté
+
+|
+
+200039865
+
+|
+
+Metz Métropole
+
+|
+
+200040244
+
+|
+
+Communauté d'Agglomération du Bocage Bressuirais
+
+|
+
+200040277
+
+|
+
+CA du pays de Dreux
+
+|
+
+200040392
+
+|
+
+CA Le Grand Périgueux
+
+|
+
+200040459
+
+|
+
+CA Montelimar-Agglomération
+
+|
+
+200040483
+
+|
+
+CA Valence-Romans Sud Rhône-Alpes
+
+|
+
+200040590
+
+|
+
+Communauté d'agglomération Villefranche Beaujolais Saône
+
+|
+
+200040665
+
+|
+
+CA Lannion-Trégor-Communauté
+
+|
+
+200041317
+
+|
+
+CA du Niortais
+
+|
+
+200041630
+
+|
+
+CA Charleville-Mézières-Sedan
+
+|
+
+200041762
+
+|
+
+CA Rochefort Océan
+
+|
+
+200041788
+
+|
+
+CA du Pays Nord Martinique
+
+|
+
+200042174
+
+|
+
+Lorient Agglomération
+
+|
+
+200042190
+
+|
+
+Communauté d'Agglomération de la Porte du Hainaut
+
+|
+
+200042935
+
+|
+
+CC Haut-Bugey
+
+|
+
+200043008
+
+|
+
+CA de Châlons-en-Champagne
+
+|
+
+200043172
+
+|
+
+CA du Bassin de Brive
+
+|
+
+200043370
+
+|
+
+Communauté d'agglomération SAINT-LO AGGLO
+
+|
+
+200043396
+
+|
+
+CA Maubeuge Val de Sambre
+
+|
+
+200044022
+
+|
+
+Communauté d'agglomération de Cambrai
+
+|
+
+200044055
+
+|
+
+CA de Béthune Bruay Nœux et environs
+
+|
+
+200044618
+
+|
+
+CA du Douaisis (CAD)
+
+|
+
+200044691
+
+|
+
+Communauté d'agglomération du nord Grande Terre
+
+|
+
+200044733
+
+|
+
+Seine & Vexin com Agglo
 
 |
 
@@ -874,7 +1118,7 @@ CA de Saintes
 
 |
 
-CA de Bourg-en-Bresse
+CA Bourg-en-Bresse Agglomération
 
 |
 
@@ -898,7 +1142,7 @@ CA du Soissonnais
 
 |
 
-CA de Vichy Val d'Allier
+CA Vichy Val d'Allier
 
 |
 
@@ -918,16 +1162,6 @@ CA de Moulins
 
 |
 
-240801001
-
-|
-
-CA de Charleville-Mézières
-
-Cœur d'Ardenne
-
-|
-
 241000397
 
 |
@@ -940,7 +1174,7 @@ CA Grand Troyes
 
 |
 
-CA le Grand Narbonne
+CA Le Grand Narbonne
 
 |
 
@@ -952,11 +1186,11 @@ CA du Grand Rodez
 
 |
 
-241300417
+241300177
 
 |
 
-CA Arles-Crau-Camargue-Montagnette
+SAN Ouest Provence
 
 |
 
@@ -972,23 +1206,7 @@ CA du Bassin d'Aurillac
 
 |
 
-CA du Grand Angoulême
-
-|
-
-241700566
-
-|
-
-CA du Pays Rochefortais
-
-|
-
-241700640
-
-|
-
-CA Royan Atlantique
+CA du Grand Angoulême (GrandAngoulême)
 
 |
 
@@ -1000,37 +1218,11 @@ CA Bourges Plus
 
 |
 
-241927300
-
-|
-
-CA de Brive
-
-|
-
 242200517
 
 |
 
-CA Saint-Brieuc Agglomération
-
-Baie d'Armor
-
-|
-
-242200798
-
-|
-
-CA Lannion-Trégor-Agglomération
-
-|
-
-242400620
-
-|
-
-CA Périgourdine
+CA Saint-Brieuc Agglomération Baie d'Armor (SBABA)
 
 |
 
@@ -1050,22 +1242,6 @@ CA du Pays de Montbéliard
 
 |
 
-242600450
-
-|
-
-CA Montélimar-Sésame
-
-|
-
-242600609
-
-|
-
-CA du Pays de Romans
-
-|
-
 242700573
 
 |
@@ -1074,27 +1250,11 @@ CA Grand Evreux Agglomération
 
 |
 
-242700649
-
-|
-
-CA des Portes de l'Eure
-
-|
-
-242852440
-
-|
-
-CA Dreux Agglomération
-
-|
-
 242900314
 
 |
 
-CU de Brest Métropole Océane
+CU Brest Métropole Océane
 
 |
 
@@ -1102,7 +1262,7 @@ CU de Brest Métropole Océane
 
 |
 
-CA de Quimper Communauté
+CA Quimper Communauté
 
 |
 
@@ -1122,11 +1282,19 @@ CA de Nîmes Métropole
 
 |
 
+243100690
+
+|
+
+CA du Muretain
+
+|
+
 243400769
 
 |
 
-CA de Béziers Méditerranée
+CA de Béziers-Méditerranée
 
 |
 
@@ -1142,15 +1310,7 @@ CA Rennes Métropole
 
 |
 
-CA de Saint-Malo Agglomération
-
-|
-
-243500808
-
-|
-
-CA Vitré communauté
+CA du Pays de Saint Malo-Saint Malo Agglomération
 
 |
 
@@ -1166,7 +1326,7 @@ CA Castelroussine
 
 |
 
-CA Tour(s) Plus
+CA Tours (Plus)
 
 |
 
@@ -1174,7 +1334,7 @@ CA Tour(s) Plus
 
 |
 
-CA Vienne Agglomération
+ViennAgglo
 
 |
 
@@ -1182,7 +1342,7 @@ CA Vienne Agglomération
 
 |
 
-CA Porte de l'Isère
+CA Porte de l'Isère (CAPI)
 
 |
 
@@ -1206,7 +1366,7 @@ CA du Grand Dax
 
 |
 
-CA le Marsan Agglomération
+CA Le Marsan Agglomération
 
 |
 
@@ -1214,7 +1374,7 @@ CA le Marsan Agglomération
 
 |
 
-CA de Saint-Etienne Métropole
+CA Saint Etienne Métropole
 
 |
 
@@ -1230,7 +1390,7 @@ CA Loire Forez
 
 |
 
-CA du Puy-en-Velay
+CA du Puy en Velay
 
 |
 
@@ -1238,9 +1398,7 @@ CA du Puy-en-Velay
 
 |
 
-CA de la Région Nazairienne
-
-et de l'Estuaire
+CA de la Région nazairienne et de l'estuaire (CARENE)
 
 |
 
@@ -1248,7 +1406,7 @@ et de l'Estuaire
 
 |
 
-CA Orléans Val de Loire
+CA Orléans Val de Loire (AgglO)
 
 |
 
@@ -1284,14 +1442,6 @@ CU de Cherbourg
 
 |
 
-245100029
-
-|
-
-CA de Châlons-en-Champagne
-
-|
-
 245300330
 
 |
@@ -1308,19 +1458,11 @@ CU du Grand Nancy
 
 |
 
-245600341
-
-|
-
-CA du Pays de Lorient
-
-|
-
 245600366
 
 |
 
-CA Vannes Agglo
+Vannes agglo
 
 |
 
@@ -1328,15 +1470,7 @@ CA Vannes Agglo
 
 |
 
-CA de Sarreguemines Confluences
-
-|
-
-245700240
-
-|
-
-CA de Metz Métropole
+CA Sarreguemines Confluences
 
 |
 
@@ -1344,7 +1478,7 @@ CA de Metz Métropole
 
 |
 
-CA de Forbach Porte de France
+CA de Forbach-Porte de France
 
 |
 
@@ -1368,23 +1502,7 @@ CA de Nevers
 
 |
 
-CU de Dunkerque Grand Littoral
-
-|
-
-245901087
-
-|
-
-CA Maubeuge Val de la Sambre
-
-|
-
-245901145
-
-|
-
-CA de la Porte du Hainaut
+CU de Dunkerque
 
 |
 
@@ -1392,15 +1510,15 @@ CA de la Porte du Hainaut
 
 |
 
-CA de Valenciennes Métropole
+CA Valenciennes Métropole
 
 |
 
-245901228
+246000111
 
 |
 
-CA du Douaisis
+CA Creilloise
 
 |
 
@@ -1428,14 +1546,6 @@ CU d'Alençon
 
 |
 
-246200141
-
-|
-
-CA de l'Artois
-
-|
-
 246200299
 
 |
@@ -1448,7 +1558,7 @@ CA d'Hénin-Carvin
 
 |
 
-CA de Lens - Liévin
+CA de Lens-Liévin
 
 |
 
@@ -1465,6 +1575,14 @@ CA du Boulonnais
 |
 
 CA du Calaisis
+
+|
+
+246300701
+
+|
+
+CA Clermont Communauté
 
 |
 
@@ -1500,19 +1618,11 @@ CA de Colmar
 
 |
 
-246900229
-
-|
-
-CA de Villefranche-sur-Saône
-
-|
-
 247100290
 
 |
 
-CU Le Creusot - Montceau-les-Mines
+CU Le Creusot Montceau-lès-Mines
 
 |
 
@@ -1520,7 +1630,7 @@ CU Le Creusot - Montceau-les-Mines
 
 |
 
-CA Chalon ― Val de Bourgogne
+CA Chalon-Val de Bourgogne
 
 |
 
@@ -1528,7 +1638,7 @@ CA Chalon ― Val de Bourgogne
 
 |
 
-CA du Mâconnais - Val de Saône
+CA du Mâconnais-Val de Saône
 
 |
 
@@ -1537,14 +1647,6 @@ CA du Mâconnais - Val de Saône
 |
 
 CU Le Mans Métropole
-
-|
-
-247300049
-
-|
-
-CA du Lac du Bourget
 
 |
 
@@ -1560,15 +1662,7 @@ CA Chambéry Métropole
 
 |
 
-CA Havraise
-
-|
-
-247600786
-
-|
-
-CA de la Région Dieppoise
+CA Havraise (CODAH)
 
 |
 
@@ -1580,11 +1674,11 @@ CA Melun Val de Seine
 
 |
 
-247900806
+247700628
 
 |
 
-CA de Niort
+CA Pays de Meaux
 
 |
 
@@ -1608,7 +1702,7 @@ CA de Castres Mazamet
 
 |
 
-CA de l'Albigeois
+CA de l'Albigeois (C2A)
 
 |
 
@@ -1616,7 +1710,7 @@ CA de l'Albigeois
 
 |
 
-CA du Pays de Montauban
+CA Grand Montauban
 
 |
 
@@ -1624,7 +1718,7 @@ CA du Pays de Montauban
 
 |
 
-CA Ventoux Comtat Venaissin
+CA Ventoux-Comtat-Venaissin (COVE)
 
 |
 
@@ -1632,7 +1726,7 @@ CA Ventoux Comtat Venaissin
 
 |
 
-CA La Roche-sur-Yon Agglomération
+CA La Roche-sur-Yon-Agglomération
 
 |
 
@@ -1672,7 +1766,15 @@ CA de l'Auxerrois
 
 |
 
-CA Belfortaine
+CA de l'Agglomération Belfortaine
+
+|
+
+249100405
+
+|
+
+CA du Plateau de Saclay (CAPS)
 
 |
 
@@ -1680,7 +1782,23 @@ CA Belfortaine
 
 |
 
-CA de Seine-Essonne
+CA de Seine-Essonne (CASE)
+
+|
+
+249100504
+
+|
+
+CA du Val d'Orge (CAVO)
+
+|
+
+249100512
+
+|
+
+CA du Val d'Yerres (CAVY)
 
 |
 
@@ -1688,7 +1806,7 @@ CA de Seine-Essonne
 
 |
 
-CA Sénart Val de Seine
+CA Sénart Val de Seine (CASVS)
 
 |
 
@@ -1696,23 +1814,23 @@ CA Sénart Val de Seine
 
 |
 
-CA les Lacs de l'Essonne
+CA les Lacs de l'Essonne (CALE)
 
 |
 
-249300070
+249710062
 
 |
 
-CA de Clichy-sous-Bois - Montfermeil
+CA du Nord Basse-Terre
 
 |
 
-249720046
+249710070
 
 |
 
-CC du Nord Martinique
+CA du Sud Basse-Terre
 
 |
 
@@ -1732,11 +1850,11 @@ CA du Centre Littoral
 
 |
 
-249740085
+249740077
 
 |
 
-CA du Sud
+CA CIVIS (Communauté intercommunale des villes solidaires)
 
 |
 
@@ -1744,6 +1862,12 @@ CA du Sud
 
 |
 
-CA Intercommunale de La Réunion Est
+CA Intercommunale de La Réunion Est (CIREST)
 
 |
+
+249740119
+
+|
+
+CA Intercommunale du Nord de La Réunion (CINOR) |
