@@ -1,0 +1,9 @@
+# Réponse à la question n° 54425
+
+- Question : [54425](54425.md) — Question n° 54425 — registre de l'agriculture; création
+
+## Réponse
+
+*JO du 2014-08-05*
+
+Le registre des actifs agricoles proposé par le Gouvernement est destiné à regrouper l'ensemble des chefs d'exploitation agricole qui répondent aux critères définis dans le texte du projet de loi d'avenir pour l'agriculture, l'alimentation et la forêt. Ces critères ont été fixés de manière suffisamment souple afin de pouvoir englober la plus large part possible des actifs exerçant une activité agricole et répondre ainsi aux souhaits exprimés par les organisations professionnelles agricoles. L'ensemble des actifs éligibles sera automatiquement inscrit au registre administré par l'assemblée permanente des chambres d'agriculture. Les informations destinées à figurer sur le registre seront adressées directement par les caisses de mutualité sociale agricole et les centres de formalité des entreprises des chambres d'agriculture, pour les données qu'ils détiennent respectivement. La refonte du registre de l'agriculture en un registre des actifs agricoles ne modifie donc pas le rôle des centres de formalité des entreprises des chambres d'agriculture, en qualité de guichet unique pour les agriculteurs, en charge des formalités relatives aux créations d'exploitations ou de sociétés agricoles ainsi que de tous les événements et changements de situation ultérieurs. Les centres seront également responsables de la délivrance des attestations d'inscription au registre des actifs. Au même titre que le registre du commerce ou le répertoire des métiers, le registre des actifs agricoles doit permettre de faciliter, tant la reconnaissance des agriculteurs professionnels que la simplification des échanges avec les divers organismes et administrations auxquels les agriculteurs s'adressent régulièrement, notamment pour l'accès aux prêts ou aux différentes aides et soutien publics.
