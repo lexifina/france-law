@@ -1,0 +1,9 @@
+# Réponse à la question n° 61336
+
+- Question : [61336](61336.md) — Question n° 61336 — réfugiés syriens; attitude de la France
+
+## Réponse
+
+*JO du 2014-08-05*
+
+La France est profondément attachée à la préservation de la stabilité du Liban, de sa souveraineté, de son indépendance et de son intégrité. Elle l'encourage à ce titre à poursuivre sa politique de dissociation d'avec la crise syrienne. Mesurant pleinement la précarité de la situation des réfugiés syriens au Liban et consciente de l'impact de leur présence dans le pays, la France met tout en oeuvre pour aider le Liban à faire face aux défis qu'impliquent l'accueil de plus d'un million de réfugiés syriens représentant plus du quart de la population libanaise. C'est ainsi qu'à l'initiative de la France a été créé, sous l'égide du Secrétaire général des Nations unies, le Groupe international de soutien au Liban (GIS) qui concentre ses efforts sur les volets macro-économique, de sécurité et d'aide à l'accueil des réfugiés. Le Président de la République l'a réuni le 5 mars dernier à l'Elysée pour inciter ses membres à se mobiliser. En contribuant à hauteur de 7 M€ au Fonds fiduciaire pour le Liban mis en place par la Banque mondiale et en soutenant à hauteur de 11,6M€ les activités des agences onusiennes et des ONG sur place pour alléger l'impact de l'accueil des réfugiés syriens, la France prend toute sa part à l'activité de ce groupe. Par ailleurs, en réponse à l'appel lancé par le HCR, la France s'est engagée à accueillir 500 réfugiés syriens particulièrement vulnérables au titre de la réinstallation et de l'admission humanitaire en 2014. Ayant entendu le nouvel appel du HCR à renforcer l'effort de solidarité, la France accueillera 500 réfugiés syriens supplémentaires, établis notamment au Liban, au titre de la réinstallation et de l'admission humanitaire en 2015.
