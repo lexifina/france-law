@@ -1,0 +1,9 @@
+# Réponse à la question n° 57658
+
+- Question : [57658](57658.md) — Question n° 57658 — aliments; importations; Japon; politiques communautaires
+
+## Réponse
+
+*JO du 2014-08-05*
+
+Dès les premiers jours suivant la survenue de l'accident nucléaire de Fukushima en mars 2011, la Commission européenne a pris des mesures de gestion strictes du risque radiologique dans les denrées en provenance du Japon, ceci malgré la faible part de ces denrées dans le régime alimentaire européen moyen. Ces mesures se sont notamment traduites par la définition d'une liste de préfectures japonaises considérées comme « à risque » au regard des potentielles contaminations radiologiques des aliments qui y sont produits ainsi que par l'obligation de contrôles analytiques des denrées produites dans ces zones par les autorités japonaises avant exportation, couplés à des contrôles à l'entrée du territoire de l'Union européenne (UE). Depuis trois ans, plusieurs facteurs justifient une évolution de ces mesures, en particulier : - la bonne qualité sanitaire des denrées, liée à la décroissance radioactive et biologique du niveau de contamination, - les preuves continues de l'efficacité des contrôles pré-exportation par les autorités japonaises (en trois ans, sur l'ensemble des importations européennes en provenance du Japon, seuls deux lots de thé non conformes ont été détectés à l'entrée du territoire de l'UE et retirés du marché en conséquence). Ainsi, la dernière évolution réglementaire ne constitue pas une atteinte à la sécurité sanitaire des consommateurs européens. En effet, les denrées les plus sensibles à la contamination aux césiums produites dans les préfectures considérées « à risque » sont toujours accompagnées de certificats d'analyse. Par ailleurs, des contrôles ciblés à l'entrée du territoire de l'UE sont toujours en place.
