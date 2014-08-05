@@ -1,0 +1,9 @@
+# Réponse à la question n° 59235
+
+- Question : [59235](59235.md) — Question n° 59235 — CESE; rapport; recommandations
+
+## Réponse
+
+*JO du 2014-08-05*
+
+La mesure phare de la fiche risques naturels du Plan national d'adaptation au changement climatique (PNACC) publié en 2011 consiste à mettre en place une infrastructure visant à acquérir, traiter, archiver et distribuer des données de niveau marin, afin d'observer et de comprendre les variations à long terme du niveau des mers. Dès à présent, la révision de la doctrine relative aux plans de prévention des risques littoraux prend en compte la hausse attendue du niveau de la mer, conséquence du changement climatique. Dès 2012, pour répondre à l'action 3 de la fiche littoral du PNACC visant à adapter les réglementations et les types de gouvernance, la Stratégie nationale de gestion intégrée du trait de côte, sous-titrée « Vers la relocalisation des activités et des biens » intègre dans la perspective du changement climatique, la nécessité d'anticiper l'évolution des phénomènes physiques d'érosion côtière et de submersion marine. Cela passe par une bonne connaissance des aléas et du fonctionnement des écosystèmes côtiers dans leur état actuel et une prévision de leur évolution à 10, 40 et 90 ans. Il convient maintenant de généraliser en incitant les communes littorales et leurs groupements à prévoir systématiquement un volet Schéma de mise en valeur de la mer (SMVM) dans leur Schéma de Cohérence Territoriale (SCOT). Plus récemment, la direction générale de la prévention des risques, du ministère de l'écologie, du développement durable et de l'énergie a présenté la stratégie nationale de gestion des risques d'inondation, dont l'un des objectifs majeurs est de rendre les territoires moins vulnérables. Pour la première fois, la France se dote d'une stratégie qui impose une approche proactive en matière de prévention des inondations sur l'ensemble des territoires à risques.
