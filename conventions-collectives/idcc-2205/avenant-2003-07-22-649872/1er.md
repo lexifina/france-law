@@ -2,7 +2,7 @@
 
 La liste des FCPE visée à l'article 4 de l'accord du 28 février 2003 est fixée ainsi qu'il suit :
 
-- FCPE dénommé " FCPE Notariat Monétaire " : fonds monétaire dont la totalité de l'actif est investie en valeurs monétaires de la zone euro ;
+- FCPE dénommé " FCPE Amundi label monétaire-F" : fonds monétaire dont la totalité de l'actif est investie en valeurs monétaires de la zone euro ;
 
 - FCPE dénommé " FCPE Notariat Prudent " : fonds investi à hauteur de 80 % à 90 % de son actif en produits de taux de la zone euro, le solde, soit de 10 % à 20 % de l'actif, étant principalement investi en actions ;
 
