@@ -1,0 +1,9 @@
+# Réponse à la question n° 54554
+
+- Question : [54554](54554.md) — Question n° 54554 — parité; réglementation
+
+## Réponse
+
+*JO du 2014-08-05*
+
+L'article L. 273-9 du code électoral, issu de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral, a prescrit dans les communes de 1 000 habitants et plus le respect de la parité dans la constitution des listes de candidats aux élections communautaires comme c'est le cas pour la constitution de la liste municipale en application de l'article L. 264 du même code. En matière de remplacement, les dispositions de l'article L. 270 du code électoral prévoient que « Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller municipal élu sur cette liste dont le siège devient vacant [...]. ». Aussi en cas de vacance d'un siège de conseiller municipal, le sexe du remplaçant n'est pas nécessairement le même que celui de la personne démissionnaire. Il est à noter toutefois que lors de la vacance suivante d'une personne de la même liste, le remplacement s'effectue nécessairement par une personne de sexe différent du précédent remplaçant puisque les listes municipales sont obligatoirement paritaires. Le législateur a imposé pour le remplacement des conseillers communautaires une règle de parité plus stricte en prévoyant que le remplaçant soit nécessairement de même sexe que le démissionnaire (article L. 273-10 du code électoral), sans pour autant remettre en cause les règles de remplacement des conseillers municipaux prévues à l'article L. 270 précité. Le législateur n'ayant donc pas souhaité appliquer une règle identique en cas de vacance des conseillers municipaux et des conseillers communautaires, le Gouvernement n'entend pas revenir sur ces dispositions.
