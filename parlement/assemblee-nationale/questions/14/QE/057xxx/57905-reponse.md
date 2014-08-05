@@ -1,0 +1,9 @@
+# Réponse à la question n° 57905
+
+- Question : [57905](57905.md) — Question n° 57905 — rapport parlementaire; recommandation
+
+## Réponse
+
+*JO du 2014-08-05*
+
+Le projet de loi de programmation pour un nouveau modèle énergétique français vise à engager le pays tout entier dans la voie d'une croissance verte créatrice de richesses, d'emplois durables et de progrès, une croissance porteuse de compétitivité pour nos entreprises et favorable à l'essor d'une économie collaborative. Il s'agit aussi de lier ces trois dimensions complémentaires d'un nouveau modèle énergétique français : le dynamisme économique, condition des créations d'emplois, la responsabilité écologique, car aujourd'hui nous savons ce qu'il en coûte et en coûterait plus encore de ne pas agir, la justice sociale, car l'énergie n'est pas un but en soi mais doit servir à améliorer la vie de chacun et à arracher à la précarité énergétique ceux qui en font aujourd'hui les frais. Ce projet de loi crée en particulier les conditions d'un nouvel élan pour le secteur du bâtiment, pour la mise en place des formations, initiales et continues, qui permettront aux artisans et aux PME d'acquérir ou d'actualiser les compétences et les qualifications nécessaires au renforcement de savoir-faire de qualité et au développement d'emplois nouveaux non délocalisables dans tous les métiers qui concourent à la maîtrise de l'énergie. Ce texte vise également à mobiliser tous les acteurs, publics et privés, de la montée en puissance des énergies renouvelables. Il simplifie les procédures et stabilise les règles pour accélérer l'émergence de solides filières industrielles d'avenir, compétitives et créatrices d'emploi, car les entreprises ont besoin de visibilité pour innover et investir. Il y a là, pour notre pays, un enjeu économique majeur et la possibilité de montrer en vraie grandeur l'excellence technologique française.
