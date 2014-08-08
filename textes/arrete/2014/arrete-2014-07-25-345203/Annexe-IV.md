@@ -1,4 +1,4 @@
-# Article Annexe II
+# Article Annexe IV
 
 La voie A du concours comporte les épreuves ci-après, affectées des coefficients suivants :
 
@@ -34,7 +34,7 @@ Sciences de la vie et de la Terre, épreuve sur support de documents
 
 4 heures
 
-(biologie : 2 heures, géologie : 2 heures)
+(biologie 2 h, géologie 2 h)
 
 |
 
@@ -46,7 +46,7 @@ Méthodes de calcul et raisonnement
 
 |
 
-2 h 30
+2 heures 30
 
 |
 
@@ -58,7 +58,7 @@ Modélisation mathématique et informatique
 
 |
 
-3 h 30
+3 heures 30
 
 |
 
@@ -132,9 +132,7 @@ Langue vivante facultative (**)
 
 |
 
-Points au-dessus de la moyenne sur 20
-
-à l'admission
+Points au-dessus de la moyenne sur 20 à l'admission
 
 |
 
@@ -200,7 +198,7 @@ Mathématiques pratiques et informatique
 
 |
 
-20 minutes
+30 minutes
 
 |
 
@@ -272,7 +270,7 @@ TIPE
 
 |
 
-Langue vivante obligatoire (*)
+Langue vivante obligatoire (***)
 
 |
 
@@ -294,10 +292,10 @@ Total
 
 |
 
-|
-
 26 + 3 de l'admissibilité
 
 |
 
-(*) L'épreuve de langue vivante est en anglais. |
+(***) L'épreuve de langue vivante est en anglais.
+
+|

@@ -1,4 +1,4 @@
-# Article Annexe V
+# Article Annexe VII
 
 La voie C du concours comporte les épreuves ci-après, affectées des coefficients suivants :
 
@@ -155,8 +155,6 @@ Langue vivante obligatoire (**)
 |
 
 Total
-
-|
 
 |
 

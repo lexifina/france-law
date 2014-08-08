@@ -1,4 +1,4 @@
-# Article Annexe VI
+# Article Annexe VIII
 
 La voie C2 du concours comporte les épreuves ci-après, affectées des coefficients suivants :
 
@@ -58,7 +58,7 @@ Entretien avec le jury
 
 |
 
-Entretien sur travaux ou mémoires de stage
+Entretien sur travaux ou mémoires de stages
 
 |
 
@@ -73,8 +73,6 @@ Entretien sur travaux ou mémoires de stage
 |
 
 Total
-
-|
 
 |
 

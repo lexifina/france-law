@@ -1,4 +1,4 @@
-# Article Annexe III
+# Article Annexe V
 
 La voie A TB du concours comporte les épreuves ci-après, affectées des coefficients suivants :
 
@@ -28,7 +28,7 @@ Epreuve écrite de sciences de la vie et de la Terre
 
 |
 
-Epreuve écrite de biotechnologies
+Epreuve écrite de biotechnologie
 
 |
 
@@ -168,15 +168,15 @@ Oral de biotechnologies
 
 |
 
-Epreuve pratique de sciences de la vie et de la Terre et biotechnologies
+Epreuve pratique de sciences de la vie et de la Terre et biotechnologie
 
 |
 
-―
+-
 
 |
 
-3 h 30
+3 heures 30
 
 |
 
@@ -204,11 +204,11 @@ Physique-chimie, activité expérimentale
 
 |
 
-―
+-
 
 |
 
-2 h 30
+2 heures 30
 
 |
 
@@ -262,7 +262,7 @@ TIPE
 
 |
 
-Langue vivante obligatoire (*)
+Langue vivante obligatoire (**)
 
 |
 
@@ -284,10 +284,10 @@ Total
 
 |
 
-|
-
 25 + 2 de l'admissibilité
 
 |
 
-(*) L'épreuve de langue vivante est en anglais. |
+(**) L'épreuve de langue vivante est en anglais.
+
+|
