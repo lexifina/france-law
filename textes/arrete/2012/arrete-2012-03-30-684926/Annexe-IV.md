@@ -1,12 +1,12 @@
 # Article Annexe IV
 
-NORMES D'APTITUDE MEDICALE REQUISES POUR ETRE ADMIS DANS CERTAINS EMPLOIS ET SPECIALITES
+Normes d'aptitude médicale requises pour être admis dans certains emplois et spécialités
 
-Emplois
+EMPLOI
 
 |
 
-Conditions médicales requises pour l'admission dans ces emplois
+CONDITIONS MÉDICALES REQUISES POUR L'ADMISSION DANS CES EMPLOIS
 
 |
 
@@ -18,7 +18,7 @@ Critères complémentaires
 
 |
 
-Officiers ou sous-officiers de gendarmerie au sein de la garde républicaine
+Militaire affecté au sein de la garde républicaine
 
 |
 
@@ -54,15 +54,13 @@ P
 
 |
 
-- Intégrité des mouvements du rachis ;
+Intégrité des mouvements du rachis ;
 
-- Aucune amputation, totale ou partielle, de doigt ;
+Aucune amputation, totale ou partielle, de doigt ;
 
-- Très bonne paroi abdominale ;
+Très bonne paroi abdominale ;
 
-- Absence de varices ou d'hémorroïdes ;
-
-- Taille minimale : 1,70 m.
+Absence de varices ou d'hémorroïdes.
 
 |
 
@@ -126,17 +124,15 @@ P
 
 |
 
-- Intégrité des mouvements du rachis ;
+Intégrité des mouvements du rachis ;
 
-- Aucune amputation, totale ou partielle, de doigt ;
+Aucune amputation, totale ou partielle, de doigt ;
 
-- Très bonne paroi abdominale ;
+Très bonne paroi abdominale ;
 
-- Absence de varices ou d'hémorroïdes ;
+Absence de varices ou d'hémorroïdes ;
 
-- Vision du relief normale ou satisfaisante ;
-
-- Taille minimale : 1,70 m.
+Vision du relief normale ou satisfaisante.
 
 |
 
@@ -168,21 +164,19 @@ P
 
 |
 
-Autres emplois
+Infanterie
 
 |
 
-- Pour les militaires servant en vertu d'un contrat :
+Pour les militaires servant en vertu d'un contrat :
 
 Profil médical requis pour l'admission en gendarmerie dans le statut d'appartenance tel que défini à l'annexe I.
 
-- Pour les militaires de carrière :
+Pour les militaires de carrière :
 
 Profil médical fixé à l'annexe III pour le corps d'appartenance.
 
 |
-
-- Taille minimale : 1,70m.
 
 |
 
@@ -218,17 +212,15 @@ P
 
 |
 
-- Intégrité des mouvements du rachis ;
+Intégrité des mouvements du rachis ;
 
-- Aucune amputation, totale ou partielle, de doigt ;
+Aucune amputation, totale ou partielle, de doigt ;
 
-- Très bonne paroi abdominale ;
+Très bonne paroi abdominale ;
 
-- Absence de varices ou d'hémorroïdes ;
+Absence de varices ou d'hémorroïdes ;
 
-- Vision du relief normale ou satisfaisante ;
-
-- Taille minimale : 1,70 m.
+Vision du relief normale ou satisfaisante.
 
 |
 
@@ -292,9 +284,9 @@ P
 
 |
 
-- Aucune amputation, totale ou partielle, de doigt ;
+Aucune amputation, totale ou partielle, de doigt ;
 
-- Vision du relief normale ou satisfaisante.
+Vision du relief normale ou satisfaisante.
 
 |
 
@@ -358,7 +350,7 @@ P
 
 |
 
-- Vision du relief normale ou satisfaisante.
+Vision du relief normale ou satisfaisante.
 
 |
 
@@ -422,13 +414,13 @@ P
 
 |
 
-- Aptitude à la station debout prolongée ;
+Aptitude à la station debout prolongée ;
 
-- Absence de contre-indication à la pratique du sport d'endurance (catégorie médico-physiologique I ou II) ;
+Absence de contre-indication à la pratique du sport d'endurance (catégorie médico-physiologique I ou II) ;
 
-- Aptitude au port des équipements de protection (casque, gilet d'intervention) ;
+Aptitude au port des équipements de protection (casque, gilet d'intervention) ;
 
-- Aptitude au port et à l'usage des armes.
+Aptitude au port et à l'usage des armes.
 
 |
 
@@ -492,13 +484,13 @@ P
 
 |
 
-- Aptitude à la station debout prolongée ;
+Aptitude à la station debout prolongée ;
 
-- Absence de contre-indication à la pratique du sport d'endurance (catégorie médico-physiologique I ou II);
+Absence de contre-indication à la pratique du sport d'endurance (catégorie médico-physiologique I ou II) ;
 
-- Aptitude au port des équipements de protection (casque, gilet d'intervention) ;
+Aptitude au port des équipements de protection (casque, gilet d'intervention) ;
 
-- Aptitude au port et à l'usage des armes.
+Aptitude au port et à l'usage des armes.
 
 |
 
@@ -530,9 +522,7 @@ P
 
 |
 
-Sous-officier de gendarmerie
-
-au sein de la spécialité montagne
+Sous-officier de gendarmerie au sein de la spécialité montagne
 
 |
 
@@ -564,7 +554,7 @@ P
 
 |
 
-- Vision du relief normale ou satisfaisante.
+Vision du relief normale ou satisfaisante.
 
 |
 
@@ -604,21 +594,21 @@ Pour les sous-officiers de carrière :
 
 |
 
-- Aptitude au travail en hauteur, laquelle recouvre :
+Aptitude au travail en hauteur, laquelle recouvre :
 
-- absence de troubles de l'élocution ;
+-absence de troubles de l'élocution ;
 
-- vision du relief normale ou satisfaisante ;
+-vision du relief normale ou satisfaisante ;
 
-- absence de troubles de l'équilibre ;
+-absence de troubles de l'équilibre ;
 
-- absence de vertige en hauteur (peur du vide) ;
+-absence de vertige en hauteur (peur du vide) ;
 
-- examen neurologique normal ;
+-examen neurologique normal ;
 
-- absence de maladie ou de trouble métabolique pouvant entrainer une hypoglycémie ;
+-absence de maladie ou de trouble métabolique pouvant entraîner une hypoglycémie ;
 
-- bonne stabilité émotionnelle.
+-bonne stabilité émotionnelle.
 
 |
 
@@ -770,7 +760,7 @@ P
 
 |
 
-- Être apte à la pratique du parachutisme militaire.
+Etre apte à la pratique du parachutisme militaire.
 
 |
 
@@ -802,9 +792,7 @@ P
 
 |
 
-Officier ou sous-officier de gendarmerie au sein d'un peloton de marche
-
-en gendarmerie mobile
+Officier ou sous-officier de gendarmerie au sein d'un peloton de marche en gendarmerie mobile
 
 |
 
@@ -836,19 +824,19 @@ P
 
 |
 
-- Aptitude au maintien de l'ordre, laquelle recouvre :
+Aptitude au maintien de l'ordre, laquelle recouvre :
 
-- l'aptitude à la station debout prolongée ;
+-l'aptitude à la station debout prolongée ;
 
-- absence de contre-indication à la pratique du sport d'endurance (catégorie médico-physiologique I ou II);
+-absence de contre-indication à la pratique du sport d'endurance (catégorie médico-physiologique I ou II) ;
 
-- l'aptitude au port des équipements de protection (casque, gilet d'intervention, chasuble de protection rigide articulée et protections de jambes) ;
+-l'aptitude au port des équipements de protection (casque, gilet d'intervention, chasuble de protection rigide articulée et protections de jambes) ;
 
-- l'aptitude au port et à l'usage des armes ;
+-l'aptitude au port et à l'usage des armes ;
 
-- l'aptitude à l'emploi de munitions et d'artifices à effet de souffle, irritant ou incapacitant.
+-l'aptitude à l'emploi de munitions et d'artifices à effet de souffle, irritant ou incapacitant.
 
-- Absence de pathologie chronique susceptible de compromettre la disponibilité opérationnelle.
+Absence de pathologie chronique susceptible de compromettre la disponibilité opérationnelle.
 
 |
 
@@ -880,9 +868,7 @@ P
 
 |
 
-Sous-officier de gendarmerie
-
-au sein d'un peloton d'intervention (PI)
+Sous-officier de gendarmerie au sein d'un peloton d'intervention (PI)
 
 |
 
@@ -944,9 +930,7 @@ P
 
 |
 
-Officier de gendarmerie
-
-au sein d'un peloton d'intervention (PI)
+Officier de gendarmerie au sein d'un peloton d'intervention (PI)
 
 |
 
@@ -1008,7 +992,7 @@ P
 
 |
 
-Moniteur et instructeur d'intervention professionnelle / moniteur d'intervention professionnelle et de franchissement opérationnel
+Moniteur et instructeur d'intervention professionnelle/ moniteur d'intervention professionnelle et de franchissement opérationnel
 
 |
 
@@ -1102,7 +1086,7 @@ P
 
 |
 
-- Vision du relief normale ou satisfaisante.
+Vision du relief normale ou satisfaisante.
 
 |
 
@@ -1166,7 +1150,7 @@ P
 
 |
 
-- Vision du relief normale ou satisfaisante.
+Vision du relief normale ou satisfaisante.
 
 |
 
@@ -1206,11 +1190,15 @@ Identiques à celles exigées du personnel navigant des forces armées.
 
 |
 
+|
+
 Officier de gendarmerie pour servir en qualité de pilote ou de mécanicien treuilliste
 
 |
 
 Identiques à celles exigées du personnel navigant des forces armées.
+
+|
 
 |
 
@@ -1222,27 +1210,29 @@ Identiques à celles exigées pour la plongée subaquatique et le travail en mil
 
 |
 
+|
+
 Affectation outre-mer et à l'étranger (hors opérations extérieures et missions outre-mer)
 
 |
 
-- Pour les militaires servant en vertu d'un contrat :
+Pour les militaires servant en vertu d'un contrat :
 
 Profil médical requis pour l'admission en gendarmerie dans le statut d'appartenance tel que défini à l'annexe I.
 
-- Pour les militaires de carrière :
+Pour les militaires de carrière :
 
 Profil médical fixé à l'annexe III pour le corps d'appartenance.
 
 |
 
-- Panoramique dentaire de moins de 5 ans avec soins dentaires effectués ;
+Panoramique dentaire de moins de cinq ans avec soins dentaires effectués ;
 
-- Satisfaire aux vaccinations obligatoires et réglementaires requises pour servir sur le territoire ou le pays considéré ;
+Satisfaire aux vaccinations obligatoires et réglementaires requises pour servir sur le territoire ou le pays considéré ;
 
-- Absence d'antécédents psychopathologiques ou éthyliques ;
+Absence d'antécédents psychopathologiques ou éthyliques ;
 
-- Absence de pathologie chronique susceptible de compromettre la disponibilité opérationnelle.
+Absence de pathologie chronique susceptible de compromettre la disponibilité opérationnelle.
 
 |
 
@@ -1250,26 +1240,26 @@ Opérations extérieures
 
 |
 
-- Pour les militaires servant en vertu d'un contrat :
+Pour les militaires servant en vertu d'un contrat :
 
 Profil médical requis pour l'admission en gendarmerie dans le statut d'appartenance tel que défini à l'annexe I.
 
-- Pour les militaires de carrière :
+Pour les militaires de carrière :
 
 Profil médical fixé à l'annexe III pour le corps d'appartenance.
 
 |
 
-- Panoramique dentaire de moins de 5 ans avec soins dentaires effectués ;
+Panoramique dentaire de moins de cinq ans avec soins dentaires effectués ;
 
-- Satisfaire aux vaccinations obligatoires et réglementaires requises pour servir sur le territoire ou le pays considéré ;
+Satisfaire aux vaccinations obligatoires et réglementaires requises pour servir sur le territoire ou le pays considéré ;
 
-- Absence d'antécédents psychopathologiques ou éthyliques ;
+Absence d'antécédents psychopathologiques ou éthyliques ;
 
-- Absence de pathologie chronique susceptible de compromettre la disponibilité opérationnelle ;
+Absence de pathologie chronique susceptible de compromettre la disponibilité opérationnelle ;
 
-- Selon le territoire considéré et dans les conditions fixées par le service de santé des armées, absence de contre-indications médicales à l'exposition aux rayonnements électromagnétiques ;
+Selon le territoire considéré et dans les conditions fixées par le service de santé des armées, absence de contre-indications médicales à l'exposition aux rayonnements électromagnétiques ;
 
-- Coefficient de mastication au moins égal à 30 p. 100.
+Coefficient de mastication au moins égal à 30 %.
 
 |
