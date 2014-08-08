@@ -4,15 +4,15 @@ VOLONTAIRES DANS LES ARMÉES EN SERVICE AU SEIN DE LA GENDARMERIE NATIONALE
 
 La commission d'avancement mentionnée à l'article 9 se compose des officiers désignés dans le tableau ci-après :
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-titulaire
+de la commission titulaire
 
 |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-suppléant
+de la commission suppléant
 
 |
 
@@ -20,18 +20,22 @@ MEMBRES
 
 |
 
-Le chef d'état-major de la formation administrative.
+Le commandant en second de région de gendarmerie, commandant en second de groupement chef-lieu d'implantation de la région de gendarmerie.
 
 |
 
-L'officier le plus ancien dans le grade le plus élevé de l'état-major de la formation administrative.
+/
 
 |
 
-Un officier du bureau des ressources humaines de la formation administrative désigné par le commandant de la formation administrative.
+Un officier du bureau de la gestion du personnel militaire (1) de la formation administrative désigné par le commandant de la formation administrative.
 
 |
 
 Deux sous-officiers désignés par le commandant de la formation administrative.
+
+|
+
+(1) Pour les régions de gendarmerie non implantées au siège d'une zone de défense et de sécurité, lire : bureau de la gestion du personnel .
 
 |

@@ -4,7 +4,7 @@ SOUS-OFFICIERS DE GENDARMERIE
 
 La commission d'avancement mentionnée à l'article 4 se compose des officiers désignés dans le tableau ci-après :
 
-1. Branches de la subdivision d'arme de la gendarmerie départementale.
+1. Branches de la subdivision d'arme de la gendarmerie départementale
 
 BRANCHES
 
@@ -30,15 +30,39 @@ Ensemble des formations de gendarmerie départementale placées sous l'autorité
 
 |
 
-Le chef d'état-major.
+L'officier le plus ancien dans le grade le plus élevé parmi les membres présents.
 
 |
 
-L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
+/
 
 |
 
-Les commandants de groupement ou les commandants de groupement par suppléance, les commandants des sections de recherches ou les commandants des sections de recherches par suppléance.
+Les commandants de groupement ou les commandants de groupement par suppléance (1).
+
+Les commandants des sections de recherches ou les commandants des sections de recherches par suppléance.
+
+Le commandant de la section d'appui judiciaire ou le commandant de la section d'appui judiciaire par suppléance.
+
+Le commandant en second de région de gendarmerie, commandant en second de groupement chef-lieu d'implantation de la région de gendarmerie.
+
+|
+
+Ensemble des formations de gendarmerie départementale placées sous l'autorité du commandant de région de gendarmerie, commandant la gendarmerie pour la zone de défense et de sécurité.
+
+|
+
+Commandant en second de la région de gendarmerie, commandant en second de la gendarmerie pour la zone de défense et de sécurité.
+
+|
+
+L'officier le plus ancien dans le grade le plus élevé parmi les membres présents.
+
+|
+
+Les commandants de groupement ou les commandants de groupement par suppléance.
+
+Les commandants des sections de recherches ou les commandants des sections de recherches par suppléance.
 
 Le commandant de la section d'appui judiciaire ou le commandant de la section d'appui judiciaire par suppléance.
 
@@ -56,7 +80,11 @@ L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-ma
 
 |
 
-Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major, les commandants de groupement ou les commandants de groupement par suppléance, le commandant de la section de recherches ou le commandant de la section de recherches par suppléance.
+Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
+
+Les commandants de groupement ou les commandants de groupement par suppléance.
+
+Le commandant de la section de recherches ou le commandant de la section de recherches par suppléance.
 
 |
 
@@ -72,7 +100,11 @@ L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-ma
 
 |
 
-Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major, les commandants de groupement ou les commandants de groupement par suppléance, le commandant de la section de recherches ou le commandant de la section de recherches par suppléance.
+Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
+
+Les commandants de groupement ou les commandants de groupement par suppléance.
+
+Le commandant de la section de recherches ou le commandant de la section de recherches par suppléance.
 
 |
 
@@ -88,7 +120,11 @@ L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-ma
 
 |
 
-Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major, les commandants de groupement ou les commandants de groupement par suppléance, le commandant de la section de recherches ou le commandant de la section de recherches par suppléance.
+Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
+
+Les commandants de groupement ou les commandants de groupement par suppléance.
+
+Le commandant de la section de recherches ou le commandant de la section de recherches par suppléance.
 
 |
 
@@ -108,7 +144,11 @@ Deux officiers supérieurs de la branche considérée, à défaut, désignés pa
 
 |
 
-2. Branches de la subdivision d'arme de la gendarmerie mobile.
+(1) Ne sont pas visés les groupements chefs-lieux d'implantation des régions de gendarmerie.
+
+|
+
+2. Branches de la subdivision d'arme de la gendarmerie mobile
 
 BRANCHES
 
@@ -134,9 +174,11 @@ Ensemble des formations de gendarmerie mobile placées sous l'autorité du comma
 
 |
 
-Le commandant en second de la région de gendarmerie située au siège de la zone de défense et de sécurité. |
+Le commandant en second de la région de gendarmerie située au siège de la zone de défense et de sécurité.
 
-L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
+|
+
+Le chef de l'appui opérationnel (1).
 
 |
 
@@ -162,7 +204,11 @@ L'administrateur, régisseur des formations musicales de la garde républicaine.
 
 |
 
-3. Branches communes aux deux subdivisions d'arme.
+(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire chef d'état-major .
+
+|
+
+3. Branches communes aux deux subdivisions d'arme
 
 BRANCHES
 
@@ -184,7 +230,7 @@ MEMBRES
 
 |
 
-Personnel servant outre-mer, en assistance militaire technique
+Personnel servant outre-mer, en assistance militaire technique.
 
 |
 
@@ -358,7 +404,7 @@ Un officier supérieur du pôle judiciaire désigné par le commandant du pôle 
 
 |
 
-4. Spécialités.
+4. Spécialités
 
 BRANCHES
 
