@@ -1,10 +1,10 @@
-# Article Annexe III
+# Article Annexe V
 
 La voie A TB du concours comporte les épreuves ci-après, affectées des coefficients suivants :
 
 Epreuves écrites d'admissibilité
 
-MATIÈRE
+MATIÈRES
 
 |
 
@@ -12,7 +12,7 @@ DURÉE
 
 |
 
-COEFFICIENT
+COEFFICIENTS
 
 |
 
@@ -92,6 +92,8 @@ Total
 
 |
 
+|
+
 15
 
 |
@@ -114,7 +116,7 @@ Langue vivante obligatoire (*)
 
 Epreuves orales d'admission
 
-MATIÈRE
+MATIÈRES
 
 |
 
@@ -122,7 +124,7 @@ DURÉE
 
 |
 
-COEFFICIENT
+COEFFICIENTS
 
 |
 
@@ -277,6 +279,8 @@ Langue vivante obligatoire (**)
 |
 
 Total
+
+|
 
 |
 

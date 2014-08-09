@@ -1,10 +1,10 @@
-# Article Annexe V
+# Article Annexe VII
 
 La voie C du concours comporte les épreuves ci-après, affectées des coefficients suivants :
 
 Epreuves écrites d'admissibilité
 
-MATIÈRE
+MATIÈRES
 
 |
 
@@ -12,7 +12,7 @@ DURÉE
 
 |
 
-COEFFICIENT
+COEFFICIENTS
 
 |
 
@@ -80,21 +80,23 @@ Total
 
 |
 
+|
+
 8
 
 |
 
 Epreuves orales d'admission
 
-MATIÈRE
+MATIÈRES
 
 |
 
-DUREE
+DURÉE
 
 |
 
-COEFFICIENT
+COEFFICIENTS
 
 |
 
@@ -120,7 +122,7 @@ Entretien avec le jury (*)
 
 |
 
-TP de biologie
+TP de Biologie
 
 |
 
@@ -156,11 +158,15 @@ Total
 
 |
 
+|
+
 9
 
 |
 
-(*) L'épreuve d'entretien porte sur les motivations des candidats, leurs projets professionnels et sur une discussion sur un thème de culture générale appliqué à la biologie, à l'alimentation, à l'environnement et aux secteurs agronomique et vétérinaire.
+(*) L'épreuve d'entretien porte sur les motivations des candidats, leurs projets professionnels et sur une discussion
+
+sur un thème de culture générale appliqué à la biologie, à l'alimentation, à l'environnement et aux secteurs agronomique et vétérinaire.
 
 (**) L'épreuve de langue vivante est en anglais.
 
