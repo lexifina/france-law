@@ -2,7 +2,7 @@
 
 COMITÉS D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL
 
-CONSTITUÉS EN APPLICATION DES ARTICLES 31 Et 32 DU DÉCRET N° 82-453 DU 28 MAI 1982, MODIFIÉ PAR LE DÉCRET N° 2011-774 DU 28 JUIN 2011
+CONSTITUÉS EN APPLICATION DES ARTICLES 31 ET 32 DU DÉCRET N° 82-453 DU 28 MAI 1982 MODIFIÉ
 
 INSTANCE
 
@@ -22,13 +22,11 @@ NOMBRE DE SIÈGES
 
 |
 
-COMITÉ (S)
+COMITÉ (S) TECHNIQUE (S)
 
-technique (s) auxquel (s)
+au (x) quel (s) le CHSCT
 
-le CHSCT apporte
-
-son concours
+apporte son concours
 
 |
 
@@ -40,15 +38,17 @@ Suppléants
 
 |
 
-CHSCT ministériel unique
+CHSCT
+
+ministériel unique
 
 |
 
-Ministre de l'économie, des finances et de l'industrie, ministre du budget, des comptes publics et de la réforme de l'Etat, ministre de la fonction publique
+Ministre des finances et des comptes publics, ministre de l'économie, du redressement productif et du numérique, ministre de la décentralisation et de la fonction publique
 
 |
 
-Ensemble des directions et service des trois départements ministériels
+Ensemble des directions et services des trois départements ministériels, à l'exception de la direction générale des collectivités locales
 
 |
 
@@ -64,17 +64,19 @@ Comité technique ministériel unique
 
 |
 
-CHSCT unique d'administration centrale
+CHSCT unique
+
+d'administration centrale
 
 |
 
-Secrétaire général du ministère de l'économie, des finances et de l'industrie et du ministère du budget, des comptes publics et de la réforme de l'Etat
+Secrétaire général des ministères économiques et financiers
 
 |
 
-Directions et services de l'administration centrale des trois départements ministériels ;
+Directions et services de l'administration centrale des trois départements minis tériels, à l'exception de la direction générale des collectivités locales ;
 
-Services centraux de la direction générale des finances publiques (hors agents rattachés au CHSCT de la Charente-Maritime et de la Loire-Atlantique), de la direction des douanes et droits indirects, de l'INSEE (hors centre de Metz) et de la direction générale de la concurrence, de la consommation et de la répression des fraudes (SCN de l'Ecole nationale de la CCRF, service de l'informatique et service national des enquêtes inclus)
+Services centraux de la direction générale des finances publiques (hors agents rattachés au CHSCT de Charente-Maritime et de Loire Atlantique), de la direction des douanes et droits indirects, de l'INSEE (y compris centre national d'informatique de Paris et hors centre de Metz et hors centre de formation de l'INSEE-CEFIL) et de la direction générale de la concurrence, de la consommation et de la répression des fraudes (service à compétence nationale de l'Ecole nationale de la CCRF, service de l'informatique et service national des enquêtes inclus)
 
 |
 
