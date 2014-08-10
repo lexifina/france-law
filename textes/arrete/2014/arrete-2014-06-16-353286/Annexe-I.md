@@ -1,8 +1,8 @@
-# Article Annexe II
+# Article Annexe I
 
 PROGRAMME D'ÉVALUATION
 
-L'évaluation se réfère à une ou des espèces d'animaux de compagnie d'espèces domestiques et repose sur les huit thématiques du logement, de l'alimentation, de la reproduction, de la médecine animale, du comportement, de la sélection, du transport et du droit.
+L'évaluation se réfère à une ou des catégories d'animaux de compagnie d'espèces domestiques et repose sur les huit thématiques du logement, de l'alimentation, de la reproduction, de la médecine animale, du comportement, de la sélection, du transport et du droit.
 
 Domaine logement : mobiliser les connaissances permettant d'assurer aux animaux de compagnie un logement confortable et répondant aux nécessités d'hygiène et de propreté :
 
@@ -10,9 +10,7 @@ CHAMP DE CONNAISSANCES
 
 |
 
-CAPACITÉS MINIMALES
-
-attendues
+CAPACITÉS MINIMALES ATTENDUES
 
 |
 
@@ -22,7 +20,11 @@ Normes.
 
 Equipements, matériels et litières : avantages et inconvénients.
 
-Maîtrise de l'ambiance dans les locaux : température, hygrométrie, éclairement, aération, ammoniac.
+Maîtrise de l'ambiance dans les locaux :
+
+- température, hygrométrie, éclairement, aération ;
+
+- ammoniac.
 
 Nettoyage, désinfection, dératisation, désinsectisation, marche en avant.
 
@@ -46,9 +48,7 @@ CHAMP DE CONNAISSANCES
 
 |
 
-CAPACITÉS MINIMALES
-
-attendues
+CAPACITÉS MINIMALES ATTENDUES
 
 |
 
@@ -94,9 +94,7 @@ CHAMP DE CONNAISSANCES
 
 |
 
-CAPACITÉS MINIMALES
-
-attendues
+CAPACITÉS MINIMALES ATTENDUES
 
 |
 
@@ -130,15 +128,13 @@ Citer les caractéristiques de la ponte et de la couvaison des oiseaux.
 
 |
 
-Domaine médecine animale : mobiliser les connaissances permettant d'assurer aux animaux de compagnie des soins appropriés et de les maintenir en bon état sanitaire :
+Domaine santé animale : mobiliser les connaissances permettant d'assurer aux animaux de compagnie des soins appropriés et de les maintenir en bon état sanitaire :
 
 CHAMP DE CONNAISSANCES
 
 |
 
-CAPACITÉS MINIMALES
-
-attendues
+CAPACITÉS MINIMALES ATTENDUES
 
 |
 
@@ -154,7 +150,9 @@ Notion de période de risque.
 
 Premiers soins simples (en cas de troubles digestifs, fièvre, blessures légères).
 
-Liste des mesures sanitaires et médicales : vaccination, vermifugation, déparasitage externe.
+Liste des mesures sanitaires et médicales :
+
+- vaccination, vermifugation, déparasitage externe.
 
 Urgences : accident, hémorragie, intoxication.
 
@@ -182,17 +180,13 @@ CHAMP DE CONNAISSANCES
 
 |
 
-CAPACITÉS MINIMALES
-
-attendues
+CAPACITÉS MINIMALES ATTENDUES
 
 |
 
 Notion de périodes de développement et leurs conséquences.
 
-Notion de périodes sensibles et fixation de la peur.
-
-Eléments de socialisation.
+Notion de périodes sensibles et fixation de la peur. Eléments de socialisation.
 
 Notion de hiérarchie et d'espace, signes comportementaux.
 
@@ -202,7 +196,7 @@ Bien-être et stress.
 
 Besoins affectifs de l'animal.
 
-Tendances comportementales des principales races, variations individuelles, notion d'inné et d'acquis.
+Principales tendances comportementales, variations individuelles, notion d'inné et d'acquis.
 
 Grands principes d'éducation des jeunes animaux : arrivée au foyer, obéissance générale, structures d'aide à l'éducation et à la rééducation d'un animal.
 
@@ -224,9 +218,7 @@ CHAMP DE CONNAISSANCES
 
 |
 
-CAPACITÉS MINIMALES
-
-attendues
+CAPACITÉS MINIMALES ATTENDUES
 
 |
 
@@ -240,17 +232,17 @@ Rôle des associations de promotion et d'amélioration des animaux de race.
 
 Responsabilité civile des propriétaires.
 
-Identification des animaux.
+Identification des animaux et formalités lors de changement de détenteur.
 
 Réglementation du commerce, échanges et importations d'animaux.
 
-Maladies réputées légalement contagieuses.
+Dangers sanitaires de première et deuxième catégories.
 
-Loi contre la divagation des animaux.
+Divagation des animaux.
 
-Animaux dangereux et errants.
+Animaux dangereux et errants ; chiens catégorisés.
 
-Notion d'exercice illégal de la médecine vétérinaire.
+Notion d'exercice illégal de la médecine vétérinaire
 
 |
 
@@ -258,15 +250,13 @@ Citer les principes légaux régissant la protection animale.
 
 Décrire l'organisation de la protection animale.
 
-Présenter la responsabilité civile du propriétaire en cas de
-
-dommage ou nuisance.
+Présenter la responsabilité civile du propriétaire en cas de dommage ou nuisance.
 
 Présenter les modalités de l'identification.
 
-Citer les principales règles régissant le commerce, les échanges
+Citer les formalités liées au changement de détenteur
 
-et les importations d'animaux.
+Citer les principales règles régissant le commerce, les échanges et les importations d'animaux, les garanties relatives aux ventes.
 
 Citer les obligations administratives du détenteur d'animaux en cas d'apparition d'une maladie contagieuse.
 
@@ -276,15 +266,13 @@ Citer des actes réservés aux vétérinaires.
 
 |
 
-Domaine transport : mobiliser la connaissance des dispositions requises pour garantir le bien être des animaux de compagnie d'espèces domestiques au cours du transport.
+Domaine transport : mobiliser la connaissance des dispositions requises pour garantir le bien être des animaux de compagnie d'espèces domestiques au cours du transport :
 
 CHAMP DE CONNAISSANCES
 
 |
 
-CAPACITÉS MINIMALES
-
-attendues
+CAPACITÉS MINIMALES ATTENDUES
 
 |
 
@@ -296,7 +284,7 @@ Conception des équipements et des cages.
 
 Modalités de transport.
 
-Bien être des animaux.
+Bien-être des animaux.
 
 Risques pour l'animal.
 
@@ -304,11 +292,13 @@ Risques pour les personnes.
 
 Le transporteur, le convoyeur.
 
+Réglementation européenne sur les mouvements d'animaux de compagnie.
+
 |
 
 Citer les exigences réglementaires liées au véhicule, aux conteneurs.
 
-Citer les fonctions/ rôles attendus.
+Citer les fonctions/rôles attendus.
 
 Présenter les caractéristiques pour le nettoyage et la désinfection.
 
@@ -318,6 +308,8 @@ Définir la notion de porteur sain, de maladies transmissibles.
 
 Citer les exigences réglementaires liées aux personnes.
 
+Citer les conditions applicables aux chiens, chats et furets.
+
 |
 
 Domaine sélection : mobiliser les connaissances de la sélection animale :
@@ -326,15 +318,13 @@ CHAMP DE CONNAISSANCES
 
 |
 
-CAPACITÉS MINIMALES
-
-attendues
+CAPACITÉS MINIMALES ATTENDUES
 
 |
 
 Races, standard de races et lignées.
 
-LOF (Livre des origines français), LOOF (Livre officiel des originesfélines) et certification de races.
+LOF (Livre des origines français), LOOF (Livre officiel des origines félines) et certification de races.
 
 Espérance de vie.
 

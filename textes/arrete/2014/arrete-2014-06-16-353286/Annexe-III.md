@@ -1,8 +1,6 @@
-# Article Annexe I
+# Article Annexe III
 
-LISTE DES ÉTABLISSEMENTS HABILITÉS POUR L'ORGANISATION DE L'ÉVALUATION DES CONNAISSANCES REQUISES
-
-POUR L'EXERCICE D'ACTIVITÉS LIÉES AUX ANIMAUX DE COMPAGNIE D'ESPÈCES DOMESTIQUES
+LISTE DES ÉTABLISSEMENTS HABILITÉS À TITRE TRANSITOIRE ET AU PLUS TARD JUSQU'AU 31 DÉCEMBRE 2014 POUR L'ORGANISATION DE L'ÉVALUATION DES CONNAISSANCES REQUISES POUR L'EXERCICE D'ACTIVITÉS LIÉES AUX ANIMAUX DE COMPAGNIE D'ESPÈCES DOMESTIQUES
 
 RÉGIONS
 
@@ -36,7 +34,7 @@ EPLEFPA Etienne-Restat, 47110 Sainte-Livrade.
 
 |
 
-CFA de Lot-et-Garonne, 47110 Sainte-Livrade.
+CFA du Lot-et-Garonne, 47110 Sainte-Livrade.
 
 |
 
@@ -44,7 +42,7 @@ Auvergne
 
 |
 
-EPLEFPA des Combrailles, avenue de la Gare, 63390 Saint- Gervais-d'Auvergne.
+EPLEFPA des Combrailles, avenue de la Gare, 63390 Saint-Gervais-d'Auvergne.
 
 |
 
@@ -56,7 +54,7 @@ Bourgogne
 
 |
 
-EPLEFPA de Champs-sur-Yonne, 1, rue du Docteur-Schweitzer, 89290 Champs-sur-Yonne.
+EPLEFPA de Champs-sur Yonne, 1, rue du Docteur-Schweitzer, 89290 Champs-sur-Yonne.
 
 |
 
@@ -68,7 +66,7 @@ Bretagne
 
 |
 
-EPLEFPA, 6, rue de Porhoët, BP 9, 22230 Merdrignac.
+EPLEFPA, 6, rue de Porhoêt, BP 9, 22230 Merdrignac.
 
 |
 
@@ -108,7 +106,7 @@ EPLEFPA, "Aghja-Rossa", 20290 Borgo-Marana.
 
 |
 
-CFPPA de Borgo, "Aghja-Rossa", 20290 Borgo-Marana.
+CFPPA de Borgo, Aghja-Rossa, 20290 Borgo-Marana.
 
 |
 
@@ -132,7 +130,7 @@ EPLEFPA de Guadeloupe, Convenance, 97122 Baie-Mahault.
 
 |
 
-CFPPA de Basse-Terre, Chantilly, 97129 Lamentin.
+CFPPA de Basse-Terre, Chantilly, 97129 Le Lamentin.
 
 |
 
@@ -140,11 +138,11 @@ Guyane
 
 |
 
-EPLEFPA de Macouria, lieudit "Say a ne-Ma titi", 97355 Macouria.
+EPLEFPA de Macouria, lieudit Savane-Matiti, 97355 Macouria.
 
 |
 
-CFPPA de Macouria, lieudit "Savane-Matiti", 97355 Macouria.
+CFPPA de Macouria, lieudit Savane-Matiti, 97355 Macouria.
 
 |
 
@@ -152,15 +150,15 @@ Ile-de-France
 
 |
 
-EPLEFPA, Route des Princesses, 78100 Saint-Germain-en-Laye.
+EPLEFPA, route des Princesses, 78100 Saint-Germain-en -Laye.
 
 ENV Alfort, 7, avenue du Général-de-Gaulle, 94704 Maisons-Alfort Cedex.
 
 |
 
-CFPPA de Saint-Germain-en-Laye, route des Princesses, 78100 Saint-Germain-en-Laye.
+CFPPA de Saint-Germain-en -Laye, route des Princesses, 78100 Saint-Germain-en-Laye.
 
-Ecole nationale vétérinaire, 7, avenue du Général-de-Gaulle, 94704 Maisons-Alfort Cedex.
+Ecole nationale vétérinaire, Alfort, 7, avenue du Général-de-Gaulle, 94704 Maisons-Alfort Cedex.
 
 |
 
@@ -172,7 +170,7 @@ EPLEFPA de l'Hérault, site Agropolis, 3224, route de Mende, 34093 Montpellier C
 
 |
 
-CFPPA de Pezenas, site "La Condamine", 8, allée du Général-Montagne, BP 83, 34120 Pezenas.
+CFPPA de Pezenas, site La Condamine, 8, allée du Général-Montagne, BP 83, 34120 Pezenas.
 
 |
 
@@ -192,11 +190,11 @@ Lorraine
 
 |
 
-EPLEFPA de la Meuse, " Philippe-de-Vimorin", BP 249, 55006 Bar-le-Duc Cedex.
+EPLEFPA de la Meuse, Philippe-de-Vimorin, BP 249, 55006 Bar-le-Duc Cedex.
 
 |
 
-CFPPA de la Meuse, "Philippe-de-Vimorin", BP 49, 55006 Bar-le-Duc Cedex.
+CFPPA de la Meuse, Philippe-de-Vimorin, BP 249, 55006 Bar-le-Duc Cedex.
 
 |
 
@@ -224,7 +222,7 @@ CFA du Lot, avenue de la Garenne, 46500 Gramat.
 
 |
 
-Nord -Pas-de-Calais
+Nord-Pas-de-Calais
 
 |
 
@@ -252,7 +250,7 @@ Haute-Normandie
 
 |
 
-EPLEFPA d'Yvetot, Auzebosc, BP 218, 76196 Yvetot Cedex,
+EPLEFPA d'Yvetot, Auzebosc, BP 218, 76196 Yvetot Cedex.
 
 |
 
@@ -264,11 +262,9 @@ Pays de la Loire
 
 |
 
-EPLEFPA La Roche-sur-Yon, allée des Druides, 85035 La Roche- sur-Von Cedex.
+EPLEFPA La Roche-sur-Yon, allée des Druides, 85035
 
 |
-
-CFPPA La Roche-sur-Yon, allée des Druides, 85035 La Roche-sur-Von Cedex.
 
 |
 
@@ -276,7 +272,7 @@ Picardie
 
 |
 
-EPLEFPA, Fondation E.-Guynemer, 02650 Crézancy.
+EPLEFPA, Fondation E. Guynemer, 02650 Crézancy.
 
 |
 
@@ -288,7 +284,7 @@ Poitou-Charentes
 
 |
 
-EPLEFPA Poitiers-Venours, "Xavier-Bernard", 86480 Rouillé.
+EPLEFPA Poitiers-Venours, Xavier-Bernard, 86480 Rouillé.
 
 |
 
@@ -330,7 +326,7 @@ ENV Lyon, 1, avenue Bourgelat, BP 83, 69280 Marcy-l'Etoile.
 
 |
 
-EPLEFPA Edouard-Herriot, domaine de Cibeins, 01600 Misérieux.
+EPLEFPA, Edouard-Herriot, domaine de Cibeins, 01600 Misérieux.
 
 Ecole nationale vétérinaire, 1, avenue Bourgelat, BP 83, 69280 Marcy-l'Etoile.
 
