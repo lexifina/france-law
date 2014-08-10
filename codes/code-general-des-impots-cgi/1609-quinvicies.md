@@ -1,6 +1,6 @@
 # Article 1609 quinvicies
 
-I.-Il est institué une contribution supplémentaire à l'apprentissage.
+I. – Il est institué une contribution supplémentaire à l'apprentissage.
 
 Cette contribution est due par les entreprises de deux cent cinquante salariés et plus qui sont redevables de la taxe d'apprentissage en application de l'article 1599 ter A et dont l'effectif annuel moyen, pour l'ensemble des catégories suivantes, est inférieur à un seuil :
 
@@ -16,7 +16,7 @@ a) L'entreprise justifie d'une progression de l'effectif annuel moyen des salari
 
 b) L'entreprise a connu une progression de l'effectif annuel moyen des salariés relevant des catégories définies au même 1° et relève d'une branche couverte par un accord prévoyant au titre de l'année une progression d'au moins 10 % du nombre de salariés relevant des catégories définies audit 1° dans les entreprises de deux cent cinquante salariés et plus et justifiant, par rapport à l'année précédente, que la progression est atteinte dans les proportions prévues par l'accord au titre de l'année considérée.
 
-II.-Cette contribution est assise sur les rémunérations retenues pour l'assiette de la taxe d'apprentissage en application des articles 1599 ter B et 1599 ter C.
+II. – Cette contribution est assise sur les rémunérations retenues pour l'assiette de la taxe d'apprentissage en application des articles 1599 ter B et 1599 ter C.
 
 Elle est calculée aux taux suivants :
 
@@ -28,16 +28,20 @@ Elle est calculée aux taux suivants :
 
 III. ― Pour les entreprises visées à l'article L. 1251-2 du code du travail, les seuils définis au I s'apprécient sans prendre en compte les salariés titulaires d'un contrat de travail mentionné au 2° de l'article L. 1251-1 du même code et la contribution n'est pas due sur les rémunérations versées à ces salariés.
 
-IV. ― Les dépenses visées aux articles 1599 ter E, 1599 ter F et 1599 ter G ne sont pas admises en exonération de la contribution mentionnée au I.
+IV. – Les dépenses visées aux articles 1599 ter E, 1599 ter F et 1599 ter G ne sont pas admises en exonération de la contribution mentionnée au I.
 
 Les articles 1599 ter K, 1599 ter L, 1599 ter M et les I et III de l'article 1678 quinquies sont applicables à cette contribution. Pour les établissements mentionnés à l'article 1599 ter J, les taux prévus au II sont réduits à 52 % de leur montant.
 
-V. ― Le montant de la contribution mentionnée au I est versé aux organismes collecteurs agréés mentionnés aux articles L. 6242-1 et L. 6242-2 du code du travail avant le 1er mars de l'année suivant celle du versement des salaires. A défaut de versement ou en cas de versement insuffisant à la date précitée, le montant de la contribution est versé au comptable public compétent selon les modalités définies au III de l'article 1678 quinquies, majoré de l'insuffisance constatée.
+V. – Le montant de la contribution mentionnée au I est versé aux organismes collecteurs agréés mentionnés aux articles L. 6242-1 et L. 6242-2 du code du travail avant le 1er mars de l'année suivant celle du versement des salaires. A défaut de versement ou en cas de versement insuffisant à la date précitée, le montant de la contribution est versé au comptable public compétent selon les modalités définies au III de l'article 1678 quinquies, majoré de l'insuffisance constatée.
 
-Le produit de la contribution supplémentaire à l'apprentissage est affecté aux centres de formation d'apprentis et aux sections d'apprentissage, selon les modalités définies en application du II de l'article L. 6241-2 du code du travail.
+Le produit de la contribution supplémentaire à l'apprentissage est affecté aux centres de formation d'apprentis et aux sections d'apprentissage, selon les modalités définies en application du II de l'article L. 6241-2 et de l'article L. 6241-3 du code du travail.
 
-Les organismes mentionnés au premier alinéa reversent les sommes perçues en application du même premier alinéa au plus tard le 31 mai de la même année.
+Les organismes mentionnés au premier alinéa reversent les sommes perçues en application du même premier alinéa au plus tard le 15 juillet de la même année.
 
 NOTA :
 
 Dans sa décision n° 2013-371 QPC du 7 mars 2014 (NOR CSCX1405774S), le Conseil constitutionnel a déclaré le premier alinéa du paragraphe V de l'article 230 H du code général des impôts conforme à la Constitution, sous la réserve énoncée au considérant 9.
+
+Loi n° 2014-891 du 8 août 2014, art. 8 VI, ces dispositions s'appliquent aux impositions dues au titre des rémunérations versées à compter du 1er janvier 2014.
+
+Toutefois, les exonérations attachées aux dépenses libératoires engagées, au titre de ces mêmes impositions, du 1er janvier 2014 jusqu'à la publication de la présente loi sont maintenues sur le fondement des dispositions en vigueur à la date du versement effectif de ces dépenses.
