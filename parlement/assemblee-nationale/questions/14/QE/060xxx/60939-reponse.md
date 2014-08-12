@@ -1,0 +1,9 @@
+# Réponse à la question n° 60939
+
+- Question : [60939](60939.md) — Question n° 60939 — déplacement du ministre; Salon international aéronautique
+
+## Réponse
+
+*JO du 2014-08-12*
+
+A l'occasion du salon aéronautique de Farnborough, le 15 juillet dernier, le ministre de la défense et son homologue britannique ont signé deux accords de coopération industrielle d'une grande ampleur symbolique et stratégique. La France et le Royaume-Uni ont ainsi acté leur intention, déclarée lors du sommet de Brize Norton au mois de janvier 2014, de conduire une étude portant sur la faisabilité d'un système de combat aérien du futur. Au total, outre la direction générale de l'armement et les équipes du ministère de la défense britannique, six industriels des deux pays (BAE Systems, Rolls-Royce, Selex, Dassault Aviation, Safran et Thales) seront impliqués dans ce projet qui mobilisera un budget de 150 M€ financé à parts égales par les deux gouvernements. Au terme de cette phase préparatoire, d'une durée de deux ans, la France et le Royaume-Uni devront être en mesure d'initier le développement d'un démonstrateur de drone de combat, puis, ultérieurement, d'engager un programme opérationnel devant aboutir à la livraison des premiers aéronefs à l'horizon 2030. Par ailleurs, les deux ministres ont paraphé un accord prévoyant, tout en prenant en compte les besoins spécifiques des deux États, de préparer en commun la rénovation des missiles de croisière SCALP-EG/Storm Shadow, dont le développement initial, 25 ans plus tôt, avait déjà donné lieu à une coopération industrielle entre la France et le Royaume-Uni. La signature de ces accords témoigne de la confiance réciproque entre les deux États, qui entendent partager l'effort financier et mutualiser leurs compétences pour rester aux avant-postes dans les domaines de la défense et de la sécurité et, au-delà, contribuer de manière pragmatique et efficace au renforcement des capacités de Défense en Europe.
