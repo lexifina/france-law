@@ -1,0 +1,9 @@
+# Réponse à la question n° 47835
+
+- Question : [47835](47835.md) — Question n° 47835 — services d'hygiène et de santé
+
+## Réponse
+
+*JO du 2014-08-12*
+
+Si la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales n'a pas prévu de dispositions spécifiques concernant une extension territoriale de services communaux d'hygiène et de santé, elle a en revanche organisé, dans un souci de rationalisation de la carte intercommunale, la possibilité pour le préfet de département d'étendre le périmètre des établissements publics de coopération intercommunale (EPCI), en application notamment de l'article L. 5211-18 du code général des collectivités territoriales. Lorsqu'un arrêté préfectoral est pris à cette fin, l'extension de périmètre a vocation à s'appliquer également aux compétences exercées par l'EPCI. Selon l'article L. 1422-1 du code de la santé publique, les services communaux d'hygiène et de santé « relèvent de la compétence des communes ou, le cas échéant, des groupements de communes (...) ». Bien que ces services relèvent d'une compétence facultative, la rédaction de cet article amène à considérer qu'il ne peut coexister deux services d'hygiène et de santé sur un même territoire. Ainsi, si le périmètre d'un EPCI, compétent en matière de services d'hygiène et de santé, est étendu sur le territoire d'une nouvelle commune, ce service devient également compétent sur le territoire de cette dernière, à l'exclusion de tout autre service d'hygiène et de santé. Enfin, l'habilitation des agents pouvant constater les infractions pénales dans le domaine de la protection de la santé, prévue aux articles L. 1312-1 et R. 1312-1 et suivants du code de la santé publique, leur permet d'intervenir sur l'ensemble du territoire de la collectivité territoriale ou du groupement de collectivités territoriales dont ils relèvent. Ces agents peuvent donc intervenir sur le territoire des communes ayant été rattachées à leur EPCI.
