@@ -1,0 +1,9 @@
+# Réponse à la question n° 51132
+
+- Question : [51132](51132.md) — Question n° 51132 — rapport annuel 2014; conclusions
+
+## Réponse
+
+*JO du 2014-08-12*
+
+L'évolution du marché sur le segment du lancement des satellites commerciaux a notamment été marquée, dans un passé récent, par l'émergence de nouveaux lanceurs étrangers dotés de grandes capacités, entraînant un renforcement de la concurrence internationale. Il est donc apparu indispensable d'envisager le remplacement de l'actuel lanceur Ariane 5 ECA par un vecteur européen répondant aux besoins institutionnels des États membres de l'Agence spatiale européenne (ASE) et adapté aux exigences commerciales du marché. Dans ce contexte, le Gouvernement partage bien entendu la préoccupation exprimée par la Cour des comptes de donner la priorité à la réduction des coûts du système de lancement, ce qui suppose la refonte du modèle industriel en vigueur sur lequel repose Ariane 5. Les travaux des États membres de l'ASE tendant à faire face à ces enjeux et à préparer les décisions relatives au devenir du programme Ariane qui seront prises lors du prochain conseil ministériel de l'Agence, qui se déroulera à Luxembourg au mois de décembre 2014, ont été engagés dès novembre 2012. Ils se poursuivent actuellement avec le concours du Centre national d'études spatiales pour la partie française. Ces travaux sont suivis avec la plus grande attention par le ministre chargé de la recherche, ainsi que par ses homologues concernés par le dossier spatial. A cet égard, il convient d'observer que l'annonce récente faite par les sociétés Airbus Defence & Space et Safran de se rapprocher afin de prendre en charge les différentes étapes des activités lanceurs, depuis la conception jusqu'à l'exploitation, tout en étant responsabilisées sur les contraintes et les exigences économiques du dossier, constitue une initiative prometteuse au regard des attentes de l'ASE.
