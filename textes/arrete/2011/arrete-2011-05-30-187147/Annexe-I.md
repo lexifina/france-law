@@ -80,7 +80,7 @@ Ingénieurs des travaux maritimes
 
 |
 
-Ingénieur général, ingénieur en chef
+Ingénieur en chef
 
 |
 
@@ -92,27 +92,11 @@ Ingénieur général, ingénieur en chef
 
 |
 
-2
-
-|
-
-2
-
-|
-
-Ingénieur de 1re et de 2e classe
-
-|
-
 1
 
 |
 
 1
-
-|
-
-|
 
 |
 

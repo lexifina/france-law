@@ -108,13 +108,11 @@ Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+- Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
 
 Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
-
-Agents en fonctions dans les sociétés DCNs, GIAT/NEXTER et au sein du Commissariat à l'énergie atomique
 
 Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense
 
@@ -140,7 +138,15 @@ Agents en fonctions au sein des établissements publics suivants :
 
 - Institut des hautes études de la défense nationale
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense
+Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
+
+Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :
+
+- Bourges (Cher) ;
+
+- Tours (Indre-et-Loire) ;
+
+- Orléans (Loiret).
 
 |
 
@@ -262,6 +268,8 @@ Agents en fonctions dans les organismes extérieurs de la direction du service n
 
 - centre du service national Perpignan
 
+Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+
 |
 
 Adjoint administratif principal de 1re classe
@@ -313,8 +321,6 @@ Le directeur du centre ministériel de gestion de Metz
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
 - Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
-
-Agents en fonctions au sein du centre du service national de Compiègne
 
 Agents en fonctions au sein du service des essences des armées
 
@@ -374,7 +380,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure des ingénieurs des études et techniques d'armement
+- Ecole nationale supérieure des techniques avancées Bretagne
 
 - service hydrographique et océanographique de la marine
 
@@ -636,13 +642,11 @@ Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+- Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
 
 Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
-
-Agents en fonctions dans les sociétés DCNs, GIAT/NEXTER et au sein du Commissariat à l'énergie atomique
 
 Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense
 
@@ -668,7 +672,15 @@ Agents en fonctions au sein des établissements publics suivants :
 
 - Institut des hautes études de la défense nationale
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense
+Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
+
+Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :
+
+- Bourges (Cher) ;
+
+- Tours (Indre-et-Loire) ;
+
+- Orléans (Loiret).
 
 |
 
@@ -786,6 +798,8 @@ Agents en fonctions dans les organismes extérieurs de la direction du service n
 
 - centre du service national Perpignan
 
+Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+
 |
 
 Agent technique principal de 1re classe
@@ -835,8 +849,6 @@ Le directeur du centre ministériel de gestion de Metz
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
 - Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
-
-Agents en fonctions au sein du centre du service national de Compiègne
 
 Agents en fonctions au sein du service des essences des armées
 
@@ -894,7 +906,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure des ingénieurs des études et techniques d'armement
+- Ecole nationale supérieure des techniques avancées Bretagne
 
 - service hydrographique et océanographique de la marine
 
@@ -1190,13 +1202,11 @@ Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+- Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
 
 Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
-
-Agents en fonctions dans les sociétés DCNs, GIAT/NEXTER et au sein du Commissariat à l'énergie atomique
 
 Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense
 
@@ -1222,7 +1232,15 @@ Agents en fonctions au sein des établissements publics suivants :
 
 - Institut des hautes études de la défense nationale
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense
+Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
+
+Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :
+
+- Bourges (Cher) ;
+
+- Tours (Indre-et-Loire) ;
+
+- Orléans (Loiret).
 
 |
 
@@ -1328,6 +1346,8 @@ Agents en fonctions dans les organismes extérieurs de la direction du service n
 
 - centre du service national Perpignan
 
+Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+
 |
 
 Technicien supérieur d'études et de fabrications de 1re classe
@@ -1371,8 +1391,6 @@ Le directeur du centre ministériel de gestion de Metz
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
 - Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
-
-Agents en fonctions au sein du centre du service national de Compiègne
 
 Agents en fonctions au sein du service des essences des armées
 
@@ -1424,7 +1442,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure des ingénieurs des études et techniques d'armement
+- Ecole nationale supérieure des techniques avancées Bretagne
 
 - service hydrographique et océanographique de la marine
 
@@ -1618,13 +1636,11 @@ Le directeur du centre ministériel de gestion de Saint-Germain-en-Laye
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
-- Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), à l'exception des personnels d'administration centrale gérés par le service parisien de soutien de l'administration centrale, Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
+- Oise (60), Paris (75), à l'exception des personnels d'administration centrale gérés par le service parisien de soutien de l'administration centrale, Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer
 
 Agents affectés à l'étranger sauf ceux en fonctions en Allemagne
-
-Agents en fonctions dans les sociétés DCNs, GIAT/NEXTER et au sein du Commissariat à l'énergie atomique
 
 Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense
 
@@ -1650,7 +1666,15 @@ Agents en fonctions au sein des établissements publics suivants :
 
 - Institut des hautes études de la défense nationale
 
-Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense
+Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
+
+Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :
+
+- Bourges (Cher) ;
+
+- Tours (Indre-et-Loire) ;
+
+- Orléans (Loiret).
 
 |
 
@@ -1756,6 +1780,8 @@ Agents en fonctions dans les organismes extérieurs de la direction du service n
 
 - centre du service national Perpignan
 
+Agents en fonctions dans les sociétés DCNS, GIAT/Nexter et au sein du Commissariat à l'énergie atomique et aux énergies alternatives
+
 |
 
 Secrétaire administratif de classe exceptionnelle
@@ -1799,8 +1825,6 @@ Le directeur du centre ministériel de gestion de Metz
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
 - Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90)
-
-Agents en fonctions au sein du centre du service national de Compiègne
 
 Agents en fonctions au sein du service des essences des armées
 
@@ -1852,7 +1876,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure des ingénieurs des études et techniques d'armement
+- Ecole nationale supérieure des techniques avancées Bretagne
 
 - service hydrographique et océanographique de la marine
 
@@ -2065,3 +2089,7 @@ Technicien paramédical civil
 4 représentants titulaires et 4 représentants suppléants
 
 |
+
+NOTA :
+
+Arrêté du 4 août 2014 article 3 : les modifications des périmètres de compétence prévues dans l'annexe II induites par la mise en œuvre de l'article 2, alinéas 1 et 4 du présent arrêté seront effectives, pour chaque instance, à la date d'entrée en vigueur de l'acte portant nomination des nouveaux membres représentants du personnel élus lors des prochaines élections professionnelles et, au plus tard, le 31 décembre 2014.
