@@ -1,0 +1,9 @@
+# Réponse à la question n° 57702
+
+- Question : [57702](57702.md) — Question n° 57702 — transport de voyageurs; politiques communautaires
+
+## Réponse
+
+*JO du 2014-08-19*
+
+Le 4e paquet ferroviaire a été adopté par la Commission européenne le 30 janvier 2013 puis soumis en première lecture au Parlement européen qui l'a amendé et voté en session plénière du 26 février dernier. Il est notamment composé d'un volet dit « politique » qui se décline en deux textes : la révision de la directive 20l2/34/UE établissant un espace ferroviaire unique européen, et celle du règlement CE n° 1370/2007 relatif aux services publics de transport de voyageurs par chemin de fer et par route. Concernant plus particulièrement l'ouverture à la concurrence, la France a refusé que le calendrier prévu soit anticipé comme l'avait envisagé le Gouvernement précédent. Si ouverture à la concurrence il doit y avoir, le Gouvernement tient à ce qu'elle soit encadrée et que ses modalités permettent de préserver le modèle français de service public. Le Gouvernement soutient ainsi le report du principe général d'une mise en concurrence, la possibilité de maintenir un régime d'attribution directe de certains des contrats de service public et le fait de laisser aux États-membres la pleine latitude sur le champ des lignes ferroviaires pouvant faire l'objet d'obligations de service public. En effet, la libéralisation des marchés de services de transports routiers et ferroviaires ne saurait se faire au détriment des usagers, des salariés du secteur ou des collectivités territoriales en charge de ces missions. La France veillera à ce que les textes prévoient des mécanismes lisibles et transparents notamment en matière tarifaire. La France continuera de participer pleinement et activement à la poursuite des travaux sur le volet « politique » du 4e paquet, qui débutent au Conseil des ministres dès cet été.
