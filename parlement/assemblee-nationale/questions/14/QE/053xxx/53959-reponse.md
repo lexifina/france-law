@@ -1,0 +1,9 @@
+# Réponse à la question n° 53959
+
+- Question : [53959](53959.md) — Question n° 53959 — bâtiments agricoles; désamiantage; perspectives
+
+## Réponse
+
+*JO du 2014-08-19*
+
+Suite à l'expérience de la déconstruction de bâtiments d'élevage menée dans la Sarthe par des éleveurs avicoles en 2013, les services du ministère en charge de l'agriculture ont réalisé, en associant les autres ministères concernés (écologie, santé, travail), une note interministérielle sur la déconstruction des bâtiments agricoles dans l'objectif d'une bonne gestion des déchets amiantés. Cette note a été publiée au bulletin officiel du ministère en charge de l'agriculture le 1er juillet 2014. La note destinée aux préfets doit permettre de rappeler à la profession agricole ses obligations en matière de mise en sécurité et de réhabilitation des bâtiments agricoles, en particulier lors d'une déconstruction ou d'une rénovation (les bâtiments concernés sont ceux qui ont été construits avant 1997, quand l'utilisation des produits amiantés était encore autorisée). Elle donne également des indications concernant la mise en oeuvre de solutions adaptées localement, comme la mise en place de filièrs d'élimination. Enfin, cette note rappelle les dispositifs incitatifs existants (plan de modernisation des bâtiments d'élevage, accompagnement fiscal). En effet, les incidences financières pour le propriétaire du bâtiment agricole ne sont pas négligeables, notamment à cause de la gestion des déchets d'amiante et des coûts de transports jusqu'au centre de stockage des déchets amiantés. Toutefois, les problèmes rencontrés par la profession agricole dans ce domaine ne sont pas spécifiques. C'est pourquoi les services du ministère en charge de l'agriculture s'associeront de façon active aux travaux à venir qui seront menés par le ministère en charge de l'écologie concernant les déchets amiantés du bâtiment.
