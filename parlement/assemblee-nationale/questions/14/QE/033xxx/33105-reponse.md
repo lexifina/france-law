@@ -1,0 +1,9 @@
+# Réponse à la question n° 33105
+
+- Question : [33105](33105.md) — Question n° 33105 — statut; rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2014-08-19*
+
+Conformément aux disposition du code général des collectivités territoriales (CGCT), l'élu local en situation de cumul de mandats ou de fonctions locales ne peut percevoir pour l'ensemble de ses fonctions un montant total de rémunérations et d'indemnités de fonction supérieur à une fois et demie le montant de l'indemnité parlementaire de base soit depuis le 1er juillet 2010 : 8 702,02 €. Le rapport de la mission de l'Assemblée nationale sur le statut de l'élu préconise dans sa proposition n° 19 de rendre obligatoire pour les élus locaux l'établissement d'une déclaration annuelle des indemnités perçues destinée à l'administrateur général des finances publiques du lieu de leur domicile et de donner à ce dernier un pouvoir de contrôle de l'exactitude des déclarations. Les services du contrôle de légalité sont déjà chargés du respect de la règle de limitation du cumul des indemnités de fonction ainsi que du respect des taux maximums de ces indemnités. Les autorités préfectorales peuvent également se rapprocher des services de la direction générale des finances publiques qui détiennent les informations sur les indemnités de fonction déclarées par les élus locaux dans le cadre de l'imposition de la retenue à la source. Il convient également de rappeler que les élus locaux concernés par l'obligation d'établir une déclaration d'intérêts et une déclaration de patrimoine auprès de la Haute autorité pour la transparence de la vie publique doivent indiquer les indemnités de fonction perçues pour les mandats locaux dans leur formulaire de déclaration de patrimoine. Pour toutes ces raisons, le Gouvernement n'est pas favorable à l'instauration d'une nouvelle obligation pour les élus locaux percevant une indemnité de fonction.
