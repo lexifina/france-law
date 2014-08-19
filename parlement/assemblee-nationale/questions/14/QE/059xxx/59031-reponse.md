@@ -1,0 +1,9 @@
+# Réponse à la question n° 59031
+
+- Question : [59031](59031.md) — Question n° 59031 — contamination; bassin d'Arcachon
+
+## Réponse
+
+*JO du 2014-08-19*
+
+Les coquillages du bassin d'Arcachon sont régulièrement contrôlés en vue d'identifier divers dangers alimentaires, notamment les toxines d'algues et les dangers microbiologiques (Escherichia coli). En ce qui concerne les analyses pratiquées au mois de mai 2014, le réseau de surveillance microbiologique (REMI) mis en place par IFREMER sur subvention du ministère de l'agriculture, de l'agroalimentaire et de la forêt n'a pas identifié de problème ; pour cette même période, notamment à partir de fin avril et jusqu'à la fin juin, le réseau de surveillance du phytoplancton (REPHY) a permis d'identifier la présence de toxines lipophiles au Banc d'Arguin comme au Grand Banc. Les quantités identifiées étant supérieures au seuil sanitaire de toxicité fixé dans le règlement (CE) n° 853/2004, il a été procédé à la mise en place des mesures de gestion adaptées habituelles, placées sous la responsabilité du préfet. Une surveillance systématique des toxines de Dinophysis, à partir d'avril et jusqu'à juin inclus, est mise en place dans la zone évoquée sur la base scientifique des séries de données historiques, qui ont permis de connaître cette période de risque accru. Le reste de l'année, la surveillance est basée sur l'examen de la présence des algues Dinophysis dans l'eau, complétée si besoin par la recherche de toxines. Cette présence de microalgues est un phénomène naturel observé sur tout le littoral français : il est dépendant de l'implantation initiale de ladite algue dans une zone donnée et des conditions climatiques et hydrologiques. En conséquence, il est donc prévisible que le phénomène se répète dans une zone recensée à risque pour ce danger et il n'est pas possible d'éviter cette propagation alguale.
