@@ -1,0 +1,9 @@
+# Réponse à la question n° 53059
+
+- Question : [53059](53059.md) — Question n° 53059 — négociations; offres
+
+## Réponse
+
+*JO du 2014-08-19*
+
+Aux termes du I de l'article 59 et du I de l'article 64 du code des marchés publics, il ne peut y avoir, en appel d'offres ouvert et en appel d'offres restreint, de négociation avec les candidats. Le recours à la mise au point prévue aux articles 59-II et 64-II du code des marchés publics ne permet pas d'engager avec le candidat attributaire une négociation susceptible de remettre en cause les conditions de la mise en concurrence initiale et d'affecter le principe d'intangibilité des offres (CAA de Nantes, 26 juin 2003, SDIS Calvados, n° 02NT00006). De même, dans le cadre d'une procédure adaptée, si le pouvoir adjudicateur n'a pas prévu de négociation conformément à l'article 28 du code des marchés publics, il ne peut engager cette négociation avec les candidats. La circulaire du 14 février 2012 relative au guide de bonnes pratiques en matière de marchés publics (point 10.3.2.2) rappelle que le recours à la négociation doit être expressément indiqué dès le lancement de la procédure de consultation, dans l'avis public d'appel à la concurrence ou dans les documents de la consultation. L'article 42 du code des marchés publics impose en effet au pouvoir adjudicateur de définir, dans les documents de la consultation, les caractéristiques principales de la procédure et du choix de l'offre. Par conséquent, si l'article 28 du code permet, de manière générale, au pouvoir adjudicateur de recourir à la négociation en procédure adaptée, il appartient à celui-ci d'indiquer expressément, pour chaque consultation, s'il entend, effectivement, faire usage de cette faculté. L'absence d'une telle indication dès le lancement de la procédure ne peut être modifiée en cours de procédure et empêche donc toute négociation.
