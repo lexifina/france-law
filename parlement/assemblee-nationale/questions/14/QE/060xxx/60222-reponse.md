@@ -1,0 +1,9 @@
+# Réponse à la question n° 60222
+
+- Question : [60222](60222.md) — Question n° 60222 — tenue de marché; réglementation
+
+## Réponse
+
+*JO du 2014-08-19*
+
+Suite à la parution du décret n° 2014-785 du 8 juillet 2014 relatif au seuil prévu à l'article L. 511-47 du code monétaire et financier, un projet d'arrêté portant application des dispositions correspondantes de la loi est en cours d'élaboration. Cet arrêté porte sur : (i) les exigences renforcées de contrôle interne et les indicateurs des activités de tenue de marché, (ii) les opérations avec les « hedge funds » et (iii) les modalités de surveillance de la filiale ségréguée (c'est-à-dire la filiale dans laquelle devront être menées les activités qui ne pourront plus l'être que par ce biais). Il apporte en particulier un dispositif précis d'encadrement et de contrôle des activités de tenue de marché, pour s'assurer que les activités identifiées par les banques comme relevant de cette catégorie ne dissimulent pas des activités spéculatives. Le projet d'arrêté ne fixe pas le seuil qui peut être retenu par arrêté après avis de l'Autorité de contrôle prudentiel et de résolution (ACPR), valable pour un établissement en particulier ou pour tous les établissements, au-dessus duquel les activités de tenue de marché devraient être filialisées. Ce seuil ne saurait être pris tant que le dispositif de contrôle renforcé des activités de tenue de marché n'a pas été mis en place. En effet, compte tenu des investissements nécessaires par les établissements pour se conformer aux nouvelles exigences en matière de transmission des indicateurs, les indicateurs d'activité et de risque sur la tenue de marché ne seront fournis par les établissements qu'à compter de début 2015. L'ACPR, dont l'avis est requis s'agissant de l'arrêté qui fixerait un seuil à la tenue de marché, n'aura donc pas le recul suffisant à court terme pour évaluer la pertinence d'une limitation du volume de la tenue de marché.
