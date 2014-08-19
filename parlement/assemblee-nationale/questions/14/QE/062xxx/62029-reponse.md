@@ -1,0 +1,9 @@
+# Réponse à la question n° 62029
+
+- Question : [62029](62029.md) — Question n° 62029 — déplacement; bilan
+
+## Réponse
+
+*JO du 2014-08-19*
+
+Lors de sa visite officielle à Hanoi et Ho Chi Minh Ville, du 20 au 22 juillet 2014, la secrétaire d'Etat chargée du commerce extérieur, de la promotion du tourisme et des Français de l'étranger, était accompagnée de M. Philippe Varin, représentant spécial du ministre des affaires étrangères et du développement international pour l'ASEAN, d'une dizaine d'entreprises françaises et de la présidente de l'Adetef, Mme Agnès Arcier. La secrétaire d'Etat a rencontré le vice Premier ministre, M. Hoang Trung Hai, le ministres du commerce et de l'industrie, M. Vu Huy Hoang, le ministre du Plan et de l'investissement, M. Bui Quang Vinh, le président du Comité populaire de Ho Chi Minh Ville, M. Le Hoang Quan, plusieurs dirigeants de grands groupes vietnamiens, publics et privés, ainsi que la communauté française tant à Hanoi qu'à Ho Chi Minh Ville. Un contrat d'assistance technique de 3,5 MUSD, financé par la Banque asiatique de développement et l'Agence française de développement, et portant sur l'appui au développement des projets en partenariats public privé, a été signé entre le ministère du Plan d'une part et un consortium EGIS - ADETEF d'autre part, en présence de la secrétaire d'Etat et de M. Bui Quang Vinh. Cette visite, qui se tenait trois mois après la réunion du Dialogue économique de haut niveau à Paris, a permis de faire un point approfondi, avec les plus hautes autorités vietnamiennes, sur les principaux dossiers économiques et sur la mise en oeuvre du partenariat stratégique. Elle a permis de maintenir la mobilisation des autorités vietnamiennes afin de progresser sur les dossiers économiques bilatéraux, notamment en matière d'accès au marché.
