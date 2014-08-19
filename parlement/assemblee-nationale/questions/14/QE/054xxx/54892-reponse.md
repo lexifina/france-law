@@ -1,0 +1,9 @@
+# Réponse à la question n° 54892
+
+- Question : [54892](54892.md) — Question n° 54892 — élus; indemnités; remboursements de frais; réglementation
+
+## Réponse
+
+*JO du 2014-08-19*
+
+En compensation des sujétions et des responsabilités résultant de leur charge publique, les membres des établissements publics de coopération intercommunale (EPCI) bénéficient d'un certain nombre de garanties et d'indemnisations. Ainsi, les élus des communautés de commune chargés de l'exécution d'un mandat spécial ont droit au remboursement des frais de transport et de séjour (hébergement-restauration) engagés à ce titre, qu'ils bénéficient ou non d'une indemnité de fonction. En revanche, seuls les élus des communautés de communes ne bénéficiant pas d'indemnités de fonction au titre de leur mandat intercommunal, peuvent demander le remboursement des frais de déplacement engagés à l'occasion des réunions de l'organe délibérant de leur établissement, du bureau, des commissions instituées par délibération, dont ils sont membres, des comités consultatifs prévus par l'article L. 5211-49-1 du code général des collectivités territoriales (CGCT) de la commission consultative prévue par l'article L. 1413-1 du CGCT, et des organes délibérants ou des bureaux des organismes où ils représentent leur établissement lorsque la réunion a lieu dans une commune autre que la leur. La dépense correspondante est supportée par l'organisme qui organise la réunion. La prise en charge du remboursement des frais (frais de déplacement, frais de séjour) est assurée dans les conditions définies par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat. Les présidents des communautés de communes, bénéficiant de droit d'une indemnité de fonction, ne peuvent donc bénéficier d'un remboursement de frais que dans le cadre de l'exécution d'un mandat spécial.
