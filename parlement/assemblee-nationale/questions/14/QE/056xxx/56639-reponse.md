@@ -1,0 +1,9 @@
+# Réponse à la question n° 56639
+
+- Question : [56639](56639.md) — Question n° 56639 — prestations de services juridiques
+
+## Réponse
+
+*JO du 2014-08-19*
+
+L'article 90 de la directive n° 2014/24/UE du Parlement européen et du Conseil du 26 février 2014 sur la passation des marchés publics prévoit que « les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 18 avril 2016 ». Le Gouvernement a décidé de transposer de façon prioritaire certaines dispositions des nouvelles directives « marchés publics » (mesures de simplification favorables aux petites et moyennes entreprises et à l'innovation notamment). Mais les dispositions concernant les marchés de services juridiques ne font pas partie de ce train de mesures. Dans l'attente de l'achèvement de la transposition, les collectivités publiques doivent donc continuer à respecter les obligations prévues aux articles 21, 23 et 35 paragraphe 4 de la directive n° 2004/18/CE, transposées à l'article 30 code des marchés publics (CMP) concernant les marchés de services, toujours en vigueur. Les marchés de services juridiques peuvent être passés selon une procédure adaptée dont les modalités, aux termes de l'article 28 du CMP, sont librement fixées par le pouvoir adjudicateur. Il appartient donc aux collectivités publiques de définir la nature et l'étendue de leurs besoins. La procédure de publicité et mise en concurrence tient compte, notamment, du montant, de la nature et de la complexité de leurs besoins ainsi que du degré de concurrence entre les entreprises concernées et des conditions dans lesquelles les contrats sont passés (CE, 7 octobre 2005, région Nord-Pas-de-Calais, n° 278732 ; CE, 22 janvier 2007, syndicat des transports d'Ile-de-France, n° 294290).
