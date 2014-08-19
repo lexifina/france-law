@@ -1,0 +1,9 @@
+# Réponse à la question n° 11008
+
+- Question : [11008](11008.md) — Question n° 11008 — instances consultatives; missions; moyens
+
+## Réponse
+
+*JO du 2014-08-19*
+
+Le comité de l'environnement polaire (CEP) a été créé par le décret n° 93-740 du 29 mars 1993, aujourd'hui codifié aux articles D. 133-31 à D. 133-34 du code de l'environnement. Placé auprès du ministre de l'écologie, du développement durable et de l'énergie (MEDDE) qui en assure le secrétariat, il est chargé de veiller à la compatibilité des activités humaines relevant des autorités françaises dans les zones polaires et subantarctiques avec la préservation de l'environnement. Il est en particulier consulté sur les programmes d'activités et les grands projets scientifiques dans les zones polaires et subantarctiques, et plus largement sur toutes les questions d'environnement dans ces zones. Il joue également le rôle de conseil scientifique de la réserve naturelle nationale des Terres australes françaises. Il se réunit au moins deux fois par an. Il est composé d'un président et de dix personnalités choisies pour une durée de quatre ans renouvelable une fois, en raison de leur compétence scientifique et technologique dans le domaine de l'environnement. Parmi les membres du comité, deux sont nommés sur proposition du ministre des affaires étrangères et du développement international, deux sur proposition du ministre de l'écologie, du développement durable et de l'énergie, deux sur proposition du ministre des outre-mer, deux sur proposition du ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche ; les deux autres membres sont nommés sur proposition du conseil national de la protection de la nature. Ces personnalités assurent leurs missions auprès du CEP à titre bénévole. Ainsi, le coût de fonctionnement du CEP se limite aux remboursements des frais de mission de ses membres, soit environ 2 000 euros par an.
