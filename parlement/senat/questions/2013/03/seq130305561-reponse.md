@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130305561
+
+- Question : [SEQ130305561](seq130305561.md) — Conséquences de l'application de l'article 2 du décret du 14 janvier 2013 relatif aux aides pour l'électrification rurale
+
+## Réponse
+
+*Économie, redressement productif et numérique, JO du 2014-08-21, page 1957*
+
+Le décret n° 2013-46 du 14 janvier 2013, adopté après consultation et avis favorables du conseil à l'électrification rurale, du conseil supérieur de l'énergie et du Conseil d'État, est intervenu consécutivement à la création d'un compte d'affectation spéciale dédié aux aides à l'électrification rurale. Il a pour objet de préciser les modalités de répartition et de gestion de ces aides. L'article 2 du décret, définissant les règles d'éligibilité aux aides, a soulevé des difficultés d'interprétation quant à l'éligibilité potentielle, à titre dérogatoire, des communes de 2 000 à 5 000 habitants, y compris de celles éventuellement incluses dans une unité urbaine. Par ailleurs, cet article qui ne permettait pas aux communes de moins de 2 000 habitants incluses dans une unité urbaine d'être éligibles, s'est révélé susceptible d'entraîner des bouleversements dans les règles d'attribution, dès lors que les instructions antérieures avaient été appliquées de telle sorte qu'un nombre relativement important de ces communes soient éligibles. Soucieux de stabiliser un dispositif dont la réforme a suscité des difficultés de mise en œuvre, le Gouvernement a modifié l'article 2 du décret de 2013, par décret n° 2014-496 du 16 mai 2014. Désormais, l'article 2 permet au préfet de considérer, à titre dérogatoire, comme rurale toute commune de moins de 5 000 habitants, y compris lorsqu'elle est comprise dans une unité urbaine. La dérogation doit cependant être motivée, compte tenu notamment de son isolement ou du caractère dispersé de son habitat.
