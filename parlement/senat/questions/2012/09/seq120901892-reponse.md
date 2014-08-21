@@ -1,0 +1,9 @@
+# Réponse à la question SEQ120901892
+
+- Question : [SEQ120901892](seq120901892.md) — Conditions de clôture du plan d'épargne retraite populaire
+
+## Réponse
+
+*Finances et comptes publics, JO du 2014-08-21, page 1962*
+
+Le plan d'épargne retraite populaire (PERP) est un contrat d'assurance de groupe dont l'exécution est liée à la cessation d'activité professionnelle, qui offre un cadre prudentiel et juridique adapté à des stratégies d'investissement de long terme à ceux qui souhaitent compléter leur retraite de base et complémentaire. Il ne peut pas comporter de possibilité de rachat, en cohérence avec son horizon de long terme et l'objectif qui lui est assigné de concourir à la préparation de la retraite de l'assuré. Toutefois, afin de permettre à l'assuré de faire face à des accidents de la vie, l'article L. 132-23 du code des assurances prévoit une faculté de rachat dans certains cas limitativement énumérés. Cette liste a été récemment élargie par la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites. Ces dispositions permettent de faire face aux accidents de la vie les plus graves, comme par exemple en cas d'expiration des droits de l'assuré aux allocations chômage ou lorsque l'assuré est en situation de surendettement. Étendre la liste des situations permettant le rachat des PERP dénaturerait ce produit d'épargne-retraite et irait à l'encontre de son objectif d'épargne de long terme et de préparation à la retraite. De plus, une généralisation des rachats anticipés rendrait injustifiée l'application d'un régime fiscal et social différent de celui des contrats d'assurance-vie traditionnels. À ce stade, il n'est donc pas prévu d'élargir les cas permettant le rachat du contrat. Le Gouvernement reste toutefois attentif à l'évolution du marché de l'épargne retraite et aux éventuelles difficultés rencontrées par les assurés.
