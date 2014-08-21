@@ -202,7 +202,7 @@ Les vins peuvent circuler entre entrepositaires agréés au plus tôt le 31 mars
 
 X. - Lien avec la zone géographique
 
-1° – Informations sur la zone géographique :
+1° - Informations sur la zone géographique :
 
 a) - Description des facteurs naturels contribuant au lien :
 
@@ -214,7 +214,7 @@ Le climat, comme l’ensemble de la Gironde, en bordure de l’Océan Atlantique
 
 Le paysage de l’appellation "Pomerol" est caractérisé par une grande homogénéité territoriale, très sobre, entièrement couvert de vignobles au relief doux, parsemé d’élégants châteaux viticoles ou de plus humbles demeures de calcaire blanc et dominé par la flèche de l’église de son bourg.
 
-b) – Description des facteurs humains contribuant au lien :
+b) - Description des facteurs humains contribuant au lien :
 
 Le plateau de Pomerol était traversé par deux voies antiques à l’époque romaine. Cette époque marque les débuts de la consommation de vin en Gaule et de l’implantation de la vigne. Mais le développement du vignoble ne s’est fait qu’à partir du XIIe siècle par l’installation de la première commanderie de l’Ordre des hospitaliers de Saint-Jean de Jérusalem dans la région de Pomerol. L’hospice de Pomerol était une étape pour les pèlerins de Saint-Jacques de Compostelle, où les vins les réconfortaient et leur donnaient courage pour les étapes à venir.
 
@@ -228,7 +228,7 @@ Un jugement du tribunal de la Gironde en date du 29 décembre 1928 a permis de f
 
 Le vignoble s’est développé jusqu’à ce que la vigne couvre tout l’espace agricole de l’appellation. La production y reste le plus souvent familiale, côtoyant quelques domaines importants, à l’instar de toutes les appellations du Libournais. En 2009, les 140 exploitations ont une surface moyenne de six hectares et le vignoble de l’appellation "Pomerol" couvre 800 hectares pour une production moyenne de 35 000 hectolitres par an.
 
-2° – Informations sur la qualité et les caractéristiques du produit :
+2° - Informations sur la qualité et les caractéristiques du produit :
 
 Les vins de l’appellation d’origine contrôlée "Pomerol" sont des vins rouges tranquilles. Le cépage merlot N, très largement majoritaire, confère aux vins des couleurs intenses, des nez puissants avec une large palette aromatique, évoquant les fruits noirs, avec parfois des notes de violette et de truffe. Ces vins sont amples et d’une grande longueur en bouche, sans dureté et peuvent supporter de longs vieillissements en bouteilles. Les vins de l'appellation sont élégants et équilibrés. Les cépages cabernet franc N, cabernet-sauvignon N, cot N (ou malbec) sont souvent présents, apportant de la structure et de la complexité aux vins. Le cépage petit verdot N, cépage ancien du Bordelais, est autorisé également mais peu fréquent.
 
@@ -252,13 +252,13 @@ Les parcelles mentionnées en annexe 2, plantées en vigne avant le 3 février 2
 
 2° - Aire et zones dans lesquelles différentes opérations sont réalisées :
 
-Les opérateurs suivants, connus comme vinifiant leurs vins dans des communes situées hors de l’aire géographique à la date du 31 juillet 2009, peuvent continuer ces opérations sur le territoire de ces communes, jusqu'à la récolte 2021, sous réserve du respect des autres dispositions du cahier des charges :
+Les opérateurs suivants, connus comme vinifiant leurs vins dans des communes situées hors de l'aire géographique à la date du 31 juillet 2009, peuvent continuer ces opérations sur le territoire de ces communes jusqu'à la récolte 2021, sous réserve du respect des autres dispositions du cahier des charges :
 
-Opérateur
+OPÉRATEUR
 
 |
 
-Commune
+COMMUNE
 
 |
 
@@ -278,7 +278,71 @@ Lalande-de-Pomerol (Gironde)
 
 |
 
-SARL Robin Dominique
+EARL Vins Bel
+
+|
+
+Libourne (Gironde)
+
+|
+
+SCEA Vignobles Daniel Mouty
+
+|
+
+Libourne (Gironde)
+
+|
+
+Mme Marie-Hélène Pelotier
+
+|
+
+Libourne (Gironde)
+
+|
+
+M. Bernard Cany
+
+|
+
+Libourne (Gironde)
+
+|
+
+SARL Giraud
+
+|
+
+Libourne (Gironde)
+
+|
+
+SCEA de Lavaux
+
+|
+
+Libourne (Gironde)
+
+|
+
+SCEA La Renaissance
+
+|
+
+Libourne (Gironde)
+
+|
+
+Mme Christiane Feytout
+
+|
+
+Libourne (Gironde)
+
+|
+
+SARL Les vins Robin
 
 |
 
@@ -310,7 +374,7 @@ Montagne (Gironde)
 
 |
 
-SCEA Lateyron
+SCEA Lateyron Paul et Claude
 
 |
 
@@ -326,7 +390,7 @@ Néac (Gironde)
 
 |
 
-C. Estager et Fils
+SARL C. Estager et Fils
 
 |
 
@@ -366,13 +430,13 @@ Saint-Emilion (Gironde)
 
 |
 
-Les opérateurs suivants, connus comme élevant leurs vins dans des communes situées hors de l’aire géographique à la date du 31 juillet 2009, peuvent continuer ces opérations sur le territoire de ces communes, jusqu'à la récolte 2021, sous réserve du respect des autres dispositions du cahier des charges :
+Les opérateurs suivants, connus comme élevant leurs vins dans des communes situées hors de l'aire géographique à la date du 31 juillet 2009, peuvent continuer ces opérations sur le territoire de ces communes jusqu'à la récolte 2021, sous réserve du respect des autres dispositions du cahier des charges :
 
-Opérateur
+OPÉRATEUR
 
 |
 
-Commune
+COMMUNE
 
 |
 
@@ -392,7 +456,71 @@ Lalande-de-Pomerol (Gironde)
 
 |
 
-SARL Robin Dominique
+SCEA Vignobles Daniel Mouty
+
+|
+
+Libourne (Gironde)
+
+|
+
+Mme Marie-Hélène Pelotier
+
+|
+
+Libourne (Gironde)
+
+|
+
+M. Bernard Cany
+
+|
+
+Libourne (Gironde)
+
+|
+
+SARL Giraud
+
+|
+
+Libourne (Gironde)
+
+|
+
+SCEA de Lavaux
+
+|
+
+Libourne (Gironde)
+
+|
+
+SCEA La Renaissance
+
+|
+
+Libourne (Gironde)
+
+|
+
+Mme Christiane Feytout
+
+|
+
+Libourne (Gironde)
+
+|
+
+Etablissements Jean-Pierre Moueix
+
+|
+
+Libourne (Gironde)
+
+|
+
+SARL Les vins Robin
 
 |
 
@@ -488,7 +616,7 @@ Saint-Emilion (Gironde)
 
 |
 
-EARL Vignobles Bel
+EARL Vins Bel
 
 |
 
@@ -1011,3 +1139,7 @@ Catusseau
 merlot N
 
 |
+
+NOTA :
+
+Conseil d'Etat, décision n°388054 du 27 janvier 2017 (ECLI:FR:CECHR:2017:388054.20170127), article 2 : Le décret n° 2014-904 du 18 août 2014 est annulé en tant qu'il ne procède pas à la délimitation d'une zone de proximité immédiate au titre de l'AOC " Pomerol ".
