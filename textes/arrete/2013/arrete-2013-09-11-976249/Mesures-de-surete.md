@@ -1,4 +1,4 @@
-# Article LEGIARTI000027976260
+# Article Mesures de sûreté
 
 MESURES DE SÛRETÉ DE L'AVIATION CIVILE
 
@@ -8,19 +8,21 @@ MESURES DE SÛRETÉ DE L'AVIATION CIVILE
 
 3. Les articles de la présente annexe sont numérotés comme suit :
 
-[chapitre]-[section(*)]-[sous-section(*)] - [numéro de l'article].
+[chapitre]-[section (*)]-[sous-section (*)]-[numéro de l'article]
 
 Par exemple :
 
-― le deuxième article du chapitre B(a) du titre 1er est numéroté B-2 ;
+-le deuxième article du chapitre B (a) du titre 1er est numéroté B-2 ;
 
-― le quatrième article de la sous-section 5(b) de la section 2(c) du chapitre 1(d) du titre 2 est numéroté 1-2-5-4 ;
+-le quatrième article de la sous-section 5 (b) de la section 2 (c) du chapitre 1 (d) du titre 2 est numéroté 1-2-5-4 ;
 
-― le deuxième article de la section 1(e) du chapitre 4(f) du titre 2 est numéroté 4-1-2.
+-le deuxième article de la section 1 (e) du chapitre 4 (f) du titre 2 est numéroté 4-1-2.
 
 La présente annexe peut être modifiée par arrêté conjoint du ministre de l'intérieur et du ministre chargé des transports pour les dispositions relevant de leur compétence conjointe. Les articles correspondants sont identifiés par le sigle I-T placé dans leur titre après le numéro.
 
-La présente annexe peut également être modifiée, par un arrêté pris par le ministre chargé des transports, pour les dispositions relevant de sa seule compétence. Les articles correspondants seront identifiés par le sigle T placé dans leur titre après le numéro.
+La présente annexe peut également être modifiée par un arrêté pris par le ministre chargé des transports pour les dispositions relevant de sa seule compétence. Les articles correspondants seront identifiés par le sigle T placé dans leur titre après le numéro.
+
+La présente annexe peut être modifiée par arrêté conjoint du ministre de l'intérieur, du ministre chargé des transports et du ministre chargé des douanes pour les dispositions relevant de leur compétence conjointe. Les articles correspondants ne sont identifiés par aucun sigle spécifique placé dans leur titre après le numéro.
 
 (*) Le cas échéant.
 
