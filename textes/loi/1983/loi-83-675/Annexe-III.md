@@ -22,8 +22,6 @@ Institut d'émission des départements d'outre-mer ;
 
 Institution de gestion sociale des armées ;
 
-Matra et ses filiales ;
-
 Théâtre national de Chaillot ;
 
 Théâtre national de l'Odéon ;
@@ -31,10 +29,6 @@ Théâtre national de l'Odéon ;
 Théâtre national de l'Est parisien ;
 
 Théâtre national de Strasbourg ;
-
-Les sociétés d'économie mixte concessionnaires d'ouvrages routiers à péage, lorsque plus de la moitié de leur capital est détenu, directement ou indirectement, par l'Etat ou un de ses établissements publics ;
-
-Sociétés concessionnaires des grands aéroports régionaux créées en application de l'article 7 de la loi n° 2005-357 du 20 avril 2005 relative aux aéroports ;
 
 Société du Grand Paris.
 
@@ -46,6 +40,4 @@ L'Agence foncière et technique de la région parisienne.
 
 NOTA :
 
-(1) Créée par le décret n° 2005-1021 du 25 août 2005.
-
-Conformément à l'article 25 VI de la loi n° 2014-58 du 27 janvier 2014, ces dispositions entrent en vigueur à compter de la publication du décret modificatif du décret 2010-911 du 3 août 2010 et au plus tard le 1er juillet 2014. A compter de cette date, l'Etablissement public de Paris-Saclay devient l'Etablissement public d'aménagement de Paris-Saclay.
+Conformément à l'article 34 I de l'ordonnance n° 2014-948 du 20 août 2014, le conseil d'administration, le conseil de surveillance ou l'organe délibérant en tenant lieu des sociétés mentionnées à l'article 1er fixe la date d'application des dispositions du titre II de la présente ordonnance, à l'exception de celles des articles 17 et 21. Cette date ne peut être postérieure au lendemain de la première assemblée générale ordinaire qui suit le 1er janvier 2017. Jusqu'à cette date, les présentes dispositions restent applicables dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance.
