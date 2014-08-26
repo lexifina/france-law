@@ -1,0 +1,9 @@
+# Réponse à la question n° 42483
+
+- Question : [42483](42483.md) — Question n° 42483 — écotaxe; mise en place; modalités
+
+## Réponse
+
+*JO du 2014-08-26*
+
+La durée du contrat est la somme de la durée de construction (déterminée par l'appel d'offre) et de la durée d'exploitation, cette dernière résultant d'un compromis entre la durée d'amortissement des investissements initiaux et la nécessité de renouvellement des dispositifs techniques (durée de vie des équipements embarqués de 5 ans environ), en tenant compte de l'incertitude sur les évolutions technologiques à venir. Ainsi, il a été recherché une durée suffisamment longue pour que les coûts d'amortissements ne soient pas trop élevés, cette durée étant toutefois limitée par les règles d'obsolescence technologique. La durée choisie permet d'être en adéquation avec cette double contrainte. Après les premières études préalables s'est posée la question de la « reprise » ou de la « transition » en fin de contrat. Il a été décidé d'ajouter 1,5 année d'exploitation pour gérer cette période de transition. Cela restait à l'intérieur du délai du « cas variant » (allongement de 2 ans de la durée d'exploitation), examiné dans le cadre de l'évaluation préalable. Un tel allongement limité reste compatible avec la durée de vie des équipements (en tenant compte du maintien nécessaire des performances pendant 2 ans après la fin du contrat). Par ailleurs, l'avis d'appel public à candidature du 2 mai 2009 précisait que la durée de 168 mois indiquée à la rubrique II.3 « durée » correspondait à « (i) une période de conception de 30 mois maximum, qui résultera des offres finales déposées par les candidats et (ii) une période d'exploitation-maintenance-renouvellement du dispositif de 138 mois » dans la rubrique complémentaire VI.3. La durée d'exploitation de 11,5 ans ou 138 mois n'a pas varié.
