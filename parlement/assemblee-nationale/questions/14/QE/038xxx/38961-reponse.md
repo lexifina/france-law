@@ -1,0 +1,9 @@
+# Réponse à la question n° 38961
+
+- Question : [38961](38961.md) — Question n° 38961 — données médicales dématérialisées; protection
+
+## Réponse
+
+*JO du 2014-08-26*
+
+Le service statistique du ministère des affaires sociales et de la santé a réalisé 3 études sur les composants des revenus des professionnels libéraux de santé, l'une en 2008 relative à l'année 2005 (arrêté du 27 décembre 2007 portant création d'un traitement relatif à l'étude des revenus des professions libérales de santé), la seconde en 2010 pour 2008 (arrêté du 6 juillet 2010, portant création d'un traitement relatif à l'étude des revenus des professions libérales de santé paru au JO du 3 août 2010) et la dernière en 2013 pour 2011 (arrêté du 6 septembre 2013 portant création d'un traitement relatif à l'étude des revenus des professions libérales de santé paru au JO du 17 septembre 2013). Chacune de ces études a fait l'objet d'une déclaration à la commission nationale de l'informatique et des libertés (CNIL) : - la première, présentée en « déclaration normale » (ou simple déclaration) a été requalifiée par la CNIL en « demande d'autorisation de la CNIL » (article 25 de la loi du 6/1/1978) dans la mesure où le traitement nécessitait l'interconnexion de fichiers dont les finalités correspondent à des intérêts publics différents. Le service n'avait pas fait cette analyse et avait considéré que ces données, traitées à l'institut national de la statistique et des études économiques (INSEE), ayant fait préalablement à ce traitement, l'objet d'une anonymisation, et d'un processus destiné à les rendre exploitables d'un point de vue statistique, participaient au seul intérêt public de la statistique ; - les deux autres études ont également été présentées à la CNIL sous la forme d'une « déclaration normale » (art 24 de la loi) et la CNIL a accepté de les gérer, en tant que tel, dans le cadre d'une « déclaration normale ».
