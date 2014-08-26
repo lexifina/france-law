@@ -1,0 +1,9 @@
+# Réponse à la question n° 51147
+
+- Question : [51147](51147.md) — Question n° 51147 — rapport annuel 2014; conclusions
+
+## Réponse
+
+*JO du 2014-08-26*
+
+Les recommandations formulées par la Cour des comptes dans son rapport annuel 2014 concernant plus spécifiquement l'offre de soins psychiatrique pour les personnes détenues sont prises en compte dans les orientations du ministère des affaires sociales et de la santé pour la prise en charge de cette population. Des dispositions sont prises pour le renforcement de l'offre de soins en psychiatrie des personnes détenues, afin qu'elles disposent d'une prise en charge de même nature que celle dont bénéficie la population générale. Ainsi, les consultations psychiatriques, assurées dans chacune des 177 unités sanitaires implantées dans chaque établissement pénitentiaire, sont complétées par une prise en charge de groupe. Des crédits à hauteur de 158 000 € par site sont délégués chaque année, permettant la mise en place progressive de cette activité, d'ores et déjà implantée dans trente-neuf unités sanitaires. Le renforcement de l'hospitalisation est assuré par la réalisation progressive des unités d'hospitalisation spécialement aménagées (UHSA). Ces unités permettent d'améliorer la prise en charge sanitaire des détenus souffrant de troubles mentaux, tout en offrant aux établissements de santé accueillant ces patients, des conditions de sécurité suffisantes, pour leur permettre d'exercer leurs missions, sans faire obstacle à la mission de sécurité publique de l'administration pénitentiaire. Sept unités sont actuellement en fonctionnement : Lyon, Toulouse et Nancy ; Orléans, Paris, Lille et Rennes, qui ont ouvert en 2013. 21 M€ de crédits de fonctionnement, renouvelables, ont été délégués à compter de 2012 et 2013. L'ouverture des unités de Marseille et Bordeaux est programmée pour 2015.
