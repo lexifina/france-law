@@ -1,0 +1,9 @@
+# Réponse à la question n° 39969
+
+- Question : [39969](39969.md) — Question n° 39969 — contrat unique d'insertion; prolongation; modalités
+
+## Réponse
+
+*JO du 2014-08-26*
+
+Les contrats aidés sont un dispositif d'aide à l'insertion professionnelle des personnes sans emploi rencontrant des difficultés sociales et professionnelles d'accès à l'emploi. Les employeurs sont responsables durant les contrats aidés de la mise en oeuvre des actions d'accompagnement professionnel et de formation afin de favoriser l'insertion professionnelle durable de bénéficiaires à l'issue des contrats aidés. Ces contrats fonctionnent donc comme un sas vers le marché du travail classique, ce qui explique leur durée maximale de vingt-quatre mois. Des dérogations ont néanmoins été prévues par la loi. Elles concernent les salariés âgés de cinquante ans et plus et bénéficiaires du revenu de solidarité active, de l'allocation spécifique de solidarité, de l'allocation temporaire d'attente ou de l'allocation aux adultes handicapés ou reconnus travailleurs handicapés. Ces personnes peuvent bénéficier d'un contrat aidé pour une durée maximale de cinq ans. Pour les salariés de plus de cinquante ans ou reconnus travailleurs handicapés recrutés dans les ateliers et chantiers d'insertion et rencontrant des difficultés particulières faisant obstacle à leur insertion durable, il est même possible avec l'autorité ayant attribué l'aide initiale de prolonger le contrat sans durée maximale par décisions de prolongation successive de douze mois. Le code du travail prévoit donc, à l'heure actuelle les dispositions nécessaires pour permettre aux publics particulièrement fragiles de bénéficier de parcours d'insertion d'une durée adaptée à leurs difficultés. Le prescripteur de ces contrats peut assortir le renouvellement du contrat de conditions s'il estime que l'employeur n'a pas rempli toutes ces obligations durant l'exercice du parcours d'insertion antérieur.
