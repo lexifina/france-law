@@ -1,0 +1,9 @@
+# Réponse à la question n° 51104
+
+- Question : [51104](51104.md) — Question n° 51104 — report; conséquences
+
+## Réponse
+
+*JO du 2014-08-26*
+
+Dans un souci d'apaisement et de dialogue, le projet de l'écotaxe a été suspendu par M. le Premier ministre en date du 29 octobre 2013. À l'issue des travaux de la mission parlementaire et de nombreuses consultations, M. le Premier ministre a décidé le 22 juin 2014, de mettre en oeuvre le projet de « péage de transit poids lourds ». Le réseau taxable initialement prévu à 15 000 km de route est ramené aujourd'hui à 4 000 km, sur les grands axes non concédés dépassant un trafic de 2 500 poids lourds/jour. Il a pour objectif de faire davantage contribuer les poids lourds étrangers en transit en France et de ne pas pénaliser outre mesure les véhicules exerçant des trajets de proximité. Il est à noter que le tarif des dispositifs d'abonnement, les moyens de contrôles ainsi que les modalités d'assujettissement restent inchangés. Enfin, la réduction du réseau dont l'usage est soumis à tarification a conduit à lever l'obligation d'équiper préalablement tous les véhicules immatriculés en France. Ceci doit réduire la charge administrative pour les entreprises. Le péage de transit sera mis en oeuvre à compter du 1er janvier 2015, et viendra alimenter l'Agence de financement des infrastructures de transport (AFITF). Le développement d'une politique ambitieuse de mobilité durable à travers notamment les Contrats de projet État-région (CPER) et le 3e appel à projets des transports collectifs en site propre(TCSP), nécessitera toutefois des ressources complémentaires, afin de garantir un niveau d'intervention de l'AFITF adapté aux enjeux. Le Gouvernement examine actuellement les différentes pistes envisageables, ce qui représente un effort d'autant plus important que les contraintes budgétaires sont fortes. La solution qui sera définie, devra être mise en oeuvre dès le 1er janvier 2015.
