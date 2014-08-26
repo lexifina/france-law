@@ -1,0 +1,9 @@
+# Réponse à la question n° 50823
+
+- Question : [50823](50823.md) — Question n° 50823 — prise en charge; syndrome d'Arnold-Chiari
+
+## Réponse
+
+*JO du 2014-08-26*
+
+Les malformations d'Arnold-Chiari sont des atteintes rares du cervelet, de quatre type différents, selon l'anatomie des atteintes malformatives et leur retentissement. Les malformations de types 3 et 4 ne sont plus rencontrées (létales ou interruption volontaire de grossesse). Seules les malformations de types 1 et 2 sont prises en charge. Le type 1 (environ 14 % des cas traités, d'après une étude rétrospective récente) est en effet susceptible d'être traité chirurgicalement par une décompression de la fosse postérieure, par élargissement du foramen et intervention sur une ou deux des vertèbres cervicales. La décompression de la fosse postérieure s'accompagne souvent d'une intervention sur la dure-mère, membrane protectrice de la moelle épinière. Cette chirugie de décompression est réalisée en France par les centres de référence des centres hospitaliers universitaires (CHU) de Bordeaux, Rennes, Rouen, Paris/Charles Nicolle, Nancy, Toulouse, Lille, Nantes, Marseilles/La Timone, et Lyon-GH Est. Un seul centre européen, situé en Espagne et animé par un seul neuro-chirurgien, pratique la chirurgie de ces malformations par section du filum terminale. La publication originale de cette méthode remonte à 1996. Cependant, les preuves scientifiques d'une efficacité ou d'un inocuité supérieure de la résection du filum terminale manquent. Une intervention de décompression est par ailleurs souvent réalisée après la résection du filum terminale, ainsi que le rapporte plusieurs auteurs dont le Dr Roya lui même. Les pistes de recherches explorées par les centres internationaux concernent à la fois la génétique de ces affections, et les modes d'intervention les plus précoces, notamment la chirurgie intra-utérine de décompression qui apparaît actuellement la plus prometteuse.
