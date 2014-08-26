@@ -1,0 +1,9 @@
+# Réponse à la question n° 50639
+
+- Question : [50639](50639.md) — Question n° 50639 — dépenses publiques; réduction; perspectives
+
+## Réponse
+
+*JO du 2014-08-26*
+
+L'exécution 2013 a démontré la résolution du Gouvernement à maîtriser l'évolution des dépenses publiques malgré un contexte macro-économique difficile. Déterminé à assurer la stricte maîtrise de l'autorisation parlementaire, le Gouvernement a pris dès février 2013 des mesures, en majorant la mise en réserve de 2 Mds€ : la réserve de précaution, hors masse salariale, est donc passée de 5,9 Mds€ à 7,9 Mds€. Durant toute l'année 2013, une gestion exemplaire a été suivie : seuls les crédits strictement nécessaires et urgents ont été dégelés. Le schéma de fin de gestion qui a été approuvé par le Parlement en loi de finances rectificative pour 2013 reposait sur une compensation intégrale des ouvertures de crédits par des annulations. Les surcroîts de dépense enregistrés aux titres des politiques de l'emploi, de prestations de solidarité mais aussi des opérations extérieures menées par nos forces ont ainsi été financés par redéploiement. Cette gestion exemplaire a permis une stricte maîtrise des dépense de l'Etat, conduisant à une sous-exécution par rapport à l'autorisation parlementaire sur le champ de la norme en volume de 3,4 Mds€. Sur le champ de la norme en valeur, la sous-exécution est de 0,1 Md€. Cette sous-exécution témoigne de la maîtrise des dépenses budgétaires (- 1 Md€ par rapport à la loi de finances initiale - LFI), du fait de règles de gestion exemplaires mises en place par le Gouvernement. La dégradation des recettes fiscales résulte prioritairement de la dégradation de l'environnement macro-économique par rapport aux prévisions sous-jacentes à la loi de finances pour 2013. La prévision de croissance du produit intérieur brut s'établissait à 0,8 % en 2013. La croissance a finalement atteint 0,3%.
