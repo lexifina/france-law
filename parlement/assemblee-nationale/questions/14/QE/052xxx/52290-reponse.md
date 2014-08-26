@@ -1,0 +1,9 @@
+# Réponse à la question n° 52290
+
+- Question : [52290](52290.md) — Question n° 52290 — diminution; conséquences
+
+## Réponse
+
+*JO du 2014-08-26*
+
+La situation des juridictions ainsi que leurs conditions de fonctionnement sont des préoccupations majeures du Gouvernement. Sans s'exonérer de l'effort de réduction des dépenses publiques, auquel le ministère de la Justice doit contribuer, à l'instar des autres services de l'Etat, le système judiciaire français doit pouvoir disposer de moyens suffisants pour être en mesure de remplir ses missions régaliennes. Plus précisément, l'ensemble des dotations Hors-Titre 2 du programme « Justice judiciaire » (fonctionnement courant et frais de justice) a augmenté de 3,3 % sur la période 2010-2013. Les dotations en crédits de paiement (CP) du programme 166 au titre du fonctionnement courant ont augmenté de 11,9 % sur la période 2010-2013. L'impossibilité de satisfaire la totalité des demandes formulées par les juridictions au regard du montant du budget annuel de fonctionnement courant alloué au programme 166 implique de prioriser les demandes obligatoires, inéluctables (dépenses nécessaires au fonctionnement des services, charges et restes à payer) ainsi que certaines demandes graves et urgentes, au détriment des dépenses non obligatoires (renouvellement de certains matériels, etc.). Entre 2011 et 2013, les dépenses non obligatoires ont représenté entre 4 et 5 % du budget total hors-titre 2, et 8 à 10 % du budget de fonctionnement courant (hors dépenses de frais de justice). Au titre de l'année 2014, les moyens supplémentaires qui pourront être alloués en faveur des juridictions dépendront de la possibilité d'obtenir la levée du gel de la réserve de précaution du programme ou l'allocation de crédits complémentaires au bénéfice du programme « Justice judiciaire ».
