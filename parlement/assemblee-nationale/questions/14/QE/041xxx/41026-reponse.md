@@ -1,0 +1,9 @@
+# Réponse à la question n° 41026
+
+- Question : [41026](41026.md) — Question n° 41026 — patrimoine immobilier; Cour des comptes; rapport; conclusions
+
+## Réponse
+
+*JO du 2014-08-26*
+
+Les recommandations formulées par la Cour des comptes sur la gestion du patrimoine immobilier des centres hospitaliers universitaires (CHU), affecté aux soins, à l'égard de l'échelon national, s'articulent autour de deux axes : développer une stratégie de valorisation du patrimoine des établissements de santé et réviser les modalités de pilotage des investissements hospitaliers. S'agissant du premier axe et d'une meilleure connaissance du patrimoine, première étape pour une meilleure valorisation, le projet OPHELIE - outil de pilotage du patrimoine hospitalier des établissements de santé - et la mise en oeuvre de la certification des comptes répondent à cet objectif. Concernant le deuxième axe, l'objectif est de créer les conditions d'une approche plus stratégique du patrimoine avec, d'une part, l'élaboration des schémas régionaux d'investissement en santé (SRIS) et, d'autre part, un pilotage renforcé de l'investissement hospitalier dans le cadre du comité de la performance et de la modernisation de l'offre de soins hospitaliers (COPERMO). Sur ce dernier point, le ministère des affaires sociales et de la santé a diffusé largement les référentiels cibles, dans le cadre de la circulaire du 5 juin 2013 relative à la mise en place du COPERMO adressée aux agences régionales de santé (ARS) et les met systématiquement en application lors de l'évaluation des projets bénéficiant d'un accompagnement financier national. Ces critères portent notamment sur le développement des prises en charge en ambulatoire et la réduction des capacités en hospitalisation complète, la réduction des surfaces pour les projets de reconstruction, l'atteinte d'un taux de marge brute à hauteur de 8 % et la documentation précise du retour sur investissement.
