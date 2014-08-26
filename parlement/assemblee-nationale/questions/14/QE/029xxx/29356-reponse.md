@@ -1,0 +1,9 @@
+# Réponse à la question n° 29356
+
+- Question : [29356](29356.md) — Question n° 29356 — normes thermiques; avis techniques
+
+## Réponse
+
+*JO du 2014-08-26*
+
+Le dispositif volontaire des avis techniques (Atec) propose, depuis plus de quarante ans, de répondre aux besoins d'évaluation des produits et, utilisés dans le bâtiment, a permis à de nombreux acteurs de l'innovation de se développer. Bien que facultatif, l'avis technique a acquis une reconnaissance par les acteurs de la construction. Il est considéré comme une évaluation fiable et objective, qui incite les professionnels à faire le choix des produits innovants. Le Centre scientifique et technique du bâtiment (CSTB) assure la mission d'instruction des demandes d'Atec qui sont ensuite délivrés par la commission chargée de formuler des avis techniques (CCFAT), instance de gouvernance multipartite placée auprès du ministère du logement et de l'égalité des territoires. La procédure des Atec n'est pas réservée à des demandeurs nationaux et la part des entreprises non françaises titulaires d'Atec est de 30 %. Afin de faciliter la compréhension de la procédure, nombre de documents sont traduits en anglais, allemand, espagnol et italien. Le CSTB a noué des partenariats avec certains organismes d'évaluation en Europe (DIBt en Allemagne, BBA et BRE en Grande Bretagne, UBAtc /BCCA en Belgique) et hors Europe (ICC évaluation service aux USA), et travaille avec ces partenaires au rapprochement des systèmes d'évaluation technique, notamment en harmonisant les référentiels d'évaluation et dans un objectif de reconnaissance mutuelle. Cette procédure, loin de constituer un obstacle à la pénétration du marché français, est donc au contraire, un outil permettant aux metteurs sur le marché de disposer des avantages de cette procédure volontaire, qu'ils soient français ou étrangers.
