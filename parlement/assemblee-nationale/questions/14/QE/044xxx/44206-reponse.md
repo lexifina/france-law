@@ -1,0 +1,9 @@
+# Réponse à la question n° 44206
+
+- Question : [44206](44206.md) — Question n° 44206 — missions locales; financement
+
+## Réponse
+
+*JO du 2014-08-26*
+
+Les missions locales (ML) sont des associations dont le périmètre de compétence est délimité par les communes et communautés d'agglomération qui les administrent. Depuis la création du réseau des ML, de nombreuses structures ont vu leur périmètre d'intervention évoluer en raison de la réorganisation du réseau lui-même ou de la volonté d'élus de mettre des moyens en commun. Pour autant, la priorité a toujours été de préserver l'accompagnement des jeunes et des moyens sont mis à la disposition des structures pour favoriser le transfert des dossiers. Ainsi, le parcours et l'accompagnement de chaque jeune suivi par une mission locale est répertorié de façon détaillée dans Parcours, le système d'information des missions locales, de manière à capitaliser l'ensemble des expériences du jeune mais aussi à pouvoir assurer la continuité de service lorsque celui-ci change de conseiller. Dès lors qu'un jeune a un nouvel interlocuteur, le relais est assuré au travers de Parcours, qui permet également de connaitre le conseiller auparavant responsable pour le contacter si nécessaire. L'accompagnement peut donc se poursuivre sans préjudice pour le jeune. La transition sera d'autant plus simple et sécurisée qu'un nouveau système d'information, IMILO, va permettre un dialogue plus dynamique et la refonte des échanges et moyens de reporting, ce qui contribuera également à faciliter la continuité de services entre missions locales. Enfin, s'agissant du risque de démobilisation consécutif à un changement de structure, les missions locales sont régulièrement amenées à transférer les dossiers d'une structure à une autre et à accueillir de nouveaux jeunes auparavant accompagnés dans une autre structure. Elles ont, dans ce cadre, démontré leur expérience et savoir faire pour garantir un service de qualité aux jeunes.
