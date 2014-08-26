@@ -1,0 +1,9 @@
+# Réponse à la question n° 38468
+
+- Question : [38468](38468.md) — Question n° 38468 — praticiens; pathologies environnementales; formation
+
+## Réponse
+
+*JO du 2014-08-26*
+
+La formation des médecins du travail intervient après le 1er et le 2e cycle des études médicales et après les épreuves classantes nationales (ECN) La formation des futurs médecins du travail d'une durée de quatre années est axée sur la prévention des risques d'atteintes à la santé des salariés du fait du travail ainsi que sur la stratégie de surveillance de l'état de santé des salariés en lien avec les expositions professionnelles et conformément aux recommandations de bonnes pratiques professionnelles. La finalité de cette formation est de répondre aux missions des médecins du travail définies par la loi et réglementées dans le code du travail conformément à la directive cadre européenne 89/391 sur les obligations en matière de protection de la santé au travail. Les médecins du travail sont donc formés pour analyser l'environnement du milieu de travail afin de mettre en évidence les éventuels facteurs de risques d'atteinte à la santé des travailleurs et pour examiner, prescrire les modalités de surveillance de l'état de santé des travailleurs. De plus, la loi du 20 juillet 2011 relative à l'organisation de la médecine du travail, permet aux médecins du travail d'être assistés par une équipe pluridisciplinaire pour examiner l'environnement de travail (exposition à des produits chimiques, physiques, biologiques, psychosociaux...). Cette aide contribue à orienter au mieux le suivi de l'état de santé des travailleurs par le médecin du travail. Les services du ministre du travail, de l'emploi et du dialogue social rencontrent régulièrement ceux de la ministre des affaires sociales et de la santé, des universitaires et des professeurs de médecine du travail afin qu'ils organisent la formation des futurs médecins du travail en respectant ces objectifs.
