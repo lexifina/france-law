@@ -22,8 +22,6 @@ VILLE/NOM SITE (2011)
 
 |
 
-1. Dijon, site de Dijon
-
 |
 
 3. Sites fixes de collecte
