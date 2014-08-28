@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511823
+
+- Question : [SEQ140511823](seq140511823.md) — Information sur l'existence de cavités souterraines
+
+## Réponse
+
+*Écologie, développement durable et énergie, JO du 2014-08-28, page 1990*
+
+La réponse publiée le 8 mai 2014 relative à la question n° 04419 du 7 février 2013 détaille les actions mises en œuvre par le Gouvernement dans le cadre des risques liés à l'effondrement de cavités souterraines, présents sur l'ensemble du territoire et affectant tout particulièrement la Haute-Normandie. Elle cite en particulier l'obligation d'information de l'acquéreur ou du locataire (IAL) qui s'impose au vendeur ou au bailleur de tout bien immobilier situé dans une zone couverte par un plan de prévention des risques (PPR). Dans ce cas, la transmission par les notaires des informations relatives aux risques liés à l'effondrement des cavités souterraines est obligatoire. En l'absence de plan de prévention des risques naturels (PPRN) relatif au risque « cavités souterraines », il n'existe pas à ce jour d'obligation légale de transmission par les notaires d'informations relatives à l'existence de cavités affectant la commune dans laquelle est situé le bien immobilier, objet de la transaction. Cependant, il ne faut pas oublier que la loi du 13 août 2004 de modernisation de la sécurité civile fait du citoyen un acteur de sa propre sécurité, notamment vis-à-vis des risques naturels. Il lui incombe ainsi la responsabilité de s'informer sur la nature des risques auxquels sa personne et ses biens (ou ceux d'autrui) sont soumis. La réponse publiée le 8 mai 2014 décrit les outils mis à la disposition de chacun pour accéder à l'information. Toutefois, dans un souci d'amélioration de l'information et de la prévention, une étude d'opportunité sera réalisée quant à l'extension de l'obligation de transmission par les notaires, de l'information aux zones non couvertes par un PPRN « cavités souterraines ».
