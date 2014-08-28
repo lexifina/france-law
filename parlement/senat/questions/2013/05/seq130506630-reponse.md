@@ -1,0 +1,9 @@
+# Réponse à la question SEQ130506630
+
+- Question : [SEQ130506630](seq130506630.md) — Bilan de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi dans la Creuse
+
+## Réponse
+
+*Travail, emploi et dialogue social, JO du 2014-08-28, page 1996*
+
+La situation des effectifs physiques de l'unité territoriale (UT) de la Creuse sur la période 2009 à 2013 fait apparaître la perte de deux agents, l'un de catégorie A et l'autre de catégorie B, ce qui porte, à ce jour, l'effectif à 21 agents. La direction départementale du travail, de l'emploi et de la formation professionnelle (DDTEFP) en comptait 23 fin 2009. Cette diminution d'effectif a concerné le champ travail. En 2009, la fusion des inspections du travail a permis la constitution d'une section du régime général comportant quatre agents : deux inspecteurs du travail (catégorie A), dont un agent issu de l'agriculture et trois contrôleurs du travail (catégorie B), dont un agent spécialisé en agriculture. Avant la fusion, les contrôles du secteur des transports étaient assurés par un inspecteur et un contrôleur du travail de la Haute Vienne à temps très partiel, soit deux jours par mois environ. En 2010, un inspecteur du travail a obtenu sa mutation pour un autre département et n'a pas été remplacé, afin que la section soit dotée d'un seul chef de section. La même année, un agent de catégorie B est parti à la retraite et n'a pas été remplacé. Il convient de noter que le poste de contrôleur du travail a été déclaré à la vacance en interne à deux reprises, sans qu'aucun candidat ne postule. Une étude menée par la responsable du pôle travail a permis d'envisager quelques pistes pour redistribuer certaines tâches entre les services et apporter un appui méthodologique au traitement de certains dossiers.
