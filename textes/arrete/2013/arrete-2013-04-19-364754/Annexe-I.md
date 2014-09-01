@@ -116,6 +116,8 @@ La soutenance est suivie d'un entretien de trente minutes avec le jury qui doit 
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
+Pour les deux épreuves d'admissibilité et pour la première épreuve d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
+
 Section économie et gestion
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques, techniques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
@@ -129,6 +131,8 @@ L'épreuve consiste en l'étude de situations d'organisation réelles, en vue de
 ― une résolution de problèmes basée sur des activités professionnelles de référence incluant l'exploitation des systèmes d'information ;
 
 ― la réponse à une question relative à une problématique de professionnalisation en rapport avec les situations proposées dans la première partie.
+
+Pour l'option gestion et administration, la seconde partie propose une question à dominante gestion et une question à dominante administration. Le candidat traite la question de son choix.
 
 Le sujet de l'épreuve est spécifique à l'option choisie.
 
@@ -224,6 +228,8 @@ La soutenance est suivie d'un entretien de trente minutes avec le jury, qui doit
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
+Pour les deux épreuves d'admissibilité et pour la première épreuve d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
+
 Section sciences et technique médico-sociales
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques, techniques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
@@ -275,6 +281,8 @@ L'épreuve comprend une soutenance de trente minutes durant laquelle le candidat
 La soutenance est suivie d'un entretien de trente minutes avec le jury, qui doit permettre de vérifier que le candidat a su s'interroger sur l'inscription de l'exploitation pédagogique envisagée dans l'ensemble des progressions proposées aux élèves. Il doit aussi mettre en évidence une réflexion sur la démarche scientifique et sur l'appréciation des sources et informations. Il permet en outre au jury d'apprécier la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
+
+Pour les deux épreuves d'admissibilité et pour la première épreuve d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
 
 Section génie chimique, génie civil,
 

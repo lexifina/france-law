@@ -68,7 +68,7 @@ Section mathématiques
 
 A. - Epreuve d'admissibilité
 
-Première épreuve écrite d'admissibilité du concours externe du CAPES de mathématiques (coefficient 1).
+Seconde épreuve écrite d'admissibilité du concours externe du CAPES de mathématiques (coefficient 1).
 
 B. - Epreuve d'admission
 

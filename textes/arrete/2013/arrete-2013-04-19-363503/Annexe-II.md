@@ -254,17 +254,17 @@ Epreuve de reconnaissance des acquis de l'expérience professionnelle définie �
 
 B. - Epreuve d'admission
 
-Epreuve professionnelle : analyse d'une situation d'enseignement à partir de l'exploitation pédagogique d'un dossier documentaire soumis au candidat par le jury et comportant des documents de nature professionnelle : extraits de manuels scolaires, d'annales d'examens, d'ouvrages divers de mathématiques, de travaux d'élèves, etc. Le dossier est en relation avec un niveau d'enseignement (collège ou lycée) choisi par le candidat au moment de l'inscription.
+Epreuve professionnelle : analyse d'une situation d'enseignement à partir de l'exploitation pédagogique d'un sujet soumis au candidat par le jury et comportant des documents de nature professionnelle : extraits de manuels scolaires, d'annales d'examens, d'ouvrages divers de mathématiques, de travaux d'élèves, etc. Le dossier est en relation avec un niveau d'enseignement (collège ou lycée) choisi par le candidat au moment de l'inscription.
 
 L'épreuve comporte un exposé suivi d'un entretien avec les membres du jury.
 
-Le candidat se voit proposer par le jury deux sujets, dont l'un au moins impose la présentation d'une utilisation pédagogique des TICE (ordinateur ou calculatrice). Il choisit de traiter l'un des deux sujets.
+Le candidat se voit proposer deux sujets. Il choisit de traiter l'un des deux sujets.
 
-Pendant sa préparation, le candidat a accès aux ouvrages de la bibliothèque du concours et peut, dans les conditions définies par le jury, utiliser des ouvrages personnels. Pendant le temps de préparation et pour l'exposé, le candidat ayant choisi un sujet imposant la présentation d'une utilisation pédagogique des TICE dispose des mêmes matériels mis à sa disposition sur le site du concours.
+Pendant sa préparation, le candidat a accès aux ouvrages de la bibliothèque du concours et peut, dans les conditions définies par le jury, utiliser des ouvrages personnels. Pendant le temps de préparation et pour l'exposé, le candidat dispose des outils numériques (ordinateur, calculatrices, logiciels) mis à sa disposition sur le lieu du concours.
 
-Le candidat doit analyser les documents qui lui sont soumis conformément aux indications données par le jury et préciser l'utilisation qu'il en ferait dans la ou les situations qui lui sont indiquées. Il définit ses objectifs ; expose les modalités et la progression ; propose des exercices ; explique les résultats attendus. Dans le cas où le candidat a choisi un sujet avec TICE, il doit inclure à son exposé la présentation d'une séquence utilisant soit l'ordinateur, soit la calculatrice.
+Le candidat doit analyser les documents qui lui sont soumis conformément aux indications données par le jury et préciser l'utilisation qu'il en ferait dans la ou les situations qui lui sont indiquées. Il définit ses objectifs ; expose les modalités et la progression ; propose des exercices ; explique les résultats attendus. Il inclut dans son exposé les outils numériques de son choix en fonction de leur pertinence pour le sujet traité.
 
-L'entretien a pour base la situation d'enseignement proposée. Lors de l'entretien, le jury peut demander la résolution d'un exercice proposé par le candidat et inviter celui-ci à replacer, dans la progression des programmes de collèges et de lycées, un thème mathématique évoqué. Si un sujet n'imposant pas une utilisation pédagogique des TICE a été choisi par le candidat, le jury peut demander à celui-ci de citer une illustration simple d'utilisation pédagogique des TICE. L'entretien peut s'étendre à d'autres aspects de l'expérience professionnelle du candidat.
+L'entretien a pour base la situation d'enseignement proposée. Lors de l'entretien, le candidat est conduit à justifier ses choix didactiques et pédagogiques, notamment ceux relatifs aux outils numériques. Le jury peut également demander la résolution d'un exercice proposé par le candidat et inviter celui-ci à replacer, dans la progression des programmes de collèges et de lycées, un thème mathématique évoqué. L'entretien peut s'étendre à d'autres aspects de l'expérience professionnelle du candidat.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure et quinze minutes maximum (exposé : trente minutes maximum ; entretien : quarante-cinq minutes maximum) ; coefficient 2.
 
@@ -334,13 +334,11 @@ Epreuve de reconnaissance des acquis de l'expérience professionnelle définie �
 
 B. - Epreuve d'admission
 
-Epreuve professionnelle. Cette épreuve comporte un exposé suivi d'un entretien avec le jury. L'exposé s'appuie sur l'exploitation d'un dossier se rapportant à une situation expérimentale et intègre la réalisation pratique que celle-ci comporte. L'entretien a pour base la situation d'enseignement proposée et s'étend à d'autres aspects de l'expérience professionnelle du candidat.
+Epreuve professionnelle. Cette épreuve comporte un exposé suivi d'un entretien avec le jury. L'exposé s'appuie sur l'exploitation d'un dossier proposé par le jury, se rapportant à une situation expérimentale en lien avec les programmes des classes des collèges et des lycées et intégrant la réalisation pratique que celle-ci comporte. L'entretien a pour base la situation d'enseignement proposée et s'étend à d'autres aspects de l'expérience professionnelle du candidat.
 
-Le jury tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
+Durée de la préparation : deux heures ; durée de l'épreuve : une heure et quinze minutes maximum (exposé : quarante minutes maximum ; entretien : trente-cinq minutes maximum ; coefficient 2.)
 
-Durée de la préparation : deux heures ; durée de l'épreuve : une heure et quinze minutes maximum (exposé : quarante-cinq minutes maximum, entretien : trente minutes maximum) ; coefficient 2.
-
-Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissance des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
+Lors de l'entretien, dix minutes maximum pourront être réservées à un échange sur le dossier de reconnaissances des acquis de l'expérience professionnelle établi pour l'épreuve d'admissibilité, qui reste, à cet effet, à la disposition du jury.
 
 Section tahitien
 
