@@ -568,7 +568,7 @@ B
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de la Seine-Maritime
+Direction départementale de l'équipement et de l'agriculture (1) de la Seine-Maritime
 
 FONCTIONS EXERCEES
 
@@ -608,7 +608,7 @@ A
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de Seine-et-Marne
+Direction départementale de l'équipement et de l'agriculture (1) de Seine-et-Marne
 
 FONCTIONS EXERCEES
 
@@ -664,7 +664,7 @@ C
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (1) des Yvelines
+Direction départementale des territoires des Yvelines
 
 FONCTIONS EXERCEES
 
@@ -686,7 +686,7 @@ NOMBRE DE POINTS (IM) par emploi
 
 |
 
-Chef de la mission "politique de la ville"
+Chef de la mission politique de la ville et chef d'unité rénovation urbaine - Service habitat et rénovation urbaine
 
 |
 
@@ -698,11 +698,11 @@ A
 
 |
 
-30 points
+30
 
 |
 
-Chargé de mission politique de la ville
+Chargé de mission politique de la ville, adjoint au chef d'unité rénovation urbaine - Service habitat et rénovation urbaine
 
 |
 
@@ -714,27 +714,47 @@ A
 
 |
 
-30 points
+15
 
 |
 
-Chargé de mission politique de la ville
+Chargé de mission développement urbain et social des quartiers - Service habitat et rénovation urbaine
 
 |
 
-B
+A
 
 |
 
-2
+1
 
 |
 
-20 points
+15
 
 |
 
-Comptable chargé des engagements comptables des dossiers d'investissement et du contrôle de la réalisation des travaux
+Chargé de mission politique de la ville - Service habitat et rénovation urbaine |
+
+B |
+
+2 |
+
+20 |
+
+Comptable chargé des engagements des dossiers de travaux d'investissement et du contrôle de la réalisation des travaux - Service habitat et rénovation urbaine |
+
+C |
+
+1
+
+|
+
+10
+
+|
+
+Assistant chargé d'instruction des dossiers rénovation urbaine - Service habitat et rénovation urbaine
 
 |
 
@@ -742,15 +762,15 @@ C
 
 |
 
-2
+1
 
 |
 
-10 points
+10
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) des Deux-Sèvres
+Direction départementale de l'équipement et de l'agriculture (1) des Deux-Sèvres
 
 FONCTIONS EXERCEES
 
@@ -1050,7 +1070,7 @@ C
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) du Var
+Direction départementale de l'équipement et de l'agriculture (1) du Var
 
 FONCTIONS EXERCEES
 
@@ -1220,8 +1240,6 @@ C
 
 NOTA :
 
-(1) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2007.
+(1) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
-(2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
-
-(3) Arrêté du 12 mars 2014 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er juillet 2010 pour les directions départementales de l'équipement des Hauts-de-Seine et de la Seine-Saint-Denis.
+(2) Arrêté du 12 mars 2014 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er juillet 2010 pour les directions départementales de l'équipement des Hauts-de-Seine et de la Seine-Saint-Denis.

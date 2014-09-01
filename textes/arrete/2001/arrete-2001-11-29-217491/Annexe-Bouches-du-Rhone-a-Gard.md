@@ -932,15 +932,17 @@ B
 
 |
 
-Direction départementale de l'équipement de la Dordogne
+Direction départementale des territoires de la Dordogne
 
-FONCTIONS EXERCEES
+FONCTIONS EXERCÉES
 
 |
 
 NIVEAU
 
-de qualification de l'emploi
+de qualification
+
+de l'emploi
 
 |
 
@@ -950,13 +952,15 @@ d'emplois
 
 |
 
-NOMBRE DE POINTS (IM)
+NOMBRE
+
+de points (IM)
 
 par emploi
 
 |
 
-Chef de la cellule habitat
+Adjoint au chef de pôle développement de l'offre de logement, chargé des dossiers ANRU, service urbanisme habitat construction
 
 |
 
@@ -968,7 +972,23 @@ A
 
 |
 
-50 points
+25
+
+|
+
+Responsable de la cellule documents stratégiques et ville durable, service urbanisme habitat construction
+
+|
+
+A
+
+|
+
+1
+
+|
+
+25
 
 |
 
