@@ -208,11 +208,11 @@ Maine-et-Loire
 
 |
 
-[Angers
+Angers
 
 |
 
-Ressort du tribunal de grande instance d'Angers. (4)]
+Ressort des tribunaux de grande instance d'Angers et de Saumur.
 
 |
 
@@ -794,11 +794,11 @@ Corrèze
 
 |
 
-[Brive-la-Gaillarde
+Brive-la-Gaillarde
 
 |
 
-Ressort du tribunal de grande instance de Brive-la-Gaillarde. (4)]
+Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle.
 
 |
 
@@ -1626,7 +1626,11 @@ Mayotte
 
 |
 
-Mamoudzou |
+|
+
+Mamoudzou
+
+|
 
 Ressort du tribunal de grande instance de Mamoudzou
 
@@ -1650,11 +1654,11 @@ Haute-Garonne
 
 |
 
-[Toulouse
+Toulouse
 
 |
 
-Ressort du tribunal de grande instance de Toulouse. (4)]
+Ressort des tribunaux de grande instance de Saint-Gaudens et de Toulouse.
 
 |
 

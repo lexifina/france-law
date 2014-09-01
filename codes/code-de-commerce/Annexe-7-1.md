@@ -314,47 +314,33 @@ Maine-et-Loire
 
 Angers
 
+Saumur
+
 |
 
 Angers
 
 |
 
-Ressort du tribunal de grande instance d'Angers
+Ressort des tribunaux de grande instance de d'Angers et de Saumur
 
 |
 
-Mayenne
+Mayenne |
 
-|
+Laval |
 
-Laval
+Laval |
 
-|
+Ressort du tribunal de grande instance de Laval |
 
-Laval
+Sarthe |
 
-|
+Le Mans |
 
-Ressort du tribunal de grande instance de Laval
+Le Mans |
 
-|
-
-Sarthe
-
-|
-
-Le Mans
-
-|
-
-Le Mans
-
-|
-
-Ressort du tribunal de grande instance du Mans
-
-|
+Ressort du tribunal de grande instance du Mans |
 
 Cour d'appel de Bastia
 
@@ -914,9 +900,11 @@ Ressort des tribunaux de grande instance d'Arras et de Béthune
 
 |
 
-Boulogne-sur-Mer
-
 Saint-Omer
+
+|
+
+Boulogne-sur-Mer
 
 |
 
@@ -1002,47 +990,33 @@ Corrèze
 
 Brive-la-Gaillarde
 
+Tulle
+
 |
 
 Brive-la-Gaillarde
 
 |
 
-Ressort du tribunal de grande instance de Brive-la-Gaillarde
+Ressort des tribunaux de grande instance de Brive-la-Gaillarde et de Tulle
 
 |
 
-Creuse
+Creuse |
 
-|
+Guéret |
 
-Guéret
+Guéret |
 
-|
+Ressort du tribunal de grande instance de Guéret |
 
-Guéret
+Haute-Vienne |
 
-|
+Limoges |
 
-Ressort du tribunal de grande instance de Guéret
+Limoges |
 
-|
-
-Haute-Vienne
-
-|
-
-Limoges
-
-|
-
-Limoges
-
-|
-
-Ressort du tribunal de grande instance de Limoges
-
-|
+Ressort du tribunal de grande instance de Limoges |
 
 Cour d'appel de Lyon
 
@@ -1068,7 +1042,17 @@ Loire
 
 |
 
-Saint-Etienne
+Roanne
+
+|
+
+Roanne
+
+|
+
+Ressort du tribunal de grande instance de Roanne
+
+|
 
 |
 
@@ -1076,9 +1060,11 @@ Saint-Etienne
 
 |
 
-Ressort du tribunal de grande instance de Saint-Etienne
+Saint-Etienne
 
 |
+
+Ressort du tribunal de grande instance de Saint-Etienne |
 
 Rhône
 
@@ -1830,6 +1816,20 @@ Ille-et-Vilaine et Côtes-d'Armor
 
 |
 
+Rennes
+
+|
+
+Rennes
+
+|
+
+Ressort du tribunal de grande instance de Rennes
+
+|
+
+|
+
 Saint-Malo
 
 |
@@ -2072,59 +2072,41 @@ Haute-Garonne
 
 Toulouse
 
+Saint-Gaudens
+
 |
 
 Toulouse
 
 |
 
-Ressort du tribunal de grande instance de Toulouse
+Ressort des tribunaux de grande instance de Toulouse et de Saint-Gaudens
 
 |
 
-Tarn
+Tarn |
+
+Albi |
+
+Albi |
+
+Ressort du tribunal de grande instance d'Albi |
 
 |
 
-Albi
+Castres |
 
-|
+Castres |
 
-Albi
+Ressort du tribunal de grande instance de Castres |
 
-|
+Tarn-et-Garonne |
 
-Ressort du tribunal de grande instance d'Albi
+Montauban |
 
-|
+Montauban |
 
-Castres
-
-|
-
-Castres
-
-|
-
-Ressort du tribunal de grande instance de Castres
-
-|
-
-Tarn-et-Garonne
-
-|
-
-Montauban
-
-|
-
-Montauban
-
-|
-
-Ressort du tribunal de grande instance de Montauban
-
-|
+Ressort du tribunal de grande instance de Montauban |
 
 Cour d'appel de Versailles
 
