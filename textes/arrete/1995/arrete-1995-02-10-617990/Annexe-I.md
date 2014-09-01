@@ -2,7 +2,7 @@
 
 Horaire hebdomadaire des filières mathématique et physique, physique et chimie, physique et sciences de l'ingénieur, physique et technologie
 
-Première année : classes de " mathématiques, physique et sciences de l'ingénieur ", " physique, chimie et sciences de l'ingénieur ",
+Première année : classes de " mathématique, physique et sciences de l'ingénieur ", " physique, chimie et sciences de l'ingénieur ",
 
 " physique, technologie et sciences de l'ingénieur "
 
@@ -11,8 +11,6 @@ DISCIPLINES
 |
 
 CLASSES
-
-|
 
 |
 
@@ -25,6 +23,10 @@ Physique, chimie et sciences de l'ingénieur
 |
 
 Physique, technologie et sciences de l'ingénieur
+
+|
+
+|
 
 |
 
@@ -114,7 +116,7 @@ Mathématiques
 
 |
 
-7 (f)
+7
 
 |
 
@@ -162,7 +164,7 @@ Physique
 
 |
 
-5 (f)
+5
 
 |
 
@@ -500,11 +502,11 @@ TOTAL
 
 |
 
-7,5
+8
 
 |
 
-5,5
+5,5 (d)
 
 |
 
@@ -658,7 +660,7 @@ Mathématiques
 
 |
 
-7 (f)
+7
 
 |
 
@@ -706,7 +708,7 @@ Physique
 
 |
 
-5 (f)
+5
 
 |
 
@@ -1056,11 +1058,11 @@ TOTAL
 
 |
 
-5
+6
 
 |
 
-4
+3 (f)
 
 |
 
@@ -1100,15 +1102,15 @@ TOTAL
 
 |
 
-20
+20 (e)
 
 |
 
-9,5
+10
 
 |
 
-5,5
+5,5 (d)
 
 |
 
@@ -1152,19 +1154,19 @@ Langue vivante étrangère II (facultative)
 
 |
 
-(a) Deux heures de travaux pratiques pour les étudiant de la classe de Mathématique, physique et sciences de l'ingénieur suivant l'option Science de l'ingénieur (module optionnel).
+(a) Deux heures de travaux pratiques pour les étudiants de la classe de Mathématiques, physique et sciences de l'ingénieur suivant l'option Science de l'ingénieur (module optionnel).
 
 |
 
-(b) Non applicable aux étudiants de la classe de Mathématique, physique et sciences de l'ingénieur suivant l'option Informatique.
+(b) Non applicable aux étudiants de la classe de Mathématiques, physique et sciences de l'ingénieur suivant l'option Informatique.
 
 |
 
-(c) Plus une heure de cours et une heure de travaux dirigés pour les étudiant de la classe Mathématique, physique et sciences de l'ingénieur suivant l'option Informatique.
+(c) Plus une heure de cours et une heure de travaux dirigés pour les étudiants de la classe Mathématiques, physique et sciences de l'ingénieur suivant l'option Informatique.
 
 |
 
-(d) Plus deux heures de travaux pratique en première et deuxième périodes pour les étudiants issus du baccalauréat général (série scientifique) n'ayant pas choisi en enseignement obligatoire la technologie industrielle.
+(d) Plus deux heures de travaux pratiques en première et deuxième périodes pour les étudiants issus du baccalauréat général (série scientifique) n'ayant pas choisi en enseignement obligatoire les sciences de l'ingénieur.
 
 |
 
@@ -1172,11 +1174,11 @@ Langue vivante étrangère II (facultative)
 
 |
 
-(f) Plus une heure pour les classes réservées aux bacheliers de la série S ayant suivi l'enseignement de technologie industrielle comme matière obligatoire.
+(f) Plus deux heures pour les étudiants de la classe de Mathématique, physique et sciences de l'ingénieur suivant l'option Sciences de l'ingénieur (module optionnel).
 
 |
 
-Deuxième année : classes de " mathématiques et physique ", " physique et chimie ", " physique et sciences de l'ingénieur ",
+Deuxième année : classes de " mathématique et physique ", " physique et chimie ", " physique et sciences de l'ingénieur ",
 
 " physique et technologie ", affectées ou non d'une étoile (*)
 
@@ -1336,11 +1338,11 @@ Physique
 
 |
 
-4
+3
 
 |
 
-1
+2
 
 |
 
@@ -1436,15 +1438,49 @@ Sciences industrielles
 
 |
 
-2,5 (d)
+2,5
 
 |
 
-Informatique
+Informatique (c) |
+
+1 (b)
 
 |
 
-1 heure d'enseignement incluse dans les horaires des disciplines scientifiques et technologiques (b)
+1 (b)
+
+|
+
+|
+
+1
+
+|
+
+1
+
+|
+
+|
+
+1
+
+|
+
+1
+
+|
+
+|
+
+1
+
+|
+
+1
+
+|
 
 |
 
@@ -1520,7 +1556,7 @@ Langue vivante étrangère I
 
 |
 
-Travail d'initiative personnelle encadrés
+Travail d'initiative personnelle encadrée
 
 |
 
@@ -1544,7 +1580,11 @@ Travail d'initiative personnelle encadrés
 
 |
 
+1
+
 |
+
+1
 
 |
 
@@ -1598,11 +1638,11 @@ TOTAL
 
 |
 
-23 (b)
+24 (d)
 
 |
 
-6 (b)
+7 (d)
 
 |
 
@@ -1610,23 +1650,11 @@ TOTAL
 
 |
 
-20,5
+22(d)
 
 |
 
-5,5
-
-|
-
-5
-
-|
-
-20,5
-
-|
-
-6,5
+6,5(d)
 
 |
 
@@ -1634,11 +1662,23 @@ TOTAL
 
 |
 
-18
+21,5 (d)
 
 |
 
-9,5
+7,5(d)
+
+|
+
+5
+
+|
+
+19(d)
+
+|
+
+11(d)
 
 |
 
@@ -1682,10 +1722,14 @@ Langue vivante étrangère II (facultative)
 
 |
 
-(a) Non applicable aux étudiants de la classe de Mathématique et physique suivant l'option Informatique.
+(a) Non applicable aux étudiants de la classe de Mathématiques et physique suivant l'option Informatique.
 
 |
 
-(b) Plus une heure de cours et une heure de travaux dirigés pour les étudiants de la classe de Mathématique et physique suivant l'option Informatique.
+(b) Plus une heure de cours et une heure de travaux dirigés sur l'ensemble de l'année pour les étudiants de la classe de Mathématiques et physique suivant l'option Informatique.
 
 |
+
+(c) Horaire limité à la première période de la seconde année |
+
+(d) Horaire diminué d'une heure en deuxième période |
