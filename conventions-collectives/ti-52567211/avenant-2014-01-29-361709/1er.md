@@ -1,0 +1,37 @@
+# Article 1er
+
+I. – Le paragraphe 2 de l'article 3 relatif aux salariés bénéficiaires est ainsi rédigé :
+
+« 2. Tolérances
+
+Les caractères collectif et obligatoire du présent régime ne font pas obstacle, en l'état, ce jour, des dispositions de l'article R. 242-1-6 du code de la sécurité sociale et de l'accord national du 10 juin 2008, à la faculté du salarié, placé dans l'une des situations suivantes, d'être à son choix dispensé d'adhésion.
+
+Quelle que soit leur date d'embauche, les salariés bénéficiant d'une assurance frais de santé en qualité d'ayants droit de leur conjoint, concubin ou partenaire d'un Pacs, en application d'un accord collectif obligatoire pour lui, peuvent demander à être exclus de l'assurance complémentaire frais de santé prévue au présent accord dès lors qu'ils apportent un document attestant chaque année cette couverture obligatoire pour un niveau de prestations au moins équivalent. Cette exclusion prend fin en cas de modification de la qualité d'ayant droit, en cas de non-renouvellement annuel de l'attestation, de diminution des prestations à un niveau inférieur à celui fixé dans le présent accord, de cessation du régime obligatoire ou à la demande du salarié. En cas d'exclusion, les cotisations correspondantes ne sont dues ni par le salarié ni par l'employeur.
+
+Le salarié doit justifier chaque année de la couverture obligatoire dont il bénéficie.
+
+La demande de ne pas cotiser doit être faite par écrit à l'employeur au plus tard avant la fin du premier mois qui suit celui de l'obtention de la condition d'ancienneté prévue au paragraphe 1 du présent article.
+
+Si le salarié ne remplit plus les conditions d'adhésion facultative, il doit en informer l'employeur, et il devra alors obligatoirement cotiser à l'assurance complémentaire santé à compter du mois civil suivant.
+
+Les salariés à temps très partiel (inférieur à un mi-temps) qui devraient acquitter une cotisation au moins égale à 10 % de leur rémunération brute peuvent choisir de ne pas cotiser.
+
+Les dispositions relatives aux salariés à temps très partiel s'appliquent également aux apprentis.
+
+Peuvent également choisir de ne pas cotiser les salariés bénéficiant d'une couverture complémentaire frais de santé obligatoire dans le cadre d'un autre emploi (cas des salariés à employeurs multiples). Le salarié à employeurs multiples qui demande à être dispensé d'affiliation doit le faire savoir par écrit en produisant tous documents justifiant de la couverture souscrite par ailleurs.
+
+Il est entendu que dans le cas où tous les employeurs du salarié relèvent du champ d'application du présent accord, le salarié et un seul de ses employeurs cotisent auprès des organismes concernés. Cet employeur est celui chez lequel le salarié acquiert en premier la condition d'ancienneté requise pour bénéficier du régime, sauf accord écrit entre les employeurs et le salarié.
+
+Les salariés bénéficiaires des dispositions de l'article L. 861-3 du code de la sécurité sociale relatives à la protection sociale complémentaire en matière de santé (dite CMU-C) ainsi que ceux bénéficiant d'une aide à l'acquisition d'une complémentaire santé (art. L. 863-1 du code de la sécurité sociale) peuvent être dispensés d'affiliation jusqu'à l'échéance du contrat individuel. Le salarié qui demande à être dispensé d'affiliation doit le faire savoir par écrit en produisant tous documents justifiant de la couverture dont il bénéficie à ce titre.
+
+Les salariés en contrat à durée déterminée, y compris les apprentis et indépendamment de leur rémunération dans ce cas, ayant 6 mois d'ancienneté et moins de 12 mois d'ancienneté ont aussi la faculté de demander à être exclus.
+
+La demande d'exclusion doit être faite par écrit à l'employeur au plus tard avant la fin du premier mois qui suit celui de l'obtention de la condition de 6 mois d'ancienneté. »
+
+II. – Il est ajouté à l'article 3 un paragraphe 3 ainsi rédigé :
+
+« 3. Portabilité
+
+Les salariés bénéficient des dispositions légales sur le maintien des garanties de protection sociale complémentaire en cas de cessation du contrat de travail ouvrant droit à prise en charge par le régime d'assurance chômage selon les conditions définies par les textes légaux, et ce à compter de la date fixée par la loi. Ces dispositions figurent en annexe VI au présent accord pour information.
+
+Pour bénéficier des prestations, le demandeur d'emploi bénéficiant du maintien des garanties doit fournir l'ensemble des justificatifs demandés au salarié auxquels s'ajoute le justificatif de versement des allocations chômage du mois correspondant à celui pour lequel les prestations demandées sont dues. »
