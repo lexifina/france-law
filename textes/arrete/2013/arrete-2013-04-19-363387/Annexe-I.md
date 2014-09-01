@@ -12,7 +12,7 @@ L'option design vise au recrutement de professeurs d'arts appliqués aptes à di
 
 L'option métiers d'art vise au recrutement de professeurs de spécialités métiers d'art aptes à dispenser les enseignements professionnels, théoriques et pratiques, dans les formations conduisant au diplôme des métiers d'art (DMA).
 
-A. ― Epreuves d'admissibilité
+A. - Epreuves d'admissibilité
 
 1° Epreuve d'investigation méthodique en design et en métiers d'art.
 
@@ -32,7 +32,7 @@ Durée : cinq heures ; coefficient 1.
 
 Au titre de la même session, le sujet de chacune des épreuves d'admissibilité peut être commun avec celui des épreuves d'admissibilité du concours externe de recrutement du CAPLP dans la section correspondante.
 
-B. ― Epreuves d'admission
+B. - Epreuves d'admission
 
 Les deux épreuves orales d'admission comportent un entretien avec le jury qui permet d'évaluer la capacité du candidat à s'exprimer avec clarté et précision, à réfléchir aux enjeux scientifiques, didactiques, épistémologiques, culturels et sociaux que revêt l'enseignement du champ disciplinaire du concours, notamment dans son rapport avec les autres champs disciplinaires.
 
@@ -61,6 +61,8 @@ Le dossier est relatif à une production destinée à être fabriquée en petite
 L'épreuve permet d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques de la discipline. Elle permet au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre d'un enseignement. Elle permet en outre au jury, notamment au cours de l'entretien qui suit la présentation, d'apprécier la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
+
+.
 
 Section biotechnologies
 
@@ -92,7 +94,7 @@ Durée : travaux pratiques : quatre heures ; durée de l'épreuve : une heure (e
 
 L'épreuve a pour but d'évaluer, dans l'option choisie, l'aptitude du candidat à concevoir et à organiser une séquence de formation pour un objectif pédagogique imposé et un niveau de classe donné. La séquence de formation s'inscrit dans les programmes de lycée.
 
-Elle prend appui sur les investigations et les analyses effectuées par le candidat pendant les quatre heures de travaux pratiques relatifs à un environnement pluritechnique, une organisation, une mise en œuvre d'actions...
+Elle prend appui sur les investigations et les analyses effectuées par le candidat pendant les quatre heures de travaux pratiques relatifs à un environnement pluritechnique, une organisation, une mise en œuvre d'actions.
 
 Un dossier est fourni au candidat par le jury, comportant divers documents : documents techniques, tels que protocoles de manipulations, résultats expérimentaux, résultats d'enquêtes, fiches techniques, bilan d'actions, projets d'actions, études, etc., et documents pédagogiques.
 
@@ -115,6 +117,8 @@ L'épreuve comprend une soutenance de trente minutes durant laquelle le candidat
 La soutenance est suivie d'un entretien de trente minutes avec le jury qui doit permettre de vérifier que le candidat a su s'interroger sur l'inscription de l'exploitation pédagogique envisagée dans l'ensemble des progressions proposées aux élèves. Il doit aussi mettre en évidence une réflexion sur la démarche scientifique et sur l'appréciation des sources et informations. Il permet en outre au jury d'apprécier la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
+
+Pour les deux épreuves d'admissibilité et pour la première épreuve d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
 
 Section économie et gestion
 
@@ -218,6 +222,8 @@ La soutenance est suivie d'un entretien de trente minutes avec le jury, qui doit
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
+Pour les deux épreuves d'admissibilité et pour la première épreuve d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
+
 Section hôtellerie-restauration
 
 L'ensemble des épreuves du concours vise à évaluer les capacités des candidats au regard des dimensions disciplinaires, scientifiques, techniques et professionnelles de l'acte d'enseigner et des situations d'enseignement.
@@ -254,9 +260,9 @@ L'épreuve comporte trois phases :
 
 ― une phase d'une durée de deux heures qui permet au candidat de préparer sa séquence avec, le cas échéant, la collaboration d'un commis ;
 
-― une phase d'une durée de trois heures, consacrée à la réalisation de la séquence pédagogique demandée, avec un groupe d'élèves, en présence ou non du commis, selon les choix du candidat ;
+― une phase d'une durée de trois heures, consacrée à la réalisation de la séquence pédagogique demandée, en présence ou non du commis, selon les choix du candidat ;
 
-― une phase d'échange avec le jury, d'une durée d'une heure, comportant un exposé de trente minutes permettant au candidat d'exposer ses choix pédagogiques et didactiques suivi d'un entretien de trente minutes permettant d'approfondir et d'élargir l'analyse de la séquence et du contexte.
+― une phase d'échange avec le jury, d'une durée d'une heure, comportant un exposé de vingt minutes permettant au candidat d'exposer ses choix pédagogiques et didactiques suivi d'un entretien de quarante minutes permettant d'approfondir et d'élargir l'analyse de la séquence et du contexte.
 
 Pour l'option sciences et technologies des services en hôtellerie et restauration, l'épreuve peut impliquer des échanges en langue anglaise.
 
@@ -361,6 +367,8 @@ L'épreuve comprend une soutenance de trente minutes durant laquelle le candidat
 La soutenance est suivie d'un entretien de trente minutes avec le jury qui doit permettre de vérifier que le candidat a su s'interroger sur l'inscription de l'exploitation pédagogique envisagée dans l'ensemble des progressions proposées aux élèves. Il doit aussi mettre en évidence une réflexion sur la démarche scientifique et sur l'appréciation des sources et informations. Il permet en outre au jury d'apprécier la capacité du candidat à prendre en compte les acquis et les besoins des élèves, à se représenter la diversité des conditions d'exercice de son métier futur, à en connaître de façon réfléchie le contexte dans ses différentes dimensions (classe, équipe éducative, établissement, institution scolaire, société) et les valeurs qui le portent, dont celles de la République.
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
+
+Pour les deux épreuves d'admissibilité et pour la première épreuve d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
 
 Section sciences industrielles de l'ingénieur
 
