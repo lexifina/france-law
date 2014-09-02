@@ -1,0 +1,9 @@
+# Réponse à la question n° 61049
+
+- Question : [61049](61049.md) — Question n° 61049 — Tchad; déplacement; bilan
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Dans la continuité des déplacements en Côte d'Ivoire et au Niger, la visite du Président de la République à N'Djamena, les 18 et 19 juillet derniers, a permis de réaffirmer l'étroitesse des liens unissant la France au Tchad et d'échanger sur les sujets d'intérêt commun. Ce déplacement s'inscrivait dans le cadre du réaménagement du dispositif militaire français dans la région et du lancement de l'opération Barkhane, dont N'Djamena accueille le commandement. A ce titre, la visite du Président de la République sur la base Kosseï et son adresse aux troupes françaises ont témoigné de la détermination de la France à lutter contre la menace terroriste au Sahel. Les échanges avec le président Idriss Déby Itno ont été l'occasion pour les deux chefs d'Etat de souligner leur convergence de vues sur les problématiques de sécurité régionale (Libye, République centrafricaine, Soudan, Boko Haram) et de réaffirmer leur engagement en faveur de la paix et de la stabilité dans la région. Le Président de la République a par ailleurs salué l'implication du Tchad au Mali, d'abord à titre bilatéral, aux côtés des forces françaises, puis au sein de la MINUSMA, opération de maintien de la paix des Nations unies. Les enjeux de développement ont également été abordés, sous l'angle économique, avec les perspectives de retour au Tchad du Fonds monétaire international, comme sous l'angle environnemental, avec la mobilisation des deux pays en faveur de la lutte contre le réchauffement climatique. Enfin, les échanges de la délégation présidentielle avec des représentants d'associations de défense des droits de l'Homme ont permis de rappeler que la France suit avec attention l'évolution des libertés et de la vie démocratique, au Tchad comme dans le reste du monde.
