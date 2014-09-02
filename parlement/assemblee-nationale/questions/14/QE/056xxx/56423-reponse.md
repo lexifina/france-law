@@ -1,0 +1,9 @@
+# Réponse à la question n° 56423
+
+- Question : [56423](56423.md) — Question n° 56423 — gros gibier; indemnisation; réglementation
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Ces dernières années, la prolifération du grand gibier a incité le Gouvernement et plus spécialement le ministère en charge de la chasse, à mettre en oeuvre des mesures qui, mises en oeuvre de manière volontariste sur le territoire, doivent permettre à terme de régler les problèmes liés à cette prolifération. Ces mesures, telles que le plan national de maîtrise du sanglier, répondent en effet à la nécessité impérieuse d'endiguer la prolifération inquiétante de certaines populations de grand gibier, à l'origine d'accidents, de tensions et de dommages de plus en plus mal acceptés par ceux qui en sont les victimes. Il s'agit d'un chantier de longue haleine à conduire sur plusieurs années pour revenir à une situation à nouveau supportable par la collectivité publique. La loi portant diverses dispositions cynégétiques du 7 mars 2012 a consolidé en conséquence le dispositif d'indemnisation des dégâts agricoles dus au grand gibier, subis par les agriculteurs, par les fédérations départementales des chasseurs. Son décret d'application n° 2013-1221 du 23 décembre 2013 a été élaboré en concertation étroite avec la fédération nationale des chasseurs et les organisations agricoles majoritaires. La loi d'avenir pour l'agriculture, l'alimentation et la forêt adoptée en seconde lecture au Sénat, introduit par ailleurs des mesures en faveur d'un retour à l'équilibre sylvo-cynégétique dans les territoires forestiers menacés par les dégâts de grand gibier. La question de la position française sur ces questions au sein des institutions européennes et la proposition de créer une commission nationale sur le sujet relèvent de la compétence du ministre en charge de la chasse.
