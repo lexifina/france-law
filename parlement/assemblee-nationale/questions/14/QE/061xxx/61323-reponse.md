@@ -1,0 +1,9 @@
+# Réponse à la question n° 61323
+
+- Question : [61323](61323.md) — Question n° 61323 — déplacement du ministre; bilan
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Mme Fleur Pellerin, secrétaire d'État au commerce extérieur, à la promotion du tourisme et aux Français de l'étranger, s'est rendue en Australie du 18 au 19 juillet. Elle a été reçue par son homologue, M. Andrew Robb, ainsi que par Mme Gladys Berejiklian, ministre des transports de Nouvelle-Galles du Sud. Ces entretiens ont confirmé l'excellence de la relation bilatérale, portée par le partenariat stratégique franco-australien, dont témoignent également les récentes visites du Premier ministre australien et de la ministre des affaires étrangères australienne en France. Mme Pellerin a également rencontré la communauté d'affaires, des représentants d'entreprises françaises du secteur des infrastructures et des représentants de la communauté des jeunes expatriés en Australie. Ce déplacement a été l'occasion de mettre en valeur le savoir-faire des entreprises françaises, très présentes en Australie (plus de 330 entreprises dont 36 du CAC40), et le renforcement des relations commerciales entre les deux pays. L'Australie est notre 5e excédent commercial avec 1,7 Md euros en 2013. Elle a ouvert la voie à de nouvelles coopérations, en particulier dans le domaine des infrastructures et de l'énergie. Le 19 juillet, Mme Pellerin a représenté la France à la réunion des ministres du commerce du G20, en présence du directeur général de l'Organisation mondiale du commerce, M. Roberto Azevêdo. Cette réunion a constitué une étape importante dans la perspective du sommet du G20 de Brisbane des 15 novembre 2014. Les échanges ont notamment porté sur le rôle du commerce international dans la relance de la croissance mondiale et la contribution du G20 au renforcement du système commercial multilatéral.
