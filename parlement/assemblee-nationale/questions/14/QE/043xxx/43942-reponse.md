@@ -1,0 +1,9 @@
+# Réponse à la question n° 43942
+
+- Question : [43942](43942.md) — Question n° 43942 — développement; agents de l'État
+
+## Réponse
+
+*JO du 2014-09-02*
+
+L'article 133 de la loi n° 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique, donne un statut juridique au télétravail dans la fonction publique : - en renvoyant, d'une part, à l'article L. 1222-9 du code du travail pour définir ce mode d'organisation du travail, aux termes duquel « le télétravail désigne toute forme d'organisation du travail dans laquelle un travail qui aurait également pu être exécuté dans les locaux de l'employeur est effectué par un salarié hors de ces locaux de façon régulière et volontaire en utilisant les technologies de l'information et de la communication dans le cadre d'un contrat de travail ou d'un avenant à celui-ci », - en posant, d'autre part, les grands principes tels que le volontariat, la réversibilité et le principe d'égalité de traitement des télétravailleurs et des agents exerçant leurs fonctions sur site. Relèvent du champ d'application de ce texte les fonctionnaires, les agents publics non fonctionnaires ainsi que les magistrats. Un décret en Conseil d'Etat doit fixer les conditions d'application de cet article, notamment en ce qui concerne les modalités d'organisation du télétravail (article 133 dernier alinéa de la loi du 12 mars 2012 précitée). La question du télétravail est inscrite dans le programme de travail de l'agenda social de la fonction publique. Dans ce cadre, les modalités de mise en oeuvre de ce dispositif seront discutées avec les employeurs publics et les organisations syndicales et feront l'objet de la préparation du décret en Conseil d'Etat prévu par la loi.
