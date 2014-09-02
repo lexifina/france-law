@@ -1,0 +1,9 @@
+# Réponse à la question n° 51295
+
+- Question : [51295](51295.md) — Question n° 51295 — dons de gamètes; anonymat; réglementation
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Le principe de l'anonymat du don de gamètes, consacré par la loi n° 94-654 du 29 juillet 1994, relative au don et à l'utilisation des éléments et produits du corps humain, à l'assistance médicale à la procréation et au diagnostic prénatal, est le corollaire du principe de non-patrimonialité des éléments ou produits du corps humain. Il est la conséquence du principe plus général d'anonymat du don des éléments et produits du corps humain rappelé tant à l'article 16-8 du code civil qu'à l'article L. 1211-5 du code de la santé publique. Ce principe d'ordre public avait d'ores et déjà été mis en oeuvre avant la loi précitée de 1994. Ainsi, dès leur création, les Centres d'Etude et de Conservation des OEufs et du Sperme humains (CECOS) ont en effet adopté officiellement un certain nombre de normes techniques et éthiques (gratuité et anonymat), en s'inspirant des principes déjà existants en matière de don de sang et d'organes visant à éviter tout risque de pressions ou de rétributions. Ce faisant, tous ces organismes se sont appuyés bien avant 1994 sur le principe de l'anonymat, dont la nécessité avait à l'époque été rappelée par le Comité Consultatif National d'Ethique (CCNE) dans son avis n° 18 (Etat des études conduites par le Comité concernant les dons de gamètes et d'embryons) en date du 15 décembre 1989. Bien que débattu, ce principe d'anonymat a été maintenu lors de la dernière révision des lois de bioéthique. Il s'oppose en conséquence, en l'état actuel du droit, à la révélation par les CECOS de l'identité des donneurs de gamètes à la demande des personnes nées d'un tel don avant l'entrée en vigueur de la loi n° 94-654 du 29 juillet 1994.
