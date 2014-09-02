@@ -1,0 +1,9 @@
+# Réponse à la question n° 61984
+
+- Question : [61984](61984.md) — Question n° 61984 — filets maillants dérivants; politiques communautaires
+
+## Réponse
+
+*JO du 2014-09-02*
+
+La réglementation actuelle permet en effet de pêcher au moyen de filets dérivants d'une longueur inférieure ou égale à 2,5 kilomètres. Cette pêche est pratiquée uniquement par la petite pêche côtière, en métropole et en outre-mer, dans la bande côtière et en zone estuarienne. Le cadre actuel est satisfaisant car il permet d'assurer aux flottilles concernées une certaine polyvalence de leur activité, l'utilisation de petits filets maillants dérivants étant généralement complémentaires d'une autre activité de pêche. Le filet dérivant est parfois la seule technique de pêche véritablement adaptée dans les zones à forts courants ou à fortes conditions de mer ou pour certaines espèces de poisson. Dans le cas de la Martinique, le filet dérivant est ainsi la technique la plus adaptée pour la pêche du poisson-volant. Dès lors, la France ne partage pas la position de la Commission européenne sur ce dossier. Les discussions sur ce règlement européen n'ont pas encore débuté au sein du Conseil des ministres de l'Union européenne. Le Secrétaire d'État chargé des transports, de la mer et de la pêche y portera une position visant à garantir cette pêche importante pour la petite pêche côtière artisanale, celle qui fait la richesse et le dynamisme de notre économie littorale. Cette proposition de règlement risque en effet de déstabiliser un secteur artisanal qui est pourtant encouragé par la nouvelle politique commune de la pêche, y compris par son instrument financier, le Fonds européen pour les affaires maritimes et la pêche (FEAMP). Ce règlement sera examiné et adopté selon la procédure législative ordinaire (co-décision) entre le Conseil des ministres de l'Union européenne et le Parlement européen.
