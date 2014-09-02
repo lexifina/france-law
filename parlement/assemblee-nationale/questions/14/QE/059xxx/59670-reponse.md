@@ -1,0 +1,9 @@
+# Réponse à la question n° 59670
+
+- Question : [59670](59670.md) — Question n° 59670 — visite officielle; bilan
+
+## Réponse
+
+*JO du 2014-09-02*
+
+La ministre de la décentralisation et de la fonction publique s'est rendue à Kinshasa, capitale de la République Démocratique du Congo (RDC) du 27 au 30 juin 2014 à l'invitation de son homologue, M. Jean-Claude Kibala, ministre de la fonction publique. Cette visite était la première d'un ministre du Gouvernement français depuis la visite du Président de la République pour le XIVe sommet de la Francophonie les 13 et 14 octobre 2012. Le ministre, Jean-Claude Kibala, a souhaité la présence de la ministre pour remercier la France de son appui en matière de réforme de l'État et de renforcement des capacités administratives du pays. C'est à ce titre, que lors de cette visite, la ministre a notamment procédé à l'inauguration de l'Ecole nationale d'administration (ENA) de RDC, le 28 juin 2014, en présence également du Premier ministre, M. Augustin Matata Ponyo Mapon. Ce projet, qui fait partie des réussites concrètes de la coopération française en RDC en 2014, a fait appel à plusieurs missions d'expertise française pour l'encadrement de l'organisation du concours, la préparation de la rentrée de la première promotion de 60 élèves et la définition des programmes de formation. La ministre et son homologue ont également signé une nouvelle convention de coopération en matière de fonction publique. La ministre a également représenté la France aux festivités commémoratives du 54e anniversaire d'indépendance de la RDC le lundi 30 juin 2014. Il a été par ailleurs relevé qu'elle était la seule personnalité étrangère présente à cette cérémonie. Avant de quitter Kinshasa, la ministre a reçu la communauté française pour rencontrer notamment les chefs d'entreprises dont un grand nombre a accepté de prendre une part active au soutien du projet ENA par l'accueil des élèves en stage notamment.
