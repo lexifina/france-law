@@ -1,0 +1,9 @@
+# Réponse à la question n° 50215
+
+- Question : [50215](50215.md) — Question n° 50215 — exercice de la profession; propositions
+
+## Réponse
+
+*JO du 2014-09-02*
+
+La garde des sceaux, ministre de la justice, a voulu que la réflexion sur la Justice du XXIème siècle soit globale, concrète et effective, dès lors qu'elle concerne également l'ensemble des auxiliaires de justice. Suite au dépôt du rapport de l'institut des hautes études sur la justice (IHEJ) sur l'office du juge, trois groupes de travail ont remis à la garde de sceaux leurs travaux et préconisations à la fin de l'année 2013. Un grand débat national sur la justice du XXIème siècle a eu lieu les 10 et 11 janvier 2014 à la maison de l'UNESCO à Paris qui a permis de constater qu'un consensus s'est dégagé sur l'opportunité d'une réforme d'importance et de marquer la volonté de tous les acteurs concernés d'y participer. Dans ce cadre, sont à l'étude de nombreuses pistes de réflexion, que le Conseil national des barreaux est venu enrichir des 44 propositions contenues dans son Livre blanc. Ces 44 propositions contribuent assurément à alimenter le débat et représentent, ainsi, une contribution à la hauteur des enjeux de la réforme. A cet égard, la proposition n° 1 de ce Livre blanc promeut une « systématisation de la consultation rémunérée d'un avocat préalable à toute action juridique ou judiciaire pour une personne physique ou morale avec bénéfice de l'aide juridictionnelle sous conditions de ressources ». Cependant, dans la mesure où tous les contentieux n'imposent pas une représentation par avocat, cette proposition ne semble pas opportune. Au demeurant, le budget consacré à l'aide juridictionnelle ne pourrait, en l'état, supporter une telle charge supplémentaire. Pour autant, l'accès facilité aux droits pour tous les citoyens constitue, pour le ministère de la Justice, un objectif prioritaire.
