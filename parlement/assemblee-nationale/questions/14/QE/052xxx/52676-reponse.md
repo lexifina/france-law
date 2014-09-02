@@ -1,0 +1,9 @@
+# Réponse à la question n° 52676
+
+- Question : [52676](52676.md) — Question n° 52676 — concubinage; mentions; réglementation
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Le livret de famille est délivré soit à l'occasion du mariage célébré en France ou à l'étranger et transcrit sur les registres consulaires français, soit à l'occasion de la naissance du premier enfant, lorsque l'acte de naissance d'au moins un des parents est détenu par un officier de l'état civil français. Ce livret recense les extraits d'actes de l'état civil ayant une valeur authentique, qui ne peuvent être apposés que par l'officier de l'état civil détenteur du registre contenant les actes originaux. Aussi, dès lors que l'acte de naissance de l'un des parents, qu'il soit français ou de nationalité étrangère, est détenu par un officier de l'état civil étranger, l'extrait de son acte de naissance ne peut y figurer. En effet, l'officier de l'état civil français ne détient pas l'acte de naissance et le principe de souveraineté s'oppose à ce que son homologue étranger puisse insérer cet acte dans un document officiel de la République française. La page du livret relative aux données de l'état civil de ce parent doit donc rester vierge. Elle pourra toutefois être ultérieurement remplie, en cas de mariage, d'acquisition de la nationalité française ou de transcription de l'acte étranger sur les registres du service central de l'état civil, pour les Français nés à l'étranger. L'impossibilité, pour l'un des parents, en l'absence de mariage, de figurer sur le livret de famille français n'est donc pas liée à sa nationalité, mais à l'enregistrement ou non de sa naissance par un officier de l'état civil français. Toutefois, dans ces situations, le parent peut être mentionné sur le livret de famille s'il a reconnu l'enfant. Son identité figure alors dans l'extrait de l'acte de naissance de l'enfant.
