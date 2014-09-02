@@ -1,0 +1,9 @@
+# Réponse à la question n° 55709
+
+- Question : [55709](55709.md) — Question n° 55709 — sortie d'indivision; procédures; mise en oeuvre
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Le statut de l'indivision, ainsi que les règles relatives au partage des biens indivis, ont fait l'objet de modifications d'ampleur réalisées par la loi n° 2006-728 du 23 juin 2006, portant réforme des successions et des libéralités, et la loi n° 2009-526 du 12 mai 2009, de simplification et de clarification du droit et d'allègement des procédures. Le législateur a tout d'abord entendu favoriser le partage amiable, même en présence d'un indivisaire volontairement inerte, en ouvrant droit à la possible désignation judiciaire d'une personne qualifiée aux fins de le représenter jusqu'à la réalisation complète du partage. Le législateur a ensuite voulu simplifier et accélérer le partage judiciaire rendu nécessaire lorsqu'une solution amiable s'avère impossible. La procédure, qui relève aujourd'hui du juge aux affaires familiales même lorsqu'elle porte sur la liquidation et le partage des intérêts patrimoniaux des concubins, prévoit désormais que le notaire, éventuellement désigné par le juge, établit un état liquidatif dans le délai d'un an suivant sa désignation et donne au juge les moyens de contrôler le respect de ce délai. Enfin, il convient de rappeler que le droit de l'indivision facilite certains actes relatifs aux biens indivis et permet notamment à un indivisaire de solliciter du juge l'autorisation de réaliser seul l'aliénation de l'un de ces biens si le refus opposé par son co-indivisaire met en péril l'intérêt commun.
