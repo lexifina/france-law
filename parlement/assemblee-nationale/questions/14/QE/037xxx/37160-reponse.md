@@ -1,0 +1,9 @@
+# Réponse à la question n° 37160
+
+- Question : [37160](37160.md) — Question n° 37160 — rapport parlementaire; propositions
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Le ministère de la culture et de la communication partage le souci exprimé par Monsieur le député Jean-Jacques Candelier au sujet de l'application de la proposition n° 9 du rapport d'information déposé en conclusion des travaux de la mission sur les conditions d'emploi dans les métiers artistiques. L'application du droit de présentation publique doit en effet être rendue effective pour les artistes, qui se trouvent souvent dans l'obligation d'exposer gratuitement. Elle doit par ailleurs tenir compte de l'équilibre économique des structures de diffusion. L'Inspection générale des affaires culturelles, en lien avec les services de la direction générale de la création artistique, poursuit la réflexion engagée sur ce dossier important. De manière générale, le ministère de la culture et de la communication veille à l'amélioration des conditions d'exercice et de rémunération des artistes, comme en témoigne notamment la circulaire du 9 mars 2011 relative au conventionnement avec les centres d'art. Cette circulaire rappelle aux préfets de région et aux directeurs régionaux des affaires culturelles leur vocation à diffuser les bonnes pratiques et fait référence aux règles fiscales et sociales attachées à la perception de revenus artistiques. Le ministère de la culture et de la communication soutient également le travail du Congrès interprofessionnel de l'art contemporain (CIPAC) et des organisations professionnelles dans l'élaboration de contrats-types, notamment les contrats d'exposition, de production et d'aide à la coproduction dans un double objectif de respect des droits d'auteur et de sécurisation des relations entre l'artiste et son diffuseur.
