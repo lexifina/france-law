@@ -1,0 +1,9 @@
+# Réponse à la question n° 48123
+
+- Question : [48123](48123.md) — Question n° 48123 — licence; renouvellement
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Le code du travail réglemente la profession d'entrepreneur de spectacles vivants (articles L. 7121-1 et suivants et D. 7121-1 et suivants), pour des raisons impérieuses d'intérêt général au sens du droit communautaire, et en particulier la protection de la propriété littéraire et artistique. A ces fins, l'article 3 de l'arrêté du 20 décembre 2012 pris en application du code du travail (partie réglementaire) relatif à la licence d'entrepreneur de spectacles vivants dispose que la demande de renouvellement de la licence pour une durée de trois ans est assortie, notamment, d'une attestation sur l'honneur certifiant que l'entreprise n'a pas de dette en ce qui concerne le paiement des droits d'auteurs. Les représentants des sociétés de perception de droits, qui siègent au sein des commissions régionales d'attribution, de refus, de renouvellement ou de retrait de licences d'entrepreneurs de spectacles vivants peuvent faire état, en commission, des défauts de règlement de droits d'auteurs dont elles ont connaissance. L'attribution de la licence ne peut cependant être refusée si le demandeur a acquitté les droits d'auteurs dont il était redevable. Le projet de circulaire relative à l'instruction des licences, en cours de préparation au sein des services du ministère de la culture et de la communication, comportera un point d'attention sur cette question, afin de rappeler que le demandeur a toute faculté de prouver qu'il s'est acquitté de ses obligations en termes de propriété intellectuelle et artistique. En cas de refus de licence d'entrepreneur de spectacle estimé infondé, les dispositions légales de recours hiérarchique, gracieux et contentieux restent néanmoins à la disposition des entrepreneurs de spectacles.
