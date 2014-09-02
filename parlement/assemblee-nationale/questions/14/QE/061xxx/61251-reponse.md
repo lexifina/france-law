@@ -1,0 +1,9 @@
+# Réponse à la question n° 61251
+
+- Question : [61251](61251.md) — Question n° 61251 — droits des paysans; perspectives
+
+## Réponse
+
+*JO du 2014-09-02*
+
+70 % des gens qui souffrent de la faim dans le monde sont des personnes travaillant dans le monde rural et, dans de trop nombreux pays, les paysans connaissent des violations des droits reconnus par le droit international des droits de l'Homme. La principale difficulté est la mise en oeuvre de ces droits. Pour répondre à ces violations, le rôle de l'Etat et des politiques publiques est primordial. Aussi, une priorité de la France est la mise en oeuvre effective des droits fondamentaux plutôt que la création de nouveaux instruments juridiques. Cette position ne signifie pas que la France serait opposée aux revendications paysannes, bien au contraire, mais illustre la conception française d'universalité des droits de l'Homme. Les autorités françaises accordent une attention particulière à la problématique du droit des paysans et aux discussions du Groupe de travail du Conseil des droits de l'Homme des Nations unies oeuvrant pour l'adoption d'une déclaration sur les droits des paysans. Ainsi, la France a participé aux travaux du Groupe de travail de juillet 2013 et elle continuera à participer à ce groupe de travail lors des travaux à venir. Par ailleurs, la France est engagée pour faire reconnaître et soutenir les agricultures familiales dans le monde, garantes de la sécurité alimentaire. Elle a ainsi soutenu le lancement par les Nations unies de l'année internationale de l'agriculture familiale cette année. La France promeut les lignes directrices sur la gouvernance foncière adoptées par le comité de la sécurité alimentaire mondiale en mai 2012, qui visent à reconnaître notamment les droits coutumiers et à sécuriser l'usage du foncier.
