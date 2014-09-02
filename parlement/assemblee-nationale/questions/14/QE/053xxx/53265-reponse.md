@@ -1,0 +1,9 @@
+# Réponse à la question n° 53265
+
+- Question : [53265](53265.md) — Question n° 53265 — grands-parents; droit de visite et de garde
+
+## Réponse
+
+*JO du 2014-09-02*
+
+La loi n° 2002-305 du 4 mars 2002, relative à l'autorité parentale, a modifié l'article 371-4 du code civil en reconnaissant à l'enfant le droit d'entretenir des relations personnelles avec ses ascendants, au même titre qu'avec ses deux parents. La loi n° 2007-293 du 5 mars 2007, réformant la protection de l'enfance, a modifié l'article 371-4 en précisant que seul l'intérêt de l'enfant peut faire obstacle à l'exercice de ce droit, le juge n'ayant plus à se référer à des motifs graves pour justifier sa décision. Le législateur a ainsi fait le choix de placer l'enfant au coeur des relations familiales, tout en reconnaissant aux grands-parents une place particulière. En effet, au-delà des conflits familiaux, des séparations et du décès de l'un des parents, l'enfant doit pouvoir conserver des relations régulières avec son entourage familial, et en particulier ses grands-parents, qui, par leur affection et leur expérience, contribuent à son épanouissement personnel et favorisent son inscription dans une lignée généalogique dépassant la cellule familiale étroite. Par conséquent, pour refuser la mise en place d'un droit de visite et d'hébergement au profit des grands-parents, le juge doit dans sa décision préciser concrètement en quoi l'intérêt de l'enfant s'y oppose. Celui-ci est apprécié grâce à un examen exhaustif de la situation familiale en cause, en tenant compte de l'âge du mineur, de sa maturité, de ses besoins et de ses sentiments. Le droit positif permet ainsi d'ores et déjà de préserver le lien familial intergénérationnel tout en laissant aux juges le soin d'apprécier au cas par cas où se situe l'intérêt supérieur de l'enfant.
