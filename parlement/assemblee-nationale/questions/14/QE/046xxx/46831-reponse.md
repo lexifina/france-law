@@ -1,0 +1,9 @@
+# Réponse à la question n° 46831
+
+- Question : [46831](46831.md) — Question n° 46831 — actes; lieu de naissance; réglementation
+
+## Réponse
+
+*JO du 2014-09-02*
+
+En application du premier alinéa de l'article 55 du code civil, les déclarations de naissance doivent être effectuées auprès des officiers de l'état civil de la commune dans le ressort de laquelle ont eu lieu les naissances. L'article 57 du code civil dispose que l'acte de naissance doit énoncer notamment le jour, l'heure et le lieu de naissance de l'enfant mais également les domiciles des père et mère. Le domicile est entendu au sens de l'article 102 de ce même code. Dans ces conditions, la mention du lieu d'habitation de la mère de l'enfant dans l'acte de naissance de ce dernier paraît inutile si ce lieu d'habitation correspond au domicile de la mère et serait source de confusion si son lieu d'habitation diffère de son domicile. Enfin, en vertu de l'article 1er du décret n° 2005-41 du 19 janvier 2005, relatif à l'inscription des naissances sur les tables annuelles et décennales de l'état civil modifiant le décret n° 51-284 du 3 mars 1951, relatif aux tables annuelles et décennales de l'état civil, modifié par le décret n° 58-311 du 28 mars 1958, lorsque la naissance d'un enfant a lieu dans une commune ou un arrondissement d'une commune autre que celle ou celui du domicile du ou des parents, elle est inscrite sur la table annuelle et la table décennale des actes de la commune ou de l'arrondissement de ce domicile. A cet effet, l'officier de l'état civil qui a reçu l'acte de naissance ou de reconnaissance en avise, dans les trois jours, l'officier de l'état civil du lieu du domicile. Ce dispositif permet ainsi au maire d'une commune d'être parfaitement informé des nouvelles naissances intervenues au sein des familles domiciliées sur le ressort de sa commune.
