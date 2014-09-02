@@ -1,0 +1,9 @@
+# Réponse à la question n° 49302
+
+- Question : [49302](49302.md) — Question n° 49302 — mobilité; rapport; préconisations
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Une mission d'évaluation de la politique publique relative à « l'affectation et la mobilité des fonctionnaires sur les territoires » a été décidée par le Gouvernement en décembre 2012 dans le cadre de la modernisation de l'action publique. Elle a donné lieu à la remise d'un rapport rédigé par l'inspection générale de l'administration, l'inspection générale des finances et l'inspection générale des affaires sociales. Ce rapport d'évaluation formule un certain nombre de préconisations concernant notamment la professionnalisation, la formation, l'animation et le positionnement des plates-formes régionales d'appui interministériel à la gestion des ressources humaines (PFRH). La direction générale de l'administration et de la fonction publique (DGAFP) travaille au renforcement de la professionnalisation des fonctions des directeurs et des conseillers de PFRH. Ainsi, une formation spécifique à la prise de poste des directeurs de PFRH a-t-elle été conçue et mise en oeuvre au bénéfice des directeurs nouvellement nommés. Par ailleurs, la DGAFP organise semestriellement et en alternance : - une réunion de réseau d'une durée d'une journée, - une réunion téléphonique destinée à associer les directeurs aux principaux chantiers « ressources humaines » animés par la DGAFP. Pour leur part, les conseillers des PFRH bénéficient de réunions sectorielles très régulières, dédiées à leurs pratiques professionnelles. En ce qui concerne le positionnement hiérarchique, les directeurs de PFRH sont placés auprès des secrétaires généraux pour les affaires régionales, ce qui paraît constituer un positionnement approprié pour conduire l'animation interministérielle et accompagner les services.
