@@ -1,0 +1,9 @@
+# Réponse à la question n° 60810
+
+- Question : [60810](60810.md) — Question n° 60810 — zones agricoles défavorisées; revendications
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Le règlement n° 1305/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au développement rural prévoit une méthode commune à tous les États membres de l'Union européenne pour effectuer la révision de délimitation des zones défavorisées simples à présent dénommées zones soumises à des contraintes naturelles autres que les zones de montagne. Cette méthode s'applique en deux étapes : la première consiste à déterminer un ensemble de communes selon huit critères biophysiques ; la deuxième consiste à appliquer un critère de « réglage fin » à caractère socio-économique afin d'exclure de ces communes celles dont on peut démontrer qu'elles ont surmonté leurs handicaps naturels par des investissements, par l'activité économique ou par des méthodes de productions adaptées. Par ailleurs, en complément de ce zonage, chaque État membre pourra classer au maximum 10 % du territoire national en zones soumises à des contraintes spécifiques, c'est-à- dire des zones où la poursuite de la gestion des terres est nécessaire pour assurer la conservation ou l'amélioration de l'environnement, l'entretien du paysage rural et pour préserver le potentiel touristique de la zone ou dans le but de protéger le littoral. Ainsi la méthode de révision des zones soumises à des contraintes naturelles inclut des critères socio-économiques afin de ne retenir que les communes dans lesquelles les agriculteurs bénéficieront d'indemnités compensatoires. Pour ce qui concerne le zonage complémentaire, les critères sont du ressort de chaque État membre. Ils seront discutés avec les parties prenantes à partir du 2e semestre 2015 lorsque les simulations du zonage principal seront disponibles pour tout le territoire national.
