@@ -1,0 +1,9 @@
+# Réponse à la question n° 47636
+
+- Question : [47636](47636.md) — Question n° 47636 — associations intermédiaires; régime fiscal et social
+
+## Réponse
+
+*JO du 2014-09-02*
+
+Dans le cadre de la réforme du financement des structures d'insertion par l'activité économique, le principe de généralisation d'une aide au poste modulée à toutes les structures d'insertion par l'activité économique a été acté par le Premier ministre le 31 juillet 2013. L'aide au poste des allocations d'insertion (AI) comprendra un montant socle égal à 1 300 euros qui couvrira les missions de base d'insertion et une part modulée pouvant aller de 0 à 10 % du montant socle en fonction des publics accompagnés, des efforts d'insertion mis en oeuvre et des résultats obtenus. Concernant les exonérations sociales et fiscales spécifiques au secteur, celles-ci seront maintenues, à savoir la réduction « Fillon » dans les entreprises d'insertion et les entreprises de travail temporaire d'insertion, les exonérations de charges sociales attachées aux CUI-CAE dans les ateliers et chantiers d'insertion, les exonérations prévues par l'article L.241-11 du code de la sécurité sociale pour les associations intermédiaires, en deçà de 750 heures par an et par salarié. De plus, l'article 20. IV de la loi de financement de la sécurité sociale pour 2014 étend les exonérations de charges sociales attachées aux CUI-CAE aux contrats à durée déterminée d'insertion. La plupart des AI auront globalement un financement plus important pour leurs missions. En outre, l'application de cette réforme est accompagnée d'un effort budgétaire dès 2013 avec 10 millions d'euros revalorisant les aides au poste d'insertion existantes et permettant la création de 1000 postes d'insertion supplémentaires, et en 2014 par un effort de 25 millions d'euros (reconduction des 10 millions d'euros et enveloppe prévisionnelle de 15 millions d'euros).
