@@ -1,0 +1,9 @@
+# Réponse à la question n° 3737
+
+- Question : [3737](3737.md) — Question n° 3737 — pandémie; télétravail; mise en oeuvre
+
+## Réponse
+
+*JO du 2014-09-02*
+
+En cas de pandémie grippale, l'employeur peut adapter l'organisation du travail dans son entreprise dans le cadre de la négociation avec les institutions représentatives du personnel ou à défaut, par décision unilatérale après avis du comité d'entreprise ou des délégués du personnel. Ces modalités doivent être prévues par le plan de continuité des activités (PCA) des entreprises, le règlement intérieur, le document unique d'évaluation des risques, et le programme annuel d'actions de prévention. Le PCA doit lister les postes indispensables au maintien de l'activité de l'entreprise en mode de fonctionnement dégradé (y compris les salariés itinérants) et il doit identifier les salariés aptes à tenir ces postes en tenant compte de la polyvalence. De même, il doit définir les différentes dispositions d'aménagement du temps de travail susceptibles d'être utilisées en fonction du niveau d'activité de l'entreprise (recours au contingent d'heures supplémentaires, horaires décalés, durée maximale du travail...). Enfin, les activités et postes de travail pouvant être exercés à distance doivent être déterminés. Dans ce contexte spécifique, la mise en oeuvre du télétravail peut constituer une mesure complémentaire de prévention et de protection des salariés. Ainsi, des modifications temporaires et exceptionnelles peuvent être apportées par l'employeur dans l'exécution du contrat de travail. Le télétravail sera considéré comme un aménagement du poste de travail rendu nécessaire pour permettre la poursuite du fonctionnement de l'entreprise et garantir la protection des salariés. C'est ce que prévoit l'article L.1222-11 du code du travail en cas de circonstances exceptionnelles, notamment de menace d'épidémie, ou en cas de force majeure.
