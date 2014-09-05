@@ -452,9 +452,7 @@ D
 
 |
 
-Installation de fabrication de produits en béton par procédé mécanique. La
-
-puissance installée du matériel de malaxage et de vibration, étant :
+Installation de fabrication de produits en béton par procédé mécanique. La puissance installée du matériel de malaxage et de vibration, étant :
 
 |
 
@@ -1734,7 +1732,9 @@ Nettoyage, décapage des métaux par traitement thermique :
 
 |
 
-1. La capacité volumique du four étant supérieure à 2 000 l |
+1. La capacité volumique du four étant supérieure à 2 000 l
+
+|
 
 1
 
@@ -2738,7 +2738,7 @@ On entend par utilisation au sens de la présente rubrique toute opération ou e
 
 |
 
-Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle)
+Micro-organismes naturels pathogènes (mise en œuvre dans des installations de production industrielle)
 
 |
 
@@ -4064,17 +4064,7 @@ b) Inférieure à 50 t/j
 
 |
 
-Installations de méthanisation de déchets non dangereux ou matière végétale brute, à l'exclusion des installations de méthanisation d'eaux usées ou de boues d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production.
-
-|
-
-|
-
-|
-
-|
-
-|
+Installations de méthanisation de déchets non dangereux ou de matière végétale brute, à l'exclusion des installations de méthanisation d'eaux usées ou de boues d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production.
 
 1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, lactosérum et déchets végétaux d'industries agroalimentaires :
 
@@ -4088,7 +4078,7 @@ Installations de méthanisation de déchets non dangereux ou matière végétale
 
 |
 
-a) La quantité de matières traitées étant supérieure ou égale à 50 t/j
+a) La quantité de matières traitées étant supérieure ou égale à 60 t/ j
 
 |
 
@@ -4104,7 +4094,7 @@ A
 
 |
 
-b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et inférieure à 50 t/j
+b) La quantité de matières traitées étant supérieure ou égale à 30 t/ j et inférieure à 60 t/ j
 
 |
 
@@ -4118,7 +4108,7 @@ E
 
 |
 
-c) La quantité de matières traitées étant inférieure à 30 t/j
+c) La quantité de matières traitées étant inférieure à 30 t/ j
 
 |
 
@@ -4844,6 +4834,46 @@ DC
 
 |
 
+2797
+
+|
+
+Déchets radioactifs (gestion des) mis en œuvre dans un établissement industriel ou commercial, hors accélérateurs de particules, secteur médical et activités de traitement des sites pollués par des substances radioactives, dès lors que leur quantité susceptible d'être présente est supérieure à 10 m3 et que les conditions d'exemption mentionnées au 1° du I de l'article R. 1333-18 du code de la santé publique ne sont pas remplies.
+
+Les termes "déchets radioactifs" et "gestion des déchets radioactifs" s'entendent au sens de l'article 3 de la directive 2011/70/EURATOM du Conseil du 19 juillet 2011 établissant un cadre communautaire pour la gestion responsable et sûre du combustible usé et des déchets radioactifs.
+
+|
+
+A
+
+|
+
+2
+
+|
+
+|
+
+|
+
+2798
+
+|
+
+Installation temporaire de transit de déchets radioactifs issus d'un accident nucléaire ou radiologique, à l'exclusion des installations mentionnées à la rubrique 2719.
+
+|
+
+D
+
+|
+
+|
+
+|
+
+|
+
 2910
 
 |
@@ -5242,7 +5272,7 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
 
 |
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25o C) est :
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25 oC) est :
 
 |
 
@@ -5296,7 +5326,7 @@ D
 
 |
 
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 o C) est supérieure à 250 l.
+Si la quantité totale de fluides présente dans l'installation (mesurée à 25 oC) est supérieure à 250 l.
 
 |
 
@@ -5754,7 +5784,7 @@ DC
 
 |
 
-Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en oeuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55o C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55o C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
+Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en oeuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55 oC) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 oC) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
 
 |
 
@@ -6406,7 +6436,7 @@ A
 
 |
 
-Fabrication de produits céramiques par cuisson, notamment de tuiles, de briques, de pierres réfractaires, de carrelages, de grès ou de porcelaines avec une capacité de production supérieure à 75 tonnes par jour, et/ou dans un four avec une capacité supérieure à 4 mètres cubes et une densité d'enfournement de plus de 300 kg/m³ par four
+Fabrication de produits céramiques par cuisson, notamment de tuiles, de briques, de pierres réfractaires, de carrelages, de grès ou de porcelaines avec une capacité de production supérieure à 75 tonnes par jour, et dans un four avec une capacité supérieure à 4 mètres cubes et une densité d'enfournement de plus de 300 kg/m³ par four
 
 |
 
@@ -7148,7 +7178,7 @@ A
 
 |
 
-Traitement et transformation, à l'exclusion du seul conditionnement des matières premières ci-après, qu'elles aient été ou non préalablement transformées, en vue de la fabrication de produits alimentaires ou d'aliments pour animaux issus :
+Traitement et transformation, à l'exclusion du seul conditionnement, des matières premières ci-après, qu'elles aient été ou non préalablement transformées, en vue de la fabrication de produits alimentaires ou d'aliments pour animaux issus :
 
 |
 
@@ -7454,7 +7484,7 @@ A
 
 |
 
-Traitement des eaux résiduaires dans des installations autonomes relevant des rubriques 2750 ou 2751 et qui sont rejetées par une ou plusieurs installations relevant de la section 8 du chapitre V du titre Ier du livre V
+Traitement des eaux résiduaires dans des installations autonomes relevant de la rubrique 2750 et qui sont rejetées par une ou plusieurs installations relevant de la section 8 du chapitre V du titre Ier du livre V
 
 |
 
@@ -7476,8 +7506,8 @@ A
 
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322 sont supprimées. Se référer à la place aux rubriques 2770 et 2771.
 
-Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
-
 NOTA :
 
 Décret n° 2013-814 du 11 septembre 2013 art. 4 : La rubrique 2910 dans sa rédaction issue du présent décret entre en vigueur le lendemain de la publication de l'arrêté ministériel de prescription générale relatif aux installations relevant du régime de l'enregistrement mentionné à son B.
+
+Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
