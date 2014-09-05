@@ -386,7 +386,7 @@ Quelle que soit la capacité
 
 |
 
-Substances radioactives (définitions et règles de classement des)
+Substances radioactives sous forme non scellée (activités nucléaires mettant en œuvre des) mises en œuvre dans un établissement industriel ou commercial hors accélérateurs de particules et secteur médical.
 
 |
 
@@ -400,45 +400,17 @@ Substances radioactives (définitions et règles de classement des)
 
 Définitions :
 
-|
+Les termes "substance radioactive", "activité", "radioactivité", "radionucléide", "source radioactive non scellée" et "source radioactive scellée" sont définis dans l'annexe 13-7 de la première partie du code de la santé publique.
 
-Les termes "substance radioactive", "activité", "radioactivité", "source radioactive non scellée" et "source radioactive scellée" sont définis dans l'annexe 13-7 de la première partie du code de la santé publique.
-
-|
-
-Règles de classement :
+"QNS" : calcul du coefficient Q tel que défini à l'annexe 13-8 de la première partie du code de la santé publique pour les substances radioactives non scellées.
 
 |
 
-1° Les opérations visées à la rubrique 1715 font l'objet d'un classement au titre de la présente nomenclature dès lors qu'elles sont mises en oeuvre dans un établissement industriel ou commercial, dont une installation au moins est soumise à autorisation au titre d'une autre rubrique de la nomenclature.
+1716
 
 |
 
-2° A chaque radionucléide est associé un "seuil d'exemption" (en Bq), défini en application de l'article L. 1333-4 du code de la santé publique à l'annexe 13-8 de la première partie de ce code.
-
-|
-
-Pour les besoins des présentes règles de classement, la valeur de 1 000 Bq est utilisée pour les radionucléides non mentionnés par les dispositions précédentes.
-
-|
-
-3° Pour une installation dans laquelle un ou plusieurs radionucléides sont utilisés, le rapport Q (sans dimension) est calculé d'après la formule :
-
-Q = Σ (Ai / Aexi)
-
-dans laquelle :
-
-Ai représente l'activité totale (en Bq) du radionucléide i
-
-Aexi représente le seuil d'exemption en activité du radionucléide i
-
-|
-
-1715
-
-|
-
-Substances radioactives (préparation, fabrication, transformation, conditionnement, utilisation, dépôt, entreposage ou stockage de) sous forme de sources radioactives, scellées ou non scellées à l'exclusion des installations mentionnées à la rubrique 1735, des installations nucléaires de base mentionnées à l'article 28 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire et des installations nucléaires de base secrètes telles que définies par l'article 6 du décret n° 2001-592 du 5 juillet 2001.
+Substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 dès lors que leur quantité susceptible d'être présente est supérieure à 10 m3 et que les conditions d'exemption mentionnés au 1° du I de l'article R. 1333-18 du code de la santé publique ne sont pas remplies.
 
 |
 
@@ -446,13 +418,11 @@ Substances radioactives (préparation, fabrication, transformation, conditionnem
 
 |
 
-1. Le rapport Q tel que défini au 3°) de la rubrique 1700 de la nomenclature étant :
-
 |
 
 |
 
-1. La valeur de Q est égale ou supérieure à 104
+1. La valeur de QNS est égale ou supérieure à 104
 
 |
 
@@ -460,39 +430,21 @@ A
 
 |
 
-1
+2
 
 |
 
-a) supérieure ou égal à 106
-
-|
-
-3
-
-|
-
-|
-
-|
-
-|
-
-b) supérieure ou égal à 104
-
-|
-
-1
-
-|
-
-2. La valeur de Q est égale ou supérieure à 1 et strictement inférieure à 104
+2. La valeur de QNS est égale ou supérieure à 1 et strictement inférieure à 104
 
 |
 
 D
 
 |
+
+|
+
+Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 |
 
@@ -796,11 +748,7 @@ Bovins (activité d'élevage, transit, vente, etc., de)
 
 |
 
-1. Elevage de veaux de boucherie et/ou bovins à l'engraissement ; transit et vente de
-
-bovins lorsque leur présence simultanée est supérieure à 24 heures, à l'exclusion
-
-des rassemblements occasionnels :
+1. Elevage de veaux de boucherie et/ou bovins à l'engraissement ; transit et vente de bovins lorsque leur présence simultanée est supérieure à 24 heures, à l'exclusion des rassemblements occasionnels :
 
 |
 
@@ -2034,7 +1982,7 @@ a) Supérieure à 20 t/ j
 
 |
 
-E |
+E
 
 |
 
@@ -2042,7 +1990,11 @@ E |
 
 |
 
-b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j |
+|
+
+b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j
+
+|
 
 D |
 
@@ -2058,7 +2010,9 @@ a) Supérieure à 10 t/ j
 
 |
 
-E |
+E
+
+|
 
 |
 
@@ -2634,7 +2588,7 @@ A
 
 |
 
-1. La capacité de l'installation étant supérieure à 50 000 hl / an
+1. La capacité de l'installation étant supérieure à 50 000 hl/an
 
 |
 
@@ -3528,7 +3482,7 @@ D
 
 |
 
-Ateliers ou l'on travaille le bois ou matériaux combustibles analogues
+Ateliers ou l'on travaille le bois ou matériaux combustibles analogues :
 
 |
 
@@ -3540,19 +3494,7 @@ Ateliers ou l'on travaille le bois ou matériaux combustibles analogues
 
 |
 
-La puissance installée pour alimenter l'ensemble des machines étant :
-
-|
-
-|
-
-|
-
-|
-
-|
-
-1. supérieure à 200 kW
+A. Installations dont les activités sont classées au titre de la rubrique 3610
 
 |
 
@@ -3560,7 +3502,7 @@ A
 
 |
 
-1
+3
 
 |
 
@@ -3568,7 +3510,33 @@ A
 
 |
 
-2. supérieure à 50 kW, mais inférieure ou égale à 200 kW
+B. Autres installations que celles visées au A, la puissance de l'ensemble des machines présentes dans l'installation qui concourent au travail du bois ou matériaux combustibles analogues étant :
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1. Supérieure à 250 kW.
+
+|
+
+E
+
+|
+
+|
+
+|
+
+|
+
+2. Supérieure à 50 kW, mais inférieure ou égale à 250 kW
 
 |
 
@@ -4262,7 +4230,9 @@ c) supérieure ou égale à 50 000 t/an, mais inférieure à 150 000 t/an.
 
 |
 
-3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie d'affouillement est supérieure à 1 000 m2 ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
+3. Affouillements du sol (à l'exception des affouillements rendus nécessaires pour l'implantation des constructions bénéficiant d'un permis de construire et des affouillements réalisés sur l'emprise des voies de circulation), lorsque les matériaux prélevés sont utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits et lorsque la superficie d'affouillement est supérieure à
+
+1 000 m2 ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t
 
 |
 
@@ -4322,7 +4292,9 @@ c) supérieure ou égale à 50 000 t/an mais inférieure à 150 000 t/an.
 
 |
 
-4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m² ou lorsque la quantité de matériaux à extraire est supérieure à 2 000 t par an
+4. Exploitation, en vue de leur utilisation, des masses constituées par des haldes et terrils de mines et par les déchets d'exploitation de carrières (à l'exception des cas visés à l'article 1er du décret n° 79-1109 du 20 décembre 1979 pris pour l'application de l'article 130 du code minier), lorsque la superficie d'exploitation est supérieure à 1 000 m² ou lorsque la quantité de matériaux à extraire est supérieure à
+
+2 000 t par an
 
 |
 
@@ -4449,6 +4421,10 @@ DC
 -
 
 |
+
+(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres.
 
 Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2102 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
 
