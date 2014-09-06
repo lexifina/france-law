@@ -1,8 +1,6 @@
 # Article Annexe A
 
-FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE
-
-EXERÇANT LEURS FONCTIONS EN SERVICES CENTRAUX ET À LA PRÉFECTURE DE POLICE
+FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS EN SERVICES CENTRAUX ET À LA PRÉFECTURE DE POLICE
 
 Services centraux
 
@@ -45,6 +43,30 @@ Directeur des services actifs, directeur central de la police aux frontières
 |
 
 Directeur des services actifs, directeur général de la sécurité intérieure
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur des services actifs, directeur du renseignement et des opérations, adjoint au directeur général de la sécurité intérieure
+
+|
+
+1
+
+|
+
+140
+
+|
+
+Directeur des services actifs, directeur technique à la direction générale de la sécurité intérieure
 
 |
 
@@ -132,7 +154,7 @@ NOMBRE DE POINTS
 
 |
 
-Chef du service de protection des hautes personnalités (SPHP)
+Chef du service de la protection (SDLP)
 
 |
 
@@ -158,30 +180,6 @@ NOMBRE DE POINTS
 
 |
 
-Directeur central adjoint opérationnel du renseignement intérieur (DCRI)
-
-|
-
-1
-
-|
-
-110
-
-|
-
-Directeur central adjoint organique du renseignement intérieur (DCRI)
-
-|
-
-1
-
-|
-
-110
-
-|
-
 Directeur central adjoint, chef de l'état-major (DCPAF)
 
 |
@@ -195,6 +193,18 @@ Directeur central adjoint, chef de l'état-major (DCPAF)
 |
 
 Directeur central adjoint (DCCRS)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Directeur central adjoint (DCPJ)
 
 |
 
@@ -242,21 +252,7 @@ Directeur central adjoint, chef d'état-major (DCSP)
 
 |
 
-5° Coordinateur à l'inspection générale de la police nationale
-
-DÉSIGNATION DES EMPLOIS
-
-|
-
-NOMBRE DE BÉNÉFICIAIRES
-
-|
-
-NOMBRE DE POINTS
-
-|
-
-Chargé de la coordination des services et de l'animation des contrôles et des études à l'IGPN
+Directeur central adjoint chargé du renseignement, chef du service central du renseignement territorial à la DCSP
 
 |
 
@@ -268,7 +264,19 @@ Chargé de la coordination des services et de l'animation des contrôles et des 
 
 |
 
-6° Chef d'état-major
+Directeur adjoint de l'inspection générale de la police nationale (IGPN)
+
+|
+
+1
+
+|
+
+110
+
+|
+
+5° Chef d'état-major et adjoint
 
 DÉSIGNATION DES EMPLOIS
 
@@ -282,7 +290,7 @@ NOMBRE DE POINTS
 
 |
 
-Chef d'état-major à la DCRI
+Chef d'état-major à la DGSI
 
 |
 
@@ -306,6 +314,18 @@ Chef d'état-major à la DCPJ
 
 |
 
+Chef d'état-major de la sous-direction de la lutte contre la criminalité organisée et la délinquance financière à la DCPJ
+
+|
+
+1
+
+|
+
+60
+
+|
+
 Chef de l'état-major à la DCSP
 
 |
@@ -315,6 +335,30 @@ Chef de l'état-major à la DCSP
 |
 
 100
+
+|
+
+Adjoint au chef de l'état-major et chef de la division de l'information et des synthèses à la DCSP
+
+|
+
+1
+
+|
+
+70
+
+|
+
+Chef d'état-major au SDLP
+
+|
+
+1
+
+|
+
+60
 
 |
 
@@ -330,7 +374,7 @@ Adjoint au chef de l'état-major à la DCPAF
 
 |
 
-7° Directeur de cabinet et responsable opérationnel dans un cabinet
+6° Directeur de cabinet ; conseiller technique ; responsable opérationnel dans un cabinet
 
 DÉSIGNATION DES EMPLOIS
 
@@ -356,7 +400,7 @@ Directeur de cabinet à la DGPN
 
 |
 
-Conseiller, chef du service de communication de la police nationale, chef du pôle communication (SICOP et SHPN) à la DGPN
+Conseiller en communication, chef du service d'information et de communication de la police (SICOP) à la DGPN
 
 |
 
@@ -380,7 +424,7 @@ Conseiller, chef du pôle ordre public, défense et renseignement (DGPN)
 
 |
 
-Conseiller, chef du pôle des affaires européennes et internationales (DGPN)
+Conseiller, chef du pôle technologies et prospectives à la DGPN
 
 |
 
@@ -388,11 +432,11 @@ Conseiller, chef du pôle des affaires européennes et internationales (DGPN)
 
 |
 
-80
+60
 
 |
 
-Conseiller, chef du cabinet politique pénale et police judiciaire à la DGPN et chef de la mission de lutte antidrogue (MILAD)
+Conseiller, chef du cabinet politique pénale et police judiciaire à la DGPN
 
 |
 
@@ -476,7 +520,7 @@ Chef de l'inspection technique à la DCCRS
 
 |
 
-8° Chef d'un service opérationnel à la direction générale de la police nationale (RAID, UCLAT, SSMI, SCA)
+7° Chef d'un service opérationnel ou délégué à la direction générale de la police nationale (RAID, UCLAT)
 
 DÉSIGNATION DES EMPLOIS
 
@@ -514,7 +558,7 @@ Chef de l'unité de coordination lutte antiterroriste (UCLAT)
 
 |
 
-Chef du service central automobile (SCA)
+Délégué aux industries de sécurité au ministère de l'intérieur
 
 |
 
@@ -522,23 +566,11 @@ Chef du service central automobile (SCA)
 
 |
 
-60
+40
 
 |
 
-Chef du service de sécurité du ministère de l'intérieur (SSMI)
-
-|
-
-1
-
-|
-
-60
-
-|
-
-9° Sous-directeur, coordinateur, conseiller technique, adjoint à un chef de service actif
+8° Sous-directeur ; coordonnateur ; adjoint à un directeur ou à un chef de service actif ; chef de l'inspection générale de la sécurité intérieure et adjoint ; secrétaire général
 
 DÉSIGNATION DES EMPLOIS
 
@@ -549,6 +581,42 @@ NOMBRE DE BÉNÉFICIAIRES
 |
 
 NOMBRE DE POINTS
+
+|
+
+Adjoint au directeur technique à la DGSI
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Chef de l'inspection générale de la sécurité intérieure à la DGSI
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Adjoint au chef de l'inspection générale de la sécurité intérieure à la DGSI
+
+|
+
+1
+
+|
+
+100
 
 |
 
@@ -588,6 +656,18 @@ Sous-directeur chargé de l'antiterrorisme à la DCPJ
 
 |
 
+Sous-directeur chargé de la lutte contre la cybercriminalité à la DCPJ
+
+|
+
+1
+
+|
+
+80
+
+|
+
 Sous-directeur de la police technique et scientifique à Ecully (DCPJ)
 
 |
@@ -612,7 +692,7 @@ Coordonnateur opérationnel, adjoint au sous-directeur de la police technique et
 
 |
 
-Sous-directeur des affaires internationales à la DCRI
+Sous-directeur des relations internationales et de la stratégie à la DGSI
 
 |
 
@@ -624,7 +704,7 @@ Sous-directeur des affaires internationales à la DCRI
 
 |
 
-Sous-directeur du contre-terrorisme à la DCRI
+Sous-directeur de la lutte contre le terrorisme et les extrémismes violents à la DGSI
 
 |
 
@@ -636,7 +716,19 @@ Sous-directeur du contre-terrorisme à la DCRI
 
 |
 
-Sous-directeur de la subversion violente à la DCRI
+Sous-directeur du contre-espionnage, adjoint au directeur du renseignement et des opérations à la DGSI
+
+|
+
+1
+
+|
+
+110
+
+|
+
+Sous-directeur de la protection économique à la DGSI
 
 |
 
@@ -648,7 +740,19 @@ Sous-directeur de la subversion violente à la DCRI
 
 |
 
-Sous-directeur du contre-espionnage à la DCRI
+Sous-directeur des surveillances à la DGSI
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur du personnel et de la formation, adjoint au chef du service de l'administration générale à la DGSI
 
 |
 
@@ -660,7 +764,43 @@ Sous-directeur du contre-espionnage à la DCRI
 
 |
 
-Sous-directeur de la protection économique à la DCRI
+Sous-directeur de l'analyse et de la coordination à la DGSI
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur à la direction technique à la DGSI
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur à la direction technique à la DGSI
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur des affaires judiciaires à la DGSI
 
 |
 
@@ -672,7 +812,7 @@ Sous-directeur de la protection économique à la DCRI
 
 |
 
-Sous-directeur des technologies du renseignement à la DCRI
+Sous-directeur à l'inspection générale de la sécurité intérieure à la DGSI
 
 |
 
@@ -680,23 +820,11 @@ Sous-directeur des technologies du renseignement à la DCRI
 
 |
 
-100
+80
 
 |
 
-Sous-directeur des supports à la DCRI
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-directeur de l'administration générale à la DCRI
+Sous-directeur à l'inspection générale de la sécurité intérieure à la DGSI
 
 |
 
@@ -704,7 +832,7 @@ Sous-directeur de l'administration générale à la DCRI
 
 |
 
-100
+80
 
 |
 
@@ -744,19 +872,7 @@ Sous-directeur des ressources humaines et de la logistique à la DCSP
 
 |
 
-Sous-directeur de l'information générale à la DCSP
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef de la mission d'audit et d'assistance à la DCSP
+Chef de la coordination centrale des audits et assistances à la DCSP
 
 |
 
@@ -765,6 +881,30 @@ Chef de la mission d'audit et d'assistance à la DCSP
 |
 
 70
+
+|
+
+Adjoint au chef du service central du renseignement territorial à la DCSP
+
+|
+
+1
+
+|
+
+70
+
+|
+
+Secrétaire général du SCRT à la DCSP
+
+|
+
+1
+
+|
+
+50
 
 |
 
@@ -792,7 +932,7 @@ Sous-directeur de la logistique à la DCCRS
 
 |
 
-Sous-directeur des personnels et de la formation à la DCCRS
+Sous-directeur des ressources humaines à la DCCRS
 
 |
 
@@ -840,7 +980,7 @@ Sous-directeur de l'immigration irrégulière et des services territoriaux à la
 
 |
 
-Adjoint au chef du service de protection des hautes personnalités (SPHP)
+Chef adjoint du service de la protection (SDLP)
 
 |
 
@@ -852,7 +992,7 @@ Adjoint au chef du service de protection des hautes personnalités (SPHP)
 
 |
 
-Sous-directeur de la sécurité des hautes personnalités françaises au SPHP
+Sous-directeur de la protection des personnes au SDLP
 
 |
 
@@ -864,7 +1004,7 @@ Sous-directeur de la sécurité des hautes personnalités françaises au SPHP
 
 |
 
-Sous-directeur des ressources et de l'appui opérationnel au SPHP
+Sous-directeur des ressources et des moyens mobiles au SDLP
 
 |
 
@@ -876,7 +1016,19 @@ Sous-directeur des ressources et de l'appui opérationnel au SPHP
 
 |
 
-Sous-directeur de la coopération de sécurité à la DCI
+Sous-directeur de la sûreté au SDLP
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Sous-directeur de la coopération de sécurité et de gouvernance à la DCI
 
 |
 
@@ -888,7 +1040,7 @@ Sous-directeur de la coopération de sécurité à la DCI
 
 |
 
-Sous-directeur de la coopération multilatérale et partenariale à la DCI
+Sous-directeur de l'administration et des finances à la DCI
 
 |
 
@@ -900,7 +1052,31 @@ Sous-directeur de la coopération multilatérale et partenariale à la DCI
 
 |
 
-Sous-directeur des réseaux des technologies avancées au STSISI
+Secrétaire général à l'IGPN
+
+|
+
+1
+
+|
+
+60
+
+|
+
+Coordonnateur pour l'investigation à la délégation de l'IGPN Paris
+
+|
+
+1
+
+|
+
+50
+
+|
+
+Sous-directeur des réseaux des technologies avancées au STSI2
 
 |
 
@@ -912,7 +1088,7 @@ Sous-directeur des réseaux des technologies avancées au STSISI
 
 |
 
-Sous-directeur des supports opérationnels au STSISI
+Sous-directeur des supports opérationnels au STSI2
 
 |
 
@@ -924,9 +1100,7 @@ Sous-directeur des supports opérationnels au STSISI
 
 |
 
-10° Adjoint à un sous-directeur et chef de projet, chef de service, chef d'un office central
-
-ou d'une division nationale opérationnelle, chef d'un cabinet à l'IGPN et adjoint
+9° Adjoint à un sous-directeur ; chef de service et adjoint ; chef d'un office central ou d'une division nationale opérationnelle ; chef d'un cabinet à l'IGPN ; chef de division ou équivalent
 
 DÉSIGNATION DES EMPLOIS
 
@@ -940,43 +1114,7 @@ NOMBRE DE POINTS
 
 |
 
-Chef du département des affaires judiciaires à la DCRI
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef du département de la stratégie à la DCRI
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef du département de la sécurité à la DCRI
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Adjoint au sous-directeur des affaires internationales à la DCRI
+Adjoint au sous-directeur des relations internationales et de la stratégie à la DGSI
 
 |
 
@@ -988,7 +1126,7 @@ Adjoint au sous-directeur des affaires internationales à la DCRI
 
 |
 
-Adjoint au sous-directeur du contre-terrorisme à la DCRI
+Adjoint au sous-directeur de la lutte contre le terrorisme et les extrémismes violents à la DGSI
 
 |
 
@@ -1000,7 +1138,7 @@ Adjoint au sous-directeur du contre-terrorisme à la DCRI
 
 |
 
-Adjoint au sous-directeur du contre-terrorisme à la DCRI
+Adjoint au sous-directeur du contre-espionnage à la DGSI
 
 |
 
@@ -1012,7 +1150,7 @@ Adjoint au sous-directeur du contre-terrorisme à la DCRI
 
 |
 
-Adjoint au sous-directeur de la subversion violente à la DCRI
+Adjoint au sous-directeur de la protection économique à la DGSI
 
 |
 
@@ -1024,7 +1162,7 @@ Adjoint au sous-directeur de la subversion violente à la DCRI
 
 |
 
-Adjoint au sous-directeur du contre-espionnage à la DCRI
+Adjoint au sous-directeur des surveillances à la DGSI
 
 |
 
@@ -1036,7 +1174,7 @@ Adjoint au sous-directeur du contre-espionnage à la DCRI
 
 |
 
-Adjoint au sous-directeur de la protection économique à la DCRI
+Adjoint au sous-directeur des affaires judiciaires à la DGSI
 
 |
 
@@ -1048,7 +1186,7 @@ Adjoint au sous-directeur de la protection économique à la DCRI
 
 |
 
-Chef du DRT à la DCRI, Boullay-les-Troux
+Adjoint à un sous-directeur à la direction technique à la DGSI
 
 |
 
@@ -1060,7 +1198,7 @@ Chef du DRT à la DCRI, Boullay-les-Troux
 
 |
 
-Adjoint au sous-directeur des technologies du renseignement à la DCRI
+Adjoint à un sous-directeur à la direction technique à la DGSI
 
 |
 
@@ -1072,31 +1210,7 @@ Adjoint au sous-directeur des technologies du renseignement à la DCRI
 
 |
 
-Adjoint au sous-directeur des supports à la DCRI
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Adjoint au sous-directeur de l'administration générale à la DCRI
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef de division à la sous-direction des affaires internationales à la DCRI
+Chef de division à la sous-direction de la lutte contre le terrorisme et les extrémismes violents à la DGSI
 
 |
 
@@ -1108,7 +1222,7 @@ Chef de division à la sous-direction des affaires internationales à la DCRI
 
 |
 
-Chef de division à la sous-direction du contre-terrorisme à la DCRI
+Chef de division à la sous-direction de la lutte contre le terrorisme et les extrémismes violents à la DGSI
 
 |
 
@@ -1120,7 +1234,7 @@ Chef de division à la sous-direction du contre-terrorisme à la DCRI
 
 |
 
-Chef de division à la sous-direction de la subversion violente à la DCRI
+Chef de division à la sous-direction du contre-espionnage à la DGSI
 
 |
 
@@ -1132,55 +1246,7 @@ Chef de division à la sous-direction de la subversion violente à la DCRI
 
 |
 
-Chef de division à la sous-direction du contre-espionnage à la DCRI
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de département à la sous-direction de la protection économique à la DCRI
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de division à la sous-direction des technologies du renseignement à la DCRI
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de division à la sous-direction des supports à la DCRI
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Chef de division à la sous-direction de l'administration générale à la DCRI
+Chef de division du personnel à la sous-direction du personnel et de la formation à la DGSI
 
 |
 
@@ -1252,18 +1318,6 @@ Adjoint au sous-directeur des missions de sécurité à la DCSP
 
 |
 
-Adjoint au sous-directeur de l'information générale à la DCSP
-
-|
-
-1
-
-|
-
-70
-
-|
-
 Adjoint au sous-directeur des ressources humaines et de la logistique à la DCSP
 
 |
@@ -1276,19 +1330,7 @@ Adjoint au sous-directeur des ressources humaines et de la logistique à la DCSP
 
 |
 
-Chef de la division de l'information et des synthèses à la DCSP
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Chef de la division de l'analyse, de l'information institutionnelle et des questions de société à la DCSP
+Chef de la division des faits religieux et mouvances contestataires à la DCSP
 
 |
 
@@ -1324,7 +1366,7 @@ Chef de la division des dérives urbaines et du repli identitaire à la DCSP
 
 |
 
-Chef de la division des enquêtes, de la documentation et des systèmes d'information à la DCSP
+Chef de la division de la documentation et de la veille technique à la DCSP
 
 |
 
@@ -1360,6 +1402,18 @@ Chef de l'office central pour la répression de l'immigration irrégulière et d
 
 |
 
+Adjoint au sous-directeur des affaires internationales, transfrontières et de la sûreté, chef du bureau des affaires européennes et internationales à la DCPAF
+
+|
+
+1
+
+|
+
+60
+
+|
+
 Adjoint au sous-directeur de la lutte contre la criminalité organisée et la délinquance financière à la DCPJ
 
 |
@@ -1369,18 +1423,6 @@ Adjoint au sous-directeur de la lutte contre la criminalité organisée et la d�
 |
 
 80
-
-|
-
-Chef d'état-major de la sous-direction de la lutte contre la criminalité organisée et la délinquance financière à la DCPJ
-
-|
-
-1
-
-|
-
-60
 
 |
 
@@ -1408,7 +1450,7 @@ Chef de la division des relations internationales à la DCPJ
 
 |
 
-Chef du service central des courses et jeux à la DCPJ
+Chef du service central des courses et jeux (S.C.C.J.) à la DCPJ
 
 |
 
@@ -1416,11 +1458,11 @@ Chef du service central des courses et jeux à la DCPJ
 
 |
 
-100
+80
 
 |
 
-Adjoint au chef du service central des courses et jeux, chef de la division de la logistique et de la coordination opérationnelle à la DCPJ
+Adjoint au chef du service central des courses et jeux (SCCJ), chef de la division de la logistique et de la coordination opérationnelle à la DCPJ
 
 |
 
@@ -1432,7 +1474,7 @@ Adjoint au chef du service central des courses et jeux, chef de la division de l
 
 |
 
-Chef de la division de la logistique opérationnelle, adjoint au sous-directeur des ressources, de l'évaluation et de la stratégie à la DCPJ
+Adjoint au sous-directeur des ressources, de l'évaluation et de la stratégie à la DCPJ
 
 |
 
@@ -1444,7 +1486,7 @@ Chef de la division de la logistique opérationnelle, adjoint au sous-directeur 
 
 |
 
-Chef de l'office central pour la répression de la traite des êtres humains à la DCPJ
+Chef de l'office central pour la répression des violences aux personnes à la DCPJ
 
 |
 
@@ -1480,18 +1522,6 @@ Chef de l'office central pour la répression du trafic illicite des stupéfiants
 
 |
 
-Chargé de missions d'études et d'audit auprès du DCPJ
-
-|
-
-1
-
-|
-
-60
-
-|
-
 Chef de l'office central pour la répression de la grande délinquance financière à la DCPJ
 
 |
@@ -1516,7 +1546,7 @@ Chef de l'office central de lutte contre la criminalité liée aux technologies 
 
 |
 
-Chef de la division nationale d'investigations financières et fiscales à la DCPJ
+Chef de l'office central de lutte contre la corruption et les infractions financières et fiscales à la DCPJ
 
 |
 
@@ -1528,19 +1558,7 @@ Chef de la division nationale d'investigations financières et fiscales à la DC
 
 |
 
-Chef de la division nationale du budget et de la logistique à la DCPJ
-
-|
-
-1
-
-|
-
-60
-
-|
-
-Chef du service central de documentation criminelle à Ecully (DCPJ)
+Chef du service central de documentation criminelle (SCDC) à Ecully (DCPJ)
 
 |
 
@@ -1552,7 +1570,7 @@ Chef du service central de documentation criminelle à Ecully (DCPJ)
 
 |
 
-Chef du service central d'identité judiciaire à Ecully (DCPJ)
+Chef du service central d'identité judiciaire (SCIJ) à Ecully (DCPJ)
 
 |
 
@@ -1564,7 +1582,7 @@ Chef du service central d'identité judiciaire à Ecully (DCPJ)
 
 |
 
-Chef du cabinet central d'enquêtes à l'IGPN
+Chef de l'unité de coordination des enquêtes à l'IGPN
 
 |
 
@@ -1584,11 +1602,11 @@ Chef du cabinet des études à l'IGPN
 
 |
 
-80
+60
 
 |
 
-Chef du cabinet des audits à l'IGPN
+Chef du cabinet des inspections et des audits à l'IGPN
 
 |
 
@@ -1600,7 +1618,31 @@ Chef du cabinet des audits à l'IGPN
 
 |
 
-Secrétaire général à l'IGPN
+Chef du cabinet de l'analyse, de la déontologie et de la règle à l'IGPN
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef de la délégation de l'IGPN Paris (IGPN)
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Adjoint au chef de la délégation de l'IGPN Paris
 
 |
 
@@ -1612,7 +1654,7 @@ Secrétaire général à l'IGPN
 
 |
 
-11° Emploi de responsabilité de niveau 1 en administration centrale (hors direction active)
+10° Emploi de responsabilité de niveau 1 en administration centrale (hors direction active)
 
 DÉSIGNATION DES EMPLOIS
 
@@ -1638,7 +1680,7 @@ Chef du bureau des commissaires de police à la DRCPN
 
 |
 
-Préfecture de police
+Préfecture de police de Paris
 
 1° Directeur
 
@@ -1762,33 +1804,7 @@ Directeur territorial de la sécurité de proximité du Val-de-Marne (DSPAP)
 
 |
 
-2° Chef de l'inspection générale des services
-
-DÉSIGNATION DES EMPLOIS
-
-|
-
-NOMBRE DE BÉNÉFICIAIRES
-
-|
-
-NOMBRE DE POINTS
-
-|
-
-Chef de l'inspection générale des services (IGS)
-
-|
-
-1
-
-|
-
-140
-
-|
-
-3° Adjoint au directeur
+2° Directeur adjoint
 
 DÉSIGNATION DES EMPLOIS
 
@@ -1814,7 +1830,7 @@ Directeur adjoint de la police judiciaire chargé des brigades centrales à la D
 
 |
 
-Directeur adjoint du renseignement à la DRPP
+Directeur adjoint du renseignement, chef d'état-major à la DRPP
 
 |
 
@@ -1826,7 +1842,7 @@ Directeur adjoint du renseignement à la DRPP
 
 |
 
-Directeur adjoint de l'ordre public et de la circulation à la DOPC
+Directeur adjoint de l'ordre public et de la circulation, chef de l'état-major à la DOPC
 
 |
 
@@ -1910,7 +1926,7 @@ Directeur territorial adjoint de la sécurité de proximité du Val-de-Marne à 
 
 |
 
-4° Sous-directeur et chef de service
+3° Sous-directeur
 
 DÉSIGNATION DES EMPLOIS
 
@@ -1984,7 +2000,7 @@ Sous-directeur de la gestion opérationnelle à la DSPAP
 
 |
 
-Sous-directeur des services spécialisés à la DSPAP
+Sous-directeur des services spécialisés de l'agglomération à la DSPAP
 
 |
 
@@ -1996,7 +2012,7 @@ Sous-directeur des services spécialisés à la DSPAP
 
 |
 
-Sous-directeur du service régional de la police des transports à la DSPAP
+Sous-directeur régional de police des transports à la DSPAP
 
 |
 
@@ -2005,6 +2021,18 @@ Sous-directeur du service régional de la police des transports à la DSPAP
 |
 
 100
+
+|
+
+Sous-directeur de l'ordre public de l'agglomération parisienne à la DOPC
+
+|
+
+1
+
+|
+
+80
 
 |
 
@@ -2080,7 +2108,7 @@ Sous-directeur des services territoriaux à la DPJ
 
 |
 
-5° Adjoint au sous-directeur, chef d'état-major et responsable opérationnel
+4° Adjoint à un sous-directeur ; chef d'état-major et adjoint ; conseiller technique ; responsable opérationnel
 
 DÉSIGNATION DES EMPLOIS
 
@@ -2091,42 +2119,6 @@ NOMBRE DE BÉNÉFICIAIRES
 |
 
 NOMBRE DE POINTS
-
-|
-
-Chef du 1er district à la DOPC
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef du 2e district à la DOPC
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Chef du 3e district à la DOPC
-
-|
-
-1
-
-|
-
-80
 
 |
 
@@ -2142,7 +2134,79 @@ Adjoint au sous-directeur régional de la circulation et de la sécurité routi�
 
 |
 
-Adjoint au sous-directeur de l'ordre public de l'agglomération parisienne à la DOPC
+Adjoint au sous-directeur de la gestion opérationnelle à la DOPC
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef d'état-major adjoint à la DOPC
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef d'état-major adjoint à la DOPC
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef d'état-major adjoint à la DOPC
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Chef de la division des unités opérationnelles d'ordre public (DUOOP) à la DOPC
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef de la division des gardes et des escortes (DGE) à la DOPC
+
+|
+
+1
+
+|
+
+40
+
+|
+
+Chef de la division régionale motocycliste (DRM) à la DOPC
 
 |
 
@@ -2154,55 +2218,7 @@ Adjoint au sous-directeur de l'ordre public de l'agglomération parisienne à la
 
 |
 
-A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC
-
-|
-
-1
-
-|
-
-50
-
-|
-
-A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC
-
-|
-
-1
-
-|
-
-50
-
-|
-
-A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC
-
-|
-
-1
-
-|
-
-50
-
-|
-
-A la sous-direction de l'ordre public de l'agglomération parisienne-état-major à la DOPC
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Adjoint au sous-directeur des services spécialisés et chef du service des compagnies de sécurisation et d'intervention à la DSPAP
+Adjoint au sous-directeur des services spécialisés de l'agglomération et chef du service des compagnies de sécurisation et d'intervention à la DSPAP
 
 |
 
@@ -2226,7 +2242,7 @@ Adjoint au sous-directeur de la gestion opérationnelle à la DSPAP
 
 |
 
-Adjoint au sous-directeur du service régional de la police des transports, chef de la brigade des réseaux ferrés à la DSPAP
+Adjoint au sous-directeur régional de police des transports, chef de la brigade des réseaux franciliens à la DSPAP
 
 |
 
@@ -2238,7 +2254,7 @@ Adjoint au sous-directeur du service régional de la police des transports, chef
 
 |
 
-Chef d'état-major à la direction de la sécurité de proximité de l'agglomération parisienne (DSPAP), à Paris
+Chef d'état-major à la direction de la sécurité de proximité de l'agglomération parisienne, à Paris (DSPAP)
 
 |
 
@@ -2250,7 +2266,7 @@ Chef d'état-major à la direction de la sécurité de proximité de l'agglomér
 
 |
 
-Chef d'état-major adjoint à la direction de la sécurité de proximité de l'agglomération parisienne (DSPAP), à Paris
+Chef d'état-major adjoint à la direction de la sécurité de proximité de l'agglomération parisienne, à Paris (DSPAP)
 
 |
 
@@ -2310,7 +2326,7 @@ Chef du service de prévention, de police administrative et de documentation à 
 
 |
 
-Chef du service d'investigations transversales à la DSPAP
+Chef de la sûreté territoriale à la DSPAP
 
 |
 
@@ -2322,7 +2338,7 @@ Chef du service d'investigations transversales à la DSPAP
 
 |
 
-Adjoint au chef de la brigade des réseaux ferrés de la SDRPT à la DSPAP
+Adjoint au chef de la brigade des réseaux franciliens de la SDRPT à la DSPAP
 
 |
 
@@ -2334,7 +2350,7 @@ Adjoint au chef de la brigade des réseaux ferrés de la SDRPT à la DSPAP
 
 |
 
-Chef de la division état-major, suivi et analyse des phénomènes sociaux et des phénomènes de société à la DRPP
+Chef de la division suivi et analyse des phénomènes sociaux et des phénomènes de société à la DRPP
 
 |
 
@@ -2382,19 +2398,7 @@ Conseiller technique adjoint chargé des affaires de police
 
 |
 
-Adjoint au chef de l'inspection générale des services (IGS)
-
-|
-
-1
-
-|
-
-60
-
-|
-
-6° Responsable opérationnel et adjoint au responsable opérationnel dans les services territoriaux de la préfecture de police
+5° Responsable opérationnel et adjoint au responsable opérationnel dans les services territoriaux de la préfecture de police de Paris
 
 DÉSIGNATION DES EMPLOIS
 
@@ -2576,7 +2580,7 @@ Commissaire central du 9e arrondissement à la DSPAP
 
 |
 
-Commissaire central adjoint, chef du département de police de quartier et de voie publique du 15e arrondissement à la DSPAP
+Commissaire central adjoint du 8e arrondissement à la DSPAP
 
 |
 
@@ -2588,7 +2592,7 @@ Commissaire central adjoint, chef du département de police de quartier et de vo
 
 |
 
-Commissaire central adjoint, chef du département de police de quartier et de voie publique du 8e arrondissement à la DSPAP
+Commissaire central adjoint du 13e arrondissement à la DSPAP
 
 |
 
@@ -2600,7 +2604,7 @@ Commissaire central adjoint, chef du département de police de quartier et de vo
 
 |
 
-Commissaire central adjoint, chef du département de police de quartier et de voie publique du 16e arrondissement à la DSPAP
+Commissaire central adjoint du 16e arrondissement à la DSPAP
 
 |
 
@@ -2612,7 +2616,7 @@ Commissaire central adjoint, chef du département de police de quartier et de vo
 
 |
 
-Commissaire central adjoint, chef du département de police de quartier et de voie publique du 19e arrondissement à la DSPAP
+Commissaire central adjoint du 18e arrondissement à la DSPAP
 
 |
 
@@ -2624,7 +2628,7 @@ Commissaire central adjoint, chef du département de police de quartier et de vo
 
 |
 
-Commissaire central adjoint, chef du département de police de quartier et de voie publique du 18e arrondissement à la DSPAP
+Commissaire central adjoint du 19e arrondissement à la DSPAP
 
 |
 
@@ -2636,7 +2640,7 @@ Commissaire central adjoint, chef du département de police de quartier et de vo
 
 |
 
-Commissaire central adjoint du 20e arrondissement à la DSPAP
+Commissaire central adjoint du 20e arrondissement
 
 |
 
@@ -2648,7 +2652,7 @@ Commissaire central adjoint du 20e arrondissement à la DSPAP
 
 |
 
-Chef de district et commissaire central d'Asnières, à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP)
+Chef de district, commissaire central d'Asnières, de la direction territoriale de sécurité et de proximité des Hauts-de-Seine (DSPAP)
 
 |
 
@@ -2660,7 +2664,7 @@ Chef de district et commissaire central d'Asnières, à la direction territorial
 
 |
 
-Chef de district et commissaire central de Nanterre, à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP)
+Chef de district, commissaire central de Nanterre, de la direction territoriale de sécurité et de proximité des Hauts-de-Seine (DSPAP)
 
 |
 
@@ -2672,7 +2676,7 @@ Chef de district et commissaire central de Nanterre, à la direction territorial
 
 |
 
-Chef de district et commissaire central de Boulogne-Billancourt, à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP)
+Chef de district, commissaire central de Boulogne-Billancourt, de la direction territoriale de sécurité et de proximité des Hauts-de-Seine (DSPAP)
 
 |
 
@@ -2684,7 +2688,7 @@ Chef de district et commissaire central de Boulogne-Billancourt, à la direction
 
 |
 
-Chef de district et commissaire central d'Antony, à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP)
+Chef de district, commissaire central d'Antony, de la direction territoriale de sécurité et de proximité des Hauts-de-Seine (DSPAP)
 
 |
 
@@ -2696,7 +2700,7 @@ Chef de district et commissaire central d'Antony, à la direction territoriale d
 
 |
 
-Chef de district et commissaire central de Bobigny à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
+Chef de district, commissaire central de Bobigny, de la direction territoriale de sécurité et de proximité de Seine-Saint-Denis (DSPAP)
 
 |
 
@@ -2708,7 +2712,7 @@ Chef de district et commissaire central de Bobigny à la direction territoriale 
 
 |
 
-Chef de district et commissaire central de Saint-Denis à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
+Chef de district, commissaire central de Saint-Denis, de la direction territoriale de sécurité et de proximité de Seine-Saint-Denis (DSPAP)
 
 |
 
@@ -2720,7 +2724,7 @@ Chef de district et commissaire central de Saint-Denis à la direction territori
 
 |
 
-Chef de district et commissaire central d'Aulnay-sous-Bois à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
+Chef de district, commissaire central d'Aulnay-sous-Bois, de la direction territoriale de sécurité et de proximité de Seine-Saint-Denis (DSPAP)
 
 |
 
@@ -2732,7 +2736,7 @@ Chef de district et commissaire central d'Aulnay-sous-Bois à la direction terri
 
 |
 
-Chef de district et commissaire central de Montreuil-sous-Bois à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
+Chef de district, commissaire central de Montreuil-sous-Bois, de la direction territoriale de sécurité et de proximité de Seine-Saint-Denis (DSPAP)
 
 |
 
@@ -2744,7 +2748,7 @@ Chef de district et commissaire central de Montreuil-sous-Bois à la direction t
 
 |
 
-Chef de district et commissaire central de Créteil à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP)
+Chef de district, commissaire central de Créteil, de la direction territoriale de sécurité et de proximité du Val-de-Marne (DSPAP)
 
 |
 
@@ -2756,7 +2760,7 @@ Chef de district et commissaire central de Créteil à la direction territoriale
 
 |
 
-Chef de district et commissaire central de L'Hay-les-Roses à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP)
+Chef de district, commissaire central de L'Haÿ-les-Roses, de la direction territoriale de sécurité et de proximité du Val-de-Marne (DSPAP)
 
 |
 
@@ -2768,7 +2772,7 @@ Chef de district et commissaire central de L'Hay-les-Roses à la direction terri
 
 |
 
-Chef de district et commissaire central de Vitry-sur-Seine à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP)
+Chef de district, commissaire central de Vitry-sur-Seine, de la direction territoriale de sécurité et de proximité du Val-de-Marne (DSPAP)
 
 |
 
@@ -2780,7 +2784,7 @@ Chef de district et commissaire central de Vitry-sur-Seine à la direction terri
 
 |
 
-Chef de district et commissaire central de Nogent-sur-Marne à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP)
+Chef de district, commissaire central de Nogent-sur-Marne, de la direction territoriale de sécurité et de proximité du Val-de-Marne (DSPAP)
 
 |
 
@@ -2792,7 +2796,7 @@ Chef de district et commissaire central de Nogent-sur-Marne à la direction terr
 
 |
 
-Commissaire central d'Aubervilliers, à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
+Commissaire central d'Aubervilliers à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
 
 |
 
@@ -2804,7 +2808,7 @@ Commissaire central d'Aubervilliers, à la direction territoriale de la sécurit
 
 |
 
-Commissaire central de La Courneuve à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
+Chef de circonscription de La Courneuve à la direction territoriale de sécurité et de proximité de Seine-Saint-Denis (DSPAP)
 
 |
 
@@ -2828,7 +2832,7 @@ Commissaire central du Kremlin-Bicêtre à la direction territoriale de la sécu
 
 |
 
-Chef de circonscription d'Epinay-sur-Seine, à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
+Chef de circonscription d'Epinay-sur-Seine à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
 
 |
 
@@ -2840,7 +2844,7 @@ Chef de circonscription d'Epinay-sur-Seine, à la direction territoriale de la s
 
 |
 
-Chef de la sûreté territoriale de Nanterre, à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP)
+Chef de la sûreté territoriale à Nanterre à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP)
 
 |
 
@@ -2852,7 +2856,7 @@ Chef de la sûreté territoriale de Nanterre, à la direction territoriale de la
 
 |
 
-Chef de la sûreté territoriale de Bobigny, à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
+Chef de la sûreté territoriale à Bobigny à la direction territoriale de la sécurité de proximité de Seine-Saint-Denis (DSPAP)
 
 |
 
@@ -2864,7 +2868,7 @@ Chef de la sûreté territoriale de Bobigny, à la direction territoriale de la 
 
 |
 
-Chef de la sûreté territoriale de Créteil à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP)
+Chef de la sûreté territoriale à Créteil à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP)
 
 |
 
@@ -2876,7 +2880,7 @@ Chef de la sûreté territoriale de Créteil à la direction territoriale de la 
 
 |
 
-Chef de brigade anticriminalité de nuit à la DSPAP
+Chef du service de nuit d'agglomération à la DSPAP
 
 |
 
@@ -2888,7 +2892,7 @@ Chef de brigade anticriminalité de nuit à la DSPAP
 
 |
 
-Chef adjoint de la brigade anticriminalité de nuit à la DSPAP
+Chef adjoint du service de nuit d'agglomération à la DSPAP
 
 |
 
@@ -2900,7 +2904,7 @@ Chef adjoint de la brigade anticriminalité de nuit à la DSPAP
 
 |
 
-Chef du service territorial du renseignement des Hauts-de-Seine, Nanterre (DRPP)
+Chef du service territorial du renseignement des Hauts-de-Seine - Nanterre (DRPP)
 
 |
 
@@ -2912,7 +2916,7 @@ Chef du service territorial du renseignement des Hauts-de-Seine, Nanterre (DRPP)
 
 |
 
-Chef du service territorial du renseignement de Seine-Saint-Denis, Bobigny (DRPP)
+Chef du service territorial du renseignement de Seine-Saint-Denis - Bobigny - (DRPP)
 
 |
 
@@ -2924,19 +2928,7 @@ Chef du service territorial du renseignement de Seine-Saint-Denis, Bobigny (DRPP
 
 |
 
-Chef du service territorial du renseignement du Val-de-Marne, Créteil (DRPP)
-
-|
-
-1
-
-|
-
-50
-
-|
-
-Coordinateur des affaires disciplinaires à l'IGS
+Chef du service territorial du renseignement du Val-de-Marne - Créteil (DRPP)
 
 |
 
@@ -3152,7 +3144,7 @@ Chef du 3e district de police judiciaire à la DPJ
 
 |
 
-Chef du service départemental de la police judiciaire des Hauts-de-Seine, Nanterre (DPJ)
+Chef du service départemental de la police judiciaire des Hauts-de-Seine - Nanterre (DPJ)
 
 |
 
@@ -3164,7 +3156,7 @@ Chef du service départemental de la police judiciaire des Hauts-de-Seine, Nante
 
 |
 
-Chef du service départemental de police judiciaire de Seine-Saint-Denis, Bobigny (DPJ)
+Chef du service départemental de police judiciaire de Seine-Saint-Denis - Bobigny (DPJ)
 
 |
 
@@ -3176,7 +3168,7 @@ Chef du service départemental de police judiciaire de Seine-Saint-Denis, Bobign
 
 |
 
-Chef du service départemental de police judiciaire du Val-de-Marne, Créteil (DPJ)
+Chef du service départemental de police judiciaire du Val-de-Marne - Créteil (DPJ)
 
 |
 
@@ -3184,4 +3176,6 @@ Chef du service départemental de police judiciaire du Val-de-Marne, Créteil (D
 
 |
 
-40 |
+40
+
+|
