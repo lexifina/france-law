@@ -1,0 +1,91 @@
+# Article Annexe
+
+RACCORDEMENTS
+
+Les vérifications ou essais sont réalisés en prenant en considération une typologie de situations de raccordements selon la famille de produit considérée, la différence éventuelle de niveau de retenue des barrières raccordées, la différence absolue de déflexion dynamique normalisée et l'usage ou non de pièces de raccordement spécifiques. Sur la base de cette typologie, sont imposées des exigences techniques croissantes et des types de vérifications ou d'essais adaptés.
+
+Le tableau ci-après précise les différents types de vérifications ou d'essais à effectuer par type de raccordement.
+
+FAMILLE DE PRODUIT (1) |
+
+NIVEAU DE RETENUE |
+
+ΔD (2) |
+
+PIÈCE
+
+de raccordement
+
+spécifique (3) |
+
+TYPES DE VÉRIFICATIONS OU D'ESSAIS |
+
+Identique |
+
+Identique |
+
+≤ 50 cm |
+
+Non |
+
+Pas de vérifications particulières |
+
+> 50 cm |
+
+Non |
+
+Simulations numériques (5) |
+
+Identique |
+
+Différent (sauf niveau L) (4) |
+
+X |
+
+Oui/Non |
+
+Simulations numériques (5) |
+
+Différente |
+
+Identique |
+
+≤ 50cm |
+
+Non |
+
+Pas de vérifications particulières |
+
+Oui |
+
+Simulations numériques (5) |
+
+> 50cm |
+
+Non |
+
+Simulations numériques (5) |
+
+Oui |
+
+1 Crash-test selon XP ENV 1317-4 + simulations numériques (5) |
+
+Différente |
+
+Différent |
+
+X |
+
+Oui/Non |
+
+1 Crash-test selon XP ENV 1317-4 + simulations numériques (5) |
+
+(1) Notion de famille : paragraphe 4.7 de la norme NF EN 1317-2 : 2010.
+
+(2) ΔD : différence absolue entre la déflexion dynamique normalisée des deux dispositifs raccordés.
+
+(3) Pièce de raccordement spécifique : pièce particulière n'appartenant à aucun des deux dispositifs et destinée à assurer la continuité géométrique et mécanique du raccordement.
+
+(4) Dans le cas de deux barrières de niveaux L, il sera possible de comparer la différence de déflexion dynamique de l'essai commun TB32 et donc se rapporter à la première ligne du tableau.
+
+(5) Les simulations numériques seront effectuées conformément aux recommandations du rapport CEN/TR 16303 pour la simulation numérique d'essai de choc sur des dispositifs de retenue de véhicules. |
