@@ -196,15 +196,15 @@ b) Tournesol
 
 RÉGIONS FRANÇAISES,
 
-où les émissions calculées
+où les émissions calculées sont supérieures
 
-sont supérieures aux valeurs par défaut
+aux valeurs par défaut
 
 |
 
 ÉMISSIONS
 
-en g CO2eq/MJ
+en g CO2eq/ MJ
 
 |
 
@@ -212,7 +212,9 @@ Valeur par défaut détaillée pour la culture
 
 |
 
-18 |
+18
+
+|
 
 Aucune région productrice
 
@@ -222,10 +224,8 @@ Aucune région productrice
 
 |
 
-Les régions Alsace, Basse-Normandie, Bretagne, Corse, Franche-Comté, Haute-Normandie, Limousin, Lorraine, Nord-Pas-de-Calais, Picardie, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional
+Les régions Alsace, Basse-Normandie, Bretagne, Corse, Franche-Comté, Haute-Normandie, Lorraine, Nord-Pas-de-Calais, Picardie, faiblement productrices, ne disposent pas de données robustes sur les itinéraires techniques au niveau régional
 
 |
 
--
-
-|
+- |
