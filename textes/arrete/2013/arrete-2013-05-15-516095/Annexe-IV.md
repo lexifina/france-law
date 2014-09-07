@@ -42,7 +42,7 @@ Par type de dispositif de post-équipement , un regroupement de dispositifs de p
 
 Par post-équipement , l'action d'installer sur un véhicule existant et réceptionné un dispositif de post-équipement relevant du champ d'application du présent arrêté.
 
-Par dispositif de post-équipement de réduction des particules , un dispositif visant à réduire les émissions de particules, utilisé comme un post-équipement et relevant du champ d'application du présent arrêté.
+Par dispositif de post-équipement de réduction des particules, un dispositif visant à réduire les émissions de particules, sans accroissement des émissions directes de NO2 ou avec accroissement des émissions directes de NO2 dans la limite fixée au point 7.3.1, utilisé comme un post-équipement et relevant du champ d'application du présent arrêté.
 
 Par type de dispositifs de post-équipement de réduction des particules , un ensemble de dispositifs de post-équipement de filtres à particules répondant aux critères de similitude définis au paragraphe 4.1 de cette annexe.
 
@@ -184,7 +184,7 @@ Le constructeur est tenu de fournir à tous les utilisateurs demandant le post-�
 
 6. Exigences relatives aux modifications apportées au système-moteur soumis à post-équipement
 
-Aucun des paramètres de fonctionnement du moteur déclarés par son constructeur lors de sa réception (par exemple, la valeur de contre-pression à l'échappement qui ne doit pas être dépassée) ne doit être affecté par l'installation d'un post-équipement. Toute modification de cette contre-pression n'est acceptable qu'avec l'accord écrit du constructeur du moteur.
+Aucun des paramètres de fonctionnement du moteur déclarés par son constructeur lors de sa réception (par exemple, la valeur de contre-pression à l'échappement qui ne doit pas être dépassée) ne doit être affecté par l'installation d'un post-équipement. Toute modification de cette contre-pression n'est acceptable qu'avec l'accord écrit du constructeur du moteur. En absence d'accord écrit du constructeur du moteur, le constructeur du dispositif de postéquipement s'engage par écrit à garantir la préservation de l'intégrité des moteurs sur lesquels sont installés les dispositifs de postéquipement qu'il commercialise et à assumer la responsabilité d'une détérioration éventuelle des moteurs due à l'installation de ces dispositifs.
 
 Dans le cas où, afin d'assurer le bon fonctionnement d'un système-moteur avec le dispositif de post-équipement, des modifications des composants et/ou des systèmes (4) ayant une influence sur le niveau d'émissions de ce système-moteur seraient nécessaires, le constructeur (du post-équipement) doit fournir une description détaillée de ces modifications et de leur impact sur le fonctionnement et la performance du système de maîtrise de la pollution. Cette description doit être accompagnée des résultats d'essais, simulations, et autres justifications techniques nécessaires à l'autorité de réception pour autoriser les modifications envisagées.
 
@@ -476,9 +476,7 @@ EREC est le niveau d'émissions en aval d'un dispositif de post-équipement.
 
 7.3.1. Dioxyde d'azote (NO2)
 
-Dans le cas où le niveau d'émission de NO2 du système-moteur avant post-équipement mesuré sur un cycle ETC conformément à la procédure de mesure définie dans l'appendice 1 de cette annexe est supérieur à 0,8 g/kWh, l'installation d'un dispositif de post-équipement sur ce moteur ne doit pas augmenter ce niveau.
-
-Dans le cas contraire, le niveau d'émission de NO2 du moteur après post-équipement ne doit pas dépasser 0,8 g/kWh.
+L'accroissement incrémental de NO2 ne doit pas être de plus de 30 points de pourcentage par rapport au niveau enregistré en l'absence de dispositif de post-équipement (ainsi par exemple, si les émissions de base de NO2 sont égales à 10 % de NOx, les émissions maximales admises de NO2 avec le dispositif de postéquipement sont de 40 % de NOx).
 
 7.3.2. Ammoniac
 

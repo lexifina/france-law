@@ -22,7 +22,7 @@ PARTIE I
 
 0.2. Type :
 
-0.2.1. Catégorie de dispositif (filtre à particules/catalyseur/...) :
+0.2.1. Catégorie de dispositif (filtre à particules (sans ou avec accroissement des émissions directes de NO2)/catalyseur/...) :
 
 0.2.2. Polluants concernés : particules/oxydes d'azote
 
@@ -147,5 +147,7 @@ du véhicule
 |
 
 |
+
+1.3 Accroissement incrémental de NO2 : ... points de pourcentage (pour les dispositifs de postéquipement de traitement des particules).
 
 2. Observations :

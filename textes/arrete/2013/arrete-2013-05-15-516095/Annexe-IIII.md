@@ -6,11 +6,11 @@ Certificat de mise en conformité
 
 (Suivant le paragraphe 6 de l'article 5 de l'arrêté du 15 mai 2013 visant la procédure d'installation et de réception des dispositifs de post-équipement permettant de réduire les émissions de polluants des véhicules en service)
 
-0.1. Nom et adresse du titulaire de la carte grise :
+0.1. Nom et adresse du titulaire du certificat d'immatriculation :
 
 0.2. Type du dispositif.
 
-0.2.1. Catégorie de dispositif/filtre à particules/catalyseur/...) :
+0.2.1. Catégorie de dispositif/filtre à particules (sans ou avec accroissement des émissions directes de NO2)/catalyseur/...) :
 
 0.2.2. Polluants concernés (particules/oxydes d'azote) :
 

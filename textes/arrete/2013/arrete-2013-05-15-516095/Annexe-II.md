@@ -12,7 +12,7 @@ Je soussigné ........ déclare avoir installé le dispositif de post-équipemen
 
 0.3. Type du dispositif :
 
-0.3.1. Catégorie de dispositif (filtre à particules/catalyseur/...) :
+0.3.1. Catégorie de dispositif (filtre à particules (sans ou avec accroissement des émissions directes de NO2)/catalyseur/...) :
 
 0.3.2 Polluants concernés : particules/oxydes d'azote :
 
