@@ -2,17 +2,17 @@
 
 DÉLIMITATION DES BASSINS DE COTATION VEAUX DE BOUCHERIE ENTRÉE ABATTOIR
 
-1. Bassin Nord
+1. Bassin nord
 
-NUMÉRO DU DÉPARTEMENT
-
-|
-
-NOM DU DÉPARTEMENT
+NUMÉRO DÉPARTEMENT
 
 |
 
-NOM DE LA RÉGION
+NOM DÉPARTEMENT
+
+|
+
+NOM RÉGION
 
 |
 
@@ -24,7 +24,7 @@ PARIS
 
 |
 
-ÎLE-DE-FRANCE
+ILE-DE-FRANCE
 
 |
 
@@ -36,7 +36,7 @@ SEINE-ET-MARNE
 
 |
 
-ÎLE-DE-FRANCE
+ILE-DE-FRANCE
 
 |
 
@@ -48,7 +48,7 @@ YVELINES
 
 |
 
-ÎLE-DE-FRANCE
+ILE-DE-FRANCE
 
 |
 
@@ -60,7 +60,7 @@ ESSONNE
 
 |
 
-ÎLE-DE-FRANCE
+ILE-DE-FRANCE
 
 |
 
@@ -72,7 +72,7 @@ HAUTS-DE-SEINE
 
 |
 
-ÎLE-DE-FRANCE
+ILE-DE-FRANCE
 
 |
 
@@ -84,7 +84,7 @@ SEINE-SAINT-DENIS
 
 |
 
-ÎLE-DE-FRANCE
+ILE-DE-FRANCE
 
 |
 
@@ -96,7 +96,7 @@ VAL-DE-MARNE
 
 |
 
-ÎLE-DE-FRANCE
+ILE-DE-FRANCE
 
 |
 
@@ -108,7 +108,7 @@ VAL-D'OISE
 
 |
 
-ÎLE-DE-FRANCE
+ILE-DE-FRANCE
 
 |
 
@@ -264,7 +264,7 @@ NORD
 
 |
 
-NORD - PAS-DE-CALAIS
+NORD-PAS-DE-CALAIS
 
 |
 
@@ -276,7 +276,7 @@ PAS-DE-CALAIS
 
 |
 
-NORD - PAS-DE-CALAIS
+NORD-PAS-DE-CALAIS
 
 |
 
@@ -428,7 +428,7 @@ BRETAGNE
 
 |
 
-FINISTÈRE
+FINISTERE
 
 |
 
@@ -472,17 +472,17 @@ CENTRE
 
 |
 
-2. Bassin Centre-Est
+2. Bassin sud
 
-NUMÉRO DU DÉPARTEMENT
-
-|
-
-NOM DU DÉPARTEMENT
+NUMÉRO DÉPARTEMENT
 
 |
 
-NOM DE LA RÉGION
+NOM DÉPARTEMENT
+
+|
+
+NOM RÉGION
 
 |
 
@@ -902,7 +902,7 @@ ALPES-DE-HAUTE-PROVENCE
 
 |
 
-PROVENCE-ALPES-CÔTE D'AZUR
+PROVENCE-ALPES-D'AZUR
 
 |
 
@@ -951,20 +951,6 @@ LOZÈRE
 |
 
 LANGUEDOC-ROUSSILLON
-
-|
-
-3. Bassin Sud-Ouest
-
-NUMÉRO DU DÉPARTEMENT
-
-|
-
-NOM DU DÉPARTEMENT
-
-|
-
-NOM DE LA RÉGION
 
 |
 
@@ -1132,7 +1118,7 @@ TARN
 
 |
 
-MIDI-PYRENÉES
+MIDI-PYRÉNÉES
 
 |
 
@@ -1144,7 +1130,7 @@ TARN-ET-GARONNE
 
 |
 
-MIDI-PYRENÉES
+MIDI-PYRÉNÉES
 
 |
 
@@ -1172,8 +1158,6 @@ MIDI-PYRÉNÉES
 
 |
 
-4. Carte des bassins
+3. Carte des bassins
 
-Vous pouvez consulter la carte dans le
-
-JOn° 22 du 26/01/2013 texte numéro 30
+Vous pouvez consulter l'image à l'adresse suivante : http://legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140802&numTexte=46&pageDebut=12836&pageFin=12843

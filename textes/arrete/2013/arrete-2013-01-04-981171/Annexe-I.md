@@ -1,8 +1,6 @@
 # Article Annexe I
 
-TYPOLOGIES DE VEAUX DE BOUCHERIE POUR LESQUELLES LES OPÉRATEURS
-
-DU RÉSEAU VISÉS À L'ARTICLE 2 DU PRÉSENT ARRÊTÉ DOIVENT COMMUNIQUER LES INFORMATIONS
+TYPOLOGIES DE VEAUX DE BOUCHERIE POUR LESQUELLES LES OPÉRATEURS DU RÉSEAU VISÉS À L'ARTICLE 2 DE L'ARRÊTÉ DU 4 JANVIER 2013 DOIVENT COMMUNIQUER LES INFORMATIONS
 
 CATÉGORIE
 
@@ -12,7 +10,7 @@ VEAUX ÉLEVÉS AU PIS
 
 |
 
-Engraissement
+Engraissements
 
 |
 
@@ -36,7 +34,7 @@ Effectif
 
 |
 
-3
+2-3
 
 |
 
@@ -314,8 +312,6 @@ Correspondance des couleurs en numérotation : blanc = 0 ; rose très clair = 1 
 
 |
 
-.
-
 CATÉGORIE
 
 |
@@ -324,7 +320,7 @@ VEAUX NON ÉLEVÉS AU PIS
 
 |
 
-Engraissement
+Engraissements
 
 |
 
@@ -348,7 +344,7 @@ Effectif
 
 |
 
-3
+2-3
 
 |
 

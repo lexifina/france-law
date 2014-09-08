@@ -4,9 +4,9 @@ GRILLES DE COTATION VEAUX DE BOUCHERIE
 
 Cotisations nationales et régionales des veaux de boucherie "entrée abattoir"
 
-Semaine n° ...................................., du ............................ au ...................................
+Semaine n° ................................................, .............................du au ....................................
 
-Prix "entrée-abattoir" HT exprimé en euros/kg de carcasse (cinquième quartier inclus)
+Prix "entrée-abattoir" HT exprimé en euros/ kg de carcasse (cinquième quartier inclus), frais de transport inclus.
 
 BASSINS
 
@@ -29,6 +29,8 @@ ROSE
 |
 
 ROUGE
+
+|
 
 |
 
@@ -186,61 +188,7 @@ Nord
 
 |
 
-Centre-Est
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Sud-Ouest
+Sud
 
 |
 
@@ -348,15 +296,13 @@ Cotation nationale
 
 |
 
-Prix moyen pondéré aux 100 kg net :
-
-Prix moyen pondéré aux 100 kg net des veaux clairs :
+Prix moyen pondéré aux 100 kg net.
 
 Cotisations nationales et régionales des veaux de boucherie élevés au pis
 
-Semaine n° ........................, du ....................... au ...............................
+Semaine n° .........................................................., ..................................du au ...........................................
 
-Prix "entrée abattoir" HT exprimé en euros/kg de carcasse (cinquième quartier inclus)
+Prix "entrée-abattoir" HT exprimé en euros/ kg de carcasse (cinquième quartier inclus), frais de transport inclus.
 
 BASSINS
 
@@ -379,6 +325,8 @@ ROSE
 |
 
 ROUGE
+
+|
 
 |
 
@@ -536,61 +484,7 @@ Nord
 
 |
 
-Centre-Est
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Sud-Ouest
+Sud
 
 |
 
@@ -698,13 +592,13 @@ Cotation nationale
 
 |
 
-Prix moyen pondéré aux 100 kg net :
+Prix moyen pondéré aux 100 kg net.
 
 Cotisations nationales et régionales des veaux de boucherie non élevés au pis
 
-Semaine n° ................................., du .......................au ...........................
+Semaine n° ........................................................, .................................... du au ............................................
 
-Prix "entrée abattoir" HT exprimé en euros/kg de carcasse (cinquième quartier inclus)
+Prix "entrée-abattoir" HT exprimé en euro/ kg de carcasse (cinquième quartier inclus), frais de transport inclus.
 
 BASSINS
 
@@ -727,6 +621,8 @@ ROSE
 |
 
 ROUGE
+
+|
 
 |
 
@@ -884,61 +780,7 @@ Nord
 
 |
 
-Centre-Est
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Sud-Ouest
+Sud
 
 |
 
@@ -1046,4 +888,4 @@ Cotation nationale
 
 |
 
-Prix moyen pondéré aux 100 kg net :
+Prix moyen pondéré aux 100 kg net.
