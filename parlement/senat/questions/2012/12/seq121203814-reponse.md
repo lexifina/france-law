@@ -1,0 +1,9 @@
+# Réponse à la question SEQ121203814
+
+- Question : [SEQ121203814](seq121203814.md) — Compensation du non-reversement de la part de la TGAP aux collectivités territoriales
+
+## Réponse
+
+*Finances et comptes publics, JO du 2014-09-11, page 2068*
+
+L'article 35 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012 a supprimé l'article 139 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 qui prévoyait d'affecter aux communes, à compter du 1er janvier 2012, un tiers du produit de la taxe générale sur les activités polluantes (TGAP) sur les matériaux d'extraction réparti, pour moitié, au profit des communes sur le territoire desquelles sont extraits les granulats, et pour l'autre moitié, au profit des communes concernées par les risques et inconvénients causés par l'extraction des granulats. En l'espèce, avec ce mode de répartition, la commune de Bellegarde-en-Forez se serait vue reverser environ 40 000 € au titre de la TGAP granulats, et non 80 000 €. Par ailleurs, la suppression de l'article 139 de la loi précitée a permis d'éviter que la création de ce prélèvement sur recettes (PSR) au profit de certaines communes n'impacte directement l'enveloppe des concours financiers de l'État, reconduite en valeur sur la période 2011-2013. Ceci signifie que les différentes composantes de l'enveloppe, dont la dotation globale de fonctionnement (DGF), les crédits budgétaires de la mission « relations avec les collectivités territoriales » et les compensations d'exonération de fiscalité directe locale auraient dû supporter à due concurrence une diminution du montant qui leur est affecté afin d'inclure ce nouveau prélèvement au sein de l'enveloppe gelée. Enfin, comme indiqué dans la réponse du ministère de l'économie et de finances, publiée dans le Journal officiel Sénat du 22 novembre 2012, la complexité du mode de calcul s'est effectivement avérée trop importante au regard des enjeux financiers.
