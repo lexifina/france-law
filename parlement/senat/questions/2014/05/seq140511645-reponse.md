@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511645
+
+- Question : [SEQ140511645](seq140511645.md) — Inscription des crémiers-fromagers à l'artisanat
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2014-09-11, page 2064*
+
+Dans le cadre du projet de loi relatif à l'artisanat, au commerce et aux très petites entreprises, des amendements parlementaires visant à rattacher l'activité de crémier-fromager à la liste d'activités soumises à une exigence de qualification professionnelle et définie par l'article 16 de la loi du 5 juillet 1996 ont été déposés. Or selon les revendications exprimées par les représentants des crémiers-fromagers, l'objectif poursuivi ne serait pas tant d'imposer une qualification obligatoire pour l'exercice de ce métier que de lui permettre de se rattacher au secteur de l'artisanat. L'octroi de la qualité d'artisan n'est pas régi par la loi mais par le décret du 2 avril 1998 relatif à la qualification artisanale et au répertoire des métiers, qui définit notamment la liste des activités relevant de l'artisanat. C'est la raison pour laquelle le Gouvernement s'est engagé devant la représentation nationale à examiner l'hypothèse d'un rattachement des crémiers-fromagers aux activités artisanales dans le cadre de la mise en œuvre des décrets d'application du projet de loi. Le Gouvernement a engagé une concertation avec les professionnels sur le principe de relever désormais des deux réseaux consulaires, avec le surcoût que cela implique (124 € par an). L'évolution du dispositif se fera également en association avec les deux réseaux consulaires pour déterminer les modalités de modification du périmètre de compétence. L'engagement d'ouvrir la concertation avec les professionnels est tenu. Les réponses qu'apportera le Gouvernement à ce dossier seront présentées à l'automne 2014.
