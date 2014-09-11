@@ -1,0 +1,111 @@
+# Famille : protection de l'enfant
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33597
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/protection_enfant
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl13-799.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-09-11 : 1er dépôt d'une initiative. (PIONSNR5S219B0799)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-09-11 : Renvoi en commission au fond
+      - 2014-11-05 : Nomination de rapporteur
+      - 2014-12-03 : Dépôt de rapport (RAPPSNR5S239B0146)
+    - Travaux d'une commission saisie pour avis
+      - 2014-10-29 : Saisine pour avis d'une commission
+      - 2014-10-29 : Nomination de rapporteur
+      - 2014-12-02 : Dépôt de rapport (AVISSNR5S239B0139)
+  - Discussion en séance publique
+    - 2014-12-11 : Discussion en séance publique
+    - 2015-01-28 : Discussion en séance publique
+    - 2015-03-11 : Discussion en séance publique
+    - 2015-03-11 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-03-11 : Dépôt d'une initiative en navette (PIONANR5L14B2652)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-03-11 : Renvoi en commission au fond
+      - 2015-04-07 : Nomination de rapporteur
+      - 2015-04-07 : Réunion de commission
+      - 2015-04-14 : Réunion de commission
+      - 2015-05-05 : Réunion de commission
+      - 2015-05-12 : Réunion de commission
+      - 2015-05-06 : Dépôt de rapport (RAPPANR5L14B2744, PIONANR5L14BTC2744)
+    - Travaux d'une commission saisie pour avis
+      - 2015-04-09 : Saisine pour avis d'une commission
+      - 2015-04-13 : Nomination de rapporteur
+      - 2015-04-13 : Réunion de commission
+      - 2015-05-05 : Réunion de commission
+      - 2015-05-05 : Dépôt de rapport (AVISANR5L14B2743)
+  - Discussion en séance publique
+    - 2015-05-12 : Discussion en séance publique
+    - 2015-05-12 : Discussion en séance publique
+    - 2015-05-12 : Décision
+- deuxième lecture
+  - 2015-05-13 : Dépôt d'une initiative en navette (PIONSNR5S239B0444)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-05-13 : Renvoi en commission au fond
+      - 2015-10-07 : Dépôt de rapport (RAPPSNR5S259B0032)
+  - Discussion en séance publique
+    - 2015-10-12 : Discussion en séance publique
+    - 2015-10-13 : Discussion en séance publique
+    - 2015-10-13 : Décision
+- deuxième lecture
+  - 2015-10-14 : Dépôt d'une initiative en navette (PIONANR5L14B3125)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-10-14 : Renvoi en commission au fond
+      - 2015-11-10 : Réunion de commission
+      - 2015-11-10 : Réunion de commission
+      - 2015-11-18 : Réunion de commission
+      - 2015-11-10 : Dépôt de rapport (RAPPANR5L14B3216, PIONANR5L14BTC3216)
+  - Discussion en séance publique
+    - 2015-11-18 : Discussion en séance publique
+    - 2015-11-18 : Décision
+- troisième lecture
+  - 2015-11-19 : Dépôt d'une initiative en navette (PIONSNR5S259B0175)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-11-19 : Renvoi en commission au fond
+- Commission Mixte Paritaire
+  - 2015-11-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-01-12 : Nomination de rapporteur
+    - 2016-01-12 : Dépôt du rapport d'une CMP (RAPPANR5L14B3388)
+    - 2016-01-12 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0289)
+  - 2016-01-13 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-01-13 : Dépôt d'une initiative en navette (PIONANR5L14B3394)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-01-13 : Renvoi en commission au fond
+      - 2016-01-20 : Réunion de commission
+      - 2016-01-27 : Réunion de commission
+      - 2016-01-20 : Dépôt de rapport (RAPPANR5L14B3422, PIONANR5L14BTC3422)
+  - Discussion en séance publique
+    - 2016-01-27 : Discussion en séance publique
+    - 2016-01-27 : Décision
+- Nouvelle Lecture
+  - 2016-01-28 : Dépôt d'une initiative en navette (PIONSNR5S259B0345)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-01-28 : Renvoi en commission au fond
+      - 2016-02-10 : Dépôt de rapport (RAPPSNR5S259B0378)
+  - Discussion en séance publique
+    - 2016-02-18 : Discussion en séance publique
+    - 2016-02-18 : Décision
+- Lecture définitive
+  - 2016-02-19 : Dépôt d'une initiative en navette (PIONANR5L14B3521)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-02-19 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2016-03-01 : Discussion en séance publique
+    - 2016-03-01 : Décision
+- Promulgation de la loi
+  - 2016-03-14 : Promulgation d'une loi
