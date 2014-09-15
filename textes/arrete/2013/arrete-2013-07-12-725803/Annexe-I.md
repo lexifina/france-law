@@ -1,34 +1,38 @@
 # Article Annexe I
 
-INFORMATIONS ET PIÈCES JUSTIFICATIVES NÉCESSAIRES À L'ENREGISTREMENT
+INFORMATIONS ET PIÈCES JUSTIFICATIVES NÉCESSAIRES À L'ENREGISTREMENT DU VÉHICULE
 
-DU VÉHICULE ASSUJETTI ET À LA DÉSIGNATION DU REDEVABLE ENREGISTRÉ
+ASSUJETTI ET À LA DÉSIGNATION DU REDEVABLE ENREGISTRÉ ABONNÉ
 
 Définitions
 
-1. Peuvent être présentés comme pièce d'identité :
+1. Peuvent être présentées comme pièce d'identité :
 
-― une carte nationale d'identité ;
+- une carte nationale d'identité ;
 
-― un passeport ;
+- un passeport ;
 
-― un permis de conduire ;
+- un permis de conduire ;
 
-― une carte de résident ou un titre de séjour dans un Etat membre de l'Union européenne ou de l'Espace économique européen ; ou
+- une carte de résident ou un titre de séjour dans un Etat membre de l'Union européenne ou de l'Espace économique européen ; ou
 
-― tout document émanant d'une autorité officielle, comportant la photo de son titulaire et les informations permettant l'identification de son titulaire.
+- tout document émanant d'une autorité officielle, comportant la photo de son titulaire et les informations permettant l'identification de son titulaire.
 
 2. CEMT : l'autorisation CEMT (Conférence européenne des ministres des transports), définie par le Forum international des transports, est délivrée par le pays d'origine du véhicule pour les véhicules de transport de marchandises internationaux.
 
 3. PTAC : poids total autorisé en charge correspondant à la masse en charge maximale admissible en service.
 
-4. PTRA : poids total roulant autorisé correspondant à la masse en charge maximale admissible de l'ensemble en service.
+4. Qualité du redevable enregistré : est considéré comme :
 
-A. ― Enregistrement des redevables abonnés
+- propriétaire : le titulaire du certificat d'immatriculation ou du document équivalent ;
+
+- locataire/sous-locataire : celui qui dispose du véhicule dans le cadre d'un crédit-bail ou d'un contrat de location sans conducteur ;
+
+- utilisateur : celui qui dispose du véhicule à un titre autre que celui de propriétaire, locataire/sous-locataire ou conducteur.
 
 1. Informations relatives au véhicule assujetti
 
-INFORMATIONS À RENSEIGNER
+INFORMATION À RENSEIGNER
 
 |
 
@@ -36,9 +40,7 @@ TYPE D'INFORMATION
 
 |
 
-DOCUMENT À FOURNIR
-
-par le redevable
+DOCUMENT À FOURNIR PAR LE REDEVABLE
 
 |
 
@@ -58,7 +60,7 @@ Obligatoire
 
 |
 
-Certificat d'immatriculation
+Certificat d'immatriculation ou document équivalent
 
 |
 
@@ -66,23 +68,17 @@ PTAC du tracteur
 
 |
 
-Obligatoire
+Obligatoire (1)
 
 |
 
-Certificat d'immatriculation
+Certificat d'immatriculation ou document équivalent, ou
 
-|
+certificat de conformité, ou
 
-PTRA du tracteur
+CEMT, ou
 
-|
-
-Obligatoire
-
-|
-
-Certificat d'immatriculation ou déclaratif (1)
+attestation constructeur
 
 |
 
@@ -90,17 +86,19 @@ Classe d'émission EURO
 
 |
 
-Facultatif (2)
+Obligatoire (2)
 
 |
 
-Certificat d'immatriculation ; ou
+Certificat d'immatriculation ou document équivalent, ou
 
-Certificat de conformité ; ou
+certificat de conformité, ou
 
-CEMT ; ou
+CEMT, ou
 
-Attestation constructeur
+attestation constructeur, ou
+
+pour les véhicules immatriculés dans l'Union européenne, justificatif de la date de première immatriculation
 
 |
 
@@ -108,7 +106,7 @@ Nombre d'essieux du tracteur
 
 |
 
-Facultatif (3)
+Facultative (3)
 
 |
 
@@ -128,7 +126,7 @@ Obligatoire
 
 |
 
-Certificat d'immatriculation
+Certificat d'immatriculation ou document équivalent
 
 |
 
@@ -140,7 +138,7 @@ Obligatoire quand cette information est présente sur le certificat d'immatricul
 
 |
 
-Certificat d'immatriculation
+Certificat d'immatriculation ou document équivalent
 
 |
 
@@ -152,7 +150,7 @@ Certificat d'immatriculation
 
 |
 
-Numéro d'immatriculation provisoire du véhicule tracteur
+Numéro et pays d'immatriculation provisoire du véhicule tracteur
 
 |
 
@@ -192,9 +190,9 @@ Titre d'immatriculation provisoire
 
 |
 
-(1) En l'absence de cette mention sur le certificat d'immatriculation, la valeur PTRA déclarée par le redevable sera retenue, cette valeur ne pouvant être inférieure à celle du PTAC.
+(1) A défaut de justificatif fourni du PTAC, le PTAC le plus défavorable est appliqué. Si le document justificatif du PTAC est fourni ultérieurement, celui-ci est modifié.
 
-(2) A défaut de justificatif, la classe EURO la plus défavorable est appliquée. Si le document justificatif de la classe EURO est fourni ultérieurement, celle-ci est modifiée.
+(2) A défaut de justificatif de la classe EURO ou pour les véhicules immatriculés dans l'Union européenne, de la date de première immatriculation du véhicule, la classe EURO la plus défavorable est appliquée. La date de première immatriculation du véhicule est prise en compte si elle est égale ou postérieure à la date d'entrée du pays d'immatriculation dans l'Union européenne. Si le document justificatif de la classe EURO est fourni ultérieurement, celle-ci est modifiée.
 
 (3) A défaut de justificatif, le nombre d'essieux du tracteur n'est pas enregistré. Un document justificatif peut être fourni ultérieurement. Dans tous les cas, la liquidation est réalisée sur la base du nombre d'essieux paramétré dans l'équipement électronique embarqué par le redevable, lors du franchissement du point de tarification.
 
@@ -204,7 +202,7 @@ Titre d'immatriculation provisoire
 
 2. Informations relatives à la personne procédant à l'enregistrement (déclarant)
 
-INFORMATIONS À RENSEIGNER
+INFORMATION À RENSEIGNER
 
 |
 
@@ -212,9 +210,7 @@ TYPE D'INFORMATION
 
 |
 
-DOCUMENT À FOURNIR
-
-par le redevable
+DOCUMENT À FOURNIR PAR LE REDEVABLE
 
 |
 
@@ -256,7 +252,7 @@ Pas de document à fournir par le redevable
 
 3. Informations relatives au redevable enregistré
 
-INFORMATIONS À RENSEIGNER
+INFORMATION À RENSEIGNER
 
 |
 
@@ -264,9 +260,7 @@ TYPE D'INFORMATION
 
 |
 
-DOCUMENT À FOURNIR
-
-par le redevable
+DOCUMENT À FOURNIR PAR LE REDEVABLE
 
 |
 
@@ -274,7 +268,7 @@ par le redevable
 
 |
 
-3.1.a Cas d'une personne physique
+3.1.a. Cas d'une personne physique
 
 |
 
@@ -302,11 +296,11 @@ Obligatoire
 
 |
 
-Justificatif de domicile
+Pièce d'identité (6), ou justificatif de domicile
 
 |
 
-Qualité du redevable enregistré (6)
+Qualité du redevable enregistré (7)
 
 |
 
@@ -330,7 +324,7 @@ Obligatoire
 
 |
 
-Certificat d'immatriculation, ou document équivalent, ou justificatif de location (7)
+Certificat d'immatriculation ou document équivalent, ou justificatif de location (8)
 
 |
 
@@ -346,7 +340,7 @@ Justificatif de l'utilisation du véhicule
 
 |
 
-3.1.b Cas d'une personne morale
+3.1.b. Cas d'une personne morale
 
 |
 
@@ -362,33 +356,43 @@ Obligatoire
 
 |
 
-Tout document justifiant de cette information
+Tout document contenant cette information
 
 |
 
 Numéro d'identification de la personne morale :
 
-- SIRET ; ou
+- SIRET, ou
 
-- identifiant EORI ; ou
+- identifiant EORI, ou
 
-- numéro de TVA intracommunautaire ; ou
+- numéro de TVA intracommunautaire, ou
 
-- absence de numéro d'identification (8)
+absence de numéro d'identification (9)
 
 |
 
 Obligatoire pour les redevables implantés dans l'Union européenne
 
-Facultatif pour les redevables implantés hors de l'Union européenne
+|
+
+Tout document administratif comportant le numéro SIRET, ou
+
+tout document administratif ou commercial comportant le numéro EORI ou
+
+TVA intracommunautaire, ou
+
+tout document faisant état de la demande d'immatriculation, ou
+
+déclaration sur l'honneur du redevable de l'absence de numéro (10)
 
 |
 
-Tout document administratif portant ce numéro, ou faisant état de la demande d'immatriculation, ou déclaration sur l'honneur du redevable de l'absence de numéro (9)
+Facultative pour les redevables implantés hors de l'Union européenne
 
 |
 
-Qualité du redevable enregistré (10)
+Qualité du redevable enregistré (11)
 
 |
 
@@ -412,7 +416,7 @@ Obligatoire
 
 |
 
-Certificat d'immatriculation, ou document équivalent, ou justificatif de location (11)
+Certificat d'immatriculation ou document équivalent, ou justificatif de location (12)
 
 |
 
@@ -440,25 +444,23 @@ Obligatoire
 
 |
 
-K bis (12) ; ou ;
-
-Tout autre document justifiant de la qualité de représentant légal (13)
+Déclaratif
 
 |
 
-3.2. Lorsque le locataire ou sous-locataire est le redevable enregistré
+3.2. Lorsque le locataire ou sous locataire est le redevable enregistré
 
 |
 
-Raison sociale et adresse postale de la société de location (14)
+Raison sociale et adresse postale de la société de location
 
 |
 
-Obligatoire
+Obligatoire (13)
 
 |
 
-Certificat d'immatriculation ou justificatif de location
+Certificat d'immatriculation ou document équivalent, ou justificatif de location
 
 |
 
@@ -496,23 +498,21 @@ Déclaratif
 
 (5) Cf. définition n° 1 ci-dessus.
 
-(6) Une seule qualité est reprise lors de l'enregistrement.
+(6) Cf. définition n° 1 ci-dessus.
 
-(7) Lorsque le locataire ou sous-locataire ne figure pas sur le certificat d'immatriculation, le justificatif de location doit être fourni.
+(7) Une seule qualité est reprise lors de l'enregistrement.
 
-(8) Pour les personnes morales ne disposant pas de numéro d'identification.
+(8) Lorsque le locataire ou sous locataire ne figure pas sur le certificat d'immatriculation, le justificatif de location doit être fourni.
 
-(9) Toute déclaration établie dans une autre langue que la langue française doit être traduite. Seule la version française fait foi.
+(9) Pour les personnes morales ne disposant pas de numéro d'identification.
 
-(10) Une seule qualité est reprise lors de l'enregistrement.
+(10) Toute déclaration établie dans une autre langue que la langue française doit être traduite. Seule la version française fait foi.
 
-(11) Lorsque le locataire ou sous-locataire ne figure pas sur le certificat d'immatriculation, le justificatif de location doit être fourni.
+(11) Une seule qualité est reprise lors de l'enregistrement.
 
-(12) Datant de moins de trois mois lors de sa présentation.
+(12) Lorsque le locataire ou sous-locataire ne figure pas sur le certificat d'immatriculation, le justificatif de location doit être fourni.
 
-(13) Datant de moins de trois mois lors de sa présentation.
-
-(14) Dans le cadre du crédit-bail, ces informations ne sont pas requises.
+(13) Dans le cadre du crédit bail, ces informations ne sont pas requises.
 
 |
 

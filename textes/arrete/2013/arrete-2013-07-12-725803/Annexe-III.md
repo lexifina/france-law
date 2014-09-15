@@ -67,3 +67,5 @@ Nom et adresse du mandataire
 Date et signature
 
 |
+
+Nota. - L'immatriculation du ou des véhicules concernés doit être précisée dans le mandat ou sur une liste annexée à celui-ci. Dans ce cas, celle-ci doit être mentionnée dans le mandat et être référencée ou au moins datée.
