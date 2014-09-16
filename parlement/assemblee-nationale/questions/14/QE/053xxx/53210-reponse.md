@@ -1,0 +1,9 @@
+# Réponse à la question n° 53210
+
+- Question : [53210](53210.md) — Question n° 53210 — perspectives
+
+## Réponse
+
+*JO du 2014-09-16*
+
+En accord avec le Président de la République, le Premier ministre a souhaité engager une remise à plat de la fiscalité afin de la rendre plus lisible et plus équitable. Dans une démarche de concertation avec les élus locaux et afin de prendre en considération tous les enjeux que l'auteur de la question évoque, le Premier ministre a saisi le président du comité des finances locales le 15 janvier 2014 pour analyser les pistes à privilégier et remettre des propositions de modernisation de la fiscalité locale touchant à l'architecture des impositions locales et au système des exonérations et dégrèvements. Le comité des finances locales a rendu ses propositions à l'issue d'une séance plénière qui s'est tenue le 16 juillet 2014. Ces propositions, qui concernent l'ensemble des catégories de collectivités, font actuellement l'objet d'un examen attentif par le Gouvernement. Par ailleurs, ainsi que le précise le courrier du Premier ministre précité, toute évolution de la fiscalité locale devra s'articuler avec la baisse des concours financiers de l'État aux collectivités territoriales. Cette baisse s'élève à hauteur de 11 Mds€ entre 2015 et 2017, conformément au programme de stabilité voté par le Parlement. En effet, l'objectif fixé par le Président de la République d'une baisse des 50 Mds€ des dépenses publiques d'ici 2017 ne saurait être atteint sans une telle contribution des collectivités territoriales, qui correspond à leur part dans les équilibres des finances publiques. En effet, le redressement des finances publiques portant sur l'ensemble des administrations publiques, tous les sous-secteurs doivent désormais y être associés. Dès lors, il n'est pas envisagé de prévoir des compensations fiscales supplémentaires par rapport à celles qui sont déjà versées aux collectivités locales.
