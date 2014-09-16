@@ -1,0 +1,9 @@
+# Réponse à la question n° 57726
+
+- Question : [57726](57726.md) — Question n° 57726 — temps partiel; durée minimale hebdomadaire; réglementation
+
+## Réponse
+
+*JO du 2014-09-16*
+
+Souhaitée unanimement par les signataires de l'accord national interprofessionnel (ANI) du 11 janvier 2013 que le Gouvernement a transposé dans la loi, l'instauration d'une durée minimale de 24 heures de travail hebdomadaire pour les salariés à temps partiel par la loi n° 2013-504 du 14 juin 2013 relative à la sécurisation de l'emploi répond à un objectif de justice sociale et de protection des salariés. Néanmoins, des points d'équilibre doivent être trouvés ; c'est pourquoi la loi ouvre deux voies de dérogation possibles. Une dérogation individuelle, à la demande du salarié qui souhaite travailler moins de 24 heures avec des contreparties en terme de régularité, et des dérogations collectives, si un accord de branche le prévoit, permettant par exemple d'abaisser le seuil minimal en contrepartie là aussi de garanties accrues pour les salariés. Ces négociations sont actuellement en cours dans plusieurs branches. Elles peuvent avoir lieu dans toutes les branches, y compris celles où moins d'un tiers de l'effectif occupe un emploi à temps partiel. Elles doivent se poursuivre, pour que les spécificités de certains secteurs soient prises en compte. En parallèle, le Gouvernement a proposé dans le cadre du projet de loi relatif à la simplification de la vie des entreprises une disposition habilitant le Gouvernement à organiser la procédure de « dédit » du salarié lorsque celui-ci, bénéficiant d'une dérogation individuelle lui permettant de travailler moins de 24 heures, souhaite basculer dans le régime à 24 heures. Le Gouvernement souhaite sécuriser les employeurs et les salariés en prévoyant que, dans ce cas, le salarié bénéficie d'une priorité (sans automaticité) d'accès à un emploi de 24 heures.
