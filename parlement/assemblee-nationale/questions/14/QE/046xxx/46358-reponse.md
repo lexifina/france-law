@@ -1,0 +1,9 @@
+# Réponse à la question n° 46358
+
+- Question : [46358](46358.md) — Question n° 46358 — attitude des forces de l'ordre
+
+## Réponse
+
+*JO du 2014-09-16*
+
+Le droit de manifester sur la voie publique constitue une liberté fondamentale garantie par l'article 10 de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre 1950 et constitutionnellement protégée depuis la décision du Conseil constitutionnel du 18 janvier 1995 (CC, 18 janvier 1995, n° 94-352 DC). Les manifestations revendicatives ne sont pas soumises à autorisation mais à simple déclaration auprès des services de la préfecture de police, conformément aux dispositions des articles L.211-1 à L.211-4 du Code de la sécurité intérieure. Ces dispositions prévoient que la déclaration doit être réalisée entre 3 jours francs au moins et15 jours francs au plus avant la date de la manifestation. Elle doit faire connaître les noms, prénoms et domiciles des organisateurs et être signée par au moins trois d'entre eux. La déclaration doit également mentionner le but, le lieu, l'heure du rassemblement ainsi que l'itinéraire du cortège. Cette déclaration doit être adressée aux services de la préfecture de police, qui délivrent un récépissé. Cette procédure n'a pas été suivie par le collectif des « mères veilleuses ». En effet, la déclaration n'a pas été transmise aux services compétents dans les délais impartis, ne comportait pas d'itinéraire et n'a pas été signée par au moins trois organisateurs. Aussi, le 9 décembre dernier lorsque les manifestantes, après s'être rassemblées sur le Champ de Mars, ont souhaité se diriger en cortège vers le Ministère des affaires sociales et de la santé sis 55 rue Saint Dominique à Paris, les forces de l'ordre les ont bloquées à l'angle de la rue Saint Dominique et de la rue de la Comète pour limiter tout risque de trouble à l'ordre public.
