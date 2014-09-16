@@ -1,0 +1,9 @@
+# Réponse à la question n° 49361
+
+- Question : [49361](49361.md) — Question n° 49361 — rapport parlementaire; préconisations
+
+## Réponse
+
+*JO du 2014-09-16*
+
+Gagner en qualité des formations est un impératif pour tous les acteurs de la formation, qu'ils soient prestataires, financeurs ou utilisateurs. De nombreux organismes sont engagés dans des démarches qualité qui recouvrent différents formes : deux normes ISO existent dans le champ de la formation professionnelle, l'une orientée sur l'offre et l'autre sur la réalisation du service. Par ailleurs, il existe le label OPQF (office professionnel de qualification des organismes de formation), créé en 1994 par le ministère du travail, qui atteste du professionnalisme des organismes de formation. Les fédérations peuvent également mettre en place des labels spécifiques. La loi n° 2014-288 du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale en son chapitre relatif à la qualité de la formation professionnelle continue, va permettre, grâce à la réglementation qui définira les critères applicables aux actions de formation proposées par les prestataires, de se rapprocher de l'objectif de meilleure adéquation de l'offre aux besoins individuels et aux parcours de formation. Par ailleurs, si la commission nationale de la certification professionnelle (CNCP) n'a pas compétence pour apprécier la qualité de l'offre de formation, elle se voit confier par l'article 34 de la loi du 5 mars 2014 qui a modifié les dispositions de l'article L335-6 du code de l'éducation, la mission d'édicter un cahier des charges auquel devront se conformer les organismes qui demandent un enregistrement au répertoire national des certifications professionnelles. Ce cahier des charges couvrira notamment la transparence de l'information donnée aux usagers, la qualité du processus de certification et l'engagement de tous les organismes en réseaux de respecter ces prescriptions.
