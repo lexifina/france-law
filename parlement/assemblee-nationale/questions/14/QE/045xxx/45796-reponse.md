@@ -1,0 +1,9 @@
+# Réponse à la question n° 45796
+
+- Question : [45796](45796.md) — Question n° 45796 — prise en charge; plagiocéphalie
+
+## Réponse
+
+*JO du 2014-09-16*
+
+La plagiocéphalie positionnelle (ou plagiocéphalie posturale) est la plus fréquente des plagiocéphalies. Il s'agit d'une déformation du crâne du nouveau-né qui découle de forces qui déforment la boîte crânienne lorsqu'un bébé est en décubitus dorsal. Le risque de plagiocéphalie peut être réduit si la tête du bébé est orientée d'un côté ou de l'autre, tous les jours, en alternance, et si on accroît les périodes en décubitus ventral pendant l'éveil. Ainsi, un conseil de puériculture simple comme « dormir sur le dos, jouer sur le ventre », pourrait permettre de prévenir cette déformation. Le ministère de la santé, en charge de l'élaboration du carnet de santé, prévoit d'inclure une telle recommandation dans la future version de cet outil essentiel pour le suivi de la santé de l'enfant. Elle peut être beaucoup plus grave dans le cas de la « plagiocéphalie synostotique », déformation organique en rapport avec une suture prématurée de certains os du crâne, qui est une maladie rare. Dans ce dernier cas, elle peut être diagnostiquée et prise en charge dans l'un des 56 centres de référence ou de compétences concernant les maladies rares malformatives ou osseuses, labellisés dans le cadre du plan maladies rares et référencés dans le site Orpha. net, en accès libre. Il convient de rappeler que les préconisations concernant le couchage des bébés sur le dos, ainsi que l'utilisation d'une literie adaptée, ont permis de faire baisser le nombre de décès par mort subite du nourrisson (MSN), comme en témoignent les dernières données épidémiologiques disponibles du CépiDc (centre d'épidémiologie sur les causes médicales de décès de l'INSERM - 233 décès en 2010).
