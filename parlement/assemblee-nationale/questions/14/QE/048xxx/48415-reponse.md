@@ -1,0 +1,9 @@
+# Réponse à la question n° 48415
+
+- Question : [48415](48415.md) — Question n° 48415 — jeunes; accueil; financement
+
+## Réponse
+
+*JO du 2014-09-16*
+
+La confédération Jeunesse au Plein Air (JPA) est une association qui permet à des enfants d'accéder à des vacances et des loisirs éducatifs. Son action en complémentarité de l'école est reconnue par l'agrément de l'éducation nationale et par une convention pluriannuelle d'objectifs (CPO) qui a été renouvelée pour la période 2014-2016. Ce renouvellement intervenu en avril 2014 témoigne de la reconnaissance de l'engagement de la JPA en faveur de la réduction des inégalités et des valeurs de solidarité, de laïcité et d'éducation à la citoyenneté portées par la confédération, valeurs auxquelles le ministère chargé de l'éducation nationale est fortement attaché. Cependant la situation actuelle de contrainte budgétaire a conduit le ministère à réévaluer son soutien afin de trouver le juste équilibre entre les besoins exprimés par l'association et les moyens disponibles pour faire fonctionner au mieux l'école de la République en termes de crédits d'intervention. Dans ce contexte, les crédits dévolus aux associations ont été concentrés sur les projets associatifs les plus directement en lien avec l'école. Les actions éducatives de la JPA étant largement centrées sur les temps de loisir et les activités extra-scolaires, le soutien du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche a été réévalué. Compte tenu des difficultés que ce recentrage de moyens peut induire sur l'activité de cette association dont le financement de l'État constitue une part importante de l'ensemble des ressources, la baisse de la subvention a été contenue. Le montant de la subvention accordée s'élèvera donc pour la période 2014-2016 à 2 970 000 euros, ce qui fait toujours de l'éducation nationale le premier soutien du mouvement Jeunesse au Plein Air.
