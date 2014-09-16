@@ -1,0 +1,9 @@
+# Réponse à la question n° 52550
+
+- Question : [52550](52550.md) — Question n° 52550 — budgets; subventions publiques; réduction
+
+## Réponse
+
+*JO du 2014-09-16*
+
+Le projet de loi portant nouvelle organisation territoriale de la République, déposé au Sénat le 18 juin 2014, ne comporte aucune mesure impactant l'organisation ou le fonctionnement des chambres de commerce et d'industrie. Conformément à leurs souhaits, les chambres de commerce et d'industrie restent associées à l'élaboration des schémas régionaux. Ainsi, l'article 2 du projet de loi prévoit de modifier l'article L. 511-1 du code général des collectivités territoriales en précisant que le schéma régional de développement économique, d'innovation et d'internationalisation « fait l'objet d'une concertation au sein de la conférence territoriale de l'action publique... et avec les organismes consulaires ». L'article 6 relatif au schéma régional d'aménagement et de développement durable du territoire précise que les chambres de commerce et d'industrie, ainsi que les chambres d'agriculture et les chambres de métiers et de l'artisanat, sont associées à l'élaboration du projet de schéma. Dans un souci de cohérence de l'action publique, il est prévu de préciser, à l'article L. 711-8 du code de commerce, qui définit les compétences des chambres de commerce et d'industrie de région, que leur stratégie régionale devra être compatible avec le schéma régional prévu à l'article L. 511-1 du code général des collectivités territoriales. Cette disposition se borne en fait à compléter la disposition relative à la cohérence nécessaire entre le schéma régional de développement économique et les schémas sectoriels élaborés par chaque chambre de commerce et d'industrie, en application des dispositions prévues à l'article D. 711-41 du code de commerce.
