@@ -1,0 +1,9 @@
+# Réponse à la question n° 59170
+
+- Question : [59170](59170.md) — Question n° 59170 — plan d'austérité; conséquences
+
+## Réponse
+
+*JO du 2014-09-16*
+
+Le gouvernement a pleinement conscience du fait que le pouvoir d'achat est une priorité pour nos concitoyens. Soutenir durablement le pouvoir d'achat ne peut se faire sans amélioration du marché du travail. Tout d'abord, le gouvernement a donc pris de nombreuses mesures en faveur de l'emploi. En plus des mesures d'accompagnement spécifiques mises en place dès 2012 (emplois d'avenir, contrats de génération), la montée en charge du CICE et la mise en oeuvre du Pacte de responsabilité et de solidarité vont permettre de créer de nombreux emplois au cours des prochaines années. En effet, une étude récente du Fonds monétaire international a conclu à des effets potentiellement très importants sur l'emploi, de l'ordre de 600 000 à terme, du CICE et des mesures de baisse du coût du travail présentes dans le Pacte de responsabilité. De plus, en réduisant les impôts des ménages modestes dès 2014, le Pacte de responsabilité et de solidarité va rapidement accroître le pouvoir d'achat des ménages. Le Gouvernement a pris acte de la censure du dispositif initialement prévu d'allégement de cotisations salariales visant à accroitre le salaire net des salariés autour du SMIC. En conséquence, des mesures alternatives de même ampleur seront proposées dans le cadre des lois financières pour 2015 qui seront examinées à l'automne. Enfin, il est important de replacer les mesures d'économies en dépenses dans l'ensemble visant à faire regagner la France en compétitivité et à assurer le maintien de sa crédibilité. Il est ainsi utile de noter que, grâce aux effets positifs du CICE et du Pacte de responsabilité, la réduction du déficit structurel de la France permise par la réduction des dépenses sera assurée de pair avec un bilan positif sur l'emploi.
