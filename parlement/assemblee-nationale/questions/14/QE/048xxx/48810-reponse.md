@@ -1,0 +1,9 @@
+# Réponse à la question n° 48810
+
+- Question : [48810](48810.md) — Question n° 48810 — modalités
+
+## Réponse
+
+*JO du 2014-09-16*
+
+Le droit de manifester sur la voie publique constitue une liberté fondamentale garantie par l'article 10 de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre 1950 et constitutionnellement protégée depuis la décision du Conseil constitutionnel du 18 janvier 1995 (CC, 18 janvier 1995, n° 94-352 DC). Le 26 janvier 2014, une manifestation itinérante entre la place de la Bastille et la place Vauban était organisée par le collectif « Jour de colère » de 14 h à 18 h. Après quelques incidents durant le cortège, plusieurs dizaines d'individus, visages dissimulés, ont pris à partie les forces de l'ordre à l'ouest de la place Vauban tandis que d'autres tentaient de forcer un barrage policier à l'angle de la place Vauban et de l'Avenue de Villars. A cette occasion, les policiers ont été la cible de jets de projectiles divers tels que des bouteilles en verre, des barrières ou des blocs de béton. Face à ces violences, les policiers ont été contraints de faire usage de moyens lacrymogènes, et ce de manière proportionnée. La provocation à l'égard des policiers s'intensifiant, un encerclement de ces individus à hauteur de l'avenue de Tourville a été réalisé et a conduit à l'interpellation de 246 personnes. Compte tenu de la provocation à laquelle les policiers ont eu à faire face et d'actions particulièrement violentes à leur endroit, la réaction des forces de l'ordre a été proportionnée et mesurée, avec le seul souci de faire respecter le droit. Le Ministère de l'Intérieur souhaite préciser par ailleurs, à l'occasion de cette question écrite, que 19 blessés ont été recensés parmi les forces de l'ordre suite aux violences dont les policiers ont été la cible.
