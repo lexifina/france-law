@@ -1,0 +1,9 @@
+# Réponse à la question n° 27484
+
+- Question : [27484](27484.md) — Question n° 27484 — budget; réglementation
+
+## Réponse
+
+*JO du 2014-09-16*
+
+Les comités d'entreprise gèrent deux budgets. D'une part, un budget de fonctionnement, dont le montant minimum obligatoire a été fixé à 0,2 % de la masse salariale brute annuelle de l'entreprise, et, d'autre part, un budget pour ses activités sociales et culturelles, dont le montant est fixé en fonction des activités sociales et culturelles assurées par l'employeur avant la mise en place du comité d'entreprise. Le budget de fonctionnement a pour objet d'assurer le fonctionnement du comité d'entreprise mais aussi la formation des élus et le suivi du fonctionnement de l'entreprise. Le comité décide librement de l'utilisation des fonds reçus au titre de sa subvention de 0,2 %. Cette libre affectation des ressources doit toutefois respecter deux principes. D'une part, la subvention ne peut être utilisée que dans le cadre de la mission légale du comité d'entreprise et pour ses propres besoins. À titre d'exemple, ce budget peut être utilisé pour payer les tâches administratives effectuées par l'instance, pour financer des activités d'expertise et des missions économiques, mais ne peut être utilisée pour des cadeaux en nature aux salariés de l'entreprise ou pour payer les frais de formation des enfants des salariés. D'autre part, la subvention de fonctionnement ne peut pas être utilisée même partiellement, pour les activités sociales et culturelles du comité. Elle est en effet destinée à assurer le fonctionnement du comité dans ses attributions économiques et professionnelles. La séparation de ces budgets est d'ordre public. La loi du 5 mai 2014 relative à la formation professionnelle et à la démocratie sociale qui a renforcé la transparence des comptes des comités d'entreprise, n'est pas revenue sur ces principes que les syndicats ne souhaitent pas davantage voir remettre en cause.
