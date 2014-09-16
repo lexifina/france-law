@@ -1,0 +1,9 @@
+# Réponse à la question n° 57890
+
+- Question : [57890](57890.md) — Question n° 57890 — Cour des comptes; rapport; préconisations
+
+## Réponse
+
+*JO du 2014-09-16*
+
+La législation rend l'exploitant intégralement responsable de la bonne évaluation de ses charges de démantèlement, de l'inscription d'une provision financière dans ses comptes, et de la couverture de cette provision par des actifs dédiés. L'exploitant doit respecter un certain nombre d'obligations (champ des coûts pris en compte, évaluation prudente, contrainte sur les hypothèses d'actualisation, contrainte d'éligibilité des actifs de couverture en vue d'assurer une diversification et une sécurité financière des actifs, etc.). L'article 20 de la loi du 28 juin 2006 crée une « autorité administrative » chargée de contrôler le respect par les exploitants de leurs obligations financières, qui dispose de pouvoirs coercitifs, et envers qui les exploitants ont des obligations de communication : rapport triennal, note d'actualisation annuelle, inventaire trimestriel des actifs de couverture, etc. Cette autorité administrative représentée par les ministres en charge de l'économie et de l'énergie peut en particulier prescrire des audits. C'est dans ce cadre que les ministres ont commandé un audit sur les provisions de démantèlement du parc en exploitation d'EDF. Ces provisions sont calculées à partir de la méthode historique des « coûts de référence » qui repose sur une étude réalisée en 1979 par la commission pour la production d'électricité d'origine nucléaire (PEON). EDF valide ensuite le montant de ces provisions en le comparant aux résultats de l'étude Dampierre 2009, menée par EDF. Cet audit a été lancé début juillet et sa date d'achèvement est prévu pour mai 2015. Il a notamment pour but d'effectuer préalablement une analyse critique et technique de l'étude Dampierre nécessaire avant de pouvoir envisager une provision directement calculée à partir de cette méthode.
