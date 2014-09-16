@@ -1,0 +1,9 @@
+# Réponse à la question n° 58415
+
+- Question : [58415](58415.md) — Question n° 58415 — seuils d'autorisation; politiques communautaires
+
+## Réponse
+
+*JO du 2014-09-16*
+
+Le Gouvernement a décidé l'été 2013, dans le cadre du choc de simplification voulu par le Président de la République, de simplifier les procédures applicables aux élevages relevant des installations classées pour la protection de l'environnement (ICPE) tout en garantissant le maintien du même niveau de protection de l'environnement qu'auparavant. Pour les élevages de porcs, le régime d'autorisation simplifiée, dit de l'« enregistrement », a ainsi été introduit depuis le 1er janvier dernier pour les projets précédemment soumis au régime de l'autorisation. Le régime d'autorisation ne reste requis que pour les plus grands projets, qui relèvent de la réglementation européenne (directive dite IED). Cela concerne notamment les élevages de plus de 2 000 emplacements de porcs ou de plus de 750 emplacements de truies. Le préfet peut en effet décider que la demande d'enregistrement soit instruite selon les règles de procédure d'autorisation. Ce basculement peut être exigé : - si, au regard de la localisation du projet, et en prenant en compte les critères définis par la directive européenne concernant l'évaluation des incidences sur l'environnement, la sensibilité environnementale du milieu le justifie ; - ou si l'exploitant sollicite un aménagement significatif des prescriptions générales applicables à l'installation. A la demande de la profession agricole et des associations concernées, une large concertation a été engagée au début de l'année, avec pour objectif de préciser les conditions de ce basculement. Cette concertation a permis de dégager quelques grands principes utiles. Il ne paraît désormais plus approprié de complexifier le dispositif et le Gouvernement n'envisage pas de publier une circulaire supplémentaire.
