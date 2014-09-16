@@ -1,0 +1,9 @@
+# Réponse à la question n° 45971
+
+- Question : [45971](45971.md) — Question n° 45971 — cadres dirigeants; plafonnement
+
+## Réponse
+
+*JO du 2014-09-16*
+
+L'encadrement des rémunérations des dirigeants et preneurs de risque des banques a été significativement renforcé depuis le début de la crise financière. Les principes adoptés à l'initiative de la France au G20 de Pittsburgh ont posé un premier jalon essentiel d'encadrement des rémunérations, avec une exigence accrue de gouvernance, de transparence, de supervision et de prise en compte des risques ; à l'initiative de la France encore, cet encadrement a été renforcé dans l'Union européenne dans le cadre de la directive CRD4, avec une règle de plafonnement des bonus (transposée dès la loi du 26 juillet 2013 de séparation et de régulation des activités bancaires). En particulier, les statistiques publiées par l'Autorité bancaire européenne évolueront sensiblement à compter des rémunérations sur l'exercice 2014, la règle de plafonnement des bonus s'appliquant à partir des exercices ouverts depuis le 1er janvier 2014 (même si certains personnels pourront, malgré un niveau élevé de rémunération, être exemptés de cette disposition si la banque concernée parvient à convaincre le superviseur que ces personnels n'ont pas d'influence sur le profil de risque de la banque). La règle de plafonnement prévoit que les rémunérations variables des dirigeants et preneurs de risque ne pourront excéder le montant de la part fixe. Par exception, sur décision de l'assemblée générale prise à une majorité renforcée, cette part variable pourra être portée au double du montant de la part fixe. Enfin, les dirigeants de banques aidées par l'Etat ne peuvent, depuis l'adoption par le Parlement de la garantie en faveur de la banque Dexia, recevoir de rémunération variable. Cette disposition est plus ambitieuse que la directive CRD4.
