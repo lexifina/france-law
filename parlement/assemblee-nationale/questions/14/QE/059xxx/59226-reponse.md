@@ -1,0 +1,9 @@
+# Réponse à la question n° 59226
+
+- Question : [59226](59226.md) — Question n° 59226 — tickets-restaurant; frais de gestion
+
+## Réponse
+
+*JO du 2014-09-16*
+
+Les frais de traitement des titres-restaurant sont fixés par chacun des émetteurs. Ils doivent l'être de façon indépendante pour chaque émetteur, sous peine d'infraction aux règles de concurrence, qui prohibent notamment les ententes sur les prix. En outre, la dématérialisation des titres-restaurant, rendu possible par décret du 6 mars 2014, devrait contribuer à réduire le coût du dispositif pour ses utilisateurs. Ne supportant plus la contrainte et les délais de l'actuelle procédure de remboursement des titres papier (qui requiert l'envoi postal des liasses de titres à la Centrale de règlement des titres, et induit un coût de trésorerie) les restaurateurs et affiliés pourront tirer avantage de l'élargissement de l'offre à de nouveaux entrants, qui exerceront une pression concurrentielle sur le marché de l'émission. L'Union des métiers et des industries de l'hôtellerie (UMIH) vient d'ailleurs de publier un communiqué de presse le 27 juin dernier rappelant les nombreux avantages offerts aux restaurateurs par la dématérialisation et constatant d'ores et déjà une baisse des commissions avec les titres dématérialisés par rapport à la plupart des tarifs pratiqués pour les titres papier. Ce processus de dématérialisation des titres-restaurant fait l'objet d'un suivi interministériel ad hoc, associant toutes les parties prenantes sous l'égide de l'administration. Dans ce contexte, les pouvoirs publics demeurent attentifs au bon fonctionnement de ce marché de titres spéciaux de paiement, en particulier au respect par les acteurs des règles de concurrence. Il va de soi que des mesures appropriées ne manqueraient pas d'être prises dans l'hypothèse où des manquements seraient constatés.
