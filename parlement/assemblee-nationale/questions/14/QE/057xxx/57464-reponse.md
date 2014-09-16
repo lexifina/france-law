@@ -1,0 +1,9 @@
+# Réponse à la question n° 57464
+
+- Question : [57464](57464.md) — Question n° 57464 — ultramarins; réglementation
+
+## Réponse
+
+*JO du 2014-09-16*
+
+Les fonctionnaires territoriaux bénéficient des congés bonifiés en vertu de l'article 57 (1° ) de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et dont les dispositions d'application sont définies par le décret n° 78-399 du 20 mars 1978 relatif, pour les départements d'outre-mer, à la prise en charge des frais de voyage de congés bonifiés accordés aux magistrats et fonctionnaires civils de l'Etat (rendu applicable à la fonction publique territoriale par le décret n° 88-168 du 15 février 1988). Aux termes de l'article 1er de ce décret, l'attribution des congés bonifiés est notamment conditionnée par l'exercice des fonctions sur « le territoire européen de la France si [le] lieu de résidence habituelle est situé dans un département d'outre-mer ». L'article 3 précise que le « lieu de résidence habituelle est le territoire européen de la France ou le département d'outre-mer où se trouve le centre des intérêts moraux et matériels de l'intéressé ». La notion de « centre des intérêts moraux et matériels » est explicitée tant par la circulaire n° 002129 du ministre chargé de la fonction publique datée du 3 janvier 2007 que par le Conseil d'Etat, notamment son avis du 7 avril 1981. Les critères de détermination des centres des intérêts moraux et matériels ainsi précisés n'ont cependant pas de caractère exhaustif ni nécessairement cumulatif et plusieurs d'entre eux, qui ne seraient pas à eux seuls déterminants, peuvent se combiner. L'autorité territoriale apprécie ainsi le droit à congé sur la base d'un faisceau d'indices et accorde tout ou partie de la bonification en fonction des nécessités de service.
