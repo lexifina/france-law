@@ -1,0 +1,9 @@
+# Réponse à la question n° 50450
+
+- Question : [50450](50450.md) — Question n° 50450 — Seconde Guerre mondiale; reconnaissance
+
+## Réponse
+
+*JO du 2014-09-16*
+
+En cette année de commémoration du 70e anniversaire des débarquements et de la Libération, le Président de la République a effectivement souhaité qu'un hommage particulier soit rendu aux anciens combattants et aux résistants ayant participé au Second conflit mondial et qui ont permis, par leur engagement envers la Nation, la libération du territoire national. Aussi, depuis octobre 2013, cinq promotions spéciales dans l'ordre national de la Légion d'honneur sont déjà venues récompenser des vétérans français et étrangers qui ont débarqué en Normandie ou en Provence ainsi que des anciens combattants qui ont participé à la libération de la Corse, de Paris ou encore aux campagnes d'Italie, de France, d'Alsace et d'Allemagne. Ces promotions ont par ailleurs permis de mettre à l'honneur des résistants et des dissidents qui, par leurs activités et leurs combats au sein de maquis, ont pleinement participé à la victoire de la France sur le régime nazi. Aujourd'hui, d'autres promotions particulières sont en cours de préparation. Permettant de nommer 1500 candidats au grade de chevalier de la Légion d'honneur, elles seront publiées d'ici mai 2015 et viendront plus spécifiquement récompenser des personnes, qui du fait de leurs activités particulièrement méritoires dans la Résistance sont, par ailleurs, médaillées de la Résistance ou détiennent la carte de combattant volontaire de la Résistance, sans jamais avoir été reçues dans l'ordre de la Légion d'honneur. Ces nominations viendront ainsi s'ajouter aux nominations annuelles qui interviennent déjà au titre d'un des contingents attribués au ministre de la défense et qui concernent les résistants particulièrement valeureux.
