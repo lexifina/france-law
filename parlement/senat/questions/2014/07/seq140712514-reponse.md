@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140712514
+
+- Question : [SEQ140712514](seq140712514.md) — Rôle du parlement français dans la ratification du traité transatlantique
+
+## Réponse
+
+*Affaires étrangères, JO du 2014-09-18, page 2110*
+
+Conformément aux stipulations du traité sur le fonctionnement de l'Union européenne (UE), et notamment son article 207, les négociations du partenariat commercial transatlantique ont fait l'objet d'une double décision autorisant leur ouverture, prise d'une part par le Conseil de l'UE, et d'autre part par les représentants des gouvernements des États membres réunis au sein du Conseil. Ainsi, la Commission a été autorisée à négocier, au nom de l'Union, les dispositions d'un partenariat transatlantique de commerce et d'investissement qui relèvent de la compétence de l'Union, en même temps qu'elle a été autorisée par les États membres à négocier, en leur nom, les dispositions de l'accord final qui relèveront de la compétence des États membres, sans préjudice des futures décisions des États membres dans ces domaines. Pour ces deux domaines, la Commission négocie conformément au mandat que les États membres lui ont donné. Le partenariat commercial transatlantique contiendra majoritairement des dispositions relevant de la compétence exclusive de l'Union européenne (dispositions de nature commerciale, notamment), mais également des dispositions qui relèvent de la compétence des États membres, qui auront été négociées en leur nom. L'accord final sera bien un accord mixte, comme le sont la quasi-totalité des accords de libre-échange conclus par l'Union européenne. Dès lors, conformément aux traités européens et à la Constitution, à l'issue de la négociation, le texte final devra être ratifié par les parlements nationaux des États membres et obtenir l'approbation du Parlement européen.
