@@ -536,7 +536,11 @@ Lyon-Brindas |
 
 Rhône |
 
-Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins. |
+L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.
+
+L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome.
+
+|
 
 Lyon-Corbas |
 
@@ -748,7 +752,9 @@ Saint-Galmier |
 
 Loire |
 
-Réservé aux avions et aux planeurs à dispositif d'envol incorporé dont les pilotes ont été reconnus aptes à utiliser l'aérodrome par un instructeur ou par le directeur de la sécurité de l'aviation civile Cente-Est. Il est utilisable par les autres aéronefs dans les conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
+L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.
+
+L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
 Saint-Georges-de-l'Oyapock |
 
@@ -760,29 +766,17 @@ Saint-Jean-d'Avelanne |
 
 Isère |
 
-Réservé aux avions et aux planeurs à dispositif d'envol incorporé dont les pilotes répondent à l'une des conditions suivantes :
+L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur ou détenant la qualification montagne.
 
-- disposer d'une qualification de vol en montagne ; |
-
-|
-
-|
-
-- avoir été reconnus aptes à utiliser l'aérodrome par un instructeur ou par le directeur de la sécurité de l'aviation civile Centre-Est.
-
-Utilisable par les autres aéronefs dans les conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
+L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
 Saint-Jean-en-Royans |
 
 Drôme |
 
-Réservé aux avions et aux planeurs à dispositif d'envol incorporé dont les pilotes ont été reconnus aptes à utiliser l'aérodrome par un instructeur ou par le directeur de la sécurité de l'aviation civile Centre-Est. |
+L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur ou détenant la qualification montagne.
 
-|
-
-|
-
-Utilisable par les autres aéronefs dans les conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
+L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
 Saint-Martin-de-Londres |
 
@@ -806,17 +800,9 @@ Sallanches - Mont-Blanc |
 
 Haute-Savoie |
 
-Réservé aux avions et aux planeurs à dispositif d'envol incorporé dont les pilotes répondent à l'une des conditions suivantes :
+L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur, ou détenant la qualification montagne.
 
-- disposer d'une qualification de vol en montagne ; |
-
-|
-
-|
-
-- avoir été reconnus aptes à utiliser l'aérodrome par un instructeur ou par le directeur de la sécurité de l'aviation civile Centre-Est.
-
-Utilisable par les autres aéronefs dans les conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
+L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
 Sarre-Union |
 
