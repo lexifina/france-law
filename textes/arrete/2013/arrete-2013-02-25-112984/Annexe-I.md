@@ -64,6 +64,32 @@ Sont éligibles tous les navires actifs de la façade méditerranéenne.
 
 |
 
+Points 1 et suivants de la recommandation n° CGPM/2009/5 de la Commission générale des pêches pour la Méditerranée |
+
+La pêche professionnelle à bord de navires en zone CGPM est soumise à l'inscription sur "le registre régional des navires de pêche de la CGPM".
+
+|
+
+10 jours ouvrés avant la date d'entrée dans la zone CGPM. |
+
+Sont éligibles les navires battant pavillon français ayant accès aux espèces visées par la recommandation dans la zone CGPM. |
+
+Le registre comporte pour chacun des navires au moins les informations obligatoires mentionnées à l'annexe 1 de la recommandation n° CGPM/2009/5 de la CGPM. |
+
+Points 1 et suivants de la recommandation n° CGPM/2009/6 de la Commission générale des pêches pour la Méditerranée |
+
+La pêche professionnelle à bord de navires mesurant plus de 15 mètres en zone CGPM est soumise à la détention d'une autorisation de pêche ORGP "Navires de plus de 15 mètres en zone CGPM".
+
+|
+
+10 jours ouvrés avant la date d'entrée dans la zone CGPM. |
+
+Sont éligibles les navires de longueur hors tout supérieure à 15 mètres battant pavillon français ayant accès aux espèces visées par la recommandation dans la zone CGPM.
+
+|
+
+L'autorisation ne peut être délivrée qu'à un navire inscrit sur le registre régional des navires de pêche de la CGPM et comporte pour chacun des navires, lorsqu'elles sont disponibles, les informations mentionnées au point 2 de la recommandation n° CGPM/2009/6 de la CGPM. |
+
 Point 3 de la recommandation n° 11-03 de la Commission internationale pour la conservation des thonidés de l'Atlantique (ICCAT) sur des mesures de gestion de l'espadon de la Méditerranée dans le cadre de l'ICCAT.
 
 |
