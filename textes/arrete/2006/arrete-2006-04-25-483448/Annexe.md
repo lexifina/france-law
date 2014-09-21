@@ -1,26 +1,24 @@
 # Article Annexe
 
-INSTALLATIONS RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER
+INSTALLATIONS RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2014
 
-GÉRÉES PAR LE DPSM (BRGM) AU 1er JANVIER 2013
-
-BASSIN MINIER
+Bassin minier
 
 |
 
-NATURE DE L'INSTALLATION
+Nature de l'installation
 
 |
 
-CONCESSION
+Concession
 
 |
 
-COMMUNE
+Commune
 
 |
 
-NOM DE L'INSTALLATION
+Nom de l'installation
 
 |
 
@@ -36,13 +34,11 @@ La Vernade
 
 |
 
-Saint-Eloy-les-Mines
+Saint Eloy les Mines
 
 |
 
-Saint-Eloy
-
-|
+Saint Eloy
 
 |
 
@@ -54,13 +50,7 @@ La Vernade
 
 |
 
-|
-
-Saint-Eloy
-
-|
-
-|
+Saint Eloy
 
 |
 
@@ -68,15 +58,11 @@ Le Périmètre de l'Aumance
 
 |
 
-Buxières-les-Mines
+Buxières les Mines
 
 |
 
 Les Gauthrins
-
-|
-
-|
 
 |
 
@@ -92,7 +78,51 @@ Les Mouillères
 
 |
 
+Barbery
+
 |
+
+Saint Germain le Vasson
+
+|
+
+Descenderie du Livet (flanc Sud)
+
+|
+
+Soummont
+
+|
+
+Soumont Saint Quentin
+
+|
+
+Galerie de Saint Quentin (flanc Sud)
+
+|
+
+Jurques
+
+|
+
+Jurques
+
+|
+
+TB 256
+
+|
+
+Mont-Pinçon
+
+|
+
+Le Plessis-Grimoult
+
+|
+
+TB Anguet
 
 |
 
@@ -100,27 +130,11 @@ Blanzy Montceau
 
 |
 
-Blanzy
-
-|
-
-L'Ouche
-
-|
-
-|
-
-|
-
-|
-
-Perrecy-les-Forges
+Perrecy les Forges
 
 |
 
 Ramus
-
-|
 
 |
 
@@ -128,47 +142,19 @@ Piézomètres
 
 |
 
-Barbecot
-
-|
-
-Chapdes-Beaufort
-
-|
-
-BBT1
-
-|
-
-|
-
-|
-
-|
-
-|
-
-BBT2
-
-|
-
-|
-
-|
-
 Le Périmètre de l'Aumance
 
 |
 
-Saint-Hilaire
+Saint Hilaire
 
 |
 
-Saint-Charles
+Saint Charles
 
 |
 
-|
+Saint Hilaire
 
 |
 
@@ -176,25 +162,11 @@ Blanzy Montceau
 
 |
 
-Perrecy-les-Forges
-
-|
-
-Clessy
-
-|
-
-|
-
-|
-
-|
+Perrecy les Forges
 
 |
 
 Ramus
-
-|
 
 |
 
@@ -206,15 +178,11 @@ Le Périmètre de l'Aumance
 
 |
 
-Buxières-les-Mines
+Buxières les Mines
 
 |
 
 Les Gauthrins
-
-|
-
-|
 
 |
 
@@ -230,15 +198,11 @@ Les Mouillères
 
 |
 
-|
-
-|
-
 Blanzy Montceau
 
 |
 
-Perrecy-les-Forges
+Perrecy les Forges
 
 |
 
@@ -246,81 +210,27 @@ Ramus
 
 |
 
-|
-
 Surverses de lacs miniers
 
 |
 
-|
-
-Montceau-les-Mines
+Montceau les Mines
 
 |
 
-Barrat Lucy
+Barrat Lucy/ Ruisseau des Marais
 
 |
 
-|
+Saint Louis / La Bourbince
 
 |
 
-|
+Sanvignes les Mines
 
 |
 
-La Carrière de la Poudrière
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Saint-Louis
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Saint-Pierre
-
-|
-
-|
-
-|
-
-|
-
-Sanvignes-les-Mines
-
-|
-
-Les Fouthiaux
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Saint-Amédée
+Les Fouthiaux / Ruisseau du Moulin Neuf
 
 |
 
@@ -336,7 +246,7 @@ De Wendel H
 
 |
 
-Petite-Rosselle
+Petite Rosselle
 
 |
 
@@ -344,23 +254,11 @@ Ouvrage de gestion des eaux
 
 |
 
-|
-
 Digues
 
 |
 
-|
-
-|
-
-Bassin Saint-Charles
-
-|
-
-|
-
-|
+Bassin St Charles
 
 |
 
@@ -369,8 +267,6 @@ Rosbruck
 |
 
 Rosbruck
-
-|
 
 |
 
@@ -390,10 +286,6 @@ Galerie de Knutange
 
 |
 
-|
-
-|
-
 Bois d'Avril
 
 |
@@ -406,15 +298,11 @@ Galerie du Bois d'Avril
 
 |
 
-|
-
-|
-
 Rombas
 
 |
 
-Moyeuvre-Grande
+Moyeuvre Grande
 
 |
 
@@ -422,23 +310,11 @@ Ancienne galerie de Moyeuvre
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie de Moyeuvre Grande
 
 |
 
-|
-
-|
-
-Saint-Pierremont
+Saint Pierremont
 
 |
 
@@ -447,8 +323,6 @@ Mancieulles
 |
 
 Galerie du Woigot
-
-|
 
 |
 
@@ -468,19 +342,11 @@ F10
 
 |
 
-|
-
-|
-
-|
-
-|
-
 F11
 
 |
 
-|
+Forages de rabattement
 
 |
 
@@ -496,27 +362,7 @@ Forbach 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Forbach 2
-
-|
-
-Est
-
-|
-
-Forages de rabattement
-
-|
-
-De Wendel H
 
 |
 
@@ -528,19 +374,7 @@ F12
 
 |
 
-|
-
-|
-
-|
-
-|
-
 F13
-
-|
-
-|
 
 |
 
@@ -548,7 +382,7 @@ Sarre et Moselle
 
 |
 
-Betting-lès-Saint-Avold
+Betting les Saint Avold
 
 |
 
@@ -556,23 +390,7 @@ F4
 
 |
 
-|
-
-|
-
-|
-
-|
-
 F5
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -580,13 +398,7 @@ F6
 
 |
 
-|
-
-|
-
-|
-
-Freyming-Merlebach
+Freyming Merlebach
 
 |
 
@@ -594,23 +406,7 @@ F1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 F2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -618,13 +414,7 @@ F3
 
 |
 
-|
-
-|
-
-|
-
-Hombourg-Haut
+Hombourg Haut
 
 |
 
@@ -632,23 +422,7 @@ F7
 
 |
 
-|
-
-|
-
-|
-
-|
-
 F8
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -656,19 +430,11 @@ F9
 
 |
 
-|
-
-|
-
-|
-
 Varsberg
 
 |
 
 Varsberg
-
-|
 
 |
 
@@ -688,23 +454,7 @@ FORB ALL 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 FORB ALL 2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -712,23 +462,7 @@ FORB GTI 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Puits Marienau
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -736,23 +470,7 @@ Puits Simon 5
 
 |
 
-|
-
-|
-
-|
-
-|
-
 PZ SDEC E2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -760,27 +478,15 @@ SP 2003 06
 
 |
 
-|
-
-|
-
-|
-
 Morsbach
 
 |
 
-IPA3
+IPA 3
 
 |
 
-|
-
-|
-
-|
-
-Petite-Rosselle
+Petite Rosselle
 
 |
 
@@ -788,21 +494,7 @@ SP 2003 04
 
 |
 
-|
-
-|
-
-|
-
-|
-
-Puits Saint-Charles 3
-
-|
-
-|
-
-|
+Puits St Charles 3
 
 |
 
@@ -810,37 +502,15 @@ Rosbruck
 
 |
 
-ROS ALL 1
+ROS ALL1
 
 |
 
-|
-
-|
-
-|
-
-|
-
-ROS ALL 2
-
-|
-
-|
-
-|
-
-|
+ROS ALL2
 
 |
 
 ROS GTI 1
-
-|
-
-|
-
-|
 
 |
 
@@ -852,33 +522,11 @@ P50
 
 |
 
-|
-
-|
-
-|
-
-|
-
 PZ SDEC E5
 
 |
 
-|
-
-|
-
-|
-
-|
-
 SP 2007 01
-
-|
-
-|
-
-|
 
 |
 
@@ -887,10 +535,6 @@ Stiring Wendel
 |
 
 PZ SDEC E10
-
-|
-
-|
 
 |
 
@@ -906,23 +550,7 @@ LH 2003 01
 
 |
 
-|
-
-|
-
-|
-
-|
-
 LH 2003 02
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -930,23 +558,7 @@ LH 2003 03
 
 |
 
-|
-
-|
-
-|
-
-|
-
 LH 2003 04
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -954,23 +566,7 @@ LH 2003 05
 
 |
 
-|
-
-|
-
-|
-
-|
-
 LH 2003 06
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -978,23 +574,7 @@ Puits 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Puits 2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1002,19 +582,7 @@ Puits 4
 
 |
 
-|
-
-|
-
-|
-
-|
-
 PZ SDEC 02
-
-|
-
-Est
 
 |
 
@@ -1026,7 +594,7 @@ Sarre et Moselle
 
 |
 
-Betting-lès-Saint-Avold
+Betting les Saint Avold
 
 |
 
@@ -1034,23 +602,7 @@ BET ALL 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 BET ALL 2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1058,33 +610,11 @@ BET ALL 3
 
 |
 
-|
-
-|
-
-|
-
-|
-
 BET GTI 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
-IPA2
-
-|
-
-|
-
-|
+IPA 2
 
 |
 
@@ -1096,23 +626,7 @@ COCH ALL 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 COCH ALL 2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1120,25 +634,11 @@ COCH GTI 1
 
 |
 
-|
-
-|
-
-|
-
 Creutzwald
 
 |
 
-IPA1
-
-|
-
-|
-
-|
-
-|
+IPA 1
 
 |
 
@@ -1146,23 +646,7 @@ Puits Barrois
 
 |
 
-|
-
-|
-
-|
-
-|
-
 PZ Gti Barrois
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1170,23 +654,7 @@ PZ GTi Lac Creutzwald
 
 |
 
-|
-
-|
-
-|
-
-|
-
 PZ SDEC 04
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1194,23 +662,7 @@ PZ SDEC 05
 
 |
 
-|
-
-|
-
-|
-
-|
-
 CREU-GTi 2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1218,23 +670,7 @@ CREU-All 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 CREU-All 2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1242,13 +678,15 @@ CREU-GTi 1
 
 |
 
-|
+CREU-All 9
 
 |
 
+CREU-All 10
+
 |
 
-Freyming-Merlebach
+Freyming Merlebach
 
 |
 
@@ -1256,23 +694,7 @@ MERL ALL 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 MERL ALL 2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1280,37 +702,15 @@ MERL GTI 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Puits Vouters
 
 |
 
-|
+Pz GTi Vouters
 
 |
 
-|
-
-Ham-sous-Varsberg
-
-|
-
-HAM ALL
-
-|
-
-|
-
-|
-
-|
+Ham sous Varsberg
 
 |
 
@@ -1318,13 +718,7 @@ HAM GTI
 
 |
 
-|
-
-|
-
-|
-
-Hombourg-Haut
+Hombourg Haut
 
 |
 
@@ -1332,23 +726,7 @@ HOM ALL 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 HOM ALL 2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1356,21 +734,7 @@ HOM ALL 3
 
 |
 
-|
-
-|
-
-|
-
-|
-
 HOM GTI 1
-
-|
-
-|
-
-|
 
 |
 
@@ -1382,13 +746,7 @@ Puits 2
 
 |
 
-|
-
-|
-
-|
-
-Saint-Avold
+Saint Avold
 
 |
 
@@ -1396,21 +754,7 @@ STAV ALL 2
 
 |
 
-|
-
-|
-
-|
-
-|
-
 STAV GTI 1
-
-|
-
-|
-
-|
 
 |
 
@@ -1419,8 +763,6 @@ Varsberg
 |
 
 PZ Varsberg
-
-|
 
 |
 
@@ -1440,10 +782,6 @@ Puits Simon 5
 
 |
 
-|
-
-|
-
 La Houve
 
 |
@@ -1456,19 +794,7 @@ Forage F28
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Puits 1
-
-|
-
-|
 
 |
 
@@ -1476,13 +802,11 @@ Sarre et Moselle
 
 |
 
-Freyming-Merlebach
+Freyming Merlebach
 
 |
 
 Puits Vouters
-
-|
 
 |
 
@@ -1502,10 +826,6 @@ Grande Rosselle
 
 |
 
-|
-
-|
-
 De Wendel H
 
 |
@@ -1518,23 +838,11 @@ Cadario
 
 |
 
-|
-
-|
-
-|
-
 Morsbach
 
 |
 
 Sortie autoroute
-
-|
-
-|
-
-|
 
 |
 
@@ -1546,19 +854,7 @@ Poste anticrues
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Weihergraben
-
-|
-
-|
 
 |
 
@@ -1566,13 +862,11 @@ Sarre et Moselle
 
 |
 
-Ham-sous-Varsberg
+Ham sous Varsberg
 
 |
 
 dispositif de drainage
-
-|
 
 |
 
@@ -1592,10 +886,6 @@ Simon
 
 |
 
-|
-
-|
-
 La Houve
 
 |
@@ -1608,15 +898,11 @@ Creutzwald
 
 |
 
-|
-
-|
-
 Sarre et Moselle
 
 |
 
-Freyming-Merlebach
+Freyming Merlebach
 
 |
 
@@ -1636,13 +922,11 @@ Bruay
 
 |
 
-Bruay-la-Buissière
+Bruay la Buissière
 
 |
 
 Bruay
-
-|
 
 |
 
@@ -1654,19 +938,11 @@ Auchy au Bois
 
 |
 
-Ligny-lès-Aire
+Ligny lès Aire
 
 |
 
-Puits 2 ― 2 bis
-
-|
-
-|
-
-|
-
-|
+Puits 2 - 2 bis
 
 |
 
@@ -1674,15 +950,11 @@ PZC L bis
 
 |
 
-|
-
-|
-
 Bruille
 
 |
 
-Bruille-les-Saint-Amand
+Bruille les Saint Amand
 
 |
 
@@ -1690,19 +962,7 @@ PZC B
 
 |
 
-|
-
-|
-
-|
-
-|
-
 PZH B
-
-|
-
-|
 
 |
 
@@ -1718,19 +978,7 @@ PZC Q
 
 |
 
-|
-
-|
-
-|
-
-|
-
 PZH Q
-
-|
-
-|
 
 |
 
@@ -1746,19 +994,7 @@ PZC P
 
 |
 
-|
-
-|
-
-|
-
-|
-
 PZH P
-
-|
-
-|
 
 |
 
@@ -1770,21 +1006,11 @@ Vimy
 
 |
 
-Puits 1 ― 1 bis
-
-|
-
-|
-
-|
-
-|
+Puits 1 - 1 bis
 
 |
 
 PZC V
-
-|
 
 |
 
@@ -1804,12 +1030,6 @@ République
 
 |
 
-|
-
-|
-
-|
-
 Douai
 
 |
@@ -1818,21 +1038,7 @@ Frais Marais
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Solitude
-
-|
-
-|
-
-|
 
 |
 
@@ -1844,23 +1050,7 @@ Ecaillon
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Lemay Sainte Marie
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1868,21 +1058,7 @@ Nouvelle cité de Pecquencourt
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Vred
-
-|
-
-|
-
-|
 
 |
 
@@ -1894,13 +1070,7 @@ Larentis
 
 |
 
-|
-
-|
-
-|
-
-Sin-le-Noble
+Sin le Noble
 
 |
 
@@ -1908,23 +1078,7 @@ Berg ob Zoom
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Bois des Retz
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -1932,21 +1086,7 @@ Godion
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Viviers de Sin
-
-|
-
-|
-
-|
 
 |
 
@@ -1958,12 +1098,6 @@ Boquet
 
 |
 
-|
-
-|
-
-|
-
 Waziers
 
 |
@@ -1972,19 +1106,7 @@ Cité Dincq
 
 |
 
-|
-
-|
-
-|
-
-|
-
 GC 35
-
-|
-
-|
 
 |
 
@@ -2000,12 +1122,6 @@ Ramette
 
 |
 
-|
-
-|
-
-|
-
 Wallers
 
 |
@@ -2014,15 +1130,11 @@ Route d'Hélesmes
 
 |
 
-|
-
-|
-
 Bruay
 
 |
 
-Bruay-la-Buissière
+Bruay la Buissière
 
 |
 
@@ -2030,19 +1142,11 @@ Marmottan
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Rue d'Amont
 
 |
 
-|
+Stations de relevage des eaux
 
 |
 
@@ -2050,7 +1154,7 @@ Courrières
 
 |
 
-Loison-sous-Lens
+Loison sous Lens
 
 |
 
@@ -2058,13 +1162,7 @@ Loison Canal
 
 |
 
-|
-
-|
-
-|
-
-Noyelles-sous-Lens
+Noyelles sous Lens
 
 |
 
@@ -2072,23 +1170,7 @@ Cimetière
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Nord Africains
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -2096,15 +1178,11 @@ Noyelles Pont
 
 |
 
-|
-
-|
-
 Escautpont
 
 |
 
-Fresnes-sur-Escaut
+Fresnes sur Escaut
 
 |
 
@@ -2112,19 +1190,7 @@ Putemont rive droite
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Putemont rive gauche
-
-|
-
-|
 
 |
 
@@ -2140,27 +1206,15 @@ Belle Inutile
 
 |
 
-|
-
-|
-
 Fresnes
 
 |
 
-Fresnes-sur-Escaut
+Fresnes sur Escaut
 
 |
 
 Fort Masys
-
-|
-
-Nord
-
-|
-
-Stations de relevage des eaux
 
 |
 
@@ -2176,35 +1230,15 @@ Eglise
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Pasteur
 
 |
 
-|
-
-|
-
-|
-
-Flers-en-Escrebieux
+Flers en Escrebieux
 
 |
 
 Marais de Flers
-
-|
-
-|
-
-|
 
 |
 
@@ -2216,33 +1250,11 @@ Boussinières
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Charlieu
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Cornet
-
-|
-
-|
-
-|
 
 |
 
@@ -2254,23 +1266,7 @@ Bernicourt
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Chapeau
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -2278,19 +1274,7 @@ Paturelles
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Vallée de Scarpe
-
-|
-
-|
 
 |
 
@@ -2298,7 +1282,7 @@ Marles
 
 |
 
-Marles-les-Mines
+Marles les Mines
 
 |
 
@@ -2306,19 +1290,7 @@ Pont de Divion
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Rue des Ecoles
-
-|
-
-|
 
 |
 
@@ -2334,22 +1306,10 @@ Chemin du Clair
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Marais des Iles
 
 |
 
-|
-
-|
-
 Odomez
 
 |
@@ -2359,10 +1319,6 @@ Odomez
 |
 
 Odomez
-
-|
-
-|
 
 |
 
@@ -2378,11 +1334,7 @@ Mare Ansart
 
 |
 
-|
-
-|
-
-Saint-Aybert
+Saint Aybert
 
 |
 
@@ -2390,15 +1342,11 @@ Thivencelle
 
 |
 
-Saint-Pierre bis
+Saint Pierre bis
 
 |
 
-|
-
-|
-
-Saint-Saulve
+Saint Saulve
 
 |
 
@@ -2410,33 +1358,11 @@ Alouettes
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Petit Diable
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Pré le Comte
-
-|
-
-|
-
-|
 
 |
 
@@ -2448,19 +1374,7 @@ Gros Charles
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Landimoret
-
-|
-
-|
 
 |
 
@@ -2468,7 +1382,7 @@ Vieux Condé
 
 |
 
-Condé-sur-l'Escaut
+Condé sur l'Escaut
 
 |
 
@@ -2476,25 +1390,11 @@ Canarderie
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Moulineaux
 
 |
 
-|
-
-|
-
-|
-
-Vieux-Condé
+Vieux Condé
 
 |
 
@@ -2514,7 +1414,7 @@ La Grand'Combe Ouest
 
 |
 
-Laval-Pradel
+Laval Pradel
 
 |
 
@@ -2522,23 +1422,7 @@ Galerie du ruisseau de Lascous
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Plan incliné des Oules
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -2546,21 +1430,15 @@ fossé des Oules
 
 |
 
-|
-
-|
-
 C3
 
 |
 
-Fuveau ― Gréasque
+Fuveau - Gréasque
 
 |
 
 Madame d'André
-
-|
 
 |
 
@@ -2572,15 +1450,11 @@ Boussagues
 
 |
 
-La Tour-sur-Orb
+La Tour sur Orb
 
 |
 
 TB Frangouille
-
-|
-
-|
 
 |
 
@@ -2596,10 +1470,6 @@ Galerie de Cornas
 
 |
 
-|
-
-|
-
 La Grand'Combe Ouest
 
 |
@@ -2612,23 +1482,7 @@ Galerie Corniche
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie Mas Blanc
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -2636,23 +1490,7 @@ Galerie Mine Roux
 
 |
 
-|
-
-|
-
-|
-
-|
-
-Galerie Sainte-Barbe
-
-|
-
-|
-
-|
-
-|
+Galerie Sainte Barbe
 
 |
 
@@ -2660,19 +1498,7 @@ Galerie Thérond
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie Verrerie
-
-|
-
-|
 
 |
 
@@ -2688,10 +1514,6 @@ TB de Grand Champ
 
 |
 
-|
-
-|
-
 Portes & Senechas
 
 |
@@ -2704,10 +1526,6 @@ Galerie Burat
 
 |
 
-|
-
-|
-
 Robiac & Meyrannes
 
 |
@@ -2716,35 +1534,15 @@ Bessèges
 
 |
 
-Galerie Saint-François
+Galerie Saint François
 
 |
 
-|
+Galerie Sainte Illyde
 
 |
 
-|
-
-|
-
-Galerie Sainte-Illyde
-
-|
-
-Sud
-
-|
-
-Emergences minières
-
-|
-
-Robiac & Meyrannes
-
-|
-
-Molières-sur-Cèze
+Molières sur Cèze
 
 |
 
@@ -2752,19 +1550,7 @@ Galerie Chalmeton
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie Silhol
-
-|
-
-|
 
 |
 
@@ -2780,37 +1566,15 @@ Galerie la Royale
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie la Royale 2
 
 |
 
-|
+Galerie Saint Pierre
 
 |
 
-|
-
-|
-
-Galerie Saint-Pierre
-
-|
-
-|
-
-|
-
-|
-
-Saint-Martin-de-Valgalgues
+Saint Martin de Valgalgues
 
 |
 
@@ -2818,23 +1582,15 @@ Galerie nationale
 
 |
 
-|
-
-|
-
 Ruffas
 
 |
 
-Le Bousquet-d'Orb
+Le Bousquet d'Orb
 
 |
 
 TB 250
-
-|
-
-|
 
 |
 
@@ -2850,23 +1606,7 @@ Galerie des Esteyraings
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie Piqueur
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -2874,21 +1614,11 @@ Galerie Plan
 
 |
 
-|
-
-|
-
-|
-
 Rochessadoule
 
 |
 
-Galerie Saint-Hyppolite
-
-|
-
-|
+Galerie Saint Hyppolite
 
 |
 
@@ -2904,23 +1634,7 @@ Ecoulement Destresse
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Ecoulement du Bois Noir et La Peyrade
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -2928,19 +1642,7 @@ Emergence Combes Feuillantines
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Emergence de la Bouyssonie 2
-
-|
-
-|
 
 |
 
@@ -2956,31 +1658,11 @@ Ecoulement de Bézelgues
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Emergence Augustin
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Emergence du Fraysse
-
-|
-
-|
 
 |
 
@@ -2996,12 +1678,6 @@ Tunnel de Tramont 1 côté Firmi
 
 |
 
-|
-
-|
-
-|
-
 Decazeville
 
 |
@@ -3010,19 +1686,7 @@ Emergence de Fontvernhes
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Emergence du Moulin
-
-|
-
-|
 
 |
 
@@ -3038,21 +1702,15 @@ Emergence du Crol Bas
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Emergence du Gua
 
 |
 
-|
+Emergences minières
 
 |
+
+Lavernhe
 
 |
 
@@ -3064,35 +1722,7 @@ Emergence de Campagnac
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Emergence du Mas de Mouly
-
-|
-
-|
-
-|
-
-Pic de la Fourque
-
-|
-
-Couflens-Salau
-
-|
-
-Emergence galerie 1230
-
-|
-
-|
 
 |
 
@@ -3108,10 +1738,6 @@ Galerie Desfarges
 
 |
 
-|
-
-|
-
 C12
 
 |
@@ -3121,10 +1747,6 @@ La Bouilladisse
 |
 
 Galerie de Pinchinier
-
-|
-
-|
 
 |
 
@@ -3140,10 +1762,6 @@ Galerie de Fuveau
 
 |
 
-|
-
-|
-
 C8
 
 |
@@ -3153,10 +1771,6 @@ Peypin
 |
 
 Galerie la Doria
-
-|
-
-|
 
 |
 
@@ -3172,15 +1786,11 @@ Galerie de la Mer
 
 |
 
-|
-
-|
-
 Cluzel
 
 |
 
-Saint-Genest-Lerpt
+Saint Genest Lerpt
 
 |
 
@@ -3188,19 +1798,7 @@ Bas Cluzel
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Cluzel Haut
-
-|
-
-|
 
 |
 
@@ -3216,19 +1814,11 @@ Côte en Velin
 
 |
 
-Sud
-
-|
-
-Emergences minières
-
-|
-
 La Jonche
 
 |
 
-Saint-Arey
+Saint Arey
 
 |
 
@@ -3236,27 +1826,15 @@ Galerie de Combe Neveuse
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie de la Beaume
 
 |
 
-|
+La Motte d'Aveillans
 
 |
 
-La Motte-d'Aveillans
-
-|
-
-La Motte-d'Aveillans
+La Motte d'Aveillans
 
 |
 
@@ -3264,23 +1842,7 @@ Forage de décharge
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie N10 bis
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -3288,23 +1850,7 @@ Galerie N14
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie N4 bis
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -3312,13 +1858,7 @@ Galerie N6 Comberamis
 
 |
 
-|
-
-|
-
-|
-
-La Motte-Saint-Martin
+La Motte Saint Martin
 
 |
 
@@ -3326,19 +1866,7 @@ Galerie de la Faurie
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie N3 sous la Molière
-
-|
-
-|
 
 |
 
@@ -3354,10 +1882,6 @@ Fendue Lyon
 
 |
 
-|
-
-|
-
 Peychagnard Nouvelle
 
 |
@@ -3370,21 +1894,7 @@ Galerie Badier 1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie Merle
-
-|
-
-|
-
-|
 
 |
 
@@ -3396,23 +1906,11 @@ Galerie du Peychagnard N10
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Galerie Fontveille 1
 
 |
 
-|
-
-|
-
-Roche-la-Molière & Firminy
+Roche la Molière & Firminy
 
 |
 
@@ -3424,13 +1922,7 @@ Bas Mas
 
 |
 
-|
-
-|
-
-|
-
-Roche-la-Molière
+Roche la Molière
 
 |
 
@@ -3438,33 +1930,15 @@ Rieux
 
 |
 
-|
-
-|
-
-|
-
-|
-
 Roare
 
 |
 
-|
-
-|
-
-|
-
 Villars
 
 |
 
 Villars
-
-|
-
-|
 
 |
 
@@ -3472,13 +1946,11 @@ Terrenoire
 
 |
 
-Saint-Etienne
+Saint Etienne
 
 |
 
 La Massardière
-
-|
 
 |
 
@@ -3498,8 +1970,6 @@ Vialarels 2/170
 
 |
 
-|
-
 Piézomètres
 
 |
@@ -3516,21 +1986,11 @@ Rochebelle
 
 |
 
-|
+Saint Jean du Pin
 
 |
 
-|
-
-Saint-Jean-du-Pin
-
-|
-
-Saint-Raby
-
-|
-
-|
+Saint Raby
 
 |
 
@@ -3546,10 +2006,6 @@ Cheminée Panneau Sud
 
 |
 
-|
-
-|
-
 Bouquiès
 
 |
@@ -3562,10 +2018,6 @@ Crucifix
 
 |
 
-|
-
-|
-
 Combes
 
 |
@@ -3574,11 +2026,7 @@ Aubin
 
 |
 
-Lunelle
-
-|
-
-|
+La Lunelle
 
 |
 
@@ -3594,11 +2042,19 @@ Puits 1 nouveau
 
 |
 
-|
+Piézomètres
 
 |
 
 Decazeville Firmi
+
+|
+
+Cransac
+
+|
+
+Treille haute 1
 
 |
 
@@ -3607,10 +2063,6 @@ Decazeville
 |
 
 Vialarels 1/150
-
-|
-
-|
 
 |
 
@@ -3626,23 +2078,11 @@ Puits Z
 
 |
 
-|
-
-|
-
 C4
 
 |
 
-|
-
 Puits Y
-
-|
-
-|
-
-|
 
 |
 
@@ -3654,15 +2094,11 @@ Puits Gérard
 
 |
 
-|
-
-|
-
 Fontsante
 
 |
 
-Tanneron/Callian
+Tanneron / Callian
 
 |
 
@@ -3670,23 +2106,7 @@ PZ1
 
 |
 
-|
-
-|
-
-|
-
-|
-
 PZ2
-
-|
-
-|
-
-|
-
-|
 
 |
 
@@ -3694,17 +2114,7 @@ PZ3
 
 |
 
-|
-
-|
-
-|
-
-|
-
 PZ4
-
-|
 
 |
 
@@ -3712,13 +2122,7 @@ Prélèvements d'eaux de surface
 
 |
 
-|
-
-|
-
 P1
-
-|
 
 |
 
@@ -3730,15 +2134,11 @@ Rochebelle
 
 |
 
-Saint-Martin-de-Valgalgues
+Saint Martin de Valgalgues
 
 |
 
 Puits Fontanes
-
-|
-
-|
 
 |
 
@@ -3754,10 +2154,6 @@ Lac de Lassalle
 
 |
 
-|
-
-|
-
 C4
 
 |
@@ -3767,10 +2163,6 @@ Mimet
 |
 
 Puits Gérard
-
-|
-
-Sud
 
 |
 
@@ -3790,10 +2182,6 @@ Pompage de Montredon
 
 |
 
-|
-
-|
-
 C3
 
 |
@@ -3806,8 +2194,6 @@ Les Sauvaires
 
 |
 
-|
-
 Stations de traitement des eaux
 
 |
@@ -3816,15 +2202,11 @@ Rochebelle
 
 |
 
-Saint-Martin-de-Valgalgues
+Saint Martin de Valgalgues
 
 |
 
 Destival
-
-|
-
-|
 
 |
 
@@ -3840,7 +2222,11 @@ Galerie de la Mer complétée par 3 sondages en mer
 
 |
 
+Montrambert
+
 |
+
+Le Chambon Feugerolles
 
 |
 
@@ -3848,10 +2234,4 @@ Montrambert
 
 |
 
-Le Chambon-Feugerolles
-
-|
-
-Montrambert
-
-|
+.
