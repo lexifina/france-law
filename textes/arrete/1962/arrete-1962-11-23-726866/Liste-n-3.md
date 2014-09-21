@@ -12,7 +12,7 @@ Albertville |
 
 Savoie |
 
-Réservé aux aéronefs qui sont basés sur l'aérodrome ou sur les aérodromes voisins, ainsi qu'aux pilotes nommément autorisés par le directeur de la sécurité de l'aviation civile Centre-Est. |
+L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur ou détenant la qualification montagne. L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
 Aspres-sur-Buëch |
 
@@ -86,17 +86,19 @@ Belleville - Villié-Morgon |
 
 Rhône |
 
-Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.
+L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.
 
-Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
+L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome.
+
+|
 
 Belley-Peyrieu |
 
 Ain |
 
-Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.
+L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.
 
-Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
+L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
 Belvès - Saint-Pardoux |
 
@@ -716,9 +718,9 @@ Ruoms |
 
 Ardèche |
 
-Réservé aux pilotes d'avions ou de planeurs à dispositif d'envol incorporé reconnus aptes à utiliser l'aérodrome par un instructeur ou par le directeur de la sécurité de l'aviation civile Centre-Est.
+L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.
 
-Utilisable par les autres aéronefs dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
+L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
 Saint-Affrique - Belmont |
 
