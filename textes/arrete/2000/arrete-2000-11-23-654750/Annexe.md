@@ -1,22 +1,18 @@
 # Article Annexe
 
-A.-Emplois en administration centrale à la préfecture de police et à la préfecture de la région d'Ile-de-France, préfecture de Paris
+A.-Emplois en administration centrale à la préfecture de police et à la préfecture de Paris
 
-1° Chef du service de l'inspection générale de l'administration :
+1. Chef du service de l'inspection générale de l'administration
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
 
@@ -34,27 +30,35 @@ Chef du service de l'inspection générale de l'administration
 
 |
 
-2° Directeur général et directeur d'administration centrale, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris :
+2. Directeur général et directeur d'administration centrale, directeur de la préfecture de police (services administratifs) ou directeur de la préfecture de Paris
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
 
 |
 
-Secrétaire général du ministère, directeur général d'administration centrale du ministère de l'intérieur.
+Secrétaire général du ministère
+
+|
+
+1
+
+|
+
+180
+
+|
+
+Directeur général d'administration centrale du ministère de l'intérieur
 
 |
 
@@ -67,18 +71,6 @@ Secrétaire général du ministère, directeur général d'administration centra
 |
 
 Président du Conseil supérieur de l'administration territoriale de l'Etat
-
-|
-
-1
-
-|
-
-140
-
-|
-
-Secrétaire général du comité interministériel de contrôle de l'immigration
 
 |
 
@@ -114,11 +106,11 @@ Directeur d'administration centrale du ministère de l'intérieur
 
 |
 
-Directeur d'administration centrale du ministère chargé de l'outre-mer
+Délégué à la sécurité et à la circulation routières (à compter du 2 octobre 2013)
 
 |
 
-2
+1
 
 |
 
@@ -138,7 +130,199 @@ Directeur à la préfecture de police
 
 |
 
-Directeur à la préfecture de la région d'Ile-de-France, préfecture de Paris
+Directeur à la préfecture de Paris
+
+|
+
+1
+
+|
+
+120
+
+|
+
+3. Directeur de projet ou expert de haut niveau
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS
+
+par emploi
+
+|
+
+Directeur de projet ou expert de haut niveau
+
+|
+
+11
+
+|
+
+80
+
+|
+
+4. Chef de service ou sous-directeur exerçant des fonctions d'adjoint à un directeur général ou à un directeur d'administration centrale ou à un délégué ministériel, à un directeur de la préfecture de police ou à un directeur de la préfecture de Paris
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS
+
+par emploi
+
+|
+
+Haut fonctionnaire de défense adjoint
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef de service, adjoint au directeur général des collectivités locales
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef de service, adjoint au directeur de la modernisation et de l'action territoriale, chef du service de la modernisation de l'action publique
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'achat, de l'équipement et de la logistique de la sécurité intérieure
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service des affaires financières ministériel
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef de service, adjoint au directeur général des outre-mer
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef de service, adjoint au directeur général de la sécurité civile et de la gestion des crises
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef de service, adjoint au délégué à la sécurité et à la circulation routières (à compter du 2 octobre 2013)
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Sous-directeur, adjoint au directeur de la modernisation et de l'administration à la préfecture de Paris
+
+|
+
+1
+
+|
+
+80
+
+|
+
+5. Direction générale des étrangers en France
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS
+
+par emploi
+
+|
+
+Directeur général des étrangers en France
+
+|
+
+1
+
+|
+
+140
+
+|
+
+Directeur d'administration centrale à la direction générale des étrangers en France
 
 |
 
@@ -146,123 +330,11 @@ Directeur à la préfecture de la région d'Ile-de-France, préfecture de Paris
 
 |
 
-120
+140
 
 |
 
-3° Chef de service, délégué ou directeur d'un service ou organisme de l'administration centrale du ministère de l'intérieur non rattaché à une direction générale ou à une direction d'administration centrale et mentionné dans le décret fixant l'organisation du ministère :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points
-
-par emploi
-
-|
-
-Adjoint au haut fonctionnaire de défense
-
-|
-
-1
-
-|
-
-80
-
-|
-
-4° Chef de service ou sous-directeur exerçant des fonctions d'adjoint à un directeur général ou à un directeur d'administration centrale, à un directeur de la préfecture de police (services administratifs) ou à un directeur de la préfecture de la région d'Ile-de-France, préfecture de Paris :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points
-
-par emploi
-
-|
-
-A l'administration centrale du ministère de l'intérieur :
-
-|
-
-|
-
-|
-
-Directeur de projet
-
-|
-
-10
-
-|
-
-80
-
-|
-
-A l'administration centrale du ministère chargé de l'outre-mer
-
-|
-
-|
-
-|
-
-Directeur de projet
-
-|
-
-1
-
-|
-
-80
-
-|
-
-5° Chef de service ou sous-directeur en charge d'une sous-direction d'administration centrale, d'une sous-direction de la préfecture de police (services administratifs) ou d'une sous-direction de la préfecture de la région d'Ile-de-France, préfecture de Paris :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points
-
-par emploi
-
-|
-
-Adjoint au directeur général des collectivités locales
+Chef de service, adjoint au directeur de l'immigration
 
 |
 
@@ -274,7 +346,43 @@ Adjoint au directeur général des collectivités locales
 
 |
 
-Adjoint au directeur de l'administration à la préfecture de la région d'Ile-de-France, préfecture de Paris
+Chef de service, adjoint au directeur de l'accueil de l'accompagnement et de la nationalité
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de l'asile
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Chef du service de la stratégie et des affaires internationales
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur du pilotage et des systèmes d'information
 
 |
 
@@ -286,51 +394,7 @@ Adjoint au directeur de l'administration à la préfecture de la région d'Ile-d
 
 |
 
-6° Chef de service ou sous-directeur en charge d'une sous-direction d'administration centrale, d'une sous-direction ou d'un service de la préfecture de police ou d'une sous-direction de la préfecture de la région d'Ile-de-France, préfecture de Paris :
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points
-
-par emploi
-
-|
-
-A l'administration centrale du ministère de l'intérieur
-
-|
-
-|
-
-|
-
-En charge d'une sous-direction relevant du secrétariat général :
-
-|
-
-|
-
-|
-
-Direction de la modernisation et de l'action territoriale :
-
-|
-
-|
-
-|
-
-Sous-directeur des affaires politiques et de la vie associative
+Sous-directeur de l'accès à la nationalité française
 
 |
 
@@ -338,7 +402,83 @@ Sous-directeur des affaires politiques et de la vie associative
 
 |
 
-120
+80
+
+|
+
+Sous-directeur de l'accueil et de la prévention des discriminations
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur de la lutte contre les fraudes, des contrôles et de l'éloignement
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur du séjour et du travail
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur des visas
+
+|
+
+1
+
+|
+
+80
+
+|
+
+6. Chef de service ou sous-directeur en charge d'une sous-direction ou d'un service d'administration centrale, de la préfecture de police ou de la préfecture de Paris
+
+DÉSIGNATION DE L'EMPLOI
+
+|
+
+NOMBRE D'EMPLOIS
+
+|
+
+NOMBRE DE POINTS
+
+par emploi
+
+|
+
+À L'ADMINISTRATION CENTRALE DU MINISTÈRE DE L'INTÉRIEUR
+
+|
+
+En charge d'une sous-direction relevant du secrétariat général
+
+|
+
+Direction de la modernisation et de l'action territoriale
 
 |
 
@@ -366,11 +506,23 @@ Sous-directeur de l'administration territoriale
 
 |
 
-Direction des ressources humaines :
+Service du haut fonctionnaire de défense
 
 |
 
+Sous-directeur de la protection du ministère
+
 |
+
+1
+
+|
+
+80
+
+|
+
+Direction des ressources humaines
 
 |
 
@@ -398,7 +550,7 @@ Sous-directeur du recrutement et de la formation
 
 |
 
-Sous-directeur de l'action sociale
+Sous-directeur de l'action sociale et de l'accompagnement des personnels
 
 |
 
@@ -410,23 +562,7 @@ Sous-directeur de l'action sociale
 
 |
 
-Direction de l'évaluation de la performance, des affaires financières et immobilières :
-
-|
-
-|
-
-|
-
-Sous-directeur des affaires financières
-
-|
-
-1
-
-|
-
-100
+Direction de l'évaluation de la performance, des affaires financières et immobilières
 
 |
 
@@ -442,7 +578,7 @@ Sous-directeur des affaires immobilières
 
 |
 
-Sous-directeur des programmes d'administration générale
+Sous-directeur de la synthèse et du pilotage budgétaires
 
 |
 
@@ -454,15 +590,7 @@ Sous-directeur des programmes d'administration générale
 
 |
 
-Direction des systèmes d'information et de communication :
-
-|
-
-|
-
-|
-
-Sous-directeur de l'administration générale
+Sous-directeur de la qualité et de l'information financières et comptables
 
 |
 
@@ -474,7 +602,7 @@ Sous-directeur de l'administration générale
 
 |
 
-Sous-directeur des études et logiciels
+Sous-directeur des programmes et de l'achat
 
 |
 
@@ -486,7 +614,11 @@ Sous-directeur des études et logiciels
 
 |
 
-Sous-directeur de l'ingénierie, de l'équipement et de l'exploitation
+Direction des systèmes d'information et de communication
+
+|
+
+Sous-directeur de l'administration générale et de l'achat
 
 |
 
@@ -498,39 +630,7 @@ Sous-directeur de l'ingénierie, de l'équipement et de l'exploitation
 
 |
 
-Autres services :
-
-|
-
-|
-
-|
-
-Sous-directeur, chef du centre d'études et de prospective
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Sous-directeur, chef du service de la communication
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Sous-directeur, chargé de la mission pour les affaires internationales et européennes
+Sous-directeur des applications
 
 |
 
@@ -542,11 +642,99 @@ Sous-directeur, chargé de la mission pour les affaires internationales et europ
 
 |
 
-En charge d'une sous-direction relevant de la direction générale des collectivités locales :
+Sous-directeur des infrastructures
 
 |
 
+1
+
 |
+
+80
+
+|
+
+Sous directeur de la supervision et de la production
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur du soutien aux utilisateurs
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Autres services
+
+|
+
+Sous-directeur, délégué à l'information et à la communication
+
+|
+
+1
+
+|
+
+100
+
+|
+
+En charge d'une sous-direction relevant de la délégation à la sécurité et à la circulation routières (à compter du 2 octobre 2013)
+
+|
+
+Sous-directeur de l'action interministérielle
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur de l'éducation routière et du permis de conduire
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Sous-directeur des actions transversales et des ressources
+
+|
+
+1
+
+|
+
+80
+
+|
+
+En charge d'une sous-direction relevant de la direction générale des collectivités locales
 
 |
 
@@ -586,17 +774,11 @@ Sous-directeur des élus locaux et de la fonction publique territoriale
 
 |
 
-En charge d'une sous-direction relevant de la direction générale de la police nationale
-
-( direction des ressources et des compétences de la police nationale)
+En charge d'une sous-direction relevant de la direction générale de la police nationale (direction des ressources et des compétences de la police nationale)
 
 |
 
-|
-
-|
-
-Sous-directeur des ressources humaines
+Sous-directeur de l'administration des ressources humaines
 
 |
 
@@ -608,7 +790,7 @@ Sous-directeur des ressources humaines
 
 |
 
-Sous-directeur de l'administration générale et des finances
+Sous-directeur des finances et de la performance
 
 |
 
@@ -620,7 +802,7 @@ Sous-directeur de l'administration générale et des finances
 
 |
 
-Sous-directeur de la logistique
+Sous-directeur de l'action sociale et de l'accompagnement du personnel
 
 |
 
@@ -632,65 +814,7 @@ Sous-directeur de la logistique
 
 |
 
-Sous-directeur des affaires sociales de la police nationale
-
-|
-
-1
-
-|
-
-80
-
-|
-
-En charge d'une sous-direction relevant de la direction générale de la sécurité intérieure :
-
-|
-
-|
-
-|
-
-Sous-directeur à la direction technique
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chef du service de l'administration générale |
-
-1
-
-|
-
-100
-
-|
-
-En charge d'une sous-direction relevant de la direction des libertés publiques et des affaires juridiques :
-
-|
-
-|
-
-|
-
-Sous-directeur des étrangers et de la circulation transfrontière
-
-|
-
-1
-
-|
-
-120
+En charge d'une sous-direction relevant de la direction des libertés publiques et des affaires juridiques
 
 |
 
@@ -706,7 +830,7 @@ Sous-directeur du conseil juridique et du contentieux
 
 |
 
-Sous-directeur de la circulation et de la sécurité routières
+Sous-directeur des polices administratives
 
 |
 
@@ -718,27 +842,7 @@ Sous-directeur de la circulation et de la sécurité routières
 
 |
 
-Sous-directeur des libertés publiques et de la police administrative
-
-|
-
-1
-
-|
-
-80
-
-|
-
-En charge d'une sous-direction relevant de la direction de la défense et de la sécurité civile :
-
-|
-
-|
-
-|
-
-Sous-directeur des services opérationnels
+Sous-directeur des libertés publiques
 
 |
 
@@ -750,7 +854,11 @@ Sous-directeur des services opérationnels
 
 |
 
-Sous-directeur des sapeurs pompiers et des acteurs de secours
+En charge d'une sous-direction relevant de la direction générale de la sécurité civile et de la gestion des crises
+
+|
+
+Sous-directeur de la planification et de la gestion des crises
 
 |
 
@@ -762,7 +870,7 @@ Sous-directeur des sapeurs pompiers et des acteurs de secours
 
 |
 
-Sous-directeur de la gestion des risques
+Sous-directeur des moyens nationaux
 
 |
 
@@ -774,7 +882,7 @@ Sous-directeur de la gestion des risques
 
 |
 
-Sous-directeur de l'administration et de la logistique
+Sous-directeur des ressources, des compétences et de la doctrine d'emploi
 
 |
 
@@ -786,23 +894,23 @@ Sous-directeur de l'administration et de la logistique
 
 |
 
-A l'administration centrale du ministère de l'outre-mer
+Sous-directeur des services d'incendie et des acteurs de secours
 
 |
 
-|
+1
 
 |
 
-En charge d'une sous-direction relevant de la direction des affaires politiques, administratives et financières :
+80
 
 |
 
-|
+En charge d'une sous-direction relevant de la direction générale des outre-mer
 
 |
 
-Sous-directeur des affaires politiques de l'outre-mer
+Sous-directeur, chef du service des politiques publiques
 
 |
 
@@ -814,7 +922,19 @@ Sous-directeur des affaires politiques de l'outre-mer
 
 |
 
-Sous-directeur des affaires administratives et financières de l'outre-mer
+Sous-directeur, chef du service des affaires juridiques et institutionnelles
+
+|
+
+1
+
+|
+
+100
+
+|
+
+Sous-directeur, chef du service de l'évaluation, de la prospective et de la dépense de l'Etat
 
 |
 
@@ -826,15 +946,11 @@ Sous-directeur des affaires administratives et financières de l'outre-mer
 
 |
 
-En charge d'une sous-direction relevant de la direction des affaires économiques, sociales et culturelles :
+En charge d'une sous-direction au service de l'achat, de l'équipement et de la logistique
 
 |
 
-|
-
-|
-
-Sous-directeur des affaires économiques
+Sous-directeur de l'achat
 
 |
 
@@ -846,7 +962,7 @@ Sous-directeur des affaires économiques
 
 |
 
-Sous-directeur de l'emploi, des affaires sociales, éducatives et culturelles
+Sous-directeur des équipements
 
 |
 
@@ -858,43 +974,7 @@ Sous-directeur de l'emploi, des affaires sociales, éducatives et culturelles
 
 |
 
--
-
-DÉSIGNATION DE L'EMPLOI
-
-|
-
-NOMBRE
-
-d'emplois
-
-|
-
-NOMBRE
-
-de points
-
-par emploi
-
-|
-
-A la préfecture de police
-
-|
-
-|
-
-|
-
-En charge d'une sous-direction relevant du cabinet du préfet
-
-|
-
-|
-
-|
-
-Sous-directeur des services administratifs
+Sous-directeur de la logistique
 
 |
 
@@ -903,6 +983,10 @@ Sous-directeur des services administratifs
 |
 
 80
+
+|
+
+À LA PRÉFECTURE DE POLICE
 
 |
 
@@ -910,15 +994,7 @@ En charge d'une sous-direction relevant du secrétariat général pour l'adminis
 
 |
 
-|
-
-|
-
-Direction des ressources humaines :
-
-|
-
-|
+Direction des ressources humaines
 
 |
 
@@ -946,11 +1022,7 @@ Sous-directeur des affaires sociales
 
 |
 
-Direction des finances, de la commande publique et de la performance :
-
-|
-
-|
+Direction des finances, de la commande publique et de la performance
 
 |
 
@@ -966,15 +1038,11 @@ Sous-directeur des affaires financières
 
 |
 
-Service des affaires immobilières :
+Service des affaires immobilières
 
 |
 
-|
-
-|
-
-Sous-directeur, chef du service des affaires immobilières
+Chef du service des affaires immobilières
 
 |
 
@@ -987,10 +1055,6 @@ Sous-directeur, chef du service des affaires immobilières
 |
 
 En charge d'une sous-direction relevant de la direction de la police générale
-
-|
-
-|
 
 |
 
@@ -1022,11 +1086,7 @@ En charge d'une sous-direction relevant de la direction des transports et de la 
 
 |
 
-|
-
-|
-
-Sous-directeur de la protection sanitaire
+Sous-directeur de la protection sanitaire et de l'environnement
 
 |
 
@@ -1050,7 +1110,7 @@ Sous-directeur de la sécurité du public
 
 |
 
-Sous-directeur du commerce
+Sous-directeur des déplacements et de l'espace public
 
 |
 
@@ -1062,11 +1122,7 @@ Sous-directeur du commerce
 
 |
 
-En charge d'une sous-direction relevant de la logistique
-
-|
-
-|
+En charge d'une sous-direction relevant de la direction de la logistique
 
 |
 
@@ -1082,75 +1138,19 @@ Sous-directeur de l'administration et de la modernisation
 
 |
 
-A la préfecture de la région d'Ile-de-France, préfecture de Paris
-
-|
-
-|
-
-|
-
-En charge d'une sous-direction relevant de la direction de l'urbanisme, du logement et de l'équipement
-
-|
-
-|
-
-|
-
-Chef du service de l'action économique et sociale
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Sous-directeur de l'urbanisme et de la construction
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-directeur de la politique de l'habitat
-
-|
-
-1
-
-|
-
-100
-
-|
-
 B.-Emplois en administration territoriale
 
-1° Fonctionnaires titulaires du corps des préfets ou détachés dans ce corps en poste territorial dans un département de métropole ou d'outre-mer :
+1. Fonctionnaires titulaires du corps des préfets ou détachés dans ce corps en poste territorial dans un département de métropole ou d'outre-mer
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
 
@@ -1177,6 +1177,18 @@ Préfet de police
 |
 
 180
+
+|
+
+Préfet de police de Marseille
+
+|
+
+1
+
+|
+
+140
 
 |
 
@@ -1372,14 +1384,6 @@ Préfet d'un département de métropole ou d'outre-mer autre que ceux précités
 
 |
 
-Préfet de police des Bouches-du-Rhône
-
-|
-
-1 |
-
-140 |
-
 Préfet secrétaire général de la préfecture de la région Ile-de-France
 
 |
@@ -1404,7 +1408,7 @@ Préfet directeur du cabinet du préfet de police
 
 |
 
-Préfet secrétaire général de la préfecture de la région d'Ile-de-France, préfecture de Paris
+Préfet secrétaire général de la préfecture de Paris
 
 |
 
@@ -1440,18 +1444,6 @@ Préfet secrétaire général de la zone de défense de Paris
 
 |
 
-Préfet adjoint pour la sécurité en Corse
-
-|
-
-1
-
-|
-
-180
-
-|
-
 Préfet délégué à la sécurité et à la défense
 
 |
@@ -1476,15 +1468,7 @@ Préfet délégué pour l'égalité des chances
 
 |
 
-Préfet délégué en charge du projet de l'agglomération Marseille-Provence
-
-|
-
-1 |
-
-120 |
-
-Préfet délégué auprès du préfet de la Guadeloupe pour les îles Saint-Barthélémy et de Saint-Martin
+Préfet délégué auprès du préfet de la Guadeloupe pour les îles Saint-Barthélemy et de Saint-Martin
 
 |
 
@@ -1496,21 +1480,41 @@ Préfet délégué auprès du préfet de la Guadeloupe pour les îles Saint-Bart
 
 |
 
-2° Représentant du Gouvernement en Nouvelle-Calédonie, dans un territoire d'outre-mer ou dans une collectivité territoriale d'outre-mer :
+Préfet délégué en charge du projet d'agglomération Marseille-Provence
+
+|
+
+1
+
+|
+
+120
+
+|
+
+Préfet délégué pour la sécurité et la sûreté des plates-formes aéroportuaires de Roissy-Charles-de-Gaulle et du Bourget
+
+|
+
+1
+
+|
+
+120
+
+|
+
+2. Représentant du Gouvernement en Nouvelle-Calédonie, dans un territoire d'outre-mer ou dans une collectivité territoriale d'outre-mer
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
 
@@ -1588,41 +1592,31 @@ Préfet, administrateur supérieur des Terres australes et antarctiques françai
 
 |
 
-3° Fonctionnaires titulaires du corps des sous-préfets ou détachés dans ce corps (métropole et outre-mer) :
+3. Fonctionnaires titulaires du corps des sous-préfets ou détachés dans ce corps (métropole et outre-mer)
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
 
 |
 
-Secrétaire général de la préfecture des départements suivants
-
-Poste de 1re catégorie (art. 4 du décret n° 64-260 du 14 mars 1964 modifié)
+Postes de classes fonctionnelles (arrêté du 4 janvier 2012)
 
 |
 
-|
+Poste de la classe fonctionnelle I
 
 |
 
-Nord
-
-|
-
-1
+5
 
 |
 
@@ -1630,227 +1624,11 @@ Nord
 
 |
 
-Bouches-du-Rhône
+Poste de la classe fonctionnelle II
 
 |
 
-1
-
-|
-
-120
-
-|
-
-Rhône
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Pas-de-Calais
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Hauts-de-Seine
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Seine-Saint-Denis
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Yvelines
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Gironde
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Seine-Maritime
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Val-de-Marne
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Seine-et-Marne
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Essonne
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Loire-Atlantique
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Val-d'Oise
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Isère
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Haute-Garonne
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Bas-Rhin
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Moselle
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Alpes-Maritimes
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Hérault
-
-|
-
-1
+56
 
 |
 
@@ -1858,347 +1636,11 @@ Hérault
 
 |
 
-Var
+Poste de la classe fonctionnelle III
 
 |
 
-1
-
-|
-
-100
-
-|
-
-Ille-et-Vilaine
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Finistère
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Oise
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Maine-et-Loire
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Loire
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Meurthe-et-Moselle
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Calvados
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Loiret
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Puy-de-Dôme
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Marne
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Somme
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Côte-d'Or
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Doubs
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Réunion
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Corse-du-Sud
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Haut-Rhin
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Morbihan
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Haute-Savoie
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Gard
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Pyrénées-Atlantiques
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Indre-et-Loire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Saône-et-Loire
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Côtes-d'Armor
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Aisne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Vienne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Haute-Vienne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Martinique
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Guadeloupe
-
-|
-
-1
+85
 
 |
 
@@ -2207,1044 +1649,6 @@ Guadeloupe
 |
 
 Autres postes
-
-|
-
-|
-
-|
-
-Haute-Corse
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Guyane
-
-|
-
-1
-
-|
-
-80
-
-|
-
--
-
-Sous-préfet des arrondissements suivants :
-
-Poste de 1re catégorie (art. 4 du décret n° 64-260 du 14 mars 1964 modifié)
-
-|
-
-|
-
-|
-
-Meaux
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Torcy
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Palaiseau
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Saint-Germain-en-Laye
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Le Raincy
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Grasse
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Sarcelles
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Le Havre
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Aix-en-Provence
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Dunkerque
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Valenciennes
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Brest
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Lens
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Mulhouse
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Istres
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Lorient
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Saint-Nazaire
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Béziers
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Bayonne
-
-|
-
-1
-
-|
-
-120
-
-|
-
-Antony
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Nogent-sur-Marne
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Reims
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Boulogne-Billancourt
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Béthune
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Draguignan
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Mantes-la-Jolie
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Senlis
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Avesnes-sur-Helpe
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Thionville
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Douai
-
-|
-
-1
-
-|
-
-100
-
-|
-
-L'Haÿ-les-Roses
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Dieppe
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Argenteuil
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Chalon-sur-Saône
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Cherbourg
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Vienne
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Montbéliard
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Pointe-à-Pitre
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Saint-Denis
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Rambouillet
-
-|
-
-1
-
-|
-
-80
-
-|
-
-La Tour-du-Pin
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Forbach
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Les Sables-d'Olonne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Cholet
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Arles
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Castres
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Dax
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Compiègne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Villefranche-sur-Saône
-
-|
-
-1
-
-|
-
-80
-
-|
-
--
-
-Cambrai
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Boulogne-sur-Mer
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Rochefort
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Briey
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Roanne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Saint-Malo
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Saint-Quentin
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Alès
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Narbonne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Brive-la-Gaillarde
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Montluçon
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Saint-Pierre-de-la-Réunion
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Dreux
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Calais
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Autres postes
-
-|
-
-|
-
-|
-
-Sartène
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Corte
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Calvi
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Directeur de cabinet des préfets :
-
-|
-
-|
-
-|
-
-De la région Île de France
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Des Hauts de Seine
-
-|
-
-1
-
-|
-
-80
-
-|
-
-De la Seine Saint Denis
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Du Val de Marne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-De la Loire Atlantique
-
-|
-
-1
-
-|
-
-80
-
-|
-
-De la Haute Garonne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Du Bas Rhin
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Des Alpes Maritimes
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Du Pas-de-Calais
-
-|
-
-1
-
-|
-
-80
-
-|
-
-De l'Essonne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-De Seine-et-Marne
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Du Val-d'Oise
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Des Yvelines
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Autres postes
-
-|
-
-|
-
-|
-
-De la Corse-du-Sud
-
-|
-
-1
-
-|
-
-80
-
-|
-
-De la Haute-Corse
-
-|
-
-1
-
-|
-
-80
 
 |
 
@@ -3252,33 +1656,7 @@ Emplois spécifiques
 
 |
 
-|
-
-|
-
-Coordonnateur pour la sécurité auprès des préfets de Haute-Corse et de Corse-du-Sud |
-
-1
-
-|
-
-120
-
-|
-
-Sous-préfet secrétaire général de la zone de défense et de sécurité Sud
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Secrétaire général pour l'administration de la police de Versailles
+Sous-préfet chargé de mission auprès du préfet des Hauts-de-Seine
 
 |
 
@@ -3290,57 +1668,17 @@ Secrétaire général pour l'administration de la police de Versailles
 
 |
 
-Directeur adjoint du cabinet du préfet de police
-
-|
-
-1
-
-|
-
-100
-
-|
-
-Sous-préfet directeur de cabinet du préfet de police des Bouches-du-Rhône
-
-|
-
-1
-
-|
-
-80
-
-|
-
-Sous-préfet chargé de la sécurité et de la sûreté des plates-formes aéroportuaires auprès du préfet de Seine-Saint-Denis
-
-|
-
-1
-
-|
-
-80
-
-|
-
-4° Secrétaire général de la représentation du Gouvernement dans un territoire d'outre-mer :
+4. Secrétaire général de la représentation du Gouvernement dans un territoire d'outre-mer
 
 DÉSIGNATION DE L'EMPLOI
 
 |
 
-NOMBRE
-
-d'emplois
+NOMBRE D'EMPLOIS
 
 |
 
-NOMBRE
-
-de points
+NOMBRE DE POINTS
 
 par emploi
 
@@ -3369,3 +1707,5 @@ Secrétaire général de la Polynésie française
 80
 
 |
+
+.
