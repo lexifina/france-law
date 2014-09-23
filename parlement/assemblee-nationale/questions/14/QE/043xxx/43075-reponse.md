@@ -1,0 +1,9 @@
+# Réponse à la question n° 43075
+
+- Question : [43075](43075.md) — Question n° 43075 — recours; modalités
+
+## Réponse
+
+*JO du 2014-09-23*
+
+Les recommandations du Défenseur des droits, datées du 13 juin 2012, notant les difficultés rencontrées par les contrevenants pour contester leurs amendes générées par la rédaction des formulaires de requête en exonération au stade de l'avis de contravention et des formulaires de réclamation au stade de l'amende forfaitaire majorée, ont été prises en compte. Ainsi, une refonte des formulaires de requête en exonération et de réclamation initiée en juin 2013 a été opérée, afin de permettre aux usagers de disposer d'une information claire sur les modalités et les conséquences de la contestation, notamment en termes de recours, et de cocher les cases correspondant clairement à leur situation. Le formulaire à remplir par le contrevenant a fait l'objet d'une réécriture afin de gérer sur un espace restreint l'ensemble des informations permettant un traitement informatique de masse, une lecture aisée des différents cas de contestation et un remplissage approprié, que ce soit dans le cadre du contrôle automatisé ou dans le cadre du procès-verbal électronique, avec ou sans interception. Les modalités pratiques pour contester l'avis de contravention sont développées au verso de la requête à remplir, détaillant les pièces justificatives à fournir et les suites possibles d'une réclamation recevable après examen des motifs soit par l'Officier du ministère public ou après jugement par le juge de proximité vers lequel l'affaire aura été renvoyée. D'ores et déjà, les modalités de contestation ainsi que l'explication des termes pouvant présenter des difficultés sont offertes à tout usager sur le site Internet www. antai. fr. Un centre d'appel gratuit (0 811 10 20 30), situé en France, répond par ailleurs aux questions soulevées par les personnes ayant reçu un avis de contravention et les accompagne dans leurs démarches.
