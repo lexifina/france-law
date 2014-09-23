@@ -1,0 +1,9 @@
+# Réponse à la question n° 61342
+
+- Question : [61342](61342.md) — Question n° 61342 — entretien du ministre; bilan
+
+## Réponse
+
+*JO du 2014-09-23*
+
+En marge des célébrations du 14 juillet, auxquelles la Slovénie participait, le ministre des affaires étrangères et du développement international s'est entretenu avec Mme Alenka Bratusek, Premier ministre de Slovénie. A cette occasion, ils se sont félicités de la qualité des liens unissant les deux pays, illustrée par les visites au plus haut niveau qui se sont tenues au cours des derniers mois : déplacement à Paris du président slovène, M. Borut Pahor, les 17 avril ; visite du secrétaire d'Etat aux affaires européennes en Slovénie le 14 mai, suivie du déplacement du Président de la République en Slovénie le 25 juillet, dans le cadre de la relance du processus de coopération régionale de Brdo. Ils ont salué le dynamisme du partenariat stratégique signé en 2011 et sont convenus de poursuivre le renforcement des relations bilatérales, notamment sur le plan économique. Les échanges ont également porté sur la préparation et les enjeux, en matière de suivi et de transparence de l'aide, de la conférence des donateurs au profit de la Serbie et de la Bosnie-Herzégovine, co-organisée par l'Union européenne, la France et la Slovénie, à Bruxelles le 16 juillet dernier. Cette conférence, qui a permis de réunir plus d'un milliard d'euros pour venir en aide aux victimes des graves inondations du mois de mai dans ces deux pays et financer les besoins de la reconstruction, a témoigné une nouvelle fois de l'excellence des relations entre la France et la Slovénie. Enfin, l'entretien du ministre des affaires étrangères et du développement international avec Mme Alenka Bratusek a permis d'aborder l'évolution de la situation politique régionale, en particulier en Bosnie-Herzégovine.
