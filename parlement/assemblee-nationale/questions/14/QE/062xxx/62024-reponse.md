@@ -1,0 +1,9 @@
+# Réponse à la question n° 62024
+
+- Question : [62024](62024.md) — Question n° 62024 — entretien avec un envoyé spécial; bilan
+
+## Réponse
+
+*JO du 2014-09-23*
+
+L'entretien entre le ministre des affaires étrangères et du développement international et le représentant spécial du secrétaire général des Nations unies pour le Mali a permis à ce dernier d'informer les autorités françaises de la teneur de la première phase de négociations inter-maliennes qui se sont déroulées à Alger en juillet et auxquelles le représentant spécial a participé. L'ouverture de ces négociations entre les autorités de Bamako et les groupes armés rebelles répond aux attentes de la communauté internationale et notamment du Conseil de sécurité. Elles ont permis d'aboutir à la signature d'une feuille de route et d'une déclaration de cessation des hostilités. Le rôle positif de l'Algérie doit être souligné. Il n'en reste pas moins que les partenaires internationaux et régionaux du Mali, notamment la CEDEAO, l'Union africaine et l'Union européenne, doivent rester mobilisés pour accompagner les parties vers un accord de paix global et définitif qui permettra de stabiliser le nord Mali et le Sahel. Il appartient aussi aux parties elles-mêmes d'exposer leurs projets respectifs, dans le respect de la souveraineté et l'intégrité du Mali. La situation sur le terrain reste volatile. Les groupes terroristes poursuivent par ailleurs leurs actions. Le représentant spécial a également fait le point sur le déploiement de la mission des Nations unies au Mali, qui compte désormais près de 10.000 soldats et policiers, et s'est félicité de la coopération avec les forces françaises. Le ministre des affaires étrangères et du développement international a salué l'action du représentant spécial et lui a réitéré le soutien de la France.
