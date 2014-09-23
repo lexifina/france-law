@@ -1,0 +1,9 @@
+# Réponse à la question n° 46003
+
+- Question : [46003](46003.md) — Question n° 46003 — gestion des milieux aquatiques; EPCI; compétences
+
+## Réponse
+
+*JO du 2014-09-23*
+
+La loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles (MAPTAM) crée aux articles 56 et suivants la compétence de « gestion des milieux aquatiques et de prévention des inondations ». Cette compétence est attribuée à titre exclusif aux communes et, par transfert, aux établissements publics de coopération intercommunale (EPCI) à fiscalité propre, à compter du 1er janvier 2016. Il ne s'agit pas de remettre en cause l'obligation d'entretien des cours d'eau des propriétaires riverains, définie à l'article L. 215-14 du code de l'environnement. La collectivité compétente n'a vocation à intervenir qu'en cas de carence de ceux-ci ou pour un autre motif d'intérêt général, comme c'était le cas avant que la compétence du bloc communal soit clarifiée par la loi MAPTAM. L'article 59 de la loi prévoit ainsi que les communes et les établissements publics de coopération intercommunale à fiscalité propre exercent leur compétence sans préjudice de l'obligation d'entretien régulier du cours d'eau par le propriétaire riverain prévue à l'article L. 215-14 du code de l'environnement, ni des missions exercées par les associations syndicales de propriétaires. Par ailleurs, il est prévu d'assortir cette clarification des compétences d'une ressource nouvelle affectée qui ne revêt aucun caractère obligatoire, mais sera de nature à permettre le financement des charges de fonctionnement et d'investissement, y compris celles constituées par le coût de renouvellement des installations ainsi que par le remboursement des annuités des emprunts, résultant de l'exercice de la compétence de « gestion des milieux aquatiques et de prévention des inondations ».
