@@ -1,0 +1,9 @@
+# Réponse à la question n° 60615
+
+- Question : [60615](60615.md) — Question n° 60615 — hydratation; promotion
+
+## Réponse
+
+*JO du 2014-09-23*
+
+Sur la base des travaux scientifiques menés par l'agence française de sécurité sanitaire des aliments - AFSSA, devenue agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) -, le programme national nutrition santé (PNNS) recommande de boire chaque jour de « l'eau à volonté ». En effet les besoins varient selon divers facteurs, comme l'âge, la saison, l'activité physique. La sensation de soif est le signe que notre corps manque d'eau et il est important d'en boire suffisamment chaque jour. Le PNNS mentionne également comme repère de limiter la consommation de produits sucrés, notamment les boissons sucrées. Le PNNS a produit de nombreux outils et mécanismes incitatifs, servant de support aux actions. Le repère « eau à volonté » est présent dans les différentes affiches, ainsi que dans les guides nutrition de l'institut national de prévention et d'éducation pour la santé (INPES) diffusés à plus de 20 000 exemplaires. Une fiche repère « de l'eau sans modération » a été largement diffusée à la population. L'hydratation sur les lieux de travail fait l'objet d'une réglementation particulière dans le code du travail aux articles R.4225-2 à R.4225-4. L'obligation principale de l'employeur est de mettre à la disposition des travailleurs de l'eau potable et fraîche. L'ANSES a été saisie en 2012 par la direction générale de la santé pour actualiser les repères de consommations alimentaires du PNNS, dont celui de l'eau pour les différents groupes de population. Le rapport est attendu à la fin de l'année 2014 et il fournira les bases pour actualiser, en 2015, les outils de transmission des messages liés aux repères actualisés.
