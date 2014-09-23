@@ -1,0 +1,9 @@
+# Réponse à la question n° 52401
+
+- Question : [52401](52401.md) — Question n° 52401 — formation; revendications
+
+## Réponse
+
+*JO du 2014-09-23*
+
+L'inscription de la formation conduisant au diplôme d'Etat d'ergothérapeute dans le schéma de l'espace européen de l'enseignement supérieur (licence-master-doctorat) permet la délivrance du grade de licence aux titulaires de ce diplôme qui auront entrepris leurs études à compter de l'année universitaire 2011-2012, conformément à l'annexe du décret n° 2010-1123 modifié du 23 septembre 2010 relatif à la délivrance du grade de licence aux titulaires de certains titres ou diplômes relevant du livre III de la quatrième partie du code de la santé publique. Le décret du 23 septembre 2010 précité prévoit dans son article 2 la signature d'une convention tripartite entre l'institut de formation en ergothérapie, l'université et le conseil régional. Cette convention a pour finalité notamment de s'assurer que des enseignants-chercheurs participent aux enseignements et aux jurys. Leur participation effective justifie que le grade de licence soit délivré aux titulaires du diplôme d'Etat d'ergothérapeute. Dans le cadre du comité de suivi de la réforme de la formation conduisant au diplôme d'Etat d'ergothérapeute mis en place par la direction générale de l'offre de soins au ministère des affaires sociales et de la santé, un indicateur de suivi de l'état d'avancement des signatures des conventions est régulièrement mis à jour. En effet, le grade de licence étant conféré au diplôme et non à chaque institut, il est indispensable que tous les instituts conventionnent pour que le grade soit délivré à tous les étudiants de la promotion quel que soit l'institut de formation dont ils relèvent. Tout est mis en oeuvre afin de permettre aux étudiants diplômés en 2014 d'obtenir un diplôme conférant le grade de licence.
