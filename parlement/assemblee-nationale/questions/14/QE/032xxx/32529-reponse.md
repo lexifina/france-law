@@ -1,0 +1,9 @@
+# Réponse à la question n° 32529
+
+- Question : [32529](32529.md) — Question n° 32529 — organisation territoriale; Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2014-09-23*
+
+Le pilotage des services et des opérateurs intervenant dans une même politique publique est une priorité affirmée dans une circulaire du Premier ministre du 7 janvier 2013 selon laquelle les réformes portées dans les programmes ministériels de simplification doivent viser l'intégralité du paysage ministériel incluant les agences et opérateurs sous tutelle. Il ne se traduit pas par la création de comités nationaux de pilotage mais par le rôle assigné aux secrétaires généraux des ministères et au niveau déconcentré, par celui des préfets. Le décret n° 2014-834 du 24 juillet 2014 confère aux secrétaires généraux une mission de conseil et d'évaluation concernant le recours par les ministères aux agences et aux opérateurs ainsi que pour l'exercice de la tutelle sur les établissements publics rattachés au ministère. Les secrétaires généraux doivent également veiller à la qualité des relations qu'entretiennent l'administration centrale et les services déconcentrés et peuvent être chargés, à ce titre, de piloter ou de coordonner les relations avec tout ou partie de ces services. Au niveau déconcentré, le préfet veille également à la coordination de l'action des opérateurs avec celle des services déconcentrés, au besoin en s'appuyant, quand les textes l'ont prévu, sur sa qualité de délégué territorial de certains établissements publics comportant un échelon territorial. Enfin, le conseil des ministres du 2 juillet a acté le lancement d'une vaste revue des missions, qui doit permettre de réinterroger à la fois la pertinence de l'intervention de l'Etat dans certains domaines et notamment ceux ayant fait l'objet de décentralisations, mais également ses modes d'intervention.
