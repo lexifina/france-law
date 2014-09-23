@@ -1,0 +1,9 @@
+# Réponse à la question n° 63405
+
+- Question : [63405](63405.md) — Question n° 63405 — fourniture de matériels; Liban; perspectives
+
+## Réponse
+
+*JO du 2014-09-23*
+
+La France est profondément attachée à la préservation de la stabilité du Liban, de sa souveraineté, de son indépendance et de son intégrité. Face aux risques de déstabilisation liés aux répercussions du conflit syrien, la France soutient les institutions libanaises, à commencer par l'armée qui est le garant de l'unité du Liban et doit être renforcée. C'est le sens de l'initiative franco-saoudienne de renforcement capacitaire des forces armées libanaises, qui permettra d'apporter à ces dernières une aide déterminante. La visite à Paris du prince héritier d'Arabie Saoudite, du 1er au 4 septembre 2014, a été l'occasion d'avancer sur ce dossier. Il s'agit d'une procédure complexe au vu des besoins concernés. La France se félicite que l'accord soit sur le point d'être finalisé. Il permettra à l'armée libanaise d'assurer sa mission de défense du territoire et de lutte contre le terrorisme. A l'heure où le pays accueille plus d'un million de réfugiés et subit les conséquences de la crise syrienne voisine, le Liban a plus que jamais besoin de sécurité. Au-delà de cette initiative, la France se mobilise également à titre bilatéral ainsi qu'au sein du groupe international de soutien au Liban (GIS), créé à son initiative l'an dernier et dont le soutien à l'armée représente l'une des priorités. Une réunion du GIS se tiendra à New-York le 26 septembre prochain en marge de l'Assemblée générale des Nations unies. Le ministre des affaires étrangères et du développement international y participera. La France ne ménagera aucun effort pour apporter tout son soutien au Liban et travailler avec lui pour relever les défis auxquels il est confronté.
