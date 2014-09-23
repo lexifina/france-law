@@ -1,0 +1,9 @@
+# Réponse à la question n° 21352
+
+- Question : [21352](21352.md) — Question n° 21352 — hébergement d'urgence; moyens
+
+## Réponse
+
+*JO du 2014-09-23*
+
+La politique d'hébergement et d'accès au logement des personnes sans domicile ou mal logées est une priorité forte du Gouvernement pour faire en sorte que chacun puisse avoir accès à une offre de logement diversifiée, de qualité et adaptée à ses besoins. Cette volonté du Gouvernement se traduit depuis 2013 par la mise en oeuvre du plan pluriannuel contre la pauvreté et pour l'inclusion sociale adopté par le comité interministériel de lutte contre l'exclusion (CILE), le 21 janvier 2013. Ce plan a arrêté un certain nombre de mesures en matière d'hébergement et de logement pour l'année 2013, année de mobilisation particulière devant conduire à une transformation durable et en profondeur de la politique d'hébergement et d'accès au logement. Il contient à la fois des mesures en matière d'hébergement d'urgence et d'accès au logement dans le cadre d'une politique intégrée de l'accueil, de l'hébergement et de l'accès au logement prioritairement tournée vers le logement. Dans ce cadre les besoins exprimés par la région Midi-Pyrénées (dont le département du Lot) ont été pris en considération et la région Midi-Pyrénées a reçu des moyens complémentaires pour lui permettre de renforcer sa stratégie de prise en charge des personnes sans domicile. Ces moyens complémentaires ont été pérennisés en 2014, et la région bénéficie ainsi de plus de 2,4M€ supplémentaires par rapport à la notification initiale de 2013. En outre, d'ici la fin de l'année l'ensemble des départements lanceront la démarche de réalisation des diagnostics territoriaux prévus par le plan pluriannuel. Ces diagnostics permettront d'affiner la connaissance des besoins des personnes les plus démunies, de les comparer à l'offre existante et de définir les évolutions nécessaires de cette offre.
