@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210543
+
+- Question : [SEQ140210543](seq140210543.md) — Conditions d'éligibilité à l'éco-prêt à taux zéro
+
+## Réponse
+
+*Logement, égalité des territoires et ruralité, JO du 2014-09-25, page 2217*
+
+L'éco-prêt à taux zéro (éco-PTZ) est accessible à tous les propriétaires d'un logement utilisé en tant que résidence principale, que ce soit par le propriétaire lui-même ou que ce dernier le mette en location, pour financer des travaux d'amélioration de la performance énergétique, à savoir : soit des travaux correspondant à une combinaison (un « bouquet de travaux ») d'au moins deux actions efficaces d'amélioration de la performance énergétique du logement ou du bâtiment concerné ; soit des travaux permettant d'atteindre une performance énergétique globale minimale du logement en limitant la consommation d'énergie du bâtiment pour le chauffage, l'eau chaude sanitaire, le refroidissement, l'éclairage et les auxiliaires en dessous d'un certain seuil ; soit des travaux de réhabilitation de systèmes d'assainissement non collectif, par des dispositifs ne consommant pas d'énergie. S'agissant d'un prêt octroyé par les établissements de crédit ayant signé une convention avec l'État pour le distribuer, ce produit s'inscrit dans le cadre législatif et réglementaire plus global de l'emprunt bancaire « de droit commun », qui n'interdit en aucun cas la possibilité de faire participer des co-emprunteurs. Par ailleurs, aucune condition de ressources n'est exigée pour le bénéfice de ce dispositif. Il existe en revanche une condition de ressources pour pouvoir cumuler l'éco-PTZ avec le crédit d'impôt développement durable (CIDD) - dans ce cas, les ressources de l'emprunteur sont appréciées au regard des ressources de l'ensemble du ménage. L'éco-PTZ peut donc d'ores et déjà financer des travaux de réhabilitation de systèmes d'assainissement non collectif, quelle que soit la composition du ménage ou ses ressources.
