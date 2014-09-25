@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140612093
+
+- Question : [SEQ140612093](seq140612093.md) — Demande d'ouverture d'une mission en vue d'instaurer le vote obligatoire
+
+## Réponse
+
+*Intérieur, JO du 2014-09-25, page 2209*
+
+Le débat sur le vote obligatoire est récurrent, une proposition de loi visant à rendre obligatoire l'exercice du droit de vote ayant en dernier lieu été déposée en ce sens à la présidence du Sénat le 6 juin 2014. À l'exception des élections sénatoriales, le suffrage n'est pas obligatoire en France. Seul son caractère toujours universel, égal et secret est affirmé par l'article 3 de la Constitution. L'exercice du droit de vote est une faculté laissée à l'appréciation des citoyens. Il s'agit d'une tradition républicaine et démocratique française qu'il n'est pas envisagé de remettre en question. En effet, les citoyens ne disposent pas seulement du droit de vote, ils disposent de son corollaire, le droit de s'abstenir de voter, qui constitue une forme de liberté d'expression. Par ailleurs, si certains pays comme la Belgique l'ont adopté, l'instauration du suffrage obligatoire en France soulèverait des difficultés particulières, dans son principe comme pour son application. Les sanctions dont il serait assorti, bien souvent pécuniaires comme prévues par la proposition de loi susvisée, seraient probablement rarement mises en œuvre. Il en va ainsi en Belgique où aucun parquet ne poursuit les citoyens qui n'accomplissent pas leur devoir d'électeur, en raison notamment de l'encombrement des tribunaux. De plus, il apparaît que, dans les pays où le vote est obligatoire, une proportion importante d'électeurs persiste à s'abstenir de voter. Le vote obligatoire ne permet donc pas de résoudre le problème de la non-participation de nombreux citoyens à la vie politique, ce qui conduit certains pays à se poser la question de son maintien (c'est le cas de la Belgique) et d'autres à en décider la suppression (Italie).
