@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511819
+
+- Question : [SEQ140511819](seq140511819.md) — Rentrée scolaire 2014-2015
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2014-09-25, page 2202*
+
+Le calendrier scolaire 2014-2015 fixé par l'arrêté du 21 janvier 2014 (Journal officiel du 24 janvier 2014) prévoyait une rentrée des enseignants le vendredi 29 août 2014 et une rentrée scolaire des élèves le lundi 1er septembre 2014. L'organisation de la rentrée scolaire se heurtant à des difficultés organisationnelles du fait du nombre important de personnels rejoignant l'éducation nationale pour l'année scolaire, l'annexe 1 relative au calendrier scolaire 2014-2015 de l'arrêté précité a été partiellement modifiée pour décaler la rentrée des enseignants au lundi 1er septembre 2014 et la rentrée scolaire des élèves au mardi 2 septembre 2014 (arrêté du 1er juillet 2014 modifiant l'arrêté du 21 janvier 2014 fixant le calendrier scolaire des années 2014-2015, 2015-2016 et 2016-2017, Journal officiel du 4 juillet 2014). Les collectivités territoriales et les associations de parents d'élèves ont été associés à l'élaboration du projet d'arrêté dans le cadre de la consultation du Conseil supérieur de l'éducation le 12 juin 2014. Conformément à l'article R. 231-2 du code de l'éducation, le Conseil supérieur de l'éducation se compose notamment de neuf membres représentant les parents d'élèves de l'enseignement public, de trois membres représentant les parents d'élèves des établissements d'enseignement privés, d'un membre représentant les associations familiales et de douze membres représentant les élus des collectivités territoriales. Comme précisé par le communiqué de presse du ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche du 16 mai 2014, « le ministre installera un groupe de travail destiné à anticiper les éventuelles difficultés de calendrier de rentrée pour les prochaines années. ».
