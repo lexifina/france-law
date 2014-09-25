@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140712655
+
+- Question : [SEQ140712655](seq140712655.md) — Modalités de décompte des apprentis dans les plafonds d'emplois ministériels et plus particulièrement au sein du ministère de la défense
+
+## Réponse
+
+*Défense, JO du 2014-09-25, page 2184*
+
+Le ministère de la défense emploie actuellement 166 jeunes gens titulaires d'un contrat d'apprentissage, soit près d'un quart des effectifs d'apprentis de la fonction publique d'État. Consécutivement à la parution du rapport d'inspections intitulé « Les freins non financiers au développement de l'apprentissage » évoqué par l'honorable parlementaire, une réunion interministérielle relative à l'apprentissage dans la fonction publique d'État s'est déroulée le 3 juillet 2014 sous la présidence du cabinet du Premier ministre. À la suite de cette rencontre, il a été décidé d'exclure les apprentis du périmètre des plafonds d'emplois des ministères. De plus, le ministère des finances et des comptes publics s'est vu confier le soin de proposer, en liaison avec le ministère de la décentralisation et de la fonction publique, un mécanisme incitant à développer l'apprentissage au sein de la fonction publique d'État. Enfin, la direction générale de l'administration et de la fonction publique réunira prochainement un groupe de travail constitué des directions ministérielles chargées des ressources humaines en vue d'identifier l'ensemble des leviers permettant de contribuer au recrutement de 10 000 apprentis d'ici à la rentrée scolaire 2016. Dans un contexte marqué par une déflation de plus de 7 000 personnels civils au cours de la période couverte par la loi de programmation militaire pour les années 2014 à 2019, le ministère de la défense entend pour sa part poursuivre son effort en faveur de l'apprentissage et inscrire pleinement son action dans le cadre de la politique volontariste annoncée par le président de la République lors de la conférence sociale du 7 juillet dernier.
