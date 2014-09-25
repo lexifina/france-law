@@ -2,11 +2,7 @@
 
 MILITAIRES NON OFFICIERS
 
-Section 1
-
-Concours d'admission aux Ecoles préparatoires de la marine nationale
-
-Les candidats à l'admission dans une école préparatoire de la marine nationale doivent présenter lors du dépôt de leur candidature, le certificat d'aptitude correspondant aux conditions suivantes :
+Section 1 : Concours d'admission aux écoles préparatoires de la marine nationale
 
 APTITUDE
 
@@ -84,13 +80,11 @@ Ecole des mousses
 
 |
 
-Section 2
+Les candidats à l'admission dans une école préparatoire de la marine nationale doivent présenter, lors du dépôt de leur candidature, le certificat d'aptitude correspondant aux conditions suivantes :
 
-Conditions médicales d'aptitude pour l'admission dans les métiers et spécialités des équipages de la flotte
+Section 2 : Conditions d'aptitude pour l'admission dans les métiers et spécialités des équipages de la flotte
 
 I. - Métiers des quartiers-maîtres et matelots de la flotte
-
-L'aptitude exigée des candidats à la souscription d'un engagement en qualité de militaire du rang est celle du métier considéré, telle que définie dans le tableau ci-dessous :
 
 CODE
 
@@ -288,11 +282,51 @@ Maintenance aéronautique
 
 |
 
-MOOPSNAV
+MONAV
 
 |
 
-Opérations navales
+Navigation
+
+|
+
+2
+
+|
+
+2
+
+|
+
+2
+
+|
+
+3
+
+|
+
+2
+
+|
+
+2
+
+|
+
+1
+
+|
+
+(5)
+
+|
+
+MOOPS
+
+|
+
+Opérations
 
 |
 
@@ -490,15 +524,17 @@ Restauration
 
 (1) Taille ≥ 1,60 m pour le personnel masculin et ≥ 1,57 m pour le personnel féminin ; absence de pieds plats ou creux avec troubles de la marche ; intégrité du rachis à l'examen clinique ; absence de toute gêne fonctionnelle à l'effort et de contre-indications aux activités physiques intenses.
 
-(2) Aptitudes aux manœuvres de force nécessaire à l'exercice de la spécialité.
+(2) Absence de contre-indication ou de restriction à l'entrainement physique militaire et sportif.
 
-(3) Y = 5 et C = 3 pour les MOOPSNAV/SIC.
+(3) Y = 5 et C = 3 pour les MOOPS/SIC.
 
-(4) Absence d'affection dermatologique des mains.
+(4) Respect des conditions spécifiques d'aptitude médicales à la manipulation et la fabrication de denrées destinées à la restauration collective.
 
 (5) Absence de bégaiement exigée.
 
 |
+
+L'aptitude exigée des candidats à la souscription d'un engagement en qualité de militaire du rang, est celle du métier considéré, telle que définie dans le tableau ci-dessous :
 
 II. - Spécialités d'officier-marinier
 
@@ -736,7 +772,7 @@ Contrôleur d'aéronautique
 
 |
 
-Le candidat doit en outre souscrire aux critères définis par les arrêtés du 16 mai 2008 et du 25 février 2012 susvisés
+Le candidat doit en outre souscrire aux critères définis par les arrêtés du 16 mai 2008 et du 25 février 2012 susvisés.
 
 |
 
@@ -776,7 +812,7 @@ Détecteur anti-sous-marins
 
 |
 
-(2) (7)
+(4)
 
 |
 
@@ -802,7 +838,9 @@ Détecteur navigateur aérien
 
 |
 
-(7) Cf. annexe 3
+(4)
+
+Textes spécifiques
 
 |
 
@@ -842,7 +880,7 @@ Détecteur
 
 |
 
-(2) (7)
+(4)
 
 |
 
@@ -882,7 +920,7 @@ Electronicien d'armes
 
 |
 
-(2) (7)
+(4)
 
 |
 
@@ -908,7 +946,9 @@ Electrotechnicien de bord d'aéronautique
 
 |
 
-(7) Cf. annexe 3
+(4)
+
+Textes spécifiques
 
 |
 
@@ -972,7 +1012,7 @@ Elève officier pilote de l'aéronautique navale
 
 |
 
-Cf. annexe 3
+(4) et textes spécifiques
 
 |
 
@@ -996,7 +1036,7 @@ Entraînement militaire physique et sportif
 
 |
 
-5
+3
 
 |
 
@@ -1004,7 +1044,7 @@ Entraînement militaire physique et sportif
 
 |
 
-2
+3
 
 |
 
@@ -1012,7 +1052,7 @@ Entraînement militaire physique et sportif
 
 |
 
-(3)
+et texte spécifique
 
 |
 
@@ -1052,7 +1092,7 @@ Energie nucléaire
 
 |
 
-Des critères complémentaires sont en outre définis par instruction
+Textes spécifiques
 
 |
 
@@ -1092,7 +1132,7 @@ Fusilier
 
 |
 
-(4)
+(2)
 
 |
 
@@ -1132,7 +1172,7 @@ Gérant de collectivité
 
 |
 
-(5)
+(3)
 
 |
 
@@ -1326,7 +1366,7 @@ Marin pompier de Marseille
 
 |
 
-(1) (7)
+(1) (4)
 
 |
 
@@ -1366,7 +1406,7 @@ Marin pompier
 
 |
 
-(1) (7)
+(1) (4)
 
 |
 
@@ -1512,7 +1552,7 @@ Musicien de la flotte
 
 |
 
-5
+3
 
 |
 
@@ -1523,8 +1563,6 @@ Musicien de la flotte
 1
 
 |
-
-(6)
 
 |
 
@@ -1564,7 +1602,7 @@ Navigateur-timonier
 
 |
 
-(7)
+(4)
 
 |
 
@@ -1603,6 +1641,8 @@ Plongeur démineur
 1
 
 |
+
+Textes spécifiques
 
 |
 
@@ -1680,23 +1720,17 @@ Systèmes d'information et des télécommunications
 
 |
 
-(2)
+(4)
 
 |
 
-(1) Aptitude aux manœuvres de force nécessaire à l'exercice de la spécialité.
+(1) Absence de contre-indication ou de restriction à l'entrainement physique militaire et sportif.
 
-(2) Absence d'antécédent de ligamentoplastie de ligament croisé et absence de luxation ou d'antécédent de luxation gléno-humérale.
+(2) Taille ≥ 1,60 m pour le personnel masculin et ≥ 1,57 m pour le personnel féminin ; absence de pieds plats ou creux avec troubles de la marche ; intégrité du rachis à l'examen clinique ; absence de toute gêne fonctionnelle à l'effort et de contre-indications aux activités physiques intenses.
 
-(3) Prendre en compte le calcul de la masse graisseuse en plus de l'IMC.
+(3) Respect des conditions spécifiques d'aptitude médicales à la manipulation et la fabrication de denrées destinées à la restauration collective.
 
-(4) Taille ≥ 1,60 m pour le personnel masculin et ≥ 1,57 m pour le personnel féminin ; absence de pieds plats ou creux avec troubles de la marche ; intégrité du rachis à l'examen clinique ; absence de toute gêne fonctionnelle à l'effort et de contre-indications aux activités physiques intenses.
-
-(5) Absence d'affection dermatologique des mains.
-
-(6) Profil dérogatoire à l'aptitude SAM compte tenu des caractéristiques d'emploi uniquement à terre.
-
-(7) Absence de bégaiement exigée.
+(4) Absence de bégaiement exigée.
 
 |
 
@@ -1744,7 +1778,7 @@ Voile
 
 |
 
-Sportif de haut niveau - voile
+Sportif de haut niveau - Voile
 
 |
 
@@ -1764,7 +1798,7 @@ Sportif de haut niveau - voile
 
 |
 
-5
+3
 
 |
 
