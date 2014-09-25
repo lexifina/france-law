@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140611921
+
+- Question : [SEQ140611921](seq140611921.md) — Application des dispositions transitoires relatives aux plans locaux d'urbanisme en cours de procédure
+
+## Réponse
+
+*Logement, égalité des territoires et ruralité, JO du 2014-09-25, page 2217*
+
+Les dispositions transitoires prévues au II de l'article 137 de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (ALUR) permettent aux établissements publics de coopération intercommunale (EPCI), ayant engagé l'élaboration, la révision ou la modification de leur plan local d'urbanisme (PLU) à la date de la publication de la loi ALUR, d'opter pour poursuivre la procédure, selon les dispositions en vigueur antérieurement (en dehors des articles L. 123-1-1 et L. 600-9 du code de l'urbanisme qui s'y appliquent dans leur présente rédaction). Lesdits PLU seront mis en conformité avec les dispositions de la loi ALUR lors de leur prochaine révision. Ces dispositions transitoires s'appliquent effectivement uniquement aux procédures d'élaboration ou d'évolution de PLU engagées par des EPCI et en cours à la date de publication de la loi. Elles ne s'appliquent pas aux procédures de PLU engagées par des communes. Plusieurs mesures de la loi ALUR concernent les PLU. Elles entrent en vigueur selon des modalités qui sont précisées dans une fiche disponible sur le site internet du ministère du logement, de l'égalité des territoires et de la ruralité dédié à la loi ALUR. Il est à noter que l'entrée en vigueur de plusieurs de ces mesures est immédiate comme notamment la suppression du COS ou de la taille minimale de parcelles. Dans ces conditions, il convient donc de tenir compte de la loi ALUR pour les PLU en cours d'élaboration, y compris ceux déjà arrêtés mais non encore approuvés.
