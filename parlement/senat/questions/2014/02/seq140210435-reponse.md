@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140210435
+
+- Question : [SEQ140210435](seq140210435.md) — Implantation des brigades de gendarmerie en zone rurale dans la Creuse
+
+## Réponse
+
+*Intérieur, JO du 2014-09-25, page 2206*
+
+Le maillage territorial de la gendarmerie doit s'adapter en permanence à l'évolution de la délinquance, aux contraintes géographiques et humaines. Les réformes menées ces dernières années avec, en particulier, la création des communautés de brigades, ont renforcé son efficacité et sa réactivité. Les zones de compétences des unités de gendarmerie doivent correspondre à des bassins de population et de délinquance cohérents, sans se limiter systématiquement aux limites administratives. Le département de la Creuse dispose de huit communautés de brigades et d'une brigade territoriale autonome (soit 25 brigades au total) qui couvrent l'ensemble de son territoire. La population en zone de compétence de la gendarmerie s'établit à 108 997 habitants (population légale 2010 - données INSEE pour 2014) et le nombre de militaires des brigades territoriales de la gendarmerie est de 175. Ainsi, le ratio nombre d'habitants/ militaire s'établit à 622,84, ce qui classe la Creuse comme l'un des départements les mieux pourvus. En effet, la moyenne nationale s'établit à 925,67 habitants/gendarme. Par ailleurs, avec un taux de criminalité, calculé sur la base des atteintes aux biens de l'année 2013, s'élevant à 10,43 faits pour 1 000 habitants par an, la Creuse figure parmi les trois départements français les moins confrontés aux phénomènes de délinquance (la moyenne nationale métropolitaine est de 21,55). Pour l'heure, la gendarmerie apporte une attention toute particulière à l'adaptation et au maintien de son maillage territorial et, pour ce qui concerne le département de la Creuse, n'envisage pas de réduire les effectifs des unités territoriales.
