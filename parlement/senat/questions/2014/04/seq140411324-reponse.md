@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140411324
+
+- Question : [SEQ140411324](seq140411324.md) — Résorption des zones blanches
+
+## Réponse
+
+*Économie, industrie et numérique, JO du 2014-09-25, page 2192*
+
+Afin de compléter la couverture mobile en 2G, le programme « zones blanches » a été initié par la signature, le 15 juillet 2003, d'une convention nationale entre l'État, l'autorité de régulation des communications électroniques et des postes (ARCEP), l'assemblée des départements de France (ADF), l'association des maires de France (AMF) et les trois opérateurs mobiles « historiques » (Orange, SFR et Bouygues Telecom). Cofinancé par l'État, les opérateurs mobiles et les collectivités territoriales, ce programme vise à apporter la couverture mobile dans les centres-bourgs de 3 073 communes, principalement situées en zone rurale, qui n'étaient couvertes par aucun opérateur de téléphonie mobile. En 2008, un nouveau recensement a permis d'identifier 364 nouvelles communes additionnelles qui ont été prises en compte dans le programme complémentaire. Au 28 février 2014, il reste 107 communes à couvrir, 22 communes au titre du programme initial et 85 au titre du programme complémentaire. Le programme est donc réalisé à plus de 96 %. S'agissant du cas spécifique de la couverture des communes de Saint-Hubert et de Bettelainville par Orange et SFR, Orange souligne qu'il est présent sur le pylône de Bouygues Telecom depuis avril 2013 et SFR indique que la commune de Bettelainville est couverte par son réseau mais qu'il ne couvre pas pour le moment la commune de Saint-Hubert. Par ailleurs, les cartes de couverture des opérateurs mobiles sont publiées sur les sites internet de chacun des opérateurs et les informations sur les sites d'émission des opérateurs mobiles sont disponibles sur le site http ://www. cartoradio. fr de l'agence nationale des fréquences (ANFR).
