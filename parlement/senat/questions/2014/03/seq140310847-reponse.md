@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140310847
+
+- Question : [SEQ140310847](seq140310847.md) — Soutien psychologique aux agents d'autoroute confrontés à des accidents graves
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2014-09-25, page 2217*
+
+Une instruction relative à la sécurité des agents de l'État vis-à-vis des risques liés à la circulation routière lors de leurs interventions, a été co-signée le 11 octobre 2013 par le directeur général des infrastructures, des transports et de la mer ainsi que par le secrétaire général du ministère de l'écologie, du développement durable et de l'énergie et le ministère de l'égalité des territoires et du logement. Cette instruction demande aux services, en cas d'accident lié à la circulation routière, de mettre en œuvre des mesures d'accompagnement pour les agents concernés et leurs collègues. Les directions interdépartementales des routes (DIR) avaient déjà mis en œuvre des dispositifs de soutien psychologique aux agents avant la publication de l'instruction. La publication de l'instruction ministérielle a permis de systématiser ces dispositifs et de préparer un bilan annuel qui est présenté aux comités d'hygiène et de sécurité et des conditions de travail (CHSCT), tant au niveau des services qu'au niveau central. La mise en œuvre de l'instruction ministérielle du 11 octobre 2013 a été facilitée par la création des ateliers de la sécurité. Il s'agit, une fois par an, de confronter les expériences des agents afin qu'ils puissent partager les bonnes pratiques mises en œuvre dans les différents services routiers. À ce titre, le « quart d'heure sécurité » hebdomadaire a été présenté aux ateliers de la sécurité et généralisé dans les services : il permet à chaque équipe de préparer les interventions en s'appuyant sur le « débriefing » des évènements de la semaine.
