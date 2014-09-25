@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511517
+
+- Question : [SEQ140511517](seq140511517.md) — Résorption de l'emploi précaire dans l'enseignement supérieur
+
+## Réponse
+
+*Éducation nationale, enseignement supérieur et recherche, JO du 2014-09-25, page 2202*
+
+La loi n° 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique ne concerne pas la catégorie A+, généralement exclue des dispositifs de « déprécarisation ». L'accès au corps des enseignants-chercheurs n'a donc pas été ouvert par la voie de modes de recrutement réservés prévue par cette loi. Les enseignants-chercheurs sont recrutés notamment parmi les enseignants associés et invités, les attachés temporaires d'enseignement et de recherche et les doctorants contractuels. Le recours à ces personnels enseignants contractuels répond à des logiques de vivier ou à des besoins spécifiques en termes de compétences et d'expérience professionnelle. Pour éviter une trop grande précarité des enseignants non titulaires, la loi encadre les conditions dans lesquelles ces agents sont employés. En particulier, l'article L 952-1 du code de l'éducation prévoit que les chargés d'enseignement vacataires exercent une activité professionnelle principale en dehors de leur activité d'enseignement. Cette modalité permet d'éviter de placer les agents dans une situation professionnelle et financière précaire. En outre, certains de ces enseignants contractuels peuvent accéder au corps des professeurs certifiés ouvert par concours réservé par le décret n° 2012-1513 du 28 décembre 2012, sous réserve qu'ils remplissent les conditions fixées aux articles 2 et 4 de la loi du 12 mars 2012 précitée.
