@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511799
+
+- Question : [SEQ140511799](seq140511799.md) — Renseignements demandés lors du renouvellement des cartes d'identité sécurisées
+
+## Réponse
+
+*Intérieur, JO du 2014-09-25, page 2208*
+
+Le décret n° 2010-506 du 18 mai 2010 relatif à la simplification de la procédure de délivrance et de renouvellement de la carte nationale d'identité et du passeport a réduit le nombre de justificatifs devant être présentés à l'appui de la demande de renouvellement de ces titres. Il a ainsi permis d'alléger les démarches administratives de nos concitoyens, au vu notamment des délais d'obtention de certains justificatifs, tels que les certificats de nationalité française délivrés par les tribunaux d'instance, qui ne sont dorénavant réclamés qu'en tout dernier recours. Pour la première demande d'un titre comme son renouvellement, le demandeur doit mentionner son état civil complet ainsi que le nom, les prénoms, la date et le lieu de naissance de ses parents. Ces informations permettent en premier lieu de lutter contre la fraude documentaire en permettant des contrôles de concordance entre les informations déclarées et les renseignements déjà en possession des services. Ces informations sont particulièrement importantes pour lutter contre les usurpations d'identité. De même, les informations relatives à l'état civil des parents du demandeur permettent de gérer les cas d'homonymie. Ainsi, si deux personnes possèdent la même identité, l'état civil des parents permet de les distinguer. Les informations relatives à l'état civil des parents permettent aussi un contrôle rapide de la nationalité de l'usager avant analyse des autres pièces produites à l'appui de la demande. Le ministre de l'intérieur n'envisage pas de modifier le formulaire de demande de carte nationale d'identité.
