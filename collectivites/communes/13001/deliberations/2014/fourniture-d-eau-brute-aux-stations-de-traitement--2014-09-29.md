@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FOURNITURE D'EAU BRUTE AUX STATIONS DE TRAITEMENT DE COUTHERON, DU GRAND SAINT JEAN ET DU SITE DE LA MOLIERE - CONTRAT ENTRE LA VILLE D'AIX EN PROVENCE ET LA SOCIETE DU CANAL DE PROVENCE ET D'AMENAGEMENT DE LA REGION PROVENCALE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2014-09-29
+- Séance : Conseil Municipal 1CA
+- Objet : FOURNITURE D'EAU BRUTE AUX STATIONS DE TRAITEMENT DE COUTHERON, DU GRAND SAINT JEAN ET DU SITE DE LA MOLIERE - CONTRAT ENTRE LA VILLE D'AIX EN PROVENCE ET LA SOCIETE DU CANAL DE PROVENCE ET D'AMENAGEMENT DE LA REGION PROVENCALE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-6162-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
