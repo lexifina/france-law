@@ -1,0 +1,9 @@
+# Réponse à la question n° 49234
+
+- Question : [49234](49234.md) — Question n° 49234 — violences; lutte et prévention
+
+## Réponse
+
+*JO du 2014-09-30*
+
+La préservation d'un climat serein à l'école est une des conditions de la réussite des élèves et plus globalement de leur épanouissement personnel. Les médias numériques et notamment les médias sociaux sont un vecteur de communication et d'expression mais l'univers numérique comporte aussi des dangers contre lesquels l'école se doit de mettre en place des actions de sensibilisation et de prévention. La création en novembre 2012 d'une mission ministérielle chargée de la prévention et de la lutte contre les violences en milieu scolaire témoigne de la volonté du ministre de proposer des réponses concrètes à ces problématiques. Des actions de sensibilisation aux risques liés aux technologies de l'information sont déjà mises en place au sein des écoles, des collèges et des lycées. Elles permettent de contribuer à une meilleure formation de l'esprit critique des élèves dans le cadre de l'usage responsable des médias numériques notamment d'Internet. Ce programme d'ensemble est désormais développé dans les écoles et les établissements scolaires conformément à la circulaire du 26 novembre 2013 relative à la prévention et au traitement de la cyberviolence entre élèves. Par ailleurs, un guide destiné aux personnels pour mieux prévenir ce phénomène est mis en ligne sur le site du ministère de l'éducation nationale. Enfin, pour mobiliser tous les jeunes de 8 à 18 ans sur cette problématique a été lancé en septembre 2013, en partenariat avec la MAE, le prix « Mobilisons-nous contre le harcèlement ». Sur plus de 800 projets, tous témoignant d'une forte implication des élèves et des équipes pédagogiques, 8 lauréats ont été récompensés et primés lors d'une cérémonie officielle le 7 avril 2014 en présence du ministre. Une nouvelle édition de ce concours national est prévue pour la rentrée de septembre 2014.
