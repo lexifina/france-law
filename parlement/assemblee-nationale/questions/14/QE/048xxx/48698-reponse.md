@@ -1,0 +1,9 @@
+# Réponse à la question n° 48698
+
+- Question : [48698](48698.md) — Question n° 48698 — couples de même sexe; décrets; publication
+
+## Réponse
+
+*JO du 2014-09-30*
+
+La loi n° 2013-404 du 17 mai 2013 a ouvert le mariage aux couples de personnes de même sexe et par conséquent l'adoption à ces couples mariés. Tirant les conséquences de ces nouvelles dispositions, la loi a également consacré, à l'article 6-1 du code civil, un principe d'égalité de traitement entre les époux ou parents de même sexe et ceux de sexe différent, cet article disposant que le « mariage et la filiation adoptive emportent les mêmes effets, droits et obligations reconnus par les lois, à l'exclusion de ceux prévus au titre VII du livre 1er du présent code, que les époux ou les parents soient de sexe différent ou de même sexe ». Cette disposition marque ainsi la volonté du législateur d'affirmer que les couples de personnes de même sexe bénéficient des mêmes droits que les couples de personnes de sexe différent. Seul le titre VII du Livre 1er du code civil, relatif à la filiation, est exclu du champ d'application de cette disposition générale dès lors que le mariage entre deux personnes de même sexe n'emporte aucun effet en matière de filiation non adoptive. Dans sa décision n° 2013-669 DC du 17 mai 2013, le Conseil constitutionnel a ainsi rappelé que les enfants adoptés bénéficient des mêmes droits que ceux dont la filiation est légalement établie en application du titre VII du Livre Ier du code civil, que leurs parents soient de même sexe ou de sexe différent. Il résulte de ces éléments qu'aucun décret d'application n'est nécessaire pour permettre la mise en oeuvre des dispositions de la loi du 17 mai 2013, en ce qu'elle ouvre l'adoption aux personnes de même sexe, le titre VIII du Livre 1er du code civil, relatif à la filiation adoptive leur étant pleinement applicable, sans qu'aucune disposition complémentaire n'ait besoin d'y être apportée.
