@@ -494,9 +494,11 @@ La Tour-du-Pin - Cessieu |
 
 Isère |
 
-Réservé aux aéronefs qui y sont basés et à ceux qui sont basés sur les aérodromes voisins.
+L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur.
 
-Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est |
+L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome.
+
+|
 
 Le Mazet-de-Romanin |
 
