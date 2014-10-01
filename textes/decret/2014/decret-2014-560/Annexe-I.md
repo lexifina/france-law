@@ -40,7 +40,7 @@ Secrétaire administratif de classe normale
 
 |
 
-Examen professionnalisé réservé
+Concours réservé
 
 |
 
@@ -48,7 +48,7 @@ Technicien supérieur d'études et de fabrications de 2e classe
 
 Technicien supérieur d'études et de fabrications de 3e classe
 
-Infirmier civil de soins généraux de classe normale
+Premier grade du corps des infirmiers civils en soins généraux et spécialisés du ministère de la défense
 
 Technicien paramédical civil de classe normale
 
