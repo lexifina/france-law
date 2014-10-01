@@ -168,21 +168,31 @@ Pour 2 tonnes supplémentaires : 0,5 N.
 
 |
 
-8. Bois et écorce.
+8 bis. Bois non écorcé
 
 |
 
-10 m3 (ou tonnes) ou moins : 1 N
+10 mètres cubes (ou tonnes) ou moins : 6,5 N
 
 |
 
-Par 10 m3 ou tonnes supplémentaires : 0,2 N.
+Par 10 mètres cubes ou tonnes supplémentaires : 1,3 N
 
 |
 
-20 N
+130 N
 
 |
+
+8 ter. Bois autre que le bois non écorcé
+
+|
+
+10 mètres cubes (ou tonnes) ou moins : 1,4 N |
+
+Par 10 mètres cubes ou tonnes supplémentaires : 0,2 N |
+
+130 N |
 
 9. Terreaux, milieux de culture, matières fertilisantes.
 
