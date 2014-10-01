@@ -1,0 +1,80 @@
+# Budget : finances publiques 2014-2019
+
+- Procédure : Projet de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N33440
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/loi_finances_1419
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-045.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2014-10-01 : 1er dépôt d'une initiative. (PRJLANR5L14B2236)
+  - 2014-10-01 : Etude d'impact (ETDIANR5L14B2236)
+  - 2014-10-01 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-10-01 : Renvoi en commission au fond
+      - 2014-10-01 : Nomination de rapporteur
+      - 2014-10-07 : Dépôt de rapport (RAPPANR5L14B2245, PRJLANR5L14BTC2245)
+  - Discussion en séance publique
+    - 2014-10-14 : Discussion en séance publique
+    - 2014-10-14 : Discussion en séance publique
+    - 2014-10-15 : Discussion en séance publique
+    - 2014-10-15 : Discussion en séance publique
+    - 2014-10-21 : Discussion en séance publique
+    - 2014-10-21 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2014-10-22 : Dépôt d'une initiative en navette (PRJLSNR5S239B0045)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-10-22 : Renvoi en commission au fond
+      - 2014-10-15 : Nomination de rapporteur
+      - 2014-10-29 : Dépôt de rapport (RAPPSNR5S239B0055)
+    - Travaux d'une commission saisie pour avis
+      - 2014-10-15 : Saisine pour avis d'une commission
+      - 2014-10-15 : Nomination de rapporteur
+      - 2014-10-22 : Dépôt de rapport (AVISSNR5S239B0046)
+  - Discussion en séance publique
+    - 2014-11-06 : Discussion en séance publique
+    - 2014-11-06 : Décision
+- Commission Mixte Paritaire
+  - 2014-11-07 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2014-12-11 : Nomination de rapporteur
+    - 2014-12-11 : Dépôt du rapport d'une CMP (RAPPANR5L14B2445)
+    - 2014-12-11 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0177)
+  - 2014-12-11 : Décision de la CMP
+- Nouvelle Lecture
+  - 2014-11-07 : Dépôt d'une initiative en navette (PRJLANR5L14B2350)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-11-07 : Renvoi en commission au fond
+      - 2014-12-11 : Réunion de commission
+      - 2014-12-16 : Réunion de commission
+      - 2014-12-11 : Dépôt de rapport (RAPPANR5L14B2449, PRJLANR5L14BTC2449)
+  - Discussion en séance publique
+    - 2014-12-16 : Discussion en séance publique
+    - 2014-12-16 : Discussion en séance publique
+    - 2014-12-16 : Décision
+- Nouvelle Lecture
+  - 2014-12-17 : Dépôt d'une initiative en navette (PRJLSNR5S239B0192)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-17 : Renvoi en commission au fond
+      - 2014-12-17 : Dépôt de rapport (RAPPSNR5S239B0196)
+  - Discussion en séance publique
+    - 2014-12-17 : Discussion en séance publique
+    - 2014-12-17 : Décision
+- Lecture définitive
+  - 2014-12-17 : Dépôt d'une initiative en navette (PRJLANR5L14B2481)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2014-12-17 : Renvoi en commission au fond
+      - 2014-12-18 : Réunion de commission
+      - 2014-12-18 : Dépôt de rapport (RAPPANR5L14B2483)
+  - Discussion en séance publique
+    - 2014-12-18 : Discussion en séance publique
+    - 2014-12-18 : Décision
+- Promulgation de la loi
+  - 2014-12-29 : Promulgation d'une loi
