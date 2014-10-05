@@ -4,11 +4,9 @@ PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA PREMIÈRE FRACTION DE L'A
 
 |
 
-NOMBRE
+NOMBRE DE VOIX
 
-de voix prises
-
-en compte
+prises en compte
 
 |
 
@@ -26,27 +24,11 @@ de candidats femmes
 
 MONTANT
 
-de la première fraction
-
-de l'aide publique
-
-pour 2014 compte tenu
-
-de la loi sur la parité
+de la première fraction de l'aide publique 2014 compte tenu de la loi sur la parité
 
 |
 
-I. - Partis et groupements politiques ayant présenté
-
-des candidats dans au moins 50 circonscriptions (métropole)
-
-|
-
-|
-
-|
-
-|
+I.-Partis et groupements politiques ayant présenté des candidats dans au moins 50 circonscriptions
 
 |
 
@@ -190,7 +172,7 @@ Parti radical de gauche
 
 |
 
-Nouveau Centre
+Nouveau centre
 
 |
 
@@ -330,17 +312,7 @@ Sous-total I
 
 |
 
-II. - Partis et groupements politiques
-
-ayant présenté des candidats exclusivement en outre-mer
-
-|
-
-|
-
-|
-
-|
+II.-Partis et groupements politiques ayant présenté des candidats exclusivement outre-mer
 
 |
 
@@ -564,7 +536,7 @@ Démocratie et République
 
 |
 
-Groupement France-Réunion
+Groupement France La Réunion
 
 |
 
@@ -784,6 +756,26 @@ Rassemblement démocratique pour la Martinique
 
 |
 
+Ia Hau Noa
+
+|
+
+2 435
+
+|
+
+1
+
+|
+
+0
+
+|
+
+3 455,30 €
+
+|
+
 RAUTAHI
 
 |
@@ -908,11 +900,11 @@ Sous-total II
 
 |
 
-297 321
+299 656
 
 |
 
-41
+42
 
 |
 
@@ -920,6 +912,4 @@ Sous-total II
 
 |
 
-288 623,31 €
-
-|
+292 078,61 € |
