@@ -1,16 +1,10 @@
 # Article Annexe
 
-DÉSIGNATION DES FONCTIONS
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-CATÉGORIES
-
-|
-
-MONTANT de la bonification indiciaire
-
-(en points d'indice majoré)
+NIVEAU
 
 |
 
@@ -20,9 +14,17 @@ d'emplois
 
 |
 
-NOMBRE TOTAL
+NOMBRE DE POINTS
 
-de points
+de NBI
+
+|
+
+NOMBRE
+
+total de points
+
+de NBI (dans la limite de)
 
 |
 
@@ -34,19 +36,21 @@ A
 
 |
 
-De 3 à 50 points par emploi
+227
 
 |
 
-243
+De 3 à 50 points
+
+par emploi
 
 |
 
-5311,50
+5 040
 
 |
 
-Fonctions de mise en oeuvre et de suivi de projets relevant de la politique de la ville
+Fonctions de mise en œuvre et de suivi de projets relevant de la politique de la ville
 
 |
 
@@ -54,11 +58,13 @@ B
 
 |
 
-De 10 à 30 points par emploi
+22
 
 |
 
-22
+De 10 à 30 points
+
+par emploi
 
 |
 
@@ -66,7 +72,7 @@ De 10 à 30 points par emploi
 
 |
 
-Fonctions de mise en oeuvre et de suivi de projets relevant de la politique de la ville
+Fonctions de mise en œuvre et de suivi de projets relevant de la politique de la ville
 
 |
 
@@ -74,21 +80,21 @@ C
 
 |
 
-De 10 à 20 points par emploi
+25
 
 |
 
-9
+De 10 à 20 points
+
+par emploi
 
 |
 
-160
+431
 
 |
 
-Total
-
-|
+Total général
 
 |
 
@@ -98,6 +104,6 @@ Total
 
 |
 
-5848,50
-
 |
+
+5 848 |
