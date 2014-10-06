@@ -1,20 +1,12 @@
 # Article Annexe
 
-DÉSIGNATION DES EMPLOIS
+.
+
+DÉSIGNATION DE L'EMPLOI
 
 |
 
 NIVEAU
-
-des responsabilités exercées
-
-|
-
-BONIFICATION INDICIAIRE
-
-(en points d'indice majoré)
-
-Nombre de points attribués
 
 |
 
@@ -24,13 +16,21 @@ d'emplois
 
 |
 
-NOMBRE TOTAL
+NOMBRE DE POINTS
 
-de points
+de NBI
 
 |
 
-Fonctions relatives au suivi du dispositif afférent au revenu minimum d'insertion
+NOMBRE TOTAL
+
+de points de NBI
+
+(dans la limite de)
+
+|
+
+Fonctions relatives au logement social
 
 |
 
@@ -38,19 +38,19 @@ A
 
 |
 
+9
+
+|
+
 De 10 à 50 points par emploi
 
 |
 
-5
+215
 
 |
 
-Dans la limite de 165 points
-
-|
-
-Fonctions relatives au suivi du dispositif afférent au revenu minimum d'insertion
+Fonctions relatives au logement social
 
 |
 
@@ -58,7 +58,23 @@ B
 
 |
 
+2
+
+|
+
 De 10 à 30 points par emploi
+
+|
+
+45
+
+|
+
+Fonctions relatives au logement social
+
+|
+
+C
 
 |
 
@@ -66,87 +82,11 @@ De 10 à 30 points par emploi
 
 |
 
-Dans la limite de 130 points
-
-|
-
-Fonctions relatives au suivi du dispositif afférent au revenu minimum d'insertion
-
-|
-
-C
-
-|
-
 De 10 à 20 points par emploi
 
 |
 
-7
-
-|
-
-Dans la limite de 95 points
-
-|
-
-Fonctions relatives au logement social
-
-|
-
-A
-
-|
-
-De 10 à 50 points par emploi
-
-|
-
-1
-
-|
-
-Dans la limite de 40 points
-
-|
-
-Fonctions relatives au logement social
-
-|
-
-B
-
-|
-
-De 10 à 30 points par emploi
-
-|
-
-2
-
-|
-
-Dans la limite de 45 points
-
-|
-
-Fonctions relatives au logement social
-
-|
-
-C
-
-|
-
-De 10 à 20 points par emploi
-
-|
-
-4
-
-|
-
-Dans la limite de 45 points
+75
 
 |
 
@@ -158,15 +98,15 @@ A
 
 |
 
+22
+
+|
+
 De 10 à 50 points par emploi
 
 |
 
-13
-
-|
-
-Dans la limite de 295 points
+568
 
 |
 
@@ -175,10 +115,6 @@ Fonctions relatives au suivi des actions sociales au bénéfice des publics déf
 |
 
 B
-
-|
-
-De 10 à 30 points par emploi
 
 |
 
@@ -186,7 +122,13 @@ De 10 à 30 points par emploi
 
 |
 
-Dans la limite de 147,5 points
+De 10 à 30 points
+
+par emploi
+
+|
+
+188
 
 |
 
@@ -198,15 +140,17 @@ C
 
 |
 
-De 10 à 20 points par emploi
+9
 
 |
 
-7
+De 10 à 20 points
+
+par emploi
 
 |
 
-Dans la limite de 95 points
+142
 
 |
 
@@ -218,15 +162,15 @@ A
 
 |
 
+10
+
+|
+
 De 10 à 50 points par emploi
 
 |
 
-1
-
-|
-
-Dans la limite de 20 points
+320
 
 |
 
@@ -238,7 +182,23 @@ B
 
 |
 
+8
+
+|
+
 De 10 à 30 points par emploi
+
+|
+
+150
+
+|
+
+Fonctions relatives aux urgences sociales, aux familles en difficulté et à l'hébergement d'urgence
+
+|
+
+C
 
 |
 
@@ -246,27 +206,13 @@ De 10 à 30 points par emploi
 
 |
 
-Dans la limite de 57 points
+De 10 à 20 points
+
+par emploi
 
 |
 
-Fonctions relatives aux urgences sociales, aux familles en difficulté et à l'hébergement d'urgence
-
-|
-
-C
-
-|
-
-De 10 à 20 points par emploi
-
-|
-
-2
-
-|
-
-Dans la limite de 30 points
+45
 
 |
 
@@ -278,15 +224,15 @@ A
 
 |
 
+76
+
+|
+
 De 10 à 50 points par emploi
 
 |
 
-89
-
-|
-
-Dans la limite de 2 432 points
+2019
 
 |
 
@@ -295,10 +241,6 @@ Fonctions relatives au suivi de la politique de la ville (correspondant-ville, s
 |
 
 B
-
-|
-
-De 10 à 30 points par emploi
 
 |
 
@@ -306,7 +248,13 @@ De 10 à 30 points par emploi
 
 |
 
-Dans la limite de 871,5 points
+De 10 à 30 points
+
+par emploi
+
+|
+
+871
 
 |
 
@@ -318,15 +266,15 @@ C
 
 |
 
-De 10 à 20 points par emploi
-
-|
-
 21
 
 |
 
-Dans la limite de 343 points
+De 10 à 20 points par emploi
+
+|
+
+343
 
 |
 
@@ -338,15 +286,15 @@ A
 
 |
 
+21
+
+|
+
 De 10 à 50 points par emploi
 
 |
 
-19
-
-|
-
-Dans la limite de 665 points
+540
 
 |
 
@@ -358,15 +306,17 @@ B
 
 |
 
-De 10 à 30 points par emploi
+14
 
 |
 
-17
+De 10 à 30 points
+
+par emploi
 
 |
 
-Dans la limite de 240 points
+275
 
 |
 
@@ -378,15 +328,17 @@ C
 
 |
 
-De 10 à 20 points par emploi
+5
 
 |
 
-9
+De 10 à 20 points
+
+par emploi
 
 |
 
-Dans la limite de 140 points
+60
 
 |
 
@@ -398,14 +350,32 @@ A
 
 |
 
-De 10 à 50 points par emploi
-
-|
-
 1
 
 |
 
-Dans la limite de 15 points
+De 10 à 50 points
 
 |
+
+15
+
+|
+
+Total général
+
+|
+
+|
+
+271
+
+|
+
+|
+
+5 871
+
+|
+
+.
