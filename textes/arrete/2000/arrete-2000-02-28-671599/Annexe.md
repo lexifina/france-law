@@ -2,309 +2,45 @@
 
 ANNEXE I
 
-Désignation des emplois correspondant aux fonctions mentionnées à l'article 1er du décret n° 92-92 du 14 janvier 1992 modifié
+DÉSIGNATION DE L'EMPLOI
 
 |
 
-Niveau des responsabilités exercées
+NIVEAU
 
-|
-
-Montant de la bonification indiciaire mensuelle à compter du 1er août 1996
-
-|
-
-Nombre d'emplois concernés à compter du 1er août 1996
-
-|
-
-I.-Services déconcentrés
-
-|
-
-|
-
-|
-
-|
-
-1. Personnel chargé des fonctions de coordination administrative et financière
-
-|
-
-|
-
-|
-
-|
-
-A la direction régionale d'Ile-de-France
-
-|
-
-A
-
-|
-
-50
-
-|
-
-1
-
-|
-
-Dans les directions régionales et départementales
-
-|
-
-A
-
-|
-
-25
-
-|
-
-23
-
-|
-
-Dans les directions départementales de 1ère catégorie
-
-|
-
-A
-
-|
-
-21
-
-|
-
-16
-
-|
-
-Dans les directions départementales de 2e catégorie et de 3e catégorie
-
-|
-
-A-B
-
-|
-
-15
-
-|
-
-64
-
-|
-
-2. Adjoints du coordonnateur administratif et financier
-
-|
-
-|
-
-|
-
-|
-
-Dans les directions régionales et départementales
-
-|
-
-A
-
-|
-
-21
-
-|
-
-24
-
-|
-
-3. Coordonnateur du service public régional de formation
-
-|
-
-|
-
-|
-
-|
-
-Dans les directions régionales et départementales et dans les directions départementales d'outre-mer
-
-|
+des responsabilités
 
-A
+exercées
 
 |
 
-20
+NOMBRE DE POINTS
 
-|
-
-26
-
-|
-
-4. Correspondant informatique local responsable de la coordination
-
-|
-
-|
-
-|
-
-|
-
-Dans les directions régionales et départementales et dans les directions départementales
-
-|
-
-|
-
-15
-
-|
-
-126
-
-|
-
-5. Conseiller régional de formation
-
-|
-
-|
-
-|
-
-|
-
-Dans les directions régionales et départementales
-
-|
-
-A
-
-|
-
-15
-
-|
-
-22
-
-|
-
-6. Personnel chargé des interventions du ministère de la jeunesse et des sports dans la politique de la ville
-
-|
-
-|
-
-|
-
-|
-
-Dans les directions départementales
-
-|
-
-A
-
-|
-
-20
-
-|
-
-97
-
-|
-
-7. Agent responsable du secrétariat de direction
-
-|
-
-|
-
-|
-
-|
-
-Dans les directions régionales et départementales
-
-|
-
-B-C
+par emploi
 
 |
 
-15
+NOMBRE D'EMPLOIS
 
 |
 
-22
+I.-Etablissements publics et administration centrale
 
 |
 
-II.-Services déconcentrés, établissements publics et administration centrale
-
-|
-
-|
-
-|
-
-|
-
-8. Responsables de l'accueil du public
-
-|
-
-|
-
-|
-
-|
-
-Dans les directions régionales et départementales
-
-|
-
-C
-
 |
-
-15
 
 |
 
-46
-
 |
 
-Dans les directions départementales
+Responsables de l'accueil du public
 
 |
-
-C
 
 |
 
-15
-
 |
-
-80
 
 |
 
@@ -324,7 +60,13 @@ C
 
 |
 
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA)
+A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut
+
+national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut
+
+français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile
+
+(ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA)
 
 |
 
@@ -340,7 +82,7 @@ C
 
 |
 
-Dans les centres de ressources, d'expertise et de performance sportives
+Dans les centres de ressources, d'expertise et de performance sportives (CREPS)
 
 |
 
@@ -356,17 +98,11 @@ C
 
 |
 
-9. Correspondant informatique interrégional responsable de la mise en œuvre des applications nationales
+Correspondant informatique interrégional responsable de la mise en œuvre
 
-|
+des applications nationales dans les établissements nationaux de la
 
-|
-
-|
-
-|
-
-Dans les directions régionales et départementales, dans les directions départementales et dans les établissements nationaux de la jeunesse et des sports
+jeunesse et des sports
 
 |
 
@@ -382,17 +118,9 @@ A
 
 |
 
-10. Agent chargé de la mise en œuvre des règles d'hygiène et de sécurité
+Agent chargé de la mise en œuvre des règles d'hygiène et de sécurité à
 
-|
-
-|
-
-|
-
-|
-
-Dans les directions régionales et départementales, dans les directions départementales d'outre-mer, à l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives
+l'INSEP, à l'INJEP, à l'ENE, à l'ENV, à l'ENSA et dans les CREPS
 
 |
 
@@ -404,21 +132,11 @@ B
 
 |
 
-54
+27
 
 |
 
-11. Responsable du traitement de la paye
-
-|
-
-|
-
-|
-
-|
-
-Dans les directions régionales et départementales
+Responsable du traitement de la paye à l'administration centrale
 
 |
 
@@ -430,15 +148,11 @@ C
 
 |
 
-23
+1
 
 |
 
-A l'administration centrale
-
-|
-
-III.-Etablissements publics
+II.-Etablissements publics
 
 |
 
@@ -448,7 +162,7 @@ III.-Etablissements publics
 
 |
 
-12. Responsable de la gestion
+Responsable de la gestion
 
 |
 
@@ -458,7 +172,7 @@ III.-Etablissements publics
 
 |
 
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP)
+A l'INSEP et à l'INJEP
 
 |
 
@@ -474,7 +188,7 @@ A
 
 |
 
-Dans les centres de ressources, d'expertise et de performance sportives, à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et à l'Institut français du cheval et de l'équitation (ENE)
+Dans les CREPS, à l'ENV, à l'ENSA et à l'ENE
 
 |
 
@@ -490,7 +204,7 @@ A
 
 |
 
-13. Adjoints du responsable de la gestion
+Adjoints du responsable de la gestion
 
 |
 
@@ -500,7 +214,7 @@ A
 
 |
 
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP)
+A l'INSEP et à l'INJEP
 
 |
 
@@ -516,7 +230,7 @@ A
 
 |
 
-Dans les centres d'éducation populaire et de sport (CREPS), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et à l'Institut français du cheval et de l'équitation (ENE)
+Dans les CREPS, à l'ENV, à l'ENSA et à l'ENE
 
 |
 
@@ -532,17 +246,9 @@ A-B
 
 |
 
-14. Responsable de la restauration
+Responsable de la restauration à l'INSEP, à l'INJEP, à l'ENV, à
 
-|
-
-|
-
-|
-
-|
-
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives
+l'ENSA et dans les CREPS
 
 |
 
@@ -558,17 +264,9 @@ C
 
 |
 
-15. Adjoints du responsable de la restauration
+Adjoints du responsable de la restauration à l'INSEP, à l'INJEP, à l'ENV,
 
-|
-
-|
-
-|
-
-|
-
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives
+à l'ENSA et dans les CREPS
 
 |
 
@@ -584,17 +282,9 @@ C
 
 |
 
-16. Responsables de la maintenance des locaux
+Responsables de la maintenance des locaux à l'INSEP, à l'INJEP, à l'ENV, à
 
-|
-
-|
-
-|
-
-|
-
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA), à l'Institut français du cheval et de l'équitation (ENE) et dans les centres de ressources, d'expertise et de performance sportives
+l'ENSA, à l'ENE et dans les CREPS
 
 |
 
@@ -610,17 +300,9 @@ C
 
 |
 
-17. Responsables de la maintenance des équipements sportifs et du magasin
+Responsables de la maintenance des équipements sportifs et du magasin à
 
-|
-
-|
-
-|
-
-|
-
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives
+l'INSEP, à l'ENE, à l'ENV, à l'ENSA et dans les CREPS
 
 |
 
@@ -636,17 +318,9 @@ C
 
 |
 
-18. Responsables des personnels de service
+Responsables des personnels de service à l'INSEP, à l'INJEP, à l'ENE, à
 
-|
-
-|
-
-|
-
-|
-
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV), à l'Ecole nationale de ski et d'alpinisme (ENSA) et dans les centres de ressources, d'expertise et de performance sportives
+l'ENV, à l'ENSA et dans les CREPS
 
 |
 
@@ -662,17 +336,7 @@ C
 
 |
 
-19. Responsables des espaces verts
-
-|
-
-|
-
-|
-
-|
-
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP) et dans les centres de ressources, d'expertise et de performance sportives
+Responsables des espaces verts à l'INSEP, à INJEP et dans les CREPS
 
 |
 
@@ -688,17 +352,9 @@ C
 
 |
 
-20. Responsable de la maintenance audiovisuelle
+Responsable de la maintenance audiovisuelle à INSEP, à l'INJEP, à ENE, à
 
-|
-
-|
-
-|
-
-|
-
-A l'Institut national du sport et de l'éducation physique (INSEP), à l'Institut national de la jeunesse et de l'éducation populaire (INJEP), à l'Institut français du cheval et de l'équitation (ENE), à l'Ecole nationale de voile (ENV) et à l'Ecole nationale de ski et d'alpinisme (ENSA)
+ENV et à l'ENSA
 
 |
 
@@ -714,17 +370,7 @@ C
 
 |
 
-21. Assistante sociale
-
-|
-
-|
-
-|
-
-|
-
-A l'Institut national du sport et de l'éducation physique (INSEP)
+Assistante sociale à l'INSEP
 
 |
 
@@ -740,17 +386,7 @@ B
 
 |
 
-22. Responsables de la gymnastique médicale
-
-|
-
-|
-
-|
-
-|
-
-A l'Institut national du sport et de l'éducation physique (INSEP)
+Responsables de la gymnastique médicale à l'INSEP
 
 |
 
@@ -766,17 +402,9 @@ B
 
 |
 
-23. Responsables des soins infirmiers
+Responsables des soins infirmiers dans les établissements publics de la
 
-|
-
-|
-
-|
-
-|
-
-Dans les établissements publics de la jeunesse et des sports
+jeunesse et des sports
 
 |
 
@@ -792,125 +420,9 @@ B
 
 |
 
-IV.-Administration centrale
+Personnel technique et pédagogique chargé des fonctions de chef de
 
-|
-
-|
-
-|
-
-|
-
-24. Responsable du parc automobile
-
-|
-
-C
-
-|
-
-15
-
-|
-
-1
-
-|
-
-25. Responsables de l'entretien du parc informatique
-
-|
-
-C
-
-|
-
-15
-
-|
-
-4
-
-|
-
-26. Chefs de bureau
-
-|
-
-A
-
-|
-
-30
-
-|
-
-8
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Désignation des emplois correspondant aux fonctions mentionnées à l'article 1er du décret n° 92-92 du 14 janvier 1992 modifié
-
-|
-
-Niveau des responsabilités exercées
-
-|
-
-Montant de la bonification indiciaire mensuelle à compter de la date de publication du présent
-
-|
-
-Nombre d'emplois concernés à compter de la date de publication du présent arrêté
-
-|
-
-27. Personnels chargés des interventions du ministère de la jeunesse et des sports dans la politique de la ville
-
-|
-
-|
-
-|
-
-|
-
-Dans les directions départementales (La fonction 27 remplace la fonction 6.)
-
-|
-
-A
-
-|
-
-17
-
-|
-
-98
-
-|
-
-28. Personnel technique et pédagogique chargé des fonctions de chef de département
-
-|
-
-|
-
-|
-
-|
-
-Dans les centres de ressources, d'expertise et de performance sportives
+département dans les CREPS
 
 |
 
@@ -926,25 +438,7 @@ A
 
 |
 
-ANNEXE II
-
-Désignation des emplois correspondant aux fonctions mentionnées à l'article 1er du décret n° 92-92 du 14 janvier 1992 modifié
-
-|
-
-Niveau des responsabilités exercées
-
-|
-
-Montant de la bonification indiciaire mensuelle à compter du 1er janvier 1997
-
-|
-
-Nombre d'emplois concernés à compter de la date de publication du 1er janvier 1997
-
-|
-
-29. Directeur départemental de la jeunesse, des sports et des loisirs
+III.-Administration centrale
 
 |
 
@@ -954,33 +448,39 @@ Nombre d'emplois concernés à compter de la date de publication du 1er janvier 
 
 |
 
-Dans les directions départementales
+Responsable du parc automobile
 
 |
 
-A
+C
 
 |
 
-40
+15
 
 |
 
-82
+1
 
 |
 
-30. Directeur régional adjoint de la jeunesse, des sports et des loisirs
+Responsables de l'entretien du parc informatique
 
 |
 
-|
+C
 
 |
 
+15
+
 |
 
-Dans les directions régionales et départementales
+4
+
+|
+
+Chefs de bureau
 
 |
 
@@ -988,10 +488,10 @@ A
 
 |
 
-40
+30
 
 |
 
-22
+8
 
 |
