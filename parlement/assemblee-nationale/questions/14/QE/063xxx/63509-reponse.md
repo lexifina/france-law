@@ -1,0 +1,9 @@
+# Réponse à la question n° 63509
+
+- Question : [63509](63509.md) — Question n° 63509 — trafic; convention internationale; ratification
+
+## Réponse
+
+*JO du 2014-10-07*
+
+La lutte contre le trafic d'organes humains, s'inscrivant dans le cadre de la lutte contre la traite des êtres humains, est une priorité de la France, qui est partie au Protocole additionnel à la Convention des Nations unies contre la criminalité transnationale organisée visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants, ainsi qu'à la Convention du Conseil de l'Europe sur la lutte contre la traite des êtres humains. Au plan national, la Mission interministérielle pour la protection des femmes victimes de violences et la lutte contre la traite des êtres humains (MIPROF) mise en place en 2013, est notamment chargée de coordonner la mise en oeuvre du plan de lutte national contre la traite des êtres humains lancé en mai 2014. Suite à une étude conjointe du Conseil de l'Europe et des Nations unies sur le trafic d'organes réalisée en 2009, la France a activement participé à l'élaboration d'une nouvelle convention du Conseil de l'Europe contre le trafic d'organes humains, dont elle a soutenu l'opportunité dès l'origine. Cette convention a pour but de compléter le système de protection de la Convention d'Oviedo du Conseil de l'Europe, ou Convention sur les droits de l'Homme et la biomédecine, et de son protocole additionnel relatif à la transplantation d'organe et de tissus d'origine humaine - textes fixant les règles de consentement au don d'organes - en définissant des infractions pénales. Le texte final, récemment adopté par le Comité des ministres, n'a pas encore été, à ce stade, ouvert à la signature des Etats. Il est actuellement en cours d'examen par les administrations françaises compétentes dans l'optique d'une ratification, afin notamment de déterminer si des mesures préalables seraient nécessaires.
