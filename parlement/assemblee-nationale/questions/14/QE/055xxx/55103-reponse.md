@@ -1,0 +1,9 @@
+# Réponse à la question n° 55103
+
+- Question : [55103](55103.md) — Question n° 55103 — élection présidentielle; avril 2014; modalités sur le territoire français
+
+## Réponse
+
+*JO du 2014-10-07*
+
+Les scrutins étrangers organisés sur le territoire français font l'objet d'un accompagnement organisé conjointement par le ministère des affaires étrangères et du développement international et le ministère de l'intérieur. Tout Etat étranger qui souhaite organiser en France une élection nationale se voit rappeler de façon systématique l'interdiction : - d'affichage en dehors des locaux diplomatiques et consulaires ; - de réunion dans des lieux publics ouverts ; - de distribution de tracts, professions de foi, publicité ou toute campagne payante dans les médias. Il est également informé du fait que, lorsque cette formalité est prévue, l'envoi des professions de foi ne peut se faire que sous pli fermé. Les représentations en France des Etats étrangers qui organisent des scrutins sur le territoire français sont donc avisées formellement des conditions d'exercice du droit électoral de leurs nationaux et ont d'autant moins de mal à s'y conformer que ces conditions s'appliquent à l'identique, pour des raisons de réciprocité, sur leur propre territoire. L'administration française n'a pas à connaître des listes électorales dans le cas des scrutins étrangers organisés en France et n'est donc pas en mesure de savoir si des ressortissants français ont participé à cette élection, ce qui est toutefois très probable. A l'inverse, nos compatriotes résidant à l'étranger peuvent voter pour les élections présidentielles, législatives, européennes ainsi que pour les référendums, y compris s'ils bénéficient également de la nationalité de leur pays de résidence, ce qui concerne près d'un Français à l'étranger sur deux.
