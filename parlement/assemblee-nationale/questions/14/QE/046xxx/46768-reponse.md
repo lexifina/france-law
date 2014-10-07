@@ -1,0 +1,9 @@
+# Réponse à la question n° 46768
+
+- Question : [46768](46768.md) — Question n° 46768 — réussite scolaire; rapport; propositions
+
+## Réponse
+
+*JO du 2014-10-07*
+
+Le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche s'attache à permettre la réussite de tous les étudiants. Cette politique se traduit par un renforcement du continuum de formation entre l'enseignement scolaire et l'enseignement supérieur et par une orientation mieux construite des lycéens. La généralisation du conseil anticipé dès la classe de première à l'ensemble des académies et à l'ensemble des formations permet de mieux anticiper la démarche d'orientation en classe de terminale. Ainsi la circulaire n° 2013-0012 du 18 juin 2013 présente les modalités de collaboration de l'enseignement scolaire et de l'enseignement supérieur, à la fois sur la pédagogie mise en oeuvre en amont et en aval du baccalauréat, sur une offre de formation organisée et rationalisée au sein de l'académie et sur un dispositif d'orientation adapté des lycéens, dans lequel s'impliquent fortement les formations de l'enseignement supérieur. En application de la loi relative à l'enseignement supérieur et à la recherche de juillet 2013, les recteurs ont mis en oeuvre la priorité d'accès des bacheliers professionnels et technologiques respectivement dans les filières STS (section de technicien supérieur) et IUT (institut universitaire de technologie). Par ailleurs, les contrats entre l'Etat et les établissements d'enseignement supérieur ont désormais vocation à porter la vision stratégique intégrée et partagée en matière de formation, de recherche et d'innovation sur un territoire déterminé. Ces contrats de site intègrent les actions menées en matière d'orientation et d'insertion professionnelle des étudiants.
