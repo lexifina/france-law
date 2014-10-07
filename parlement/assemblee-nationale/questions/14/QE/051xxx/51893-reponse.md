@@ -1,0 +1,9 @@
+# Réponse à la question n° 51893
+
+- Question : [51893](51893.md) — Question n° 51893 — Cour des comptes; recommandations
+
+## Réponse
+
+*JO du 2014-10-07*
+
+Le gouvernement entend poursuivre en liaison étroite avec les collectivités territoriales la généralisation du procès-verbal électronique (PVe), dans un souci d'une plus grande sécurité et d'une meilleure égalité de traitement entre tous les usagers de la route. Ainsi au 28 juillet 2014, 35 villes de plus de 100 000 habitants sur 41 utilisent le PVe et 526 villes, comptant entre 10 000 et 100 000 habitants, adhèrent à ce nouveau dispositif, avec un objectif de 600 pour 2014, sur un total de 906 collectivités territoriales recensées en France. 1319 villes de moins de 10 000 habitants ont également adhéré à la verbalisation électronique à cette même date. Afin d'inciter ces collectivités à adopter ce mode de verbalisation, le fond d'amorçage destiné à financer en partie l'acquisition des terminaux de verbalisation par une participation financière de l'Etat vient d'être prorogé pour les deux prochaines années et s'achèvera à la fin de l'année 2015. Par ailleurs, l'ANTAI, qui est l'établissement public en charge de piloter le déploiement du PVe, assure l'accompagnement des collectivités sur les fonctionnalités logicielles employées par le dispositif informatisé en tenant compte des souhaits émis par les collectivités territoriales d'accueillir de nouvelles applications sur le terminal électronique sécurisé. Ces diverses actions en faveur d'un traitement contraventionnel plus efficace, plus juste et à moindre coût pour l'Etat sont menées depuis 2011 et le gouvernement entend poursuivre cette orientation avec l'ensemble des collectivités territoriales qui le souhaitent sachant que la décision d'adopter la verbalisation électronique leur appartient en dernier ressort.
