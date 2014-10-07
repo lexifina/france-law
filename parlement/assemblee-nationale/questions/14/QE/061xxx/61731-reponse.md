@@ -1,0 +1,9 @@
+# Réponse à la question n° 61731
+
+- Question : [61731](61731.md) — Question n° 61731 — ouvrages non collectifs; réglementation
+
+## Réponse
+
+*JO du 2014-10-07*
+
+Le ministère de l'écologie, du développement durable et de l'énergie reconnaît la difficulté rencontrée par les services publics d'assainissement non collectif (SPANC) à réaliser le suivi des mises en conformité dans le cadre de ventes immobilières, ceux-ci n'étant pas systématiquement informés des ventes. Demander aux notaires d'informer systématiquement les SPANC permettrait de résoudre cette difficulté, mais à l'inverse constituerait une procédure administrative nouvelle dans un contexte où le Gouvernement se mobilise pour la simplification. C'est pourquoi, le ministère de l'écologie, du développement durable et de l'énergie a, au préalable, souhaité prendre contact avec la profession des notaires pour évaluer la faisabilité de cette mesure. Le nouveau Plan d'actions national sur l'assainissement non collectif (PANANC) en cours de rédaction permettra une réflexion sur ce sujet. Par ailleurs, le ministère a d'ores et déjà mis en place des mesures d'information et de sensibilisation des notaires ainsi que des acheteurs ou vendeurs d'immeubles. Une plaquette d'information à destination des usagers a notamment été rédigée par les services des ministères en charge de l'environnement et de la santé avec le Conseil supérieur du notariat. Celle-ci est en cours de diffusion auprès des notaires afin d'informer les acheteurs ou vendeurs d'un immeuble de leurs obligations en matière d'assainissement non collectif. Cette plaquette intitulée « Acheteur ou vendeur d'une maison, ce qu'il faut savoir » est disponible sur le portail interministériel de l'assainissement non collectif à l'adresse suivante : http ://www. assainissement-non-collectif. developpement-durable. gouv. fr/pour-comprendre-les-textes-r108. html.
