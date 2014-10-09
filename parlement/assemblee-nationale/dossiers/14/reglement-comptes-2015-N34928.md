@@ -1,0 +1,74 @@
+# Budget : règlement des comptes 2015
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34928
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/reglement_comptes_2015
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl15-756.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2016-05-25 : 1er dépôt d'une initiative. (PRJLANR5L14B3781)
+  - 2016-05-25 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-05-25 : Renvoi en commission au fond
+      - 2015-10-01 : Nomination de rapporteur
+      - 2016-05-25 : Réunion de commission
+      - 2016-05-25 : Réunion de commission
+      - 2016-06-14 : Réunion de commission
+      - 2016-06-15 : Réunion de commission
+      - 2016-06-21 : Réunion de commission
+      - 2016-06-29 : Dépôt de rapport (RAPPANR5L14B3895)
+  - Discussion en séance publique
+    - 2016-07-04 : Discussion en séance publique
+    - 2016-07-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2016-07-05 : Dépôt d'une initiative en navette (PRJLSNR5S259B0756)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-05 : Renvoi en commission au fond
+      - 2014-10-09 : Nomination de rapporteur
+      - 2016-07-06 : Dépôt de rapport (RAPPSNR5S259B0759)
+  - Discussion en séance publique
+    - 2016-07-07 : Discussion en séance publique
+    - 2016-07-07 : Décision
+- Commission Mixte Paritaire
+  - 2016-07-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2016-07-12 : Nomination de rapporteur
+    - 2016-07-12 : Dépôt du rapport d'une CMP (RAPPANR5L14B3940)
+    - 2016-07-12 : Dépôt du rapport d'une CMP (RAPPSNR5S259B0777)
+  - 2016-07-12 : Décision de la CMP
+- Nouvelle Lecture
+  - 2016-07-08 : Dépôt d'une initiative en navette (PRJLANR5L14B3938)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-08 : Renvoi en commission au fond
+      - 2016-07-12 : Réunion de commission
+      - 2016-07-12 : Dépôt de rapport (RAPPANR5L14B3941)
+  - Discussion en séance publique
+    - 2016-07-12 : Discussion en séance publique
+    - 2016-07-12 : Discussion en séance publique
+    - 2016-07-12 : Décision
+- Nouvelle Lecture
+  - 2016-07-12 : Dépôt d'une initiative en navette (PRJLSNR5S259B0785)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-12 : Renvoi en commission au fond
+      - 2016-07-13 : Dépôt de rapport (RAPPSNR5S259B0786)
+  - Discussion en séance publique
+    - 2016-07-13 : Discussion en séance publique
+    - 2016-07-13 : Décision
+- Lecture définitive
+  - 2016-07-13 : Dépôt d'une initiative en navette (PRJLANR5L14B3965)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2016-07-13 : Renvoi en commission au fond
+      - 2016-07-18 : Dépôt de rapport (RAPPANR5L14B3967, PRJLANR5L14BTC3967)
+  - Discussion en séance publique
+    - 2016-07-18 : Discussion en séance publique
+    - 2016-07-18 : Décision
+- Promulgation de la loi
+  - 2016-07-22 : Promulgation d'une loi
