@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511624
+
+- Question : [SEQ140511624](seq140511624.md) — Attribution de concessions dans un cimetière
+
+## Réponse
+
+*Intérieur, JO du 2014-10-09, page 2300*
+
+En application de l'article L. 2223-14 du code général des collectivités territoriales, les communes ont la faculté d'instituer des concessions funéraires dans leurs cimetières. L'octroi des concessions relève de la compétence des conseils municipaux qui peuvent, dans les conditions prévues à l'article L. 2122-22 du code précité, déléguer cette compétence au maire. Le conseil municipal est en tout état de cause compétent pour instituer des concessions, les supprimer et pour en fixer les tarifs. L'article L. 2223-15 prévoit que « les concessions sont accordées moyennant le versement d'un capital dont le montant est fixé par le conseil municipal ». Ces dispositions impliquent qu'en principe, il est interdit aux communes d'accorder gratuitement des concessions de terrain dans leurs cimetières. Le prix fixé peut toutefois être modique ou symbolique. Par ailleurs, le juge administratif considère qu'une sépulture qui n'a pas donné lieu à la délivrance d'un titre (en raison de l'absence de paiement de la redevance) doit être considérée comme une sépulture en terrain commun (CAA Marseille, 10 mars 2011, n° 09MA00288, Annie Piperno). Une commune qui aurait accordé gratuitement et par accord verbal du maire des concessions funéraires peut souhaiter régulariser la situation. Dans ce cas, il peut être envisagé qu'elle prenne contact avec les familles concernées dans le but de formaliser les attributions de concessions. Les contrats administratifs ainsi conclus entre la commune et les familles intéressées ne produiront des effets que pour l'avenir. Ces dernières paieront le montant du capital, fixé par le conseil municipal, en vigueur au moment de la conclusion du contrat.
