@@ -1,0 +1,75 @@
+# Budget : règlement des comptes 2014
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 14
+- Identifiant : DLR5L14N34004
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/14/dossiers/reglement_comptes_2014
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl14-596.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2015-05-27 : 1er dépôt d'une initiative. (PRJLANR5L14B2813)
+  - 2015-05-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-05-27 : Renvoi en commission au fond
+      - 2015-05-27 : Nomination de rapporteur
+      - 2015-06-23 : Réunion de commission
+      - 2015-06-23 : Réunion de commission
+      - 2015-06-24 : Réunion de commission
+      - 2015-07-01 : Réunion de commission
+      - 2015-07-01 : Réunion de commission
+      - 2015-07-01 : Réunion de commission
+      - 2015-07-01 : Dépôt de rapport (RAPPANR5L14B2921)
+  - Discussion en séance publique
+    - 2015-07-06 : Discussion en séance publique
+    - 2015-07-06 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2015-07-07 : Dépôt d'une initiative en navette (PRJLSNR5S239B0596)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-07 : Renvoi en commission au fond
+      - 2014-10-09 : Nomination de rapporteur
+      - 2015-07-08 : Dépôt de rapport (RAPPSNR5S239B0604)
+  - Discussion en séance publique
+    - 2015-07-09 : Discussion en séance publique
+    - 2015-07-09 : Décision
+- Commission Mixte Paritaire
+  - 2015-07-10 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2015-07-15 : Nomination de rapporteur
+    - 2015-07-15 : Dépôt du rapport d'une CMP (RAPPANR5L14B2980)
+    - 2015-07-15 : Dépôt du rapport d'une CMP (RAPPSNR5S239B0622)
+  - 2015-07-15 : Décision de la CMP
+- Nouvelle Lecture
+  - 2015-07-10 : Dépôt d'une initiative en navette (PRJLANR5L14B2973)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-10 : Renvoi en commission au fond
+      - 2015-07-15 : Réunion de commission
+      - 2015-07-15 : Dépôt de rapport (RAPPANR5L14B2986)
+  - Discussion en séance publique
+    - 2015-07-16 : Discussion en séance publique
+    - 2015-07-16 : Décision
+- Nouvelle Lecture
+  - 2015-07-16 : Dépôt d'une initiative en navette (PRJLSNR5S239B0642)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-16 : Renvoi en commission au fond
+      - 2015-07-21 : Dépôt de rapport (RAPPSNR5S239B0645)
+  - Discussion en séance publique
+    - 2015-07-21 : Discussion en séance publique
+    - 2015-07-21 : Décision
+- Lecture définitive
+  - 2015-07-22 : Dépôt d'une initiative en navette (PRJLANR5L14B3000)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2015-07-22 : Renvoi en commission au fond
+      - 2015-07-22 : Réunion de commission
+      - 2015-07-22 : Dépôt de rapport (RAPPANR5L14B3001)
+  - Discussion en séance publique
+    - 2015-07-22 : Discussion en séance publique
+    - 2015-07-22 : Décision
+- Promulgation de la loi
+  - 2015-08-03 : Promulgation d'une loi
