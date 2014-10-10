@@ -90,7 +90,7 @@ Personne seule
 
 |
 
-253,58
+255,03
 
 |
 
@@ -98,7 +98,7 @@ Couple sans personne à charge
 
 |
 
-310,38
+312,15
 
 |
 
@@ -106,7 +106,7 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-349,26
+351,25
 
 |
 
@@ -114,7 +114,7 @@ Par personne supplémentaire à charge
 
 |
 
-50,83
+51,12
 
 |
 
@@ -127,3 +127,7 @@ Pour la détermination de TL, les taux et tranches sont fixés comme suit :
 0, 68 % pour la tranche de RL supérieure à 75 %.
 
 TL exprimé en pourcentage est arrondi à la troisième décimale.
+
+NOTA :
+
+Arrêté du 30 septembre 2014 article 6 : ces dispositions sont applicables pour les prestations dues à compter du mois d'octobre 2014.

@@ -18,7 +18,9 @@ PP représente la participation personnelle du ménage à la dépense de logemen
 
 II.-En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 sont fixés comme suit :
 
-ZONE |
+ZONE
+
+|
 
 PERSONNE SEULE
 
@@ -26,15 +28,17 @@ PERSONNE SEULE
 
 |
 
-COUPLE SANS PERSONNE
+COUPLE
 
-à charge
+sans personne à charge
 
 (en euros)
 
 |
 
-PERSONNE SEULE OU COUPLE
+PERSONNE SEULE
+
+ou couple
 
 ayant une personne à charge
 
@@ -42,7 +46,9 @@ ayant une personne à charge
 
 |
 
-PAR PERSONNE À CHARGE SUPPLÉMENTAIRE
+PAR PERSONNE
+
+à charge supplémentaire
 
 (en euros)
 
@@ -52,19 +58,19 @@ I
 
 |
 
-290,96
+292,62
 
 |
 
-350,92
+352,92
 
 |
 
-396,61
+398,87
 
 |
 
-57,53
+57,86
 
 |
 
@@ -72,19 +78,19 @@ II
 
 |
 
-253,58
+255,03
 
 |
 
-310,38
+312,15
 
 |
 
-349,26
+351,25
 
 |
 
-50,83
+51,12
 
 |
 
@@ -92,19 +98,19 @@ III
 
 |
 
-237,67
+239,02
 
 |
 
-288,12
+289,76
 
 |
 
-323,05
+324,89
 
 |
 
-46,30
+46,56
 
 |
 
@@ -113,3 +119,7 @@ Dans le cas des colocataires prévu au sixième alinéa de l'article R. 351-17 e
 Dans le cas où le logement occupé est une chambre, le plafond de loyer est fixé à 90 % du plafond de loyer applicable au bénéficiaire isolé mentionné ci-dessus, sauf dans le cas visé à l'article L. 351-15 où ce plafond est fixé à 75 %.
 
 Les montants obtenus par l'application de ces pourcentages sont arrondis au centime d'euro le plus proche.
+
+NOTA :
+
+Arrêté du 30 septembre 2014 article 6 : ces dispositions sont applicables pour les prestations dues à compter du mois d'octobre 2014.
