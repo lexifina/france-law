@@ -1,6 +1,6 @@
 # Article Annexe II
 
-(Quotas en tonnes)
+(QUOTAS EN TONNES)
 
 |
 
@@ -12,25 +12,23 @@ QUOTA EN OCÉAN ATLANTIQUE
 
 QUOTA
 
-en mer Méditerranée
+en mer
+
+Méditerranée
 
 |
 
-Pour la pêche
+|
 
-au chalut
+Pour la pêche au chalut
 
 |
 
-Pour la pêche
-
-à la ligne et à la canne
+Pour la pêche à la ligne et à la canne
 
 |
 
-Pour la pêche
-
-à la palangre
+Pour la pêche à la palangre
 
 |
 
@@ -118,7 +116,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-13
+2
 
 |
 
@@ -134,7 +132,7 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 |
 
-Navires adhérant à l'organisation de producteurs Organisation de producteurs de La Cotinière
+Navires adhérant à l'organisation de producteurs Organisation de producteurs de la Cotinière
 
 |
 
@@ -154,7 +152,7 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 |
 
-Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse-Normandie (OPBN)
+Navires adhérant à l'organisation de producteurs Marins-Pêcheurs de Basse Normandie (OPBN)
 
 |
 
@@ -198,7 +196,7 @@ Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne
 
 |
 
-69
+58
 
 |
 
@@ -218,7 +216,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-24
+39
 
 |
 
@@ -226,7 +224,7 @@ Navires adhérant à l'organisation de producteurs de Vendée
 
 |
 
-13
+20
 
 |
 
@@ -258,7 +256,7 @@ Total
 
 |
 
-150
+143
 
 |
 
@@ -266,10 +264,12 @@ Total
 
 |
 
-15
+22
 
 |
 
 0
 
 |
+
+.

@@ -1,28 +1,40 @@
 # Article Annexe I
 
-(Quotas en tonnes)
+(QUOTAS EN TONNES)
 
 |
 
 QUOTA
 
-en mer Méditerranée
+en mer
+
+Méditerranée
 
 |
 
-QUOTA
+DONT XT MAXIMUM
 
-en océan Atlantique
+est composé
 
-à l'est
+de thon rouge
 
-de la longitude
+pesant entre 8 kg
 
-45° Ouest
+et 30 kg
 
 |
 
-OP DU SUD
+QUOTA EN OCÉAN
+
+atlantique à l'Est
+
+de la longitude 45°
+
+Ouest
+
+|
+
+OP du Sud
 
 |
 
@@ -30,7 +42,11 @@ Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-65,5 (*)
+65,5
+
+|
+
+13,0
 
 |
 
@@ -42,7 +58,11 @@ Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-11,1 (*)
+11,1
+
+|
+
+2,2
 
 |
 
@@ -50,7 +70,7 @@ Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-TOTAL OP DU SUD
+Total OP du Sud
 
 |
 
@@ -58,9 +78,11 @@ TOTAL OP DU SUD
 
 |
 
-0
+15,2
 
 |
+
+0 |
 
 OP SATHOAN
 
@@ -70,55 +92,105 @@ Senneurs titulaires d'une AEP "thon rouge" :
 
 |
 
-JEAN MARIE CHRISTIAN 3
-
-JEAN MARIE CHRISTIAN 4
-
-JANVIER GIORDANO
-
-ST SOPHIE FRANÇOIS 2
-
-JEAN MARIE CHRISTIAN 6
-
-JEAN MARIE CHRISTIAN 7
-
-ST SOPHIE FRANCOIS 3
-
-JANVIER LOUIS RAPHAEL
-
-|
-
-immatriculé 781462
-
-immatriculé 819527
-
-immatriculé 819571
-
-immatriculé 859076
-
-immatriculé 900265
-
-immatriculé 900270
-
-immatriculé 923752
-
-immatriculé 925310
-
-|
+Jean Marie Christian 3 immatriculé 781462 |
 
 150
 
+|
+
+0
+
+|
+
+0
+
+|
+
+Jean Marie Christian 4 immatriculé 819527 |
+
 150
+
+|
+
+0
+
+|
+
+0
+
+|
+
+Janvier Giordano immatriculé 819571 |
 
 66
 
+|
+
+0
+
+|
+
+0
+
+|
+
+Sainte Sophie François 2 immatriculé 859076 |
+
 94
+
+|
+
+0
+
+|
+
+0
+
+|
+
+Jean Marie Christian 6 immatriculé 900265 |
 
 150
 
+|
+
+0
+
+|
+
+0
+
+|
+
+Jean Marie Christian 7 immatriculé 900270 |
+
 150
 
+|
+
+0
+
+|
+
+0
+
+|
+
+Sainte Sophie François 3 immatriculé 923752 |
+
 94
+
+|
+
+0
+
+|
+
+0
+
+|
+
+Janvier Louis Raphaël immatriculé 925310 |
 
 248
 
@@ -126,17 +198,7 @@ immatriculé 925310
 
 0
 
-0
-
-0
-
-0
-
-0
-
-0
-
-0
+|
 
 0
 
@@ -146,7 +208,11 @@ Palangriers hauturiers titulaires d'une AEP "thon rouge"
 
 |
 
-23,5 (**)
+23,5
+
+|
+
+2,3
 
 |
 
@@ -158,7 +224,11 @@ Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-111,7 (*)
+106,85
+
+|
+
+22,8
 
 |
 
@@ -170,7 +240,11 @@ Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-0,8 (*)
+5,65
+
+|
+
+1,5
 
 |
 
@@ -178,7 +252,7 @@ Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-TOTAL SATHOAN
+Total SATHOAN
 
 |
 
@@ -186,13 +260,15 @@ TOTAL SATHOAN
 
 |
 
+26,6
+
+|
+
 0
 
 |
 
-Groupement de navires
-
-STM
+Groupement de navires STM
 
 |
 
@@ -200,57 +276,63 @@ Senneurs titulaires d'une AEP "thon rouge" :
 
 |
 
-JUANICO LUCIEN RAFAEL
-
-CISBERLANDE 5
-
-GERALD JEAN III
-
-GERALD JEAN IV
-
-|
-
-immatriculé 308341
-
-immatriculé 923751
-
-immatriculé 916344
-
-immatriculé 916469
-
-|
+Juanico Lucien Rafael immatriculé 308341 |
 
 114
 
-198
+|
+
+0
+
+|
+
+0
+
+|
+
+Cisberlande 5 immatriculé 923751 |
+
+256
+
+|
+
+0
+
+|
+
+0
+
+|
+
+Gerald Jean III immatriculé 916344 |
 
 61
 
+|
+
+0
+
+|
+
+0
+
+|
+
+Gerald Jean IV immatriculé 916469 |
+
 61
 
 |
 
 0
 
+|
+
 0
 
-0
-
-0
-
 |
 
-Réserve
-
-|
-
-58
-
-|
-
-|
-
-TOTAL STM
+Total STM
 
 |
 
@@ -262,11 +344,11 @@ TOTAL STM
 
 |
 
-Groupement
+0
 
-de navires
+|
 
-golfe du Lion (SPMLR)
+Groupement de navires golfe du Lion (SPMLR)
 
 |
 
@@ -274,7 +356,11 @@ Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-2,3 (*)
+2,7
+
+|
+
+0,5
 
 |
 
@@ -286,7 +372,11 @@ Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-0,8 (*)
+1,2
+
+|
+
+0,2
 
 |
 
@@ -294,11 +384,15 @@ Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge"
 
 |
 
-TOTAL SPMLR
+Total SPMLR
 
 |
 
-3,1
+3,9
+
+|
+
+0,7
 
 |
 
@@ -306,85 +400,133 @@ TOTAL SPMLR
 
 |
 
-Navires non adhérant à une organisation
+|
+
+QUOTA
+
+en mer
+
+Méditerranée
+
+|
+
+DONT XT MAXIMUM
+
+est composé
+
+de thon rouge
+
+pesant entre 8 kg
+
+et 30 kg |
+
+QUOTA EN OCÉAN
+
+atlantique à l'Est
+
+de la longitude 45°
+
+Ouest |
+
+Navires n'adhérant pas à une organisation
 
 de producteurs (hors OP)
 
 |
 
-Senneurs titulaires d'une AEP "thon rouge" :
+Senneurs titulaires d'une AEP
+
+"thon rouge" :
 
 |
 
-ANNE ANTOINE II
-
-GERARD LUC IV
-
-ERIC MARIN
-
-CHRISDERIC II
-
-VILLE D'AGDE IV
+Anne Antoine II immatriculé 819572
 
 |
 
-immatriculé 819572
+58 |
 
-immatriculé 900236
-
-immatriculé 924860
-
-immatriculé 863686
-
-immatriculé 924880
+0
 
 |
 
-58
+0
+
+|
+
+Gerard Luc IV immatriculé 900236
+
+|
 
 118
 
+|
+
+0
+
+|
+
+0
+
+|
+
+Eric Marin immatriculé 924860
+
+|
+
 58
 
+|
+
+0
+
+|
+
+0
+
+|
+
+Chrisderic II immatriculé 863686
+
+|
+
 58
 
+|
+
+0
+
+|
+
+0
+
+|
+
+Ville d'Agde IV immatriculé 924880 |
+
 58
 
 |
 
 0
 
-0
-
-0
-
-0
-
-0
-
-|
-
-Palangriers "petits métiers" titulaires d'une AEP "thon rouge"
-
-|
-
-et immatriculés dans un quartier maritime des Alpes-Maritimes
-
-|
-
-0,9 (*)
-
 |
 
 0
 
 |
 
-et immatriculés dans un quartier maritime des Bouches-du-Rhône
+Palangriers "petits métiers" titulaires
+
+d'une AEP "thon rouge"
 
 |
 
-15 (*)
+et immatriculés dans un quartier maritime des Alpes maritimes |
+
+0,9 |
+
+0,2
 
 |
 
@@ -392,23 +534,13 @@ et immatriculés dans un quartier maritime des Bouches-du-Rhône
 
 |
 
-et immatriculés dans un quartier maritime de la Corse
+et immatriculés dans un quartier maritime des Bouches-du-Rhône |
+
+15,0
 
 |
 
-4,7 (*)
-
-|
-
-0
-
-|
-
-et immatriculés dans un quartier maritime de l'Hérault
-
-|
-
-8,2 (*)
+3,0
 
 |
 
@@ -416,23 +548,13 @@ et immatriculés dans un quartier maritime de l'Hérault
 
 |
 
-et immatriculés dans un quartier maritime des Pyrénées-Orientales
+et immatriculés dans un quartier maritime de la Corse |
+
+4,7
 
 |
 
-0,4 (*)
-
-|
-
-0
-
-|
-
-et immatriculés dans un quartier maritime du Var
-
-|
-
-0,6 (*)
+0,9
 
 |
 
@@ -440,27 +562,13 @@ et immatriculés dans un quartier maritime du Var
 
 |
 
-Canneurs, ligneurs "petits métiers" titulaires d'une AEP "thon rouge" :
+et immatriculés dans un quartier maritime de l'Hérault |
+
+8,2
 
 |
 
-et immatriculés dans un quartier maritime des Alpes-Maritimes
-
-|
-
-0 (*)
-
-|
-
-0
-
-|
-
-et immatriculés dans un quartier maritime des Bouches-du-Rhône
-
-|
-
-3,0 (*)
+1,6
 
 |
 
@@ -468,11 +576,11 @@ et immatriculés dans un quartier maritime des Bouches-du-Rhône
 
 |
 
-et immatriculés dans un quartier maritime de la Corse
+et immatriculés dans un quartier maritime des Pyrénées-Orientales |
 
-|
+0 |
 
-2,1 (*)
+0
 
 |
 
@@ -480,23 +588,13 @@ et immatriculés dans un quartier maritime de la Corse
 
 |
 
-et immatriculés dans un quartier maritime de l'Hérault
+et immatriculés dans un quartier maritime du Var |
+
+0,6
 
 |
 
-0 (*)
-
-|
-
-0
-
-|
-
-et immatriculés dans un quartier maritime des Pyrénées-Orientales
-
-|
-
-0,4 (*)
+0,1
 
 |
 
@@ -504,11 +602,15 @@ et immatriculés dans un quartier maritime des Pyrénées-Orientales
 
 |
 
-et immatriculés dans un quartier maritime du Var
+Canneurs, ligneurs "petits métiers"
+
+titulaires d'une AEP "thon rouge" :
 
 |
 
-0 (*)
+et immatriculés dans un quartier maritime des Alpes-Maritimes |
+
+0
 
 |
 
@@ -516,11 +618,15 @@ et immatriculés dans un quartier maritime du Var
 
 |
 
-TOTAL HORS OP
+0
 
 |
 
-350
+et immatriculés dans un quartier maritime des Bouches-du-Rhône |
+
+3,0 |
+
+0,6
 
 |
 
@@ -528,9 +634,77 @@ TOTAL HORS OP
 
 |
 
-Navires pêchant au chalut au titre des prises accessoires telles que définies par la réglementation en vigueur
+et immatriculés dans un quartier maritime de la Corse |
+
+2,1
 
 |
+
+0,4
+
+|
+
+0
+
+|
+
+et immatriculés dans un quartier maritime de l'Hérault |
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+et immatriculés dans un quartier maritime des Pyrénées-Orientales |
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+et immatriculés dans un quartier maritime du Var |
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+Total hors OP |
+
+384,5
+
+|
+
+6,8
+
+|
+
+0
+
+|
+
+Navires pêchant au chalut au titre des prises accessoires telles que définies par la réglementation en vigueur |
 
 4
 
@@ -540,20 +714,20 @@ Navires pêchant au chalut au titre des prises accessoires telles que définies 
 
 |
 
-TOTAL
+0
 
 |
+
+Total |
 
 2 199
 
 |
 
-0
+49,3
 
 |
 
-(*) Dont 19,9 % maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
-
-(**) Dont 17,9 % maximum est composé de thon rouge pesant entre 8 kg et 30 kg.
+0
 
 |
