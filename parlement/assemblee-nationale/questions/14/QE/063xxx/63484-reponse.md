@@ -1,0 +1,9 @@
+# Réponse à la question n° 63484
+
+- Question : [63484](63484.md) — Question n° 63484 — bande de Gaza; opérations militaires; attitude de la France
+
+## Réponse
+
+*JO du 2014-10-14*
+
+Les opérations militaires israéliennes sur la bande de Gaza ont impliqué des soldats relevant des forces armées israéliennes. En vertu d'un principe bien établi en droit international, chaque Etat, sous réserve de respecter les prescriptions du droit international, est libre de définir les critères de l'octroi de sa nationalité à titre originaire ou par voie de naturalisation. Ainsi, si le code civil encadre les conditions dans lesquelles une personne peut acquérir la nationalité française, il autorise également des citoyens français à acquérir une nationalité étrangère. Enfin, le code pénal définit les conditions et les limites dans lesquelles des poursuites peuvent être engagées lorsque des Français commettent ou sont victimes de crimes ou délits à l'étranger. Israël a le droit d'assurer sa sécurité et celle de sa population. Pour autant, ce droit doit s'exercer dans le cadre des principes du droit international humanitaire applicables à tout conflit armé. La France, qui a dénoncé les massacres de civils commis à Gaza, est attachée au principe de la lutte contre l'impunité. La France s'est associée au secrétaire général des Nations unies, qui a estimé que « les responsabilités devaient être déterminées » et que « justice devait être rendue ». La France soutient la commission d'enquête internationale indépendante chargée d'enquêter sur les événements de Gaza, prévue par la résolution du Conseil des droits de l'Homme adoptée le 23 juillet dernier. Alors qu'un cessez-le-feu est entré en vigueur à Gaza depuis le 26 août, la France déploie tous ses efforts pour favoriser la conclusion d'un accord durable entre les parties et obtenir une relance du processus de paix, qui passe par la solution des deux États.
