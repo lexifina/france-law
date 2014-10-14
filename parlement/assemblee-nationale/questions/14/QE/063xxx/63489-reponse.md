@@ -1,0 +1,9 @@
+# Réponse à la question n° 63489
+
+- Question : [63489](63489.md) — Question n° 63489 — accord transatlantique; conflits investisseur-État
+
+## Réponse
+
+*JO du 2014-10-14*
+
+Le mandat donné à la Commission européenne par les Etats membres prévoit l'inclusion dans le partenariat commercial transatlantique d'un mécanisme de règlement des différends investisseurs-Etats permettant de confier à l'arbitrage international le soin de trancher les litiges qui pourraient survenir entre un Etat et une entreprise investissant dans cet Etat. Un mécanisme de règlement des différends investisseurs-Etats est aussi en cours de négociation avec la Chine, le Vietnam et Singapour, et figure dans l'accord négocié par la Commission avec le Canada. Néanmoins, face aux inquiétudes exprimées par la société civile quant à l'inclusion d'un tel mécanisme dans le partenariat commercial transatlantique, le commissaire au commerce Karel de Gucht a suspendu les négociations sur ce sujet avec les Etats Unis. Une consultation publique a été lancée en mars 2014 et s'est achevée en juillet 2014. Après traitement des réponses, la Commission publiera un rapport détaillant les conclusions de la consultation en novembre 2014. C'est au vu de ce rapport, que la France prendra position sur l'opportunité de maintenir un mécanisme de règlement des différends investisseurs-Etats dans le partenariat commercial transatlantique. L'enjeu principal du débat public repose sur la recherche du juste équilibre entre le droit à réguler des Etats (notamment dans certains secteurs de politique publique comme la santé, la culture, ou l'environnement) et la protection des investisseurs. Le gouvernement, au vu des conclusions du rapport de la Commission, des critiques et du débat qui s'ensuivra, s'emploiera à rechercher en toute transparence l'équilibre satisfaisant entre protection des investisseurs français et prise en compte des craintes et critiques exprimées par la société civile.
