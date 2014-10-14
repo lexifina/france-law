@@ -1,0 +1,9 @@
+# Réponse à la question n° 56669
+
+- Question : [56669](56669.md) — Question n° 56669 — agence pour l'enseignement français à l'étranger; comité technique; composition
+
+## Réponse
+
+*JO du 2014-10-14*
+
+L'Agence pour l'enseignement français à l'étranger (AEFE), établissement public sous la tutelle du ministère des affaires étrangères et du développement international, est très attachée à la qualité du dialogue social, notamment au sein de son comité technique central (CT). Cinq représentants syndicaux siègent actuellement au CT, pour un corps électoral de 11 600 membres, dont 6 600 titulaires expatriés et résidents. Si l'établissement public (CNRS) a dix représentants, le nombre de ses agents est bien supérieur, avec 36 000 agents dont 26 000 titulaires. Rien ne permet d'affirmer qu'une augmentation du nombre de sièges pour les représentants du personnel se traduirait par un élargissement de la diversité des forces syndicales représentées. En tout état de cause, aucune modification ne peut être apportée en cours de mandat et les prochaines élections auront lieu le 4 décembre 2014. L'AEFE finance par ailleurs l'équivalent de 28 ETP donnant droit à décharge dans le réseau sur la base d'un ETP pour 230 agents dans le réseau, respectant ainsi la représentation syndicale au plus près des agents. L'Agence signale d'ailleurs que lors du CT, entre dix et quinze experts accompagnant les représentants des personnels du réseau sont invités systématiquement à intervenir lors de la tenue des débats. Enfin, l'AEFE prévoit par inscription en loi de finances 2015 d'augmenter son plafond d'emplois de cinq ETP par transfert depuis le réseau et permettre ainsi d'accorder aux représentants syndicaux une décharge totale sur les services centraux. Dans l'état actuel des choses, l'AEFE n'envisage pas d'augmenter le nombre de représentants syndicaux à son comité technique central.
