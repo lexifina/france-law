@@ -1,0 +1,9 @@
+# Réponse à la question n° 62276
+
+- Question : [62276](62276.md) — Question n° 62276 — poids; réglementation
+
+## Réponse
+
+*JO du 2014-10-14*
+
+Deux articles du code de la route visent la responsabilité du donneur d'ordre en cas de surcharges : - l'article R. 121-4 indique que le fait, pour tout expéditeur, commissionnaire, affréteur, mandataire, destinataire ou tout autre donneur d'ordres à un transporteur routier de marchandises, directement ou par l'intermédiaire d'un mandataire ou d'un préposé, de provoquer, par une fausse déclaration du poids d'un chargement placé à bord d'un véhicule, un dépassement des limites de poids fixées par les articles R. 312-2, R. 312-4 et R. 312-6, est puni de l'amende prévue pour les contraventions de la cinquième classe ; - l'article R. 121-5, dispose que le fait, pour tout expéditeur, commissionnaire, affréteur, mandataire, destinataire ou tout autre donneur d'ordres, en connaissance de cause, de donner à tout transporteur routier de marchandises, ou à tout préposé de celui-ci, des instructions incompatibles avec le respect des dispositions des articles R. 312-2, R. 312-3 et R. 312-4, relatives aux limites de poids des véhicules est puni de l'amende prévue pour les contraventions de la cinquième classe. De plus, les services de contrôles de l'État ont reçu pour consigne, par instruction du Gouvernement du 24 décembre 2013 relative à la régulation et au contrôle des transports routiers, de renforcer les contrôles routiers, notamment ceux en matière de contrôles des surcharges. Dans ce cadre, les directions régionales de l'environnement, de l'aménagement et du logement (DREAL) organisent annuellement des contrôles de surcharge sur environ 50 000 poids lourds. Ces contrôles contribuent, par leurs caractères pédagogiques, à informer les sous-traitants sur la réglementation en vigueur en matière de respect des charges limites.
