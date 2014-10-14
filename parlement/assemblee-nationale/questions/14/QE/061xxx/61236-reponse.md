@@ -1,0 +1,9 @@
+# Réponse à la question n° 61236
+
+- Question : [61236](61236.md) — Question n° 61236 — marins et officiers des phares et balises; missions; revalorisation
+
+## Réponse
+
+*JO du 2014-10-14*
+
+L'exposition des marins de l'armement des phares et balises aux risques professionnels motive prioritairement une politique de prévention et de sécurité au travail qui comporte les axes suivants. La pénibilité des travaux sur corde a été prise en compte par l'armement des phares et balises qui a déjà réalisé des investissements d'environ 60 000 euros au titre de la formation et de l'acquisition de matériels. Il convient cependant d'explorer les pistes techniques qui permettraient d'améliorer encore les conditions de travail sur corde ou bien de favoriser, par exemple, l'utilisation de nacelles adaptées. S'agissant de l'exposition à l'amiante, des dossiers techniques d'évaluation sont en cours de réalisation dans les installations et infrastructures encore susceptibles de comporter un risque, afin d'identifier les actions prioritaires à mener. Par ailleurs, l'exposition au mercure dans les phares a été prise en compte par les services, bien avant les événements météorologiques exceptionnels de cet hiver, en particulier par la définition de valeurs limites d'expositions abaissées et le renforcement des équipements de protection individuels. Un plan de dépollution des phares touchés cet hiver est en préparation avec une entreprise spécialisée. Au-delà, la nécessité de mener une étude détaillée sur l'état des phares comportant du mercure, et l'adoption d'une technologie qui permettrait de supprimer celui-ci, en particulier à l'intérieur des phares en mer, plus exposés et fragilisés par les intempéries, est bien appréhendée. Les services restent mobilisés sur ces sujets, dans un dialogue constructif avec les organisations syndicales, afin de poursuivre la réduction de la pénibilité au travail et l'exposition au risque des marins des phares et balises.
