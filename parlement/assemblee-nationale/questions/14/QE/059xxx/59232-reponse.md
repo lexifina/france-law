@@ -1,0 +1,9 @@
+# Réponse à la question n° 59232
+
+- Question : [59232](59232.md) — Question n° 59232 — CESE; rapport; recommandations
+
+## Réponse
+
+*JO du 2014-10-14*
+
+Les préconisations relatives à la forêt issues du rapport intitulé « L'adaptation de la France au changement climatique mondial » du Conseil économique, social et environnemental (CESE) publié en mai dernier s'inscrivent pleinement dans les objectifs actuels de prise en compte du changement climatique dans la gestion des forêts françaises portés par les ministères en charge des forêts et de l'écologie. Ces objectifs ont été réaffirmés dans la loi d'avenir pour l'agriculture, l'alimentation et la forêt adoptée le 11 septembre 2014 par l'Assemblée nationale, qui a notamment complété les orientations de la politique forestière nationale dans l'article L. 121-1 du code forestier par des objectifs d'adaptation des forêts au changement climatique et d'optimisation du stockage de carbone dans les bois et forêts. Dans la droite lignée des recommandations du CESE visant à faciliter la définition partagée d'une gestion multifonctionnelle de la forêt répondant à l'ensemble des enjeux dont celui du changement climatique, la loi instaure par ailleurs la création d'une commission régionale de la forêt et du bois composée de l'ensemble des acteurs (gestionnaires privés et publics, organisations professionnelles, associations, collectivités, services de l'État, etc.). Celle-ci a pour mission de définir un programme régional de la forêt et du bois adaptant à chaque région les orientations et les objectifs du programme national de la forêt et du bois, le document de cadrage national précisant les orientations de la politique forestière, élaboré en concertation avec le conseil supérieur de la forêt et du bois, qui assure également à son niveau une représentation équilibrée des différentes parties prenantes.
