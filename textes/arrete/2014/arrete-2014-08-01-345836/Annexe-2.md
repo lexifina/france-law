@@ -1,235 +1,459 @@
 # Article Annexe 2
 
-ANNEXE 2
+.
 
-C
+01
 
-Reste du territoire
+|
 
-01 |
+Ain
 
-Ain |
+|
 
-Challex |
+Challex
 
-01 |
+|
 
-Ain |
+01
 
-Chevry |
+|
 
-01 |
+Ain
 
-Ain |
+|
 
-Crozet |
+Chevry
 
-01 |
+|
 
-Ain |
+01
 
-Échenevex |
+|
 
-01 |
+Ain
 
-Ain |
+|
 
-Farges |
+Crozet
 
-01 |
+|
 
-Ain |
+01
 
-Grilly |
+|
 
-01 |
+Ain
 
-Ain |
+|
 
-Léaz |
+Echenevex
 
-01 |
+|
 
-Ain |
+01
 
-Pougny |
+|
 
-01 |
+Ain
 
-Ain |
+|
 
-Saint-Jean-de-Gonville |
+Farges
 
-01 |
+|
 
-Ain |
+01
 
-Sauverny |
+|
 
-01 |
+Ain
 
-Ain |
+|
 
-Sergy |
+Grilly
 
-01 |
+|
 
-Ain |
+01
 
-Versonnex |
+|
 
-01 |
+Ain
 
-Ain |
+|
 
-Vesancy |
+Léaz
 
-74 |
+|
 
-Haute-Savoie |
+01
 
-Andilly |
+|
 
-74 |
+Ain
 
-Haute-Savoie |
+|
 
-Arbusigny |
+Pougny
 
-74 |
+|
 
-Haute-Savoie |
+01
 
-Cercier |
+|
 
-74 |
+Ain
 
-Haute-Savoie |
+|
 
-Cernex |
+Saint-Jean-de-Gonville
 
-74 |
+|
 
-Haute-Savoie |
+01
 
-Chênex |
+|
 
-74 |
+Ain
 
-Haute-Savoie |
+|
 
-Copponex |
+Sauverny
 
-74 |
+|
 
-Haute-Savoie |
+01
 
-Cuvat |
+|
 
-74 |
+Ain
 
-Haute-Savoie |
+|
 
-Dingy-en-Vuache |
+Sergy
 
-74 |
+|
 
-Haute-Savoie |
+01
 
-Jonzier-Épagny |
+|
 
-74 |
+Ain
 
-Haute-Savoie |
+|
 
-Menthonnex-en-Bornes |
+Versonnex
 
-74 |
+|
 
-Haute-Savoie |
+01
 
-La Muraz |
+|
 
-74 |
+Ain
 
-Haute-Savoie |
+|
 
-Saint-Blaise |
+Vesancy
 
-74 |
+|
 
-Haute-Savoie |
+74
 
-Le Sappey |
+|
 
-74 |
+Haute-Savoie
 
-Haute-Savoie |
+|
 
-Savigny |
+Andilly
 
-74 |
+|
 
-Haute-Savoie |
+74
 
-Scientrier |
+|
 
-74 |
+Haute-Savoie
 
-Haute-Savoie |
+|
 
-Vers |
+Arbusigny
 
-74 |
+|
 
-Haute-Savoie |
+74
 
-Villy-le-Bouveret |
+|
 
-74 |
+Haute-Savoie
 
-Haute-Savoie |
+|
 
-Villy-le-Pelloux |
+Cercier
 
-74 |
+|
 
-Haute-Savoie |
+74
 
-Vovray-en-Bornes |
+|
 
-77 |
+Haute-Savoie
 
-Seine-et-Marne |
+|
 
-Réau |
+Cernex
 
-78 |
+|
 
-Yvelines |
+74
 
-Aigremont |
+|
 
-78 |
+Haute-Savoie
 
-Yvelines |
+|
 
-Châteaufort |
+Chênex
 
-78 |
+|
 
-Yvelines |
+74
 
-Saint-Germain-de-la-Grange |
+|
 
-78 |
+Haute-Savoie
 
-Yvelines |
+|
 
-Toussus-le-Noble |
+Copponex
 
-91 |
+|
 
-Essonne |
+74
 
-Boissy-sous-Saint-Yon |
+|
+
+Haute-Savoie
+
+|
+
+Cuvat
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Dingy-en-Vuache
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Jonzier-Epagny
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Menthonnex-en-Bornes
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+La Muraz
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Saint-Blaise
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Le Sappey
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Savigny
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Scientrier
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Vers
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Villy-le-Bouveret
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Villy-le-Pelloux
+
+|
+
+74
+
+|
+
+Haute-Savoie
+
+|
+
+Vovray-en-Bornes
+
+|
+
+77
+
+|
+
+Seine-et-Marne
+
+|
+
+Réau
+
+|
+
+78
+
+|
+
+Yvelines
+
+|
+
+Aigremont
+
+|
+
+78
+
+|
+
+Yvelines
+
+|
+
+Châteaufort
+
+|
+
+78
+
+|
+
+Yvelines
+
+|
+
+Saint-Germain-de-la-Grange
+
+|
+
+78
+
+|
+
+Yvelines
+
+|
+
+Toussus-le-Noble
+
+|
+
+91
+
+|
+
+Essonne
+
+|
+
+Boissy-sous-Saint-Yon
+
+|

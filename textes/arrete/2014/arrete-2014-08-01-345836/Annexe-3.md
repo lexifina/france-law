@@ -1,7 +1,5 @@
 # Article Annexe 3
 
-ANNEXE 3
-
 01 |
 
 Ain |
@@ -174,7 +172,7 @@ Vauvenargues |
 
 Charente-Maritime |
 
-Île-d'Aix |
+Ile-d'Aix |
 
 17 |
 
@@ -234,25 +232,25 @@ La Brée-les-Bains |
 
 Côtes-d'Armor |
 
-Île-de-Bréhat |
+Ile-de-Bréhat |
 
 29 |
 
 Finistère |
 
-Île-de-Batz |
+Ile-de-Batz |
 
 29 |
 
 Finistère |
 
-Île-de-Sein |
+Ile-de-Sein |
 
 29 |
 
 Finistère |
 
-Île-Molène |
+Ile-Molène |
 
 29 |
 
@@ -366,7 +364,7 @@ Noizay |
 
 Indre-et-Loire |
 
-Saint-Étienne-de-Chigny |
+Saint-Etienne-de-Chigny |
 
 44 |
 
@@ -612,19 +610,19 @@ Groix |
 
 Morbihan |
 
-Île-d'Houat |
+Ile-d'Houat |
 
 56 |
 
 Morbihan |
 
-Île-aux-Moines |
+Ile-aux-Moines |
 
 56 |
 
 Morbihan |
 
-Île-d'Arz |
+Ile-d'Arz |
 
 57 |
 
@@ -894,7 +892,7 @@ Cuisy |
 
 Seine-et-Marne |
 
-Évry-Grégy-sur-Yerre |
+Evry-Grégy-sur-Yerre |
 
 77 |
 
@@ -1056,7 +1054,7 @@ Neufmoutiers-en-Brie |
 
 Seine-et-Marne |
 
-Noisy-sur-École |
+Noisy-sur-Ecole |
 
 77 |
 
@@ -1080,7 +1078,7 @@ Le Plessis-aux-Bois |
 
 Seine-et-Marne |
 
-Le Plessis-l'Évêque |
+Le Plessis-l'Evêque |
 
 77 |
 
@@ -1248,7 +1246,7 @@ Boinville-en-Mantois |
 
 Yvelines |
 
-La Boissière-École |
+La Boissière-Ecole |
 
 78 |
 
@@ -1506,7 +1504,7 @@ Thoiry |
 
 Yvelines |
 
-Vieille-Église-en-Yvelines |
+Vieille-Eglise-en-Yvelines |
 
 78 |
 
@@ -1566,7 +1564,7 @@ Rocbaron |
 
 Vendée |
 
-L'Île-d'Yeu |
+L'Ile-d'Yeu |
 
 91 |
 
@@ -1578,7 +1576,7 @@ Angervilliers |
 
 Essonne |
 
-Chauffour-lès-Étréchy |
+Chauffour-lès-Etréchy |
 
 91 |
 
@@ -1608,7 +1606,7 @@ Milly-la-Forêt |
 
 Essonne |
 
-Moigny-sur-École |
+Moigny-sur-Ecole |
 
 91 |
 
@@ -1620,7 +1618,7 @@ Mondeville |
 
 Essonne |
 
-Oncy-sur-École |
+Oncy-sur-Ecole |
 
 91 |
 
@@ -1734,13 +1732,13 @@ Cormeilles-en-Vexin |
 
 Val-d'Oise |
 
-Épiais-Rhus |
+Epiais-Rhus |
 
 95 |
 
 Val-d'Oise |
 
-Épinay-Champlâtreux |
+Epinay-Champlâtreux |
 
 95 |
 
@@ -2118,7 +2116,7 @@ Eccica-Suarella |
 
 Corse-du-Sud |
 
-Évisa |
+Evisa |
 
 2A |
 
@@ -2862,7 +2860,7 @@ Erbajolo |
 
 Haute-Corse |
 
-Érone |
+Erone |
 
 2B |
 
