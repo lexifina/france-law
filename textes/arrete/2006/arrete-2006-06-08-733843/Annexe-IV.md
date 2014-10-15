@@ -1,27 +1,27 @@
 # Article Annexe IV
 
-|
-
-QUANTITÉ MAXIMALE
+CATÉGORIE DE PRODUITS
 
 |
 
-Livrée à des établissements de restauration collective
+QUANTITÉ MAXIMALE POUVANT ÊTRE CÉDÉE
+
+à des établissements de restauration (*)
 
 |
 
-Pour la mise en œuvre du dernier alinéa de l'article 12
+Lorsqu'elle représente moins de 30 % de la production totale de l'établissement pour la catégorie considérée
 
 |
 
-Repas ou fractions de repas composés des catégories de produits listées à l'annexe 3
+Lorsqu'elle représente plus de 30 % de la production totale de l'établissement pour la catégorie considérée
 
 |
 
-400 repas par semaine
+Repas ou préparations culinaires élaborées à l'avance constituant le plat principal d'un repas |
 
-|
+1000 par semaine |
 
-150 repas par semaine
+400 par semaine |
 
-|
+(*) Les quantités maximales ne s'appliquent pas en cas de livraison à des établissements caritatifs |
