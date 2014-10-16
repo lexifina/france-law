@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140913037
+
+- Question : [SEQ140913037](seq140913037.md) — Assurance des conseillers consulaires et des conseillers à l'Assemblée des Français de l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2014-10-16, page 2339*
+
+Les articles 5 et 13 de la loi n° 2013-659 du 22 juillet 2013 relative à la représentation des Français établis hors de France prévoient qu'un décret en Conseil d'État fixe, notamment, les conditions dans lesquelles ils sont indemnisés des dommages résultant des accidents subis dans le cadre de leur mandat. La loi n'a pas précisé la nature de ces accidents, que l'on peut donc entendre au sens large comme le résultat de dommages corporels, matériels et immatériels. Selon les articles 22 et 34 du décret n° 2014-144 du 18 février 2014 relatif aux conseils consulaires, à l'Assemblée des Français de l'étranger et à leurs membres, les conseillers consulaires et les conseillers à l'Assemblée des Français de l'étranger perçoivent une allocation annuelle forfaitaire destinée à contribuer à la souscription d'une police d'assurance ayant pour objet leur indemnisation en cas de dommages résultant des accidents subis dans le cadre de leur mandat. Les postes diplomatiques et consulaires et les conseillers ont fait part au ministère des affaires étrangères et du développement international de leurs difficultés, selon les pays, à souscrire une police spécifique pour couvrir les risques inhérents à leur mandat. Il leur a été indiqué qu'une attestation d'assurance couvrant les accidents de la vie et la responsabilité civile suffisait au versement de l'allocation d'assurance pour 2014. Le retour au système d'assurance groupée de l'ancienne assemblée supposerait une modification du décret en Conseil d'État, qui ne paraît pas opportune tant qu'un bilan complet n'aura pas été fait de l'ensemble de la réforme de représentation politique des Français à l'étranger.
