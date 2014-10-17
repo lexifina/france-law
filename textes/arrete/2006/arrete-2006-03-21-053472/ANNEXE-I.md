@@ -1,66 +1,20 @@
 # Article ANNEXE I
 
-ENSEIGNEMENTS DISPENSÉS DANS LES LYCÉES DE LA DÉFENSE
+Enseignements dispensés dans les lycées de la défense
 
-ENSEIGNEMENT DU SECOND DEGRÉ
+ENSEIGNEMENT DU SECOND DEGRÉ |
 
-|
+LYCÉE militaire d'Aix-en-Provence |
 
-LYCÉE
+LYCÉE militaire d'Autun |
 
-militaire
+PRYTANÉE national militaire de La Flèche |
 
-d'Aix-en-
+LYCÉE militaire de Saint-Cyr-l'Ecole |
 
-Provence
+LYCÉE naval de Brest |
 
-|
-
-LYCÉE
-
-militaire
-
-d'Autun
-
-|
-
-PRYTANÉE
-
-national
-
-militaire de
-
-La Flèche
-
-|
-
-LYCÉE
-
-militaire
-
-de Saint-Cyr-
-
-l'Ecole
-
-|
-
-LYCÉE
-
-naval
-
-de Brest
-
-|
-
-ÉCOLE
-
-des pupilles
-
-de l'air
-
-de Grenoble
-
-|
+ÉCOLE des pupilles de l'air de Grenoble |
 
 Premier cycle
 
@@ -72,8 +26,6 @@ Premier cycle
 
 |
 
-|
-
 X
 
 |
@@ -88,17 +40,7 @@ X
 
 |
 
-|
-
-1re et 2e année BEP
-
-administration commerciale
-
-et comptable (ACC)
-
-|
-
-|
+1re et 2e année BEP administration commerciale et comptable (ACC)
 
 |
 
@@ -106,19 +48,11 @@ et comptable (ACC)
 
 |
 
-|
-
-|
-
-|
-
 X
 
 |
 
-Second
-
-cycle
+Second cycle
 
 |
 
@@ -126,8 +60,6 @@ Classes de seconde
 
 |
 
-|
-
 X
 
 |
@@ -149,8 +81,6 @@ X
 |
 
 X
-
-|
 
 |
 
@@ -188,10 +118,6 @@ X
 
 |
 
-|
-
-|
-
 L
 
 |
@@ -200,7 +126,7 @@ X
 
 |
 
-X
+-
 
 |
 
@@ -217,10 +143,6 @@ X
 |
 
 X
-
-|
-
-|
 
 |
 
@@ -252,10 +174,6 @@ X
 
 |
 
-|
-
-|
-
 STMG (*)
 
 |
@@ -281,10 +199,6 @@ X
 |
 
 X
-
-|
-
-|
 
 |
 
@@ -316,13 +230,7 @@ X
 
 |
 
-|
-
-|
-
-Comptabilité
-
-(***)
+Comptabilité (***)
 
 |
 
@@ -352,7 +260,7 @@ X
 
 (*) Sciences et technologies du management et de la gestion.
 
-(**) Sciences et technologies de l'industrie et du développement durable, option système d'information et numérique .
+(**) Sciences et technologies de l'industrie et du développement durable, option "système d'information et numérique".
 
 (***) Enseignement professionnel spécialité comptabilité.
 
@@ -360,65 +268,35 @@ X
 
 CLASSES PRÉPARATOIRES
 
-aux études supérieures
+aux études supérieures |
 
-|
+LYCÉE MILITAIRE
 
-LYCÉE
+d'Aix-en-Provence |
 
-militaire
+LYCÉE MILITAIRE
 
-d'Aix-en-
-
-Provence
-
-|
-
-LYCÉE
-
-militaire
-
-d'Autun
-
-|
+d'Autun |
 
 PRYTANÉE
 
 national
 
-militaire de
-
-La Flèche
-
-|
-
-LYCÉE
-
 militaire
 
-de Saint-Cyr-
+de La Flèche |
 
-l'École
+LYCÉE MILITAIRE
 
-|
+de Saint-Cyr-l'Ecole |
 
 LYCÉE
 
-naval
-
-de Brest
-
-|
+naval de Brest |
 
 ÉCOLE
 
-des pupilles
-
-de l'air
-
-de Grenoble
-
-|
+des pupilles de l'air de Grenoble |
 
 Filières
 
@@ -452,8 +330,6 @@ X
 
 |
 
-|
-
 Lettres
 
 |
@@ -479,8 +355,6 @@ X
 |
 
 -
-
-|
 
 |
 
@@ -518,29 +392,17 @@ X
 
 CLASSES PRÉPARATOIRES
 
-aux grande écoles militaires
+aux études supérieures |
 
-Préparation aux concours
+LYCÉE MILITAIRE
 
-|
-
-LYCÉE
-
-militaire
-
-d'Aix-en-
-
-Provence
-
-|
+d'Aix-en-Provence |
 
 LYCÉE
 
 militaire
 
-d'Autun
-
-|
+d'Autun |
 
 PRYTANÉE
 
@@ -548,41 +410,23 @@ national
 
 militaire
 
-de La Flèche
+de La Flèche |
 
-|
+LYCÉE MILITAIRE
 
-LYCÉE
-
-militaire
-
-de Saint-Cyr-
-
-l'Ecole
-
-|
+de Saint-Cyr-l'Ecole |
 
 LYCÉE
 
-naval
-
-de Brest
-
-|
+naval de Brest |
 
 ÉCOLE
 
-des pupilles
+des pupilles de l'air
 
-de l'air
+de Grenoble |
 
-de Grenoble
-
-|
-
-ESM
-
-de Saint-Cyr
+ESM de Saint-Cyr
 
 |
 
@@ -614,8 +458,6 @@ X
 
 |
 
-|
-
 Lettres
 
 |
@@ -644,8 +486,6 @@ X
 
 |
 
-|
-
 SES (*)
 
 |
@@ -662,7 +502,7 @@ X
 
 |
 
-X
+-
 
 |
 
@@ -675,8 +515,6 @@ X
 |
 
 Ecole polytechnique
-
-|
 
 |
 
@@ -708,8 +546,6 @@ Ecole navale
 
 |
 
-|
-
 X
 
 |
@@ -738,8 +574,6 @@ Ecole de l'air
 
 |
 
-|
-
 X
 
 |
@@ -764,9 +598,7 @@ X
 
 |
 
-ENSIETA (**)
-
-|
+ENSTA-Bretagne (**)
 
 |
 
@@ -798,8 +630,6 @@ ENSIM (***)
 
 |
 
-|
-
 X
 
 |
@@ -826,7 +656,7 @@ X
 
 (*) Sciences économiques et sociales.
 
-(**) Ecole nationale supérieure des ingénieurs des études et techniques d'armement.
+(**) Ecole nationale supérieure des techniques avancées.
 
 (***) Ecole nationale supérieure des ingénieurs de l'infrastructure militaire.
 
