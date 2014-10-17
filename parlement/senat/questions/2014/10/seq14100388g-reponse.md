@@ -1,0 +1,17 @@
+# Réponse à la question SEQ14100388G
+
+- Question : [SEQ14100388G](seq14100388g.md) — Virus Ebola
+
+## Réponse
+
+*Personnes handicapées et lutte contre l'exclusion, JO du 2014-10-17, page 7155*
+
+Mme Ségolène Neuville,secrétaire d'État auprès de la ministre des affaires sociales, de la santé et des droits des femmes, chargée des personnes handicapées et de la lutte contre l'exclusion. Madame la sénatrice, je vous prie tout d'abord de bien vouloir excuser l'absence de Marisol Touraine, ministre des affaires sociales, de la santé et des droits des femmes, actuellement à Bruxelles pour une réunion des ministres européens de la santé sur la situation concernant le virus Ébola. Vous l'avez souligné, et Marisol Touraine l'a rappelé également, nous sommes à un moment clé de cette épidémie, qui est majeure. Nous observons actuellement une forte aggravation de l'épidémie, avec une croissance exponentielle des cas en Sierra Leone et au Liberia. Le risque d'extension régionale est particulièrement élevé, et le bilan est désormais de près de 9 000 cas, avec plus de 4 500 morts, chiffre probablement très largement sous-évalué. Sans soutien international massif et coordonné, l'épidémie continuera à s'étendre. La France, solidaire avec les pays touchés, a envoyé de nombreux spécialistes depuis le début de l'épidémie et recrute actuellement des volontaires pour monter un troisième centre de traitement en Guinée forestière avec la Croix-Rouge française et une formation sur place assurée par Médecins sans frontières.
+
+Le Gouvernement salue le courage et l'engagement des professionnels qui combattent cette terrible épidémie et prennent le risque d'être eux-mêmes infectés, comme l'a montré la récente contamination d'une infirmière de Médecins sans frontières, fort heureusement guérie aujourd'hui.
+
+Pour répondre à votre question, madame la sénatrice, nous restons très vigilants et mobilisés sur notre territoire. Notre système de veille sanitaire est en alerte avec l'Institut de veille sanitaire. Nous avons, en France, les moyens de détecter les malades, d'isoler et de traiter les patients. En cas de doute et de fièvre après un voyage en zone épidémique, il faut appeler le 15. Marisol Touraine a récemment présenté des mesures fortes pour l'information au public. Un numéro vert a été mis en place, le 0800 13 00 00, ainsi qu'un site internet et un point presse hebdomadaire. Mardi prochain, Marisol Touraine informera directement l'ensemble des représentants des professionnels libéraux et hospitaliers de santé, ainsi que les ordres professionnels. Enfin, dès samedi, des contrôles auront lieu à Paris à l'arrivée des vols en provenance de la Guinée.
+
+En tant qu'infectiologue, je prends la liberté de répondre à la question plus précise que vous avez posée sur l'efficacité du traitement : autant que je sache, seuls les traitements symptomatiques, en particulier la réhydratation, ont fait pour l'instant la preuve de leur efficacité et ont permis de guérir les patients traités dans les pays occidentaux, contrairement aux patients africains, qui n'ont pas eu accès à ces réhydratations et à ces méthodes de réanimation.
+
+Vous le voyez, madame la sénatrice, la France tient toute sa place dans la bataille mondiale contre le virus Ébola et garantit la protection de ses concitoyens. (Applaudissementssur les travées du groupe socialiste et du groupe écologiste, ainsi que sur certaines travées du RDSE, de l'UDI-UC et de l'UMP.)
