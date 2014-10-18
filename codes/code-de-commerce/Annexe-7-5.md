@@ -680,6 +680,16 @@ Dépôt des comptes annuels.
 
 |
 
+210 bis
+
+|
+
+Dépôt des comptes annuels assortis d'une déclaration de confidentialité
+
+|
+
+5 |
+
 211
 
 |
@@ -703,6 +713,18 @@ Certificat négatif d'immatriculation, communication d'actes ou de pièces dépo
 1
 
 |
+
+212 bis
+
+|
+
+Certificat attestant que les comptes annuels ont été déposés
+
+mais ne sont pas rendus publics.
+
+|
+
+1 |
 
 213
 
@@ -763,6 +785,14 @@ Copie de statuts, actes ou de pièces déposées (forfait).
 6
 
 |
+
+217 bis
+
+|
+
+Copie de la déclaration de confidentialité des comptes annuels |
+
+1 |
 
 218
 
