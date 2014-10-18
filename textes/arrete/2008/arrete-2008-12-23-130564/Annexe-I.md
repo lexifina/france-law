@@ -2,13 +2,13 @@
 
 AGENTS PRINCIPAUX DE PREMIÈRE CATÉGORIE
 
-Préfectures
+Périmètre préfectures
 
 LOCALISATION
 
 |
 
-FONCTIONS
+FONCTION
 
 |
 
@@ -18,15 +18,15 @@ d'emplois
 
 |
 
-06
+13
 
 |
 
-Préfecture des Alpes-Maritimes
+Préfecture des Bouches-du-Rhône
 
 |
 
-Intendant de la résidence du préfet
+Adjoint au chef du garage
 
 |
 
@@ -39,18 +39,6 @@ Intendant de la résidence du préfet
 |
 
 Préfecture des Bouches-du-Rhône
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
-|
 
 |
 
@@ -86,6 +74,54 @@ Préfecture de la Gironde
 
 |
 
+Chef du garage
+
+|
+
+1
+
+|
+
+33
+
+|
+
+Préfecture de la Gironde
+
+|
+
+Chef de l'équipe logistique
+
+|
+
+1
+
+|
+
+37
+
+|
+
+Préfecture d'Indre-et-Loire
+
+|
+
+Responsable de l'atelier reprographie
+
+|
+
+1
+
+|
+
+41
+
+|
+
+Préfecture de Loir-et-Cher
+
+|
+
 Chef de l'équipe logistique
 
 |
@@ -110,11 +146,31 @@ Chef du garage
 
 |
 
+59
+
 |
+
+Préfecture du Nord
 
 |
 
 Maître d'hôtel de la résidence du préfet
+
+|
+
+1
+
+|
+
+66
+
+|
+
+Préfecture des Pyrénées-Orientales
+
+|
+
+Chef du garage
 
 |
 
@@ -154,27 +210,15 @@ Chef du garage
 
 |
 
+69
+
 |
+
+Préfecture du Rhône
 
 |
 
 Maître d'hôtel de la résidence du préfet
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Préfecture de la région Ile-de-France
-
-|
-
-Intendant de la résidence du préfet
 
 |
 
@@ -190,7 +234,7 @@ Préfecture du Tarn
 
 |
 
-Adjoint au chef du service intérieur
+Adjoint au chef de l'équipe du service intérieur
 
 |
 
@@ -230,7 +274,11 @@ Chef de l'équipe du service intérieur
 
 |
 
+93
+
 |
+
+Préfecture de la Seine-Saint-Denis
 
 |
 
@@ -258,13 +306,13 @@ Intendant de la résidence du préfet
 
 |
 
-Secrétariats généraux pour l'administration de la police (SGAP)
+Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur (SGAMI)
 
 LOCALISATION
 
 |
 
-FONCTIONS
+FONCTION
 
 |
 
@@ -278,11 +326,11 @@ d'emplois
 
 |
 
-SGAP de la zone de défense Sud
+SGAMI de la zone de défense et de sécurité Sud/ Nice/ BMM
 
 |
 
-Adjoint au chef de l'atelier du BMM (Nice)
+Adjoint au chef de l'atelier
 
 |
 
@@ -294,9 +342,11 @@ Adjoint au chef de l'atelier du BMM (Nice)
 
 |
 
+SGAMI de la zone de défense et de sécurité Sud/ Marseille
+
 |
 
-Adjoint au chef de l'atelier mécanique (Marseille)
+Adjoint au chef de l'atelier mécanique
 
 |
 
@@ -304,11 +354,15 @@ Adjoint au chef de l'atelier mécanique (Marseille)
 
 |
 
-|
+13
 
 |
 
-Chef de l'atelier carrosserie-peinture (Marseille)
+SGAMI de la zone de défense et de sécurité Sud/ Marseille/ BMM
+
+|
+
+Chef de l'atelier carrosserie-peinture
 
 |
 
@@ -320,9 +374,27 @@ Chef de l'atelier carrosserie-peinture (Marseille)
 
 |
 
+SGAMI de la zone de défense et de sécurité Sud/ Montpellier
+
 |
 
-Responsable de l'atelier mécanique (Montpellier)
+Responsable de l'atelier mécanique
+
+|
+
+1
+
+|
+
+33
+
+|
+
+SGAMI de la zone de défense et de sécurité Sud Ouest
+
+|
+
+Chef du secteur carrosserie peinture
 
 |
 
@@ -334,11 +406,11 @@ Responsable de l'atelier mécanique (Montpellier)
 
 |
 
-SGAP de Versailles
+Zone de défense et de sécurité IDF/ Melun
 
 |
 
-Adjoint au chef de l'atelier avancé de Melun
+Adjoint au chef de l'atelier avancé
 
 |
 
@@ -350,9 +422,11 @@ Adjoint au chef de l'atelier avancé de Melun
 
 |
 
+Zone de défense et de sécurité IDF/ atelier du Chesnay
+
 |
 
-Adjoint au chef de la section "deux roues" à l'atelier du Chesnay
+Chef d'équipe réparateur "deux roues" au centre de soutien automobile
 
 |
 
@@ -360,11 +434,15 @@ Adjoint au chef de la section "deux roues" à l'atelier du Chesnay
 
 |
 
-|
+78
 
 |
 
-Adjoint au chef de l'équipe "mécanique générale" à l'atelier du Chesnay
+Zone de défense et de sécurité IDF
+
+|
+
+Adjoint au chef de l'équipe "mécanique générale"
 
 |
 
@@ -376,9 +454,11 @@ Adjoint au chef de l'équipe "mécanique générale" à l'atelier du Chesnay
 
 |
 
+Zone de défense et de sécurité IDF/ Taverny
+
 |
 
-Adjoint au chef de l'atelier avancé de Taverny
+Adjoint au chef de l'atelier avancé
 
 |
 
@@ -386,13 +466,45 @@ Adjoint au chef de l'atelier avancé de Taverny
 
 |
 
-Formations administratives de la gendarmerie nationale
+75
+
+|
+
+Zone de défense et de sécurité IDF/ préfecture de police/ DOSTL
+
+|
+
+Adjoint opérationnel au responsable du magasin
+
+|
+
+1
+
+|
+
+75
+
+|
+
+Zone de défense et de sécurité IDF/ Préfecture de police/ DOSTL/ atelier nord
+
+|
+
+Coordinateur des équipes carrosserie-peinture-sellerie
+
+|
+
+1
+
+|
+
+Périmètre gendarmerie nationale
 
 LOCALISATION
 
 |
 
-FONCTIONS
+FONCTION
 
 |
 
@@ -410,7 +522,7 @@ Ecole de gendarmerie de Châteaulin
 
 |
 
-Cuisinier
+Adjoint au chef de cuisine
 
 |
 
@@ -418,13 +530,13 @@ Cuisinier
 
 |
 
-Services de l'administration centrale
+Périmètre sécurité civile
 
 LOCALISATION
 
 |
 
-FONCTIONS
+FONCTION
 
 |
 
@@ -438,11 +550,43 @@ d'emplois
 
 |
 
-Direction de la sécurité civile
+Direction de la sécurité civile/ ESOL Sud
 
 |
 
-Chef démineur (CID, Metz)
+Adjoint au chef du service auto
+
+|
+
+1
+
+|
+
+Périmètre de l'administration centrale
+
+LOCALISATION
+
+|
+
+FONCTION
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+75
+
+|
+
+Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau
+
+|
+
+Responsable de l'atelier reprographie
 
 |
 
@@ -454,23 +598,11 @@ Chef démineur (CID, Metz)
 
 |
 
-Direction de la programmation, des affaires financières et de l'immobilier
+Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau
 
 |
 
-Chef de la section "imprimerie reprographie" au BBFAC
-
-|
-
-1
-
-|
-
-|
-
-|
-
-Responsable du pôle "manutention" au BAIAC
+Responsable du pôle "manutention"
 
 |
 
@@ -482,23 +614,11 @@ Responsable du pôle "manutention" au BAIAC
 
 |
 
-Préfecture de police
+Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau
 
 |
 
-Adjoint opérationnel au responsable du magasin de la DOSTL
-
-|
-
-1
-
-|
-
-|
-
-|
-
-Coordinateur des équipes carrosserie-peinture-sellerie à l'atelier nord (DOSTL)
+Responsable de la section travaux des appartements de fonction
 
 |
 
@@ -506,15 +626,15 @@ Coordinateur des équipes carrosserie-peinture-sellerie à l'atelier nord (DOSTL
 
 |
 
-87
+75
 
 |
 
-Direction des systèmes d'information et de communication
+Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau
 
 |
 
-Adjoint au responsable de la cellule exploitation de la SDES (CNPT, Limoges)
+Adjoint au chef des ateliers
 
 |
 
@@ -526,11 +646,27 @@ Adjoint au responsable de la cellule exploitation de la SDES (CNPT, Limoges)
 
 |
 
-Direction générale de la police nationale
+Direction générale de la police nationale/ ECLPN/ Limoges
 
 |
 
-Responsable de la gestion des matériels à l'ECLPN (Limoges)
+Responsable de la gestion des matériels
+
+|
+
+1
+
+|
+
+87
+
+|
+
+Direction des systèmes d'information et decommunication/ SDES/ CNPT/ Limoges
+
+|
+
+Adjoint au responsable de la cellule exploitation
 
 |
 

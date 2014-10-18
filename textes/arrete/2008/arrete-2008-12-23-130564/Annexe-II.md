@@ -2,7 +2,7 @@
 
 AGENTS PRINCIPAUX DE DEUXIÈME CATÉGORIE
 
-Préfectures
+Périmètre préfectures
 
 LOCALISATION
 
@@ -58,6 +58,22 @@ Préfecture des Alpes-Maritimes
 
 |
 
+Intendant de la résidence du préfet
+
+|
+
+1
+
+|
+
+06
+
+|
+
+Préfecture des Alpes-Maritimes
+
+|
+
 Chef du garage
 
 |
@@ -66,11 +82,31 @@ Chef du garage
 
 |
 
-|
+06
 
 |
 
-Cuisinier de la résidence du préfet
+Préfecture des Alpes-Maritimes
+
+|
+
+Chef de cuisine
+
+|
+
+1
+
+|
+
+06
+
+|
+
+Préfecture des Alpes-Maritimes
+
+|
+
+Chef de l'équipe logistique
 
 |
 
@@ -126,6 +162,22 @@ Gestionnaire bâtiments et travaux
 
 |
 
+10
+
+|
+
+Préfecture de l'Aube
+
+|
+
+Chef de l'équipe logistique
+
+|
+
+1
+
+|
+
 13
 
 |
@@ -142,11 +194,15 @@ Responsable de l'atelier reprographie
 
 |
 
-|
+13
 
 |
 
-Cuisinier de la résidence du préfet
+Préfecture des Bouches-du-Rhône
+
+|
+
+Chef de cuisine
 
 |
 
@@ -162,7 +218,23 @@ Préfecture du Calvados
 
 |
 
-Intendant de la résidence du préfet
+Chef de cuisine
+
+|
+
+1
+
+|
+
+14
+
+|
+
+Préfecture du Calvados
+
+|
+
+Chef du garage
 
 |
 
@@ -175,6 +247,22 @@ Intendant de la résidence du préfet
 |
 
 Préfecture du Cantal
+
+|
+
+Chef du garage
+
+|
+
+1
+
+|
+
+16
+
+|
+
+Préfecture de la Charente
 
 |
 
@@ -202,7 +290,11 @@ Chef du garage
 
 |
 
+17
+
 |
+
+Préfecture de la Charente-Maritime
 
 |
 
@@ -230,15 +322,15 @@ Chef du garage
 
 |
 
-21
+2A
 
 |
 
-Préfecture de la Côte-d'Or
+Préfecture de la Corse-du-Sud
 
 |
 
-Cuisinier de la résidence du préfet
+Intendant de la résidence du préfet
 
 |
 
@@ -278,11 +370,15 @@ Maître d'hôtel de la résidence du préfet
 
 |
 
-|
+24
 
 |
 
-Responsable de la maintenance du bâtiment
+Préfecture de la Dordogne
+
+|
+
+Chef de l'équipe logistique
 
 |
 
@@ -298,7 +394,7 @@ Préfecture du Doubs
 
 |
 
-Cuisinier de la résidence du préfet
+Chef de cuisine
 
 |
 
@@ -306,7 +402,11 @@ Cuisinier de la résidence du préfet
 
 |
 
+25
+
 |
+
+Préfecture du Doubs
 
 |
 
@@ -318,7 +418,11 @@ Chef du garage
 
 |
 
+25
+
 |
+
+Préfecture du Doubs
 
 |
 
@@ -338,7 +442,7 @@ Préfecture de la Drôme
 
 |
 
-Maître d'hôtel de la résidence du préfet
+Chef de l'équipe du service intérieur
 
 |
 
@@ -346,11 +450,15 @@ Maître d'hôtel de la résidence du préfet
 
 |
 
-|
+27
 
 |
 
-Conducteur de travaux
+Préfecture de l'Eure
+
+|
+
+Chef de l'équipe du service intérieur
 
 |
 
@@ -366,7 +474,7 @@ Préfecture d'Eure-et-Loir
 
 |
 
-Cuisinier de la résidence du préfet
+Chef de cuisine
 
 |
 
@@ -390,11 +498,31 @@ Chef de l'équipe du service intérieur
 
 |
 
+29
+
 |
+
+Préfecture du Finistère
 
 |
 
 Maître d'hôtel de la résidence du préfet
+
+|
+
+1
+
+|
+
+29
+
+|
+
+Préfecture du Finistère
+
+|
+
+Chef du garage
 
 |
 
@@ -418,7 +546,11 @@ Chef du garage
 
 |
 
+30
+
 |
+
+Préfecture du Gard
 
 |
 
@@ -446,22 +578,6 @@ Chef de l'équipe du service intérieur
 
 |
 
-32
-
-|
-
-Préfecture du Gers
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
 33
 
 |
@@ -478,23 +594,15 @@ Chef de l'équipe du service de sécurité incendie
 
 |
 
-|
+33
 
 |
 
-Chef du garage
+Préfecture de la Gironde
 
 |
 
-1
-
-|
-
-|
-
-|
-
-Chef du service imprimerie
+Agent de sécurité incendie et assistance aux personnes
 
 |
 
@@ -518,6 +626,22 @@ Intendant de la résidence du préfet
 
 |
 
+34
+
+|
+
+Préfecture de l'Hérault
+
+|
+
+Chef du garage
+
+|
+
+1
+
+|
+
 35
 
 |
@@ -534,7 +658,11 @@ Maître d'hôtel de la résidence du préfet
 
 |
 
+35
+
 |
+
+Préfecture d'Ille-et-Vilaine
 
 |
 
@@ -550,7 +678,7 @@ Chef du garage
 
 |
 
-Préfecture d'Indre
+Préfecture de l'Indre
 
 |
 
@@ -570,7 +698,7 @@ Préfecture d'Indre-et-Loire
 
 |
 
-Chef du garage
+Adjoint au chef du garage
 
 |
 
@@ -586,7 +714,7 @@ Préfecture de l'Isère
 
 |
 
-Responsable de l'atelier reprographie
+Chef du garage
 
 |
 
@@ -626,22 +754,6 @@ Maître d'hôtel de la résidence du préfet
 
 |
 
-41
-
-|
-
-Préfecture de Loir-et-Cher
-
-|
-
-Chef du garage
-
-|
-
-1
-
-|
-
 42
 
 |
@@ -666,7 +778,7 @@ Préfecture de la Haute-Loire
 
 |
 
-Chef de l'équipe du service intérieur
+Chef du garage
 
 |
 
@@ -690,7 +802,11 @@ Chef du garage
 
 |
 
+44
+
 |
+
+Préfecture de la Loire-Atlantique
 
 |
 
@@ -718,11 +834,31 @@ Chef du garage
 
 |
 
+45
+
 |
+
+Préfecture du Loiret
 
 |
 
 Intendant de la résidence du préfet
+
+|
+
+1
+
+|
+
+46
+
+|
+
+Préfecture du Lot
+
+|
+
+Chef de l'équipe du service intérieur
 
 |
 
@@ -754,7 +890,7 @@ Préfecture de Maine-et-Loire
 
 |
 
-Cuisinier de la résidence du préfet
+Chef de cuisine
 
 |
 
@@ -770,7 +906,7 @@ Préfecture de la Manche
 
 |
 
-Chef de l'équipe du service intérieur
+Intendant de l'hôtel préfectoral
 
 |
 
@@ -786,7 +922,7 @@ Préfecture de la Marne
 
 |
 
-Chef de l'équipe du service intérieur
+Chef du garage de la préfecture
 
 |
 
@@ -826,7 +962,11 @@ Chef du garage
 
 |
 
+54
+
 |
+
+Préfecture de Meurthe-et-Moselle
 
 |
 
@@ -878,7 +1018,7 @@ Préfecture de la Moselle
 
 |
 
-Chef du garage
+Chef d'équipe du service intérieur
 
 |
 
@@ -886,11 +1026,15 @@ Chef du garage
 
 |
 
-|
+57
 
 |
 
-Responsable technique de l'imprimerie
+Préfecture de la Moselle
+
+|
+
+Responsable de l'atelier reprographie
 
 |
 
@@ -930,6 +1074,22 @@ Responsable de l'atelier reprographie
 
 |
 
+59
+
+|
+
+Préfecture du Nord
+
+|
+
+Huissier
+
+|
+
+1
+
+|
+
 60
 
 |
@@ -938,7 +1098,7 @@ Préfecture de l'Oise
 
 |
 
-Chef de l'équipe du service intérieur
+Chef du garage
 
 |
 
@@ -946,11 +1106,15 @@ Chef de l'équipe du service intérieur
 
 |
 
-|
+60
 
 |
 
-Chef du garage
+Préfecture de l'Oise
+
+|
+
+Chef de l'équipe logistique
 
 |
 
@@ -974,11 +1138,15 @@ Chef du garage
 
 |
 
-|
+61
 
 |
 
-Responsable de la section "jardins"
+Préfecture de l'Orne
+
+|
+
+Responsable de la section jardins
 
 |
 
@@ -1002,7 +1170,11 @@ Chef du garage
 
 |
 
+62
+
 |
+
+Préfecture du Pas-de-Calais
 
 |
 
@@ -1030,22 +1202,6 @@ Chef du garage
 
 |
 
-64
-
-|
-
-Préfecture des Pyrénées-Atlantiques
-
-|
-
-Chef de l'équipe du service intérieur
-
-|
-
-1
-
-|
-
 65
 
 |
@@ -1062,15 +1218,15 @@ Intendant de la résidence du préfet
 
 |
 
-66
+68
 
 |
 
-Préfecture des Pyrénées-Orientales
+Préfecture du Haut-Rhin
 
 |
 
-Chef du garage
+Chef de cuisine
 
 |
 
@@ -1086,7 +1242,7 @@ Préfecture du Haut-Rhin
 
 |
 
-Cuisinier de la résidence du préfet
+Chef du garage
 
 |
 
@@ -1110,6 +1266,22 @@ Chef des huissiers
 
 |
 
+69
+
+|
+
+Préfecture du Rhône
+
+|
+
+Adjoint au chef de l'équipe du service intérieur
+
+|
+
+1
+
+|
+
 70
 
 |
@@ -1118,7 +1290,7 @@ Préfecture de la Haute-Saône
 
 |
 
-Chef du garage
+Intendant de la résidence du préfet
 
 |
 
@@ -1134,7 +1306,39 @@ Préfecture de Saône-et-Loire
 
 |
 
-Maître d'hôtel de la résidence du préfet
+Chef de l'équipe logistique
+
+|
+
+1
+
+|
+
+72
+
+|
+
+Préfecture de la Sarthe
+
+|
+
+Maître d'hôtel
+
+|
+
+1
+
+|
+
+72
+
+|
+
+Préfecture de la Sarthe
+
+|
+
+Chef du garage
 
 |
 
@@ -1158,15 +1362,15 @@ Intendant des résidences préfectorales
 
 |
 
-74
+75
 
 |
 
-Préfecture de la Haute-Savoie
+Préfecture de l'Ile de France
 
 |
 
-Chef du garage
+Chef de l'équipe logistique
 
 |
 
@@ -1178,11 +1382,11 @@ Chef du garage
 
 |
 
-Préfecture de Paris
+Préfecture de l'Ile-de-France
 
 |
 
-Responsable "sécurité, accueil et logistique" (site Daumesnil)
+Chargé de la maintenance, travaux et de l'exploitation
 
 |
 
@@ -1199,6 +1403,22 @@ Préfecture de la Seine-Maritime
 |
 
 Chef de la logistique
+
+|
+
+1
+
+|
+
+76
+
+|
+
+Préfecture de la Seine-Maritime
+
+|
+
+Chef de cuisine
 
 |
 
@@ -1230,7 +1450,7 @@ Préfecture des Yvelines
 
 |
 
-Chef du garage
+Maître d'hôtel de la résidence du préfet
 
 |
 
@@ -1238,11 +1458,15 @@ Chef du garage
 
 |
 
-|
+78
 
 |
 
-Maître d'hôtel de la résidence du préfet
+Préfecture des Yvelines
+
+|
+
+Chef de l'équipe logistique
 
 |
 
@@ -1274,7 +1498,23 @@ Préfecture de la Somme
 
 |
 
-Chef de l'équipe logistique de la DME
+Chef de l'équipe logistique
+
+|
+
+1
+
+|
+
+80
+
+|
+
+Préfecture de la Somme
+
+|
+
+Responsable de l'atelier reprographie
 
 |
 
@@ -1290,7 +1530,23 @@ Préfecture du Tarn
 
 |
 
-Cuisinier de la résidence du préfet
+Chef de cuisine
+
+|
+
+1
+
+|
+
+83
+
+|
+
+Préfecture du Var
+
+|
+
+Chef du garage
 
 |
 
@@ -1306,7 +1562,7 @@ Préfecture de Vaucluse
 
 |
 
-Chef de l'équipe du service entretien
+Maître d'hôtel
 
 |
 
@@ -1314,7 +1570,11 @@ Chef de l'équipe du service entretien
 
 |
 
+84
+
 |
+
+Préfecture de Vaucluse
 
 |
 
@@ -1350,7 +1610,7 @@ Préfecture de la Vienne
 
 |
 
-Cuisinier de la résidence du préfet
+Chef de cuisine
 
 |
 
@@ -1358,7 +1618,11 @@ Cuisinier de la résidence du préfet
 
 |
 
+86
+
 |
+
+Préfecture de la Vienne
 
 |
 
@@ -1386,11 +1650,15 @@ Chef du garage
 
 |
 
-|
+87
 
 |
 
-Responsable de la résidence du préfet
+Préfecture de la Haute-Vienne
+
+|
+
+Intendant des résidences préfectorales
 
 |
 
@@ -1422,7 +1690,7 @@ Préfecture du Territoire de Belfort
 
 |
 
-Cuisinier de la résidence du préfet
+Chef de cuisine
 
 |
 
@@ -1446,6 +1714,22 @@ Chef du garage
 
 |
 
+91
+
+|
+
+Préfecture de l'Essonne
+
+|
+
+Responsable de l'atelier reprographie
+
+|
+
+1
+
+|
+
 92
 
 |
@@ -1462,7 +1746,11 @@ Chef du garage
 
 |
 
+92
+
 |
+
+Préfecture des Hauts-de-Seine
 
 |
 
@@ -1474,11 +1762,31 @@ Maître d'hôtel de la résidence du préfet
 
 |
 
+92
+
 |
+
+Préfecture des Hauts-de-Seine
 
 |
 
 Chef de l'équipe du service intérieur
+
+|
+
+1
+
+|
+
+92
+
+|
+
+Préfecture des Hauts-de-Seine
+
+|
+
+Chef d'atelier
 
 |
 
@@ -1518,18 +1826,6 @@ Chef du garage
 
 |
 
-|
-
-|
-
-Intendant de la résidence du préfet
-
-|
-
-1
-
-|
-
 972
 
 |
@@ -1539,34 +1835,6 @@ Préfecture de la Martinique
 |
 
 Chef de l'équipe du service intérieur
-
-|
-
-1
-
-|
-
-973
-
-|
-
-Préfecture de la Guyane
-
-|
-
-Adjoint au chef du service intérieur
-
-|
-
-1
-
-|
-
-|
-
-|
-
-Responsable des services techniques
 
 |
 
@@ -1606,7 +1874,7 @@ Responsable de l'atelier reprographie
 
 |
 
-Secrétariats généraux pour l'administration de la police (SGAP)
+Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur (SGAMI)
 
 LOCALISATION
 
@@ -1626,23 +1894,11 @@ d'emplois
 
 |
 
-SGAP de la zone de défense Sud
+SGAMI de la zone de défense et de sécurité Sud/Marseille
 
 |
 
-Adjoint au chef de la plate-forme logistique (Marseille)
-
-|
-
-1
-
-|
-
-|
-
-|
-
-Adjoint au chef NRBC robotique à l'ESOL Sud (Marseille-La Valentine)
+Adjoint au chef de l'équipe logistique
 
 |
 
@@ -1650,27 +1906,15 @@ Adjoint au chef NRBC robotique à l'ESOL Sud (Marseille-La Valentine)
 
 |
 
-|
+13
 
 |
 
-Chef du garage (Marseille)
+SGAMI de la zone de défense et de sécurité Sud/Marseille
 
 |
 
-1
-
-|
-
-17
-
-|
-
-SGAP de la zone de défense Sud-Ouest
-
-|
-
-Chef de l'atelier avancé de La Rochelle
+Chef du garage
 
 |
 
@@ -1682,9 +1926,11 @@ Chef de l'atelier avancé de La Rochelle
 
 |
 
+SGAMI de la zone de défense et de sécurité Sud-Ouest/Colomiers
+
 |
 
-Responsable du service rapide (Colomiers)
+Responsable du service rapide
 
 |
 
@@ -1696,21 +1942,11 @@ Responsable du service rapide (Colomiers)
 
 |
 
-|
-
-Adjoint au chef de la section "roulage" au BMM (Bordeaux)
+SGAMI de la zone de défense et de sécurité Sud-Ouest/Bordeaux/BMM
 
 |
 
-1
-
-|
-
-|
-
-|
-
-Responsable de la cellule "désaturation et expertise" au BMM (Bordeaux)
+Adjoint au chef de la section "roulage"
 
 |
 
@@ -1718,11 +1954,31 @@ Responsable de la cellule "désaturation et expertise" au BMM (Bordeaux)
 
 |
 
-|
+33
 
 |
 
-Responsable de l'atelier régional de l'armement (BAE, Bordeaux)
+SGAMI de la zone de défense et de sécurité Sud-Ouest
+
+|
+
+Chef du secteur mécanique
+
+|
+
+1
+
+|
+
+33
+
+|
+
+SGAMI de la zone de défense et de sécurité Sud-Ouest/Bordeaux/BAE
+
+|
+
+Responsable de l'atelier régional de l'armement
 
 |
 
@@ -1734,9 +1990,11 @@ Responsable de l'atelier régional de l'armement (BAE, Bordeaux)
 
 |
 
+SGAMI de la zone de défense et de sécurité Sud-Ouest /DR31
+
 |
 
-Assistant en gestion de patrimoine à l'antenne immobilière de Limoges
+Adjoint au chef du pool chauffeur
 
 |
 
@@ -1748,11 +2006,11 @@ Assistant en gestion de patrimoine à l'antenne immobilière de Limoges
 
 |
 
-SGAP de la zone de défense Est
+SGAMI de la zone de défense et de sécurité Est/DR21
 
 |
 
-Responsable de l'équipe du service "immobilier" (délégation régionale de Dijon)
+Responsable de l'équipe du service "immobilier"
 
 |
 
@@ -1760,11 +2018,15 @@ Responsable de l'équipe du service "immobilier" (délégation régionale de Dij
 
 |
 
-|
+21
 
 |
 
-Responsable de l'exploitation du parc automobile (direction régionale de Dijon)
+SGAMI de la zone de défense et de sécurité Est/DR21
+
+|
+
+Responsable de l'exploitation du parc automobile
 
 |
 
@@ -1776,21 +2038,11 @@ Responsable de l'exploitation du parc automobile (direction régionale de Dijon)
 
 |
 
-|
-
-Chef de l'atelier au bureau des affaires immobilières
+SGAMI de la zone de défense et de sécurité Est/Metz
 
 |
 
-1
-
-|
-
-|
-
-|
-
-Chef du service du roulage (Metz)
+Responsable de l'atelier auto
 
 |
 
@@ -1798,13 +2050,15 @@ Chef du service du roulage (Metz)
 
 |
 
-68
+57
 
 |
 
+SGAMI de la zone de défense et de sécurité Est/Metz
+
 |
 
-Chef formateur au centre de déminage de Colmar
+Chef du service du roulage
 
 |
 
@@ -1816,11 +2070,13 @@ Chef formateur au centre de déminage de Colmar
 
 |
 
-SGAP de la zone de défense Ouest
+SGAMI de la zone de défense et de sécurité Ouest/
+
+Rennes
 
 |
 
-Responsable du service roulage (Rennes)
+Responsable du service roulage
 
 |
 
@@ -1832,9 +2088,11 @@ Responsable du service roulage (Rennes)
 
 |
 
+SGAMI de la zone de défense et de sécurité Ouest/Oissel
+
 |
 
-Responsable de l'équipe du service "immobilier" (délégation régionale de Tours)
+Chef de la section carrosserie-atelier auto
 
 |
 
@@ -1842,11 +2100,15 @@ Responsable de l'équipe du service "immobilier" (délégation régionale de Tou
 
 |
 
-|
+37
 
 |
 
-Responsable du roulage à l'atelier de la délégation régionale de Tours
+SGAMI de la zone de défense et de sécurité Ouest/DR Tours
+
+|
+
+Responsable du roulage à l'atelier
 
 |
 
@@ -1858,9 +2120,11 @@ Responsable du roulage à l'atelier de la délégation régionale de Tours
 
 |
 
+SGAMI de la zone de défense et de sécurité Ouest/Oissel
+
 |
 
-Responsable du magasin pièces détachées à l'atelier avancé d'Oissel
+Responsable du magasin pièces détachées à l'atelier avancé
 
 |
 
@@ -1872,11 +2136,11 @@ Responsable du magasin pièces détachées à l'atelier avancé d'Oissel
 
 |
 
-SGAP de la zone de défense Sud-Est
+SGAMI de la zone de défense et de sécurité Sud-Est/Meylan
 
 |
 
-Adjoint au chef de l'atelier automobile avancé de Meylan
+Adjoint au chef de l'atelier automobile avancé
 
 |
 
@@ -1888,21 +2152,11 @@ Adjoint au chef de l'atelier automobile avancé de Meylan
 
 |
 
-|
-
-Adjoint au chef de la section "roulage" (Lyon)
+SGAMI de la zone de défense et de sécurité Sud-Est/Lyon
 
 |
 
-1
-
-|
-
-|
-
-|
-
-Coordinateur technique "constructeurs automobiles" (Lyon)
+Coordinateur technique "constructeurs automobiles"
 
 |
 
@@ -1910,11 +2164,15 @@ Coordinateur technique "constructeurs automobiles" (Lyon)
 
 |
 
-|
+69
 
 |
 
-Responsable de la plate-forme logistique (Lyon)
+SGAMI de la zone de défense et de sécurité Sud-Est/Lyon
+
+|
+
+Chef de l'équipe logistique
 
 |
 
@@ -1922,13 +2180,15 @@ Responsable de la plate-forme logistique (Lyon)
 
 |
 
-74
+63
 
 |
 
+SGAMI de la zone de défense et de sécurité Sud-Est/Cournon
+
 |
 
-Adjoint au chef de l'atelier automobile avancé d'Annecy
+Adjoint au chef de l'atelier automobile avancé
 
 |
 
@@ -1940,11 +2200,11 @@ Adjoint au chef de l'atelier automobile avancé d'Annecy
 
 |
 
-SGAP de la zone de défense Nord
+SGAMI de la zone de défense et de sécurité Nord/Lille
 
 |
 
-Adjoint au chef du pôle des transports (Lille)
+Adjoint au chef du pôle des transports
 
 |
 
@@ -1956,11 +2216,315 @@ Adjoint au chef du pôle des transports (Lille)
 
 |
 
-SGAP de Versailles
+Zone de défense et de sécurité IDF/atelier du Chesnay
 
 |
 
-Adjoint au chef d'équipe mécanique carrosserie à l'atelier du Chesnay
+Adjoint au chef d'équipe mécanique carrosserie
+
+|
+
+1
+
+|
+
+75
+
+|
+
+Zone de défense et de sécurité IDF/préfecture de police (75)/atelier central
+
+|
+
+Adjoint au chef de la cellule précontentieux
+
+|
+
+1
+
+|
+
+75
+
+|
+
+Zone de défense et de sécurité IDF/préfecture de police (75)
+
+|
+
+Adjoint au responsable de l'armurerie
+
+|
+
+1
+
+|
+
+75
+
+|
+
+Zone de défense et de sécurité IDF/préfecture de police/DOSTL/parc Sud (94)
+
+|
+
+Adjoint au chef du magasin automobile
+
+|
+
+1
+
+|
+
+75
+
+|
+
+Zone de défense et de sécurité IDF/Préfecture de police/DOSTL/parc Sud (94)
+
+|
+
+Adjoint au chef du service électricité automobile
+
+|
+
+1
+
+|
+
+Périmètre gendarmerie nationale
+
+LOCALISATION
+
+|
+
+FONCTION
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+75
+
+|
+
+Garde républicaine/cercle mixte des Célestins
+
+|
+
+Chef de cuisine
+
+|
+
+1
+
+|
+
+75
+
+|
+
+Garde républicaine/cercle mixte de Tournon
+
+|
+
+Chef de cuisine
+
+|
+
+1
+
+|
+
+77
+
+|
+
+RZG IdF/EOGN Melun
+
+|
+
+Chef du service central et responsable des espaces verts
+
+|
+
+1
+
+|
+
+77
+
+|
+
+RZG IDF/EOGN Melun/BBSAI
+
+|
+
+Chef de l'atelier peinture
+
+|
+
+1
+
+|
+
+59
+
+|
+
+RZG NORD Nord-Pas-de-Calais/CM Villeneuve-d'Ascq
+
+|
+
+Chef de cuisine
+
+|
+
+1
+
+|
+
+60
+
+|
+
+RZG METZ/RG Bourgogne/CM Dijon
+
+|
+
+Chef de cuisine
+
+|
+
+1
+
+|
+
+60
+
+|
+
+RZG Picardie/cercle mixte/Amiens
+
+|
+
+Chef de cuisine
+
+|
+
+1
+
+|
+
+45
+
+|
+
+RZG Ouest Centre/EM/Section Commandement/ESG/Orléans
+
+|
+
+Chef des services généraux
+
+|
+
+1
+
+|
+
+44
+
+|
+
+RZG Ouest Pays de la Loire/CM Nantes
+
+|
+
+Chef de cuisine
+
+|
+
+1
+
+|
+
+44
+
+|
+
+RZG Aquitaine/RG Midi-Pyrénées/CM Toulouse
+
+|
+
+Chef de cuisine
+
+|
+
+1
+
+|
+
+03
+
+|
+
+RZG Sud-Est Rhône-Alpes/EG Montluçon/CM
+
+|
+
+Adjoint au chef de cuisine
+
+|
+
+1
+
+|
+
+69
+
+|
+
+RZG Sud-Est Rhône-Alpes/CM Sathonay-Camp
+
+|
+
+Gérant d'activité bar/service
+
+|
+
+1
+
+|
+
+Périmètre sécurité civile
+
+LOCALISATION
+
+|
+
+FONCTION
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+13
+
+|
+
+ESOL Sud/Marseille-La Valentine
+
+|
+
+Adjoint au chef NRBC robotique
 
 |
 
@@ -1972,9 +2536,11 @@ Adjoint au chef d'équipe mécanique carrosserie à l'atelier du Chesnay
 
 |
 
+ESOL Nord/Méry-sur-Oise
+
 |
 
-Responsable de la conduite des inventaires du magasin de l'ESOL Nord (Méry-sur-Oise)
+Responsable de la conduite des inventaires du magasin
 
 |
 
@@ -1982,7 +2548,7 @@ Responsable de la conduite des inventaires du magasin de l'ESOL Nord (Méry-sur-
 
 |
 
-Services de l'administration centrale
+Périmètre de l'administration centrale
 
 LOCALISATION
 
@@ -2002,53 +2568,11 @@ d'emplois
 
 |
 
-Préfecture de police
+SEOM/CAB MIN
 
 |
 
-Adjoint au chef de la cellule précontentieux de l'atelier central (DOSTL)
-
-|
-
-1
-
-|
-
-94
-
-|
-
-|
-
-Adjoint au chef du magasin automobile du parc sud (DOSTL)
-
-|
-
-1
-
-|
-
-|
-
-|
-
-Adjoint au chef du service électricité automobile du parc sud (DOSTL)
-
-|
-
-1
-
-|
-
-77
-
-|
-
-Direction des systèmes d'information et de communication
-
-|
-
-Responsable de la cellule "fabrication CNI" (Lognes)
+Chauffeur du ministre
 
 |
 
@@ -2060,11 +2584,11 @@ Responsable de la cellule "fabrication CNI" (Lognes)
 
 |
 
-Direction générale de la police nationale
+Direction générale de la police nationale/ECLPN/Limoges
 
 |
 
-Responsable des véhicules spéciaux à l'ECLPN (Limoges)
+Responsable des véhicules spéciaux
 
 |
 
@@ -2072,15 +2596,15 @@ Responsable des véhicules spéciaux à l'ECLPN (Limoges)
 
 |
 
-92
+77
 
 |
 
-Direction de la sécurité civile
+Direction des systèmes d'information et de communication/Lognes
 
 |
 
-Chef de l'atelier "impression"
+Responsable de la cellule "fabrication CNI"
 
 |
 
