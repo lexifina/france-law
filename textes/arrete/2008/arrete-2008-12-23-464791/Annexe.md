@@ -1,6 +1,6 @@
 # Article Annexe
 
-Préfectures
+Périmètre préfectures
 
 LOCALISATION
 
@@ -13,22 +13,6 @@ SERVICE
 NOMBRE
 
 d'emplois
-
-|
-
-06
-
-|
-
-Préfecture des Alpes-Maritimes
-
-|
-
-Résidence du préfet
-
-|
-
-1
 
 |
 
@@ -45,10 +29,6 @@ Garage de la préfecture
 |
 
 1
-
-|
-
-|
 
 |
 
@@ -84,6 +64,46 @@ Préfecture de la Gironde
 
 |
 
+Garage de la préfecture
+
+|
+
+1
+
+|
+
+Service intérieur
+
+|
+
+1
+
+|
+
+37
+
+|
+
+Préfecture d'Indre-et-Loire
+
+|
+
+Service intérieur
+
+|
+
+1
+
+|
+
+41
+
+|
+
+Préfecture de Loir-et-Cher
+
+|
+
 Service intérieur
 
 |
@@ -108,11 +128,23 @@ Garage de la préfecture
 
 |
 
-|
-
-|
-
 Résidence du préfet
+
+|
+
+1
+
+|
+
+66
+
+|
+
+Préfecture des Pyrénées-Orientales
+
+|
+
+Garage de la préfecture
 
 |
 
@@ -149,26 +181,6 @@ Garage de la préfecture
 |
 
 1
-
-|
-
-|
-
-|
-
-Résidence du préfet
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Préfecture de la région Ile-de-France
 
 |
 
@@ -220,7 +232,7 @@ Préfecture de la Seine-Saint-Denis
 
 |
 
-Garage de la préfecture
+Service intérieur
 
 |
 
@@ -228,11 +240,7 @@ Garage de la préfecture
 
 |
 
-|
-
-|
-
-Service intérieur
+Garage de la préfecture
 
 |
 
@@ -256,7 +264,7 @@ Résidence du préfet
 
 |
 
-Secrétariats généraux pour l'administration de la police (SGAP)
+Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur (SGAMI)
 
 LOCALISATION
 
@@ -276,11 +284,11 @@ d'emplois
 
 |
 
-SGAP de la zone de défense Sud
+SGAMI de la zone de défense et de sécurité Sud-Nice
 
 |
 
-Atelier du BMM (Nice)
+Atelier du BMM
 
 |
 
@@ -292,9 +300,11 @@ Atelier du BMM (Nice)
 
 |
 
+SGAMI de la zone de défense et de sécurité Sud-Marseille
+
 |
 
-Atelier carrosserie-peinture (Marseille)
+Atelier mécanique
 
 |
 
@@ -302,11 +312,15 @@ Atelier carrosserie-peinture (Marseille)
 
 |
 
-|
+13
 
 |
 
-Atelier mécanique (Marseille)
+SGAMI de la zone de défense et de sécurité Sud-Marseille-BMM
+
+|
+
+Atelier carrosserie-peinture
 
 |
 
@@ -318,9 +332,27 @@ Atelier mécanique (Marseille)
 
 |
 
+SGAMI de la zone de défense et de sécurité Sud-Montpellier
+
 |
 
-Atelier mécanique (Montpellier)
+Atelier mécanique
+
+|
+
+1
+
+|
+
+33
+
+|
+
+SGAMI de la zone de défense et de sécurité Sud-Ouest
+
+|
+
+Atelier carrosserie peinture
 
 |
 
@@ -332,11 +364,11 @@ Atelier mécanique (Montpellier)
 
 |
 
-SGAP de Versailles
+Zone de défense et de sécurité IdF-Melun
 
 |
 
-Atelier avancé de Melun
+Atelier avancé
 
 |
 
@@ -348,23 +380,11 @@ Atelier avancé de Melun
 
 |
 
-|
-
-Atelier du Chesnay
+Zone de défense et de sécurité IdF-atelier du Chesnay
 
 |
 
-2
-
-|
-
-95
-
-|
-
-|
-
-Atelier avancé de Taverny
+Centre de soutien automobile
 
 |
 
@@ -372,7 +392,71 @@ Atelier avancé de Taverny
 
 |
 
-Formations administratives de la gendarmerie nationale
+78
+
+|
+
+Zone de défense et de sécurité IdF
+
+|
+
+Atelier mécanique
+
+|
+
+1
+
+|
+
+95
+
+|
+
+Zone de défense et de sécurité IdF-Taverny
+
+|
+
+Atelier avancé
+
+|
+
+1
+
+|
+
+75
+
+|
+
+Zone de défense et de sécurité IdF-préfecture de police
+
+|
+
+Direction opérationnelle des services techniques et logistiques
+
+|
+
+1
+
+|
+
+75
+
+|
+
+Zone de défense et de sécurité IdF-préfecture de police
+
+|
+
+Direction opérationnelle des services techniques et logistiques
+
+|
+
+1
+
+|
+
+Périmètre gendarmerie nationale
 
 LOCALISATION
 
@@ -396,7 +480,7 @@ Ecole de gendarmerie de Châteaulin
 
 |
 
-Service restauration
+Service de restauration
 
 |
 
@@ -404,7 +488,7 @@ Service restauration
 
 |
 
-Services de l'administration centrale
+Périmètre sécurité civile
 
 LOCALISATION
 
@@ -428,7 +512,39 @@ Direction de la sécurité civile
 
 |
 
-Centre interdépartemental de déminage (Metz)
+Etablissement de soutien opérationnel et logistique Sud
+
+|
+
+1
+
+|
+
+Périmètre de l'administration centrale
+
+LOCALISATION
+
+|
+
+SERVICE
+
+|
+
+NOMBRE
+
+d'emplois
+
+|
+
+75
+
+|
+
+Direction de la programmation, des affaires financières et de l'immobilier Beauvau
+
+|
+
+Bureau de la gestion des sites d'administration centrale
 
 |
 
@@ -440,23 +556,11 @@ Centre interdépartemental de déminage (Metz)
 
 |
 
-Direction de la programmation, des affaires financières et de l'immobilier
+Direction de la programmation, des affaires financières et de l'immobilier Beauvau
 
 |
 
-Bureau du budget et du fonctionnement de l'administration centrale
-
-|
-
-1
-
-|
-
-|
-
-|
-
-Bureau des affaires immobilières d'administration centrale
+Bureau de la gestion des sites d'administration centrale
 
 |
 
@@ -468,27 +572,27 @@ Bureau des affaires immobilières d'administration centrale
 
 |
 
-Préfecture de police
+Direction de la programmation, des affaires financières et de l'immobilier Beauvau
 
 |
 
-Direction opérationnelle des services techniques et logistiques
+Bureau de la gestion des sites d'administration centrale
 
 |
 
-2
+1
 
 |
 
-87
+75
 
 |
 
-Direction des systèmes d'information et de communication
+Direction de la programmation, des affaires financières et de l'immobilier Beauvau
 
 |
 
-Centre national de production des titres
+Bureau de la gestion des sites d'administration centrale
 
 |
 
@@ -500,7 +604,7 @@ Centre national de production des titres
 
 |
 
-Direction générale de la police nationale
+Direction générale de la police nationale Limoges
 
 |
 
@@ -511,3 +615,17 @@ Etablissement central logistique de la police nationale
 1
 
 |
+
+87
+
+|
+
+Direction des systèmes d'information et de communication Limoges
+
+|
+
+Centre national de production des titres
+
+|
+
+1 |
