@@ -1,0 +1,349 @@
+# Ville de Pirae : délibération — Délibération n°096-2014 du 30-10-2014 - Octroyant une subvention à l'amicale des travailleurs de la mairie de Pirae
+
+- Collectivité : Ville de Pirae
+- SIREN : 200013746
+- Date : 2014-10-20
+- Objet : Délibération n°096-2014 du 30-10-2014 - Octroyant une subvention à l'amicale des travailleurs de la mairie de Pirae
+- Pages : 6
+- Acte publié : https://static.data.gouv.fr/resources/deliberations-du-conseil-municipal-annee-2014/20161221-031113/Deliberation_n096-2014_du_30-10-2014_-_Octroyant_une_subvention_a_lamicale_des_travailleurs_de_la_mairie_de_Pirae.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5859c9a788ee3824b3609f67
+
+## Texte
+
+Ville de Pirae 
+POLYNÉSIE FRANÇAISE 
+TAHITI 
+3uDuivi3iûit Aûmmistraiive des lies du Vent 
+A ft 
+R J V É E 
+REPUBLIQUE FRANÇAISE 
+Liberté - Egalité - Fraternité 
+DELIBERATION N° 096/2014 
+DU 30 OCTOBRE 2014 
+Octroyant 
+une subvention 
+à 
+l'amicale des travailleurs de la 
+mairie de Pirae. 
+Date de convocation : 
+23 octobre 
+2014 
+Date d'affichage : 
+23 octobre 
+2014 
+Résultats des votes 
+Pour 
+Contre 
+Abstentions 
+33 
+0 
+0 
+La délibération est adoptée à 
+l'unanimité 
+Affichage du compte rendu du 
+conseil municipai le 
+31 octobre 2014 
+Affichage de la présente 
+délibération le : 
+EXTRAIT DU REGISTRE 
+DE DELIBERATIONS DU CONSEIL MUNICIPAL 
+L'an deux mille quatorze, le trente octobre 2014 à 16 heures, 
+Le Conseil municipal, légalement convoqué, s'est réuni à la mairie en séance publique sous la 
+présidence de Monsieur le Maire, Edouard FRITCH. 
+Conformément à l'article L.2121-15 du Code général des Collectivités Territoriales, 
+procédé à ia nomination des secrétaires de séance. 
+a été 
+Mesdames Rosana TEHOIRI et Raiarii TETOOFA ont été désignés pour remplir cette 
+fonction. 
+Etaient présents : 
+Nbre 
+4 
+8 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+Nom et Prénom 
+FRITCH Edouard 
+MACE Miriama 
+TEMARII Abel 
+MAO Marie-Madeleine 
+ATEM Féiix 
+HUNTER Lorraine 
+TAURAA Heimana 
+LECHENE Eliane 
+PAQUIER Jean Claude 
+LICHTLE Yvette 
+TÎXÎER Yvannah 
+CHICOU Jean 
+RAFFIN Yvonnick 
+RAUFEA Doris 
+MAKE Léon 
+SVARC Maire 
+TAURAATUA Christophe 
+MOO SUNG Samuel 
+TERE Maono 
+TEAO Christophe 
+URAHUTÎA Riveta 
+PARAUE Milton 
+TEPU Taiana 
+FOLÏAKI Turere 
+TEHOIRÏ Rosana 
+MOU KAM TSE Kapo 
+WONG Keehi 
+TETOOFA Raiarii 
+PARO ïrvine 
+VERNAUDON Béatrice 
+BAMBRIDGE Maiana 
+TETUAETARA Théodore 
+HAREHOE Thilda 
+Présent 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+31 
+Absent 
+X 
+Procuration 
+Miriama MACE 
+Kapo MOU KAM TSE 
+Délibération n° 096 /2014 du 30 octobre 2014 octroyant une subvention à l'amicale des travailleurs de Pirae 
+
+POLYNESIE FRANÇAISE 
+REPUBLIQUE FRANÇAISE 
+VILLE DE PIRAE 
+Liberté - Egalité - Fraternité 
+DELIBERATION N° 096 /2014 DU 30.10.2014. 
+Octroyant une subvention à l'amicale des travailleurs de la Mairie 
+de Pirae. 
+LE CONSEIL MUNICIPAL DE LA VILLE DE PIRAE 
+Ayant été régulièrement convoqué et le quorum ayant été atteint ; 
+Sous la présidence du maire de la commune ; 
+VU 
+VU 
+vu 
+vu 
+vu 
+vu 
+vu 
+vu 
+la loi organique n° 2004-192 du 27 février 2004 modifiée, portant statut d'autonomie de la 
+Polynésie française, promulguée par l'arrêté n° 119 DRCL du 3 mars 2004 ; 
+la loi n° 2004-193 du 27 février 2004, complétant ie statut d'autonomie de la Polynésie 
+française, promulguée par l'arrêté n° 119 DRCL du 3 mars 2004 ; 
+l'ordonnance n° 2007-1434 du 5 octobre 2007 modifiée, portant extension des première, 
+deuxième et cinquième parties du Code Général des Collectivités Territoriales aux communes 
+de la Polynésie française, à leurs groupements et à leurs établissements publics, ensemble la 
+loi n° 2007-1720 du 07 décembre 2007 tendant à renforcer la stabilité des institutions et la 
+transparence de la vie politique en Polynésie française et n° 2007-1787 du 20 décembre 2007 
+relative à la simplification du droit ; 
+la loi n° 71-1028 du 24 décembre 1971 modifiée, relative à la création et à l'organisation des 
+communes dans le territoire de la Polynésie française, promulguée par l'arrêté n° 31/AA du 6 
+janvier 1972 ; 
+le décret n° 72/407 du 17 mai 1972 portant création de communes dans le territoire de la 
+Polynésie française ; 
+l'arrêté n° 173/AA du 30 janvier 1965 instituant la commune de Pirae ; 
+L'avis favorable émit en commission Education en sa séance du 20 octobre 2014 ; 
+les explications fournies par Monsieur Edouard FRITCH, Maire ; 
+Après en avoir délibéré en sa séance du 30 octobre 2014. 
+ADOPTE 
+VOTANTS 
+POUR 
+CONTRÉ" 
+ABSTENTION 
+1 33 
+! 33 
+1 oo 
+\ 00 
+Délibération n° 096/2014 du 30 octobre 2014 octroyant une subvention à l'amicale des travailleurs de Pirae 
+
+ADOPTE : 
+Article 1 e r : 
+Une subvention d'un montant de UN MILLION DE FRANCS (1 000 000 Francs CFP) est 
+octroyée à « l'amicale des travailleurs de Pirae » pour le financement de ses actions. 
+Les termes et les conditions de cette attribution feront l'objet d'une convention. 
+Article 2- : 
+Le Maire, ou en cas d'empêchement son adjoint dans l'ordre du tableau, est autorisé à 
+signer la convention fixant les conditions d'une aide de la Commune de Pirae en faveur 
+de cette association. 
+Article 3. : 
+L'association est tenue de justifier de l'utilisation conforme des fonds qu'elle reçoit en 
+vertu des dispositions de la présente délibération par la production, avant le 1er mars 
+2015, d'un 
+état des dépenses effectuées 
+appuyé des pièces justificatives 
+correspondantes. 
+A défaut de justification ou en cas d'inemploi des crédits, l'association s'expose au 
+reversement des sommes perçues. 
+Article 4. : 
+La dépense est imputable à l'article 6574, rubrique 025 du budget communal de 
+l'exercice 2014 
+Article 5. : 
+La présente délibération, qui sera enregistrée, communiquée partout où besoin sera, 
+est prise pour valoir ce que de droit 
+Extrait certifié conforme au Registre des délibérations 
+Pour ie maire absent, 
+Le Maire 
+Edouard FRITCH 
+Acte rendu exécutoire 
+après envoi à la Subdivision administrative 
+Le.J.M0y,.M4... 
+îlîcation du .4...1. 
+Délibération n° 096 /2014 du 30 octobre 2014 octroyant une subvention à l'amicale des travailleurs de Pirae 
+
+POLYNESIE FRANÇAISE 
+Ville de Pirae 
+N° 
+/ 2 0 1 4 
+Du 
+2014 
+REPUBLIQUE FRANÇAISE 
+Liberté ~ Egalité - Fraternité 
+Convention financière 
+Exercice 2014 
+CONVENTION 
+Fixant les conditions d'attribution d'une aide de la commune de 
+Pirae en faveur de l'association «AMICALE DES TRAVAILLEURS DE 
+LA MUNICIPALITE DE PIRAE» 
+Acte rendu exécutoire après 
+envoi à la Subdivision 
+administrative 
+Le 
+et notifié 
+le. 
+Le Maire, 
+Edouard FRITCH 
+ENTRE : 
+La Ville de Pirae, représentée par Monsieur Edouard FRITCH, Maire de la 
+Ville de Pirae, régulièrement habilité à l'effet des présentes, ayant son 
+siège en l'Hôtel de ville sis à l'Avenue Ariipaea Pomare-Pirae, ci-après 
+dénommée « la Commune de Pirae » ; 
+ET 
+L'association Amicale des Travailleurs de la Municipalité de Pirae 
+, représentée par Monsieur Ramon TEIHOTUA, président, régulièrement 
+habiïité à l'effet des présentes, ayant son siège social à Pirae - route de 
+l'Hippodrome au Parc à matériel de la Municipalité de Pirae ci-après 
+dénommée : l'association 
+Vu la Délibération n° 
+/2014 du 30 octobre 2014 octroyant une aide 
+financière à l'association Amicale des Travailleurs de la Municipalité de
+Pirae au titre de l'année 2014, 
+ETANT PREALABLEMENT EXPOSE CE QUI SUIT : 
+L'Association ayant inscrit dans son objet social l'aide sous toutes ses 
+formes en faveur de la jeunesse, du développement des activités sportives 
+et de la cohésion sociale à Pirae. 
+La Commune considérant que l'organisation des animations et de la vie 
+sociale dans la ville de Pirae repose, en partie, sur l'action du tissu 
+associatif, qui joue un rôle éducatif et social de premier-plan, et qu'il 
+revient, à ce titre, à la municipalité de Pirae de soutenir l'effort des 
+responsables associatifs et de l'encadrement souvent bénévole. 
+
+IL EST CONVENU CE QUI SUIT : 
+Article 1er : Objet 
+La présente convention a pour objet d'apporter à l'Association une aide, en vue de 
+permettre à cette dernière de mener à bien ses missions et d'atteindre ses 
+objectifs en matière de cohésion sociale et d'animation. 
+Article 2 : - Identification 
+L'aide de la commune à l'association consiste en l'octroi d'une subvention d'un 
+montant de 1 OOO OOO F.CFP. 
+Les actions pour lesquelles la commune de Pirae apporte sa contribution, 
+considérées comme étant une opportunité sportive pour les membres de 
+l'association, à savoir, jeunes et adultes issus des quartiers de la Commune, sont 
+les suivantes : 
+- 
+Journée papîo LA JOIE 
+- 
+Journée intercommunale 
+- 
+Journée des matahiapo 
+- 
+Noël de la commune 
+Le budget de l'association nécessaire à la réalisation des objectifs ou des actions 
+retenues s'élève à 3 960 172 CFP. 
+Au 31 décembre 2014 l'association comprend un effectif de 64 adhérents. 
+Article 3 : - Obligations à la charge de l'association 
+En contrepartie, l'association s'oblige envers la Commune : 
+a) à développer le partenariat avec celle-ci dans la mise en œuvre de son 
+programme d'actions à destination des ressortissants de la Commune. 
+b) à utiliser les fonds qu'elle reçoit, conformément à un ou plusieurs 
+projets structurés dont les objectifs correspondent à une volonté du 
+conseil municipal ; 
+c) à répondre à toute demande de la commune ou des autres organes 
+publics de contrôle, de justification de l'emploi des crédits reçus 
+conformément à leur destination définie en l'article 2 à la présente 
+convention ; 
+d) à justifier de l'utilisation conforme des fonds qu'elle reçoit en vertu 
+des dispositions déterminées par une délibération du conseil municipal, 
+par la production d'un état des dépenses effectuées, appuyées des 
+pièces justificatives correspondantes. A défaut, l'Association est tenue 
+au reversement à la Commune des sommes non justifiées. 
+Article 4 : - Modalité de versement 
+La subvention de la commune est versée à l'association en une seule tranche. 
+Page 2 
+
+Le cadre budgétaire en vigueur mis en œuvre par l'association est conforme au 
+aux règles et usages en vigueur. 
+La subvention allouée par la commune est versée sur le compte ouvert au nom de 
+l'Association dans les livres de la banque de TAHm, sous les références 
+suivantes: 12239 00007 63374201000 26 
+Article 6 : ~~ Imputation budgétaire 
+La dépense est imputable au budget de la Commune - exercice 2014, article 6574, 
+rubrique 025. 
+Le comptable assignataire de la dépense est le trésorier des îles du Vent, des îles 
+Australes et des Archipels. 
+Article 7 : - Durée 
+La présente convention prend effet à compter de la date de son rendu exécutoire. 
+Eile expire à la date de production des justifications d'utilisation de l'aide octroyée, 
+et au plus tard ie 1
+er mars 2015. 
+Elle est, à tout moment, modifiable d'accord entre les parties, par voie d'avenant. 
+Article 8 : Contentieux 
+Conformément aux dispositions de l'article R.421-6 du code de justice 
+administrative, le Tribunal Administratif de la Polynésie française peut être saisi 
+par la voie du recours formée contre la présente convention, dans un délai de trois 
+mois (3) à compter de sa date de notification ou de publication. 
+Pour l'association, 
+Pour la commune, 
+Le Président, 
+Le Maire, 
+Ramon TEIHOTUA 
+Edouard FRUCH 
+Page 3
