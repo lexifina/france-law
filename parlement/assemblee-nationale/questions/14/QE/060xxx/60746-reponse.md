@@ -1,0 +1,9 @@
+# Réponse à la question n° 60746
+
+- Question : [60746](60746.md) — Question n° 60746 — maisons de services; opérateurs
+
+## Réponse
+
+*JO du 2014-10-21*
+
+Les maisons de services au public (MSAP) délivrent une offre mutualisée de proximité et de qualité à l'attention de tous les publics : information transversale de premier niveau, orientation vers les opérateurs de services, prises de rendez-vous soit par des permanences dans la MSAP, soit à distance via la visiophonie, accompagnement des usagers pour des démarches spécifiques. La MSAP articule ainsi la présence humaine, indispensable aux usagers, et les outils numériques qui contribuent à abolir les distances. Les services au public présents au sein d'une MSAP peuvent couvrir le champ social, de l'emploi, de la justice, du logement, de la santé, du commerce, de la consommation, de l'énergie, de l'environnement, selon les besoins des populations. Certaines MSAP accueillent jusqu'à trente partenaires, services de l'État, opérateurs locaux ou représentants des opérateurs nationaux, services marchands et non marchands. Les MSAP ne délivrent pas toutes la même offre de services car cette offre est fonction des besoins des habitants et des stratégies des opérateurs de services qui nouent localement des partenariats. La volonté du Gouvernement de créer 1 000 maisons de services au public à l'horizon 2017 sur l'ensemble du territoire national afin de compléter le maillage existant est une réponse au besoin de proximité des habitants. Ce dispositif est également utile aux opérateurs, d'une part pour être proches de leurs usagers et répondre à leurs missions de service public, notamment de présence territoriale, d'autre part pour réaliser des économies de moyens, en locaux, en personnels et en équipements et bénéficier de l'enrichissement de l'offre grâce à la mutualisation.
