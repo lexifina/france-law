@@ -1,0 +1,9 @@
+# Réponse à la question n° 43076
+
+- Question : [43076](43076.md) — Question n° 43076 — recours; modalités
+
+## Réponse
+
+*JO du 2014-10-21*
+
+La proposition du Défenseur des Droits d'instituer un droit de recours effectif à l'encontre d'une décision d'irrecevabilité portant sur une amende forfaitaire non majorée, conformément à la jurisprudence de la Cour européenne des droits de l'homme du 8 mars 2012, a fait l'objet du décret en Conseil d'Etat du 2 décembre 2013, qui modifie l'article R. 49-18 du code de procédure pénale afin d'encadrer les modalités selon lesquelles l'officier du ministère public peut déclarer les requêtes ou réclamations concernant les amendes forfaitaires irrecevables. L' article R 49-18 du code de procédure pénale précise désormais que l'officier du ministère public qui considère que la requête en exonération ou que la réclamation est irrecevable, devra faire connaître à la personne, dans l'avis qu'il est tenu de lui adresser en application du premier alinéa de l'article 530-1 de ce code, les raisons de sa décision. Il interdit les décisions d'irrecevabilité fondées sur l'absence de motivation de la contestation lorsque la personne déclare ne pas être l' auteur de la contravention, puisque cela constitue en soi une motivation. Il exige que l'avis de décision d'irrecevabilité fondée sur l'absence de motivation de la requête soit adressé par lettre recommandée. Il prévoit que la personne devra être informée qu'elle pourra, dans un délai d'un mois courant à compter de son envoi, contester cette décision par lettre recommandée avec demande d'accusé de réception. Si cette contestation ne donne pas lieu au classement sans suite de la contravention, l'officier du ministère public est alors tenu de saisir la juridiction de proximité conformément aux articles 524 à 528-2 ou aux articles 531 et suivants du code de procédure pénale.
