@@ -1,0 +1,9 @@
+# Réponse à la question n° 4655
+
+- Question : [4655](4655.md) — Question n° 4655 — pensions d'invalidité; rente d'accident professionnel; cumul; réglementation
+
+## Réponse
+
+*JO du 2014-10-21*
+
+Le Gouvernement est attentif à ce que des conditions de vie décentes soient garanties aux personnes présentant une incapacité, quelle qu'en soit l'origine. Il existe effectivement un principe selon lequel un même état d'invalidité ne peut être indemnisé à la fois au titre de l'assurance invalidité et de la couverture du risque AT-MP. Plusieurs règles permettent cependant d'avoir un système qui s'adapte aux situations de chacun. Ainsi, sous certaines conditions, il est possible de cumuler la rente AT-MP avec la pension d'invalidité. Si celles-ci ont vocation à compenser la même affection, ce cumul est limité à 80 % du salaire perçu par un travailleur de la même catégorie. De plus, lorsque le bénéfice de la rente AT-MP est reconnu à un assuré ne percevant pas de pension d'invalidité, mais qu'il pourrait être indemnisé au titre de l'assurance invalidité, la rente AT-MP est majorée jusqu'au niveau qui serait celui de la pension d'invalidité. Enfin, lorsqu'après l'ouverture du droit à la rente AT-MP, l'état de santé de l'assuré subit une aggravation qui ne sera pas indemnisée au titre du risque AT-MP, ce dernier peut prétendre au bénéfice d'une pension d'invalidité si son degré total d'incapacité est au moins des deux tiers. Ici, le cumul de la rente AT-MP et de la pension d'invalidité ne peut excéder le salaire perçu par un travailleur valide de la même catégorie. Il résulte ainsi de l'articulation de ces diverses dispositions que sous certaines conditions, la pension d'invalidité est cumulable avec la rente AT-MP. Ce dispositif, voté par la représentation nationale, permet de garantir un système de protection large et équitable de nos concitoyens rencontrant une incapacité.
