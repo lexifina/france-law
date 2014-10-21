@@ -1,0 +1,9 @@
+# Réponse à la question n° 49084
+
+- Question : [49084](49084.md) — Question n° 49084 — statut; conditions d'accès
+
+## Réponse
+
+*JO du 2014-10-21*
+
+L'attention de la ministre de la culture et de la communication a été appelée sur la question des conditions d'ouverture de droits d'assurance chômage au titre du régime des intermittents du spectacle pour un enseignant désirant quitter ses fonctions au ministère chargé de l'éducation nationale et qui aurait, en vertu d'une autorisation de cumul d'activité, exercé en qualité d'artiste du spectacle parallèlement à son activité d'enseignant. Dans cette hypothèse où la rupture de son contrat de travail avec le ministère chargé de l'éducation nationale en fin d'année scolaire pourrait être considérée comme volontaire (cas de démission par exemple), l'enseignant ne pourrait pas prétendre aux allocations de chômage au titre de son activité au sein de l'éducation nationale. En effet, selon le code du travail, l'ouverture de droits à l'assurance chômage des agents fonctionnaires d'État est conditionnée à une perte d'emploi involontaire, comme pour les salariés de droit privé. Il pourrait toutefois demander le bénéfice de l'assurance chômage au titre du régime des intermittents (annexe 10) pour son activité d'artiste du spectacle. Cela ne serait possible qu'à la condition d'avoir effectué 455 heures de travail après la date de fin de contrat avec le ministère chargé de l'éducation nationale et de justifier a minima d'un total de 507 heures de travail en qualité d'artiste sur une période de référence globale de 10.5 mois au moment de la demande d'ouverture de droits auprès de Pôle emploi. Dans ce cas, seules les périodes d'activité en qualité d'artiste seraient prises en compte pour apprécier le montant des droits d'assurance chômage, à l'exclusion des périodes d'activité comme enseignant auprès du ministère chargé de l'éducation nationale.
