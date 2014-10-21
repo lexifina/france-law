@@ -1,0 +1,9 @@
+# Réponse à la question n° 64167
+
+- Question : [64167](64167.md) — Question n° 64167 — esclavagisme; lutte et prévention
+
+## Réponse
+
+*JO du 2014-10-21*
+
+La France accorde une attention prioritaire au respect des droits de l'Homme et libertés fondamentales dans le monde. S'agissant de la Mauritanie, la révision de la constitution intervenue en mars 2012 a une portée significative en matière de progrès des droits et témoigne des efforts des autorités mauritaniennes en la matière. En effet, le nouvel article 13 prévoit que « Nul ne peut être réduit en esclavage ou à toute forme d'asservissement de l'être humain, ni soumis à la torture et autres traitements cruels, inhumains ou dégradants » et que « ces pratiques constituent des crimes contre l'humanité et sont punis comme tels par la loi ». Par ailleurs, la Mauritanie a adopté, en mars 2014, une feuille de route pour l'éradication de l'esclavage, qui a été saluée par le premier rapporteur spécial des Nations unies sur les formes contemporaines d'esclavage, Mme Gulnara Shahinian, comme un tournant dans la lutte contre l'esclavage en Mauritanie. La France soutient la mise en oeuvre de cette feuille de route. La coopération franco-mauritanienne, au travers du document cadre de partenariat pour la période de 2013-2015, a identifié les droits de l'Homme comme secteur prioritaire. En outre, la France, au travers notamment de son fonds social de développement et de son fonds d'appui à la société civile du Sud, apporte son soutien à plusieurs initiatives au bénéfice des populations exposées aux pratiques esclavagistes. L'examen périodique universel de la Mauritanie au Conseil des droits de l'Homme des Nations unies en octobre et novembre 2015 sera l'occasion d'examiner les avancées dans la mise en oeuvre de la feuille de route pour l'éradication de l'esclavage en Mauritanie.
