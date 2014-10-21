@@ -1,0 +1,9 @@
+# Réponse à la question n° 64030
+
+- Question : [64030](64030.md) — Question n° 64030 — dépenses liées aux économies d'énergie; réglementation
+
+## Réponse
+
+*JO du 2014-10-21*
+
+Lors de la présentation du projet de loi relatif à la transition énergétique pour la croissance verte en Conseil des ministres le 18 juin 2014, le Gouvernement a annoncé que le crédit d'impôt deviendrait le dispositif phare de soutien à la rénovation énergétique des logements. Pour cela, le projet de loi de finances pour 2015 prévoit la mise en place d'un crédit d'impôt pour la transition énergétique simplifié et renforcé à compter du 1er septembre 2014. Les mesures envisagées dans le cadre du projet de loi de finances sont les suivantes : - un taux unique de 30 %, quel que soit le type d'actions et sans conditions de ressources ; - un élargissement à l'installation de compteurs individuels pour le chauffage et l'eau chaude sanitaire dans les copropriétés, à l'installation de bornes de recharge pour les véhicules électriques. Pour un même logement que le propriétaire, le locataire ou l'occupant à titre gratuit affecte à son habitation principale, le plafond des dépenses ouvrant droit au crédit d'impôt ne peut excéder au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2015, la somme de 8 000 € pour une personne célibataire, veuve ou divorcée et de 16 000 € pour un couple soumis à imposition commune. Ce montant est majoré de 400 € par personne à charge. Le plafond des dépenses tient compte de la composition du foyer fiscal parce qu'elle a en général des répercussions sur la taille du logement et donc sur le montant des dépenses à engager. Par ailleurs, ce plafond est calculé de manière globale et pluriannuelle pour permettre aux contribuables de cumuler plusieurs dépenses éligibles au crédit d'impôt à des taux différents.
