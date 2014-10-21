@@ -1,0 +1,9 @@
+# Réponse à la question n° 60747
+
+- Question : [60747](60747.md) — Question n° 60747 — maisons de services; permanence; personnel
+
+## Réponse
+
+*JO du 2014-10-21*
+
+Les maisons de services au public (MSAP) délivrent une offre mutualisée de proximité et de qualité à l'attention de tous les publics : information transversale de premier niveau, orientation vers les opérateurs de services, prises de rendez-vous soit par des permanences dans la MSAP, soit à distance via la visiophonie, accompagnement des usagers pour des démarches spécifiques. La MSAP articule ainsi la présence humaine, indispensable aux usagers, et les outils numériques qui contribuent à abolir les distances. La MSAP est en lien direct avec les opérateurs partenaires et la visiophonie est un canal qui permet de délivrer une offre de services similaire à celle d'une permanence tout en bénéficiant de l'accompagnement des agents d'accueil présents physiquement sur site. La contribution des outils numériques permet de pallier d'une part la distance et d'autre part les contraintes des opérateurs qui ne peuvent pas consentir des efforts en ressources humaines dans tous les territoires, notamment par des permanences régulières. Depuis 2014, l'État renforce son aide auprès des collectivités locales à travers une contribution qui représente 25 % du coût annuel de fonctionnement des sites, dont on sait que les charges salariales sont les premiers postes de dépense. Parmi les missions confiées à la cellule d'animation nationale hébergée par la Caisse des dépôts et consignations (CDC), figurent la mise en réseau des agents des MSAP, le développement d'outils à leur disposition, et le recensement de leurs besoins notamment en matière de formation. Le rôle des agents est une composante centrale et essentielle du dispositif, quel que soit le territoire concerné, pour garantir l'accueil de proximité du public et développer le partenariat avec les opérateurs de services.
