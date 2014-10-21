@@ -1,0 +1,9 @@
+# Réponse à la question n° 51353
+
+- Question : [51353](51353.md) — Question n° 51353 — détenus particulièrement signalés; statut; statistiques
+
+## Réponse
+
+*JO du 2014-10-21*
+
+Le nombre de détenus particulièrement signalés (DPS) est actuellement de 318. Au 1er janvier de chaque année depuis 2007, ce nombre est le suivant : 337 en 2007 et 2008 ; 355 en 2009 ; 395 en 2010 ; 334 en 2011 ; 331 en 2012 et 347 en 2013. Les personnes détenues inscrites au répertoire DPS sont considérées comme présentant un risque d'évasion ou de dangerosité particulier et font l'objet, à ce titre, d'une surveillance spécifique. Sont ainsi prévues des mesures relatives à la connaissance des personnes détenues DPS (importance du renseignement pénitentiaire et communication des informations), des mesures de sécurité en détention (rythme des fouilles, affectation en cellule, etc.) ainsi que celles devant être diligentées hors d'un établissement pénitentiaire, en cas de transfert notamment. L'inscription ou le maintien au répertoire des DPS étant une mesure faisant grief, la circulaire d'instruction ministérielle du 19 septembre 2012 a introduit une procédure contradictoire dans l'instruction des décisions de maintien ou d'inscription au registre des DPS qui était absente de la précédente circulaire du 18 décembre 2007. Cette circulaire ministérielle récente rappelle par ailleurs les critères d'inscription au registre et instaure une commission DPS unique, présidée par le chef d'établissement. Elle n'est pas appelée à être modifiée prochainement. Pour être complet, il convient de préciser qu'une note de l'administration pénitentiaire du 8 novembre 2013 est venue préciser les modalités de prise en charge des détenus particulièrement signalés (transferts, observation, gestion ne détention, relations avec l'extérieur).
