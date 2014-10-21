@@ -1,0 +1,9 @@
+# Réponse à la question n° 63627
+
+- Question : [63627](63627.md) — Question n° 63627 — phytoépuration; assainissement collectif; développement
+
+## Réponse
+
+*JO du 2014-10-21*
+
+En matière d'assainissement collectif, le choix de la filière de traitement des eaux usées appartient à la collectivité qui détient cette compétence, dans le respect des modalités prévues par le code des marchés publics. La technique de traitement retenue doit notamment permettre de répondre aux normes de rejets fixées par les services de l'État en charge de la police de l'eau au regard de la sensibilité du milieu naturel dans lequel vont être rejetées ces eaux traitées, aux contraintes d'implantation des installations et à la taille de l'agglomération concernée. Les pouvoirs publics n'ont donc pas vocation à encourager le recours à une filière de traitement particulière. En revanche, des documents techniques sont mis à disposition des collectivités pour les aider à retenir les options techniques adaptées à leurs besoins et éventuelles contraintes (techniques, financières, ...). Ainsi, s'agissant des filtres plantés de roseaux, plusieurs guides techniques ont été publiés par les ministères ou les agences de l'eau au cours de ces 10 dernières années pour aider à la bonne conception et la bonne exploitation de ces ouvrages. Ceux-ci sont notamment accessibles à partir du portail national eaufrance (www. eaufrance. fr). Par ailleurs, l'article L. 3232-1-1 du code général des collectivités territoriales prévoit également que les départements mettent à disposition des communes ou établissements publics de coopération intercommunale une assistance technique pour aider les communes rurales à mettre en place et gérer dans les meilleures conditions possibles leurs installations de traitement des eaux usées.
