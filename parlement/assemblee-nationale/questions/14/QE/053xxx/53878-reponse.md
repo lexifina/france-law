@@ -1,0 +1,9 @@
+# Réponse à la question n° 53878
+
+- Question : [53878](53878.md) — Question n° 53878 — Colmar; reconversion; Haut-Rhin
+
+## Réponse
+
+*JO du 2014-10-21*
+
+Ancien couvent des Augustins datant de 1316, la maison d'arrêt de Colmar a été mise en service en 1919. Jouxtant le palais de justice situé en centre-ville, cet établissement est doté de 120 places de détention réparties sur 63 cellules. Au 1er juin 2014, il hébergeait 187 personnes détenues. Dans le cadre des arbitrages du prochain programme immobilier pénitentiaire, la garde des sceaux, ministre de la justice, a décidé la construction d'un nouveau centre pénitentiaire de 520 places à Lutterbach, localisé à seulement 45 km de Colmar. Cette future opération, qui fait l'objet d'arbitrages dans le cadre du triennal 2015-2017, sera accompagnée de la fermeture des établissements de Mulhouse et Colmar, manifestement vétustes. Cette décision procède de la volonté plus globale de la garde des sceaux, ministre de la justice, d'améliorer les conditions de détention, ainsi que celles de travail des personnels pénitentiaires, notamment de surveillance. En attendant la mise en service de ce nouvel établissement de Lutterbach, la maison d'arrêt de Colmar continue de bénéficier de travaux réguliers d'entretien et de maintenance. Ainsi, 200 028 euros seront investis sur la période 2014-2016 afin de financer des travaux de maintien de l'établissement en condition opérationnelle, concernant la réfection de la toiture, des réseaux électriques et des locaux de douche ainsi que le renforcement de la vidéosurveillance. Par ailleurs, la garde des sceaux confirme qu'il n'est pas envisagé de construire une nouvelle structure pénitentiaire lors de la fermeture de la maison d'arrêt de Colmar, celle prévue par le projet de Lutterbach étant suffisante au vu des nécessités locales.
