@@ -12,7 +12,9 @@ AUTORITÉS CONCERNÉES
 
 |
 
-CONDITIONS DE L'EXERCICE
+LIMITES SUPÉRIEURES D'EXERCICE
+
+de la compétence
 
 |
 
@@ -20,7 +22,7 @@ Opérations domaniales
 
 |
 
-Saisine de l'administration chargée des domaines en vue de l'acquisition d'immeubles ou d'un changement d'utilisation devant accroître le domaine militaire d'immeubles ou de droits immobiliers et assistance de l'administration chargée des domaines lors de la passation de l'acte (1).
+Saisine de l'administration chargée des domaines en vue de l'acquisition d'immeubles ou d'un changement d'utilisation devant accroître le domaine militaire d'immeubles ou de droits immobiliers, et assistance de l'administration chargée des domaines lors de la passation de l'acte (1).
 
 |
 
@@ -32,7 +34,7 @@ Valeur vénale inférieure à 300 000 €.
 
 |
 
-Déclaration d'inutilité et acte de déclassement, en vue des opérations mentionnées au 3°, des immeubles dépendant du domaine public militaire, à l'exception de ceux qui ont été classés par décret ou par arrêté (1).
+Déclaration d'inutilité et acte de déclassement, en vue des opérations mentionnées au 3°, des immeubles dépendant du domaine public militaire à l'exception de ceux qui ont été classés par décret ou par arrêté (1).
 
 |
 
@@ -56,7 +58,7 @@ Valeur vénale inférieure à 300 000 €.
 
 |
 
-Saisine de l'administration chargée des domaines en vue de la prise à bail d'immeubles privés (1).
+Saisine de l'administration chargée des domaines en vue de la prise à bail d'immeubles privés et assistance de l'administration chargée des domaines lors de la passation de l'acte (1).
 
 |
 
@@ -68,7 +70,13 @@ Loyer total annuel inférieur ou égal à 50 000 €.
 
 |
 
-Réception des demandes et délivrance des autorisations d'occupation temporaire (AOT) et conventions de toute nature du domaine public militaire au profit de personnes morales ou physiques de droit public ou privé prévues aux articles R. 2122-1 à R. 2122-8 du code général de la propriété des personnes publiques (1).
+Réception des demandes et délivrance des autorisations d'occupation temporaire (AOT) et conventions de toute nature du domaine public militaire au profit de personnes morales de droit public ou privé ou de personnes physiques, prévues aux articles R. 2122-1 à R. 2122-8 du code général de la propriété des personnes publiques :
+
+-soit à titre onéreux, donnant lieu à redevance sur la base du tarif défini par la direction départementale des finances publiques compétente en application de l'article R. 2125-1 du même code ;
+
+-soit à titre gratuit dans les conditions prévues par l'article L. 2125-1 du même code,
+
+dans les limites précisées par le présent arrêté.
 
 |
 
@@ -78,9 +86,11 @@ Le chef du service parisien de soutien de l'administration centrale.
 
 Redevance annuelle inférieure à 50 000 €.
 
+Autorisation d'occupation inférieure à 3 ans.
+
 |
 
-Réception des demandes et délivrance des titres d'occupation constitutifs de droit réel sur le domaine public militaire prévues aux articles R. 2122-9 et suivants du code général de la propriété des personnes publiques (1).
+Réception des demandes et délivrance des titres d'occupation constitutifs de droit réel sur le domaine public militaire prévues aux articles R. 2122-9 et suivants et à l'article R. 2125-1 du code général de la propriété des personnes publiques (1).
 
 |
 
@@ -89,6 +99,8 @@ Le chef du service parisien de soutien de l'administration centrale.
 |
 
 Redevance annuelle inférieure à 50 000 €.
+
+Autorisation d'occupation inférieure à 3 ans.
 
 |
 
@@ -116,19 +128,7 @@ Sans limitation.
 
 |
 
-Transfert de gestion d'un immeuble du domaine public militaire prévu aux articles L. 2123-3 à L. 2123-6 du code général de la propriété des personnes publiques (1).
-
-|
-
-Le chef du service parisien de soutien de l'administration centrale.
-
-|
-
-Sans limitation.
-
-|
-
-Saisine de l'administration chargée des domaines en vue de l'acquisition d'immeubles et des changements d'utilisation devant accroître le domaine militaire d'immeubles ou de droits immobiliers et assistance de l'administration chargée des domaines lors de la passation de l'acte (1).
+Transferts de gestion d'un immeuble du domaine public militaire prévu aux articles L. 2123-3 à L. 2123-6 du code général de la propriété des personnes publiques (1).
 
 |
 
@@ -152,11 +152,11 @@ Le directeur central du service de santé des armées et le directeur du service
 
 |
 
-Pour les logements relevant de leurs organismes, à l'exception :
+Pour les logements relevant de leurs organismes à l'exception :
 
-- des arrêtés de la compétence des délégataires de pouvoirs prévus par l'arrêté du 4 janvier 1962 ;
+-des arrêtés de la compétence des délégataires de pouvoirs prévus par l'arrêté du 4 janvier 1962 ;
 
-- des arrêtés concernant les logements de représentation, quel qu'en soit l'emplacement, et les logements concédés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte et situés dans les immeubles du ministère ou dans ses annexes.
+-des arrêtés concernant les logements de représentation quel qu'en soit l'emplacement et les logements concédés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte et situés dans les immeubles du ministère ou dans ses annexes.
 
 |
 
@@ -166,15 +166,15 @@ Le chef du service central de la modernisation et de la qualité dont dispose le
 
 |
 
-Pour les logements relevant de la direction générale de l'armement, à l'exception :
+Pour les logements relevant de la direction générale de l'armement à l'exception :
 
-- des arrêtés de la compétence des délégataires de pouvoirs prévus par l'arrêté du 4 janvier 1962 ;
+-des arrêtés de la compétence des délégataires de pouvoirs prévus par l'arrêté du 4 janvier 1962 ;
 
-- des arrêtés concernant les logements de représentation, quel qu'en soit l'emplacement, et les logements concédés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte et situés dans les immeubles du ministère ou dans ses annexes.
+-des arrêtés concernant les logements de représentation quel qu'en soit l'emplacement et les logements concédés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte et situés dans les immeubles du ministère ou dans ses annexes.
 
 |
 
-Saisine de l'administration chargée des domaines en vue de la prise à bail de logements concédés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte.
+Saisine de l'administration chargée des domaines en vue de la prise à bail de logements concédés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte et assistance de l'administration chargée des domaines lors de la passation de l'acte.
 
 |
 
@@ -196,7 +196,7 @@ a) Les lieux de mémoire, y compris les nécropoles, et les monuments historique
 
 b) Les immeubles domaniaux visés à l'article 67 de la loi du 27 décembre 2008 susvisée ;
 
-c) Les immeubles faisant l'objet d'une cession, d'une occupation ou d'un transfert de gestion à titre gratuit ;
+c) Les immeubles faisant l'objet à titre gratuit, d'une cession, d'une occupation pour une durée supérieure à trois ans ou d'un transfert de gestion ;
 
 d) La saisine de l'administration chargée des domaines pour les échanges de biens ou de droits à caractère immobilier prévus aux articles R. 1111-1 et R. 1111-2 du code général de la propriété des personnes publiques ;
 
@@ -208,9 +208,9 @@ g) La conduite des négociations en vue de l'aliénation des immeubles domaniaux
 
 h) La délivrance des autorisations d'occupation temporaire constitutives de droit réel du domaine public militaire prévues à l'article L. 2122-15 du code général de la propriété des personnes publiques ;
 
-i) La saisine de l'administration chargée des domaines pour la prise à bail des logements concédés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte par la direction générale de l'armement ;
+i) La saisine de l'administration chargée des domaines pour la prise à bail des logements concédés par nécessité absolue de service ou par convention d'occupation précaire avec astreinte, par la direction générale de l'armement ;
 
-j) La saisine de l'administration chargée des domaines pour la prise à bail des logements en Ile-de-France ;
+j) La saisine de l'administration chargée des domaines pour la prise à bail des logements en Ile-de-France et l'assistance de l'administration chargée des domaines lors de la passation de l'acte ;
 
 k) Les immeubles occupés par la direction générale de la sécurité extérieure.
 
