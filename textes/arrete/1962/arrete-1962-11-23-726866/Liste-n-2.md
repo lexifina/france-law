@@ -152,12 +152,6 @@ Haute-Saône |
 
 |
 
-Melun-Villaroche |
-
-Seine-et-Marne |
-
-|
-
 Metz-Frescaty |
 
 Moselle |

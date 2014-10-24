@@ -1182,6 +1182,12 @@ Seine-et-Marne |
 
 |
 
+Melun-Villaroche |
+
+Seine-et-Marne |
+
+seuls les aéronefs basés sont autorisés à effectuer des tours de piste |
+
 Mende-Brenoux |
 
 Lozère |
