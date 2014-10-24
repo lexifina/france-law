@@ -1,10 +1,10 @@
-# Article LEGIARTI000027946301
+# Article Annexe
 
 BOURSES D'ENSEIGNEMENT SUPÉRIEUR
 
 Barème des ressources en euros
 
-Année universitaire 2013-2014
+Année universitaire 2014-2015
 
 PTS
 
@@ -74,7 +74,7 @@ de charge
 
 |
 
-26 500
+31 000
 
 |
 
@@ -114,7 +114,7 @@ de charge
 
 |
 
-29 000
+34 400
 
 |
 
@@ -154,7 +154,7 @@ de charge
 
 |
 
-31 500
+37 900
 
 |
 
@@ -194,7 +194,7 @@ de charge
 
 |
 
-34 000
+41 300
 
 |
 
@@ -234,7 +234,7 @@ de charge
 
 |
 
-36 500
+44 800
 
 |
 
@@ -274,7 +274,7 @@ de charge
 
 |
 
-39 000
+48 200
 
 |
 
@@ -314,7 +314,7 @@ de charge
 
 |
 
-41 500
+51 700
 
 |
 
@@ -354,7 +354,7 @@ de charge
 
 |
 
-44 000
+55 100
 
 |
 
@@ -394,7 +394,7 @@ de charge
 
 |
 
-46 500
+58 600
 
 |
 
@@ -434,7 +434,7 @@ de charge
 
 |
 
-49 000
+62 000
 
 |
 
@@ -474,7 +474,7 @@ de charge
 
 |
 
-51 500
+65 400
 
 |
 
@@ -514,7 +514,7 @@ de charge
 
 |
 
-54 000
+68 900
 
 |
 
@@ -554,7 +554,7 @@ de charge
 
 |
 
-56 500
+72 300
 
 |
 
@@ -594,7 +594,7 @@ de charge
 
 |
 
-59 000
+75 800
 
 |
 
@@ -634,7 +634,7 @@ de charge
 
 |
 
-61 500
+79 200
 
 |
 
@@ -674,7 +674,7 @@ de charge
 
 |
 
-64 000
+82 700
 
 |
 
@@ -714,7 +714,7 @@ de charge
 
 |
 
-66 500
+86 100
 
 |
 
@@ -754,7 +754,7 @@ de charge
 
 |
 
-69 000
+89 600
 
 |
 
