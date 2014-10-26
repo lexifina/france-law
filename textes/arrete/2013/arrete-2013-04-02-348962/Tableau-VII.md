@@ -4,21 +4,23 @@ RÉGION PROVENCE-ALPES-CÔTE D'AZUR
 
 Nom : hôpital d'instruction des armées Laveran.
 
-Adresse : 4, boulevard Alphonse-Laveran, BP 60149, 13384 Marseille Cedex 13.
+Adresse : 4, boulevard Alphonse-Laveran, BP 60149,13384 Marseille Cedex 13.
 
-Années 2013-2014
+Années 2014-2015
 
 I. - Eléments pris en compte pour le SROS
 
-(au sens des articles L. 1434-7 à L. 1434-10 du code de la santé publique )
+(au sens des articles L. 1434-7 à L. 1434-10 du code de la santé publique)
 
-A. - Activités de soins au sens de l'article R. 6122-25 du CSP
+A. - Activités de soins (au sens de l'article R. 6122-25 du CSP)
 
-Médecine et chirurgie
+MÉDECINE ET CHIRURGIE
 
 |
 
-Capacité en lits et place
+CAPACITÉ
+
+en lits et places
 
 (à titre indicatif)
 
@@ -40,7 +42,7 @@ Chirurgie, y compris sous la forme d'alternatives à l'hospitalisation :
 
 |
 
-90
+78
 
 |
 
@@ -144,11 +146,17 @@ Traitement du cancer :
 
 Activités soumises à seuil
 
+|
+
+|
+
+|
+
 Au moins seuils applicables
 
-aux établissements de santé
+aux ES
 
-(activité moyenne sur trois ans)
+(activité moyenne sur 3 ans)
 
 |
 
@@ -161,16 +169,6 @@ Chirurgie des cancers :
 |
 
 - pathologies digestives :
-
-|
-
-|
-
-30 interventions/an
-
-|
-
-- pathologies thoraciques :
 
 |
 
@@ -196,9 +194,7 @@ Chimiothérapie et autres traitements médicaux spécifiques :
 
 |
 
-80 patients/an dont
-
-au moins 50 en ambulatoire
+80 patients/an dont au moins 50 en ambulatoire
 
 |
 
@@ -260,11 +256,11 @@ Soins de support : démarche palliative (avec lits de médecine dédiés) en :
 
 |
 
-B. - Equipements, matériels lourds au sens de l'article R. 6122-26 du CSP
+B. - Equipements, matériels lourds (au sens de l'article R. 6122-26 du CSP)
 
 |
 
-Nombre à titre indicatif
+NOMBRE À TITRE INDICATIF
 
 |
 
@@ -284,13 +280,9 @@ Scanographe à utilisation médicale :
 
 |
 
-II. - Autres activités ou installations
+II. - Autres activités ou installations (prévues au code de la santé publique)
 
-(prévues au code de la santé publique)
-
-Odontologie.
-
-Pharmacie à usage intérieur (art. L. 5126-1 et L. 5126-7 du CSP) exerçant :
+Odontologie. Pharmacie à usage intérieur (art. L. 5126-1 et L. 5126-7 du CSP) exerçant :
 
 - l'activité de rétrocession ;
 
@@ -298,13 +290,15 @@ Pharmacie à usage intérieur (art. L. 5126-1 et L. 5126-7 du CSP) exerçant :
 
 - la réalisation de préparations nécessaires pour les expérimentations ou les essais cliniques.
 
-Laboratoire de biologie médicale.
+Laboratoire de biologie médicale :
 
-Prélèvement d'organes (art. L. 1235-7 et R. 1233-12 du CSP).
+Prélèvement d'organes (art. L. 1235-7 et R. 1233-12 du CSP) ;
 
-Centre de vaccination internationale (consultation des voyageurs) (art. R. 6147-119 du CSP).
+Centre de vaccination internationale (consultation des voyageurs) ( art. R. * 6112-12 du CSP).
 
-III. - Missions d'intérêt général (mentionnées aux articles L. 162-22-13 et R. 174-34 du code de la sécurité sociale, aux articles D. 162-6 et suivants du code de la sécurité sociale et à l'arrêté du 13 mars 2009 modifié pris pour l'application de l'article D. 162-8 du code de la sécurité sociale)
+III.-Missions d'intérêt général (mentionnées aux articles L. 162-22-13 et R. 174-34 du code de la sécurité sociale,
+
+aux articles D. 162-6 et suivants du code de la sécurité sociale, et à l'arrêté du 13 mars 2009 modifié)
 
 Objectifs d'activité : cibles prévues au PPOM.
 
@@ -314,7 +308,7 @@ Recherche médicale et innovation :
 
 Activités de soins réalisées à des fins expérimentales ou dispensation des soins non couverts par les nomenclatures et les tarifs :
 
-- les actes dentaires, les actes de biologie et les actes d'anatomocyto-pathologie non inscrits sur la liste prévue à l'article L. 162-1-7 du CSS ;
+- actes dentaires, les actes de biologie et les actes d'anatomocyto-pathologie non-inscrits sur la liste prévue à l'article L. 162-1-7 CSS ;
 
 - les médicaments bénéficiant ou ayant bénéficié d'une ATU en attente de leur agrément.
 
@@ -324,9 +318,9 @@ Formation, soutien, coordination, évaluation des besoins du patient :
 
 Intervention des équipes pluridisciplinaires pour la prise en charge de certaines pathologies :
 
-- consultations mémoire ;
+- consultations mémoires ;
 
-- actions de qualité transversale des pratiques de soins en cancérologie ;
+- les actions de qualité transversale des pratiques de soins en cancérologie ;
 
 - structures d'étude et de traitement de la douleur chronique ;
 
@@ -334,11 +328,15 @@ Intervention des équipes pluridisciplinaires pour la prise en charge de certain
 
 Missions de prévention et d'éducation pour la santé :
 
-- les actions de prévention et d'éducation thérapeutique relatives aux maladies chroniques, et notamment aux pathologies respiratoires, aux pathologies cardio-vasculaires, à l'insuffisance rénale, au diabète et à l'infection par le VIH.
+- les actions de prévention et d'éducation thérapeutique relatives aux maladies chroniques, et notamment aux pathologies respiratoires, aux pathologies cardiovasculaires, à l'insuffisance rénale, au diabète et à l'infection par le VIH.
+
+Aide médicale urgente :
+
+- les services mobiles d'urgence et de réanimation mentionnés à l'article R. 6123-10 CSP.
 
 Faciliter le maintien des soins de proximité et l'accès à ceux-ci :
 
-- la mise à disposition par l'établissement de santé de moyens au bénéfice des maisons médicales mentionnées à l'article L. 162-3 du CSS.
+- la mise à disposition par l'établissement de santé de moyens au bénéfice des maisons médicales mentionnées à l'article L. 162-3 CSS.
 
 Participation aux missions de santé publique :
 
@@ -348,14 +346,12 @@ La prise en charge spécifique des patients en situation de précarité :
 
 - les dépenses spécifiques liées à la prise en charge des patients en situation de précarité par des équipes hospitalières.
 
-Aide médicale urgente :
-
-- services d'aide médicale urgente mentionnés à l'article L. 6311-2 du CSP y compris les centres d'enseignement aux soins d'urgence.
-
 Permanence des soins en établissement de santé :
 
-- les dépenses correspondant aux frais de gardes et d'astreintes des personnels des établissements de santé.
+- les dépenses correspondant aux frais de gardes et d'astreintes du personnel des établissements de santé.
 
-IV. - Activité spécifique Module de décontamination chimique préhospitalière.
+IV. - Activités spécifiques
+
+Module de décontamination chimique préhospitalière.
 
 Laboratoire de sécurité biologique de niveau 3.
