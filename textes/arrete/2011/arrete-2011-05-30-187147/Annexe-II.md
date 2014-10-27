@@ -132,21 +132,13 @@ Agents en fonctions au sein des établissements publics suivants :
 
 - Ecole polytechnique
 
-- Ecole nationale supérieure des techniques avancées
+- Ecole nationale supérieure de techniques avancées
 
 - Etablissement public d'insertion de la défense
 
 - Institut des hautes études de la défense nationale
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
-
-Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :
-
-- Bourges (Cher) ;
-
-- Tours (Indre-et-Loire) ;
-
-- Orléans (Loiret).
 
 |
 
@@ -380,7 +372,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure des techniques avancées Bretagne
+- Ecole nationale supérieure de techniques avancées Bretagne
 
 - service hydrographique et océanographique de la marine
 
@@ -666,21 +658,13 @@ Agents en fonctions au sein des établissements publics suivants :
 
 - Ecole polytechnique
 
-- Ecole nationale supérieure des techniques avancées
+- Ecole nationale supérieure de techniques avancées
 
 - Etablissement public d'insertion de la défense
 
 - Institut des hautes études de la défense nationale
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
-
-Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :
-
-- Bourges (Cher) ;
-
-- Tours (Indre-et-Loire) ;
-
-- Orléans (Loiret).
 
 |
 
@@ -812,7 +796,7 @@ Agent technique 2e classe
 
 |
 
-1
+2
 
 2
 
@@ -822,7 +806,7 @@ Agent technique 2e classe
 
 |
 
-1
+2
 
 2
 
@@ -906,7 +890,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure des techniques avancées Bretagne
+- Ecole nationale supérieure de techniques avancées Bretagne
 
 - service hydrographique et océanographique de la marine
 
@@ -1226,21 +1210,13 @@ Agents en fonctions au sein des établissements publics suivants :
 
 - Ecole polytechnique
 
-- Ecole nationale supérieure des techniques avancées
+- Ecole nationale supérieure de techniques avancées
 
 - Etablissement public d'insertion de la défense
 
 - Institut des hautes études de la défense nationale
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
-
-Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :
-
-- Bourges (Cher) ;
-
-- Tours (Indre-et-Loire) ;
-
-- Orléans (Loiret).
 
 |
 
@@ -1442,7 +1418,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure des techniques avancées Bretagne
+- Ecole nationale supérieure de techniques avancées Bretagne
 
 - service hydrographique et océanographique de la marine
 
@@ -1660,21 +1636,13 @@ Agents en fonctions au sein des établissements publics suivants :
 
 - Ecole polytechnique
 
-- Ecole nationale supérieure des techniques avancées
+- Ecole nationale supérieure de techniques avancées
 
 - Etablissement public d'insertion de la défense
 
 - Institut des hautes études de la défense nationale
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale du service historique de la défense à l'exception des agents en fonctions au sein du centre des archives du personnel militaire de Pau
-
-Agents de l'agence de reconversion de la défense en fonctions au sein des antennes du pôle défense mobilité de Paris suivants :
-
-- Bourges (Cher) ;
-
-- Tours (Indre-et-Loire) ;
-
-- Orléans (Loiret).
 
 |
 
@@ -1876,7 +1844,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions au sein des établissements publics suivants :
 
-- Ecole nationale supérieure des techniques avancées Bretagne
+- Ecole nationale supérieure de techniques avancées Bretagne
 
 - service hydrographique et océanographique de la marine
 
