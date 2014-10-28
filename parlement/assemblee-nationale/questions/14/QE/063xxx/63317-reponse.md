@@ -1,0 +1,9 @@
+# Réponse à la question n° 63317
+
+- Question : [63317](63317.md) — Question n° 63317 — accord de coopération; suspension; politiques communautaires
+
+## Réponse
+
+*JO du 2014-10-28*
+
+La situation humanitaire dans la bande de Gaza et le sort des populations civiles sont au centre des préoccupations de la diplomatie française. Dès le début de la crise, les autorités françaises, ainsi que l'Union européenne, n'ont eu de cesse de rappeler le caractère urgent et impérieux d'un cessez-le-feu, de marquer leur rejet absolu de la violence sous toutes ses formes et d'appeler l'ensemble des parties à la retenue, en particulier en indiquant que les ripostes d'Israël doivent être proportionnées et respectueuses du droit international humanitaire. La France a toujours souligné que les mesures prises doivent demeurer conformes au droit international et notamment respecter les dispositions de la quatrième Convention de Genève et de la Convention de La Haye. Nulle circonstance ne permet de déroger aux principes encadrant tout conflit armé, notamment les principes de nécessité, de proportionnalité, d'humanité et de distinction entre les civils et les combattants. L'urgence est aujourd'hui à la consolidation du cessez-le feu obtenu le 26 août grâce à la médiation égyptienne et à la reprise des négociations entre les parties. Il s'agit de trouver un accord durable prenant en compte à la fois les besoins des Palestiniens en termes de levée du blocus et ceux des Israéliens en matière de sécurité, tout en accompagnant le retour de l'Autorité palestinienne à Gaza. L'Union européenne est pleinement mobilisée pour atteindre cet objectif, sous l'impulsion de la France qui a fait des propositions concrètes, adoptées lors du Conseil Affaires étrangères du 15 août, et pour permettre un règlement définitif fondé sur la solution de deux Etats.
