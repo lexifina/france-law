@@ -1,0 +1,9 @@
+# Réponse à la question n° 49287
+
+- Question : [49287](49287.md) — Question n° 49287 — mobilité; rapport; préconisations
+
+## Réponse
+
+*JO du 2014-10-28*
+
+Les recommandations des inspections générales s'inscrivent pleinement dans le cadre des réflexions et travaux conduits par la direction générale de l'administration et de la fonction publique (DGAFP) et viennent conforter les orientations retenues. Ainsi, la DGAFP est actuellement engagée dans un chantier structurel de rénovation de la bourse interministérielle de l'emploi public (BIEP) destiné à moderniser cet outil de référence en matière de connaissance de l'emploi public. Il s'agit de permettre à la BIEP de continuer à répondre de manière optimale aux attentes et exigences nouvelles de ses utilisateurs : employeurs publics des trois versants de la fonction publique et candidats. A ce titre, le projet de refonte prend bien évidemment en compte les différentes évolutions technologiques en termes d'ergonomie, de fonctionnalités de gestion ou de reporting intervenues depuis la mise en place de la BIEP. Il prévoit par ailleurs la fusion de la BIEP et des bourses régionales interministérielles de l'emploi (BRIEP). Le choix de fusionner la BIEP et les BRIEP répond à l'une des recommandations du rapport des inspections générales, à savoir mettre en commun les données des différentes bourses d'emplois dans le but de rationaliser l'offre de publication. Cette fusion des bourses d'emplois permettra d'offrir un service unique et plus visible en matière de connaissance de l'emploi public sur l'ensemble du territoire national. Il préservera, en outre, la lecture territoriale des emplois. Des fonctionnalités de recherche par région seront maintenues et améliorées afin de permettre aux candidats de continuer à rechercher des offres d'emploi locales.
