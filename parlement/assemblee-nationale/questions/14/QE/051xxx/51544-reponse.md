@@ -1,0 +1,9 @@
+# Réponse à la question n° 51544
+
+- Question : [51544](51544.md) — Question n° 51544 — réglementation
+
+## Réponse
+
+*JO du 2014-10-28*
+
+Les emplois d'avenir sont conçus pour répondre aux difficultés rencontrées par les jeunes de 16 à 25 ans peu ou pas qualifiés dans un contexte de chômage élevé. Ils comportent un objectif de formation, et de qualification, et sont d'une durée suffisante et à temps plein pour permettre la mise en oeuvre de parcours d'insertion et de qualification. Le décret n° 2014-188 du 20 février 2014 portant modification du décret n° 2012-1210 du 31 octobre 2012 relatif à l'emploi d'avenir a pour objet d'introduire des modifications réglementaires dans le dispositif des emplois d'avenir et plus particulièrement d'assouplir le critère de durée de recherche d'emploi afin de retenir des jeunes en grande difficulté qui n'y satisfont pas formellement. Ce décret admet dans le dispositif des emplois d'avenir les jeunes de niveau V dont la durée de recherche d'emploi est inférieure à 6 mois pendant les 12 derniers mois et les jeunes de niveau IV et III dont la durée de recherche d'emploi est inférieure à 12 mois pendant les 18 derniers mois. L'article R. 5134-161 du code du travail ainsi que l'article R. 322-52 du même code applicable à Mayotte sont modifiés afin d'ouvrir la possibilité pour les prescripteurs (missions locales et cap emploi) d'appliquer souplement le critère de durée de recherche d'emploi lorsque les jeunes concernés rencontrent des difficultés d'insertion professionnelle et sociale particulièrement importantes. Il appartient aux organismes prescripteurs d'emplois d'avenir d'apprécier au cas par cas le caractère d'importance de ces difficultés particulières qui justifiera la dérogation à la durée minimum de recherche d'emploi pour être éligible à ce dispositif.
