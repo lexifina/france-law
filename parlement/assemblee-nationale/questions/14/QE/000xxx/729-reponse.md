@@ -1,0 +1,9 @@
+# Réponse à la question n° 729
+
+- Question : [729](729.md) — Question n° 729 — interdiction; dérogations; extension
+
+## Réponse
+
+*JO du 2014-10-28*
+
+Il convient de rappeler qu'il relève de l'initiative du maire de solliciter, auprès du préfet, le classement en communes d'intérêt touristique ou thermales ou zones touristiques d'affluence exceptionnelle au sens du code du travail les communes composant le Val-d'Europe (Bailly-Romainvilliers, Chessy, Coupvray, Magny-le-Hongre et Serris) qui emporte la possibilité pour les commerces de détail d'ouvrir le dimanche. A ce jour, les seules demandes de classement en zone touristique d'affluence exceptionnelle portées à la connaissance du Gouvernement concernant les communes composant le Val-d'Europe sont celles effectuées par le maire de Serris. La première, date de plus de 10 ans. Elle concerne le classement en zone touristique d'affluence exceptionnelle du site « La Vallée Shopping Village ». Cette zone, dont la caractéristique même est de regrouper des commerces de luxe ou quasi luxe intégrés à l'offre touristique de Disney, a été classée depuis décembre 2000. Récemment, une demande d'extension, strictement limitée à l'évolution de l'implantation des commerces de luxe, a été acceptée en octobre 2012. La seconde vise à étendre le classement de la zone « La Vallée Shopping Village » à l'ensemble commercial Val d'Europe et à ses abords. Le préfet n'y a pas donné une suite favorable au motif que les critères légaux n'étaient pas remplis. Ce refus de classement a été conforté par le Tribunal administratif de Melun le 4 novembre 2011. Les demandes de classement en zone touristique doivent faire l'objet d'une instruction dans le cadre du strict respect des seuls critères prévus par le code du travail et répondre à une réalité économique, démographique et sociale.
