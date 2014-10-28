@@ -1,0 +1,9 @@
+# Réponse à la question n° 25839
+
+- Question : [25839](25839.md) — Question n° 25839 — conduite sans permis; répression
+
+## Réponse
+
+*JO du 2014-10-28*
+
+La conduite sans permis est un facteur aggravant de l'accidentologie routière et sa lutte constitue une des priorités, en matière de sécurité routière, du Gouvernement depuis plusieurs années. Selon les projections réalisées par L'Observatoire national interministériel de la sécurité routière, le nombre de conducteurs sans permis dans la circulation peut être estimé à 450 000. Afin de remédier à cette situation préoccupante, une intense politique de contrôles est poursuivie. Ainsi en 2012, la police et la gendarmerie ont constaté 106 399 infractions pour conduite sans permis ou sans la catégorie de permis correspondant au véhicule conduit. Ces comportements irresponsables constituent un délit, prévu par l'article L. 221-2 du code de la route, puni d'un an d'emprisonnement et de 15 000 euros d'amende. Les préfets peuvent également procéder à l'immobilisation et à la mise en fourrière immédiates du véhicule du conducteur sans permis, dès la constatation de ce délit par les forces de l'ordre. Ces immobilisations ou ces mises en fourrière, prévues à l'article L. 325-1-2 du code de la route, sont prononcées pour une durée maximale de sept jours, au-delà de laquelle elles doivent être confirmées par l'autorité judiciaire. Enfin, l'article L.221-2 du code de la route rend obligatoire la peine complémentaire de confiscation du véhicule dont le propriétaire circule sans permis. Le juge peut ne pas prononcer cette peine, mais à condition de motiver sa décision. La systématisation de ces mesures doit utilement contribuer à écarter de la route des conducteurs sans titre et à empêcher matériellement que de nouvelles infractions puissent être commises.
