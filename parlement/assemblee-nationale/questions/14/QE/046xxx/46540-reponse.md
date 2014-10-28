@@ -1,0 +1,9 @@
+# Réponse à la question n° 46540
+
+- Question : [46540](46540.md) — Question n° 46540 — inspection du travail; amendes administratives; réglementation
+
+## Réponse
+
+*JO du 2014-10-28*
+
+L'article 20 du projet de loi relatif à la formation professionnelle, l'emploi et la démocratie sociale, qui prévoyait le renforcement des pouvoirs de l'inspection du travail, a été retiré de la loi telle qu'adoptée par le Parlement le 27 février 2014. Néanmoins, le ministre du travail, de l'emploi et du dialogue social souhaite que les dispositions contenues dans cet article soient réintroduites sous la forme d'une nouvelle initiative législative, dont une majorité de députés est convaincue de la nécessité. En effet, la finalité de cet accroissement des pouvoirs de l'inspection du travail a essentiellement pour objet de retirer les salariés de situations de danger grave et imminent pour leur sécurité et leur santé et de donner les moyens au système d'inspection du travail, grâce à un nouveau dispositif de sanctions, d'assurer l'effectivité du droit dans les entreprises les plus récalcitrantes. Parallèlement à l'instauration de ces nouveaux pouvoirs, la volonté du Gouvernement est également de conforter les missions de conseil et d'information des employeurs et des salariés qui sont historiquement dévolues à l'inspection du travail. Enfin, plus précisément, les amendes administratives telles qu'elles figuraient dans le projet de loi offraient les mêmes garanties que celles accordées par la procédure pénale. En particulier, il était prévu que le principe d'impartialité soit assuré par le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DIRECCTE), seul compétent pour prendre la décision de sanctionner, sur la base d'un rapport adressé par l'agent de contrôle.
