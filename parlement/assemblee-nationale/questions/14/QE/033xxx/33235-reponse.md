@@ -1,0 +1,9 @@
+# Réponse à la question n° 33235
+
+- Question : [33235](33235.md) — Question n° 33235 — mise en oeuvre; bilan
+
+## Réponse
+
+*JO du 2014-10-28*
+
+La mise en oeuvre de la procédure dématérialisée de la prescription du contrat unique d'insertion a été initiée par la délégation générale à l'emploi et à la formation professionnelle afin de permettre un traitement plus rapide et plus fiable des données et de garantir un pilotage physico-financier plus fin et plus réactif. La dématérialisation en l'état des documents existants s'est avérée impossible, la signature électronique ne pouvant être imposée aux employeurs du fait de son coût. Des modifications juridiques ont donc transformé de nature conventionnelle le dispositif pour en faire une décision administrative (loi portant sur les emplois d'avenir et décret n° 2012-1211 du 31 octobre 2012 tirant les conséquences des articles 7, 8 et 13 de la loi portant création des emplois d'avenir). Premier prescripteur à s'engager dans la dématérialisation des contrats aidés, pôle emploi prescrit désormais de façon entièrement dématérialisée depuis le 29 avril 2013. La procédure de dématérialisation totale a permis de réduire les délais de traitement qui s'établissent désormais à une dizaine de jours entre la signature de la décision d'attribution et la validation définitive d'attribution de l'aide (contre un mois auparavant)) et de diminuer les erreurs techniques et de métier (de 20 % d'erreurs avant dématérialisation à moins de 3 % maintenant). Les missions locales ont toutes basculé en dématérialisation partielle au mois de septembre 2013. Le taux de rejet des contrats constaté est très satisfaisant et s'établit aujourd'hui autour de 5 % prouvant que les missions locales se sont entièrement appropriées les nouvelles procédures de prescription. La dématérialisation totale de la prescription des missions locales interviendra lors de l'ouverture du nouveau système d'information des missions locales, i-milo.
