@@ -1,0 +1,9 @@
+# Réponse à la question n° 28667
+
+- Question : [28667](28667.md) — Question n° 28667 — CIPAV; dysfonctionnements
+
+## Réponse
+
+*JO du 2014-10-28*
+
+L'activité des services de la caisse interprofessionnelle d'assurance vieillesse (CIPAV) est soumise à une forte pression liée au nombre de dossiers à gérer : la caisse affilie en effet des assurés relevant de plus de cent cinquante professions différentes et constitue donc la caisse la plus importante des professionnels libéraux (près de 550 000 affiliés cotisants ou titulaires d'une pension de droit propre). Toutefois, cette situation dégradée n'est pas acceptable. Le Gouvernement est très attentif aux derniers rapports de la cour des comptes, qui font état de graves difficultés au sein de cette caisse. La ministre des affaires sociales, de la santé et des droits des femmes suit avec vigilance les travaux destinés notamment à améliorer la qualité de service aux adhérents (réponse aux courriers et au téléphone, délais de liquidation...) et à moderniser le système d'information. Depuis plusieurs semaines, la ministre a mandaté une mission d'appui à la CIPAV qui doit lui permettre de déterminer et de mettre en oeuvre dans les meilleurs délais, les conditions du rétablissement d'une gestion efficiente et performante au service des adhérents. C'est également dans ce but que la loi du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites a prévu la conclusion d'un contrat pluriannuel entre la caisse nationale d'assurance vieillesse des professionnels libéraux (CNAVPL) et l'Etat. Il sera décliné en contrats de gestion liant la CNAVPL et chacune des sections professionnelles, dont la CIPAV. Ces contrats de gestion comprendront des engagements des sections professionnelles en matière de qualité de service notamment.
