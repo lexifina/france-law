@@ -1,0 +1,9 @@
+# Réponse à la question n° 33821
+
+- Question : [33821](33821.md) — Question n° 33821 — notification; réglementation
+
+## Réponse
+
+*JO du 2014-10-28*
+
+Le licenciement d'un salarié est soumis au respect par l'employeur d'une procédure dont il ne saurait s'exonérer. Tout d'abord, le salarié doit être convoqué à un entretien préalable au licenciement. Cet entretien ne peut avoir lieu moins de cinq jours ouvrables après la présentation de la convocation (article L. 1232-2 du code du travail). Ensuite, le licenciement ne peut être notifié par l'employeur moins de deux jours ouvrables après la date prévue de l'entretien préalable auquel le salarié a été convoqué (L.1232-6 du code du travail). En cas de non-respect de ces délais de convocation et de notification, la procédure de licenciement est irrégulière, ce qui ouvre droit pour le salarié à une indemnité. Elle est égale à un mois de salaire si le salarié a au moins deux ans d'ancienneté dans une entreprise de onze salariés et plus. En outre, aux termes de la loi, la convocation à l'entretien préalable au licenciement doit être faite par lettre recommandée avec avis de réception ou lettre remise en main propre contre décharge datée et contresignée par le salarié. De la même façon, la loi impose à l'employeur de notifier le licenciement par lettre recommandée avec avis de réception. Celle-ci doit également préciser le motif du licenciement. A défaut, le licenciement est dépourvu de cause réelle et sérieuse. Tel est notamment le cas lorsque l'employeur demande verbalement au salarié de ne plus venir travailler. La jurisprudence ne s'est pas encore prononcée sur l'envoi d'un sms ayant la même teneur, mais il est plus que probable que le juge considèrera dans ce cas également que le licenciement est abusif, dans la mesure où ni les étapes de la procédure, ni les mentions obligatoires d'une telle notification n'auront été respectées.
