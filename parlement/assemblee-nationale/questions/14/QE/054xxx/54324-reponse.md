@@ -1,0 +1,9 @@
+# Réponse à la question n° 54324
+
+- Question : [54324](54324.md) — Question n° 54324 — cigarettes non combustibles; utilisation; réglementation
+
+## Réponse
+
+*JO du 2014-10-28*
+
+Aujourd'hui, plus d'un million et demi de Français utilisent régulièrement la cigarette électronique. Ce n'est pas un produit banal puisqu'il contient de la nicotine, une substance à l'origine de graves addictions, Il peut également être, notamment pour les jeunes, une porte d'entrée dans le tabagisme. Les risques de la cigarette électronique sont encore mal connus. Par ailleurs, aujourd'hui, ce n'est ni un médicament ayant fait la preuve de son efficacité dans le sevrage, ni un produit du tabac. Le gouvernement a donc souhaité, sur la base de nombreux rapports d'experts qui le préconisent que l'usage de la cigarette électronique soit encadré. L'Europe a pris des mesures fortes allant dans le même sens : la directive européenne sur le tabac qui vient d'être publiée prévoit notamment l'interdiction de la publicité sur les cigarettes électroniques et l'interdiction de vente aux mineurs. Ainsi, en France l'interdiction de ventes aux mineurs a déjà été votée dans la loi relative à la consommation en février 2014. Lors du lancement du plan cancer 2014-2019 le 4 février 2014, le Président de la République a demandé à la ministre des affaires sociales, de la santé et des droits des femmes de lui remettre un « programme national de réduction du tabagisme ". Avec la loi de santé et ce programme national de réduction du tabagisme, le gouvernement souhaite, par une stratégie globale, lutter efficacement contre ce fléau. Le tabac est la première cause de mortalité évitable dans notre pays. Il est responsable de 73 000 morts chaque année, soit 200 par jour. Un fumeur sur deux mourra à cause de la cigarette. A 17 ans un jeune sur trois fume régulièrement.
