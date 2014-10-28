@@ -1,0 +1,9 @@
+# Réponse à la question n° 60307
+
+- Question : [60307](60307.md) — Question n° 60307 — fonctionnement; sous-traitance
+
+## Réponse
+
+*JO du 2014-10-28*
+
+Depuis la loi de programmation pour la cohésion sociale du 18 janvier 2005 qui a mis fin au monopole juridique de l'agence nationale pour l'emploi (ANPE) sur le placement des demandeurs d'emploi, l'intégralité du parcours d'accompagnement peut être désormais confiée à des opérateurs privés de placement. Les conditions de mise en oeuvre des marchés n'ont pas toujours été de nature à favoriser la mise en oeuvre d'un partenariat optionnel entre pôle emploi et les opérateurs. En outre, la crise et ses conséquences sur l'augmentation du nombre de demandeurs d'emploi inscrits a également complexifié la stratégie de recours aux opérateurs privés de placement. Une clarification de la doctrine de recours aux opérateurs privés de placement, a été faite au conseil d'administration de Pôle emploi le 12 février 2014. Elle a permis de distinguer clairement sous-traitance de spécialité et sous-traitance de capacité, en privilégiant le recours aux opérateurs privés de placement pour cette dernière. Cela permet d'externaliser le suivi des personnes actuellement accompagnées en « modalité suivi » et le maintien interne à l'accompagnement des demandeurs d'emploi les plus éloignés du marché du travail et qui ont donc le plus besoin de Pôle emploi. Autre axe d'amélioration qui a été acté : d'alléger les dispositions prescriptives auprès des opérateurs de placement dans le cahier des charges, tout en mettant en place un véritable contrôle qualité qualité de ces opérateurs. La négociation de la nouvelle convention tripartite entre l'Etat, l'union nationale pour l'emploi dans l'industrie et le commerce (UNEDIC) et pôle emploi au cours du second semestre 2014 permettra d'inscrire la nouvelle doctrine dans la stratégie d'ensemble de pôle emploi.
