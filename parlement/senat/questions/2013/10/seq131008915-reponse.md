@@ -1,0 +1,9 @@
+# Réponse à la question SEQ131008915
+
+- Question : [SEQ131008915](seq131008915.md) — Cancers thyroïdiens
+
+## Réponse
+
+*Affaires sociales, santé et droits des femmes, JO du 2014-10-30, page 2425*
+
+Le risque de cancer thyroïdien est relativement faible. En 2009, le nombre de nouveaux cas de cancers de la thyroïde diagnostiqués est estimé à 8 600 par an, dont 75 % chez la femme. La majorité des cancers de la thyroïde sont de bon pronostic. Leur survie relative à 5 ans, tous stades et tous types histologiques confondus, s'élève à 94 %. Les micro cancers (tumeur< 1 cm) représentent 40 % des cancers thyroïdiens opérés ; 25 % de ces micro-cancers sont découverts fortuitement sur pièce de thyroïdectomie ou de lobectomie pour pathologie bénigne. L'étude populationnelle publiée dans le journal of the american medical association (JAMA) en octobre 2013 n'apporte pas de connaissance nouvelle, mais permet de mieux évaluer les risques de dégénérescence maligne, associés aux signes découverts à l'échographie, élément essentiel de l'exploitation des nodules thyroïdiens. La conduite à tenir en cas de cancers papillaires de moins de 20 millimètres de diamètre (les plus fréquemment découverts fortuitement), suggérée par les auteurs, est cohérente avec les recommandations de pratique contenues dans le guide édité par la haute autorité de santé (HAS) en 2010 et consacré aux cancers de la thyroïde. Les explorations sont dans ce cas (nodule d'un diamètre compris en 7 et 20 millimètres) guidées par l'évaluation des risques liés au nodule comme aux circonstances de sa découverte. Le guide HAS identifie bien les mêmes caractères de risque, confirmés par l'étude américaine. Il n'y a donc pas lieu de modifier les recommandations en cours. Celles-ci sont mises en ligne à la fois sur le site internet de la HAS et sur celui de l'institut national du cancer (INCA).
