@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140812923
+
+- Question : [SEQ140812923](seq140812923.md) — Marché public et don au profit de la collectivité
+
+## Réponse
+
+*Intérieur, JO du 2014-10-30, page 2441*
+
+Aucun texte ni principe n'interdit à une entreprise d'octroyer un don pour soutenir l'activité culturelle ou sportive d'une collectivité territoriale. Toutefois, si cette entreprise est titulaire d'un marché public de cette collectivité, elle doit prendre toutes les précautions de nature à écarter d'éventuels soupçons de corruption. La qualification de corruption peut être retenue si l'entreprise a proposé un don afin d'obtenir un marché auquel elle concourt, que ce soit à une personne dépositaire de l'autorité publique, élu ou agent public, ou au profit d'une personne morale, comme une association, voire une personne publique (article 433-1 du code pénal). Il s'agit de corruption passive si c'est une personne dépositaire de l'autorité publique qui sollicite ce don auprès du candidat (article 432-11 du code pénal), « pour elle-même ou pour autrui », y compris donc au profit d'une personne morale. Dans les deux cas, peu importe que le pacte de corruption ait eu lieu avant ou après le fait générateur de la corruption, qu'il s'agisse de l'obtention du marché ou du don en cause. En effet, l'article 154 de la loi n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit a supprimé la condition d'antériorité d'un tel pacte de corruption. Par ailleurs, des poursuites peuvent être engagées sur le fondement de l'article 432-14 du code pénal, qui réprime l'octroi d'un « avantage injustifié par un acte contraire aux dispositions législatives ou réglementaires ayant pour objet de garantir la liberté d'accès et l'égalité des candidats dans les marchés publics et les délégations de service public ».
