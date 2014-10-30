@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140110075
+
+- Question : [SEQ140110075](seq140110075.md) — Droit de grève et continuité du service public au sein des écoles
+
+## Réponse
+
+*Décentralisation et fonction publique, JO du 2014-10-30, page 2434*
+
+Le principe constitutionnel du droit de grève a été réaffirmé à l'article 10 de la loi n° 83-634 portant droits et obligations des fonctionnaires : « les fonctionnaires exercent le droit de grève dans le cadre des lois qui le règlementent ». Les articles L. 2512-1 à L. 2512-5 du code du travail relatifs à l'exercice du droit de grève s'appliquent aux personnels de l'État, des régions, des départements et des communes comptant plus de 10 000 habitants. Ces articles prévoient le dépôt d'un préavis de grève, cinq jours francs avant le déclenchement de la grève, qui doit émaner de l'organisation ou d'une des organisations les plus représentatives sur le plan national, dans la catégorie professionnelle ou dans la collectivité ou le service intéressé. Il n'existe pas de disposition particulière réglementant l'exercice du droit de grève dans les collectivités territoriales comptant moins de 10 000 habitants. Cependant, l'exercice du droit de grève peut être limité pour certaines catégories de personnels. Ainsi, la loi n° 2008-790 du 20 août 2008 a institué un droit d'accueil pour les élèves des écoles maternelles et élémentaires pendant le temps scolaire. Cette loi prévoit l'obligation pour toute personne exerçant des fonctions d'enseignement d'établir une déclaration préalable d'intention de prendre part à la grève, lorsque le préavis a été déposé dans les conditions prévues par l'article L. 2512-2 du code du travail. Ainsi seuls les personnels exerçant des fonctions d'enseignement sont soumis à cette obligation. À ce jour, il n'est pas envisagé de modifier les conditions d'exercice du droit de grève au sein des écoles maternelles et élémentaires.
