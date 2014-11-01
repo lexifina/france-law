@@ -18,9 +18,9 @@ En vue de compléter les moyens d'action dont elles disposent d'ores et déjà, 
 
 L'action de l'observatoire est conduite par un comité paritaire de pilotage.
 
-3. Le comité paritaire de pilotage est composé de 2 délégations :
+3. Le comité paritaire de pilotage est composé de deux délégations :
 
-- une délégation syndicale composée d'un représentant de chacune des 5 organisations syndicales de salariés signataires de la présente convention collective et d'un suppléant ;
+- une délégation syndicale composée d'un représentant de chacune des organisations syndicales représentatives de salariés signataires de la présente convention collective et d'un suppléant ;
 
 - une délégation de représentants des employeurs, désignés par l'ASF, en nombre au plus égal à celui des représentants des organisations syndicales.
 

@@ -1,6 +1,6 @@
 # Article 10 BIS
 
-Un contingent annuel de 30 jours ouvrés est attribué à chacune des 5 organisations syndicales représentatives signataires de la présente convention. Ce contingent ne se cumule pas avec celui qui résulterait d'un accord d'entreprise.
+Un contingent annuel de 30 jours ouvrés est attribué à chacune des organisations syndicales représentatives de salariés signataires de la présente convention collective. Ce contingent ne se cumule pas avec celui qui résulterait d'un accord d'entreprise.
 
 Sont bénéficiaires de ce contingent les titulaires d'un mandat syndical, désignés ou élus.
 
