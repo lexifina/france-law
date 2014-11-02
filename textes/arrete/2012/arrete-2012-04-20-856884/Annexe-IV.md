@@ -40,4 +40,8 @@ III. - Bilans défavorables remis par voie électronique
 
 Vous pouvez consulter les certificats et les notices à l'adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140819&numTexte=33&pageDebut=13719&pageFin=13735
+https://www.legifrance.gouv.fr/download/pdf?id=hEkhAmenGOl-R2R97eKkvWSwOeCkt4FYJF3AsstU8dc=
+
+Vous pouvez consulter les notices explicatives à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=M1pw3C_PZPPIzSfhI9MnUp9zMW9r0VCLrkV8AmAAT3o=
