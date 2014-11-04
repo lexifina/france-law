@@ -1,0 +1,9 @@
+# Réponse à la question n° 25818
+
+- Question : [25818](25818.md) — Question n° 25818 — coordinationation des secours; perspectives
+
+## Réponse
+
+*JO du 2014-11-04*
+
+La bonne collaboration entre les services d'aide médicalisé d'urgence (SAMU) et les services départemental d'incendie et de secours (SDIS) tient une place centrale dans le dispositif des secours et soins d'urgence. La rapidité et l'efficacité de la réponse apportée à la population exige une parfaite coordination entre ces deux services. Les conclusions du rapport IGAS/IGA remis début juillet permettront de faire évoluer le reférentiel sur l'organisation du secours à personne et aide médicale urgente en ce sens. Les plateformes communes SAMU-SDIS peuvent permettre, dans certains cas, un rapprochement physique des équipes en un même lieu et favoriser ainsi une meilleure coordination. Plusieurs plateformes ont ainsi vu le jour. La pertinence du développement de nouvelles plateformes ne peut toutefois s'envisager qu'au cas par cas, dès lors qu'elle permet, sur la base d'une organisation commune, de réaliser une économie immobilière par exemple. Dès lors qu'un investissement immobilier est prévu s'agissant d'un SDIS ou d'un SAMU, la question d'un rapprochement peut être étudiée. Plus largement, la question du rapprochement des équipes SAMU-SDIS ne se résume pas à des plateformes physiques. Elle repose davantage sur la capacité des services à développer leur interopérabilité en matière de systèmes d'information afin de mieux coordonner leurs actions et faciliter leurs échanges. Le ministère des affaires sociales, de la santé et des droits des femmes travaille actuellement avec le ministère de l'Interieur, en lien avec les professionnels du secteur, à la définition de conditions de fonctionnement optimales de ces deux services publics pour répondre aux objectifs fixés par le Président de la République en matière de soins urgents.
