@@ -1,0 +1,9 @@
+# Réponse à la question n° 64642
+
+- Question : [64642](64642.md) — Question n° 64642 — militaires; 3e RIMA; lutte et prévention
+
+## Réponse
+
+*JO du 2014-11-04*
+
+Les trois suicides survenus parmi les militaires du 3e régiment d'infanterie de marine (RIMA) de Vannes au cours des dix-huit derniers mois ont suscité une grande émotion au sein de la communauté de défense. L'enquête de commandement diligentée par l'armée de terre a révélé que ces faits, commis en dehors du service, n'étaient pas liés à des actes de violence morale ou physique dont auraient pu pâtir ces militaires dans le cadre de leur activité professionnelle. Aussi, les allégations visant à entretenir la rumeur d'une atmosphère de travail délétère au sein de ce régiment demeurent sans fondement et ajoutent de l'anxiété à des personnels très éprouvés par ces tragiques décès de leurs camarades. De plus, aucune dénonciation ou plainte pour des comportements de cette nature au sein du 3e RIMA n'a été portée à la connaissance du commandement au cours des dernières années. Enfin, il est rappelé que les actes de harcèlement, de discrimination et de violence vont totalement à l'encontre des valeurs d'égalité et de cohésion véhiculées par l'institution militaire. Le respect des personnes, de leur intégrité physique et morale, ainsi que de leurs droits, constitue une obligation absolue pour le ministère de la défense et pour l'ensemble de son personnel. Le ministère mène donc une politique de tolérance zéro à l'égard de ces comportements et sanctionne les fautifs à la hauteur des faits reprochés. La répression de ces agissements, qui s'appuie sur une réglementation précise en matière de sanction, est conduite sans hésitation ni faiblesse. Dans ce cadre, les responsables doivent répondre de leurs agissements à la fois devant leur administration et, si les faits l'imposent, devant la justice pénale en tant que citoyens.
