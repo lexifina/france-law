@@ -1,0 +1,9 @@
+# Réponse à la question n° 65266
+
+- Question : [65266](65266.md) — Question n° 65266 — Allemagne; réseau consulaire; fonctionnement
+
+## Réponse
+
+*JO du 2014-11-04*
+
+La communauté française établie en Allemagne est stable depuis une dizaine d'années. Fin 2013, 112 238 ressortissants français étaient inscrits auprès des différents postes consulaires en Allemagne, soit 4.500 de plus qu'en 2003. Entre 2004 et 2006, les consulats généraux de Hambourg, Düsseldorf, Sarrebruck et Stuttgart ont été transformés en consulats dits « d'influence », leurs prérogatives consulaires ayant été reprises par Berlin, Munich et Francfort. L'ensemble des opérations liées à l'état civil et à la nationalité ont été centralisées auprès de la section consulaire de Berlin. Les consulats d'influence, dont les missions ont trait principalement à la diplomatie économique et/ou à la politique culturelle, ont vocation à être adossés à des structures françaises aptes à leur apporter un soutien logistique. C'est le cas dans certains postes en Allemagne, mais ailleurs aussi dans l'Union européenne, où les ressortissants français bénéficient des avantages que leur confèrent les institutions de l'Union. Les postes consulaires français de plein exercice en Allemagne, appuyés par un bon réseau d'agences consulaires, appuient la communauté française en utilisant tous les moyens mis à leur disposition, dont les valises Itinera, mais aussi en privilégiant, lorsque cela est possible, l'exemption de comparution des usagers. Les valises Itinera constituent actuellement le seul dispositif de recueil délocalisé des données biométriques. D'autres solutions techniques sont d'ores et déjà étudiées, leur éventuelle validation devant être soumise aux instances compétentes, hors du ministère des affaires étrangères et du développement international.
