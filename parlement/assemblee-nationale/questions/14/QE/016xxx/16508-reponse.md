@@ -1,0 +1,9 @@
+# Réponse à la question n° 16508
+
+- Question : [16508](16508.md) — Question n° 16508 — identité; justificatifs; réglementation
+
+## Réponse
+
+*JO du 2014-11-04*
+
+Il convient de rappeler que le contrôle de documents d'identité pour l'inscription sur la liste des demandeurs d'emploi résulte de dispositions règlementaires. En effet, en application de l'article R. 5411-3 du code du travail : « pour demander son inscription, le travailleur recherchant un emploi justifie de son identité et déclare sa domiciliation. Un arrêté du ministre chargé de l'emploi fixe la liste des documents permettant au demandeur d'emploi de justifier de son identité (...) ». Conformément à ces dispositions, l'arrêté du 24 novembre 2008 établissait la liste des documents permettant aux demandeurs d'emploi de justifier de leur identité. Selon l'article 1er de l'arrêté, il s'agissait de la carte nationale d'identité en cours de validité, du passeport en cours de validité, de la carte d invalide ou militaire avec photographie, en cours de validité, de l'un des titres de séjour énumérés à l'article R. 5221-48 du code du travail. Au terme d'une réflexion entamée avec Pôle emploi et le ministère de l'intérieur, l'arrêté du 29 mai 2013 abroge et remplace l'arrêté du 24 novembre 2008 relatif aux documents permettant aux demandeurs d'emploi de justifier de leur identité. Cet arrêté supprime la condition de validité en cours de la carte nationale d'identité, du passeport, de la carte d'invalide ou militaire avec photographie, de l'un des titres de séjour, en y ajoutant les titres de circulation, et ce afin de ne pas retarder l'inscription de demandeurs d emploi dont la pièce d'identité serait périmée. En tout état de cause, les services de Pôle emploi peuvent refuser une inscription dès lors que le moindre doute existe sur l'identité réelle d'une personne soit à cause d'un changement d'état civil, soit à raison de l'absence de ressemblance avec la photographie.
