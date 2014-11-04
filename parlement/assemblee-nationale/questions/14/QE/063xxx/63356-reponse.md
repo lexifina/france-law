@@ -1,0 +1,9 @@
+# Réponse à la question n° 63356
+
+- Question : [63356](63356.md) — Question n° 63356 — PAC; aides; montant
+
+## Réponse
+
+*JO du 2014-11-04*
+
+Le ministère de l'agriculture, de l'agroalimentaire et de la forêt est pleinement conscient de la situation particulière de la production rizicole en Camargue, qui bénéficiait, jusqu'en 2011, d'une aide couplée spécifique à hauteur de 350 €/ha (avant la modulation). Dans la déclinaison nationale de la nouvelle politique agricole commune, le recours à une aide couplée à partir de 2015 pour la riziculture n'a pas été retenu car la mise en place d'une mesure agro-environnementale et climatique (MAEC) permet de répondre, d'une manière adéquate, à l'enjeu du maintien de la production de riz pour lutter contre le risque de salinisation des terres et maintenir la biodiversité spécifique de la Camargue. La nouvelle programmation du fonds européen agricole pour le développement rural (FEADER) a permis d'augmenter les enveloppes allouées à l'ensemble des régions, notamment pour accompagner un accroissement significatif des engagements sur les MAEC. Ces enveloppent dédiées aux MAEC offrent des marges supplémentaires aux régions. Par ailleurs, le ministère en charge de l'agriculture est prêt à dédier 1,2 M€ de crédits annuels sur son budget pour le financement des MAEC dédiées à la riziculture. Avec 25 % de crédits nationaux et 75 % de crédits du FEADER, cela correspond à un montant de 22 M€ du FEADER pour les 6 ans de programmation 2015-2020. Enfin, les échanges techniques entre les professionnels et les services du ministère en charge de l'agriculture ont permis d'aboutir à une proposition précise et argumentée d'une MAEC rémunérant, soit le maintien des pratiques, soit le changement de pratiques. Aussi, un exploitant qui souscrira l'ensemble des engagements unitaires pour le maintien de pratiques pourra toucher entre 217 €/ha et 316 €/ha par an.
