@@ -1,0 +1,9 @@
+# Réponse à la question n° 61585
+
+- Question : [61585](61585.md) — Question n° 61585 — droits à paiement unique; calcul; réforme
+
+## Réponse
+
+*JO du 2014-11-04*
+
+Les négociations sur la politique agricole commune (PAC) post-2013 sont désormais achevées à l'échelle communautaire. Suite à l'accord obtenu le 26 juin 2013, les règlements ont été adoptés par le Conseil et le Parlement européen le 17 décembre 2013. Le Président de la République a donné lors de son intervention le 2 octobre 2013 à Cournon les orientations pour la mise en oeuvre nationale de la PAC post-2013. Ces orientations ont été déclinées par le ministre de l'agriculture, de l'agroalimentaire et de la forêt, porte-parole du Gouvernement, lors du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire des 17 décembre 2013 et 27 mai 2014 à la suite d'une large concertation. La mise en oeuvre de cette réforme et des dispositifs qui la composent conduit à redistribuer les aides entre agriculteurs notamment en faveur de l'élevage et de l'emploi. En particulier, le régime de paiement de base s'appuiera sur des droits à paiement de base (DPB) qui seront alloués en 2015. Les DPB dont la valeur initiale est en dessous de la moyenne convergeront dès 2015 : leur valeur augmentera pour réduire l'écart à la moyenne. Par ailleurs, le paiement redistributif, qui permet d'accorder une aide supplémentaire aux 52 premiers hectares des exploitations, contribuera à une redistribution des aides en faveur des exploitations dont la taille est inférieure à la moyenne nationale. Ce paiement sera mis en place de manière progressive et concernera 5 % du budget dévolu aux soutiens directs en 2015, 10 % en 2016 et fera l'objet d'une évaluation en 2017 pour déterminer les étapes suivantes, dans l'objectif d'atteindre 20 % en 2018. Les modalités appliquées à la Corse contribueront ainsi à augmenter les montants alloués aux agriculteurs de la région Corse.
