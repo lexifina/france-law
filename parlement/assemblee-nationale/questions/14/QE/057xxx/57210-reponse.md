@@ -1,0 +1,9 @@
+# Réponse à la question n° 57210
+
+- Question : [57210](57210.md) — Question n° 57210 — plan national nutrition; hydratation; promotion
+
+## Réponse
+
+*JO du 2014-11-04*
+
+L'eau est indispensable au fonctionnement de notre organisme. Sur la base des travaux scientifiques menés par l'agence française de sécurité sanitaire des aliments (AFSSA), le programme national nutrition santé (PNNS) recommande de boire chaque jour de « l'eau à volonté ». La sensation de soif est le signe que notre corps manque d'eau. Ce n'est pas tant le choix de l'eau qui est important mais plutôt le fait d'en boire suffisamment chaque jour. L'eau du robinet est régulièrement contrôlée pour garantir sa qualité. Elle constitue la source à privilégier pour l'ensemble de la population. Il ne semble pas nécessaire de proposer un repère plus précis car les besoins journaliers en eau varient selon les individus, en fonction de leur âge, de leur sexe et de leurs activités. Le PNNS mentionne également comme repère de limiter la consommation de produits sucrés notamment les boissons sucrées. Le PNNS a produit de nombreux outils et mécanismes incitatifs, servant de support aux actions. Le repère « eau à volonté » est présent dans les différentes affiches ainsi que dans les guides nutrition de l'institut national de prévention et d'éducation pour la santé (INPES) diffusés à plus de 20 000 exemplaires. Une fiche repère « de l'eau sans modération » a été largement diffusée à la population. Enfin, l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) a été saisie en 2012 par la direction générale de la santé pour actualiser les repères de consommations alimentaires du PNNS, dont celui de l'eau pour les différents groupes de population. Le rapport est attendu à la fin de l'année 2014 et il fournira les bases pour actualiser en 2015 les outils de transmission des messages liés aux repères actualisés.
