@@ -1,0 +1,9 @@
+# Réponse à la question n° 44800
+
+- Question : [44800](44800.md) — Question n° 44800 — plan cancer 2009-2013
+
+## Réponse
+
+*JO du 2014-11-04*
+
+Le plan cancer 2009-13 comportait en effet une mesure intitulée : « promouvoir des actions de prévention sur les liens entre l'alimentation, l'activité physique et les cancers ». Le baromètre cancer publié par l'institut national de prévention et d'éducation pour la santé (INPES) en 2010 montre une grande méconnaissance dans le public, de l'importance des différents facteurs de risques. En particulier, s'agissant des facteurs de risque évitables par une modification de comportement, à l'instar du tabac, ces derniers semblent avoir auprès du public une connaissance plus restreinte que celle de l'impact des facteurs environnementaux. Or, selon les études épidémiologiques disponibles, ce sont 40 % des cancers qui pourraient être évités par des changements individuels de mode de vie. Le plan cancer 2014-19 a été lancé le 4 février 2014 par le Président de la République. Ce plan prévoit à nouveau des actions de communication sur le poids des différents facteurs de risques de cancer (action 11.12). L'institut national du cancer (INCA) prépare actuellement une action d'information et de communication destinée à montrer l'importance des différents facteurs de risques évitables responsables de décès par cancer, à l'exemple de l'impact sur la mortalité par cancer d'une consommation régulière de tabac ou d'alcool. Par ailleurs, le centre international de recherche sur le cancer (CIRC) poursuit des études sur la part de risque liée aux facteurs alimentaires, à l'alcool et à l'activité physique. Le résultat de ces études devrait être disponible à la fin de l'année 2016. Les données produites serviront à actualiser et améliorer encore davantage la communication destinée au public.
