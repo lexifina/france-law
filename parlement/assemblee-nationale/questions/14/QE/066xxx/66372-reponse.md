@@ -1,0 +1,9 @@
+# Réponse à la question n° 66372
+
+- Question : [66372](66372.md) — Question n° 66372 — consulat; fonctionnement; Canada
+
+## Réponse
+
+*JO du 2014-11-04*
+
+Le ministère des affaires étrangères et du développement international est très attaché au principe de l'égalité de tous devant le service public et l'applique scrupuleusement, dans les termes que le Conseil constitutionnel maintient dans sa jurisprudence constante, en l'appréciant au regard de la similitude des situations dans lesquelles sont placés les usagers. Les usagers qui se présentent dans un consulat ou une ambassade, ne se trouvent pas dans la même situation qu'un usager résidant en France. Ils ne sont, de ce fait, pas soumis aux mêmes tarifs en raison d'un service public, qui ne se trouvant pas en territoire français, a un coût de revient plus élevé. Les tarifs des droits de chancellerie sont fixés par le décret 81-778 du 13 août 1981. Le tarif d'une certification de photocopie à l'étranger est de 7 ou 14 euros selon le statut des demandeurs (A : les Français et les étrangers protégés établis à l'étranger, à condition qu'ils soient immatriculés ou dispensés d'immatriculation et les Français de passage établis en territoire français ; B : les Français et les étrangers protégés établis à l'étranger, lorsqu'ils ne sont pas immatriculés et tous autres ressortissants étrangers). Ces tarifs sont identiques dans toutes les représentations consulaires et diplomatiques françaises. Le consulat général de France à Québec a donc appliqué le tarif en vigueur selon la législation française dans le respect du principe de l'égalité de tous les citoyens devant les services publics. A titre de comparaison avec nos homologues européens, ce service est facturé 40 euros par page à l'ambassade du Royaume-Uni à Paris et n'est pas réalisé par l'ambassade de Belgique à Paris pour les documents qui n'ont pas été établis par leurs services.
