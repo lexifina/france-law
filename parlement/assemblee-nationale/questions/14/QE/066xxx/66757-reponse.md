@@ -1,0 +1,9 @@
+# Réponse à la question n° 66757
+
+- Question : [66757](66757.md) — Question n° 66757 — gestion; situation financière; Cour des comptes; rapport; recommandation
+
+## Réponse
+
+*JO du 2014-11-04*
+
+Le Gouvernement partage la volonté d'atteindre les objectifs de mobilisation de la ressource en bois dans le respect des volumes programmés au sein du contrat d'objectifs et de performance (COP) de l'office national des forêts (ONF) pour la période 2012-2016, et des coupes prévues dans les documents d'aménagement. Cette ambition ne doit cependant pas occulter les aléas qui pèsent sur les opérations de coupes (aléas climatiques, difficultés d'accès aux ressources, fluctuations du marché...). En 2013, en forêt domaniale, le volume de bois récolté a progressé de 0,4 millions de mètres cubes par rapport à 2012, atteignant 6,3 millions de mètres cubes, niveau proche de l'objectif du COP. Il s'agit donc de poursuivre les efforts engagés. En revanche, la situation dans les forêts des collectivités est différente. Comme la Cour des comptes l'a remarqué, les collectivités territoriales, propriétaires de près des deux tiers des forêts publiques, peuvent choisir de ne pas effectuer de coupes alors même que les aménagements forestiers qu'elles approuvent le prévoient. L'ONF ne maîtrise donc pas les volumes mobilisés par les forêts des collectivités, ce qui rend difficile le pilotage de l'ensemble de la ressource de bois disponible à la vente. La loi n° 2014-1170 du 13 octobre 2014 d'avenir pour l'agriculture, l'alimentation et la forêt devrait toutefois permettre d'améliorer cet état de fait, en introduisant l'obligation pour les collectivités ne respectant pas leur programme de coupes d'en donner la justification auprès du représentant de l'État. Par ailleurs, l'engagement de mobiliser plus de bois a été pris par la fédération nationale des communes forestières dans le contrat d'objectifs et de performance actuel. L'État s'attachera à rappeler cet engagement.
