@@ -1,0 +1,9 @@
+# Réponse à la question n° 57330
+
+- Question : [57330](57330.md) — Question n° 57330 — délibérations; lieu de réunion; réglementation
+
+## Réponse
+
+*JO du 2014-11-04*
+
+En vertu de l'article L. 2121-7 du code général des collectivités territoriales (CGCT), « le conseil municipal se réunit et délibère à la mairie de la commune ». L'obligation de réunion à la mairie ne porte pas sur le seul vote mais bien sur l'intégralité de la réunion du conseil municipal. Le même article prévoit la possibilité pour le conseil municipal de se réunir, à titre définitif, dans une salle en dehors de la mairie mais située sur le territoire de la commune lorsqu'elle répond aux conditions de sécurité et d'accessibilité nécessaires. Si le maire peut réunir à titre provisoire le conseil municipal dans un autre lieu que la mairie, ce n'est qu'à titre exceptionnel. Ce cas de figure doit être justifié par l'impossibilité de réunir l'ensemble des conseillers municipaux et du public dans des conditions de sécurité satisfaisantes (CE, 1er juillet 1998, req. n° 187491). Ainsi, la réunion du conseil municipal dans un autre lieu que la mairie peut être justifiée à titre exceptionnel lorsque le public attendu est plus nombreux que pour les autres réunions du conseil, par exemple lors de la réunion d'installation du conseil municipal, et ne peut pas être accueilli à la mairie dans des conditions de sécurité satisfaisantes. En revanche, la réunion du conseil municipal en dehors de la mairie ne peut en aucun cas être justifiée par la volonté de réunir le conseil municipal dans différents quartiers de la commune. Une délibération du conseil municipal qui serait votée à la suite d'une réunion qui aurait eu lieu en tout ou partie en dehors de la mairie serait illégale. La stabilité du lieu de réunion du conseil municipal contribue à garantir l'effectivité de la publicité des séances prévue à l'article L.2121-18 du CGCT.
