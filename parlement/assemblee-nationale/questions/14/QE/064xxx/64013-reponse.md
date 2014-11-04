@@ -1,0 +1,9 @@
+# Réponse à la question n° 64013
+
+- Question : [64013](64013.md) — Question n° 64013 — retrait; familles d'accueil britanniques; procédures
+
+## Réponse
+
+*JO du 2014-11-04*
+
+Le ministère des affaires étrangères et du développement international est pleinement mobilisé pour la protection des enfants résidant à l'étranger. En matière d'autorité parentale, le Royaume-Uni et la France sont liés par le règlement « Bruxelles II bis » du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale. Les règles de compétence établies par le présent règlement en matière de responsabilité parentale sont conçues en fonction de l'intérêt supérieur de l'enfant et en particulier du critère de proximité. Ce sont donc en premier lieu les juridictions de l'État membre dans lequel l'enfant a sa résidence habituelle qui devraient être compétentes, sauf dans certains cas de changement de résidence de l'enfant ou suite à un accord conclu entre les titulaires de la responsabilité parentale. Dans l'intérêt de l'enfant, le présent règlement permet à la juridiction compétente, à titre exceptionnel et dans certaines conditions, de renvoyer l'affaire à la juridiction d'un autre État membre si celle-ci est mieux placée pour connaître de l'affaire. En pratique, les affaires de maltraitance ou de négligence sont traitées, dès le début de la procédure, en partenariat avec les membres des familles concernées en France, ce qui évite la plupart du temps un placement des enfants au Royaume-Uni. Depuis 2010, sur l'ensemble des affaires de maltraitance visant des enfants français détectés par les services sociaux britanniques qu'a eu à traiter l'ambassade de France au Royaume-Uni, 9 mineurs (deux fratries de quatre et cinq enfants) ont été placés dans des familles d'accueil au Royaume-Uni.
