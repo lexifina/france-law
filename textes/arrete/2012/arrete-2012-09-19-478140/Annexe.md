@@ -226,9 +226,7 @@ RPA et opérateur, porcins-manipulations et soins-mise à mort
 
 |
 
-Institut de formation des métiers du secteur associatif juif - SIF, 9, rue Vauquelin, 75005 Paris
-
-|
+Institut de formation des métiers du secteur associatif juif - SIF, 9, rue Vauquelin, 75005 Paris |
 
 Opérateur, bovins, manipulations et soins, mise à mort, complément sans étourdissement
 
@@ -264,9 +262,7 @@ RPA et opérateur, porcins, manipulations et soins, mise à mort
 
 |
 
-SECURITEAM, 12, rue Nationale, 41150 Rilly-sur-Loire
-
-|
+SECURITEAM, 12, rue Nationale, 41150 Rilly-sur-Loire |
 
 RPA et opérateur, bovins/ équidés, manipulations et soins, mise à mort, complément sans étourdissement
 
@@ -370,17 +366,11 @@ Opérateur, volailles-manipulations et soins |
 
 19 mai 2014 |
 
-18 mai 2019
+18 mai 2019 |
 
-|
+Marc LE MÉZO, 5, rue du Genévrier, 84000 Avignon |
 
-Marc LE MÉZO, 5, rue du Genévrier, 84000 Avignon
-
-|
-
-Opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement
-
-|
+Opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans étourdissement |
 
 1er août 2014
 
@@ -389,3 +379,11 @@ Opérateur, ovins/ caprins-manipulations et soins-mise à mort-complément sans 
 31 juillet 2019
 
 |
+
+RC Services Formation, 23, rue Olivier-de-Serres, ZAC de la Buzenière, BP 539, 85500 Les Herbiers |
+
+RPA et opérateur, volailles, manipulations et soins, mise à mort, complément sans étourdissement |
+
+28 octobre 2014 |
+
+27 septembre 2019 |
