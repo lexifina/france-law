@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140511620
+
+- Question : [SEQ140511620](seq140511620.md) — Piste cyclable
+
+## Réponse
+
+*Transports, mer et pêche, JO du 2014-11-06, page 2498*
+
+L'article R. 110-2 du code de la route définit les espaces ouverts à la circulation publique, notamment l'aire piétonne, la bande cyclable, la chaussée, l'intersection, la piste cyclable, le stationnement, la voie verte, la zone de rencontre, la zone 30. Concernant les pistes cyclables, l'article R. 110-2 en donne la définition suivante : « chaussée exclusivement réservée aux cycles à deux ou trois roues ». Dès lors, il n'est pas possible d'autoriser des véhicules à moteur à circuler sur une piste cyclable créé. Néanmoins, il existe de nombreuses situations où le propriétaire ou le gestionnaire d'un support foncier peut autoriser les véhicules non motorisés (vélos, VAE, fauteuils roulants, trottinettes...) à circuler sur ce support foncier. C'est le cas des chemins de service bord à voie d'eau gérés le plus souvent par Voies navigables de France (VNF), des pistes forestières dont le propriétaire est l'Office national des forêts (ONF), d'anciennes voies ferrées désaffectées dont le propriétaire est Réseau ferré de France (RFF). Ces établissements publics de l'État sont encouragés à ouvrir au public pratiquant les modes actifs, en particulier le vélo, ces linéaires qui rencontrent toujours un vif succès. Des chemins privés peuvent aussi être ouverts au public. Cette ouverture est réalisée dans le cadre de conventions (conventions de superposition d'affectations par exemple) passées avec une ou plusieurs collectivités territoriales pour préciser les conditions juridiques et financières d'ouverture de ces voies au public pratiquant les modes actifs. Ces voies sont communément qualifiées de voies cyclables, terme neutre qui n'est pas défini à l'article R. 110-2 du code de la route précité et qui permet la cohabitation des vélos et des véhicules à moteur autorisés.
