@@ -204,7 +204,7 @@ L'administrateur, régisseur des formations musicales de la garde républicaine.
 
 |
 
-(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire chef d'état-major .
+(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire : "chef d'état-major".
 
 |
 
@@ -388,11 +388,11 @@ Personnel servant au sein du pôle judiciaire de la gendarmerie nationale.
 
 |
 
-Le commandant du pôle judiciaire de la gendarmerie nationale.
+L'adjoint au commandant du pôle judiciaire de la gendarmerie nationale.
 
 |
 
-Le commandant en second du pôle judiciaire de la gendarmerie nationale.
+L'officier supérieur le plus ancien dans le grade le plus élevé du pôle judiciaire de la gendarmerie nationale (1).
 
 |
 
@@ -401,6 +401,10 @@ Le directeur de l'institut de recherche criminelle de la gendarmerie nationale o
 Le chef du service technique de recherches judiciaires ou l'adjoint au chef du service technique de recherches judiciaires par suppléance.
 
 Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale.
+
+|
+
+(1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale.
 
 |
 
@@ -426,7 +430,7 @@ MEMBRES
 
 |
 
-Aéronautique, pilotes.
+Aéronautique, pilotes
 
 Aéronautique, mécaniciens cellules et moteurs.
 
