@@ -2,7 +2,7 @@
 
 La créance mentionnée au troisième alinéa du I de l'article 199 ter C du code général des impôts ne peut faire l'objet que d'une seule cession ou d'un seul nantissement, pour son montant total ou partiel.
 
-Le comptable de la direction générale des finances publiques adresse à l'établissement de crédit cessionnaire :
+Le comptable de la direction générale des finances publiques adresse à l' établissement de crédit ou à la société de financement cessionnaire :
 
 1° A réception de la notification de la cession ou du nantissement de la créance, un certificat indiquant si la créance mentionnée au premier alinéa a déjà fait ou non l'objet d'une cession ou d'un nantissement antérieur ;
 
