@@ -6,7 +6,9 @@ ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 
 LOCALISATION DE L'EMPLOI |
 
-Conseillers d'administration de l'intérieur et de l'outre-mer exerçant dans les directions et services d'administration centrale du ministère de l'intérieur et du ministère des outre-mer et dans les établissements publics relevant de la tutelle administrative des mêmes ministres les fonctions suivantes |
+Conseillers d'administration de l'intérieur et de l'outre-mer exerçant dans les directions et services d'administration centrale du ministère de l'intérieur et du ministère des outre-mer et dans les établissements publics relevant de la tutelle administrative des mêmes ministres les fonctions suivantes
+
+|
 
 Directions et services
 
@@ -495,6 +497,18 @@ Service de l'achat, des équipements et de la logistique de la sécurité intér
 |
 
 Chef du bureau de la maintenance des équipements.
+
+|
+
+30
+
+|
+
+Institut national de police scientifique.
+
+|
+
+Secrétaire général.
 
 |
 

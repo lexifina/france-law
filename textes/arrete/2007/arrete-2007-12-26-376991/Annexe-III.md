@@ -338,6 +338,22 @@ Loire-Atlantique.
 
 |
 
+59
+
+|
+
+Nord.
+
+|
+
+1
+
+|
+
+30
+
+|
+
 67
 
 |
@@ -420,9 +436,11 @@ Val-d'Oise.
 
 .
 
-CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER EXERÇANT DES FONCTIONS DE SECRÉTAIRE GÉNÉRAL
+CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
 
-dans la structure de formation de police suivante
+exercant des fonctions de secrétaire général ou autres fonctions d'encadrement ou d'expertise
+
+requérant une haute technicité et d'une importance particulière au sein des structures de formation de police suivantes
 
 |
 
@@ -430,11 +448,11 @@ Localisation de l'emploi
 
 |
 
-Nombre d'emplois
+Fonctions
 
 |
 
-Nombre de points NBI
+Points NBI
 
 |
 
@@ -442,13 +460,11 @@ Nombre de points NBI
 
 |
 
-Institut national de la formation
-
-de Clermont-Ferrand.
+Institut national de la formation de Clermont-Ferrand.
 
 |
 
-1
+Secrétaire général.
 
 |
 
@@ -460,12 +476,30 @@ de Clermont-Ferrand.
 
 |
 
-Ecole nationale supérieure de la police. |
+Ecole nationale supérieure de la police.
 
-1
+|
+
+Secrétaire général.
 
 |
 
 30
+
+|
+
+30
+
+|
+
+Ecole nationale de police de Nîmes.
+
+|
+
+Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation interrégionale au recrutement et à la formation de la zone Sud.
+
+|
+
+20
 
 |
