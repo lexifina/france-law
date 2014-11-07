@@ -454,6 +454,8 @@ Société dunkerquoise de matériaux et enrobés (SDME), avenue de la Gironde, 5
 
 Société lilloise de matériaux enrobés (SLME), Port fluvial, 59211 Santes : de 1966 à 1988.
 
+SPIE BATIGNOLLES (De 1968 à 1996), SPIE ENERTRANS (De 1993 à 2001), SPIE FERRIÈRE TUYAUTERIE (De 1996 à 2001) 70, rue Ernest-Lesaffre, 59680 Ferrière-la-Grande
+
 Basse-Normandie
 
 CEGEDUR puis TREFIMETAUX : 37 et 39, rue Georges-Landry, 14160 Dives-sur-Mer, de 1946 à 1989 ;
