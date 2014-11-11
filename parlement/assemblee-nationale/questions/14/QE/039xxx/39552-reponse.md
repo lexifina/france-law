@@ -1,0 +1,9 @@
+# Réponse à la question n° 39552
+
+- Question : [39552](39552.md) — Question n° 39552 — étudiants
+
+## Réponse
+
+*JO du 2014-11-11*
+
+Avant les modifications apportées par la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové (Alur), la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs fixait, à son article 22-2, une liste des pièces ne pouvant être exigées par le bailleur au candidat à la location. Or, cet article, dans sa version initiale, n'a pas permis d'empêcher le développement de pratiques abusives, et il n'est pas rare que, préalablement à la signature du contrat de bail, le candidat locataire se trouve contraint de fournir de nombreux documents administratifs y compris parmi ceux interdits. Ces abus entravent considérablement l'accès au logement des candidats locataires, et notamment, parmi les plus vulnérables, les étudiants. La loi n° 2014-366 du 24 mars 2014 précitée, a prévu un ensemble de mesures tendant à favoriser l'accès de tous au logement et par conséquent de celui des jeunes. S'agissant des pièces exigibles au candidat à la location, le principe prévu par l'article 22-2 de la loi du 6 juillet 1989 a été renversé. Cet article prévoit désormais que la liste limitative des pièces justificatives pouvant être exigées par le bailleur du candidat à la location, mais également de sa caution, sera définie par décret en Conseil d'État, pris après avis de la Commission nationale de concertation. Cette liste a vocation à être exhaustive. De plus, afin de rendre effective cette limitation des pièces exigibles, l'article ainsi modifié est accompagné de sanction administrative dont le montant maximum peut être de 3 000 € pour une personne physique et 15 000 € pour une personne morale. Les textes d'application relatifs à ces dispositions seront publiés d'ici la fin de l'année 2014.
