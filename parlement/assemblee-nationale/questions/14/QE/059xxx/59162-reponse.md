@@ -1,0 +1,9 @@
+# Réponse à la question n° 59162
+
+- Question : [59162](59162.md) — Question n° 59162 — Commission nationale des comptes de campagne et des financements politiques; réglementation
+
+## Réponse
+
+*JO du 2014-11-11*
+
+L'article 12 du décret n° 90-606 du 9 juillet 1990 pris pour l'application de la loi n° 90-55 du 15 janvier 1990 relative à la limitation des dépenses électorales et à la clarification du financement des activités politiques prévoit que la Commission nationale des comptes de campagne et des financements politiques conserve les informations nominatives relatives aux reçus-dons attestant des dons ou des cotisations consentis par les donateurs personnes physiques en faveur des formations politiques jusqu'au 31 décembre de la troisième année qui suit celle au cours de laquelle elle les a reçus. Le texte de cet article 12 a été en effet complété par le décret n° 2014-715 du 26 juin 2014 modifiant le décret n° 90-606 du 9 juillet 1990 précité pour tenir compte des informations supplémentaires collectées par la Commission au titre de l'article 15 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique. En revanche, la durée de trois ans mentionnée dans cet article figurait déjà dans l'ancien article 12 du décret n° 90-606 du 9 juillet 1990 dans sa rédaction issue du décret n° 92-1300 du 14 décembre 1992 modifiant le code électoral et le décret n° 90-606 du 9 juillet 1990. Elle ne constitue donc pas une innovation. La Commission nationale des comptes de campagne et des financements politiques, consultée à l'occasion de l'élaboration du décret n° 2014-715 du 26 juin 2014, n'a pas fait état d'un souhait tendant à modifier ce délai, d'autant plus qu'il correspond à la durée du droit de reprise accordé à l'administration fiscale pour l'impôt sur le revenu par l'article L. 169 du Livre des procédures fiscales.
