@@ -1,0 +1,9 @@
+# Réponse à la question n° 62362
+
+- Question : [62362](62362.md) — Question n° 62362 — élus minoritaires; prérogatives; perspectives
+
+## Réponse
+
+*JO du 2014-11-11*
+
+La loi du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral a modifié l'article L. 252 du code électoral en abaissant, de 3 500 habitants à 1 000 habitants, le seuil à partir duquel les conseillers municipaux sont élus au scrutin de liste. L'article 29 de cette même loi, issu d'un amendement de la commission des lois de l'Assemblée nationale, a modifié les articles L. 2121-22, L. 2122-7, L. 2122-7-2, L. 2122-9 et L. 2122-10 du code général des collectivités territoriales (CGCT) afin d'appliquer, en cohérence avec l'article L. 252 précité, le scrutin de liste à ces dispositions relatives à la procédure d'élection ou de désignation au sein du conseil municipal du maire et des adjoints ainsi que des membres des différentes commissions. D'autres dispositions du CGCT fixent un seuil d'application à 3 500 habitants. Cependant, contrairement aux articles précités, ces dispositions ne concernent pas l'application directe d'un mode de scrutin mais sont relatives au fonctionnement des conseils municipaux. Il ressort des discussions de l'article 29 précité de la loi du 17 mai 2013 que, pour ce motif, les articles relatifs aux droits de l'opposition, tels que l'article L. 2121-27-1 du CGCT qui prévoit un droit d'expression des élus de l'opposition dans le bulletin d'information générale de la commune ou l'article L. 2121-27 du CGCT relatif à la mise à disposition d'un local, n'ont pas été modifiés par la loi précitée. Le Gouvernement n'est cependant pas opposé à engager une réflexion sur les droits de l'opposition dans les communes de plus de 1 000 habitants et de moins 3 500 habitants en joignant à cette réflexion les associations représentatives des élus.
