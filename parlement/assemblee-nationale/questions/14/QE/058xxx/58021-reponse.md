@@ -1,0 +1,9 @@
+# Réponse à la question n° 58021
+
+- Question : [58021](58021.md) — Question n° 58021 — établissements français à l'étranger; frais de scolarité; prise en charge
+
+## Réponse
+
+*JO du 2014-11-11*
+
+L'Agence pour l'enseignement français à l'étranger (AEFE) bénéficie de deux dotations de l'Etat, l'une relative au fonctionnement du réseau (programme budgétaire 185), l'autre servant à financer les bourses scolaires sur critères sociaux pour les élèves français (programme budgétaire 151). Elle rappelle que le nombre de boursiers s'élève à 25 564 pour cette année (2013/2014 rythme Nord et 2014 rythme Sud). 21 % des élèves français scolarisés dans le réseau d'enseignement français à l'étranger sont donc boursiers (soit 1 sur 5). Une meilleure répartition de l'aide permet aujourd'hui l'entrée de nouvelles familles dans le dispositif, tout en assurant une maîtrise de la dépense : 42 % des familles boursières se voient attribuer une aide couvrant 100 % des frais supportés. Conformément aux engagements pris, l'intégralité de la dotation prévue initialement pour financer la prise en charge sera entièrement basculée sur les crédits des bourses attribuées sur critères sociaux en 2015. Parallèlement à l'octroi d'une bourse, l'AEFE invite les établissements à développer leur propre fonds de solidarité et demande aux établissements en gestion directe de permettre dans certains cas des échelonnements pour le paiement des frais de scolarité. D'une façon générale, un suivi personnalisé des situations est mis en place dans les établissements du réseau afin d'éviter que des familles soient amenées à quitter le réseau AEFE pour des raisons financières. Enfin, le ministre des affaires étrangères et du développement international a mandaté fin 2013 le député Philip Cordery et la sénatrice Claudine Lepage pour une mission sur l'étude de la limitation des frais de scolarité. Les deux parlementaires remettront leurs conclusions avant la fin de l'année 2014.
