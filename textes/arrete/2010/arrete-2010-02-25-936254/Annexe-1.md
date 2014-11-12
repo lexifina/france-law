@@ -10,6 +10,8 @@ Spécialité : .................................................................
 
 ☐ Vous êtes lauréat des épreuves de vérification des connaissances (art. L. 4111-1 [I], L. 4221-12).
 
+☐ Vous êtes lauréat de l'épreuve de vérification des connaissances prévue par la loi n° 2012-157 du 1er février 2012.
+
 ☐ Vous êtes lauréat de la procédure dite loi de 1972 .
 
 ☐ Vous êtes de nationalité extracommunautaire titulaire de diplômes communautaires (art. L. 4111-2 [I bis], L. 4221-9).

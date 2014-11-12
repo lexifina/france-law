@@ -22,7 +22,7 @@ Statut d'exercice : ............................................................
 
 I.-Description de l'activité dans la structure
 
-La structure d'exercice est-elle agréée pour la formation des internes :
+La structure d'exercice est-elle agréée pour la formation des internes, le cas échéant, dans la spécialité au titre de laquelle le candidat sollicite l'autorisation d'exercice :
 
 Oui ☐ Non ☐
 
