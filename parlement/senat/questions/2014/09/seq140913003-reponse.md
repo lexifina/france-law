@@ -1,0 +1,9 @@
+# Réponse à la question SEQ140913003
+
+- Question : [SEQ140913003](seq140913003.md) — Application de la loi relative à la consommation
+
+## Réponse
+
+*Commerce, artisanat, consommation et économie sociale et solidaire, JO du 2014-11-13, page 2546*
+
+La loi n° 2014-344 du 17 mars 2014 relative à la consommation poursuit l'objectif de rééquilibrer les pouvoirs entre consommateurs et professionnels en renforçant la protection économique du consommateur dans de nombreux secteurs de l'économie française. À ce titre, les textes d'application prévus par la loi nécessitent souvent des travaux approfondis complémentaires pouvant associer différents services de l'État, représentants des consommateurs ou des professionnels. Des décrets attendus ont été publiés au cours du dernier trimestre parmi lesquels figurent celui relatif à l'action de groupe (décret n° 2014-1081 du 24 septembre 2014 relatif à l'action de groupe en matière de consommation) ou encore celui visant à renforcer l'information du consommateur (décret n° 2014-1061 du 17 septembre 2014 relatif aux obligations d'information précontractuelle et contractuelle des consommateurs et au droit de rétractation). S'agissant du décret relatif à la résiliation infra-annuelle des contrats d'assurances, il doit faire prochainement l'objet d'une consultation publique puis être soumis, comme tout texte traitant de questions relatives au secteur de l'assurance au comité consultatif de la législation et de la réglementation financières avant d'être enfin examiné par le Conseil d'État. La mise à jour de l'échéancier de Légifrance est réalisée aussi régulièrement que possible. Des informations complémentaires relatives à l'actualisation du calendrier retenu peuvent par ailleurs être disponibles sur le portail internet du ministère de l'économie et des finances.
