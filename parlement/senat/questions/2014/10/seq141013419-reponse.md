@@ -1,0 +1,9 @@
+# Réponse à la question SEQ141013419
+
+- Question : [SEQ141013419](seq141013419.md) — Accords entre la France et le Mexique sur la pêche à Clipperton
+
+## Réponse
+
+*Affaires étrangères, JO du 2014-11-13, page 2543*
+
+Une réunion entre la France et le Mexique s'est tenue en juillet dernier afin de faire le bilan à mi-parcours, conformément à l'article 9 de l'accord franco-mexicain du 29 mars 2007 sur les activités de pêche dans les 200 milles marins entourant l'île de Clipperton. Pour mémoire, cet accord prévoit que le gouvernement français octroie, à titre gratuit, chaque année, sur demande du gouvernement du Mexique, des licences de pêche aux navires mexicains qui sont inscrits au registre de la Commission interaméricaine sur le thon tropical (CIATT), organisation régionale de pêche dont la France et le Mexique sont tous deux membres. Ces échanges ont notamment porté sur la surveillance des eaux de Clipperton, l'utilisation de dispositifs de concentration de poissons, les contreparties scientifiques prévues par l'accord, et l'évaluation des ressources halieutiques autour de Clipperton. À cette occasion, la France a proposé de s'engager sur une délivrance des licences dans un délai d'un mois (au lieu de 15 jours) et demandé à ce que le Haut-commissaire de la République en Polynésie française, lorsqu'il attribue les licences pour l'année à venir, puisse disposer des données de capture de l'année sur le point de s'achever. La partie mexicaine a accepté d'examiner toute forme de coopération permettant de dissuader les activités de pêche illicite dans les eaux de Clipperton, ces activités étant perçues comme préjudiciables aux intérêts des navires mexicains autorisés. La France et le Mexique sont convenus de commencer à travailler sur une procédure commune d'échange d'informations dès leur prochaine réunion, en marge de la session plénière annuelle de la CIATT.
