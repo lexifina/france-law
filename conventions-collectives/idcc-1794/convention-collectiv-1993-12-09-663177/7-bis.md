@@ -4,7 +4,7 @@ A. - Au plan national
 
 Prise de mandat :
 
-Lors de leur désignation (prise de mandat), les salariés amenés à exercer des fonctions liées à des activités syndicales de branche, dans le cadre des instances paritaires mentionnées à l'article 7, bénéficient d'une formation générale, dont le contenu est validé par le comité paritaire de pilotage de la GPEC, dispensée par ledit centre et axée sur les caractéristiques historiques et contemporaines de la branche des institutions de retraite complémentaire, sur le paritarisme, ainsi que sur le rappel des enjeux économiques et sociaux auxquels la branche est confrontée.
+Lors de leur désignation (prise de mandat), les salariés amenés à exercer des fonctions liées à des activités syndicales de branche, dans le cadre des instances paritaires mentionnées à l'article 7, bénéficient d'une formation générale, dont le contenu est validé par le comité paritaire de gestion du centre de formation professionnelle AGIRC-ARRCO, dispensée par ledit centre et axée sur les caractéristiques historiques et contemporaines de la branche des institutions de retraite complémentaire, sur le paritarisme, ainsi que sur le rappel des enjeux économiques et sociaux auxquels la branche est confrontée.
 
 Une telle formation, qui s'exerce sans préjudice de celle dispensée par les organisations syndicales elles-mêmes à leurs adhérents, permet au salarié nouvellement désigné de disposer des moyens d'analyse nécessaires à la compréhension de l'environnement paritaire et de ses enjeux.
 
