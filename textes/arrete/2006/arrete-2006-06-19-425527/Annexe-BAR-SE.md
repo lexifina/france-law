@@ -116,9 +116,9 @@ Certificats d'économies d'énergie
 
 Opération n° BAR-SE-04
 
-Acquisition et réglage d'organes d'équilibrage neufs
+Rééquilibrage d'une installation collective
 
-d'une installation collective de chauffage à eau chaude
+de chauffage à eau chaude du secteur résidentiel
 
 1. Secteur d'application :
 
@@ -126,31 +126,31 @@ Appartements existants équipés d'une installation collective de chauffage à e
 
 2. Dénomination :
 
-Acquisition et réglage d'organes d'équilibrage neufs d'une installation collective de chauffage à eau chaude, en vue d'assurer une température uniforme dans tous les locaux.
+Acquisition et réglage d'organes d'équilibrage neufs destinés à assurer une température uniforme dans tous les locaux.
+
+Une installation collective de chauffage à eau chaude est considérée comme équilibrée si l'écart de température entre le logement le plus chauffé et le moins chauffé d'un même bâtiment est strictement inférieur à 2 °C.
 
 3. Conditions pour la délivrance de certificats :
 
-Installation et réglage d'organes d'équilibrage neufs, en pied de colonne et/ ou au niveau des logements, effectués par un professionnel.
+Installation et réglage d'organes d'équilibrage neufs, en pied de colonne et/ou au niveau des logements, effectués par un professionnel.
 
-Une installation collective de chauffage à eau chaude est considérée comme équilibrée si l'écart de température entre le logement le plus chauffé et le moins chauffé d'un même bâtiment est strictement inférieur à 2° C.
+Afin de prouver que les organes d'équilibrage assurent une température uniforme dans tous les locaux, le professionnel fournit le tableau d'enregistrement, signé par ses soins et par le client, des températures moyennes, après l'installation de ces organes d'équilibrage.
 
-Afin de prouver que les organes d'équilibrage assurent une température uniforme dans tous les locaux, le professionnel fournit le tableau d'enregistrement signé par ses soins et par le client des températures moyennes, après l'installation de ces organes d'équilibrage.
-
-4. Durée de vie conventionnelle :
-
-Dix ans.
+4. Durée de vie conventionnelle : 10 ans.
 
 5. Montant de certificats en kWh cumac :
 
 ZONE CLIMATIQUE |
 
-MONTANT EN kWh cumac
+MONTANT EN kWh CUMAC
 
 par appartement |
 
 |
 
-NOMBRE D'APPARTEMENTS |
+NOMBRE
+
+d'appartements |
 
 H1 |
 
@@ -173,7 +173,3 @@ H3 |
 7 400
 
 |
-
-NOTA :
-
-Le Conseil d'Etat a annulé par décision n° 371413 du 14 novembre 2014 (n° ECLI:FR:CESJS:2014:371413.20141114) l'arrêté du 4 juin 2013 modifiant les fiches n° BAR-SE-04 et n° BAT-SE-03
