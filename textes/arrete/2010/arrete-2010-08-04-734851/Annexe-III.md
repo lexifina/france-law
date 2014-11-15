@@ -190,11 +190,11 @@ Garde républicaine.
 
 |
 
-Le chef d'état-major.
+Le commandant en second de la garde républicaine.
 
 |
 
-L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
+L'officier supérieur le plus ancien dans le grade le plus élevé parmi les membres présents.
 
 |
 
@@ -204,9 +204,7 @@ L'administrateur, régisseur des formations musicales de la garde républicaine.
 
 |
 
-(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire : "chef d'état-major".
-
-|
+(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire "chef d'état-major". |
 
 3. Branches communes aux deux subdivisions d'arme
 
